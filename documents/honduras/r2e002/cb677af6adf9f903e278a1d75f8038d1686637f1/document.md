@@ -1,9 +1,9 @@
 [[START OF PAGE 1]]
 
 República de Honduras
-# Visión de País 2010 - 2038 y Plan de Nación 2010- 2022
+# Visión de País 2010 – 2038 y Plan de Nación 2010- 2022
 
-Presentados para consideración del Soberano Congreso Nacional -  enero 2010
+Presentados para consideración del Soberano Congreso Nacional - enero 2010
 
 [Seleccionar fecha]
 
@@ -11,15 +11,23 @@ Presentados para consideración del Soberano Congreso Nacional -  enero 2010
 
 [[START OF PAGE 2]]
 
-'No  hay  riqueza,  no  hay  libertad  consolidada,  no  hay  prosperidad  nacional, donde no hay espíritu público; y, es imposible la existencia del espíritu público donde no hay ilustración que lo forme, dirija o sostenga'.
+“No hay riqueza, no hay libertad consolidada, no hay prosperidad nacional,
+donde no hay espíritu público; y, es imposible la existencia del espíritu público
+donde no hay ilustración que lo forme, dirija o sostenga”.
 
-'El  pueblo  donde  haya  mayor  suma  de  trabajo,  debe  tener  mayor  suma  de riqueza.  Esta  es  la  verdadera  balanza  política.  Las  naciones  que  quieran inclinar a su favor, deben planificar y aumentar los trabajos ,  únicos pesos que la  hacen  volver  a  un  lado  más  bien  que  a  otro.  Trabajemos  con  celo  y constancia.  No  recibiremos  nosotros  todos  los  frutos  de  nuestros  trabajos. Pero los recibirán nuestros descendientes, los recibirán nuestros semejantes, los recibirá la Patria donde hemos nacido.'
+“El pueblo donde haya mayor suma de trabajo, debe tener mayor suma de
+riqueza. Esta es la verdadera balanza política. Las naciones que quieran
+inclinar a su favor, deben planificar y aumentar los trabajos, únicos pesos
+que la hacen volver a un lado más bien que a otro. Trabajemos con celo y
+constancia. No recibiremos nosotros todos los frutos de nuestros trabajos.
+Pero los recibirán nuestros descendientes, los recibirán nuestros semejantes,
+los recibirá la Patria donde hemos nacido.”
 
 JOSE CECILIO DEL VALLE
 
 (Contribución del Abogado Rafael Leiva Vivas)
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 2
 
@@ -97,15 +105,20 @@ Iglesia Católica de Honduras
 
 Confraternidad Evangélica de Honduras
 
-Rigoberto Sandoval Corea Comisión para la Defensa y Promoción de la Competencia Oscar Lanza Rosales Partido Innovación y Unidad Social Demócrata (PINU)
+Rigoberto Sandoval Corea
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+Comisión para la Defensa y Promoción de la Competencia
+
+Oscar Lanza Rosales
+
+Partido Innovación y Unidad Social Demócrata (PINU)
 
 Partido Demócrata Cristiano de Honduras (PDCH)
 
@@ -143,7 +156,7 @@ FUNDEMOS
 
 También a todas las personas que se comunicaron a través de llamadas, mensajes y comentarios  a  través  de  la  página  web  www.visiondepais2010-2038.com  y  el Programa de Televisión Plan de Nación de  Canal 10,  y  con  ello  participaron  en  la adecuada  consideración  de  las  aspiraciones  de  los  hondureños  en  esta  Visión  de País.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 4
 
@@ -155,7 +168,29 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 PAGINA No.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+I. PRESENTACIÓN…………………………………………….……9
+II. LOS PRINCIPIOS ORIENTADORES DEL DESARROLLO..16
+III. LA VISION DE PAIS: CUATRO OBJETIVOS NACIONALES Y 20 METAS DE PRIORIDAD NACIONAL………………………22
+
+Objetivo 1: Una Honduras sin pobreza extrema, educada y sana, con sistemas consolidados de previsión social
+Meta 1.1: Erradicar la pobreza extrema
+Meta 1.2: Reducir a menos de 15% el porcentaje de hogares en situación de pobreza
+Meta 1.3: Elevar la escolaridad promedio a 9 años
+Meta 1.4: Alcanzar 90% de cobertura de salud en todos los niveles del sistema
+Meta 1.5: Universalizar el régimen de jubilaciones y pensiones para el 90% de los asalariados del país y 50% de los ocupados no asalariados
+
+Objetivo 2: Una Honduras que se desarrolla en democracia, con seguridad y sin violencia
+Meta 2.1: Siete procesos electorales democráticos continuos y transparentes celebrados a partir de 2009
+Meta 2.2: Reducir los niveles de criminalidad a un nivel por debajo del promedio internacional
+Meta 2.3: Reducir el Índice de Conflictividad Social a menos de 6
+Meta 2.4: Reducir a menos del 5% el índice de ocupación extralegal de tierras
+Meta 2.5 Mejorar la protección de fronteras como condición para la disuasión externa y aumento de la confianza interna
+
+Objetivo 3: Una Honduras productiva, generadora de oportunidades y empleo digno, que aprovecha de manera sostenible sus recursos y reduce la vulnerabilidad ambiental
+Meta 3.1: Reducir la tasa de desempleo abierto al 2% y la tasa de subempleo invisible al 5% de la población ocupada
+Meta 3.2: Ampliar la relación Exportaciones/PIB al 75%
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 5
 
@@ -163,17 +198,43 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 6]]
 
-al
+Meta 3.3: Elevar al 80% la tasa de participación de energía renovable en la matriz de generación eléctrica del país
+Meta 3.4: Alcanzar 400,000 hectáreas de tierras bajo riego, atendiendo el 100% de la demanda alimentaria nacional
+Meta 3.5: Elevar la tasa de represamiento y aprovechamiento hídrico al 25%
+Meta 3.6: Alcanzar 1,000,000 de hectáreas de tierras de vocación forestal en proceso de restauración ecológica y productiva accediendo al mercado internacional de bonos de carbono
+Meta 3.7: Llevar el índice Global de Riesgo Climático a un nivel superior a 50
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Objetivo 4: Un Estado moderno, transparente, responsable, eficiente y competitivo
+Meta 4.1: Mejorar la posición de Honduras en el índice de Competitividad Global a la posición 50
+Meta 4.2: Haber alcanzado una descentralización de la inversión pública del 40% hacia el nivel municipal
+Meta 4.3: Llegar a una proporción de 90% de los funcionarios públicos acogidos a un régimen estable de servicio civil que premie la competencia, capacidad y desempeño
+Meta 4.4: Desarrollar los principales procesos de atención al ciudadano en las Instituciones del Estado por medios electrónicos
+Meta 4.5 Llevar a la posición de Honduras en el Índice de Control de la Corrupción, de los indicadores de gobernabilidad del Banco Mundial al percentil 90-100.
+
+IV. PLAN DE NACIÓN 2010 – 2022: LINEAMIENTOS ESTRATEGICOS……………………………………………….28
+1. Desarrollo Sostenible de la Población……………………………………………….….31
+2. Democracia, Ciudadanía y Gobernabilidad……………………………………………..42
+3. Reducción de la Pobreza, Generación de Activos e Igualdad de Oportunidades….50
+4. Educación y Cultura como medios de emancipación social…………………..……..61
+5. Salud como fundamento para la mejora de las condiciones de vida…………..……74
+6. Seguridad ciudadana como requisito del desarrollo……………………………………81
+7. Desarrollo Regional, Recursos Naturales y Ambiente………………………………..86
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+8. Infraestructura Productiva como motor de la actividad económica………………..103
+9. Estabilidad Macroeconómica como fundamento del ahorro interno……………….114
+10. Competitividad, Imagen País y Desarrollo de Sectores Productivos……………..124
+11. Adaptación y Mitigación al Cambio Climático………………………………………..133
+V. EL PLAN DE NACION: MATRIZ DE INDICADORES DE AVANCE…….140
+VI. EL SISTEMA NACIONAL DE PLANEACION: PROYECTO DE LEY…..148
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 7
 
@@ -181,9 +242,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 8]]
 
-8
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+8
 
 [[END OF PAGE 8]]
 
@@ -191,7 +252,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ## I. PRESENTACIÓN
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno 9
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno 9
 
 [[END OF PAGE 9]]
 
@@ -203,7 +264,7 @@ Se  consideró  fundamental  en  ese  momento,  recoger  los  abordajes  técnic
 
 El día 25 de noviembre del 2009, los candidatos a la Presidencia de la República de Honduras,  el  Congreso  Nacional  y  el  Poder  Ejecutivo,  reconociendo  que  las circunstancias  actuales  del  país  exigían  de  un  compromiso  solidario  por  la  paz,  la reconciliación y la oportunidad única de encauzar nuestro futuro por la senda de la participación, el orden, la justicia y la prosperidad y atendiendo el mandato contenido en  los  artículos  329  y  245,  numeral  22,  de  la  Constitución  de  la  República, suscribieron el compromiso de iniciar, en la próxima administración gubernamental a partir  del  27  de  enero  de  2010,  un  proceso  de  desarrollo  planificado,  orientado  a concretar  una  Visión  de  País  para  el  año  2038,  implicando  el  establecimiento  de principios, objetivos, metas y lineamientos estratégicos que deberán ser alcanzadas durante los próximos siete períodos de gobierno.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 10
 
@@ -213,17 +274,17 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Los análisis y consensos  iniciados a partir de ese momento,  condujeron  al establecimiento de un marco conceptual orientado a la conformación de los siguientes instrumentos:
 
-- Una Visión de País contentiva de Principios, Objetivos Nacionales y Metas de Prioridad Nacional para el período 2010-2038;
+1. Una Visión de País contentiva de Principios, Objetivos Nacionales y Metas de Prioridad Nacional para el período 2010-2038;
 
-- Un Plan de Nación que cubre una primera fase de la Visión de País (20102022) y que se conforma de lineamientos estratégicos, objetivos e indicadores que marcarán las progresivas responsabilidades de los próximos tres gobiernos en torno a la Visión de País;
+2. Un Plan de Nación que cubre una primera fase de la Visión de País (2010-2022) y que se conforma de lineamientos estratégicos, objetivos e indicadores que marcarán las progresivas responsabilidades de los próximos tres gobiernos en torno a la Visión de País;
 
-- Una  matriz  de  58  indicadores,  que  contiene  los  criterios  cuantitativos  a alcanzar y que permiten medir el avance del cumplimiento del Plan de Nación, según cada uno de los lineamientos estratégicos que lo componen, segmentados según al grado de avance esperado al final de cada periodo de gobierno.
+3. Una matriz de 58 indicadores, que contiene los criterios cuantitativos a alcanzar y que permiten medir el avance del cumplimiento del Plan de Nación, según cada uno de los lineamientos estratégicos que lo componen, segmentados según al grado de avance esperado al final de cada periodo de gobierno.
 
-- Un  anteproyecto  de  decreto  para  la  creación  del  Sistema  Nacional  de Planeación que actúa como instrumento para la ejecución e institucionalización de la Visión de País y el Plan de Nación y que debe contar, para su debida implementación,  con  un  marco  jurídico,  una  definición  institucional  y  un esquema de funcionalidad operativa;
+4. Un anteproyecto de decreto para la creación del Sistema Nacional de Planeación que actúa como instrumento para la ejecución e institucionalización de la Visión de País y el Plan de Nación y que debe contar, para su debida implementación, con un marco jurídico, una definición institucional y un esquema de funcionalidad operativa;
 
-El diagrama que se presenta a continuación muestra los instrumentos de planificación y  las  relaciones  de  precedencia  existentes  entre  ellos.  Se  incluyen  como  parte  del esquema, los planes de Gobierno que a partir de la aprobación de la Ley, deberán estar fundamentados, en primera instancia, en el cumplimiento de las metas que se enuncian  en  el  Plan  de  Nación.  Cada  Gobierno  en  su  momento,  tendrá  un compromiso primario de gestión, de cumplimiento y de desempeño, alrededor de los grandes objetivos planteados en la Visión de País y en el Plan de Nación.
+El diagrama que se presenta a continuación muestra los instrumentos de planificación y las relaciones de precedencia existentes entre ellos. Se incluyen como parte del esquema, los planes de Gobierno que a partir de la aprobación de la Ley, deberán
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 11
 
@@ -231,11 +292,28 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 12]]
 
-Diagrama 1 . Elementos del Sistema de Planeación del Desarrollo
+estar fundamentados, en primera instancia, en el cumplimiento de las metas que se enuncian en el Plan de Nación. Cada Gobierno en su momento, tendrá un compromiso primario de gestión, de cumplimiento y de desempeño, alrededor de los grandes objetivos planteados en la Visión de País y en el Plan de Nación.
+
+Diagrama 1. Elementos del Sistema de Planeación del Desarrollo
+
+Visión de País (Diez Pilares Estratégicos, 28 años)
+Diagnóstico Situacional Rápido (DSR)
+Visión
+Declaración de Principios
+Plan de Nación (12 años)
+Lineamientos Estratégicos
+Matriz de Indicadores
+Presupuesto
+Plan de Gobierno (4 años)
+Sistema Nacional de Planificación
+Marco Jurídico
+Marco Institucional
+Sistema de Monitoreo y Evaluación
+Sistema Nacional de Integridad
 
 En  términos  de  temporalidad,  las  relaciones    se  plantean  de  acuerdo  al  siguiente diagrama:
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 12
 
@@ -243,85 +321,25 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 13]]
 
-Diagrama  2 :  Relación  Temporal  de  los  Elementos  del  Sistema  de  Planeación  del Desarrollo
+Diagrama 2: Relación Temporal de los Elementos del Sistema de Planeación del Desarrollo
 
-Visión de País (2010 ʹ 2038)
-
-Plan de Nación
-
-(2010
-
-ʹ
-
-2022)
-
-Plan de
-
-Gobierno
-
-2010-2014
-
-Plan de
-
-Gobierno
-
-2014-2018
-
-Plan de
-
-Gobierno
-
-2018-2022
-
-Plan de Nación
-
-(2022
-
-ʹ
-
-2034)
-
-Plan de
-
-Gobierno
-
-2022-2026
-
-Plan de
-
-Gobierno
-
-2026-2030
-
-Plan de
-
-Gobierno
-
-2030-2034
-
-Período de
-
-Transición
-
-a una
-
-Nueva
-
-Visión de
-
-País
-
-Plan de
-
-Gobierno
-
-(2034-2038)
+Visión de País (2010 – 2038)
+Plan de Nación (2010 – 2022)
+Plan de Gobierno 2010-2014
+Plan de Gobierno 2014-2018
+Plan de Gobierno 2018-2022
+Plan de Nación (2022 – 2034)
+Plan de Gobierno 2022-2026
+Plan de Gobierno 2026-2030
+Plan de Gobierno 2030-2034
+Período de Transición a una Nueva Visión de País
+Plan de Gobierno (2034-2038)
 
 El  Señor  Presidente  Electo  de  la  República,  Licenciado  Porfirio  Lobo  Sosa,  en  el marco del proceso de diálogo y reconciliación nacional iniciado después del proceso electoral culminado el 29 de noviembre del año en curso, reiteró la necesidad que la Visión  de  País  fuera  materializada  en  un  Plan  de  Nación,  armónico  e  incluyente, basado  en  los  esfuerzos  realizados  a  partir  del  año  1998  y  hasta  el  año  2009 inclusive,  que  como  ya  se  ha  mencionado,  estuvieron  basados  en  una  serie exhaustiva de consultas con amplios sectores de la población hondureña.
 
-Los fundamentos de la Visión de País que se recogen en este documento, reconocen que  la  Constitución  de  la  República  manda  que  el  Estado  promueva  el  desarrollo integral  del  país,  en  lo  económico  y  en  lo  social,  debiendo  estar  sujeto  a  una planificación  estratégica  que  exige  la  participación  de  los  Poderes  del  Estado  y  las organizaciones  políticas,  económicas  y  sociales,  en  una  formulación  incluyente  y participativa.
+Los fundamentos de la Visión de País que se recogen en este documento, reconocen que la Constitución de la República manda que el Estado promueva el desarrollo integral del país, en lo económico y en lo social, debiendo estar sujeto a una planificación estratégica que exige la participación de los Poderes del Estado y las
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 13
 
@@ -329,13 +347,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 14]]
 
-Asimismo, se reconoce que la materialización de la visión a mediano y largo plazo requiere que la sociedad hondureña asuma como propia una planeación contentiva de  objetivos    precisos  y  de  medios  y  mecanismos  para  alcanzarlos,  así  como  el sistema de planificación, monitoreo y evaluación de manera que se garantice que la ejecución de la Visión de País y el Plan de Nación, sean de obligatorio cumplimiento para los gobiernos sucesivos.
+organizaciones políticas, económicas y sociales, en una formulación incluyente y participativa.
+
+Asimismo, se reconoce que la materialización de la visión a mediano y largo plazo requiere que la sociedad hondureña asuma como propia una planeación contentiva de objetivos precisos y de medios y mecanismos para alcanzarlos, así como el sistema de planificación, monitoreo y evaluación de manera que se garantice que la ejecución de la Visión de País y el Plan de Nación, sean de obligatorio cumplimiento para los gobiernos sucesivos.
 
 La proyección oficial para el crecimiento de la población establece que alcanzaremos un  número  alrededor  de  los  13  millones  de  habitantes  para  el  año  2040  y  que  el proceso de transición demográfica indica que la edad promedio de la población irá aumentando, por lo que resulta impostergable iniciar ahora un proceso de consolidación económica y social que ofrezca oportunidades  a cientos de miles  de jóvenes que, de manera progresiva, se insertarán en la población económicamente activa y que consecuentemente, requerirán educación, formación profesional, oportunidades  para  el  emprendedurismo,  formación  profesional  y  expectativas  de realización  personal  en  los  próximos  años.  Es  importante  mencionar  que  la  edad promedio  de  la  población  pasará  de  19  años  en  el  2007  a  30  años  en  el  2040. Honduras será entonces, una sociedad de jóvenes adultos.
 
 En  la  búsqueda  del  camino  hacia  una  nueva  Honduras,  el  recurso  humano  de  la Nación  es  el  único  capaz  de  generar  riqueza  a  través  de    la  aplicación  de  sus conocimientos,  capacidades  y  acción  sobre  los  recursos  naturales,  en  un  sistema económico  y  social  propicio  para  el  ejercicio  pleno  de  la  libertad  e  iniciativas individuales y colectivas.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 14
 
@@ -345,7 +365,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Es  obligación  de  las  autoridades  contribuir  a  hacer  posible  que  la  población  tenga acceso a un nivel de bienestar acorde con sus expectativas de una vida digna, segura y saludable, que mejore en cada generación y para ello, es imprescindible comenzar en el presente a construir el bienestar del futuro.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 15
 
@@ -355,7 +375,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ## II. LOS PRINCIPIOS ORIENTADORES DEL DESARROLLO
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 16
 
@@ -365,14 +385,14 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 La tabla presentada a continuación contiene los principios que deben prevalecer en el diseño, concepción e implementación de las intervenciones especificas que cada Gobierno realice, en sus esfuerzos por materializar las metas establecidas en el Plan de Nación, que correspondan a cada uno de los periodos administrativos, entre 2010 y 2022. Si bien el diseño de las políticas y programas a  través  de  los  cuales,  cada  Gobierno  procure  alcanzar  las  metas  establecidas corresponde a la iniciativa de la respectiva Administración, la observancia de los principios  asegura  la  consistencia  y  armonía  de  estas  intervenciones,  con  los lineamientos estratégicos del Plan de Nación:
 
+Tabla 1: Principios Orientadores del Desarrollo
+
 PRINCIPIO | DESCRIPCIÓN
 --- | ---
 Enfoque en el Ser Humano y su Desarrollo Equitativo e Integral | Esta Visión de País se centra en la realización del ser humano, su desempeño, bienestar personal y respeto a su dignidad, como el objetivo trascendente de todo acto social, por tanto, cualquier medida de política o legal, programa o proyecto financiado con recursos nacionales o externos, deberá tener como foco principal de atención el ser humano y su desarrollo integral.
 Respeto a la Dignidad de la Persona Humana | Ninguna acción del estado minará las capacidades físicas naturales e intelectuales de los ciudadanos, que serán el eje central de todas las políticas a implementar. La dignidad y el respeto a los derechos fundamentales de las personas serán el eje de todas las políticas públicas, evitando cualquier acción que violente su libertad de pensamiento y su espacio propio para generar su desarrollo personal. El Gobierno se concentrará en generar las oportunidades para que las personas busquen su bienestar sin ser afectados en sus derechos inmanentes.
 
-Tabla 1: Principios Orientadores del Desarrollo
-
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 17
 
@@ -386,7 +406,7 @@ Subsidiariedad como política de Estado | El gobierno cumplirá con su rol de ma
 Libertad como parte del Desarrollo del Ser Humano | Honduras promoverá la autodeterminación en el desarrollo de las personas y sus asociaciones espontaneas (familia, iglesia, grupos, etc.) fomentando la libertad económica y social. El Estado fomentará la capacidad creadora de las personas, impulsando su talento innovador y creador, para iniciar su patrimonio y fortalecer el existente, de manera que se reduzca la dependencia y se garantice el bienestar individual y colectivo.
 Desarrollo Humano como un proceso Generador de Oportunidades | Entendemos el desarrollo humano como un proceso mediante el cual se ofrece a las personas mayores oportunidades, siendo las más importantes, una vida prolongada y saludable, libertad política, la garantía del pleno ejercicio de los derechos humanos, educación, respeto a sí mismo y acceso a los recursos necesarios para tener una buena calidad de vida. Creemos que el desarrollo atañe, en esencia, no a las cosas, sino a las personas; y debe estar orientado hacia la ampliación de las oportunidades para aumentar su bienestar, aumentar la integración y la solidaridad dentro de la sociedad, avanzar hacia la construcción de democracias sostenibles donde las
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 18
 
@@ -394,13 +414,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 19]]
 
-personas ejerzan una ciudadanía activa y lograr relaciones más armoniosas y provechosas con la naturaleza .
+personas ejerzan una ciudadanía activa y lograr relaciones más armoniosas y provechosas con la naturaleza.
 --- | ---
 Crecimiento Económico como un medio Generador de Desarrollo | Concebimos el crecimiento económico no como un fin en sí mismo, sino como un medio. Creemos que se requiere de un tipo de actividad económica nacional en la cual, los hondureños no solo sean el destinatario final de sus frutos, sino que además, sean el recurso más valioso. Esa doble condición implica la existencia de tres tipos de mecanismos: aquellos que ayuden a las personas a participar de manera creativa y eficiente en el quehacer productivo y a recibir por ello una adecuada retribución, aquellos que permitan una adecuada distribución de los frutos del progreso nacional, y aquellos que permitan producir sin crear desequilibrios irrecuperables entre la vida social y la vida natural.
 Democracia y Pluralismo político | Sabemos que el desarrollo también se fundamenta en un tipo particular de sistema político. La calidad de vida a la que aspiramos para la Sociedad Hondureña, solo puede ser construida en el marco de un sistema político democrático, en el cual exista un reconocimiento permanente de los conflictos entre los distintos grupos sociales y políticos, y existan también los mecanismos institucionales capaces de resolver o minimizar esos conflictos por la vía del consenso y el diálogo. En este sistema político que concebimos, las diferencias entre los ciudadanos no deben ser ocultadas ni negadas y, por el contrario, la acción estatal debe estar orientada a brindar respuestas específicas que se adapten a las necesidades de cada familia hondureña. Es pues imprescindible consolidar un sistema político para una sociedad que busca aumentar la inclusión social, económica y política, y que busca crear las mejores condiciones, para que cada hondureño sea una persona con deberes y derechos iguales a los demás.
 Participación ciudadana como | La participación ciudadana promueve la toma de decisiones y
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 19
 
@@ -416,7 +436,7 @@ Integridad y Transparencia como Fundamento de la Actuación | El estado promover
 Estabilidad Macroeconómica como Elemento Indispensable del Crecimiento | Esta Visión concibe el desarrollo a partir de un entorno estable y amigable a la inversión. Para ello promoverá el ahorro interno y externo, la estabilidad de precios, la progresividad fiscal y el orden en la administración de las finanzas publicas.
 Desarrollo Sostenible en Armonía con la Naturaleza | El Estado y sus autoridades se comprometerán en el impulso de un proceso sistematizado para alcanzar el bienestar humano incluyente y equitativo, aplicando acciones de crecimiento económico sin generar degradación del ambiente.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 20
 
@@ -426,10 +446,10 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Descentralización de la gestión y decisiones relacionadas al Desarrollo | Esta Visión se sustenta en el desarrollo territorial y por tanto promoverá la autogestión y el desarrollo regional y municipal. Para ello dará impulso a programas de mejora en las finanzas municipales, fomentará iniciativas ciudadanas que promuevan la participación y la auditoría social y procurará el acercamiento entre los ciudadanos y sus autoridades locales.
 --- | ---
-Gestión compartida Público- Privada del Desarrollo | El Estado promoverá las alianzas publico-privadas en la prestación de servicios, con el fin de facilitar el acceso de los mismos a la población, con ello se garantizará la eficiencia y transparencia en los procesos de gestión, así como la modernización de los mismos.
+Gestión compartida Público-Privada del Desarrollo | El Estado promoverá las alianzas publico-privadas en la prestación de servicios, con el fin de facilitar el acceso de los mismos a la población, con ello se garantizará la eficiencia y transparencia en los procesos de gestión, así como la modernización de los mismos.
 Planeación para el Desarrollo | El Gobierno basará su accionar en un sistema de planeación estratégica conformado de manera coherente y eficiente, con apego a los principios de liderazgo y apropiación ciudadana, gestión basada en resultados y responsabilidad compartida con el resto de los poderes del estado.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 21
 
@@ -439,7 +459,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ## III. VISION DE PAIS: CUATRO OBJETIVOS NACIONALES Y 22 METAS DE PRIORIDAD NACIONAL
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 22
 
@@ -453,7 +473,7 @@ Objetivos  y  metas  dibujan  así  la  Imagen  País  a  que  aspiramos  para  
 
 Los cuatro objetivos nacionales se presentan a continuación:
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 23
 
@@ -461,63 +481,23 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 24]]
 
-Diagrama 3 : Objetivos Nacionales de la Visión de País
+Diagrama 3: Objetivos Nacionales de la Visión de País
 
 1
-
-Una Honduras sin
-
-pobreza extrema
-
-educada y sana,
-
-con sistemas
-
-consolidados de
-
-previsión social
+Una Honduras sin pobreza extrema educada y sana, con sistemas consolidados de previsión social
 
 2
-
-Una Honduras que
-
-se desarrolla en
-
-democracia, con
-
-seguridad y sin
-
-violencia
-
-4
-
-Un Estado moderno,
-
-transparente,
-
-responsable, eficiente
-
-y  competitivo
+Una Honduras que se desarrolla en democracia, con seguridad y sin violencia
 
 3
+Una Honduras productiva, generadora de oportunidades y empleo, que aprovecha de manera sostenible sus recursos y reduce la vulnerabilidad ambiental
 
-Una Honduras
-
-productiva , generadora
-
-de oportunidades y
-
-empleo, que aprovecha
-
-de manera sostenible
-
-sus recursos y reduce la
-
-vulnerabilidad ambiental
+4
+Un Estado moderno, transparente, responsable, eficiente y competitivo
 
 El diagrama siguiente enuncia el escenario esperado para cada objetivo nacional al año 2038:
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 24
 
@@ -525,147 +505,21 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 25]]
 
-Diagrama 4 : Descripción de los Objetivos de la Visión de País
+Diagrama 4: Descripción de los Objetivos de la Visión de País
 
-•
+Una Honduras sin pobreza extrema, educada y sana, con sistemas consolidados de previsión social
+• Escenario: En el año 2038, Honduras tendrá una sociedad cohesionada e incluyente que ha erradicado la pobreza extrema y reducido la pobreza hasta un 10%. Se habrán reducido los niveles de desigualdad en materia de ingresos y se habrán creado los medios para que todos los hondureños, sobre todos los de menores ingresos, tengan acceso igualitario a servicios de calidad en materia de educación, salud, formación profesional, seguridad social y servicios básicos. Honduras contará con un modelo de previsión social consolidado, protegiendo a los grupos más vulnerables del país.
 
-Escenario: En el año 2038, Honduras tendrá una sociedad cohesionada e
+Una Honduras que se desarrolla en democracia, con seguridad y sin violencia
+• Escenario: En el año 2038, Honduras seguirá creciendo en democracia representativa y participativa, haciendo uso del plesbicito y referéndum como formas de participación ciudadana en los temas más trascendentes del país. Su población contará con el reconocimiento efectivo de sus derechos y tendrá acceso a un sistema de justicia integrado, efectivo y expedito y a un entorno seguro con niveles reducidos de criminalidad. Se habrá consolidado el sistema de derechos de propiedad y todos los ocupantes de tierras tendrán un título que los acredite como dueños. El Estado contará con cuerpos de seguridad modernos apoyados con sistemas de inteligencia y de integridad, con instituciones sólidas y coordinadas. Las Fuerzas Armadas serán garantes de la Constitución y de la Defensa de nuestra Soberanía. El mantenimiento y la defensa de la libertad de expresión, las libertades individuales y las libertades económicas, será tarea fundamental del Estado.
 
-incluyente que ha erradicado la pobreza extrema y reducido la pobreza
+Una Honduras productiva, generadora de oportunidades y empleos dignos, que aprovecha de manera sostenible sus recursos y reduce la vulnerabilidad ambiental
+• Escenario: En el año 2038, Honduras habrá consolidado el Desarrollo Regional como su modelo de gestión para el crecimiento económico y social bajo el marco de un proceso de desarrollo ambientalmente sostenible. Los planes de desarrollo territorial en cada región, se habrán constituido en el instrumento regulador y normativo para la inversión productiva, el desarrollo social y la inversión en infraestructura, existiendo armonías de intervención con la institucionalidad del Gobierno Central y los municipios en cada región. La vulnerabilidad física y ambiental se habrán reducido en un 75%. Honduras será el país líder centroamericano en materia de servicios de logistica y transporte, maquila, turismo y aprovechamiento sostenible de recursos naturales, generando energía, alimentos, minerales y derivados del sector forestal, como ningún otro país de la región. El emprendedurismo, la productividad y la calidad productiva serán parte del perfil cultural del hondureño promedio
 
-hasta un 10%. Se habrán reducido los niveles de desigualdad en materia
+Un Estado moderno, responsable, eficiente y competitivo
+• Escenario: Para el año 2038, Honduras tendrá un Gobierno moderno, normador y eficiente, descentralizado a nivel municipal, evolucionado en términos de facilitación administrativa y consolidado en términos de seguridad jurídica para ciudadanos, empresas e inversionistas de forma transparente. El Servicio civil se habrá perfeccionado y los funcionarios públicos habrán alcanzado un alto nivel de profesionalización. El país tendrá una imagen internacional consolidada luego del desarrollo de un programa externo e interno de imagen país y de la transformación del cuerpo diplomático y consular en el primer frente promotor de exportaciones, turismo y oportunidades de inversión en Honduras.
 
-de ingresos y se habrán creado los medios para que todos los hondureños,
-
-sobre todos los de menores ingresos, tengan acceso igualitario a servicios
-
-de calidad en materia de educación, salud, formación profesional,
-
-seguridad social y servicios básicos. Honduras contará con un modelo de
-
-previsión social consolidado, protegiendo a los grupos más vulnerables del
-
-país.
-
-Una Honduras sin pobreza extrema,
-
-educada y sana, con sistemas
-
-consolidados de previsión social
-
-•
-
-Escenario
-
-: En el año 2038, Honduras seguirá creciendo en democracia
-
-representativa y participativa, haciendo uso del plesbicito y referéndum
-
-como formas de participación ciudadana en los temas más trascendentes
-
-del país. Su población contará con el reconocimiento efectivo de sus
-
-derechos y tendrá acceso a un sistema de justicia integrado, efectivo y
-
-expedito y a un entorno seguro con niveles reducidos de criminalidad. Se
-
-habrá consolidado el sistema de derechos de propiedad y todos los
-
-ocupantes de tierras tendrán un título que los acredite como dueños. El
-
-Estado contará con cuerpos de seguridad modernos apoyados con
-
-sistemas de inteligencia y de integridad, con instituciones sólidas y
-
-coordinadas. Las Fuerzas Armadas serán garantes de la Constitución y de
-
-la Defensa de nuestra Soberanía. El mantenimiento y la defensa de la
-
-libertad de expresión, las libertades individuales y las libertades
-
-económicas, será tarea fundamental del Estado.
-
-Una Honduras que se desarrolla en
-
-democracia, con  seguridad y sin
-
-violencia
-
-•
-
-Escenario
-
-: En el año 2038, Honduras habrá consolidado el Desarrollo
-
-Regional como su modelo de gestión para el crecimiento económico y
-
-social bajo el marco de un proceso de desarrollo ambientalmente
-
-sostenible. Los planes de desarrollo territorial en cada región, se habrán
-
-constituido en el instrumento regulador y normativo para la inversión
-
-productiva, el desarrollo social y la inversión en infraestructura,
-
-existiendo armonías de intervención con la institucionalidad del Gobierno
-
-Central y los municipios en cada región. La vulnerabilidad física y
-
-ambiental se habrán reducido en un 75%.  Honduras será el país líder
-
-centroamericano en materia de servicios de logistica y transporte,
-
-maquila, turismo y aprovechamiento sostenible de recursos naturales,
-
-generando energía, alimentos, minerales y derivados del sector forestal,
-
-como ningún otro país de la región. El emprendedurismo, la
-
-productividad y la calidad productiva serán parte del perfil cultural del
-
-hondureño promedio
-
-Una Honduras productiva,
-
-generadora de oportunidades y
-
-empleos dignos, que aprovecha de
-
-manera sostenible sus recursos y
-
-reduce la vulnerabilidad ambiental
-
-•
-
-Escenario
-
-: Para el año 2038, Honduras tendrá un Gobierno
-
-moderno, normador y eficiente, descentralizado a nivel municipal,
-
-evolucionado en términos de facilitación administrativa y
-
-consolidado en términos de seguridad jurídica para ciudadanos,
-
-empresas e inversionistas de forma transparente. El Servicio civil
-
-se habrá perfeccionado y los funcionarios públicos habrán
-
-alcanzado un alto nivel de profesionalización. El país tendrá una
-
-imagen internacional consolidada luego del desarrollo de un
-
-programa externo e interno de imagen país y de la transformación
-
-del cuerpo diplomático y consular en el primer frente promotor de
-
-exportaciones, turismo y oportunidades de inversión en Honduras.
-
-Un Estado moderno, responsable,
-
-eficiente y  competitivo
-
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 25
 
@@ -673,61 +527,61 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 26]]
 
-Diagrama 5 : 22 Metas de Prioridad Nacional
-
-- Meta 1.1 : Erradicar la Pobreza Extrema
-
-- Meta 1.2 : Reducir a menos del 15% el porcentaje de Hogares en situación de pobreza
-
-- Meta 1.3 : Elevar la escolaridad promedio a 9 años
-
-- Meta1.4 : Alcanzar 95% de cobertura de salud en todos los niveles del sistema
-
-- Meta 1.5 : Universalizar el régimen de jubilación y pensión para el 90% de los asalariados en Honduras
-
-- Meta 2.1 : Siete procesos democráticos contínuos y transparentes celebrados desde el 2009
-
-- Meta 2.2 : Reducir  la tasa de homicidios por cada 100,000 habitantes a u nivel inferior al promedio internacional
-
-- Meta 2.3 : Reducir el Indice de Conflictividad Social a menos de 6.
-
-- Meta 2.4 : Reducir a menos del 5% el índice de ocupación extralegal de tierras
-
-- Meta 2.5 : Mejorar la proteccion de fronteras como condicion para la disuasion externa y aumento de la confianza interna
-
-- Meta 3.1 : Reducir la tasa de desempleo abierto al 2% y la tasa de sub-empleo invisible al 5% de la población ocupada
-
-- Meta 3.2 : Elevar las exportaciones de Bienes y Servicios  al 75% del PIB
-
-- Meta 3.3 : Elevar al 80% la tasa de participación de energía renovable en la matríz de generación eléctrica del país
-
-- Meta 3.4 : Alcanzar 400,000 hectáreas de tierras agrícola con sistemas de riego satisfaciendo 100% de seguridad alimentaria
-
-- Meta 3.5 : Elevar la Tasa de Aprovechamiento hídrico  de 5 a 25%
-
-- Meta 3.6 : 1.5 millones de hectáreas de tierras de vocación forestal en proceso de restauración ecológica y 500,000 hectareas accediendo al mercado mundial de bonos de carbono
-
-- Meta 3.7 : Llevar la calificación de Honduras en el Indice Global de Riesgo Climático a un nivel superior a 50.
-
-- Meta 4. 1 : Mejorar la calificacion de Honduras bajo el Indice de Competitividad Global  a 5.5
-
-- Meta 4.2 : Alcanzar un nivel de descentralizacion de la Inversión Pública a nivel municipal en un 40%
-
-- Meta 4.3 : Llegar a una proporción de 90% de los funcionarios públicos acogidos a un régimen estable de servicio civil que premie la competencia, capacidad y desempeño.
-
-- Meta 4.4 : Desarrollar los principales procesos de atencion al ciudadano en las Instituciones del Estado por medios electronicos
-
-- Meta 4.5 : Situar a Honduras en el tramo 90-100 de la escala percentil del Indice de Control de la Corrupción del BM.
+Diagrama 5: 22 Metas de Prioridad Nacional
 
 Una Honduras sin pobreza extrema, educada y sana, con sistemas consolidados de previsión social
 
-Una Honduras que se desarrolla en democracia, con  seguridad y sin violencia
+• Meta 1.1: Erradicar la Pobreza Extrema
+
+• Meta 1.2: Reducir a menos del 15% el porcentaje de Hogares en situación de pobreza
+
+• Meta 1.3: Elevar la escolaridad promedio a 9 años
+
+• Meta1.4: Alcanzar 95% de cobertura de salud en todos los niveles del sistema
+
+• Meta 1.5: Universalizar el régimen de jubilación y pensión para el 90% de los asalariados en Honduras
+
+Una Honduras que se desarrolla en democracia, con seguridad y sin violencia
+
+• Meta 2.1: Siete procesos democráticos contínuos y transparentes celebrados desde el 2009
+
+• Meta 2.2: Reducir la tasa de homicidios por cada 100,000 habitantes a u nivel inferior al promedio internacional
+
+• Meta 2.3: Reducir el Indice de Conflictividad Social a menos de 6.
+
+• Meta 2.4: Reducir a menos del 5% el índice de ocupación extralegal de tierras
+
+• Meta 2.5: Mejorar la proteccion de fronteras como condicion para la disuasion externa y aumento de la confianza interna
 
 Una Honduras productiva , generadora de oportunidades y empleos dignos, que aprovecha de manera sostenible sus recursos y reduce la vulnerabilidad ambiental
 
-Un Estado moderno, responsable, eficiente y  competitivo En términos conceptuales, los objetivos nacionales y las metas de prioridad nacional (desde  el  punto  de  vista  de  la  Visión  de  País),  se  concretarán  bajo  la  progresiva ejecución  de  los  Planes  de  Nación  (2010-2022  y  2022-2034)  y  su  comportamiento será  monitoreado  mediante  el  seguimiento  de  58  indicadores  sectoriales,  que marcarán las obligaciones básicas de gestión gubernamental para cada administración pública a partir del año 2010. Siete gobiernos sucesivos, tendrán bajo su  responsabilidad,  la  transición  del  país  desde  los  momentos  actuales,  hacia  la Honduras posible, en el año 2038.
+• Meta 3.1: Reducir la tasa de desempleo abierto al 2% y la tasa de sub-empleo invisible al 5% de la población ocupada
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+• Meta 3.2: Elevar las exportaciones de Bienes y Servicios al 75% del PIB
+
+• Meta 3.3: Elevar al 80% la tasa de participación de energía renovable en la matríz de generación eléctrica del país
+
+• Meta 3.4: Alcanzar 400,000 hectáreas de tierras agrícola con sistemas de riego satisfaciendo 100% de seguridad alimentaria
+
+• Meta 3.5: Elevar la Tasa de Aprovechamiento hídrico de 5 a 25%
+
+• Meta 3.6: 1.5 millones de hectáreas de tierras de vocación forestal en proceso de restauración ecológica y 500,000 hectareas accediendo al mercado mundial de bonos de carbono
+
+• Meta 3.7: Llevar la calificación de Honduras en el Indice Global de Riesgo Climático a un nivel superior a 50.
+
+Un Estado moderno, responsable, eficiente y competitivo
+
+• Meta 4. 1: Mejorar la calificacion de Honduras bajo el Indice de Competitividad Global a 5.5
+
+• Meta 4.2: Alcanzar un nivel de descentralizacion de la Inversión Pública a nivel municipal en un 40%
+
+• Meta 4.3: Llegar a una proporción de 90% de los funcionarios públicos acogidos a un régimen estable de servicio civil que premie la competencia, capacidad y desempeño.
+
+• Meta 4.4: Desarrollar los principales procesos de atencion al ciudadano en las Instituciones del Estado por medios electronicos
+
+• Meta 4.5: Situar a Honduras en el tramo 90-100 de la escala percentil del Indice de Control de la Corrupción del BM.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 26
 
@@ -735,7 +589,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 27]]
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+En términos conceptuales, los objetivos nacionales y las metas de prioridad nacional (desde el punto de vista de la Visión de País), se concretarán bajo la progresiva ejecución de los Planes de Nación (2010-2022 y 2022-2034) y su comportamiento será monitoreado mediante el seguimiento de 58 indicadores sectoriales, que marcarán las obligaciones básicas de gestión gubernamental para cada administración pública a partir del año 2010. Siete gobiernos sucesivos, tendrán bajo su responsabilidad, la transición del país desde los momentos actuales, hacia la Honduras posible, en el año 2038.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 27
 
@@ -745,7 +601,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ## IV. PLAN DE NACION: LINEAMIENTOS ESTRATEGICOS
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 28
 
@@ -755,9 +611,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Once  lineamientos  estratégicos  han  sido  identificados  para  conformar  el  Plan  de Nación. Cada lineamiento estratégico es descrito en función de su situación actual, así  como    presentando  su  evolución  esperada  durante  la  ejecución  del  Plan  de Nación (2010-2022), y la tendencia indicativa que sirva para orientar la formulación y gestión del Plan de Gobierno de las sucesivas administraciones, hasta el momento en que se deberá formular una nueva Visión de País.
 
-Entre  los  elementos  del  Plan  de  Nación  se  hará  referencia  a  cincuenta  y  ocho indicadores sectoriales vinculados con cada uno de los 11 lineamientos estratégicos. Los indicadores sectoriales, tendrán la condición de 'indicadores de avance' incluyendo el comportamiento esperado para cada período de gobierno.
+Entre los elementos del Plan de Nación se hará referencia a cincuenta y ocho indicadores sectoriales vinculados con cada uno de los 11 lineamientos estratégicos. Los indicadores sectoriales, tendrán la condición de “indicadores de avance” incluyendo el comportamiento esperado para cada período de gobierno.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 29
 
@@ -765,7 +621,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 30]]
 
-Diagrama 6 : Lineamientos Estratégicos del Plan de Nación
+Diagrama 6: Lineamientos Estratégicos del Plan de Nación
 
 Desarrollo Sostenible de la Población
 
@@ -793,7 +649,7 @@ Adaptacion y Mitigacion al Cambio Climatico
 
 Estos lineamientos estratégicos se describen en los capítulos siguientes.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 30
 
@@ -805,7 +661,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 1
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 31
 
@@ -821,9 +677,9 @@ Según  las  proyecciones  hechas  por  el  Instituto  Nacional  de  Estadístic
 
 Somos  además,  un  país  joven.  Según  recientes  datos  del  INE,  un  57.3%  de  la población  urbana  en  Honduras  es  menor  de  25  años.    El  74.4%  de  los  jóvenes urbanos entre los 10 y los 18 años estudia solamente; un 9.3% solamente trabaja; el 6.3% estudia y trabaja; un 10.3% ni trabaja ni estudia.
 
-La transición demográfica tiene relevancia particular porque contribuye a delinear la arquitectura  de  la  nación  a  largo  plazo.  La  población  de  Honduras  crecerá  hasta alcanzar  12.9  millones  de  habitantes  en  el  2040,  con  una  composición  estable  de 51% de mujeres y 49% de hombres. Eso implica un crecimiento del Producto Interno Bruto (PIB) anual de 4.0% como mínimo, para tener un incremento real del PIB per cápita de alrededor de 2%, sobre la tasa de crecimiento promedio de la población por año en ese período. Si queremos duplicar el PIB per cápita y reducir al mínimo la tasa de  desempleo,  deberemos  crecer  al  7%  anual  durante  los  próximos  20  años  y/o reducir drásticamente la tasa promedio anual de crecimiento de la población. La Tasa Global de Fecundidad (TGF) se proyecta a un promedio anual para el período 20092040  de  2.7,  superior  a  las  tasas  de  fecundidad  global  de  otras  sociedades  de América Latina y el doble del nivel que caracteriza a las sociedades desarrolladas. La tasa promedio de crecimiento de la población apenas para el año 2030 se acercará a las  cifras  que  la  ONU  considera  deseable  alcanzar  en  el  2010  para  estabilizar  la población mundial en relación con los recursos básicos, como alimentos y agua.
+La transición demográfica tiene relevancia particular porque contribuye a delinear la arquitectura de la nación a largo plazo. La población de Honduras crecerá hasta alcanzar 12.9 millones de habitantes en el 2040, con una composición estable de 51% de mujeres y 49% de hombres. Eso implica un crecimiento del Producto Interno Bruto (PIB) anual de 4.0% como mínimo, para tener un incremento real del PIB per cápita de alrededor de 2%, sobre la tasa de crecimiento promedio de la población por año en ese período. Si queremos duplicar el PIB per cápita y reducir al mínimo la tasa
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 32
 
@@ -831,13 +687,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 33]]
 
-El  futuro  de  Honduras  está  inexorablemente vinculado con su destino demográfico. Hacia  el  2015  Honduras  será  ya  una  sociedad  plenamente  urbana,  con  todos  los cambios  culturales  que  eso  implica;  en  el  2030  esta  población  urbana  se  habrá duplicado en relación con el 2009.
+de desempleo, deberemos crecer al 7% anual durante los próximos 20 años y/o reducir drásticamente la tasa promedio anual de crecimiento de la población. La Tasa Global de Fecundidad (TGF) se proyecta a un promedio anual para el período 2009-2040 de 2.7, superior a las tasas de fecundidad global de otras sociedades de América Latina y el doble del nivel que caracteriza a las sociedades desarrolladas. La tasa promedio de crecimiento de la población apenas para el año 2030 se acercará a las cifras que la ONU considera deseable alcanzar en el 2010 para estabilizar la población mundial en relación con los recursos básicos, como alimentos y agua.
 
-Debido  a  este  proceso  de  urbanización,  solo  para  mantener  los  niveles  actuales, aunque insatisfactorios, de dotación de infraestructura y servicios urbanos, Honduras deberá duplicar en sus principales ciudades lo siguiente: 1. Servicios de agua potable por tubería, 2. Red de comunicación terrestre, 3. Redes de telefonía y telecomunicaciones,  4.  Escuelas  primarias,  5.  Centros  de  salud,  6.  Redes  de alcantarillado, 7. Instalaciones para alumbrado eléctrico.
+El futuro de Honduras está inexorablemente vinculado con su destino demográfico. Hacia el 2015 Honduras será ya una sociedad plenamente urbana, con todos los cambios culturales que eso implica; en el 2030 esta población urbana se habrá duplicado en relación con el 2009.
 
-La tasa de mortalidad infantil descenderá, pero durante varios años seguirá siendo una  de  las  más  altas  de  América  Latina.  Recién  en  el  2030  la  tasa  de  mortalidad infantil alcanzará a la que ahora tienen Costa Rica, Argentina o Chile y todavía será el doble de la que hoy tienen los países más avanzados. La esperanza de vida al nacer aumentará en 8 años  y antes del  2030  alcanzará  las  cifras  que  hoy  tienen  países como  Costa  Rica,  Argentina  y  Chile.  Ese  crecimiento  de  la  esperanza  de  vida descargará  enormes  demandas  sobre  los  sistemas  de  seguridad  social  y  toda  la infraestructura y servicios para la tercera edad.
+Debido a este proceso de urbanización, solo para mantener los niveles actuales, aunque insatisfactorios, de dotación de infraestructura y servicios urbanos, Honduras deberá duplicar en sus principales ciudades lo siguiente: 1. Servicios de agua potable por tubería, 2. Red de comunicación terrestre, 3. Redes de telefonía y telecomunicaciones, 4. Escuelas primarias, 5. Centros de salud, 6. Redes de alcantarillado, 7. Instalaciones para alumbrado eléctrico.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+La tasa de mortalidad infantil descenderá, pero durante varios años seguirá siendo una de las más altas de América Latina. Recién en el 2030 la tasa de mortalidad infantil alcanzará a la que ahora tienen Costa Rica, Argentina o Chile y todavía será el doble de la que hoy tienen los países más avanzados. La esperanza de vida al nacer aumentará en 8 años y antes del 2030 alcanzará las cifras que hoy tienen países como Costa Rica, Argentina y Chile. Ese crecimiento de la esperanza de vida
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 33
 
@@ -845,13 +703,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 34]]
 
-La población de 0 a 14 años descenderá al 29.4% en el 2030 como consecuencia de la  disminución  de  la  fecundidad.  El  número  de  niños  y  adolescentes  en  edades escolares (6 a 14 años) disminuirá. Este viraje en el patrón de crecimiento implica una paulatina disminución en la demanda de educación básica y media en los años por venir, lo que permite poner más atención al tema de la calidad de la educación. La población de 15 a 64 años pasará a  representar un 64.1% en el 2030, lo que implica una  enorme  oportunidad  y  un  gran  reto,  por  el  crecimiento  de  la  Población Económicamente Activa.
+descargará enormes demandas sobre los sistemas de seguridad social y toda la infraestructura y servicios para la tercera edad.
+
+La población de 0 a 14 años descenderá al 29.4% en el 2030 como consecuencia de la disminución de la fecundidad. El número de niños y adolescentes en edades escolares (6 a 14 años) disminuirá. Este viraje en el patrón de crecimiento implica una paulatina disminución en la demanda de educación básica y media en los años por venir, lo que permite poner más atención al tema de la calidad de la educación. La población de 15 a 64 años pasará a representar un 64.1% en el 2030, lo que implica una enorme oportunidad y un gran reto, por el crecimiento de la Población Económicamente Activa.
 
 Se trata de aprovechar una fuerza laboral muy significativa incrementando el empleo anualmente por lo menos en 10% más que el crecimiento del PIB.
 
-Los mayores de 65 años también aumentarán su participación en la población total, pasando al 6.5% del total en el 2030, lo que implica un crecimiento poco significativo en  términos  absolutos,  pero  más  de  50%  en  términos  relativos.  Ese  incremento implica  una  demanda  duplicada  de  servicios  para  la  tercera  edad.  La  tasa  de dependencia  demográfica,  gracias  a  los  cambios  en  la  evolución  de  la  población, disminuirá  espectacularmente  pasando  a  56%,  lo  que  implica  que  Honduras,  si resolviese  los  problemas  de  empleo  e  ingreso  de  su  Población  Económicamente Activa (PEA), no tendría los problemas que enfrentarán otras sociedades amenazadas por la reducción de la PEA y el aumento de la población dependiente. En cuanto a la edad promedio, ésta pasará de 19 años a 30 en el 2040. Honduras tendrá una sociedad de jóvenes adultos.
+Los mayores de 65 años también aumentarán su participación en la población total, pasando al 6.5% del total en el 2030, lo que implica un crecimiento poco significativo en términos absolutos, pero más de 50% en términos relativos. Ese incremento implica una demanda duplicada de servicios para la tercera edad. La tasa de dependencia demográfica, gracias a los cambios en la evolución de la población, disminuirá espectacularmente pasando a 56%, lo que implica que Honduras, si resolviese los problemas de empleo e ingreso de su Población Económicamente Activa (PEA), no tendría los problemas que enfrentarán otras sociedades amenazadas por la reducción de la PEA y el aumento de la población dependiente. En cuanto a la edad promedio, ésta pasará de 19 años a 30 en el 2040. Honduras tendrá una sociedad de jóvenes adultos.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 34
 
@@ -859,19 +719,21 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 35]]
 
-Entre  las  razones  primordiales  por  las  cuales  la  población  es  prioridad  estratégica, están: 1) Honduras vive una transición demográfica; la mayoría de su población es joven y, por tanto, se encuentra en la edad plena para la productividad y el desarrollo de  sus  capacidades  y  potencialidades.  Honduras  debe  aprovechar  ese  'bono'  o activo demográfico que representa la juventud de su población en la actualidad. 2) Se necesita eliminar los problemas sociales que representan un verdadero riesgo para su población;  la  violencia,  el  escaso  acceso  a  la  salud  y  a  la  educación,  así  como  la exclusión  de  las  oportunidades  políticas,  sociales  y  económicas  para  la  población joven. 3) Honduras debe desarrollar las capacidades y potencialidades de la niñez, la adolescencia  y  la  juventud  para  que  el  país  enfrente  los  principales  retos  del desarrollo en un contexto globalizado.
+Entre las razones primordiales por las cuales la población es prioridad estratégica, están: 1) Honduras vive una transición demográfica; la mayoría de su población es joven y, por tanto, se encuentra en la edad plena para la productividad y el desarrollo de sus capacidades y potencialidades. Honduras debe aprovechar ese “bono” o activo demográfico que representa la juventud de su población en la actualidad. 2) Se necesita eliminar los problemas sociales que representan un verdadero riesgo para su población; la violencia, el escaso acceso a la salud y a la educación, así como la exclusión de las oportunidades políticas, sociales y económicas para la población joven. 3) Honduras debe desarrollar las capacidades y potencialidades de la niñez, la adolescencia y la juventud para que el país enfrente los principales retos del desarrollo en un contexto globalizado.
 
 Por otro lado, los impactos de la alta migración en lo político-social son devastadores. Genera vacíos personales y familiares, deteriora y vulnera el capital humano y social en las comunidades, dejando a veces sin sustento los procesos de descentralización y desarrollo local. Afecta la disponibilidad de mano de obra productiva y con los flujos periódicos de remesas, termina promoviendo el ocio improductivo en gran cantidad de comunidades  y  municipios.  En  el  plano  cultural,  el  migrante  se  ve  enfrentado  a valores de sociedades totalmente distintas a la de origen.
 
 El censo nacional de población y vivienda 2001 establece la existencia de alrededor de  28,000  caseríos  a  nivel  nacional,  con  una  estructura  de  población  que  se distribuye en atención a los siguientes rangos:
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 35
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+Cuadro 1: Caseríos y Población, según número de habitantes
 
 RANGO | CASERIOS | POBLACION ACUMULADA | REPRESENTATIVIDA EN FUNCION DE NUMERO DE CASERIOS (%) | REPRESENTATIVIDAD EN FUNCION DE POBLACION ACUMULADA (%)
 --- | --- | --- | --- | ---
@@ -891,17 +753,15 @@ RANGO | CASERIOS | POBLACION ACUMULADA | REPRESENTATIVIDA EN FUNCION DE NUMERO D
 > 500,000 | 1 | 765,675 | 0.0036 | 12.5998
 TOTALES | 27,969 | 6,076,885 | 100.0000 | 100.0000
 
-Cuadro 1 : Caseríos y Población, según número de habitantes
-
 Fuente: Censo 2001
 
 El análisis de la distribución de la población en el territorio deriva en las siguientes conclusiones:
 
-- 51% del total de caseríos del país (14,234) tienen menos de 50 habitantes
+a. 51% del total de caseríos del país (14,234) tienen menos de 50 habitantes
 
 Puntos en azul representan caseríos con menos de 50 habitantes
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 36
 
@@ -909,15 +769,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 37]]
 
-- Existe  un  rango  importantísimo  de  concentración  de  población  (alrededor  de 2,100,000 personas) que viven en 7,801 caseríos con tamaños entre 100 y 500 habitantes
+b. Existe un rango importantísimo de concentración de población (alrededor de 2,100,000 personas) que viven en 7,801 caseríos con tamaños entre 100 y 500 habitantes
 
-- Existen  57  asentamientos  humanos  con  población  entre  5,000  y  100,000 habitantes que reúnen alrededor de 1,250,000 habitantes, alrededor del 16.5% de la población total.
+c. Existen 57 asentamientos humanos con población entre 5,000 y 100,000 habitantes que reúnen alrededor de 1,250,000 habitantes, alrededor del 16.5% de la población total.
 
-- Cuatro  asentamientos  humanos  de  más  de  100,000  habitantes  (La  Ceiba, Choloma, San Pedro Sula y Distrito Central) que reúnen alrededor de 1,425,000 habitantes (un 23.5% de la población total)
+d. Cuatro asentamientos humanos de más de 100,000 habitantes (La Ceiba, Choloma, San Pedro Sula y Distrito Central) que reúnen alrededor de 1,425,000 habitantes (un 23.5% de la población total)
 
-- Basados  en  que  se  asume  que  una  población  de  más  de  5,000  habitantes constituye un asentamiento humano con reales condiciones urbanas, podemos derivar  que  61  asentamientos  humanos  del  país  con  características  urbanas, reúnen  alrededor  de  3  millones  de  habitantes  que  equivalen  a  un  40%  de  la población total. A este grupo de asentamientos humanos se les denomina como 'Ciudades mayores e intermedias de Honduras'
+e. Basados en que se asume que una población de más de 5,000 habitantes constituye un asentamiento humano con reales condiciones urbanas, podemos derivar que 61 asentamientos humanos del país con características urbanas, reúnen alrededor de 3 millones de habitantes que equivalen a un 40% de la población total. A este grupo de asentamientos humanos se les denomina como “Ciudades mayores e intermedias de Honduras”
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 37
 
@@ -931,7 +791,7 @@ Las ciudades mayores e intermedias están articuladas a través de la red vial p
 
 Áreas de Influencia sobre ejes viales pavimentados, conectando ciudades mayores e intermedias
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 38
 
@@ -939,19 +799,19 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 39]]
 
-11,128 caseríos que consolidan 2,445,000 habitantes están localizados a menos de 10 kms  de  los ejes viales pavimentados  que  articulan ciudades  mayores  e intermedias.  Este  Plan  de  Nación  reconoce  a  estas  áreas  de  influencia,  como  los 'Corredores  Económicos  de  Honduras',  en  donde  se  concentran  5.4  millones  de habitantes, un 72% de la población total del país.
+11,128 caseríos que consolidan 2,445,000 habitantes están localizados a menos de 10 kms de los ejes viales pavimentados que articulan ciudades mayores e intermedias. Este Plan de Nación reconoce a estas áreas de influencia, como los “Corredores Económicos de Honduras”, en donde se concentran 5.4 millones de habitantes, un 72% de la población total del país.
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE DESARROLLO SOSTENIBLE DE LA POBLACIÓN
 
-- Una economía sólida y en crecimiento, consistente con la evolución demográfica  del  país,  generando  oportunidades  para  todos  los  hondureños, especialmente para los jóvenes.
+1. Una economía sólida y en crecimiento, consistente con la evolución demográfica del país, generando oportunidades para todos los hondureños, especialmente para los jóvenes.
 
-- Ampliación de la infraestructura social del país hasta hacerla consistente con las demandas de una población que tiende a urbanizarse.
+2. Ampliación de la infraestructura social del país hasta hacerla consistente con las demandas de una población que tiende a urbanizarse.
 
-- Diseñar e Instrumentalizar políticas nacionales dirigidas  a la reducción de la tasa  de  dependencia  demográfica,  los  embarazos  en  adolescentes  y  la participación  ciudadana  en  procesos  de  creación  de  principios  y  valores enfocados en la familia.
+3. Diseñar e Instrumentalizar políticas nacionales dirigidas a la reducción de la tasa de dependencia demográfica, los embarazos en adolescentes y la participación ciudadana en procesos de creación de principios y valores enfocados en la familia.
 
-- Diseñar  un  modelo  de  atención  focalizada  en  61  ciudades  mayores  e intermedias  que  facilite  la  atención  del  Estado  en  materia  de  educación  y salud,  llegando  a  dos  tercios  de  la  población  del  país  (asentada  en  61 ciudades intermedias y 11,128 caseríos localizados en áreas de influencia con desplazamientos  menores  a  45  minutos)  con  una  oferta  que  focaliza  la atención de territorios de alta concentración poblacional. Este modelo debe ser
+4. Diseñar un modelo de atención focalizada en 61 ciudades mayores e intermedias que facilite la atención del Estado en materia de educación y salud, llegando a dos tercios de la población del país (asentada en 61 ciudades intermedias y 11,128 caseríos localizados en áreas de influencia con desplazamientos menores a 45 minutos) con una oferta que focaliza la atención de territorios de alta concentración poblacional. Este modelo debe ser
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 39
 
@@ -959,19 +819,19 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 40]]
 
-complementado  con  un  esquema  de  atención  a  Asentamientos  Humanos dispersos,  que  asegure  una  cobertura  total  en  el  país,  bajo  condiciones igualitarias de calidad de servicio, en el período del Plan de Nación.
+complementado con un esquema de atención a Asentamientos Humanos dispersos, que asegure una cobertura total en el país, bajo condiciones igualitarias de calidad de servicio, en el período del Plan de Nación.
 
-- Producción y difusión de estadísticas e información de calidad.
+5. Producción y difusión de estadísticas e información de calidad.
 
-- Respeto a los derechos humanos de los migrantes y creación de programas para la atención de sus necesidades.
+6. Respeto a los derechos humanos de los migrantes y creación de programas para la atención de sus necesidades.
 
-- Desarrollo de programas de reinserción del migrante retornado o deportado.
+7. Desarrollo de programas de reinserción del migrante retornado o deportado.
 
 #### ENUNCIADOS DE VISIÓN - DESARROLLO SOSTENIBLE DE LA POBLACIÓN
 
-Para el año 2022 y, en atención a la evolución demográfica proyectada para el país, Honduras  habrá  alcanzado  un  desempeño  sostenido  de  crecimiento  económico promedio  del  7%  anual,  acompañado  de  una  tasa  de  crecimiento  del  empleo  que será  superior  en  10%  al  crecimiento  del  PIB.  La  infraestructura  de  servicios  de educación y salud habrá crecido en un 100% y se estarán haciendo inversiones en protección  a  la  tercera  edad,  superiores  en  un  80%  a  las  realizadas  en  el  período 2005-2010. 100% de los establecimientos de educación pública habrán superado la meta de 200 días de clase y se habrán realizado esfuerzos resultantes en una mejora significativa de la calidad de la educación. La tasa de dependencia demográfica será de  66%  y  se  reducirá  en  43%  la  tasa  de  embarazos  en  adolescentes,  40%  de  la población  urbana  y  rural  del  país  estará  recibiendo  formación  en  valores  bajo  el marco  de  una  perspectiva  educacional  de  familia.  El  país  contará  con  un  sistema nacional  de  estadísticas  poblacionales  confiable  y  moderno  y,  la  política  sobre migrantes, estará en situación completamente operativa.
+Para el año 2022 y, en atención a la evolución demográfica proyectada para el país, Honduras habrá alcanzado un desempeño sostenido de crecimiento económico promedio del 7% anual, acompañado de una tasa de crecimiento del empleo que será superior en 10% al crecimiento del PIB. La infraestructura de servicios de educación y salud habrá crecido en un 100% y se estarán haciendo inversiones en protección a la tercera edad, superiores en un 80% a las realizadas en el período 2005-2010. 100% de los establecimientos de educación pública habrán superado la meta de 200 días de clase y se habrán realizado esfuerzos resultantes en una mejora significativa de la calidad de la educación. La tasa de dependencia demográfica será de 66% y se reducirá en 43% la tasa de embarazos en adolescentes, 40% de la población urbana y rural del país estará recibiendo formación en valores bajo el marco de una perspectiva educacional de familia. El país contará con un sistema
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 40
 
@@ -979,11 +839,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 41]]
 
-Para  el  año  2034 ,  Honduras  contará  con  una  infraestructura  de  servicios  sociales que atenderá con calidad al 100% de la población del país, la escolaridad promedio será de 9 años y se habrá alcanzado el empleo pleno de nuestra fuerza laboral. La tasa de dependencia demográfica será menor al 55% y se reducirá a la mitad la tasa de embarazos en adolescentes (comparada con el año 2022), 100% de la población urbana y rural del país estará recibiendo formación en valores bajo el marco de una perspectiva  educacional  de  familia.  El  país  ofrecerá  a  todos  sus  migrantes  una oportunidad de reinserción digna y una expectativa de realización comparable, con valores agregados en términos de consolidación familiar y cultural, a la que viven en sus países de residencia.
+nacional de estadísticas poblacionales confiable y moderno y, la política sobre migrantes, estará en situación completamente operativa.
 
-Para el año 2038 , Honduras habrá formulado una nueva Visión de País y un nuevo Plan de Nación que recogerá los requerimientos de expansión social, económica y cultural del nuevo hondureño.
+Para el año 2034, Honduras contará con una infraestructura de servicios sociales que atenderá con calidad al 100% de la población del país, la escolaridad promedio será de 9 años y se habrá alcanzado el empleo pleno de nuestra fuerza laboral. La tasa de dependencia demográfica será menor al 55% y se reducirá a la mitad la tasa de embarazos en adolescentes (comparada con el año 2022), 100% de la población urbana y rural del país estará recibiendo formación en valores bajo el marco de una perspectiva educacional de familia. El país ofrecerá a todos sus migrantes una oportunidad de reinserción digna y una expectativa de realización comparable, con valores agregados en términos de consolidación familiar y cultural, a la que viven en sus países de residencia.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Para el año 2038, Honduras habrá formulado una nueva Visión de País y un nuevo Plan de Nación que recogerá los requerimientos de expansión social, económica y cultural del nuevo hondureño.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 41
 
@@ -995,9 +857,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ### DEMOCRACIA, CIUDADANÍA Y GOBERNABILIDAD
 
-42
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+42
 
 [[END OF PAGE 42]]
 
@@ -1007,9 +869,9 @@ Honduras  ha  experimentado  recientemente  una  crisis  de  institucionalidad  
 
 Nuestro País ha atravesado desde 1981 a 2009 por un proceso de perfeccionamiento democrático y de consolidación gradual de sus instituciones. Durante este proceso, los  avances  han  sido  insuficientes    para  satisfacer  las  demandas  e  intereses  de  la Población.  Este  problema se evidencia con  los  niveles  de  abstencionismo  electoral que  en  apenas  7  elecciones,  de  1981  a  2005  habían  crecido  desde  21.4  %  hasta 44.6%.
 
-La  democracia  hondureña  pasó  por  una  situación  de  crisis  bajo  la  amenaza  de rompimiento  del  orden  constitucional  en  el  primer  semestre  de  2009,  cuando    el principal bastión de defensa, tras las acciones correctivas de los Poderes Legislativo y Judicial, descansa en nuestro Pueblo, que prefiere defender el sistema existente y exigir su perfeccionamiento más  acelerado  a  admitir  una  nueva  variedad  de autoritarismo  'democrático'.  Esta  crisis  marca  por  tanto,  la  necesidad  de  una ciudadanía  emergente,  no  solamente  orientada  a  aspectos  políticos  sino  civiles, económicos y sociales, capaz de implicar una garantía de integración social de todos los  sectores interesados en mantener la democracia como pacto fundamental de la sociedad hondureña, donde también adquieran vigencia nuevos derechos y responsabilidades, inherentes a una ciudadanía con expectativas reales de alcanzar mayor bienestar.
+La democracia hondureña pasó por una situación de crisis bajo la amenaza de rompimiento del orden constitucional en el primer semestre de 2009, cuando el principal bastión de defensa, tras las acciones correctivas de los Poderes Legislativo y Judicial, descansa en nuestro Pueblo, que prefiere defender el sistema existente y exigir su perfeccionamiento más acelerado a admitir una nueva variedad de autoritarismo “democrático”. Esta crisis marca por tanto, la necesidad de una ciudadanía emergente, no solamente orientada a aspectos políticos sino civiles, económicos y sociales, capaz de implicar una garantía de integración social de todos los sectores interesados en mantener la democracia como pacto fundamental de la
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 43
 
@@ -1017,11 +879,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 44]]
 
-La  Visión  de  una  Democracia,  con  mejor  clima  de  gobernabilidad  y  desarrollo  de ciudadanía, impone la necesidad de construir un mejor sistema democrático en los próximos 10 años, consiste en prefigurar un conjunto amplio de acciones redundantes en  su  inmediato  perfeccionamiento,  que  resulte  en  gobiernos  electos  que  trabajen para el pueblo, que mejoren sustancialmente el clima de gobernabilidad y tracen el trayecto  de  una  ciudadanía  integral  que  trascienda  la  sola  ciudadanía  política  o  el derecho  a  elegir.  Una  democracia  que  transite  claramente  a  la  ampliación  de  la inclusión social de los ciudadanos, una democracia que abra las puertas del ascenso social al bienestar mediante una redistribución más equitativa del poder económico, social, político y cultural, logrado mediante sendas transformaciones en las funciones estratégicas  de  aprovisionamiento  de  servicios  de  salud,  educación,  seguridad, justicia e infraestructura.
+sociedad hondureña, donde también adquieran vigencia nuevos derechos y responsabilidades, inherentes a una ciudadanía con expectativas reales de alcanzar mayor bienestar.
 
-Pese a la evidencia contundente producida por el proceso electoral de 2009, a favor de consolidar el sistema político hondureño, no puede ignorarse que las manifestaciones  críticas  de  gobernabilidad  y  confianza  en  el  sistema  democrático, experimentadas en los últimos meses, representan la expresión crítica de problemas pendientes  de  resolución  exacerbados  por  factores  externos.  La  priorización  de problemas  propios  del  régimen  democrático  hondureño  abarcan,  como  se  verá, asuntos  inherentes  a  los  atributos  y  vacíos  en  la  construcción  de  ciudadanía  y; además, temas referentes a la coherencia del tejido social, económico y político del país.  Estos problemas se priorizan de la manera siguiente:
+La Visión de una Democracia, con mejor clima de gobernabilidad y desarrollo de ciudadanía, impone la necesidad de construir un mejor sistema democrático en los próximos 10 años, consiste en prefigurar un conjunto amplio de acciones redundantes en su inmediato perfeccionamiento, que resulte en gobiernos electos que trabajen para el pueblo, que mejoren sustancialmente el clima de gobernabilidad y tracen el trayecto de una ciudadanía integral que trascienda la sola ciudadanía política o el derecho a elegir. Una democracia que transite claramente a la ampliación de la inclusión social de los ciudadanos, una democracia que abra las puertas del ascenso social al bienestar mediante una redistribución más equitativa del poder económico, social, político y cultural, logrado mediante sendas transformaciones en las funciones estratégicas de aprovisionamiento de servicios de salud, educación, seguridad, justicia e infraestructura.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Pese a la evidencia contundente producida por el proceso electoral de 2009, a favor de consolidar el sistema político hondureño, no puede ignorarse que las manifestaciones críticas de gobernabilidad y confianza en el sistema democrático, experimentadas en los últimos meses, representan la expresión crítica de problemas pendientes de resolución exacerbados por factores externos. La priorización de problemas propios del régimen democrático hondureño abarcan, como se verá, asuntos inherentes a los atributos y vacíos en la construcción de ciudadanía y; además, temas referentes a la coherencia del tejido social, económico y político del país. Estos problemas se priorizan de la manera siguiente:
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 44
 
@@ -1031,13 +895,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE DEMOCRACIA, CIUDADANÍA Y GOBERNABILIDAD
 
-- Enfrentar  y  plantear  soluciones  a  la  crisis  de  legitimidad  en  la  democracia representativa por la incidencia de grupos de presión,  nacionales y externos, interviniendo para financiar candidatos y campañas para acceder al control del poder.  Existe  el  riesgo  de  que  los  procesos  nacionales  de  acceso  al  poder estén,  cada  vez  más,  confrontando  el  peligro  de  la  inserción  de  grupos  de presión, legales e ilegales, que  colocarían en la cúpula del sistema democrático  a  personas  no  representativas  de  los  intereses  del  colectivo social hondureño.
+1. Enfrentar y plantear soluciones a la crisis de legitimidad en la democracia representativa por la incidencia de grupos de presión, nacionales y externos, interviniendo para financiar candidatos y campañas para acceder al control del poder. Existe el riesgo de que los procesos nacionales de acceso al poder estén, cada vez más, confrontando el peligro de la inserción de grupos de presión, legales e ilegales, que colocarían en la cúpula del sistema democrático a personas no representativas de los intereses del colectivo social hondureño.
 
-- Plantear soluciones a los escasos avances en la transparencia del proceso de acopio  de  recursos,  financieros  y  no  financieros,  por  parte  de  los  partidos políticos y personas naturales participantes en procesos electorales. La falta de transparencia de las agrupaciones políticas legalmente constituidas; principalmente en el origen del financiamiento de las actividades propias de estas  instituciones,  ha  estado  produciendo  un  clima  de  desconfianza  y  falta profunda  de  credibilidad  del  ciudadano  respecto  de  todo  el  sistema  político vigente.
+2. Plantear soluciones a los escasos avances en la transparencia del proceso de acopio de recursos, financieros y no financieros, por parte de los partidos políticos y personas naturales participantes en procesos electorales. La falta de transparencia de las agrupaciones políticas legalmente constituidas; principalmente en el origen del financiamiento de las actividades propias de estas instituciones, ha estado produciendo un clima de desconfianza y falta profunda de credibilidad del ciudadano respecto de todo el sistema político vigente.
 
-- Ausencia de indicadores de desempeño de los diputados debido al hecho de prevalecer  referentes  poblacionales  y  geográficos  difusos  al  momento  de evaluar las acciones emprendidas durante un período de uno o más años. La
+3. Ausencia de indicadores de desempeño de los diputados debido al hecho de prevalecer referentes poblacionales y geográficos difusos al momento de evaluar las acciones emprendidas durante un período de uno o más años. La
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 45
 
@@ -1045,13 +909,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 46]]
 
-falta  de  idoneidad  en  muchos  de  los  representantes  electos  cada  4  años, problema  evidente  por  el  incipiente  desempeño  de  la  mayoría  de  los  128 diputados  electos,  solo  puede  corregirse  en  la  medida  que  el  ciudadano común y corriente disponga de un referente geográfico y poblacional al  cual asociar determinados atributos personales y de conducta de cada diputado y/o funcionario  en  lo  referente  a  iniciativas  y  acciones  a  favor  de  las  mayorías poblacionales del país o de determinado espacio geográfico.
+falta de idoneidad en muchos de los representantes electos cada 4 años, problema evidente por el incipiente desempeño de la mayoría de los 128 diputados electos, solo puede corregirse en la medida que el ciudadano común y corriente disponga de un referente geográfico y poblacional al cual asociar determinados atributos personales y de conducta de cada diputado y/o funcionario en lo referente a iniciativas y acciones a favor de las mayorías poblacionales del país o de determinado espacio geográfico.
 
-- Crisis de representatividad de los derechos políticos de los principales grupos étnicos del país. La participación de los grupos étnicos en el poder legislativo es todavía, una temática pendiente que reclama anticipar su ulterior emergencia. Igualmente, los avances en materia de representación parlamentaria en base a género requieren un perfeccionamiento ulterior.
+4. Crisis de representatividad de los derechos políticos de los principales grupos étnicos del país. La participación de los grupos étnicos en el poder legislativo es todavía, una temática pendiente que reclama anticipar su ulterior emergencia. Igualmente, los avances en materia de representación parlamentaria en base a género requieren un perfeccionamiento ulterior.
 
-- La frágil ciudadanía hondureña se nutre de la naturaleza del diferente ritmo de avance en los  logros alcanzados en materia de derechos civiles, políticos y sociales.  En  ejercicio  de    valoración  del  sistema  político  hondureño,  resulta difícil    negar  que  varios  logros  han  sido  materializados  en  referencia  a  la ciudadanía política pero tales logros no han sido acompañados por avances semejantes en materia de ciudadanía civil y social. Este problema plantea la construcción  del  sujeto  social  hondureño  como  producto  de  la  sumatoria  de diversidad de atributos que permitan su plena emancipación en una sociedad libre  de  diversas  formas  de  opresión.  El  derecho  al  acceso  a  la  propiedad privada, para el caso, no puede ser conculcado a ningún hondureño.
+5. La frágil ciudadanía hondureña se nutre de la naturaleza del diferente ritmo de avance en los logros alcanzados en materia de derechos civiles, políticos y sociales. En ejercicio de valoración del sistema político hondureño, resulta difícil negar que varios logros han sido materializados en referencia a la ciudadanía política pero tales logros no han sido acompañados por avances semejantes en materia de ciudadanía civil y social. Este problema plantea la construcción del sujeto social hondureño como producto de la sumatoria de diversidad de atributos que permitan su plena emancipación en una sociedad libre de diversas formas de opresión. El derecho al acceso a la propiedad privada, para el caso, no puede ser conculcado a ningún hondureño.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 46
 
@@ -1059,11 +923,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 47]]
 
-- Las fallas  del  proceso  de  construcción  de  ciudadanía  se  fundamentan  en  el acotamiento  de  las  libertades  humanas  fundamentales  dentro  del  régimen democrático: libertad de discriminación, libertad de amenazas a la seguridad personal, libertad de pensamiento y expresión, libertad de la opresión ejercida por la miseria, libertad para desarrollar y materializar el potencial humano de cada  hondureño,  libertad  de  la  injusticia  y  las  violaciones  del  estado  de derecho y por último, libertad de acceder a un trabajo digno, sin explotación. El proceso  hondureño  de  construcción  de  ciudadanía  adolece  de  varias  fallas; principalmente  en  razón  de  ausencia  concreta  de  avances  en  materia  de libertades  humanas:  sea  en  la  dimensión  individual  como  social.  Si  las libertades  humanas  no  logran  ser  ampliadas  a  lo  largo  de  varios  ejercicios democráticos se corre el riesgo de que los procesos democráticos sean, por varias  razones,  considerados  como  'absolutistas'  y  reclamen,  de  tiempo  en tiempo, procesos de refundación como  expresión de la necesidad de redistribuir el poder e imponer nuevas correlaciones de fuerzas.
+6. Las fallas del proceso de construcción de ciudadanía se fundamentan en el acotamiento de las libertades humanas fundamentales dentro del régimen democrático: libertad de discriminación, libertad de amenazas a la seguridad personal, libertad de pensamiento y expresión, libertad de la opresión ejercida por la miseria, libertad para desarrollar y materializar el potencial humano de cada hondureño, libertad de la injusticia y las violaciones del estado de derecho y por último, libertad de acceder a un trabajo digno, sin explotación. El proceso hondureño de construcción de ciudadanía adolece de varias fallas; principalmente en razón de ausencia concreta de avances en materia de libertades humanas: sea en la dimensión individual como social. Si las libertades humanas no logran ser ampliadas a lo largo de varios ejercicios democráticos se corre el riesgo de que los procesos democráticos sean, por varias razones, considerados como “absolutistas” y reclamen, de tiempo en tiempo, procesos de refundación como expresión de la necesidad de redistribuir el poder e imponer nuevas correlaciones de fuerzas.
 
-- El clima de gobernabilidad no  se asienta exclusivamente en la realización de procesos electorales cada 4 años; sino respecto de avances concretos en los procesos de construcción de ciudadanía civil, política y social. El deterioro del clima de gobernabilidad del sistema socio-político hondureño, vinculado a los escasos  avances  logrados  en  materia  de  construcción  de  ciudadanía,  se encuentra  asociado  al  persistente  problema  de  pobreza  y  a  la  escasa materialización de logros de: Programas, Proyectos y/o Estrategias e
+7. El clima de gobernabilidad no se asienta exclusivamente en la realización de procesos electorales cada 4 años; sino respecto de avances concretos en los procesos de construcción de ciudadanía civil, política y social. El deterioro del clima de gobernabilidad del sistema socio-político hondureño, vinculado a los escasos avances logrados en materia de construcción de ciudadanía, se encuentra asociado al persistente problema de pobreza y a la escasa materialización de logros de: Programas, Proyectos y/o Estrategias e
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 47
 
@@ -1071,15 +935,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 48]]
 
-instituciones explícitamente generadas para enfrentar los problemas generalizados  de  pobreza  humana.  La  existencia  de  logros  indiscutibles  en salud,  educación  y  vivienda,  para  el  caso,  serían  el  mejor  soporte  para sustentar  un  mejor  clima  de  gobernabilidad  y  convivencia  ciudadana.  La ausencia de estos logros remite, tarde o temprano, a la expresión de estallidos sociales de ingobernabilidad.
+instituciones explícitamente generadas para enfrentar los problemas generalizados de pobreza humana. La existencia de logros indiscutibles en salud, educación y vivienda, para el caso, serían el mejor soporte para sustentar un mejor clima de gobernabilidad y convivencia ciudadana. La ausencia de estos logros remite, tarde o temprano, a la expresión de estallidos sociales de ingobernabilidad.
 
-La  creciente  situación  de  ingobernabilidad,  exacerbada  por  el  avance  de  la delincuencia común y del crimen organizado, hacen necesario considerar un particular  abordaje que, en el marco de los procesos de Visión de País, Plan de País y Plan de Gobierno, permita percibir un horizonte de perfeccionamiento del sistema democrático y de los procesos de construcción de ciudadanía.
+La creciente situación de ingobernabilidad, exacerbada por el avance de la delincuencia común y del crimen organizado, hacen necesario considerar un particular abordaje que, en el marco de los procesos de Visión de País, Plan de País y Plan de Gobierno, permita percibir un horizonte de perfeccionamiento del sistema democrático y de los procesos de construcción de ciudadanía.
 
 #### ENUNCIADOS DE VISIÓN - DEMOCRACIA, CIUDADANÍA Y GOBERNABILIDAD
 
-Para el año 2022 , Honduras habrá consolidado el proceso de perfeccionamiento del sistema  democrático,  constituyéndole  en  el  principal  generador  de  oportunidades  y libertades que permitan desplegar el potencial de los todos los ciudadanos. Al final de este  período  estarán  afianzadas  las  principales  libertades  y  oportunidades  para propiciar  procesos  de  ascenso  y  acceso  al  bienestar.  Todos  los  partidos  políticos legalmente inscritos, presentarán auditorías certificadas sobre el origen de los fondos utilizados  para  el  financiamiento  de  campañas  políticas,  70%  de  los  funcionarios electos  para  cargos  de  elección  popular  presentarán  informes  públicos  sobre  su gestión,  habrá  avances  en  la  participación  de  los  grupos  étnicos  en  cargos  de elección  y  se  habrá  elevado  en  un  50%  la  participación  electoral  femenina.  El plebiscito y referéndum serán parte integral de los procesos de participación social en Honduras, tocando temas de gran trascendencia nacional.
+Para el año 2022, Honduras habrá consolidado el proceso de perfeccionamiento del sistema democrático, constituyéndole en el principal generador de oportunidades y libertades que permitan desplegar el potencial de los todos los ciudadanos. Al final de este período estarán afianzadas las principales libertades y oportunidades para propiciar procesos de ascenso y acceso al bienestar. Todos los partidos políticos legalmente inscritos, presentarán auditorías certificadas sobre el origen de los fondos utilizados para el financiamiento de campañas políticas, 70% de los funcionarios electos para cargos de elección popular presentarán informes públicos sobre su gestión, habrá avances en la participación de los grupos étnicos en cargos de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 48
 
@@ -1087,11 +951,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 49]]
 
-Para el año 2034 , el sistema democrático hondureño será expresión de sustanciales avances en materia de inclusión y equidad social y los procesos de construcción de ciudadanía, civil, política y social, acompañan y promueven la emergencia de sujetos sociales  más  protagonistas  del  desarrollo  social,  económico,  político  y  cultural  del país. Se habrá perfeccionado la democracia participativa y representativa. Todos los partidos  políticos  legalmente  inscritos,  presentarán  auditorías  certificadas  sobre  el origen de los fondos utilizados para el financiamiento de campañas políticas, 100% de  los  funcionarios  electos  para  cargos  de  elección  popular  presentarán  informes públicos sobre su gestión, continuarán los avances en la participación de los grupos étnicos en cargos de elección y las mujeres tendrán un 50% de representatividad en cargos  de  elección  popular.  El  plebiscito  y  referéndum  serán  parte  integral  de  los procesos de participación social en Honduras, tocando temas de gran trascendencia nacional.
+elección y se habrá elevado en un 50% la participación electoral femenina. El plebiscito y referéndum serán parte integral de los procesos de participación social en Honduras, tocando temas de gran trascendencia nacional.
 
-Para el año 2038 , Honduras vivirá en democracia participativa y representativa, con transparencia,  inclusión  y  equidad,  iniciando  una  nueva  etapa  en  el  proceso  de desarrollo integral del país.
+Para el año 2034, el sistema democrático hondureño será expresión de sustanciales avances en materia de inclusión y equidad social y los procesos de construcción de ciudadanía, civil, política y social, acompañan y promueven la emergencia de sujetos sociales más protagonistas del desarrollo social, económico, político y cultural del país. Se habrá perfeccionado la democracia participativa y representativa. Todos los partidos políticos legalmente inscritos, presentarán auditorías certificadas sobre el origen de los fondos utilizados para el financiamiento de campañas políticas, 100% de los funcionarios electos para cargos de elección popular presentarán informes públicos sobre su gestión, continuarán los avances en la participación de los grupos étnicos en cargos de elección y las mujeres tendrán un 50% de representatividad en cargos de elección popular. El plebiscito y referéndum serán parte integral de los procesos de participación social en Honduras, tocando temas de gran trascendencia nacional.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Para el año 2038, Honduras vivirá en democracia participativa y representativa, con transparencia, inclusión y equidad, iniciando una nueva etapa en el proceso de desarrollo integral del país.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 49
 
@@ -1102,7 +968,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 ### REDUCCIÓN DE LA POBREZA, GENERACIÓN DE ACTIVOS E IGUALDAD DE OPORTUNIDADES
 1 2 3
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 50
 
@@ -1114,11 +980,11 @@ La persistencia de la pobreza en Honduras, a pesar de que en los últimos años 
 
 En efecto,  al  abordar  el  bajo  desempeño  de  la  Estrategia  para  la  Reducción  de  la Pobreza, queda en evidencia que se ha venido careciendo de un enfoque teórico y metodológico adecuado, a partir del cual se puedan derivar intervenciones efectivas para confrontar la magnitud de la pobreza en el país. La reconsideración conceptual de las aproximaciones actuales al problema de pobreza, implicaría diversos aspectos:
 
-- El reconocimiento de que no hay una relación directa entre crecimiento económico y  reducción  de  pobreza;  a  fin  de  apartarse  de  razonamientos  mecanicistas  que suponen que todo crecimiento económico y el incremento per se del gasto público conllevan a la reducción de la pobreza. Se trata en consecuencia, de reconocer la existencia de fuertes limitaciones estructurales a la capacidad de la población para aprovechar  las  oportunidades  económicas  y  concebir  la  creación  de  círculos virtuosos entre reducción de la pobreza y crecimiento económico, que potencien las  capacidades  y  oportunidades  de  los  pobres  para  luchar  contra  la  pobreza  y alcanzar el bienestar.
+a. El reconocimiento de que no hay una relación directa entre crecimiento económico y reducción de pobreza; a fin de apartarse de razonamientos mecanicistas que suponen que todo crecimiento económico y el incremento per se del gasto público conllevan a la reducción de la pobreza. Se trata en consecuencia, de reconocer la existencia de fuertes limitaciones estructurales a la capacidad de la población para aprovechar las oportunidades económicas y concebir la creación de círculos virtuosos entre reducción de la pobreza y crecimiento económico, que potencien las capacidades y oportunidades de los pobres para luchar contra la pobreza y alcanzar el bienestar.
 
-- Si  la  pobreza  es  multi-causal,  su  combate  no  puede  concentrarse  en  atacar factores  aislados.  Por  consiguiente,  debe  existir  una  estrategia  integral  que abarque las múltiples causas de la pobreza, tanto desde aspectos macroeconómicos como microeconómicos, y considerando tanto el corto como el largo plazo.
+b. Si la pobreza es multi-causal, su combate no puede concentrarse en atacar factores aislados. Por consiguiente, debe existir una estrategia integral que abarque las múltiples causas de la pobreza, tanto desde aspectos macroeconómicos como microeconómicos, y considerando tanto el corto como el largo plazo.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 51
 
@@ -1126,15 +992,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 52]]
 
-- Este  nuevo  marco  conceptual  debe  enfocarse  en  eliminar  el conjunto  de restricciones que impiden a los pobres acceder a activos, esto es, la dotación de recursos  de  capital  humano  y  de  capital  físico.  En  consecuencia,  la  estrategia debe adoptar un enfoque neto orientado a promover el acceso a activos para los pobres, conocido como 'enfoque de activos'.
+c. Este nuevo marco conceptual debe enfocarse en eliminar el conjunto de restricciones que impiden a los pobres acceder a activos, esto es, la dotación de recursos de capital humano y de capital físico. En consecuencia, la estrategia debe adoptar un enfoque neto orientado a promover el acceso a activos para los pobres, conocido como “enfoque de activos”.
 
-- Para operativizar este concepto y convertirlo en una política pública efectiva, es necesario utilizar intensivamente criterios y herramientas que permitan la focalización y priorización de recursos a favor de los más pobres. Si ejecutando la Visión y el Plan de Nación pretendemos eliminar la pobreza extrema, entonces los recursos deben canalizarse y focalizarse hacia los pobres extremos y progresivamente incidir sobre el resto de personas en situación de pobreza en el país.
+d. Para operativizar este concepto y convertirlo en una política pública efectiva, es necesario utilizar intensivamente criterios y herramientas que permitan la focalización y priorización de recursos a favor de los más pobres. Si ejecutando la Visión y el Plan de Nación pretendemos eliminar la pobreza extrema, entonces los recursos deben canalizarse y focalizarse hacia los pobres extremos y progresivamente incidir sobre el resto de personas en situación de pobreza en el país.
 
-- Como la estrategia deviene obligada a operar en un territorio determinado (donde están localizados los pobres) de nuevo las políticas públicas requieren complementariedad  a  fin  de  actuar  integradamente  sobre  las  causas  de  la pobreza. Se trata de actuar en el marco territorio sobre las diferentes causas de la pobreza que conllevan restricciones para que los más pobres accedan a activos.
+e. Como la estrategia deviene obligada a operar en un territorio determinado (donde están localizados los pobres) de nuevo las políticas públicas requieren complementariedad a fin de actuar integradamente sobre las causas de la pobreza. Se trata de actuar en el marco territorio sobre las diferentes causas de la pobreza que conllevan restricciones para que los más pobres accedan a activos.
 
-- Finalmente, una estrategia de esta naturaleza implica cambios sustanciales en el modo  habitual  de  gerencia,  en  los  arreglos  institucionales  que  acompañan  la estrategia y el relacionamiento entre los niveles centrales y locales. En el centro de  tales  cambios  se  encuentra  un  nuevo  modelo  de  gestión  que  posibilite netamente alcanzar los resultados y lograr el impacto propuesto en la estrategia.
+f. Finalmente, una estrategia de esta naturaleza implica cambios sustanciales en el modo habitual de gerencia, en los arreglos institucionales que acompañan la estrategia y el relacionamiento entre los niveles centrales y locales. En el centro de tales cambios se encuentra un nuevo modelo de gestión que posibilite netamente alcanzar los resultados y lograr el impacto propuesto en la estrategia.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 52
 
@@ -1144,15 +1010,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE REDUCCIÓN DE LA POBREZA, GENERACIÓN DE ACTIVOS E IGUALDAD DE OPORTUNIDADES
 
-1.
-
-- Establecer mecanismos de coordinación para operativizar la integralidad. A pesar de los beneficios evidentes de una política integral coordinada, rara vez se aplica este concepto en la práctica gubernamental. El motivo es que los diseños institucionales que prevalecen en la región y en toda Honduras, son diseños  sectoriales  que  no  promueven  la  coordinación,  y  que  de  hecho, generalmente  la  impiden.  Cada  sector  cuenta  con  sus  propias  metas  y objetivos, espacios geográficos prioritarios, grupos de interés y de presión, y mecanismos de intervención que no necesariamente coinciden con los otros.
+1. Establecer mecanismos de coordinación para operativizar la integralidad. A pesar de los beneficios evidentes de una política integral coordinada, rara vez se aplica este concepto en la práctica gubernamental. El motivo es que los diseños institucionales que prevalecen en la región y en toda Honduras, son diseños sectoriales que no promueven la coordinación, y que de hecho, generalmente la impiden. Cada sector cuenta con sus propias metas y objetivos, espacios geográficos prioritarios, grupos de interés y de presión, y mecanismos de intervención que no necesariamente coinciden con los otros.
 
 Para asegurar el éxito en la implementación de la política integral deben ser fortalecidos los mecanismos de coordinación formales al interior del Gobierno Central,  a  fin  de  romper  con  los  diseños  sectorialistas.  La  coordinación interinstitucional  y  sectorial  debe  asegurar  la  armonización  de  las  metas  y objetivos, espacios geográficos prioritarios, grupos de interés y de presión, y mecanismos de intervención con que cuenta cada sector y que no necesariamente  coinciden  con  los  otros.  Es  indudable  que  esta  expectativa deberá  cumplirse  bajo  el  marco  del  Sistema  Nacional  de  Planeación  y  el Modelo de Desarrollo Regional que acompañan este documento de Visión de País.
 
 Otro  arreglo  fundamental  se  refiere  al  principio  de  autoridad.  La  aplicación eficiente  de  una  política  integral  de  acceso  a  los  activos  requiere  fortalecer esta  institucionalidad,  proveyéndola  de  un  mandato  legal  y  otorgándole mecanismos de coerción para hacer efectiva la coordinación.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 53
 
@@ -1162,13 +1026,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Pero  la  mayor  trascendencia  en  la  coordinación  tiene  que  ver  con  la integración efectiva entre los niveles centrales y locales. La ERP actualizada requiere la creación y progresivo fortalecimiento de los Consejos Regionales de  Desarrollo  con  representación  de  cada  uno  de  los  actores  relevantes  de cada región.
 
-- Fortalecer la participación de la sociedad civil y la corresponsabilidad en la  ejecución  de  la  política  pro  pobre. Tradicionalmente se ha asignado al Gobierno  Central  toda  la  responsabilidad  para  las  políticas  de  desarrollo económico y social. Sin embargo, los fracasos de los modelos estatistas del pasado  han  conducido  a  propuestas  de  desarrollo  que  eliminan  anteriores barreras al desempeño de la iniciativa privada, reducen el papel del Estado en el manejo directo de la economía y fortalecen su papel normativo y regulador.
+2. Fortalecer la participación de la sociedad civil y la corresponsabilidad en la ejecución de la política pro pobre. Tradicionalmente se ha asignado al Gobierno Central toda la responsabilidad para las políticas de desarrollo económico y social. Sin embargo, los fracasos de los modelos estatistas del pasado han conducido a propuestas de desarrollo que eliminan anteriores barreras al desempeño de la iniciativa privada, reducen el papel del Estado en el manejo directo de la economía y fortalecen su papel normativo y regulador.
 
 La Visión de País 2010-2038 y el Plan de Nación 2010-2022, sin eliminar las responsabilidades que son propias del Gobierno Central, reconoce la importancia de ejecutar programas y proyectos que puedan llevar a cabo las municipalidades, las comunidades, las ONGs y la empresa privada.
 
-Esto está relacionado con mecanismos de corresponsabilidad de los actores principales  de  la  ERP.  La  aplicación  de  la  política  integral  de  acceso  a  los activos incluye mecanismos de corresponsabilidad por parte de la población en  situación  de  pobreza.  La  corresponsabilidad  consiste  en  una  acción específica por parte de la persona  o familia como  requisito para ser participante  en  un  programa  o  acción  gubernamental.  La  corresponsabilidad tiene al menos dos beneficios importantes para la gestión de la estrategia. El primer  beneficio  convierte  al  participante  en  socio  de  la  acción  y  no  en  un mero receptor de un beneficio, lo cual generalmente trae consigo un efecto de empoderamiento y un cambio cultural importante. El segundo, es que puede tener efectos sobre el impacto de la acción al potenciar su efecto.
+Esto está relacionado con mecanismos de corresponsabilidad de los actores principales de la ERP. La aplicación de la política integral de acceso a los activos incluye mecanismos de corresponsabilidad por parte de la población en situación de pobreza. La corresponsabilidad consiste en una acción específica por parte de la persona o familia como requisito para ser participante en un programa o acción gubernamental. La corresponsabilidad
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 54
 
@@ -1176,13 +1040,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 55]]
 
-- Fortalecer la gobernabilidad y la democracia participativa en el marco de la Visión de País y Plan de Nación. La pobreza implica privación material y exclusión  política  de  los  pobres,  lo  que  a  su  vez  deriva  en  condiciones  que profundizan la incidencia de la pobreza. La Visión de País y el Plan de Nación, pretenden  el  empoderamiento  de  la  estrategia  por  parte  de  los  sectores empobrecidos, a través de mecanismos que permitan aminorar las desigualdades y cualquier forma de exclusión social. Esto tiene que ver tanto con  el  proceso  de  ejecución  y  seguimiento  de  sus  diversos  programas,  así como  a  través  de  las  instancias  que  se  creen  para  el  seguimiento  de  las iniciativas  programadas  y  la  medición  de  sus  resultados.  Asimismo,  busca crear  condiciones  y  mecanismos  orientados  a  garantizar  la  participación democrática y la transparencia en la gestión pública.
+tiene al menos dos beneficios importantes para la gestión de la estrategia. El primer beneficio convierte al participante en socio de la acción y no en un mero receptor de un beneficio, lo cual generalmente trae consigo un efecto de empoderamiento y un cambio cultural importante. El segundo, es que puede tener efectos sobre el impacto de la acción al potenciar su efecto.
+
+3. Fortalecer la gobernabilidad y la democracia participativa en el marco de la Visión de País y Plan de Nación. La pobreza implica privación material y exclusión política de los pobres, lo que a su vez deriva en condiciones que profundizan la incidencia de la pobreza. La Visión de País y el Plan de Nación, pretenden el empoderamiento de la estrategia por parte de los sectores empobrecidos, a través de mecanismos que permitan aminorar las desigualdades y cualquier forma de exclusión social. Esto tiene que ver tanto con el proceso de ejecución y seguimiento de sus diversos programas, así como a través de las instancias que se creen para el seguimiento de las iniciativas programadas y la medición de sus resultados. Asimismo, busca crear condiciones y mecanismos orientados a garantizar la participación democrática y la transparencia en la gestión pública.
 
 En tal sentido, se requiere una mayor participación de los más pobres en las tareas  de  seguimiento  y  evaluación  de  la  Estrategia,  que  coadyuve  a garantizar la transparencia en su proceso de implementación.
 
 En este propósito es sustantivo para la estrategia, eliminar la tradición de falta de transparencia en la gestión pública, que en muchos casos se manifiesta en el  desvío  de  fondos  hacia  propósitos  ilícitos  y  reduce  la  eficacia  de  las inversiones y programas públicos.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 55
 
@@ -1190,13 +1056,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 56]]
 
-- Impulsar el Sistema de Monitoreo y Evaluación de la Visión de País y el Plan  de  Nación  con  un  enfoque  en  resultados. Para  dirigir  la  política integral  de  acceso  a  los  activos,  verificar  el  impacto  de  distintas  acciones, garantizar su impacto sobre las condiciones de vida de la población y mejorar la eficiencia y la asignación de recursos en la gestión pública, el Gobierno de Honduras desarrollará la administración por resultados basados en sistemas de Seguimiento, Monitoreo y Evaluación (SME). De esta forma se asegurará que el gasto social se traduzca en una reducción perceptible de la pobreza.
+4. Impulsar el Sistema de Monitoreo y Evaluación de la Visión de País y el Plan de Nación con un enfoque en resultados. Para dirigir la política integral de acceso a los activos, verificar el impacto de distintas acciones, garantizar su impacto sobre las condiciones de vida de la población y mejorar la eficiencia y la asignación de recursos en la gestión pública, el Gobierno de Honduras desarrollará la administración por resultados basados en sistemas de Seguimiento, Monitoreo y Evaluación (SME). De esta forma se asegurará que el gasto social se traduzca en una reducción perceptible de la pobreza.
 
 La gerencia por resultados permitirá una mayor transparencia y rendición de cuentas  hacia la ciudadanía, contar  con información para realizar  una reorganización institucional  que  haga  más  eficiente  la  acción  gubernamental con base en impactos, una mayor eficiencia en la asignación de presupuestos y la introducción de incentivos adecuados para mejorar la gestión.
 
-Honduras cuenta con tres pilares para la construcción de un SME: el SISPU, el SIAFI y el SIERP. Para una migración completa hacia una Administración por Resultados sustentada en estos tres pilares se trabajará en el alineamiento,  compatibilidad  y  sincronización  de  sistemas  de  información,  la utilización  del  Marco  Lógico  para  ordenar  indicadores,  la  conexión  entre  el Marco Lógico y los sistemas de información existentes, un plan de implementación a nivel operativo, la identificación de los procedimientos para la  operación del SME, incluyendo la  definición de responsables por entidad para  cada  uno  de  los  procesos  involucrados,  y  finalmente,  la  utilización  del SME para la toma de decisiones presupuestales.
+Honduras cuenta con tres pilares para la construcción de un SME: el SISPU, el SIAFI y el SIERP. Para una migración completa hacia una Administración por Resultados sustentada en estos tres pilares se trabajará en el alineamiento, compatibilidad y sincronización de sistemas de información, la utilización del Marco Lógico para ordenar indicadores, la conexión entre el Marco Lógico y los sistemas de información existentes, un plan de implementación a nivel operativo, la identificación de los procedimientos para
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 56
 
@@ -1204,13 +1070,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 57]]
 
+la operación del SME, incluyendo la definición de responsables por entidad para cada uno de los procesos involucrados, y finalmente, la utilización del SME para la toma de decisiones presupuestales.
+
 Debe indicarse que el sistema de monitoreo y evaluación tendrá dos grandes componentes: (1) El componente gerencial (descrito en párrafos anteriores); y, (2) el componente de auditoría social.
 
-- Fortalecer  la  capacidad  de  gerencia  y  ejecución  del  gobierno. Deben fortalecerse las capacidades de gerencia y de ejecución para asegurar que los beneficios  de  cada  programa  y  acción  puedan  instrumentarse  a  nivel  local. Para  aumentar  la  eficiencia  de  las  instituciones  y  dotarlas  con  capacidad institucional  se  trabajará  en  al  menos  cuatro  elementos:  la  relevancia  y claridad  de  su  mandato,  el  perfil  de  sus  recursos  humanos,  el  nivel  de presupuesto asignado y la existencia de mecanismos de ejecución.
+5. Fortalecer la capacidad de gerencia y ejecución del gobierno. Deben fortalecerse las capacidades de gerencia y de ejecución para asegurar que los beneficios de cada programa y acción puedan instrumentarse a nivel local. Para aumentar la eficiencia de las instituciones y dotarlas con capacidad institucional se trabajará en al menos cuatro elementos: la relevancia y claridad de su mandato, el perfil de sus recursos humanos, el nivel de presupuesto asignado y la existencia de mecanismos de ejecución.
 
 La  solidez  institucional  para  la  planeación  se  cimentará  en  los  sistemas  de información.  Objetivos  claros  y  un  sistema  de  información  institucionalizado posibilita  la  planeación  a  mediano  y  largo  plazo,  que  prevalezca  a  cambios políticos y que se convierta en un activo institucional que aumente el poder del Estado para hacer frente de manera eficiente al problema. A medida que la información institucional es más sólida y detallada, el valor de este elemento será mayor. Su construcción requiere básicamente de inversiones en tecnología y recursos humanos. Evidentemente, este es un elemento crítico de la Visión en el tema de mejora de activos.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 57
 
@@ -1218,13 +1086,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 58]]
 
-- Disminuir la vulnerabilidad ambiental y su impacto en la pobreza. Existe una asociación reconocida entre deterioro ambiental, altos índices de pobreza y aumento de la vulnerabilidad frente a la ocurrencia de desastres naturales. Bajo  esta  premisa,  la  Visión  y  el  Plan,  contemplan  objetivos  y  metas orientadas a fortalecer la gestión ambiental y la gestión de riesgos, a través del fortalecimiento de los aspectos legales, institucionales, de planificación y aplicación de los instrumentos necesarios para mejorar la función coordinadora y normativa de las instituciones vinculadas a la gestión ambiental y a la mitigación del riesgo.
+6. Disminuir la vulnerabilidad ambiental y su impacto en la pobreza. Existe una asociación reconocida entre deterioro ambiental, altos índices de pobreza y aumento de la vulnerabilidad frente a la ocurrencia de desastres naturales. Bajo esta premisa, la Visión y el Plan, contemplan objetivos y metas orientadas a fortalecer la gestión ambiental y la gestión de riesgos, a través del fortalecimiento de los aspectos legales, institucionales, de planificación y aplicación de los instrumentos necesarios para mejorar la función coordinadora y normativa de las instituciones vinculadas a la gestión ambiental y a la mitigación del riesgo.
 
 También  se  reconoce  la  importancia  de  impulsar  el  uso  de  instrumentos económico-financieros como  mercados de carbono, venta de servicios ambientales, incentivos y desincentivos para propiciar el manejo sostenible de los  recursos  naturales,  la  protección  del  ambiente,  especialmente  en  zonas críticas o degradadas y la constitución de un fondo ambiental para el apoyo de proyectos de inversión ambiental ejecutados por las comunidades. La finalidad de todos estos instrumentos, es contribuir a que la sociedad perciba el manejo sostenible de recursos naturales y la protección del ambiente como actividades  que  pueden  ser  compatibles  con  la  rentabilidad  económica  y  la equidad social.
 
-La reducción de la pobreza, en un marco de desarrollo sostenible, tiene como base  fundamental  el  ordenamiento  territorial  y  el  manejo  sostenible  de cuencas y microcuencas hidrográficas, bajo un enfoque de desconcentración, descentralización y amplia participación local. Esto será especialmente importante para evitar la pérdida recurrente de bienes materiales y vidas que ocasiona la mala ubicación de asentamientos humanos, actividades productivas,  vivienda  e  infraestructura  en  general.  Cuando  el  crecimiento ocurre  de  manera  espontánea,  las  zonas  frágiles  como  las  partes  altas  y medias de las cuencas hidrográficas son sometidas a una permanente presión demográfica y productiva.
+La reducción de la pobreza, en un marco de desarrollo sostenible, tiene como base fundamental el ordenamiento territorial y el manejo sostenible de cuencas y microcuencas hidrográficas, bajo un enfoque de desconcentración,
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 58
 
@@ -1232,13 +1100,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 59]]
 
+descentralización y amplia participación local. Esto será especialmente importante para evitar la pérdida recurrente de bienes materiales y vidas que ocasiona la mala ubicación de asentamientos humanos, actividades productivas, vivienda e infraestructura en general. Cuando el crecimiento ocurre de manera espontánea, las zonas frágiles como las partes altas y medias de las cuencas hidrográficas son sometidas a una permanente presión demográfica y productiva.
+
 #### ENUNCIADOS DE VISIÓN - REDUCCIÓN DE LA POBREZA, GENERACIÓN DE ACTIVOS E IGUALDAD DE OPORTUNIDADES
 
 Para el  año  2022 ,    Se  dará  cumplimiento  pleno  a  las  metas  de  integración  social mediante el enfoque de activos planteado en esta visión. La idea es que los niveles de pobreza y pobreza extrema disminuyan al 41% y 21% respectivamente y que el coeficiente  de  Gini,  que  expresa  la  desigualdad  en  la  distribución  de  los  recursos alcance un 0.45. Para ello será necesario el realineamiento de la política fiscal, en el marco de la progresividad en la captación de impuestos y en la focalización del gasto. Asimismo,  será  necesario  que  la  política  monetaria  dirija  sus  acciones  hacia  la facilitación del financiamiento a pequeños productores y la reducción de la inflación a niveles que no afecten a los quintiles más bajos de distribución.
 
-Para el año 2034 , el país habrá reducido sus niveles de pobreza y pobreza extrema a  menos  de  20%  y  5%  respectivamente.  Para  lograrlo,  el  país  contará  con  un esquema institucional que facilite el acceso de toda la ciudadanía a los mercados de activos,  factores,  recursos  financieros  y  de  trabajo.  Esto  se  logrará  a  través  del acceso  pleno  a  servicios  de  educación  y  salud  de  calidad,  una  mejora  en  la infraestructura  productiva  y  una  correcta  regulación  de  los  mercados,  mediante  la adecuada determinación de los derechos de propiedad, en un marco de gobernabilidad y participación democrática.
+Para el año 2034, el país habrá reducido sus niveles de pobreza y pobreza extrema a menos de 20% y 5% respectivamente. Para lograrlo, el país contará con un esquema institucional que facilite el acceso de toda la ciudadanía a los mercados de activos, factores, recursos financieros y de trabajo. Esto se logrará a través del
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 59
 
@@ -1246,9 +1116,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 60]]
 
-Para el año 2038 , el país habrá erradicado la pobreza extrema y reducido a menos del  15%  el  número  de  hogares  en  situación  de  pobreza.  Un  nuevo  modelo  que asegure  sostenibilidad  habrá  sido  formulado  para  un  nuevo  proceso  de  Visión  de País y Plan de Nación.
+acceso pleno a servicios de educación y salud de calidad, una mejora en la infraestructura productiva y una correcta regulación de los mercados, mediante la adecuada determinación de los derechos de propiedad, en un marco de gobernabilidad y participación democrática.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Para el año 2038, el país habrá erradicado la pobreza extrema y reducido a menos del 15% el número de hogares en situación de pobreza. Un nuevo modelo que asegure sostenibilidad habrá sido formulado para un nuevo proceso de Visión de País y Plan de Nación.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 60
 
@@ -1257,13 +1129,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 [[START OF PAGE 61]]
 
 ### EDUCACIÓN Y CULTURA COMO MEDIOS DE EMANCIPACIÓN SOCIAL
-3
+1 2 3
 
-1
-
-2
-
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 61
 
@@ -1279,9 +1147,9 @@ Se han identificado 7 grandes problemas estructurales: 1) Deficiencias persisten
 
 ##### LOS GRANDES DESAFÍOS EN MATERIA DE  EDUCACIÓN, COMO MEDIO PRINICIPAL DE EMNACIPACIÓN SOCIAL
 
-1. Reducir  la  deficiente  formación  de  Competencias  Esenciales  para  el Desarrollo. La  persistencia de  graves  deficiencias en  la  formación  de competencias  educacionales  esenciales  y  estrechamente  asociadas  con operaciones  cognitivas  de: abstracción,  análisis  y  síntesis las  cuales además,  se  combinan  y  refuerzan con manifiestas incapacidades en comunicación oral y escrita y abarcando en ambos casos, tanto los niveles primario, como  medio  y  superior. El desempeño    en  las  pruebas  de rendimiento en Español y Matemáticas, con tendencias reiterativas alrededor de 40% de rendimiento en los primeros 8 años del siglo XXI, demuestran  que el sistema educacional hondureño  se  caracteriza en la actualidad por presentar  profundos  rezagos  respecto  de  gran  parte  de  países  de  América Latina.  El  sistema  educacional  hondureño    no  ha  estado  aportando  los requerimientos educacionales mínimos para competir con eficacia en el plano regional  e  internacional 1   y  tampoco  es  segura  la  sustentación  local  del desarrollo  (Los  hondureños  y  hondureñas  en  situación  de  analfabetismo  se consideran  la  manifestación  extrema  de  la  ausencia  de  capacidades  para enfrentar de manera apropiada los retos y desafíos de una sociedad humana cada vez más asentada en el conocimiento).
+1. Reducir la deficiente formación de Competencias Esenciales para el
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 62
 
@@ -1289,11 +1157,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 63]]
 
-- Fortalecer la participación de la sociedad civil y la corresponsabilidad en la  ejecución  de  la  política  pro  pobre. Tradicionalmente se ha asignado al Gobierno  Central  toda  la  responsabilidad  para  las  políticas  de  desarrollo económico y social. Sin embargo, los fracasos de los modelos estatistas del
+Desarrollo. La persistencia de graves deficiencias en la formación de competencias educacionales esenciales y estrechamente asociadas con operaciones cognitivas de: abstracción, análisis y síntesis las cuales además, se combinan y refuerzan con manifiestas incapacidades en comunicación oral y escrita y abarcando en ambos casos, tanto los niveles primario, como medio y superior. El desempeño en las pruebas de rendimiento en Español y Matemáticas, con tendencias reiterativas alrededor de 40% de rendimiento en los primeros 8 años del siglo XXI, demuestran que el sistema educacional hondureño se caracteriza en la actualidad por presentar profundos rezagos respecto de gran parte de países de América Latina. El sistema educacional hondureño no ha estado aportando los requerimientos educacionales mínimos para competir con eficacia en el plano regional e internacional1 y tampoco es segura la sustentación local del desarrollo (Los hondureños y hondureñas en situación de analfabetismo se consideran la manifestación extrema de la ausencia de capacidades para enfrentar de manera apropiada los retos y desafíos de una sociedad humana cada vez más asentada en el conocimiento).
 
-> 1 La  única  participación  de  Honduras en pruebas internacionales de Español  y Matemáticas, realizadas en 1997, refieren el siguiente dato inquietante: Honduras ocupa el último lugar en matemáticas y el penúltimo lugar en Español  en tercer grado.Cfr. 'La calidad Educativa en Honduras frente al Mundo'. Cáceres, Dennis F.  marzo 2009. Pg. 12. Este autor refiere una conclusión importante de FEREMA 2002: 'Los niños están aprendiendo solo un poco más de la tercera parte de lo que debieran aprender.'
+2. Fortalecer la participación de la sociedad civil y la corresponsabilidad en la ejecución de la política pro pobre. Tradicionalmente se ha asignado al Gobierno Central toda la responsabilidad para las políticas de desarrollo económico y social. Sin embargo, los fracasos de los modelos estatistas del
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+> 1 La única participación de Honduras en pruebas internacionales de Español y Matemáticas, realizadas en 1997, refieren el siguiente dato inquietante: Honduras ocupa el último lugar en matemáticas y el penúltimo lugar en Español en tercer grado.Cfr. “La calidad Educativa en Honduras frente al Mundo”. Cáceres, Dennis F. marzo 2009. Pg. 12. Este autor refiere una conclusión importante de FEREMA 2002: “Los niños están aprendiendo solo un poco más de la tercera parte de lo que debieran aprender.”
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 63
 
@@ -1305,9 +1175,9 @@ pasado  han  conducido  a  propuestas  de  desarrollo  que  eliminan  anteriores
 
 La Visión de País 2010-2038 y el Plan de Nación 2010-2022, sin eliminar las responsabilidades que son propias del Gobierno Central, reconoce la importancia  de  ejecutar  programas  y  proyectos  en  materia  educativa  que puedan  llevar  a  cabo  las  municipalidades,  las  comunidades,  las  ONGs  y  la empresa privada.
 
-- Marcado Deterioro de la Calidad Educativa en establecimientos escolares del  sector  público. Un  marcado  deterioro  de  la  calidad  educativa  en  la mayoría de establecimientos del sector público -más de 11 mil establecimientos de primaria y 950 del nivel medio-  lo cual se manifiesta al observar los pobres niveles de desempeño en materia de cantidad de días de clase,  ya  que  solamente  alcanzan  un  promedio  nacional  de  160  días, equivalente a 560 horas anuales, mientras en establecimientos del subsector privado el estándar de días de clase es de 200 días, equivalente a 1400 horas, lo que representa que los alumnos y egresados del subsector escolar privado superan  en  150%  la  permanencia  en  aula  respecto  de  los  alumnos        del subsector  público.  El  vínculo    estrecho  de  esta  situación  con  el  complejo problema  de  desigualdad  social  resulta  incuestionable  y  reclama  decisiones consistentes respecto de mejorar el clima de convivencia y ascenso social.
+3. Marcado Deterioro de la Calidad Educativa en establecimientos escolares del sector público. Un marcado deterioro de la calidad educativa en la mayoría de establecimientos del sector público - más de 11 mil establecimientos de primaria y 950 del nivel medio- lo cual se manifiesta al observar los pobres niveles de desempeño en materia de cantidad de días de clase, ya que solamente alcanzan un promedio nacional de 160 días, equivalente a 560 horas anuales, mientras en establecimientos del subsector privado el estándar de días de clase es de 200 días, equivalente a 1400 horas, lo que representa que los alumnos y egresados del subsector escolar privado superan en 150% la permanencia en aula respecto de los alumnos del subsector público. El vínculo estrecho de esta situación con el complejo problema de desigualdad social resulta incuestionable y reclama decisiones consistentes respecto de mejorar el clima de convivencia y ascenso social.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 64
 
@@ -1315,11 +1185,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 65]]
 
-- Bajo Rendimiento Escolar por persistencia de condiciones socioeconómicas  adversas. La  relativa  mayor  incidencia  de  bajo  rendimiento escolar entre los estratos de alumnos  de  peores condiciones socioeconómicas,  revela  que  los  alumnos  de  los  hogares  más  pobres      estarían siendo los más afectados en lo concerniente a la adquisición de competencias fundamentales para un ulterior desempeño en los mercados de empleo que cada vez demandan mayores capacidades cognitivas. Investigaciones realizadas demuestran diferencias apreciables entre estratos socioeconómicos.  Así,  el  porcentaje  de  respuestas  correctas  en  Español  se situaba, en el año 2005, en 38.8% entre el conjunto de alumnos con peores condiciones  socioeconómicas  y  de  48.7%  entre  los  alumnos  de  mejor condición  socioeconómica.  Las  diferencias  de  rendimiento  en  matemáticas, entre alumnos del nivel socioeconómico indicado, fueron de 35.1% y 42.6% e igualmente  refieren  la  existencia  de  barreras  u  obstáculos  en  la  movilidad social de los hogares de peores condiciones socio-económicas. Las particulares condiciones socio-económicas prevalecientes en los hogares más desfavorecidos condicionan la normal formación de capacidades en gran parte de los hogares hondureños.
+4. Bajo Rendimiento Escolar por persistencia de condiciones socio-económicas adversas. La relativa mayor incidencia de bajo rendimiento escolar entre los estratos de alumnos de peores condiciones socio-económicas, revela que los alumnos de los hogares más pobres estarían siendo los más afectados en lo concerniente a la adquisición de competencias fundamentales para un ulterior desempeño en los mercados de empleo que cada vez demandan mayores capacidades cognitivas. Investigaciones realizadas demuestran diferencias apreciables entre estratos socioeconómicos. Así, el porcentaje de respuestas correctas en Español se situaba, en el año 2005, en 38.8% entre el conjunto de alumnos con peores condiciones socioeconómicas y de 48.7% entre los alumnos de mejor condición socioeconómica. Las diferencias de rendimiento en matemáticas, entre alumnos del nivel socioeconómico indicado, fueron de 35.1% y 42.6% e igualmente refieren la existencia de barreras u obstáculos en la movilidad social de los hogares de peores condiciones socio-económicas. Las particulares condiciones socio-económicas prevalecientes en los hogares más desfavorecidos condicionan la normal formación de capacidades en gran parte de los hogares hondureños.
 
-- Baja Cobertura Educacional. Persisten problemas de cobertura del subsistema educacional público: 38.6% de cobertura pre-básica, 92.5% en los 6  años  de  educación primaria, 39.7% de educación media   -  de 7mo a 9no grado-, 24.2% de cobertura en educación media - de 10 a 12 grado- y 16% en educación  superior,  son  indicativos  de    brechas    de  acceso  persistentes  y
+5. Baja Cobertura Educacional. Persisten problemas de cobertura del subsistema educacional público: 38.6% de cobertura pre-básica, 92.5% en los 6 años de educación primaria, 39.7% de educación media - de 7mo a 9no grado-, 24.2% de cobertura en educación media - de 10 a 12 grado- y 16% en educación superior, son indicativos de brechas de acceso persistentes y
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 65
 
@@ -1329,9 +1199,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 simultáneamente, de la existencia inquietante de fuertes contingentes poblacionales  con  problemas  de  acceder  a  empleos  de  calidad  y  mejor remuneración.  Esto  último  implica  limitadas  posibilidades  de  responder  de manera  adecuada    ante  una  carga  económica  considerable  al  afrontar  la responsabilidad  de  cubrir  las  necesidades  perentorias  de    uno  o  varios dependientes.  Una  escolaridad  promedio  en  torno  a  5  años  representa  la existencia  de  miles  de  hondureños  con  acceso  muy  restringido,    actual  y futuro, a mayores niveles de remuneración e ingresos.
 
-- Niveles Incipientes de Supervisión y Evaluación Docente. Otro problema de  índole  estructural  concierne  a  los  persistentemente  bajos  niveles  de supervisión  y  evaluación  docente,  los  cuales  se  asocian  a  la  rigidez  del modelo gerencial imperante y particularmente, a la débil capacidad institucional de verificar el desempeño y  la supervisión de los niveles efectivos de  cumplimiento  de    parte  de  los  docentes.  Los  niveles  de  coacción  y condicionamiento ejercido por las organizaciones magisteriales, impiden contar  con  un  mínimo  de  transparencia  adecuada  a  la  hora  de    verificar  y evaluar la veracidad de los informes de rendición de cuentas  al nivel nacional y  de  las  oficinas  departamentales  de  educación.  Igualmente,  los  niveles escasos de participación de las asociaciones de padres de familia en la toma de  decisiones  relevantes  respecto  de    indicadores  de  desempeño  de  cada establecimiento educativo, indican la casi total ausencia de dispositivos para medir la satisfacción de los usuarios -alumnos, padres de familia, empleadores- respecto de la calidad de los servicios educativos.
+6. Niveles Incipientes de Supervisión y Evaluación Docente. Otro problema de índole estructural concierne a los persistentemente bajos niveles de supervisión y evaluación docente, los cuales se asocian a la rigidez del modelo gerencial imperante y particularmente, a la débil capacidad institucional de verificar el desempeño y la supervisión de los niveles efectivos de cumplimiento de parte de los docentes. Los niveles de coacción y condicionamiento ejercido por las organizaciones magisteriales, impiden contar con un mínimo de transparencia adecuada a la hora de verificar y evaluar la veracidad de los informes de rendición de cuentas al nivel nacional y de las oficinas departamentales de educación. Igualmente, los niveles escasos de participación de las asociaciones de padres de familia en la toma de decisiones relevantes respecto de indicadores de desempeño de cada establecimiento educativo, indican la casi total ausencia de dispositivos para medir la satisfacción de los usuarios - alumnos, padres de familia, empleadores- respecto de la calidad de los servicios educativos.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 66
 
@@ -1339,11 +1209,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 67]]
 
-- Baja Calidad del Entorno Escolar. La problemática referente a la calidad del entorno escolar en referencia a: dotación de mobiliario, materiales educativos, equipo,  tecnología  y  conectividad,  aunque  no  se  considera  un  problema generalizado  en  todo  el  territorio  si  existe  consenso  acerca  de  una  mayor incidencia en los establecimientos escolares del sector rural, que  son percibidos  como  los más  desprovistos  de  los entornos escolares  más apropiados.  La  disposición  de  computadoras  y  enlaces  de  internet  es,  por ahora,  una  realidad  apenas  visible  en  algunas  escuelas  públicas  de  los sectores  urbanos  y  por  ello,  es  manifiesta  la  desigualdad  en  el  acceso  a información  y  tecnologías  de  parte  de  educandos  que  asisten  a  escuelas desprovistas de materiales y equipos, que si existen de manera generalizada en escuelas y colegios del subsector privado.
+7. Baja Calidad del Entorno Escolar. La problemática referente a la calidad del entorno escolar en referencia a: dotación de mobiliario, materiales educativos, equipo, tecnología y conectividad, aunque no se considera un problema generalizado en todo el territorio si existe consenso acerca de una mayor incidencia en los establecimientos escolares del sector rural, que son percibidos como los más desprovistos de los entornos escolares más apropiados. La disposición de computadoras y enlaces de internet es, por ahora, una realidad apenas visible en algunas escuelas públicas de los sectores urbanos y por ello, es manifiesta la desigualdad en el acceso a información y tecnologías de parte de educandos que asisten a escuelas desprovistas de materiales y equipos, que si existen de manera generalizada en escuelas y colegios del subsector privado.
 
-- Ausencia de Políticas  Públicas  educacionales  capaces  de  garantizar  la formación de ciudadanía. Se considera un grave problema estructural que no  existan  dispositivos  estratégicos  y  normativos  para  garantizar  que  las políticas públicas puedan asegurar, bajo un ritmo cada vez más progresivo, el suministro y la adquisición de competencias para garantizar el ejercicio de una ciudadanía de valores y mayores contenidos respecto de prácticas y actitudes de emancipación e integración social del hondureño promedio. La perspectiva de  formación  ciudadana,  al  igual  que  la  perspectiva  de  afianzamiento  de  la cohesión familiar, representa   dotar al hondureño de las fuerzas básicas para interactuar en una sociedad política cada vez más compleja.
+8. Ausencia de Políticas Públicas educacionales capaces de garantizar la formación de ciudadanía. Se considera un grave problema estructural que no existan dispositivos estratégicos y normativos para garantizar que las políticas públicas puedan asegurar, bajo un ritmo cada vez más progresivo, el suministro y la adquisición de competencias para garantizar el ejercicio de una ciudadanía de valores y mayores contenidos respecto de prácticas y actitudes de emancipación e integración social del hondureño promedio. La perspectiva de formación ciudadana, al igual que la perspectiva de afianzamiento de la cohesión familiar, representa dotar al hondureño de las fuerzas básicas para interactuar en una sociedad política cada vez más compleja.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 67
 
@@ -1351,13 +1221,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 68]]
 
-##### ENUNCIADOS DE VISIÓN - EDUCACIÓN COMO MEDIO PRINCIPAL DE EMANCIPACIÓN SOCIAL
+##### ENUNCIADOS DE VISIÓN – EDUCACIÓN COMO MEDIO PRINCIPAL DE EMANCIPACIÓN SOCIAL
 
 Al año 2022, la sociedad Hondureña dispondrá de un sistema educativo transformado  que  afiance  los  procesos  de  construcción  de  identidad  nacional, propicie el avance en lo concerniente a ciudadanía civil, social, política, económica  y cultural y sobre todo, que asegure el despliegue continuo de la capacidad competitiva de individuos y unidades empresariales. La perspectiva de familia se habrá incorporado como eje transversal del contenido académico. 100% de los establecimientos  de  educación  pública  estarán  cumpliendo  200  días  anuales  de clases, la cobertura de educación pre-escolar será del 75%, se contará con cobertura plena en educación primaria, 80% en educación media (séptimo a noveno grados), 70% en medio (décimo a doceavo grados), 35% de los establecimientos educativos del país estarán certificados bajo normas internacionales y el rendimiento promedio en  español  y  matemáticas  se  habrá  elevado  de  40  a  60%.    Las  universidades  se habrán convertido en centros académicos de excelencia, certificadas en calidad de enseñanza  de  acuerdo  con  normas  internacionales  y  estarán  contribuyendo  al crecimiento y modernización del aparato productivo nacional, mediante la transferencia efectiva de tecnología.
 
 Al  año  2034 ,  la  sociedad  hondureña  habrá  alcanzado  al  menos  un  90%  del cumplimiento  de  las  metas  ERP  (Duplicar  la  cobertura  en  educación  pre-básica, lograr  una  cobertura  de  95%  en  el  acceso  a  los  dos  primeros  ciclos  de  educación básica, lograr una cobertura neta del 80% en el tercer ciclo de educación, lograr que el  60% de la nueva fuerza laboral complete la educación media) y las metas ODM
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 68
 
@@ -1371,9 +1241,9 @@ Para el año 2038 , Honduras dispondrá de un sistema educativo eficiente, gener
 
 #### CULTURA
 
-La descentralización de la cultura en Honduras es un proceso en construcción que comenzó a desarrollarse en el año 2007 a iniciativa de la Secretaria de Cultura Artes y Deportes, partiendo de una subdivisión territorial  en 7 regiones del país, con base en  criterios  de  territorialidad  y  cercanía  geográfica.  Desde  su  conformación  los consejos  regionales    carecieron  de  una  lógica  de  funcionamiento  que  partiera  del ámbito  local  (municipios  y  comunidades)  y  avanzara  hacia  la  conformación  de estructuras regionales. Lo anterior dio como  resultado que estas estructuras regionales no constituyan instancias de representatividad local y surjan sin objetivos, mecanismos  de  gestión  y  funciones  claras.  Tampoco  se  agruparon  con  base  en criterios  de  territorialidad,  identidad  o  de  grados  de  gestión  cultural  comunes,  ni  se ven  a  sí  mismas  como    instancias  de  participación  ciudadana  en  la  toma  de decisiones y en la ejecución de iniciativas culturales.
+La descentralización de la cultura en Honduras es un proceso en construcción que comenzó a desarrollarse en el año 2007 a iniciativa de la Secretaria de Cultura Artes y Deportes, partiendo de una subdivisión territorial en 7 regiones del país, con base en criterios de territorialidad y cercanía geográfica. Desde su conformación los consejos regionales carecieron de una lógica de funcionamiento que partiera del ámbito local (municipios y comunidades) y avanzara hacia la conformación de estructuras regionales. Lo anterior dio como resultado que estas estructuras regionales no constituyan instancias de representatividad local y surjan sin objetivos, mecanismos de gestión y funciones claras. Tampoco se agruparon con base en criterios de territorialidad, identidad o de grados de gestión cultural comunes, ni se
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 69
 
@@ -1381,15 +1251,17 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 70]]
 
-Por  descentralización  de  la  cultura  podemos  entender  el  conjunto  de  instancias  y procesos de desarrollo institucional y comunitario que, a través de  mecanismos de planificación,  ejecución  y  seguimiento  articulados  entre  sí,  facilitan  el  desarrollo cultural  y  el  acceso  a  la  comunidad  de  los  bienes  y  servicios  culturales,  según  los principios de descentralización, participación, interculturalidad, autonomía, equidad y concertación.
+ven a sí mismas como instancias de participación ciudadana en la toma de decisiones y en la ejecución de iniciativas culturales.
+
+Por descentralización de la cultura podemos entender el conjunto de instancias y procesos de desarrollo institucional y comunitario que, a través de mecanismos de planificación, ejecución y seguimiento articulados entre sí, facilitan el desarrollo cultural y el acceso a la comunidad de los bienes y servicios culturales, según los principios de descentralización, participación, interculturalidad, autonomía, equidad y concertación.
 
 Es importante comprender que la democracia sustentada en la interculturalidad no se construye desde la estructura  institucional del municipio o del Estado, sino desde la gente, partiendo de las necesidades, la lógica, el conocimiento, las tradiciones y las prácticas locales de los sectores que han estado al margen de la toma de decisiones en la gestión municipal y estatal.
 
 Este proceso de descentralización que es necesario completar y perfeccionar, debe tener  como  propósito,  promover  y  lograr  la  consolidación  de  una  cultura  de  la participación,  descentralización,  concertación  y  transparencia  donde  se  valore  el consenso social por encima de los intereses particulares y privados.
 
-En el marco del Plan de Nación, el proceso debe ser suficientemente flexible para que permita  a  todos  los  sectores  desplegar  su  creatividad  con  sus  propias  lógicas  y modos de producción artística y cultural para que todos, en igualdad de condiciones, puedan  aportar  a  la  riqueza  cultural  de  los  municipios  y  regiones,  participando activamente  en  los  procesos  de  formación,  investigación,  creación,  circulación  y disfrute  de  las  expresiones  culturales  de  todos  los  sectores  desde  sus  propias culturas, identidades y valores.
+En el marco del Plan de Nación, el proceso debe ser suficientemente flexible para que permita a todos los sectores desplegar su creatividad con sus propias lógicas y modos de producción artística y cultural para que todos, en igualdad de condiciones, puedan aportar a la riqueza cultural de los municipios y regiones, participando activamente en los procesos de formación, investigación, creación, circulación y
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 70
 
@@ -1397,17 +1269,19 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 71]]
 
+disfrute de las expresiones culturales de todos los sectores desde sus propias culturas, identidades y valores.
+
 ##### LOS GRANDES DESAFIOS EN MATERIA DE CULTURA COMO MEDIO DE CONSTRUCCION DE IDENTIDAD
 
-- Integración de los Consejos Regionales de Cultura, adscritos a las Consejos Regionales  de  Desarrollo.  Los  Consejos  Regionales  de  Cultura  se  conciben como  espacios  de  toma  de  decisiones  sobre  programas  y  presupuesto, priorización  de  emprendimientos, programación cultural y establecimiento de alianzas gobierno, sector empresarial, ciudadanía y cooperación, que estarán apoyados por una red de conexión a información, capacitación y mercados y un sistema de incubación empresarial.
+1. Integración de los Consejos Regionales de Cultura, adscritos a las Consejos Regionales de Desarrollo. Los Consejos Regionales de Cultura se conciben como espacios de toma de decisiones sobre programas y presupuesto, priorización de emprendimientos, programación cultural y establecimiento de alianzas gobierno, sector empresarial, ciudadanía y cooperación, que estarán apoyados por una red de conexión a información, capacitación y mercados y un sistema de incubación empresarial.
 
 Su  principal  función  seria      la  creación  de  las  Estrategias  Regionales  de Cultura,  la  elaboración  de  propuestas  y  proyectos  y  la  gestión  de  recursos para  las actividades culturales  ante la cooperación internacional y el gobierno central y la fiscalización social del buen uso de esos recursos.
 
 Esto  incluye  su  función  como  instancia  de  deliberación,  concertación  e incidencia para la definición de la Política Nacional de Cultura y su representación ante la Secretaria de Cultura, Artes y Deportes.
 
-- Honduras  debe  promover  las  expresiones  artísticas y culturales de la ciudadanía,  como  un  medio  idóneo  para  el  fortalecimiento  de  la  identidad nacional. En este sentido, la mejora y ampliación de las instalaciones de los centros  académicos  para  la  formación  de  artistas  en  todas  las  regiones  del país  deberá  incluirse  dentro  de  los  programas  de  inversión  pública  y  el programa de imagen país, incluirá un componente para la promoción y apoyo de los artistas hondureños y la proyección de sus obras hacia el exterior, para todas  las  formas  de  expresión  artística.  El  Estado  tutelará  y  patrocinará  las
+2. Honduras debe promover las expresiones artísticas y culturales de la ciudadanía, como un medio idóneo para el fortalecimiento de la identidad nacional. En este sentido, la mejora y ampliación de las instalaciones de los centros académicos para la formación de artistas en todas las regiones del país deberá incluirse dentro de los programas de inversión pública y el programa de imagen país, incluirá un componente para la promoción y apoyo de los artistas hondureños y la proyección de sus obras hacia el exterior, para todas las formas de expresión artística. El Estado tutelará y patrocinará las
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 71
 
@@ -1417,13 +1291,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 organizaciones culturales, asignará recursos para su florecimiento y promoverá la difusión de las obras artísticas en todo el territorio nacional.
 
-- Las agrupaciones culturales se consideran fundamentales para la formación y fortalecimiento  del  tejido  social.  En  consecuencia,  la  promoción  de  grupos teatrales, orquestas, bandas, ensambles y conjuntos musicales, coros, grupos literarios,  clubes  de  lectura,  talleres  de  pintura,  escultura  y  artes  plásticas, ligas  de  escritores  y  otras  agrupaciones  similares;  así  como  el  apoyo  a iniciativas empresariales de apoyo a las artes y construcción de instalaciones para ampliar el acceso de los ciudadanos a las producciones artísticas y en general,  a  las  manifestaciones  de  la  cultura  y  la  diversidad  en  todas  sus formas,  deben  tener  el  apoyo  y  patrocinio  del  Estado  y  la  sociedad.  Las políticas del Estado procurarán favorecer el establecimiento de iniciativas que, como parte de los programas de responsabilidad social empresarial, procuren que las empresas privadas colaboren con los esfuerzos del Gobierno para el fomento y perfeccionamiento de estas actividades.
+3. Las agrupaciones culturales se consideran fundamentales para la formación y fortalecimiento del tejido social. En consecuencia, la promoción de grupos teatrales, orquestas, bandas, ensambles y conjuntos musicales, coros, grupos literarios, clubes de lectura, talleres de pintura, escultura y artes plásticas, ligas de escritores y otras agrupaciones similares; así como el apoyo a iniciativas empresariales de apoyo a las artes y construcción de instalaciones para ampliar el acceso de los ciudadanos a las producciones artísticas y en general, a las manifestaciones de la cultura y la diversidad en todas sus formas, deben tener el apoyo y patrocinio del Estado y la sociedad. Las políticas del Estado procurarán favorecer el establecimiento de iniciativas que, como parte de los programas de responsabilidad social empresarial, procuren que las empresas privadas colaboren con los esfuerzos del Gobierno para el fomento y perfeccionamiento de estas actividades.
 
 ##### ENUNCIADOS DE VISION EN LA CONSOLIDACION DE LA CULTURA COMO MEDIO PARA AFIRMAR LA IDENTIDAD NACIONAL
 
-Para el año 2022 , los Consejos Regionales de Cultura serán la instancia consolidada para  la  promoción,  fomento  y  difusión  del  arte  y  la  cultura,  contando  con  el  pleno apoyo  del  Estado  a  través  de  la  Secretaria  de  Cultura,  Artes  y  Deportes.  La producción de obras artísticas y literarias en el país habrá crecido y será muestra de la  diversidad  étnica,  cultural  y  social  del  país  y  en  el  proceso  de  formación  del conocimiento, en los centros educativos de enseñanza se promoverá la formación de agrupaciones  culturales  en  todos  los  niveles  de  la  educación.  Se  habrá  logrado promover la participación de los grupos étnicos en los proyectos de desarrollo cultural para alcanzar un 25% de los beneficiarios y se habrá logrado aumentar el acceso de la  población  a  los  centros  de  difusión  de  la  cultura,  mediante  la  habilitación  de bibliotecas físicas y virtuales, así como la realización de eventos culturales en cada región del país.
+Para el año 2022, los Consejos Regionales de Cultura serán la instancia consolidada para la promoción, fomento y difusión del arte y la cultura, contando con el pleno apoyo del Estado a través de la Secretaria de Cultura, Artes y Deportes. La producción de obras artísticas y literarias en el país habrá crecido y será muestra de la diversidad étnica, cultural y social del país y en el proceso de formación del conocimiento, en los centros educativos de enseñanza se promoverá la formación de agrupaciones culturales en todos los niveles de la educación. Se habrá logrado promover la participación de los grupos étnicos en los proyectos de desarrollo cultural
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 72
 
@@ -1431,11 +1305,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 73]]
 
-Para  el  año  2034 , la producción artística  hondureña  será difundida a nivel internacional y el país habrá consolidado su posición en la región centroamericana como generador de obras artísticas y literarias de excelencia. Se habrá establecido un  sistema  de  concursos,  reconocimientos  y  premios  con  alcance  regional  para  la producción artística de excelencia y se habrán creado los medios idóneos para que la producción cultural se realice a nivel municipal.
+para alcanzar un 25% de los beneficiarios y se habrá logrado aumentar el acceso de la población a los centros de difusión de la cultura, mediante la habilitación de bibliotecas físicas y virtuales, así como la realización de eventos culturales en cada región del país.
+
+Para el año 2034, la producción artística hondureña será difundida a nivel internacional y el país habrá consolidado su posición en la región centroamericana como generador de obras artísticas y literarias de excelencia. Se habrá establecido un sistema de concursos, reconocimientos y premios con alcance regional para la producción artística de excelencia y se habrán creado los medios idóneos para que la producción cultural se realice a nivel municipal.
 
 Para el año 2038, el país contará con un medio cultural y artístico, vibrante, activo y productivo, cuyas realizaciones y logros serán motivo de orgullo y reconocimiento por parte de la población, habiéndose incorporado a la cultura e identidad nacional.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 73
 
@@ -1443,29 +1319,24 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 74]]
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+### SALUD COMO FUNDAMENTO PARA LA MEJORA DE LAS CONDICIONES DE VIDA
+1 2 3
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 74
-
-### SALUD COMO FUNDAMENTO PARA LA MEJORA DE LAS CONDICIONES DE VIDA
-
-1
-
-2
-
-3
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
 
-La  situación  general  del  sector  salud  puede  describirse  en  el  marco  de  un  cuadro situacional complejo, donde sobresalen tres grandes componentes problemáticos que entre sí, refuerzan y condicionan el gran problema de falta de correspondencia entre necesidades  y  soluciones  posibles.  Estos  tres  grandes  componentes: 1 ).-Sistema fragmentado  de  subsistemas  de  atención  en  salud  -Secretaría  de  Salud,  IHSS  y Sistema empresarial-social de establecimientos de salud,  2).-  Población general en situación  de  malestar  social,  enfrentando  problemas  estructurales-coyunturales  de salud-enfermedad y; 3) Conjunto institucional y sectorial del Estado, desarticulado y con incipiente aporte a las metas del sector salud.
+La situación general del sector salud puede describirse en el marco de un cuadro situacional complejo, donde sobresalen tres grandes componentes problemáticos que entre sí, refuerzan y condicionan el gran problema de falta de correspondencia entre necesidades y soluciones posibles. Estos tres grandes componentes: 1).-Sistema fragmentado de subsistemas de atención en salud –Secretaría de Salud, IHSS y Sistema empresarial-social de establecimientos de salud, 2).- Población general en situación de malestar social, enfrentando problemas estructurales-coyunturales de salud-enfermedad y; 3) Conjunto institucional y sectorial del Estado, desarticulado y con incipiente aporte a las metas del sector salud.
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE  SALUD, COMO FUNDAMENTO PARA LA MEJORA DE LAS CONDICIONES DE VIDA
 
-- Enfrentar  la  problemática  derivada  de  un  sistema  fragmentado  de subsistemas de atención en salud: Secretaría de Salud, IHSS y sistema empresarial-social de establecimientos de salud .  El  sistema  de  atención en salud - SS, IHSS y sistema social empresarial-social de atención-  implica una  especialización  institucional  de  la  atención,  donde  los  más  pobres  son atendidos  con  escasa  eficacia  por  parte  de  la  red  de  establecimientos hospitalarios  y  ambulatorios  de  la  Secretaría  de  Salud;  una  porción  de aproximadamente el 60% de los trabajadores del sector formal cubiertas por los  establecimientos  del  IHSS,  incluyendo  los  subsistemas  subrogados, donde  prevalecen  modelos  de  gestión  cuya  producción  de  respuestas funciona  bajo  orientaciones  sesgadas  a  la  atención  del  daño;  y,  el  sistema empresarial-social  de  atención  que  cubre  las  necesidades  de  los  menos pobres; siempre en atención del daño, con un stock de recursos y tecnología casi  completamente  fuera  del  alcance  de  los  segmentos  poblacionales  de
+1. Enfrentar la problemática derivada de un sistema fragmentado de subsistemas de atención en salud: Secretaría de Salud, IHSS y sistema empresarial-social de establecimientos de salud. El sistema de atención en salud – SS, IHSS y sistema social empresarial-social de atención- implica una especialización institucional de la atención, donde los más pobres son atendidos con escasa eficacia por parte de la red de establecimientos hospitalarios y ambulatorios de la Secretaría de Salud; una porción de aproximadamente el 60% de los trabajadores del sector formal cubiertas por los establecimientos del IHSS, incluyendo los subsistemas subrogados, donde prevalecen modelos de gestión cuya producción de respuestas funciona bajo orientaciones sesgadas a la atención del daño; y, el sistema empresarial-social de atención que cubre las necesidades de los menos pobres; siempre en atención del daño, con un stock de recursos y tecnología casi completamente fuera del alcance de los segmentos poblacionales de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 75
 
@@ -1473,13 +1344,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 76]]
 
-menores  ingresos.  En  vez  de  contar  con  un  sistema  nacional  de  salud articulado  y  trabajando  al  unísono  para  reducir  las  inequidades  de  saludenfermedad, lo existente es un conjunto de subsectores funcionando en una clara  desarticulación  de  la  atención,    produciendo  impactos  sociales  muy limitados y diferenciados.
+menores ingresos. En vez de contar con un sistema nacional de salud articulado y trabajando al unísono para reducir las inequidades de salud-enfermedad, lo existente es un conjunto de subsectores funcionando en una clara desarticulación de la atención, produciendo impactos sociales muy limitados y diferenciados.
 
-- Atender  con  efectividad  y  calidad  una  población  en  situación  de malestar  social  enfrentando  problemas  estructurales-coyunturales  de salud-enfermedad .  El  segundo  gran  problema,  referente  a  la  existencia  de una  gran proporción de la población en situación de malestar social enfrentando  problemas  estructurales-coyunturales  de  salud-enfermedad,  se refiere a una base problemática de factores y condiciones sociales relativamente inalterables que producen a lo largo del tiempo los problemas estructurales  de  salud-enfermedad  del  país.  Esto  refiere  expresamente  la situación de miles de hogares -urbanos y rurales- sin acceso a agua potable y  a  redes  de  saneamiento  donde  los  espacios  de  hábitat  y  convivencia humana funcionan como reservorios naturales de enfermedades infecciosas y generalmente, de alta transmisibilidad.
+2. Atender con efectividad y calidad una población en situación de malestar social enfrentando problemas estructurales-coyunturales de salud-enfermedad. El segundo gran problema, referente a la existencia de una gran proporción de la población en situación de malestar social enfrentando problemas estructurales-coyunturales de salud-enfermedad, se refiere a una base problemática de factores y condiciones sociales relativamente inalterables que producen a lo largo del tiempo los problemas estructurales de salud-enfermedad del país. Esto refiere expresamente la situación de miles de hogares –urbanos y rurales- sin acceso a agua potable y a redes de saneamiento donde los espacios de hábitat y convivencia humana funcionan como reservorios naturales de enfermedades infecciosas y generalmente, de alta transmisibilidad.
 
-La no alteración de las condiciones materiales de vida de gran parte de los hogares de Honduras genera, y mientras persista siempre estará generando, problemas de salud-enfermedad que escapan a la capacidad resolutiva de la Secretaría de Salud y a todo el sistema nacional de salud en su conformación actual. Los problemas de salud-enfermedad más  de corte coyuntural, enfermedades  como:  Dengue,  Dengue  Hemorrágico,  H1N1,  etc.,  más  la inclusión de aquellos asociados a la producción social de violencia - lesiones de causa externa- igualmente inciden con mayor impacto entre los pobladores hondureños que viven en peores condiciones de vida. Se adhiere, por tanto, el problema fundamental de falta de correspondencia entre el cuadro situacional de condiciones de vida y la propia conformación actual de los subsectores de atención en salud.
+La no alteración de las condiciones materiales de vida de gran parte de los hogares de Honduras genera, y mientras persista siempre estará generando, problemas de salud-enfermedad que escapan a la capacidad resolutiva de la Secretaría de Salud y a todo el sistema nacional de salud en su conformación actual. Los problemas de salud-enfermedad más de corte coyuntural, enfermedades como: Dengue, Dengue Hemorrágico, H1N1, etc., más la inclusión de aquellos asociados a la producción social de violencia – lesiones
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 76
 
@@ -1487,9 +1358,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 77]]
 
-- Conjunto  institucional  y  sectorial  del  Estado,  desarticulado  y  con incipiente aporte a las metas del sector salud . El tercer gran problema, se conceptualiza a partir del estado de desarticulación del  conjunto institucional -público y privado- que sin posibilidades de impactar de manera eficaz, las metas pactadas del sector salud, representa reconocer las escasas posibilidades  de  transformar  la  dimensión  estructural  y  coyuntural  de  los factores  generadores  de  problemas  de  salud-enfermedad,  puesto  que  las orientaciones  básicas,  que  guían  el  quehacer  diario  de  cada  uno  de  los subsectores son diversas, y donde al no existir garantía de complementariedad    de  acciones,  el  resultado  siempre  sería  un  progreso diferenciado en el cumplimiento de metas según las capacidades y condiciones  de  los  diferentes  grupos  sociales.  Los  pobres,  sin  agua  ni saneamiento, atendidos por la Secretaría de Salud, estarían lejos de acceder al  bienestar  en  tanto  continúe  el  mismo  modelo  de  gestión  y  la  tendencia actual  de  deterioro  de  la  red  de  servicios.  El  resto  de  segmentos  de  la sociedad  alcanzarán solo parcialmente mejores indicadores, asociados a las transformaciones  de  la  oferta  tecnológica  de  servicios  de  atención,  puesto que  a  la  postre,  los  problemas  de  salud-enfermedad  de  los  más  pobres terminarán por afectar la sostenibilidad de logros de la población atendida por
+de causa externa- igualmente inciden con mayor impacto entre los pobladores hondureños que viven en peores condiciones de vida. Se adhiere, por tanto, el problema fundamental de falta de correspondencia entre el cuadro situacional de condiciones de vida y la propia conformación actual de los subsectores de atención en salud.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+3. Conjunto institucional y sectorial del Estado, desarticulado y con incipiente aporte a las metas del sector salud. El tercer gran problema, se conceptualiza a partir del estado de desarticulación del conjunto institucional –público y privado- que sin posibilidades de impactar de manera eficaz, las metas pactadas del sector salud, representa reconocer las escasas posibilidades de transformar la dimensión estructural y coyuntural de los factores generadores de problemas de salud-enfermedad, puesto que las orientaciones básicas, que guían el quehacer diario de cada uno de los subsectores son diversas, y donde al no existir garantía de complementariedad de acciones, el resultado siempre sería un progreso diferenciado en el cumplimiento de metas según las capacidades y condiciones de los diferentes grupos sociales. Los pobres, sin agua ni saneamiento, atendidos por la Secretaría de Salud, estarían lejos de acceder al bienestar en tanto continúe el mismo modelo de gestión y la tendencia actual de deterioro de la red de servicios. El resto de segmentos de la sociedad alcanzarán solo parcialmente mejores indicadores, asociados a las transformaciones de la oferta tecnológica de servicios de atención, puesto que a la postre, los problemas de salud-enfermedad de los más pobres terminarán por afectar la sostenibilidad de logros de la población atendida por
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 77
 
@@ -1503,11 +1376,11 @@ Al  margen  de  todos  los  cambios  posibles  en  el  seno  del Sector  Salud, 
 
 Las  posibilidades  de  resolver  los  grandes  problemas  del  sector  salud,  admiten inicialmente  un  tratamiento  bajo  orientaciones  estratégicas  de  la  Visión  de  País,  el Plan de Nación y los Planes de Gobierno, como instancias inter temporales que, en su momento, concederán énfasis diferenciados según la naturaleza de las transformaciones a implementar.
 
-#### ENUNCIADOS DE VISIÓN - SALUD, COMO FUNDAMENTO PARA LA MEJORA DE LAS CONDICIONES DE VIDA
+#### ENUNCIADOS DE VISIÓN – SALUD, COMO FUNDAMENTO PARA LA MEJORA DE LAS CONDICIONES DE VIDA
 
-Al  año  2022, la  sociedad    Hondureña  dispondrá  de  un  sistema  bien  ordenado  de competencias intersectoriales, sectoriales e institucionales que garantizarán el pleno cumplimiento de las metas de salud establecidas en ERP, ODM y Visión de País, sin que  existan  grandes  diferencias  en  la  calidad  de  atención  suministrada  en  los subsistemas de salud. Al año 2022 la sociedad hondureña habrá logrado: 1) Reducir a la mitad las tasas de mortalidad infantil y en niños menores de 5 años; 2) Disminuir a no más de 20% la incidencia de desnutrición en menores de 5 años; 3) Reducir la mortalidad materna en tres cuartas partes; 4) Haber detenido y comenzado a reducir, la propagación del VIH/SIDA; 5) Haber detenido y comenzado a reducir, la incidencia del paludismo y otras enfermedades graves; 6) Reducir a la mitad, el porcentaje de personas  que  carezcan  de  acceso  sostenible  a  agua  potable.  Adicionalmente,  la calidad  de  atención  a  los  ciudadanos  en  los  centros  de  salud  habrá  mejorado notablemente,  reduciéndose  el  tiempo  de  espera  en  las  antesalas  de  consulta,  el número  de  días  de  espera  para  operaciones  programadas,  y  habrá  aumentado  al 95%  la proporción de prescripciones médicas  atendidas directamente en los hospitales y centros de salud del Estado.
+Al año 2022, la sociedad Hondureña dispondrá de un sistema bien ordenado de competencias intersectoriales, sectoriales e institucionales que garantizarán el pleno cumplimiento de las metas de salud establecidas en ERP, ODM y Visión de País, sin que existan grandes diferencias en la calidad de atención suministrada en los subsistemas de salud. Al año 2022 la sociedad hondureña habrá logrado: 1) Reducir a la mitad las tasas de mortalidad infantil y en niños menores de 5 años; 2) Disminuir
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 78
 
@@ -1515,9 +1388,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 79]]
 
-Al  año  2034 ,  Al  año  2034,  Honduras  dispondrá  de  un  sistema  nacional  de  salud ordenado y cubriendo de manera apropiada las necesidades de salud-enfermedad de su  población,  urbana  y  rural,  que  habrá  mejorado  sustancialmente  sus  niveles  de bienestar  debido  a  que  han  sido  modificadas  sus  condiciones  materiales  de  vida, junto a entornos de convivencia más saludables. Al año 2034, la sociedad hondureña habrá logrado:1) Reducir al promedio latinoamericano las tasas de mortalidad infantil y  en  niños  menores  de  5  años;  2)  Disminuir  a  no  más  de  5%  la  incidencia  de desnutrición  en  menores  de  5  años;  3)  Reducir  la  mortalidad  materna  al  promedio latinoamericano,  4)  Haber  logrado  una  clara  declinación  en  la  propagación  del VIH/SIDA;  5)  Haber  reducido  en  un  90%  la  incidencia  del  paludismo  y  otras enfermedades graves; 6) Reducir a menos del 10% el porcentaje de personas que carezcan  de  acceso  sostenible  a  agua  potable.  Las  mejoras  en  la  calidad  de  los servicios de salud a los ciudadanos se habrán consolidado y se habrá desarrollado una  actitud  de  servicio  en  el  personal  médico,  de  enfermería  y  administrativo/ operativo que presta servicio en hospitales y centros de salud estatales.
+a no más de 20% la incidencia de desnutrición en menores de 5 años; 3) Reducir la mortalidad materna en tres cuartas partes; 4) Haber detenido y comenzado a reducir, la propagación del VIH/SIDA; 5) Haber detenido y comenzado a reducir, la incidencia del paludismo y otras enfermedades graves; 6) Reducir a la mitad, el porcentaje de personas que carezcan de acceso sostenible a agua potable. Adicionalmente, la calidad de atención a los ciudadanos en los centros de salud habrá mejorado notablemente, reduciéndose el tiempo de espera en las antesalas de consulta, el número de días de espera para operaciones programadas, y habrá aumentado al 95% la proporción de prescripciones médicas atendidas directamente en los hospitales y centros de salud del Estado.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Al año 2034, Al año 2034, Honduras dispondrá de un sistema nacional de salud ordenado y cubriendo de manera apropiada las necesidades de salud-enfermedad de su población, urbana y rural, que habrá mejorado sustancialmente sus niveles de bienestar debido a que han sido modificadas sus condiciones materiales de vida, junto a entornos de convivencia más saludables. Al año 2034, la sociedad hondureña habrá logrado:1) Reducir al promedio latinoamericano las tasas de mortalidad infantil y en niños menores de 5 años; 2) Disminuir a no más de 5% la incidencia de desnutrición en menores de 5 años; 3) Reducir la mortalidad materna al promedio latinoamericano, 4) Haber logrado una clara declinación en la propagación del VIH/SIDA; 5) Haber reducido en un 90% la incidencia del paludismo y otras enfermedades graves; 6) Reducir a menos del 10% el porcentaje de personas que carezcan de acceso sostenible a agua potable. Las mejoras en la calidad de los servicios de salud a los ciudadanos se habrán consolidado y se habrá desarrollado una actitud de servicio en el personal médico, de enfermería y administrativo/ operativo que presta servicio en hospitales y centros de salud estatales.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 79
 
@@ -1527,7 +1402,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Para el año 2038 , Honduras habrá sentado las bases de un sistema de salud capaz de atender las demandas de toda la población y desarrollará esfuerzos sustantivos para profundizar en su sostenibilidad y calidad.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 80
 
@@ -1543,7 +1418,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 4
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 81
 
@@ -1557,7 +1432,7 @@ La inseguridad, no solo física sino también jurídica, debe ser combatida medi
 
 Honduras es parte de la geografía de la inseguridad que abarca a México y América Central,  impulsada  por  el  crimen  organizado  y  sus  redes  transnacionales.  Esta realidad obliga no solo a realizar alianzas internacionales, para aumentar  la efectividad de las acciones para combatir este tipo de delitos, sino también a mejorar la protección de fronteras y de áreas del territorio nacional que están siendo utilizadas por  los  grupos  criminales  con  relativa  impunidad.  La  protección  de  las  fronteras nacionales  es  concebida  como  una  condición  para  reforzar  la  disuasión  hacia  los ataques contra la seguridad nacional de origen externo y a la vez, como un requisito para aumentar y fortalecer la confianza interna en la efectividad de la lucha contra la inseguridad.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 82
 
@@ -1567,13 +1442,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE  SEGURIDAD COMO REQUISITO DEL DESARROLLO
 
-- Desarrollar una política sobre seguridad, fundamentada en siete grandes pilares: La recuperación de la credibilidad de los operadores de justicia; el fortalecimiento  y  la  coordinación  institucional  entre  los  operadores;  un nuevo y más eficiente  sistema penitenciario;  un  programa  más completo de previsión social policial; el  fomento  de capacidades  y acciones preventivas;  el  combate  a  las  causas  generadoras  y  facilitadoras  de  la delincuencia y; la implementación de un Sistema Nacional de Inteligencia Policial.
+1. Desarrollar una política sobre seguridad, fundamentada en siete grandes pilares: La recuperación de la credibilidad de los operadores de justicia; el fortalecimiento y la coordinación institucional entre los operadores; un nuevo y más eficiente sistema penitenciario; un programa más completo de previsión social policial; el fomento de capacidades y acciones preventivas; el combate a las causas generadoras y facilitadoras de la delincuencia y; la implementación de un Sistema Nacional de Inteligencia Policial.
 
-- Implementar  un  modelo  de  administración  de  los  recursos  policiales  con descentralización operativa, identificando los delitos que más impactan en los  diferentes  grupos,  regiones  y  municipios  del  país.  El  modelo  debe permitir la evaluación  de  los principales delitos contra la  seguridad ciudadana, grupos sociales afectados e involucramiento de actores estatales y diversos, en cuatro niveles: internacional, nacional, regional y municipal.  Asimismo,  deben  generarse  capacidades  para  desarrollar  un proceso  continuo  de  categorización,  identificando  delitos  menores  que pueden ser atendidos antes de entrar en el sistema judicial (solución prejudicial  de  los  mismos)  y  utilizar  más  eficientemente  los  recursos  de  los operadores de justicia.
+2. Implementar un modelo de administración de los recursos policiales con descentralización operativa, identificando los delitos que más impactan en los diferentes grupos, regiones y municipios del país. El modelo debe permitir la evaluación de los principales delitos contra la seguridad ciudadana, grupos sociales afectados e involucramiento de actores estatales y diversos, en cuatro niveles: internacional, nacional, regional y municipal. Asimismo, deben generarse capacidades para desarrollar un proceso continuo de categorización, identificando delitos menores que pueden ser atendidos antes de entrar en el sistema judicial (solución pre-judicial de los mismos) y utilizar más eficientemente los recursos de los operadores de justicia.
 
-- Fortalecer  los  operadores  de  justicia  dotándoles  con  recursos  humanos,
+3. Fortalecer los operadores de justicia dotándoles con recursos humanos,
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 83
 
@@ -1583,15 +1458,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 físicos, tecnológicos y financieros suficientes.
 
-- Consolidar las bases de datos, producir estadísticas y proveer herramientas  para  administrar  la  información,  de  tal  forma  que  permita detectar  frecuencias,  identificar  patrones  y  modus  operandi,  así  como almacenar  datos  sobre  los  delitos  y  los  infractores,  para  conformar  un sistema  de  información  de  rápido  acceso  para  apoyar  las  labores  de investigación, así como relacionar los datos con información contenida en otras bases de datos del país y el exterior.
+4. Consolidar las bases de datos, producir estadísticas y proveer herramientas para administrar la información, de tal forma que permita detectar frecuencias, identificar patrones y modus operandi, así como almacenar datos sobre los delitos y los infractores, para conformar un sistema de información de rápido acceso para apoyar las labores de investigación, así como relacionar los datos con información contenida en otras bases de datos del país y el exterior.
 
-- Fortalecer la protección de las fronteras nacionales, así como la presencia de las fuerzas armadas y la policía nacional en las zonas del país donde las bandas criminales asociadas con el crimen organizado y el narcotráfico han venido operando. Suscribir y adherir al país a las iniciativas internacionales  que  se  están  ejecutando  para  combatir  este  flagelo  a  la seguridad interna.
+5. Fortalecer la protección de las fronteras nacionales, así como la presencia de las fuerzas armadas y la policía nacional en las zonas del país donde las bandas criminales asociadas con el crimen organizado y el narcotráfico han venido operando. Suscribir y adherir al país a las iniciativas internacionales que se están ejecutando para combatir este flagelo a la seguridad interna.
 
 #### ENUNCIADOS DE VISIÓN -  SEGURIDAD COMO REQUISITO DEL DESARROLLO
 
-Para  el  año  2022 ,  la  política  sobre  seguridad  habrá  transformado  el  sistema  de seguridad  en  Honduras,  incidiendo  en  una  reducción  de  la  tasa  de  homicidios  por cada 100,000 habitantes, la tasa de homicidios asociados a robo, la tasa de crímenes relacionados con narcotráfico, la tasa de delitos sexuales y la tasa de muertes por accidentes de tránsito todas al nivel promedio internacional. La conflictividad social se habrá  reducido  también  en  un  75%  como  producto  de  la  consolidación  de  los procesos de participación ciudadana y el progreso de las condiciones económicas y sociales del país, las cuales incidirán en las causas generadoras y facilitadoras de la delincuencia.  Honduras  habrá  alcanzado  niveles  de  seguridad  ciudadana  que  se traducirán en paz, sana convivencia y en ambiente propicio para la inversión nacional y extranjera.
+Para el año 2022, la política sobre seguridad habrá transformado el sistema de seguridad en Honduras, incidiendo en una reducción de la tasa de homicidios por cada 100,000 habitantes, la tasa de homicidios asociados a robo, la tasa de crímenes relacionados con narcotráfico, la tasa de delitos sexuales y la tasa de muertes por accidentes de tránsito todas al nivel promedio internacional. La conflictividad social se
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 84
 
@@ -1599,9 +1474,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 85]]
 
+habrá reducido también en un 75% como producto de la consolidación de los procesos de participación ciudadana y el progreso de las condiciones económicas y sociales del país, las cuales incidirán en las causas generadoras y facilitadoras de la delincuencia. Honduras habrá alcanzado niveles de seguridad ciudadana que se traducirán en paz, sana convivencia y en ambiente propicio para la inversión nacional y extranjera.
+
 Dadas las características del fenómeno seguridad, no se ofrecen enunciados de visión para los años 2034 y 2038. Estos deberán ser formulados en el momento de definición del Plan de Nación 2022-2034.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 85
 
@@ -1609,13 +1486,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 86]]
 
+### DESARROLLO REGIONAL, RECURSOS NATURALES Y AMBIENTE
+
 1
 
 3
 
-### DESARROLLO REGIONAL, RECURSOS NATURALES Y AMBIENTE
-
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 86
 
@@ -1627,9 +1504,9 @@ Con  una  extensión  territorial  de  112,492  kilómetros  cuadrados y  locali
 
 Más  de  650  kilómetros  de  faja  costera  sobre  el  Caribe,  alrededor  de  100,000 hectáreas de manglares con una importante riqueza en fauna en el Golfo de Fonseca, más  de  2  millones  de  hectáreas  de  tierras  bajas  con  alto  potencial  productivo,  la segunda barrera de arrecife vertical más importante del planeta, más de 2 millones de hectáreas de bosques ubicados en alrededor de 100 áreas protegidas, alrededor de 3.5 millones de hectáreas de bosques productivos, el segundo bosque lluvioso más importante de América, 239 cuerpos de agua continentales propios para el desarrollo acuícola,  5  sitios  en  la  lista  de  humedales  de  importancia  internacional  bajo  la convención  Ramsar,  la  Biosfera  del  Río  Plátano  y  las  Ruinas  de  Copán,  ambos reconocidos por la UNESCO como patrimonios de la Humanidad, 8 grupos étnicos o culturas vivas, ciudades coloniales y ciudades más modernas e industrializadas como Tegucigalpa y San Pedro Sula, dan testimonio de una diversidad que representa uno de los más importantes patrimonios del país.
 
-Honduras cuenta con una de las conformaciones topográficas más irregulares en el continente americano. El rango de sus altitudes varía desde el nivel del mar hasta los 2,800 metros y 61% de sus pendientes son mayores al 30%. Los valles más extensos y  de  mayor  capacidad  productiva  se  encuentran  localizados  en  el  litoral  atlántico, articulados  con  cadenas  montañosas  de  altas  pendientes  en  donde  nacen  los principales ríos permanentes del país. La faja central del territorio, hasta llegar a la Mosquitia,  es  predominantemente  montañosa  con  la  conformación  de  valles  en condición de altiplanos. Al extremo oriente del país, la Mosquitia se manifiesta como el  'territorio  plano continuo' más importante del país y en una zona de reserva con potenciales de incalculable valor para nuestro futuro. La región sur, desembocando en el Golfo de Fonseca, presenta tierras planas con pendientes menores al 15% que cierran al océano con una extraordinaria conformación de manglares.
+Honduras cuenta con una de las conformaciones topográficas más irregulares en el continente americano. El rango de sus altitudes varía desde el nivel del mar hasta los 2,800 metros y 61% de sus pendientes son mayores al 30%. Los valles más extensos y de mayor capacidad productiva se encuentran localizados en el litoral atlántico, articulados con cadenas montañosas de altas pendientes en donde nacen los principales ríos permanentes del país. La faja central del territorio, hasta llegar a la Mosquitia, es predominantemente montañosa con la conformación de valles en condición de altiplanos. Al extremo oriente del país, la Mosquitia se manifiesta como
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 87
 
@@ -1637,13 +1514,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 88]]
 
-El 27% del territorio hondureño (más de 30,000 kilómetros cuadrados) cuenta con un régimen  especial  de  administración  derivado  de  decretos  legislativos,  acuerdos ejecutivos  y  resoluciones  municipales  que  les  declaran  como  Áreas  Protegidas, Parques  Nacionales,  Patrimonios  Naturales,  Patrimonios  Culturales  (entre  otras denominaciones).
+el “territorio plano continuo” más importante del país y en una zona de reserva con potenciales de incalculable valor para nuestro futuro. La región sur, desembocando en el Golfo de Fonseca, presenta tierras planas con pendientes menores al 15% que cierran al océano con una extraordinaria conformación de manglares.
 
-Pese a la percepción generalizada de que las Áreas Protegidas cumplen tan solo con propósitos de conservación de la biodiversidad y la vida silvestre, lo cierto es que las mismas  tienen  una  relevancia  estratégica  para  el  país,  en  atención  no  solo  a  sus características  forestales  y  fauna,  sino  también  en  términos  de  su  condición  como zonas de recarga hídrica de los principales ríos del país. En efecto, el decreto No. 8787 emitido por el Soberano Congreso Nacional, recoge el espíritu de los legisladores y de los nacientes grupos preocupados por la protección y la conservación ambiental, quienes esperaban la creación de un régimen especial de protección que derive en el inicio de un proceso de gestión sostenible de los recursos naturales del país, esencial y primariamente, del recurso hídrico.
+El 27% del territorio hondureño (más de 30,000 kilómetros cuadrados) cuenta con un régimen especial de administración derivado de decretos legislativos, acuerdos ejecutivos y resoluciones municipales que les declaran como Áreas Protegidas, Parques Nacionales, Patrimonios Naturales, Patrimonios Culturales (entre otras denominaciones).
 
-Pese  a  la  casi  total  imposibilidad  de  dar  fiel  cumplimiento  a  las  declaraciones  del Decreto No. 87-87, en atención a la formulación y puesta en servicio de planes de manejo para las áreas protegidas declaradas por su medio, debe reconocerse que esta iniciativa tomada por el pueblo y gobierno hondureños en 1987, ha representado para  Honduras  mantener  un  mínimo  nivel  de  protección  a  territorios  que  deben considerarse como pilares fundamentales para su desarrollo.
+Pese a la percepción generalizada de que las Áreas Protegidas cumplen tan solo con propósitos de conservación de la biodiversidad y la vida silvestre, lo cierto es que las mismas tienen una relevancia estratégica para el país, en atención no solo a sus características forestales y fauna, sino también en términos de su condición como zonas de recarga hídrica de los principales ríos del país. En efecto, el decreto No. 87-87 emitido por el Soberano Congreso Nacional, recoge el espíritu de los legisladores y de los nacientes grupos preocupados por la protección y la conservación ambiental, quienes esperaban la creación de un régimen especial de protección que derive en el inicio de un proceso de gestión sostenible de los recursos naturales del país, esencial y primariamente, del recurso hídrico.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Pese a la casi total imposibilidad de dar fiel cumplimiento a las declaraciones del Decreto No. 87-87, en atención a la formulación y puesta en servicio de planes de manejo para las áreas protegidas declaradas por su medio, debe reconocerse que esta iniciativa tomada por el pueblo y gobierno hondureños en 1987, ha representado
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 88
 
@@ -1651,7 +1530,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 89]]
 
-Con lo anterior y mediante la aprobación de otras iniciativas luego de la aprobación de la Ley General del Ambiente en 1992, el país ha alcanzado un muy aceptable nivel de  declaratorias  que,  pese  a  la  mencionada  incapacidad  de  implementación,  ha creado  condiciones  para  un  lento  pero  progresivo  cambio  de  mentalidad  y  la formación de una cultura ambiental que hace que, aún hoy en día, mantengamos un potencial de servicio hídrico probablemente único en la región centroamericana.
+para Honduras mantener un mínimo nivel de protección a territorios que deben considerarse como pilares fundamentales para su desarrollo.
+
+Con lo anterior y mediante la aprobación de otras iniciativas luego de la aprobación de la Ley General del Ambiente en 1992, el país ha alcanzado un muy aceptable nivel de declaratorias que, pese a la mencionada incapacidad de implementación, ha creado condiciones para un lento pero progresivo cambio de mentalidad y la formación de una cultura ambiental que hace que, aún hoy en día, mantengamos un potencial de servicio hídrico probablemente único en la región centroamericana.
 
 El potencial hídrico del país es producto de un clima y conformación topográfica con manifestaciones relativamente extremas que exigen de estudio a efectos de generar armonías  que  se  traduzcan  en  bienestar  para  la  población.  Caso  contrario,  el dinamismo desembocará, como sucede cada día con mayor intensidad y frecuencia, en manifestaciones de inundación ó sequía.
 
@@ -1659,7 +1540,7 @@ El territorio hondureño está dividido en 2 grandes vertientes (la del Atlánti
 
 La  red  hídrica  del  país  y  la  conformación  de  acuíferos  (aguas  subterráneas)  es abastecida  por  un  régimen  de  precipitaciones  que  oscila  entre  los  500  y  los  3,800
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 89
 
@@ -1673,21 +1554,21 @@ El Balance Hídrico Nacional (basado en el estudio del período 1978-2003) estab
 
 Cuenca | Áreas Cuenca km² | Longitud del río (km) | Precipitación mm/Año | Aportación Subterránea | Aportación hm³/año | Porcentaje Nacional
 --- | --- | --- | --- | --- | --- | ---
-Islas del Atlántico | 211 | 2105 | 275 | 211 | 0.24%
-Motagua (Parte Hond) | 1458 | 1593 | 305 | 816 | 0.94%
+Islas del Atlántico | 211 |  | 2105 | 275 | 211 | 0.24%
+Motagua (Parte Hond) | 1458 |  | 1593 | 305 | 816 | 0.94%
 Cuyamel / Tulián | 1005 | 20 | 2492 | 466 | 1249 | 1.44%
 Chamelecón | 3717 | 256 | 1526 | 266 | 1624 | 1.87%
 Ulúa | 21858 | 358 | 1477 | 243 | 9952 | 11.44%
 Lean | 3058 | 71 | 2577 | 517 | 4228 | 4.86%
 Cangrejal | 866 | 38 | 3029 | 548 | 1663 | 1.91%
-Cangrejal-Aguán intercuenca | 1198 | 2594 | 474 | 1669 | 1.92%
+Cangrejal-Aguán intercuenca | 1198 |  | 2594 | 474 | 1669 | 1.92%
 Aguán | 11005 | 275 | 1648 | 281 | 6165 | 7.09%
 Sico / Paulaya | 7447 | 358 | 1930 | 355 | 5757 | 6.62%
 Plátano / Sucre | 3188 | 115 | 2986 | 672 | 5397 | 6.21%
 Patuca | 23778 | 592 | 1799 | 339 | 15823 | 18.19%
 Warunta | 5151 | 110 | 3031 | 883 | 9074 | 10.43%
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 90
 
@@ -1698,7 +1579,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 Kruta | 1381 | 120 | 2908 | 889 | 2305 | 2.65%
 --- | --- | --- | --- | --- | --- | ---
 Segovia / Coco | 4665 | 0 | 2197 | 471 | 4505 | 5.18%
-Islas del Pacífico | 41 | 1911 | 124 | 39 | 0.04%
+Islas del Pacífico | 41 |  | 1911 | 124 | 39 | 0.04%
 Lempa | 5288 | 60 | 1804 | 282 | 3587 | 4.12%
 Goascorán | 1564 | 141 | 1813 | 272 | 1116 | 1.28%
 Nacaome | 3478 | 110 | 1666 | 271 | 2232 | 2.57%
@@ -1713,7 +1594,7 @@ En términos de oferta y demanda se reconoce lo siguiente:
 
  La  demanda  neta  es  de  2,300  hectómetros  cúbicos    (2.67%  de  la  oferta nacional  anual).  Para  el  año  2022  y,  con  la  incorporación  de    400,000 hectáreas de riego y las fuentes hidroeléctricas cumpliendo con el 80% de la demanda  de  energía  eléctrica,  se  requerirán  9,451  hectómetros  cúbicos  de agua, equivalentes al 10.9% de la oferta nacional.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 91
 
@@ -1727,7 +1608,7 @@ Las  características biofísicas y topográficas del país, pese  a  derivar  e
 
 Pese  a  que  son  los  fenómenos  extremos  como  Fifí  en  1974  y  Mitch  en  1998,  los referentes de la vulnerabilidad física, ambiental, económica y social del país, no debe perderse de vista la altísima incidencia de fenómenos recurrentes que, año con año, provocan  la  pérdida  de  vidas,  viviendas,  infraestructura  y  medios  de  producción, afectando  en  forma  dramática  el  desarrollo  del  país  y  creando  eternos  círculos  de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 92
 
@@ -1735,15 +1616,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 93]]
 
-'inversión-reconstrucción'  que  se  constituyen  en  un  permanente  desgaste  de  la economía estatal y de la iniciativa privada.
+“inversión-reconstrucción” que se constituyen en un permanente desgaste de la economía estatal y de la iniciativa privada.
 
 El fenómeno de cambio climático global, por otro lado, está definitivamente vinculado con esta temática. Por "cambio climático" se entiende una variación del clima global, atribuido directa o indirectamente a la actividad humana, que altera la composición de la  atmósfera  mundial  y  que  se  suma  a  la  variabilidad  natural  del  clima  observada durante períodos de tiempo comparables (Convención Marco de las Naciones Unidas sobre el Cambio Climático).
 
-Entre  los  potenciales  efectos  se  destaca  el  aumento  en  la  temperatura  global, aumento  del  nivel  del  mar  como  consecuencia  del  'descongelamiento'  del  casco polar,  variabilidad  en  el  régimen  de  lluvia  (precipitaciones  extremas  ó  sequías extremas) y mayor intensidad en fenómenos meteorológicos  (huracanes / tornados). Es sumamente importante indicar que la Convención Marco de las Naciones Unidas sobre  Cambio  Climático  (CMCC),  reconoce  tres  principios  que  deben  conducir  el accionar de los países en torno a este problema: (1) El principio de la prevención; (2) El  principio  de  las  responsabilidades  comunes  pero  diferenciadas  (entre  países desarrollados  y  países  en  vías  de  desarrollo)  y;  (3)  La  necesidad  de  propiciar crecimiento  bajo  un  marco  de  desarrollo  sostenible  (desarrollo  ambientalmente sustentable).
+Entre los potenciales efectos se destaca el aumento en la temperatura global, aumento del nivel del mar como consecuencia del “descongelamiento” del casco polar, variabilidad en el régimen de lluvia (precipitaciones extremas ó sequías extremas) y mayor intensidad en fenómenos meteorológicos (huracanes / tornados). Es sumamente importante indicar que la Convención Marco de las Naciones Unidas sobre Cambio Climático (CMCC), reconoce tres principios que deben conducir el accionar de los países en torno a este problema: (1) El principio de la prevención; (2) El principio de las responsabilidades comunes pero diferenciadas (entre países desarrollados y países en vías de desarrollo) y; (3) La necesidad de propiciar crecimiento bajo un marco de desarrollo sostenible (desarrollo ambientalmente sustentable).
 
 La histórica vulnerabilidad del país con el agravante del cambio climático hace que esta circunstancia deba ser un tema de obligada consideración bajo el marco de la Visión de País al año 2038.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 93
 
@@ -1759,7 +1640,7 @@ El uso de malas prácticas en el aprovechamiento de los recursos naturales del p
 
 La conflictividad social alrededor del aprovechamiento, la protección y la conservación de  los  recursos  naturales  se  ha  acentuado  durante  la  última  década,  siendo especialmente evidente en el sector hídrico-energético, el sector forestal y la minería.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 94
 
@@ -1773,7 +1654,7 @@ La  Constitución de  la República; el artículo 7 de  la  Ley  de  Procedimien
 
 Estudios recientes han identificado al menos 19 artículos constitucionales vinculados con  la  gestión  de  recursos  naturales  y  la  regulación  del  ambiente  humano.  Estos artículos son los No. 106, 107, 341 y 349 (relacionados con restricciones de uso al régimen  de  propiedad)  ,128,  132  y  145  (vinculados  a  ambientes  humanos  bajo relaciones obrero-patronales), 146 y 147 (regulando productos alimenticios, químicos, farmacéuticos y biológicos), 172 y 354 (declarando la competencia del Estado sobre sitios de belleza natural, monumentos y zonas de reserva y declarando que el Estado se  reserva  la  potestad  de  establecer  o  modificar  la  demarcación  de  las  zonas  de control  y  protección  de  los  recursos  naturales  en  el  territorio  nacional  ),  179 (definiendo  responsabilidades  del  estado  en  torno  a  los  problemas  habitacionales),
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 95
 
@@ -1787,7 +1668,7 @@ En  el  segundo  nivel  de  jerarquización  jurídica,  se  encuentra  que  49 
 
 En  términos  de  la  Legislación  Nacional  (Leyes  Generales  y  Especiales)  la  Ley General  del  Ambiente  (Decreto  Legislativo  104-93),  su  reglamento  general  y  las modificaciones  introducidas  por  la  vía  de  las  reformas  a  la  Ley  de  Administración Pública  (Decreto  No.  218-96),  la  Ley  de  Equilibrio  Financiero  y  Protección  Social (2002) y la Ley de Simplificación Administrativa (2003), constituyen el eje del marco jurídico hondureño para la gestión de los recursos naturales y el ambiente.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 96
 
@@ -1801,9 +1682,9 @@ La  Ley  de  Ordenamiento  Territorial,  la  Ley  de  la  Propiedad,  la  Ley  d
 
 El Código Penal de 1984 y sus reformas de 1996, tipifican el delito de incendio y otros estragos y sus sanciones. Se agrega en estas reformas el título sobre delitos contra el medio  ambiente.  Asimismo,  el  decreto  323-98  (aprobado  luego  del  impacto  del huracán Mitch en Honduras) tipifica delitos ambientales.
 
-Se considera que el hecho de que exista una gran concentración de demandas de servicios (licencias ambientales, solicitudes de autorización para estudios de factibilidad de proyectos de generación eléctrica de fuentes renovables, solicitudes de aprovechamiento  de  uso  de  aguas  nacionales,  supervisión  y  control)  en  pocos departamentos  del  país,  es  una  coyuntura  que  puede  ser  aprovechada  para  el desarrollo de un proceso focalizado y progresivo de descentralización hacia municipios que, en adición, cuentan con una capacidad instalada considerable (MDC, San  Pedro  Sula, Puerto Cortés, Choloma,  Tela, La Ceiba, Tocoa, Juticalpa, Choluteca, Santa Rosa de Copán).
+Se considera que el hecho de que exista una gran concentración de demandas de servicios (licencias ambientales, solicitudes de autorización para estudios de factibilidad de proyectos de generación eléctrica de fuentes renovables, solicitudes de aprovechamiento de uso de aguas nacionales, supervisión y control) en pocos
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 97
 
@@ -1811,15 +1692,17 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 98]]
 
-Finalmente, es necesario destacar la ausencia de instancias funcionales de coordinación  institucional  a  lo  interno  del  Estado  y  la  falta  de  operativización  del COCONA (Consejo Consultivo Nacional del Ambiente) como un espacio generador de diálogo y acuerdos entre el Gobierno, la Sociedad Civil y la Empresa Privada.
+departamentos del país, es una coyuntura que puede ser aprovechada para el desarrollo de un proceso focalizado y progresivo de descentralización hacia municipios que, en adición, cuentan con una capacidad instalada considerable (MDC, San Pedro Sula, Puerto Cortés, Choloma, Tela, La Ceiba, Tocoa, Juticalpa, Choluteca, Santa Rosa de Copán).
+
+Finalmente, es necesario destacar la ausencia de instancias funcionales de coordinación institucional a lo interno del Estado y la falta de operativización del COCONA (Consejo Consultivo Nacional del Ambiente) como un espacio generador de diálogo y acuerdos entre el Gobierno, la Sociedad Civil y la Empresa Privada.
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE DESARROLLO REGIONAL, RECURSOS NATURALES Y AMBIENTE
 
-- En  la  búsqueda  de  un  desarrollo  socialmente  incluyente  y  territorialmente equilibrado,  Honduras  debe  enfrentar  el  reto  del  aprovechamiento  de  sus recursos naturales bajo el marco de un modelo que reconozca la diversidad y la diferenciación, como aspectos que deben conducir las políticas y las formas de intervención por parte del Gobierno, la Sociedad Civil y la Iniciativa Privada. La diferenciación conducirá a la delimitación de Regiones que, para fines de planificación territorial, deben fundamentarse en la conformación natural de las cuencas hidrográficas del país, reconociendo como Región a un conglomerado  de  cuencas  hidrográficas  relativamente  homogéneas,  que comparten elementos de identidad territorial y coincidencia cultural.
+1. En la búsqueda de un desarrollo socialmente incluyente y territorialmente equilibrado, Honduras debe enfrentar el reto del aprovechamiento de sus recursos naturales bajo el marco de un modelo que reconozca la diversidad y la diferenciación, como aspectos que deben conducir las políticas y las formas de intervención por parte del Gobierno, la Sociedad Civil y la Iniciativa Privada. La diferenciación conducirá a la delimitación de Regiones que, para fines de planificación territorial, deben fundamentarse en la conformación natural de las cuencas hidrográficas del país, reconociendo como Región a un conglomerado de cuencas hidrográficas relativamente homogéneas, que comparten elementos de identidad territorial y coincidencia cultural.
 
-La  operacionalidad  del  modelo  debe  implicar  la  organización  y  puesta  en marcha  de  Unidades  de  Gestión  Regional,  quienes  serán  responsables  de formular y concertar los Planes de Desarrollo para cada región, teniendo como contexto los enunciados del desarrollo sostenible y la aplicación de la Ley de Ordenamiento Territorial, aprobada por el Congreso de la República en el año 2003. Las particularidades sociales, demográficas, culturales, antropológicas, étnicas,  económicas,  biofísicas  y  ambientales  de  cada  región,  deberán  dar contexto a planes que marquen rumbo, reduzcan los desequilibrios en el uso del territorio y guíen la inversión pública, la inversión privada, la reducción de la pobreza y el desarrollo social.
+La operacionalidad del modelo debe implicar la organización y puesta en marcha de Unidades de Gestión Regional, quienes serán responsables de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 98
 
@@ -1827,11 +1710,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 99]]
 
-- Lograr  un  aumento  significativo  de  la  aportación  económica  y  social  de  los recursos  naturales  a  la  reducción  de  la  pobreza,  el  desarrollo  humano  y  la generación de prosperidad para la sociedad hondureña. Los recursos naturales - agua, suelo, bosque, atmósfera -, aprovechados bajo un modelo ambientalmente sustentable, deben constituirse en el pilar fundamental para el futuro de Honduras y en la consolidación de un liderazgo centroamericano en materia de producción agroalimentaria, eco-turismo y generación eléctrica de fuentes renovables.
+formular y concertar los Planes de Desarrollo para cada región, teniendo como contexto los enunciados del desarrollo sostenible y la aplicación de la Ley de Ordenamiento Territorial, aprobada por el Congreso de la República en el año 2003. Las particularidades sociales, demográficas, culturales, antropológicas, étnicas, económicas, biofísicas y ambientales de cada región, deberán dar contexto a planes que marquen rumbo, reduzcan los desequilibrios en el uso del territorio y guíen la inversión pública, la inversión privada, la reducción de la pobreza y el desarrollo social.
 
-- Armonizar el marco jurídico y consolidar las Instituciones con responsabilidades directas sobre la administración de los recursos naturales y el ambiente, desarrollando procesos de modernización institucional, facilitación administrativa, descentralización, desconcentración y adecuación presupuestaria,  hasta  crear  un  sistema  nacional  que  aporte  elementos  de desarrollo  sostenible  y  buena  gestión  para  la  administración  del  territorio hondureño;
+2. Lograr un aumento significativo de la aportación económica y social de los recursos naturales a la reducción de la pobreza, el desarrollo humano y la generación de prosperidad para la sociedad hondureña. Los recursos naturales – agua, suelo, bosque, atmósfera –, aprovechados bajo un modelo ambientalmente sustentable, deben constituirse en el pilar fundamental para el futuro de Honduras y en la consolidación de un liderazgo centroamericano en materia de producción agroalimentaria, eco-turismo y generación eléctrica de fuentes renovables.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+3. Armonizar el marco jurídico y consolidar las Instituciones con responsabilidades directas sobre la administración de los recursos naturales y el ambiente, desarrollando procesos de modernización institucional, facilitación administrativa, descentralización, desconcentración y adecuación presupuestaria, hasta crear un sistema nacional que aporte elementos de desarrollo sostenible y buena gestión para la administración del territorio hondureño;
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 99
 
@@ -1839,15 +1724,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 100]]
 
-- Incorporar a la Sociedad Civil y las Comunidades como actores fundamentales en el  aprovechamiento, conservación y protección del patrimonio natural del país,  creando  los  espacios  para  la  consolidación  de  consensos  y  tomas  de decisión, que armonicen la relación entre los proyectos, los desarrolladores y el bienestar común.
+4. Incorporar a la Sociedad Civil y las Comunidades como actores fundamentales en el aprovechamiento, conservación y protección del patrimonio natural del país, creando los espacios para la consolidación de consensos y tomas de decisión, que armonicen la relación entre los proyectos, los desarrolladores y el bienestar común.
 
-- Operativizar instrumentos económicos que den contexto a un modelo de Pago por Servicios Ambientales, que reconozca la obligatoriedad de los usuarios de los recursos naturales, incluso a nivel internacional, en torno a la protección y conservación de los mismos. Este modelo deberá constituirse en un mecanismo  generador  de  ingresos  para  el  financiamiento  de  los  planes operativos de las áreas protegidas y las zonas de recarga hidráulica del país.
+5. Operativizar instrumentos económicos que den contexto a un modelo de Pago por Servicios Ambientales, que reconozca la obligatoriedad de los usuarios de los recursos naturales, incluso a nivel internacional, en torno a la protección y conservación de los mismos. Este modelo deberá constituirse en un mecanismo generador de ingresos para el financiamiento de los planes operativos de las áreas protegidas y las zonas de recarga hidráulica del país.
 
-#### ENUNCIADOS DE VISIÓN - DESARROLLO REGIONAL, RECURSOS NATURALES Y AMBIENTE
+#### ENUNCIADOS DE VISIÓN – DESARROLLO REGIONAL, RECURSOS NATURALES Y AMBIENTE
 
-Para  el  año  2022 ,  Honduras  habrá  consolidado  el  Desarrollo  Regional  como  su modelo de gestión para el crecimiento económico y social del país bajo el marco de un  proceso  de  desarrollo  ambientalmente  sostenible.  Los  planes  de  desarrollo territorial  en  cada  región,  se  habrán  constituido  en  el  instrumento  regulador  y normativo  para  la inversión productiva, el desarrollo social y la inversión  en infraestructura,  existiendo  armonías  de  intervención  con  la  institucionalidad  del Gobierno Central y los municipios integrantes de cada región. Se habrán reducido las tasas  de  sub  y  sobre  utilización  en  un  50%,  la  vulnerabilidad  física  en  un  50%,  la pérdida  anual  de  cobertura  forestal  en  un  70%  y  la  utilización  neta  de  recursos hídricos y la capacidad de represamiento para fines productivos se aumentará del 5 al  17%.  Un  60%  de  la  demanda  energética  será  atendida  con  energía  de  fuentes renovables  y  250  mil  hectáreas  de  tierras  agrícolas  productivas  contarán  con sistemas  de  riego  (alcanzando  el  país  plena  vigencia  en  términos  de  seguridad  y soberanía alimentaria). 200 municipios del país estarán certificados en licenciamiento y gestión ambiental y 400 mil hectáreas de tierras de vocación forestal en  estado  de  degradación,  estarán  incorporadas  en  un  programa  de  restauración ecológica  y  productiva  que  participe  en  el  mercado  mundial  de  bonos  de  carbono. Todas las áreas protegidas contarán con planes operativos vigentes y el modelo de pago  por  servicios  ambientales  será  capaz  de  generar  el  80%  de  los  recursos financieros para su financiamiento. 70% de las zonas de recarga hidráulica contarán con planes de manejo. Honduras será una nación reconocida internacionalmente por su riqueza natural y por la actitud de un Estado comprometido con la protección y la conservación ambiental, la lucha contra el cambio climático y la cultura de un pueblo decidido a crecer en perfecta armonía con su patrimonio natural.
+Para el año 2022, Honduras habrá consolidado el Desarrollo Regional como su modelo de gestión para el crecimiento económico y social del país bajo el marco de un proceso de desarrollo ambientalmente sostenible. Los planes de desarrollo territorial en cada región, se habrán constituido en el instrumento regulador y normativo para la inversión productiva, el desarrollo social y la inversión en infraestructura, existiendo armonías de intervención con la institucionalidad del
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 100
 
@@ -1855,9 +1740,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 101]]
 
-Para  el  año  2034 ,  Honduras  será  el  país  líder  centroamericano  en  materia  de aprovechamiento  sostenible  de  recursos  naturales,  generando  energía,  alimentos, minerales  y  derivados  del  sector  forestal,  como  ningún  otro  país  de  la  región.  Se habrán reducido las tasas de sobreutilización en 80%, la subutilización en un 100% y la vulnerabilidad física en 75%, la pérdida anual de cobertura forestal tenderá a cero y la  tasa de represamiento y aprovechamiento neto de recursos hídricos será la más alta  de  Centroamérica  (25%).  Cuatrocientas  mil  hectáreas  de  tierras  agrícolas productivas contarán con sistemas de riego, manteniendo plena seguridad alimentaria y aportando producción alimentaria para fines de exportación. El licenciamiento y control ambiental estará 100% descentralizado y las instituciones del Gobierno  Central  se  constituirán  en  agencias  normativas  con  altas  calificaciones técnicas.  El  modelo  de  pago  por  servicios  ambientales  financiará  el  100%  de  los planes  operativos  de  las  áreas  protegidas.  Un  millón  de  hectáreas  de  tierras  de vocación forestal en estado de degradación, estarán incorporadas en un programa de restauración ecológica y productiva que participa en el mercado mundial de bonos de carbono.  Todas  las  áreas  protegidas  contarán  con  planes  operativos  vigentes  y  el modelo  de  pago  por  servicios  ambientales  será  capaz  de  generar  el  100%  de  los recursos financieros para su financiamiento. 100% de las zonas de recarga hidráulica contarán con planes de manejo.
+Gobierno Central y los municipios integrantes de cada región. Se habrán reducido las tasas de sub y sobre utilización en un 50%, la vulnerabilidad física en un 50%, la pérdida anual de cobertura forestal en un 70% y la utilización neta de recursos hídricos y la capacidad de represamiento para fines productivos se aumentará del 5 al 17%. Un 60% de la demanda energética será atendida con energía de fuentes renovables y 250 mil hectáreas de tierras agrícolas productivas contarán con sistemas de riego (alcanzando el país plena vigencia en términos de seguridad y soberanía alimentaria). 200 municipios del país estarán certificados en licenciamiento y gestión ambiental y 400 mil hectáreas de tierras de vocación forestal en estado de degradación, estarán incorporadas en un programa de restauración ecológica y productiva que participe en el mercado mundial de bonos de carbono. Todas las áreas protegidas contarán con planes operativos vigentes y el modelo de pago por servicios ambientales será capaz de generar el 80% de los recursos financieros para su financiamiento. 70% de las zonas de recarga hidráulica contarán con planes de manejo. Honduras será una nación reconocida internacionalmente por su riqueza natural y por la actitud de un Estado comprometido con la protección y la conservación ambiental, la lucha contra el cambio climático y la cultura de un pueblo decidido a crecer en perfecta armonía con su patrimonio natural.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Para el año 2034, Honduras será el país líder centroamericano en materia de aprovechamiento sostenible de recursos naturales, generando energía, alimentos, minerales y derivados del sector forestal, como ningún otro país de la región. Se habrán reducido las tasas de sobreutilización en 80%, la subutilización en un 100% y la vulnerabilidad física en 75%, la pérdida anual de cobertura forestal tenderá a cero y la tasa de represamiento y aprovechamiento neto de recursos hídricos será la más
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 101
 
@@ -1865,9 +1752,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 102]]
 
-Para el año 2038 , el Desarrollo Regional, consolidado como guía para el desarrollo económico y social del país, deberá iniciar el camino de la integración democrática, creando las instancias para que las Autoridades Regionales sean electas por el voto directo del pueblo hondureño.
+alta de Centroamérica (25%). Cuatrocientas mil hectáreas de tierras agrícolas productivas contarán con sistemas de riego, manteniendo plena seguridad alimentaria y aportando producción alimentaria para fines de exportación. El licenciamiento y control ambiental estará 100% descentralizado y las instituciones del Gobierno Central se constituirán en agencias normativas con altas calificaciones técnicas. El modelo de pago por servicios ambientales financiará el 100% de los planes operativos de las áreas protegidas. Un millón de hectáreas de tierras de vocación forestal en estado de degradación, estarán incorporadas en un programa de restauración ecológica y productiva que participa en el mercado mundial de bonos de carbono. Todas las áreas protegidas contarán con planes operativos vigentes y el modelo de pago por servicios ambientales será capaz de generar el 100% de los recursos financieros para su financiamiento. 100% de las zonas de recarga hidráulica contarán con planes de manejo.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Para el año 2038, el Desarrollo Regional, consolidado como guía para el desarrollo económico y social del país, deberá iniciar el camino de la integración democrática, creando las instancias para que las Autoridades Regionales sean electas por el voto directo del pueblo hondureño.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 102
 
@@ -1883,7 +1772,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 4
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 103
 
@@ -1899,7 +1788,7 @@ De acuerdo  al  IGC,  la  existencia  de  infraestructura  de  alta  calidad  es
 
 El informe del Foro Económico Mundial para el período 2009-2010, ubica a Honduras en  la  posición  89  entre  113  países  y,  en  el  pilar  de  requerimientos  básicos  antes referido, presenta un posicionamiento levemente superior (87 entre 113 países). Con un  índice  de  3.39,  el  IGC    ubica  al  país  en  la  posición  77  en  términos  de infraestructura, siendo superado por Guatemala  y El Salvador en la región centroamericana.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 104
 
@@ -1911,9 +1800,9 @@ Sin lugar a dudas, uno  de  los elementos  que  incide en la productividad y com
 
 Con una tasa de crecimiento anual de la demanda que en los últimos 4 años ha sido superior  al  7.5%,  y  que  en  la  historia  reciente  ha  alcanzado  valores  superiores  al 13%, el sistema hondureño requiere para los próximos 12 años una inversión superior a  los  US$  1,500  millones  en  generación,  esencialmente  hidroeléctrica  y  de  otras fuentes renovables para satisfacer el crecimiento de la demanda. Adicionalmente, se requerirán inversiones en el orden de US$ 250 millones para expandir el sistema de transmisión  durante  el  mismo  periodo.  La  Empresa  Nacional  de  Energía  Eléctrica enfrenta una de las peores crisis de su historia, operativa y financieramente, al verse afectada  por  los  factores  externos  que  afectan  al  subsector  eléctrico,  y  además  al tener un nivel de pérdidas técnicas superiores al 25%.
 
-Durante décadas, el país ha realizado importantes inversiones dirigidas a expandir y mejorar la red de infraestructura vial hondureña, lo cual se manifiesta en una tasa de promedio de inversión equivalente a un 3.2% del PIB para los últimos 10 años. Pese a ello, el impacto de fenómenos naturales recurrentes (cada año) y extremos (como el Mitch en octubre de 1998), menoscaban este esfuerzo de inversión pública e inciden en una tasa de pérdidas y de reconstrucción muy superiores al resto de los países centroamericanos. Es así como la reducción de la vulnerabilidad física del país, debe acompañar la Visión de País y el Plan de Nación para sus respectivos períodos de ejecución.
+Durante décadas, el país ha realizado importantes inversiones dirigidas a expandir y mejorar la red de infraestructura vial hondureña, lo cual se manifiesta en una tasa de promedio de inversión equivalente a un 3.2% del PIB para los últimos 10 años. Pese
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 105
 
@@ -1921,11 +1810,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 106]]
 
-En términos cuantitativos, el Gobierno tiene bajo mantenimiento alrededor de 2,000 kilómetros de carreteras con cubrimiento asfáltico, alrededor de 500 con cubrimiento hidráulico,  10,000  kilómetros de carreteras de material selecto, cerca de  1,000 con tratamiento  doble  y  1,500  de  tierra.  Es  importante  destacar  que  en  esta  última clasificación no se incluye una cantidad importante de carreteras vecinales que son mantenidas  directamente  por  los  municipios  o  por  empresas/empresarios  privados que requieren de las mismas para fines de tránsito de materias primas, productos y/o mercancías.
+a ello, el impacto de fenómenos naturales recurrentes (cada año) y extremos (como el Mitch en octubre de 1998), menoscaban este esfuerzo de inversión pública e inciden en una tasa de pérdidas y de reconstrucción muy superiores al resto de los países centroamericanos. Es así como la reducción de la vulnerabilidad física del país, debe acompañar la Visión de País y el Plan de Nación para sus respectivos períodos de ejecución.
 
-Debe destacarse el hecho que la red primaria pavimentada articula las 61 ciudades más importantes del país (centros urbanos con más de 5 mil habitantes), en las que residen alrededor de 3 millones de personas que representan más de un 40% de la población hondureña. En adición a ello, los ejes primarios pavimentados (articulantes de  estas  61  ciudades)  aglutinan  a  su  alrededor  (en  un  área  de  influencia  de  10 kilómetros  paralela  al  emplazamiento  de  las  mismas)  un  32%  de  la  población  del país. Es así como un 72% de la población total - más de 5 millones de personas habitan en las 61 ciudades más importantes del país, articuladas mediante ejes viales pavimentados, ó en las áreas de influencia alrededor de los mismos. Lo anterior es un hallazgo relevante que da sustento a elementos de la Visión de País en los temas de población, educación, salud, desarrollo regional e infraestructura.
+En términos cuantitativos, el Gobierno tiene bajo mantenimiento alrededor de 2,000 kilómetros de carreteras con cubrimiento asfáltico, alrededor de 500 con cubrimiento hidráulico, 10,000 kilómetros de carreteras de material selecto, cerca de 1,000 con tratamiento doble y 1,500 de tierra. Es importante destacar que en esta última clasificación no se incluye una cantidad importante de carreteras vecinales que son mantenidas directamente por los municipios o por empresas/empresarios privados que requieren de las mismas para fines de tránsito de materias primas, productos y/o mercancías.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Debe destacarse el hecho que la red primaria pavimentada articula las 61 ciudades más importantes del país (centros urbanos con más de 5 mil habitantes), en las que residen alrededor de 3 millones de personas que representan más de un 40% de la población hondureña. En adición a ello, los ejes primarios pavimentados (articulantes de estas 61 ciudades) aglutinan a su alrededor (en un área de influencia de 10 kilómetros paralela al emplazamiento de las mismas) un 32% de la población del país. Es así como un 72% de la población total – más de 5 millones de personas – habitan en las 61 ciudades más importantes del país, articuladas mediante ejes viales pavimentados, ó en las áreas de influencia alrededor de los mismos. Lo anterior es un hallazgo relevante que da sustento a elementos de la Visión de País en los temas de población, educación, salud, desarrollo regional e infraestructura.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 106
 
@@ -1939,9 +1830,9 @@ Debe  considerarse  además,  que  la  economía  del  país  depende  fuertemen
 
 Las actividades de riego fueron iniciadas por las empresas internacionales bananeras en  los  años  veinte  en  los  fértiles  valles  de  Sula,  Aguán  y  La  Ceiba  en  la  costa Atlántica, y luego comenzaron los pequeños productores en el corredor central desde Choluteca hasta Comayagua. En 1952 se inició el riego público en Comayagua con los  Distritos  de  Riego  de  Selguapa  (2,463  has),  Las  Flores  (2,428  has)  que  ya operaban en 1959, y en 1978 se ejecutó el Distrito San Sebastián (180 has).
 
-En 1988 existían 66,425 has con infraestructura de riego, 50,818 has pertenecían al sector privado y 15,607 has al sector público. En 1991 la superficie con infraestructura de riego se incrementó a 73,210 has (56,152 has del sector privado y 17,058 has del sector público), de las cuales se regaron 55,000 has (47,000 has privadas y 8,000 has públicas). Para el año 2009 se estima existen cerca de 90,000 has bajo riego y unas 20,000 hectáreas con estudios terminados.
+En 1988 existían 66,425 has con infraestructura de riego, 50,818 has pertenecían al sector privado y 15,607 has al sector público. En 1991 la superficie con infraestructura de riego se incrementó a 73,210 has (56,152 has del sector privado y 17,058 has del sector público), de las cuales se regaron 55,000 has (47,000 has privadas y 8,000 has
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 107
 
@@ -1949,13 +1840,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 108]]
 
-Pese a que el nivel de cobertura del servicio de agua potable es relativamente alto (82.9%  en  zonas  urbanas  y  63.2%  en  rurales),  la  calidad  de  los  servicios  no  es adecuada e incide en la seguridad sanitaria de los ciudadanos. 90% del abastecimiento  de  agua  potable  es  intermitente,  solo  el  44%  dispone  de  cloración efectiva y no se dispone de sistemas de monitoreo y control de la calidad del agua. Lo anterior  incide  en  el  hecho  de  que  las  enfermedades  de  origen  hídrico  ocupan  el primer lugar de morbilidad y el segundo en mortalidad infantil.
+públicas). Para el año 2009 se estima existen cerca de 90,000 has bajo riego y unas 20,000 hectáreas con estudios terminados.
+
+Pese a que el nivel de cobertura del servicio de agua potable es relativamente alto (82.9% en zonas urbanas y 63.2% en rurales), la calidad de los servicios no es adecuada e incide en la seguridad sanitaria de los ciudadanos. 90% del abastecimiento de agua potable es intermitente, solo el 44% dispone de cloración efectiva y no se dispone de sistemas de monitoreo y control de la calidad del agua. Lo anterior incide en el hecho de que las enfermedades de origen hídrico ocupan el primer lugar de morbilidad y el segundo en mortalidad infantil.
 
 En el campo del saneamiento básico, solo el 25.68% de la población total cuenta con infraestructura  propia  a  este  fin  y,  en  ese  tramo  con  atención,  los  servicios  son ofertados mayormente por la vía de letrinización.
 
 Pese a que Honduras venía acumulando serios atrasos en términos de cobertura y calidad  de  servicios  de  telefonía,  debe  reconocerse  que  en  los  últimos  5  años,  las telecomunicaciones viven un momento de creciente expansión debido a una mayor y más  intensa  participación  de  la  iniciativa  privada.  Más  de  L5,000  millones  fueron invertidos  en  el  año  2008  y  montos  similares  de  inversión  se  esperan  para  el  año 2010. La empresas pública de telecomunicaciones (Hondutel) realizó inversiones por más de L3,500 millones durante el 2008, de las cuales L2,800 millones corresponden a la consolidación de capacidades para la oferta de servicios en telefonía móvil, sin embargo,  estos  servicios  no  han  logrado  un  nivel  competitivo  de  participación  y posicionamiento en el mercado.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 108
 
@@ -1965,15 +1858,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 De acuerdo a la Comisión Nacional de Telecomunicaciones (CONATEL) alrededor de 550,000 hogares en Honduras cuentan con acceso a una línea de teléfono fijo, de las cuales,  un  67%  son  provistas  por  Hondutel  y  un  34%  por  operadores  privados. 1,163,000  hogares  cuentan  con  teléfono  celular  móvil,  indicando  que  70%  de  la población del país cuenta con acceso a este tipo de servicio, en su mayoría ofrecido por los operadores privados.
 
-La legislación nacional reconoce la figura de 'operadores de servicios de telecomunicaciones'  que  son  las  personas  (naturales  ó  jurídicas)  autorizadas  por Conatel  para  prestar  a  terceros  ó  a  sí  mismos,  servicios  de  telecomunicaciones. Asimismo, reconoce la figura de 'sub-operadores de Hondutel' que son figuras que comercializan  los  servicios  a  partir  de  contratos  con  Hondutel  bajo  el  marco  del Acuerdo Presidencial de 'Telefonía para Todos'.
+La legislación nacional reconoce la figura de “operadores de servicios de telecomunicaciones” que son las personas (naturales ó jurídicas) autorizadas por Conatel para prestar a terceros ó a sí mismos, servicios de telecomunicaciones. Asimismo, reconoce la figura de “sub-operadores de Hondutel” que son figuras que comercializan los servicios a partir de contratos con Hondutel bajo el marco del Acuerdo Presidencial de “Telefonía para Todos”.
 
-El sector telecomunicaciones es regido por la Ley Marco del Sector de Telecomunicaciones (Acuerdo No. 89-97, reformado mediante acuerdo 141-2002) y su Reglamento General, la Ley Orgánica de la Empresa Hondureña de Telecomunicaciones  (Hondutel),  el  programa  'Telefonía  para  Todos  -  Modernidad para  Honduras',  y  Decreto  Ejecutivo  PCM  018-2003,  mediante  el  cual  se  crea  la figura de sub-operadores.
+El sector telecomunicaciones es regido por la Ley Marco del Sector de Telecomunicaciones (Acuerdo No. 89-97, reformado mediante acuerdo 141-2002) y su Reglamento General, la Ley Orgánica de la Empresa Hondureña de Telecomunicaciones (Hondutel), el programa “Telefonía para Todos – Modernidad para Honduras”, y Decreto Ejecutivo PCM 018-2003, mediante el cual se crea la figura de sub-operadores.
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE INFRAESTRUCTURA PRODUCTIVA
 
-- En el ámbito interno, debe propiciarse la articulación vial entre los centros de producción y los mercados de consumo y la exportación; la diversificación de la  matriz  energética  mediante  la  puesta  en  valor  del  extraordinario  potencial hídrico  del  país;  la  habilitación  de  riego  para  potenciar  la  aún  incipiente
+1. En el ámbito interno, debe propiciarse la articulación vial entre los centros de producción y los mercados de consumo y la exportación; la diversificación de la matriz energética mediante la puesta en valor del extraordinario potencial hídrico del país; la habilitación de riego para potenciar la aún incipiente
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 109
 
@@ -1983,11 +1876,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 productividad agrícola; las telecomunicaciones como mecanismos para llevar conocimientos, tecnología y acceso globalizado a nuestras comunidades y el acceso al agua, como fuente de vida y de salud para todos los hondureños.
 
-- En  el  ámbito  de  la  región  centroamericana  y  de  los  flujos  comerciales globalizados, Honduras debe aprovechar su localización geográfica con el fin de  constituirse  como  el  más  importante  circuito  de  transporte  terrestre interoceánico  para  el  tránsito  de  mercaderías  en  Centroamérica.  Lo  anterior implicará constante inversión, renovación e innovación y la construcción de un aparato  de  servicios  conexos  con  extraordinarias  posibilidades  para  el  país. Honduras  debe  asumir  el  reto  de  mantener  a  Puerto  Cortés  como  el  más importante puerto en el Atlántico de Centroamérica, desarrollar Puerto Castilla, como  un  puerto  alternativo  de  gran  potencial  y  buscar  espacios  de  mejora competitiva  de  largo  plazo  para  los  puertos  de  Henecán  y  Amapala,  en  el Golfo de Fonseca. Asimismo y, bajo el marco de la consolidación de Honduras como nación líder centroamericana en materia de servicios portuarios,  debe profundizarse el análisis para la puesta en servicio de un 'Puerto Seco' para contenedores  en  la  ciudad  de  Potrerillos,  desde  donde  los  mismos  serían trasladados  a  Puerto  Cortés  utilizando  una  renovada  y  modernizada  línea férrea.
+2. En el ámbito de la región centroamericana y de los flujos comerciales globalizados, Honduras debe aprovechar su localización geográfica con el fin de constituirse como el más importante circuito de transporte terrestre interoceánico para el tránsito de mercaderías en Centroamérica. Lo anterior implicará constante inversión, renovación e innovación y la construcción de un aparato de servicios conexos con extraordinarias posibilidades para el país. Honduras debe asumir el reto de mantener a Puerto Cortés como el más importante puerto en el Atlántico de Centroamérica, desarrollar Puerto Castilla, como un puerto alternativo de gran potencial y buscar espacios de mejora competitiva de largo plazo para los puertos de Henecán y Amapala, en el Golfo de Fonseca. Asimismo y, bajo el marco de la consolidación de Honduras como nación líder centroamericana en materia de servicios portuarios, debe profundizarse el análisis para la puesta en servicio de un “Puerto Seco” para contenedores en la ciudad de Potrerillos, desde donde los mismos serían trasladados a Puerto Cortés utilizando una renovada y modernizada línea férrea.
 
-- La generación de energía de fuentes renovables, con especial énfasis en la energía  hidroeléctrica,  debe  ser  un  tema  de  atención  continua  durante  la vigencia del Plan de Nación. Debe reconocerse que, así como la localización geográfica  y  la  articulación  vial  representan  una  oportunidad  de  liderazgo
+3. La generación de energía de fuentes renovables, con especial énfasis en la energía hidroeléctrica, debe ser un tema de atención continua durante la vigencia del Plan de Nación. Debe reconocerse que, así como la localización geográfica y la articulación vial representan una oportunidad de liderazgo
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 110
 
@@ -1997,13 +1890,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 regional para Honduras, la generación hidroeléctrica debe colocar al país en una posición de avanzada con respecto al resto de las naciones de la región, constituyéndole en un mecanismo de distinción y competitividad nacional y en un medio para potenciar competitivamente a las empresas con operaciones en el país.
 
-- La  expansión  de  los  sistemas  de  riego  hasta  atender  las  zonas  productivas agrícolas a nivel nacional significará un esfuerzo de décadas. La consolidación de  Honduras  como  garante  de  su  propia  seguridad  alimentaria  y  como  una potencia regional exportadora de alimentos, es una expectativa realizable, que debe  ser  construida  mediante  un  esfuerzo  constante  y  sistemático  de  los próximos gobiernos.
+4. La expansión de los sistemas de riego hasta atender las zonas productivas agrícolas a nivel nacional significará un esfuerzo de décadas. La consolidación de Honduras como garante de su propia seguridad alimentaria y como una potencia regional exportadora de alimentos, es una expectativa realizable, que debe ser construida mediante un esfuerzo constante y sistemático de los próximos gobiernos.
 
-- Honduras debe aspirar a que la inversión en infraestructura productiva tome sustento  en  los  planes  de  desarrollo  territorial  formulados  para  el  contexto nacional, regional y municipal. Lo anterior con el fin de que cada una de las inversiones realizadas cumpla con requerimientos mínimos de retorno social y productivo  y  que, la conclusión  de  cada  obra,  signifique  el  progresivo cumplimiento de metas y etapas en la agenda de desarrollo del país.
+5. Honduras debe aspirar a que la inversión en infraestructura productiva tome sustento en los planes de desarrollo territorial formulados para el contexto nacional, regional y municipal. Lo anterior con el fin de que cada una de las inversiones realizadas cumpla con requerimientos mínimos de retorno social y productivo y que, la conclusión de cada obra, signifique el progresivo cumplimiento de metas y etapas en la agenda de desarrollo del país.
 
-- Crear y llevar a aprobación la legislación necesaria para facilitar la consolidación de alianzas público privadas para la construcción, operación y mantenimiento  de  proyectos  de  infraestructura  productiva.  Estas  alianzas deben obedecer a claras prioridades dirigidas a potenciar las oportunidades de
+6. Crear y llevar a aprobación la legislación necesaria para facilitar la consolidación de alianzas público privadas para la construcción, operación y mantenimiento de proyectos de infraestructura productiva. Estas alianzas deben obedecer a claras prioridades dirigidas a potenciar las oportunidades de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 111
 
@@ -2013,13 +1906,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 desarrollo en las diferentes regiones del país;
 
-- Aprobar una nueva Ley de Telecomunicaciones como paso previo al inicio de un nuevo proceso de modernización del sector.
+7. Aprobar una nueva Ley de Telecomunicaciones como paso previo al inicio de un nuevo proceso de modernización del sector.
 
-#### ENUNCIADOS DE VISIÓN - INFRAESTRUCTURA PRODUCTIVA
+#### ENUNCIADOS DE VISIÓN – INFRAESTRUCTURA PRODUCTIVA
 
-Para el año 2022 , Se habrán realizado las inversiones necesarias para consolidar el liderazgo  de  Honduras  como  el  más  importante  circuito  de  transporte  terrestre interoceánico para el tránsito de mercaderías en Centroamérica. Se habrán concretado inversiones público-privadas para el desarrollo de proyectos de generación de energía renovable de tal forma que la matriz energética evidenciará una  participación  neta  -  de  esta  forma  de  generación  -  equivalente  a  un  60%, atendiendo con calidad la demanda total del sector residencial, comercial e industrial durante el período. La brecha de electrificación rural se habrá cerrado en un 55% y proyectos de inversión pública y privada, permitirán llevar sistemas de riego a 250 mil hectáreas de tierras agrícolas. Se contará con una renovada red de caminos rurales que  potenciará  las  oportunidades  comerciales  de  miles  de  pequeños  productores agrícolas a lo largo del país.  90% de los hogares hondureños tendrán acceso a la telefonía,  la  cual  operará  bajo  un  marco  jurídico  y  operativo  moderno,  apegado  a estándares internacionales. Se habrá logrado cobertura del 93% de hogares rurales con agua potable y el acceso a alcantarillado sanitario alcanzará un 60%. Los puertos hondureños (Puerto Cortés, Puerto Castilla, Henecán y Amapala) estarán certificados como  puertos  internacionales,  conformando  una  red  de  servicios  portuarios  sin competencia  en  Centroamérica.  El  país  contará  con  instrumentos  que  faciliten  la inversión  privada  en  infraestructura,  propiciando  la  ampliación  de  coberturas  y  la generación de importantes contribuciones al desarrollo económico y social del país.
+Para el año 2022, Se habrán realizado las inversiones necesarias para consolidar el liderazgo de Honduras como el más importante circuito de transporte terrestre interoceánico para el tránsito de mercaderías en Centroamérica. Se habrán concretado inversiones público-privadas para el desarrollo de proyectos de generación de energía renovable de tal forma que la matriz energética evidenciará una participación neta – de esta forma de generación – equivalente a un 60%, atendiendo con calidad la demanda total del sector residencial, comercial e industrial durante el período. La brecha de electrificación rural se habrá cerrado en un 55% y proyectos de inversión pública y privada, permitirán llevar sistemas de riego a 250 mil hectáreas de tierras agrícolas. Se contará con una renovada red de caminos rurales que potenciará las oportunidades comerciales de miles de pequeños productores agrícolas a lo largo del país. 90% de los hogares hondureños tendrán acceso a la telefonía, la cual operará bajo un marco jurídico y operativo moderno, apegado a estándares internacionales. Se habrá logrado cobertura del 93% de hogares rurales con agua potable y el acceso a alcantarillado sanitario alcanzará un 60%. Los puertos hondureños (Puerto Cortés, Puerto Castilla, Henecán y Amapala) estarán certificados como puertos internacionales, conformando una red de servicios portuarios sin competencia en Centroamérica. El país contará con instrumentos que faciliten la inversión privada en infraestructura, propiciando la ampliación de coberturas y la generación de importantes contribuciones al desarrollo económico y social del país.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 112
 
@@ -2029,11 +1922,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 La inversión en infraestructura alcanzará un 7.5% del PIB, durante los últimos cuatro años del período.
 
-Para el año 2034 , Honduras tendrá un sistema consolidado de inversiones públicas y privadas  que  representará  al  menos  un  20%  del  PIB.  Las  inversiones  en  energía transformarán la matriz de generación haciendo mayoritaria (80%) la participación de la energía renovable. La brecha de electrificación rural habrá sido totalmente cubierta, utilizando medios  convencionales  y  alternativos  consistentes  con  el  desarrollo tecnológico  del  momento.  El  país  contará  con  acceso  universal  a  sistemas  de saneamiento y un 75% de los mismos, contará con medios de tratamiento. 400 mil hectáreas  de  tierras  agrícolas  tendrán  sistemas  de  riego.  Honduras  contará  con medios de inversión para asegurar el mantenimiento permanente de la red vial del país.
+Para el año 2034, Honduras tendrá un sistema consolidado de inversiones públicas y privadas que representará al menos un 20% del PIB. Las inversiones en energía transformarán la matriz de generación haciendo mayoritaria (80%) la participación de la energía renovable. La brecha de electrificación rural habrá sido totalmente cubierta, utilizando medios convencionales y alternativos consistentes con el desarrollo tecnológico del momento. El país contará con acceso universal a sistemas de saneamiento y un 75% de los mismos, contará con medios de tratamiento. 400 mil hectáreas de tierras agrícolas tendrán sistemas de riego. Honduras contará con medios de inversión para asegurar el mantenimiento permanente de la red vial del país.
 
-Para el año 2038 , Honduras será líder centroamericano en infraestructura productiva y se preparará para un nuevo momento de desarrollo con el fin consolidar y mantener su posicionamiento internacional.
+Para el año 2038, Honduras será líder centroamericano en infraestructura productiva y se preparará para un nuevo momento de desarrollo con el fin consolidar y mantener su posicionamiento internacional.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 113
 
@@ -2041,15 +1934,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 114]]
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
-
-114
-
 ### ESTABILIDAD MACROECONÓMICA COMO FUNDAMENTO DEL AHORRO INTERNO
 
 3
 
 4
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
+
+114
 
 [[END OF PAGE 114]]
 
@@ -2063,7 +1956,7 @@ La  estabilidad  macroeconómica  se  logra  mediante  el  mantenimiento  de  si
 
 Por su parte, una política contra cíclica se lleva a cabo mediante una administración cautelosa  de  los  recursos  durante  los  periodos  de  altos  crecimiento  económico, donde  generalmente  los  ingresos  se  incrementan,  con  el  objetivo  de  disponer  de recursos adicionales durante los periodos de disminución de la actividad económica.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 115
 
@@ -2079,7 +1972,7 @@ Es  imprescindible  eliminar  de  nuestra  economía,  esta    propensión  a  g
 
 Este  objetivo  requiere  fortalecer  la  demanda  interna,  sin  caer  en  una  política proteccionista que aísle al País de las corrientes mundiales de comercio, inversión y financiamiento. Requiere también recuperar los niveles de inversión pública y privada en relación al PIB, que den sostenibilidad al crecimiento, apoyados en la fortaleza de mercados de capital domésticos que provean una parte significativa de los recursos necesarios para financiarla.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 116
 
@@ -2093,7 +1986,7 @@ Finalmente,  el  Banco  Central  de  Honduras,  conduciendo  una  política  dis
 
 Desafortunadamente, el inicio del Plan de Nación 2010-2022, encuentra a Honduras sumida en la mayor crisis financiera de su historia reciente. Los efectos de la crisis financiera internacional sumados al impacto de los desarrollos políticos internos han sido devastadores sobre las finanzas públicas, el crecimiento del PIB y la inversión privada,  nacional  y  extranjera,  produciendo  una  caída  en  los  ingresos  y  el  empleo, cuyo  efecto  perdurará  al  menos  por  los  primeros  tres  años  del  Plan  de  Nación, restando capacidad al sector público para actuar como un agente de cambio en forma importante y para efectuar cambios estructurales en las finanzas públicas y orientar masivamente recursos a la satisfacción de las necesidades de los más necesitados.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 117
 
@@ -2109,9 +2002,9 @@ En este panorama, el Gobierno y la ciudadanía tendrán la tarea de racionalizar
 
 #### LOS GRANDES RETOS EN MATERIA DE ESTABILIDAD MACROECONOMICA
 
-1. Honduras requiere alcanzar y mantener una tasa de crecimiento del PIB no solo superior  a  la  tasa  de  crecimiento  de  la  población,  sino  además  suficiente  para incrementar la generación de empleo a niveles superiores a la tasa de crecimiento de la población económicamente activa, para favorecer el  ingreso de la nueva fuerza de trabajo  al  mercado  laboral,  así  como  la  ocupación  de  la  población  actualmente desempleada.  Es  importante  que  los  nuevos  puestos  de  trabajo  y  ocupaciones productivas  generen  niveles  de  ingreso  que  permitan  niveles  de  vida  dignos  a  la población  ocupada,  de  forma  tal  que  a  la  vez  que  la  economía  crece,  se  vaya incrementando gradualmente la equidad en la distribución del ingreso y la riqueza. Para  este  propósito,  es  importante  que  se  consolide  la  acumulación  de  capital interno, tanto en la forma de ahorro financiero como de formación de activos físicos, lo que facilitaría el acceso de la población a activos productivos y a los mercados de trabajo, recursos y crédito.
+1. Honduras requiere alcanzar y mantener una tasa de crecimiento del PIB no solo superior a la tasa de crecimiento de la población, sino además suficiente para incrementar la generación de empleo a niveles superiores a la tasa de crecimiento de la población económicamente activa, para favorecer el ingreso de la nueva fuerza de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 118
 
@@ -2119,9 +2012,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 119]]
 
-2. La reducción de las vulnerabilidades económicas, fuente de las crisis recurrentes a que ha estado expuesta la economía hondureña durante el último medio siglo, es una tarea  que  no  se  debe  postergar.  Objetivos  como  el  fortalecimiento  de  las  finanzas públicas, del sistema financiero y de la posición comercial y financiera externa, son de vital importancia para asegurar el éxito del Plan de Nación y sus postulados, así como  la  sostenibilidad  del  crecimiento  económico.  Las  crisis  económicas  son detonantes de procesos de concentración del ingreso y la riqueza, que son capaces de  contrarrestar  los  esfuerzos  sociales  por  mejorar  la  equidad.  En  lugar  de  ser  un elemento potencial de crisis, el Estado debe convertirse en una fuente de fortaleza, desarrollar sus capacidades para la formulación y ejecución de políticas públicas de alta calidad, rediseñar su estructura para aumentar su capacidad de servicios a los ciudadanos,  desarrollar  acciones  de  apoyo  efectivo  a  las  iniciativas  productivas, culturales,  cívicas  y  políticas  de  los  hondureños,  focalizar  los  programas  sociales hacia los sectores más necesitados y resistir las demandas de los grupos de presión de  todo  tipo,  que  buscan  aumentar  su  participación  en  la  asignación  de  recursos públicos.
+trabajo al mercado laboral, así como la ocupación de la población actualmente desempleada. Es importante que los nuevos puestos de trabajo y ocupaciones productivas generen niveles de ingreso que permitan niveles de vida dignos a la población ocupada, de forma tal que a la vez que la economía crece, se vaya incrementando gradualmente la equidad en la distribución del ingreso y la riqueza. Para este propósito, es importante que se consolide la acumulación de capital interno, tanto en la forma de ahorro financiero como de formación de activos físicos, lo que facilitaría el acceso de la población a activos productivos y a los mercados de trabajo, recursos y crédito.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+2. La reducción de las vulnerabilidades económicas, fuente de las crisis recurrentes a que ha estado expuesta la economía hondureña durante el último medio siglo, es una tarea que no se debe postergar. Objetivos como el fortalecimiento de las finanzas públicas, del sistema financiero y de la posición comercial y financiera externa, son de vital importancia para asegurar el éxito del Plan de Nación y sus postulados, así como la sostenibilidad del crecimiento económico. Las crisis económicas son detonantes de procesos de concentración del ingreso y la riqueza, que son capaces de contrarrestar los esfuerzos sociales por mejorar la equidad. En lugar de ser un elemento potencial de crisis, el Estado debe convertirse en una fuente de fortaleza, desarrollar sus capacidades para la formulación y ejecución de políticas públicas de alta calidad, rediseñar su estructura para aumentar su capacidad de servicios a los ciudadanos, desarrollar acciones de apoyo efectivo a las iniciativas productivas, culturales, cívicas y políticas de los hondureños, focalizar los programas sociales hacia los sectores más necesitados y resistir las demandas de los grupos de presión de todo tipo, que buscan aumentar su participación en la asignación de recursos
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 119
 
@@ -2129,11 +2024,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 120]]
 
-- La  política  económica  debe  formularse  y  ejecutarse  en  forma  coordinada.  Esto significa  que  las  instituciones  miembros  del  Gabinete  Económico  del  Gobierno trabajen como equipo, sin menoscabo de la independencia que debe tener el Banco Central de Honduras al perseguir el objetivo de inflación, y procuren como un objetivo común,  la  estabilidad  económica,  la  obtención  de  tasas  de  interés  positivas  en términos reales que incentiven el crecimiento del ahorro interno, la formación de un mercado de capitales a largo plazo para el financiamiento de la actividad productiva del país, la solidez del sistema financiero, el acceso de la población al crédito y otros servicios financieros, una supervisión bancaria y de otros sectores, con la calidad y eficiencia que requiere una economía moderna y las alianzas con el sector privado para la ejecución de obras de infraestructura, a nivel municipal, regional y nacional, en  condiciones  que  protejan  los  intereses  del  Estado  y  los  de  los  operadores privados.
+públicos.
 
-- El crecimiento de la clase media, nutrida por la reducción en los niveles de pobreza y por mejores resultados del sistema educativo, el aumento del acceso al crédito posibilitado por el aumento del ahorro interno y el crecimiento de la cobertura de los sistemas de previsión social y un mejor uso del sistema tributario para redistribuir ingreso, posibilitara el fortalecimiento de la demanda interna, necesario no solo para aumentar la capacidad de consumo de la población, sino para mejorar el blindaje de la economía nacional frente a las crisis internacionales y el alza de los precios de las materias primas en los mercados externos, que alteran los términos de
+3. La política económica debe formularse y ejecutarse en forma coordinada. Esto significa que las instituciones miembros del Gabinete Económico del Gobierno trabajen como equipo, sin menoscabo de la independencia que debe tener el Banco Central de Honduras al perseguir el objetivo de inflación, y procuren como un objetivo común, la estabilidad económica, la obtención de tasas de interés positivas en términos reales que incentiven el crecimiento del ahorro interno, la formación de un mercado de capitales a largo plazo para el financiamiento de la actividad productiva del país, la solidez del sistema financiero, el acceso de la población al crédito y otros servicios financieros, una supervisión bancaria y de otros sectores, con la calidad y eficiencia que requiere una economía moderna y las alianzas con el sector privado para la ejecución de obras de infraestructura, a nivel municipal, regional y nacional, en condiciones que protejan los intereses del Estado y los de los operadores privados.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+4. El crecimiento de la clase media, nutrida por la reducción en los niveles de pobreza y por mejores resultados del sistema educativo, el aumento del acceso al crédito posibilitado por el aumento del ahorro interno y el crecimiento de la cobertura de los sistemas de previsión social y un mejor uso del sistema tributario para redistribuir ingreso, posibilitara el fortalecimiento de la demanda interna, necesario no solo para aumentar la capacidad de consumo de la población, sino para mejorar el blindaje de la economía nacional frente a las crisis internacionales y el alza de los precios de las materias primas en los mercados externos, que alteran los términos de
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 120
 
@@ -2143,13 +2040,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 intercambio y afectan la estabilidad de los precios domésticos.
 
-- En combinación con el fortalecimiento de la demanda interna, un desafío importante a futuro es recuperar los niveles de inversión privada y pública en relación al PIB. El logro de los objetivos de crecimiento y generación de empleo, requiere movilizar inversiones públicas y privadas, nacionales y extranjeras, que den sostenibilidad y solidez a la economía nacional. En tal sentido, la estabilidad macroeconómica complementara los esfuerzos que se realicen para ofrecer un ambiente favorable a los inversionistas en el desarrollo de proyectos productivos en las actividades económicas donde Honduras puede desarrollar su competitividad con ventajas frente a otros países de la región centroamericana y de fuera de la región, aprovechar el crecimiento de nuevos mercados y acelerar el proceso de asimilación de la creciente masa de población económicamente activa en los mercados de trabajo, activos y financiamiento.
+5. En combinación con el fortalecimiento de la demanda interna, un desafío importante a futuro es recuperar los niveles de inversión privada y pública en relación al PIB. El logro de los objetivos de crecimiento y generación de empleo, requiere movilizar inversiones públicas y privadas, nacionales y extranjeras, que den sostenibilidad y solidez a la economía nacional. En tal sentido, la estabilidad macroeconómica complementara los esfuerzos que se realicen para ofrecer un ambiente favorable a los inversionistas en el desarrollo de proyectos productivos en las actividades económicas donde Honduras puede desarrollar su competitividad con ventajas frente a otros países de la región centroamericana y de fuera de la región, aprovechar el crecimiento de nuevos mercados y acelerar el proceso de asimilación de la creciente masa de población económicamente activa en los mercados de trabajo, activos y financiamiento.
 
 #### ENUNCIADOS DE VISION: ESTABILIDAD MACROECONOMICA
 
-- Para el año 2022 , Honduras habrá alcanzado una tasa sostenible de crecimiento económico  no  inferior  al  7%  anual  y  reducido  la  inequidad  en  la  distribución  del ingreso, medida por el Coeficiente de Gini, a un nivel de 0.45. La tasa de ahorro total de la economía habrá aumentado a un 30% del PIB y la inflación se habrá convertido en un objetivo permanente de la política monetaria, reduciéndose a un nivel promedio de 3% anual. Las finanzas públicas se habrán consolidado y se hallarán en vigencia mecanismos compensatorios anti cíclicos, que permitirán al Estado ejercer un papel activo  en  la  promoción  del  crecimiento  económico  en  todas  las  regiones  del  país, cuando  las  variables  del  contexto  internacional  afecten  a  Honduras  en  forma desfavorable. Mecanismos  eficientes para la ejecución de obras públicas de
+1. Para el año 2022, Honduras habrá alcanzado una tasa sostenible de crecimiento económico no inferior al 7% anual y reducido la inequidad en la distribución del ingreso, medida por el Coeficiente de Gini, a un nivel de 0.45. La tasa de ahorro total de la economía habrá aumentado a un 30% del PIB y la inflación se habrá convertido en un objetivo permanente de la política monetaria, reduciéndose a un nivel promedio de 3% anual. Las finanzas públicas se habrán consolidado y se hallarán en vigencia mecanismos compensatorios anti cíclicos, que permitirán al Estado ejercer un papel activo en la promoción del crecimiento económico en todas las regiones del país, cuando las variables del contexto internacional afecten a Honduras en forma desfavorable. Mecanismos eficientes para la ejecución de obras públicas de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 121
 
@@ -2159,11 +2056,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 infraestructura  se  encontrarán  en  vigencia  y  al  menos  tres  grandes  proyectos  con impacto a nivel nacional se financiarán en alianza con el sector privado.  El déficit corriente del sector publico consolidado se habrá reducido gradualmente durante el periodo a un nivel consistente con las posibilidades de financiamiento del país y el grado de endeudamiento público guardara proporción con la capacidad de pago del Estado, destinándose los nuevos  empréstitos externos que  se contraigan, al financiamiento de las obras de infraestructura necesarias para cumplir los objetivos nacionales  en  materia  de  infraestructura  productiva.  El  país  habrá  recuperado  un nivel de inversión bruta, pública y privada suficiente para impulsar el aumento de la tasa de crecimiento real promedio del PIB.
 
-- Para el año 2034 ,  el  sector  público  no  financiero  estará  generando  ahorro  a  un nivel  equivalente  al  1.5%  del  PIB  anual.  Los  mecanismos  para  la  reducción  de  los riesgos por vulnerabilidades originadas en el  sector externo, incluyendo los riesgos climáticos,  estarán  financieramente  consolidados.  Las  alianzas  publico-privadas serán  un  procedimiento  utilizado  a  nivel  regional  y  municipal.  El  proceso  de formulación de las políticas públicas se realizará con calidad y  se ejecutará en forma coordinada. Se habrá logrado un nivel de descentralización del 40% en la inversión pública.
+2. Para el año 2034, el sector público no financiero estará generando ahorro a un nivel equivalente al 1.5% del PIB anual. Los mecanismos para la reducción de los riesgos por vulnerabilidades originadas en el sector externo, incluyendo los riesgos climáticos, estarán financieramente consolidados. Las alianzas publico-privadas serán un procedimiento utilizado a nivel regional y municipal. El proceso de formulación de las políticas públicas se realizará con calidad y se ejecutará en forma coordinada. Se habrá logrado un nivel de descentralización del 40% en la inversión pública.
 
-- Para el año 2038 , Honduras se caracterizará por haber alcanzado una capacidad interna  para  la  administración  de  los  riesgos  económicos  que  la  afectan.  Una significativa mejora en su capacidad de formulación de políticas públicas y un nivel de ahorro  interno  suficiente  como  para  eliminar  su  dependencia  de  financiamiento externo.  La  tasa  de  crecimiento  del  PIB  le  habrá  permitido  reducir  el  desempleo abierto  al  2%  del  PIB,  principalmente  originado  en  desempleo  estacional  y  el
+3. Para el año 2038, Honduras se caracterizará por haber alcanzado una capacidad interna para la administración de los riesgos económicos que la afectan. Una significativa mejora en su capacidad de formulación de políticas públicas y un nivel de ahorro interno suficiente como para eliminar su dependencia de financiamiento externo. La tasa de crecimiento del PIB le habrá permitido reducir el desempleo abierto al 2% del PIB, principalmente originado en desempleo estacional y el
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 122
 
@@ -2175,7 +2072,7 @@ subempleo invisible a menos del 5% de la población ocupada.
 
 El país podrá financiar la modernización y mantenimiento de su infraestructura y el Estado será un agente activo que participe activamente en la generación de mejores condiciones de vida para los ciudadanos.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 123
 
@@ -2186,7 +2083,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 ### IMAGEN PAÍS, COMPETITIVIDAD Y DESARROLLO DE SECTORES PRODUCTIVOS
 3 4
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 124
 
@@ -2200,15 +2097,16 @@ Esta transformación  creará,  una  población  con  mayor  poder  de  compra  
 
 La India será también un país de elevado crecimiento, gran importadora de recursos primarios,  como  de  bienes  y  servicios  procesados;  tendrá  la  necesaria  fortaleza financiera  para  impulsar  inversiones  en  otros  países  y  la  producción  conjunta  con socios externos; además, fortalezas en tecnología tradicional y en nuevas tecnologías como las de ITC y sus aplicaciones para el consumo popular y la intercomunicación personal.
 
-Los Estados Unidos de América continuarán siendo una potencia de primer orden en lo  económico,  tecnológico  y  financiero;  se  trata  de  un  mercado  y  proveedor  muy grande y sofisticado; por la cercanía con el mismo, deben mantenerse y fortalecerse los sistemas de transporte y de comunicación. El país debe constituir los mecanismos necesarios para realizar un aprovechamiento pleno de las ventajas del tratado RD- CAFTA,  el  cual  deberá  ser  un  medio  utilísimo  para  el  aprovechamiento  de  esas circunstancias.
+Los Estados Unidos de América continuarán siendo una potencia de primer orden en lo económico, tecnológico y financiero; se trata de un mercado y proveedor muy grande y sofisticado; por la cercanía con el mismo, deben mantenerse y fortalecerse los sistemas de transporte y de comunicación. El país debe constituir los mecanismos necesarios para realizar un aprovechamiento pleno de las ventajas del tratado RD-CAFTA, el cual deberá ser un medio utilísimo para el aprovechamiento de esas circunstancias.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 125
 
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
+CAFTA, el cual deberá ser un medio utilísimo para el aprovechamiento de esas circunstancias.
 
 Por  la  gran  capacidad  de  compra  que  el  mercado  estadounidense  tiene  y  por  su posición  geográfica  respecto  a  Honduras,  nuestro  país  puede  ser  un  centro  de transportación multimodal, que vincule el Asia, Europa, Sur y Centroamérica
 
@@ -2216,15 +2114,16 @@ En  materia  de  abastecimiento  de  bienes  y  servicios  al  mercado  norteame
 
 Centroamérica será un bloque con una elevada población. Dotada de ricos recursos naturales, su ingreso per cápita habrá mejorado como resultado del crecimiento de la economía  mundial.  Si  el  bloque  de  países  centroamericanos  alcanzara  una  mayor integración,  devendría  en  un  gran  mercado  de  consumo,  abierto  a  sustanciales iniciativas de inversión; podría ser un centro financiero importante, lo mismo que un centro  tecnológico  especializado.  Ello  dependerá  mucho  de  encontrar  un  nuevo marco y motivación para una integración sólida, económica y social.
 
-Los  recursos  naturales  no  renovables,  cuya  disponibilidad  se  reduce  con  su explotación, también enfrentarán una gran demanda  de  parte  de los países desarrollados  y en  sustancial  crecimiento. El  tratamiento estratégico  de  estos recursos, sobre todo de los minerales raros, es una prioridad para la formulación de políticas públicas en los respectivos Gobiernos.
+Los recursos naturales no renovables, cuya disponibilidad se reduce con su explotación, también enfrentarán una gran demanda de parte de los países desarrollados y en sustancial crecimiento. El tratamiento estratégico de estos
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 126
 
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
+recursos, sobre todo de los minerales raros, es una prioridad para la formulación de políticas públicas en los respectivos Gobiernos.
 
 En Honduras la inversión bruta ha llegado a porcentajes cercanos al 30% del PIB muy superiores a la media de América Latina (22%). Sin embargo, esto no parece haber tenido una incidencia significativa en el crecimiento económico del país, debido, entre otras cosas, a un nivel de eficiencia muy bajo y a la escasa productividad de la mano de obra.
 
@@ -2232,31 +2131,33 @@ No obstante los esfuerzos realizados por incrementar la eficiencia de las invers
 
 El  bajo  crecimiento  que  el  país  ha  observado  en  los  últimos  periodos,  requiere  de medidas que promuevan la reactivación económica en el mediano plazo en un marco de estabilidad y confianza. En tal sentido, es necesario impulsar una política definida, coherente  y  sostenible  de  desarrollo  de  los  sectores  productivos  asociados  a  las ventajas comparativas y competitivas del país.
 
-La Estrategia Nacional de Competitividad, identifica cuatro motores de desarrollo que deben  ser  impulsados  en  forma  agresiva  y  sostenida  a  nivel  internacional:  (i)  Un nuevo momento de la maquila (esta vez orientada a servicios como Contact Centers y servicios de Back Office); (ii) El desarrollo integral de nuestro potencial agroalimentario;  (iii)  La  promoción  del  sector  forestal  como  uno  de  los  tres  más importantes recursos naturales del país y; (iv) El desarrollo integral del turismo.
+La Estrategia Nacional de Competitividad, identifica cuatro motores de desarrollo que deben ser impulsados en forma agresiva y sostenida a nivel internacional: (i) Un nuevo momento de la maquila (esta vez orientada a servicios como Contact Centers y servicios de Back Office); (ii) El desarrollo integral de nuestro potencial
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 127
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
+agroalimentario; (iii) La promoción del sector forestal como uno de los tres más importantes recursos naturales del país y; (iv) El desarrollo integral del turismo.
 
-Honduras tiene en el Sector Externo un pilar para su desarrollo futuro y en atención a ese  reconocimiento,  deben  realizarse  esfuerzos  sostenidos  y  de  largo  plazo  que contribuyan  al  mercadeo  de  la  producción  nacional,  la  promoción  del  turismo  y  la creación de espacios para nuevas inversiones.
+Honduras tiene en el Sector Externo un pilar para su desarrollo futuro y en atención a ese reconocimiento, deben realizarse esfuerzos sostenidos y de largo plazo que contribuyan al mercadeo de la producción nacional, la promoción del turismo y la creación de espacios para nuevas inversiones.
 
-El programa Imagen País debe desarrollarse bajo el marco de una alianza públicaprivada  que  implique  grandes  acuerdos  en cuanto a contenido, intensidad y financiamiento,  debiendo  estar  debidamente  alineado  con  los  ejes  prioritarios  de  la Estrategia  Nacional  de  Competitividad.  Su  ejecución  debe  estar  vinculada  con  el dinamismo  comercial  externo  y  las  circunstancias  prevalecientes  en  los  mercados globales y el programa debe contar con un horizonte de planificación en el largo plazo durante el cual, deberán consolidarse temas como el perfil de nación, la estrategia de diferenciación y la marca país.
+El programa Imagen País debe desarrollarse bajo el marco de una alianza pública-privada que implique grandes acuerdos en cuanto a contenido, intensidad y financiamiento, debiendo estar debidamente alineado con los ejes prioritarios de la Estrategia Nacional de Competitividad. Su ejecución debe estar vinculada con el dinamismo comercial externo y las circunstancias prevalecientes en los mercados globales y el programa debe contar con un horizonte de planificación en el largo plazo durante el cual, deberán consolidarse temas como el perfil de nación, la estrategia de diferenciación y la marca país.
 
 En atención a su carácter multisectorial y al beneficio que el programa debe trasladar a  todos  los  sectores  de  la  sociedad,  deben  crearse  las  instancias  de  consulta necesarias  teniendo  como  eje  el  Comité  Nacional  de  Competitividad  e  Innovación. Asimismo,  deben  asignarse  recursos  presupuestarios  para  el  desarrollo  de    la campaña de promoción del país, que podrán incrementarse en forma progresiva de acuerdo  a  las  circunstancias  y  al  comportamiento  de  los  mercados  durante  los próximos períodos de Gobierno.
 
-El sector privado debería complementar los aportes financieros de recursos públicos, de  tal  forma  que  la  promoción  de  las  oportunidades  y  de  los  atractivos  del  país, trascienda el ámbito del gobierno y se coloque como una expectativa que es parte de la conducta natural de todos los hondureños.
+El sector privado debería complementar los aportes financieros de recursos públicos, de tal forma que la promoción de las oportunidades y de los atractivos del país,
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 128
 
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
+trascienda el ámbito del gobierno y se coloque como una expectativa que es parte de la conducta natural de todos los hondureños.
 
 En esa dirección,  se establece que el Programa Imagen País debe contar también con  componentes  de  incidencia  interna,  dirigidos  a  la  promoción  de  los  valores culturales de Honduras, el fomento de la calidad productiva, la actitud de servicio y el compromiso ciudadano para la construcción del futuro de la nación.
 
@@ -2264,9 +2165,9 @@ El  servicio  diplomático  y  consular,  por  otro  lado,  debe  constituirse  
 
 #### LOS GRANDES RETOS EN MATERIA DE COMPETITIVIDAD, IMAGEN PAIS Y DESARROLLO DE SECTORES PRODUCTIVOS
 
-- Honduras necesita contar permanentemente con una instancia de pensamiento que sobre una base de acción continua y con información amplia y suficiente, detecte las nuevas oportunidades que van surgiendo para el país, en  el  área  productiva,  de  servicios,  nuevos  mercados,  nuevas  alianzas comerciales, nichos en áreas o mercados ya existentes y nuevas formas de utilización de los recursos, que permitan alimentar la formulación de políticas, las inversiones, el diseño curricular de la educación, las redes de distribución y sistemas de comercialización y en general, orientar al país hacia una inserción
+1. Honduras necesita contar permanentemente con una instancia de pensamiento que sobre una base de acción continua y con información amplia y suficiente, detecte las nuevas oportunidades que van surgiendo para el país, en el área productiva, de servicios, nuevos mercados, nuevas alianzas comerciales, nichos en áreas o mercados ya existentes y nuevas formas de utilización de los recursos, que permitan alimentar la formulación de políticas, las inversiones, el diseño curricular de la educación, las redes de distribución y sistemas de comercialización y en general, orientar al país hacia una inserción
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 129
 
@@ -2276,11 +2177,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 exitosa  en  la  economía  mundial,  para  aumentar  continuamente  el  nivel  de bienestar  de  su  población.  Este  proceso  debe  vincular  las  capacidades académicas, financieras y humanas y poner la acción estatal, al servicio del aprovechamiento de los cambios que va experimentando el mundo, por parte de  los  profesionales,  trabajadores  y  empresarios  hondureños  y  extranjeros, que residen en el territorio nacional.
 
-- El aprovechamiento exitoso de las nuevas oportunidades requiere avanzar en el  fomento  de  la  competitividad  nacional,  a  un  ritmo  más  acelerado  al  que trabajan en la misma labor, otros países que compiten con el nuestro como destino de inversión y turismo. Este ritmo acelerado de trabajo, impuesto por la tendencia actual del crecimiento de la población, expuesto en otra sección de este documento, así como el rezago existente en la ocupación y el ingreso actuales de la población económicamente activa, es una condición vital para que el logro de la mejora en las condiciones de vida de los hondureños pueda lograrse. Para este propósito, el país requiere dedicar sus recursos humanos y financieros  disponibles,  a  las  labores  de  promoción,  atracción  y  fomento  de relaciones, alianzas y convenios con otros países, que resulten en el aumento del  atractivo  de  Honduras  en  el  terreno  comercial  y  en  la  concreción  de nuevas oportunidades para su población. Para este propósito, es imprescindible rediseñar el servicio exterior, no solo desde el punto de vista del tipo de funcionario diplomático  que se contrata sino también  una relocalización  de  las  misiones  diplomáticas,  en  función  de  los  intereses comerciales, financieros y de inversión del país.
+2. El aprovechamiento exitoso de las nuevas oportunidades requiere avanzar en el fomento de la competitividad nacional, a un ritmo más acelerado al que trabajan en la misma labor, otros países que compiten con el nuestro como destino de inversión y turismo. Este ritmo acelerado de trabajo, impuesto por la tendencia actual del crecimiento de la población, expuesto en otra sección de este documento, así como el rezago existente en la ocupación y el ingreso actuales de la población económicamente activa, es una condición vital para que el logro de la mejora en las condiciones de vida de los hondureños pueda lograrse. Para este propósito, el país requiere dedicar sus recursos humanos y financieros disponibles, a las labores de promoción, atracción y fomento de relaciones, alianzas y convenios con otros países, que resulten en el aumento del atractivo de Honduras en el terreno comercial y en la concreción de nuevas oportunidades para su población. Para este propósito, es imprescindible rediseñar el servicio exterior, no solo desde el punto de vista del tipo de funcionario diplomático que se contrata sino también una relocalización de las misiones diplomáticas, en función de los intereses comerciales, financieros y de inversión del país.
 
-- Hacia el futuro, la sociedad del conocimiento producirá enormes cambios en las actividades económicas, las formas de producción y las fuentes de riqueza. Los activos tradicionales perderán valor como fuentes de riqueza, frente a los
+3. Hacia el futuro, la sociedad del conocimiento producirá enormes cambios en las actividades económicas, las formas de producción y las fuentes de riqueza. Los activos tradicionales perderán valor como fuentes de riqueza, frente a los
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 130
 
@@ -2288,11 +2189,11 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 131]]
 
-- activos  producidos  por  el  desarrollo  del  conocimiento  y  las  capacidades adquiridas para incorporar innovaciones  que aumenten la eficiencia, reduzcan los costos y aceleren la producción de bienes y servicios. En este sentido, la promoción  del conocimiento y la innovación, así como  la emisión de legislación moderna y adecuada para proteger la propiedad y derechos sobre los  activos  del  conocimiento  y  la  innovación,  serán  labores  que  deberán emprenderse  a  mediano  plazo,  como  una  necesidad  resultante  en  forma natural del aumento de la calidad del proceso educativo, la profundización del acceso a la información y la certificación de los centros de enseñanza. Una vez alcanzadas las metas en los pilares básicos de la competitividad, el país requiere  avanzar  hacia  la  producción  de  conocimiento  como  medio  para mantenerse  en la posición a la que aspiramos dentro del Índice de Competitividad Global (FEM). Esta meta no se podrá concretar sin una acción decidida  por  parte  de  las  instituciones  ciudadanas  en  torno  a  convertir  el conocimiento en un bien altamente apreciado y debidamente compensado y protegido.
+activos producidos por el desarrollo del conocimiento y las capacidades adquiridas para incorporar innovaciones que aumenten la eficiencia, reduzcan los costos y aceleren la producción de bienes y servicios. En este sentido, la promoción del conocimiento y la innovación, así como la emisión de legislación moderna y adecuada para proteger la propiedad y derechos sobre los activos del conocimiento y la innovación, serán labores que deberán emprenderse a mediano plazo, como una necesidad resultante en forma natural del aumento de la calidad del proceso educativo, la profundización del acceso a la información y la certificación de los centros de enseñanza. Una vez alcanzadas las metas en los pilares básicos de la competitividad, el país requiere avanzar hacia la producción de conocimiento como medio para mantenerse en la posición a la que aspiramos dentro del Índice de Competitividad Global (FEM). Esta meta no se podrá concretar sin una acción decidida por parte de las instituciones ciudadanas en torno a convertir el conocimiento en un bien altamente apreciado y debidamente compensado y protegido.
 
-- El país requiere del desarrollo de una campaña especializada de promoción a nivel internacional, apoyada en el diseño de una marca país dirigida a explotar sus riquezas naturales, estabilidad política, oportunidades de inversión, manifestaciones  culturales  y  artísticas  y  calidad  de  sus  recursos  humanos. Esta  campaña  no  solamente  debe  servir  para  promover  y  dar  a  conocer  a Honduras en el exterior, sino también para fomentar a nivel interno una nueva cultura  de  orgullo  nacional,  conocimiento  generalizado  de  los  objetivos  del país  a  largo  plazo  y  de  las  justificaciones  económicas  y  sociales  de  los lineamientos del Plan de Nación.
+4. El país requiere del desarrollo de una campaña especializada de promoción a nivel internacional, apoyada en el diseño de una marca país dirigida a explotar sus riquezas naturales, estabilidad política, oportunidades de inversión, manifestaciones culturales y artísticas y calidad de sus recursos humanos. Esta campaña no solamente debe servir para promover y dar a conocer a Honduras en el exterior, sino también para fomentar a nivel interno una nueva cultura de orgullo nacional, conocimiento generalizado de los objetivos del país a largo plazo y de las justificaciones económicas y sociales de los lineamientos del Plan de Nación.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 131
 
@@ -2302,13 +2203,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 #### ENUNCIADOS DE VISION SOBRE COMPETITIVIDAD, IMAGEN PAIS Y DESARROLLO DE SECTORES PRODUCTIVOS
 
-Para el año 2022 , la campaña de imagen país habrá logrado posicionar a Honduras a nivel internacional como  destino atractivo para el turismo y la inversión, establecimiento  de  empresas  extranjeras,  destino  seguro  de  residencia,  centro  de servicios  de  calidad  internacional  y  país  estable  social  y  políticamente.  Se  habrá reestructurado el servicio exterior y reposicionado las delegaciones diplomáticas en el extranjero de conformidad a los cambios en la geografía económica y comercial que está experimentando el mundo y a la necesidad de que estos recursos trabajen más activamente  a  favor  de  la  promoción  y  conocimiento  de  las  cualidades  de  nuestro país en el resto del mundo.
+Para el año 2022, la campaña de imagen país habrá logrado posicionar a Honduras a nivel internacional como destino atractivo para el turismo y la inversión, establecimiento de empresas extranjeras, destino seguro de residencia, centro de servicios de calidad internacional y país estable social y políticamente. Se habrá reestructurado el servicio exterior y reposicionado las delegaciones diplomáticas en el extranjero de conformidad a los cambios en la geografía económica y comercial que está experimentando el mundo y a la necesidad de que estos recursos trabajen más activamente a favor de la promoción y conocimiento de las cualidades de nuestro país en el resto del mundo.
 
-Para  el  año  2034 ,  La  tasa  de  crecimiento  de  la  inversión  extranjera  se  habrá triplicado  y  diversificado,  con  presencia  en  todas  las  regiones  del  país.  Las  reglas serán claras y estables, el Estado se habrá convertido en un socio colaborador de la ciudadanía  para  apoyar  los  emprendimientos  productivos  y  comerciales  de  todo tamaño y el Plan de Nación será el instrumento principal para el establecimiento de políticas y programas  en  consistencia con los principios que posibilitarán la participación de los hondureños como actores y beneficiarios del desarrollo.
+Para el año 2034, La tasa de crecimiento de la inversión extranjera se habrá triplicado y diversificado, con presencia en todas las regiones del país. Las reglas serán claras y estables, el Estado se habrá convertido en un socio colaborador de la ciudadanía para apoyar los emprendimientos productivos y comerciales de todo tamaño y el Plan de Nación será el instrumento principal para el establecimiento de políticas y programas en consistencia con los principios que posibilitarán la participación de los hondureños como actores y beneficiarios del desarrollo.
 
-Para el año 2038 ,  el país continuará trabajando en el mantenimiento y progreso de su posición internacional como nación competitiva. El aprovechamiento del talento de los recursos humanos será el logro principal y el clima de seguridad y fomento de la actividad productiva servirá de base para su integración a la sociedad del conocimiento.
+Para el año 2038, el país continuará trabajando en el mantenimiento y progreso de su posición internacional como nación competitiva. El aprovechamiento del talento de los recursos humanos será el logro principal y el clima de seguridad y fomento de la actividad productiva servirá de base para su integración a la sociedad del conocimiento.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 132
 
@@ -2316,7 +2217,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 133]]
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 133
 
@@ -2342,23 +2243,24 @@ La  Convención  Marco,  entró  en  vigencia  en  1994  e  incorporó  cuatro  
 
 - El principio de la equidad en la asignación de las cargas para la mitigación y la adaptación  a  la  nueva  situación,  lo  que  incluye  la  obligación  de  los  países desarrollados, principales responsables de las emisiones de gases de efecto invernadero, de transferir tecnologías más limpias, otorgar asistencia financiera a los países en desarrollo para enfrentar el problema y especialmente para los compromisos adoptados para la mitigación de las emisiones.
 
-La  CMNUCC  fue  ratificada  por  el  Congreso  Nacional  de  Honduras  mediante  el Decreto 26-95 del 14 de febrero de 1995. L Convención es un tratado que sirve de base al Protocolo de Kioto (PK) Kioto, el cual es instrumento jurídicamente vinculante que obliga a los países industrializados o en vías de transición a una economía de mercad, a reducir sus emisiones de gases de efecto invernadero (GEl) en un 5 % por debajo de los niveles del año 1990. Tal negociación duro desde 1997 hasta el 2004, y entro  en  vigor  cuando  el  55  %  de  los  países  industrializados  y  en  economías  en transición lo ratificaran, entrando en Vigencia el 16 de febrero del 2005. El Congreso Nacional de Honduras Ratifico el (PK) mediante Decreto 37-2000 del 16 de junio del 2000.
+La CMNUCC fue ratificada por el Congreso Nacional de Honduras mediante el
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 134
 
 [[END OF PAGE 134]]
 
 [[START OF PAGE 135]]
+Decreto 26-95 del 14 de febrero de 1995. La Convención es un tratado que sirve de base al Protocolo de Kioto (PK) Kioto, el cual es instrumento jurídicamente vinculante que obliga a los países industrializados o en vías de transición a una economía de mercado, a reducir sus emisiones de gases de efecto invernadero (GEI) en un 5 % por debajo de los niveles del año 1990. Tal negociación duro desde 1997 hasta el 2004, y entro en vigor cuando el 55 % de los países industrializados y en economías en transición lo ratificaran, entrando en Vigencia el 16 de febrero del 2005. El Congreso Nacional de Honduras Ratifico el (PK) mediante Decreto 37-2000 del 16 de junio del 2000.
 
-Honduras enfrenta los efectos extremos del Cambio Climático, como mayor incidencia de huracanes, lluvias  torrenciales  e  inundaciones,  sequias  y  agotamiento  del  agua, pérdida de productividad de la tierra y de cultivos, mayores olas de calor, incremento del  nivel  del  mar,  incremento  de  enfermedades  tropicales,  mayor  frecuencia  e intensidad de los fenómenos del niño y la niña, aspectos relevantes que se anticipa, impactarán con mayor intensidad en las próximas décadas (ref: Panel Intergubernamental de Cambio  Climático  IPCC,  Grupo  de  Científicos de la Convención)  dado  a  conocer  en  febrero  del  2007.  Igual  referencia  se  hace  en  el Informe de las Naciones Unidas sobre Desarrollo Humano 2006 y, desde el año 2007, a  través  de  los  informes  de  Germanwatch  quien  rindió  su  informe  en  la  15 Conferencia de las Partes (COP 15) de la Reunión Mundial sobre el Cambio Climático celebrada del 7 al 18 de diciembre en Copenbague, Dinamarca. El informe sobre el Indicé de Riesgo Climático Global 2010 resalta a Honduras como el tercer país más afectado por el cambio climático a nivel global en el período 1990-2008.
+Honduras enfrenta los efectos extremos del Cambio Climático, como mayor incidencia de huracanes, lluvias torrenciales e inundaciones, sequias y agotamiento del agua, pérdida de productividad de la tierra y de cultivos, mayores olas de calor, incremento del nivel del mar, incremento de enfermedades tropicales, mayor frecuencia e intensidad de los fenómenos del niño y la niña, aspectos relevantes que se anticipa, impactarán con mayor intensidad en las próximas décadas (ref: Panel Intergubernamental de Cambio Climático - IPCC, Grupo de Científicos de la Convención) dado a conocer en febrero del 2007. Igual referencia se hace en el Informe de las Naciones Unidas sobre Desarrollo Humano 2006 y, desde el año 2007, a través de los informes de Germanwatch quien rindió su informe en la 15 Conferencia de las Partes (COP 15) de la Reunión Mundial sobre el Cambio Climático celebrada del 7 al 18 de diciembre en Copenbague, Dinamarca. El informe sobre el Indicé de Riesgo Climático Global 2010 resalta a Honduras como el tercer país más afectado por el cambio climático a nivel global en el período 1990-2008.
 
 Los ámbitos de participación nacional en este tema se enmarcan en lo siguiente:
 
 - Mitigación al cambio climático, significa Reducir Emisiones de Gases de Efecto
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 135
 
@@ -2366,23 +2268,24 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 136]]
 
-Invernadero (GEl), contribuyendo  a estabilizar la temperatura actual de la tierra y  los  GEl  existentes  en  el  Sistema  Climático  Global.  Se  trata  de  diseñar  e implementar proyectos que utilizan fuentes renovables de energía (agua, viento, sol,  biomasa,  calor  de  la  tierra..);  proyectos  sobre  eficiencia  energética  en  los sectores  residencial,  comercial  e  industrial;  captura  de  metano  de  las  aguas residuales  industriales,  botaderos  municipales,  excrementos  de  animales  y generación de electricidad con el biogás que se produce; recuperación de áreas degradadas por reforestación (donde no había bosque antes del 31/12/1989), y por aprobarse REED (Deforestación evitada por Reforestación y Recuperación de Áreas Degradadas).
+Invernadero (GEI), contribuyendo a estabilizar la temperatura actual de la tierra y los GEI existentes en el Sistema Climático Global. Se trata de diseñar e implementar proyectos que utilizan fuentes renovables de energía (agua, viento, sol, biomasa, calor de la tierra..); proyectos sobre eficiencia energética en los sectores residencial, comercial e industrial; captura de metano de las aguas residuales industriales, botaderos municipales, excrementos de animales y generación de electricidad con el biogás que se produce; recuperación de áreas degradadas por reforestación (donde no había bosque antes del 31/12/1989), y por aprobarse REED (Deforestación evitada por Reforestación y Recuperación de Áreas Degradadas).
 
-- Adaptación al cambio climático, expresado como la capacidad de respuesta y sobrevivencia ante el potencial impacto de eventos climáticos extremos. En este caso  la  expectativa  es  desarrollar  s istemas  de  monitoreo  y  medición  de  las condiciones  climáticas,  la  alerta  temprana  de  emergencias,  monitoreo  por sistemas  de  información  geográfica,  nuevas  formas  de  aprovechamiento  del suelo, buenas  prácticas productivas, la  adopción  de  nuevos  códigos  de construcción  aplicables  a  viviendas,  edificios,  vialidad  y  obras  hidráulicas, gestión  local  y  comunitaria  del  riesgo,  ordenamiento  territorial  preventivo, almacenamiento de las aguas lluvias, conservación de cuencas hidrográficas.
+- Adaptación al cambio climático, expresado como la capacidad de respuesta y sobrevivencia ante el potencial impacto de eventos climáticos extremos. En este caso la expectativa es desarrollar sistemas de monitoreo y medición de las condiciones climáticas, la alerta temprana de emergencias, monitoreo por sistemas de información geográfica, nuevas formas de aprovechamiento del suelo, buenas prácticas productivas, la adopción de nuevos códigos de construcción aplicables a viviendas, edificios, vialidad y obras hidráulicas, gestión local y comunitaria del riesgo, ordenamiento territorial preventivo, almacenamiento de las aguas lluvias, conservación de cuencas hidrográficas.
 
 - Transferencia de Tecnología para la Mitigación y la Adaptación.
 
 · Financiamiento
 
-Es importante  destacar  que  Honduras  es  el  Primer  País  del  Mundo  en  Cumplir  de manera Voluntaria con el Protocolo de Kioto, al extendérsele los primeros Certificados de Reducción de Emisiones (CERs) a los Proyectos Hidroeléctricos La Esperanza y Rio Blanco. El país ha logrado consolidar el primer proyecto con premio de calidad Gold Standard de Captura de Metano de Aguas Residuales.
+Es importante destacar que Honduras es el Primer País del Mundo en Cumplir de manera Voluntaria con el Protocolo de Kioto, al extendérsele los primeros Certificados
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 136
 
 [[END OF PAGE 136]]
 
 [[START OF PAGE 137]]
+de Reducción de Emisiones (CERs) a los Proyectos Hidroeléctricos La Esperanza y Rio Blanco. El país ha logrado consolidar el primer proyecto con premio de calidad Gold Standard de Captura de Metano de Aguas Residuales.
 
 #### LOS GRANDES DESAFÍOS EN MATERIA DE ADAPTACIÓN Y MITIGACIÓN AL CAMBIO CLIMÁTICO
 
@@ -2392,7 +2295,7 @@ Lograr  que  el  incremento  de  la  participación  de  energía  renovable  en
 
 Iniciar un proceso sistemático de restauración ecológica y productiva de los territorios de  vocación  forestal  en  estado  de  degradación.  Lo  anterior  no  solo  implica  una mejora  significativa  en  las  condiciones  ambientales  del  país,  sino  la  posibilidad  de acceder a recursos financieros por cientos de  millones de dólares  en los próximos años.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 137
 
@@ -2402,21 +2305,22 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 Reducir la vulnerabilidad física y ambiental del país, mediante una acción diferenciada de protección hacia centros urbanos con alta concentración poblacional y zonas productivas con un peso específico trascendente para el país.
 
-#### ENUNCIADOS DE VISIÓN - ADAPTACIÓN Y MITIGACIÓN AL CAMBIO CLIMÁTICO
+#### ENUNCIADOS DE VISIÓN – ADAPTACIÓN Y MITIGACIÓN AL CAMBIO CLIMÁTICO
 
-Para el año 2022 , Honduras habrá consolidado un marco institucional para impulsar y  mantener  vigentes  los  temas  de  adaptación  y  mitigación  al  cambio  climático.  El sector  privado  del  país  se  habrá  apropiado  del  tema  de  eficiencia  energética  y existirán,  alianzas  público-privadas  para  el  desarrollo  de  procesos  conjuntos  de investigación  para  el  aprovechamiento  de  fuentes  energéticas  naturales  para  la producción de energía. Honduras será el mayor aportante de CERTS (certificados de reducción de emisiones) en Centroamérica y el uso de los instrumentos financieros derivados de los acuerdos de la Convención de las Naciones Unidas sobre cambio Climático,  serán  una  fuente  de  ingresos  y  empleo  para  miles  de  hondureños.  De manera  consistente  con  el lineamiento estratégico sobre Desarrollo Regional, Recursos Naturales y Ambiente, se habrá reducido la vulnerabilidad física en un 50%, la  pérdida  anual  de  cobertura  forestal  en  un  70%  y  la  utilización  neta  de  recursos hídricos y la capacidad de represamiento para fines productivos se aumentará del 5 al 16%.
+Para el año 2022, Honduras habrá consolidado un marco institucional para impulsar y mantener vigentes los temas de adaptación y mitigación al cambio climático. El sector privado del país se habrá apropiado del tema de eficiencia energética y existirán, alianzas público-privadas para el desarrollo de procesos conjuntos de investigación para el aprovechamiento de fuentes energéticas naturales para la producción de energía. Honduras será el mayor aportante de CERTS (certificados de reducción de emisiones) en Centroamérica y el uso de los instrumentos financieros derivados de los acuerdos de la Convención de las Naciones Unidas sobre cambio Climático, serán una fuente de ingresos y empleo para miles de hondureños. De manera consistente con el lineamiento estratégico sobre Desarrollo Regional, Recursos Naturales y Ambiente, se habrá reducido la vulnerabilidad física en un 50%, la pérdida anual de cobertura forestal en un 70% y la utilización neta de recursos hídricos y la capacidad de represamiento para fines productivos se aumentará del 5 al 16%.
 
-Para el  año  2038 ,  Honduras  habrá  insertado  transversalmente  el  tema  de  cambio climático en la planificación sectorial y todas las inversiones públicas y privadas se realizarán  bajo  una  visión  de  mitigación  y  adaptación.  400  mil  hectáreas  de  tierras forestales  colocarán  certificados  de  reducción  de  emisiones  en  los  mercados internacionales y los certificados derivados de la reconversión de la matriz energética del país, se colocarán internacionalmente generando recursos financieros y diferenciación ambiental a Honduras en el concierto mundial.
+Para el año 2038, Honduras habrá insertado transversalmente el tema de cambio climático en la planificación sectorial y todas las inversiones públicas y privadas se realizarán bajo una visión de mitigación y adaptación. 400 mil hectáreas de tierras forestales colocarán certificados de reducción de emisiones en los mercados
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 138
 
 [[END OF PAGE 138]]
 
 [[START OF PAGE 139]]
+internacionales y los certificados derivados de la reconversión de la matriz energética del país, se colocarán internacionalmente generando recursos financieros y diferenciación ambiental a Honduras en el concierto mundial.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 139
 
@@ -2426,7 +2330,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ## V. MATRIZ DE INDICADORES PARA SEGUIMIENTO DE LOS AVANCES DEL PLAN DE NACION
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 140
 
@@ -2445,7 +2349,7 @@ No. | INDICADOR | Línea Base 2009 (último dato disponible) | 2013 | 2017 | 202
 5 | % de ciudadanos en cargos de elección popular presentando informes públicos sobre su contribución al logro de las metas del Plan de Nación (Mirador Electoral) | 0 | 25 | 40 | 70 | 100
 6 | Índice de Potenciación de Género (PNUD) | 0.58 | 0.6 | 0.66 | 0.7 | 0.75
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 141
 
@@ -2462,39 +2366,10 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ### LINEAMIENTO ESTRATÉGICO No. 3: REDUCCIÓN DE LA POBREZA, GENERACIÓN DE ACTIVOS E IGUALDAD DE OPORTUNIDADES
 
-9
+9 | % de Hogares en Situación de Pobreza Extrema (INE) | 36.2 | 32.0 | 27.0 | 21.0 | 0.0
+10 | % Hogares en Situación de Pobreza (INE) | 59.2 | 55.0 | 49.0 | 41.0 | 15.0
 
-10
-
-% de Hogares  en Situación de
-
-Pobreza Extrema (INE)
-
-% Hogares  en Situación de
-
-Pobreza (INE)
-
-36.2
-
-59.2
-
-32.0
-
-55.0
-
-27.0
-
-49.0
-
-21.0
-
-41.0
-
-0.0
-
-15.0
-
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 142
 
@@ -2515,7 +2390,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 19 | % de Centros Educativos Certificados (UNCE - UPN) | 0 | 10 | 25 | 35 | 90
 20 | Tasa de Escolaridad Promedio (UNCE - UPN) | 5 | 5.8 | 6.4 | 7.5 | 9.0
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 143
 
@@ -2534,7 +2409,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 27 | Número de Municipios administrando sistemas de agua y saneamiento (Secretaría de Gobernación / SANAA) | 5 | 50 | 150 | 200 | 298
 27 | % Cobertura de Hogares Rurales con Acceso a Agua Potable (INE) | 63.2 | 70.0 | 85.0 | 93.0 | 95.0
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 144
 
@@ -2554,7 +2429,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 34 | % Regiones con mecanismo de Mesa Regional funcionando adecuadamente (Sec. de Gobernación) | 0 | 50 | 75 | 90 | 100
 35 | % Regiones con Planes de Ordenamiento Territorial Aprobados y en Ejecución (Generando proyectos de inversión, Reduciendo sobre | 0 | 50 | 60 | 75 | 85
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 145
 
@@ -2574,7 +2449,7 @@ utilización, subutilización y vulnerabilidad física), (Sec. de Gobernación)
 ### LINEAMIENTO ESTRATÉGICO No. 8: INFRAESTRUCTURA PRODUCTIVA
 43 | % de Avance Programa Nacional de Rehabilitación y reconstrucción Vial (Fondo Vial) | 0 | 25 | 50 | 75 | 100
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 146
 
@@ -2593,7 +2468,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 50 | Tasa de Crecimiento del PIB en términos reales, promedio anual (4 años) (BCH) | 4% | 5% | 6% | 7% | 9%
 51 | Coeficiente de GINI (INE) | 0.55 | 0.51 | 0.47 | 0.48 | 0.43
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 147
 
@@ -2611,7 +2486,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 57 | Número promedio de de visitantes por año (Turismo) | 1,600,000 | 2,000,000 | 2,500,000 | 3000,000 | 5000,000
 58 | Numero de Procesos de Atención Ciudadana en las Instituciones del Estado realizados por medios electrónicos (Honduras Compite) | 6 | 25 | 30 | 50 | 75
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 148
 
@@ -2621,7 +2496,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ## VI. ANTEPROYECTO DE DECRETO PARA LA CREACION DEL SISTEMA NACIONAL DE PLANEACION
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 149
 
@@ -2631,20 +2506,27 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ### DECRETO No. ____
 
-### EL CONGRESO NACIONAL ,
-CONSIDERANDO :  Que  en  el  año  2008  se  reformó  el  artículo  329  Constitucional, para  establecer  que  el  desarrollo  económico,  social  y  político  de  la  Nación  debe realizarse con base en un proceso planificado cuyo cumplimiento  es obligatorio y que este proceso se desarrollará en una Ley especial; CONSIDERANDO :  Que  en  el  primer  semestre  del  año  2009,  el  Congreso  Nacional emprendió un esfuerzo para conformar una propuesta de Visión de País, que contó con  el  apoyo  de  los  cinco  partidos  políticos  y  de  los  candidatos  presidenciales, quienes adquirieron el compromiso de orientar el proceso de desarrollo de la Nación en el marco de los lineamientos contenidos en la propuesta en referencia; CONSIDERANDO :  Que  el  día  25  de  noviembre  del  año  2009,  los  candidatos presidenciales  suscribieron  un  compromiso,  adoptando  los  ejes  propuestos  en  la Visión de País como principios orientadores de la gestión del desarrollo nacional para los  próximos  años  y  dándole  sostenibilidad  y  continuidad  a  su  ejecución  en  los próximos períodos administrativos, independientemente  del resultado electoral; CONSIDERANDO :  Que  el  Presidente  Electo,  Licenciado  Porfirio  Lobo  Sosa,  en  el marco del proceso de diálogo y reconciliación nacional iniciado después del reciente proceso  electoral,  solicitó  que  la  Visión  de  País  fuera  desarrollada  en  un  Plan  de Nación,  armónico  e  incluyente  y  con  base  en  una  serie  de  esfuerzos  realizados  a partir  del  año  1998  y  hasta  el  año  2009  inclusive,  que  estuvieron  basados  en  una serie exhaustiva  de consultas con amplios sectores de la población hondureña; :  Que  la  Constitución  de  la  República  manda  que  el  Estado promueva el desarrollo integral del país, en lo económico y en lo social, el cual deberá
+### EL CONGRESO NACIONAL,
+CONSIDERANDO: Que en el año 2008 se reformó el artículo 329 Constitucional, para establecer que el desarrollo económico, social y político de la Nación debe realizarse con base en un proceso planificado cuyo cumplimiento es obligatorio y que este proceso se desarrollará en una Ley especial;
 
-CONSIDERANDO estar sujeto a una planificación estratégica y requiere la participación de los Poderes del Estado y las organizaciones políticas, económicas y sociales, en una formulación incluyente y participativa.
+CONSIDERANDO: Que en el primer semestre del año 2009, el Congreso Nacional emprendió un esfuerzo para conformar una propuesta de Visión de País, que contó con el apoyo de los cinco partidos políticos y de los candidatos presidenciales, quienes adquirieron el compromiso de orientar el proceso de desarrollo de la Nación en el marco de los lineamientos contenidos en la propuesta en referencia;
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+CONSIDERANDO: Que el día 25 de noviembre del año 2009, los candidatos presidenciales suscribieron un compromiso, adoptando los ejes propuestos en la Visión de País como principios orientadores de la gestión del desarrollo nacional para los próximos años y dándole sostenibilidad y continuidad a su ejecución en los próximos períodos administrativos, independientemente del resultado electoral;
+
+CONSIDERANDO: Que el Presidente Electo, Licenciado Porfirio Lobo Sosa, en el marco del proceso de diálogo y reconciliación nacional iniciado después del reciente proceso electoral, solicitó que la Visión de País fuera desarrollada en un Plan de Nación, armónico e incluyente y con base en una serie de esfuerzos realizados a partir del año 1998 y hasta el año 2009 inclusive, que estuvieron basados en una serie exhaustiva de consultas con amplios sectores de la población hondureña;
+
+CONSIDERANDO: Que la Constitución de la República manda que el Estado promueva el desarrollo integral del país, en lo económico y en lo social, el cual deberá estar sujeto a una planificación estratégica y requiere la participación de los Poderes
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 150
 
 [[END OF PAGE 150]]
 
 [[START OF PAGE 151]]
+del Estado y las organizaciones políticas, económicas y sociales, en una formulación incluyente y participativa.
 
-CONSIDERANDO :  Que la visión a mediano y largo plazo requiere que la sociedad hondureña participe  del  proceso  de  planificación  y  que  esta  contenga  los  objetivos precisos  y  los  medios  y  mecanismos  para  alcanzarlos,  que  incluyan  programas estratégicos que garanticen la continuidad de su ejecución, y que el Plan de Nación sea de obligatorio cumplimiento para los gobiernos sucesivos.
+CONSIDERANDO: Que la visión a mediano y largo plazo requiere que la sociedad hondureña participe del proceso de planificación y que esta contenga los objetivos precisos y los medios y mecanismos para alcanzarlos, que incluyan programas estratégicos que garanticen la continuidad de su ejecución, y que el Plan de Nación sea de obligatorio cumplimiento para los gobiernos sucesivos.
 
 CONSIDERANDO :  Que  la  proyección  oficial  para  el  crecimiento  de  la  población  ha resultado en un aumento del número estimado de habitantes en la Nación, mismo que se espera alcance 12,9 millones de personas para el año 2040.
 
@@ -2656,10 +2538,9 @@ CONSIDERANDO : Que es obligación de las autoridades contribuir a que la poblaci
 
 CONSIDERANDO : Que el Congreso Nacional deviene en la obligación constitucional de  emitir  las  normas  legislativas  que  se  requieran  para  la  ejecución  del  Plan  de Nación;
 
-### POR TANTO ,
-Con fundamento en los artículos 329; 205, numerales 1 y 45; 245, numerales 22 y 34 de la Constitución de la República; artículos 3, 4, 5, 6, 13, 15, 34, 42, y 44 de la Ley de Administración Pública;
+### POR TANTO,
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 151
 
@@ -2667,7 +2548,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 152]]
 
-### DECRETA ,
+Con fundamento en los artículos 329; 205, numerales 1 y 45; 245, numerales 22 y 34 de la Constitución de la República; artículos 3, 4, 5, 6, 13, 15, 34, 42, y 44 de la Ley de Administración Pública;
+
+### DECRETA,
 la siguiente:
 
 ### LEY PARA EL ESTABLECIMIENTO DE UNA VISION DE PAIS Y LA ADOPCION DE UN PLAN DE NACION PARA HONDURAS
@@ -2684,15 +2567,17 @@ Para fines de la presente Ley, las siguientes definiciones se entenderán de la 
 Imagen objetivo de las características sociales, políticas y económicas  que  el  País  deberá  alcanzar,  mediante  la  ejecución  de  los  sucesivos planes  de  nación  y  planes  de  gobierno  consistentes  entre  sí,  que  describa  las aspiraciones sociales en cada área y que se establezca para cada ciclo de 28 años.
 
 ##### Plan  de  Nación:
-Documento  que  recoge  los  ejes  estratégicos  que  atienden  los desafíos que enfrenta la Nación y alrededor de los cuales debe ejecutarse la acción pública y privada que se encamina al cumplimiento de los objetivos intermedios de la Visión de País. El Plan de Nación se formula para periodos sucesivos de  12 años y su  implementación  es  obligatoria  para  el  sector  público  e  indicativa  para  el  sector privado.
+Documento que recoge los ejes estratégicos que atienden los desafíos que enfrenta la Nación y alrededor de los cuales debe ejecutarse la acción pública y privada que se encamina al cumplimiento de los objetivos intermedios de la Visión de País. El Plan de Nación se formula para periodos sucesivos de 12 años y
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 152
 
 [[END OF PAGE 152]]
 
 [[START OF PAGE 153]]
+
+su implementación es obligatoria para el sector público e indicativa para el sector privado.
 
 ##### Plan de Gobierno:
 Planteamiento de políticas, programas y proyectos que en cada administración gubernamental, independientemente del Partido Político que lo presente  y  ejecute,  aborda  la  forma  como  esa  administración  particular  pretende contribuir al logro de las metas y mejora de los indicadores en cada uno de los ejes estratégicos del Plan de Nación.
@@ -2703,7 +2588,7 @@ Proceso  continuo de análisis prospectivo de las condiciones  económicas,  soc
 ##### Etapas del Proceso de Planeación del Desarrollo :
 El  proceso  de  planeación  del desarrollo constará de tres elementos complementarios y armónicos entre sí: la Visión de País, que contendrá los principios, objetivos y metas de prioridad nacional para la gestión del desarrollo social y económico del país, con un horizonte temporal de 28 años; el Plan de Nación, que  contendrá los lineamientos estratégicos y los indicadores  de  avance,  mismos  que  deberán  ser  implementados  en  períodos sucesivos  de  12  años  para  alcanzar  los  objetivos,  al  cabo  de  los  cuales,  deberán revisarse  y  reformularse  para  el  siguiente  período;  y  el  Plan  de  Gobierno,  con vigencia de 4 años, que deberá reflejar el esfuerzo de cada administración, plasmado en las políticas, programas y proyectos a ejecutar para alcanzar las metas de corto plazo y su contribución a la obtención de las metas de largo plazo.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 153
 
@@ -2718,9 +2603,9 @@ El  proceso  de  desarrollo  tiene  como  elemento  central  a  las regiones geo
 Proceso de mejora gradual del nivel de bienestar de la población, producto de la acción conjunta del Estado y los ciudadanos, donde un Gobierno moderno y eficiente, que interviene según sea necesario, para garantizar el funcionamiento de un sistema de incentivos y desincentivos adecuados, incluyendo la aplicación de un régimen tributario progresivo que sirva para financiar un nivel  de bienestar  a  los  sectores  más  desposeídos.  En  este  sentido,  el  Estado  procurará siempre  el  bien  común.  A  la  vez,  el  sistema  productivo  descansará  principalmente sobre el funcionamiento de mercados eficientes, sin barreras de entrada y salida, con buena información y canales de distribución que favorezcan la formación de precios justos que incentiven la inversión y generación de empleo.
 
 ##### Recursos para el Desarrollo :
-El proceso de desarrollo deberá basarse en el uso y explotación racional de los recursos nacionales (naturales y otros)  existentes y por desarrollar. En consecuencia, sus respectivos usos estarán sujetos a la política que determine  el  Poder  Ejecutivo,  a  propuesta  del  Consejo  del  Plan  de  Nación  con  la participation de las instancias regionales establecidas en la presente Ley.
+El proceso de desarrollo deberá basarse en el uso y explotación racional de los recursos nacionales (naturales y otros) existentes y por desarrollar. En consecuencia, sus respectivos usos estarán sujetos a la política que determine el Poder Ejecutivo, a propuesta del Consejo del Plan de Nación con la participación de las instancias regionales establecidas en la presente Ley.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 154
 
@@ -2740,7 +2625,7 @@ Para garantizar la seguridad económica y social de la Nación, se declara el ag
 #### Artículo  4 .
 La  ejecución  de  la  presente  Ley  deberá  estar  coordinada  en  todo momento con la Ley de Ordenamiento Territorial. Todas las Secretarias de Estado, instituciones y dependencias estatales quedan obligadas a adecuar sus sistemas de trabajo, programas  y  proyectos ejecutados mediante  esquemas  regionales, al establecido en la presente Ley, a partir de su vigencia.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 155
 
@@ -2753,9 +2638,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 #### Artículo 5 :
 Se crean las Regiones de Desarrollo siguientes: Primera Región o Región del Valle de Sula (comprende las cuencas hidrográficas de los ríos Ulúa, Chamelecón y  Motagua);  Segunda  Región  o  Región  del  Valle  de  Lean  o  Caribe  Hondureño (comprende las cuencas hidrográficas del Rio Aguan y del Rio Sico Paulaya); Tercera Región  o  de  la  Biosfera  (comprende  las  cuencas  hidrográficas  de  los  ríos  Patuca, Plátano,  Coco  o  Segovia,  Warunta,  Nakunta,  Cruta  y  Mocorón);  Cuarta  Región  o Región Sur  (comprende las cuencas hidrográficas de los ríos Choluteca, Goascorán, Nacaome, Negro y Sampile); Quinta Región o Región Lempa (comprende la cuenca hidrográfica del Rio Lempa); Sexta Región o del Arrecife Mesoamericano (comprende las Islas de la Bahía).
 
-Las regiones de desarrollo establecidas por el párrafo anterior, podrán sub-dividirse en sub-regiones, atendiendo a las características socio-económicas comunes, potencialidades,  ventajas  comparativas,  factores  geográficos  y  otros  elementos  de diferenciación. La Primera región se podrá subdividir en tres sub-regiones: La Primera es  la  sub-región  del  Valle  de  Sula,  la  Segunda  es  la  sub-región  del  Valle  de Comayagua y la Tercera es la sub-región de Occidente; la Segunda región, se podrá subdividir en tres subregiones, la Cuarta es la sub-región del Valle de Lean, la Quinta es la sub-región del Valle del Aguan y la Sexta es la sub-región de la Cordillera de Nombre  de  Dios;  la  Tercera  región  se  podrá  subdividir  en  cuatro  sub-regiones;  la Séptima es la sub-región Norte de Olancho, la Octava sub-región es la de Valles de Olancho, la Novena sub-región es la Biosfera del Rio Plátano y la Décima es la subregión de La Mosquitia; la Cuarta región podrá tener dos sub-regiones: la Undécima sub-región del Distrito Central y la Duodécima sub-región es la del Golfo de Fonseca.
+Las regiones de desarrollo establecidas por el párrafo anterior, podrán sub-dividirse en sub-regiones, atendiendo a las características socio-económicas comunes, potencialidades, ventajas comparativas, factores geográficos y otros elementos de diferenciación. La Primera región se podrá subdividir en tres sub-regiones: La Primera es la sub-región del Valle de Sula, la Segunda es la sub-región del Valle de Comayagua y la Tercera es la sub-región de Occidente; la Segunda región, se podrá subdividir en tres subregiones, la Cuarta es la sub-región del Valle de Lean, la Quinta es la sub-región del Valle del Aguan y la Sexta es la sub-región de la Cordillera de Nombre de Dios; la Tercera región se podrá subdividir en cuatro sub-regiones; la Séptima es la sub-región Norte de Olancho, la Octava sub-región es la de Valles de Olancho, la Novena sub-región es la Biosfera del Rio Plátano y la Décima es la sub-región de La Mosquitia; la Cuarta región podrá tener dos sub-regiones: la Undécima sub-región del Distrito Central y la Duodécima sub-región es la del Golfo de Fonseca.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 156
 
@@ -2792,7 +2677,7 @@ Aprobar  la  Visión  de  País  al  año  2038  que  consiste  en  el  logro  d
 
 ###### Meta 2 .5: Mejorar  la protección de fronteras como condición para la disuasión externa y el aumento de la confianza interna
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 157
 
@@ -2824,7 +2709,7 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 ###### Meta 4.3 :  Haber  alcanzado una descentralización de la inversión pública del 40% hacia el nivel municipal.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 158
 
@@ -2845,9 +2730,9 @@ Aprobar el Plan de Nación para el periodo 2010 al 2022, contenido en el documen
 El proceso de planeamiento estratégico estará a cargo de la Presidencia de la República, se llevará a cabo con la participación de las distintas instituciones del Poder Ejecutivo en las áreas de su competencia y con la participación de los partidos políticos,    las  organizaciones  de  la  sociedad  civil,  organizaciones  gremiales,  las universidades, las iglesias, la empresa privada, las autoridades locales, las organizaciones no gubernamentales que trabajan en temas relacionados al desarrollo, las agencias internacionales de cooperación.
 
 #### Artículo 9 .
-Para el desarrollo del proceso de planeación del desarrollo, la Presidencia de la República contará con el concurso de las siguientes instancias: El Consejo del Plan de Nación; el Consejo Nacional de Competitividad e Innovación,  los Gabinetes Sectoriales y los Consejos de Desarrollo Regional.
+Para el desarrollo del proceso de planeación del desarrollo, la Presidencia de la República contará con el concurso de las siguientes instancias: El Consejo del
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 159
 
@@ -2855,10 +2740,12 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 160]]
 
-#### Artículo 10 .
-Se crea el Consejo del Plan de Nación, dependiente del Presidente de la República, que tendrá las funciones y atribuciones siguientes: a) Conducir el proceso de planeación del desarrollo;  b)  Formular  la  Visión  de  País  y  el  Plan  de  Nación,  a partir  de  los  que  han  sido  aprobados  en  la  presente  Ley  ;  c)  Dar  seguimiento  a  la ejecución  del  Plan  de  Nación  y  formular  las  recomendaciones  e  indicaciones  que procedan  para  mejorarlo;  d)  Recibir  informes  de  los  Consejos  Regionales  de Desarrollo  sobre  la  ejecución  del  Plan  de  Nación  en  las  respectivas  regiones  y atender los temas planteados; e) Realizar modificaciones, adaptaciones o cambios de estrategia en el enfoque de los ejes del Plan de Nación ante cambios sustanciales de la realidad nacional; f) Realizar análisis prospectivos continuos del contexto internacional  y  su  evolución  futura,  así  como  de  las  implicaciones  económicas  y sociales para nuestro País; g) Solicitar informes a las distintas instancias del proceso de  planeación  del  desarrollo,  relacionados  con  temas  particulares  de  interés;  h) Establecer la línea de base sobre la cual medir las brechas entre el estado actual de los indicadores de la Visión de País y la imagen objetivo; i) Medir periódicamente el avance de la ejecución de los Planes de Nación sobre la reducción de las brechas; j) Formular  evaluaciones  periódicas  y  recomendaciones  sobre  el  funcionamiento  del sistema de desarrollo regional creado por esta Ley; k) Rendir informes a la ciudadanía y al Congreso Nacional sobre los resultados de cada Gobierno en la reducción de las brechas;  l)  Atender  las  sugerencias  de  la  Comisión  Nacional  de  Competitividad  e Innovación para determinar los ejes estratégicos que se incluirán en los Planes de Nación, en función de los desafíos futuros que enfrente el País; m) Dar lineamientos a la Secretaria de Estado en el Despacho de la Presidencia, a fin de asegurar el éxito en la ejecución del Plan de Nación; n) Cualquier otra, afín a sus propósitos, que le encomiende el Presidente de la República.
+Plan de Nación; el Consejo Nacional de Competitividad e Innovación, los Gabinetes Sectoriales y los Consejos de Desarrollo Regional.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+#### Artículo 10.
+Se crea el Consejo del Plan de Nación, dependiente del Presidente de la República, que tendrá las funciones y atribuciones siguientes: a) Conducir el proceso de planeación del desarrollo; b) Formular la Visión de País y el Plan de Nación, a partir de los que han sido aprobados en la presente Ley ; c) Dar seguimiento a la ejecución del Plan de Nación y formular las recomendaciones e indicaciones que procedan para mejorarlo; d) Recibir informes de los Consejos Regionales de Desarrollo sobre la ejecución del Plan de Nación en las respectivas regiones y atender los temas planteados; e) Realizar modificaciones, adaptaciones o cambios de estrategia en el enfoque de los ejes del Plan de Nación ante cambios sustanciales de la realidad nacional; f) Realizar análisis prospectivos continuos del contexto internacional y su evolución futura, así como de las implicaciones económicas y sociales para nuestro País; g) Solicitar informes a las distintas instancias del proceso de planeación del desarrollo, relacionados con temas particulares de interés; h) Establecer la línea de base sobre la cual medir las brechas entre el estado actual de los indicadores de la Visión de País y la imagen objetivo; i) Medir periódicamente el avance de la ejecución de los Planes de Nación sobre la reducción de las brechas; j) Formular evaluaciones periódicas y recomendaciones sobre el funcionamiento del sistema de desarrollo regional creado por esta Ley; k) Rendir informes a la ciudadanía y al Congreso Nacional sobre los resultados de cada Gobierno en la reducción de las brechas; l) Atender las sugerencias de la Comisión Nacional de Competitividad e Innovación para determinar los ejes estratégicos que se incluirán en los Planes de Nación, en función de los desafíos futuros que enfrente el País; m) Dar lineamientos a la Secretaria de Estado en el Despacho de la Presidencia, a fin de asegurar el éxito
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 160
 
@@ -2866,16 +2753,18 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 161]]
 
-#### Artículo 11 .
+en la ejecución del Plan de Nación; n) Cualquier otra, afín a sus propósitos, que le encomiende el Presidente de la República.
+
+#### Artículo 11.
 El  Consejo del Plan de Nación se reunirá como mínimo una vez cada tres  meses,  a  convocatoria  del  Secretario  Técnico  de  Planeación  y  Cooperación Externa, quien actuará como su secretario.
 
 #### Artículo 12 .
 Los miembros del Consejo del Plan de Nación, emitirán un reglamento interno para su funcionamiento y se apoyarán para su cumplimiento en la Secretaría Técnica de Planeación y Cooperación Externa.
 
 #### Articulo 13.
-El Consejo del Plan de Nación estará integrado de la forma siguiente: 1) El  Presidente  de  la  República  quien  lo  presidirá;  2)  El  Secretario  de  Estado  en  el Despacho de la Presidencia; 3) Un representante de cada Consejo Regional que se establezca con base en el presente Decreto, seleccionado por sus miembros; 4) Un representante  de  cada  uno  de  los  partidos  políticos  legalmente  inscritos;  5)  Un representante  de  cada  una  de  las  confederaciones  de  trabajadores  (CGT,  CTH  y CUTH);  6)  Un  representante  del  Consejo  Hondureño  de  la  Empresa  Privada (COHEP);  7)  Un  representante de la Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH); 8) Un representante de la Asociación Nacional de Pequeños  y  Medianos  Industriales (ANMPIH);  9)  Un  representante de la Federación  de  Organizaciones  Privadas  de  Desarrollo  de  Honduras  (FOPRIDEH); 10) Un representante de la Asociación de Municipios de Honduras (AMHON);  11) Un representante  de  la  Federación  Hondureña  de  Cooperativas  de  Ahorro  y  Crédito (FACACH);  12)  Un  representante  del  Consejo  Coordinador  de  Organizaciones Campesinas de Honduras (COCOCH); 13) Un representante de la Central Hondureña de  Cooperativas  (CHC);  14)  Un  representante  del  Consejo  de  Organizaciones  del Sector Social de la Economía (CODESSE) y 15) El Secretario Técnico de Planeación y Cooperación Externa, quien actuara como secretario.
+El Consejo del Plan de Nación estará integrado de la forma siguiente: 1) El Presidente de la República quien lo presidirá; 2) El Secretario de Estado en el Despacho de la Presidencia; 3) Un representante de cada Consejo Regional que se establezca con base en el presente Decreto, seleccionado por sus miembros; 4) Un representante de cada uno de los partidos políticos legalmente inscritos; 5) Un representante de cada una de las confederaciones de trabajadores (CGT, CTH y CUTH); 6) Un representante del Consejo Hondureño de la Empresa Privada (COHEP); 7) Un representante de la Federación Nacional de Agricultores y Ganaderos de Honduras (FENAGH); 8) Un representante de la Asociación Nacional de Pequeños y Medianos Industriales (ANMPIH); 9) Un representante de la Federación de Organizaciones Privadas de Desarrollo de Honduras (FOPRIDEH); 10) Un representante de la Asociación de Municipios de Honduras (AMHON); 11) Un representante de la Federación Hondureña de Cooperativas de Ahorro y Crédito (FACACH); 12) Un representante del Consejo Coordinador de Organizaciones Campesinas de Honduras (COCOCH); 13) Un representante de la Central Hondureña de Cooperativas (CHC); 14) Un representante del Consejo de Organizaciones del
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 161
 
@@ -2883,10 +2772,12 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 162]]
 
-#### Artículo  14 .
-Se crea el Consejo Nacional de Competitividad e Innovación, dependiente de la Presidencia de la República, que tendrá las funciones y atribuciones siguientes: a) Formulación de políticas, apoyo y dirección de la ejecución de proyectos que fortalezcan la competitividad internacional del País, siguiendo los lineamientos estratégicos del Plan de Nación;  b) Desarrollar cadenas productivas de valor  en  las  actividades  económicas  determinadas  como  prioritarias  en  el  Plan  de Nación;    c)  Formulación  de  políticas  de  fomento  sectoriales para  actividades económicas  especificas;  d)  Formulación  de  propuestas,  políticas  y  apoyo  a  la ejecución de proyectos para transferencia de tecnología; e)  Formulación y ejecución de  programas  de  capacitación  y  entrenamiento  en  áreas  prioritarias,  así  como evaluación y propuestas para mejorar la efectividad del sistema actual; f) Ejecución de Actividades para la Promoción de la Imagen de País, Turismo, Exportaciones e Inversiones Extranjeras en Honduras  y descubrimiento de nuevos productos, servicios y mercados; g) Establecimiento de un sistema de evaluación de la calidad de los centros educativos de educación primaria, media y superior, independiente de la  Secretaria  de  Estado  en  el  Despacho  de  Educación  Pública  y  del  Consejo  de Educación  Superior  y  que  abarque  tanto  los  centros  educativos  públicos  como  los privados;  h)  Análisis  sectorial  de  las  actividades  económicas  nacionales,  para detectar  los  obstáculos  o  impedimentos  para  su  mejor  funcionamiento  y  realizar recomendaciones para su eliminación;  i) Apoyo y coordinación de las actividades de investigación y desarrollo que desarrollen las instituciones, empresas y la ciudadanía; j) Análisis y diseño de programas y políticas para la inserción exitosa de los jóvenes y las mujeres en los mercados de trabajo y para la ampliación de su acceso a activos productivos;  k)  Formular  recomendaciones  a  las  Secretarías  de  Estado  en  los Despachos  de  Industria  y  Comercio  y  Relaciones  Exteriores  sobre  regiones  del mundo  con  potencial  para  generar  crecimiento  a  través  del  comercio  exterior  o  la inversión  extranjera  en  Honduras;  l)  Cualquier  otra,  afín  a  sus  propósitos,  que  le asigne el Presidente de la República.
+Sector Social de la Economía (CODESSE) y 15) El Secretario Técnico de Planeación y Cooperación Externa, quien actuara como secretario.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+#### Artículo 14.
+Se crea el Consejo Nacional de Competitividad e Innovación, dependiente de la Presidencia de la República, que tendrá las funciones y atribuciones siguientes: a) Formulación de políticas, apoyo y dirección de la ejecución de proyectos que fortalezcan la competitividad internacional del País, siguiendo los lineamientos estratégicos del Plan de Nación; b) Desarrollar cadenas productivas de valor en las actividades económicas determinadas como prioritarias en el Plan de Nación; c) Formulación de políticas de fomento sectoriales para actividades económicas especificas; d) Formulación de propuestas, políticas y apoyo a la ejecución de proyectos para transferencia de tecnología; e) Formulación y ejecución de programas de capacitación y entrenamiento en áreas prioritarias, así como evaluación y propuestas para mejorar la efectividad del sistema actual; f) Ejecución de Actividades para la Promoción de la Imagen de País, Turismo, Exportaciones e Inversiones Extranjeras en Honduras y descubrimiento de nuevos productos, servicios y mercados; g) Establecimiento de un sistema de evaluación de la calidad de los centros educativos de educación primaria, media y superior, independiente de la Secretaria de Estado en el Despacho de Educación Pública y del Consejo de Educación Superior y que abarque tanto los centros educativos públicos como los privados; h) Análisis sectorial de las actividades económicas nacionales, para detectar los obstáculos o impedimentos para su mejor funcionamiento y realizar recomendaciones para su eliminación; i) Apoyo y coordinación de las actividades de investigación y desarrollo que desarrollen las instituciones, empresas y la ciudadanía; j) Análisis y diseño de programas y políticas para la inserción exitosa de los jóvenes y las mujeres en los mercados de trabajo y para la ampliación de su acceso a activos productivos; k) Formular recomendaciones a las Secretarías de Estado en los
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 162
 
@@ -2894,13 +2785,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 163]]
 
-#### A rtículo  15 .
-El  Consejo  Nacional  de  Competitividad  e  Innovación  estará  integrado así: 1) El Presidente de la República, quien lo presidirá; 2) El Secretario Técnico de Planeación y Cooperación Externa, quien actuará como secretario; 3) Tres representantes de las universidades públicas y privadas del país, seleccionados por el Consejo Técnico Consultivo del Consejo de Educación Superior; 4) Un representante  de  la Federación  Nacional  de  Instituciones  Educativas  Privadas (FENIEPH);  5)  Dos  representantes  de  la  Federación  Nacional  de  Asociaciones  de Padres  y  Madres  de  Familia;  6)  Un  representante  de  la  Asociación  Hondureña  de Instituciones  Bancarias  (AHIBA);  7)  Un  representante  de  la  Fundación  para  la Inversión y Exportaciones (FIDE); 8) Un representante de la Asociación Nacional de Industriales (ANDI); 9) Dos representantes de los colegios magisteriales, seleccionados  por  consenso;  10)  Un  representante  de  la  Federación  Nacional  de Cámaras de Comercio (FEDECAMARA);  11) Dos representantes de Generación por el  Cambio;  y,  12)  Un  representante  de  la  Fundación  Hondureña  de  Investigación Agrícola (FHIA).
+Despachos de Industria y Comercio y Relaciones Exteriores sobre regiones del mundo con potencial para generar crecimiento a través del comercio exterior o la inversión extranjera en Honduras; l) Cualquier otra, afín a sus propósitos, que le asigne el Presidente de la República.
+
+#### Artículo 15.
+El Consejo Nacional de Competitividad e Innovación estará integrado así: 1) El Presidente de la República, quien lo presidirá; 2) El Secretario Técnico de Planeación y Cooperación Externa, quien actuará como secretario; 3) Tres representantes de las universidades públicas y privadas del país, seleccionados por el Consejo Técnico Consultivo del Consejo de Educación Superior; 4) Un representante de la Federación Nacional de Instituciones Educativas Privadas (FENIEPH); 5) Dos representantes de la Federación Nacional de Asociaciones de Padres y Madres de Familia; 6) Un representante de la Asociación Hondureña de Instituciones Bancarias (AHIBA); 7) Un representante de la Fundación para la Inversión y Exportaciones (FIDE); 8) Un representante de la Asociación Nacional de Industriales (ANDI); 9) Dos representantes de los colegios magisteriales, seleccionados por consenso; 10) Un representante de la Federación Nacional de Cámaras de Comercio (FEDECAMARA); 11) Dos representantes de Generación por el Cambio; y, 12) Un representante de la Fundación Hondureña de Investigación Agrícola (FHIA).
 
 #### Artículo  16 .
 Los  miembros  del  Consejo  Nacional  de  Competitividad  e  Innovación emitirán  un  reglamento  interno  para  su  funcionamiento  y  se  apoyarán  para  su cumplimiento en la Secretaría Técnica de Planeación y Cooperación Externa.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 163
 
@@ -2914,11 +2807,9 @@ Los miembros del Consejo del Plan de Nación, del Consejo Nacional de Competitiv
 #### Artículo  18 .
 Establecer  los  Gabinetes  Sectoriales  para  la  ejecución  del  Plan  de Nación, que serán coordinados por la Secretaría de la Presidencia y que podrán estar divididos según las áreas que abarquen los ejes estratégicos del Plan de Nación, pero al menos serán los siguientes: a) El Gabinete Económico, integrado por la Secretaría de Finanzas, el Banco Central de Honduras, la Secretaría de Industria y Comercio, la Comisión Nacional de Bancos y Seguros, la Secretaría de Agricultura,  la Secretaría de Recursos Naturales y Ambiente y la Secretaría de Turismo; b) El Gabinete Social, integrado  por  la  Secretaria  de  Educación,  la  Secretaria  de  Salud,  la  Secretaria  de Trabajo y Previsión Social, la Secretaria de Cultura, Arte y Deporte, y la Secretaría de Acción  Social;  c)  El  Gabinete  de  Seguridad,  Defensa  Nacional  y  Gobernabilidad, integrado por la Secretaría de Gobernación y Justicia,  la Secretaría de Defensa, la Secretaría de Relaciones Exteriores y la Secretaría de Seguridad; d) El Gabinete de Proyectos de Infraestructura, integrado por la Secretaría de Finanzas, la Secretaría de Obras Públicas, Transporte y Vivienda, la Empresa Nacional de Energía Eléctrica, la Empresa Nacional Portuaria y la Comisión Nacional de Telecomunicaciones.
 
-Los  Gabinetes  Sectoriales  serán  coordinados  por  el  Secretario  de  Estado  en  el Despacho de la Presidencia, quien participará de todos ellos y estará facultado para invitar,  en  nombre  de  los  miembros,  a  las  reuniones  donde  la  naturaleza  de  los asuntos  a  tratar  lo  hicieren  necesario,  a  representantes  del  Tribunal  Supremo Electoral,  de  la  Corte  Suprema  de  Justicia,  del  Congreso  Nacional,  del  Tribunal Superior  de  Cuentas,  de  la  Procuraduría  General  de  la  República,  del  Ministerio Publico,  del  Comisionado  Nacional  de  los  Derechos  Humanos  y  de  cualquier  otra institución descentralizada, empresa pública o entidad desconcentrada del Estado
-#### Artículo 19 .
-La Secretaría de Estado en el Despacho de la Presidencia asegurará el cumplimiento  de  los  acuerdos    de  los  Gabinetes  Sectoriales,  prestará  el  apoyo necesario para el cumplimiento de sus fines, llevará registros para el seguimiento de los compromisos, propondrá los temas de agenda para las reuniones, coordinará los temas comunes entre las distintas agendas y prestará apoyo al funcionamiento de los Gabinetes Sectoriales.
+Los Gabinetes Sectoriales serán coordinados por el Secretario de Estado en el Despacho de la Presidencia, quien participará de todos ellos y estará facultado para invitar, en nombre de los miembros, a las reuniones donde la naturaleza de los asuntos a tratar lo hicieren necesario, a representantes del Tribunal Supremo Electoral, de la Corte Suprema de Justicia, del Congreso Nacional, del Tribunal Superior de Cuentas, de la Procuraduría General de la República, del Ministerio Publico, del Comisionado Nacional de los Derechos Humanos y de cualquier otra institución descentralizada, empresa pública o entidad desconcentrada del Estado
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 164
 
@@ -2926,10 +2817,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 165]]
 
-#### Artículo  20 .
+#### Artículo 19.
+La Secretaría de Estado en el Despacho de la Presidencia asegurará el cumplimiento de los acuerdos de los Gabinetes Sectoriales, prestará el apoyo necesario para el cumplimiento de sus fines, llevará registros para el seguimiento de los compromisos, propondrá los temas de agenda para las reuniones, coordinará los temas comunes entre las distintas agendas y prestará apoyo al funcionamiento de los Gabinetes Sectoriales.
+
+#### Artículo 20.
 Crease  la  Secretaria  Técnica  de  Planeación  y  Cooperación  Externa, dependiente de la Presidencia de la República, que absorberá los activos y pasivos de  la  Secretaría  Técnica  y  de  Cooperación  Internacional  (SETCO)  y  tendrá  las funciones y atribuciones siguientes: a) Asesorar a la Presidencia de la Republica en todos  los  temas  relacionados  con  la  Visión  de  País,  Plan  de  Nación  y  Sistema Nacional  de  Planeación,  establecidos  en  el  presente  decreto;  b)  Actuar  como secretaria  técnica  del  Consejo  del  Plan  de  Nación  y  del  Consejo  Nacional  de Competitividad e Innovación; c) Asesorar a los Consejos Regionales de Desarrollo y realizar  los  estudios  que,  a  solicitud  de  aquellos,  deban  efectuarse  sobre  temas específicos que se discutan en las mismas; d) Coordinar los proyectos de cooperación externa que tengan incidencia sobre el cumplimiento de los objetivos de la Visión de País y del Plan de Nación; e) Colaborar con la Secretaría de Estado en el Despacho  de  la  Presidencia  en  las  labores  de  coordinación  de  las  instancias  del Poder  Ejecutivo  que  intervengan  para  la  consecución  de  las  metas  de  prioridad nacional y los indicadores de avance del Plan de Nación; f) Ejercer las funciones que se  le  deriven  de  la  Ley  de  Ordenamiento  Territorial;  g)  Formular  propuestas  de políticas y programas que contribuyan al cumplimiento de los objetivos e indicadores mencionados; h) Coordinar la ejecución de la Visión de País y la Estrategia para la Reducción de la Pobreza y cuidar que la misma se efectúe en forma consistente; i)
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 165
 
@@ -2942,7 +2836,7 @@ Coordinar  y  dirigir  el  trabajo  de  las  sub-secretarias  a  su  cargo  para
 #### Articulo 21 .
 A partir de la vigencia de la presente Ley, todas las funciones asignadas a  la  Secretaría  de  Gobernación  y  Justicia  en  el  Decreto  No  180-2003,  Ley  de Ordenamiento Territorial, pasarán a ser desempeñadas por la Secretaría Técnica de Planeación  y  Cooperación  Externa,  incluyendo  las  asignadas  en  los  siguientes artículos: artículo 9, numeral 1; artículo 11; artículo 12; artículo 14, numeral 1; artículo 21;  artículo  31;  artículo  49;  artículo  52;  artículo  57  y,  artículo  59.  La  Secretaría  de Estado en los Despachos de Gobernación y Justicia deberá trasladar a la Secretaría Técnica de Planeación y Cooperación Externa en el término de seis (6) meses a partir de la vigencia de la presente Ley, la Dirección General de Ordenamiento Territorial con todos sus recursos humanos y físicos. El personal trasladado como consecuencia del  cumplimiento  de  este  artículo,  conservará  todos  sus  derechos  laborales  y antigüedad, para los fines previstos en la Ley de Servicio Civil y el Código de Trabajo.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 166
 
@@ -2954,9 +2848,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 Las  Unidades  de  Planeamiento  y  Evaluación  de  la  Gestión  de  las distintas  Secretarias  de  Estado  o  las  dependencias  que  hagan  sus  veces  en  las demás  instituciones  del  Estado  que  ejecuten  acciones,  proyectos  o  programas relacionados con el cumplimiento del Plan de Nación, deberán coordinar la realización de la evaluación que manda el artículo 21 del Decreto No. 83-2004, Ley General de Presupuesto; referente al cumplimiento de los planes y políticas de desarrollo, con la Secretaría Técnica de Planeación y Cooperación Externa.
 
 #### Articulo 23 .
-Se  crea  la  Sub-secretaría Técnica de Planeación del Desarrollo, como dependencia  de  la  Secretaría  Técnica  de  Planeación  y  Cooperación  Externa,  que absorberá los activos, pasivos y  actuales funciones de la Unidad de Apoyo Técnico (UNAT)  y  de  la  Comisión  Presidencial  para  la  Modernización  del  Estado  (CPME). Además, tendrá las funciones siguientes: a) Apoyar, asesorar y asistir al Consejo del Plan  de  Nación  para  la  elaboración  del  Plan  de  Nación  y  dar  seguimiento  a  su ejecución; b) Coordinar la gestión de los programas de la cooperación internacional y dar seguimiento a su ejecución; c) Asistir a las Secretarías de Estado e instituciones integrantes  de  los  Gabinetes  Sectoriales,  en  la  negociación  de  empréstitos  y programas  de  cooperación  técnica,  así  como  al  Banco  Central  de  Honduras  en  la negociación de programas para apoyar la balanza de pagos; d) Dirigir el proceso de ordenamiento territorial y colaborar con los demás órganos creados por Ley para ese propósito;  e)  Redactar  y  producir  informes  sobre  la  ejecución  de  las  estrategias  de desarrollo  y  sus  resultados;  f)  Proponer  al  Consejo  Nacional  de  Desarrollo  las reformas necesarias a la legislación para adaptar la estructura del sector público a los requerimientos del Plan de Nación y para optimizar la atención de las necesidades de la población; g) Asistir a la Secretaría Técnica en el cumplimiento de sus responsabilidades derivadas de  la Ley de Ordenamiento Territorial; y, h) Cualquier otra que le asigne la Secretaría Técnica de Planeación y Cooperación Externa, afín a sus objetivos.
+Se crea la Sub-secretaría Técnica de Planeación del Desarrollo, como dependencia de la Secretaría Técnica de Planeación y Cooperación Externa, que absorberá los activos, pasivos y actuales funciones de la Unidad de Apoyo Técnico (UNAT) y de la Comisión Presidencial para la Modernización del Estado (CPME). Además, tendrá las funciones siguientes: a) Apoyar, asesorar y asistir al Consejo del Plan de Nación para la elaboración del Plan de Nación y dar seguimiento a su ejecución; b) Coordinar la gestión de los programas de la cooperación internacional y dar seguimiento a su ejecución; c) Asistir a las Secretarías de Estado e instituciones integrantes de los Gabinetes Sectoriales, en la negociación de empréstitos y programas de cooperación técnica, así como al Banco Central de Honduras en la negociación de programas para apoyar la balanza de pagos; d) Dirigir el proceso de ordenamiento territorial y colaborar con los demás órganos creados por Ley para ese propósito; e) Redactar y producir informes sobre la ejecución de las estrategias de desarrollo y sus resultados; f) Proponer al Consejo Nacional de Desarrollo las reformas necesarias a la legislación para adaptar la estructura del sector público a los requerimientos del Plan de Nación y para optimizar la atención de las necesidades de la población; g) Asistir a la Secretaría Técnica en el cumplimiento de sus responsabilidades derivadas de la Ley de Ordenamiento Territorial; y, h) Cualquier
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 167
 
@@ -2964,10 +2858,12 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 168]]
 
-#### Articulo  24.
-Crease  la Sub-secretaría de Competitividad  e  Innovación,  como dependencia  de  la  Secretaría  Técnica  de  Planeación  y  Cooperación  Externa,  que absorberá  los  activos,  pasivos  y  funciones  del  Consejo  Hondureño  de  Ciencia  y Tecnología (COHCIT). Además, tendrá las funciones siguientes: a) Apoyar, asesorar y asistir el funcionamiento del Consejo Nacional de Competitividad e Innovación y dar seguimiento  a  sus  resoluciones  y  recomendaciones;  b)  Rendir  informes,  realizar investigaciones y formular propuestas para favorecer la transferencia de tecnología a las actividades productivas, sistemas de enseñanza, redes comerciales de distribución  de  productos  y  servicios  y  vida  ciudadana;  c)  Detectar  obstáculos  a  la transferencia de tecnología y proponer las mejoras necesarias para su eliminación; d) Promover  la  realización  de  ferias  de  ciencia  en  el  sistema  educativo  nacional,  en coordinación  con  la  Secretaria  de  Estado  en  los  Despachos  de  Educación;  e) Promover  la  realización  de  concursos  a  nivel  regional  en  las  áreas  de  ciencias, matemáticas y español; f) Realizar convenios con centros de enseñanza e investigación internacionales de excelencia para la formación de docentes y estudiantes; g) Recomendar al Consejo Nacional de Competitividad e Innovación el establecimiento de premios a la excelencia para docentes y estudiantes en las áreas de  español,  ciencias  y  matemáticas;  h)  Recomendar  al  Consejo  Nacional  de Competitividad  e  Innovación  el  establecimiento  de  programas  de  becas;  i)  Realizar investigaciones  para  detectar  nuevas  oportunidades  comerciales  y  productivas;  j) Apoyar el funcionamiento de los Consejos Regionales de Cultura; y, k) Cualquier otra que le asigne la Secretaría Técnica de Planeación y Cooperación Externa, afín a sus objetivos.
+otra que le asigne la Secretaría Técnica de Planeación y Cooperación Externa, afín a sus objetivos.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+#### Articulo 24.
+Crease la Sub-secretaría de Competitividad e Innovación, como dependencia de la Secretaría Técnica de Planeación y Cooperación Externa, que absorberá los activos, pasivos y funciones del Consejo Hondureño de Ciencia y Tecnología (COHCIT). Además, tendrá las funciones siguientes: a) Apoyar, asesorar y asistir el funcionamiento del Consejo Nacional de Competitividad e Innovación y dar seguimiento a sus resoluciones y recomendaciones; b) Rendir informes, realizar investigaciones y formular propuestas para favorecer la transferencia de tecnología a las actividades productivas, sistemas de enseñanza, redes comerciales de distribución de productos y servicios y vida ciudadana; c) Detectar obstáculos a la transferencia de tecnología y proponer las mejoras necesarias para su eliminación; d) Promover la realización de ferias de ciencia en el sistema educativo nacional, en coordinación con la Secretaria de Estado en los Despachos de Educación; e) Promover la realización de concursos a nivel regional en las áreas de ciencias, matemáticas y español; f) Realizar convenios con centros de enseñanza e investigación internacionales de excelencia para la formación de docentes y estudiantes; g) Recomendar al Consejo Nacional de Competitividad e Innovación el establecimiento de premios a la excelencia para docentes y estudiantes en las áreas de español, ciencias y matemáticas; h) Recomendar al Consejo Nacional de Competitividad e Innovación el establecimiento de programas de becas; i) Realizar investigaciones para detectar nuevas oportunidades comerciales y productivas; j) Apoyar el funcionamiento de los Consejos Regionales de Cultura; y, k) Cualquier otra que le asigne la Secretaría Técnica de Planeación y Cooperación Externa, afín a sus objetivos.
+
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 168
 
@@ -2981,9 +2877,9 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 Los Consejos Regionales de Desarrollo serán la instancia  regional  de diálogo  y  concertación  entre  el  Gobierno  Central,  la  Sociedad  Civil,  Gobiernos Locales  y  Comunidad  de  Cooperantes,  orientada  hacia  el  análisis  sectorial  y  la formulación de propuestas ordenadas y articuladas, que faciliten una gestión pública más efectiva,  ordenada y transparente en la región correspondiente. Conducirán el proceso de planeación en la región y estarán afiliadas al Consejo del Plan de Nación. En la región donde se establezcan, complementarán los mecanismos de participación ciudadana  establecidos  en  el  artículo  36  de  la  Ley  de  Ordenamiento  Territorial  y servirán como mecanismo de transmisión de la problemática y propuestas de solución regionales hacia el Consejo del Plan de Nación, el Consejo Nacional de Competitividad  e  Innovación  y  la  Secretaria  de  Estado  en  el  Despacho  de  la Presidencia.
 
 #### Articulo  26 .
-Los  Consejos  Regionales  de  Desarrollo  tendrán  las  funciones  y atribuciones  siguientes:  a)  Establecer  en  cada  región  la  línea  de  base  de  los indicadores  contenidos  en  el  Plan  de  Nación  y  establecer  la  brecha  a  cubrir  para lograr el nivel objetivo; b) Formular el Plan Regional de Ordenamiento Territorial; c) Determinar  las  acciones  y  medidas  especificas  a  adoptar  en  consistencia  con  el presente decreto, para la reducción gradual de las brechas; d) Atender los planteamientos de la ciudadanía, discutir y conseguir consensos sobre los problemas de las regiones en relación al contenido de los ejes estratégicos del Plan de Nación y las  propuestas  de  solución  para  canalizarlas  al  Consejo  del  Plan  de  Nación;  e) Formular propuestas y canalizarlas al Consejo del Plan de Nación, con el propósito de adecuar los modelos de prestación de servicios de salud, educación y seguridad, en función de los intereses de los habitantes de la región; f) Apoyar a las instituciones en el  proceso  de  armonización  y  alineamiento  de  los  recursos  de  la  cooperación internacional entre sí y con el gasto público,  a través de la programación sectorial, tomando  en  cuenta  prioridades  locales/regionales;  g)  Promover  y  facilitar  procesos participativos de formulación, presupuestacion y ejecución de la planificación sectorial de corto, mediano y largo plazo, bajo el principio de abordaje integral dentro y entre los sectores temáticos; h) Coadyuvar en la identificación de problemas y soluciones sobre  temas  urgentes  y  de  alta  prioridad  en  cada  sector  temático;  i)  Facilitar  el seguimiento y la evaluación de programas y proyectos a nivel sectorial, así como de la Estrategia para la Reducción de la Pobreza y otras iniciativas amplias, dentro de la región;  j)  Fortalecer  mecanismos  de  transparencia  y  rendición  de  cuentas  en  la gestión pública y la cooperación; k) Fortalecer los espacios de diálogo y concertación en apoyo a una mayor descentralización en la gestión pública; l) Organizar el análisis de  los  temas  relacionados  con  agua  y  saneamiento,    salud,  educación,  sectores productivos,  infraestructura,  seguridad  y  justicia,  protección  social,  y  vivienda;  m) Cualquier  otra  que  acuerden  sus  miembros  y  que  contribuya  al  logro  de  sus propósitos.
+Los Consejos Regionales de Desarrollo tendrán las funciones y atribuciones siguientes: a) Establecer en cada región la línea de base de los indicadores contenidos en el Plan de Nación y establecer la brecha a cubrir para lograr el nivel objetivo; b) Formular el Plan Regional de Ordenamiento Territorial; c) Determinar las acciones y medidas especificas a adoptar en consistencia con el presente decreto, para la reducción gradual de las brechas; d) Atender los planteamientos de la ciudadanía, discutir y conseguir consensos sobre los problemas de las regiones en relación al contenido de los ejes estratégicos del Plan de Nación y las propuestas de solución para canalizarlas al Consejo del Plan de Nación; e) Formular propuestas y canalizarlas al Consejo del Plan de Nación, con el propósito de
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 169
 
@@ -2991,13 +2887,15 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 170]]
 
-#### Articulo 27 .
+adecuar los modelos de prestación de servicios de salud, educación y seguridad, en función de los intereses de los habitantes de la región; f) Apoyar a las instituciones en el proceso de armonización y alineamiento de los recursos de la cooperación internacional entre sí y con el gasto público, a través de la programación sectorial, tomando en cuenta prioridades locales/regionales; g) Promover y facilitar procesos participativos de formulación, presupuestacion y ejecución de la planificación sectorial de corto, mediano y largo plazo, bajo el principio de abordaje integral dentro y entre los sectores temáticos; h) Coadyuvar en la identificación de problemas y soluciones sobre temas urgentes y de alta prioridad en cada sector temático; i) Facilitar el seguimiento y la evaluación de programas y proyectos a nivel sectorial, así como de la Estrategia para la Reducción de la Pobreza y otras iniciativas amplias, dentro de la región; j) Fortalecer mecanismos de transparencia y rendición de cuentas en la gestión pública y la cooperación; k) Fortalecer los espacios de diálogo y concertación en apoyo a una mayor descentralización en la gestión pública; l) Organizar el análisis de los temas relacionados con agua y saneamiento, salud, educación, sectores productivos, infraestructura, seguridad y justicia, protección social, y vivienda; m) Cualquier otra que acuerden sus miembros y que contribuya al logro de sus propósitos.
+
+#### Articulo 27.
 Las  Consejos Regionales de Desarrollo podrán integrarse por temas y también podrán constituirse con distintos representantes para cada tema, según las partes  interesadas  en  el  mismo.  A  tal  efecto,  cada  Consejo  Regional  emitirá  un reglamento  para  su  funcionamiento,  que  deberá  hacerse  del  conocimiento  de  la Secretaria Técnica de Planeación y Cooperación Externa.
 
 #### Articulo 28 .
-Las  Consejos  Regionales  de  Desarrollo  se  integrarán  al  menos  por  la representación de los sectores siguientes: a) Diez representantes de los ciudadanos de la región provenientes de diferentes  municipios y aldeas; b) Cinco representantes de  las  organizaciones  no  gubernamentales  con  presencia  en  la  región;  c)  Un representante  por  cada  gobierno  local  de  los  municipios  que  integran  la  región;  d) Cinco representantes de las instituciones internacionales que ejecuten programas y proyectos  acordes  a  las  necesidades  de  la  región;  e)  Un  representante  por  cada gremio relacionado al tema a tratar; y f) El Comisionado Regional, en representación del Consejo del Plan de Nación.
+Las Consejos Regionales de Desarrollo se integrarán al menos por la representación de los sectores siguientes: a) Diez representantes de los ciudadanos
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 170
 
@@ -3005,19 +2903,23 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 171]]
 
-#### Articulo  29 .
-El  Consejo  del  Plan  de  Nación  será  representado  en  cada  Consejo Regional  de  Desarrollo,  por  un  Comisionado  Regional,  que  será  nombrado  por  el Presidente  de  la  República,  para  cada  región.  El  Comisionado  Regional  tendrá  las funciones  siguientes:  a)  Promover  y  facilitar  el  funcionamiento  de  las  Consejos Regionales de Desarrollo; b) Certificar ante el Consejo del Plan de Nación el correcto funcionamiento  de  las  Consejos  Regionales  de  Desarrollo;  c)  Todas  las  funciones asignadas al  Gobernador  Departamental  en  los  artículos  16  y  19  del  Decreto  1802003, Ley de Ordenamiento Territorial; d)Transmitir información sobre los temas de interés planteados en los Consejos Regionales de Desarrollo y el Consejo del Plan de Nación  entre  ambas  instancias;  e)  Dar  seguimiento  a  las  iniciativas  y  acciones realizadas  en  respuesta  a  la  problemática  regional  planteada  por  las  Consejos Regionales  de  Desarrollo;  f)    Cualquier  otra  afín  a  sus  funciones,  que  le  asigne  el Consejo del Plan de Nación y el Consejo Regional de Desarrollo respectivo.
+de la región provenientes de diferentes municipios y aldeas; b) Cinco representantes de las organizaciones no gubernamentales con presencia en la región; c) Un representante por cada gobierno local de los municipios que integran la región; d) Cinco representantes de las instituciones internacionales que ejecuten programas y proyectos acordes a las necesidades de la región; e) Un representante por cada gremio relacionado al tema a tratar; y f) El Comisionado Regional, en representación del Consejo del Plan de Nación.
+
+#### Articulo 29.
+El Consejo del Plan de Nación será representado en cada Consejo Regional de Desarrollo, por un Comisionado Regional, que será nombrado por el Presidente de la República, para cada región. El Comisionado Regional tendrá las funciones siguientes: a) Promover y facilitar el funcionamiento de las Consejos Regionales de Desarrollo; b) Certificar ante el Consejo del Plan de Nación el correcto funcionamiento de las Consejos Regionales de Desarrollo; c) Todas las funciones asignadas al Gobernador Departamental en los artículos 16 y 19 del Decreto 180-2003, Ley de Ordenamiento Territorial; d)Transmitir información sobre los temas de interés planteados en los Consejos Regionales de Desarrollo y el Consejo del Plan de Nación entre ambas instancias; e) Dar seguimiento a las iniciativas y acciones realizadas en respuesta a la problemática regional planteada por las Consejos Regionales de Desarrollo; f) Cualquier otra afín a sus funciones, que le asigne el Consejo del Plan de Nación y el Consejo Regional de Desarrollo respectivo.
 
 #### Artículo 28 .
-Para la organización de los Consejos Regionales de Desarrollo en las regiones territoriales que se establecen en el artículo 5 de la presente Ley o las subregiones  que  se  establezcan  en  el  futuro,  la  Secretaría  Técnica  de  Planeación  y Cooperación  Externa  podrá  suscribir  convenios  con  organizaciones  representativas de la sociedad civil y asignar recursos para la promoción, organización y funcionamiento de las Consejos Regionales de Desarrollo.
+Para la organización de los Consejos Regionales de Desarrollo en las regiones territoriales que se establecen en el artículo 5 de la presente Ley o las sub-regiones que se establezcan en el futuro, la Secretaría Técnica de Planeación y Cooperación Externa podrá suscribir convenios con organizaciones representativas
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 171
 
 [[END OF PAGE 171]]
 
 [[START OF PAGE 172]]
+
+de la sociedad civil y asignar recursos para la promoción, organización y funcionamiento de las Consejos Regionales de Desarrollo.
 
 ### CAPITULO V DE LA RENDICION DE CUENTAS Y VERIFICACION
 
@@ -3030,9 +2932,9 @@ El  uso  transparente  de  los  recursos  públicos  asignados  para  el cumplim
 ### CAPITULO VI DEL FINANCIAMIENTO DEL PROCESO DE PLANEACION DEL DESARROLLO
 
 #### Artículo 31.
-En la formulación del  Presupuesto General de Ingresos y Egresos de la República  y  en  los  presupuestos  anuales  de  las  instituciones  descentralizadas  y desconcentradas del Estado deberán tomarse en consideración los requerimientos en materia de gastos e inversiones, derivados de la ejecución de los Planes de Nación en  las  regiones  establecidas  en  el  artículo  5  de  la  presente  Ley.  La  Secretaria  de Finanzas  y  la  Secretaria  Técnica  de  Planeación  y  Cooperación  Externa,  deberán asegurarse del cumplimiento de esta disposición.
+En la formulación del Presupuesto General de Ingresos y Egresos de la República y en los presupuestos anuales de las instituciones descentralizadas y
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 172
 
@@ -3040,14 +2942,16 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 173]]
 
-Para este propósito, la estructura presupuestaria deberá modificarse gradualmente, a fin  de  reflejar,  al  término  del  segundo  año  de  implementación  de  este  proceso  de planeación  del  desarrollo,  los  recursos  presupuestarios  asignados  por  cada  región, por cada objetivo, por cada lineamiento estratégico y por cada indicador, mediante un sistema de codificación que permita identificar claramente la asignación de recursos para el cumplimiento del Plan de Nación en cada región del país.
+desconcentradas del Estado deberán tomarse en consideración los requerimientos en materia de gastos e inversiones, derivados de la ejecución de los Planes de Nación en las regiones establecidas en el artículo 5 de la presente Ley. La Secretaria de Finanzas y la Secretaria Técnica de Planeación y Cooperación Externa, deberán asegurarse del cumplimiento de esta disposición.
+
+Para este propósito, la estructura presupuestaria deberá modificarse gradualmente, a fin de reflejar, al término del segundo año de implementación de este proceso de planeación del desarrollo, los recursos presupuestarios asignados por cada región, por cada objetivo, por cada lineamiento estratégico y por cada indicador, mediante un sistema de codificación que permita identificar claramente la asignación de recursos para el cumplimiento del Plan de Nación en cada región del país.
 
 La estructura presupuestaria que se adopte deberá permitir la geo-referenciacion de las  intervenciones  e  inversiones  con  recursos  públicos  y  servir  de  base  para  dar seguimiento a las que se realicen con recursos de la cooperación internacional y de privados. El presupuesto plurianual reflejará claramente los contenidos de los planes y la contribución presupuestada para el logro de las metas periódicas.
 
 #### Articulo 32 .
 Los recursos presupuestarios, activos y pasivos asignados a la Comisión Presidencial de Modernización del Estado, la Unidad de Apoyo Técnico (UNAT), la Secretaria Técnica de Cooperación (SETCO), el Comisionado Nacional de Competitividad,  el  Consejo  Hondureño  de  Ciencia  y  Tecnología  (COHCIT),  la Comisión Ejecutiva del Valle de Sula, y la Dirección de Ordenamiento Territorial de la Secretaria de Estado en los Despachos de Gobernación y Justicia, deberán asignarse a  la  Secretaria  de  Planeación  y  Cooperación  Externa,  a  partir  del  Presupuesto General  de  Ingresos  y  Egresos  de  la  República  que  se  formule  para  el  año  fiscal 2010, para el financiamiento del proceso de planeación del desarrollo.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 173
 
@@ -3064,13 +2968,13 @@ La Secretaria de Estado en el Despacho de Finanzas deberá destinar el equivalen
 #### Articulo  35 .
 Se  reforma el Decreto No. 155-94, Ley del Foro Nacional de Convergencia, quedando derogados los artículos 3 y 7,  en tanto que los artículos 1, 2, 4 y 9, se leerán así:
 
-#### 'Artículo  1.-
+#### “Artículo 1.-
 Crease  el  Foro  Nacional  de  Convergencia  (FONAC),  como  la instancia de verificación y seguimiento independiente del cumplimiento de la Visión de País  y  el  Plan  de  Nación.  Para  el  cumplimiento  de  sus  fines,  el  Poder  Ejecutivo deberá  asignarle  un  presupuesto  a  través  de  la  Secretaría  de  Finanzas  y  estará sujeto a la fiscalización del Tribunal Superior de Cuentas.
 
 #### Artículo 2.-
-El FONAC estará integrado por siete representantes de la sociedad civil, designados por periodos de dos años a través de las diferentes organizaciones sociales, gremiales y políticas, que ostentando personalidad jurídica, sean convocadas por el Presidente de la Republica.
+El FONAC estará integrado por siete representantes de la sociedad civil, designados por periodos de dos años a través de las diferentes organizaciones sociales, gremiales y políticas, que ostentando personalidad jurídica, sean
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 174
 
@@ -3078,11 +2982,13 @@ Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Go
 
 [[START OF PAGE 175]]
 
+convocadas por el Presidente de la Republica.
+
 #### Artículo 4.-
 Los miembros del FONAC nombrarán un Secretario Ejecutivo, que laborará a tiempo completo, no pudiendo desempeñar otras funciones remuneradas, excepto las de carácter docente. Su remuneración será fijada por los miembros del FONAC.
 
-#### Articulo 9.
-El FONAC  se  reunirá ordinariamente cada seis meses  y extraordinariamente  cuantas  veces  sea  necesario,  a  convocatoria  del  Secretario Ejecutivo o a iniciativa de por los menos dos de sus miembros.'
+#### Articulo 9.-
+El FONAC se reunirá ordinariamente cada seis meses y extraordinariamente cuantas veces sea necesario, a convocatoria del Secretario Ejecutivo o a iniciativa de por los menos dos de sus miembros.”
 
 ### CAPITULO VI DISPOSICIONES FINALES
 
@@ -3092,7 +2998,7 @@ Todas las transformaciones y reestructuraciones institucionales requeridas para 
 #### Articulo  37 .
 Derogar  el  decreto  ejecutivo  No.  55-92,  de  creación  del  Consejo Hondureño de Ciencia y Tecnología (COHCIT) y sus reformas, el decreto legislativo No.  190-91,  contentivo  de  la  Ley  para  la  Modernización  del  Estado,  el  decreto ejecutivo  No.  PCM-  32-92,  de  la  Comisión  Ejecutiva  del  Valle  de  Sula,  el  decreto ejecutivo No. PCM- 004-2002 de creación de la Comisión Nacional de Competitividad y la reforma contenida en el decreto legislativo No. 218-96, articulo 124-A de la Ley de  Administración  Pública,  que  creó  la  Secretaria  Técnica  y  de  Cooperación Internacional  (SETCO).  Asimismo,  queda  derogado  el  Decreto  No.3-2006,  Ley  de Participación Ciudadana.
 
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 175
 
@@ -3114,17 +3020,17 @@ CARLOS ALFREDO LARA WATSON
 
 Secretario
 
+GONZALO RIVERA
+
+Secretario
+
 Por tanto, publíquese,
 
 PORFIRIO LOBO SOSA
 
 Presidente Constitucional de la República
 
-GONZALO RIVERA
-
-Secretario
-
-Visión de País 2010 - 2038, Horizonte de Planificación para 7 períodos de Gobierno
+Visión de País 2010 – 2038, Horizonte de Planificación para 7 períodos de Gobierno
 
 176
 
