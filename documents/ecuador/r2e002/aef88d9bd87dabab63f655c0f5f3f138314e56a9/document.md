@@ -12,15 +12,95 @@
 
 [[START OF PAGE 3]]
 
-# C CO ON NS ST TI IT TU UC CI IÓ ÓN N   D DE E L LA A   R RE EP PÚ ÚB BL LI IC CA A   D DE EL L   E EC CU UA AD DO OR R
+# CONSTITUCIÓN DE LA REPÚBLICA DEL ECUADOR
 
 ## Índice
+
+PREÁMBULO 15
+
+TÍTULO I
+ELEMENTOS CONSTITUTIVOS DEL ESTADO 16
+
+Capítulo primero
+Principios fundamentales 16
+
+Capítulo segundo
+Ciudadanas y ciudadanos 18
+
+TÍTULO II
+DERECHOS 21
+
+Capítulo primero
+Principios de aplicación de los derechos 21
+
+Capítulo segundo
+Derechos del buen vivir 24
+
+Sección primera
+Agua y alimentación 24
+
+Sección segunda
+Ambiente sano 24
+
+Sección tercera
+Comunicación e información 25
+
+Sección cuarta
+Cultura y Ciencia 26
+
+Sección quinta
+Educación 27
+
+Sección sexta
+Hábitat y vivienda 28
 
 3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+Sección séptima
+Salud 29
+
+Sección octava
+Trabajo y seguridad social 29
+
+Capítulo tercero
+Derechos de las personas y grupos de atención prioritaria 30
+
+Sección primera
+Adultas y adultos mayores 30
+
+Sección segunda
+Jóvenes 32
+
+Sección tercera
+Movilidad Humana 32
+
+Sección cuarta
+Mujeres embarazadas 34
+
+Sección quinta
+Niñas, niños y adolescentes 34
+
+Sección sexta
+Personas con discapacidad 36
+
+Sección séptima
+Personas con enfermedades catastróficas 38
+
+Sección octava
+Personas privadas de libertad 38
+
+Sección novena
+Personas usuarias y consumidoras 39
+
+Capítulo cuarto
+Derechos de las comunidades, pueblos y nacionalidades 41
+
+Capítulo quinto
+Derechos de participación 45
 
 4
 
@@ -29,12 +109,91 @@
 [[START OF PAGE 5]]
 
 Capítulo sexto
+Derechos de libertad 47
+
+Capítulo séptimo
+Derechos de la naturaleza 52
+
+Capítulo octavo
+Derechos de protección 53
+
+Capítulo noveno
+Responsabilidades 59
+
+TÍTULO III
+GARANTÍAS CONSTITUCIONALES 61
+
+Capítulo primero
+Garantías normativas 61
+
+Capítulo segundo
+Políticas públicas, servicios públicos y participación ciudadana 62
+
+Capítulo tercero
+Garantías jurisdiccionales 63
+
+Sección primera
+Disposiciones comunes 63
+
+Sección segunda
+Acción de protección 64
+
+Sección tercera
+Acción de hábeas corpus 64
+
+Sección cuarta
+Acción de acceso a la información pública 65
+
+Sección quinta
+Acción de hábeas data 66
+
+Sección sexta
+Acción por incumplimiento 66
 
 5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+Sección séptima
+Acción extraordinaria de protección 66
+
+TÍTULO IV
+PARTICIPACIÓN Y ORGANIZACIÓN DEL PODER 67
+
+Capítulo primero
+Participación en democracia 67
+
+Sección primera
+Principios de la participación 67
+
+Sección segunda
+Organización colectiva 67
+
+Sección tercera
+Participación en los diferentes niveles de gobierno 68
+
+Sección cuarta
+Democracia directa 69
+
+Sección quinta
+Organizaciones políticas 71
+
+Sección sexta
+Representación política 73
+
+Capítulo segundo
+Función Legislativa 75
+
+Sección primera
+Asamblea Nacional 75
+
+Sección segunda
+Control de la acción de gobierno 79
+
+Sección tercera
+Procedimiento legislativo 81
 
 6
 
@@ -43,6 +202,46 @@ Capítulo sexto
 [[START OF PAGE 7]]
 
 Capítulo tercero
+Función Ejecutiva 85
+
+Sección primera
+Organización y funciones 85
+
+Sección segunda
+Consejos nacionales de igualdad 90
+
+Sección tercera
+Fuerzas Armadas y Policía Nacional 91
+
+Sección cuarta
+Estados de excepción 93
+
+Capítulo cuarto
+Función Judicial y justicia indígena 95
+
+Sección primera
+Principios de la administración de justicia 95
+
+Sección segunda
+Justicia Indígena 96
+
+Sección tercera
+Principios de la Función Judicial 96
+
+Sección cuarta
+Organización y funcionamiento 97
+
+Sección quinta
+Consejo de la Judicatura 98
+
+Sección sexta
+Justicia ordinaria 99
+
+Sección séptima
+Jueces de Paz 102
+
+Sección octava
+Medios alternativos de solución de conflictos 102
 
 7
 
@@ -50,11 +249,95 @@ Capítulo tercero
 
 [[START OF PAGE 8]]
 
+Sección novena
+Defensoría Pública 102
+
+Sección décima
+Fiscalía General del Estado 103
+
+Sección undécima
+Sistema de protección de víctimas y testigos 105
+
+Sección duodécima
+Servicio notarial 105
+
+Sección decimotercera
+Rehabilitación social 106
+
+Capítulo quinto
+Función de Transparencia y Control Social 108
+
+Sección primera
+Naturaleza y funciones 108
+
+Sección segunda
+Consejo de Participación Ciudadana y Control Social 109
+
+Sección tercera
+Contraloría General del Estado 112
+
+Sección cuarta
+Superintendencias 112
+
+Sección quinta
+Defensoría del Pueblo 113
+
+Capítulo sexto
+Función Electoral 114
+
+Sección primera
+Consejo Nacional Electoral 114
+
+Sección segunda
+Tribunal Contencioso Electoral 115
+
 8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+Sección tercera
+Normas comunes de control político y social 116
+
+Capítulo séptimo
+Administración pública 117
+
+Sección primera
+Sector público 117
+
+Sección segunda
+Administración pública 117
+
+Sección tercera
+Servidoras y servidores públicos 118
+
+Sección cuarta
+Procuraduría General del Estado 119
+
+TÍTULO V
+ORGANIZACIÓN TERRITORIAL DEL ESTADO 121
+
+Capítulo primero
+Principios generales 121
+
+Capítulo segundo
+Organización del territorio 122
+
+Capítulo tercero
+Gobiernos autónomos descentralizados y regímenes especiales 125
+
+Capítulo cuarto
+Régimen de competencias 128
+
+Capítulo quinto
+Recursos económicos 133
+
+TÍTULO VI
+RÉGIMEN DE DESARROLLO 135
+
+Capítulo primero
+Principios generales 135
 
 9
 
@@ -62,17 +345,140 @@ Capítulo tercero
 
 [[START OF PAGE 10]]
 
+Capítulo segundo
+Planificación participativa para el desarrollo 137
+
+Capítulo tercero
+Soberanía alimentaria 138
+
+Capítulo cuarto
+Soberanía económica 140
+
+Sección primera
+Sistema económico y política económica 140
+
+Sección segunda
+Política fiscal 141
+
+Sección tercera
+Endeudamiento público 141
+
+Sección cuarta
+Presupuesto General del Estado 143
+
+Sección quinta
+Régimen tributario 145
+
+Sección sexta
+Política monetaria, cambiaria, crediticia y financiera 145
+
+Sección séptima
+Política comercial 146
+
+Sección octava
+Sistema financiero 147
+
+Capítulo quinto
+Sectores estratégicos, servicios y empresas públicas 149
+
+Capítulo sexto
+Trabajo y producción 151
+
+Sección primera
+Formas de organización de la producción y su gestión 151
+
 10
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
+Sección segunda
+Tipos de propiedad 151
+
+Sección tercera
+Formas de trabajo y su retribución 152
+
+Sección cuarta
+Democratización de los factores de producción 156
+
+Sección quinta
+Intercambios económicos y comercio justo 157
+
+Sección sexta
+Ahorro e Inversión 158
+
+TÍTULO VII
+RÉGIMEN DEL BUEN VIVIR 159
+
+Capítulo primero
+Inclusión y equidad 159
+
+Sección primera
+Educación 160
+
+Sección segunda
+Salud 165
+
+Sección tercera
+Seguridad social 167
+
+Sección cuarta
+Hábitat y vivienda 169
+
+Sección quinta
+Cultura 170
+
+Sección sexta
+Cultura física y tiempo libre 172
+
+Sección séptima
+Comunicación social 173
+
 11
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Sección octava
+Ciencia, tecnología, innovación y saberes ancestrales 173
+
+Sección novena
+Gestión del riesgo 175
+
+Sección décima
+Población y movilidad humana 176
+
+Sección undécima
+Seguridad humana 176
+
+Sección duodécima
+Transporte 176
+
+Capítulo segundo
+Biodiversidad y recursos naturales 177
+
+Sección primera
+Naturaleza y ambiente 177
+
+Sección segunda
+Biodiversidad 179
+
+Sección tercera
+Patrimonio natural y ecosistemas 180
+
+Sección cuarta
+Recursos naturales 181
+
+Sección quinta
+Suelo 181
+
+Sección sexta
+Agua 182
+
+Sección séptima
+Biosfera, ecología urbana y energías alternativas 182
 
 12
 
@@ -81,6 +487,36 @@ Capítulo tercero
 [[START OF PAGE 13]]
 
 TÍTULO VIII
+RELACIONES INTERNACIONALES 183
+
+Capítulo primero
+Principios de las relaciones internacionales 183
+
+Capítulo segundo
+Tratados e instrumentos internacionales 185
+
+Capítulo tercero
+Integración latinoamericana 187
+
+TÍTULO IX
+SUPREMACÍA DE LA CONSTITUCIÓN 189
+
+Capítulo primero
+Principios 189
+
+Capítulo segundo
+Corte Constitucional 191
+
+Capítulo tercero
+Reforma de la Constitución 195
+
+DISPOSICIONES TRANSITORIAS 197
+
+DISPOSICIÓN DEROGATORIA 205
+
+RÉGIMEN DE TRANSICIÓN 207
+
+DISPOSICIÓN FINAL 217
 
 13
 
@@ -100,17 +536,28 @@ TÍTULO VIII
 
 ### NOSOTRAS Y NOSOTROS, el pueblo soberano del Ecuador
 
-RECONOCIENDO  nuestras  raíces  milenarias,  forjadas  por  mujeres  y hombres de distintos pueblos, CELEBRANDO a la naturaleza, la Pacha Mama, de la que somos parte y que es vital para nuestra existencia, INVOCANDO el nombre de Dios y reconociendo nuestras diversas formas de religiosidad y espiritualidad, APELANDO a la sabiduría de todas las culturas que nos enriquecen como sociedad, COMO HEREDEROS de las luchas sociales de liberación frente a todas las formas de dominación y colonialismo,
+RECONOCIENDO nuestras raíces milenarias, forjadas por mujeres y hombres de distintos pueblos,
+
+CELEBRANDO a la naturaleza, la Pacha Mama, de la que somos parte y que es vital para nuestra existencia,
+
+INVOCANDO el nombre de Dios y reconociendo nuestras diversas formas de religiosidad y espiritualidad,
+
+APELANDO a la sabiduría de todas las culturas que nos enriquecen como sociedad,
+
+COMO HEREDEROS de las luchas sociales de liberación frente a todas las formas de dominación y colonialismo,
 
 Y con un profundo compromiso con el presente y el futuro,
 
 ### Decidimos construir
 
-Una nueva forma de convivencia ciudadana, en diversidad y armonía con
+Una nueva forma de convivencia ciudadana, en diversidad y armonía con la naturaleza, para alcanzar el buen vivir, el sumak kawsay;
 
-la naturaleza, para alcanzar el buen vivir, el sumak kawsay; Una sociedad que respeta, en todas sus dimensiones, la dignidad de las personas y las colectividades; Un país democrático, comprometido con la integración latinoamericana sueño de Bolívar y Alfaro-, la paz y la solidaridad con todos los pueblos de la tierra; y, En ejercicio de nuestra soberanía, en Ciudad Alfaro, Montecristi, provincia
+Una sociedad que respeta, en todas sus dimensiones, la dignidad de las personas y las colectividades;
 
-de Manabí, nos damos la presente:
+Un país democrático, comprometido con la integración latinoamericana –
+sueño de Bolívar y Alfaro-, la paz y la solidaridad con todos los pueblos de la tierra; y,
+
+En ejercicio de nuestra soberanía, en Ciudad Alfaro, Montecristi, provincia de Manabí, nos damos la presente:
 
 15
 
@@ -120,31 +567,31 @@ de Manabí, nos damos la presente:
 
 # CONSTITUCIÓN DE LA REPÚBLICA DEL ECUADOR
 
-## TITULO I ELEMENTOS CONSTITUTIVOS DEL ESTADO
+## TÍTULO I ELEMENTOS CONSTITUTIVOS DEL ESTADO
 
 ### Capítulo primero Principios fundamentales
 
-##### Art.  1.
-El  Ecuador  es  un  Estado  constitucional  de  derechos  y  justicia, social, democrático, soberano, independiente, unitario, intercultural, plurinacional y laico.  Se organiza en forma de república y se gobierna de manera descentralizada.
+##### Art. 1.-
+El Ecuador es un Estado constitucional de derechos y justicia, social, democrático, soberano, independiente, unitario, intercultural, plurinacional y laico. Se organiza en forma de república y se gobierna de manera descentralizada.
 
 La soberanía radica en el pueblo, cuya voluntad es el fundamento de la autoridad, y se ejerce a través de los órganos del poder público y de las formas de participación directa previstas en la Constitución.
 
 Los recursos naturales no renovables del territorio del Estado pertenecen a su patrimonio inalienable, irrenunciable e imprescriptible.
 
-##### Art. 2.
+##### Art. 2.-
 La bandera, el escudo y el himno nacional, establecidos por la ley, son los símbolos de la patria.
 
-El castellano es el idioma oficial del Ecuador; el castellano, el kichwa y el shuar son idiomas oficiales de relación intercultural.  Los demás idiomas ancestrales  son  de  uso  oficial  para  los  pueblos  indígenas  en  las  zonas donde  habitan  y  en  los  términos  que  fija  la  ley.    El  Estado  respetará  y estimulará su conservación y uso.
+El castellano es el idioma oficial del Ecuador; el castellano, el kichwa y el shuar son idiomas oficiales de relación intercultural. Los demás idiomas ancestrales son de uso oficial para los pueblos indígenas en las zonas donde habitan y en los términos que fija la ley. El Estado respetará y estimulará su conservación y uso.
 
 ##### Art. 3.-
 
 Son deberes primordiales del Estado:
 
-- Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la Constitución y en los instrumentos internacionales, en  particular  la  educación,  la  salud,  la  alimentación,  la  seguridad social y el agua para sus habitantes.
+1. Garantizar sin discriminación alguna el efectivo goce de los derechos establecidos en la Constitución y en los instrumentos internacionales, en particular la educación, la salud, la alimentación, la seguridad social y el agua para sus habitantes.
 
-- Garantizar y defender la soberanía nacional.
+2. Garantizar y defender la soberanía nacional.
 
-- Fortalecer la unidad nacional en la diversidad.
+3. Fortalecer la unidad nacional en la diversidad.
 
 16
 
@@ -152,27 +599,27 @@ Son deberes primordiales del Estado:
 
 [[START OF PAGE 17]]
 
-- Garantizar  la  ética  laica  como  sustento  del  quehacer  público  y  el ordenamiento jurídico.
+4. Garantizar la ética laica como sustento del quehacer público y el ordenamiento jurídico.
 
-- Planificar  el  desarrollo  nacional,  erradicar  la  pobreza,  promover  el desarrollo sustentable y la redistribución equitativa de los recursos y la riqueza, para acceder al buen vivir.
+5. Planificar el desarrollo nacional, erradicar la pobreza, promover el desarrollo sustentable y la redistribución equitativa de los recursos y la riqueza, para acceder al buen vivir.
 
-- Promover  el  desarrollo  equitativo  y  solidario  de  todo  el  territorio, mediante el fortalecimiento del proceso de autonomías y descentralización.
+6. Promover el desarrollo equitativo y solidario de todo el territorio, mediante el fortalecimiento del proceso de autonomías y descentralización.
 
-- Proteger el patrimonio natural y cultural del país.
+7. Proteger el patrimonio natural y cultural del país.
 
-- Garantizar  a  sus  habitantes  el  derecho  a  una  cultura  de  paz,  a  la seguridad  integral  y  a  vivir  en  una  sociedad  democrática  y  libre  de corrupción.
+8. Garantizar a sus habitantes el derecho a una cultura de paz, a la seguridad integral y a vivir en una sociedad democrática y libre de corrupción.
 
-##### Art.  4.
-El  territorio  del  Ecuador  constituye  una  unidad  geográfica  e histórica de dimensiones  naturales,  sociales  y  culturales,  legado  de nuestros antepasados y pueblos ancestrales.  Este territorio comprende el espacio continental y marítimo, las islas adyacentes, el mar territorial, el Archipiélago de Galápagos, el suelo, la plataforma submarina, el subsuelo y el espacio suprayacente continental, insular y marítimo. Sus límites son los determinados por los tratados vigentes.
+##### Art. 4.-
+El territorio del Ecuador constituye una unidad geográfica e histórica de dimensiones naturales, sociales y culturales, legado de nuestros antepasados y pueblos ancestrales. Este territorio comprende el espacio continental y marítimo, las islas adyacentes, el mar territorial, el Archipiélago de Galápagos, el suelo, la plataforma submarina, el subsuelo y el espacio suprayacente continental, insular y marítimo. Sus límites son los determinados por los tratados vigentes.
 
-El  territorio  del  Ecuador  es  inalienable,  irreductible  e  inviolable.  Nadie atentará contra la unidad territorial ni fomentará la secesión.
+El territorio del Ecuador es inalienable, irreductible e inviolable. Nadie atentará contra la unidad territorial ni fomentará la secesión.
 
 La capital del Ecuador es Quito.
 
-El Estado ecuatoriano ejercerá derechos sobre los segmentos correspondientes  de  la  órbita  sincrónica  geoestacionaria,  los  espacios marítimos y la Antártida.
+El Estado ecuatoriano ejercerá derechos sobre los segmentos correspondientes de la órbita sincrónica geoestacionaria, los espacios marítimos y la Antártida.
 
-##### Art. 5.
-El Ecuador  es  un  territorio de paz. No  se permitirá el establecimiento de bases militares extranjeras ni de instalaciones extranjeras  con  propósitos  militares.    Se  prohíbe  ceder  bases  militares nacionales a fuerzas armadas o de seguridad extranjeras.
+##### Art. 5.-
+El Ecuador es un territorio de paz. No se permitirá el establecimiento de bases militares extranjeras ni de instalaciones extranjeras con propósitos militares. Se prohíbe ceder bases militares nacionales a fuerzas armadas o de seguridad extranjeras.
 
 17
 
@@ -182,8 +629,8 @@ El Ecuador  es  un  territorio de paz. No  se permitirá el establecimiento de b
 
 ### Capítulo segundo Ciudadanas y ciudadanos
 
-##### Art.  6.
-Todas  las  ecuatorianas  y  los  ecuatorianos  son  ciudadanos  y gozarán de los derechos establecidos en la Constitución.
+##### Art. 6.-
+Todas las ecuatorianas y los ecuatorianos son ciudadanos y gozarán de los derechos establecidos en la Constitución.
 
 La nacionalidad ecuatoriana es el vínculo jurídico político de las personas con el Estado, sin perjuicio de su pertenencia a alguna de las nacionalidades indígenas que coexisten en el Ecuador plurinacional.
 
@@ -193,22 +640,22 @@ La nacionalidad ecuatoriana se obtendrá por nacimiento o por naturalización y 
 
 Son ecuatorianas y ecuatorianos por nacimiento:
 
-- Las personas nacidas en el Ecuador.
+1. Las personas nacidas en el Ecuador.
 
-- Las personas nacidas en el extranjero de madre o padre nacidos en el Ecuador; y sus descendientes hasta el tercer grado de consanguinidad.
+2. Las personas nacidas en el extranjero de madre o padre nacidos en el Ecuador; y sus descendientes hasta el tercer grado de consanguinidad.
 
-- Las personas pertenecientes a comunidades, pueblos o nacionalidades reconocidos por el Ecuador con presencia en las zonas de frontera.
+3. Las personas pertenecientes a comunidades, pueblos o nacionalidades reconocidos por el Ecuador con presencia en las zonas de frontera.
 
-##### Art. 8.
+##### Art. 8.-
 Son ecuatorianas y ecuatorianos por naturalización las siguientes personas:
 
-- Las que obtengan la carta de naturalización.
+1. Las que obtengan la carta de naturalización.
 
-- Las  extranjeras  menores  de  edad  adoptadas  por  una  ecuatoriana  o ecuatoriano,  que  conservarán  la  nacionalidad  ecuatoriana  mientras no expresen voluntad contraria.
+2. Las extranjeras menores de edad adoptadas por una ecuatoriana o ecuatoriano, que conservarán la nacionalidad ecuatoriana mientras no expresen voluntad contraria.
 
-- Las  nacidas  en  el  exterior  de  madre  o  padre  ecuatorianos  por naturalización, mientras aquéllas sean menores de edad; conservarán la nacionalidad ecuatoriana si no expresan voluntad contraria.
+3. Las nacidas en el exterior de madre o padre ecuatorianos por naturalización, mientras aquéllas sean menores de edad; conservarán la nacionalidad ecuatoriana si no expresan voluntad contraria.
 
-- Las que contraigan matrimonio o mantengan unión de hecho con una ecuatoriana o un ecuatoriano, de acuerdo con la ley.
+4. Las que contraigan matrimonio o mantengan unión de hecho con una ecuatoriana o un ecuatoriano, de acuerdo con la ley.
 
 18
 
@@ -216,14 +663,14 @@ Son ecuatorianas y ecuatorianos por naturalización las siguientes personas:
 
 [[START OF PAGE 19]]
 
-- Las  que  obtengan  la  nacionalidad  ecuatoriana  por  haber  prestado servicios relevantes al país con su talento o esfuerzo Individual.
+5. Las que obtengan la nacionalidad ecuatoriana por haber prestado servicios relevantes al país con su talento o esfuerzo Individual.
 
-Quienes  adquieran  la  nacionalidad  ecuatoriana  no  estarán  obligados  a renunciar a su nacionalidad de origen.
+Quienes adquieran la nacionalidad ecuatoriana no estarán obligados a renunciar a su nacionalidad de origen.
 
 La nacionalidad ecuatoriana adquirida por naturalización se perderá por renuncia expresa.
 
-##### Art.  9.
-Las  personas  extranjeras  que  se  encuentren  en  el  territorio ecuatoriano tendrán los mismos derechos y deberes que las ecuatorianas, de acuerdo con la Constitución.
+##### Art. 9.-
+Las personas extranjeras que se encuentren en el territorio ecuatoriano tendrán los mismos derechos y deberes que las ecuatorianas, de acuerdo con la Constitución.
 
 19
 
@@ -241,24 +688,24 @@ Las  personas  extranjeras  que  se  encuentren  en  el  territorio ecuatoriano 
 
 ### Capítulo primero Principios de aplicación de los derechos
 
-##### Art. 10.
+##### Art. 10.-
 Las personas, comunidades, pueblos, nacionalidades y colectivos son titulares y gozarán de los derechos garantizados en la Constitución y en los instrumentos internacionales.
 
-La naturaleza  será  sujeto  de  aquellos  derechos  que  le  reconozca  la Constitución.
+La naturaleza será sujeto de aquellos derechos que le reconozca la Constitución.
 
 ##### Art. 11.-
 
-EI ejercicio de los derechos se regirá por los siguientes principios:
+El ejercicio de los derechos se regirá por los siguientes principios:
 
-- Los derechos se podrán ejercer, promover y exigir de forma individual o  colectiva  ante  las  autoridades  competentes;  estas  autoridades garantizarán su cumplimiento.
+1. Los derechos se podrán ejercer, promover y exigir de forma individual o colectiva ante las autoridades competentes; estas autoridades garantizarán su cumplimiento.
 
-- Todas  las  personas  son  iguales  y  gozaran  de  los  mismos  derechos, deberes y oportunidades.
+2. Todas las personas son iguales y gozarán de los mismos derechos, deberes y oportunidades.
 
-Nadie podrá ser discriminado por razones de etnia, lugar de nacimiento,  edad,  sexo,  identidad  de  género,  identidad  cultural, estado  civil, idioma,  religión, ideología, filiación política,  pasado judicial, condición socio-económica, condición migratoria, orientación sexual, estado de salud, portar VIH, discapacidad, diferencia física; ni por cualquier otra distinción, personal o colectiva, temporal o permanente, que tenga por objeto o resultado menoscabar o anular el reconocimiento,  goce  o  ejercicio  de  los  derechos.    La  ley  sancionará toda forma de discriminación.
+Nadie podrá ser discriminado por razones de etnia, lugar de nacimiento, edad, sexo, identidad de género, identidad cultural, estado civil, idioma, religión, ideología, filiación política, pasado judicial, condición socio-económica, condición migratoria, orientación sexual, estado de salud, portar VIH, discapacidad, diferencia física; ni por cualquier otra distinción, personal o colectiva, temporal o permanente, que tenga por objeto o resultado menoscabar o anular el reconocimiento, goce o ejercicio de los derechos. La ley sancionará toda forma de discriminación.
 
 El Estado adoptará medidas de acción afirmativa que promuevan la igualdad real en favor de los titulares de derechos que se encuentren en situación de desigualdad.
 
-- Los  derechos  y  garantías  establecidos  en  la  Constitución  y  en  los instrumentos internacionales de derechos humanos serán de directa e  inmediata  aplicación  por  y  ante  cualquier  servidora  o  servidor público, administrativo o judicial, de oficio o a petición de parte.
+3. Los derechos y garantías establecidos en la Constitución y en los instrumentos internacionales de derechos humanos serán de directa e inmediata aplicación por y ante cualquier servidora o servidor público, administrativo o judicial, de oficio o a petición de parte.
 
 21
 
@@ -266,25 +713,25 @@ El Estado adoptará medidas de acción afirmativa que promuevan la igualdad real
 
 [[START OF PAGE 22]]
 
-Para el ejercicio de los derechos y las garantías constitucionales no se exigirán  condiciones  o  requisitos  que  no  estén  establecidos  en  la Constitución o la ley.
+Para el ejercicio de los derechos y las garantías constitucionales no se exigirán condiciones o requisitos que no estén establecidos en la Constitución o la ley.
 
-Los derechos serán plenamente justiciables.  No podrá alegarse falta de norma jurídica para justificar su violación o desconocimiento, para desechar la acción por esos hechos ni para negar su reconocimiento.
+Los derechos serán plenamente justiciables. No podrá alegarse falta de norma jurídica para justificar su violación o desconocimiento, para desechar la acción por esos hechos ni para negar su reconocimiento.
 
-- Ninguna norma jurídica podrá restringir el contenido de los derechos ni de las garantías constitucionales.
+4. Ninguna norma jurídica podrá restringir el contenido de los derechos ni de las garantías constitucionales.
 
-- En materia de derechos y garantías constitucionales, las servidoras y servidores  públicos,  administrativos  o  judiciales,  deberán  aplicar  la norma y la interpretación que más favorezcan su efectiva vigencia.
+5. En materia de derechos y garantías constitucionales, las servidoras y servidores públicos, administrativos o judiciales, deberán aplicar la norma y la interpretación que más favorezcan su efectiva vigencia.
 
-- Todos los principios y los derechos son inalienables, irrenunciables, indivisibles, interdependientes y de igual jerarquía.
+6. Todos los principios y los derechos son inalienables, irrenunciables, indivisibles, interdependientes y de igual jerarquía.
 
-- El  reconocimiento  de  los  derechos  y  garantías  establecidos  en  la Constitución  y  en  los  instrumentos  internacionales  de  derechos humanos, no excluirá los demás derechos derivados de la dignidad de las  personas,  comunidades,  pueblos  y  nacionalidades,  que  sean necesarios para su pleno desenvolvimiento.
+7. El reconocimiento de los derechos y garantías establecidos en la Constitución y en los instrumentos internacionales de derechos humanos, no excluirá los demás derechos derivados de la dignidad de las personas, comunidades, pueblos y nacionalidades, que sean necesarios para su pleno desenvolvimiento.
 
-- El contenido de los derechos se desarrollará de manera progresiva a través  de  las  normas,  la  jurisprudencia  y  las  políticas  públicas.    El Estado  generará  y  garantizará  las  condiciones  necesarias  para  su pleno reconocimiento y ejercicio.
+8. El contenido de los derechos se desarrollará de manera progresiva a través de las normas, la jurisprudencia y las políticas públicas. El Estado generará y garantizará las condiciones necesarias para su pleno reconocimiento y ejercicio.
 
 Será inconstitucional cualquier acción u omisión de carácter regresivo que disminuya, menoscabe o anule injustificadamente el ejercicio de los derechos.
 
-- El más alto deber del Estado consiste en respetar y hacer respetar los derechos garantizados en la Constitución.
+9. El más alto deber del Estado consiste en respetar y hacer respetar los derechos garantizados en la Constitución.
 
-El Estado, sus delegatarios, concesionarios y toda persona que actúe en ejercicio de una potestad pública, estarán obligados a reparar las violaciones a los derechos de los particulares por la falta o deficiencia en  la  prestación  de  los  servicios  públicos,  o  por  las  acciones  u omisiones de sus funcionarias y funcionarios, y empleadas y empleados públicos en el desempeño de sus cargos.
+El Estado, sus delegatarios, concesionarios y toda persona que actúe en ejercicio de una potestad pública, estarán obligados a reparar las violaciones a los derechos de los particulares por la falta o deficiencia en la prestación de los servicios públicos, o por las acciones u omisiones de sus funcionarias y funcionarios, y empleadas y empleados públicos en el desempeño de sus cargos.
 
 22
 
@@ -308,25 +755,25 @@ Cuando  una  sentencia  condenatoria  sea  reformada  o  revocada,  el Estado re
 
 #### Sección primera Agua y alimentación
 
-##### Art. 12.
-El derecho humano al agua es fundamental e irrenunciable.  El agua constituye patrimonio nacional estratégico de uso público, inalienable, imprescriptible, inembargable y esencial para la vida.
+##### Art. 12.-
+El derecho humano al agua es fundamental e irrenunciable. El agua constituye patrimonio nacional estratégico de uso público, inalienable, imprescriptible, inembargable y esencial para la vida.
 
-##### Art. 13.
-Las personas y colectividades tienen derecho al acceso seguro y permanente  a  alimentos  sanos,  suficientes  y  nutritivos;  preferentemente producidos a nivel local y en correspondencia con sus diversas identidades y tradiciones culturales.
+##### Art. 13.-
+Las personas y colectividades tienen derecho al acceso seguro y permanente a alimentos sanos, suficientes y nutritivos; preferentemente producidos a nivel local y en correspondencia con sus diversas identidades y tradiciones culturales.
 
 El Estado ecuatoriano promoverá la soberanía alimentaria.
 
 #### Sección segunda Ambiente sano
 
-##### Art.  14.
-Se  reconoce  el  derecho  de  la  población  a  vivir  en  un  ambiente sano  y  ecológicamente  equilibrado,  que  garantice  la  sostenibilidad  y  el buen vivir, sumak kawsay.
+##### Art. 14.-
+Se reconoce el derecho de la población a vivir en un ambiente sano y ecológicamente equilibrado, que garantice la sostenibilidad y el buen vivir, sumak kawsay.
 
-Se declara de interés público la preservación del ambiente, la conservación de los ecosistemas, la biodiversidad y la integridad del patrimonio genético del  país,  la  prevención  del  daño  ambiental  y  la  recuperación  de  los espacios naturales degradados.
+Se declara de interés público la preservación del ambiente, la conservación de los ecosistemas, la biodiversidad y la integridad del patrimonio genético del país, la prevención del daño ambiental y la recuperación de los espacios naturales degradados.
 
-##### Art.  15.
-El  Estado  promoverá, en el sector público y privado, el uso de tecnologías ambientalmente limpias y de energías alternativas no contaminantes y de bajo impacto. La soberanía energética no se alcanzará en detrimento de la soberanía alimentaria, ni afectará el derecho al agua.
+##### Art. 15.-
+El Estado promoverá, en el sector público y privado, el uso de tecnologías ambientalmente limpias y de energías alternativas no contaminantes y de bajo impacto. La soberanía energética no se alcanzará en detrimento de la soberanía alimentaria, ni afectará el derecho al agua.
 
-Se prohíbe el desarrollo, producción, tenencia, comercialización, importación, transporte, almacenamiento  y  uso  de  armas  químicas, biológicas y nucleares, de contaminantes orgánicos persistentes altamente tóxicos,  agroquímicos  internacionalmente  prohibidos,  y  las  tecnologías  y agentes  biológicos  experimentales  nocivos  y  organismos  genéticamente modificados perjudiciales para la salud humana o que atenten contra la
+Se prohíbe el desarrollo, producción, tenencia, comercialización, importación, transporte, almacenamiento y uso de armas químicas, biológicas y nucleares, de contaminantes orgánicos persistentes altamente tóxicos, agroquímicos internacionalmente prohibidos, y las tecnologías y agentes biológicos experimentales nocivos y organismos genéticamente modificados perjudiciales para la salud humana o que atenten contra la
 
 24
 
@@ -334,29 +781,29 @@ Se prohíbe el desarrollo, producción, tenencia, comercialización, importació
 
 [[START OF PAGE 25]]
 
-soberanía  alimentaria  o  los  ecosistemas,  así  como  la  introducción  de residuos nucleares y desechos tóxicos al territorio nacional.
+soberanía alimentaria o los ecosistemas, así como la introducción de residuos nucleares y desechos tóxicos al territorio nacional.
 
 #### Sección tercera Comunicación e Información
 
-##### Art.  16.
-Todas  las  personas,  en  forma  individual  o  colectiva,  tienen derecho a:
+##### Art. 16.-
+Todas las personas, en forma individual o colectiva, tienen derecho a:
 
-- Una comunicación libre, intercultural, incluyente, diversa y participativa,  en  todos  los  ámbitos  de  la  interacción  social,  por cualquier  medio  y  forma,  en  su  propia  lengua  y  con  sus  propios símbolos.
+1. Una comunicación libre, intercultural, incluyente, diversa y participativa, en todos los ámbitos de la interacción social, por cualquier medio y forma, en su propia lengua y con sus propios símbolos.
 
-- El acceso universal a las tecnologías de información y comunicación.
+2. El acceso universal a las tecnologías de información y comunicación.
 
-- La  creación  de  medios  de  comunicación  social,  y  al  acceso  en igualdad  de  condiciones  al  uso  de  las  frecuencias  del  espectro radioeléctrico  para  la  gestión  de  estaciones  de  radio  y  televisión públicas, privadas y comunitarias, y a bandas libres para la explotación de redes inalámbricas.
+3. La creación de medios de comunicación social, y al acceso en igualdad de condiciones al uso de las frecuencias del espectro radioeléctrico para la gestión de estaciones de radio y televisión públicas, privadas y comunitarias, y a bandas libres para la explotación de redes inalámbricas.
 
-- El acceso y uso de todas las formas de comunicación visual, auditiva, sensorial  y  a  otras  que  permitan  la  inclusión  de  personas  con discapacidad.
+4. El acceso y uso de todas las formas de comunicación visual, auditiva, sensorial y a otras que permitan la inclusión de personas con discapacidad.
 
-- Integrar los espacios de participación previstos en la Constitución en el campo de la comunicación.
+5. Integrar los espacios de participación previstos en la Constitución en el campo de la comunicación.
 
-##### Art. 17.
-EI Estado  fomentará  la  pluralidad  y  la diversidad en  la comunicación, y al efecto:
+##### Art. 17.-
+El Estado fomentará la pluralidad y la diversidad en la comunicación, y al efecto:
 
-- Garantizará  la  asignación,  a  través  de  métodos  transparentes  y  en igualdad de condiciones, de las frecuencias del espectro radioeléctrico, para la gestión de estaciones de radio y televisión públicas, privadas y comunitarias, así como el acceso a bandas libres para la explotación de redes inalámbricas, y precautelará que en su utilización prevalezca el interés colectivo.
+1. Garantizará la asignación, a través de métodos transparentes y en igualdad de condiciones, de las frecuencias del espectro radioeléctrico, para la gestión de estaciones de radio y televisión públicas, privadas y comunitarias, así como el acceso a bandas libres para la explotación de redes inalámbricas, y precautelará que en su utilización prevalezca el interés colectivo.
 
-- Facilitará la creación y el fortalecimiento de medios de comunicación públicos, privados y comunitarios, así como el acceso universal a las tecnologías  de  información  y  comunicación  en  especial  para  las
+2. Facilitará la creación y el fortalecimiento de medios de comunicación públicos, privados y comunitarios, así como el acceso universal a las tecnologías de información y comunicación en especial para las
 
 25
 
@@ -364,29 +811,29 @@ EI Estado  fomentará  la  pluralidad  y  la diversidad en  la comunicación, y 
 
 [[START OF PAGE 26]]
 
-- personas y colectividades que carezcan de dicho acceso o lo tengan de forma limitada.
+personas y colectividades que carezcan de dicho acceso o lo tengan de forma limitada.
 
-- No  permitirá  el  oligopolio  o  monopolio,  directo  ni  indirecto,  de  la propiedad de los medios de comunicación y del uso de las frecuencias.
+3. No permitirá el oligopolio o monopolio, directo ni indirecto, de la propiedad de los medios de comunicación y del uso de las frecuencias.
 
-##### Art.  18.
-Todas  las  personas,  en  forma  individual  o  colectiva,  tienen derecho a:
+##### Art. 18.-
+Todas las personas, en forma individual o colectiva, tienen derecho a:
 
-- Buscar, recibir, intercambiar, producir y difundir información veraz, verificada, oportuna, contextualizada, plural, sin censura  previa acerca de los hechos, acontecimientos y procesos de interés general, y con responsabilidad ulterior.
+1. Buscar, recibir, intercambiar, producir y difundir información veraz, verificada, oportuna, contextualizada, plural, sin censura previa acerca de los hechos, acontecimientos y procesos de interés general, y con responsabilidad ulterior.
 
-- Acceder libremente a la información generada en entidades públicas, o en las privadas que manejen fondos del Estado o realicen funciones públicas.    No  existirá  reserva  de  información  excepto  en  los  casos expresamente  establecidos  en  la  ley.  En  caso  de  violación  a  los derechos humanos, ninguna entidad pública negará la información.
+2. Acceder libremente a la información generada en entidades públicas, o en las privadas que manejen fondos del Estado o realicen funciones públicas. No existirá reserva de información excepto en los casos expresamente establecidos en la ley. En caso de violación a los derechos humanos, ninguna entidad pública negará la información.
 
-##### Art. 19.
+##### Art. 19.-
 La ley regulará la prevalencia de contenidos con fines informativos, educativos y culturales en la programación de los medios de comunicación, y fomentará la creación de espacios para la difusión de la producción nacional independiente.
 
 Se  prohíbe  la  emisión  de  publicidad  que  induzca  a  la  violencia,  la discriminación,  el  racismo,  la  toxicomanía,  el  sexismo,  la  intolerancia religiosa o política y toda aquella que atente contra los derechos.
 
-##### Art. 20.
+##### Art. 20.-
 El Estado garantizará la cláusula de conciencia a toda persona, y el secreto profesional y la reserva de la fuente a quienes informen, emitan sus opiniones a través de los medios u otras formas de comunicación, o laboren en cualquier actividad de comunicación.
 
 #### Sección cuarta Cultura y ciencia
 
-##### Art.  21.
-Las  personas tienen derecho a construir y mantener su propia identidad cultural, a decidir sobre su pertenencia a una  o varias comunidades  culturales  y  a  expresar  dichas  elecciones;  a  la  libertad estética; a conocer la memoria histórica de sus culturas y a acceder a su patrimonio cultural; a difundir sus propias expresiones culturales y tener acceso a expresiones culturales diversas.
+##### Art. 21.-
+Las personas tienen derecho a construir y mantener su propia identidad cultural, a decidir sobre su pertenencia a una o varias comunidades culturales y a expresar dichas elecciones; a la libertad estética; a conocer la memoria histórica de sus culturas y a acceder a su
 
 26
 
@@ -394,27 +841,29 @@ Las  personas tienen derecho a construir y mantener su propia identidad cultural
 
 [[START OF PAGE 27]]
 
-No  se  podrá  invocar  la  cultura  cuando  se  atente  contra  los  derechos reconocidos en la Constitución.
+patrimonio cultural; a difundir sus propias expresiones culturales y tener acceso a expresiones culturales diversas.
 
-##### Art. 22.
+No se podrá invocar la cultura cuando se atente contra los derechos reconocidos en la Constitución.
+
+##### Art. 22.-
 Las personas tienen derecho a desarrollar su capacidad creativa, al ejercicio digno y sostenido de las actividades culturales y artísticas, y a beneficiarse de la protección de los derechos morales y patrimoniales que les correspondan por las producciones científicas, literarias o artísticas de su autoría.
 
-##### Art.  23.
+##### Art. 23.-
 Las  personas tienen derecho a acceder y participar del espacio público como ámbito de deliberación, intercambio cultural, cohesión social y promoción de la igualdad en la diversidad.  El derecho a difundir en el espacio  público  las  propias  expresiones  culturales  se  ejercerá  sin  más limitaciones  que  las  que  establezca  la  ley,  con  sujeción  a  los  principios constitucionales.
 
-##### Art. 24.
+##### Art. 24.-
 Las personas tienen derecho a la recreación y al esparcimiento, a la práctica del deporte y al tiempo libre.
 
-##### Art.  25.
+##### Art. 25.-
 Las  personas  tienen  derecho  a  gozar  de  los  beneficios  y aplicaciones del progreso científico y de los saberes ancestrales.
 
 #### Sección quinta Educación
 
-##### Art. 26.
+##### Art. 26.-
 La educación es un derecho de las personas a lo largo de su vida y  un  deber  ineludible  e  inexcusable  del  Estado.    Constituye  un  área prioritaria  de  la  política  pública  y  de  la  inversión  estatal,  garantía  de  la igualdad  e  inclusión  social  y  condición  indispensable  para  el  buen  vivir. Las personas, las familias y la sociedad tienen el derecho y la responsabilidad de participar en el proceso educativo.
 
-##### Art.  27.
-La  educación  se  centrará  en  el  ser  humano  y  garantizará  su desarrollo  holístico,  en  el  marco  del  respeto  a  los  derechos  humanos,  al medio ambiente sustentable y a la democracia; será participativa, obligatoria,  intercultural,  democrática,  incluyente  y  diversa,  de  calidad  y calidez; impulsará la equidad de género, la justicia, la solidaridad y la paz; estimulará  el  sentido  crítico,  el  arte  y  la  cultura  física,  la  iniciativa individual  y  comunitaria,  y  el  desarrollo  de  competencias  y  capacidades para crear y trabajar.
+##### Art. 27.-
+La educación se centrará en el ser humano y garantizará su desarrollo holístico, en el marco del respeto a los derechos humanos, al medio ambiente sustentable y a la democracia; será participativa, obligatoria, intercultural, democrática, incluyente y diversa, de calidad y calidez; impulsará la equidad de género, la justicia, la solidaridad y la paz; estimulará el sentido crítico, el arte y la cultura física, la iniciativa
 
 27
 
@@ -422,9 +871,11 @@ La  educación  se  centrará  en  el  ser  humano  y  garantizará  su desarrol
 
 [[START OF PAGE 28]]
 
-La  educación  es  indispensable  para  el  conocimiento,  el  ejercicio  de  los derechos  y  la  construcción  de  un  país  soberano,  y  constituye  un  eje estratégico para el desarrollo nacional.
+individual y comunitaria, y el desarrollo de competencias y capacidades para crear y trabajar.
 
-##### Art. 28.
+La educación es indispensable para el conocimiento, el ejercicio de los derechos y la construcción de un país soberano, y constituye un eje estratégico para el desarrollo nacional.
+
+##### Art. 28.-
 La educación responderá al interés público y no estará al servicio de intereses individuales y corporativos. Se garantizará el acceso universal, permanencia, movilidad y egreso sin discriminación alguna y la obligatoriedad en el nivel inicial, básico y bachillerato o su equivalente.
 
 Es  derecho  de  toda  persona  y  comunidad  interactuar  entre  culturas  y participar en una sociedad que aprende.  El Estado promoverá el diálogo intercultural en sus múltiples dimensiones.
@@ -433,17 +884,17 @@ El aprendizaje se desarrollará de forma escolarizada y no escolarizada.
 
 La educación pública será universal y laica en todos sus niveles, y gratuita hasta el tercer nivel de educación superior inclusive.
 
-##### Art.  29.
-EI  Estado  garantizará  la  libertad  de  enseñanza,  la  libertad  de cátedra en la educación superior, y el derecho de las personas de aprender en su propia lengua y ámbito cultural.
+##### Art. 29.-
+El Estado garantizará la libertad de enseñanza, la libertad de cátedra en la educación superior, y el derecho de las personas de aprender en su propia lengua y ámbito cultural.
 
 Las madres y padres o sus representantes tendrán la libertad de escoger para sus hijas e hijos una educación acorde con sus principios, creencias y opciones pedagógicas.
 
 #### Sección sexta Hábitat y vivienda
 
-##### Art. 30.
+##### Art. 30.-
 Las personas tienen derecho a un hábitat seguro y saludable, y a una vivienda adecuada y digna, con independencia de su situación social y económica.
 
-##### Art. 31.
+##### Art. 31.-
 Las personas tienen derecho al disfrute pleno de la ciudad y de sus  espacios  públicos,  bajo  los  principios  de  sustentabilidad,  justicia social,  respeto  a  las  diferentes  culturas  urbanas  y  equilibrio  entre  lo urbano y lo rural.  El ejercicio del derecho a la ciudad se basa en la gestión democrática de ésta, en la función social y ambiental de la propiedad y de la ciudad, y en el ejercicio pleno de la ciudadanía.
 
 28
@@ -454,18 +905,18 @@ Las personas tienen derecho al disfrute pleno de la ciudad y de sus  espacios  p
 
 #### Sección séptima Salud
 
-##### Art. 32.
+##### Art. 32.-
 La salud es un derecho que garantiza el Estado, cuya realización se vincula al ejercicio de otros derechos, entre ellos el derecho al agua, la alimentación, la educación, la cultura física, el trabajo, la seguridad social, los ambientes sanos y otros que sustentan el buen vivir.
 
 El Estado garantizará este derecho mediante políticas económicas, sociales, culturales, educativas y ambientales; y el acceso permanente, oportuno y sin exclusión a programas, acciones y servicios de promoción y atención integral de salud, salud sexual y salud reproductiva. La prestación de los servicios  de  salud  se  regirá  por  los  principios  de  equidad,  universalidad, solidaridad,  interculturalidad,  calidad,  eficiencia,  eficacia,  precaución  y bioética, con enfoque de genero y generacional.
 
 #### Sección octava Trabajo y seguridad social
 
-##### Art.  33.
+##### Art. 33.-
 El  trabajo  es  un  derecho  y  un  deber  social,  y  un  derecho económico, fuente de realización personal y base de la economía. El Estado garantizará  a  las  personas  trabajadoras  el  pleno  respeto  a  su  dignidad, una vida decorosa, remuneraciones y retribuciones justas y el desempeño de un trabajo saludable y libremente escogido o aceptado.
 
-##### Art. 34.
-EI derecho a la seguridad social es un derecho irrenunciable de todas las personas, y será deber y responsabilidad primordial del Estado. La seguridad social se regirá por los principios de solidaridad, obligatoriedad, universalidad, equidad, eficiencia, subsidiaridad, suficiencia, transparencia y participación, para la atención de las necesidades individuales y colectivas.
+##### Art. 34.-
+El derecho a la seguridad social es un derecho irrenunciable de todas las personas, y será deber y responsabilidad primordial del Estado. La seguridad social se regirá por los principios de solidaridad, obligatoriedad, universalidad, equidad, eficiencia, subsidiaridad, suficiencia, transparencia y participación, para la atención de las necesidades individuales y colectivas.
 
 El  Estado  garantizará  y  hará  efectivo  el  ejercicio  pleno  del  derecho  a  la seguridad  social,  que  incluye  a  las  personas  que  realizan  trabajo  no remunerado en los hogares, actividades para el auto sustento en el campo, toda forma de trabajo autónomo y a quienes se encuentran en situación de desempleo.
 
@@ -477,30 +928,30 @@ El  Estado  garantizará  y  hará  efectivo  el  ejercicio  pleno  del  derecho
 
 ### Capítulo tercero Derechos de las personas y grupos de atención prioritaria
 
-##### Art.  35.
+##### Art. 35.-
 Las  personas  adultas  mayores,  niñas,  niños  y  adolescentes, mujeres  embarazadas,  personas  con  discapacidad,  personas  privadas  de libertad  y  quienes  adolezcan  de  enfermedades  catastróficas  o  de  alta complejidad, recibirán atención prioritaria y especializada en los ámbitos público y privado.  La misma atención prioritaria recibirán las personas en situación de riesgo, las víctimas de violencia doméstica y sexual, maltrato infantil, desastres naturales o antropogénicos. El Estado prestará especial protección a las personas en condición de doble vulnerabilidad.
 
 #### Sección primera Adultas y adultos mayores
 
-##### Art.  36.
+##### Art. 36.-
 Las  personas  adultas  mayores  recibirán  atención  prioritaria  y especializada en los ámbitos público y privado, en especial en los campos de  inclusión  social  y  económica,  y  protección  contra  la  violencia.  Se considerarán  personas  adultas  mayores  aquellas  personas  que  hayan cumplido los sesenta y cinco años de edad.
 
-##### Art.  37.
-El  Estado  garantizará  a  las  personas  adultas  mayores  los siguientes derechos:
+##### Art. 37.-
+El Estado garantizará a las personas adultas mayores los siguientes derechos:
 
-- La  atención  gratuita  y  especializada  de  salud,  así  como  el  acceso gratuito a medicinas.
+1. La atención gratuita y especializada de salud, así como el acceso gratuito a medicinas.
 
-- El trabajo remunerado, en función de sus capacidades, para lo cual tomará en cuenta sus limitaciones.
+2. El trabajo remunerado, en función de sus capacidades, para lo cual tomará en cuenta sus limitaciones.
 
-- La jubilación universal.
+3. La jubilación universal.
 
-- Rebajas en los servicios públicos y en servicios privados de transporte y espectáculos.
+4. Rebajas en los servicios públicos y en servicios privados de transporte y espectáculos.
 
-- Exenciones en el régimen tributario.
+5. Exenciones en el régimen tributario.
 
-- Exoneración del pago por costos notariales y registrales, de acuerdo con la ley.
+6. Exoneración del pago por costos notariales y registrales, de acuerdo con la ley.
 
-- El acceso a una vivienda que asegure una vida digna, con respeto a su opinión y consentimiento.
+7. El acceso a una vivienda que asegure una vida digna, con respeto a su opinión y consentimiento.
 
 30
 
@@ -508,24 +959,24 @@ El  Estado  garantizará  a  las  personas  adultas  mayores  los siguientes der
 
 [[START OF PAGE 31]]
 
-##### Art. 38.
-El Estado establecerá políticas públicas y programas de atención a  las  personas  adultas  mayores,  que  tendrán  en  cuenta  las  diferencias específicas  entre  áreas  urbanas  y  rurales,  las  inequidades  de  género,  la etnia, la cultura y las diferencias propias de las personas, comunidades, pueblos y nacionalidades; asimismo, fomentará el mayor grado posible de autonomía personal y participación en la definición y ejecución de estas políticas.
+##### Art. 38.-
+El Estado establecerá políticas públicas y programas de atención a las personas adultas mayores, que tendrán en cuenta las diferencias específicas entre áreas urbanas y rurales, las inequidades de género, la etnia, la cultura y las diferencias propias de las personas, comunidades, pueblos y nacionalidades; asimismo, fomentará el mayor grado posible de autonomía personal y participación en la definición y ejecución de estas políticas.
 
 En particular, el Estado tomará medidas de:
 
-- Atención en centros especializados que garanticen su nutrición, salud, educación  y  cuidado  diario,  en  un  marco  de  protección  integral  de derechos.  Se crearán centros de acogida para albergar a quienes no puedan  ser  atendidos  por  sus  familiares  o  quienes  carezcan  de  un lugar donde residir de forma permanente.
+1. Atención en centros especializados que garanticen su nutrición, salud, educación y cuidado diario, en un marco de protección integral de derechos. Se crearán centros de acogida para albergar a quienes no puedan ser atendidos por sus familiares o quienes carezcan de un lugar donde residir de forma permanente.
 
-- Protección  especial  contra  cualquier  tipo  de  explotación  laboral  o económica.  El  Estado  ejecutará  políticas  destinadas  a  fomentar  la participación y el  trabajo  de  las  personas  adultas  mayores  en entidades públicas y privadas para que contribuyan con su experiencia,  y  desarrollará  programas  de  capacitación  laboral,  en función de su vocación y sus aspiraciones.
+2. Protección especial contra cualquier tipo de explotación laboral o económica. El Estado ejecutará políticas destinadas a fomentar la participación y el trabajo de las personas adultas mayores en entidades públicas y privadas para que contribuyan con su experiencia, y desarrollará programas de capacitación laboral, en función de su vocación y sus aspiraciones.
 
-- Desarrollo de programas  y políticas destinadas a fomentar su autonomía personal, disminuir su dependencia y conseguir su plena integración social.
+3. Desarrollo de programas y políticas destinadas a fomentar su autonomía personal, disminuir su dependencia y conseguir su plena integración social.
 
-- Protección y atención contra todo tipo de violencia, maltrato, explotación  sexual  o  de  cualquier  otra  índole,  o  negligencia  que provoque tales situaciones.
+4. Protección y atención contra todo tipo de violencia, maltrato, explotación sexual o de cualquier otra índole, o negligencia que provoque tales situaciones.
 
-- Desarrollo  de  programas  destinados  a  fomentar  la  realización  de actividades recreativas y espirituales.
+5. Desarrollo de programas destinados a fomentar la realización de actividades recreativas y espirituales.
 
-- Atención preferente en casos de desastres, conflictos armados y todo tipo de emergencias.
+6. Atención preferente en casos de desastres, conflictos armados y todo tipo de emergencias.
 
-- Creación  de  regímenes  especiales  para  el  cumplimiento  de  medidas privativas de libertad. En caso de condena a pena privativa de libertad, siempre que no se apliquen otras medidas alternativas, cumplirán su sentencia en centros adecuados para el efecto, y en caso de prisión preventiva se someterán a arresto domiciliario.
+7. Creación de regímenes especiales para el cumplimiento de medidas privativas de libertad. En caso de condena a pena privativa de libertad, siempre que no se apliquen otras medidas alternativas, cumplirán su sentencia en centros adecuados para el efecto, y en caso de prisión preventiva se someterán a arresto domiciliario.
 
 31
 
@@ -533,27 +984,27 @@ En particular, el Estado tomará medidas de:
 
 [[START OF PAGE 32]]
 
-- Protección, cuidado y asistencia especial cuando sufran enfermedades crónicas o degenerativas.
+8. Protección, cuidado y asistencia especial cuando sufran enfermedades crónicas o degenerativas.
 
-- Adecuada asistencia económica y psicológica que garantice su estabilidad física y mental.
+9. Adecuada asistencia económica y psicológica que garantice su estabilidad física y mental.
 
 La ley sancionará el abandono de las personas adultas mayores por parte de sus familiares o las instituciones establecidas para su protección.
 
 #### Sección segunda Jóvenes
 
-##### Art. 39.
+##### Art. 39.-
 El Estado garantizará los derechos de las jóvenes y los jóvenes, y promoverá su efectivo ejercicio a través de políticas y programas, instituciones y recursos que aseguren y mantengan de modo permanente su  participación  e  inclusión  en  todos  los  ámbitos,  en  particular  en  los espacios del poder público.
 
 El Estado reconocerá a las jóvenes y los jóvenes como actores estratégicos del  desarrollo  del  país,  y  les  garantizará  la  educación,  salud,  vivienda, recreación,  deporte,  tiempo  libre,  libertad  de  expresión  y  asociación.  El Estado  fomentará  su  incorporación  al  trabajo  en  condiciones  justas  y dignas,  con  énfasis  en  la  capacitación,  la  garantía  de  acceso  al  primer empleo y la promoción de sus habilidades de emprendimiento.
 
 #### Sección tercera Movilidad humana
 
-##### Art. 40.
-Se reconoce a las personas el derecho a migrar. No se identificará ni  se  considerará  a  ningún  ser  humano  como  ilegal  por  su  condición migratoria.
+##### Art. 40.-
+Se reconoce a las personas el derecho a migrar. No se identificará ni se considerará a ningún ser humano como ilegal por su condición migratoria.
 
-El  Estado, a través de las entidades correspondientes, desarrollará entre otras  las  siguientes  acciones  para  el  ejercicio  de  los  derechos  de  las personas ecuatorianas en el exterior, cualquiera sea su condición migratoria:
+El Estado, a través de las entidades correspondientes, desarrollará entre otras las siguientes acciones para el ejercicio de los derechos de las personas ecuatorianas en el exterior, cualquiera sea su condición migratoria:
 
-- Ofrecerá asistencia a ellas y a sus familias, ya sea que éstas residan en el exterior o en el país.
+1. Ofrecerá asistencia a ellas y a sus familias, ya sea que éstas residan en el exterior o en el país.
 
 32
 
@@ -561,24 +1012,24 @@ El  Estado, a través de las entidades correspondientes, desarrollará entre otr
 
 [[START OF PAGE 33]]
 
-- Ofrecerá atención, servicios de asesoría y protección integral para que puedan ejercer libremente sus derechos.
+2. Ofrecerá atención, servicios de asesoría y protección integral para que puedan ejercer libremente sus derechos.
 
-- Precautelará  sus  derechos  cuando,  por  cualquier  razón,  hayan  sido privadas de su libertad en el exterior.
+3. Precautelará sus derechos cuando, por cualquier razón, hayan sido privadas de su libertad en el exterior.
 
-- Promoverá  sus  vínculos  con  el  Ecuador,  facilitará  la  reunificación familiar y estimulará el retorno voluntario.
+4. Promoverá sus vínculos con el Ecuador, facilitará la reunificación familiar y estimulará el retorno voluntario.
 
-- Mantendrá la confidencialidad de los datos de carácter personal que se encuentren en los archivos de las instituciones del Ecuador en el exterior.
+5. Mantendrá la confidencialidad de los datos de carácter personal que se encuentren en los archivos de las instituciones del Ecuador en el exterior.
 
-- Protegerá las familias transnacionales y los derechos de sus miembros.
+6. Protegerá las familias transnacionales y los derechos de sus miembros.
 
-##### Art. 41.
+##### Art. 41.-
 Se reconocen los derechos de asilo y refugio, de acuerdo con la ley y los instrumentos internacionales de derechos humanos. Las personas que se encuentren en condición de asilo o refugio gozarán de protección especial  que  garantice  el  pleno  ejercicio  de  sus  derechos.    El  Estado respetará  y  garantizará  el  principio  de  no  devolución,  además  de  la asistencia humanitaria y jurídica de emergencia.
 
 No  se  aplicará  a  las  personas  solicitantes  de  asilo  o  refugio  sanciones penales por el hecho de su ingreso o de su permanencia en situación de irregularidad.
 
 El Estado, de manera excepcional y cuando las circunstancias lo ameriten, reconocerá a un colectivo el estatuto de refugiado, de acuerdo con la ley.
 
-##### Art.  42.
+##### Art. 42.-
 Se  prohíbe  todo  desplazamiento  arbitrario.  Las  personas  que hayan sido desplazadas tendrán derecho a recibir protección y asistencia humanitaria  emergente  de  las  autoridades,  que  asegure  el  acceso  a alimentos, alojamiento, vivienda y servicios médicos y sanitarios.
 
 Las niñas, niños, adolescentes, mujeres embarazadas, madres con hijas o hijos  menores,  personas  adultas  mayores  y  personas  con  discapacidad recibirán asistencia humanitaria preferente y especializada.
@@ -593,25 +1044,25 @@ Todas las personas y grupos desplazados tienen derecho a retornar a su lugar de 
 
 #### Sección cuarta Mujeres embarazadas
 
-##### Art. 43.
+##### Art. 43.-
 El Estado garantizará a las mujeres embarazadas y en periodo de lactancia los derechos a:
 
-- No  ser  discriminadas  por  su  embarazo  en  los  ámbitos  educativo, social y laboral.
+1. No ser discriminadas por su embarazo en los ámbitos educativo, social y laboral.
 
-- La gratuidad de los servicios de salud materna.
+2. La gratuidad de los servicios de salud materna.
 
-- La protección prioritaria y cuidado de su salud integral y de su vida durante el embarazo, parto y posparto.
+3. La protección prioritaria y cuidado de su salud integral y de su vida durante el embarazo, parto y posparto.
 
-- Disponer de las facilidades necesarias para su recuperación después del embarazo y durante el periodo de lactancia.
+4. Disponer de las facilidades necesarias para su recuperación después del embarazo y durante el periodo de lactancia.
 
 #### Sección quinta Niñas, niños y adolescentes
 
-##### Art.  44.
+##### Art. 44.-
 El  Estado,  la  sociedad  y  la  familia  promoverán  de  forma prioritaria  el  desarrollo  integral  de  las  niñas,  niños  y  adolescentes,  y asegurarán el ejercicio pleno de sus derechos; se atenderá al principio de su  interés  superior  y  sus  derechos  prevalecerán  sobre  los  de  las  demás personas.
 
 Las niñas, niños y adolescentes tendrán derecho a su desarrollo integral, entendido  como  proceso  de  crecimiento,  maduración  y  despliegue  de  su intelecto  y  de  sus  capacidades,  potencialidades  y  aspiraciones,  en  un entorno familiar, escolar, social y comunitario de afectividad y seguridad. Este entorno permitirá la satisfacción de sus necesidades sociales, afectivo-emocionales y culturales, con el apoyo de políticas intersectoriales nacionales y locales.
 
-##### Art.  45.
+##### Art. 45.-
 Las  niñas,  niños  y  adolescentes  gozarán  de  los  derechos comunes del ser humano, además de los específicos de su edad. El Estado reconocerá y garantizará la vida, incluido el cuidado y protección desde la concepción.
 
 Las  niñas,  niños  y  adolescentes  tienen  derecho  a  la  integridad  física  y psíquica;  a  su  identidad,  nombre  y  ciudadanía;  a  la  salud  integral  y nutrición; a la educación y cultura, al deporte y recreación; a la seguridad
@@ -626,20 +1077,20 @@ social;  a  tener  una  familia  y  disfrutar  de  la  convivencia  familiar  y 
 
 El Estado garantizará su libertad de expresión y asociación, el funcionamiento libre de los consejos estudiantiles y  demás  formas asociativas.
 
-##### Art.  46.
-El  Estado  adoptará,  entre  otras,  las  siguientes  medidas  que aseguren a las niñas, niños y adolescentes:
+##### Art. 46.-
+El Estado adoptará, entre otras, las siguientes medidas que aseguren a las niñas, niños y adolescentes:
 
-- Atención a menores de seis años, que garantice su nutrición, salud, educación y cuidado diario en un marco de protección integral de sus derechos.
+1. Atención a menores de seis años, que garantice su nutrición, salud, educación y cuidado diario en un marco de protección integral de sus derechos.
 
-- Protección  especial  contra  cualquier  tipo  de  explotación  laboral  o económica.  Se  prohíbe  el  trabajo  de  menores  de  quince  años,  y  se implementarán políticas de erradicación progresiva del trabajo infantil. El trabajo de las adolescentes y los adolescentes será excepcional, y no  podrá  conculcar  su  derecho  a  la  educación  ni  realizarse  en situaciones  nocivas  o  peligrosas  para  su  salud  o  su  desarrollo personal.  Se  respetará,  reconocerá  y  respaldará  su  trabajo  y  las demás  actividades  siempre  que  no  atenten  a  su  formación  y  a  su desarrollo integral.
+2. Protección especial contra cualquier tipo de explotación laboral o económica. Se prohíbe el trabajo de menores de quince años, y se implementarán políticas de erradicación progresiva del trabajo infantil. El trabajo de las adolescentes y los adolescentes será excepcional, y no podrá conculcar su derecho a la educación ni realizarse en situaciones nocivas o peligrosas para su salud o su desarrollo personal. Se respetará, reconocerá y respaldará su trabajo y las demás actividades siempre que no atenten a su formación y a su desarrollo integral.
 
-- Atención preferente para la plena integración social de quienes tengan discapacidad. El Estado garantizará su incorporación en el sistema de educación regular y en la sociedad.
+3. Atención preferente para la plena integración social de quienes tengan discapacidad. El Estado garantizará su incorporación en el sistema de educación regular y en la sociedad.
 
-- Protección y atención contra todo tipo de violencia, maltrato, explotación sexual o de cualquier otra índole, o contra la negligencia que provoque tales situaciones.
+4. Protección y atención contra todo tipo de violencia, maltrato, explotación sexual o de cualquier otra índole, o contra la negligencia que provoque tales situaciones.
 
-- Prevención  contra  el  uso  de  estupefacientes  o  psicotrópicos  y  el consumo de bebidas alcohólicas y otras sustancias nocivas para su salud y desarrollo.
+5. Prevención contra el uso de estupefacientes o psicotrópicos y el consumo de bebidas alcohólicas y otras sustancias nocivas para su salud y desarrollo.
 
-- Atención prioritaria en caso de desastres, conflictos armados y todo tipo de emergencias.
+6. Atención prioritaria en caso de desastres, conflictos armados y todo tipo de emergencias.
 
 35
 
@@ -647,28 +1098,28 @@ El  Estado  adoptará,  entre  otras,  las  siguientes  medidas  que aseguren a 
 
 [[START OF PAGE 36]]
 
-- Protección frente a la influencia de programas o mensajes, difundidos a  través  de  cualquier  medio,  que  promuevan  la  violencia,  o  la discriminación racial o de género. Las políticas públicas de comunicación priorizarán su educación y el respeto a sus derechos de imagen, integridad y los demás específicos de su edad. Se establecerán  limitaciones  y  sanciones  para  hacer  efectivos  estos derechos.
+7. Protección frente a la influencia de programas o mensajes, difundidos a través de cualquier medio, que promuevan la violencia, o la discriminación racial o de género. Las políticas públicas de comunicación priorizarán su educación y el respeto a sus derechos de imagen, integridad y los demás específicos de su edad. Se establecerán limitaciones y sanciones para hacer efectivos estos derechos.
 
-- Protección y asistencia especiales cuando la progenitora o el progenitor, o ambos, se encuentran privados de su libertad.
+8. Protección y asistencia especiales cuando la progenitora o el progenitor, o ambos, se encuentran privados de su libertad.
 
-- Protección, cuidado y asistencia especial cuando sufran enfermedades crónicas o degenerativas.
+9. Protección, cuidado y asistencia especial cuando sufran enfermedades crónicas o degenerativas.
 
 #### Sección sexta Personas con discapacidad
 
-##### Art. 47.
-El Estado garantizará políticas de prevención de las discapacidades  y,  de  manera  conjunta  con  la  sociedad  y  la  familia, procurará la equiparación de oportunidades  para las personas  con discapacidad y su integración social.
+##### Art. 47.-
+El Estado garantizará políticas de prevención de las discapacidades y, de manera conjunta con la sociedad y la familia, procurará la equiparación de oportunidades para las personas con discapacidad y su integración social.
 
 Se reconoce a las personas con discapacidad, los derechos a:
 
-- La  atención  especializada  en  las  entidades  públicas  y  privadas  que presten  servicios  de  salud  para  sus  necesidades  específicas,  que incluirá la provisión de medicamentos de forma gratuita, en particular para aquellas personas que requieran tratamiento de por vida.
+1. La atención especializada en las entidades públicas y privadas que presten servicios de salud para sus necesidades específicas, que incluirá la provisión de medicamentos de forma gratuita, en particular para aquellas personas que requieran tratamiento de por vida.
 
-- La  rehabilitación  integral  y  la  asistencia  permanente,  que  incluirán las correspondientes ayudas técnicas.
+2. La rehabilitación integral y la asistencia permanente, que incluirán las correspondientes ayudas técnicas.
 
-- Rebajas en los servicios públicos y en servicios privados de transporte y espectáculos.
+3. Rebajas en los servicios públicos y en servicios privados de transporte y espectáculos.
 
-- Exenciones en el régimen tributarlo.
+4. Exenciones en el régimen tributario.
 
-- El trabajo en condiciones de igualdad de oportunidades, que fomente sus capacidades y potencialidades, a través de políticas que permitan su incorporación en entidades públicas y privadas.
+5. El trabajo en condiciones de igualdad de oportunidades, que fomente sus capacidades y potencialidades, a través de políticas que permitan su incorporación en entidades públicas y privadas.
 
 36
 
@@ -676,26 +1127,26 @@ Se reconoce a las personas con discapacidad, los derechos a:
 
 [[START OF PAGE 37]]
 
-- Una  vivienda  adecuada,  con  facilidades  de  acceso  y  condiciones necesarias  para  atender  su  discapacidad  y  para  procurar  el  mayor grado de autonomía en su vida cotidiana. Las personas con discapacidad que no puedan ser atendidas por sus familiares durante el día, o que no tengan donde  residir de forma permanente, dispondrán de centros de acogida para su albergue.
+6. Una vivienda adecuada, con facilidades de acceso y condiciones necesarias para atender su discapacidad y para procurar el mayor grado de autonomía en su vida cotidiana. Las personas con discapacidad que no puedan ser atendidas por sus familiares durante el día, o que no tengan donde residir de forma permanente, dispondrán de centros de acogida para su albergue.
 
-- Una educación que desarrolle sus potencialidades y habilidades para su integración y participación en igualdad de condiciones. Se garantizará su educación dentro de la educación regular. Los planteles regulares incorporarán trato diferenciado y los de atención especial  la  educación  especializada.  Los  establecimientos  educativos cumplirán normas de accesibilidad para personas con discapacidad e implementarán un sistema de becas que responda a las condiciones económicas de este grupo.
+7. Una educación que desarrolle sus potencialidades y habilidades para su integración y participación en igualdad de condiciones. Se garantizará su educación dentro de la educación regular. Los planteles regulares incorporarán trato diferenciado y los de atención especial la educación especializada. Los establecimientos educativos cumplirán normas de accesibilidad para personas con discapacidad e implementarán un sistema de becas que responda a las condiciones económicas de este grupo.
 
-- La  educación  especializada  para  las  personas  con  discapacidad intelectual y el fomento de sus capacidades mediante la creación de centros educativos y programas de enseñanza específicos.
+8. La educación especializada para las personas con discapacidad intelectual y el fomento de sus capacidades mediante la creación de centros educativos y programas de enseñanza específicos.
 
-- La atención psicológica gratuita para las personas con discapacidad y sus familias, en particular en caso de discapacidad intelectual.
+9. La atención psicológica gratuita para las personas con discapacidad y sus familias, en particular en caso de discapacidad intelectual.
 
-- El  acceso  de  manera  adecuada  a  todos  los  bienes  y  servicios.  Se eliminarán las barreras arquitectónicas.
+10. El acceso de manera adecuada a todos los bienes y servicios. Se eliminarán las barreras arquitectónicas.
 
-- El acceso a mecanismos, medios y formas alternativas de comunicación, entre ellos el lenguaje de señas para personas sordas, el oralismo y el sistema braille.
+11. El acceso a mecanismos, medios y formas alternativas de comunicación, entre ellos el lenguaje de señas para personas sordas, el oralismo y el sistema braille.
 
-##### Art.  48.
-El  Estado  adoptará  a  favor  de  las  personas  con  discapacidad medidas que aseguren:
+##### Art. 48.-
+El Estado adoptará a favor de las personas con discapacidad medidas que aseguren:
 
-- La inclusión social, mediante planes y programas estatales y privados coordinados, que fomenten su participación política, social, cultural, educativa y económica.
+1. La inclusión social, mediante planes y programas estatales y privados coordinados, que fomenten su participación política, social, cultural, educativa y económica.
 
-- La obtención de créditos y rebajas o exoneraciones tributarias que les permita iniciar y mantener actividades productivas, y la obtención de becas de estudio en todos los niveles de educación.
+2. La obtención de créditos y rebajas o exoneraciones tributarias que les permita iniciar y mantener actividades productivas, y la obtención de becas de estudio en todos los niveles de educación.
 
-- El  desarrollo  de  programas  y  políticas  dirigidas  a  fomentar  su esparcimiento y descanso.
+3. El desarrollo de programas y políticas dirigidas a fomentar su esparcimiento y descanso.
 
 37
 
@@ -703,32 +1154,32 @@ El  Estado  adoptará  a  favor  de  las  personas  con  discapacidad medidas qu
 
 [[START OF PAGE 38]]
 
-- La participación política, que asegurará su representación, de acuerdo con la ley.
+4. La participación política, que asegurará su representación, de acuerdo con la ley.
 
-- El  establecimiento  de  programas  especializados  para  la  atención integral de las personas con discapacidad severa y profunda, con el fin  de  alcanzar el máximo desarrollo de su personalidad, el fomento de su autonomía y la disminución de la dependencia.
+5. El establecimiento de programas especializados para la atención integral de las personas con discapacidad severa y profunda, con el fin de alcanzar el máximo desarrollo de su personalidad, el fomento de su autonomía y la disminución de la dependencia.
 
-- El  incentivo  y  apoyo  para  proyectos  productivos  a  favor  de  los familiares de las personas con discapacidad severa.
+6. El incentivo y apoyo para proyectos productivos a favor de los familiares de las personas con discapacidad severa.
 
-- La  garantía  del  pleno  ejercicio  de  los  derechos  de  las  personas  con discapacidad. La ley sancionará el abandono de estas personas, y los actos  que  incurran  en  cualquier  forma  de  abuso,  trato  inhumano  o degradante y discriminación por razón de la discapacidad.
+7. La garantía del pleno ejercicio de los derechos de las personas con discapacidad. La ley sancionará el abandono de estas personas, y los actos que incurran en cualquier forma de abuso, trato inhumano o degradante y discriminación por razón de la discapacidad.
 
-##### Art. 49.
+##### Art. 49.-
 Las personas  y  las familias  que  cuiden  a  personas  con discapacidad  que  requieran  atención  permanente  serán  cubiertas  por  la Seguridad Social y recibirán capacitación periódica para mejorar la calidad de la atención.
 
 #### Sección séptima Personas con enfermedades catastróficas
 
-##### Art. 50.
+##### Art. 50.-
 El Estado garantizará a toda persona que sufra de enfermedades catastróficas o de alta complejidad el derecho a la atención especializada y gratuita en todos los niveles, de manera oportuna y preferente.
 
 #### Sección octava Personas privadas de libertad
 
-##### Art. 51.
+##### Art. 51.-
 Se reconoce a las personas privadas de la libertad los siguientes derechos:
 
-- No ser sometidas a aislamiento como sanción disciplinaria.
+1. No ser sometidas a aislamiento como sanción disciplinaria.
 
-- La comunicación y visita de sus familiares y profesionales del derecho.
+2. La comunicación y visita de sus familiares y profesionales del derecho.
 
-- Declarar ante una autoridad judicial sobre el trato que haya recibido durante la privación de la libertad.
+3. Declarar ante una autoridad judicial sobre el trato que haya recibido durante la privación de la libertad.
 
 38
 
@@ -736,28 +1187,28 @@ Se reconoce a las personas privadas de la libertad los siguientes derechos:
 
 [[START OF PAGE 39]]
 
-- Contar  con  los  recursos  humanos  y  materiales  necesarios  para garantizar su salud integral en los centros de privación de libertad.
+4. Contar con los recursos humanos y materiales necesarios para garantizar su salud integral en los centros de privación de libertad.
 
-- La  atención  de  sus  necesidades  educativas,  laborales,  productivas, culturales, alimenticias y recreativas.
+5. La atención de sus necesidades educativas, laborales, productivas, culturales, alimenticias y recreativas.
 
-- Recibir  un  tratamiento  preferente  y  especializado  en  el  caso  de  las mujeres embarazadas y en periodo de lactancia, adolescentes, y las personas adultas mayores, enfermas o con discapacidad.
+6. Recibir un tratamiento preferente y especializado en el caso de las mujeres embarazadas y en periodo de lactancia, adolescentes, y las personas adultas mayores, enfermas o con discapacidad.
 
-- Contar con medidas de protección para las niñas, niños, adolescentes, personas  con  discapacidad  y  personas  adultas  mayores  que  estén bajo su cuidado y dependencia.
+7. Contar con medidas de protección para las niñas, niños, adolescentes, personas con discapacidad y personas adultas mayores que estén bajo su cuidado y dependencia.
 
 #### Sección novena Personas usuarias y consumidoras
 
-##### Art. 52.
+##### Art. 52.-
 Las personas tienen derecho a disponer de bienes y servicios de óptima  calidad  y  a  elegirlos  con  libertad,  así  como  a  una  información precisa y no engañosa sobre su contenido y características.
 
 La ley establecerá los mecanismos de control de calidad y los procedimientos  de  defensa  de  las  consumidoras  y  consumidores;  y  las sanciones por vulneración de estos derechos, la reparación e indemnización por deficiencias, daños o mala calidad de bienes y servicios, y por la interrupción de los servicios públicos que no fuera ocasionada por caso fortuito o fuerza mayor.
 
-##### Art. 53.
+##### Art. 53.-
 Las empresas, instituciones y organismos que presten servicios públicos deberán incorporar sistemas de medición de satisfacción de las personas  usuarias  y  consumidoras,  y  poner  en  práctica  sistemas  de atención y reparación.
 
 El Estado responderá civilmente por los daños y perjuicios causados a las personas  por  negligencia  y  descuido  en  la  atención  de  los  servicios públicos  que  estén  a  su  cargo,  y  por  la  carencia  de  servicios  que  hayan sido pagados.
 
-##### Art.  54.
-Las  personas  o  entidades  que  presten  servicios  públicos  o  que produzcan o comercialicen bienes de consumo, serán responsables civil y penalmente  por  la  deficiente prestación del servicio, por la calidad defectuosa  del  producto,  o  cuando  sus  condiciones  no  estén  de  acuerdo con la publicidad efectuada o con la descripción que incorpore.
+##### Art. 54.-
+Las personas o entidades que presten servicios públicos o que produzcan o comercialicen bienes de consumo, serán responsables civil y penalmente por la deficiente prestación del servicio, por la calidad
 
 39
 
@@ -765,9 +1216,11 @@ Las  personas  o  entidades  que  presten  servicios  públicos  o  que produzca
 
 [[START OF PAGE 40]]
 
-Las personas serán responsables por la mala práctica en el ejercicio de su profesión,  arte  u  oficio,  en  especial  aquella  que  ponga  en  riesgo  la integridad o la vida de las personas.
+defectuosa del producto, o cuando sus condiciones no estén de acuerdo con la publicidad efectuada o con la descripción que incorpore.
 
-##### Art. 55.
+Las personas serán responsables por la mala práctica en el ejercicio de su profesión, arte u oficio, en especial aquella que ponga en riesgo la integridad o la vida de las personas.
+
+##### Art. 55.-
 Las personas  usuarias y consumidoras  podrán  constituir asociaciones que promuevan  la  información y educación sobre sus derechos, y las representen y defiendan ante las autoridades judiciales o administrativas.
 
 Para el ejercicio de este u otros derechos, nadie será obligado a asociarse.
@@ -780,25 +1233,25 @@ Para el ejercicio de este u otros derechos, nadie será obligado a asociarse.
 
 ### Capítulo cuarto Derechos de las comunidades, pueblos y nacionalidades
 
-##### Art. 56.
+##### Art. 56.-
 Las comunidades, pueblos, y nacionalidades indígenas, el pueblo afroecuatoriano,  el  pueblo  montubio  y  las  comunas  forman  parte  del Estado ecuatoriano, único e indivisible.
 
-##### Art. 57.
+##### Art. 57.-
 Se reconoce y garantizará a las comunas, comunidades, pueblos y nacionalidades indígenas, de conformidad con la Constitución y con los pactos, convenios, declaraciones y demás instrumentos internacionales de derechos humanos, los siguientes derechos colectivos:
 
-- Mantener, desarrollar y fortalecer libremente su identidad, sentido de pertenencia, tradiciones ancestrales y formas de organización social.
+1. Mantener, desarrollar y fortalecer libremente su identidad, sentido de pertenencia, tradiciones ancestrales y formas de organización social.
 
-- No  ser  objeto  de  racismo  y  de  ninguna  forma  de  discriminación fundada en su origen, identidad étnica o cultural.
+2. No ser objeto de racismo y de ninguna forma de discriminación fundada en su origen, identidad étnica o cultural.
 
-- El  reconocimiento,  reparación  y  resarcimiento  a  las  colectividades afectadas por racismo, xenofobia y otras formas conexas de intolerancia y discriminación.
+3. El reconocimiento, reparación y resarcimiento a las colectividades afectadas por racismo, xenofobia y otras formas conexas de intolerancia y discriminación.
 
-- Conservar  la  propiedad  imprescriptible  de  sus  tierras  comunitarias, que  serán  inalienables,  inembargables  e  indivisibles.  Estas  tierras estarán exentas del pago de tasas e impuestos.
+4. Conservar la propiedad imprescriptible de sus tierras comunitarias, que serán inalienables, inembargables e indivisibles. Estas tierras estarán exentas del pago de tasas e impuestos.
 
-- Mantener la posesión de las tierras y territorios ancestrales y obtener su adjudicación gratuita.
+5. Mantener la posesión de las tierras y territorios ancestrales y obtener su adjudicación gratuita.
 
-- Participar en el uso, usufructo, administración y conservación de los recursos naturales renovables que se hallen en sus tierras.
+6. Participar en el uso, usufructo, administración y conservación de los recursos naturales renovables que se hallen en sus tierras.
 
-- La consulta previa, libre e informada, dentro de un plazo razonable, sobre planes y programas de prospección, explotación y comercialización de recursos no renovables que se encuentren en sus tierras y que puedan afectarles ambiental o culturalmente; participar en los beneficios que esos proyectos reporten y recibir indemnizaciones por los perjuicios sociales, culturales y ambientales que  les  causen.  La  consulta  que  deban  realizar  las  autoridades competentes  será  obligatoria  y  oportuna.  Si  no  se  obtuviese  el consentimiento de la comunidad consultada, se procederá conforme a la Constitución y la ley.
+7. La consulta previa, libre e informada, dentro de un plazo razonable, sobre planes y programas de prospección, explotación y comercialización de recursos no renovables que se encuentren en sus tierras y que puedan afectarles ambiental o culturalmente; participar en los beneficios que esos proyectos reporten y recibir indemnizaciones por los perjuicios sociales, culturales y ambientales que les causen. La consulta que deban realizar las autoridades competentes será obligatoria y oportuna. Si no se obtuviese el consentimiento de la comunidad consultada, se procederá conforme a la Constitución y la ley.
 
 41
 
@@ -806,21 +1259,21 @@ Se reconoce y garantizará a las comunas, comunidades, pueblos y nacionalidades 
 
 [[START OF PAGE 42]]
 
-- Conservar y promover sus prácticas de manejo de la biodiversidad y de su entorno natural. El Estado establecerá y ejecutará programas, con la participación de la comunidad, para asegurar la conservación y utilización sustentable de la biodiversidad.
+8. Conservar y promover sus prácticas de manejo de la biodiversidad y de su entorno natural. El Estado establecerá y ejecutará programas, con la participación de la comunidad, para asegurar la conservación y utilización sustentable de la biodiversidad.
 
-- Conservar y desarrollar sus propias formas de convivencia y organización social, y de generación y ejercicio de la autoridad, en sus territorios legalmente reconocidos y tierras comunitarias de posesión ancestral.
+9. Conservar y desarrollar sus propias formas de convivencia y organización social, y de generación y ejercicio de la autoridad, en sus territorios legalmente reconocidos y tierras comunitarias de posesión ancestral.
 
-- Crear, desarrollar, aplicar y practicar su derecho propio o consuetudinario, que no podrá vulnerar derechos constitucionales, en particular de las mujeres, niñas, niños y adolescentes.
+10. Crear, desarrollar, aplicar y practicar su derecho propio o consuetudinario, que no podrá vulnerar derechos constitucionales, en particular de las mujeres, niñas, niños y adolescentes.
 
-- No ser desplazados de sus tierras ancestrales.
+11. No ser desplazados de sus tierras ancestrales.
 
-- Mantener,  proteger  y  desarrollar  los  conocimientos  colectivos;  sus ciencias, tecnologías y saberes ancestrales; los recursos genéticos que contienen la diversidad biológica y la agrobiodiversidad; sus medicinas  y  prácticas  de  medicina  tradicional,  con  inclusión  del derecho  a  recuperar,  promover  y  proteger  los  lugares  rituales  y sagrados, así como plantas, animales, minerales y ecosistemas dentro de sus territorios; y el conocimiento de los recursos y propiedades de la fauna y la flora.
+12. Mantener, proteger y desarrollar los conocimientos colectivos; sus ciencias, tecnologías y saberes ancestrales; los recursos genéticos que contienen la diversidad biológica y la agrobiodiversidad; sus medicinas y prácticas de medicina tradicional, con inclusión del derecho a recuperar, promover y proteger los lugares rituales y sagrados, así como plantas, animales, minerales y ecosistemas dentro de sus territorios; y el conocimiento de los recursos y propiedades de la fauna y la flora.
 
 Se  prohíbe  toda  forma  de  apropiación  sobre  sus  conocimientos, innovaciones y prácticas.
 
-- Mantener, recuperar, proteger, desarrollar y preservar su patrimonio cultural e histórico como parte indivisible del patrimonio del Ecuador. El Estado proveerá los recursos para el efecto.
+13. Mantener, recuperar, proteger, desarrollar y preservar su patrimonio cultural e histórico como parte indivisible del patrimonio del Ecuador. El Estado proveerá los recursos para el efecto.
 
-- Desarrollar, fortalecer y potenciar el sistema de educación intercultural bilingüe, con criterios de calidad, desde la estimulación temprana hasta el nivel superior, conforme a la diversidad cultural, para el cuidado y preservación de las identidades en consonancia con sus metodologías de enseñanza y aprendizaje.
+14. Desarrollar, fortalecer y potenciar el sistema de educación intercultural bilingüe, con criterios de calidad, desde la estimulación temprana hasta el nivel superior, conforme a la diversidad cultural, para el cuidado y preservación de las identidades en consonancia con sus metodologías de enseñanza y aprendizaje.
 
 Se garantizará una carrera docente digna. La administración de este sistema  será  colectiva  y  participativa,  con  alternancia  temporal  y espacial, basada en veeduría comunitaria y rendición de cuentas.
 
@@ -830,21 +1283,21 @@ Se garantizará una carrera docente digna. La administración de este sistema  s
 
 [[START OF PAGE 43]]
 
-- Construir y mantener organizaciones que los representen, en el marco del respeto  al pluralismo  y  a  la diversidad  cultural, política y organizativa. El Estado reconocerá y promoverá todas sus formas de expresión y organización.
+15. Construir y mantener organizaciones que los representen, en el marco del respeto al pluralismo y a la diversidad cultural, política y organizativa. El Estado reconocerá y promoverá todas sus formas de expresión y organización.
 
-- Participar  mediante  sus  representantes  en  los  organismos  oficiales que determine la ley, en la definición de las políticas públicas que les conciernan, así como en el diseño y decisión de sus prioridades en los planes y proyectos del Estado.
+16. Participar mediante sus representantes en los organismos oficiales que determine la ley, en la definición de las políticas públicas que les conciernan, así como en el diseño y decisión de sus prioridades en los planes y proyectos del Estado.
 
-- Ser consultados antes de la adopción de una medida legislativa que pueda afectar cualquiera de sus derechos colectivos.
+17. Ser consultados antes de la adopción de una medida legislativa que pueda afectar cualquiera de sus derechos colectivos.
 
-- Mantener y desarrollar los contactos, las relaciones y la cooperación con otros pueblos, en particular los que estén divididos por fronteras internacionales.
+18. Mantener y desarrollar los contactos, las relaciones y la cooperación con otros pueblos, en particular los que estén divididos por fronteras internacionales.
 
-- Impulsar el uso de las vestimentas, los símbolos y los emblemas que los identifiquen.
+19. Impulsar el uso de las vestimentas, los símbolos y los emblemas que los identifiquen.
 
-- La  limitación  de  las  actividades  militares  en  sus  territorios,  de acuerdo con la ley.
+20. La limitación de las actividades militares en sus territorios, de acuerdo con la ley.
 
-- Que la dignidad y diversidad de sus culturas, tradiciones, historias y aspiraciones  se  reflejen  en  la  educación  pública  y  en  los  medios  de comunicación;  la  creación  de  sus  propios  medios  de  comunicación social  en  sus  idiomas  y  el  acceso  a  los  demás  sin  discriminación alguna.
+21. Que la dignidad y diversidad de sus culturas, tradiciones, historias y aspiraciones se reflejen en la educación pública y en los medios de comunicación; la creación de sus propios medios de comunicación social en sus idiomas y el acceso a los demás sin discriminación alguna.
 
-L os territorios  de  los  pueblos  en  aislamiento  voluntario  son  de  posesión ancestral  irreductible  e  intangible,  y  en  ellos  estará  vedada  todo  tipo  de actividad extractiva. El Estado adoptará medidas para garantizar sus vidas, hacer respetar su autodeterminación  y  voluntad  de  permanecer  en aislamiento, y precautelar la observancia de sus derechos. La violación de estos derechos constituirá delito de etnocidio, que será tipificado por la ley.
+Los territorios de los pueblos en aislamiento voluntario son de posesión ancestral irreductible e intangible, y en ellos estará vedada todo tipo de actividad extractiva. El Estado adoptará medidas para garantizar sus vidas, hacer respetar su autodeterminación y voluntad de permanecer en aislamiento, y precautelar la observancia de sus derechos. La violación de estos derechos constituirá delito de etnocidio, que será tipificado por la ley.
 
 El  Estado  garantizará  la  aplicación  de  estos  derechos  colectivos  sin discriminación alguna, en condiciones de igualdad y equidad  entre mujeres y hombres.
 
@@ -854,13 +1307,13 @@ El  Estado  garantizará  la  aplicación  de  estos  derechos  colectivos  sin 
 
 [[START OF PAGE 44]]
 
-##### Art. 58.
+##### Art. 58.-
 Para fortalecer su identidad, cultura, tradiciones y derechos, se reconocen  al  pueblo  afroecuatoriano  los  derechos  colectivos  establecidos en la Constitución, la ley y los pactos, convenios, declaraciones y demás instrumentos internacionales de derechos humanos.
 
-##### Art.  59.
+##### Art. 59.-
 Se  reconocen los derechos colectivos de los pueblos montubios para garantizar  su  proceso  de  desarrollo  humano  integral,  sustentable  y sostenible,  las  políticas  y  estrategias  para  su  progreso  y  sus  formas  de administración  asociativa,  a  partir  del  conocimiento  de  su  realidad  y  el respeto a su cultura, identidad y visión propia, de acuerdo con la ley.
 
-##### Art. 60.
+##### Art. 60.-
 Los pueblos ancestrales, indígenas, afroecuatorianos y montubios podrán constituir circunscripciones territoriales para la preservación de su cultura. La ley regulará su conformación.
 
 Se  reconoce  a  las  comunas  que  tienen  propiedad  colectiva  de  la  tierra, como una forma ancestral de organización territorial.
@@ -873,33 +1326,33 @@ Se  reconoce  a  las  comunas  que  tienen  propiedad  colectiva  de  la  tierra
 
 ### Capítulo quinto Derechos de participación
 
-##### Art. 61.
+##### Art. 61.-
 Las ecuatorianas y ecuatorianos gozan de los siguientes derechos:
 
-- Elegir y ser elegidos.
+1. Elegir y ser elegidos.
 
-- Participar en los asuntos de interés público.
+2. Participar en los asuntos de interés público.
 
-- Presentar proyectos de iniciativa popular normativa.
+3. Presentar proyectos de iniciativa popular normativa.
 
-- Ser consultados.
+4. Ser consultados.
 
-- Fiscalizar los actos del poder público.
+5. Fiscalizar los actos del poder público.
 
-- Revocar el mandato que hayan conferido a las autoridades de elección popular.
+6. Revocar el mandato que hayan conferido a las autoridades de elección popular.
 
-- Desempeñar  empleos  y  funciones  públicas  con  base  en  méritos  y capacidades, y en un sistema de selección y designación transparente, incluyente,  equitativo,  pluralista  y  democrático,  que  garantice  su participación, con criterios de equidad y paridad de género, igualdad de oportunidades para las personas con discapacidad y participación intergeneracional.
+7. Desempeñar empleos y funciones públicas con base en méritos y capacidades, y en un sistema de selección y designación transparente, incluyente, equitativo, pluralista y democrático, que garantice su participación, con criterios de equidad y paridad de género, igualdad de oportunidades para las personas con discapacidad y participación intergeneracional.
 
-- Conformar  partidos  y  movimientos  políticos,  afiliarse  o  desafiliarse libremente  de  ellos  y  participar  en  todas  las  decisiones  que  éstos adopten.
+8. Conformar partidos y movimientos políticos, afiliarse o desafiliarse libremente de ellos y participar en todas las decisiones que éstos adopten.
 
 Las  personas  extranjeras  gozarán  de  estos  derechos  en  lo  que  les  sea aplicable.
 
-##### Art. 62.
+##### Art. 62.-
 Las personas en goce de derechos políticos tienen derecho al voto universal, igual, directo, secreto y escrutado públicamente, de conformidad con las siguientes disposiciones:
 
-- El voto será obligatorio para las personas mayores de dieciocho años. Ejercerán  su  derecho  al  voto  las  personas  privadas  de  libertad  sin sentencia condenatoria ejecutoriada.
+1. El voto será obligatorio para las personas mayores de dieciocho años. Ejercerán su derecho al voto las personas privadas de libertad sin sentencia condenatoria ejecutoriada.
 
-- El voto será facultativo para las personas entre dieciséis y dieciocho años de edad, las mayores de sesenta y cinco años, las ecuatorianas y
+2. El voto será facultativo para las personas entre dieciséis y dieciocho años de edad, las mayores de sesenta y cinco años, las ecuatorianas y
 
 45
 
@@ -909,19 +1362,19 @@ Las personas en goce de derechos políticos tienen derecho al voto universal, ig
 
 ecuatorianos que habitan en el exterior, los integrantes de las Fuerzas Armadas y Policía Nacional, y las personas con discapacidad.
 
-##### Art. 63.
+##### Art. 63.-
 Las ecuatorianas y ecuatorianos en el exterior tienen derecho a elegir a la Presidenta o Presidente y a la Vicepresidenta o Vicepresidente de la República, representantes nacionales y de la circunscripción del exterior; y podrán ser elegidos para cualquier cargo.
 
 Las personas extranjeras residentes en el Ecuador tienen derecho al voto siempre que hayan residido legalmente en el país al menos cinco años.
 
-##### Art. 64.
+##### Art. 64.-
 El goce de los derechos políticos se suspenderá, además de los casos que determine la ley, por las razones siguientes:
 
-- Interdicción judicial, mientras ésta subsista, salvo en caso de insolvencia o quiebra que no haya sido declarada fraudulenta.
+1. Interdicción judicial, mientras ésta subsista, salvo en caso de insolvencia o quiebra que no haya sido declarada fraudulenta.
 
-- Sentencia  ejecutoriada  que  condene  a  pena  privativa  de  libertad, mientras ésta subsista.
+2. Sentencia ejecutoriada que condene a pena privativa de libertad, mientras ésta subsista.
 
-##### Art.  65.
+##### Art. 65.-
 El  Estado  promoverá  la  representación  paritaria  de  mujeres  y hombres en los cargos de nominación o designación de la función pública, en sus instancias de dirección y decisión, y en los partidos y movimientos políticos. En las candidaturas a las elecciones pluripersonales se respetará su participación alternada y secuencial.
 
 El  Estado  adoptará  medidas  de  acción  afirmativa  para  garantizar  la participación de los sectores discriminados.
@@ -934,30 +1387,30 @@ El  Estado  adoptará  medidas  de  acción  afirmativa  para  garantizar  la pa
 
 ### Capítulo sexto Derechos de libertad
 
-##### Art. 66.
+##### Art. 66.-
 Se reconoce y garantizará a las personas:
 
-- El derecho a la inviolabilidad de la vida. No habrá pena de muerte.
+1. El derecho a la inviolabilidad de la vida. No habrá pena de muerte.
 
-- El  derecho  a  una  vida  digna,  que  asegure  la  salud,  alimentación  y nutrición, agua potable, vivienda, saneamiento ambiental, educación, trabajo,  empleo,  descanso  y  ocio,  cultura  física,  vestido,  seguridad social y otros servicios sociales necesarios.
+2. El derecho a una vida digna, que asegure la salud, alimentación y nutrición, agua potable, vivienda, saneamiento ambiental, educación, trabajo, empleo, descanso y ocio, cultura física, vestido, seguridad social y otros servicios sociales necesarios.
 
-- El derecho a la integridad personal, que incluye:
+3. El derecho a la integridad personal, que incluye:
 
-- La integridad física, psíquica, moral y sexual.
+a) La integridad física, psíquica, moral y sexual.
 
-- Una  vida  libre  de  violencia  en  el  ámbito  público  y  privado.  El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda forma de violencia, en especial la ejercida contra las mujeres,  niñas,  niños  y  adolescentes,  personas  adultas  mayores, personas con discapacidad y contra toda persona en situación de desventaja o vulnerabilidad; idénticas medidas se tomarán contra la violencia, la esclavitud y la explotación sexual.
+b) Una vida libre de violencia en el ámbito público y privado. El Estado adoptará las medidas necesarias para prevenir, eliminar y sancionar toda forma de violencia, en especial la ejercida contra las mujeres, niñas, niños y adolescentes, personas adultas mayores, personas con discapacidad y contra toda persona en situación de desventaja o vulnerabilidad; idénticas medidas se tomarán contra la violencia, la esclavitud y la explotación sexual.
 
-- La prohibición de la tortura, la desaparición forzada y los tratos y penas crueles, inhumanos o degradantes.
+c) La prohibición de la tortura, la desaparición forzada y los tratos y penas crueles, inhumanos o degradantes.
 
-- La  prohibición  del  uso  de  material  genético  y  la  experimentación científica que atenten contra los derechos humanos.
+d) La prohibición del uso de material genético y la experimentación científica que atenten contra los derechos humanos.
 
-- Derecho a la igualdad formal, igualdad material y no discriminación.
+4. Derecho a la igualdad formal, igualdad material y no discriminación.
 
-- El derecho al libre desarrollo de la personalidad, sin más limitaciones que los derechos de los demás.
+5. El derecho al libre desarrollo de la personalidad, sin más limitaciones que los derechos de los demás.
 
-- El derecho a opinar y expresar su pensamiento libremente y en todas sus formas y manifestaciones.
+6. El derecho a opinar y expresar su pensamiento libremente y en todas sus formas y manifestaciones.
 
-- El derecho de toda persona agraviada por informaciones sin pruebas o  inexactas,  emitidas  por  medios  de  comunicación  social,  a  la correspondiente rectificación, réplica o respuesta, en forma inmediata, obligatoria y gratuita, en el mismo espacio u horario.
+7. El derecho de toda persona agraviada por informaciones sin pruebas o inexactas, emitidas por medios de comunicación social, a la correspondiente rectificación, réplica o respuesta, en forma inmediata, obligatoria y gratuita, en el mismo espacio u horario.
 
 47
 
@@ -965,25 +1418,25 @@ Se reconoce y garantizará a las personas:
 
 [[START OF PAGE 48]]
 
-- El derecho a practicar, conservar, cambiar, profesar en público o en privado,  su  religión  o  sus  creencias,  y  a  difundirlas  individual  o colectivamente,  con  las  restricciones  que  impone  el  respeto  a  los derechos.
+8. El derecho a practicar, conservar, cambiar, profesar en público o en privado, su religión o sus creencias, y a difundirlas individual o colectivamente, con las restricciones que impone el respeto a los derechos.
 
 El  Estado  protegerá  la  práctica  religiosa  voluntaria,  así  como  la expresión  de  quienes  no  profesan  religión  alguna,  y  favorecerá  un ambiente de pluralidad y tolerancia.
 
-- El  derecho  a  tomar  decisiones  libres,  informadas,  voluntarias  y responsables sobre su sexualidad, y su vida y orientación sexual. El Estado promoverá el acceso a los medios necesarios para que estas decisiones se den en condiciones seguras.
+9. El derecho a tomar decisiones libres, informadas, voluntarias y responsables sobre su sexualidad, y su vida y orientación sexual. El Estado promoverá el acceso a los medios necesarios para que estas decisiones se den en condiciones seguras.
 
-- El derecho a tomar decisiones libres, responsables e informadas sobre su  salud  y  vida  reproductiva  y  a  decidir  cuándo  y  cuántas  hijas  e hijos tener.
+10. El derecho a tomar decisiones libres, responsables e informadas sobre su salud y vida reproductiva y a decidir cuándo y cuántas hijas e hijos tener.
 
-- El derecho a guardar reserva sobre sus convicciones. Nadie podrá ser obligado a declarar sobre las mismas. En ningún caso se podrá exigir o utilizar sin autorización del titular o de sus legítimos representantes, la  información personal o de terceros sobre sus creencias religiosas, filiación o pensamiento político; ni sobre datos referentes a su salud y vida sexual, salvo por necesidades de atención médica.
+11. El derecho a guardar reserva sobre sus convicciones. Nadie podrá ser obligado a declarar sobre las mismas. En ningún caso se podrá exigir o utilizar sin autorización del titular o de sus legítimos representantes, la información personal o de terceros sobre sus creencias religiosas, filiación o pensamiento político; ni sobre datos referentes a su salud y vida sexual, salvo por necesidades de atención médica.
 
-- El  derecho  a  la  objeción  de  conciencia,  que  no  podrá  menoscabar otros derechos, ni causar daño a las personas o a la naturaleza.
+12. El derecho a la objeción de conciencia, que no podrá menoscabar otros derechos, ni causar daño a las personas o a la naturaleza.
 
 Toda  persona  tiene  derecho  a  negarse  a  usar  la  violencia  y  a participar en el servicio militar.
 
-- El  derecho  a  asociarse,  reunirse  y  manifestarse  en  forma  libre  y voluntaria.
+13. El derecho a asociarse, reunirse y manifestarse en forma libre y voluntaria.
 
-- EI derecho a transitar libremente por el territorio nacional y a escoger su  residencia,  así  como  a  entrar  y  salir  libremente  del  país,  cuyo ejercicio se regulará de acuerdo con la ley. La prohibición de salir del país sólo podrá ser ordenada por juez competente.
+14. El derecho a transitar libremente por el territorio nacional y a escoger su residencia, así como a entrar y salir libremente del país, cuyo ejercicio se regulará de acuerdo con la ley. La prohibición de salir del país sólo podrá ser ordenada por juez competente.
 
-Las personas extranjeras no podrán ser devueltas o expulsadas a un país  donde  su  vida,  libertad,  seguridad  o  integridad  o  la  de  sus familiares  peligren  por  causa  de  su  etnia,  religión,  nacionalidad,
+Las personas extranjeras no podrán ser devueltas o expulsadas a un país donde su vida, libertad, seguridad o integridad o la de sus familiares peligren por causa de su etnia, religión, nacionalidad,
 
 48
 
@@ -991,29 +1444,29 @@ Las personas extranjeras no podrán ser devueltas o expulsadas a un país  donde
 
 [[START OF PAGE 49]]
 
-- ideología, pertenencia a determinado grupo social, o por sus opiniones políticas.
+ideología, pertenencia a determinado grupo social, o por sus opiniones políticas.
 
-- Se  prohíbe  la  expulsión  de  colectivos  de  extranjeros.    Los  procesos migratorios deberán ser singularizados.
+Se prohíbe la expulsión de colectivos de extranjeros. Los procesos migratorios deberán ser singularizados.
 
-- El derecho a desarrollar actividades económicas, en forma individual o colectiva, conforme a los principios de solidaridad, responsabilidad social y ambiental.
+15. El derecho a desarrollar actividades económicas, en forma individual o colectiva, conforme a los principios de solidaridad, responsabilidad social y ambiental.
 
-- El derecho a la libertad de contratación.
+16. El derecho a la libertad de contratación.
 
-- EI derecho a la libertad de trabajo. Nadie será obligado a realizar un trabajo gratuito o forzoso, salvo los casos que determine la ley.
+17. El derecho a la libertad de trabajo. Nadie será obligado a realizar un trabajo gratuito o forzoso, salvo los casos que determine la ley.
 
-- El derecho al honor y al buen nombre. La ley protegerá la imagen y la voz de la persona.
+18. El derecho al honor y al buen nombre. La ley protegerá la imagen y la voz de la persona.
 
-- El derecho a la protección de datos de carácter personal, que incluye el acceso y la decisión sobre información y datos de este carácter, así como su correspondiente protección. La recolección, archivo, procesamiento, distribución o difusión de estos datos o información requerirán la autorización del titular o el mandato de la ley.
+19. El derecho a la protección de datos de carácter personal, que incluye el acceso y la decisión sobre información y datos de este carácter, así como su correspondiente protección. La recolección, archivo, procesamiento, distribución o difusión de estos datos o información requerirán la autorización del titular o el mandato de la ley.
 
-- El derecho a la intimidad personal y familiar.
+20. El derecho a la intimidad personal y familiar.
 
-- El derecho a la inviolabilidad y al secreto de la correspondencia física y virtual; ésta no podrá ser retenida, abierta ni examinada, excepto en los  casos  previstos  en  la  ley,  previa  intervención  judicial  y  con  la obligación de guardar el secreto de los asuntos ajenos al hecho que motive su examen. Este derecho protege cualquier otro tipo o forma de comunicación.
+21. El derecho a la inviolabilidad y al secreto de la correspondencia física y virtual; ésta no podrá ser retenida, abierta ni examinada, excepto en los casos previstos en la ley, previa intervención judicial y con la obligación de guardar el secreto de los asuntos ajenos al hecho que motive su examen. Este derecho protege cualquier otro tipo o forma de comunicación.
 
-- El derecho a la inviolabilidad de domicilio. No se podrá ingresar en el domicilio de una persona, ni realizar inspecciones o registros sin su autorización o sin orden judicial, salvo delito flagrante, en los casos y forma que establezca la ley.
+22. El derecho a la inviolabilidad de domicilio. No se podrá ingresar en el domicilio de una persona, ni realizar inspecciones o registros sin su autorización o sin orden judicial, salvo delito flagrante, en los casos y forma que establezca la ley.
 
-- El derecho a dirigir quejas y peticiones individuales y colectivas a las autoridades y a recibir atención o respuestas motivadas. No se podrá dirigir peticiones a nombre del pueblo.
+23. El derecho a dirigir quejas y peticiones individuales y colectivas a las autoridades y a recibir atención o respuestas motivadas. No se podrá dirigir peticiones a nombre del pueblo.
 
-- El derecho a participar en la vida cultural de la comunidad.
+24. El derecho a participar en la vida cultural de la comunidad.
 
 49
 
@@ -1021,25 +1474,25 @@ Las personas extranjeras no podrán ser devueltas o expulsadas a un país  donde
 
 [[START OF PAGE 50]]
 
-- EI  derecho  a  acceder  a  bienes  y  servicios  públicos  y  privados  de calidad,  con  eficiencia,  eficacia  y  buen  trato,  así  como  a  recibir información adecuada y veraz sobre su contenido y características.
+25. El derecho a acceder a bienes y servicios públicos y privados de calidad, con eficiencia, eficacia y buen trato, así como a recibir información adecuada y veraz sobre su contenido y características.
 
-- El  derecho  a  la  propiedad  en  todas  sus  formas,  con  función  y responsabilidad social y ambiental. El derecho al acceso a la propiedad se hará efectivo con la adopción de políticas públicas, entre otras medidas.
+26. El derecho a la propiedad en todas sus formas, con función y responsabilidad social y ambiental. El derecho al acceso a la propiedad se hará efectivo con la adopción de políticas públicas, entre otras medidas.
 
-- EI derecho a vivir en un ambiente sano, ecológicamente equilibrado, libre de contaminación y en armonía con la naturaleza.
+27. El derecho a vivir en un ambiente sano, ecológicamente equilibrado, libre de contaminación y en armonía con la naturaleza.
 
-- El  derecho  a  la  identidad  personal  y  colectiva,  que  incluye  tener nombre y apellido, debidamente registrados y libremente escogidos; y conservar,  desarrollar  y  fortalecer  las  características  materiales  e inmateriales de la identidad, tales como la nacionalidad, la procedencia  familiar,  las manifestaciones  espirituales,  culturales, religiosas, lingüísticas, políticas y sociales.
+28. El derecho a la identidad personal y colectiva, que incluye tener nombre y apellido, debidamente registrados y libremente escogidos; y conservar, desarrollar y fortalecer las características materiales e inmateriales de la identidad, tales como la nacionalidad, la procedencia familiar, las manifestaciones espirituales, culturales, religiosas, lingüísticas, políticas y sociales.
 
-- Los derechos de libertad también incluyen:
+29. Los derechos de libertad también incluyen:
 
-- El reconocimiento de que todas las personas nacen libres.
+a) El reconocimiento de que todas las personas nacen libres.
 
-- La prohibición de la esclavitud, la explotación, la servidumbre y el tráfico y la trata de seres humanos en todas sus formas. El Estado adoptará  medidas  de  prevención  y  erradicación  de  la  trata  de personas, y de protección y reinserción social de las  víctimas de la trata y de otras formas de violación de la libertad.
+b) La prohibición de la esclavitud, la explotación, la servidumbre y el tráfico y la trata de seres humanos en todas sus formas. El Estado adoptará medidas de prevención y erradicación de la trata de personas, y de protección y reinserción social de las víctimas de la trata y de otras formas de violación de la libertad.
 
-- Que ninguna persona pueda ser privada de su libertad por deudas, costas,  multas,  tributos,  ni  otras  obligaciones,  excepto  el  caso  de pensiones alimenticias.
+c) Que ninguna persona pueda ser privada de su libertad por deudas, costas, multas, tributos, ni otras obligaciones, excepto el caso de pensiones alimenticias.
 
-- Que ninguna persona pueda ser obligada a hacer algo prohibido o a dejar de hacer algo no prohibido por la ley.
+d) Que ninguna persona pueda ser obligada a hacer algo prohibido o a dejar de hacer algo no prohibido por la ley.
 
-##### Art.  67.
+##### Art. 67.-
 Se reconoce  la  familia  en  sus  diversos  tipos.  El  Estado  la protegerá como núcleo fundamental de la sociedad y garantizará condiciones  que  favorezcan  integralmente  la  consecución  de  sus  fines. Estas se constituirán por vínculos jurídicos o de hecho y se basarán en la igualdad de derechos y oportunidades de sus integrantes.
 
 50
@@ -1050,29 +1503,29 @@ Se reconoce  la  familia  en  sus  diversos  tipos.  El  Estado  la protegerá c
 
 El  matrimonio es la unión entre hombre y mujer, se fundará en el libre consentimiento  de  las  personas  contrayentes  y  en  la  igualdad  de  sus derechos, obligaciones y capacidad legal.
 
-##### Art. 68.
-La unión estable y monogámica entre dos personas libres de vínculo matrimonial que formen un hogar de hecho, por el lapso y bajo las conditions y circunstancias que señale la ley, generará los mismos  derechos y obligaciones que tienen las familias constituidas mediante matrimonio.
+##### Art. 68.-
+La unión estable y monogámica entre dos personas libres de vínculo matrimonial que formen un hogar de hecho, por el lapso y bajo las condiciones y circunstancias que señale la ley, generará los mismos derechos y obligaciones que tienen las familias constituidas mediante matrimonio.
 
 La adopción corresponderá sólo a parejas de distinto sexo.
 
-##### Art. 69.
+##### Art. 69.-
 Para proteger los derechos de las personas integrantes de la familia:
 
-- Se  promoverá  la  maternidad  y  paternidad  responsables;  la  madre  y  el padre  estarán  obligados  al  cuidado,  crianza,  educación,  alimentación, desarrollo integral y protección de los derechos de sus hijas e hijos, en particular cuando se encuentren separados de ellos por cualquier motivo.
+1. Se promoverá la maternidad y paternidad responsables; la madre y el padre estarán obligados al cuidado, crianza, educación, alimentación, desarrollo integral y protección de los derechos de sus hijas e hijos, en particular cuando se encuentren separados de ellos por cualquier motivo.
 
-- Se reconoce el patrimonio familiar inembargable en la cuantía y con las condiciones y limitaciones que establezca la ley. Se garantizará el derecho de testar y de heredar.
+2. Se reconoce el patrimonio familiar inembargable en la cuantía y con las condiciones y limitaciones que establezca la ley. Se garantizará el derecho de testar y de heredar.
 
-- El Estado garantizará la igualdad de derechos en la toma de decisiones para la administración de la sociedad conyugal y de la sociedad de bienes.
+3. El Estado garantizará la igualdad de derechos en la toma de decisiones para la administración de la sociedad conyugal y de la sociedad de bienes.
 
-- El Estado protegerá a las madres, a los padres y a quienes sean jefas y  jefes  de  familia,  en  el  ejercicio  de  sus  obligaciones,  y  prestará especial atención a las familias disgregadas por cualquier causa.
+4. El Estado protegerá a las madres, a los padres y a quienes sean jefas y jefes de familia, en el ejercicio de sus obligaciones, y prestará especial atención a las familias disgregadas por cualquier causa.
 
-- El  Estado  promoverá  la  corresponsabilidad  materna  y  paterna  y vigilará  el  cumplimiento  de  los  deberes  y  derechos  recíprocos  entre madres, padres, hijas e hijos.
+5. El Estado promoverá la corresponsabilidad materna y paterna y vigilará el cumplimiento de los deberes y derechos recíprocos entre madres, padres, hijas e hijos.
 
-- Las hijas e hijos tendrán  los  mismos  derechos  sin  considerar antecedentes de filiación o adopción.
+6. Las hijas e hijos tendrán los mismos derechos sin considerar antecedentes de filiación o adopción.
 
-- No  se  exigirá  declaración  sobre  la  calidad  de  la  filiación  en  el momento de  la  inscripción  del  nacimiento,  y  ningún  documento  de identidad hará referencia a ella.
+7. No se exigirá declaración sobre la calidad de la filiación en el momento de la inscripción del nacimiento, y ningún documento de identidad hará referencia a ella.
 
-##### Art. 70.
+##### Art. 70.-
 El Estado formulará y ejecutará políticas para alcanzar la igualdad entre  mujeres  y  hombres,  a  través  del  mecanismo  especializado  de  acuerdo con  la  ley,  e  incorporará  el  enfoque  de  género  en  planes  y  programas,  y brindará asistencia técnica para su obligatoria aplicación en el sector público.
 
 51
@@ -1083,24 +1536,24 @@ El Estado formulará y ejecutará políticas para alcanzar la igualdad entre  mu
 
 ### Capítulo séptimo Derechos de la naturaleza
 
-##### Art.  71.
-La  naturaleza  o  Pacha  Mama,  donde  se  reproduce  y  realiza  la vida,  tiene  derecho  a  que  se  respete  integralmente  su  existencia  y  el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y processes evolutivos.
+##### Art. 71.-
+La naturaleza o Pacha Mama, donde se reproduce y realiza la vida, tiene derecho a que se respete integralmente su existencia y el mantenimiento y regeneración de sus ciclos vitales, estructura, funciones y procesos evolutivos.
 
-Toda  persona,  comunidad,  pueblo  o  nacionalidad  podrá  exigir  a  la autoridad pública el cumplimiento de los derechos de la naturaleza. Para aplicar e interpretar estos derechos se observaran los principios establecidos en la Constitución, en lo que proceda.
+Toda persona, comunidad, pueblo o nacionalidad podrá exigir a la autoridad pública el cumplimiento de los derechos de la naturaleza. Para aplicar e interpretar estos derechos se observarán los principios establecidos en la Constitución, en lo que proceda.
 
 El  Estado  incentivará  a  las  personas  naturales  y  jurídicas,  y  a  los colectivos, para que protejan la naturaleza, y promoverá el respeto a todos los elementos que forman un ecosistema.
 
-##### Art. 72.
-La naturaleza tiene derecho a la restauración. Esta restauración será  independiente  de  la  obligación  que  tienen  el  Estado  y  las  personas naturales  o  jurídicas  de  Indemnizar  a  los  individuos  y  colectivos  que dependan de los sistemas naturales afectados.
+##### Art. 72.-
+La naturaleza tiene derecho a la restauración. Esta restauración será independiente de la obligación que tienen el Estado y las personas naturales o jurídicas de indemnizar a los individuos y colectivos que dependan de los sistemas naturales afectados.
 
 En  los  casos  de  impacto  ambiental  grave  o  permanente,  incluidos  los ocasionados por la explotación de los recursos naturales no renovables, el Estado establecerá los mecanismos más eficaces para alcanzar la restauración,  y  adoptará  las  medidas  adecuadas  para  eliminar  o  mitigar las consecuencias ambientales nocivas.
 
-##### Art. 73.
-EI Estado aplicará medidas de precaución y restricción para las actividades que puedan conducir a la extinción de especies, la destrucción de ecosistemas o la alteración permanente de los ciclos naturales.
+##### Art. 73.-
+El Estado aplicará medidas de precaución y restricción para las actividades que puedan conducir a la extinción de especies, la destrucción de ecosistemas o la alteración permanente de los ciclos naturales.
 
 Se prohíbe la introducción de organismos y material orgánico e inorgánico que puedan alterar de manera definitiva el patrimonio genético nacional.
 
-##### Art.  74.
+##### Art. 74.-
 Las  personas,  comunidades,  pueblos  y  nacionalidades  tendrán derecho  a  beneficiarse  del  ambiente  y  de  las  riquezas  naturales  que  les permitan el buen vivir.
 
 Los servicios ambientales  no  serán  susceptibles de apropiación; su producción,  prestación,  uso  y  aprovechamiento  serán  regulados  por  el Estado.
@@ -1113,25 +1566,25 @@ Los servicios ambientales  no  serán  susceptibles de apropiación; su producci
 
 ### Capítulo octavo Derechos de protección
 
-##### Art. 75.
+##### Art. 75.-
 Toda persona tiene derecho al acceso gratuito a la justicia y a la tutela  efectiva,  imparcial  y  expedita  de  sus  derechos  e  intereses,  con sujeción  a  los  principios  de  inmediación  y  celeridad;  en  ningún  caso quedará en indefensión. El incumplimiento de las resoluciones judiciales será sancionado por la ley.
 
-##### Art. 76.
-En todo proceso en el que se determinen derechos y obligaciones de cualquier order, se asegurará el derecho al debido proceso que incluirá las siguientes garantías básicas:
+##### Art. 76.-
+En todo proceso en el que se determinen derechos y obligaciones de cualquier orden, se asegurará el derecho al debido proceso que incluirá las siguientes garantías básicas:
 
-- Corresponde a toda autoridad administrativa o judicial, garantizar el cumplimiento de las normas y los derechos de las partes.
+1. Corresponde a toda autoridad administrativa o judicial, garantizar el cumplimiento de las normas y los derechos de las partes.
 
-- Se presumirá la inocencia de toda persona, y será tratada como tal, mientras no se declare su responsabilidad mediante resolución firme o sentencia ejecutoriada.
+2. Se presumirá la inocencia de toda persona, y será tratada como tal, mientras no se declare su responsabilidad mediante resolución firme o sentencia ejecutoriada.
 
-- Nadie podrá ser juzgado ni sancionado por un acto u omisión que, al momento de cometerse, no esté tipificado  en  la  ley  como  infracción penal,  administrativa  o  de  otra  naturaleza;  ni  se  le  aplicará  una sanción no prevista por la Constitución o la ley.  Sólo se podrá juzgar a una persona ante un juez o autoridad competente y con observancia del trámite propio de cada procedimiento.
+3. Nadie podrá ser juzgado ni sancionado por un acto u omisión que, al momento de cometerse, no esté tipificado en la ley como infracción penal, administrativa o de otra naturaleza; ni se le aplicará una sanción no prevista por la Constitución o la ley. Sólo se podrá juzgar a una persona ante un juez o autoridad competente y con observancia del trámite propio de cada procedimiento.
 
-- Las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria.
+4. Las pruebas obtenidas o actuadas con violación de la Constitución o la ley no tendrán validez alguna y carecerán de eficacia probatoria.
 
-- En  caso  de  conflicto  entre  dos  leyes  de  la  misma  materia  que contemplen sanciones diferentes para un mismo hecho, se aplicará la menos  rigurosa,  aún  cuando  su  promulgación  sea  posterior  a  la infracción. En caso de duda sobre una norma que contenga sanciones, se la aplicará en el sentido más favorable a la persona infractora.
+5. En caso de conflicto entre dos leyes de la misma materia que contemplen sanciones diferentes para un mismo hecho, se aplicará la menos rigurosa, aún cuando su promulgación sea posterior a la infracción. En caso de duda sobre una norma que contenga sanciones, se la aplicará en el sentido más favorable a la persona infractora.
 
-- La ley establecerá la debida proporcionalidad entre las infracciones y las sanciones penales, administrativas o de otra naturaleza.
+6. La ley establecerá la debida proporcionalidad entre las infracciones y las sanciones penales, administrativas o de otra naturaleza.
 
-- El  derecho  de  las  personas  a  la  defensa  incluirá  las  siguientes garantías:
+7. El derecho de las personas a la defensa incluirá las siguientes garantías:
 
 53
 
@@ -1139,27 +1592,27 @@ En todo proceso en el que se determinen derechos y obligaciones de cualquier ord
 
 [[START OF PAGE 54]]
 
-- Nadie podrá ser privado del derecho a la defensa en ninguna etapa o grado del procedimiento.
+a) Nadie podrá ser privado del derecho a la defensa en ninguna etapa o grado del procedimiento.
 
-- Contar con el tiempo y con los medios adecuados  para la preparación de su defensa.
+b) Contar con el tiempo y con los medios adecuados para la preparación de su defensa.
 
-- Ser escuchado en el momento oportuno y en igualdad de condiciones.
+c) Ser escuchado en el momento oportuno y en igualdad de condiciones.
 
-- Los procedimientos serán públicos salvo las excepciones previstas por  la  ley.  Las  partes  podrán  acceder  a  todos  los  documentos  y actuaciones del procedimiento.
+d) Los procedimientos serán públicos salvo las excepciones previstas por la ley. Las partes podrán acceder a todos los documentos y actuaciones del procedimiento.
 
-- Nadie podrá ser interrogado, ni aún con fines de investigación, por la  Fiscalía  General  del  Estado,  por  una  autoridad  policial  o  por cualquier  otra,  sin  la  presencia  de  un  abogado  particular  o  un defensor público, ni fuera de los recintos autorizados para el efecto.
+e) Nadie podrá ser interrogado, ni aún con fines de investigación, por la Fiscalía General del Estado, por una autoridad policial o por cualquier otra, sin la presencia de un abogado particular o un defensor público, ni fuera de los recintos autorizados para el efecto.
 
-- Ser asistido  gratuitamente  por  una  traductora  o  traductor  o intérprete,  si  no  comprende  o  no  habla  el  idioma  en  el  que  se sustancia el procedimiento.
+f) Ser asistido gratuitamente por una traductora o traductor o intérprete, si no comprende o no habla el idioma en el que se sustancia el procedimiento.
 
-- En  procedimientos  judiciales,  ser  asistido  por  una  abogada  o abogado  de  su  elección  o  por  defensora  o  defensor  público;  no podrá restringirse el acceso ni la comunicación libre y privada con su defensora o defensor.
+g) En procedimientos judiciales, ser asistido por una abogada o abogado de su elección o por defensora o defensor público; no podrá restringirse el acceso ni la comunicación libre y privada con su defensora o defensor.
 
-- Presentar de forma verbal o escrita las razones o argumentos de los que se crea asistida y replicar los argumentos de las otras partes; presentar pruebas y contradecir las que se presenten en su contra.
+h) Presentar de forma verbal o escrita las razones o argumentos de los que se crea asistida y replicar los argumentos de las otras partes; presentar pruebas y contradecir las que se presenten en su contra.
 
-- Nadie  podrá  ser  juzgado  más  de  una  vez  por  la  misma  causa  y materia.  Los  casos  resueltos  por  la  jurisdicción  indígena  deberán ser considerados para este efecto.
+i) Nadie podrá ser juzgado más de una vez por la misma causa y materia. Los casos resueltos por la jurisdicción indígena deberán ser considerados para este efecto.
 
-- Quienes actúen como  testigos o peritos estarán obligados a comparecer  ante  la  jueza,  juez  o  autoridad,  y  a  responder  al interrogatorio respectivo.
+j) Quienes actúen como testigos o peritos estarán obligados a comparecer ante la jueza, juez o autoridad, y a responder al interrogatorio respectivo.
 
-- Ser  juzgado  por  una  jueza  o  juez  independiente,  imparcial  y competente. Nadie será juzgado por tribunales de excepción o por comisiones especiales creadas para el efecto.
+k) Ser juzgado por una jueza o juez independiente, imparcial y competente. Nadie será juzgado por tribunales de excepción o por comisiones especiales creadas para el efecto.
 
 54
 
@@ -1167,20 +1620,20 @@ En todo proceso en el que se determinen derechos y obligaciones de cualquier ord
 
 [[START OF PAGE 55]]
 
-- Las resoluciones de los poderes públicos deberán ser motivadas. No habrá motivación si en la resolución no se enuncian las normas o principios jurídicos en que se funda y no se explica la pertinencia de su aplicación a los antecedentes de hecho. Los actos administrativos, resoluciones o fallos que no se encuentren debidamente  motivados  se  consideraran  nulos.  Las  servidoras  o servidores responsables serán sancionados.
+l) Las resoluciones de los poderes públicos deberán ser motivadas. No habrá motivación si en la resolución no se enuncian las normas o principios jurídicos en que se funda y no se explica la pertinencia de su aplicación a los antecedentes de hecho. Los actos administrativos, resoluciones o fallos que no se encuentren debidamente motivados se considerarán nulos. Las servidoras o servidores responsables serán sancionados.
 
-- Recurrir  el  fallo  o  resolución  en  todos  los  procedimientos  en  los que se decida sobre sus derechos.
+m) Recurrir el fallo o resolución en todos los procedimientos en los que se decida sobre sus derechos.
 
-##### Art.  77.
-En  todo  proceso penal en que se haya privado de la libertad a una persona, se observarán las siguientes garantías básicas:
+##### Art. 77.-
+En todo proceso penal en que se haya privado de la libertad a una persona, se observarán las siguientes garantías básicas:
 
-- La privación de la libertad se aplicará excepcionalmente cuando sea necesaria  para  garantizar  la  comparecencia  en  el  proceso,  o  para asegurar el cumplimiento de la pena; procederá por orden escrita de jueza  o  juez  competente,  en  los  casos,  por  el  tiempo  y  con  las formalidades establecidas en la ley. Se exceptúan los delitos flagrantes, en cuyo caso no podrá mantenerse a la persona detenida sin fórmula de juicio por más de veinticuatro horas. La jueza o juez siempre  podrá  ordenar  medidas  cautelares  distintas  a  la  prisión preventiva.
+1. La privación de la libertad se aplicará excepcionalmente cuando sea necesaria para garantizar la comparecencia en el proceso, o para asegurar el cumplimiento de la pena; procederá por orden escrita de jueza o juez competente, en los casos, por el tiempo y con las formalidades establecidas en la ley. Se exceptúan los delitos flagrantes, en cuyo caso no podrá mantenerse a la persona detenida sin fórmula de juicio por más de veinticuatro horas. La jueza o juez siempre podrá ordenar medidas cautelares distintas a la prisión preventiva.
 
-- Ninguna  persona  podrá  ser  admitida  en  un  centro  de  privación  de libertad  sin  una  orden  escrita  emitida  por  jueza  o  juez  competente, salvo en caso de delito flagrante. Las personas procesadas o indiciadas en juicio penal que se hallen privadas de libertad permanecerán en centros de privación provisional de libertad legalmente establecidos.
+2. Ninguna persona podrá ser admitida en un centro de privación de libertad sin una orden escrita emitida por jueza o juez competente, salvo en caso de delito flagrante. Las personas procesadas o indiciadas en juicio penal que se hallen privadas de libertad permanecerán en centros de privación provisional de libertad legalmente establecidos.
 
-- Toda  persona,  en  el  momento  de  la  detención,  tendrá  derecho  a conocer  en  forma  clara  y  en  un  lenguaje  sencillo  las  razones  de  su detención, la identidad de la jueza o juez, o autoridad que la ordenó, la  de  quienes  la  ejecutan  y  la  de  las  personas  responsables  del respectivo interrogatorio.
+3. Toda persona, en el momento de la detención, tendrá derecho a conocer en forma clara y en un lenguaje sencillo las razones de su detención, la identidad de la jueza o juez, o autoridad que la ordenó, la de quienes la ejecutan y la de las personas responsables del respectivo interrogatorio.
 
-- En el momento de la detención, la agente o el agente informará a la persona detenida de su derecho a permanecer en silencio, a solicitar la  asistencia  de  una  abogada  o  abogado,  o  de  una  defensora  o defensor público en caso de que no pudiera designarlo por sí mismo, y a comunicarse con un familiar o con cualquier persona que indique.
+4. En el momento de la detención, la agente o el agente informará a la persona detenida de su derecho a permanecer en silencio, a solicitar la asistencia de una abogada o abogado, o de una defensora o defensor público en caso de que no pudiera designarlo por sí mismo, y a comunicarse con un familiar o con cualquier persona que indique.
 
 55
 
@@ -1188,25 +1641,25 @@ En  todo  proceso penal en que se haya privado de la libertad a una persona, se 
 
 [[START OF PAGE 56]]
 
-- Si la persona  detenida  fuera  extranjera,  quien  lleve a cabo  la detención informará inmediatamente al representante consular de su país.
+5. Si la persona detenida fuera extranjera, quien lleve a cabo la detención informará inmediatamente al representante consular de su país.
 
-- Nadie podrá ser incomunicado.
+6. Nadie podrá ser incomunicado.
 
-- El derecho de toda persona a la defensa incluye:
+7. El derecho de toda persona a la defensa incluye:
 
-- Ser informada, de forma previa y detallada, en su lengua propia y en lenguaje sencillo de las acciones y procedimientos formulados en su  contra,  y  de  la  identidad  de  la  autoridad  responsable  de  la acción o procedimiento.
+a) Ser informada, de forma previa y detallada, en su lengua propia y en lenguaje sencillo de las acciones y procedimientos formulados en su contra, y de la identidad de la autoridad responsable de la acción o procedimiento.
 
-- Acogerse al silencio.
+b) Acogerse al silencio.
 
-- Nadie  podrá  ser  forzado  a  declarar  en  contra  de  sí  mismo,  sobre asuntos que puedan ocasionar su responsabilidad penal.
+c) Nadie podrá ser forzado a declarar en contra de sí mismo, sobre asuntos que puedan ocasionar su responsabilidad penal.
 
-- Nadie podrá ser llamado a declarar en juicio penal contra su cónyuge, pareja o parientes hasta el cuarto grado de consanguinidad o segundo de afinidad, excepto en el caso de violencia intrafamiliar, sexual y de género. Serán admisibles las declaraciones voluntarias de las víctimas de un delito o de los parientes de éstas, con independencia del grado de parentesco. Estas personas podrán plantear y proseguir la acción penal correspondiente.
+8. Nadie podrá ser llamado a declarar en juicio penal contra su cónyuge, pareja o parientes hasta el cuarto grado de consanguinidad o segundo de afinidad, excepto en el caso de violencia intrafamiliar, sexual y de género. Serán admisibles las declaraciones voluntarias de las víctimas de un delito o de los parientes de éstas, con independencia del grado de parentesco. Estas personas podrán plantear y proseguir la acción penal correspondiente.
 
-- Bajo la responsabilidad de la jueza o juez que conoce el proceso, la prisión preventiva no podrá exceder de seis meses en las causas por delitos sancionados con prisión, ni de un año en los casos de delitos sancionados  con  reclusión.  Si  se  exceden  estos  plazos,  la  orden  de prisión preventiva quedará sin efecto.
+9. Bajo la responsabilidad de la jueza o juez que conoce el proceso, la prisión preventiva no podrá exceder de seis meses en las causas por delitos sancionados con prisión, ni de un año en los casos de delitos sancionados con reclusión. Si se exceden estos plazos, la orden de prisión preventiva quedará sin efecto.
 
-- Sin excepción alguna, dictado el auto de sobreseimiento o la sentencia absolutoria, la persona detenida recobrará inmediatamente su  libertad,  aun  cuando  estuviera  pendiente  cualquier  consulta  o recurso.
+10. Sin excepción alguna, dictado el auto de sobreseimiento o la sentencia absolutoria, la persona detenida recobrará inmediatamente su libertad, aun cuando estuviera pendiente cualquier consulta o recurso.
 
-- La  jueza  o  juez  aplicará  de  forma  prioritaria  sanciones  y  medidas cautelares alternativas a la privación de libertad contempladas en la ley.  Las  sanciones  alternativas  se  aplicarán  de  acuerdo  con  las circunstancias, la personalidad de la persona infractora y las exigencias de reinserción social de la persona sentenciada.
+11. La jueza o juez aplicará de forma prioritaria sanciones y medidas cautelares alternativas a la privación de libertad contempladas en la ley. Las sanciones alternativas se aplicarán de acuerdo con las circunstancias, la personalidad de la persona infractora y las exigencias de reinserción social de la persona sentenciada.
 
 56
 
@@ -1214,26 +1667,26 @@ En  todo  proceso penal en que se haya privado de la libertad a una persona, se 
 
 [[START OF PAGE 57]]
 
-- Las  personas  declaradas  culpables  y  sancionadas  con  penas  de privación de libertad por sentencia condenatoria ejecutoriada, permanecerán  en  centros  de  rehabilitación  social.  Ninguna  persona condenada por delitos comunes cumplirá la pena fuera de los centros de rehabilitación social del Estado, salvo los casos de penas alternativas y de libertad condicionada, de acuerdo con la ley.
+12. Las personas declaradas culpables y sancionadas con penas de privación de libertad por sentencia condenatoria ejecutoriada, permanecerán en centros de rehabilitación social. Ninguna persona condenada por delitos comunes cumplirá la pena fuera de los centros de rehabilitación social del Estado, salvo los casos de penas alternativas y de libertad condicionada, de acuerdo con la ley.
 
-- Para las adolescentes y los adolescentes infractores regirá un sistema de medidas socioeducativas proporcionales a la infracción atribuida. El Estado determinará mediante  ley sanciones privativas y no privativas  de  libertad.  La  privación  de  la  libertad  será  establecida como último recurso, por el periodo mínimo necesario, y se llevará a cabo en establecimientos diferentes a los de personas adultas.
+13. Para las adolescentes y los adolescentes infractores regirá un sistema de medidas socioeducativas proporcionales a la infracción atribuida. El Estado determinará mediante ley sanciones privativas y no privativas de libertad. La privación de la libertad será establecida como último recurso, por el periodo mínimo necesario, y se llevará a cabo en establecimientos diferentes a los de personas adultas.
 
-- Al resolver la impugnación de una sanción, no se podrá empeorar la situación de la persona que recurre.
+14. Al resolver la impugnación de una sanción, no se podrá empeorar la situación de la persona que recurre.
 
-Quien haya detenido a una persona con violación de estas normas será sancionado.  La ley establecerá sanciones penales y administrativas por la detención arbitraria que se produzca en uso excesivo de la fuerza policial, en aplicación o interpretación abusiva de contravenciones u otras normas, o por motivos discriminatorios.
+Quien haya detenido a una persona con violación de estas normas será sancionado. La ley establecerá sanciones penales y administrativas por la detención arbitraria que se produzca en uso excesivo de la fuerza policial, en aplicación o interpretación abusiva de contravenciones u otras normas, o por motivos discriminatorios.
 
 Para los arrestos disciplinarios de los miembros de las Fuerzas Armadas y de la Policía Nacional, se aplicará lo dispuesto en la ley.
 
-##### Art.  78.
-Las  víctimas  de  infracciones  penales  gozarán  de  protección especial,  se  les  garantizará  su  no  revictimización,  particularmente  en  la obtención  y  valoración  de  las  pruebas,  y  se  las  protegerá  de  cualquier amenaza u otras formas de intimidación. Se adoptarán mecanismos para una reparación integral que incluirá, sin dilaciones, el conocimiento de la verdad  de  los  hechos  y  la  restitución,  indemnización,  rehabilitación, garantía de no repetición y satisfacción del derecho violado.
+##### Art. 78.-
+Las víctimas de infracciones penales gozarán de protección especial, se les garantizará su no revictimización, particularmente en la obtención y valoración de las pruebas, y se las protegerá de cualquier amenaza u otras formas de intimidación. Se adoptarán mecanismos para una reparación integral que incluirá, sin dilaciones, el conocimiento de la verdad de los hechos y la restitución, indemnización, rehabilitación, garantía de no repetición y satisfacción del derecho violado.
 
 Se establecerá un sistema de protección y asistencia a víctimas, testigos y participantes procesales.
 
-##### Art. 79.
+##### Art. 79.-
 En ningún caso se concederá la extradición de una ecuatoriana o ecuatoriano. Su juzgamiento se sujetará a las leyes del Ecuador.
 
-##### Art. 80.
-Las acciones y penas por delitos de genocidio, lesa humanidad, crímenes  de  guerra,  desaparición  forzada  de  personas  o  crímenes  de agresión a un Estado serán imprescriptibles. Ninguno de estos casos será susceptible de amnistía. El hecho de que una de estas infracciones haya sido cometida por un subordinado no eximirá de responsabilidad penal al superior que la ordenó ni al subordinado que la ejecutó.
+##### Art. 80.-
+Las acciones y penas por delitos de genocidio, lesa humanidad, crímenes de guerra, desaparición forzada de personas o crímenes de
 
 57
 
@@ -1241,11 +1694,13 @@ Las acciones y penas por delitos de genocidio, lesa humanidad, crímenes  de  gu
 
 [[START OF PAGE 58]]
 
-##### Art. 81.
-La ley establecerá procedimientos especiales y expeditos para el juzgamiento  y  sanción  de  los  delitos  de  violencia  intrafamiliar,  sexual, crímenes de odio y los que se cometan contra niñas, niños, adolescentes, jóvenes, personas con discapacidad, adultas mayores y personas que, por sus  particularidades,  requieren  una  mayor  protección.  Se  nombrarán fiscales  y  defensoras  o  defensores  especializados  para  el  tratamiento  de estas causas, de acuerdo con la ley.
+agresión a un Estado serán imprescriptibles. Ninguno de estos casos será susceptible de amnistía. El hecho de que una de estas infracciones haya sido cometida por un subordinado no eximirá de responsabilidad penal al superior que la ordenó ni al subordinado que la ejecutó.
 
-##### Art. 82.
-El derecho a la seguridad jurídica se fundamenta en el respeto a la  Constitución  y  en  la  existencia  de  normas  jurídicas  previas,  claras, públicas y aplicadas por las autoridades competentes.
+##### Art. 81.-
+La ley establecerá procedimientos especiales y expeditos para el juzgamiento y sanción de los delitos de violencia intrafamiliar, sexual, crímenes de odio y los que se cometan contra niñas, niños, adolescentes, jóvenes, personas con discapacidad, adultas mayores y personas que, por sus particularidades, requieren una mayor protección. Se nombrarán fiscales y defensoras o defensores especializados para el tratamiento de estas causas, de acuerdo con la ley.
+
+##### Art. 82.-
+El derecho a la seguridad jurídica se fundamenta en el respeto a la Constitución y en la existencia de normas jurídicas previas, claras, públicas y aplicadas por las autoridades competentes.
 
 58
 
@@ -1255,36 +1710,36 @@ El derecho a la seguridad jurídica se fundamenta en el respeto a la  Constituci
 
 ### Capítulo noveno Responsabilidades
 
-##### Art.  83.
-Son  deberes  y  responsabilidades  de  las  ecuatorianas  y  los ecuatorianos, sin perjuicio de otros previstos en la Constitución y la ley:
+##### Art. 83.-
+Son deberes y responsabilidades de las ecuatorianas y los ecuatorianos, sin perjuicio de otros previstos en la Constitución y la ley:
 
-- Acatar y cumplir la Constitución, la ley y las decisiones legítimas de autoridad competente.
+1. Acatar y cumplir la Constitución, la ley y las decisiones legítimas de autoridad competente.
 
-- Ama killa, ama llulla, ama shwa. No ser ocioso, no mentir, no robar.
+2. Ama killa, ama llulla, ama shwa. No ser ocioso, no mentir, no robar.
 
-- Defender la integridad territorial del Ecuador y sus recursos naturales.
+3. Defender la integridad territorial del Ecuador y sus recursos naturales.
 
-- Colaborar en el mantenimiento de la paz y de la seguridad.
+4. Colaborar en el mantenimiento de la paz y de la seguridad.
 
-- Respetar los derechos humanos y luchar por su cumplimiento.
+5. Respetar los derechos humanos y luchar por su cumplimiento.
 
-- Respetar los derechos de la naturaleza, preservar un ambiente sano y utilizar  los  recursos  naturales  de  modo  racional,  sustentable  y sostenible.
+6. Respetar los derechos de la naturaleza, preservar un ambiente sano y utilizar los recursos naturales de modo racional, sustentable y sostenible.
 
-- Promover  el  bien  común  y  anteponer  el  interés  general  al  interés particular, conforme al buen vivir.
+7. Promover el bien común y anteponer el interés general al interés particular, conforme al buen vivir.
 
-- Administrar honradamente  y con apego irrestricto a la ley el patrimonio público, y denunciar y combatir los actos de corrupción.
+8. Administrar honradamente y con apego irrestricto a la ley el patrimonio público, y denunciar y combatir los actos de corrupción.
 
-- Practicar la justicia y la solidaridad en el ejercicio de sus derechos y en el disfrute de bienes y servicios.
+9. Practicar la justicia y la solidaridad en el ejercicio de sus derechos y en el disfrute de bienes y servicios.
 
-- Promover la unidad y la igualdad en la diversidad y en las relaciones interculturales.
+10. Promover la unidad y la igualdad en la diversidad y en las relaciones interculturales.
 
-- Asumir  las  funciones  públicas  como  un  servicio  a  la  colectividad  y rendir cuentas a la sociedad y a la autoridad, de acuerdo con la ley.
+11. Asumir las funciones públicas como un servicio a la colectividad y rendir cuentas a la sociedad y a la autoridad, de acuerdo con la ley.
 
-- Ejercer la profesión u oficio con sujeción a la ética.
+12. Ejercer la profesión u oficio con sujeción a la ética.
 
-- Conservar  el  patrimonio  cultural  y  natural  del  país,  y  cuidar  y mantener los bienes públicos.
+13. Conservar el patrimonio cultural y natural del país, y cuidar y mantener los bienes públicos.
 
-- Respetar  y  reconocer  las  diferencias  étnicas,  nacionales,  sociales, generacionales, de género, y la orientación e identidad sexual.
+14. Respetar y reconocer las diferencias étnicas, nacionales, sociales, generacionales, de género, y la orientación e identidad sexual.
 
 59
 
@@ -1292,11 +1747,11 @@ Son  deberes  y  responsabilidades  de  las  ecuatorianas  y  los ecuatorianos, 
 
 [[START OF PAGE 60]]
 
-- Cooperar con el Estado y la comunidad en la seguridad social, y pagar los tributos establecidos por la ley.
+15. Cooperar con el Estado y la comunidad en la seguridad social, y pagar los tributos establecidos por la ley.
 
-- Asistir,  alimentar, educar y cuidar a las hijas e hijos. Este deber es corresponsabilidad de madres  y padres en igual proporción, y corresponderá también a las hijas e hijos cuando las madres y padres lo necesiten.
+16. Asistir, alimentar, educar y cuidar a las hijas e hijos. Este deber es corresponsabilidad de madres y padres en igual proporción, y corresponderá también a las hijas e hijos cuando las madres y padres lo necesiten.
 
-- Participar en la vida política, cívica y comunitaria del país, de manera honesta y transparente.
+17. Participar en la vida política, cívica y comunitaria del país, de manera honesta y transparente.
 
 60
 
@@ -1308,7 +1763,7 @@ Son  deberes  y  responsabilidades  de  las  ecuatorianas  y  los ecuatorianos, 
 
 ### Capítulo primero Garantías normativas
 
-##### Art.  84.
+##### Art. 84.-
 La  Asamblea Nacional y todo órgano con potestad normativa tendrá  la  obligación  de  adecuar,  formal  y  materialmente,  las  leyes  y demás normas jurídicas a los derechos previstos en la Constitución y los tratados  internacionales,  y  los  que  sean  necesarios  para  garantizar  la dignidad del ser humano o de las comunidades, pueblos y nacionalidades. En ningún caso, la reforma de la Constitución, las leyes, otras normas jurídicas ni los actos del poder público atentarán contra los derechos que reconoce la Constitución.
 
 61
@@ -1319,14 +1774,14 @@ La  Asamblea Nacional y todo órgano con potestad normativa tendrá  la  obligac
 
 ### Capítulo segundo Políticas públicas, servicios públicos y participación ciudadana
 
-##### Art.  85.
+##### Art. 85.-
 La formulación, ejecución, evaluación y control de las políticas públicas y servicios públicos que garanticen los derechos reconocidos por la Constitución, se regularán de acuerdo con las siguientes disposiciones:
 
-- Las políticas públicas y la prestación de bienes y servicios públicos se orientarán a hacer efectivos el buen vivir y todos los derechos, y se formularán a partir del principio de solidaridad.
+1. Las políticas públicas y la prestación de bienes y servicios públicos se orientarán a hacer efectivos el buen vivir y todos los derechos, y se formularán a partir del principio de solidaridad.
 
-- Sin  perjuicio  de  la  prevalencia  del  interés  general  sobre  el  interés particular, cuando los efectos de la ejecución de las políticas públicas o prestación de bienes o servicios públicos vulneren o amenacen con vulnerar  derechos  constitucionales,  la  política  o  prestación  deberá reformularse  o  se  adoptarán  medidas  alternativas  que  concilien  los derechos en conflicto.
+2. Sin perjuicio de la prevalencia del interés general sobre el interés particular, cuando los efectos de la ejecución de las políticas públicas o prestación de bienes o servicios públicos vulneren o amenacen con vulnerar derechos constitucionales, la política o prestación deberá reformularse o se adoptarán medidas alternativas que concilien los derechos en conflicto.
 
-- El Estado  garantizará la distribución equitativa y solidaria del presupuesto para la ejecución de las políticas públicas y la prestación de bienes y servicios públicos.
+3. El Estado garantizará la distribución equitativa y solidaria del presupuesto para la ejecución de las políticas públicas y la prestación de bienes y servicios públicos.
 
 En la formulación, ejecución, evaluación y control de las políticas públicas y  servicios  públicos  se  garantizará  la  participación  de  las  personas, comunidades, pueblos y nacionalidades.
 
@@ -1340,24 +1795,24 @@ En la formulación, ejecución, evaluación y control de las políticas pública
 
 #### Sección primera Disposiciones comunes
 
-##### Art.  86.
-Las  garantías  jurisdiccionales  se  regirán,  en  general,  por  las siguientes disposiciones:
+##### Art. 86.-
+Las garantías jurisdiccionales se regirán, en general, por las siguientes disposiciones:
 
-- Cualquier persona, grupo de personas, comunidad, pueblo o nacionalidad podrá proponer las acciones previstas en la Constitución.
+1. Cualquier persona, grupo de personas, comunidad, pueblo o nacionalidad podrá proponer las acciones previstas en la Constitución.
 
-- Será competente la jueza o juez del lugar en el que se origina el acto o la  omisión  o  donde  se  producen  sus  efectos,  y  serán  aplicables  las siguientes normas de procedimiento:
+2. Será competente la jueza o juez del lugar en el que se origina el acto o la omisión o donde se producen sus efectos, y serán aplicables las siguientes normas de procedimiento:
 
-- El procedimiento será sencillo, rápido y eficaz. Será oral en todas sus fases e instancias.
+a) El procedimiento será sencillo, rápido y eficaz. Será oral en todas sus fases e instancias.
 
-- Serán hábiles todos los días y horas.
+b) Serán hábiles todos los días y horas.
 
-- Podrán ser propuestas oralmente o por escrito, sin formalidades, y sin necesidad de citar la norma infringida. No será indispensable el patrocinio de un abogado para proponer la acción.
+c) Podrán ser propuestas oralmente o por escrito, sin formalidades, y sin necesidad de citar la norma infringida. No será indispensable el patrocinio de un abogado para proponer la acción.
 
-- Las  notificaciones  se  efectuarán  por  los  medios  más  eficaces  que estén  al  alcance  del  juzgador,  del  legitimado  activo  y  del  órgano responsable del acto u omisión.
+d) Las notificaciones se efectuarán por los medios más eficaces que estén al alcance del juzgador, del legitimado activo y del órgano responsable del acto u omisión.
 
-- No serán aplicables las normas procesales que tiendan a retardar su ágil despacho.
+e) No serán aplicables las normas procesales que tiendan a retardar su ágil despacho.
 
-- Presentada la acción, la jueza o juez convocará inmediatamente a una audiencia pública, y en cualquier momento del proceso podrá ordenar la  práctica  de  pruebas  y  designar  comisiones  para  recabarlas.  Se presumirán ciertos los fundamentos alegados por la persona accionante  cuando  la  entidad  pública  requerida  no  demuestre  lo contrario  o  no  suministre  información.  La  jueza  o  juez  resolverá  la causa mediante sentencia, y en caso de constatarse la vulneración de derechos, deberá declararla, ordenar la reparación integral, material e inmaterial, y especificar e individualizar las obligaciones, positivas y
+3. Presentada la acción, la jueza o juez convocará inmediatamente a una audiencia pública, y en cualquier momento del proceso podrá ordenar la práctica de pruebas y designar comisiones para recabarlas. Se presumirán ciertos los fundamentos alegados por la persona accionante cuando la entidad pública requerida no demuestre lo contrario o no suministre información. La jueza o juez resolverá la causa mediante sentencia, y en caso de constatarse la vulneración de derechos, deberá declararla, ordenar la reparación integral, material e inmaterial, y especificar e individualizar las obligaciones, positivas y
 
 63
 
@@ -1369,22 +1824,22 @@ negativas,  a  cargo  del  destinatario  de  la  decisión  judicial,  y  las ci
 
 Las sentencias de primera instancia podrán ser apeladas ante la corte provincial.  Los  procesos  judiciales  sólo  finalizarán  con  la  ejecución integral de la sentencia o resolución.
 
-- Si  la  sentencia  o  resolución  no  se  cumple  por  parte  de  servidoras  o servidores públicos, la jueza o juez ordenará su destitución del cargo o empleo, sin perjuicio de la responsabilidad civil o penal a que haya lugar.  Cuando  sea  un  particular  quien  incumpla  la  sentencia  o resolución, se hará efectiva la responsabilidad determinada en la ley.
+4. Si la sentencia o resolución no se cumple por parte de servidoras o servidores públicos, la jueza o juez ordenará su destitución del cargo o empleo, sin perjuicio de la responsabilidad civil o penal a que haya lugar. Cuando sea un particular quien incumpla la sentencia o resolución, se hará efectiva la responsabilidad determinada en la ley.
 
-- Todas las sentencias ejecutoriadas serán remitidas a la Corte Constitucional, para el desarrollo de su jurisprudencia.
+5. Todas las sentencias ejecutoriadas serán remitidas a la Corte Constitucional, para el desarrollo de su jurisprudencia.
 
-##### Art. 87.
-Se podrán ordenar medidas cautelares conjunta o Independientemente  de  las  acciones  constitucionales  de  protección  de derechos, con el objeto de evitar o hacer cesar la violación o amenaza de violación de un derecho.
+##### Art. 87.-
+Se podrán ordenar medidas cautelares conjunta o independientemente de las acciones constitucionales de protección de derechos, con el objeto de evitar o hacer cesar la violación o amenaza de violación de un derecho.
 
 #### Sección segunda Acción de protección
 
-##### Art.  88.
-La  acción  de  protección  tendrá  por  objeto  el  amparo  directo  y eficaz de los derechos reconocidos en la Constitución, y podrá interponerse cuando exista una vulneración de derechos constitucionales, por actos u omisiones  de  cualquier  autoridad  pública  no  judicial;  contra  políticas públicas cuando supongan la privación del goce o ejercicio de los derechos constitucionales; y cuando la violación proceda de una persona particular, si la violación del derecho provoca daño grave, si presta servicios públicos impropios, si actúa por delegación o concesión, o si la persona afectada se encuentra en estado de subordinación, indefensión o discriminación.
+##### Art. 88.-
+La acción de protección tendrá por objeto el amparo directo y eficaz de los derechos reconocidos en la Constitución, y podrá interponerse cuando exista una vulneración de derechos constitucionales, por actos u omisiones de cualquier autoridad pública no judicial; contra políticas públicas cuando supongan la privación del goce o ejercicio de los derechos constitucionales; y cuando la violación proceda de una persona particular, si la violación del derecho provoca daño grave, si presta servicios públicos impropios, si actúa por delegación o concesión, o si la persona afectada se encuentra en estado de subordinación, indefensión o discriminación.
 
 #### Sección tercera Acción de hábeas corpus
 
-##### Art. 89.
-La acción de hábeas corpus tiene por objeto recuperar la libertad de quien se encuentre privado de ella de forma ilegal, arbitraria o ilegítima, por order de autoridad pública o de cualquier persona, así como proteger la vida y la integridad física de las personas privadas de libertad.
+##### Art. 89.-
+La acción de hábeas corpus tiene por objeto recuperar la libertad de quien se encuentre privado de ella de forma ilegal, arbitraria o ilegítima, por orden de autoridad pública o de cualquier persona, así como proteger la vida y la integridad física de las personas privadas de libertad.
 
 64
 
@@ -1400,12 +1855,12 @@ En caso de verificarse cualquier forma de tortura, trato inhumano, cruel o degra
 
 Cuando  la  orden  de  privación  de  la  libertad  haya  sido  dispuesta  en  un proceso penal, el recurso se interpondrá ante la Corte Provincial de Justicia.
 
-##### Art.  90.
+##### Art. 90.-
 Cuando  se  desconozca  el  lugar  de  la  privación  de  libertad  y existan  indicios  sobre  la  intervención  de  algún  funcionario  público  o cualquier  otro  agente  del  Estado,  o  de  personas  que  actúen  con  su autorización,  apoyo  o  aquiescencia,  la  jueza  o  juez  deberá  convocar  a audiencia  al  máximo  representante  de  la  Policía  Nacional  y  al  ministro competente. Después de escucharlos, se adoptarán las medidas necesarias para ubicar a la persona y a los responsables de la privación de libertad.
 
 #### Sección cuarta Acción de acceso a la información pública
 
-##### Art. 91.
+##### Art. 91.-
 La  acción de acceso a la información pública tendrá por objeto garantizar el acceso a ella cuando ha sido denegada expresa o tácitamente, o cuando la que se ha proporcionado no sea completa o fidedigna. Podrá ser  interpuesta  incluso  si  la  negativa  se  sustenta  en  el  carácter  secreto, reservado, confidencial o cualquiera otra clasificación de la información. El carácter reservado de la información deberá ser declarado con anterioridad a la petición, por autoridad competente y de acuerdo con la ley.
 
 65
@@ -1416,7 +1871,7 @@ La  acción de acceso a la información pública tendrá por objeto garantizar e
 
 #### Sección quinta Acción de hábeas data
 
-##### Art.  92.
+##### Art. 92.-
 Toda  persona,  por  sus  propios  derechos  o  como  representante legitimado para el efecto, tendrá derecho a conocer de la existencia y a acceder a los documentos, datos genéticos, bancos o archivos de datos personales e informes  que  sobre  sí  misma,  o  sobre  sus  bienes,  consten  en  entidades públicas  o  privadas,  en  soporte  material  o  electrónico.  Asimismo  tendrá derecho a conocer el uso que se haga de ellos, su finalidad, el origen y destino de información personal y el tiempo de vigencia del archivo o banco de datos.
 
 Las personas responsables de los bancos o archivos de datos personales podrán difundir la información archivada con autorización de su titular o de la ley.
@@ -1425,12 +1880,12 @@ La persona titular de los datos podrá solicitar al responsable el acceso sin co
 
 #### Sección sexta Acción por Incumplimiento
 
-##### Art.  93.
+##### Art. 93.-
 La  acción  por  incumplimiento  tendrá  por  objeto  garantizar  la aplicación  de  las  normas  que  integran  el  sistema  jurídico,  así  como  el cumplimiento de sentencias o informes de organismos internacionales de derechos  humanos,  cuando  la  norma  o  decisión  cuyo  cumplimiento  se persigue  contenga  una  obligación  de  hacer  o  no  hacer  clara,  expresa  y exigible. La acción se interpondrá ante la Corte Constitucional.
 
 #### Sección séptima Acción extraordinaria de protección
 
-##### Art. 94.
+##### Art. 94.-
 La acción extraordinaria de protección procederá contra sentencias  o  autos  definitivos  en  los  que  se  haya  violado  por  acción  u omisión derechos reconocidos en la Constitución, y se interpondrá ante la Corte Constitucional.  El recurso procederá cuando se hayan agotado los recursos  ordinarios  y  extraordinarios  dentro  del  término  legal,  a  menos que  la  falta  de  interposición  de  estos  recursos  no  fuera  atribuible  a  la negligencia de la persona titular del derecho constitucional vulnerado.
 
 66
@@ -1445,19 +1900,19 @@ La acción extraordinaria de protección procederá contra sentencias  o  autos 
 
 #### Sección primera Principios de la participación
 
-##### Art.  95.
+##### Art. 95.-
 Las  ciudadanas  y  ciudadanos,  en  forma  individual  y  colectiva, participarán de manera protagónica en la toma de decisiones, planificación y gestión de  los asuntos  públicos,  y  en  el control  popular  de  las instituciones  del  Estado  y  la  sociedad,  y  de  sus  representantes,  en  un proceso permanente de construcción del poder ciudadano. La participación se  orientará  por  los  principios  de  igualdad,  autonomía,  deliberación pública, respeto a la diferencia, control popular, solidaridad e interculturalidad.
 
 La participación de la ciudadanía en todos los asuntos de interés público es  un  derecho,  que  se  ejercerá  a  través  de  los  mecanismos  de  la democracia representativa, directa y comunitaria.
 
 #### Sección segunda Organización colectiva
 
-##### Art.  96.
+##### Art. 96.-
 Se  reconocen  todas  las  formas  de  organización  de  la  sociedad, como  expresión  de  la  soberanía  popular  para  desarrollar  procesos  de autodeterminación e incidir en las decisiones y políticas públicas y en el control social de todos los niveles de gobierno, así como de las entidades públicas y de las privadas que presten servicios públicos.
 
 Las organizaciones podrán articularse en diferentes niveles para fortalecer el  poder  ciudadano  y  sus  formas  de  expresión;  deberán  garantizar  la democracia interna,  la  alternabilidad  de  sus  dirigentes  y  la  rendición  de cuentas.
 
-##### Art. 97.
+##### Art. 97.-
 Todas las organizaciones podrán desarrollar formas alternativas de  mediación  y  solución  de  conflictos,  en  los  casos  que  permita  la  ley;
 
 67
@@ -1470,24 +1925,24 @@ actuar  por  delegación  de  la  autoridad  competente,  con  asunción  de  la
 
 Se reconoce al voluntariado de acción social y desarrollo como una forma de participación social.
 
-##### Art.  98.
+##### Art. 98.-
 Los  individuos  y  los  colectivos  podrán  ejercer  el  derecho  a  la resistencia  frente  a  acciones  u  omisiones  del  poder  público  o  de  las personas  naturales  o  jurídicas  no  estatales  que  vulneren  o  puedan vulnerar sus derechos constitucionales, y demandar el reconocimiento de nuevos derechos.
 
-##### Art.  99.
+##### Art. 99.-
 La  acción  ciudadana  se  ejercerá  en  forma  individual  o  en representación de la colectividad, cuando se produzca la violación de un derecho  o  la  amenaza  de  su  afectación;  será  presentada  ante  autoridad competente de acuerdo con la ley. El ejercicio de esta acción no impedirá las demás acciones garantizadas en la Constitución y la ley.
 
 #### Sección tercera Participación en los diferentes niveles de gobierno
 
-##### Art. 100.
+##### Art. 100.-
 En todos los niveles de gobierno se conformarán instancias de participación integradas por autoridades electas, representantes del régimen dependiente y representantes de la sociedad del ámbito territorial de cada nivel de gobierno, que funcionarán regidas por principios democráticos. La participación en estas instancias se ejerce para:
 
-- Elaborar planes y políticas nacionales, locales y sectoriales entre los gobiernos y la ciudadanía.
+1. Elaborar planes y políticas nacionales, locales y sectoriales entre los gobiernos y la ciudadanía.
 
-- Mejorar  la  calidad  de  la  inversión  pública  y  definir  agendas  de desarrollo.
+2. Mejorar la calidad de la inversión pública y definir agendas de desarrollo.
 
-- Elaborar presupuestos participativos de los gobiernos.
+3. Elaborar presupuestos participativos de los gobiernos.
 
-- Fortalecer la democracia con mecanismos permanentes de transparencia, rendición de cuentas y control social.
+4. Fortalecer la democracia con mecanismos permanentes de transparencia, rendición de cuentas y control social.
 
 68
 
@@ -1495,26 +1950,26 @@ En todos los niveles de gobierno se conformarán instancias de participación in
 
 [[START OF PAGE 69]]
 
-- Promover la formación ciudadana e impulsar procesos de comunicación.
+5. Promover la formación ciudadana e impulsar procesos de comunicación.
 
 Para el ejercicio de esta participación se organizarán audiencias públicas, veedurías, asambleas, cabildos populares, consejos consultivos, observatorios y las demás instancias que promueva la ciudadanía.
 
-##### Art.  101.
-Las  sesiones  de  los  gobiernos  autónomos  descentralizados serán  públicas, y en  ellas existirá la silla  vacía  que  ocupará  una representante  o  un  representante  ciudadano  en  función  de  los  temas  a tratarse,  con  el  propósito  de  participar  en  su  debate  y  en  la  toma  de decisions.
+##### Art. 101.-
+Las sesiones de los gobiernos autónomos descentralizados serán públicas, y en ellas existirá la silla vacía que ocupará una representante o un representante ciudadano en función de los temas a tratarse, con el propósito de participar en su debate y en la toma de decisiones.
 
-##### Art. 102.
-Las ecuatorianas y ecuatorianos, incluidos aquellos domiciliados  en  el exterior,  en  forma  individual  o  colectiva,  podrán presentar  sus  propuestas  y  proyectos  a  todos  los  niveles  de  gobierno,  a través de los mecanismos previstos en la Constitución y la ley.
+##### Art. 102.-
+Las ecuatorianas y ecuatorianos, incluidos aquellos domiciliados en el exterior, en forma individual o colectiva, podrán presentar sus propuestas y proyectos a todos los niveles de gobierno, a través de los mecanismos previstos en la Constitución y la ley.
 
 #### Sección cuarta Democracia directa
 
-##### Art.  103.
-La  iniciativa  popular  normativa  se  ejercerá  para  proponer  la creación,  reforma  o  derogatoria  de  normas  jurídicas  ante  la  Función Legislativa  o  cualquier  otro  órgano  con  competencia  normativa.  Deberá contar  con  el  respaldo  de  un  número  no  inferior  al  cero  punto  veinte  y cinco  por  ciento  de  las  personas  inscritas  en  el  registro  electoral  de  la jurisdicción correspondiente.
+##### Art. 103.-
+La iniciativa popular normativa se ejercerá para proponer la creación, reforma o derogatoria de normas jurídicas ante la Función Legislativa o cualquier otro órgano con competencia normativa. Deberá contar con el respaldo de un número no inferior al cero punto veinte y cinco por ciento de las personas inscritas en el registro electoral de la jurisdicción correspondiente.
 
-Quienes propongan la iniciativa popular participarán, mediante representantes,  en  el  debate  del  proyecto  en  el  órgano  correspondiente, que tendrá un plazo de ciento ochenta días para tratar la propuesta; si no lo hace, la propuesta entrará en vigencia.
+Quienes propongan la iniciativa popular participarán, mediante representantes, en el debate del proyecto en el órgano correspondiente, que tendrá un plazo de ciento ochenta días para tratar la propuesta; si no lo hace, la propuesta entrará en vigencia.
 
-Cuando se trate  de  un  proyecto  de  ley,  la  Presidenta  o  Presidente  de  la República podrá enmendar el proyecto pero no vetarlo totalmente.
+Cuando se trate de un proyecto de ley, la Presidenta o Presidente de la República podrá enmendar el proyecto pero no vetarlo totalmente.
 
-Para la presentación de propuestas de reforma constitucional se requerirá el  respaldo  de  un  número  no  inferior  al  uno  por  ciento  de  las  personas inscritas en el registro electoral. En el caso de que la Función Legislativa no  trate  la  propuesta  en  el  plazo  de  un  año,  los  proponentes  podrán solicitar  al  Consejo  Nacional  Electoral  que  convoque  a  consulta  popular, sin necesidad de presentar el ocho por ciento de respaldo de los inscritos en el registro electoral. Mientras se tramite una propuesta ciudadana de reforma constitucional no podrá presentarse otra.
+Para la presentación de propuestas de reforma constitucional se requerirá el respaldo de un número no inferior al uno por ciento de las personas inscritas en el registro electoral. En el caso de que la Función Legislativa no trate la propuesta en el plazo de un año, los proponentes podrán solicitar al Consejo Nacional Electoral que convoque a consulta popular, sin necesidad de presentar el ocho por ciento de respaldo de los inscritos
 
 69
 
@@ -1522,8 +1977,10 @@ Para la presentación de propuestas de reforma constitucional se requerirá el  
 
 [[START OF PAGE 70]]
 
-##### Art.  104.
-EI  organismo  electoral  correspondiente  convocará  a  consulta popular por disposición de la Presidenta o Presidente de la República, de la máxima  autoridad  de  los  gobiernos  autónomos  descentralizados  o  de  la iniciativa ciudadana.
+en el registro electoral. Mientras se tramite una propuesta ciudadana de reforma constitucional no podrá presentarse otra.
+
+##### Art. 104.-
+El organismo electoral correspondiente convocará a consulta popular por disposición de la Presidenta o Presidente de la República, de la máxima autoridad de los gobiernos autónomos descentralizados o de la iniciativa ciudadana.
 
 La Presidenta o Presidente de la República dispondrá al Consejo Nacional Electoral que convoque a consulta popular sobre los asuntos que estime convenientes.
 
@@ -1537,10 +1994,10 @@ Las consultas populares que soliciten los gobiernos autónomos descentralizados 
 
 En todos los casos, se requerirá dictamen previo de la Corte Constitucional sobre la constitucionalidad de las preguntas propuestas.
 
-##### Art. 105.
+##### Art. 105.-
 Las personas en goce de los derechos políticos podrán revocar el mandato a las autoridades de elección popular.
 
-La  solicitud  de  revocatoria  del  mandato  podrá  presentarse  una  vez cumplido  el  primero  y  antes  del  último  año  del  periodo  para  el  que  fue electa  la  autoridad  cuestionada.  Durante  el  periodo  de  gestión  de  una autoridad podrá realizarse sólo un proceso de revocatoria del mandato.
+La solicitud de revocatoria del mandato podrá presentarse una vez cumplido el primero y antes del último año del periodo para el que fue
 
 70
 
@@ -1548,21 +2005,23 @@ La  solicitud  de  revocatoria  del  mandato  podrá  presentarse  una  vez cump
 
 [[START OF PAGE 71]]
 
+electa la autoridad cuestionada. Durante el periodo de gestión de una autoridad podrá realizarse sólo un proceso de revocatoria del mandato.
+
 La solicitud de revocatoria deberá respaldarse por un número no inferior al diez por ciento de personas inscritas en el registro electoral correspondiente. Para el caso de la Presidenta o Presidente de la República se requerirá el respaldo de un número no inferior al quince por ciento de inscritos en el registro electoral.
 
-##### Art. 106.
+##### Art. 106.-
 El Consejo Nacional Electoral, una vez que conozca la decisión de la Presidenta o Presidente de la República o de los gobiernos autónomos descentralizados,  o  acepte  la  solicitud  presentada  por  la  ciudadanía, convocará  en  el  plazo  de  quince  días  a  referéndum,  consulta  popular  o revocatoria del mandato, que deberá efectuarse en los siguientes sesenta días.
 
 Para  la  aprobación  de  un  asunto  propuesto  a  referéndum,  consulta popular o revocatoria del mandato, se requerirá la mayoría absoluta de los votos  válidos,  salvo  la  revocatoria  de  la  Presidenta  o  Presidente  de  la República en cuyo caso se requerirá la mayoría absoluta de los sufragantes.
 
 El pronunciamiento popular será de obligatorio e inmediato cumplimiento. En  el  caso  de  revocatoria  del  mandato  la  autoridad  cuestionada  será cesada de su cargo y será reemplazada por quien corresponda de acuerdo con la Constitución.
 
-##### Art.  107.
+##### Art. 107.-
 Los gastos que  demande  la  realización  de  los  procesos electorales que se convoquen por disposición de los gobiernos autónomos descentralizados se imputarán al presupuesto del correspondiente nivel de gobierno;  los  que  se  convoquen  por  disposición  de  la  Presidenta  o Presidente de la República o por solicitud de la ciudadanía se imputarán al Presupuesto General del Estado.
 
 #### Sección quinta Organizaciones políticas
 
-##### Art.  108.
+##### Art. 108.-
 Los partidos y movimientos  políticos son organizaciones públicas no estatales, que constituyen expresiones de la pluralidad política del  pueblo  y  sustentarán  concepciones  filosóficas,  políticas,  ideológicas, incluyentes y no discriminatorias.
 
 71
@@ -1571,21 +2030,21 @@ Los partidos y movimientos  políticos son organizaciones públicas no estatales
 
 [[START OF PAGE 72]]
 
-Su organización, estructura y funcionamiento será democráticos y garantizarán la alternabilidad, rendición  de  cuentas  y  conformación paritaria entre mujeres y hombres en sus directivas. Seleccionarán a sus directivas y candidaturas mediante procesos electorales internos o elecciones primarias.
+Su organización, estructura y funcionamiento serán democráticos y garantizarán la alternabilidad, rendición de cuentas y conformación paritaria entre mujeres y hombres en sus directivas. Seleccionarán a sus directivas y candidaturas mediante procesos electorales internos o elecciones primarias.
 
-##### Art. 109.
+##### Art. 109.-
 Los partidos políticos serán de carácter nacional, se regirán por sus  principios  y  estatutos,  propondrán  un  programa  de  gobierno  y mantendrán el registro de sus afiliados. Los movimientos políticos podrán corresponder  a  cualquier  nivel  de  gobierno  o  a  la  circunscripción  del exterior.  La  ley  establecerá  los  requisitos  y  condiciones  de  organización, permanencia  y  accionar  democrático  de  los  movimientos  políticos,  así como los incentivos para que conformen alianzas.
 
 Los  partidos  políticos  deberán  presentar  su  declaración  de  principios ideológicos, programa de gobierno que establezca las acciones básicas que se  proponen  realizar,  estatuto,  símbolos,  siglas,  emblemas,  distintivos, nómina de la directiva. Los partidos deberán contar con una organización nacional,  que  comprenderá  al  menos  al  cincuenta  por  ciento  de  las provincias del país, dos de las cuales deberán corresponder a las tres de mayor población. El registro de afiliados no podrá ser menor al uno punto cinco  por  ciento  del  registro  electoral  utilizado  en  el  último  proceso electoral.
 
 Los movimientos políticos deberán presentar una declaración de principios, programa de gobierno, símbolos, siglas, emblemas, distintivos y registro de adherentes o simpatizantes, en número no inferior al uno punto cinco por ciento del registro electoral utilizado en el último proceso electoral.
 
-##### Art.  110.
+##### Art. 110.-
 Los  partidos  y  movimientos  políticos  se  financiarán  con  los aportes de sus afiliadas, afiliados y simpatizantes, y en la medida en que cumplan  con  los  requisitos  que  establezca  la  ley,  los  partidos  políticos recibirán asignaciones del Estado sujetas a control.
 
 El  movimiento  político  que  en  dos  elecciones  pluripersonales  sucesivas obtenga  al  menos  el  cinco  por  ciento  de  votos  válidos  a  nivel  nacional, adquirirá iguales derechos y deberá cumplir las mismas obligaciones que los partidos políticos.
 
-##### Art.  111.
+##### Art. 111.-
 Se reconoce el derecho de los partidos y movimientos políticos registrados en el Consejo Nacional Electoral a la oposición política en todos los niveles de gobierno.
 
 72
@@ -1596,7 +2055,7 @@ Se reconoce el derecho de los partidos y movimientos políticos registrados en e
 
 #### Sección sexta Representación política
 
-##### Art.  112 .-
+##### Art. 112.-
 Los  partidos  y  movimientos  políticos  o  sus  alianzas  podrán presentar a militantes, simpatizantes o personas  no  afiliadas  como candidatas de elección popular.  Los movimientos políticos requerirán el respaldo de personas inscritas en el registro electoral de la correspondiente jurisdicción en un número no inferior al uno punto cinco por ciento.
 
 Al solicitar la inscripción quienes postulen su candidatura presentarán su programa de gobierno o sus propuestas.
@@ -1605,17 +2064,17 @@ Al solicitar la inscripción quienes postulen su candidatura presentarán su pro
 
 No podrán ser candidatas o candidatos de elección popular:
 
-- Quienes  al  inscribir  su  candidatura  tengan  contrato  con  el  Estado, como  personas  naturales  o  como  representantes  o  apoderados  de personas jurídicas, siempre que el contrato se haya celebrado para la ejecución de obra pública, prestación de servicio público o explotación de recursos naturales.
+1. Quienes al inscribir su candidatura tengan contrato con el Estado, como personas naturales o como representantes o apoderados de personas jurídicas, siempre que el contrato se haya celebrado para la ejecución de obra pública, prestación de servicio público o explotación de recursos naturales.
 
-- Quienes  hayan  recibido  sentencia  condenatoria  ejecutoriada  por delitos  sancionados  con  reclusión,  o  por  cohecho,  enriquecimiento ilícito o peculado.
+2. Quienes hayan recibido sentencia condenatoria ejecutoriada por delitos sancionados con reclusión, o por cohecho, enriquecimiento ilícito o peculado.
 
-- Quienes adeuden pensiones alimenticias.
+3. Quienes adeuden pensiones alimenticias.
 
-- Las juezas y jueces de la Función Judicial, del Tribunal Contencioso Electoral,  y  los  miembros  de  la  Corte  Constitucional  y  del  Consejo Nacional Electoral, salvo que hayan renunciado a sus funciones seis meses antes de la fecha señalada para la elección.
+4. Las juezas y jueces de la Función Judicial, del Tribunal Contencioso Electoral, y los miembros de la Corte Constitucional y del Consejo Nacional Electoral, salvo que hayan renunciado a sus funciones seis meses antes de la fecha señalada para la elección.
 
-- Los miembros del servicio exterior que cumplan funciones fuera del país no podrán ser candidatas ni candidatos en representación de las ecuatorianas y ecuatorianos en el exterior, salvo que hayan renunciado  a  sus  funciones  seis  meses  antes  de  la  fecha  señalada para la elección.
+5. Los miembros del servicio exterior que cumplan funciones fuera del país no podrán ser candidatas ni candidatos en representación de las ecuatorianas y ecuatorianos en el exterior, salvo que hayan renunciado a sus funciones seis meses antes de la fecha señalada para la elección.
 
-- Las servidoras y servidores públicos de libre nombramiento  y remoción,  y  los  de  periodo  fijo,  salvo  que  hayan  renunciado  con anterioridad  a  la  fecha  de  la  inscripción  de  su  candidatura.  Las demás  servidoras  o  servidores públicos y los  docentes,  podrán candidatizarse  y  gozarán  de  licencia  sin  sueldo  desde  la  fecha  de
+6. Las servidoras y servidores públicos de libre nombramiento y remoción, y los de periodo fijo, salvo que hayan renunciado con anterioridad a la fecha de la inscripción de su candidatura. Las demás servidoras o servidores públicos y los docentes, podrán candidatizarse y gozarán de licencia sin sueldo desde la fecha de
 
 73
 
@@ -1625,24 +2084,24 @@ No podrán ser candidatas o candidatos de elección popular:
 
 inscripción de sus candidaturas hasta el día siguiente de las elecciones,  y  de  ser  elegidos,  mientras  ejerzan  sus  funciones.  El ejercicio  del  cargo  de  quienes  sean  elegidos  para  integrar  las  juntas parroquiales no será incompatible con el desempeño de sus funciones como servidoras o servidores públicos, o docentes.
 
-- Quienes hayan ejercido autoridad ejecutiva en gobiernos de facto.
+7. Quienes hayan ejercido autoridad ejecutiva en gobiernos de facto.
 
-- Los  miembros  de  las  Fuerzas  Armadas  y  de  la  Policía  Nacional  en servicio activo.
+8. Los miembros de las Fuerzas Armadas y de la Policía Nacional en servicio activo.
 
-##### Art. 114.
+##### Art. 114.-
 Las autoridades de elección popular podrán reelegirse por una sola  vez,  consecutiva  o  no,  para  el  mismo  cargo.  Las  autoridades  de elección popular que se postulen para un  cargo diferente  deberán renunciar al que desempeñan.
 
-##### Art. 115.
+##### Art. 115.-
 El Estado, a través de los medios de comunicación, garantizará de  forma  equitativa  e  igualitaria  la  promoción  electoral  que  propicie  el debate  y  la  difusión  de  las  propuestas  programáticas  de  todas  las candidaturas. Los sujetos políticos no podrán contratar publicidad en los medios de comunicación y vallas publicitarias.
 
 Se prohíbe el uso de los recursos y la infraestructura estatales, así como la publicidad  gubernamental,  en  todos  los  niveles  de  gobierno,  para  la campaña electoral.
 
 La ley establecerá sanciones para quienes incumplan estas disposiciones y determinará el límite y los mecanismos de control de la propaganda y el gasto electoral.
 
-##### Art.  116.
+##### Art. 116.-
 Para  las  elecciones  pluripersonales,  la  ley  establecerá  un sistema electoral conforme a los principios de proporcionalidad, igualdad del  voto,  equidad,  paridad  y  alternabilidad  entre  mujeres  y  hombres;  y determinará las circunscripciones electorales dentro y fuera del país.
 
-##### Art.  117.
+##### Art. 117.-
 Se  prohíbe  realizar  reformas  legales  en  materia  electoral durante el año anterior a la celebración de elecciones.
 
 En caso de que la declaratoria de inconstitucionalidad de una disposición afecte  el  normal  desarrollo  del  proceso  electoral,  el  Consejo  Nacional Electoral propondrá a la Función Legislativa un proyecto de ley para que ésta  lo  considere  en  un  plazo  no  mayor  de  treinta  días;  de  no  tratarlo, entrará en vigencia por el ministerio de la ley.
@@ -1657,28 +2116,28 @@ En caso de que la declaratoria de inconstitucionalidad de una disposición afect
 
 #### Sección primera Asamblea Nacional
 
-##### Art. 118.
+##### Art. 118.-
 La Función Legislativa se ejerce por la Asamblea Nacional, que se integrará por asambleístas elegidos para un periodo de cuatro años.
 
 La Asamblea  Nacional es unicameral y tendrá su sede en Quito. Excepcionalmente podrá reunirse en cualquier parte del territorio nacional.
 
 La Asamblea Nacional se integrará por:
 
-- Quince asambleístas elegidos en circunscripción nacional.
+1. Quince asambleístas elegidos en circunscripción nacional.
 
-- Dos  asambleístas  elegidos  por  cada  provincia,  y  uno  más  por  cada doscientos mil habitantes o fracción que supere los ciento cincuenta mil, de acuerdo al último censo nacional de la población.
+2. Dos asambleístas elegidos por cada provincia, y uno más por cada doscientos mil habitantes o fracción que supere los ciento cincuenta mil, de acuerdo al último censo nacional de la población.
 
-- La  ley  determinará  la  elección  de  asambleístas  de  regiones,  de distritos metropolitanos, y de la circunscripción del exterior.
+3. La ley determinará la elección de asambleístas de regiones, de distritos metropolitanos, y de la circunscripción del exterior.
 
-##### Art. 119.
+##### Art. 119.-
 Para ser asambleísta se requerirá tener nacionalidad ecuatoriana,  haber  cumplido  dieciocho  años  de  edad  al  momento  de  la inscripción de la candidatura y estar en goce de los derechos políticos.
 
-##### Art.  120.
+##### Art. 120.-
 La  Asamblea  Nacional  tendrá  las  siguientes  atribuciones  y deberes, además de las que determine la ley:
 
-- Posesionar  a  la  Presidenta  o  Presidente  y  a  la  Vicepresidenta  o Vicepresidente  de  la  República  proclamados  electos  por  el  Consejo Nacional Electoral. La posesión tendrá lugar el veinticuatro de mayo del año de su elección.
+1. Posesionar a la Presidenta o Presidente y a la Vicepresidenta o Vicepresidente de la República proclamados electos por el Consejo Nacional Electoral. La posesión tendrá lugar el veinticuatro de mayo del año de su elección.
 
-- Declarar  la  incapacidad  física  o  mental  inhabilitante  para  ejercer  el cargo de Presidenta o Presidente de la República y resolver el cese de sus funciones de acuerdo con lo previsto en la Constitución.
+2. Declarar la incapacidad física o mental inhabilitante para ejercer el cargo de Presidenta o Presidente de la República y resolver el cese de sus funciones de acuerdo con lo previsto en la Constitución.
 
 75
 
@@ -1686,27 +2145,27 @@ La  Asamblea  Nacional  tendrá  las  siguientes  atribuciones  y deberes, adem�
 
 [[START OF PAGE 76]]
 
-- Elegir  a  la  Vicepresidenta  o  Vicepresidente,  en  caso  de  su  falta definitiva, de una terna propuesta por la Presidenta o Presidente de la República.
+3. Elegir a la Vicepresidenta o Vicepresidente, en caso de su falta definitiva, de una terna propuesta por la Presidenta o Presidente de la República.
 
-- Conocer  los  informes  anuales  que  debe  presentar  la  Presidenta  o Presidente de la República y pronunciarte al respecto.
+4. Conocer los informes anuales que debe presentar la Presidenta o Presidente de la República y pronunciarse al respecto.
 
-- Participar en el proceso de reforma constitucional.
+5. Participar en el proceso de reforma constitucional.
 
-- Expedir, codificar,  reformar  y  derogar  las  leyes,  e  interpretarlas  con carácter generalmente obligatorio.
+6. Expedir, codificar, reformar y derogar las leyes, e interpretarlas con carácter generalmente obligatorio.
 
-- Crear, modificar o suprimir tributos mediante ley, sin menoscabo de las atribuciones conferidas a los gobiernos autónomos descentralizados.
+7. Crear, modificar o suprimir tributos mediante ley, sin menoscabo de las atribuciones conferidas a los gobiernos autónomos descentralizados.
 
-- Aprobar  o  improbar  los  tratados  internacionales  en  los  casos  que corresponda.
+8. Aprobar o improbar los tratados internacionales en los casos que corresponda.
 
-- Fiscalizar los actos de las funciones Ejecutiva, Electoral y de Transparencia y Control Social, y los otros órganos del poder público, y requerir a las servidoras y servidores públicos las informaciones que considere necesarias.
+9. Fiscalizar los actos de las funciones Ejecutiva, Electoral y de Transparencia y Control Social, y los otros órganos del poder público, y requerir a las servidoras y servidores públicos las informaciones que considere necesarias.
 
-- Autorizar con la votación de las dos terceras partes de sus integrantes, el enjuiciamiento penal de la Presidenta o Presidente o de la Vicepresidenta o Vicepresidente de la República, cuando la autoridad competente lo solicite fundadamente.
+10. Autorizar con la votación de las dos terceras partes de sus integrantes, el enjuiciamiento penal de la Presidenta o Presidente o de la Vicepresidenta o Vicepresidente de la República, cuando la autoridad competente lo solicite fundadamente.
 
-- Posesionar  a  la  máxima  autoridad  de  la  Procuraduría  General  del Estado, Contraloría General del Estado, Fiscalía General del Estado, Defensoría del Pueblo, Defensoría Pública, Superintendencias, y a los miembros del Consejo Nacional Electoral, del Consejo de la Judicatura y del Consejo de Participación Ciudadana y Control Social.
+11. Posesionar a la máxima autoridad de la Procuraduría General del Estado, Contraloría General del Estado, Fiscalía General del Estado, Defensoría del Pueblo, Defensoría Pública, Superintendencias, y a los miembros del Consejo Nacional Electoral, del Consejo de la Judicatura y del Consejo de Participación Ciudadana y Control Social.
 
-- Aprobar  el  Presupuesto  General  del  Estado,  en  el  que  constará  el límite del endeudamiento público, y vigilar su ejecución.
+12. Aprobar el Presupuesto General del Estado, en el que constará el límite del endeudamiento público, y vigilar su ejecución.
 
-- Conceder amnistías por delitos políticos e indultos por motivos humanitarios,  con  el  voto  favorable  de  las  dos  terceras  partes  de  sus integrantes. No se concederán por delitos cometidos contra la administración  pública  ni  por  genocidio,  tortura,  desaparición  forzada de personas, secuestro y homicidio por razones políticas o de conciencia.
+13. Conceder amnistías por delitos políticos e indultos por motivos humanitarios, con el voto favorable de las dos terceras partes de sus integrantes. No se concederán por delitos cometidos contra la administración pública ni por genocidio, tortura, desaparición forzada de personas, secuestro y homicidio por razones políticas o de conciencia.
 
 76
 
@@ -1714,28 +2173,28 @@ La  Asamblea  Nacional  tendrá  las  siguientes  atribuciones  y deberes, adem�
 
 [[START OF PAGE 77]]
 
-##### Art. 121.
+##### Art. 121.-
 La Asamblea Nacional elegirá a una Presidenta o Presidente y a dos  Vicepresidentas  o  Vicepresidentes  de  entre  sus  miembros,  para  un periodo de dos años, y podrán ser reelegidos.
 
 Las Vicepresidentas o Vicepresidentes ocuparán, en su orden, la Presidencia en caso de ausencia temporal o definitiva, o de renuncia del cargo. La Asamblea Nacional llenará las vacantes cuando sea el caso, y por el tiempo que falte, para completar los periodos.
 
 La  Asamblea  Nacional  elegirá  de  fuera  de  su  seno  a  una  secretaria  o secretario y a una prosecretaria o prosecretario.
 
-##### Art. 122.
-EI máximo órgano de la administración legislativa se integrará por quienes ocupen la Presidencia y las dos Vicepresidencias, y por cuatro vocales elegidos por la Asamblea Nacional de entre asambleístas pertenecientes a diferentes bancadas legislativas.
+##### Art. 122.-
+El máximo órgano de la administración legislativa se integrará por quienes ocupen la Presidencia y las dos Vicepresidencias, y por cuatro vocales elegidos por la Asamblea Nacional de entre asambleístas pertenecientes a diferentes bancadas legislativas.
 
-##### Art. 123.
+##### Art. 123.-
 La Asamblea Nacional se instalará en Quito, sin necesidad de convocatoria, el catorce de mayo del año de su elección. El pleno sesionará de forma ordinaria y permanente, con dos recesos al año de quince días cada uno. Las sesiones de la Asamblea Nacional serán públicas, salvo las excepciones establecidas en la ley.
 
 Durante  el  tiempo  de  receso, la  Presidenta  o  Presidente  de  la  Asamblea Nacional, por sí, a petición de la mayoría de los miembros de la Asamblea o  de  la  Presidenta  o  Presidente  de  la  República,  convocará  a  periodos extraordinarios  de  sesiones  para  conocer  exclusivamente  los  asuntos específicos señalados en la convocatoria.
 
-##### Art.  124.
+##### Art. 124.-
 Los  partidos  o  movimientos  políticos  que  cuenten  con  un número de asambleístas que represente al menos el diez por ciento de los miembros de la Asamblea Nacional podrán formar una bancada legislativa. Los partidos o movimientos que no lleguen a tal porcentaje podrán unirse con otros para formarla.
 
-##### Art. 125.
+##### Art. 125.-
 Para el cumplimiento de sus atribuciones, la Asamblea Nacional integrará comisiones especializadas permanentes, en las que participarán todos  sus  miembros.  La  ley  determinará  el  número,  conformación  y competencias de cada una de ellas.
 
-##### Art. 126.
+##### Art. 126.-
 Para el cumplimiento de sus labores la Asamblea Nacional se regirá por la ley correspondiente y su reglamento interno. Para la reforma o codificación de esta ley se requerirá la mayoría absoluta de los miembros de la Asamblea.
 
 77
@@ -1744,31 +2203,31 @@ Para el cumplimiento de sus labores la Asamblea Nacional se regirá por la ley c
 
 [[START OF PAGE 78]]
 
-##### Art.  127.
+##### Art. 127.-
 Las  asambleístas  y  los  asambleístas  ejercerán  una  función pública al servicio del país, actuarán con sentido nacional, serán responsables políticamente ante la sociedad de sus acciones u omisiones en el cumplimiento de sus deberes y atribuciones, y estarán obligados a rendir cuentas a sus mandantes.
 
 Las asambleístas y los asambleístas no podrán:
 
-- Desempeñar ninguna otra función pública o privada, ni dedicarse a sus  actividades  profesionales  si  fueran  incompatibles  con  su  cargo, excepto la docencia universitaria siempre que su horario lo permita.
+1. Desempeñar ninguna otra función pública o privada, ni dedicarse a sus actividades profesionales si fueran incompatibles con su cargo, excepto la docencia universitaria siempre que su horario lo permita.
 
-- Ofrecer,  tramitar,  recibir  o  administrar  recursos  del  Presupuesto General del Estado, salvo los destinados al funcionamiento administrativo de la Asamblea Nacional.
+2. Ofrecer, tramitar, recibir o administrar recursos del Presupuesto General del Estado, salvo los destinados al funcionamiento administrativo de la Asamblea Nacional.
 
-- Gestionar nombramientos de cargos públicos.
+3. Gestionar nombramientos de cargos públicos.
 
-- Percibir  dietas  u  otros  ingresos  de  fondos  públicos  que  no  sean  los correspondientes a su función de asambleístas.
+4. Percibir dietas u otros ingresos de fondos públicos que no sean los correspondientes a su función de asambleístas.
 
-- Aceptar nombramientos, delegaciones, comisiones o representaciones remuneradas de otras funciones del Estado.
+5. Aceptar nombramientos, delegaciones, comisiones o representaciones remuneradas de otras funciones del Estado.
 
-- Integrar  directorios  de  otros  cuerpos  colegiados  de  instituciones  o empresas en las que tenga participación el Estado.
+6. Integrar directorios de otros cuerpos colegiados de instituciones o empresas en las que tenga participación el Estado.
 
-- Celebrar contratos con entidades del sector público.
+7. Celebrar contratos con entidades del sector público.
 
 Quien  incumpla  alguna  de  estas  prohibiciones  perderá  la  calidad  de asambleísta, además de las responsabilidades que determine la ley.
 
-##### Art. 128.
+##### Art. 128.-
 Las asambleístas y los asambleístas gozarán de fuero de Corte Nacional de Justicia durante el ejercicio de sus funciones; no serán civil ni penalmente  responsables  por  las opiniones que  emitan, ni por las decisiones o actos que realicen en el ejercicio de sus funciones, dentro y fuera de la Asamblea Nacional.
 
-Para iniciar causa penal en contra de una asambleísta o de un asambleísta se  requerirá  autorización previa de la Asamblea Nacional, excepto en los casos que no se encuentren relacionados con el ejercicio de sus funciones. Si la solicitud de la jueza o juez competente en la que pide la autorización para  el  enjuiciamiento  no  se  contesta  en  el  plazo  de  treinta  días,  se entenderá  concedida.  Durante  los  periodos  de  receso  se  suspenderá  el decurso del plazo mencionado. Solo se les podrá privar de libertad en caso de delito flagrante o sentencia ejecutoriada.
+Para iniciar causa penal en contra de una asambleísta o de un asambleísta se requerirá autorización previa de la Asamblea Nacional, excepto en los casos que no se encuentren relacionados con el ejercicio de sus funciones. Si la solicitud de la jueza o juez competente en la que pide la autorización
 
 78
 
@@ -1776,18 +2235,20 @@ Para iniciar causa penal en contra de una asambleísta o de un asambleísta se  
 
 [[START OF PAGE 79]]
 
-Las causas penales que se hayan iniciado con anterioridad a la posesión del  cargo  continuarán  en  trámite  ante  la  jueza  o  juez  que  avocó  el conocimiento de la causa.
+para el enjuiciamiento no se contesta en el plazo de treinta días, se entenderá concedida. Durante los periodos de receso se suspenderá el decurso del plazo mencionado. Solo se les podrá privar de libertad en caso de delito flagrante o sentencia ejecutoriada.
+
+Las causas penales que se hayan iniciado con anterioridad a la posesión del cargo continuarán en trámite ante la jueza o juez que avocó el conocimiento de la causa.
 
 #### Sección segunda Control de la acción de gobierno
 
-##### Art. 129.
+##### Art. 129.-
 La Asamblea Nacional podrá proceder al enjuiciamiento político de la Presidenta o Presidente, o de la Vicepresidenta o Vicepresidente de la República, a solicitud de al menos una tercera parte de sus miembros, en los siguientes casos:
 
-- Por delitos contra la seguridad del Estado.
+1. Por delitos contra la seguridad del Estado.
 
-- Por delitos de concusión, cohecho, peculado o enriquecimiento ilícito.
+2. Por delitos de concusión, cohecho, peculado o enriquecimiento ilícito.
 
-- Por  delitos  de  genocidio,  tortura,  desaparición  forzada  de  personas, secuestro u homicidio por razones políticas o de conciencia.
+3. Por delitos de genocidio, tortura, desaparición forzada de personas, secuestro u homicidio por razones políticas o de conciencia.
 
 Para iniciar el juicio político se requerirá el dictamen de admisibilidad de la Corte Constitucional, pero no será necesario el enjuiciamiento penal previo.
 
@@ -1795,10 +2256,10 @@ En un plazo de setenta y dos horas, concluido el procedimiento establecido en la
 
 Para proceder a la censura y destitución se requerirá el voto favorable de las dos terceras partes de los miembros de la Asamblea Nacional. Si de la censura se derivan indicios de responsabilidad penal, se dispondrá que el asunto pase a conocimiento de la jueza o juez competente.
 
-##### Art.  130.
+##### Art. 130.-
 La  Asamblea  Nacional  podrá  destituir  a  la  Presidenta  o Presidente de la República en los siguientes casos:
 
-- Por  arrogarse  funciones  que  no  le  competan  constitucionalmente, previo dictamen favorable de la Corte Constitucional.
+1. Por arrogarse funciones que no le competan constitucionalmente, previo dictamen favorable de la Corte Constitucional.
 
 79
 
@@ -1806,7 +2267,7 @@ La  Asamblea  Nacional  podrá  destituir  a  la  Presidenta  o Presidente de la
 
 [[START OF PAGE 80]]
 
-- Por grave crisis política y conmoción interna.
+2. Por grave crisis política y conmoción interna.
 
 En un plazo de setenta y dos horas, concluido el procedimiento establecido en la ley, la Asamblea Nacional resolverá motivadamente con base en las pruebas de descargo presentadas por la Presidenta o Presidente de la República.
 
@@ -1816,7 +2277,7 @@ Esta  facultad  podrá  ser  ejercida  por  una  sola  vez  durante  el  periodo
 
 En  un  plazo  máximo  de  siete  días  después  de  la  publicación  de  la resolución  de  destitución,  el  Consejo  Nacional  Electoral  convocará  para una  misma  fecha  a  elecciones  legislativas  y  presidenciales  anticipadas para  el  resto  de  los  respectivos  periodos.  La  instalación  de  la  Asamblea Nacional y la posesión de la Presidenta o Presidente electo tendrá lugar de acuerdo con lo previsto en la Constitución, en la fecha determinada por el Consejo Nacional Electoral.
 
-##### Art. 131.
+##### Art. 131.-
 La Asamblea Nacional podrá proceder al enjuiciamiento político, a  solicitud  de  al  menos  una  cuarta  parte  de  sus  miembros  y  por incumplimiento de las funciones que les asignan la Constitución y la ley, de  las  ministras  o  ministros  de  Estado,  o  de  la  máxima  autoridad  de  la Procuraduría General del Estado, Contraloría General del Estado, Fiscalía General  del  Estado,  Defensoría  del  Pueblo,  Defensoría  Pública  General, Superintendencias,  y  de  los  miembros  del  Consejo  Nacional  Electoral, Tribunal  Contencioso  Electoral,  Consejo  de  la  Judicatura  y  Consejo  de Participación Ciudadana y Control Social, y de las demás autoridades que la Constitución determine, durante el ejercicio de su cargo y hasta un año después de terminado.
 
 Para proceder a su censura y destitución se requerirá el voto favorable de la  mayoría  absoluta  de  los  miembros  de  la  Asamblea  Nacional,  con excepción  de  las  ministras  o  ministros  de  Estado  y  los  miembros  de  la Función  Electoral  y  del  Consejo  de  la  Judicatura,  en  cuyo  caso  se requerirá las dos terceras partes.
@@ -1831,20 +2292,20 @@ La censura producirá la inmediata destitución de la autoridad. Si de los motiv
 
 #### Sección tercera Procedimiento legislativo
 
-##### Art.  132.
+##### Art. 132.-
 La  Asamblea  Nacional  aprobará  como  leyes  las  normas generales de interés común. Las atribuciones de la Asamblea Nacional que no requieran de la expedición de una ley se ejercerán a través de acuerdos o resoluciones. Se requerirá de ley en los siguientes casos:
 
-- Regular el ejercicio de tos derechos y garantías constitucionales.
+1. Regular el ejercicio de los derechos y garantías constitucionales.
 
-- Tipificar infracciones y establecer las sanciones correspondientes.
+2. Tipificar infracciones y establecer las sanciones correspondientes.
 
-- Crear, modificar o suprimir tributos, sin menoscabo de las atribuciones que la Constitución confiere a los gobiernos autónomos descentralizados.
+3. Crear, modificar o suprimir tributos, sin menoscabo de las atribuciones que la Constitución confiere a los gobiernos autónomos descentralizados.
 
-- Atribuir  deberes,  responsabilidades  y  competencias  a  los  gobiernos autónomos descentralizados.
+4. Atribuir deberes, responsabilidades y competencias a los gobiernos autónomos descentralizados.
 
-- Modificar  la  división  político-administrativa  del  país,  excepto  en  lo relativo a las parroquias.
+5. Modificar la división político-administrativa del país, excepto en lo relativo a las parroquias.
 
-- Otorgar a los organismos públicos de control y regulación la facultad de expedir normas de carácter general en las materias propias de su competencia,  sin  que  puedan  alterar  o  innovar  las  disposiciones legales.
+6. Otorgar a los organismos públicos de control y regulación la facultad de expedir normas de carácter general en las materias propias de su competencia, sin que puedan alterar o innovar las disposiciones legales.
 
 ##### Art. 133.-
 
@@ -1852,13 +2313,13 @@ Las leyes serán orgánicas y ordinarias.
 
 Serán leyes orgánicas:
 
-- Las que regulen la organización y funcionamiento de las instituciones creadas por la Constitución.
+1. Las que regulen la organización y funcionamiento de las instituciones creadas por la Constitución.
 
-- Las que regulen el ejercicio de los derechos y garantías constitucionales.
+2. Las que regulen el ejercicio de los derechos y garantías constitucionales.
 
-- Las que regulen la organización, competencias, facultades y funcionamiento de los gobiernos autónomos descentralizados.
+3. Las que regulen la organización, competencias, facultades y funcionamiento de los gobiernos autónomos descentralizados.
 
-- Las relativas al régimen de partidos políticos y al sistema electoral.
+4. Las relativas al régimen de partidos políticos y al sistema electoral.
 
 81
 
@@ -1870,29 +2331,29 @@ La expedición, reforma, derogación e interpretación con carácter generalment
 
 Las demás serán leyes ordinarias, que no podrán modificar ni prevalecer sobre una ley orgánica.
 
-##### Art. 134.
+##### Art. 134.-
 La iniciativa para presentar proyectos de ley corresponde:
 
-- A las asambleístas y los asambleístas, con el apoyo de una bancada legislativa  o  de  al  menos  el  cinco  por  ciento  de  los  miembros  de  la Asamblea Nacional.
+1. A las asambleístas y los asambleístas, con el apoyo de una bancada legislativa o de al menos el cinco por ciento de los miembros de la Asamblea Nacional.
 
-- A la Presidenta o Presidente de la República.
+2. A la Presidenta o Presidente de la República.
 
-- A las otras funciones del Estado en los ámbitos de su competencia.
+3. A las otras funciones del Estado en los ámbitos de su competencia.
 
-- A la Corte Constitucional, Procuraduría General del Estado, Fiscalía General del Estado, Defensoría del Pueblo y Defensoría Pública en las materias que les corresponda de acuerdo con sus atribuciones.
+4. A la Corte Constitucional, Procuraduría General del Estado, Fiscalía General del Estado, Defensoría del Pueblo y Defensoría Pública en las materias que les corresponda de acuerdo con sus atribuciones.
 
-- A las ciudadanas y los ciudadanos que estén en goce de los derechos políticos y a las organizaciones sociales que cuenten con el respaldo de por lo menos el cero punto veinticinco por ciento de las ciudadanas y ciudadanos inscritos en el padrón electoral nacional.
+5. A las ciudadanas y los ciudadanos que estén en goce de los derechos políticos y a las organizaciones sociales que cuenten con el respaldo de por lo menos el cero punto veinticinco por ciento de las ciudadanas y ciudadanos inscritos en el padrón electoral nacional.
 
-- Quienes presenten proyectos de ley de acuerdo con estas disposiciones  podrán  participar  en  su  debate,  personalmente  o  por medio de sus delegados.
+6. Quienes presenten proyectos de ley de acuerdo con estas disposiciones podrán participar en su debate, personalmente o por medio de sus delegados.
 
-##### Art. 135.
+##### Art. 135.-
 Sólo la Presidenta o Presidente de la República podrá presentar proyectos de ley que creen, modifiquen o supriman impuestos, aumenten el gasto público o modifiquen la división político administrativa del país.
 
-##### Art.  136.
+##### Art. 136.-
 Los  proyectos  de  ley  deberán  referirse  a  una  sola  materia  y serán  presentados  a  la  Presidenta  o  Presidente  de  la  Asamblea  Nacional con la suficiente exposición de motivos, el articulado que se proponga y la expresión clara  de  los  artículos  que  con  la  nueva  ley  se  derogarían  o  se reformarían. Si el proyecto no reúne estos requisitos no se tramitará.
 
-##### Art. 137.
-El proyecto de ley será sometido a dos debates. La Presidenta o Presidente de la Asamblea Nacional, dentro de los plazos que establezca la ley, ordenará que se distribuya el proyecto a los miembros de la Asamblea y se difunda públicamente su extracto, y enviará el proyecto a la comisión que corresponda, que iniciará su respectivo conocimiento y trámite.
+##### Art. 137.-
+El proyecto de ley será sometido a dos debates. La Presidenta o Presidente de la Asamblea Nacional, dentro de los plazos que establezca la
 
 82
 
@@ -1900,14 +2361,16 @@ El proyecto de ley será sometido a dos debates. La Presidenta o Presidente de l
 
 [[START OF PAGE 83]]
 
-Las ciudadanas y los ciudadanos que tengan interés en la aprobación del proyecto de ley, o que consideren que sus derechos puedan ser afectados por su expedición, podrán  acudir  ante la comisión  y  exponer  sus argumentos.
+ley, ordenará que se distribuya el proyecto a los miembros de la Asamblea y se difunda públicamente su extracto, y enviará el proyecto a la comisión que corresponda, que iniciará su respectivo conocimiento y trámite.
+
+Las ciudadanas y los ciudadanos que tengan interés en la aprobación del proyecto de ley, o que consideren que sus derechos puedan ser afectados por su expedición, podrán acudir ante la comisión y exponer sus argumentos.
 
 Aprobado  el  proyecto  de  ley,  la  Asamblea  lo  enviará  a  la  Presidenta  o Presidente  de  la  República  para  que  lo  sancione  u  objete  de  forma fundamentada.    Sancionado  proyecto  de  ley  o  de  no  haber  objeciones dentro del plazo de treinta días posteriores a su recepción por parte de la Presidenta  o  Presidente  de  la  República,  se  promulgará  la  ley,  y  se publicará en el Registro Oficial.
 
-##### Art. 138.
+##### Art. 138.-
 Si la Presidenta o Presidente de la República objeta totalmente el  proyecto  de  ley,  la  Asamblea  podrá  volver  a  considerarlo  solamente después de un  año contado a partir de la fecha de la objeción. Transcurrido este plazo, la Asamblea podrá ratificarlo en un solo debate, con  el  voto  favorable  de  las  dos  terceras  partes  de  sus  miembros,  y  lo enviará inmediatamente al Registro Oficial para su publicación.
 
-Si  la  objeción  fuera  parcial,  la  Presidenta  o  Presidente  de  la  República presentará un  texto alternativo, que no podrá incluir materias no contempladas  en  el  proyecto;  igual  restricción  observara  la  Asamblea Nacional en la aprobación de las modificaciones sugeridas.
+Si la objeción fuera parcial, la Presidenta o Presidente de la República presentará un texto alternativo, que no podrá incluir materias no contempladas en el proyecto; igual restricción observará la Asamblea Nacional en la aprobación de las modificaciones sugeridas.
 
 La Asamblea examinará la objeción parcial dentro del plazo de treinta días, contados a partir de la fecha de su entrega y podrá, en un solo debate, allanarse a ella y enmendar el proyecto con el voto favorable de la mayoría de asistentes a la sesión.  También podrá ratificar el proyecto inicialmente aprobado, con el voto favorable de las dos terceras partes de sus miembros.
 
@@ -1921,12 +2384,12 @@ Si la objeción fuera también por inconstitucionalidad, se resolverá primero l
 
 [[START OF PAGE 84]]
 
-##### Art. 139.
+##### Art. 139.-
 Si la objeción de la Presidenta o Presidente de la República se fundamenta  en  la inconstitucionalidad total o parcial del proyecto, requerirá  dictamen  de  la  Corte  Constitucional,  que  lo  emitirá  dentro  del plazo de treinta días.
 
 Si  el  dictamen  confirmara  la  inconstitucionalidad  total  del  proyecto,  éste será archivado, y si esta fuera parcial, la Asamblea Nacional realizará las enmiendas  necesarias  para  que  el  proyecto  pase  a  la  sanción  de  la Presidenta  o  Presidente  de  la  República.  Si  la  Corte  Constitucional dictamina  que  no  hay  inconstitucionalidad,  la  Asamblea  Nacional  lo promulgará y ordenará su publicación.
 
-##### Art.  140.
+##### Art. 140.-
 La  Presidenta  o  Presidente  de  la  República  podrá  enviar  a  la Asamblea  Nacional  proyectos  de  ley  calificados  de  urgencia  en  materia económica. La Asamblea deberá aprobarlos, modificarlos o negarlos dentro de un plazo máximo de treinta días a partir de su recepción.
 
 El trámite para la presentación, discusión y aprobación de estos proyectos será el ordinario, excepto en cuanto a los plazos anteriormente establecidos.    Mientras  se  discuta  un  proyecto  calificado  de  urgente,  la Presidenta o Presidente de la República no podrá enviar otro, salvo que se haya decretado el estado de excepción.
@@ -1943,18 +2406,18 @@ Cuando en el plazo señalado la Asamblea no apruebe, modifique o niegue el  proy
 
 #### Sección primera Organización y funciones
 
-##### Art.  141 .-
+##### Art. 141.-
 La  Presidenta  o  Presidente  de  la  República  ejerce  la  Función Ejecutiva,  es  el  Jefe  del  Estado  y  de  Gobierno  y  responsable  de  la administración pública.
 
-La Función Ejecutiva esta integrada por la Presidencia y Vicepresidencia de  la  República,  los  Ministerios  de  Estado  y  los  demás  organismos  e instituciones necesarios para cumplir, en el ámbito de su competencia, las atribuciones  de  rectoría,  planificación,  ejecución  y  evaluación  de  las políticas públicas nacionales y planes que se creen para ejecutarlas.
+La Función Ejecutiva está integrada por la Presidencia y Vicepresidencia de la República, los Ministerios de Estado y los demás organismos e instituciones necesarios para cumplir, en el ámbito de su competencia, las atribuciones de rectoría, planificación, ejecución y evaluación de las políticas públicas nacionales y planes que se creen para ejecutarlas.
 
-##### Art. 142 .-
+##### Art. 142.-
 La Presidenta o Presidente de la República debe ser ecuatoriano por nacimiento, haber cumplido treinta y cinco años de edad a la fecha de inscripción de su candidatura, estar en goce de los derechos políticos y no encontrarse  incurso  en  ninguna  de  las  inhabilidades  o  prohibiciones establecidas en la Constitución.
 
-##### Art.  143 .-
-Las  candidaturas a la Presidencia y a la Vicepresidencia de la República constarán en la misma papeleta. La Presidenta o Presidente y la Vicepresidenta  o  Vicepresidente  serán  elegidos  por  mayoría  absoluta  de votos válidos emitidos. Si en la primera votación ningún binomio hubiera logrado mayoría absoluta, se realizara una segunda vuelta electoral dentro de  los  siguientes  cuarenta  y  cinco  días,  y  en  ella  participaran  los  dos binomios más votados en la primera vuelta. No será necesaria la segunda votación si el binomio que consiguió el primer lugar obtiene al menos el cuarenta  por  ciento  de  los  votos  válidos  y  una  diferencia  mayor  de  diez puntos porcentuales sobre la votación lograda por el binomio ubicado en el segundo lugar.
+##### Art. 143.-
+Las candidaturas a la Presidencia y a la Vicepresidencia de la República constarán en la misma papeleta. La Presidenta o Presidente y la Vicepresidenta o Vicepresidente serán elegidos por mayoría absoluta de votos válidos emitidos. Si en la primera votación ningún binomio hubiera logrado mayoría absoluta, se realizará una segunda vuelta electoral dentro de los siguientes cuarenta y cinco días, y en ella participarán los dos binomios más votados en la primera vuelta. No será necesaria la segunda votación si el binomio que consiguió el primer lugar obtiene al menos el cuarenta por ciento de los votos válidos y una diferencia mayor de diez puntos porcentuales sobre la votación lograda por el binomio ubicado en el segundo lugar.
 
-##### Art.  144 .-
+##### Art. 144.-
 El  período  de  gobierno  de  la  Presidenta  o  Presidente  de  la República se iniciará dentro de los diez días posteriores a la instalación de la Asamblea Nacional, ante la cual prestará juramento. En caso de que la Asamblea  Nacional  se  encuentre  instalada,  el  período  de  gobierno  se iniciará dentro de los cuarenta y cinco días posteriores a la proclamación de los resultados electorales.
 
 85
@@ -1967,22 +2430,22 @@ La  Presidenta  o  Presidente  de  la  República  permanecerá  cuatro  años  
 
 La Presidenta o Presidente de la República, durante su mandato y hasta un año después de haber cesado en sus funciones, deberá comunicar a la Asamblea Nacional, con antelación a su salida, el periodo y las razones de su ausencia del país.
 
-##### Art.  145 .-
+##### Art. 145.-
 La  Presidenta  o  Presidente  de  la  República  cesará  en  sus funciones y dejará vacante el cargo en los casos siguientes:
 
-- Por terminación del período presidencial.
+1. Por terminación del período presidencial.
 
-- Por renuncia voluntaria aceptada por la Asamblea Nacional.
+2. Por renuncia voluntaria aceptada por la Asamblea Nacional.
 
-- Por destitución, de acuerdo a lo dispuesto en la Constitución.
+3. Por destitución, de acuerdo a lo dispuesto en la Constitución.
 
-- Por incapacidad física o mental permanente que le impida ejercer el cargo,  certificada  de  acuerdo  con  la  ley  por  un  comité  de  médicos especializados, y declarada por la Asamblea Nacional con los votos de las dos terceras partes de sus integrantes.
+4. Por incapacidad física o mental permanente que le impida ejercer el cargo, certificada de acuerdo con la ley por un comité de médicos especializados, y declarada por la Asamblea Nacional con los votos de las dos terceras partes de sus integrantes.
 
-- Por  abandono  del  cargo,  comprobado  por  la  Corte  Constitucional  y declarado por la Asamblea Nacional con los votos de las dos terceras partes de sus integrantes.
+5. Por abandono del cargo, comprobado por la Corte Constitucional y declarado por la Asamblea Nacional con los votos de las dos terceras partes de sus integrantes.
 
-- Por revocatoria del mandato,  de  acuerdo  con el procedimiento establecido en la Constitución.
+6. Por revocatoria del mandato, de acuerdo con el procedimiento establecido en la Constitución.
 
-##### Art. 146.
+##### Art. 146.-
 En caso de ausencia temporal en la Presidencia de la República, lo  reemplazará  quien  ejerza  la  Vicepresidencia.  Se  considerará  ausencia temporal  la  enfermedad  u  otra  circunstancia  de  fuerza  mayor  que  le impida ejercer su función durante un período máximo de tres meses, o la licencia concedida por la Asamblea Nacional.
 
 En caso de falta definitiva de la Presidenta o Presidente de la República, lo reemplazará quien ejerza la Vicepresidencia por el tiempo que reste para completar el correspondiente período presidencial.
@@ -1997,32 +2460,32 @@ Ante falta simultánea y definitiva en la Presidencia y en la Vicepresidencia de
 
 cargos. Quienes resulten elegidos ejercerán sus funciones hasta completar el  período.  En  el  caso  de  que  faltare  un  año  o  menos,  la  Presidenta  o Presidente de la Asamblea Nacional asumirá la Presidencia de la República por el resto del período.
 
-##### Art. 147 .-
+##### Art. 147.-
 Son atribuciones y deberes de la Presidenta o Presidente de la República, además de los que determine la ley:
 
-- Cumplir  y  hacer  cumplir  la  Constitución,  las  leyes,  los  tratados internacionales y las demás normas jurídicas dentro del ámbito de su competencia.
+1. Cumplir y hacer cumplir la Constitución, las leyes, los tratados internacionales y las demás normas jurídicas dentro del ámbito de su competencia.
 
-- Presentar al momento de su posesión ante la Asamblea Nacional los lineamientos fundamentales de las políticas y acciones que desarrollará durante su ejercicio.
+2. Presentar al momento de su posesión ante la Asamblea Nacional los lineamientos fundamentales de las políticas y acciones que desarrollará durante su ejercicio.
 
-- Definir y dirigir las políticas públicas de la Función Ejecutiva.
+3. Definir y dirigir las políticas públicas de la Función Ejecutiva.
 
-- Presentar al Consejo Nacional de Planificación la propuesta del Plan Nacional de Desarrollo para su aprobación.
+4. Presentar al Consejo Nacional de Planificación la propuesta del Plan Nacional de Desarrollo para su aprobación.
 
-- Dirigir la administración pública en forma desconcentrada y expedir los decretos necesarios para su integración, organización, regulación y control.
+5. Dirigir la administración pública en forma desconcentrada y expedir los decretos necesarios para su integración, organización, regulación y control.
 
-- Crear, modificar y suprimir los ministerios, entidades e instancias de coordinación.
+6. Crear, modificar y suprimir los ministerios, entidades e instancias de coordinación.
 
-- Presentar  anualmente  a  la  Asamblea  Nacional,  el  informe  sobre  el cumplimiento del  Plan  Nacional  de  Desarrollo  y  los  objetivos  que  el gobierno se propone alcanzar durante el año siguiente.
+7. Presentar anualmente a la Asamblea Nacional, el informe sobre el cumplimiento del Plan Nacional de Desarrollo y los objetivos que el gobierno se propone alcanzar durante el año siguiente.
 
-- Enviar la proforma del Presupuesto General del Estado a la Asamblea Nacional, para su aprobación.
+8. Enviar la proforma del Presupuesto General del Estado a la Asamblea Nacional, para su aprobación.
 
-- Nombrar  y  remover  a  las  ministras  y  ministros  de  Estado  y  a  las demás servidoras y servidores públicos cuya nominación le corresponda.
+9. Nombrar y remover a las ministras y ministros de Estado y a las demás servidoras y servidores públicos cuya nominación le corresponda.
 
-- Definir la política exterior, suscribir y ratificar los tratados internacionales, nombrar y remover a embajadores y jefes de misión.
+10. Definir la política exterior, suscribir y ratificar los tratados internacionales, nombrar y remover a embajadores y jefes de misión.
 
-- Participar con iniciativa legislativa en el proceso de formación de las leyes.
+11. Participar con iniciativa legislativa en el proceso de formación de las leyes.
 
-- Sancionar los proyectos de ley aprobados por la Asamblea Nacional y ordenar su promulgación en el Registro Oficial.
+12. Sancionar los proyectos de ley aprobados por la Asamblea Nacional y ordenar su promulgación en el Registro Oficial.
 
 87
 
@@ -2030,19 +2493,19 @@ Son atribuciones y deberes de la Presidenta o Presidente de la República, adem�
 
 [[START OF PAGE 88]]
 
-- Expedir los reglamentos necesarios para la aplicación de las leyes, sin contravenirlas ni alterarlas, así como los que convengan a la buena marcha de la administración.
+13. Expedir los reglamentos necesarios para la aplicación de las leyes, sin contravenirlas ni alterarlas, así como los que convengan a la buena marcha de la administración.
 
-- Convocar  a  consulta  popular  en  los  casos  y  con  los  requisitos previstos en la Constitución.
+14. Convocar a consulta popular en los casos y con los requisitos previstos en la Constitución.
 
-- Convocar  a  la  Asamblea  Nacional  a  períodos  extraordinarios  de sesiones, con determinación de los asuntos específicos que se conocerán.
+15. Convocar a la Asamblea Nacional a períodos extraordinarios de sesiones, con determinación de los asuntos específicos que se conocerán.
 
-- Ejercer la máxima autoridad de las Fuerzas Armadas y de la Policía Nacional y designar a los integrantes del alto mando militar y policial.
+16. Ejercer la máxima autoridad de las Fuerzas Armadas y de la Policía Nacional y designar a los integrantes del alto mando militar y policial.
 
-- Velar por el mantenimiento de la soberanía, de la independencia del Estado,  del  orden  interno  y  de  la  seguridad  pública,  y  ejercer  la dirección política de la defensa nacional.
+17. Velar por el mantenimiento de la soberanía, de la independencia del Estado, del orden interno y de la seguridad pública, y ejercer la dirección política de la defensa nacional.
 
-- Indultar, rebajar o conmutar las penas, de acuerdo con la ley.
+18. Indultar, rebajar o conmutar las penas, de acuerdo con la ley.
 
-##### Art.  148 .-
+##### Art. 148.-
 La  Presidenta  o  Presidente  de  la  República  podrá  disolver  la Asamblea Nacional cuando, a su juicio, ésta se hubiera arrogado funciones que no le competan constitucionalmente, previo dictamen favorable de la Corte  Constitucional;  o  si  de  forma  reiterada  e  injustificada  obstruye  la ejecución  del  Plan  Nacional  de  Desarrollo,  o  por  grave  crisis  política  y conmoción interna.
 
 Esta facultad podrá ser ejercida por una sola vez en los tres primeros años de su mandato.
@@ -2051,7 +2514,7 @@ En un plazo máximo de siete días después de la publicación del decreto de di
 
 Hasta la instalación de la Asamblea Nacional, la Presidenta o Presidente de la República podrá, previo dictamen favorable de la Corte Constitucional, expedir decretos-leyes de urgencia económica, que podrán ser aprobados o derogados por el órgano legislativo.
 
-##### Art.  149 .-
+##### Art. 149.-
 Quien  ejerza  la  Vicepresidencia  de  la  República  cumplirá  los mismos requisitos, estará sujeto a las mismas inhabilidades y prohibiciones establecidas para la Presidenta o Presidente de la República, y desempeñará sus funciones por igual período.
 
 88
@@ -2062,7 +2525,7 @@ Quien  ejerza  la  Vicepresidencia  de  la  República  cumplirá  los mismos re
 
 La Vicepresidenta o Vicepresidente de la República, cuando no reemplace a  la  Presidenta  o  Presidente  de  la  República,  ejercerá  las  funciones  que ésta o este le asigne.
 
-##### Art. 150 .-
+##### Art. 150.-
 En caso de ausencia temporal de quien ejerza la Vicepresidencia de la República, corresponderá el reemplazo a la ministra o ministro de Estado que sea designado por la Presidencia de la República.
 
 Serán causas de ausencia temporal de quien ejerza la Vicepresidencia de la República las mismas determinadas para la Presidencia de la República.
@@ -2071,17 +2534,17 @@ En  caso  de  falta  definitiva  de  la  Vicepresidenta  o  Vicepresidente  de  
 
 Si la Asamblea Nacional omite pronunciarse en el plazo de treinta días de notificada  la  petición,  se  entenderá  elegida  la  primera  persona  que conforme la terna.
 
-##### Art.  151 .-
+##### Art. 151.-
 Las  ministras  y  los  ministros  de  Estado  serán  de  libre nombramiento y remoción por la Presidenta o Presidente de la República, y lo  representarán en los asuntos propios del ministerio a su cargo. Serán responsables  política,  civil  y  penalmente  por  los  actos  y  contratos  que realicen en el ejercicio  de  sus  funciones,  con  independencia  de  la responsabilidad civil subsidiaria del Estado.
 
 Para ser titular de un  ministerio de Estado  se requerirá tener la nacionalidad  ecuatoriana,  estar  en  goce  de  los  derechos  políticos  y  no encontrarse  en  ninguno  de  los  casos  de  inhabilidad  o  incompatibilidad previstos  en  la  Constitución.  El  número  de  ministras  o  ministros  de Estado,  su  denominación  y  las  competencias  que  se  les  asigne  serán establecidos mediante decreto expedido por la Presidencia de la República.
 
-##### Art. 152 .-
+##### Art. 152.-
 No podrán ser ministras o ministros de Estado:
 
-- Los parientes hasta el cuarto grado de consanguinidad y segundo de afinidad de quienes ejerzan la Presidencia o la Vicepresidencia de la República.
+1. Los parientes hasta el cuarto grado de consanguinidad y segundo de afinidad de quienes ejerzan la Presidencia o la Vicepresidencia de la República.
 
-- Las personas naturales, propietarias, miembros del directorio, representantes o apoderadas de personas jurídicas privadas,
+2. Las personas naturales, propietarias, miembros del directorio, representantes o apoderadas de personas jurídicas privadas,
 
 89
 
@@ -2089,27 +2552,27 @@ No podrán ser ministras o ministros de Estado:
 
 [[START OF PAGE 90]]
 
-- nacionales o extranjeras, que mantengan contrato con el Estado para la  ejecución  de  obras  públicas,  prestación  de  servicios  públicos  o explotación de recursos naturales, mediante concesión, asociación o cualquier otra modalidad contractual.
+nacionales o extranjeras, que mantengan contrato con el Estado para la ejecución de obras públicas, prestación de servicios públicos o explotación de recursos naturales, mediante concesión, asociación o cualquier otra modalidad contractual.
 
-- Los  miembros  de  las  Fuerzas  Armadas  y  de  la  Policía  Nacional  en servicio activo.
+3. Los miembros de las Fuerzas Armadas y de la Policía Nacional en servicio activo.
 
-##### Art.  153 .-
-Quienes  hayan  ejercido  la  titularidad  de  los  ministerios  de Estado  y  las  servidoras  y  servidores  públicos  de  nivel  jerárquico  superior definidos  por  la  ley,  una  vez  hayan  cesado  en  su  cargo  y  durante  los siguientes dos años, no podrán formar parte del directorio o del equipo de dirección, o ser representantes legales o ejercer la procuración de personas jurídicas  privadas,  nacionales  o  extranjeras,  que  celebren  contrato  con  el Estado, bien sea para la ejecución de obras publicas, prestación de servicios públicos o explotación de recursos naturales, mediante concesión, asociación  o  cualquier  otra  modalidad  contractual,  ni  ser  funcionarias  o funcionarios de instituciones financieras internacionales acreedoras del país.
+##### Art. 153.-
+Quienes hayan ejercido la titularidad de los ministerios de Estado y las servidoras y servidores públicos de nivel jerárquico superior definidos por la ley, una vez hayan cesado en su cargo y durante los siguientes dos años, no podrán formar parte del directorio o del equipo de dirección, o ser representantes legales o ejercer la procuración de personas jurídicas privadas, nacionales o extranjeras, que celebren contrato con el Estado, bien sea para la ejecución de obras públicas, prestación de servicios públicos o explotación de recursos naturales, mediante concesión, asociación o cualquier otra modalidad contractual, ni ser funcionarias o funcionarios de instituciones financieras internacionales acreedoras del país.
 
-##### Art.  154 .-
+##### Art. 154.-
 A las ministras y  ministros  de  Estado,  además  de  las atribuciones establecidas en la ley, les corresponde:
 
-- Ejercer la rectoría de las políticas públicas del área a su cargo y expedir los acuerdos y resoluciones administrativas que requiera su gestión.
+1. Ejercer la rectoría de las políticas públicas del área a su cargo y expedir los acuerdos y resoluciones administrativas que requiera su gestión.
 
-- Presentar  ante  la  Asamblea  Nacional  los  informes  que  les  sean requeridos y que estén relacionados con las áreas bajo su responsabilidad, y comparecer cuando sean convocados o sometidos a enjuiciamiento político.
+2. Presentar ante la Asamblea Nacional los informes que les sean requeridos y que estén relacionados con las áreas bajo su responsabilidad, y comparecer cuando sean convocados o sometidos a enjuiciamiento político.
 
-##### Art.  155 .-
+##### Art. 155.-
 En  cada  territorio,  la  Presidenta  o  Presidente  de  la  República podrá  tener  un  representante  que  controlará  el  cumplimiento  de  las políticas  del  Ejecutivo,  y  dirigirá  y  coordinará  las  actividades  de  sus servidoras y servidores públicos.
 
 #### Sección segunda Consejos nacionales de igualdad
 
-##### Art.  156 .-
-Los consejos nacionales para la igualdad son órganos responsables de asegurar la plena vigencia y el ejercicio de los derechos consagrados en la Constitución y en los instrumentos internacionales de derechos humanos. Los consejos ejercerán atribuciones en la formulación, transversalización, observancia, seguimiento y evaluación de las políticas públicas relacionadas con las temáticas de género, étnicas, generacionales, interculturales, y de discapacidades y movilidad humana, de acuerdo con la ley. Para el cumplimiento de sus fines se coordinarán con las entidades rectoras y ejecutoras y con los organismos especializados en la protección de derechos en todos los niveles de gobierno.
+##### Art. 156.-
+Los consejos nacionales para la igualdad son órganos responsables de asegurar la plena vigencia y el ejercicio de los derechos consagrados en la Constitución y en los instrumentos internacionales de derechos humanos. Los consejos ejercerán atribuciones en la formulación,
 
 90
 
@@ -2117,12 +2580,14 @@ Los consejos nacionales para la igualdad son órganos responsables de asegurar l
 
 [[START OF PAGE 91]]
 
-##### Art.  157 .-
+transversalización, observancia, seguimiento y evaluación de las políticas públicas relacionadas con las temáticas de género, étnicas, generacionales, interculturales, y de discapacidades y movilidad humana, de acuerdo con la ley. Para el cumplimiento de sus fines se coordinarán con las entidades rectoras y ejecutoras y con los organismos especializados en la protección de derechos en todos los niveles de gobierno.
+
+##### Art. 157.-
 Los  consejos  nacionales  de  igualdad  se  integrarán  de  forma paritaria,  por  representantes  de  la  sociedad  civil  y  del  Estado,  y  estarán presididos  por  quien  represente  a  la  Función  Ejecutiva.  La  estructura, funcionamiento  y  forma  de  integración  de  sus  miembros  se  regulará  de acuerdo  con  los  principios  de  alternabilidad,  participación  democrática, inclusión y pluralismo.
 
 #### Sección tercera Fuerzas Armadas y Policía Nacional
 
-##### Art. 158 .-
+##### Art. 158.-
 Las Fuerzas Armadas y la Policía Nacional son instituciones de protección de los derechos, libertades y garantías de los ciudadanos.
 
 Las  Fuerzas  Armadas  tienen  como  misión  fundamental  la  defensa  de  la soberanía y la integridad territorial.
@@ -2131,13 +2596,13 @@ La protección interna y el mantenimiento del orden público son funciones priva
 
 Las servidoras y servidores de las Fuerzas Armadas y la Policía Nacional se formarán  bajo  los  fundamentos  de  la  democracia  y  de  los  derechos humanos,  y  respetarán  la  dignidad  y  los  derechos  de  las  personas  sin discriminación alguna y con apego irrestricto al ordenamiento jurídico.
 
-##### Art. 159 .-
+##### Art. 159.-
 Las Fuerzas Armadas y la Policía Nacional serán obedientes y no deliberantes, y cumplirán su misión con estricta sujeción al poder civil y a la Constitución.
 
 Las  autoridades  de  las  Fuerzas  Armadas  y  de  la  Policía  Nacional  serán responsables por las órdenes que impartan. La obediencia a las órdenes superiores no eximirá de responsabilidad a quienes las ejecuten.
 
-##### Art. 160 .-
-Las personas aspirantes a la carrera militar y policial no serán discriminadas para su ingreso. La ley establecerá los requisitos específicos para  los  casos  en  los  que  se  requiera  de  habilidades,  conocimientos  o capacidades especiales.
+##### Art. 160.-
+Las personas aspirantes a la carrera militar y policial no serán discriminadas para su ingreso. La ley establecerá los requisitos específicos
 
 91
 
@@ -2145,23 +2610,25 @@ Las personas aspirantes a la carrera militar y policial no serán discriminadas 
 
 [[START OF PAGE 92]]
 
-Los  miembros  de  las  Fuerzas  Armadas  y  de  la  Policía  Nacional  estarán sujetos a las leyes específicas que regulen sus derechos y obligaciones, y su sistema de ascensos y promociones con base en méritos y con criterios de equidad de género. Se garantizará su estabilidad y profesionalización.
+para los casos en los que se requiera de habilidades, conocimientos o capacidades especiales.
+
+Los miembros de las Fuerzas Armadas y de la Policía Nacional estarán sujetos a las leyes específicas que regulen sus derechos y obligaciones, y su sistema de ascensos y promociones con base en méritos y con criterios de equidad de género. Se garantizará su estabilidad y profesionalización.
 
 Los miembros de las Fuerzas Armadas y de la Policía Nacional sólo podrán ser privados de sus grados, pensiones, condecoraciones y reconocimientos por  las  causas  establecidas  en  dichas  leyes  y  no  podrán  hacer  uso  de prerrogativas derivadas de sus grados sobre los derechos de las personas.
 
 Los  miembros  de  las  Fuerzas  Armadas  y  de  la  Policía  Nacional  serán juzgados  por  los  órganos  de  la  Función  Judicial;  en  el  caso  de  delitos cometidos  dentro  de  su  misión  específica,  serán  juzgados  por  salas especializadas  en  materia  militar  y  policial,  pertenecientes  a  la  misma Función  Judicial.  Las  infracciones  disciplinarias  serán  juzgadas  por  los órganos competentes establecidos en la ley.
 
-##### Art. 161 .-
+##### Art. 161.-
 El servicio cívico-militar es voluntario. Este servicio se realizará en  el  marco  del  respeto  a  la  diversidad  y  a  los  derechos,  y  estará acompañado de una capacitación alternativa en diversos campos ocupacionales que coadyuven al desarrollo individual y al bienestar de la sociedad. Quienes participen en este servicio no serán destinados a áreas de alto riesgo militar.
 
 Se prohíbe toda forma de reclutamiento forzoso.
 
-##### Art.  162 .-
+##### Art. 162.-
 Las  Fuerzas  Armadas  sólo  podrán  participar  en  actividades económicas  relacionadas  con  la  defensa  nacional,  y  podrán  aportar  su contingente para apoyar el desarrollo nacional, de acuerdo con la ley.
 
-Las Fuerzas Armadas podrán organizar fuerzas de reserva, de acuerdo a las necesidades para el cumplimiento de sus funciones. El Estado asignara los recursos necesarios para su equipamiento, entrenamiento y formación.
+Las Fuerzas Armadas podrán organizar fuerzas de reserva, de acuerdo a las necesidades para el cumplimiento de sus funciones. El Estado asignará los recursos necesarios para su equipamiento, entrenamiento y formación.
 
-##### Art. 163 .-
+##### Art. 163.-
 La Policía Nacional es una institución estatal de carácter civil, armada, técnica, jerarquizada, disciplinada, profesional y altamente especializada, cuya misión es atender la seguridad ciudadana y el orden público, y proteger el libre ejercicio de los derechos y la seguridad de las personas dentro del territorio nacional.
 
 92
@@ -2176,21 +2643,21 @@ Para  el  desarrollo  de  sus  tareas  la  Policía  Nacional  coordinará  sus 
 
 #### Sección cuarta Estados de excepción
 
-##### Art.  164 .-
+##### Art. 164.-
 La  Presidenta  o  Presidente  de  la  República  podrá  decretar  el estado de excepción en todo el territorio nacional o en parte de él en caso de  agresión,  conflicto  armado  internacional  o  interno,  grave  conmoción interna,  calamidad pública o desastre natural. La declaración del estado de excepción no interrumpirá las actividades de las funciones del Estado.
 
 El estado de excepción observará los principios de necesidad, proporcionalidad,  legalidad,  temporalidad,  territorialidad  y  razonabilidad. El decreto que establezca el estado de excepción contendrá la determinación de la causal y su motivación, ámbito territorial de aplicación, el periodo de duración, las medidas que deberán aplicarse, los derechos  que  podrán  suspenderse  o  limitarse  y  las  notificaciones  que correspondan de acuerdo a la Constitución y a los tratados internacionales.
 
-##### Art. 165 .-
+##### Art. 165.-
 Durante el estado de excepción la Presidenta o Presidente de la República únicamente podrá suspender o limitar el ejercicio del derecho a la inviolabilidad de domicilio, inviolabilidad de correspondencia, libertad de tránsito, libertad de asociación y reunión, y libertad de información, en los términos que señala la Constitución.
 
 Declarado  el  estado  de  excepción,  la  Presidenta  o  Presidente  de  la República podrá:
 
-- Decretar la recaudación anticipada de tributos.
+1. Decretar la recaudación anticipada de tributos.
 
-- Utilizar  los  fondos  públicos  destinados  a  otros  fines,  excepto  los correspondientes a salud y educación.
+2. Utilizar los fondos públicos destinados a otros fines, excepto los correspondientes a salud y educación.
 
-- Trasladar la sede del gobierno a cualquier lugar del territorio nacional.
+3. Trasladar la sede del gobierno a cualquier lugar del territorio nacional.
 
 93
 
@@ -2198,17 +2665,17 @@ Declarado  el  estado  de  excepción,  la  Presidenta  o  Presidente  de  la Re
 
 [[START OF PAGE 94]]
 
-- Disponer censura previa en la información de los medios de comunicación social con estricta relación a los motivos del estado de excepción y a la seguridad del Estado.
+4. Disponer censura previa en la información de los medios de comunicación social con estricta relación a los motivos del estado de excepción y a la seguridad del Estado.
 
-- Establecer como zona de seguridad todo o parte del territorio nacional.
+5. Establecer como zona de seguridad todo o parte del territorio nacional.
 
-- Disponer el empleo de las Fuerzas Armadas y de la Policía Nacional y llamar  a  servicio  activo  a  toda  la  reserva  o  a  una  parte  de  ella,  así como al personal de otras instituciones.
+6. Disponer el empleo de las Fuerzas Armadas y de la Policía Nacional y llamar a servicio activo a toda la reserva o a una parte de ella, así como al personal de otras instituciones.
 
-- Disponer  el  cierre  o  la  habilitación  de  puertos,  aeropuertos  y  pasos fronterizos.
+7. Disponer el cierre o la habilitación de puertos, aeropuertos y pasos fronterizos.
 
-- Disponer  la  movilización  y  las  requisiciones  que  sean  necesarias,  y decretar la desmovilización nacional, cuando se restablezca la normalidad.
+8. Disponer la movilización y las requisiciones que sean necesarias, y decretar la desmovilización nacional, cuando se restablezca la normalidad.
 
-##### Art.  166 .-
+##### Art. 166.-
 La  Presidenta  o  Presidente  de  la  República  notificará  la declaración  del  estado  de  excepción  a  la  Asamblea  Nacional,  a  la  Corte Constitucional y a los organismos internacionales que corresponda dentro de las cuarenta y ocho horas siguientes a la firma del decreto correspondiente. Si las circunstancias lo justifican, la Asamblea Nacional podrá revocar el decreto en cualquier tiempo, sin perjuicio del pronunciamiento que sobre su constitucionalidad pueda realizar la Corte Constitucional.
 
 El decreto de estado de excepción tendrá vigencia hasta un plazo máximo de sesenta días. Si las causas que lo motivaron persisten podrá renovarse hasta por treinta días más, lo cual deberá notificarse. Si el Presidente no renueva  el  decreto  de  estado  de  excepción  o  no  lo  notifica,  éste  se entenderá caducado.
@@ -2227,26 +2694,26 @@ Las  servidoras  y  servidores  públicos  serán  responsables  por  cualquier 
 
 #### Sección primera Principios de la administración de justicia
 
-##### Art. 167 .-
+##### Art. 167.-
 La potestad de administrar justicia emana del pueblo y se ejerce por los órganos de la Función Judicial y por los demás órganos y funciones establecidos en la Constitución.
 
-##### Art.  168 .-
+##### Art. 168.-
 La  administración  de  justicia,  en  el  cumplimiento  de  sus deberes  y  en  el  ejercicio  de  sus  atribuciones,  aplicará  los  siguientes principios:
 
-- Los órganos de la Función Judicial gozarán de independencia interna y externa. Toda violación a este principio conllevará responsabilidad administrativa, civil y penal de acuerdo con la ley.
+1. Los órganos de la Función Judicial gozarán de independencia interna y externa. Toda violación a este principio conllevará responsabilidad administrativa, civil y penal de acuerdo con la ley.
 
-- La Función Judicial gozará de autonomía administrativa, económica y financiera.
+2. La Función Judicial gozará de autonomía administrativa, económica y financiera.
 
-- En  virtud  de  la  unidad  jurisdiccional,  ninguna  autoridad  de  las demás funciones del Estado podrá desempeñar funciones de administración  de  justicia  ordinaria,  sin  perjuicio  de  las  potestades jurisdiccionales reconocidas por la Constitución.
+3. En virtud de la unidad jurisdiccional, ninguna autoridad de las demás funciones del Estado podrá desempeñar funciones de administración de justicia ordinaria, sin perjuicio de las potestades jurisdiccionales reconocidas por la Constitución.
 
-- El  acceso  a  la  administración  de  justicia  será  gratuito.  La  ley establecerá el régimen de costas procesales.
+4. El acceso a la administración de justicia será gratuito. La ley establecerá el régimen de costas procesales.
 
-- En todas sus etapas, los juicios y sus decisiones serán públicos, salvo los casos expresamente señalados en la ley.
+5. En todas sus etapas, los juicios y sus decisiones serán públicos, salvo los casos expresamente señalados en la ley.
 
-- La  sustanciación  de  los  procesos  en  todas  las  materias,  instancias, etapas  y  diligencias  se  llevará  a  cabo  mediante  el  sistema  oral,  de acuerdo con los principios de concentración, contradicción y dispositivo.
+6. La sustanciación de los procesos en todas las materias, instancias, etapas y diligencias se llevará a cabo mediante el sistema oral, de acuerdo con los principios de concentración, contradicción y dispositivo.
 
-##### Art. 169 .-
-EI sistema procesal es un medio para la realización de la justicia. Las normas  procesales  consagrarán  los  principios de simplificación, uniformidad, eficacia, inmediación, celeridad y economía procesal, y harán efectivas las garantías del debido proceso. No se sacrificará la justicia por la sola omisión de formalidades.
+##### Art. 169.-
+El sistema procesal es un medio para la realización de la justicia. Las normas procesales consagrarán los principios de simplificación, uniformidad, eficacia, inmediación, celeridad y economía procesal, y harán efectivas las garantías del debido proceso. No se sacrificará la justicia por la sola omisión de formalidades.
 
 95
 
@@ -2254,21 +2721,21 @@ EI sistema procesal es un medio para la realización de la justicia. Las normas 
 
 [[START OF PAGE 96]]
 
-##### Art. 170 .-
+##### Art. 170.-
 Para el ingreso a la Función Judicial se observarán los criterios de igualdad, equidad, probidad, oposición, méritos, publicidad, impugnación y participación ciudadana.
 
 Se  reconoce  y  garantiza  la  carrera  judicial  en  la  justicia  ordinaria.  Se garantizará  la  profesionalización  mediante  la  formación  continua  y  la evaluación  periódica de las servidoras y servidores judiciales,  como condiciones indispensables para la promoción y permanencia en la carrera judicial.
 
 #### Sección segunda Justicia indígena
 
-##### Art. 171 .-
+##### Art. 171.-
 Las autoridades de las comunidades, pueblos y nacionalidades indígenas ejercerán funciones jurisdiccionales, con base en sus tradiciones ancestrales  y  su  derecho  propio,  dentro  de  su  ámbito  territorial,  con garantía  de  participación  y  decisión  de  las  mujeres.  Las  autoridades aplicarán  normas  y  procedimientos  propios  para  la  solución  de  sus conflictos  internos,  y  que  no  sean  contrarios  a  la  Constitución  y  a  los derechos humanos reconocidos en instrumentos internacionales.
 
 El Estado garantizará que las decisiones de la jurisdicción indígena sean respetadas por las instituciones y autoridades públicas. Dichas decisiones estarán  sujetas  al  control  de  constitucionalidad.  La  ley  establecerá  los mecanismos de coordinación y cooperación entre la jurisdicción indígena y la jurisdicción ordinaria.
 
 #### Sección tercera Principios de la Función Judicial
 
-##### Art.  172 .-
+##### Art. 172.-
 Las  juezas  y  jueces  administrarán  justicia  con  sujeción  a  la Constitución, a los instrumentos internacionales de derechos humanos y a la ley.
 
 Las servidoras y servidores judiciales, que incluyen a juezas y jueces, y los otros operadores de justicia, aplicarán el principio de la debida diligencia en los procesos de administración de justicia.
@@ -2281,27 +2748,27 @@ Las juezas y jueces serán responsables por el perjuicio que se cause a las part
 
 [[START OF PAGE 97]]
 
-##### Art.  173 .-
+##### Art. 173.-
 Los  actos  administrativos  de  cualquier  autoridad  del  Estado podrán  ser  impugnados,  tanto  en  la  vía  administrativa  como  ante  los correspondientes órganos de la Función Judicial.
 
-##### Art.  174 .-
+##### Art. 174.-
 Las  servidoras  y  servidores  judiciales  no  podrán  ejercer  la abogacía ni desempeñar otro empleo público o privado, excepto la docencia universitaria fuera de horario de trabajo.
 
 La  mala  fe  procesal,  el  litigio  malicioso  o  temerario,  la  generación  de obstáculos o dilación procesal, serán sancionados de acuerdo con la ley.
 
 Las  juezas  y  jueces  no  podrán  ejercer  funciones  de  dirección  en  los partidos y movimientos  políticos, ni participar como  candidatos en procesos  de  elección  popular,  ni  realizar  actividades  de  proselitismo político o religioso.
 
-##### Art.  175 .-
+##### Art. 175.-
 Las niñas, niños y adolescentes estarán sujetos  a  una legislación  y  a  una  administración  de  justicia  especializada,  así  como  a operadores de justicia debidamente capacitados, que aplicarán los principios  de  la  doctrina  de  protección  integral.  La  administración  de justicia especializada dividirá la competencia en protección de derechos y en responsabilidad de adolescentes infractores.
 
-##### Art.  176 .-
+##### Art. 176.-
 Los  requisitos  y  procedimientos  para  designar  servidoras  y servidores  judiciales  deberán  contemplar  un  concurso  de  oposición  y méritos,  impugnación  y  control  social;  se  propenderá  a  la  paridad  entre mujeres y hombres.
 
 Con excepción de las juezas y jueces de la Corte Nacional de Justicia, las servidoras y servidores judiciales deberán aprobar un curso de formación general y especial, y pasar pruebas teóricas, prácticas y psicológicas para su ingreso al servicio judicial.
 
 #### Sección cuarta Organización y funcionamiento
 
-##### Art.  177 .-
+##### Art. 177.-
 La  Función  Judicial  se  compone  de  órganos  jurisdiccionales, órganos administrativos, órganos auxiliares y órganos autónomos. La ley determinará su estructura, funciones, atribuciones, competencias y todo lo necesario para la adecuada administración de justicia.
 
 97
@@ -2310,16 +2777,16 @@ La  Función  Judicial  se  compone  de  órganos  jurisdiccionales, órganos ad
 
 [[START OF PAGE 98]]
 
-##### Art. 178 .-
+##### Art. 178.-
 Los órganos jurisdiccionales, sin perjuicio de otros órganos con iguales potestades reconocidos en la Constitución, son los encargados de administrar justicia, y serán los siguientes:
 
-- La Corte Nacional de Justicia.
+1. La Corte Nacional de Justicia.
 
-- Las cortes provinciales de justicia.
+2. Las cortes provinciales de justicia.
 
-- Los tribunales y juzgados que establezca la ley.
+3. Los tribunales y juzgados que establezca la ley.
 
-- Los juzgados de paz.
+4. Los juzgados de paz.
 
 El  Consejo  de  la  Judicatura  es  el  órgano  de  gobierno,  administración, vigilancia y disciplina de la Función Judicial.
 
@@ -2331,15 +2798,15 @@ La ley determinará la organización, el ámbito de competencia, el funcionamien
 
 #### Sección quinta Consejo de la Judicatura
 
-##### Art. 179 .-
+##### Art. 179.-
 El Consejo de la Judicatura se integrará por nueve vocales con sus  respectivos  suplentes,  que  durarán  en  el  ejercicio  de  sus  funciones seis años y no podrán ser reelegidos; para su conformación se propenderá a la paridad entre hombres y mujeres. El Consejo designará, de entre sus integrantes, una presidenta o presidente y una vicepresidenta o vicepresidente, para un periodo de tres años.
 
 El  Consejo  de  la  Judicatura  rendirá  su  informe  anual  ante  la  Asamblea Nacional, que podrá fiscalizar y juzgar a sus miembros.
 
-##### Art. 180 .-
+##### Art. 180.-
 Las vocales y los vocales cumplirán los siguientes requisitos:
 
-- Ser  ecuatoriana  o  ecuatoriano  y  estar  en  goce  de  los  derechos políticos.
+1. Ser ecuatoriana o ecuatoriano y estar en goce de los derechos políticos.
 
 98
 
@@ -2347,30 +2814,30 @@ Las vocales y los vocales cumplirán los siguientes requisitos:
 
 [[START OF PAGE 99]]
 
-- Tener  título  de  tercer  nivel  en  Derecho  legalmente  reconocido  en  el país  o  en  las  ramas  académicas  afines  a  las  funciones  propias  del Consejo, legalmente acreditado.
+2. Tener título de tercer nivel en Derecho legalmente reconocido en el país o en las ramas académicas afines a las funciones propias del Consejo, legalmente acreditado.
 
-- Haber  ejercido  con  probidad  e  idoneidad  notorias  la  profesión  o  la docencia  universitaria  en  Derecho  o  en  las  materias  afines  a  las funciones propias del Consejo, por un lapso mínimo de diez años.
+3. Haber ejercido con probidad e idoneidad notorias la profesión o la docencia universitaria en Derecho o en las materias afines a las funciones propias del Consejo, por un lapso mínimo de diez años.
 
 La designación de las vocales y los vocales del Consejo de la Judicatura y sus  suplentes  se  realizará  por  concurso  de  méritos  y  oposición  con veeduría e impugnación ciudadana. Se elegirán seis vocales profesionales en Derecho y tres profesionales en las áreas de administración, economía, gestión y otras afines.
 
-##### Art.  181 .-
+##### Art. 181.-
 Serán  funciones  del  Consejo  de  la  Judicatura,  además  de  las que determine la ley:
 
-- Definir y ejecutar las políticas para el mejoramiento y modernización del sistema judicial.
+1. Definir y ejecutar las políticas para el mejoramiento y modernización del sistema judicial.
 
-- Conocer y aprobar la proforma presupuestarla de la Función Judicial, con excepción de los órganos autónomos.
+2. Conocer y aprobar la proforma presupuestaria de la Función Judicial, con excepción de los órganos autónomos.
 
-- Dirigir  los  procesos  de  selección  de  jueces  y  demás  servidores  de  la Función Judicial, así como su evaluación, ascensos y sanción. Todos los procesos serán públicos y las decisiones motivadas.
+3. Dirigir los procesos de selección de jueces y demás servidores de la Función Judicial, así como su evaluación, ascensos y sanción. Todos los procesos serán públicos y las decisiones motivadas.
 
-- Administrar  la  carrera  y  la  profesionalización  judicial,  y  organizar  y gestionar escuelas de formación y capacitación judicial.
+4. Administrar la carrera y la profesionalización judicial, y organizar y gestionar escuelas de formación y capacitación judicial.
 
-- Velar por la transparencia y eficiencia de la Función Judicial.
+5. Velar por la transparencia y eficiencia de la Función Judicial.
 
 Las  decisiones  del  Consejo  de  la  Judicatura  se  tomarán  con  el  voto conforme de cinco de sus vocales, salvo las suspensiones y destituciones que requerirán el voto favorable de siete de sus integrantes.
 
 #### Sección sexta Justicia ordinaria
 
-##### Art.  182 .-
+##### Art. 182.-
 La  Corte  Nacional  de  Justicia  estará  integrada  por  juezas  y jueces  en  el  número  de  veinte  y  uno,  quienes  se  organizarán  en  salas especializadas,  y  serán  designados  para  un  periodo  de  nueve  años;  no podrán ser reelectos y se renovarán por tercios cada tres años. Cesarán en sus cargos conforme a la ley.
 
 99
@@ -2385,27 +2852,27 @@ Existirán conjuezas y conjueces que formarán parte de la Función Judicial, qu
 
 La  Corte  Nacional  de  Justicia  tendrá  jurisdicción  en  todo  el  territorio nacional y su sede estará en Quito.
 
-##### Art. 183 .-
+##### Art. 183.-
 Para ser jueza o juez de la Corte Nacional de Justicia, además de los requisitos de idoneidad que determine la ley, se requerirá:
 
-- Ser  ecuatoriana  o  ecuatoriano  y  hallarse  en  goce  de  los  derechos políticos.
+1. Ser ecuatoriana o ecuatoriano y hallarse en goce de los derechos políticos.
 
-- Tener título de tercer nivel en Derecho legalmente reconocido en el país.
+2. Tener título de tercer nivel en Derecho legalmente reconocido en el país.
 
-- Haber  ejercido  con  probidad  notoria  la  profesión  de  abogada  o abogado, la judicatura o la docencia universitaria en ciencias jurídicas, por un lapso mínimo de diez años.
+3. Haber ejercido con probidad notoria la profesión de abogada o abogado, la judicatura o la docencia universitaria en ciencias jurídicas, por un lapso mínimo de diez años.
 
 Las juezas y jueces de la Corte Nacional de Justicia serán elegidos por el Consejo de la Judicatura conforme a un procedimiento con concurso de oposición  y  méritos,  impugnación  y  control  social.  Se  propenderá  a  la paridad entre mujer y hombre.
 
-##### Art. 184 .-
+##### Art. 184.-
 serán funciones de la Corte Nacional de Justicia, además de las determinadas en la ley, las siguientes:
 
-- Conocer  los  recursos  de  casación,  de  revisión  y  los  demás  que establezca la ley.
+1. Conocer los recursos de casación, de revisión y los demás que establezca la ley.
 
-- Desarrollar el sistema de precedentes jurisprudenciales fundamentado en los fallos de triple reiteración.
+2. Desarrollar el sistema de precedentes jurisprudenciales fundamentado en los fallos de triple reiteración.
 
-- Conocer las causas que se inicien contra las servidoras y servidores públicos que gocen de fuero.
+3. Conocer las causas que se inicien contra las servidoras y servidores públicos que gocen de fuero.
 
-- Presentar proyectos de ley relacionados con el sistema de administración de justicia
+4. Presentar proyectos de ley relacionados con el sistema de administración de justicia.
 
 100
 
@@ -2446,7 +2913,7 @@ En razón de la jerarquía y responsabilidad administrativa, la ley regulará lo
 ##### Art.  189 .-
 Las  juezas  y  jueces  de  paz  resolverán  en  equidad  y  tendrán competencia exclusiva y obligatoria para conocer aquellos conflictos individuales, comunitarios, vecinales y contravenciones, que sean sometidos a su jurisdicción, de conformidad con la ley. En ningún caso podrá disponer la privación de la libertad ni prevalecerá sobre la justicia indígena.
 
-Las juezas y jueces de paz utilizaran mecanismos de conciliación, dialogo, acuerdo amistoso y otros practicados por la comunidad para adoptar sus resoluciones, que garantizarán y respetarán los derechos reconocidos por la Constitución. No será necesario el patrocinio de abogada o abogado.
+Las juezas y jueces de paz utilizarán mecanismos de conciliación, diálogo, acuerdo amistoso y otros practicados por la comunidad para adoptar sus resoluciones, que garantizarán y respetarán los derechos reconocidos por la Constitución. No será necesario el patrocinio de abogada o abogado.
 
 Las juezas y jueces de paz deberán tener su domicilio permanente en el lugar donde ejerzan su competencia y contar con el respeto, consideración y apoyo de la comunidad. Serán elegidos por su comunidad, mediante un proceso cuya responsabilidad corresponde al Consejo de la Judicatura y permanecerán  en  funciones  hasta  que  la  propia  comunidad  decida  su remoción,  de  acuerdo  con  la  ley.  Para  ser  jueza  o  juez  de  paz  no  se requerirá ser profesional en Derecho.
 
@@ -2459,7 +2926,7 @@ En  la  contratación  pública  procederá  el  arbitraje  en  derecho,  previo
 
 #### Sección novena Defensoría Pública
 
-##### Art.  191.
+##### Art. 191.-
 La  Defensoría  Pública  es  un  órgano  autónomo  de  la  Función Judicial cuyo fin es garantizar el pleno e igual acceso a la justicia de las personas que, por su estado de indefensión o condición económica, social o  cultural,  no  puedan  contratar  los  servicios  de  defensa  legal  para  la protección de sus derechos.
 
 102
@@ -2483,7 +2950,7 @@ La  Defensora  Pública  o  Defensor  Público  General  reunirá  los siguiente
 
 La  Defensora  Pública  o  Defensor  Público  desempeñará  sus  funciones durante seis años y no podrá ser reelegido, y rendirá informe anual a la Asamblea Nacional.
 
-##### Art. 193.
+##### Art. 193.-
 Las facultades de Jurisprudencia, Derecho o Ciencias Jurídicas de  las  universidades,  organizarán  y  mantendrán  servicios  de  defensa  y asesoría jurídica a personas de escasos recursos económicos y grupos que requieran atención prioritaria.
 
 Para  que  otras  organizaciones  puedan  brindar  dicho  servicio  deberán acreditarse y ser evaluadas por parte de la Defensoría Pública.
@@ -2539,7 +3006,7 @@ El  sistema  se  regirá  por  los  principios  de  accesibilidad,  responsabili
 Los  servicios  notariales  son  públicos.  En  cada  cantón  o distrito  metropolitano  habrá  el  número  de  notarias  y  notarios  que determine  el  Consejo  de  la  Judicatura.  Las  remuneraciones  de  las notarias y notarios, el régimen de personal auxiliar de estos servicios, y las  tasas  que  deban  satisfacer  los  usuarios,  serán  fijadas  por  el Consejo  de  la  Judicatura.  Los  valores  recuperados  por  concepto  de tasas  ingresarán  al  Presupuesto  General  del  Estado  conforme  lo  que determine la ley.
 
 ##### Art.  200 .-
-Las  notarias  y  notarios  son  depositarios  de  la  fe  pública; serán  nombrados  por  el  Consejo  de  la  Judicatura  previo  concurso publico  de  oposición  y  méritos,  sometido  a  impugnación  y  control social.  Para  ser  notaria  o  notario  se  requerirá  tener  titulo  de  tercer nivel en Derecho legalmente reconocido en el país, y haber ejercido con probidad  notoria  la  profesión  de  abogada  o  abogado  por  un  lapso  no menor  de  tres  años.  Las  notarias  y  notarios  permanecerán  en  sus funciones  seis  años  y  podrán  ser  reelegidos  por  una  sola  vez.  La  ley establecerá  los  estándares  de  rendimiento  y  las  causales  para  su destitución.
+Las notarias y notarios son depositarios de la fe pública; serán nombrados por el Consejo de la Judicatura previo concurso público de oposición y méritos, sometido a impugnación y control social. Para ser notaria o notario se requerirá tener título de tercer nivel en Derecho legalmente reconocido en el país, y haber ejercido con probidad notoria la profesión de abogada o abogado por un lapso no menor de tres años. Las notarias y notarios permanecerán en sus funciones seis años y podrán ser reelegidos por una sola vez. La ley establecerá los estándares de rendimiento y las causales para su destitución.
 
 105
 
@@ -2594,7 +3061,7 @@ Solo los centros de rehabilitación social y los de detención provisional forma
 
 #### Sección primera Naturaleza y funciones
 
-##### Art. 204.
+##### Art. 204.-
 El pueblo es el mandante y primer fiscalizador del poder público, en ejercicio de su derecho a la participación.
 
 La  Función  de  Transparencia  y  Control  Social  promoverá  e  impulsará  el control de las entidades y organismos del sector público, y de las personas naturales o jurídicas del sector privado que presten servicios o desarrollen actividades de interés público, para que los realicen con responsabilidad, transparencia y equidad; fomentará e incentivará la participación ciudadana;  protegerá  el  ejercicio  y  cumplimiento  de  los  derechos;  y prevendrá y combatirá la corrupción.
@@ -2634,7 +3101,7 @@ El Consejo se integrará por siete consejeras o consejeros principales y siete s
 
 La  selección  de  las  consejeras  y  los  consejeros  se  realizará  de  entre  los postulantes que propongan las organizaciones sociales y la ciudadanía. El proceso  de  selección  será  organizado  por  el  Consejo  Nacional  Electoral, que conducirá el concurso público de oposición y méritos correspondiente, con postulación, veeduría y derecho, a impugnación ciudadana de acuerdo con la ley.
 
-##### Art.  208.
+##### Art. 208.-
 Serán  deberes  y  atribuciones  del  Consejo  de  Participación Ciudadana y Control Social, además de los previstos en la ley:
 
 109
@@ -2757,7 +3224,7 @@ La Función Electoral estará conformada por el Consejo Nacional Electoral y el 
 #### Sección primera Consejo Nacional Electoral
 
 ##### Art. 218 .-
-EI Consejo Nacional Electoral se integrará por cinco consejeras o consejeros principales, que ejercerán sus funciones por seis años, y se renovará parcialmente cada tres años, dos miembros en la primera ocasión, tres  en  la  segunda,  y  así  sucesivamente.  Existirán  cinco  consejeras  o consejeros suplentes que se renovarán de igual forma que los principales.
+El Consejo Nacional Electoral se integrará por cinco consejeras o consejeros principales, que ejercerán sus funciones por seis años, y se renovará parcialmente cada tres años, dos miembros en la primera ocasión, tres en la segunda, y así sucesivamente. Existirán cinco consejeras o consejeros suplentes que se renovarán de igual forma que los principales.
 
 La Presidenta o Presidente y la Vicepresidenta o Vicepresidente se elegirán de entre sus miembros principales, y ejercerán sus cargos por tres años.
 
@@ -2837,7 +3304,7 @@ Los  órganos  electorales  estarán  sujetos  al  control  social;  se garantiz
 Los actos y las sesiones de los organismos electorales serán públicos.
 
 ##### Art.  224 .-
-Los  miembros  del  Consejo  Nacional  Electoral  y  del  Tribunal Contencioso  Electoral  serán  designados  por  el  Consejo  de  Participación Ciudadana  y  Control  Social,  previa  selección  mediante  concurso  público  de oposición  y  meritos,  con  postulación  e  impugnación  de  la  ciudadanía,  y garantía de equidad y paridad entre hombres y mujeres, de acuerdo con la ley.
+Los miembros del Consejo Nacional Electoral y del Tribunal Contencioso Electoral serán designados por el Consejo de Participación Ciudadana y Control Social, previa selección mediante concurso público de oposición y méritos, con postulación e impugnación de la ciudadanía, y garantía de equidad y paridad entre hombres y mujeres, de acuerdo con la ley.
 
 116
 
@@ -2880,7 +3347,7 @@ El  ingreso al servicio público, el ascenso y la promoción en la carrera  admi
 #### Sección tercera Servidoras y servidores públicos
 
 ##### Art. 229 .-
-Serán servidoras o servidores públicos todas las personas que en cualquier forma o a cualquier titulo trabajen, presten servicios o ejerzan un cargo, función o dignidad dentro del sector público.
+Serán servidoras o servidores públicos todas las personas que en cualquier forma o a cualquier título trabajen, presten servicios o ejerzan un cargo, función o dignidad dentro del sector público.
 
 Los derechos de las servidoras y servidores públicos son irrenunciables. La ley  definirá  el  organismo  rector  en  materia  de  recursos  humanos  y remuneraciones para todo el sector público y regulará el ingreso, ascenso, promoción, incentivos, régimen disciplinario, estabilidad, sistema de remuneración y cesación de funciones de sus servidores.
 
@@ -2920,7 +3387,7 @@ Ninguna servidora ni servidor público estará exento de responsabilidades por l
 
 Las servidoras o servidores públicos y los delegados o representantes a los cuerpos colegiados de las instituciones del Estado, estarán sujetos a las sanciones  establecidas  por  delitos  de  peculado,  cohecho,  concusión  y enriquecimiento ilícito. La acción para perseguirlos y las penas correspondientes  serán  imprescriptibles  y,  en  estos  casos,  los  juicios  se iniciarán  y  continuarán  incluso  en  ausencia  de  las  personas  acusadas. Estas normas también se aplicarán a quienes participen en estos delitos, aun cuando no tengan las calidades antes señaladas.
 
-##### Art. 234.
+##### Art. 234.-
 El Estado garantizará la formación y capacitación continua de las  servidoras  y  servidores  públicos  a  través  de  las  escuelas,  institutos, academias y programas de formación o capacitación del sector público; y la coordinación con instituciones nacionales e internacionales que operen bajo acuerdos con el Estado.
 
 #### Sección cuarta Procuraduría General del Estado
@@ -2934,7 +3401,7 @@ La Procuraduría General del Estado es un organismo público, técnico jurídico
 
 [[START OF PAGE 120]]
 
-##### Art.  236.
+##### Art. 236.-
 El  Consejo  de  Participación  Ciudadana  y  Control  Social nombrará a la Procuradora o Procurador General del Estado, de una terna que  enviará  la  Presidencia  de  la  República.  La  terna  se  conformará  con criterios  de  especialidad  y  méritos  y  estará  sujeta  a  escrutinio  público  y derecho de impugnación ciudadana; quienes la conformen deberán reunir los mismos requisitos exigidos para ser miembros de la Corte Constitucional.
 
 ##### Art.  237 .-
@@ -3077,7 +3544,7 @@ Cada parroquia rural tendrá una junta parroquial conformada por  vocales  de  e
 ##### Art.  256 .-
 Quienes  ejerzan  la  gobernación  territorial  y  las  alcaldías metropolitanas, serán miembros de un gabinete territorial de consulta que será convocado por la Presidencia de la República de manera periódica.
 
-##### Art. 257.
+##### Art. 257.-
 En el marco de la organización político administrativa podrán conformarse  circunscripciones  territoriales  indígenas  o  afroecuatorianas, que ejercerán las competencias del gobierno territorial autónomo correspondiente, y se regirán por principios de interculturalidad, plurinacionalidad y de acuerdo con los derechos colectivos.
 
 Las parroquias, cantones o provincias conformados mayoritariamente por comunidades, pueblos o nacionalidades indígenas, afroecuatorianos, montubios o ancestrales podrán adoptar este régimen de administración especial,  luego  de  una  consulta  aprobada  por  al  menos  las  dos  terceras partes de los votos válidos. Dos o más circunscripciones administradas por gobiernos  territoriales  indígenas  o  pluriculturales  podrán  integrarse  y conformar  una  nueva  circunscripción.  La  ley  establecerá  las  normas  de conformación, funcionamiento y competencias de estas circunscripciones.
@@ -3099,7 +3566,7 @@ Para  la  protección  del  distrito  especial  de  Galápagos  se  limitarán  
 
 Las  personas  residentes  permanentes  afectadas  por  la  limitación  de  los derechos  tendrán  acceso  preferente  a  los  recursos  naturales  y  a  las actividades ambientalmente sustentables.
 
-##### Art. 259.
+##### Art. 259.-
 Con la finalidad de precautelar la biodiversidad del ecosistema amazónico, el Estado central y los gobiernos autónomos descentralizados adoptarán políticas de desarrollo sustentable que, adicionalmente, compensen las inequidades de su desarrollo y consoliden la soberanía.
 
 127
@@ -3169,7 +3636,7 @@ Los  gobiernos  regionales  autónomos  tendrán  las  siguientes competencias  
 
 En  el  ámbito  de  estas  competencias  exclusivas  y  en  el  uso  de  sus facultades, expedirá normas regionales.
 
-##### Art. 263.
+##### Art. 263.-
 Los gobiernos provinciales tendrán las siguientes competencias exclusivas, sin perjuicio de las otras que determine la ley:
 
 - Planificar  el  desarrollo  provincial  y  formular  los  correspondientes planes  de  ordenamiento  territorial,  de  manera  articulada  con  la planificación nacional, regional, cantonal y parroquial.
@@ -3270,7 +3737,7 @@ En el ámbito de sus competencias y territorio, y en uso de sus facultades, emit
 
 [[START OF PAGE 132]]
 
-##### Art. 268.
+##### Art. 268.-
 La ley determinará los casos excepcionales, el procedimiento y la forma de control, en los que por omisión o deficiente ejecución de una competencia  se  podrá  intervenir  en  la  gestión  del  gobierno  autónomo descentralizado  en  esa  competencia,  en  forma  temporal  y  subsidiaria, hasta que se supere la causa que motivó la intervención.
 
 ##### Art. 269 .-
@@ -3324,7 +3791,7 @@ Los costos directos e indirectos del ejercicio de las competencias descentraliza
 
 Únicamente en caso de catástrofe existirán asignaciones discrecionales no permanentes para los gobiernos autónomos descentralizados.
 
-##### Art. 274.
+##### Art. 274.-
 Los gobiernos autónomos descentralizados en cuyo territorio se exploten o industrialicen recursos naturales no renovables tendrán derecho a participar de las rentas que perciba el Estado por esta actividad, de acuerdo con la ley.
 
 134
@@ -3363,7 +3830,7 @@ El régimen de desarrollo tendrá los siguientes objetivos:
 
 [[START OF PAGE 136]]
 
-- internacional, que contribuya a la paz y a un sistema democrático y equitativo mundial.
+internacional, que contribuya a la paz y a un sistema democrático y equitativo mundial.
 
 - Promover  un  ordenamiento  territorial  equilibrado  y  equitativo  que integre  y  articule  las  actividades  socioculturales,  administrativas, económicas y de gestión, y que coadyuve a la unidad del Estado.
 
@@ -3399,7 +3866,7 @@ Para  la  consecución  del  buen  vivir,  a  las  personas  y  a  las colectivi
 
 ### Capítulo segundo Planificación participativa para el desarrollo
 
-##### Art. 279.
+##### Art. 279.-
 El sistema nacional descentralizado de planificación participativa  organizará  la  planificación  para  el  desarrollo.  El  sistema  se conformará por un Consejo Nacional de Planificación, que integrará a los distintos  niveles  de  gobierno,  con  participación  ciudadana,  y  tendrá  una secretaría  técnica,  que  lo  coordinará.  Este  consejo  tendrá  por  objetivo dictar los lineamientos y las políticas que orienten al sistema y aprobar el Plan Nacional de Desarrollo, y será presidido por la Presidenta o Presidente de la República.
 
 Los consejos de planificación en los gobiernos autónomos descentralizados estarán  presididos  por  sus  máximos  representantes  e  integrados  de acuerdo con la ley.
@@ -3407,7 +3874,7 @@ Los consejos de planificación en los gobiernos autónomos descentralizados esta
 Los consejos ciudadanos serán instancias de deliberación y generación de lineamientos  y  consensos  estratégicos  de  largo  plazo,  que  orientarán  el desarrollo nacional.
 
 ##### Art.  280 .-
-EI  Plan  Nacional  de  Desarrollo  es  el  instrumento  al  que  se sujetarán las políticas, programas y proyectos públicos; la programación y ejecución del presupuesto del Estado; y la inversión y la asignación de los recursos públicos; y coordinar las competencias exclusivas entre el Estado central y los gobiernos autónomos descentralizados. Su observancia será de carácter obligatorio para el sector público e indicativo para los demás sectores.
+El  Plan  Nacional  de  Desarrollo  es  el  instrumento  al  que  se sujetarán las políticas, programas y proyectos públicos; la programación y ejecución del presupuesto del Estado; y la inversión y la asignación de los recursos públicos; y coordinar las competencias exclusivas entre el Estado central y los gobiernos autónomos descentralizados. Su observancia será de carácter obligatorio para el sector público e indicativo para los demás sectores.
 
 137
 
@@ -3522,10 +3989,10 @@ Las  finanzas  públicas,  en  todos  los  niveles  de  gobierno,  se conducirá
 
 Los egresos permanentes para salud, educación y justicia serán prioritarios y, de manera excepcional, podrán ser financiados con ingresos no permanentes.
 
-##### Art.  287.
+##### Art.  287.-
 Toda norma que cree una obligación financiada con recursos públicos establecerá la fuente de financiamiento correspondiente. Solamente  las  instituciones  de  derecho  público  podrán  financiarse  con tasas y contribuciones especiales establecidas por ley.
 
-##### Art.  288.
+##### Art.  288.-
 Las  compras  públicas  cumplirán  con  criterios  de  eficiencia, transparencia, calidad, responsabilidad ambiental y social. Se priorizarán los  productos y servicios nacionales, en particular los provenientes de la economía  popular  y  solidaria,  y  de  las  micro,  pequeñas  y  medianas unidades productivas.
 
 #### Sección tercera Endeudamiento público
@@ -3574,7 +4041,7 @@ Los órganos competentes que la Constitución y la ley determinen realizarán an
 ##### Art.  292 .-
 El  Presupuesto  General  del  Estado  es  el  instrumento  para  la determinación  y  gestión  de  los  ingresos  y  egresos  del  Estado,  e  incluye todos  los  ingresos  y  egresos  del  sector  público,  con  excepción  de  los pertenecientes  a  la  seguridad  social,  la  banca  pública,  las  empresas públicas y los gobiernos autónomos descentralizados.
 
-##### Art.  293.
+##### Art.  293.-
 La  formulación  y  la  ejecución  del  Presupuesto  General  del Estado se sujetarán al Plan Nacional de Desarrollo. Los presupuestos de los gobiernos autónomos  descentralizados y los de otras entidades públicas  se  ajustarán  a  los  planes  regionales,  provinciales,  cantonales  y parroquiales, respectivamente, en el marco del Plan Nacional de Desarrollo, sin menoscabo de sus competencias y su autonomía.
 
 Los gobiernos autónomos descentralizados se someterán a reglas fiscales y de  endeudamiento  interno,  análogas  a  las  del  Presupuesto  General  del Estado, de acuerdo con la ley.
@@ -3605,10 +4072,10 @@ Todo  programa  financiado  con  recursos  públicos tendrá objetivos, metas y 
 
 Las Instituciones y entidades que reciban o transfieran bienes o recursos públicos se someterán a las normas que las regulan y a los principios y procedimientos de transparencia, rendición de cuentas y control público.
 
-##### Art. 298.
+##### Art. 298.-
 Se establecen preasignaciones presupuestarias destinadas a los gobiernos autónomos descentralizados, al sector salud, al sector educación, a la educación  superior;  y a la investigación, ciencia, tecnología e innovación en los términos previstos en la ley. Las transferencias correspondientes  a  preasignaciones  serán  predecibles  y  automáticas.  Se prohíbe crear otras preasignaciones presupuestarias.
 
-##### Art.  299.
+##### Art.  299.-
 El  Presupuesto  General  del  Estado  se  gestionará  a  través  de una Cuenta Única del Tesoro Nacional abierta en el Banco Central, con las subcuentas correspondientes.
 
 En el Banco Central se crearán cuentas especiales para el manejo de los depósitos de las empresas públicas y los gobiernos autónomos descentralizados, y las demás cuentas que correspondan.
@@ -3621,19 +4088,19 @@ Los recursos públicos se manejarán en la banca pública, de acuerdo con la ley
 
 [[START OF PAGE 145]]
 
-#### Sección quinta Régimen tributarlo
+#### Sección quinta Régimen tributario
 
-##### Art. 300.
+##### Art. 300.-
 El régimen tributario se regirá por los principios de generalidad, progresividad, eficiencia, simplicidad administrativa, irretroactividad, equidad,  transparencia  y  suficiencia  recaudatoria.  Se  priorizarán  los impuestos directos y progresivos.
 
 La política tributaria promoverá la redistribución y estimulará el empleo, la producción  de  bienes  y  servicios,  y  conductas  ecológicas,  sociales  y económicas responsables.
 
-##### Art.  301.
+##### Art.  301.-
 Sólo  por  iniciativa  de  la  Función  Ejecutiva  y  mediante  ley sancionada  por  la  Asamblea  Nacional  se  podrá  establecer,  modificar, exonerar  o  extinguir  impuestos.  Sólo  por  acto  normativo  de  órgano competente se podrán establecer, modificar, exonerar y extinguir tasas y contribuciones. Las tasas y contribuciones especiales se crearán y regularán de acuerdo con la ley.
 
 #### Sección sexta Política monetaria, cambiaria, crediticia y financiera
 
-##### Art.  302.
+##### Art.  302.-
 Las  políticas  monetaria,  crediticia,  cambiaria  y  financiera tendrán como objetivos:
 
 - Suministrar  los  medios  de  pago  necesarios  para  que  el  sistema económico opere con eficiencia.
@@ -3650,7 +4117,7 @@ Las  políticas  monetaria,  crediticia,  cambiaria  y  financiera tendrán como
 
 [[START OF PAGE 146]]
 
-##### Art. 303.
+##### Art. 303.-
 La formulación de las políticas monetaria, crediticia, cambiaria y financiera es facultad exclusiva de la Función Ejecutiva y se instrumentará a través del Banco Central. La ley regulará la circulación de la moneda con poder liberatorio en el territorio ecuatoriano.
 
 La  ejecución  de  la  política  crediticia  y  financiera  también  se  ejercerá  a través de la banca pública.
@@ -3675,10 +4142,10 @@ La política comercial tendrá los siguientes objetivos:
 
 - Evitar las prácticas monopólicas y oligopólicas, particularmente en el sector privado, y otras que afecten el funcionamiento de los mercados.
 
-##### Art.  305.
+##### Art.  305.-
 La  creación  de  aranceles  y  la  fijación  de  sus  niveles  son competencia exclusiva de la Función Ejecutiva.
 
-##### Art. 306.
+##### Art. 306.-
 El Estado promoverá las exportaciones ambientalmente responsables,  con  preferencia  de  aquellas  que  generen  mayor  empleo  y valor  agregado,  y  en  particular  las  exportaciones  de  los  pequeños  y medianos productores y del sector artesanal.
 
 146
@@ -3689,23 +4156,23 @@ El Estado promoverá las exportaciones ambientalmente responsables,  con  prefer
 
 El  Estado  propiciará  las  importaciones  necesarias  para  los  objetivos  del desarrollo  y  desincentivará  aquellas  que  afecten  negativamente  a  la producción nacional, a la población y a la naturaleza.
 
-##### Art. 307.
+##### Art. 307.-
 Los contratos celebrados por el Estado con personas naturales o  jurídicas  extranjeras  llevarán  implícita  la  renuncia  de  éstas  a  toda reclamación diplomática, salvo contrataciones que correspondan al servicio diplomático.
 
 #### Sección octava Sistema financiero
 
-##### Art. 308.
+##### Art. 308.-
 Las actividades financieras son un servicio de orden público, y podrán  ejercerse,  previa  autorización  del  Estado,  de  acuerdo  con  la  ley; tendrán la finalidad fundamental de preservar los depósitos y atender los requerimientos de financiamiento para la consecución de los objetivos de desarrollo  del  país.  Las  actividades  financieras  intermediarán  de  forma eficiente  los  recursos  captados  para  fortalecer  la  inversión  productiva nacional, y el consumo social y ambientalmente responsable.
 
 El Estado fomentará el acceso a los servicios financieros y a la democratización  del  crédito.  Se  prohíben  las  prácticas  colusorias,  el anatocismo y la usura.
 
 La  regulación  y  el  control  del  sector  financiero  privado  no  trasladarán  la responsabilidad de la solvencia bancaria ni supondrán garantía alguna del Estado. Las administradoras y administradores de las instituciones financieras y quienes controlen su capital serán responsables de su solvencia. Se prohíbe el congelamiento o la retención arbitraria o generalizada de los fondos o depósitos en las instituciones financieras públicas o privadas.
 
-##### Art.  309.
+##### Art.  309.-
 El  sistema  financiero  nacional  se  compone  de  los  sectores público,  privado,  y  del  popular  y  solidario,  que  intermedian  recursos  del público.  Cada  uno  de  estos  sectores  contará  con  normas  y  entidades  de control  específicas  y  diferenciadas,  que  se  encargarán  de  preservar  su seguridad,  estabilidad,  transparencia  y  solidez.  Estas  entidades  serán autónomas. Los directivos de las entidades de control serán responsables administrativa, civil y penalmente por sus decisiones.
 
-##### Art. 310.
-El sector financiero público tendrá como finalidad la prestación sustentable,  eficiente,  accesible  y  equitativa  de  servicios  financieros.  El crédito  que  otorgue  se  orientará  de  manera  preferente  a  incrementar  la productividad  y  competitividad  de  los  sectores  productivos  que  permitan alcanzar  los  objetivos  del  Plan  de  Desarrollo  y  de  los  grupos  menos favorecidos, a fin de impulsar su inclusión activa en la economía.
+##### Art. 310.-
+El sector financiero público tendrá como finalidad la prestación sustentable, eficiente, accesible y equitativa de servicios financieros. El crédito que otorgue se orientará de manera preferente a incrementar la
 
 147
 
@@ -3713,10 +4180,12 @@ El sector financiero público tendrá como finalidad la prestación sustentable,
 
 [[START OF PAGE 148]]
 
-##### Art.  311.
-EI  sector  financiero  popular  y  solidario  se  compondrá  de cooperativas de ahorro y crédito, entidades asociativas o solidarias, cajas y bancos comunales, cajas de ahorro. Las iniciativas de servicios del sector financiero  popular  y  solidario,  y  de  las  micro,  pequeñas  y  medianas unidades productivas, recibirán un tratamiento diferenciado y preferencial del  Estado,  en  la  medida  en  que  impulsen  el  desarrollo  de  la  economía popular y solidaria.
+productividad y competitividad de los sectores productivos que permitan alcanzar los objetivos del Plan de Desarrollo y de los grupos menos favorecidos, a fin de impulsar su inclusión activa en la economía.
 
-##### Art. 312.
+##### Art.  311.-
+El sector financiero popular y solidario se compondrá de cooperativas de ahorro y crédito, entidades asociativas o solidarias, cajas y bancos comunales, cajas de ahorro. Las iniciativas de servicios del sector financiero popular y solidario, y de las micro, pequeñas y medianas unidades productivas, recibirán un tratamiento diferenciado y preferencial del Estado, en la medida en que impulsen el desarrollo de la economía popular y solidaria.
+
+##### Art. 312.-
 Las entidades o grupos financieros no podrán poseer participaciones permanentes, totales o parciales, en empresas ajenas a la actividad financiera.
 
 Se  prohíbe  la  participación  en  el  control  del  capital,  la  inversión  o  el patrimonio  de  los  medios  de  comunicación  social,  a  entidades  o  grupos financieros,  sus  representantes  legales,  miembros  de  su  directorio  y accionistas.
@@ -3732,13 +4201,23 @@ Cada  entidad  integrante  del  sistema  financiero  nacional  tendrá  una defe
 ### Capítulo quinto Sectores estratégicos, servicios y empresas públicas
 
 ##### Art.  313 .-
-El  Estado  se  reserva  el  derecho  de  administrar,  regular, controlar  y  gestionar  los  sectores  estratégicos,  de  conformidad  con  los principios de sostenibilidad ambiental, precaución, prevención y eficiencia. Los sectores estratégicos, de decisión y control exclusivo del Estado, son aquellos  que  por  su  trascendencia  y  magnitud  tienen  decisiva  influencia económica,  social,  política  o  ambiental,  y  deberán  orientarse  al  pleno desarrollo de los derechos y al interés social. Se  consideran  sectores  estratégicos  la  energía  en  todas  sus  formas,  las telecomunicaciones, los recursos naturales no renovables, el transporte y la refinación de hidrocarburos, la biodiversidad y el patrimonio genético, el espectro radioeléctrico, el agua, y los demás que determine la ley.
-##### Art.  314.
-El  Estado  será  responsable  de  la  provisión  de  los  servicios públicos  de  agua  potable  y  de  riego,  saneamiento,  energía  eléctrica, telecomunicaciones, vialidad, infraestructuras portuarias y aeroportuarias, y los demás que determine la ley. El Estado garantizará que los servicios públicos y su provisión respondan a  los  principios  de  obligatoriedad,  generalidad,  uniformidad,  eficiencia, responsabilidad,  universalidad,  accesibilidad,  regularidad,  continuidad  y calidad.  El  Estado  dispondrá  que  los  precios  y  tarifas  de  los  servicios públicos sean equitativos, y establecerá su control y regulación.
-##### Art.  315.
-El  Estado  constituirá  empresas  públicas  para  la  gestión  de sectores estratégicos, la prestación de servicios públicos, el aprovechamiento sustentable de recursos naturales o de bienes públicos y el desarrollo de otras actividades económicas. Las empresas públicas estarán bajo la regulación y el control específico de los  organismos  pertinentes,  de  acuerdo  con  la  ley;  funcionarán  como sociedades  de  derecho  público,  con  personalidad  jurídica,  autonomía financiera,  económica,  administrativa  y  de  gestión,  con  altos  parámetros de calidad y criterios empresariales, económicos, sociales y ambientales. Los  excedentes  podrán  destinarse  a  la  inversión  y  reinversión  en  las de carácter público, en niveles que garanticen su desarrollo. Los excedentes que  no  fueran  invertidos  o  reinvertidos  se  transferirán  al  Presupuesto
+El Estado se reserva el derecho de administrar, regular, controlar y gestionar los sectores estratégicos, de conformidad con los principios de sostenibilidad ambiental, precaución, prevención y eficiencia.
 
-mismas  empresas  o  sus  subsidiarias, relacionadas o asociadas, General del Estado.
+Los sectores estratégicos, de decisión y control exclusivo del Estado, son aquellos que por su trascendencia y magnitud tienen decisiva influencia económica, social, política o ambiental, y deberán orientarse al pleno desarrollo de los derechos y al interés social.
+
+Se consideran sectores estratégicos la energía en todas sus formas, las telecomunicaciones, los recursos naturales no renovables, el transporte y la refinación de hidrocarburos, la biodiversidad y el patrimonio genético, el espectro radioeléctrico, el agua, y los demás que determine la ley.
+
+##### Art.  314.-
+El Estado será responsable de la provisión de los servicios públicos de agua potable y de riego, saneamiento, energía eléctrica, telecomunicaciones, vialidad, infraestructuras portuarias y aeroportuarias, y los demás que determine la ley.
+
+El Estado garantizará que los servicios públicos y su provisión respondan a los principios de obligatoriedad, generalidad, uniformidad, eficiencia, responsabilidad, universalidad, accesibilidad, regularidad, continuidad y calidad. El Estado dispondrá que los precios y tarifas de los servicios públicos sean equitativos, y establecerá su control y regulación.
+
+##### Art.  315.-
+El Estado constituirá empresas públicas para la gestión de sectores estratégicos, la prestación de servicios públicos, el aprovechamiento sustentable de recursos naturales o de bienes públicos y el desarrollo de otras actividades económicas.
+
+Las empresas públicas estarán bajo la regulación y el control específico de los organismos pertinentes, de acuerdo con la ley; funcionarán como sociedades de derecho público, con personalidad jurídica, autonomía financiera, económica, administrativa y de gestión, con altos parámetros de calidad y criterios empresariales, económicos, sociales y ambientales.
+
+Los excedentes podrán destinarse a la inversión y reinversión en las mismas empresas o sus subsidiarias, relacionadas o asociadas, de carácter público, en niveles que garanticen su desarrollo. Los excedentes que no fueran invertidos o reinvertidos se transferirán al Presupuesto General del Estado.
 
 149
 
@@ -3748,15 +4227,15 @@ mismas  empresas  o  sus  subsidiarias, relacionadas o asociadas, General del Es
 
 La  ley  definirá  la  participación  de  las  empresas  públicas  en  empresas mixtas en las que el Estado siempre tendrá la mayoría accionaria, para la participación en la gestión de los sectores estratégicos y la prestación de los servicios públicos.
 
-##### Art.  316.
+##### Art.  316.-
 El  Estado  podrá  delegar  la  participación  en  los  sectores estratégicos  y  servicios  públicos  a  empresas  mixtas  en  las  cuales  tenga mayoría  accionaria.  La  delegación  se  sujetará  al interés  nacional  y respetará los plazos y limites fijados en la ley para cada sector estratégico.
 
 El Estado podrá, de forma excepcional, delegar a la iniciativa privada y a la economía popular y solidaria, el ejercicio de estas actividades, en los casos que establezca la ley.
 
-##### Art. 317.
+##### Art. 317.-
 Los recursos naturales no renovables pertenecen al patrimonio inalienable e imprescriptible del Estado. En  su gestión, el Estado priorizará  la  responsabilidad  intergeneracional,  la  conservación  de  la naturaleza, el cobro de regalías u otras contribuciones no tributarias y de participaciones  empresariales;  y  minimizará  los  impactos  negativos  de carácter ambiental, cultural, social y económico.
 
-##### Art.  318.
+##### Art.  318.-
 El  agua  es  patrimonio  nacional  estratégico  de  uso  público, dominio inalienable e imprescriptible del Estado, y constituye un elemento vital  para  la  naturaleza  y  para  la  existencia  de  los  seres  humanos.  Se prohíbe toda forma de privatización del agua.
 
 La gestión del agua será exclusivamente pública o comunitaria. El servicio público de saneamiento, el abastecimiento de agua potable y el riego serán prestados únicamente por personas jurídicas estatales o comunitarias.
@@ -3775,22 +4254,22 @@ El  Estado,  a  través  de  la  autoridad  única  del  agua,  será  el  respo
 
 #### Sección primera Formas de organización de la producción y su gestión
 
-##### Art. 319.
+##### Art. 319.-
 Se reconocen diversas formas de organización de la producción en la economía, entre otras las comunitarias, cooperativas, empresariales públicas  o  privadas,  asociativas,  familiares,  domésticas,  autónomas  y mixtas.
 
 El Estado promoverá las formas de producción que aseguren el buen vivir de la población y desincentivará aquellas que atenten contra sus derechos o  los  de  la  naturaleza;  alentará  la  producción  que  satisfaga  la  demanda interna  y  garantice  una  activa  participación  del  Ecuador  en  el  contexto internacional.
 
-##### Art.  320.
+##### Art.  320.-
 En  las  diversas  formas  de  organización  de  los  procesos  de producción se estimulará una gestión participativa, transparente y eficiente.
 
 La  producción,  en  cualquiera  de  sus  formas,  se  sujetará  a  principios  y normas de calidad, sostenibilidad, productividad sistémica, valoración del trabajo y eficiencia económica y social.
 
 #### Sección segunda Tipos de propiedad
 
-##### Art. 321.
+##### Art. 321.-
 El Estado reconoce y garantiza el derecho a la propiedad en sus formas  pública,  privada,  comunitaria,  estatal,  asociativa,  cooperativa, mixta, y que deberá cumplir su función social y ambiental.
 
-##### Art.  322.
+##### Art.  322.-
 Se  reconoce  la  propiedad  intelectual  de  acuerdo  con  las condiciones  que  señale  la  ley.  Se  prohíbe  toda  forma  de  apropiación  de conocimientos  colectivos,  en  el  ámbito  de  las  ciencias,  tecnologías  y saberes ancestrales. Se prohíbe también la apropiación sobre los recursos genéticos que contienen la diversidad biológica y la agro-biodiversidad.
 
 151
@@ -3799,15 +4278,15 @@ Se  reconoce  la  propiedad  intelectual  de  acuerdo  con  las condiciones  que
 
 [[START OF PAGE 152]]
 
-##### Art.  323.
+##### Art.  323.-
 Con  el  objeto  de  ejecutar  planes  de  desarrollo  social,  manejo sustentable  del  ambiente  y  de  bienestar  colectivo,  las  instituciones  del Estado, por razones de utilidad pública o interés social y nacional, podrán declarar la expropiación de bienes, previa justa valoración, indemnización y pago de conformidad con la ley. Se prohíbe toda forma de confiscación.
 
-##### Art. 324.
+##### Art. 324.-
 El Estado garantizará la igualdad de derechos y oportunidades de  mujeres  y  hombres  en  el  acceso  a  la  propiedad  y  en  la  toma  de decisiones para la administración de la sociedad conyugal.
 
 #### Sección tercera Formas de trabajo y su retribución
 
-##### Art. 325.
+##### Art. 325.-
 El Estado garantizará el derecho al trabajo. Se reconocen todas las modalidades de trabajo, en relación de dependencia o autónomas, con inclusión de labores de autosustento y cuidado humano; y como actores sociales productivos, a todas las trabajadoras y trabajadores.
 
 ##### Art. 326.-
@@ -3841,7 +4320,7 @@ El derecho al trabajo se sustenta en los siguientes principios:
 
 - Se adoptará el diálogo social para la solución de conflictos de trabajo y formulación de acuerdos.
 
-- Será valida la transacción en materia laboral siempre que no implique renuncia  de  derechos  y  se  celebre  ante  autoridad  administrativa  o juez competente.
+- Será válida la transacción en materia laboral siempre que no implique renuncia  de  derechos  y  se  celebre  ante  autoridad  administrativa  o juez competente.
 
 - Los  conflictos  colectivos  de  trabajo,  en  todas  sus  instancias,  serán sometidos a tribunales de conciliación y arbitraje.
 
@@ -3859,12 +4338,12 @@ El derecho al trabajo se sustenta en los siguientes principios:
 
 [[START OF PAGE 154]]
 
-##### Art. 327.
+##### Art. 327.-
 La relación laboral entre personas trabajadoras y empleadoras será bilateral y directa.
 
 Se prohíbe toda forma de precarización, como la intermediación laboral y la  tercerización  en  las  actividades  propias  y  habituales  de  la  empresa  o persona empleadora, la contratación laboral por horas, o cualquiera otra que afecte los derechos de las personas trabajadoras en forma individual o colectiva. El incumplimiento de obligaciones, el fraude, la simulación, y el enriquecimiento injusto en materia laboral se penalizarán y sancionarán de acuerdo con la ley.
 
-##### Art. 328.
+##### Art. 328.-
 La remuneración será justa, con un salario digno que cubra al menos las necesidades básicas de la persona trabajadora, así como las de su  familia;  será  inembargable,  salvo  para  el  pago  de  pensiones  por alimentos.
 
 El Estado fijará y revisará anualmente el salario básico establecido en la ley, de aplicación general y obligatoria.
@@ -3875,7 +4354,7 @@ Lo que el empleador deba a las trabajadoras y trabajadores, por cualquier concep
 
 Para el pago de indemnizaciones, la remuneración comprende todo lo que perciba  la  persona  trabajadora  en  dinero,  en  servicios  o  en  especies, inclusive lo que reciba por los trabajos extraordinarios y suplementarios, a destajo, comisiones, participación en beneficios o cualquier otra retribución que tenga carácter normal. Se exceptuarán el porcentaje legal de  utilidades,  los  viáticos  o  subsidios  ocasionales  y  las  remuneraciones adicionales.
 
-Las personas trabajadoras del sector privado tienen derecho a participar de las utilidades liquidas de las empresas, de acuerdo con la ley. La ley fijará  los  límites  de  esa  participación  en  las  empresas  de  explotación  de recursos  no  renovables.  En  las  empresas  en  las  cuales  el  Estado  tenga participación  mayoritaria,  no  habrá  pago  de  utilidades.  Todo  fraude  o falsedad  en  la  declaración  de  utilidades  que  perjudique  este  derecho  se sancionará por la ley.
+Las personas trabajadoras del sector privado tienen derecho a participar de las utilidades líquidas de las empresas, de acuerdo con la ley. La ley fijará  los  límites  de  esa  participación  en  las  empresas  de  explotación  de recursos  no  renovables.  En  las  empresas  en  las  cuales  el  Estado  tenga participación  mayoritaria,  no  habrá  pago  de  utilidades.  Todo  fraude  o falsedad  en  la  declaración  de  utilidades  que  perjudique  este  derecho  se sancionará por la ley.
 
 154
 
@@ -3883,7 +4362,7 @@ Las personas trabajadoras del sector privado tienen derecho a participar de las 
 
 [[START OF PAGE 155]]
 
-##### Art.  329.
+##### Art.  329.-
 Las  jóvenes  y  los  jóvenes  tendrán  el  derecho  de  ser  sujetos activos en la producción, así como en las labores de autosustento, cuidado familiar e iniciativas comunitarias. Se impulsarán condiciones y oportunidades con este fin.
 
 Para el cumplimiento del derecho al trabajo de las comunidades, pueblos y nacionalidades, el Estado adoptará medidas específicas a fin de eliminar discriminaciones  que  los  afecten,  reconocerá  y  apoyará  sus  formas  de organización del trabajo, y garantizará el acceso al empleo en igualdad de condiciones.
@@ -3894,10 +4373,10 @@ Los procesos de selección, contratación y promoción laboral se basarán en re
 
 El Estado impulsará la formación y capacitación para mejorar el acceso y calidad del empleo y las iniciativas de trabajo autónomo. El Estado velará por el respeto a los derechos laborales de las trabajadoras y trabajadores ecuatorianos en el exterior, y promoverá convenios y acuerdos con otros países para la regularización de tales trabajadores.
 
-##### Art.  330.
+##### Art.  330.-
 Se  garantizará  la  inserción  y  accesibilidad  en  igualdad  de condiciones al  trabajo  remunerado  de  las  personas  con  discapacidad.  El Estado  y  los  empleadores  implementarán  servicios  sociales  y  de  ayuda especial para facilitar su actividad. Se prohíbe disminuir la remuneración del trabajador con discapacidad por cualquier circunstancia relativa a su condición.
 
-##### Art.  331.
+##### Art.  331.-
 El  Estado  garantizará  a  las  mujeres  igualdad  en  el  acceso  al empleo, a la formación y promoción laboral y profesional, a la remuneración  equitativa,  y a la iniciativa  de  trabajo  autónomo.  Se adoptarán todas las medidas necesarias para eliminar las desigualdades.
 
 Se  prohíbe  toda  forma  de  discriminación,  acoso  o  acto  de  violencia  de cualquier  índole,  sea  directa  o  indirecta,  que  afecte  a  las  mujeres  en  el trabajo.
@@ -3908,13 +4387,13 @@ Se  prohíbe  toda  forma  de  discriminación,  acoso  o  acto  de  violencia  
 
 [[START OF PAGE 156]]
 
-##### Art. 332.
+##### Art. 332.-
 El Estado garantizará el respeto a los derechos reproductivos de las personas  trabajadoras,  lo  que  incluye  la eliminación  de  riesgos laborales que afecten la salud reproductiva, el acceso y estabilidad en el empleo sin limitaciones por embarazo o número de hijas e hijos, derechos de maternidad, lactancia, y el derecho a licencia por paternidad.
 
 Se prohíbe el despido de la mujer trabajadora asociado a su condición de gestación y maternidad, así como la discriminación vinculada con los roles reproductivos.
 
-##### Art. 333.
-Se reconoce como labor productiva el trabajo no remunerado de autosustento y cuidado humano que se realza en los hogares
+##### Art. 333.-
+Se reconoce como labor productiva el trabajo no remunerado de autosustento y cuidado humano que se realiza en los hogares.
 
 El Estado promoverá un régimen laboral que funcione en armonía con las necesidades del cuidado humano, que facilite servicios, infraestructura y horarios de trabajo adecuados; de manera especial, proveerá servicios de cuidado  infantil,  de  atención  a  las  personas  con  discapacidad  y  otros necesarios  para  que  las  personas  trabajadoras  puedan  desempeñar  sus actividades laborales; e impulsará la corresponsabilidad y reciprocidad de hombres y mujeres en el trabajo doméstico y en las obligaciones familiares.
 
@@ -3922,7 +4401,7 @@ La protección de la seguridad social se extenderá de manera progresiva a las p
 
 #### Sección cuarta Democratización de los factores de producción
 
-##### Art.  334.
+##### Art.  334.-
 El  Estado  promoverá  el  acceso  equitativo  a  los  factores  de producción, para lo cual le corresponderá:
 
 - Evitar  la  concentración  o  acaparamiento  de  factores  y  recursos productivos, promover  su  redistribución  y  eliminar  privilegios o desigualdades en el acceso a ellos.
@@ -3943,17 +4422,17 @@ El  Estado  promoverá  el  acceso  equitativo  a  los  factores  de producción
 
 #### Sección quinta Intercambios económicos y comercio justo
 
-##### Art.  335.
+##### Art.  335.-
 El  Estado  regulará,  controlará  e  intervendrá,  cuando  sea necesario, en los intercambios y transacciones económicas; y sancionará la explotación, usura, acaparamiento, simulación, intermediación especulativa de los bienes y servicios, así como toda forma de perjuicio a los derechos económicos y a los bienes públicos y colectivos.
 
 El Estado  definirá una  política de precios orientada a proteger la producción  nacional,  establecerá  los  mecanismos  de  sanción  para  evitar cualquier  práctica  de  monopolio  y  oligopolio  privados,  o  de  abuso  de posición  de  dominio  en  el  mercado  y  otras  prácticas  de  competencia desleal.
 
-##### Art. 336.
-EI Estado impulsará y velará por el comercio justo como medio de acceso a bienes y servicios de calidad, que minimice las distorsiones de la intermediación y promueva la sustentabilidad.
+##### Art. 336.-
+El Estado impulsará y velará por el comercio justo como medio de acceso a bienes y servicios de calidad, que minimice las distorsiones de la intermediación y promueva la sustentabilidad.
 
 El  Estado  asegurará  la  transparencia  y  eficiencia  en  los  mercados  y fomentará la competencia en igualdad de condiciones y oportunidades, lo que se definirá mediante ley.
 
-##### Art.  337.
+##### Art.  337.-
 El  Estado  promoverá  el  desarrollo  de  infraestructura  para  el acopio, trasformación, transporte y comercialización de productos para la satisfacción de las necesidades básicas internas, así como para asegurar la participación de la economía ecuatoriana en el contexto regional y mundial a partir de una visión estratégica.
 
 157
@@ -3964,10 +4443,10 @@ El  Estado  promoverá  el  desarrollo  de  infraestructura  para  el acopio, tr
 
 #### Sección sexta Ahorro e inversión
 
-##### Art. 338.
+##### Art. 338.-
 El Estado promoverá y protegerá el ahorro interno como fuente de  inversión  productiva  en  el  país.  Asimismo,  generará  incentivos  al retorno del ahorro y de los bienes de las personas migrantes, y para que el ahorro de las personas y de las diferentes unidades económicas se oriente hacia la inversión productiva de calidad.
 
-##### Art. 339.
+##### Art. 339.-
 El Estado promoverá las inversiones nacionales y extranjeras, y establecerá  regulaciones  específicas  de  acuerdo  a  sus  tipos,  otorgando prioridad  a  la  inversión  nacional.  Las  inversiones  se  orientarán  con criterios de diversificación productiva, innovación tecnológica, y generación de equilibrios regionales y sectoriales.
 
 La inversión extranjera directa será complementaria a la nacional, estará sujeta  a  un  estricto  respeto  del  marco  jurídico  y  de  las  regulaciones nacionales,  a  la  aplicación  de  los  derechos  y  se  orientará  según  las necesidades y prioridades definidas en el Plan Nacional de Desarrollo, así como  en  los  diversos  planes  de  desarrollo  de  los  gobiernos  autónomos descentralizados.
@@ -3984,11 +4463,11 @@ La  inversión  pública  se  dirigirá  a  cumplir  los  objetivos  del  régim
 
 ### Capítulo primero Inclusión y equidad
 
-##### Art. 340.
-EI sistema nacional de inclusión y equidad social es el conjunto articulado  y  coordinado  de  sistemas,  instituciones,  políticas,  normas, programas y servicios que aseguran el ejercicio, garantía y exigibilidad de los  derechos  reconocidos  en  la  Constitución  y  el  cumplimiento  de  los objetivos del régimen de desarrollo. El sistema se articulará al Plan Nacional de Desarrollo y al sistema nacional descentralizado de planificación participativa; se guiará por los principios de universalidad, igualdad, equidad, progresividad, interculturalidad, solidaridad  y  no  discriminación;  y  funcionará  bajo  los  criterios  de  calidad, eficiencia, eficacia, transparencia, responsabilidad y participación. El sistema se compone de los ámbitos de la educación, salud, seguridad social,  gestión  de  riesgos,  cultura  física  y  deporte,  hábitat  y  vivienda, cultura,  comunicación  e  información,  disfrute  del  tiempo  libre,  ciencia  y tecnología, población, seguridad humana y transporte.
-##### Art. 341.
+##### Art. 340.-
+El sistema nacional de inclusión y equidad social es el conjunto articulado  y  coordinado  de  sistemas,  instituciones,  políticas,  normas, programas y servicios que aseguran el ejercicio, garantía y exigibilidad de los  derechos  reconocidos  en  la  Constitución  y  el  cumplimiento  de  los objetivos del régimen de desarrollo. El sistema se articulará al Plan Nacional de Desarrollo y al sistema nacional descentralizado de planificación participativa; se guiará por los principios de universalidad, igualdad, equidad, progresividad, interculturalidad, solidaridad  y  no  discriminación;  y  funcionará  bajo  los  criterios  de  calidad, eficiencia, eficacia, transparencia, responsabilidad y participación. El sistema se compone de los ámbitos de la educación, salud, seguridad social,  gestión  de  riesgos,  cultura  física  y  deporte,  hábitat  y  vivienda, cultura,  comunicación  e  información,  disfrute  del  tiempo  libre,  ciencia  y tecnología, población, seguridad humana y transporte.
+##### Art. 341.-
 El  Estado generará las condiciones para la protección integral de  sus  habitantes  a  lo  largo  de  sus  vidas,  que  aseguren  los  derechos  y principios reconocidos en la Constitución, en particular la igualdad en la diversidad  y  la  no  discriminación,  y  priorizará  su  acción  hacia  aquellos grupos que requieran consideración especial por la persistencia de desigualdades,  exclusión,  discriminación  o  violencia,  o  en  virtud  de  su condición etaria, de salud o de discapacidad. La  protección  integral  funcionará  a  través  de  sistemas  especializados,  de acuerdo con la ley. Los sistemas especializados se guiarán por sus principios específicos y los del sistema nacional de inclusión y equidad social. El sistema nacional descentralizado de protección integral de la niñez y la adolescencia será el encargado de asegurar el ejercicio de los derechos de niñas,  niños  y  adolescentes.  Serán  parte  del  sistema  las  instituciones públicas, privadas y comunitarias.
-##### Art.  342.
+##### Art.  342.-
 El  Estado  asignará,  de  manera  prioritaria  y  equitativa,  los recursos  suficientes,  oportunos  y  permanentes  para  el  funcionamiento  y gestión del sistema.
 
 159
@@ -3999,22 +4478,22 @@ El  Estado  asignará,  de  manera  prioritaria  y  equitativa,  los recursos  s
 
 #### Sección primera Educación
 
-##### Art.  343.
+##### Art.  343.-
 El  sistema  nacional  de  educación  tendrá  como  finalidad  el desarrollo de capacidades y potencialidades individuales y colectivas de la población, que posibiliten el aprendizaje, y la generación y utilización de conocimientos, técnicas, saberes, artes y cultura. El sistema tendrá como centro al sujeto que aprende, y funcionará de manera flexible y dinámica, incluyente, eficaz y eficiente.
 
 El sistema nacional de educación integrará una visión intercultural acorde con la diversidad geográfica, cultural y lingüística del país, y el respeto a los derechos de las comunidades, pueblos y nacionalidades.
 
-##### Art. 344.
+##### Art. 344.-
 El sistema nacional de educación comprenderá las instituciones, programas, políticas,  recursos  y  actores  del  proceso  educativo,  así  como acciones en los niveles de educación inicial, básica y bachillerato, y estará articulado con el sistema de educación superior.
 
 El  Estado  ejercerá  la  rectoría  del  sistema  a  través  de  la  autoridad educativa  nacional,  que  formulará  la  política  nacional  de  educación; asimismo  regulará y controlará las actividades relacionadas con la educación, así como el funcionamiento de las entidades del sistema.
 
-##### Art.  345.
+##### Art.  345.-
 La  educación  como  servicio  público  se  prestará  a  través  de instituciones públicas, fiscomisionales y particulares.
 
 En los  establecimientos  educativos  se  proporcionarán  sin  costo  servicios de  carácter  social  y  de  apoyo  psicológico,  en  el  marco  del  sistema  de inclusión y equidad social.
 
-##### Art. 346.
+##### Art. 346.-
 Existirá una institución pública, con autonomía, de evaluación integral interna y externa, que promueva la calidad de la educación.
 
 ##### Art. 347.-
@@ -4050,7 +4529,7 @@ Será responsabilidad del Estado:
 
 - Garantizar, bajo los principios de equidad social, territorial y regional que todas las personas tengan acceso a la educación pública.
 
-##### Art. 348.
+##### Art. 348.-
 La educación pública será gratuita y el Estado la financiará de manera  oportuna,  regular  y  suficiente.  La  distribución  de  los  recursos destinados  a  la  educación  se  regirá  por  criterios  de  equidad  social, poblacional y territorial, entre otros.
 
 161
@@ -4063,16 +4542,16 @@ El Estado financiará la educación especial y podrá apoyar financieramente a l
 
 La  falta  de  transferencia  de  recursos  en  las  condiciones  señaladas  será sancionada  con  la  destitución  de  la  autoridad  y  de  las  servidoras  y servidores públicos remisos de su obligación.
 
-##### Art. 349.
+##### Art. 349.-
 El Estado garantizará al personal docente, en todos los niveles y modalidades, estabilidad, actualización, formación continua y mejoramiento pedagógico y académico; una  remuneración  justa, de acuerdo a la profesionalización, desempeño y méritos académicos. La ley regulará la carrera docente y el escalafón; establecerá un sistema nacional de evaluación del desempeño y la política salarial en todos los niveles. Se establecerán políticas de promoción, movilidad y alternancia docente.
 
-##### Art.  350.
+##### Art.  350.-
 El  sistema  de  educación  superior  tiene  como  finalidad  la formación  académica  y  profesional  con  visión  científica  y  humanista;  la investigación científica y tecnológica; la innovación, promoción, desarrollo y difusión de los saberes y las culturas; la construcción de soluciones para los  problemas  del  país,  en  relación  con  los  objetivos  del  régimen  de desarrollo.
 
-##### Art. 351.
+##### Art. 351.-
 El  sistema de educación superior estará articulado al sistema nacional de educación y al Plan Nacional de Desarrollo; la ley establecerá los mecanismos de coordinación del sistema de educación superior con la Función Ejecutiva. Este sistema se regirá por los principios de autonomía responsable, cogobierno, igualdad de oportunidades, calidad, pertinencia, integralidad,  autodeterminación  para  la  producción  del  pensamiento  y conocimiento, en el marco del diálogo de saberes, pensamiento universal y producción científica tecnológica global.
 
-##### Art. 352.
+##### Art. 352.-
 El sistema de educación superior estará integrado por universidades y escuelas politécnicas; institutos superiores técnicos, tecnológicos y pedagógicos; y conservatorios de música y artes, debidamente acreditados y evaluados.
 
 Estas instituciones, sean públicas o particulares, no tendrán fines de lucro.
@@ -4083,14 +4562,14 @@ Estas instituciones, sean públicas o particulares, no tendrán fines de lucro.
 
 [[START OF PAGE 163]]
 
-##### Art. 353.
+##### Art. 353.-
 El sistema de educación superior se regirá por:
 
 - Un  organismo  público  de  planificación,  regulación  y  coordinación interna del sistema y de la relación entre sus distintos actores con la Función Ejecutiva.
 
 - Un organismo público técnico de acreditación y aseguramiento de la calidad de instituciones, carreras y programas, que no podrá conformarse por representantes de las instituciones objeto de regulación.
 
-##### Art. 354.
+##### Art. 354.-
 Las universidades y escuelas politécnicas, públicas y particulares,  se  crearán  por  ley,  previo  informe  favorable  vinculante  del organismo  encargado  de  la  planificación,  regulación  y  coordinación  del sistema, que tendrá como base los informes previos favorables y obligatorios de la institución responsable del aseguramiento de la calidad y del organismo nacional de planificación.
 
 Los  institutos superiores  tecnológicos, técnicos y pedagógicos,  y  los conservatorios,  se  crearán  por  resolución  del  organismo  encargado  de  la planificación, regulación y coordinación del sistema, previo informe favorable de la institución de aseguramiento de la calidad del sistema y del organismo nacional de planificación.
@@ -4099,7 +4578,7 @@ La  creación  y  financiamiento  de  nuevas  casas  de  estudio  y  carreras un
 
 El organismo encargado de la planificación, regulación y coordinación del sistema y el organismo encargado para la acreditación y aseguramiento de la  calidad podrán suspender, de acuerdo con la ley, a las universidades, escuelas politécnicas, institutos superiores, tecnológicos y pedagógicos, y conservatorios, así como solicitar la derogatoria de aquellas que se creen por ley.
 
-##### Art. 355.
+##### Art. 355.-
 El Estado reconocerá a las universidades y escuelas politécnicas  autonomía  académica,  administrativa,  financiera  y  orgánica, acorde  con  los objetivos del régimen  de  desarrollo  y los principios establecidos en la Constitución.
 
 Se  reconoce  a  las  universidades  y  escuelas  politécnicas  el  derecho  a  la autonomía,  ejercida  y  comprendida  de  manera  solidaria  y  responsable.
@@ -4118,7 +4597,7 @@ La autonomía no exime a las instituciones del sistema de ser fiscalizadas, de  
 
 La  Función  Ejecutiva  no  podrá  privar  de  sus  rentas  o  asignaciones presupuestarias,  o  retardar  las  transferencias  a  ninguna  institución  del sistema, ni clausurarlas o reorganizarlas de forma total o parcial.
 
-##### Art. 356.
+##### Art. 356.-
 La educación superior pública será gratuita hasta el tercer nivel.
 
 El ingreso a las instituciones públicas de educación superior se regulará a través  de  un  sistema  de  nivelación  y  admisión,  definido  en  la  ley.  La gratuidad se vinculará a la responsabilidad académica de las estudiantes y los estudiantes.
@@ -4127,7 +4606,7 @@ Con  independencia  de  su  carácter  público  o  particular,  se  garantiza  
 
 El  cobro  de  aranceles  en  la  educación  superior  particular  contará  con mecanismos  tales  como  becas,  créditos,  cuotas  de  ingreso  u  otros  que permitan la integración y equidad social en sus múltiples dimensiones.
 
-##### Art.  357.
+##### Art.  357.-
 El  Estado  garantizará  el  financiamiento  de  las  instituciones públicas de educación superior. Las universidades y escuelas politécnicas públicas podrán crear fuentes complementarias de ingresos para mejorar su capacidad académica, invertir en la investigación y en el otorgamiento de  becas  y  créditos,  que  no  implicarán  costo  o  gravamen  alguno  para quienes  estudian  en  el  tercer  nivel.  La  distribución  de  estos  recursos deberá basarse fundamentalmente en la calidad y otros criterios definidos en la ley.
 
 164
@@ -4140,18 +4619,18 @@ La ley regulará los servicios de asesoría técnica, consultoría y aquellos qu
 
 #### Sección segunda Salud
 
-##### Art. 358.
+##### Art. 358.-
 El sistema nacional de salud tendrá por finalidad el desarrollo, protección y recuperación de las capacidades y potencialidades para una vida saludable e integral, tanto individual como colectiva, y reconocerá la diversidad  social  y  cultural.  El  sistema  se  guiará  por  los  principios generales del sistema nacional de inclusión y equidad social, y por los de bioética, suficiencia e interculturalidad, con enfoque de género y generacional.
 
-##### Art.  359.
+##### Art.  359.-
 El  sistema  nacional  de  salud  comprenderá  las  instituciones, programas, políticas, recursos, acciones y actores en salud; abarcará todas las dimensiones  del derecho a la salud; garantizará la  promoción, prevención, recuperación y rehabilitación en todos los niveles; y propiciará la participación ciudadana y el control social.
 
-##### Art.  360.
+##### Art.  360.-
 El  sistema  garantizará,  a  través  de  las  instituciones  que  lo conforman,  la  promoción  de  la  salud,  prevención  y  atención  integral, familiar  y  comunitaria,  con  base  en  la  atención  primaria  de  salud; articulará los diferentes niveles de atención; y promoverá la complementariedad con las medicinas ancestrales y alternativas.
 
 La red pública integral de salud será parte del sistema nacional de salud y estará conformada por el conjunto articulado de establecimientos estatales, de la seguridad social y con otros proveedores que pertenecen al Estado, con vínculos jurídicos, operativos y de complementariedad.
 
-##### Art.  361.
+##### Art.  361.-
 El  Estado  ejercerá  la  rectoría  del  sistema  a  través  de  la autoridad  sanitaria  nacional,  será  responsable  de  formular  la  política nacional de salud, y normará, regulará y controlará todas las actividades relacionadas con la salud, así como el funcionamiento de las entidades del sector.
 
 165
@@ -4160,12 +4639,12 @@ El  Estado  ejercerá  la  rectoría  del  sistema  a  través  de  la autoridad
 
 [[START OF PAGE 166]]
 
-##### Art. 362.
+##### Art. 362.-
 La atención de salud como servicio público se prestará a través de las entidades estatales, privadas, autónomas, comunitarias y aquellas que ejerzan las medicinas ancestrales alternativas y complementarias. Los servicios  de  salud  serán  seguros,  de  calidad  y  calidez,  y  garantizarán  el consentimiento informado, el acceso a la información y la confidencialidad de la información de los pacientes.
 
 Los servicios públicos estatales de salud serán universales y gratuitos en todos  los  niveles  de  atención  y  comprenderán  los  procedimientos  de diagnóstico, tratamiento, medicamentos y rehabilitación necesarios.
 
-##### Art. 363.
+##### Art. 363.-
 El Estado será responsable de:
 
 - Formular políticas públicas que garanticen la promoción, prevención, curación,  rehabilitación  y  atención  integral  en  salud  y  fomentar prácticas saludables en los ámbitos familiar, laboral y comunitario.
@@ -4190,28 +4669,28 @@ El Estado será responsable de:
 
 [[START OF PAGE 167]]
 
-##### Art. 364.
+##### Art. 364.-
 Las adicciones son un problema de salud pública. Al Estado le corresponderá desarrollar programas coordinados de información, prevención y control del consumo  de  alcohol, tabaco y sustancias estupefacientes y psicotrópicas; así como ofrecer tratamiento y rehabilitación a los consumidores ocasionales, habituales y problemáticos. En  ningún  caso  se  permitirá  su  criminalización  ni  se  vulnerarán  sus derechos constitucionales.
 
 El Estado controlará y regulará la publicidad de alcohol y tabaco.
 
-##### Art. 365.
+##### Art. 365.-
 Por ningún motivo los establecimientos públicos o privados ni los  profesionales  de  la  salud  negarán  la  atención  de  emergencia.  Dicha negativa se sancionará de acuerdo con la ley.
 
-##### Art.  366.
+##### Art.  366.-
 El  financiamiento  público  en  salud  será  oportuno,  regular  y suficiente,  y  deberá  provenir  de  fuentes  permanentes  del  Presupuesto General del Estado. Los recursos públicos serán distribuidos con base en criterios de población y en las necesidades de salud.
 
 El Estado financiará a las instituciones estatales de salud y podrá apoyar financieramente a las autónomas y privadas siempre que no tengan fines de  lucro,  que  garanticen  gratuidad  en  las  prestaciones,  cumplan  las políticas públicas y aseguren calidad, seguridad y respeto a los derechos. Estas instituciones estarán sujetas a control y regulación del Estado.
 
 #### Sección tercera Seguridad social
 
-##### Art. 367.
-EI sistema de seguridad social es público y universal, no podrá privatizarse  y  atenderá  las  necesidades  contingentes  de  la  población.  La protección  de  las  contingencias  se  hará  efectiva  a  través  del  seguro universal obligatorio y de sus regímenes especiales.
+##### Art. 367.-
+El sistema de seguridad social es público y universal, no podrá privatizarse  y  atenderá  las  necesidades  contingentes  de  la  población.  La protección  de  las  contingencias  se  hará  efectiva  a  través  del  seguro universal obligatorio y de sus regímenes especiales.
 
 El sistema se guiará por los principios del sistema nacional de inclusión y equidad social y por los de obligatoriedad, suficiencia, integración, solidaridad y subsidiaridad.
 
-##### Art.  368.
-EI  sistema  de  seguridad  social  comprenderá  las  entidades públicas, normas, políticas, recursos, servicios y prestaciones de seguridad social,  y  funcionará  con  base  en  criterios  de  sostenibilidad,  eficiencia, celeridad  y  transparencia.  El  Estado  normará,  regulará  y  controlará  las actividades relacionadas con la seguridad social.
+##### Art.  368.-
+El  sistema  de  seguridad  social  comprenderá  las  entidades públicas, normas, políticas, recursos, servicios y prestaciones de seguridad social,  y  funcionará  con  base  en  criterios  de  sostenibilidad,  eficiencia, celeridad  y  transparencia.  El  Estado  normará,  regulará  y  controlará  las actividades relacionadas con la seguridad social.
 
 167
 
@@ -4219,26 +4698,26 @@ EI  sistema  de  seguridad  social  comprenderá  las  entidades públicas, norm
 
 [[START OF PAGE 168]]
 
-##### Art.  369.
-EI  seguro  universal  obligatorio  cubrirá  las  contingencias  de enfermedad, maternidad, paternidad, riesgos de trabajo, cesantía, desempleo, vejez, invalidez, discapacidad, muerte y aquellas que defina la ley.  Las  prestaciones  de  salud  de  las  contingencias  de  enfermedad  y maternidad se brindarán a través de la red pública integral de salud.
+##### Art.  369.-
+El  seguro  universal  obligatorio  cubrirá  las  contingencias  de enfermedad, maternidad, paternidad, riesgos de trabajo, cesantía, desempleo, vejez, invalidez, discapacidad, muerte y aquellas que defina la ley.  Las  prestaciones  de  salud  de  las  contingencias  de  enfermedad  y maternidad se brindarán a través de la red pública integral de salud.
 
 El seguro universal obligatorio se extenderá a toda la población urbana y rural, con independencia de su situación laboral. Las prestaciones para las personas  que  realizan  trabajo  doméstico  no  remunerado  y  tareas  de cuidado  se  financiarán  con  aportes  y  contribuciones  del  Estado.  La  ley definirá el mecanismo correspondiente.
 
 La creación de nuevas prestaciones estará debidamente financiada.
 
-##### Art. 370.
+##### Art. 370.-
 El Instituto Ecuatoriano de Seguridad Social, entidad autónoma regulada por la ley, será responsable de la prestación de las contingencias del seguro universal obligatorio a sus afiliados.
 
 La policía nacional y las fuerzas armadas podrán contar con un régimen especial  de  seguridad  social,  de  acuerdo  con  la  ley;  sus  entidades  de seguridad social formarán parte de la red pública integral de salud y del sistema de seguridad social.
 
-##### Art.  371.
+##### Art.  371.-
 Las  prestaciones  de  la  seguridad  social  se  financiarán  con  el aporte  de  las  personas  aseguradas  en  relación  de  dependencia  y  de  sus empleadoras o empleadores; con los aportes de las personas independientes aseguradas; con los aportes voluntarios de las ecuatorianas y ecuatorianos domiciliados en el exterior; y con los aportes y contribuciones del Estado.
 
 Los  recursos  del  Estado  destinados  para  el  seguro  universal  obligatorio constarán  cada  año  en  el  Presupuesto  General  del  Estado  y  serán transferidos de forma oportuna.
 
 Las  prestaciones  en  dinero  del  seguro  social  no  serán  susceptibles  de cesión, embargo o retención, salvo los casos de alimentos debidos por ley o de obligaciones contraídas a favor de la institución aseguradora, y estarán exentas del pago de impuestos.
 
-##### Art.  372.
+##### Art.  372.-
 Los  fondos  y  reservas  del  seguro  universal  obligatorio  serán propios  y  distintos  de  los  del  fisco,  y  servirán  para  cumplir  de  forma adecuada los fines de su creación y sus funciones. Ninguna institución del Estado podrá intervenir o disponer de sus fondos y reservas, ni menoscabar su patrimonio.
 
 168
@@ -4249,17 +4728,17 @@ Los  fondos  y  reservas  del  seguro  universal  obligatorio  serán propios  y
 
 Los fondos provisionales públicos y sus inversiones se canalizarán a través de  una  institución  financiera  de  propiedad  del  Instituto  Ecuatoriano  de Seguridad  Social;  su  gestión  se  sujetará  a  los  principios  de  seguridad, solvencia, eficiencia, rentabilidad y al control del órgano competente.
 
-##### Art.  373.
+##### Art.  373.-
 El  seguro  social  campesino,  que  forma  parte  del  Instituto Ecuatoriano  de  Seguridad  Social,  será  un  régimen  especial  del  seguro universal  obligatorio  para  proteger  a  la  población  rural  y  a  las  personas dedicadas a la pesca artesanal; se financiará con el aporte solidario de las personas  aseguradas  y  empleadoras  del  sistema  nacional  de  seguridad social,  con  la  aportación  diferenciada  de  las  jefas  o  jefes  de  las  familias protegidas y con las asignaciones fiscales que garanticen su fortalecimiento y  desarrollo.  El  seguro  ofrecerá  prestaciones  de  salud  y  protección  contra las contingencias de invalidez, discapacidad, vejez y muerte.
 
 Los seguros públicos y privados, sin excepción, contribuirán al financiamiento del seguro social campesino a través del Instituto Ecuatoriano de Seguridad Social.
 
-##### Art.  374.
+##### Art.  374.-
 El Estado  estimulará  la  afiliación  voluntaria  al  Instituto Ecuatoriano  de  Seguridad  Social a las ecuatorianas y ecuatorianos domiciliados en el exterior, y asegurará la prestación de contingencias. El financiamiento de estas prestaciones contará con el aporte de las personas afiliadas voluntarias domiciliadas en el exterior.
 
 #### Sección cuarta Hábitat y vivienda
 
-##### Art.  375.
+##### Art.  375.-
 El  Estado,  en  todos  sus  niveles  de  gobierno,  garantizará  el derecho al hábitat y a la vivienda digna, para lo cual:
 
 - Generará  la  información  necesaria  para  el  diseño  de  estrategias  y programas  que  comprendan  las  relaciones  entre  vivienda,  servicios, espacio  y  transporte  públicos,  equipamiento  y  gestión  del  suelo urbano.
@@ -4286,12 +4765,12 @@ El  Estado,  en  todos  sus  niveles  de  gobierno,  garantizará  el derecho al
 
 El  Estado  ejercerá  la  rectoría  para  la  planificación,  regulación,  control, financiamiento y elaboración de políticas de hábitat y vivienda.
 
-##### Art.  376.
+##### Art.  376.-
 Para  hacer  efectivo  el  derecho  a  la  vivienda,  al  hábitat  y  a  la conservación del ambiente, las municipalidades podrán expropiar, reservar y  controlar  áreas  para  el  desarrollo  futuro,  de  acuerdo  con  la  ley.  Se prohíbe la obtención de beneficios a partir de prácticas especulativas sobre el uso del suelo, en particular por el cambio de uso, de rústico a urbano o de público a privado.
 
 #### Sección quinta Cultura
 
-##### Art. 377.
+##### Art. 377.-
 El sistema nacional de cultura tiene como finalidad fortalecer la identidad  nacional;  proteger  y  promover  la  diversidad  de  las  expresiones culturales; incentivar la libre creación artística y la producción, difusión, distribución y disfrute de bienes y servicios culturales; y salvaguardar la memoria social y el patrimonio cultural. Se garantiza el ejercicio pleno de los derechos culturales.
 
 170
@@ -4300,14 +4779,14 @@ El sistema nacional de cultura tiene como finalidad fortalecer la identidad  nac
 
 [[START OF PAGE 171]]
 
-##### Art.  378.
+##### Art.  378.-
 El  sistema  nacional  de  cultura  estará  integrado  por  todas  las instituciones  del  ámbito  cultural  que  reciban  fondos  públicos  y  por  los colectivos y personas que voluntariamente se vinculen al sistema.
 
 Las  entidades  culturales  que  reciban  fondos  públicos  estarán  sujetas  a control y rendición de cuentas.
 
 El Estado ejercerá la rectoría del sistema a través del órgano competente, con respeto a la libertad de creación y expresión, a la interculturalidad y a la diversidad; será responsable de la gestión y promoción de la cultura, así como de la formulación e implementación de la política nacional en este campo.
 
-##### Art. 379.
+##### Art. 379.-
 Son parte del patrimonio cultural tangible e intangible relevante para  la  memoria  e  identidad  de  las  personas  y  colectivos,  y  objeto  de salvaguarda del Estado, entre otros:
 
 - Las lenguas, formas de expresión, tradición oral y diversas manifestaciones  y  creaciones  culturales,  incluyendo  las  de  carácter ritual, festivo y productivo.
@@ -4350,7 +4829,7 @@ Serán responsabilidades del Estado:
 
 #### Sección sexta Cultura física y tiempo libre
 
-##### Art.  381.
+##### Art.  381.-
 El  Estado  protegerá,  promoverá  y  coordinará  la  cultura  física que  comprende  el  deporte,  la  educación  física  y  la  recreación,  como actividades que contribuyen a la salud, formación y desarrollo integral de las  personas;  impulsará  el  acceso  masivo  al  deporte  y  a  las  actividades deportivas a nivel formativo, barrial y parroquial; auspiciará la preparación y participación de los deportistas en competencias nacionales e internacionales,  que  incluyen  los  Juegos  Olímpicos  y  Paraolímpicos;  y fomentará la participación de las personas con discapacidad.
 
 172
@@ -4361,22 +4840,22 @@ El  Estado  protegerá,  promoverá  y  coordinará  la  cultura  física que  c
 
 El  Estado  garantizará  los  recursos  y  la  infraestructura  necesaria  para estas actividades. Los recursos se sujetarán al control estatal, rendición de cuentas y deberán distribuirse de forma equitativa.
 
-##### Art. 382.
+##### Art. 382.-
 Se reconoce la autonomía de las organizaciones deportivas y de la  administración  de  los  escenarios  deportivos  y  demás  instalaciones destinadas a la práctica del deporte, de acuerdo con la ley.
 
-##### Art. 383.
+##### Art. 383.-
 Se garantiza el derecho de las personas y las colectividades al tiempo libre, la ampliación de las condiciones físicas, sociales y ambientales  para  su  disfrute,  y  la  promoción  de  actividades  para  el esparcimiento, descanso y desarrollo de la personalidad.
 
 #### Sección séptima Comunicación social
 
-##### Art. 384.
+##### Art. 384.-
 El sistema de comunicación social asegurará el ejercicio de los derechos de la comunicación, la información y la libertad de expresión, y fortalecerá la participación ciudadana.
 
-El sistema se conformará por las instituciones y actores de carácter público, las políticas y la normativa; y los actores privados, ciudadanos y comunitarios que se integren voluntariamente a el. El Estado formulará la política pública de comunicación, con respeto irrestricto de la libertad de expresión y de los derechos de la comunicación consagrados en la Constitución y los instrumentos  internacionales  de  derechos  humanos.  La  ley  definirá  su organización, funcionamiento y las formas de participación ciudadana.
+El sistema se conformará por las instituciones y actores de carácter público, las políticas y la normativa; y los actores privados, ciudadanos y comunitarios que se integren voluntariamente a él. El Estado formulará la política pública de comunicación, con respeto irrestricto de la libertad de expresión y de los derechos de la comunicación consagrados en la Constitución y los instrumentos  internacionales  de  derechos  humanos.  La  ley  definirá  su organización, funcionamiento y las formas de participación ciudadana.
 
 #### Sección octava Ciencia, tecnología, innovación y saberes ancestrales
 
-##### Art. 385.
+##### Art. 385.-
 El sistema nacional de ciencia, tecnología, innovación y saberes ancestrales, en el marco del respeto al ambiente, la naturaleza, la vida, las culturas y la soberanía, tendrá como finalidad:
 
 - Generar, adaptar y difundir conocimientos científicos y tecnológicos.
@@ -4391,12 +4870,12 @@ El sistema nacional de ciencia, tecnología, innovación y saberes ancestrales, 
 
 [[START OF PAGE 174]]
 
-##### Art. 386.
+##### Art. 386.-
 El sistema comprenderá programas, políticas, recursos, acciones, e incorporará a instituciones del Estado, universidades y escuelas  politécnicas,  institutos  de  investigación  públicos  y  particulares, empresas públicas y privadas, organismos no gubernamentales y personas naturales  o  jurídicas,  en  tanto  realizan  actividades  de  investigación, desarrollo tecnológico, innovación y aquellas ligadas a los saberes ancestrales.
 
 El  Estado,  a  través  del  organismo  competente,  coordinará  el  sistema, establecerá los objetivos y políticas, de conformidad con el Plan Nacional de Desarrollo, con la participación de los actores que lo conforman.
 
-##### Art. 387.
+##### Art. 387.-
 Será responsabilidad del Estado:
 
 - Facilitar  e  impulsar  la  incorporación  a  la  sociedad  del  conocimiento para alcanzar los objetivos del régimen de desarrollo.
@@ -4409,7 +4888,7 @@ Será responsabilidad del Estado:
 
 - Reconocer la condición de investigador de acuerdo con la Ley.
 
-##### Art. 388.
+##### Art. 388.-
 El Estado destinará los recursos necesarios para la investigación científica, el desarrollo tecnológico, la innovación, la formación científica, la recuperación y desarrollo de saberes ancestrales y la difusión del conocimiento. Un porcentaje de estos recursos se destinará a  financiar  proyectos  mediante  fondos  concursables.  Las  organizaciones que reciban fondos públicos estarán sujetas a la rendición de cuentas y al control estatal respectivo.
 
 174
@@ -4420,7 +4899,7 @@ El Estado destinará los recursos necesarios para la investigación científica,
 
 #### Sección novena Gestión del riesgo
 
-##### Art.  389.
+##### Art.  389.-
 El  Estado  protegerá  a  las  personas,  las  colectividades  y  la naturaleza frente a los efectos negativos de los desastres de origen natural o  antrópico  mediante  la  prevención  ante  el  riesgo,  la  mitigación  de desastres,  la  recuperación  y  mejoramiento  de  las  condiciones  sociales, económicas  y  ambientales,  con  el  objetivo  de  minimizar  la  condición  de vulnerabilidad.
 
 El  sistema  nacional  descentralizado  de  gestión  de  riesgo  está  compuesto por las unidades de gestión de riesgo de todas las instituciones públicas y privadas  en  los  ámbitos  local,  regional  y  nacional.  El  Estado  ejercerá  la rectoría a través del organismo técnico establecido en la ley. Tendrá como funciones principales, entre otras:
@@ -4445,25 +4924,25 @@ El  sistema  nacional  descentralizado  de  gestión  de  riesgo  está  compues
 
 [[START OF PAGE 176]]
 
-##### Art.  390.
+##### Art.  390.-
 Los  riesgos  se  gestionarán bajo el principio de descentralización subsidiaria,  que  implicará  la  responsabilidad  directa  de  las  instituciones dentro de su ámbito geográfico. Cuando sus capacidades para la gestión del riesgo sean insuficientes, las instancias de mayor ámbito territorial y mayor capacidad técnica y financiera brindarán el apoyo necesario con respeto a su autoridad en el territorio y sin relevarlos de su responsabilidad.
 
 #### Sección décima Población y movilidad humana
 
-##### Art.  391.
+##### Art.  391.-
 El  Estado  generará  y  aplicará  políticas  demográficas  que contribuyan  a  un  desarrollo  territorial  e  intergeneracional  equilibrado  y garanticen la protección del ambiente y la seguridad de la población, en el marco del respeto a la autodeterminación de las personas y a la diversidad.
 
-##### Art. 392.
+##### Art. 392.-
 El Estado velará por los derechos de las personas en movilidad humana y ejercerá la rectoría de la política migratoria a través del órgano competente  en  coordinación  con  los  distintos  niveles  de  gobierno.  El Estado diseñará, adoptará, ejecutará y evaluará políticas, planes, programas y proyectos, y coordinará la acción de sus organismos con la de otros  Estados  y  organizaciones  de  la  sociedad  civil  que  trabajen  en movilidad humana a nivel nacional e internacional.
 
 #### Sección undécima Seguridad humana
 
-##### Art.  393.
+##### Art.  393.-
 El  Estado  garantizará  la  seguridad  humana  a  través  de  políticas  y acciones  integradas,  para  asegurar  la  convivencia  pacífica  de  las  personas, promover una cultura de paz y prevenir las formas de violencia y discriminación y la comisión de infracciones y delitos. La planificación y aplicación de estas políticas se encargará a órganos especializados en los diferentes niveles de gobierno.
 
 #### Sección duodécima Transporte
 
-##### Art. 394.
+##### Art. 394.-
 El Estado garantizará la libertad de transporte terrestre, aéreo, marítimo y  fluvial  dentro  del  territorio  nacional,  sin  privilegios  de  ninguna  naturaleza.  La promoción del transporte público masivo y la adopción de una política de tarifas diferenciadas  de  transporte  serán  prioritarias.  El  Estado  regulará  el  transporte terrestre, aéreo y acuático y las actividades aeroportuarias y portuarias.
 
 176
@@ -4476,7 +4955,7 @@ El Estado garantizará la libertad de transporte terrestre, aéreo, marítimo y 
 
 #### Sección primera Naturaleza y ambiente
 
-##### Art. 395.
+##### Art. 395.-
 La Constitución reconoce los siguientes principios ambientales:
 
 - El Estado garantizará un modelo sustentable de desarrollo, ambientalmente  equilibrado  y  respetuoso  de  la  diversidad  cultural, que conserve la biodiversidad y la capacidad de regeneración natural de los ecosistemas, y asegure la satisfacción de las necesidades de las generaciones presentes y futuras.
@@ -4487,7 +4966,7 @@ La Constitución reconoce los siguientes principios ambientales:
 
 - En  caso  de  duda  sobre  el  alcance  de  las  disposiciones  legales  en materia ambiental, éstas se aplicarán en el sentido más favorable a la protección de la naturaleza.
 
-##### Art. 396.
+##### Art. 396.-
 El Estado adoptará las políticas y medidas oportunas que eviten los  impactos  ambientales  negativos,  cuando  exista  certidumbre  de  daño. En caso de duda sobre el impacto ambiental de alguna acción u omisión, aunque no exista evidencia científica del daño, el Estado adoptará medidas protectoras eficaces y oportunas.
 
 La  responsabilidad  por  daños  ambientales  es  objetiva.  Todo  daño  al ambiente, además de las sanciones correspondientes, implicará también la obligación de restaurar integralmente los ecosistemas e indemnizar a las personas y comunidades afectadas.
@@ -4502,7 +4981,7 @@ Cada  uno  de  los  actores  de  los  procesos  de  producción,  distribución,
 
 Las  acciones  legales  para  perseguir  y  sancionar  por  daños  ambientales serán imprescriptibles.
 
-##### Art.  397.
+##### Art.  397.-
 En  caso  de  daños  ambientales  el  Estado  actuará  de  manera inmediata y subsidiaria para garantizar la salud y la restauración de los ecosistemas.  Además  de  la  sanción  correspondiente,  el  Estado  repetirá contra el operador de la actividad que produjera el daño las obligaciones que conlleve la reparación integral, en las condiciones y con los procedimientos que la ley establezca. La responsabilidad también recaerá sobre  las  servidoras  o  servidores  responsables  de  realizar  el  control ambiental. Para garantizar el derecho individual y colectivo a vivir en un ambiente sano y ecológicamente equilibrado, el Estado se compromete a:
 
 - Permitir a cualquier persona natural o jurídica, colectividad o grupo humano, ejercer las acciones legales y acudir a los órganos judiciales y administrativos, sin perjuicio de su interés directo, para obtener de ellos la tutela efectiva en materia ambiental, incluyendo la posibilidad de  solicitar  medidas  cautelares  que  permitan  cesar  la  amenaza  o  el daño  ambiental  materia  de  litigio.  La  carga  de  la  prueba  sobre  la inexistencia  de  daño  potencial  o  real  recaerá  sobre  el  gestor  de  la actividad o el demandado.
@@ -4521,27 +5000,27 @@ En  caso  de  daños  ambientales  el  Estado  actuará  de  manera inmediata y 
 
 [[START OF PAGE 179]]
 
-##### Art.  398.
+##### Art.  398.-
 Toda  decisión  o  autorización  estatal  que  pueda  afectar  al ambiente deberá ser  consultada  a  la  comunidad,  a  la  cual  se  informará amplia  y    oportunamente.  El  sujeto  consultante  será  el  Estado.  La  ley regulará  la  consulta  previa,  la  participación  ciudadana,  los  plazos,  el sujeto  consultado  y  los  criterios  de  valoración  y  de  objeción  sobre  la actividad sometida a consulta.
 
 El Estado valorará la opinión de la comunidad según los criterios establecidos en la ley y los instrumentos internacionales de derechos humanos.
 
 Si del referido proceso de consulta resulta una oposición mayoritaria de la comunidad  respectiva,  la  decisión  de  ejecutar  o  no  el  proyecto  será adoptada por resolución debidamente motivada de la instancia administrativa superior correspondiente de acuerdo con la ley.
 
-##### Art. 399.
+##### Art. 399.-
 El  ejercicio  integral de la tutela estatal sobre el ambiente y la corresponsabilidad  de  la  ciudadanía  en  su  preservación,  se  articulará  a través  de  un  sistema  nacional  descentralizado  de  gestión  ambiental,  que tendrá a su cargo la defensoría del ambiente y la naturaleza.
 
 #### Sección segunda Biodiversidad
 
-##### Art.  400.
+##### Art.  400.-
 El  Estado  ejercerá  la  soberanía  sobre  la  biodiversidad,  cuya administración y gestión se realizará con responsabilidad intergeneracional.
 
 Se declara de interés público la conservación de la biodiversidad y todos sus  componentes,  en  particular  la  biodiversidad  agrícola  y  silvestre  y  el patrimonio genético del país.
 
-##### Art. 401.
+##### Art. 401.-
 Se declara al Ecuador libre de cultivos y semillas transgénicas. Excepcionalmente, y sólo en caso de interés nacional  debidamente fundamentado  por  la  Presidencia  de  la  República  y  aprobado  por  la Asamblea Nacional, se podrán introducir semillas y cultivos genéticamente modificados. El Estado regulará bajo estrictas normas de bioseguridad, el uso y el desarrollo de la biotecnología moderna y sus productos, así como su  experimentación,  uso  y  comercialización.  Se  prohíbe  la  aplicación  de biotecnologías riesgosas o experimentales.
 
-##### Art.  402.
+##### Art.  402.-
 Se  prohíbe  el  otorgamiento  de  derechos,  incluidos  los  de propiedad intelectual, sobre productos derivados o sintetizados, obtenidos a partir del conocimiento colectivo asociado a la biodiversidad nacional.
 
 179
@@ -4550,23 +5029,23 @@ Se  prohíbe  el  otorgamiento  de  derechos,  incluidos  los  de propiedad inte
 
 [[START OF PAGE 180]]
 
-##### Art.  403.
+##### Art.  403.-
 El  Estado  no  se  comprometerá  en  convenios  o  acuerdos  de cooperación que incluyan cláusulas que menoscaben la conservación y el manejo sustentable de la biodiversidad, la salud humana y los derechos colectivos y de la naturaleza.
 
 #### Sección tercera Patrimonio natural y ecosistemas
 
-##### Art. 404.
+##### Art. 404.-
 El patrimonio natural del Ecuador único e invaluable comprende,  entre  otras,  las  formaciones  físicas,  biológicas  y  geológicas cuyo  valor  desde  el  punto  de  vista  ambiental,  científico,  cultural  o paisajístico exige su protección, conservación, recuperación y promoción. Su  gestión  se  sujetará  a  los  principios  y  garantías  consagrados  en  la Constitución y se llevará a cabo de acuerdo al ordenamiento territorial y una zonificación ecológica, de acuerdo con la ley.
 
-##### Art. 405.
-EI sistema nacional de áreas protegidas garantizará la conservación  de  la  biodiversidad  y  el  mantenimiento  de  las  funciones ecológicas.  El  sistema  se  integrará  por  los  subsistemas  estatal,  autónomo descentralizado,  comunitario  y  privado,  y  su  rectoría  y  regulación  será ejercida por el Estado. El Estado asignará los recursos económicos necesarios  para  la  sostenibilidad  financiera  del  sistema,  y  fomentará  la participación de las comunidades,  pueblos  y  nacionalidades  que  han habitado ancestralmente las áreas protegidas en su administración y gestión.
+##### Art. 405.-
+El sistema nacional de áreas protegidas garantizará la conservación  de  la  biodiversidad  y  el  mantenimiento  de  las  funciones ecológicas.  El  sistema  se  integrará  por  los  subsistemas  estatal,  autónomo descentralizado,  comunitario  y  privado,  y  su  rectoría  y  regulación  será ejercida por el Estado. El Estado asignará los recursos económicos necesarios  para  la  sostenibilidad  financiera  del  sistema,  y  fomentará  la participación de las comunidades,  pueblos  y  nacionalidades  que  han habitado ancestralmente las áreas protegidas en su administración y gestión.
 
 Las  personas  naturales  o  jurídicas  extranjeras  no  podrán  adquirir  a ningún título tierras o concesiones en las áreas de seguridad nacional ni en áreas protegidas, de acuerdo con la ley.
 
-##### Art. 406.
+##### Art. 406.-
 El Estado regulará la conservación, manejo y uso sustentable, recuperación,  y  limitaciones  de  dominio  de  los  ecosistemas  frágiles  y amenazados;  entre  otros,  los  páramos,  humedales,  bosques  nublados, bosques tropicales secos y húmedos y manglares, ecosistemas marinos y marinos-costeros.
 
-##### Art. 407.
+##### Art. 407.-
 Se prohíbe la actividad extractiva de recursos no renovables en las  áreas  protegidas  y  en  zonas  declaradas  como  intangibles,  incluida  la explotación forestal. Excepcionalmente dichos recursos se podrán explotar a  petición  fundamentada  de  la  Presidencia  de  la  República  y  previa declaratoria de interés nacional por parte de la Asamblea Nacional, que, de estimarlo conveniente, podrá convocar a consulta popular.
 
 180
@@ -4577,7 +5056,7 @@ Se prohíbe la actividad extractiva de recursos no renovables en las  áreas  pr
 
 #### Sección cuarta Recursos naturales
 
-##### Art. 408.
+##### Art. 408.-
 Son de propiedad inalienable, imprescriptible e inembargable del Estado los recursos naturales no renovables y, en general, los productos del subsuelo,  yacimientos  minerales  y  de  hidrocarburos,  substancias  cuya naturaleza sea distinta de la del suelo, incluso los que se encuentren en las áreas cubiertas por las aguas del mar territorial y las zonas marítimas; así como la biodiversidad y su patrimonio genético y el espectro radioeléctrico. Estos  bienes  sólo  podrán  ser  explotados  en  estricto  cumplimiento  de  los principios ambientales establecidos en la Constitución.
 
 El Estado participará en los beneficios del aprovechamiento de estos recursos, en un monto que no será inferior a los de la empresa que los explota.
@@ -4586,12 +5065,12 @@ El Estado garantizará que los mecanismos de producción, consumo y uso de  los 
 
 #### Sección quinta Suelo
 
-##### Art.  409.
+##### Art.  409.-
 Es  de  interés  público  y  prioridad  nacional  la  conservación  del suelo, en especial su capa fértil. Se establecerá un marco normativo para su protección y uso sustentable que prevenga su degradación, en particular la provocada por la contaminación, la desertificación y la erosión.
 
 En  áreas  afectadas  por  procesos  de  degradación  y  desertificación,  el Estado desarrollará y estimulará proyectos de forestación, reforestación y revegetación  que  eviten  el  monocultivo  y  utilicen,  de  manera  preferente, especies nativas y adaptadas a la zona.
 
-##### Art.  410.
+##### Art.  410.-
 El  Estado  brindará  a  los  agricultores  y  a  las  comunidades rurales apoyo para la conservación y restauración de los suelos, así como para el desarrollo de prácticas agrícolas que los protejan y promuevan la soberanía alimentaria.
 
 181
@@ -4602,23 +5081,23 @@ El  Estado  brindará  a  los  agricultores  y  a  las  comunidades rurales apoy
 
 #### Sección sexta Agua
 
-##### Art.  411.
+##### Art.  411.-
 El  Estado garantizará la conservación, recuperación y manejo integral de los recursos hídricos, cuencas hidrográficas y caudales ecológicos  asociados  al  ciclo  hidrológico.  Se  regulará  toda  actividad  que pueda  afectar  la  calidad  y  cantidad  de  agua,  y  el  equilibrio  de  los ecosistemas, en especial en las fuentes y zonas de recarga de agua.
 
 La  sustentabilidad  de  los  ecosistemas  y  el  consumo  humano  serán prioritarios en el uso y aprovechamiento del agua.
 
-##### Art. 412.
+##### Art. 412.-
 La autoridad a cargo de la gestión del agua será responsable de su  planificación,  regulación  y  control.  Esta  autoridad  cooperará  y  se coordinará  con  la  que  tenga  a  su  cargo  la  gestión  ambiental  para garantizar el manejo del agua con un enfoque ecosistémico.
 
 #### Sección séptima Biosfera, ecología urbana y energías alternativas
 
-##### Art. 413.
+##### Art. 413.-
 El Estado promoverá la eficiencia energética, el desarrollo y uso de  prácticas  y  tecnologías  ambientalmente  limpias  y  sanas,  así  como  de energías renovables, diversificadas, de bajo impacto y que no pongan en riesgo la soberanía alimentaria, el equilibrio ecológico de los ecosistemas ni el derecho al agua.
 
-##### Art. 414.
+##### Art. 414.-
 El Estado adoptará medidas adecuadas y transversales para la mitigación del cambio climático, mediante la limitación de las emisiones de gases  de  efecto  invernadero,  de  la  deforestación  y  de  la  contaminación atmosférica;  tomará  medidas  para  la  conservación  de  los  bosques  y  la vegetación, y protegerá a la población en riesgo.
 
-##### Art.  415.
+##### Art.  415.-
 El  Estado  central  y  los  gobiernos  autónomos  descentralizados adoptarán  políticas  integrales  y  participativas  de  ordenamiento  territorial urbano y de uso del suelo, que permitan regular el crecimiento urbano, el manejo de la fauna urbana e incentiven el establecimiento de zonas verdes. Los gobiernos autónomos descentralizados desarrollarán programas de uso racional  del  agua,  y  de  reducción  reciclaje  y  tratamiento  adecuado  de desechos sólidos y líquidos. Se incentivará y facilitará el transporte terrestre no motorizado, en especial mediante el establecimiento de ciclo vías.
 
 182
@@ -4631,7 +5110,7 @@ El  Estado  central  y  los  gobiernos  autónomos  descentralizados adoptarán 
 
 ### Capítulo primero Principios de las relaciones internacionales
 
-##### Art.  416.
+##### Art.  416.-
 Las  relaciones  del  Ecuador  con  la  comunidad  internacional responderán  a  los  intereses  del  pueblo  ecuatoriano,  al  que  le  rendirán cuenta sus responsables y ejecutores, y en consecuencia:
 
 - Proclama  la  independencia  e  igualdad  jurídica  de  los  Estados,  la convivencia pacífica y la autodeterminación de los pueblos, así como la cooperación, la integración y la solidaridad.
@@ -4674,15 +5153,15 @@ Las  relaciones  del  Ecuador  con  la  comunidad  internacional responderán  a
 
 ### Capítulo segundo Tratados e instrumentos internacionales
 
-##### Art.  417.
+##### Art.  417.-
 Los  tratados  internacionales  ratificados  por  el  Ecuador  se sujetarán a lo establecido en la Constitución.  En el caso de los tratados y otros instrumentos internacionales de derechos humanos se aplicarán los principios pro ser humano, de no restricción de derechos, de aplicabilidad directa y de cláusula abierta establecidos en la Constitución.
 
-##### Art.  418.
+##### Art.  418.-
 A  la  Presidenta  o  Presidente  de  la  República  le  corresponde suscribir o ratificar los tratados y otros instrumentos internacionales.
 
 La Presidenta o Presidente de la República informará de manera inmediata a la Asamblea Nacional de todos los tratados que suscriba, con indicación precisa de su carácter y contenido.  Un tratado sólo podrá ser ratificado, para su posterior canje o depósito, diez días después de que la Asamblea haya sido notificada sobre el mismo.
 
-##### Art.  419.
+##### Art.  419.-
 La  ratificación  o  denuncia  de  los  tratados  internacionales requerirá la aprobación previa de la Asamblea Nacional en los casos que:
 
 - Se refieran a materia territorial o de límites.
@@ -4701,7 +5180,7 @@ La  ratificación  o  denuncia  de  los  tratados  internacionales requerirá la
 
 - Comprometan  el  patrimonio  natural y en especial el agua, la biodiversidad y su patrimonio genético.
 
-##### Art.  420.
+##### Art.  420.-
 La  ratificación  de  tratados  se  podrá  solicitar  por  referéndum, por iniciativa ciudadana o por la Presidenta o Presidente de la República.
 
 185
@@ -4710,12 +5189,12 @@ La  ratificación  de  tratados  se  podrá  solicitar  por  referéndum, por in
 
 [[START OF PAGE 186]]
 
-La denuncia  un  tratado  aprobado  corresponderá  a  la  Presidenta  o Presidente de la República. En caso de denuncia de un tratado aprobado por la ciudadanía en referéndum se requerirá el mismo procedimiento que lo aprobó.
+La denuncia de un tratado aprobado corresponderá a la Presidenta o Presidente de la República. En caso de denuncia de un tratado aprobado por la ciudadanía en referéndum se requerirá el mismo procedimiento que lo aprobó.
 
-##### Art.  421.
+##### Art.  421.-
 La  aplicación  de  los  instrumentos comerciales internacionales no menoscabará, directa o indirectamente, el derecho a la salud, el acceso a medicamentos, insumos, servicios, ni los avances científicos y tecnológicos.
 
-##### Art.  422.
+##### Art.  422.-
 No  se  podrá  celebrar  tratados  o  instrumentos  internacionales en los que el Estado ecuatoriano ceda jurisdicción soberana a instancias de  arbitraje  internacional,  en  controversias  contractuales  o  de  índole comercial, entre el Estado y personas naturales o jurídicas privadas.
 
 Se exceptúan los tratados e instrumentos internacionales que establezcan la solución de controversias entre Estados y ciudadanos en Latinoamérica por  instancias  arbitrales  regionales  o  por  órganos  jurisdiccionales  de designación de los países signatarios. No podrán intervenir jueces de los Estados que como tales o sus nacionales sean parte de la controversia.
@@ -4730,7 +5209,7 @@ En el caso de controversias relacionadas con la deuda externa, el Estado ecuator
 
 ### Capítulo tercero Integración latinoamericana
 
-##### Art. 423.
+##### Art. 423.-
 La integración, en especial con los países de Latinoamérica y el Caribe será un objetivo estratégico del Estado. En todas las instancias y procesos de integración, el Estado ecuatoriano se comprometerá a:
 
 - Impulsar la integración económica, equitativa, solidaria y complementaria;  la  unidad  productiva,  financiera  y  monetaria;  la adopción de una política económica internacional común; el fomento de políticas de compensación para superar las asimetrías regionales; y el comercio regional, con énfasis en bienes de alto valor agregado.
@@ -4763,19 +5242,19 @@ La integración, en especial con los países de Latinoamérica y el Caribe será
 
 ### Capítulo primero Principios
 
-##### Art.  424.
+##### Art.  424.-
 La  Constitución  es  la  norma  suprema  y  prevalece  sobre cualquier otra del ordenamiento jurídico. Las normas y los actos del poder público deberán mantener conformidad con las disposiciones constitucionales; en caso contrario carecerán de eficacia jurídica.
 
 La  Constitución  y  los  tratados  internacionales  de  derechos  humanos ratificados  por  el  Estado  que  reconozcan  derechos  más  favorables  a  los contenidos  en  la  Constitución,  prevalecerán  sobre  cualquier  otra  norma jurídica o acto del poder público.
 
-##### Art.  425.
+##### Art.  425.-
 El  orden  jerárquico  de  aplicación  de  las  normas  será  el siguiente:  La  Constitución;  los  tratados  y  convenios  internacionales;  las leyes orgánicas; las leyes ordinarias; las normas regionales y las ordenanzas  distritales;  los  decretos  y  reglamentos;  las  ordenanzas;  los acuerdos y las resoluciones; y los demás actos y decisiones de los poderes públicos.
 
 En  caso de conflicto entre normas  de  distinta jerarquía, la Corte Constitucional, las juezas y jueces, autoridades administrativas y servidoras y servidores públicos, lo resolverán mediante la aplicación de la norma jerárquica superior.
 
 La jerarquía normativa considerará, en lo que corresponda, el principio de competencia, en especial la titularidad de las competencias exclusivas de los gobiernos autónomos descentralizados.
 
-##### Alt. 426.
+##### Alt. 426.-
 Todas las personas, autoridades e instituciones están sujetas a la Constitución.
 
 Las juezas y jueces, autoridades administrativas y servidoras y servidores públicos, aplicarán directamente las normas constitucionales y las previstas  en  los  instrumentos  internacionales  de  derechos  humanos siempre  que  sean  más  favorables  a  las  establecidas  en  la  Constitución, aunque las partes no las invoquen expresamente.
@@ -4788,10 +5267,10 @@ Las juezas y jueces, autoridades administrativas y servidoras y servidores públ
 
 Los derechos consagrados en la Constitución y los instrumentos internacionales de derechos humanos serán de inmediato cumplimiento y aplicación.  No podrá alegarse falta de ley o desconocimiento de las normas para justificar la vulneración de los derechos y garantías establecidos en la Constitución, para desechar la acción interpuesta en su defensa, ni para negar el reconocimiento de tales derechos.
 
-##### Art. 427.
+##### Art. 427.-
 Las normas constitucionales se interpretarán por el tenor literal que más se ajuste a la Constitución en su integralidad. En caso de duda, se interpretarán en el sentido que más favorezca a la plena vigencia de los derechos y que mejor respete la voluntad del constituyente, y de acuerdo con los principios generales de la interpretación constitucional.
 
-##### Art.  428.
+##### Art.  428.-
 Cuando  una  jueza  o  juez,  de  oficio  o  a  petición  de  parte, considere  que  una  norma  jurídica  es  contraria  a  la  Constitución  o  a  los instrumentos internacionales de derechos humanos  que  establezcan derechos más favorables que los reconocidos en la Constitución, suspenderá la tramitación de la causa y remitirá en consulta el expediente a  la  Corte  Constitucional,  que  en  un  plazo  no  mayor  a  cuarenta  y  cinco días, resolverá sobre la constitucionalidad de la norma.
 
 Si transcurrido el plazo previsto la Corte no se pronuncia, el perjudicado podrá interponer la acción correspondiente.
@@ -4804,27 +5283,27 @@ Si transcurrido el plazo previsto la Corte no se pronuncia, el perjudicado podr�
 
 ### Capítulo segundo Corte Constitucional
 
-##### Art.  429.
+##### Art.  429.-
 La  Corte  Constitucional  es  el  máximo  órgano  de  control, interpretación  constitucional  y  de  administración  de  justicia  en  esta materia. Ejerce jurisdicción nacional y su sede es la ciudad de Quito.
 
 Las decisiones relacionadas con las atribuciones previstas en la Constitución serán adoptadas por el pleno de la Corte.
 
-##### Art. 430.
+##### Art. 430.-
 La Corte Constitucional gozará de autonomía administrativa y financiera.  La  ley  determinará  su  organización,  funcionamiento  y  los procedimientos para el cumplimiento de sus atribuciones.
 
-##### Art. 431.
+##### Art. 431.-
 Los miembros de la Corte Constitucional no estarán sujetos a juicio  político  ni  podrán  ser  removidos  por  quienes  los  designen.  No obstante,  estarán  sometidos  a  los  mismos  controles  que  el  resto  de autoridades públicas y responderán por los demás actos u omisiones que cometan en el ejercicio de sus funciones.
 
 Sin perjuicio de la responsabilidad civil, en caso de responsabilidad penal únicamente serán acusados por la Fiscal o el Fiscal General de la Nación y juzgados por el pleno de la Corte Nacional de Justicia, para cuyo efecto se requerirá el voto conforme de las dos terceras partes de sus integrantes.
 
 Su destitución será decidida por las dos terceras partes de los integrantes de la Corte Constitucional. El procedimiento, los requisitos y las causas se determinarán en la ley.
 
-##### Art.  432.
+##### Art.  432.-
 La  Corte  Constitucional estará integrada por nueve miembros que ejercerán sus funciones en plenario y en salas de acuerdo con la ley. Desempeñarán sus cargos por un periodo de nueve años, sin reelección inmediata y serán renovados por tercios cada tres años.
 
 La ley determinará el mecanismo de reemplazo en caso de ausencia del titular.
 
-##### Art.  433.
+##### Art.  433.-
 Para  ser  designado  miembro  de  la  Corte  Constitucional  se requerirá:
 
 - Ser  ecuatoriana  o  ecuatoriano  y  encontrarse  en  ejercicio  de  sus derechos políticos.
@@ -4845,15 +5324,15 @@ Para  ser  designado  miembro  de  la  Corte  Constitucional  se requerirá:
 
 La ley determinará el procedimiento para acreditar estos requisitos.
 
-##### Art. 434.
+##### Art. 434.-
 Los miembros de la Corte Constitucional se designarán por una comisión  calificadora  que  estará  integrada  por  dos  personas  nombradas por cada una de las funciones, Legislativa, Ejecutiva y de Transparencia y Control  Social.  La  selección  de  los  miembros  se  realizará  de  entre  las candidaturas  presentadas  por  las  funciones  anteriores,  a  través  de  un proceso de concurso público, con veeduría y posibilidad de impugnación ciudadana.  En  la  integración  de  la  Corte  se  procurará  la  paridad  entre hombres y mujeres.
 
 El  procedimiento,  plazos  y  demás  elementos  de  selección  y  calificación serán determinados por la ley.
 
-##### Art. 435.
+##### Art. 435.-
 La  Corte Constitucional elegirá de entre sus miembros, a una Presidenta o Presidente y a una Vicepresidenta o Vicepresidente, quienes desempeñarán sus funciones durante tres años, y no podrán ser reelegidos de forma inmediata.  La Presidenta o Presidente ejercerá la representación legal de la Corte Constitucional.
 
-##### Art. 436.
+##### Art. 436.-
 La Corte Constitucional ejercerá, además de las que le confiera la ley, las siguientes atribuciones:
 
 - Ser la máxima instancia de interpretación de la Constitución, de los tratados  internacionales  de  derechos  humanos  ratificados  por  el Estado  ecuatoriano,  a  través  de  sus  dictámenes  y  sentencias.    Sus decisiones tendrán carácter vinculante.
@@ -4888,14 +5367,14 @@ La Corte Constitucional ejercerá, además de las que le confiera la ley, las si
 
 [[START OF PAGE 194]]
 
-##### Art. 437.
+##### Art. 437.-
 Los ciudadanos  en  forma  individual o colectiva  podrán presentar  una  acción  extraordinaria  de  protección  contra  sentencias, autos definitivos y resoluciones con fuerza de sentencia. Para la admisión de  este  recurso  la  Corte  constatará  el  cumplimiento  de  los  siguientes requisitos:
 
 - Que se trate de sentencias, autos y resoluciones firmes o ejecutoriados.
 
 - Que el recurrente demuestre que en el juzgamiento se ha violado, por acción u omisión, el debido proceso u otros derechos reconocidos en la Constitución.
 
-##### Art. 438.
+##### Art. 438.-
 La Corte Constitucional emitirá dictamen previo y vinculante de constitucionalidad en los siguientes casos, además de los que determine la ley:
 
 - Tratados internacionales, previamente a su ratificación por parte de la Asamblea Nacional.
@@ -4904,10 +5383,10 @@ La Corte Constitucional emitirá dictamen previo y vinculante de constitucionali
 
 - Objeciones  de  inconstitucionalidad  presentadas  por  la  Presidenta  o Presidente de la República en el proceso de formación de las leyes.
 
-##### Art.  439.
+##### Art.  439.-
 Las  acciones  constitucionales  podrán  ser  presentadas  por cualquier ciudadana o ciudadano individual o colectivamente.
 
-##### Art. 440.
+##### Art. 440.-
 Las sentencias y los autos de la Corte Constitucional tendrán el carácter de definitivos e inapelables.
 
 194
@@ -4918,21 +5397,21 @@ Las sentencias y los autos de la Corte Constitucional tendrán el carácter de d
 
 ### Capítulo tercero Reforma de la Constitución
 
-##### Art. 441.
+##### Art. 441.-
 La enmienda de uno o varios artículos de la Constitución que no altere su estructura fundamental, o el carácter y elementos constitutivos del Estado, que no establezca restricciones a los derechos y garantías, o que no modifique el procedimiento de reforma de la Constitución, se realizará:
 
 - Mediante referéndum solicitado por la Presidenta o Presidente de la República, o por la ciudadanía con el respaldo de al menos el ocho por ciento de las personas inscritas en el registro electoral.
 
 - Por  iniciativa  de  un  número  no  inferior  a  la  tercera  parte  de  los miembros de la Asamblea Nacional.  El proyecto se tramitará en dos debates; el segundo debate se realizará de modo impostergable en los treinta días siguientes al año de realizado el primero. La reforma sólo se  aprobará  si  obtiene  el  respaldo  de  las  dos  terceras  partes  de  los miembros de la Asamblea Nacional.
 
-##### Art.  442.
+##### Art.  442.-
 La  reforma  parcial  que  no  suponga  una  restricción  en  los derechos  y  garantías  constitucionales,  ni  modifique  el  procedimiento  de reforma de la Constitución tendrá lugar por iniciativa de la Presidenta o Presidente de la República, o a solicitud de la ciudadanía con el respaldo de al menos el uno por ciento de ciudadanas y ciudadanos inscritos en el registro  electoral,  o  mediante  resolución  aprobada  por  la  mayoría  de  los integrantes de la Asamblea Nacional.
 
 La  iniciativa  de  reforma  constitucional  será  tramitada  por  la  Asamblea Nacional  en  al  menos  dos  debates.    El  segundo  debate  se  realizará  al menos  noventa  días  después  del  primero.    El  proyecto  de  reforma  se aprobará  por  la  Asamblea  Nacional.    Una  vez  aprobado  el  proyecto  de reforma constitucional se convocará a referéndum dentro de los cuarenta y cinco días siguientes.
 
 Para la aprobación en referéndum se requerirá al menos la mitad más uno de los votos válidos emitidos. Una vez aprobada la reforma en referéndum, y  dentro  de  los  siete  días  siguientes,  el  Consejo  Nacional  Electoral dispondrá su publicación.
 
-##### Art.  443.
+##### Art.  443.-
 La  Corte  Constitucional  calificará  cual  de  los  procedimientos previstos en este capítulo corresponde en cada caso.
 
 195
@@ -4941,7 +5420,7 @@ La  Corte  Constitucional  calificará  cual  de  los  procedimientos previstos 
 
 [[START OF PAGE 196]]
 
-##### Art. 444.
+##### Art. 444.-
 La asamblea constituyente sólo podrá ser convocada a través de consulta  popular.  Esta  consulta  podrá  ser  solicitada  por  la  Presidenta  o Presidente  de  la  República,  por  las  dos  terceras  partes  de  la  Asamblea Nacional, o por el doce por ciento de las personas inscritas en el registro electoral. La consulta deberá incluir la forma de elección de las representantes y los representantes y las reglas del proceso electoral. La nueva Constitución, para su entrada en vigencia, requerirá ser aprobada mediante referéndum con la mitad más uno de los votos válidos.
 
 196
@@ -4952,7 +5431,7 @@ La asamblea constituyente sólo podrá ser convocada a través de consulta  popu
 
 ## DISPOSICIONES TRANSITORIAS
 
-### PRIMERA.
+### PRIMERA.-
 El órgano legislativo, en el plazo máximo de ciento veinte días contados desde la entrada en vigencia de esta Constitución aprobará la ley que desarrolle el régimen de soberanía alimentaria, la ley electoral, la ley reguladora de la Función Judicial, del Consejo de la Judicatura y la que regula el Consejo de Participación Ciudadana y Control Social.
 
 En  el plazo máximo  de  trescientos  sesenta  días, se  aprobarán  las siguientes leyes:
@@ -4987,22 +5466,22 @@ En  el plazo máximo  de  trescientos  sesenta  días, se  aprobarán  las sigui
 
 El  ordenamiento  jurídico  necesario  para  el  desarrollo  de  la  Constitución será aprobado durante el primer mandato de la Asamblea Nacional.
 
-### SEGUNDA.
+### SEGUNDA.-
 El  órgano  legislativo,  en  el  plazo  de  treinta  días  desde  la entrada  en  vigencia  de  esta  Constitución,  designará  con  base  en  un concurso  público  de  oposición  y  méritos,  con  postulación,  veeduría  e impugnación ciudadanas a las consejeras y consejeros del primer Consejo de  Participación  Ciudadana  y  Control  Social,  quienes  permanecerán provisionalmente en sus funciones hasta la aprobación de la ley correspondiente.  En  este  proceso  se  aplicarán  las  normas  y  principios señalados en la Constitución.
 
 El  Consejo  de  transición  permanecerá  en  sus  funciones  hasta  que  se promulgue la ley que regule su organización y funcionamiento, y en ciento veinte días preparará el proyecto de ley correspondiente para consideración del órgano legislativo.
 
-### TERCERA.
-Las servidoras y servidores públicos de la Comisión de Control Cívico de la Corrupción y de la Secretaria Nacional Anticorrupción, que no sean  de  libre  nombramiento  y  remoción,  pasarán  a  formar  parte  del Consejo de Participación Ciudadana y Control Social.
+### TERCERA.-
+Las servidoras y servidores públicos de la Comisión de Control Cívico de la Corrupción y de la Secretaría Nacional Anticorrupción, que no sean  de  libre  nombramiento  y  remoción,  pasarán  a  formar  parte  del Consejo de Participación Ciudadana y Control Social.
 
 Las  superintendencias  existentes  continuarán  en  funcionamiento  hasta que el órgano legislativo expida las leyes correspondientes.
 
-### CUARTA.
+### CUARTA.-
 Las  servidoras  y  servidores  públicos  del  Congreso  Nacional, salvo  los  de  libre  nombramiento  y  remoción,  pasarán  a  prestar  sus servicios en la Asamblea Nacional.
 
 Los bienes del Congreso Nacional pasarán a formar parte del patrimonio de la Asamblea Nacional.
 
-### QUINTA.
+### QUINTA.-
 El  personal  de  funcionarias  y  funcionarios,  y  empleadas  y empleados  del  Tribunal  Constitucional,  con  excepción  de  los  de  libre nombramiento y remoción, podrá formar parte de la Corte Constitucional previo proceso de evaluación y selección.
 
 198
@@ -5015,16 +5494,16 @@ Los bienes del Tribunal Constitucional se transferirán a la Corte Constituciona
 
 La Editora Nacional y el Registro Oficial se transformará en una empresa pública del Estado, autónoma, de conformidad con lo establecido en esta Constitución y en la ley. Su personal, bienes y presupuesto se transferirán a la nueva entidad.
 
-### SEXTA.
+### SEXTA.-
 Los consejos nacionales de niñez y adolescencia, discapacidades, mujeres, pueblos y nacionalidades indígenas, afroecuatorianos y montubios, se constituirán en consejos nacionales para la igualdad, para lo que adecuarán su estructura y funciones a la Constitución.
 
-### SÉPTIMA.
+### SÉPTIMA.-
 Se garantiza la estabilidad de las funcionarias y funcionarios, y las  empleadas  y  empleados  de  la  actual  Corte  Suprema  de  Justicia, Consejo Nacional de la Judicatura, cortes superiores, tribunales distritales de lo contencioso administrativo y fiscal, tribunales de lo fiscal y tribunales penales, que serán reubicados en cargos de similar jerarquía y remuneración en el Consejo de la Judicatura, Corte Nacional de Justicia, cortes provinciales y tribunales, respectivamente.
 
-### OCTAVA.
+### OCTAVA.-
 Los  procesos  que  estén  sustanciándose  por  miembros  de  la Corte Suprema de Justicia, así como aquéllos que estén en conocimiento de las cortes policial y militar, pasarán a conocimiento y resolución de la Corte Nacional de Justicia.
 
-### NOVENA.
+### NOVENA.-
 El  Consejo  de  la  Judicatura,  en  un  plazo  no  mayor  de trescientos  sesenta  días  a  partir  de  su  conformación,  implementará  el nuevo servicio notarial, de acuerdo con esta Constitución y la ley.
 
 A  partir  de  la  entrada  en  vigencia  de  esta  Constitución  los  periodos  de nombramiento,  encargos,  interinazgo  o  suplencias  de  las  notarias  y notarios se declaran concluidos.
@@ -5039,26 +5518,26 @@ Las instalaciones y documentos notariales pertenecientes al actual régimen nota
 
 [[START OF PAGE 200]]
 
-### DÉCIMA.
+### DÉCIMA.-
 En el periodo de transición el servicio de defensa penal seguirá a cargo del  Ministerio  de  Justicia,  a  través  de  la  Unidad  Transitoria  de  Gestión  de Defensoría  Pública  Penal,  sobre  cuya  base  técnica  se  organizará  la  Defensoría Pública, que deberá crearse en el plazo de dos años, con prioridad en la defensa pública penal, la defensa de la niñez y adolescencia, y los asuntos laborales.
 
-### UNDÉCIMA.
+### UNDÉCIMA.-
 Durante el tercer año de funciones se realizará un sorteo entre quienes integren el primer Consejo Nacional Electoral y el primer Tribunal Contencioso Electoral, para determinar cuáles de sus miembros deberán ser reemplazados  conforme  la  regla  de  renovación  parcial  establecida  en  esta Constitución.  El  sorteo  se  realizará  en  la  sesión  en  la  que  se  apruebe  la convocatoria  a  los  correspondientes  exámenes  públicos  eliminatorios  de conocimientos y concursos públicos de oposición y méritos.
 
 Las  funcionarias  y  funcionarios,  y  empleadas  y  empleados  del  Tribunal Supremo Electoral y de los tribunales provinciales electorales, que no sean de libre nombramiento y remoción, continuarán en sus funciones dentro de  la  Función  Electoral,  y  se  sujetarán  a  un  proceso  de  selección  y calificación acorde a las necesidades de los nuevos organismos.
 
 En  cada  provincia  se  conformarán  temporalmente  las  juntas  electorales dependientes del Consejo Nacional Electoral, que ejercerán las funciones que éste les asigne y las determinadas en la ley.  No existirán organismos inferiores del Tribunal Contencioso Electoral.
 
-### DUODÉCIMA.
+### DUODÉCIMA.-
 En el plazo de cuarenta y cinco días desde la entrada en vigencia de esta Constitución, los partidos y movimientos políticos deberán reinscribirse  en  el  Consejo  Nacional  Electoral  y  podrán  conservar  sus nombres, símbolos y número.
 
-### DECIMOTERCERA.
+### DECIMOTERCERA.-
 La erradicación del analfabetismo constituirá política de  Estado,  y  mientras  ésta  subsista  el  voto  de  las  personas  analfabetas será facultativo.
 
-### DECIMOCUARTA.
+### DECIMOCUARTA.-
 A  partir  del  Presupuesto  General  del  Estado  del  año 2009,  el  monto  de  transferencias  del  Estado  central  a  los  gobiernos autónomos  descentralizados  no  será,  en  ningún  caso,  inferior  al  monto asignado en el Presupuesto del ejercicio fiscal del año 2008.
 
-### DECIMOQUINTA.
+### DECIMOQUINTA.-
 Los activos y pasivos, las funcionarias y funcionarios y las  empleadas  y  empleados  del  Consejo  Provincial  de  Galápagos  y  del Instituto  Nacional  Galápagos,  pasarán  a  formar  parte  del  Consejo  de Gobierno del Régimen Especial de Galápagos.
 
 200
@@ -5067,20 +5546,20 @@ Los activos y pasivos, las funcionarias y funcionarios y las  empleadas  y  empl
 
 [[START OF PAGE 201]]
 
-### DECIMOSEXTA.
+### DECIMOSEXTA.-
 Para resolver los  conflictos  de  limites  territoriales  y  de pertenencia se remitirán los informes correspondientes a la Presidencia de la República que, en el plazo de dos años desde la entrada en vigencia de esta  Constitución,  remitirá  el  proyecto  de  ley  de  fijación  de  límites territoriales al órgano legislativo y, de ser el caso, instará la convocatoria de consulta popular para resolver conflictos de pertenencia.
 
-### DECIMOSÉPTIMA.
+### DECIMOSÉPTIMA.-
 El Estado central, dentro del plazo de dos años desde la entrada en vigencia de esta Constitución, financiará y, en coordinación con  los  gobiernos  autónomos  descentralizados,  elaborará  la  cartografía geodésica del territorio nacional para el diseño de los catastros urbanos y rurales  de  la  propiedad  inmueble  y  de  los  procesos  de  planificación territorial, en todos los niveles establecidos en esta Constitución.
 
-### DECIMOCTAVA.
+### DECIMOCTAVA.-
 El Estado asignará de forma progresiva recursos públicos  del  Presupuesto  General  del  Estado  para  la  educación  inicial básica  y  el  bachillerato,  con  incrementos  anuales  de  al  menos  el  cero punto  cinco  por  ciento  del  Producto  Interior  Bruto  hasta  alcanzar  un mínimo del seis por ciento del Producto Interior Bruto.
 
 Hasta la aprobación del Presupuesto General del Estado del año siguiente a la entrada en vigencia de esta Constitución, el Estado compensará a las universidades y escuelas politécnicas públicas por el monto que dejarán de percibir  por  concepto  del  cobro  de  aranceles,  matrículas  y  derechos  que hagan referencia a la escolaridad de las estudiantes y los estudiantes. A partir  de  ese  momento,  este  financiamiento  constará  en  el  Presupuesto General del Estado.
 
 Solamente,  previa  evaluación,  las  universidades  particulares  que  a  la entrada en vigencia de esta Constitución reciban asignaciones y rentas del Estado,  de  acuerdo  con  la  ley,  podrán  continuar  percibiéndolas  en  el futuro.  Estas  entidades  deberán  rendir  cuentas  de  los  fondos  públicos recibidos y destinarán los recursos entregados por el Estado a la concesión de becas a estudiantes de escasos recursos económicos desde el inicio de la carrera.
 
-### DECIMONOVENA.
+### DECIMONOVENA.-
 El  Estado  realizará  una  evaluación  integral  de  las instituciones  educativas  unidocentes  y  pluridocentes  públicas,  y  tomará medidas con el fin de superar la precariedad y garantizar el derecho a la educación.
 
 201
@@ -5091,24 +5570,24 @@ El  Estado  realizará  una  evaluación  integral  de  las instituciones  educa
 
 En el transcurso de tres años, el Estado realizará una evaluación del funcionamiento, finalidad  y  calidad  de  los  procesos  de  educación  popular  y  diseñará  las  políticas adecuadas para el mejoramiento y regularización de la planta docente.
 
-### VIGÉSIMA.
+### VIGÉSIMA.-
 El Ejecutivo creará una institución superior con el objetivo de fomentar el ejercicio de la docencia y de cargos directivos, administrativos y de  apoyo  en  el  sistema  nacional  de  educación.  La  autoridad  educativa nacional dirigirá esta institución en lo académico, administrativo y financiero.
 
 En  el  plazo  de  cinco  años  a  partir  de  la  entrada  en  vigencia  de  esta Constitución, todas las instituciones de educación superior, así como sus carreras,  programas  y  postgrados  deberán  ser  evaluados  y  acreditados conforme  a  la  ley.  En  caso  de  no  superar  la  evaluación  y  acreditación, quedarán fuera del sistema de educación superior.
 
-### VIGESIMOPRIMERA.
+### VIGESIMOPRIMERA.-
 El Estado estimulará la jubilación de las docentes y los  docentes  del  sector  público,  mediante  el  pago  de  una  compensación variable que relacione edad y años de servicio. El monto máximo será de ciento  cincuenta  salarios  básicos  unificados  del  trabajador  privado,  y  de cinco salarios básicos unificados del trabajador privado en general por año de servicios. La ley regulará los procedimientos y métodos de cálculo.
 
-### VIGESIMOSEGUNDA.
+### VIGESIMOSEGUNDA.-
 El  Presupuesto  General  del  Estado  destinado  al financiamiento del sistema nacional de salud, se incrementará cada año en un porcentaje no inferior al cero punto cinco por ciento del Producto Interior Bruto, hasta alcanzar al menos el cuatro por ciento.
 
-### VIGESIMOTERCERA.
+### VIGESIMOTERCERA.-
 Dentro del plazo de ciento ochenta días a partir de la  aprobación  de  esta  Constitución,  se  creará  la  entidad  financiera  de propiedad del Instituto Ecuatoriano de Seguridad Social, responsable de la administración de sus fondos, bajo criterios de banca de inversión, y con el objetivo de generar empleo y valor agregado.
 
-### VIGESIMOCUARTA.
+### VIGESIMOCUARTA.-
 Dentro del plazo máximo de treinta días a partir de la aprobación  de  esta  Constitución,  el  Ejecutivo  conformará  una  comisión  para realizar una auditoría de las concesiones de las frecuencias de radio y televisión, cuyo informe se entregará en un plazo máximo de ciento ochenta días.
 
-### VIGESIMOQUINTA.
+### VIGESIMOQUINTA.-
 La revisión anual del salario básico se realizará con carácter  progresivo  hasta  alcanzar  el  salario  digno  de  acuerdo  con  lo dispuesto en esta Constitución. El salario básico tenderá a ser equivalente al  costo  de  la  canasta  familiar.  La  jubilación  universal  para  los  adultos mayores se aplicará de modo progresivo.
 
 202
@@ -5117,19 +5596,19 @@ La revisión anual del salario básico se realizará con carácter  progresivo  
 
 [[START OF PAGE 203]]
 
-### VIGESIMOSEXTA.
+### VIGESIMOSEXTA.-
 En el plazo de trescientos sesenta días a partir de la entrada  en  vigencia  de  esta  Constitución,  las  delegaciones  de  servicios públicos  en  agua  y  saneamiento  realizadas  a  empresas  privadas  serán auditadas financiera, jurídica, ambiental y socialmente.
 
 El Estado definirá la vigencia, renegociación y, en su caso, la terminación de  los  contratos  de  delegación,  de  acuerdo  con  lo  establecido  en  esta Constitución y en los resultados de las auditorías.
 
 Se condona a las usuarias y usuarios en extrema pobreza las deudas de agua  de  consumo  humano  que  hayan  contraído  hasta  la  entrada  en vigencia de esta Constitución.
 
-### VIGESIMOSÉPTIMA.
+### VIGESIMOSÉPTIMA.-
 El  Ejecutivo,  en  el  plazo  de  dos  años  desde  la entrada en vigencia de esta Constitución, revisará la situación de acceso al agua de riego con el fin de reorganizar el otorgamiento de las concesiones, evitar  el  abuso  y  las  inequidades  en  las  tarifas  de  uso,  y  garantizar  una distribución  y  acceso  más  equitativo,  en  particular  a  los  pequeños  y medianos productores agropecuarios.
 
 La ley que regule la participación de los gobiernos autónomos descentralizados en las rentas por la explotación o industrialización de los recursos no renovables, no podrá disminuir las rentas establecidas por la Ley  010  del  Fondo  para  el  Ecodesarrollo  Regional  Amazónico  y  de Fortalecimiento de sus Organismos Seccionales, así como las establecidas en la ley de asignaciones del cinco por ciento de las rentas generadas por la  venta  de  energía  que  realicen  las  Centrales  Hidroeléctricas  de  Paute, Pisayambo y Agoyán (Ley 047) para beneficio de las provincias de Azuay, Cañar, Morona Santiago y Tungurahua.
 
-### VIGESIMONOVENA.
+### VIGESIMONOVENA.-
 Las  participaciones accionarias  que  posean  las personas jurídicas del sector financiero en empresas ajenas a este sector, se enajenarán en el plazo de dos años a partir de la entrada en vigencia de esta Constitución.
 
 Las  participaciones accionarias de las personas  jurídicas del sector financiero, sus representantes legales y miembros de directorio y accionistas  que  tengan  participación  en  el  capital  pagado  de  medios  de comunicación  social,  deberán  ser  enajenadas  en  el  plazo  de  dos  años  a partir de la entrada en vigencia de esta Constitución.
@@ -5140,14 +5619,14 @@ Las  participaciones accionarias de las personas  jurídicas del sector financie
 
 [[START OF PAGE 204]]
 
-### TRIGÉSIMA.
+### TRIGÉSIMA.-
 El Fondo de Solidaridad, en el plazo de trescientos sesenta días,  de  forma  previa  a  su  liquidación,  transformará  al  régimen  de empresas públicas las de régimen privado en las que sea accionista. Para ello,  dispondrá  que  dichas  empresas  realicen  previamente  un  inventario detallado  de  sus  activos  y  pasivos,  y  contraten  en  forma  inmediata  la realización  de  auditorias,  cuyos  resultados  servirán  de  base  para  su transformación.
 
 El  Estado  garantizará  el  financiamiento  de  las  prestaciones  sociales atendidas  por  el  Fondo  de  Solidaridad,  en  particular  la  de  maternidad gratuita y atención a la infancia, así como de los recursos comprometidos por esa institución para los programas de desarrollo humano en ejecución, hasta su culminación.
 
 Las inversiones financieras y las disponibilidades monetarias del Fondo de Solidaridad serán reinvertidas al momento de su extinción en las empresas públicas  que  se  creen  o  se  transferirán  al  Estado  central.  El  resto  del patrimonio  del  Fondo  de  Solidaridad  pasará  a  la  institución  que  se determine mediante decreto ejecutivo.
 
-Los proyectos de inversión en los sectores eléctrico y de las telecomunicaciones que se encuentren aprobados y en ejecución conforme al Mandato  Constituyente número  nueve, pasarán a las empresas eléctricas y de telecomunicaciones  que  se  creen  en  virtud de esta disposición  transitoria,  con  los  saldos  de  las  respectivas  asignaciones presupuestarlas comprometidas para su culminación y liquidación.
+Los proyectos de inversión en los sectores eléctrico y de las telecomunicaciones que se encuentren aprobados y en ejecución conforme al Mandato  Constituyente número  nueve, pasarán a las empresas eléctricas y de telecomunicaciones  que  se  creen  en  virtud de esta disposición  transitoria,  con  los  saldos  de  las  respectivas  asignaciones presupuestarias comprometidas para su culminación y liquidación.
 
 Una vez cumplidas las disposiciones precedentes, y en el plazo máximo de trescientos sesenta días, el Fondo de Solidaridad se extinguirá.
 
@@ -5177,7 +5656,7 @@ Se deroga la Constitución Política de la República del Ecuador publicada en e
 
 ### Capítulo Primero Naturaleza de la transición
 
-##### Art.  1.
+##### Art. 1.-
 De  aprobarse  por  el  pueblo  en  el  Referéndum  Aprobatorio  la Constitución Política de la República, se aplicarán las normas contenidas en este Régimen de Transición.
 
 ### Capítulo Segundo De las elecciones
@@ -5185,20 +5664,20 @@ De  aprobarse  por  el  pueblo  en  el  Referéndum  Aprobatorio  la Constituci�
 ##### Art. 2.- (Responsabilidad de las elecciones)
 El proceso de elección de los dignatarios  señalados  en  estas  normas  de  transición  será  organizado  y dirigido por el Consejo Nacional Electoral.
 
-##### Art. 3.(Elecciones generales)
+##### Art. 3.- (Elecciones generales)
 El Consejo Nacional Electoral, en el plazo máximo de treinta (30) días contados desde su posesión, con fundamento en lo establecido en la ley, convocará a elecciones generales para designar las siguientes dignidades:
 
-- Presidente y Vicepresidente de la República.
+a) Presidente y Vicepresidente de la República.
 
-- Cinco (5) representantes al Parlamento Andino.
+b) Cinco (5) representantes al Parlamento Andino.
 
-- Integrantes de la Asamblea Nacional elegidos por las circunscripciones provinciales, la nacional y la especial del exterior. En cada provincia se elegirán dos asambleístas, más uno por cada doscientos mil habitantes o fracción mayor de ciento cincuenta mil; quince (15) asambleístas nacionales; y, seis (6) por las ecuatorianas y ecuatorianos domiciliados en el exterior, distribuidos así: dos por Europa, Oceanía y Asia, dos por Canadá y Estados Unidos y dos por Latinoamérica, El Caribe y África.
+c) Integrantes de la Asamblea Nacional elegidos por las circunscripciones provinciales, la nacional y la especial del exterior. En cada provincia se elegirán dos asambleístas, más uno por cada doscientos mil habitantes o fracción mayor de ciento cincuenta mil; quince (15) asambleístas nacionales; y, seis (6) por las ecuatorianas y ecuatorianos domiciliados en el exterior, distribuidos así: dos por Europa, Oceanía y Asia, dos por Canadá y Estados Unidos y dos por Latinoamérica, El Caribe y África.
 
-- Prefectos y viceprefectos provinciales.
+d) Prefectos y viceprefectos provinciales.
 
-- Alcaldes municipales.
+e) Alcaldes municipales.
 
-- Cinco  (5)  y  un  máximo  de  quince  (15)  concejales  y  concejalas  en cada  cantón,  conforme  lo  dispuesto  en  el  artículo  27  de  la  Ley Orgánica de Régimen Municipal.
+f) Cinco  (5)  y  un  máximo  de  quince  (15)  concejales  y  concejalas  en cada  cantón,  conforme  lo  dispuesto  en  el  artículo  27  de  la  Ley Orgánica de Régimen Municipal.
 
 207
 
@@ -5206,30 +5685,30 @@ El Consejo Nacional Electoral, en el plazo máximo de treinta (30) días contado
 
 [[START OF PAGE 208]]
 
-- Cinco (5) vocales en cada una de las juntas parroquiales rurales, el más votado será elegido Presidente.
+g) Cinco (5) vocales en cada una de las juntas parroquiales rurales, el más votado será elegido Presidente.
 
 La aplicación de estas normas se basará en el último censo de población.
 
-##### Art. 4.(Presentación de candidaturas)
+##### Art. 4.- (Presentación de candidaturas)
 En estas elecciones, las organizaciones  políticas  y  alianzas  que  participaron  en  la  elección  de asambleístas podrán presentar candidaturas.
 
 Podrán  también  hacerlo  otras  organizaciones  políticas, para  lo cual deberán  presentar  el  uno  por  ciento  (1%)  de  firmas  de  adhesión  de  los ciudadanos y ciudadanas del correspondiente registro electoral. Al efecto, el Consejo Nacional Electoral entregará los formularios necesarios.
 
 Las candidaturas pluripersonales se presentarán en listas completas con candidatos principales y sus respectivos suplentes. Las listas se conformarán paritariamente con secuencia de mujer, hombre u hombre, mujer hasta completar el total de candidaturas.
 
-##### Art. 5.(Forma de votación)
+##### Art. 5.- (Forma de votación)
 Los electores escogerán los candidatos de su preferencia así:
 
-- En  las  papeletas  de  Presidente  y  Vicepresidente,  Parlamentarios Andinos,  Prefectos y Viceprefectos y Alcaldes  marcando  en  el casillero de la lista; y,
+1. En  las  papeletas  de  Presidente  y  Vicepresidente,  Parlamentarios Andinos,  Prefectos y Viceprefectos y Alcaldes  marcando  en  el casillero de la lista; y,
 
-- En  las de Asambleístas Nacionales, Asambleístas Provinciales, Asambleístas del Exterior, Concejales y Miembros de Juntas Parroquiales Rurales, marcando en los casilleros de los candidatos de una o varias listas.
+2. En  las de Asambleístas Nacionales, Asambleístas Provinciales, Asambleístas del Exterior, Concejales y Miembros de Juntas Parroquiales Rurales, marcando en los casilleros de los candidatos de una o varias listas.
 
-##### Art. 6.(Asignación de escaños)
+##### Art. 6.- (Asignación de escaños)
 Para la adjudicación de los escaños se aplicarán las siguientes disposiciones:
 
-- En  las  elecciones  de  Presidente  y  Vicepresidente  de  la  República conforme lo señalado en la Constitución Política de la República.
+1. En  las  elecciones  de  Presidente  y  Vicepresidente  de  la  República conforme lo señalado en la Constitución Política de la República.
 
-- En las elecciones de los binomios de Prefectos y Viceprefectos y en las de alcaldes serán los ganadores quienes hayan obtenido las más altas votaciones.
+2. En las elecciones de los binomios de Prefectos y Viceprefectos y en las de alcaldes serán los ganadores quienes hayan obtenido las más altas votaciones.
 
 208
 
@@ -5237,31 +5716,31 @@ Para la adjudicación de los escaños se aplicarán las siguientes disposiciones
 
 [[START OF PAGE 209]]
 
-- En las elecciones de parlamentarios andinos se procederá así:
+3. En las elecciones de parlamentarios andinos se procederá así:
 
-- Se sumarán los votos alcanzados por cada una de las listas.
+a. Se sumarán los votos alcanzados por cada una de las listas.
 
-- Estos resultados se dividen para la serie de los números 1, 3, 5, 7, 9, 11, ... hasta obtener tantos cocientes como puestos por asignarse.
+b. Estos resultados se dividen para la serie de los números 1, 3, 5, 7, 9, 11, ... hasta obtener tantos cocientes como puestos por asignarse.
 
-- Los  cocientes  obtenidos  se  ordenan  de  mayor  a  menor;  se asignarán  a  cada  lista  los  puestos  que  le  correspondan,  de acuerdo a los más altos cocientes.
+c. Los  cocientes  obtenidos  se  ordenan  de  mayor  a  menor;  se asignarán  a  cada  lista  los  puestos  que  le  correspondan,  de acuerdo a los más altos cocientes.
 
-- Si fuese el caso que cumplido el procedimiento anterior, todos los cuocientes corresponden a una sola lista, el último puesto se lo asignará a la lista que siga en votación.
+d. Si fuese el caso que cumplido el procedimiento anterior, todos los cuocientes corresponden a una sola lista, el último puesto se lo asignará a la lista que siga en votación.
 
-- En caso de empate, se procederá al sorteo para definir la lista ganadora del puesto.
+e. En caso de empate, se procederá al sorteo para definir la lista ganadora del puesto.
 
-- Los  escaños alcanzados por las listas serán asignados a los candidatos según el orden en la lista.
+f. Los  escaños alcanzados por las listas serán asignados a los candidatos según el orden en la lista.
 
-- En las elecciones de asambleístas nacionales, asambleístas provinciales,  asambleístas  del  exterior,  concejales  municipales  y miembros de juntas parroquiales rurales, se procederá así:
+4. En las elecciones de asambleístas nacionales, asambleístas provinciales,  asambleístas  del  exterior,  concejales  municipales  y miembros de juntas parroquiales rurales, se procederá así:
 
 4.1. En las circunscripciones donde se eligen dos (2) dignatarios, el primer puesto corresponde a la lista que obtenga el mayor número de votos; el segundo, a la que le sigue en votos, siempre que tenga por lo menos el 35% de los votos de aquella; caso contrario, ambos puestos corresponderán a la lista más votada.
 
 4.2.  Donde  se  eligen  tres  (3)  o  más  dignatarios,  se  seguirán  los siguientes pasos:
 
-- Se sumarán los votos alcanzados por los candidatos de cada una de las listas.
+a) Se sumarán los votos alcanzados por los candidatos de cada una de las listas.
 
-- Estos resultados se dividirán para la serie de números 1, 3, 5, 7, 9, 11, ... hasta obtener tantos cocientes como puestos por asignarse.
+b) Estos resultados se dividirán para la serie de números 1, 3, 5, 7, 9, 11, ... hasta obtener tantos cocientes como puestos por asignarse.
 
-- Los  cocientes  obtenidos  se  ordenan  de  mayor  a  menor;  se asignarán  a  cada  lista  los  puestos  que  le  correspondan,  de acuerdo a los más altos cocientes.
+c) Los  cocientes  obtenidos  se  ordenan  de  mayor  a  menor;  se asignarán  a  cada  lista  los  puestos  que  le  correspondan,  de acuerdo a los más altos cocientes.
 
 209
 
@@ -5269,28 +5748,28 @@ Para la adjudicación de los escaños se aplicarán las siguientes disposiciones
 
 [[START OF PAGE 210]]
 
-- Si fuese el caso que cumplido el procedimiento anterior, todos los  cocientes  corresponden a una sola lista, el último puesto se lo asignará a la lista que siga en votación.
+d) Si fuese el caso que cumplido el procedimiento anterior, todos los  cocientes  corresponden a una sola lista, el último puesto se lo asignará a la lista que siga en votación.
 
-- En caso de empate, se procederá al sorteo para definir la lista ganadora del puesto.
+e) En caso de empate, se procederá al sorteo para definir la lista ganadora del puesto.
 
-- Los  escaños  alcanzados  por  las  listas  serán  asignados  a  los candidatos más votados de cada lista.
+f) Los  escaños  alcanzados  por  las  listas  serán  asignados  a  los candidatos más votados de cada lista.
 
-##### Art.  7.(Circunscripciones  urbanas  y  rurales)
+##### Art. 7.- (Circunscripciones urbanas y rurales)
 Para  las  elecciones  de concejales en los cantones existirán dos circunscripciones electorales, una urbana  y  otra  rural,  constituidas  por  los  electores  de  las  parroquias urbanas y las rurales, respectivamente.
 
 En cada circunscripción se elegirá el número que resulte de  multiplicar el total  de  concejales  del  cantón  por  el  porcentaje  de  la  población  de  la circunscripción correspondiente. El resultado se aproximará al entero más cercano. Cuando el valor no alcance la unidad en la  circunscripción se elegirá un concejal.
 
 En los cantones que no cuentan con parroquias rurales existirá una sola circunscripción, donde se elegirán todos los concejales.
 
-##### Art. 8.(Registro electoral)
+##### Art. 8.- (Registro electoral)
 El registro electoral se elaborará conforme las disposiciones de la Constitución. Se cumplirán los plazos establecidos en la  Ley  Orgánica  de  Elecciones  para  la  actualización  de  domicilio  y  la elaboración del registro electoral.
 
-##### Art. 9.(Calendario y períodos de funciones)
+##### Art. 9.- (Calendario y períodos de funciones)
 Los dignatarios de elección popular iniciarán sus períodos de la siguiente forma y de acuerdo con el siguiente calendario:
 
-- La  Asamblea  Nacional,  sin  necesidad  de  convocatoria  previa,  se reunirá treinta (30) días luego de proclamados los resultados de las elecciones de todas las dignidades. En la misma fecha, iniciarán sus períodos los prefectos y viceprefectos, alcaldes, concejales y miembros de las juntas parroquiales rurales.
+1. La  Asamblea  Nacional,  sin  necesidad  de  convocatoria  previa,  se reunirá treinta (30) días luego de proclamados los resultados de las elecciones de todas las dignidades. En la misma fecha, iniciarán sus períodos los prefectos y viceprefectos, alcaldes, concejales y miembros de las juntas parroquiales rurales.
 
-- Los  representantes  al  Parlamento  Andino  se  posesionarán  ante  la Asamblea Nacional luego de cinco (5) días de su instalación.
+2. Los  representantes  al  Parlamento  Andino  se  posesionarán  ante  la Asamblea Nacional luego de cinco (5) días de su instalación.
 
 210
 
@@ -5298,7 +5777,7 @@ Los dignatarios de elección popular iniciarán sus períodos de la siguiente fo
 
 [[START OF PAGE 211]]
 
-- El Presidente y Vicepresidente de la República iniciarán su período a los diez (10) días de la instalación de la Asamblea Nacional, ante la cual prestarán juramento.
+3. El Presidente y Vicepresidente de la República iniciarán su período a los diez (10) días de la instalación de la Asamblea Nacional, ante la cual prestarán juramento.
 
 El  Presidente  y  Vicepresidente  de  la  República  concluirán  su  período  de gobierno el día 24 de mayo de 2013; los parlamentarios andinos lo harán el día 19 de mayo de 2013; y, los miembros de la Asamblea Nacional el día 14 de mayo de 2013.
 
@@ -5313,13 +5792,13 @@ El Presidente y el Vicepresidente de la República, los parlamentarios andinos, 
 ##### Art. 12.- (Control del gasto y la propaganda electoral)
 Para este proceso aplíquese el artículo 10 de la Ley Orgánica  del Control del Gasto Electoral y  de  la  Propaganda  Electoral,  utilizando  los  siguientes  valores  para  el cálculo correspondiente:
 
-- Elección  de  binomio  de  Presidente  y  Vicepresidente  de  la  República: cero punto quince dólares (0,15 USD);
+a. Elección  de  binomio  de  Presidente  y  Vicepresidente  de  la  República: cero punto quince dólares (0,15 USD);
 
-- Elección  de  miembros  al  Parlamento  Andino:  cero  punto  cero  cinco dólares (0,05 USD);
+b. Elección  de  miembros  al  Parlamento  Andino:  cero  punto  cero  cinco dólares (0,05 USD);
 
-- Elección  de  asambleístas  nacionales,  provinciales  y  prefectos:  cero punto quince dólares (0,15 USD);
+c. Elección  de  asambleístas  nacionales,  provinciales  y  prefectos:  cero punto quince dólares (0,15 USD);
 
-- Elección de asambleístas del exterior: cero punto treinta dólares (0,30 USD);
+d. Elección de asambleístas del exterior: cero punto treinta dólares (0,30 USD);
 
 211
 
@@ -5327,15 +5806,15 @@ Para este proceso aplíquese el artículo 10 de la Ley Orgánica  del Control de
 
 [[START OF PAGE 212]]
 
-- Elección  de  alcaldes  municipales:  cero  punto  quince  dólares  (0,15 USD);
+e. Elección  de  alcaldes  municipales:  cero  punto  quince  dólares  (0,15 USD);
 
-- Elección  de  concejales:  el  monto  máximo  será  el  sesenta  por  ciento (60%) del valor fijado para el respectivo alcalde municipal;
+f. Elección  de  concejales:  el  monto  máximo  será  el  sesenta  por  ciento (60%) del valor fijado para el respectivo alcalde municipal;
 
-- Elección  de  miembros  de  juntas  parroquiales:  cero  punto  treinta dólares (0,30 USD);
+g. Elección  de  miembros  de  juntas  parroquiales:  cero  punto  treinta dólares (0,30 USD);
 
 Donde en la ley dice diputados entiéndase asambleístas.
 
-##### Art.  13.(Financiamiento  de  la  campaña)
+##### Art. 13.- (Financiamiento de la campaña)
 El  Estado,  a  través  del presupuesto del Consejo Nacional Electoral, financiará exclusivamente la campaña  propagandística  en  prensa  escrita,  radio,  televisión  y  vallas publicitarias  de  todas  las  candidaturas  unipersonales  y  pluripersonales, excepto las de juntas parroquiales rurales.
 
 ##### Art. 14.- (Prohibición de propaganda)
@@ -5345,7 +5824,7 @@ También se prohíbe  la  contratación  privada  de  propaganda  y  publicidad 
 
 Las  candidatas  y  candidatos  y  las  organizaciones  políticas  no  podrán entregar donaciones, dádivas o regalos a las ciudadanas y ciudadanos.
 
-##### Art.  15.(Aplicación  de  normas)
+##### Art. 15.- (Aplicación de normas)
 Los  órganos  de  la  Función  Electoral aplicarán  todo  lo  dispuesto  en  la  Constitución,  la  Ley  Orgánica  de Elecciones y en las demás leyes conexas, siempre que no se oponga a la presente  normativa  y  contribuya  al  cumplimiento  del  proceso  electoral. Dicha  aplicación  se  extiende  a  las  sanciones  por  faltas,  violaciones  o delitos  contra  lo  preceptuado.  Si  es  necesario,  podrán  también,  en  el ámbito de sus competencias, dictar las normas necesarias para viabilizar la aplicación del nuevo ordenamiento constitucional.
 
 212
@@ -5359,19 +5838,19 @@ Los  órganos  de  la  Función  Electoral aplicarán  todo  lo  dispuesto  en  
 ##### Art.- 16.- (Proceso de transición)
 Una vez aprobada la Constitución y a efecto  de  posibilitar  los  cambios  institucionales  previstos  en  ella,  se implementará  el  proceso  de  transición  establecido  en  las  normas  que  a continuación se señalan.
 
-##### Art.  17.(Función  Legislativa)
+##### Art. 17.- (Función Legislativa)
 Se  declara  concluido  el  período  de  los diputados y diputadas, principales y suplentes, elegidos el 15 de octubre del 2006.
 
 La Asamblea Constituyente se reunirá cinco días después de proclamados los  resultados  del  referéndum  aprobatorio  para  conformar  la  Comisión Legislativa  y  de  Fiscalización  procurando  mantener  la  proporcionalidad política que tuvo el plenario  de la Asamblea Constituyente.
 
 Esta Comisión Legislativa y de Fiscalización  cumplirá las funciones de la Asamblea  Nacional  previstas  en  la  Constitución,  hasta  que  se  elijan  y posesionen los Asambleístas, conforme lo establecido en este Régimen de Transición.
 
-##### Art.  18.(Función  Electoral)
+##### Art. 18.- (Función Electoral)
 Con  el  fin  de  posibilitar  la  inmediata realización del proceso electoral dispuesto en este Régimen de Transición, la Asamblea Constituyente designará a quienes transitoriamente conformarán  el  Consejo  Nacional  Electoral  y  el  Tribunal  Contencioso Electoral.
 
 Los integrantes de estos órganos así designados, serán reemplazados por quienes resulten ganadores de los concursos establecidos en la Constitución.  El  proceso  de  selección  dará  inicio  una  vez  concluido  el proceso electoral.
 
-##### Art. 19.
+##### Art. 19.-
 Los funcionarios y empleados del Tribunal Supremo Electoral y de los tribunales provinciales electorales que no son de libre nombramiento  y  remoción,  continuarán  desempeñando  funciones  en  la Función  Electoral,  se  sujetarán  a  un  proceso  de  selección  y  calificación acorde a las necesidades de los nuevos organismos.
 
 Los  bienes  del  Tribunal  Supremo  Electoral  pasarán  a  formar  parte  del patrimonio de la Función Electoral.
@@ -5382,21 +5861,21 @@ Los  bienes  del  Tribunal  Supremo  Electoral  pasarán  a  formar  parte  del 
 
 [[START OF PAGE 214]]
 
-##### Art.  20.(Consejo  de  la  Judicatura)
+##### Art. 20.- (Consejo de la Judicatura)
 En  un  plazo  no  mayor  de  ciento ochenta  (180)  días se organizará  el  Consejo  de  la  Judicatura;  sus integrantes se designarán por el procedimiento establecido en la Constitución.
 
-##### Art. 21.(Corte Nacional de Justicia)
+##### Art. 21.- (Corte Nacional de Justicia)
 A los diez (10) días de proclamados los  resultados  del  Referéndum  Aprobatorio  terminan  los  períodos  de  las treinta  y  uno  (31)  magistradas  y  magistrados  de  la  Corte  Suprema  de Justicia.
 
 El  Consejo  Nacional  Electoral  organizará  un  sorteo  público  entre  las treinta  y  uno  (31)  magistradas  y  magistrados  de  la  Corte  Suprema  de Justicia, para escoger las veinte y uno (21) juezas y jueces a quienes se les encarga las funciones y responsabilidades de la Corte Nacional de Justicia, hasta que se designe a los titulares, con aplicación de los procedimientos establecidos en la Constitución.
 
-##### Art.  22.
+##### Art. 22.-
 Una  vez  promulgada  la  ley  que  regule  la  conformación  y funcionamiento del Consejo de la Judicatura, este organismo conformará la  Corte  Nacional  de  Justicia,  también  procederá  a  organizar  las  Cortes Provinciales de Justicia y los Tribunales Distritales y Penales, designando a sus integrantes.
 
-##### Art. 23.
+##### Art. 23.-
 En la renovación parcial de la Corte Nacional de Justicia, que se efectuará  luego  de  tres  años,  se  seleccionará  los  magistrados  que  deben concluir  su  gestión,  considerando  la  evaluación  del  desempeño.  Cesarán en  sus  funciones  los  siete  que  menor  puntuación  alcanzaron.  A  los  seis años,  cuando  se  produzca  la  siguiente  renovación  parcial,  los  siete magistrados  que  deban  salir  serán  los  siete  menos  puntuados  en  la evaluación  de  los  catorce  restantes  del  primer  grupo.  Los  siete  mejores durarán nueve años en funciones.
 
-##### Art.  24.(Estabilidad  de  los  funcionarios  judiciales)
+##### Art. 24.- (Estabilidad de los funcionarios judiciales)
 Se  garantiza  la estabilidad de los funcionarios judiciales, que no son de libre remoción, de la  Corte  Suprema  de  Justicia,  cortes  superiores  y  tribunales  distritales; serán reubicados en cargos de similar remuneración en la Corte Nacional de  Justicia, cortes provinciales y  tribunales,  respectivamente,  previo proceso de evaluación y selección.
 
 214
@@ -5405,7 +5884,7 @@ Se  garantiza  la estabilidad de los funcionarios judiciales, que no son de libr
 
 [[START OF PAGE 215]]
 
-##### Art. 25.(Corte Constitucional)
+##### Art. 25.- (Corte Constitucional)
 Una  vez constituidas las nuevas funciones  Legislativa,  Ejecutiva  y  de  Transparencia  y  Control  Social,  se organizará  la  comisión  calificadora  que  designará  a  las  magistradas  y magistrados que integrarán la primera Corte Constitucional.
 
 Cada función propondrá al menos nueve (9) candidatos.
@@ -5414,17 +5893,17 @@ Las normas y procedimientos del concurso serán dictadas por el Consejo de Parti
 
 Cuando corresponda la renovación del primer tercio de las magistradas y magistrados que integran la Corte, se escogerán por sorteo quienes deban cesar en sus funciones. Cuando se renueve el segundo tercio el sorteo será entre las seis (6) magistradas y magistrados restantes de los designados la primera vez.
 
-##### Art. 26.
+##### Art. 26.-
 Los empleados del Tribunal Constitucional con excepción de los de  libre  nombramiento  y  remoción,  podrán  continuar  prestando  sus servicios  en  la  Corte  Constitucional,  previo  proceso  de  evaluación  y selección.
 
-##### Art.  27.(Transición  de  otras  entidades)
+##### Art. 27.- (Transición de otras entidades)
 Los  integrantes  del  Consejo Nacional  de  la  Judicatura,  Tribunal  Constitucional  y  Tribunal  Supremo Electoral  terminarán  sus  períodos  cuando  se  posesionen  los  vocales  del nuevo Consejo de la Judicatura, los miembros de la Corte Constitucional, los consejeros y consejeras del Consejo Nacional Electoral y los integrantes del Tribunal Contencioso Electoral. Su selección se realizará conforme las normas del Régimen de Transición y de la Constitución.
 
-##### Art. 28.(Vigencia de las designaciones provisionales)
+##### Art. 28.- (Vigencia de las designaciones provisionales)
 Las designaciones  provisionales  efectuadas  por  la  Asamblea  Constituyente para  el  ejercicio  de  las  funciones  de:  Contralor  General  del  Estado, Procurador  General  del  Estado,  Ministro  Fiscal  General,  Defensor  del Pueblo,  Superintendentes  de  Telecomunicaciones,  Compañías,  Bancos  y Seguros  se  mantendrán  vigentes  hasta  que,  de  acuerdo  con  las  normas constitucionales, se proceda a la designación de sus reemplazos.
 
-##### Art.  29.(Consejo  de  Participación  Ciudadana  y  Control  Social)
-La Comisión Legislativa, en el plazo de los quince (15) días posteriores a su conformación, iniciará el concurso público de oposición y méritos para la designación  de  los  miembros  del  Consejo  de  Participación  Ciudadana  y Control Social. Una vez constituido este Consejo organizará las correspondientes comisiones ciudadanas seleccionadoras para escoger las autoridades y funcionarios que establecen la Constitución y la ley.
+##### Art. 29.- (Consejo de Participación Ciudadana y Control Social)
+La Comisión Legislativa, en el plazo de los quince (15) días posteriores a su conformación, iniciará el concurso público de oposición y méritos para la designación  de  los  miembros  del  Consejo  de  Participación  Ciudadana  y Control Social. Una vez constituido este Consejo organizará las
 
 215
 
@@ -5432,13 +5911,15 @@ La Comisión Legislativa, en el plazo de los quince (15) días posteriores a su 
 
 [[START OF PAGE 216]]
 
+correspondientes comisiones ciudadanas seleccionadoras para escoger las autoridades y funcionarios que establecen la Constitución y la ley.
+
 Mientras se dicta la ley, el Consejo de Participación Ciudadana y Control Social,  reglamentará  la  conformación  de  las  comisiones  ciudadanas  de selección  y  dictará  las  normas  de  cada  concurso,  los  mismos  que  serán convocados luego de la posesión de los dignatarios de elección popular a los que hace referencia el Régimen de Transición.
 
 Tendrá también la potestad de designar a los representantes de la Función de Transparencia y Control Social, en las comisiones ciudadanas seleccionadoras.
 
 El  Consejo  de  Participación  Ciudadana  y  Control  Social,  en  el  plazo  de ciento veinte (120) días, contados desde su posesión, preparará el proyecto de  ley  orgánica  que  regule  su  organización  y  funcionamiento,  propuesta que pasará para consideración de la Asamblea Nacional.
 
-##### Art.  30.
+##### Art. 30.-
 Los  servidores  públicos  de  la  Comisión  de  Control  Cívico  de  la Corrupción y de la Secretaría Nacional Anticorrupción, que no son de libre nombramiento  y  remoción,  pasarán  a  formar  parte  del  Consejo  de Participación Ciudadana y Control Social.
 
 Los bienes de la Comisión de Control Cívico de la Corrupción pasarán a formar  parte  del  patrimonio  del  Consejo  de  Participación  Ciudadana  y Control Social.
@@ -5452,6 +5933,12 @@ Los bienes de la Comisión de Control Cívico de la Corrupción pasarán a forma
 ## DISPOSICIÓN FINAL
 
 Esta  Constitución,  aprobada  en  referéndum  por  el  pueblo  ecuatoriano, entrará en vigencia el día de su publicación en el Registro Oficial.
+
+FERNANDO CORDERO CUEVA
+Presidente de la Asamblea Constituyente
+
+DR. FRANCISCO VERGARA O.
+Secretario de la Asamblea Constituyente
 
 217
 
