@@ -1,5 +1,4 @@
 [[START OF PAGE 1]]
-
 Türkiye Cumhuriyeti Anayasasi
 
 # TÜRKİYE CUMHURİYETİ ANAYASASI (1)(2)
@@ -28,18 +27,14 @@ Hiçbir faaliyetin Türk milli menfaatlerinin, Türk varlığının, Devleti ve 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
-
 ilke ve inkılapları ve medeniyetçiliğinin karşısında korunma göremeyeceği ve laiklik ilkesinin gereği olarak kutsal din duygularının, Devlet işlerine ve politikaya kesinlikle karıştırılamayacağı; (4)
 
 Her Türk vatandaşının bu Anayasadaki temel hak ve hürriyetlerden eşitlik ve sosyal adalet gereklerince yararlanarak milli kültür, medeniyet ve hukuk düzeni içinde onurlu bir hayat sürdürme ve maddi ve manevi varlığını bu yönde geliştirme hak ve yetkisine doğuştan sahip olduğu;
 
 ––––––––––––––
 (1) Bu Anayasa; Kurucu Meclis tarafından 18/10/1982’de Halkoylamasına sunulmak üzere kabul edilmiş ve 20/10/1982 tarihli ve 17844 sayılı Resmi Gazete’de yayımlanmış; 7/11/1982’de Halkoylamasına sunulduktan sonra 9/11/1982 tarihli ve 17863 Mükerrer sayılı Resmi Gazete’de yeniden yayımlanmıştır.
-
 (2) 7/5/2010 tarihli ve 5982 sayılı Kanun ile yapılan Anayasa değişiklikleri 12/9/2010 tarihinde Halkoyuna sunularak kabul edilmiş, buna ilişkin 22/9/2010 tarihli ve 846 sayılı Yüksek Seçim Kurulu Kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.
-
 (3) Anayasa’nın Başlangıç metni 23/7/1995 tarih ve 4121 sayılı Kanun’un 1 inci maddesi ile değiştirilmiş ve metne işlenmiştir.
-
 (4) Bu fıkrada geçen, “Hiçbir düşünce ve mülahazanın” ibaresi, 3/10/2001 tarih ve 4709 sayılı Kanunun 1 inci maddesiyle “Hiçbir faaliyetin” şeklinde değiştirilmiş ve metne işlenmiştir.
 
 Sayfa 1
@@ -49,11 +44,9 @@ Sayfa 1
 Topluca Türk vatandaşlarının milli gurur ve iftiharlarda, milli sevinç ve kederlerde, milli varlığa karşı hak ve ödevlerde, nimet ve külfetlerde ve millet hayatının her türlü tecellisinde ortak olduğu, birbirinin hak ve hürriyetlerine kesin saygı, karşılıklı içten sevgi ve kardeşlik duygularıyla ve "Yurtta sulh, cihanda sulh" arzu ve inancı içinde, huzurlu bir hayat talebine hakları bulunduğu;
 
 FİKİR, İNANÇ VE KARARIYLA anlaşılmak, sözüne ve ruhuna bu yönde saygı ve mutlak sadakatle yorumlanıp uygulanmak üzere.
-
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
-
 TÜRK MİLLETİ TARAFINDAN, demokrasiye aşık Türk evlatlarının vatan ve millet sevgisine emanet ve tevdi olunur.
 
 ## BİRİNCİ KISIM GENEL ESASLAR
@@ -83,11 +76,9 @@ Madde 4 – Anayasanın 1 inci maddesindeki Devletin şeklinin Cumhuriyet olduğ
 #### V. Devletin temel amaç ve görevleri
 
 Madde 5 – Devletin temel amaç ve görevleri, Türk milletinin bağımsızlığını ve bütünlüğünü, ülkenin bölünmezliğini, Cumhuriyeti ve demokrasiyi korumak, kişilerin ve toplumun refah, huzur ve mutluluğunu sağlamak; kişinin temel hak ve hürriyetlerini, sosyal hukuk devleti ve adalet ilkeleriyle bağdaşmayacak surette sınırlayan siyasal, ekonomik ve sosyal engelleri kaldırmaya, insanın maddi ve manevi varlığının gelişmesi için gerekli şartları hazırlamaya çalışmaktır.
-
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
-
 #### VI. Egemenlik
 
 Madde 6 – Egemenlik, kayıtsız şartsız Milletindir.
@@ -123,11 +114,9 @@ Madde 10 – Herkes, dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inan�
 (Ek fıkra: 7/5/2010-5982/1 md.) Çocuklar, yaşlılar, özürlüler, harp ve vazife şehitlerinin dul ve yetimleri ile malul ve gaziler için alınacak tedbirler eşitlik ilkesine aykırı sayılmaz.
 
 Hiçbir kişiye, aileye, zümreye veya sınıfa imtiyaz tanınamaz.
-
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
 Devlet organları ve idare makamları bütün işlemlerinde (…)(1) kanun önünde eşitlik ilkesine uygun olarak hareket etmek zorundadırlar. (1)
 
 #### XI. Anayasanın bağlayıcılığı ve üstünlüğü
@@ -157,13 +146,10 @@ Temel hak ve hürriyetler, özlerine dokunulmaksızın yalnızca Anayasanın ilg
 Madde 14 – (Değişik: 3/10/2001-4709/3 md.)
 
 Anayasada yer alan hak ve hürriyetlerden hiçbiri, Devletin ülkesi ve milletiyle bölünmez bütünlüğünü bozmayı ve insan haklarına dayanan demokratik ve lâik Cumhuriyeti ortadan kaldırmayı amaçlayan faaliyetler biçiminde kullanılamaz.
-
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
-
 –––––––––––––––
-
 (1) 9/2/2008 tarihli ve 5735 sayılı Kanunun 1 inci maddesiyle; bu fıkraya “bütün işlemlerinde” ibaresinden sonra gelmek üzere “ve her türlü kamu hizmetlerinden yararlanılmasında” ibaresi eklenmiş ve metne işlenmiştir. Daha sonra aynı ibare; Anayasa Mahkemesi’nin 5/6/2008 tarihli ve E.: 2008/16, K.: 2008/116 sayılı Kararı ile iptal edilmiştir.
 
 Sayfa 3
@@ -185,11 +171,9 @@ Birinci fıkrada belirlenen durumlarda da, savaş hukukuna uygun fiiller sonucu 
 Madde 16 – Temel hak ve hürriyetler, yabancılar için, milletlerarası hukuka uygun olarak kanunla sınırlanabilir.
 
 ### İKİNCİ BÖLÜM KİŞİNİN HAKLARI VE ÖDEVLERİ
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
 #### I. Kişinin dokunulmazlığı, maddi ve manevi varlığı
 
 Madde 17 – Herkes, yaşama, maddi ve manevi varlığını koruma ve geliştirme hakkına sahiptir.
@@ -207,7 +191,6 @@ Madde 18 – Hiç kimse zorla çalıştırılamaz. Angarya yasaktır.
 Şekil ve şartları kanunla düzenlenmek üzere hükümlülük veya tutukluluk süreleri içindeki çalıştırmalar; olağanüstü hallerde vatandaşlardan istenecek hizmetler; ülke ihtiyaçlarının zorunlu kıldığı alanlarda öngörülen vatandaşlık ödevi niteliğindeki beden ve fikir çalışmaları, zorla çalıştırma sayılmaz.
 
 ___________________
-
 (1) 7/5/2004 tarihli ve 5170 sayılı Kanunun 2 nci maddesiyle, 15 inci maddenin ikinci fıkrasında yer alan “ile, ölüm cezalarının infazı” ve aynı Kanunun 3 üncü maddesiyle de 17 nci maddenin dördüncü fıkrasının başında geçen, ”Mahkemelerce verilen ölüm cezalarının yerine getirilmesi hali ile” ibareleri madde metinlerinden çıkartılmıştır.
 
 Sayfa 4
@@ -217,11 +200,9 @@ Sayfa 4
 #### III. Kişi hürriyeti ve güvenliği
 
 Madde 19 – Herkes, kişi hürriyeti ve güvenliğine sahiptir.
-
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
-
 Şekil ve şartları kanunda gösterilen:
 
 Mahkemelerce verilmiş hürriyeti kısıtlayıcı cezaların ve güvenlik tedbirlerinin yerine getirilmesi; bir mahkeme kararının veya kanunda öngörülen bir yükümlülüğün gereği olarak ilgilinin yakalanması veya tutuklanması; bir küçüğün gözetim altında ıslahı veya yetkili merci önüne çıkarılması için verilen bir kararın yerine getirilmesi; toplum için tehlike teşkil eden bir akıl hastası, uyuşturucu madde veya alkol tutkunu, bir serseri veya hastalık yayabilecek bir kişinin bir müessesede tedavi, eğitim veya ıslahı için kanunda belirtilen esaslara uygun olarak alınan tedbirin yerine getirilmesi; usulüne aykırı şekilde ülkeye girmek isteyen veya giren, ya da hakkında sınır dışı etme yahut geri verme kararı verilen bir kişinin yakalanması veya tutuklanması; halleri dışında kimse hürriyetinden yoksun bırakılamaz.
@@ -241,11 +222,9 @@ Her ne sebeple olursa olsun, hürriyeti kısıtlanan kişi, kısa sürede durumu
 (Değişik: 3/10/2001-4709/4 md.) Bu esaslar dışında bir işleme tâbi tutulan kişilerin uğradıkları zarar, tazminat hukukunun genel prensiplerine göre, Devletçe ödenir.
 
 #### IV. Özel hayatın gizliliği ve korunması
-
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
-
 ##### A. Özel hayatın gizliliği
 
 Madde 20 – Herkes, özel hayatına ve aile hayatına saygı gösterilmesini isteme hakkına sahiptir. Özel hayatın ve aile hayatının gizliliğine dokunulamaz. (Üçüncü cümle mülga: 3/10/2001-4709/5 md.)
@@ -265,11 +244,9 @@ Madde 21 – (Değişik: 3/10/2001-4709/6 md.)
 Kimsenin konutuna dokunulamaz. Millî güvenlik, kamu düzeni, suç işlenmesinin önlenmesi, genel sağlık ve genel ahlâkın korunması veya başkalarının hak ve özgürlüklerinin korunması sebeplerinden biri veya birkaçına bağlı olarak usulüne göre verilmiş hâkim kararı olmadıkça; yine bu sebeplere bağlı olarak gecikmesinde sakınca bulunan hallerde de kanunla yetkili kılınmış merciin yazılı emri bulunmadıkça; kimsenin konutuna girilemez, arama yapılamaz ve buradaki eşyaya el konulamaz. Yetkili merciin kararı yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını el koymadan itibaren kırksekiz saat içinde açıklar; aksi halde, el koyma kendiliğinden kalkar.
 
 ##### C.Haberleşme hürriyeti
-
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
-
 Madde 22 – (Değişik: 3/10/2001-4709/7 md.)
 
 Herkes, haberleşme hürriyetine sahiptir. Haberleşmenin gizliliği esastır.
@@ -301,11 +278,9 @@ Madde 24 – Herkes, vicdan, dini inanç ve kanaat hürriyetine sahiptir.
 Kimse, ibadete, dini ayin ve törenlere katılmaya, dini inanç ve kanaatlerini açıklamaya zorlanamaz; dini inanç ve kanaatlerinden dolayı kınanamaz ve suçlanamaz.
 
 Din ve ahlak eğitim ve öğretimi Devletin gözetim ve denetimi altında yapılır. Din kültürü ve ahlak öğretimi ilk ve ortaöğretim kurumlarında okutulan zorunlu dersler arasında yer alır. Bunun dışındaki din eğitim ve öğretimi ancak, kişilerin kendi isteğine, küçüklerin de kanuni temsilcisinin talebine bağlıdır.
-
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
-
 Kimse, Devletin sosyal, ekonomik, siyasi veya hukuki temel düzenini kısmen de olsa, din kurallarına dayandırma veya siyasi veya kişisel çıkar yahut nüfuzsağlama amacıyla her ne suretle olursa olsun dini veya din duygularını yahut dince kutsal sayılan şeyleri istismar edemez ve kötüye kullanamaz.
 
 Sayfa 6
@@ -331,11 +306,9 @@ Haber ve düşünceleri yayma araçlarının kullanılmasına ilişkin düzenley
 (Ek: 3/10/2001-4709/9 md.) Düşünceyi açıklama ve yayma hürriyetinin kullanılmasında uygulanacak şekil, şart ve usuller kanunla düzenlenir.
 
 #### IX. Bilim ve sanat hürriyeti
-
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
-
 Madde 27 – Herkes, bilim ve sanatı serbestçe öğrenme ve öğretme, açıklama, yayma ve bu alanlarda her türlü araştırma hakkına sahiptir.
 
 Yayma hakkı, Anayasanın 1 inci, 2 nci ve 3 üncü maddeleri hükümlerinin değiştirilmesini sağlamak amacıyla kullanılamaz.
@@ -363,11 +336,9 @@ Sayfa 7
 Yargılama görevinin amacına uygun olarak yerine getirilmesi için, kanunla belirtilecek sınırlar içinde, hakim tarafından verilen kararlar saklı kalmak üzere, olaylar hakkında yayım yasağı konamaz.
 
 Süreli veya süresiz yayınlar, kanunun gösterdiği suçların soruşturma veya kovuşturmasına geçilmiş olması hallerinde hakim kararıyla; Devletin ülkesi ve milletiyle
-
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
-
 bölünmez bütünlüğünün, milli güvenliğin, kamu düzeninin, genel ahlakın korunması ve suçların önlenmesi bakımından gecikmesinde sakınca bulunan hallerde de kanunun açıkça yetkili kıldığı merciin emriyle toplatılabilir. Toplatma kararı veren yetkili merci, bu kararını en geç yirmidört saat içinde yetkili hakime bildirir; hakim bu kararı en geç kırksekiz saat içinde onaylamazsa, toplatma kararı hükümsüz sayılır.
 
 Süreli veya süresiz yayınların suç soruşturma veya kovuşturması sebebiyle zapt ve müsaderesinde genel hükümler uygulanır.
@@ -393,11 +364,9 @@ Kanuna uygun şekilde basın işletmesi olarak kurulan basımevi ve eklentileri 
 ##### D. Kamu tüzel kişilerinin elindeki basın dışı kitle haberleşme araçlarından yararlanma hakkı
 
 Madde 31 – Kişiler ve siyasi partiler, kamu tüzel kişilerinin elindeki basın dışı kitle haberleşme ve yayım araçlarından yararlanma hakkına sahiptir. Bu yararlanmanın şartları ve usulleri kanunla düzenlenir.
-
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
 (Değişik: 3/10/2001-4709/11 md.) Kanun, millî güvenlik, kamu düzeni, genel ahlâk ve sağlığın korunması sebepleri dışında, halkın bu araçlarla haber almasını, düşünce ve kanaatlere ulaşmasını ve kamuoyunun serbestçe oluşmasını engelleyici kayıtlar koyamaz.
 
 Sayfa 8
@@ -425,11 +394,9 @@ Dernek kurma hürriyeti ancak, millî güvenlik, kamu düzeni, suç işlenmesini
 Dernek kurma hürriyetinin kullanılmasında uygulanacak şekil, şart ve usuller kanunda gösterilir.
 
 Dernekler, kanunun öngördüğü hallerde hâkim kararıyla kapatılabilir veya faaliyetten alıkonulabilir. Ancak, millî güvenliğin, kamu düzeninin, suç işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği hallerde gecikmede sakınca varsa, kanunla bir merci, derneği faaliyetten men ile yetkilendirilebilir. Bu merciin kararı, yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim, kararını kırksekiz saat içinde açıklar; aksi halde, bu idarî karar kendiliğinden yürürlükten kalkar.
-
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
 Birinci fıkra hükmü, Silahlı Kuvvetler ve kolluk kuvvetleri mensuplarına ve görevlerinin gerektirdiği ölçüde Devlet memurlarına kanunla sınırlamalar getirilmesine engel değildir.
 
 Bu madde hükümleri vakıflarla ilgili olarak da uygulanır.
@@ -465,11 +432,9 @@ Madde 36 – Herkes, meşru vasıta ve yollardan faydalanmak suretiyle yargı me
 Hiçbir mahkeme, görev ve yetkisi içindeki davaya bakmaktan kaçınamaz.
 
 ##### B. Kanuni hakim güvencesi
-
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
 Madde 37 – Hiç kimse kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarılamaz.
 
 Bir kimseyi kanunen tabi olduğu mahkemeden başka bir merci önüne çıkarma sonucunu doğuran yargı yetkisine sahip olağanüstü merciler kurulamaz.
@@ -501,11 +466,9 @@ Ceza sorumluluğu şahsidir.
 (Değişik son fıkra: 7/5/2004-5170/5 md.) Uluslararası Ceza Divanına taraf olmanın gerektirdiği yükümlülükler hariç olmak üzere vatandaş, suç sebebiyle yabancı bir ülkeye verilemez.
 
 #### XIV. İspat hakkı
-
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
-
 Madde 39 – Kamu görev ve hizmetinde bulunanlara karşı, bu görev ve hizmetin yerine getirilmesiyle ilgili olarak yapılan isnatlardan dolayı açılan hakaret davalarında, sanık, isnadın doğruluğunu ispat hakkına sahiptir. Bunun dışındaki hallerde ispat isteminin kabulü, ancak isnat olunan fiilin doğru olup olmadığının anlaşılmasında kamu yararı bulunmasına veya şikayetçinin ispata razı olmasına bağlıdır.
 
 #### XV. Temel hak ve hürriyetlerin korunması
@@ -515,7 +478,6 @@ Madde 40 – Anayasa ile tanınmış hak ve hürriyetleri ihlal edilen herkes, y
 (Ek:3/10/2001-4709/16 md) Devlet, işlemlerinde, ilgili kişilerin hangi kanun yolları ve mercilere başvuracağını ve sürelerini belirtmek zorundadır.
 
 ________________
-
 (1) Bu fıkraya, 3/10/2001 tarih ve 4709 sayılı Kanunun 14 üncü maddesiyle “savunma” ibaresinden sonra gelmek üzere “ile adil yargılanma” ibaresi eklenmiş ve metne işlenmiştir.
 
 Sayfa 10
@@ -531,11 +493,9 @@ Kişinin, resmi görevliler tarafından vaki haksız işlemler sonucu uğradığ
 Madde 41 – Aile, Türk toplumunun temelidir ve eşler arasında eşitliğe dayanır. (2)
 
 Devlet, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması ve aile planlamasının öğretimi ile uygulanmasını sağlamak için gerekli tedbirleri alır, teşkilatı kurar.
-
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
-
 (Ek fıkra: 7/5/2010-5982/4 md.) Her çocuk, korunma ve bakımdan yararlanma, yüksek yararına açıkça aykırı olmadıkça, ana ve babasıyla kişisel ve doğrudan ilişki kurma ve sürdürme hakkına sahiptir.
 
 (Ek fıkra: 7/5/2010-5982/4 md.) Devlet, her türlü istismara ve şiddete karşı çocukları koruyucu tedbirleri alır.
@@ -563,13 +523,10 @@ Eğitim ve öğretim kurumlarında sadece eğitim, öğretim, araştırma ve inc
 Türkçeden başka hiçbir dil, eğitim ve öğretim kurumlarında Türk vatandaşlarına ana dilleri olarak okutulamaz ve öğretilemez. Eğitim ve öğretim kurumlarında okutulacak yabancı diller ile yabancı dille eğitim ve öğretim yapan okulların tabi olacağı esaslar kanunla düzenlenir. Milletlerarası andlaşma hükümleri saklıdır.
 
 ––––––––––
-
 (1) Bu maddenin kenar başlığı “I. Ailenin korunması” iken, 7/5/2010 tarihli ve 5982 sayılı Kanunun 4 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
-
 (2) Bu fıkraya, 3/10/2001 tarih ve 4709 sayılı Kanunun 17 nci maddesiyle ,”ve eşler arasında eşitliğe dayanır”ibaresi eklenmiş ve metne işlenmiştir.
 
 Sayfa 11
@@ -599,11 +556,9 @@ Bu amaçla dağıtılan topraklar bölünemez, miras hükümleri dışında baş
 Madde 45 – Devlet, tarım arazileri ile çayır ve mer'aların amaç dışı kullanılmasını ve tahribini önlemek, tarımsal üretim planlaması ilkelerine uygun olarak bitkisel ve hayvansal üretimi artırmak maksadıyla, tarım ve hayvancılıkla uğraşanların işletme araç ve gereçlerinin ve diğer girdilerinin sağlanmasını kolaylaştırır.
 
 Devlet, bitkisel ve hayvansal ürünlerin değerlendirilmesi ve gerçek değerlerinin üreticinin eline geçmesi için gereken tedbirleri alır.
-
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
-
 ##### D. Kamulaştırma
 
 Madde 46 – (Değişik:3/10/2001-4709/18 md)
@@ -629,11 +584,9 @@ Devletleştirme gerçek karşılığı üzerinden yapılır. Gerçek karşılı�
 (Ek:13/8/1999-4446/1 md.) Devletin, kamu iktisadi teşebbüslerinin ve diğer kamu tüzelkişilerinin mülkiyetinde bulunan işletme ve varlıkların özelleştirilmesine ilişkin esas ve usuller kanunla gösterilir.
 
 (Ek:13/8/1999-4446/1 md.) Devlet, kamu iktisadi teşebbüsleri ve diğer kamu tüzelkişileri tarafından yürütülen yatırım ve hizmetlerden hangilerinin özel hukuk sözleşmeleri ile gerçek veya tüzelkişilere yaptırabileceği veya devredebileceği kanunla belirlenir.
-
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
-
 #### IV. Çalışma ve sözleşme hürriyeti
 
 Madde 48 – Herkes,dilediği alanda çalışma ve sözleşme hürriyetlerine sahiptir. Özel teşebbüsler kurmak serbesttir.
@@ -654,15 +607,10 @@ Devlet, özel teşebbüslerin milli ekonominin gereklerine ve sosyal amaçlara u
 
 
 
-
-
-
 ––––––––––––
-
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
-
 (1) Bu maddenin kenar başlığı “E Devletleştirme“iken 13/8/1999 tarih ve 4446 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 13
@@ -692,11 +640,9 @@ Küçükler ve kadınlar ile bedeni ve ruhi yetersizliği olanlar çalışma şa
 Dinlenmek, çalışanların hakkıdır.
 
 Ücretli hafta ve bayram tatili ile ücretli yıllık izin hakları ve şartları kanunla düzenlenir.
-
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
-
 ##### C. Sendika kurma hakkı
 
 Madde 51 – (Değişik: 3/10/2001-4709/20 md.)
@@ -730,11 +676,9 @@ Toplu iş sözleşmesinin nasıl yapılacağı kanunla düzenlenir.
 (Mülga dördüncü fıkra: 7/5/2010-5982/6 md.)
 
 –––––––––––––
-
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
 (1) Bu maddenin kenar başlığı “A. Toplu iş sözleşmesi hakkı” iken, 7/5/2010 tarihli ve 5982 sayılı Kanunun 6 ncı maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 15
@@ -762,11 +706,9 @@ Grev ve lokavtın yasaklandığı hallerde veya ertelendiği durumlarda erteleme
 Yüksek hakem kurulunun kuruluş ve görevleri kanunla düzenlenir.
 
 (Mülga yedinci fıkra: 7/5/2010-5982/7 md.)
-
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
-
 Greve katılmayanların işyerinde çalışmaları, greve katılanlar tarafından hiç bir şekilde engellenemez.
 
 #### VII. Ücrette adalet sağlanması
@@ -800,7 +742,6 @@ Sağlık hizmetlerinin yaygın bir şekilde yerine getirilmesi için kanunla gen
 Madde 57 – Devlet, şehirlerin özelliklerini ve çevre şartlarını gözeten bir planlama çerçevesinde, konut ihtiyacını karşılayacak tedbirleri alır, ayrıca toplu konut teşebbüslerini destekler.
 
 #### IX. Gençlik ve spor
-
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
@@ -867,7 +808,7 @@ Devlet, sosyal ve ekonomik alanlarda Anayasa ile belirlenen görevlerini, bu gö
 
 (1) Bu kenar başlığı “Sporun geliştirilmesi” iken, 17/3/2011 tarihli ve 6214 sayılı Kanunun 1 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
-(2) Bu kenar başlığı ”Sosyal ve ekonomik hakların sınırı” iken, 3/10/2001 tarihli ve 4709 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
+(2) Bu kenar başlığı “Sosyal ve ekonomik hakların sınırı” iken, 3/10/2001 tarihli ve 4709 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
 
 Sayfa 17
 
@@ -1059,11 +1000,11 @@ Türkiye Büyük Millet Meclisi genel oyla seçilen beşyüzelli milletvekilinde
 
 Madde 76 – Yirmibeş yaşını dolduran her Türk milletvekili seçilebilir.(1)
 
-En az ilkokul mezunu olmayanlar, kısıtlılar, yükümlü olduğu askerlik hizmetini yapmamış olanlar, kamu hizmetinden yasaklılar, taksirli suçlar hariç toplam bir yıl veya daha fazla hapis ile ağır hapis cezasına hüküm giymiş olanlar; zimmet, ihtilas, irtikap, rüşvet, hırsızlık, dolandırıcılık, sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlarla, kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma, (Değişik ibare: 27/12/2002-4777/1 md.) terör eylemlerine katılma ve bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş olanlar, affa uğramış olsalar bile milletvekili seçilemezler.(2)
+En az ilkokul mezunu olmayanlar, kısıtlılar, yükümlü olduğu askerlik hizmetini yapmamış olanlar, kamu hizmetinden yasaklılar, taksirli suçlar hariç toplam bir yıl veya daha fazla hapis ile ağır hapis cezasına hüküm giymiş olanlar; zimmet, ihtilas, irtikap, rüşvet, hırsızlık, dolandırıcılık,sahtecilik, inancı kötüye kullanma, dolanlı iflas gibi yüz kızartıcı suçlarla, kaçakçılık, resmi ihale ve alım satımlara fesat karıştırma, Devlet sırlarını açığa vurma, (Değişik ibare: 27/12/2002-4777/1 md.) terör eylemlerine katılma ve bu gibi eylemleri tahrik ve teşvik suçlarından biriyle hüküm giymiş olanlar, affa uğramış olsalar bile milletvekili seçilemezler.(2)
 
 _______________
 
-(1) Bu fıkrada geçen “Otuz“ ibaresi, 13/10/2006 tarihli ve 5551 sayılı Kanunun 1 inci maddesiyle “Yirmibeş“ olarak değiştirilmiş ve metne işlenmiştir.
+(1) Bu fıkrada geçen “Otuz” ibaresi, 13/10/2006 tarihli ve 5551 sayılı Kanunun 1 inci maddesiyle “Yirmibeş” olarak değiştirilmiş ve metne işlenmiştir.
 
 (2) Bu fıkrada geçen “ideolojik veya anarşik eylemlere” ibaresi, 27/12/2002 tarihli ve 4777 sayılı Kanunla “terör eylemlerine” şeklinde değiştirilmiş ve metne işlenmiştir.
 
@@ -1111,7 +1052,7 @@ Seçimlerin başlamasından bitimine kadar, seçimin düzen içinde yönetimi ve
 
 ––––––––––––––––
 
-(1) 31/5/2007 tarihli ve 5678 sayılı Kanunun 1 inci maddesiyle; 77 nci maddenin birinci fıkrasında geçen “beş” ibaresi “dört” olarak değiştirilmiş, 2 nci maddesiyle, 79 uncu maddenin ikinci fıkrasında geçen "seçim tutanaklarını" ibaresinden sonra gelmek üzere "ve Cumhurbaşkanlığı seçimi tutanaklarını" ibaresi eklenmiş ve metne işlenmiştir.
+(1) 31/5/2007 tarihli ve 5678 sayılı Kanunun 1 inci maddesiyle; 77 nci maddenin birinci fıkrasında geçen “beş” ibaresi “dört” olarak değiştirilmiş, 2 nci maddesiyle, 79 uncu maddenin ikinci fıkrasında geçen “seçim tutanaklarını” ibaresinden sonra gelmek üzere “ve Cumhurbaşkanlığı seçimi tutanaklarını” ibaresi eklenmiş ve metne işlenmiştir.
 
 (2) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik 31/5/2007 tarihli ve 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.
 
@@ -1141,7 +1082,7 @@ Madde 80 – Türkiye Büyük Millet Meclisi üyeleri, seçildikleri bölgeyi ve
 
 Madde 81 – Türkiye Büyük Millet Meclisi üyeleri, göreve başlarken aşağıdaki şekilde andiçerler:
 
-“Devletin varlığı ve bağımsızlığını, vatanın ve milletin bölünmez bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma; hukukun üstünlüğüne, demokratik ve laik Cumhuriyete ve Atatürk ilke ve inkılaplarına bağlı kalacağıma; toplumun huzur ve refahı, milli dayanışma ve adalet anlayışı içinde herkesin insan haklarından ve temel hürriyetlerden yararlanması ülküsünden ve Anayasaya sadakattan ayrılmayacağıma; büyük Türk milleti önünde namusum ve şerefim üzerine andiçerim”.
+“Devletin varlığı ve bağımsızlığını vatanın ve milletin bölünmez bütünlüğünü, milletin kayıtsız ve şartsız egemenliğini koruyacağıma; hukukun üstünlüğüne, demokratik ve laik Cumhuriyete ve Atatürk ilke ve inkılaplarına bağlı kalacağıma; toplumun huzur ve refahı, milli dayanışma ve adalet anlayışı içinde herkesin insan haklarından ve temel hürriyetlerden yararlanması ülküsünden ve Anayasaya sadakattan ayrılmayacağıma; büyük Türk milleti önünde namusum ve şerefim üzerine andiçerim”.
 
 ––––––––––––––
 
@@ -1345,7 +1286,7 @@ Sayfa 27
 
 Türkiye Büyük Millet Meclisi Başkan adayları, Meclis üyeleri içinden, Meclisin toplandığı günden itibaren beş gün içinde, Başkanlık Divanına bildirilir, Başkan seçimi gizli oyla yapılır. İlk iki oylamada üye tamsayısının üçte iki ve üçüncü oylamada üye tamsayısının salt çoğunluğu aranır. Üçüncü oylamada salt çoğunluk sağlanamazsa, bu oylamada en çok oy alan iki aday için dördüncü oylama yapılır; dördüncü oylamada en fazla oy alan üye, Başkan seçilmiş olur. Başkan seçimi, aday gösterme süresinin bitiminden itibaren, beş gün içinde tamamlanır.(1)
 
-Türkiye Büyük Millet Meclisi Başkanvekillerinin, Katip Üyelerinin ve İdare Amirlerinin adedi, seçim nisabı, oylama sayısı ve usulleri, Meclis İçtüzüğünde belirlenir.
+Türkiye Büyük Millet Meclisi Başkanvekillerinin Katip Üyelerinin ve İdare Amirlerinin adedi, seçim nisabı, oylama sayısı ve usulleri, Meclis İçtüzüğünde belirlenir.
 
 Türkiye Büyük Millet Meclisi Başkanı, Başkanvekilleri, üyesi bulundukları siyasi partinin veya parti grubunun Meclis içinde veya dışındaki faaliyetlerine; görevlerinin gereği olan haller dışında, Meclis tartışmalarına katılamazlar; Başkan ve oturumu yöneten Başkanvekili oy kullanamazlar.
 
@@ -1389,7 +1330,7 @@ ___________________
 
 [[START OF PAGE 45]]
 
-(1)Bu fıkrada geçen; ”on gün içinde” ibaraleri, 3/10/2001 tarihli ve 4709 sayılı Kanunla “beş gün içinde”olarak değiştirilmiş ve metne işlenmiştir.
+(1)Bu fıkrada geçen; “on gün içinde” ibareleri, 3/10/2001 tarihli ve 4709 sayılı Kanunla “beş gün içinde” olarak değiştirilmiş ve metne işlenmiştir.
 
 (2) 23/5/1987 tarihli ve 3376 sayılı Anayasa Değişikliklerinin Halkoyuna Sunulması Hakkında Kanun gereğince, halkoyuna sunulmak üzere 16/6/2007 tarihli ve 26554 sayılı Resmi Gazete’de yayımlanan, 16/10/2007 tarihli ve 5697 sayılı Kanunla değişik 31/5/2007 tarihli ve 5678 sayılı Türkiye Cumhuriyeti Anayasasının Bazı Maddelerinde Değişiklik Yapılması Hakkında Kanun 21/10/2007 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu Kararı 31/10/2007 tarihli ve 26686 sayılı Resmi Gazete’de yayımlanmıştır.
 
@@ -1539,6 +1480,10 @@ Genelkurmay Başkanını atamak,
 
 Milli Güvenlik Kurulunu toplantıya çağırmak,
 
+[[END OF PAGE 49]]
+
+[[START OF PAGE 50]]
+
 Milli Güvenlik Kuruluna Başkanlık etmek,
 
 Başkanlığında toplanan Bakanlar Kurulu kararıyla sıkıyönetim veya olağanüstü hal ilan etmek ve kanun hükmünde kararname çıkarmak,
@@ -1554,10 +1499,6 @@ Devlet Denetleme Kuruluna inceleme, araştırma ve denetleme yaptırtmak,
 Yükseköğretim Kurulu üyelerini seçmek,
 
 Üniversite rektörlerini seçmek,
-
-[[END OF PAGE 49]]
-
-[[START OF PAGE 50]]
 
 ###### c) Yargı ile ilgili olanlar:
 
@@ -1617,7 +1558,9 @@ Bakanlar, Türkiye Büyük Millet Meclisi üyeleri veya milletvekili seçilme ye
 
 Madde 110 – Bakanlar Kurulunun listesi tam olarak Türkiye Büyük Millet Meclisine sunulur. Türkiye Büyük Millet Meclisi tatilde ise toplantıya çağrılır.
 
-Bakanlar Kurulunun programı, kuruluşundan en geç bir hafta içinde Başbakan veya bir bakan tarafından Türkiye Büyük Millet Meclisinde okunur ve güvenoyuna başvurulur. Güvenoyu için görüşmeler, programın okunmasından iki tam gün geçtikten sonra başlar ve görüşmelerin bitiminden bir tam gün geçtikten sonra oylama yapılır.
+Bakanlar Kurulunun programı, kuruluşundan en geç bir hafta içinde Başbakan veya bir bakan tarafından Türkiye Büyük Millet Meclisinde okunur ve güvenoyuna başvurulur.
+
+Güvenoyu için görüşmeler, programın okunmasından iki tam gün geçtikten sonra başlar ve görüşmelerin bitiminden bir tam gün geçtikten sonra oylama yapılır.
 
 ##### C. Görev sırasında güvenoyu
 
@@ -2529,7 +2472,7 @@ Orman olarak muhafazasında bilim ve fen bakımından hiçbir yarar görülmeyen
 
 ##### B. Orman köylüsünün korunması
 
-Madde 170 – Ormanlar içinde veya bitişiğindeki köyler halkının kalkındırılması, ormanların ve bütünlüğünün korunması bakımlarından, ormanın gözetilmesi ve işletilmesinde Devletle bu halkın işbirliğini sağlayıcı tedbirlerle, 31/12/1981 tarihinden önce bilim ve fen bakımından orman niteliğini tamamen kaybetmiş yerlerin değerlendirilmesi; bilim ve fen bakımından orman olarak muhafazasında yarar görülmeyen yerlerin tespiti ve orman sınırları dışına çıkartılması; orman içindeki köyler halkının kısmen veya tamamen bu yerlere yerleştirilmesi için Devlet eliyle anılan yerlerin ihya edilerek bu halkın yararlanmasına tahsisi kanunla düzenlenir.
+Madde 170- Ormanlar içinde veya bitişiğindeki köyler halkının kalkındırılması, ormanların ve bütünlüğünün korunması bakımlarından, ormanın gözetilmesi ve işletilmesinde Devletle bu halkın işbirliğini sağlayıcı tedbirlerle, 31/12/1981 tarihinden önce bilim ve fen bakımından orman niteliğini tamamen kaybetmiş yerlerin değerlendirilmesi; bilim ve fen bakımından orman olarak muhafazasında yarar görülmeyen yerlerin tespiti ve orman sınırları dışına çıkartılması; orman içindeki köyler halkının kısmen veya tamamen bu yerlere yerleştirilmesi için Devlet eliyle anılan yerlerin ihya edilerek bu halkın yararlanmasına tahsisi kanunla düzenlenir.
 
 Devlet, bu halkın işletme araç ve gereçleriyle diğer girdilerinin sağlanmasını kolaylaştırıcı tedbirleri alır.
 
@@ -2709,9 +2652,7 @@ b) Bu Kanunun yürürlüğe girdiği tarihten itibaren beş gün içinde, Türki
 
 c) (a) ve (b) bentleri uyarınca yapılan seçimlerin sonucunda aday gösterilmiş sayılanların isimleri seçimin yapıldığı günü takip eden gün Sayıştay ve Türkiye Barolar Birliği başkanlıklarınca Türkiye Büyük Millet Meclisi Başkanlığına bildirilir.
 
-ç) (c) bendi uyarınca yapılan bildirimden itibaren on gün içinde Türkiye Büyük Millet Meclisinde seçim yapılır. Her boş üyelik için yapılacak seçimde, ilk oylamada üye tamsayısının üçte iki ve ikinci oylamada üye tamsayısının salt çoğunluğu aranır; ikinci oylamada salt çoğunluk sağlanamazsa bu oylamada en çok oy alan iki aday için üçüncü
-
-oylama yapılır; üçüncü oylamada en fazla oy alan aday üye seçilmiş olur.
+ç) (c) bendi uyarınca yapılan bildirimden itibaren on gün içinde Türkiye Büyük Millet Meclisinde seçim yapılır. Her boş üyelik için yapılacak seçimde, ilk oylamada üye tamsayısının üçte iki ve ikinci oylamada üye tamsayısının salt çoğunluğu aranır; ikinci oylamada salt çoğunluk sağlanamazsa bu oylamada en çok oy alan iki aday için üçüncü oylama yapılır; üçüncü oylamada en fazla oy alan aday üye seçilmiş olur.
 
 –––––––––––––––––
 
@@ -2911,7 +2852,7 @@ Ayrı ayrı oylanır.
 
 Halkoylaması, ilk milletvekili genel seçimi ile birarada yapılır.
 
-### 2– 13/8/1999 tarih ve 4446 sayılı Kanunun hükmüdür.
+### 2- 13/8/1999 tarih ve 4446 sayılı Kanunun hükmüdür.
 
 Madde 4 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına sunulması halinde 1 inci maddesi ayrı, 2 ve 3 üncü maddeleri birlikte ayrı oylanır.
 
@@ -2919,7 +2860,7 @@ Madde 4 – Bu Kanun yayımı tarihinde yürürlüğe girer ve halk oylamasına 
 
 [[START OF PAGE 98]]
 
-### 3– 3/10/2001 tarih ve 4709 sayılı Kanunun hükümleridir.
+### 3- 3/10/2001 tarih ve 4709 sayılı Kanunun hükümleridir.
 
 Geçici Madde – A) Bu Kanunun 24 üncü maddesi ile Anayasanın 67 nci maddesine son fıkra olarak eklenen hüküm bu Kanunun yürürlüğe girmesinden sonra yapılacak ilk genel seçimde uygulanmaz.
 
@@ -2927,7 +2868,7 @@ B) Bu Kanunun 28 inci maddesi ile Anayasanın 87 nci maddesinde yapılan değiş
 
 Madde 35- Bu Kanun yayımı tarihinde yürürlüğe girer ve halkoylamasına sunulması halinde tümüyle oylanır.
 
-### 4– 27/12/2002 tarih ve 4777 sayılı Kanunun hükmüdür.
+### 4- 27/12/2002 tarih ve 4777 sayılı Kanunun hükmüdür.
 
 Geçici Madde 1- Türkiye Cumhuriyeti Anayasasının 67 nci maddesinin son fıkrası, Türkiye Büyük Millet Meclisinin 22 nci dönemi içinde yapılacak ilk ara seçimde uygulanmaz..
 
@@ -2947,20 +2888,13 @@ _______      _____________________________________________    ______________
 [[START OF PAGE 99]]
 
 3361    67, 75, 175, Geçici Madde 4    (Bu Kanun 6/9/1987 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 12/9/1987 tarihli ve 19572 sayılı Resmi Gazete’de yayımlanmıştır.)
-
 3913    –    10/7/1993
-
 4121    8 inci maddesi    İlk milletvekili genel seçiminin başlangıcı tarihinden itibaren
         Diğer hükümleri    26/7/1995
-
 4388    –    18/6/1999
-
 4446    –    14/8/1999
-
 4709    –    17/10/2001
-
 4720    –    1/12/2001
-
 4777    –    31/12/2002
 
 Sayfa 65
@@ -2968,11 +2902,8 @@ Sayfa 65
 182
 
 Değiştiren Kanun    2709 Sayılı Kanunun Değiştirilen Maddeleri    Yürürlüğe giriş tarihi
-
 5170    10, 15, 17, 30, 38, 87, 90, 131, 143 ve 160    22/5/2004
-
 5370    133    23/6/2005
-
 5428    130, 160, 161, 162 ve 163    9/11/2005
 
 [[END OF PAGE 99]]
@@ -2987,13 +2918,7 @@ Değiştiren Kanun    2709 Sayılı Kanunun Değiştirilen Maddeleri    Yürürl
 
 5735    10, 42    23/2/2008
 
-5982    10, 20, 23, 41, 51, 53, 54, 74, 84, 94,
-
-        125, 128, 129, 144, 145, 146, 147,
-
-        148, 149, 156, 157, 159, 166, Geçici
-
-        Madde 15,18 ve 19    (Bu Kanun 12/9/2010 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.)
+5982    10, 20, 23, 41, 51, 53, 54, 74, 84, 94, 125, 128, 129, 144, 145, 146, 147, 148, 149, 156, 157, 159, 166, Geçici Madde 15,18 ve 19    (Bu Kanun 12/9/2010 tarihinde yapılan halkoylaması sonucu kabul edilmiş ve buna ilişkin Yüksek Seçim Kurulu kararı 23/9/2010 tarihli ve 27708 sayılı Resmi Gazete’de yayımlanmıştır.)
 
 6214    59    29/3/2011
 
