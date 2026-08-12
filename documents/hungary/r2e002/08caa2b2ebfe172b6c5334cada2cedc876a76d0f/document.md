@@ -28,13 +28,15 @@ e) shall cover the establishment of internal organisational bylaws and operation
 
 f) shall  include  the  selection  of  the  heads  of  the  institution  by  means  of  an  application  scheme,  and  their democratic election,
 
-g) shall  ensure  the  possibility  of  autonomous  management  of  funds,  assets  and  property  provided  by  the maintainer or acquired through the activities of the institution, h) shall guarantee the functioning of the individual and community rights of students.
+g) shall ensure the possibility of autonomous management of funds, assets and property provided by the maintainer or acquired through the activities of the institution,
 
 1
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+h) shall guarantee the functioning of the individual and community rights of students.
 
 (4) In implementing the educational autonomy of the higher education institution, teachers shall be liable to perform their duties at high standards and in a state-of-the-art and objective manner.
 
@@ -90,7 +92,7 @@ Section 3 The  scope of this Act  extends  to  activities  in  the  domain  of  
 
 ### PRINCIPLES OF THE ACT
 
-Section 4 (1) The core activities of higher education institutions shall include education, research and artistic ally creative work.
+Section 4 (1) The core activities of higher education institutions shall include education, research and artistically creative work.
 
 (2)  The  core  educational  activity  of  the  higher  education  institution  shall  include  undergraduate  courses, graduate  courses,  doctorate  courses,  higher-level  vocational  training,  and  postgraduate  specialist  training courses. The tasks of higher education shall be undertaken by higher education institutions in compliance with the stipulations of this Act and in cooperation with each other and other actors of society, economy, research and the  artistic  sphere.  The  higher  education  institution  may  undertake  tasks  relating  to  public  education  and vocational training not qualifying as higher education, as well as other educational tasks specified in sectoral laws as defined herein as well as in Act LXXVI of 1993 on Vocational Education (hereinafter the ' Vocational Education Act'), Act LXXIX of 1993 on Public Education (hereinafter the ' Act on Public Education'), and Act CI of 2001 on Adult Education (hereinafter the ' Adult Education Act').
 
@@ -130,7 +132,7 @@ c) by a business organisation with registered seat in the territory of the Repub
 
 d) by a foundation or public foundation registered in the Republic of Hungary.
 
-(2) The right to exercise founder's rights may be transferred in line with the stipulations of this Act. The entity exercising founder's rights shall perform the tasks relating to the maintenance of the higher education institution (hereinafter the 'maintainer'; any maintainer other than the state hereinafter referred to as 'maintainer of a nonstate institution). If maintainer's rights are exercised jointly, issues pertaining to both exercising such rights and the fulfilment of obligations shall be laid down in an agreement.
+(2) The right to exercise founder's rights may be transferred in line with the stipulations of this Act. The entity exercising founder's rights shall perform the tasks relating to the maintenance of the higher education institution (hereinafter the 'maintainer'; any maintainer other than the state hereinafter referred to as 'maintainer of a non-state institution'). If maintainer's rights are exercised jointly, issues pertaining to both exercising such rights and the fulfilment of obligations shall be laid down in an agreement.
 
 (3)  The  higher  education  institution  operates  as  a  budgetary  organisation  if  it  is  maintained  by  the  entities specified in paragraph a) of subsection (1). The entities listed under paragraph a) of subsection (1) shall exercise maintainer's rights jointly, and entities listed under paragraphs b)-d) of subsection (1) may choose to exercise maintainer's rights jointly.
 
@@ -288,7 +290,7 @@ Section 17 (1) Based on an agreement, the maintainer's rights of the non-state i
 
 Section 18 (1) The higher education institution can operate either as a university or as a college.
 
-(2) The designation 'egyetem' (university) or 'f ő iskola' (college), and their equivalents in a foreign language may only be used by the higher education institutions listed in Annex 1 to this Act and by the foreign higher education institution operating in the territory of the Republic of Hungary pursuant to this Act.
+(2) The designation 'egyetem' (university) or 'főiskola' (college), and their equivalents in a foreign language may only be used by the higher education institutions listed in Annex 1 to this Act and by the foreign higher education institution operating in the territory of the Republic of Hungary pursuant to this Act.
 
 (3) The university is a higher education institution authorised to provide graduate courses in at least two fields of study, and to offer doctorate course as well as confer a doctoral degree in at least one discipline of science, two branches of science or one field of art provided that at least one third of the academic staff and researchers of the higher education institution (in employment relationship or public servant status) have a scientific degree.
 
@@ -392,7 +394,7 @@ members. Members of the financial board shall be required to have a higher educa
 
 [[START OF PAGE 10]]
 
-(5) The Minister of Education shall delegate two or three - according to the stipulations of subsection (3) members to the financial board, one member of which should be delegated based on the proposal of the Minister of Finance. At least one of the members delegated by the Minister of Education shall possess a higher education degree  corresponding  to  the  educational,  research,  and  artistic  activity  pursued  by  the  higher  education institution,  and  furthermore  shall have  at least five years of executive  experience  relevant  to  his/her qualifications.
+(5) The Minister of Education shall delegate two or three - according to the stipulations of subsection (3) - members to the financial board, one member of which should be delegated based on the proposal of the Minister of Finance. At least one of the members delegated by the Minister of Education shall possess a higher education degree corresponding to the educational, research, and artistic activity pursued by the higher education institution, and furthermore shall have at least five years of executive experience relevant to his/her qualifications.
 
 (6) The delegating bodies may not give instructions to members of the financial board.
 
@@ -590,7 +592,7 @@ b) the student union shall delegate its representatives in compliance with Secti
 
 (2) The senate may set up a committee in an ad hoc manner or for a definite period for the preparation of issues that belong under its competency.
 
-(3)  The  senate  may  delegate  its  powers  to  make  decisions  and  to  implement  such  decisions  to  certain organisational units of the higher education institution, or the community of teachers and students employed in organisational units or the different bodies set up within organisational units. The powers listed under Section 27 (3)-(4) and paragraphs a)-c) of subsection (6), subsection (7), paragraphs f)-i), k)-1) and o)-p) of subsection (8) and  paragraphs a)-b) and d) of  subsection  (9)  may  not  be  delegated.  The  student  union  shall  be  granted representation in decision-making in accordance with paragraph b) of subsection (1) and Section 27 (11), even if the senate has delegated its powers to another body to make decisions.
+(3) The senate may delegate its powers to make decisions and to implement such decisions to certain organisational units of the higher education institution, or the community of teachers and students employed in organisational units or the different bodies set up within organisational units. The powers listed under Section 27 (3)-(4) and paragraphs a)-c) of subsection (6), subsection (7), paragraphs f)-i), k)-l) and o)-p) of subsection (8) and paragraphs a)-b) and d) of subsection (9) may not be delegated. The student union shall be granted representation in decision-making in accordance with paragraph b) of subsection (1) and Section 27 (11), even if the senate has delegated its powers to another body to make decisions.
 
 #### The Rector
 
@@ -672,7 +674,7 @@ Section 32 (1)  Instruction  in  the  higher  education  institution  shall  be 
 
 (4) The vocational training programme shall allow for the validation of knowledge acquired in the course of vocational  training  of  identical  contents,  and  for  the  validation  of  credits  obtained  in  higher-level  vocational training  in  undergraduate  courses  belonging  to  the  same  field  of  training.  The  number  of  credits  that  can  be acknowledged  shall  be  thirty  at  least  and  sixty  at  most.  The  length  of  the  programme  shall  extend  to  four semesters, unless a European Community law provides for a longer period in respect of certain programmes. Credits may only be obtained for a higher-level vocational training offered by a vocational secondary school if the vocational secondary school organises such trainings on the basis of an agreement concluded with a higher education institution.
 
-(5) The undergraduate course shall lead to a Bachelor degree (baccalaureus) and a professional qualification. The  Bachelor  degree  is  the  first  level  of  academic  qualification  which  shall  entitle  its  holder  to  commence graduate education. The professional qualification shall entitle its holder to fill the position defined by law. The related programme and exit requirements shall determine what professional qualification may be awarded upon completion of the undergraduate course. In the case of practice-oriented undergraduate programmes a six-monthlong uninterrupted practical course shall be organised (hereinafter 'uninterrupted practical course'). Completion of a uninterrupted practical course shall be prerequisite to taking the final examination. Undergraduate courses shall require the taking of at least one hundred and eighty credits - in the case of uninterrupted practical courses a minimum of two hundred and ten credits - but such courses may not exceed more than two hundred and forty credits. The length of the programme shall extend to a minimum of six and a maximum of eight semesters.
+(5) The undergraduate course shall lead to a Bachelor degree (baccalaureus) and a professional qualification. The Bachelor degree is the first level of academic qualification which shall entitle its holder to commence graduate education. The professional qualification shall entitle its holder to fill the position defined by law. The related programme and exit requirements shall determine what professional qualification may be awarded upon completion of the undergraduate course. In the case of practice-oriented undergraduate programmes a six-month-long uninterrupted practical course shall be organised (hereinafter 'uninterrupted practical course'). Completion of a uninterrupted practical course shall be prerequisite to taking the final examination. Undergraduate courses shall require the taking of at least one hundred and eighty credits - in the case of uninterrupted practical courses a minimum of two hundred and ten credits - but such courses may not exceed more than two hundred and forty credits. The length of the programme shall extend to a minimum of six and a maximum of eight semesters.
 
 (6) The graduate course shall lead to a Master degree (magister) and professional qualification. The Master degree is the second level of academic qualification. The professional qualification that may be awarded after completion  of  the  graduate  course  shall  be  determined  by  the  programme  and  the  qualification  requirements pertaining to the graduate course. The professional qualification awarded upon completion of the graduate course shall  entitle  its  holder  to  fill  the  jobs  defined  by  laws.  Having  regard  to  the  stipulations  of  subsection  (7), graduate  courses  shall  require  doing  at  least  sixty  credits  but  such  courses  may  not  exceed  more  than  one hundred and twenty credits. The length of the programme shall extend to a minimum of two and a maximum of four semesters.
 
@@ -716,7 +718,7 @@ Section 34 (1) The higher education institution may keep records of data that ar
 
 (7) The data managed by higher education institutions and used for statistical purposes and/or delivered for statistical purposes in a format inapt for the establishment of individual identities, are contained in Annex 2 to this Act.
 
-Section  35 (1)  A  higher  education  information  system  shall  be  established  based  on  the  data  managed  by higher education institutions. The higher education information system - by ways of a central filing system shall contain such data on the maintainer, the institution, employment, students, teachers and other employees that  are  necessary  for  executing  planning  at  the  level  of  national  economy.  The  higher  education  information system  shall  be  operated  by  the  National  Higher  Education  Information  Centre  set  up  by  the  Minister  of Education. Unless otherwise provided by law, personal data may only be supplied from the higher education information  system  upon  the  request  of  the  person  concerned  and  is  subject  to  his/her  consent  thereto,  and simultaneous notification of such persons must be carried out. Provisions relating to the central filing system herein shall refer to the higher education information system. The Minister of Education shall be responsible for the lawfulness of data management performed in the higher education information system. In respect of one's own data, the person concerned shall be entitled to review such data and request the correction or - except for the management of statutory data - the deletion thereof. The review, correction and deletion of data contained in the information system shall in all cases be free of charge.
+Section 35 (1) A higher education information system shall be established based on the data managed by higher education institutions. The higher education information system - by ways of a central filing system - shall contain such data on the maintainer, the institution, employment, students, teachers and other employees that are necessary for executing planning at the level of national economy. The higher education information system shall be operated by the National Higher Education Information Centre set up by the Minister of Education. Unless otherwise provided by law, personal data may only be supplied from the higher education information system upon the request of the person concerned and is subject to his/her consent thereto, and simultaneous notification of such persons must be carried out. Provisions relating to the central filing system herein shall refer to the higher education information system. The Minister of Education shall be responsible for the lawfulness of data management performed in the higher education information system. In respect of one's own data, the person concerned shall be entitled to review such data and request the correction or - except for the management of statutory data - the deletion thereof. The review, correction and deletion of data contained in the information system shall in all cases be free of charge.
 
 16
 
@@ -726,11 +728,11 @@ Section  35 (1)  A  higher  education  information  system  shall  be  establish
 
 (2) Maintainers of the institutions or the higher education institutions shall be obliged to supply data for the higher education information system as defined in a government decree. The higher education institution shall be required to register with the higher education information system within thirty days from starting its core higher education activity. The National Higher Education Information Centre shall issue an institutional identification number (hereinafter 'OM-identifier' /OM standing for the Hungarian abbreviation of the Ministry of Education/) to the higher education institution within fifteen days from registration.
 
-(3)  The  National  Higher  Education  Information  Centre  shall  issue  a  teacher  identification  number  to  the persons employed as lecturers, researchers, or instructors. The teacher identification number shall serve for the monitoring  of  employment  as  lecturers,  instructors,  or  researchers.  The  higher  education  information  system shall keep records of the holders of such identification numbers. The records shall contain the holder's name, place and date of birth, mother's name, identification number, and data on the degrees and qualifications of the person concerned, as well as the address, type and OM-identifier of such persons' workplace. Except for the persons  concerned,  personal  data  may  only  be  transferred  from  the  records  for  the  lawful  establishment  to entitlement of certain benefits associated with employment, to the party providing the benefits or authorised to carry  out  the  assessment  of  eligibility.  Data  may  be  kept  in  the  information  system  for  ten  years  from  the notification  of  the  termination  of  employment  except  when  during  this  period  the  person  concerned  is  reregistered in the records.
+(3) The National Higher Education Information Centre shall issue a teacher identification number to the persons employed as lecturers, researchers, or instructors. The teacher identification number shall serve for the monitoring of employment as lecturers, instructors, or researchers. The higher education information system shall keep records of the holders of such identification numbers. The records shall contain the holder's name, place and date of birth, mother's name, identification number, and data on the degrees and qualifications of the person concerned, as well as the address, type and OM-identifier of such persons' workplace. Except for the persons concerned, personal data may only be transferred from the records for the lawful establishment to entitlement of certain benefits associated with employment, to the party providing the benefits or authorised to carry out the assessment of eligibility. Data may be kept in the information system for ten years from the notification of the termination of employment except when during this period the person concerned is re-registered in the records.
 
 (4) The National Higher Education Information Centre shall issue a student identification number to students. The  identification  number  shall  serve  for  the  monitoring  of  the  functioning  of  rights  and  the  fulfilment  of obligations arising in connection with student status. Students having received a student identification number for public education shall not be required to be issued with a new identification number for the purposes of their higher education studies. The higher education information system shall contain the student register. The student register shall contain the student's name, place and date of birth, identification number, mother's name, address, residence,  nationality,  the  number  of  his/her  student  pass,  data  concerning  the  relevant  higher  education institution and the terms of study. Except for the person concerned, personal data may only be transferred from the register for the lawful establishment of entitlement to certain benefits associated with employment and of student loans, to the party providing the benefits or authorised to carry out the assessment of eligibility. Data may be kept in the student register for eighty years from the notification of the termination of student status.
 
-(5) On the request of lecturers, instructors, and researchers employed in the form of a regular employment relationship  or  in  public  servant  status,  the  employer  shall  issue  a  lecturer,  researcher,  or  instructor  pass (hereinafter  'teacher  pass').  The  teacher  pass  shall  be  prepared  and  sent  to  the  person  entitled  thereto  by  the National Higher Education Information Centre , via the employer. The teacher pass shall bear the number of the pass, the name of its holder, the holder's mother's name, place and date of birth, the name, address and OMidentifier  of  the  relevant  higher  education  institution,  and  the  holder's  photograph  and  signature.  Requests concerning the teacher pass shall be initiated in accordance with the stipulations of the law. Data required for application may be transferred. The producer of the teacher pass may keep the data for five years from the expiry of the pass.
+(5) On the request of lecturers, instructors, and researchers employed in the form of a regular employment relationship or in public servant status, the employer shall issue a lecturer, researcher, or instructor pass (hereinafter 'teacher pass'). The teacher pass shall be prepared and sent to the person entitled thereto by the National Higher Education Information Centre, via the employer. The teacher pass shall bear the number of the pass, the name of its holder, the holder's mother's name, place and date of birth, the name, address and OM-identifier of the relevant higher education institution, and the holder's photograph and signature. Requests concerning the teacher pass shall be initiated in accordance with the stipulations of the law. Data required for application may be transferred. The producer of the teacher pass may keep the data for five years from the expiry of the pass.
 
 (6)  The  higher  education  institution  shall  issue  a  student  pass  for  the  student.  The  student  pass  shall  be prepared and sent to the person entitled thereto by the National Higher Education Information Centre , via the higher education institution. The student pass shall display the relevant designation of student pass in Hungarian and  English,  the  student's  name,  mother's  name,  place  and  date  of  birth,  address,  residence,  nationality,  and signature.  The  student  pass  shall  also  bear  the  student's  photograph,  identification  number,  and  the  name, address,  and  OM-identifier  of  the  relevant  higher  education  institution.  The  student  pass  may  also  indicate further,  non-personal  data  that  are  necessary  for  the  benefits.  Requests  concerning  the  student  pass  shall  be initiated  in  accordance  with  the  stipulations  of  the  law.  Data  required  for  issuance  may  be  transferred  to  the producer of the student pass. The producer of the student pass may keep the data for five years from the expiry of the pass.
 
@@ -1109,18 +1111,19 @@ Section 53 (1) The higher education institution can provide state-funded or fee-
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+shall be made with a view to the involvement of labour market players as defined in this Act, and in accordance with labour market forecasts, the data of the career monitoring system, and the assessment of the number of unemployed professionals with a view to considerations of the number of admission applications submitted in the year of decision-making. Any increase or decrease in the quota - within a given field of training - as compared to the previous year may not exceed ten percent.
 
 (7)  The  quota  limit  stipulated  in  subsection  (6)  shall  not  apply  in  the  event  the  change  in  the  number  of admission applications lodged in the year of decision-making exceeds ten percent as compared to the number of admission  applications  of  the  previous  year.  In  respect  of  the  total  headcount  defined  for  graduate  courses, postgraduate specialist training courses, and doctorate courses, the Government may allow a deviation of 1-10 percent from predefined rates.
 
-Section 54 (1) State-funded places in undergraduate courses and higher-level vocational training courses shall be  distributed  in  compliance  with  the  ranking  of  admission  applications  and  as  per  the  order  of  priority  of institutions indicated on the application forms. The given higher education institution may accept as many statefunded students, up  to  the  maximum  number  of  admissible  students  defined  in  its  statutes,  as  the  number  of admission applications allowed for the higher education institution.
+Section 54 (1) State-funded places in undergraduate courses and higher-level vocational training courses shall be distributed in compliance with the ranking of admission applications and as per the order of priority of institutions indicated on the application forms. The given higher education institution may accept as many state-funded students, up to the maximum number of admissible students defined in its statutes, as the number of admission applications allowed for the higher education institution.
 
 (2) With regard to graduate courses, postgraduate specialist training courses, and doctorate courses, admission applications shall be ranked and assessed by the higher education institution. The Minister of Education shall define for the higher education institution the number of state-funded places for such programmes.
 
-(3) The number of state-funded places provided by the Government in a given field of training and higherlevel vocational training shall be published in the Guide for Admission to Higher Education.
+(3) The number of state-funded places provided by the Government in a given field of training and higher-level vocational training shall be published in the Guide for Admission to Higher Education.
 
 Section 55 (1) In case the student status of a student who has been admitted against the quota for state-funded students is terminated before the completion of studies, or if the student continues his/her studies in the form of fee-paying  training,  the  state-funded  place  thus  freed  up  shall  be  filled  by  a  student  who  attends  fee-paying training in the higher education institution, in line with the procedure specified in the academic and examination regulations of the given higher education institution.
 
-(2) The student is entitled to pursue studies in higher education for twelve semesters as a state-funded student (hereinafter 'state-funded period'), including higher-level vocational training. The state-funded period may be prolonged by four semesters in the case of students with disabilities. The state-funded period shall also include any uncompleted state-funded semesters the student has enrolled for, unless the student was unable to complete such a semester due to illness, childbirth, or other reason through no fault of his/her own. In calculating the statefunded  period,  a  semester  completed  as  part  of  the  state-funded  period  shall  be  disregarded  if  the  higher education institution has been dissolved without allowing the student to complete his/her studies, on condition the  student  did  not  have  the  opportunity  to  continue  such  studies  in  another  higher  education  institution.  A semester  completed  in  the  dissolved  higher  education  institution  but  not  recognised  by  the  higher  education institution where the student continues his/her studies shall also be disregarded. The state-funded period shall be extended by a maximum of two semesters in case the student attends a one-tier programme and the length of the programme exceeds ten semesters in accordance with the related training requirements. The duration of part-time training and that of distance learning courses can be extended by a maximum of four semesters. The state-funded period for students on doctorate courses can be prolonged by six semesters at the most. Possession of a degree and professional qualification shall not exclude the opportunity of students to attend state-funded training, with the stipulation that the student who has taken the final examination in a certain training cycle as state-funded student, may not enrol for state-funded training in the same training cycle. This provision shall also apply to higher-level vocational training.
+(2) The student is entitled to pursue studies in higher education for twelve semesters as a state-funded student (hereinafter 'state-funded period'), including higher-level vocational training. The state-funded period may be prolonged by four semesters in the case of students with disabilities. The state-funded period shall also include any uncompleted state-funded semesters the student has enrolled for, unless the student was unable to complete such a semester due to illness, childbirth, or other reason through no fault of his/her own. In calculating the state-funded period, a semester completed as part of the state-funded period shall be disregarded if the higher education institution has been dissolved without allowing the student to complete his/her studies, on condition the student did not have the opportunity to continue such studies in another higher education institution. A semester completed in the dissolved higher education institution but not recognised by the higher education institution where the student continues his/her studies shall also be disregarded. The state-funded period shall be extended by a maximum of two semesters in case the student attends a one-tier programme and the length of the programme exceeds ten semesters in accordance with the related training requirements. The duration of part-time training and that of distance learning courses can be extended by a maximum of four semesters. The state-funded period for students on doctorate courses can be prolonged by six semesters at the most. Possession of a degree and professional qualification shall not exclude the opportunity of students to attend state-funded training, with the stipulation that the student who has taken the final examination in a certain training cycle as state-funded student, may not enrol for state-funded training in the same training cycle. This provision shall also apply to higher-level vocational training.
 
 (3) Once students have depleted the available state-funded period pursuant to subsection (2), they may only be eligible for fee-paying training in higher education.
 
@@ -1274,7 +1277,7 @@ Section 65 (1) The rector of the higher education institution - subject to the p
 
 (2) The rector of the higher education institution shall confer the honorary title 'doctor honoris causa' upon the person who deserves such a title under the provisions of the doctoral regulations.
 
-(3) The rector of the higher education institution - in accordance with the conditions specified in the statutes may award a golden, diamond, iron or ruby honorary diploma to the person who received his/her diploma in the same higher education institution fifty, sixty, sixty-five, or seventy years before, respectively, and whose career is worth public esteem.
+(3) The rector of the higher education institution - in accordance with the conditions specified in the statutes - may award a golden, diamond, iron or ruby honorary diploma to the person who received his/her diploma in the same higher education institution fifty, sixty, sixty-five, or seventy years before, respectively, and whose career is worth public esteem.
 
 ### SUPPORTING GIFTED STUDENTS
 
@@ -1356,7 +1359,7 @@ Section 70 (1) In the event the student is guilty of gross violation of obligati
 
 a) a reprimand,
 
-- a severe reprimand,
+b) a severe reprimand,
 
 c) reduction in benefits and bursaries specified in the regulations on fees and grants, or by the complete refusal of paying such benefits and bursaries,
 
@@ -1482,7 +1485,7 @@ Section 75 (1) No appeal stipulated under Section 73 may be lodged in case the h
 
 Section 76 (1) The student status shall be terminated
 
-a) if the student has been transferred to another higher education institution, on the day of such transfer, b) if the student announces the termination of his/her student status, on the day such announcement is made, c)  if  the  student  discontinues  his/her  studies  in  state-funded  training,  and  does  not  wish  to  transfer  to  feepaying training, d) on the last day of the first final examination period following the given training cycle, or in the case of postgraduate specialist training courses, on the last day of the first final examination period following the last term, or on the last day of the term of the doctorate course, e) in the case of higher-level vocational training on the last day of the first vocational examination, f)  as  regards  higher-level  vocational  training,  in  the  event  the  student  becomes  medically  unfit  to  continue his/her studies, and the higher education institution cannot offer any other suitable higher-level vocation training course, or the student does not wish to continue his/her studies, or the conditions necessary for the pursuance of further studies cannot be met, on the day the decision on termination becomes final, g)  in  the  event  the  rector  terminates  his/her  student  status  -  after  giving  warning  to  no  avail  and  after reviewing the social condition of the student - because the student is in arrears with payment, on the day the decision on termination becomes final, h) on the day the decision on expulsion becomes final.
+a) if the student has been transferred to another higher education institution, on the day of such transfer, b) if the student announces the termination of his/her student status, on the day such announcement is made, c) if the student discontinues his/her studies in state-funded training, and does not wish to transfer to fee-paying training, d) on the last day of the first final examination period following the given training cycle, or in the case of postgraduate specialist training courses, on the last day of the first final examination period following the last term, or on the last day of the term of the doctorate course, e) in the case of higher-level vocational training on the last day of the first vocational examination, f) as regards higher-level vocational training, in the event the student becomes medically unfit to continue his/her studies, and the higher education institution cannot offer any other suitable higher-level vocation training course, or the student does not wish to continue his/her studies, or the conditions necessary for the pursuance of further studies cannot be met, on the day the decision on termination becomes final, g) in the event the rector terminates his/her student status - after giving warning to no avail and after reviewing the social condition of the student - because the student is in arrears with payment, on the day the decision on termination becomes final, h) on the day the decision on expulsion becomes final.
 
 34
 
@@ -1612,7 +1615,7 @@ b)  instructors  (thus  especially  foreign  language  teachers,  sport  trainer
 
 (3) The  work  of  lecturers, researchers, and  instructors shall be supported  by  expert assistants  and administrators. The conditions of employment in the positions listed under this subsection shall be laid down by the Government.
 
-(4)  For  the  execution  of  tasks  pertaining  to  the  operation  of  the  higher  education  institution,  financialeconomic, technical-service provider, professional-service provider, administrative and assistant positions may be established.
+(4) For the execution of tasks pertaining to the operation of the higher education institution, financial-economic, technical-service provider, professional-service provider, administrative and assistant positions may be established.
 
 (5) In the event the higher education institution sets up an institution or organisational unit to perform tasks pertaining  to  public  education,  general  education,  public  collection,  healthcare,  social  and  other  affairs,  those employed in such institutions and units shall be subject to the provisions applicable to the relevant sector, task or activity (persons listed under subsections (1)-(5) hereinafter jointly referred to as 'employees').
 
@@ -1630,7 +1633,7 @@ b) shall have clean criminal records and legal capacity.
 
 Section 82 (1) All employees of the higher education institution shall have the right to
 
-a)  make  a  proposal  as  to  the  operation  of  the  higher  education  institution,  and  receive  a  sufficient  answer within thirty days from the submission of such proposal, b) take part in the election of bodies of the higher education institution in line with the stipulations of this Act and the statutes of the higher education institution, as well as in the work of the given body provided he/she has been elected as a member thereof, c) have recourse to the Commissioner for Educational Rights,
+a) make a proposal as to the operation of the higher education institution, and receive a sufficient answer within thirty days from the submission of such proposal,
 
 37
 
@@ -1638,13 +1641,17 @@ a)  make  a  proposal  as  to  the  operation  of  the  higher  education  insti
 
 [[START OF PAGE 38]]
 
-- seek advice from the Educational Mediation Service.
+b) take part in the election of bodies of the higher education institution in line with the stipulations of this Act and the statutes of the higher education institution, as well as in the work of the given body provided he/she has been elected as a member thereof,
 
-- All employees of the higher education institution shall be obliged to
+c) have recourse to the Commissioner for Educational Rights,
 
-- observe the rules stipulated in the statutes of the higher education institution,
+d) seek advice from the Educational Mediation Service.
 
-- perform the duties as defined in their job description.
+(2) All employees of the higher education institution shall be obliged to
+
+a) observe the rules stipulated in the statutes of the higher education institution,
+
+b) perform the duties as defined in their job description.
 
 (3) Subject to the provisions of this Act, the higher education institution shall lay down the duties specific to the positions in the employment requirements, may stipulate additional professional criteria as prerequisites to occupying  specific  positions  beyond  the  ones  prescribed  herein,  may  stipulate  a  period  of  professional experience,  may  establish  rules  concerning  conflict  of  interests,  and  may  bar  the  employee  from  attaining  a position in another higher education institution similar to the one occupied in the given institution.
 
@@ -1690,7 +1697,7 @@ b) assistant professor
 
 c) college or university associate professor,
 
-- college or university professor.
+d) college or university professor.
 
 (2) For filling a lecturer position - with the exception of assistant lecturer - a regular employment relationship or a public servant status may be established with a person who satisfies the prescribed criteria.
 
@@ -2365,7 +2372,7 @@ Section 118 (1) Hungarian nationals shall have the right to pursue studies in fo
 
 (5) Those pursuing studies abroad as defined under this Section shall be eligible for a student pass.
 
-(6) The rules pertaining to the call for, and the assessment of, applications referred to under subsections (2)(3), the application, disbursement, and settlement of the student loan, and requests for and issuance of student passes shall be regulated by the Government with the proviso that the call for applications defined in subsection (3) shall be published and assessed subject to the consent of the national minority government concerned.
+(6) The rules pertaining to the call for, and the assessment of, applications referred to under subsections (2)–(3), the application, disbursement, and settlement of the student loan, and requests for and issuance of student passes shall be regulated by the Government with the proviso that the call for applications defined in subsection (3) shall be published and assessed subject to the consent of the national minority government concerned.
 
 53
 
@@ -2403,7 +2410,7 @@ Section  120 (1)  Higher  education  institutions  shall  perform  their  tasks 
 
 (3)  Higher  education  institutions  shall  manage  independently  the  funds  put  at  their  disposal  and  their  own revenues  by  observing  the  requirement  of  rational  and  economical  management,  and  may  not  be  deprived thereof.  Higher  education  institutions  may  invest  their  temporarily  free  funds  from  their  own  revenues  in government securities traded in the network of the Hungarian State Treasury (hereinafter: 'Treasury'). Higher education institutions operating as budgetary organisations may use the appropriation and funds surplus left over from the budget year for the fulfilment of their institutional tasks in subsequent years, after their eligibility has been  ascertained.  Higher  education  institutions  operating  as  budgetary  organisations  shall  be  exempted  from paying  the  dues  charged  to  the  revenues  allocated  in  the  Annual  Budget  Act  if  they  spend  such  amount  on renovation or investments as defined in Section 122 (2).
 
-(4) As an additional activity pertaining to their core activities, higher education institutions may pursue the activities regulated in Section 4 (1)-(2). Furthermore, they may pursue business activities unless this jeopardises the fulfilment of their basic tasks. Higher education institutions operating as budgetary organisations need not pay tax on their business profit, provided they use such profit to perform their basic tasks or acquire ownership to facilitate the execution of their basic tasks, or to invest in the hedge fund, nor on the revenues earned through their  core  and  additional  activities.  Higher  education  institutions  operating  as  budgetary  organisations  may manage their cash flow from their own revenues on a settlement sub account kept with the Treasury. The yearend balance of the settlement sub account kept with the Treasury shall be disregarded when calculating higher education institutions' surplus left over from the previous year.
+(4) As an additional activity pertaining to their core activities, higher education institutions may pursue the activities regulated in Section 4 (1)–(2). Furthermore, they may pursue business activities unless this jeopardises the fulfilment of their basic tasks. Higher education institutions operating as budgetary organisations need not pay tax on their business profit, provided they use such profit to perform their basic tasks or acquire ownership to facilitate the execution of their basic tasks, or to invest in the hedge fund, nor on the revenues earned through their core and additional activities. Higher education institutions operating as budgetary organisations may
 
 54
 
@@ -2411,7 +2418,9 @@ Section  120 (1)  Higher  education  institutions  shall  perform  their  tasks 
 
 [[START OF PAGE 55]]
 
-(5)  Higher  education  institutions  shall  cover  the  costs  and  expenses  incurred  in  connection  with  their  own revenues from the same.
+manage their cash flow from their own revenues on a settlement sub account kept with the Treasury. The year-end balance of the settlement sub account kept with the Treasury shall be disregarded when calculating higher education institutions' surplus left over from the previous year.
+
+(5) Higher education institutions shall cover the costs and expenses incurred in connection with their own revenues from the same.
 
 (6)  Higher  education  institutions  operating  as  budgetary  organisations  shall  prepare  a  balance  sheet  report quarterly, and send it to the maintainer.
 
@@ -2443,7 +2452,7 @@ b) have the right to launch investments or contribute to the joint implementatio
 
 (3)  In  the  case  of  joint  investment  with  a  non-public  investor,  state  higher  education  institutions  shall  be entitled to transfer the real property they administer to the investor without a competition or grant the investor land tenure rights in respect of the property concerned. Assignment of use or land tenure rights may be made in accordance with the terms of the agreement concluded with the investor without any consideration. Nonetheless, its duration may not exceed twenty years.
 
-(4)  State  higher  education  institutions  may  undertake  long-term  commitments  (maximum  20  years)  against their  budgets  for  accumulation  purposes  or  the  purchase  of  services  substituting  for  investment.  The  total aggregate amount of annual payment obligations arising from such commitments may not exceed in any year 10% of the appropriation of their annual budgets allocated for tangible and accumulation purposes. If the total aggregate  amount  of  annual  payment  obligations  exceeds  this  ceiling  due  to  a  decrease  in  the  budget  of  the higher education institution in the year concerned, no further commitments may be made until such imbalance is remedied.  Long-term  commitments  shall  be  presented  in  an  annual  statement,  which  shall  form  part  of  the annual  budget  and  financial  report.  The  Ministry  of  Education  may  assume  50%  of  the  higher  education institutions'  commitments  against  the  approved  annual  appropriation  under  the  relevant  budget  chapter.  The aggregate  amount  of  assumed  commitments  may  not  exceed  33%  of  the  approved  central  investment appropriations of the Ministry of Education. Assumed commitments in excess of this limit shall be subject to the assent of the Minister of Finance.
+(4) State higher education institutions may undertake long-term commitments (maximum 20 years) against their budgets for accumulation purposes or the purchase of services substituting for investment. The total aggregate amount of annual payment obligations arising from such commitments may not exceed in any year 10% of the appropriation of their annual budgets allocated for tangible and accumulation purposes. If the total aggregate amount of annual payment obligations exceeds this ceiling due to a decrease in the budget of the higher education institution in the year concerned, no further commitments may be made until such imbalance is
 
 55
 
@@ -2451,7 +2460,9 @@ b) have the right to launch investments or contribute to the joint implementatio
 
 [[START OF PAGE 56]]
 
-Section 123 (1) State higher education institutions may acquire assets by way of the profit earned (dividend) in the business organisations they established or those in which they acquired participation, after-tax profit from their  business  activities,  profit  on  revenues  derived  from  fee-paying  training,  cash  donations  and  donation  of movable and immovable properties or inheritance. Higher education institutions may acquire assets, except for donation and inheritance, if they have provided for the protection of the condition or replacement of assets put at their disposal.
+remedied. Long-term commitments shall be presented in an annual statement, which shall form part of the annual budget and financial report. The Ministry of Education may assume 50% of the higher education institutions' commitments against the approved annual appropriation under the relevant budget chapter. The aggregate amount of assumed commitments may not exceed 33% of the approved central investment appropriations of the Ministry of Education. Assumed commitments in excess of this limit shall be subject to the assent of the Minister of Finance.
+
+Section 123 (1) State higher education institutions may acquire assets by way of the profit earned (dividend) in the business organisations they established or those in which they acquired participation, after-tax profit from their business activities, profit on revenues derived from fee-paying training, cash donations and donation of movable and immovable properties or inheritance. Higher education institutions may acquire assets, except for donation and inheritance, if they have provided for the protection of the condition or replacement of assets put at their disposal.
 
 (2) State higher education institutions may draw a loan
 
@@ -2499,13 +2510,19 @@ g) attendance  of  compulsory  award  ceremonies  or  other  ceremonies  or  com
 
 (3) The fee-paying services available to state-funded students shall be as follows:
 
-a) teaching of a body of knowledge in any language other than Hungarian as chosen by the student, which is defined in the curricula of the undergraduate and graduate courses in Hungarian and is taught in Hungarian, b) objects produced with the tools and equipment of the higher education institution, supplied for the student by the higher education institution, becoming the property of the student (e.g. reproduced materials), c) use of the facilities, including library, laboratories, computer, sporting and recreational facilities, and the equipment of the higher education institution outside the scope of free services, d) dormitory placement and placement in the students' hall of residence , and hence the use of the facilities, especially the library, laboratory, computer, sporting and recreational facilities, and equipment of the dormitory or the hall.
+a) teaching of a body of knowledge in any language other than Hungarian as chosen by the student, which is defined in the curricula of the undergraduate and graduate courses in Hungarian and is taught in Hungarian,
 
 56
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
+
+b) objects produced with the tools and equipment of the higher education institution, supplied for the student by the higher education institution, becoming the property of the student (e.g. reproduced materials),
+
+c) use of the facilities, including library, laboratories, computer, sporting and recreational facilities, and the equipment of the higher education institution outside the scope of free services,
+
+d) dormitory placement and placement in the students' hall of residence, and hence the use of the facilities, especially the library, laboratory, computer, sporting and recreational facilities, and equipment of the dormitory or the hall.
 
 (4) The academic and examination regulations of the higher education institution may stipulate a fee for the third or any additional retake of an examination in the same subject.
 
@@ -2533,15 +2550,15 @@ Section 127 (1) The operation of higher education institutions shall be financed
 
 (3) The normative grant may be provided for
 
-- student bursaries,
+a) student bursaries,
 
-- training,
+b) training,
 
-- research,
+c) research,
 
-- management,
+d) management,
 
-- specific tasks.
+e) specific tasks.
 
 57
 
@@ -2627,7 +2644,7 @@ c) equal 0.001 times the national allocation for normative funding per student i
 
 Section 129 (1) The student bursaries defined in this Act shall be covered from the grants provided for student bursaries.
 
-(2) The grant for student bursaries shall be established according to the number of students enrolled in statefunded  training  who  can  be  considered  in  terms  of  eligibility  for  student  bursaries.  With  normative  grants provided for student bursaries, the rules of establishing the scope and the number of eligible students shall be determined by the Government.
+(2) The grant for student bursaries shall be established according to the number of students enrolled in state-funded training who can be considered in terms of eligibility for student bursaries. With normative grants provided for student bursaries, the rules of establishing the scope and the number of eligible students shall be determined by the Government.
 
 (3) The amount of grant provided for student bursaries shall be determined so that
 
@@ -2655,7 +2672,7 @@ b) the placement capacity of the students' hall of residence accommodating stude
 
 Section 130 (1) The organisation of the instruction services delivered by the higher education institution shall be supported from the central budget by means of a training grant.
 
-(2) The training grant shall be determined on the basis of the calculated number of students enrolled in statefunded training. The amount of the training grant shall be specified by training cycle considering the professional particularities of the training (e.g. theory-oriented, practice-oriented).
+(2) The training grant shall be determined on the basis of the calculated number of students enrolled in state-funded training. The amount of the training grant shall be specified by training cycle considering the professional particularities of the training (e.g. theory-oriented, practice-oriented).
 
 (3) Training provided in higher education shall be categorised into funding groups in terms of eligibility for a normative training grant. The annual amount of the normative training grant shall be established by applying the multiplier defined in Annex 3 to this Act.
 
@@ -2733,11 +2750,11 @@ Section 136 (1)  No service may be provided by the hedge fund within three years
 
 ## MISCELLANEOUS PROVISIONS
 
-### SPECIAL PROVISIONS PERTAINING TO THE OPERATION OF NONSTATE HIGHER EDUCATION INSTITUTIONS
+### SPECIAL PROVISIONS PERTAINING TO THE OPERATION OF NON-STATE HIGHER EDUCATION INSTITUTIONS
 
 #### Private Higher Education Institutions
 
-Section 137 (1)  Where a higher education institution is not maintained by the state, local government or a national minority government (hereinafter the entities listed in this subsection - except for religious legal entities - jointly referred to as 'private higher education institutions'), it may operate as an institution committed to a certain religious or secular conviction, and may incorporate in its educational programme philosophical, ethical and  cultural  knowledge  relevant  to  its  religious  or  secular  conviction.  Private  higher  education  institutions  unless they receive funds from the budget for training provision - may stipulate as a precondition of admission the acceptance of a religion or ideology and the attestation of such acceptance.
+Section 137 (1) Where a higher education institution is not maintained by the state, local government or a national minority government (hereinafter the entities listed in this subsection – except for religious legal entities – jointly referred to as 'private higher education institutions'), it may operate as an institution committed to a certain religious or secular conviction, and may incorporate in its educational programme philosophical, ethical and cultural knowledge relevant to its religious or secular conviction. Private higher education institutions – unless they receive funds from the budget for training provision – may stipulate as a precondition of admission the acceptance of a religion or ideology and the attestation of such acceptance.
 
 (2) Private higher education institutions may in their statutes depart from the provisions of Section 88 (1), 96 (3), (5)-(6) and (9), and 126 (1)-(2) and (4), except for the third sentence of subsection (2). Furthermore, the provisions of Section 97 (2)-(3) shall not apply unless the number of students enrolled in state-funded training reaches 50% of the total number of students enrolled in the higher education institution on an average of five years.
 
@@ -2745,7 +2762,7 @@ Section 137 (1)  Where a higher education institution is not maintained by the s
 
 (4)  Subsection  (3)  shall  also  apply  to  higher  education  institutions  maintained  by  a  local  government  or national minority government.
 
-Section 138 (1) Private higher education institutions may engage in activities aimed at the fulfilment of the tasks defined under Section 4, and shall manage the institution accordingly, in line with the provisions of this Act  and  as  defined  by  the  Government  (hereinafter:  'management  system  of  private  higher  education institutions'). Private higher education institutions shall state in their founding charters whether they foresee to pursue their activities as public benefit organisations or as business undertakings. If a private higher education institution meets the criteria set forth in Section 137 (2), the provisions of Section 115 (2) shall apply except that the higher education institution's budget, annual report - drafted in compliance with the accounting regulations , statutes, and institutional development plan shall be approved by the maintainer. In addition, higher education institutions shall institute court proceedings according to Section 115 (14).
+Section 138 (1) Private higher education institutions may engage in activities aimed at the fulfilment of the tasks defined under Section 4, and shall manage the institution accordingly, in line with the provisions of this Act and as defined by the Government (hereinafter: 'management system of private higher education institutions'). Private higher education institutions shall state in their founding charters whether they foresee to pursue their activities as public benefit organisations or as business undertakings. If a private higher education institution meets the criteria set forth in Section 137 (2), the provisions of Section 115 (2) shall apply except that the higher education institution's budget, annual report – drafted in compliance with the accounting regulations –, statutes, and institutional development plan shall be approved by the maintainer. In addition, higher education institutions shall institute court proceedings according to Section 115 (14).
 
 61
 
@@ -2879,7 +2896,7 @@ c) exercise the rights defined in Section 105 (1),
 
 d) lay down special rules of management and funding other than those specified in this Act.
 
-(5)  Military  higher  education  institutions  and  law  enforcement  higher  education  institutions  may  provide training outside the scope of military higher education and higher education in law enforcement. The stipulations of paragraph d) of subsection (2), paragraphs a)b) of subsection (3), and paragraphs b)-c) of subsection (4) shall not apply to such training. Such training shall be subject to the provisions of this Act, including those on statefunded places and their financing.
+(5) Military higher education institutions and law enforcement higher education institutions may provide training outside the scope of military higher education and higher education in law enforcement. The stipulations of paragraph d) of subsection (2), paragraphs a)–b) of subsection (3), and paragraphs b)–c) of subsection (4) shall not apply to such training. Such training shall be subject to the provisions of this Act, including those on state-funded places and their financing.
 
 (6) The establishment of military and law enforcement higher education institutions and training provision in them shall be conditional on the prior authorisation of the Ministry of Defence or the Ministry of the Interior, respectively.
 
@@ -2893,7 +2910,7 @@ Section  141 (1)  Universities  offering  courses  in  medicine  and  health  sc
 
 (4) Medical higher education institutions may cooperate in regional health improvement activities, and may participate in restructuring and funding modelling experiments.
 
-(5)  Where  a  medical  service  provider  operates  as  part  of  a  central  budgetary  organisation,  the  budgetary investment, renovation, and development funds of the medical higher education institution shall be planned in the Ministry of Health chapter of the budget. The Ministry of Health shall have the right to control management in connection with the budget appropriations allocated from the chapter. The Minister may request preliminary information or reports, and may initiate the discussion of medical service issues at university forums. Where a medical service provider is maintained by a business organisation or a public benefit organisation, the Ministry of Health may participate in its establishment as a founding member.
+(5) Where a medical service provider operates as part of a central budgetary organisation, the budgetary investment, renovation, and development funds of the medical higher education institution shall be planned in the Ministry of Health chapter of the budget. The Ministry of Health shall have the right to control management in connection with the budget appropriations allocated from the chapter. The Minister may request preliminary information or reports, and may initiate the discussion of medical service issues at university forums. Where a
 
 64
 
@@ -2901,7 +2918,9 @@ Section  141 (1)  Universities  offering  courses  in  medicine  and  health  sc
 
 [[START OF PAGE 65]]
 
-(6) Medical higher education institutions shall organise specialist, dentistry, pharmaceutics, clinical psychology, and public health specialist programmes, and vocational or postgraduate training in medicine for holders  of  other  academic  degrees,  and  shall  at  the  same  time  provide  such  medical  services  under  the professional supervision and coordination of the Minister of Health. The Minister of Health shall supervise and coordinate  medical  higher  education  institutions'  activities  in  education,  remedy,  prevention  and  sectoral research and development. The Ministry of Education shall grant state funding for such activities. The medical activities  performed  by  medical  higher  education  institutions,  medical  research,  and  medical  vocational  and postgraduate  training  shall  be  subject  to  the  provisions  pertaining  to  the  professional  governance  and organisation of health care and the powers of the Minister of Health as to professional governance, as well as to laws that determine the organisation of medical services, the qualifications of those discharging the tasks, and the funding of medical services.
+medical service provider is maintained by a business organisation or a public benefit organisation, the Ministry of Health may participate in its establishment as a founding member.
+
+(6) Medical higher education institutions shall organise specialist, dentistry, pharmaceutics, clinical psychology, and public health specialist programmes, and vocational or postgraduate training in medicine for holders of other academic degrees, and shall at the same time provide such medical services under the professional supervision and coordination of the Minister of Health. The Minister of Health shall supervise and coordinate medical higher education institutions' activities in education, remedy, prevention and sectoral research and development. The Ministry of Education shall grant state funding for such activities. The medical activities performed by medical higher education institutions, medical research, and medical vocational and postgraduate training shall be subject to the provisions pertaining to the professional governance and organisation of health care and the powers of the Minister of Health as to professional governance, as well as to laws that determine the organisation of medical services, the qualifications of those discharging the tasks, and the funding of medical services.
 
 (7) Where - as part of their positions - staff are involved in the performance of both the training tasks and tasks  relating  to  medical  services  of  a  medical  higher  education  institution,  the  ratio  of  working  hours  up  to which the training tasks and the tasks relating to medical services are performed shall be specified. The rules of employment and remuneration - appropriate to the split of working hours - pertaining to the specific activities shall be applied.
 
@@ -2919,7 +2938,7 @@ Section 142 (1) Upon the initiative of their organisational units that provide c
 
 Section  143 (1)  For  the  coordination  of  instruction,  research,  and  agricultural  tasks,  the  faculties  of universities  of  agriscience  established  by  way  of  merger  and  offering  courses  in  at  least  two  disciplines  of science,  and  the  separate  practice  facilities,  practice  farms,  research  institutes,  museums,  and  botanic  gardens may be operated as part of an agriscience centre. Agriscience centres shall operate as budgetary units with partial rights where the higher education institution in question is a budgetary organisation. Budgetary units with partial rights shall have a treasury account.
 
-(2)  Agrscience  centres  shall  contribute  to  the  pursuit  of  sectoral  research,  development  and  innovation, specialised counselling, postgraduate education in agriscience, and the tasks of practical training. To this end, scaled-to-function  state  funding  shall  be  planned  separately  in  the  budget-financed  funds  allocated  for  the agricultural sector under the Ministry of Agriculture and Rural Development chapter so that this amount shall not be less than the resources for the development of agriculture.
+(2) Agrscience centres shall contribute to the pursuit of sectoral research, development and innovation, specialised counselling, postgraduate education in agriscience, and the tasks of practical training. To this end, scaled-to-function state funding shall be planned separately in the budget-financed funds allocated for the
 
 65
 
@@ -2927,7 +2946,9 @@ Section  143 (1)  For  the  coordination  of  instruction,  research,  and  agri
 
 [[START OF PAGE 66]]
 
-(3)  In  respect  of  heads  of  the  agriscience  centres  and  their  budgets,  the  rules  pertaining  to  health  science centres [Section 142 (2)] shall apply.
+agricultural sector under the Ministry of Agriculture and Rural Development chapter so that this amount shall not be less than the resources for the development of agriculture.
+
+(3) In respect of heads of the agriscience centres and their budgets, the rules pertaining to health science centres [Section 142 (2)] shall apply.
 
 (4)  The  rules  of  the  supervision  and  funding  of  agricultural  higher  education  shall  be  laid  down  by  the Government.
 
@@ -2947,7 +2968,7 @@ Section  144 (1)  Where  a  higher  education  institution  provides  training  
 
 (7) Art higher education institutions may undertake tasks in primary art education and vocational training in art by setting up a public education institution. Art higher education institutions may prepare secondary school students for admission to any art higher education institution. Higher education institutions shall register students without establishing student status (hereinafter: 'preparatory status'). In respect of students in preparatory status, higher  education  institutions  shall  be  eligible  for  the  normative  per  student  grant  calculated  for  students  in primary art education. On the basis of preparatory status, students shall be offered at least four contact hours a week either with a lecturer or an instructor. The rights and obligations of students enrolled in the training shall be stipulated in the statutes of higher education institutions.
 
-(8) Where a higher education institution offers art courses without having the status of art higher education institution within the meaning of this Section, its operation shall be subject to the provisions of subsections (2)(3) and (5)-(7).
+(8) Where a higher education institution offers art courses without having the status of art higher education institution within the meaning of this Section, its operation shall be subject to the provisions of subsections (2)–(3) and (5)–(7).
 
 ### SPECIAL PROVISIONS PERTAINING TO TEACHER TRAINING
 
@@ -2957,7 +2978,7 @@ Section 145 (1) Higher education institutions engaged in teacher training may pr
 
 (3)  Higher  education  institutions  providing  teacher  training  shall  contribute  to  in-service  teacher  training, educational research, and shall facilitate the implementation of sectoral tasks of the Minister of Education in the domain of public education.
 
-(4) Within the scope of sectoral responsibilities, the Minister of Education shall set up and operate a regional service and research network - to be founded on the higher education institutions providing teacher training - to aid  the  development  of  the  higher  education  system  involved  in  public  education  and  teacher  training,  the modernisation  of  teacher  training,  and  to  cater  for  the  requisite  professional  conditions.  The  Minister  of Education shall enter into an agreement with the higher education institution concerned for the execution of the tasks defined in this subsection and subsection (2). The Minister of Education shall organise the performance of national service providing and research tasks of teacher training development.
+(4) Within the scope of sectoral responsibilities, the Minister of Education shall set up and operate a regional service and research network – to be founded on the higher education institutions providing teacher training – to
 
 66
 
@@ -2965,7 +2986,9 @@ Section 145 (1) Higher education institutions engaged in teacher training may pr
 
 [[START OF PAGE 67]]
 
-(5)  Where  teacher  training  is  provided  by  more  than  one  organisational  unit  of  instruction  in  any  higher education institution, the statutes shall specify the organisational unit of instruction or the body established by the senate which shall be in charge of coordinating the instruction work carried out in the different organisational units  and  the  associated  practical  training.  The  head  of  such  organisational  unit  shall  be  responsible  for  the coordination of teacher training in the higher education institution.
+aid the development of the higher education system involved in public education and teacher training, the modernisation of teacher training, and to cater for the requisite professional conditions. The Minister of Education shall enter into an agreement with the higher education institution concerned for the execution of the tasks defined in this subsection and subsection (2). The Minister of Education shall organise the performance of national service providing and research tasks of teacher training development.
+
+(5) Where teacher training is provided by more than one organisational unit of instruction in any higher education institution, the statutes shall specify the organisational unit of instruction or the body established by the senate which shall be in charge of coordinating the instruction work carried out in the different organisational units and the associated practical training. The head of such organisational unit shall be responsible for the coordination of teacher training in the higher education institution.
 
 (6)  Secondary  school  teacher  qualification  may  only  be  obtained  in  a  graduate  course.  The  conferral  of secondary school teacher qualification shall be subject to completion of a continuous practical course. Graduate courses leading to secondary school teacher qualification shall award 150 credits.
 
@@ -3011,33 +3034,33 @@ Section 147 For the purposes of this Act:
 
 [[START OF PAGE 68]]
 
-- Disadvantaged student means a student in respect of whom the notary arranged for child protection care during secondary education due to family or social background, or for whom regular child welfare benefit has been disbursed, or who has been a ward of the state,
+10. Disadvantaged student means a student in respect of whom the notary arranged for child protection care during secondary education due to family or social background, or for whom regular child welfare benefit has been disbursed, or who has been a ward of the state,
 
-- Publication  on  homepage means  publication  of  information  in  a  domain  on  the  homepage  that  is accessible to all,
+11. Publication on homepage means publication of information in a domain on the homepage that is accessible to all,
 
-- Institute means the organisational unit which coordinates the activities of several departments or performs the function of several departments,
+12. Institute means the organisational unit which coordinates the activities of several departments or performs the function of several departments,
 
-- Institutional  document means the founding charter and the regulations, programmes, plans stipulated in this  Act,  thus  in  particular  the  statutes,  educational programme,  institutional  development  plan,  bylaws of  the student union, strategy for research, development, and innovation,
+13. Institutional document means the founding charter and the regulations, programmes, plans stipulated in this Act, thus in particular the statutes, educational programme, institutional development plan, bylaws of the student union, strategy for research, development, and innovation,
 
-- Faculty means the organisational unit in charge of the instruction, research, and artistic activities of related degree programmes in one or more fields of training, discipline of science, or branch of art as defined in the educational programme,
+14. Faculty means the organisational unit in charge of the instruction, research, and artistic activities of related degree programmes in one or more fields of training, discipline of science, or branch of art as defined in the educational programme,
 
-- Qualification  framework means  the  general  characteristics  of  the  specific  degrees  in  the  multi-cycle training system that are identical in each field of training,
+15. Qualification framework means the general characteristics of the specific degrees in the multi-cycle training system that are identical in each field of training,
 
-- Minister  with  competence  in  training means  the  minister  specified  in  the  Vocational  Education  Act, responsible for the qualification,
+16. Minister with competence in training means the minister specified in the Vocational Education Act, responsible for the qualification,
 
-- Branch of training means the programmes in a certain field of training whose contents are identical in the initial phase of training,
+17. Branch of training means the programmes in a certain field of training whose contents are identical in the initial phase of training,
 
-- Programme  and  graduation  requirements mean  the knowledge,  skills, proficiency and abilities (competencies) whose acquisition is  a precondition for  a  diploma  evidencing  the  degree  and  the  professional qualification to be awarded,
+18. Programme and graduation requirements mean the knowledge, skills, proficiency and abilities (competencies) whose acquisition is a precondition for a diploma evidencing the degree and the professional qualification to be awarded,
 
-- Length of programme means the legal duration of the course required for obtaining the necessary credits, degree, professional qualification, and specialised qualification as defined in the corresponding laws,
+19. Length of programme means the legal duration of the course required for obtaining the necessary credits, degree, professional qualification, and specialised qualification as defined in the corresponding laws,
 
 20. Term of study means the articulation of the length of the programme into term-time and the pertaining examination period,
 
-- Educational programme means the complex training document of the institution, which contains
+21. Educational programme means the complex training document of the institution, which contains
 
-a) a detailed  programme  and  academic  requirements  of the undergraduate, graduate and specialist postgraduate programmes,
+a) a detailed programme and academic requirements of the undergraduate, graduate and specialist postgraduate programmes,
 
-- a vocational training programme in higher-level vocational training, and
+b) a vocational training programme in higher-level vocational training, and
 
 c) the plan of the doctorate course,
 
@@ -3045,23 +3068,23 @@ together with detailed rules of training, thus the curriculum, the programme of 
 
 22. Field of training means the programmes and branches of training defined in a Government decree, whose contents are similar or partly identical,
 
-- Programme with a small headcount means a course launched on the basis of international commitment, cultural or education policy concerns, whose annual quota of admissible students may not exceed 20 persons at the national level; a national or ethnic minority training course,
+23. Programme with a small headcount means a course launched on the basis of international commitment, cultural or education policy concerns, whose annual quota of admissible students may not exceed 20 persons at the national level; a national or ethnic minority training course,
 
-- Teaching hospital means the medical service provider which contributes to the instruction and research tasks of training in medicine,
+24. Teaching hospital means the medical service provider which contributes to the instruction and research tasks of training in medicine,
 
-- Consultation means  an  opportunity  for  personal  discussion  provided  by  the  lecturer  of  the  higher education  institution  in  connection  with  the  student's  studies  at  a  venue  specified  by  the  higher  education institution,
+25. Consultation means an opportunity for personal discussion provided by the lecturer of the higher education institution in connection with the student's studies at a venue specified by the higher education institution,
 
-- Credit means a unit of students' work which represents in relation to the course-unit or curricular unit the estimated time necessary for the acquisition of a specific body of knowledge and the fulfilment of requirements; one credit equals 30 study hours,
+26. Credit means a unit of students' work which represents in relation to the course-unit or curricular unit the estimated time necessary for the acquisition of a specific body of knowledge and the fulfilment of requirements; one credit equals 30 study hours,
 
-- Mentoring programme means a particular form of training where disadvantaged students are assisted with preparation by the student or lecturer of the higher education institution,
+27. Mentoring programme means a particular form of training where disadvantaged students are assisted with preparation by the student or lecturer of the higher education institution,
 
 28. Aptitude test means the verification of abilities to determine whether the applicant possesses the abilities and characteristics that enable him or her to undertake the studies and to pursue the activity that corresponds to the professional or specialised qualification,
 
-29. Regional centre means a unit of a higher education institution established by way of merger as defined in this Act, which operates on a site other than the seat - the site of the predecessor higher education institution and integrates the operation of the organisational units of the higher education institution,
+29. Regional centre means a unit of a higher education institution established by way of merger as defined in this Act, which operates on a site other than the seat — the site of the predecessor higher education institution — and integrates the operation of the organisational units of the higher education institution,
 
 30. Study in another higher education institution means the period when a student obtains credit in another higher education institution in visiting student status,
 
-31. Own revenue means sources other than public finances (including all supports of the European Union that are  transferred  to  higher  education  institutions  without  the  involvement  of  the  central  budget,  and  funds accounted  for  as  payment  of  the  vocational  training  contribution),  and  revenues  from  the  Research  and Technological Innovation Fund,
+31. Own revenue means sources other than public finances (including all supports of the European Union that are transferred to higher education institutions without the involvement of the central budget, and funds accounted for as payment of the vocational training contribution), and revenues from the Research and Technological Innovation Fund,
 
 68
 
@@ -3077,7 +3100,7 @@ together with detailed rules of training, thus the curriculum, the programme of 
 
 35. Attestation of competence means an examination determined by the higher education institution - in the case of higher-level vocational training together with the organiser of practical training - which measures the abilities required for the selected professional or specialised qualification and examines whether the examinee possesses the abilities whose optimal development ensures completion of the preparatory phase,
 
-36 . Current expenditure on professional tasks means expenditure on operation, maintenance and accumulation accounted for any specific task,
+36. Current expenditure on professional tasks means expenditure on operation, maintenance and accumulation accounted for any specific task,
 
 37. Extra mural training means full-time or part-time higher education provided at a site other than the place of operation (seat, establishment) of a higher education institution,
 
@@ -3095,7 +3118,7 @@ together with detailed rules of training, thus the curriculum, the programme of 
 
 44. Disciplines  of  science mean  humanities,  religion,  agriculture,  engineering,  medicine,  social  sciences, natural sciences, and arts which diverge into branches of science,
 
-45. Pre-degree certificate means a certificate that states that the student has passed the curricular examinations and  -  except  for  passing  the  language  examination  and  writing  the  degree  thesis  -  satisfied  other  academic requirements and has earned the number of credits prescribed in the academic and examination regulations except the credit points rendered to the degree thesis,
+45. Pre-degree certificate means a certificate that states that the student has passed the curricular examinations and – except for passing the language examination and writing the degree thesis – satisfied other academic requirements and has earned the number of credits prescribed in the academic and examination regulations – except the credit points rendered to the degree thesis,
 
 46. Examination means a form of assessment to verify and evaluate the acquisition of knowledge, skills and abilities.
 
@@ -3107,7 +3130,7 @@ Section  148 (1)  Any  issues  to  be  regulated  in  the  employment  requireme
 
 (3) The Centre for Foreign Language Education, the Institute of Post-graduate Legal Studies of Eötvös Loránd University of Budapest, and the Institute of Economics of Corvinus University of Budapest shall operate as part of the higher education institution. Institutes of postgraduate studies may offer foreign language education and examinations, and may organise postgraduate specialist training courses and extra-curricular courses. Institutes of  postgraduate  studies  shall  function  under  higher  education  institutions  as  independent  legal  entities,  being budgetary units with partial rights.
 
-(4) International Pet ő András Institute of Conductive Education for the Motor Disabled and Conductor-Teacher Training College, Budapest may function as a college until 31 December 2010 in a way as to provide a programme in at least  one  training  field.  The  college  shall  continue  operation  as  of  1  January  2011  in  accordance  with  the provisions of this Act. If the college fails to comply with this obligation, it may not admit any students to the first year for the academic year starting on 1 September 2011. Students enrolled in preceding years may complete their studies under unaltered conditions.
+(4) International Pető András Institute of Conductive Education for the Motor Disabled and Conductor-Teacher Training College, Budapest may function as a college until 31 December 2010 in a way as to provide a programme in at least one training field. The college shall continue operation as of 1 January 2011 in accordance with the provisions of this Act. If the college fails to comply with this obligation, it may not admit any students to the first year for the academic year starting on 1 September 2011. Students enrolled in preceding years may complete their studies under unaltered conditions.
 
 (5) The Zrínyi Miklós University of National Defence shall use the designation 'university' even though it is entitled to offer graduate education in one training field, and to provide doctorate course and confer the doctoral degree in one discipline of science.
 
@@ -3169,7 +3192,7 @@ bc) for the title under paragraph ac) the abbreviation 'dr. habil.'.
 
 (13) College professors who are entitled to use the title Professor at the time of entry into force of this Act shall remain eligible for such title after this Act has entered into force.
 
-(14) The rights affiliated with Professor Emeritus titles conferred prior to the entry into force of this Act shall be  as  follows:  unless  the  exercise  of  the  entitlement  associated  with  the  title  -  including  the  claim  for  the pertaining financial benefits - is subject to any deadline, it shall be due until 31 December 2010 on condition that the rate of the grant may not be less than in the year 2005. After expiry of the deadline, higher education institutions may enter into an agreement for a definite term of maximum five years as to the duties and benefits affiliated with the title of Professor Emeritus, or may define a greater amount for the benefits. The awardees of Professor Emeritus shall be entitled to use such title even when they are not eligible for the benefits anymore. The rights associated with Professor Emeritus titles given for a definite period shall remain unchanged.
+(14) The rights affiliated with Professor Emeritus titles conferred prior to the entry into force of this Act shall be as follows: unless the exercise of the entitlement associated with the title – including the claim for the pertaining financial benefits – is subject to any deadline, it shall be due until 31 December 2010 on condition
 
 70
 
@@ -3177,7 +3200,9 @@ bc) for the title under paragraph ac) the abbreviation 'dr. habil.'.
 
 [[START OF PAGE 71]]
 
-Section 150 (1)  Where the conferral of a diploma or certificate is conditional on passing a general foreign language examination, students having turned at least the age of 40 in the year of starting their first-year studies shall be exempted from the fulfilment of this requirement. This provision shall be applied for the last time in respect of those who take their final examination in academic year 2015/2016.
+that the rate of the grant may not be less than in the year 2005. After expiry of the deadline, higher education institutions may enter into an agreement for a definite term of maximum five years as to the duties and benefits affiliated with the title of Professor Emeritus, or may define a greater amount for the benefits. The awardees of Professor Emeritus shall be entitled to use such title even when they are not eligible for the benefits anymore. The rights associated with Professor Emeritus titles given for a definite period shall remain unchanged.
+
+Section 150 (1) Where the conferral of a diploma or certificate is conditional on passing a general foreign language examination, students having turned at least the age of 40 in the year of starting their first-year studies shall be exempted from the fulfilment of this requirement. This provision shall be applied for the last time in respect of those who take their final examination in academic year 2015/2016.
 
 (2)  The  equivalency  between  the  six-level  language  examination  system  recommended  by  the  Common European  Framework  of  Reference  for  Languages  produced  by  the  Council  of  Europe  and  the  basic, intermediate and advanced state accredited or an equivalent language examination, as well as the rules pertaining to state accredited language examination which certifies knowledge of a foreign language shall be laid down by the Government.
 
@@ -3225,7 +3250,7 @@ be) Section 69 of Act CXXIV of 1996 on the Annual Budget 1997 of the Republic of
 
 bf) Section 81 and paragraph e) of Section 88 (1) of Act CXLVI of 1997 on the Annual Budget 1998 of the Republic of Hungary,
 
-bg) Section 88 of Act XC of 1998 on the Annual Budget 1999 of the Republic of Hungary, bh) Section 72 of Act CXXV of 1999 on the Annual Budget 2000 of the Republic of Hungary, bi) Sections 1-17, 19-21, 22 (1), 23 (2)-(8), and 24 of Act XCVII of 2000 Amending Act LXXX of 1993 on Higher Education and Act LXXIX of 1993 on Public Education, bj) Section 89 of Act CXXXIII of 2000 on the Annual Budget 2001 and 2002 of the Republic of Hungary, bk) paragraph c) of Section 68 (1) of Act C of 2001 on the Recognition of Foreign Certificates and Degrees, bl) the text 'and Sections 3 (3) and 11 (6), and in respect of Sections 116 (2)-(4) of Act LXXX of 1993 on Higher Education the provisions pertaining to the teaching hospital centre' in Section 35 (1) of Act XXIII of 2002 Amending Act CXXXIII of 2000 on the Annual Budget 2001 and 2002 of the Republic of Hungary, bm) paragraph e) of Section 49 (5) of Act LVIII of 2002 Amending Specific Acts Concerning Health Care and Social Security, bn) Sections 4-6, paragraph b) of Section 7 (3) and Section (4) of Act LX of 2004 Amending Specific Acts Concerning Education, Facilitating the Functioning of Educational Rights, and Promoting the Development of the Institutional and Training System of Higher Education, bo) Section 3 (2) of Act LXI of 2004 on the State Recognition of the Central European University.
+bg) Section 88 of Act XC of 1998 on the Annual Budget 1999 of the Republic of Hungary,
 
 71
 
@@ -3233,7 +3258,23 @@ bg) Section 88 of Act XC of 1998 on the Annual Budget 1999 of the Republic of Hu
 
 [[START OF PAGE 72]]
 
-(4) Act LXVI of 2001 on the State Recognition of Andrássy Gyula University, Budapest and Act LXI of 2004 on the State Recognition of the Central European University shall be repealed on 31 December 2010. As of 1 January  2011,  Andrássy  Gyula  University,  Budapest  and  the  Central  European  University  shall  continue operation pursuant to the provisions of this Act. Where a university fails to comply with this obligation, it may not admit any students to the first year for the academic year starting on 1 September 2011. Students enrolled in preceding years may complete their studies under unaltered conditions. The Minister of Education shall conduct the procedure regulated in Section 105.
+bh) Section 72 of Act CXXV of 1999 on the Annual Budget 2000 of the Republic of Hungary,
+
+bi) Sections 1–17, 19–21, 22 (1), 23 (2)–(8), and 24 of Act XCVII of 2000 Amending Act LXXX of 1993 on Higher Education and Act LXXIX of 1993 on Public Education,
+
+bj) Section 89 of Act CXXXIII of 2000 on the Annual Budget 2001 and 2002 of the Republic of Hungary,
+
+bk) paragraph c) of Section 68 (1) of Act C of 2001 on the Recognition of Foreign Certificates and Degrees,
+
+bl) the text 'and Sections 3 (3) and 11 (6), and in respect of Sections 116 (2)–(4) of Act LXXX of 1993 on Higher Education the provisions pertaining to the teaching hospital centre' in Section 35 (1) of Act XXIII of 2002 Amending Act CXXXIII of 2000 on the Annual Budget 2001 and 2002 of the Republic of Hungary,
+
+bm) paragraph e) of Section 49 (5) of Act LVIII of 2002 Amending Specific Acts Concerning Health Care and Social Security,
+
+bn) Sections 4–6, paragraph b) of Section 7 (3) and Section (4) of Act LX of 2004 Amending Specific Acts Concerning Education, Facilitating the Functioning of Educational Rights, and Promoting the Development of the Institutional and Training System of Higher Education,
+
+bo) Section 3 (2) of Act LXI of 2004 on the State Recognition of the Central European University.
+
+(4) Act LXVI of 2001 on the State Recognition of Andrássy Gyula University, Budapest and Act LXI of 2004 on the State Recognition of the Central European University shall be repealed on 31 December 2010. As of 1 January 2011, Andrássy Gyula University, Budapest and the Central European University shall continue operation pursuant to the provisions of this Act. Where a university fails to comply with this obligation, it may not admit any students to the first year for the academic year starting on 1 September 2011. Students enrolled in preceding years may complete their studies under unaltered conditions. The Minister of Education shall conduct the procedure regulated in Section 105.
 
 (5) The entry into force of this Act shall not affect the validity of institutional agreements concluded under the Higher  Education  Act  of  1993.  However,  their  content  shall  be  reviewed  before  1  September  2006,  and  the institutional development plan shall be drafted before 31 December 2006. In the absence of revision, agreements executed  for  training  provision  that  is  in  conflict  with  this  Act  shall  be  annulled  on  the  above  date  so  that programmes launched on the basis of the agreement shall be terminated.
 
@@ -3247,7 +3288,7 @@ Section  152 (1)  The  entry  into  force  of  this  Act  shall  not  affect  th
 
 (3)  In  respect  of  the  further  employment  of  employees  at  the  Secretariats  of  the  Hungarian  Accreditation Committee and the Higher Education and Scientific Council, the provisions of Act on the Legal Status of Public Servants  Concerning  Change  in  the  Employer's  Entity  shall  apply,  taking  into  account  the  stipulations  of Sections 111 (5) and 113 (5).
 
-(4) Courses launched under the Higher Education Act 1993 shall be completed - in continuous provision without modification of the programme requirements, the examination rules or the diplomas issued.
+(4) Courses launched under the Higher Education Act 1993 shall be completed – in continuous provision – without modification of the programme requirements, the examination rules or the diplomas issued.
 
 72
 
@@ -3263,19 +3304,19 @@ Section  152 (1)  The  entry  into  force  of  this  Act  shall  not  affect  th
 
 Section 153 (1) The Government shall be authorised to regulate by way of a decree
 
-- the conditions of awarding the research university classification [Section 5 (6)],
+1. the conditions of awarding the research university classification [Section 5 (6)],
 
-- the structure of training [Section 11 (2)],
+2. the structure of training [Section 11 (2)],
 
-3. the minimum (statutory) conditions of establishment of higher education institutions, the rules of procedure in  connection  with  establishment  and  the  pertaining  procedure  fee,  and  the  conditions  of  founding  the  public education institution for teaching practice [Sections 12 (4), 15 (12), and 38 (1)],
+3. the minimum (statutory) conditions of establishment of higher education institutions, the rules of procedure in connection with establishment and the pertaining procedure fee, and the conditions of founding the public education institution for teaching practice [Sections 12 (4), 15 (12), and 38 (1)],
 
-- the establishment of the quality award [Section 108 (4)],
+4. the establishment of the quality award [Section 108 (4)],
 
 5. the order of multi-cycle training, the qualification framework, the procedure of launching a programme, and the rules of doctoral education [paragraphs a) and c) of Section 32 (11), and Section 145 (7)],
 
 6. the rules of state accredited foreign language examinations [Section 150 (2)],
 
-7.  procedural  issues  pertaining  to  the  operation  of  the  higher  education  information  system,  the  file management of higher education institutions, data provision, and the student pass, teacher pass, and teacher and student identification number, as well as the rules of keeping records on the state-funded period [Sections 35 (2) and (11), 55 (6), and 73 (1)],
+7. procedural issues pertaining to the operation of the higher education information system, the file management of higher education institutions, data provision, and the student pass, teacher pass, and teacher and student identification number, as well as the rules of keeping records on the state-funded period [Sections 35 (2) and (11), 55 (6), and 73 (1)],
 
 8. the rules on the organisation of higher-level vocational training [paragraph b) of Section 32 (11)],
 
@@ -3283,45 +3324,45 @@ Section 153 (1) The Government shall be authorised to regulate by way of a decre
 
 10. the requirements for preferential treatment to promote equal opportunities among applicants and students; the rules on the organisation of mentoring programmes [Sections 39 (7), and 66 (6)],
 
-- the rules pertaining to the establishment and verification of disability, the principles relating to the studies of disabled students [Sections 44 (3), and 61 (2)],
+11. the rules pertaining to the establishment and verification of disability, the principles relating to the studies of disabled students [Sections 44 (3), and 61 (2)],
 
-- the rules on access to student bursaries and other benefits [Sections 51 (3), 104 (5), 118 (6), and 119 (3)],
+12. the rules on access to student bursaries and other benefits [Sections 51 (3), 104 (5), 118 (6), and 119 (3)],
 
-- the rules on the provision of housing facilities [Section 52 (8)],
+13. the rules on the provision of housing facilities [Section 52 (8)],
 
-- the general rules of credit-based education [Section 57 (5)],
+14. the general rules of credit-based education [Section 57 (5)],
 
-- the rules of conferring doctorate degrees with honours [Section 65 (1)],
+15. the rules of conferring doctorate degrees with honours [Section 65 (1)],
 
-- the application system with respect to employment [Section 88 (3)],
+16. the application system with respect to employment [Section 88 (3)],
 
-- the rules concerning employment, benefits, and executive assignments [Sections 80 (3), 93 (4), 94 (3), 95 (6), and 96 (6)],
+17. the rules concerning employment, benefits, and executive assignments [Sections 80 (3), 93 (4), 94 (3), 95 (6), and 96 (6)],
 
 18. the establishment and rules of operation and supervision of the registration centre [Section 107 (7)],
 
-19.  issues  regarding  the  functioning  of  the  Hungarian  Accreditation  Committee  of  Higher  Education,  the Higher Education and Scientific Council, and the National Credit Council [Sections 110 (8), 111 (8), 113 (8), and 114 (6)],
+19. issues regarding the functioning of the Hungarian Accreditation Committee of Higher Education, the Higher Education and Scientific Council, and the National Credit Council [Sections 110 (8), 111 (8), 113 (8), and 114 (6)],
 
-20. issues relating to the funding and management of higher education institutions [Sections 123 (2), 127 (2), 128  (6),  129  (2),  130  (7),  131  (4),  132  (3),  133  (2),  141  (9),  and  143  (4)],  and  matters  pertaining  to  the management of private institutions [Section 138 (1)],
+20. issues relating to the funding and management of higher education institutions [Sections 123 (2), 127 (2), 128 (6), 129 (2), 130 (7), 131 (4), 132 (3), 133 (2), 141 (9), and 143 (4)], and matters pertaining to the management of private institutions [Section 138 (1)],
 
-- the establishment of academic scholarships [Sections 134 (1)-(2), 152 (6)],
+21. the establishment of academic scholarships [Sections 134 (1)–(2), 152 (6)],
 
-- the rules of procedure of loan applications [Section 123 (2)].
+22. the rules of procedure of loan applications [Section 123 (2)].
 
-- The Minister of Education shall be authorised to regulate by way of a decree
+(2) The Minister of Education shall be authorised to regulate by way of a decree
 
 a) the duties and operational rules of the Office of the Commissioner for Educational Rights,
 
-- the programme and exit requirements in undergraduate and graduate education,
+b) the programme and exit requirements in undergraduate and graduate education,
 
 c) the general rules on the organisation of postgraduate specialist training courses.
 
-- The Government shall exercise
+(3) The Government shall exercise
 
-a) its governance powers in connection with items 2, and 14-15 of subsection (1), and item 5 - in respect of determining  the  order  of  multi-cycle  training,  the  qualification  framework,  and  the  procedure  of  launching  a programme - subject to the consent of the Hungarian Rectors Conference,
+a) its governance powers in connection with items 2, and 14–15 of subsection (1), and item 5 – in respect of determining the order of multi-cycle training, the qualification framework, and the procedure of launching a programme – subject to the consent of the Hungarian Rectors Conference,
 
 b) its powers to determine item 1 of subsection (1), and the rules of doctoral education under item 5 subject to the consent of the Hungarian Accreditation Committee of Higher Education.
 
-(4) The Minister of Education shall request the consent of the Hungarian Rectors Conference when issuing a decree pursuant to the authorisation granted under paragraphs b) -c) of subsection (2).
+(4) The Minister of Education shall request the consent of the Hungarian Rectors Conference when issuing a decree pursuant to the authorisation granted under paragraphs b)–c) of subsection (2).
 
 ### TRANSITIONAL PROVISIONS
 
@@ -3355,7 +3396,7 @@ Section 156 (1) In accordance with the stipulations of paragraph a) of Section 1
 
 Section 157 (1) Executive assignments shall remain valid in line with the original appointment until the new organisational structure of higher education institutions has been created, but no longer than 31 December 2006. Until that date the rector shall re-examine all executive assignments and shall, in compliance with this Act, either confirm or cancel such assignments. In applying the rule pertaining to the extension of executive assignments as defined in Section 96 (5), executive assignments in place at the time of the entry into force of this Act shall be considered.
 
-(2) The entry into force of this Act shall not affect the employment of lecturers and researchers, their contracts of  employment or letters of appointment to public servant, or the college or university titles they received  in connection with employment. Following the entry into force of this Act, lecturers and researchers may still be employed according to the provisions of the Higher Education Act 1993. The status and employment of lecturers and researchers having entered into employment under the former conditions may only be altered if they satisfy the  new requirements. As of 1 September 2008, lecturer and researcher  positions  may  only  be  established  in accordance with the provisions of this Act. Lecturers and researchers employed pursuant to the provisions of the Higher  Education  Act  1993  and  satisfying  the  new  requirements  shall  be  ranked  in  line  with  the  positions specified  for ' university'  lecturers,  regardless  of  the  fact  whether  they  are  to  be  employed  in  college  or university. In this case employment shall be subject to the new provisions, except that the period of employment in  the  given  lecturer  position  shall  be  included  in  the  time  limits  defined  in  Section  91.  Where  less  than  five years are available for achieving compliance with the prescribed criteria, lecturers shall be required to meet such criteria  within  five  years  from  the  date  of  signing  the  new  contract  of  employment  or  appointment  to  public servant. Lecturers shall be assigned to the same ' university lecturer' payroll status as the one they enjoyed as ' college lecturers', and reckoning of the time spent in the payroll status shall be started over.
+(2) The entry into force of this Act shall not affect the employment of lecturers and researchers, their contracts of employment or letters of appointment to public servant, or the college or university titles they received in connection with employment. Following the entry into force of this Act, lecturers and researchers may still be employed according to the provisions of the Higher Education Act 1993. The status and employment of lecturers and researchers having entered into employment under the former conditions may only be altered if they satisfy the new requirements. As of 1 September 2008, lecturer and researcher positions may only be established in accordance with the provisions of this Act. Lecturers and researchers employed pursuant to the provisions of the Higher Education Act 1993 and satisfying the new requirements shall be ranked in line with the positions specified for 'university' lecturers, regardless of the fact whether they are to be employed in college or university. In this case employment shall be subject to the new provisions, except that the period of employment in the given lecturer position shall be included in the time limits defined in Section 91. Where less than five years are available for achieving compliance with the prescribed criteria, lecturers shall be required to meet such criteria within five years from the date of signing the new contract of employment or appointment to public servant. Lecturers shall be assigned to the same 'university lecturer' payroll status as the one they enjoyed as 'college lecturers', and reckoning of the time spent in the payroll status shall be started over.
 
 (3) The regular monthly payment of staff employed in lecturer or researcher positions may not be reduced on the  grounds  of  transition  to  a  new  remuneration  system.  With  a  view  to  the  phasing  in  of  the  remuneration system that serves the rewarding of outstanding lecturer or researcher performance as regulated in Sections 97 (2)-(3), a proportion - to be defined by the Annual Budget Act - of the amount available for the increase of the regular  payment  of  lecturers  and  researchers  shall  be  allocated  to  the  appropriation  available  for  rewarding instructor or researcher performance until it reaches the required level, on condition that this amount may not be less than one third of the amount available. As long as the appropriation is less than required, the amount of the awardable extra monthly payment per capita may not be less than three times the amount available per capita in the given year.
 
@@ -3403,13 +3444,13 @@ Section 160 (1) With effect from 1 September 2006 higher education institutions 
 
 (3) As from the final examination period in June 2006, the diploma shall display the Ministry of Education identifier  of  the  higher  education  institution,  and  the  National  Higher  Education  Information  Centre  shall  be notified of the diploma issued as defined in this Act.
 
-Section  161 (1)  The  provisions  of  Sections  53 -56  shall  be  applied  in  respect  of  courses  launched  on  1 September 2006.
+Section 161 (1) The provisions of Sections 53–56 shall be applied in respect of courses launched on 1 September 2006.
 
-(2) Following the entry into force of this Act, persons who can certify that they obtained a diploma in a higher education institution as fee-paying students shall be eligible for state-funded training under Sections 53-55. In respect of persons who obtained their diplomas or certificates in higher education after 1 January 2006, and wish to pursue further studies in higher education but cannot prove to have been enrolled in fee-paying training, for the  purposes of Sections 55 (2)-(3) - in any training cycle - seven semesters shall be assumed to have been spent  in  state-funded  training.  Students  may  furnish  proof  to  the  contrary  upon  enrolment  to  challenge  this assumption.
+(2) Following the entry into force of this Act, persons who can certify that they obtained a diploma in a higher education institution as fee-paying students shall be eligible for state-funded training under Sections 53–55. In respect of persons who obtained their diplomas or certificates in higher education after 1 January 2006, and wish to pursue further studies in higher education but cannot prove to have been enrolled in fee-paying training, for the purposes of Sections 55 (2)–(3) – in any training cycle – seven semesters shall be assumed to have been spent in state-funded training. Students may furnish proof to the contrary upon enrolment to challenge this assumption.
 
 (3) The credit transfer committee of higher education institutions shall determine on the basis of Section 58 (7) conditions under which certificates and diplomas issued pursuant to the provisions of the Higher Education Act of 1993 can be validated in courses launched under this Act, and the number of credits such certificates and diplomas  merit.  The  respective  bodies  of  knowledge  shall  be  compared,  regardless  of  the  fact  whether  the student read for his/her degree in credit-based education or non-credit-based education.
 
-(4) With effect from 1 March 2006, the provisions pertaining to the right to remedy as regulated in Sections 73 -75 shall also be applied to cases pending at the time of entry into force of this Act.
+(4) With effect from 1 March 2006, the provisions pertaining to the right to remedy as regulated in Sections 73–75 shall also be applied to cases pending at the time of entry into force of this Act.
 
 (5) The provisions on the termination of student status shall also apply to persons who acquired student status before the entry into force of this Act.
 
@@ -3417,11 +3458,11 @@ Section  161 (1)  The  provisions  of  Sections  53 -56  shall  be  applied  in 
 
 #### Introduction of the New Funding System
 
-Section 162 (1) The stipulations of Section 53 (3) shall for the first time be applied to undergraduate courses launched  on  1  September  2006.  The  quota  of  state-funded  students  admissible  to  graduate,  doctorate,  and postgraduate specialist training courses shall be determined for the first time pursuant to the provisions herein in 2009. The Government shall determine the quota of  state-funded students  admissible  to  graduate  courses  for academic years 2006-2009 at its discretion, on the basis of the total number of state-funded students in higher education.
+Section 162 (1) The stipulations of Section 53 (3) shall for the first time be applied to undergraduate courses launched on 1 September 2006. The quota of state-funded students admissible to graduate, doctorate, and postgraduate specialist training courses shall be determined for the first time pursuant to the provisions herein in 2009. The Government shall determine the quota of state-funded students admissible to graduate courses for academic years 2006–2009 at its discretion, on the basis of the total number of state-funded students in higher education.
 
 (2)  The  ratio  of  newly  admitted  students  as  defined  under  Section  53  (3)  and  full-time  students  in  formal education who attend the last year of secondary school may not exceed the ratio of the quota of state-funded students determined in 2005 and full-time students in formal education who attend the last year of secondary school in 2005.
 
-(3) Under the funding system specified in Sections 127 -133, and Section 141 (5) and Section 143 (2), first the annual budget for 2007 shall be produced, and the application of paragraph e) of Section 128 (2) and subsection (3)  shall  be  compulsory  as  of  1  January  2007.  The  amount  of  student  bursaries  may  not  be  less  in  the introductory phase of the funding system than the amount specified in 2005 for the same purpose.
+(3) Under the funding system specified in Sections 127–133, and Section 141 (5) and Section 143 (2), first the annual budget for 2007 shall be produced, and the application of paragraph e) of Section 128 (2) and subsection (3) shall be compulsory as of 1 January 2007. The amount of student bursaries may not be less in the introductory phase of the funding system than the amount specified in 2005 for the same purpose.
 
 (4) The provisions of Section 129 (3) shall be applied with effect from 1 September 2006.
 
@@ -3451,15 +3492,15 @@ j) payroll class 'J']
 
 ' ja) position conditional on a diploma with university degree and professional qualification and a scientific degree as defined in the Higher Education Act,'
 
-(2) Sections 79/C -79/E of the Kjt. shall be replaced by the following:
+(2) Sections 79/C–79/E of the Kjt. shall be replaced by the following:
 
 '79/C (1) The issues of employment in lecturer, researcher, instructor, and other positions in higher education institutions  (fixed-term  employment,  questions  of  the  application  procedure,  reduction  of  waiting  period, consideration for additional professional qualifications, extra pay, executive allowance, salary supplement) shall be laid down by the Government.
 
-(2)  As  research  positions  -  with  the  exception  of  higher  education  institutions  -  the  positions  of  research professor, scientific advisor, senior research fellow, research fellow, and research assistant may be established. The  conditions  of  promotion  to  the  research  positions  defined  in  this  subsection  shall  be  defined  by  the Government.
+(2) As research positions – with the exception of higher education institutions – the positions of research professor, scientific advisor, senior research fellow, research fellow, and research assistant may be established. The conditions of promotion to the research positions defined in this subsection shall be defined by the Government.
 
 79/D  (1)  The  positions  of  university  professor,  university  associate  professor,  college  professor,  college associate  professor,  and  university  assistant  professor  in  higher  education  institution,  and  the  positions  of research  professor,  scientific  advisor  and  senior  research  fellow  in  central  budgetary  organs  (including institutions  affiliated  with  the  Hungarian  Academy  of  Sciences,  financed  from  the  central  budget)  shall  be divided into three payroll statuses. The positions of university assistant lecturer and college assistant professor in higher education institutions shall be divided into two payroll statuses.
 
-(2) The payroll status of public servants shall be determined on the basis of the period of time served in a specific position, in a work-related relationship - except for fixed-term employment - in any higher education institution or central budgetary organ (including institutions affiliated with the Hungarian Academy of Sciences, financed from the central budget). If during the same period more than one work-related relationship exists in respect of the given position, only one shall be considered.
+(2) The payroll status of public servants shall be determined on the basis of the period of time served in a specific position, in a work-related relationship – except for fixed-term employment – in any higher education institution or central budgetary organ (including institutions affiliated with the Hungarian Academy of Sciences, financed from the central budget). If during the same period more than one work-related relationship exists in respect of the given position, only one shall be considered.
 
 (3)  Public  servants  holding  one  of  the  positions  listed  under  subsection  (1)  shall  be  promoted  to  a  higher payroll status if they fulfil the criteria specified in subsection (4), as follows:
 
@@ -3491,7 +3532,7 @@ b) The first sentence of Section 4 (5) shall be replaced by the following:
 
 [[START OF PAGE 78]]
 
-'(5) Entities liable to pay contributions and not having complied with their vocational contribution obligations in full under Sections (2) -(4) shall be entitled to settle such arrears - on the basis of a development agreement -  by  granting  support  for  accumulation  purposes  that  directly  serves  the  development  of  the  infrastructure conditions (hereinafter: 'development support') of basic vocational training in vocational schools, the practical training of vocational school students in central training establishments that operate under the regional integrated vocational  training  centre  (hereinafter: ' central  training  establishment'),  and  the  practical  training  in  higher education institutions falling under the scope of the Ftv.'
+“(5) Entities liable to pay contributions and not having complied with their vocational contribution obligations in full under Sections (2) – (4) shall be entitled to settle such arrears – on the basis of a development agreement – by granting support for accumulation purposes that directly serves the development of the infrastructure conditions (hereinafter: ‘development support’) of basic vocational training in vocational schools, the practical training of vocational school students in central training establishments that operate under the regional integrated vocational training centre (hereinafter: ‘central training establishment’), and the practical training in higher education institutions falling under the scope of the Ftv.”
 
 c) Section 4 (6) shall be replaced by the following:
 
@@ -3505,7 +3546,7 @@ d) The first sentence in paragraph a) of Section 5 (2) shall be replaced by the 
 
 e) Section 14 (1) shall be replaced by the following:
 
-'(1) Any funds available from fund allocation may be used to support the practical training provided at the entity liable to pay contribution, in vocational schools, central training establishments, labour centres as defined in paragraph e) of Section 53 (1) of the Szt., and in higher education institutions - in the framework of training awarding  a  vocational  qualification,  and  pre-vocational  training  that  can  be  validated  in  vocational  studies pursuant to Section 11 of the Szt. -, and investments directed at infrastructure development for state-of-the-art education  in  information  and  computer  technology  in  general  secondary  schools  (hereinafter: ' investment support').  By  means  of  an  open  application  procedure,  the  financial  assets  of  the  fund  may  be  used  to  grant investment support to vocational school maintainers for the creation of a regional integrated vocational training centre, in a system of financing crossing tax year boundaries.'
+“(1) Any funds available from fund allocation may be used to support the practical training provided at the entity liable to pay contribution, in vocational schools, central training establishments, labour centres as defined in paragraph e) of Section 53 (1) of the Szt., and in higher education institutions – in the framework of training awarding a vocational qualification, and pre-vocational training that can be validated in vocational studies pursuant to Section 11 of the Szt. –, and investments directed at infrastructure development for state-of-the-art education in information and computer technology in general secondary schools (hereinafter: ‘investment support’). By means of an open application procedure, the financial assets of the fund may be used to grant investment support to vocational school maintainers for the creation of a regional integrated vocational training centre, in a system of financing crossing tax year boundaries.”
 
 f) paragraph a) of Section 28 (4) shall be replaced by the following:
 
@@ -3515,7 +3556,7 @@ f) paragraph a) of Section 28 (4) shall be replaced by the following:
 
 Section 167 In Act LXXVI of 1993 on Vocational Education (Hungarian abbreviation 'Szt.')
 
-a) in Section 1 (1) the text 'the training regulated in paragraphs b) , c) and d) of Section 84 (2) of Act LXXX of 1993 on Higher Education (hereinafter: ' Higher Education Act')' shall be replaced by 'the training regulated in  Sections  11  (1) -(2)  and  paragraph b) of  subsection  (3)  of  Act  CXXXIX  of  2005  on  Higher  Education (hereinafter: ' Higher Education Act')',
+a) in Section 1 (1) the text “the training regulated in paragraphs b), c) and d) of Section 84 (2) of Act LXXX of 1993 on Higher Education (hereinafter: ‘Higher Education Act’)” shall be replaced by “the training regulated in Sections 11 (1)–(2) and paragraph b) of subsection (3) of Act CXXXIX of 2005 on Higher Education (hereinafter: ‘Higher Education Act’)”,
 
 b) Section 2 shall be replaced by the following:
 
@@ -3535,7 +3576,7 @@ f) central training establishments.
 
 (2) The establishment, maintenance, and operation of vocational schools shall be subject to the provisions of the  Public  Education  Act,  the  establishment,  maintenance,  and  operation  of  higher  education  institutions providing higher-level vocational training shall be covered by the Higher Education Act, whilst the establishment and maintenance of training centres shall fall under scope of the Adult Education Act.
 
-(3) Except for the specifications of Section 15 (2) of this Act, natural persons and legal entities - complying with the statutory criteria -, and their business organisations without legal personality may provide vocational training without maintaining a vocational school, in other organisational frameworks [the entities listed under subsections (1) and (3) hereinafter jointly referred to as 'institution providing vocational training'.
+(3) Except for the specifications of Section 15 (2) of this Act, natural persons and legal entities – complying with the statutory criteria –, and their business organisations without legal personality may provide vocational training without maintaining a vocational school, in other organisational frameworks [the entities listed under subsections (1) and (3) hereinafter jointly referred to as ‘institution providing vocational training’.
 
 78
 
@@ -3549,7 +3590,7 @@ f) central training establishments.
 
 c) The following subsection shall be added to Section 5 of the Szt.:
 
-'(6) In respect of higher-level vocational training, the provisions of paragraph a) of Section (1), paragraphs a) and b) - except for the development of the central programme - and f) and g) of subsection (2), and subsection (4) shall apply.'
+“(6) In respect of higher-level vocational training, the provisions of paragraph a) of Section (1), paragraphs a) and b) – except for the development of the central programme – and f) and g) of subsection (2), and subsection (4) shall apply.”
 
 d) The following subsection shall be inserted in Section 7 of the Szt.:
 
@@ -3579,7 +3620,7 @@ a) Section 12 (2) shall be replaced by the following:
 
 b) Section 12 (4) of the Kt. shall be replaced by the following:
 
-'(4) Students shall be eligible for appropriate consideration in the case defined in subsection (2). The student students younger than 14 years old need parental consent - and the education institution shall agree as to the due amount of consideration if such revenues are generated through the sale or utilisation of a one-off, individually made object. In the event the object is produced regularly in the course of instruction and the education process, the due consideration shall be offset against the profit projected for the activities of the participants of the whole education process. The pertaining rules shall be established in the statutes so that student performance is taken into account.'
+“(4) Students shall be eligible for appropriate consideration in the case defined in subsection (2). The student – students younger than 14 years old need parental consent – and the education institution shall agree as to the due amount of consideration if such revenues are generated through the sale or utilisation of a one-off, individually made object. In the event the object is produced regularly in the course of instruction and the education process, the due consideration shall be offset against the profit projected for the activities of the participants of the whole education process. The pertaining rules shall be established in the statutes so that student performance is taken into account.”
 
 Section 170 The following paragraph shall be added to Section 4 (1) of Act CXXVI of 1996 on the Use of a Specified Amount of Personal Income Tax in Accordance with the Taxpayer's Instruction :
 
@@ -3605,7 +3646,7 @@ Section  171 (1)  Section  2  (2)  of  Act  LXXXI  of  1996  on  Corporate  Tax 
 
 (3) Section 9 (1) of the Tao. shall be replaced by the following:
 
-'(1)  The  tax  base  of foundations,  public  foundations, social organisations, public  bodies,  churches, condominiums  and  voluntary  mutual  insurance  funds,  and  higher  education  institutions  classified  as  public benefit organisations or public benefit organisations with special legal status shall be the pre-tax profit earned on business  activities  as  modified  by  the  provisions  of  Sections  (2) -(5)  and  having  regard  to  the  provisions  of Sections (6) -(9).'
+“(1) The tax base of foundations, public foundations, social organisations, public bodies, churches, condominiums and voluntary mutual insurance funds, and higher education institutions classified as public benefit organisations or public benefit organisations with special legal status shall be the pre-tax profit earned on business activities as modified by the provisions of Sections (2)–(5) and having regard to the provisions of Sections (6)–(9).”
 
 (4) Paragraph c) of Section 9 (3) of the Tao. shall be replaced by the following:
 
@@ -3619,11 +3660,11 @@ cb) by a certain portion of the donation calculated with the rate specified in s
 
 (5) Section 9 (6) of the Tao. shall be replaced by the following:
 
-'(6)  The  tax  base  of  foundations,  public  foundations,  social  organisations,  public  corporations  and  higher education institutions classified as public benefit organisations or public benefit organisations with special legal status  shall  be  the  part  of  the  amount  specified  under  subsections  (1)-(4)  calculated  with  the  rate  defined  in subsection (7).'
+“(6) The tax base of foundations, public foundations, social organisations, public corporations and higher education institutions classified as public benefit organisations or public benefit organisations with special legal status shall be the part of the amount specified under subsections (1)–(4) calculated with the rate defined in subsection (7).”
 
 (6) Section 26 (11) of the Tao. shall be replaced by the following:
 
-'(11) Provisions of subsections (1)-(10) shall not apply to taxpayers in the case of dissolution or a tax return submitted due to the completion of the incorporation procedure, nor to ESOP (Employee Stock Ownership Plan), public  benefit  companies,  water  associations,  foundations,  public  foundations,  social  organisations,  public corporations, churches, condominiums, higher education institutions classified as public benefit organisations or public benefit organisations with special legal status, and voluntary mutual insurance funds.'
+“(11) Provisions of subsections (1)–(10) shall not apply to taxpayers in the case of dissolution or a tax return submitted due to the completion of the incorporation procedure, nor to ESOP (Employee Stock Ownership Plan), public benefit companies, water associations, foundations, public foundations, social organisations, public corporations, churches, condominiums, higher education institutions classified as public benefit organisations or public benefit organisations with special legal status, and voluntary mutual insurance funds.”
 
 (7) The title of Annex 6 to the Tao. shall be replaced by the following:
 
@@ -3697,17 +3738,17 @@ d) paragraph e) of Section 16 (1) shall be replaced by the following:
 
 [Student status shall be terminated]
 
-' e) upon deletion from the Students Register in the case referred to in paragraphs b)-c) of Section 76 (2) of the Ftv., on the day of deletion.'
+“e) upon deletion from the Students Register in the case referred to in paragraphs b)–c) of Section 76 (2) of the Ftv., on the day of deletion.”
 
 e) in  Section  30  (2)  the  text  'within  the  meaning  of  paragraph c) of  Section  39  (1)  of  the  Ftv.'  shall  be replaced by 'within the meaning of paragraph d) of Section 70 (2) of the Ftv.',
 
 f) Section 32 (5) shall be replaced by the following:
 
-'(5) In the case of students with dual status - in addition to the provisions listed under Section 48 - Sections 35 (6) and 70 -72. of the Ftv. shall neither be applied.'
+“(5) In the case of students with dual status – in addition to the provisions listed under Section 48 – Sections 35 (6) and 70–72. of the Ftv. shall neither be applied.”
 
 g) Section 48 (1) shall be replaced by the following:
 
-'(1)  The  rules  of  the  Ftv.  shall  be  applied  to  heads,  lecturers,  and  students  of  institutions  subject  to  the derogations specified in this Act, paragraphs a)-b) , e) -g) of Section 46 (5) of the Ftv. shall not be applied.'
+“(1) The rules of the Ftv. shall be applied to heads, lecturers, and students of institutions subject to the derogations specified in this Act, paragraphs a)–b), e)–g) of Section 46 (5) of the Ftv. shall not be applied.”
 
 (3) Paragraph a) of Section 48/A (4) of Act XXIII of 1992 on the Legal Status of Public Servants shall be replaced by the following:
 
@@ -3725,9 +3766,8 @@ g) Section 48 (1) shall be replaced by the following:
 
 [[START OF PAGE 82]]
 
-'14. Education institution means an institution defined in Sections 20 -23 of Act LXXIX of 1993 on Public Education, in Sections 18 (1) -(2) of Act CXXXIX of 2005 on Higher Education, and in Section 2 of Act LXXVI of 1993 on Vocational Education;'.
-
-(5) In Section 4 (3) of Act C of 2001 on the recognition of foreign certificates and diplomas, the text 'Act LXXX of 1993 on Higher Education' shall be replaced by the text 'Higher Education Act'.
+“14. Education institution means an institution defined in Sections 20–23 of Act LXXIX of 1993 on Public Education, in Sections 18 (1)–(2) of Act CXXXIX of 2005 on Higher Education, and in Section 2 of Act LXXVI of 1993 on Vocational Education;”.
+(5) In Section 4 (3) of Act C of 2001 on the recognition of foreign certificates and diplomas, the text “Act LXXX of 1993 on Higher Education” shall be replaced by the text “Higher Education Act”.
 
 # Annex 1 to Act CXXXIX of 2005
 
@@ -3739,7 +3779,7 @@ Budapesti Corvinus Egyetem, Budapest
 
 Corvinus University of Budapest
 
-Budapesti M ű szaki és Gazdaságtudományi Egyetem, Budapest
+Budapesti Műszaki és Gazdaságtudományi Egyetem, Budapest
 
 Budapest University of Technology and Economics
 
@@ -3755,11 +3795,11 @@ Kaposvári Egyetem, Kaposvár
 
 University of Kaposvár
 
-Liszt Ferenc Zenem ű vészeti Egyetem, Budapest
+Liszt Ferenc Zeneművészeti Egyetem, Budapest
 
 Liszt Ferenc Academy of Music (University), Budapest
 
-Magyar Képz ő m ű vészeti Egyetem, Budapest
+Magyar Képzőművészeti Egyetem, Budapest
 
 Hungarian Academy of Fine Arts, Budapest
 
@@ -3767,7 +3807,7 @@ Miskolci Egyetem, Miskolc
 
 University of Miskolc
 
-Moholy-Nagy M ű vészeti Egyetem, Budapest
+Moholy-Nagy Művészeti Egyetem, Budapest
 
 Moholy-Nagy University of Art and Design, Budapest
 
@@ -3791,15 +3831,15 @@ Szegedi Tudományegyetem, Szeged
 
 University of Szeged
 
-Szent István Egyetem, Gödöll ő
+Szent István Egyetem, Gödöllő
 
-Szent István University, Gödöll ő
+Szent István University, Gödöllő
 
-Széchenyi István Egyetem, Gy ő r
+Széchenyi István Egyetem, Győr
 
-Széchenyi István University, Gy ő r
+Széchenyi István University, Győr
 
-Színház- és Filmm ű vészeti Egyetem, Budapest
+Színház- és Filmművészeti Egyetem, Budapest
 
 University of Drama and Film, Budapest
 
@@ -3809,7 +3849,7 @@ Zrínyi Miklós University of National Defence, Budapest
 
 ### Non-state universities
 
-Andrássy Gyula Budapesti Német Nyelv ű Egyetem, Budapest
+Andrássy Gyula Budapesti Német Nyelvű Egyetem, Budapest
 
 Andrássy Gyula University, Budapest
 
@@ -3835,9 +3875,9 @@ Közép-európai Egyetem, Budapest
 
 Central European University, Budapest
 
-Országos Rabbiképz ő - Zsidó Egyetem, Budapest
+Országos Rabbiképző - Zsidó Egyetem, Budapest
 
-Jewish Theological Seminary - University of Jewish Studies, Budapest
+Jewish Theological Seminary – University of Jewish Studies, Budapest
 
 Pázmány Péter Katolikus Egyetem, Budapest
 
@@ -3845,85 +3885,81 @@ Pázmány Péter Catholic University, Budapest
 
 ### State colleges
 
-Berzsenyi Dániel F ő iskola, Szombathely
+Berzsenyi Dániel Főiskola, Szombathely
 
 Berzsenyi Dániel College, Szombathely
 
-Budapesti Gazdasági F ő iskola, Budapest
+Budapesti Gazdasági Főiskola, Budapest
 
 Budapest Business School
 
-Budapesti M ű szaki F ő iskola, Budapest
+Budapesti Műszaki Főiskola, Budapest
 
 Budapest TECH Polytechnical Institution
 
-Dunaújvárosi F
-
-ő
-
-iskola, Dunaújváros
+Dunaújvárosi Főiskola, Dunaújváros
 
 College of Dunaújváros
 
-Eötvös József F ő iskola, Baja
+Eötvös József Főiskola, Baja
 
 Eötvös József College, Baja
 
-Eszterházy Károly F ő iskola, Eger
+Eszterházy Károly Főiskola, Eger
 
 Eszterházy Károly College, Eger
 
-Károly Róbert F ő iskola, Gyöngyös
+Károly Róbert Főiskola, Gyöngyös
 
 Károly Róbert College, Gyöngyös
 
-Kecskeméti F
-
-ő
-
-iskola, Kecskemét
+Kecskeméti Főiskola, Kecskemét
 
 Kecskemét College
 
-Magyar Táncm ű vészeti F ő iskola, Budapest
+Magyar Táncművészeti Főiskola, Budapest
 
 Hungarian Dance Academy, Budapest
 
-Nyíregyházi F
-
-ő
-
-iskola, Nyíregyháza
+Nyíregyházi Főiskola, Nyíregyháza
 
 College of Nyíregyháza
 
-Rend
-
-ő
-
-rtiszti F
-
-ő
-
-iskola, Budapest
+Rendőrtiszti Főiskola, Budapest
 
 Police College, Budapest
 
-Szolnoki F
-
-ő
-
-iskola, Szolnok
+Szolnoki Főiskola, Szolnok
 
 College of Szolnok
 
-Tessedik Sámuel F ő iskola, Szarvas
+Tessedik Sámuel Főiskola, Szarvas
 
 Tessedik Sámuel College, Szarvas
 
 ### Non-state colleges
 
-A Tan Kapuja Buddhista F ő iskola, Budapest 'The Gate of the Teaching' Buddhist College, Budapest Adventista Teológiai F ő iskola, Pécel Adventist Theological College, Pécel Általános Vállalkozási F ő iskola, Budapest Budapest College of Management Apor Vilmos Katolikus F ő iskola, Vác Apor Vilmos Catholic College, Vác Baptista Teológiai Akadémia, Budapest Baptist Theological Academy, Budapest Bhaktivedanta Hittudományi F ő iskola, Budapest
+A Tan Kapuja Buddhista Főiskola, Budapest
+
+“The Gate of the Teaching” Buddhist College, Budapest
+
+Adventista Teológiai Főiskola, Pécel
+
+Adventist Theological College, Pécel
+
+Általános Vállalkozási Főiskola, Budapest
+
+Budapest College of Management
+
+Apor Vilmos Katolikus Főiskola, Vác
+
+Apor Vilmos Catholic College, Vác
+
+Baptista Teológiai Akadémia, Budapest
+
+Baptist Theological Academy, Budapest
+
+Bhaktivedanta Hittudományi Főiskola, Budapest
 
 Bhaktivedanta College, Budapest
 
@@ -3933,13 +3969,121 @@ Bhaktivedanta College, Budapest
 
 [[START OF PAGE 84]]
 
+Budapest Kortárstánc Főiskola, Budapest
+
+Budapest Contemporary Dance Academy
+
+Budapesti Kommunikációs Főiskola, Budapest
+
+Budapest School of Communication
+
+Egri Hittudományi Főiskola, Eger
+
+Theological College of Eger
+
+Esztergomi Hittudományi Főiskola, Esztergom
+
+Theological College of Esztergom
+
+Gábor Dénes Főiskola, Budapest
+
+Gábor Dénes College, Budapest
+
+Győri Hittudományi Főiskola, Győr
+
+Theological College of Győr
+
+Harsányi János Főiskola, Budapest
+
+Harsányi János College, Budapest
+
+Heller Farkas Gazdasági és Turisztikai Szolgáltatások Főiskolája, Budapest
+
+Heller Farkas College of Economics and Tourism, Budapest
+
+Kodolányi János Főiskola, Székesfehérvár
+
+Kodolányi János University College, Székesfehérvár
+
+Kölcsey Ferenc Református Tanítóképző Főiskola, Debrecen
+
+Kölcsey Ferenc Reformed Teacher Training College, Debrecen
+
+Modern Üzleti Tudományok Főiskolája, Tatabánya
+
+College of Modern Business Studies, Tatabánya
+
+Mozgássérültek Pető András Nevelőképző és Nevelőintézete, Budapest
+
+International Pető András Institute of Conductive Education for the Motor Disabled and Conductor-Teacher Training College, Budapest
+
+Nemzetközi Üzleti Főiskola (International Business School), Budapest
+
+International Business School, Budapest
+
+Pápai Református Teológiai Akadémia, Pápa
+
+Pápa Theological Academy of the Reformed Church
+
+Pécsi Püspöki Hittudományi Főiskola, Pécs
+
+Theological College of Pécs
+
+Pünkösdi Teológiai Főiskola, Budapest
+
+Pentecostal Theological College, Budapest
+
+Sapientia Szerzetesi Hittudományi Főiskola, Budapest
+
+Sapientia School of Theology, Budapest
+
+Sárospataki Református Teológiai Akadémia, Sárospatak
+
+Sárospatak Theological Academy of the Reformed Church
+
+Sola Scriptura Teológiai Főiskola, Budapest
+
+Sola Scriptura College of Theology, Budapest
+
+Szegedi Hittudományi Főiskola, Szeged
+
+Theological College of Szeged
+
+Szent Atanáz Görög Katolikus Hittudományi Főiskola, Nyíregyháza
+
+Szent Atanáz Greek-Catholic Theological Institute, Nyíregyháza
+
+Szent Bernát Hittudományi Főiskola, Zirc
+
+Szent Bernát Theological College, Zirc
+
+Szent Pál Akadémia, Budapest
+
+Szent Pál Academy, Budapest
+
+Tomori Pál Főiskola, Kalocsa
+
+Tomori Pál College, Kalocsa
+
+Veszprémi Érseki Hittudományi Főiskola, Veszprém
+
+Archiepiscopal Theological College of Veszprém
+
+Vitéz János Római Katolikus Tanítóképző Főiskola, Esztergom
+
+Vitéz János Catholic College, Esztergom
+
+Wesley János Lelkészképző Főiskola, Budapest
+
+John Wesley Theological College, Budapest
+
 84
 
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
 
-Zsigmond Király F ő iskola, Budapest
+Zsigmond Király Főiskola, Budapest
 
 King Sigismund College, Budapest
 
@@ -3949,63 +4093,39 @@ King Sigismund College, Budapest
 
 ### Data pertaining to employees
 
-- Data registered pursuant to this Act:
-
-a) name, birth name, place and date of birth, mother's maiden name, nationality, identification number;
-
+1. Data registered pursuant to this Act:
+a) name, birth name, place and date of birth, mother’s maiden name, nationality, identification number;
 b) address and residence;
-
 c) data pertaining to employment, public servant status, fixed-term employment:
-
-ca) name  of  employer  -  if  more  than  one,  all  shall  be  named,  indicating  where  additional  work-related relationship is established,
-
-- cb) level  of  qualification,  professional  qualifications,  vocational  qualifications,  command  of  languages, scientific degree,
-
-- cc) time spent in employment, time that can imputed in public servant status, data pertaining to payroll status, cd) honours, awards and other recognition awards, titles,
-
-ce) position,  executive  assignment,  assignment  for  tasks  not  specified  for  position,  additional  work-related relationships, disciplinary sanctions, orders to pay damages,
-
-- cf) hours of work, hours of overtime, wage, salary, and any related dues and its beneficiary,
-
-- cg) leaves, leaves taken,
-
-- ch) disbursements made to employee and their title,
-
+ca) name of employer – if more than one, all shall be named, indicating where additional work-related relationship is established,
+cb) level of qualification, professional qualifications, vocational qualifications, command of languages, scientific degree,
+cc) time spent in employment, time that can imputed in public servant status, data pertaining to payroll status,
+cd) honours, awards and other recognition awards, titles,
+ce) position, executive assignment, assignment for tasks not specified for position, additional work-related relationships, disciplinary sanctions, orders to pay damages,
+cf) hours of work, hours of overtime, wage, salary, and any related dues and its beneficiary,
+cg) leaves, leaves taken,
+ch) disbursements made to employee and their title,
 ci) benefits granted to the employee and their title,
-
-- cj) debts of employee owed to employer and their title,
-
+cj) debts of employee owed to employer and their title,
 ck) research activities, scientific work, artistic activities, their results.
-
-- The registration of any other data shall be subject to the consent of the person concerned.
+2. The registration of any other data shall be subject to the consent of the person concerned.
 
 3. The data listed under point 1 may be forwarded: to the maintainer all data as necessitated by the exercise of maintainer's  rights;  to  the  social  security  payment  office  or  any  other  payment  office  disbursing  salary  and wages or other benefits all data that are necessary for establishing eligibility for and disbursing the salary, wage or other benefits; to the National Higher Education Information Centre all data that the information system of higher  education  may  handle  pursuant  to  this  Act;  to  the  Hungarian  Accreditation  Committee  of  Higher Education all data that are necessary for ascertaining the existence of the conditions requisite to the operation of the Higher Education Institution; to the court, the police, the public prosecutor's office, the bailiff, the public administration body the data required for judging the specific case; to those authorised to monitor compliance with the provisions on work, to the national security service all data.
 
 ### Data pertaining to students
 
-- Data registered pursuant to this Act:
-
+1. Data registered pursuant to this Act:
 a) data pertaining to admission:
-
-aa) applicant's  name,  birth  name,  mother's  maiden  name,  place  and  date  of  birth,  nationality,  address  and residence and phone number, in the case of a non-Hungarian national the legal grounds for stay in the territory of the Republic of Hungary and the designation and number of the supporting document,
-
+aa) applicant’s name, birth name, mother’s maiden name, place and date of birth, nationality, address and residence and phone number, in the case of a non-Hungarian national the legal grounds for stay in the territory of the Republic of Hungary and the designation and number of the supporting document,
 ab) data pertaining to the secondary school leaving examination,
-
 ac) data pertaining to the secondary school,
-
 ad) data necessary for assessment of the admission application,
-
 ae) data pertaining to the admission procedure;
-
 b) data pertaining to student status (dormitory membership, PhD / DLA student, PhD / DLA candidate):
-
-ba) the student's name, birth name, mother's maiden name, place and date of birth, nationality, address and residence and phone number, in the case of a non-Hungarian national the legal grounds for stay in the territory of the Republic of Hungary and the designation and number of the document entitling the holder thereto,
-
+ba) the student’s name, birth name, mother’s maiden name, place and date of birth, nationality, address and residence and phone number, in the case of a non-Hungarian national the legal grounds for stay in the territory of the Republic of Hungary and the designation and number of the document entitling the holder thereto,
 bb) evaluation of the studies of the student, data pertaining to examinations, semesters the student enrolled for, state-funded period used, time of temporary termination/suspension of student status,
-
 bc) time and place of studies abroad,
-
-bd) credits accrued and validated, validated studies, be) data pertaining to student bursaries and dormitory placement, data necessary for establishing eligibility for bursaries (social situation, data pertaining to parents, data pertaining to support),
+bd) credits accrued and validated, validated studies,
 
 85
 
@@ -4013,21 +4133,15 @@ bd) credits accrued and validated, validated studies, be) data pertaining to stu
 
 [[START OF PAGE 86]]
 
-- bf) data pertaining to the student's employment,
-
-- bg) data pertaining to disciplinary and compensation issues,
-
-- bh) data necessary for establishing special treatment due to disabled students,
-
-- bi) data pertaining to student accidents,
-
-- bj) serial number of the student pass,
-
+be) data pertaining to student bursaries and dormitory placement, data necessary for establishing eligibility for bursaries (social situation, data pertaining to parents, data pertaining to support),
+bf) data pertaining to the student’s employment,
+bg) data pertaining to disciplinary and compensation issues,
+bh) data necessary for establishing special treatment due to disabled students,
+bi) data pertaining to student accidents,
+bj) serial number of the student pass,
 bk) identification number of the student.
-
-- The registration of any other data shall be subject to the consent of the person concerned.
-
-- The data listed under point 1 may be forwarded: to the maintainer all data as necessitated by the exercise of maintainer's rights; to the court, the police, the public prosecutor's office, the bailiff, the public administration body the data required  for  judging  the  specific  case;  to  the  national  security  service  all  data;  to  the  National Higher Education Information Centre all data; to the Centre for Student Loans data pertaining to studies.
+2. The registration of any other data shall be subject to the consent of the person concerned.
+3. The data listed under point 1 may be forwarded: to the maintainer all data as necessitated by the exercise of maintainer’s rights; to the court, the police, the public prosecutor’s office, the bailiff, the public administration body the data required for judging the specific case; to the national security service all data; to the National Higher Education Information Centre all data; to the Centre for Student Loans data pertaining to studies.
 
 # Annex 3 to Act CXXXIX of 2005
 
@@ -4039,11 +4153,9 @@ First | 1 | 1.75 | 2.5 | 1 | 1
 Second | 1.5 | 2.625 | 3.75 | 1.5 | 1.5
 Third | 2.25 | 4 | - | 2.25 | -
 
-- The calculation basis (1) is the average national gross monthly wage - calculated for the second year before the budget year and published by the CSO - multiplied by 0.6.
-
-- In  the  case  of  one-tier  programmes,  in  the  first  three  years  the  provisions  concerning  undergraduate education shall apply, whereas the subsequent years shall be covered by the provisions pertaining to graduate education, except that the training grant for one-tier programmes in medicine shall be three times the calculation basis.
-
-- Training  grants  due  to  higher  education  institutions  shall  be  determined  on  the  basis  of  the  calculated number of students. In determining the calculated number of students, full-time students shall be regarded as one student each, whereas the number of part-time students shall be divided by two.
+1. The calculation basis (1) is the average national gross monthly wage – calculated for the second year before the budget year and published by the CSO – multiplied by 0.6.
+2. In the case of one-tier programmes, in the first three years the provisions concerning undergraduate education shall apply, whereas the subsequent years shall be covered by the provisions pertaining to graduate education, except that the training grant for one-tier programmes in medicine shall be three times the calculation basis.
+3. Training grants due to higher education institutions shall be determined on the basis of the calculated number of students. In determining the calculated number of students, full-time students shall be regarded as one student each, whereas the number of part-time students shall be divided by two.
 
 # Annex 4 to Act CXXXIX of 2005
 
@@ -4074,7 +4186,6 @@ College professor | 2. | 78
 [[START OF PAGE 87]]
 
 College professor | 1. | 75
---- | --- | ---
 College associate professor | 3. | 61
 College associate professor | 2. | 58
 College associate professor | 1. | 55
