@@ -2,13 +2,39 @@
 
 Status: This is the original version (as it was originally made).
 
+STATUTORY INSTRUMENTS
+
+1989 No. 2406 (N.I. 20)
+
+NORTHERN IRELAND
+
+# The Education Reform(Northern Ireland) Order 1989
+
+Made - - - - 19th December 1989
+
+Coming into operation in accordance with Article 1
+
+At the Court at Buckingham Palace, the 19th day of December 1989
+
+Present,
+
+The Queen’s Most Excellent Majesty in Council
+
+Whereas a draft of this Order has been approved by a resolution of each House of Parliament:
+
+Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1 of Schedule 1 to the Northern Ireland Act 1974(1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
+
+## PART I
+
+### INTRODUCTORY
+
 ##### Title and commencement
 
-1. -(1)  This Order may be cited as the Education Reform (Northern Ireland) Order 1989.
+1.—(1) This Order may be cited as the Education Reform (Northern Ireland) Order 1989.
 
-- Except as provided by paragraph (3), this Order shall come into operation on the expiration of two months from the date on which it is made.
+(2) Except as provided by paragraph (3), this Order shall come into operation on the expiration of two months from the date on which it is made.
 
-- The following provisions of this Order shall come into operation on such day or days as the Department may by order appoint-
+(3) The following provisions of this Order shall come into operation on such day or days as the Department may by order appoint—
 
 Article 5(1)(b), (2), (4) and (5);
 
@@ -20,25 +46,7 @@ Article 9;
 
 Article 11(1)(b) to (e) and (2);
 
-STATUTORY INSTRUMENTS
-
-1989 No. 2406 (N.I. 20) NORTHERN IRELAND
-
-# The Education Reform(Northern Ireland) Order 1989
-
-Made       -      -      -      19th December 1989 Coming into operation in accordance with Article 1
-
-At the Court at Buckingham Palace, the 19th day of December 1989 Present, The Queen's Most Excellent Majesty in Council
-
-Whereas a draft of this Order has been approved by a resolution of each House of Parliament:
-
-Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1 of Schedule 1 to the Northern Ireland Act 1974( 1 ) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:-
-
-## PART I
-
-### INTRODUCTORY
-
-( 1 ) 1974 c. 28
+(1) 1974 c. 28
 
 [[END OF PAGE 1]]
 
@@ -66,9 +74,9 @@ The Children and Young Persons Act (Northern Ireland) 1968( 5 );
 
 The following provisions of the Education and Libraries (Northern Ireland) Order 1986, namely, the definition of 'intermediate school' in Article 2(2) and Articles 4, 8(1)(b) and (c), 24 to 26, 28, 56(1) and (4) to (6), 57(1), 68, 103(1), 117, Part IX, Schedule 2, paragraph 4 of Schedule 3, Schedule 14 and Schedule 17;
 
-The Education (Northern Ireland) Order 1987.
+The Education (Northern Ireland) Order 1987(6).
 
-- An order under paragraph (3) may-
+(4) An order under paragraph (3) may—
 
 (a) make such transitional provision as appears to the Department to be necessary or expedient in connection with the provisions brought into operation by the order;
 
@@ -94,9 +102,9 @@ Status: This is the original version (as it was originally made).
 
 ##### Interpretation
 
-2. -(1)    The  Interpretation  Act  (Northern  Ireland)  1954( 6 )  shall  apply  to  Article  1  and  the following provisions of this Order as it applies to a Measure of the Northern Ireland Assembly.
+2.—(1) The Interpretation Act (Northern Ireland) 1954(7) shall apply to Article 1 and the following provisions of this Order as it applies to a Measure of the Northern Ireland Assembly.
 
-(2)  In this Order 'the principal Order' means the Education and Libraries (Northern Ireland) Order 1986( 7 ).
+(2) In this Order “the principal Order” means the Education and Libraries (Northern Ireland) Order 1986.
 
 (3)  In any provision of this Order 'the appointed day' means the day appointed under Article 1(3) for the coming into operation of that provision.
 
@@ -145,6 +153,8 @@ Status: This is the original version (as it was originally made).
 Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
+
+#### Principal provisions
 
 ##### The curriculum
 
@@ -198,9 +208,7 @@ and the subjects falling within any area of study by virtue of sub-paragraph (a)
 
 (d) the period beginning at the same time as the next school year after the end of the third key stage and ending at the same time as he ceases to be of compulsory school age.
 
-(7)  The Department may by order amend paragraphs (5) and (6) and Schedule 1.
-
-#### Principal provisions
+(7) The Department may by order amend paragraphs (5) and (6) and Schedule 1.
 
 4
 
@@ -282,7 +290,7 @@ Status: This is the original version (as it was originally made).
 
 (c) 'assessment arrangements' means the arrangements for assessing pupils at or near the end of each key stage for the purpose of ascertaining what they have achieved in relation to the attainment targets for that stage.
 
-- An order made under paragraph (1) may not require-
+(4) An order made under paragraph (1) may not require—
 
 (a) that any particular period or periods of time should be allocated during any key stage to the teaching of any programme of study or any matter, skill or process forming part of it; or
 
@@ -414,7 +422,7 @@ Status: This is the original version (as it was originally made).
 
 (e) where the school is a secondary school, that Article 5(5) is not contravened.
 
-(2)    In  relation  to  any  grant-aided  school  and  any  time  before  the  coming  into  operation  as respects any pupils at the school of an order under Article 7(1)(a) specifying attainment targets and programmes of study in relation to a particular compulsory contributory subject and those pupils, it shall be the duty of the Board of Governors to exercise its functions with a view to securing and the duty of theprincipal to secure that that subject is taught to those pupils for a reasonable time.
+(2) In relation to any grant-aided school and any time before the coming into operation as respects any pupils at the school of an order under Article 7(1)(a) specifying attainment targets and programmes of study in relation to a particular compulsory contributory subject and those pupils, it shall be the duty of the Board of Governors to exercise its functions with a view to securing and the duty of the principal to secure that that subject is taught to those pupils for a reasonable time.
 
 (3)  It shall be the duty of-
 
@@ -454,11 +462,11 @@ Status: This is the original version (as it was originally made).
 
 (b) is such that the teaching in a controlled school (other than a controlled integrated school) of any of the matters, skills or processes set out in that syllabus would not contravene Article 21(2) of the principal Order.
 
-- In Article 21 of the principal Order after paragraph (3) there shall be inserted-
+(2) In Article 21 of the principal Order after paragraph (3) there shall be inserted—
 
-'(3A)  In a grant-aided school the religious education required by paragraph (1) shall include religious education in accordance with any core syllabus specified under Article 13(1) of the 1989 Order.'.
+'(3A) In a grant-aided school the religious education required by paragraph (1) shall include religious education in accordance with any core syllabus specified under Article 13(1) of the 1989 Order.'.
 
-- In Article 34 of the principal Order for paragraph (2) there shall be substituted-
+(3) In Article 34 of the principal Order for paragraph (2) there shall be substituted—
 
 '(2)  Regulations under paragraph (1) shall secure that every pupil attending a special school-
 
@@ -493,6 +501,8 @@ Status: This is the original version (as it was originally made).
 Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
+
+#### Special cases
 
 ##### Development work and experiments
 
@@ -545,8 +555,6 @@ in such cases or circumstances as may be so specified.
 (i) shall apply with such modifications as may be so specified; or
 
 (ii) shall not apply; and
-
-#### Special cases
 
 10
 
@@ -728,7 +736,7 @@ Status: This is the original version (as it was originally made).
 
 (11)  A board shall have power to enter into and carry out any arrangements under paragraph (10).
 
-- In this Article-
+(12) In this Article—
 
 'relevant assessments' means assessments of pupils required by Article 6(3);
 
@@ -886,7 +894,7 @@ Status: This is the original version (as it was originally made).
 
 (7)  No order under this Article shall be made more than six months after the date on which the Council is established.
 
-- In this Article 'existing body' means-
+(8) In this Article 'existing body' means—
 
 (a) the Northern Ireland Schools Examinations Council;
 
@@ -918,7 +926,7 @@ of advisory and support services in relation to the curricula and staff of such 
 
 (a) requiring the board, in accordance with a programme approved under Article 149, to secure the provision of further training for teachers (whether or not employed on the staff of a particular school);
 
-(b) empowering  the  board  to  pay  to  persons  undergoing  the  training  referred  to  in  subparagraph (a) travelling and other allowances at such rate or of such amount and subject to such conditions as the board may determine;
+(b) empowering the board to pay to persons undergoing the training referred to in sub-paragraph (a) travelling and other allowances at such rate or of such amount and subject to such conditions as the board may determine;
 
 (c) enabling the board to provide teaching and training materials for use in schools or by persons undergoing the training referred to in sub-paragraph (a);
 
@@ -1022,7 +1030,7 @@ as may be prescribed.
 
 (b) authorise boards, Boards of Governors and principals to make a charge (not exceeding the cost of supply) for any documents supplied by them in pursuance of the regulations.
 
-(4)  Before making any regulations under paragraph (1) or (2) theDepartment shall consult the boards, the Council for Catholic Maintained Schools, the Boards of Governors and principals of all grant-aided schools and any other person with whom consultation appears to it to be desirable.
+(4) Before making any regulations under paragraph (1) or (2) the Department shall consult the boards, the Council for Catholic Maintained Schools, the Boards of Governors and principals of all grant-aided schools and any other person with whom consultation appears to it to be desirable.
 
 (5)  Regulations under this Article shall not require information as to the results of an individual pupil's assessment to be made available to any persons or bodies other than-
 
@@ -1034,7 +1042,7 @@ as may be prescribed.
 
 (d) a body or person prescribed by the regulations,
 
-and shall not require such information to be made available to any body or person mentioned in subparagraphs (b) to (d) except-
+and shall not require such information to be made available to any body or person mentioned in sub-paragraphs (b) to (d) except—
 
 (i) in the case of information to which paragraph (6) applies, where the Department so directs;
 
@@ -1188,7 +1196,7 @@ as may be prescribed.
 
 (c) a body or person prescribed by the regulations,
 
-and shall not require such information to be made available to any body or person mentioned in subparagraphs (b) and (c) except where necessary for the purposes of the performance by that body or person of any functions under the Education Orders.
+and shall not require such information to be made available to any body or person mentioned in sub-paragraphs (b) and (c) except where necessary for the purposes of the performance by that body or person of any functions under the Education Orders.
 
 (6)  Regulations under paragraph (3) may authorise boards, governing bodies and principals to make a charge (not exceeding the cost of supply) for any documents supplied by them in pursuance of the regulations.
 
@@ -1304,7 +1312,7 @@ Status: This is the original version (as it was originally made).
 
 (6)  It shall be the duty of the Board of Governors of a school to comply with any direction given to it under paragraph (4)(a).
 
-(7)  The Department shall by regulations provide for the constitition and procedure of appeal tribunals and, without prejudice to the generality of the foregoing, such regulations-
+(7) The Department shall by regulations provide for the constitution and procedure of appeal tribunals and, without prejudice to the generality of the foregoing, such regulations—
 
 (a) shall provide for the tribunals to be appointed by the board;
 
@@ -1314,7 +1322,7 @@ Status: This is the original version (as it was originally made).
 
 (d) may provide that all matters relating to the procedure on appeals which are not specifically regulated by the regulations shall be determined by the board.
 
-- An appeal tribunal shall not be regarded as a committee of the board.
+(8) An appeal tribunal shall not be regarded as a committee of the board.
 
 (9)  Article 79(1) of the principal Order shall apply to members of an appeal tribunal in like manner as it applies to members of a board.
 
@@ -1494,7 +1502,7 @@ Status: This is the original version (as it was originally made).
 
 (ii) where the application relates to a Catholic maintained school, any representations which  are  made  to  it  regarding  that  application  by  the  Council  for  Catholic Maintained Schools.
 
-- The Board of Governors of a grammar school shall not in any school year-
+(5)  The Board of Governors of a grammar school shall not in any school year-
 
 (a) admit to the school a number of pupils in the relevant age group which is less than the school's admissions number for that school year; and
 
@@ -1512,7 +1520,7 @@ unless-
 
 (b) where the approval relates to a controlled school, consider any representations which are made to it regarding that approval by the board responsible for the management of the school.
 
-- Where the Department grants an approval under this Article on the application of-
+(7)  Where the Department grants an approval under this Article on the application of-
 
 (a) the Board of Governors of a controlled school, it shall send notice of the approval to the board responsible for the management of the school;
 
@@ -2344,7 +2352,7 @@ but shall otherwise be of such amounts and be made in respect of such educationa
 
 (b) for the Board of Governors to exercise control subject to any direction given to it by the board.
 
-- In this Article-
+(6)  In this Article-
 
 'educational facilities' means the equipment, premises or other property of a school;
 
@@ -2444,6 +2452,10 @@ Status: This is the original version (as it was originally made).
 
 ##### Management of grant-maintained integrated schools
 
+66. -(1)  Each grant-maintained integrated school shall be under the control and management of a Board of Governors constituted in accordance with the provisions of Schedule 5.
+
+(2)  The scheme of management for a grant-maintained integrated school shall require the Board of Governors to use its best endeavours, in exercising its functions under the Education Orders, to ensure that the management, control and ethos of the school are such as are likely to attract to the school reasonable numbers of both Protestant and Roman Catholic pupils.
+
 ##### Powers of Board of Governors
 
 67. -(1)    Subject  to  the  provisions  of  this  Article  and  to  any  provision  of  the  scheme  of management for the school, section 19 of the Interpretation Act (Northern Ireland) 1954( 10 ) shall apply to the Board of Governors of a grant-maintained integrated school.
@@ -2492,7 +2504,7 @@ Status: This is the original version (as it was originally made).
 
 ##### Initiation of procedure for acquisition of grant-maintained integrated status by existing school
 
-69. -(1)  Subject to paragraph (5), in the case of any controlled or voluntary school which is eligible for grant-maintained integrated status, a ballot of parents on the question of whether grantmaintained integrated status should be sought for the school shall be held in accordance with Article 70 if either-
+69. -(1)  Subject to paragraph (5), in the case of any controlled or voluntary school which is eligible for grant-maintained integrated status, a ballot of parents on the question of whether grant-maintained integrated status should be sought for the school shall be held in accordance with Article 70 if either-
 
 (a) the Board of Governors decides by a resolution passed at a meeting of that Board ('the first resolution') to hold such a ballot and confirms that decision by a resolution ('the second resolution') passed at a subsequent meeting of the Board of Governors held not less than fourteen nor more than twenty-eight days after that at which the first resolution was passed; or
 
@@ -2550,7 +2562,7 @@ Status: This is the original version (as it was originally made).
 
 (3)  It shall be the duty of the Board of Governors to secure that the prescribed body takes such steps as are reasonably practicable to secure that every person who is eligible to vote in the ballot is-
 
-(a) given such information about the procedure for and consequences of acquisition of grantmaintained integrated status for a school as may reasonably be expected to enable him to form a proper judgment as to whether or not such status should be sought for the school, including, in particular, the information mentioned in paragraph (4);
+(a) given such information about the procedure for and consequences of acquisition of grant-maintained integrated status for a school as may reasonably be expected to enable him to form a proper judgment as to whether or not such status should be sought for the school, including, in particular, the information mentioned in paragraph (4);
 
 (b) informed that he is entitled to vote in the ballot; and
 
@@ -2620,7 +2632,7 @@ it may by notice in writing given to the Board of Governors declare the ballot v
 
 (b) named as a parent of such a pupil in the register kept in accordance with Article 48 of the principal Order in the case of the school, as that register has effect on the date immediately following the end of the period of fourteen days beginning with the date on which the relevant resolution or request was passed or received by the Board of Governors.
 
-(15)  For the purposes of sub-paragraph (a) of paragraph (14) it shall be for the Board of Governors to determine any question whether a person is a parent of a registered pupil at the school; and in subparagraph (b) of that paragraph the reference to the relevant resolution or request is a reference to the resolution or request (mentioned in Article 69(4)) by reference to which the ballot is required to be held or, where the ballot is a second ballot under paragraph (8), by reference to which the first ballot was required to be held.
+(15)  For the purposes of sub-paragraph (a) of paragraph (14) it shall be for the Board of Governors to determine any question whether a person is a parent of a registered pupil at the school; and in sub-paragraph (b) of that paragraph the reference to the relevant resolution or request is a reference to the resolution or request (mentioned in Article 69(4)) by reference to which the ballot is required to be held or, where the ballot is a second ballot under paragraph (8), by reference to which the first ballot was required to be held.
 
 49
 
@@ -2634,7 +2646,7 @@ Status: This is the original version (as it was originally made).
 
 ##### Proposals for acquisition of grant-maintained integrated status
 
-71. -(1)  Where in the case of any controlled or voluntary school which is eligible for grantmaintained integrated status the result of a ballot held in accordance with Article 70 shows a simple majority of votes cast in the ballot by persons eligible to vote in the ballot (within the meaning of that Article) in favour of seeking grant-maintained integrated status for the school, it shall be the duty of the Board of Governors of the school to submit a proposal for the acquisition of grant-maintained integrated status for the school to the relevant board.
+71. -(1)  Where in the case of any controlled or voluntary school which is eligible for grant-maintained integrated status the result of a ballot held in accordance with Article 70 shows a simple majority of votes cast in the ballot by persons eligible to vote in the ballot (within the meaning of that Article) in favour of seeking grant-maintained integrated status for the school, it shall be the duty of the Board of Governors of the school to submit a proposal for the acquisition of grant-maintained integrated status for the school to the relevant board.
 
 (2)  Where-
 
@@ -2706,7 +2718,7 @@ Status: This is the original version (as it was originally made).
 
 (4)    For  those  purposes  that  procedure,  as  initiated  on  any  occasion,  is  to  be  regarded  as terminated-
 
-(a) in the case of procedure initiated as mentioned in paragraph (3)(a), if the period of twentyeight days after that on which the first resolution was passed has expired and the decision to hold a ballot has not been confirmed by a second resolution passed in accordance with Article 69(1)(a); or
+(a) in the case of procedure initiated as mentioned in paragraph (3)(a), if the period of twenty-eight days after that on which the first resolution was passed has expired and the decision to hold a ballot has not been confirmed by a second resolution passed in accordance with Article 69(1)(a); or
 
 (b) in the case of procedure initiated as mentioned in paragraph (3)(a) or (b) if-
 
@@ -2756,7 +2768,7 @@ and a proposal under that Article with respect to a school shall not be treated 
 
 ##### Proposals for alteration, etc. of schools eligible for grant-maintained integrated status
 
-74. -(1)  Before formulating in respect of any controlled school which is eligible for grantmaintained integrated status any proposal under Article 14(1)(c), (d) or (e) of the principal Order, a board shall consult the Board of Governors of the school.
+74. -(1)  Before formulating in respect of any controlled school which is eligible for grant-maintained integrated status any proposal under Article 14(1)(c), (d) or (e) of the principal Order, a board shall consult the Board of Governors of the school.
 
 52
 
@@ -2798,7 +2810,7 @@ that proposal shall be treated for the purposes of this Part as if it had been p
 
 (c) any property, rights and liabilities of the former Board of Governors of the school,
 
-shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grantmaintained integrated school.
+shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grant-maintained integrated school.
 
 (2)  Subject to the following provisions of this Article, on the incorporation date in relation to a grant-maintained integrated school which immediately before that date was a voluntary school-
 
@@ -2808,7 +2820,7 @@ shall be transferred to, and by virtue of this Order vest in, the Board of Gover
 
 (c) any property, rights and liabilities of the former Board of Governors of the school,
 
-shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grantmaintained integrated school.
+shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grant-maintained integrated school.
 
 53
 
@@ -2826,7 +2838,7 @@ Status: This is the original version (as it was originally made).
 
 (b) all rights and liabilities subsisting immediately before that date which were acquired or incurred by those trustees or that proprietor for those purposes,
 
-shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grantmaintained integrated school.
+shall be transferred to, and by virtue of this Order vest in, the Board of Governors of the grant-maintained integrated school.
 
 (4)  Paragraphs (1) to (3) shall not apply to rights and liabilities under any contract of employment.
 
@@ -2932,13 +2944,13 @@ Status: This is the original version (as it was originally made).
 
 (b) in so far as it derives from excluded heads or items of expenditure of the Department in that year, be such as the Department may determine.
 
-(3)  In paragraph (2) the reference to the aggregated grant-maintained integrated schools budget of the Department for a financial year is a reference to the amount remaining after deducting from the  amount  appropriated  by  the  Department  for  meeting  expenditure  in  that  year  in  respect  of maintenance grants under this Article to all grant-maintained integrated schools ('the general grantmaintained integrated schools budget of the Department') the amount of any expenditure of the Department in that year on such heads or items of expenditure as the Department may specify for the purposes of this Article ('excluded heads or items of expenditure').
+(3)  In paragraph (2) the reference to the aggregated grant-maintained integrated schools budget of the Department for a financial year is a reference to the amount remaining after deducting from the  amount  appropriated  by  the  Department  for  meeting  expenditure  in  that  year  in  respect  of maintenance grants under this Article to all grant-maintained integrated schools ('the general grant-maintained integrated schools budget of the Department') the amount of any expenditure of the Department in that year on such heads or items of expenditure as the Department may specify for the purposes of this Article ('excluded heads or items of expenditure').
 
 (4)  Before determining the formula to be applied under paragraph (2)(a) in relation to a financial year, the Department shall consult the Board of Governors of every grant-maintained integrated school and any other person or body appearing to the Department to be concerned.
 
 (5)  In determining the formula to be applied under paragraph (2)(a) in relation to a financial year the Department shall have regard to the allocation formulae for the time being included in schemes in accordance with Article 49.
 
-- Where-
+(6)  Where-
 
 (a) a new grant-maintained integrated school is established; or
 
@@ -2988,7 +3000,7 @@ Status: This is the original version (as it was originally made).
 
 (f) such further information as the Department may determine with respect to the financial provision  the  Department  plans  to  make  in  that  year  for  grant-maintained  integrated schools.
 
-- After the end of each financial year the Department shall prepare a statement of-
+(3)  After the end of each financial year the Department shall prepare a statement of-
 
 (a) the total amount of all maintenance grants actually made under Article 77 in that year;
 
@@ -3046,7 +3058,7 @@ it shall, subject to paragraphs (3) and (4), give at least two years' notice of 
 
 (5)  If, during the period of a notice given under paragraph (2) in respect of a school, the Board of Governors of the school informs the Department that it is unable or unwilling to carry on the school until the expiration of the notice, the Department may give such directions as to the carrying on of the school and as to the education of the children attending the school as it thinks expedient.
 
-- Where-
+(6)  Where-
 
 (a) the period of a notice given under paragraph (2) has expired; or
 
@@ -3082,7 +3094,7 @@ the Board of Governors may submit a proposal to discontinue the school to the bo
 
 (iii) the Council for Catholic Maintained Schools.
 
-(3)  Paragraph (2) shall not apply where the Department is satisfied, in the case of any grantmaintained integrated school, that the school as currently constituted or conducted is unsuitable to continue as a grant-maintained integrated school on all or any of the following grounds-
+(3)  Paragraph (2) shall not apply where the Department is satisfied, in the case of any grant-maintained integrated school, that the school as currently constituted or conducted is unsuitable to continue as a grant-maintained integrated school on all or any of the following grounds-
 
 (a) that the number of registered pupils at the school is too small for sufficient and suitable instruction to be provided for them at reasonable cost;
 
@@ -3240,9 +3252,9 @@ Status: This is the original version (as it was originally made).
 
 (b) if the new school is to be a voluntary school, an order under Article 82 may vest the school property, or any part of it, in persons specified in the order to be held on trust for the purposes of the new voluntary school.
 
-(2)  Where a person proposes to establish a new independent school on the premises of a grantmaintained integrated school under the management of a Board of Governors in liquidation, an order under Article 82 may vest the school property, or any part of it, in that person.
+(2)  Where a person proposes to establish a new independent school on the premises of a grant-maintained integrated school under the management of a Board of Governors in liquidation, an order under Article 82 may vest the school property, or any part of it, in that person.
 
-- The vesting in any board or person under paragraph (1) or (2) of-
+(3)  The vesting in any board or person under paragraph (1) or (2) of-
 
 (a) any of the school property of a grant-maintained integrated school which was a controlled school immediately before it became a grant-maintained integrated school; or
 
@@ -3322,7 +3334,7 @@ Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
 
-in the event of the school's ceasing to be a voluntary school shall, if the school becomes a grantmaintained integrated school, have effect as if the event referred to were the school's ceasing to be a school which is either a grant-maintained integrated school or a voluntary school.
+in the event of the school's ceasing to be a voluntary school shall, if the school becomes a grant-maintained integrated school, have effect as if the event referred to were the school's ceasing to be a school which is either a grant-maintained integrated school or a voluntary school.
 
 ##### Interpretation (grant-maintained integrated schools)
 
@@ -3330,7 +3342,7 @@ in the event of the school's ceasing to be a voluntary school shall, if the scho
 
 (a) references to the proposed date of implementation are references-
 
-(i) in  relation  to  any  school  in  respect  of  which a proposal for acquisition of grantmaintained integrated status is required to be submitted under Article 71(1), to the date specified in accordance with Article 70(4)(b) in the information given for the purposes of the originating ballot to persons eligible to vote in that ballot (within the meaning of Article 70); and
+(i) in  relation  to  any  school  in  respect  of  which a proposal for acquisition of grant-maintained integrated status is required to be submitted under Article 71(1), to the date specified in accordance with Article 70(4)(b) in the information given for the purposes of the originating ballot to persons eligible to vote in that ballot (within the meaning of Article 70); and
 
 (ii) in relation to any school in respect of which such a proposal has been submitted under Article 71(1), to the date specified in the proposal as the proposed date of implementation;
 
@@ -3432,7 +3444,7 @@ Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
 
-(4)  It shall be the duty of a board in appointing persons to a Board of Governors under subparagraph (1)(b) or (3)(b) to choose for appointment persons appearing to the board to be committed to the continuing viability of the school as a controlled integrated school and it shall be the duty of the Head of the Department in nominating persons for appointment to a Board of Governors under subparagraph (3)(c) to nominate persons appearing to the Head of the Department to be so committed.'.
+(4)  It shall be the duty of a board in appointing persons to a Board of Governors under sub-paragraph (1)(b) or (3)(b) to choose for appointment persons appearing to the board to be committed to the continuing viability of the school as a controlled integrated school and it shall be the duty of the Head of the Department in nominating persons for appointment to a Board of Governors under sub-paragraph (3)(c) to nominate persons appearing to the Head of the Department to be so committed.'.
 
 (2)  In paragraph 6 of that Schedule-
 
@@ -3560,7 +3572,7 @@ Status: This is the original version (as it was originally made).
 
 (4)    For  those  purposes  that  procedure,  as  initiated  on  any  occasion,  is  to  be  regarded  as terminated-
 
-(a) in the case of procedure initiated as mentioned in paragraph (3)(a), if the period of twentyeight days after that on which the first resolution was passed has expired and the decision to hold a ballot has not been confirmed by a second resolution passed in accordance with Article 69(1)(a); or
+(a) in the case of procedure initiated as mentioned in paragraph (3)(a), if the period of twenty-eight days after that on which the first resolution was passed has expired and the decision to hold a ballot has not been confirmed by a second resolution passed in accordance with Article 69(1)(a); or
 
 (b) in the case of procedure initiated as mentioned in paragraph (3)(a) or (b) if-
 
@@ -4440,13 +4452,13 @@ Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
 
-- A board may-
+(2)  A board may-
 
 (a) make available the facilities of an institution of further education under its management which does not have a delegated budget to any school, institution, body or person and, subject to paragraphs (3) and (6), make charges for any facilities made available under this sub-paragraph;
 
 (b) supply goods and services through such an institution to any school, institution, body or person and, subject to paragraphs (4) to (6), make charges for any goods and services supplied under this sub-paragraph.
 
-- Charges for facilities made available under paragraph (1)(a) or (2)(a)-
+(3)  Charges for facilities made available under paragraph (1)(a) or (2)(a)-
 
 (a) shall not be made in such circumstances or for such facilities as may be prescribed;
 
@@ -4980,7 +4992,7 @@ Status: This is the original version (as it was originally made).
 
 (3)    Paragraph  (2)  shall  not  apply  in  relation  to  individual  tuition  in  playing  any  musical instrument.
 
-(4)  No charge shall be made in respect of education provided for a registered pupil at any grantaided school to which this Article applies where the education is education to which paragraph (2) does not apply if it is-
+(4)  No charge shall be made in respect of education provided for a registered pupil at any grant-aided school to which this Article applies where the education is education to which paragraph (2) does not apply if it is-
 
 (a) required as part of any syllabus for an approved public examination which is a syllabus for which the pupil is being prepared at the school; or
 
@@ -5252,7 +5264,7 @@ Status: This is the original version (as it was originally made).
 
 (b) charges to be paid by persons other than the parent of the pupil or the pupil himself.
 
-(5)  The Department may make regulations requiring, in relation to every grant-aided school to which Articles 128 to 131 apply, the board, the Board of Governors or the principal to make available either generally or to prescribed persons, in such form and manner and at such time as may be prescribed-
+(5)  The Department may make regulations requiring, in relation to every grant-aided school to which Articles 128 to 131 apply, the board, the Board of Governors or the principal to make
 
 100
 
@@ -5263,6 +5275,8 @@ Status: This is the original version (as it was originally made).
 Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
+
+available either generally or to prescribed persons, in such form and manner and at such time as may be prescribed-
 
 (a) such information relevant for the purposes of this Chapter as to the school hours at the school; and
 
@@ -5568,7 +5582,7 @@ Status: This is the original version (as it was originally made).
 
 (b) in  the  case  of  other  maintained  schools,  the  board,  with  the  approval  of  the Department, so determines.
 
-- Nothing in any instrument of government of a school shall-
+(6) Nothing in any instrument of government of a school shall-
 
 (a) prevent the constitution of a Board of Governors for that school in accordance with a scheme of management complying with paragraph 2 or the doing by the managers or trustees of that school of anything necessary for or incidental to the constitution and functioning of such a Board of Governors; or
 
@@ -5690,9 +5704,7 @@ Status: This is the original version (as it was originally made).
 
 (2)  The Department may direct that paragraph (1) shall apply to any of the bodies or persons listed in Article 101(3)(b) to (h) of the principal Order as it applies to a board but with the substitution for the reference to consultation with the boards of a reference to consultation with the bodies or persons concerned.
 
-(3)  The Department may by regulations provide, in relation to any prescribed activity of a board,
-
--
+(3) The Department may by regulations provide, in relation to any prescribed activity of a board,-
 
 (a) that a board shall before carrying out that activity comply with such conditions as may be prescribed including, without prejudice to the generality of this sub-paragraph, such conditions as appear to the Department to be necessary or desirable to secure that the board-
 
@@ -5862,7 +5874,7 @@ Status: This is the original version (as it was originally made).
 
 (b) on any date occurring in the period beginning on (and including) 2nd July in any year and ending on (and including) 31st August in the same year, he shall be deemed not to have attained the lower limit of compulsory school age until 1st August in the following year.
 
-- Where a person attains the age of sixteen years-
+(3) Where a person attains the age of sixteen years-
 
 (a) on any date occurring in the period beginning on (and including) 1st September in any year and ending on (and including) 1st July in the following year, he shall be deemed not to have attained the upper limit of compulsory school age until, or as the case may be, deemed to have attained that upper limit on 30th June in that following year or such other date as the Department may, by order subject to affirmative resolution, prescribe;
 
@@ -6137,6 +6149,8 @@ Language Studies | French German Italian Spanish Irish Classics
 
 ### SCHEDULE 2
 
+Article 6.
+
 #### COMPULSORY CONTRIBUTORY SUBJECTS
 
 (1) Area of Study | (2) Compulsory contributory subjects in key stages 1 and 2 | (3) Compulsory contributory subjects in key stage 3 | (4) Compulsory contributory subjects in key stage 4
@@ -6148,8 +6162,6 @@ The Environment and Society | History (A) Geography (A) | History (A) Geography 
 Creative and Expressive Studies | Art and Design Music Physical Education | Art and Design Music Physical Education | Art and Design or Music or Drama Physical Education
 
 Note: An '(A)' placed after an entry signifies that the compulsory contributory subject to which that entry relates is one in which pupils are required under Article 6(3) to be assessed.
-
-Article 6.
 
 118
 
@@ -6175,7 +6187,7 @@ Articles 18(2)and 20(2).
 
 ##### Preliminary
 
-- References in this Schedule to the Council are references to each of the following bodies-
+1. References in this Schedule to the Council are references to each of the following bodies-
 
 (a) the Northern Ireland Curriculum Council; and
 
@@ -6191,9 +6203,9 @@ Articles 18(2)and 20(2).
 
 (2)    The  chairman  and  other  members  of  the  Council  shall  be  appointed  by  the  Head  of  the Department and shall be persons appearing to the Head of the Department to have knowledge or experience relevant to the functions of the Council.
 
-- The Council may elect a deputy chairman from among its members.
+(3) The Council may elect a deputy chairman from among its members.
 
-(4)  The Head of the Department may appoint two assessors to the Council who shall be entitled to receive notice of, and to attend and speak at, meetings of the Council and of committees and subcommittees thereof, but shall not be entitled to vote.
+(4) The Head of the Department may appoint two assessors to the Council who shall be entitled to receive notice of, and to attend and speak at, meetings of the Council and of committees and sub-committees thereof, but shall not be entitled to vote.
 
 (5)  Section 18(2) of the Interpretation Act (Northern Ireland) 1954 (except so much thereof as relates to remuneration) shall apply to the appointment of assessors under sub-paragraph (4).
 
@@ -6281,7 +6293,7 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 ##### Allowances
 
-11. The Council may pay to any member of the Council or to any member of a committee or subcommittee thereof (including persons who are not members of the Council) travelling, subsistence and other allowances at such rates as the Department may approve.
+11. The Council may pay to any member of the Council or to any member of a committee or sub-committee thereof (including persons who are not members of the Council) travelling, subsistence and other allowances at such rates as the Department may approve.
 
 ##### Miscellaneous
 
@@ -6373,7 +6385,7 @@ the employing authority shall, before the end of the period of one month beginni
 
 (7)  The Board of Governors of such a school shall also make arrangements for affording to any person in respect of whom it has made such a determination an opportunity of appealing against it before it notifies the employing authority of the determination.
 
-(8)  The relevant officer of the employing authority shall be entitled to attend, for the purpose of giving advice, all proceedings of the Board of Governors relating to any determination under subparagraph (1) and the Board of Governors shall consider any advice given by a person entitled to attend such proceedings under this sub-paragraph before making any such determination.
+(8) The relevant officer of the employing authority shall be entitled to attend, for the purpose of giving advice, all proceedings of the Board of Governors relating to any determination under sub-paragraph (1) and the Board of Governors shall consider any advice given by a person entitled to attend such proceedings under this sub-paragraph before making any such determination.
 
 6. -(1)    Subject  to  sub-paragraph  (2),  the  employing  authority  shall  not  dismiss  a  person employed by it to work solely at a school to which this Schedule for the time being applies except as provided by paragraph 5.
 
@@ -6479,9 +6491,11 @@ as it considers necessary or expedient in consequence of the operation of any of
 
 ### SCHEDULE 5
 
+Article 66(1).
+
 #### MEMBERSHIP OF BOARD OF GOVERNORS OF GRANT-MAINTAINED INTEGRATED SCHOOLS
 
-- The Board of Governors of a grant-maintained integrated school shall consist of-
+1. The Board of Governors of a grant-maintained integrated school shall consist of-
 
 (a) either 16 or 24 persons (in this Schedule and Schedule 6 referred to as 'voting members');
 
@@ -6489,9 +6503,7 @@ as it considers necessary or expedient in consequence of the operation of any of
 
 (c) persons co-opted under Articles 122 and 139 who shall be entitled to attend and take part in meetings of the Board of Governors but not to vote on any question.
 
-2. -(1)  Of the voting members of the Board of Governors of a grant-maintained integrated school-
-
-Article 66(1).
+2. -(1) Of the voting members of the Board of Governors of a grant-maintained integrated school-
 
 125
 
@@ -6619,19 +6631,19 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 (4)  At any time when any such direction is in force in relation to a school, the school shall be managed and controlled in accordance with the provisions of that direction.
 
-(5)  The reference in Article 67(1) to any provision of the scheme of management of a grantmaintained integrated school shall include a reference to any provision of a direction under subparagraph (2) in relation to such a school.
+(5)  The reference in Article 67(1) to any provision of the scheme of management of a grant-maintained integrated school shall include a reference to any provision of a direction under sub-paragraph (2) in relation to such a school.
 
 6. Except as provided in an order under paragraph 1, the new Board of Governors shall not exercise any functions in relation to the school before the incorporation date, and, except as so provided, references in the Education Orders to a Board of Governors shall not, in relation to any time before that date, be taken to include references to the new Board of Governors.
 
 ### SCHEDULE 7
 
+Articles 100(3) and 101(3) and (4).
+
 #### COURSES OF HIGHER EDUCATION
 
-- The descriptions of courses referred to in Article 100(3) are the following-
+1. The descriptions of courses referred to in Article 100(3) are the following-
 
 (a) a course for the further training of teachers or youth and community workers;
-
-Articles 100(3) and 101(3) and (4).
 
 128
 
@@ -6661,6 +6673,8 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 ### SCHEDULE 8
 
+Article 141(2).
+
 #### THE COUNCIL FOR CATHOLIC MAINTAINED SCHOOLS
 
 ##### Constitution
@@ -6675,15 +6689,13 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 (c) 14 persons appointed by the Archbishop and Bishops mentioned in heads (a) and (b) acting jointly;
 
-(d) 8  persons  appointed  by  the  Head  of  the  Department  after  consultation  with  the  said Archbishop and Bishops;
+(d) 8 persons appointed by the Head of the Department after consultation with the said Archbishop and Bishops;
 
-(e) 4  parents  appointed  in  accordance  with  sub-paragraphs  (2)  and  (3)  by  the  Council after consultation with the Head of the Department from amongst parents elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools;
+(e) 4 parents appointed in accordance with sub-paragraphs (2) and (3) by the Council after consultation with the Head of the Department from amongst parents elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools;
 
-(f) 4  assistant  teachers  appointed  in  accordance  with  sub-paragraphs  (2)  and  (3)  by  the Council  after  consultation  with  the  Head  of  the  Department  from  amongst  assistant teachers elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools.
+(f) 4 assistant teachers appointed in accordance with sub-paragraphs (2) and (3) by the Council after consultation with the Head of the Department from amongst assistant teachers elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools.
 
 ( 18 ) 1954 c. 33 (N.I.)
-
-Article 141(2).
 
 129
 
@@ -6761,7 +6773,7 @@ Status: This is the original version (as it was originally made).
 
 (e) 1 assistant teacher appointed by the committee from amongst assistant teachers elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools in those dioceses.
 
-- The diocesan education committee for the diocese of Derry shall consist of-
+(4)  The diocesan education committee for the diocese of Derry shall consist of-
 
 (a) the Bishop of Derry or a person nominated by him;
 
@@ -6773,7 +6785,7 @@ Status: This is the original version (as it was originally made).
 
 (e) 2 assistant teachers appointed by the committee from amongst assistant teachers elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools in the diocese.
 
-- The diocesan education committee for the diocese of Down and Connor shall consist of-
+(5)  The diocesan education committee for the diocese of Down and Connor shall consist of-
 
 (a) the Bishop of Down and Connor or a person nominated by him;
 
@@ -6785,7 +6797,7 @@ Status: This is the original version (as it was originally made).
 
 (e) 2 assistant teachers appointed by the committee from amongst assistant teachers elected under paragraph 2(3) of Schedule 5 to the principal Order to the Boards of Governors of Catholic maintained schools in the diocese.
 
-- The diocesan education committee for the diocese of Dromore shall consist of-
+(6)  The diocesan education committee for the diocese of Dromore shall consist of-
 
 (a) the Bishop of Dromore or a person nominated by him;
 
@@ -6831,9 +6843,9 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 shall be appointed in the year 1990, the year 1995 and in every fourth year thereafter.
 
-(3)  A person appointed to the Council in accordance with sub-paragraph (1) or (2) shall become a member of the Council from such date as shall be specified in his appointment; and the appointment shall cease to have effect after the day preceding that from which the first of the next subsequent appointments made to the Council in accordance with sub-paragraph (1) or (as the case may be) subparagraph (2) are effective.
+(3)  A person appointed to the Council in accordance with sub-paragraph (1) or (2) shall become a member of the Council from such date as shall be specified in his appointment; and the appointment shall cease to have effect after the day preceding that from which the first of the next subsequent appointments made to the Council in accordance with sub-paragraph (1) or (as the case may be) sub-paragraph (2) are effective.
 
-(4)    A  member  of  the  Council  shall,  on  the  expiry  of  his  term  of  office,  be  eligible  for  reappointment.
+(4)  A member of the Council shall, on the expiry of his term of office, be eligible for re-appointment.
 
 (5)  A vacancy occurring in the membership of the Council shall be filled by a person nominated or appointed by the same person or body and in the same manner as the member being replaced and that person shall hold office for the residue of the term of office of that member.
 
@@ -6873,7 +6885,7 @@ British Islands of any offence and ordered to be imprisoned for a period of not 
 
 (2)  Without prejudice to the generality of sub-paragraph (1), the Council shall be regarded as fully constituted notwithstanding that parents and assistant teachers to be appointed to the Council by the Council have not yet been appointed.
 
-9. -(1)  Without prejudice to section 19(1)(a)(v) of the Interpretation Act (Northern Ireland) 1954( 19 ),  the  Council  shall  make  standing  orders  for  the  Council  and  its  committees  and  subcommittees relating to-
+9. -(1)  Without prejudice to section 19(1)(a)(v) of the Interpretation Act (Northern Ireland) 1954( 19 ), the Council shall make standing orders for the Council and its committees and sub-committees relating to-
 
 (a) the convening of meetings;
 
@@ -7021,6 +7033,8 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 ### SCHEDULE 9
 
+Article 166.
+
 #### AMENDMENTS
 
 ##### The Exchequer and Financial Provisions Act(Northern Ireland) 1950 (c. 3)
@@ -7028,8 +7042,6 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 In section 33(1) after '1986' insert 'or grant-maintained integrated schools under Article 77(8) of the Education Reform (Northern Ireland) Order 1989' and for 'that Order' substitute 'the 1986 Order'.
 
 ( 20 ) 1954 c. 33 (N.I.)
-
-Article 166.
 
 136
 
@@ -7091,7 +7103,9 @@ In section 8(2) for paragraph (b) substitute-
 
 ##### The Education and Libraries (Northern Ireland)Order 1986 (NI 3)
 
-In each of the following provisions for 'this Order' substitute 'the Education Orders'Article 2(1), in the last two places where they occur;
+In each of the following provisions for 'this Order' substitute 'the Education Orders'-
+
+Article 2(1), in the last two places where they occur;
 
 137
 
@@ -7103,7 +7117,48 @@ Document Generated: 2020-07-02
 
 Status: This is the original version (as it was originally made).
 
-Article 2(2), in the definitions of 'grant-aided' and 'pupil'; Article 3(1); Article 7; Article 12(1); Article 44; Article 47; Article 48(1); Article 62(1); Article 92(2)(a) and (b); Article 99; Article 103(1) and (2); Article 105(1) and (4); Article 106(2) and (6); Article 108; Article 109; Article 111(1) and (2); Article 113(1); Article 128; Article 129(1) and (2); Article 130(1). In Article 2(2), at the appropriate places in alphabetical order, insert the following definitions''Catholic maintained school' has the meaning assigned to it by Article 141(3) of the 1989 Order; 'the Education Orders' means this Order and the 1989 Order; 'grant-maintained integrated school' has the meaning assigned to it by Article 65(3) of the 1989 Order; 'modifications' includes additions, alterations and omissions; 'part-time senior education' has the meaning assigned to it by Article 100(5) of the 1989 Order; 'post-school age education' has the meaning assigned to it by Article 100(5) of the 1989 Order; 'scheme of management' has the meaning assigned to it by Article 9A(1); 'the 1989 Order' means the Education Reform (Northern Ireland) Order 1989;'. In Article 2(2) for the definitions of 'controlled integrated school' and 'grammar school' substitute, respectively''controlled  integrated  school'  means  a  school  which  has  become,  or  has  been established as, a controlled integrated school in accordance with Articles 90 to 92 of the 1989 Order;
+Article 2(2), in the definitions of 'grant-aided' and 'pupil';
+Article 3(1);
+Article 7;
+Article 12(1);
+Article 44;
+Article 47;
+Article 48(1);
+Article 62(1);
+Article 92(2)(a) and (b);
+Article 99;
+Article 103(1) and (2);
+Article 105(1) and (4);
+Article 106(2) and (6);
+Article 108;
+Article 109;
+Article 111(1) and (2);
+Article 113(1);
+Article 128;
+Article 129(1) and (2);
+Article 130(1).
+
+In Article 2(2), at the appropriate places in alphabetical order, insert the following definitions-
+
+''Catholic maintained school' has the meaning assigned to it by Article 141(3) of the 1989 Order;
+
+'the Education Orders' means this Order and the 1989 Order;
+
+grant-maintained integrated school' has the meaning assigned to it by Article 65(3) of the 1989 Order;
+
+'modifications' includes additions, alterations and omissions;
+
+'part-time senior education' has the meaning assigned to it by Article 100(5) of the 1989 Order;
+
+'post-school age education' has the meaning assigned to it by Article 100(5) of the 1989 Order;
+
+'scheme of management' has the meaning assigned to it by Article 9A(1);
+
+'the 1989 Order' means the Education Reform (Northern Ireland) Order 1989;'.
+
+In Article 2(2) for the definitions of 'controlled integrated school' and 'grammar school' substitute, respectively-
+
+''controlled integrated school' means a school which has become, or has been established as, a controlled integrated school in accordance with Articles 90 to 92 of the 1989 Order;
 
 'grammar school' means a secondary school which-
 
@@ -7393,7 +7448,7 @@ shall be such as may be determined by a prescribed body or person.
 
 (f) in relation to peripatetic teachers, the board by which they are employed;
 
-(g) in relation to supply teachers (other than those mentioned in subparagraph (b)), the board by which they are employed.
+(g) in relation to supply teachers (other than those mentioned in sub-paragraph (b)), the board by which they are employed.
 
 ###### Payment of salaries, etc. of teachers
 
@@ -7439,7 +7494,7 @@ Status: This is the original version (as it was originally made).
 
 For Article 72 substitute-
 
-###### ' Redundancy payments to teachers in certain voluntary schools and in grantmaintained integrated schools
+###### ' Redundancy payments to teachers in certain voluntary schools and in grant-maintained integrated schools
 
 72. -(1)  Where the managers of a voluntary school, other than a voluntary grammar school or a maintained school, have made a redundancy payment under the 1965 Act to a teacher who has been employed by them, the board for the area in which the school is situated may pay to those managers a sum equal to sixty-five per cent. of the sum paid by the managers as a redundancy payment less the amount of any rebate in respect of the payment which the managers are entitled to under that Act.
 
@@ -7567,7 +7622,7 @@ In  Schedule  7,  in  paragraph  2(1)(a)  for  'approved  under  Article  11(2)'
 
 In Schedule 8, in paragraph 1 for 'under Article 11(2)' substitute 'of management'.
 
-In  Schedule  13,  in  paragraphs  1(5)  and  2(3)  after  'voluntary  school'  insert  'or  grantmaintained integrated school'.
+In Schedule 13, in paragraphs 1(5) and 2(3) after 'voluntary school' insert 'or grant-maintained integrated school'.
 
 In Schedule 15, in paragraph 2(1)(c) and (e) for 'chief officers' substitute 'chief executives'.
 
@@ -7583,15 +7638,15 @@ Document Generated: 2020-07-02 Status: This is the original version (as it was o
 
 ### SCHEDULE 10
 
+Article 167.
+
 #### REPEALS
 
 Number | Short Title | Extent of Repeal
 --- | --- | ---
 1968 c. 34 (N.I.). | The Children and Young Persons Act (Northern Ireland) 1968. | In section 180(1) in the definition of 'compulsory school age' the words from 'except' to the end of the definition.
 1976 NI 15. | The Sex Discrimination (Northern Ireland) Order 1976. | In Article 26(2) the words in brackets.
-1986 NI 3. | The Education and Libraries (Northern Ireland) Order 1986. | In Article 2(2)- (a) the definition of 'direct grant voluntary intermediate school'; (b) the definition of 'intermediate school'; (c) in the definition of 'secondary education' the words from 'other than' to the end.In Article 4(3) the words 'the functions to be performed and' where they first occur.In Article 4(5) the words 'its teaching appointments committee or'.Article 8(1)(b) and (c).In Article 8(2) the words 'or a direct grant voluntary intermediate school'.In Article 9(1) the words 'or a direct grant voluntary intermediate school' and 'or of a direct grant voluntary intermediate school'.Article 10(4).Article 11(2) and (5).Articles 19 and 20.Article 23(1).Articles 24 to 28.Article 56.Article 57(1).In Article 58(1)(a) the words 'and direct grant voluntary intermediate schools'.In Article 58(5), (6) and (7) the words 'or a direct grant voluntary intermediate school'.In Article 59(2) the words 'or direct grant voluntary intermediate school'.In Article 59(3), (4) and (5) the words 'or a direct grant voluntary intermediate school'.Article 68.In Article
-
-Article 167.
+1986 NI 3. | The Education and Libraries (Northern Ireland) Order 1986. | In Article 2(2)- (a) the definition of 'direct grant voluntary intermediate school'; (b) the definition of 'intermediate school'; (c) in the definition of 'secondary education' the words from 'other than' to the end. In Article 4(3) the words 'the functions to be performed and' where they first occur. In Article 4(5) the words 'its teaching appointments committee or'. Article 8(1)(b) and (c). In Article 8(2) the words 'or a direct grant voluntary intermediate school'. In Article 9(1) the words 'or a direct grant voluntary intermediate school' and 'or of a direct grant voluntary intermediate school'. Article 10(4). Article 11(2) and (5). Articles 19 and 20. Article 23(1). Articles 24 to 28. Article 56. Article 57(1). In Article 58(1)(a) the words 'and direct grant voluntary intermediate schools'. In Article 58(5), (6) and (7) the words 'or a direct grant voluntary intermediate school'. In Article 59(2) the words 'or direct grant voluntary intermediate school'. In Article 59(3), (4) and (5) the words 'or a direct grant voluntary intermediate school'. Article 68. In Article
 
 147
 
@@ -7601,14 +7656,12 @@ Article 167.
 
 Document Generated: 2020-07-02
 
-This is the original version (as it was originally made).
-
-Status:
+Status: This is the original version (as it was originally made).
 
 Number | Short Title | Extent of Repeal
 --- | --- | ---
-72(2) the words 'or a direct grant voluntary intermediate school'.Article 83(5).Article 91.In Article 103(1) the words 'and the Northern Ireland Schools Examinations Council'.In Article 106(2) the words 'or for the purposes of a direct grant voluntary intermediate school'.In Article 116(1)(a)(i) and (b) (i) the words 'or is a direct grant voluntary intermediate school'.Articles 117 and 118.Part IX.In Schedule 2, in paragraph 6(4) the words in brackets.In Schedule 3, paragraph 4.In Schedule 4 in paragraph 1(1)(a) the word 'and'.In Schedule 5 in paragraph 2(2)(a) the word 'and'.In Schedule 6 - (a) paragraph 1(1)(b) and the word 'or' immediately preceding it; (b) paragraph 1(2)(b) and the word 'or' immediately preceding it; (c) paragraph 1(4); (d) paragraph 2(b) and the word 'or' immediately preceding it; (e) in paragraph 3(1)(a) the word 'and'.In Schedule 8 in paragraph 2(1)(a) the word 'and'.Schedule 10. Schedule 14. Schedule 17. In Schedule 18 the amendment to the Chronically Sick and Disabled Persons (Northern
-1987 NI 2. | The Education (Northern Ireland) Order 1987. Article 13.
+ |  | 72(2) the words 'or a direct grant voluntary intermediate school'. Article 83(5). Article 91. In Article 103(1) the words 'and the Northern Ireland Schools Examinations Council'. In Article 106(2) the words 'or for the purposes of a direct grant voluntary intermediate school'. In Article 116(1)(a)(i) and (b)(i) the words 'or is a direct grant voluntary intermediate school'. Articles 117 and 118. Part IX. In Schedule 2, in paragraph 6(4) the words in brackets. In Schedule 3, paragraph 4. In Schedule 4 in paragraph 1(1)(a) the word 'and'. In Schedule 5 in paragraph 2(2)(a) the word 'and'. In Schedule 6- (a) paragraph 1(1)(b) and the word 'or' immediately preceding it; (b) paragraph 1(2)(b) and the word 'or' immediately preceding it; (c) paragraph 1(4); (d) paragraph 2(b) and the word 'or' immediately preceding it; (e) in paragraph 3(1)(a) the word 'and'. In Schedule 8 in paragraph 2(1)(a) the word 'and'. Schedule 10. Schedule 14. Schedule 17. In Schedule 18 the amendment to the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978.
+1987 NI 2. | The Education (Northern Ireland) Order 1987. | Article 13.
 
 148
 
@@ -7618,11 +7671,15 @@ Number | Short Title | Extent of Repeal
 
 Document Generated: 2020-07-02 Status: This is the original version (as it was originally made).
 
+## EXPLANATORY NOTE
+
+(This note is not part of the Order)
+
 In this Order-
 
 (a) Part II sets out the general duty of the Department in relation to education;
 
-(b) Part III makes provision for the curriculum in grant-aided schools and for the establishment and  functions  of  the  Northern  Ireland  Curriculum  Council  and  the  Northern  Ireland Schools Examinations and Assessment Council;
+(b) Part III makes provision for the curriculum in grant-aided schools and for the establishment and functions of the Northern Ireland Curriculum Council and the Northern Ireland Schools Examinations and Assessment Council;
 
 (c) Part IV regulates the admission of children to grant-aided schools;
 
@@ -7630,17 +7687,13 @@ In this Order-
 
 (e) Part VI provides for the establishment and management of grant-maintained integrated schools and controlled integrated schools;
 
-(f) Part VII restates the functions of boards in relation to further and higher education, makes new provision for the management of institutions of further education, provides for the financing  by  boards  of  institutions  of  further  education  and  for  the  delegation  to  the governing bodies of such institutions of the management of the institution's budget and of certain responsibilities in relation to staff;
+(f) Part VII restates the functions of boards in relation to further and higher education, makes new provision for the management of institutions of further education, provides for the financing by boards of institutions of further education and for the delegation to the governing bodies of such institutions of the management of the institution's budget and of certain responsibilities in relation to staff;
 
-(g) Part  VIII  makes  provision  in  relation  to  the  management  of  grant-aided  schools  and regulates the making of charges in such schools;
+(g) Part VIII makes provision in relation to the management of grant-aided schools and regulates the making of charges in such schools;
 
 (h) Part IX provides for the constitution and functions of the Council for Catholic Maintained Schools;
 
 (i) Part X contains miscellaneous provisions relating to education.
-
-## EXPLANATORY NOTE
-
-(This note is not part of the Order)
 
 149
 
