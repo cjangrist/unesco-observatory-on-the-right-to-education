@@ -32,9 +32,10 @@ The plan forecasts future developments during 2010 - 2014 and proposes a new eco
 
 Implementation of this plan will take a lot of hard work and dedication. There are critical challenges that must be faced to enable the plan to bear fruit. We need to focus on building political stability. We should overcome governmental bureaucracy, particularly at the decision-making level. It is also critical to control corruption and reduce its impact so building the economy progresses at a proper and decent pace. A new governmental approach to implement this development plan will help to overcome challenges and allow this plan to succeed.
 
-Ali Ghalib Baban Minister of Planning
+Ali Ghalib Baban
+Minister of Planning
 
-3 National Development Plan for the Years 2010-2014
+National Development Plan for the Years 2010-2014 3
 
 [[END OF PAGE 3]]
 
@@ -50,7 +51,7 @@ Ali Ghalib Baban Minister of Planning
 
 The development of this plan would not have been possible without the belief in the vital importance of a national mission that determines the course of the country's development. We must begin by thanking, appreciating, and acknowledging the Minister of Planning, Mr. Ali Ghalib Baban, who was the first to propose the idea of moving from preparation of an annual investment plan to a five-year program and for his constant follow-up and insightful instructions to the work team throughout the plan preparation period. This had a profound impact on accomplishing the plan.
 
-We also want to thank and appreciate all  ministerial  and  non-ministerial  agencies,  the  Ministry  of  Planning  in  the  Kurdistan region, as well as all governorates and their representatives on plan preparation committees for their cooperation and effective participation during the plan's development. We also extend sincere thanks and gratitude to USAID/ Tatweer ' s team. In particular we would like to thank the experts Mr. Nael Shabaro and Mr. Behnam Elias Puttrus. We would also like to thank USAID/ Tatweer ' s invaluable assistants for their extensive technical and logistical support during the development of the plan.
+We also want to thank and appreciate all ministerial and non-ministerial agencies, the Ministry of Planning in the Kurdistan region, as well as all governorates and their representatives on plan preparation committees for their cooperation and effective participation during the plan's development. We also extend sincere thanks and gratitude to USAID/Tatweer's team. In particular we would like to thank the experts Mr. Nael Shabaro and Mr. Behnam Elias Puttrus. We would also like to thank USAID/Tatweer's invaluable assistants for their extensive technical and logistical support during the development of the plan.
 
 In addition, we would like to thank the United Nations Assistance Mission for Iraq and all affiliated agencies. We would specifically like to mention the Deputy to the Special Representative of the United Nations Secretary General, Ms. Christine McNabb and Dr. Naeema Al-Qaseer, who occupied the aforementioned position during a critical portion of the plan preparation period. Thank you for your continual support, constant follow-up, and effective participation in conferences and workshops pertaining to the plan, and for securing the expertise of three national experts.
 
@@ -66,7 +67,7 @@ Deputy Minister of Planning for Technical Affairs
 
 Head of the Technical Committee for Plan Preparation
 
-5 National Development Plan for the Years 2010-2014
+National Development Plan for the Years 2010-2014 5
 
 [[END OF PAGE 5]]
 
@@ -86,7 +87,7 @@ For every activity and service addressed, the plan was careful to  present  prev
 
 The 2010-2014 NDP is characterized by a number of issues that distinguish it from previous plans and that can be summed up as follows:
 
-- It adopted a participatory approach during preparation that 1. commenced with establishment of a general framework to  diagnose  the  reality  and  capabilities,  and  continued by  defining  problems  and  specifications,  designing  the visions  and  translating  them  into  objectives  and  means of achieving the objectives, as well as defining the plan's investment  objectives  and  priorities.  The  participatory approach  to  plan  preparation  took  various  forms  and employed various techniques to ensure participation by all involved parties.
+1. It adopted a participatory approach during preparation that commenced with establishment of a general framework to diagnose the reality and capabilities, and continued by defining problems and specifications, designing the visions and translating them into objectives and means of achieving the objectives, as well as defining the plan's investment objectives and priorities. The participatory approach to plan preparation took various forms and employed various techniques to ensure participation by all involved parties.
 
 During the phase in which the approach to plan preparation and  the  timeframe  were  defined,  workshops  were  held to  which  a  number  of  experts  from  the  United  Nations organizations  and  MoP  managers  and  officials  were invited.
 
@@ -94,23 +95,23 @@ During the plan preparation phase, 11 specialized technical committees were form
 
 Two of these committees were led by the Deputy Minister and  Chairman  of  the  Central  Statistical  Organization (CSO), namely, the Millennium Development Goals (MDGs) Committee  and  the  Committee  for  Poverty  Alleviation. The other nine committees each focused on a particular technical aspect of the plan, which included:
 
-- Economic Policy Committee;
+1. Economic Policy Committee;
 
-- Revenue Estimation Committee;
+2. Revenue Estimation Committee;
 
-- Agriculture 3. and Water Resource Committee;
+3. Agriculture and Water Resource Committee;
 
-- Industry 4. and Energy Committee;
+4. Industry and Energy Committee;
 
-- Transportation 5. and Communications Committee;
+5. Transportation and Communications Committee;
 
-- Construction 6. , Housing and Services Committee;
+6. Construction, Housing and Services Committee;
 
-- Human Development Committee;
+7. Human Development Committee;
 
-- Spatial 8. Development Committee;
+8. Spatial Development Committee;
 
-- Private 9. Sector Committee.
+9. Private Sector Committee.
 
 These committees were led by general managers at MoP and members consisted of representatives of the Kurdistan region, relevant line ministries, academics, representatives of  the  unions  concerned,  and  experts  from  the  USAID/ Tatweer  and  the  United  Nations  Assistance  Program for  Iraq.  Each  committee,  within  its  purview,  presented background documents detailing current sectoral policies, the current reality, capabilities, challenges,  proposed vision, objectives, and means of achieving the objectives. In  April  2009,  at  the  Al-Rasheed  Hotel  in  Baghdad  and with a support from USAID/Tatweer, the first conference was  held  to  discuss  the  plan's  general  framework,  as well as its overall, sectoral, and spatial orientations. The conference was attended by the Deputy Prime Minister, Dr. Rafi Al-Isawi and more than 350 participants attended. Among the participants were a number of ministers, deputy ministers,  ministry  advisors,  members  of  the  Council  of Representatives  (CoR),  representatives  from  Kurdistan Regional Government (KRG); governors; Provincial Council (PC) members; unions, academicians, civil society organizations (CSOs), and donor organizations including USAID and the UN.
 
@@ -128,35 +129,35 @@ In  order to strengthen the provinces' participation in the plan  preparation  a
 
 Direct  coordination  took  place  with  all  ministries,  KRG, and  the  provinces  with  regards  to  the  quantitative  and qualitative objectives for their sectors and/or spatial specializations  as  well  as  in  determining  the  priorities  of the projects selected for the plan document.
 
-- In addressing developmental issues, the plan is not limited 2. to public investment; rather, it considers private investment a  fundamental  partner  in  the  development  process  and expects it to contribute to about 46% of the investments required to achieve the vision and objectives of the plan. The sectors, activities, and areas in which the domestic and foreign private sector can invest were identified.
+2. In addressing developmental issues, the plan is not limited to public investment; rather, it considers private investment a fundamental partner in the development process and expects it to contribute to about 46% of the investments required to achieve the vision and objectives of the plan. The sectors, activities, and areas in which the domestic and foreign private sector can invest were identified.
 
-- The  plan  calls  for  strengthening  decentralized  administration 3. in  order  to  improve  the  effectiveness  of  provinces'  roles in  developing  and  managing  their  resources  and  the development process.
+3. The plan calls for strengthening decentralized administration in order to improve the effectiveness of provinces' roles in developing and managing their resources and the development process.
 
-- The  plan  focused  on  areas  not  emphasized  in  previous 4. plans in Iraq. Some examples include:
+4. The plan focused on areas not emphasized in previous plans in Iraq. Some examples include:
 
-- Adding the spatial (regional) dimension to · development,
+- Adding the spatial (regional) dimension to development,
 
-- Using  the  Unsatisfied  Basic  Needs  formula  based on the level of deprivation as a criterion to distribute development benefits among Iraqis,
+- Using the Unsatisfied Basic Needs formula based on the level of deprivation as a criterion to distribute development benefits among Iraqis,
 
-- Establishing a balance between the needs of · the population of different public services and infrastructure and the capabilities of the production sectors,
+- Establishing a balance between the needs of the population of different public services and infrastructure and the capabilities of the production sectors,
 
 - Including a wide range of sectors such as the tourism and artifacts sectors,
 
-- Balancing developmental decision-making based on the  three  dimensions  of  sustainable  development: economic, social, and environmental.
+- Balancing developmental decision-making based on the three dimensions of sustainable development: economic, social, and environmental.
 
-- Using environmentally friendly technologies and · proper handling of the negative environmental effects accrued over the past decades.
+- Using environmentally friendly technologies and proper handling of the negative environmental effects accrued over the past decades.
 
-- The  plan  also  focuses  on  social  and  humanitarian aspects that have never been addressed in previous plans. These included concern for vulnerable groups, poverty and the need to alleviate it, and the extent to which Millennium Development Goals (MDGs) can be achieved,
+- The plan also focuses on social and humanitarian aspects that have never been addressed in previous plans. These included concern for vulnerable groups, poverty and the need to alleviate it, and the extent to which Millennium Development Goals (MDGs) can be achieved,
 
 - The plans addresses the issue of institutional reform and good governance,
 
-- It  also  emphasizes  the  promotion  of  a  number  of activities, particularly ensuring availability of housing.
+- It also emphasizes the promotion of a number of activities, particularly ensuring availability of housing.
 
 ### Data and Information Sources
 
 Construction of the plan relied on qualitative and specialized studies performed by subcommittees and experts, as well as work papers provided by ministries, the KRG, and a number of  provinces.  The  MoP's  studies  prepared  by  its  technical departments  were  also  used,  along  with  some  academic studies,  and  the  Central  Statistical  Organization's  periodic releases  and  surveys  over  the  past  years.  In  addition,  the Poverty Reduction Strategy (PRS), adopted by the honorable Council of Ministers in  January  2009,  was  a  main  source  of plan data and information.
 
-7 National Development Plan for the Years 2010-2014
+National Development Plan for the Years 2010-2014 7
 
 [[END OF PAGE 7]]
 
@@ -168,7 +169,7 @@ Normally, development plans are prepared amid stable economic, political, and se
 
 The  obstacles  faced  during  the  plan  preparation  do  not  in any  way  diminish  the  plan's  importance  and  effectiveness  in drawing a developmental picture for the country over the next five years. The working team exerted tremendous effort to find alternatives and means to curtail the obstacles. With regards to  the  anticipated  financial  resources,  the  plan  proposed  a flexible  investment  program  that  can  accommodate  new developments  or  events  during  the  execution  phase.  It  also proposed clear and specific mechanisms to follow up on and evaluate the results and consequently reconsider the plan in 2012, if needed.
 
-Cross-sectional  comparison  of  data  was  performed  using various sources so as to arrive at realistic figures. In addition, the most recent surveys performed by the CSO during 20042008, which  are consistent with international standards, reduced the effects of this problem. With regard to the stability in the security situation, the plan is based on the ambition that security conditions will continue to improve, as has been the case over the past two years.
+Cross-sectional comparison of data was performed using various sources so as to arrive at realistic figures. In addition, the most recent surveys performed by the CSO during 2004-2008, which are consistent with international standards, reduced the effects of this problem. With regard to the stability in the security situation, the plan is based on the ambition that security conditions will continue to improve, as has been the case over the past two years.
 
 8 National Development Plan for the Years 2010-2014
 
@@ -180,23 +181,194 @@ Contents
 
 ## Contents
 
-National Development Plan for the Years 2010-2014
+Executive Summary 17
+Chapter One: The Plan's Economic and Social Framework 21
+1.1 Historical Overview 22
+1.2 Developmental Features 22
+1.3 The Plan's Assumptions 22
+1.4 Challenges 22
+1.4.1 Economic Challenges 22
+1.4.2 Social Challenges 23
+1.4.3 Duality of Spatial Development 23
+1.4.4 Environmental Challenge (Unsustainable Environment) 24
+1.4.5 Noncomprehensive Rural Development 24
+1.5 Vision 24
+1.6 Strategic Objectives 24
+1.7 Means of Achieving the Vision 25
+1.8 The Plan's Anticipated Revenues 26
+1.8.1 Estimate for Oil Revenues 26
+1.8.2 Estimate for Non-Oil Revenues 26
+1.9 Magnitude of Investment 27
+1.9.1 Magnitude of Government Investment 27
+1.9.2 Magnitude of Nongovernment Investment 27
+1.10 Policies Necessary to Execute the Vision 27
+1.10.1 Financial Policies 27
+1.10.2 Monetary Policies 27
+1.10.3 Investment Policy 27
+1.10.4 Decentralized and Federal Policies 28
+1.10.5 Policies for Support of the Private Sector 28
+1.11 Estimates for Gross Domestic Product and Expected Inflation 28
+1.12 Estimates for Gross Fixed Capital Formation (Investment) 30
+1.13 Labor Force 30
+Chapter Two: Population and Labor Force 33
+2.1 Population Developments 34
+2.2 Population Size and Growth Rates 34
+2.3 Population Structure 35
+2.3.1 By Age 35
+2.3.2 By Sex 35
+2.3.3 By Environment 35
+2.4 Economically Active Population 35
+2.4.1 Labor Force and Employment 36
+2.4.2 Unemployment 36
+2.5 Challenges 37
+2.6 Policies 37
+2.7 Vision 38
+2.8 Objectives and Means of Achieving Them 38
+Chapter Three: Overall Economy 41
+3.1 National Income and Per Capita Income 42
+3.2 Gross Domestic Product and Per Capita Gross Domestic Product 42
+3.3 Gross Domestic Product by Economic Activity at 1988 Prices 43
+3.4 Fixed Capital Formation 44
+3.5 Consumer Spending 45
+Chapter Four: The Financial and Monetary Sector 47
+4.1 The Financial Sector 48
+4.1.1 The State's Financial Framework 48
+4.1.2 Public Expenses 48
+4.1.3 Public Revenues 49
 
-9
+National Development Plan for the Years 2010-2014 9
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-10
+4.1.4 Overall Deficit or Surplus 50
+4.1.5 Public Debt 50
+4.1.6 Challenges 51
+4.1.7 Policies 51
+4.1.8 Objectives and Means of Achieving Them 52
+4.2 Monetary Sector 54
+4.2.1 Monetary Policy 54
+4.2.2 Money Supply 55
+4.2.3 Inflation 56
+4.2.4 Interest Rate 56
+4.2.5 Exchange Rate 57
+4.2.6 Banking Sector 57
+4.2.7 Challenges 58
+4.2.8 Policies 59
+4.2.9 Objectives 59
+Chapter Five: Agriculture and Water Resources 61
+5.1 Previous Agricultural Policies 62
+5.1.1 Plant and Animal Production Policies 62
+5.1.2 Water Resource and Land Reclamation Policies 63
+5.1.3 Orientations of the Agricultural Sector in the International Compact Document 64
+5.2 Agricultural Production 64
+5.2.1 Plant Production 64
+5.2.2 Animal Production 65
+5.2.3 Sufficiency and Competitiveness of Domestic Plant and Animal Production 67
+5.3 Water Resources 67
+5.4 Agricultural Holdings and Legislation Governing the Sector 68
+5.4.1 Agricultural Holdings 68
+5.4.2 Legislation Governing the Sector 68
+5.5 The Private Sector's Role 69
+5.6 Social Dimensions to Agricultural and Rural Development 69
+5.7 Agricultural Sector's Capabilities 69
+5.8 Agricultural Sector's Challenges 70
+5.9 Vision 71
+5.10 Objectives 71
+5.10.1 In the Area of Water Resources and Land Reclamation 71
+5.10.2 In the Area of Agricultural Production 72
+5.11 Means of Achieving Agricultural Objectives 74
+5.11.1 Investment Policy 74
+5.11.2 Private Sector Support for Investment in the Agricultural Sector 74
+5.11.3 Water Policies 74
+5.11.4 Rural Development 75
+5.11.5 Increasing Productivity and Improving Production 76
+5.11.6 Biological Diversity 76
+5.11.7 Comparative Advantage 76
+5.11.8 Legal Reform in the Agricultural Sector 76
+Chapter Six: Industry and Energy 79
+6.1 Previous Policies in the Area of Industry and Energy 80
+6.2 Industrial Sector Activities 82
+6.2.1 Oil and Gas Activity 82
+6.2.2 Electrical Activity 84
+6.2.3 Activity of Conversion and Extractive Industries (Excluding Oil) 86
+6.2.4 Research and Development Activity 88
+Chapter Seven: Infrastructure 91
+7.1 Transportation Sector 92
+7.1.1 Previous Policies 92
+7.1.2 Transportation Sector 94
+7.1.2.1 Road and Bridge Activity 94
+7.1.2.2 Passenger Transport and Cargo Shipping Activity 96
+7.1.2.3 Railroad Activity 97
 
-National Development Plan for the Years 2010-2014
+10 National Development Plan for the Years 2010-2014
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-117
+7.1.2.4 Port Activity 100
+7.1.2.5 Maritime Transportation Activity 103
+7.1.2.6 Civil Aviation Activity 104
+7.2 Communications Sector 107
+7.2.1 Communications Activity 107
+7.2.2 Postal Activity 109
+7.3 Storage Sector 110
+7.4 Water and Sanitation 111
+7.4.1 Policies in the Area of Water and Sanitation Services 111
+7.4.2 Water Services 111
+7.4.2.1 Water Services in Provinces Other than Baghdad 111
+7.4.2.2 Water Services in Baghdad 112
+7.4.3 Sanitation 113
+7.4.3.1 Sanitation Services in the Provinces and Baghdad's Suburbs 114
+7.4.3.2 Sanitation Services in the City of Baghdad 115
+Chapter Eight: Public Services 117
+8.1 Education 118
+8.1.1 Analysis of Reality 118
+8.1.1.1 Educational Stages 118
+8.1.1.2 Educational Facilities 118
+8.1.1.3 Spending on Higher Education in Iraq 119
+8.1.1.4 Education and Social Variables 120
+8.1.2 Challenges 120
+8.1.2.1 Rise in Illiteracy Rates 120
+8.1.2.2 Significant Deficit in Educational Facilities 120
+8.1.2.3 Low Availability of Educational Opportunities 120
+8.1.2.4 Limited Funding 120
+8.1.2.5 Academic Curricula 120
+8.1.2.6 Administrative and Educational Properties 121
+8.1.2.7 Poor Quality of Education 121
+8.1.2.8 Low Level of Harmonization and Coordination between Graduates and Job Market Requirements 121
+8.1.3 Vision 121
+8.1.4 Objectives 121
+8.1.5 Quantitative Needs 122
+8.1.6 Means of Achieving the Objectives 122
+8.2 Health Sector 123
+8.2.1 Previous Policies 123
+8.2.2 Analysis of Reality 123
+8.2.2.1 Institutions and Indicators 124
+8.2.2.2 Reproductive Health and Family Planning 124
+8.2.2.3 Mortality of Children under the Age of Five 125
+8.2.2.4 Maternal Mortality 125
+8.2.2.5 Life Expectancy at Birth 125
+8.2.3 Challenges 125
+8.2.4 Vision 126
+8.2.5 Objectives 126
+8.2.6 Means of Achieving the Objectives 126
+8.2.7 Developmental Indicators in the Health Sector 127
+8.3 Housing 128
+8.3.1 Previous Housing Policies 129
+8.3.2 Housing Reality 129
+8.3.3 Challenges 130
+8.3.4 Vision 131
+8.3.5 Objectives 131
+8.3.6 Policies for Achieving the Objectives 131
+8.4 Tourism, Culture and Heritage 132
+8.4.1 Previous Policies 132
+8.4.2 Reality 133
+8.4.3 Tourism and Heritage Capabilities 134
+8.4.4 Problems and Challenges 134
+8.4.5 Vision 135
 
 National Development Plan for the Years 2010-2014 11
 
@@ -204,11 +376,110 @@ National Development Plan for the Years 2010-2014 11
 
 [[START OF PAGE 12]]
 
+8.4.6 Objectives 135
+8.4.7 Means of Achieving the Objectives 135
+Chapter Nine: Social Status 137
+9.1 Gender and Society 138
+9.1.1 Analysis of Reality 138
+9.1.1.1 Women and Social Variables 138
+9.1.1.2 Women and Economic Activity 138
+9.1.1.3 Women and Decision-Making Centers 139
+9.1.1.4 Equality in Obtaining Resources 139
+9.1.2 Challenges 139
+9.1.3 Vision 140
+9.1.4 Objectives 140
+9.1.5 Means of Achieving the Objectives 140
+9.2 Youth 140
+9.2.1 Analysis of Reality 141
+9.2.2 Challenges 142
+9.2.3 Vision 142
+9.2.4 Objectives 142
+9.2.5 Means of Achieving the Objectives 142
+9.3 Vulnerable Groups 143
+9.3.1 Analysis of Reality 143
+9.3.1.1 Persons with Disabilities 143
+9.3.1.2 Widows and Orphans 143
+9.3.1.3 Displaced Families 144
+9.3.1.4 Children 144
+9.3.2 Challenges 144
+9.3.3 Vision 144
+9.3.4 Policies 144
+9.3.5 Objectives 145
+9.3.6 Policies for Achieving the Objectives 145
+9.4 Poverty 146
+9.4.1 Characteristics of Poverty in Iraq 146
+9.4.2 Challenges Facing Execution of the Strategy to Alleviate Poverty 148
+9.4.3 Plan Objectives to Alleviate Poverty 148
+Chapter Ten: Spatial Development and Environmental Sustainability 153
+10.1 Spatial Development 154
+10.1.1 Spatial Development Policies in Iraq 154
+10.1.1.1 Industrial Site Policy 154
+10.1.1.2 New City Policy 154
+10.1.1.3 Development Center (Development Pole) Policy 154
+10.1.1.4 Rural Settlement and Development Policy and Plans 155
+10.1.1.5 Policy for Spatial Dispersion of Investments 155
+10.1.2 Principal Features of Spatial Development in Iraq 156
+10.1.2.1 Spatial Concentration of Economic Activity and Population 157
+10.1.2.2 Loss of Hierarchy in the Human Settlement Structure and Continuation of the Phenomenon of Urban Sprawl 157
+10.1.2.3 Duality of the Spatial Economy 157
+10.1.3 Comparative Spatial Advantage and Developmental Capabilities 158
+10.1.3.1 Spatial Distance and Comparative Advantage of Oil Resources in Iraq 158
+10.1.3.2 Distribution of Mineral Ores and Comparative Advantage of Provinces 160
+10.1.3.3 Analysis of Indicators for Comparative Advantage and Industrial Settlement 161
+10.1.3.4 Comparative Advantage of Agricultural Development in Provinces 161
+10.1.3.5 Comparative Advantage of Tourism 163
+10.1.3.6 Spatial Dimension and Comparative Advantage of the Road Network in Iraq 163
+10.1.4 Spatial Disparity in Development and Levels of Depravation 164
+10.1.4.1 Spatial Disparity in Development 164
+10.1.4.2 Depravation and Living Standard Indicators 164
+10.1.5 Spatial Development Capabilities 165
+10.1.6 Spatial Development Challenges 165
+10.1.7 Spatial Vision 166
+
 12 National Development Plan for the Years 2010-2014
 
 [[END OF PAGE 12]]
 
 [[START OF PAGE 13]]
+
+10.1.8 Spatial Development Objectives 166
+10.1.9 Policies and Means of Achieving the Objectives 166
+10.2 Environmental Sustainability 167
+10.2.1 A Look at the Environment in Iraq 167
+10.2.1.1 Before 2003 167
+10.2.1.2 After 2003 168
+10.2.2 Environmental Reality in Iraq 168
+10.2.2.1 Air Pollution 168
+10.2.2.2 Water Pollution 168
+10.2.2.3 Soil Pollution 169
+10.2.2.4 Decertification 169
+10.2.2.5 Solid Waste and Garbage 169
+10.2.3 Challenges 169
+10.2.4 Vision 170
+10.2.5 Objectives and Means of Achieving them 170
+Chapter Eleven: Private Sector 175
+11.1 Status of the Private Sector before 2003 176
+11.2 Status of the Private Sector after 2003 177
+11.3 Challenges Facing Private Sector Development 178
+11.4 Policies 178
+11.5 Vision 178
+11.6 Objectives and Means of Achieving Them 179
+Chapter Twelve: Good Governance 184
+12.1 Modernizing the Public Sector 184
+12.2 Orientation toward Decentralization and Local Government 184
+12.3 Combating Corruption 184
+12.4 The Plan's Priorities for Improving the State's Capabilities 184
+12.4.1 Rule of Law 184
+12.4.2 Building of Partnerships 185
+12.4.3 Transparency 185
+12.4.4 Responsiveness 185
+12.4.5 Collective Opinion 185
+12.4.6 Justice and Inclusiveness 185
+12.4.7 Effectiveness and Efficiency 185
+12.4.8 Accountability 186
+12.5 Monitoring Execution of Plan Projects and Extent to Which Objectives Are Achieved 190
+12.5.1 Monitoring 190
+12.5.2 Evaluating Achievement of Plan Objectives 190
 
 National Development Plan for the Years 2010-2014 13
 
@@ -275,7 +546,7 @@ When  compared  to  Iraq's  annual  investment  programs,  the mid-term (five-ye
 
 The plan begins with the challenges facing the Iraqi economy and  society,  as  well  as  its  financial  and  human  resource endowments, which are summarized below.
 
-- Iraq relies almost totally on oil to fund the state's federal 1. budget.    Oil  resources  form  approximately  one-half  of the nation's gross domestic product (GDP). The effect is to  limit  Iraq's  economic  exposure  to  the  external  world because of the paltry contribution by non-oil commodity. It  also  indicates  the  private  sector's  limited  role  in  the development process.
+1. Iraq relies almost totally on oil to fund the state's federal budget. Oil resources form approximately one-half of the nation's gross domestic product (GDP). The effect is to limit Iraq's economic exposure to the external world because of the paltry contribution by non-oil commodity. It also indicates the private sector's limited role in the development process.
 
 Pertaining to social issues, Iraq faces serious challenges in  the  areas  of  education  and  health,  as  measured  by qualitative  and  quantitative  indicators.  There  has  been an increase in  the  percentage  of  vulnerable  groups  and an increase in the rate of unemployment to 15 percent, particularly  among  youth  and  women.  In  addition,  23 percent of the population lives below the poverty line and there is a significant shortfall in housing, which according to some estimates is equal to 3.5 million housing units.
 
@@ -285,19 +556,19 @@ Spatial  development  does  not  fare  any  better.  There  is a  large  dispari
 
 In the area of rural development, there is clear indication that  the  countryside  lags  behind  in  terms  of  economic, social,  and  structural  indicators,  including  a  low  level  of agricultural  productivity;  high  illiteracy  rates;  low  rates of  enrollment  in  and  high  dropout  rates  from  schools, particularly for girls; poverty rates that exceed the national average;  inferior  health  services  and  care;  high  rates  of deprivation  from  services  and  housing;  and  a  generally weak link between rural and urban areas.
 
-In the environmental arena, there is an indication of lack of concern for the environmental dimension of development and, consequently, a high level of pollution of environmental elements (water, air, and soil). There is also a weakness in identifying, monitoring, and tracking pollutants. Moreover, both  society  and  organizations  have  little  environmental awareness. In addition, there is no comprehensive identification of the effects of consecutive wars in which environmentally destructive weapons and those with longterm effects were used.
+In the environmental arena, there is an indication of lack of concern for the environmental dimension of development and, consequently, a high level of pollution of environmental elements (water, air, and soil). There is also a weakness in identifying, monitoring, and tracking pollutants. Moreover, both society and organizations have little environmental awareness. In addition, there is no comprehensive identification of the effects of consecutive wars in which environmentally destructive weapons and those with long-term effects were used.
 
 The consecutive wars and crises suffered by Iraq, as well as  the  rapid  changes  since  2003,  have  led  to  a  social situation  that  cannot  accommodate  new  changes  and transformations. This has generated cases of corruption that have had  a negative effect on the course of development.
 
-- In light of the challenges indicated above, and in light of 2. the federal democracy environment, the plan aims to have Iraq  become  an  effective  country  through  the  workings of  market  mechanisms;  becoming  a  participant  in  the world  economy; and an embodiment of the principle of international partnership. Based thereupon, the plan seeks to have Iraq effectively employ its economic resources, both human and natural, to achieve a diverse and competitive economy in which the private sector plays a leadership role in creating wealth and jobs, and the public sector plays an organizational and enabling role to address market failures, guarantee fair distribution of the national income, and see that at-risk social groups can effectively fulfill their role in achieving economic and social progress.
+2. In light of the challenges indicated above, and in light of the federal democracy environment, the plan aims to have Iraq become an effective country through the workings of market mechanisms; becoming a participant in the world economy; and an embodiment of the principle of international partnership. Based thereupon, the plan seeks to have Iraq effectively employ its economic resources, both human and natural, to achieve a diverse and competitive economy in which the private sector plays a leadership role in creating wealth and jobs, and the public sector plays an organizational and enabling role to address market failures, guarantee fair distribution of the national income, and see that at-risk social groups can effectively fulfill their role in achieving economic and social progress.
 
-- Objectives: The development plan translates the strategic 3. vision through the following general objectives:
+3. Objectives: The development plan translates the strategic vision through the following general objectives:
 
 - Increase in the gross domestic product (GDP) at a rate of 9.38% per year during the plan period.
 
 - Generate  3  to  4.5  million  new  jobs  based  on  the proportion between capital concentration and work that  will  be  used  in  activities  and  projects  adopted by the Plan.
 
-- Diversify the Iraqi economy through achievement of gradual increases in the rate of participation by other sectors in  GDP ,  particularly  the  production,  agriculture, and industrial sectors, along with tourism, which is a sector with some accomplishments and promise. It  is  also  one of the sectors in which private sector activity plays a historically strong role. This role can be strengthened in the future both through generation of GDP and through the jobs it can generate.
+- Diversify the Iraqi economy through achievement of gradual increases in the rate of participation by other sectors in GDP, particularly the production, agriculture, and industrial sectors, along with tourism, which is a sector with some accomplishments and promise. It is also one of the sectors in which private sector activity plays a historically strong role. This role can be strengthened in the future both through generation of GDP and through the jobs it can generate.
 
 - Strengthen  the  role  of  the  domestic  and  foreign private sectors, either in terms of the magnitude of investment anticipated within the country, estimated at about 46 percent, or in terms of job opportunities. The plan seeks to expand and diversify the activities that the private sector invests in, particularly comprehensive  animal  and  vegetable  production projects;  fisheries;  tourism  of  all  kinds;  conversion industries,  particularly  those  in  which  Iraq  has  a comparative  advantage;  passenger  transportation,
 
@@ -319,7 +590,7 @@ merchandise, communications, as well as port and airport  management;  and  educ
 
 - Strengthen the role of local governments in developing their provinces and building capacity for coordination and complementarities, using their comparative advantages.
 
-- To achieve these objectives, the plan: 4.
+4. To achieve these objectives, the plan:
 
 Estimated the investment that must be secured at around 218 trillion Iraqi dinars, i.e., US$186 billion during the five years of the plan; US$100 billion would be funded by the federal budget at a rate of 30 percent per year of the overall budget. The remaining US$86 billion would be funded by the domestic and foreign private sectors; the public and private  sectors  would  contribute  53.7  percent  and  46.3 percent, respectively.
 
@@ -344,7 +615,7 @@ Investment  priorities  were  distributed  by  giving  the  oil and electricity 
 
 But securing investment alone is not sufficient  to  achieve  the plan's objectives. The plan must be supported in the areas of financial and monetary policy, institutional development, as well as administrative and legal reform. It must also be supported through plan tracking and monitoring systems. Accordingly, the plan proposed a number of financial and monetary policies that are compatible with the investment policy,  as  well  as  strategic,  sectoral,  spatial,  and  social objectives.
 
-The plan proposes a host of institutional  reforms  at  the sectoral level. It emphasizes the need for building human and technical capabilities, using modern technology, and verifying  the  cost-effectiveness  of  projects.  In  addition, it  emphasizes  the  need  for  good  governance  based  on the principles of rule of law, accountability, transparency, justice,  inclusivity,  efficacy,  and  effectiveness.  The  plan additionally  emphasizes  the  importance  of  modernizing the public sector in accordance with these principles.
+The plan proposes a host of institutional reforms at the sectoral level. It emphasizes the need for building human and technical capabilities, using modern technology, and
 
 18 National Development Plan for the Years 2010-2014
 
@@ -352,7 +623,9 @@ The plan proposes a host of institutional  reforms  at  the sectoral level. It e
 
 [[START OF PAGE 19]]
 
-The  plan  also  calls  for  using  modern  technologies  and acquired  knowledge,  benefiting  from  the  most  notable regional and international experiments and expanding the economy's knowledge base.
+verifying the cost-effectiveness of projects. In addition, it emphasizes the need for good governance based on the principles of rule of law, accountability, transparency, justice, inclusivity, efficacy, and effectiveness. The plan additionally emphasizes the importance of modernizing the public sector in accordance with these principles.
+
+The plan also calls for using modern technologies and acquired knowledge, benefiting from the most notable regional and international experiments and expanding the economy's knowledge base.
 
 National Development Plan for the Years 2010-2014 19
 
@@ -388,37 +661,35 @@ Between  1980  and  2003,  Iraq  suffered  from  long  wars  and severe economic
 
 Iraq's developmental reality over the past 40 years embodies the issues described below.
 
-- Oil  revenues  are  the  main  source  of  financing  for  the 1. developmental process in Iraq. This has undermined the role and importance of other financing sources, particularly taxes. Sectoral financing policies are unable to generate an economic surplus that can effectively contribute to the financing process.
+1. Oil revenues are the main source of financing for the developmental process in Iraq. This has undermined the role and importance of other financing sources, particularly taxes. Sectoral financing policies are unable to generate an economic surplus that can effectively contribute to the financing process.
 
-- Centrality  is  the  approach  used  to  manage  the  Iraqi 2. economy.  This  has  made  the  public  sector  critical  to the development process, all the while marginalizing the private sector's role, and distancing it from the economic arena.  To  the  extent  it  exists,  the  private  sector  has  no impact on developmental effectiveness and civilian social organizations play no role.
+2. Centrality is the approach used to manage the Iraqi economy. This has made the public sector critical to the development process, all the while marginalizing the private sector's role, and distancing it from the economic arena. To the extent it exists, the private sector has no impact on developmental effectiveness and civilian social organizations play no role.
 
-- In  Iraq,  capital  accumulation  has  been  achieved  by 3. transferring oil revenues to economic sectors in the form of fixed  assets.  There  is  no  contribution  to  capital  accumulation from technological advancement and higher productivity
+3. In Iraq, capital accumulation has been achieved by transferring oil revenues to economic sectors in the form of fixed assets. There is no contribution to capital accumulation from technological advancement and higher productivity rates. This has voided the growth rates achieved in the gross domestic product and capital accumulation of their true content and rendered them incapable of expressing real and sustainable growth. Accordingly, they are liable to collapse as a result of any crisis.
 
-rates.  This  has  voided  the  growth  rates  achieved  in  the gross domestic product and capital accumulation of their true content and rendered them incapable of expressing real and sustainable growth. Accordingly, they are liable to collapse as a result of any crisis.
+4. There is no intellectual base and no process for sustainable human development when distributing income between investments and consumption. This has rendered the process of development in Iraq far removed from the standards of sustainable development to improve the quality of life.
 
-- There is no intellectual base and no process for sustainable 4. human  development  when  distributing  income  between investments  and  consumption.  This  has  rendered  the process  of  development  in  Iraq  far  removed  from  the standards  of  sustainable  development  to  improve  the quality of life.
-
-- Divisiveness and the lack of coordination and cooperation 5. have characterized the various branches of the economic policy.  This  has  particularly  been  the  case  with  respect to finance and monetary policies, and it has exacerbated the severity of unemployment, inflation, and the spread of administrative corruption.
+5. Divisiveness and the lack of coordination and cooperation have characterized the various branches of the economic policy. This has particularly been the case with respect to finance and monetary policies, and it has exacerbated the severity of unemployment, inflation, and the spread of administrative corruption.
 
 ### 1.3 The Plan's Assumptions
 
 The development plan for 2010-2014 is based on four basic assumptions  that are considered methodological starting points for preparing and executing the plan:
 
-- The  ability  of  the  Iraqi  economy  to  move  forward  and 1. execute  a  sustainable  and  comprehensive  development plan.
+1. The ability of the Iraqi economy to move forward and execute a sustainable and comprehensive development plan.
 
-- Sustainable  and  comprehensive  economic  development 2. as a goal for growth and a basis for achieving prosperity for  all  members of society, improving the quality of their lives, and protecting the environment.
+2. Sustainable and comprehensive economic development as a goal for growth and a basis for achieving prosperity for all members of society, improving the quality of their lives, and protecting the environment.
 
-- Movement from centralized management of the economy 3. to  decentralized  management  measured  by  the  status of  the  market  economy,  competition,  and  a  gradual increase  in  the  role  of  local  governments  pursuant  to  a creative  approach  aimed  at  selecting  and  establishing market-based mechanisms to define priorities and make decision.
+3. Movement from centralized management of the economy to decentralized management measured by the status of the market economy, competition, and a gradual increase in the role of local governments pursuant to a creative approach aimed at selecting and establishing market-based mechanisms to define priorities and make decision.
 
-- Assignment of a greater role to the domestic and foreign 4. private sectors with respect to financing the development process.
+4. Assignment of a greater role to the domestic and foreign private sectors with respect to financing the development process.
 
 ### 1.4 Challenges
 
 #### 1.4.1. Economic Challenges
 
-- The  quartile  nature  of  the  Iraqi  economy,  whereby  the 1. crude oil extraction and exportation sector accounts for 44  percent  of  the  domestic  product  generated  and  93 percent of total exports
+1. The quartile nature of the Iraqi economy, whereby the crude oil extraction and exportation sector accounts for 44 percent of the domestic product generated and 93 percent of total exports
 
-- The Iraqi economy's significant exposure to the external 2. world  as  a  natural  outcome  of  the  low  contribution  by commodity  sectors  (excluding  oil)  in  GDP  generation, (28.6  percent  for  commodity  activities,  38  percent  for distributional activities, and  33.4  percent for service activities  for  the  period  2004-2008). These rates explain Iraq's  need  to  increase  imports  from  the  outside  world to  cover  increasing  local  demand,  as  the  increase  in operating expenses in the public budget ultimately translated into increased demand in the domestic market.
+2. The Iraqi economy's significant exposure to the external world as a natural outcome of the low contribution by commodity sectors (excluding oil) in GDP generation, (28.6 percent for commodity activities, 38 percent for distributional activities, and 33.4 percent for service activities for the period 2004-2008). These rates explain Iraq's need to increase imports from the outside world to cover increasing local demand, as the increase in operating expenses in the public budget ultimately translated into increased demand in the domestic market.
 
 22
 
@@ -432,25 +703,23 @@ National Development Plan for the Years 2010-2014
 
 The most telling evidence of this fact is the increase in the imported portion, as compared to the domestic portion, of commodity supply in the Iraqi market.
 
-- The private sector's limited role in the development process 3. as evidenced by the decline of its participatory share in economic  activity,  job  creation,  coverage  of  increased domestic demand, and investment generation. This has rendered  the  sector  inflexible  and  unable  to  respond quickly to the changes targeted in the current plan unless a suitable and attractive work environment is created.
+3. The private sector's limited role in the development process as evidenced by the decline of its participatory share in economic activity, job creation, coverage of increased domestic demand, and investment generation. This has rendered the sector inflexible and unable to respond quickly to the changes targeted in the current plan unless a suitable and attractive work environment is created.
 
 #### 1.4.2 Social Challenges
 
 Iraq suffers from a host of social challenges that are no less severe or critical than its economic challenges in terms of their impact on the society and its relationships, the economy and its capabilities, and on the people and the means of enabling them. They limit the course of sustainable human development and hinder the process of achieving the Millennium Development Goals  (MDGs)  established  internationally  and  nationally.  The most prominent social challenges are described below.
 
-- Schooling and Higher Education: 1. Despite the importance afforded this sector by the Iraqi constitution, development plans,  and  economic  policies,  there  are  indications  of  a lack of responsiveness. Data shows a significant deficit in school preparation, an increase in schools with double or triple daily sessions, mud-constructed schools not fit for use, and a decline in the rate of school enrollment, which stands  at  85  percent  for  boys  and  82  percent  for  girls. The situation does not differ for higher education, which has tended toward vertical expansion in universities and has strengthened quantitative progress at the expense of qualitative  progress.  There  is  also  a  clear  disconnection between graduates of the educational system and market needs.  There  is  a  focus  on  the  humanities  specialties, because of the ability to secure the financial and human requirements  associated  therewith,  at  the  expense  of scientific and technical specialties.
+1. Schooling and Higher Education: Despite the importance afforded this sector by the Iraqi constitution, development plans, and economic policies, there are indications of a lack of responsiveness. Data shows a significant deficit in school preparation, an increase in schools with double or triple daily sessions, mud-constructed schools not fit for use, and a decline in the rate of school enrollment, which stands at 85 percent for boys and 82 percent for girls. The situation does not differ for higher education, which has tended toward vertical expansion in universities and has strengthened quantitative progress at the expense of qualitative progress. There is also a clear disconnection between graduates of the educational system and market needs. There is a focus on the humanities specialties, because of the ability to secure the financial and human requirements associated therewith, at the expense of scientific and technical specialties.
 
-- Health: 2. The  magnitude  of  the  challenges  facing  Iraq's health  sector  may  greatly  hinder  its  ability  to  progress along the health axes set forth in the MDGs. There is still a large gap between what has been achieved and what must  be  achieved  by  the  year  2015.  The  most  serious of those challenges include the scarcity of drinking water supplies and the lack of treatment for wastewater and garbage. There are also significant  problems  in  the health  system  itself,  including  a  decline  in  the  number of  beds  and  doctors  per  1,000  people  as  compared  to international indicators. Furthermore, there is not optimal use of available health facilities; the bed occupancy rate in public hospitals does not exceed 65 percent, reflecting the population's lack of trust in the services provided by public health institutions.
+2. Health: The magnitude of the challenges facing Iraq's health sector may greatly hinder its ability to progress along the health axes set forth in the MDGs. There is still a large gap between what has been achieved and what must be achieved by the year 2015. The most serious of those challenges include the scarcity of drinking water supplies and the lack of treatment for wastewater and garbage. There are also significant problems in the health system itself, including a decline in the number of beds and doctors per 1,000 people as compared to international indicators. Furthermore, there is not optimal use of available health facilities; the bed occupancy rate in public hospitals does not exceed 65 percent, reflecting the population's lack of trust in the services provided by public health institutions.
 
-- Housing: 3. Iraq suffers from a housing crisis. Estimates on the  need  for  suitable  housing  units  range  from  1  million to  3.5  million,  depending  on  the  assumptions  used  in housing studies, but in any this  constitutes  a  significant housing shortfall. The development plan must address that shortfall, as well as present policies and procedures that
+3. Housing: Iraq suffers from a housing crisis. Estimates on the need for suitable housing units range from 1 million to 3.5 million, depending on the assumptions used in housing studies, but in any this constitutes a significant housing shortfall. The development plan must address that shortfall, as well as present policies and procedures that can effectively alleviate its severity. Perhaps the leadership role that must be granted to the private sector and foreign investment in this plan's timeframes will contribute to addressing this challenge.
 
-can effectively alleviate its severity. Perhaps the leadership role that must be granted to the private sector and foreign investment  in  this  plan's  timeframes  will  contribute  to addressing this challenge.
+4. Poverty: Data from the poverty alleviation strategy in Iraq have confirmed that 23 percent of the population lives below the poverty line. The current development plan needs to craft its investment programs and objectives in a manner that reduces this rate to the strategy's target rate of 16 percent. However, the disparity in income distribution, i.e. the state of inequality has reached 40 percent, which is considered evidence that can, in and of itself, hinder translation of the goal into reality. Therefore, the plan must seek to formulate comprehensive policies that raise per capita income, achieve equity in distribution, and firmly address the phenomenon of poverty.
 
-- Poverty: 4. Data from the poverty alleviation strategy in Iraq have  confirmed  that  23  percent  of  the  population  lives below  the  poverty  line.  The  current  development  plan needs to craft its investment programs and objectives in a manner that reduces this rate to the strategy's target rate of 16 percent. However, the disparity in income distribution, i.e. the state of inequality has reached 40 percent, which is  considered  evidence  that  can,  in  and  of  itself,  hinder translation of the goal into reality. Therefore, the plan must seek  to  formulate  comprehensive  policies  that  raise  per capita  income,  achieve  equity  in  distribution,  and  firmly address the phenomenon of poverty.
+5. Unemployment: Unemployment may be the social challenge with the most negative effect on the economy and society as a whole. Pursuant to the most recent statistical survey conducted for unemployment in 2008, the unemployment rate has persisted at the rate of about 15 percent overall, with a disproportionately high rate among youth at 30 percent and among women at 32.5 percent. The challenge is to establish solutions and constructive processes to alleviate unemployment through policies that affirm the private sector's role in creating job opportunities, as well as an effective and job creating operating policy.
 
-- Unemployment: 5. Unemployment may be the social challenge with the most negative effect on the economy and  society  as  a  whole.  Pursuant  to  the  most  recent statistical survey conducted for unemployment in 2008, the unemployment rate has persisted at the rate of about 15 percent overall, with a disproportionately high rate among youth at 30 percent and among women at 32.5 percent. The  challenge  is  to  establish  solutions  and  constructive processes to alleviate unemployment through policies that affirm the private sector's role in creating job opportunities, as well as an effective and job creating operating policy.
-
-- Youth 6. :  The  diversity  among  youth  from  an  educational, cultural, and skill level perspective is considered another one  of  the  main  challenges  facing  the  Iraqi  economy. Twenty-four percent of participants in the labor force are uneducated; of that group 41.2 percent can read and write and 43.1  percent have a primary school certificate. These rates confirm the necessity for the plan to adopt a bundle of effective policies to promote youth, as well as educate and employ them.
+6. Youth: The diversity among youth from an educational, cultural, and skill level perspective is considered another one of the main challenges facing the Iraqi economy. Twenty-four percent of participants in the labor force are uneducated; of that group 41.2 percent can read and write and 43.1 percent have a primary school certificate. These rates confirm the necessity for the plan to adopt a bundle of effective policies to promote youth, as well as educate and employ them.
 
 #### 1.4.3 Duality of Spatial Development
 
@@ -484,23 +753,23 @@ Iraq is seeking to be a peaceful and stable nation under the auspices of a feder
 
 ### 1.6 Strategic Objectives
 
-- Work to increase the GDP at a rate of 9.37  percent per 1. year for the duration of the plan.
+1. Work to increase the GDP at a rate of 9.37 percent per year for the duration of the plan.
 
-- Work to diversify the economy and transform it into one 2. that  is  characterized  by  a  gradual  increase  in  the  rate of  participation  by  sectors  other  than  oil  in  the  GDP , particularly the production (agriculture, industry) and tourism sectors, as well as one that is characterized by growing  participation  from  the  private  sector  over  the course of transformation into a market economy.
+2. Work to diversify the economy and transform it into one that is characterized by a gradual increase in the rate of participation by sectors other than oil in the GDP, particularly the production (agriculture, industry) and tourism sectors, as well as one that is characterized by growing participation from the private sector over the course of transformation into a market economy.
 
-- Work to improve and increase productivity and promote 3. competition in all economic sectors, particularly as regards activities that have a comparative advantage, such as oil, gas,  petrochemicals,  cement,  plastics,  pharmaceuticals, and electricity  across  all  of  Iraq's  regions  and  provinces so  as  to  guarantee  and  ensure  a  continuously  robust economy for Iraq.
+3. Work to improve and increase productivity and promote competition in all economic sectors, particularly as regards activities that have a comparative advantage, such as oil, gas, petrochemicals, cement, plastics, pharmaceuticals, and electricity across all of Iraq's regions and provinces so as to guarantee and ensure a continuously robust economy for Iraq.
 
-- Work to increase the employment rate, particularly 4. among  youth  and  women,  by  activating  the  private sector's role in employment. This should reduce the high unemployment  rate  of  15  percent,  consisting  of  both seasonal unemployment and underemployment, and the social problems associated therewith.
+4. Work to increase the employment rate, particularly among youth and women, by activating the private sector's role in employment. This should reduce the high unemployment rate of 15 percent, consisting of both seasonal unemployment and underemployment, and the social problems associated therewith.
 
-- Increase as well as quantitatively and qualitatively improve 5. the water provided for human consumption over both the mid and long term, as well as double the coverage areas of sanitation projects and expand their spatial coverage to include all provinces.
+5. Increase as well as quantitatively and qualitatively improve the water provided for human consumption over both the mid and long term, as well as double the coverage areas of sanitation projects and expand their spatial coverage to include all provinces.
 
-- Work  seriously  to  alleviate  the  poverty  that  is  currently 6. widespread  in  Iraq  by  creating  job  opportunities  and areas (new  sustainable jobs) as well as sustainable income. Further, ensure basic social services to the poor by  ensuring  qualification  and  training  in  new  job  areas, particularly for high-risk groups like orphans, widows, and individuals with special needs.
+6. Work seriously to alleviate the poverty that is currently widespread in Iraq by creating job opportunities and areas (new sustainable jobs) as well as sustainable income. Further, ensure basic social services to the poor by ensuring qualification and training in new job areas, particularly for high-risk groups like orphans, widows, and individuals with special needs.
 
-- Work  to  achieve  comprehensive  and  relevant  growth 7. that  guarantees  activation  or  productive  investment  of human  and  natural  resources  in  all  of  Iraq's  provinces. This  would  be  supported  by  means  of  geographically balanced investment allocations and an attempt to decrease disparities, barriers, and dualities at the regional (district) level. Further, this would be achieved by working to  establish  a  coherent  series  of  economic  activities, industrial  complexes,  and  economic  free  zones  across the  nation.  The  plan  also  aims  to  achieve  balanced distribution of infrastructure, social services, and suitable housing based on population size, needs, and the extent of regional deprivation over the past periods.
+7. Work to achieve comprehensive and relevant growth that guarantees activation or productive investment of human and natural resources in all of Iraq's provinces. This would be supported by means of geographically balanced investment allocations and an attempt to decrease disparities, barriers, and dualities at the regional (district) level. Further, this would be achieved by working to establish a coherent series of economic activities, industrial complexes, and economic free zones across the nation. The plan also aims to achieve balanced distribution of infrastructure, social services, and suitable housing based on population size, needs, and the extent of regional deprivation over the past periods.
 
-- Address rural development issues, particularly the 8. poor  performance  by  the  agricultural  sector  in  terms  of productivity and job creation, as well as unsuitable housing and weak infrastructure in the countryside. That is why the plan seeks to reduce disparity and barriers between rural and urban areas in terms of the availability of infrastructure, social  services,  and  areas  of  new  job  creation.  These would, in turn, contain the phenomenon of rural-to-urban migration that applies negative pressure on existing services and infrastructure, particularly in large cities.
+8. Address rural development issues, particularly the poor performance by the agricultural sector in terms of productivity and job creation, as well as unsuitable housing and weak infrastructure in the countryside. That is why the plan seeks to reduce disparity and barriers between rural and urban areas in terms of the availability of infrastructure, social services, and areas of new job creation. These would, in turn, contain the phenomenon of rural-to-urban migration that applies negative pressure on existing services and infrastructure, particularly in large cities.
 
-- Increase awareness about and acceptance of the 9. principles of sustainable development and quality of life, and the need to achieve them across all of the economy's
+9. Increase awareness about and acceptance of the principles of sustainable development and quality of life, and the need to achieve them across all of the economy's
 
 24
 
@@ -524,9 +793,9 @@ One  of  the  main  assumptions  upon  which  the  plan  is  built is  reliance 
 
 This alternative assumes that old relationships and interconnections  among  economic  activities  continue  during plan years 2010-2014. This alternative consists of two levels:
 
-- Assuming  that  the  Iraqi  economy  grows  at  a  compound 1. annual rate of 9.45 percent as of 2009 requires investment in the amount of 154,040 billion dinars, i.e., US$131 billion.
+1. Assuming that the Iraqi economy grows at a compound annual rate of 9.45 percent as of 2009 requires investment in the amount of 154,040 billion dinars, i.e., US$131 billion.
 
-- Assuming an annual growth rate of 11.0 percent requires 2. investment  in  the  amount  of  180,854  billion  dinars,  i.e., US$154 billion.
+2. Assuming an annual growth rate of 11.0 percent requires investment in the amount of 180,854 billion dinars, i.e., US$154 billion.
 
 #### Alternative Two
 
@@ -536,19 +805,19 @@ This alternative assumes  that  existing  historical technical relationships  am
 
 In this alternative, five activities were selected and their growth rate  was doubled as compared to historical levels. This was done as follows:
 
-- Crude Oil: 1.
+1. Crude Oil:
 
-- In  2010  and  2011,  export  quantities  and  prices remain as is in Alternative Two.
+- In 2010 and 2011, export quantities and prices remain as is in Alternative Two.
 
-- From 2012 to 2014, the exported quantity is assumed to  grow  by  20  percent  annually  as  compared  to the 2011 level; in other words, daily production will exceed 5 million barrels per day at an assumed price of  about  US$70  per  barrel.  Based  thereupon,  oil output will grow at a rate of 22 percent per year.
+- From 2012 to 2014, the exported quantity is assumed to grow by 20 percent annually as compared to the 2011 level; in other words, daily production will exceed 5 million barrels per day at an assumed price of about US$70 per barrel. Based thereupon, oil output will grow at a rate of 22 percent per year.
 
-- Agriculture: It will grow at a rate of 7.0 percent. 2.
+2. Agriculture: It will grow at a rate of 7.0 percent.
 
-- Electricity and water: They will grow at a rate of 20 percent. 3.
+3. Electricity and water: They will grow at a rate of 20 percent.
 
-- Transportation: It will grow at a rate of 6.0 percent. 4.
+4. Transportation: It will grow at a rate of 6.0 percent.
 
-- Social services: They will grow at a rate of 20 percent. 5.
+5. Social services: They will grow at a rate of 20 percent.
 
 Accordingly, and pursuant to this alternative, the GDP will grow at a rate of 17 percent.
 
@@ -556,21 +825,21 @@ Accordingly, and pursuant to this alternative, the GDP will grow at a rate of 17
 
 Based on discussions held about the three alternatives, and in consideration of Iraq's conditions and production capabilities, another alternative was prepared. It is considered a combination of these alternatives and it was adopted when preparing the plan's estimates. It is as follows:
 
-- Historical growth rates for the periods 1970-1980, 19801. 1990,  1990-2000,  2000-2007,  and  1970-2007  were calculated. Based thereupon, rates were calculated for the GDP and labeled as historical rates.
+1. Historical growth rates for the periods 1970-1980, 1980-1990, 1990-2000, 2000-2007, and 1970-2007 were calculated. Based thereupon, rates were calculated for the GDP and labeled as historical rates.
 
-- Six activities were given special priority. They are: 2.
+2. Six activities were given special priority. They are:
 
-- Crude  oil  extraction,  as  it  guarantees  sustainable financial resources at this stage
+- Crude oil extraction, as it guarantees sustainable financial resources at this stage
 
 - Electricity as one of the central activities relied upon by all production and life activities and areas
 
-- Agriculture,  as  it  guarantees  food  security,  reduces food  imports,  and  creates  a  vast  number  of  job opportunities that can reduce unemployment in rural areas and alleviate poverty
+- Agriculture, as it guarantees food security, reduces food imports, and creates a vast number of job opportunities that can reduce unemployment in rural areas and alleviate poverty
 
-- Social  development  services,  as  it  is  the  sector focused on building up the citizenry and providing a social  umbrella.  It  includes  the  basic  infrastructuresupporting services (water and sanitation, education, health, culture, youth and sports, as well as enablement  in  the  area  of  housing),  other  services related to the MDGs, and achievement of strategic poverty alleviation objectives.
+- Social development services, as it is the sector focused on building up the citizenry and providing a social umbrella. It includes the basic infrastructure-supporting services (water and sanitation, education, health, culture, youth and sports, as well as enablement in the area of housing), other services related to the MDGs, and achievement of strategic poverty alleviation objectives.
 
-- Transportation,  as  it  is  an  important  sector  that supports the flow of economic activity and increases its  efficiency.  It  also  has  a  profound  impact  on  the population's quality of life.
+- Transportation, as it is an important sector that supports the flow of economic activity and increases its efficiency. It also has a profound impact on the population's quality of life.
 
-- Conversion industries, as Iraq possesses capabilities, in  terms  of  natural  and  human  resources,  that guarantee  it  a  comparative  advantage  in  many industrial activities such as petrochemical, chemical, fertilizer,  cement,  and  food  industries.  They  also constitute a crucial starting point for diversifying the national  economy,  invigorating  participation  by  the private sector, and ensuring job opportunities.
+- Conversion industries, as Iraq possesses capabilities, in terms of natural and human resources, that guarantee it a comparative advantage in many industrial activities such as petrochemical, chemical, fertilizer, cement, and food industries. They also constitute a crucial starting point for diversifying the national economy, invigorating participation by the private sector, and ensuring job opportunities.
 
 As for the remaining activities, they were assumed to remain at their historical growth levels. Based thereupon, the growth rate  of  the  GDP  will  be  9.38  percent  annually.  Tables  (2-5) provide output estimates by activity as well as the magnitude of investments and financial resources needed. They also provide data about what can be funded by the state's public budget and what can be proposed for contribution by the private or foreign sector.
 
@@ -605,6 +874,18 @@ Year | Exported Quantity Million Barrels/ Day | Price Dollar/ Barrel | Export Va
 
 * Dollar = 1,170 dinars for each period.
 
+On the other hand, directors at the Ministry of Oil expect the picture will improve after 2012 based on contracts currently being signed with foreign companies to increase the quantity of oil production and exportation. Accordingly, alternative estimates were prepared based on the expectations set forth in Alternative Three.
+
+#### 1.8.2  Estimate for Non-Oil Revenues
+
+1. Tax revenues will increase at a rate of 15 percent per year over prior levels.
+
+2. The treasury's share of non-oil company revenues will increase at a rate of 15 percent per year for the years 2010-2014.
+
+3. Non-tax revenues of 1,800 billion dinars per year.
+
+Accordingly, the oil and non-oil revenues set forth in Table (3) indicate an anticipation that oil revenues will increase from 55,089 billion dinars in 2010 to 90,022 billion dinars in 2014, while non-oil revenues will increase from 3,263 billion dinars in 2010 to 7,404 billion dinars in 2014. Accordingly, the plan anticipates achievement of total revenues in the amount of 390,397 billion dinars based on the estimates of the plan's Financial Resources Committee and 446,787 billion dinars based on the alternative estimates for oil production and exportation.
+
 Table 3 | Anticipated Financial Revenues for the Years 2010-2014 (Billions of Iraqi Dinar)
 --- | --- | --- | --- | --- | ---
 Year | Committee Estimates for Oil Revenues | Non-Oil Revenues | Total (-1) | Alternative Oil Estimates | Total (-2)
@@ -613,24 +894,12 @@ Year | Committee Estimates for Oil Revenues | Non-Oil Revenues | Total (-1) | Al
 2012 | 72,598.5 | 6,354 | 78,952.5 | 82,506.1 | 88,860.1
 2013 | 81,310.32 | 6,846.9 | 88,157.2 | 99,006.6 | 105,853.5
 2014 | 90,022.14 | 7404.4 | 97,426.5 | 118,808.8 | 126,213.2
-Total | 390,397 | 446,787.6
+Total | | | 390,397 | | 446,787.6
 Plan Calculations
-Alternatives | 30 percent of budget targeted to investment | revenues spending | Portion funded by the domestic and foreign private sector
-Billions of | dinars | Billions of dollars | Billions of dinars | Billions of dollars
+Alternatives | 30 percent of budget revenues targeted to investment spending | Portion funded by the domestic and foreign private sector
+ | Billions of dinars | Billions of dollars | Billions of dinars | Billions of dollars
 Alternative One | 117,119.1 | 100 | 152,345.9 | 130.2
 Alternative Two to be adopted after 2010 | 134,036.3 | 114.6 | 83,600.7 | 71.5
-
-On the other hand, directors at the Ministry of Oil expect the picture  will  improve  after  2012  based  on  contracts  currently being signed with foreign companies to increase the quantity of  oil  production  and  exportation.  Accordingly,  alternative estimates were prepared based on the expectations set forth in Alternative Three.
-
-#### 1.8.2  Estimate for Non-Oil Revenues
-
-- Tax revenues will increase at a rate of 15  percent per year 1. over prior levels.
-
-- The  treasury's  share  of  non-oil  company  revenues  will 2. increase at a rate of 15  percent per year for the years 2010-2014.
-
-- Non-tax revenues of 1,800 billion dinars per year. 3.
-
-Accordingly, the oil and non-oil revenues set forth in Table (3) indicate  an  anticipation  that  oil  revenues  will  increase  from 55,089 billion dinars in 2010 to 90,022 billion dinars in 2014, while  non-oil  revenues  will  increase  from  3,263  billion  dinars in 2010 to 7,404 billion dinars in 2014. Accordingly, the plan anticipates  achievement  of  total  revenues  in  the  amount  of 390,397  billion  dinars  based  on  the  estimates  of  the  plan's Financial  Resources  Committee  and  446,787  billion  dinars based  on  the  alternative  estimates  for  oil  production  and exportation.
 
 26 National Development Plan for the Years 2010-2014
 
@@ -658,23 +927,23 @@ There is a need for a comprehensive framework of procedures and  regulations  to
 
 #### 1.10.1 Financial Policies
 
-- Increased funding of the state's public budget from non-oil 1. sources by invigorating economic activity so as to ensure expansion of the tax base.
+1. Increased funding of the state's public budget from non-oil sources by invigorating economic activity so as to ensure expansion of the tax base.
 
-- Reconsideration of the spending structure so as to reduce 2. spending on operating areas, redirect funds to investment to  fill  the  gap  in  investment  needs,  and  use  operations spending to support investment spending.
+2. Reconsideration of the spending structure so as to reduce spending on operating areas, redirect funds to investment to fill the gap in investment needs, and use operations spending to support investment spending.
 
-- Correlation of sums designated for province development 3. to  population size, degree of need and deprivation, and the capabilities available in the provinces so as to support the plan's orientations.
+3. Correlation of sums designated for province development to population size, degree of need and deprivation, and the capabilities available in the provinces so as to support the plan's orientations.
 
-- Management  of  the  government's  public  debt  so  as  to 4. ensure availability of funding for the state's public budget and issuance of government bonds to avoid inflationary pressure.
+4. Management of the government's public debt so as to ensure availability of funding for the state's public budget and issuance of government bonds to avoid inflationary pressure.
 
-- Reliance  on  external  funding  through  facilitated  loans  in 5. the event there is a need to expand funding of strategic projects within the plan.
+5. Reliance on external funding through facilitated loans in the event there is a need to expand funding of strategic projects within the plan.
 
-- Restructuring and reform of the banking sector to ensure 6. performance of the internal and external banking services needed by the development process.
+6. Restructuring and reform of the banking sector to ensure performance of the internal and external banking services needed by the development process.
 
-- Restructuring of the state's administrative and 7. organizational  structure  so  as  to  execute,  monitor,  and oversee public spending.
+7. Restructuring of the state's administrative and organizational structure so as to execute, monitor, and oversee public spending.
 
-- Restructuring at the aggregate economic level as agreed to 8. with the International Monetary Fund (IMF) and in a manner consistent with economic and social development needs.
+8. Restructuring at the aggregate economic level as agreed to with the International Monetary Fund (IMF) and in a manner consistent with economic and social development needs.
 
-- Improvement of the quality and timeliness of the 9. financial  and  economic  data  issued  by  governmental administrations  to  support  decision  making  as  regards overarching economic policies.
+9. Improvement of the quality and timeliness of the financial and economic data issued by governmental administrations to support decision making as regards overarching economic policies.
 
 #### 1.10.2 Monetary Policies
 
@@ -684,11 +953,11 @@ The  nation  needs  significant  funding  for  development.  Thus, the monetary 
 
 #### 1.10.3 Investment Policy
 
-- The investment policy will support the objective of 1. achieving  comprehensive  and  sustainable  development of the economy. As indicated, the magnitude of requisite investment is about 217.6 trillion dinars.
+1. The investment policy will support the objective of achieving comprehensive and sustainable development of the economy. As indicated, the magnitude of requisite investment is about 217.6 trillion dinars.
 
-- Government investment as well as domestic and foreign 2. private sector investment will contribute to executing the plan's aggregate and sectoral objectives. Specifically, the government will contribute 53.7 percent of investment, with the foreign and private sector contributing 46.2 percent of investment during the years of the plan.
+2. Government investment as well as domestic and foreign private sector investment will contribute to executing the plan's aggregate and sectoral objectives. Specifically, the government will contribute 53.7 percent of investment, with the foreign and private sector contributing 46.2 percent of investment during the years of the plan.
 
-- The  plan's  investment  orientations  are  based  on  the 3. principle of sectoral priorities that will promote unbalanced growth during plan years so as to achieve a future goal of balanced sectoral growth. Accordingly, the oil, electricity, and agricultural sectors were accorded investment priority and allocated 15 percent, 10 percent, and 5.9 percent, respectively  of  total  government  investment  allocations over the five years of the plan. In contrast, 5 percent of total government investment allocations were directed to the conversion industries sector.
+3. The plan's investment orientations are based on the principle of sectoral priorities that will promote unbalanced growth during plan years so as to achieve a future goal of balanced sectoral growth. Accordingly, the oil, electricity, and agricultural sectors were accorded investment priority and allocated 15 percent, 10 percent, and 5.9 percent, respectively of total government investment allocations over the five years of the plan. In contrast, 5 percent of total government investment allocations were directed to the conversion industries sector.
 
 National Development Plan for the Years 2010-2014 27
 
@@ -702,11 +971,11 @@ The Plan's Economic and Social Framework
 
 This area was  mostly  left to private  (domestic  and foreign)  investment.  High  priority  was  also  given  to  the transportation and communication sectors for their close connection  to  economic  activity  and  human  prosperity; they were allocated 9 percent of total  government investments under the plan.
 
-- The investment policy seeks to reinforce the plan's spatial 4. objective by allocating 14,625 billion dinars, or US$12.5 billion  and  12.5  percent  of  total  government  investment allocations  under  the  plan,  to  the  regional  development program  so  as  to  reinforce  the  primary  principle  of promoting decentralization and according a larger role to local governments as regards development.
+4. The investment policy seeks to reinforce the plan's spatial objective by allocating 14,625 billion dinars, or US$12.5 billion and 12.5 percent of total government investment allocations under the plan, to the regional development program so as to reinforce the primary principle of promoting decentralization and according a larger role to local governments as regards development.
 
-- The investment policy seeks to build up the Iraqi people, 5. as  they  are  the  cornerstone  of  economic  and  social progress. For that reason, it has allocated 22 percent of the  government  investment  program  to  service  sectors (water and sanitation, learning, health, education, as well as sports, tourism, and cultural activities).
+5. The investment policy seeks to build up the Iraqi people, as they are the cornerstone of economic and social progress. For that reason, it has allocated 22 percent of the government investment program to service sectors (water and sanitation, learning, health, education, as well as sports, tourism, and cultural activities).
 
-- Seventeen percent of total government investment, or any 6. percentage to be confirmed by the next population census, was allocated to the Kurdistan region in a phased manner. This is equivalent to 19,890 billion dinars or US$17 billion (Figure 1).
+6. Seventeen percent of total government investment, or any percentage to be confirmed by the next population census, was allocated to the Kurdistan region in a phased manner. This is equivalent to 19,890 billion dinars or US$17 billion (Figure 1).
 
 Figure 1
 
@@ -738,23 +1007,23 @@ Agriculture 9.5
 
 #### 1.10.4 Decentralized and Federal Policies
 
-- The plan is careful to involve the provinces' local authorities 1. in  the  process  of  preparing  and  defining  their  developmental priorities,  particularly  in  the  area  of  availability  of  social services  to  citizens,  provided  the  issue  of  planning  and executing  strategic  projects  that  serve  the  Iraqi  public and multiple provinces is left to the federal government in consultation with the local authorities concerned.
+1. The plan is careful to involve the provinces' local authorities in the process of preparing and defining their developmental priorities, particularly in the area of availability of social services to citizens, provided the issue of planning and executing strategic projects that serve the Iraqi public and multiple provinces is left to the federal government in consultation with the local authorities concerned.
 
-- Distribution of investments based on a balancing between 2. the  principles  of  social  justice  (in  terms  of  services  and infrastructure) and economic efficiency (in terms of production  activities)  so  as  to  create  a  correlation  and complementary relationship among regions and provinces and based upon the foundations of comparative advantages, capabilities, and developmental specifications for the region and province.
+2. Distribution of investments based on a balancing between the principles of social justice (in terms of services and infrastructure) and economic efficiency (in terms of production activities) so as to create a correlation and complementary relationship among regions and provinces and based upon the foundations of comparative advantages, capabilities, and developmental specifications for the region and province.
 
 #### 1.10.5 Policies for Support of the Private Sector
 
-- Building of a partnership between the public and private 1. sectors using all partnership forms and methods as well as concession contracts.
+1. Building of a partnership between the public and private sectors using all partnership forms and methods as well as concession contracts.
 
-- Improvement and diversification of fundamental 2. infrastructure and services such as electricity and all forms of  transportation  that  help  the  private  sector  transport its  products  and  production  needs  seamlessly  and  at appropriate cost.
+2. Improvement and diversification of fundamental infrastructure and services such as electricity and all forms of transportation that help the private sector transport its products and production needs seamlessly and at appropriate cost.
 
-- Opening of the way for direct and indirect foreign investment 3. with continued development of laws and regulations that govern it.
+3. Opening of the way for direct and indirect foreign investment with continued development of laws and regulations that govern it.
 
-- Streamlining and simplification of governmental procedures 4. and development of laws that promote investment and give Iraq  a  competitive  edge  in  dealing  with  businesspeople and investors.
+4. Streamlining and simplification of governmental procedures and development of laws that promote investment and give Iraq a competitive edge in dealing with businesspeople and investors.
 
-- Reform and conversion of public companies into private 5. or mixed companies by benefiting from laws currently in effect, particularly Laws No. 21 and 22 of 1997.
+5. Reform and conversion of public companies into private or mixed companies by benefiting from laws currently in effect, particularly Laws No. 21 and 22 of 1997.
 
-- Reform  of the financial sector, improvement  of the 6. banking sector's performance, expansion of loan avenues by  providing  small  and  mid-size  loans  at  preferential conditions, and funding small and mid-size projects.
+6. Reform of the financial sector, improvement of the banking sector's performance, expansion of loan avenues by providing small and mid-size loans at preferential conditions, and funding small and mid-size projects.
 
 ### 1.11. Estimates for Gross Domestic Product and Expected Inflation
 
@@ -952,30 +1221,30 @@ Population and Labor Force
 
 2. Population and Labor Force
 
-Table 7 | Population, Working-Age Population, Economically Active Population, and Participation Rates for the Years
+Table 7 | Population, Working-Age Population, Economically Active Population, and Participation Rates for the Years 2002-2004-2008
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | 2002- 2004-2008 | Population | Working Age Population | Economically Active Population | Economically Active of Working Age | % of Working Age Population | Economic Activity Rates | Active of Working Age / Working Age Population
-Males | 12,814,121 | 6,789,847 | 5,724,359 | 5,520,812 | 52.99 | 44.67 | 81.31
+Year | | Population | Working Age Population | Economically Active Population | Economically Active of Working Age | % of Working Age Population | Economic Activity Rates | Active of Working Age / Working Age Population
+2002 | Males | 12,814,121 | 6,789,847 | 5,724,359 | 5,520,812 | 52.99 | 44.67 | 81.31
 2002 | Females | 12,750,714 | 6,670,880 | 1,201,175 | 1,173,210 | 52.32 | 9.42 | 17.59
-Males and Females | 25,564,835 | 13,660,784 | 6,925,534 | 6,694,022 | 53.44 | 27.09 | 49.00
-Males | 13,629,337 | 7,269,084 | 6,154,288 | 5,948,151 | 53.33 | 45.15 | 81.83
+2002 | Males and Females | 25,564,835 | 13,660,784 | 6,925,534 | 6,694,022 | 53.44 | 27.09 | 49.00
+2004 | Males | 13,629,337 | 7,269,084 | 6,154,288 | 5,948,151 | 53.33 | 45.15 | 81.83
 2004 | Females | 13,510,248 | 7,113,984 | 1,351,909 | 1,322,989 | 52.66 | 10.01 | 18.60
-Males and Females | 27,139,585 | 14,596,762 | 7,506,197 | 7,271,141 | 53.78 | 27.66 | 49.81
-Males | 15,394,248 | 8,274,241 | 7,129,446 | 6,916,433 | 53.75 | 46.31 | 83.59
+2004 | Males and Females | 27,139,585 | 14,596,762 | 7,506,197 | 7,271,141 | 53.78 | 27.66 | 49.81
+2008 | Males | 15,394,248 | 8,274,241 | 7,129,446 | 6,916,433 | 53.75 | 46.31 | 83.59
 2008 | Females | 15,183,550 | 8,052,637 | 1,717,759 | 1,686,677 | 53.04 | 11.31 | 20.95
-Males and Females | 30,577,798 | 16,571,888 | 8,847,205 | 8,603,110 | 54.20 | 28.93 | 51.91
+2008 | Males and Females | 30,577,798 | 16,571,888 | 8,847,205 | 8,603,110 | 54.20 | 28.93 | 51.91
 
 #### 2.4.1 Labor Force and Employment
 
-The working-age population is society's inherent power, as it constitutes the available labor force. A portion of that population must  be  discounted  because  of  voluntary  and  obligatory unemployment. This increases the degree of dependence in the economy, which were 113 in 1977. It is worth noting that the degree increases as the population growth rate increases when compared to the labor force growth rate. This has been confirmed by historical statistics for the period 1977-1997. The population growth rate was 3.1 percent, while the labor force growth rate was no more than 2.7 percent. That is because, during that period, the labor force was affected by a number of demographic, economic, and social factors including the Iraqi population's age structure, which tended toward a population group  under  14  years,  the  limited  availability  of  educational opportunities that facilitated participation in the job market, and the low rate of female participation in economic activity. Post2003 statistical  surveys  conducted  in  Iraq  have  confirmed  a tangible decline in the degree of dependence within the Iraqi economy. Indeed, it fell to 76 in 2008, when the population's age structure changed and the working-age group increased to  58.44  percent.  This  increase  not  only  means  a  decline  in the degree of dependence but also the availability of additional labor  supply  entering  the  job  market,  estimated  to  be  about 1,331,970 workers for the 2004-2008 period. This presents a serious challenge to the current development plan, namely, the extent to which it will be capable of creating job opportunities for  the  additional  current  and  future  labor  supply  in  light  of productivity, financial,  and institutional  constraints, as well as the clear disparities in the size and distribution of the labor force by economic activity and sector.
+The working-age population is society's inherent power, as it constitutes the available labor force. A portion of that population must be discounted because of voluntary and obligatory unemployment. This increases the degree of dependence in the economy, which were 113 in 1977. It is worth noting that the degree increases as the population growth rate increases when compared to the labor force growth rate. This has been confirmed by historical statistics for the period 1977-1997. The population growth rate was 3.1 percent, while the labor force growth rate was no more than 2.7 percent. That is because, during that period, the labor force was affected by a number of demographic, economic, and social factors including the Iraqi population's age structure, which tended toward a population group under 14 years, the limited availability of educational opportunities that facilitated participation in the job market, and the low rate of female participation in economic activity. Post-2003 statistical surveys conducted in Iraq have confirmed a tangible decline in the degree of dependence within the Iraqi economy. Indeed, it fell to 76 in 2008, when the population's age structure changed and the working-age group increased to 58.44 percent. This increase not only means a decline in the degree of dependence but also the availability of additional labor supply entering the job market, estimated to be about 1,331,970 workers for the 2004-2008 period. This presents a serious challenge to the current development plan, namely, the extent to which it will be capable of creating job opportunities for the additional current and future labor supply in light of productivity, financial, and institutional constraints, as well as the clear disparities in the size and distribution of the labor force by economic activity and sector.
 
 The  total  labor  force  in  Iraq,  both  in  private  and  public sectors, was estimated to be 5,072,811 in 2002 and grew to 7,664,177  in  2007.  The  employment  rate  of  the  labor  force in  the  public  sector  was  19.3  percent  in  2002  and  declined to 14.7 percent in 2007 because of changes in the form and content of employment in Iraq after 2003. The private sector had a higher rate, which increased from 80.7 percent in 2002 to 85.3 percent in 2007. This disparity in labor distribution rates between the private and public sectors was accompanied by a clear disparity in the labor distribution by economic activity in 2007. The private sector had the highest employment rates in  the  fields  of  agriculture,  fishing,  and  wholesale  and  retail commerce, where the rate was 98 percent. This was followed by a 90 percent employment rate in the fields of building and construction,  82  percent  in  the  fields  of  transportation  and communications,  and  66.5  percent  in  conversion  industries. The private sector recorded a decline in employment rates in the fields of mining, quarries, and extraction at 14.5 percent, water and electricity at 18.5 percent, and the service sector at 35 percent. Employment rates were evenly distributed between the  public  and  private  sectors  in  the  fields  of  finance  and insurance. Based upon these data, the NDP seeks to provide the institutional environment necessary to support and promote the private sector as well as render it a principal and effective partner in implementing development  objectives, thereby creating new jobs that absorb the increase in accumulated and anticipated labor supply indicated by the statistical data.
 
-Modernization also negatively affected the nature of employment trends in Iraq. The percentage of employees involved in noncommodity  activities  went  from  59  percent  in  2006  to  82 percent in 2008, pointing to the conversion industry's inability to absorb the increase in the labor force; only 5.9 percent of employees worked in that sector in 2006. This rate increased to  13.7  percent  in  2008,  confirming  that  the  labor  force's rural-to-urban  migration  was  the  result  of  industrial  factors and attraction, as is the case in developed countries. Rather, it  was  the  result  of  the  factors  of  eviction  from  rural  areas. Looking  at  the  employment  structure  by  gender  the  rate  of female participation in economic activity is low and influenced by institutional, cultural, economic, and legal factors that have exacerbated  the  severity  of  this  decline  when  compared  to males.  This  will  be  addressed  in  more  detail  in  the  section analyzing gender and society in chapter 8.
+Modernization also negatively affected the nature of employment trends in Iraq. The percentage of employees involved in non-commodity activities went from 59 percent in 2006 to 82 percent in 2008, pointing to the conversion industry's inability to absorb the increase in the labor force; only 5.9 percent of employees worked in that sector in 2006. This rate increased to 13.7 percent in 2008, confirming that the labor force's rural-to-urban migration was the result of industrial factors and attraction, as is the case in developed countries. Rather, it was the result of the factors of eviction from rural areas. Looking at the employment structure by gender the rate of female participation in economic activity is low and influenced by institutional, cultural, economic, and legal factors that have exacerbated the severity of this decline when compared to males. This will be addressed in more detail in the section analyzing gender and society in chapter 8.
 
 #### 2.4.2 Unemployment
 
-The high unemployment rate phenomenon was not prominent during the 1980s and 1990s because of the mandatory military draft that applied to most of the economically active population. The  unemployment  rate  was  no  higher  than  5  percent  per 1987  statistics.  However,  after  2003,  unemployment  rates skyrocketed, their trends varied, and their underlying reasons multiplied  and  were  compounded  by  current  conditions, resulting in an increase in the unemployment rate to 28 percent pursuant to the CSO's 2003 employment and unemployment survey. The rate subsequently declined to 18 percent in 2006 and 15 percent in 2008 as a result of the employment policy adopted by the government after 2005 that aimed to increase employment by the state and the security apparatus.
+The high unemployment rate phenomenon was not prominent during the 1980s and 1990s because of the mandatory military
 
 36
 
@@ -987,43 +1256,43 @@ National Development Plan for the Years 2010-2014
 
 2
 
-The employment and unemployment survey data also showed that unemployment rates among males were higher in 2003, reaching 30.2 percent and declined to 14.3 percent in 2008. In contrast, unemployment rates among females increased in 2008 to 19.6 percent after they had been 16 percent in 2003. The unemployment rate for youth between the ages of 15 and 24 years increased to 30 percent, and the rate for males within that  category  was  30  percent,  as  compared  to  32  percent for females. Individuals in the 60-64 years age group had the lowest unemployment rate at 4.63 percent based on the results of the 2008 survey.
+draft that applied to most of the economically active population. The unemployment rate was no higher than 5 percent per 1987 statistics. However, after 2003, unemployment rates skyrocketed, their trends varied, and their underlying reasons multiplied and were compounded by current conditions, resulting in an increase in the unemployment rate to 28 percent pursuant to the CSO's 2003 employment and unemployment survey. The rate subsequently declined to 18 percent in 2006 and 15 percent in 2008 as a result of the employment policy adopted by the government after 2005 that aimed to increase employment by the state and the security apparatus.
+
+The employment and unemployment survey data also showed that unemployment rates among males were higher in 2003, reaching 30.2 percent and declined to 14.3 percent in 2008. In contrast, unemployment rates among females increased in 2008 to 19.6 percent after they had been 16 percent in 2003. The unemployment rate for youth between the ages of 15 and 24 years increased to 30 percent, and the rate for males within that category was 30 percent, as compared to 32 percent for females. Individuals in the 60-64 years age group had the lowest unemployment rate at 4.63 percent based on the results of the 2008 survey.
 
 The differences are even clearer when comparing urban and rural  areas.  The  unemployment  rate  in  urban  areas  declined from 30 percent in 2003 to about 16 percent in 2008, while the  rate  declined  in  rural  areas  from  25  percent  in  2003  to 13  percent  in  2008  (Table  8).  The  lack  of  security,  failure  of reconstruction projects to create new job opportunities, decline in  investment  spending  allocations  as  a    percentage  of  total public spending, absence of foreign investment supporting the principle  of  national  labor  employment,  and  the  inefficacy  of external grants and loans in creating job opportunities are all considered factors in raising unemployment rates in Iraq.
 
 ### 2.5 Challenges
 
-- Iraq's  population  growth  rate  remains  high  despite  the 1. slight decline over the mid- and long term as a result of the rise in the overall fertility rate, which spurs a continual increase in consumption spending rates to fulfill the needs of consumers in population groups below the working-age as well as the over working-age groups, which are paid for from investment spending.
+1. Iraq's population growth rate remains high despite the slight decline over the mid- and long term as a result of the rise in the overall fertility rate, which spurs a continual increase in consumption spending rates to fulfill the needs of consumers in population groups below the working-age as well as the over working-age groups, which are paid for from investment spending.
 
-- Less than half of Iraq's population are consumers; the rest 2. are  producers  responsible  for  helping  both  themselves and the consumer segment of society. This puts pressure on economic resources and makes it challenging for the job market to create new job opportunities.
+2. Less than half of Iraq's population are consumers; the rest are producers responsible for helping both themselves and the consumer segment of society. This puts pressure on economic resources and makes it challenging for the job market to create new job opportunities.
 
-- The decline in the rate of participation in economic activity 3. by the population group between the ages of 15 and 64 years  despite  the  rise  in  their  proportion  of  the  overall population.
+3. The decline in the rate of participation in economic activity by the population group between the ages of 15 and 64 years despite the rise in their proportion of the overall population.
 
-- Unemployment rates are still high. They have noticeably 4. stabilized among the youth category; however, females in this category maintain a higher rate than males.
+4. Unemployment rates are still high. They have noticeably stabilized among the youth category; however, females in this category maintain a higher rate than males.
 
-- The increase in modernization has had a negative impact 5. on employment trends in Iraq. Statistical data has shown
+5. The increase in modernization has had a negative impact on employment trends in Iraq. Statistical data has shown concentration of the labor force in non-commodity activities at the expense of commodity activities, which has led to increases in their prices.
 
-concentration of the labor force in non-commodity activities at the expense of commodity activities, which has led to increases in their prices.
-
-- The employment policy has been inefficient in responding 6. to  the  needs  of  Iraq's  job  market  because  of  its  overall detachment from the economic mechanisms that should govern the course of its components.
+6. The employment policy has been inefficient in responding to the needs of Iraq's job market because of its overall detachment from the economic mechanisms that should govern the course of its components.
 
 ### 2.6 Policies
 
-- A sound population policy would aim over the long term 1. to reduce the overall fertility rate and thus the population growth rate so Iraq can prepare to enter the demographic dividend.
+1. A sound population policy would aim over the long term to reduce the overall fertility rate and thus the population growth rate so Iraq can prepare to enter the demographic dividend.
 
-- The Iraqi economy's efficiency must improve by increasing 2. the absorptive capacity of investment in order to increase the level of productivity and output and ensure coverage of  the  increases  in  aggregate  effective  demand  for  both the consumer and producer categories. This reduces the pressure on economic resources.
+2. The Iraqi economy's efficiency must improve by increasing the absorptive capacity of investment in order to increase the level of productivity and output and ensure coverage of the increases in aggregate effective demand for both the consumer and producer categories. This reduces the pressure on economic resources.
 
-- Advanced  training  and  qualification  programs  can  contribute 3. to empowering the Iraqi labor force and increase its skill level  in  a  manner  consistent  with  and  complementary to Iraqi job market needs, thereby increasing the rate of participation in economic activity.
+3. Advanced training and qualification programs can contribute to empowering the Iraqi labor force and increase its skill level in a manner consistent with and complementary to Iraqi job market needs, thereby increasing the rate of participation in economic activity.
 
-- Affirmation  of  women's  economic  role  by  adopting  a 4. strategy to improve their economic and social conditions would  empower  them  and  expand  their  options  and participation.  This  would,  in  turn,  reinforce  the  culture of  parity  and  equality  between  genders  in  obtaining  job opportunities.
+4. Affirmation of women's economic role by adopting a strategy to improve their economic and social conditions would empower them and expand their options and participation. This would, in turn, reinforce the culture of parity and equality between genders in obtaining job opportunities.
 
-- Iraqi  youth  need  to  be  empowered  and  their  effective 5. participation encouraged in areas that support the paths of sustainable development.
+5. Iraqi youth need to be empowered and their effective participation encouraged in areas that support the paths of sustainable development.
 
-- To ensure the efficacy of employment policy, there must be 6. balance for the labor force that achieves harmony between labor supply and demand. The development plan should evaluate  the  country's  actual  needs  from  the  available labor force and ensure the accuracy of its quantitative and qualitative sectoral trends.
+6. To ensure the efficacy of employment policy, there must be balance for the labor force that achieves harmony between labor supply and demand. The development plan should evaluate the country's actual needs from the available labor force and ensure the accuracy of its quantitative and qualitative sectoral trends.
 
-- To contain population movements resulting from 7. urbanization, it is necessary to adopt advanced agricultural policies that make rural development a priority, attract and settle  migrant  labor,  correct  the  sectoral  problem  of  enlarged non-commodity sectors, and encourage the private sector to invest in rural areas and develop animal resources. For its part, the state would provide a comprehensive system of  agricultural  incentives  that  encourage  investors  and farmers to use modern technology and improved seeds to boost farmers' output and income.
+7. To contain population movements resulting from urbanization, it is necessary to adopt advanced agricultural policies that make rural development a priority, attract and settle migrant labor, correct the sectoral problem of enlarged non-commodity sectors, and encourage the private sector to invest in rural areas and develop animal resources. For its part, the state would provide a comprehensive system of agricultural incentives that encourage investors and farmers to use modern technology and improved seeds to boost farmers' output and income.
 
-- To address structural problems in the labor force distribution 8. between  commodity  and  non-commodity  sectors,  it  is necessary to select and support the sectors that absorb large numbers of the labor force; that is, sectors that use a  labor-intensive  and  less  capital-intensive  production approach, such as the construction and building sector
+8. To address structural problems in the labor force distribution between commodity and non-commodity sectors, it is necessary to select and support the sectors that absorb large numbers of the labor force; that is, sectors that use a labor-intensive and less capital-intensive production approach, such as the construction and building sector
 
 National Development Plan for the Years 2010-2014 37
 
@@ -1035,32 +1304,29 @@ National Development Plan for the Years 2010-2014 37
 
 Population and Labor Force
 
-Table 8 | Unemployment Rates in Iraq by Environment and Gender for the Years 2003-2008 a
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | Urban | Rural | Urban and Rural
-Males | Females | Males & Females | Males | Females | Males & Females | Males | Females | Males & Females
+Table 8 | Unemployment Rates in Iraq by Environment and Gender for the Years 2003-2008a
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Year | Urban | | | Rural | | | Urban and Rural | |
+ | Males | Females | Males & Females | Males | Females | Males & Females | Males | Females | Males & Females
 2003 2 | 31.1 | 22.3 | 30.0 | 28.9 | 6.7 | 25.4 | 30.2 | 16.0 | 28.1
 2004 2 | 28.3 | 22.4 | 27.7 | 31.2 | 3.1 | 25.7 | 29.4 | 15.0 | 26.8
 2005 3 | 18.6 | 22.7 | 19.3 | 20.2 | 2.6 | 16.9 | 19.2 | 14.2 | 18.0
 2006 4 | 19.7 | 37.4 | 22.9 | 15.0 | 8.0 | 13.2 | 16.2 | 22.7 | 17.5
 2007 4 | 11.4 | 14.7 | 11.9 | 12.3 | 5.0 | 11.0 | 11.7 | 11.7 | 11.7
-2008 | 1 st Quarter | 16.0 | 26.0 | 17.8 | 17.3 | 11.3 | 16.1 | 17.1 | 23.4 | 18.2
-2 nd Quarter | 13.4 | 25.4 | 15.5 | 15.8 | 8.4 | 14.0 | 15.1 | 19.5 | 15.9
-3 rd Quarter | 12.3 | 26.1 | 14.7 | 14.6 | 7.5 | 12.9 | 13.8 | 18.5 | 14.7
-4 th Quarter | 10.6 | 22.5 | 12.7 | 11.8 | 6.3 | 10.5 | 11.3 | 17.4 | 12.5
-Average 2008 a | 13.7 | 25.0 | 15.2 | 15.2 | 8.4 | 13.4 | 14.3 | 19.7 | 15.3
+2008 1st Quarter | 16.0 | 26.0 | 17.8 | 17.3 | 11.3 | 16.1 | 17.1 | 23.4 | 18.2
+2008 2nd Quarter | 13.4 | 25.4 | 15.5 | 15.8 | 8.4 | 14.0 | 15.1 | 19.5 | 15.9
+2008 3rd Quarter | 12.3 | 26.1 | 14.7 | 14.6 | 7.5 | 12.9 | 13.8 | 18.5 | 14.7
+2008 4th Quarter | 10.6 | 22.5 | 12.7 | 11.8 | 6.3 | 10.5 | 11.3 | 17.4 | 12.5
+Average 2008a | 13.7 | 25.0 | 15.2 | 15.2 | 8.4 | 13.4 | 14.3 | 19.7 | 15.3
 
-- a Central Organization for Statistics and Information Technology. Surveys of Employment and Unemployment in Iraq for the Years 2003-2008.
+a Central Organization for Statistics and Information Technology. Surveys of Employment and Unemployment in Iraq for the Years 2003-2008.
+2 Excluding the Kurdistan region.
+3 Excluding Arbil and Dahuk
+4 Urban data for the urban centers
 
-- 2 Excluding the Kurdistan region.
+and the service sector. This will effectively contribute to addressing high unemployment rates.
 
-- 3 Excluding Arbil and Dahuk
-
-- 4 Urban data for the urban centers
-
-and the  service  sector.  This  will  effectively  contribute  to addressing high unemployment rates.
-
-- To  achieve  a  complementary  partnership  between  the 9. public  and  private  sectors  there  must  be  an  economic/ institutional/legal framework that ensures promotion of this partnership and encourages the private sector to increase productive investment rates, embarks on fields that used to be monopolized by the public sector, and build a buildoperate-transfer (BOT) method that crowns the efficacy of this partnership.
+9. To achieve a complementary partnership between the public and private sectors there must be an economic/institutional/legal framework that ensures promotion of this partnership and encourages the private sector to increase productive investment rates, embarks on fields that used to be monopolized by the public sector, and build a build-operate-transfer (BOT) method that crowns the efficacy of this partnership.
 
 ### 2.7 Vision
 
@@ -1072,29 +1338,29 @@ The plan seeks to translate the vision by adopting the objectives outlined below
 
 #### First objective: Reduction of unemployment rates from 15 percent to 7 percent during plan years by:
 
-- Adopting a labor-intensive technique in economic activity to 1. create new job opportunities and contribute to absorption of additional job seekers.
+1. Adopting a labor-intensive technique in economic activity to create new job opportunities and contribute to absorption of additional job seekers.
 
-- Supporting sectors that absorb large numbers of workers 2. so as to reduce unemployment, including the construction and building sector and the service sector.
+2. Supporting sectors that absorb large numbers of workers so as to reduce unemployment, including the construction and building sector and the service sector.
 
-- Crafting a new economic policy focused on liberating the 3. market  and  working  to  support  the  private  sector  and reinforce  its  participation  in  economic  activities  so  as  to promote growth and create job opportunities.
+3. Crafting a new economic policy focused on liberating the market and working to support the private sector and reinforce its participation in economic activities so as to promote growth and create job opportunities.
 
 #### Second objective: Increase in economic participation in general and female participation in particular by:
 
-- Reconsidering all economic, financial, and business 1. regulations  and  laws  governing  promotion  of  economic activity.
+1. Reconsidering all economic, financial, and business regulations and laws governing promotion of economic activity.
 
-- Increasing private sector investments through legal, 2. institutional, financial, and monetary incentives.
+2. Increasing private sector investments through legal, institutional, financial, and monetary incentives.
 
-- Providing unemployment benefits to help the unemployed 3. start small projects and contribute through various economic activities.
+3. Providing unemployment benefits to help the unemployed start small projects and contribute through various economic activities.
 
-- Employing programs that promote and reinforce the skills 4. of workers, particularly female workers.
+4. Employing programs that promote and reinforce the skills of workers, particularly female workers.
 
 #### Third objective: To connect educational and training system graduates and labor market needs in terms of educational levels, specializations and skills by:
 
-- Reconsidering the qualitative and quantitative aspects of 1. the educational and training systems.
+1. Reconsidering the qualitative and quantitative aspects of the educational and training systems.
 
-- Benefiting  from  educational  and  technological  advances 2. and their incorporation in academic curricula.
+2. Benefiting from educational and technological advances and their incorporation in academic curricula.
 
-- Quick and timely responsiveness to job market needs via a 3. labor force trained using state-of-the-art technologies.
+3. Quick and timely responsiveness to job market needs via a labor force trained using state-of-the-art technologies.
 
 38
 
@@ -1108,45 +1374,45 @@ National Development Plan for the Years 2010-2014
 
 #### Fourth objective: Improve the quality of the labor force by:
 
-- Preparing  a  special  training  policy  that  works  to  qualify 1. labor and takes on a principal role in making the requisite structural changes.
+1. Preparing a special training policy that works to qualify labor and takes on a principal role in making the requisite structural changes.
 
-- Working  to  restructure  training  centers  throughout  Iraq 2. and provide all practical training needs, both material and human.
+2. Working to restructure training centers throughout Iraq and provide all practical training needs, both material and human.
 
-- Assumption by training centers of responsibility for 3. improving  training  levels  to  enable  the  private  sector  to establish small projects.
+3. Assumption by training centers of responsibility for improving training levels to enable the private sector to establish small projects.
 
-- Work  to  study  some  international  systems  that  provide 4. training for different skills so as to rely on the best of them, and developing them in a manner that suits the needs of the Iraqi job market.
+4. Work to study some international systems that provide training for different skills so as to rely on the best of them, and developing them in a manner that suits the needs of the Iraqi job market.
 
 #### Fifth objective: To increase the labor force's efficiency and productivity by:
 
-- Pursuing modern work systems and methods. 1.
+1. Pursuing modern work systems and methods.
 
-- Directing human resource development programs so as to 2. fulfill the needs of rapid development in various aspects of life and benefit from the incredible advances in the field of information technology.
+2. Directing human resource development programs so as to fulfill the needs of rapid development in various aspects of life and benefit from the incredible advances in the field of information technology.
 
-- Defining  orientations  and  objectives  to  develop  the  skills  and 3. capabilities of the working-age population and preparing them for incorporation in the production process.
+3. Defining orientations and objectives to develop the skills and capabilities of the working-age population and preparing them for incorporation in the production process.
 
 #### Sixth objective: Work to create job opportunities throughout Iraq so as to ensure a balanced distribution of the labor force by:
 
-- Devising a spatially balanced employment policy. 1.
+1. Devising a spatially balanced employment policy.
 
-- Geographically redistributing  investments  while  considering 2. a location's comparative advantage.
+2. Geographically redistributing investments while considering a location's comparative advantage.
 
-- Keeping labor laws flexible and working to modernize them 3. in accordance with economic and social advances.
+3. Keeping labor laws flexible and working to modernize them in accordance with economic and social advances.
 
 #### Seventh objective: Arrive at the optimal employment level for the labor force by:
 
-- Diversifying the economy and reinforcing the importance 1. of the growth of non-oil economic sectors.
+1. Diversifying the economy and reinforcing the importance of the growth of non-oil economic sectors.
 
-- Addressing instabilities in the labor force structure based 2. on their sectoral and gender distribution .
+2. Addressing instabilities in the labor force structure based on their sectoral and gender distribution.
 
-- Adopting  an  effective  employment  policy  grounded  in 3. reality.
+3. Adopting an effective employment policy grounded in reality.
 
-- Empowering the producer category in the economy. 4.
+4. Empowering the producer category in the economy.
 
 #### Eighth objective: Promotion of worker performance levels in the public and private sectors by:
 
-- Embodying  modern  administration  principles  in  training 1. programs.
+1. Embodying modern administration principles in training programs.
 
-- Developing  trainees'  personal  skills  by  adopting  high2. quality  training  programs  that  are  consistent  with  the economy's identified needs.
+2. Developing trainees' personal skills by adopting high-quality training programs that are consistent with the economy's identified needs.
 
 National Development Plan for the Years 2010-2014 39
 
@@ -1187,7 +1453,13 @@ Year | National Income (millions of dinars) | Per Capita Income (Iraqi dinars)
 2006 | 85,431,538.8 | 2,926,339.0
 2007 | 100,100,816.6 | 3,372,433.0
 
-The fluctuations in national income have obviously influenced per capita income. Thus, it increased from 98 dinars in 1970 to 1,166 in 1980, and then decreased to 835 dinars in 1985. For the aforementioned reasons, per capita income rose to 2,680 dinars in 1990 and 1.9 million dinars in 2000. It decreased to
+The fluctuations in national income have obviously influenced per capita income. Thus, it increased from 98 dinars in 1970 to 1,166 in 1980, and then decreased to 835 dinars in 1985. For the aforementioned reasons, per capita income rose to 2,680 dinars in 1990 and 1.9 million dinars in 2000. It decreased to 0.98 million dinars in 2003 and then increased again, due to the increase of Iraqi crude oil exports, to approximately 3.4 million dinars in 2007. This constituted an average growth of 24.4 percent between 2003 and 2007 at current prices.
+
+### 3.2 Gross Domestic Product and Per Capita Gross Domestic Product
+
+Iraq's GDP increased from 1.2 billion dinars in 1970 to 15.8 billion dinars in 1980 at current prices. This constituted an overall increase of 1246 percent and a compounded average growth rate of 29.7 percent between 1970 and 1980. This obviously influenced per capita GDP, which increased from 123 dinars in 1970 to 1,191 dinars in 1980. However, this increase slowed in the 1980s when the GDP fell to 15 billion dinars in 1985. It rose to 56 billion dinars in 1990. Despite this increase, the average rate of GDP growth fell to 13.6 percent at current prices between 1980 and 1990, and 4.5 percent at fixed prices during that period. As a result, per capita GDP fell to 963 dinars in 1985. Undoubtedly, this deterioration was a result of the mobilization of economic, financial, and human resources to support military activities. This deterioration was further exacerbated by the stoppage of Iraqi crude oil exports from the Persian Gulf and stoppage of the pumping of oil through Syria in 1982. This was coupled with reduced production in most industrial establishments because of lack of human resources and insufficiency of foreign currency to import the intermediate commodities and raw materials needed for most economic activities, particularly conversion industries, but the transport and communications sectors as well.
+
+During the 1990s, GDP increased until it reached 6.7 trillion dinars in 1995 and almost 50 trillion dinars in 2000 at current prices. This increase influenced per capita GDP, which increased from 3,126 dinars in 1990 to 326,000 dinars in 1995 and more than 2 million dinars in 2000. Economic growth data indicate that, between 2003 and 2007, the GDP, as measured at current prices (Table 10), increased from 29.6 trillion dinars in 2003 to 111.5 trillion dinars in 2007, a 277 percent increase during that period and an average annual growth rate of nearly 39 percent. When measured at fixed prices, GDP grew from 27 billion dinars in 2003 to 48.5 billion dinars in 2007, a growth rate of 80 percent for that period, or an average growth rate of 16 percent per year. This reflects the presence of high inflationary pressures.
 
 Table 10 | Change in GDP and Per Capita GDP at Current and Fixed Prices for the Years 2003-2007
 --- | --- | --- | --- | ---
@@ -1197,14 +1469,6 @@ Year | GDP at current prices (millions of Iraqi dinars) | Per capita GDP at curr
 2005 | 73,533,598.6 | 2,629,674.9 | 43,438.8 | 1,226
 2006 | 95,587,954.8 | 3,274,233.0 | 47,851.4 | 1,661
 2007 | 111,455,813.4 | 3,754,986.0 | 48,510 | 1,634
-
-0.98 million dinars in 2003 and then increased again, due to the increase of Iraqi crude oil exports, to approximately 3.4 million dinars  in  2007.  This  constituted  an  average  growth  of  24.4 percent between 2003 and 2007 at current prices.
-
-### 3.2 Gross Domestic Product and Per Capita Gross Domestic Product
-
-Iraq's  GDP increased from 1.2 billion dinars in 1970 to 15.8 billion  dinars  in  1980  at  current  prices.  This  constituted  an overall increase of 1246 percent and a compounded average growth  rate  of  29.7  percent  between  1970  and  1980.  This obviously influenced per capita GDP , which increased from 123 dinars in 1970 to 1,191 dinars in 1980. However, this increase slowed in the 1980s when the GDP fell to 15 billion dinars in 1985. It rose to 56 billion dinars in 1990. Despite this increase, the average rate of GDP growth fell to 13.6 percent at current prices between 1980 and 1990, and 4.5 percent at fixed prices during  that  period.  As  a  result,  per  capita  GDP  fell  to  963 dinars in 1985. Undoubtedly, this deterioration was a result of the mobilization of economic, financial, and human resources to  support  military  activities.  This  deterioration  was  further exacerbated by the stoppage of Iraqi crude oil exports from the Persian Gulf and stoppage of the pumping of oil through Syria in  1982.  This  was  coupled  with  reduced  production  in  most industrial establishments because of lack of human resources and insufficiency of foreign currency to import the intermediate commodities  and  raw  materials  needed  for  most  economic activities,  particularly  conversion  industries,  but  the  transport and communications sectors as well.
-
-During  the  1990s,  GDP  increased  until  it  reached  6.7  trillion dinars in 1995 and almost 50 trillion dinars in 2000 at current prices. This increase influenced per capita GDP, which increased from 3,126 dinars in 1990 to 326,000 dinars in 1995 and more than 2 million dinars in 2000. Economic growth data indicate that, between 2003 and 2007, the GDP , as measured at current prices (Table 10), increased from 29.6 trillion dinars in 2003 to 111.5 trillion dinars in 2007, a 277 percent increase during that period and an average annual growth rate of nearly 39 percent. When measured at fixed prices, GDP grew from 27 billion dinars in 2003 to 48.5 billion dinars in 2007, a growth rate of 80 percent for that period, or an average growth rate of 16 percent per year. This reflects the presence of high inflationary pressures.
 
 42
 
@@ -1289,13 +1553,13 @@ Year | Public sector | Private sector
 
 The private sector had a very low magnitude of fixed capital formation. It also witnessed a decline down from the highest levels  achieved  in  2005.  Specifically,  fixed  capital  formation declined from 439 billion dinars to 258 billion dinars in 2007. At its highest level in 2005, the private sector's share of fixed capital  formation  was  still  no  more  than  4.5  percent.  The increase in  fixed  capital  formation  during  that  period  did  not represent a real increase, i.e., the creation of new productive capabilities.  Instead,  it  consisted  primarily  of  compensating for the material destruction and technical losses that afflicted existing production capabilities. If one were to analyze the roles of the public and private sectors, individually by activity, with respect to fixed capital formation, the outcomes below would be noted.
 
-- The public sector's share of fixed capital formation in the 1. area of commodity activities increased and ranged between 50 percent and 80 percent for the period of 2004-2007. In contrast, the private sector's share in commodity activities, as a percentage of the total contribution, declined to about 28 percent in 2007.
+1. The public sector's share of fixed capital formation in the area of commodity activities increased and ranged between 50 percent and 80 percent for the period of 2004-2007. In contrast, the private sector's share in commodity activities, as a percentage of the total contribution, declined to about 28 percent in 2007.
 
-- The private sector's share in service activities increased. 2. Its lowest share in fixed capital formation in this area was 41percent in 2007, and it increased to 82 percent in 2005. In contrast, the public sector's share in this activity, as a percentage of total contribution, was low, ranging from 16 percent in 2004 to 45 percent in 2007.
+2. The private sector's share in service activities increased. Its lowest share in fixed capital formation in this area was 41percent in 2007, and it increased to 82 percent in 2005. In contrast, the public sector's share in this activity, as a percentage of total contribution, was low, ranging from 16 percent in 2004 to 45 percent in 2007.
 
-- The  public  sector's  share  in  the field of distribution 3. activities was low. Specifically, it was 5.2 percent in 2007 as compared to the private sector's share of 32 percent.
+3. The public sector's share in the field of distribution activities was low. Specifically, it was 5.2 percent in 2007 as compared to the private sector's share of 32 percent.
 
-- Despite  the  private  sector's  high  share  in  service  and 4. distribution activities, home ownership, and building and construction,  its  share  of  gross  fixed  capital  formation remained low at no more than 5  percent. This indicates that the main sectors responsible for fixed capital formation are oil, mining, quarries, electricity, and water. This is in addition to  the  state's  social  development  services:  education, health,  water,  and  sanitation.  This  explains  the  public sector's dominance over economic decision making, as it possesses the material production capacities. Accordingly, the private sector did not participate in economic decision making.
+4. Despite the private sector's high share in service and distribution activities, home ownership, and building and construction, its share of gross fixed capital formation remained low at no more than 5 percent. This indicates that the main sectors responsible for fixed capital formation are oil, mining, quarries, electricity, and water. This is in addition to the state's social development services: education, health, water, and sanitation. This explains the public sector's dominance over economic decision making, as it possesses the material production capacities. Accordingly, the private sector did not participate in economic decision making.
 
 44
 
@@ -1347,7 +1611,7 @@ The  financial  policy  in  Iraq  over  the  past  three  decades  has faced man
 
 After 2003, the new Iraqi government was determined to rectify past errors and increase the effectiveness of public finance. It sought to have financial policy founded on the Iraqi Constitution, which  states  in  Article  110,  paragraph  three,  that  designing financial policies falls under the purview of federal authorities. It also states in Article 80, paragraph four, that the public budget, final accounts, and development plans are to be proposed by the  Ministers'  Council  (executive  authority).  The  Iraqi  Constitution also gave financial policy a spatial dimension. Article 114 states that comprehensive development policies and public planning for the country fall within the joint purview of the federal and regional governments with respect to financial policies. Specifically, the priorities defined by the region itself are put in place provided they are within the limits of the public spending allocated to the region. Therefore, regional governments focus their planning responsibilities on the strategic options available to  them for purposes of development and construction. The current plan has embodied this fact.
 
-Crude  oil  revenues  represent  92  percent  of  the  total  federal government revenues. These revenues are exposed to international market fluctuations and are influenced by international prices and demand. This has pegged the stability of Iraq's financial and economic performance to the stability of those revenues. The fall in crude oil prices to less than onethird of their levels in July 2008, because of the global financial crisis, was a difficult challenge that required wise management of revenues on the government's part. Iraq adopted a probable hedging  price  for  exported  barrels  of  Iraqi  oil  in  order  to calculate budget revenues and prevent foreign supply shocks from  influencing  the  financial  policy's  objectives  of  achieving stability, development, and equitable distribution.
+Crude oil revenues represent 92 percent of the total federal government revenues. These revenues are exposed to international market fluctuations and are influenced by international prices and demand. This has pegged the stability of Iraq's financial and economic performance to the stability of those revenues. The fall in crude oil prices to less than one-third of their levels in July 2008, because of the global financial crisis, was a difficult challenge that required wise management of revenues on the government's part. Iraq adopted a probable hedging price for exported barrels of Iraqi oil in order to calculate budget revenues and prevent foreign supply shocks from influencing the financial policy's objectives of achieving stability, development, and equitable distribution.
 
 #### 4.1.2 Public Expenses
 
@@ -1357,7 +1621,7 @@ Public  spending  continued  to  increase  in  2003  to  cover the  state's  fin
 
 These  figures  indicate  that  spending  policy  between  2004 and 2008 tended to sacrifice economic growth and focus on achieving  temporary  consumption  welfare  at  the  expense  of permanent welfare. This is evidenced by the noticeable increase in  operating  expenses,  including  employee  compensations, which accounted for 37.1 percent of total operating expenses in 2008, and social benefits, which include the public distribution system  (the  ration  card,  which  constituted  8.9  percent  of total  operating  expenses,  and  the  social  safety  net,  which constituted  1.4  percent  of  total  operating  expenses  for  the same year). Aid accounted for 5.4 percent of total expenses. Subsidies to state-owned agencies and companies accounted for 70 percent of total aid, whereas other expenses accounted for 14.3 percent of total operating expenses.
 
-We do not anticipate that spending on these items will decline in  the  coming  years  because their beneficiaries are definitely not  ready  to  waive  the  benefits  they  receive.  Furthermore, this type of spending  has  a  socio-institutional structure, whereby  the  state  is  like  a  social  insurance  company  that guarantees  free  subscription  to  all  beneficiaries.  Therefore, the  current  plan  seeks  to  change  the  trend  in  the  spending policy during the years 2010-2014. It also seeks to do so in a manner that supports an increase in investment spending as a  percentage of total public spending. Moreover, it seeks to optimize operating expenses so as to control the magnitude of consumption and ensure that it is consistent with the flexibility of overall supply for commodities and services. The aim of this process is to limit the inflationary pressure generated by this type of spending and protect public revenues, particularly oil revenues, from dwindling. Thus, we set limits to free benefits and its associated burdens on the current generation that will also be incurred by future generations.
+We do not anticipate that spending on these items will decline in the coming years because their beneficiaries are definitely not ready to waive the benefits they receive. Furthermore, this type of spending has a socio-institutional structure, whereby the state is like a social insurance company that guarantees free subscription to all beneficiaries. Therefore, the current plan seeks to change the trend in the spending policy during the years 2010-2014. It also seeks to do so in a manner that supports an increase in investment spending as a percentage of total public spending. Moreover, it seeks to optimize operating expenses so as to control the magnitude of consumption and ensure that it is consistent with the flexibility of overall supply for commodities and services. The aim of this
 
 48
 
@@ -1378,6 +1642,8 @@ Item/ Year | Operational expenditures | Investment expenditures | Total expendit
 2007 | 39,051.9 | 12,675.6 | 51,727.5 | 0.76 | 0.25
 2008 | 44,190.7 | 15,671.2 | 59,862.0 | 0.74 | 0.26
 Composit Growth Rate | 11.5 | 32.3 | 15.4
+
+process is to limit the inflationary pressure generated by this type of spending and protect public revenues, particularly oil revenues, from dwindling. Thus, we set limits to free benefits and its associated burdens on the current generation that will also be incurred by future generations.
 
 #### 4.1.3 Public Revenues
 
@@ -1428,17 +1694,17 @@ During the 1970s, the government relied on foreign loans to fund public spending
 
 Iraq took its first steps to address its debt issue during the first months of 2003, believing that external debts and international compensations were the biggest challenges keeping Iraq from joining the international economy. In 2003, Iraq's debts were estimated to be US$127 billion according to the World Bank and the Bank for International Settlements (BIS). In contrast, initial data recorded in the supporting credit agreement signed by Iraq with the International Monetary Fund in 2006 indicate that Iraq's loans were US$114 billion.
 
-On  November  21,  2004,  the  Iraqi  government  agreed  with the Paris Club countries, which consist of 18 plus Korea and whose debts totaled  US$36.8  billion,  to  reduce  Iraq's  debts by 80 percent over three stages. During the first and second stages,  30  percent  of  the  debts  and  the  related  interest would be reduced according to a set of special international agreements and arrangements. During the third phase, a 20 percent reduction would take place if Iraq were to abide by all of the fund's conditions.  Iraq abided by all of the conditions and was released from its restrictions. The magnitude of its external debt was reduced to US$50,201 billion in 2007 as compared to US$108,657 billion in 2004, a 53 percent reduction. Moreover, the structure of the external debt also changed, whereby nonParis Club countries achieved the highest  percentage reduction at 83 percent, followed by commercial debts, which fell by 82 percent. On the other hand, the debts from Paris Club countries fell by 68 percent between 2004 and 2007, and internal debt fell by no more than 30.2 percent, decreasing from 6,379,061 million dinars in 2004 to 4,455,569 million dinars in 2008.
+On November 21, 2004, the Iraqi government agreed with the Paris Club countries, which consist of 18 plus Korea and whose debts totaled US$36.8 billion, to reduce Iraq's debts by 80 percent over three stages. During the first and second stages, 30 percent of the debts and the related interest would be reduced according to a set of special international agreements and arrangements. During the third phase, a 20 percent reduction would take place if Iraq were to abide by all of the fund's conditions. Iraq abided by all of the conditions and was released from its restrictions. The magnitude of its external debt was reduced to US$50,201 billion in 2007 as compared to US$108,657 billion in 2004, a 53 percent reduction. Moreover, the structure of the external debt also changed, whereby non-Paris Club countries achieved the highest percentage reduction at 83 percent, followed by commercial debts, which fell by 82 percent. On the other hand, the debts from Paris Club countries fell by 68 percent between 2004 and 2007, and internal debt fell by no more than 30.2 percent, decreasing from 6,379,061 million dinars in 2004 to 4,455,569 million dinars in 2008.
 
 #### 4.1.6 Challenges
 
 The  current  plan  is  encountering  a  number  of  challenges imposed  as  a  result  of  certain  internal  and  external  factors, described below.
 
-- Weakness  of  the  financial administration, along  with 1. difficulty  in  handling  public  revenues  and  expenses  and directing them in an appropriate manner, from an economic and social perspective, in accordance with the priorities of development objectives.
+1. Weakness of the financial administration, along with difficulty in handling public revenues and expenses and directing them in an appropriate manner, from an economic and social perspective, in accordance with the priorities of development objectives.
 
-- The  fact  that  the  classic  method  (line-item  budget)  of 2. preparing  Iraq's  budgets  adopted  in  1927  is  still  in  use today.  This  has  caused  the  budgets  to  be  devoid  of  a strategic planning vision when prioritizing objectives. They are limited to addressing immediate needs.
+2. The fact that the classic method (line-item budget) of preparing Iraq's budgets adopted in 1927 is still in use today. This has caused the budgets to be devoid of a strategic planning vision when prioritizing objectives. They are limited to addressing immediate needs.
 
-- Severe spending pressures that the plan cannot overcome 3. at  this  stage  as  they  were  caused  by  the  previous  and current  economic,  social,  and  political  circumstances and  have  resulted  in  increased  inflationary  pressures. The financial policy sought to transfer its burdens to the monetary policy so they could be handled with the latter policy's strict tools.
+3. Severe spending pressures that the plan cannot overcome at this stage as they were caused by the previous and current economic, social, and political circumstances and have resulted in increased inflationary pressures. The financial policy sought to transfer its burdens to the monetary policy so they could be handled with the latter policy's strict tools.
 
 50
 
@@ -1450,45 +1716,43 @@ National Development Plan for the Years 2010-2014
 
 4
 
-- The  severity  of  the  imbalance  in  the  public  spending 4. structure  in  favor  of  operating  expenses  as  opposed  to investment  expenses,  which  has  caused  an  increase in the levels of effective total demand.  It  has  also hindered  development  projects  and  programs  aimed at  reconstruction  and  increased  the  inflexibility  of  the production system. Thus, it has deepened the severity of the  imbalance  in  the  commodity  component  of  national supply in favor of imported commodities.
+4. The severity of the imbalance in the public spending structure in favor of operating expenses as opposed to investment expenses, which has caused an increase in the levels of effective total demand. It has also hindered development projects and programs aimed at reconstruction and increased the inflexibility of the production system. Thus, it has deepened the severity of the imbalance in the commodity component of national supply in favor of imported commodities.
 
-- The inability to generate employment opportunities owing 5. to reduced investment spending as a share of total public spending. The unemployment phenomenon facing those of employment age has become one of the most difficult challenges facing this plan.
+5. The inability to generate employment opportunities owing to reduced investment spending as a share of total public spending. The unemployment phenomenon facing those of employment age has become one of the most difficult challenges facing this plan.
 
-- Government  subsidies,  in  some  of  their  forms,  have 6. exacerbated the severity of the imbalance in the structure of  public  spending.  There  is  also  an  imbalance  in  the structure of the spending on operations. This has burdened the  budget  with  unproductive  expenses,  per  economic standards,  and  increased  the  waste  in  nonrenewable financial resources.
+6. Government subsidies, in some of their forms, have exacerbated the severity of the imbalance in the structure of public spending. There is also an imbalance in the structure of the spending on operations. This has burdened the budget with unproductive expenses, per economic standards, and increased the waste in nonrenewable financial resources.
 
-- Oil revenues are the main source of financing the objectives 7. of the public budgets in Iraq. This has added a discretionary feature and uncertainty to the budget. It has also limited the budgets' ability to achieve their objectives.
+7. Oil revenues are the main source of financing the objectives of the public budgets in Iraq. This has added a discretionary feature and uncertainty to the budget. It has also limited the budgets' ability to achieve their objectives.
 
-- Non-oil  revenues  have  been  declining  as  a    percentage 8. of  total  public  revenues.  Ineffective  tax  policies  have supported  this  trend  and  gutted  it  of  its  economic  and social content. They have also limited its role in financing development, stimulating private sector activity, and limiting the disparity in income distribution.
+8. Non-oil revenues have been declining as a percentage of total public revenues. Ineffective tax policies have supported this trend and gutted it of its economic and social content. They have also limited its role in financing development, stimulating private sector activity, and limiting the disparity in income distribution.
 
-- The external public debt and its rescheduling have imposed 9. international obligations on the government. These obligations have an economic component that falls within the purview of implementing the provisions of agreements with the IMF and the International Pledge Document in the field of handling and reconstructing the economy of Iraq according to the principles of a market economy.
+9. The external public debt and its rescheduling have imposed international obligations on the government. These obligations have an economic component that falls within the purview of implementing the provisions of agreements with the IMF and the International Pledge Document in the field of handling and reconstructing the economy of Iraq according to the principles of a market economy.
 
-- The ineffectiveness of the policy for managing Iraq's internal public  debt  as  evidenced  by  the  decline  in  government borrowing to less than 1 percent of the 2008 public budget revenues.
+10. The ineffectiveness of the policy for managing Iraq's internal public debt as evidenced by the decline in government borrowing to less than 1 percent of the 2008 public budget revenues.
 
-- Iraq's dependence on a set of discretionary and hedged price to estimate its revenues. This exacerbates the budget deficit  or  surplus  and forces the government, in case of deficit,  to  ask  the  Central  Bank  to  lower  interest  rates, which is necessarily accompanied by negative economic and social effects.
+11. Iraq's dependence on a set of discretionary and hedged price to estimate its revenues. This exacerbates the budget deficit or surplus and forces the government, in case of deficit, to ask the Central Bank to lower interest rates, which is necessarily accompanied by negative economic and social effects.
 
 #### 4.1.7 Policies
 
-- A  comprehensive  policy  that  ensures  establishment  of 1. a  stable  environment  in  the  economy  as  a  whole,  the main principles are based on the idea of real integration between the financial and monetary policies. Also, one that stimulates economic growth, continues economic stability
+1. A comprehensive policy that ensures establishment of a stable environment in the economy as a whole, the main principles are based on the idea of real integration between the financial and monetary policies. Also, one that stimulates economic growth, continues economic stability by controlling inflation rates, controls unjustified public economic and social spending, and achieves equitable distribution.
 
-by  controlling  inflation  rates,  controls  unjustified  public economic  and  social  spending,  and  achieves  equitable distribution.
+2. A financial policy that supports the domestic ability to handle emergency fluctuations in revenues and keeps them in line with spending. Adoption of an economic policy focused on balancing economic openness and economic stability while tempering this approach with an effective role for the state.
 
-- A  financial  policy  that  supports  the  domestic  ability  to 2. handle  emergency  fluctuations  in  revenues  and  keeps them in line with spending. Adoption of an economic policy focused on balancing economic openness and economic stability  while  tempering  this  approach  with  an  effective role for the state.
+3. Directing and guiding the policy on public spending, the priorities of the current plan, and the objectives of province councils while complying with the requirement to achieve continuous development and avoiding public spending that is not economically or socially justified so as to reduce the budget deficit.
 
-- Directing and guiding the policy on public spending, the 3. priorities of the current plan, and the objectives of province councils while complying with the requirement to achieve continuous  development  and  avoiding  public  spending that is not economically or socially justified so as to reduce the budget deficit.
+4. Using good financial governance with respect to Iraq's oil revenues through public budgets developed using scientific methodology, as well as economic and financial standards to direct and mobilize nonrenewable oil revenues toward productive spending fields. Moreover, establishing the bases and frameworks for financial responsibility, transparency, and adaptability to new events is emphasized.
 
-- Using  good  financial  governance  with  respect  to  Iraq's 4. oil  revenues  through  public  budgets  developed  using scientific methodology, as well as economic and financial standards to direct and mobilize nonrenewable oil revenues  toward  productive  spending  fields.  Moreover, establishing the bases  and  frameworks  for financial responsibility, transparency, and adaptability to new events is emphasized.
+5. A policy to reform government subsidies so as to move from comprehensive subsidies to subsidies targeting the poor and vulnerable groups. The policy's goal would be to narrow the base of freeloaders in society (reforming the ration card).
 
-- A policy to reform government subsidies so as to move 5. from comprehensive subsidies to subsidies targeting the poor and vulnerable groups. The policy's goal would be to narrow the base of freeloaders in society (reforming the ration card).
+6. An effective tax policy that embarks on reform, and aims to reflect its financial, economic, and social role accurately and seeks to increase the efficacy of tax collection.
 
-- An effective tax policy that embarks on reform, and aims 6. to reflect its financial, economic, and social role accurately and seeks to increase the efficacy of tax collection.
+7. Reactivating the role of specialized development banks and transforming their missions from comprehensive banks to specialized banks so they can stimulate and encourage the private sector by offering loans at favorable terms.
 
-- Reactivating the role of specialized development banks and 7. transforming their missions from comprehensive banks to specialized  banks so they can stimulate and encourage the private sector by offering loans at favorable terms.
+8. Developing and supporting the Iraqi stock market as well as affirming support for all the other monetary establishments so they embody sound, technologically advanced and internationally ratified principles in the area of financial service provision.
 
-- Developing and supporting the Iraqi stock market as well as 8. affirming support for all the other monetary establishments so  they  embody  sound,  technologically  advanced  and internationally  ratified  principles  in  the  area  of  financial service provision.
+9. Adopting an efficient policy for managing the public debt, the internal and external debts, and disentangling the causal relationship that exists between inflationary pressures on the one hand and qualitative and quantitative public spending trends on the other, as that raises the cost associated with financing investments by creating a crowding-out situation.
 
-- Adopting  an  efficient  policy  for  managing  the  public 9. debt,  the  internal  and  external  debts,  and  disentangling the  causal  relationship  that  exists  between  inflationary pressures on the one hand and qualitative and quantitative public  spending  trends  on  the  other,  as  that  raises  the cost associated with financing investments by creating a crowding-out situation.
-
-- Announcing the commencement of privatization of public economic institutions. This would be thereby supporting the  course  of  the  spending  policy  toward  reducing  its quantitative levels, and changing its qualitative directions so as to ensure it is rational and productive. Also, empowering the private sector and its role in economic activity, as well as laying the foundations for proper transformation toward a market economy at the lowest cost possible.
+10. Announcing the commencement of privatization of public economic institutions. This would be thereby supporting the course of the spending policy toward reducing its quantitative levels, and changing its qualitative directions so as to ensure it is rational and productive. Also, empowering the private sector and its role in economic activity, as well as laying the foundations for proper transformation toward a market economy at the lowest cost possible.
 
 National Development Plan for the Years 2010-2014 51
 
@@ -1508,39 +1772,39 @@ The plan intends to adopt the following objectives to face the challenges:
 
 ###### Means of achieving the objective
 
-- Financially reconstructing public revenues and expenses 1.
+1. Financially reconstructing public revenues and expenses
 
-- Complying with the policy of financial discipline 2.
+2. Complying with the policy of financial discipline
 
-- Improving budget resources using nontraditional sources 3.
+3. Improving budget resources using nontraditional sources
 
-- Controlling increases in public spending in general and spending on operating activities in particular so as to achieve 4. financial balance
+4. Controlling increases in public spending in general and spending on operating activities in particular so as to achieve financial balance
 
-- Thoroughly reviewing hedged oil price to ensure a true estimate of Iraq's oil revenues. 5.
+5. Thoroughly reviewing hedged oil price to ensure a true estimate of Iraq's oil revenues.
 
 ##### Second objective: Scientific method for preparing the budget
 
 ###### Means of achieving the objective
 
-- Changing the type of budget from a line-item budget to a planning and programs budget 1.
+1. Changing the type of budget from a line-item budget to a planning and programs budget
 
-- Identifying priorities during plan preparation in a scientific and realistic manner that ensures avoidance of the rushed 2. and improvised approaches that were characteristic of previous budgets
+2. Identifying priorities during plan preparation in a scientific and realistic manner that ensures avoidance of the rushed and improvised approaches that were characteristic of previous budgets
 
-- Making the expenditure productivity and cost-benefit analyses the economic foundations for selecting projects to 3. achieve the budgetary goals
+3. Making the expenditure productivity and cost-benefit analyses the economic foundations for selecting projects to achieve the budgetary goals
 
-- Building the executive capabilities of ministries and governmental organizations so as to ensure implementation of 4. a flexible budget. Moreover, seeking to improve the quality and timeliness of financial and economic data issued by governmental departments so as to support the development planning process
+4. Building the executive capabilities of ministries and governmental organizations so as to ensure implementation of a flexible budget. Moreover, seeking to improve the quality and timeliness of financial and economic data issued by governmental departments so as to support the development planning process
 
-- Applying market principles by gradually removing government from the leadership role in planning and implementation 5. of economic projects. Also, promoting decentralized activities, particularly those of province councils with respect to managing their provinces.
+5. Applying market principles by gradually removing government from the leadership role in planning and implementation of economic projects. Also, promoting decentralized activities, particularly those of province councils with respect to managing their provinces.
 
 ##### Third objective: Simultaneously reducing the severity of imbalances in the qualitative and quantitative structure of public spending
 
 ###### Means of achieving the objective
 
-- Increasing investment spending as a  percentage of total public spending while considering the economy's absorptive 1. capacity and the executive capability of the organizations concerned
+1. Increasing investment spending as a percentage of total public spending while considering the economy's absorptive capacity and the executive capability of the organizations concerned
 
-- Minimizing the base of freeloaders along with expanding qualitative services to the population, including healthcare, 2. water, sanitation, and education
+2. Minimizing the base of freeloaders along with expanding qualitative services to the population, including healthcare, water, sanitation, and education
 
-- Migration from a comprehensive targeting system to one that targets poor and vulnerable groups in accordance with 3. the poverty alleviation policy in Iraq, as well the developmental capacity distribution system and social safety nets.
+3. Migration from a comprehensive targeting system to one that targets poor and vulnerable groups in accordance with the poverty alleviation policy in Iraq, as well the developmental capacity distribution system and social safety nets.
 
 52
 
@@ -1556,57 +1820,57 @@ National Development Plan for the Years 2010-2014
 
 ###### Means of achieving the objective
 
-- Increasing the efficacy of tax collection and reducing tax avoidance 1.
+1. Increasing the efficacy of tax collection and reducing tax avoidance
 
-- Imposing indirect taxes like sales tax and the carbon tax 2.
+2. Imposing indirect taxes like sales tax and the carbon tax
 
-- Reducing subsidies on services and commodities, particularly nonessential ones, gradually and activating efficacy in 3. fee collection
+3. Reducing subsidies on services and commodities, particularly nonessential ones, gradually and activating efficacy in fee collection
 
-- Continuing to rehabilitate the conversion industry infrastructure so as to use available productive capabilities 4.
+4. Continuing to rehabilitate the conversion industry infrastructure so as to use available productive capabilities
 
-- Using the resources available for tourism in general and religious tourism in particular 5.
+5. Using the resources available for tourism in general and religious tourism in particular
 
-- Rehabilitating  agricultural  infrastructure,  particularly  irrigation  networks;  water-logging;  and  reclaiming  agricultural 6. lands
+6. Rehabilitating agricultural infrastructure, particularly irrigation networks; water-logging; and reclaiming agricultural lands
 
-- Supporting private sector activity and encouraging the sector to enter all investment fields, particularly production 7. fields (commodity fields).
+7. Supporting private sector activity and encouraging the sector to enter all investment fields, particularly production fields (commodity fields).
 
 ##### Fifth objective: Responsible administration of the external debt
 
 ###### Means of achieving the objective
 
-- Strengthening financial management, monitoring, and supervision 1.
+1. Strengthening financial management, monitoring, and supervision
 
-- Developing mechanisms that ensure transparency 2.
+2. Developing mechanisms that ensure transparency
 
-- Entering into agreements with debtors such as Paris Club members and others to reduce debt 3.
+3. Entering into agreements with debtors such as Paris Club members and others to reduce debt
 
-- Seeking a waiver for Iraq from having to pay compensation for the damages of the Kuwait war. 4.
+4. Seeking a waiver for Iraq from having to pay compensation for the damages of the Kuwait war.
 
 ##### Sixth objective: Guaranteeing the effectiveness of the internal public debt
 
 ###### Means of achieving the objective
 
-- Restructuring the internal debt in favor of borrowing from commercial financial organizations 1.
+1. Restructuring the internal debt in favor of borrowing from commercial financial organizations
 
-- Depending on treasury transfers to finance infrastructure projects (electricity, water, railroads) and not using them solely 2. to address budget deficits, as that will help address the imbalance in the structure of public revenues in favor of non-oil revenues.
+2. Depending on treasury transfers to finance infrastructure projects (electricity, water, railroads) and not using them solely to address budget deficits, as that will help address the imbalance in the structure of public revenues in favor of non-oil revenues.
 
 ##### Seventh objective: Reforming government subsidies
 
 ###### Means of achieving the objective
 
-- Reducing the funds allocated to subsidize fuel so as to remove price distortions and wasteful consumption 1.
+1. Reducing the funds allocated to subsidize fuel so as to remove price distortions and wasteful consumption
 
-- Moving from all to some and from general to specific with respect to the scope of individuals covered by the ration 2. cards distribution system
+2. Moving from all to some and from general to specific with respect to the scope of individuals covered by the ration cards distribution system
 
-- Restructuring  subsidies  in  the  budget  and  relying  on  a  priority  schedule  provided  it  includes  the  private  sector's 3. production activity with support from the capital of specialized banks.
+3. Restructuring subsidies in the budget and relying on a priority schedule provided it includes the private sector's production activity with support from the capital of specialized banks.
 
 ##### Eighth objective: Establishing a Generations Fund (Sovereign Wealth Funds)
 
 ###### Means of achieving the objective
 
-- Investing the government's financial surplus in long-term financial investments 1.
+1. Investing the government's financial surplus in long-term financial investments
 
-- Applying the economics rule of continuous economic development, thereby enabling Iraq to overcome what is known 2. as 'generational imbalances.'
+2. Applying the economics rule of continuous economic development, thereby enabling Iraq to overcome what is known as “generational imbalances.”
 
 National Development Plan for the Years 2010-2014 53
 
@@ -1634,7 +1898,7 @@ Moreover,  under  the  new  law,  there  were  changes  made  to banks' compulso
 
 Accepting  deposits  for  nightly  investment  from  banks  with surplus balances was one of the new trends of the monetary policy.  Moreover,  the  bank  adopted  an  index  interest  rate (called the Bank Rate), and banks had complete freedom to set interest rates and deal with each other in the market pursuant to any agreed-upon rate. The Central Bank enhanced its role as  a  supporter  of  banks  by  providing  credit  facilities  as  the lender of last resort (LLR). These credit facilities took the form of three-month loans to banks facing crises. The loan could be renewed by the Central Bank, provided the banks participated in stabilizing the financial system. The interest rate applicable to these LLR loans was the index interest rate plus 3.5 percent, i.e., an interest rate of 10.5 percent.
 
-The new law demonstrated the Central Bank's independence by giving it the right to refuse to give credit or direct or indirect loans  to  the  government  or  public  entity.  The  only  limited exception was what the Central Bank might do to provide and support  liquidity  for  the  benefits  of  State-owned  commercial banks  under  Central  Bank  supervision.  Such  support  would be in the form of loans that would have the same provisions and conditions applicable to commercial banks of the private sector. Furthermore, the Central Bank had the right to purchase government bonds provided the purchase was done on the secondary market and in accordance with market mechanisms. In summary, the Central Bank's approach to dealing with the government consisted of the fact that the ability to print money was independent of the ability to spend money in the public budget.
+The new law demonstrated the Central Bank's independence by giving it the right to refuse to give credit or direct or indirect loans to the government or public entity. The only limited exception was what the Central Bank might do to provide and support liquidity for the benefits of State-owned commercial banks under Central Bank supervision. Such support would be in the form of loans that would have the same provisions and conditions applicable to commercial banks of the private sector. Furthermore, the Central Bank had the right to purchase government bonds provided the purchase was done on the secondary market and in accordance with market mechanisms. In summary, the Central Bank's approach to dealing with the
 
 54
 
@@ -1646,7 +1910,9 @@ National Development Plan for the Years 2010-2014
 
 4
 
-Thus, the monetary policy of the Iraqi Central Bank enabled the  country  to  stabilize  its  monetary  system  and  address inflationary  activities  and  waves  following  great  improvement in the exchange rate of the Iraqi dinar, which has risen by more than 40 percent in the last five years. Furthermore, it has built strong  foreign  currency  reserves  that  are  over  44  percent  of the  actual  GDP .  The  interest  rate  has  played  a  positive  role in  strengthening  confidence  in  the  Iraqi  dinar.  In  turn,  basic annual inflation rates, which exceeded 34 percent three years ago, have now decreased to seven percent per year. This was achieved after a period during which monetary policy had been undermined by widespread use of the dollar, speculation, the development  of  liquidity  alternatives  derived  from  material assets, including commodities and the dollar. These alternatives had functioned like money, as they were a store of value and a monetary liquidity tool beyond the scope of the existing system. These phenomena had led the system to its weakest point in the country's economic history.
+government consisted of the fact that the ability to print money was independent of the ability to spend money in the public budget.
+
+Thus, the monetary policy of the Iraqi Central Bank enabled the country to stabilize its monetary system and address inflationary activities and waves following great improvement in the exchange rate of the Iraqi dinar, which has risen by more than 40 percent in the last five years. Furthermore, it has built strong foreign currency reserves that are over 44 percent of the actual GDP. The interest rate has played a positive role in strengthening confidence in the Iraqi dinar. In turn, basic annual inflation rates, which exceeded 34 percent three years ago, have now decreased to seven percent per year. This was achieved after a period during which monetary policy had been undermined by widespread use of the dollar, speculation, the development of liquidity alternatives derived from material assets, including commodities and the dollar. These alternatives had functioned like money, as they were a store of value and a monetary liquidity tool beyond the scope of the existing system. These phenomena had led the system to its weakest point in the country's economic history.
 
 The  Iraqi  dinar's  attractiveness  today,  as  a  strong  national currency,  has  become  the  best  tool  for  promoting  monetary savings  and  financial  mediation.  It  is  also  the  proper  and suitable  path  for  addressing  inflation  expectations,  which have  made  dinar  substitutes  favorite  methods  of  wealth accumulation. The latter have become a form of revenue similar to interest (though superior to the nominal interest offered by banks) and have generated powerful intangible returns caused by inflation This inflationary trend has become an element of speculation in the economy because it indicates the avoidance of real investments by transacting with material or real assets. They  are  considered  highly  liquid  assets  and  can  achieve  a quick profit, as they can have a high return driven by inflation expectations. Because they are not bank interest rates, they render  the  market  careless  about  productive  activity.  That  is why the index interest rates adopted by monetary policy were a countermeasure to inflation and the expectations associated therewith. This was done to allow true investment to regain its proper role beyond the scope of inflationary speculation.
 
@@ -1787,7 +2053,8 @@ Year | Number | Total capital | Bank deposits | Percentage of current deposits p
 2005 | 20 | - | 3.6 | 53
 2006 | 22 | 0.663 | 4.7 | 57
 2007 | 28 | 0.994 | 11 | 73
-Table 23 Change in the number of Public Banks and Their Capital for the Years 2004-2007
+Table 23 | Change in the number of Public Banks and Their Capital for the Years 2004-2007 (trillions of Iraqi dinars)
+--- | --- | --- | --- | ---
 Year | Number | Total capital | Bank deposits | Percentage of current deposits percent
 2004 | 7 | 0.15 | 5.2 | 0.99
 2005 | 7 | 0.165 | 7.1 | 0.96
@@ -1796,11 +2063,11 @@ Year | Number | Total capital | Bank deposits | Percentage of current deposits p
 
 The  number  of  public  commercial  banks  was  seven,  which remained steady during the period from 2004 to 2007. Table 23 shows that the banks' capital grew to 215.5 billion dinars in 2007 from 150 billion dinars in 2004. Furthermore, deposits at  public  sector  banks  were  5.2  trillion  dinars  in  2004  and rose to 16.7 trillion dinars in 2007. The  percentage of current deposits  was  between  96  percent  and  99  percent  between 2004 and 2007. Bank density was no more than 0.2 percent, i.e., one bank per 45,000 people. That was accompanied by an increase in the number of private banks to 28 private banks in 2007, 3 public commercial banks, and 4 specialized banks. Public sector banks had 348 branches, whereas private banks had 201 branches.
 
-Total  deposits  (Table  24)  achieved  tremendous  results  in  the public, commercial, and private banks during the period 20042007, increasing from 8.6 trillion dinars to 26.2 trillion dinars, an average growth rate of 222 percent. Further, their share of GDP increased from 16 percent in 2004 to 24 percent in 2007.
+Total deposits (Table 24) achieved tremendous results in the public, commercial, and private banks during the period 2004-2007, increasing from 8.6 trillion dinars to 26.2 trillion dinars, an average growth rate of 222 percent. Further, their share of GDP increased from 16 percent in 2004 to 24 percent in 2007.
 
 Table 24 | Total Deposits as a Percentage of GDP for the Years 2004-2007 (trillions of Iraqi dinars)
 --- | --- | --- | ---
-Year | Total deposits | GDP 2 | 2:1 percent
+Year | Total deposits 1 | GDP 2 | 2:1 percent
 2004 | 8.6 | 53.2 | 16
 2005 | 10.7 | 73.5 | 14.5
 2006 | 16.9 | 95.5 | 17.6
@@ -1810,8 +2077,7 @@ As  for  credit  activity,  the  magnitude  of  government  credit provided  by 
 
 Table 25 | Governmental Credit Provided by Commercial Banks (public and private)
 --- | --- | --- | --- | --- | ---
-Year | Credit | Credit
-Total credit 1 | provided by public sector banks 2 | 2:1 percent 3 | provided by private sector 4 | 4:1 percent 5
+Year | Total credit 1 | Credit provided by public sector banks 2 | 2:1 percent 3 | Credit provided by private sector 4 | 4:1 percent 5
 2004 | 824.6 | 204.0 | 24.7 | 620.2 | 75.3
 2005 | 1,717.4 | 767.2 | 45.0 | 950.2 | 55.0
 2006 | 2,664.8 | 783.8 | 29.0 | 1,881.0 | 71.0
@@ -1823,15 +2089,15 @@ The approach to bank oversight by the Central Bank changed from  a  controlling 
 
 #### 4.2.7 Challenges
 
-- To maintain the success of monetary policy in continuing to 1. reduce severe inflation rates from 30.8 percent in 2007 to the single digits in a manner that supports and guarantees continued  economic  stability  and  achieves  prosperity during plan years.
+1. To maintain the success of monetary policy in continuing to reduce severe inflation rates from 30.8 percent in 2007 to the single digits in a manner that supports and guarantees continued economic stability and achieves prosperity during plan years.
 
-- To continue reduction of dollar usage in the Iraqi economy 2. by ensuring the stability of the Iraqi dinar's exchange rate, thereby  promoting  transactions  using  the  Iraqi  dinar,  as well as its use as a store of value, through confidence by the  public  and  an  increase  in  demand  for  the  domestic currency.
+2. To continue reduction of dollar usage in the Iraqi economy by ensuring the stability of the Iraqi dinar's exchange rate, thereby promoting transactions using the Iraqi dinar, as well as its use as a store of value, through confidence by the public and an increase in demand for the domestic currency.
 
-- To  ensure  the  independence  of  the  Iraqi  Central  Bank; 3. specifically,  to  ensure  that  the  ability  to  print  money is  independent  from  the  ability  to  spend  it,  with  the latter  function  falling  within  the  purview  of  the  executive authority.
+3. To ensure the independence of the Iraqi Central Bank; specifically, to ensure that the ability to print money is independent from the ability to spend it, with the latter function falling within the purview of the executive authority.
 
-- To  enhance  the  effectiveness  of  monetary  policy  in  the 4. areas  of  achieving  economic  stability  and  stimulating economic growth during plan years.
+4. To enhance the effectiveness of monetary policy in the areas of achieving economic stability and stimulating economic growth during plan years.
 
-- An increase in the money supply. This is an indication of 5.
+5. An increase in the money supply. This is an indication of
 
 58
 
@@ -1845,15 +2111,29 @@ National Development Plan for the Years 2010-2014
 
 the current expansionary policy and can put pressure on inflation rates. Currency in circulation accounted for 65.5 percent of the total money supply as compared to current deposits,  which  accounted  for  only  34.5  percent  of  the total money supply in 2007.
 
-- The effects of the continuation of the strict monetary policy 6. that  was adopted after 2004 in order to limit expansion in  spending  and  the  increase  of  inflation  levels,  and countering them with increasing the interest rate from six percent in 2004 to 20 percent in 2007 to stimulate saving in banks.
+6. The effects of the continuation of the strict monetary policy that was adopted after 2004 in order to limit expansion in spending and the increase of inflation levels, and countering them with increasing the interest rate from six percent in 2004 to 20 percent in 2007 to stimulate saving in banks.
 
-- To  improve  the  Iraqi  dinar  exchange  rate  in  a  gradual 7. and  studied  way  using  monetary  policy  tools  to  affect factors  influencing  exchange  rates  such  as  inflation,  the balance between foreign currency payment and reserves, and  organization  and  regulation  of  the  foreign  currency market.
+7. To improve the Iraqi dinar exchange rate in a gradual and studied way using monetary policy tools to affect factors influencing exchange rates such as inflation, the balance between foreign currency payment and reserves, and organization and regulation of the foreign currency market.
 
-- The decline in  bank  density,  which  is  no  more  than  0.2 8. percent, i.e., one bank per 45,000 people.
+8. The decline in bank density, which is no more than 0.2 percent, i.e., one bank per 45,000 people.
 
-- The  increase  in  the  rate  of  current  deposits  in  private 9. banks, which accounts for 78.7 percent of total deposits as  compared to  the  public  sector  banks'  share  of  21.3 percent.
+9. The increase in the rate of current deposits in private banks, which accounts for 78.7 percent of total deposits as compared to the public sector banks' share of 21.3 percent.
 
-- Decrease in the percentage of credit provided by public sector  banks,  which  accounted  for  only  31  percent  of credit in 2007 as compared to private banks' share of 69 percent.
+10. Decrease in the percentage of credit provided by public sector banks, which accounted for only 31 percent of credit in 2007 as compared to private banks' share of 69 percent.
+
+#### 4.2.8 Policies
+
+1. To establish an effective monetary policy that continues to suppress the inflation rates arising from the expansionary spending policy during plan years. In addition, activation of monetary tools that stimulate investment and growth using interest rate signals.
+
+2. To resume liberalization of interest rates and remove the monetary restrictions imposed by the Central Bank's credit plan that allocated resources among different economic sectors.
+
+3. To allow foreign banks to work in Iraq in accordance with the Investment Law, and to encourage Iraqi banks to develop mechanisms that improve their practices and create an atmosphere of competition.
+
+4. To establish an anti-money-laundering department at the Central Bank so it can act as a safety valve for the banking sector and protect commercial banks. The department would also participate in normalizing work and enhancing the effectiveness of the banking system in Iraq.
+
+5. To overcome the increase in liquidity rates, and reduce uncertainty. Further, to develop payment systems by developing a real-time gross settlement (RTGS) system, i.e., continuous settlements with no stoppage.
+
+6. To reduce the interest rate so as to stimulate bank credit and encourage increased investments by the private sector in production sectors in accordance with the financial stability situation and the reduction in inflation rates.
 
 #### 4.2.9 Objectives
 
@@ -1861,47 +2141,33 @@ the current expansionary policy and can put pressure on inflation rates. Currenc
 
 ###### Means of achieving the objective:
 
-- Implementing open market processes 1.
+1. Implementing open market processes
 
-- Stimulating saving through credit activity 2.
+2. Stimulating saving through credit activity
 
-- Reducing the growth of the money supply in favor of current deposits 3.
+3. Reducing the growth of the money supply in favor of current deposits
 
-- Influencing the flexibility of the production system using financial and monetary policy tools 4.
+4. Influencing the flexibility of the production system using financial and monetary policy tools
 
-- Stabilizing the Iraqi dinar exchange rate. 5.
+5. Stabilizing the Iraqi dinar exchange rate.
 
 ##### Second objective: Interest rate signals as a stimulus to investment
 
 ###### Means of achieving the objective:
 
-- Completing liberalization of the interest rate and reducing rates while achieving economic stability, decreasing inflation, 1. and stimulating investments
+1. Completing liberalization of the interest rate and reducing rates while achieving economic stability, decreasing inflation, and stimulating investments
 
-- Establishing bases of competition among banks 2.
+2. Establishing bases of competition among banks
 
-- Confirming the flexibility of credit limits by adopting indirect methods and by adopting preventive oversight methods. 3.
+3. Confirming the flexibility of credit limits by adopting indirect methods and by adopting preventive oversight methods.
 
 ##### Third objective: Exchange rate stability
 
 ###### Means of achieving the objective:
 
-- Floating the exchange rate in a manner managed through public bids. 1.
+1. Floating the exchange rate in a manner managed through public bids.
 
-- Guaranteeing a good coverage rate by reserve monies of no less than a 70 percent benchmark. 2.
-
-#### 4.2.8 Policies
-
-- To establish an effective monetary policy that continues to 1. suppress the inflation rates arising from the expansionary spending policy during plan years. In addition, activation of  monetary  tools  that  stimulate  investment  and  growth using interest rate signals.
-
-- To resume liberalization of interest rates and remove the 2. monetary restrictions imposed by the Central Bank's credit plan  that  allocated  resources  among  different  economic sectors.
-
-- To  allow  foreign  banks  to  work  in  Iraq  in  accordance 3. with  the  Investment  Law,  and  to  encourage  Iraqi  banks to develop mechanisms that improve their practices and create an atmosphere of competition.
-
-- To establish an anti-money-laundering department at the 4. Central Bank so it can act as a safety valve for the banking sector  and  protect  commercial  banks.  The  department would also participate in normalizing work and enhancing the effectiveness of the banking system in Iraq.
-
-- To  overcome  the  increase  in  liquidity  rates,  and  reduce 5. uncertainty.  Further,  to  develop  payment  systems  by developing a real-time  gross  settlement  (RTGS)  system, i.e., continuous settlements with no stoppage.
-
-- To reduce the interest rate so as to stimulate bank credit 6. and encourage increased investments by the private sector in  production  sectors  in  accordance  with  the  financial stability situation and the reduction in inflation rates.
+2. Guaranteeing a good coverage rate by reserve monies of no less than a 70 percent benchmark.
 
 National Development Plan for the Years 2010-2014 59
 
@@ -1913,29 +2179,29 @@ National Development Plan for the Years 2010-2014 59
 
 ###### Means of achieving the objective:
 
-- Supporting bank capital 1.
+1. Supporting bank capital
 
-- Encouraging interbank lending 2.
+2. Encouraging interbank lending
 
-- Ensuring low interest rates over the short term secured through participation of the public budget and the policy of economic 3. development.
+3. Ensuring low interest rates over the short term secured through participation of the public budget and the policy of economic development.
 
 ##### Fifth objective: Increasing the rate of bank density in the economy
 
 ###### Means of achieving the objective:
 
-- Increasing the number of private and public sector banks through a targeted plan 1.
+1. Increasing the number of private and public sector banks through a targeted plan
 
-- Encouraging the opening of private bank branches that are distributed geographically based on population size 2.
+2. Encouraging the opening of private bank branches that are distributed geographically based on population size
 
-- Encouraging the opening of foreign bank branches. 3.
+3. Encouraging the opening of foreign bank branches.
 
 ##### Sixth objective: Achieving an optimal level of foreign reserves at the Central Bank
 
 ###### Means of achieving the objective:
 
-- Foreign reserve should not be less than a pre-set  percentage based on the value of real non-oil GDP 1.
+1. Foreign reserve should not be less than a pre-set percentage based on the value of real non-oil GDP
 
-- Depositing the surplus reserves of foreign currency in a long-term investment account (sovereign wealth funds). 2.
+2. Depositing the surplus reserves of foreign currency in a long-term investment account (sovereign wealth funds).
 
 [[END OF PAGE 60]]
 
@@ -1961,7 +2227,7 @@ In  Iraq,  all  the  agricultural  strategies  and  policies  undertaken since t
 
 ##### Production Policy
 
-Agricultural policy in past decades aimed at using the available resources to achieve a suitable supply of crops. But production levels failed to meet both society's growing needs for food and livestock  and  the  national  industries'  need  for  raw  materials. Despite  vast  planted  areas,  productivity  remained  low.  The annual  production  of  grains  has  always  been  less  than required. Since the 1980s, t his deficiency has been made up by  importing.  The  deficiency  in  fodder  resulting  from  limited planted areas and the stoppage of imports in the 1990s led to a decline in the number of farm animals to almost half the number in 1989. Furthermore, almost 75 percent of livestock projects were  affected  negatively  because  of  the  halt  of  importing concentrated fodder along with the increase in fodder types that are produced domestically to a very low standard.
+Agricultural policy in past decades aimed at using the available resources to achieve a suitable supply of crops. But production levels failed to meet both society's growing needs for food and livestock and the national industries' need for raw materials. Despite vast planted areas, productivity remained low. The annual production of grains has always been less than required. Since the 1980s, this deficiency has been made up by importing. The deficiency in fodder resulting from limited planted areas and the stoppage of imports in the 1990s led to a decline in the number of farm animals to almost half the number in 1989. Furthermore, almost 75 percent of livestock projects were affected negatively because of the halt of importing concentrated fodder along with the increase in fodder types that are produced domestically to a very low standard.
 
 ##### Composition of Crops
 
@@ -1987,7 +2253,7 @@ specialized lending funds were established to give loans without  interest  to  
 
 The  research  and  guidance  field  has  not  received  the required attention except at the end of the 1990s and the beginning of the new millennium when a group of national developmental programs were adopted. These programs used an integrated bundle of activities and efficiencies that were adopted by the peasants and farmers. Their aims were to increase productivity by spreading technology and modern production methods. These projects were:
 
-- Planting new  high-productivity types of rice  and developing  a system to eliminate the grass that grows after the harvest and influences the growth of crops.
+a. Planting new high-productivity types of rice and developing a system to eliminate the grass that grows after the harvest and influences the growth of crops.
 
 62
 
@@ -1999,17 +2265,17 @@ National Development Plan for the Years 2010-2014
 
 5
 
-- Including  fodder  beans  in  the  crop  cycle  of  wheat and rice to improve the fertility of the soil.
+b. Including fodder beans in the crop cycle of wheat and rice to improve the fertility of the soil.
 
-- Developing  grain  planting  in  dry  areas  by  using types  of  grain  that  have  good  resistance  levels against drought, using best methods in agricultural processes, and planning special crop cycles.
+c. Developing grain planting in dry areas by using types of grain that have good resistance levels against drought, using best methods in agricultural processes, and planning special crop cycles.
 
-- Developing the planting of cotton.
+d. Developing the planting of cotton.
 
-- Developing the planting and production of tomatoes.
+e. Developing the planting and production of tomatoes.
 
-- Developing the yellow and  white corn harvest: spreading the planting of spring and autumn crops and raising the standards of crops. Projects should aim to increase white corn production because it can endure saltiness and be included in the crop cycle with wheat.
+f. Developing the yellow and white corn harvest: spreading the planting of spring and autumn crops and raising the standards of crops. Projects should aim to increase white corn production because it can endure saltiness and be included in the crop cycle with wheat.
 
-- Rehabilitating  domestic  animal  projects  that  aim  to use 70-75 percent of the components of the domestic animals' fodder from the domestic production of meat and eggs, thus providing employment opportunities in the rural sector.
+g. Rehabilitating domestic animal projects that aim to use 70-75 percent of the components of the domestic animals' fodder from the domestic production of meat and eggs, thus providing employment opportunities in the rural sector.
 
 #### 5.1.2 Water Resource and Land Reclamation Policies
 
@@ -2041,9 +2307,7 @@ National Development Plan for the Years 2010-2014 63
 
 Agriculture and Water Resources
 
-Represents Land According to Reclamation Type on the provincial level
-
-Figure 4
+Figure 4 Represents Land According to Reclamation Type on the provincial level
 
 Reclaimed
 
@@ -2131,7 +2395,7 @@ The total of arable land, irrigated land, and dry land in Iraq is 44.46  million
 
 The total irrigated  area  is  13,240  million  acres;  it  forms  58  percent of  the  lands  that  can  be  irrigated.  This  is  a  low  percentage, as the Food and Agriculture Organization (FAO) estimates the percentage planted irrigated land in the Middle East and North Africa at an average of 62 percent. A large part of the land is in poor condition because of salinity and the fact that it is filled with ground water, especially in the central and southern areas because of bad operational works, poor maintenance, and lack of integrated water logging.
 
-Planting  crop  fields  occupy  a  large  area  of  agricultural  land, estimated at approximately 10 million acres, 41 percent of which is  in  the  province  Ninawa.  The  planted  area  with  vegetables and  potatoes  is  2.5  million  acres.  Statistics  show  that  there is a reduction in palm tree areas from 32 million trees in 1960 to 16.2 million trees in 1989 and 10 million trees in 2007. The total production was approximately 447,000 tons. This ranked Iraq  lower  regionally  and  internationally  in  the  number  of  the palm trees after being ranked first internationally a few decades ago.
+Planting crop fields occupy a large area of agricultural land,
 
 64
 
@@ -2142,6 +2406,8 @@ National Development Plan for the Years 2010-2014
 [[START OF PAGE 65]]
 
 5
+
+estimated at approximately 10 million acres, 41 percent of which is in the province Ninawa. The planted area with vegetables and potatoes is 2.5 million acres. Statistics show that there is a reduction in palm tree areas from 32 million trees in 1960 to 16.2 million trees in 1989 and 10 million trees in 2007. The total production was approximately 447,000 tons. This ranked Iraq lower regionally and internationally in the number of the palm trees after being ranked first internationally a few decades ago.
 
 ##### Production and Harvests
 
@@ -2163,9 +2429,9 @@ Including grapes, which constitute the largest  percentage of summer fruit, the 
 
 a. The most  important animals in Iraq are cows, buffalo, sheep, and goats because they provide food for the  people  as  well  as  skins  and  wool  that  are  used  for industrial purposes. The last count of livestock wealth, in 2001, showed that there were 1,232,147 cows, 117,778 buffalo, 6,009,139 sheep, and 736,198 goats.
 
-Livestock  wealth  was  influenced  by  the  circumstances of  war.  Livestock  suffered  from  diseases  like  foot-andmouth disease, experienced a scarcity of meadows, and lacked proper veterinary services, leading to the death of many animals. Iraq has the capability to double existing herds,  especially  in  the  provinces  that  have  the  basic requirements like meadows, factories and stores of fodder and experienced keepers.
+Livestock wealth was influenced by the circumstances of war. Livestock suffered from diseases like foot-and-mouth disease, experienced a scarcity of meadows, and lacked proper veterinary services, leading to the death of many animals. Iraq has the capability to double existing herds, especially in the provinces that have the basic requirements like meadows, factories and stores of fodder and experienced keepers.
 
-b. Fish wealth decreased from 36,935 tons in 1997 to 25,998 tons in 2001because of the drying of swamps in Al-Ahwar  and  the  decrease  in  water  levels  (40  percent of  swamps have dried up significantly). The figure below shows the changes that have occurred in Iraqi swamps. Production of Iraq of fish wealth (from fisheries, rivers, and the sea) in 2005 reached 25.6 thousand tons only; that is identical to what Somalia produces, and 40 times less than what  Egypt  produces.  Certain  main  species  of  Iraqi  fish have disappeared from the market as a result of fishermen using  poisons  and  explosives  to  kill  them  and  failing  to abide by rules that prohibit fishing during the propagation season, in addition to other detrimental factors including the  lack  of  fodder  and  medicine  as  well  as  the  general weakness of the system. Reports of the FAO show that the  total  production  of  freshwater  fish  started  to  decline
+b. Fish wealth decreased from 36,935 tons in 1997 to 25,998 tons in 2001 because of the drying of swamps in Al-Ahwar and the decrease in water levels (40 percent of swamps have dried up significantly). The figure below shows the changes that have occurred in Iraqi swamps. Production of Iraq of fish wealth (from fisheries, rivers, and the sea) in 2005 reached 25.6 thousand tons only; that is identical to what Somalia produces, and 40 times less than what Egypt produces. Certain main species of Iraqi fish have disappeared from the market as a result of fishermen using poisons and explosives to kill them and failing to abide by rules that prohibit fishing during the propagation season, in addition to other detrimental factors including the lack of fodder and medicine as well as the general weakness of the system. Reports of the FAO show that the total production of freshwater fish started to decline
 
 National Development Plan for the Years 2010-2014 65
 
@@ -2179,7 +2445,7 @@ Agriculture and Water Resources
 
 continuously in the period following the war. It was between 13,600 and 12,300 tons between 2000 and 2004.
 
-Normal  carp  constitute  the  greatest  species  found  in the  internal  water  s  paces  of  Iraq,  followed  by  cyprinid, barbell, Al-Ahmar, Al-Shelk, Al-Baz (barbuse socinus), and Al-Jari. There are large numbers of other species of fish that are not used in the marketplace, like Al-Khashabi and Al-Lassaf. Species that live in the sea include Al- Shank, Al-Bayah, Al-Zubaidi, and some crustaceans and shrimp.
+Normal carp constitute the greatest species found in the internal water spaces of Iraq, followed by cyprinid, barbell, Al-Ahmar, Al-Shelk, Al-Baz (barbuse socinus), and Al-Jari. There are large numbers of other species of fish that are not used in the marketplace, like Al-Khashabi and Al-Lassaf. Species that live in the sea include Al- Shank, Al-Bayah, Al-Zubaidi, and some crustaceans and shrimp.
 
 The FAO report stated that the number of fisheries in Iraq was 1,787 at the end of 2003, with 178 fisheries in the north and 1,609 in the central and the southern regions. The main species bred in fisheries are normal carp, grass carp, and silver carp.
 
@@ -2199,7 +2465,7 @@ The incubators for propagating fish in Iraq are distributed as described below.
 
 - The private sector incubators: There were 24 incubating 3. facilities  in  2003  and  they  contain  749  incubators;  their average production capacity is 129 million larvae.
 
-- Livestock is the main part of the food basket, especially for  providing  protein.  It  is  also  an  important  source  for the  raw  materials  that  are  the  components  of  many industries.
+c. Livestock is the main part of the food basket, especially for providing protein. It is also an important source for the raw materials that are the components of many industries.
 
 Animal production in  Iraq  has  not  developed  commensurate with the food requirements of the population, which high levels of growth in recent years, along with attendant high levels of income and living standards. The production of red meat has not shown any tangible development since the beginning of this decade (annual production is between 135,000 and 140,000 tons  per  year);  production  of  poultry  meat  decreased  from approximately 125,000 tons in 2002 to approximately 42,000 tons  in  2007.  That  was  a  result  of  an  increase  in  the  costs of  production,  especially  the  cost  of  fodder;  the  inability  to compete as a result of flooding the market with cheap products; the loss of important parts of the production process such as the principal fields in Samuraa; and the refusal of investors to operate their fields because of the absence of studied support for this industry. All of this has also had negative consequences on the production of eggs, currently at 604 million eggs.
 
@@ -2261,7 +2527,7 @@ Poultry meat
 
 Agricultural production is for direct consumption or for use as raw materials for the food and other industries. Despite the large areas that are planted with the crops, the low productivity of the donom of most of the harvests means that is insufficient for domestic need, and the deficit must be covered by imports.
 
-The  value  of  imports  in  the  private  sector  in  2002  was US$372.7 million. The food group constituted a  percentage of  47.6  percent  of  total  imports.  The  value  of  imports  in  the private sector in 2003 reached US$1,129.9million, of which the food group constituted 18.7 percent. The value of the annual imports of the ration card issued to needy citizens is US$3.5 billion dollars; most of the items are food materials like wheat, rice, oil, tea, milk, and legumes.
+The value of imports in the private sector in 2002 was US$372.7 million. The food group constituted a percentage of 47.6 percent of total imports. The value of imports in the private sector in 2003 reached US$1,129.9million, of which the food group constituted 18.7 percent. The value of the annual
 
 66
 
@@ -2273,7 +2539,9 @@ National Development Plan for the Years 2010-2014
 
 5
 
-Except  for dates, production of most  food  products  is insufficient to meet the needs of the population. Wheat meets about 49 percent of the need; barley, 59 percent; yellow corn, 33 percent; potatoes, 76 percent; tomatoes, 40 percent; red meat, 14.5 percent; white meat, 14 percent; milk, 43 percent; and eggs, 16 percent. This reflects the fragility of food security in Iraq despite its large agricultural capabilities.
+imports of the ration card issued to needy citizens is US$3.5 billion dollars; most of the items are food materials like wheat, rice, oil, tea, milk, and legumes.
+
+Except for dates, production of most food products is insufficient to meet the needs of the population. Wheat meets about 49 percent of the need; barley, 59 percent; yellow corn, 33 percent; potatoes, 76 percent; tomatoes, 40 percent; red meat, 14.5 percent; white meat, 14 percent; milk, 43 percent; and eggs, 16 percent. This reflects the fragility of food security in Iraq despite its large agricultural capabilities.
 
 ##### Competitive Capability
 
@@ -2341,15 +2609,15 @@ Iraq  will  witness  more  shortages  in  water  resources  and  low quality aft
 
 Iraq has passed through a bitter experience with water over the year that ended on 30/9/2008 and it has negatively influenced the agricultural production, which was originally undeveloped, and especially livestock wealth for the following reasons:
 
-- Drought and unsuitable climate conditions 1.
+1. Drought and unsuitable climate conditions
 
-- Scarcity of water in the Tigris 2.
+2. Scarcity of water in the Tigris
 
-- Euphrates and its tributaries 3.
+3. Euphrates and its tributaries
 
-- Problems in managing and operating some dams 4.
+4. Problems in managing and operating some dams
 
-- Weakness or absence of water guidance. 5.
+5. Weakness or absence of water guidance.
 
 Climate changes  that are happening  all over the world may affect the areas in Iraq that are more prone to drought. Therefore, suitable water policies need to be characterized by flexibility,  qualified  and  integrated  management  systems  for water resources, long-term plans, participation of users of water in the responsibility, and consideration of water as a valuable commodity. Iraq will face, sooner or later, tough challenges in securing its continuing water requirements.
 
@@ -2369,17 +2637,17 @@ Agriculture and Water Resources
 
 The agricultural sector in Iraq is characterized by different types of holdings and their small size, the result of continual division as a result of inheritance. Large areas of arable lands have been divided into small holdings that are uneconomic. This forms a big hurdle for agricultural production and is a reason for lack of stability in the sector.
 
-- Owned lands are  completely  subject  to  private  holding, 1. and the owner enjoys complete freedom in dealing with them.
+1. Owned lands are completely subject to private holding, and the owner enjoys complete freedom in dealing with them.
 
-- State-owned  lands  (Amiri  lands)  are  divided  into  two 2. types: purely state-owned land that has never been taken from  anyone  and  land  that  is  registered  officially  in  the land registration department and that the government has given to someone with a registration document, but that the government still supervises.
+2. State-owned lands (Amiri lands) are divided into two types: purely state-owned land that has never been taken from anyone and land that is registered officially in the land registration department and that the government has given to someone with a registration document, but that the government still supervises.
 
-- Endowment lands. 3.
+3. Endowment lands.
 
-- Left lands are lands that are left for different usages and 4. owned by the state.
+4. Left lands are lands that are left for different usages and owned by the state.
 
-- Wastelands, which are deserted and uncultivated lands. 5.
+5. Wastelands, which are deserted and uncultivated lands.
 
-- Sixty-four  percent  of  all  agricultural  holdings  are  free 6. holdings of certain persons. They are divided into small, uneconomic  areas  in  most  cases  simply  because  of inheritance; 32 percent of them are let be, three percent of them are poorly managed and one percent are in other forms of holdings.
+6. Sixty-four percent of all agricultural holdings are free holdings of certain persons. They are divided into small, uneconomic areas in most cases simply because of inheritance; 32 percent of them are let be, three percent of them are poorly managed and one percent are in other forms of holdings.
 
 The number of agricultural possessions and
 
@@ -2419,9 +2687,9 @@ Though private ownership of agricultural holdings is at approximately  64  perce
 
 Every  economic  sector  in  Iraq  has  its  own  problems,  but the  agricultural  sector  has  suffered  from  problems  that  have not resulted from inside the sector itself. The sector has not witnessed,  and  will  not  witness,  development  unless  the country  becomes stable.  As  in  most  countries,  prosperity  in agricultural activities goes hand in hand with a stable political situation. The following are important challenges that limit the role of the private sector in agricultural activity.
 
-- After  2003,  the  labor  force  that  had  a  background  in 1. agriculture was attracted to other activities like the police and army because of higher incomes and fees in those activities  and  the  fact  of  deterioration  in  the  agricultural sector.
+1. After 2003, the labor force that had a background in agriculture was attracted to other activities like the police and army because of higher incomes and fees in those activities and the fact of deterioration in the agricultural sector.
 
-- The  capital  required  to  develop  the  agricultural  sector 2. remained  for  many  decades  in  the  hands  of  the  state. The private sector refrained from investing in agricultural development  projects because  sufficient funds were not available and there was no confidence between the
+2. The capital required to develop the agricultural sector remained for many decades in the hands of the state. The private sector refrained from investing in agricultural development projects because sufficient funds were not available and there was no confidence between the
 
 68
 
@@ -2435,7 +2703,7 @@ National Development Plan for the Years 2010-2014
 
 private  sector  and  the  government.  It  is  now  up  to  the state to prepare and foster the legal environment that will enable cooperation with the private sector in agricultural projects.
 
-- The nature  of  ownership  is  considered  one  of  the  main 3. limitations  in  development of the agricultural sector. The subject  of  the  different  types  of  agricultural  holding  is still causing arguments, as it is a big hurdle to increased production  as  well  as  a  contributing  factor  to  Iraq's instability.
+3. The nature of ownership is considered one of the main limitations in development of the agricultural sector. The subject of the different types of agricultural holding is still causing arguments, as it is a big hurdle to increased production as well as a contributing factor to Iraq's instability.
 
 ### 5.6  Social Dimensions to Agricultural and Rural Development
 
@@ -2449,21 +2717,21 @@ The attractiveness of the cities is considered one of the reasons in  the  incre
 
 The agriculture sector has huge capabilities that make it one of the leading sectors in supporting and diversifying the national economy. These are described below.
 
-- The  existence  of  approximately  45  million  donoms  of 1. arable  irrigated  and  dry  arable  land,  23  million  of  them with  the  possibility  of  being  irrigated  and  13  million  that are already irrigated. This gives a capability to widely utilize the production of plants with a diversified composition of harvests  that  would  hugely  participate  in  achieving  the food security of the country.
+1. The existence of approximately 45 million donoms of arable irrigated and dry arable land, 23 million of them with the possibility of being irrigated and 13 million that are already irrigated. This gives a capability to widely utilize the production of plants with a diversified composition of harvests that would hugely participate in achieving the food security of the country.
 
-- The existence of a large basic herd that consists of primarily 2. sheep, goats, cows, and buffalo, which are a fundamental source of animal protein. Moreover, there is the ability to develop fish and domestic animal and egg production with competitive pricing, unlike in previous decades.
+2. The existence of a large basic herd that consists of primarily sheep, goats, cows, and buffalo, which are a fundamental source of animal protein. Moreover, there is the ability to develop fish and domestic animal and egg production with competitive pricing, unlike in previous decades.
 
-- The  diversity of the environment in Iraq:  woods  in 3. mountainous areas, deserts, wide desert hills, and swamps (Al-Ahwar).  This  harbors  the  opportunity  to  diversify  the production of plants and animals and to use the various environments to develop harvest compositions and competitive productivity. Iraq is characterized by enormous biological diversity; FAO has indicated that more than 40 percent of biological forms are available in Iraq.
+3. The diversity of the environment in Iraq: woods in mountainous areas, deserts, wide desert hills, and swamps (Al-Ahwar). This harbors the opportunity to diversify the production of plants and animals and to use the various environments to develop harvest compositions and competitive productivity. Iraq is characterized by enormous biological diversity; FAO has indicated that more than 40 percent of biological forms are available in Iraq.
 
-- The  existence  of  good  water  resources  from  the  Tigris, 4. Euphrates,  and  their  tributaries,  and  the  northern  areas of  Iraq  with  rain  levels  that  are  between  400  and  1,000 mm/year and other areas with levels that are between 150 and 450 mm/year. It is possible to satisfy additional water needs through supplementary irrigation.
+4. The existence of good water resources from the Tigris, Euphrates, and their tributaries, and the northern areas of Iraq with rain levels that are between 400 and 1,000 mm/year and other areas with levels that are between 150 and 450 mm/year. It is possible to satisfy additional water needs through supplementary irrigation.
 
-- The existence of significant human resources to practice 5. agricultural  activities.  Approximately  30  percent  of  the population is not efficiently utilized despite their qualification to  practice agricultural activities based on their scientific agricultural capabilities.
+5. The existence of significant human resources to practice agricultural activities. Approximately 30 percent of the population is not efficiently utilized despite their qualification to practice agricultural activities based on their scientific agricultural capabilities.
 
-- The  existence  of  supportive  policies  and  policies  with 6. regard to the inputs and outputs of agricultural experience, despite  it  characterized  as  being  unstable  and  having changed its orientations according to consecutive political regimes.
+6. The existence of supportive policies and policies with regard to the inputs and outputs of agricultural experience, despite it characterized as being unstable and having changed its orientations according to consecutive political regimes.
 
-- The  existence  of  fundamental  bases  to  support  the 7. participatory role of private sector activity in the production of both plants and animals.
+7. The existence of fundamental bases to support the participatory role of private sector activity in the production of both plants and animals.
 
-- The existence  of  fundamental  bases  for  laws  and  regulations 8. in  the  sector,  but  ones  that  need  development  and updating if they are to form the basis of a comprehensive agricultural  revolution  in  which  the  private  sector  would have a leading role.
+8. The existence of fundamental bases for laws and regulations in the sector, but ones that need development and updating if they are to form the basis of a comprehensive agricultural revolution in which the private sector would have a leading role.
 
 All  these  available  capabilities  of  the  agricultural  sector,  if  well utilized, will become  fundamental  factors  in  developing  the sector and supporting its role in attaining food security, creating employment  opportunities,  developing  the  countryside,  limiting poverty and actively participating in diversifying the Iraqi economy.
 
@@ -2481,49 +2749,47 @@ Agriculture and Water Resources
 
 Despite  the  historical  heritage  of  agricultural  activity  in  Iraq, the agricultural sector has suffered, and is still suffering, from significant problems and challenges that can be summarized as shown below.
 
-- A  severe  deficiency  in  achieving  food  security  for  the 1. country from domestic production
+1. A severe deficiency in achieving food security for the country from domestic production
 
-- The limited water resources that can be used for agriculture 2. and  the  limited  available  methods  of  storing  it  currently compared with the need. Moreover, there is no agreement that  gives  Iraq  a  just  share  of  the  Tigris  and  Euphrates. There are related challenges, including:
+2. The limited water resources that can be used for agriculture and the limited available methods of storing it currently compared with the need. Moreover, there is no agreement that gives Iraq a just share of the Tigris and Euphrates. There are related challenges, including:
 
-The  random  use  and  waste  of  water  in  the  agriculture, industry, and  civil sectors; the weakness  of  internal coordination; and the absence of consensus between the main water users, which requires developing a vision and water policy; the weakness of participation of the users of water in managing it and the absence of water guidance; the  suitability  of  irrigating  the  fields,  especially  from  the rivers.
+The random use and waste of water in the agriculture, industry, and civil sectors; the weakness of internal coordination; and the absence of consensus between the main water users, which requires developing a vision and water policy; the weakness of participation of the users of water in managing it and the absence of water guidance; the suitability of irrigating the fields, especially from the rivers.
 
-A flexible  system  is  needed  to  manage  the  demand  for water  to  'maximize  the  utilization  of  the  water  that  is available  for  us'  and  that  takes  into  consideration  the social,  political,  economic,  and  environmental  factors within which this process is managed. The strategies and the tools of managing the demand for water enable to the efficient use of water in addition to just behavioral practices of water usage.
+A flexible system is needed to manage the demand for water to 'maximize the utilization of the water that is available for us' and that takes into consideration the social, political, economic, and environmental factors within which this process is managed. The strategies and the tools of managing the demand for water enable to the efficient use of water in addition to just behavioral practices of water usage.
 
-- The  fact  that  though  there  is  vast  arable  land  in  Iraq, 3. the part that is utilized remains small and inadequate. In addition to that, there are challenges that accompany the use of these lands, including:
+3. The fact that though there is vast arable land in Iraq, the part that is utilized remains small and inadequate. In addition to that, there are challenges that accompany the use of these lands, including:
 
 - The problem of water logging and salinity of the soil in central and southern Iraq
 
-- The division of holdings and the small size of holdings hinder  agricultural  processes,  especially  the  use  of machines and modern techniques
+- The division of holdings and the small size of holdings hinder agricultural processes, especially the use of machines and modern techniques
 
 - The spread of gypsum soil in wide areas of the country, which demands special experience and care
 
 - The increase in the desertification area and the spread of sand dunes, along with degradation, which form a severe danger to agriculture.
 
-- The severely low productivity of the donom for all crops and 4. farm animals and the increase in prices of these products compared with international prices. There is the possibility of making significant improvements in the productivity of crops and animal farms by adopting modern  production and administrative processes and improving guidance.
+4. The severely low productivity of the donom for all crops and farm animals and the increase in prices of these products compared with international prices. There is the possibility of making significant improvements in the productivity of crops and animal farms by adopting modern production and administrative processes and improving guidance.
 
-- The lack of human resource development and supporting 5. capabilities, including:
+5. The lack of human resource development and supporting capabilities, including:
 
-- The prevailing administrative situation as the · administrative system is suffering from an
+- The prevailing administrative situation as the administrative system is suffering from an unnecessary increase of the number of employees and management cycles; this has negative influence on its movement, activity, and performance.
 
-unnecessary increase of the number of employees and management cycles; this has negative influence on its movement, activity, and performance.
+- The technical and administrative capabilities of the workers in this activity still need support, development, improvement of guidance tasks, a raised standard of awareness, and negotiations to reach acceptable agreements on improving the quantity and quality of water and guaranteeing a just and acceptable share of water for Iraq.
 
-- The  technical  and  administrative  capabilities  of  the workers in this  activity  still  need  support,  development, improvement of guidance tasks, a raised standard of awareness,  and  negotiations  to  reach  acceptable agreements on improving the quantity and quality of water and guaranteeing a just and acceptable share of water for Iraq.
+- The weakness of coordination between research parties and the executive parties, severe shortages in supplies for practical field research, the necessity for doing this side by side with agricultural guidance and imparting that to local people, and dealing with shortages in the field of agricultural media are essential.
 
-- The  weakness  of  coordination  between  research parties and the executive parties, severe shortages in supplies for practical field research, the necessity for doing this side by side with agricultural guidance and  imparting  that  to  local  people,  and  dealing with shortages in the field of agricultural media are essential.
+- Advanced methods are needed to transfer production capabilities in order to narrow the gap that exists between actual needs and achieved production, even partially.
 
-- Advanced methods are needed to transfer production capabilities  in  order  to  narrow  the  gap  that  exists between  actual  needs  and  achieved  production, even partially.
+6. The fact that government investment is still less than the required standard and the investment environment is still unattractive for the private and foreign sectors, despite the Law of Investment No. 13 of year 2006, as no investments that could strengthen the agricultural sector were pumped into it. Agricultural investments are the key to continual development and the best method to achieve food security, find more productive employment opportunities, improve the income of rural inhabitants, increase levels of nutrition of rural families, and reduce migration from rural to urban areas.
 
-- The fact that government investment is still less than the 6. required standard and the investment environment is still unattractive for the private and foreign sectors, despite the Law of Investment No. 13 of year 2006, as no investments that could strengthen the agricultural sector were pumped into  it.  Agricultural  investments  are  the  key  to  continual development  and  the  best  method  to  achieve  food security, find more productive employment opportunities, improve the income of rural inhabitants, increase levels of nutrition of rural families, and reduce migration from rural to urban areas.
+7. The fact that applicable laws in the agricultural sector stress the principles of maintaining an everlasting environment, but that they are not properly executed or applied. That is because the illegal hunting, use of poisons and electricity for fishing, and irrational use of fertilizers and pesticides are the dominant practices, in addition to the lack of an effective system for processing recycling sewage water.
 
-- The fact that applicable laws in the agricultural sector stress 7. the principles of maintaining an everlasting environment, but that they are not properly executed or applied. That is because the illegal hunting, use of poisons and electricity for  fishing,  and  irrational  use  of  fertilizers  and  pesticides are the dominant practices, in addition to the lack of an effective system for processing recycling sewage water.
-
-- The  existence  of  economic,  social,  educational,  and 8. constructional underdevelopment in rural areas. The countryside suffers from a clear decrease in productivity, severe  unemployment  (especially  seasonal),  a  notable decrease in the level of services, and widespread poverty (approximately  40  percent  of  the  total  number  of  poor people in Iraq). These are the primary causes for migration from rural to urban areas.
+8. The existence of economic, social, educational, and constructional underdevelopment in rural areas. The countryside suffers from a clear decrease in productivity, severe unemployment (especially seasonal), a notable decrease in the level of services, and widespread poverty (approximately 40 percent of the total number of poor people in Iraq). These are the primary causes for migration from rural to urban areas.
 
 ### 5.9 Vision
 
-- 1Increase the role of domestic agricultural production in 1. achieving  food  security;  entering  the  field  of  exporting dates and fruits; making ideal use of the natural, financial, human;  and  productive  resources  that  can  help  Iraq become  competitive;  utilizing  modern  technology  and foreign expertise; and stimulating the private and foreign sectors to invest heavily in this sector.
+1. 1Increase the role of domestic agricultural production in achieving food security; entering the field of exporting dates and fruits; making ideal use of the natural, financial, human; and productive resources that can help Iraq become competitive; utilizing modern technology and foreign expertise; and stimulating the private and foreign sectors to invest heavily in this sector.
 
-- Increase the participation of agriculture in the GDP , forming 2. a steady flow of capital, considering the agricultural sector
+2. Increase the participation of agriculture in the GDP, forming a steady flow of capital, considering the agricultural sector
 
 70
 
@@ -2535,33 +2801,33 @@ National Development Plan for the Years 2010-2014
 
 5
 
-- a fundamental sector in diversifying the Iraqi economy, and addressing the issue of poverty that is focused in the Iraqi countryside.
+a fundamental sector in diversifying the Iraqi economy, and addressing the issue of poverty that is focused in the Iraqi countryside.
 
-- Enable Iraq to obtain water rights from bordering countries 3. and provide guidance for internal water consumption.
+3. Enable Iraq to obtain water rights from bordering countries and provide guidance for internal water consumption.
 
 ### 5. 10 Objectives
 
 #### 5.10.1 Water Resources and Land Reclamation
 
-- Building  nine  dams  during  the  period  of  the  National 1. Development Plan to increase water reservation capacity to  approximately  33  billion  square  meters,  including  the 14.4  billion  square  meter  Bukhma  Dam,  which  will  take three  years  to  complete  and  will  generate  an  electric capacity of 1,500 megawatts.
+1. Building nine dams during the period of the National Development Plan to increase water reservation capacity to approximately 33 billion square meters, including the 14.4 billion square meter Bukhma Dam, which will take three years to complete and will generate an electric capacity of 1,500 megawatts.
 
-- Developing water resources by expanding the gathering of 2. water in suitable areas and reusing wastewater later.
+2. Developing water resources by expanding the gathering of water in suitable areas and reusing wastewater later.
 
-- Improving water treatment capacity. 3.
+3. Improving water treatment capacity.
 
-- Working on integrated reclamation of the lands to reach an 4. annual average of 800,000 donoms. Justice in distributing
+4. Working on integrated reclamation of the lands to reach an annual average of 800,000 donoms. Justice in distributing
 
 the reclaimed lands of the provinces, especially in the first years of the plan, should be applied until 4,005 out of the 7,196 million donoms in the 18 provinces are completed.
 
-- Completing the main debouchments: the Eastern 5. Euphrates,  the  Western  Euphrates,  east  of  Al-Gharaf, west of Al-Gharaf, and east of the Tigris to maintain the quality of the main rivers.
+5. Completing the main debouchments: the Eastern Euphrates, the Western Euphrates, east of Al-Gharaf, west of Al-Gharaf, and east of the Tigris to maintain the quality of the main rivers.
 
-- Implementing  necessary  maintenance  works  according 6. to the operating budget for them. There are 126,000 km of networks for irrigation and canals, and more than 200 water-pumping  stations,  among  other  things,  that  need regular maintenance.
+6. Implementing necessary maintenance works according to the operating budget for them. There are 126,000 km of networks for irrigation and canals, and more than 200 water-pumping stations, among other things, that need regular maintenance.
 
-- Beginning a continuous program of investing in 7. underground water resources.
+7. Beginning a continuous program of investing in underground water resources.
 
 #### 5.10.2 Agricultural Production
 
-- Regarding  plants,  producing  wheat  in  winter,  producing 1. potatoes  in  summer,  and  developing  the  production  of dates and fruit, as a priority. Secondarily, producing rice, tomatoes, onion, white and yellow corn, fodder legumes, jat, and grass. The following tables show the production plan for the above-mentioned harvests for 2010-2014.
+1. Regarding plants, producing wheat in winter, producing potatoes in summer, and developing the production of dates and fruit, as a priority. Secondarily, producing rice, tomatoes, onion, white and yellow corn, fodder legumes, jat, and grass. The following tables show the production plan for the above-mentioned harvests for 2010-2014.
 
 The Production Plan of Wheat for 2010 and 2014 Compared with the Starting Line.
 
@@ -2609,8 +2875,9 @@ Area: 1000 donoms
 
 Production: 1000 tons
 
-Table 27 | 2010 | 2014
+Table 27
 --- | --- | --- | ---
+Crop | Starting line | 2010 | 2014
 Irrigated barley
 Harvest | 275.7 | 280 | 300
 Area | 1,707 | 1,750 | 1,800
@@ -2649,8 +2916,9 @@ Area: 1000 donoms
 
 Production: 1000 tons
 
-Table 28 | 2014
+Table 28
 --- | --- | --- | ---
+Crop | Starting line | 2010 | 2014
 Potatoes/ spring
 Harvest | 3,922 | 4,000 | 5,000
 Area | 77 | 80 | 80
@@ -2674,9 +2942,9 @@ National Development Plan for the Years 2010-2014
 
 5
 
-Onion | 2,200 | 3,000
---- | --- | --- | ---
-Crop Area | 2,001 57 | 70 | 80
+Onion
+Crop | 2,001 | 2,200 | 3,000
+Area | 57 | 70 | 80
 Production | 113 | 154 | 240
 Tomatoes
 Crop | 3,337 | 3,350 | 5,000
@@ -2686,7 +2954,7 @@ Dates
 Productivity | 447 | 450 | 700
 Productivity of palm tree (kg) | 55.14 | 55.5 | 70
 
-- With regard to animal production, increasing the number 2. of sheep, goats, and poultry as a priority, then increasing the number of buffalo and camels and achieving significant increases  in  the  production  and  productivity  of  t  animal
+2. With regard to animal production, increasing the number of sheep, goats, and poultry as a priority, then increasing the number of buffalo and camels and achieving significant increases in the production and productivity of t animal
 
 products (white and red meat, milk, and eggs) as shown in the following tables. The plan also calls for giving support for  the  private  sector  to  rehabilitate  livestock  wealth projects, especially poultry projects.
 
@@ -2719,7 +2987,7 @@ Cows | 960
 Buffalo and camels | 75
 Eggs | 1,500
 
-- With  40  percent  of  births  and  60  percent  of  raising  and fattening of herds.
+1. With 40 percent of births and 60 percent of raising and fattening of herds.
 
 ### 5.11 Means of Achieving Agricultural Objectives
 
@@ -2739,51 +3007,49 @@ Agriculture and Water Resources
 
 #### 5.11.2 Supporting the Private Sector
 
-- Encouraging private and foreign sectors to invest in animal 1. and plant production and establishing industrial agricultural societies on appropriate economic and technical bases and in the field of establishing cooling and freezing storage.
+1. Encouraging private and foreign sectors to invest in animal and plant production and establishing industrial agricultural societies on appropriate economic and technical bases and in the field of establishing cooling and freezing storage.
 
-- Encouraging the public joint-stock companies by 2. developing  and  strengthening  the  financial  markets  with the state participating by buying parts of their shares at the foundation stage and withdrawing them later when the companies become stable.
+2. Encouraging the public joint-stock companies by developing and strengthening the financial markets with the state participating by buying parts of their shares at the foundation stage and withdrawing them later when the companies become stable.
 
-- Growing and developing financial markets and adopting 3. credit policies that encourage  the  private sector to rehabilitate its projects that were halted, and establishing new projects.
+3. Growing and developing financial markets and adopting credit policies that encourage the private sector to rehabilitate its projects that were halted, and establishing new projects.
 
-- Continuing to support agricultural inputs and outputs and 4. protecting them from imported products, especially during the term of this plan, to enable the private sector prove itself competitive against imported products.
+4. Continuing to support agricultural inputs and outputs and protecting them from imported products, especially during the term of this plan, to enable the private sector prove itself competitive against imported products.
 
-- Encouraging the private sector to industrial agricultural 5. based  on  economic  and  technical  expertise,  including reclamation of lands and establishing irrigation and canal networks.
+5. 11. Encouraging the private sector to industrial agricultural based on economic and technical expertise, including reclamation of lands and establishing irrigation and canal networks.
 
-- Supporting and encouraging investment in promising areas 6. in the western desert to produce fodder and raise animals and  encouraging  the  investment  in  other  agricultural objectives on the borders of deserts.
+6. Supporting and encouraging investment in promising areas in the western desert to produce fodder and raise animals and encouraging the investment in other agricultural objectives on the borders of deserts.
 
 #### 5.11.2 Water Policies
 
 Providing  the  required  quantities  and  qualities  of  water  has become  one  of  the  limitations  of  agricultural  expansion  in Iraq.  Therefore,  it  is  imperative  that  this  be  a  priority  in  the development  policies  in  Iraq  in  general  and  the  agricultural policies  in  particular  through  a  wide  group  of  programs  and procedures, as described below.
 
-- Reaching  an  agreement  with  the  countries  that  share 1. water from the Tigris and Euphrates and their tributaries (Turkey, Syria, and Iran) to do so according to international agreements and conventions to guarantee that Iraq obtains a quantitatively and qualitatively just share of water.
+1. Reaching an agreement with the countries that share water from the Tigris and Euphrates and their tributaries (Turkey, Syria, and Iran) to do so according to international agreements and conventions to guarantee that Iraq obtains a quantitatively and qualitatively just share of water.
 
-- Complete the second stage of the water budget quickly 2. (the strategic study of water and land resources) that the Ministry of Water Resources has undertaken for the various sectors  that  are  beneficiaries  and  consumers,  including agriculture, electricity, transport, swamps  (Al-Ahwar), drinking, healthy water, industrial needs, and others.
+2. Complete the second stage of the water budget quickly (the strategic study of water and land resources) that the Ministry of Water Resources has undertaken for the various sectors that are beneficiaries and consumers, including agriculture, electricity, transport, swamps (Al-Ahwar), drinking, healthy water, industrial needs, and others.
 
-- Develop a central plan that specifies the share of water 3. needed  in  all  areas  of  arable  land.  Moreover,  specify agricultural requirements such as machines, ratified seeds, and fertilizers. Agricultural staff should perform monitoring and evaluation to  guarantee  appropriate  implementation hold rural inhabitants responsible for adhering to the.
+3. Develop a central plan that specifies the share of water needed in all areas of arable land. Moreover, specify agricultural requirements such as machines, ratified seeds, and fertilizers. Agricultural staff should perform monitoring and evaluation to guarantee appropriate implementation hold rural inhabitants responsible for adhering to the.
 
-- Applying  the  principles  of  integrated  management  of 4. water resources in coordination with all parties responsible for  the  ideal  use  of  water  resources  and  maintaining them,  including  the  treatment  of  sewage  and  industrial
+4. Applying the principles of integrated management of water resources in coordination with all parties responsible for the ideal use of water resources and maintaining them, including the treatment of sewage and industrial wastewater, not letting it go into the rivers before treating it, and studying the possibility of reusing it.
 
-- wastewater, not letting it go into the rivers before treating it, and studying the possibility of reusing it.
+5. Activating the projects of dams centrally.
 
-- Activating the projects of dams centrally. 5.
+6. Completing the connection of the main canals with the main outlet to rid rivers and canals from local pollution.
 
-- Completing  the  connection  of  the  main  canals  with  the 6. main outlet to rid rivers and canals from local pollution.
+7. Supporting and expanding agricultural guidance, spreading the application of agricultural researchers, , and expanding guidance projects so that users of water are aware of the importance of the wise use of water, ideally with the participation of the concerned ministries.
 
-- Supporting and expanding agricultural guidance, 7. spreading the application of agricultural researchers, , and expanding guidance projects so that users of water are aware of the importance of the wise use of water, ideally with the participation of the concerned ministries.
+8. Strategically invest in underground water dedicating required sums to buy digging equipment and holding the Ministry of Water Resources solely responsible for those resources. Random expansion in digging wells should be limited by preventing private companies, and even the government companies under the control of the state's organizations, from investment except unless they have obtained approval from the Ministry of Water Resources.
 
-- Strategically invest in underground water dedicating 8. required sums to buy digging equipment and holding the Ministry of Water Resources solely responsible for those resources. Random expansion in digging wells should be limited  by  preventing  private  companies,  and  even  the government  companies  under  the  control  of  the  state's organizations,  from  investment  except  unless  they  have obtained approval from the Ministry of Water Resources.
+9. Taking the limited water resources into consideration in the process of setting future agricultural policies by expanding the application of modern irrigation methods and encouraging the planting substitute crops that consume less water and can resist salinization and drought.
 
-- Taking the limited water resources into consideration in the 9. process of setting future agricultural policies by expanding the application of modern irrigation methods and encouraging the planting substitute crops that consume less water and can resist salinization and drought.
+10. Building on the suggestions made by Turkey during water resource negotiations concerning the ideal and rational of water. This calls for focusing on the productivity of the single donom, and it is necessary for the Ministry of Agriculture to take steps to qualify the capabilities of those who utilize the land. This would be done through increasing the production unit of the area of the crops by giving technical support, facilitating the process of obtaining the components of production like fertilizers, machines and fuel for agricultural processes, fighting the forests and the increase of buying prices of crops as a factor that participates in making peasants interested in taking care of planting their lands.
 
-- Building on the suggestions made by Turkey during water resource  negotiations  concerning  the  ideal  and  rational of  water.  This  calls  for  focusing  on  the  productivity  of the  single  donom,  and  it  is  necessary  for  the  Ministry of  Agriculture  to  take  steps  to  qualify  the  capabilities  of those who utilize the land. This would be done through increasing  the  production  unit  of  the  area  of  the  crops by  giving  technical  support,  facilitating  the  process  of obtaining  the  components  of  production  like  fertilizers, machines and fuel for agricultural processes, fighting the forests  and  the  increase  of  buying  prices  of  crops  as  a factor  that  participates  in  making  peasants  interested  in taking care of planting their lands.
+11. Establishing an information bank in the field of managing water and irrigation to use in the processes of planning, managing the demand for water for different purposes, developing the apparatuses of measuring wastes and levels and methods of collecting hydrological and climate methods about the basins of the Tigris and Euphrates, and documenting them.
 
-- Establishing an information bank in the field of managing water and irrigation to use in the processes of planning, managing  the  demand  for  water  for  different  purposes, developing  the  apparatuses  of  measuring  wastes  and levels and methods of collecting hydrological and climate methods  about  the  basins  of  the  Tigris  and  Euphrates, and documenting them.
+12. Continuing to maintain dams and reservoirs and solving problems related to the ideal operation of water resources; building new dams to store quantities of water in suitable areas, with priority given to implementing projects that have complete feasibility studies and available financing.
 
-- Continuing to maintain dams and reservoirs and solving problems related to the ideal operation of water resources; building new dams to store quantities of water in suitable areas,  with  priority  given  to  implementing  projects  that have complete feasibility studies and available financing.
+13. Establishing a national project that deals with studies on international climate change, its effects on the water that comes into Iraq, and the future living conditions in light of expected scarcity.
 
-- Establishing a national project that deals with studies on international climate change, its effects on the water that comes into Iraq, and the future living conditions in light of expected scarcity.
-
-- Directing research studies in the concerned ministries and universities  toward  finding  the  necessary  methods  and applications to increase the standard of irrigation; reduce
+14. Directing research studies in the concerned ministries and universities toward finding the necessary methods and applications to increase the standard of irrigation; reduce
 
 74
 
@@ -2797,9 +3063,9 @@ National Development Plan for the Years 2010-2014
 
 waste;,  use  untraditional  water  resources  like  sewage and agricultural wastewater; invest in irrigated agriculture; and apply the research results at the level of pioneering projects  to  make  them  the  initiative  to  be  used  by  all water consumers. This requires returning to establishing research centers.
 
-- Considering water an important economic resource and setting a suitable price for it to maintain this wealth.
+15. Considering water an important economic resource and setting a suitable price for it to maintain this wealth.
 
-- Giving  the  maintenance  of  projects,  irrigation  networks, canals, and reclaimed lands top priority and returning to the method of managing and operating them by establishing independent authorized administrations, as it was in the Law of The Agricultural Interests.
+16. Giving the maintenance of projects, irrigation networks, canals, and reclaimed lands top priority and returning to the method of managing and operating them by establishing independent authorized administrations, as it was in the Law of The Agricultural Interests.
 
 #### 5.11.4 Rural Development
 
@@ -2819,25 +3085,25 @@ Capitalizing on the comparative advantage of each agricultural area,  starting  
 
 #### 5.11.8 Legal Reformation of the Agricultural Sector
 
-- Issuing special legislation for managing water through the 1. participation  of  governmental  parties  and  beneficiaries (societies of water users).
+1. Issuing special legislation for managing water through the participation of governmental parties and beneficiaries (societies of water users).
 
-- Limiting the holding of arable lands to two main types: 2.
+2. Limiting the holding of arable lands to two main types:
 
 - Freehold of individuals or groups
 
 - State-owned land.
 
-- Reviewing all laws and decisions that govern agricultural 3. relationships and preparing one comprehensive law with the new reality.
+3. Reviewing all laws and decisions that govern agricultural relationships and preparing one comprehensive law with the new reality.
 
-- Taking  care  of  the  mutual  ownership  issue  and  the 4. problems  of  removing  joint  ownership  of  arable  land  to dividing arable lands and fields.
+4. Taking care of the mutual ownership issue and the problems of removing joint ownership of arable land to dividing arable lands and fields.
 
-- Amending the Law of Agricultural Reformation 117 of 1970 5. (Article 4), paragraphs 3 and 4, to allow a rural inhabitant to benefit from owning the land distributed to him, including the right to waiver it to others more capable with expertise in the agricultural sector.
+5. Amending the Law of Agricultural Reformation 117 of 1970 (Article 4), paragraphs 3 and 4, to allow a rural inhabitant to benefit from owning the land distributed to him, including the right to waiver it to others more capable with expertise in the agricultural sector.
 
-- Applying the amended Law 35 of 1983 on the large areas 6. only.
+6. Applying the amended Law 35 of 1983 on the large areas only.
 
-- Studying  the  issue  of  letting  those  who  own  lands  to 7. repossess them from actual investors.
+7. Studying the issue of letting those who own lands to repossess them from actual investors.
 
-- Reviewing  the  inheritance  law  so  that  it  won't  lead  to 8. dividing ownerships in the future but without damaging the legal capacity of inheritance.
+8. Reviewing the inheritance law so that it won't lead to dividing ownerships in the future but without damaging the legal capacity of inheritance.
 
 National Development Plan for the Years 2010-2014 75
 
@@ -2873,13 +3139,7 @@ In  addition  to  the  aforementioned,  the  importance  of  widely investing  i
 
 Due to the policies of consecutive governments, less attention was given to the field of conversion. In the 1950s, based upon the  recommendations  of  foreign  experts  that  development policies  in  Iraq  focus  on  crude  oil  resources,  construction  of basic  infrastructure,  and  the  agricultural  sector  as  a  source of  primary  and  food  products,  little  importance  was  given by  the  development  program  to  the  conversion  industry. The  only  exceptions  were  the  industries  built  by  the  private sector. However, these were also linked to primary agricultural products,  such  as  the  textile,  sugar,  dairy  and  construction material industries.
 
-Following  the  change  in  the  political  system  in  Iraq  from  a monarchy  to  a  republic  in  1958,  greater  attention  was  paid to  the  conversion  industry.  In  the  1960s,  development  plans focused  on  creating  conversion  industries  in  a  number  of industrial  avenues  such  as  the  glass  and  ceramics,  refining,
-
-________________
-
-> ² msf = million square feet
-
-paper, and mechanical industries, as well as traditional industries that existed in Iraq. These were based upon the premise that the conversion industry is a central pillar for building a strong material foundation for the economy and becoming liberated from economic subservience to industrial nations.
+Following the change in the political system in Iraq from a monarchy to a republic in 1958, greater attention was paid to the conversion industry. In the 1960s, development plans focused on creating conversion industries in a number of industrial avenues such as the glass and ceramics, refining, paper, and mechanical industries, as well as traditional industries that existed in Iraq. These were based upon the premise that the conversion industry is a central pillar for building a strong material foundation for the economy and becoming liberated from economic subservience to industrial nations.
 
 The economic plans for this phase considered that establishing these industries and spreading them throughout the provinces would  stop  mass  rural-to-urban  migration,  particularly to Baghdad, which had exploded during that period. This policy was intensified in the 1970s and 1980s whereby it was greatly expanded  into  many  industrial,  engineering,  mineral,  heavy, chemical  and  petrochemical  industries,  as  well  as  traditional industries  prevalent  in  Iraq  (food,  textiles,  and  construction) even  though  some  of  those  industries  had  no  comparative advantage at the regional or international level.
 
@@ -2887,7 +3147,11 @@ In the 1980s and 1990s, military industries expanded, as well as those that were
 
 In electric energy, development policies in the 1970s and 1980s focused on this sector because of its importance to prosperity, the powering of production machinery, and economic activity in general. In the 1980s, it was planned that power generation would  reach  20  thousand  megawatts.  A  number  of  thermal energy  stations  were  built  with  a  capacity  of  up  to  1,200 megawatts  per  station,  in  addition  to  the  significant  energy generation capacity from gas and hydropower plants. In other words, the electricity generation policy relied on the principle of making multiple generation choices available. It also promoted the creation of a national transportation and  distribution network,  particularly  in  the  1980s,  and  the  proliferation  of thermal energy stations that were planned for throughout the different Iraqi provinces to achieve economies of scale in energy transportation  and  to  reduce  waste  in  energy  transportation and distribution networks. There were also plans to connect with neighboring countries to achieve sustainability in electric energy generation for consumers and economic activities.
 
-Pursuant  to  the  pre-2003  ruling  regime's  orientations,  the public  sector  was  in  complete  control  of  the  oil  and  electric energy  sectors.  The  private  sector's  role  was  not  worthy  of mention.  The  private  industrial  sector  did  have  a  clear  role in  the conversion industry, as its share exceeded 50 percent of the added value of conversion industry activity by the late 1970s. The conversion industry developed in the public sector in  the 1970s and 1980s, and the private sector was given a role in small- and medium-sized industries. In addition, some laws  supporting  the  activities  of  both  the  private  and  mixed sectors  were  promulgated.  These  provided  many  incentives and  advantages  to  the  various  branches  of  the  conversion industry. The most recent of these laws was Law Number 20 of 1998, titled the Industrial Investment Law for the Private and Mixed Sectors, which enabled the private sector to establish approximately  40,000  small-  and  medium-sized  industrial projects.
+Pursuant to the pre-2003 ruling regime's orientations, the public sector was in complete control of the oil and electric energy sectors. The private sector's role was not worthy of mention. The private industrial sector did have a clear role in the conversion industry, as its share exceeded 50 percent of the added value of conversion industry activity by the late 1970s. The conversion industry developed in the public sector
+
+________________
+
+> ² msf = million square feet
 
 78
 
@@ -2899,7 +3163,9 @@ National Development Plan for the Years 2010-2014
 
 6
 
-Like  other  sectors,  the  industrial  sector  greatly  deteriorated and its contribution to the gross domestic product declined, particularly  in  the  areas  of  electrical  energy  activities  and conversion  industries,  because  of  consecutive  wars  and  the economic  sanctions  imposed  on  Iraq.  This  was  particularly the case during the 2003 war. Almost all large factories were destroyed, especially those of a military nature. Electric energy generation stations  were  also  destroyed.  In  addition,  many  public companies,  production  laboratories,  and  energy  production plants  were  looted  and  vandalized.  The  subsequent  lack  of security exacerbated the problem and halted the operations of the private industrial sector. This, in turn, significantly reduced its contribution to the gross domestic product to no more than 3.9 percent in 2008.
+in the 1970s and 1980s, and the private sector was given a role in small- and medium-sized industries. In addition, some laws supporting the activities of both the private and mixed sectors were promulgated. These provided many incentives and advantages to the various branches of the conversion industry. The most recent of these laws was Law Number 20 of 1998, titled the Industrial Investment Law for the Private and Mixed Sectors, which enabled the private sector to establish approximately 40,000 small- and medium-sized industrial projects.
+
+Like other sectors, the industrial sector greatly deteriorated and its contribution to the gross domestic product declined, particularly in the areas of electrical energy activities and conversion industries, because of consecutive wars and the economic sanctions imposed on Iraq. This was particularly the case during the 2003 war. Almost all large factories were destroyed, especially those of a military nature. Electric energy generation stations were also destroyed. In addition, many public companies, production laboratories, and energy production plants were looted and vandalized. The subsequent lack of security exacerbated the problem and halted the operations of the private industrial sector. This, in turn, significantly reduced its contribution to the gross domestic product to no more than 3.9 percent in 2008.
 
 After 2003, and due to the fragility of the security and political situation,  production  declined  to  record  lows  in  the  oil  and electricity  production  sectors.  Further,  energy  policy  focused on  increasing  oil  and  gas  reserves,  expanding  production and exportation of crude oil, improving its quality, and inviting foreign  companies  to  participate  in  developing  oil  and  gas fields pursuant to investment agreements and joint production contracts.  This  policy  applied  to  all  energy  and  conversion industry  branches  in  general.  In  electricity,  the  direction  was toward  building  gas  generating  units  to  increase  production capacity, improve the transport network and control centers, and increase production and transport network reliability so as to achieve electricity connectivity with the transport networks in neighboring countries.
 
@@ -2926,11 +3192,11 @@ Industry and Energy
 Table 31 | Domestic Production and Output for Industrial Activity (Oil, Gas, Electricity, Conversion and Extraction industries)
 --- | --- | --- | --- | --- | --- | --- | ---
 Year | Production | Gross domestic product at current prices | Growth rate compared to 2004 | Gross domestic product at 1988 prices | Growth rate compared to 2004 | Worker compensation | Surplus from operations and outflows
-2004 | 35,936,966.4 | 32,235,265.2 | 21,227.7 | 844,546.3 | 31,315,837.1
+2004 | 35,936,966.4 | 32,235,265.2 |  | 21,227.7 |  | 844,546.3 | 31,315,837.1
 2005 | 48,565,655.3 | 44,088,536.2 | 36.8 | 19,843.1 | 6.5- | 919,428.1 | 42,983,450.4
 2006 | 61,163,230.4 | 55,283,502.8 | 71.5 | 21,003.2 | 1.1 - | 1,105,085.8 | 53,689,192.2
-2007 | 61,856,655* | 91.8 | 21,905* | 3.2
-2008 | 178.6 | 24,749.1* | 16.6
+2007 |  | 61,856,655* | 91.8 | 21,905* | 3.2 |  | 
+2008 |  |  | 178.6 | 24,749.1* | 16.6 |  | 
 
 > Source: Central Statistics
 
@@ -3027,49 +3293,47 @@ In  gas  activity,  confirmed  reserves  are  approximately  3,100 billion squar
 
 The oil and gas activity plays a vital role in overall economic performance in Iraq as it:
 
-- Funds 95 percent of the nation's federal budget 1.
+1. Funds 95 percent of the nation's federal budget
 
-- Contributed 27 percent of gross fixed capital formation in 2. 2007 at 1988 prices
+2. Contributed 27 percent of gross fixed capital formation in 2007 at 1988 prices
 
-- Helped create 55.5 percent of the gross domestic product 3. in 2008 at current prices
+3. Helped create 55.5 percent of the gross domestic product in 2008 at current prices
 
-- Contributed  by  generating  more  than  95  percent  of  the 4. total value added at current prices in the industrial sector in 2008
+4. Contributed by generating more than 95 percent of the total value added at current prices in the industrial sector in 2008
 
-- Employs more than 1,000 employees 5.
+5. Employs more than 1,000 employees
 
-- Contributes to the production of 76 percent of Iraq's total 6. need for oil derivatives (benzene, gas oil, white oil), which amounts  to  4.467  square  meters/day,  and  68  percent of liquid gas needs. Inability to meet the overall need for the aforementioned products has led to no construction of high-capacity oil refineries in the past four years. All oil
-
-refineries  in  the  country  are  now  old,  which  affects  their production capacity.
+6. Contributes to the production of 76 percent of Iraq's total need for oil derivatives (benzene, gas oil, white oil), which amounts to 4.467 square meters/day, and 68 percent of liquid gas needs. Inability to meet the overall need for the aforementioned products has led to no construction of high-capacity oil refineries in the past four years. All oil refineries in the country are now old, which affects their production capacity.
 
 ##### Potential of Oil and Gas
 
-- There are huge crude oil reserves confirmed in Iraq, putting 1. it in third place worldwide.
+1. There are huge crude oil reserves confirmed in Iraq, putting it in third place worldwide.
 
-- There are large gas reserves. 2.
+2. There are large gas reserves.
 
-- There is a competitive advantage in the crude oil activity 3. due to the low extraction cost as compared to other oilproducing countries.
+3. There is a competitive advantage in the crude oil activity due to the low extraction cost as compared to other oil-producing countries.
 
-- There is a large unmet need for oil products locally. 4.
+4. There is a large unmet need for oil products locally.
 
-- The country has approximately 80 years of experience in 5. oil operations.
+5. The country has approximately 80 years of experience in oil operations.
 
-- There is basic infrastructure and the potential to develop 6. it, particularly in the area of ports specializing in transport of crude oil.
+6. There is basic infrastructure and the potential to develop it, particularly in the area of ports specializing in transport of crude oil.
 
 ##### Challenges
 
-- The  technology  in  use  in  some  oil  facilities  is  outdated, 1. particularly the technology for extraction and isolation of the accompanying gas.
+1. The technology in use in some oil facilities is outdated, particularly the technology for extraction and isolation of the accompanying gas.
 
-- There is a shortage of experienced, qualified, and 2. specialized personnel.
+2. There is a shortage of experienced, qualified, and specialized personnel.
 
-- There  is  a  scarcity  in  the  financial  allocations  necessary 3. to achieve objectives. In the years 2007-2009, investment allocations  did  not  exceed  35  percent  of  the  needs estimated for the years 2007-2010  in the national strategy.
+3. There is a scarcity in the financial allocations necessary to achieve objectives. In the years 2007-2009, investment allocations did not exceed 35 percent of the needs estimated for the years 2007-2010 in the national strategy.
 
-- Transport pipeline networks, particularly the strategic lines, 4. are old.
+4. Transport pipeline networks, particularly the strategic lines, are old.
 
-- There is an insufficient number of docks in Iraqi ports from 5. which to export in order to handle any developments in production and exportation.
+5. There is an insufficient number of docks in Iraqi ports from which to export in order to handle any developments in production and exportation.
 
-- It  is  not possible for old refineries to meet environmental 6. regulations. Further, continued burning of gas at high rates negatively affects the environment.
+6. It is not possible for old refineries to meet environmental regulations. Further, continued burning of gas at high rates negatively affects the environment.
 
-- There continue to be subsidies for oil products, despite 7. their reduction in recent years. This affects the efficiency with which refining and distilling activities are performed.
+7. There continue to be subsidies for oil products, despite their reduction in recent years. This affects the efficiency with which refining and distilling activities are performed.
 
 ##### Vision
 
@@ -3077,7 +3341,7 @@ To increase production capacity in the fields of oil,  gas,  and oil  products  
 
 ##### Objectives
 
-- Increasing the production of crude oil from 2.285 million 1. barrels/day  in  2008  to  4.1  million  barrels/day  in  2014.
+1. Increasing the production of crude oil from 2.285 million barrels/day in 2008 to 4.1 million barrels/day in 2014.
 
 National Development Plan for the Years 2010-2014 81
 
@@ -3091,49 +3355,49 @@ Industry and Energy
 
 This would be achieved by opening a number of fields to foreign investment in addition to national effort.
 
-- Increasing the quantity of exported crude oil from its current 2. level of 1.894 million barrels/day in 2008 to approximately 3.1 million barrels/day in 2014.
+2. Increasing the quantity of exported crude oil from its current level of 1.894 million barrels/day in 2008 to approximately 3.1 million barrels/day in 2014.
 
-- Increasing the established oil and gas reserves. 3.
+3. Increasing the established oil and gas reserves.
 
-- Gradually  increasing  storage  capacity  for  crude  oil  in 4. export depots until a capacity equivalent to 5 days worth of production is reached.
+4. Gradually increasing storage capacity for crude oil in export depots until a capacity equivalent to 5 days worth of production is reached.
 
-- Increasing the production of dry gas from its current rate 5. of  approximately  800  million  square  feet/day  in  2008  to approximately 2,200 million square feet/day in 2014, using the production of the Akaz and Mansouria fields, as well as the accompanying burned gas.
+5. Increasing the production of dry gas from its current rate of approximately 800 million square feet/day in 2008 to approximately 2,200 million square feet/day in 2014, using the production of the Akaz and Mansouria fields, as well as the accompanying burned gas.
 
-- Increasing  the  current  refining  capacity  of  0.580  million 6. barrels/day from the large refineries to approximately 1.450 million barrels/day by 2016 by building new refineries in a number of cities having a competitive edge in that field.
+6. Increasing the current refining capacity of 0.580 million barrels/day from the large refineries to approximately 1.450 million barrels/day by 2016 by building new refineries in a number of cities having a competitive edge in that field.
 
-- Supplementing  the  storage  capacity  for  oil  products  to 7. ensure attainment of stock equivalent to 40 days worth of consumption of benzene, gas oil, and liquid gas, and 100 days worth of consumption of white oil.
+7. Supplementing the storage capacity for oil products to ensure attainment of stock equivalent to 40 days worth of consumption of benzene, gas oil, and liquid gas, and 100 days worth of consumption of white oil.
 
-- Reducing  the  quantity  of  burned  gas  to  150  million 8. square feet/day instead of the 700 million square feet/day throughout 2008.
+8. Reducing the quantity of burned gas to 150 million square feet/day instead of the 700 million square feet/day throughout 2008.
 
-- Protecting the environment from pollution and addressing 9. the  environmental  problems  resulting  from  oil  and  gas activities.
+9. Protecting the environment from pollution and addressing the environmental problems resulting from oil and gas activities.
 
 ##### Means for Achieving the Objectives
 
 For oil production to reach 4.5 million barrels/day in 2014 and 6 million barrels/day in subsequent years, the following must occur:
 
-- Developing current and discovered oil fields and offering 1. of a portion of these fields to foreign investment to achieve this plan's objectives
+1. Developing current and discovered oil fields and offering of a portion of these fields to foreign investment to achieve this plan's objectives
 
-- Restructuring of public service companies in accordance 2. with the market economy approach
+2. Restructuring of public service companies in accordance with the market economy approach
 
-- Adhering to international standards in the fields of 3. health,  safety,  and  the  environment  (HSE)  by  adopting internationally  accepted  systems,  including  environmentally friendly technologies
+3. Adhering to international standards in the fields of health, safety, and the environment (HSE) by adopting internationally accepted systems, including environmentally friendly technologies
 
-- Putting in place the systems and mechanisms necessary 4. to guide oil product consumption
+4. Putting in place the systems and mechanisms necessary to guide oil product consumption
 
-- Constructing  reservoir  support  (water  injection)  projects 5. for oil fields, their consideration as priorities, and location of alternatives to river water
+5. Constructing reservoir support (water injection) projects for oil fields, their consideration as priorities, and location of alternatives to river water
 
-- Developing current ports and constructing new ports that 6. comply with environmental and safety requirements and have  a  capacity  large  enough  to  absorb  exportation  of specified quantities
+6. Developing current ports and constructing new ports that comply with environmental and safety requirements and have a capacity large enough to absorb exportation of specified quantities
 
-- Digging and repair of development wells, and construction of 7. the necessary production facilities and supporting projects
+7. Digging and repair of development wells, and construction of the necessary production facilities and supporting projects
 
-- Continuing  implementation  of  suitable  modern  technologies 8. in various oil and gas activities, including environmentally friendly technologies
+8. Continuing implementation of suitable modern technologies in various oil and gas activities, including environmentally friendly technologies
 
-- Providing  an  important  role  to  the  private  sector  in  the 9. field of oil services and privatizing the company in charge of oil  projects, oil  product distribution, construction, and maintenance work
+9. Providing an important role to the private sector in the field of oil services and privatizing the company in charge of oil projects, oil product distribution, construction, and maintenance work
 
-- Controlling the type of oil exported and consumed locally by  adopting  international  standards  (ISO)  as  well  as accurately measuring quantities for accounting purposes
+10. Controlling the type of oil exported and consumed locally by adopting international standards (ISO) as well as accurately measuring quantities for accounting purposes
 
-- Increasing environmental awareness; building an 11. information database  on  the  effects of oil pollution; establishing  a  comprehensive  system  for  environmental tracking  and  monitoring  in  this  activity;  and  treating  the various negative environmental effects existing today
+11. Increasing environmental awareness; building an information database on the effects of oil pollution; establishing a comprehensive system for environmental tracking and monitoring in this activity; and treating the various negative environmental effects existing today
 
-- Developing and building capabilities.
+12. Developing and building capabilities.
 
 #### 6.2.2 Electricity Activity
 
@@ -3179,7 +3443,7 @@ Required energy generation (megawatts)
 
 0
 
-1000
+10000
 
 4526
 
@@ -3277,13 +3541,13 @@ Need estimate
 
 6/19/2006
 
-7/19/2006
+9/17/2006
 
 12/16/2006
 
 3/16/2007
 
-3/16/2007
+6/14/2007
 
 9/12/2007
 
@@ -3293,7 +3557,7 @@ Need estimate
 
 6/8/2008
 
-9/6/2009
+9/6/2008
 
 1/1/2004
 
@@ -3317,13 +3581,13 @@ Need estimate
 
 6/19/2006
 
-7/19/2006
+9/17/2006
 
 12/16/2006
 
 3/16/2007
 
-3/16/2007
+6/14/2007
 
 9/12/2007
 
@@ -3337,55 +3601,55 @@ Schedule of Production and Need 8/13/2008
 
 Source: Ministry of Electricity
 
-In light of the above, the state is seeking to plan to add new production capacity to the electrical system by increasing the number of energy generation units (fast installation) in terms of gas and diesel stations. This planning is anticipated to occur in  2009  for  a  capacity  of  approximately  1,000  megawatts. Implementation is planned for the coming years; contracts have been signed for equipping these stations with the American GE Company and the German Simmons Company, both of which specialize in this type of gas production station. Electricity and water activities have contributed the following:
+In light of the above, the state is seeking to plan to add new production capacity to the electrical system by increasing the number of energy generation units (fast installation) in terms of gas and diesel stations. This planning is anticipated to occur in 2009 for a capacity of approximately 1,000 megawatts. Implementation is planned for the coming years; contracts have been signed for equipping these stations with the American GE Company and the German Simmons Company, both of which specialize in this type of gas production station. Electricity and water activities have contributed the following:
 
-- 26.5  percent  of  gross  fixed  capital  formation  in  2007 1. at  1988  prices.  This  was  the  result  of  the  priority  given to  redevelopment  and  rehabilitation  of  this  activity  by allocating large sums of investments to it.
+1. 26.5 percent of gross fixed capital formation in 2007 at 1988 prices. This was the result of the priority given to redevelopment and rehabilitation of this activity by allocating large sums of investments to it.
 
-- Creation of 0.8 percent of the gross domestic product at 2. current prices in 2008
+2. Creation of 0.8 percent of the gross domestic product at current prices in 2008
 
-- 1.5 percent of the total value added of the industrial sector 3. in 2008 at current prices
+3. 1.5 percent of the total value added of the industrial sector in 2008 at current prices
 
-- Employment of more than 94,000 workers. 4.
+4. Employment of more than 94,000 workers.
 
 ##### Potential of Electrical Energy
 
-- The  availability  of  different  types  of  fuel  necessary  to 1. operate the different types of generation stations
+1. The availability of different types of fuel necessary to operate the different types of generation stations
 
-- The existence of large investment opportunities to cover 2. demand for electricity for various types of consumption
+2. The existence of large investment opportunities to cover demand for electricity for various types of consumption
 
-- The  possibility  of  using  solar  energy  in  electrical  power 3. generation.
+3. The possibility of using solar energy in electrical power generation.
 
 ##### Challenges
 
-- The  antiquity of generation  units  and  transport  and 1. distribution networks
+1. The antiquity of generation units and transport and distribution networks
 
-- The lack of sufficient quantity and type of fuel to operate 2. consistently
+2. The lack of sufficient quantity and type of fuel to operate consistently
 
-- The scarcity of water and its effects on operating 3. hydroelectric stations
+3. The scarcity of water and its effects on operating hydroelectric stations
 
-- The  difficulty in meeting  environmental  requirements, 4. particularly in old projects
+4. The difficulty in meeting environmental requirements, particularly in old projects
 
-- The scarcity of trained labor 5.
+5. The scarcity of trained labor
 
-- The unstable security situation 6.
+6. The unstable security situation
 
-- The difficulty of meeting financial obligations, which hinders 7. implementation of investment plans
+7. The difficulty of meeting financial obligations, which hinders implementation of investment plans
 
-- Subsidized pricing, which creates wasteful consumption 8. of electricity.
+8. Subsidized pricing, which creates wasteful consumption of electricity.
 
 ##### Vision
 
-To  enhance  the  electrical  system  and  its  three  activities (production, transport, and distribution), close the gap between electrical  energy  production  and  demand,  and  provide  all consumer types with consistent energy.
+To enhance the electrical system and its three activities (production, transport, and distribution), close the gap between electrical energy production and demand, and provide all consumer types with consistent energy.
 
 ##### Objectives
 
-- To  increase  production  capacity  in  the  system  so  as  to 1. meet  the  increasing  demand  for  electrical  energy  by constructing  additional  units  at  gas,  steam,  and  diesel production stations
+1. To increase production capacity in the system so as to meet the increasing demand for electrical energy by constructing additional units at gas, steam, and diesel production stations
 
-- To enhance Iraq's electrical energy consumption from an 2. average of 1,100 kilowatts to 3,700 kilowatts
+2. To enhance Iraq's electrical energy consumption from an average of 1,100 kilowatts to 3,700 kilowatts
 
-- To secure a reserve to face increasing demand for energy in the 3. future, estimated to increase at a rate of 10 percent annually
+3. To secure a reserve to face increasing demand for energy in the future, estimated to increase at a rate of 10 percent annually
 
-- To  secure  a  reserve  in  generating  capabilities  ranging 4. between 5 percent and 10 percent
+4. To secure a reserve in generating capabilities ranging between 5 percent and 10 percent
 
 National Development Plan for the Years 2010-2014 83
 
@@ -3397,35 +3661,35 @@ National Development Plan for the Years 2010-2014 83
 
 Industry and Energy
 
-- To  improve  the  performance  of  the  electrical  system 5. and  stop  its  decline  by  performing  repair  works  and comprehensive  (production,  transport,  and  distribution) improvements
+5. To improve the performance of the electrical system and stop its decline by performing repair works and comprehensive (production, transport, and distribution) improvements
 
-- To improve the quality of services to all types of consumers 6. (domestic, commercial, industrial, agricultural, and government),  and  to  improve  the  speed  of  connecting service in new residential neighborhoods.
+6. To improve the quality of services to all types of consumers (domestic, commercial, industrial, agricultural, and government), and to improve the speed of connecting service in new residential neighborhoods.
 
-- To stabilize the electric current and increase reliability. 7.
+7. To stabilize the electric current and increase reliability.
 
-- To  develop  and  build  upon  employee  abilities,  including 8. developing  abilities  in  the  environmental  field,  thereby helping  realize  the  principles  of  more  environmentally friendly production
+8. To develop and build upon employee abilities, including developing abilities in the environmental field, thereby helping realize the principles of more environmentally friendly production
 
-- To  reduce  environmentally  harmful  gas  emissions  and 9. noise  pollution  in  existing  and  new  projects,  and  use environmentally  cleaner  technologies  in  generation  and transport of energy.
+9. To reduce environmentally harmful gas emissions and noise pollution in existing and new projects, and use environmentally cleaner technologies in generation and transport of energy.
 
 ##### Means for Achieving the Objectives
 
-- Focusing on increasing production by building new stations 1. based on sound economic principles
+1. Focusing on increasing production by building new stations based on sound economic principles
 
-- Repairing existing stations, in addition to developing and 2. resolving organizations' problems by conducting economic and technical studies
+2. Repairing existing stations, in addition to developing and resolving organizations' problems by conducting economic and technical studies
 
-- Expanding and developing transport networks and 3. resolving bottlenecks
+3. Expanding and developing transport networks and resolving bottlenecks
 
-- Encouraging  implementation  of  Investment  Law  No.  13 4. of  2006  to  coordinate  work  with  foreign  and  domestic investors  and  coordinate  work  with  national  investment associations in the provinces
+4. Encouraging implementation of Investment Law No. 13 of 2006 to coordinate work with foreign and domestic investors and coordinate work with national investment associations in the provinces
 
-- Continuing to draft guidance policies to organize demand 5. for energy by issuing new instructions as regards energy usage rates, while considering the needs of marginalized and low income classes
+5. Continuing to draft guidance policies to organize demand for energy by issuing new instructions as regards energy usage rates, while considering the needs of marginalized and low income classes
 
-- Continuing the project of electrical energy interconnection 6. with neighboring countries
+6. Continuing the project of electrical energy interconnection with neighboring countries
 
-- Expanding  use  of  alternative  and  renewable  energy, 7. including solar energy
+7. Expanding use of alternative and renewable energy, including solar energy
 
-- Complying  with  international  standards  in  the  fields  of 8. health,  safety,  and  the  environment  (HSE)  by  following internationally approved regulations
+8. Complying with international standards in the fields of health, safety, and the environment (HSE) by following internationally approved regulations
 
-- Setting  strict  monitoring  mechanisms  with  respect  to 9. household, consumer, industrial, and imported appliances so as to ensure high and economic efficiency in energy consumption.
+9. Setting strict monitoring mechanisms with respect to household, consumer, industrial, and imported appliances so as to ensure high and economic efficiency in energy consumption.
 
 #### 6.2.3 Activity of Conversion and Extractive Industries (Excluding Oil)
 
@@ -3439,13 +3703,13 @@ As regards its contribution to domestic output in the field of industrial activi
 
 There  are  many  reasons  for  the  decline  in  the  contribution of  conversion  and  extractive  industries  (excluding  oil).  They include the decline in production capacities due to the security situation; the existence of an atmosphere conducive to flooding the  market  with  cheap  products;  failure  to  promulgate  laws governing  industrial  activities  in  light  of  new  developments; scarcity  of  equipment  necessary  to  generate  electrical  and gas  energy;  exposure  of  public  sector  production  facilities to  destruction,  vandalism,  and  theft;  shortage  in  the  funding necessary  to  repair  them;  and  the  antiquity  of  industrial company production lines. The decline was also caused by the increase in the number of workers since 2002, which resulted in inflated worker numbers and an increase in inefficient labor. All of these factors have had a negative impact on production costs and made it difficult to compete. It is worth noting that many private sector establishments, nearly 70 percent, have shut down operation for many reasons, most important among them the security situation and the inability  to  compete  with imports. This activity has contributed to the following:
 
-- 1.3 percent of gross capital formation in 2007 at 1988 price 1.
+1. 1.3 percent of gross capital formation in 2007 at 1988 price
 
-- Creation of 1.7 percent of the gross domestic product in 2. 2008 when measured at current price
+2. Creation of 1.7 percent of the gross domestic product in 2008 when measured at current price
 
-- 3 percent of the total added value in the industrial sector 3. for 2008 at current price
+3. 3 percent of the total added value in the industrial sector for 2008 at current price
 
-- Employment of more than 193,000 employees. 4.
+4. Employment of more than 193,000 employees.
 
 This activity contributes to producing 10 percent to 40 percent of Iraq's total need for conversion industries. In the chemical industry,  this  sector  produces  approximately  40  percent  of actual need; 30 percent of the need for textile industries; and 12 percent of the need for construction industries.
 
@@ -3467,31 +3731,31 @@ National Development Plan for the Years 2010-2014
 
 6
 
-- The  abundance  of  natural  resources  in  most  of  Iraq's 1. provinces
+1. The abundance of natural resources in most of Iraq's provinces
 
-- The abundance of domestic markets for the conversion 2. industry
+2. The abundance of domestic markets for the conversion industry
 
-- The abundance of the requisite skilled labor 3.
+3. The abundance of the requisite skilled labor
 
-- The country's growing need for different industries, 4. particularly the construction industry, in the next phase of rebuilding Iraq.
+4. The country's growing need for different industries, particularly the construction industry, in the next phase of rebuilding Iraq.
 
 ##### Challenges
 
-- The difficulty of competing in a market flooded with cheap, 1. low-quality products
+1. The difficulty of competing in a market flooded with cheap, low-quality products
 
-- The  need  to  amend  current  laws  and  promulgate  new 2. ones that serve the industrial sector
+2. The need to amend current laws and promulgate new ones that serve the industrial sector
 
-- The  need  to  activate  the  Central  Agency's  role  in  the 3. areas of evaluation and quality control, in its capacity as a regulatory agency, to control quality of local and imported products
+3. The need to activate the Central Agency's role in the areas of evaluation and quality control, in its capacity as a regulatory agency, to control quality of local and imported products
 
-- The need to reform the banking system 4.
+4. The need to reform the banking system
 
-- The  need  to  draft  central  regulations  to  address  the 5. inflated  number  of  employees  working  in  public  sector companies
+5. The need to draft central regulations to address the inflated number of employees working in public sector companies
 
-- The antiquity of production lines and the non-conformity 6. of  current  projects  to  environmental  requirements  and specifications
+6. The antiquity of production lines and the non-conformity of current projects to environmental requirements and specifications
 
-- The scarcity of electric energy and the fluctuation in voltage 7. levels, which negatively affect production capacity
+7. The scarcity of electric energy and the fluctuation in voltage levels, which negatively affect production capacity
 
-- The  limited  quantity  of  natural  gas  prepared  for  some 8. companies  that  rely  on  it  as  a  primary  material  in  their production process.
+8. The limited quantity of natural gas prepared for some companies that rely on it as a primary material in their production process.
 
 ##### Vision
 
@@ -3499,43 +3763,41 @@ To achieve industrial growth that contributes to diversification of the national
 
 ##### Objectives
 
-- To significantly increase the conversion industry's 1. contribution to the country's gross domestic product as public companies have been classified
+1. To significantly increase the conversion industry's contribution to the country's gross domestic product as public companies have been classified
 
-- To revamp economically sustainable public companies 2.
+2. To revamp economically sustainable public companies
 
-- To strengthen the private sector's role in the conversion 3. industry
+3. To strengthen the private sector's role in the conversion industry
 
-- To  work  on  achieving  self-sufficiency  or  to  increase  the 4. number of public companies to 12 during 2010, 16 during 2011, and 19 by the end of 2013
+4. To work on achieving self-sufficiency or to increase the number of public companies to 12 during 2010, 16 during 2011, and 19 by the end of 2013
 
-- To achieve a complimentary relationship between public 5. and  private  industrial  sectors,  as  well  as  other  sectors by creating small and medium-sized projects to enhance
+5. To achieve a complimentary relationship between public and private industrial sectors, as well as other sectors by creating small and medium-sized projects to enhance existing industrial companies and their products and to create new employment opportunities
 
-- existing  industrial  companies  and  their  products  and  to create new employment opportunities
+6. To reconstitute 12 of the Military Industrial Agency's dissolved companies and convert them to civilian industry
 
-- To  reconstitute  12  of  the  Military  Industrial  Agency's 6. dissolved companies and convert them to civilian industry
+7. To increase the non-oil extraction activity's contribution to the gross domestic product
 
-- To increase the non-oil extraction activity's contribution to 7. the gross domestic product
+8. To work on building industrial complexes in at least five provinces, to provide transparent mechanisms for granting bank loans to the private sector, and to speed up the process for issuing project permits
 
-- To work on building industrial complexes in at least five 8. provinces, to provide transparent mechanisms for granting bank  loans  to  the  private  sector,  and  to  speed  up  the process for issuing project permits
+9. Continue building on the consumer protection document that has been drafted, as well as the Competition Law, the Anti-Trust Laws, and the Iraqi Producer Protection Law. In addition, the following laws have been set up: the Law for Establishment of Industrial Cities, the Trademark and Geographical Indicator Law, the Economic System Law, and the Mineral Investment Law. Moreover, a final draft has been prepared to amend the Private and Mixed Sector Investment Law No. 20 of 1998. Finally, a draft of the Privatization and Roadmap Law was prepared in September 2007.
 
-- Continue building on the consumer protection document 9. that  has  been  drafted,  as  well  as  the  Competition  Law, the  Anti-Trust  Laws,  and  the  Iraqi  Producer  Protection Law. In addition, the following laws have been set up: the Law for Establishment of Industrial Cities, the Trademark and  Geographical  Indicator  Law,  the  Economic  System Law,  and  the  Mineral  Investment  Law.  Moreover,  a  final draft has been prepared to amend the Private and Mixed Sector  Investment  Law  No.  20  of  1998.  Finally,  a  draft of  the  Privatization  and  Roadmap  Law  was  prepared  in September 2007.
+10. To develop human abilities and cultivate the necessary skills to manage the conversion operation
 
-- To  develop  human  abilities  and  cultivate  the  necessary skills to manage the conversion operation
-
-- To improve the environmental reality for existing industries, ensure that new projects comply with new environmental policies, and increase environmental awareness in industrial projects.
+11. To improve the environmental reality for existing industries, ensure that new projects comply with new environmental policies, and increase environmental awareness in industrial projects.
 
 ##### Means for Achieving the Objectives
 
-- To improve public company performance levels by 1. classifying public industrial projects into three categories:
+1. To improve public company performance levels by classifying public industrial projects into three categories:
 
-- Companies  that  attract  investment  and  have  the ability to be self-sufficient immediately.
+- Companies that attract investment and have the ability to be self-sufficient immediately.
 
-- Companies that require reform, operational · improvements, and increases in production capacity to attract investment. This category of companies is expected to remain until the end of 2012.
+- Companies that require reform, operational improvements, and increases in production capacity to attract investment. This category of companies is expected to remain until the end of 2012.
 
-- The small number of companies that require a costbenefit  analysis  to  determine  whether  they  should continue to operate. Some of these companies may also  need to be broken up and restructured, while others  may  not  be  viable  and  may  need  to  be  reclassified  or  have  the  course  of  their  operations altered.
+- The small number of companies that require a cost-benefit analysis to determine whether they should continue to operate. Some of these companies may also need to be broken up and restructured, while others may not be viable and may need to be re-classified or have the course of their operations altered.
 
-- To  restructure  companies  and  industries  so  as  to  move 2. toward  a  market  economy.  In  that  regard,  a  number  of contracts were concluded to restructure and modernize the  laboratories  of  existing  public  companies  that  are attractive  to  investors.  These  contracts  are  based  upon a partnership with specialized international companies as well as the private sector. From a technical and economic standpoint,  it  is  important  to  continue  in  this  direction whenever possible.
+2. To restructure companies and industries so as to move toward a market economy. In that regard, a number of contracts were concluded to restructure and modernize the laboratories of existing public companies that are attractive to investors. These contracts are based upon a partnership with specialized international companies as well as the private sector. From a technical and economic standpoint, it is important to continue in this direction whenever possible.
 
-- To expand the private sector's role in industrial development 3. and  encourage  it  to  establish  companies  in  partnership with the public sector.
+3. To expand the private sector's role in industrial development and encourage it to establish companies in partnership with the public sector.
 
 National Development Plan for the Years 2010-2014 85
 
@@ -3547,33 +3809,33 @@ National Development Plan for the Years 2010-2014 85
 
 Industry and Energy
 
-- To move toward establishing partnerships with 4. technologically advanced international companies.
+4. To move toward establishing partnerships with technologically advanced international companies.
 
-- To  focus  on  industries  with  regional  and  international 5. competitive potential.
+5. To focus on industries with regional and international competitive potential.
 
-- To  develop  and  expand  industrial  research  and  development 6. centers in coordination with the Ministry of Science and Technology and the universities.
+6. To develop and expand industrial research and development centers in coordination with the Ministry of Science and Technology and the universities.
 
-- To reinvigorate geological survey and mineral investigation 7. operations, as well as locate available natural resources for the purpose of exploiting them using modern technology.
+7. To reinvigorate geological survey and mineral investigation operations, as well as locate available natural resources for the purpose of exploiting them using modern technology.
 
-- To establish the industrial investment plan and coordinate 8. with  councils  and  provinces  in  accordance  with  said provinces'  natures,  the  availability  of  natural  resources therein, and their competitive advantage. Also, to promote the  construction  of  new  industries  through  local  and foreign  investors,  create  employment  opportunities,  and develop national industry.
+8. To establish the industrial investment plan and coordinate with councils and provinces in accordance with said provinces' natures, the availability of natural resources therein, and their competitive advantage. Also, to promote the construction of new industries through local and foreign investors, create employment opportunities, and develop national industry.
 
-- To  draft  laws  that  will  contribute  to  the  creation  of  an 9. environment conducive to investment, whether domestic or  foreign,  and  to  promulgate  consumer  and  producer protection laws. (There have been a number of draft laws prepared [the Consumer Protection Law, the Competition Law, the Anti-Trust Law, the Iraqi Producer Protection Law, the Industrial City Law, the Trademark and Geographical Indicator  Law,  the  Economic  System  Reform  Law,  the Mineral  Investment  Law,  the  final  draft  amending  the Private and Mixed Sector Investment Law No. 20 of 1998, and  the  Privatization  and  Roadmap  Law  of  September 2007]).
+9. To draft laws that will contribute to the creation of an environment conducive to investment, whether domestic or foreign, and to promulgate consumer and producer protection laws. (There have been a number of draft laws prepared [the Consumer Protection Law, the Competition Law, the Anti-Trust Law, the Iraqi Producer Protection Law, the Industrial City Law, the Trademark and Geographical Indicator Law, the Economic System Reform Law, the Mineral Investment Law, the final draft amending the Private and Mixed Sector Investment Law No. 20 of 1998, and the Privatization and Roadmap Law of September 2007]).
 
-- To  provide  electrical  power  to  industrial  complexes  and large factories to ensure the continuity of their operation. This  would  be  achieved  by  building  electrical  stations nearby
+10. To provide electrical power to industrial complexes and large factories to ensure the continuity of their operation. This would be achieved by building electrical stations nearby
 
-- To  invest  in  the  environmental  aspect  to  address  the environmental  problems  caused  by  existing  industrial projects
+11. To invest in the environmental aspect to address the environmental problems caused by existing industrial projects
 
-- To withhold from establishing any industrial project unless it  ensures  protection  of  the  environment  and  to  require new industrial projects to receive a passing grade on their environmental consequences study before being allowed to move forward
+12. To withhold from establishing any industrial project unless it ensures protection of the environment and to require new industrial projects to receive a passing grade on their environmental consequences study before being allowed to move forward
 
-- To  use  more  environmentally  friendly  technologies  to operate new and existing projects.
+13. To use more environmentally friendly technologies to operate new and existing projects.
 
-- To  find  practical  and  humane  solutions  to  address  the problem  of  the  ineffective  labor  employed  in  industrial companies by:
+14. To find practical and humane solutions to address the problem of the ineffective labor employed in industrial companies by:
 
-- Preparing  a  database  containing  data  on  surplus labor in all public companies
+- Preparing a database containing data on surplus labor in all public companies
 
-- Connecting surplus labor with human  resource · development  centers  in  the  provinces  that  would, in turn, put them in touch with the Ministry of Labor where training would take place, where the surplus labor's potential would be developed, and said labor could be used in the economic units located in the provinces
+- Connecting surplus labor with human resource development centers in the provinces that would, in turn, put them in touch with the Ministry of Labor where training would take place, where the surplus labor's potential would be developed, and said labor could be used in the economic units located in the provinces
 
-- Finding appropriate solutions to protect the rights of surplus labor and ensuring receipt of social protection by  groups  that  cannot  be  trained  for  alternative work.
+- Finding appropriate solutions to protect the rights of surplus labor and ensuring receipt of social protection by groups that cannot be trained for alternative work.
 
 #### 6.2.4 Research and Development Activity
 
@@ -3583,23 +3845,23 @@ Working to keep up with scientific and technological advances taking place world
 
 ##### Objectives
 
-- To expand construction of basic infrastructure associated 1. with research, development, and human resource development
+1. To expand construction of basic infrastructure associated with research, development, and human resource development
 
-- To select and utilize advanced technology, while orienting 2. it to serve society
+2. To select and utilize advanced technology, while orienting it to serve society
 
-- To build technology incubators in various industrial fields. 3.
+3. To build technology incubators in various industrial fields.
 
 ##### Means of Achieving the Objectives
 
-- Supporting  and  funding  scientific  research,  sponsoring 1. scientists  and  researchers,  establishing  a  mechanism to  improve  the  quality  of  research  centers,  coordinating among research centers at the national and international levels,  and  promoting  their  role  in  national  development programs
+1. Supporting and funding scientific research, sponsoring scientists and researchers, establishing a mechanism to improve the quality of research centers, coordinating among research centers at the national and international levels, and promoting their role in national development programs
 
-- Expanding the scope of  Iraq's  representation  at  international 2. gatherings  and  organizations  related  to  science  and technology
+2. Expanding the scope of Iraq's representation at international gatherings and organizations related to science and technology
 
-- Enforcing laws related to science, technology, innovation, 3. and  intellectual  property  rights,  as  well  as  sponsoring researchers
+3. Enforcing laws related to science, technology, innovation, and intellectual property rights, as well as sponsoring researchers
 
-- Fostering international cooperation with science 4. and technology associations and scientific research organizations, as well as transferring and utilizing technology.
+4. Fostering international cooperation with science and technology associations and scientific research organizations, as well as transferring and utilizing technology.
 
-- 1  Using sprinkling systems for 250 thousand donoms, and a cost of $65 m.
+1 Using sprinkling systems for 250 thousand donoms, and a cost of $65 m.
 
 86
 
@@ -3623,21 +3885,21 @@ Infrastructure
 
 #### 7.1.1 Previous Policies
 
-Before presenting and evaluating previous transportation and communications  sector  policies,  and  before  evaluating  the current  reality  and  diagnosing  the  problems  and  challenges facing  growth  and  development,  it  is  helpful  to  highlight  the most prominent features and characteristics that distinguish it from other economic sectors. These must be considered when determining the means and requirements to improve its reality. The most noteworthy are as follows:
+Before presenting and evaluating previous transportation and communications sector policies, and before evaluating the current reality and diagnosing the problems and challenges facing growth and development, it is helpful to highlight the most prominent features and characteristics that distinguish it from other economic sectors. These must be considered when determining the means and requirements to improve its reality. The most noteworthy are as follows:
 
-- The transportation and communications sector is 1. important in the Iraqi economy because it directly affects people's lives every day. People need transportation and communications to complete their daily needs and other activities.
+1. The transportation and communications sector is important in the Iraqi economy because it directly affects people's lives every day. People need transportation and communications to complete their daily needs and other activities.
 
-- The  sector  is  closely  intertwined  with  other  economic 2. sectors, has a direct impact on their growth and development, and a direct and significant impact on the nation's  economic  integration.  This  makes  it  impossible for other economic sectors to develop and grow without an  infrastructure  and  appropriate  and  efficient  services from the transportation and communications sector. Every kind of land use requires a network of suitable roads and transportation.
+2. The sector is closely intertwined with other economic sectors, has a direct impact on their growth and development, and a direct and significant impact on the nation's economic integration. This makes it impossible for other economic sectors to develop and grow without an infrastructure and appropriate and efficient services from the transportation and communications sector. Every kind of land use requires a network of suitable roads and transportation.
 
-- The  sector's  infrastructure  extends  over  long  distances. 3. Indeed,  most  sector  projects  include  more  than  one area  and  more  than  one  province.  Thus,  this  sector's projects  require  large  investments  for  construction  and maintenance.
+3. The sector's infrastructure extends over long distances. Indeed, most sector projects include more than one area and more than one province. Thus, this sector's projects require large investments for construction and maintenance.
 
-- There are many possibilities for the (Iraqi and foreign) private 4. sector to participate and invest in the implementation and operation of this sector's projects.
+4. There are many possibilities for the (Iraqi and foreign) private sector to participate and invest in the implementation and operation of this sector's projects.
 
 In  previous  decades,  particularly  in  the  1960s  and  1970s, the strategy for developing the transportation sector was  characterized  by  investing  in  all  available  modes  of transportation, including road, rail, maritime, water, and air, as well as developing these means based on social and economic activity requirements. Significant work was performed on roads. Specifically, most main and secondary roads were resurfaced, secondary lanes were added to main and secondary one-lane roads, and a large number of railroad crossings were eliminated. Further, phased construction of rural roads began and several bridges were built.
 
 During  the  1970s  and  1980s,  national  development  plans strengthened the highway networks connecting Iraq to neighboring countries, such as the one connecting Iraq with Syria and Jordan and the one connecting the country to the Arab Gulf states. This was done by constructing Highway No. 1 and preparing a design for Highway No. 2, which would run through Baghdad, Samarra, and Mosul, and then into Turkey and  Syria.  In  addition,  a  comprehensive  transportation  plan for the city of Baghdad was completed, which recommended construction  of  an  underground  metro  and  several  circular roads and bridges, sections of which were implemented- the Mohammed Al-Qasim Road and the Saladin Alayoubi Road, for example. However, as for the underground metro itself, only the designs were completed.
 
-In  the  1960s,  increased  foreign  trade  and  congestion  at  AlMaaqal  port  focused  development  attention  and  plans  on increasing  the  number  of  ports  and  docks.  A  new  port  was built closer to the Arab Gulf region at Umm Qasr in 1965, and able to receive larger ships and boats.
+In the 1960s, increased foreign trade and congestion at Al-Maaqal port focused development attention and plans on increasing the number of ports and docks. A new port was built closer to the Arab Gulf region at Umm Qasr in 1965, and able to receive larger ships and boats.
 
 In the 1980s, development plans focused on strengthening the role of the industrial city in the Basra province by constructing the Khor Al-Zubair port as a main pillar of this city. It consisted of  12  docks  used  by  the  iron  and  steel  plant,  as  well  as  to import iron ore, export sponge iron, and load chemical fertilizers and general cargo. During this  period,  national  development plans  also  focused  on  constructing  the  maritime  dockyards necessary for ship maintenance and repair.
 
@@ -3659,41 +3921,41 @@ National Development Plan for the Years 2010-2014
 
 The  wars  of  the  early  1980s  and  the  economic  sanctions commencing  in  the  early 1990s  diverted attention from modernizing  the  transportation  and  communications  sector, limiting  major  achievements  in  this  field.  This  caused  the sector  to  lag  behind  regional  and  international  development in  all  measures,  leaving  it  unable  to  respond  efficiently  to human  needs  and  the  requirements  of  economic  activities. The infrastructure developed in the 1960s and 1970s became a burden to the Iraqi economy because of the large financial resources needed to repair and maintain it.
 
-Because of the transportation sector's crucial role in provision of key services to the population and to all economic activities, and in an effort to upgrade its performance level, Iraq began focusing on this vital sector in 2003. Specifically, in cooperation with Italian counterparts, the MoP began preparing a comprehensive transportation plan for Iraq: the Iraq Transport Master Plan (ITMP). Preparation of this plan continued from mid2003 to the end of 2005. Representatives from all departments and other entities involved in transportation sector activitiesroadways, railroads, ports, and civil aviation-participated in its preparation.
+Because of the transportation sector's crucial role in provision of key services to the population and to all economic activities, and in an effort to upgrade its performance level, Iraq began focusing on this vital sector in 2003. Specifically, in cooperation with Italian counterparts, the MoP began preparing a comprehensive transportation plan for Iraq: the Iraq Transport Master Plan (ITMP). Preparation of this plan continued from mid-2003 to the end of 2005. Representatives from all departments and other entities involved in transportation sector activities—roadways, railroads, ports, and civil aviation—participated in its preparation.
 
 This  comprehensive transportation plan included a complete survey of transportation sector activities, as well as an assessment of state of these activities, ways to improve them, and  the  funds  needed  to  do  so.  The  plan  also  included  all projects  required  for  transportation  activities  for  the  next  20 years, including crucial and strategic projects. Cost estimates for  these  projects  were  estimated  and  an  implementation schedule  was  prepared.  We  can  rely  on  the  comprehensive transportation plan as a long-term plan, and can use some of its projects for the purposes of mid-term plans, including the 2010-2014 five-year plan. Because of the security conditions that  prevailed  during  the  plan's  preparation,  and  because it  does  not  cover  the  entire  transportation  network  in  Iraq,  it should be updated after extensive surveys of the network and collection of all data necessary for the update within a context of  appropriate  security  conditions,  and  of  a  network  free  of roadblocks and temporary barriers that significantly affect its performance.
 
 The  National  Development  Strategy  (2007-2010)  indicated that  transportation  and  communications  services,  mail,  and international  network  services  all  lag  far  behind  expectations.  This required strengthening the transportation and communications network to raise service quality and efficiency in all provinces, requiring  significant  investments  as  well  as  administrative and organizational  structure  changes.    Iraq  can  address  the sector's problems by introducing the latest technology in this area, and by creating the appropriate environment by adopting appropriate policies and developing an appropriate regulatory framework.
 
-The  National  Development  Strategy  (2007-2010)  specifies the  procedures  necessary  to  advance  transportation  sector activities (excluding road and bridge activities) as follows:
+The National Development Strategy (2007-2010) specifies the procedures necessary to advance transportation sector activities (excluding road and bridge activities) as follows:
 
-- Continued  dredging  of  the  Umm  Qasr  port  and  the 1. surrounding areas
+1. Continued dredging of the Umm Qasr port and the surrounding areas
 
-- Removal of sunken vessels in Shatt-Al-Arab and the Umm 2. Qasr port
+2. Removal of sunken vessels in Shatt-Al-Arab and the Umm Qasr port
 
-- Preparation of a plan to increase the efficiency and efficacy 3. of institutional procedures of ports and inland waterways
+3. Preparation of a plan to increase the efficiency and efficacy of institutional procedures of ports and inland waterways
 
-- Exploration of the potential for developing truck transport 4. and traffic lines
+4. Exploration of the potential for developing truck transport and traffic lines
 
-- Repair, renovation, and maintenance of railroad stations 5.
+5. Repair, renovation, and maintenance of railroad stations
 
-- Modernization of training centers to enhance the skills of 6. railroad workers
+6. Modernization of training centers to enhance the skills of railroad workers
 
-- Preparation  of  a  railroad  strategy  to  assess  the  current 7. situation in order to open the door for the private sector to provide services
+7. Preparation of a railroad strategy to assess the current situation in order to open the door for the private sector to provide services
 
-- Development of airports and a civil aviation strategy and 8. preparation of a comprehensive plan to organize services and future activities, including the possibility of assigning airport management to the private sector
+8. Development of airports and a civil aviation strategy and preparation of a comprehensive plan to organize services and future activities, including the possibility of assigning airport management to the private sector
 
-- Development of programs to privatize some activities in 9. the sector, particularly in the fields of communications and air, land, and maritime transport
+9. Development of programs to privatize some activities in the sector, particularly in the fields of communications and air, land, and maritime transport
 
-- Retraining of supervisory and operations staff, particularly in  stalled  activities  such  as  civil  aviation  and  maritime navigation.
+10. Retraining of supervisory and operations staff, particularly in stalled activities such as civil aviation and maritime navigation.
 
-In  the  area  of  communications,  the  National  Development Strategy (2007-2010) indicated that there had been improvements in telephone communications since 2004: the number of landline subscribers grew from 794,198 to 2,800,000 in June 2005. Further, the number of internet subscribers more than doubled and the number of cell phone subscribers jumped from  488,966  to  2,500,000.  In  addition,  satellite  television equipment was extended to most of the population, and cell phone networks operated in the major urban areas. The 20072010  National  Development  Strategy  identified  the  actions necessary to advance the communications sector as follows:
+In the area of communications, the National Development Strategy (2007-2010) indicated that there had been improvements in telephone communications since 2004: the number of landline subscribers grew from 794,198 to 2,800,000 in June 2005. Further, the number of internet subscribers more than doubled and the number of cell phone subscribers jumped from 488,966 to 2,500,000. In addition, satellite television equipment was extended to most of the population, and cell phone networks operated in the major urban areas. The 2007-2010 National Development Strategy identified the actions necessary to advance the communications sector as follows:
 
-- Rebuilding  and  expanding  existing  switches  and  local 1. distribution  networks,  and  supervision  of  the  civil  work required  to  achieve  telephone  penetration  of  3.3  million subscribers in   2007
+1. Rebuilding and expanding existing switches and local distribution networks, and supervision of the civil work required to achieve telephone penetration of 3.3 million subscribers in 2007
 
-- Construction of a modern,  integrated, long-distance 2. communications network ensuring international communication
+2. Construction of a modern, integrated, long-distance communications network ensuring international communication
 
-- Rebuilding of the postal system, including rehabilitation of 3. postal services and existing buildings to put Iraq on par with other countries.
+3. Rebuilding of the postal system, including rehabilitation of postal services and existing buildings to put Iraq on par with other countries.
 
 In order to achieve transportation and communications sector objectives,  the  strategy  calls  for  the  allocation  of  between 11,000 billion and 12,000 billion dinars per year. However, the
 
@@ -3711,29 +3973,29 @@ actual allocation has not exceeded 4-10 percent of the planned amount each year.
 
 #### 7.1.2 Transportation Sector
 
-The transportation sector consists of roads, bridges, passenger transport, cargo transport, railroad transport, ports, maritime shipping, and civil aviation. The National Development Plan  will  address  the  state  of,  vision  and  objectives  for,  and means of achieving the objectives for each of these activities. In  general,  the  sector  seeks  to  build  an  integrated,  efficient, and  reliable  transportation  network;  ensure  balanced  use  of its  different  systems, which correspond to spatial distribution of  the  population  and  economic  activities;  and  enhance  the advantages  of  Iraq's  geographical  location  in  this  field.  This vision can be achieved by:
+The transportation sector consists of roads, bridges, passenger transport, cargo transport, railroad transport, ports, maritime shipping, and civil aviation. The National Development Plan will address the state of, vision and objectives for, and means of achieving the objectives for each of these activities. In general, the sector seeks to build an integrated, efficient, and reliable transportation network; ensure balanced use of its different systems, which correspond to spatial distribution of the population and economic activities; and enhance the advantages of Iraq's geographical location in this field. This vision can be achieved by:
 
-- Increasing the current transportation network's efficiency 1. and capacity
+1. Increasing the current transportation network's efficiency and capacity
 
-- Integrating the different transportation systems 2.
+2. Integrating the different transportation systems
 
-- Enhancing the efficiency and performance of the 3. transportation  sector's  institutions,  facilities,  and  public companies, as well as enhancing its efficiency in the areas of management and operation
+3. Enhancing the efficiency and performance of the transportation sector's institutions, facilities, and public companies, as well as enhancing its efficiency in the areas of management and operation
 
-- Developing  and  promoting  cargo  transport  by  railroads, 4. and protecting the road network from damage
+4. Developing and promoting cargo transport by railroads, and protecting the road network from damage
 
-- Reducing accidents within the transportation network 5.
+5. Reducing accidents within the transportation network
 
-- Reducing travel time and providing shortcuts away from 6. city centers
+6. Reducing travel time and providing shortcuts away from city centers
 
-- Contributing to strengthening Iraq's economic 7. independence
+7. Contributing to strengthening Iraq's economic independence
 
-- Reducing transportation costs 8.
+8. Reducing transportation costs
 
-- Strengthening Iraq's geographical location in transportation 9. and the transit trade
+9. Strengthening Iraq's geographical location in transportation and the transit trade
 
-- Increasing the sector's contribution to the gross domestic product
+10. Increasing the sector's contribution to the gross domestic product
 
-- Strengthening  the  private  sector's  role  in  the  different transportation activities, particularly as regards operating procedures and service provision.
+11. Strengthening the private sector's role in the different transportation activities, particularly as regards operating procedures and service provision.
 
 ##### 7.1.2.1 Road and Bridge Activity
 
@@ -3775,45 +4037,45 @@ National Development Plan for the Years 2010-2014
 
 ###### Problems and challenges facing road and bridge activities:
 
-- Most cargo is transported over the road network, 1. as  opposed  to  the  railway  system,  thereby  applying significant pressure on the network and contributing to its deterioration.
+1. Most cargo is transported over the road network, as opposed to the railway system, thereby applying significant pressure on the network and contributing to its deterioration.
 
-- There  is  no  control  over  loads  and  vehicle  axle  weights 2. which leads to destruction of the road network.
+2. There is no control over loads and vehicle axle weights which leads to destruction of the road network.
 
-- There are few connecting roads between provinces and 3. cities.
+3. There are few connecting roads between provinces and cities.
 
-- There are few circular and bypass roads in the cities. 4.
+4. There are few circular and bypass roads in the cities.
 
-- There are problems acquiring rights of way, including the 5. objections of owners, rural inhabitants, and farmers.
+5. There are problems acquiring rights of way, including the objections of owners, rural inhabitants, and farmers.
 
-- There is a need for significant investments to rehabilitate 6. and construct new projects.
+6. There is a need for significant investments to rehabilitate and construct new projects.
 
-- The quality control system is weak. 7.
+7. The quality control system is weak.
 
-- Same-level railroad  crossings,  contributing  to  traffic  and 8. congestion, are prevalent.
+8. Same-level railroad crossings, contributing to traffic and congestion, are prevalent.
 
 ###### Vision for Road and Bridge Activities
 
-Iraq  will  have  a  road  network  with  a  balanced  hierarchy  that integrates with the other transportation systems while ensuring reduced  travel  time  and  cost,  greater  security,  and  reduced negative environmental impacts.
+Iraq will have a road network with a balanced hierarchy that integrates with the other transportation systems while ensuring reduced travel time and cost, greater security, and reduced negative environmental impacts.
 
 ###### Objectives
 
 The objectives for road and bridge activities during the plan period focus on two axes.
 
-- The first axis consists of: 1.
+1. The first axis consists of:
 
-- Improving the condition of the current road network by repairing existing roads and reconstructing bridges  affected  by  the  war,  military  operations, and  sabotage,  as  well  as  installing  instructional, directional, and warning signs
+- Improving the condition of the current road network by repairing existing roads and reconstructing bridges affected by the war, military operations, and sabotage, as well as installing instructional, directional, and warning signs
 
-- Performing  periodic  maintenance  on  the  existing road and bridge network, using modern and advanced techniques that would more quickly and economically  implement  repair  and  maintenance procedure, including the cold in-place asphalt pavement recycling technology recently approved in Iraq.
+- Performing periodic maintenance on the existing road and bridge network, using modern and advanced techniques that would more quickly and economically implement repair and maintenance procedure, including the cold in-place asphalt pavement recycling technology recently approved in Iraq.
 
-- The  second  axis  consists  of  increasing  the  network's 2. capacity  and  its  level  of  user  safety  and  security,  and protecting it from damage, by:
+2. The second axis consists of increasing the network's capacity and its level of user safety and security, and protecting it from damage, by:
 
-- Completing  the remaining portions of  highways · previously constructed, and completing links between these roads and city centers that had not yet been linked thereto
+- Completing the remaining portions of highways previously constructed, and completing links between these roads and city centers that had not yet been linked thereto
 
-- Constructing  new  highways,  particularly  Highway No. 2,  to  link  urban  centers  and  complete  the  link between  Iraq  and  neighboring  countries  that  have not been linked by highways to date
+- Constructing new highways, particularly Highway No. 2, to link urban centers and complete the link between Iraq and neighboring countries that have not been linked by highways to date
 
-- Continuing to construct secondary lanes on arterial roads  and  one-lane  roads,  particularly  those  that have reached maximum capacity
+- Continuing to construct secondary lanes on arterial roads and one-lane roads, particularly those that have reached maximum capacity
 
-- Expanding  construction  of  crossroads  among  the provinces, thereby reducing travel time
+- Expanding construction of crossroads among the provinces, thereby reducing travel time
 
 - Expanding construction of bypass roads that reduce congestion in cities and limit entry of through-traffic to city centers
 
@@ -3823,23 +4085,23 @@ The objectives for road and bridge activities during the plan period focus on tw
 
 - Furnishing outer roads with instructional, directional, and warning signs
 
-- Protecting the road network from excessive weight by constructing weigh stations to detect and deter vehicle  weights  and  axle  loads  that  exceed  the allowable limits
+- Protecting the road network from excessive weight by constructing weigh stations to detect and deter vehicle weights and axle loads that exceed the allowable limits
 
-- Continuing the program of constructing rural roads and  increasing  their  reach  to  serve  the  greatest number of rural villages and agricultural projects and ensure  their  connection  of  agricultural  production centers with markets.
+- Continuing the program of constructing rural roads and increasing their reach to serve the greatest number of rural villages and agricultural projects and ensure their connection of agricultural production centers with markets.
 
 ###### Means of Achieving the Objectives:
 
-- Directing  investments  in  a  manner  commensurate  with 1. the importance and social and economic role of road and bridge activity to ensure rehabilitation of damaged roads and  bridges,  and  constructing  all  types  of  new  roads, including highways, arterials, secondary roads, and rural roads
+1. Directing investments in a manner commensurate with the importance and social and economic role of road and bridge activity to ensure rehabilitation of damaged roads and bridges, and constructing all types of new roads, including highways, arterials, secondary roads, and rural roads
 
-- Developing railroad transportation to reduce the volume of 2. cargo transported over the roads
+2. Developing railroad transportation to reduce the volume of cargo transported over the roads
 
-- Passing  new  laws  or  amending  current  laws  to  impose 3. tolls for use of main roads, arterials, and bridges to ensure appropriate funding for periodic and continuous road and bridge maintenance
+3. Passing new laws or amending current laws to impose tolls for use of main roads, arterials, and bridges to ensure appropriate funding for periodic and continuous road and bridge maintenance
 
-- Improving  quality  control  during  road  and  bridge  work 4. by providing necessary and sufficient laboratories to run the tests associated the work. Controlling vehicle weight and  axle  loads  on  existing  road  and  bridge  projects  by constructing weigh stations. .
+4. Improving quality control during road and bridge work by providing necessary and sufficient laboratories to run the tests associated the work. Controlling vehicle weight and axle loads on existing road and bridge projects by constructing weigh stations. .
 
-- Introducing  modern  and  cost-effective  technologies  to 5. repair and maintain roads, and providing means for their success
+5. Introducing modern and cost-effective technologies to repair and maintain roads, and providing means for their success
 
-- Strengthening the private sector's role in service 6. provision.
+6. Strengthening the private sector's role in service provision.
 
 National Development Plan for the Years 2010-2014 91
 
@@ -3883,15 +4145,15 @@ Even  though  the  prices  charged  by  the  General  Company for  Passenger  an
 
 ###### Challenges
 
-- Limited financial allocations 1.
+1. Limited financial allocations
 
-- Continued security instability in some cities and provinces, 2. and continued presence of security barriers in main and secondary streets
+2. Continued security instability in some cities and provinces, and continued presence of security barriers in main and secondary streets
 
-- Limited public intra-city and intercity bus fleet 3.
+3. Limited public intra-city and intercity bus fleet
 
-- Significant laxness in public transport administrative and 4. operational systems and resulting decline in performance
+4. Significant laxness in public transport administrative and operational systems and resulting decline in performance
 
-- The  presence  of  an  unregulated  private  sector  using 5. vehicles that do not meet the required specifications and pollute the cities' environment.
+5. The presence of an unregulated private sector using vehicles that do not meet the required specifications and pollute the cities' environment.
 
 ###### Vision
 
@@ -3899,9 +4161,9 @@ Ensure rapid, sustainable, and environmentally friendly intra-city and inter-cit
 
 ###### Objectives
 
-- Providing  about  1,500  buses  that  run  130  routes  in 1. Baghdad, Table 34 shows the objectives for the passenger transport activity as represented by the number of buses to  be  provided  during  the  2010-2014  five-year  plan  for purposes of internal and intercity transport.
+1. Providing about 1,500 buses that run 130 routes in Baghdad, Table 34 shows the objectives for the passenger transport activity as represented by the number of buses to be provided during the 2010-2014 five-year plan for purposes of internal and intercity transport.
 
-- Preparing  studies  and  designs  for  the  Baghdad  Metro 2. project  and  planning  to  commence  construction  during the final years of the five-year plan
+2. Preparing studies and designs for the Baghdad Metro project and planning to commence construction during the final years of the five-year plan
 
 92
 
@@ -3913,15 +4175,15 @@ National Development Plan for the Years 2010-2014
 
 7
 
-- Upgrading the passenger intra-city and intercity transport 3. fleet,  using  modern,  comfortable,  and  environmentally compliant buses
+3. Upgrading the passenger intra-city and intercity transport fleet, using modern, comfortable, and environmentally compliant buses
 
-- Providing  special  rates  for  students,  youth  with  special 4. needs, and social security programs members
+4. Providing special rates for students, youth with special needs, and social security programs members
 
-- Providing  significant  opportunities  for  the  private  sector 5. in passenger transport and providing necessary support, particularly  in  terms  of  ensuring  subsidized  transport means at favorable credit terms.
+5. Providing significant opportunities for the private sector in passenger transport and providing necessary support, particularly in terms of ensuring subsidized transport means at favorable credit terms.
 
-Table 34 Year | Quantitative Objectives for as Represented by the Provided During the 2010-2014 Internal and Intercity Internal transport | Passenger Transport Number of Buses To Be Five-Year Plan for Transport Intercity transport (passengers / international / tourism) Buses
+Table 34 | Quantitative Objectives for Passenger Transport as Represented by the Number of Buses To Be Provided During the 2010-2014 Five-Year Plan for Internal and Intercity Transport
 --- | --- | --- | --- | ---
-Buses | Double- deck | Single- deck
+Year | Internal transport: Buses | Internal transport: Double-deck | Internal transport: Single-deck | Intercity transport (passengers / international / tourism): Buses
 2010 | - | - | 100 | -
 2011 | - | - | 100 | 100
 2012 | - | 100 | - | 100
@@ -3930,21 +4192,21 @@ Buses | Double- deck | Single- deck
 
 ###### Means of Achieving the Objectives
 
-- Conducting deliberations about setting an implementation 1. schedule for the Baghdad Metro project as a long-term solution to the passenger transport problem, as well as to ease traffic congestion in the city of Baghdad and improve the city's environment
+1. Conducting deliberations about setting an implementation schedule for the Baghdad Metro project as a long-term solution to the passenger transport problem, as well as to ease traffic congestion in the city of Baghdad and improve the city's environment
 
-- Supporting  and  reorganizing  the  private  sector  within 2. the field of passenger transport, as well as providing the sector with the infrastructure to do business, particularly in the area of high-quality passenger transport
+2. Supporting and reorganizing the private sector within the field of passenger transport, as well as providing the sector with the infrastructure to do business, particularly in the area of high-quality passenger transport
 
-- Ensuring private sector transport at favorable terms and 3. defining  operating  life  to  ensure  safety,  economic,  and environmental sustainability.
+3. Ensuring private sector transport at favorable terms and defining operating life to ensure safety, economic, and environmental sustainability.
 
 ###### The Private Sector's Role
 
-In  many  countries  worldwide,  the  state  subsidizes  public transport  in  general  and  intracity  passenger  bus  transport  in particular, irrespective of whether operated by the state or the private sector. The only exceptions are a few countries in which these  forms  of  transport  are  profitable.  Thus,  the  scenarios proposed for operating intracity passenger transport during the five-year plan are:
+In many countries worldwide, the state subsidizes public transport in general and intracity passenger bus transport in particular, irrespective of whether operated by the state or the private sector. The only exceptions are a few countries in which these forms of transport are profitable. Thus, the scenarios proposed for operating intracity passenger transport during the five-year plan are:
 
-- The state continues operating and subsidizing passenger 1. bus  transport  at  prices  that  suit  students,  low-income people, and the poor.
+1. The state continues operating and subsidizing passenger bus transport at prices that suit students, low-income people, and the poor.
 
-- The  state  continues  operating  passenger  bus  transport 2. and sets profitable rates and offers subsidized pricing to seniors, children, and students.
+2. The state continues operating passenger bus transport and sets profitable rates and offers subsidized pricing to seniors, children, and students.
 
-- The private sector is provided the opportunity to operate 3. passenger  bus  transport  and  set  rates,  while  the  state continues  to  regulate,  supervise,  and  define  bus  quality and specifications. The state would also provide subsidies for  certain  social  segments  such  as  students,  seniors, people  with  special  needs,  and  those  covered  by  the social protection system.
+3. The private sector is provided the opportunity to operate passenger bus transport and set rates, while the state continues to regulate, supervise, and define bus quality and specifications. The state would also provide subsidies for certain social segments such as students, seniors, people with special needs, and those covered by the social protection system.
 
 Over the long term, the state should completely stop operating the passenger transport system and transfer that task to the private sector. The state should also limit its role in controlling, monitoring, and defining vehicle quality and specifications, and setting applicable tariffs.
 
@@ -3954,11 +4216,11 @@ Iraq used to have a large truck fleet for cargo transport, which belonged to  th
 
 Within this sector, management systems are antiquated and the workforce far exceeds needs. The General Company for Land Transport currently has about 4,350 workers, a figure several times greater than necessary. This has significantly affected its cost and operating efficiency.
 
-The five-year plan for this sector is tending towards transferring all activities to the private sector-after evaluating its capacity and  capabilities-to take advantage  of  its highly flexible management  style.  An  alternative  would  be  to  create  a partnership  between  the  public  and  private  sectors  for  this activity. This would require:
+The five-year plan for this sector is tending towards transferring all activities to the private sector—after evaluating its capacity and capabilities—to take advantage of its highly flexible management style. An alternative would be to create a partnership between the public and private sectors for this activity. This would require:
 
-- Strengthening the state's role as regulator and supervisor 1. of cargo ground transport via trucks
+1. Strengthening the state's role as regulator and supervisor of cargo ground transport via trucks
 
-- Developing railroad transportation in order to protect the 2. road network and spare it further damage, as well as to benefit from the large savings realized when transporting cargo by train.
+2. Developing railroad transportation in order to protect the road network and spare it further damage, as well as to benefit from the large savings realized when transporting cargo by train.
 
 ##### 7.1.2.3 Railroad Activity
 
@@ -3986,16 +4248,9 @@ In 2008, Iraq's railroad lines totaled 2,295 km, of which 1,901 km were main lin
 
 Table  35  shows  the  total  activity  of  the  Iraqi  railroad  system for  the  period  1979-2008.  It  should  be  noted  that  despite increasing  the  length  of  railroad  lines  during  this  period, railroad transportation activity fell dramatically from millions of passengers and millions of tons of cargo annually to hundreds of thousands. This resulted in a decline in the activity's economic and financial performance, as shown.
 
-lines  to  increase  their  efficiency,  increase  operating  speeds, and improve line capacities.
-
-###### Capabilities
-
-Railroad transportation offers significant opportunities for development and thanks to Iraq's size, location in the region, extensive  rail  network  experience,  and  infrastructure.  Most imports enter, and future exports will depart from, its southern ports  and  the  ports  of  its  neighboring  countries.  The  transit trade that can be revitalized takes place through these outlets as well. Indeed, transporting cargo over long distances and in large quantities would be more efficient and economical by rail. The transportation network connecting East Asia and Europe can be integrated only by passing through Iraq. This will require the country to upgrade its railroad network in particular, and its transportation infrastructure throughout, as rail is the most suitable and economical mode of long-distance transportation, irrespective of whether Iraq wants cargo to go through its own ports or those of neighboring countries.
-
 Table 35 | Total Activity of the Iraqi Railroad System 1979-2008
 --- | --- | --- | --- | --- | ---
-Year | Length of railroad lines (km) | Number of passengers ('000 passengers) | Transported cargo (1000 Tons) | Income (1000 Dinars)
-Passengers | Cargo
+Year | Length of railroad lines (km) | Number of passengers ('000 passengers) | Transported cargo (1000 Tons) | Income (1000 Dinars): Passengers | Income (1000 Dinars): Cargo
 1979 | 1645 | 3351 | 6493 | 2286 | 20,609
 1988 | 2389 | 3865 | 6109 | 8124 | 18,990
 2002 | 2272 | 1248 | 5227 | 1131 | 22,687
@@ -4003,21 +4258,27 @@ Passengers | Cargo
 2006 | 2272 | 4 | 165 | 15 | 1049
 2008 | 2295 | 107 | 257 | - | -
 
-Large portions of the current railroad network are old, outdated, and  have  defective  signaling  and  communications  systems. This leads to lower operating speeds and endangers the safety of passengers and cargo.  Accordingly, some lines are being renovated to upgrade them, increase their operating speeds and improve their condition. Work is also being done to double up  single  railways  to  increase  capacity  and  ensure  a  higher level of safety.
+Large portions of the current railroad network are old, outdated, and have defective signaling and communications systems. This leads to lower operating speeds and endangers the safety of passengers and cargo. Accordingly, some lines are being renovated to upgrade them, increase their operating speeds and improve their condition. Work is also being done to double up single railways to increase capacity and ensure a higher level of safety.
 
-In  addition,  a  new  wireless  communications  system  is  being used  between  stations  and  locomotives,  replacing  the  old wired system. It includes a global positioning system to keep track of train movements and determine their locations.
+In addition, a new wireless communications system is being used between stations and locomotives, replacing the old wired system. It includes a global positioning system to keep track of train movements and determine their locations.
 
-Most railroad lines in operation use the aforementioned wired standard  operating  system.  Lines  currently  in  operation  are Baghdad-Basra, Baghdad-Samarra, Mosul-Rabia, and Baghdad-Fallujah. It  is  hoped  that  the  remaining  portions  of these lines  will  gradually  become  operational  as  the  security situation improves and the lines are renovated.
+Most railroad lines in operation use the aforementioned wired standard operating system. Lines currently in operation are Baghdad-Basra, Baghdad-Samarra, Mosul-Rabia, and Baghdad-Fallujah. It is hoped that the remaining portions of these lines will gradually become operational as the security situation improves and the lines are renovated.
 
-Work is  currently  being  done  to  double  the  Baghdad-Basra line,  the  Baghdad-Mosul  line,  and  the  Hammam  Al-AlilSabonia-Rabia line, and to modernize and renovate existing The  amount  of  transit  cargo  expected  to  be  transported through Iraqi ports to Turkey, Syria, and Europe is estimated to be 35 million tons annually in a normal case scenario, and 60 million tons in a best case. The feasibility study performed on the large port of Al-Faw indicates that handling this quantity of  transit  cargo  will  require  construction  of  a  special  double railway. Cargo railway networks in Syria and Turkey will also be required. Measures necessary to achieve political understanding and trade liberalization in Iraq and the other countries must be taken.
+Work is currently being done to double the Baghdad-Basra line, the Baghdad-Mosul line, and the Hammam Al-Alil-Sabonia-Rabia line, and to modernize and renovate existing lines to increase their efficiency, increase operating speeds, and improve line capacities.
+
+###### Capabilities
+
+Railroad transportation offers significant opportunities for development and thanks to Iraq's size, location in the region, extensive rail network experience, and infrastructure. Most imports enter, and future exports will depart from, its southern ports and the ports of its neighboring countries. The transit trade that can be revitalized takes place through these outlets as well. Indeed, transporting cargo over long distances and in large quantities would be more efficient and economical by rail. The transportation network connecting East Asia and Europe can be integrated only by passing through Iraq. This will require the country to upgrade its railroad network in particular, and its transportation infrastructure throughout, as rail is the most suitable and economical mode of long-distance transportation, irrespective of whether Iraq wants cargo to go through its own ports or those of neighboring countries.
+
+The amount of transit cargo expected to be transported through Iraqi ports to Turkey, Syria, and Europe is estimated to be 35 million tons annually in a normal case scenario, and 60 million tons in a best case. The feasibility study performed on the large port of Al-Faw indicates that handling this quantity of transit cargo will require construction of a special double railway. Cargo railway networks in Syria and Turkey will also be required. Measures necessary to achieve political understanding and trade liberalization in Iraq and the other countries must be taken.
 
 Expanding the railway network will help alleviate the pressure on cargo transport currently using highways and inter-city arterial roads. This will reduce damage to roads caused by large loads and in many cases, excessive axle loads.
 
 ###### Challenges
 
-- Competition between  passenger/cargo  transport  and 1. railway  transport-particularly  since  the  expansion  of Iraq's highway and arterial roads networks
+1. Competition between passenger/cargo transport and railway transport—particularly since the expansion of Iraq's highway and arterial roads networks
 
-- An  incomplete  railway  network  that  does  not  extend  to 2. many important locations
+2. An incomplete railway network that does not extend to many important locations
 
 94
 
@@ -4029,13 +4290,13 @@ National Development Plan for the Years 2010-2014
 
 7
 
-- The age of large segments of the current network and its 3. cars, and the breakdown of signal and communications systems
+3. The age of large segments of the current network and its cars, and the breakdown of signal and communications systems
 
-- Very low operating speeds that make rail unattractive for 4. both personal travel and cargo transport
+4. Very low operating speeds that make rail unattractive for both personal travel and cargo transport
 
-- The large investments required to construct lines, equip 5. them  with  signals  and  communications,  and  produce locomotives, passenger cars, and cargo cars
+5. The large investments required to construct lines, equip them with signals and communications, and produce locomotives, passenger cars, and cargo cars
 
-- The limited capabilities of the projects department at the 6. headquarters of the General Company for Iraq Railways, which are insufficient to meet the company's responsibilities to implement current and future projects.
+6. The limited capabilities of the projects department at the headquarters of the General Company for Iraq Railways, which are insufficient to meet the company's responsibilities to implement current and future projects.
 
 The  current  proposal  is  to  restructure  the  General  Authority for the Implementation of Railroad Projects so it can take on implementation of the proposed megaprojects. Alternately, the General  Company  for  Implementation  of  Transport  Projects would  be  rehabilitated  so  it  could  specialize  exclusively  in implementing railroad projects.
 
@@ -4045,11 +4306,11 @@ Reconstruction of Iraqi railway lines, to keep up with international  railway  n
 
 ###### Objectives
 
-Quantitative 1.
+1. Quantitative
 
-Table  36  shows  the  quantitative  goals  for  the  railroad activity over the five-year plan period 2010-2014. It details the increase in railroad line lengths, primary and secondary railroad  line  lengths,  stations,  as  well  as  passenger  and cargo transport capacities.
+Table 36 shows the quantitative goals for the railroad activity over the five-year plan period 2010-2014. It details the increase in railroad line lengths, primary and secondary railroad line lengths, stations, as well as passenger and cargo transport capacities.
 
-General Objectives 2.
+2. General Objectives
 
 - To complete the process of doubling single lines
 
@@ -4057,13 +4318,13 @@ General Objectives 2.
 
 - To eliminate all railroad crossings
 
-- To  equip  the  railroad  network  with  modern  trains, cars,  and  wagons  that  can  transport  passengers and cargo and meet the needs of the population and the national economy, as well as rehabilitate existing ones
+- To equip the railroad network with modern trains, cars, and wagons that can transport passengers and cargo and meet the needs of the population and the national economy, as well as rehabilitate existing ones
 
-- To upgrade the signal and communications systems in  the  current  railroad  network  over  the  coming years, including the satellite communications system currently under construction that identifies the location of trains at any time for purposes of accident prevention and in case of train breakdown
+- To upgrade the signal and communications systems in the current railroad network over the coming years, including the satellite communications system currently under construction that identifies the location of trains at any time for purposes of accident prevention and in case of train breakdown
 
-- To increase the speed of passenger trains to 140 km/ hour in phase one and to 250 km/hour in phase two
+- To increase the speed of passenger trains to 140 km/hour in phase one and to 250 km/hour in phase two
 
-- To strengthen Iraq's geographical presence as a link between east and west, and meet the demand for transit  cargo  transportation,  by  building  an  efficient and effective infrastructure capable of meeting that demand, and by promoting railroad links with Syria and Turkey that serve the national interest
+- To strengthen Iraq's geographical presence as a link between east and west, and meet the demand for transit cargo transportation, by building an efficient and effective infrastructure capable of meeting that demand, and by promoting railroad links with Syria and Turkey that serve the national interest
 
 - To electrify the railways.
 
@@ -4077,7 +4338,7 @@ Like  all  other  activities  in  the  transportation  sector,  railroad activit
 
 Table 36 | Quantitative Objectives for the Railroad Activity for the 2010-2014 Five-Year Plan
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | Increase in line lengths (km) Yearly | Increase in primary, secondary, and station line lengths (km) Cumulative Total | Increase in passenger transport capacity (million passengers) Yearly | Cumulative Total | Increase in Yearly | cargo transport (million tons) Cumulative Total | capacity Yearly | Cumulative Total
+Year | Increase in line lengths (km): Yearly | Increase in line lengths (km): Cumulative Total | Increase in primary, secondary, and station line lengths (km): Yearly | Increase in primary, secondary, and station line lengths (km): Cumulative Total | Increase in passenger transport capacity (million passengers): Yearly | Increase in passenger transport capacity (million passengers): Cumulative Total | Increase in cargo transport capacity (million tons): Yearly | Increase in cargo transport capacity (million tons): Cumulative Total
 2009 | - | 1,906 | 122 | 2,915 | - | 1 | - | 4
 2010 | - | 1,906 | 200 | 3,115 | 0.5 | 1.5 | 1 | 5
 2011 | - | 1,906 | 400 | 3,515 | 1 | 2.5 | 1 | 6
@@ -4095,13 +4356,13 @@ National Development Plan for the Years 2010-2014 95
 
 Infrastructure
 
-- Encouraging  the  private  sector  to  invest  in  this  activity, 2. particularly in operations and  service provision,  and granting  permission  to  the  sector  to  open  rail  transit agencies to attract transport requests
+2. Encouraging the private sector to invest in this activity, particularly in operations and service provision, and granting permission to the sector to open rail transit agencies to attract transport requests
 
-- Restructuring the General Authority for Implementation of 3. Railroad Projects so it can take on project implementation and  assign  the  task  to  companies  specializing  in  this field.  Alternately,  rehabilitating  the  General  Company  for Implementation of Transportation Projects (which currently exists)  so  it  can  specialize  exclusively  in  implementing railroad activities
+3. Restructuring the General Authority for Implementation of Railroad Projects so it can take on project implementation and assign the task to companies specializing in this field. Alternately, rehabilitating the General Company for Implementation of Transportation Projects (which currently exists) so it can specialize exclusively in implementing railroad activities
 
-- Developing the capacity of engineering and technical staff 4. in the railways sector to implement and construct railroad projects,  providing  the  specialized  railroad  construction equipment, which ensures creation of national specialized staff highly efficient in this field
+4. Developing the capacity of engineering and technical staff in the railways sector to implement and construct railroad projects, providing the specialized railroad construction equipment, which ensures creation of national specialized staff highly efficient in this field
 
-- Developing  and  modernizing  Iraq's  railway  institutions, 5. upgrading  laboratories  and  equipment,  developing  its work  procedures,  setting  controls  to  encourage  staff training, and encouraging students to join it.
+5. Developing and modernizing Iraq's railway institutions, upgrading laboratories and equipment, developing its work procedures, setting controls to encourage staff training, and encouraging students to join it.
 
 ##### 7.1.2.4 Port Activity
 
@@ -4115,23 +4376,18 @@ Port  activities  are  funded  and  managed  entirely  by  the  state through th
 
 Currently,  Iraq  has  four  commercial  ports  and  two  platforms to  export  oil.  There  are  48  commercial  port  docks  with  a capacity of 17.5 million tons annually, of which 43 are currently operational with a capacity of 15.90 million tons annually. Table 37 shows Iraqi commercial ports, their capacities, the number of docks in each port, and the available depths at the docks.
 
-As a result of the economic sanctions imposed on Iraq, and the  damage  to  ports  during  the  most  recent  war,  the  port machinery  and  equipment  are  obsolete  and  much  of  it  is nonoperational. The war also increased the number of sunken vessels in shipping lanes and a halt to dredging these lanes. This has, in turn, led to reduced depths in the lanes and off port docks. The sunken vessels hinder ship entry and dredging and maintenance operations. All of these factors have had a negative impact on the performance and efficiency of commercial ports and docks.
-
-Port  activity  declined  after  1990  as  a  result  of  economic sanctions; Iraq's imports were shipped to neighboring countries' ports until 2002. In that year, total cargo weights reached about
-
-Table 37 | Iraqi Commercial Capacities, Number | Ports and Their of Docks in | Available Each Port, and
+Table 37 | Iraqi Commercial Ports and Their Available Capacities, Number of Docks in Each Port, and Currently Available Depths at Docks
 --- | --- | --- | --- | ---
-Currently Available Depths at Docks
-Port | Available capacity (million tons | Number of docks
-Existing | Actually operating | Available depths at docks (meter)
-annually)
+Port | Available capacity (million tons annually) | Number of docks: Existing | Number of docks: Actually operating | Available depths at docks (meter)
 Magal Port | 1.5 | 11 | 6 | 6-8
 Umm Qasr Port | 7.5 | 22 | 22 | 6-10
-Khor Al- Zubair Port | 6.4 | 12 | 12 | 3-8
+Khor Al-Zubair Port | 6.4 | 12 | 12 | 3-8
 Abou Flous Port | 0.5 | 3 | 3 | 6
-Total | 15.9 | 48 | 43
+Total | 15.9 | 48 | 43 | 
 
-9  million  tons  because  the  country  signed  the  Oil  for  Food Memorandum  and  because  foreign  trade  increased.  Cargo weights  then  dropped  in  2004  and  2005  to  about  3  and  6 million tons, respectively, because of the deteriorating security situation.  They  rose  in  subsequent  years  to  their  previous levels.
+As a result of the economic sanctions imposed on Iraq, and the damage to ports during the most recent war, the port machinery and equipment are obsolete and much of it is nonoperational. The war also increased the number of sunken vessels in shipping lanes and a halt to dredging these lanes. This has, in turn, led to reduced depths in the lanes and off port docks. The sunken vessels hinder ship entry and dredging and maintenance operations. All of these factors have had a negative impact on the performance and efficiency of commercial ports and docks.
+
+Port activity declined after 1990 as a result of economic sanctions; Iraq's imports were shipped to neighboring countries' ports until 2002. In that year, total cargo weights reached about 9 million tons because the country signed the Oil for Food Memorandum and because foreign trade increased. Cargo weights then dropped in 2004 and 2005 to about 3 and 6 million tons, respectively, because of the deteriorating security situation. They rose in subsequent years to their previous levels.
 
 As  noted,  with  available  capacity  at  operational  port  docks of about 15.90 million tons annually (in 2008) but real annual traffic at 11.85 million tons, there is substantial unused capacity available.  We  must  determine  the  current  volume  of  Iraq's imports and exports passing through its ports and the volumes of neighboring countries, as well. If that export figure is greater than 11.85 million tons annually, we must investigate exploiting the available capacity and what may be the reasons why ships could be reluctant to dock at the Iraqi ports and choose those of  neighboring  countries  instead.  We  should  study  how  to attract  these  ships  to  Iraqi  ports  and  how  to  upgrading  port performance  by  equipping  port  docks  with  the  necessary handling equipment, as well as cost-effective means for intraport  transport  and  connection  to  the  national  transportation network.
 
@@ -4153,25 +4409,25 @@ National Development Plan for the Years 2010-2014
 
 The main potential for developing port activity in Iraq includes:
 
-- The significant difference between the design capacity of 1. current  docks-about 15 million tons annually-and the projected  demand  of  Iraq's  future  imports  and  exports, estimated to be 53 million tons by 2018
+1. The significant difference between the design capacity of current docks—about 15 million tons annually—and the projected demand of Iraq's future imports and exports, estimated to be 53 million tons by 2018
 
-- The presence of a maritime front within the territorial waters 2. of Iraq, making possible the construction of a port able to receive the largest commercial ships with loads of up to 120,000 tons, and conversion of the country's secondary ports to primary ports, strengthening Iraq's geographical position as a link between east and west and promoting transit trade. There would still be a need to develop railroad infrastructure to accomplish this goal.
+2. The presence of a maritime front within the territorial waters of Iraq, making possible the construction of a port able to receive the largest commercial ships with loads of up to 120,000 tons, and conversion of the country's secondary ports to primary ports, strengthening Iraq's geographical position as a link between east and west and promoting transit trade. There would still be a need to develop railroad infrastructure to accomplish this goal.
 
 ###### Challenges
 
-- Iraqi ports face stiff competition from the ports of nearby 1. countries (the United Arab Emirates and Qatar, for example) and neighboring countries (Kuwait,  Jordan,  Syria,  Saudi Arabia,  and  Iran).  These  ports  have  made  significant progress over the past two decades while performance and efficiency in Iraqi ports have declined as the result of economic  sanctions  and  wars.  Overall,  Iraqi  ports  have experienced  no  noticeable  improvement  domestically  or internationally.
+1. Iraqi ports face stiff competition from the ports of nearby countries (the United Arab Emirates and Qatar, for example) and neighboring countries (Kuwait, Jordan, Syria, Saudi Arabia, and Iran). These ports have made significant progress over the past two decades while performance and efficiency in Iraqi ports have declined as the result of economic sanctions and wars. Overall, Iraqi ports have experienced no noticeable improvement domestically or internationally.
 
-- The current depths of shipping lanes and docks ranges 2. from  6  to  10  meters-inadequate  to  receive  the  largest container ships and loads. This is why current ports remain secondary  ports.  Moreover,  transportation  costs  remain relatively high and noncompetitive as compared to those of to the other ports, leaving Iraqi businessmen dependent non-Iraqi ports for their imports.
+2. The current depths of shipping lanes and docks ranges from 6 to 10 meters—inadequate to receive the largest container ships and loads. This is why current ports remain secondary ports. Moreover, transportation costs remain relatively high and noncompetitive as compared to those of to the other ports, leaving Iraqi businessmen dependent non-Iraqi ports for their imports.
 
-- Ports also lag behind in management and operations, as 3. they  lack  modern  electronic  systems  and  have  failed  to keep up with the latest global developments in this field.
+3. Ports also lag behind in management and operations, as they lack modern electronic systems and have failed to keep up with the latest global developments in this field.
 
-- As noted, the many sunken ships in the shipping lanes 4. affect all shipping into and out of Iraqi ports.
+4. As noted, the many sunken ships in the shipping lanes affect all shipping into and out of Iraqi ports.
 
-- There  is  a  shortage  of  marine  equipment  (excavators, 5. towboats,  ships,  cranes,  lighting  ships,  survey  boats, pollution  control  boats,  lead  ships,  and  water  and  fuel tankers).  There  is  also  a  shortage  of  specialized  port equipment  and  cargo-handling  equipment,  and  to  the extent it exists, it is old.
+5. There is a shortage of marine equipment (excavators, towboats, ships, cranes, lighting ships, survey boats, pollution control boats, lead ships, and water and fuel tankers). There is also a shortage of specialized port equipment and cargo-handling equipment, and to the extent it exists, it is old.
 
-- There is little government investment directed toward port 6. activity or needs. Between 2004 and 2008, total investment in this activity was no more than 178,000 million dinars; of that no more than 30 percent was spent. In addition, the private sector is reluctant to invest in implementing port infrastructure projects.
+6. There is little government investment directed toward port activity or needs. Between 2004 and 2008, total investment in this activity was no more than 178,000 million dinars; of that no more than 30 percent was spent. In addition, the private sector is reluctant to invest in implementing port infrastructure projects.
 
-- The staff in this sector are low-skilled and there is a not 7. an efficient ratio of technical to administrative staff. There is  also  a  large  surplus  of  labor  that  negatively  affects performance efficiency.
+7. The staff in this sector are low-skilled and there is a not an efficient ratio of technical to administrative staff. There is also a large surplus of labor that negatively affects performance efficiency.
 
 ###### Vision
 
@@ -4179,23 +4435,23 @@ Main and secondary ports meet the nation's import and export needs; are able to 
 
 ###### Objectives
 
-- General objectives 1.
+1. General objectives
 
 - Increase the capacity of existing ports and shipping lanes
 
-- Utilize  the  available  unused  capacities  of  existing ports, which total about 3 million tons annually, and reduce  reliance  on  the  ports  of  neighboring  and nearby countries for Iraq's foreign trade by increasing the capacity of current Iraqi ports
+- Utilize the available unused capacities of existing ports, which total about 3 million tons annually, and reduce reliance on the ports of neighboring and nearby countries for Iraq's foreign trade by increasing the capacity of current Iraqi ports
 
-- Transition  to  constructing  major  ports  capable  of receiving  the  largest  ships;  reduce  transport  costs to make  Iraqi  ports  competitive  with  alternative ports; and equip one of them with the requirements necessary to act as a dry channel
+- Transition to constructing major ports capable of receiving the largest ships; reduce transport costs to make Iraqi ports competitive with alternative ports; and equip one of them with the requirements necessary to act as a dry channel
 
 - Strengthen the private sector's role in implementing, operating, and providing port services.
 
-- Quantitative objectives 2.
+2. Quantitative objectives
 
 - Increase the design capacity of Iraqi port docks to plan target levels by 2014 (as shown in table 38
 
-- Construct the  large  port  of  Al-Faw  during  the  plan period (as shown in table 39
+- Construct the large port of Al-Faw during the plan period (as shown in table 39
 
-- Remove  sunken  vessels  in  shipping  lanes  as  well as those close to docks during the plan period (as shown in table 40
+- Remove sunken vessels in shipping lanes as well as those close to docks during the plan period (as shown in table 40
 
 National Development Plan for the Years 2010-2014 97
 
@@ -4207,13 +4463,9 @@ National Development Plan for the Years 2010-2014 97
 
 Infrastructure
 
-Table 38
-
-###### Current Design Capacities for Iraqi Port Docks and 2014 Target Levels Under the Strategic Development and Modernization Plan
-
-2010 | Docks expected to be added during the five- year plan (2010-2014) | 2014
+Table 38 | Current Design Capacities for Iraqi Port Docks and 2014 Target Levels Under the Strategic Development and Modernization Plan
 --- | --- | --- | --- | --- | ---
-Port name | No. of docks | Capacity thousand tons/ year | No. of docks | Capacity thousand tons/ year
+Port name | 2010: No. of docks | 2010: Capacity thousand tons/year | Docks expected to be added during the five-year plan (2010-2014) | 2014: No. of docks | 2014: Capacity thousand tons/year
 Umm Qasr | 22 | 7,500 | 19 | 41 | 14,000
 Khor Al-Zubair | 12 | 6,400 | 13 | 25 | 10,650
 Al-Magal | 6 | 1,500 | 8 | 14 | 3,600
@@ -4222,11 +4474,11 @@ Total | 43 | 15,900 | 40 | 83 | 29,000
 
 Table 39 | Targeted Quantitative Objectives for Construction of the Large Port of Al-Faw
 --- | --- | --- | ---
-Description | 2018 | 2038
-Container docks | No. of docks | 1011 - | 22
-Containers/year | 3,000,000 | 7,000,000
-General cargo docks | No. of docks | 67 - | 22
-Tons/year | 10,000,000 | 40,000,000
+Description |  | 2018 | 2038
+Container docks | No. of docks | 10–11 | 22
+ | Containers/year | 3,000,000 | 7,000,000
+General cargo docks | No. of docks | 6–7 | 22
+ | Tons/year | 10,000,000 | 40,000,000
 
 Table 40 | Quantitative Objectives for Ports Activities to Lift Sunken Vessels 2010-2014
 --- | --- | --- | --- | --- | --- | ---
@@ -4235,26 +4487,26 @@ Umm Qasr | 3 | 2 | 1 | 2 | 2 | 10
 Khor Al-Zubair | 1 | 2 | 2 | 2 | 2 | 9
 Khor Abdullah Channel | 1 | 1 | 1 | 2 | 2 | 7
 Shatt Al-Arab | 3 | 3 | 2 | 2 | 2 | 12
-Removal of 8 sunken vessels using the Japanese loan | 8 | 8
+Removal of 8 sunken vessels using the Japanese loan | 8 |  |  |  |  | 8
 Total | 16 | 8 | 6 | 8 | 8 | 48
 
 ###### Means of Achieving the Objectives
 
-- Construction of the large port of Al-Faw 1.
+1. Construction of the large port of Al-Faw
 
-- Allocation of the funds necessary to develop, expand, and 2. modernize existing ports or open them to investments
+2. Allocation of the funds necessary to develop, expand, and modernize existing ports or open them to investments
 
-- Implementation  of  procedures  to  enhance  performance, 3. modernize operating methods, and remove obstacles to activity, using the following means:
+3. Implementation of procedures to enhance performance, modernize operating methods, and remove obstacles to activity, using the following means:
 
-- Contracting with a global consulting firm specialized in  providing  advice,  proposals,  and  solutions  to increase the efficiency  and  performance  of  the General Company  for  Iraq's Ports, including in its  role  as  regulator  and  monitor  of  private  sector performance, so it can compete with companies in neighboring and nearby countries
+- Contracting with a global consulting firm specialized in providing advice, proposals, and solutions to increase the efficiency and performance of the General Company for Iraq's Ports, including in its role as regulator and monitor of private sector performance, so it can compete with companies in neighboring and nearby countries
 
-- Providing  maritime  service  needs  to  the  oil  ports (Basra and Omaig ports) and the liquid gas port in Khor Al-Zubair
+- Providing maritime service needs to the oil ports (Basra and Omaig ports) and the liquid gas port in Khor Al-Zubair
 
-- Deepening, excavation, and establishment of · marine channels leading to the port and establishing television and electronic control systems for ship and vessel movement
+- Deepening, excavation, and establishment of marine channels leading to the port and establishing television and electronic control systems for ship and vessel movement
 
-- Upgrading  ground  handling  equipment  to  achieve the requisite cargo handling capacity
+- Upgrading ground handling equipment to achieve the requisite cargo handling capacity
 
-- Upgrading and enhancing the marine unit fleet that provides  marine  services  to  ports,  provided  this upgrade  includes  offshore  excavators,  towboats, signal ships, lead ships, passenger boats, connection boats, and workboats
+- Upgrading and enhancing the marine unit fleet that provides marine services to ports, provided this upgrade includes offshore excavators, towboats, signal ships, lead ships, passenger boats, connection boats, and workboats
 
 - Introducing modern electronic port management and operation systems
 
@@ -4286,23 +4538,23 @@ The private sector can play a major role in constructing and operating some  por
 
 Currently,  in  terms  of  port  activity,  private  sector  participants are  involved  in  unloading  and  shipping  in  their  capacity  as unloading contractors. They are also involved in implementing bids for projects generally, and the maintenance of some tools and equipment.
 
-Through  investments,  the  private  sector  can  participate  in some projects and work as follows:
+Through investments, the private sector can participate in some projects and work as follows:
 
-- Construction of the large port of Al-Faw 1.
+1. Construction of the large port of Al-Faw
 
-- Construction of 13 multipurpose docks in the Umm Qasr 2. port, with a capacity of 3,750,000 tons/year
+2. Construction of 13 multipurpose docks in the Umm Qasr port, with a capacity of 3,750,000 tons/year
 
-- Construction of 4 container docks in the Umm Qasr port, 3. with a capacity of 2,000,000 tons/year
+3. Construction of 4 container docks in the Umm Qasr port, with a capacity of 2,000,000 tons/year
 
-- Construction of 13 multi-purpose docks in the Khor Al4. Zubair port, with a capacity of 4,250,000 tons/year
+4. Construction of 13 multi-purpose docks in the Khor Al-Zubair port, with a capacity of 4,250,000 tons/year
 
-- Investment in the Maamir dock in Al-Faw, with a capacity 5. of 100,000 tons/year
+5. Investment in the Maamir dock in Al-Faw, with a capacity of 100,000 tons/year
 
-- Administration,  operation,  and  development  of  the  Al6. Magal and Abou Flous ports
+6. Administration, operation, and development of the Al-Magal and Abou Flous ports
 
-- Provision of services such as departure and docking, as 7. well as provision of services to ships in the port
+7. Provision of services such as departure and docking, as well as provision of services to ships in the port
 
-- Management of port docks, particularly container docks. 8.
+8. Management of port docks, particularly container docks.
 
 ##### 7.1.2.5 Maritime Transportation Activity
 
@@ -4337,17 +4589,16 @@ National Development Plan for the Years 2010-2014 99
 Infrastructure
 
 Table 41 | Quantitative Goals for Maritime Transport and Maritime Agencies During the Five-Year Plan (2010-2014)
---- | --- | --- | --- | --- | --- | --- | ---
-Maritime transport | Needs | Capacity/ number | Number | Ship distribution by plan year
-needed | 2010 | 2011 | 2012 | 2013 | 2014
-Pouring ships | 50,000 tons | 8 | 2 | 1 | 1 | 2 | 2
-Multipurpose ships | 1,000-20,000 tons | 2 | 1 | 1
-Passenger transport ship | 1,000 passengers | 1 | 1
-Maritime | Container transport ships | 750-1,000 containers | 2 | 1 | 1
-agencies | Maritime transport boats with a 50 passenger capacity | 4 | 1 | 1 | 1 | 1
-Self-powered fueling ships with a 1,000 ton capacity | 2 | 1 | 1
-Self-powered maritime ships with 1,000 ton capacity | 2 | 1 | 1
-Total | 8 | 2 | 2 | 2 | 2
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Activity | Needs | Capacity/number | Number needed | 2010 | 2011 | 2012 | 2013 | 2014
+Maritime transport | Pouring ships | 50,000 tons | 8 | 2 | 1 | 1 | 2 | 2
+ | Multipurpose ships | 1,000-20,000 tons | 2 |  | 1 |  | 1 | 
+ | Passenger transport ship | 1,000 passengers | 1 |  | 1 |  |  | 
+Maritime agencies | Container transport ships | 750-1,000 containers | 2 | 1 |  | 1 |  | 
+ | Maritime transport boats with a 50 passenger capacity |  | 4 | 1 | 1 | 1 | 1 | 
+ | Self-powered fueling ships with a 1,000 ton capacity |  | 2 | 1 |  |  | 1 | 
+ | Self-powered maritime ships with 1,000 ton capacity |  | 2 |  | 1 | 1 |  | 
+Total |  |  | 8 | 2 | 2 | 2 | 2 | 
 
 ###### The Private Sector's Role
 
@@ -4373,7 +4624,7 @@ Basra  International  Airport  consists  of  one  building  with  a capacity of 
 
 Mosul  Airport  consists  of  one  building  with  a  capacity  of 500,000 travelers annually; a runway 2.8 km x 45 meters; an area for aircraft parking that accommodates three aircraft; and an air traffic control and communications building. The airport is equipped with all the devices that ensure air traffic safety and provides services for travelers.
 
-Sulaymaniyah  International  Airport  is  an  international  airport categorized as CAT 1. It has both air and ground facilities. The air facilities consist of a runway 3.5 km x 45 meters, a parallel bypass of 3.5 km x 30 meters, secondary bypasses, and a parking area for three aircraft. The ground facilities consist of a one-story travelers' building with an approximate capacity of 350,000 travelers/year and a fuel depot.
+Sulaymaniyah International Airport is an international airport categorized as CAT 1. It has both air and ground facilities. The air facilities consist of a runway 3.5 km x 45 meters, a parallel bypass of 3.5 km x 30 meters, secondary bypasses, and a parking area for three aircraft. The ground facilities consist of
 
 100 National Development Plan for the Years 2010-2014
 
@@ -4382,7 +4633,7 @@ Sulaymaniyah  International  Airport  is  an  international  airport categorized
 [[START OF PAGE 101]]
 
 7
-
+a one-story travelers' building with an approximate capacity of 350,000 travelers/year and a fuel depot.
 Irbil  International  Airport  is  an  international  airport  with  both air and ground facilities categorized as CAT 1. The air facilities consist of a runway of 2.8 km x 30 meters, an area for parking five aircraft, and secondary bypasses. The ground facilities of the airport include a small, one-story travelers' building with an approximate capacity of 150,000 travelers/year, a fuel depot, buildings for firefighting trucks, ground equipment, and power supply.
 
 Najaf International Airport consists of a travelers' building with a capacity of 3,000,000 travelers/year, an area for parking four aircraft, and a runway 3 km x 45 meters.
@@ -4395,8 +4646,8 @@ In 2008, Iraqi Airways had two owned and three leased aircraft. The number of fl
 
 Table 42 | The General Establishment for Civil Aviation Activities 2002-2008
 --- | --- | --- | --- | --- | --- | --- | ---
-Details | Years
-2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
+Details | Years | | | | | | 
+ | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008
 Number of travelers | 426,520 | 22,162 | 66,898 | 243,980 | 442,017 | 461,849 | 585,967
 Number of trips | 4,329 | 436 | 1,870 | 3,686 | 3,235 | 6,389 | 7,933
 Labor force | 1,254 | 1,254 | 1,333 | 1,381 | 1,461 | 1,523 | 1,490
@@ -4414,11 +4665,12 @@ In  2002, as a result of the economic sanctions, international transportation wa
 In July 2004, the airport in Baghdad was handed over by the multinational  forces,  and  began  rebuilding  and  operating  in September 2004. However, operation was limited to Amman, Damascus, and incidental flights.
 
 Table 43 | Trips and Travelers (Departures and Arrivals) and Quantity of Cargo Transported Aboard Iraqi Airline Planes for the Years 1979, 1988, and 2002
---- | --- | ---
-Data | Years 1979 1988 | 2002
-No. of Trips | - 6,311 | 1,230
-No. of Travelers | 688,022 695,538 | 198,362
-Cargo quantity (tons) | 16,118 24,752 | 80,184
+--- | --- | --- | ---
+Data | Years | | 
+ | 1979 | 1988 | 2002
+No. of Trips | - | 6,311 | 1,230
+No. of Travelers | 688,022 | 695,538 | 198,362
+Cargo quantity (tons) | 16,118 | 24,752 | 80,184
 
 2008 was also marked by Iraqi Airways obtaining the air investor certificate  (A.O.C.),  opening  new  offices  in  Iraq  for  the  Iraqi Airways Company, determining a code for Najaf International Airport, upgrading the company's fleet with government-owned
 
@@ -4440,29 +4692,29 @@ Civil aviation needs development and support in various ways. The activity repre
 
 During  the  upcoming  five-year  plan,  and  for  the  purpose of  promoting  religious  tourism,  Iraq  is  expected  to  start implementing Middle Euphrates International Airport, which will be in the province of Karbala and is centered between Karbala, Hilla, and Najaf provinces. Its impact may extend to Diwaniyah and Samawah provinces.
 
-Table  43  shows  the  number  of  flights  and  passengers  (departures and arrivals), and the quantities of goods transported on board Iraqi Airways during the years 1979, 1988, and 2002. The table shows that there was little growth in passenger transport during the period 1979 to because of conditions imposed by the IraqIran War. Growth then declined during the period 1988 to 2002 because of the economic embargo, including an embargo on air transportation activities.
+Table 43 shows the number of flights and passengers (departures and arrivals), and the quantities of goods transported on board Iraqi Airways during the years 1979, 1988, and 2002. The table shows that there was little growth in passenger transport during the period 1979 to because of conditions imposed by the Iraq-Iran War. Growth then declined during the period 1988 to 2002 because of the economic embargo, including an embargo on air transportation activities.
 
 Table  44  shows  the  number  of  Iraqi  Airways'  internal  and international  flights,  arrivals,  and  departures  for  the  period 2004-2008. It shows rapid growth in demand for air transport between 2004 and 2006 becoming stable in 2007 and 2008. This stability may be attributed to the limited number of available aircraft and the advanced age of existing aircraft.
 
 ###### Challenges
 
-- The  slow  pace  of  implementing  the  rehabilitation  of  the 1. existing airports
+1. The slow pace of implementing the rehabilitation of the existing airports
 
-- Lack of a new and integrated air fleet; currently a limited 2. number of aged owned and leased aircraft
+2. Lack of a new and integrated air fleet; currently a limited number of aged owned and leased aircraft
 
-- Failure to resolve the Kuwaiti case 3.
+3. Failure to resolve the Kuwaiti case
 
-- An increased number of non-specialist employees hinders 4. company performance and financial results
+4. An increased number of non-specialist employees hinders company performance and financial results
 
-- Noncompliance of some  Iraqi Airways  management 5. methods and operations with international requirements.
+5. Noncompliance of some Iraqi Airways management methods and operations with international requirements.
 
 ###### Vision
 
-High-level  management  and  a  new  Iraqi  air  fleet  with  new aircraft.
+High-level management and a new Iraqi air fleet with new aircraft.
 
 ###### Objectives
 
-General Objectives 1.
+1. General Objectives
 
 - Rehabilitating Existing Airports
 
@@ -4470,7 +4722,7 @@ General Objectives 1.
 
 - Rebuilding the air fleet
 
-- Developing  current  staff  and  creating  new  young cadres
+- Developing current staff and creating new young cadres
 
 - Strengthening the role of Iraqi Airways as a national carrier
 
@@ -4482,8 +4734,8 @@ Table 45 shows the quantitative objectives of the civil aviation activity during
 
 Table 45 | Quantitative Objectives of the Aviation Activities during the Plan Years 2010-2014
 --- | --- | --- | --- | ---
-Year | Number of aircraft | Number of travelers
-Arrival | Departure | Arrival | Departure
+Year | Number of aircraft | | Number of travelers | 
+ | Arrival | Departure | Arrival | Departure
 2010 | 7,453 | 7,453 | 719,965 | 679,257
 2011 | 9,912 | 9,912 | 1,072,748 | 964,928
 2012 | 13,183 | 13,183 | 1,598,395 | 1,370,198
@@ -4502,8 +4754,8 @@ The quantitative objectives for rebuilding the Iraqi air fleet are to provide:
 
 Table 44 | Number of Flights, Arrivals and Departures, Internal and International Transport, Iraqi Airways 2004 -2008
 --- | --- | --- | --- | --- | --- | ---
-Year | International transportation | Internal transportation
-Number of flights | Departure | Arrival | Number of flights | Departure | Arrival
+Year | International transportation | | | Internal transportation | | 
+ | Number of flights | Departure | Arrival | Number of flights | Departure | Arrival
 2004 | 305 | 9,917 | 10,555 | - | - | -
 2005 | 1,782 | 70,898 | 61,936 | 826 | 20,333 | 20,023
 2006 | 3,266 | 145,323 | 128,675 | 1,412 | 37,473 | 37,222
@@ -4518,11 +4770,11 @@ Number of flights | Departure | Arrival | Number of flights | Departure | Arriva
 
 7
 
-The quantitative objectives for number of travelers (international and  internal)  and  goods  (imported  and  exported  shipments) expected to be transported by Iraqi Airways during the fiveyear plan (2010-2014) are shown in table 46.
+The quantitative objectives for number of travelers (international and internal) and goods (imported and exported shipments) expected to be transported by Iraqi Airways during the five-year plan (2010-2014) are shown in table 46.
 
 Table 46 | The Plan for International and Internal Transport by Iraqi Airways during the Plan Years 2010-2014
 --- | --- | --- | --- | --- | ---
-2010 | 2011 | 2012 | 2013 | 2014
+ | 2010 | 2011 | 2012 | 2013 | 2014
 International transport (travelers) | 367,680 | 514,752 | 773,752 | 1,083,252 | 1,516,552
 Internal transport (travelers) | 79,037 | 102,748 | 133,572 | 173,643 | 225,735
 Imported shipments (tons) | 39,513 | 55,318 | 77,445 | 108,423 | 151,792
@@ -4532,15 +4784,15 @@ Exported shipments (tons) | 252 | 353 | 494 | 692 | 969
 
 In infrastructure, the private sector can play a role in:
 
-- Construction  of  civilian  airports  (both  air  and  ground 1. facilities) by private sector investors
+1. Construction of civilian airports (both air and ground facilities) by private sector investors
 
-- Construction by the state of airport air facilities (runways, 2. bypasses, air traffic control towers, aircraft parking areas, and so on), while making construction of ground facilities (travelers' halls, restaurants, cafeterias, markets, garages, and the like) available to the private sector, which would implement them by investing in areas of high economic and technical potential, such as religious tourism
+2. Construction by the state of airport air facilities (runways, bypasses, air traffic control towers, aircraft parking areas, and so on), while making construction of ground facilities (travelers' halls, restaurants, cafeterias, markets, garages, and the like) available to the private sector, which would implement them by investing in areas of high economic and technical potential, such as religious tourism
 
 In  operations,  the  private  sector  can  make  contributions independently or through joint  operations.  In  services,  it  can play an important and effective role. For example, the role of the  General  Company  for  Iraqi  Airways  could  be  limited  to transport of travelers and luggage on aircraft and marketing of that service. The private sector could then provide services in fields such as the following:
 
 - Aircraft maintenance
 
-- Services  to  aircraft at the  airport (electricity, air · conditioning, cleaning)
+- Services to aircraft at the airport (electricity, air conditioning, cleaning)
 
 - Cargo shipments.
 
@@ -4548,11 +4800,11 @@ In  operations,  the  private  sector  can  make  contributions independently or
 
 The communications sector includes the following activities:
 
-- Communications activities (including switches, networks, 1. and messaging)
+1. Communications activities (including switches, networks, and messaging)
 
-- Mail 2.
+2. Mail
 
-- The internet and information technology. 3.
+3. The internet and information technology.
 
 #### 7.2.1 Communications Activity
 ##### Reality
@@ -4596,7 +4848,7 @@ To  take  advantage  of  Iraq's  geographical  location  and  to strengthen its 
 
 As the communications sector has become an important and profitable sector,  it can contribute significantly to the state's revenues. The field is also wide open to the private sector to participate in constructing and operating several of the sector's projects  through  partnership  contracts  or  through  complete investment, with the state supervising and regulating activities.
 
-The  general  framework  adopted  by  the  communications strategy  in  Iraq  for  the  coming  period  is  consistent  with  the World  Summit's  conclusions  as regards the informationbased  society;  the  general  Arab  strategy  with  respect  to communications and information technology 2007-2012; the regional plan of action to build an information-based society in ESCWA member countries; and the Millennium Development Goals (MDGs).
+The general framework adopted by the communications strategy in Iraq for the coming period is consistent with the World Summit's conclusions as regards the information-based society; the general Arab strategy with respect to communications and information technology 2007-2012; the regional plan of action to build an information-based society in ESCWA member countries; and the Millennium Development Goals (MDGs).
 
 The following data, issued by the CSO in March 2009, shows the national indicators for monitoring the MDGs:
 
@@ -4628,31 +4880,31 @@ Implementation  of  a  qualitatively  advanced  communication and information te
 
 ##### Objectives
 
-General Objectives 1.
+1. General Objectives
 
-- Expanding  fixed  telephone  lines  in  the  urban  and rural  areas,  and  high  rates  of  universal  access  and universal services
+- Expanding fixed telephone lines in the urban and rural areas, and high rates of universal access and universal services
 
-- Providing an appropriate infrastructure for the · application of e-government services
+- Providing an appropriate infrastructure for the application of e-government services
 
-- Reducing  the  disparity  in  cell  phone  proliferation between urban and rural areas
+- Reducing the disparity in cell phone proliferation between urban and rural areas
 
 - Increasing distribution of computers
 
 - Increasing access to the Internet
 
-- Reduce  the  costs  of  using  telecommunications, including the Internet, as a proportion  income, making  prices  affordable  to  a  larger  segment  of society, especially school and college students
+- Reduce the costs of using telecommunications, including the Internet, as a proportion income, making prices affordable to a larger segment of society, especially school and college students
 
 - Improving the quality of communications and Internet services
 
-- Expanding the use of broadband services at · appropriate price
+- Expanding the use of broadband services at appropriate price
 
 - Improving and expanding communication bands for international gateways
 
-- Optimizing use of frequencies, control over · international cell phone  traffic, and  provision of Internet services gateways.
+- Optimizing use of frequencies, control over international cell phone traffic, and provision of Internet services gateways.
 
-Quantitative Objectives 2.
+2. Quantitative Objectives
 
-Table 49 shows the infrastructure indicators for information technology,  communications,  and  gateways.  Note  that some  of  these  figures  are  ambitious  as  compared  to national  indicators  for  monitoring  achievement  of  the MDGs. That is the case for the number of telephone lines, number of cell phone subscribers, and families who own a computer.
+Table 49 shows the infrastructure indicators for information technology, communications, and gateways. Note that some of these figures are ambitious as compared to national indicators for monitoring achievement of the MDGs. That is the case for the number of telephone lines, number of cell phone subscribers, and families who own a computer.
 
 ##### Means of Achieving the Objectives
 
@@ -4668,15 +4920,15 @@ In  addition  to  securing  the  investment  required  to  achieve activity  goa
 
 activity goals:
 
-- Supporting  the  communications  and  media  regulatory 1. authority and strengthening its executive abilities to apply rules and guidelines
+1. Supporting the communications and media regulatory authority and strengthening its executive abilities to apply rules and guidelines
 
-- Creating  an  enabling  environment  by  instituting  laws 2. and regulations for the communications and information sector,  including  the  Ministry  of  Communications  law  to restructure the ministry to include information technology functions as part of its responsibilities;
+2. Creating an enabling environment by instituting laws and regulations for the communications and information sector, including the Ministry of Communications law to restructure the ministry to include information technology functions as part of its responsibilities;
 
-- Strengthening  the  role  of  the  authority  to  create  a  fair 3. and transparent competitive environment for all parties to encourage investment and activate the private sector's role; seeking to protect consumers and simplify the procedures for issuing telecommunications services licenses
+3. Strengthening the role of the authority to create a fair and transparent competitive environment for all parties to encourage investment and activate the private sector's role; seeking to protect consumers and simplify the procedures for issuing telecommunications services licenses
 
-- Transferring  the  developed  expertise  by  entering  into 4. strategic partnerships with international companies providing telecommunication services
+4. Transferring the developed expertise by entering into strategic partnerships with international companies providing telecommunication services
 
-- Ratifying  the  agreements  for  intellectual  property  rights 5. and  preventing  illegal  reproduction  of  software,  artistic, and intellectual products.
+5. Ratifying the agreements for intellectual property rights and preventing illegal reproduction of software, artistic, and intellectual products.
 
 Table 49 | Indicators for the Infrastructure for Information Technology and Communications, and Access
 --- | --- | ---
@@ -4688,8 +4940,8 @@ Number of Internet Subscribers per 100 persons | - | 20%
 Number of broadband Internet Subscribers per 100 persons | - | 10%
 Proportion of families that have computers | 5.6% | 20%
 Proportion of families that have access to the Internet at home | 2.8% | 10%
-Per capita of international Internet bandwidth
-Percentage of the population covered by cell phone service (coverage includes most of the regions) | 100%
+Per capita of international Internet bandwidth | | 
+Percentage of the population covered by cell phone service (coverage includes most of the regions) | | 100%
 Cost to access the Internet (20 hours per month) in US$ as a percentage of annual per capita income | 8% | 4%
 Cost of using a cell phone (100 minutes per month) in US$ and as a percentage of annual per capita income | 5% | 3%
 
@@ -4697,13 +4949,13 @@ Cost of using a cell phone (100 minutes per month) in US$ and as a percentage of
 
 The  communications  sector  is  well-suited  for  the  private sector to play an important and broad-based role in. It is quite profitable, provides rapid returns, and faces increasing demand for services, including:
 
-- Cell phone services 1.
+1. Cell phone services
 
-- Landline phone services 2.
+2. Landline phone services
 
-- Wireless phone services 3.
+3. Wireless phone services
 
-- Internet services 4.
+4. Internet services
 
 #### 7.2.2 Postal Activity
 
@@ -4713,13 +4965,13 @@ Despite  the  progress  in  mail  services  in  Iraq,  and  the  good quality of
 
 ##### Challenges
 
-- Mail development projects not included in the priorities of 1. the communications sector
+1. Mail development projects not included in the priorities of the communications sector
 
-- Slow incorporation of modern, advanced communications 2. systems in mail operations
+2. Slow incorporation of modern, advanced communications systems in mail operations
 
-- Weakness of the available capabilities and traditional work 3. methods
+3. Weakness of the available capabilities and traditional work methods
 
-- Lack of user confidence in the level of services delivered. 4.
+4. Lack of user confidence in the level of services delivered.
 
 ##### Vision
 
@@ -4727,25 +4979,25 @@ To rebuild mail activities to provide quick and reliable services.
 
 ##### Objectives
 
-- Improving  the  quality  of  postal  services,  particularly  the 1. traditional services, and introducing new services
+1. Improving the quality of postal services, particularly the traditional services, and introducing new services
 
-- Developing mail services internally and with other countries 2. to become an international postal service
+2. Developing mail services internally and with other countries to become an international postal service
 
-- Increasing the proportion of mail distributed to homes and 3. institutions
+3. Increasing the proportion of mail distributed to homes and institutions
 
-- Integration  of  postal  sector  activities  within  the  national 4. economy and government activities to implement e-government,  electronic  trade,  and  ATMs  and  other applications.
+4. Integration of postal sector activities within the national economy and government activities to implement e-government, electronic trade, and ATMs and other applications.
 
 ##### Means of Achieving the Objectives
 
-- Separating  the  mail  activities  from  communications  to 1. create  an  independent  entity,  initially;  considering,  at  a later date, prominent role for the private sector
+1. Separating the mail activities from communications to create an independent entity, initially; considering, at a later date, prominent role for the private sector
 
-- Developing  a  clear  strategy  for  directions  to  accelerate 2. postal activities
+2. Developing a clear strategy for directions to accelerate postal activities
 
-- Developing an action plan, including for human 3. capacity,  to  upgrade  the  postal  service  infrastructure  to realize  the  greatest  benefits  from  communications  and information technology to improve services and link them electronically
+3. Developing an action plan, including for human capacity, to upgrade the postal service infrastructure to realize the greatest benefits from communications and information technology to improve services and link them electronically
 
-- Realizing the maximum benefit from communications and 4. information technology and other banking technologies in improving services permitting citizens to save money with increased confidence
+4. Realizing the maximum benefit from communications and information technology and other banking technologies in improving services permitting citizens to save money with increased confidence
 
-- Introducing  a  strategic  partner  into  the  postal  service 5. directorate;  generating  savings  by  introducing  modern administrative and technical capabilities and expertise, as well  as  new  technological  systems  that  improve  service
+5. Introducing a strategic partner into the postal service directorate; generating savings by introducing modern administrative and technical capabilities and expertise, as well as new technological systems that improve service
 
 National Development Plan for the Years 2010-2014 105
 
@@ -4759,9 +5011,9 @@ Infrastructure
 
 efficiency and quality
 
-- Addressing  the  need  for  the  postal  service  and  savings 6. capabilities  to  function  on  a  commercial  basis  and  be able to compete in a free market environment, reducing dependence on government support
+6. Addressing the need for the postal service and savings capabilities to function on a commercial basis and be able to compete in a free market environment, reducing dependence on government support
 
-- Encouraging  the  private  sector  to  invest  in  developing 7. international  mail  centers  in  Iraq  and  an  express  mail service capability.
+7. Encouraging the private sector to invest in developing international mail centers in Iraq and an express mail service capability.
 
 ### 7.3 Storage Sector
 
@@ -4779,8 +5031,8 @@ The storage capacity for the strategic rice crop is concentrated in Wasit, Basra
 
 Table 50 | Storage Capacities of the Silos And Warehouses of the General Company for Grain Trading to 2008
 --- | --- | --- | --- | --- | ---
-Provinces | Storage capacities of the silos and warehouses of the General Company for Grain Trading (wheat and barley) | Current roofed storage capacities for the rice
-Bins | Bunkers | Terraces | Current storage capacities (tons) | crop (tons)
+Provinces | Storage capacities of the silos and warehouses of the General Company for Grain Trading (wheat and barley) | | | | Current roofed storage capacities for the rice crop (tons)
+ | Bins | Bunkers | Terraces | Current storage capacities (tons) |
 Nineveh | 353,000 | 446,200 | 91,500 | 890,700 | 42,750
 Dohuk | 105,000 | 23,000 | - | 128,000 | -
 Irbil | 112,000 | 114,800 | - | 226,800 | 7,500
@@ -4805,9 +5057,9 @@ All storage capacities, in all of the forms shown in the above table, are insuff
 
 #### The problems and challenges
 
-- The age of some silos and their need of rehabilitation 1.
+1. The age of some silos and their need of rehabilitation
 
-- Ineffective silo management and operation methods. 2.
+2. Ineffective silo management and operation methods.
 
 #### Vision
 
@@ -4823,15 +5075,15 @@ Safe and sustainable storage methods to ensure availability of the main crops (w
 
 #### Objectives
 
-General Objectives 1.
+1. General Objectives
 
-- Securing  strategic  storage  of  sufficient  wheat  and rice for at least six months
+- Securing strategic storage of sufficient wheat and rice for at least six months
 
 - Constructing new silos and new storage places for wheat and rice.
 
-Quantitative Objectives 2.
+2. Quantitative Objectives
 
-Table  51  shows  the  proposed  storage  capacities  to  be added during the five-year plan 2010-2014, broken down by province.
+Table 51 shows the proposed storage capacities to be added during the five-year plan 2010-2014, broken down by province.
 
 Table 51 | Proposed Storage Capacities to be Added During the Five -Year Plan 2010-2014, by Province
 --- | --- | --- | ---
@@ -4846,8 +5098,8 @@ Karbala | 10,000 | 61,764 | 80,000
 Dhi Qar | 20,000 | 116,154 | 120,000
 Maysan | 10,000 | 64,998 | 80,000
 Basra | 125,000 | 165,672 | 120,000
-+
-In Umm Qasr silo | 120,000
+ | | | +
+In Umm Qasr silo | | | 120,000
 
 ### 7.4 Water and Sanitation
 
@@ -4905,17 +5157,17 @@ Total | 245 | 4,012,697 | 2,128 | 3,228,392 | 7,241,089 | 22,073,604 | 17,858,64
 
 ###### Challenges
 
-- Lack of budget for water projects, both in the investment 1. budget  for  new  projects  and  the  operating  budget  for current  projects  to  ensure  the  needs  of  the  operations such as fuel, sterilization materials, and maintenance
+1. Lack of budget for water projects, both in the investment budget for new projects and the operating budget for current projects to ensure the needs of the operations such as fuel, sterilization materials, and maintenance
 
-- Low  water  levels  in  the  rivers  that  supply  the  projects, 2. caused by low levels of water coming from the countries upstream of the Tigris and Euphrates and their tributaries, and the lack of rain in recent years
+2. Low water levels in the rivers that supply the projects, caused by low levels of water coming from the countries upstream of the Tigris and Euphrates and their tributaries, and the lack of rain in recent years
 
-- Aging water lines, which leads to increased water loss and 3. pollution of the water received by the consumer
+3. Aging water lines, which leads to increased water loss and pollution of the water received by the consumer
 
-- The  difficulty  of  the  procedures  and  the  length  of  time 4. required for municipal authorities to allocate land for water projects and encroachments by other parties
+4. The difficulty of the procedures and the length of time required for municipal authorities to allocate land for water projects and encroachments by other parties
 
-- Operational problems caused by continuous power 5. interruptions,  insufficient  fuel  to  run  project  generators, and lack of engineering and technical staff
+5. Operational problems caused by continuous power interruptions, insufficient fuel to run project generators, and lack of engineering and technical staff
 
-- The excessive price policy that supports service 6. delivery  and  its  negative  impact  on  long-term  economic performance.
+6. The excessive price policy that supports service delivery and its negative impact on long-term economic performance.
 
 ###### Vision
 
@@ -4925,29 +5177,29 @@ Ensure safe drinking water that meets international standards is accessible by a
 
 Reducing the number of people with no access to safe drinking water from water projects or water reservoirs to 10 percent in urban areas and 26 percent in rural areas to avoid shortages and ensure that drinking water of sufficient quality and quantity through other means such as:
 
-- Bringing service to areas not previously serviced 1.
+1. Bringing service to areas not previously serviced
 
-- Providing safe drinking water that meets all international 2. standards for all uses in the urban and rural areas
+2. Providing safe drinking water that meets all international standards for all uses in the urban and rural areas
 
-- Ensure  that  the  water  processed  is  of  high  quality  and 3. meets international standards
+3. Ensure that the water processed is of high quality and meets international standards
 
-- Reducing the water shortages in all Iraqi provinces 4.
+4. Reducing the water shortages in all Iraqi provinces
 
-- Reducing service level disparities among provinces as well 5. as between rural and urban areas.
+5. Reducing service level disparities among provinces as well as between rural and urban areas.
 
 ###### Means of Achieving the objectives
 
-- Completing and constructing 92 projects in all provinces, 1. funded locally by the investment budget
+1. Completing and constructing 92 projects in all provinces, funded locally by the investment budget
 
-- Ensuring adequate water quotas are allocated for new and 2. existing projects from the source they depend on
+2. Ensuring adequate water quotas are allocated for new and existing projects from the source they depend on
 
-- Ensuring  availability  of  operational  requirements  such 3. as fuel, electricity, engineering and technical staff, and a continuous supply of filtering and sterilizing materials
+3. Ensuring availability of operational requirements such as fuel, electricity, engineering and technical staff, and a continuous supply of filtering and sterilizing materials
 
-- Reducing water waste through rehabilitating the 4. transportation  and  distribution  networks,  and  increasing consumer  awareness  of  various  ways  to  reduce  water consumption
+4. Reducing water waste through rehabilitating the transportation and distribution networks, and increasing consumer awareness of various ways to reduce water consumption
 
-- Gradually  removing  subsidies  for  providing  this  service, 5. based on consumption levels, but continuing subsidies for the poor whose consumption is less than a certain limit to be determined by the water authorities
+5. Gradually removing subsidies for providing this service, based on consumption levels, but continuing subsidies for the poor whose consumption is less than a certain limit to be determined by the water authorities
 
-- Constructing water desalination projects in the provinces 6. that  suffer  from  high  salinity,  especially  the  southern provinces
+6. Constructing water desalination projects in the provinces that suffer from high salinity, especially the southern provinces
 
 108 National Development Plan for the Years 2010-2014
 
@@ -4957,7 +5209,7 @@ Reducing the number of people with no access to safe drinking water from water p
 
 7
 
-- Continuing capacity building programs, developing the staff 7. in accordance with modern technologies for implementing water projects.
+7. Continuing capacity building programs, developing the staff in accordance with modern technologies for implementing water projects.
 
 ##### 7.4.2.2 Water Services in Baghdad
 
@@ -4987,35 +5239,35 @@ Secure safe drinking water that meets international specifications, and enough f
 
 ###### Objectives
 
-- Increasing the per capita share of drinking water to 2001. 300 liters/person/day
+1. Increasing the per capita share of drinking water to 200-300 liters/person/day
 
-- Ensure  a  high  quality  water  supply  in  accordance  with 2. international specifications
+2. Ensure a high quality water supply in accordance with international specifications
 
-- Ensure adequate stocks of water to supply the city sectors 3. when water projects stop.
+3. Ensure adequate stocks of water to supply the city sectors when water projects stop.
 
 ###### Means of Achieving the Objectives
 
-- Completing construction of Alrusafa water project in two 1. stages, with a capacity of 910,000 cubic meters per day
+1. Completing construction of Alrusafa water project in two stages, with a capacity of 910,000 cubic meters per day
 
-- Directing the implementation of the plan to construct the 2. remaining three stages of the Alrusafa project to produce 3,165 million cubic meters per day
+2. Directing the implementation of the plan to construct the remaining three stages of the Alrusafa project to produce 3,165 million cubic meters per day
 
-- Constructing a new purification project for the areas that 3. are far from the main project services
+3. Constructing a new purification project for the areas that are far from the main project services
 
-- Continuing  construction  of  small  purification  complexes 4. for the areas suffering from severe shortages
+4. Continuing construction of small purification complexes for the areas suffering from severe shortages
 
-- Constructing 10 new underground tanks, and expanding 5. tanks that are currently operating
+5. Constructing 10 new underground tanks, and expanding tanks that are currently operating
 
-- Constructing  new  laboratories  and  expanding  existing 6. ones
+6. Constructing new laboratories and expanding existing ones
 
-- Extending the pure water networks to the areas that are 7. not currently served
+7. Extending the pure water networks to the areas that are not currently served
 
-- Renewing the old and damaged water networks to reduce 8. waste and obtain high quality water
+8. Renewing the old and damaged water networks to reduce waste and obtain high quality water
 
-- Make  consumers  aware  of  the  differences  between 9. drinking water and the raw water used for irrigation and other purposes
+9. Make consumers aware of the differences between drinking water and the raw water used for irrigation and other purposes
 
-- Gradually removing subsidies for service, based  on 10. consumption  levels,  but  continuing  subsidies  for  the poor,  and  those  who  consume  less  than  a  certain  limit determined by the water authorities
+10. Gradually removing subsidies for service, based on consumption levels, but continuing subsidies for the poor, and those who consume less than a certain limit determined by the water authorities
 
-- Continue capacity-building programs and developing staff according to modern technologies for implementing water projects.
+11. Continue capacity-building programs and developing staff according to modern technologies for implementing water projects.
 
 National Development Plan for the Years 2010-2014 109
 
@@ -5037,30 +5289,11 @@ The total design capacities of the central processing stations and  the  small  
 
 ###### First: Reality
 
-Sanitation  projects,  as  noted,  were  and  still  are  below  the required level. The percentage of ybpopulation in the provinces, with the exception of the outskirts of Baghdad and the Kurdistan region,  was  about  26  percent  in  2009.  Lack  of  care  in  this sector contributed to polluting the environment and became a real danger to the health of citizens, as most sanitation water is dumped in rivers and streams used for drinking water by many residents of the villages and rural areas which are not served by the portable water networks. Table 53 shows the number of projects and residents served.
+Sanitation projects, as noted, were and still are below the required level. The percentage of population in the provinces, with the exception of the outskirts of Baghdad and the Kurdistan region, was about 26 percent in 2009. Lack of care in this sector contributed to polluting the environment and became a real danger to the health of citizens, as most sanitation water is dumped in rivers and streams used for drinking water by many residents of the villages and rural areas which are not served by the portable water networks. Table 53 shows the number of projects and residents served.
 
-Huge investments were allocated to sanitation in the various provinces, with the exception of the city of Baghdad, reaching 750  billion  dinars  for  the  period  2004-2008.  High  drainage rates  of  90  percent  were  achieved,  despite  which  sanitation services remained limited and infrastructure deteriorated. As a result, there was no noticeable improvement in these services.
-
-###### Challenges
-
-- The large deficit in coverage of the urban population and 1. the total absence of coverage in the rural areas, and the need  for  huge  financial  resources  to  increase  coverage and quality of service
-
-- The age of the existing sewer drainage networks and the 2. need to maintain and develop it
-
-- The  serious  environmental  pollution  caused  by  the  discharge 3. of  untreated  water  into  water  resources,  particularly  the presence of  sanitation  water  in  drinking  water  networks close to the intake of drinking water projects
-
-- The reluctance of skilled and unskilled workers to work in 4. sanitation for social reasons
-
-- The  continuous  and  significant  horizontal  expansion  of 5. Iraqi cities and towns, which maximizes the cost of service and hampers the increase of coverage percentage
-
-- Lack of fuel and operational supplies such as specialized 6. mechanisms, equipment, and so on
-
-- Problems  using  and  allocating  project  sites  and  the 7. use  of  typical  traditional  methods  and  designs  without modernizing them.
-
-Table 53 | Sanitation Projects exception of | in the Kurdistan | Provinces region) in | (with the 2009
+Table 53 | Sanitation Projects in the Provinces (with the exception of Kurdistan region) in 2009
 --- | --- | --- | --- | --- | ---
-Province | Number
-Design capacity | Number of people served | of sewage water | Number of pumps | Network length (km)
+Province | Design capacity | Number of people served | Number of sewage water stations | Number of pumps | Network length (km)
 Nineveh | 17,820 | 61,500 | 5 | 14 | 51
 Kirkuk | 3,500 | 9,000 | 2 | 5 | 26
 Saladhuddin | 27,000 | 82,000 | 16 | 62 | 345
@@ -5078,6 +5311,24 @@ Maysan | 30,000 | 75,000 | 31 | 68 | 120
 Basra | 118,100 | 1,000,000 | 65 | 98 | 866,436
 Total | 354,020 | 1,846,610 | 194 | 369 | 84,529,413
 
+Huge investments were allocated to sanitation in the various provinces, with the exception of the city of Baghdad, reaching 750 billion dinars for the period 2004-2008. High drainage rates of 90 percent were achieved, despite which sanitation services remained limited and infrastructure deteriorated. As a result, there was no noticeable improvement in these services.
+
+###### Challenges
+
+1. The large deficit in coverage of the urban population and the total absence of coverage in the rural areas, and the need for huge financial resources to increase coverage and quality of service
+
+2. The age of the existing sewer drainage networks and the need to maintain and develop it
+
+3. The serious environmental pollution caused by the discharge of untreated water into water resources, particularly the presence of sanitation water in drinking water networks close to the intake of drinking water projects
+
+4. The reluctance of skilled and unskilled workers to work in sanitation for social reasons
+
+5. The continuous and significant horizontal expansion of Iraqi cities and towns, which maximizes the cost of service and hampers the increase of coverage percentage
+
+6. Lack of fuel and operational supplies such as specialized mechanisms, equipment, and so on
+
+7. Problems using and allocating project sites and the use of typical traditional methods and designs without modernizing them.
+
 ###### Vision
 
 All provinces covered by sanitation services and the percentage of those served exceeds the Millennium Development Goals of 10 percent, with river  waters  managed to meet international standards.
@@ -5090,7 +5341,7 @@ All provinces covered by sanitation services and the percentage of those served 
 
 ###### Means of Achieving the Objectives
 
-- Implementing  48  projects  distributed  over  all  provinces 1.
+1. Implementing 48 projects distributed over all provinces
 
 110 National Development Plan for the Years 2010-2014
 
@@ -5102,27 +5353,34 @@ All provinces covered by sanitation services and the percentage of those served 
 
 according to need, population density, and current coverage percentage
 
-- Rehabilitating old sanitation networks and replacing their 2. damaged parts
+2. Rehabilitating old sanitation networks and replacing their damaged parts
 
-- Allocating  investment  amounts  within  the  plan  for  the 3. expansion of rainwater networks
+3. Allocating investment amounts within the plan for the expansion of rainwater networks
 
-- Enhancing  the  capabilities  of  the  central  laboratories 4. and sewage laboratories  in  the  provinces  to  secure  the necessary  tests  to  ensure  dumped  water  is  treated  per international specifications
+4. Enhancing the capabilities of the central laboratories and sewage laboratories in the provinces to secure the necessary tests to ensure dumped water is treated per international specifications
 
-- Implementing  new  projects  in  the  cities  according  to 5. population density,  groundwater  levels,  and  implementation stages, from the higher levels to the lower levels (province, judiciary area, district)
+5. Implementing new projects in the cities according to population density, groundwater levels, and implementation stages, from the higher levels to the lower levels (province, judiciary area, district)
 
-- Reviewing  the  standards  of  city  planning  and  horizontal 6. housing and transitioning to vertical housing
+6. Reviewing the standards of city planning and horizontal housing and transitioning to vertical housing
 
-- Granting  incentives  to  sewage  workers  to  reduce  their 7. reluctance to work in this field
+7. Granting incentives to sewage workers to reduce their reluctance to work in this field
 
-- Ensuring operational requirements in a sustainable 8. manner
+8. Ensuring operational requirements in a sustainable manner
 
-- Continuing capabilities-building programs and staff 9. development according to modern technologies in implementing sanitation projects.
+9. Continuing capabilities-building programs and staff development according to modern technologies in implementing sanitation projects.
 
 ##### 7.4.3.2 Sanitation Services in the City of Baghdad
 
 ###### Reality
 
-Of  Baghdad's  population,  75  percent  are  served  by  the sanitation  networks.  There  are  three  active  projects,  with different  capacities.  The  percentage  of  incoming  sewage  in the city exceeds its treatment capacities. Some of the overflow goes untreated to the discharge places, causing environmental damage and negatively affecting the health of citizens and even threatening their lives. In addition, the age of these networks makes them susceptible to leakage and overflow into drinking water  networks,  (which  are  in  no  better  condition),  causing drinking water pollution that further threatens the citizens' lives and health. Table 54 shows the sanitation projects in the city of Baghdad.
+Of Baghdad's population, 75 percent are served by the sanitation networks. There are three active projects, with different capacities. The percentage of incoming sewage in the city exceeds its treatment capacities. Some of the overflow goes untreated to the discharge places, causing environmental damage and negatively affecting the health of citizens and even threatening their lives. In addition, the age of these networks makes them susceptible to leakage and overflow into drinking water networks, (which are in no better condition), causing drinking water pollution that further threatens the citizens' lives and health. Table 54 shows the sanitation projects in the city of Baghdad.
+
+Table 54 | Current Sanitation Projects in the city of Baghdad
+--- | --- | --- | ---
+Project | Design capacity (m³/day) | Incoming to the project (m³/day) | Served areas
+Old Rustamiya project | 175,000 | 225,000 - 250,000 | The areas located west of the army channel from the Adhamiya region to Rustamiya project
+Rustamiya project third expansion | 300,000 | 325,000 | The areas located east of the army channel from Alshaab region - Sadr city - the municipalities
+Karkh project | 205,000 | 625,000 | The project treats the sanitation water of the areas located on the Karkh side
 
 ###### Challenges
 
@@ -5134,36 +5392,27 @@ Secure sustainable sanitation services in all areas of Baghdad and ensure that w
 
 ###### Objectives
 
-- Increase  the  level  of  service  coverage  from  75  percent 1. of  the  population  of  Baghdad  to  100  percent  in  2014,
+1. Increase the level of service coverage from 75 percent of the population of Baghdad to 100 percent in 2014, surpassing the relevant Millennium Development Goal
 
-Table 54 | Current Sanitation Projects in the city of Baghdad
---- | --- | --- | ---
-Project | Design capacity (m³/day) | Incoming to the project (m³/day) | Served areas
-Old Rustamiya project | 175,000 | 225,000 - 250,000 | The areas located west of the army channel from the Adhamiya region to Rustamiya project
-Rustamiya project third expansion | 300,000 | 325,000 | The areas located east of the army channel from Alshaab region - Sadr city - the municipalities
-Karkh project | 205,000 | 625,000 | The project treats the sanitation water of the areas located on the Karkh side
+2. Improve the environmental impact of this activity, reducing the pollution it creates by increasing capacity to treat sanitation water and providing sewer network services to the areas that are currently not served
 
-surpassing the relevant Millennium Development Goal
+3. Make use of the gases that result from the process of treating sanitation water, such as methane, to generate electric power, and use byproducts of sanitation water (sludge) by converting it into pavement stones or fertilizer
 
-- Improve the environmental impact of this activity, reducing 2. the  pollution  it  creates  by  increasing  capacity  to  treat sanitation water and providing sewer network services to the areas that are currently not served
-
-- Make  use  of  the  gases  that  result  from  the  process  of 3. treating  sanitation  water,  such  as  methane,  to  generate electric  power,  and  use  byproducts  of  sanitation  water (sludge) by converting it into pavement stones or fertilizer
-
-- Convert sanitation water to water suitable for agriculture 4. and irrigation after treating it using modern and advanced technologies.
+4. Convert sanitation water to water suitable for agriculture and irrigation after treating it using modern and advanced technologies.
 
 ###### Means of Achieving the Objectives
 
-- Implementing 10 new projects in the city of Baghdad and 1. completing  projects  currently  under  construction,  and allocating the investment funds for them
+1. Implementing 10 new projects in the city of Baghdad and completing projects currently under construction, and allocating the investment funds for them
 
-- Rehabilitating  old  sewer  networks  at  the  end  of  their 2. design  life  using  modern  technology  (for  example,  the hidden excavation method), and increasing the capacity in line with population growth in the city
+2. Rehabilitating old sewer networks at the end of their design life using modern technology (for example, the hidden excavation method), and increasing the capacity in line with population growth in the city
 
-- Implementing new networks for the unserved areas in the 3. city to improve the environmental situation
+3. Implementing new networks for the unserved areas in the city to improve the environmental situation
 
-- Promoting and developing the capabilities of the central 4. laboratories  to  perform  the  necessary  tests  to  ensure dumped  water is treated according to international specifications
+4. Promoting and developing the capabilities of the central laboratories to perform the necessary tests to ensure dumped water is treated according to international specifications
 
-- Ensuring operational requirements are met in a sustained 5. way
+5. Ensuring operational requirements are met in a sustained way
 
-- Continuing  the  capabilities-building  program,  developing 6. staff according to modern technologies in the implementation of sanitation projects.
+6. Continuing the capabilities-building program, developing staff according to modern technologies in the implementation of sanitation projects.
 
 National Development Plan for the Years 2010-2014 111
 
@@ -5207,11 +5456,11 @@ Some development in  the  absorption  of  children  aged  6-11 occurred, with a 
 
 ###### Secondary Education
 
-The percentage of coverage of education at the secondary level decreased to 44.3 percent from 56.6 percent. The 6.9 percent increase that occurred in the number of those attending this level  is  mainly  the  result  of  the  increase  in  population.  There was a growth in provision at this level that included a growth rate of 12.4 percent in teachers, and a decline in the studentteacher ratio from 17:1 to 14:1. The total number of teachers has increased by 4.9 percent.
+The percentage of coverage of education at the secondary level decreased to 44.3 percent from 56.6 percent. The 6.9 percent increase that occurred in the number of those attending this level is mainly the result of the increase in population. There was a growth in provision at this level that included a growth rate of 12.4 percent in teachers, and a decline in the student-teacher ratio from 17:1 to 14:1. The total number of teachers has increased by 4.9 percent.
 
 ###### Vocational Education
 
-The  percentage  of  coverage  for  people  in  vocational  middle school education decreased from 3.9 percent to 3.2 percent; there  was  a  0.5  percent  decrease  in  the  number  of  those attending this level. There was an increase in provision of 11.3 percent of teachers, which led to a decrease in the studentteacher  ratio  from  10:1  to  6:1.  The  number  of  vocational schools has increased by 2.9 percent.
+The percentage of coverage for people in vocational middle school education decreased from 3.9 percent to 3.2 percent; there was a 0.5 percent decrease in the number of those attending this level. There was an increase in provision of 11.3 percent of teachers, which led to a decrease in the student-teacher ratio from 10:1 to 6:1. The number of vocational schools has increased by 2.9 percent.
 
 ###### Teacher Training Institutes
 
@@ -5265,7 +5514,7 @@ Budget | 2004 | 2005 | 2006 | 2007 | 2008
 7. Percentage ( 6 ÷ 2) | 3% | 0% | 0% | 3% | 1%
 8. Investment budget | - | 368,541 | - | 10,061,305 | 11,671,227
 9. Investment budget for higher education (except Kurdistan) | - | - | - | 258,971 | 200,000
-Percentage (8 ÷ 7) | 3% | 2%
+Percentage (8 ÷ 7) | | | | 3% | 2%
 
 Source: Ministry of Education and the Ministry of Higher Education and Scientific Research, Planning Departments
 
@@ -5285,7 +5534,7 @@ percentage was 2.6 percent of the total investment budget of 2007. This reflects
 
 ###### Violence
 
-Wars  and  crises  have  left  deep  psychological  scars  in  Iraq and  create  serious  challenges  to  the  educational  processrepresented,  inter  alia,  by  a  high  percentages  of  dropouts, especially  among  females,  low  educational  standards,  and weak qualifications among graduates.
+Wars and crises have left deep psychological scars in Iraq and create serious challenges to the educational process-represented, inter alia, by a high percentages of dropouts, especially among females, low educational standards, and weak qualifications among graduates.
 
 ###### Gender Gap
 
@@ -5483,19 +5732,19 @@ Public Services
 
 #### 8.1.6 Means of Achieving the Objectives
 
-- Conducting evaluation studies of the efficiency of primary 1. and university education programs in Iraq
+1. Conducting evaluation studies of the efficiency of primary and university education programs in Iraq
 
-- Adopting a wide range of planning and finance options for 2. the processes of education and training
+2. Adopting a wide range of planning and finance options for the processes of education and training
 
-- Developing and implementing educational support 3. programs that constitute investment programs that allow all  partners,  regardless  of  their  components,  to  support this sector at all levels
+3. Developing and implementing educational support programs that constitute investment programs that allow all partners, regardless of their components, to support this sector at all levels
 
-- Issuing  and  ratifying  suitable  legislation  for  educational 4. sectors,  strategic  plans  and  basic  services  for  schools, institutes, universities and teacher service centers
+4. Issuing and ratifying suitable legislation for educational sectors, strategic plans and basic services for schools, institutes, universities and teacher service centers
 
-- Developing guiding judgment and responsible plans in the 5. field of education
+5. Developing guiding judgment and responsible plans in the field of education
 
-- Supporting  and  strengthening  the  system  of  managing 6. educational information
+6. Supporting and strengthening the system of managing educational information
 
-- Responsibly carrying out different semi-sector polices like 7. social gender, developing early childhood education and information and communication technology
+7. Responsibly carrying out different semi-sector polices like social gender, developing early childhood education and information and communication technology
 
 118 National Development Plan for the Years 2010-2014
 
@@ -5505,23 +5754,23 @@ Public Services
 
 8
 
-- Encouraging the private sector to invest in field of education 8. under supervision of competent authorities
+8. Encouraging the private sector to invest in field of education under supervision of competent authorities
 
-- Initiating the process of course reform to develop related 9. skills  and  achieve  competitive  education on the national and  international  level.  The  private  sector  can  also  play an effective role in curriculum building to guarantee their development  in  accordance  to  the  requirements  of  the labor market
+9. Initiating the process of course reform to develop related skills and achieve competitive education on the national and international level. The private sector can also play an effective role in curriculum building to guarantee their development in accordance to the requirements of the labor market
 
-- Achieving  balance  between  education  and  the  requirements of  the  labor  market  will  require  applying  an  acceptance policy that depends on the following considerations:
+10. Achieving balance between education and the requirements of the labor market will require applying an acceptance policy that depends on the following considerations:
 
-- The averages of the population growth, the · percentages of demand on higher education within an education plan in accordance with the comprehensive economic and social plan and the labor force plan to provide the market with qualified laborers in addition to new demand of the market itself.
+- The averages of the population growth, the percentages of demand on higher education within an education plan in accordance with the comprehensive economic and social plan and the labor force plan to provide the market with qualified laborers in addition to new demand of the market itself.
 
-- Adopting an acceptance  policy that takes into · consideration the capacity of universities and institutes as a guide in drafting current acceptance courses the principle 'Not everyone who completes the preparatory level must study at university.'
+- Adopting an acceptance policy that takes into consideration the capacity of universities and institutes as a guide in drafting current acceptance courses the principle “Not everyone who completes the preparatory level must study at university.”
 
 - Taking into consideration the role of the private sector in the development process and the role of domestic and foreign investment in the foreseeable future, and providing it with skilled staff
 
-- Building the acceptance policy in higher education on cooperation and coordination between the Ministry of  Higher  Education,  the  Department  of  Technical Education,  and  the  Ministry  of  Education  to  guide graduates of preparatory education towards higher education
+- Building the acceptance policy in higher education on cooperation and coordination between the Ministry of Higher Education, the Department of Technical Education, and the Ministry of Education to guide graduates of preparatory education towards higher education
 
 - Supporting the independence of universities to enable them to draft their educational policy and show their specialties in a way that strengthens their interaction with the local society
 
-- Being open to international universities and entering mutual  agreements  to  follow  academic  curricula developments  with  the  objective  of  developing  the curriculum  at  Iraqi  universities  and  the  Department of Technical Education to elevate them to the level of established international universities.
+- Being open to international universities and entering mutual agreements to follow academic curricula developments with the objective of developing the curriculum at Iraqi universities and the Department of Technical Education to elevate them to the level of established international universities.
 
 ### 8.2 Health Sector
 
@@ -5533,11 +5782,11 @@ The  health  system  includes  all  preventive  and  treatment organizations, in
 
 Most of the plans and strategies before 2003 were characterized by their orientation toward central planning and implementation. The governmental sector remained dominant throughout all the previous decades, with only a marginalized role for the private sector. The Ministry of Health remained the only main provider of  health  services.  Though  these  strategies  have  recognized preventive care's importance, they did not prioritize healthcare center roles because wars and crises made sufficient supplies unavailable.
 
-Iraq  has  witnessed  an  increase  in  the  averages  of  noncontagious  diseases  such  as  heart  disease  and  diabetes. Moreover,  there  has  been  an  increase  in  pollution,  resulting in  the spread of cancer. Despite the decrease in death rates of newborns and children under five in the 1970s and 1980s, after 1990 these increased because of wars and the economic blockade.  The  levels  of  health  services  provided  to  citizens seriously declined, qualitatively and quantitatively, because of decreased spending on health, poor planning, and the unfair distribution of health organizations and their staff in Baghdad and  provinces.  The  training  of  medical  and  health  staff  was neglected, so they became isolated from the world and unable to gain modern knowledge and expertise. This caused mass overseas migration of educated Iraqis.
+Iraq has witnessed an increase in the averages of non-contagious diseases such as heart disease and diabetes. Moreover, there has been an increase in pollution, resulting in the spread of cancer. Despite the decrease in death rates of newborns and children under five in the 1970s and 1980s, after 1990 these increased because of wars and the economic blockade. The levels of health services provided to citizens seriously declined, qualitatively and quantitatively, because of decreased spending on health, poor planning, and the unfair distribution of health organizations and their staff in Baghdad and provinces. The training of medical and health staff was neglected, so they became isolated from the world and unable to gain modern knowledge and expertise. This caused mass overseas migration of educated Iraqis.
 
 #### 8.2.2 Reality
 
-The  Ministry  of  Health  has  adopted  a  health  system  that depends on primary health care as a foundation that includes providing quality health services as the primary service level; guaranteeing the integration of those services with the second level (public hospitals) and the third level, specialized centers. This  will  be  achieved  by  using  the  family  healthcare  system in  health  centers  and  using  the  health  visitor  system,  which introduces the bundle of fundamental health services to health centers,  including  monitoring  and  exams  for  women  and children.  These  services  are  also  provided  through  motherand-child hospitals.
+The Ministry of Health has adopted a health system that depends on primary health care as a foundation that includes providing quality health services as the primary service level; guaranteeing the integration of those services with the second level (public hospitals) and the third level, specialized centers. This will be achieved by using the family healthcare system in health centers and using the health visitor system, which introduces the bundle of fundamental health services to health centers, including monitoring and exams for women and children. These services are also provided through mother-and-child hospitals.
 
 ##### 8.2.2.1 Institutions and indicators
 
@@ -5597,7 +5846,7 @@ Despite some achievements in the past few years, the health sector is  still  fa
 
 8
 
-Table 57 | Health Services Indicators for Iraq 2002 - 2008 | Key
+Table 57 | Key Health Services Indicators for Iraq 2002 - 2008
 --- | --- | --- | --- | --- | --- | --- | ---
 Indicators | 2008 | 2007 | 2006 | 2005 | 2004 | 2003 | 2002
 Civil Hospitals | 62 | 60 | 64 | 68 | 63 | 65 | 69
@@ -5606,7 +5855,7 @@ Total Hospitals | 221 | 216 | 219 | 224 | 218 | 217 | 212
 Public Clinics | 334 | 338 | 349 | 389 | 385 | 402 | 345
 Total number of Beds | 31,794 | 30,941 | 29,975 | 28,492 | 29,339 | 28,430 | 27,249
 Number Admitted to Hospitals | 2,027,537 | 1,780,719 | 1,869,562 | 1,869,060 | 1,924,787 | 1,664,059 | 1,703,705
-Number of Patients | 18,215,749 | 18,871,426 | 51,984,775 | 51,100,834 | 52,275,414 | 56,487,631
+Number of Patients | 18,215,749 | 18,871,426 | 51,984,775 | 51,100,834 | 52,275,414 | 56,487,631 | 
 Total Doctors | 16,721 | 16,299 | 16,518 | 16,788 | 16,022 | 14,747 | 11,024
 Total Dentists | 3,859 | 3,517 | 3,545 | 3,659 | 3,290 | 2,785 | 2,182
 Total Pharmacists | 4,399 | 3,358 | 3,448 | 2,977 | 2,531 | 2,313 | 1,634
@@ -5614,9 +5863,9 @@ Total Medical Professionals | 24,979 | 23,174 | 23,511 | 23,424 | 21,843 | 19,84
 Total Nurses | 7,307 | 7,184 | 6,623 | 6,193 | 5,600 | 5,521 | 3,966
 Total Nursing Professionals | 34,823 | 32,833 | 33,332 | 30,137 | 24,763 | 21,068 | 12,533
 Total in Health Professions | 74,081 | 96,534 | 73,355 | 69,444 | 65,615 | 60,239 | 30,328
-Number of Pharmacies | 3,994 | 3,927 | 3,967 | 3,743 | 3,700 | 3,538
+Number of Pharmacies | 3,994 | 3,927 | 3,967 | 3,743 | 3,700 | 3,538 | 
 Number of Laboratories | 634 | 598 | 598 | 599 | 538 | 631 | 486
-Number of Ambulances | 1,759 | 1,919 | 1,520 | 1,001 | 838 | 283
+Number of Ambulances | 1,759 | 1,919 | 1,520 | 1,001 | 838 | 283 | 
 Physicians per 1000 persons | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.4
 Doctors to Nurses | 0.4 | 0.4 | 0.4 | 0.4 | 0.3 | 0.4 | 0.4
 Doctors to Nurses | 2.1 | 2.1 | 1.8 | 1.8 | 1.5 | 1.4 | 1.1
@@ -5634,21 +5883,21 @@ Year | Health | Spent amount | Percentage of spending percent
 2008 | 142,263 | 79,533 | 55.9
 Total | 310,055 | 107,813 | 34.8
 
-- Limited resources for the health sector: the percentage of 1. spending  on  the  health  sector  was  4.9  percent  of  total governmental spending for  the  years  2002-2006-a low  percentage  and  insufficient  when  compared  to  the recommendations of the International Health Organization that  developing  countries  spend  approximately  $34  per individual  on  healthcare.  This  has  burdened  the  country with an elevated percentage of sick people and shortage of medical services.
+1. Limited resources for the health sector: the percentage of spending on the health sector was 4.9 percent of total governmental spending for the years 2002-2006-a low percentage and insufficient when compared to the recommendations of the International Health Organization that developing countries spend approximately $34 per individual on healthcare. This has burdened the country with an elevated percentage of sick people and shortage of medical services.
 
-- This is in addition to the continuous concern regarding the 2. inability to provide required medical supplies, to raise level of medical care and achieve the developmental objectives of the Millennium Development Goals. Table 58 shows the average annual allocations for the medical sector and the percentages of implementation.
+2. This is in addition to the continuous concern regarding the inability to provide required medical supplies, to raise level of medical care and achieve the developmental objectives of the Millennium Development Goals. Table 58 shows the average annual allocations for the medical sector and the percentages of implementation.
 
-- Shortage  of  health  organizations  (hospitals,  main  and 3. subsidiary health centers, and so on)
+3. Shortage of health organizations (hospitals, main and subsidiary health centers, and so on)
 
-- Shortage of health and medical staff, and of organizations 4. that provide health services
+4. Shortage of health and medical staff, and of organizations that provide health services
 
-- Destruction of health sector infrastructure 5.
+5. Destruction of health sector infrastructure
 
-- Inequal  distribution  of  health  services  among  provinces 6. and between urban and rural areas
+6. Inequal distribution of health services among provinces and between urban and rural areas
 
-- Demographic  changes  in  regions  due  to  migration,  a 7. serious challenge to the practice of health policies
+7. Demographic changes in regions due to migration, a serious challenge to the practice of health policies
 
-- Lack of a clear and approved demographic policy Unstable 8. and unplanned increases in population that strain medical services
+8. Lack of a clear and approved demographic policy Unstable and unplanned increases in population that strain medical services
 
 National Development Plan for the Years 2010-2014 121
 
@@ -5660,17 +5909,17 @@ National Development Plan for the Years 2010-2014 121
 
 Public Services
 
-- Problems related to water, electricity, sewage, discharge 9. of  medical  and  nonmedical  waste  and  pollution  of  the environment
+9. Problems related to water, electricity, sewage, discharge of medical and nonmedical waste and pollution of the environment
 
-- One fifth of Iraqi families are deprived of basic health needs; rural areas are more deprived than urban areas
+10. One fifth of Iraqi families are deprived of basic health needs; rural areas are more deprived than urban areas
 
-- Applicable legislations and laws are old and not orientated toward health care reform
+11. Applicable legislations and laws are old and not orientated toward health care reform
 
-- Weakness  in  legislations  and  laws  that  are  related  to environmental care
+12. Weakness in legislations and laws that are related to environmental care
 
-- Weak  citizen  participation  resulting  from  dissatisfaction with services provided
+13. Weak citizen participation resulting from dissatisfaction with services provided
 
-- Limited  role  of  the  private  sector  in  providing  health services.
+14. Limited role of the private sector in providing health services.
 
 #### 8.2.4 Vision
 
@@ -5682,51 +5931,51 @@ The five-year development plan for the health sector aims at building an integra
 
 Health policies in Iraq today aspire to reconstruct the system of health services from a treatment system to an alleviative and preventive one that will reduce the burden of endemic diseases. These  policies  and  programs  should  work  on  achieving  the following objectives:
 
-- Reducing the patient/doctor ratio, increasing the number 1. of  beds  according  to  the  population,  seeking  justice  in the distribution of health organizations between rural and urban areas, and increasing the number of organizations performing specialized medical tasks and providing them with the necessary equipment and supplies
+1. Reducing the patient/doctor ratio, increasing the number of beds according to the population, seeking justice in the distribution of health organizations between rural and urban areas, and increasing the number of organizations performing specialized medical tasks and providing them with the necessary equipment and supplies
 
-- Expanding and developing current health organizations by 2. 50 percent
+2. Expanding and developing current health organizations by 50 percent
 
-- Establishing advanced health organizations in all provinces 3. to increase the number of beds in health departments by 41 percent
+3. Establishing advanced health organizations in all provinces to increase the number of beds in health departments by 41 percent
 
-- Expanding primary healthcare services by increasing the 4. numbers of health centers to cover the needs of health departments  in  Baghdad  and  other  provinces  by  20 percent
+4. Expanding primary healthcare services by increasing the numbers of health centers to cover the needs of health departments in Baghdad and other provinces by 20 percent
 
-- Increasing  the  number  of  specialized  health  centers  to 5. cover  the  needs  of  provinces  for  specialized  services (specialized surgeries -preventive diagnosis) by 50 percent.
+5. Increasing the number of specialized health centers to cover the needs of provinces for specialized services (specialized surgeries - preventive diagnosis) by 50 percent.
 
 #### 8.2.6 Means of Achieving the Objectives
 
-- Developing high-quality infrastructure and services 1.
+1. Developing high-quality infrastructure and services
 
-- Building  partnerships  between  the  private  and  public 2. sectors, supporting integration between them at all levels of construction, continuity, and efficiency
+2. Building partnerships between the private and public sectors, supporting integration between them at all levels of construction, continuity, and efficiency
 
-- Controlling contagious diseases , controlling hepatitis, and 3. eradicating neonatal tetanus
+3. Controlling contagious diseases , controlling hepatitis, and eradicating neonatal tetanus
 
-- Expanding  the  range  of  available  health  services  by 4. establishing  new  organizations,  especially  in  rural  areas, implementing  substitute  projects,  roving  health  centers, environmental  study  teams,  commissions  for  evaluating the health of local societies, and so on
+4. Expanding the range of available health services by establishing new organizations, especially in rural areas, implementing substitute projects, roving health centers, environmental study teams, commissions for evaluating the health of local societies, and so on
 
-- Integrating  activities  of  formal  health  organizations  and 5. informal organizations and societies such as the Society of Prenatal health, Protecting the Family, women's organizations, and municipality councils to specify realistic needs and the possibilities of finance and participation
+5. Integrating activities of formal health organizations and informal organizations and societies such as the Society of Prenatal health, Protecting the Family, women's organizations, and municipality councils to specify realistic needs and the possibilities of finance and participation
 
-- Developing nursing institutions and colleges, encouraging 6. enrollment, developing medical institutions and increasing the  number  of  graduates  in  addition  to  establishing more  medical  colleges,  developing  their  courses,  and modernizing them
+6. Developing nursing institutions and colleges, encouraging enrollment, developing medical institutions and increasing the number of graduates in addition to establishing more medical colleges, developing their courses, and modernizing them
 
-- Using  all publicity media  to deepen  citizens' health 7. awareness
+7. Using all publicity media to deepen citizens' health awareness
 
-- Advancing  health education provided by educational 8. organizations, civil society organizations, and municipality councils through courses, symposiums, and publications
+8. Advancing health education provided by educational organizations, civil society organizations, and municipality councils through courses, symposiums, and publications
 
-- Developing national pharmaceutical industries, protecting 9. them,  and  providing  technical  and  scientific  supplies in cooperation with all related formal and informal departments and organizations
+9. Developing national pharmaceutical industries, protecting them, and providing technical and scientific supplies in cooperation with all related formal and informal departments and organizations
 
-- Strengthening  the  capabilities  of  the  health  practitioners such as doctors, assistants, and managers, by providing specialized  training  and  expertise  to  help  improve  the system
+10. Strengthening the capabilities of the health practitioners such as doctors, assistants, and managers, by providing specialized training and expertise to help improve the system
 
-- Developing  a  health  card  system  to  make  it  part  of comprehensive insurance for citizens
+11. Developing a health card system to make it part of comprehensive insurance for citizens
 
-- Attracting  migrated  professionals  who  can  participate  in developing the system
+12. Attracting migrated professionals who can participate in developing the system
 
-- Providing advanced technology for diagnosis and 13. treatment
+13. Providing advanced technology for diagnosis and treatment
 
-- Developing a system for health insurance in the context of a comprehensive system of social insurance
+14. Developing a system for health insurance in the context of a comprehensive system of social insurance
 
-- Adopting a system of comprehensive quality management that guarantees effective planning, performance measures, and continuous improvement of performance
+15. Adopting a system of comprehensive quality management that guarantees effective planning, performance measures, and continuous improvement of performance
 
-- Finding  a  research  and  study  system  suited  to  health and environmental problems and giving an effective role to the private sector to integrate with the public sector in providing health for all
+16. Finding a research and study system suited to health and environmental problems and giving an effective role to the private sector to integrate with the public sector in providing health for all
 
-- Caring for school health and environments and supporting coordination  with  educational  organizations  to  promote school health
+17. Caring for school health and environments and supporting coordination with educational organizations to promote school health
 
 122 National Development Plan for the Years 2010-2014
 
@@ -5736,7 +5985,7 @@ Health policies in Iraq today aspire to reconstruct the system of health service
 
 8
 
-- Guaranteeing the safety of food, health, and the 18. workplace.
+18. Guaranteeing the safety of food, health, and the workplace.
 
 #### 8.2.7 Development Indicators in the Health Sector
 
@@ -5744,9 +5993,9 @@ Table 59
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Indicator | Reality /2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 201 | Objectives
 Health center (in the rural areas) | - | - | 100 | 200 | 300 | 400 | 500 | 500 health centers for those who have no health services
-Non-specialist doctors/ citizen | 0.8 | 0.9 | 0.96 | 1 | 1 | 1 | 1 | Non-specialist doctor/ 2,000 citizens
+Non-specialist doctors/citizen | 0.8 | 0.9 | 0.96 | 1 | 1 | 1 | 1 | Non-specialist doctor/ 2,000 citizens
 Non-specialist doctors | 11,512 | 12,788 | 14,000 | 15,000 | 16,000 | 17,000 | 18,000 | 18,000
-Specialist doctor/ professional bed for lying down | 6.1 | 6.1 | 6.3 | 6.5 | 6.6 | 6.8 | 7 | Specialist doctor/7 beds ready for lying down
+Specialist doctor/professional bed for lying down | 6.1 | 6.1 | 6.3 | 6.5 | 6.6 | 6.8 | 7 | Specialist doctor/7 beds ready for lying down
 Dentist/citizen | 7,177 | 7,286 | 7,022 | 6,409 | 5,827 | 5,368 | 5,000 | Dentist/ 5,000 citizens
 No. of dentists | 3,859 | 3,859 | 4,124 | 4,654 | 5,272 | 5,890 | 6,508 | 6,508
 Dentists/citizen | 0.7 | 0.7 | 0.76 | 0.82 | 0.88 | 0.94 | 1 | One/5000 citizen
@@ -5757,17 +6006,16 @@ Health professional/1000 citizen | 1.4 | 1.4 | 1.8 | 2.2 | 2.6 | 3.1 | 4 | 4
 Nursing staff/bed | 1.1 | 1.1 | 1.2 | 1.5 | 1.6 | 1.8 | 2 | 2 staff members/bed
 Bed/1000 citizens | 1.1 | 1.2 | 1.3 | 1.3 | 1.4 | 1.4 | 1.5 | 2.5 beds / 1,000 citizens
 Ratio of bed occupancy percent | 47.5 | 47.5 | 52 | 56.5 | 61 | 65.5 | 70 | 70
-Friendly hospitals for children | 32 | 33 | 43.4 | 5.8 | 37.2 | 38.6 | 40
-Infant death rate per 1000 live newborns | 35 | 35 | 43.4 | 33.8 | 33.2 | 32.6 | 32
+Friendly hospitals for children | 32 | 33 | 43.4 | 5.8 | 37.2 | 38.6 | 40 | 
+Infant death rate per 1000 live newborns | 35 | 35 | 43.4 | 33.8 | 33.2 | 32.6 | 32 | 
 Percentage of underweight children, under age five (%) | 9.1 | 9.1 | 8.7 | 8.3 | 8 | 7.6 | 7.2 | 7.2
-Maternal death rate 100,000 live newborn | For 2006- 2007 84 | 84 | 82.8 | 81.6 | 80.4 | 79.2 | 78
+Maternal death rate 100,000 live newborn | For 2006-2007 84 | 84 | 82.8 | 81.6 | 80.4 | 79.2 | 78 | 
 Percentage of malnourished (%) | 3.1 | 3.1 | 3.1 | 3.1 | 3.1 | 3.1 | 3.1 | 3.1
 Percentage of one year old children who are immunized against measles (%) | 80 | 80 | 82 | 84 | 86 | 88 | 90 | 100
-Percentage of births supervised by specialized health staff | For the year 2006 89 | 89 | 90.2 | 91.4 | 92.6 | 93.8 | 90
-Ratio of using condoms to the usage of contraceptive | For 2006 1.1 | 1.1 | 1.8 | 2.6 | 3.4 | 4.2 | 5
-Percentage of citizens liable to the danger of malaria who take precautions | For 2006 18.3 treatment | 18.3 | 34.5 | 51 | 67.3 | 83.6 | 100
-effective against malaria and treating it | 7.4 prevention | 78 | 25.9 | 44.4 | 63 | 81.4 | 100
-Percentage of infection with malaria per 100,000 of citizens | For 2008 0.03 | 0.03 | 0.02 | 0.02 | 0.01 | 0.01 | 0
+Percentage of births supervised by specialized health staff | For the year 2006 89 | 89 | 90.2 | 91.4 | 92.6 | 93.8 | 90 | 
+Ratio of using condoms to the usage of contraceptive | For 2006 1.1 | 1.1 | 1.8 | 2.6 | 3.4 | 4.2 | 5 | 
+Percentage of citizens liable to the danger of malaria who take effective precautions against malaria and treating it | For 2006 18.3 treatment / 7.4 prevention | 18.3 / 78 | 34.5 / 25.9 | 51 / 44.4 | 67.3 / 63 | 83.6 / 81.4 | 100 / 100 | 
+Percentage of infection with malaria per 100,000 of citizens | For 2008 0.03 | 0.03 | 0.02 | 0.02 | 0.01 | 0.01 | 0 |
 
 National Development Plan for the Years 2010-2014 123
 
@@ -5779,10 +6027,9 @@ National Development Plan for the Years 2010-2014 123
 
 Public Services
 
-Percentages of relationship with tuberculosis per 100,000 citizens | 78 | 78 | 70.6 | 62.8 | 55.2 | 47.6 | 40
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Death rates related to tuberculosis per 100,000 citizens 87 | 11 | 11 | 10 | 9 | 8 | 7 | 6
-Percentages of discovered tuberculosis cases that were treated under the supervision within the frame of the treatment system for a short term under control | For 2008 87 | 87 | 87.6 | 88.2 | 88.8 | 89.4 | 90
+Percentages of relationship with tuberculosis per 100,000 citizens | 78 | 78 | 70.6 | 62.8 | 55.2 | 47.6 | 40 | 
+Death rates related to tuberculosis per 100,000 citizens 87 | 11 | 11 | 10 | 9 | 8 | 7 | 6 | 
+Percentages of discovered tuberculosis cases that were treated under the supervision within the frame of the treatment system for a short term under control (%) | For 2008 87 | 87 | 87.6 | 88.2 | 88.8 | 89.4 | 90 | 
 Percentage of coverage with the fifth visit of the pregnant mother for the primary healthcare (%) | 30 | 32 | 40.7 | 53 | 65.3 | 77.6 | 90 | 90
 Discovering the cases of tuberculosis (%) | 43 | 43 | 84.3 | 53.8 | 59.2 | 64.6 | 70 | 70
 Percentage of immunization coverage for pregnant women | 80 | 80 | 82 | 84 | 86 | 88 | 90 | 90
@@ -5811,21 +6058,21 @@ Despite  this  early  interest  in  housing  studies  and  schedules, and intere
 
 8
 
-- Providing residential housing plots of land with subsidized 1. prices, especially for civil servants  and  some  other sectors
+1. Providing residential housing plots of land with subsidized prices, especially for civil servants and some other sectors
 
-- Providing  credit  facilities  conditional  loans  to  build  the 2. housing units for a period of (20-30) years with the value of these facilities reaching approximately 80 percent of the total cost of the housing unit
+2. Providing credit facilities conditional loans to build the housing units for a period of (20-30) years with the value of these facilities reaching approximately 80 percent of the total cost of the housing unit
 
-- Exempting  rental  housing  units  from  taxes  for  a  certain 3. period  and  then  imposing  low  taxes  on  them  and  on transferring ownership of the housing properties
+3. Exempting rental housing units from taxes for a certain period and then imposing low taxes on them and on transferring ownership of the housing properties
 
-- Providing  domestic  and  imported  construction  materials 4. at subsidized prices
+4. Providing domestic and imported construction materials at subsidized prices
 
-- Providing supportive services that are related to housing 5. at very subsidized or nominal prices. This has reduced the costs of building housing units and enabled the group of employees and those who have limited income of building their housing units.
+5. Providing supportive services that are related to housing at very subsidized or nominal prices. This has reduced the costs of building housing units and enabled the group of employees and those who have limited income of building their housing units.
 
 These partial  policies  increased  levels  of  housing  production between  1975  and  1985  to  approximately  50,000  units annually with an annual growth average of 0.07 percent-more than the annual average of the growth of the population of Iraq. The cessation of these supportive and stimulant policies in the middle of the 1980s was due to the financial pressures that the state was under as a result of the Iraq/Iran war. The wars and the economic blockade have had negative effects on the economic  performance  of  the  housing  sector,  especially  in housing production. The share of the construction sector in the gross domestic product went from 6.5 percent in 1989 to 0.47 percent in 1996. This situation became worse during the period of economic blockade (1991-2003) and this has contributed to transforming the housing issue from a housing deficiency to a housing problem to a housing crisis. This situation contributed to reducing the number of housing units built between 1989 and 1996 by 97.5 percent compared to the height between 1975 and 1985. The total annual housing production of  the entire country did not exceed several thousand housing units per year.
 
 The reconsideration of the housing sector and its inclusion in the Oil-for-Food program in 1996 has helped in a limited way in achieving some improvement in the housing market. Between 2000 and 2004, approximately 200,000 housing units were built through re-supporting the housing sector by providing housing lands  and  construction  materials  subsidized  by  the  state,  in addition to loans to some groups, especially the military.
 
-There was great attention given to the housing sector by the National Development Strategy between 2005-2007 and 20072010, in the form of dedicating approximately 28 percent of total investment spending to the housing sector. This spending is proportionate first, with the averages of capital formation of this  sector  within  the  overall  national  economy,  and  second, with  the  size  of  the  problem;  the  housing  deficiency  is  very large.  Despite  this  interest,  investments  between  2004  and 2009 were 5.5 percent in 2004 and only 1 percent in 2009.
+There was great attention given to the housing sector by the National Development Strategy between 2005-2007 and 2007-2010, in the form of dedicating approximately 28 percent of total investment spending to the housing sector. This spending is proportionate first, with the averages of capital formation of this sector within the overall national economy, and second, with the size of the problem; the housing deficiency is very large. Despite this interest, investments between 2004 and 2009 were 5.5 percent in 2004 and only 1 percent in 2009.
 
 This reflects the inability of government investment to counter the problem and indicates the necessity of depending on the domestic and foreign private sectors to confront this problem.
 
@@ -5835,17 +6082,17 @@ The need for housing was not satisfied by the aforementioned offer,  which  was 
 
 The  estimates  of  housing  deficiency  and  housing  needs  in different  studies,  and  the  results  of  economic  and  social studies completed recently indicate the need for 1 million to 3.5 million housing units by 2015. Moreover, regardless of the assumptions that were used as a basis for these studies and estimates to specify the suitable typical unit for housing and evaluate the existing circumstances, the following summary of facts is pertinent:
 
-- The  housing  credit  in  Iraq  is  estimated  at  2.8  million 1. housing units
+1. The housing credit in Iraq is estimated at 2.8 million housing units
 
-- There is a large housing deficiency and a great need for 2. providing housing units-no less than 1 million in the best case For the purposes of this plan, the national housing policy  in  Iraq  that  was  launched  by  the  United  Nations Human Settlements program in September 2009 will be adopted
+2. There is a large housing deficiency and a great need for providing housing units-no less than 1 million in the best case For the purposes of this plan, the national housing policy in Iraq that was launched by the United Nations Human Settlements program in September 2009 will be adopted
 
-- 27 percent of families do not have houses and the average 3. house occupancy is higher than the acceptable average of 1.37 families per unit and 2.23 individuals per room
+3. 27 percent of families do not have houses and the average house occupancy is higher than the acceptable average of 1.37 families per unit and 2.23 individuals per room
 
-- 10 percent of families and 11 percent of citizens 4. occupy housing units that lack the minimum health and environmental  conditions  that  must  be  available  in  any proper house
+4. 10 percent of families and 11 percent of citizens occupy housing units that lack the minimum health and environmental conditions that must be available in any proper house
 
-- There is severe variation in the levels of satisfying the need 5. for housing in different provinces
+5. There is severe variation in the levels of satisfying the need for housing in different provinces
 
-- The deprivation indicator in 2007 reached 28.7 percent, 6. with  percentages  of  deprivation  from  35-45  percent  in the provinces of Dhi Qar, Maysan, Al Qadisiyyah, Karbala, Babel,  and  Al  Sulaymaniyyah.  The  following  provinces have registered the lowest level of deprivation in the field of housing: Al Anbar, Kirkuk, Diyala and Salah Al din, where the deprivation indicator was 4-21 percent.
+6. The deprivation indicator in 2007 reached 28.7 percent, with percentages of deprivation from 35-45 percent in the provinces of Dhi Qar, Maysan, Al Qadisiyyah, Karbala, Babel, and Al Sulaymaniyyah. The following provinces have registered the lowest level of deprivation in the field of housing: Al Anbar, Kirkuk, Diyala and Salah Al din, where the deprivation indicator was 4-21 percent.
 
 The problems of deficiency, house overcrowding and unsuitable housing in rural areas were deeper than what they are now in the cities and small villages because previous housing policies for rural areas did not include privileges and facilities extended to  urban  areas.  More  than  46  percent  of  inhabitants  of  rural areas suffer from high housing deprivation.
 
@@ -5863,37 +6110,35 @@ Public Services
 
 Iraq will encounter serious challenges in housing in the next years, many of them inter-related. This requires dealing with them comprehensively, as one bundle. The main challenges in housing are as follows.
 
-- A large problem in the available land for housing 1. regarding:
+1. A large problem in the available land for housing regarding:
 
-- Severe shortage of land suitable for construction in urban areas, especially in the major cities
+• Severe shortage of land suitable for construction in urban areas, especially in the major cities
 
-- The  limitation  of  available  capital  to  fund  housing, whether from the state or the banking system that currently rely mainly on giving loans to build housing units against mortgages
+• The limitation of available capital to fund housing, whether from the state or the banking system that currently rely mainly on giving loans to build housing units against mortgages
 
-- The limited the number of investors and companies in  the  housing  sector,  especially  those  who  aim  to serve low- and middle-income groups and areas with few inhabitants
+• The limited the number of investors and companies in the housing sector, especially those who aim to serve low- and middle-income groups and areas with few inhabitants
 
-- The exacerbation of the problem of sporadic houses and 2. illegally  built  houses,  even  inside  the  major  cities,  and the  absence  of  any  serious  measures  even  to  stop  this phenomenon or improve and redevelop the houses in the sporadic housing areas
+2. The exacerbation of the problem of sporadic houses and illegally built houses, even inside the major cities, and the absence of any serious measures even to stop this phenomenon or improve and redevelop the houses in the sporadic housing areas
 
-- A severe deterioration of housing structures in the old cities 3. and lanes with traces of Iraqi heritage and the absence of serious procedures and plans to protect, redevelop, or renew them according to their condition
+3. A severe deterioration of housing structures in the old cities and lanes with traces of Iraqi heritage and the absence of serious procedures and plans to protect, redevelop, or renew them according to their condition
 
-- The social preference of Iraqi families to live in  single  housing 4. units, not in vertical houses (buildings). This deepens the problem of providing housing land without transgressing on arable lands, especially around metropolitan areas.
+4. The social preference of Iraqi families to live in single housing units, not in vertical houses (buildings). This deepens the problem of providing housing land without transgressing on arable lands, especially around metropolitan areas.
 
-- The large housing deficiency-a need for approximately 2 5. million housing units in urban areas by the target year
+5. The large housing deficiency—a need for approximately 2 million housing units in urban areas by the target year
 
-- The  need  to  renew  and  redevelop  most  of  the  housing 6. credit  in  rural  areas,  as  most  of  them  are  built  of  nondurable materials and are unacceptable types of housing
+6. The need to renew and redevelop most of the housing credit in rural areas, as most of them are built of non-durable materials and are unacceptable types of housing
 
-- Deterioration  of  the  situation  of  housing  credit  due  to 7. the  limited  capabilities  and  shortage  of  investment  in maintaining houses
+7. Deterioration of the situation of housing credit due to the limited capabilities and shortage of investment in maintaining houses
 
-- The absence of a permanent system for managing land 8. that transforms the land regularly for this purpose and the reliance  on  the  method  of  jurisprudence  and  periodical decisions to distribute land to certain groups and classes
+8. The absence of a permanent system for managing land that transforms the land regularly for this purpose and the reliance on the method of jurisprudence and periodical decisions to distribute land to certain groups and classes
 
-- The  incomplete  legal  and  organizational  structure  that 9. governs the investments of the private sector
+9. The incomplete legal and organizational structure that governs the investments of the private sector
 
-- The  increase  in  the  number  of  families  who  cannot obtain  proper  housing  and  the  absence  of  programs and  procedures  to  transform  these  families  to  potential consumers of houses in the housing market
+10. The increase in the number of families who cannot obtain proper housing and the absence of programs and procedures to transform these families to potential consumers of houses in the housing market
 
-- The  massive  size  of  groups  targeted  with  free  housing (martyrs and political prisoners) which could exhaust most of the investment capabilities of the state in the housing sector within the term of the plan
+11. The massive size of groups targeted with free housing (martyrs and political prisoners) which could exhaust most of the investment capabilities of the state in the housing sector within the term of the plan
 
-- The limited offer of construction materials that are produced
-
-domestically and imported with good specifications compared with the expected need if an ambitious housing program is initiated.
+12. The limited offer of construction materials that are produced domestically and imported with good specifications compared with the expected need if an ambitious housing program is initiated.
 
 #### 8.3.4 Vision
 
@@ -5901,19 +6146,19 @@ Providing housing to the largest percentage of individuals and families to incre
 
 #### 8.3.5 Objectives
 
-- Improve  the  capability  of  home  owners  to  improve  and 1. expand their existing houses
+1. Improve the capability of home owners to improve and expand their existing houses
 
-- Raise the efficiency of producing houses and reduce their 2. costs
+2. Raise the efficiency of producing houses and reduce their costs
 
-- Provide proper housing to the largest possible number of 3. the families all over the country
+3. Provide proper housing to the largest possible number of the families all over the country
 
-- Decrease  overcrowding  and  occupancy  to  acceptable 4. limits
+4. Decrease overcrowding and occupancy to acceptable limits
 
-- Reduce  the  variations  in  levels  of  housing  saturation 5. between  the  different  provinces,  on  one  hand,  and between urban and rural areas on the other
+5. Reduce the variations in levels of housing saturation between the different provinces, on one hand, and between urban and rural areas on the other
 
-- Increase the government's capability to confront the needs 6. of  special  groups  and  the  classes  that  cannot  obtain proper housing
+6. Increase the government’s capability to confront the needs of special groups and the classes that cannot obtain proper housing
 
-- Improve the quality of new houses including the efficiency 7. of using utilities and their environmental effects.
+7. Improve the quality of new houses including the efficiency of using utilities and their environmental effects.
 
 #### 8.3.6 Means for Achieving Objectives
 
@@ -5923,7 +6168,7 @@ The public sector must focus on preparing the housing studies and plans; control
 
 ##### The Role of the Private Sector
 
-The massive size of the challenge and the diverse needs of those  who  want  housing  make  participation  from  different parties in housing production necessary. Inhabitants of urban  areas  need  high-density  houses  in  the  form  of  multistorey  buildings  that  are  usually  built  by  large  construction companies  with  substantial  capital.  At  the  same  time,  there is large demand for single family homes that can be satisfied by a larger  group  of  construction  organizations.  Traditionally, most of the houses in Iraq are built by small contractors who work for a single client who designs and funds the house. The housing policy must provide suitable circumstances to enable all these groups to perform their roles in satisfying demand for housing. The private sector will remain the biggest provider of housing and the source for policies to the small, medium, and large construction and building companies in the sector. At the same time, there should be a focus on the deprived groups of  inhabitants  and/or  remote  areas  that  have  no  capacity  to attract private investment. It is also necessary to transform a number of  public  companies  of  the  Ministry  of  Construction and housing to joint stock companies that specialize and have experience in producing houses
+The massive size of the challenge and the diverse needs of those who want housing make participation from different parties in housing production necessary. Inhabitants of urban areas need high-density houses in the form of multi-storey buildings that are usually built by large construction companies with substantial capital. At the same time, there is large demand for single family homes that can be satisfied by a larger group of construction organizations. Traditionally, most of the houses in Iraq are built by small contractors who work for a single client who designs and funds the house. The housing policy must provide suitable circumstances to enable all these groups to perform their roles in satisfying demand for housing. The private sector will remain the biggest provider of housing and the source for policies to the small, medium, and
 
 126 National Development Plan for the Years 2010-2014
 
@@ -5932,6 +6177,8 @@ The massive size of the challenge and the diverse needs of those  who  want  hou
 [[START OF PAGE 127]]
 
 8
+
+large construction and building companies in the sector. At the same time, there should be a focus on the deprived groups of inhabitants and/or remote areas that have no capacity to attract private investment. It is also necessary to transform a number of public companies of the Ministry of Construction and housing to joint stock companies that specialize and have experience in producing houses
 
 ##### Funding Housing
 
@@ -6027,7 +6274,7 @@ At  the  end  of  the  1990s,  a  narrow  opportunity  for  religious tourism  w
 
 The  state's  ownership  of  tourism  assets  was  at  that  time restricted  to  first  class  hotels,  which  were  transformed  in 1990  into  joint  stock  companies,  51  percent  owned  by  the private  sector.  Thus,  most  of  tourism  activity  is  practically  in private sector hands, with the state responsible for planning, supervision, control, and follow-up.
 
-The low interest level to date was not restricted only to tourism; it  included  the  cultural  and  administrative  sectors  in  general, as this side has not received the required attention, especially because  it  is  one  of  the  state's  responsibilities.  The  private sector is not expected to participate in this activity, especially in reviving heritage, developing historical and archaeological areas, maintaining them, and establishing cultural premises such as museums, theaters, libraries, and cultural centers. This makes it necessary to give the five-year plan great importance.
+The low interest level to date was not restricted only to tourism; it included the cultural and administrative sectors in general, as this side has not received the required attention, especially because it is one of the state’s responsibilities. The private sector is not expected to participate in this activity, especially in reviving heritage, developing historical and archaeological areas,
 
 128 National Development Plan for the Years 2010-2014
 
@@ -6036,6 +6283,8 @@ The low interest level to date was not restricted only to tourism; it  included 
 [[START OF PAGE 129]]
 
 8
+
+maintaining them, and establishing cultural premises such as museums, theaters, libraries, and cultural centers. This makes it necessary to give the five-year plan great importance.
 
 #### 8.4.2 Reality
 
@@ -6065,11 +6314,11 @@ After providing supplementary requirements for tourism, Iraq is well qualified t
 
 Tourism and cultural and heritage activity in Iraq are encountering a  set  of  challenges  that  must  be  dealt  with  if  Iraq  is  to  be capable of launching effective and efficient tourism and cultural activities. These can be summarized as follows:
 
-- Limited financial resources allocated to these activities by the 1. state, the refusal of domestic and foreign private sectors to invest in this activity until now because of security conditions, and the termination of support pursuant to Law No.353 of 1980, which caused a withdrawal of tourism investment
+1. Limited financial resources allocated to these activities by the state, the refusal of domestic and foreign private sectors to invest in this activity until now because of security conditions, and the termination of support pursuant to Law No.353 of 1980, which caused a withdrawal of tourism investment
 
-- Weak  and  under-developed  support  services  such  as 2. infrastructure  (airports,  roads  and  fast  vehicles,  hotels, and  entertainment  services),  especially  in  the  attractive tourist areas such as archeological and religious sites and summer resorts
+2. Weak and under-developed support services such as infrastructure (airports, roads and fast vehicles, hotels, and entertainment services), especially in the attractive tourist areas such as archeological and religious sites and summer resorts
 
-- Banking services that are inadequate to meet international 3. standards
+3. Banking services that are inadequate to meet international standards
 
 > 3  Al  Albait  are  certain  descendants  and  relatives  of  the  Prophet Mohammad (peace be upon him).
 
@@ -6085,73 +6334,71 @@ National Development Plan for the Years 2010-2014 129
 
 Public Services
 
-- Under-developed administration and procedures, such as 4. granting visas and receiving tourists at the border posts, that are unnecessarily difficult
+4. Under-developed administration and procedures, such as granting visas and receiving tourists at the border posts, that are unnecessarily difficult
 
-- Low  awareness  in  the  country  of  tourism  opportunities 5. and the lack of methods to promote and market tourism
+5. Low awareness in the country of tourism opportunities and the lack of methods to promote and market tourism
 
-- Migration of trained professional staff and the shortage of 6. professional centers to train substitute staff
+6. Migration of trained professional staff and the shortage of professional centers to train substitute staff
 
-- Lack of private or joint stock companies in tourism and 7. cultural companies; those that exist are limited to investors who cannot meet the large investment requirements
+7. Lack of private or joint stock companies in tourism and cultural companies; those that exist are limited to investors who cannot meet the large investment requirements
 
-- Many museums and archeological, heritage, and cultural 8. sites were destroyed or robbed in 2003 and a considerable portion of Iraqi heritage was lost
+8. Many museums and archeological, heritage, and cultural sites were destroyed or robbed in 2003 and a considerable portion of Iraqi heritage was lost
 
-- The  lack  of  rehabilitation  and  reconstruction  of  most  of 9. these sites until now
+9. The lack of rehabilitation and reconstruction of most of these sites until now
 
-- Inadequate  protection  of  archeological  sites  and  their continuing vulnerability to vandalism
+10. Inadequate protection of archeological sites and their continuing vulnerability to vandalism
 
-- The multiplicity of parties responsible for tourism, cultural, and archeological activities. There is an overlap in the tasks and  responsibilities  of  the  Ministry  of  Culture,  the  State Department for Tourism and Archeological Affairs, and the Department of Tourism in tourism activity. There is also an overlap in the authorities of the councils of the provinces and the Ministry of Culture in the field of archeological and cultural activities.
+11. The multiplicity of parties responsible for tourism, cultural, and archeological activities. There is an overlap in the tasks and responsibilities of the Ministry of Culture, the State Department for Tourism and Archeological Affairs, and the Department of Tourism in tourism activity. There is also an overlap in the authorities of the councils of the provinces and the Ministry of Culture in the field of archeological and cultural activities.
 
-- Absence of a specific, long-term strategy for developing tourism, heritage, and cultural activities
+12. Absence of a specific, long-term strategy for developing tourism, heritage, and cultural activities
 
-- A database of tourism, heritage, and cultural information.
+13. A database of tourism, heritage, and cultural information.
 
 #### 8.4.5 Vision
 
-- Developing and creating a competitive tourism industry that 1. can be marketed to neighboring and overseas countries to participate in the diversification of Iraq's economic base
+1. Developing and creating a competitive tourism industry that can be marketed to neighboring and overseas countries to participate in the diversification of Iraq’s economic base
 
-- Maintaining the historical  heritage  of  the  country,  developing 2. and utilizing it efficiently as a tool for developing national and international tourism, and advancing Iraq's position as important in the world's cultural and historical heritage
+2. Maintaining the historical heritage of the country, developing and utilizing it efficiently as a tool for developing national and international tourism, and advancing Iraq’s position as important in the world’s cultural and historical heritage
 
-- Maintaining the cultural and  artistic identity of Iraq, 3. rebuilding  it,  developing  its  attractions  and  re-attracting Iraqi innovators to the country.
+3. Maintaining the cultural and artistic identity of Iraq, rebuilding it, developing its attractions and re-attracting Iraqi innovators to the country.
 
 #### 8.4.6 Objectives
 
-- Support Iraq's important position in international cultural 1. and historical heritage
+1. Support Iraq’s important position in international cultural and historical heritage
 
-- Maintain Iraqi cultural and artistic identity, reconstructing 2. and redeveloping it
+2. Maintain Iraqi cultural and artistic identity, reconstructing and redeveloping it
 
-- Create a tourism industry that can compete with 3. neighboring countries
+3. Create a tourism industry that can compete with neighboring countries
 
-- Raise the standard of economic performance of the sector 4. through  increasing  its  participation  in  GDP  and  balance of  payments,  generating  employment  opportunities  to
+4. Raise the standard of economic performance of the sector through increasing its participation in GDP and balance of payments, generating employment opportunities to make it an effective participant in the diversification of the economic base of the country, and reducing unemployment and poverty, especially in remote tourist areas
 
-- make it an effective participant in the diversification of the economic base of the country, and reducing unemployment and poverty, especially in remote tourist areas
+5. Invest in the religious, historical, and natural assets throughout the country for tourism and cultural development
 
-- Invest in the religious, historical, and  natural  assets 5. throughout the country for tourism and cultural development
+6. Give the private sector a leading role in tourism and in managing and operating archeological and cultural premises
 
-- Give  the  private  sector  a  leading  role  in  tourism  and 6. in  managing  and  operating  archeological  and  cultural premises
+7. Provide the attractions and services that attract foreign tourists, especially by providing high-quality services such as accommodation, transport, and advanced banking services
 
-- Provide  the  attractions  and  services  that  attract  foreign 7. tourists, especially by providing high-quality services such as  accommodation,  transport,  and  advanced  banking services
-
-- Integrate tourism and archeological and cultural activities 8. by  achieving  balanced  and  coordinated  growth  of  each and among all, as each complements the other.
+8. Integrate tourism and archeological and cultural activities by achieving balanced and coordinated growth of each and among all, as each complements the other.
 
 #### 8.4.7 Means of Achieving the Objectives
 
-- The state should continue setting strategies, plans, 1. and  programs,  supervising  and  controlling  this  activity, preparing descriptions and designs or approving them
+1. The state should continue setting strategies, plans, and programs, supervising and controlling this activity, preparing descriptions and designs or approving them
 
-- Continue provision of financial allocations for infrastructure 2. that  supports  tourism  and  cultural  and  archeological activities, especially in connecting tourist and archeological sites  with  roads  and  providing  them  with  electricity  and other  fundamental  services.  These  are  in  addition  to establishing  and  developing  museums  in  all  provinces, protecting and developing archeological sites, performing preventive maintenance on the sites, establishing libraries, theaters,  cultural,  and  artistic  centers  and  rehabilitating damaged sites
+2. Continue provision of financial allocations for infrastructure that supports tourism and cultural and archeological activities, especially in connecting tourist and archeological sites with roads and providing them with electricity and other fundamental services. These are in addition to establishing and developing museums in all provinces, protecting and developing archeological sites, performing preventive maintenance on the sites, establishing libraries, theaters, cultural, and artistic centers and rehabilitating damaged sites
 
-- Support  the  private  sector  and  stimulate  it  to  take  full 3. responsibility  for  direct  and  indirect  tourism  activities, management  of  the  archeological  and  cultural  sites, marketing  them,  and  establishing  funds  to  support  the tourism investment
+3. Support the private sector and stimulate it to take full responsibility for direct and indirect tourism activities, management of the archeological and cultural sites, marketing them, and establishing funds to support the tourism investment
 
-- Encourage  foreign  investment  in  tourism  independently 4. or through partnerships with the domestic private sector, as this activity needs huge investments that may not be available solely through the domestic private sector. This will help develop skills in managing the tourism premises and using the latest techniques in tourism promotion.
+4. Encourage foreign investment in tourism independently or through partnerships with the domestic private sector, as this activity needs huge investments that may not be available solely through the domestic private sector. This will help develop skills in managing the tourism premises and using the latest techniques in tourism promotion.
 
-- Complete  the  infrastructure,  develop  the  supplementary 5. services required for tourism and simplify the processes for admitting foreign tourists
+5. Complete the infrastructure, develop the supplementary services required for tourism and simplify the processes for admitting foreign tourists
 
-- Develop the small industries connected with tourism such 6. as crafts and heritage professions
+6. Develop the small industries connected with tourism such as crafts and heritage professions
 
-- Develop  tourism  management  and  human  resources  to 7. work in the industry, including service workers
+7. Develop tourism management and human resources to work in the industry, including service workers
 
-- Revive and rehabilitate archeological and cultural sites that 8. were destroyed or vandalized in 2003
+8. Revive and rehabilitate archeological and cultural sites that were destroyed or vandalized in 2003
 
-- Continue  efforts  to  reacquire  Iraqi  cultural  artifacts  that 9. were smuggled out in 2003
+9. Continue efforts to reacquire Iraqi cultural artifacts that were smuggled out in 2003
 
 130 National Development Plan for the Years 2010-2014
 
@@ -6161,23 +6408,23 @@ Public Services
 
 8
 
-- Protect archeological sites from infringements by 10. establishing ongoing supervision
+10. Protect archeological sites from infringements by establishing ongoing supervision
 
-- Deal with the increase in underground water levels in some archeological sites
+11. Deal with the increase in underground water levels in some archeological sites
 
-- Encourage the return of the Iraqi innovators
+12. Encourage the return of the Iraqi innovators
 
-- Establish institutes and training centers and train staff who specialize  in  tourism  and  archeology  according  to  every area's tourism requirements
+13. Establish institutes and training centers and train staff who specialize in tourism and archeology according to every area’s tourism requirements
 
-- Be open to the world and benefit from the expertise and teaching  institutes  of  advanced  countries  in  the  field  of tourism  and  the  heritage  of  neighboring  Arab  countries who have experience in the field
+14. Be open to the world and benefit from the expertise and teaching institutes of advanced countries in the field of tourism and the heritage of neighboring Arab countries who have experience in the field
 
-- Develop  tourism,  publicity  and  media  and  market  Iraq's archeological sites and civilization
+15. Develop tourism, publicity and media and market Iraq’s archeological sites and civilization
 
-- Reconstruct the organizations responsible for tourism and archeological and heritage activity to guarantee the unity of taking decision and the non-distribution of responsibilities between more than one party in addition to solving the overlapping  of  authorities  between  the  central  and  local parties.
+16. Reconstruct the organizations responsible for tourism and archeological and heritage activity to guarantee the unity of taking decision and the non-distribution of responsibilities between more than one party in addition to solving the overlapping of authorities between the central and local parties.
 
-- Set long-term plans for tourism and heritage and cultural development on scientific bases
+17. Set long-term plans for tourism and heritage and cultural development on scientific bases
 
-- Build  a  computerized  database  of  tourism  and  heritage and archeological activity.
+18. Build a computerized database of tourism and heritage and archeological activity.
 
 National Development Plan for the Years 2010-2014 131
 
@@ -6264,7 +6511,7 @@ It is also important to note that the averages of enrollment also decrease among
 
 Though Iraqi laws prohibit discrimination that prevents women from  occupying  leadership  or  other  authoritative  positions, and  gives  women  the  right  to  equal  pay  for  work  equal  to men's, social and cultural factors may undermine these good intentions.
 
-Collected data indicates that the number of women in decisionmaking positions may have increased after 2003; there were 342 women in various ministries at the end of 2005-342 general managers,  86  deputy  general  managers,  33  consultants  or general supervisors, and 8 undersecretaries. Women were 2 percent of the judges and there were 6 women in the position of minister in the interim cabinet and 5 ministers in the current cabinet.
+Collected data indicates that the number of women in decision-making positions may have increased after 2003; there were 342 women in various ministries at the end of 2005—342 general managers, 86 deputy general managers, 33 consultants or general supervisors, and 8 undersecretaries. Women were 2 percent of the judges and there were 6 women in the position of minister in the interim cabinet and 5 ministers in the current cabinet.
 
 ##### 9-1-1-4 Equality in Obtaining Resources
 
@@ -6278,29 +6525,29 @@ Acknowledging  women-led  projects  is  an  effective  strategy for building the
 
 The most important challenges to Iraqi women are:
 
-- The increase in the percentage of illiterate women in the 1. rural  and  urban  areas-which  is  noticeably  high  in  rural areas
+1. The increase in the percentage of illiterate women in the rural and urban areas—which is noticeably high in rural areas
 
-- The lack of women's awareness of their rights and their 2. inability  to  demand  them  even  when  they  are  aware  of them
+2. The lack of women’s awareness of their rights and their inability to demand them even when they are aware of them
 
-- Many  women  connect  their  careers  with  the  idea  of 3. marriage that has priority over their study and careers. This thinking is a result of the traditional family style of raising children
+3. Many women connect their careers with the idea of marriage that has priority over their study and careers. This thinking is a result of the traditional family style of raising children
 
-- Traditional cultural discrimination against women is still the 4. most influential factor. Cultural or familial concerns about a girl  have become a justification for marrying her off or preventing her from continuing her education
+4. Traditional cultural discrimination against women is still the most influential factor. Cultural or familial concerns about a girl have become a justification for marrying her off or preventing her from continuing her education
 
-- The  percentage  of  enrolment  of  females  in  education, 5. particularly in poor families, is low. Therefore, it is possible to say that traditional culture, poor education and family poverty all affect the professional situation of women
+5. The percentage of enrolment of females in education, particularly in poor families, is low. Therefore, it is possible to say that traditional culture, poor education and family poverty all affect the professional situation of women
 
-- Displacement  and  migration  have  made  women  more 6. isolated inside their homes, in addition to the burdens that they have because of those exceptional circumstances.
+6. Displacement and migration have made women more isolated inside their homes, in addition to the burdens that they have because of those exceptional circumstances.
 
-The  challenges  women  face  in  the  job  market  are  no  less important,  though  the  women  are  not  always  as  isolated, including:
+The challenges women face in the job market are no less important, though the women are not always as isolated, including:
 
-- The  challenges  of  the  traditional  culture  to  women working, which keep
+• The challenges of the traditional culture to women working, which keep
 
-- Women›s  participation  in  the  private  sector  low because of principles and traditions that put limitations on their roles.
+• Women’s participation in the private sector low because of principles and traditions that put limitations on their roles.
 
-- The negative attitude toward women working outside their  homes  and  the  cultural  preference  to  prepare them instead for the traditional roles of marriage and maternity.
+• The negative attitude toward women working outside their homes and the cultural preference to prepare them instead for the traditional roles of marriage and maternity.
 
-- The traditional  thinking  of  the  Iraqi  family  regarding work for females is to prefer government jobs even if the salaries in the public sector are lower than the private sector›s.
+• The traditional thinking of the Iraqi family regarding work for females is to prefer government jobs even if the salaries in the public sector are lower than the private sector’s.
 
-- The increase in the number of women in the marginal labor market or the irregular market. Their activities in  this  field  lie  in  the  middle  between  the  formal employment and working for the private sector.
+• The increase in the number of women in the marginal labor market or the irregular market. Their activities in this field lie in the middle between the formal employment and working for the private sector.
 
 National Development Plan for the Years 2010-2014 135
 
@@ -6318,41 +6565,41 @@ Preparing developmental opportunities and enabling conditions that  create  more
 
 #### 9-1-4 Objectives
 
-- Make women capable and include them in the process of 1. development
+1. Make women capable and include them in the process of development
 
-- Implement qualitative changes in a prevailing culture based 2. on gender discrimination by means of concentrated efforts in  several  fields,  such  as  education  and  employment, by  parties  that  can  influence  people's  orientations  and interpretations.
+2. Implement qualitative changes in a prevailing culture based on gender discrimination by means of concentrated efforts in several fields, such as education and employment, by parties that can influence people’s orientations and interpretations.
 
-- Adopt a national strategy that takes the initiative to raise 3. the standard of women to make them capable, encourage equality between the two sexes, and reduce the variation in values between the governments on one hand and the rural areas and cities on the other hand
+3. Adopt a national strategy that takes the initiative to raise the standard of women to make them capable, encourage equality between the two sexes, and reduce the variation in values between the governments on one hand and the rural areas and cities on the other hand
 
-- Reform  the  economic  and  legal  institutions  to  ensure 4. equality  in  rights  and  opportunities  for  men  and  women (family laws, protection from violence, property ownership, employment, political rights, and inheritance).
+4. Reform the economic and legal institutions to ensure equality in rights and opportunities for men and women (family laws, protection from violence, property ownership, employment, political rights, and inheritance).
 
 #### 9-1-5 Means of Achieving the Objectives
 
-- Amending  laws  and  legislation  to  support  equality  and 1. participation, and devalue discrimination
+1. Amending laws and legislation to support equality and participation, and devalue discrimination
 
-- Giving the public freedom of opinion, encouraging 2. discussion and dialogue, running campaigns raising awareness  and  changing  the  image  of  women  in  the media
+2. Giving the public freedom of opinion, encouraging discussion and dialogue, running campaigns raising awareness and changing the image of women in the media
 
-- Reforming  the  education  system  and  curricula  to  give 3. more opportunities to change society's traditional view on violence against women
+3. Reforming the education system and curricula to give more opportunities to change society’s traditional view on violence against women
 
-- Including concepts that support the value of equality and 4. equal opportunity in human rights programs and promote this as a culture that confronts discrimination
+4. Including concepts that support the value of equality and equal opportunity in human rights programs and promote this as a culture that confronts discrimination
 
-- Expanding credit opportunities and facilities and increasing 5. the  loan  amounts  available  within  a  national  plan  to encourage the women's initiatives
+5. Expanding credit opportunities and facilities and increasing the loan amounts available within a national plan to encourage the women’s initiatives
 
-- Supporting the work of the civil society women›s and other 6. organizations by strengthening their organizations to play an important role in establishing and spreading the culture of gender equality
+6. Supporting the work of the civil society women’s and other organizations by strengthening their organizations to play an important role in establishing and spreading the culture of gender equality
 
-- Position  equality  as  a  civilized  demand  that  does  not 7. diminish men's rights but supports the principle of gender partnership as the way to deal with life's affairs
+7. Position equality as a civilized demand that does not diminish men’s rights but supports the principle of gender partnership as the way to deal with life’s affairs
 
-- Preparing the national employment plan according to the 8. principle of actual workplace requirements
+8. Preparing the national employment plan according to the principle of actual workplace requirements
 
-- Expanding  training  programs  and  training  women  in 9. all  specialties  and  fields  that  produce  income  and  are consistent with national developments needs
+9. Expanding training programs and training women in all specialties and fields that produce income and are consistent with national developments needs
 
-- Expanding  the  umbrella  of  social  security  to  provide  all groups, especially women, sufficient security
+10. Expanding the umbrella of social security to provide all groups, especially women, sufficient security
 
-- Supporting the integration of social and economic policies affecting women's work
+11. Supporting the integration of social and economic policies affecting women’s work
 
-- Making  training  programs  more  than  just  technical  by adding components that build character, promote civilized values, and encourage initiatives, renewability, selfconfidence, and the desire to participate
+12. Making training programs more than just technical by adding components that build character, promote civilized values, and encourage initiatives, renewability, self-confidence, and the desire to participate
 
-- Supporting the important economic role of women in the transformation to a market economy to make her the new partner in development in Iraq.
+13. Supporting the important economic role of women in the transformation to a market economy to make her the new partner in development in Iraq.
 
 ### 9-2 Youth
 
@@ -6378,7 +6625,7 @@ In 2008, the number of young was 6.1 million female and male youths. The number 
 
 Current  and  expected  increases  in  the  number  of  youth  are closely related to fertility and mortality rates and to the sizes and  flows  of  migration.  The  data  in  table  62  show  that  the relative percentage of youth will continue to increase over the next two decades before it starts to stabilize, and then decline. The percentage of males in the aforementioned group was 20.2 percent  in  the  same  year  compared  with  the  percentage  of females which was 19.8 percent with a gap of 0.04 percent.
 
-The percentage of youth among citizens of working age (1564 years) was 43.5 percent in 2008. The percentage of urban youth  among  total  urban  inhabitants  is  approximately  19.8 percent,  less  than  their  percentage  in  the  rural  areas,  which is  approximately  20.3  percent  of  total  rural  inhabitants  for the same year. The decline is the result of security conditions and  the  compulsory  displacement  of  citizens  in  most  of  the provinces and cities.
+The percentage of youth among citizens of working age (15-64 years) was 43.5 percent in 2008. The percentage of urban youth among total urban inhabitants is approximately 19.8 percent, less than their percentage in the rural areas, which is approximately 20.3 percent of total rural inhabitants for the same year. The decline is the result of security conditions and the compulsory displacement of citizens in most of the provinces and cities.
 
 From a purely economic point of view, the sharp increase in the number of male and female youth in Iraq and their overall percentage  present  economic  policy  challenges:  the  need to  provide  them  more  educational  services,  infrastructure facilities,  and  proper  work  opportunities.  On  the  other  hand, their numbers represent a latent capability that can be invested in national development programs.
 
@@ -6420,29 +6667,29 @@ National Development Plan for the Years 2010-2014 137
 
 Social Status
 
-- The  absence  of  suitable  employment  policies  that  can 1. create new opportunities for the unemployed-due to the weak role played by the private sector and the deterioration of its organizational efficiency
+1. The absence of suitable employment policies that can create new opportunities for the unemployed—due to the weak role played by the private sector and the deterioration of its organizational efficiency
 
-- Low  levels  of  investments  that  limit  the  capabilities  to 2. create new ways to deal with unemployment
+2. Low levels of investments that limit the capabilities to create new ways to deal with unemployment
 
-- The absence of a comprehensive national policy targeting 3. youth, resulting in the provision of obsolete and useless services
+3. The absence of a comprehensive national policy targeting youth, resulting in the provision of obsolete and useless services
 
-- The multiplicity of organizations that offer services to youth, 4. and the absence of coordination and wasting of effort
+4. The multiplicity of organizations that offer services to youth, and the absence of coordination and wasting of effort
 
-- The limited political and social roles given to youth 5.
+5. The limited political and social roles given to youth
 
-- Fear of the future  associated  with  unstable  political  and 6. economic conditions- increases in living costs, the level of unemployment, and so on cause many youth concerns about their career and future life
+6. Fear of the future associated with unstable political and economic conditions—increases in living costs, the level of unemployment, and so on cause many youth concerns about their career and future life
 
-- The  weakness  of  the  qualifications  and  experience  of 7. the  specialized  staff  that  is  responsible  for  managing youth organizations from an administrative and technical perspective
+7. The weakness of the qualifications and experience of the specialized staff that is responsible for managing youth organizations from an administrative and technical perspective
 
-- The  weakness  of  the  relationship  between  the  youth 8. organizations and clubs with the councils of the provinces
+8. The weakness of the relationship between the youth organizations and clubs with the councils of the provinces
 
-- The  quantitative  and  qualitative  shortage  in  sport  and 9. entertainment facilities for youth, males and females, and the  variation  in  the  abilities  of  the  provinces  to  provide them
+9. The quantitative and qualitative shortage in sport and entertainment facilities for youth, males and females, and the variation in the abilities of the provinces to provide them
 
-- The limited financial resources allocated for youth activities and their low rank in the federal budget of the state
+10. The limited financial resources allocated for youth activities and their low rank in the federal budget of the state
 
-- The lack of sufficient land for creating new youth projects
+11. The lack of sufficient land for creating new youth projects
 
-- Weakness in athletic performance accompanied by lack of the cultural, technical, and scientific skills that complement performance.
+12. Weakness in athletic performance accompanied by lack of the cultural, technical, and scientific skills that complement performance.
 
 #### 9-2-3 Vision
 
@@ -6452,47 +6699,47 @@ Training the young, helping them overcome social challenges and participate effe
 
 The developmental dimensions of the plan focus on achieving the following:
 
-- Concentrating governmental efforts to develop the 1. capabilities  of  the  youth  to  enable  them  to  participate effectively in the developmental process and putting them in the framework of the public life
+1. Concentrating governmental efforts to develop the capabilities of the youth to enable them to participate effectively in the developmental process and putting them in the framework of the public life
 
-- The ideal balance between the needs of the state and the 2. needs of the youth
+2. The ideal balance between the needs of the state and the needs of the youth
 
-- Increasing the effectiveness of the program of developing 3. the  youth  through  adopting  an  integrated  course  to connect the objectives of the program together.
+3. Increasing the effectiveness of the program of developing the youth through adopting an integrated course to connect the objectives of the program together.
 
-The  circumstances  resulting  from  Iraq's  myriad  crises  and rapid changes call for the adoption of responsive and effective developmental plans, strategies, and policies for youth. They need to be included within the entire developmental, political, and social activities  and  to  increase  their  representation  and participation in developmental formation. This can be achieved through the following:
+The circumstances resulting from Iraq’s myriad crises and rapid changes call for the adoption of responsive and effective developmental plans, strategies, and policies for youth. They need to be included within the entire developmental, political, and social activities and to increase their representation and participation in developmental formation. This can be achieved through the following:
 
-- Deepening the concept of gender equality among youth 1. to ensure a constructive relationships between males and females
+1. Deepening the concept of gender equality among youth to ensure a constructive relationships between males and females
 
-- Training the youth to participate in setting their own policies 2. and programs in all the fields of development
+2. Training the youth to participate in setting their own policies and programs in all the fields of development
 
-- Developing youth leadership to enable them to play roles 3. in the process of development
+3. Developing youth leadership to enable them to play roles in the process of development
 
-- Developing  the  current  social  policies  according  to  the 4. renewable  needs  to  guarantee  effective  participation  of civil society in solving the problems of the youth
+4. Developing the current social policies according to the renewable needs to guarantee effective participation of civil society in solving the problems of the youth
 
-- Establishing many youth and entertainment centers in a 5. way that guarantees the education of youth; keeping them busy with beneficial and constructive activities
+5. Establishing many youth and entertainment centers in a way that guarantees the education of youth; keeping them busy with beneficial and constructive activities
 
-- Including migrant and  displaced youth and  working 6. on  providing  employment  opportunities  that  achieve  a respectable life for them.
+6. Including migrant and displaced youth and working on providing employment opportunities that achieve a respectable life for them.
 
 #### 9-2-5 Means of Achieving the Objectives
 
-- Diagnosing  youth  problems  objectively  and  comprehensively 1. through deep studies and building a comprehensive and updateable database
+1. Diagnosing youth problems objectively and comprehensively through deep studies and building a comprehensive and updateable database
 
-- Creating a set of comprehensive, correlated, and integrated 2. goals and objectives for youth, both they are organizational and individual
+2. Creating a set of comprehensive, correlated, and integrated goals and objectives for youth, both they are organizational and individual
 
-- Finding all suitable ways to include youth in the life of their 3. societies  through  opportunities  to  enable  and  employ them;  building  awareness  of  preventive  and  treatment programs
+3. Finding all suitable ways to include youth in the life of their societies through opportunities to enable and employ them; building awareness of preventive and treatment programs
 
-- Meeting the needs of youth to facilitate their  building  of 4. families
+4. Meeting the needs of youth to facilitate their building of families
 
-- Finding  educational  and  cultural  facilities  for  youth  who 5. cannot enroll in schools
+5. Finding educational and cultural facilities for youth who cannot enroll in schools
 
-- Studying the education problems of the young, especially 6. in the middle and preparatory stages
+6. Studying the education problems of the young, especially in the middle and preparatory stages
 
-- Developing training centers according to the requirements 7. of the labor market, in a way  that provides wide opportunities for youth to participate society
+7. Developing training centers according to the requirements of the labor market, in a way that provides wide opportunities for youth to participate society
 
-- Supporting the role of the youth in cooperative activities, in 8. a way that provides new employment opportunities
+8. Supporting the role of the youth in cooperative activities, in a way that provides new employment opportunities
 
-- Establishing  psychological  and  social  centers  that  can 9. help solve youth problems
+9. Establishing psychological and social centers that can help solve youth problems
 
-- Adopting programs that support the culture of dialogue, achieving peace, and rejecting violence
+10. Adopting programs that support the culture of dialogue, achieving peace, and rejecting violence
 
 138 National Development Plan for the Years 2010-2014
 
@@ -6502,17 +6749,17 @@ The  circumstances  resulting  from  Iraq's  myriad  crises  and rapid changes c
 
 9
 
-- Arming the youth with the knowledge, skills, and 11. orientations that can help in finding peaceful solutions and support the culture of coexistence with others
+11. Arming the youth with the knowledge, skills, and orientations that can help in finding peaceful solutions and support the culture of coexistence with others
 
-- Continuing to support the roles of the family, school, and local society in bringing up the youth correctly, to prevent the occurrence and growth of youth drifting away from the values and standards of society
+12. Continuing to support the roles of the family, school, and local society in bringing up the youth correctly, to prevent the occurrence and growth of youth drifting away from the values and standards of society
 
-- Developing  training  centers  that  currently  exist  in  the ministries by increasing the number of trainers and making the professions taught consistent with the requirements of the state and the labor market
+13. Developing training centers that currently exist in the ministries by increasing the number of trainers and making the professions taught consistent with the requirements of the state and the labor market
 
-- Increasing  the  number  of  job  centers,  especially  in  the provinces
+14. Increasing the number of job centers, especially in the provinces
 
-- Making the youth aware of the necessity to participate in civil society
+15. Making the youth aware of the necessity to participate in civil society
 
-- Increasing the awareness of, and deepening the role of the family in taking care of the youth and guiding them.
+16. Increasing the awareness of, and deepening the role of the family in taking care of the youth and guiding them.
 
 ### 9-3 Vulnerable Groups
 
@@ -6570,19 +6817,19 @@ Many Iraqi families  depend  on  one  or  more  child  to  work  in the streets 
 
 #### 9-3-2 Challenges
 
-- The inertia of the formal service and non-service, 1. organizations. The surrounding circumstances have exposed  the  fragility  and  weakness  of  their  structures, performance, visions, and strategies. This has had negative effects on their policies, plans, programs, initiatives, and interactions  with  the  public,  and  on  the  degree  of  their actual  to  the  challenges  that  they  encounter,  especially with the fragile groups. This has severely restricted their effectiveness in national and civil society
+1. The inertia of the formal service and non-service, organizations. The surrounding circumstances have exposed the fragility and weakness of their structures, performance, visions, and strategies. This has had negative effects on their policies, plans, programs, initiatives, and interactions with the public, and on the degree of their actual to the challenges that they encounter, especially with the fragile groups. This has severely restricted their effectiveness in national and civil society
 
-- The  absence  of  a  comprehensive  vision  to  improve  the 2. social  situation  and  to  stop  relying  on  partial,  limited, scattered policies and procedures that are not connected, either  among  themselves,  or  to  the  larger  development effort
+2. The absence of a comprehensive vision to improve the social situation and to stop relying on partial, limited, scattered policies and procedures that are not connected, either among themselves, or to the larger development effort
 
-- The public sector's continued focus on spending on the 3. social  sector's  material  infrastructure  and  its  increased spending on the material requirements for operating these facilities.  This  enables  them  to  implement  their  tasks according to modern international standards.
+3. The public sector’s continued focus on spending on the social sector’s material infrastructure and its increased spending on the material requirements for operating these facilities. This enables them to implement their tasks according to modern international standards.
 
-- The absence of coordination and integration among the 4. effective members of the social and the public and private sectors
+4. The absence of coordination and integration among the effective members of the social and the public and private sectors
 
-- The distressed social situation that has led to the 5. disappearance of opportunities to enable Iraqi society to develop  its  tools  in  a  rational  and  meaningful  way,  and deprived it of the chance to formulate its priorities
+5. The distressed social situation that has led to the disappearance of opportunities to enable Iraqi society to develop its tools in a rational and meaningful way, and deprived it of the chance to formulate its priorities
 
-- The absence of programs specializing in aiding vulnerable 6. groups
+6. The absence of programs specializing in aiding vulnerable groups
 
-- The social policies that lack clear visions for programs for 7. these groups.
+7. The social policies that lack clear visions for programs for these groups.
 
 #### 9-3-3 Vision
 
@@ -6620,51 +6867,51 @@ The  basic  fact  that  is  always  present  before  those  who  set policies  a
 
 The available option today is for the government to work, in cooperation  with  development  partners,  on  implementing programs  and  projects  that  can  reduce  the  burdens  of vulnerable  groups.  The  social  security  networks  represent  a mechanism to protect  some  groups  that  lack  capabilities  to participate  in  social  life.  We  can  identify  the  following  most important aims within the frame of the aforementioned:
 
-- Treating the serious traces and burdens that resulted from 1. the  crises  and  had  a  role  in  marginalizing  thousands  of widows, orphans, disabled persons, and more
+1. Treating the serious traces and burdens that resulted from the crises and had a role in marginalizing thousands of widows, orphans, disabled persons, and more
 
-- Enabling vulnerable groups, through training, qualification, 2. and awareness, to merge in society, and including them in social responsibilities and long-term development plans
+2. Enabling vulnerable groups, through training, qualification, and awareness, to merge in society, and including them in social responsibilities and long-term development plans
 
-- Achieving  balance  and  justice  in  providing  services  and 3. infrastructure for these groups and in all fields
+3. Achieving balance and justice in providing services and infrastructure for these groups and in all fields
 
-- Activating civil society and the municipality councils to be 4. part of the social security networks
+4. Activating civil society and the municipality councils to be part of the social security networks
 
-- Adopting  programs  that  achieve  mutual  interests  and 5. benefits and  building social  peace  and  partnerships that can reduce the psychosocial, social, and economic pressures on vulnerable groups
+5. Adopting programs that achieve mutual interests and benefits and building social peace and partnerships that can reduce the psychosocial, social, and economic pressures on vulnerable groups
 
-- Protecting  the  displaced  families  whose  numbers  have 6. become great as the result of social problems and hard circumstances
+6. Protecting the displaced families whose numbers have become great as the result of social problems and hard circumstances
 
-- Adopting an effective system for social aids 7.
+7. Adopting an effective system for social aids
 
-- Creating  a  new  doctrine  for  social  work  that  takes  into 8. consideration the transformation from relying almost completely on the state (the official organizational frames) to  rely  on  an  effective  role  for  unofficial  societies  and organizations (voluntary work), the role of individuals and groups in local society (the village,  region.  and  the  like). This doctrine will form the necessary standpoint for future social policies
+8. Creating a new doctrine for social work that takes into consideration the transformation from relying almost completely on the state (the official organizational frames) to rely on an effective role for unofficial societies and organizations (voluntary work), the role of individuals and groups in local society (the village, region. and the like). This doctrine will form the necessary standpoint for future social policies
 
-- Working on creating a participatory citizen who participates 9. in decision making, procedures, and their implementation, by  finding  activities  that  include  citizens  in  social  work programs-social  work  being  an  expression  of  mutual responsibility.
+9. Working on creating a participatory citizen who participates in decision making, procedures, and their implementation, by finding activities that include citizens in social work programs—social work being an expression of mutual responsibility.
 
 #### 9-3-6 Means of Achieving the Objectives
 
 Setting new social policy for the organizations of state and civil society will definitely make these organizations encounter new needs that demand new options. The following are examples of possible options:
 
-- Reviewing the implemented social legislation and 1. implementing  the  amendments  that  are  consistent  with the changes that occur in reality
+1. Reviewing the implemented social legislation and implementing the amendments that are consistent with the changes that occur in reality
 
-- Developing  some  programs  and  procedures  that  were 2. (and  some  still  are)  applicable  today,  like  social  care funds, (zakat funds) and social solidarity funds, within the framework of a national assistance fund benefiting from the experiences of some Arab countries such as Jordan and Egypt
+2. Developing some programs and procedures that were (and some still are) applicable today, like social care funds, (zakat funds) and social solidarity funds, within the framework of a national assistance fund benefiting from the experiences of some Arab countries such as Jordan and Egypt
 
-- Developing programs in which Iraqi parties and 3. international parties will participate, for example, offering loans  to  establish  small  projects  that  produce  income such as the projects implemented jointly by the Ministry of Labor and the International Labor Organization. Regarding these loans, certain groups such as women who support their  families,  war  prisoners,  the  unemployed  (especially the youth), persons who were disabled in wars, and the like should benefit from them
+3. Developing programs in which Iraqi parties and international parties will participate, for example, offering loans to establish small projects that produce income such as the projects implemented jointly by the Ministry of Labor and the International Labor Organization. Regarding these loans, certain groups such as women who support their families, war prisoners, the unemployed (especially the youth), persons who were disabled in wars, and the like should benefit from them
 
-- Supporting  the  organizations  and  establishments  in  civil 4. society  that  are  linked  to  the  most  vulnerable  groups, especially  widows,  orphans,  the  homeless,  and  women taking care of orphans. It should also be noted that the support should be related to the concept of enabling, and free from the concept of emergency aid
+4. Supporting the organizations and establishments in civil society that are linked to the most vulnerable groups, especially widows, orphans, the homeless, and women taking care of orphans. It should also be noted that the support should be related to the concept of enabling, and free from the concept of emergency aid
 
-- Forming  or  establishing  a  supreme  national  department 5. for social work that includes sub-departments such as a department for caring for orphans, a department of public participation in fighting crime, and the like. It is important to connect this department with an effective formal party such as the cabinet.
+5. Forming or establishing a supreme national department for social work that includes sub-departments such as a department for caring for orphans, a department of public participation in fighting crime, and the like. It is important to connect this department with an effective formal party such as the cabinet.
 
-- Developing the current condition of the organizations for 6. social care with the different groups and classes they serve through  evaluative  studies  that  diagnose  their  problems and the possibilities to develop them
+6. Developing the current condition of the organizations for social care with the different groups and classes they serve through evaluative studies that diagnose their problems and the possibilities to develop them
 
-- Setting bases for a social contract between the state, the 7. private sector, and the organizations of the civil society that aims at providing enabling opportunities and supporting the capabilities of these groups in their capacity as a party that  cannot  be  ignored  in  the  process  of  reconstruction and long-term development, including training and loans
+7. Setting bases for a social contract between the state, the private sector, and the organizations of the civil society that aims at providing enabling opportunities and supporting the capabilities of these groups in their capacity as a party that cannot be ignored in the process of reconstruction and long-term development, including training and loans
 
-- Developing organizations that offer accommodations 8. to  deal  with  orphans,  violence,  homelessness,  beggars, disabled persons, old people, and others in need, including asserting the importance of voluntarily participation in the activities of these organizations, technically and financially
+8. Developing organizations that offer accommodations to deal with orphans, violence, homelessness, beggars, disabled persons, old people, and others in need, including asserting the importance of voluntarily participation in the activities of these organizations, technically and financially
 
-- Increasing the salary of social protection network 9. participants  to  make  it  consistent  with  increases  in  the cost of living
+9. Increasing the salary of social protection network participants to make it consistent with increases in the cost of living
 
-- Studying  the  situation  of  endowments  (awqaf)  in  a  way that  guarantees  activating  their  services  and  distributing their resources in accordance with the aims of the strategy of social advancement
+10. Studying the situation of endowments (awqaf) in a way that guarantees activating their services and distributing their resources in accordance with the aims of the strategy of social advancement
 
-- Finding new finance resources that reflect the participations of individuals and groups in the programs of the security networks such as the lottery, theatrical and artistic shows, competitions, and so on
+11. Finding new finance resources that reflect the participations of individuals and groups in the programs of the security networks such as the lottery, theatrical and artistic shows, competitions, and so on
 
-- Including  disabled  persons  in  the  processes  of  decision making and in all the levels that are related to their affairs.
+12. Including disabled persons in the processes of decision making and in all the levels that are related to their affairs.
 
 ### 9-3-Poverty
 
@@ -6772,8 +7019,6 @@ The economic activities of the poor people in the rural areas are concentrated i
 
 The provinces differ in their poverty rates and their gap. While 40 percent or more of citizens of some provinces are poor (Al Muthanna 49 percent, Babel 41 percent, and Salah al Din 40 percent), the percentage of the poor in other provinces is less than 10 percent, with the provinces in Kurdistan serving as the prime example. The poverty gap also is larger in provinces with
 
-----------a high rate of poverty. As well, 13 percent of poor people are concentrated in Baghdad only and approximately 11 percent are in Al Basrah. In the rural areas, the poverty rate is high in Al Muthanna (75 percent), Babel (61 percent), and Wasit (60 percent).
-
 > 4 The poverty line was identified by the strategy for reducing poverty as 77 thousand dinar/individual/month.
 
 > 5 The poverty gap is the size of the gap between the income of the poor and the poverty line. It is calculated with the monetary units that are sufficient to raise the standards of consumption of all poor people to the poverty line. It is calculated as a percentage from the total value of the consumption of all the citizens when the level of the consumption of each one is on the poverty line.
@@ -6785,6 +7030,8 @@ The provinces differ in their poverty rates and their gap. While 40 percent or m
 [[START OF PAGE 143]]
 
 9
+
+a high rate of poverty. As well, 13 percent of poor people are concentrated in Baghdad only and approximately 11 percent are in Al Basrah. In the rural areas, the poverty rate is high in Al Muthanna (75 percent), Babel (61 percent), and Wasit (60 percent).
 
 Averages of Poverty According to the
 
@@ -6934,9 +7181,25 @@ Social Status
 
 The negative effect on their loss of jobs and material assets is also visible. Undoubtedly, the ability to reduce poverty remains limited  while  instability  is  increasing;  it  is  causing  economic and social situations that are unhealthy for the security for the citizens.
 
-##### Guaranteeing 'Good Governance'
+##### Guaranteeing “Good Governance”
 
-Creating  the  proper  environment  to  implement  the  strategy requires the government to set 'good governance' as the top priority in governing, establishing organizations, managing the economy, improving the performance of public administration, and  fighting corruption-in addition to other procedures that  guarantee  the  improvement  of  the  political,  economic, and  social  environment,  improved  efficiency  of  government performance, improved decision-making mechanisms for setting policies and establishing and developing organizations that support economic growth.
+Creating the proper environment to implement the strategy requires the government to set “good governance” as the top priority in governing, establishing organizations, managing the economy, improving the performance of public administration, and fighting corruption—in addition to other procedures that guarantee the improvement of the political, economic, and social environment, improved efficiency of government performance, improved decision-making mechanisms for setting policies and establishing and developing organizations that support economic growth.
+
+#### 9-4-3 Objectives
+
+The plan aims to achieve the objectives consistent with the strategy for alleviating poverty and with national efforts to achieve the millennium development objectives. In light of what has been achieved in improving food security indicators, child and maternal mortality, and school enrollment since 2004, if we assume that implementation of the five-year plan has begun and the political situation and security are stable, it is expected the plan will reduce the national poverty rate by 30 percent compared with the 2007 rate. To achieve this, the plan must adopt strategic objectives as follows:
+
+1. Higher income from work for the poor
+
+2. Improving the health standards of the poor
+
+3. Expansion and improvement of education of the poor
+
+4. Better housing environment for the poor
+
+5. Effective social protection for the poor
+
+6. Fewer discrepancies between men and women
 
 #### Means of Achieving the Objectives
 
@@ -6944,49 +7207,33 @@ Creating  the  proper  environment  to  implement  the  strategy requires the go
 
 Income from work is the main source of income of poor people. The decrease in this income is one of the causes of poverty. Therefore, the strategy aims to increase productivity, create employment opportunities, and ensure easy access to loans for the poor by:
 
-- Providing factors to increase the productivity of agricultural work for the poor 1.
+1. Providing factors to increase the productivity of agricultural work for the poor
 
-- Setting lending programs for activities that give income for the poor 2.
+2. Setting lending programs for activities that give income for the poor
 
-- Establishing a system to review the minimum daily wage rate according to the variations in the national poverty line 3.
+3. Establishing a system to review the minimum daily wage rate according to the variations in the national poverty line
 
-- Establishing effective job centers that are easy for the poor to approach and work with 4.
+4. Establishing effective job centers that are easy for the poor to approach and work with
 
-- Providing governmental support for initiatives of civil society to support the poor 5.
+5. Providing governmental support for initiatives of civil society to support the poor
 
-- Establishing or activating evening crafts centers and quick training programs for the poor for professions that produce 6. income especially for the poor.
+6. Establishing or activating evening crafts centers and quick training programs for the poor for professions that produce income especially for the poor.
 
 ##### Improving the health standards of the poor
 
-The plan aims to improve the health and the care and services that are given to the poor, with a stress on preventive health services  and  treatment  health  services.  These  policies  include  improving  primary  healthcare  services,  extending  potable water and sanitary sewage services to poor areas, increasing the coverage of these areas with the activities of the extended immunization program and the positive health programs and improving the nutritional status of the poor by
+The plan aims to improve the health and the care and services that are given to the poor, with a stress on preventive health services and treatment health services. These policies include improving primary healthcare services, extending potable water and sanitary sewage services to poor areas, increasing the coverage of these areas with the activities of the extended immunization program and the positive health programs and improving the nutritional status of the poor by
 
-- Providing improved healthcare services to the poor that are easy to access 1.
+1. Providing improved healthcare services to the poor that are easy to access
 
-- Increasing health awareness in poor areas to control dangerous behavior and contagious and non-contagious diseases 2.
+2. Increasing health awareness in poor areas to control dangerous behavior and contagious and non-contagious diseases
 
-- Setting a government program to extend potable water and sanitary sewage services to poor areas 3.
+3. Setting a government program to extend potable water and sanitary sewage services to poor areas
 
-- Supporting coverage of poor areas with the activities of the extended immunization program 4.
+4. Supporting coverage of poor areas with the activities of the extended immunization program
 
-- Improving the nutritional status of the poor 5.
+5. Improving the nutritional status of the poor
 
-- Setting programs to support positive health for the poor. 6.
-
-#### 9-4-3 Objectives
-
-The  plan  aims  to  achieve  the  objectives  consistent  with  the strategy  for  alleviating  poverty  and  with  national  efforts  to achieve the millennium development objectives. In light of what has been achieved in improving food security indicators, child and maternal mortality, and school enrollment since 2004, if we assume that implementation of the five-year plan has begun and the political situation and security are stable, it is expected the  plan  will  reduce  the  national  poverty  rate  by  30  percent compared with the 2007 rate. To achieve this, the plan must adopt strategic objectives as follows:
-
-- Higher income from work for the poor 1.
-
-- Improving the health standards of the poor 2.
-
-- Expansion and improvement of education of the poor 3.
-
-- Better housing environment for the poor 4.
-
-- Effective social protection for the poor 5.
-
-- Fewer discrepancies between men and women 6.
+6. Setting programs to support positive health for the poor.
 
 144 National Development Plan for the Years 2010-2014
 
@@ -7002,17 +7249,17 @@ The enrollment rates at the post-elementary level show large differences between
 
 This objective can be achieved by the following:
 
-- Issuing a law regarding, and instructions for, compulsory primary education-and activating it, especially in rural and poor 1. areas
+1. Issuing a law regarding, and instructions for, compulsory primary education—and activating it, especially in rural and poor areas
 
-- Giving priority to establishing elementary, intermediate, and preparatory schools in poor areas 2.
+2. Giving priority to establishing elementary, intermediate, and preparatory schools in poor areas
 
-- Amending the law and instructions for the protection network and connecting it with registration of children of included 3. families for primary education
+3. Amending the law and instructions for the protection network and connecting it with registration of children of included families for primary education
 
-- Improving the efficiency of education in poor areas and urban and rural areas 4.
+4. Improving the efficiency of education in poor areas and urban and rural areas
 
-- Implementing procedures and activities to reduce the number of illiterate people 5.
+5. Implementing procedures and activities to reduce the number of illiterate people
 
-- Preparing and applying courses to connect professional education with the labor market, especially in the agricultural and 6. rural sectors.
+6. Preparing and applying courses to connect professional education with the labor market, especially in the agricultural and rural sectors.
 
 ##### Better housing environment for the poor
 
@@ -7024,11 +7271,11 @@ Current estimates indicate that there is a housing credit of not more than 2.8 m
 
 To establish a better housing environment for the poor, the following should be implemented:
 
-- Extending the government's projects to build suitable housing units for the poor with easy occupancy terms 1.
+1. Extending the government’s projects to build suitable housing units for the poor with easy occupancy terms
 
-- Setting and applying programs to encourage the participation of the private sector in low-income housing 2.
+2. Setting and applying programs to encourage the participation of the private sector in low-income housing
 
-- Creating and maintaining a suitable environment around the houses. 3.
+3. Creating and maintaining a suitable environment around the houses.
 
 National Development Plan for the Years 2010-2014 145
 
@@ -7044,17 +7291,17 @@ Social Status
 
 The principle of including families or individuals in the aid network is that they have no or low income, but reviewing the targeted groups may not be consistent with this standard because:
 
-- Correcting  the  targeting  system  requires  separating  those  who  are  eligible  for  continuous  social  care-disabled persons, widows, old people, and others, from those who are temporarily ineligible for aid until the causes for their income change are eliminated.
+• Correcting the targeting system requires separating those who are eligible for continuous social care—disabled persons, widows, old people, and others, from those who are temporarily ineligible for aid until the causes for their income change are eliminated.
 
-- The social protection policy should watch two important factors-the percentage of poverty and the poverty gap. The Ministry of Labor and Social Affairs has specified that the percentage of inclusion of poor people in every province is 20 percent. This means that it has adopted one standard, regardless of the percentage of poverty and its gap in every province.
+• The social protection policy should watch two important factors—the percentage of poverty and the poverty gap. The Ministry of Labor and Social Affairs has specified that the percentage of inclusion of poor people in every province is 20 percent. This means that it has adopted one standard, regardless of the percentage of poverty and its gap in every province.
 
-Undoubtedly, canceling the system of ration cards completely will hurt poor people severely. Moreover, the vulnerable groups who are not poor but who are close to the poverty line will be negatively affected. This threatens to include them in the poverty trap.  When the effects of this on the poor are observed, withholding components of the ration cards from all families will increase the national poverty rate from 23 percent to 34 percent, according to the social and economic scan of the families in Iraq. Therefore, it is necessary to implement a process of reforming the ration card system gradually, as the resources saved from spending on the cards will be directed to meet social protection needs. This will negatively affect the income of the poor.
+Undoubtedly, canceling the system of ration cards completely will hurt poor people severely. Moreover, the vulnerable groups who are not poor but who are close to the poverty line will be negatively affected. This threatens to include them in the poverty trap. When the effects of this on the poor are observed, withholding components of the ration cards from all families will increase the national poverty rate from 23 percent to 34 percent, according to the social and economic scan of the families in Iraq. Therefore, it is necessary to implement a process of reforming the ration card system gradually, as the resources saved from spending on the cards will be directed to meet social protection needs. This will negatively affect the income of the poor.
 
 Means of achieving the objective
 
-- Establishing and implementing procedures that guarantee good application of the social protection network 1.
+1. Establishing and implementing procedures that guarantee good application of the social protection network
 
-- Setting and implementing procedures to supply aid to the poorest and neediest people. 2.
+2. Setting and implementing procedures to supply aid to the poorest and neediest people.
 
 ##### Fewer discrepancies between men and women
 
@@ -7070,11 +7317,11 @@ The reason for the differences between the men and women in general is not legis
 
 Means of achieving the objective:
 
-- Extending programs that deal with factors that cause low rates of females' enrollment in elementary, intermediate, and 1. secondary schools
+1. Extending programs that deal with factors that cause low rates of females’ enrollment in elementary, intermediate, and secondary schools
 
-- Preparing and implementing specialized training programs for poor women to increase available employment opportunities 2. for them
+2. Preparing and implementing specialized training programs for poor women to increase available employment opportunities for them
 
-- Issuing legislation and programs to achieve social security for poor women. 3.
+3. Issuing legislation and programs to achieve social security for poor women.
 
 146 National Development Plan for the Years 2010-2014
 
@@ -7312,9 +7559,9 @@ An Najaf
 
 Karbala
 
-Maysan Al
+Maysan
 
-Anbar
+Al Anbar
 
 Kurdustan
 
@@ -7324,7 +7571,7 @@ There  is  a  disparity in the  pattern  of  spatial distribution of investments
 
 #### 10.1.2 Principal Features of Spatial Development in Iraq
 
-The attention given to the spatial dimension of development in the 1970s and until the mid-1980s achieved results in terms of the distribution of economic activities and population, and the change in migration trends. Indeed, population growth rates fell in the Baghdad province from 6 percent to 2.9 percent in 1997 and the rural population growth rate rose from 0 percent to 3 percent. In addition, seven provinces were attracting people, despite  Basra's  transformation  into  a  province  where  the war conditions drove people away-and, combined with the economic sanctions, led to a lack of policy continuity. Thus, the policies had a reduced impact in the 1990s. In any event, there were and continue to be common general features in spatial development in Iraq. They can be identified as the following.
+The attention given to the spatial dimension of development in the 1970s and until the mid-1980s achieved results in terms of the distribution of economic activities and population, and the change in migration trends. Indeed, population growth rates fell in the Baghdad province from 6 percent to 2.9 percent in 1997 and the rural population growth rate rose from 0 percent to 3 percent. In addition, seven provinces were attracting people,
 
 152 National Development Plan for the Years 2010-2014
 
@@ -7333,6 +7580,8 @@ The attention given to the spatial dimension of development in the 1970s and unt
 [[START OF PAGE 153]]
 
 10
+
+despite Basra's transformation into a province where the war conditions drove people away—and, combined with the economic sanctions, led to a lack of policy continuity. Thus, the policies had a reduced impact in the 1990s. In any event, there were and continue to be common general features in spatial development in Iraq. They can be identified as the following.
 
 ##### 10.1.2.1 Spatial Concentration of Economic Activity and Population
 
@@ -7518,7 +7767,7 @@ Kirkuk Field is the fifth largest oil field in the world in terms of volume. It 
 
 Bay Hassan field is located west of the Kirkuk field and parallel to it. Bay Hassan's wells are deeper than Kirkuk's wells, with depths ranging from 1,500 to 3,000 meters. Production there began in June, 1959. Jambur Field is north of Kirkuk and is parallel to the Kirkuk and Bay Hassan fields. Production there began in August, 1959.
 
-The Khubar field is in the Kirkuk province, while the Ayn Zalat Nadib  field  in  the  Nineveh  province  and  the  Batma  field  are located close by in a mountainous area. In addition, there are the Safiyah field, which is adjacent to the Syrian border, and the Al-Qayarah field in Nineveh province.
+The Khubar field is in the Kirkuk province, while the Ayn Zalat
 
 154 National Development Plan for the Years 2010-2014
 
@@ -7528,27 +7777,38 @@ The Khubar field is in the Kirkuk province, while the Ayn Zalat Nadib  field  in
 
 10
 
-Investments were made in a number of oil fields in Kurdistan recently.  However,  production  is  currently  limited  to  100,000 barrels per day, with the hope of increases in the near future.
+Nadib field in the Nineveh province and the Batma field are located close by in a mountainous area. In addition, there are the Safiyah field, which is adjacent to the Syrian border, and the Al-Qayarah field in Nineveh province.
+
+Investments were made in a number of oil fields in Kurdistan recently. However, production is currently limited to 100,000 barrels per day, with the hope of increases in the near future.
 
 ###### Central Oil Fields
 
 East Baghdad Field: It was thought to have small oil reserves. However, it has turned out to have a much larger capacity than initially thought. It has northern extensions and its production capacity is around 20 thousand barrels a day. It is estimated that total production could reach 120 thousand barrels a day if it is fully developed.
 
-Khanah Oil Field in the Diyala Province and other fields in AlAnbar in the western portion of the country.
+Khanah Oil Field in the Diyala Province and other fields in Al-Anbar in the western portion of the country.
 
 Table 64 shows the distribution of productive oil fields in the southern,  middle  and  northern  provinces.  Map  2  shows  the spatial distribution of current and potential oil fields in Iraq.
-
-Table 64
 
 Spatial Distribution of Oil Bearing Regions in Iraq
 
 Map 2
 
+Legends
+Motorway
+Highway
+Railway
+Undrilled subsurface and surface anticlinal prospects
+Producing fields
+Appraised fields
+Drilled but not appraised
+
+Table 64
+
 The spatial distribution of oil fields with a competitive advantage throughout Iraq's provinces
 
 Province | Field | Number
 --- | --- | ---
-Basra | North Rumailah, South Rumailah, Al-Zubair, Omar River, West Qurnah, Al-Luhais, Al- Tubah, Al-Subah, Al-Hulfayah | 9.0
+Basra | North Rumailah, South Rumailah, Al-Zubair, Omar River, West Qurnah, Al-Luhais, Al-Tubah, Al-Subah, Al-Hulfayah | 9.0
 Maysan | Majnun, Al-Barzakan, Abu Gharb, Fakkah, Al-Umarah | 5.0
 Wasit | Al-Ahdab | 1.0
 Dhi Qar | Nasiriyah Field | 1.0
@@ -7604,7 +7864,7 @@ The rest of Iraq's provinces, particularly Wasit and Qadisiyah, Basram  Dhi  Qar
 
 The  location  factor  standard  is  one  of  the  most  common indicators in spatial analysis. It is used to estimate a territory's relative share of certain industries. This standard compares the relative share of any region of a given industrial activity to that of another standardized area in the same activity. It is used for purposes of comparing data at the national level. This method allows use of several variables to measure the location's factor. These  include  the  number  of  workers,  added  value,  and production  value.  An  analysis  of  the  comparative  advantage indicators for the provinces of Nineveh, Baghdad, and Karbala indicates  that  they  have  attracted  many  industrial  projects in  various  industrial  activities.  This  reflects  the  phenomenon of  industrial  concentration  in  those  provinces,  as  they  had different location factors that have attracted all industries and their different branches.
 
-The provinces of Diyala, Babil, Najaf, and Qadisiyah attracted projects  from  the  majority  of  industrial  branches,  except for  extractive  industries.  The  location  factors  among  these provinces  varied  for  different  industries.  Wasit,  Salah  al-Din, Al-Muthanna,  Dhi  Qar,  and  Basra  provinces  attracted  six industrial branches where the location factors varied from one industry to another and from one province to the next. Anbar province attracted five industrial branches and focused on the construction industry, as it had a high location factor of 4.5. The food, textile, wood, paper, construction, and metal industries were  distributed  among  all  provinces  and  were  considered prevalent  industries  because  of  the  abundance  of  primary resources and the growing demand for industries that require dissemination in many regions.
+The provinces of Diyala, Babil, Najaf, and Qadisiyah attracted projects from the majority of industrial branches, except for extractive industries. The location factors among these provinces varied for different industries. Wasit, Salah al-Din, Al-Muthanna, Dhi Qar, and Basra provinces attracted six industrial branches where the location factors varied from one industry to another and from one province to the next. Anbar province attracted five industrial branches and focused on the construction industry, as it had a high location factor of 4.5. The food, textile, wood, paper, construction, and metal industries were distributed among all provinces and were considered prevalent industries because of the abundance of primary
 
 156 National Development Plan for the Years 2010-2014
 
@@ -7628,7 +7888,9 @@ Sulaymaniyah | Lead, zinc, iron, limestone, sulfur, gypsum, plaster, sand, cemen
 Irbil | Copper, chromium, nickel, manganese, iron, zinc, lead, limestone, gypsum
 Dohuk | Lead, zinc, Iariom
 
-Chemical  industries  were  concentrated  in  most  provinces, with  the  exception  of  Anbar,  al-Muthanna,  Dhi  Qar,  and Maysan. The highest location factors were recorded in Salah al-Din  and  Basra  provinces,  with  factors  of  3.89  and  3.45, respectively. Chemical industries are concentrated in the cities because they represent large markets for their products, and consumption  patterns  typical  of  urban  populations.  The  oil refining industry is less prevalent than others, concentrated in the provinces of Nineveh, Salah al-Din, Basra, Baghdad, and Diyala. The extractive industries have been concentrated in the provinces of Nineveh, Baghdad, Karbala, Salah al-Din, and AlMuthanna. The Nineveh province recorded the highest location factor-6.3- for this industry. Finally, manufacturing industries were concentrated in the majority of provinces, but recorded a very high location factor of 15.50 in the province of Dhi-Qar.
+resources and the growing demand for industries that require dissemination in many regions.
+
+Chemical industries were concentrated in most provinces, with the exception of Anbar, al-Muthanna, Dhi Qar, and Maysan. The highest location factors were recorded in Salah al-Din and Basra provinces, with factors of 3.89 and 3.45, respectively. Chemical industries are concentrated in the cities because they represent large markets for their products, and consumption patterns typical of urban populations. The oil refining industry is less prevalent than others, concentrated in the provinces of Nineveh, Salah al-Din, Basra, Baghdad, and Diyala. The extractive industries have been concentrated in the provinces of Nineveh, Baghdad, Karbala, Salah al-Din, and Al-Muthanna. The Nineveh province recorded the highest location factor—6.3— for this industry. Finally, manufacturing industries were concentrated in the majority of provinces, but recorded a very high location factor of 15.50 in the province of Dhi-Qar.
 
 ##### 10.1.3.4 Comparative Advantage of Agricultural Development in Provinces
 
@@ -7764,7 +8026,7 @@ Iraq has a wide network of public roads and highways that is close to 42,000 km 
 
 ##### 10.1.4.1 Spatial Disparity in Development
 
-Over the past four decades, spatial development policies clearly tended  toward  focusing  development  on  specific  provinces. This resulted in a clear disparity in levels of development among the provinces, on the one hand, and between rural and urban areas, on the other. At the province level, studies in this area confirm  three  distinct  levels  of  economic,  social,  and  urban development, described as 'advanced,' 'relatively developed,' and 'underdeveloped.'
+Over the past four decades, spatial development policies clearly tended toward focusing development on specific provinces. This resulted in a clear disparity in levels of development among the provinces, on the one hand, and between rural and urban
 
 Average Palm Tree Production in Iraq (kg)
 
@@ -7820,6 +8082,10 @@ Tourism potential
 
 Map 4
 
+Legends
+Archaeological area
+Modern cities with important architecture and antiquities
+
 Spatial Distribution of Tourism Facilities
 
 in Iraq
@@ -7837,6 +8103,8 @@ Figure 20
 Road Network in Iraq
 
 Map 5
+
+areas, on the other. At the province level, studies in this area confirm three distinct levels of economic, social, and urban development, described as “advanced,” “relatively developed,” and “underdeveloped.”
 
 According to studies prepared in 1991, there are 8 underdeveloped provinces:
 
@@ -7940,13 +8208,13 @@ The  plan  has  adopted  a  regional  spatial  analysis  method. This  provides 
 
 #### 10.1.6 Spatial Development Challenges
 
-- Continuing  dominance  of  the  dual  spatial  development 1. phenomenon, with the limited developed areas, especially in  major  cities  and  central  province  cities  that  take  up the  largest  share  of  economic  activity,  services,  and infrastructure as compared to the underdeveloped regions, particularly in the rural districts and counties
+1. Continuing dominance of the dual spatial development phenomenon, with the limited developed areas, especially in major cities and central province cities that take up the largest share of economic activity, services, and infrastructure as compared to the underdeveloped regions, particularly in the rural districts and counties
 
-- Continuing  presence  of  extreme  spatial  concentration, 2. particularly urban, in a very limited number of large cities. Baghdad, Mosul and Basra account for 55 percent of the urban population
+2. Continuing presence of extreme spatial concentration, particularly urban, in a very limited number of large cities. Baghdad, Mosul and Basra account for 55 percent of the urban population
 
-- Absence of a comprehensive policy for urbanization 3.
+3. Absence of a comprehensive policy for urbanization
 
-- Continuing migration from rural to urban areas, and from 4. villages to cities, along with the subsequent depletion of
+4. Continuing migration from rural to urban areas, and from villages to cities, along with the subsequent depletion of
 
 160 National Development Plan for the Years 2010-2014
 
@@ -7958,29 +8226,29 @@ The  plan  has  adopted  a  regional  spatial  analysis  method. This  provides 
 
 small rural towns' productive human resources, and the pressure that puts on already scarce housing and public services in the cities attracting new populations
 
-- Continued lag by rural Iraq in terms of low levels of income, 5. lack of services, and the concentration of poverty in rural areas,  coupled  with  the  difficulties  of  spreading  basic services, such as education and health, to rural villages, particularly  those  with  populations  of  less  than  200-300 people
+5. Continued lag by rural Iraq in terms of low levels of income, lack of services, and the concentration of poverty in rural areas, coupled with the difficulties of spreading basic services, such as education and health, to rural villages, particularly those with populations of less than 200-300 people
 
-- Continuing  existence  of  large  disparities  in  services  and 6. infrastructure, as well as residential overcrowding in certain provinces and, to a larger extent, in urban as compared to rural areas-reflecting deprivation levels and unsatisfactory fulfillment of basic needs in regions that benefit less from development as compared to developed regions
+6. Continuing existence of large disparities in services and infrastructure, as well as residential overcrowding in certain provinces and, to a larger extent, in urban as compared to rural areas—reflecting deprivation levels and unsatisfactory fulfillment of basic needs in regions that benefit less from development as compared to developed regions
 
-- The arbitrary urban sprawl on farmland and the excessive 7. violations  during  recent  years  of  different  land  usages, especially within the limits of the cities' basic designs
+7. The arbitrary urban sprawl on farmland and the excessive violations during recent years of different land usages, especially within the limits of the cities' basic designs
 
-- The  growing  desertification  problem,  as  well  as  lack  of 8. vegetation  in  desert  and  semi-desert  areas  and  in  the mountainous regions
+8. The growing desertification problem, as well as lack of vegetation in desert and semi-desert areas and in the mountainous regions
 
-- The absence of basic rural settlement plans, a reflection of 9. the indiscriminate use of land, particularly agricultural land
+9. The absence of basic rural settlement plans, a reflection of the indiscriminate use of land, particularly agricultural land
 
-- The absence of long-term plans for regional land use and the lack in most Iraqi provinces of industrial or investment zones  planned  on  a  scientific  basis;  these  limit the deployment of spatial investments
+10. The absence of long-term plans for regional land use and the lack in most Iraqi provinces of industrial or investment zones planned on a scientific basis; these limit the deployment of spatial investments
 
-- The weak link between economic and industrial 11. development policies, particularly urbanization and population distribution policies
+11. The weak link between economic and industrial development policies, particularly urbanization and population distribution policies
 
-- The  emergence  of  inequality  between  provinces  with respect to obtaining water shares for agricultural and other uses, exacerbated over recent years by the limited water resources entering Iraq from countries north of the Tigris and Euphrates rivers and their tributaries
+12. The emergence of inequality between provinces with respect to obtaining water shares for agricultural and other uses, exacerbated over recent years by the limited water resources entering Iraq from countries north of the Tigris and Euphrates rivers and their tributaries
 
-- The  lack  of  thorough  use  of  the  Jazeera  and  southern deserts to develop natural pastures, resulting in decline in herds of sheep, cows, and goats.
+13. The lack of thorough use of the Jazeera and southern deserts to develop natural pastures, resulting in decline in herds of sheep, cows, and goats.
 
-- The low level or lack of use of water bodies to develop fish resources
+14. The low level or lack of use of water bodies to develop fish resources
 
-- The weak (east-west) interconnection of road and railway networks
+15. The weak (east–west) interconnection of road and railway networks
 
-- Poor exploitation of tourism potential across Iraq's regions, and reliance only on religious tourism, which is very limited compared to the overall neglected potential of historical, archaeological, natural, and recreational tourism, despite the tremendous potential in those areas.
+16. Poor exploitation of tourism potential across Iraq's regions, and reliance only on religious tourism, which is very limited compared to the overall neglected potential of historical, archaeological, natural, and recreational tourism, despite the tremendous potential in those areas.
 
 #### 10.1.7 Spatial Vision
 
@@ -7988,33 +8256,33 @@ Creation of comprehensive and continuous spatial development in  Iraq's  provinc
 
 #### 10.1.8 Spatial Development Objectives
 
-- To limit the dual spatial development phenomenon in Iraq 1. as a whole, as well as within each province
+1. To limit the dual spatial development phenomenon in Iraq as a whole, as well as within each province
 
-- To  limit  high  population  concentrations  to  a  few  cities, 2. put an end to the dominant city phenomenon in Iraq as a whole as well as within each province, and to stimulate the growth of medium- and small-sized cities
+2. To limit high population concentrations to a few cities, put an end to the dominant city phenomenon in Iraq as a whole as well as within each province, and to stimulate the growth of medium- and small-sized cities
 
-- To stimulate growth in rural areas and reduce development 3. disparities between them and urban areas by developing sectoral policies, particularly agricultural and rural development policies
+3. To stimulate growth in rural areas and reduce development disparities between them and urban areas by developing sectoral policies, particularly agricultural and rural development policies
 
-- To  reduce  the  great  disparity  in  public  services  and 4. infrastructure available among provinces and within each province;  further,  to  reduce  the  disparity  in  satisfying basic needs in the aforementioned areas and adopt that approach  as  a  basic  requirement  for  comprehensive spatial regional development
+4. To reduce the great disparity in public services and infrastructure available among provinces and within each province; further, to reduce the disparity in satisfying basic needs in the aforementioned areas and adopt that approach as a basic requirement for comprehensive spatial regional development
 
-- To  work  on  reducing  unplanned  urban  sprawl  onto 5. farmland,  particularly  reclaimed  farmland  or  land  falling within the scope of future reclamation programs
+5. To work on reducing unplanned urban sprawl onto farmland, particularly reclaimed farmland or land falling within the scope of future reclamation programs
 
-- To adopt basic plans for land use in rural settlements with 6. the aim of rationally using land and preserving agricultural land
+6. To adopt basic plans for land use in rural settlements with the aim of rationally using land and preserving agricultural land
 
-- To effectively address the problem of desertification and 7. lack of vegetation in desert areas and rural Iraq
+7. To effectively address the problem of desertification and lack of vegetation in desert areas and rural Iraq
 
-- To exploit the potential of exclusive areas like mountains, 8. marshes, bodies of water, the countryside, and the western desert  by  intensifying  their  use  in  accordance  with  their natural uniqueness and comparative advantages
+8. To exploit the potential of exclusive areas like mountains, marshes, bodies of water, the countryside, and the western desert by intensifying their use in accordance with their natural uniqueness and comparative advantages
 
-- To  strengthen  the  transport  network  in  Iraq  so  as  to 9. establish  means  of  linking  cities,  particularly  small  and medium-sized cities
+9. To strengthen the transport network in Iraq so as to establish means of linking cities, particularly small and medium-sized cities
 
-- To  develop  and  build  capabilities  in  the  planning  area; prepare long-term strategies for spatial  development based  on  knowledge  partnerships and  coordination; reduce poverty and slums on the outskirts of cities; and generally improve the economies and quality of life in rural areas.
+10. To develop and build capabilities in the planning area; prepare long-term strategies for spatial development based on knowledge partnerships and coordination; reduce poverty and slums on the outskirts of cities; and generally improve the economies and quality of life in rural areas.
 
 #### 10.1.9 Means of Achieving the Objectives
 
-- Adopting an investment policy that secures the distribution 1. of:
+1. Adopting an investment policy that secures the distribution of:
 
-- Providing  services  and  infrastructure  in  proportion with  population  size  in  provinces  and  settlements, with their level of deprivation in previous periods, and with the specifics of cities and provinces
+- Providing services and infrastructure in proportion with population size in provinces and settlements, with their level of deprivation in previous periods, and with the specifics of cities and provinces
 
-- Encouraging productive economic activities, ·
+- Encouraging productive economic activities,
 
 National Development Plan for the Years 2010-2014 161
 
@@ -8032,23 +8300,23 @@ particularly agricultural and industrial, and promotion of  tourism  in  accorda
 
 - Investing in the principle of site-neutral activities so as to develop areas facing problems or those suffering from poor development potential.
 
-- Creating  at  least  one  integrated  and  environmentally 2. friendly industrial area, planned using the latest principles and criteria, outside a city in each province, after ensuring provision  of  all  infrastructures  so  as  to  be  ready  to accommodate local private sector and foreign investors
+2. Creating at least one integrated and environmentally friendly industrial area, planned using the latest principles and criteria, outside a city in each province, after ensuring provision of all infrastructures so as to be ready to accommodate local private sector and foreign investors
 
-- Supporting and encouraging domestic and foreign private 3. investments in underdeveloped regions, through tax and customs incentives, credit facilities, and acquisition of land for investment purposes under lenient terms
+3. Supporting and encouraging domestic and foreign private investments in underdeveloped regions, through tax and customs incentives, credit facilities, and acquisition of land for investment purposes under lenient terms
 
-- Implementing integrated rural development plans aimed at 4. nominating main villages according to the basic scientific foundations  of  population  size  to  ensure  the  availability of service programs and infrastructure to the rural population
+4. Implementing integrated rural development plans aimed at nominating main villages according to the basic scientific foundations of population size to ensure the availability of service programs and infrastructure to the rural population
 
-- Reinforcing coordination between economic and industrial 5. development policies, particularly policies on urbanization and the distribution of settlements
+5. Reinforcing coordination between economic and industrial development policies, particularly policies on urbanization and the distribution of settlements
 
-- Preparing  integrated  and  structured  provincial  plans  to 6. organize regional  land  use  and  provide  a  suitable  investment environment at the local and regional level; and ensuring promotion  of  development  in  development  centers  and attractions  while  achieving  economic  integration  among regions and unaffiliated provinces
+6. Preparing integrated and structured provincial plans to organize regional land use and provide a suitable investment environment at the local and regional level; and ensuring promotion of development in development centers and attractions while achieving economic integration among regions and unaffiliated provinces
 
-- Encouraging  research  and  development  in  all  provinces 7. by coordinating among universities and business centers to create new methods and products on an experimental basis
+7. Encouraging research and development in all provinces by coordinating among universities and business centers to create new methods and products on an experimental basis
 
-- Creating development poles which serve more than one 8. province or city in order to raise productivity and create the potential for competition.
+8. Creating development poles which serve more than one province or city in order to raise productivity and create the potential for competition.
 
-- Strengthening  local  planning  institutions  in  the  area  of 9. planning, monitoring, and evaluation of the national plans' implementation of five-year goals and projects
+9. Strengthening local planning institutions in the area of planning, monitoring, and evaluation of the national plans' implementation of five-year goals and projects
 
-- Strengthening  the regional  information  database  and 10. upgrading analytical  capabilities  for  local  planning  personnel in  a  manner  that  contributes  to  future  developments  in the  methods  and  strategies  associated  with  preparing development plans
+10. Strengthening the regional information database and upgrading analytical capabilities for local planning personnel in a manner that contributes to future developments in the methods and strategies associated with preparing development plans
 
 ### 10.2 Environmental Sustainability
 
@@ -8061,7 +8329,7 @@ The results include clear deficiency in ecosystems and changes in the natural fe
 
 These  essentially  nullified  all  of  the  environmental  laws  and regulations adopted over the past three decades, as well as the targets set by official bodies to protect the environment. In 1974, the Higher Association for the Human Environment was formed,  following  Iraq's  participation  in  the  1972  Stockholm Conference  on  the  Human  Environment.  This  entity  did  its job until the Higher Council for the Human Environment was formed  in  1975.  This  entity  was  renamed  the  Council  for Environmental Protection. The Directorate General on Human Environment was established in the same year. In 1986, the Higher Council for Environmental Protection and Improvement was  established  under  Act  76.  The  Law  aimed  to  protect the  environment,  prevent  pollution,  develop  public  policies, prepare  action  plans,  and  put  controls  on  environmental contaminants.  It  expressed  opinions  in  Iraq's  international relations on protecting and improving the environment, as  established  under  Article  12  of  the  law  establishing  the Council for Environmental Protection and Improvement (which replaced  the  Directorate  General  for  Human  Environment).  It also aimed to examine a range of disciplines, including those related  to  environmental  pollution  in  Iraq,  propose  solutions for them, examine all environmental pollutants, and follow up on  environmental  safety  and  improvement.  In  1997,  the  law cited above was repealed and replaced by Law 3 of 1997 on Protecting and Improving the Environment. It aimed to protect the  environment,  including  territorial  waters,  from  pollution, and reduce its effects on health, the environment, and natural resources. Environmental policies and plans were drafted in an attempt to ensure achievement of environmental sustainability to secure the rights of future generations.
 
-Article  18  of  the  law  stressed  the  need  for  a  technical  and economic feasibility study to be included in any project having an environmental impact. It also set forth penalties for those who  violate  the  law's  provisions.  Despite  the  early  attention paid to the environment, there was a lack of attention given to the environmental dimension in economic and developmental decisions  in  Iraq.  This  was  particularly  true  during  the  wars and  under  economic  sanctions  that  weakened  the  role  of such legislation in protecting and improving the environment. Consequently,  Iraq  lacked  environmental  security,  and  thus lacked  proper  infrastructure,  specialized  environmental  staff, environmental  planning  and  awareness,  and  environmentally friendly technology.
+Article 18 of the law stressed the need for a technical and economic feasibility study to be included in any project having an environmental impact. It also set forth penalties for those
 
 162 National Development Plan for the Years 2010-2014
 
@@ -8070,6 +8338,8 @@ Article  18  of  the  law  stressed  the  need  for  a  technical  and economic 
 [[START OF PAGE 163]]
 
 10
+
+who violate the law's provisions. Despite the early attention paid to the environment, there was a lack of attention given to the environmental dimension in economic and developmental decisions in Iraq. This was particularly true during the wars and under economic sanctions that weakened the role of such legislation in protecting and improving the environment. Consequently, Iraq lacked environmental security, and thus lacked proper infrastructure, specialized environmental staff, environmental planning and awareness, and environmentally friendly technology.
 
 ##### 10.2.1.2  After 2003
 
@@ -8083,15 +8353,15 @@ The NDP 2010-2014 emphasizes the importance and necessity  of  integrating  envi
 
 ###### Sources of air pollution vary in Iraq. The most important are:
 
-- Modes  of  transport  and  their  increased  numbers,  low 1. quality, and age
+1. Modes of transport and their increased numbers, low quality, and age
 
-- Industrial  activity  and  cessation  of  emission  treatment 2. systems in most industries
+2. Industrial activity and cessation of emission treatment systems in most industries
 
-- Expanded  manufacturing  of  bricks  and  cement,  which 3. relies on traditional means of production that do not use dust filters and consume large quantities of fuel
+3. Expanded manufacturing of bricks and cement, which relies on traditional means of production that do not use dust filters and consume large quantities of fuel
 
-- Archaic  methods  of  waste  disposal,  such  as  burning 4. household waste and dumping toxic hospital waste
+4. Archaic methods of waste disposal, such as burning household waste and dumping toxic hospital waste
 
-- Electric home supply through use of small generators void 5. of efficiency standards.
+5. Electric home supply through use of small generators void of efficiency standards.
 
 The various sources have polluted the air in most Iraqi cities and suburbs, with a tendency toward increasing pollution levels as city size and polluting activities increase. These problems are  exacerbated  by  poor  environmental  legislative  deterrents for offenders and weak monitoring and surveillance systems. The leading  types  of  air  pollution  are  lead,  floating  particles, concentration of carbon dioxide, sulfur, and falling dust.
 
@@ -8099,7 +8369,7 @@ The effects of industrial air pollution were reduced after 2003 as  a  result  o
 
 ##### 10.2.2.2 Water Pollution
 
-Industrial and human activities contribute to polluting waterspecifically  rivers,  lakes,  and  coastal  waters-by  dumping untreated  contaminated  water  into  them,  seriously  affecting quality.  The  main  types  of  water  pollutants  in  Iraq  include: liquid  industrial  pollutants,  organic  pollutants,  effluents  from hospitals, sewage water, car washes, lubricants, oil pollutants, and drainage water.
+Industrial and human activities contribute to polluting water—specifically rivers, lakes, and coastal waters—by dumping untreated contaminated water into them, seriously affecting quality. The main types of water pollutants in Iraq include: liquid industrial pollutants, organic pollutants, effluents from hospitals, sewage water, car washes, lubricants, oil pollutants, and drainage water.
 
 Iraq  suffered  environmentally  as  a  result  of  industrial  development during the 1970s.  Many  industries lacked environmental requirements and standards at the time, whether from a location standpoint  or  in  terms  of  liquid  sewage  treatment.  Liquid sewage is characterized by high concentrations of pollutants, and  is  directly  dumped  into  water  and  sewage  networks. Weak environmental oversight of industrial activities has made matters  worse,  as  has  noncompliance  with  environmental requirements. There are 221 hospitals in Iraq, for example, 159 of which are public hospitals. Per the Ministry of Environment's data from the year 2007, 15 of the public hospitals dumped their waste in rivers, 34 dumped their waste in sewers, and 85 lack processing units altogether. As for the 72 private hospitals in Iraq, none of them have processing units, with the exception of one hospital in the Kirkuk province.
 
@@ -8129,25 +8399,25 @@ Arable  land  is  deteriorating  due  to  poor  management,  inadequate techniqu
 
 There  are  no  specific  data  on  solid  waste  management. However, the reality can be indicated by the following:
 
-- The lack of data on the quantities and characteristics of 1. hazardous waste and inability to identify its sources; the fact that some provinces dispose of hazardous waste by dumping it with municipal waste
+1. The lack of data on the quantities and characteristics of hazardous waste and inability to identify its sources; the fact that some provinces dispose of hazardous waste by dumping it with municipal waste
 
-- Waste disposed of in some economic activities by burning 2. in  illegal  incinerators  to  reduce  disposal  costs-some dangerous and capable of causing serious environmental pollution by producing dioxins and furan toxic compounds that are harmful to public health
+2. Waste disposed of in some economic activities by burning in illegal incinerators to reduce disposal costs—some dangerous and capable of causing serious environmental pollution by producing dioxins and furan toxic compounds that are harmful to public health
 
-- Lack of technical facilities dedicated to transport, storage, 3. processing,  burying,  and  burning  hazardous  waste  in provinces.  Indeed,  according  to  reports  from  provinces,
+3. Lack of technical facilities dedicated to transport, storage, processing, burying, and burning hazardous waste in provinces. Indeed, according to reports from provinces,
 
-hazardous waste has accumulated in Iraq in places not intended for storage or at sites where it remains for many years,  waiting  to  find  successful  solutions  for  disposal. This creates significant health and environmental risks that lead to polluted air, soil, and water.
+hazardous waste has accumulated in Iraq in places not intended for storage or at sites where it remains for many years, waiting to find successful solutions for disposal. This creates significant health and environmental risks that lead to polluted air, soil, and water.
 
-- Poor management of solid waste due to lack of efficient 4. staffing
+4. Poor management of solid waste due to lack of efficient staffing
 
-- Hospital incinerators located near residential communities, 5. adversely affecting the environment and the population in the  vicinity  with  toxic  fume  emissions  (dioxin  and  furans which are cancerous) and other emissions (nitrogen oxide, sulfur, and carbon) that cause irritation and diseases of the eye and respiratory system
+5. Hospital incinerators located near residential communities, adversely affecting the environment and the population in the vicinity with toxic fume emissions (dioxin and furans which are cancerous) and other emissions (nitrogen oxide, sulfur, and carbon) that cause irritation and diseases of the eye and respiratory system
 
-- Dumping  sites  in  Baghdad  and  provinces  that  have  no 6. environmental requirements, leaving as options arbitrarily throwing waste in illegal dumping sites and, in some cases, leaving waste outside legal dump sites because there is no regulatory system controlling transport or disposal of waste
+6. Dumping sites in Baghdad and provinces that have no environmental requirements, leaving as options arbitrarily throwing waste in illegal dumping sites and, in some cases, leaving waste outside legal dump sites because there is no regulatory system controlling transport or disposal of waste
 
-- Lack of specialized vehicles used in waste management 7. as compared to those required by international standards, and the limited number of employees and their low skill level
+7. Lack of specialized vehicles used in waste management as compared to those required by international standards, and the limited number of employees and their low skill level
 
-- Lack  of  supervision  and  means  of  control,  along  with 8. the absence of records detailing the quantities of waste collected and transferred to temporary sites
+8. Lack of supervision and means of control, along with the absence of records detailing the quantities of waste collected and transferred to temporary sites
 
-- The  majority  of  butcher  shops  are  without  processing 9. units for solid waste (furnaces) or liquid waste (treatment basins).
+9. The majority of butcher shops are without processing units for solid waste (furnaces) or liquid waste (treatment basins).
 
 #### 10.2.3 Challenges
 
@@ -8155,9 +8425,9 @@ The Iraqi environment has suffered and continues to experience numerous problems
 
 Events  in  2003  and  beyond  are  still  casting  a  shadow  on the environment. Despite significant improvement in the management of work, projects, and services in multiple areas, many  problems  with  negative  environmental  impacts  persist and are causing damage and serious repercussions. The most pressing challenges are as follows.
 
-- The  pollution  of  all  environmental  elements,  especially 1. in major cities,  and  the  absence  of  comprehensive monitoring, control,  and  follow-up  systems  that  can precisely determine the reality of environmental damage, including radioactive contamination
+1. The pollution of all environmental elements, especially in major cities, and the absence of comprehensive monitoring, control, and follow-up systems that can precisely determine the reality of environmental damage, including radioactive contamination
 
-- Continuing  shortages  in  electric  power  supply  from  the 2. national  grid  and  the  increasing  use  of  small  electric generators to meet domestic, commercial, and industrial
+2. Continuing shortages in electric power supply from the national grid and the increasing use of small electric generators to meet domestic, commercial, and industrial
 
 164 National Development Plan for the Years 2010-2014
 
@@ -8167,53 +8437,53 @@ Events  in  2003  and  beyond  are  still  casting  a  shadow  on the environmen
 
 10
 
-- needs, resulting in damage to the surrounding environment by burning large quantities of fuel, gasoline, gas oil, and sometimes black oil in inefficient, highly polluting internal combustion engines
+needs, resulting in damage to the surrounding environment by burning large quantities of fuel, gasoline, gas oil, and sometimes black oil in inefficient, highly polluting internal combustion engines
 
-- The insufficiency of current environmental laws, regulations, 3. and specifications, and the need to update them to match international  advancements  in  this  area,  especially  with respect to the issue of climate change
+3. The insufficiency of current environmental laws, regulations, and specifications, and the need to update them to match international advancements in this area, especially with respect to the issue of climate change
 
-- The  low  level  of  human  and  material  resources  and 4. the shortage  of technical expertise at  environmental institutions, particularly at the local level
+4. The low level of human and material resources and the shortage of technical expertise at environmental institutions, particularly at the local level
 
-- Lack  of  integration  of  the  environmental  dimension  in 5. development activities has created a dichotomy between environmental, economic, and social dimensions, distancing them from the objectives and mechanisms for sustainable development
+5. Lack of integration of the environmental dimension in development activities has created a dichotomy between environmental, economic, and social dimensions, distancing them from the objectives and mechanisms for sustainable development
 
-- Iraq's weak  and  limited participation in international 6. environmental activities
+6. Iraq's weak and limited participation in international environmental activities
 
-- The weak capabilities and lack of interest in environmental 7. impact  assessment  studies,  particularly  with  respect  to strategic projects, and the lack of experience in this area
+7. The weak capabilities and lack of interest in environmental impact assessment studies, particularly with respect to strategic projects, and the lack of experience in this area
 
-- Lack  of  attention  to  technological  and  environmentally 8. friendly sources of clean energy
+8. Lack of attention to technological and environmentally friendly sources of clean energy
+
+9. Low environmental awareness among citizens in general, and investors in particular, who neglect environmental standards for private economic gains
+
+10. The use of heavy products such as black oil to run power plants and many other industrial activities, such as brick manufacturing, as well as use of stone ovens that use electric generators within residential and commercial neighborhoods
+
+11. The clear decline in green spaces due to neglect, lack of irrigation, and removal of vast numbers of trees for security reasons and for use as alternative fuels in other instances, which has led to an increase in areas with exposed soil, the main source of rising dust.
+
+#### 10.2.4 Vision
+
+Protecting the environment and tackling sources of environmental pollution by planning a sound environmental management approach aimed at transforming the approach to dealing with natural resources to a more sustainable one that preserves biological diversity, raises environmental awareness, and promotes the principle of environmental citizenship to achieve the MDGs.
 
 ##### First Goal: Promoting Sustainable Development
 
 ###### Means of achieving the objective:
 
-- Adopting defined and environmentally sustainable investment projects that various ministries, local communities, federal 1. and regional governments participate in selecting.
+1. Adopting defined and environmentally sustainable investment projects that various ministries, local communities, federal and regional governments participate in selecting.
 
-- Instituting a special system for environmental impact assessment in Iraq to ensure that investment projects included in the 2. development plan meet environmental requirements and specifications.
+2. Instituting a special system for environmental impact assessment in Iraq to ensure that investment projects included in the development plan meet environmental requirements and specifications.
 
-- Reinforcing international cooperation through signing environmental agreements with neighboring countries to protect the 3. environment, as well as joining international environmental conventions.
+3. Reinforcing international cooperation through signing environmental agreements with neighboring countries to protect the environment, as well as joining international environmental conventions.
 
 ##### Second Goal: Monitoring the Environmental Reality
 
 ###### Means of achieving the objective:
 
-- Developing an integrated system for environmental monitoring, evaluation, and follow-up. 1.
+1. Developing an integrated system for environmental monitoring, evaluation, and follow-up.
 
-- Monitoring the types and sources of pollution and measuring them against national and international standards. 2.
+2. Monitoring the types and sources of pollution and measuring them against national and international standards.
 
-- Importing and developing devices for measuring pollutants for follow-up and analysis purposes. 3.
+3. Importing and developing devices for measuring pollutants for follow-up and analysis purposes.
 
-- Promulgating a set of environmental legislations that include laws, regulations, instructions and environmental standards 4. aimed at protecting and improving the environment and preventing pollution so as to match global developments in this area.
+4. Promulgating a set of environmental legislations that include laws, regulations, instructions and environmental standards aimed at protecting and improving the environment and preventing pollution so as to match global developments in this area.
 
-- Using environment-friendly technology in addressing sources that threaten the environment, especially solid waste. 5.
-
-- Low environmental awareness among citizens in general, 9. and  investors  in  particular,  who  neglect  environmental standards for private economic gains
-
-- The use of heavy products such as black oil to run power plants and many other industrial activities, such as brick manufacturing,  as  well  as  use  of  stone  ovens  that  use electric generators within residential  and  commercial neighborhoods
-
-- The clear decline in green spaces due to neglect, lack of irrigation, and removal of vast numbers of trees for security reasons and for use as alternative fuels in other instances, which has led to an increase in areas with exposed soil, the main source of rising dust.
-
-#### 10.2.4 Vision
-
-Protecting the environment and tackling sources of environmental  pollution  by  planning  a  sound  environmental management approach aimed at transforming the approach to dealing with natural resources to a more sustainable one that preserves biological diversity, raises environmental awareness, and  promotes  the  principle  of  environmental  citizenship  to achieve the MDGs.
+5. Using environment-friendly technology in addressing sources that threaten the environment, especially solid waste.
 
 National Development Plan for the Years 2010-2014 165
 
@@ -8233,53 +8503,53 @@ The current development plan seeks to put this strategic vision for the environm
 
 ###### Means of Achieving the Objectives
 
-- Adopting defined and environmentally sustainable investment projects that various ministries, local communities, federal 1. and regional governments participate in selecting
+1. Adopting defined and environmentally sustainable investment projects that various ministries, local communities, federal and regional governments participate in selecting
 
-- Instituting a special system for environmental impact assessment in Iraq to ensure that investment projects included in the 2. development plan meet environmental requirements and specifications
+2. Instituting a special system for environmental impact assessment in Iraq to ensure that investment projects included in the development plan meet environmental requirements and specifications
 
-- Reinforcing international cooperation through signing environmental agreements with neighboring countries to protect the 3. environment, as well as joining international environmental conventions.
+3. Reinforcing international cooperation through signing environmental agreements with neighboring countries to protect the environment, as well as joining international environmental conventions.
 
 ##### Objective: Monitoring the Environmental Reality
 
 ###### Means of Achieving the Objective
 
-- Developing an integrated system for environmental monitoring, evaluation and follow-up 1.
+1. Developing an integrated system for environmental monitoring, evaluation and follow-up
 
-- Monitoring the types and sources of pollution and measuring them against national and international standards 2.
+2. Monitoring the types and sources of pollution and measuring them against national and international standards
 
-- Importing and developing devices for measuring pollutants for follow-up and analysis purposes 3.
+3. Importing and developing devices for measuring pollutants for follow-up and analysis purposes
 
-- Promulgating a set of environmental legislations that include laws, regulations, instructions and environmental standards 4. aimed at protecting and improving the environment and preventing pollution so as to match global developments in this area
+4. Promulgating a set of environmental legislations that include laws, regulations, instructions and environmental standards aimed at protecting and improving the environment and preventing pollution so as to match global developments in this area
 
-- Using environment-friendly technology in addressing sources that threaten the environment, especially solid waste. 5.
+5. Using environment-friendly technology in addressing sources that threaten the environment, especially solid waste.
 
 ##### Objective: Protecting Air Quality
 
 ###### Means of Achieving the Objectives
 
-- Reducing emissions from contaminated sources 1.
+1. Reducing emissions from contaminated sources
 
-- Preventing indiscriminate burning 2.
+2. Preventing indiscriminate burning
 
-- Using environmentally friendly technologies in existing and future activities 3.
+3. Using environmentally friendly technologies in existing and future activities
 
-- Controlling pollution emissions from major industrial activities and power plants 4.
+4. Controlling pollution emissions from major industrial activities and power plants
 
-- Implementing a program to use renewable energy, particularly generating solar power. 5.
+5. Implementing a program to use renewable energy, particularly generating solar power.
 
 ##### Objective: Protecting Water from Pollution
 
 ###### Means of Achieving the Objectives
 
-- Working to develop a vision for the rational use of water resources and protection of its quality 1.
+1. Working to develop a vision for the rational use of water resources and protection of its quality
 
-- Expanding coverage of water networks and improving the quality of drinking water 2.
+2. Expanding coverage of water networks and improving the quality of drinking water
 
-- Using modern technologies in sewage networks 3.
+3. Using modern technologies in sewage networks
 
-- Adopting appropriate environmental planning for lakes and beaches 4.
+4. Adopting appropriate environmental planning for lakes and beaches
 
-- Criminalizing water pollution. 5.
+5. Criminalizing water pollution.
 
 166 National Development Plan for the Years 2010-2014
 
@@ -8293,43 +8563,43 @@ The current development plan seeks to put this strategic vision for the environm
 
 ###### Means of Achieving the Objectives
 
-- Expanding agricultural areas and preserving natural resources 1.
+1. Expanding agricultural areas and preserving natural resources
 
-- Reducing urban expansion in cities and working to develop rural areas 2.
+2. Reducing urban expansion in cities and working to develop rural areas
 
-- Upgrading slums to become environmentally friendly settlements 3.
+3. Upgrading slums to become environmentally friendly settlements
 
-- Addressing the issue of soil salinity and preventing it from expanding 4.
+4. Addressing the issue of soil salinity and preventing it from expanding
 
-- Building an information database for plant and animal species, establishing natural reserves and protecting endangered 5. species.
+5. Building an information database for plant and animal species, establishing natural reserves and protecting endangered species.
 
 ##### Objective: Environmental Awareness
 
 ###### Means of Achieving the Objectives
 
-- Introducing 'environment' as a subject in secondary and tertiary education, and strengthening the principle of environmental 1. citizenship
+1. Introducing 'environment' as a subject in secondary and tertiary education, and strengthening the principle of environmental citizenship
 
-- Strengthening the role of civil society organizations in dealing with environmental problems and promoting environmental 2. awareness among members of the community
+2. Strengthening the role of civil society organizations in dealing with environmental problems and promoting environmental awareness among members of the community
 
-- Providing space for environmental advertising in audio and audio visual programming 3.
+3. Providing space for environmental advertising in audio and audio visual programming
 
-- Educational training programs for state employees on the importance of environmental sustainability as a human right. 4.
+4. Educational training programs for state employees on the importance of environmental sustainability as a human right.
 
 ##### Objective: Reinforcing Regional and International Cooperation
 
 ###### Means of Achieving the Objectives
 
-- Ensuring Iraq's participation in environmental conventions and protocols, both regional and international 1.
+1. Ensuring Iraq's participation in environmental conventions and protocols, both regional and international
 
-- Signing  bilateral  cooperation  agreements  between  Iraq  and  different  countries,  as  well  as  regional  and  international 2. organizations
+2. Signing bilateral cooperation agreements between Iraq and different countries, as well as regional and international organizations
 
 ##### Objective: Developing and Building Environmental Capabilities
 
 ###### Means of Achieving the Objectives
 
-- Supporting environmental specializations in scientific departments at universities and institutes, while seeking to develop 1. curricula in line with global developments
+1. Supporting environmental specializations in scientific departments at universities and institutes, while seeking to develop curricula in line with global developments
 
-- Setting  up  rehabilitation,  development,  and  training  programs  for  environmental  personnel  inside  and  outside  Iraq, 2. especially province employees.
+2. Setting up rehabilitation, development, and training programs for environmental personnel inside and outside Iraq, especially province employees.
 
 National Development Plan for the Years 2010-2014 167
 
@@ -8365,9 +8635,9 @@ In the early 1970s, particularly after the nationalization of oil in 1972, the p
 
 In the second half of the 1980s, the years during when Iraq was embroiled in the First Gulf war, there was a shift toward public policy welcoming the private sector, the result of the conditions created by the war at that time. The government announced an 'open door policy as regards the private sector' and acted upon it by declaring its withdrawal from direct intervention in agriculture.  The  reason  behind  this  move  was  the  country's political and economic confusion; the government's failure to accomplish  food  security;  and  public  investment's  failure  to achieve its goals in the agriculture sector.
 
-Table 67 | Public and Private Sector Shares in Generation of Gross Domestic Product at Current Prices for the Years 1974 - 2002
---- | --- | --- | ---
-Year | Public sector | (percent) Private sector | (percent)
+Table 67 | Public and Private Sector Shares in Generation of Gross Domestic Product at Current Prices for the Years 1974 – 2002
+--- | --- | ---
+Year | Public sector (percent) | Private sector (percent)
 1974 | 67.0 | 33.0
 1979 | 80.0 | 20.0
 1980 | 83.0 | 17.0
@@ -8382,7 +8652,7 @@ The  door  to  private  sector  participation  in  other  economic activities  w
 
 The shift in roles between the public and private sectors was neither a planned program adopted by the government, nor a goal in an economic policy the government sought to translate into  reality.  Instead,  it  was  forced  on  the  state  to  mitigate the effects of the First and Second Gulf wars. It was further promoted  by  the  legal  framework  that  allowed  the  private sector  to  trade  with  the  outside  world  during  the  economic sanctions period.
 
-The  distribution  of  roles  between  the  public  and  private sectors did not resolve Iraq's economic crisis. Rather, it had negative  effects  and  exacerbated  economic  problems.  This was evidenced by the rapid increase in consumer prices and the  high  rates  of  inflation.  These  were  compounded  by  the failures caused by the new import rules that were supposed to have offered advantages to importers- failures that included exportation of the Iraqi currency to neighboring countries and its sale at low rates; the increase in inflation rates; orientation of investments towards the foreign trade sector; and speculation. These failures also contributed to the government's inability to develop  the  appropriate  legislative,  financial,  and  economic frameworks for privatization. The results worsened the crisis of the Iraqi economy. To deal with them, the government had to retreat from its policy through a set of procedures that included lowering prices; increasing subsidies to the agricultural sector; increasing the salaries of state officials; passing a law freezing the prices of some consumer goods; and establishing a low cap on the profits of public sector and mixed companies.
+The distribution of roles between the public and private sectors did not resolve Iraq's economic crisis. Rather, it had negative effects and exacerbated economic problems. This was evidenced by the rapid increase in consumer prices and the high rates of inflation. These were compounded by the failures caused by the new import rules that were supposed to
 
 170 National Development Plan for the Years 2010-2014
 
@@ -8391,6 +8661,8 @@ The  distribution  of  roles  between  the  public  and  private sectors did not
 [[START OF PAGE 171]]
 
 11
+
+have offered advantages to importers— failures that included exportation of the Iraqi currency to neighboring countries and its sale at low rates; the increase in inflation rates; orientation of investments towards the foreign trade sector; and speculation. These failures also contributed to the government's inability to develop the appropriate legislative, financial, and economic frameworks for privatization. The results worsened the crisis of the Iraqi economy. To deal with them, the government had to retreat from its policy through a set of procedures that included lowering prices; increasing subsidies to the agricultural sector; increasing the salaries of state officials; passing a law freezing the prices of some consumer goods; and establishing a low cap on the profits of public sector and mixed companies.
 
 From this reality, we can deduce the most important features of the private sector for the period before 2003, namely that it was dominated by individual work, and small facilities in terms of organization, investment, or production. Investments tended to be geared toward activities with guaranteed profit by searching for projects in which the capital repayment period was short. There was also dependency on government support, making the private sector weak in the face of competition from imported goods.
 
@@ -8426,45 +8698,45 @@ to  encourage  the  private  sector  business.  There  is  also  the need to lay
 
 ### 11.3 Challenges Facing Private Sector Development
 
-- Absence of a suitable investment environment that 1. encourages mobilization  of  the  local  and  foreign  private sector's potential and capabilities in support the national economy
+1. Absence of a suitable investment environment that encourages mobilization of the local and foreign private sector's potential and capabilities in support the national economy
 
-- Lack  of  clarity  on  the  private  sector's  role  in  effective 2. development,  along  with  absence  of  a  clearly  defined vision for this role once the economy is restructured and its production base is built
+2. Lack of clarity on the private sector's role in effective development, along with absence of a clearly defined vision for this role once the economy is restructured and its production base is built
 
-- Overly complex government procedures on the business 3. front that have pushed businessmen and investors out of the Iraqi arena
+3. Overly complex government procedures on the business front that have pushed businessmen and investors out of the Iraqi arena
 
-- Shortage of laws and regulations that activate the private 4. sector's role in economic activities, limiting the possibility of maximizing this role and eroding its competitiveness
+4. Shortage of laws and regulations that activate the private sector's role in economic activities, limiting the possibility of maximizing this role and eroding its competitiveness
 
-- Shortage  of the specialized banking  system's credit 5. capabilities  has  limited  the  possibilities  for  lending  and borrowing by the private sector to finance its investment objectives,  and  limited  the  effectiveness  of  specialized banks
+5. Shortage of the specialized banking system's credit capabilities has limited the possibilities for lending and borrowing by the private sector to finance its investment objectives, and limited the effectiveness of specialized banks
 
-- The  Iraqi  stock  market  lags  behind  and  is  far  removed 6. from  developed  financial  rules  and  principles  adopted internationally, which has undermined the Iraqi investor's financial strength
+6. The Iraqi stock market lags behind and is far removed from developed financial rules and principles adopted internationally, which has undermined the Iraqi investor's financial strength
 
-- Increases  in  interest  rates  are  considered  a  monetary 7. constraint  on  the  credit  offered  to  the  private  sector  by government banks for investment purposes
+7. Increases in interest rates are considered a monetary constraint on the credit offered to the private sector by government banks for investment purposes
 
-- Reliance  on  state  protection  and  support  systems  as 8. opposed to competition has caused the Iraqi private sector to disregard efficiency and competitiveness standards in its investment decision-making process
+8. Reliance on state protection and support systems as opposed to competition has caused the Iraqi private sector to disregard efficiency and competitiveness standards in its investment decision-making process
 
-- Economic reform programs lack the necessary economic, 9. financial, legal, and administrative measures necessary to restructure public institutions. This has limited the possibility of  commencing  privatization  operations  or  merger  of public or private institutions. If they do commence, these operations  will  be  far  removed  from  proper  economic, accounting, financial, and legal standards because these requirements are absent
+9. Economic reform programs lack the necessary economic, financial, legal, and administrative measures necessary to restructure public institutions. This has limited the possibility of commencing privatization operations or merger of public or private institutions. If they do commence, these operations will be far removed from proper economic, accounting, financial, and legal standards because these requirements are absent
 
-- Inadequate infrastructure and basic services for the private sector have led to the deterioration of the private sector's competitive position locally, regionally, and internationally
+10. Inadequate infrastructure and basic services for the private sector have led to the deterioration of the private sector's competitive position locally, regionally, and internationally
 
-- The private  sector's  inadequate  knowledge,  information, and  technology  base;  its  inability  to  absorb  or  keep  up with rapid changes in the global market-factors essential to competition and access to foreign markets.
+11. The private sector's inadequate knowledge, information, and technology base; its inability to absorb or keep up with rapid changes in the global market—factors essential to competition and access to foreign markets.
 
 ### 11.4 Policies
 
-- An economic policy that has a clear vision and goals, is 1. founded on building the economy by defining, describing, and distributing roles between the private and public sector, and does so in a manner that ensures gradual transition to a market economy at the lowest cost. The implications of this policy can be seen in the current plan:
+1. An economic policy that has a clear vision and goals, is founded on building the economy by defining, describing, and distributing roles between the private and public sector, and does so in a manner that ensures gradual transition to a market economy at the lowest cost. The implications of this policy can be seen in the current plan:
 
-- A  tax  policy  that  enhances  the  private  sector's  role  in 2. economic  activities and supports its  economic  and financial roles through tax incentives, rates, and the scope of deductions
+2. A tax policy that enhances the private sector's role in economic activities and supports its economic and financial roles through tax incentives, rates, and the scope of deductions
 
-- An investment policy that makes infrastructure and basic 3. services a strategic goal (electricity, water, fuel), supports the  effectiveness  of  private  investment,  and  enhances access to foreign investments in the economic arena. The current plan clearly embodies this policy.
+3. An investment policy that makes infrastructure and basic services a strategic goal (electricity, water, fuel), supports the effectiveness of private investment, and enhances access to foreign investments in the economic arena. The current plan clearly embodies this policy.
 
-- A national employment policy whose objectives are defined 4. based on a vision of the private sector as a generator of employment opportunities and a supporter of sustainable growth
+4. A national employment policy whose objectives are defined based on a vision of the private sector as a generator of employment opportunities and a supporter of sustainable growth
 
-- A fiscal  policy  supportive  of  the  principle  of  competition 5. for  private  sector  activities  (the  private  industry  sector), particularly as regards social security systems, as well as labor rights and wages in the private sector
+5. A fiscal policy supportive of the principle of competition for private sector activities (the private industry sector), particularly as regards social security systems, as well as labor rights and wages in the private sector
 
-- An enhanced production policy aimed at diversifying the 6. production infrastructure through the private sector
+6. An enhanced production policy aimed at diversifying the production infrastructure through the private sector
 
-- An economically efficient credit policy that seeks to grant 7. concessionary  credit  to  the  private  sector  at  attractive interest  rates  to  support  productivity  goals  (agriculture, industry, and tourism)
+7. An economically efficient credit policy that seeks to grant concessionary credit to the private sector at attractive interest rates to support productivity goals (agriculture, industry, and tourism)
 
-- Development of the Iraqi stock market so it embodies a 8. proper  and  technologically  advanced  foundation  based on international standards for financial service provision; enhances  the  prestige  of  Iraqi  investors;  and  secures their international financial dealings in a modern dynamic manner.
+8. Development of the Iraqi stock market so it embodies a proper and technologically advanced foundation based on international standards for financial service provision; enhances the prestige of Iraqi investors; and secures their international financial dealings in a modern dynamic manner.
 
 ### 11.5 Vision
 
@@ -8484,53 +8756,53 @@ An interactive, participatory, and competitive private sector that supports sust
 
 ###### Means of Achieving the Objective
 
-- Increasing  its  percentage  contribution  in  gross  domestic  product  generation  and  capital  formation  by  mobilizing  its 1. investments in agriculture, industry, and tourism
+1. Increasing its percentage contribution in gross domestic product generation and capital formation by mobilizing its investments in agriculture, industry, and tourism
 
-- Increasing its percentage contribution in job creation by expanding the scope of the organized private sector 2.
+2. Increasing its percentage contribution in job creation by expanding the scope of the organized private sector
 
-- As private sector savings are a key source for funding plan projects, attempt to keep native capital in Iraq and bring back 3. that which is currently overseas
+3. As private sector savings are a key source for funding plan projects, attempt to keep native capital in Iraq and bring back that which is currently overseas
 
-- Making the private sector a source for diversification of commodity supply using the method of private integrated industrial 4. complexes
+4. Making the private sector a source for diversification of commodity supply using the method of private integrated industrial complexes
 
 ##### Objective: Partnership between the Private and Public Sectors
 
 ###### Means of Achieving the Objective
 
-- Determining the forms of partnership and choosing the most appropriate, possibly including collaborative partnerships and 1. contractual partnerships (BOOT, BOO, BOT)
+1. Determining the forms of partnership and choosing the most appropriate, possibly including collaborative partnerships and contractual partnerships (BOOT, BOO, BOT)
 
-- Legislating and activating a privatization law 2.
+2. Legislating and activating a privatization law
 
-- Establishing support for technological projects and expanding their adoption. 3.
+3. Establishing support for technological projects and expanding their adoption.
 
 ##### Objective: Promoting an Environment that Encourages Investment
 
 ###### Means of Achieving the Objective
 
-- Adopting flexible policies that respond to local and international economic changes 1.
+1. Adopting flexible policies that respond to local and international economic changes
 
-- Expanding establishment of economically feasible shareholding companies 2.
+2. Expanding establishment of economically feasible shareholding companies
 
-- Completing the law and regulation system that supports the private sector and the market economy 3.
+3. Completing the law and regulation system that supports the private sector and the market economy
 
-- Developing banking systems, capital markets, and lending plans 4.
+4. Developing banking systems, capital markets, and lending plans
 
-- Updating economic regulations that support a market economy while aiming to achieve the plan's social objectives 5.
+5. Updating economic regulations that support a market economy while aiming to achieve the plan's social objectives
 
-- Relying on transparency as the basic premise for building the investment relationship between the private sector and the 6. state
+6. Relying on transparency as the basic premise for building the investment relationship between the private sector and the state
 
-- Developing the government institutions' capabilities to contribute to private sector development. 7.
+7. Developing the government institutions' capabilities to contribute to private sector development.
 
 ##### Objective: Privatizing of Public Sector Projects
 
 ###### Means of Achieving the Objective
 
-- Developing the Iraqi stock market from an administrative, technical, and technological perspective 1.
+1. Developing the Iraqi stock market from an administrative, technical, and technological perspective
 
-- Instituting a flexible and transparent privatization law that protects state and worker rights from a financial, economic, and 2. social perspective
+2. Instituting a flexible and transparent privatization law that protects state and worker rights from a financial, economic, and social perspective
 
-- Offering stocks for public subscription as well as adopting the Golden Arrow method for the state in the early stages 3.
+3. Offering stocks for public subscription as well as adopting the Golden Arrow method for the state in the early stages
 
-- Providing workers with a portion of the shares of the companies sold. 4.
+4. Providing workers with a portion of the shares of the companies sold.
 
 National Development Plan for the Years 2010-2014 173
 
@@ -8546,39 +8818,39 @@ Private Sector
 
 ###### Means of Achieving the Objective
 
-- Liberating interest rates and exchange rates and reducing restrictions on the flow of capital 1.
+1. Liberating interest rates and exchange rates and reducing restrictions on the flow of capital
 
-- Developing financial risk management technologies and systems to mitigate the impacts of said financial risk 2.
+2. Developing financial risk management technologies and systems to mitigate the impacts of said financial risk
 
-- Revitalizing private banks to promote the effectiveness of the private sector's financial transactions 3.
+3. Revitalizing private banks to promote the effectiveness of the private sector's financial transactions
 
-- Strengthening banking systems' technical and guidance roles to provide support and financial advice to private sector 4. investors
+4. Strengthening banking systems' technical and guidance roles to provide support and financial advice to private sector investors
 
 ##### Objective: Developing the Private Sector's Competitive and Export Capabilities
 
 ###### Means of Achieving the Objective
 
-- Examining potential export markets and creating a database thereof 1.
+1. Examining potential export markets and creating a database thereof
 
-- Completing the export infrastructure consisting of cold storage, cargo shipping, and port services 2.
+2. Completing the export infrastructure consisting of cold storage, cargo shipping, and port services
 
-- Focusing  on  quality,  packaging,  and  marketing,  as  well  as  encouraging  the  establishment  of  private  marketing 3. companies
+3. Focusing on quality, packaging, and marketing, as well as encouraging the establishment of private marketing companies
 
-- Orchestrating extensive marketing campaigns in regional and international markets through exhibits, business meetings, 4. as well as in Iraqi embassies and business attachés abroad
+4. Orchestrating extensive marketing campaigns in regional and international markets through exhibits, business meetings, as well as in Iraqi embassies and business attachés abroad
 
-- Developing business partnerships with the various economic blocs to enhance trade and access to those markets 5.
+5. Developing business partnerships with the various economic blocs to enhance trade and access to those markets
 
 ##### Objective: Strengthening the Private Sector's Role in Regional Development
 
 ###### Means of Achieving the Objective
 
-- Distributing roles between the state and province on the one hand, and the private sector on the other hand 1.
+1. Distributing roles between the state and province on the one hand, and the private sector on the other hand
 
-- Promoting decentralization in the management of development facilities, and involving the private sector in local and 2. regional plan and program preparation
+2. Promoting decentralization in the management of development facilities, and involving the private sector in local and regional plan and program preparation
 
-- Activating the private sector's role in developing slow-growing provinces to generate more effective growth using incentives 3. and inducements
+3. Activating the private sector's role in developing slow-growing provinces to generate more effective growth using incentives and inducements
 
-- Encouraging the private sector to participate in province development plans, particularly those stated in the plan, as well 4. as good investment opportunities such as those indicated in the plan.
+4. Encouraging the private sector to participate in province development plans, particularly those stated in the plan, as well as good investment opportunities such as those indicated in the plan.
 
 174 National Development Plan for the Years 2010-2014
 
@@ -8636,7 +8908,7 @@ In light of the above, the priorities of the development plan for improving  the
 
 Law  is  a  common  denominator  that  affects  society's  daily life  with  respect  to  preparing  and  implementing  the  plan. Everyone must abide by it. In order for ministries, independent departments, and provinces to be committed to implementing the plan, within the time and costs specified for the projects, legislative  bodies  should  promulgate  laws  pertaining  to  that implementation. In addition, clear and specific instructions and contexts must be provided. This requires:
 
-- Review  of  the  financial  administrative  law;  as  well  as 1. reevaluation of the tasks contained therein and distributed among  the  Ministry  of  Finance  and  Planning  and  the
+1. Review of the financial administrative law; as well as reevaluation of the tasks contained therein and distributed among the Ministry of Finance and Planning and the
 
 178 National Development Plan for the Years 2010-2014
 
@@ -8648,31 +8920,31 @@ Law  is  a  common  denominator  that  affects  society's  daily life  with  res
 
 beneficiary  ministries.  This  will  increase  implementation efficiency and is consistent with the ministries' specialties.
 
-- Identification and separation of the authorities and 2. procedures required of provinces and the country's ministries. This will  allow  them  to  be  accurate  and clear  with  respect  to  determining  the  responsibility  for implementation. This will also remove any duplication and conflict that may occur.
+2. Identification and separation of the authorities and procedures required of provinces and the country's ministries. This will allow them to be accurate and clear with respect to determining the responsibility for implementation. This will also remove any duplication and conflict that may occur.
 
-- Distribution  of  authorities  among  leading  entities  and 3. decision  makers  in  the  ministries  and  provinces,  as opposed  to  limiting  them  to  ministers,  deputies,  and governors.
+3. Distribution of authorities among leading entities and decision makers in the ministries and provinces, as opposed to limiting them to ministers, deputies, and governors.
 
-- Taking  the  necessary  steps  in  earnest  to  create  an 4. investment climate for the local and foreign private sector, and reviewing all the laws and regulations that hinder such investment,  without  affecting  the  government's  role  in programming and monitoring the gradual transition to a market economy, competition, and freedom of prices.
+4. Taking the necessary steps in earnest to create an investment climate for the local and foreign private sector, and reviewing all the laws and regulations that hinder such investment, without affecting the government's role in programming and monitoring the gradual transition to a market economy, competition, and freedom of prices.
 
-- Studying the issue of decentralized disbursements, using 5. treasuries  in  the  provinces  that  are  supplied  with  staff trained in this task.
+5. Studying the issue of decentralized disbursements, using treasuries in the provinces that are supplied with staff trained in this task.
 
-- Reviewing procurement and processing procedures; 6. rewriting them to help speed up implementation; identifying  the  points  of  control  based  on  the  cycles  of these procedures; and removing any duplication.
+6. Reviewing procurement and processing procedures; rewriting them to help speed up implementation; identifying the points of control based on the cycles of these procedures; and removing any duplication.
 
-- Taking steps to craft a prudent fiscal policy that creates 7. complete balance between resources and uses of them; achieving the required level of development in accordance with this plan; and working to increase financial resources.
+7. Taking steps to craft a prudent fiscal policy that creates complete balance between resources and uses of them; achieving the required level of development in accordance with this plan; and working to increase financial resources.
 
-- Crafting  a  prudent  monetary  policy  that  balances  the 8. functions of this policy in addressing the issues of inflation, interest  rates,  and  development  plan  needs  in  terms  of credit to implement the projects.
+8. Crafting a prudent monetary policy that balances the functions of this policy in addressing the issues of inflation, interest rates, and development plan needs in terms of credit to implement the projects.
 
 #### 12.4.2 Building Partnerships
 
 The plan will attempt to have all society members and institutions participate  in  the  development  process.  The  most  important participants in this domain are likely to be the following:
 
-- Women: The plan seeks active participation by women in 1. the areas of development plan formulation and decision making.
+1. Women: The plan seeks active participation by women in the areas of development plan formulation and decision making.
 
-- Youth: Giving youth leadership positions in the country and 2. in  society so they can express their views. This requires laws and regulations.
+2. Youth: Giving youth leadership positions in the country and in society so they can express their views. This requires laws and regulations.
 
-- Civil society organizations: First, they must be organized 3. and  existing  ones  reconsidered.  Second,  their  identity must be verified (do they really exist, or are they fictional?). Thereafter, they must be provided with the opportunity to effectively participate in planning, monitoring, and followup activities.
+3. Civil society organizations: First, they must be organized and existing ones reconsidered. Second, their identity must be verified (do they really exist, or are they fictional?). Thereafter, they must be provided with the opportunity to effectively participate in planning, monitoring, and follow-up activities.
 
-- Local  authorities:  The  role  of  local  authorities  (province 4. councils) must be activated along with that of civil society organizations to ensure participation by all parties involved
+4. Local authorities: The role of local authorities (province councils) must be activated along with that of civil society organizations to ensure participation by all parties involved
 
 in the development process via freedom of expression and active participation.
 
@@ -8692,15 +8964,15 @@ In all societies, there are many and varied views and wishes, and they may be co
 
 The goals of the National Development Plan include improving the  quality  of  life  for  all  segments  of  society  and  thus,  there must be equitable opportunities for them to participate in the development  process.  Vulnerable  groups  should  be  given special priority. Doing so requires:
 
-- Empowering  civil  society  organizations  to  express  their 1. opinions and participate in selecting and implementing the projects that would improve citizens' quality of life
+1. Empowering civil society organizations to express their opinions and participate in selecting and implementing the projects that would improve citizens' quality of life
 
-- Instituting laws that emphasize collective views, 2. inclusiveness in decision making, and inclusiveness with respect to deriving benefiting from said decisions
+2. Instituting laws that emphasize collective views, inclusiveness in decision making, and inclusiveness with respect to deriving benefiting from said decisions
 
 #### 12.4.7 Effectiveness and Efficiency
 
 The plan's effectiveness will be manifest in results that serve the general community at the least social cost, both tangible and  intangible.  Its  efficiency  means  sustainable  resources and  preserving  the  benefits  of  future  generations  of  natural and  environmental  resources.  In  this  regard,  there  should be  elements  of  sustainability  in  choosing  plan  projects.  For example,  there  must  be  a  trade-off  between  the  type  of technology and the community's or region's needs (the balance between the intensity of using work and the intensity of using capital). This requires:
 
-- Improving  and  building  institutional  capabilities,  which 1. requires  the  presence  of  efficient  elements,  identifying powers and responsibilities, and ensuring participation of all responsible parties in the decision-making process
+1. Improving and building institutional capabilities, which requires the presence of efficient elements, identifying powers and responsibilities, and ensuring participation of all responsible parties in the decision-making process
 
 National Development Plan for the Years 2010-2014 179
 
@@ -8712,29 +8984,29 @@ National Development Plan for the Years 2010-2014 179
 
 Good Governance
 
-- Paying  attention  to  human  development  as  one  of  the 2. pillars  in  the  economic  development  process,  requiring programs for the advancement of education, training and health, as well as for the provision of other social services
+2. Paying attention to human development as one of the pillars in the economic development process, requiring programs for the advancement of education, training and health, as well as for the provision of other social services
 
-- Organizing the executive administrative structures within 3. the provinces to increase their efficiency in implementing their tasks
+3. Organizing the executive administrative structures within the provinces to increase their efficiency in implementing their tasks
 
-- Developing the capabilities required to prepare technical 4. and  economical  feasibility  studies,  and  evaluating  the environmental impacts on the project and regional levels
+4. Developing the capabilities required to prepare technical and economical feasibility studies, and evaluating the environmental impacts on the project and regional levels
 
 #### 12.4.8 Accountability
 
 Accountability  is  an  important  aspect  of  good  governance. In  the  case of joint stock companies for example, they must disclose their  budgets or report financial performance to the company's general assembly. This practice should be followed by  all  segments  of  society  as  well  as  plan  implementation partners,  including  the  government  and  private  agencies. Accountability should be supported by the following:
 
-- A package of regulations framing the principle of 1. accountability and acting as a reference for all development partners
+1. A package of regulations framing the principle of accountability and acting as a reference for all development partners
 
-- Financial  records  and statements that are prepared and 2. audited  in  accordance  with  the  principle  of  significant transparency and certainty
+2. Financial records and statements that are prepared and audited in accordance with the principle of significant transparency and certainty
 
-- Commitment  by  the  ministries  and  other  agencies  to 3. prepare  and  submit  comprehensive  feasibility  studies about projects to be implemented
+3. Commitment by the ministries and other agencies to prepare and submit comprehensive feasibility studies about projects to be implemented
 
-- Working to approve the annual budget prior to 4. commencement of the fiscal year so executive agencies can oversee implementation at an early stage of the fiscal year
+4. Working to approve the annual budget prior to commencement of the fiscal year so executive agencies can oversee implementation at an early stage of the fiscal year
 
-- Reviewing  the  financial  procedures  related  to  making 5. disbursements and receiving payments at specific times, and in accordance with the priorities of the implementation process
+5. Reviewing the financial procedures related to making disbursements and receiving payments at specific times, and in accordance with the priorities of the implementation process
 
-- Preparing  plans  to  combat  both  types  of  corruption 6. (administrative and financial) at institutions. This requires development  of  laws  and  regulations,  as  well  as  their implementation in full.
+6. Preparing plans to combat both types of corruption (administrative and financial) at institutions. This requires development of laws and regulations, as well as their implementation in full.
 
-- Reviewing  the  procurement  and  processing  procedures  and 7. rewriting them in a form to help speed up implementation; in addition, identifying control authorities at each cycle of the procedure and eliminating any duplication.
+7. Reviewing the procurement and processing procedures and rewriting them in a form to help speed up implementation; in addition, identifying control authorities at each cycle of the procedure and eliminating any duplication.
 
 180 National Development Plan for the Years 2010-2014
 
@@ -8772,39 +9044,39 @@ With  regard  to  office  monitoring,  there  is  a  need  to  issue monthly  fo
 
 At this time, monitoring capability is below the required level. It must be strengthened by doing the following:
 
-- Increasing the sample of projects monitored so it is no less 1. than 10 percent of the total annual projects
+1. Increasing the sample of projects monitored so it is no less than 10 percent of the total annual projects
 
-- Ensuring these projects are representative of all financial 2. sectors  and  activities  and  are  distributed  throughout  all provinces
+2. Ensuring these projects are representative of all financial sectors and activities and are distributed throughout all provinces
 
-- During  the  monitoring  process,  focusing  on  projects 3. with strategic and vital importance, those with significant development implications, and those that add  new technologies. This should  be  done  both  during  the implementation and operating phases.
+3. During the monitoring process, focusing on projects with strategic and vital importance, those with significant development implications, and those that add new technologies. This should be done both during the implementation and operating phases.
 
-- The monitoring process should encompass all legal and 4. contractual aspects of the projects, disbursement rates, material implementation  rates, implementation  quality, and  degree  of  compliance  with  applicable  laws  and instructions.
+4. The monitoring process should encompass all legal and contractual aspects of the projects, disbursement rates, material implementation rates, implementation quality, and degree of compliance with applicable laws and instructions.
 
-- Enhancing  participation by planning monitoring units 5. within the provinces particularly in the case of projects of a local nature
+5. Enhancing participation by planning monitoring units within the provinces particularly in the case of projects of a local nature
 
-- Revamping the Central Monitoring Directorate within the 6. MoP so it  can  carry  out  the  office  and  field  monitoring procedures,  and  supporting  specialized  staff in their monitoring duties throughout the ministry and its planning units
+6. Revamping the Central Monitoring Directorate within the MoP so it can carry out the office and field monitoring procedures, and supporting specialized staff in their monitoring duties throughout the ministry and its planning units
 
-- Completing automation of monitoring systems throughout 7. the MoP,  as  well  as  other  ministries, non-ministerial agencies, and provinces, and connecting those systems to a single intranet network with access features for each entity based on its functions and area of specialization, to render office monitoring of projects fast and flexible
+7. Completing automation of monitoring systems throughout the MoP, as well as other ministries, non-ministerial agencies, and provinces, and connecting those systems to a single intranet network with access features for each entity based on its functions and area of specialization, to render office monitoring of projects fast and flexible
 
-- Holding quarterly and annual meetings for planning and 8. monitoring  supervisors,  to  include  all  ministries,  nonministerial  agencies,  and  provinces  and  aim  to  resolve problems and difficulties in project implementation. They would  also  be  used  to  propose  amendments  to  the systems  and  instructions associated with monitoring implementation of the investment budget projects.
+8. Holding quarterly and annual meetings for planning and monitoring supervisors, to include all ministries, non-ministerial agencies, and provinces and aim to resolve problems and difficulties in project implementation. They would also be used to propose amendments to the systems and instructions associated with monitoring implementation of the investment budget projects.
 
-- Preparing monthly, semi-annual and annual reports 9. detailing the results ascertained while monitoring implementation of plan projects. These reports would be submitted to the secretariat of the Council of Ministers, the Economic Commission, and the House of Representatives to apprise them of the progress made on plan projects and provide  them  with  guidance  through  recommendations and proposals.
+9. Preparing monthly, semi-annual and annual reports detailing the results ascertained while monitoring implementation of plan projects. These reports would be submitted to the secretariat of the Council of Ministers, the Economic Commission, and the House of Representatives to apprise them of the progress made on plan projects and provide them with guidance through recommendations and proposals.
 
-- Reevaluating the allocation priorities and levels for projects listed in the five-year plan's project schedule and slated for implementation during the following year. This reevaluation would  be  conducted  in  light  of  implementation  results attained during the previous year; changes in the financial situation; the possibility of adding or deleting new projects per  the  updated  financial  situation;  and  the  realities  of the  implementation  capabilities  available  to  the  different agencies.
+10. Reevaluating the allocation priorities and levels for projects listed in the five-year plan's project schedule and slated for implementation during the following year. This reevaluation would be conducted in light of implementation results attained during the previous year; changes in the financial situation; the possibility of adding or deleting new projects per the updated financial situation; and the realities of the implementation capabilities available to the different agencies.
 
-- Continuing to reevaluate and modify the instructions and authorities associated with annual implementation of the investment  budget.  Further,  gradually  conferring  more authority to the relevant ministries and provinces.
+11. Continuing to reevaluate and modify the instructions and authorities associated with annual implementation of the investment budget. Further, gradually conferring more authority to the relevant ministries and provinces.
 
 #### 12.5.2 Evaluating Achievement of Plan Objectives
 
 Annual monitoring of implementation of the projects set forth in the plan would be performed based on the rate of financial and material disbursements. The quality of implementation would also  be  verified  to  ascertain  whether  or  not  it  is  sufficient  to confirm achievement of the plan objectives. Accordingly, it is necessary to:
 
-- Develop  an  integrated,  automated  system  to  monitor 1. and  assess  the  extent  to  which  objectives  are  being fulfilled  in  all  economic,  social,  urban,  environmental, and administrative fields.  This  system  would  depend on specific,  accurate,  and  measurable  indicators  that  are internationally approved.
+1. Develop an integrated, automated system to monitor and assess the extent to which objectives are being fulfilled in all economic, social, urban, environmental, and administrative fields. This system would depend on specific, accurate, and measurable indicators that are internationally approved.
 
-- Link the system via an intranet network to ministries, non2. ministerial agencies, and provinces to ensure ease of use and operation. These entities would be able to enter the system and operate it, each within the scope of its own responsibilities and powers.
+2. Link the system via an intranet network to ministries, non-ministerial agencies, and provinces to ensure ease of use and operation. These entities would be able to enter the system and operate it, each within the scope of its own responsibilities and powers.
 
-- Establish  a  specialized  division  to  monitor  achievement 3. of  five-year  plan  objectives  within  the  Public  Investment Department at the MoP. This division would be responsible for managing, operating, and modernizing the proposed system.
+3. Establish a specialized division to monitor achievement of five-year plan objectives within the Public Investment Department at the MoP. This division would be responsible for managing, operating, and modernizing the proposed system.
 
-- Hold an annual conference sponsored by MoP to present 4. and  evaluate  the  extent  to  which  plan  objectives  have been  achieved.  The  MoP  would  provide  background documents  for  the  conference,  indicating  the  extent  of
+4. Hold an annual conference sponsored by MoP to present and evaluate the extent to which plan objectives have been achieved. The MoP would provide background documents for the conference, indicating the extent of
 
 184 National Development Plan for the Years 2010-2014
 
@@ -8814,15 +9086,15 @@ Annual monitoring of implementation of the projects set forth in the plan would 
 
 achievement. It would also detail any deviations from the objectives  and  proposals  to  remedy  them.  In  addition, ministries, non-ministerial agencies, and provinces would present reports on progress in achieving plan objectives within  their  sectors,  using  the  indicators  included  in  the proposed system.
 
-- Adopt the results of the annual conference, which would 5. be attended by representatives from the higher authorities, the  House  of  Representatives,  and  the  media,  as  well as  civil  society  organizations  and  academicians.  These results would be adopted as a principle document in the review process and would be used to update plan goals and means of achieving them. It would be subsequently used as a reference.
+5. Adopt the results of the annual conference, which would be attended by representatives from the higher authorities, the House of Representatives, and the media, as well as civil society organizations and academicians. These results would be adopted as a principle document in the review process and would be used to update plan goals and means of achieving them. It would be subsequently used as a reference.
 
-- Launch  a  major  information  campaign  to  mobilize  and 6. define the plan, its objectives, and the means of achieving these  objectives.  The  campaign  would  also  define  the roles required by all partners, including public and private sectors,  academicians,  civil  society,  the  general  public, international partners, and donors.
+6. Launch a major information campaign to mobilize and define the plan, its objectives, and the means of achieving these objectives. The campaign would also define the roles required by all partners, including public and private sectors, academicians, civil society, the general public, international partners, and donors.
 
-- About  one  half  of  the  investments  required  to  achieve 7. the  objectives  is  expected  to  come  from  the  local  and foreign  private  sector.  Thus,  the  partnership  between the public and private sectors and the bonds governing this  partnership  are  very  necessary  to  achieving  plan objectives.  The  country  should  ensure  the  appropriate investment climate, the basic fundamental structures that encourage local and foreign investors to participate in the fields and activities set by the plan.
+7. About one half of the investments required to achieve the objectives is expected to come from the local and foreign private sector. Thus, the partnership between the public and private sectors and the bonds governing this partnership are very necessary to achieving plan objectives. The country should ensure the appropriate investment climate, the basic fundamental structures that encourage local and foreign investors to participate in the fields and activities set by the plan.
 
-- To  the  extent  there  are  increases  in  state  budgets,  or 8. savings  achieved  there,  during  plan  years,  priority  must be given to the plan's investment projects. This would help achieve  plan  objectives;  compensate  for  any  variations in  the  anticipated  participation  by  domestic  and  foreign investments; and strengthen the coordination and cooperation between the Ministry of Finance and the MoP in this area.
+8. To the extent there are increases in state budgets, or savings achieved there, during plan years, priority must be given to the plan's investment projects. This would help achieve plan objectives; compensate for any variations in the anticipated participation by domestic and foreign investments; and strengthen the coordination and cooperation between the Ministry of Finance and the MoP in this area.
 
-- In  2012,  review  and  revise  the  plan,  its  priorities,  its 9. objectives,  and  the  policies  to  achieve  these  objectives, as  needed  based  on  changes  in  the  reality  of  the  Iraqi economy,  the  available  financial  and  human  resources, and  the  extent  to  which  objectives  were  accomplished during the first two years of plan implementation.
+9. In 2012, review and revise the plan, its priorities, its objectives, and the policies to achieve these objectives, as needed based on changes in the reality of the Iraqi economy, the available financial and human resources, and the extent to which objectives were accomplished during the first two years of plan implementation.
 
 National Development Plan for the Years 2010-2014 185
 
@@ -8830,6 +9102,6 @@ National Development Plan for the Years 2010-2014 185
 
 [[START OF PAGE 186]]
 
-(this page came through the extractor with no text)
+The production of this plan was supported by Tatweer
 
 [[END OF PAGE 186]]
