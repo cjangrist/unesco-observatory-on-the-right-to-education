@@ -1,5 +1,13 @@
 [[START OF PAGE 1]]
 
+Islamic Republic of Afghanistan
+Ministry of Education
+
+NATIONAL EDUCATION
+STRATEGIC PLAN
+
+2017 - 2021
+
 a
 
 [[END OF PAGE 1]]
@@ -34,9 +42,10 @@ c
 
 [[START OF PAGE 4]]
 
-d
+Education in Afghanistan
+MASHAL KHAN TAKKAR, NOVEMBER, 2015
 
-Education in Afghanistan MASHAL KHAN TAKKAR, NOVEMBER, 2015
+d
 
 [[END OF PAGE 4]]
 
@@ -44,19 +53,85 @@ Education in Afghanistan MASHAL KHAN TAKKAR, NOVEMBER, 2015
 
 # Table of Contents
 
-stakeholders
-
-2
-
-8
-
-8
+1. Foreword by H.E. Minister of Education k
+2. Executive Summary l
+Good achievements but need for more 1
+Cooperating Ministries 2
+Development Partners 2
+Sector goals 2
+Policy objectives and outcomes 2
+Strategies and Strategic Framework 3
+Quality and Relevance 3
+Equitable Access 6
+Efficient and Transparent Management 6
+Implementation 7
+Risks 8
+Monitoring 8
+Cost and Finance of the Plan 8
+Projections and funding gap 10
+3. Introduction: A new focus on opportunity, productivity, efficiency, and transparency 13
+3.1 Background 13
+3.2 Context of NESP III preparation 13
+3.3 Purpose of NESP III 14
+3.4 Methodology of NESP III Preparation 14
+4. Overview of the Sector: Good achievement but need for more 16
+4.1 The social, humanitarian and demographic contexts: Population, Poverty, Nutrition, Disability and Displacement 17
+4.2 The Linguistic and Religious Context 18
+4.3 The Macroeconomic and Public Finance contexts 19
+4.4 Education 19
+4.4.1 Access 19
+4.4.2 Quality and relevance 21
+4.4.3 Management 23
+4.5 The Constitution, main education sector policies, and international commitments 24
+4.6 Governance of the sector 25
+4.7 Cooperating Ministries 27
+4.8 Development Partners 28
+5. Strategic Framework 31
+5.1 Sector goals 31
+5.2 Policy objectives and outcomes 32
+5.3 Strategies 34
+5.3.1 Quality and relevance 35
+5.3.1.1 Reform of the written curriculum for various types of education and at all levels 36
+5.3.1.2 Implement the new curriculum 38
+5.3.1.3 Ensure teachers and educators are better qualified, certified, and employed according to national standards and regulations 39
+5.3.1.4 Develop leadership skills so principals are able to lead the pedagogical, organizational, educational and environmental development of schools with participation of stakeholders 40
 
 e
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+5.3.1.5 Ensure the school environment is inclusive, safe and conducive to learning and positive social relations 40
+5.3.1.6 Improve the support to teachers and principals and their accountability 41
+5.3.1.7 Develop and implement student learning assessment systems 42
+5.3.2 Equitable Access 43
+5.3.3 Efficient and Transparent Management 53
+5.4 Creative ways to overcome challenges 56
+6. Implementation arrangements 61
+6.1 Annual Operational Plans and budgets 61
+6.2 MoE Institutional Reform 61
+6.3 Capacity Development 62
+6.4 Responsibilities delegated to decentralised levels of MoE 62
+6.5 Synergy with other Ministries 63
+6.6 Role of Civil Society and NGOs 63
+6.7 Role of the private sector 63
+6.8 Role of Development Partners 64
+6.9 Role of Parents and Community 64
+6.10 Risks and Risk Mitigation 65
+6.10.1 Risk Matrix 66
+6.10.2 Sector Monitoring 71
+6.10.3 Monitoring Process 71
+6.10.4 Reporting 72
+6.10.5 Monitoring of Learning Outcomes 72
+6.10.6 Monitoring Teacher Performance 73
+6.10.7 Sector Monitoring Matrix 73
+7. Resources needed: How to make means meet the ends 82
+7.1 Cost and finance of the Plan 83
+7.2 Development Budget 84
+7.3 Operating Budget 85
+7.4 Financing 86
+7.5 Simulation modelling of NESP III 87
 
 f
 
@@ -282,7 +357,8 @@ NESP | National Education Strategic Plan
 NESP II | National Education Strategic Plan II (1389-1393/2014)
 NESP III | National Education Strategic Plan III (1396-1400/2017-2021)
 NFEMIS | Non Formal Education Management Information System
-NGO NPP | Non-Governmental Organisation National Priority Programme
+NGO | Non-Governmental Organisation
+NPP | National Priority Programme
 
 h
 
@@ -352,13 +428,17 @@ At  the  heart  of  NESP  III  is  the  careful  monitoring  of  results.  The  
 
 The  Ministry  of  Education  will  use  NESP  III  to  evolve  into  a  student  and  teacher-centred organisation, facilitating implementation and monitoring the results of this most important national contribution to Afghanistan's development.
 
-Assadullah Hanif Balkhi Minister of Education Afghan boys call out the letter their teacher points to during class Sgt. Mark Fayloga, forwallpaper.com, 2010
+Assadullah Hanif Balkhi
+Minister of Education
 
 k
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
+
+Afghan boys call out the letter their teacher points to during class
+Sgt. Mark Fayloga, forwallpaper.com, 2010
 
 l
 
@@ -376,11 +456,9 @@ However, there is still a huge demand for education. The priority of the new gov
 
 The following table summarises the current position with key quality targets for NESP III and the  achievement  of  internationally  agreed  Sustainable  Development  Goals  (SDG)  by 1409/2030.
 
-400       100
-
 A) ENROLLMENTS, CLASSES & TEACHERS | 1394 | 1396 | 1400 | 1409
 --- | --- | --- | --- | ---
-(2015) | (2017) | (2021) | (2030)
+ | (2015) | (2017) | (2021) | (2030)
 Total enrolment (all programs, in 000) | 9,200 | 9,716 | 11,400 | 13,600
 Primary GER | 111.5% | 114.1% | 118.9% | 112.0%
 Gender parity index for primary GER | 0.67 | 0.69 | 0.77 | 0.96
@@ -428,13 +506,15 @@ The Theory of Change (ToC) that guides NESP III is summarised in the diagram on 
 
 Quality and Relevance: Learners at all levels acquire the knowledge, skills, attitudes, and values needed to be productive, healthy, and responsible citizens prepared to contribute to the  welfare  of  society  and  equipped  for  viable  employment  in  the  national  and international labour market
 
-Equitable Access: Increased equitable and inclusive access to relevant, safe, and quality learning opportunities for children, youth, and adults in Afghanistan, especially women and girls Efficient and Transparent Management: Transparent, cost-effective and efficient delivery of equitable quality education services at national and sub-national levels
+Equitable Access: Increased equitable and inclusive access to relevant, safe, and quality learning opportunities for children, youth, and adults in Afghanistan, especially women and girls
 
 2
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+Efficient and Transparent Management: Transparent, cost-effective and efficient delivery of equitable quality education services at national and sub-national levels
 
 ## Strategies and Strategic Framework
 
@@ -454,17 +534,17 @@ NESP III will improve curriculum quality and relevance and develop assessment sy
 
 THEORY OF CHANGE FOR NESP III
 
-COMPONENT
---- | --- | --- | --- | --- | ---
-OVERALL OBJECTIVE | 1. QUALITY AND RELEVANCE Learners at all levels acquire the knowledge, skills, attitudes, and values needed to be productive, healthy, and responsible citizens prepared to contribute to the welfare of society and equipped for viable employment in the national and international market
+COMPONENT | 1. QUALITY AND RELEVANCE
+OVERALL OBJECTIVE | Learners at all levels acquire the knowledge, skills, attitudes, and values needed to be productive, healthy, and responsible citizens prepared to contribute to the welfare of society and equipped for viable employment in the national and international market
 Long-term outcome QR1 | The capacity of the education system to develop and monitor student attainment relevant to individual and social needs is improved
-Intermediate Outcomes | 1.1 Reformed curriculum for education at all levels | 1.2 Teacher training, and student textbooks and materials based on new curriculum are | developed | 1.3 Student learning assessment system developed and implemented
+Intermediate Outcomes | 1.1 Reformed curriculum for education at all levels | 1.2 Teacher training, and student textbooks and materials based on new curriculum are developed | 1.3 Student learning assessment system developed and implemented
 Long-term outcome QR2 | The capacity of schools/learning centers to promote student/learner attainment is improved
-Intermediate Outcome | 2.1 Teachers and educators better qualified, certified, and deployed according to national standards and regulations | 2.2 Principals ensure the school is inclusive, safe and conducive to learning and positive social relations with the participation of | 2.3 Support to teachers and their accountability improved | 2.4 Quality textbooks and materials used in schools and learning centers | 2.5 Schools and learning centers satisfy standards as safe and conducive learning
-COMPONENT 2. EQUITABLE ACCESS
-OVERALL OBJECTIVE | Increased equitable and inclusive access to relevant, safe, and quality learning opportunities for children, youth, and adults in Afghanistan,
-Long-term outcome EA1 | especially women and girls Increased equitable availability of responsive, safe and conducive learning and skills training opportunities
-Intermediate outcome | 1.1 Provincial/district plans for schools/ learning centers/TVET centers drafted based on local needs | 1.2 Establish and support CBE and ALP programs | 1.3 Increased deployment of female teachers in all areas, especially rural | 1.4 TVET training and support meeting private sector need | 1.5 Literacy programs contribute to lower national illiteracy rates
+Intermediate Outcome | 2.1 Teachers and educators better qualified, certified, and deployed according to national standards and regulations | 2.2 Principals ensure the school is inclusive, safe and conducive to learning and positive social relations with the participation of stakeholders | 2.3 Support to teachers and their accountability improved | 2.4 Quality textbooks and materials used in schools and learning centers | 2.5 Schools and learning centers satisfy standards as safe and conducive learning
+
+COMPONENT | 2. EQUITABLE ACCESS
+OVERALL OBJECTIVE | Increased equitable and inclusive access to relevant, safe, and quality learning opportunities for children, youth, and adults in Afghanistan, especially women and girls
+Long-term outcome EA1 | Increased equitable availability of responsive, safe and conducive learning and skills training opportunities
+Intermediate outcome | 1.1 Provincial/district plans for schools/learning centers/TVET centers drafted based on local needs | 1.2 Establish and support CBE and ALP programs | 1.3 Increased deployment of female teachers in all areas, especially rural | 1.4 TVET training and support meeting private sector need | 1.5 Literacy programs contribute to lower national illiteracy rates
 Long-term outcome EA2 | Increased community (and parent) commitment and participation in education including TVET
 Intermediate outcome | 2.1 School/learner center shuras actively engaged in support for education and skills learning
 
@@ -475,14 +555,13 @@ Intermediate outcome | 2.1 School/learner center shuras actively engaged in supp
 [[START OF PAGE 17]]
 
 COMPONENT | 3. EFFICIENT AND TRANSPARENT MANAGEMENT
---- | --- | --- | ---
-OVERALL OVJECTIVE | Transparent, cost-effective and efficient delivery of education services at national and sub-national levels | equitable quality
+OVERALL OVJECTIVE | Transparent, cost-effective and efficient delivery of equitable quality education services at national and sub-national levels
 Log-term outcome ETM1 | Improved institutional framework for education service delivery standards and responsibilities
 Intermediate Outcome | 1.1 Results-based institutional framework and organizational structure with defined core functions and competencies developed
 Long-term outcome ETM2 | Partnership mechanisms established with civil society, the private sector, and development partners
 Intermediate Outcome | 2.1 Systems and procedures to enter formal contract service, outsourcing, and partnership agreements are reformed or established
 Long-term outcome ETM3 | Resources (including human resources) are used effectively an accounted for transparently at all levels and anti-corruption improved within the MoE
-Intermediate outcomes | 3.1 Result-based/norm- based systems of resource allocations for equitable service delivery implemented | 3.2 Competent human resources to effectively plan, manage, and deliver results | 3.3 Transparency, accountability, and anti-corruption systems for resource management adopted
+Intermediate outcomes | 3.1 Result-based/norm-based systems of resource allocations for equitable service delivery implemented | 3.2 Competent human resources to effectively plan, manage, and deliver results | 3.3 Transparency, accountability, and anti-corruption systems for resource management adopted
 Long-term outcome ETP4 | Monitoring and evaluation that support decision-making strengthened
 Intermediate Outcome | 4.1 Effective and integrated monitoring and evaluation system implemented
 
@@ -531,7 +610,7 @@ Community  participation  and  commitment  is  a  key  strategy  and  sustained 
 
 ## Efficient and Transparent Management
 
-NESP III will improve administrative and management support for both better quality and access  to  learning.  Many  strategies  are  cross-cutting  and  directly  or  indirectly  impact programmes at all  levels.  A  review  of  the  functional  organisation  of  MoE  and  associated human  resource  planning  are  the  first  steps  to  be  taken  in  improving  coordination  and efficiency  within  MoE  management.  The  functional  review will define  core  and  non-core operations and clarify the Terms of Reference of MoE institutions. Improved recruitment, training, mentoring and professional development systems for tashkil staff will be introduced. This will target especially decentralised capacity development and will ensure equitable and needs-based staff development in all provinces.
+NESP III will improve administrative and management support for both better quality and access to learning. Many strategies are cross-cutting and directly or indirectly impact programmes at all levels. A review of the functional organisation of MoE and associated
 
 6
 
@@ -539,7 +618,9 @@ NESP III will improve administrative and management support for both better qual
 
 [[START OF PAGE 19]]
 
-Decentralisation  is  a  priority  for  the  education  system.  In  NESP  III  provincial  and  district education departments and schools will have greater input in the planning and control of their budgets. Capacity weaknesses and the level of authority will be addressed and monitored under the Human Resource Development (HRD) strategies with links to the CBR programme, which has already begun. MoE staff recruitment will match the functional restructuring and National  Technical  Assistants  will  be  accountable  for  results  under  NESP  III  and  for  the development of tashkil capacity.
+human resource planning are the first steps to be taken in improving coordination and efficiency within MoE management. The functional review will define core and non-core operations and clarify the Terms of Reference of MoE institutions. Improved recruitment, training, mentoring and professional development systems for tashkil staff will be introduced. This will target especially decentralised capacity development and will ensure equitable and needs-based staff development in all provinces.
+
+Decentralisation is a priority for the education system. In NESP III provincial and district education departments and schools will have greater input in the planning and control of their budgets. Capacity weaknesses and the level of authority will be addressed and monitored under the Human Resource Development (HRD) strategies with links to the CBR programme, which has already begun. MoE staff recruitment will match the functional restructuring and National Technical Assistants will be accountable for results under NESP III and for the development of tashkil capacity.
 
 The MoE plans to bring up-to-date existing agreements with DPs and other partners (e.g. line Ministries) and to review and define partnership agreements between MoE and communities, civil  society,  DPs  and  private  sector  stakeholders.  Integral  to  these  agreements  MoE  will develop minimum delivery packages for resources in schools and learning centres to ensure harmonised and sustainable funding and support.
 
@@ -551,13 +632,15 @@ Monitoring of education performance has significantly improved over the last few
 
 Implementation of NESP III will be undertaken within the existing framework of Operational Plans.    All  Ministry  staff  will  be  oriented,  both  jointly  and  separately  with  implementing partners in other ministries and with NGO/CSO and DPs, towards the new approaches and policy priorities in NESP III. Annual operational plans will focus on annual output targets as set in the Monitoring Matrix. Training workshops and guidelines will ensure that all staff have clearly understood the tasks assigned to them.
 
-A re-division of mandates, tasks and functions forms the basis for re-thinking the roles of groups involved in Afghan education. Following the functional review, a capacity development  programme  will  rapidly  begin  the  process  of  ensuring  staff  are  in  place  to implement NESP III priorities. Decentralised provincial and district education departments as well as the central departments will be responsible for the annual targets, and for organising their  resources towards achieving them. Implementation of the Strategic Plan will involve revised relations with other Ministries as well as with Civil Society, NGOs and the private sector.  Relations  with  development  partners  are  also  set  to  change  under  NESP  III.  The essential role of parents and communities will have greater recognition and support.
+A re-division of mandates, tasks and functions forms the basis for re-thinking the roles of groups involved in Afghan education. Following the functional review, a capacity development programme will rapidly begin the process of ensuring staff are in place to implement NESP III priorities. Decentralised provincial and district education departments as well as the central departments will be responsible for the annual targets, and for organising their resources towards achieving them. Implementation of the Strategic Plan will involve
 
 7
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
+
+revised relations with other Ministries as well as with Civil Society, NGOs and the private sector. Relations with development partners are also set to change under NESP III. The essential role of parents and communities will have greater recognition and support.
 
 ## Risks
 
@@ -589,34 +672,37 @@ Targets for NESP III were calculated on the basis of extensive discussions with 
 
 The  major  cost  items  calculated  for  the  development  budget  include  construction  of education institutions/schools and education quality programmes including the CBE and OOS programmes,  curriculum  reforms  and  teacher  training  activities.  The  cost  of  equipment (including  science  labs,  computers  and  workshop  equipment  for  TVET  schools)  and  the functional reforms, covering capacity development and reformed use of NTA are the next largest indicative items that cannot be covered through the ordinary budget at this stage. The diagrams below present an overview of projected spending on development under NESP III:
 
--
-
-100
-
-200
-
-300
-
-400
-
-500
-
-600
+Main Programme Expenditure (Indicative)
 
 US $ Million
+600
+500
+400
+300
+200
+100
+-
 
-Main Programme Expenditure (Indicative)
+Curriculum
+Textbooks and materials
+Teacher Training
+Principal Training
+Student Assessment
+Academic supervision
+School Construction
+Equipment
+MA training
+Support to Shura
+CBE &OOS
+Function, Reform, Cap Devt, NTA
+M&E
 
 Based on budget figures from the summary below
 
 ALLOCATION TO MAJOR COMPONENTS (INDICATIVE)
 
-Efficient & Transparent
-
-Management
-
+Efficient & Transparent Management
 Equitable Access
-
 Quality & Relevance
 
 9
@@ -666,10 +752,10 @@ MoE recurrent allocation (million Afg) | 30,411 | 31,187 | 30,260 | 30,362 | 33,
 MoE development allocation (million Afg) | 16,505 | 16,178 | 1,400 | 1,112 | 1,303 | 1,469 | 1,665
 MoE Off-Budget grants (% of development expenditure) | 36.1% | 36.6% | 71.4% | 62.2% | 61.4% | 60.8% | 70.00%
 MoE Off-Budget grants (million Afg) | 9,329 | 9,329 | 9,329 | 9,329 | 9,329 | 9,329 | 9,329
-MoE Funding Gap excluding Off-Budget grants (million Afg) | 14,751 | 19,336 | 21,782 | 22,105 | 24,431
-MoE Funding Gap including Off-Budget grants (million Afg) | 5,422 | 10,007 | 12,453 | 12,776 | 15,102
-MoE Funding Gap including Off-Budget grants (% of allocation) | 10.9% | 17.8% | 20.3% | 19.6% | 21.5%
-Funding gap over the plan period (1396-1400) | 18.0%
+MoE Funding Gap excluding Off-Budget grants (million Afg) |  |  | 14,751 | 19,336 | 21,782 | 22,105 | 24,431
+MoE Funding Gap including Off-Budget grants (million Afg) |  |  | 5,422 | 10,007 | 12,453 | 12,776 | 15,102
+MoE Funding Gap including Off-Budget grants (% of allocation) |  |  | 10.9% | 17.8% | 20.3% | 19.6% | 21.5%
+Funding gap over the plan period (1396-1400) |  |  | 18.0% |  |  |  | 
 
 Source: MoE, Department of Planning and Evaluation, 1395
 
@@ -731,7 +817,7 @@ A zero draft NESP-III was prepared by MoE in 2015. The ESA was commissioned to c
 
 A team of consultants was deployed to facilitate and provide technical support to the process and the technical working groups were composed of key staff from MoE, other ministries supporting  education,  DPs  and  NGO/CSOs  working  together  on  the  development  of  the document.
 
-A series of workshops was conducted over a five-month period to present ESA, EJSR findings and recommendations, draft  and discuss the  policy  framework,  outcomes,  strategies  and targets. A simulation model was developed, presenting choices and cost scenarios of what can be managed over the next 5 years. The drafts were shared with the larger groups for review and feedback in between the workshops.
+A series of workshops was conducted over a five-month period to present ESA, EJSR findings and recommendations, draft and discuss the policy framework, outcomes, strategies and targets. A simulation model was developed, presenting choices and cost scenarios of what
 
 > 2 NESP III is a nationally owned plan. Its development was led by Afghan government officials supported by Afghan civil society with international partners. It followed the GPE-IIEP Guidelines for Education Sector Plan Preparation
 
@@ -743,13 +829,19 @@ A series of workshops was conducted over a five-month period to present ESA, EJS
 
 [[START OF PAGE 27]]
 
-The final write-up and costing was done by a smaller team of MoE experts with the support of a consultant. Provincial and district education staff and the private sector were invited to comment on initial statements of priorities and on the final draft at a MoE-led workshop held in July 2016. A template was developed to collect feedback, which was incorporated into the final  draft  of  the  NESP  III.  The  final  NESP  III  draft  was  shared  with  key  stakeholders,  the government leadership and HRDB. A third party review was conducted with the support of GPE HQ <in preparation process>. The recommendations of the review were presented to HRDB and final adjustments made to the document. The final NESP-III was presented by MoE and the DPs to government leadership for approval Afghan girls running to get in line for free school supplies School Supplies for Afghan Children, 2009
+can be managed over the next 5 years. The drafts were shared with the larger groups for review and feedback in between the workshops.
+
+The final write-up and costing was done by a smaller team of MoE experts with the support of a consultant. Provincial and district education staff and the private sector were invited to comment on initial statements of priorities and on the final draft at a MoE-led workshop held in July 2016. A template was developed to collect feedback, which was incorporated into the final draft of the NESP III. The final NESP III draft was shared with key stakeholders, the government leadership and HRDB. A third party review was conducted with the support of GPE HQ <in preparation process>. The recommendations of the review were presented to HRDB and final adjustments made to the document. The final NESP-III was presented by MoE and the DPs to government leadership for approval
 
 15
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+Afghan girls running to get in line for free school supplies
+
+School Supplies for Afghan Children, 2009
 
 16
 
@@ -771,7 +863,7 @@ In  Afghan  culture,  disability  is  perceived  differently  according  to  gen
 
 The issue of population mobility, especially forced displacement (and return) is a major factor in the planning of education service delivery. UNHCR estimates that some 20% of the Afghan population are returned refugees. In addition, as of March 2016, it is estimated that there are 1.2 million internally displaced Afghans with 31 out of 34 provinces hosting newly displaced populations in March 2015.
 
-In February 2014 a National Policy on Internally Displaced Persons (IDP) was launched under the  auspices  of  the  Ministry  of  Refugees  and  Repatriations  (MoRR). The  Policy  sets  out  a comprehensive  framework  of  responsibilities  for  national  authorities  to  address  internal displacement in Afghanistan with a rights-based approach following national and international  standards.  It  highlights  the  rights  of  displaced  persons  to  enjoy  livelihood opportunities, access to documentation, housing, land and property and services in common with other Afghan citizens.
+In February 2014 a National Policy on Internally Displaced Persons (IDP) was launched under the auspices of the Ministry of Refugees and Repatriations (MoRR). The Policy sets out a comprehensive framework of responsibilities for national authorities to address internal
 
 > 4 Current population projections are based on data sets from 1979 when the last census was held. The ESA also made use of UN data, which estimated the population at 32.024 million in 2015.
 
@@ -780,6 +872,8 @@ In February 2014 a National Policy on Internally Displaced Persons (IDP) was lau
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+
+displacement in Afghanistan with a rights-based approach following national and international standards. It highlights the rights of displaced persons to enjoy livelihood opportunities, access to documentation, housing, land and property and services in common with other Afghan citizens.
 
 Of particular relevance to NESP III the IDP Policy (chapter 7.1.8) emphasises the obligation of MoE 'to ensure that primary and secondary education is free and compulsory for all IDP children, girls as well as boys'. Measures to be taken by education officials cover access to school for displaced children even where documentation, such as school records, is missing, support for IDP teachers, expansion of classes, teaching and teaching materials in areas of displacement etc. 5 .
 
@@ -795,7 +889,7 @@ Almost the entire Afghan population is Muslim, with less than 1% being non-Musli
 
 Afghanistan has one of the lowest literacy rates in the world. The male literacy rate (age 15+) is 62% the female rate is 18%, compared to the median value for low-income countries of 70% and 57% respectively.  Only one in five women in Afghanistan is literate and the literacy rate for women in rural areas is three times lower than in urban areas.
 
-> 5 National IDP Policy Chapter 7.1.8, can be found at http://morr.gov.af/Content/files/National%20IDP%20Policy%20%20FINAL%20-%20English(1).pdf
+> 5 National IDP Policy Chapter 7.1.8, can be found at http://morr.gov.af/Content/files/National%20IDP%20Policy%20-%20FINAL%20-%20English(1).pdf
 
 18
 
@@ -813,13 +907,13 @@ The education sector in 1394 (2015) accounted for 14.1% of total government expe
 
 ## 4.4 Education
 
-The ESA focused on General Education from Grades 1 to 12, but included Early Childhood Development (ECD), Literacy, TVET and Higher Education. It also covered the general socioeconomic situation as a context for education development. Afghanistan, in particular, has a very young population with 44% under the age of 15 (according to the CSO 2016 yearbook). Consequently, it has also a large school-age population, with 7.8 million students in Basic Education (age 6 to 15, grades 1 to 9).
+The ESA focused on General Education from Grades 1 to 12, but included Early Childhood Development (ECD), Literacy, TVET and Higher Education. It also covered the general socio-economic situation as a context for education development. Afghanistan, in particular, has a very young population with 44% under the age of 15 (according to the CSO 2016 yearbook). Consequently, it has also a large school-age population, with 7.8 million students in Basic Education (age 6 to 15, grades 1 to 9).
 
 As indicated, education reform and rehabilitation has made remarkable progress over the last 15 years. However, it needs to be emphasised that a considerable gap remains in terms of access and quality improvement between provinces. Data collection, reporting and analysis require further capacity development in order to be able to paint a clear picture of differential performance across the country. As an example, the percentage of female students reported below is approximately 39%. However, the range is as low as 14% in some provinces and as high as 47% in others 6 .  The availability of female teachers, a key intervention strategy for NESP III is, on average, 33% nationwide. However, the range is from 1.8% to 74% emphasising clearly  the  need  for  greater  attention  to  sub-national,  local  priorities,  and  also  to  adapt strategies to local needs.
 
 ### 4.4.1 Access
 
-School enrolment rose from below 1 million in 2001 to 9.2 million in 2015. Gross enrolment (mainly overage) is high for males at all grade levels, which suggests boys are enrolling late. Challenges for MoE are to reduce dropout and repetition, and to ensure graduates leave school with the skills to make them employable. Average School Life Expectancy 7  (SLE) is 9.6 years, but varies from 12.4 for urban boys to 4.4 years for rural girls. MoE data used for the education planning simulation model currently indicate a total Net Enrolment Ratio (NER) of 59.6% (M:72.0%, F:46.1%). The following estimates are for 2016 Gross Enrolment Ratios (GER) by grade (Primary and Secondary General Education) and gender:
+School enrolment rose from below 1 million in 2001 to 9.2 million in 2015. Gross enrolment (mainly overage) is high for males at all grade levels, which suggests boys are enrolling late. Challenges for MoE are to reduce dropout and repetition, and to ensure graduates leave
 
 > 6 Source: MoE data, 2015
 
@@ -828,6 +922,8 @@ School enrolment rose from below 1 million in 2001 to 9.2 million in 2015. Gross
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+school with the skills to make them employable. Average School Life Expectancy 7 (SLE) is 9.6 years, but varies from 12.4 for urban boys to 4.4 years for rural girls. MoE data used for the education planning simulation model currently indicate a total Net Enrolment Ratio (NER) of 59.6% (M:72.0%, F:46.1%). The following estimates are for 2016 Gross Enrolment Ratios (GER) by grade (Primary and Secondary General Education) and gender:
 
 Grades | Male Students | Female Students
 --- | --- | ---
@@ -842,7 +938,7 @@ A major challenge is to increase the low overall primary attendance (only 55% ch
 
 All these points underline the importance of strategies in NESP III to identify OOS students and those at risk of dropping out and take effective action to ensure they attend and complete education 9 . One strategy to be supported and monitored within NESP III is the development of  policy  and  curriculum  for  access  to  one  year  of  community-supported  pre-school education 10 . This may be linked to Community Based Education (CBE), an approach that has addressed key challenges in promoting access, retention and improved learning for primary school children in remote communities. CBE is a MoE General Education (GE) strategy for extending  public  schooling  to  remote,  rural  areas.  The  provision  of  education  near  to children's  homes,  through  CBE  is  critical  for  improving  equitable  access,  retention  and learning achievement in remote villages. Strategies needs to be trialled within NESP III to ensure a sustainable CBE supply at village level.
 
-Secondary school attendance is 32% (girls 21%, boys 43%), but only half this rate in rural areas. 11 At  secondary  level  the  gender  gap  widens  considerably.  The  reasons  for  nonattendance are economic, cultural, security and health with economic considerations, mainly opportunity costs, and distance between school and home figuring importantly as the main reason for no longer attending school. The insufficient number of female teachers 12 (for girls) and poor quality and relevance are also cited as major factors. There is a steady increase in the number of students completing secondary education, with growing demand for higher education. MoE should implement strategies through NESP III to increase the opportunities for high school graduates to find productive employment.
+Secondary school attendance is 32% (girls 21%, boys 43%), but only half this rate in rural
 
 > 7  School life Expectancy is the average number of schooling years in which children may hope to complete (repeated years not included) given prevailing conditions.
 
@@ -858,87 +954,26 @@ Secondary school attendance is 32% (girls 21%, boys 43%), but only half this rat
 
 [[START OF PAGE 33]]
 
-From EJSR Report on Gen.Ed. MoE 2016. Students by Grade (Female on left: Male on right)
-
-657,095
-
-687,567
-
-643,742
-
-630,352
-
-547,710
-
-475,964
-
-421,055
-
-344,977
-
-291,623
-
-237,470
-
-198,582
-
-168,826
-
-(436,566)
-
-(472,722)
-
-(443,932)
-
-(431,855)
-
-(360,017)
-
-(299,665)
-
-(247,431)
-
-(195,187)
-
-(159,452)
-
-(121,965)
-
-(104,414)
-
-(89,152)
-
-1
-
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-Grades
+areas. 11 At secondary level the gender gap widens considerably. The reasons for non-attendance are economic, cultural, security and health with economic considerations, mainly opportunity costs, and distance between school and home figuring importantly as the main reason for no longer attending school. The insufficient number of female teachers 12 (for girls) and poor quality and relevance are also cited as major factors. There is a steady increase in the number of students completing secondary education, with growing demand for higher education. MoE should implement strategies through NESP III to increase the opportunities for high school graduates to find productive employment.
 
 Male and Female Students' Pyramid in 1394/ 2015
 
-Female
+Grades | Female | Male
+--- | --- | ---
+1 | (436,566) | 657,095
+2 | (472,722) | 687,567
+3 | (443,932) | 643,742
+4 | (431,855) | 630,352
+5 | (360,017) | 547,710
+6 | (299,665) | 475,964
+7 | (247,431) | 421,055
+8 | (195,187) | 344,977
+9 | (159,452) | 291,623
+10 | (121,965) | 237,470
+11 | (104,414) | 198,582
+12 | (89,152) | 168,826
 
-Male
+From EJSR Report on Gen.Ed. MoE 2016. Students by Grade (Female on left: Male on right)
 
 In 2015, approximately 49% of schools lacked adequate buildings 13 ; 62% lacked surrounding walls, 31% lacked drinking water, 33% lacked functional sanitation facilities and 76% lacked electricity.  Improved infrastructure will be a priority in NESP III to provide better learning facilities and improve pupil/class ratios.
 
@@ -946,7 +981,7 @@ Demand for education remains high and most students who currently begin primary 
 
 ### 4.4.2 Quality and relevance
 
-There is acceptance that education quality and relevance have not received as much attention to date as access issues. In particular there is an urgent need to address dangerously widening differentials  between  education  quality  and  relevance  at  central  and  rural  levels.  Factors include: school construction and  facilities; curriculum reform  based  on  results  and market/social  demand;  teacher  preparation  and  qualifications,  appropriate  and  available textbooks and learning materials and assessment. These are often seriously weaker at subnational levels.
+There is acceptance that education quality and relevance have not received as much attention to date as access issues. In particular there is an urgent need to address dangerously widening differentials between education quality and relevance at central and rural levels. Factors
 
 > 11 AMICS 2012. In comparison, primary NAR according to comparable national MICS varies between 49% in Sind Pakistan (2014), 57.9% in Punjab (2015), 73.2% in Bangladesh (2013/14) and 76.3% in Nepal (2014).
 
@@ -960,31 +995,25 @@ There is acceptance that education quality and relevance have not received as mu
 
 [[START OF PAGE 34]]
 
-Using Multiple Indicator Cluster Survey (MICS) findings in 2013 the ESA points out 14 that of all children  who  enter  grade  1  of  primary  school,  4  out  of  5  (84%)  will  eventually  graduate (Survival rate). Encouragingly, boys and girls, rural and urban children perform comparably on this measure.  On the other hand, the ESA also drew attention to the worryingly low levels of primary school completion. The CSO's ALCS report for 2013/14 gives completion as 58.1% for boys but only 40.3% for girls. Completion (a different measurement from survival to grade 6) is the total number of new entrants to grade 6 (i.e. not repeaters) regardless of their age, expressed as percentage of the total population of 13 year olds, the age children should be in that grade. This is not a measure of correct age graduation, but of coverage and progression. On this measure the serious differences between genders are also shown when comparing urban and rural areas (in 2011 the rates were 42% in urban, 28% in rural) and between regions (Central 45.7%, South 17%). NESP III should monitor these measures to track how strategies of greater relevance and improved quality, as well as local capacity development are reducing these differences.
+include: school construction and facilities; curriculum reform based on results and market/social demand; teacher preparation and qualifications, appropriate and available textbooks and learning materials and assessment. These are often seriously weaker at sub-national levels.
+
+Using Multiple Indicator Cluster Survey (MICS) findings in 2013 the ESA points out 14 that of all children who enter grade 1 of primary school, 4 out of 5 (84%) will eventually graduate (Survival rate). Encouragingly, boys and girls, rural and urban children perform comparably on this measure. On the other hand, the ESA also drew attention to the worryingly low levels of primary school completion. The CSO's ALCS report for 2013/14 gives completion as 58.1% for boys but only 40.3% for girls. Completion (a different measurement from survival to grade 6) is the total number of new entrants to grade 6 (i.e. not repeaters) regardless of their age, expressed as percentage of the total population of 13 year olds, the age children should be in that grade. This is not a measure of correct age graduation, but of coverage and progression. On this measure the serious differences between genders are also shown when comparing urban and rural areas (in 2011 the rates were 42% in urban, 28% in rural) and between regions (Central 45.7%, South 17%). NESP III should monitor these measures to track how strategies of greater relevance and improved quality, as well as local capacity development are reducing these differences.
 
 Improving the quality of teaching must be a priority for NESP III. Currently almost half of teachers have acceptable formal qualifications. MoE needs to improve the skills of all teachers despite salary limitations, by increasing professional support and opportunities for measured professional  growth  through  credentialing.  A  key  strategy  in  NESP  III  to  increase  female teacher numbers in rural  areas  should  be  to  accept  the  'best  available'  candidates,  with highest formal education attainment, and to provide support, mentoring and opportunities to  become  fully  credentialed.  Teacher  attendance  should  be  monitored  and  schools  be accountable for performance.
 
-Lower than 12th
-
-grade 9%
-
-12th Grade
-
-Graduate 43%
-
-14th grade
-
-graduate 38%
-
-Bachelors or
-
-above 10%
-
 Teachers Educational Level in 1394/ 2015
+
+Lower than 12th grade 9%
+
+12th Grade Graduate 43%
+
+14th grade graduate 38%
+
+Bachelors or above 10%
 
 From EJSR Report, MoE 2016
 
-ESA notes the need to improve curriculum quality and relevance and develop assessment systems to ensure learning is focused on results. Learning assessment for grade 6 students was conducted by a foreign university commissioned under EQUIP. Afghanistan does not yet have  standardized  performance  tests  or  national  examinations  at  primary  or  secondary school, which makes assessing learning outcomes a major challenge for parents, students, employers and for the education system. GIZ, UNESCO, USAID studies suggest reform of the curriculum and assessment system for TVET, general education and early grade reading. The new government policy vision calls for the curriculum reform to become relevant, resultbased, applied and the education should prepare the youth for the job market, so they can have employment, earning and able to have a better life. The parents and communities are also demanding more relevant and quality education. This should be a focus of NESP III.
+ESA notes the need to improve curriculum quality and relevance and develop assessment systems to ensure learning is focused on results. Learning assessment for grade 6 students was conducted by a foreign university commissioned under EQUIP. Afghanistan does not yet have standardized performance tests or national examinations at primary or secondary
 
 > 14 ESA p69
 
@@ -994,15 +1023,17 @@ ESA notes the need to improve curriculum quality and relevance and develop asses
 
 [[START OF PAGE 35]]
 
-A further priority should be to increase the percentage of textbooks schools receive and to improve the pedagogical and physical quality of materials. Strategies involving private sector printers  should  be  piloted  with  payment  on  delivery  to  schools.  ICT  based  textbooks  and learning materials should be piloted also.
+school, which makes assessing learning outcomes a major challenge for parents, students, employers and for the education system. GIZ, UNESCO, USAID studies suggest reform of the curriculum and assessment system for TVET, general education and early grade reading. The new government policy vision calls for the curriculum reform to become relevant, result-based, applied and the education should prepare the youth for the job market, so they can have employment, earning and able to have a better life. The parents and communities are also demanding more relevant and quality education. This should be a focus of NESP III.
 
-To improve the labour market skills and capacity, the education sector  should assess and strengthen  linkages  with  industry,  employers  and  SMEs,  to  improve  the  targeting  and competency  of  skilled  graduates  to  meet  market  demands.  This  will  require  review  of approaches and course structures, particularly in the review of performance of the formal TVET system and expansion of carefully targeted support for the informal and formal private sectors. As noted in the ESA (p22) 'So far, almost all attention in the formal TVET sector has been  focused  on  the  supply  side,  while  the  demand  side  has  been  neglected.'  Recent research 15 has shown by far the majority of learners benefiting from TVET instruction are in the private sectors. 77,380 students are currently enrolled in public TVET institutions, (where unit costs are approximately 5 to 8 times higher than those for GE). Estimates are that skills training  being  provided  by  the  informal  private  sector  is  at  least  10  times  (600,000  1,000,000) of the formal sector. Targeted linkages with public sector initiatives (e.g. literacy and numeracy classes after working hours; a relevant accreditation or assessment system, etc.) will be of considerable benefit to individuals and to the national economy.
+A further priority should be to increase the percentage of textbooks schools receive and to improve the pedagogical and physical quality of materials. Strategies involving private sector printers should be piloted with payment on delivery to schools. ICT based textbooks and learning materials should be piloted also.
+
+To improve the labour market skills and capacity, the education sector should assess and strengthen linkages with industry, employers and SMEs, to improve the targeting and competency of skilled graduates to meet market demands. This will require review of approaches and course structures, particularly in the review of performance of the formal TVET system and expansion of carefully targeted support for the informal and formal private sectors. As noted in the ESA (p22) 'So far, almost all attention in the formal TVET sector has been focused on the supply side, while the demand side has been neglected.' Recent research 15 has shown by far the majority of learners benefiting from TVET instruction are in the private sectors. 77,380 students are currently enrolled in public TVET institutions, (where unit costs are approximately 5 to 8 times higher than those for GE). Estimates are that skills training being provided by the informal private sector is at least 10 times (600,000 – 1,000,000) of the formal sector. Targeted linkages with public sector initiatives (e.g. literacy and numeracy classes after working hours; a relevant accreditation or assessment system, etc.) will be of considerable benefit to individuals and to the national economy.
 
 ### 4.4.3 Management
 
-The MoE structure and capacity is not responsive for effective delivery of quality education services. MoE leadership has already shown concerted efforts to address this. Coordination and efficiency in MoE will be improved by a clearer functional mandate of departments and offices with reduced duplication and fragmentation. The Capacity Building for Results (CBR) programme will address the unsustainable dependence on donor-funded technical assistance (TA) which has been coupled at central and provincial levels with inefficient and capacitydraining 'projectisation', duplication of effort and lack of clear agreement on outcomes.
+The MoE structure and capacity is not responsive for effective delivery of quality education services. MoE leadership has already shown concerted efforts to address this. Coordination and efficiency in MoE will be improved by a clearer functional mandate of departments and offices with reduced duplication and fragmentation. The Capacity Building for Results (CBR) programme will address the unsustainable dependence on donor-funded technical assistance (TA) which has been coupled at central and provincial levels with inefficient and capacity-draining 'projectisation', duplication of effort and lack of clear agreement on outcomes.
 
-Decentralisation is a high political priority for the education system. In NESP III provincial and district education departments and schools will have greater input in the planning and control of their budgets. A key focus of the 1394/2015 EJSR report was on improving PED/DED budget management.  Further  institutional  reform  and  capacity  building  of  MoE  is  critical  for sustained delivery of quality services and this will be monitored in NESP III (see Section 6.10 below  on  Sector  Monitoring).  Systematic  strengthening  of  management  and  supervision systems to improve performance will be essential under NESP III arrangements. Development of provincial and district operational plans will gradually be linked within operational plans to strengthening the EMIS and MoHE systems to enable improved monitoring and evaluation, which will provide strategic inputs into planning and budget processes. Capacity weaknesses and  lack  of  authority  will  be  addressed  and  monitored  under  the  Human  Resource Development (HRD) strategies with links to the CBR programme which has already begun to produce some results.
+Decentralisation is a high political priority for the education system. In NESP III provincial and district education departments and schools will have greater input in the planning and control of their budgets. A key focus of the 1394/2015 EJSR report was on improving PED/DED budget management. Further institutional reform and capacity building of MoE is critical for sustained delivery of quality services and this will be monitored in NESP III (see Section 6.10 below on Sector Monitoring). Systematic strengthening of management and supervision systems to improve performance will be essential under NESP III arrangements. Development of provincial and district operational plans will gradually be linked within operational plans to strengthening the EMIS and MoHE systems to enable improved monitoring and evaluation, which will provide strategic inputs into planning and budget processes. Capacity weaknesses
 
 > 15 Reported at NESP III preparation workshops by Dr G. Reier, GIZ consultant, April 2016
 
@@ -1011,6 +1042,8 @@ Decentralisation is a high political priority for the education system. In NESP 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+
+and lack of authority will be addressed and monitored under the Human Resource Development (HRD) strategies with links to the CBR programme which has already begun to produce some results.
 
 The population perceives corruption as the second major problem facing Afghanistan. MoE has identified the elimination of corruption from education offices/institutions at all levels as a high priority. Action elements include teacher recruitment and complaints management, as well as transparent identification of eligible contractors and suppliers.
 
@@ -1084,7 +1117,7 @@ Improvements in governance also need to be addressed through better design of su
 
 The  Ministry  of  Education  has  the  principal  mandate  for  education  service  provision  in Afghanistan. However, other Ministries and government agencies also implement programmes.  Post-secondary  academic  education  is  the  responsibility  of  the  Ministry  of Higher Education (MoHE) and, as noted, vocational training is not only provided by MoE but also by MoLSAMD, NGOs, and MoHE, through Community Colleges. Similarly, the Ministry of Hajj and Religious Affairs (MoHRA) the Ministry of Women's Affairs (MoWA) and the Ministry of  Rural  Rehabilitation  and  Development (MoRRD) all provide regular inputs to education services.
 
-It is recognised that cooperation between Ministries must be improved and extended to the mutual benefit of all involved. For example, MoHE currently offers teacher training courses in its Education Faculties. It will improve the efficient allocation of responsibilities for MoE to be responsible for the coordination of in-service training, while MoHE trains teachers on preservice courses, with a greater focus on deployment outside Kabul. Both Ministries should in future share plans and target numbers and assume joint responsibility for achieving them.
+It is recognised that cooperation between Ministries must be improved and extended to the
 
 27
 
@@ -1092,7 +1125,9 @@ It is recognised that cooperation between Ministries must be improved and extend
 
 [[START OF PAGE 40]]
 
-Because it is essential to increase the number of girls entering and completing education, the Ministry  of  Education  is  committed  to  work  closely  with  the  Ministry  of  Women's  Affairs (MoWA)  to  pilot  schemes  for  deployment  of  female  teachers  to  rural  areas  and  for establishment  of  training  and  dormitory  facilities  to  allow  girls  and  female  teachers  to continue their education.
+mutual benefit of all involved. For example, MoHE currently offers teacher training courses in its Education Faculties. It will improve the efficient allocation of responsibilities for MoE to be responsible for the coordination of in-service training, while MoHE trains teachers on pre-service courses, with a greater focus on deployment outside Kabul. Both Ministries should in future share plans and target numbers and assume joint responsibility for achieving them.
+
+Because it is essential to increase the number of girls entering and completing education, the Ministry of Education is committed to work closely with the Ministry of Women's Affairs (MoWA) to pilot schemes for deployment of female teachers to rural areas and for establishment of training and dormitory facilities to allow girls and female teachers to continue their education.
 
 The  previous  National  Solidarity  Programme  (NSP)  has  been  developed  into  the  Citizen's Charter Programme (CCP). Under this umbrella MoRRD, complementing MoE, has increased the rate of school construction using block grants to communities and during NESP III this approach will be expanded in line with the emphasis on decentralisation. The Ministry of Urban  Development  (MoUD)  is  responsible  for  management  of  grants  in  urban  areas. Infrastructure and Operations and Maintenance (O&M) grants will be channelled by MRRD to Community Development Councils (CDCs) for construction of schools through community contracts. NESP III recognizes the importance of coordinating decentralised responsibilities to all Ministries cooperating in the provision of education opportunity at Province and District levels.
 
@@ -1102,7 +1137,7 @@ In general, an important initiative will be for Planning Directorates in differe
 
 ## 4.8 Development Partners
 
-Afghanistan's  Development  Partners  have  been  fully  involved  in  the  planning  process  for NESP III and in the development of key policies. Key DPs have included USAID, DFID, the World Bank, the UN Agencies and the Embassies of Sweden, Canada, Germany, Australia, Japan, Norway, Finland and Denmark. Some have been major contributors to multi-lateral funds while also supporting bi-lateral initiatives. Civil society and NGO implementing partners have been represented also through the participation of the Swedish Committee for Afghanistan (SCA), Save the Children, the Aga Khan Foundation (AKF) and Agency Coordinating Body for Afghan  Relief  (ACBAR) 19 .  The  CBE  programme  in  particular  has  benefited  from  extensive support from Civil Society organisations. Policy guidelines have been developed, but often different standards and costs have been applied by different agencies. MoE plans to draft Terms of Reference (ToRs) and standard costs for service delivery by DPs in the interest of equity and sustainability.
+Afghanistan's Development Partners have been fully involved in the planning process for NESP III and in the development of key policies. Key DPs have included USAID, DFID, the World Bank, the UN Agencies and the Embassies of Sweden, Canada, Germany, Australia, Japan, Norway, Finland and Denmark. Some have been major contributors to multi-lateral funds
 
 28
 
@@ -1110,7 +1145,9 @@ Afghanistan's  Development  Partners  have  been  fully  involved  in  the  plan
 
 [[START OF PAGE 41]]
 
-Aid effectiveness has always been an acknowledged priority, but is now vital for the success of NESP III. MoE's Development Partners are increasingly pooling funds and more effectively aligning bi-lateral  operations. The effect is to give greater importance to the delivery and mutual reporting of agreed results.
+while also supporting bi-lateral initiatives. Civil society and NGO implementing partners have been represented also through the participation of the Swedish Committee for Afghanistan (SCA), Save the Children, the Aga Khan Foundation (AKF) and Agency Coordinating Body for Afghan Relief (ACBAR) 19 . The CBE programme in particular has benefited from extensive support from Civil Society organisations. Policy guidelines have been developed, but often different standards and costs have been applied by different agencies. MoE plans to draft Terms of Reference (ToRs) and standard costs for service delivery by DPs in the interest of equity and sustainability.
+
+Aid effectiveness has always been an acknowledged priority, but is now vital for the success of NESP III. MoE's Development Partners are increasingly pooling funds and more effectively aligning bi-lateral operations. The effect is to give greater importance to the delivery and mutual reporting of agreed results.
 
 > 19 Additional CSOs who have provided feedback include: ACTED, AKES, AKF, BRAC, CARE, CFA, CRS, IRC, NAC, SCI, SCA and others
 
@@ -1193,7 +1230,7 @@ Indicators |  Approval by external management efficiency experts | Means of V
 Long-term outcome ETM2 | Partnership mechanisms established with civil society, the private sector, and development partners
 Indicators |  Number of programmes with active partnership mechanisms | Means of Verification |  Planning Directorate records
 Long-term outcome ETM3 | Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE
-Indicators |  Approval by the Independent Joint Anti- Corruption Monitoring and Evaluation Committee (mec.af) | Means of Verification |  Report by the Independent Joint Anti-Corruption Monitoring and Evaluation Committee
+Indicators |  Approval by the Independent Joint Anti-Corruption Monitoring and Evaluation Committee (mec.af) | Means of Verification |  Report by the Independent Joint Anti-Corruption Monitoring and Evaluation Committee
 Long-term outcome ETM4 | Monitoring and evaluation that support decision-making strengthened
 Indicators |  Approval by the Education Joint Sector Review meeting | Means of Verification |  Report of the Education Joint Sector Review
 
@@ -1223,7 +1260,7 @@ NESP III has accountability, relevance and capacity development as central strat
 
 - The  percentage  of  districts  receiving  resources  based  on  principles  of  equitable allocation
 
-Each Indicator has annual targets and an associated set of Aggregated outputs or short-term results to be achieved through various programmes or activities specified in more detail in Annual Operational Plans (AOPs) to be undertaken within the space of a year at most. The targets are cumulative and frequently expressed as percentages or numbers required to fulfil the expected result. Thus the Plan does not show recurrent activity, which may be planned to continue indefinitely. It sets strategic targets required to achieve the policy goals.
+Each Indicator has annual targets and an associated set of Aggregated outputs or short-term results to be achieved through various programmes or activities specified in more detail in Annual Operational Plans (AOPs) to be undertaken within the space of a year at most. The
 
 > 20 Local school mapping is a technique used by principals to record where all school age children in their catchment area live. It involves drawing (and keeping up-to-date) a simple map of the area with pupils' names on the houses. When children are not in school, teachers can easily follow up with informal visits to encourage attendance and help solve problems with the help of the school shura.  Mapping can also be used to indicate demand for education opportunities of various kinds for planning purposes at Provincial, District and national levels.
 
@@ -1232,6 +1269,8 @@ Each Indicator has annual targets and an associated set of Aggregated outputs or
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+
+targets are cumulative and frequently expressed as percentages or numbers required to fulfil the expected result. Thus the Plan does not show recurrent activity, which may be planned to continue indefinitely. It sets strategic targets required to achieve the policy goals.
 
 ### 5.3.1 Quality and relevance
 
@@ -1291,17 +1330,17 @@ learning  outcomes  both  at  classroom  and  national  level.  The  learning  a
 
  General Education:
 
-- o The  reform  will  review  the  curriculum  framework  to  improve  and  update  the stages,  contents,  objectives,  plans  and  strategies  of  teaching  and  learning, especially  in  terms  of  learning  areas  (to  be  reduced/integrated)  and  learning outcomes (knowledge, relevant skills, values, attitudes and their application as competencies in the real world) at each grade and level of schooling including preschool  education,  with  an  emphasis  on  early  grade  reading  and  cross-cutting issues such as health, environment and climate, human rights, anti-corruption, ICT, etc.
+- o The reform will review the curriculum framework to improve and update the stages, contents, objectives, plans and strategies of teaching and learning, especially in terms of learning areas (to be reduced/integrated) and learning outcomes (knowledge, relevant skills, values, attitudes and their application as competencies in the real world) at each grade and level of schooling including pre-school education, with an emphasis on early grade reading and cross-cutting issues such as health, environment and climate, human rights, anti-corruption, ICT, etc.
 
 - o Given the reduced learning time available for the majority a more realistic set of curriculum goals will be set. This will, in turn, mean shorter and more focused textbooks than at present, much of which currently goes untaught or addressed only superficially. It is no longer acceptable for students to learn material through memory alone or to be tested on rote mastery. More selective curriculum and textbook content will encourage teaching methods which encourage questioning and  child-centred,  student  active  learning.  Greater  emphasis  will  be  on  the development of critical thinking skills.
 
-- o Practical learning and the addition of life-skills will be emphasised in the revised curriculum, and teachers will be provided with a battery of techniques through inservice professional development. National Standards for curricula will respect Afghan  cultural  traditions  and  practices,  but  will  also  reflect  contemporary international curriculum standards and educational practice. These approaches have been piloted in the period leading to NESP III development.
+- o Practical learning and the addition of life-skills will be emphasised in the revised curriculum, and teachers will be provided with a battery of techniques through in-service professional development. National Standards for curricula will respect Afghan cultural traditions and practices, but will also reflect contemporary international curriculum standards and educational practice. These approaches have been piloted in the period leading to NESP III development.
 
  Literacy:
 
 - o Learner-oriented materials - the MoE will further diversify learning materials to meet the needs of different learners, a process that has begun under different DP literacy  programmes.  Learners  will  benefit  from  similar  practical  teaching techniques used by General Education teachers, many of whom act as literacy instructors outside school hours.
 
-- o Literacy courses will also benefit from the more relevant content developed in cooperation  with  TVET  curriculum  staff,  working  within  the  reformed  Ministry structure. For example, practical agriculture and mechanical skills will be taught through appropriate texts in literacy courses.
+- o Literacy courses will also benefit from the more relevant content developed in co-operation with TVET curriculum staff, working within the reformed Ministry structure. For example, practical agriculture and mechanical skills will be taught through appropriate texts in literacy courses.
 
  Islamic Education:
 
@@ -1373,7 +1412,7 @@ teacher training programmes and colleges will also be required to follow the nat
 
  Development  of  school  leadership  - The  principal  influences  classroom  practice through the level of his/her support and supervision of teachers, guided by his/her understanding of how, what, when and why students learn.
 
- NESP  III  sets  targets  of  increased  enrolment  specifically  of  girls  and  women  in  all learning  programmes  over  the  next  5  years.  Female  learners  are  currently  underrepresented but no less anxious to learn and the social and economic development advantages of an educated female population are well understood. Specific efforts will, therefore, be made to develop a cadre of women to take on the leadership role in managing schools and administration during NESP III.
+ NESP III sets targets of increased enrolment specifically of girls and women in all learning programmes over the next 5 years. Female learners are currently under-represented but no less anxious to learn and the social and economic development advantages of an educated female population are well understood. Specific efforts will, therefore, be made to develop a cadre of women to take on the leadership role in managing schools and administration during NESP III.
 
  Principals  will  be  trained  to  implement  the  School  Administrator  Competency Framework as well as the School Management (SMT) training manuals. They will be responsible  for  implementation  of  the  curriculum  framework  as  well  as  the  legal structure of the school program including the education laws, the school day and year, the  roles  of  the  DED,  PED,  and  MoE,  and  the  involvement  of  the  Shura  and community.
 
@@ -1454,11 +1493,11 @@ However, alternative learning pathways will also include Accelerated Learning Ce
 
 [[START OF PAGE 56]]
 
-##### Plan and establish systems at the school and community level with local school mapping exercises to identify and track out-of-school children and prevent dropping out through an early warning system .
+##### 1. Plan and establish systems at the school and community level with local school mapping exercises to identify and track out-of-school children and prevent dropping out through an early warning system.
 
  The school-mapping conducted at the district level will identify gap in access to school and provide information for establishment of new schools and CBE to cover the access gap. This will be also combined with out-of-school children survey which will identify the number, gender and reasons why the children are not going to the school and what needs to be done to enroll them to the school. The schools' management will also identify the children at the risk of dropout. Based on the information obtained, necessary actions will be taken to make the education service delivery more attractive to out-of-school children, i.e. deploying female teachers, engaging parents in school shura,  construction  of  school  facilities,  etc.  Local  school  mapping  data  will  be combined with data on the availability of learning centres and programmes (including TVET apprenticeships) at district level to build into a national database using EMIS and GPS  technologies  for  the  planning  of  new  schools  and  centres  or  support  for  the upgrading and expanding of programmes or merging of existing schools and centres. Verifiable planning based on local data presented transparently will contribute to the elimination of inefficiencies and corrupt practices such as claiming funding for 'ghost' schools and teachers.
 
-##### Improve the TVET intake system, especially targeting poor and underserved youth and rural areas .
+##### 2. Improve the TVET intake system, especially targeting poor and underserved youth and rural areas.
 
  Studies have demonstrated that most TVET learning takes place through the private market formal and informal systems. The public TVET system is not yet targeting the most widespread need for skills in the private market.
 
@@ -1470,7 +1509,7 @@ However, alternative learning pathways will also include Accelerated Learning Ce
 
  TVET  learners  may  additionally  benefit  from  literacy  and  numeracy  courses  to complement their skills-based practical learning. Existing schools will be encouraged and guided to meet these needs.
 
-##### Increase enrolment, especially of girls (to Gen. Ed., TVET, etc.) in remote areas
+##### 3. Increase enrolment, especially of girls (to Gen. Ed., TVET, etc.) in remote areas
 
  Equitable  access  strategies  aim  to  expand  inclusive  enrolment  and  retention  of  all Afghan social groups, especially girls and the disadvantaged. Strategies to be used will include local recruitment of female teachers through a 'best available' approach, with
 
@@ -1504,21 +1543,21 @@ subsequent support for professional development  and  credentialing and the intr
 
 a skill training apprentice in private sector in order to become eligible continuation of higher secondary education in public schools. The preference will be to enrol majority of  them  in  TVET  schools  where  they  will  acquire  practical  skill  training  in  private workshops/production centres and learn knowledge and management skills related to the vocation in the TVET schools. This policy option will not only encourage students to improve their performance but will also mainstream more youth to skill training programs, employment and income generation.
 
-##### Develop provincial/district mechanisms  for increased enrolment, retention and completion of learners/apprentices in schools/learning centres (Gen. Ed., TVET, Literacy, etc.)
+##### 4. Develop provincial/district mechanisms for increased enrolment, retention and completion of learners/apprentices in schools/learning centres (Gen. Ed., TVET, Literacy, etc.)
 
  An essential strategy within NESP III will be to increase the responsibility and capacity of  sub-national  levels  of  administration  and  management  in  PED/DED  and  also  in schools. Early initiatives have already focused on raising capacity in PEDs under the CBR programme.
 
  Planning  will  be  based  on  analysis  of  education  indicators  and  realistic  targets  at decentralized levels.  For  example,  analysis  of  enrolment,  drop-out  and  completion rates by gender, location and groups at sub-national levels will facilitate identification of districts and villages where equity and quality are issues. This will in turn help to identify the focus for action. MoE will revise the guidelines for school establishment and remove schools that are established against the norms.
 
- Planning mechanisms will include the mapping of out-of-school children with profiles of children at risk. Risk factors are poverty levels in particular districts, prevalence of early and forced marriage, female literacy and proportion of female teachers. MoE will utilize and upgrade the current EMIS and GPS technologies to specify areas for needbased provision of services. Once the analysis of status of key education indicators is available at sub-national level, these will be taken into consideration in the allocation of resources.
+ Planning mechanisms will include the mapping of out-of-school children with profiles of children at risk. Risk factors are poverty levels in particular districts, prevalence of early and forced marriage, female literacy and proportion of female teachers. MoE will utilize and upgrade the current EMIS and GPS technologies to specify areas for need-based provision of services. Once the analysis of status of key education indicators is available at sub-national level, these will be taken into consideration in the allocation of resources.
 
  MoE will develop flexible regulations governing provision of learning programmes and access  to  facilities  based  on  realities  faced  by  local  communities  and  their  needs. Allocation  of  resources  will  be  equitable  and  norm  based,  and  will  strictly  and transparently  follow  MoF  guidelines  and  the  Public  Financial  Management  (PFM) regulations,  thus  strengthening  capacity  within  the  system.  A  principle  will  be  to maximise use of available resources (those under direct control of MoE, those under the responsibility of other ministries, and private resources also). This will include, for example, the use of General Education school buildings for other learning programmes.
 
-##### Establish  or  expand  Centres/Schools  and  programmes  providing  alternative  learning pathways in remote rural areas.
+##### 5. Establish or expand Centres/Schools and programmes providing alternative learning pathways in remote rural areas.
 
  These  will  include  pre-school,  community-based  education,  accelerated  learning, outreach classes, mobile classes, multi-grade teaching classes and distance learning, exploiting low-cost nationally developed ICT platforms.
 
- Pre-School  education:  Research  evidence  shows  the  positive  effect  of  pre-school education on enrolment and completion of primary education. MoE will reflect preschool education in revision of legislative documents as priority to
+ Pre-School education: Research evidence shows the positive effect of pre-school education on enrolment and completion of primary education. MoE will reflect pre-school education in revision of legislative documents as priority to
 
 46
 
@@ -1528,7 +1567,7 @@ a skill training apprentice in private sector in order to become eligible contin
 
 facilitate/encourage government investment. Government will support expansion of mosque-based  education  which  contributes  to  pre-school  education  for  a  large number of children especially  in  the  rural  areas.  Pre-school  education  will  also  be expanded  through  CBE. Pre-school  education  centres  can  be  established  in  the community making use of local facilities (mosques, schools, spaces in existing learning centres or private houses) guided by a basic national curriculum with simple teaching guides. In urban areas Private Public Partnership (PPP) models can be explored. Careful monitoring of limited inputs and of results will allow gradual expansion as resources are available.
 
- Community-Based  Education  (CBE),  Accelerated  Learning  Centres  (ALCs):  A  subnational  analysis  of  key  education  indicators  shows  CBE  and  ALP  has  made  good contribution to increasing enrolment  specially for girls. CBE/ALP  is currently fragmented  and  donor-led  programme  which  also  entails  issues  with  transition  to formal schools, sustainability and overlaps. MoE will revise CBE/ALP policy and define a  cost  effective  package  (ToR)  for  the  service  delivery,  including  a  service  delivery model with a focus on national service delivery capacities (NGOs/CDCs), transition and sustainability. International NGOs will gradually reduce direct CBE service delivery and become  engaged  in capacity development  of national entities and strategic monitoring of CBE. Standard ToR for CBE service delivery will be announced for each province (as a geographical unit for each proposal), through both on and off budget funding mechanisms. A joint mechanism will be established for review of CBE/ALP proposals  through  off-budget  funding.  School  mapping  and  out  of  school  children survey at the district level will determine the gap in access to service delivery and will be the base for establishment of CBE/ALP, which will be outreach classes of nearby formal hub-schools. CBE classes will be upgraded to formal primary school where the existing formal hub-school is too far. CBE students will transition to formal hub school mainly at the end of grade 3, but where needed it could continue up to grade 6 or beyond.  CBE/ALP  providing  partners  will  work  closely  with  school  principals  and district  education  offices  in  local  planning,  monitoring,  reporting  and  transition  of students and CBE teachers to formal hub-schools. MoE will during the annual planning consider additional resources for the hub-school to facilitate smooth transition of CBE students  and  teachers.    Accelerated  Learning  programmes  will  meet  the  needs  of suitable over-age and drop-out students by giving them a rapid means of catching up on missed schooling and re-entering the education system.
+ Community-Based Education (CBE), Accelerated Learning Centres (ALCs): A sub-national analysis of key education indicators shows CBE and ALP has made good contribution to increasing enrolment specially for girls. CBE/ALP is currently fragmented and donor-led programme which also entails issues with transition to formal schools, sustainability and overlaps. MoE will revise CBE/ALP policy and define a cost effective package (ToR) for the service delivery, including a service delivery model with a focus on national service delivery capacities (NGOs/CDCs), transition and sustainability. International NGOs will gradually reduce direct CBE service delivery and become engaged in capacity development of national entities and strategic monitoring of CBE. Standard ToR for CBE service delivery will be announced for each province (as a geographical unit for each proposal), through both on and off budget funding mechanisms. A joint mechanism will be established for review of CBE/ALP proposals through off-budget funding. School mapping and out of school children survey at the district level will determine the gap in access to service delivery and will be the base for establishment of CBE/ALP, which will be outreach classes of nearby formal hub-schools. CBE classes will be upgraded to formal primary school where the existing formal hub-school is too far. CBE students will transition to formal hub school mainly at the end of grade 3, but where needed it could continue up to grade 6 or beyond. CBE/ALP providing partners will work closely with school principals and district education offices in local planning, monitoring, reporting and transition of students and CBE teachers to formal hub-schools. MoE will during the annual planning consider additional resources for the hub-school to facilitate smooth transition of CBE students and teachers. Accelerated Learning programmes will meet the needs of suitable over-age and drop-out students by giving them a rapid means of catching up on missed schooling and re-entering the education system.
 
  Literacy and adult education: MoE will provide literacy classes to those adults (age 15 and above) who have missed the education opportunities. Priority will be given to youth aged 15-24 and female learners. Formal schools will be used as hub for literacy courses. Literacy classes will be established within the communities where group of adults are interested to acquire basic literacy and their record will be maintained in the nearby hub school for monitoring and verification. Literacy courses will be also established  in  the  evening  shift  of  general  schools  to  facilitate  learning  for  youth working during the day. General school teachers will be utilized where applicable to teach literacy courses in a different shift (early morning, late afternoon as relevant to learners). Adults successfully completing basic literacy course will be provided with certificate  equivalent  to  grade  3  graduates  of  schools.  Literacy  courses  will  be established/run by MoE literacy department or by NGO partners on behalf of MoE
 
@@ -1538,7 +1577,7 @@ facilitate/encourage government investment. Government will support expansion of
 
 [[START OF PAGE 60]]
 
-- using  similar  approach  as  for  CBE.  Youth  completing  basic  literacy  course  will  be provided with opportunity to continue education in evening shift of general schools.
+using similar approach as for CBE. Youth completing basic literacy course will be provided with opportunity to continue education in evening shift of general schools.
 
  Alternative  learning  pathways:  Based  on  the  local  context,  alternative  learning pathways will be encouraged for students to access learning opportunities beyond regular Basic and Secondary education models. These may build on existing provision of Literacy courses or other informal learning. Some of these include seasonal schools, evening  classes,  self-instruction  using  technology,  and  mobile  schools  for  nomadic people. All these would be linked to a common curriculum and examination or testing process.
 
@@ -1630,7 +1669,7 @@ In the country context, some of the key demand side barriers are poverty, social
 
 [[START OF PAGE 64]]
 
-- complete basic education, and at the same time they can be strong forces to create and demand quality services.
+complete basic education, and at the same time they can be strong forces to create and demand quality services.
 
  The  CPAN  and  shuras  will  have  joint  responsibility  for  the  safety  and  security  of children  and  teachers  in  schools.  Voluntary  vigilance  groups  from  community  and CPAN who then in turn ensure that both boys and girls reach school safely and also that schools are providing safe environments for studying.
 
@@ -1662,7 +1701,7 @@ NESP III  plans  a  number  of  radical  strategies  to  improve  administrative
 
 #### 1. Results-based institutional framework and organizational structure with defined core functions and competencies developed
 
- As  indicated  above,  the  organisation  of  NESP  III  reflects  the  intended  functional structure of the Ministry of Education Emphasising Education Quality and grouping strategies  under  Quality,  Access  and  Management  components.  Currently  MoE  is divided institutionally along programme delivery lines as presented in earlier strategic plans (e.g. NESP II). The separation of General Education, Islamic Education, TVET and Literacy programmes resulted in some lack of efficiency and duplication of functions including procurement, curriculum development, teacher training, etc.  A review and associated  human  resource  planning  are  the  first  steps  to  be  taken  in  improving coordination and efficiency within MoE management. This functional review is very important and will more clearly define core and non-core operations and bring up-todate and clarify the Terms of Reference (ToRs) of MoE institutions/departments. The reform  modality  will  be  decided  in  consultation  with  the  restructuring  team  and political level authorities based on the ground realities and feasibility of reform.
+ As indicated above, the organisation of NESP III reflects the intended functional structure of the Ministry of Education Emphasising Education Quality and grouping strategies under Quality, Access and Management components. Currently MoE is divided institutionally along programme delivery lines as presented in earlier strategic plans (e.g. NESP II). The separation of General Education, Islamic Education, TVET and Literacy programmes resulted in some lack of efficiency and duplication of functions including procurement, curriculum development, teacher training, etc. A review and associated human resource planning are the first steps to be taken in improving coordination and efficiency within MoE management. This functional review is very important and will more clearly define core and non-core operations and bring up-to-date and clarify the Terms of Reference (ToRs) of MoE institutions/departments. The reform modality will be decided in consultation with the restructuring team and political level authorities based on the ground realities and feasibility of reform.
 
  Reorganisation will require policy changes and revision of the legal framework under which  the  Ministry  operates.  New  procedures  and  reporting  requirements  will  be introduced at all levels from the central Ministry to PEDs, DEOs,  schools and other learning centres.
 
@@ -1678,7 +1717,7 @@ NESP III  plans  a  number  of  radical  strategies  to  improve  administrative
 
 [[START OF PAGE 66]]
 
-- this  is  in  the  interest  of  efficiency  and  in  line  with  greater  transparency  and accountability.
+this is in the interest of efficiency and in line with greater transparency and accountability.
 
  The  predictability  and  alignment  of  funding  for  education  programmes  will  be improved through clarification and integration off-budget and on-budget contributions and programmes. Alignment and harmonisation of operations with MoE and  other  DP  systems  following  Ministry  and  Government  policies  will  reduce duplication and waste and ensure more efficient achievement of NESP objectives.
 
@@ -1700,13 +1739,13 @@ NESP III  plans  a  number  of  radical  strategies  to  improve  administrative
 
 [[START OF PAGE 67]]
 
- Current  and  past  staffing  arrangements  within  MoE  have  relied  heavily  on  donorfunded National Technical Assistants (NTA). NTA staff were not always accountable to MoE for results and duplicated tashkil staff functions. NTA were not responsible for the development of tashkil capacity. As DP funding was restructured and programmes ended MoE was vulnerable to the loss of key personnel. Under NESP III improved recruitment, training,  mentoring  and  professional  development  systems  for  tashkil staff will be introduced. This will target especially decentralised capacity development and will ensure equitable and needs-based staff development in all provinces.
+ Current and past staffing arrangements within MoE have relied heavily on donor-funded National Technical Assistants (NTA). NTA staff were not always accountable to MoE for results and duplicated tashkil staff functions. NTA were not responsible for the development of tashkil capacity. As DP funding was restructured and programmes ended MoE was vulnerable to the loss of key personnel. Under NESP III improved recruitment, training, mentoring and professional development systems for tashkil staff will be introduced. This will target especially decentralised capacity development and will ensure equitable and needs-based staff development in all provinces.
 
  The  current  results-based  staff  appraisal  system  for  MoE  will  be  strengthened  to ensure  objective  performance  assessment  is  linked  to  career  development  and reward.
 
-#### Transparency, accountability,  and  anti-corruption  systems  for  resource  management adopted
+#### 5. Transparency, accountability, and anti-corruption systems for resource management adopted
 
- MoE will develop, in collaboration with other stakeholder ministries, a robust anticorruption  strategy  to  restore  public  and  donor  confidence  in  equitable  and transparent programme delivery. Reported or suspected breaches of procedures will be investigated and reported openly.
+ MoE will develop, in collaboration with other stakeholder ministries, a robust anti-corruption strategy to restore public and donor confidence in equitable and transparent programme delivery. Reported or suspected breaches of procedures will be investigated and reported openly.
 
  To ensure the grants made to schools under the school development and Citizen's Charter Programme are correctly managed MoE will develop a stronger regulatory framework and strengthen its internal audit function through links with accredited external  audit  operations.  All  MoE  operations  will  be  subject  to  performance assessment and will be required to satisfy audit requirements
 
@@ -1795,7 +1834,7 @@ Source: EMIS 2015
 
 ### Principals
 
- NESP III envisages a greater role in local management of learning for school principals. Teacher professional  development and certification  through the new  competencybased training curriculum and standards will be a requirement for principals as well as for teachers. Together with community support committees (shura) principals will be trained and supported in local school mapping, data collection and management, staff and  facilities  development  and  control,  budget  management  related  to  grants  for school development, and student learning assessment.
+ NESP III envisages a greater role in local management of learning for school principals. Teacher professional development and certification through the new competency-based training curriculum and standards will be a requirement for principals as well as for teachers. Together with community support committees (shura) principals will be trained and supported in local school mapping, data collection and management, staff and facilities development and control, budget management related to grants for school development, and student learning assessment.
 
  In particular NESP III will increase the number of qualified females in administrative and leadership  roles.  A  network  of  support  for  female  administrators,  beyond  the current learning circles for principals will be implemented with strategies to increase the  placement  of  females  in  administrative  positions,  and  to  ensure  their  success. Women interested in the role of principal will be given special training in educational leadership principles and practice.
 
@@ -1811,11 +1850,11 @@ Source: EMIS 2015
 
 [[START OF PAGE 71]]
 
-- provide the basis for stability and development. This situation will drive a number of innovative strategies and partnerships over the next 5 years:
+provide the basis for stability and development. This situation will drive a number of innovative strategies and partnerships over the next 5 years:
 
  Provinces,  districts  and  school  communities  will  need  to  optimise  the  use  of infrastructure and human resource to improve access to learning. They will need to ensure  infrastructure  is  used  flexibly  by  different  learning  programmes,  e.g.  for literacy  courses  and  out-of-hours  schooling  for  apprentices.  General  Education Schools, Community Schools and Teacher Training Colleges will be made available for Islamic Education, and mosques used as centres for literacy courses and pre-school classes.
 
- Similarly,  teachers  of  general  education  and  Mullah  Imams  of  Mosques  will  be supported (through training and guide materials) to teach literacy courses and preschool classes.
+ Similarly, teachers of general education and Mullah Imams of Mosques will be supported (through training and guide materials) to teach literacy courses and pre-school classes.
 
  Subjects currently taught separately may be integrated to use time more effectively, and show relationships such as in reading, writing, speaking, calligraphy integrated into one session that may be longer than one class period but shorter than the several otherwise  required.   Similarly,  the  sciences  can  be  introduced  in  lower  grades thematically rather than as separate disciplines. Maths can be re-enforced by finding its applications to many other subjects; similarly, reading is an essential skill in making math relevant to life problems and should be given attention when teaching math as a subject.
 
@@ -1825,7 +1864,7 @@ Source: EMIS 2015
 
 ### Information and Communication Technology
 
- MoE  will further develop its relationship with the Ministry of Information, Communication and Technology to pilot the use of technology for both learning and reporting  data  throughout  the  education  system.  Afghan  regions  are  increasingly effectively  interconnected  and  local  platforms  as  well  as  PPP  agreements  can contribute to lowering prices to affordable levels. Devices including smart phones, ereaders, MP3s and CDs can ensure continuity of learning and an awareness of the wider world even in highly insecure areas.
+ MoE will further develop its relationship with the Ministry of Information, Communication and Technology to pilot the use of technology for both learning and reporting data throughout the education system. Afghan regions are increasingly effectively interconnected and local platforms as well as PPP agreements can contribute to lowering prices to affordable levels. Devices including smart phones, e-readers, MP3s and CDs can ensure continuity of learning and an awareness of the wider world even in highly insecure areas.
 
 59
 
@@ -1925,7 +1964,7 @@ As  with  other  partnerships,  MoE's  role  will  be  limited  to  setting  up 
 
 ## 6.8 Role of Development Partners
 
-In  NESP III MoE and the Government of Afghanistan will develop a more harmonised and transparent  relationship  based  on  mutual  responsibility  for  meeting  agreed  targets.  The movement from bi-lateral to multi-lateral funding will strengthen this, but will also demand greater  commitment  to  the  joint  monitoring  of  results.  A  priority  will,  therefore,  be  to participatory planning, as has been demonstrated in the drafting of NESP III. To a greater degree than has been the case in the recent past, mutual and critical scrutiny of ToRs by MoE and  DP  colleagues  will  be  the  norm,  with  shared  responsibility  for  interventions  such  as studies and evaluations and off-budget projects. Development partners and MoE will agree on a systematic process for project cycle management specially those managed through offbudget  mechanisms.  An  MoU  will  be  signed  between  local  donors  and  MoE  to  support achievement of education sector plan objectives with greater alignment, harmonization and effectiveness of external aid.
+In  NESP III MoE and the Government of Afghanistan will develop a more harmonised and transparent  relationship  based  on  mutual  responsibility  for  meeting  agreed  targets.  The movement from bi-lateral to multi-lateral funding will strengthen this, but will also demand greater  commitment  to  the  joint  monitoring  of  results.  A  priority  will,  therefore,  be  to participatory planning, as has been demonstrated in the drafting of NESP III. To a greater degree than has been the case in the recent past, mutual and critical scrutiny of ToRs by MoE and  DP  colleagues  will  be  the  norm,  with  shared  responsibility  for  interventions  such  as studies and evaluations and off-budget projects. Development partners and MoE will agree on a systematic process for project cycle management specially those managed through off-budget  mechanisms.  An  MoU  will  be  signed  between  local  donors  and  MoE  to  support achievement of education sector plan objectives with greater alignment, harmonization and effectiveness of external aid.
 
 Technical Assistants, where donor funded (i.e. long and short-term donor funded national staff as well as international consultants), will be subject to controlled management of agreed outputs. Performance will be monitored, where appropriate, in terms of building national capacity. Where NTA are supported through pooled funding mechanisms, such as the CBR reform programme, strict performance targets linked to reforms will be reported also.
 
@@ -1967,12 +2006,13 @@ The fiduciary risk of inappropriate or misuse of funds provided for education ha
 
 In the Risk Matrix on the following pages the risks to all NESP III outcomes are assessed in terms  of  their  likelihood  and  the  potential  impact  of  a  threat  occurring.    The  mitigation strategies envisaged are also shown. On the whole, apart from the underlying insecurity, the number of high risk or likely threats is not great. Only 6 out of 25 outcomes are considered to face the highest level of risk. 11 outcomes are assessed as low-level risk, and 8 face a medium risk. The Matrix summarises the primary risks to achieving the desired sector outcomes and the  mitigation  strategies  planned  to  minimise  the  likelihood  of  these  risks  occurring.  The severity of each risk has been assessed according to the likelihood of its occurring and the impact on achieving the long-term NESP III outcome if it does occur. The overall risk is then given a score from 1 to 5 with 5 as the most serious risk (and shown in red). The key below summarises the risks as presented in the Matrix:
 
-Likelihood of occurring (L) | High | 3 | 4 | 5
---- | --- | --- | --- | ---
+Likelihood of occurring (L) |  |  | 
+--- | --- | --- | ---
+High | 3 | 4 | 5
 Medium | 2 | 3 | 4
 Low | 1 | 2 | 3
-Low | Medium | High
-Potential Impact (I)
+ | Low | Medium | High
+ | Potential Impact (I) |  |
 
 MoE will  include  risk  rating  after  mitigation  in  the  monitoring  reports  to  allow  for  better understanding of the remaining risks.
 
@@ -1986,16 +2026,16 @@ MoE will  include  risk  rating  after  mitigation  in  the  monitoring  reports
 
 NESP III RISK MATRIX
 
-Long-term Outcome | Identified Risk | Severity of | Risk Mitigation Strategy
---- | --- | --- | --- | ---
-L | I Overall
-QR1. The capacity of the education system to develop and monitor student attainment | and social The necessary organisational reforms related to sustainable curriculum development are institutionally or logistically not achieved | M | M 3 | As with any major reform, leadership will play a critical role. Government and Ministry support and guidance will contribute to faster achievement of results., as well as appreciation of the advantages of change.
-individual | improved The process of curriculum reform proceeds too slowly to achieve an impact on learners | M | M 3 | Clear and transparent planning agreed between stakeholders (including Technical Advisors) will reduce uncertainty and focus on future opportunity. It will be important to set achievable targets that can be sustained by national staff and with national levels of funding.
-relevant to | needs is It is not possible to ensure an objective, reliable and easily manageable learning assessment system under current school and political conditions | M | H 5 | Current instability and high value associated with success on tests ('high-stakes' exams) increase the likelihood and the potential negative impact of this risk. The likelihood is greater in conflict areas where confidence in central systems is low. Greater local coordination among principals, community leaders (SMS) and DED officials can reduce the likelihood of occurrence. The NESP III emphasis on transparency will also support this.
-QR2. The capacity of schools/learning centres to promote student/learner attainment is improved | Insufficient numbers of quality textbooks reach students to improve learning achievement | M H | 4 | Textbook production and distribution is a high-cost recurrent activity. Current constraints (resource, security, geographical) increase the risk of low distribution levels. Many strategies will contribute to risk reduction, including: Curriculum reform; Provision of support and resources to PED/DEDs; piloting printing and distribution by private sector publishers; piloting use of ITC and electronic books.
-ICT, science kits and other learning resources are not used appropriately to improve educational quality | L | M 2 | Phased distribution linked to training and clear guidelines for local management responsibility will reduce risk. Use of learning resources will be expected to produce measurable results. SMT will include results-focused use of resources.
-Training of educators fails to translate into more effective teaching | M | M 3 | Practical training linked to explicit teacher competencies will reduce this risk. Associated programmes (local awareness training; support from academic supervisors and trained principals) will ensure training is capitalised on.
-School principals do not effectively execute the new leadership and community mobilisation roles expected of them | L | M 2 | SMT and other support for principals will mitigate this risk. In some areas the challenge is greater and specific strategies will be used to address these cases. Social mobilisation strategies, already in place, will be coordinated to support principals.
+Long-term Outcome | Identified Risk | Severity of Risk |  |  | Mitigation Strategy
+ |  | L | I | Overall |
+--- | --- | --- | --- | --- | ---
+QR1. The capacity of the education system to develop and monitor student attainment relevant to individual and social needs is improved | The necessary organisational reforms related to sustainable curriculum development are institutionally or logistically not achieved | M | M | 3 | As with any major reform, leadership will play a critical role. Government and Ministry support and guidance will contribute to faster achievement of results., as well as appreciation of the advantages of change.
+ | The process of curriculum reform proceeds too slowly to achieve an impact on learners | M | M | 3 | Clear and transparent planning agreed between stakeholders (including Technical Advisors) will reduce uncertainty and focus on future opportunity. It will be important to set achievable targets that can be sustained by national staff and with national levels of funding.
+ | It is not possible to ensure an objective, reliable and easily manageable learning assessment system under current school and political conditions | M | H | 5 | Current instability and high value associated with success on tests (“high-stakes” exams) increase the likelihood and the potential negative impact of this risk. The likelihood is greater in conflict areas where confidence in central systems is low. Greater local coordination among principals, community leaders (SMS) and DED officials can reduce the likelihood of occurrence. The NESP III emphasis on transparency will also support this.
+QR2. The capacity of schools/learning centres to promote student/learner attainment is improved | Insufficient numbers of quality textbooks reach students to improve learning achievement | M | H | 4 | Textbook production and distribution is a high-cost recurrent activity. Current constraints (resource, security, geographical) increase the risk of low distribution levels. Many strategies will contribute to risk reduction, including: Curriculum reform; Provision of support and resources to PED/DEDs; piloting printing and distribution by private sector publishers; piloting use of ITC and electronic books.
+ | ICT, science kits and other learning resources are not used appropriately to improve educational quality | L | M | 2 | Phased distribution linked to training and clear guidelines for local management responsibility will reduce risk. Use of learning resources will be expected to produce measurable results. SMT will include results-focused use of resources.
+ | Training of educators fails to translate into more effective teaching | M | M | 3 | Practical training linked to explicit teacher competencies will reduce this risk. Associated programmes (local awareness training; support from academic supervisors and trained principals) will ensure training is capitalised on.
+ | School principals do not effectively execute the new leadership and community mobilisation roles expected of them | L | M | 2 | SMT and other support for principals will mitigate this risk. In some areas the challenge is greater and specific strategies will be used to address these cases. Social mobilisation strategies, already in place, will be coordinated to support principals.
 
 67
 
@@ -2003,13 +2043,12 @@ School principals do not effectively execute the new leadership and community mo
 
 [[START OF PAGE 80]]
 
-The professional quality of teachers is not raised by the support and training offered and does not improve student achievement | L | M 2 | INSET training and support from academic supervision and SMT-trained principals will reduce this risk. The central focus in NESP III on results and relevance will reinforce the need for teachers and schools to be responsible for student achievement.
---- | --- | --- | --- | ---
-Schools and learning centres do not receive sufficient support to establish appropriate safe and conducive standards for learning | L | M 2 | Logistical difficulties can increase the risk of support (material and technical) reaching schools and centres. National leadership and local mobilisation will help reduce the risk. Consistent messages relating to a vision of support for learning, building the future for young learners will reduce impact.
-EA1. Increased equitable availability of responsive, safe and conducive learning and skills training opportunities | PED/DED staff capacity does not permit the development of feasible and coherent plans | M | M 3 | Strategies will be deployed through NESP III and associated programmes (e.g. CBR) to raise local capacity. The decentralisation process will take time, but will be tracked through the NESP III monitoring system and additional support will be directed as needed through training and peer mentoring.
-MoE and DPs are unable to agree a sustainable level of support/unit costs for CBE/ALP pupils | L | M 2 | This risk is perceived as low. NESP III has been developed with full participation from DPs, CSO and MoE staff. A determination to apply sustainable approaches is broadly agreed. More detailed negotiations and follow up monitoring and reporting will ensure the risk remains low. A transition period will allow phase in of a new harmonised cost and management framework.
-The level of support offered by MoE is not sufficient to attract sufficient female teachers to increase the number of girls in schools/centres | M | H 4 | Differential levels of risk apply in different districts and communities. However, overall the likelihood of general and increasing uptake is assessed as reasonably good. Results from pilot studies and surveys support this. The importance of women will be a central message in all NESP III training and awareness-training activity, and will mitigate the risk. The impact of not achieving greater enrolments and completion for girls is serious, given the key role of women in social and economic development.
-Support offered to informal/formal private sector learners is not taken up by apprentices | L | M 2 | The strategy involves a switch of focus from supply to response to demand-side needs. Given the support and preparation that has already taken place, and the well-established nature of skills training systems, the risk is regarded as low, though uptake may vary according to location and field. Training and additional support for TVET instructors will mitigate risk.
+ | The professional quality of teachers is not raised by the support and training offered and does not improve student achievement | L | M | 2 | INSET training and support from academic supervision and SMT-trained principals will reduce this risk. The central focus in NESP III on results and relevance will reinforce the need for teachers and schools to be responsible for student achievement.
+ | Schools and learning centres do not receive sufficient support to establish appropriate safe and conducive standards for learning | L | M | 2 | Logistical difficulties can increase the risk of support (material and technical) reaching schools and centres. National leadership and local mobilisation will help reduce the risk. Consistent messages relating to a vision of support for learning, building the future for young learners will reduce impact.
+EA1. Increased equitable availability of responsive, safe and conducive learning and skills training opportunities | PED/DED staff capacity does not permit the development of feasible and coherent plans | M | M | 3 | Strategies will be deployed through NESP III and associated programmes (e.g. CBR) to raise local capacity. The decentralisation process will take time, but will be tracked through the NESP III monitoring system and additional support will be directed as needed through training and peer mentoring.
+ | MoE and DPs are unable to agree a sustainable level of support/unit costs for CBE/ALP pupils | L | M | 2 | This risk is perceived as low. NESP III has been developed with full participation from DPs, CSO and MoE staff. A determination to apply sustainable approaches is broadly agreed. More detailed negotiations and follow up monitoring and reporting will ensure the risk remains low. A transition period will allow phase in of a new harmonised cost and management framework.
+ | The level of support offered by MoE is not sufficient to attract sufficient female teachers to increase the number of girls in schools/centres | M | H | 4 | Differential levels of risk apply in different districts and communities. However, overall the likelihood of general and increasing uptake is assessed as reasonably good. Results from pilot studies and surveys support this. The importance of women will be a central message in all NESP III training and awareness-training activity, and will mitigate the risk. The impact of not achieving greater enrolments and completion for girls is serious, given the key role of women in social and economic development.
+ | Support offered to informal/formal private sector learners is not taken up by apprentices | L | M | 2 | The strategy involves a switch of focus from supply to response to demand-side needs. Given the support and preparation that has already taken place, and the well-established nature of skills training systems, the risk is regarded as low, though uptake may vary according to location and field. Training and additional support for TVET instructors will mitigate risk.
 
 68
 
@@ -2017,14 +2056,13 @@ Support offered to informal/formal private sector learners is not taken up by ap
 
 [[START OF PAGE 81]]
 
-Literacy programmes do not produce measurable improvements in national literacy rates | L | M | 2 Curriculum revisions and training for instructors will address the likelihood of occurrence. Greater focus on results reporting and monitoring against national targets will support also as will coordination of inputs through local leadership. The social and economic impact of persistent low literacy is appreciated.
---- | --- | --- | ---
-EA2. Increased community (and commitment and participation in education including TVET Community support for education does not result in improved learning achievement leading to employment Collection of contributions to education from local communities is seen as a form of central | L | M 2 | From experience, the likelihood of a general lack of support is regarded as low, though potential impact would be higher. It will require time for the provision of inputs to show results, and expectations will need to be managed through support for SMS, awareness- raising and SMT.
-parent) government revenue collection | M H | 4 | Transparent accounting and reporting of local contributions against resources provided will reduce risk. Development of local capacity to manage and disseminate recorded support will play an important role, and is included in NESP III strategic planning.
-Improved framework education service standards and responsibilities Institutional reforms are ineffective or disruptive and slow the pace of reform rather than increasing efficiencies Bureaucratic reforms fail to translate into improved service delivery in schools | M | M 3 | Major functional reforms will be supported through political leadership and transparent planning, as well as clear presentation of potential gains. Donor support will play a significant role. Expectations will be managed in view of possible delays in implementation. Risk will be mitigated through a broad approach to reform and consistent messages in NESP III.
-ETM1. institutional for delivery | M M | 3 | Capacity development at local levels will play an important role in risk reduction both of likelihood and impact. Differential levels of implementation are expected and performance will be monitored as critical mass is achieved. Training for PED/DED and principals, linked to CBR and other HR reforms will reinforce messages.
-with civil private sector, partners Partnership agreements do not result in greater efficiencies and more sustainable service delivery | M L | 2 | Once established it is estimated that the risk of agreements having a negative impact is low. There is some likelihood that drafting and implementing agreements, as a relatively new strategy, will take time to be taken up widely. Early successes (e.g. reporting of local community contributions, the impact of ICT, successful piloting of private printing and distribution of textbooks) will demonstrate potential of this approach.
-ETM2. Partnerships established society, the and development Agreements are seen as intrusion by government into private social or economic activity and reduce rather than stimulate expanded opportunity | L L | 2 | Risk is regarded as low. Support has established systems for local management and will be consolidated further by implementation of Citizen's Charter provisions. Awareness-raising and local capacity development linked to resource provision under NESP III will support.
+ | Literacy programmes do not produce measurable improvements in national literacy rates | L | M | 2 | Curriculum revisions and training for instructors will address the likelihood of occurrence. Greater focus on results reporting and monitoring against national targets will support also as will coordination of inputs through local leadership. The social and economic impact of persistent low literacy is appreciated.
+EA2. Increased community (and parent) commitment and participation in education including TVET | Community support for education does not result in improved learning achievement leading to employment | L | M | 2 | From experience, the likelihood of a general lack of support is regarded as low, though potential impact would be higher. It will require time for the provision of inputs to show results, and expectations will need to be managed through support for SMS, awareness-raising and SMT.
+ | Collection of contributions to education from local communities is seen as a form of central government revenue collection | M | H | 4 | Transparent accounting and reporting of local contributions against resources provided will reduce risk. Development of local capacity to manage and disseminate recorded support will play an important role, and is included in NESP III strategic planning.
+ETM1. Improved institutional framework for education service delivery standards and responsibilities | Institutional reforms are ineffective or disruptive and slow the pace of reform rather than increasing efficiencies | M | M | 3 | Major functional reforms will be supported through political leadership and transparent planning, as well as clear presentation of potential gains. Donor support will play a significant role. Expectations will be managed in view of possible delays in implementation. Risk will be mitigated through a broad approach to reform and consistent messages in NESP III.
+ | Bureaucratic reforms fail to translate into improved service delivery in schools | M | M | 3 | Capacity development at local levels will play an important role in risk reduction both of likelihood and impact. Differential levels of implementation are expected and performance will be monitored as critical mass is achieved. Training for PED/DED and principals, linked to CBR and other HR reforms will reinforce messages.
+ETM2. Partnerships established with civil society, the private sector, and development partners | Partnership agreements do not result in greater efficiencies and more sustainable service delivery | M | L | 2 | Once established it is estimated that the risk of agreements having a negative impact is low. There is some likelihood that drafting and implementing agreements, as a relatively new strategy, will take time to be taken up widely. Early successes (e.g. reporting of local community contributions, the impact of ICT, successful piloting of private printing and distribution of textbooks) will demonstrate potential of this approach.
+ | Agreements are seen as intrusion by government into private social or economic activity and reduce rather than stimulate expanded opportunity | L | L | 2 | Risk is regarded as low. Support has established systems for local management and will be consolidated further by implementation of Citizen's Charter provisions. Awareness-raising and local capacity development linked to resource provision under NESP III will support.
 
 69
 
@@ -2032,14 +2070,13 @@ ETM2. Partnerships established society, the and development Agreements are seen 
 
 [[START OF PAGE 82]]
 
-ETM3. Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE Custom and local conditions outweigh adherence to an objective national system There is insufficient confidence in reform to generate local demand for greater accountability and transparency Human resource reforms are insufficiently linked to performance results and operate as an unsustainable form of salary supplementation Monitoring that The collection of data for submission to central authority is regarded as a resource- consuming task which brings little local | H | M | 4 Differential perceptions of national reform programmes are expected to result in variable risk. Local capacity development, linked to transparent and reliable delivery of learning resources will reduce the likelihood of occurrence.
---- | --- | --- | ---
-M | H 5 | Risk will be mitigated through strong national and local leadership and consistent application of NESP III strategies and messages, disseminated through training programmes, etc. Local confidence in reforms will be increased iteratively as greater transparency and accountability are demonstrated.
-M | M 3 | Rapid introduction of broad CBR-backed recruitment and reform programmes will reduce the risk that HR reforms reproduce past patterns of support. Ministry leadership and dissemination of early successes can support and increase momentum. The potential risk of low achievement is at least medium since MoE would lack sustainable capacity.
-ETM4. and evaluation support decision- making strengthened benefit DPs regard data collected by MoE as unreliable and operate parallel monitoring systems which waste resources and weaken MoE capacity | M | M 3 | Introduction of ICT and local capacity development training and HR reforms can reduce likelihood and impact of this risk. Collection of manageable amounts of data through appropriate instruments will ensure local capacity to plan and act is not exceeded. Training and follow up support will reinforce local planning and implementation.
-L | M 2 | Strengthened partnership agreements form a basis of NESP III as well as a specific, monitored strategy. Project and programme design will reinforce international agreements to use common aligned host structures for data collection.
-Underlying factors Security situation deterioration in parts of the country negatively affect current service delivery model Sufficient financial resources could not be pledged/allocated by government and DPs in due time to support attainment of targets | M | L 2 | Community participation will be strengthened in design and delivery of education, CDCs will be given greater role in delivery and monitoring of local education services, CBE and Mosque-based education will be expanded,
-M | H 4 | Revise regulation to allow cost-sharing, mobilize greater community contribution, more effective/prioritized use of development funding, adopting more cost effective service delivery models, expand private schools, encourage donors to complement government budget to education
+ETM3. Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE | Custom and local conditions outweigh adherence to an objective national system | H | M | 4 | Differential perceptions of national reform programmes are expected to result in variable risk. Local capacity development, linked to transparent and reliable delivery of learning resources will reduce the likelihood of occurrence.
+ | There is insufficient confidence in reform to generate local demand for greater accountability and transparency | M | H | 5 | Risk will be mitigated through strong national and local leadership and consistent application of NESP III strategies and messages, disseminated through training programmes, etc. Local confidence in reforms will be increased iteratively as greater transparency and accountability are demonstrated.
+ | Human resource reforms are insufficiently linked to performance results and operate as an unsustainable form of salary supplementation | M | M | 3 | Rapid introduction of broad CBR-backed recruitment and reform programmes will reduce the risk that HR reforms reproduce past patterns of support. Ministry leadership and dissemination of early successes can support and increase momentum. The potential risk of low achievement is at least medium since MoE would lack sustainable capacity.
+ETM4. Monitoring and evaluation that support decision-making strengthened | The collection of data for submission to central authority is regarded as a resource-consuming task which brings little local benefit | M | M | 3 | Introduction of ICT and local capacity development training and HR reforms can reduce likelihood and impact of this risk. Collection of manageable amounts of data through appropriate instruments will ensure local capacity to plan and act is not exceeded. Training and follow up support will reinforce local planning and implementation.
+ | DPs regard data collected by MoE as unreliable and operate parallel monitoring systems which waste resources and weaken MoE capacity | L | M | 2 | Strengthened partnership agreements form a basis of NESP III as well as a specific, monitored strategy. Project and programme design will reinforce international agreements to use common aligned host structures for data collection.
+Underlying factors | Security situation deterioration in parts of the country negatively affect current service delivery model | M | L | 2 | Community participation will be strengthened in design and delivery of education, CDCs will be given greater role in delivery and monitoring of local education services, CBE and Mosque-based education will be expanded,
+ | Sufficient financial resources could not be pledged/allocated by government and DPs in due time to support attainment of targets | M | H | 4 | Revise regulation to allow cost-sharing, mobilize greater community contribution, more effective/prioritized use of development funding, adopting more cost effective service delivery models, expand private schools, encourage donors to complement government budget to education
 
 70
 
@@ -2059,13 +2096,15 @@ The objective of this development is to increase the efficiency of MoE's managem
 
 MoE  will  continue  systematically  to  collect  data  and  information  on  (1)  ordinary  and development  budget  execution,  (2)  implementation  of  activities,  and  3)  achieving  results according  to  the  NESP  III  and  the  Operational  Plans  indicators.  The  collected  data  and information will be used for reporting to the cabinet, Parliament and to the public for the improvement  of  plan  and  policy  implementation.  In  addition,  the  MoE  will  undertake evaluation  through  in-house  and  also  jointly  with  national  and  international  research organizations  commissioned  to  conduct  independent  studies  of  policy,  programme,  and project implementation to ensure effective, efficient, and sustainable execution and to apply lessons learned for the improvement of MoE policies. The Ministry will seek to enhance its capacity for research and evaluation as part of its capacity development programme.
 
-The Evaluation and Strategic Monitoring Directorate of the General Directorate of Planning and Evaluation will use the strategic Monitoring Matrix below to monitor trends in education growth and expansion (using revised curriculum standards, the assessment results carried out by learning assessment and teacher education departments, etc.). Joint annual reviews will be  organized  to  gauge  improvements  in  effectiveness  and  efficiency  of  programme implementations. Third party external evaluations will be commissioned for more in-depth evaluation of specific program areas based on the annual EJSR meeting. MoE with DPs will develop and implement strategies for third party monitoring as needed whether this is in insecure areas or when third party assurance is required for specific cases (e.g. construction of schools, independent verification of EMIS data, etc.).
+The Evaluation and Strategic Monitoring Directorate of the General Directorate of Planning and Evaluation will use the strategic Monitoring Matrix below to monitor trends in education
 
 71
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
+
+growth and expansion (using revised curriculum standards, the assessment results carried out by learning assessment and teacher education departments, etc.). Joint annual reviews will be organized to gauge improvements in effectiveness and efficiency of programme implementations. Third party external evaluations will be commissioned for more in-depth evaluation of specific program areas based on the annual EJSR meeting. MoE with DPs will develop and implement strategies for third party monitoring as needed whether this is in insecure areas or when third party assurance is required for specific cases (e.g. construction of schools, independent verification of EMIS data, etc.).
 
 As  indicated  throughout  this  document,  the  private  sector  will  have  greater  role  in implementation of NESP III. Regulations governing operation of private schools will be revised to  encourage  and  facilitate  more  private  investment  in  education  and  simultaneously  to introduce  stricter  M&E  rules  to  ensure  the  quality  of  services  are  in  compliance  with  set standards. An independent Directorate has been established to oversee private schools with the  objective  of  improving  coordination  and  management.  In  addition,  there  will  be  new initiatives to monitor the results of outsourcing school construction and textbook printing and distribution through the private sector
 
@@ -2079,13 +2118,15 @@ A focus for the strengthening of the reporting process will be the Annual Educat
 
 Enhancement of education quality and relevance are priorities for NESP III, as demonstrated by the overall budget allocation and the monitoring indicators and targets. Two key strategies will be to strengthen the supervision system and also the system for assessment of student learning  achievement.  It  is  acknowledged  that  current  arrangements  do  not  yet  provide reliable  information  on  knowledge  and  skills  acquired  through  education  and  training  for parents, employers and students themselves. MoE needs this information also in order to assess  the  effectiveness  of  its  programmes.  To  address  this  issue,  a  Learning  Assessment Directorate has been established under the General Directorate of Academic Supervision with responsibility for monitoring learning outcomes. This department will work jointly with the Curriculum  Department and with Teacher Education to design a framework and tools for assessment of student learning outcomes.
 
-Establishment of a comprehensive assessment system has been initiated with the help of international  experts.  During  the  NESP  III  period  the  key  criterion  for  strengthening  this system will  be  its  sustainable  use  by  MoE  staff  (and  teachers).  After  further  trialling,  the integrated  framework  and  tools  for  assessment  of  student  learning  outcomes  will  be deployed in phases across all schools and learning centres, and information on enhanced performance will be used to provide a renewed focus for subsequent quality and relevance improvement.
+Establishment of a comprehensive assessment system has been initiated with the help of international experts. During the NESP III period the key criterion for strengthening this
 
 72
 
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
+
+system will be its sustainable use by MoE staff (and teachers). After further trialling, the integrated framework and tools for assessment of student learning outcomes will be deployed in phases across all schools and learning centres, and information on enhanced performance will be used to provide a renewed focus for subsequent quality and relevance improvement.
 
 ### 6.10.6 Monitoring Teacher Performance
 
@@ -2103,21 +2144,22 @@ The following pages present  a  comprehensive monitoring  matrix  with annual  t
 
 [[START OF PAGE 86]]
 
-SECTOR MONITORING
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Long-term | Sector Outcome Indicators | MATRIX Targets | Means of Verification | Responsibility for reporting
-Outcome | Baseline | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021)
-QR1. The capacity of the education system to develop and monitor student attainment relevant to individual and social needs is improved | Percentage of Curriculum Framework developed/revised | IE | Grades 1, 4, 7, 10 | Grades 2, 5, 8, 11 | Grades 3, 6, 9, 12 | TVET, Preschool | Progress Report | CD
-Percentage of National Standards for learning outcomes developed | 25% TVET | GE, Lit | Pre-School | 75% TVET | 100% TVET | Progress Report | CD
-No of trained curriculum developers | 25 | 75 | 75 | 25 | Evaluation Report | CD
-No of trained members of science centre | 40 | 40 | 40 | 80 | Evaluation Report | SC
-Percentage of textbooks/guides revised | n.a. | Textbook titles: 25% Trs guides: 25% | Textbook titles: 50% Trs guides: 50% | Textbook titles: 100% Trs guides: 100% | EMIS annual report | Curriculum Dept. TED
-% national student learning assessment system developed | Baseline to be determined | 50% | 100% | Annual reports | DGE
-% of schools/centres where learning assessment is implemented | n.a. | 10% | 30% | 70% | 100% | 100% | Annual reports | DGE
-% of schools with science laboratory (GE) | 25.9% (2015) | 40.7% | 55.5% | EMIS annual report | DGE
-% of schools with ICT centre (GE) | 0.5% (2015) | 18.4% | 36.3% | EMIS annual report | DGE
-% of schools with library (GE) | 10% (2015) | 23% | 36% | EMIS annual report
-Ave. number of workshops per TVET school/institute | 0.2 | 0.3 | 0.5 | EMIS annual report
+SECTOR MONITORING MATRIX
+
+Long-term Outcome | Sector Outcome Indicators | Baseline | Targets |  |  |  |  | Means of Verification | Responsibility for reporting
+ |  |  | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+QR1. The capacity of the education system to develop and monitor student attainment relevant to individual and social needs is improved | Percentage of Curriculum Framework developed/revised |  | IE | Grades 1, 4, 7, 10 | Grades 2, 5, 8, 11 | Grades 3, 6, 9, 12 | TVET, Preschool | Progress Report | CD
+ | Percentage of National Standards for learning outcomes developed |  | 25% TVET | GE, Lit | Pre-School | 75% TVET | 100% TVET | Progress Report | CD
+ | No of trained curriculum developers |  | 25 | 75 | 75 | 25 |  | Evaluation Report | CD
+ | No of trained members of science centre |  | 40 | 40 | 40 | 80 |  | Evaluation Report | SC
+ | Percentage of textbooks/guides revised | n.a. | Textbook titles: 25% Trs guides: 25% | Textbook titles: 50% Trs guides: 50% | Textbook titles: 100% Trs guides: 100% |  |  | EMIS annual report | Curriculum Dept. TED
+ | % national student learning assessment system developed | Baseline to be determined | 50% | 100% |  |  |  | Annual reports | DGE
+ | % of schools/centres where learning assessment is implemented | n.a. | 10% | 30% | 70% | 100% | 100% | Annual reports | DGE
+ | % of schools with science laboratory (GE) | 25.9% (2015) |  | 40.7% |  |  | 55.5% | EMIS annual report | DGE
+ | % of schools with ICT centre (GE) | 0.5% (2015) |  | 18.4% |  |  | 36.3% | EMIS annual report | DGE
+ | % of schools with library (GE) | 10% (2015) |  | 23% |  |  | 36% | EMIS annual report | DGE
+ | Ave. number of workshops per TVET school/institute | 0.2 |  | 0.3 |  |  | 0.5 | EMIS annual report |
 
 74
 
@@ -2125,19 +2167,18 @@ Ave. number of workshops per TVET school/institute | 0.2 | 0.3 | 0.5 | EMIS annu
 
 [[START OF PAGE 87]]
 
-QR2. The capacity of schools/learnin | Primary survival rate | M: 84.7% F: 84.2% (2010/11) | M:85.1% F: 84.8% (Projection) | M:85.4% F:85.1% | M:85.6% F:85.4% | M:85.8% F:85.7% | M:86.0% F:86.0% | ALCS Report | CSO
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-g centers to promote | Ave. Dropout rate GE (G1-G12) | M: 6.2% F: 5.9% | M: 6.1% F: 5.9% | M: 6% F: 5.9% | M: 5.9% F: 5.9% | M: 5.8% F: 5.9% | M: 5.7% F: 5.9% | EMIS annual report | DPE
-student/learner attainment is | Ave. Repetition rate GE (G1-G12) | M: 15.8% F: 15% | M: 14.4% F: 14.0% | M: 13.7% F: 13.5% | M: 12.9% F: 13.0% | M: 12.2% F: 12.5% | M: 11.5% F: 12.0% | EMIS annual report | DPE
-improved | Ave. Promotion rate GE (G1-G12) | M: 78% F: 79% | M: 78% F: 79.5% | M: 78% F: 80% | M: 78% F: 80.5% | M: 78% F: 81% | M: 78% F: 81.4% | EMIS annual report | DPE
-Number of credentialed teachers (GE) | n.a. | 10,000 | 25,000 | 45,000 | 70,000 | 100,000 | EMIS annual report | TED
-Schools with Principals trained on SMT courses | 7,000 (EQUIP semi- annual report 2013) | 9,000 | 12,000 | 15,000 | 18,000 | 22,000 | EMIS annual report | HRD TED DGE
-Textbook to pupil ratio Primary | 4.1 | 7 | 7 | EMIS annual report | DPE
-Textbook to pupil ratio Lower Secondary | 6.1 | 10 | 10 | EMIS annual report | DPE
-Textbook to pupil ratio Upper Secondary | 7.1 | 14 | 14 | EMIS annual report | DPE
-Ratio of teacher's guides to teachers (GE) | 5 | 6 | 6 | 7 | 7 | 8 | EMIS annual report | Curriculum Dept.
-% of fully credentialed principals | 23% | 33% | 38% | 44% | 49% | 54% | EMIS annual report | HRD, TED, DGE
-Total enrolment in pre-primary (public & private, 6 year olds) | 30,993 F: 16,852 M: 14,141 | 40,532 F: 21,561 M: 18,971 | 50,083 F: 26, 274 M: 23,809 | 59,647 F: 30, 993 M: 28,654 | 69,224 F: 35, 718 M: 33,506 | 78,813 F: 40, 447 M: 38,366 | EMIS annual report | DGE
+QR2. The capacity of schools/learning centers to promote student/learner attainment is improved | Primary survival rate | M: 84.7% F: 84.2% (2010/11) | M:85.1% F: 84.8% (Projection) | M:85.4% F:85.1% | M:85.6% F:85.4% | M:85.8% F:85.7% | M:86.0% F:86.0% | ALCS Report | CSO
+ | Ave. Dropout rate GE (G1-G12) | M: 6.2% F: 5.9% | M: 6.1% F: 5.9% | M: 6% F: 5.9% | M: 5.9% F: 5.9% | M: 5.8% F: 5.9% | M: 5.7% F: 5.9% | EMIS annual report | DPE
+ | Ave. Repetition rate GE (G1-G12) | M: 15.8% F: 15% | M: 14.4% F: 14.0% | M: 13.7% F: 13.5% | M: 12.9% F: 13.0% | M: 12.2% F: 12.5% | M: 11.5% F: 12.0% | EMIS annual report | DPE
+ | Ave. Promotion rate GE (G1-G12) | M: 78% F: 79% | M: 78% F: 79.5% | M: 78% F: 80% | M: 78% F: 80.5% | M: 78% F: 81% | M: 78% F: 81.4% | EMIS annual report | DPE
+ | Number of credentialed teachers (GE) | n.a. | 10,000 | 25,000 | 45,000 | 70,000 | 100,000 | EMIS annual report | TED
+ | Schools with Principals trained on SMT courses | 7,000 (EQUIP semi-annual report 2013) | 9,000 | 12,000 | 15,000 | 18,000 | 22,000 | EMIS annual report | HRD TED DGE
+ | Textbook to pupil ratio Primary | 4.1 |  | 7 |  |  | 7 | EMIS annual report | DPE
+ | Textbook to pupil ratio Lower Secondary | 6.1 |  | 10 |  |  | 10 | EMIS annual report | DPE
+ | Textbook to pupil ratio Upper Secondary | 7.1 |  | 14 |  |  | 14 | EMIS annual report | DPE
+ | Ratio of teacher's guides to teachers (GE) | 5 | 6 | 6 | 7 | 7 | 8 | EMIS annual report | Curriculum Dept.
+ | % of fully credentialed principals | 23% | 33% | 38% | 44% | 49% | 54% | EMIS annual report | HRD, TED, DGE
+ | Total enrolment in pre-primary (public & private, 6 year olds) | 30,993 F: 16,852 M: 14,141 | 40,532 F: 21,561 M: 18,971 | 50,083 F: 26, 274 M: 23,809 | 59,647 F: 30, 993 M: 28,654 | 69,224 F: 35, 718 M: 33,506 | 78,813 F: 40, 447 M: 38,366 | EMIS annual report | DGE
 
 75
 
@@ -2145,16 +2186,15 @@ Total enrolment in pre-primary (public & private, 6 year olds) | 30,993 F: 16,85
 
 [[START OF PAGE 88]]
 
-EA1. Increased equitable availability of | Number of children in CBE classes (000) | T: 333.8 (2015) F: 50% M: 50% | T: 366.9 F: 50% M: 50% | T:376.4 F:50% M:50% | T:399.3 F:50% M:50% | T: 443.5 F: 50% M: 50% | T:519.1 F:50% M:50% | EMIS annual report | DGE
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-responsive, safe and conducive and | Primary GER (total enrolments) | 112.4% M: 131.2% F: 92.7% | 114.1% M: 131.3% F: 96.0% | 116.6% M: 132.0% F: 100.5% | 120.3% M:133.5% F: 106.4% | 125.2% M: 136.0% F: 113.9% | 131.6% M:139.6% F: 123.3% | EMIS annual report | DPE
-learning skills training opportunities | Primary (G1) intake rate | 98.6% M:116% F: 80% | 103% M:117.7% F:81.4% | 106% M:118.3% F:82.0% | 108% M:118.9% F:82.7% | 110% M;119.6% F:83.3% | 112% M:120.2% F:84% | EMIS annual report | DPE DGE
-Primary completion rate | 50.2% M: 58.1% F: 40.3% (2013/14) | 51.8% M:59.7% F: 42.7% (Projection) | 52.6% M:60.5% F:43.8% | 53.3% M:61.3% F:45.0% | 54.1% M:62.1% F:46.2% | 54.9% M:62.9% F:47.4% | ALCS Report 2013/14 | CSO
-Lower Secondary GER (total enrolments) | 71.2% M: 87.5% F: 54.0% | 76.6% M: 92.3% F: 60.0% | 82.5% M: 97.1% F: 67.2% | 88.0% M: 100.9% F: 74.3% | 92.4% M: 103.4% F: 80.9% | 95.4% M: 104.1% F: 86.1% | EMIS annual report | DPE
-Upper Secondary GER (total enrolments) | 44.1% M: 56.4% F: 31.0% | 46.3% M: 58.0% F: 33.8% | 49.4% M: 60.6% F: 37.6% | 53.6% M: 64.4% F: 42.3% | 59.0% M: 69.3% F: 48.3% | 65.4% M: 74.6% F: 55.6% | EMIS annual report | DPE
-Basic Ed. GER (total enrolments) | 98.6% M: 116.8% F: 79.4% | 99.1% M: 117% F: 80.3% | 99.4% M: 117% F: 80.9% | 99.5% M: 117% F: 81.1% | 99.4% M: 116.8% 81.1% | 99.2% M: 116.5% F: 80.9% | EMIS annual report | DPE
-Basic Ed. NER | 59.6% M:72.0% F:46.1% | 63.1% M:75.2% F:49.9% | 66.5% M: 78.5% F: 54.1% | 69.4% M:80.8% F:57.5% | 71.2% M:82.0% F:60.0% | 71.8% M: 81.8% F: 61.3% | EMIS annual report | DPE
-Transition to Lower Secondary | 96.5% M: 96.7% F: 95.9% (2013/14) | 96.7% M:96.9% F:96.0% (Projection) | 96.8% M:97.0% F:96.1% | 96.9% M:97.0% F:96.2% | 97.0% M:97.1% F:96.3% | 97.1% M:97.2% F:96.3% | ALCS Report 2013/14 | CSO
+EA1. Increased equitable availability of responsive, safe and conducive learning and skills training opportunities | Number of children in CBE classes (000) | T: 333.8 (2015) F: 50% M: 50% | T: 366.9 F: 50% M: 50% | T:376.4 F:50% M:50% | T:399.3 F:50% M:50% | T: 443.5 F: 50% M: 50% | T:519.1 F:50% M:50% | EMIS annual report | DGE
+ | Primary GER (total enrolments) | 112.4% M: 131.2% F: 92.7% | 114.1% M: 131.3% F: 96.0% | 116.6% M: 132.0% F: 100.5% | 120.3% M:133.5% F: 106.4% | 125.2% M: 136.0% F: 113.9% | 131.6% M:139.6% F: 123.3% | EMIS annual report | DPE
+ | Primary (G1) intake rate | 98.6% M:116% F: 80% | 103% M:117.7% F:81.4% | 106% M:118.3% F:82.0% | 108% M:118.9% F:82.7% | 110% M;119.6% F:83.3% | 112% M:120.2% F:84% | EMIS annual report | DPE DGE
+ | Primary completion rate | 50.2% M: 58.1% F: 40.3% (2013/14) | 51.8% M:59.7% F: 42.7% (Projection) | 52.6% M:60.5% F:43.8% | 53.3% M:61.3% F:45.0% | 54.1% M:62.1% F:46.2% | 54.9% M:62.9% F:47.4% | ALCS Report 2013/14 | CSO
+ | Lower Secondary GER (total enrolments) | 71.2% M: 87.5% F: 54.0% | 76.6% M: 92.3% F: 60.0% | 82.5% M: 97.1% F: 67.2% | 88.0% M: 100.9% F: 74.3% | 92.4% M: 103.4% F: 80.9% | 95.4% M: 104.1% F: 86.1% | EMIS annual report | DPE
+ | Upper Secondary GER (total enrolments) | 44.1% M: 56.4% F: 31.0% | 46.3% M: 58.0% F: 33.8% | 49.4% M: 60.6% F: 37.6% | 53.6% M: 64.4% F: 42.3% | 59.0% M: 69.3% F: 48.3% | 65.4% M: 74.6% F: 55.6% | EMIS annual report | DPE
+ | Basic Ed. GER (total enrolments) | 98.6% M: 116.8% F: 79.4% | 99.1% M: 117% F: 80.3% | 99.4% M: 117% F: 80.9% | 99.5% M: 117% F: 81.1% | 99.4% M: 116.8% 81.1% | 99.2% M: 116.5% F: 80.9% | EMIS annual report | DPE
+ | Basic Ed. NER | 59.6% M:72.0% F:46.1% | 63.1% M:75.2% F:49.9% | 66.5% M: 78.5% F: 54.1% | 69.4% M:80.8% F:57.5% | 71.2% M:82.0% F:60.0% | 71.8% M: 81.8% F: 61.3% | EMIS annual report | DPE
+ | Transition to Lower Secondary | 96.5% M: 96.7% F: 95.9% (2013/14) | 96.7% M:96.9% F:96.0% (Projection) | 96.8% M:97.0% F:96.1% | 96.9% M:97.0% F:96.2% | 97.0% M:97.1% F:96.3% | 97.1% M:97.2% F:96.3% | ALCS Report 2013/14 | CSO
 
 76
 
@@ -2162,21 +2202,20 @@ Transition to Lower Secondary | 96.5% M: 96.7% F: 95.9% (2013/14) | 96.7% M:96.9
 
 [[START OF PAGE 89]]
 
-Gender parity index for Primary GER | 0.67 (2015) | 0.69 | 0.71 | 0.73 | 0.75 | 0.77 EMIS annual report | DPE
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Gender parity index for Lower Secondary GER | 0.57 (2015) | 0.63 | 0.65 | 0.66 | 0.68 | 0.69 EMIS annual report | DPE
-Gender parity index for Upper Secondary GER | 0.52 (2015) | 0.55 | 0.57 | 0.60 | 0.62 | 0.64 EMIS annual report | DPE
-Total enrolment in TVET (000) | 81.5 (2015) | 82.4 | 94.0 | 109.0 | 127.7 | 153.6 EMIS annual report DM | TVET
-% female enrolment in TVET | 17.1% (2015) | 18.9% | 20.7% | 22.4% | 24.2% | 25.9% EMIS annual report DM | TVET
-% of classrooms used for double shift (GE) | 47.3% (2015) | 48.7% | 49.4% | 50.1% | 50.8% | 51.5% EMIS annual report | DGE
-% of classrooms used for triple shift (GE) | 10.6% (2015) | 9.2% | 8.5% | 7.8% | 7.1% | 6.4% EMIS annual report | DGE
-% of female teachers in GE | 33.3% (2015) | 35.1% | 36.5% | 37.9% | 39.3% | 40.7% EMIS annual report | TED
-Number of female teachers recruited (all programmes) | 205,185 | 219,000 | 226,000 | 233,000 | 240,000 | 247,000 EMIS annual report | TED
-Pupil/classroom ratio | 89.8 | 87.5 | 84.7 | 81.9 | 79.3 | 76.3 EMIS annual report | DGE
-% of classes in tents, non-owned or without facilities (GE) | 23.3% (2015) | 18.6% | 14% EMIS annual report | DGE
-Number of literacy learners (000) | 404.4 F: 53.9% | 300.0 F: 56.2% | 315.0 F: 57.5% | 330.0 F: 58.7% | 347.0 60.0% 365.0 F: 60.0% | Annual reports | DM Lit
-% of literacy course graduates | T: 55% (est.) F: 54% | T: 57.0% F: 56.0% | T: 59.0% F: 58.0% | T: 61.0% F: 59.0% | 63.0% 60.0% T: F: | 65% 60.0% | Annual reports | DM Lit
-Textbooks to be distributed (GE) | 12,819,279 | 15,874,502 | 12,110,762 | 12,797,912 | 13,216,777 | 13,354,957 | Annual reports | DPub
+ | Gender parity index for Primary GER | 0.67 (2015) | 0.69 | 0.71 | 0.73 | 0.75 | 0.77 | EMIS annual report | DPE
+ | Gender parity index for Lower Secondary GER | 0.57 (2015) | 0.63 | 0.65 | 0.66 | 0.68 | 0.69 | EMIS annual report | DPE
+ | Gender parity index for Upper Secondary GER | 0.52 (2015) | 0.55 | 0.57 | 0.60 | 0.62 | 0.64 | EMIS annual report | DPE
+ | Total enrolment in TVET (000) | 81.5 (2015) | 82.4 | 94.0 | 109.0 | 127.7 | 153.6 | EMIS annual report | DM TVET
+ | % female enrolment in TVET | 17.1% (2015) | 18.9% | 20.7% | 22.4% | 24.2% | 25.9% | EMIS annual report | DM TVET
+ | % of classrooms used for double shift (GE) | 47.3% (2015) | 48.7% | 49.4% | 50.1% | 50.8% | 51.5% | EMIS annual report | DGE
+ | % of classrooms used for triple shift (GE) | 10.6% (2015) | 9.2% | 8.5% | 7.8% | 7.1% | 6.4% | EMIS annual report | DGE
+ | % of female teachers in GE | 33.3% (2015) | 35.1% | 36.5% | 37.9% | 39.3% | 40.7% | EMIS annual report | TED
+ | Number of female teachers recruited (all programmes) | 205,185 | 219,000 | 226,000 | 233,000 | 240,000 | 247,000 | EMIS annual report | TED
+ | Pupil/classroom ratio | 89.8 | 87.5 | 84.7 | 81.9 | 79.3 | 76.3 | EMIS annual report | DGE
+ | % of classes in tents, non-owned or without facilities (GE) | 23.3% (2015) |  | 18.6% |  |  | 14% | EMIS annual report | DGE
+ | Number of literacy learners (000) | 404.4 F: 53.9% | 300.0 F: 56.2% | 315.0 F: 57.5% | 330.0 F: 58.7% | 347.0 F: 60.0% | 365.0 F: 60.0% | Annual reports | DM Lit
+ | % of literacy course graduates | T: 55% (est.) F: 54% | T: 57.0% F: 56.0% | T: 59.0% F: 58.0% | T: 61.0% F: 59.0% | T: 63.0% F: 60.0% | T: 65% F: 60.0% | Annual reports | DM Lit
+ | Textbooks to be distributed (GE) | 12,819,279 | 15,874,502 | 12,110,762 | 12,797,912 | 13,216,777 | 13,354,957 | Annual reports | DPub
 
 77
 
@@ -2184,18 +2223,17 @@ Textbooks to be distributed (GE) | 12,819,279 | 15,874,502 | 12,110,762 | 12,797
 
 [[START OF PAGE 90]]
 
-Textbooks to be distributed (IE) | 732 | 838 | 604 | 600 | 600 | 604 | Annual reports | DPub
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Textbooks to be distributed (TVET) | 470 | 581 | 441 | 468 | 485 | 492 | Annual reports | DPub
-% of literacy centres benefit from new learning materials | n.a. | 10% | 10% | 80% | 100%
-EA2. Increased community (and parent) | Number of schools with trained School Management Shura | GE: 657 IE: 217 TVET: TBD | GE: +2.000 IE: +100 TVET: +50 | GE: +5.000 IE: +250 TVET: +100 | GE: +8,000 IE: +450 TVET: +150 | GE: +11,000 IE: +700 TVET: 250 | GE: +15,000 IE: +1,000 TVET: +300 | EMIS annual report | DSMS
-commitment and participation in | Number of districts covered by mobilisation/ awareness programmes | 43/10% | 120/28% | 196/46% | 273/64% | 350/82% | 427/100% | EMIS annual report | DSMS
-education including TVET | Number of schools/ centres with Ed. in Emergencies programmes | Baseline to be determined | GE: +2.000 IE: +100 TVET: +50 | GE: +5.000 IE: +250 TVET: +100 | GE: +8,000 IE: +450 TVET: +150 | GE: +11,000 IE: +700 TVET: 250 | GE: +15,000 IE: +1,000 TVET: +300 | EMIS annual report | DGE DPE
-Number of active School Management Shura | Total: 7,234 out of 14,684 (EQUIP report 2015) | Total: 8,609 Out of 15,274 | Total: 9,480 Out of 16,001 | Total: 10,395 Out of 16,733 | Total: 11,356 Out of 17,470 | Total: 11,838 Out of 18,212 | Annual Reports | DSMS
-ETM1. Improved | Education policy development process & guidelines | Baseline to be determined | 100% | Annual Reports | Minister/DMs
-institutional framework for | % of MoE revised functional review framework completed | 10% | 50% | 100% | Annual Reports | Minister/DMs DPE, HRM
-education service delivery standards and responsibilities | % of MoE Depts. with clear responsibilities and operational procedures | 10% | 20% | 40% | 70% | 100% | Annual Reports | Minister/DMs DPE, HRM
-ETM2. Partnerships established | % of legislation/ regulation for partnership agreement protocols completed | 20% | 50% | 100% | EMIS annual report | DPE
+ | Textbooks to be distributed (IE) | 732 | 838 | 604 | 600 | 600 | 604 | Annual reports | DPub
+ | Textbooks to be distributed (TVET) | 470 | 581 | 441 | 468 | 485 | 492 | Annual reports | DPub
+ | % of literacy centres benefit from new learning materials | n.a. | 10% | 10% | 80% | 100% |  |  | 
+EA2. Increased community (and parent) commitment and participation in education including TVET | Number of schools with trained School Management Shura | GE: 657 IE: 217 TVET: TBD | GE: +2.000 IE: +100 TVET: +50 | GE: +5.000 IE: +250 TVET: +100 | GE: +8,000 IE: +450 TVET: +150 | GE: +11,000 IE: +700 TVET: 250 | GE: +15,000 IE: +1,000 TVET: +300 | EMIS annual report | DSMS
+ | Number of districts covered by mobilisation/ awareness programmes | 43/10% | 120/28% | 196/46% | 273/64% | 350/82% | 427/100% | EMIS annual report | DSMS
+ | Number of schools/ centres with Ed. in Emergencies programmes | Baseline to be determined | GE: +2.000 IE: +100 TVET: +50 | GE: +5.000 IE: +250 TVET: +100 | GE: +8,000 IE: +450 TVET: +150 | GE: +11,000 IE: +700 TVET: 250 | GE: +15,000 IE: +1,000 TVET: +300 | EMIS annual report | DGE DPE
+ | Number of active School Management Shura | Total: 7,234 out of 14,684 (EQUIP report 2015) | Total: 8,609 Out of 15,274 | Total: 9,480 Out of 16,001 | Total: 10,395 Out of 16,733 | Total: 11,356 Out of 17,470 | Total: 11,838 Out of 18,212 | Annual Reports | DSMS
+ETM1. Improved institutional framework for education service delivery standards and responsibilities | Education policy development process & guidelines | Baseline to be determined | 100% |  |  |  |  | Annual Reports | Minister/DMs
+ | % of MoE revised functional review framework completed | 10% | 50% | 100% |  |  |  | Annual Reports | Minister/DMs DPE, HRM
+ | % of MoE Depts. with clear responsibilities and operational procedures | 10% | 20% | 40% | 70% | 100% |  | Annual Reports | Minister/DMs DPE, HRM
+ETM2. Partnerships established | % of legislation/ regulation for partnership agreement protocols completed | 20% | 50% | 100% |  |  |  | EMIS annual report | DPE
 
 78
 
@@ -2203,17 +2241,16 @@ ETM2. Partnerships established | % of legislation/ regulation for partnership ag
 
 [[START OF PAGE 91]]
 
-with civil society, the private sector, and development partners | % of CSOs, private organisations, DPs operating with signed partnership protocols | CSOs: 10% PS: 5% DPs: 25% | CSOs: 40% PS: 25% DPs: 40% | CSOs: 70% PS: 50% DPs: 70% | CSOs: 100% PS: 100% DPs: 100% | EMIS annual report | DPE
---- | --- | --- | --- | --- | --- | --- | --- | ---
-% of system for equitable allocation of resources developed and approved | 20% | 100% | EMIS annual report | DPE DFin
-ETM3. | Number of provinces using new results/norm based systems for annual planning | Baseline to be determined | 15 | 25 | 35 | EMIS annual report | DPE DFin
-Resources (including human resources) | Number of provinces applying equitable per student allocations of budget | Baseline to be determined | 15 | 25 | 35 | EMIS annual report | DPE DFin
-are used effectively | % of revised HRMIS system fully functioning | 10% | 40% | 80% | 100% | Annual staff reports | HRM
-and accounted for | % of HR assessment and capacity development plan approved | 10% | 100% | Annual Reports | HRM DPE
-transparently at all levels and | % of (externally funded) NTA fully integrated into tashkil system | 25% | 75% | 100% | Annual staff reports | HRM DPE
-anti-corruption improved | Number of MoE staff with completed MA | Baseline to be determined | +250 | +375 | +400 | +325 | +300 Annual staff reports | HRM
-within the MoE | Percentage of MoE staff at all levels with skills matching functional ToRs | Baseline to be determined | 25% | 50% | 100% | Annual staff reports | HRM AFMIS
-% of new transparency, accountability, and anti-corruption system adopted | Baseline to be determined | 100% | Annual Reports | Minister/DMs DPE, HRM
+with civil society, the private sector, and development partners | % of CSOs, private organisations, DPs operating with signed partnership protocols | CSOs: 10% PS: 5% DPs: 25% | CSOs: 40% PS: 25% DPs: 40% | CSOs: 70% PS: 50% DPs: 70% | CSOs: 100% PS: 100% DPs: 100% |  |  | EMIS annual report | DPE
+ETM3. Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE | % of system for equitable allocation of resources developed and approved | 20% | 100% |  |  |  |  | EMIS annual report | DPE DFin
+ | Number of provinces using new results/norm based systems for annual planning | Baseline to be determined | 15 | 25 | 35 |  |  | EMIS annual report | DPE DFin
+ | Number of provinces applying equitable per student allocations of budget | Baseline to be determined | 15 | 25 | 35 |  |  | EMIS annual report | DPE DFin
+ | % of revised HRMIS system fully functioning | 10% | 40% | 80% | 100% |  |  | Annual staff reports | HRM
+ | % of HR assessment and capacity development plan approved | 10% | 100% |  |  |  |  | Annual Reports | HRM DPE
+ | % of (externally funded) NTA fully integrated into tashkil system | 25% | 75% | 100% |  |  |  | Annual staff reports | HRM DPE
+ | Number of MoE staff with completed MA | Baseline to be determined | +250 | +375 | +400 | +325 | +300 | Annual staff reports | HRM
+ | Percentage of MoE staff at all levels with skills matching functional ToRs | Baseline to be determined | 25% | 50% | 100% |  |  | Annual staff reports | HRM AFMIS
+ | % of new transparency, accountability, and anti-corruption system adopted | Baseline to be determined | 100% |  |  |  |  | Annual Reports | Minister/DMs DPE, HRM
 
 79
 
@@ -2221,16 +2258,15 @@ within the MoE | Percentage of MoE staff at all levels with skills matching func
 
 [[START OF PAGE 92]]
 
-Annual/Bi-annual audits completed | National Commission | National Commission | National Commissio n 3rd Party Audit | National Commissio n 3rd Party Audit | National Commission 3rd Party Audit | National Commission 3rd Party Audit | Audit reports | Internal Audit Dept.
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Number of schools, DEDs, PEDs with public notice boards showing up-to- date accounts, plans, etc. | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | EMIS annual report | DGE DSMS
-ETM4. Monitoring and evaluation that | Number of participants at Education Annual Joint Sector Reviews from MoE (incl. provinces), other Ministries, DPs, CSOs, etc. | MoE: 20 Other Ministries: 2 DPs: 10 CSOs: 2 | MoE: 30 Other Ministries: DPs: 15 CSOs: 5 | 5 MoE: 40 Other Ministries: 5 DPs: 20 CSOs: 10 | MoE: 50 Other Ministries: 5 DPs: 20 CSOs: 10 | MoE: 60 Other Ministries: DPs: 20 CSOs: 10 | 5 MoE: 70 Other Ministries: 10 DPs: 20 CSOs: 15 | EJSR workshop report | DPE
-support decision- | Percentage of schools with school maps | Baseline to be determined | 50% | 70% | 100% | EMIS annual report | DPE GE (Ac. Sp)
-making strengthened | No of school Shuras that conduct annual EJSR at school level | Baseline to be determined | 5,000 | 6,500 | 8,000 | 10,000 | 11,500 | EMIS annual report | DGE DPE
-Number of OOS children identified by Province, District | Disaggregated baseline suggests 3.5m total | To be determined | To be determine d | To be determine d | To be determined | To be determined | EMIS annual report | DGE DPE
-Number of DEDs using ICT to collect/manage/ report data | Baseline to be determined | 50% | 70% | 100% | EMIS annual report | DPE
-Percentage of PEDs regularly submitting reports via ICT | Baseline to be determined | 75% | 100% | EMIS annual report | DPE
-Number of fully trained Academic Supervisors | 500 | 1000 | 2000 | 3000 | 4000 | 5000 | EMIS annual report | DGE (Acad. Supervision)
+ | Annual/Bi-annual audits completed | National Commission | National Commission | National Commission 3rd Party Audit | National Commission 3rd Party Audit | National Commission 3rd Party Audit | National Commission 3rd Party Audit | Audit reports | Internal Audit Dept.
+ | Number of schools, DEDs, PEDs with public notice boards showing up-to-date accounts, plans, etc. | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | Schools: TBD DEDs: TBD PEDs: TBD | EMIS annual report | DGE DSMS
+ETM4. Monitoring and evaluation that support decision-making strengthened | Number of participants at Education Annual Joint Sector Reviews from MoE (incl. provinces), other Ministries, DPs, CSOs, etc. | MoE: 20 Other Ministries: 2 DPs: 10 CSOs: 2 | MoE: 30 Other Ministries: 5 DPs: 15 CSOs: 5 | MoE: 40 Other Ministries: 5 DPs: 20 CSOs: 10 | MoE: 50 Other Ministries: 5 DPs: 20 CSOs: 10 | MoE: 60 Other Ministries: 5 DPs: 20 CSOs: 10 | MoE: 70 Other Ministries: 10 DPs: 20 CSOs: 15 | EJSR workshop report | DPE
+ | Percentage of schools with school maps | Baseline to be determined |  | 50% | 70% | 100% |  | EMIS annual report | DPE GE (Ac. Sp)
+ | No of school Shuras that conduct annual EJSR at school level | Baseline to be determined | 5,000 | 6,500 | 8,000 | 10,000 | 11,500 | EMIS annual report | DGE DPE
+ | Number of OOS children identified by Province, District | Disaggregated baseline suggests 3.5m total | To be determined | To be determined | To be determined | To be determined | To be determined | EMIS annual report | DGE DPE
+ | Number of DEDs using ICT to collect/manage/ report data | Baseline to be determined | 50% | 70% | 100% |  |  | EMIS annual report | DPE
+ | Percentage of PEDs regularly submitting reports via ICT | Baseline to be determined | 75% | 100% |  |  |  | EMIS annual report | DPE
+ | Number of fully trained Academic Supervisors | 500 | 1000 | 2000 | 3000 | 4000 | 5000 | EMIS annual report | DGE (Acad. Supervision)
 
 80
 
@@ -2238,14 +2274,9 @@ Number of fully trained Academic Supervisors | 500 | 1000 | 2000 | 3000 | 4000 |
 
 [[START OF PAGE 93]]
 
-% of schools receiving at least one visit p.a. | Baseline to be determined | 100%
---- | --- | --- | --- | --- | --- | --- | --- | ---
-% of EMIS fully integrated with 10% | 20% | 50% | 100% | Annual Reports | Supervision) HRM DPE
-HRMIS % schools, districts & provinces receiving EMIS & budget reports | Schools: % Districts: % | Schools: 5% Districts: 5% Provinces: 70% | Schools: 10% Districts: 20% | Schools: 20% Districts: 50% Provinces: | Schools: 40% Districts: 70% | Schools: 70? % Districts: 90% | EMIS annual report | DPE
-Provinces: %
-Provinces: | Provinces: | Provinces:
-100% | 100%
-100% | 100%
+ | % of schools receiving at least one visit p.a. | Baseline to be determined |  |  | 100% |  |  |  | DGE (Acad. Supervision)
+ | % of EMIS fully integrated with HRMIS | 10% | 20% | 50% | 100% |  |  | Annual Reports | HRM DPE
+ | % schools, districts & provinces receiving EMIS & budget reports | Schools: % Districts: % Provinces: % | Schools: 5% Districts: 5% Provinces: 70% | Schools: 10% Districts: 20% Provinces: 100% | Schools: 20% Districts: 50% Provinces: 100% | Schools: 40% Districts: 70% Provinces: 100% | Schools: 70? % Districts: 90% Provinces: 100% | EMIS annual report | DPE
 
 81
 
@@ -2313,7 +2344,7 @@ Grand Total | 238.83 | 298.07 | 333.10 | 350.26 | 381.50 | 1601.76
 
 Targets for NESP III were calculated on the basis of extensive discussions with DPs and GoIRA leadership, especially within MoE over several months. The iterative process produced and submitted several drafts for broad consultation and comment. Key criteria included Ministry capacity, feasibility given the underlying fragility of the country and the likely availability of resources. Quantifying all indicative outcomes was not straightforward, which increased the value and importance of the iterative and participatory process.
 
-The  major  cost  items  calculated  for  the  development  budget  include  construction  of education institutions/schools (Lines QR 1.24, 2.3 and 3.7 in the budget summary below) and education  quality  programmes  including  the  CBE  and  OOS  programmes  (EA  1.1  and  1.3), curriculum reforms (QR 1.1, 1.4, 1.6, 3.1 and 4.1) and teacher training activities (QR 1.10 1.14,  etc.).  The  cost of equipment (which includes  science labs, computers and workshop equipment for  TVET  schools  listed  in  lines  1.25,  2.4  and  3.8)  and  the  functional  reforms, covering capacity development and reformed use of NTA (ETM 1.1, 1.4, 1.6 and 1.7) are the next largest indicative items that cannot be covered through the ordinary budget at this stage. The chart below presents an overview of projected spending on development under NESP III:
+The  major  cost  items  calculated  for  the  development  budget  include  construction  of education institutions/schools (Lines QR 1.24, 2.3 and 3.7 in the budget summary below) and education  quality  programmes  including  the  CBE  and  OOS  programmes  (EA  1.1  and  1.3), curriculum reforms (QR 1.1, 1.4, 1.6, 3.1 and 4.1) and teacher training activities (QR 1.10 – 1.14,  etc.).  The  cost of equipment (which includes  science labs, computers and workshop equipment for  TVET  schools  listed  in  lines  1.25,  2.4  and  3.8)  and  the  functional  reforms, covering capacity development and reformed use of NTA (ETM 1.1, 1.4, 1.6 and 1.7) are the next largest indicative items that cannot be covered through the ordinary budget at this stage. The chart below presents an overview of projected spending on development under NESP III:
 
 84
 
@@ -2321,25 +2352,32 @@ The  major  cost  items  calculated  for  the  development  budget  include  con
 
 [[START OF PAGE 97]]
 
-Based on budget figures from the summary below
-
--
-
-100
-
-200
-
-300
-
-400
-
-500
-
-600
+Main Programme Expenditure (Indicative)
 
 US $ Million
+600
+500
+400
+300
+200
+100
+-
 
-Main Programme Expenditure (Indicative)
+Curriculum
+Textbooks and materials
+Teacher Training
+Principal Training
+Student Assessment
+Academic supervision
+School Construction
+Equipment
+MA training
+Support to Shura
+CBE &OOS
+Function Reform, Cap...
+M&E
+
+Based on budget figures from the summary below
 
 The  development  budget  normally  includes  both  on  and  off  budget  funding.  Under  past strategic plans projectisation of donor inputs outside the aligned  and  harmonised management process has reduced efficiency and long-term sustainability. The intention of MoE and DPs is that NESP III will cover all programmes and budget inputs, and that joint overall management will share responsibility for monitoring performance.
 
@@ -2401,9 +2439,9 @@ Development Expenditure | 178.50 | 126.50 | 125.50 | 119.30 | 115.00
 Education Sector Expenditure (MTFF) | 59.60 | 54.70 | 56.00 | 57.20 | 59.60
 - % Annual Increase | 34.3% | -8.2% | 2.4% | 2.1% | 4.2%
 % of total government expenditure | 12.9% | 12.7% | 12.6% | 12.5% | 12.5%
-MoE and MoHE (96% of expenditure) 57.22 | 52.51 | 53.76 | 54.91 | 57.22
-MoE (80.6% of total sector) 48.04 | 44.09 | 45.14 | 46.10 | 48.04
-MoHE (15.4% of total sector) 9.18 | 8.42 | 8.62 | 8.81 | 9.18
+MoE and MoHE (96% of expenditure) | 57.22 | 52.51 | 53.76 | 54.91 | 57.22
+MoE (80.6% of total sector) | 48.04 | 44.09 | 45.14 | 46.10 | 48.04
+MoHE (15.4% of total sector) | 9.18 | 8.42 | 8.62 | 8.81 | 9.18
 
 Source: MOF - MTFF December 2015
 
@@ -2425,7 +2463,7 @@ Capacity development  objectives, which cover both MA  course  provision  and  N
 
 ## 7.5 Simulation modelling of NESP III
 
-As part of the process of NESP III preparation, including the identification of policy priority outcomes and targets, a financial simulation model was developed and used as a tool for estimating resource requirements and planning financing arrangements. The methodology for  simulation  modelling  in  preparation  of  NESP  III  followed  best  international  practices. Simulation has the following benefits:
+As part of the process of NESP III preparation, including the identification of policy priority outcomes and targets, a financial simulation model was developed and used as a tool for estimating resource requirements and planning financing arrangements. The methodology
 
 87
 
@@ -2433,13 +2471,15 @@ As part of the process of NESP III preparation, including the identification of 
 
 [[START OF PAGE 100]]
 
-- o It  ensures  consistency  between  the  costs  of  projection  components  across  the education  system.  Thanks  to  the  built-in  linkages,  variations  in  one  element  lead  to associated changes in all the other elements.
+for simulation modelling in preparation of NESP III followed best international practices. Simulation has the following benefits:
 
-- o Calculations are made easier and faster with worksheet software that automates them by means of logical formulas.
+- It ensures consistency between the costs of projection components across the education system. Thanks to the built-in linkages, variations in one element lead to associated changes in all the other elements.
 
-- o It  ensures  a  sector-wide  vision,  as  it  is  able  to  connect  and  link  all  sub-levels  and programmes that comprise the education system 27 .
+- Calculations are made easier and faster with worksheet software that automates them by means of logical formulas.
 
-- o It has a unique capacity to try out rapidly several scenarios and choices, enabling policy makers to decide on trade-offs and leading to a reference scenario.
+- It ensures a sector-wide vision, as it is able to connect and link all sub-levels and programmes that comprise the education system 27.
+
+- It has a unique capacity to try out rapidly several scenarios and choices, enabling policy makers to decide on trade-offs and leading to a reference scenario.
 
 It is also noted, however, that simulation modelling has a strong bias towards quantitative aspects of the Plan. In other words, while the resources needed (funds, classrooms, teachers, etc.)  to  realise  various  options  are  contrasted  very  clearly,  the  model  does  not  consider qualitative advantages. This bias has been compensated for by the narrative text of the Plan and the Policy Action Matrix (PAM), which presents a more nuanced analysis of priorities. In particular, a mix of simulation data, capacity and priorities were used, for example, in setting qualitative targets for the Monitoring Matrix as explained above.
 
@@ -2447,11 +2487,11 @@ The simulation model used for NESP III development (referred to as the 'Afghanis
 
 A) Enrolment projections: Based on school-age population projections (5 to 24 years of age), on  which  targeted  admission  and  flow  rates  across  the  grades  are  applied.  They  were incorporated for each sub-level, disaggregated by gender. Overall the total enrolment in all sublevels is projected to increase from 9.2 million students in 1394 to 9.7 million in 1396, and 11.4  million  in  1400.  Basic  Education  (grades  1  to  9)  will  increase  from  8  to  9.9  million students.
 
-B)  Resource  requirement  projections:  Teaching  and  non-teaching  staff,  classrooms  and laboratories,  as  well  as  textbooks  and  teaching  guides  were  derived  from  enrolment projections using targeted resource use ratios, such as the pupil-class ratio or the percentage of classrooms in double/triple shifts. Based on those ratios, the model shows that the above enrolment increases will require-among other resources for GE-the construction of 17,000 new  classrooms,  the  recruitment  of  58,000  teachers  and  the  distribution  of  268  million textbooks and teacher guides.
+B)  Resource  requirement  projections:  Teaching  and  non-teaching  staff,  classrooms  and laboratories,  as  well  as  textbooks  and  teaching  guides  were  derived  from  enrolment projections using targeted resource use ratios, such as the pupil-class ratio or the percentage of classrooms in double/triple shifts. Based on those ratios, the model shows that the above enrolment increases will require—among other resources for GE—the construction of 17,000 new  classrooms,  the  recruitment  of  58,000  teachers  and  the  distribution  of  268  million textbooks and teacher guides.
 
 The teacher training programme will allow 100,000 teachers to be credentialed through the new system, while 175,000 others will go through in-service programs (INSETs) and 33,000 school managers will be trained through SMTs (School Management Training programme).
 
-C) Costing of resource requirements: This was done on the basis of known unit costs, such as the  average  cost  of  constructing  a  classroom,  the  unit  cost  for  textbook  purchase  and distribution,  teacher  salaries,  etc.  These  resource  costs  were  compared  to  the  expected financial allocations from MoF as indicated in the MTFF as well as expected grants from DPs, showing the resulting funding gaps.
+C) Costing of resource requirements: This was done on the basis of known unit costs, such as the average cost of constructing a classroom, the unit cost for textbook purchase and distribution, teacher salaries, etc. These resource costs were compared to the expected
 
 > 27  Note: Higher Education was not included in this exercise
 
@@ -2461,11 +2501,12 @@ C) Costing of resource requirements: This was done on the basis of known unit co
 
 [[START OF PAGE 101]]
 
+financial allocations from MoF as indicated in the MTFF as well as expected grants from DPs, showing the resulting funding gaps.
 The official MTFF was used as the main source of estimation of financial capacity. The total allocation to MoE from 1396 to 1400 28  is estimated at 236.4 billion Afg, of which 150.4bn is for  Operating  and  86.0  for  Development.  However,  a  substantial  part  of  education expenditure is normally covered by ODA grants, part of which goes through the Government budget. The New GoIRA policy is for an increasing proportion of grants to be on-budget.
 
 Projections  for  ODA  grants  in  support  of  NESP  III  are  based  on  estimates.  A  conservative assumption is that off-budget grants for education amount to the equivalent of 80% of the Government development allocation to MoE, i.e. 68.8 bn Afg for the NESP III period ($1.03bn USD).
 
-Comparing the two sources (Government and off-budget grants) to the planned expenditures shown above, it is found that a funding gap of 55.7bn Afg-or 18% of the total allocation (national and international)-will run throughout the plan period. It is noted that the funding gap will not be uniform across the period, running negative the first two years and then rising considerably.
+Comparing the two sources (Government and off-budget grants) to the planned expenditures shown above, it is found that a funding gap of 55.7bn Afg—or 18% of the total allocation (national and international)—will run throughout the plan period. It is noted that the funding gap will not be uniform across the period, running negative the first two years and then rising considerably.
 
 A funding gap of 18% is within manageable uncertainties, especially if due account is taken of the new pledges that will be made in Brussels conference and that of MoE initiatives to use funding resources from other than education widows i.e. funding from Telecom Development Fund for activities related to ICT in education, etc. The gap is considered reasonable and was obtained  by  considering  several  scenarios  and  discussion  of  options  by  MoE  and  DPs.  A number of trade-offs were made between the desirable targets on the one hand and financial and capacity constraints on the other.
 
@@ -2495,10 +2536,10 @@ MoE recurrent allocation (million Afg) | 30,411 | 31,187 | 30,260 | 30,362 | 33,
 MoE development allocation (million Afg) | 16,505 | 16,178 | 1,400 | 1,112 | 1,303 | 1,469 | 1,665
 MoE Off-Budget grants (% of development expenditure) | 36.1% | 36.6% | 71.4% | 62.2% | 61.4% | 60.8% | 70.00%
 MoE Off-Budget grants (million Afg) | 9,329 | 9,329 | 9,329 | 9,329 | 9,329 | 9,329 | 9,329
-MoE Funding Gap excluding Off-Budget grants (million Afg) | 14,751 | 19,336 | 21,782 | 22,105 | 24,431
-MoE Funding Gap including Off-Budget grants (million Afg) | 5,422 | 10,007 | 12,453 | 12,776 | 15,102
-MoE Funding Gap including Off-Budget grants (% of allocation) | 10.9% | 17.8% | 20.3% | 19.6% | 21.5%
-Funding gap over the plan period (1396-1400) | 18.0%
+MoE Funding Gap excluding Off-Budget grants (million Afg) |  |  | 14,751 | 19,336 | 21,782 | 22,105 | 24,431
+MoE Funding Gap including Off-Budget grants (million Afg) |  |  | 5,422 | 10,007 | 12,453 | 12,776 | 15,102
+MoE Funding Gap including Off-Budget grants (% of allocation) |  |  | 10.9% | 17.8% | 20.3% | 19.6% | 21.5%
+Funding gap over the plan period (1396-1400) |  |  | 18.0%
 
 90
 
@@ -2508,26 +2549,26 @@ Funding gap over the plan period (1396-1400) | 18.0%
 
 # ANNEXES
 
-S No | NESP III ACTIVITIES | Unit cost US$ | Cost USD
+## Annex 1 - Development Budget (US$)
+
+S No | NESP III ACTIVITIES | Unit cost US$ | Cost USD |  |  |  |  | 
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-1395 (2016) | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) | Total
-238,832,250 298,074,800 | 333,095,957 350,258,177 381,498,708 1,601,759,892
-QUALITY AND RELEVANCE | 138,066,500 | 190,166,250 | 224,322,885 | 239,441,130 | 270,548,563 | 1,062,545,329
-1 | General Education | 101,884,250 | 149,341,625 | 173,152,528 | 201,823,709 | 233,102,389 | 859,304,500
-1.1 | Curriculum Reform standard, framework syllabi | 1,500,000 | 1,500,000 | 1,000,000 | - | - | 4,000,000
-1.2 | Textbooks and teachers guide material developed/revised | 1,000,000 | 1,500,000 | 1,500,000 | 1,000,000 | 300,000 | 5,300,000
+ |  | 1395 (2016) | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) | Total
+ |  |  | 238,832,250 | 298,074,800 | 333,095,957 | 350,258,177 | 381,498,708 | 1,601,759,892
+QUALITY AND RELEVANCE |  |  | 138,066,500 | 190,166,250 | 224,322,885 | 239,441,130 | 270,548,563 | 1,062,545,329
+1 | General Education |  | 101,884,250 | 149,341,625 | 173,152,528 | 201,823,709 | 233,102,389 | 859,304,500
+1.1 | Curriculum Reform standard, framework syllabi |  | 1,500,000 | 1,500,000 | 1,000,000 | - | - | 4,000,000
+1.2 | Textbooks and teachers guide material developed/revised |  | 1,000,000 | 1,500,000 | 1,500,000 | 1,000,000 | 300,000 | 5,300,000
 1.3 | Text books teachers, teacher guide printed and distributed | 0.5 | 23,625,000 | 27,562,500 | 30,677,063 | 33,426,422 | 36,374,025 | 151,665,009
 1.4 | Competency of curriculum staff developed (MA in curriculum Development) | 17,000 | 446,250 | 937,125 | 983,981 | 516,590 | - | 2,883,946
-1.5 | Turn the curriculum textbooks into interactive and visual content | 500,000 | 1,000,000 | 600,000 | 600,000 | 300,000 | 3,000,000
-1.6 | Curriculum Reform standard, framework syllabi TED | 500,000 | - | - | - | - | 500,000
-1.7 | Textbooks and teachers guide material developed/revised TED | 300,000 | 700,000 | - | - | 1,000,000
+1.5 | Turn the curriculum textbooks into interactive and visual content |  | 500,000 | 1,000,000 | 600,000 | 600,000 | 300,000 | 3,000,000
+1.6 | Curriculum Reform standard, framework syllabi TED |  | 500,000 | - | - | - | - | 500,000
+1.7 | Textbooks and teachers guide material developed/revised TED |  | 300,000 | 700,000 |  | - | - | 1,000,000
 1.8 | Text books teachers, teacher guide printed and distributed TED | 0.9 | 236,250 | 248,063 | 260,466 | 273,489 | 287,163 | 1,305,430
 1.9 | Credential framework for teachers | 500,000 | 525,000 | - | - | - | - | 525,000
 1.10 | Teacher credentialing /certification | 250 | 2,625,000 | 4,134,375 | 5,788,125 | 7,596,914 | 9,572,112 | 29,716,526
 1.11 | Accredit TTCs (Including the TTC development plan) | 55,000 | 115,500 | 606,375 | 636,694 | 802,234 | 561,564 | 2,722,367
 1.12 | In-service diploma course (Regional allowance, incentive for female teacher) | 400 | 4,200,000 | 6,615,000 | 9,261,000 | 12,155,063 | 15,315,379 | 47,546,441
-
-## Annex 1 - Development Budget (US$)
 
 91
 
@@ -2538,26 +2579,26 @@ QUALITY AND RELEVANCE | 138,066,500 | 190,166,250 | 224,322,885 | 239,441,130 | 
 1.13 | INSET's | 180 | 3,780,000 | 5,953,500 | 7,293,038 | 8,751,645 | 11,486,534 | 37,264,717
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 1.14 | Pre-service diploma for female | 700 | 735,000 | 1,157,625 | 1,215,506 | 1,276,282 | 1,340,096 | 5,724,508
-1.15 | credentialing framework for school's principles developed | 300,000 | - | - | - | - | 300,000
+1.15 | credentialing framework for school’s principles developed |  | 300,000 | - | - | - | - | 300,000
 1.16 | SMTs | 425 | 1,338,750 | 2,811,375 | 2,951,944 | 4,132,721 | 5,424,197 | 16,658,987
 1.17 | School development plans developed/implemented | 1,200 | 2,520,000 | 3,969,000 | 4,167,450 | 4,375,823 | 6,126,152 | 21,158,424
 1.18 | MA program for TTC instructors | 17,000 | 1,785,000 | 2,811,375 | 2,951,944 | 2,066,361 | 2,169,679 | 11,784,358
-1.19 | Standards/guideline for academic supervision | 200,000 | 100,000 | - | - | - | 300,000
+1.19 | Standards/guideline for academic supervision |  | 200,000 | 100,000 | - | - | - | 300,000
 1.20 | MA for Academic supervisor | 17,000 | 446,250 | 1,405,688 | 1,967,963 | 2,066,361 | 2,169,679 | 8,055,939
 1.21 | short term professional development course for academic supervisors s | 450 | 236,250 | 496,125 | 520,931 | 546,978 | 574,327 | 2,374,611
-1.22 | National framework and guideline for learning assessment developed | 1,000,000 | 500,000 | 200,000 | 200,000 | 200,000 | 2,100,000
+1.22 | National framework and guideline for learning assessment developed |  | 1,000,000 | 500,000 | 200,000 | 200,000 | 200,000 | 2,100,000
 1.23 | Learning Assessment | 900,000 | 945,000 | 992,250 | 1,041,863 | 1,093,956 | 1,148,653 | 5,221,722
 1.24 | School construction (classrooms) | 20,000 | 42,000,000 | 66,150,000 | 81,033,750 | 97,240,500 | 114,865,341 | 401,289,591
 1.25 | Equip schools with Science and Computer lab | 30,000 | 9,450,000 | 16,537,500 | 17,364,375 | 21,879,113 | 22,973,068 | 88,204,056
 1.26 | Support and enhance school health | 1,500,000 | 1,575,000 | 1,653,750 | 1,736,438 | 1,823,259 | 1,914,422 | 8,702,869
-2 | Islamic Education | 13,031,000 | 13,572,550 | 18,896,135 | 22,219,454 | 25,882,990 | 93,602,129
+2 | Islamic Education |  | 13,031,000 | 13,572,550 | 18,896,135 | 22,219,454 | 25,882,990 | 93,602,129
 2.1 | Text books teachers, teacher guide printed and distributed | 1.2 | 756,000 | 793,800 | 902,948 | 948,095 | 995,500 | 4,396,342
-2.2 | Credential framework for teachers | 200,000 | 100,000 | 50,000 | - | - | 350,000
+2.2 | Credential framework for teachers |  | 200,000 | 100,000 | 50,000 | - | - | 350,000
 2.3 | School construction (classrooms) | 20,000 | 10,500,000 | 11,025,000 | 16,206,750 | 19,448,100 | 22,973,068 | 80,152,918
 2.4 | Equip schools with Science and Computer lab | 30,000 | 1,575,000 | 1,653,750 | 1,736,438 | 1,823,259 | 1,914,422 | 8,702,869
-3 | TVET | 21,921,250 | 26,424,425 | 31,410,189 | 14,522,803 | 10,644,262 | 104,922,929
-3.1 | Curriculum Reform standard, framework syllabi | 500,000 | 500,000 | 200,000 | - | - | 1,200,000
-3.2 | Textbooks and teachers guide material developed/revised | 200,000 | 300,000 | 300,000 | 300,000 | 300,000 | 1,400,000
+3 | TVET |  | 21,921,250 | 26,424,425 | 31,410,189 | 14,522,803 | 10,644,262 | 104,922,929
+3.1 | Curriculum Reform standard, framework syllabi |  | 500,000 | 500,000 | 200,000 | - | - | 1,200,000
+3.2 | Textbooks and teachers guide material developed/revised |  | 200,000 | 300,000 | 300,000 | 300,000 | 300,000 | 1,400,000
 3.3 | Text books teachers, teacher guide printed and distributed | 1.2 | 630,000 | 661,500 | 694,575 | 729,304 | 765,769 | 3,481,148
 
 92
@@ -2566,28 +2607,28 @@ QUALITY AND RELEVANCE | 138,066,500 | 190,166,250 | 224,322,885 | 239,441,130 | 
 
 [[START OF PAGE 105]]
 
-3.4 | Credential framework for teachers (including piloted test) | 300,000 | 300,000 | 100,000 | 50,000 | - | 750,000
+3.4 | Credential framework for teachers (including piloted test) |  | 300,000 | 300,000 | 100,000 | 50,000 | - | 750,000
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 3.5 | INSET's | 450 | 236,250 | 297,675 | 364,652 | 437,582 | 516,894 | 1,853,053
 3.6 | School development plans developed/implemented | 12,000 | 630,000 | 661,500 | 1,389,150 | 1,458,608 | 765,769 | 4,905,026
 3.7 | School construction (classrooms) | 30,000 | 15,750,000 | 19,845,000 | 24,310,125 | 7,293,038 | 3,828,845 | 71,027,007
 3.8 | Equip schools with lab and workshops | 70,000 | 3,675,000 | 3,858,750 | 4,051,688 | 4,254,272 | 4,466,985 | 20,306,695
-4 | Literacy | 1,230,000 | 827,650 | 864,033 | 875,165 | 918,923 | 4,715,770
-4.1 | Curriculum Reform standard, framework syllabi | 200,000 | - | - | - | - | 200,000
-4.2 | Textbooks and teachers guide material developed/revised | 100,000 | 50,000 | 50,000 | - | - | 200,000
+4 | Literacy |  | 1,230,000 | 827,650 | 864,033 | 875,165 | 918,923 | 4,715,770
+4.1 | Curriculum Reform standard, framework syllabi |  | 200,000 | - | - | - | - | 200,000
+4.2 | Textbooks and teachers guide material developed/revised |  | 100,000 | 50,000 | 50,000 | - | - | 200,000
 4.3 | Text books teachers, teacher guide printed and distributed | 1.2 | 630,000 | 727,650 | 764,033 | 875,165 | 918,923 | 3,915,770
-4.4 | Turn the curriculum textbooks into interactive and visual content | 100,000 | 50,000 | 50,000 | - | - | 200,000
-4.5 | National framework and guideline for learning assessment developed | 200,000 | - | - | - | - | 200,000
-EQUITABLE ACCESS | 64,230,750 | 72,920,550 | 75,554,147 | 81,874,201 | 85,179,770 | 379,759,417
-1 | General Education | 55,673,250 | 60,572,550 | 59,636,803 | 62,000,673 | 61,121,862 | 299,005,139
+4.4 | Turn the curriculum textbooks into interactive and visual content |  | 100,000 | 50,000 | 50,000 | - | - | 200,000
+4.5 | National framework and guideline for learning assessment developed |  | 200,000 | - | - | - | - | 200,000
+EQUITABLE ACCESS |  |  | 64,230,750 | 72,920,550 | 75,554,147 | 81,874,201 | 85,179,770 | 379,759,417
+1 | General Education |  | 55,673,250 | 60,572,550 | 59,636,803 | 62,000,673 | 61,121,862 | 299,005,139
 1.1 | out of school children survey | 400,000 | 420,000 | 441,000 | 463,050 | 486,203 | 510,513 | 2,320,765
 1.2 | District educational development plan Developed /updated | 5,000 | 1,916,250 | - | 2,112,666 | - | - | 4,028,916
 1.3 | Establish /support CBE ALP | 80 | 46,200,000 | 48,510,000 | 41,674,500 | 43,758,225 | 40,841,010 | 220,983,735
 1.4 | Relocation/recruitment of local female teachers | 1,440 | 1,512,000 | 4,762,800 | 8,334,900 | 10,501,974 | 11,027,073 | 36,138,747
 1.5 | Community mobilization/ awareness program | 500,000 | 525,000 | 551,250 | 578,813 | 607,753 | 638,141 | 2,900,956
 1.6 | Establish and train school shura | 1,000 | 2,100,000 | 3,307,500 | 3,472,875 | 3,646,519 | 5,105,126 | 17,632,020
-Education in emergency (supply, support cost, etc.) | 3,000,000 | 3,000,000 | 3,000,000 | 3,000,000 | 3,000,000 | 15,000,000
-2 | Islamic Education | 105,000 | 165,375 | 231,525 | 303,877 | 382,884 | 1,188,661
+ | Education in emergency (supply, support cost, etc.) |  | 3,000,000 | 3,000,000 | 3,000,000 | 3,000,000 | 3,000,000 | 15,000,000
+2 | Islamic Education |  | 105,000 | 165,375 | 231,525 | 303,877 | 382,884 | 1,188,661
 2.1 | Establish and train school shura | 1,000 | 105,000 | 165,375 | 231,525 | 303,877 | 382,884 | 1,188,661
 
 93
@@ -2596,23 +2637,23 @@ Education in emergency (supply, support cost, etc.) | 3,000,000 | 3,000,000 | 3,
 
 [[START OF PAGE 106]]
 
-3 | TVET | 2,152,500 | 5,567,625 | 8,740,069 | 12,276,613 | 16,017,334 | 44,754,140
+3 | TVET |  | 2,152,500 | 5,567,625 | 8,740,069 | 12,276,613 | 16,017,334 | 44,754,140
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 3.1 | Establish and train school shura | 1,000 | 52,500 | 55,125 | 57,881 | 121,551 | 63,814 | 350,871
 3.2 | Support apprentice for skills (number of students) | 500 | 2,100,000 | 5,512,500 | 8,682,188 | 12,155,063 | 15,953,520 | 44,403,270
-4 | Literacy | 6,300,000 | 6,615,000 | 6,945,750 | 7,293,038 | 7,657,689 | 34,811,477
+4 | Literacy |  | 6,300,000 | 6,615,000 | 6,945,750 | 7,293,038 | 7,657,689 | 34,811,477
 4.1 | Establish/run literacy course | 60 | 6,300,000 | 6,615,000 | 6,945,750 | 7,293,038 | 7,657,689 | 34,811,477
-EFFICIENT AND TRANSPARENT MANAGEMENT | 36,535,000 | 34,988,000 | 33,218,925 | 28,942,846 | 25,770,375 | 159,455,146
+EFFICIENT AND TRANSPARENT MANAGEMENT |  |  | 36,535,000 | 34,988,000 | 33,218,925 | 28,942,846 | 25,770,375 | 159,455,146
 1.1 | MoE institutional reorganization Results-based institutional framework and organizational structure with defined core functions and competencies developed | 4,500,000 | 4,725,000 | 3,000,000 | 500,000 | - | - | 8,225,000
 1.2 | Protocols for partnership and outsourcing | 1,000,000 | 1,000,000 | 1,000,000 | - | - | - | 2,000,000
 1.3 | Result-based/norm-based system of resource allocations for equitable service delivery implemented | 1,200,000 | 1,260,000 | 1,323,000 | 1,389,150 | 1,458,608 | 1,531,538 | 6,962,295
-1.4 | Competent human resources to effectively plan, manage, and deliver results assessment and capacity development plan | 5,000,000 | 1,200,000 | 500,000 | 500,000 | 2,200,000
+1.4 | Competent human resources to effectively plan, manage, and deliver results assessment and capacity development plan | 5,000,000 | 1,200,000 | 500,000 | 500,000 |  |  | 2,200,000
 1.5 | MA in Education leadership | 17,000 | 1,785,000 | 1,874,250 | 1,967,963 | 2,066,361 | 2,169,679 | 9,863,252
 1.6 | Diploma/short-term training courses | 2,000 | 1,680,000 | 1,764,000 | 1,852,200 | 1,944,810 | 2,042,051 | 9,283,061
 1.7 | National TA | 18,000 | 17,010,000 | 17,860,500 | 16,669,800 | 17,503,290 | 13,783,841 | 82,827,431
 1.8 | Transparency, accountability, and anti-corruption systems for resource management adopted | 1,000,000 | 1,050,000 | 500,000 | 500,000 | 500,000 | 500,000 | 3,050,000
 1.9 | Effective and integrated monitoring and evaluation system implemented (Integration and expansion of EMIS, automation of administrative system and process, equip office, data collection and monitoring and reviews and evaluation) | 4,500,000 | 4,725,000 | 4,961,250 | 5,209,313 | 5,469,778 | 5,743,267 | 26,108,608
-1.10 Vehicles for monitoring and supervision | 20,000 | 2,100,000 | 2,205,000 | 4,630,500 | - | - | 8,935,500
+1.10 | Vehicles for monitoring and supervision | 20,000 | 2,100,000 | 2,205,000 | 4,630,500 | - | - | 8,935,500
 
 94
 
@@ -2620,28 +2661,32 @@ EFFICIENT AND TRANSPARENT MANAGEMENT | 36,535,000 | 34,988,000 | 33,218,925 | 28
 
 [[START OF PAGE 107]]
 
-General Education Table 2: Analysis of Staff Costs | 1396 Estimate | 1397 Estimate | 1398 Estimate | 1399 Estimate | 1400 Estimate | Total for 5 years
+## Annex 2 - Ordinary Budget (Afs)
+
+General Education
+
+Table 2: Analysis of Staff Costs | 1396 Estimate | 1397 Estimate | 1398 Estimate | 1399 Estimate | 1400 Estimate | Total for 5 years
 --- | --- | --- | --- | --- | --- | ---
 Operating Budget Wages & Salaries
 Teaching Staff:
 Current Staff | 19,051,479,480 | 19,794,375,480 | 20,537,271,480 | 21,280,167,480 | 22,023,063,480 | 102,686,357,400
-Current Staff step promotion salary increase Additional Recruitment | 646,251,000 806,400,000 | 1,342,902,000 806,400,000 | 2,089,953,000 806,400,000 | 2,887,404,000 0 806,400,000 | 3,735,255,000 0 806,400,000 | 10,701,765,000 4,032,000,000
+Current Staff step promotion salary increase | 646,251,000 | 1,342,902,000 | 2,089,953,000 | 2,887,404,000 | 3,735,255,000 | 10,701,765,000
+ |  |  |  | 0 | 0 | 
+Additional Recruitment | 806,400,000 | 806,400,000 | 806,400,000 | 806,400,000 | 806,400,000 | 4,032,000,000
 Other benefits (% of salary) | 5,404,395,516 | 5,783,825,473 | 6,176,539,658 | 6,582,538,071 | 7,001,820,710 | 30,949,119,429
-Costs | 29,610,164,138
-Sub-Total Teaching Staff | 25,908,525,996 | 27,727,502,953 | 31,556,509,551 | 33,566,539,190 | 148,369,241,829
+Sub-Total Teaching Staff Costs | 25,908,525,996 | 27,727,502,953 | 29,610,164,138 | 31,556,509,551 | 33,566,539,190 | 148,369,241,829
+Non-Teaching Staff:
 Administrative staff | 1,597,328,862 | 1,646,473,662 | 1,695,618,462 | 1,744,763,262 | 1,793,908,062 | 8,478,092,310
 Support staff | 2,271,299,520 | 2,354,291,520 | 2,437,283,520 | 2,520,275,520 | 2,603,267,520 | 12,186,417,600
 Current Staff step promotion salary increase
 Administrative staff | 31,202,400 | 64,324,800 | 99,367,200 | 136,329,600 | 175,212,000 | 506,436,000
 Support staff | 42,693,600 | 88,507,200 | 137,440,800 | 189,494,400 | 244,668,000 | 702,804,000
-Additional Recruitment Support staff | 117,240,000 82,680,000 | 117,240,000 | 117,240,000 | 117,240,000 | 117,240,000 34,560,000 | 586,200,000
-Admin staff | 34,560,000 | 34,560,000 82,680,000 | 34,560,000 82,680,000 | 34,560,000 82,680,000 | 82,680,000 | 172,800,000 413,400,000
-1,467,616,218
-Other benefits (% of salary) | 1,265,515,288 | 1,331,311,189 | 1,398,678,165 | 1,538,125,346 | 7,001,246,205
+Additional Recruitment | 117,240,000 | 117,240,000 | 117,240,000 | 117,240,000 | 117,240,000 | 586,200,000
+Admin staff | 34,560,000 | 34,560,000 | 34,560,000 | 34,560,000 | 34,560,000 | 172,800,000
+Support staff | 82,680,000 | 82,680,000 | 82,680,000 | 82,680,000 | 82,680,000 | 413,400,000
+Other benefits (% of salary) | 1,265,515,288 | 1,331,311,189 | 1,398,678,165 | 1,467,616,218 | 1,538,125,346 | 7,001,246,205
 Sub-Total Non-Teaching Staff Costs | 5,325,279,670 | 5,602,148,371 | 5,885,628,147 | 6,175,719,000 | 6,472,420,928 | 29,461,196,115
 Sub-Total Operating Budget Wages & Salaries | 31,233,805,666 | 33,329,651,324 | 35,495,792,286 | 37,732,228,550 | 40,038,960,118 | 177,830,437,944
-
-## Annex 2 - Ordinary Budget (Afs)
 
 95
 
@@ -2649,16 +2694,16 @@ Sub-Total Operating Budget Wages & Salaries | 31,233,805,666 | 33,329,651,324 | 
 
 [[START OF PAGE 108]]
 
-Component: | 1. QUALITY AND RELEVANCE
---- | --- | --- | --- | --- | --- | ---
-Long- term | Intermediate Outcome | Aggregated outputs | Policy Actions/Targets 29 | Cost
-Outcome | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) | (US$)
-QR1. The capacity of the education system to develop and monitor student attainment relevant to individual and social needs is improved | Reformed curriculum for all education programmes at all | 1.1.1 National standards for learning outcomes for all grades in GE in line with international standards. | National standards for all grades in GE set | 1,000,000
-1.1.2 New curriculum for GE based on national standards and competencies 50% | of new curriculum and syllabi for GE developed | 50% of new curriculum and syllabi for GE developed | Further revision of new curriculum and syllabi for GE developed | 3,000,000
-1.1.3. Revised framework, syllabi and curriculum standards for TVET. | TVET revision procedures and standards set 50% of new curriculum and syllabi for TVET developed | 50% of new curriculum and syllabi for TVET developed | 1,200,000
-1.1 levels | 1.1.4 New curriculum for adult literacy is produced. | National standards for all literacy courses set 100% of new curriculum for adult literacy developed | 200,000 200,000
+## Annex 3 – Monitoring Framework for Quality and Relevance
 
-## Annex 3 - Monitoring Framework for Quality and Relevance
+Component: | 1. QUALITY AND RELEVANCE
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Long-term Outcome | Intermediate Outcome | Aggregated outputs | Policy Actions/Targets29 |  |  |  |  | Cost (US$)
+ |  |  | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) | 
+QR1. The capacity of the education system to develop and monitor student attainment relevant to individual and social needs is improved | 1.1 Reformed curriculum for all education programmes at all levels | 1.1.1 National standards for learning outcomes for all grades in GE in line with international standards. | National standards for all grades in GE set |  |  |  |  | 1,000,000
+ |  | 1.1.2 New curriculum for GE based on national standards and competencies | 50% of new curriculum and syllabi for GE developed | 50% of new curriculum and syllabi for GE developed |  | Further revision of new curriculum and syllabi for GE developed |  | 3,000,000
+ |  | 1.1.3. Revised framework, syllabi and curriculum standards for TVET. | TVET revision procedures and standards set 50% of new curriculum and syllabi for TVET developed | 50% of new curriculum and syllabi for TVET developed |  |  |  | 1,200,000
+ |  | 1.1.4 New curriculum for adult literacy is produced. | National standards for all literacy courses set 100% of new curriculum for adult literacy developed |  |  |  |  | 200,000 200,000
 
 > 29 Targets shown are not cumulative, i.e. numbers refer to annual activity
 
@@ -2668,10 +2713,10 @@ QR1. The capacity of the education system to develop and monitor student attainm
 
 [[START OF PAGE 109]]
 
-1.1.5 New national curriculum used in preschool. | 100% of new pre- school curriculum formulated | Included in 1.1.1/1.1.2
+1.1.5 New national curriculum used in preschool. | 100% of new pre-school curriculum formulated |  |  |  |  | Included in 1.1.1/1.1.2
 --- | --- | --- | --- | --- | --- | --- | ---
-1.1.6 Competencies of curriculum developers and materials writers enhanced. | 25 Curriculum developers trained | 50 Curriculum developers trained | 50 Curriculum developers trained | 25 Curriculum developers trained | 2,883,946
-Quality textbooks and materials used in schools and learning centres | 1.2.1 GE textbooks, guides, etc. revised, printed distributed on time and used. | 45m textbooks printed, distributed and used in schools/learning centres | 50m textbooks printed, distributed and used in schools/learning centres | 53m textbooks printed, distributed and used in schools/learning centres | 55m textbooks printed, distributed and used in schools/learning centres | 57m textbooks printed, distributed and used in schools/learning centres | 151,665,009
+1.1.6 Competencies of curriculum developers and materials writers enhanced. | 25 Curriculum developers trained | 50 Curriculum developers trained | 50 Curriculum developers trained | 25 Curriculum developers trained |  | 2,883,946
+1.2 Quality textbooks and materials used in schools and learning centres | 1.2.1 GE textbooks, guides, etc. revised, printed distributed on time and used. | 45m textbooks printed, distributed and used in schools/learning centres | 50m textbooks printed, distributed and used in schools/learning centres | 53m textbooks printed, distributed and used in schools/learning centres | 55m textbooks printed, distributed and used in schools/learning centres | 57m textbooks printed, distributed and used in schools/learning centres | 151,665,009
 1.2.2 IE textbooks, guides, etc. revised, printed distributed on time and used. | 600,000 textbooks printed, distributed and used in schools/learning centres | 600,000 textbooks printed, distributed and used in schools/learning centres | 600,000 textbooks printed, distributed and used in schools/learning centres | 600,000 textbooks printed, distributed and used in schools/learning centres | 600,000 textbooks printed, distributed and used in schools/learning centres | 4,396,342
 1.2.3 TVET textbooks guides, etc. revised, printed distributed on time and used. | 500,000 textbooks printed, distributed and used in schools/learning centres | 500,000 textbooks printed, distributed and used in schools/learning centres | 500,000 textbooks printed, distributed and used in schools/learning centres | 500,000 textbooks printed, distributed and used in schools/learning centres | 500,000 textbooks printed, distributed and used in schools/learning centres | 3,481,148
 1.2.4 Literacy textbooks, guides, etc. revised, printed distributed on time and used. | 500,000 textbooks printed, distributed and used in | 500,000 textbooks printed, distributed and | 500,000 textbooks printed, distributed and | 500,000 textbooks printed, distributed and used in | 500,000 textbooks printed, distributed and | 3,915,770
@@ -2684,12 +2729,12 @@ Quality textbooks and materials used in schools and learning centres | 1.2.1 GE 
 
 schools/learning centres | used in schools/learning centres | used in schools/learning centres | schools/learning centres | used in schools/learning centres
 --- | --- | --- | --- | --- | --- | ---
-1.3 Student learning assessment system developed and implemented | 1.3.1 Learning Assessment Framework for Afghanistan (NAFA) developed in line with standards and competencies defined in curriculum framework | National framework and guideline developed for GE and literacy | 2,100,000 200,000
-National learning assessment conducted | National learning assessment conducted | National learning assessment conducted | National learning assessment conducted | National learning assessment conducted | 2,610,861
-promote student/learner attainment is improved 2.1 Teachers and educators better qualified, certified, and deployed according to national standards and | 2.1.1 New competency-based training curriculum developed | Training curriculum standards, framework and syllabi developed | 500,000
-2.1.2 Textbooks and teachers' guide materials developed/revised | Teachers' guide materials revised | 1,000,000
-2.1.3 Textbooks, teachers' guides and materials used by teachers | 250,000 textbooks, teachers' guides and materials printed and distributed | 250,000 textbooks, teachers' guides and materials printed and distributed | 250,000 textbooks, teachers' guides and materials printed and distributed | 250,000 textbooks, teachers' guides and materials printed and distributed | 250,000 textbooks, teachers' guides and materials printed and distributed | 1,305,430
-2.1.4 Teacher credentialing framework developed and used for GE, IE and TVET teachers. | Credentialing framework developed for GE, IE and TVET 10,000 teachers credentialed | 15,000 teachers credentialed | 20,000 teachers credentialed | 25,000 teachers credentialed | 30,000 teachers credentialed | 525,000 29,716,526
+1.3 Student learning assessment system developed and implemented | 1.3.1 Learning Assessment Framework for Afghanistan (NAFA) developed in line with standards and competencies defined in curriculum framework | National framework and guideline developed for GE and literacy |  |  |  |  | 2,100,000 200,000
+ |  | National learning assessment conducted | National learning assessment conducted | National learning assessment conducted | National learning assessment conducted | National learning assessment conducted | 2,610,861
+QR2. The capacity of schools/learning centres to promote student/learner attainment is improved | 2.1 Teachers and educators better qualified, certified, and deployed according to national standards and regulations | 2.1.1 New competency-based training curriculum developed | Training curriculum standards, framework and syllabi developed |  |  |  |  | 500,000
+ |  | 2.1.2 Textbooks and teachers’ guide materials developed/revised |  | Teachers’ guide materials revised |  |  |  | 1,000,000
+ |  | 2.1.3 Textbooks, teachers’ guides and materials used by teachers | 250,000 textbooks, teachers’ guides and materials printed and distributed | 250,000 textbooks, teachers’ guides and materials printed and distributed | 250,000 textbooks, teachers’ guides and materials printed and distributed | 250,000 textbooks, teachers’ guides and materials printed and distributed | 250,000 textbooks, teachers’ guides and materials printed and distributed | 1,305,430
+ |  | 2.1.4 Teacher credentialing framework developed and used for GE, IE and TVET teachers. | Credentialing framework developed for GE, IE and TVET 10,000 teachers credentialed | 15,000 teachers credentialed | 20,000 teachers credentialed | 25,000 teachers credentialed | 30,000 teachers credentialed | 525,000 29,716,526
 
 98
 
@@ -2699,7 +2744,7 @@ promote student/learner attainment is improved 2.1 Teachers and educators better
 
 2.1.5 TTCs and programmes meet standards required for institutional accreditation and teacher certification | 2 institutions accredited | 10 institutions accredited | 10 institutions accredited | 12 institutions accredited | 8 institutions accredited | 2,722,367
 --- | --- | --- | --- | --- | --- | ---
-2.1.6 Teachers trained on In- service diploma courses | 10,000 teachers trained | 15,000 teachers trained | 20,000 teachers trained | 25,000 teachers trained | 30,000 teachers trained | 47,546,441
+2.1.6 Teachers trained on In-service diploma courses | 10,000 teachers trained | 15,000 teachers trained | 20,000 teachers trained | 25,000 teachers trained | 30,000 teachers trained | 47,546,441
 2.1.7 GE teachers trained on short in-service courses | 1,000 teachers trained | 1,500 teachers trained | 1,500 teachers trained | 1,500 teachers trained | 1,500 teachers trained | 37,264,717
 2.1.8 TVET teachers trained on short in-service courses | 500 teachers trained | 600 teachers trained | 700 teachers trained | 800 teachers trained | 900 teachers trained | 1,853,053
 2.1.9 Teachers (female) trained on Pre-service courses | 1,000 teachers trained | 1,500 teachers trained | 1,500 teachers trained | 1,500 teachers trained | 1,500 teachers trained | 5,724,508
@@ -2717,7 +2762,7 @@ promote student/learner attainment is improved 2.1 Teachers and educators better
 2.3 Support to teachers and their accountability improved | 2.3.1 Improved standards/guidelines for GE academic supervisors developed | New guidelines approved and disseminated | 300,000
 --- | --- | --- | --- | --- | --- | --- | ---
 2.3.2 Academic supervisors trained to support teachers in schools | 25 Supervisors trained on MA courses | 75 Supervisors trained on MA courses | 100 Supervisors trained on MA courses | 100 Supervisors trained on MA courses | 100 Supervisors trained on MA courses | 8,055,939
-500 Supervisors trained on short- term professional development courses | 1,000 Supervisors trained on short- term professional development courses | 1,000 Supervisors trained on short- term professional development courses | 1,000 Supervisors trained on short- term professional development courses | 1,000 Supervisors trained on short- term professional development courses | 2,374,611
+500 Supervisors trained on short-term professional development courses | 1,000 Supervisors trained on short-term professional development courses | 1,000 Supervisors trained on short-term professional development courses | 1,000 Supervisors trained on short-term professional development courses | 1,000 Supervisors trained on short-term professional development courses | 2,374,611
 2.4 Schools and learning centres satisfy standards as safe and conducive to learning | 2.4.1 School construction for GE, IE, TVET | 4,000 GE classrooms constructed 500 IE classrooms constructed 500 TVET classrooms constructed | 4,000 GE classrooms constructed 500 IE classrooms constructed 600 TVET classrooms constructed | 4,000 GE classrooms constructed 700 IE classrooms constructed 700 TVET classrooms constructed | 4,000 GE classrooms constructed 800 IE classrooms constructed 200 TVET classrooms constructed | 4,000 GE classrooms constructed 900 IE classrooms constructed 100 TVET classrooms constructed | 464,153,025 80,152,918 71,027,007
 2.4.2 School/centre health programmes developed and implemented | Plan for programme development established Programme implemented in 10% of schools/learning centres | Programme implemented in 25% of schools/learning centres | Programme implemented in 50% of schools/learning centres | Programme implemented in 75% of schools/learning centres | Programme implemented in 100% of schools/learning centres | 8,702,869
 
@@ -2727,16 +2772,17 @@ promote student/learner attainment is improved 2.1 Teachers and educators better
 
 [[START OF PAGE 113]]
 
+## Annex 4 – Monitoring Framework for Equitable Access
+
 Component: | 2. EQUITABLE ACCESS
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Long-term Outcome | Intermediate Outcome | Aggregated outputs | 1397 (2018) | Policy Actions/Targets 1398 (2019) | 1399 (2020) | 1400 (2021) | Cost (US$)
-EA1. Increased equitable availability of responsive, safe and conducive learning and skills training opportunities | 1.1 Provincial/ district plans for schools/ learning centres/ TVET | 1.1.1 Local school mapping of school-age learners and youth showing Out-of-school (OOS) | 1396 (2017) School principals conduct local school survey | School principals conduct local school survey | School principals conduct local school survey | School principals conduct local school survey | School principals conduct local school survey | 2,320,765
-centres drafted based on local | 1.1.2 District education development plans created/updated based on local needs | 365 plans created/updated | 365 plans created/updated | 4,028,916
-needs 1.2 Establish and support CBE and ALP programmes | 1.2.1 Sustainable national strategies for CBE reviewed and implemented 1.2.2 Needs-based expansion of national CBE strategy implemented | 550,000 students educated in CBE schools | 550,000 students educated in CBE schools | 450,000 students educated in CBE schools | 450,000 students educated in CBE schools | 400,000 students educated in CBE schools | 220,2983,735
-1.3 Increased deployment of female teachers in all areas, especially rural and | 1.3.1 System for employment development of teachers through 'best available' female teachers in rural areas developed and implemented 1,000 locally | female teachers relocated or recruited/ supported | 3,000 female teachers relocated or locally recruited/ supported | 5,000 female teachers relocated or locally recruited/ supported | 6,000 female teachers relocated or locally recruited/ supported | 6,000 female teachers relocated or locally recruited/ supported | 36,138,747
-1.4 TVET training and support meeting private sector need | 1.4.1 Increased number of apprentices enrolled in TVET programmes | 4,000 apprentices enrolled | 10,000 apprentices enrolled | 15,000 apprentices enrolled | 20,000 apprentices enrolled | 25,000 apprentices enrolled | 44,403,270
-
-## Annex 4 - Monitoring Framework for Equitable Access
+Long-term Outcome | Intermediate Outcome | Aggregated outputs | Policy Actions/Targets |  |  |  |  | Cost (US$)
+ |  |  | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) | 
+EA1. Increased equitable availability of responsive, safe and conducive learning and skills training opportunities | 1.1 Provincial/ district plans for schools/ learning centres/ TVET centres drafted based on local needs | 1.1.1 Local school mapping of school-age learners and youth showing Out-of-school (OOS) | School principals conduct local school survey | School principals conduct local school survey | School principals conduct local school survey | School principals conduct local school survey | School principals conduct local school survey | 2,320,765
+ |  | 1.1.2 District education development plans created/updated based on local needs | 365 plans created/updated |  | 365 plans created/updated |  |  | 4,028,916
+ | 1.2 Establish and support CBE and ALP programmes | 1.2.1 Sustainable national strategies for CBE reviewed and implemented 1.2.2 Needs-based expansion of national CBE strategy implemented | 550,000 students educated in CBE schools | 550,000 students educated in CBE schools | 450,000 students educated in CBE schools | 450,000 students educated in CBE schools | 400,000 students educated in CBE schools | 220,2983,735
+ | 1.3 Increased deployment of female teachers in all areas, especially rural | 1.3.1 System for employment and development of teachers through “best available” female teachers in rural areas developed and implemented | 1,000 female teachers relocated or locally recruited/ supported | 3,000 female teachers relocated or locally recruited/ supported | 5,000 female teachers relocated or locally recruited/ supported | 6,000 female teachers relocated or locally recruited/ supported | 6,000 female teachers relocated or locally recruited/ supported | 36,138,747
+ | 1.4 TVET training and support meeting private sector need | 1.4.1 Increased number of apprentices enrolled in TVET programmes | 4,000 apprentices enrolled | 10,000 apprentices enrolled | 15,000 apprentices enrolled | 20,000 apprentices enrolled | 25,000 apprentices enrolled | 44,403,270
 
 101
 
@@ -2746,10 +2792,10 @@ needs 1.2 Establish and support CBE and ALP programmes | 1.2.1 Sustainable natio
 
 1.5 Literacy programmes contribute to lower national illiteracy rates | 1.5.1 Establish/run literacy courses with recorded graduation results | 100,000 graduates successfully complete courses | 100,000 graduates successfully complete courses | 100,000 graduates successfully complete courses | 100,000 graduates successfully complete courses | 100,000 graduates successfully complete courses | 34,811,477
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Increased community (and parent) commitment and participation in including TVET | 2.1 School/ learner centre shuras actively engaged in support for education and skills learning | 2.1.1 School Management Shura established and trained for GE, IE, TVET (+ Ed. in Emergencies) | 2,000 GE shura trained 100 IE shura trained 50 TVET shura trained | 3,000 GE shura trained 150 IE shura trained 50 TVET shura trained | 3,000 GE shura trained 200 IE shura trained 50 TVET shura trained | 3,000 GE shura trained 250 IE shura trained 100 TVET shura trained | 4,000 GE shura trained 300 IE shura trained 50 TVET shura trained | 17,632,020 1,188,661 350,871 (+Ed. in E. 15,000,000)
-2.1.2 Community mobilisation and awareness programmes conducted 1 | programme conducted 1 | programme conducted | 1 programme conducted | 1 programme conducted | 1 programme conducted | 2,900,956
-2.1.3 Number of active School Management Shura Total: Out | 8,609 of 15,274 | Total: 9,480 Out of 16,001 | Total: 10,395 Out of 16,733 | Total: 11,356 Out of 17,470 | Total: 11,838 Out of 18,212 | (See 2.1.1 above)
-2.1.4 Voluntary financial and in kind contributions to education by community Demand targets | side
+EA2. Increased community (and parent) commitment and participation in education including TVET | 2.1 School/ learner centre shuras actively engaged in support for education and skills learning | 2.1.1 School Management Shura established and trained for GE, IE, TVET (+ Ed. in Emergencies) | 2,000 GE shura trained 100 IE shura trained 50 TVET shura trained | 3,000 GE shura trained 150 IE shura trained 50 TVET shura trained | 3,000 GE shura trained 200 IE shura trained 50 TVET shura trained | 3,000 GE shura trained 250 IE shura trained 100 TVET shura trained | 4,000 GE shura trained 300 IE shura trained 50 TVET shura trained | 17,632,020 1,188,661 350,871 (+Ed. in E. 15,000,000)
+ |  | 2.1.2 Community mobilisation and awareness programmes conducted | 1 programme conducted | 1 programme conducted | 1 programme conducted | 1 programme conducted | 1 programme conducted | 2,900,956
+ |  | 2.1.3 Number of active School Management Shura | Total: 8,609 Out of 15,274 | Total: 9,480 Out of 16,001 | Total: 10,395 Out of 16,733 | Total: 11,356 Out of 17,470 | Total: 11,838 Out of 18,212 | (See 2.1.1 above)
+ |  | 2.1.4 Voluntary financial and in kind contributions to education by community | Demand side targets |  |  |  |  | 
 
 102
 
@@ -2757,15 +2803,15 @@ Increased community (and parent) commitment and participation in including TVET 
 
 [[START OF PAGE 115]]
 
+## Annex 5 – Monitoring Framework for Efficient and Transparent Management
+
 Component: | 3. EFFICIENT AND TRANSPARENT MANAGEMENT
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Long-term Outcome | Intermediate Outcome | Aggregated outputs | Policy Actions/Targets | Cost (US$)
-1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021)
-ETM1. Improved institutional framework for education service delivery standards | and responsibilities 1.1 Results-based institutional framework and organizational structure with defined core functions and competencies developed | 1.1.1 Functional review to define core and non- core functions completed 1.1.2 Institutional reorganization completeds | Review and reorganisation completed | 8,225,000
-ETM2. Partnerships established with civil society, the private sector, and development | partners 2.1 Systems and procedures to enter formal contract service, outsourcing, and partnership agreements are reformed or established | 2.1.1 Partnership agreements established with communities, civil society, NGOs, private sector, development partners and line ministries | Protocols for partnerships and outsourcing established | 2,000,000
-ETM3. Resources (including human resources) are used effectively and accounted for | transparently at all levels and anti- corruption improved within the MoE 3.1 Result-based/norm- based system of resource allocations for equitable service delivery implemented | 3.1.1 Minimum delivery package formula developed and implemented for norm- and result based service delivery 3.1.2 Annual provincial plans use new system | Formula developed and implemented 15 Provinces use new formulae | 25 Provinces use new formulae | 35 Provinces use new formulae | 35 Provinces use new formulae | 35 Provinces use new formulae | 6,962,295
-
-## Annex 5 - Monitoring Framework for Efficient and Transparent Management
+Long-term Outcome | Intermediate Outcome | Aggregated outputs | Policy Actions/Targets |  |  |  |  | Cost (US$)
+ |  |  | 1396 (2017) | 1397 (2018) | 1398 (2019) | 1399 (2020) | 1400 (2021) | 
+ETM1. Improved institutional framework for education service delivery standards and responsibilities | 1.1 Results-based institutional framework and organizational structure with defined core functions and competencies developed | 1.1.1 Functional review to define core and non-core functions completed 1.1.2 Institutional reorganization completeds | Review and reorganisation completed |  |  |  |  | 8,225,000
+ETM2. Partnerships established with civil society, the private sector, and development partners | 2.1 Systems and procedures to enter formal contract service, outsourcing, and partnership agreements are reformed or established | 2.1.1 Partnership agreements established with communities, civil society, NGOs, private sector, development partners and line ministries | Protocols for partnerships and outsourcing established |  |  |  |  | 2,000,000
+ETM3. Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE | 3.1 Result-based/norm-based system of resource allocations for equitable service delivery implemented | 3.1.1 Minimum delivery package formula developed and implemented for norm-and result based service delivery 3.1.2 Annual provincial plans use new system | Formula developed and implemented 15 Provinces use new formulae | 25 Provinces use new formulae | 35 Provinces use new formulae | 35 Provinces use new formulae | 35 Provinces use new formulae | 6,962,295
 
 103
 
@@ -2775,7 +2821,7 @@ ETM3. Resources (including human resources) are used effectively and accounted f
 
 3.2 Competent human resources to effectively plan, manage, and deliver results | 3.2.1 MoE-wide Institutionalised capacity development system | Capacity development plan drawn up and implemented | Capacity development plan implemented | Capacity development plan implemented | Capacity development plan implemented | Capacity development plan implemented | 2,200,000
 --- | --- | --- | --- | --- | --- | --- | ---
-3.2.2 Staff trained according to skills needs 3.2.3 Results-based staff appraisal system for MoE (TA and Tashkil staff) strengthened 3.2.4 National TA supported within reform programme | 100 staff trained in education leadership MA 800 staff trained on diploma/short- term courses 900 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short- term courses 900 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short- term courses 800 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short- term courses 800 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short- term courses 600 staff recruited through transparent accountable systems | 9,863,252 9,283,061 82,827,431
+3.2.2 Staff trained according to skills needs 3.2.3 Results-based staff appraisal system for MoE (TA and Tashkil staff) strengthened 3.2.4 National TA supported within reform programme | 100 staff trained in education leadership MA 800 staff trained on diploma/short-term courses 900 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short-term courses 900 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short-term courses 800 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short-term courses 800 staff recruited through transparent accountable systems | 100 staff trained in education leadership MA 800 staff trained on diploma/short-term courses 600 staff recruited through transparent accountable systems | 9,863,252 9,283,061 82,827,431
 3.3 Transparency, accountability, and anti-corruption systems for resource management adopted | 3.3.1 Anti-corruption strategy implemented 3.3.2 Policies, standards, plans, budgets, results and reports publicly disseminated | Strategy developed and adopted | 3,050,000
 
 104
@@ -2784,7 +2830,7 @@ ETM3. Resources (including human resources) are used effectively and accounted f
 
 [[START OF PAGE 117]]
 
-ETM4. Monitoring evaluation that support decision- making strengthened | 4.1 Effective and integrated monitoring and evaluation system implemented | 4.1.1 Information management systems merged into one single system accessible to MoE stakeholders and public 4.1.2 M&E/supervision teams operational | M&E system developed and implemented Offices equipped for data collection and sharing 100 Vehicles for M&E teams | M&E system developed and implemented Offices equipped for data collection and sharing 100 Vehicles for M&E teams | M&E system developed and implemented Offices equipped for data collection and sharing 200 Vehicles for M&E teams | M&E system developed and implemented Offices equipped for data collection and sharing | M&E system developed and implemented Offices equipped for data collection and sharing | 26,108,608 8,935,500
+ETM4. Monitoring and evaluation that support decision-making strengthened | 4.1 Effective and integrated monitoring and evaluation system implemented | 4.1.1 Information management systems merged into one single system accessible to MoE stakeholders and public 4.1.2 M&E/supervision teams operational | M&E system developed and implemented Offices equipped for data collection and sharing 100 Vehicles for M&E teams | M&E system developed and implemented Offices equipped for data collection and sharing 100 Vehicles for M&E teams | M&E system developed and implemented Offices equipped for data collection and sharing 200 Vehicles for M&E teams | M&E system developed and implemented Offices equipped for data collection and sharing | M&E system developed and implemented Offices equipped for data collection and sharing | 26,108,608 8,935,500
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 
 ## Annex 6 - Output Matrix for Quality and Relevance
@@ -2802,7 +2848,7 @@ QR1. The capacity of the education system to develop and monitor student attainm
 
 [[START OF PAGE 118]]
 
-QR2. The capacity of schools/learnin g centres to promote student/learne r attainment is improved | 2.1 Teachers and educators better qualified, certified, and deployed according to national standards and regulations | 2.1.1 New competency-based training curriculum developed 2.1.2 Textbooks and teachers' guide materials developed/revised 2.1.3 Textbooks, teachers' guides and materials used by teachers 2.1.4 Teacher credentialing framework developed and used for GE, IE and TVET teachers. 2.1.5 TTCs and programmes meet standards required for institutional accreditation and teacher certification 2.1.6 Teachers trained on In-service diploma courses 2.1.7 GE teachers trained on short in-service courses 2.1.8 TVET teachers trained on short in-service courses 2.1.9 Teachers trained on Pre-service courses 2.1.10 TTC instructors trained to MA level
+QR2. The capacity of schools/learning centres to promote student/learner attainment is improved | 2.1 Teachers and educators better qualified, certified, and deployed according to national standards and regulations | 2.1.1 New competency-based training curriculum developed 2.1.2 Textbooks and teachers’ guide materials developed/revised 2.1.3 Textbooks, teachers’ guides and materials used by teachers 2.1.4 Teacher credentialing framework developed and used for GE, IE and TVET teachers. 2.1.5 TTCs and programmes meet standards required for institutional accreditation and teacher certification 2.1.6 Teachers trained on In-service diploma courses 2.1.7 GE teachers trained on short in-service courses 2.1.8 TVET teachers trained on short in-service courses 2.1.9 Teachers trained on Pre-service courses 2.1.10 TTC instructors trained to MA level
 --- | --- | ---
 2.2 Principals ensure the school is inclusive, safe and conducive to learning and positive social relations with the participation of stakeholders | 2.2.1 Credentialing framework for school principals developed 2.2.2 School principals qualified through SMT professional development 2.2.3 School/ TVET center development plans implemented with participation of teachers, students, and school shuras.
 2.3 Support to teachers and their accountability improved | 2.3.1 Improved standards/guidelines for GE academic supervisors developed 2.3.2 Academic supervisors trained to support teachers in schools.
@@ -2814,17 +2860,17 @@ QR2. The capacity of schools/learnin g centres to promote student/learne r attai
 
 [[START OF PAGE 119]]
 
+## Annex 7 – Output Matrix for Equitable Access
+
 EQUITABLE ACCESS
 --- | --- | ---
 Long-term Outcome | Intermediate Outcome | Aggregated outputs
 EA1. Increased equitable availability of responsive, safe and conducive learning and skills training opportunities | 1.1 Provincial/ district plans for schools/ learning centres/ TVET centres drafted based on local needs | 1.1.1 Local school mapping of school-age learners and youth showing Out-of-school (OOS) 1.1.2 District education development created/updated based on local needs
-1.2 Establish and support CBE and ALP programmes | 1.2.1 Sustainable national strategies for CBE reviewed and implemented 1.2.2 Needs-based expansion of national CBE strategy implemented
-1.3 Increased deployment of female teachers in all areas, especially rural | 1.3.1 System for employment and development of teachers through 'best available' female teachers in rural areas developed and implemented
-1.4 TVET training and support meeting private sector need | 1.4.1 Increased number of apprentices enrolled in TVET programmes
-1.5 Literacy programmes contribute to lower national illiteracy rates | 1.5.1 Establish/run literacy courses with recorded graduation results
+ | 1.2 Establish and support CBE and ALP programmes | 1.2.1 Sustainable national strategies for CBE reviewed and implemented 1.2.2 Needs-based expansion of national CBE strategy implemented
+ | 1.3 Increased deployment of female teachers in all areas, especially rural | 1.3.1 System for employment and development of teachers through “best available” female teachers in rural areas developed and implemented
+ | 1.4 TVET training and support meeting private sector need | 1.4.1 Increased number of apprentices enrolled in TVET programmes
+ | 1.5 Literacy programmes contribute to lower national illiteracy rates | 1.5.1 Establish/run literacy courses with recorded graduation results
 EA2. Increased community (and parent) commitment and participation in education including TVET | 2.1 School/ learner centre shuras actively engaged in support for education and skills learning | 2.1.1 School shuras established and trained for GE, IE, TVET 2.1.2 Community mobilisation and awareness programmes conducted 2.1.3 Number of active School Management Shura 2.1.4 Voluntary financial and in kind contributions to education by community
-
-## Annex 7 - Output Matrix for Equitable Access
 
 107
 
@@ -2832,17 +2878,17 @@ EA2. Increased community (and parent) commitment and participation in education 
 
 [[START OF PAGE 120]]
 
+## Annex 8 – Output Matrix for Efficient and Transparent Management
+
 3. EFFICIENT AND TRANSPARENT MANAGEMENT
 --- | --- | ---
 Long-term Outcome | Intermediate Outcome | Aggregated outputs
 ETM1. Improved institutional framework for education service delivery standards and responsibilities | 1.1 Results-based institutional framework and organizational structure with defined core functions and competencies developed | 1.1.1 Functional review to define core and non-core functions completed 1.1.2 Institutional reorganization completed
 ETM2. Partnerships established with civil society, the private sector, and development partners | 2.1 Systems and procedures to enter formal contract service, outsourcing, and partnership agreements are reformed or established | 2.1.1 Partnership agreements established with communities, civil society, NGOs, private sector, development partners and line ministries
-ETM3. Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE | 3.1 Result-based/norm-based system of resource allocations for equitable service delivery implemented | 3.1.1 Minimum delivery package formula developed and implemented for norm- and result based service delivery 3.1.2 Annual provincial plans use new system
-3.2 Competent human resources to effectively plan, manage, and deliver results | 3.2.1 MoE-wide Institutionalised capacity development system 3.2.2 Staff trained according to skills needs 3.2.3 Results-based staff appraisal system for MoE (TA and Tashkil staff) strengthened 3.2.4 National TA supported within reform programme
-3.3 Transparency, accountability, and anti-corruption systems for resource management adopted | 3.3.1 Anti-corruption strategy implemented 3.3.2 Policies, standards, plans, budgets, results and reports publicly disseminated
+ETM3. Resources (including human resources) are used effectively and accounted for transparently at all levels and anti-corruption improved within the MoE | 3.1 Result-based/norm-based system of resource allocations for equitable service delivery implemented | 3.1.1 Minimum delivery package formula developed and implemented for norm-and result based service delivery 3.1.2 Annual provincial plans use new system
+ | 3.2 Competent human resources to effectively plan, manage, and deliver results | 3.2.1 MoE-wide Institutionalised capacity development system 3.2.2 Staff trained according to skills needs 3.2.3 Results-based staff appraisal system for MoE (TA and Tashkil staff) strengthened 3.2.4 National TA supported within reform programme
+ | 3.3 Transparency, accountability, and anti-corruption systems for resource management adopted | 3.3.1 Anti-corruption strategy implemented 3.3.2 Policies, standards, plans, budgets, results and reports publicly disseminated
 ETM4. Monitoring and evaluation that support decision-making strengthened | 4.1 Effective and integrated monitoring and evaluation system implemented | 4.1.1 Information management systems merged into one single system accessible to MoE stakeholders and public 4.1.2 M&E/supervision teams operational
-
-## Annex 8 - Output Matrix for Efficient and Transparent Management
 
 108
 
