@@ -24,69 +24,69 @@ The Rule of Law;
 
 The protection and preservation of Fundamental Human Rights and Freedoms, Unity and Stability for our Nation;
 
-DO HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION .
+DO HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-#### 1.
-
-#### 2.
-
 ## CHAPTER ONE
 
 ### THE CONSTITUTION
 
-- The Sovereignty of Ghana resides in the people of Ghana in whose name and for whose welfare the powers of government are to be exercised in the manner and within the limits laid down in this Constitution.
+#### 1.
 
-- The Constitution shall be the supreme law of Ghana and any other law found to be inconsistent with any provision of this Constitution should, to the extent of the inconsistency, be void.
+(1) The Sovereignty of Ghana resides in the people of Ghana in whose name and for whose welfare the powers of government are to be exercised in the manner and within the limits laid down in this Constitution.
 
-- A person who alleges that -
+(2) The Constitution shall be the supreme law of Ghana and any other law found to be inconsistent with any provision of this Constitution shall, to the extent of the inconsistency, be void.
+
+#### 2.
+
+(1) A person who alleges that -
 
 (a) an enactment or anything contained in or done under the authority of that or any other enactment; or
 
 (b) any act or omission of any person;
 
-- is inconsistent with, or is in contravention of a provision of this Constitution, may bring an action in the Supreme Court for a declaration to that effect.
+is inconsistent with, or is in contravention of a provision of this Constitution, may bring an action in the Supreme Court for a declaration to that effect.
 
-- The Supreme Court shall, for the purposes of a declaration under clause (1) of this article, make such orders and give such directions as it may consider appropriate for giving effect, or enabling effect to be given, to the declaration so made.
+(2) The Supreme Court shall, for the purposes of a declaration under clause (1) of this article, make such orders and give such directions as it may consider appropriate for giving effect to, or enabling effect to be given to, the declaration so made.
 
-- Any person or group of persons of whom an order or direction is addressed under clause (2) of this article by the Supreme Court, shall duly obey and carry out the terms of the order or direction.
+(3) Any person or group of persons to whom an order or direction is addressed under clause (2) of this article by the Supreme Court, shall duly obey and carry out the terms of the order or direction.
 
-- Failure to obey or carry out the terms of an order or direction made or given under clause (2) of this article constitutes a high crime under this Constitution and shall, in the case of the President or the Vice-President, constitute a ground for removal from office under this Constitution.
+(4) Failure to obey or carry out the terms of an order or direction made or given under clause (2) of this article constitutes a high crime under this Constitution and shall, in the case of the President or the Vice-President, constitute a ground for removal from office under this Constitution.
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-#### 3.
-
-- A person convicted of a high crime under clause (4) of this article shall
+(5) A person convicted of a high crime under clause (4) of this article shall -
 
 (a) be liable to imprisonment not exceeding ten years without the option of a fine; and
 
 (b) not be eligible for election, or for appointment, to any public office for ten years beginning with the date of the expiration of the term of imprisonment.
 
-- Parliament shall have no power to enact a law establishing a one-party state.
+#### 3.
+
+(1) Parliament shall have no power to enact a law establishing a one-party state.
 
 (2) Any activity of a person or group of persons which suppresses or seeks to suppress the lawful political activity of any other person or any class of persons, or persons generally is unlawful.
 
-- Any person who -
+(3) Any person who -
 
 (a) by himself or in concert with others by any violent or other unlawful means, suspends or overthrows or abrogates this Constitution or any part of it, or attempts to do any such act; or
 
 (b) aids and abets in any manner any person referred to in paragraph (a) of this clause; commits the offence of high treason and shall, upon conviction, be sentenced to suffer death.
 
-- All citizens of Ghana shall have the right and duty at all times -
+(4) All citizens of Ghana shall have the right and duty at all times -
 
-(a) to defend this Constitution, and in particular, to resist any prison or group of persons seeking to commit any of the acts referred to in clause (3) of this article; and
+(a) to defend this Constitution, and in particular, to resist any person or group of persons seeking to commit any of the acts referred to in clause (3) of this article; and
 
 (b) to do all in their power to restore this Constitution after it has been suspended, overthrown, or abrogated as referred to in clause (3) of this article.
 
-- Any person or group of persons who suppresses or resists the suspension, overthrow or abrogation of this Constitution as referred to in clause (3) of this article, commit no offence.
+(5) Any person or group of persons who suppresses or resists the suspension, overthrow or abrogation of this Constitution as referred to in clause (3) of this article, commits no offence.
 
-- Where a person referred to in clause (5) of this article is punished for any act done under that clause, the punishment shall, on the restoration of this Constitution, be taken to be void from the time it was imposed and he
+(6) Where a person referred to in clause (5) of this article is punished for any act done under that clause, the punishment shall, on the restoration of this Constitution, be taken to be void from the time it was imposed and he
 
 [[END OF PAGE 3]]
 
@@ -94,15 +94,11 @@ DO HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION .
 
 shall, from that time, be taken to be absolved from all liabilities arising out of the punishment.
 
-(7) The Supreme Court shall, on application by or on behalf of a person who has suffered any punishment or loss to which clause (6) of this article relates, award him adequate compensation, which shall be charged on the Consolidated Fund, in respect of any suffering or loss incurred as a result of the punishment
+(7) The Supreme Court shall, on application by or on behalf of a person who has suffered any punishment or loss to which clause (6) of this article relates, award him adequate compensation, which shall be charged on the Consolidated Fund, in respect of any suffering or loss incurred as a result of the punishment.
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
-
-#### 4.
-
-#### 5.
 
 The Constitution
 
@@ -110,11 +106,15 @@ The Constitution
 
 ### TERRITORIES OF GHANA
 
-- The sovereign State of Ghana is a unitary republic consisting of those territories comprised in the regions which immediately before the coming into force of this Constitution, existed in Ghana, including the territorial sea and the air space.
+#### 4.
 
-(2). parliament may by law provide for the delimitation of the territorial sea, the contiguous zone, the exclusive economic zone and the continental shelf of Ghana.
+(1) The sovereign State of Ghana is a unitary republic consisting of those territories comprised in the regions which immediately before the coming into force of this Constitution, existed in Ghana, including the territorial sea and the air space.
 
-- Subject to the provisions of this article, the President may, by constitutional instrument -
+(2) Parliament may by law provide for the delimitation of the territorial sea, the contiguous zone, the exclusive economic zone and the continental shelf of Ghana.
+
+#### 5.
+
+(1) Subject to the provisions of this article, the President may, by constitutional instrument -
 
 (a) create a new region;
 
@@ -122,7 +122,7 @@ The Constitution
 
 (c) provide for the merger of two or more regions.
 
-- If the President, upon a petition being presented to him and, on the advice of the Council of State, is satisfied that there is substantial demand for -
+(2) If the President, upon a petition being presented to him and, on the advice of the Council of State, is satisfied that there is substantial demand for -
 
 (a) the creation of a new region;
 
@@ -130,9 +130,9 @@ The Constitution
 
 (c) the merger of any two or more regions;
 
-he shall, acting in accordance with the advice of the Council of State, appoint a commission of inquiry to inquire into the demand and to make recommendations on all the factors involved in the creation, alteration or merge.
+he shall, acting in accordance with the advice of the Council of State, appoint a commission of inquiry to inquire into the demand and to make recommendations on all the factors involved in the creation, alteration or merger.
 
-- If, notwithstanding that a petition has not been presented to him, the President is, on the advice of the Council of State, satisfied that the need
+(3) If, notwithstanding that a petition has not been presented to him, the President is, on the advice of the Council of State, satisfied that the need
 
 [[END OF PAGE 5]]
 
@@ -140,23 +140,19 @@ he shall, acting in accordance with the advice of the Council of State, appoint 
 
 has arisen for taking any of the steps referred to in paragraphs (a), (b) and (c) of clause (1) of this article, he may, acting in accordance with the advice of the Council of State, appoint a commission of inquiry to inquire into the need and to make recommendations on all the factors involved in the creation, alteration or merger.
 
-(4) Where a commission of inquiry appointed under clause (2) and (3) of this article finds that there is the need and a substantial demand for the creation, alteration or merger referred to in either of those clauses, it shall recommend to the President that a referendum be held, specifying the sues to be determined by the referendum and the places where the referendum should be held.
+(4) Where a commission of inquiry appointed under clause (2) or (3) of this article finds that there is the need and a substantial demand for the creation, alteration or merger referred to in either of those clauses, it shall recommend to the President that a referendum be held, specifying the issues to be determined by the referendum and the places where the referendum should be held.
 
-(5) The President shall refer the recommendations to the Electoral Commission, and the referendum all be held in a manner prescribed by the Electoral Commission.
+(5) The President shall refer the recommendations to the Electoral Commission, and the referendum shall be held in a manner prescribed by the Electoral Commission.
 
-(6) An issue referred for determination by referendum under clauses (4) and (5) shall not be taken to determined by the referendum unless at least fifty percent of the persons entitled to vote cast their votes at the referendum, and of the votes cast at least eighty per cent were cast in favour of that issue.
+(6) An issue referred for determination by referendum under clauses (4) and (5) shall not be taken to be determined by the referendum unless at least fifty per cent of the persons entitled to vote cast their votes at the referendum, and of the votes cast at least eighty per cent were cast in favour of that issue.
 
 (7) Where a referendum involves the merger of two or more regions, the issue shall not be taken to be determined unless at least sixty per cent of the persons entitled to vote at the referendum in each such region voted in favour of the merger of the two or more regions; and accordingly, clause (6) of this article shall not apply to the referendum.
 
-(8) The President shall, under clause (1) of this article, and acting in accordance with the results of the referendum held under clauses (4) and (5) of this article, issue a constitutional instrument giving effect, or enabling effect to be given, to the results.
+(8) The President shall, under clause (1) of this article, and acting in accordance with the results of the referendum held under clauses (4) and (5) of this article, issue a constitutional instrument giving effect to, or enabling effect to be given to, the results.
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
-
-#### 6.
-
-#### 7.
 
 The Constitution
 
@@ -164,15 +160,19 @@ The Constitution
 
 ### CITIZENSHIP
 
+#### 6.
+
 (1) Every person who, on the coming into force of this Constitution, is a citizen of Ghana by law shall continue to be a citizen of Ghana.
 
 (2) Subject to the provisions of this Constitution, a person born in or outside Ghana after the coming into force of this Constitution, shall become a citizen of Ghana at the date of his birth if either of his parents or grandparents is or was a citizen of Ghana.
 
-(3) A child of not more than seven years of age found in Ghana whose parents are not know shall be presumed to be a citizen of Ghana by birth.
+(3) A child of not more than seven years of age found in Ghana whose parents are not known shall be presumed to be a citizen of Ghana by birth.
 
-(4) A child of not more than sixteen years of age neither of whose parents is a citizen of Ghana who is adopted by a citizen of Ghana shall, be virtue of the adoption, be a citizen of Ghana.
+(4) A child of not more than sixteen years of age neither of whose parents is a citizen of Ghana who is adopted by a citizen of Ghana shall, by virtue of the adoption, be a citizen of Ghana.
 
-- A woman married to a man who is a citizen of Ghana or a man married to a woman who is a citizen of Ghana may, upon making an application in the manner prescribed by Parliament, be registered as a citizen of Ghana.
+#### 7.
+
+(1) A woman married to a man who is a citizen of Ghana or a man married to a woman who is a citizen of Ghana may, upon making an application in the manner prescribed by Parliament, be registered as a citizen of Ghana.
 
 (2) Clause (1) of this article applies also to a person who was married to a person who, but for his or her death, would have continued to be a citizen of Ghana under clause (1) of article 6 of this Constitution.
 
@@ -186,15 +186,13 @@ The Constitution
 
 [[START OF PAGE 8]]
 
-#### 9.
-
-#### 8.
-
 the marriage was entered into in good faith; and the authority may only effect the registration upon being so satisfied.
 
 (6) In the case of a man seeking registration, clause (1) of this article applies only if the applicant permanently resides in Ghana.
 
-(1) Subject to this article, a citizen of Ghana Shall cease forthwith to be a citizen of Ghana if, on attaining the age of twenty-one years, he, by a voluntary act, other than marriage, acquired or retains the citizenship of a country other than Ghana.
+#### 8.
+
+(1) Subject to this article, a citizen of Ghana shall cease forthwith to be a citizen of Ghana if, on attaining the age of twenty-one years, he, by a voluntary act, other than marriage, acquires or retains the citizenship of a country other than Ghana.
 
 (2) A person who becomes a citizen of Ghana by registration and immediately after the day on which he becomes a citizen of Ghana is also a citizen of some other country, shall cease to be a citizen of Ghana unless he has renounced his citizenship of that other country, taken the oath of allegiance specified in the Second Schedule to this Constitution and made and registered such declaration of his intentions concerning residence as may be prescribed by law, or unless he has obtained an extension of time for taking those steps and the extended period has not expired.
 
@@ -202,7 +200,9 @@ the marriage was entered into in good faith; and the authority may only effect t
 
 (4) Where the law of a country, other than Ghana, requires a person who marries a citizen of that country to renounce the citizenship of his own country by virtue of that marriage, a citizen of Ghana who is deprived of his citizenship of Ghana by virtue of that marriage shall, on the dissolution of that marriage, if he thereby loses his citizenship acquired by that marriage, become a citizen of Ghana.
 
-(1) Parliamentary may make provision for the acquisition of citizenship of Ghana by persons who are not eligible to become citizens of Ghana under the provision of this Constitution.
+#### 9.
+
+(1) Parliament may make provision for the acquisition of citizenship of Ghana by persons who are not eligible to become citizens of Ghana under the provisions of this Constitution.
 
 (2) Except as otherwise provided in article 7 of this Constitution, a person shall not be registered as a citizen of Ghana unless at the time of his application for registration he is able to speak and understand an indigenous language of Ghana.
 
@@ -210,39 +210,39 @@ the marriage was entered into in good faith; and the authority may only effect t
 
 [[START OF PAGE 9]]
 
-#### 10.
+(3) The High Court may, on an application made for the purpose by the Attorney-General, deprive a person who is a citizen of Ghana, otherwise than by birth, of that citizenship on the ground -
 
-(3) The High Court may, on an application made for the purpose by the Attorney-General, deprive a person who is a citizen of Ghana, otherwise than by birth, of that citizenship on the ground.
-
-(a) that the activities of that person are inimical of the security of the State or prejudicial to public morality or the public interest; or
+(a) that the activities of that person are inimical to the security of the State or prejudicial to public morality or the public interest; or
 
 (b) that the citizenship was acquired by fraud, misrepresentation or any other improper or irregular practice.
 
-(4) There shall be published in the Gazette by the appropriate authority and within three months after the application or the registration, as the case may be, the name,. particulars and other details of a person who, under this article applies to be registered as a citizen of Ghana or has been registered as a citizen of Ghana.
+(4) There shall be published in the Gazette by the appropriate authority and within three months after the application or the registration, as the case may be, the name, particulars and other details of a person who, under this article, applies to be registered as a citizen of Ghana or has been registered as a citizen of Ghana.
 
 (5) Parliament may make provision for the renunciation by any person of his citizenship of Ghana.
 
+#### 10.
+
 (1) A reference in this Chapter to the citizenship of the parent of a person at the time of the birth of that person shall, in relation to a person born after the death of the parent, be construed as a reference to the citizenship of the parent at the time of the parent's death.
 
-(2) For the purposes of clause (1) of this article, where the death occurred before the coming into force of this Constitution, the citizenship that the parent would have had if he or she had died on the coming into force of this Constitution shall be deemed to be his or her citizenship at the time of his or her death
+(2) For the purposes of clause (1) of this article, where the death occurred before the coming into force of this Constitution, the citizenship that the parent would have had if he or she had died on the coming into force of this Constitution shall be deemed to be his or her citizenship at the time of his or her death.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-#### 11.
-
 ## CHAPTER FOUR
 
 ### THE LAWS OF GHANA
 
-- The laws of Ghana shall comprise-
+#### 11.
+
+(1) The laws of Ghana shall comprise -
 
 (a) this Constitution;
 
 (b) enactments made by or under the authority of the Parliament established by this Constitution;
 
-(c) any Orders, Rules and Regulations made by any person or authority under a power conferred by this Constitution.
+(c) any Orders, Rules and Regulations made by any person or authority under a power conferred by this Constitution;
 
 (d) the existing law; and
 
@@ -250,13 +250,13 @@ the marriage was entered into in good faith; and the authority may only effect t
 
 (2) The common law of Ghana shall comprise the rules of law generally known as the common law, the rules generally known as the doctrines of equity and the rules of customary law including those determined by the Superior Court of Judicature.
 
-- For the purposes of this article, "customary law" means the rules of law, which by custom are applicable to particular communities in Ghana.
+(3) For the purposes of this article, "customary law" means the rules of law, which by custom are applicable to particular communities in Ghana.
 
-- The existing law shall, except as otherwise provided in clause (1) of this article, comprise the written and unwritten laws of Ghana as they existed immediately before the coming into force of this Constitution, and any Act, Decree, law or statutory instrument issued or made before that date, which is to come into force on or after that date.
+(4) The existing law shall, except as otherwise provided in clause (1) of this article, comprise the written and unwritten laws of Ghana as they existed immediately before the coming into force of this Constitution, and any Act, Decree, law or statutory instrument issued or made before that date, which is to come into force on or after that date.
 
-- Subject to the provisions of this Constitution, the existing law shall not be affected by the coming into force of this Constitution.
+(5) Subject to the provisions of this Constitution, the existing law shall not be affected by the coming into force of this Constitution.
 
-(6) The existing law shall be construed with any modifications, adaptations, qualifications and exceptions necessary to bring it into conformity with the provisions of the provisions of this Constitution, or otherwise to give effect to, or enable effect to be given to, any changes effected by this Constitution.
+(6) The existing law shall be construed with any modifications, adaptations, qualifications and exceptions necessary to bring it into conformity with the provisions of this Constitution, or otherwise to give effect to, or enable effect to be given to, any changes effected by this Constitution.
 
 (7) Any Order, Rule or Regulation made by a person or authority under a power conferred by this Constitution or any other law shall -
 
@@ -264,9 +264,11 @@ the marriage was entered into in good faith; and the authority may only effect t
 
 [[START OF PAGE 11]]
 
-(a) be laid before Parliament; (b) be published in the Gazette on the day it is laid before Parliament; and (c) come into force at the expiration of twenty-one sitting days
+(a) be laid before Parliament;
 
-- after being so laid unless Parliament, before the expiration of the twenty-one days, annuls the Order, Rule or Regulation by the votes of not less than two thirds of all the members of Parliament.
+(b) be published in the Gazette on the day it is laid before Parliament; and
+
+(c) come into force at the expiration of twenty-one sitting days after being so laid unless Parliament, before the expiration of the twenty-one days, annuls the Order, Rule or Regulation by the votes of not less than two-thirds of all the members of Parliament.
 
 The Constitution
 
@@ -274,23 +276,21 @@ The Constitution
 
 [[START OF PAGE 12]]
 
-#### 12.
-
-#### 13.
-
-#### 14.
-
 ## CHAPTER FIVE
 
 ### FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
-- The fundamental human rights and freedoms enshrined in this chapter shall be respected and upheld by the Executive, Legislature and Judiciary and all other organs of government and its agencies and, where applicable to them, by all natural and legal persons in Ghana, and shall be enforceable by the Courts as provided for in this Constitution.
+#### 12.
 
-- Every person in Ghana, whatever his race, place of origin, political opinion, colour, religion, creed or gender shall be entitled to the fundamental human rights and freedoms of the individual contained in this Chapter but subject to respect for the rights and freedoms of others and for the public interest.
+(1) The fundamental human rights and freedoms enshrined in this chapter shall be respected and upheld by the Executive, Legislature and Judiciary and all other organs of government and its agencies and, where applicable to them, by all natural and legal persons in Ghana, and shall be enforceable by the Courts as provided for in this Constitution.
 
-- No person shall be deprived of his life intentionally except in the exercise of the execution of a sentence of a court in respect of a criminal offence under the laws of Ghana of which he has been convicted.
+(2) Every person in Ghana, whatever his race, place of origin, political opinion, colour, religion, creed or gender shall be entitled to the fundamental human rights and freedoms of the individual contained in this Chapter but subject to respect for the rights and freedoms of others and for the public interest.
 
-- A person shall not be held to have deprived another person of his life in contravention of clause (1) of this article if that other person dies as the result of a lawful act of war or if that other person dies as the result of the use of force to such an extent as is reasonably justifiable in the particular circumstances.-
+#### 13.
+
+(1) No person shall be deprived of his life intentionally except in the exercise of the execution of a sentence of a court in respect of a criminal offence under the laws of Ghana of which he has been convicted.
+
+(2) A person shall not be held to have deprived another person of his life in contravention of clause (1) of this article if that other person dies as the result of a lawful act of war or if that other person dies as the result of the use of force to such an extent as is reasonably justifiable in the particular circumstances -
 
 (a) for the defence of any person from violence or for the defence of property; or
 
@@ -300,7 +300,9 @@ The Constitution
 
 (d) in order to prevent the commission of a crime by that person.
 
-- Every person shall be entitled to his personal liberty and no person shall be deprived of his personal liberty except in the following cases and in accordance with procedure permitted by law -
+#### 14.
+
+(1) Every person shall be entitled to his personal liberty and no person shall be deprived of his personal liberty except in the following cases and in accordance with procedure permitted by law -
 
 [[END OF PAGE 12]]
 
@@ -326,17 +328,13 @@ The Constitution
 
 (a) for the purpose of bringing him before a court in execution of an order of a court; or
 
-(b) upon reasonable suspicion of his having committed or being about to commit a criminal offence under the laws of Ghana, and who is not released, shall be brought before a court within fortyeight hours after the arrest, restriction or detention.
+(b) upon reasonable suspicion of his having committed or being about to commit a criminal offence under the laws of Ghana, and who is not released, shall be brought before a court within forty-eight hours after the arrest, restriction or detention.
 
-(4) Where a person arrested, restricted or detained under paragraph (a) or (b) of clause (3) of this article is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him, he shall be released wither unconditionally or upon reasonable conditions, including in particular, conditions reasonably necessary to
+(4) Where a person arrested, restricted or detained under paragraph (a) or (b) of clause (3) of this article is not tried within a reasonable time, then, without prejudice to any further proceedings that may be brought against him, he shall be released either unconditionally or upon reasonable conditions, including in particular, conditions reasonably necessary to
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
-
-#### 15.
-
-#### 16.
 
 ensure that he appears at a later date for trial or for proceedings preliminary to trial.
 
@@ -344,11 +342,13 @@ ensure that he appears at a later date for trial or for proceedings preliminary 
 
 (6) Where a person is convicted and sentenced to a term of imprisonment for an offence, any period he has spent in lawful custody in respect of that offence before the completion of his trial shall be taken into account in imposing the term of imprisonment.
 
-(7) Where a person who has served the whole or a part of his sentence is acquitted on a appeal by a court, other than the Supreme Court, the court may certify tot he Supreme Court that the person acquitted be paid compensation; and the Supreme Court may, upon examination of all the facts and the certificate of the court concerned, award such compensation as it may think fit; or, where the acquittal is by the Supreme Court, it may order compensation to be paid to the person acquitted.
+(7) Where a person who has served the whole or a part of his sentence is acquitted on an appeal by a court, other than the Supreme Court, the court may certify to the Supreme Court that the person acquitted be paid compensation; and the Supreme Court may, upon examination of all the facts and the certificate of the court concerned, award such compensation as it may think fit; or, where the acquittal is by the Supreme Court, it may order compensation to be paid to the person acquitted.
 
-- The dignity of all persons shall be inviolable.
+#### 15.
 
-- No person shall, whether or not he is arrested, restricted or retained, be subjected to -
+(1) The dignity of all persons shall be inviolable.
+
+(2) No person shall, whether or not he is arrested, restricted or detained, be subjected to -
 
 (a) torture or other cruel, inhuman or degrading treatment or punishment;
 
@@ -356,19 +356,19 @@ ensure that he appears at a later date for trial or for proceedings preliminary 
 
 (3) A person who has not been convicted of a criminal offence shall not be treated as a convicted person and shall be kept separately from convicted persons.
 
-- A juvenile offender who is kept in lawful custody or detention shall be kept separately from an adult offender.
+(4) A juvenile offender who is kept in lawful custody or detention shall be kept separately from an adult offender.
 
-- No person shall be held in slavery or servitude.
+#### 16.
 
-- No person shall be required to perform forced labour.
+(1) No person shall be held in slavery or servitude.
 
-- For the purposes of this article, "forced labour" does not include -
+(2) No person shall be required to perform forced labour.
+
+(3) For the purposes of this article, "forced labour" does not include -
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
-
-#### 17.
 
 (a) any labour required as a result of a sentence or order of a court; or
 
@@ -377,6 +377,8 @@ ensure that he appears at a later date for trial or for proceedings preliminary 
 (c) any labour required during any period when Ghana is at war or in the event of an emergency or calamity that threatens the life and well-being of the community, to the extent that the requirement of such labour is reasonably justifiable in the circumstances of any situation arising or existing during that period for the purposes of dealing with the situation; or
 
 (d) any labour reasonably required as part of normal communal or other civic obligations.
+
+#### 17.
 
 (1) All persons shall be equal before the law.
 
@@ -396,23 +398,23 @@ ensure that he appears at a later date for trial or for proceedings preliminary 
 
 [[START OF PAGE 16]]
 
-#### 18.
-
-#### 19.
-
 economic activities of such persons and for other matters relating to such persons; or
 
 (d) for making different provision for different communities having regard to their special circumstances not being provision which is inconsistent with the spirit of this Constitution.
 
 (5) Nothing shall be taken to be inconsistent with this article which is allowed to be done under any provision of this Chapter.
 
-- Every person has the right to own property either alone or in association with others.
+#### 18.
 
-- No person shall be subjected to interference with the privacy of his home, property, correspondence or communication except in accordance with law and as may be necessary in a free and democratic society for public safety or the economic well-being of the country, for the protection of health or morals, for the prevention of disorder or crime or for the protection of the rights or freedoms of others.
+(1) Every person has the right to own property either alone or in association with others.
 
-- A person charged with a criminal offence shall be given a fair hearing within a reasonable time by a court.
+(2) No person shall be subjected to interference with the privacy of his home, property, correspondence or communication except in accordance with law and as may be necessary in a free and democratic society for public safety or the economic well-being of the country, for the protection of health or morals, for the prevention of disorder or crime or for the protection of the rights or freedoms of others.
 
-- A person charged with a criminal offence shall -
+#### 19.
+
+(1) A person charged with a criminal offence shall be given a fair hearing within a reasonable time by a court.
+
+(2) A person charged with a criminal offence shall -
 
 (a) in the case of an offence other than high treason or treason, the punishment for which is death or imprisonment for life, be tried by a judge and jury and -
 
@@ -420,7 +422,7 @@ economic activities of such persons and for other matters relating to such perso
 
 (ii) in the case of life imprisonment, the verdict of the jury shall be by such majority as Parliament may by law prescribe;
 
-(b) in the case of an offence tribal by a Regional Tribunal the penalty for which is death, the decision of the Chairman and the other panel members shall be unanimous;
+(b) in the case of an offence triable by a Regional Tribunal the penalty for which is death, the decision of the Chairman and the other panel members shall be unanimous;
 
 (c) be presumed to be innocent until he is proved or has pleaded guilty;
 
@@ -428,9 +430,9 @@ economic activities of such persons and for other matters relating to such perso
 
 [[START OF PAGE 17]]
 
-(d) be informed immediately in a language that he understands, and in detail; of the nature of the offence charged;
+(d) be informed immediately in a language that he understands, and in detail, of the nature of the offence charged;
 
-(e) be given adequate time and facilities for the preparation of this defence;
+(e) be given adequate time and facilities for the preparation of his defence;
 
 (f) be permitted to defend himself before the court in person or by a lawyer of his choice;
 
@@ -440,7 +442,7 @@ economic activities of such persons and for other matters relating to such perso
 
 (i) in the case of the offence of high treason or treason, be tried by the High Court duly constituted by three Justices of that Court and the decision of the Justices shall be unanimous.
 
-(3) The trial of a person charged with a criminal offence shall take place in his presence unless;-
+(3) The trial of a person charged with a criminal offence shall take place in his presence unless -
 
 (a) he refuses to appear before the court for the trial to be conducted in his presence after he has been duly notified of the trial; or
 
@@ -466,13 +468,13 @@ economic activities of such persons and for other matters relating to such perso
 
 (11) No person shall be convicted of a criminal offence unless the offence is defined and the penalty for it is prescribed in a written law.
 
-(12) Clause (11) of this article shall not prevent a Superior Court from punishing a person for contempt of itself notwithstanding that the act or omission constitution the contempt is not defined in a written law and the penalty is not so prescribed.
+(12) Clause (11) of this article shall not prevent a Superior Court from punishing a person for contempt of itself notwithstanding that the act or omission constituting the contempt is not defined in a written law and the penalty is not so prescribed.
 
 (13) An adjudicating authority for the determination of the existence or extent of a civil right or obligation shall, subject to the provisions of this Constitution, be established by law and shall be independent and impartial; and where proceedings for determination are instituted by a person before such an adjudicating authority, the case shall be given a fair hearing within a reasonable time.
 
 (14) Except as may be otherwise ordered by the adjudicating authority in the interest of public morality, public safety, or public order the proceedings of any such adjudicating authority shall be in public.
 
-(15) Nothing in this article shall prevent an adjudicating authority from excluding from the proceeding persons, other than the parties to the proceedings and their lawyers, to such an extent as the authority-
+(15) Nothing in this article shall prevent an adjudicating authority from excluding from the proceedings persons, other than the parties to the proceedings and their lawyers, to such an extent as the authority -
 
 (a) may consider necessary or expedient in circumstances where publicity would prejudice the interests of justice; or
 
@@ -482,13 +484,13 @@ economic activities of such persons and for other matters relating to such perso
 
 (b) may be empowered by law to do in the interest of defence, public safety, public order, public morality, the welfare of persons under the age of eighteen or the protection of the private lives of persons concerned in the proceedings.
 
-- Nothing in, or done under the authority of, any law shall be held to be inconsistent with or in contravention of, the following provisions
+(16) Nothing in, or done under the authority of, any law shall be held to be inconsistent with or in contravention of, the following provisions -
 
-(a) paragraph (c) of clause (2) of this article, to the extent that the law in question imposes upon a person charged with a criminal offence, the burden of providing particular facts; or
+(a) paragraph (c) of clause (2) of this article, to the extent that the law in question imposes upon a person charged with a criminal offence, the burden of proving particular facts; or
 
 (b) clause (7) of this article, to the extent that the law in question authorises a court to try a member of a disciplined force for a criminal offence notwithstanding any trial and conviction or acquittal of that member under the disciplinary law of the force, except that any court which tries that member and convicts him shall, in sentencing him to any punishment, take into account any punishment imposed on him under that disciplinary law.
 
-- Subject to clause (18) of this article, treason shall consist only-
+(17) Subject to clause (18) of this article, treason shall consist only -
 
 (a) in levying war against Ghana or assisting any state or person or inciting or conspiring with any person to levy war against Ghana; or
 
@@ -496,29 +498,29 @@ economic activities of such persons and for other matters relating to such perso
 
 (c) in taking part or being concerned in or inciting or conspiring with any person to make or take part or be concerned in, any such attempt.
 
-- An act which aims at procuring by constitutional means an alteration of the law or of the policies of the Government shall not be considered as an act calculated to overthrow the organs of government.
+(18) An act which aims at procuring by constitutional means an alteration of the law or of the policies of the Government shall not be considered as an act calculated to overthrow the organs of government.
 
-- Notwithstanding any other provision of this article, but subject to clause (20) of this article, Parliament may, by or under an Act of Parliament, establish military courts or tribunals for the trial of offences against military law committed by persons subject to military law.
+(19) Notwithstanding any other provision of this article, but subject to clause (20) of this article, Parliament may, by or under an Act of Parliament, establish military courts or tribunals for the trial of offences against military law committed by persons subject to military law.
 
-- Where a person subject to military law, who is not in active service, commits an offence which is within the jurisdiction of a civil court, he shall not be tried by a court-martial or military tribunal for the offence
+(20) Where a person subject to military law, who is not in active service, commits an offence which is within the jurisdiction of a civil court, he shall not be tried by a court-martial or military tribunal for the offence
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-#### 20.
-
-unless the offence is within the jurisdiction of a court-martial or other military tribunals under any law for the enforcement of military discipline.
+unless the offence is within the jurisdiction of a court-martial or other military tribunal under any law for the enforcement of military discipline.
 
 (21) For the purposes of this article, "criminal offence" means a criminal offence under the laws of Ghana.
 
-- No property of any description or interest in or right over any property shall be compulsorily taken possession of or acquired by the State unless the following conditions are satisfied.
+#### 20.
 
-(a) the taking of possession or acquisition if necessary in the interest of defence, public safety, public order, public morality, public health, town and country planning or the development or utilization of property in such a manner as to promote the public benefit; and
+(1) No property of any description or interest in or right over any property shall be compulsorily taken possession of or acquired by the State unless the following conditions are satisfied -
+
+(a) the taking of possession or acquisition is necessary in the interest of defence, public safety, public order, public morality, public health, town and country planning or the development or utilization of property in such a manner as to promote the public benefit; and
 
 (b) the necessity for the acquisition is clearly stated and is such as to provide reasonable justification for causing any hardship that may result to any person who has an interest in or right over the property.
 
-(2) Compulsory acquisition of property by the State shall only be made under a law which makes provision for.
+(2) Compulsory acquisition of property by the State shall only be made under a law which makes provision for -
 
 (a) the prompt payment of fair and adequate compensation; and
 
@@ -526,17 +528,15 @@ unless the offence is within the jurisdiction of a court-martial or other milita
 
 (3) Where a compulsory acquisition or possession of land effected by the State in accordance with clause (1) of this article involves displacement of any inhabitants, the State shall resettle the displaced inhabitants on suitable alternative land with due regard for their economic well-being and social and cultural values.
 
-(4) Nothing in this article shall be construed as affecting the operation of any general law so far as it provides for the taking of possession or acquisition of property.
+(4) Nothing in this article shall be construed as affecting the operation of any general law so far as it provides for the taking of possession or acquisition of property -
 
-(a) by way of vesting or administration of trust property, enemy property or the property of persons adjudged or otherwise declared bankrupt or insolvent, persons of unsafe mind, deceased persons or
+(a) by way of vesting or administration of trust property, enemy property or the property of persons adjudged or otherwise declared bankrupt or insolvent, persons of unsound mind, deceased persons or
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-#### 21.
-
-bodies corporate or unincorporated in the course of bent wound up; or
+bodies corporate or unincorporated in the course of being wound up; or
 
 (b) in the execution of a judgement or order of a court; or
 
@@ -548,11 +548,13 @@ bodies corporate or unincorporated in the course of bent wound up; or
 
 (f) for so long as may be necessary for the carrying out of work on any land for the purpose of the provision of public facilities or utilities, except that where any damage results from any such work there shall be paid appropriate compensation.
 
-- Any property compulsorily taken possession of or acquired in the public interest or for a public purpose shall be used only in the public interest or for the public purpose for which it was acquired.
+(5) Any property compulsorily taken possession of or acquired in the public interest or for a public purpose shall be used only in the public interest or for the public purpose for which it was acquired.
 
-- Where the property is not used in the public interest or for the purpose for which it was acquired, the owner of the property immediately before the compulsory acquisition, shall be given the first option for acquiring the property and shall, on such reacquisition refund the whole or part of the compensation paid to him as provided for by law or such other amount as is commensurate with the value of the property at the time of the reacquisition.
+(6) Where the property is not used in the public interest or for the purpose for which it was acquired, the owner of the property immediately before the compulsory acquisition, shall be given the first option for acquiring the property and shall, on such reacquisition refund the whole or part of the compensation paid to him as provided for by law or such other amount as is commensurate with the value of the property at the time of the reacquisition.
 
-- All persons shall have the right to -
+#### 21.
+
+(1) All persons shall have the right to -
 
 (a) freedom of speech and expression, which shall include freedom of the press and other media;
 
@@ -582,25 +584,21 @@ bodies corporate or unincorporated in the course of bent wound up; or
 
 (b) for the imposition of restrictions, by order of a court, on the movement or residence within Ghana of any person either as a result of his having been found guilty of a criminal offence under the laws of Ghana or for the purposes of ensuring that he appears before a court at a later date for trial for a criminal offence or for proceedings relating to his extradition or lawful removal from Ghana; or
 
-(c) for the imposition of restrictions that are reasonably required in the interest of defence, public safety, pubic health or the running of essential services, on the movement or residence within Ghana of any person or persons generally, or any class of persons; or
+(c) for the imposition of restrictions that are reasonably required in the interest of defence, public safety, public health or the running of essential services, on the movement or residence within Ghana of any person or persons generally, or any class of persons; or
 
-(d) for the imposition of restrictions on the freedom of entry into Ghana, or of movement in Ghana, if a person who is not a citizen of Ghana; or
+(d) for the imposition of restrictions on the freedom of entry into Ghana, or of movement in Ghana, of a person who is not a citizen of Ghana; or
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-#### 22.
-
-#### 23.
-
-#### 24.
-
-(e) that is reasonably required for the purpose of safeguarding the people of Ghana against the teaching or encourages disrespect for the nationhood of Ghana, the national symbols and emblems, or incites hatred against other members of the community except so far as that provision or , as the case may be, the thing done under the authority of that law is shown not to be reasonably justifiable in terms of the spirit of this Constitution.
+(e) that is reasonably required for the purpose of safeguarding the people of Ghana against the teaching or propagation of a doctrine which exhibits or encourages disrespect for the nationhood of Ghana, the national symbols and emblems, or incites hatred against other members of the community except so far as that provision or, as the case may be, the thing done under the authority of that law is shown not to be reasonably justifiable in terms of the spirit of this Constitution.
 
 (5) Whenever a person, whose freedom of movement has been restricted by the order of a court under paragraph (a) of clause (4) of this article, requests at any time during the period of that restriction not earlier than seven days after the order was made, or three months after he last made such request, as the case may be, his case shall be reviewed by that court.
 
 (6) On a review by a court under clause (5) of this article, the court may, subject to the right of appeal from its decision, make such order for the continuation or termination of the restriction as it considers necessary or expedient.
+
+#### 22.
 
 (1) A spouse shall not be deprived of a reasonable provision out of the estate of a spouse whether or not the spouse died having made a will.
 
@@ -612,13 +610,15 @@ bodies corporate or unincorporated in the course of bent wound up; or
 
 (b) assets which are jointly acquired during marriage shall be distributed equitably between the spouses upon dissolution of the marriage.
 
+#### 23.
+
 Administrative bodies and administrative officials shall act fairly and reasonably and comply with the requirements imposed on them by law and persons aggrieved by the exercise of such acts and decisions shall have the right to seek redress before a court or other tribunal.
+
+#### 24.
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
-
-#### 25.
 
 (1) Every person has the right to work under satisfactory, safe and healthy conditions, and shall receive equal pay for equal work without distinction of any kind.
 
@@ -627,6 +627,8 @@ Administrative bodies and administrative officials shall act fairly and reasonab
 (3) Every worker has a right to form or join a trade union of his choice for the promotion and protection of his economic and social interests.
 
 (4) Restrictions shall not be placed on the exercise of the right conferred by clause (3) of this article except restrictions prescribed by law and reasonably necessary in the interest of national security or public order or for the protection of the rights and freedoms of others.
+
+#### 25.
 
 (1) All persons shall have the right to equal educational opportunities and facilities and with a view to achieving the full realisation of that right -
 
@@ -648,21 +650,21 @@ Administrative bodies and administrative officials shall act fairly and reasonab
 
 [[START OF PAGE 25]]
 
+(1) Every person is entitled to enjoy, practice, profess, maintain and promote any culture, language, tradition or religion subject to the provisions of this Constitution.
+
+(2) All customary practices which dehumanise or are injurious to the physical and mental well-being of a person are prohibited.
+
 #### 27.
+
+(1) Special care shall be accorded to mothers during a reasonable period before and after childbirth; and during those periods, working mothers shall be accorded paid leave.
+
+(2) Facilities shall be provided for the care of children below school-going age to enable women, who have the traditional care for children, realise their full potential.
+
+(3) Women shall be guaranteed equal rights to training and promotion without any impediments from any person.
 
 #### 28.
 
-- Every person is entitled to enjoy, practice, profess, maintain and promote any culture, language, tradition or religion subject to the provisions of this Constitution.
-
-- All customary practices which dehumanise or are injurious to the physical and mental well being of a person are prohibited.
-
-- Special care shall be accorded to mothers during a reasonable period before and after childbirth; and during those periods, working mothers shall be accorded paid leave.
-
-- Facilities shall be provided for the care of children below school-going age to enable women, who have the traditional care for children, realise their full potential.
-
-- Women shall be guaranteed equal rights to training and promotion without any impediments from any person.
-
-- Parliament shall enact such laws as are necessary to ensure that -
+(1) Parliament shall enact such laws as are necessary to ensure that -
 
 (a) every child has the right to the same measure of special care, assistance and maintenance as is necessary for its development from its natural parents, except where those parents have effectively surrendered their rights and responsibilities in respect of the child in accordance with law;
 
@@ -679,87 +681,80 @@ Administrative bodies and administrative officials shall act fairly and reasonab
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+(3) A child shall not be subjected to torture or other cruel, inhuman or degrading treatment or punishment.
+
+(4) No child shall be deprived by any other person of medical treatment, education or any other social or economic benefit by reason only of religious or other beliefs.
+
+(5) For the purposes of this article, "child" means a person below the age of eighteen years.
 
 #### 29.
 
+(1) Disabled persons have the right to live with their families or with foster parents and to participate in social, creative or recreational activities.
+
+(2) A disabled person shall not be subjected to differential treatment in respect of his residence other than that required by his condition or by the improvement which he may derive from the treatment.
+
+(3) If the stay of a disabled person in a specialised establishment is indispensable, the environment and living conditions there shall be as close as possible to those of the normal life of a person of his age.
+
+(4) Disabled persons shall be protected against all exploitation, all regulations and all treatment of a discriminatory, abusive or degrading nature.
+
+(5) In any judicial proceedings in which a disabled person is a party, the legal procedure applied shall take his physical and mental condition into account.
+
+(6) As far as practicable, every place to which the public have access shall have appropriate facilities for disabled persons.
+
+(7) Special incentives shall be given to disabled persons engaged in business and also to business organisations that employ disabled persons in significant numbers.
+
+(8) Parliament shall enact such laws as are necessary to ensure the enforcement of the provisions of this article.
+
 #### 30.
 
-- A child shall not be subjected to torture or other cruel, inhuman or degrading treatment or punishment.
-
-- No child shall be deprived by any other person of medical treatment, education or any other social or economic benefit by reason only of religious or other beliefs.
-
-- For the purposes of this article, "child" means a person below the age of eighteen years.
-
-- Disabled persons have the right to live with their families or with foster parents and to participate in social, creative or recreational activities.
-
-- A disabled person shall not be subjected to differential treatment in respect of his residence other than that required by his condition or by the improvement which he may derive from the treatment.
-
-- If the stay of a disabled person in a specialised establishment is indispensable, the environment and living conditions there shall be as close as possible to those of the normal life of a person of his age.
-
-- Disabled persons shall be protected against all exploitation, all regulations and all treatment of a discriminatory, abusive or degrading nature.
-
-- In any Judicial proceedings in which a disabled person is a party, the legal procedure applied shall take his physical and mental condition into account.
-
-- As far as practicable, every place to which the public have access shall have appropriate facilities for disabled persons.
-
-- Special incentive shall be given to disabled persons engaged in business and also to business organisations that employ disabled persons in significant numbers.
-
-- Parliament shall enact such laws as are necessary to ensure the enforcement of the provisions of this article.
-
 A person who by reason of sickness or any other cause is unable to give his consent shall not be deprived by any other person of medical
-
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
-
-#### 31.
-
 treatment, education or any other social or economic benefit by reason only of religious or other beliefs.
 
 ### Emergency Powers
 
-- The President may, acting in accordance with the advice of the Council of State, by Proclamation published in the Gazette, declare that a state of emergency exists in Ghana or in any part of Ghana for the purposes of the provisions of this Constitution.
+#### 31.
 
-- Notwithstanding any other provision of this article, where a proclamation is published under clause (1) of this article, the President shall place immediately before Parliament, the facts and circumstances leading to the declaration of the state of emergency.
+(1) The President may, acting in accordance with the advice of the Council of State, by Proclamation published in the Gazette, declare that a state of emergency exists in Ghana or in any part of Ghana for the purposes of the provisions of this Constitution.
 
-- Parliament shall, within seventy-two hours after being so notified, decide whether the proclamation should remain in force or should be revoked; and the President shall act in accordance with the decision of Parliament.
+(2) Notwithstanding any other provision of this article, where a proclamation is published under clause (1) of this article, the President shall place immediately before Parliament, the facts and circumstances leading to the declaration of the state of emergency.
 
-- A declaration of a state of emergency shall cease to have effect at the expiration of a period of seven days beginning with the date of publication of the declaration, unless, before the expiration of that period, it is approved by a resolution passed for that purpose by a majority of all the members of Parliament.
+(3) Parliament shall, within seventy-two hours after being so notified, decide whether the proclamation should remain in force or should be revoked; and the President shall act in accordance with the decision of Parliament.
 
-- Subject to clause (7) of this article, a declaration of a state of emergency approved by a resolution of Parliament under clause (4) of this article shall continue in force until the expiration of a period of three months beginning with the date of its being so approved or until such earlier date as many be specified in the resolution.
+(4) A declaration of a state of emergency shall cease to have effect at the expiration of a period of seven days beginning with the date of publication of the declaration, unless, before the expiration of that period, it is approved by a resolution passed for that purpose by a majority of all the members of Parliament.
 
-- Parliament may, by resolution passed by a majority of all members of Parliament, extend its approval of the declaration for periods of not more than one month at a time.
+(5) Subject to clause (7) of this article, a declaration of a state of emergency approved by a resolution of Parliament under clause (4) of this article shall continue in force until the expiration of a period of three months beginning with the date of its being so approved or until such earlier date as may be specified in the resolution.
 
-- Parliament may, by a resolution passed by a majority of all the members of Parliament, at any time, revoke a declaration of a state of emergency approved by Parliament under this article.
+(6) Parliament may, by resolution passed by a majority of all members of Parliament, extend its approval of the declaration for periods of not more than one month at a time.
 
-- For the avoidance of doubt, it is hereby declared that the provisions of any enactment, other than an Act of Parliament, dealing with a state of emergency declared under clause (1) of this article shall apply only to that part of Ghana where the emergency exists.
+(7) Parliament may, by a resolution passed by a majority of all the members of Parliament, at any time, revoke a declaration of a state of emergency approved by Parliament under this article.
 
+(8) For the avoidance of doubt, it is hereby declared that the provisions of any enactment, other than an Act of Parliament, dealing with a state of emergency declared under clause (1) of this article shall apply only to that part of Ghana where the emergency exists.
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
-
-#### 32.
-
 (9) The circumstances under which a state of emergency may be declared under this article include a natural disaster and any situation in which any action is taken or is immediately threatened to be taken by any person or body of persons which -
 
 (a) is calculated or likely to deprive the community of the essentials of life; or
 
 (b) renders necessary the taking of measures which are required for securing the public safety, the defence of Ghana and the maintenance of public order and of supplies and services essential to the life of the community.
 
-(10) Nothing in, or done under the authority of, an Act of Parliament shall be held to be inconsistent with, or in contravention of, articles 12 to 30 of this Constitution to the period when a state of emergency is in force, of measures that are reasonably justifiable for the purposes of dealing with the situation that exists during that period.
+(10) Nothing in, or done under the authority of, an Act of Parliament shall be held to be inconsistent with, or in contravention of, articles 12 to 30 of this Constitution to the extent that the Act authorizes the taking, during any period when a state of emergency is in force, of measures that are reasonably justifiable for the purposes of dealing with the situation that exists during that period.
 
-(1) Where a person is restricted or detained by virtue of a law made pursuant to a declaration of a state of emergency, the following provisions shall apply
+#### 32.
+
+(1) Where a person is restricted or detained by virtue of a law made pursuant to a declaration of a state of emergency, the following provisions shall apply -
 
 (a) he shall as soon as practicable, and in any case not later than twenty-four hours after the commencement of the restriction or detention, be furnished with a statement in writing specifying in detail the grounds upon which he is restricted or detained and the statement shall be read or interpreted to the person restricted or detained;
 
 (b) the spouse, parent, child or other available next of kin of the person restricted or detained shall be informed of the detention or restriction within twenty-four hours after the commencement of the detention or restriction and be permitted access to the person at the earliest practicable opportunity, and in any case within twenty-four hours after the commencement of the restriction or detention;
 
-(c) not more than ten days after the commencement of his restriction or detention, a notification shall be published in the Gazette and in the media stating that he had been restricted or detained and giving particulars of the provision of law under which his restriction or detention is authorized and the grounds of his restriction or detention;
-
+(c) not more than ten days after the commencement of his restriction or detention, a notification shall be published in the Gazette and in the media stating that he has been restricted or detained and giving particulars of the provision of law under which his restriction or detention is authorized and the grounds of his restriction or detention;
 [[END OF PAGE 28]]
 
 [[START OF PAGE 29]]
-
 (d) not more than ten days after commencement of his restriction or detention, and after that, during his restriction or detention, at intervals of not more than three months, his case shall be reviewed by a tribunal composed of not less than three Justices of the Superior Court of Judicature appointed by the Chief Justice; except that the same tribunal shall not review more than once the case of a person restricted or detained;
 
 (e) he shall be afforded every possible facility to consult a lawyer of his choice who shall be permitted to make representations to the tribunal appointed for the review of the case of the restricted or detained person;
@@ -770,7 +765,7 @@ treatment, education or any other social or economic benefit by reason only of r
 
 (3) In every month in which there is a sitting of parliament, a Minister of State authorised by the President, shall make report to Parliament of the number of persons restricted or detained by virtue of such a law as is referred to in clause (10) of article 31 of this Constitution and the number of cases in which the authority that ordered the restriction or detention has acted in accordance with the decisions of the tribunal appointed under this article.
 
-(4) Notwithstanding clause (3) of this article, the Minister referred to in that clause shall publish every month in the Gazette and in the media.
+(4) Notwithstanding clause (3) of this article, the Minister referred to in that clause shall publish every month in the Gazette and in the media -
 
 (a) the number and the names and addresses of the persons restricted or detained;
 
@@ -779,61 +774,53 @@ treatment, education or any other social or economic benefit by reason only of r
 (c) the number of cases in which the authority which ordered the restriction or detention has acted in accordance with the decisions of the tribunal appointed under this article.
 
 (5) For the avoidance of doubt, it is hereby declared that at the end of an emergency declared under clause (1) of article 31 of this Constitution, a person in restriction or detention or in custody as a result of the declaration of the emergency shall be released immediately.
-
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
+### Protection of Rights by the Court
 
 #### 33.
 
-### Protection of Rights by the Court
+(1) Where a person alleges that a provision of this Constitution on the fundamental human rights and freedoms has been, or is being or is likely to be contravened in relation to him, then, without prejudice to any other action that is lawfully available, that person may apply to the High Court for redress.
 
-- Where a person alleges that a provision of this Constitution on the fundamental human rights and freedoms has been, or is being or is likely to be contravened in relation to him, then, without prejudice to any other action that is lawfully available, that person may apply to the High Court for redress.
+(2) The High Court may, under clause (1) of this article, issue such directions or orders or writs including writs or orders in the nature of habeas corpus, certiorari, mandamus, prohibition, and quo warranto as it may consider appropriate for the purposes of enforcing or securing the enforcement of any of the provisions on the fundamental human rights and freedoms to the protection of which the person concerned is entitled.
 
-- The High Court may, under clause (1) of this article, issue such directions or orders or writs including rites or orders in the nature of herbs as corpus, certiorari, mandamus, prohibition, and quo warrant as it may consider appropriate for the purposes of enforcing or securing the enforcement of any of the provisions on the fundamental human rights and freedoms to the protection of which the person concerned is entitled.
+(3) A person aggrieved by a determination of the High Court may appeal to the Court of Appeal with the right of a further appeal to the Supreme Court.
 
-- A person aggrieved by a determination of the High Court may appeal to the Court of Appeal with the right of a further appeal to the Supreme Court.
+(4) The Rules of Court Committee may make rules of court with respect to the practice and procedure of the Superior Courts for the purposes of this article.
 
-- The Rules of Court Committee may make rules of court with respect to the practice and procedure of the Superior Courts for the purposes of this article.
-
-- The rights, duties, declarations and guarantees relating to the fundamental human rights and freedoms specifically mentioned in this Chapter shall not be regarded as excluding others not specifically mentioned which are considered to be inherent in a democracy and intended to secure the freedom and dignity of man.
-
+(5) The rights, duties, declarations and guarantees relating to the fundamental human rights and freedoms specifically mentioned in this Chapter shall not be regarded as excluding others not specifically mentioned which are considered to be inherent in a democracy and intended to secure the freedom and dignity of man.
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
-
-#### 34.
-
-#### 35.
-
 ## CHAPTER SIX
 
 ### THE DIRECTIVE PRINCIPLES OF STATE POLICY
+
+#### 34.
 
 (1) The Directive Principles of State Policy contained in this Chapter shall guide all citizens, Parliament, the President, the Judiciary, the Council of State, the Cabinet, political parties and other bodies and persons in applying or interpreting this Constitution or any other law and in taking and implementing any policy decisions, for the establishment of a just and free society.
 
 (2) The President shall report to Parliament at least once a year all the steps taken to ensure the realization of the policy objectives contained in this Chapter and, in particular, the realization of basic human rights, a healthy economy, the right to work, the right to good health care and the right to education.
 
-- Ghana shall be a democratic state dedicated to the realization of freedom and justice; and accordingly, sovereignty resides in the people of Ghana from whom Government derives all its powers and authority through this Constitution.
+#### 35.
 
-- The State shall protect and safeguard the independence, unity and territorial integrity of Ghana, and shall seek the well being of all her citizens.
+(1) Ghana shall be a democratic state dedicated to the realization of freedom and justice; and accordingly, sovereignty resides in the people of Ghana from whom Government derives all its powers and authority through this Constitution.
 
-- The State shall promote just and reasonable access by all citizens to public facilities and services in accordance with law.
+(2) The State shall protect and safeguard the independence, unity and territorial integrity of Ghana, and shall seek the well being of all her citizens.
 
-- The State shall cultivate among all Ghanaians respect for fundamental human rights and freedoms and the dignity of the human person.
+(3) The State shall promote just and reasonable access by all citizens to public facilities and services in accordance with law.
 
-- The State shall actively promote the integration of the peoples of Ghana and prohibit discrimination and prejudice on the grounds of place of origin, circumstances of birth, ethnic origin, gender or religion, creed or other beliefs.
+(4) The State shall cultivate among all Ghanaians respect for fundamental human rights and freedoms and the dignity of the human person.
+
+(5) The State shall actively promote the integration of the peoples of Ghana and prohibit discrimination and prejudice on the grounds of place of origin, circumstances of birth, ethnic origin, gender or religion, creed or other beliefs.
 
 (6) Towards the achievement of the objectives stated in clause (5) of this article, the State shall take appropriate measures to -
 
 (a) foster a spirit of loyalty to Ghana that overrides sectional, ethnic and other loyalties;
-
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
-
-#### 36.
-
 (b) achieve reasonable regional and gender balance in recruitment and appointment to public offices;
 
 (c) provide adequate facilities for, and encourage, free mobility of people, goods and services throughout Ghana;
@@ -848,6 +835,8 @@ treatment, education or any other social or economic benefit by reason only of r
 
 (9) The state shall promote among the people of Ghana the culture of political tolerance.
 
+#### 36.
+
 (1) The State shall take all necessary action to ensure that the national economy is managed in such a manner as to maximize the rate of economic development and to secure the maximum welfare, freedom and happiness of every person in Ghana and to provide adequate means of livelihood and suitable employment and public assistance to the needy.
 
 (2) The State shall, in particular, take all necessary steps to establish a sound and healthy economy whose underlying principles shall include -
@@ -855,11 +844,9 @@ treatment, education or any other social or economic benefit by reason only of r
 (a) the guarantee of a fair and realistic remuneration for production and productivity in order to encourage continued production and higher productivity;
 
 (b) affording ample opportunity for individual initiative and creativity in economic activities and fostering an enabling environment for a pronounced role of the private sector in the economy;
-
 [[END OF PAGE 32]]
 
 [[START OF PAGE 33]]
-
 (c) ensuring that individuals and the private sector bear their fair share of social and national responsibilities including responsibilities to contribute to the overall development of the country;
 
 (d) undertaking even and balanced development of all regions and every part of each region of Ghana, and, in particular, improving the conditions of life in the rural areas, and generally, redressing any imbalance in development between the rural and the urban areas;
@@ -870,7 +857,7 @@ treatment, education or any other social or economic benefit by reason only of r
 
 (4) Foreign investment shall be encouraged within Ghana, subject to any law for the time being in force regulating investment in Ghana.
 
-(5) For the purposes of the foregoing clauses of this article, within two years after assuming office, the President shall present to Parliament a coordinated programme of economic and social development policies, including agricultural and industrial programmes at all levels and in all the regions of Ghana.
+(5) For the purposes of the foregoing clauses of this article, within two years after assuming office, the President shall present to Parliament a co-ordinated programme of economic and social development policies, including agricultural and industrial programmes at all levels and in all the regions of Ghana.
 
 (6) The State shall afford equality of economic opportunity to all citizens; and, in particular, the State shall take all necessary steps so as to ensure the full integration of women into the mainstream of the economic development of Ghana.
 
@@ -878,17 +865,15 @@ treatment, education or any other social or economic benefit by reason only of r
 
 (8) The State shall recognise that ownership and possession of land carry a social obligation to serve the larger community and, in particular, the State shall recognise that the managers of public, stool, skin and family lands are fiduciaries charged with the obligation to discharge their functions for the benefit respectively of the people of Ghana, of the stool, skin, or family concerned and are accountable as fiduciaries in this regard.
 
-(9) The State shall take appropriate measures needed to protect and safeguard the national environment for posterity; and shall seek cooperation with other states and bodies for purposes of protecting the wider international environment for mankind.
-
+(9) The State shall take appropriate measures needed to protect and safeguard the national environment for posterity; and shall seek co-operation with other states and bodies for purposes of protecting the wider international environment for mankind.
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
-
-#### 37.
-
 (10) The State shall safeguard the health, safety and welfare of all persons in employment, and shall establish the basis for the full deployment of the creative potential of all Ghanaians.
 
-(11) The State shall encourage the participation of workers in the decisionmaking process at the work place.
+(11) The State shall encourage the participation of workers in the decision-making process at the work place.
+
+#### 37.
 
 (1) The State shall endeavour to secure and protect a social order founded on the ideals and principles of freedom, equality, justice, probity and accountability as enshrined in Chapter 5 of this Constitution; and in particular, the State shall direct its policy towards ensuring that every citizen has equality of rights, obligations and opportunities before the law.
 
@@ -905,18 +890,14 @@ treatment, education or any other social or economic benefit by reason only of r
 (5) The State shall ensure that adequate facilities for sports are provided throughout Ghana and that sports are promoted as a means of fostering national integration, health and self-discipline as well as international friendship and understanding.
 
 (6) The State shall -
-
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
-
-#### 38.
-
-#### 39.
-
 (a) ensure that contributory schemes are instituted and maintained that will guarantee economic security for self-employed and other citizens of Ghana, and
 
 (b) provide social assistance to the aged such as will enable them to maintain a decent standard of living.
+
+#### 38.
 
 (1) The State shall provide educational facilities at all levels and in all the Regions of Ghana, and shall, to the greatest extent feasible, make those facilities available to all citizens.
 
@@ -930,21 +911,19 @@ treatment, education or any other social or economic benefit by reason only of r
 
 (c) life-long education.
 
+#### 39.
+
 (1) Subject to clause (2) of this article, the State shall take steps to encourage the integration of appropriate customary values into the fabric of national life through formal and informal education and the conscious introduction of cultural dimensions to relevant aspects of national planning.
 
-(2) The State shall ensure that appropriate customary and cultural values are adapted and developed as an integral part of the growing needs of the society as a whole; and in particular that traditional practices which are injurious to the health and well-being of the person of the person are abolished.
+(2) The State shall ensure that appropriate customary and cultural values are adapted and developed as an integral part of the growing needs of the society as a whole; and in particular that traditional practices which are injurious to the health and well-being of the person are abolished.
 
 (3) The State shall foster the development of Ghanaian languages and pride in Ghanaian culture.
-
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
+(4) The State shall endeavour to preserve and protect places of historical interest and artifacts.
 
 #### 40.
-
-#### 41.
-
-- The State shall endeavour to preserve and protect places of historical interest and artifacts.
 
 In its dealings with other nations, the Government shall
 
@@ -956,15 +935,17 @@ In its dealings with other nations, the Government shall
 
 (d) adhere to the principles enshrined in or as the case may be, the aims and ideals of-
 
-- the Charter of the United Nations;
+(i) the Charter of the United Nations;
 
-- ii) the Charter of the Organisation of African Unity;
+(ii) the Charter of the Organisation of African Unity;
 
-- iii) the Commonwealth;
+(iii) the Commonwealth;
 
-- iv) the Treaty of the Economic Community of West African States; and
+(iv) the Treaty of the Economic Community of West African States; and
 
-- any other international organisation of which Ghana is a member.
+(v) any other international organisation of which Ghana is a member.
+
+#### 41.
 
 The exercise and enjoyment of rights and freedoms is inseparable from the performance of duties and obligations, and accordingly, it shall be the duty of every citizen -
 
@@ -975,34 +956,40 @@ The exercise and enjoyment of rights and freedoms is inseparable from the perfor
 (c) to foster national unity and live in harmony with others;
 
 (d) to respect the rights, freedoms and legitimate interests of others, and generally to refrain from doing acts detrimental to the welfare of other persons;
-
 [[END OF PAGE 36]]
 
 [[START OF PAGE 37]]
+(e) to work conscientiously in his lawfully chosen occupation;
 
-(e) to work conscientiously in his lawfully chosen occupation; (f) to protect and preserve public property and expose and combat misuse and waste of public funds and property; (g) to contribute to the well-being of the community where that citizen lives; (h) to defend Ghana and render national service when necessary; (i) to co-operate with lawful agencies in the maintenance of law and order; (j) to declare his income honestly to the appropriate and lawful agencies and to satisfy all tax obligations; and (k) to protect and safeguard the environment
+(f) to protect and preserve public property and expose and combat misuse and waste of public funds and property;
 
+(g) to contribute to the well-being of the community where that citizen lives;
+
+(h) to defend Ghana and render national service when necessary;
+
+(i) to co-operate with lawful agencies in the maintenance of law and order;
+
+(j) to declare his income honestly to the appropriate and lawful agencies and to satisfy all tax obligations; and
+
+(k) to protect and safeguard the environment.
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
-
-#### 42.
-
-#### 43.
-
-#### 44.
-
 ## CHAPTER SEVEN
 
 ### REPRESENTATION OF THE PEOPLE
 
 ### Right to Vote
 
+#### 42.
+
 Every citizen of Ghana of eighteen years of age or above and of sound mind has the right to vote and is entitled to be registered as a voter for the purposes of public elections and referenda.
 
 ### Electoral Commission
 
-- There shall be an Electoral Commission which shall consist of -
+#### 43.
+
+(1) There shall be an Electoral Commission which shall consist of -
 
 (a) a Chairman;
 
@@ -1010,29 +997,25 @@ Every citizen of Ghana of eighteen years of age or above and of sound mind has t
 
 (c) four other members.
 
-- The members of the Commission shall be appointed by the President under article 70 of this Constitution.
+(2) The members of the Commission shall be appointed by the President under article 70 of this Constitution.
 
-- A person is not qualified to be appointed a member of the Electoral Commission unless he is qualified to be elected as a member of Parliament.
+#### 44.
 
-- The Chairman of the Electoral Commission shall have the same terms and conditions of service as a Justice of the Court of Appeal.
+(1) A person is not qualified to be appointed a member of the Electoral Commission unless he is qualified to be elected as a member of Parliament.
 
-- The two Deputy Chairman of the Commission shall have the same terms and conditions of service as are applicable to a Justice of the High Court.
+(2) The Chairman of the Electoral Commission shall have the same terms and conditions of service as a Justice of the Court of Appeal.
 
-- The Chairman and the two Deputy Chairmen of the commission shall not, while they hold office on the Commission, hold any other public office.
+(3) The two Deputy Chairmen of the Commission shall have the same terms and conditions of service as are applicable to a Justice of the High Court.
 
-- The other four members of the Commission shall be paid such allowances as Parliament may determine.
+(4) The Chairman and the two Deputy Chairmen of the commission shall not, while they hold office on the Commission, hold any other public office.
 
+(5) The other four members of the Commission shall be paid such allowances as Parliament may determine.
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+(6) If a member is absent or dies, the Commission shall continue its work until the President, acting on the advice of the Council of State, appoints a qualified person to fill the vacancy.
 
 #### 45.
-
-#### 46.
-
-#### 47.
-
-(6) If a member is absent or dies, the Commission shall continue its work until the President, acting on the advice of the Council of State, appoints a qualified person to fill the vacancy.
 
 The Electoral Commission shall have the following functions -
 
@@ -1048,24 +1031,22 @@ The Electoral Commission shall have the following functions -
 
 (f) to perform such other functions as may be prescribed by law.
 
+#### 46.
+
 Except as provided in this Constitution or in any other law not inconsistent with this Constitution, in the performance of its functions, the Electoral Commission, shall not be subject to the direction or control of any person or authority.
 
-- Ghana shall be divided into as many constituencies for the purpose of election of members of parliament as the Electoral Commission may prescribe, and each constituency shall be represented by one member of Parliament.
+#### 47.
 
-- No constituency shall fall within more than one region.
+(1) Ghana shall be divided into as many constituencies for the purpose of election of members of parliament as the Electoral Commission may prescribe, and each constituency shall be represented by one member of Parliament.
 
-- The boundaries of each constituency shall be such that the number of inhabitants in the constituency is, as nearly as possible, equal to the population quota.
+(2) No constituency shall fall within more than one region.
 
-- For the purposes of clause (3) of this article, the number of inhabitants of a constituency may be greater or less than the population quota in order to take account of means of communication, geographical features, density
+(3) The boundaries of each constituency shall be such that the number of inhabitants in the constituency is, as nearly as possible, equal to the population quota.
 
+(4) For the purposes of clause (3) of this article, the number of inhabitants of a constituency may be greater or less than the population quota in order to take account of means of communication, geographical features, density
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
-
-#### 48.
-
-#### 49.
-
 of population and area and boundaries of the regions and other administrative or traditional areas.
 
 (5) The Electoral Commission shall review the division of Ghana into constituencies at intervals of not less than seven years, or within twelve months after the publication of the enumeration figures after the holding of a census of the population of Ghana, whichever is earlier, and may, as a result, alter the constituencies.
@@ -1074,9 +1055,13 @@ of population and area and boundaries of the regions and other administrative or
 
 (7) For the purposes of this article, "population quota" means the number obtained by dividing the number of inhabitants of Ghana by the number of constituencies into which Ghana is divided under this article.
 
+#### 48.
+
 (1) A person aggrieved by a decision of the Electoral Commission in respect of a demarcation of a boundary, may appeal to a tribunal consisting of three persons appointed by the Chief Justice and the Electoral Commission shall give effect to the decision of the tribunal.
 
 (2) A person aggrieved by a decision of the tribunal referred to in clause (1) of this article may appeal to the Court of Appeal whose decision on the matter shall be final.
+
+#### 49.
 
 (1) At any public election or referendum, voting shall be by secret ballot.
 
@@ -1087,18 +1072,14 @@ of population and area and boundaries of the regions and other administrative or
 (a) the polling station; and
 
 (b) the number of votes cast in favour of each candidate or question: and the presiding officer shall, there and then, announce
-
 [[END OF PAGE 40]]
 
 [[START OF PAGE 41]]
-
-#### 50.
-
-#### 51.
-
 the result of the voting at the polling station before communicating them to the returning officer.
 
 (4) Subject to the provisions of this Constitution, an issue for determination by referendum shall not be taken to be determined unless at least thirty-five percent of the persons entitled to vote at the referendum voted and, of the votes cast, at least seventy percent voted in favour of the issue.
+
+#### 50.
 
 (1) Subject to the provisions of this Constitution, where at the close of nominations and on the day before a public election -
 
@@ -1108,59 +1089,57 @@ the result of the voting at the polling station before communicating them to the
 
 (2) Where for the purposes of a public election two or more candidates are nominated but at the close of the nominations and on the day before the election, only one candidate stands nominated, a further period of ten days shall be allowed for nomination of other candidates, and it shall not be lawful for any person nominated within that period of ten days to withdraw his nomination.
 
-- Where at the close of nominations under clause (2) of this article only one candidate stands nominated, there shall be no election and that candidate shall be declared elected.
+(3) Where at the close of nominations under clause (2) of this article only one candidate stands nominated, there shall be no election and that candidate shall be declared elected.
 
 (4) Where at the close of nominations, but before the election, one of the candidates dies, a further period of ten days shall be allowed for nominations; and where the death occurs at any time within twenty-five days before the election, the election in that constituency or unit shall be postponed for twenty one days.
 
-The Electoral Commission shall, by constitutional instrument, make regulations for the effective performance of its functions under this Constitution or any other law, and in particular, for the registration of voters, the conduct of public elections and referenda, including provision for voting by proxy.
+#### 51.
 
+The Electoral Commission shall, by constitutional instrument, make regulations for the effective performance of its functions under this Constitution or any other law, and in particular, for the registration of voters, the conduct of public elections and referenda, including provision for voting by proxy.
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
-
 #### 52.
-
-#### 53.
-
-#### 54.
-
-#### 55.
 
 There shall be in every region and district a representative of the Electoral Commission who shall perform such functions as shall be assigned to him by the Commission.
 
+#### 53.
+
 The appointment of officers and other employees of the Electoral Commission shall be made by the Commission acting in consultation with the Public Services Commission.
+
+#### 54.
 
 The administrative expenses of the Electoral Commission including salaries, allowances and pensions payable to, or in respect of persons serving with the Commission, shall be charged on the Consolidated Fund.
 
 ### Political Parties
 
-- The right to form political parties is hereby guaranteed.
+#### 55.
 
-- Every citizen of Ghana of voting age has the right to join a political party.
+(1) The right to form political parties is hereby guaranteed.
 
-- Subject to the provisions of this article, a political party is free to participate in shaping the political will of the people, to disseminate information on political ideas, social and economic programmes of a national character, and sponsor candidates for election to any public office either than to district assemblies or lower local government unit.
+(2) Every citizen of Ghana of voting age has the right to join a political party.
 
-- Every political party shall have a national character, and membership shall not be based on ethnic, religious, regional or other sectional divisions.
+(3) Subject to the provisions of this article, a political party is free to participate in shaping the political will of the people, to disseminate information on political ideas, social and economic programmes of a national character, and sponsor candidates for election to any public office other than to district assemblies or lower local government unit.
 
-- The internal organisation of a political party shall conform to democratic principles and its actions and purposes shall not contravene or be inconsistent with this constitution or any other law.
+(4) Every political party shall have a national character, and membership shall not be based on ethnic, religious, regional or other sectional divisions.
 
-- An organisation shall not operate as a political party unless it is registered as such under the law for the time being in force for the purpose.
+(5) The internal organisation of a political party shall conform to democratic principles and its actions and purposes shall not contravene or be inconsistent with this constitution or any other law.
 
+(6) An organisation shall not operate as a political party unless it is registered as such under the law for the time being in force for the purpose.
 [[END OF PAGE 42]]
 
 [[START OF PAGE 43]]
-
 (7) For purposes of registration, a prospective political party shall furnish the electoral commission with a copy of its constitution and the names and addresses of its national officers: and shall satisfy the commission that -
 
-(a) there is ordinarily residence, or registered as a voter in each district of Ghana, at least one founding member of the party:
+(a) there is ordinarily resident, or registered as a voter in each district of Ghana, at least one founding member of the party:
 
 (b) the party has branches in all the regions of Ghana and is, in addition, organised in not less than two thirds of the districts of each region; and
 
-(c) the parties name, emblem, colour, motto or any other symbol has no ethnic, regional, religious or other sectional connotations or gives the appearance that it activities are confined only to a part of Ghana.
+(c) the party's name, emblem, colour, motto or any other symbol has no ethnic, regional, religious or other sectional connotations or gives the appearance that its activities are confined only to a part of Ghana.
 
 (8) A political party shall not have as a founding member, a leader or a member of its executives, a person who is not qualified to be elected as a Member of Parliament or to hold any other public office.
 
-(9) The members of the national executive committee of a political party shall not be chosen from all the regions of Ghana.
+(9) The members of the national executive committee of a political party shall be chosen from all the regions of Ghana.
 
 (10) Subject to the provisions of this constitution, every citizen of voting age has the right to participate in political activity intended to influence the composition and policies of the Government.
 
@@ -1175,112 +1154,100 @@ The administrative expenses of the Electoral Commission including salaries, allo
 (a) to declare to the public their revenues and assets and the sources of those revenues and assets; and
 
 (b) to publish to the public annually their audited accounts.
-
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
-
-#### 56.
-
 (15) Only a citizen of Ghana may make a contribution or donation to a political party registered in Ghana.
 
 (16) A member of an organisation or interest group shall not be required to join a particular political party by virtue of his membership of the organisation or group.
 
 (17) Subject to the provisions of this Chapter, Parliament shall by law regulate the establishment and functioning of political parties.
 
-Parliament shall have no power to enact a law to establish or authorise the establishment of a body or movement with the right or power to impose on the people of Ghana a common programme or a set of objectives of a religious or political.
+#### 56.
 
+Parliament shall have no power to enact a law to establish or authorise the establishment of a body or movement with the right or power to impose on the people of Ghana a common programme or a set of objectives of a religious or political nature.
 [[END OF PAGE 44]]
 
 [[START OF PAGE 45]]
-
-#### 57.
-
-#### 58.
-
 ## CHAPTER EIGHT
 
 ### THE EXECUTIVE
 
 ### The President
 
-- There shall be a President of the Republic of Ghana who shall be the Head of State and Head of Government and Commander-in Chief of the Armed Forces of Ghana.
+#### 57.
 
-- The President shall take precedence over all other persons in Ghana; and in descending order, the Vice-President, the Speaker of Parliament and the Chief Justice, shall take precedence over all other persons in Ghana.
+(1) There shall be a President of the Republic of Ghana who shall be the Head of State and Head of Government and Commander-in-Chief of the Armed Forces of Ghana.
 
-- Before assuming office the President shall take and subscribe before Parliament the oath of allegiance and the presidential oath set out in the Second Schedule to this Constitution.
+(2) The President shall take precedence over all other persons in Ghana; and in descending order, the Vice-President, the Speaker of Parliament and the Chief Justice, shall take precedence over all other persons in Ghana.
 
-- Without prejudice to the provisions of article 2 of this Constitution, and subject to the operation of the prerogative writs, the President shall not, while in office, be liable to proceedings in any court for the performance of his functions, or for any act done or omitted to be done, or purported to be done, or purported to have been done or purporting to be done in the performance of his functions, under this Constitution or any other law.
+(3) Before assuming office the President shall take and subscribe before Parliament the oath of allegiance and the presidential oath set out in the Second Schedule to this Constitution.
 
-- The President shall not, while in office as President, be personally liable to any civil or criminal proceedings in court.
+(4) Without prejudice to the provisions of article 2 of this Constitution, and subject to the operation of the prerogative writs, the President shall not, while in office, be liable to proceedings in any court for the performance of his functions, or for any act done or omitted to be done, or purported to be done, or purported to have been done or purporting to be done in the performance of his functions, under this Constitution or any other law.
 
-- Civil or criminal proceedings may be instituted against a person within three years after his ceasing to be President, in respect of anything done or omitted to be done by him in his personal capacity before or during his term of office notwithstanding any period of limitation except where the proceedings had been legally barred before he assumed the office of President.
+(5) The President shall not, while in office as President, be personally liable to any civil or criminal proceedings in court.
 
-- The executive authority of Ghana shall vest in the President and shall be exercised in accordance with the provisions of this Constitution.
+(6) Civil or criminal proceedings may be instituted against a person within three years after his ceasing to be President, in respect of anything done or omitted to be done by him in his personal capacity before or during his term of office notwithstanding any period of limitation except where the proceedings had been legally barred before he assumed the office of President.
 
+#### 58.
+
+(1) The executive authority of Ghana shall vest in the President and shall be exercised in accordance with the provisions of this Constitution.
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+(2) The executive authority of Ghana shall extend to the execution and maintenance of this Constitution and all laws made under or continued in force by this Constitution.
+
+(3) Subject to the provisions of this Constitution, the functions conferred on the President by clause (1) of this article may be exercised by him either directly or through officers subordinate to him.
+
+(4) Except as otherwise provided in this Constitution or by a law not inconsistent with this Constitution, all executive acts of Government shall be expressed to be taken in the name of the President.
+
+(5) A constitutional or statutory instrument or any other instrument made, issued or executed in the name of the President shall be authenticated by the signature of a Minister and the validity of any such instrument so authenticated shall not be called in question on the ground that it is not made, issued or executed by the President.
 
 #### 59.
 
-#### 60.
-
-- The executive authority of Ghana shall extend to the execution and maintenance of this Constitution and all laws made under or continued in force by this Constitution.
-
-- Subject to the provisions of this Constitution, the functions conferred on the President by clause (1) of this article may be exercised by him either directly or through officers subordinate to him.
-
-- Except as otherwise provided in this Constitution or by a law not inconsistent with this Constitution, all executive acts of Government shall be expressed to be taken in the name of the President.
-
-- A constitutional or statutory instrument or any other instrument made, issued or executed in the name of the President shall be authenticated by the signature of a Minister and the validity of nay such instrument so authenticated shall not be called in question on the ground that it is not made, issued or executed by the President.
-
 The President shall not leave Ghana without prior notification in writing, signed by him and addressed to the Speaker of Parliament.
 
-- There shall be a Vice-President of Ghana who shall perform such functions as may be assigned to him by this Constitution or by the President.
+#### 60.
 
-- A candidate for the office of Vice-President shall be designated by the candidate for the office of President before the election of President.
+(1) There shall be a Vice-President of Ghana who shall perform such functions as may be assigned to him by this Constitution or by the President.
 
-- The provisions of article 62 of this Constitution apply to a candidate for election as Vice-President.
+(2) A candidate for the office of Vice-President shall be designated by the candidate for the office of President before the election of President.
 
-- A candidate shall be deemed to be duly elected as Vice-President if the candidate who designated him as candidate for election to the office of Vice-President has been duly elected as President in accordance with the provisions of article 63 of this Constitution.
+(3) The provisions of article 62 of this Constitution apply to a candidate for election as Vice-President.
 
-- The Vice-President shall, before commencing to perform the functions of Vice-President, take and subscribe the oath of allegiance and the VicePresidential oath set out in the Second Schedule to this Constitution.
+(4) A candidate shall be deemed to be duly elected as Vice-President if the candidate who designated him as candidate for election to the office of Vice-President has been duly elected as President in accordance with the provisions of article 63 of this Constitution.
 
-- Whenever the President dies, resigns or is removed from office, the Vice-President shall assume office as President for the unexpired term of
+(5) The Vice-President shall, before commencing to perform the functions of Vice-President, take and subscribe the oath of allegiance and the Vice-Presidential oath set out in the Second Schedule to this Constitution.
 
+(6) Whenever the President dies, resigns or is removed from office, the Vice-President shall assume office as President for the unexpired term of
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
+office of the President with effect from the date of the death, resignation or removal of the President.
+
+(7) Where the unexpired term served by the Vice-President under clause (6) of this article exceeds half the term of a President, the Vice-President is subsequently only eligible to serve one full term as President.
+
+(8) Whenever the President is absent from Ghana or is for any other reason unable to perform the functions of his office, the Vice-President shall perform the functions of the President until the President returns or is able to perform.
+
+(9) The Vice-President shall, before commencing to perform the functions of the President under clause (6) of this article, take and subscribe the oath set out in the Second Schedule to this Constitution in relation to the office of President.
+
+(10) The Vice-President shall, upon assuming office as President under clause (6) of this article, nominate a person to the office of Vice-President subject to approval by Parliament.
+
+(11) Where the President and the Vice-President are both unable to perform the functions of the President, the Speaker of Parliament shall perform those functions until the President or the Vice-President is able to perform those functions or a new President assumes office, as the case may be.
+
+(12) The Speaker shall, before commencing to perform the functions of the President under clause (11) of this article, take and subscribe the oath set out in relation to the office of President.
+
+(13) Where the Speaker of Parliament assumes the office of President as a result of the death, resignation or removal from office of the President and the Vice-President, there shall be a presidential election within three months after his assumption of office.
+
+(14) The provisions of article 69 of this Constitution shall apply to the removal from office of the Vice-President.
 
 #### 61.
 
-office of the President with effect from the date of the death, resignation or removal of the President.
-
-- Where the unexpired term served by the Vice-President under clause (6) of this article exceeds half the term of a President, the Vice-President is subsequently only eligible to serve one full term as President.
-
-- Whenever the President is absent from Ghana or is for any other reason unable to perform the functions of his office, the Vice-President shall perform the function of the President until the President returns or is able to perform.
-
-- The Vice-President shall, before commencing to perform the functions of the President under clause (6) of this article, take and subscribe the oath set out in the Second Schedule to this Constitution in relation to the office of President.
-
-- The Vice-President shall, upon assuming office as President under clause (6) of this article, nominate a person to the office of Vice-President subject to approval by Parliament.
-
-- Where the President and the Vice-President are both unable to perform the functions of the President, the Speaker of Parliament shall perform those functions until the President or the Vice-President is able to perform those factions or a new President assumes office, as the case may be.
-
-- The Speaker shall, before commencing to perform the functions of the President under clause (11) of this article, take and subscribe the oath set out in relation to the office of President.
-
-- Where the Speaker of Parliament assumes the office of President as a result of the death, resignation or removal from office of the President and the Vice-President, there shall be a presidential election within three months after his assumption of office.
-
-- The provisions of article 69 of this Constitution shall apply to the removal from office of the Vice-President.
-
 There shall be a public seal and a presidential seal, the use and custody of which shall, subject to the provisions of this Constitution, be regulated by law.
-
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
-
 #### 62.
-
-#### 63.
 
 A person shall not be qualified for election as the President of Ghana unless -
 
@@ -1290,7 +1257,9 @@ A person shall not be qualified for election as the President of Ghana unless -
 
 (c) he is a person who is otherwise qualified to be elected a Member of Parliament, except that the disqualifications set out in paragraphs (c), (d), and (e) of clause (2) of article 94 of this Constitution shall not be removed, in respect of any such person, by a presidential pardon or by the lapse of time as provided for in clause (5) of that article.
 
-- A person shall not be a candidate in a presidential election unless he is nominated for election as President by a document which -
+#### 63.
+
+(1) A person shall not be a candidate in a presidential election unless he is nominated for election as President by a document which -
 
 (a) is signed by him; and
 
@@ -1300,27 +1269,23 @@ A person shall not be qualified for election as the President of Ghana unless -
 
 (d) designates a person to serve as Vice-President.
 
-- The election of the President shall be on the terms of universal adult suffrage and shall, subject to the provisions of this Constitution, be conducted in accordance with such regulations as may be prescribed by constitutional instrument by the Electoral Commission and shall be held so as to begin -
+(2) The election of the President shall be on the terms of universal adult suffrage and shall, subject to the provisions of this Constitution, be conducted in accordance with such regulations as may be prescribed by constitutional instrument by the Electoral Commission and shall be held so as to begin -
 
 (a) where a President is in office, not earlier than four months nor later than one month before his term of office expires; and
 
 (b) in any other case, within three months after the office of President becomes vacant; and shall be held at such place and shall begin on such date as the Electoral Commission shall, by constitutional instrument, specify.
-
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
-
-#### 64.
-
 (3) A person shall not be elected as President of Ghana unless at the presidential election the number of votes cast in his favour is more than fifty per cent of the total number of valid votes cast at the election.
 
 (4) Where at a presidential election there are more than two candidates and no candidate obtains the number or percentage of votes specified in clause (3) of this article a second election shall be held within twenty-one days after the previous election.
 
 (5) The candidates for a presidential election held under clause (4) of this article shall be the two candidates who obtained the two highest numbers of votes at the previous election.
 
-(6) Where at a presidential election three or more candidates obtain the two highest numbers of votes referred to in clause (5) of this article, then unless there are withdrawals such that only two candidates remain, another election shall held within twenty-one days after the previous election at which the candidates who obtained the two highest numbers of votes shall, subject to any withdrawal, be continued until a President is elected.
+(6) Where at a presidential election three or more candidates obtain the two highest numbers of votes referred to in clause (5) of this article, then unless there are withdrawals such that only two candidates remain, another election shall be held within twenty-one days after the previous election at which the candidates who obtained the two highest numbers of votes shall, subject to any withdrawal, be the only candidates and the same process shall, subject to any withdrawal, be continued until a President is elected.
 
-(7) A presidential candidate under clause (5) or (6) of this article may, be writing under his hand, withdraw his candidature at any time before the election.
+(7) A presidential candidate under clause (5) or (6) of this article may, by writing under his hand, withdraw his candidature at any time before the election.
 
 (8) If after a second presidential election held under clause (4) of this article the two candidates obtained an equal number of votes, then, notwithstanding any withdrawal, another election shall be held within twenty-one days after the election at which the two candidates shall be the only candidates and the same process shall, subject to any withdrawal, be continued until a President is elected.
 
@@ -1330,49 +1295,46 @@ A person shall not be qualified for election as the President of Ghana unless -
 
 (b) states that the person named in the instrument was declared elected as the President of Ghana at the election of the President, shall be prima facie evidence that the person named was so elected.
 
-(1) The validity of the election of the President may be challenged only by a citizen of Ghana who may present a petition for the purpose to the Supreme Court within twenty-one days after the declaration of the result of the election in respect of which the petition is presented.
+#### 64.
 
+(1) The validity of the election of the President may be challenged only by a citizen of Ghana who may present a petition for the purpose to the Supreme Court within twenty-one days after the declaration of the result of the election in respect of which the petition is presented.
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+(2) A declaration by the Supreme Court that the election of the President is not valid shall be without prejudice to anything done by the President before the declaration.
+
+(3) The Rules of Court Committee shall, by constitutional instrument, make rules of court for the practice and procedure for petitions to the Supreme Court challenging the election of a President.
 
 #### 65.
 
-#### 66.
-
-#### 67.
-
-#### 68.
-
-- A declaration by the Supreme Court that the election of the President is not valid shall be without prejudice to anything done by the President before the declaration.
-
-- The Rules of Court Committee shall, by constitutional instrument, make rules of court for the practice and procedure for petitions to the Supreme Court challenging the election of a President.
-
 The Electoral Commission shall, by constitutional instrument, make regulations for the purpose of giving effect to article 63 of this Constitution.
 
-- A person elected as President shall, subject to clause (3) of this article, hold office for a term of four years beginning from the date on which he is sworn in as President.
+#### 66.
 
-- A person shall not be elected to hold office as President of Ghana for more than two terms.
+(1) A person elected as President shall, subject to clause (3) of this article, hold office for a term of four years beginning from the date on which he is sworn in as President.
 
-- The office of President shall become vacant -
+(2) A person shall not be elected to hold office as President of Ghana for more than two terms.
+
+(3) The office of President shall become vacant -
 
 (a) on the expiration of the period specified in clause (1) of this article; or
 
 (b) if the incumbent dies or resigns from office or ceases to hold office under article 69 of this Constitution.
 
-- The President may, by writing signed by him, and addressed to the Speaker of Parliament, resign from his office as President.
+(4) The President may, by writing signed by him, and addressed to the Speaker of Parliament, resign from his office as President.
+
+#### 67.
 
 The President shall, at the beginning of each session of Parliament and before a dissolution of Parliament, deliver to Parliament a message on the state of the nation.
 
-- The President shall not, while he continues in office as President -
+#### 68.
+
+(1) The President shall not, while he continues in office as President -
 
 (a) hold any other office of profit or emolument whether private or public and whether directly or indirectly; or
-
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
-
-#### 69.
 
 (b) hold the office of chancellor or head of any university in Ghana.
 
@@ -1392,9 +1354,11 @@ The President shall, at the beginning of each session of Parliament and before a
 
 (9) The pension payable to the President and the facilities available to him shall not be varied to his disadvantage during his lifetime.
 
+#### 69.
+
 (1) The President shall be removed from office if he is found, in accordance with the provisions of this article -
 
-(a) to have acted in willful violation of the oath of allegiance and the presidential oath set out in the Second Schedule to, or in willful violation of any other provision of, this Constitution; or
+(a) to have acted in wilful violation of the oath of allegiance and the presidential oath set out in the Second Schedule to, or in wilful violation of any other provision of, this Constitution; or
 
 (b) to have conducted himself in a manner -
 
@@ -1414,19 +1378,17 @@ The President shall, at the beginning of each session of Parliament and before a
 
 (b) stating that the conduct or the physical or mental capacity of the President be investigated on any of the grounds specified in clause (1) of this article, shall be given to the Speaker who shall immediately inform the Chief Justice and deliver the notice to him copied to the President.
 
-(3) The notice referred to in clause (2) of this article shall be accompanied by a statement in writing setting out in detail the facts, supported by the necessary documents, on which it is claimed that the conduct or the physical or mental capacity of the President by investigated for the purposes of his removal from office.
+(3) The notice referred to in clause (2) of this article shall be accompanied by a statement in writing setting out in detail the facts, supported by the necessary documents, on which it is claimed that the conduct or the physical or mental capacity of the President be investigated for the purposes of his removal from office.
 
 (4) Subject to clause (5) of this article, the Chief Justice shall, by constitutional instrument, immediately convene a tribunal consisting of the Chief Justice as Chairman and the four most senior Justices of the Supreme Court and the tribunal shall inquire, in camera, whether there is a prima facie case for the removal of the President.
 
-(5) Where a notice under clause (2) of this article is delivered to the Chief Justice in respect of the removal from office of the President on the grounds of physical or mental incapacity, the Chief Justice shall, in consultation with the professional head of the Ghana Health Services, causes a medical board to be convened which shall consist of not less than four eminent medical specialists and the President shall be informed accordingly.
+(5) Where a notice under clause (2) of this article is delivered to the Chief Justice in respect of the removal from office of the President on the grounds of physical or mental incapacity, the Chief Justice shall, in consultation with the professional head of the Ghana Health Services, cause a medical board to be convened which shall consist of not less than four eminent medical specialists and the President shall be informed accordingly.
 
 (6) The President shall be invited to submit himself for examination by the medical board within fourteen days after the appointment of the board.
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
-
-#### 70.
 
 (7) The President shall be entitled during the proceedings of the tribunal or of the medical board to be heard in his defence by himself or by a lawyer or other expert or person as the case may be, of his own choice.
 
@@ -1436,11 +1398,13 @@ The President shall, at the beginning of each session of Parliament and before a
 
 (10) Parliament shall, within fourteen days after the date of the findings of the tribunal or medical board, move a resolution whether or not the President shall be removed from office.
 
-(11) The resolution for the removal from office of the President shall be by a secret ballot and shall be taken to be approved by Parliament if supported by the votes of not less that two-thirds of all the members of Parliament after prior debate.
+(11) The resolution for the removal from office of the President shall be by a secret ballot and shall be taken to be approved by Parliament if supported by the votes of not less than two-thirds of all the members of Parliament after prior debate.
 
 (12) The proceedings of Parliament for the removal of the President shall not be held in camera except where Parliament otherwise orders in the interest of national security.
 
 (13) The President shall cease to hold office as President on the date Parliament decides that he be removed from office.
+
+#### 70.
 
 (1) The President shall, acting in consultation with the Council of State, appoint-
 
@@ -1458,8 +1422,6 @@ The President shall, at the beginning of each session of Parliament and before a
 
 [[START OF PAGE 54]]
 
-#### 71.
-
 (ii) the Lands Commission;
 
 (iii) the governing bodies of public corporations;
@@ -1468,15 +1430,17 @@ The President shall, at the beginning of each session of Parliament and before a
 
 (e) the holders of such other offices as may be prescribed by this Constitution or by any other law not inconsistent with this Constitution.
 
-- The President shall, acting on the advice of the Council of State, appoint the Chairman, Deputy Chairmen, and other members of the Electoral Commission.
+(2) The President shall, acting on the advice of the Council of State, appoint the Chairman, Deputy Chairmen, and other members of the Electoral Commission.
 
-- The salaries and allowances payable, and the facilities and privileges available, to-
+#### 71.
+
+(1) The salaries and allowances payable, and the facilities and privileges available, to-
 
 (a) the Speaker and Deputy Speakers and members of Parliament;
 
 (b) the Chief Justice and the other Justices of the Superior Court of Judicature;
 
-(c) the Auditor-General, the Chairman and Deputy Chairmen of the Electoral Commission, the commissioner for Human Rights and Administrative Justice and his Deputies and the District Assemblies Common Fund Administrator;
+(c) the Auditor-General, the Chairman and Deputy Chairmen of the Electoral Commission, the Commissioner for Human Rights and Administrative Justice and his Deputies and the District Assemblies Common Fund Administrator;
 
 (d) the Chairman, Vice-Chairman and the other members of-
 
@@ -1488,7 +1452,7 @@ The President shall, at the beginning of each session of Parliament and before a
 
 (iv) the Lands Commission; and
 
-(v) the National Commission for civic Education;
+(v) the National Commission for Civic Education;
 
 being expenditure charged on the Consolidated Fund, shall be determined by the President on the recommendations of a committee of not more than
 
@@ -1496,13 +1460,13 @@ being expenditure charged on the Consolidated Fund, shall be determined by the P
 
 [[START OF PAGE 55]]
 
-#### 72.
-
 five persons appointed by the President, acting in accordance with the advice of the Council of State.
 
-- The salaries and allowances payable, and the facilities available, to the President, the Vice-President, the chairman and the other members of the Council of State; Ministers of State and Deputy Ministers, being expenditure charged on the Consolidated Fund, shall be determined by Parliament on the recommendations of the committee referred to in clause (1) of this article.
+(2) The salaries and allowances payable, and the facilities available, to the President, the Vice-President, the chairman and the other members of the Council of State; Ministers of State and Deputy Ministers, being expenditure charged on the Consolidated Fund, shall be determined by Parliament on the recommendations of the committee referred to in clause (1) of this article.
 
-- For the purposes of this article, and except as otherwise provided in this Constitution, "salaries" includes allowances, facilities and privileges and retiring benefits or awards.
+(3) For the purposes of this article, and except as otherwise provided in this Constitution, "salaries" includes allowances, facilities and privileges and retiring benefits or awards.
+
+#### 72.
 
 (1) The President may, acting in consultation with the Council of State-
 
@@ -1512,11 +1476,11 @@ five persons appointed by the President, acting in accordance with the advice of
 
 (c) substitute a less severe form of punishment for a punishment imposed on a person for an offence; or
 
-(d) remit the whole or part of a punishment imposed on a person or of a penalty or forfeiture otherwise due to Government on account on any offence.
+(d) remit the whole or part of a punishment imposed on a person or of a penalty or forfeiture otherwise due to Government on account of any offence.
 
-- Where a person is sentenced to death for an offence, a written report of the case from the trial judge or judges, together with such other information derived from the record of the case or elsewhere as may be necessary, shall be submitted to the President.
+(2) Where a person is sentenced to death for an offence, a written report of the case from the trial judge or judges, together with such other information derived from the record of the case or elsewhere as may be necessary, shall be submitted to the President.
 
-- For the avoidance of doubt, it is hereby declared that a reference in this article to a conviction or the imposition of a punishment, penalty, sentence or forfeiture includes a conviction or the imposition of a punishment, penalty, sentence or forfeiture by a court-marital or other military tribunal.
+(3) For the avoidance of doubt, it is hereby declared that a reference in this article to a conviction or the imposition of a punishment, penalty, sentence or forfeiture includes a conviction or the imposition of a punishment, penalty, sentence or forfeiture by a court-martial or other military tribunal.
 
 ### International Relations
 
@@ -1526,75 +1490,73 @@ five persons appointed by the President, acting in accordance with the advice of
 
 #### 73.
 
+The Government of Ghana shall conduct its international affairs in consonance with the accepted principles of public international law and diplomacy in a manner consistent with the national interest of Ghana.
+
 #### 74.
+
+(1) The President shall, acting in consultation with the Council of State, appoint persons to represent Ghana abroad.
+
+(2) The President may receive envoys accredited to Ghana.
 
 #### 75.
 
-#### 76.
+(1) The President may execute or cause to be executed treaties, agreements or conventions in the name of Ghana.
 
-#### 77.
-
-The Government of Ghana shall conduct its international affairs in consonance with the consonance with the accepted principles of public international law and diplomacy in a manner consistent with the national interest of Ghana.
-
-- The President shall, acting in consultation with the Council of State, appoint persons to represent Ghana abroad.
-
-- The President may receive envoys accredited to Ghana.
-
-- The President may execute or cause to be executed treaties, agreements or conventions in the name of Ghana.
-
-- A treaty, agreement or convention executed by or under the authority of the President shall be subject to ratification by-
+(2) A treaty, agreement or convention executed by or under the authority of the President shall be subject to ratification by-
 
 (a) Act of Parliament; or
 
-(b) a resolution of Parliament supported by the votes of more than on-half of all the members of Parliament.
+(b) a resolution of Parliament supported by the votes of more than one-half of all the members of Parliament.
 
 ### The Cabinet
 
-- There shall be a Cabinet which shall consist of the President, the VicePresident and not less than ten and not more than nineteen Ministers of State.
+#### 76.
 
-- The Cabinet shall assist the President in the determination of general policy of the Government.
+(1) There shall be a Cabinet which shall consist of the President, the Vice-President and not less than ten and not more than nineteen Ministers of State.
 
-- There shall be a Secretary to the Cabinet who shall be appointed by the President.
+(2) The Cabinet shall assist the President in the determination of general policy of the Government.
 
-- The Cabinet shall be summoned by the President who shall preside at all its meetings; and in the absence of the President, the Vice-President shall preside.
+(3) There shall be a Secretary to the Cabinet who shall be appointed by the President.
+
+#### 77.
+
+(1) The Cabinet shall be summoned by the President who shall preside at all its meetings; and in the absence of the President, the Vice-President shall preside.
 
 [[END OF PAGE 56]]
 
 [[START OF PAGE 57]]
 
+(2) The Cabinet shall regulate the procedure at its meetings.
+
 #### 78.
 
-#### 79.
+(1) Ministers of State shall be appointed by the President with the prior approval of Parliament from among members of Parliament or persons qualified to be elected as members of Parliament, except that the majority of Ministers of State shall be appointed from among members of Parliament.
 
-#### 80.
+(2) The President shall appoint such number of Ministers of State as may be necessary for the efficient running of the State.
 
-- The Cabinet shall regulate the procedure at its meetings.
-
-- Ministers of State shall be appointed by the President with the prior approval of Parliament from among members of Parliament or persons qualified to be elected as members of Parliament, except that the majority of Ministers of State shall be appointed from among members of Parliament.
-
-- The President shall appoint such number of Ministers of State as may be necessary for the efficient running of the State.
-
-- A Minister of State shall not hold any other office of profit or emolument whether private or public and whether directly or indirectly unless otherwise permitted by the Speaker acting on the recommendations of a committee of Parliament on the ground-
+(3) A Minister of State shall not hold any other office of profit or emolument whether private or public and whether directly or indirectly unless otherwise permitted by the Speaker acting on the recommendations of a committee of Parliament on the ground-
 
 (a) that holding that office will not prejudice the work of a Minister; and
 
 (b) that no conflict of interest arises or would arise as a result of the Minister holding that office.
 
-- The President may, in consultation with a Minister of State, and with the prior approval of Parliament, appoint one or more Deputy Ministers to assist the Minister in the performance of his functions.
+#### 79.
 
-- A person shall not be appointed a Deputy Minister unless he is a Member of Parliament or is qualified to be elected as a member of Parliament.
+(1) The President may, in consultation with a Minister of State, and with the prior approval of Parliament, appoint one or more Deputy Ministers to assist the Minister in the performance of his functions.
 
-- Clause (3) of article 78 applies to a Deputy Minister as it applies to a Minister of State.
+(2) A person shall not be appointed a Deputy Minister unless he is a Member of Parliament or is qualified to be elected as a member of Parliament.
 
-A Minister of State or Deputy Minister shall not enter upon the duties of his unless he has taken and subscribed the oath of allegiance, the oath of Minister of State and the Cabinet oath, as the case may be, set out in the Second Schedule to this Constitution.
+(3) Clause (3) of article 78 applies to a Deputy Minister as it applies to a Minister of State.
+
+#### 80.
+
+A Minister of State or Deputy Minister shall not enter upon the duties of his office unless he has taken and subscribed the oath of allegiance, the oath of Minister of State and the Cabinet oath, as the case may be, set out in the Second Schedule to this Constitution.
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
 
 #### 81.
-
-#### 82.
 
 The office of a Minister of State or a Deputy Minister shall become vacant if -
 
@@ -1606,21 +1568,25 @@ The office of a Minister of State or a Deputy Minister shall become vacant if -
 
 (d) he dies.
 
-- Parliament may, by a resolution supported by the votes of not less than two-thirds of all the members of Parliament, pass a vote of censure on a Minister of State.
+#### 82.
 
-- A motion for the resolution referred to in clause (1) of this article shall not be moved in Parliament unless-
+(1) Parliament may, by a resolution supported by the votes of not less than two-thirds of all the members of Parliament, pass a vote of censure on a Minister of State.
+
+(2) A motion for the resolution referred to in clause (1) of this article shall not be moved in Parliament unless-
 
 (a) seven days' notice has been given of the motion; and
 
-(b) the notice for the motion has been signed by not less than onethird of all the members of Parliament;
+(b) the notice for the motion has been signed by not less than one-third of all the members of Parliament.
 
-- The motion shall be debated in Parliament within fourteen days after the receipt by the Speaker of the notice for the motion.
+(3) The motion shall be debated in Parliament within fourteen days after the receipt by the Speaker of the notice for the motion.
 
-- A Minister of State in respect of whom a vote of censure is debated under clause (3) of this article is entitled, during the debate, to be heard in his defence.
+(4) A Minister of State in respect of whom a vote of censure is debated under clause (3) of this article is entitled, during the debate, to be heard in his defence.
 
-- Where a vote of censure is passed against a Minister under this article the President may, unless the Minister resigns his office, revoke his appointment as a Minister.
+(5) Where a vote of censure is passed against a Minister under this article, the President may, unless the Minister resigns his office, revoke his appointment as a Minister.
 
-- For the avoidance of doubt this article applies to a Deputy Minister as it applies to a Minister of State.
+(6) For the avoidance of doubt, this article applies to a Deputy Minister as it applies to a Minister of State.
+
+### The National Security Council
 
 ### The National Security Council
 
@@ -1630,7 +1596,7 @@ The office of a Minister of State or a Deputy Minister shall become vacant if -
 
 #### 83.
 
-- There shall be a National Security Council which shall consist of-
+(1) There shall be a National Security Council which shall consist of-
 
 (a) the President;
 
@@ -1638,7 +1604,7 @@ The office of a Minister of State or a Deputy Minister shall become vacant if -
 
 (c) the Ministers for the time being holding the portfolios of foreign affairs, defence, interior, and finance and such other Ministers as the President may determine;
 
-(d) the Chief of Defense Staff and two other members of the Armed Forces;
+(d) the Chief of Defence Staff and two other members of the Armed Forces;
 
 (e) the Inspector-General of Police and two other members of the Police Service, one of whom shall be the Commissioner of Police responsible for Criminal Investigations Department;
 
@@ -1656,21 +1622,19 @@ The office of a Minister of State or a Deputy Minister shall become vacant if -
 
 (2) The President shall preside at meetings of the National Security Council and in his absence the Vice-President shall preside.
 
-- The President may, acting in consultation with the National Security Council, invite such persons as he considers necessary for any deliberations of the Council.
+(3) The President may, acting in consultation with the National Security Council, invite such persons as he considers necessary for any deliberations of the Council.
 
-- A person invited to participate in the deliberations of the Council under clause (3) of this article shall not vote on any matter for decision before the Council.
+(4) A person invited to participate in the deliberations of the Council under clause (3) of this article shall not vote on any matter for decision before the Council.
 
-- The National Security Council shall regulate the procedure at its meetings.
+(5) The National Security Council shall regulate the procedure at its meetings.
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
+(6) The Secretary to the Cabinet shall be the Secretary to the National Security Council.
+
 #### 84.
-
-#### 85.
-
-- The Secretary to the Cabinet shall be the Secretary to the National Security Council.
 
 The functions of the National Security Council include-
 
@@ -1682,13 +1646,17 @@ The functions of the National Security Council include-
 
 (d) taking appropriate measures regarding the consideration of policies on matters of common interest to the departments and agencies of the Government concerned with national security.
 
+#### 85.
+
 No agency, establishment or other organization concerned with national security shall be established except as provided for under this Constitution.
 
 ### National Development Planning Commission
 
-- There shall be a National Development Planning Commission.
+#### 86.
 
-- The Commission shall consist of-
+(1) There shall be a National Development Planning Commission.
+
+(2) The Commission shall consist of-
 
 (i) a Chairman who shall be appointed by the President in consultation with the Council of State;
 
@@ -1702,19 +1670,17 @@ No agency, establishment or other organization concerned with national security 
 
 [[START OF PAGE 61]]
 
-#### 87.
-
-#### 88.
-
 (v) one representative from each region of Ghana appointed by the Regional Co-ordinating Council of the region;
 
 (vi) such other persons as may be appointed by the President having regard to their knowledge and experience of the relevant areas and roles pertaining to development, economic, social, environmental and spatial planning.
 
-- The National Development Planning Commission shall be responsible to the President.
+(3) The National Development Planning Commission shall be responsible to the President.
 
-- The Commission shall advise the President on development planning policy and strategy.
+#### 87.
 
-- The Commission shall, at the request of the President or Parliament, or on its own initiative-
+(1) The Commission shall advise the President on development planning policy and strategy.
+
+(2) The Commission shall, at the request of the President or Parliament, or on its own initiative-
 
 (a) study and make strategic analyses of macro-economic and structural reform options;
 
@@ -1726,11 +1692,13 @@ No agency, establishment or other organization concerned with national security 
 
 (e) monitor, evaluate and co-ordinate development policies, programmes and projects.
 
-- The Commission shall also perform such other functions relating to development planning as the President may direct.
+(3) The Commission shall also perform such other functions relating to development planning as the President may direct.
 
 ### The Attorney-General
 
-- There shall be an Attorney-General of Ghana who shall be a Minister of State and the principal legal adviser to the Government.
+#### 88.
+
+(1) There shall be an Attorney-General of Ghana who shall be a Minister of State and the principal legal adviser to the Government.
 
 [[END OF PAGE 61]]
 
@@ -1750,21 +1718,21 @@ No agency, establishment or other organization concerned with national security 
 
 [[START OF PAGE 63]]
 
-#### 89.
-
 ## CHAPTER NINE
 
 ### THE COUNCIL OF STATE
 
-- There shall be a Council of State to counsel the President in the performance of his functions.
+#### 89.
 
-- The Council of State shall consist of -
+(1) There shall be a Council of State to counsel the President in the performance of his functions.
+
+(2) The Council of State shall consist of -
 
 (a) the following persons appointed by the President in consultation with Parliament -
 
 (i) one person who has previously held the office of Chief Justice;
 
-(ii) one person who has previously held the office of Chief of Defense Staff of the Armed Forces of Ghana;
+(ii) one person who has previously held the office of Chief of Defence Staff of the Armed Forces of Ghana;
 
 (iii) one person who has previously held the office of Inspector-General of Police;
 
@@ -1774,19 +1742,17 @@ No agency, establishment or other organization concerned with national security 
 
 (d) eleven other members appointed by the President.
 
-- The Council of State shall elect a chairman from among its members.
+(3) The Council of State shall elect a chairman from among its members.
 
-- A member of the Council of State shall, at the first meeting of the Council which he attends, take and subscribe the oath of secrecy and the oath of a member of the Council of State set out in the Second Schedule to this Constitution.
+(4) A member of the Council of State shall, at the first meeting of the Council which he attends, take and subscribe the oath of secrecy and the oath of a member of the Council of State set out in the Second Schedule to this Constitution.
 
-- A member of the Council of State shall hold office until the end of the term of office of the President unless -
+(5) A member of the Council of State shall hold office until the end of the term of office of the President unless -
 
 (a) that member resigns by writing signed by him and addressed to the President; or
 
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
-
-#### 90.
 
 (b) becomes permanently incapacitated; or
 
@@ -1797,6 +1763,8 @@ No agency, establishment or other organization concerned with national security 
 (7) The Chairman and members of the Council of State shall be entitled to such allowances and privileges as may be determined in accordance with article 71 of this Constitution.
 
 (8) The allowances and privileges of the Chairman and other members of the Council of State shall be charged on the Consolidated Fund and shall not be varied to their disadvantage while they hold office.
+
+#### 90.
 
 (1) A bill which has been published in the Gazette or passed by Parliament shall be considered by the Council of State if the President so requests.
 
@@ -1814,19 +1782,19 @@ No agency, establishment or other organization concerned with national security 
 
 #### 91.
 
+(1) The Council of State shall consider and advise the President or any other authority in respect of any appointment which is required by this Constitution or any other law to be made in accordance with the advice of, or in consultation with, the Council of State.
+
+(2) The advice referred to in clause (1) of this article shall be given not later than thirty days after the receipt of the request from the President or other authority.
+
+(3) The Council of State may, upon request or on its own initiative, consider and make recommendations on any matter being considered or dealt with by the President, a Minister of State, Parliament or any other authority established by this Constitution except that the President, Minister of State, Parliament or other authority shall not be required to act in accordance with any recommendation made by the Council of State under this clause.
+
+(4) The Council of State shall perform such other functions as may be assigned to it by this Constitution or any other law not inconsistent with this Constitution.
+
 #### 92.
 
-- The Council of State shall consider and advise the President or any other authority in respect of any appointment which is required by this Constitution or any other law to b e made in accordance with the advice of, or in consultation with, the Council of State.
+(1) The Council of State shall meet for the dispatch of business at least four times in a year at such time and place as the Chairman may determine.
 
-- The advice referred to in clause (1) of this article shall be given not later than thirty days after the receipt of the request from the President or other authority.
-
-- The Council of State may, upon request or on its own initiative, consider and make recommendations on any matter being considered or dealt with by the President, a Minister of State, Parliament or any other authority established by this Constitution except that the President, Minister of State, Parliament or other authority shall not be required to act in accordance with any recommendation made by the Council of State under this clause.
-
-- The Council of State shall perform such other functions as may be assigned to it by this Constitution or any other law not inconsistent with this Constitution.
-
-- The Council of State shall meet for the dispatch of business at least four times in a year at such time and place as the Chairman my determine.
-
-- The Council of State shall also meet if requested by -
+(2) The Council of State shall also meet if requested by -
 
 (a) the President; or
 
@@ -1834,11 +1802,11 @@ No agency, establishment or other organization concerned with national security 
 
 (c) not less than five members of the Council.
 
-- The Council of States shall hold its meetings in camera but may admit the public to any meetings whenever it considers it appropriate.
+(3) The Council of State shall hold its meetings in camera but may admit the public to any meetings whenever it considers it appropriate.
 
-- The Chairman of the Council of State shall preside at every meeting of the Council, and in his absence, a member of the Council elected by the members of the Council shall preside.
+(4) The Chairman of the Council of State shall preside at every meeting of the Council, and in his absence, a member of the Council elected by the members of the Council shall preside.
 
-- A question for decision by the Council of State shall not be proposed for determination unless there are present in the Council more than onehalf of all the members of the Council.
+(5) A question for decision by the Council of State shall not be proposed for determination unless there are present in the Council more than one-half of all the members of the Council.
 
 [[END OF PAGE 65]]
 
@@ -1850,7 +1818,7 @@ No agency, establishment or other organization concerned with national security 
 
 (8) The Council of State may, with the approval of the President, commission experts and consultants to advise it or to assist it in dealing with any specific issue on such terms and conditions as it may determine.
 
-- A member of the Council of State who is a party to, or is a partner in, a firm which is a party to a contract with the Government shall, in any proceedings in the Council of State relating to that contract, declare his interest or the interest of that firm and shall not vote on any question relating to that contract.
+(9) A member of the Council of State who is a party to, or is a partner in, a firm which is a party to a contract with the Government shall, in any proceedings in the Council of State relating to that contract, declare his interest or the interest of that firm and shall not vote on any question relating to that contract.
 
 (10) The proceedings of the Council of State shall not be invalidated by -
 
@@ -1858,15 +1826,11 @@ No agency, establishment or other organization concerned with national security 
 
 (b) the presence or participation of a person not entitled to be present or to participate in the proceedings of the Council.
 
-- Subject to the provisions of this Constitution, the Council of State may regulate its own procedure.
+(11) Subject to the provisions of this Constitution, the Council of State may regulate its own procedure.
 
 [[END OF PAGE 66]]
 
 [[START OF PAGE 67]]
-
-#### 93.
-
-#### 94.
 
 ## CHAPTER TEN
 
@@ -1874,11 +1838,15 @@ No agency, establishment or other organization concerned with national security 
 
 ### Composition of Parliament
 
-- There shall be a Parliament of Ghana which shall consist of not less than one hundred and forty elected members.
+#### 93.
+
+(1) There shall be a Parliament of Ghana which shall consist of not less than one hundred and forty elected members.
 
 (2) Subject to the provisions of this Constitution, the legislative power of Ghana shall be vested in Parliament and shall be exercised in accordance with this Constitution.
 
-- Subject to the provisions of this article, a person shall not be qualified to be a member of Parliament unless -
+#### 94.
+
+(1) Subject to the provisions of this article, a person shall not be qualified to be a member of Parliament unless -
 
 (a) he is a citizen of Ghana, has attained the age of twenty-one years and is a registered voter;
 
@@ -1886,13 +1854,13 @@ No agency, establishment or other organization concerned with national security 
 
 (c) he has paid all his taxes or made arrangements satisfactory to the appropriate authority for the payment of his taxes.
 
-- A person shall not be qualified to be a member of Parliament if he -
+(2) A person shall not be qualified to be a member of Parliament if he -
 
-(a) owes allegiance to a country other than Ghana: or
+(a) owes allegiance to a country other than Ghana; or
 
 (b) has been adjudged or otherwise declared-
 
-(i) bankrupt under any law in force in Ghana and has not been discharged or
+(i) bankrupt under any law in force in Ghana and has not been discharged; or
 
 (ii) to be of unsound mind or is detained as a criminal lunatic under any law in force in Ghana; or
 
@@ -1904,19 +1872,19 @@ No agency, establishment or other organization concerned with national security 
 
 (i) for high crime under this Constitution or high treason or treason or for an offence involving the security of the State, fraud, dishonesty or moral turpitude; or
 
-(ii) for nay other offence punishable by death or by a sentence of not less than ten years; or
+(ii) for any other offence punishable by death or by a sentence of not less than ten years; or
 
 (iii) for an offence relating to, or connected with election under a law in force in Ghana at any time; or
 
-(d) has been found by the report of a commission or a committee of inquiry to be incompetent to hold public office or is a person in respect of whom a commission or committee of inquiry has found that while being a public officer he acquired assets unlawfully or defrauded the State or mis-used or abused his office, or willfully acted in a manner prejudicial to the interest of the State, and the findings have not been set aside on appeal or judicial review; or
+(d) has been found by the report of a commission or a committee of inquiry to be incompetent to hold public office or is a person in respect of whom a commission or committee of inquiry has found that while being a public officer he acquired assets unlawfully or defrauded the State or mis-used or abused his office, or wilfully acted in a manner prejudicial to the interest of the State, and the findings have not been set aside on appeal or judicial review; or
 
 (e) is under sentence of death or other sentence of imprisonment imposed on him by any court; or
 
-(f) i s not qualified to be registered as a voter under any law relating to public elections; or
+(f) is not qualified to be registered as a voter under any law relating to public elections; or
 
-(g) is other wise disqualified by a law in force at the time of the coming into force of this Constitution, not being inconsistent with a provision of this Constitution.
+(g) is otherwise disqualified by a law in force at the time of the coming into force of this Constitution, not being inconsistent with a provision of this Constitution.
 
-- A person shall not be eligible to be a member of Parliament if he -
+(3) A person shall not be eligible to be a member of Parliament if he -
 
 (a) is prohibited from standing election by a law in force in Ghana by reason of his holding or acting in an office the functions of which involve a responsibility for or are connected with the conduct of, an election or responsibility for, the compilation or revision of an electoral register; or
 
@@ -1928,8 +1896,6 @@ No agency, establishment or other organization concerned with national security 
 
 [[START OF PAGE 69]]
 
-#### 95.
-
 (4) For the purposes of paragraph (d) of clause (2) of this article, in the case of any finding made by a commission or committee of inquiry which is not a judicial or quasi-judicial commission or committee of inquiry, without prejudice to any appeal against or judicial review of that finding, the finding shall not have the effect of disqualifying a person under that paragraph unless it has been confirmed by a Government white paper.
 
 (5) A person shall not be taken to be disqualified to be a member of Parliament under paragraph (c) or (d) of clause (2) of this article if -
@@ -1937,6 +1903,8 @@ No agency, establishment or other organization concerned with national security 
 (a) ten years or more have passed since the end of the sentence or the date for the publication of the report of the commission or committee of inquiry; or
 
 (b) he has been pardoned.
+
+#### 95.
 
 (1) There shall be a Speaker of Parliament who shall be elected by the members of Parliament from among persons who are members of Parliament or who are qualified to be elected as members of Parliament.
 
@@ -1958,27 +1926,27 @@ No agency, establishment or other organization concerned with national security 
 
 [[START OF PAGE 70]]
 
-#### 96.
+(5) The Speaker shall receive such salary and allowances, and on retirement, such retiring awards as may be determined in accordance with article 71 of this Constitution.
 
-#### 97.
-
-(5) The Speaker shall receive such salary and allowances, and on retirement, such retiring a wards as may be determined in accordance with article 71 of this Constitution.
-
-- The salary and allowances payable to the Speaker and any retiring awards payable to him on retirement shall be charged on the Consolidated Fund.
+(6) The salary and allowances payable to the Speaker and any retiring awards payable to him on retirement shall be charged on the Consolidated Fund.
 
 (7) The salary and other allowances payable to the Speaker shall not be varied to his disadvantage during his tenure of office.
 
-- There shall be two Deputy Speakers of Parliament -
+#### 96.
+
+(1) There shall be two Deputy Speakers of Parliament -
 
 (a) who shall be elected by the members of Parliament from among the members of Parliament; and
 
 (b) both of whom shall not be members of the same political party.
 
-(2) The members of Parliament shall elect a person to the office of Deputy Speaker when Parliament first meets after a dissolution of Parliament and if the office becomes vacant otherwise than by reason of a dissolution of Parliament, at the first sitting off Parliament after the office becomes vacant.
+(2) The members of Parliament shall elect a person to the office of Deputy Speaker when Parliament first meets after a dissolution of Parliament and if the office becomes vacant otherwise than by reason of a dissolution of Parliament, at the first sitting of Parliament after the office becomes vacant.
 
-- The provisions of clause (2) of article 95 of this Constitution shall apply in the case of a Deputy Speaker.
+(3) The provisions of clause (2) of article 95 of this Constitution shall apply in the case of a Deputy Speaker.
 
-- A member of Parliament shall vacate his seat in Parliament -
+#### 97.
+
+(1) A member of Parliament shall vacate his seat in Parliament -
 
 (a) upon a dissolution of Parliament; or
 
@@ -1986,15 +1954,11 @@ No agency, establishment or other organization concerned with national security 
 
 (c) if he is absent, without the permission in writing of the Speaker and he is unable to offer a reasonable explanation to the Parliamentary Committee on Privileges from fifteen sittings of a meeting of Parliament during any period that Parliament has been summoned to meet and continues to meet; or
 
-(d) if he is expelled from parliament after having been found guilty of contempt of Parliament by a committee of Parliament; or
+(d) if he is expelled from Parliament after having been found guilty of contempt of Parliament by a committee of Parliament; or
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
-
-#### 98.
-
-#### 99.
 
 (e) if any circumstances arise such that, if he were not a member of Parliament, would cause him to be disqualified or ineligible for election, under article 94 of this Constitution; or
 
@@ -2006,15 +1970,19 @@ No agency, establishment or other organization concerned with national security 
 
 (2) Notwithstanding paragraph (g) of clause (1) of this article, a merger of parties at the national level sanctioned by the parties' Constitutions or membership of a coalition government of which his original party forms part, shall not affect the status of any member of Parliament.
 
+#### 98.
+
 (1) A member of Parliament shall be paid such salary and allowances and provided with such facilities as may be determined in accordance with article 71 of this Constitution.
 
-- A member of Parliament shall not hold any office of profit or emolument, whether private or public and either directly or indirectly, unless permitted to do so by the Speaker acting on the recommendations of a committee of Parliament on the grounds that -
+(2) A member of Parliament shall not hold any office of profit or emolument, whether private or public and either directly or indirectly, unless permitted to do so by the Speaker acting on the recommendations of a committee of Parliament on the grounds that -
 
 (a) holding that office will not prejudice the work of a member of Parliament; and
 
 (b) no conflict of interest arises or would arise as a result of the member holding that office.
 
-- The High Court shall have jurisdiction to hear and determine any question whether -
+#### 99.
+
+(1) The High Court shall have jurisdiction to hear and determine any question whether -
 
 (a) a person has been validly elected as a member of Parliament or the seat of a member has become vacant; or
 
@@ -2024,45 +1992,39 @@ No agency, establishment or other organization concerned with national security 
 
 [[START OF PAGE 72]]
 
-#### 100.
-
-#### 101.
-
-#### 102.
-
-#### 103.
-
 (2) A person aggrieved by the determination of the High Court under this article may appeal to the Court of Appeal.
 
 ### Procedure in Parliament
 
-- A member of Parliament shall, before taking his seat in Parliament, take and subscribe before the Speaker and in the presence of the members of Parliament, the oath of allegiance and the oath of a member of parliament set out in the Second Schedule to this Constitution.
+#### 100.
 
-- A member of Parliament may, before taking the oaths referred to in clause (1) of this article, take part in the election of the Speaker.
+(1) A member of Parliament shall, before taking his seat in Parliament, take and subscribe before the Speaker and in the presence of the members of Parliament, the oath of allegiance and the oath of a member of Parliament set out in the Second Schedule to this Constitution.
+
+(2) A member of Parliament may, before taking the oaths referred to in clause (1) of this article, take part in the election of the Speaker.
+
+#### 101.
 
 The Speaker shall preside in Parliament at all sittings and in his absence a Deputy Speaker shall preside.
 
-A quorum of Parliament, apart from the person presiding, shall be onethird of all the members of Parliament.
+#### 102.
 
-- Parliament shall appoint standing committees and other committees as may be necessary for the effective discharge of its functions.
+A quorum of Parliament, apart from the person presiding, shall be one-third of all the members of Parliament.
 
-- The standing committees shall be appointed at the first meeting of Parliament after the election of the Speaker and the Deputy Speakers.
+#### 103.
 
-- Committees of Parliament shall be charged with such functions, including the investigation and inquiry into the activities and administration of ministries and departments as parliament may determine; and such investigation and inquiries may extend to proposals for legislation.
+(1) Parliament shall appoint standing committees and other committees as may be necessary for the effective discharge of its functions.
 
-- Every member of Parliament shall be a member of at least one of the standing committees.
+(2) The standing committees shall be appointed at the first meeting of Parliament after the election of the Speaker and the Deputy Speakers.
 
-- The composition of the committees shall, as much as possible, reflect the different shades of opinion in Parliament.
+(3) Committees of Parliament shall be charged with such functions, including the investigation and inquiry into the activities and administration of ministries and departments as Parliament may determine; and such investigation and inquiries may extend to proposals for legislation.
+
+(4) Every member of Parliament shall be a member of at least one of the standing committees.
+
+(5) The composition of the committees shall, as much as possible, reflect the different shades of opinion in Parliament.
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
-
-#### 104.
-
-#### 105.
-
-#### 106.
 
 (6) A committee appointed under this article shall have the powers, rights and privileges of the High Court or a Justice of the High Court at a trial for -
 
@@ -2072,64 +2034,83 @@ A quorum of Parliament, apart from the person presiding, shall be onethird of al
 
 (c) issuing a commission or request to examine witnesses abroad.
 
-- Except as otherwise provided in this Constitution, matters in Parliament shall be determined by the votes of the majority of members present and voting, with at least half of all the members of Parliament present.
+#### 104.
 
-- The Speaker shall have neither an original nor casting vote.
+(1) Except as otherwise provided in this Constitution, matters in Parliament shall be determined by the votes of the majority of members present and voting, with at least half of all the members of Parliament present.
 
-- Where the votes on any motion are equal it shall be taken to be lost.
+(2) The Speaker shall have neither an original nor casting vote.
 
-- Where Parliament is considering a bill to amend the Constitution, or where the voting is in relation to the election or removal of any person under this Constitution or under any other law, voting shall be in secret.
+(3) Where the votes on any motion are equal it shall be taken to be lost.
 
-- A member who is a party to or a partner in a firm which is a party to a contract with the Government shall declare his interest and shall not vote on any question relating to the contract.
+(4) Where Parliament is considering a bill to amend the Constitution, or where the voting is in relation to the election or removal of any person under this Constitution or under any other law, voting shall be in secret.
+
+(5) A member who is a party to or a partner in a firm which is a party to a contract with the Government shall declare his interest and shall not vote on any question relating to the contract.
+
+#### 105.
 
 A person who sits or votes in Parliament knowing or having reasonable grounds for knowing that he is not entitled so to do commits an offence and shall be liable on conviction, to such penalty as shall be prescribed by or under an Act of Parliament.
 
-- The power of Parliament to make laws shall be exercised by bills passed by parliament and assented to by the President.
+#### 106.
 
-- No bill, other than such a bill as is referred to in paragraph (a) of article 108 of this Constitution, shall be introduced in parliament unless -
+(1) The power of Parliament to make laws shall be exercised by bills passed by Parliament and assented to by the President.
+
+(2) No bill, other than such a bill as is referred to in paragraph (a) of article 108 of this Constitution, shall be introduced in Parliament unless -
 
 [[END OF PAGE 73]]
 
 [[START OF PAGE 74]]
 
-(a) it is accompanied by an explanatory memorandum setting out in detail the policy and principles of the bill, the defects of the existing law, the remedies proposed to deal with those defects and the necessity for its introduction; and (b) it has been published in the Gazette at least fourteen days before the date of its introduction in Parliament. (3) A bill affecting the institution of chieftaincy shall not be introduced in Parliament without prior reference to the National House of Chiefs. (4) Whenever a bill is read the first time in Parliament, it shall be referred to the appropriate committee appointed under article 103 of this Constitution which shall examine the bill in detail and make all such inquiries in relation to it as the committee considers expedient or necessary. (5) Where a bill has been deliberated upon by the appropriate committee, it shall be reported to Parliament. (6) The report of the committee, together with the explanatory memorandum to the bill, shall form the basis for a full debate on the bill for its passage, with or without amendments, or its rejection, by Parliament. (7) Where a bill passed by Parliament is presented to the President for assent he shall signify, within seven days after the refuses to assent to the bill, unless the bill has been referred by the President to the Council of State under article 90 of this Constitution. (8) Where the President refuses to assent to a bill, he shall, within fourteen days after the refusal (a) state in a memorandum to the Speaker any specific provisions of the bill which in his opinion should be reconsidered by Parliament, including his recommendations for amendments if any; or (b) inform the Speaker that he has referred the bill to the Council of State for consideration and comment under article 90 of this Constitution. (9) Parliament shall reconsider a bill taking into account the comments made by the President or the Council of State, as the case may be, under
+(a) it is accompanied by an explanatory memorandum setting out in detail the policy and principles of the bill, the defects of the existing law, the remedies proposed to deal with those defects and the necessity for its introduction; and
 
-clause (8) of this article.
+(b) it has been published in the Gazette at least fourteen days before the date of its introduction in Parliament.
+
+(3) A bill affecting the institution of chieftaincy shall not be introduced in Parliament without prior reference to the National House of Chiefs.
+
+(4) Whenever a bill is read the first time in Parliament, it shall be referred to the appropriate committee appointed under article 103 of this Constitution which shall examine the bill in detail and make all such inquiries in relation to it as the committee considers expedient or necessary.
+
+(5) Where a bill has been deliberated upon by the appropriate committee, it shall be reported to Parliament.
+
+(6) The report of the committee, together with the explanatory memorandum to the bill, shall form the basis for a full debate on the bill for its passage, with or without amendments, or its rejection, by Parliament.
+
+(7) Where a bill passed by Parliament is presented to the President for assent he shall signify, within seven days after the presentation to him, whether he assents or refuses to assent to the bill, unless the bill has been referred by the President to the Council of State under article 90 of this Constitution.
+
+(8) Where the President refuses to assent to a bill, he shall, within fourteen days after the refusal -
+
+(a) state in a memorandum to the Speaker any specific provisions of the bill which in his opinion should be reconsidered by Parliament, including his recommendations for amendments if any; or
+
+(b) inform the Speaker that he has referred the bill to the Council of State for consideration and comment under article 90 of this Constitution.
+
+(9) Parliament shall reconsider a bill taking into account the comments made by the President or the Council of State, as the case may be, under clause (8) of this article.
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
 
+(10) Where a bill reconsidered under clause (9) of this article is passed by Parliament by a resolution supported by the votes of not less than two-thirds of all the members of Parliament, the President shall assent to it within thirty days after the passing of the resolution.
+
+(11) Without prejudice to the power of Parliament to postpone the operation of a law, a bill shall not become law until it has been duly passed and assented to in accordance with the provisions of this Constitution and shall not come into force unless it has been published in the Gazette.
+
+(12) The provisions of clauses (7) to (10) of this article shall not apply to a bill certified by the Speaker as a bill to which the provisions of article 108 of this Constitution apply; and accordingly, the President shall give his assent to any such bill when presented for assent.
+
+(13) Where it is determined by a committee of Parliament appointed for the purpose that a particular bill is of an urgent nature, the provisions of the preceding clauses of this article, other than clause (1) and paragraph (a) of clause (2), shall not apply, and accordingly, the President shall give his assent to the bill on its presentation for assent.
+
+(14) A bill introduced in Parliament by or on behalf of the President shall not be delayed for more than three months in any committee of Parliament.
+
 #### 107.
-
-#### 108.
-
-- Where a bill reconsidered under clause (9) of this article is passed by Parliament by a resolution supported by the votes of not less than twothirds of all the members of Parliament, the President shall assent to it within thirty days after passing of the resolution.
-
-- Without prejudice to the power of Parliament to postpone the operation of a law, a bill shall not become law until it has been duly passed and assented to in accordance with the provisions of this Constitution and shall not come into force unless it has been published in the Gazette.
-
-- The provisions of clauses (7) to (10) of this article shall not apply to a bill certified by the Speaker as a bill to which the provisions of article 108 of this Constitution apply; and accordingly, the President shall give his assent to any such bill when presented for assent.
-
-- Where it is determined by a committee of Parliament appointed for the purpose that a particular bill is of an urgent nature, the provisions of the preceding clauses of this article, other than clause (1) and paragraph (a) of clause (2) shall not apply, and accordingly, the President shall give his assent to the bill on its presentation for assent.
-
-- A bill introduced in Parliament by or on behalf of the President shall not be delayed for more than three months in any committee of Parliament.
 
 Parliament shall have no power to pass any law -
 
 (a) to alter the decision or judgement of any court as between the parties subject to that decision or judgement; or
 
-(b) which operates retrospectively to impose any limitations on, or to adversely affect the personal rights and liberties of any person or to impose a burden, obligation or liability on any person except in the case of a law enacted under articles 178 0r 182 of this Constitution.
+(b) which operates retrospectively to impose any limitations on, or to adversely affect the personal rights and liberties of any person or to impose a burden, obligation or liability on any person except in the case of a law enacted under articles 178 or 182 of this Constitution.
+
+#### 108.
 
 Parliament shall not, unless the bill is introduced or the motion is introduced by, or on behalf of, the President -
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
-
-#### 109.
-
-#### 110.
-
 (a) proceed upon a bill including an amendment to a bill, that, in the opinion of the person presiding, makes provision for any of the following -
 
 (i) the imposition of taxation or the alteration of taxation otherwise than by reduction; or
@@ -2140,59 +2121,55 @@ Parliament shall not, unless the bill is introduced or the motion is introduced 
 
 (iv) the composition or remission of any debt due to the Government of Ghana; or
 
-(b) proceed upon a motion, including an amendment to a motion, the effect of which, in the opinion of the person presiding, would be to make provision for any of the purpose specified in paragraph (a) of this article.
+(b) proceed upon a motion, including an amendment to a motion, the effect of which, in the opinion of the person presiding, would be to make provision for any of the purposes specified in paragraph (a) of this article.
 
-- Parliament may by law regulate professional, trade and business organisations.
+#### 109.
 
-- The affairs of an organisation referred to in clause (1) of this article shall be conducted on democratic lines.
+(1) Parliament may by law regulate professional, trade and business organisations.
 
-- Subject to the provisions of this Constitution, Parliament may, by standing orders, regulate its own procedure.
+(2) The affairs of an organisation referred to in clause (1) of this article shall be conducted on democratic lines.
 
-- Parliament may act notwithstanding a vacancy in its membership, including a vacancy not filled when Parliament first meets after a dissolution of Parliament; and the presence or the participation of a person not entitled to be present or to participate in the proceedings of Parliament shall not invalidate these proceedings.
+#### 110.
 
+(1) Subject to the provisions of this Constitution, Parliament may, by standing orders, regulate its own procedure.
+
+(2) Parliament may act notwithstanding a vacancy in its membership, including a vacancy not filled when Parliament first meets after a dissolution of Parliament; and the presence or the participation of a person not entitled to be present or to participate in the proceedings of Parliament shall not invalidate these proceedings.
 [[END OF PAGE 76]]
 
 [[START OF PAGE 77]]
-
 #### 111.
-
-#### 112.
-
-#### 113.
 
 The Vice-President, or a Minister or Deputy Minister who is not a member of Parliament, shall be entitled to participate in the proceedings of Parliament and shall be accorded all the privileges of a member of Parliament except that he is not entitled to vote or to hold an office in Parliament.
 
-### Summoning, Dissolution, etc .
+### Summoning, Dissolution, etc.
 
-- A session of Parliament shall be held at such place within Ghana and shall commence at such time as the Speaker may, by constitutional instrument, appoint.
+#### 112.
 
-- A session of Parliament shall be held at least once a year, so that the period between the last sitting of Parliament in one session and the first sitting of Parliament in the next session does not amount to twelve months.
+(1) A session of Parliament shall be held at such place within Ghana and shall commence at such time as the Speaker may, by constitutional instrument, appoint.
 
-- Notwithstanding any other provision of this article fifteen percent of members of Parliament may request a meeting of Parliament; and the Speaker shall, within seven days after the receipt of the request, summon Parliament.
+(2) A session of Parliament shall be held at least once a year, so that the period between the last sitting of Parliament in one session and the first sitting of Parliament in the next session does not amount to twelve months.
 
-- Subject to clause (2) of article 113 of this Constitution, a general election of members of Parliament shall be held within thirty days before the expiration of the period specified in clause (1) of that article; and a session of Parliament shall be appointed to commence within fourteen days after the expiration of that period.
+(3) Notwithstanding any other provision of this article fifteen percent of members of Parliament may request a meeting of Parliament; and the Speaker shall, within seven days after the receipt of the request, summon Parliament.
 
-- Whenever a vacancy occurs in Parliament, the Clerk to Parliament shall notify the Electoral commission in writing within seven days after the vacancy occurred, and a by-election shall be held within thirty days after the vacancy occurred.
+(4) Subject to clause (2) of article 113 of this Constitution, a general election of members of Parliament shall be held within thirty days before the expiration of the period specified in clause (1) of that article; and a session of Parliament shall be appointed to commence within fourteen days after the expiration of that period.
 
-- Notwithstanding clause (5) of this article, a by-election shall not be held within three months before the holding of a general election.
+(5) Whenever a vacancy occurs in Parliament, the Clerk to Parliament shall notify the Electoral Commission in writing within seven days after the vacancy occurred, and a by-election shall be held within thirty days after the vacancy occurred.
 
-- Subject to clause (2) of this article, parliament shall continue for four years from the date of its first sitting and shall then stand dissolved.
+(6) Notwithstanding clause (5) of this article, a by-election shall not be held within three months before the holding of a general election.
 
+#### 113.
+
+(1) Subject to clause (2) of this article, Parliament shall continue for four years from the date of its first sitting and shall then stand dissolved.
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
-
-#### 114.
-
-#### 115.
-
-#### 116.
-
 (2) At any time when Ghana is actually engaged in war, Parliament may, from time to time by resolution supported by the votes of not less than two-thirds of all the members of Parliament, extend the period of four years specified in clause (1) of this article for not more than twelve months at a time, except that the life of Parliament shall not be extended under this clause for more than four years.
 
 (3) Where, after a dissolution of Parliament but before the holding of a general election, the President is satisfied that owing to the existence of a state of war or of a state of public emergency in Ghana or any part of Ghana, it is necessary to recall Parliament, the President shall cause to be summoned the Parliament that has been dissolved to meet.
 
 (4) Unless the life of Parliament is extended under the provisions of clause (2) of this article, the general election of members of Parliament shall proceed and the Parliament that has been recalled shall, if not sooner dissolved, again stand dissolved on the date appointed for the general election.
+
+#### 114.
 
 (1) A person who has served as a member of Parliament for a period of not less than four years shall be eligible, on ceasing to be a member or on his death, for the payment of such gratuity to him or his personal representatives, as the case may be, as shall be determined by the President, acting in consultation with the Committee referred to in article 71 of this Constitution.
 
@@ -2200,47 +2177,45 @@ The Vice-President, or a Minister or Deputy Minister who is not a member of Parl
 
 ### Privileges and Immunities
 
+#### 115.
+
 There shall be freedom of speech, debate and proceedings in Parliament and that freedom shall not be impeached or questioned in any court or place out of Parliament.
 
-(1) Subject to the provisions of this article, but without prejudice to the general effect of article 115 of this Constitution, civil or criminal
+#### 116.
 
+(1) Subject to the provisions of this article, but without prejudice to the general effect of article 115 of this Constitution, civil or criminal
 [[END OF PAGE 78]]
 
 [[START OF PAGE 79]]
-
-#### 117.
-
-#### 118.
-
 proceedings shall not be instituted against a member of Parliament in any court or place out of Parliament for any matter or thing brought by him in or before Parliament by petition, bill, motion or otherwise.
 
 (2) Whenever in the opinion of the person presiding in Parliament a statement made by a member is prima facie defamatory of any person, the person presiding shall refer the matter for inquiry to the Parliamentary committee on privileges which shall report its findings to Parliament not later than thirty days after the matter was referred to it.
 
-(3) Where the committee referred to in clause (2) of this article reports to parliament that the statement made by the member is defamatory of any person, the member who made the statement shall, within seven days after that report, render an apology at the bar of Parliament committee on privileges and communicated to the person who has been defamed.
+(3) Where the committee referred to in clause (2) of this article reports to Parliament that the statement made by the member is defamatory of any person, the member who made the statement shall, within seven days after that report, render an apology at the bar of Parliament, the terms of which shall be approved by the Parliamentary committee on privileges and communicated to the person who has been defamed.
 
-(4) Where a member refuses to render an apology in accordance with clause (3) of this article, the Speaker shall suspend that member for the duration of the session of parliament in which the defamatory statement was made and a member so suspended shall lose his parliamentary privileges, immunities and remuneration, but they shall be restored to him if, at any time before the end of the session, he renders the apology as required by clause (3) of this article.
+(4) Where a member refuses to render an apology in accordance with clause (3) of this article, the Speaker shall suspend that member for the duration of the session of Parliament in which the defamatory statement was made and a member so suspended shall lose his parliamentary privileges, immunities and remuneration, but they shall be restored to him if, at any time before the end of the session, he renders the apology as required by clause (3) of this article.
 
 (5) A person who has made a contemporaneous report of the proceedings in Parliament, including a statement which has been the subject of an inquiry under clause (2) of this article, shall publish the apology referred to in clause (3) of this article or the suspension or the apology referred to in clause (4) of this article with the same prominence as he published the first report.
 
 (6) If a person fails to publish the apology as required by clause (5) of this article, he shall not be protected by privilege.
 
-Civil or criminal process coming from any court or place out of Parliament shall not be served on, or executed in relation to, the Speaker or a member or the clerk to Parliament while he is on his way to, attending at or returning from, any proceedings of Parliament.
+#### 117.
 
-(1) Neither the Speaker, nor a member of, nor the Clerk to, Parliament shall be compelled, while attending Parliament to appear as a witness in any court or place out of Parliament.
+Civil or criminal process coming from any court or place out of Parliament shall not be served on, or executed in relation to, the Speaker or a member or the Clerk to Parliament while he is on his way to, attending at or returning from, any proceedings of Parliament.
 
+#### 118.
+
+(1) Neither the Speaker, nor a member of, nor the Clerk to, Parliament shall be compelled, while attending Parliament, to appear as a witness in any court or place out of Parliament.
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+(2) The certificate of the Speaker that a member or the Clerk is attending the proceedings of Parliament is conclusive evidence of attendance at Parliament.
 
 #### 119.
 
-#### 120.
-
-#### 121.
-
-- The certificate of the Speaker that a member or the Clerk is attending the proceedings of Parliament is conclusive evidence of attendance at Parliament.
-
 Neither the Speaker, nor a member of, nor the Clerk to, Parliament shall be required to serve on a jury in any court or place out of Parliament.
+
+#### 120.
 
 Subject to the provisions of this Constitution, a person shall not be under any civil or criminal liability in respect of the publication of -
 
@@ -2250,9 +2225,11 @@ Subject to the provisions of this Constitution, a person shall not be under any 
 
 unless it is shown that the publication was effected maliciously or otherwise without good faith.
 
-- A person summoned to attend to give evidence or to produce a paper, book, record or other document before Parliament, shall be entitled, in respect of his evidence, or the production of the document, as the case may be, to the same privileges as if he were appearing before a court.
+#### 121.
 
-- A public officer shall not be required to produce before Parliament a document where -
+(1) A person summoned to attend to give evidence or to produce a paper, book, record or other document before Parliament, shall be entitled, in respect of his evidence, or the production of the document, as the case may be, to the same privileges as if he were appearing before a court.
+
+(2) A public officer shall not be required to produce before Parliament a document where -
 
 (a) the Speaker certifies -
 
@@ -2263,73 +2240,71 @@ unless it is shown that the publication was effected maliciously or otherwise wi
 (b) the National Security Council certifies -
 
 (i) that the document belongs to a class of documents, the production of which is prejudicial to the security of the State; or
-
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
-
-#### 124.
-
 (ii) that disclosure of the contents of the document will be prejudicial to the security of the State.
 
-- Where there is a doubt as to the nature of a document such as is referred to in clause (2) of this article, the Speaker or the National Security Council, as the case may be, shall refer the matter to the Supreme Court for determination whether the production, or the disclosure of the contents, of the document would be injurious to the public interest or, as the case may be, prejudicial to the security of the State.
+(3) Where there is a doubt as to the nature of a document such as is referred to in clause (2) of this article, the Speaker or the National Security Council, as the case may be, shall refer the matter to the Supreme Court for determination whether the production, or the disclosure of the contents, of the document would be injurious to the public interest or, as the case may be, prejudicial to the security of the State.
 
-- An answer by a person to a question put by Parliament shall not be admissible in evidence against him in any civil or criminal proceedings out of Parliament, except proceedings for perjury brought under the criminal law.
+(4) An answer by a person to a question put by Parliament shall not be admissible in evidence against him in any civil or criminal proceedings out of Parliament, except proceedings for perjury brought under the criminal law.
 
 ### Contempt of Parliament
 
 #### 122.
+
 An act or omission which obstructs or impedes Parliament in the performance of its functions or which obstructs or impedes a member or officer of Parliament in the discharge of his duties, or affronts the dignity of Parliament or which tends either directly or indirectly to produce that result, is contempt of Parliament.
 
 #### 123.
-Where an act or omission which constitutes contempt of Parliament is an offence under he criminal law, the exercise by Parliament of the power to punish for contempt shall not be a bar to the institution of proceedings under the criminal law.
+
+Where an act or omission which constitutes contempt of Parliament is an offence under the criminal law, the exercise by Parliament of the power to punish for contempt shall not be a bar to the institution of proceedings under the criminal law.
 
 ### The Parliamentary Service
 
-- There shall be a Parliamentary Service which shall form part of the public services of Ghana.
+#### 124.
 
-- There shall be a Parliamentary Service Board which shall consist of -
+(1) There shall be a Parliamentary Service which shall form part of the public services of Ghana.
+
+(2) There shall be a Parliamentary Service Board which shall consist of -
 
 (a) the Speaker, as chairman;
 
 (b) four other members all of whom shall be appointed by the Speaker, acting in accordance with the advice of a committee of Parliament; and
-
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
-
 (c) the Clerk to Parliament.
 
-- There shall be a Clerk to Parliament who shall be the head of the Parliamentary Service.
+(3) There shall be a Clerk to Parliament who shall be the head of the Parliamentary Service.
 
-- The appointment of the Clerk and the other members of his staff in the Parliamentary Service shall be made by the parliamentary Service Board in consultation with the Public Services Commission.
+(4) The appointment of the Clerk and the other members of his staff in the Parliamentary Service shall be made by the Parliamentary Service Board in consultation with the Public Services Commission.
 
-- The Parliamentary Service Board shall, with the prior approval of Parliament, make regulations, by constitutional instrument, prescribing the terms and conditions of service of the officers and other employees in the Parliamentary Service and generally for the effective and efficient administration of the Parliamentary Service.
+(5) The Parliamentary Service Board shall, with the prior approval of Parliament, make regulations, by constitutional instrument, prescribing the terms and conditions of service of the officers and other employees in the Parliamentary Service and generally for the effective and efficient administration of the Parliamentary Service.
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
-
-#### 125.
-
-#### 126.
-
 ## CHAPTER ELEVEN
+
 ### THE JUDICIARY
 
 ### General
 
-- Justice emanates from the people and shall be administered in the name of the Republic by the Judiciary which shall be independent and subject only to this Constitution.
+#### 125.
+
+(1) Justice emanates from the people and shall be administered in the name of the Republic by the Judiciary which shall be independent and subject only to this Constitution.
 
 (2) Citizens may exercise popular participation in the administration of justice through the institutions of public and customary tribunals and the jury and assessor systems.
 
-- The judicial power of Ghana shall be vested in the Judiciary, accordingly, neither the President nor Parliament nor any organ or agency of the President or Parliament shall have or be given final judicial power.
+(3) The judicial power of Ghana shall be vested in the Judiciary, accordingly, neither the President nor Parliament nor any organ or agency of the President or Parliament shall have or be given final judicial power.
 
-- The Chief Justice shall, subject to this Constitution, be the Head of the Judiciary and shall be responsible for the administration and supervision of the Judiciary.
+(4) The Chief Justice shall, subject to this Constitution, be the Head of the Judiciary and shall be responsible for the administration and supervision of the Judiciary.
 
-- The Judiciary shall have jurisdiction in all matters civil and criminal, including matters relating to this Constitution, and such other jurisdiction as Parliament may, by law, confer on it.
+(5) The Judiciary shall have jurisdiction in all matters civil and criminal, including matters relating to this Constitution, and such other jurisdiction as Parliament may, by law, confer on it.
 
-- The Judiciary shall consist of -
+#### 126.
+
+(1) The Judiciary shall consist of -
 
 (a) the Superior Courts of Judicature comprising -
 
@@ -2341,71 +2316,63 @@ Where an act or omission which constitutes contempt of Parliament is an offence 
 
 (b) such lower courts or tribunals as Parliament may by law establish.
 
-- The Superior Courts shall be superior courts of record and shall have the power to commit for contempt to themselves and all such powers as
-
+(2) The Superior Courts shall be superior courts of record and shall have the power to commit for contempt to themselves and all such powers as
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
-
-#### 127.
-
-were vested in a court of record immediately before the coming into force of this constitution.
+were vested in a court of record immediately before the coming into force of this Constitution.
 
 (3) Except as otherwise provided in this Constitution or as may otherwise be ordered by a court in the interest of public morality, public safety or public order, the proceedings of every court shall be held in public.
 
 (4) In the exercise of the judicial power conferred on the Judiciary by this Constitution or any other law, the Superior Courts may, in relation to any matter within their jurisdiction, issue such orders and directions as may be necessary to ensure the enforcement of any judgement, decree or order of those courts.
 
+#### 127.
+
 (1) In the exercise of the judicial power of Ghana, the Judiciary, in both its judicial and administrative functions, including financial administration, is subject only to this Constitution and shall not be subject to the control or direction of any person or authority.
 
-(2) Neither the President nor Parliament nor any person acting under the authority of the President or Parliament nor any other person whatsoever shall interfered with Judges or judicial officers or other persons exercising judicial power, in the exercise of their judicial functions; and all organs and agencies of the State shall accord to the courts such assistance as the courts may reasonably require to protect the independence, dignity and effectiveness of the courts, subject to this Constitution.
+(2) Neither the President nor Parliament nor any person acting under the authority of the President or Parliament nor any other person whatsoever shall interfere with Judges or judicial officers or other persons exercising judicial power, in the exercise of their judicial functions; and all organs and agencies of the State shall accord to the courts such assistance as the courts may reasonably require to protect the independence, dignity and effectiveness of the courts, subject to this Constitution.
 
 (3) A Justice of a Superior Court, or any person exercising judicial power, shall not be liable to any action or suit for any act or omission by him in the exercise of the judicial power.
 
-(4) The administrative expenses of the judiciary, including all salaries, allowances, gratuities and pensions payable to our in respect of, persons serving in the judiciary, shall be charged on the Consolidated Fund.
+(4) The administrative expenses of the Judiciary, including all salaries, allowances, gratuities and pensions payable to or in respect of, persons serving in the Judiciary, shall be charged on the Consolidated Fund.
 
-(5) The salary, allowances, privileges and rights in respect of leave of absence, gratuity, pension and other conditions of service of a Justice of the superior court or any judicial officer or other person exercising judicial power, shall not be varied to his disadvantage.
+(5) The salary, allowances, privileges and rights in respect of leave of absence, gratuity, pension and other conditions of service of a Justice of the Superior Court or any judicial officer or other person exercising judicial power, shall not be varied to his disadvantage.
 
-(6) Funds voted by parliament, or charged on the Consolidated Fund by this Constitution for the Judiciary, shall be released to the Judiciary, in quarterly installments.
-
+(6) Funds voted by Parliament, or charged on the Consolidated Fund by this Constitution for the Judiciary, shall be released to the Judiciary, in quarterly installments.
 [[END OF PAGE 84]]
 
 [[START OF PAGE 85]]
-
-#### 128.
-
-#### 129.
-
 (7) For the purposes of clause (1) of this article, "financial administration" includes the operation of banking facilities by the Judiciary without the interference of any person or authority, other than for the purposes of audit by the Auditor-General, of the funds voted by Parliament or charged on the Consolidated Fund by this Constitution or any other law, for the purposes of defraying the expenses of the Judiciary in respect of which the funds were voted or charged.
 
 ### The Supreme Court
 
-- The Supreme court shall consist of the Chief Justice and not less than nine other Justices of the Supreme Court.
+#### 128.
 
-- The Supreme Court shall be duly constituted for its work by not less than five Supreme Court Justices except as otherwise provided in article 133 of this Constitution.
+(1) The Supreme Court shall consist of the Chief Justice and not less than nine other Justices of the Supreme Court.
 
-- The Chief Justice shall preside at sittings of the Supreme Court and in his absence, the most senior of the Justices of the Supreme Court, as constituted, shall preside.
+(2) The Supreme Court shall be duly constituted for its work by not less than five Supreme Court Justices except as otherwise provided in article 133 of this Constitution.
 
-- A person shall not be qualified for appointment as a Justice of the Supreme Court unless he is of high moral character and proven integrity and is of not less than fifteen years' standing as a lawyer.
+(3) The Chief Justice shall preside at sittings of the Supreme Court and in his absence, the most senior of the Justices of the Supreme Court, as constituted, shall preside.
 
-- The Supreme Court shall be the final court of appeal and shall have such appellate and other jurisdiction as may be conferred on it by this Constitution or by any other law.
+(4) A person shall not be qualified for appointment as a Justice of the Supreme Court unless he is of high moral character and proven integrity and is of not less than fifteen years' standing as a lawyer.
 
-- The Supreme Court shall not be bound to follow the decisions of any other court.
+#### 129.
 
-- The Supreme Court may, while treating its own previous decisions as normally binding, depart from a previous decision when it appears to it right to do so; and all other courts shall be bound to follow the decisions of the Supreme Court on questions of law.
+(1) The Supreme Court shall be the final court of appeal and shall have such appellate and other jurisdiction as may be conferred on it by this Constitution or by any other law.
 
-- For the purposes of hearing and determining a matter within its jurisdiction and the amendment, execution or the enforcement of a judgement or order made on any matter, and for the purposes of any other authority, expressly or by necessary implication given to the Supreme Court by this Constitution or any other law, the Supreme Court shall have
+(2) The Supreme Court shall not be bound to follow the decisions of any other court.
 
+(3) The Supreme Court may, while treating its own previous decisions as normally binding, depart from a previous decision when it appears to it right to do so; and all other courts shall be bound to follow the decisions of the Supreme Court on questions of law.
+
+(4) For the purposes of hearing and determining a matter within its jurisdiction and the amendment, execution or the enforcement of a judgement or order made on any matter, and for the purposes of any other authority, expressly or by necessary implication given to the Supreme Court by this Constitution or any other law, the Supreme Court shall have
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
+all the powers, authority and jurisdiction vested in any court established by this Constitution or any other law.
 
 #### 130.
 
-#### 131.
-
-all the powers, authority and Jurisdiction vested in any court established by this Constitution or any other law.
-
-- Subject to the jurisdiction of the High Court in the enforcement of the Fundamental Human Rights and Freedoms as provided in article 33 of this Constitution, the Supreme Court shall have exclusive original jurisdiction in -
+(1) Subject to the jurisdiction of the High Court in the enforcement of the Fundamental Human Rights and Freedoms as provided in article 33 of this Constitution, the Supreme Court shall have exclusive original jurisdiction in -
 
 (a) all matters relating to the enforcement or interpretation of this Constitution; and
 
@@ -2413,55 +2380,53 @@ all the powers, authority and Jurisdiction vested in any court established by th
 
 (2) Where an issue that relates to a matter or question referred to in clause (1) of this article arises in any proceedings in a court other than the Supreme Court, that court shall stay the proceedings and refer the question of law involved to the Supreme Court for determination; and the court in which the question arose shall dispose of the case in accordance with the decision of the Supreme Court.
 
-- An appeal shall lie from a judgement of the Court of Appeal to the Supreme Court-
+#### 131.
+
+(1) An appeal shall lie from a judgement of the Court of Appeal to the Supreme Court-
 
 (a) as of right in a civil or criminal cause or matter in respect of which an appeal has been brought to the Court of Appeal from a judgment of the High Court or a Regional Tribunal in the exercise of its original jurisdiction; or
 
 (b) with the leave of the Court of Appeal, in any other cause or matter, where the case was commenced in a court lower than the High Court or a Regional Tribunal and where the Court of Appeal is satisfied that the case involves a substantial question of law or is in the public interest.
 
-- Notwithstanding clause (1) of this article, the Supreme Court may entertain application for special leave to appeal to the Supreme Court in any cause or matter, civil or criminal, and may grant leave accordingly.
-
+(2) Notwithstanding clause (1) of this article, the Supreme Court may entertain application for special leave to appeal to the Supreme Court in any cause or matter, civil or criminal, and may grant leave accordingly.
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
-
-#### 132.
-
-#### 133.
-
-#### 134.
-
-#### 135.
-
 (3) The Supreme Court shall have appellate jurisdiction, to the exclusion of the Court of Appeal, to determine matters relating to the conviction or otherwise of a person for high treason or treason by the High Court.
 
 (4) An appeal from a decision of the Judicial Committee of the National House of Chiefs shall lie to the Supreme Court with the leave of that Judicial Committee or the Supreme Court.
 
+#### 132.
+
 The Supreme Court shall have supervisory jurisdiction over all courts and over any adjudicating authority and may, in the exercise of that supervisory jurisdiction, issue orders and directions for the purpose of enforcing or securing the enforcement of its supervisory power.
+
+#### 133.
 
 (1) The Supreme Court may review any decision made or given by it on such grounds and subject to such conditions as may be prescribed by rules of court.
 
 (2) The Supreme Court, when reviewing its decisions under this article, shall be constituted by not less than seven Justices of the Supreme Court.
 
+#### 134.
+
 A single Justice of the Supreme Court may exercise power vested in the Supreme Court not involving the decision of the cause or matter before the Supreme Court, except that -
 
-(a) in criminal matters, where that Justice refuses or grants an application in the exercise of any such power, a person affected by it is entitled to have the application determined by the Supreme Court constituted by three Justices of the Supreme Court and
+(a) in criminal matters, where that Justice refuses or grants an application in the exercise of any such power, a person affected by it is entitled to have the application determined by the Supreme Court constituted by three Justices of the Supreme Court; and
 
 (b) in civil matters, any order, direction or decision made or given under this article may be varied, discharged or reversed by the Supreme Court constituted by three Justices of the Supreme Court.
 
-(1) The Supreme Court shall have exclusive jurisdiction to determine whether an official document shall not be produced in court because its production or the disclosure of its contents will be prejudicial to the security of the State or will be injurious to the public interest.
+#### 135.
 
+(1) The Supreme Court shall have exclusive jurisdiction to determine whether an official document shall not be produced in court because its production or the disclosure of its contents will be prejudicial to the security of the State or will be injurious to the public interest.
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
-
-#### 136.
-
-#### 137.
-
 (2) Where any issue referred to in clause (1) of this article arises as to the production or otherwise of an official document in any proceedings before any court, other than the Supreme Court, the proceedings in that other court shall be suspended while the Supreme Court examines the document and determines whether the document should be produced or not; and the Supreme Court shall make the appropriate order.
 
 (3) The proceedings of the Supreme Court as to whether an official document may be produced shall be held in camera.
+
+### The Court of Appeal
+
+#### 136.
 
 (1) The Court of Appeal shall consist of -
 
@@ -2471,7 +2436,7 @@ A single Justice of the Supreme Court may exercise power vested in the Supreme C
 
 (c) such other Justices of the Superior Court of Judicature as the Chief Justice may, for the determination of a particular cause or matter by writing signed by him, request to sit in the Court of Appeal for any specified period.
 
-(2) The Court of Appeal shall be duly constituted by any three of the Justices referred to in clause (1) of this article and when so constituted, the most senior of the justices shall preside.
+(2) The Court of Appeal shall be duly constituted by any three of the Justices referred to in clause (1) of this article and when so constituted, the most senior of the Justices shall preside.
 
 (3) A person shall not be qualified for appointment as a Justice of the Court of Appeal unless he is of high moral character and proven integrity and is of not less than twelve years' standing as a lawyer.
 
@@ -2479,147 +2444,143 @@ A single Justice of the Supreme Court may exercise power vested in the Supreme C
 
 (5) Subject to clause (3) of article 129 of this Constitution, the Court of Appeal shall be bound by its own previous decisions; and all courts lower than the Court of Appeal shall follow the decisions of the Court of Appeal on questions of law.
 
-(1) The Court of Appeal shall have jurisdiction throughout Ghana to hear and determine, subject to the provisions of this Constitution, appeals from a judgement, decree or order of the High Court and Regional Tribunals
+#### 137.
 
+(1) The Court of Appeal shall have jurisdiction throughout Ghana to hear and determine, subject to the provisions of this Constitution, appeals from a judgement, decree or order of the High Court and Regional Tribunals
 [[END OF PAGE 88]]
 
 [[START OF PAGE 89]]
-
-#### 138.
-
-#### 139.
-
 and such other appellate jurisdiction as may be conferred on it by this Constitution or any other law.
 
 (2) Except as otherwise provided in this Constitution, an appeal shall lie as of right from a judgement, decree or order of the High Court and a Regional Tribunal to the Court of Appeal.
 
-- For the purposes of hearing and determining an appeal within its jurisdiction and the amendment, execution or the enforcement of a judgment or order made on any appeal, and, for the purposes of any other authority expressly or by necessary implication given to the Court of Appeal by this Constitution or any other law, the Court of Appeal shall have all the powers, authority and jurisdiction vested in the court from which the appeal is brought.
+(3) For the purposes of hearing and determining an appeal within its jurisdiction and the amendment, execution or the enforcement of a judgment or order made on any appeal, and, for the purposes of any other authority expressly or by necessary implication given to the Court of Appeal by this Constitution or any other law, the Court of Appeal shall have all the powers, authority and jurisdiction vested in the court from which the appeal is brought.
+
+#### 138.
 
 A single Justice of the Court of Appeal may exercise a power vested in the Court of Appeal not involving the decision of a cause or matter before the Court of Appeal, except that -
 
-(a) in criminal matters, where that Justice refuses or grants an application in the exercise of any such power conferred by this article, may be varied, discharged or reversed by the Court of Appeal as duly constituted.
+(a) in criminal matters, where that Justice refuses or grants an application in the exercise of any such power, a person affected by it is entitled to have the application determined by the Court of Appeal as duly constituted; and
+
+(b) in civil matters, any order, direction or decision made or given in the exercise of the powers conferred by this article may be varied, discharged or reversed by the Court of Appeal as duly constituted.
 
 ### The High Court
 
-- The High Court shall consist of -
+#### 139.
 
-(a) the Chief Justice
+(1) The High Court shall consist of -
+
+(a) the Chief Justice;
 
 (b) not less than twenty Justices of the High Court; and
 
 (c) such other Justice of the Superior Court of Judicature as the Chief Justice may, by writing signed by him, request to sit as High Court Justice for any period.
 
-- The High Court shall be constituted -
+(2) The High Court shall be constituted -
 
 (a) by a single Justice of the Court; or
 
 (b) by a single Justice of the Court and jury; or
-
 [[END OF PAGE 89]]
 
 [[START OF PAGE 90]]
-
-#### 140.
-
-#### 141.
-
 (c) by a single Justice of the Court with assessors; or
 
 (d) by three Justices of the Court for the trial of the offence of high treason or treason as required by article 19 of this Constitution.
 
-- There shall be in the High Court such divisions consisting of such number of Justice respectively as the Chief Justice may determine.
+(3) There shall be in the High Court such divisions consisting of such number of Justices respectively as the Chief Justice may determine.
 
-- A person shall not be qualified for appointment as a Justice of the High Court unless he is a person of high moral character and proven integrity and is of at least ten years' standing as a lawyer.
+(4) A person shall not be qualified for appointment as a Justice of the High Court unless he is a person of high moral character and proven integrity and is of at least ten years' standing as a lawyer.
 
-- The High Court shall, subject to the provisions of this Constitution, have jurisdiction in all matters and in particular, in civil and criminal matters and such original, appellate and other jurisdiction as may be conferred on it by this Constitution or any other law.
+#### 140.
 
-- The High Court shall have jurisdiction to enforce the Fundamental Human Rights and Freedoms guaranteed by this Constitution.
+(1) The High Court shall, subject to the provisions of this Constitution, have jurisdiction in all matters and in particular, in civil and criminal matters and such original, appellate and other jurisdiction as may be conferred on it by this Constitution or any other law.
 
-- The High Court shall have no power, in a trial for the offence of high treason or treason, to convict any person for an offence other than treason or treason.
+(2) The High Court shall have jurisdiction to enforce the Fundamental Human Rights and Freedoms guaranteed by this Constitution.
 
-- A Justice of the High Court may, in accordance with rules of court, exercise in court or in chambers, all or any of the jurisdiction vested in the High Court by this Constitution or any other law.
+(3) The High Court shall have no power, in a trial for the offence of high treason or treason, to convict any person for an offence other than high treason or treason.
 
-- For the purposes of hearing and determining an appeal within its jurisdiction and the amendment, execution or the enforcement of a judgment or order made on any appeal, and for the purposes of any other authority, expressly or by necessary implication given to the High Court by this Constitution or any other law, the High Court shall have all the powers, authority and jurisdiction vested in the Court from which the appeal is brought.
+(4) A Justice of the High Court may, in accordance with rules of court, exercise in court or in chambers, all or any of the jurisdiction vested in the High Court by this Constitution or any other law.
 
-The High Court shall have supervisory jurisdiction over all lower courts and any lower adjudicating authority; and may, in the exercise of that jurisdiction, issue orders and directions for the purpose of enforcing or securing the enforcement of its supervisory powers
+(5) For the purposes of hearing and determining an appeal within its jurisdiction and the amendment, execution or the enforcement of a judgment or order made on any appeal, and for the purposes of any other authority, expressly or by necessary implication given to the High Court by this Constitution or any other law, the High Court shall have all the powers, authority and jurisdiction vested in the Court from which the appeal is brought.
+
+#### 141.
+
+The High Court shall have supervisory jurisdiction over all lower courts and any lower adjudicating authority; and may, in the exercise of that jurisdiction, issue orders and directions for the purpose of enforcing or securing the enforcement of its supervisory powers.
 
 ### Regional Tribunals
-
 [[END OF PAGE 90]]
 
 [[START OF PAGE 91]]
-
 #### 142.
 
-#### 143.
+(1) There shall be established in each region of Ghana such Regional Tribunals as the Chief Justice may determine.
 
-- There shall be established in each region of Ghana such Regional Tribunals as the chief Justice may determine.
-
-- A Regional Tribunal shall consist of -
+(2) A Regional Tribunal shall consist of -
 
 (a) the Chief Justice;
 
 (b) one Chairman; and
 
-(c) such members who may or may not be lawyers as shall designated by the Chief Justice to sit as panel members of a Regional Tribunal and for such period as shall be specified in writing by the Chief Justice.
+(c) such members who may or may not be lawyers as shall be designated by the Chief Justice to sit as panel members of a Regional Tribunal and for such period as shall be specified in writing by the Chief Justice.
 
-- A Region Tribunal shall be duly constituted by a panel consisting of the Chairman and not less than two other panel members.
+(3) A Regional Tribunal shall be duly constituted by a panel consisting of the Chairman and not less than two other panel members.
 
-- A person shall not be appointed to be a Chairman of a Regional Tribunal unless he is qualified to be appointed a Justice of the High Court.
+(4) A person shall not be appointed to be a Chairman of a Regional Tribunal unless he is qualified to be appointed a Justice of the High Court.
 
-- A panel member of a Regional Tribunal shall be a person of high moral character and proven integrity.
+(5) A panel member of a Regional Tribunal shall be a person of high moral character and proven integrity.
 
-- A Regional Tribunal shall have jurisdiction to try such offences against the State and the public interest as Parliament may, by law, prescribe.
+#### 143.
 
-- A Regional Tribunal shall have such appellate jurisdiction relating to the matters described in clause (1) of this article, as may be prescribed by law.
+(1) A Regional Tribunal shall have jurisdiction to try such offences against the State and the public interest as Parliament may, by law, prescribe.
 
-- For the purpose of hearing and determining an appeal within its jurisdiction and the amendment, execution or enforcement of a judgment or order on any appeal, and for the purposes of any other authority expressly or by necessary implication given to it by this Constitution or any other law, a Regional Tribunal shall have all the powers, authority and jurisdiction vested in the tribunal from which the appeal is brought.
+(2) A Regional Tribunal shall have such appellate jurisdiction relating to the matters described in clause (1) of this article, as may be prescribed by law.
+
+(3) For the purpose of hearing and determining an appeal within its jurisdiction and the amendment, execution or enforcement of a judgment or order on any appeal, and for the purposes of any other authority expressly or by necessary implication given to it by this Constitution or any other law, a Regional Tribunal shall have all the powers, authority and jurisdiction vested in the tribunal from which the appeal is brought.
 
 ### Appointment, retirement and removal of Justices of Superior Courts and chairmen and other members of Regional Tribunals.
-
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
-
 #### 144.
 
-- The Chief Justice shall be appointed by the President acting in consultation with the Council of State and with the approval of Parliament.
+(1) The Chief Justice shall be appointed by the President acting in consultation with the Council of State and with the approval of Parliament.
 
-- The other Supreme Court Justices shall be appointed by the President acting on the advice of the Judicial Council, in consultation with the Council of State and with the approval of Parliament.
+(2) The other Supreme Court Justices shall be appointed by the President acting on the advice of the Judicial Council, in consultation with the Council of State and with the approval of Parliament.
 
-- Justices of the Court of Appeal and of the High Court and Chairmen of Regional Tribunals shall be appointed by the President acting on the advice of the judicial Council.
+(3) Justices of the Court of Appeal and of the High Court and Chairmen of Regional Tribunals shall be appointed by the President acting on the advice of the Judicial Council.
 
-- Panel members of Regional Tribunals other than the Chairmen shall be appointed by the Chief Justice in consultation with the Regional Coordinating Council for the region and on the advice of the Judicial Council.
+(4) Panel members of Regional Tribunals other than the Chairmen shall be appointed by the Chief Justice in consultation with the Regional Co-ordinating Council for the region and on the advice of the Judicial Council.
 
-- Justices of the Superior Courts and Chairmen of Regional Tribunals shall be appointed by warrant under the hand of the President and sealed by the Presidential seal.
+(5) Justices of the Superior Courts and Chairmen of Regional Tribunals shall be appointed by warrant under the hand of the President and sealed by the Presidential seal.
 
-- Where the office of Chief Justice is vacant, or where the Chief Justice is for any reason unable to perform the functions of his office -
+(6) Where the office of Chief Justice is vacant, or where the Chief Justice is for any reason unable to perform the functions of his office -
 
 (a) until a person has been appointed to, and has assumed the functions of, that office; or
 
-(b) until the person holding that office has resumed the functions of that office; as the case may be, those functions shall be performed by t he most senior of the Justices of the Supreme Court.
+(b) until the person holding that office has resumed the functions of that office;
 
-- The office of a Justice of the Superior Court shall not be abolished while there is a substantive holder in office.
+as the case may be, those functions shall be performed by the most senior of the Justices of the Supreme Court.
 
-- A Chairman of a Regional Tribunal shall enjoy the same salary, allowances, and gratuity and pension conditions as a Justice of the High Court.
+(7) The office of a Justice of the Superior Court shall not be abolished while there is a substantive holder in office.
 
-- Where the office of a Justice of the High Court or a Chairman of the Regional Tribunal is vacant or for any reason, a Justice of the High Court or a chairman of the Regional Tribunal is unable to perform the functions of his office, or if the Chief Justice advises the President that the state of business in the High Court or Regional Tribunal so requires, the President may, acting in accordance with the advice of the Judicial Council, appoint
+(8) A Chairman of a Regional Tribunal shall enjoy the same salary, allowances, and gratuity and pension conditions as a Justice of the High Court.
 
+(9) Where the office of a Justice of the High Court or a Chairman of the Regional Tribunal is vacant or for any reason, a Justice of the High Court or a Chairman of the Regional Tribunal is unable to perform the functions of his office, or if the Chief Justice advises the President that the state of business in the High Court or Regional Tribunal so requires, the President may, acting in accordance with the advice of the Judicial Council, appoint
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
-
-#### 145.
-
-a person who has held office as, or a person qualified for appointment as, a Justice of the High Court or a Chairman of the Regional Tribunal to act as a Justice of the High Court or a chairman of the Regional Tribunal.
+a person who has held office as, or a person qualified for appointment as, a Justice of the High Court or a Chairman of the Regional Tribunal to act as a Justice of the High Court or a Chairman of the Regional Tribunal.
 
 (10) A person appointed under clause (9) of this article to act as a Justice of the High Court or a Chairman of the Regional Tribunal shall continue to act for the period of his appointment or, where no period is specified, until his appointment is revoked by the President, acting in accordance with the advice of the Judicial Council.
 
 (11) Notwithstanding the expiration of the period of his appointment or the revocation of his appointment under clause (9) of this article, a person appointed under clause (9) of this article may thereafter continue to act for a period not exceeding six months, to enable him to deliver judgment or do any other thing in relation to proceedings that were commenced before him previous to the expiration or revocation.
 
-(1) A Justice of a Superior Court or a Chairman of a Regional Tribunal may retire at anytime after attaining the age of sixty years.
+#### 145.
 
-(2) A Justice of a superior court or a Chairman of a Regional Tribunal shall vacate his office -
+(1) A Justice of a Superior Court or a Chairman of a Regional Tribunal may retire at any time after attaining the age of sixty years.
+
+(2) A Justice of a Superior Court or a Chairman of a Regional Tribunal shall vacate his office -
 
 (a) in the case of a Justice of the Supreme Court or the Court of Appeal, on attaining the age of seventy years; or
 
@@ -2627,72 +2588,63 @@ a person who has held office as, or a person qualified for appointment as, a Jus
 
 (c) upon his removal from office in accordance with article 146 of this Constitution.
 
-(3) A Justice of the Superior court of Judicature or a Chairman of a Regional Tribunal may resign his office by writing signed by him and addressed to the President.
+(3) A Justice of the Superior Court of Judicature or a Chairman of a Regional Tribunal may resign his office by writing signed by him and addressed to the President.
 
 (4) Notwithstanding that he has attained the age at which he is required by this article to vacate his office, a person holding office as a Justice of a Superior Court or Chairman of a Regional Tribunal may continue in office for a period not exceeding six months after attaining that age, as may be necessary to enable him to deliver judgment or do any other thing in relation to proceedings that were commenced before him previous to his attaining that age.
-
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
-
 #### 146.
 
-- A Justice of the Superior Court or a Chairman of the Regional Tribunal shall not be removed from office except for stated misbehaviour or incompetence or on ground of inability to perform the functions of his office arising from infirmity of body or mind.
+(1) A Justice of the Superior Court or a Chairman of the Regional Tribunal shall not be removed from office except for stated misbehaviour or incompetence or on ground of inability to perform the functions of his office arising from infirmity of body or mind.
 
-- A Justice of the Superior Court of Judicature or a Chairman of the Regional Tribunal may only be removed in accordance with the procedure specified in this article.
+(2) A Justice of the Superior Court of Judicature or a Chairman of the Regional Tribunal may only be removed in accordance with the procedure specified in this article.
 
-- If the President receives a petition for the removal of Justice of a Superior Court other than the Chief Justice or for the removal of the Chairman of a Regional Tribunal, he shall refer the petition to the Chief Justice, who shall determine whether there is a prima facie case.
+(3) If the President receives a petition for the removal of a Justice of a Superior Court other than the Chief Justice or for the removal of the Chairman of a Regional Tribunal, he shall refer the petition to the Chief Justice, who shall determine whether there is a prima facie case.
 
-- Where the Chief Justice decides that there is a prima facie case, he shall set up a committee consisting of three Justices of the Superior Courts or Chairmen of the Regional Tribunals or both, appointed by the Judicial council and two other persons who are not members of the Council of State, nor members of Parliament, nor lawyers, and who shall be appointed by the Chief Justice on the advice of the Council of State.
+(4) Where the Chief Justice decides that there is a prima facie case, he shall set up a committee consisting of three Justices of the Superior Courts or Chairmen of the Regional Tribunals or both, appointed by the Judicial Council and two other persons who are not members of the Council of State, nor members of Parliament, nor lawyers, and who shall be appointed by the Chief Justice on the advice of the Council of State.
 
-- The committee appointed under clause (4) of this article shall investigate the complaint and shall make its recommendations to the Chief Justice who shall forward it to the President.
+(5) The committee appointed under clause (4) of this article shall investigate the complaint and shall make its recommendations to the Chief Justice who shall forward it to the President.
 
-- Where the petition is for the removal of the Chief Justice, the President shall, acting in consultation with the Council of State, appoint a committee consisting of two Justices of the Supreme Court, one of whom shall be appointed chairman by the President, and three other persons who are not members of the Council of State, nor members of Parliament, nor lawyers.
+(6) Where the petition is for the removal of the Chief Justice, the President shall, acting in consultation with the Council of State, appoint a committee consisting of two Justices of the Supreme Court, one of whom shall be appointed chairman by the President, and three other persons who are not members of the Council of State, nor members of Parliament, nor lawyers.
 
-- The committee appointed under clause (6) of this article shall inquire into the petition and recommend to the President whether the Chief Justice ought to be removed from office.
+(7) The committee appointed under clause (6) of this article shall inquire into the petition and recommend to the President whether the Chief Justice ought to be removed from office.
 
-- All proceedings under this article shall be held in camera, and the Justice or Chairman against whom the petition is made is entitled to be heard in his defence by himself or by a lawyer or other expert of his choice.
+(8) All proceedings under this article shall be held in camera, and the Justice or Chairman against whom the petition is made is entitled to be heard in his defence by himself or by a lawyer or other expert of his choice.
 
-- The President shall, in each case, act in accordance with the recommendations of the committee.
-
+(9) The President shall, in each case, act in accordance with the recommendations of the committee.
 [[END OF PAGE 94]]
 
 [[START OF PAGE 95]]
-
-#### 147.
-
-- Where a petition has been referred to a committee under this article, the President may -
+(10) Where a petition has been referred to a committee under this article, the President may -
 
 (a) in the case of the Chief Justice, acting in accordance with the advice of the Council of State, by warrant signed by him, suspend the Chief Justice;
 
-(b) in the case of any other Justice of a Superior court or of a Chairman of a Regional Tribunal, acting in accordance with the advice of the Judicial Council, suspend that Justice or that Chairman of a Regional Tribunal.
+(b) in the case of any other Justice of a Superior Court or of a Chairman of a Regional Tribunal, acting in accordance with the advice of the Judicial Council, suspend that Justice or that Chairman of a Regional Tribunal.
 
-- The President may, at any time, revoke a suspension under this article.
+(11) The President may, at any time, revoke a suspension under this article.
 
-- A panel member of a Regional Tribunal, other than the Chairman, shall have such allowances and benefits as may be determined by the President acting on the advice of the Judicial Council.
+#### 147.
 
-- A panel member of a Regional Tribunal other than the Chairman may be removed by the Chief Justice acting on the advice of the Judicial Council and of the Regional Co-ordinating Council on grounds of stated misbehaviour or incompetence or on ground of inability to perform his functions arising from infirmity of body or mind.
+(1) A panel member of a Regional Tribunal, other than the Chairman, shall have such allowances and benefits as may be determined by the President acting on the advice of the Judicial Council.
 
-- For the purposes of clause (2) of this article the panel member concerned is entitled to be heard in his defence by himself or by a lawyer or other expert of his choice.
+(2) A panel member of a Regional Tribunal other than the Chairman may be removed by the Chief Justice acting on the advice of the Judicial Council and of the Regional Co-ordinating Council on grounds of stated misbehaviour or incompetence or on ground of inability to perform his functions arising from infirmity of body or mind.
+
+(3) For the purposes of clause (2) of this article the panel member concerned is entitled to be heard in his defence by himself or by a lawyer or other expert of his choice.
 
 ### Appointment, retirement and removal of Judicial Officers
 
 #### 148.
-Subject to the provisions of this article, the power to appoint persons to hold or to act in a judicial office shall be vested, subject to the approval of the President in the Chief Justice acting on the advice of the Judicial Council.
+
+Subject to the provisions of this article, the power to appoint persons to hold or to act in a judicial office shall be vested, subject to the approval of the President, in the Chief Justice acting on the advice of the Judicial Council.
 
 #### 149.
 
-Judicial officers shall received such salaries, allowances, facilities and privileges and other benefits as the President may, acting on the advice of the Judicial Council determine.
-
+Judicial officers shall receive such salaries, allowances, facilities and privileges and other benefits as the President may, acting on the advice of the Judicial Council, determine.
 [[END OF PAGE 95]]
 
 [[START OF PAGE 96]]
-
 #### 150.
-
-#### 151.
-
-#### 152.
 
 (1) A judicial officer -
 
@@ -2702,9 +2654,13 @@ Judicial officers shall received such salaries, allowances, facilities and privi
 
 (2) A judicial officer may resign his office by writing addressed to the Chief Justice.
 
+#### 151.
+
 (1) A person holding a judicial office may be removed from office by the Chief Justice on grounds only of stated misbehaviour, incompetence or inability to perform his functions arising from infirmity of body or mind and upon a resolution supported by the votes of not less than two-thirds of all the members of the Judicial Council.
 
 (2) For the purpose of clause (1) of this article, the judicial officer shall be entitled to be heard in his defence by himself or by a lawyer or other expert of his choice.
+
+#### 152.
 
 (1) A panel member of a lower court or tribunal other than the person presiding -
 
@@ -2715,16 +2671,12 @@ Judicial officers shall received such salaries, allowances, facilities and privi
 (c) may be removed by the Chief Justice on the advice of the Judicial Council on ground of stated misbehaviour, incompetence or inability to perform his functions arising from infirmity of body or mind.
 
 (2) For the purpose of paragraph (c) of this article the panel member concerned is entitled to be heard in his defence by himself or by a lawyer or other expert of his choice.
-
 [[END OF PAGE 96]]
 
 [[START OF PAGE 97]]
-
 ### The Judicial Council
 
 #### 153.
-
-#### 154.
 
 There shall be a Judicial Council which shall comprise the following persons -
 
@@ -2732,13 +2684,13 @@ There shall be a Judicial Council which shall comprise the following persons -
 
 (b) the Attorney-General;
 
-(c) a Justice of the Supreme Court nominated by the Justices of the Supreme court;
+(c) a Justice of the Supreme Court nominated by the Justices of the Supreme Court;
 
 (d) a Justice of the Court of Appeal nominated by the Justices of the Court of Appeal;
 
-(e) a Justice of the High court nominated by the Justices of the High Court;
+(e) a Justice of the High Court nominated by the Justices of the High Court;
 
-(f) two representatives of the Ghana Bar Association one of whom shall be a person of not less than twelve years' standing as a lawyer.
+(f) two representatives of the Ghana Bar Association one of whom shall be a person of not less than twelve years' standing as a lawyer;
 
 (g) a representative of the Chairmen of Regional Tribunals nominated by the Chairmen;
 
@@ -2754,16 +2706,14 @@ There shall be a Judicial Council which shall comprise the following persons -
 
 (m) a chief nominated by the National House of Chiefs; and
 
-(n) four other persons who are not lawyers appointed by the President
+(n) four other persons who are not lawyers appointed by the President.
 
-- The functions of the Judicial Council are -
+#### 154.
 
+(1) The functions of the Judicial Council are -
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
-
-#### 155.
-
 (a) to propose for the consideration of Government, judicial reforms to improve the level of administration of justice and efficiency in the Judiciary;
 
 (b) to be a forum for consideration and discussion of matters relating to the discharge of the functions of the Judiciary and thereby assist the Chief Justice in the performance of his duties with a view to ensuring efficiency and effective realization of justice; and
@@ -2774,7 +2724,9 @@ There shall be a Judicial Council which shall comprise the following persons -
 
 ### Miscellaneous
 
-- Notwithstanding the provisions of this Chapter, a Justice of the Superior Court of Judicature who has attained the age of sixty years or above, shall, on retiring, in addition to any gratuity payable to him, be paid a pension equal to the salary payable for the time being to a Justice of the Superior Court from which he retired where -
+#### 155.
+
+(1) Notwithstanding the provisions of this Chapter, a Justice of the Superior Court of Judicature who has attained the age of sixty years or above, shall, on retiring, in addition to any gratuity payable to him, be paid a pension equal to the salary payable for the time being to a Justice of the Superior Court from which he retired where -
 
 (a) he has served for ten continuous years or more as a Justice of the Superior Court of Judicature; or
 
@@ -2782,59 +2734,55 @@ There shall be a Judicial Council which shall comprise the following persons -
 
 (2) For the avoidance of doubt, the pension paid to a person under clause (1) of this article shall be subject to the same changes and increases as the salary of a serving Justice of the Superior Court of Judicature.
 
-- A Justice of the Superior Court of Judicature may, in lieu of retiring under clause (1) of this article, retire if he has attained the age prescribed as retiring age for public officers generally, and shall be paid retiring awards based on his total public service, including service as a Justice of the Superior Court of Judicature, but otherwise at the same rate as is, for the time being applicable to the public service generally.
-
+(3) A Justice of the Superior Court of Judicature may, in lieu of retiring under clause (1) of this article, retire if he has attained the age prescribed as retiring age for public officers generally, and shall be paid retiring awards based on his total public service, including service as a Justice of the Superior Court of Judicature, but otherwise at the same rate as is, for the time being applicable to the public service generally.
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
-
 #### 156.
 
-#### 157.
-
-(1) A Justice of a Superior Court, the Chairman of a Regional Tribunal, and also a person presiding over a lower court or tribunal, and any other judicial officer or person whose functions involve the exercise by him of judicial power shall, before assuming the exercise of the duties of his office, take and subscribe the oath of allegiance and the Judicial Oath set out in the Second Scheduled to this Constitution.
+(1) A Justice of a Superior Court, the Chairman of a Regional Tribunal, and also a person presiding over a lower court or tribunal, and any other judicial officer or person whose functions involve the exercise by him of judicial power shall, before assuming the exercise of the duties of his office, take and subscribe the oath of allegiance and the Judicial Oath set out in the Second Schedule to this Constitution.
 
 (2) The President may, on the advice of the Chief Justice, direct that any other person connected with the exercise of judicial power, shall take and subscribe the Judicial Oath.
 
-- The oath of allegiance and the judicial oath required by this article shall be taken and subscribed
+(3) The oath of allegiance and the judicial oath required by this article shall be taken and subscribed -
 
-(a) in the case of the Chief Justice or other justice of a Superior Court, and a Chairman of a Regional Tribunal, before the President; and
+(a) in the case of the Chief Justice or other Justice of a Superior Court, and a Chairman of a Regional Tribunal, before the President; and
 
 (b) in the case of any other person, before the Chief Justice or before any other Justice of a Superior Court or Chairman of a Regional Tribunal as the Chief Justice may direct.
 
-- There shall be a Rules of Court Committee which shall consist of -
+#### 157.
+
+(1) There shall be a Rules of Court Committee which shall consist of -
 
 (a) the Chief Justice, who shall be Chairman;
 
-(b) six members of the Judicial Council other than the chief Justice nominated by the Judicial Council;
+(b) six members of the Judicial Council other than the Chief Justice nominated by the Judicial Council;
 
 (c) two lawyers, one of not less than ten and the other of not more than five years' standing, both of whom shall be nominated by the Ghana Bar Association.
 
-- The Rules of Court Committee shall, by constitutional instrument, make rules and regulations for regulating the practice and procedure of all courts in Ghana.
+(2) The Rules of Court Committee shall, by constitutional instrument, make rules and regulations for regulating the practice and procedure of all courts in Ghana.
 
-- Without prejudice to clause (2) of this article, no person sitting in a superior Court for the determination of any cause or matter shall, having heard the arguments of the parties to that cause or matter and before judgment is delivered, withdraw as a member of the court or tribunal, or as a member of panel determining that cause or matter, nor shall that person
-
+(3) Without prejudice to clause (2) of this article, no person sitting in a Superior Court for the determination of any cause or matter shall, having heard the arguments of the parties to that cause or matter and before judgment is delivered, withdraw as a member of the court or tribunal, or as a member of a panel determining that cause or matter, nor shall that person
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
+become functus officio in respect of that cause or matter, until judgment is delivered.
 
 #### 158.
 
+(1) The appointment of officers and employees of the Courts other than those expressly provided for by other provisions of this Constitution, shall be made by the Chief Justice or other Justice or other officer of the Court as the Chief Justice may direct in writing.
+
+(2) The Judicial Council shall, acting in consultation with the Public Services Commission and with the prior approval of the President, by constitutional instrument, make regulations prescribing the terms and conditions of service of the persons to whom clause (1) of this article applies.
+
 #### 159.
-
-#### 160.
-
-#### 162.
-
-become functus officio in respect of that cause or matter, until judgment is delivered.
-
-- The appointment of officers and employees of the Courts other than those expressly provided for by other provisions of this Constitution, shall be made by the Chief Justice or other Justice or other officer of the Court as the Chief Justice may direct in writing.
-
-- The Judicial Council shall, acting in consultation with the Public Services Commission and with the prior approval of the President, by constitutional instrument, make regulations prescribing the terms and conditions of service of the persons to whom clause (1) of this article applies.
 
 The Chief Justice may, acting in accordance with the advice of the Judicial Council and with the approval of the President, by constitutional instrument, make regulations for the efficient performance of the functions of the Judicial Service and the Judicial Council under this Chapter.
 
+#### 160.
+
 The fees, fines and other moneys paid to the Courts shall form part of the Consolidated Fund.
+
+#### 161.
 
 In this Chapter, unless the context otherwise requires -
 
@@ -2860,43 +2808,43 @@ approval of the President; "judicial officer" means the holder of a judicial off
 
 [[START OF PAGE 102]]
 
-#### 162.
-
-#### 163.
-
-#### 164.
-
-#### 165.
-
 ## CHAPTER TWELVE
 
 ### FREEDOM AND INDEPENDENCE OF THE MEDIA
 
-- Freedom and independence of the media are hereby guaranteed.
+#### 162.
 
-- Subject to this Constitution and any other law not inconsistent with this Constitution, there shall be no censorship in Ghana.
+(1) Freedom and independence of the media are hereby guaranteed.
 
-- There shall be no impediments to the establishment of private press or media; and in particular, there shall be no law requiring any person to obtain a licence as a prerequisite to the establishment or operation of a newspaper, journal or other media for mass communication or information.
+(2) Subject to this Constitution and any other law not inconsistent with this Constitution, there shall be no censorship in Ghana.
 
-- Editors and publishers of newspapers and other institutions of the mass media shall not be subject to control or interference by Government, not shall they be penalized or harassed for their editorial opinions and views, or the content of their publications.
+(3) There shall be no impediments to the establishment of private press or media; and in particular, there shall be no law requiring any person to obtain a licence as a prerequisite to the establishment or operation of a newspaper, journal or other media for mass communication or information.
 
-- All agencies of the mass media shall, at all times, be free to uphold the principles, provisions and objectives of this Constitution, and shall uphold the responsibility and accountability of the Government to the people of Ghana.
+(4) Editors and publishers of newspapers and other institutions of the mass media shall not be subject to control or interference by Government, nor shall they be penalized or harassed for their editorial opinions and views, or the content of their publications.
 
-- Any medium for the dissemination of information to the public which publishes a statement about or against any person shall be obliged to publish a rejoinder, if any, from the person in respect of whom the publication was made.
+(5) All agencies of the mass media shall, at all times, be free to uphold the principles, provisions and objectives of this Constitution, and shall uphold the responsibility and accountability of the Government to the people of Ghana.
+
+(6) Any medium for the dissemination of information to the public which publishes a statement about or against any person shall be obliged to publish a rejoinder, if any, from the person in respect of whom the publication was made.
+
+#### 163.
 
 All state-owned media shall afford fair opportunities and facilities for the presentation of divergent views and dissenting opinions.
 
+#### 164.
+
 The provisions of articles 162 and 163 of this Constitution are subject to laws that are reasonably required in the interest of national security, public order, public morality and for the purpose of protecting the reputations, rights and freedoms of other persons.
+
+#### 165.
 
 [[END OF PAGE 102]]
 
 [[START OF PAGE 103]]
 
-#### 166.
-
 For the avoidance of doubt, the provisions of this Chapter shall not be taken to limit the enjoyment of any of the fundamental human rights and freedoms guaranteed under Chapter 5 of this Constitution.
 
-- There shall be established by Act of Parliament within six months after Parliament first meets after the coming into force of this Constitution, a National Media Commission which shall consist of fifteen members as follows -
+#### 166.
+
+(1) There shall be established by Act of Parliament within six months after Parliament first meets after the coming into force of this Constitution, a National Media Commission which shall consist of fifteen members as follows -
 
 (a) one representative each nominated by
 
@@ -2906,7 +2854,7 @@ For the avoidance of doubt, the provisions of this Chapter shall not be taken to
 
 (iii) the Ghana Association of Writers and the Ghana Library Association;
 
-(iv) the Christian group (the National Catholic Secretariat, the Christian Council, and the Ghana Pentecostal Council)
+(iv) the Christian group (the National Catholic Secretariat, the Christian Council, and the Ghana Pentecostal Council);
 
 (v) the Federation of Muslim Councils and Ahmadiyya Mission;
 
@@ -2922,21 +2870,13 @@ For the avoidance of doubt, the provisions of this Chapter shall not be taken to
 
 (d) three persons nominated by Parliament.
 
-- The Commission shall elect its own Chairman.
+(2) The Commission shall elect its own Chairman.
 
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
 
 #### 167.
-
-#### 168.
-
-#### 169.
-
-#### 170.
-
-#### 171.
 
 The functions of the National Media Commission are-
 
@@ -2950,11 +2890,19 @@ The functions of the National Media Commission are-
 
 (e) to perform such other functions as may be prescribed by law not inconsistent with this Constitution.
 
-The Commission shall appoint the chairmen and other members of the governing bodies of public corporations managing the state -owned media in consultation with the President.
+#### 168.
+
+The Commission shall appoint the chairmen and other members of the governing bodies of public corporations managing the state-owned media in consultation with the President.
+
+#### 169.
 
 Editors of the state-owned media shall be appointed by the governing bodies of the respective corporations in consultation with the Public Services Commission.
 
+#### 170.
+
 The Commission shall appoint the officers and other employees of the Commission in consultation with the Public Services Commission.
+
+#### 171.
 
 The administrative expenses of the National Media Commission, including salaries, allowances and pensions payable to or in respect of
 
@@ -2962,13 +2910,13 @@ The administrative expenses of the National Media Commission, including salaries
 
 [[START OF PAGE 105]]
 
-#### 172.
-
-#### 173.
-
 persons serving with the Commission shall be charged on the Consolidated Fund.
 
+#### 172.
+
 Except as otherwise provided by this Constitution or by any other law not inconsistent with this Constitution, the National Media Commission shall not be subject to the direction or control of any person or authority in the performance of its functions.
+
+#### 173.
 
 Subject to article 167 of this Constitution, the National Media Commission shall not exercise any control or direction over the professional functions of a person engaged in the production of newspapers or other means of communication.
 
@@ -2976,33 +2924,33 @@ Subject to article 167 of this Constitution, the National Media Commission shall
 
 [[START OF PAGE 106]]
 
-#### 174.
-
-#### 175.
-
-#### 176.
-
 ## CHAPTER THIRTEEN
 
 ### FINANCE
 
 ### General
 
-- No taxation shall be imposed otherwise than by or under the authority of an Act of Parliament.
+#### 174.
 
-- Where an Act, enacted in accordance with clause (1) of this article, confers power on any person or authority to waive or vary a tax imposed by that Act, the exercise of the power of waiver or variation, in favour of any person or authority, shall be subject to the prior approval of Parliament by resolution.
+(1) No taxation shall be imposed otherwise than by or under the authority of an Act of Parliament.
 
-- Parliament may be resolution, supported by the votes of not less than two-thirds of all members of Parliament, exempt the exercise of any power from the provisions of clause (2) of this article.
+(2) Where an Act, enacted in accordance with clause (1) of this article, confers power on any person or authority to waive or vary a tax imposed by that Act, the exercise of the power of waiver or variation, in favour of any person or authority, shall be subject to the prior approval of Parliament by resolution.
+
+(3) Parliament may by resolution, supported by the votes of not less than two-thirds of all members of Parliament, exempt the exercise of any power from the provisions of clause (2) of this article.
+
+#### 175.
 
 The public funds of Ghana shall be the Consolidated Fund, the Contingency Fund and such other public funds as may be established by or under the authority of an Act of Parliament.
 
-- There shall be paid into the Consolidated Fund, subject to the provisions of this article -
+#### 176.
+
+(1) There shall be paid into the Consolidated Fund, subject to the provisions of this article -
 
 (a) all revenues or other moneys raised or received for the purposes of, or on behalf of, the Government; and
 
-(b) any other moneys raised or received in trust for, or on behalf of, the Government,
+(b) any other moneys raised or received in trust for, or on behalf of, the Government.
 
-- The revenues or other moneys referred to in clause (1) of this article shall not include revenues or other moneys -
+(2) The revenues or other moneys referred to in clause (1) of this article shall not include revenues or other moneys -
 
 (a) that are payable by or under an Act of Parliament into some other fund established for specific purposes; or
 
@@ -3010,19 +2958,17 @@ The public funds of Ghana shall be the Consolidated Fund, the Contingency Fund a
 
 [[START OF PAGE 107]]
 
+(b) that may, by or under an Act of Parliament, be retained by the department of government that received them for the purposes of defraying the expenses of that department.
+
 #### 177.
+
+(1) There shall be paid into the Contingency Fund moneys voted for the purpose by Parliament; and advances may be made from that Fund which are authorised by the committee responsible for financial measures in Parliament whenever that committee is satisfied that there has arisen an urgent or unforeseen need for expenditure for which no other provision exists to meet the need.
+
+(2) Where an advance is made from the Contingency Fund a supplementary estimate shall be presented as soon as possible to Parliament for the purpose of replacing the amount so advanced.
 
 #### 178.
 
-#### 179.
-
-(b) that may, be or under an Act of Parliament, be retained by the department of government that received them for the purposes of defraying the expenses of that department.
-
-- There shall be paid into the Contingency Fund moneys voted for the purpose by Parliament; and advances may be made from that Fund which are authorised by the committee responsible for financial measures in Parliament whenever that committee is satisfied that there has arisen an urgent or unforeseen need for expenditure for which no other provision exists to meet the need.
-
-- Where an advance is made from the Contingency Fund a supplementary estimate shall be presented as soon as possible to Parliament for the purpose of replacing the amount so advanced.
-
-- No moneys shall be withdrawn from the Consolidated Fund except -
+(1) No moneys shall be withdrawn from the Consolidated Fund except -
 
 (a) to meet expenditure that is charged on that Fund by this Constitution or by an Act of Parliament; or
 
@@ -3032,11 +2978,13 @@ The public funds of Ghana shall be the Consolidated Fund, the Contingency Fund a
 
 (ii) by a supplementary estimate approved by resolution of Parliament passed for the purpose; or
 
-(iii) by an Act of Parliament enacted under article 179 of this Constituted; or
+(iii) by an Act of Parliament enacted under article 179 of this Constitution; or
 
 (iv) by rules or regulations made under an Act of Parliament in respect of trust moneys paid into the Consolidated Fund.
 
-- No moneys shall be withdrawn from any public fund, other than the Consolidated Fund and the Contingency Fund, unless the issue of those moneys has been authorised by or under the authority of an Act of Parliament.
+(2) No moneys shall be withdrawn from any public fund, other than the Consolidated Fund and the Contingency Fund, unless the issue of those moneys has been authorised by or under the authority of an Act of Parliament.
+
+#### 179.
 
 [[END OF PAGE 107]]
 
@@ -3050,13 +2998,13 @@ The public funds of Ghana shall be the Consolidated Fund, the Contingency Fund a
 
 (b) shall, in respect of payments charged on the Consolidated Fund, be laid before Parliament for the information of members of Parliament.
 
-(3) The Chief Justice shall, in consultation with the Judicial Council, cause to be submitted to the President at least two months before the end of each financial year, and thereafter as and when the need arises.
+(3) The Chief Justice shall, in consultation with the Judicial Council, cause to be submitted to the President at least two months before the end of each financial year, and thereafter as and when the need arises:
 
 (a) the estimates of administrative expenses of the Judiciary charged on the Consolidated Fund under article 127 of this Constitution; and
 
 (b) estimates of development expenditure of the Judiciary.
 
-(4) The President shall, at the time specified in clause (1) of this article, or thereafter, as and when submitted to him under clause (3) of this article, cause the estimated referred to in clause (3) of this article to be laid before Parliament.
+(4) The President shall, at the time specified in clause (1) of this article, or thereafter, as and when submitted to him under clause (3) of this article, cause the estimates referred to in clause (3) of this article to be laid before Parliament.
 
 (5) The estimates shall be laid before Parliament under clause (4) by the President without revision but with any recommendations that the Government may have on them.
 
@@ -3068,21 +3016,21 @@ The public funds of Ghana shall be the Consolidated Fund, the Contingency Fund a
 
 [[START OF PAGE 109]]
 
-#### 180.
-
-#### 181.
-
 (8) Where, in respect of a financial year, it is found that the amount of moneys appropriated by the Appropriation Act for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no sum of moneys has been appropriated by that Act, a supplementary estimate showing the sum of money required, shall be laid before Parliament for its approval.
 
-(9) Where, in the case of a financial year, a supplementary estimate has been approved by Parliament in accordance with clause (8) of this article, a supplementary Appropriation Bill shall be introduced into Parliament in the financial year next following the financial year to which the estimates relates, providing for the appropriation of the sum so approved for the purposes specified in that estimate.
+(9) Where, in the case of a financial year, a supplementary estimate has been approved by Parliament in accordance with clause (8) of this article, a supplementary Appropriation Bill shall be introduced into Parliament in the financial year next following the financial year to which the estimate relates, providing for the appropriation of the sum so approved for the purposes specified in that estimate.
 
 (10) Notwithstanding the provisions of the preceding clauses of this article, the President may cause to be prepared and laid before Parliament, estimates of revenue and expenditure of Ghana for periods of over one year.
 
-(11) Whenever in the estimates prepared in accordance with clauses (1) and (8) of this article provision is made for an item or vote other than for the Contingency Fund, not relating to a specific item of expenditure, any moneys voted by Parliament in respect of that item or vote shall be under the control and supervision of a Committee which shall consist of the President, the Speaker and the Chairman of the Council of the Council of State.
+(11) Whenever in the estimates prepared in accordance with clauses (1) and (8) of this article provision is made for an item or vote other than for the Contingency Fund, not relating to a specific item of expenditure, any moneys voted by Parliament in respect of that item or vote shall be under the control and supervision of a Committee which shall consist of the President, the Speaker and the Chairman of the Council of State.
+
+#### 180.
 
 Where it appears to the President that the Appropriation Act in respect of any financial year will not come into operation by the beginning of that financial year, he may, with the prior approval of Parliament by a resolution, authorise the withdrawal of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the services of the Government in respect of the period expiring three months from the beginning of the financial year or on the coming into operation of the Act whichever is earlier.
 
-(1) Parliament may, be a resolution supported by the votes of a majority of all the members of Parliament, authorise the Government to enter into an agreement for the granting of a loan out of any public fund or public account.
+#### 181.
+
+(1) Parliament may, by a resolution supported by the votes of a majority of all the members of Parliament, authorise the Government to enter into an agreement for the granting of a loan out of any public fund or public account.
 
 [[END OF PAGE 109]]
 
@@ -3110,7 +3058,7 @@ Where it appears to the President that the Appropriation Act in respect of any f
 
 (a) the granting of loans, their repayment and servicing;
 
-(b) the payment into the Consolidated Fund or other public fund of moneys derived from loans raised on institutions outside Ghana.
+(b) the payment into the Consolidated Fund or other public fund of moneys derived from loans raised from institutions outside Ghana.
 
 [[END OF PAGE 110]]
 
@@ -3118,25 +3066,25 @@ Where it appears to the President that the Appropriation Act in respect of any f
 
 #### 182.
 
+(1) The public debt of Ghana shall be charged on the Consolidated Fund and other public funds of Ghana.
+
+(2) For the purposes of this article, the public debt shall include interest on that debt, sinking fund payments and redemption moneys in respect of that debt and the costs, charges and expenses incidental to the management of that debt.
+
 #### 183.
 
-- The public debt of Ghana shall be charged on the Consolidated Fund and other public funds of Ghana.
+(1) The Bank of Ghana shall be the Central Bank of Ghana and shall be the only authority to issue the currency of Ghana.
 
-- For the purposes of this article, the public debt shall include interest on that debt, sinking fund payments and redemption moneys in respect of that debt and the costs, charges and expenses incidental to the management of that debt.
-
-- The Bank of Ghana shall be the Central Bank of Ghana and shall be the only authority to issue the currency of Ghana.
-
-- The Bank of Ghana shall -
+(2) The Bank of Ghana shall -
 
 (a) promote and maintain the stability of the currency of Ghana and direct and regulate the currency system in the interest of the economic progress of Ghana;
 
 (b) be the sole custodian of State funds of Ghana both in and outside Ghana and may, by notice published in the Gazette, authorise any other person or authority to act as a custodian of any such fund as may be specified in the notice;
 
-(c) encourage and promote economic development and the efficient utilisation of the resources of Ghana through effective and efficient operation of a banking and credit system in Ghana; and
+(c) encourage and promote economic development and the efficient utilisation of the resources of Ghana through effective and efficient operation of a banking and credit system in Ghana.
 
-(d) The Governor of the Bank of Ghana shall, for the purposes of this article, disallow any transaction or transfer involving directly or indirectly, any foreign exchange whether in or outside Ghana, which is contrary to law.
+(3) The Governor of the Bank of Ghana shall, for the purposes of this article, disallow any transaction or transfer involving, directly or indirectly, any foreign exchange whether in or outside Ghana, which is contrary to law.
 
-- The following shall apply to the Governor of the Bank of Ghana -
+(4) The following shall apply to the Governor of the Bank of Ghana -
 
 (a) he shall be appointed by the President acting in consultation with the Council of State for periods of four years each;
 
@@ -3148,17 +3096,13 @@ Where it appears to the President that the Appropriation Act in respect of any f
 
 [[START OF PAGE 112]]
 
-#### 184.
-
-#### 185.
-
-#### 186.
-
 (d) he shall not be removed from office except on the same grounds and in the same manner as a Justice of the Superior Court of Judicature, other than the Chief Justice, may be removed.
 
-- The Committee of Parliament responsible for financial measures shall monitor the foreign exchange receipts and payments or transfers of the Bank of Ghana in and outside Ghana and shall report on them to Parliament once in every six months.
+#### 184.
 
-- The Bank of Ghana shall, not later than three months -
+(1) The Committee of Parliament responsible for financial measures shall monitor the foreign exchange receipts and payments or transfers of the Bank of Ghana in and outside Ghana and shall report on them to Parliament once in every six months.
+
+(2) The Bank of Ghana shall, not later than three months -
 
 (a) after the end of the first six months of its financial year; and
 
@@ -3166,25 +3110,27 @@ Where it appears to the President that the Appropriation Act in respect of any f
 
 submit to the Auditor-General for audit, a statement of its foreign exchange receipts and payments or transfers in and outside Ghana.
 
-- The Auditor-General shall, not later than three months after the submission of the statement referred to in clause (2) of this article, submit his report to Parliament on the statement.
+(3) The Auditor-General shall, not later than three months after the submission of the statement referred to in clause (2) of this article, submit his report to Parliament on the statement.
 
-- Parliament shall debate the report of the Auditor-General and appoint, where necessary, in the public interest, a committee to deal with any matters arising from the report.
+(4) Parliament shall debate the report of the Auditor-General and appoint, where necessary, in the public interest, a committee to deal with any matters arising from the report.
 
 ### Statistical Service
 
-- There shall be a Statistical Service which shall form part of the public services of Ghana.
+#### 185.
+
+(1) There shall be a Statistical Service which shall form part of the public services of Ghana.
 
 (2) The head of the Statistical Service shall be the Government Statistician.
 
 (3) The Government Statistician shall be appointed by the President in consultation with the Council of State.
 
-- There shall be a Statistical Service Board which shall consist of -
+#### 186.
+
+(1) There shall be a Statistical Service Board which shall consist of -
 
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
-
-#### 187.
 
 (a) a chairman and not more than five other members all of whom shall be appointed by the President having regard to their expert knowledge, in consultation with the Council of State; and
 
@@ -3192,25 +3138,27 @@ submit to the Auditor-General for audit, a statement of its foreign exchange rec
 
 (2) The Government Statistician, under the supervision of the Statistical Service Board, shall be responsible for the collection, compilation, analysis and publication of socio-economic data on Ghana and shall perform such other functions as may be prescribed by or under an Act of Parliament.
 
-(3) The Statistical Service Board may prescribe the manner in which data my be compiled and kept by any person or authority in Ghana.
+(3) The Statistical Service Board may prescribe the manner in which data may be compiled and kept by any person or authority in Ghana.
 
 ### The Auditor-General
+
+#### 187.
 
 (1) There shall be an Auditor-General of Ghana whose office shall be a public office.
 
 (2) The public accounts of Ghana and of all public offices, including the courts, the central and local government administrations, of the Universities and public institutions of like nature, of any public corporation or other body or organization established by an Act of Parliament shall be audited and reported on by the Auditor-General.
 
-(3) For the purpose of clause (2) of this article, the Auditor-General or any person authorised or appointed for the purpose by the Auditor-General shall have access to all books, records returns and other documents relating or relevant to those accounts.
+(3) For the purpose of clause (2) of this article, the Auditor-General or any person authorised or appointed for the purpose by the Auditor-General shall have access to all books, records, returns and other documents relating or relevant to those accounts.
 
 (4) The public accounts of Ghana and of all other persons or authorities referred to in clause (2) of this article shall be kept in such form as the Auditor-General shall approve.
 
-(5) The Auditor-General shall, within six months after the end of the immediately preceding financial year to which each of the accounts mentioned in clause (2) of this article relates, submit his report to parliament and shall, in that report, draw attention to any irregularities in the accounts audited and to any other matter which in his opinion ought to be brought to the notice of Parliament.
+(5) The Auditor-General shall, within six months after the end of the immediately preceding financial year to which each of the accounts mentioned in clause (2) of this article relates, submit his report to Parliament and shall, in that report, draw attention to any irregularities in the accounts audited and to any other matter which in his opinion ought to be brought to the notice of Parliament.
 
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
 
-(6) parliament shall debate the report of the Auditor-General and appoint where necessary, in the public interest, a committee to deal with any matters arising from it.
+(6) Parliament shall debate the report of the Auditor-General and appoint where necessary, in the public interest, a committee to deal with any matters arising from it.
 
 (7) In the performance of his functions under this Constitution or any other law the Auditor-General -
 
@@ -3228,9 +3176,9 @@ submit to the Auditor-General for audit, a statement of its foreign exchange rec
 
 (9) A person aggrieved by a disallowance or surcharge made by the Auditor-General may appeal to the High Court.
 
-(10) The Rules of Court Committee may, by constitutional instrument, make Rules of court for the purposes of clause (9) of this article.
+(10) The Rules of Court Committee may, by constitutional instrument, make Rules of Court for the purposes of clause (9) of this article.
 
-(11) The salary and allowances payable to the Auditor-General shall be a charge on the consolidated Fund.
+(11) The salary and allowances payable to the Auditor-General shall be a charge on the Consolidated Fund.
 
 (12) The salary and allowances payable to the Auditor-General, his rights in respect of leave of absence, retiring award or retiring age shall not be varied to his disadvantage during his tenure of office.
 
@@ -3238,13 +3186,9 @@ submit to the Auditor-General for audit, a statement of its foreign exchange rec
 
 [[START OF PAGE 115]]
 
-#### 188.
-
-#### 189.
-
 (13) The provisions of article 146 of this Constitution relating to the removal of a Justice of the Superior Court of Judicature from office shall apply to the Auditor-General.
 
-(14) The administrative expenses of the office of the Auditor-General including all salaries, allowances, gratuities and pensions payable to or in respect of persons serving in the Audit Service shall be a charge on the consolidated Fund.
+(14) The administrative expenses of the office of the Auditor-General including all salaries, allowances, gratuities and pensions payable to or in respect of persons serving in the Audit Service shall be a charge on the Consolidated Fund.
 
 (15) The accounts of the office of the Auditor-General shall be audited and reported upon by an auditor appointed by Parliament.
 
@@ -3252,9 +3196,13 @@ submit to the Auditor-General for audit, a statement of its foreign exchange rec
 
 ### The Audit Service
 
+#### 188.
+
 There shall be an Audit Service which shall form part of the public services of Ghana.
 
-- There shall be an Audit Service Board which shall consist of -
+#### 189.
+
+(1) There shall be an Audit Service Board which shall consist of -
 
 (a) a chairman and four other members appointed by the President, acting in consultation with the Council of State;
 
@@ -3274,18 +3222,19 @@ There shall be an Audit Service which shall form part of the public services of 
 
 [[START OF PAGE 116]]
 
-(4) A member of the Audit Service Board, other than the Auditor-General or the Head of the Civil Service or his representative, may be removed from office by the President, acting in accordance with the advice of the council of State, for inability to perform the functions of his office arising from infirmity of mind or body or for any other sufficient cause.
+(4) A member of the Audit Service Board, other than the Auditor-General or the Head of the Civil Service or his representative, may be removed from office by the President, acting in accordance with the advice of the Council of State, for inability to perform the functions of his office arising from infirmity of mind or body or for any other sufficient cause.
 
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
 
-#### 190.
-
 ## CHAPTER FOURTEEN
+
 ### THE PUBLIC SERVICES
 
-- The Public Services of Ghana shall include -
+#### 190.
+
+(1) The Public Services of Ghana shall include -
 
 (a) the Civil Service,
 
@@ -3321,21 +3270,13 @@ the Legal Service;
 
 (d) such other public services as Parliament may by law prescribe.
 
-- The Civil Service shall, until provision is otherwise made by Parliament, comprise service in both central and local government.
+(2) The Civil Service shall, until provision is otherwise made by Parliament, comprise service in both central and local government.
 
 [[END OF PAGE 117]]
 
 [[START OF PAGE 118]]
 
-#### 191.
-
-#### 192.
-
-#### 193.
-
-#### 194.
-
-- Subject to the provisions of this constitution, an Act of Parliament enacted by virtue of clause (1) of this article shall provide for -
+(3) Subject to the provisions of this Constitution, an Act of Parliament enacted by virtue of clause (1) of this article shall provide for -
 
 (a) the governing council for the public service to which it relates;
 
@@ -3343,7 +3284,9 @@ the Legal Service;
 
 (c) the membership of that service.
 
-- For the purposes of this article "public corporation" means a public corporation established in accordance with article 192 of this Constitution other than one set up as a commercial venture.
+(4) For the purposes of this article "public corporation" means a public corporation established in accordance with article 192 of this Constitution other than one set up as a commercial venture.
+
+#### 191.
 
 A member of the public services shall not be -
 
@@ -3351,19 +3294,23 @@ A member of the public services shall not be -
 
 (b) dismissed or removed from office or reduced in rank or otherwise punished without just cause.
 
+#### 192.
+
 A public corporation shall not be established except by Act of Parliament.
 
-- The President shall, acting in accordance with the advice of the Public Services Commission, appoint a public officer as the Head of the Civil Service.
+#### 193.
 
-- Subject to the provisions of this Constitution, the Head of the Civil Service shall not hold any other public office.
+(1) The President shall, acting in accordance with the advice of the Public Services Commission, appoint a public officer as the Head of the Civil Service.
 
-- There shall be a Public Services Commission which shall perform such functions as assigned to it by this Constitution or by any other law.
+(2) Subject to the provisions of this Constitution, the Head of the Civil Service shall not hold any other public office.
+
+#### 194.
+
+(1) There shall be a Public Services Commission which shall perform such functions as assigned to it by this Constitution or by any other law.
 
 [[END OF PAGE 118]]
 
 [[START OF PAGE 119]]
-
-#### 195.
 
 (2) The Public Services Commission shall consist of -
 
@@ -3377,9 +3324,9 @@ A public corporation shall not be established except by Act of Parliament.
 
 (b) if he is otherwise disqualified from holding a public office.
 
-(4) A person holding a public office shall, upon being appointed a fulltime member of the Public Services Commission, resign from that public office.
+(4) A person holding a public office shall, upon being appointed a full-time member of the Public Services Commission, resign from that public office.
 
-(5) Subject to clause (6) of this article, the terms and conditions of service including retiring ages of a Justice of the Court shall apply to the ViceChairman.
+(5) Subject to clause (6) of this article, the terms and conditions of service including retiring ages of a Justice of the Court of Appeal shall apply to the Chairman and Vice-Chairman.
 
 (6) The provisions of article 146 of this Constitution relating to the removal from office of a Justice of the Superior Court of Judicature, shall apply -
 
@@ -3387,7 +3334,9 @@ A public corporation shall not be established except by Act of Parliament.
 
 (b) to the members of the Commission referred to in paragraph (b) of clause (2) of this article, before the expiration of their period of service as provided by law.
 
-(7) The salaries, allowances, facilities and privileges payable or available to the members of the Commission other than the Chairman and ViceChairman, shall be determined under article 71 of this Constitution.
+(7) The salaries, allowances, facilities and privileges payable or available to the members of the Commission other than the Chairman and Vice-Chairman, shall be determined under article 71 of this Constitution.
+
+#### 195.
 
 (1) Subject to the provisions of this Constitution, the power to appoint persons to hold or to act in an office in the public services shall vest in the President, acting in accordance with the advice of the governing council of
 
@@ -3395,25 +3344,25 @@ A public corporation shall not be established except by Act of Parliament.
 
 [[START OF PAGE 120]]
 
-#### 196.
-
-#### 197.
-
-#### 198.
-
-#### 199.
-
 the service concerned given in consultation with the Public Services Commission.
 
 (2) The President may, subject to such conditions as he may think fit, delegate some of his functions under this article by directions in writing to the governing council concerned or to a committee of the council or to any member of that governing council or to any public officer.
 
 (3) The power to appoint persons to hold or act in an office in a body of higher education, research or professional training, shall vest in the council or other governing body of that institution or body.
 
-The Public Service Commission shall have such powers and exercise such supervisory, regulatory and consultative functions as Parliament shall, by law, prescribe, including as may be applicable, the supervision and regulation of, entrance and promotion examinations, recruitment and appointment into or promotions within, the public services, and the establishment of standards and guidelines on the terms and conditions of employment in the public services.
+#### 196.
 
-The Public Service Commission may, subject to the approval of the President, make regulations, by constitutional instrument, for the effective and efficient performance of its functions under this Constitution or any other law.
+The Public Services Commission shall have such powers and exercise such supervisory, regulatory and consultative functions as Parliament shall, by law, prescribe, including as may be applicable, the supervision and regulation of, entrance and promotion examinations, recruitment and appointment into or promotions within, the public services, and the establishment of standards and guidelines on the terms and conditions of employment in the public services.
 
-Except as otherwise provided in this Constitution, or any other law not inconsistent with this Constitution, the Public Service Commission shall not be subject to the control or direction of any person or authority in the performance of its functions.
+#### 197.
+
+The Public Services Commission may, subject to the approval of the President, make regulations, by constitutional instrument, for the effective and efficient performance of its functions under this Constitution or any other law.
+
+#### 198.
+
+Except as otherwise provided in this Constitution, or any other law not inconsistent with this Constitution, the Public Services Commission shall not be subject to the control or direction of any person or authority in the performance of its functions.
+
+#### 199.
 
 (1) A public officer shall, except as otherwise provided in this Constitution, retire from the public service on attaining the age of sixty years.
 
@@ -3423,7 +3372,7 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 [[START OF PAGE 121]]
 
-- The pension payable to any person shall be exempt from tax.
+(3) The pension payable to any person shall be exempt from tax.
 
 [[END OF PAGE 121]]
 
@@ -3433,23 +3382,55 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 ### THE POLICE SERVICE
 
+#### 200.
+
+(1) There shall be a Police Service of Ghana.
+
+(2) No person or authority shall raise any police service except by or under the authority of an Act of Parliament.
+
+(3) The Police Service shall be equipped and maintained to perform its traditional role of maintaining law and order.
+
+#### 201.
+
+There shall be established a Police Council which shall consist of -
+
+(a) the Vice-President, who shall be chairman;
+
+(b) the Minister responsible for internal affairs;
+
+(c) the Inspector-General of Police;
+
+(d) the Attorney-General or his representative;
+
+(e) a lawyer nominated by the Ghana Bar Association;
+
+(f) a representative of the Retired Senior Police Officers Association;
+
+(g) two members of the Police Service, appointed by the President, acting in consultation with the Council of State, one of whom shall be of a junior rank; and
+
+(h) two other members appointed by the President.
+
+#### 202.
+
+(1) The Inspector-General of Police shall be appointed by the President acting in consultation with the Council of State.
+
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
 
-#### 203.
-
 (2) The Inspector-General of Police shall be head of the Police Service and shall, subject to the provisions of this article and to the control and direction of the Police Council, be responsible for the operational control and the administration of the Police Service.
 
-(3) Subject to the provisions of this constitution, the power to appoint persons to hold or to act in an office in the Police Service shall vest in the President, acting in accordance with the advice of the Police Council.
+(3) Subject to the provisions of this Constitution, the power to appoint persons to hold or to act in an office in the Police Service shall vest in the President, acting in accordance with the advice of the Police Council.
 
 (4) The President may, subject to such conditions as he thinks fit, delegate some of his functions under this article by directions in writing to the Police Council or to a committee or to a member of the Council.
 
-(1) The Police Council shall advise the President on matters of policy relating to internal security, including the rule of the Police Service, budgeting and finance, administration and the promotion of officers above the rank of Assistance Commissioner of Police.
+#### 203.
+
+(1) The Police Council shall advise the President on matters of policy relating to internal security, including the role of the Police Service, budgeting and finance, administration and the promotion of officers above the rank of Assistant Commissioner of Police.
 
 (2) The Police Council may, with the prior approval of the President, by constitutional instrument, make regulations for the performance of its functions under this Constitution or any other law and for the effective and efficient administration of the Police Service.
 
-- Regulations made under clause (2) of this article shall include regulations in respect of -
+(3) Regulations made under clause (2) of this article shall include regulations in respect of -
 
 (a) the control and administration of the Police Service;
 
@@ -3459,7 +3440,7 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 (d) the authority and powers of command of officers and men of the Police Service; and
 
-(e) the delegation to other persons of powers to discipline person and the conditions subject to which delegations may be made.
+(e) the delegation to other persons of powers to discipline personnel and the conditions subject to which delegations may be made.
 
 [[END OF PAGE 123]]
 
@@ -3467,9 +3448,21 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 #### 204.
 
-- There shall b e established for each region a Regional Police Committee which shall consist of (a) the Minister of State appointed for the region, who shall be chairman; (b) the two most senior members of the Police Service in the region; (c) a representative of each district in the region appointed by the District Assembly in the district; (d) a lawyer practising in the region nominated by the Ghana Bar Association; (e) a representative of the Attorney-General; and (f) a representative of the Regional House of Chiefs; (2) A Regional Police Committee shall advise the Police Council on any
+(1) There shall be established for each region a Regional Police Committee which shall consist of -
 
-- matter relating to the administration of the Police Service in the region.
+(a) the Minister of State appointed for the region, who shall be chairman;
+
+(b) the two most senior members of the Police Service in the region;
+
+(c) a representative of each district in the region appointed by the District Assembly in the district;
+
+(d) a lawyer practising in the region nominated by the Ghana Bar Association;
+
+(e) a representative of the Attorney-General; and
+
+(f) a representative of the Regional House of Chiefs;
+
+(2) A Regional Police Committee shall advise the Police Council on any matter relating to the administration of the Police Service in the region.
 
 [[END OF PAGE 124]]
 
@@ -3479,11 +3472,43 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 ### THE PRISONS SERVICE
 
+#### 205.
+
+(1) There shall be a Prisons Service of Ghana.
+
+(2) The Prisons Service shall be equipped and maintained to perform its traditional role efficiently.
+
+#### 206.
+
+There shall be established a Prisons Service Council which shall consist of -
+
+(a) the Vice-President, who shall be chairman;
+
+(b) the Minister responsible for internal affairs;
+
+(c) the Director-General of the Prisons Service;
+
+(d) a medical practitioner nominated by the Ghana Medical Association;
+
+(e) a lawyer nominated by the Ghana Bar Association;
+
+(f) the Attorney-General or his representative;
+
+(g) a representative of the Ministry or department of state responsible for social welfare;
+
+(h) a representative of such religious bodies as the President may, in consultation with the Council of State, appoint;
+
+(i) two members of the Prisons Service appointed by the President in consultation with the Council of State one of whom shall be of a junior rank;
+
+(j) a representative of the National House of Chiefs; and
+
+(k) two other members appointed by the President.
+
+#### 207.
+
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
-
-#### 208.
 
 (1) The Director-General of the Prisons Service shall be appointed by the President, acting in consultation with the Council of State.
 
@@ -3492,6 +3517,8 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 (3) Subject to the provisions of this Constitution, the power to appoint persons to hold or to act in an office in the Prisons Service shall vest in the President, acting in accordance with the advice of the Prisons Service Council.
 
 (4) The President may, subject to such conditions as he thinks fit, delegate some of his functions under this article by directions in writing to the Prisons Service Council or to a Committee or a member of the Council.
+
+#### 208.
 
 (1) The Prisons Service Council shall advise the President on matters of policy relating to the organisation and maintenance of the prison system in Ghana including the role of the Prisons Service, prisons budgeting and finance, administration and the promotion of officers above the rank of Assistant Director of Prisons.
 
@@ -3505,13 +3532,11 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 (c) the conditions of service including those relating to the enrolment, salaries, pensions, gratuities and other allowances of officers and men;
 
-(d) The authority and powers of command of the officers and men of the Prisons Service;
+(d) the authority and powers of command of the officers and men of the Prisons Service;
 
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
-
-#### 209.
 
 (e) the delegation to other persons of powers to discipline persons and the conditions subject to which delegations may be made;
 
@@ -3527,7 +3552,9 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 (k) such measures, generally as will ensure the humane treatment and welfare of prisoners and other persons in legal custody, including the provision of literature and writing material.
 
-- There shall be established for each region a Regional Prisons Committee which shall consist of -
+#### 209.
+
+(1) There shall be established for each region a Regional Prisons Committee which shall consist of -
 
 (a) the Minister of State appointed for the region, who shall be chairman;
 
@@ -3551,27 +3578,25 @@ Except as otherwise provided in this Constitution, or any other law not inconsis
 
 (i) representatives of such religious bodies as the Regional Minister may deem fit to appoint.
 
-- A Regional Prisons Committee shall advise the Prisons Service Council and the Director-General of the Prisons Service on any matter relating to the administration of prisons and of the Prisons Service in the region.
+(2) A Regional Prisons Committee shall advise the Prisons Service Council and the Director-General of the Prisons Service on any matter relating to the administration of prisons and of the Prisons Service in the region.
 
 [[END OF PAGE 128]]
 
 [[START OF PAGE 129]]
 
-#### 210.
-
-#### 211.
-
-#### 212.
-
 ## CHAPTER SEVENTEEN
 
 ### THE ARMED FORCES OF GHANA
 
-- There shall be the Armed Forces of Ghana which shall consist of the Army, the Navy and the Air Force and such other services for which provision is made by Parliament.
+#### 210.
 
-- No person shall raise an armed force except by or under the authority of an Act of Parliament.
+(1) There shall be the Armed Forces of Ghana which shall consist of the Army, the Navy and the Air Force and such other services for which provision is made by Parliament.
 
-- The Armed Forces shall be equipped and maintained to perform their role of defence of Ghana as well as such other functions for the development of Ghana as the President may determine.
+(2) No person shall raise an armed force except by or under the authority of an Act of Parliament.
+
+(3) The Armed Forces shall be equipped and maintained to perform their role of defence of Ghana as well as such other functions for the development of Ghana as the President may determine.
+
+#### 211.
 
 There shall be established an Armed Forces Council which shall consist of -
 
@@ -3579,37 +3604,39 @@ There shall be established an Armed Forces Council which shall consist of -
 
 (b) the Ministers responsible for defence, foreign affairs and internal affairs;
 
-(c) the Chief of Defense Staff, the Service Chiefs and a senior Warrant Officer or its equivalent in the Armed Forces; and
+(c) the Chief of Defence Staff, the Service Chiefs and a senior Warrant Officer or its equivalent in the Armed Forces; and
 
 (d) two other persons appointed by the President acting in consultation with the Council of State.
 
-- The President shall, acting in consultation with the Council of State, appoint-
+#### 212.
 
-(a) the Chief of Defense Staff of the Armed Forces; and
+(1) The President shall, acting in consultation with the Council of State, appoint -
+
+(a) the Chief of Defence Staff of the Armed Forces; and
 
 (b) the Service Chiefs.
 
-- The President may, acting in accordance with the advice of the Armed Forces Council, appoint officers of the Armed Forces who shall be given such command as the Armed Forces Council shall determine.
+(2) The President may, acting in accordance with the advice of the Armed Forces Council, appoint officers of the Armed Forces who shall be given such command as the Armed Forces Council shall determine.
 
 [[END OF PAGE 129]]
 
 [[START OF PAGE 130]]
 
+(3) The President shall, acting in accordance with the advice of the Armed Forces Council, grant commissions to officers of the Armed Forces.
+
+(4) Subject to clause (3) of this article, the power to appoint persons to hold or to act in an office in the Armed Forces shall vest in the President, acting in accordance with the advice of the Armed Forces Council.
+
 #### 213.
+
+The Chief of Defence Staff of the Armed Forces shall, subject to the provisions of this article, and to the control and direction of the Armed Forces Council on matters of policy, be responsible for the administration and the operational control and command of the Armed Forces.
 
 #### 214.
 
-- The President shall, acting in accordance with the advice of the Armed Forces Council, grant commissions to officers of the Armed Forces.
+(1) The Armed Forces Council shall advise the President on matters of policy relating to defence and strategy including the role of the Armed Forces, military budgeting and finance, administration and the promotion of officers above the rank of Lieutenant-Colonel or its equivalent.
 
-- Subject to clause (3) of this article, the power to appoint persons to hold or to act in an office in the Armed Forces shall vest in the President, acting in accordance with the advice of the Armed Forces Council.
+(2) The Armed Forces Council may, with the prior approval of the President, by constitutional instrument, make regulations for the performance of its functions under this Constitution or any other law, and for the effective and efficient administration of the Armed Forces.
 
-The Chief of Defense Staff of the Armed Forces shall, subject to the provisions of this article, and to the control and direction of the Armed Forces Council on matters of policy, be responsible for the administration and the operational control and command of the Armed Forces.
-
-- The Armed Forces Council shall advise the President on matters of policy relating to defence and strategy including the role of the Armed Forces, military budgeting and finance, administration and the promotion of officers above the rank of Lieutenant-Colonel or its equivalent.
-
-- The Armed Forces Council may, with the prior approval of the President, by constitutional instrument, make regulations for the performance of its function under this Constitution or any other law, and for the effective and efficient administration of the Armed Forces.
-
-- Regulations made under clause (2) of this article shall include regulations in respect of -
+(3) Regulations made under clause (2) of this article shall include regulations in respect of -
 
 (a) the control and administration of the services of the Armed Forces;
 
@@ -3634,28 +3661,29 @@ The Armed Forces Council may, subject to such conditions as it may consider fit,
 
 [[START OF PAGE 132]]
 
-#### 216.
-
-#### 217.
-
-#### 218.
-
 ## CHAPTER EIGHTEEN
+
 ### COMMISSION ON HUMAN RIGHTS AND ADMINISTRATIVE JUSTICE
+
+#### 216.
 
 There shall be established by Act of Parliament within six months after Parliament first meets after the coming into force of this Constitution, a Commission on Human Rights and Administrative Justice which shall consist of -
 
 (a) a Commissioner for Human Rights and Administrative Justice; and
 
-(b) two Deputy Commissioners for Human Rights and Administrative Justice
+(b) two Deputy Commissioners for Human Rights and Administrative Justice.
+
+#### 217.
 
 The President shall appoint the members of the Commission under article 70 of this Constitution.
 
-The functions of the Commission shall be defined and prescribed by Act of Parliament and shall include the duty.
+#### 218.
+
+The functions of the Commission shall be defined and prescribed by Act of Parliament and shall include the duty -
 
 (a) to investigate complaints of violations of fundamental rights and freedoms, injustice, corruption, abuse of power and unfair treatment of any person by a public officer in the exercise of his official duties;
 
-(b) to investigate complaints concerning the functioning of the Public Services Commission, the administrative organs of the State, the Armed Forces, the Police Service and the Prisons Service in so far as complaints relate to the failure to achieve a balanced structuring of those services or equal access by all to the recruitment of those services or fair administration in relation to those service;
+(b) to investigate complaints concerning the functioning of the Public Services Commission, the administrative organs of the State, the Armed Forces, the Police Service and the Prisons Service in so far as complaints relate to the failure to achieve a balanced structuring of those services or equal access by all to the recruitment of those services or fair administration in relation to those services;
 
 (c) to investigate complaints concerning practices and actions by persons, private enterprises and other institutions where those
 
@@ -3663,9 +3691,7 @@ The functions of the Commission shall be defined and prescribed by Act of Parlia
 
 [[START OF PAGE 133]]
 
-#### 219.
-
-complaints allege violations of fundamental rights and freedoms under this Constitution.
+complaints allege violations of fundamental rights and freedoms under this Constitution;
 
 (d) to take appropriate action to call for the remedying, correction and reversal of instances specified in paragraphs (a), (b) and (c) of this clause through such means as are fair, proper and effective, including -
 
@@ -3673,9 +3699,9 @@ complaints allege violations of fundamental rights and freedoms under this Const
 
 (ii) causing the complaint and its finding on it to be reported to the superior of an offending person;
 
-(iii) bringing proceedings in a competent Court for a remedy to secure the termination of the offending action or conduct, or the abandonment or alteration of the offending procedures; and
+(iii) bringing proceedings in a competent court for a remedy to secure the termination of the offending action or conduct, or the abandonment or alteration of the offending procedures; and
 
-(iv) bringing proceedings to restrain the enforcement of such legislation or regulation by challenging its validity if the offending action or conduct is sought to be justified by subordinate legislation or regulation which is unreasonable or other wise ultra vires;
+(iv) bringing proceedings to restrain the enforcement of such legislation or regulation by challenging its validity if the offending action or conduct is sought to be justified by subordinate legislation or regulation which is unreasonable or otherwise ultra vires;
 
 (e) to investigate all instances of alleged or suspected corruption and the misappropriation of public moneys by officials and to take appropriate steps, including reports to the Attorney-General and the Auditor-General, resulting from such investigations;
 
@@ -3683,29 +3709,23 @@ complaints allege violations of fundamental rights and freedoms under this Const
 
 (g) to report annually to Parliament on the performance of its functions.
 
-(1) The powers of the Commission shall be defined by Act of Parliament and shall include the power
+#### 219.
 
-(a) to issue subpoenas requiring the attendance of any person before the Commission and the production of any document or record relevant to any investigation by the Commission.
+(1) The powers of the Commission shall be defined by Act of Parliament and shall include the power -
+
+(a) to issue subpoenas requiring the attendance of any person before the Commission and the production of any document or record relevant to any investigation by the Commission;
 
 [[END OF PAGE 133]]
 
 [[START OF PAGE 134]]
 
-#### 220.
-
-#### 221.
-
-#### 222.
-
-#### 223.
-
-(b) to cause any person contemptuous of any such subpoena to be prosecuted before a competent Court;
+(b) to cause any person contemptuous of any such subpoena to be prosecuted before a competent court;
 
 (c) to question any person in respect of any subject matter under investigation before the Commission;
 
 (d) to require any person to disclose truthfully and frankly any information within his knowledge relevant to any investigation by the Commissioner.
 
-- The Commissioner shall not investigate-
+(2) The Commissioner shall not investigate -
 
 (a) a matter which is pending before a court or judicial tribunal; or
 
@@ -3713,47 +3733,55 @@ complaints allege violations of fundamental rights and freedoms under this Const
 
 (c) a matter relating to the exercise of the prerogative of mercy.
 
+#### 220.
+
 An Act of Parliament enacted under article 216 of this Constitution shall provide for the creation of regional and district branches of the Commission.
+
+#### 221.
 
 A person shall not be qualified for appointment as a Commissioner or a Deputy Commissioner for Human Rights and Administrative Justice, unless he is -
 
-(a) in the case of Commissioner, qualified for appointment as a Justice of the Court of Appeal; and
+(a) in the case of the Commissioner, qualified for appointment as a Justice of the Court of Appeal; and
 
 (b) in the case of a Deputy Commissioner, qualified for appointment as a Justice of the High Court.
 
+#### 222.
+
 The Commissioner and Deputy Commissioners shall not hold any other public office.
+
+#### 223.
 
 [[END OF PAGE 134]]
 
 [[START OF PAGE 135]]
 
-#### 224.
-
-#### 225.
-
-#### 226.
-
-#### 227.
-
-#### 228.
-
-#### 229.
-
-(1) The Commissioner and deputy Commissioners shall enjoy the terms and conditions of service of a Justice of the Court of Appeal and High Court respectively.
+(1) The Commissioner and Deputy Commissioners shall enjoy the terms and conditions of service of a Justice of the Court of Appeal and High Court respectively.
 
 (2) The Commissioner and Deputy Commissioners shall cease to hold office upon attaining the ages of seventy and sixty-five years respectively.
 
+#### 224.
+
 Where the Commissioner dies, resigns or is removed from office or is for any other reason unable to perform the functions of his office, the President shall, acting in consultation with the Council of State, appoint a person qualified to be appointed Commissioner to perform those functions until the appointment of a new Commissioner.
+
+#### 225.
 
 Except as provided by this Constitution or by any other law not inconsistent with this Constitution the Commission and the Commissioners shall, in the performance of their functions, not be subject to the direction or control of any person or authority.
 
+#### 226.
+
 The appointment of officers and other employees of the Commission shall be made by the Commission acting in consultation with the Public Services Commission.
+
+#### 227.
 
 The administrative expenses of the Commission including salaries, allowances and pensions payable to, or in respect of, persons serving with the Commission, shall be charged on the Consolidated Fund.
 
+#### 228.
+
 The procedure for the removal of the Commissioner and Deputy Commissioners shall be the same as that provided for the removal of a Justice of the Court of Appeal and a Justice of the High Court respectively under this Constitution.
 
-For the purposes of performing his functions under this Constitution and any other law, the Commissioner may bring an action before any court in Ghana and may seek any remedy which may be available from that court
+#### 229.
+
+For the purposes of performing his functions under this Constitution and any other law, the Commissioner may bring an action before any court in Ghana and may seek any remedy which may be available from that court.
 
 [[END OF PAGE 135]]
 
@@ -3767,25 +3795,25 @@ Subject to the provisions of this Constitution and to any Act of Parliament made
 
 [[START OF PAGE 137]]
 
-#### 231.
-
-#### 232.
-
-#### 233.
-
 ## CHAPTER NINETEEN
 
 ### NATIONAL COMMISSION FOR CIVIC EDUCATION
 
+#### 231.
+
 There shall be established by Act of Parliament within six months after Parliament first meets after the coming into force of this Constitution, a National Commission for Civic Education in this Chapter referred to as "the Commission".
 
-- The Commission shall consist of a Chairman, two Deputy Chairmen and four other members.
+#### 232.
 
-- Members of the Commission shall be appointed by the President acting on the advice of the Council of State.
+(1) The Commission shall consist of a Chairman, two Deputy Chairmen and four other members.
 
-- Members of the Commission shall be persons who are qualified to be elected as members of Parliament.
+(2) Members of the Commission shall be appointed by the President acting on the advice of the Council of State.
 
-- Members of the Commission shall be persons who do not hold office in any political party.
+(3) Members of the Commission shall be persons who are qualified to be elected as members of Parliament.
+
+(4) Members of the Commission shall be persons who do not hold office in any political party.
+
+#### 233.
 
 The functions of the Commission shall be -
 
@@ -3795,7 +3823,7 @@ The functions of the Commission shall be -
 
 (c) to formulate for the consideration of Government, from time to time, programmes at the national, regional and district levels aimed at realising the objectives of this Constitution;
 
-(d) to formulate, implement and oversee programmes intended to inculcate in the citizens of Ghana awareness of their civic responsibilities and an appreciation of their rights an obligations as free people; and
+(d) to formulate, implement and oversee programmes intended to inculcate in the citizens of Ghana awareness of their civic responsibilities and an appreciation of their rights and obligations as free people; and
 
 (e) such other functions as Parliament may prescribe.
 
@@ -3805,27 +3833,27 @@ The functions of the Commission shall be -
 
 #### 234.
 
-#### 235.
-
-#### 236.
-
-#### 237.
-
-#### 238.
-
-#### 239.
-
 Except as otherwise provided in this Constitution or in any other law which is not inconsistent with this Constitution, the Commission shall not be subject to the direction or control of any person or authority in the performance of its functions.
 
-(1) The Chairman of the Commission shall enjoy the same terms and condition of service as a Justice of the Court of Appeal, and a Deputy Chairman of the Commission shall enjoy the same terms and condition of service as a Justice of the Court of Appeal, and a Deputy Chairman of the Commission shall enjoy the same terms and conditions of service as a Justice of the High Court.
+#### 235.
+
+(1) The Chairman of the Commission shall enjoy the same terms and conditions of service as a Justice of the Court of Appeal, and a Deputy Chairman of the Commission shall enjoy the same terms and conditions of service as a Justice of the High Court.
 
 (2) The other members of the Commission shall hold office on such terms and conditions as may be approved by Parliament.
 
+#### 236.
+
 The procedure for the removal of the Chairman or a Deputy Chairman from office shall be the same as that provided for the removal of a Justice of the Court of Appeal and a Justice of the High Court respectively under this Constitution.
+
+#### 237.
 
 Parliament shall, by law, provide for the establishment of Regional and District branches of the Commission.
 
+#### 238.
+
 The officers and employees of the Commission shall be appointed by the Commission acting in consultation with the Public Services Commission.
+
+#### 239.
 
 The administrative expenses of the Commission, including salaries, allowances and pensions payable to, or in respect of, persons serving with the Commission, shall be charged on the Consolidated Fund.
 
@@ -3833,19 +3861,17 @@ The administrative expenses of the Commission, including salaries, allowances an
 
 [[START OF PAGE 139]]
 
-#### 240.
-
-#### 241.
-
 ## CHAPTER TWENTY
 
 ### DECENTRALIZATION AND LOCAL GOVERNMENT
 
-- Ghana shall have a system of local government and administration which shall, as far as practicable, be decentralized.
+#### 240.
 
-- The system of decentralized local government shall have the following features-
+(1) Ghana shall have a system of local government and administration which shall, as far as practicable, be decentralized.
 
-(a) Parliament shall enact appropriate laws to ensure that functions, powers, responsibilities and resources are at all times transferred from the Central Government to local government units in a coordinated manner;
+(2) The system of decentralized local government shall have the following features -
+
+(a) Parliament shall enact appropriate laws to ensure that functions, powers, responsibilities and resources are at all times transferred from the Central Government to local government units in a co-ordinated manner;
 
 (b) Parliament shall by law provide for the taking of such measures as are necessary to enhance the capacity of local government authorities to plan, initiate, co-ordinate, manage and execute policies in respect of all matters affecting the people within their areas, with a view to ultimately achieving localization of those activities;
 
@@ -3855,19 +3881,19 @@ The administrative expenses of the Commission, including salaries, allowances an
 
 (e) to ensure the accountability of local government authorities, people in particular local government areas shall, as far as practicable, be afforded the opportunity to participate effectively in their governance.
 
-- For the purposes of local government, Ghana shall be deemed to have been divided into the districts in existence immediately before the coming into force of this Constitution.
+#### 241.
 
-- Parliament may by law make provision for the redrawing of the boundaries of districts or for reconstituting the districts.
+(1) For the purposes of local government, Ghana shall be deemed to have been divided into the districts in existence immediately before the coming into force of this Constitution.
+
+(2) Parliament may by law make provision for the redrawing of the boundaries of districts or for reconstituting the districts.
 
 [[END OF PAGE 139]]
 
 [[START OF PAGE 140]]
 
+(3) Subject to this Constitution, a District Assembly shall be the highest political authority in the district, and shall have deliberative, legislative and executive powers.
+
 #### 242.
-
-#### 243.
-
-- Subject to this Constitution, a District Assembly shall be the highest political authority in the district, and shall have deliberative, legislative and executive powers.
 
 A District Assembly shall consist of the following members -
 
@@ -3879,9 +3905,11 @@ A District Assembly shall consist of the following members -
 
 (d) other members not being more than thirty percent of all the members of the District Assembly, appointed by the President in consultation with the traditional authorities and other interest groups in the district.
 
-- There shall be a District chief Executive for every district who shall be appointed by the President with the prior approval of not less than twothirds majority of members of the Assembly present and voting at the meeting.
+#### 243.
 
-- The District Chief Executive shall -
+(1) There shall be a District Chief Executive for every district who shall be appointed by the President with the prior approval of not less than two-thirds majority of members of the Assembly present and voting at the meeting.
+
+(2) The District Chief Executive shall -
 
 (a) preside at meetings of the Executive Committee of the Assembly;
 
@@ -3889,7 +3917,7 @@ A District Assembly shall consist of the following members -
 
 (c) be the chief representative of the Central Government in the district.
 
-- The office of District Chief Executive shall become vacant if -
+(3) The office of District Chief Executive shall become vacant if -
 
 (a) a vote of no confidence, supported by the votes of not less than two-thirds of all the members of the District Assembly is passed against him; or
 
@@ -3897,29 +3925,27 @@ A District Assembly shall consist of the following members -
 
 [[START OF PAGE 141]]
 
-#### 244.
-
-#### 245.
-
-#### 246.
-
 (b) he is removed from office by the President; or
 
 (c) he resigns or dies.
 
-- The District Assembly shall have a Presiding Member who shall be elected by the Assembly from among its members.
+#### 244.
 
-- The Presiding Member shall be elected by at least tow-thirds majority of all the members of the Assembly.
+(1) The District Assembly shall have a Presiding Member who shall be elected by the Assembly from among its members.
 
-- The Presiding Member shall-
+(2) The Presiding Member shall be elected by at least two-thirds majority of all the members of the Assembly.
+
+(3) The Presiding Member shall -
 
 (a) preside over the meetings of the Assembly;
 
 (b) perform such other functions as may be prescribed by law.
 
-- Subject to clause (5) of this article, the term of office of the Presiding Member shall be two years and he shall be eligible for re-election.
+(4) Subject to clause (5) of this article, the term of office of the Presiding Member shall be two years and he shall be eligible for re-election.
 
-- The Presiding Member shall cease to hold office whenever the Assembly by a majority of at least two-thirds of all the members of the Assembly vote to remove him from office.
+(5) The Presiding Member shall cease to hold office whenever the Assembly by a majority of at least two-thirds of all the members of the Assembly vote to remove him from office.
+
+#### 245.
 
 Parliament shall, by law, prescribe the functions of District Assemblies which shall include -
 
@@ -3927,9 +3953,11 @@ Parliament shall, by law, prescribe the functions of District Assemblies which s
 
 (b) the levying and collection of taxes, rates, duties and fees.
 
-- Elections to the District Assemblies shall be held every four years except that such elections and elections to Parliament shall be held at least six months apart.
+#### 246.
 
-- Unless he resigns or dies or the earlier ceases to hold office under clause (3) of article 243 of this Constitution, the term of office of the District Chief Executive shall be four years; and a person shall not hold office as a District Chief Executive for more than two consecutive terms.
+(1) Elections to the District Assemblies shall be held every four years except that such elections and elections to Parliament shall be held at least six months apart.
+
+(2) Unless he resigns or dies or he earlier ceases to hold office under clause (3) of article 243 of this Constitution, the term of office of the District Chief Executive shall be four years; and a person shall not hold office as a District Chief Executive for more than two consecutive terms.
 
 [[END OF PAGE 141]]
 
@@ -3937,93 +3965,89 @@ Parliament shall, by law, prescribe the functions of District Assemblies which s
 
 #### 247.
 
+Subject to this Constitution, the qualifications for membership of a District Assembly, the procedures of a District Assembly and other local government units lower than a District Assembly that may be created, shall be provided for by law.
+
 #### 248.
+
+(1) A candidate seeking election to a District Assembly or any lower local government unit shall present himself to the electorate as an individual, and shall not use any symbol associated with any political party.
+
+(2) A political party shall not endorse, sponsor, offer a platform to or in any way campaign for or against a candidate seeking election to a District Assembly or any lower local government unit.
 
 #### 249.
 
+Subject to any procedure established by law, the mandate of a member of a District Assembly may be revoked by the electorate or the appointing body.
+
 #### 250.
+
+(1) The emoluments of a District Chief Executive of a District Assembly shall be determined by Parliament and shall be charged on the Consolidated Fund.
+
+(2) The emoluments of a Presiding Member of a District Assembly and other members of the Assembly shall be determined by the District Assembly and paid out of the Assembly's own resources.
 
 #### 251.
 
+(1) There shall be established an Executive Committee of a District Assembly which shall be responsible for the performance of the executive and administrative functions of the District Assembly.
+
+(2) The composition of the Executive Committee and the procedure for its deliberations shall be as provided for by law.
+
 #### 252.
 
-Subject to this constitution, the qualifications for membership of a District Assembly, the procedures of a District Assembly and other local government units lower than a District Assembly that may be created, shall be provided for by law.
-
-- A candidate seeking election to a District Assembly or any lower local government unit shall present himself to the electorate as an individual, and shall not use any symbol associated with any political party.
-
-- A political party shall not endorse, sponsor, offer a platform to or in anyway campaign for or against a candidate seeking election to a District Assembly or any lower local government unit.
-
-Subject to any procedure established by law, the mandate of a member of a District Assembly may be revoked by the electorate or the appointing body.
-
-- The emoluments of a District chief Executive of a District Assembly shall be determined by Parliament and shall be charged on the consolidated Fund.
-
-- The emoluments of a Presiding Member of a District Assembly and other members of the Assembly shall be determined by the District Assembly and paid out of the Assembly's own resources.
-
-- There shall be established an Executive Committee of a District Assembly which shall be responsible for the performance of the executive and administrative functions of the District Assembly.
-
-- The composition of the Executive Committee and the procedure for its deliberations shall be as provided for by law.
-
-- There shall be a fund to be known as the District Assemblies Common Fund.
+(1) There shall be a fund to be known as the District Assemblies Common Fund.
 
 [[END OF PAGE 142]]
 
 [[START OF PAGE 143]]
 
+(2) Subject to the provisions of this Constitution, Parliament shall annually make provision for the allocation of not less than five percent of the total revenues of Ghana to the District Assemblies for development; and the amount shall be paid into the District Assemblies Common Fund in quarterly instalments.
+
+(3) The moneys accruing to the District Assemblies in the Common Fund shall be distributed among all the District Assemblies on the basis of a formula approved by Parliament.
+
+(4) There shall be appointed by the President with the approval of Parliament, a District Assemblies Common Fund Administrator.
+
+(5) Parliament shall by law prescribe the functions and tenure of office of the Administrator in such a manner as will ensure the effective and equitable administration of the District Assemblies Common Fund.
+
+(6) Nothing in this Chapter or any other law shall be taken to prohibit the State or other bodies from making grants-in-aid to any District Assembly.
+
 #### 253.
-
-#### 254.
-
-#### 255.
-
-- Subject to the provisions of this Constitution, Parliament shall annually make provision for the allocation of not less than five percent of the total revenues of Ghana to the District Assemblies for development; and the amount shall be paid into the District Assemblies Common Fund in quarterly installments.
-
-- The moneys accruing to the district Assemblies in the Common Fund shall be distributed among all the District Assemblies on the basis of a formula approved by Parliament.
-
-- There shall be appointed by the President with the approval of Parliament, a District Assemblies Common Fund Administrator.
-
-- Parliament shall by law prescribe the functions and tenure of office of the Administrator in such a manner as will ensure the effective and equitable administration of the District Assemblies Common Fund.
-
-- Nothing in this Chapter or any other law shall be taken to prohibit the State or other bodies from making grants-in-aid to any District Assembly.
 
 The Auditor-General shall audit the accounts of the District Assemblies annually and shall submit his reports on the audit to Parliament.
 
+#### 254.
+
 Parliament shall enact laws and take steps necessary for further decentralization of the administrative functions and projects of the Central Government but shall not exercise any control over the District Assemblies that is incompatible with their decentralized status, or otherwise contrary to law.
 
-- There shall be established a Regional Co-ordinating Council in each region, which shall consist of -
+#### 255.
+
+(1) There shall be established a Regional Co-ordinating Council in each region, which shall consist of -
 
 (a) the Regional Minister and his deputy or deputies;
 
 (b) the Presiding Member and the District Chief Executive from each district in the Region;
 
-(c) two chiefs from the Regional House of chiefs; and
+(c) two chiefs from the Regional House of Chiefs; and
 
 [[END OF PAGE 143]]
 
 [[START OF PAGE 144]]
 
-#### 256.
-
 (d) the Regional Heads of the decentralized ministries in the region as members without the right to vote;
 
-- The Regional Minister shall be the Chairman of the Regional Coordinating Council.
+(2) The Regional Minister shall be the Chairman of the Regional Co-ordinating Council.
 
-- Subject to this Chapter, the functions of a Regional Co-ordinating Council shall be as prescribed by Act of Parliament.
+(3) Subject to this Chapter, the functions of a Regional Co-ordinating Council shall be as prescribed by Act of Parliament.
 
-- The President shall, with the prior approval of Parliament, appoint for each region, a Minister of State who shall -
+#### 256.
+
+(1) The President shall, with the prior approval of Parliament, appoint for each region, a Minister of State who shall -
 
 (a) represent the President in the region; and
 
 (b) be responsible for the co-ordination and direction of the administrative machinery in the region.
 
-- The President may, in consultation with the Minister of State for a region and with the prior approval of Parliament, appoint for the regional Deputy Minister or Deputy Ministers to perform such functions as the President may determine.
+(2) The President may, in consultation with the Minister of State for a region and with the prior approval of Parliament, appoint for the region a Deputy Minister or Deputy Ministers to perform such functions as the President may determine.
 
 [[END OF PAGE 144]]
 
 [[START OF PAGE 145]]
-
-#### 257.
-
-#### 258.
 
 ## CHAPTER TWENTY-ONE
 
@@ -4031,37 +4055,41 @@ Parliament shall enact laws and take steps necessary for further decentralizatio
 
 ### Public Lands
 
+#### 257.
+
 (1) All public lands in Ghana shall be vested in the President on behalf of, and in trust for, the people of Ghana.
 
 (2) For the purposes of this article, and subject to clause (3) of this article, "public lands" includes any land which, immediately before the coming into force of this Constitution, was vested in the Government of Ghana on behalf of, and in trust for, the people of Ghana for the public service of Ghana, and any other land acquired in the public interest, for the purposes of the Government of Ghana before, on or after that date.
 
 (3) For the avoidance of doubt, it is hereby declared that all lands in the Northern, Upper East and Upper West Regions of Ghana which immediately before the coming into force of this Constitution were vested in the Government of Ghana are not public lands within the meaning of clauses (1) and (2) of this article.
 
-- Subject to the provisions of this Constitution, all lands referred to in clause (3) of this article shall vest in any person who was the owner of the land before the vesting, or in the appropriate skin without further assurance than this clause.
+(4) Subject to the provisions of this Constitution, all lands referred to in clause (3) of this article shall vest in any person who was the owner of the land before the vesting, or in the appropriate skin without further assurance than this clause.
 
-- Clauses (3) and (4) of this article shall be without prejudice to the vesting by the Government in itself of any land which is required in the public interest for public purposes.
+(5) Clauses (3) and (4) of this article shall be without prejudice to the vesting by the Government in itself of any land which is required in the public interest for public purposes.
 
 (6) Every mineral in its natural state in, under or upon any land in Ghana, rivers, streams, water courses throughout Ghana, the exclusive economic zone and any area covered by the territorial sea or continental shelf is the property of the Republic of Ghana and shall be vested in the President on behalf of, and in trust for the people of Ghana.
 
-- There shall be established a Lands Commission which shall, in coordination with the relevant public agencies and governmental bodies, perform the following functions -
+#### 258.
+
+(1) There shall be established a Lands Commission which shall, in co-ordination with the relevant public agencies and governmental bodies, perform the following functions -
 
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
 
-#### 259.
-
 (a) on behalf of the Government, manage public lands and any lands vested in the President by this Constitution or by any other law or any lands vested in the Commission;
 
 (b) advise the Government, local authorities and traditional authorities on the policy framework for the development of particular areas of Ghana to ensure that the development of individual pieces of land is co-ordinated with the relevant development plan for the area concerned;
 
-(c) formulate and submit to government recommendations on national policy with respect to land use and capability;
+(c) formulate and submit to Government recommendations on national policy with respect to land use and capability;
 
 (d) advise on, and assist in the execution of, a comprehensive programme for the registration of title to land throughout Ghana;
 
 (e) perform such other functions as the Minister responsible for lands and natural resources may assign to the Commission;
 
-- The Minister responsible for lands and natural resources may, with the approval of the President, give general directions in writing to the Lands Commission on matters of policy in respect of the functions of the Commission and the Commission shall comply with the directions.
+(2) The Minister responsible for lands and natural resources may, with the approval of the President, give general directions in writing to the Lands Commission on matters of policy in respect of the functions of the Commission and the Commission shall comply with the directions.
+
+#### 259.
 
 The Lands Commission shall consist of the following persons appointed by the President under article 70 of this Constitution -
 
@@ -4083,10 +4111,6 @@ The Lands Commission shall consist of the following persons appointed by the Pre
 
 [[START OF PAGE 147]]
 
-#### 260.
-
-#### 261.
-
 (vi) the National Association of Farmers and Fishermen;
 
 (vii) the Environmental Protection Council, and
@@ -4095,9 +4119,13 @@ The Lands Commission shall consist of the following persons appointed by the Pre
 
 (c) the Chief Administrator of the Lands Commission who shall be the Executive Secretary.
 
-- The Lands Commission shall have a branch in each region to be known as a Regional Lands Commission for the performance of the functions specified in article 258 of this Constitution in respect of the region.
+#### 260.
 
-- The activities of all the Regional Lands Commissions shall be coordinated by the Lands Commission.
+(1) The Lands Commission shall have a branch in each region to be known as a Regional Lands Commission for the performance of the functions specified in article 258 of this Constitution in respect of the region.
+
+(2) The activities of all the Regional Lands Commissions shall be co-ordinated by the Lands Commission.
+
+#### 261.
 
 A Regional Lands Commission shall consist of the following persons appointed by the Minister responsible for lands and natural resources -
 
@@ -4121,19 +4149,19 @@ A Regional Lands Commission shall consist of the following persons appointed by 
 
 [[START OF PAGE 148]]
 
-#### 260.
-
-#### 261.
-
 (vii) the Environmental Protection Council; and
 
 (viii) the Ministry responsible for Lands and Natural Resources; and
 
 (c) the Chief Administrator of the Lands Commission who shall be the Executive Secretary.
 
-- The Lands Commission shall have a branch in each region to be known as a Regional Lands Commission for the performance of the functions specified in article 258 of this Constitution in respect of the region.
+#### 260.
 
-(2) The activities of all the Regional Lands Commissions shall b e coordinated by the Lands Commission.
+(1) The Lands Commission shall have a branch in each region to be known as a Regional Lands Commission for the performance of the functions specified in article 258 of this Constitution in respect of the region.
+
+(2) The activities of all the Regional Lands Commissions shall be co-ordinated by the Lands Commission.
+
+#### 261.
 
 A Regional Lands Commission shall consist of the following persons appointed by the Minister responsible for lands and natural resources -
 
@@ -4161,21 +4189,19 @@ A Regional Lands Commission shall consist of the following persons appointed by 
 
 #### 262.
 
+(1) Each Regional Lands Commission shall have a Regional Lands Officer.
+
+(2) The Regional Lands Officer shall be a member of and Secretary to the Regional Lands Commission.
+
 #### 263.
-
-#### 264.
-
-#### 265.
-
-- Each Regional Lands Commission shall have a Regional Lands Officer.
-
-- The Regional Lands Officer shall be a Member of and Secretary to the Regional Lands Commission.
 
 A person shall not be qualified for appointment as a member of the Lands Commission or of a Regional Lands Commission other than the Executive Secretary and the Regional Lands Officer unless he is qualified to be a member of Parliament, except that for the avoidance of doubt, a person shall not be disqualified to be a member under this article by reason only of his being a public officer.
 
-- The Chairman and members of the Lands Commission, and also, the Chairman and members of a Regional Lands Commission other than the Executive Secretary and the Regional Lands Officer shall hold office for four years and may be eligible for re-appointment.
+#### 264.
 
-- The office of the Chairman or a member of the Lands Commission or of a Regional Lands Commission other than the Executive Secretary and the Regional Lands Officer shall become vacant if -
+(1) The Chairman and members of the Lands Commission, and also, the Chairman and members of a Regional Lands Commission other than the Executive Secretary and the Regional Lands Officer shall hold office for four years and may be eligible for re-appointment.
+
+(2) The office of the Chairman or a member of the Lands Commission or of a Regional Lands Commission other than the Executive Secretary and the Regional Lands Officer shall become vacant if -
 
 (a) he ceases to hold office under clause (1) of this article;
 
@@ -4183,7 +4209,9 @@ A person shall not be qualified for appointment as a member of the Lands Commiss
 
 (c) he is removed from office by the President or, in the case of a member of a Regional Lands Commission, by the Minister responsible for lands and natural resources for inability to perform the functions of his office or for stated misbehaviour.
 
-Except as otherwise provided in this constitution or in any other law which is not inconsistent with this Constitution, the Lands Commission shall not be subject to the direction or control of any person or authority, in the performance of its functions.
+#### 265.
+
+Except as otherwise provided in this Constitution or in any other law which is not inconsistent with this Constitution, the Lands Commission shall not be subject to the direction or control of any person or authority, in the performance of its functions.
 
 ### Ownership of land by Non-Citizens
 
@@ -4193,19 +4221,19 @@ Except as otherwise provided in this constitution or in any other law which is n
 
 #### 266.
 
-#### 267.
-
 (1) No interest in, or right over, any land in Ghana shall be created which vests in a person who is not a citizen of Ghana a freehold interest in any land in Ghana.
 
 (2) An agreement, deed or conveyance of whatever nature, which seeks, contrary to clause (1) of this article, to confer on a person who is not a citizen of Ghana any freehold interest in, or rights over, any land is void.
 
-(3) Where, on the twenty-second day of August 1969, any person not being a citizen of Ghana had a freehold interest in or right over any land in Ghana, that interest or right shall be deemed to be a leasehold interest for a period of fifty years at a peppercorn rent commencing from the twentysecond day of August 1969, and the freehold reversionary interest in any such land shall vest in the President on behalf of, and in trust for, the people of Ghana.
+(3) Where, on the twenty-second day of August 1969, any person not being a citizen of Ghana had a freehold interest in or right over any land in Ghana, that interest or right shall be deemed to be a leasehold interest for a period of fifty years at a peppercorn rent commencing from the twenty-second day of August 1969, and the freehold reversionary interest in any such land shall vest in the President on behalf of, and in trust for, the people of Ghana.
 
 (4) No interest in, or right over, any land in Ghana shall be created which vests in a person who is not a citizen of Ghana a leasehold for a term of more than fifty years at any one time.
 
 (5) Where on the twenty-second day of August 1969 any person not being a citizen of Ghana had a leasehold interest in, or right over, any land in Ghana for an unexpired period of more than fifty years, that interest in, or right over, any such land shall be deemed to be an interest or right subsisting for a period of fifty years commencing from the twenty-second day of August 1969.
 
 ### Stool and Skin Lands and Property
+
+#### 267.
 
 (1) All stool lands in Ghana shall vest in the appropriate stool on behalf of, and in trust for the subjects of the stool in accordance with customary law and usage.
 
@@ -4233,25 +4261,27 @@ Except as otherwise provided in this constitution or in any other law which is n
 
 (b) twenty percent to the traditional authority; and
 
-(c) fifty -five percent to the District Assembly, within the area of authority of which the stool lands are situated.
+(c) fifty-five percent to the District Assembly, within the area of authority of which the stool lands are situated.
 
 (7) The Administrator of Stool Lands and the Regional Lands Commission shall consult with the stools and other traditional authorities in all matters relating to the administration and development of stool land and shall make available to them all relevant information and data.
 
-(8) The Lands Commission and the Administrator of Stool lands shall coordinate with all relevant public agencies and traditional authorities and stools in preparing a policy framework of the rational and productive development and management of stool lands.
+(8) The Lands Commission and the Administrator of Stool Lands shall co-ordinate with all relevant public agencies and traditional authorities and stools in preparing a policy framework for the rational and productive development and management of stool lands.
 
 [[END OF PAGE 151]]
 
 [[START OF PAGE 152]]
 
-#### 268.
-
-#### 269.
+(9) Parliament may provide for the establishment of Regional branches of the office of the Administrator of Stool Lands to perform, subject to the directions of the Administrator of Stool Lands, the functions of the Administrator in the region concerned.
 
 ### Protecting Natural Resources
+
+#### 268.
 
 (1) Any transaction, contract or undertaking involving the grant of a right or concession by or on behalf of any person including the Government of Ghana, to any other person or body of persons howsoever described, for the exploitation of any mineral, water or other natural resource of Ghana made or entered into after the coming into force of this Constitution shall be subject to ratification by Parliament.
 
 (2) Parliament may, by resolution supported by the votes of not less than two-thirds of all the members of Parliament, exempt from the provisions of clause (1) of this article any particular class of transactions, contracts or undertakings.
+
+#### 269.
 
 (1) Subject to the provisions of this Constitution, Parliament shall, by or under an Act of Parliament, provide for the establishment, within six months after Parliament first meets after the coming into force of this Constitution, of a Minerals Commission, a Forestry Commission, Fisheries Commission and such other Commissions as Parliament may determine, which shall be responsible for the regulation and management of the utilization of the natural resources concerned and the co-ordination of the policies in relation to them.
 
@@ -4261,17 +4291,13 @@ Except as otherwise provided in this constitution or in any other law which is n
 
 [[START OF PAGE 153]]
 
-#### 270.
-
-#### 271.
-
-#### 272.
-
 ## CHAPTER TWENTY-TWO
 
 ### CHIEFTAINCY
 
-(1) The institution of chieftaincy, together with its traditional councils as established by customary law and usage, is hereby guaranteed .
+#### 270.
+
+(1) The institution of chieftaincy, together with its traditional councils as established by customary law and usage, is hereby guaranteed.
 
 (2) Parliament shall have no power to enact any law which-
 
@@ -4285,17 +4311,19 @@ Except as otherwise provided in this constitution or in any other law which is n
 
 (b) a traditional council or a Regional House of Chiefs or the National House of Chiefs to establish and operate a procedure for the registration of chiefs and the public notification in the Gazette or otherwise of the status of persons as chiefs in Ghana.
 
+#### 271.
+
 (1) There shall be a National House of Chiefs.
 
 (2) The House of Chiefs of each region shall elect as members of the National House of Chiefs five paramount chiefs from the region.
 
 (3) Where in a region there are fewer than five paramount chiefs, the House of Chiefs of the region shall elect such number of divisional chiefs as shall make up the required representation of chiefs for the region.
 
+#### 272.
+
 [[END OF PAGE 153]]
 
 [[START OF PAGE 154]]
-
-#### 273.
 
 The National House of Chiefs shall -
 
@@ -4306,6 +4334,8 @@ The National House of Chiefs shall -
 (c) undertake an evaluation of traditional customs and usages with a view to eliminating those customs and usages that are outmoded and socially harmful;
 
 (d) perform such other functions, not being inconsistent with any function assigned to the House of Chiefs of a region, as Parliament may refer to it.
+
+#### 273.
 
 (1) The National House of Chiefs shall have appellate jurisdiction in any cause or matter affecting chieftaincy which have been determined by the Regional House of Chiefs in a region, from which appellate jurisdiction there shall be an appeal to the Supreme Court, with the leave of the National House of Chiefs or the Supreme Court.
 
@@ -4321,21 +4351,21 @@ The National House of Chiefs shall -
 
 [[START OF PAGE 155]]
 
-#### 274.
-
 (a) which lies within the competence of two or more Regional houses of Chiefs; or
 
 (b) which is not properly within the jurisdiction of a Regional House of Chiefs; or
 
 (c) which cannot otherwise be dealt with by a Regional House of Chiefs.
 
-- An appeal shall lie as of right in respect of any cause or matter dealt with by a Judicial Committee of the National House of Chiefs under clause (5) of this article to the Supreme Court.
+(6) An appeal shall lie as of right in respect of any cause or matter dealt with by a Judicial Committee of the National House of Chiefs under clause (5) of this article to the Supreme Court.
 
-- There shall be established in and for each region of Ghana a Regional House of Chiefs.
+#### 274.
 
-- A Regional House of Chiefs shall consist of such members as Parliament may, by law, determine.
+(1) There shall be established in and for each region of Ghana a Regional House of Chiefs.
 
-- A Regional House of Chiefs shall -
+(2) A Regional House of Chiefs shall consist of such members as Parliament may, by law, determine.
+
+(3) A Regional House of Chiefs shall -
 
 (a) perform such functions as may be conferred upon it by or under an Act of Parliament;
 
@@ -4353,23 +4383,23 @@ The National House of Chiefs shall -
 
 [[START OF PAGE 156]]
 
-#### 275.
-
-#### 276.
-
-#### 277.
-
 (4) The original and appellate jurisdiction of a Regional House of Chiefs shall be exercised by a Judicial Committee of the Regional House of Chiefs consisting of three chiefs appointed by the Regional House of Chiefs from among its members.
 
-(5) A Judicial Committee of a Regional Chiefs shall be assisted by a lawyer of not less than five years' standing appointed by the Regional House of Chiefs in the recommendation of the Attorney-General.
+(5) A Judicial Committee of a Regional House of Chiefs shall be assisted by a lawyer of not less than five years' standing appointed by the Regional House of Chiefs on the recommendation of the Attorney-General.
 
 (6) A member of a Judicial Committee of a Regional House of Chiefs may be removed from office on the ground of proven misbehaviour or infirmity of mind or body by the votes of not less than two-thirds of all the members of the Regional House of Chiefs.
 
+#### 275.
+
 A person shall not be qualified as a chief if he has been convicted for high treason, treason, high crime or for an offence involving the security of the State, fraud, dishonesty or moral turpitude.
+
+#### 276.
 
 (1) A chief shall not take part in active party politics; and any chief wishing to do so and seeking election to Parliament shall abdicate his stool or skin.
 
 (2) Notwithstanding clause (1) of this article and paragraph (c) of clause (3) of article 94 of this Constitution, a chief may be appointed to any public office for which he is otherwise qualified.
+
+#### 277.
 
 In this Chapter unless the context otherwise requires, "chief" means a person, who, hailing from the appropriate family and lineage, has been validly nominated, elected or selected and enstooled, enskinned or installed as a chief or queen mother in accordance with the relevant customary law and usage.
 
@@ -4377,12 +4407,13 @@ In this Chapter unless the context otherwise requires, "chief" means a person, w
 
 [[START OF PAGE 157]]
 
-#### 278.
-
 ## CHAPTER TWENTY-THREE
+
 ### COMMISSIONS OF INQUIRY
 
-- Subject to article (5) of this Constitution, the President shall, by constitutional instrument, appoint a commission of inquiry into any matter of public interest where-
+#### 278.
+
+(1) Subject to article 5 of this Constitution, the President shall, by constitutional instrument, appoint a commission of inquiry into any matter of public interest where-
 
 (a) the President is satisfied that a commission of inquiry should be appointed; or
 
@@ -4392,7 +4423,7 @@ In this Chapter unless the context otherwise requires, "chief" means a person, w
 
 (2) A commission appointed under clause (1) of this article may consist of a sole commissioner or two or more persons one of whom shall be appointed the chairman of the commission.
 
-- A person shall not be appointed a sole commissioner or the chairman of a commission of inquiry under this article unless he is -
+(3) A person shall not be appointed a sole commissioner or the chairman of a commission of inquiry under this article unless he is -
 
 (a) a Justice of the Superior Court of Judicature; or
 
@@ -4410,9 +4441,7 @@ In this Chapter unless the context otherwise requires, "chief" means a person, w
 
 #### 279.
 
-#### 280.
-
-- A commission of inquiry shall have the powers, rights and privileges of the High Court or a Justice of the High Court at a trial, in respect of -
+(1) A commission of inquiry shall have the powers, rights and privileges of the High Court or a Justice of the High Court at a trial, in respect of -
 
 (a) enforcing the attendance of witnesses and examining them on oath, affirmation or otherwise;
 
@@ -4420,9 +4449,11 @@ In this Chapter unless the context otherwise requires, "chief" means a person, w
 
 (c) the issue of a commission or request to examine witnesses abroad.
 
-- A sole commissioner or a member of a commission of inquiry shall not be liable to any action or suit in respect of any matter or thing done by him in the performance of his function as a commissioner or member.
+(2) A sole commissioner or a member of a commission of inquiry shall not be liable to any action or suit in respect of any matter or thing done by him in the performance of his function as a commissioner or member.
 
-- A commission of inquiry shall-
+#### 280.
+
+(1) A commission of inquiry shall-
 
 (a) make a full, faithful and impartial inquiry into any matter specified in the instrument of appointment;
 
@@ -4432,17 +4463,13 @@ In this Chapter unless the context otherwise requires, "chief" means a person, w
 
 (2) Where a commission of inquiry makes an adverse finding against any person, the report of the commission of inquiry shall, for the purposes of this Constitution, be deemed to be the judgment of the High Court; and accordingly, an appeal shall lie as of right from the finding of the commission to the Court of Appeal.
 
-- The President shall, subject to clause (4) of this article cause to be published the report of a commission of inquiry together with the White Paper on it within six months after the date of the submission of the report by the commission.
+(3) The President shall, subject to clause (4) of this article cause to be published the report of a commission of inquiry together with the White Paper on it within six months after the date of the submission of the report by the commission.
 
-- Where the report of a commission of inquiry is not to be published, the President shall issue a statement to that effect giving reasons why the report is not to be published.
+(4) Where the report of a commission of inquiry is not to be published, the President shall issue a statement to that effect giving reasons why the report is not to be published.
 
 [[END OF PAGE 158]]
 
 [[START OF PAGE 159]]
-
-#### 281.
-
-#### 282.
 
 (5) A finding of a commission of inquiry shall not have the effect of a judgment of the High Court as provided under clause (2) of this article; unless
 
@@ -4452,9 +4479,13 @@ In this Chapter unless the context otherwise requires, "chief" means a person, w
 
 (6) The right of appeal conferred by clause (2) of this article on a person against whom a finding has been made, shall be exercisable within three months after the occurrence of either of the events described in clause (5) of this article or such other time as the High Court or the Court of Appeal may, by special leave and on such conditions as it may consider just, allow.
 
+#### 281.
+
 (1) Except as may be otherwise ordered by the commission in the interest of public morality, public safety or public order, the proceedings of a commission of inquiry shall be held in public.
 
 (2) Subject to the provisions of this Chapter, the Rules of Court Committee established under article 157 of this Constitution shall, by constitutional instrument, make rules regulating the practice and procedure of all commissions of inquiry and for appeals from commissions of inquiry.
+
+#### 282.
 
 (1) Any person whose conduct is the subject of inquiry by a commission of inquiry, or who may, in any way be implicated or concerned in the matter under inquiry, is entitled to be represented by a lawyer at the inquiry; and any other person who may consider it desirable that he should be represented by a lawyer shall be allowed to be so represented.
 
@@ -4472,21 +4503,21 @@ A witness before a commission of inquiry is entitled to the same immunities and 
 
 [[START OF PAGE 161]]
 
-#### 284.
-
-#### 285.
-
-#### 286.
-
 ## CHAPTER TWENTY-FOUR
 
 ### CODE OF CONDUCT FOR PUBLIC OFFICERS
 
+#### 284.
+
 A public officer shall not put himself in a position where his personal interest conflicts or is likely to conflict with the performance of the functions of his office.
+
+#### 285.
 
 No person shall be appointed or act as the Chairman of the governing body of a public corporation or authority while he holds a position in the service of that corporation or authority.
 
-- A person who holds a public office mentioned in clause (5) of this article shall submit to the Auditor-General a written declaration of all property or assets owned by, or liabilities owed by, him whether directly or indirectly.
+#### 286.
+
+(1) A person who holds a public office mentioned in clause (5) of this article shall submit to the Auditor-General a written declaration of all property or assets owned by, or liabilities owed by, him whether directly or indirectly.
 
 (a) within three months after the coming into force of this Constitution or before taking office, as the case may be,
 
@@ -4494,9 +4525,9 @@ No person shall be appointed or act as the Chairman of the governing body of a p
 
 (c) at the end of his term of office.
 
-- Failure to declare or knowingly making false declaration shall be a contravention of this Constitution and shall be dealt with in accordance with article 287 of this Constitution.
+(2) Failure to declare or knowingly making false declaration shall be a contravention of this Constitution and shall be dealt with in accordance with article 287 of this Constitution.
 
-- The declaration made under clause (1) of this article shall, on demand, be produced in evidence-
+(3) The declaration made under clause (1) of this article shall, on demand, be produced in evidence-
 
 (a) before a court of competent jurisdiction; or
 
@@ -4534,7 +4565,7 @@ No person shall be appointed or act as the Chairman of the governing body of a p
 
 (6) The Auditor-General shall make a written declaration of his assets and liabilities to the President in the manner and subject to the conditions provided in clauses (1) to (3) of this article.
 
-- Before entering upon the duties of his office, a person appointed to an office to which the provisions of this article apply, shall take and subscribe the oath of allegiance, the oath of secrecy and the official oath set out in the Second Schedule to this Constitution, or any other oath appropriate to his office.
+(7) Before entering upon the duties of his office, a person appointed to an office to which the provisions of this article apply, shall take and subscribe the oath of allegiance, the oath of secrecy and the official oath set out in the Second Schedule to this Constitution, or any other oath appropriate to his office.
 
 [[END OF PAGE 162]]
 
@@ -4542,23 +4573,23 @@ No person shall be appointed or act as the Chairman of the governing body of a p
 
 #### 287.
 
-#### 288.
-
 (1) An allegation that a public officer has contravened or has not complied with a provision of this Chapter shall be made to the Commissioner for Human Rights and Administrative Justice and, in the case of the Commissioner of Human Rights and Administrative Justice, to the Chief Justice who shall, unless the person concerned makes a written admission of the contravention or non-compliance, cause the matter to be investigated.
 
 (2) The Commissioner of Human Rights and Administrative Justice or the Chief Justice as the case may be, may take such action as he considers appropriate in respect of the results of the investigation or the admission.
 
-In this Chapter, unless the context other wise requires, "public officer" means a person who holds a public office.
+#### 288.
+
+In this Chapter, unless the context otherwise requires, "public officer" means a person who holds a public office.
 
 [[END OF PAGE 163]]
 
 [[START OF PAGE 164]]
 
-#### 293.
-
 ## CHAPTER TWENTY-SIX
 
 ### MISCELLANEOUS
+
+#### 293.
 
 (1) Where a person has a claim against the Government, that claim may be enforced as of right by proceedings taken against the Government for that purpose without the grant of a fiat or the use of the process known as petition of right.
 
@@ -4582,8 +4613,6 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 [[START OF PAGE 165]]
 
-#### 294.
-
 (a) anything done or omitted to be done by any person while discharging or purporting to discharge responsibilities of a judicial nature vested in him; or
 
 (b) any act, neglect or default of an officer of the Government unless that officer-
@@ -4598,6 +4627,8 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 (b) by the Government against any person other than an employee of the Government, in respect of the liability to which it is so subject, as if the Government were a private person of full age and capacity.
 
+#### 294.
+
 (1) For the purposes of enforcing any provision of this Constitution, a person is entitled to legal aid in connection with any proceedings relating to this Constitution if he has reasonable grounds for taking, defending, prosecuting or being a party to the proceedings.
 
 (2) Subject to clause (1) of this article, Parliament shall, by or under an Act of Parliament, regulate the grant of legal aid.
@@ -4608,11 +4639,11 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 [[START OF PAGE 166]]
 
-#### 295.
-
 (4) For the purposes of this article, legal aid shall consist of representation by a lawyer, including such assistance as is given by a lawyer, in the steps preliminary or incidental to any proceedings or arriving at or giving effect to a compromise to avoid or to bring to an end any proceedings.
 
-- In this Constitution, unless the context otherwise requires-
+#### 295.
+
+(1) In this Constitution, unless the context otherwise requires-
 
 "Act of Parliament" means an Act enacted by Parliament and includes an Ordinance;
 
@@ -4624,7 +4655,7 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 "commission of inquiry" includes a committee of inquiry;
 
-"constitutional instrument" means an instrument made under a power conferred by this constitution;
+"constitutional instrument" means an instrument made under a power conferred by this Constitution;
 
 "court" means a court of competent jurisdiction established by or under the authority of this Constitution and includes a tribunal;
 
@@ -4632,7 +4663,7 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 "District Assembly" includes a Metropolitan and a Municipal Assembly;
 
-"enactment" means an Act of Parliament, a Decree, a Law or of a constitutional or of a statutory instrument;
+"enactment" means an Act of Parliament, a Decree, a Law or a constitutional or statutory instrument;
 
 "entrenched provision" has the meaning assigned to it in article 290 of this Constitution;
 
@@ -4658,13 +4689,13 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 "oath of allegiance" means the oath of allegiance specified in the Second Schedule to this Constitution;
 
-"paramount chief" means a person who has been nominated elected and installed as a paramount chief in accordance with customary law and usage;
+"paramount chief" means a person who has been nominated, elected and installed as a paramount chief in accordance with customary law and usage;
 
 "public corporation" means a corporation or any other body of persons established by an Act of Parliament or set up out of funds provided by Parliament or other public funds;
 
-"public interest" includes any right or advantage which ensures or is intended to ensure to the benefit generally of the whole of the people of Ghana;
+"public interest" includes any right or advantage which enures or is intended to enure to the benefit generally of the whole of the people of Ghana;
 
-"public office" includes an office the emoluments attached to which are paid directly from the consolidated Fund or directly out of moneys provided by Parliament and an office in a public corporation established entirely out of public funds or moneys provided by Parliament;
+"public office" includes an office the emoluments attached to which are paid directly from the Consolidated Fund or directly out of moneys provided by Parliament and an office in a public corporation established entirely out of public funds or moneys provided by Parliament;
 
 "public service" includes service in any civil office of Government, the emoluments attached to which are paid directly from the Consolidated Fund or directly out of moneys provided by Parliament and service with a public corporation;
 
@@ -4674,7 +4705,7 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 [[START OF PAGE 168]]
 
-"Rules of court Committee" means the Rules of court Committee established by article 157 of this Constitution;
+"Rules of Court Committee" means the Rules of Court Committee established by article 157 of this Constitution;
 
 "Service Chiefs" includes Army Chief of Staff, Chief of Naval Staff and Chief of Air Staff;
 
@@ -4690,19 +4721,17 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 "treason" means treason as defined in article 19 of this Constitution.
 
-- In this Constitution and in any other law -
+(2) In this Constitution and in any other law -
 
 (a) a reference to the holder of an office by the term designating his office, shall, unless the context otherwise requires, be construed as including a reference to a person for the time being lawfully acting in or performing the functions of that office;
 
 (b) references to the power to remove a public officer from his office shall be construed, subject to clause (4) of this article, as including references to a power conferred by any law to require or permit that officer to retire from the public service.
 
-- Nothing in paragraph (b) of clause (2) of this article shall be construed as conferring on any person or authority power to require a Justice of the Superior court of Judicature or the Auditor-General to retire from the public service.
+(3) Nothing in paragraph (b) of clause (2) of this article shall be construed as conferring on any person or authority power to require a Justice of the Superior Court of Judicature or the Auditor-General to retire from the public service.
 
 [[END OF PAGE 168]]
 
 [[START OF PAGE 169]]
-
-#### 296.
 
 (4) A power conferred by a law to permit a person to retire from the public service shall, in the case of a public officer who may be removed from office by some person or authority, other than a commission established by this Constitution, vest in the President acting in accordance with the advice of the appropriate authority.
 
@@ -4710,25 +4739,27 @@ In this Chapter, unless the context other wise requires, "public officer" means 
 
 (6) A provision in this Constitution that vests in a person or authority power to remove a public officer from his office, shall be without prejudice to the power of any person or authority to abolish an office or to a law for compulsory retirement of public officers on attaining the age specified in the law.
 
-(7) Where power is vested by this Constitution in any person or authority to appoint a person to act in or perform the functions of an office if the holder of the office could have performed those functions.
+(7) Where power is vested by this Constitution in any person or authority to appoint a person to act in or perform the functions of an office if the holder of the office is himself unable to perform those functions, no such appointment shall be called in question on the ground that the holder of the office could have performed those functions.
 
 (8) No provision of this Constitution or of any other law to the effect that a person or authority shall not be subject to the direction or control of any other person or authority in the performance of any functions under this Constitution or that law, shall preclude a court from exercising jurisdiction in relation to any question whether that person or authority has performed those functions in accordance with this Constitution or the law.
 
 (9) In this Constitution references to the alteration of any of the provisions of this Constitution or of an Act of Parliament include references to the amendment, modification, reenactment with amendment or modification, the suspension or repeal of that provision and the making of a different provision in place of that provision.
 
+#### 296.
+
 Where in this Constitution or in any other law discretionary power is vested in any person or authority -
 
 (a) that discretionary power shall be deemed to imply a duty to be fair and candid;
 
-(b) the exercise of the discretionary power shall not be arbitrary, capricious or biased wither by resentment, prejudice or personal dislike and shall be in accordance with due process of law; and
+(b) the exercise of the discretionary power shall not be arbitrary, capricious or biased whether by resentment, prejudice or personal dislike and shall be in accordance with due process of law; and
 
 [[END OF PAGE 169]]
 
 [[START OF PAGE 170]]
 
-#### 297.
-
 (c) where the person or authority is not a judge or other judicial officer, there shall be published by constitutional instrument or statutory instrument, regulations that are not inconsistent with the provisions of this Constitution or that other law to govern the exercise of the discretionary power.
+
+#### 297.
 
 In this Constitution and in any other law -
 
@@ -4736,7 +4767,7 @@ In this Constitution and in any other law -
 
 (b) where a power is conferred or a duty is imposed, the power may be exercised and the duty shall be performed, from time to time, as occasion requires;
 
-(c) where a power is given to a person or authority to do or enforce the doing of an act or a thing, all such powers shall be deemed to be also given as are necessary to enable that person or authority to do or enforce the doing of the act of thing;
+(c) where a power is given to a person or authority to do or enforce the doing of an act or a thing, all such powers shall be deemed to be also given as are necessary to enable that person or authority to do or enforce the doing of the act or thing;
 
 (d) where a power is conferred to make any constitutional or statutory instrument, regulation or rule or pass any resolution or give any direction, the power shall be construed as including the power, exercisable in the same manner, to amend or to revoke the constitutional or statutory instrument, regulation, rules or resolution or direction as the case may be;
 
@@ -4752,15 +4783,15 @@ In this Constitution and in any other law -
 
 [[START OF PAGE 171]]
 
-#### 298.
-
-#### 299.
-
 (i) words directing or empowering a Minister of State to do an act or a thing, or otherwise applying to him by the designation of his office, include a person acting for him, or if the office is vacant, a person designated to act in that office by or under the authority of an Act of Parliament and also his successors in office and all his deputies or other assistants;
 
 (j) where a power is conferred or a duty is imposed on the holder of an office as such, the power may be exercised and the duty shall be performed by the person for the time being charged with the performance of the functions of that office.
 
-Subject to the provisions of Chapter 25 of this Constitution, where on any matter, whether arising out of this constitution or otherwise, there is no provision, express or by necessary implication of this constitution which deals with the matter, that has arisen, Parliament shall, by an Act of Parliament, not being inconsistent with any provision of this Constitution, provide for that matter to be dealt with.
+#### 298.
+
+Subject to the provisions of Chapter 25 of this Constitution, where on any matter, whether arising out of this Constitution or otherwise, there is no provision, express or by necessary implication of this Constitution which deals with the matter, that has arisen, Parliament shall, by an Act of Parliament, not being inconsistent with any provision of this Constitution, provide for that matter to be dealt with.
+
+#### 299.
 
 The transitional provisions specified in the First Schedule to this Constitution shall have effect notwithstanding anything to the contrary in this Constitution.
 
@@ -4768,53 +4799,53 @@ The transitional provisions specified in the First Schedule to this Constitution
 
 [[START OF PAGE 172]]
 
-#### 1.
-
-#### 2.
-
 ## FIRST SCHEDULE
 
 ### TRANSITIONAL PROVISIONS
 
 ### PART I - FIRST PRESIDENT
 
-- Notwithstanding anything in this constitution, the person duly elected President of Ghana under the law in force immediately before the coming into force of this Constitution shall be taken to have been duly elected for the purposes of this Constitution.
+#### 1.
 
-- The President referred to in subsection (1) of this section shall assume office as President on the date of the coming into force of this Constitution notwithstanding anything in this Constitution.
+(1) Notwithstanding anything in this Constitution, the person duly elected President of Ghana under the law in force immediately before the coming into force of this Constitution shall be taken to have been duly elected for the purposes of this Constitution.
+
+(2) The President referred to in subsection (1) of this section shall assume office as President on the date of the coming into force of this Constitution notwithstanding anything in this Constitution.
 
 ### PART II - FIRST PARLIAMENT
 
-- Notwithstanding anything in this Constitution, the persons duly elected as members of Parliament under the law in force immediately before the coming into force of this Constitution, shall be taken to have been duly elected members of Parliament for the purposes of this Constitution.
+#### 2.
 
-- The person who was Clerk of the Consultative Assembly or such other public officer as the Provisional National Defense Council may designate, shall, notwithstanding anything to the contrary in this Constitution, act as Clerk to Parliament until a Clerk is appointed under article 124 of this Constitution.
+(1) Notwithstanding anything in this Constitution, the persons duly elected as members of Parliament under the law in force immediately before the coming into force of this Constitution, shall be taken to have been duly elected members of Parliament for the purposes of this Constitution.
 
-- The person who was Clerk of the Consultative Assembly established under the Consultative Assembly Law 1991 (PNDCL.253) or other person designated under subsection (2) of this section shall, not later than seven days after the coming into force of this Constitution, summon a meeting of parliament for the election of the Speaker, the taking of oaths by members of Parliament, the swearing in of the President and the approval of Ministers of State and Deputy Ministers for appointment under this Constitution.
+(2) The person who was Clerk of the Consultative Assembly or such other public officer as the Provisional National Defence Council may designate, shall, notwithstanding anything to the contrary in this Constitution, act as Clerk to Parliament until a Clerk is appointed under article 124 of this Constitution.
 
-- For the avoidance of doubt, any notice given before the coming into force of this Constitution summoning Parliament to meet for the purposes
+(3) The person who was Clerk of the Consultative Assembly established under the Consultative Assembly Law 1991 (PNDCL.253) or other person designated under subsection (2) of this section shall, not later than seven days after the coming into force of this Constitution, summon a meeting of Parliament for the election of the Speaker, the taking of oaths by members of Parliament, the swearing in of the President and the approval of Ministers of State and Deputy Ministers for appointment under this Constitution.
+
+(4) For the avoidance of doubt, any notice given before the coming into force of this Constitution summoning Parliament to meet for the purposes
 
 [[END OF PAGE 172]]
 
 [[START OF PAGE 173]]
 
-#### 3.
+of subsection (3) of this section, shall be deemed to be a valid notice for all purposes.
 
-#### 4.
-
-#### 5.
-
-- of subsection (3) of this section, shall be deemed to be a valid notice for all purposes.
-
-- The Standing Orders of the Parliament under the constitution of the Republic of Ghana, 1979 shall apply to the proceedings of Parliament until Parliament otherwise determines under article 110 of this Constitution.
+(5) The Standing Orders of the Parliament under the Constitution of the Republic of Ghana, 1979 shall apply to the proceedings of Parliament until Parliament otherwise determines under article 110 of this Constitution.
 
 ### PART III - THE JUDICIARY
 
-- The Supreme Court, the Court of Appeal and the High Court in existence immediately before the coming into force of this Constitution shall be deemed to have been established under this Constitution and shall perform the functions of the Supreme Court, the Court of Appeal and the High Court specified respectively in Chapter 11 of this Constitution.
+#### 3.
 
-- All proceedings pending before any court referred to in subsection (1) of this section immediately before the coming into force of this Constitution may be proceeded with and completed in that Court notwithstanding anything in this Constitution.
+(1) The Supreme Court, the Court of Appeal and the High Court in existence immediately before the coming into force of this Constitution shall be deemed to have been established under this Constitution and shall perform the functions of the Supreme Court, the Court of Appeal and the High Court specified respectively in Chapter 11 of this Constitution.
 
-- A Justice of the Supreme Court, the Court of Appeal or the High Court holding office immediately before the coming into force of this Constitution, shall continue to hold office as if appointed to that office under this Constitution.
+(2) All proceedings pending before any court referred to in subsection (1) of this section immediately before the coming into force of this Constitution may be proceeded with and completed in that Court notwithstanding anything in this Constitution.
 
-- Any person to whom this section applies shall, on the coming into force of this Constitution, take and subscribe the oath of allegiance and the judicial oath set out in the Second Schedule to this Constitution.
+#### 4.
+
+(1) A Justice of the Supreme Court, the Court of Appeal or the High Court holding office immediately before the coming into force of this Constitution, shall continue to hold office as if appointed to that office under this Constitution.
+
+(2) Any person to whom this section applies shall, on the coming into force of this Constitution, take and subscribe the oath of allegiance and the judicial oath set out in the Second Schedule to this Constitution.
+
+#### 5.
 
 The Public Tribunals Board shall cease to exist within six months after the coming into force of this Constitution and its functions, assets and liabilities are transferred to the Judicial Council.
 
@@ -4824,15 +4855,15 @@ The Public Tribunals Board shall cease to exist within six months after the comi
 
 #### 6.
 
-#### 7.
-
 Parliament shall, within six months after the coming into force of this Constitution-
 
 (a) prescribe by law the jurisdiction of Regional Tribunals for the purposes of article 143 of this Constitution; and
 
 (b) establish lower courts or tribunals for the purposes of article 126 of this Constitution.
 
-- All cases partly heard before any of the following Public Tribunals immediately before the coming into force of this Constitution, may be continued and completed before that public tribunal.
+#### 7.
+
+(1) All cases partly heard before any of the following Public Tribunals immediately before the coming into force of this Constitution, may be continued and completed before that public tribunal.
 
 (a) the National Public Tribunal;
 
@@ -4842,21 +4873,21 @@ Parliament shall, within six months after the coming into force of this Constitu
 
 (d) Community Public Tribunals.
 
-- All cases partly heard before any Circuit Court, District Court Grade I or District Court Grade II immediately before the coming into force of this Constitution may be continued and completed before the Court.
+(2) All cases partly heard before any Circuit Court, District Court Grade I or District Court Grade II immediately before the coming into force of this Constitution may be continued and completed before the Court.
 
-- The National Public Tribunal shall cease to exist upon completion of the partly heard cases referred to in subsection (1) of this section, or within six months after the coming into force of this Constitution, whichever is earlier.
+(3) The National Public Tribunal shall cease to exist upon completion of the partly heard cases referred to in subsection (1) of this section, or within six months after the coming into force of this Constitution, whichever is earlier.
 
-- All cases other than those referred to in subsection (1) of this section pending before the National Public Tribunal immediately before the coming into force of this Constitution, shall be transferred to such court of tribunal as the Chief Justice may direct.
+(4) All cases other than those referred to in subsection (1) of this section pending before the National Public Tribunal immediately before the coming into force of this Constitution, shall be transferred to such court or tribunal as the Chief Justice may direct.
 
-- Any person employed with any Public Tribunal immediately before the coming into force of this Constitution and who is qualified and suitable for appointment to any office or position in the Judicial Service, may be so appointed if recommended to be appointed by the Judicial Council.
+(5) Any person employed with any Public Tribunal immediately before the coming into force of this Constitution and who is qualified and suitable for appointment to any office or position in the Judicial Service, may be so appointed if recommended to be appointed by the Judicial Council.
 
 [[END OF PAGE 174]]
 
 [[START OF PAGE 175]]
 
-#### 8.
-
 ### PART - IV MISCELLANEOUS
+
+#### 8.
 
 (1) A person who immediately before the coming into force of this Constitution held or was acting in an office in existence immediately before the coming into force of this Constitution, shall be deemed to have been appointed as far as is consistent with the provisions of this Constitution, to hold or act in the equivalent office under this Constitution.
 
@@ -4870,19 +4901,13 @@ Parliament shall, within six months after the coming into force of this Constitu
 
 (6) A person who was entitled to retire on his salary immediately before the coming into force of this Constitution shall have the same terms and condition of service relating to retiring awards as he enjoyed immediately before the coming into force of this Constitution; and accordingly, nothing in this Constitution or in this Schedule shall adversely affect the conditions of service of any such person.
 
-(7) The terms and conditions of service of a person to whom subsection (1) of his section applies shall not be less favourable than those applicable to him immediately before the coming into force of this Constitution.
+(7) The terms and conditions of service of a person to whom subsection (1) of this section applies shall not be less favourable than those applicable to him immediately before the coming into force of this Constitution.
 
 [[END OF PAGE 175]]
 
 [[START OF PAGE 176]]
 
 #### 9.
-
-#### 10.
-
-#### 11.
-
-#### 12.
 
 The first appointments to the following offices shall be made within six months after the assumption of office of the President.-
 
@@ -4896,67 +4921,73 @@ The first appointments to the following offices shall be made within six months 
 
 (i) the National Council for Higher Education howsoever described;
 
-(ii) th e National Media Commission; and
+(ii) the National Media Commission; and
 
 (iii) the National Commission for Civic Education.
 
+#### 10.
+
 Until Parliament enacts an Act of Parliament in accordance with article 192 of this Constitution for the establishment or operation of a public corporation, a public corporation in existence immediately before the coming into force of this Constitution shall continue its operations under the enactment under which it was established.
+
+#### 11.
 
 The office of the Ombudsman in existence immediately before the coming into force of this Constitution shall, until the President appoints the Commissioner for Human Rights and Administrative Justice and his Deputies, and provision is otherwise made, continue as if it forms part of the Office of the Commission for Human Rights and Administrative Justice.
 
-Notwithstanding anything in this Constitution to the contrary, all cases pending before the Office of Revenue Commissioners established under the Revenue Commissioners Law, 1984 (PNDCL 80) the National Investigations Committee established under the National Investigations Committee Law, 1982 (PNDCL.2) and the State Houses (Allocation
+#### 12.
+
+Notwithstanding anything in this Constitution to the contrary, all cases pending before the Office of Revenue Commissioners established under the Revenue Commissioners Law, 1984 (PNDCL 80), the National Investigations Committee established under the National Investigations Committee Law, 1982 (PNDCL 2) and the State Houses (Allocation
 
 [[END OF PAGE 176]]
 
 [[START OF PAGE 177]]
 
+Policy and Implementation) Commission established under the State Houses (Allocation Policy and Implementation) Commission Law, 1984 (PNDCL 83) in existence immediately before the coming into force of this Constitution may be proceeded with and completed by that Commission or Committee, until the submission of its report or until it is otherwise dissolved in accordance with law.
+
 #### 13.
 
-#### 14.
-
-#### 15.
-
-#### 16.
-
-#### 17.
-
-Policy and Implementation) Commission established under the State Houses (Allocation Policy and Implementation) Commission law, 1984 (PNDCL 83) in existence immediately before the coming into force of this Constitution may be proceeded with and completed by that Commission or Committee, until the submission of its report or until it is otherwise dissolved in accordance with law.
-
 Notwithstanding article 199 of this Constitution, a person is not entitled to receive pension under the Social Security Scheme under the Social Security Law, 1991 (PNDCL 247) before attaining the age of fifty-five years unless Parliament by law otherwise determines.
+
+#### 14.
 
 (1) Notwithstanding anything in this Constitution to the contrary any commission or committee of inquiry in existence immediately before the coming into force of this Constitution may continue in existence until the submission of its report or until it is otherwise dissolved in accordance with law.
 
 (2) For the avoidance of doubt, the report and findings of a commission or committee of inquiry established before the coming into force of this Constitution under any enactment shall have the same effect as the report or findings of a commission of inquiry established under this Constitution.
 
+#### 15.
+
 Where any matter or thing has been commenced before the coming into force of this Constitution by a person or authority that has power for the purpose under the existing law, that matter or thing may be carried on and completed by the person or authority having power for the purpose after the coming into force of this Constitution; and it shall not be necessary for the person or authority to commence the matter or thing afresh.
 
+#### 16.
+
 The Presidential seal, the Public seal, the seals of the Superior Courts as well as any prescribed forms in use under any enactment in force immediately before the coming into force of this Constitution shall continue to be used until provision is otherwise made for them.
+
+#### 17.
 
 [[END OF PAGE 177]]
 
 [[START OF PAGE 178]]
 
-#### 18.
-
-#### 19.
-
-#### 20.
-
-#### 21.
-
-#### 22.
-
 The prerogative of mercy of the President under article 72 of this Constitution may be exercised in respect of any criminal offence committed before the coming into force of this Constitution as it may in respect of a criminal offence committed thereafter.
+
+#### 18.
 
 (1) The Consolidated Fund and the Contingency Fund in existence immediately before the coming into force of this Constitution, shall, until otherwise provided by law, continue in existence as the Consolidated Fund and the Contingency Fund referred to in article 175 of this Constitution.
 
 (2) Subject to this Constitution, every payment required or authorised to be made into a public fund or out of a public fund under any enactment in force immediately before the coming into force of this Constitution shall continue to be made into or out of that fund.
 
+#### 19.
+
 Notwithstanding any law to the contrary, the financial estimates in operation for the financial year in being at the coming into force of this Constitution shall, until provision is otherwise made by Act of Parliament, continue and shall have full effect.
+
+#### 20.
 
 All compensations, pensions, gratuities and similar allowances granted in accordance with the provisions of any Constitution or any other law formerly in force in Ghana and which were payable immediately before the coming into force of this Constitution, shall, notwithstanding the abrogation or repeal of any such Constitution or law, as the case may be, continue to be payable and are charged on the Consolidated Fund.
 
+#### 21.
+
 Where immediately before the coming into force of this Constitution any existing enactment had not been brought into force or was to come into force on a date subsequent to such coming into force, the enactment may be brought into force in accordance with its terms, or shall come into force upon such subsequent date, as the case may be.
+
+#### 22.
 
 (1) The register of voters for public election and referenda in existence immediately before the coming into force of this Constitution shall, on the
 
@@ -4964,75 +4995,75 @@ Where immediately before the coming into force of this Constitution any existing
 
 [[START OF PAGE 179]]
 
-#### 23.
-
-#### 24.
-
-#### 25.
-
-#### 26.
-
 coming into force of this Constitution, have effect as if it was compiled under this Constitution.
 
 (2) Subject to this Constitution, the Interim National Electoral Commission in existence immediately before the coming into force of this Constitution shall, on the coming into force of this Constitution and until the President appoints the members of the Electoral Commission under section 9 of this Schedule, exercise the functions and powers provided for the Electoral Commission in this Constitution.
+
+#### 23.
 
 (1) Until Parliament otherwise provides by law, existing laws regulating the operation of District Assemblies and other local authorities shall continue to regulate their operations.
 
 (2) Until Parliament establishes the District Assemblies Common Fund in accordance with article 252 of this Constitution, all taxes and other moneys collected exclusively for District Assemblies shall continue to be collected exclusively for District Assemblies under the enactments under which they were collected.
 
-The National House of Chiefs, the Regional Houses of Chiefs, the traditional councils and all Judicial Committees of those bodies in existence immediately before the coning into force of this Constitution shall, on the coming into force of this Constitution, continue in existence subject to this Constitution.
+#### 24.
+
+The National House of Chiefs, the Regional Houses of Chiefs, the traditional councils and all Judicial Committees of those bodies in existence immediately before the coming into force of this Constitution shall, on the coming into force of this Constitution, continue in existence subject to this Constitution.
+
+#### 25.
 
 The Oaths Decree, 1972 (NRCD 6), as amended, shall have effect subject to the provisions of this Constitution.
 
+#### 26.
+
 Except where the context otherwise requires and subject to the other provisions of this Part, in all enactments in existence immediately before the coming into force of this Constitution -
 
-(a) for any reference to the Provisional National Defense the Cabinet;
+(a) for any reference to the Provisional National Defence Council there shall be substituted a reference to the Cabinet;
 
 [[END OF PAGE 179]]
 
 [[START OF PAGE 180]]
 
-#### 27.
-
-#### 28.
-
-#### 29.
-
-(b) for any reference to the Secretary to the Provisional National Defense Council where the reference relates to the Cabinet the reference shall be a reference to the Secretary to the Cabinet,
+(b) for any reference to the Secretary to the Provisional National Defence Council where the reference relates to the Cabinet the reference shall be a reference to the Secretary to the Cabinet;
 
 (c) any reference to the Secretary to the Committee of Secretaries shall be a reference to the Head of the Civil Service;
 
 (d) for any reference to a Secretary, being an individual of ministerial rank, there shall be substituted a reference to a Minister;
 
-(e) for any reference to a Member of the Provisional National Defense Council responsible for any subject or department of State there shall be substituted a reference to the Minister responsible for that subject or department of State.
+(e) for any reference to a Member of the Provisional National Defence Council responsible for any subject or department of State there shall be substituted a reference to the Minister responsible for that subject or department of State.
 
-In this Constitution, any reference to the Chief of Defense Staff shall be deemed to include any person who holds or held the office of General Officer Commanding.
+#### 27.
+
+In this Constitution, any reference to the Chief of Defence Staff shall be deemed to include any person who holds or held the office of General Officer Commanding.
+
+#### 28.
 
 (1) A reference to the Government in an enactment in existence immediately before the coming into force of this Constitution, where the reference relates to a legislative function normally performed by Parliament or a National Assembly shall be construed as a reference to Parliament.
 
 (2) A reference to the Government in an enactment in existence immediately before the coming into force of this Constitution, where the reference relates to an executive function of the Government, shall be construed as a reference to the President.
 
-(1) A reference to the Provisional National Defense Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference was originally a reference to the President shall, be construed as a reference to the President.
+#### 29.
 
-(2) A reference to the Provisional National Defense Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference relates to a legislative function normally
+(1) A reference to the Provisional National Defence Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference was originally a reference to the President shall be construed as a reference to the President.
+
+(2) A reference to the Provisional National Defence Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference relates to a legislative function normally
 
 [[END OF PAGE 180]]
 
 [[START OF PAGE 181]]
 
-#### 30.
-
-#### 31.
-
 performed by Parliament or a National Assembly shall be construed as a reference to Parliament.
 
-(3) A reference to the Provisional national Defense Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference relates to an executive function of the Council shall be construed as a reference to the President.
+(3) A reference to the Provisional National Defence Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference relates to an executive function of the Council shall be construed as a reference to the President.
 
-(4) A reference to the Provisional national Defense Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference relates to the making of a statutory instrument, shall be construed as a reference to the President or to any Minister or authority designated by the President.
+(4) A reference to the Provisional National Defence Council in any enactment in existence immediately before the coming into force of this Constitution, where the reference relates to the making of a statutory instrument, shall be construed as a reference to the President or to any Minister or authority designated by the President.
+
+#### 30.
 
 The First President under this Constitution may, at any time within twelve months after assuming office as President, by constitutional instrument, make such provision as may appear necessary for repealing, modifying, adding to or adapting any law for bringing it into accord with the provisions of this Constitution or otherwise for giving effect to this Constitution.
 
-(1) Where any matter that falls to be prescribed or otherwise provided for under this Constitution by Parliament or by any other authority or person, is prescribed or provided for by or under any existing law or is otherwise lawfully prescribed or provided for immediately before the coming into force of this Constitution, that prescription or provision shall, as from the coming into force of this Constitution, have effect with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with this constitution as if made under this Constitution by parliament or, as the case may be, by the other authority or person.
+#### 31.
+
+(1) Where any matter that falls to be prescribed or otherwise provided for under this Constitution by Parliament or by any other authority or person, is prescribed or provided for by or under any existing law or is otherwise lawfully prescribed or provided for immediately before the coming into force of this Constitution, that prescription or provision shall, as from the coming into force of this Constitution, have effect with such modifications, adaptations, qualifications and exceptions as may be necessary to bring it into conformity with this Constitution as if made under this Constitution by Parliament or, as the case may be, by the other authority or person.
 
 (2) For the avoidance of doubt, and without prejudice to the general effect of subsection (1) of this section, where anything is required or authorised by this Constitution to be prescribed or provided for by or under an Act of Parliament, it shall be deemed to be duly prescribed or provided for, if it has been prescribed or provided for by or under an Act, Decree, or a Law in force immediately before the coming into force of this Constitution.
 
@@ -5042,45 +5073,45 @@ The First President under this Constitution may, at any time within twelve month
 
 #### 32.
 
-#### 33.
+(1) Subject to the provisions of articles 257 and 258 of this Constitution, all properties and assets which immediately before the coming into force of this Constitution were vested in any authority or person for the purposes of, or in right of, the Government of Ghana or in the Government of Ghana, shall, on the coming into force of this Constitution, without further assurance than this section, vest in the President.
 
-- Subject to the provisions of articles 257 and 258 of this Constitution, all properties and assets which immediately before the coming into force of this Constitution were vested in any authority or person for the purposes of, or in right of, the Government of Ghana or in the Government of Ghana, shall, on the coming into force of this Constitution, without further assurance than this section, vest in the President.
+(2) Any property which was liable, immediately before the coming into force of this Constitution, to escheat or to be forfeited to the Government of Ghana shall be liable to escheat or to be forfeited to the Government of Ghana under this Constitution.
 
-- Any property which was liable, immediately before the coming into force of this Constitution, to entreat or to be forfeited to the Government of Ghana shall be liable to entreat or to be forfeited to the Government of Ghana under this Constitution.
-
-- Where immediately before the coming into force of this Constitution any person held any property or asset in trust -
+(3) Where immediately before the coming into force of this Constitution any person held any property or asset in trust -
 
 (a) for the President of Ghana under the Constitution that was abrogated on 31st December, 1981; or
 
-(b) for the Provisional National Defense Council or the Government of Ghana;
+(b) for the Provisional National Defence Council or the Government of Ghana;
 
 for the purposes of, or in right of, the Government of Ghana, that person shall, on the coming into force of this Constitution, hold the property or asset subject to the provisions of articles 257 and 258 of this Constitution, on the same trust for the Government of Ghana established under this Constitution.
 
-- In this section, references to property and assets vested in or held in trust shall include property and assets vested in or held in trust immediately before the 31st day of December 1981, for an interest which extended beyond the 30th day of December, 1981 and has not been surrendered.
+(4) In this section, references to property and assets vested in or held in trust shall include property and assets vested in or held in trust immediately before the 31st day of December 1981, for an interest which extended beyond the 30th day of December, 1981 and has not been surrendered.
+
+#### 33.
 
 Subject to section 32 of this Schedule -
 
-(a) where under an existing law, a right, prerogative, power, privilege or function is vested in the Provisional National Defense Council, that right, prerogative, power, privilege or function shall on the coming into force of this Constitution, vest in the President or such other person or authority as is specified under this Constitution who, subject to the provisions of this Constitution or
+(a) where under an existing law, a right, prerogative, power, privilege or function is vested in the Provisional National Defence Council, that right, prerogative, power, privilege or function shall on the coming into force of this Constitution, vest in the President or such other person or authority as is specified under this Constitution who, subject to the provisions of this Constitution or
 
 [[END OF PAGE 182]]
 
 [[START OF PAGE 183]]
 
-#### 34.
-
 any other law, may do all things necessary for its exercise or performance; and
 
 (b) any right, power, privilege, obligation, liability, duty or function vested in, or subsisting against the Government of Ghana by or under an existing law shall continue to so vest or subsist.
 
-(1) No member of the Provisional National Defense Council, Provisional National defence Council Secretary, or other appointees of the Provisional National Defense Council shall be held liable either jointly or severally, for any act or omission during the administration of the Provisional National Defense Council.
+#### 34.
 
-(2) It is not lawful for any court or tribunal to entertain any action or take any decision or make any order or grant any remedy or relief in any proceedings instituted against the Government of Ghana or any person acting under the authority of the Government of Ghana whether before or after the coming into force of this Constitution or against any person or persons acting in concert or individually to assist or bring about the change in Government which took place on the twenty-fourth day of February 1966 on the thirteenth day of January, 1972 , on the fourth day of June 1979 and on the thirty-first day of December 1981 in respect of any act or omission relating to, or consequent upon -
+(1) No member of the Provisional National Defence Council, Provisional National Defence Council Secretary, or other appointees of the Provisional National Defence Council shall be held liable either jointly or severally, for any act or omission during the administration of the Provisional National Defence Council.
 
-(a) the overthrow of the government in power before the formation of the National Liberation council, the National Redemption Council, the Supreme Military Council, the Armed Forces Revolutionary Council and the Provisional National Defense Council; or
+(2) It is not lawful for any court or tribunal to entertain any action or take any decision or make any order or grant any remedy or relief in any proceedings instituted against the Government of Ghana or any person acting under the authority of the Government of Ghana whether before or after the coming into force of this Constitution or against any person or persons acting in concert or individually to assist or bring about the change in Government which took place on the twenty-fourth day of February 1966, on the thirteenth day of January, 1972, on the fourth day of June 1979 and on the thirty-first day of December 1981 in respect of any act or omission relating to, or consequent upon -
 
-(b) the suspension or a abrogation of the Constitutions of 1960, 1969 and 1979; or
+(a) the overthrow of the government in power before the formation of the National Liberation Council, the National Redemption Council, the Supreme Military Council, the Armed Forces Revolutionary Council and the Provisional National Defence Council; or
 
-(c) the establishment of the National Liberation Council, the National Redemption Council, the Supreme Military Council which took office on the ninth day of October 1975, the Supreme Military Council established on the fifth day of July 1978, the Armed Forces Revolutionary Council, or the Provisional National Defense Council; or
+(b) the suspension or abrogation of the Constitutions of 1960, 1969 and 1979; or
+
+(c) the establishment of the National Liberation Council, the National Redemption Council, the Supreme Military Council which took office on the ninth day of October 1975, the Supreme Military Council established on the fifth day of July 1978, the Armed Forces Revolutionary Council, or the Provisional National Defence Council; or
 
 (d) the establishment of this Constitution.
 
@@ -5090,31 +5121,31 @@ any other law, may do all things necessary for its exercise or performance; and
 
 [[START OF PAGE 184]]
 
-#### 35.
-
-National Defense Council or the Armed Forces Revolutionary Council or a member of the Provisional National Defense Council or the Armed Forces Revolutionary Council or by any person appointed by the Provisional National Defense Council or the Armed Forces Revolutionary Council or by any person appointed by the Provisional National Defense Council or the Armed Forces Revolutionary Council in the name of either the Provisional National Defense Council or the Armed Forces Revolutionary Council shall be questioned in any proceedings whatsoever and, accordingly, it shall not be lawful for any court or other tribunal to make any order or grant any remedy or relief in respect of any such act.
+National Defence Council or the Armed Forces Revolutionary Council or a member of the Provisional National Defence Council or the Armed Forces Revolutionary Council or by any person appointed by the Provisional National Defence Council or the Armed Forces Revolutionary Council in the name of either the Provisional National Defence Council or the Armed Forces Revolutionary Council shall be questioned in any proceedings whatsoever and, accordingly, it shall not be lawful for any court or other tribunal to make any order or grant any remedy or relief in respect of any such act.
 
 (4) The provisions of subsection (3) of this section shall have effect notwithstanding that any such action as is referred to in that subsection was not taken in accordance with any procedure prescribed by law.
 
-(5) It is not lawful for any court or tribunal to entertain an action instituted in respect of an act or omission against a person acting or omitting to act, on the instructions or authority of the Provisional National Defense Council or the Armed Forces Revolutionary Council or a member of the Provisional national Defense Council or the Armed Forces Revolutionary council and alleged to be in contravention of any law, whether substantive or procedural, in existence before or during the administration of the Provisional National Defense Council or the Armed Forces Revolutionary Council.
+(5) It is not lawful for any court or tribunal to entertain an action instituted in respect of an act or omission against a person acting or omitting to act, on the instructions or authority of the Provisional National Defence Council or the Armed Forces Revolutionary Council or a member of the Provisional National Defence Council or the Armed Forces Revolutionary Council and alleged to be in contravention of any law, whether substantive or procedural, in existence before or during the administration of the Provisional National Defence Council or the Armed Forces Revolutionary Council.
 
-(1) Subject to subsection (2) of this section, any confiscation of any property and any other penalties imposed by or under the authority of the Armed Forces Revolutionary Council and the provisional national Defense Council under any Decree or Law made by that Council, shall not be reversed by any authority under this Constitution.
+#### 35.
+
+(1) Subject to subsection (2) of this section, any confiscation of any property and any other penalties imposed by or under the authority of the Armed Forces Revolutionary Council and the Provisional National Defence Council under any Decree or Law made by that Council, shall not be reversed by any authority under this Constitution.
 
 (2) Where any property or part of any property of a person was confiscated on the basis of his holding a public or political office or on any other basis, and it is established to the satisfaction of the Commissioner for Human Rights and Administrative Justice that the property or that part was acquired before he assumed the public or political office, or that it was otherwise lawfully acquired, the property or that part shall be returned to that person.
 
-(1) Upon the coming into force of this Constitution, the Provisional National Defense council (Establishment) Proclamation 1981 and the Provisional national Defense Council (Establishment) Proclamation
-
 #### 36.
+
+(1) Upon the coming into force of this Constitution, the Provisional National Defence Council (Establishment) Proclamation, 1981 and the Provisional National Defence Council (Establishment) Proclamation
 
 [[END OF PAGE 184]]
 
 [[START OF PAGE 185]]
 
+(Supplementary and Consequential Provisions) Law, 1982 (PNDCL 42) shall cease to have effect.
+
+(2) Notwithstanding the abrogation of the Proclamation referred to in subsection (1) of this section, any enactment or rule of law in force immediately before the coming into force of this Constitution shall, in so far as it is not inconsistent with a provision of this Constitution, continue in force as if enacted, issued, or made under the authority of this Constitution.
+
 #### 37.
-
-(Supplementary and consequential Provisions) Law, 1982 (PNDCL 42) shall cease to have effect.
-
-- Notwithstanding the abrogation of the Proclamation referred to in subsection (1) of this section, any enactment or rule of law in force immediately before the coming into force of this Constitution shall, in so far as it is not inconsistent with a provision of this Constitution, continue in force as if enacted, issued, or made under the authority of this Constitution.
 
 Notwithstanding anything in Chapter 25 of this Constitution, Parliament shall have no power to amend this section or sections 34 and 35 of this Schedule.
 
@@ -5150,7 +5181,7 @@ To be administered by the Chief Justice before Parliament.
 
 #### THE JUDICIAL OATH
 
-I,........................................................................................................having been appointed (Chief Justice/a Justice of the Supreme Court/a Justice of the Court of Appeal/a Justice of the High Court of Justice, etc.) do (in the name of the Almighty God swear) (solemnly affirm) that I will bear true faith-and allegiance to the Republic of Ghana as by law established; that I will uphold the sovereignty and integrity of the Republic of Ghana; and that I will truly and faithfully perform the functions of my office without fear or favour, affection or ill-will; and that I will at all times uphold, preserve, protect and defend the Constitution and laws of the Republic of Ghana. (So help me God.)
+I,........................................................................................................having been appointed (Chief Justice/a Justice of the Supreme Court/a Justice of the Court of Appeal/a Justice of the High Court of Justice, etc.) do (in the name of the Almighty God swear) (solemnly affirm) that I will bear true faith and allegiance to the Republic of Ghana as by law established; that I will uphold the sovereignty and integrity of the Republic of Ghana; and that I will truly and faithfully perform the functions of my office without fear or favour, affection or ill-will; and that I will at all times uphold, preserve, protect and defend the Constitution and laws of the Republic of Ghana. (So help me God.)
 
 To be sworn before the President, the Chief Justice or such other person as the Chief Justice may designate.
 
@@ -5176,7 +5207,7 @@ To be sworn before the President.
 
 #### THE OATH OF MINISTER OF STATE
 
-I,.........................................................................................................having been appointed Minister of State (Deputy Minister) of the Republic of Ghana, do (in the name of the Almighty God swear) (solemnly affirm) that I will at all times well and truly serve the Republic of Ghana in the office of Minister of State (Deputy Minister;) that I will uphold, preserve, protect and defend the Constitution of the Republic of Ghana as by law established; that I will, to the best of my judgment, at all times when required, freely give my counsel and advise for the good management of the public affairs of the Republic of Ghana; and that I will not directly or indirectly reveal any matters that shall come to my knowledge in the discharge of my duties and committed to my secrecy as Minister of State (Deputy Minister). (So help me God.)
+I,.........................................................................................................having been appointed Minister of State (Deputy Minister) of the Republic of Ghana, do (in the name of the Almighty God swear) (solemnly affirm) that I will at all times well and truly serve the Republic of Ghana in the office of Minister of State (Deputy Minister); that I will uphold, preserve, protect and defend the Constitution of the Republic of Ghana as by law established; that I will, to the best of my judgment, at all times when required, freely give my counsel and advise for the good management of the public affairs of the Republic of Ghana; and that I will not directly or indirectly reveal any matters that shall come to my knowledge in the discharge of my duties and committed to my secrecy as Minister of State (Deputy Minister). (So help me God.)
 
 To be sworn before the President.
 
@@ -5214,7 +5245,7 @@ To be sworn before the Speaker
 
 I,..............................................................................................having been appointed Auditor-General
 
-Of the Republic of Ghana do (in the name of the Almighty God swear) (solemnly affirm) that I will bear true faith and allegiance to the Republic of Ghana; that I will uphold, preserve, protect and defend the Constitution of the Republic of Ghana; and that I will truly and faithfully perform the functions of my office without fear or favour, affection or il l -will. (So help me God).
+of the Republic of Ghana do (in the name of the Almighty God swear) (solemnly affirm) that I will bear true faith and allegiance to the Republic of Ghana; that I will uphold, preserve, protect and defend the Constitution of the Republic of Ghana; and that I will truly and faithfully perform the functions of my office without fear or favour, affection or ill-will. (So help me God).
 
 To be sworn before the President, or such other person as the President may designate.
 
@@ -5222,7 +5253,7 @@ Made this 8th day of May, 1992.
 
 FLT.-LT. JERRY JOHN RAWLINGS
 
-Chairman of the Provisional National Defense Council
+Chairman of the Provisional National Defence Council
 
 Date of Gazette notification: 15th May 1992.
 
