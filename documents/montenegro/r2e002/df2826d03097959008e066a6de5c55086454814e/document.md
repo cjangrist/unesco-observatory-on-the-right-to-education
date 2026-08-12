@@ -24,15 +24,15 @@ THE MINISTRY OF EDUCATION AND SCIENCE
 
 Editor:
 
-Prof. dr Slobodan Backovi ć
+Prof. dr Slobodan Backović
 
 Editorial Board:
 
-Tatjana Novovi ć , Miodrag Vu č elji ć , Vidosava Kaš ć elan, Maljota Nuculovi ć , Radoslav Miloševi ć - Atos, Željko Rai č evi ć
+Tatjana Novović, Miodrag Vučeljić, Vidosava Kašćelan, Maljota Nuculović, Radoslav Milošević-Atos, Željko Raičević
 
 Translated by:
 
-Nataša Živkovi ć and Božica Vuja č i ć
+Nataša Živković and Božica Vujačić
 
 Language editing:
 
@@ -40,7 +40,7 @@ Paul Turner
 
 Design:
 
-Radoslav Miloševi ć -Atos
+Radoslav Milošević-Atos
 
 Printed by:
 
@@ -54,13 +54,13 @@ Podgorica 2001
 
 CIP- Cataloguing-in-Publication
 
-Central Peoples' Library of the Republic of Montenegro ¨Djurdje Crnojevi ć ¨, Cetinje
+Central Peoples’ Library of the Republic of Montenegro ¨Djurdje Crnojević¨, Cetinje
 
 37 014 3(497 16)
 
 [ Book of Changes
 
-The Book of Changes of the Education System of the Republic of Montenegro/ [editor Slobodan Backovi ć ; translated by Nataša Živkovi ć and Božica Vuja č i ć ] - Podgorica : Ministry of Education and Science, 2001 (Podgorica : Pobjeda).- 89 str.: 25 cm
+The Book of Changes of the Education System of the Republic of Montenegro/ [editor Slobodan Backović ; translated by Nataša Živković and Božica Vujačić] – Podgorica : Ministry of Education and Science, 2001 (Podgorica : Pobjeda).- 89 str.: 25 cm
 
 Tiraž:  3.000
 
@@ -76,6 +76,42 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ## CONTENTS
 
+CONTENTS...................................................................................................................3
+INTRODUCTION ..........................................................................................................7
+1. GOALS AND PRINCIPLES.....................................................................................13
+1. 1. Goals.................................................................................................................13
+1. 2. Starting points and sources of principles.....................................................14
+1. 3. Underlying principles ......................................................................................14
+1. 3. 1. Decentralization of the system .................................................................14
+1. 3. 2. Equal opportunities.....................................................................................15
+1. 3. 3. Making choice according to individual abilities ...................................15
+1. 3. 4. Introduction of European standards........................................................15
+1. 3. 5. Application of a quality system ................................................................16
+1. 3. 6. Development of human resources ..........................................................16
+1. 3. 7. Life-long education ....................................................................................17
+1. 3. 8. Flexibility........................................................................................................17
+1. 3. 9. Possibilities of transfer (vertical and horizontal interconnectedness of the system) ...........................................................................................................17
+1. 3. 10. Compatibility of curricula with the level of education.......................18
+1. 3. 11. Interculturalisation.....................................................................................18
+1. 3. 12. Gradual introduction of changes ..........................................................18
+2. ORGANIZATION AND FINANCING OF EDUCATION ........................................19
+2. 1. Administration and management ...............................................................19
+2. 1. 1. Central level.................................................................................................19
+2. 1. 1. 1. Advisory bodies......................................................................................23
+2. 1. 2. Local level....................................................................................................24
+2. 1. 3. Institutional level..........................................................................................25
+2. 1. 3. 1 Advisory bodies........................................................................................27
+2. 2. Private schools and preschool institutions...................................................27
+2. 3. Monitoring of the system of education .......................................................28
+2. 4. Teaching staff ..................................................................................................29
+2. 5. Rights and duties of students ........................................................................31
+2. 6. Role of parents in the organization of school.............................................32
+2. 7. Financing of education .................................................................................33
+2. 7. 1. Principles and resources of financing......................................................33
+2. 7. 2. The Budget of the Republic ......................................................................33
+2. 7. 3. Local Government......................................................................................34
+2. 7. 4. Private schools.............................................................................................34
+
 3
 
 [[END OF PAGE 3]]
@@ -83,6 +119,48 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 [[START OF PAGE 4]]
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
+
+3. PRESCHOOL EDUCATION ...................................................................................35
+3. 1. Educational principles in preschool institutions..........................................35
+3. 2. Goals.................................................................................................................35
+3. 3. Programme of public preschool education - type and duration...........36
+3. 4. Foreign language ...........................................................................................37
+3. 5. Formation of groups .......................................................................................37
+3. 6. Children with special needs..........................................................................38
+3. 6. 1. Gifted children ............................................................................................38
+3. 6. 2. Children with developmental difficulties ................................................38
+3. 7. Organization of daily activities .....................................................................39
+3. 8. Monitoring, planning, and evaluation.........................................................40
+3. 9. Founding and financing ................................................................................41
+3. 10. Pedagogic documentation........................................................................42
+4. PRIMARY EDUCATION .........................................................................................45
+4. 1. Principles...........................................................................................................45
+4. 2. Goals.................................................................................................................45
+4. 3. Primary school duration .................................................................................46
+4. 4. Teaching cycle................................................................................................46
+4. 5. Enrolment in primary school ..........................................................................47
+4. 6. Curriculum........................................................................................................47
+4. 7. School calendar..............................................................................................48
+4. 8. Number of teaching periods in a week ......................................................48
+4. 9. Organization of the teaching process based on teaching periods.......49
+4. 10. Assessment of knowledge ...........................................................................49
+4. 11. Promotion to the next grade and make-up.............................................51
+4. 12. Differentiation in schools..............................................................................51
+4. 13. Education of pupils with special needs.....................................................51
+4.14. Drop-outs.........................................................................................................52
+4. 15. Class size.........................................................................................................53
+4. 16. Foreign languages........................................................................................53
+5. HIGH SCHOOLS....................................................................................................55
+Introduction..............................................................................................................55
+5.1. Principles............................................................................................................55
+5. 2. Goals.................................................................................................................56
+5. 3. Type of high school.........................................................................................56
+5. 4. Duration of high school..................................................................................57
+5. 5. Enrolment in high schools ..............................................................................57
+5. 6. Number of students per class........................................................................57
+5. 7. Curriculum........................................................................................................57
+5. 8. Subjects ............................................................................................................58
+5. 9. Number of teaching periods in a week ......................................................58
 
 4
 
@@ -92,6 +170,46 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
+5. 10. School calendar............................................................................................58
+5. 11. Assessment of knowledge ...........................................................................58
+5. 12. The Matura exam..........................................................................................59
+6. VOCATIONAL EDUCATION.................................................................................61
+6. 1. Principles...........................................................................................................61
+6. 2. Goals.................................................................................................................61
+6. 3. Social partnership ...........................................................................................62
+6. 4. Standardization of occupation ....................................................................62
+6. 5. Standards of vocational education ............................................................63
+6. 6. Vocational schools and their duration........................................................63
+6. 7. Enrolment in vocational schools...................................................................66
+6. 8. Curriculum........................................................................................................66
+6. 9. Subjects ............................................................................................................67
+6. 10. Practical teaching........................................................................................68
+6. 11. Assessment of student’s knowledge..........................................................68
+7. ADULT EDUCATION..............................................................................................71
+7. 1. Principles...........................................................................................................71
+7. 2. Goals.................................................................................................................71
+7. 3. Actors in the organization of adult education...........................................72
+7. 3. 1. Primary schools and high schools.............................................................72
+7. 3. 2. Vocational schools .....................................................................................72
+7. 3. 3. Vocational colleges and faculties...........................................................73
+7. 3. 4. People’s and workers’ university ..............................................................73
+7. 3. 5. Training in businesses ..................................................................................73
+7. 3. 6. The Chamber of Commerce ....................................................................74
+7. 3. 7. The Employment Agency ..........................................................................74
+7. 3. 8. Private schools.............................................................................................75
+7. 3. 9. Driving schools.............................................................................................75
+7. 3. 10. Special training centers ...........................................................................75
+7. 4. Types and methods of adult education acquisition .................................75
+7. 5. Curriculum........................................................................................................76
+7. 6. Duration of educational programmes ........................................................76
+7. 7. Practical teaching ..........................................................................................77
+7. 8. Organization and management..................................................................77
+7. 9. Financing of adult education .......................................................................78
+7. 10. System of assessment ...................................................................................79
+7. 11. Certifications and diplomas........................................................................79
+7. 12. Teaching staff in adult education..............................................................79
+7. 13. General education.......................................................................................80
+
 5
 
 [[END OF PAGE 5]]
@@ -99,6 +217,10 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 [[START OF PAGE 6]]
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
+
+APPENDIXES..............................................................................................................81
+THE DECISION ON THE ESTABLISHMENT OF THE COUNCIL FOR CHANGES IN EDUCATION OF THE REPUBLIC OF MONTENEGRO .....................................81
+AN ORDER ON THE APPOINTMENT OF COMMISSIONS FOR CHANGES IN EDUCATION .....................................................................................................84
 
 6
 
@@ -142,7 +264,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 - ¾ A  high  pupil  and  student  rate  of  completion  and  acquisition  of quality knowledge;
 
-- ¾ An  increase  in  the  level  of  the  participation  of  the  elementaryschool-age population in post-elementary education;
+- ¾ An increase in the level of the participation of the elementary-school-age population in post-elementary education;
 
 - ¾ An increase of the number of pupils and students who will acquire, retain, understand and use acquired knowledge and civic values;
 
@@ -150,7 +272,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 Strategic prerequisites for the realization of the stated macro goals are:
 
-- High quality of learning and teaching, which presupposes:
+a) High quality of learning and teaching, which presupposes:
 
 - ¾ the use of modern teaching methods;
 
@@ -166,7 +288,7 @@ Strategic prerequisites for the realization of the stated macro goals are:
 
 - ¾ cooperation with the local community.
 
-- Improved standard of conditions for work and learning:
+b) Improved standard of conditions for work and learning:
 
 - ¾ adequate teacher-student ratio
 
@@ -178,7 +300,7 @@ The achievement of the defined strategic goals, requires the modeling of a new s
 
 - ¾ the quality of a democratic and decentralized system;
 
-- ¾ An organizational structure with built-in mechanisms for selfimprovement;
+- ¾ An organizational structure with built-in mechanisms for self-improvement;
 
 - ¾ A partnership of school, community and business.
 
@@ -246,7 +368,7 @@ A large majority of the public gave support to the proposed conception for upgra
 
 However, the public debate opened up dilemmas in connection with some solutions, and therefore an Annex to the Book for Changes was prepared and offered for debate, this time only to the professional public. It was the second round of the debate, which was conducted at a three-day seminar in September.
 
-The seminar gathered prominent educationalists, pedagogues, psychologists, parents, representatives of NGOs and others, who exchanged opinions with regard to the 'open issues' that had remained unsolved.
+The seminar gathered prominent educationalists, pedagogues, psychologists, parents, representatives of NGOs and others, who exchanged opinions with regard to the “open issues” that had remained unsolved.
 
 The seminar enabled expert commissions to reach the final version of the conception of the education system, now called the Book of Changes.
 
@@ -286,7 +408,7 @@ We  have  no  right  to  do  that.  It  is  our  duty  to  advance  our  system 
 
 MINISTER OF EDUCATION AND SCIENCE
 
-Prof.dr Predrag Ivanovi ć
+Prof.dr Predrag Ivanović
 
 11
 
@@ -308,7 +430,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ### 1. 1. Goals
 
-In  the  modern  world,  education  is  more  and  more  directed  to  the  future and it has become an inseparable part of long-term societal and scientifictechnological  projections.  Any      developmental  conception  is  able  to succeed  only  if  well  prepared  and  trained  professional-human  resources are engaged in its implementation. For the past few years Montenegro, as a  state,  has  striven  for  changes:  societal,  economic,  political,  and  also educational.
+In the modern world, education is more and more directed to the future and it has become an inseparable part of long-term societal and scientific-technological projections. Any developmental conception is able to succeed only if well prepared and trained professional-human resources are engaged in its implementation. For the past few years Montenegro, as a state, has striven for changes: societal, economic, political, and also educational.
 
 As it is today, education cannot meet the needs of the modern age without improvements and therefore must undergo qualitative, structural, organizational,  conceptual  and  personnel  changes.  It  is  necessary  to develop new attitudes towards education, create a new philosophy and methodology of education, and focus on  future educational needs, which will be demanded by the new post-industrial society.
 
@@ -440,7 +562,7 @@ In  order  to  create  the  conditions  for  such  education  we  must  achieve 
 
 The system must be flexible. This principle will come to the fore especially in the  development  of  new  curricula.  They  must  be  open,  and  prone  to changes. Schools and teachers will have greater freedom in the development and implementation of curricula. The defined goals and the established standards must be attained, but the choice of method applied to  achieve  them  is  left  to  the  teacher.  Consequently,  greater  autonomy implies a greater responsibility for the teacher as implementer.
 
-#### 1. 3. 9. Possibilities of transfer (vertical and horizontal interconnectedness of the syste
+#### 1. 3. 9. Possibilities of transfer (vertical and horizontal interconnectedness of the system)
 
 This principle  provides  students  with  possibilities  of  transfer  within  a programme of a certain type of school. Moreover, a good correlation of all segments of the education system (from preschool education to tertiary) is necessary. This applies especially to the transfer from one level of education to  the  next  (transfer  from  elementary  to  secondary  school  and  from secondary  school  to  two-year  post-secondary  education  and  higher education).
 
@@ -482,7 +604,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 #### 2. 1. 1. Central level
 
-The  changes  in  the  education  system  of  the  Republic  of  Montenegro require  the  creation  of  a  relevant  institutional  infrastructure.  In  order  to enable implementation of the changes and to ensure that the functions of the  education  system  are  in  place,  which  can  be  compared  with  the education  systems  of  European  countries,  and  to  develop  the  system further,  an  organizational  transformation  of  the  Ministry  of  Education  is necessary,  especially  the  School  Inspectorate,  which  should  become  an advisory, developmental and managing service. Beside the central service, it  is  necessary  to  develop  a  deconcentrated and decentralized structure, which  will  develop  simultaneously  with  the  development  of    local  selfgovernment.
+The changes in the education system of the Republic of Montenegro require the creation of a relevant institutional infrastructure. In order to enable implementation of the changes and to ensure that the functions of the education system are in place, which can be compared with the education systems of European countries, and to develop the system further, an organizational transformation of the Ministry of Education is necessary, especially the School Inspectorate, which should become an advisory, developmental and managing service. Beside the central service, it is necessary to develop a deconcentrated and decentralized structure, which will develop simultaneously with the development of local self-government.
 
 For the provision of services within the area of education and science, the Ministry  of  Education  and  Science  needs  to  establish  a  basic  functional number  of  organizational  units.  Within  the  Ministry,  sectors,  services  and departments will be formed, as shown in Chart 1. At the head of the Ministry there will be a minister, two deputy ministers and a secretary. The deputy ministers will be in charge of the sectors, while the services and departments will be administered by heads and supervisors.
 
@@ -496,101 +618,28 @@ The Ministry of Education and Science will perform administrative and other func
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-20
-
 MINISTRY OF EDUCATION AND SCIENCE
-
-Education sector
-
-Science and higher
-
-education sector
-
-Administration
-
-Investment and
-
-informatics
-
-sector
-
-Department for
-
-Education
-
-Department for
-
-preschool
-
-Department for
-
-primary education
-
-Department for
-
-general secondary
-
-education
-
-Department for
-
-secondary
-
-vocational
-
-education
-
-Department for
-
-Education of
-
-Children with
-
-Special Needs
-
-Department for
-
-Adult Education
-
-Department for
-
-education of
-
-national and
-
-ethnic groups
-
-Department for
-
-Science
-
-Department for
-
-Higher Education
-
-Department for
-
-investments
-
-Department for
-
-Information
-
-Department for
-
-International Cooperation
-
-in Education
-
-Department for  pupils
-
-and students' affairs
-
-Chart 1.
-
 M I N I S T E R
-
 The Cabinet
+Education sector
+Department for Education
+Department for preschool
+Department for primary education
+Department for general secondary education
+Department for secondary vocational education
+Department for Education of Children with Special Needs
+Department for Adult Education
+Department for education of national and ethnic groups
+Science and higher education sector
+Department for Science
+Department for Higher Education
+Administration Investment and informatics sector
+Department for investments
+Department for Information
+Department for International Cooperation in Education
+Department for pupils and students' affairs
+Chart 1.
+20
 
 [[END OF PAGE 20]]
 
@@ -614,178 +663,28 @@ Having in mind the functional and territorial principles of organization and in 
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-CENTER OF THE  REPUBLIC OF  MONTENEGRO FOR GENERAL EDUCATION
-
+CENTER OF THE REPUBLIC OF MONTENEGRO FOR GENERAL EDUCATION
 DIRECTOR
-
-Sector for
-
-development,
-
-programmemi
-
-ng and
-
-advising
-
-Sector for
-
-quality
-
-provision in
-
-education
-
-Sector for in-
-
-service
-
-training of
-
-teachers
-
-Sector for
-
-research
-
+Sector for development, programmeming and advising
+Depart. for development, programmeming and advising in preschool education
+Depart. for development, programmeming and advising in primary education
+Depart. for development, programmeming and advising in general secondary education
+Depart. for development, programmeming and advising in education for children with special needs
+Depart. for development, programmeming and advising in general adult education
+Sector for quality provision in education
+Examination centre for primary education
+Examination centre for general secondary education
+Sector for in-service training of teachers
+Depart. for in-service training of teachers in general
+Depart. for in-service training of teachers in education for children with special needs
+Sector for research
+Depart. for research in general education
+Depart. for research. in education for children with special needs
 Administration service
-
-Depart. for
-
-development,
-
-programmemin
-
-g and advising
-
-in preschool
-
-education
-
-Depart. for
-
-development,
-
-programmemin
-
-g and advising
-
-in primary
-
-education
-
-Depart. for
-
-development,
-
-programmemin
-
-g and advising
-
-in general
-
-secondary
-
-education
-
-Depart. for
-
-development,
-
-programmemin
-
-g and advising
-
-in education for
-
-children with
-
-special needs
-
-Depart. for
-
-development,
-
-programmemin
-
-g and advising
-
-in general adult
-
-education
-
-Examination
-
-centre for
-
-primary
-
-education
-
-Examination
-
-centre for
-
-general
-
-secondary
-
-education
-
-Depart. for in-
-
-service training
-
-of teachers
-
-in general
-
-Depart. for in-
-
-service training
-
-of teachers
-
-in education for
-
-children with
-
-special needs
-
-Depart. for
-
-research
-
-in general
-
-education
-
-Depart. for
-
-research.
-
-in education for
-
-children with
-
-special needs
-
-Branch unit
-
-Nikši
-
-ć
-
-Branch unit
-
-Bijelo Polje
-
-Branch unit
-
-Budva
-
+Branch unit Nikšić
+Branch unit Bijelo Polje
+Branch unit Budva
 Chart 2.
-
 22
 
 [[END OF PAGE 22]]
@@ -816,7 +715,7 @@ In order to effectively perform its duties within its framework of competencies,
 
 #### 2. 1. 2. Local level
 
-In order to enable local self-government to exercise its rights and duties to establish,  manage,  and  ensure  the  development  and  monitoring  of educational  institutions,  it  is  necessary  to  provide  professional  training, improve  the  organization  and  professionalize  the  work  of  the  local  selfgovernment  body  responsible  for  education.  The  local  self-government body  will  have  the  obligation  of  implementing  state  legislation,  financing the  maintenance  of  school  buildings,  provide  social  care  for  students (transport, school meals, health care etc) and co-finance investments and material expenses. The local self-government body also has the obligation of implementing curricula adopted by the councils for education, as well as standards  prescribed  by  the  law.  The  local  self-government  body,  in cooperation  with  educational  institutions,  has  the  right  to  propose  to  the councils and the Ministry parts of curricula content of special interest to the local community.
+In order to enable local self-government to exercise its rights and duties to establish, manage, and ensure the development and monitoring of educational institutions, it is necessary to provide professional training, improve the organization and professionalize the work of the local self-government body responsible for education. The local self-government body will have the obligation of implementing state legislation, financing the maintenance of school buildings, provide social care for students (transport, school meals, health care etc) and co-finance investments and material expenses. The local self-government body also has the obligation of implementing curricula adopted by the councils for education, as well as standards prescribed by the law. The local self-government body, in cooperation with educational institutions, has the right to propose to the councils and the Ministry parts of curricula content of special interest to the local community.
 
 24
 
@@ -830,9 +729,9 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 Educational institutions in public ownership are established by the state and the units of local self-government. It is necessary to delegate to the units of local self-government the rights of the state to found preschool institutions, primary art schools, institutions for primary education of adults, and partly to compulsory primary education institutions. The state will  retain the  right  to found general secondary schools, secondary vocational schools, institutions for education of children with special needs, institutions for adult education for  post-primary  levels,  as  well  as  parts  of  the  institutions  for  primary education.  The  exception  to  the  latter  is  the  possibility  left  to  unions  of municipalities or regions to found a secondary vocational school, according to their needs and material resources.
 
-A preschool institution,  that  is  a  school,  will  be  managed  by  a  managing board,  that  is  the  school  board  with  9-13  members.  School  boards  will represent one aspect of the functioning of the public system of education of Montenegro.
+A preschool institution, that is a school, will be managed by a managing board, that is the school board with 9–13 members. School boards will represent one aspect of the functioning of the public system of education of Montenegro.
 
-A  preschool  institution,  that  is  the  school,  founded  by  a  unit  of  local  selfgovernment  will  be  governed  by  a  managing  board,  that  is  the  school board, whose members will be chosen from the ranks of teachers, parents, local  community members, and the Ministry through the following model: 4+2+2+1 (four members will be chosen by the teachers' assembly, by ballot, two members will be chosen by the parents' council, two members by the unit of the local self- government, and one member by the Ministry).
+A preschool institution, that is the school, founded by a unit of local self-government will be governed by a managing board, that is the school board, whose members will be chosen from the ranks of teachers, parents, local community members, and the Ministry through the following model: 4+2+2+1 (four members will be chosen by the teachers’ assembly, by ballot, two members will be chosen by the parents’ council, two members by the unit of the local self-government, and one member by the Ministry).
 
 The  managing  board,  that  is  the  school  board,  will  have  duties  and responsibilities concerning: the appointment and dismissal of the principal, approval  of  development  programmes,  the  adoption  of  the  annual programme of work, deciding on the appeals of students, parents and the staff, as well as other duties according to the law.
 
@@ -846,7 +745,9 @@ A preschool institution, that is a school, will be run by the principal, in the 
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-The  principal  plans,  organizes,  coordinates  and  runs  the  work  of  the preschool  institution,  that  is  the  school,  prepares  development  plans  and drafts  the  annual  work  plan,  defines  the  organizational  chart,  taking  into consideration  opinion  previously  obtained  of  the  unit  from  the  local  selfgovernment  and  the  approval  of  the  Ministry,  and  is  responsible  for  the implementation of the curricula and performs other duties according to the law.
+board, appoints the principal, first obtaining the results of the secret vote of the teachers' assembly on candidates, and also the opinion of the parents' council and of the unit of the local self-government. When the principal is chosen by the school board, the Minister gives his consent to the appointment of the principal. If the Minister does not approve the choice of the principal, the school board will appoint an acting principal, for a period of one year at the most, from among the candidates who took part in the competition or from the ranks of the teachers.
+
+The  principal  plans,  organizes,  coordinates  and  runs  the  work  of  the preschool  institution,  that  is  the  school,  prepares  development  plans  and drafts  the  annual  work  plan,  defines  the  organizational  chart,  taking  into consideration  opinion  previously  obtained  of  the  unit  from  the  local  self-government  and  the  approval  of  the  Ministry,  and  is  responsible  for  the implementation of the curricula and performs other duties according to the law.
 
 The  preschool  institution,  that  is  the  school,  founded  by  the  state,  will  be managed by a managing board, that is the school board, composed of representatives of teachers, parents, the Ministry, and the local community, and sometimes including representatives  of  students  and  employers  (only for  secondary,  that  is  secondary  vocational  schools),  according  to  the following model: 4+2+2+2+2+1 (four members are chosen by secret ballot by  the  teachers'  assembly,  two  members  by  the  parents'  council,  two members by the Ministry, two representatives from employers, two representatives  of  the  students'  community  /  grade  III  and  IV/  and  one member of the local community).
 
@@ -1152,19 +1053,19 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ### 3. 1. Educational principles in preschool institutions
 
-- The principle of democracy and pluralism:
+1. The principle of democracy and pluralism:
 
--to  enable  every  child  to  enroll  in  one  of  the  programmes  of preschool education. Parents are entitled to chose a programme for their child in accordance with the child's interests and needs.
+- to  enable  every  child  to  enroll  in  one  of  the  programmes  of preschool education. Parents are entitled to chose a programme for their child in accordance with the child's interests and needs.
 
--to provide children with opportunities to choose independently and develop in accordance with their abilities.
+- to provide children with opportunities to choose independently and develop in accordance with their abilities.
 
-- The principle of cooperation with the community:
+2. The principle of cooperation with the community:
 
--preschool  institutions  enrich  and  supplement  their  activity  plans  in cooperation with institutions and individuals in their surroundings.
+- preschool  institutions  enrich  and  supplement  their  activity  plans  in cooperation with institutions and individuals in their surroundings.
 
-- The principle of maintaining a balance between the different aspects of physical and mental development of children:
+3. The principle of maintaining a balance between the different aspects of physical and mental development of children:
 
--Institutions  of  preschool  education  should  provide  opportunities  for various activities, which influence the physical and mental development of children.
+- Institutions  of  preschool  education  should  provide  opportunities  for various activities, which influence the physical and mental development of children.
 
 ### 3. 2. Goals
 
@@ -1256,17 +1157,17 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 - ¾ enable  the  gradual  inclusion  of  the  highest  possible  number  of children into preschool programmes (by the enlargement of capacities).
 
-Age | Number of children in a group and number of teachers
---- | --- | --- | --- | --- | --- | --- | ---
-8 | 12 | 14 | 18 | 20 | 24 | 28 | 30
-1-2 years of age | 4:1 | 6:1
-2-3 years of age | 6:1 | 7:1
-combined day-care group | 4:1 | 6:1
-3-4 years of age | 9:1 | 10:1
-4-5 years of age | 9:1 | 10:1 | 12:1 | 14:1
-5-7 years of age | 12:1 | 14:1 | 15:1
-
 Table: 1.: Proposal for the optimal children-preschool teacher ratio
+
+| Age | Number of children in a group and number of teachers | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | 8 | 12 | 14 | 18 | 20 | 24 | 28 | 30 |
+| 1-2 years of age | 4:1 | 6:1 | | | | | | |
+| 2-3 years of age | | 6:1 | 7:1 | | | | | |
+| combined day-care group | 4:1 | 6:1 | | | | | | |
+| 3-4 years of age | | | | 9:1 | 10:1 | | | |
+| 4-5 years of age | | | | 9:1 | 10:1 | 12:1 | 14:1 | |
+| 5-7 years of age | | | | | | 12:1 | 14:1 | 15:1 |
 
 The norm. which regulates the number of children in a group is fine. But, due to  current  conditions,  an  increase  of  children  (of  20%)  per  educational group can be allowed in order to enable more children to be included in preschool education.
 
@@ -1350,7 +1251,7 @@ The  new  method  of  teaching  implies  that  the  teacher  is  not  only  the 
 
 The teachers monitor their own work by means of self-evaluation.
 
-In planning, as well as in practical work in groups, more important than the choice of some of these approaches is to follow systematically the teaching cycle: monitoring, planning, direct and indirect teacher's interventions, and monitoring  and  evaluating  the  effects  of  that  intervention.  By  defining certain goals, we make efforts to achieve them. The continual examination of  educational  work  and  the  effects  obtained,  are  the  essence  of  selfevaluation.
+In planning, as well as in practical work in groups, more important than the choice of some of these approaches is to follow systematically the teaching cycle: monitoring, planning, direct and indirect teacher's interventions, and monitoring  and  evaluating  the  effects  of  that  intervention.  By  defining certain goals, we make efforts to achieve them. The continual examination of  educational  work  and  the  effects  obtained,  are  the  essence  of  self-evaluation.
 
 Every form of external evaluation has meaning only if it assists self-evaluation and  self-analysis.  Evaluation  is  a  method  of  encouraging  professional development, and part of the learning and development of adults. If the aim is  to  encourage  the  meaningful  learning  of  children,  then  supporting and stimulating the child's awareness of his or her own knowledge is one of the essential tasks of teachers.
 
@@ -1366,9 +1267,9 @@ In  the  area  of  the  founding  of  preschool  institutions  no  changes  are 
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-Besides the Ministry  of  Education  and Science (which  pays the  salaries  of those employed in preschool institutions, expenses caused by depreciation and  part  of  material  expenses),  the  local  self-governments  should  be included in the system of the financing of public preschool institutions in the Republic  of  Montenegro,  especially  of  material  expenses,  investment  in maintaining,  and  building  new  infrastructure.  The  issues  of  the  land  taxes, utility charges and water consumption costs are regulated by the local selfgovernment.
+Besides the Ministry  of  Education  and Science (which  pays the  salaries  of those employed in preschool institutions, expenses caused by depreciation and  part  of  material  expenses),  the  local  self-governments  should  be included in the system of the financing of public preschool institutions in the Republic  of  Montenegro,  especially  of  material  expenses,  investment  in maintaining,  and  building  new  infrastructure.  The  issues  of  the  land  taxes, utility charges and water consumption costs are regulated by the local self-government.
 
-In  this  phase  of  transition,  it  is  necessary  to  preserve  and  expand  the network and capacities of public kindergartens in order to enable inclusion of  the  greatest  possible  number  of  children.  It  is  necessary  to  stimulate healthy competition aimed at receiving a variety of offers and possibilities of choice, while the state must set standards that form the criteria for the stimulation of the development of private investment. It is necessary to cofinance  accredited  programmes  of  private  kindergartens  from  public finances with a participation of 70%.
+In  this  phase  of  transition,  it  is  necessary  to  preserve  and  expand  the network and capacities of public kindergartens in order to enable inclusion of  the  greatest  possible  number  of  children.  It  is  necessary  to  stimulate healthy competition aimed at receiving a variety of offers and possibilities of choice, while the state must set standards that form the criteria for the stimulation of the development of private investment. It is necessary to co-finance  accredited  programmes  of  private  kindergartens  from  public finances with a participation of 70%.
 
 In  order  to  provide  the  same  conditions  for  all  children,  it  is  necessary  to work out a scale of payments, on the basis of the material and social status of  families,  which  should  vary  from  complete  relief  to  payment  of  the established maximum.
 
@@ -1496,9 +1397,9 @@ In  order  to  inform  parents  and  to  establish  conditional  enrolment,  it 
 
 ### 4. 6. Curriculum
 
-- The  curriculum  includes:  a)  subjects  compulsory  for  all  pupils  -80%  of teaching  hours;  b)  elective  subjects  -  20%  of  the  total  teaching  hours (approved by the Ministry of Education and Science as proposal by The Expert Council)
+1. The  curriculum  includes:  a)  subjects  compulsory  for  all  pupils  -80%  of teaching  hours;  b)  elective  subjects  -  20%  of  the  total  teaching  hours (approved by the Ministry of Education and Science as proposal by The Expert Council)
 
-- The Expert council determines  curricula content  for 80%  of total teaching hours for each subject, local self-government determines 1015% according to its needs, and the school plans 5-10% of the teaching hours of each subject syllabus. The Expert Council verifies the curricula determined by regions and schools.
+2. The Expert council determines  curricula content  for 80%  of total teaching hours for each subject, local self-government determines 10-15% according to its needs, and the school plans 5-10% of the teaching hours of each subject syllabus. The Expert Council verifies the curricula determined by regions and schools.
 
 The  Primary  school  curriculum  includes  a  compulsory  and  an  extended curriculum, which  is not compulsory  for  all pupils, but the school  is responsible to offer it according to its capacities.
 
@@ -1536,7 +1437,7 @@ The  extended  curriculum,  which  can  be  offered  by  schools  according  to 
 
 The school year should be extended to 36 weeks, at least, that is, 180 school days.
 
-The school year starts on 1 st   September.  As  a  rule,  there  are  three  school breaks: Winter school break, from 24 th  December until 10 th  January, Spring starting from 10 th  to 17 th  April, and Summer school break starting from June and ending on 31 st  August. In special circumstances, a school may propose a different calendar. In such cases, The Ministry of Education and Science shall agree it at the beginning of each school year.
+The school year starts on 1st September. As  a  rule,  there  are  three  school breaks: Winter school break, from 24th December until 10th January, Spring starting from 10th to 17th April, and Summer school break starting from June and ending on 31st August. In special circumstances, a school may propose a different calendar. In such cases, The Ministry of Education and Science shall agree it at the beginning of each school year.
 
 ### 4. 8. Number of teaching periods in a week
 
@@ -1606,7 +1507,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ### 4. 11. Promotion to the next grade and make-up
 
-We  propose  that  non-promotion  should  be  an  exception  in  the  first  five grades  (for  example:  in  the  case  of  extensive  absence  of  a  pupil  from classes,  that  is,  in  the  case  of  an  extremely  low  core  subjects  content acquisition).  The  homeroom  teacher  makes  a  decision  on  the  nonpromotion of a pupil, then the council of teachers with a prior opinion from the  school  administration,  pedagogic-psychological  department  and  the pupil's parents. In the last year of the second cycle, and in the third cycle, a pupil  can  be  non-promoted  because  of  four  and  more  bad  marks.  With three bad marks, a pupil can pass a makeup exam in the presence of an external  professional  (from  another  school).    When  there  are  one  or  two bad marks a makeup exam can be organized according to the procedure regulated by the law.
+We  propose  that  non-promotion  should  be  an  exception  in  the  first  five grades  (for  example:  in  the  case  of  extensive  absence  of  a  pupil  from classes,  that  is,  in  the  case  of  an  extremely  low  core  subjects  content acquisition).  The  homeroom  teacher  makes  a  decision  on  the  non-promotion of a pupil, then the council of teachers with a prior opinion from the  school  administration,  pedagogic-psychological  department  and  the pupil's parents. In the last year of the second cycle, and in the third cycle, a pupil  can  be  non-promoted  because  of  four  and  more  bad  marks.  With three bad marks, a pupil can pass a makeup exam in the presence of an external  professional  (from  another  school).    When  there  are  one  or  two bad marks a makeup exam can be organized according to the procedure regulated by the law.
 
 ### 4. 12. Differentiation in schools
 
@@ -1634,7 +1535,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 - ¾ Implement the curricula on pupil's abilities.
 
-- ¾ Introduce appropriate professional departments, besides the existing  ones,  into  mainstream  schools  (speech  therapy,  specialpedagogical, oligophrenic-pedagogic, somatopedic and tiflopedic).
+- ¾ Introduce appropriate professional departments, besides the existing  ones,  into  mainstream  schools  (speech  therapy,  special-pedagogical, oligophrenic-pedagogic, somatopedic and tiflopedic).
 
 - ¾ Provide facilities to organize education for hospitalized children ( in Risan, Igalo, and Podgorica).
 
@@ -1648,7 +1549,7 @@ In  order  to  implement  and  monitor  all  these  activities  and  to  approac
 
 According to the Act on Primary Compulsory Education, the provision for enabling pupils to take a separate makeup exam when, for various reasons, they  cannot  attend  the  school  regularly  should  be  kept.  However,  in  the Act it should not stipulate precisely when this exam is to be taken, whether in June or August, because it is also possible that these reasons will still exist in  these months and prevent a pupil from attending classes regularly. The Teachers' assembly should decide on this issue, above all, keeping in mind the child's interest to integrate into a regular class as soon as possible.
 
-The Act should also prescribe the right of parents to organize the education of  their  children  by  themselves.  Such  a  type  of  education  should  be especially  available  for  children  with  special  needs.  In  reality,  such  a possibility  would  be  rarely  used.  The  danger  that  parents  may  thus  cause damage  to  their  children  can  be  prevented  by  a  specially  formedcommission,  which  would  previously  determine  whether  such  a  solution  is good for a child. Parents would submit to schools: programmes according to how they would educate a child, the place of teaching, and the names and qualifications of people teaching a child. If this possibility is taken up, a child would enroll in some compulsory primary school, and this school would organize the assessment of the child's knowledge in certain subjects: in the first  three  grades  in  mathematics  and  mother  tongue,  and  in  the  other grades  in  other  subjects.  In  a  case  where  the  candidate  fails  his/her assessment of knowledge, his/her education would have to be continued at school.
+The Act should also prescribe the right of parents to organize the education of  their  children  by  themselves.  Such  a  type  of  education  should  be especially  available  for  children  with  special  needs.  In  reality,  such  a possibility  would  be  rarely  used.  The  danger  that  parents  may  thus  cause damage  to  their  children  can  be  prevented  by  a  specially  formed-
 
 52
 
@@ -1657,6 +1558,8 @@ The Act should also prescribe the right of parents to organize the education of 
 [[START OF PAGE 53]]
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
+
+commission, which would previously determine whether such a solution is good for a child. Parents would submit to schools: programmes according to how they would educate a child, the place of teaching, and the names and qualifications of people teaching a child. If this possibility is taken up, a child would enroll in some compulsory primary school, and this school would organize the assessment of the child's knowledge in certain subjects: in the first three grades in mathematics and mother tongue, and in the other grades in other subjects. In a case where the candidate fails his/her assessment of knowledge, his/her education would have to be continued at school.
 
 The  Act  should  also  prescribe  compulsory  primary  education  for  adults, using special curricula. It is not necessary to define the precise number of teaching days. This number would be determined when the curriculum for primary  adult  education  is  adopted  by  a  competent  body  and  which would be in force for  a  shorter  period  than  the  Act  itself.  We  should  also leave the possibility open that one can gain compulsory primary education by taking grade exams.
 
@@ -1756,7 +1659,7 @@ Apart from the existing elements, the following categories should be listed amon
 
 There are eight high Schools and twelve secondary schools implementing a High School programme in Montenegro today. Some 33% of the school population is educated in them. The number of High School students is probably rising.
 
-Instead of the existing High School courses (natural-science, sociallanguage, a study of philology and mathematics), we propose a general High School, where one part of the curriculum would be dedicated to a general -educational core, and another part to elective subjects.
+Instead of the existing High School courses (natural-science, social-language, a study of philology and mathematics), we propose a general High School, where one part of the curriculum would be dedicated to a general -educational core, and another part to elective subjects.
 
 Based on the approval of the Ministry of Education and Science, where there are possibilities and capacities at school, classical High School classes can be organized.
 
@@ -1842,7 +1745,7 @@ It is proposed to:
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-- ¾ When  students  who  cannot  take  regular  classes  take  the  end-ofyear exam, positive marks from the subjects which he has taken at the  end  of  the  year  are  acknowledged,  if  he/she  earned  them during previous exams.
+- ¾ When  students  who  cannot  take  regular  classes  take  the  end-of-year exam, positive marks from the subjects which he has taken at the  end  of  the  year  are  acknowledged,  if  he/she  earned  them during previous exams.
 
 ### 5. 12. The Matura exam
 
@@ -2018,13 +1921,13 @@ Preparation for a craftsman's or managerial exam, which is of different duration
 
 - ¾ After completing four-year education, a passed vocational exam and two-years of working experience.
 
-Craftsman's or managerial examination (external), which has to meet the national standards, includes the following elements: vocational-theoretical content,  practical  work  and  economics  of  running  a  company.  The Chamber of  Commerce  will  determine  standards  for  these  examinations, and all the examinations will be taken before its commissions. Candidates who have passed vocational exam would not have to take the exam in the part  related  to  theoretical  knowledge.  The  Chamber  of  Commerce  in coordination  with  the  Ministry  of  Labor  issues  diplomas  (certificates  of qualification). For discharging educational activities, starting up and running private  companies  and  managerial  functions  within  public  and  private companies, candidates will also need to pass the exam of a pedagogicandrogenic  programme.  The  Ministry  of  Education  and  Science,  under whose  commission  this examination  will be  taken, will prescribe the standards in this field.
+Craftsman's or managerial examination (external), which has to meet the national standards, includes the following elements: vocational-theoretical content,  practical  work  and  economics  of  running  a  company.  The Chamber of  Commerce  will  determine  standards  for  these  examinations, and all the examinations will be taken before its commissions. Candidates who have passed vocational exam would not have to take the exam in the part  related  to  theoretical  knowledge.  The  Chamber  of  Commerce  in coordination  with  the  Ministry  of  Labor  issues  diplomas  (certificates  of qualification). For discharging educational activities, starting up and running private  companies  and  managerial  functions  within  public  and  private companies, candidates will also need to pass the exam of a pedagogic-androgenic  programme.  The  Ministry  of  Education  and  Science,  under whose  commission  this examination  will be  taken, will prescribe the standards in this field.
 
 After  passing  a  craftsman's  exam,  or  managerial  exam  and  differential exams,  the  candidate  earns  the  right  to  enroll  in  suitable  two-year  post secondary vocational education.
 
 More detailed provisions on taking practical, final and vocational examination will be determined by curriculum and Statute.
 
-Two-year post-secondary vocational education would be vocational education, and not of university standard with high professional demands, and it would last from two to three years, and it would be a continuation of secondary vocational education. It will educate and prepares candidates at the highest vocational level for a specific job or occupation.
+Two-year post-secondary vocational education would be vocational education, and not of university standard with high professional demands,
 
 65
 
@@ -2034,13 +1937,15 @@ Two-year post-secondary vocational education would be vocational education, and 
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
+and it would last from two to three years, and it would be a continuation of secondary vocational education. It will educate and prepares candidates at the highest vocational level for a specific job or occupation.
+
 Picture 6.7.1.shows a schematic review of the structure of middle vocational education.
 
 ### 6. 7. Enrolment in vocational schools
 
 Enrollment in vocational schools is through an open competition published by  the  Ministry  of  Education  and  Science  with  the  agreement  of  the Chamber of Commerce as a social partner.
 
-The  basic  condition  to  enroll  in  vocational  school  is  completed  primary school education. If the number of students, who apply is less than asked for in the competition, everyone is enrolled who meets the basic and special requirements  (psychophysical,  special  talent,  etc).  Three-year  vocational schools in dual form, a contract with an employer is an advantage when it comes to enrollment. In cases of limited enrollment in three-year and fouryear vocational  schools, the open  competition  establishes  additional criteria for selection based on general success in primary school and based on the results from external knowledge assessment in primary school.
+The  basic  condition  to  enroll  in  vocational  school  is  completed  primary school education. If the number of students, who apply is less than asked for in the competition, everyone is enrolled who meets the basic and special requirements  (psychophysical,  special  talent,  etc).  Three-year  vocational schools in dual form, a contract with an employer is an advantage when it comes to enrollment. In cases of limited enrollment in three-year and four-year vocational  schools, the open  competition  establishes  additional criteria for selection based on general success in primary school and based on the results from external knowledge assessment in primary school.
 
 Except  for  the  previous  paragraph,  students  who  fall  behind  with  their curricula, after a nine-year primary school attendance and completed at least seventh grade of that school, may enroll to gain working skills for the duration of one year or enroll in a lower vocational school for two years.
 
@@ -2112,7 +2017,7 @@ Professional  (vocational)  practice  is  an  important  part  of  the  educatio
 
 ### 6. 11. Assessment of student's knowledge
 
-At school, knowledge and skills of certain subjects, of parts of the curriculum and during examinations is tested and assessed. Knowledge and skills are determined  in  knowledge  catalogues  and  examination  catalogues:  oral answers  and  written  work,  exercises,  seminars  or  project,  graphical  and practical work are assessed and evaluated. Besides, we have to take into consideration  modern forms and methods of work as well as pedagogic, psychological and andragocyc actions. The success of students in subjects is marked on the scale from 1 (insufficient) to 5 (excellent).
+At school, knowledge and skills of certain subjects, of parts of the curriculum
 
 68
 
@@ -2121,6 +2026,8 @@ At school, knowledge and skills of certain subjects, of parts of the curriculum 
 [[START OF PAGE 69]]
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
+
+and during examinations is tested and assessed. Knowledge and skills are determined  in  knowledge  catalogues  and  examination  catalogues:  oral answers  and  written  work,  exercises,  seminars  or  project,  graphical  and practical work are assessed and evaluated. Besides, we have to take into consideration  modern forms and methods of work as well as pedagogic, psychological and andragocyc actions. The success of students in subjects is marked on the scale from 1 (insufficient) to 5 (excellent).
 
 Student will complete a grade if they have achieved positive marks in all subjects. If he has one, two or three negative marks, a student will have to take a makeup exam. Makeup exams for three negative marks have to be taken  before  the  outside  commission.  General  success  is  noted  by  an average  mark  in  all  subjects  in  which  a  student  has  obtained  a  positive mark.
 
@@ -2156,25 +2063,25 @@ With regard to the individuality of adult education, the large scale of this are
 
 Besides the general principles, the special principles on which changes in adult education will be based are:
 
-- Volunteering
+1) Volunteering
 
-- Training working skills
+2) Training working skills
 
-- The connection between formal and informal education system
+3) The connection between formal and informal education system
 
-- Introducing social partners in management,  the teaching process and the financing of education,
+4) Introducing social partners in management, the teaching process and the financing of education,
 
-- Flexibility in choosing educational programmes
+5) Flexibility in choosing educational programmes
 
-- The development of a strategy and grading the establishment of adult education system bases,
+6) The development of a strategy and grading the establishment of adult education system bases,
 
-- Assessment system development of informally acquired knowledge and qualifications
+7) Assessment system development of informally acquired knowledge and qualifications
 
 ### 7. 2. Goals
 
-- Define adult education with a special law as a part of a uniform system of  education
+1) Define adult education with a special law as a part of a uniform system of  education
 
-- Functional literacy and education of people over 35.
+2) Functional literacy and education of people over 35.
 
 71
 
@@ -2184,15 +2091,15 @@ Besides the general principles, the special principles on which changes in adult
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-- Free primary adult education
+3) Free primary adult education
 
-- Job training of people who did not finish education a profession or for vocational rehabilitation.
+4) Job training of people who did not finish education a profession or for vocational rehabilitation.
 
-- Retraining and additional training
+5) Retraining and additional training
 
-- Training and additional training in companies and other organizations
+6) Training and additional training in companies and other organizations
 
-- Increasing the level of formal education for people over 30
+7) Increasing the level of formal education for people over 30
 
 ### 7. 3. Actors in the organization of adult education
 
@@ -2306,7 +2213,7 @@ Due to the lack  of  quality  facilities  for  training  in  the  existing  educ
 
 ### 7. 4. Types and methods of adult education acquisition
 
-Adult  education  varies:  education  and  training  of  'people without
+Adult  education  varies:  education  and  training  of  “people without
 
 75
 
@@ -2316,13 +2223,13 @@ Adult  education  varies:  education  and  training  of  'people without
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-profession', training for a profession needing lower qualifications, additional qualification, knowledge innovation, pre-qualification, technological training, specialization, education of the gifted, special education, professional rehabilitation, education for transition etc.
+profession”, training for a profession needing lower qualifications, additional qualification, knowledge innovation, pre-qualification, technological training, specialization, education of the gifted, special education, professional rehabilitation, education for transition etc.
 
 According  to  the  method  and  location,  adult  education  can  be:  formal (school), non-formal (different educational institutions and other organizational forms) and informal (family, association, mass media, leisure time, distance learning, self-education, internet).
 
 ### 7. 5. Curriculum
 
-- ¾ Outline programmes which will enable the education and training of adults who have the right to regular primary education, that is, people who have not finished primary compulsory school, people without any profession, people who did not complete secondary school, two-year post-secondary education or university, people without qualifications for a job, and who want to have prequalification, additional qualification or specialization, people who want to have a life-long education, elderly people who want to gain new knowledge and skills according to their interests and affinities, etc.
+- ¾ Outline programmes which will enable the education and training of adults who have the right to regular primary education, that is, people who have not finished primary compulsory school, people without any profession, people who did not complete secondary school, two-year post-secondary education or university, people without qualifications for a job, and who want to have pre-qualification, additional qualification or specialization, people who want to have a life-long education, elderly people who want to gain new knowledge and skills according to their interests and affinities, etc.
 
 - ¾ Adjust adult education, so that it will be implemented according to the curricula for the education of the young (primary, secondary, college or higher), and, to the needs and abilities of the adult in compliance with the separate laws.
 
@@ -2432,9 +2339,9 @@ For secondary, college and  higher education  and  certain types of education fo
 
 - ¾ The assessment of adults (primary, secondary, two-year post secondary  and  higher)  would  be  implemented  according  the prescribed assessment system for the young.
 
-- ¾ Education  and  training  of  adults  would  be  carried  out  through courses  (seminars  etc),  and  it  would  be  evaluated  descriptively: 'pass' or 'fail'.
+- ¾ Education  and  training  of  adults  would  be  carried  out  through courses  (seminars  etc),  and  it  would  be  evaluated  descriptively: “pass” or “fail”.
 
-- ¾ Additional qualification, pre-qualification, in-service education would be assessed in a descriptive way: "satisfactory' of 'unsatisfactory', 'qualified for work' or 'not qualified for work'.
+- ¾ Additional qualification, pre-qualification, in-service education would be assessed in a descriptive way: "satisfactory” of “unsatisfactory”, “qualified for work” or “not qualified for work”.
 
 - ¾ It would be useful to use the services of specialized institutions for the periodical evaluation of acquired knowledge and skills as well as for the assessment of the overall system of adult education.
 
@@ -2478,7 +2385,7 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ## APPENDIXES
 
-Based  on  article  12,  item  3  of  the  Decree  of  the  Government  of  The Republic Of Montenegro  (The Official Gazette Of The Republic Of Montenegro',  No:  15/94  and  4/97),  The  Government  Of  The  Republic  Of Montenegro at the session of January 4 th , 2001 passed the following
+Based  on  article  12,  item  3  of  the  Decree  of  the  Government  of  The Republic Of Montenegro  (The Official Gazette Of The Republic Of Montenegro”,  No:  15/94  and  4/97),  The  Government  Of  The  Republic  Of Montenegro at the session of January 4th, 2001 passed the following
 
 ### THE DECISION ON THE ESTABLISHMENT OF THE COUNCIL FOR CHANGES IN EDUCATION OF THE REPUBLIC OF MONTENEGRO
 
@@ -2506,9 +2413,9 @@ The following people are appointed as members of the Council:
 
 the Chairman:
 
-- Acad. PhD Dragan Vuk č evi ć ,prof. Faculty of Law - Podgorica,
+1. Acad. PhD Dragan Vukčević,prof. Faculty of Law - Podgorica,
 
-- Acad. PhD Petar Vukoslav č evi ć , professor, Faculty of Mechanical Enginenring - Podgorica,
+2. Acad. PhD Petar Vukoslavčević, professor, Faculty of Mechanical Enginenring - Podgorica,
 
 81
 
@@ -2518,63 +2425,63 @@ the Chairman:
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-- Acad.  PhD  Miodrag  Perovi ć ,  professor,  Faculty  of  Science  Podgorica;
+3. Acad. PhD Miodrag Perović, professor, Faculty of Science - Podgorica;
 
-- Acad.  PhD  Slobodan  Backovi ć ,professor,  Faculty  of  Science Podgorica
+4. Acad. PhD Slobodan Backović,professor, Faculty of Science Podgorica
 
-- PhD Predrag Ivanovi ć , professor, Faculty of Economics -Podgorica;
+5. PhD Predrag Ivanović, professor, Faculty of Economics - Podgorica;
 
-- PhD Perko Vukoti ć , Professor, Faculty of Science - Podgorica;
+6. PhD Perko Vukotić, Professor, Faculty of Science - Podgorica;
 
-- PhD Ratko Djukanovi ć ;profesor Faculty of Phylology - Nikši ć ;
+7. PhD Ratko Djukanović;profesor Faculty of Phylology - Nikšić;
 
-- PhD Miladin Vukovi ć , professor,Faculty of Phylology - Nikši ć ;
+8. PhD Miladin Vuković, professor,Faculty of Phylology - Nikšić;
 
-- PhD Žarko Mirkovi ć ,professor,  Academy of Music - Cetinje;
+9. PhD Žarko Mirković,professor, Academy of Music - Cetinje;
 
-- PhD Sreten Škuleti ć ,professsor,  Faculty of Electrical Engineering Podgorica;
+10. PhD Sreten Škuletić,professsor, Faculty of Electrical Engineering - Podgorica;
 
-- PhD Dragan Radonji ć ,professor, Faculty of Law - Podgorica;
+11. PhD Dragan Radonjić,professor, Faculty of Law - Podgorica;
 
-- PhD Božidar Šekularac,professor, Deputy Minister of Science and - Podgorica;
+12. PhD Božidar Šekularac,professor, Deputy Minister of Science and - Podgorica;
 
-- PhD Dragan Koprivica, professor,Faculty of Phylology - Nikši ć ;
+13. PhD Dragan Koprivica, professor,Faculty of Phylology - Nikšić;
 
-- MA. Živko Andrijaševi ć , Faculty of Phylology - Nikši ć ;
+14. MA. Živko Andrijašević, Faculty of Phylology - Nikšić;
 
-- PhD Marko Camaj, professor, Faculty of Phylology- Nikši ć ;
+15. PhD Marko Camaj, professor, Faculty of Phylology- Nikšić;
 
-- PhD Ratko Radovi ć , Assist. Professor Clinical Center of Montengro - Podgorica;
+16. PhD Ratko Radović, Assist. Professor Clinical Center of Montengro - Podgorica;
 
-- PhD Slavka Gvozdenovi ć ,  Assist. Professor, Faculty of Phylology Nikši ć ;
+17. PhD Slavka Gvozdenović, Assist. Professor, Faculty of Phylology - Nikšić;
 
-- MA. Mirjana Kuljak, Faculty of Economics - Podgorica;
+18. MA. Mirjana Kuljak, Faculty of Economics - Podgorica;
 
-- Radovan Damjanovi ć , Deputy Minister of Education and Science - Podgorica;
+19. Radovan Damjanović, Deputy Minister of Education and Science - Podgorica;
 
-- Slobodan Dakovi ć , Director of Electrical PC  - Nikši ć ;
+20. Slobodan Daković, Director of Electrical PC - Nikšić;
 
-- Ivo Armenko, Director of HTP Budva Rivier,
+21. Ivo Armenko, Director of HTP Budva Rivier,
 
-- Mihailo Banjevi ć , Director of Aluminium Plant -KAP- Podgorica;
+22. Mihailo Banjević, Director of Aluminium Plant -KAP- Podgorica;
 
-- Djoko Rajkovi ć , Director of AD "Plantation" - Podgorica;
+23. Djoko Rajković, Director of AD "Plantation" - Podgorica;
 
-- Miodrag Cauševi ć , Vice-president of Chamber of Commerce  of Montengro Podgorica;
+24. Miodrag Caušević, Vice-president of Chamber of Commerce of Montengro Podgorica;
 
-- Branislav  Bojani ć ,  Director  of  Republic  Emloyment  Agency  Podgorica;
+25. Branislav Bojanić, Director of Republic Emloyment Agency - Podgorica;
 
-- 26.Svetozar  Bulatovi ć ,  Chairman  of  Education,  Culture  and  Sports Union- Podgorica;
+26.Svetozar Bulatović, Chairman of Education, Culture and Sports Union- Podgorica;
 
-- Pavle Č uki ć ,  Primary school teacher of pedagogy, OŠ "Radomir Mitrovi ć " - Berane;
+27. Pavle Čukić, Primary school teacher of pedagogy, OŠ "Radomir Mitrović" - Berane;
 
-- Uroš Zekovi ć , Teacher of English , Institute for Foreign Languages, Podgorica
+28. Uroš Zeković, Teacher of English , Institute for Foreign Languages, Podgorica
 
-- 29.Tatjana Novovi ć , Educational inspector for pre-school education, Ministry of Education and Science
+29.Tatjana Novović, Educational inspector for pre-school education, Ministry of Education and Science
 
-- Zuvdija Hodži ć , Writer- Podgorica;
+30. Zuvdija Hodžić, Writer- Podgorica;
 
-- Gojko  Jelovac,  Principal  of  Primary  School  "Vladimir  Nazor"  Podgorica;
+31. Gojko Jelovac, Principal of Primary School "Vladimir Nazor" - Podgorica;
 
 82
 
@@ -2584,15 +2491,15 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-- Faik  Muhovi ć ,  Principal  of  Primary  School  "Saljko  Aljkovi ć " -Pljevlja;
+32. Faik Muhović, Principal of Primary School "Saljko Aljković" - Pljevlja;
 
-- Drago Č antri ć , Principal of Gymnsaium "Panto Mališi ć " - Berane;
+33. Drago Čantrić, Principal of Gymnsaium "Panto Mališić" - Berane;
 
-- PhD  Nail  Draga,  Principal  of  Primary  School  "Bedri  Elezaga", Vladimir - Ulcinj;
+34. PhD Nail Draga, Principal of Primary School "Bedri Elezaga", Vladimir - Ulcinj;
 
-- Borislav Kaš ć elan, Director of the Bureau for professional rehabilitation of people with hearing and speech impediments Kotor;
+35. Borislav Kašćelan, Director of the Bureau for professional rehabilitation of people with hearing and speech impediments - Kotor;
 
-- Dragan  Perovi ć ,  Principal  of  Secondary  Electrical  Enginering School - Nikši ć .
+36. Dragan Perović, Principal of Secondary Electrical Enginering School - Nikšić.
 
 -For Secretary:
 
@@ -2632,7 +2539,9 @@ This decision shall come into force on the eighth day after it is published in �
 
 Date: Podgorica, 4th January  2001.
 
-Government of the Republic of Montenegro PRESIDENT Filip Vujanovi ć
+Government of the Republic of Montenegro
+PRESIDENT
+Filip Vujanović
 
 Based on the Artricle 38s of the Decree on state governement organization and administration («Official Gazette of the Republic of Montengro», No: 8/93, 39/93, 19/95, 7/97 and 18/98), the Ministry of Education and Science brings
 
@@ -2641,7 +2550,17 @@ Based on the Artricle 38s of the Decree on state governement organization and ad
 #### THE COMMISSIONS FOR THE REFORM OF THE  EDUCATIONAL SYSTEM IN THE REPUBLIC OF MONTENGRO
 
 ##### THE PRE-SCHOOL EDUCATION COMMISSION
-Tanja Novovi ć , Chairwoman of the Commission, Nataša Mi ć ovi ć , Secretary, Vjera Filipovi ć , Pero Vuksanovi ć , Milijana Milidrag, Milovan Savi ć evi ć , Zorica Radovi ć , Divna Popovi ć , PhDVesna Vu č ini ć , Fran Vuljaj i Milja Vuja č i ć .
+Tanja Novović, Chairwoman of the Commission,
+Nataša Mićović, Secretary,
+Vjera Filipović,
+Pero Vuksanović,
+Milijana Milidrag,
+Milovan Savićević,
+Zorica Radović,
+Divna Popović,
+PhDVesna Vučinić,
+Fran Vuljaj i
+Milja Vujačić.
 
 84
 
@@ -2653,13 +2572,42 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ##### THE PRIMARY EDUCATION COMMISSION
 
-PhD Slobodan Backovi ć , prof.Chairman of the Commission ,
+PhD Slobodan Backović, prof.Chairman of the Commission ,
 
-Miodrag Vu č elji ć , Deputy Chairman, Goran Terzi ć , Secretary, Ljubinka Miloševi ć , Ljubomir Kova č evi ć , Miroslava Obradovi ć Nermin Hajdarpaši ć , Dušanka Popovi ć Nada Radonji ć , Jasmina Vukaševi ć , PhD Petar Djurav č aj, Saša Mili ć , Slobodan Savovi ć , Dragana Staniši ć , Miloš Vuji č i ć , Andjela Ja ć imovi ć , Veselinka Golubovi ć Zorica Mini ć .
+Miodrag Vučeljić, Deputy Chairman,
+Goran Terzić, Secretary,
+Ljubinka Milošević,
+Ljubomir Kovačević,
+Miroslava Obradović
+Nermin Hajdarpašić,
+Dušanka Popović
+Nada Radonjić,
+Jasmina Vukašević,
+PhD Petar Djuravčaj,
+Saša Milić,
+Slobodan Savović,
+Dragana Stanišić,
+Miloš Vujičić,
+Andjela Jaćimović,
+Veselinka Golubović
+Zorica Minić.
 
 ##### THE HIGH SCHOOL COMMISSION
 
-PhD.Dragan Radonji ć ,prof, Chairman of the Commission; Vidosava Kaš ć elan, Deputy Chairwoman Divna Paljevi ć - Šturm, Secretary; Miroljub Ralevi ć ; Dragica An đ eli ć ; Dragan Bogojevi ć ; PhD Marko CamajProf; Žana Kovijani ć ; Zorica Kotri; Sr đ a Popovi ć ; Slavica Vujovi ć ; Saša Nikoli ć ; Na đ a Durkovi ć ; Jadranka Grbovi ć
+PhD.Dragan Radonjić,prof, Chairman of the Commission;
+Vidosava Kašćelan, Deputy Chairwoman
+Divna Paljević - Šturm, Secretary;
+Miroljub Ralević;
+Dragica Anđelić;
+Dragan Bogojević;
+PhD Marko CamajProf;
+Žana Kovijanić;
+Zorica Kotri;
+Srđa Popović;
+Slavica Vujović;
+Saša Nikolić;
+Nađa Durković;
+Jadranka Grbović
 
 85
 
@@ -2671,73 +2619,73 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 ##### THE COMMISSION FOR VOCATIONAL EDUCATION
 
-PhD Perko Vukoti ć ,prof, Chairman of the Commission;
+PhD Perko Vukotić,prof, Chairman of the Commission;
 
-Maljota Nuculovi ć , Deputy Chairman;
+Maljota Nuculović, Deputy Chairman;
 
-Željko Rai č evi ć , Secretary;
+Željko Raičević, Secretary;
 
-PhD Lidija Stefanovi ć Kaljaj, prof.;
+PhD Lidija Stefanović Kaljaj, prof.;
 
-Savo Pejovi ć ;
+Savo Pejović;
 
-MA Blaženka Petri č evi ć ;
+MA Blaženka Petričević;
 
-Božidar Mimovi ć ;
+Božidar Mimović;
 
-Đ or đ ije Polovi ć ;
+Đorđije Polović;
 
-Vesna Dragutinovi ć ;
+Vesna Dragutinović;
 
-PhD Nikola Mijanovi ć , prof;
+PhD Nikola Mijanović, prof;
 
-Branka Martinovi ć ;
+Branka Martinović;
 
-Miomir  Radovi ć ;
+Miomir Radović;
 
-Mila Buri ć ;
+Mila Burić;
 
-Radomir Suši ć ;
+Radomir Sušić;
 
-Mijajlo Đ uri ć ;
+Mijajlo Đurić;
 
-Radovan Popovi ć ;
+Radovan Popović;
 
-Vukašin Zogovi ć
+Vukašin Zogović
 
 ##### THE COMMISSION FOR ADULT EDUCATION
 
-PhD Ratko Đ ukanovi č ,prof, Chairman of the Commission;
+PhD Ratko Đukanovič,prof, Chairman of the Commission;
 
-Vjera Kova č evi ć , Deputy Chairman;
+Vjera Kovačević, Deputy Chairman;
 
-MA Radoslav Miloševi ć Atos, Secretary
+MA Radoslav Milošević Atos, Secretary
 
-Božidar Šiševi ć ,
+Božidar Šišević,
 
-Duško Rajkovi ć ,
+Duško Rajković,
 
-Goran Š ć epanovi č ,
+Goran Šćepanovič,
 
-Milisav Ć iprani ć ,
+Milisav Ćipranić,
 
-Dimitrije Radulovi ć ,
+Dimitrije Radulović,
 
-MA.Miloica Zindovi ć ,
+MA.Miloica Zindović,
 
 Nataša Gazivoda,
 
-Mitar Jovanovi ć
+Mitar Jovanović
 
-Dragan Nikoli ć ,
+Dragan Nikolić,
 
-Rasenko Č adjenovi ć
+Rasenko Čadjenović
 
-Radmila Jaredi ć ,
+Radmila Jaredić,
 
-Jovan Ivanovi ć
+Jovan Ivanović
 
-The Commissions have been ordered to analyze the current situation in the various  segments  of  education,  to  make  a  parallel  analysis  of  the  same within  three  countries  of  EU,  at  least,  which  have  acheived  significant progress in this area, and whose example would be the most compatible with  our  educational  policy,  to  make  a  proposal  of  measures,to  draft domuments (The «Book of Changes», Draft Law etc.), and then to submit them to the Minister and the President of the Commission for Changes in Education for adoption.
+The Commissions have been ordered to analyze the current situation in the various segments of education, to make a parallel analysis of the same within three countries of EU, at least, which have acheived significant
 
 86
 
@@ -2747,7 +2695,10 @@ The Commissions have been ordered to analyze the current situation in the variou
 
 THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
-The Minister, Dragan Kujovic
+progress in this area, and whose example would be the most compatible with our educational policy, to make a proposal of measures,to draft domuments (The «Book of Changes», Draft Law etc.), and then to submit them to the Minister and the President of the Commission for Changes in Education for adoption.
+
+The Minister,
+Dragan Kujovic
 
 87
 
@@ -2761,11 +2712,11 @@ THE BOOK OF CHANGES OF THE EDUCATION SYSTEM OF THE REPUBLIC OF MONTENEGRO
 
 We owe huge thanks to foreign experts from Slovenia who participated in the work on the Book of Changes. They are:
 
-- Slavko Gaber, Ph. D
+1. Slavko Gaber, Ph. D
 
-- Mojca Kova č -Šebart, Ph. D
+2. Mojca Kovač-Šebart, Ph. D
 
-- prof. Janko Muršak, Ph. D
+3. prof. Janko Muršak, Ph. D
 
 88
 
