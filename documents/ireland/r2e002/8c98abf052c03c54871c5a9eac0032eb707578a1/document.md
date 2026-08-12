@@ -1,4 +1,5 @@
 [[START OF PAGE 1]]
+
 # LITERACY AND NUMERACY FOR LEARNING AND LIFE
 
 The National Strategy to Improve Literacy and Numeracy
@@ -6,6 +7,7 @@ The National Strategy to Improve Literacy and Numeracy
 Children and Young People 2011-2020
 
 DEPARTMENT OF EDUCATION AND SKILLS
+
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
@@ -66,7 +68,7 @@ Abbreviations 85
 
 Appendix 87
 
-> ¹ Early childhood care and education
+¹ Early childhood care and education
 
 3
 
@@ -80,12 +82,11 @@ Appendix 87
 
 [[START OF PAGE 7]]
 
+Ruairí Quinn, TD Minister for Education and Skills
+
 ## FOREWORD
 
-Ruairí Quinn, TD
-Minister for Education and Skills
-
-Literacy and numeracy are among the most important life skills that our schools teach. No child should leave school without having mastered these skills to the best of their abilities. Literacy and numeracy skills are crucial to a person’s ability to develop fully as an individual, to live a satisfying and rewarding life and to participate fully in our society. Ensuring that all young people acquire these skills is one of the greatest contributions that we can make to achieving social justice and equity in our country.
+Literacy and numeracy are among the most important life skills that our schools teach. No child should leave school without having mastered these skills to the best of their abilities. Literacy and numeracy skills are crucial to a person's ability to develop fully as an individual, to live a satisfying and rewarding life and to participate fully in our society. Ensuring that all young people acquire these skills is one of the greatest contributions that we can make to achieving social justice and equity in our country.
 
 However, we know that some children are not developing these skills as they should. Information from national assessments of reading and mathematics, from inspections in schools and from international studies have shown that many students in Irish schools are not developing literacy and numeracy skills to the best of their abilities. We cannot afford to allow this to continue.
 
@@ -93,10 +94,9 @@ The Programme for Government makes clear that the Government is determined that 
 
 Realising these actions and achieving the targets in the strategy would be challenging in any circumstances, but will be especially so as we strive to curtail public expenditure in the current climate. This means that we will have to find the resources to implement this strategy by re-prioritising spending and by ensuring that we get the very best outcomes from existing financial and human resources.
 
-Yet, as we face these very difficult challenges, I am heartened by the very large number of people and organisations that have participated in the national consultation process that has informed the writing of this strategy. Their engagement demonstrates how strongly Irish people – both within the education system and beyond – are committed to improving literacy and numeracy standards. This strategy is intended to harness and focus that commitment in a concerted national effort to achieve world-class literacy and numeracy skills among our children and young people. I look forward to working with you in this vital national task.
+Yet, as we face these very difficult challenges, I am heartened by the very large number of people and organisations that have participated in the national consultation process that has informed the writing of this strategy. Their engagement demonstrates how strongly Irish people - both within the education system and beyond - are committed to improving literacy and numeracy standards. This strategy is intended to harness and focus that commitment in a concerted national effort to achieve world-class literacy and numeracy skills among our children and young people. I look forward to working with you in this vital national task.
 
-Ruairí Quinn, TD
-Minister for Education and Skills
+Ruairí Quinn, TD Minister for Education and Skills
 
 5
 
@@ -120,13 +120,13 @@ Literacy and Numeracy for Learning and Life is the national strategy to improve 
 
 It is very clear that very many people in the education system and beyond care passionately about ensuring that our young people master the skills of literacy and numeracy. Literacy and Numeracy for Learning and Life has been shaped by an intensive public consultation about how best we can improve the teaching and learning of these skills in the Irish education system.
 
-The strategy has been finalised following intensive consultation
-
 The Department of Education and Skills published a draft national plan for improving literacy and numeracy in November 2010 and asked for comments from the education system and the public. The publication sparked an intense debate about literacy and numeracy. Individuals, parents, students, teachers, staff groups in schools, lecturers, researchers and departments in colleges and other third-level institutions, representatives of community organisations and public bodies, as well as parents’ associations, trade unions, employers’ associations and school management bodies submitted detailed comments and suggestions on how to get the strategy right. Almost 480 written submissions were received as well as a number of comments on a dedicated telephone line; most of those who submitted written comments agreed to their publication and these documents are available on the website of the Department of Education and Skills. Several of the submissions include very valuable reviews and summaries of relevant research and detailed bibliographies regarding the teaching, learning and assessment of literacy and numeracy skills.
 
-Hundreds of individuals and organisations contributed written submissions and participated in discussions
-
 In responding to the draft plan, representatives of stakeholders in education and the wider public acknowledged the need to improve standards in literacy and numeracy. They recognised that it is essential that all children develop literacy and numeracy skills to the best of their abilities and acknowledged that
+
+The strategy has been finalised following intensive consultation
+
+Hundreds of individuals and organisations contributed written submissions and participated in discussions
 
 7
 
@@ -138,19 +138,19 @@ indications of falling standards demanded immediate and decisive action by the G
 
 All of the written submissions have been analysed closely in the preparation of this strategy. In addition, officials from the Department met with over sixty organisations to hear more about their suggestions and to examine the key proposals that they had made. Officials in the Department of Education and Skills also worked closely with colleagues in the Department of Children and Youth Affairs and consulted with staff with specialist expertise at the National Council for Curriculum and Assessment (NCCA), the Educational Research Centre (ERC), Drumcondra and the Teaching Council.
 
-### Literacy and numeracy are much more than “reading, writing and arithmetic”
+### Literacy and numeracy are much more than 'reading, writing and arithmetic'
 
-Traditionally we have thought about literacy as the skills of reading and writing; but today our understanding of literacy encompasses much more than that. Literacy includes the capacity to read, understand and critically appreciate various forms of communication including spoken language, printed text, broadcast media, and digital media. Throughout this document, when we refer to “literacy” we mean this broader understanding of the skill, including speaking and listening, as well as communication using not only traditional writing and print but also digital media.
-
-Literacy includes the ability to use and understand spoken language, print, writing and digital media
+Traditionally we have thought about literacy as the skills of reading and writing; but today our understanding of literacy encompasses much more than that. Literacy includes the capacity to read, understand and critically appreciate various forms of communication including spoken language, printed text, broadcast media, and digital media. Throughout this document, when we refer to 'literacy' we mean this broader understanding of the skill, including speaking and listening, as well as communication using not only traditional writing and print but also digital media.
 
 Numeracy is not limited to the ability to use numbers, to add, subtract, multiply and divide. Numeracy encompasses the ability to use mathematical understanding and skills to solve problems and meet the demands of day-to-day living in complex social settings. To have this ability, a young person needs to be able to think and communicate quantitatively, to make sense of data, to have a spatial awareness, to understand patterns and sequences, and to recognise situations where mathematical reasoning can be applied to solve problems.
-
-Numeracy is the ability to use mathematics to solve problems and meet the demands of day-to-day living
 
 ### We must develop the literacy and numeracy skills of all young people
 
 Every young person needs to be literate and numerate. We use the basic skills of literacy and numeracy in almost every part of our lives when we communicate with each other – in traditional written forms or through the internet and digital media – when we follow signs and instructions, when we are at our work or enjoying leisure time, when we try to make sense of the mass of information and data available through the media, and
+
+Literacy includes the ability to use and understand spoken language, print, writing and digital media
+
+Numeracy is the ability to use mathematics to solve problems and meet the demands of day-to-day living
 
 8
 
@@ -164,13 +164,13 @@ Without the skills of literacy and numeracy, a young person or adult is cut off 
 
 ### Better literacy and numeracy for individuals contributes to a more just and equitable society
 
-Missing out on the skills of literacy and numeracy or failing to develop these skills to the best of each person’s capability is not just a loss for the individual: it is also an enormous loss for all of us in Irish society. Mastering the skills of literacy and numeracy brings with it many social, economic and health benefits for the individual and society as a whole. Having young people who can apply mathematical understanding in a growing range of economic, technical, scientific, social and other contexts is essential if we are to ensure employment and economic prosperity in the future. We know too that children who do not learn to read, write and communicate effectively are more likely to leave school early and in later life to be unemployed or in low skilled jobs, to have poorer emotional and physical health, to have limited earning power, and are more likely to be imprisoned. This strategy is premised on the strong belief that developing good literacy and numeracy skills among all young people is fundamental to the life chances of each individual and essential to the quality and equity of Irish society.
-
-Developing good literacy and numeracy skills among all young people is fundamental to the life chances of each individual and essential to the quality and equity of Irish society
+Missing out on the skills of literacy and numeracy or failing to develop these skills to the best of each person's capability is not just a loss for the individual: it is also an enormous loss for all of us in Irish society. Mastering the skills of literacy and numeracy brings with it many social, economic and health benefits for the individual and society as a whole. Having young people who can apply mathematical understanding in a growing range of economic, technical, scientific, social and other contexts is essential if we are to ensure employment and economic prosperity in the future. We know too that children who do not learn to read, write and communicate effectively are more likely to leave school early and in later life to be unemployed or in low skilled jobs, to have poorer emotional and physical health, to have limited earning power, and are more likely to be imprisoned. This strategy is premised on the strong belief that developing good literacy and numeracy skills among all young people is fundamental to the life chances of each individual and essential to the quality and equity of Irish society.
 
 ### This strategy is about the contribution of the education system to better literacy and numeracy
 
 Students can fail to develop adequate literacy and numeracy skills for many reasons. Some of these lie beyond the school and education system. For example, we know that children from socially and economically disadvantaged communities are significantly more likely to experience difficulties in literacy and numeracy for reasons associated with poverty, poorer health, and a wide range of other factors. Many of the underlying reasons for such failure are not found in the education system and some are not amenable to school-based solutions.
+
+Developing good literacy and numeracy skills among all young people is fundamental to the life chances of each individual and essential to the quality and equity of Irish society
 
 9
 
@@ -190,9 +190,9 @@ This learning progresses in the primary school. Vital aspects of the child's ski
 
 There may be a mistaken belief that the development of young people’s literacy and numeracy skills should be completed by the end of primary school: this is not the case. We know, in fact, that there will be considerable variation in the level of skills acquired by twelve-year-olds. Some children will have mastered
 
-Both primary and post-primary schools have key roles in teaching essential literacy and numeracy skills
-
 Children’s development of language and mathematical understanding takes place from the earliest years
+
+Both primary and post-primary schools have key roles in teaching essential literacy and numeracy skills
 
 10
 
@@ -288,7 +288,7 @@ Improving literacy and numeracy standards is an urgent national priority for the
 
 - Continue to target available resources on enhancing provisions designed to improve the learning opportunities and achievement of children who come from the most disadvantaged communities and those with additional learning needs
 
-- Help parents and communities to support their children’s literacy and numeracy development
+- Help parents and communities to support their children's literacy and numeracy development
 
 - Raise public awareness of the role that the family, community, the education system, libraries and other bodies can play together in promoting successful literacy and numeracy learning
 
@@ -392,17 +392,17 @@ Being clear about what we want to achieve is essential if we are to succeed in t
 
 ### Parents play a vital role in literacy and numeracy
 
-The support of parents who are engaged in their child’s learning has a significant positive impact on a child’s educational achievement, especially in literacy and numeracy. Young people achieve better when their parents take an active interest in their education, supporting and encouraging them and creating high but achievable expectations. Parental support for young children not only makes a real difference to their development but, in some circumstances mitigates the negative effects of low socio-economic status or low parental educational attainment. The outcomes of the National Assessments of Mathematics and English Reading in 2009 show that there is a strong link between the home environment and student achievement. For example, high achievement was associated with the amount of books and educational resources in the home, while low achievement was associated with practices such as locating a television in a child’s bedroom and spending excessive time on the internet or gaming.
+The support of parents who are engaged in their child's learning has a significant positive impact on a child's educational achievement, especially in literacy and numeracy. Young people achieve better when their parents take an active interest in their education, supporting and encouraging them and creating high but achievable expectations. Parental support for young children not only makes a real difference to their development but, in some circumstances mitigates the negative effects of low socio-economic status or low parental educational attainment. The outcomes of the National Assessments of Mathematics and English Reading in 2009 show that there is a strong link between the home environment and student achievement. For example, high achievement was associated with the amount of books and educational resources in the home, while low achievement was associated with practices such as locating a television in a child's bedroom and spending excessive time on the internet or gaming.
 
-The recognition that the family affords the best environment for children is one of the principles on which the forthcoming National Children’s Strategy is based. This means that any external interventions should be designed to support and empower families from within communities. Literacy and Numeracy for Learning and Life has been drafted to integrate fully with this approach in the National Children’s Strategy. Actions under both strategies will strongly support the delivery of better literacy and numeracy outcomes for children.
+The recognition that the family affords the best environment for children is one of the principles on which the forthcoming National Children's Strategy is based. This means that any external interventions should be designed to support and empower families from within communities. Literacy and Numeracy for Learning and Life has been drafted to integrate fully with this approach in the National Children's Strategy. Actions under both strategies will strongly support the delivery of better literacy and numeracy outcomes for children.
 
-The period from birth to three years is of crucial importance in the child’s physical, social, emotional, cognitive and linguistic development. The role of parents and families is critically important in these years, particularly in the development of children’s language and emergent literacy and numeracy skills. Partnership with parents and families plays a central role in nurturing this development and in laying the foundations for further learning in early childhood care and education (ECCE) settings and schools.
-
-We know that parents make a real difference
+The period from birth to three years is of crucial importance in the child's physical, social, emotional, cognitive and linguistic development. The role of parents and families is critically important in these years, particularly in the development of children's language and emergent literacy and numeracy skills. Partnership with parents and families plays a central role in nurturing this development and in laying the foundations for further learning in early childhood care and education (ECCE) settings and schools.
 
 ### Homes and schools can support each other
 
-Schools and ECCE settings play an important role in empowering and informing parents in their efforts to support their children’s literacy and numeracy. Parents also have much to offer schools and ECCE settings in supporting teaching and learning. Engagement with parents should be a core part of the literacy and numeracy plans of schools and ECCE settings. Schools and ECCE settings must be welcoming and accessible places for parents and should make meaningful provision for the involvement of parents in the classroom and beyond in activities that support the development of better literacy and numeracy skills.
+Schools and ECCE settings play an important role in empowering and informing parents in their efforts to support their children’s literacy and numeracy. Parents also have much to offer schools and ECCE settings in supporting teaching and learning. Engagement with parents should be a core part of the literacy and numeracy plans of schools
+
+We know that parents make a real difference
 
 Home and other educational settings must work together
 
@@ -412,19 +412,21 @@ Home and other educational settings must work together
 
 [[START OF PAGE 22]]
 
+and ECCE settings. Schools and ECCE settings must be welcoming and accessible places for parents and should make meaningful provision for the involvement of parents in the classroom and beyond in activities that support the development of better literacy and numeracy skills.
+
 Ensuring the message about the importance of parental involvement gets through to parents and the wider community is essential for educational success. All parents need to be aware of the relevance of literacy and numeracy for their children’s future and the influence that they have over their children’s educational development. Parents, grandparents, extended family and other members of the community need to know how in a practical manner they can work in partnership with staff and teachers in ECCE settings and schools to contribute to children’s learning of literacy and numeracy. Parents with literacy difficulties need particular support. The NCCA Aistear guidelines on partnerships with parents provide excellent suggestions on how this may be done.
+
+### We have to help families and communities to foster children's learning in literacy and numeracy
+
+The communities in which children and young people live and grow also have a major role to play in fostering and supporting literacy and numeracy. Where schools are connected with each other and forge strong links with the wider community, there are better opportunities to share good practice and build supportive networks. Harnessing the collective effort of the wider community and other agencies has the potential to bring greater coherence and an integrated approach to the national effort to improve learning experiences and outcomes in literacy and numeracy. Schools and ECCE settings are at the heart of communities of learning where children and young people's learning should be supported through empowering and assisting families and engaging with supports such as libraries, health services, family resource centres and adult and family literacy services.  This is reinforced through the establishment of good networks of communication across schools and ECCE settings.
+
+In many communities, projects have been developed and initiatives have been undertaken to link schools and communities more closely and to enable people in the community to support children's learning and participation in school and education. Some of these projects and initiatives are supported through voluntary, charitable and state funding, and the projects have adopted a number of different approaches. Recent evaluation of these projects by the National Economic and Social Forum (NESF) has shown that, 'while there is excellence in community provision [for literacy], there is also variability,' and that 'greater leadership, quality assurance and support' are needed for this sector.
+
+A broad range of family literacy initiatives have been established. These are managed through a variety of agencies such as the Vocational Education Committees (VEC) and community and voluntary organisations, such as Barnardos. Activities span the entire spectrum from early childhood to adulthood and are a rich source of materials
 
 Parents need to know how best to help their children
 
-### We have to help families and communities to foster children’s learning in literacy and numeracy
-
-The communities in which children and young people live and grow also have a major role to play in fostering and supporting literacy and numeracy. Where schools are connected with each other and forge strong links with the wider community, there are better opportunities to share good practice and build supportive networks. Harnessing the collective effort of the wider community and other agencies has the potential to bring greater coherence and an integrated approach to the national effort to improve learning experiences and outcomes in literacy and numeracy. Schools and ECCE settings are at the heart of communities of learning where children and young people’s learning should be supported through empowering and assisting families and engaging with supports such as libraries, health services, family resource centres and adult and family literacy services. This is reinforced through the establishment of good networks of communication across schools and ECCE settings.
-
 Building learning communities will help children’s learning
-
-In many communities, projects have been developed and initiatives have been undertaken to link schools and communities more closely and to enable people in the community to support children’s learning and participation in school and education. Some of these projects and initiatives are supported through voluntary, charitable and state funding, and the projects have adopted a number of different approaches. Recent evaluation of these projects by the National Economic and Social Forum (NESF) has shown that, “while there is excellence in community provision [for literacy], there is also variability,” and that “greater leadership, quality assurance and support” are needed for this sector.
-
-A broad range of family literacy initiatives have been established. These are managed through a variety of agencies such as the Vocational Education Committees (VEC) and community and voluntary organisations, such as Barnardos. Activities span the entire spectrum from early childhood to adulthood and are a rich source of materials
 
 Many community projects and family literacy initiatives work to support learning
 
@@ -438,9 +440,9 @@ and information for parents and families on practical and effective approaches t
 
 Libraries and librarians are an important resource in supporting children’s literacy. Through the expert selection and provision of a wide range of books and other materials, libraries can both support the acquisition of literacy skills and help foster children’s love of reading amongst children. Some schools benefit from in-house library facilities but the forging of strong links with local public library services will be an important facet of the literacy and numeracy plans of schools. Public libraries enable families to support their children’s literacy development through the range of resources and information they make available in a free, open and informal setting. While libraries are an excellent resource for all families, they can be of particular assistance to families who find it difficult to meet the cost of providing a rich range of books and educational resources in the home.
 
-Libraries are a valuable resource for families and communities
-
 Although a wide range of community and family initiatives is active and helping to support better engagement with schools and better learning outcomes for young people, the work and funding of these various bodies could be more effectively coordinated. In some areas, excellent work is underway, yet this is not readily recognised or replicated elsewhere. In other cases, projects may be duplicating effort and not enabling us to get the best outcomes for the resources that we have, while other areas and needs are neglected. A key part of the work of the Department of Children and Youth Affairs will be to collect information about the broad range of initiatives and projects that support families in various ways, to identify the approaches that have the most beneficial effects on the lives of families, children and young people, and to seek to coordinate and improve the services that are provided. We have to ensure that the interventions we prioritise make a real, measurable and positive difference to the lives and learning successes of children and young people.
+
+Libraries are a valuable resource for families and communities
 
 We need to target support for family and community initiatives that are proven to work
 
@@ -703,7 +705,7 @@ Cooperate with the Teaching Council to reconfigure the content and duration of i
 
 Objective | Detail | Responsible for this action | Indicative date
 --- | --- | --- | ---
-• Ensure that all teachers, irrespective of their subject specialism, complete mandatory units in the development of literacy and numeracy across the curriculum Increase the time spent on school-based teaching practice across a range of classroom contexts and ensure that developmental opportunities in literacy and numeracy feature as a priority • Ensure that teachers are required to demonstrate satisfactory skills in the teaching of literacy and numeracy as relevant within their subject specialisms during the teaching practice component of their ITE course
+• Ensure that all teachers, irrespective of their subject specialism, complete mandatory units in the development of literacy and numeracy across the curriculum • Increase the time spent on school-based teaching practice across a range of classroom contexts and ensure that developmental opportunities in literacy and numeracy feature as a priority • Ensure that teachers are required to demonstrate satisfactory skills in the teaching of literacy and numeracy as relevant within their subject specialisms during the teaching practice component of their ITE course
 Provide accredited post-graduate course to equip teachers to teach in Irish-medium settings | • Support the provision of an accredited post-graduate course to equip teachers to teach in Irish-medium settings at primary and/or post-primary level in at least one of the ITE providers | Department of Education and Skills, in conjunction with the Teaching Council and ITE providers | 2018
 Provide continued support to newly qualified teachers generally and especially in the teaching of literacy and numeracy | • Provide intensive units within the national teacher induction programme on the teaching of literacy (English and Irish) and numeracy and on the use of assessment in a range of school contexts • Make participation in the national teacher induction programme mandatory by 2012 | Department of Education and Skills, (in conjunction with education centres and ITE providers). Responsibility for overseeing induction and probationary requirements will transfer to the Teaching Council in 2012 | 2011-12
 Focus the provision of Department-supported continuing professional development for teachers on the teaching of literacy and numeracy and the use of assessment | • Provide access to approved, high-quality professional development courses of at least twenty hours' duration in literacy, numeracy and assessment (as discrete or integrated themes, provided incrementally or in block) every five years for primary teachers (as an element of the continuing professional development that teachers require to maintain their professional skills) | Department of Education and Skills in cooperation with the Teaching Council, education centres and other CPD providers | Commence set-up in 2011-12 Extend provision from 2012-2013
@@ -805,15 +807,15 @@ Improve leadership development programmes for new and aspiring principals and de
 
 We have to be very clear about what we want children and young people to learn. The curriculum should define the knowledge, skills and attitudes that we expect children to acquire in school and ECCE settings and it should shape the learning experiences that we provide for young people.. The curriculum covers much more than literacy and numeracy of course, but the goals that we set for literacy and numeracy learning are a fundamental part of the range of learning experiences and outcomes that we seek to achieve for each child. Getting the curriculum right at each stage of the learner's development and ensuring that the curriculum is implemented as effectively as possible are essential if we are to ensure that children and young people acquire the literacy and numeracy skills that they need as students and adults.
 
-Literacy and numeracy skills are a fundamental part of the learning outcomes that we seek to achieve for each child
-
 ### We must ensure that children and young people have a rounded and fulfilling educational experience
 
 All learners should have an opportunity to engage in a broad, balanced and fulfilling curricular experience that supports all aspects of their development - not just the academic dimension but the social, emotional, imaginative, aesthetic, and physical dimensions as well. While maintaining a focus on literacy and numeracy, we must also ensure that learners have regular opportunities to engage in a range of areas of learning and that the starting point for learning reflects the needs and interests of the learner.
 
-Young people need to engage in a range of areas of learning and the starting point for their learning should reflect their needs and interests
-
 The development of positive attitudes and motivation are vital for progression in literacy and numeracy and we have to ensure that the learning experience for all learners in these areas is enjoyable and satisfying. All learners should benefit from the opportunity to experience the joy and excitement of getting 'lost' in a book (in both paper-based and digital formats) and come to appreciate the fun of exploring mathematical problems and the satisfaction of arriving at a solution. All learners should also have regular opportunity to engage with those learning approaches, including cooperative learning, differentiated learning, active learning and problem-solving activity, which we know not only contribute to more effective learning but increase learners' in participation and enjoyment of the learning process.
+
+Literacy and numeracy skills are a fundamental part of the learning outcomes that we seek to achieve for each child
+
+Young people need to engage in a range of areas of learning and the starting point for their learning should reflect their needs and interests
 
 Positive attitudes and motivation are vital for progression in literacy and numeracy
 
@@ -831,13 +833,13 @@ Placing a strong focus in schools on the development and monitoring of students'
 
 However, the curriculum cannot include everything that might be desirable. We have to be realistic in the expectations that we set for students, teachers and schools. We have to acknowledge that defining the curriculum inevitably involves making choices and setting priorities.
 
-The curriculum cannot include everything that might be desirable. We have to be realistic in the expectations we set for students, teachers and schools
-
 The issues and concerns that we consider to be important or relevant change over time and it is natural for the curriculum to evolve to reflect changing circumstances. In recent years, for example, there have been demands from organisations, interest groups and various educators that greater emphasis should be placed in the curriculum on such areas as social and life skills, environmental issues, arts and music education, scientific understanding, and numeracy among others. When social, health, economic or environmental challenges arise in our society and country, it is natural to think that we can seek to find at least some of the solutions through schools and the curriculum.
 
 ### We have to prioritise literacy and numeracy in our school curriculum
 
 While it is understandable that we tend to look to our schools to lead in responding to many of the challenges that face us, we have to recognise that the curriculum cannot mediate all issues that are of relevance to young people and society in general. Including a broader range of issues, topics and subjects in the curriculum runs the risk that the time available in school for the acquisition and consolidation of critical core skills may be eroded. We have to acknowledge that understanding and using literacy and numeracy are such core skills that time for their development must be safeguarded, sometimes by delaying the introduction of some curriculum areas and always by ensuring that the teaching literacy and numeracy is integrated across the curriculum.
+
+The curriculum cannot include everything that might be desirable. We have to be realistic in the expectations we set for students, teachers and schools
 
 Adequate time for literacy and numeracy must be safeguarded
 
@@ -855,11 +857,11 @@ More recent curricular development at the post-primary level has adopted a 'lear
 
 A 'learning outcomes' approach needs to be incorporated into all curriculum statements at primary level and in all new syllabuses at post-primary levels as they come on stream. Curricula should state clearly the skills and competences expected of learners at six points in their development (end of early years/infants, end of second class, end of fourth class, end of primary stage, end of junior cycle and end of senior cycle).
 
-The curriculum should state clearly the skills and competences expected of learners
-
 ### The curriculum should help teachers to understand the learning outcomes for literacy and numeracy
 
 Defining the goals that learners are to achieve in their literacy and numeracy learning is essential but will not be sufficient. We need to provide clear examples of what students can do when they have mastered the goals or outcomes at each stage of their learning. This means that the curriculum must be complemented and made more meaningful for teachers, parents and others through samples that exemplify children's learning at different stages. These samples can be provided in printed and digital formats, including video samples from classrooms that can be made available online. Having access to these illustrations of students' mastery of learning outcomes will help teachers to recognise successful learning, to plan the next steps in each child's learning and to use better teaching strategies.
+
+The curriculum should state clearly the skills and competences expected of learners
 
 The curriculum must be complemented and made more meaningful for teachers, parents and others through samples that exemplify children's learning at different stages
 
@@ -875,13 +877,13 @@ Learning in many curricular areas provides a rich context for the development of
 
 Exploiting fully the opportunities for literacy and numeracy development that can arise in the teaching of all subjects and areas of learning requires considerable levels of teaching skills and very systematic planning of teaching and learning experiences. The curriculum needs to support this sort of planning and preparation by teachers. We have to ensure that the curriculum, at primary and post-primary levels, provides comprehensive guidance for the development of literacy and numeracy across curricular areas. The curriculum must also provide clear advice to support all teachers, not just teachers of language or mathematics, to teach and assess literacy and numeracy.
 
-The curriculum must provide clear advice to support all teachers, not just teachers of language or mathematics, to teach and assess literacy and numeracy
-
 ### Learners should experience a seamless development of their literacy and numeracy skills
 
 In Ireland, we have developed curriculum documents in four distinct stages: early childhood, primary, post-primary junior cycle and post-primary senior cycle. One effect of this segmented curriculum development is that students experience discontinuities in their learning as they move from stage to stage. For example, the Aistear (2009) curriculum framework developed for early childhood education has advanced considerably the thinking underpinning the infant stages of the Primary School Curriculum (1999). It is clear that the latter needs to change to reflect the approach to teaching and learning that is appropriate for young children from three to six years.
 
 Similarly, students experience significant changes in content and teaching approaches between primary and lower secondary education. This discontinuity can result in students' achievement failing to advance in their early stages in junior cycle and inevitably their skills in literacy and particularly numeracy can suffer. In addition, we know that children will arrive in first year of post-primary school with a very varied range of achievement in literacy and numeracy. Many twelve-year-olds will have very advanced skills in literacy and numeracy, others will require much more consolidation of these skills, and a minority will not have developed their skills sufficiently to access the post-primary curriculum. Despite the existence of these very varied learning needs, it is not clear that post-primary teachers pay sufficient regard to the prior learning of individual students in literacy and numeracy when they are
+
+The curriculum must provide clear advice to support all teachers, not just teachers of language or mathematics, to teach and assess literacy and numeracy
 
 Learners need to experience continuity in their development of literacy and numeracy skills from early childhood to adulthood
 
@@ -895,8 +897,6 @@ planning and teaching subject lessons. All teachers should be teachers of litera
 
 We must ensure, therefore, that the development of learners' literacy and numeracy skills is comprehensively provided for in the national curriculum and that there is clear progression between the different stages of the learner's development. We have to ensure, too, that our aspirations for learners' literacy and numeracy development expressed in the curriculum documents are reflected in the curriculum as experienced by each child and young person in school. We need to make sure that the learner's progress in literacy and numeracy is carefully monitored at each stage of development, and that there is a focus in teaching on ensuring that all children and young people develop appropriate skills in literacy and numeracy.
 
-We need to make sure that the learner's progress in literacy and numeracy is carefully monitored at each stage of development
-
 ### The learning experiences in early childhood education
 
 Early years education spans the first six years of life. It is conceptualised in three phases, birth to eighteen months, eighteen months to three years and three years to six years. In Ireland, the last two years of the early education phase are generally provided within the primary education system. Since January 2010, the provision in infant classes has been complemented by the introduction of a free pre-school place for all three- and four-year-olds in the year immediately prior to enrolling in primary school, under an initiative funded by the Department of Children and Youth Affairs.
@@ -908,6 +908,8 @@ Aistear, the early childhood curriculum framework for children aged 0-6 years, s
 - provide appropriate developmental experiences that foster a firm foundation in literacy and numeracy skills, most notably in the area of language awareness, language development and early mathematical concepts
 
 - be developmentally appropriate and avoid premature formality
+
+We need to make sure that the learner's progress in literacy and numeracy is carefully monitored at each stage of development
 
 47
 
@@ -937,7 +939,7 @@ We face a number of specific curriculum challenges in ensuring successful learni
 
 [[START OF PAGE 51]]
 
-secure knowledge and understanding of early learning that makes a difference to children's cognitive development and longer-term progression in learning.
+secure knowledge and understanding of early learning that makes a difference to children's congnitive development and longer-term progression in learning.
 
 - When learning needs are identified, we need to ensure that appropriate learning opportunities are provided. At present, Department of Education and Skills policy focuses such intervention at the senior infants stage. However, offering intervention only at this stage may be too late for many children, particularly when it is shown that learning problems stem from difficulties associated with oral language development. The provision of intervention at an earlier stage in ECCE settings and/or in junior infants will necessitate greater communication and sharing of relevant information between ECCE settings and schools.
 
@@ -1192,19 +1194,19 @@ The evidence that is emerging suggests that the supports provided by DEIS are ha
 
 Numeracy Practices in DEIS Schools in 2009. However, the Inspectorate's evaluations showed that DEIS schools are not universally successful in raising standards of achievement, despite facing similar challenges and receiving similar supports. This makes it all the more important that best practice in the use of DEIS resources is disseminated and all schools are challenged to deliver the best outcomes for students.
 
+DEIS schools are not universally successful in raising standards of achievement, despite facing similar challenges and receiving similar supports
+
 Literacy and Numeracy for Learning and Life shows how we will continue to support students from socially, economically and educationally disadvantaged backgrounds through existing DEIS provision, but also ensure that the additional resources given to DEIS schools are used to best effect. In addition, we need to upskill teachers regarding the learning needs of students from disadvantaged backgrounds. Both initial and continuing professional development must enable teachers and principals to use the most appropriate and effective approaches with these students. Teachers and principals also need to understand fully how best to foster effective engagement between school and the home.
 
 ### We need to support students who do not speak English or Irish at home
 
 Children of migrants, whose first language is not the language of the school, bring to schools a welcome diversity which has the potential to raise language awareness throughout the school. However, these students require extra language support which builds on their mother tongue knowledge to achieve better literacy and numeracy outcomes in English and Irish. In recent years, an increasing number of children attending early childhood care and education (ECCE) settings and schools come from such homes and have to learn the language of the school - English or Irish - as an additional language.
 
+Students whose first language is not the language of the school require extra language support to achieve better literacy and numeracy outcomes
+
 Some 12 per cent of primary students and approximately 10 per cent of post-primary students were from a migrant background in 2009/10. The numbers have been increasing over the last decade. Almost all post-primary schools have migrant students and some 60 per cent of primary schools have migrant students. These migrant students come from over 160 countries and speak up to 200 languages. An estimated 70 to 75 per cent of these students do not speak English as a first language. The rate at which new families are migrating to Ireland has slowed considerably from the levels seen in recent years but substantial numbers of students continue to enter the school system from homes where neither English or Irish is the main language.
 
 While some students may acquire a level of competence in English or Irish and become able to converse socially, their acquisition of communicative language may mask a deficit in academic language skills that are needed to succeed at school. A further barrier for migrant students is their parents' lack of knowledge of English, in some cases, and of the Irish education system. The outcomes of the OECD's PISA 2009 tests demonstrated clearly that,
-
-DEIS schools are not universally successful in raising standards of achievement, despite facing similar challenges and receiving similar supports
-
-Students whose first language is not the language of the school require extra language support to achieve better literacy and numeracy outcomes
 
 64
 
@@ -1220,11 +1222,11 @@ The Department of Education and Skills currently spends around €73m per annum 
 
 A value-for-money (VFM) review of the effectiveness of the current supports for EAL students has shown that a very high proportion of this spending went on the provision of additional teachers. While such teachers can and do play a valuable role, the VFM study proposed that spending would be more effective if a greater proportion of it was targeted at improving all teachers' ability to respond to the learning needs of EAL students and a smaller proportion spent on additional EAL teachers. The study noted that this was the practice in Northern Ireland where there had been considerable success in getting teachers and schools to understand the importance of all teachers playing their role in supporting language development, including, in particular, subject-specialist teachers at the post-primary level. This suggests that we must adjust the focus of the allocation of, and encourage more targeted use of, available resources for students for whom English is an additional language, by placing greater emphasis on the continuing professional development of teachers. Including mandatory units on teaching children and young people for whom English is an additional language in initial teacher education and providing access to continuing professional development for serving teachers in this area will be vital to improving learning outcomes for these students.
 
+We must adjust the way we use the resources that are available to support students for whom English is an additional language
+
 ### We need to continue to support children with special educational needs
 
 Children with special educational needs, including children who are exceptionally able, need to be supported in different ways. They should leave school with the skills necessary to participate, to the level of their capacity in an inclusive way, in the social and economic activities of society and in order to live independent and fulfilled lives.
-
-We must adjust the way we use the resources that are available to support students for whom English is an additional language
 
 65
 
@@ -1258,11 +1260,11 @@ Youthreach caters for some of our most vulnerable young people, many of whom com
 
 A considerable proportion of the learners in Youthreach have significant literacy and numeracy difficulties. One of the greatest challenges facing Youthreach is the development of learners' literacy and numeracy skills. We know that provision for literacy and numeracy in centres for education requires a higher level of professional skills and greater targeting of the needs of individual learners. We need, therefore, to make professional development opportunities - such as those provided currently for teachers in schools - available to literacy and numeracy tutors working in centres offering the Youthreach programme.
 
+One of the greatest challenges facing Youthreach is the development of learners' literacy and numeracy skills
+
 In Youthreach, the curriculum is a flexible framework on which learning activities are built; but in particular the curriculum should be relevant, challenging and imaginative. Best practice involves the development of an overall, individual action plan that builds on interests and abilities and affirms and engages the learner. Multiple methodologies and integrated actions, such as team and interdisciplinary projects, are used. Elements such as personal development, guidance, basic skills and health promotion are integrated into the general curriculum and innovation and creativity are encouraged throughout. In particular, integrated whole-centre approaches to literacy and numeracy and to personal development are crucial.
 
-Literacy and numeracy development is a core element of the Junior Certificate School Programme (JCSP) which has proven to be successful in flexibly catering for individual learners' needs within mainstream education. Youthreach centres should be encouraged, where appropriate, to offer the JCSP programme as a part of a flexible curriculum and an integrated whole-centre approach. This would also give focus to the training of Youthreach staff in teaching and assessing young people's progress in literacy and numeracy.
-
-One of the greatest challenges facing Youthreach is the development of learners' literacy and numeracy skills
+Literacy and numeracy development is a core element of the Junior Certificate School Programme (JCSP) which has proven to be successful in flexibly catering for individual learners' needs within mainstream education. Youthreach centres should be encouraged, where appropriate, to offer the JCSP programme as a part of a flexible curriculum and an integrated whole-centre approach.  This would also give focus to the training of Youthreach staff in teaching and assessing young people's progress in literacy and numeracy.
 
 67
 
@@ -1356,7 +1358,7 @@ We also need to have assessment data to inform national educational policy for l
 
 Before we make judgements about how well students are achieving, we need a clear statement of the learning outcomes that we expect children and young people to achieve at each stage in the education system. In literacy and numeracy, this means that we need to prioritise the reform of the curricula for English and Irish at both primary and post-primary level and to continue with the ongoing reforms of the mathematics curriculum at post-primary level in the ways described in Chapter 6 of this strategy.
 
-Teachers need clear examples of what learners should know or be able to do when they have mastered the learning outcomes at each level in the curriculum. As discussed in Chapter 6 above, these examples can help teachers to plan better learning experiences for their students. They also help them to make informed judgements about the learning successes and needs of their students. A curriculum that combines clear statements of learning outcomes
+Teachers need clear examples of what learners should know or be able to do when they have mastered the learning outcomes at each level in the curriculum. As discussed in Chapter 6 above, these examples can help teachers to plan better learning experiences for their students. They also help them to make informed judgements about the learning successes and needs of their students. A curriculum that combines clear statements of learning outcomes and accessible examples of what learners should know or be able to do in literacy and numeracy can provide a reliable framework of reference against which teachers, parents and students can benchmark achievement and progress.
 
 Improving the ways in which we use student assessment can play a major role in improving literacy and numeracy learning
 
@@ -1526,7 +1528,7 @@ Objective | Detail | Responsible for this action | Indicative date
 • Improve arrangements for the transfer of information about the progress and achievement of students between all schools and state-funded ECCE settings by requiring all settings and schools to provide written reports in standard format to schools and settings to which students transfer (reports to be provided following admission of student to the new school/setting) | NCCA to develop suitable reporting templates and make available online Department of Education and Skills and Department of Children and Youth Affairs to make transfer of information a requirement | 2012-14 2013-15
 Ensure that all schools use assessment data to inform their three-year school improvement plans | • Require all schools to engage in robust self-evaluation and put in place a three-year school improvement plan which includes specific targets for the promotion and improvement of literacy and numeracy | Department of Education and Skills | From 2012-13
 • As part of the initial and continuing professional development for teachers and principals noted above, provide guidance on how best standardised assessment data may be aggregated, tracked over time and interpreted to support robust school self-evaluation; including guidance on identifying how the teaching and learning of literacy and numeracy may be improved in schools (including cautionary advice regarding difficulties that may arise when the number of students assessed at any one class level fall below ten students) | Department of Education and Skills | 2012-2013
-• Ensure that schools' self-evaluation and school improvement plans are informed by good assessment data: require principals in primary schools to report (annually) aggregated assessment data from standardised tests (of English reading and mathematics in all primary schools and Irish-reading in Irish-medium primary schools) 9 to boards of management | Department of Education and Skills | 2012
+• Ensure that schools' self-evaluation and school improvement plans are informed by good assessment data: require principals in primary schools to report (annually) aggregated assessment data from standardised tests (of English reading and mathematics in all primary schools and Irish-reading in Irish-medium primary schools)9 to boards of management | Department of Education and Skills | 2012
 • Following the availability of standardised tests, require principals in post-primary to report (annually) aggregated assessment data from standardised tests (of English reading and mathematics in all post-primary schools and Irish-reading in Irish-medium post-primary schools) to boards of management | Department of Education and Skills | 2015
 • Include guidance on the interpretation of standardised assessment data and its use in school self-evaluation in training for boards of management | Department of Education and Skills | From 2012-13
 
@@ -1625,9 +1627,9 @@ Please enter the number of students in second, fourth and sixth classes whose st
 
 Class | Up to 80 | 81-90 | 91-100 | 101-110 | 111-120 | Above 120 | Test administered
 --- | --- | --- | --- | --- | --- | --- | ---
-Second class | | | | | | | Drumcondra Reading Test or Micra-T Reading Test
-Fourth class | | | | | | | Drumcondra Reading Test or Micra-T Reading Test
-Sixth class | | | | | | | Drumcondra Reading Test or Micra-T Reading Test
+Second class |  |  |  |  |  |  | Drumcondra Reading Test or Micra-T Reading Test
+Fourth class |  |  |  |  |  |  | Drumcondra Reading Test or Micra-T Reading Test
+Sixth class |  |  |  |  |  |  | Drumcondra Reading Test or Micra-T Reading Test
 
 #### Mathematics
 
@@ -1635,9 +1637,9 @@ Please enter the number of students in second, fourth and sixth classes whose st
 
 Class | Up to 80 | 81-90 | 91-100 | 101-110 | 111-120 | Above 120 | Test administered
 --- | --- | --- | --- | --- | --- | --- | ---
-Second class | | | | | | | Drumcondra Maths Test or Sigma-T Maths Test
-Fourth class | | | | | | | Drumcondra Maths Test or Sigma-T Maths Test
-Sixth class | | | | | | | Drumcondra Maths Test or Sigma-T Maths Test
+Second class |  |  |  |  |  |  | Drumcondra Maths Test or Sigma-T Maths Test
+Fourth class |  |  |  |  |  |  | Drumcondra Maths Test or Sigma-T Maths Test
+Sixth class |  |  |  |  |  |  | Drumcondra Maths Test or Sigma-T Maths Test
 
 Note: Standard scores are transformations of raw scores achieved on standardised tests, and usually range between 55 and 145, with an average of 100.
 
