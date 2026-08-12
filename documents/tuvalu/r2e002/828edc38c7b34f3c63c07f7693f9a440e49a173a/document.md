@@ -22,6 +22,32 @@ CAP. 1.02  Arrangement of Sections
 
 ## Arrangement of Sections
 
+Section
+PREAMBLE 9
+PRINCIPLES OF THE CONSTITUTION 10
+PART I 11
+THE STATE AND THE CONSTITUTION 11
+1 The State .............................................................................................................. 11
+2 The area of Tuvalu............................................................................................... 11
+3 The Constitution as supreme law......................................................................... 12
+4 Interpretation of the Constitution......................................................................... 12
+5 Jurisdiction of the High Court in constitutional matters ...................................... 12
+6 Interpretation of Division 3.................................................................................. 12
+7 Alteration of the Constitution generally .............................................................. 13
+8 Alteration of the Constitution to give effect to U.K. constitutional change ........ 13
+PART II 14
+BILL OF RIGHTS 14
+9 Interpretation of Part II ........................................................................................ 14
+10 Freedom under law .............................................................................................. 14
+11 The fundamental human rights and freedoms...................................................... 15
+12 Application of Part II ........................................................................................... 16
+13 The Principles of the Preamble............................................................................ 16
+14 Parliamentary declarations of purpose................................................................. 16
+15 “Reasonably justifiable in a democratic society” ................................................ 17
+16 Life....................................................................................................................... 18
+17 Personal liberty .................................................................................................... 18
+18 Slavery and forced labour .................................................................................... 20
+
 2008 Revised Edition
 
 Page 3
@@ -33,6 +59,49 @@ Page 3
 Arrangement of Sections  CAP. 1.02
 
 The Constitution of Tuvalu
+
+19 Inhuman treatment................................................................................................21
+20 Property rights......................................................................................................21
+21 Privacy of home and property ..............................................................................23
+22 Protection of law ..................................................................................................24
+23 Freedom of belief .................................................................................................28
+24 Freedom of expression .........................................................................................29
+25 Freedom of assembly and association ..................................................................30
+26 Freedom of movement .........................................................................................31
+27 Freedom from discrimination...............................................................................33
+28 Other rights and freedoms ....................................................................................35
+29 Protection of Tuvaluan values, etc. ......................................................................35
+30 Provisions relating to certain officials..................................................................36
+31 Disciplined forces of Tuvalu ................................................................................37
+32 Foreign disciplined forces ....................................................................................37
+33 Hostile disciplined forces .....................................................................................37
+34 Interpretation of Division 4 ..................................................................................37
+35 Declaration of public emergency .........................................................................38
+36 Restrictions on certain rights and freedoms during public emergencies..............38
+37 Detention during public emergencies...................................................................38
+38 Application for enforcement of the Bill of Rights................................................39
+39 Questions as to the Bill of Rights arising in subordinate courts...........................40
+40 Jurisdiction of the High Court as to the Bill of Rights.........................................40
+41 Appeals as to the Bill of Rights............................................................................40
+42 Additional powers of the High Court as to the Bill of Rights..............................40
+PART III 41
+CITIZENSHIP 41
+43 Interpretation of Part III .......................................................................................41
+44 Initial citizenship under the Constitution .............................................................41
+45 Citizenship by birth ..............................................................................................41
+46 Citizenship by marriage under the Constitution...................................................42
+47 Laws as to citizenship ..........................................................................................42
+PART IV 43
+THE SOVEREIGN AND THE GOVERNOR-GENERAL 43
+48 The Sovereign of Tuvalu......................................................................................43
+49 Succession to the Crown ......................................................................................43
+50 The office of Head of State ..................................................................................43
+51 Functions, etc., of the Head of State generally.....................................................43
+52 Performance of functions by the Head of State....................................................44
+53 Failure by the Head of State to act .......................................................................44
+54 Establishment of office of Governor-General ......................................................45
+55 Appointment, etc., of the Governor-General........................................................45
+56 Acting Governor-General.....................................................................................46
 
 Page 4
 
@@ -46,6 +115,49 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Arrangement of Sections
 
+57 Oaths and affirmation by the Governor-General, etc........................................... 46
+58 Performance of functions by the Governor-General............................................ 47
+59 Provision to the Governor-General of information as to the conduct of
+government .......................................................................................................... 47
+60 Performance of certain ceremonial, etc., functions.............................................. 47
+PART V 48
+THE EXECUTIVE 48
+61 Vesting of the executive authority ....................................................................... 48
+62 Offices of Ministers ............................................................................................. 48
+63 The Prime Minister .............................................................................................. 49
+64 Removal from office of an incapacitated Prime Minister.................................... 49
+65 Suspension of Prime Minister.............................................................................. 50
+66 Effect of removal or suspension of Prime Minister ............................................. 50
+67 The other Ministers.............................................................................................. 50
+68 Acting Prime Minister ......................................................................................... 50
+69 Acting Ministers .................................................................................................. 51
+70 Conditions of acting appointments to Ministerial offices.................................... 51
+71 Caretaker governments ........................................................................................ 52
+72 Oaths and affirmations by Ministers.................................................................... 52
+73 Establishment of the Cabinet ............................................................................... 53
+74 Functions of the Cabinet ...................................................................................... 53
+75 Assignment of responsibilities to Ministers......................................................... 53
+76 Proceedings in Cabinet ........................................................................................ 53
+77 Validity of executive acts..................................................................................... 54
+78 The Secretary to Government .............................................................................. 54
+79 The Attorney-General .......................................................................................... 55
+80 Commutation, etc., of sentences .......................................................................... 56
+PART VI 57
+PARLIAMENT AND LAW-MAKING 57
+81 Establishment of Parliament ................................................................................ 57
+82 Composition of Parliament .................................................................................. 57
+83 Principles of electoral apportionment .................................................................. 58
+84 Vesting of the law-making power........................................................................ 58
+85 Delegated legislation............................................................................................ 59
+86 Manner of exercise of the law-making power ..................................................... 59
+87 Nature of elections ............................................................................................... 59
+88 Holding of elections............................................................................................. 59
+89 Electoral laws....................................................................................................... 60
+90 Right to vote......................................................................................................... 60
+91 Qualifications for registration.............................................................................. 60
+92 Disqualification from registration........................................................................ 61
+93 Candidature.......................................................................................................... 61
+
 2008 Revised Edition
 
 Page 5
@@ -57,6 +169,51 @@ Page 5
 Arrangement of Sections  CAP. 1.02
 
 The Constitution of Tuvalu
+
+94 Qualifications for election....................................................................................62
+95 Disqualification from election..............................................................................62
+96 Tenure of office....................................................................................................63
+97 Disclosure of interest............................................................................................63
+98 Vacation of seat on sentence ................................................................................64
+99 Recall of incapacitated member ...........................................................................64
+100 Questions as to membership of Parliament ..........................................................65
+101 Sitting, etc., while unqualified .............................................................................65
+102 Calculation of sentences.......................................................................................66
+103 Establishment of the office of Speaker.................................................................66
+104 Election of the Speaker ........................................................................................66
+105 Tenure of office of the Speaker............................................................................67
+106 Functions of the Speaker ......................................................................................67
+107 Acting Speaker .....................................................................................................68
+108 Rules of Procedure ...............................................................................................69
+109 Quorum of Parliament..........................................................................................69
+110 Voting in Parliament ............................................................................................69
+111 Procedure on Bills, etc .........................................................................................70
+112 Oath and affirmation of members of Parliament..................................................70
+113 Validity of proceedings in Parliament..................................................................71
+114 Privileges of Parliament .......................................................................................71
+115 Clerk of Parliament and other officers .................................................................72
+116 Meetings of Parliament ........................................................................................72
+117 Prorogation of Parliament ....................................................................................72
+118 Dissolution of Parliament.....................................................................................72
+PART VII 73
+THE COURTS 73
+119 The judicial system...............................................................................................73
+120 Establishment of the High Court..........................................................................73
+121 Composition of the High Court............................................................................74
+122 The Chief Justice of Tuvalu .................................................................................74
+123 Other Judges.........................................................................................................74
+124 Qualifications of Judges.......................................................................................74
+125 Remuneration, etc., of Judges ..............................................................................74
+126 Tenure of office of Judges....................................................................................75
+127 Removal of Judges from office ............................................................................75
+128 Suspension of Judges ...........................................................................................76
+129 Completion of pending matters ............................................................................76
+130 Jurisdiction of the High Court generally ..............................................................76
+131 Constitutional interpretation.................................................................................77
+132 Appellate jurisdiction of the High Court..............................................................77
+133 Other jurisdiction, etc., of the High Court............................................................77
+134 Establishment of the Court of Appeal ..................................................................77
+135 Jurisdiction of the Court of Appeal ......................................................................78
 
 Page 6
 
@@ -70,6 +227,48 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Arrangement of Sections
 
+136 Jurisdiction of the Sovereign in Council.............................................................. 78
+PART VIII 79
+PUBLIC EMPLOYMENT 79
+137 Interpretation of Part VIII .................................................................................... 79
+138 Application of Part VIII....................................................................................... 79
+139 The State Services................................................................................................ 80
+140 Creation etc., of offices, etc., in State Services.................................................... 80
+141 Appointments subject to approval, etc................................................................. 80
+142 Localization ......................................................................................................... 81
+143 Establishment of the Commission ....................................................................... 81
+144 Composition of the Commission ......................................................................... 81
+145 Appointment of members of the Commission ..................................................... 81
+146 Remuneration, etc., of members of the Commission........................................... 82
+147 Tenure of office of members of the Commission ................................................ 82
+148 Exclusion of members of the Commission from certain employment................. 82
+149 Functions of the Commission .............................................................................. 83
+150 Independence of the Commission........................................................................ 83
+151 Appeals within State Services.............................................................................. 84
+152 Procedures, etc., of the Commission.................................................................... 84
+153 Delegation by the Commission............................................................................ 84
+154 Application of Division 4..................................................................................... 85
+155 The Public Service ............................................................................................... 85
+156 Magistrates........................................................................................................... 85
+157 The Police Force .................................................................................................. 85
+158 Secretaries to Ministries....................................................................................... 86
+159 Special cases of appointments ............................................................................. 86
+160 Interpretation of Division 5.................................................................................. 87
+161 Application of Division 5..................................................................................... 87
+162 Removal of prescribed officials from office........................................................ 88
+163 Suspension of prescribed officials ....................................................................... 89
+164 Contract employment........................................................................................... 89
+PART IX 89
+FINANCE 89
+165 Parliamentary responsibility for finance.............................................................. 89
+166 Executive initiative .............................................................................................. 90
+167 The Consolidated Fund........................................................................................ 91
+168 Accounting, etc., for public money...................................................................... 91
+169 Remuneration of certain officials......................................................................... 91
+170 Establishment of the office of Auditor-General................................................... 92
+171 Independence of the office of Auditor-General ................................................... 92
+172 Functions of the Auditor-General ........................................................................ 92
+
 2008 Revised Edition
 
 Page 7
@@ -81,6 +280,23 @@ Page 7
 Arrangement of Sections  CAP. 1.02
 
 The Constitution of Tuvalu
+
+PART X 93
+TRANSITIONAL 93
+173 Transitional provisions.........................................................................................93
+SCHEDULE 1 94
+RULES FOR THE INTERPRETATION OF THE CONSTITUTION 94
+SCHEDULE 2 107
+ELECTION AND APPOINTMENT OF THE PRIME MINISTER 107
+SCHEDULE 3 111
+PROCEDURE, ETC., OF THE PUBLIC SERVICE COMMISSION AND
+CERTAIN TRIBUNALS 111
+SCHEDULE 4 113
+OATHS AND AFFIRMATIONS 113
+SCHEDULE 5 114
+TRANSITIONAL PROVISIONS 114
+Supporting Documents
+ENDNOTES 120
 
 Page 8
 
@@ -98,21 +314,21 @@ CAP. 1.02  Section 1
 
 ## PREAMBLE
 
-WHEREAS in  adopting  the  Independence  Constitution  of  Tuvalu  the  people  of Tuvalu provided in the Preamble to it as follows: -
+WHEREAS in adopting the Independence Constitution of Tuvalu the people of Tuvalu provided in the Preamble to it as follows: —
 
-'WHEREAS the Islands in the Pacific Ocean then known as the Ellice Islands came under  the  protection  of  Her  Most  Gracious  Majesty  Queen  Victoria  in  September 1892 and on 12 January 1916 in conjunction with the Gilbert Islands became known as the Gilbert and Ellice Islands Colony;
+“WHEREAS the Islands in the Pacific Ocean then known as the Ellice Islands came under the protection of Her Most Gracious Majesty Queen Victoria in September 1892 and on 12 January 1916 in conjunction with the Gilbert Islands became known as the Gilbert and Ellice Islands Colony;
 
-'AND WHEREAS on 1 October 1975 Her Most Excellent Majesty Queen Elizabeth II was graciously pleased to establish the Ellice Islands as a separate colony under their ancient name of Tuvalu;
+“AND WHEREAS on 1 October 1975 Her Most Excellent Majesty Queen Elizabeth II was graciously pleased to establish the Ellice Islands as a separate colony under their ancient name of Tuvalu;
 
-'AND WHEREAS the people of Tuvalu, acknowledging God as the Almighty and Everlasting Lord and giver of all good things, humbly place themselves under His good providence and seek His blessing upon themselves and their lives;
+“AND WHEREAS the people of Tuvalu, acknowledging God as the Almighty and Everlasting Lord and giver of all good things, humbly place themselves under His good providence and seek His blessing upon themselves and their lives;
 
-'AND  WHEREAS  the  people  of  Tuvalu  desire  to  constitute  themselves  as  an independent  State  based  on  Christian  principles,  the  Rule  of  Law,  and  Tuvaluan custom and tradition;
+“AND WHEREAS the people of Tuvalu desire to constitute themselves as an independent State based on Christian principles, the Rule of Law, and Tuvaluan custom and tradition;
 
-'NOW THEREFORE the people of Tuvalu hereby affirm their  allegiance  to  Her Most  Excellent  Majesty  Queen  Elizabeth  II,  Her  Heirs  and  Successors,  and  do hereby proclaim the establishment of a free and democratic sovereign nation.................';
+“NOW THEREFORE the people of Tuvalu hereby affirm their allegiance to Her Most Excellent Majesty Queen Elizabeth II, Her Heirs and Successors, and do hereby proclaim the establishment of a free and democratic sovereign nation.................”;
 
 AND WHEREAS the Constitution then adopted, which was given the force of law by Order in Council of Her Most Excellent Majesty dated 25 July 1978 and taking effect on 1 October 1978, provided for its amendment or replacement by Ordinance of the Parliament established by it for Tuvalu;
 
-AND  WHEREAS  that  Constitution  has  served  the  people  of  Tuvalu  well  since Independence but now, more than seven years since its adoption, it is time that the people of Tuvalu reconsidered it in the light of their history and their present and future needs as they see them;
+AND WHEREAS that Constitution has served the people of Tuvalu well since Independence but now, more than seven years since its adoption, it is time that the people of Tuvalu reconsidered it in the light of their history and their present and future needs as they see them;
 
 2008 Revised Edition
 
@@ -128,29 +344,29 @@ The Constitution of Tuvalu
 
 NOW THEREFORE, the people of Tuvalu,  having  considered,  as  individuals,  in their maneapas and island councils, and in their Parliament, what should be in their constitution, give to themselves the following Constitution:
 
-IN  SO  DOING,  the  people  of  Tuvalu  set  out  for  themselves  and  for  their governmental institutions, the following Principles: -
+IN SO DOING, the people of Tuvalu set out for themselves and for their governmental institutions, the following Principles: —
 
 ## PRINCIPLES OF THE CONSTITUTION
 
-1. The principles  set  out  in  the  Preamble  to  the  Independence  Constitution are re-affirmed and re-adopted.
+1. The principles set out in the Preamble to the Independence Constitution are re-affirmed and re-adopted.
 
 2. The right of the people of Tuvalu, both present and future, to a full, free and happy life, and to moral, spiritual, personal and material welfare, is affirmed as one given to them by God.
 
-- While  believing  that  Tuvalu  must  take  its  rightful  place  amongst  the community of nations in search of peace and the general welfare, nevertheless the people of Tuvalu recognize and affirm, with gratitude to God, that the stability of Tuvaluan  society  and  the  happiness  and  welfare  of  the  people  of  Tuvalu,  both present  and  future,  depend  very  largely  on  the  maintenance  of  Tuvaluan  values, culture  and  tradition,  including  the  vitality  and  the  sense  of  identity  of  island communities and attitudes of co-operation, self-help and unity within and amongst those communities.
+3. While believing that Tuvalu must take its rightful place amongst the community of nations in search of peace and the general welfare, nevertheless the people of Tuvalu recognize and affirm, with gratitude to God, that the stability of Tuvaluan society and the happiness and welfare of the people of Tuvalu, both present and future, depend very largely on the maintenance of Tuvaluan values, culture and tradition, including the vitality and the sense of identity of island communities and attitudes of co-operation, self-help and unity within and amongst those communities.
 
-- Amongst the values that the people of Tuvalu seek to maintain are their traditional forms of communities, the strength and support of the family and family discipline.
+4. Amongst the values that the people of Tuvalu seek to maintain are their traditional forms of communities, the strength and support of the family and family discipline.
 
-5. In  government,  and  in  social  affairs  generally,  the  guiding  principles  of Tuvalu are -
+5. In government, and in social affairs generally, the guiding principles of Tuvalu are —
 
-agreement,  courtesy  and  the  search for  consensus,  in  accordance  with traditional Tuvaluan procedures, rather than alien ideas of confrontation and divisiveness;
+agreement, courtesy and the search for consensus, in accordance with traditional Tuvaluan procedures, rather than alien ideas of confrontation and divisiveness;
 
-the need for mutual respect and co-operation between the different kinds of authorities  concerned,  including  the  central  Government,  the  traditional authorities, local governments and authorities, and the religious authorities.
+the need for mutual respect and co-operation between the different kinds of authorities concerned, including the central Government, the traditional authorities, local governments and authorities, and the religious authorities.
 
-6. The life and the laws of Tuvalu should therefore be based on respect for human  dignity,  and  on  the  acceptance  of  Tuvaluan  values  and  culture,  and  on respect for them.
+6. The life and the laws of Tuvalu should therefore be based on respect for human dignity, and on the acceptance of Tuvaluan values and culture, and on respect for them.
 
-7. Nevertheless, the people of Tuvalu recognize that in a changing world, and with changing needs, these principles and values, and the manner and form of their expression  (especially  in  legal  and  administrative  matters),  will  gradually  change, and the Constitution not only must recognize their fundamental importance to the life  of  Tuvalu  but  also  must  not  unnecessarily  hamper  their  expression  and  their development.
+7. Nevertheless, the people of Tuvalu recognize that in a changing world, and with changing needs, these principles and values, and the manner and form of their expression (especially in legal and administrative matters), will gradually change, and the Constitution not only must recognize their fundamental importance to the life of Tuvalu but also must not unnecessarily hamper their expression and their development.
 
-THESE  PRINCIPLES,  under  the  guidance  of  God,  are  solemnly  adopted  and affirmed  as  the  basis  of  this  Constitution,  and  as  the  guiding  principles  to  be observed  in  its  interpretation  and  application  at  all  levels  of  government  and organized life.
+THESE PRINCIPLES, under the guidance of God, are solemnly adopted and affirmed as the basis of this Constitution, and as the guiding principles to be
 
 Page 10
 
@@ -164,6 +380,8 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 1
 
+observed in its interpretation and application at all levels of government and organized life.
+
 ## PART I
 
 ### THE STATE AND THE CONSTITUTION
@@ -172,17 +390,17 @@ CAP. 1.02  Section 1
 
 #### 1 The State
 
-Tuvalu is a sovereign democratic State, governed in accordance with this Constitution  and  in  particular  in  accordance  with  the  Principles  set  out  in  the Preamble.
+Tuvalu is a sovereign democratic State, governed in accordance with this Constitution and in particular in accordance with the Principles set out in the Preamble.
 
 #### 2 The area of Tuvalu
 
-- Subject  to  subsections  (3)  and  (4),  the  area  of  Tuvalu  consists  of  the  land areas referred to in subsection (2), together with -
+(1) Subject to subsections (3) and (4), the area of Tuvalu consists of the land areas referred to in subsection (2), together with —
 
-(a) the  territorial  sea  and  the  inland  waters  as  declared  by  law,  the  land beneath them, and the air space above; and
+(a) the territorial sea and the inland waters as declared by law, the land beneath them, and the air space above; and
 
 (b) such additional lands and waters as are declared by law to be part of the land area of Tuvalu.
 
-- The land areas referred to in subsection (1) consist of all islands, rocks and reefs within the area bounded by -
+(2) The land areas referred to in subsection (1) consist of all islands, rocks and reefs within the area bounded by —
 
 (a) the parallel 05°S; and
 
@@ -194,9 +412,9 @@ Tuvalu is a sovereign democratic State, governed in accordance with this Constit
 
 together with all small islands, islets, rocks and reefs depending on them.
 
-- For  the  purpose  of  implementing  any  international  agreement  binding  on Tuvalu  and  approved  by  Parliament  by  resolution  for  the  purposes  of  this section,  subsection  (2)  may  be  amended  by  Act  of  Parliament  made  in accordance with section 7 (alteration to the Constitution generally), without reference to the requirement of a special majority of votes under section 7(3) (which  requires  Bills  to  alter  the  Constitution  to  be  passed  by  a  two-thirds majority in Parliament).
+(3) For the purpose of implementing any international agreement binding on Tuvalu and approved by Parliament by resolution for the purposes of this section, subsection (2) may be amended by Act of Parliament made in accordance with section 7 (alteration to the Constitution generally), without reference to the requirement of a special majority of votes under section 7(3) (which requires Bills to alter the Constitution to be passed by a two-thirds majority in Parliament).
 
-- Nothing  in  this  section  prevents  a  law  from  proclaiming  the  jurisdiction  of Tuvalu, complete or partial, over any area of land or water or airspace above,
+(4) Nothing in this section prevents a law from proclaiming the jurisdiction of Tuvalu, complete or partial, over any area of land or water or airspace above,
 
 2008 Revised Edition
 
@@ -216,21 +434,21 @@ or  prevents  a  law  from  having  extra-territorial  effect  in  accordance  w
 
 #### 3 The Constitution as supreme law
 
-- This Constitution is the supreme law of Tuvalu and, subject to subsection (2), any act (whether legislative, executive or judicial) that is inconsistent with it is, to the extent of the inconsistency, void.
+(1) This Constitution is the supreme law of Tuvalu and, subject to subsection (2), any act (whether legislative, executive or judicial) that is inconsistent with it is, to the extent of the inconsistency, void.
 
-- All  other  laws  shall  be  interpreted  and  applied  subject  to  this  Constitution, and, as far as is practicable, in such a way as to conform with it.
+(2) All other laws shall be interpreted and applied subject to this Constitution, and, as far as is practicable, in such a way as to conform with it.
 
 #### 4 Interpretation of the Constitution
 
-- The provisions of Schedule 1 (Rules for the Interpretation of the Constitution) apply for the purpose of the interpretation of this Constitution.
+(1) The provisions of Schedule 1 (Rules for the Interpretation of the Constitution) apply for the purpose of the interpretation of this Constitution.
 
-- In  all  cases,  this  Constitution  shall  be  interpreted  and  applied  consistently with the Principles set out in the Preamble.
+(2) In all cases, this Constitution shall be interpreted and applied consistently with the Principles set out in the Preamble.
 
-- Subject to subsection (2), this Constitution shall be interpreted and applied in such a way as to achieve the aims of fair and democratic government, in the light of reason and experience and of Tuvaluan values.
+(3) Subject to subsection (2), this Constitution shall be interpreted and applied in such a way as to achieve the aims of fair and democratic government, in the light of reason and experience and of Tuvaluan values.
 
 #### 5 Jurisdiction of the High Court in constitutional matters
 
-The High Court has the jurisdiction in relation to the interpretation, application and enforcement of this Constitution conferred by -
+The High Court has the jurisdiction in relation to the interpretation, application and enforcement of this Constitution conferred by —
 
 (a) section 14 (Parliamentary declaration of purpose); and
 
@@ -260,33 +478,33 @@ CAP. 1.02  Section 7
 
 #### 7 Alteration of the Constitution generally
 
-- An Act of Parliament may alter this Constitution.
+(1) An Act of Parliament may alter this Constitution.
 
-- A Bill for an Act to alter the Constitution must state that it is a Bill to alter this Constitution.
+(2) A Bill for an Act to alter the Constitution must state that it is a Bill to alter this Constitution.
 
-- Subject to -
+(3) Subject to —
 
 (a) section 2(3) (which relates to alterations to the description of the land areas of Tuvalu); and
 
-(b) section 8 (alterations to the Constitution to give effect to  U.K. constitutional arrangements),
+(b) section 8 (alterations to the Constitution to give effect to U.K. constitutional arrangements),
 
 a Bill for an Act to alter this Constitution is not passed by Parliament unless it is supported at its final reading in Parliament by the votes of two-thirds of the total membership of Parliament.
 
-- A  Bill  for  an  Act  to  alter  this  Constitution  shall  not  be  excluded  from  the operation of section 111(2) (which relates to the circulation of Bills to local governments and authorities).
+(4) A Bill for an Act to alter this Constitution shall not be excluded from the operation of section 111(2) (which relates to the circulation of Bills to local governments and authorities).
 
 #### 8 Alteration of the Constitution to give effect to U.K. constitutional change
 
-- If  as  a  result  of  constitutional  change  in  or  in  relation  to,  or  affecting,  the United  Kingdom  any  provision  of,  or  any  reference  in,  this  Constitution ceases  to  be  appropriate,  the  Head  of  State,  acting  in  accordance  with  the advice of the Cabinet, may, by order, make  such  alterations to this Constitution as  appear  to  be  necessary  or  convenient  to  adapt  it  to  the  new constitutional arrangements.
+(1) If as a result of constitutional change in or in relation to, or affecting, the United Kingdom any provision of, or any reference in, this Constitution ceases to be appropriate, the Head of State, acting in accordance with the advice of the Cabinet, may, by order, make such alterations to this Constitution as appear to be necessary or convenient to adapt it to the new constitutional arrangements.
 
-- An order under subsection (1) -
+(2) An order under subsection (1) —
 
 (a) shall be presented to Parliament by the Prime Minister; and
 
 (b) unless previously confirmed, with or without modification, by an Act of Parliament, expires at the end of the second session of Parliament that commences after it is made.
 
-- The  requirement  of  a  special  majority  of  votes  under  section  7(3)  (which requires Bills to alter the Constitution to be passed by a two-thirds majority in Parliament) does not apply in relation to a Bill for the purposes of subsection (2)(b).
+(3) The requirement of a special majority of votes under section 7(3) (which requires Bills to alter the Constitution to be passed by a two-thirds majority in Parliament) does not apply in relation to a Bill for the purposes of subsection (2)(b).
 
-- A Bill  for  the  purposes  of  subsection  (2)(b)  shall  not  be  excluded  from  the operation of section 111(2) (which relates to the circulation of Bills to local governments).
+(4) A Bill for the purposes of subsection (2)(b) shall not be excluded from the operation of section 111(2) (which relates to the circulation of Bills to local governments).
 
 2008 Revised Edition
 
@@ -308,17 +526,17 @@ The Constitution of Tuvalu
 
 #### 9 Interpretation of Part II
 
-- In this Part,
+(1) In this Part,
 
-' court ' means a court having jurisdiction in Tuvalu, including -
+“court” means a court having jurisdiction in Tuvalu, including —
 
 (a) the Court of Appeal; and
 
 (b) the Sovereign in Council,
 
-but,  except  in  sections  17  (personal  liberty)  and  18  (slavery  and  forced labour), does not include a court or tribunal established by a disciplinary law.
+but, except in sections 17 (personal liberty) and 18 (slavery and forced labour), does not include a court or tribunal established by a disciplinary law.
 
-- In  this  Part,  a  reference  to  the  national  interest  includes  a  reference  to  the public interest in -
+(2) In this Part, a reference to the national interest includes a reference to the public interest in —
 
 (a) defence; or
 
@@ -328,19 +546,19 @@ but,  except  in  sections  17  (personal  liberty)  and  18  (slavery  and  for
 
 (d) public order; or
 
-(e) the  protection  of  the  international  standing  and  reputation  of  Tuvalu and its products (including the supply of labour overseas); or
+(e) the protection of the international standing and reputation of Tuvalu and its products (including the supply of labour overseas); or
 
 (f) the protection and development of Tuvaluan values and culture.
 
-- A reference in this Part to consent is a reference to consent whether express or implied.
+(3) A reference in this Part to consent is a reference to consent whether express or implied.
 
-- Where this Part requires or permits the consent of a person under the age of 18  years,  the  consent  may  be  given  on  his  behalf  by  one  of  his  parents  or guardians.
+(4) Where this Part requires or permits the consent of a person under the age of 18 years, the consent may be given on his behalf by one of his parents or guardians.
 
 ### DIVISION 2 - THE PRINCIPLES OF THE BILL OF RIGHTS
 
 #### 10 Freedom under law
 
-- Freedom  based  on  law  consists  of  the  least  restriction  on  the  activities  of individuals  consistent  with  the  public  welfare  and  the  maintenance  and development  of  Tuvalu  and  Tuvaluan  society  in  accordance  with  this Constitution and, in particular, in accordance with the Principles set out in the Preamble.
+(1) Freedom based on law consists of the least restriction on the activities of individuals consistent with the public welfare and the maintenance and development of Tuvalu and Tuvaluan society in accordance with this Constitution and, in particular, in accordance with the Principles set out in the Preamble.
 
 Page 14
 
@@ -354,25 +572,25 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 11
 
-- Everyone has the right to freedom based on law, and accordingly, subject to this Constitution -
+(2) Everyone has the right to freedom based on law, and accordingly, subject to this Constitution —
 
-(a) everyone has the legal right to do anything that -
+(a) everyone has the legal right to do anything that —
 
 (i) does not injure others or interfere with the rights and freedoms of others; and
 
 (ii) is not prohibited by law; and
 
-(b) no-one may be -
+(b) no-one may be —
 
 (i) legally obliged to do anything that is not required by law; or
 
-(ii) prevented  by  law  from  doing  anything  that  complies  with  the provisions of paragraph (a).
+(ii) prevented by law from doing anything that complies with the provisions of paragraph (a).
 
-- This section is not intended to deny the existence, nature or effect of cultural, social,  civic,  family  or  religious  obligations,  or  other  obligations  of  a  nonlegal nature, or to prevent such obligations being given effect by law if, and so far as, it may be thought appropriate to do so.
+(3) This section is not intended to deny the existence, nature or effect of cultural, social, civic, family or religious obligations, or other obligations of a non-legal nature, or to prevent such obligations being given effect by law if, and so far as, it may be thought appropriate to do so.
 
 #### 11 The fundamental human rights and freedoms
 
-- Every person in Tuvalu is entitled, whatever his race, place of origin, political opinions,  colour,  religious  beliefs  or  lack  of  religious  beliefs,  or  sex,  to  the following fundamental rights and freedoms: -
+(1) Every person in Tuvalu is entitled, whatever his race, place of origin, political opinions, colour, religious beliefs or lack of religious beliefs, or sex, to the following fundamental rights and freedoms: —
 
 (a) the right not to be deprived of life (see section 16); and
 
@@ -394,11 +612,11 @@ CAP. 1.02  Section 11
 
 and to other rights and freedoms set out in this Part or otherwise by law.
 
-- The rights and freedoms referred to in subsection (1) can, in Tuvaluan society, be exercised only -
+(2) The rights and freedoms referred to in subsection (1) can, in Tuvaluan society, be exercised only —
 
 (a) with respect for the rights and freedoms of others and for the national interest; and
 
-(b) in  acceptance  of  Tuvaluan  values  and  culture,  and  with  respect  for them.
+(b) in acceptance of Tuvaluan values and culture, and with respect for them.
 
 2008 Revised Edition
 
@@ -412,19 +630,19 @@ Section 12  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- The purpose  of  this  Part  is  to  protect  those  rights  and  freedoms,  subject  to limitations  on  them  that  are  designed  primarily  to  give  effect  to  subsection (2).
+(3) The purpose of this Part is to protect those rights and freedoms, subject to limitations on them that are designed primarily to give effect to subsection (2).
 
 #### 12 Application of Part II
 
-- Each provision of this Part applies, as far as may be -
+(1) Each provision of this Part applies, as far as may be —
 
-(a) between  individuals  as  well  as  between  governmental  bodies  and individuals; and
+(a) between individuals as well as between governmental bodies and individuals; and
 
 (b) to and in relation to corporations and associations (other than governmental bodies) in the same way as it applies to and in relation to individuals,
 
 except where, or to the extent that, the context requires otherwise.
 
-- Notwithstanding  anything  to  the  contrary  in  any  other  law,  any  act  that  is done under a valid law but that in the particular case -
+(2) Notwithstanding anything to the contrary in any other law, any act that is done under a valid law but that in the particular case —
 
 (a) is harsh or oppressive; or
 
@@ -434,9 +652,9 @@ except where, or to the extent that, the context requires otherwise.
 
 is an unlawful act.
 
-- The burden of showing that subsection (2) applies in respect of an act is on the party claiming that it does apply.
+(3) The burden of showing that subsection (2) applies in respect of an act is on the party claiming that it does apply.
 
-- Nothing in this section affects the operation of any other law under which an act may be held to be unlawful.
+(4) Nothing in this section affects the operation of any other law under which an act may be held to be unlawful.
 
 #### 13 The Principles of the Preamble
 
@@ -444,9 +662,9 @@ The Principles set out in the Preamble are adopted as part of the basic law of T
 
 #### 14 Parliamentary declarations of purpose
 
-- When the purpose of an Act of Parliament is specifically declared in the Act, then in considering the possible effect on that Act of Division 3 (Protection of the Fundamental Rights and Freedoms) a court shall give due weight to that declaration as a statement of the considered opinion of Parliament.
+(1) When the purpose of an Act of Parliament is specifically declared in the Act, then in considering the possible effect on that Act of Division 3 (Protection of the Fundamental Rights and Freedoms) a court shall give due weight to that declaration as a statement of the considered opinion of Parliament.
 
-- If  an  Act  of  Parliament  specifically  declares  that  a  certain  provision  is required  in  the  national  interest,  a  court  shall,  subject  to  subsection  (3), presume that the provision was reasonably required in the national interest.
+(2) If an Act of Parliament specifically declares that a certain provision is required in the national interest, a court shall, subject to subsection (3), presume that the provision was reasonably required in the national interest.
 
 Page 16
 
@@ -460,31 +678,31 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 15
 
-- Subsection (2) does not apply if the High Court is satisfied that the provision could  not  reasonably  be  said  to  have  been  intended  primarily  to  serve  the national interest.
+(3) Subsection (2) does not apply if the High Court is satisfied that the provision could not reasonably be said to have been intended primarily to serve the national interest.
 
-#### 15 'Reasonably justifiable in a democratic society'
+#### 15 “Reasonably justifiable in a democratic society”
 
-- Notwithstanding anything to the contrary in this Part, other than -
+(1) Notwithstanding anything to the contrary in this Part, other than —
 
 (a) section 33 (hostile disciplined forces); and
 
-(b) section  36  (restrictions  on  certain  rights  and  freedoms  during  public emergencies),
+(b) section 36 (restrictions on certain rights and freedoms during public emergencies),
 
-all  laws,  and  all  acts  done  under  a  law,  must  be  reasonably  justifiable  in  a democratic society that has a proper respect for human rights and dignity.
+all laws, and all acts done under a law, must be reasonably justifiable in a democratic society that has a proper respect for human rights and dignity.
 
-- Any question whether a law is reasonably justifiable in a democratic society that has a proper respect for human rights and dignity is to be determined in the  light  of  the  circumstances  existing  at  the  time  when  the  decision  on  the question is made.
+(2) Any question whether a law is reasonably justifiable in a democratic society that has a proper respect for human rights and dignity is to be determined in the light of the circumstances existing at the time when the decision on the question is made.
 
-- Subsection (2) does not affect any question whether an act done under a law was reasonably justifiable in a democratic society that has a proper respect for human rights and dignity.
+(3) Subsection (2) does not affect any question whether an act done under a law was reasonably justifiable in a democratic society that has a proper respect for human rights and dignity.
 
-- A law may be declared not to be reasonably justifiable in a democratic society that has a proper respect for human rights and dignity only by the High Court or  some  other  court  prescribed  for  the  purpose  by  or  under  an  Act  of Parliament.
+(4) A law may be declared not to be reasonably justifiable in a democratic society that has a proper respect for human rights and dignity only by the High Court or some other court prescribed for the purpose by or under an Act of Parliament.
 
-- In determining whether a law or act is reasonably justifiable in a democratic society  that  has  a  proper  respect  for  human  rights  and  dignity,  a  court  may have regard to -
+(5) In determining whether a law or act is reasonably justifiable in a democratic society that has a proper respect for human rights and dignity, a court may have regard to —
 
 (a) traditional standards, values and practices, as well as previous laws and judicial decisions, of Tuvalu; and
 
-(b) law,  practices  and  judicial  decisions  of  other  countries  that  the  court reasonably regards as democratic; and
+(b) law, practices and judicial decisions of other countries that the court reasonably regards as democratic; and
 
-(c) international  conventions,  declarations,  recommendations  and  judicial decisions concerning human rights; and
+(c) international conventions, declarations, recommendations and judicial decisions concerning human rights; and
 
 (d) any other matters that the court thinks relevant.
 
@@ -506,7 +724,7 @@ The Constitution of Tuvalu
 
 ##### 16 Life
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) subsection (2); and
 
@@ -516,7 +734,7 @@ The Constitution of Tuvalu
 
 no-one shall be killed intentionally.
 
-- A person shall not be considered to have been killed in contravention of this section  if  he  dies  as  the  result  of  the  use,  to  such  extent  and  in  such circumstances  as  are  permitted  by  law,  of  such  force  as  is  reasonably necessary -
+(2) A person shall not be considered to have been killed in contravention of this section if he dies as the result of the use, to such extent and in such circumstances as are permitted by law, of such force as is reasonably necessary —
 
 (a) for the defence of any person from violence; or
 
@@ -532,7 +750,7 @@ or if he dies as the result of a lawful act of war.
 
 ##### 17 Personal liberty
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) the succeeding provisions of this section; and
 
@@ -542,17 +760,17 @@ or if he dies as the result of a lawful act of war.
 
 (d) section 33 (hostile disciplined forces); and
 
-(e) section  36  (restrictions  on  certain  rights  and  freedoms  during  public emergencies),
+(e) section 36 (restrictions on certain rights and freedoms during public emergencies),
 
-no-one shall be detained except -
+no-one shall be detained except —
 
 (f) with his consent; or
 
 (g) as authorized by law in the cases set out in subsection (2).
 
-- Subsection (1) (g) applies in the following cases -
+(2) Subsection (1) (g) applies in the following cases —
 
-(a) in  the  case  of  a  person  under  the  age  of  18  years  -  in  the  reasonable exercise of the authority of a parent, teacher or guardian, or under the order  of  a  court  for  the  purpose  of  his  education,  welfare  or  proper discipline; or
+(a) in the case of a person under the age of 18 years - in the reasonable exercise of the authority of a parent, teacher or guardian, or under the order of a court for the purpose of his education, welfare or proper discipline; or
 
 (b) under a warrant or order of a court; or
 
@@ -590,19 +808,19 @@ CAP. 1.02  Section 17
 
 (m) in the case of restrictions on liberty or detention of a person permitted by section 26 (freedom of movement) or Division 4 (Public Emergencies).
 
-- A person who is detained shall be informed as soon as practicable, and in a language that he understands, of the reason for his detention.
+(3) A person who is detained shall be informed as soon as practicable, and in a language that he understands, of the reason for his detention.
 
-- A person who is detained -
+(4) A person who is detained —
 
 (a) for the purpose of bringing him before a court; or
 
-(b) on  reasonable  suspicion  of  having  committed,  or  being  about  to commit, an offence; or
+(b) on reasonable suspicion of having committed, or being about to commit, an offence; or
 
-(c) for temporary purposes, in accordance with subsection (2)(f) or (g), and who  is  not  released,  shall  be  brought  without  undue  delay  before  a court, and  unless the court, in accordance  with  law, orders his continued detention it shall order his release.
+(c) for temporary purposes, in accordance with subsection (2)(f) or (g), and who is not released, shall be brought without undue delay before a court, and unless the court, in accordance with law, orders his continued detention it shall order his release.
 
-- If a person detained on suspicion of having committed an offence is not tried within  a  reasonable  time,  he  shall  be  released  either  unconditionally  or  on reasonable conditions (including in particular conditions reasonably necessary to ensure that he appears for trial or for proceedings preliminary to trial).
+(5) If a person detained on suspicion of having committed an offence is not tried within a reasonable time, he shall be released either unconditionally or on reasonable conditions (including in particular conditions reasonably necessary to ensure that he appears for trial or for proceedings preliminary to trial).
 
-- A  release  under  subsection  (5)  does  not  prevent  further  proceedings  being brought, in accordance with law, against the released person.
+(6) A release under subsection (5) does not prevent further proceedings being brought, in accordance with law, against the released person.
 
 2008 Revised Edition
 
@@ -618,7 +836,7 @@ The Constitution of Tuvalu
 
 ##### 18 Slavery and forced labour
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) the succeeding provisions of this section; and
 
@@ -626,29 +844,29 @@ The Constitution of Tuvalu
 
 (c) section 33 (hostile disciplined forces); and
 
-(d) section  36  (restrictions  on  certain  rights  and  freedoms  during  public emergencies),
+(d) section 36 (restrictions on certain rights and freedoms during public emergencies),
 
-no-one shall -
+no-one shall —
 
 (e) be held in slavery or servitude; or
 
 (f) be required to perform forced labour.
 
-- For the purposes of this section -
+(2) For the purposes of this section —
 
-(a) slavery or servitude includes slavery or servitude within the meaning of any  international  or  multinational  convention  or  treaty  prohibiting slavery or servitude to which Tuvalu is a party; and
+(a) slavery or servitude includes slavery or servitude within the meaning of any international or multinational convention or treaty prohibiting slavery or servitude to which Tuvalu is a party; and
 
-(b) forced labour does not include -
+(b) forced labour does not include —
 
 (i) labour required by or in consequence of the sentence or order of a court; or
 
 (ii) labour required in accordance with law of a person while he is lawfully detained that is reasonably necessary in the interests of hygiene or for the maintenance of the place where he is detained; or
 
-(iii) labour  required  in  accordance  with  law  of  a  member  of  a disciplined force as a member of that force; or
+(iii) labour required in accordance with law of a member of a disciplined force as a member of that force; or
 
-(iv) in  the  case  of  a  person  who  proves  that  he  has  a  conscientious objection to compulsory service as a member of a naval, military or  air  force  -  labour  which  he  is  required  by  law  to  perform  in place of such service; or
+(iv) in the case of a person who proves that he has a conscientious objection to compulsory service as a member of a naval, military or air force - labour which he is required by law to perform in place of such service; or
 
-(v) labour required in accordance with law -
+(v) labour required in accordance with law —
 
 (A) during a period of public emergency within the meaning of Division 4 (Public Emergencies); or
 
@@ -672,13 +890,13 @@ CAP. 1.02  Section 19
 
 ##### 19 Inhuman treatment
 
-Subject to the provisions of this Part, and in particular to -
+Subject to the provisions of this Part, and in particular to —
 
 (a) section 32 (foreign disciplined forces); and
 
 (b) section 33 (hostile disciplined forces),
 
-no-one shall -
+no-one shall —
 
 (c) be tortured; or
 
@@ -686,9 +904,9 @@ no-one shall -
 
 ##### 20 Property rights
 
-- In this section -
+(1) In this section —
 
-' deprivation ', in relation to any property, includes -
+“deprivation”, in relation to any property, includes —
 
 (a) the using or taking away of possession of it, or the exercise of rights over or in respect of it; and
 
@@ -698,9 +916,9 @@ no-one shall -
 
 (d) its transfer to another person;
 
-' property ' includes an interest in property, whether or not the interest was in existence immediately before the deprivation.
+“property” includes an interest in property, whether or not the interest was in existence immediately before the deprivation.
 
-- Subject to the provisions of this Part, and in particular to -
+(2) Subject to the provisions of this Part, and in particular to —
 
 (a) section 31 (disciplined forces of Tuvalu); and
 
@@ -708,15 +926,15 @@ no-one shall -
 
 (c) section 33 (hostile disciplined forces),
 
-no-one shall be deprived of property except -
+no-one shall be deprived of property except —
 
 (d) with his consent; or
 
 (e) in accordance with the succeeding provisions of this section.
 
-- The deprivation must be authorized by or under an Act of Parliament.
+(3) The deprivation must be authorized by or under an Act of Parliament.
 
-- The  deprivation  must  be  for  a  purpose  declared  by  or  under  an  Act  of Parliament to be a public purpose.
+(4) The deprivation must be for a purpose declared by or under an Act of Parliament to be a public purpose.
 
 2008 Revised Edition
 
@@ -730,11 +948,11 @@ Section 20  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- There must be a sufficient reason for the causing of any hardship that  may result to any person having an interest in or a right over the property (whether the interest or right is present or future, actual or potential).
+(5) There must be a sufficient reason for the causing of any hardship that may result to any person having an interest in or a right over the property (whether the interest or right is present or future, actual or potential).
 
-- Adequate compensation shall be promptly made.
+(6) Adequate compensation shall be promptly made.
 
-- A  person  having  an  interest  in  or  a  right  over  the  property  (whether  the interest or right is present or future, actual or potential) may apply to the High Court,  or  to  any  other  court  having  jurisdiction  in  the  matter,  for  the determination of -
+(7) A person having an interest in or a right over the property (whether the interest or right is present or future, actual or potential) may apply to the High Court, or to any other court having jurisdiction in the matter, for the determination of —
 
 (a) his interest or right; and
 
@@ -744,33 +962,33 @@ The Constitution of Tuvalu
 
 and for the purpose of obtaining prompt settlement of the compensation.
 
-- For the purposes of subsections (6) and (7), compensation need not be wholly or even partly in money.
+(8) For the purposes of subsections (6) and (7), compensation need not be wholly or even partly in money.
 
-- Nothing in or done under a law shall be considered to be inconsistent with this section -
+(9) Nothing in or done under a law shall be considered to be inconsistent with this section —
 
-(a) to the extent that the law makes provision for deprivation of property -
+(a) to the extent that the law makes provision for deprivation of property —
 
 (i) in satisfaction of any liability to taxation; or
 
-(ii) by  way  of  penalty  for  a  breach  of  the  law,  or  of  forfeiture  in consequence of a breach of the law; or
+(ii) by way of penalty for a breach of the law, or of forfeiture in consequence of a breach of the law; or
 
-(iii ) as an incident of -
+(iii ) as an incident of —
 
 (A) a permit, licence or other authority affecting the property; or
 
-(B) the  creation  or  acceptance  of  an  interest  in  or  over  the property; or
+(B) the creation or acceptance of an interest in or over the property; or
 
-(iv) in  the  execution  of  a  judgment  or  an  order  of  a  court  in proceedings for the determination of civil rights or obligations; or
+(iv) in the execution of a judgment or an order of a court in proceedings for the determination of civil rights or obligations; or
 
 (v) where it is reasonably necessary to do so because the property, or some other property, is or may be in a dangerous state or injuries to the health of humans, animals or plants; or
 
-(vi) in consequence of a law relating to -
+(vi) in consequence of a law relating to —
 
 (A) the limitation of actions; or
 
-(B) acquisition  by  prescription  or  adverse  possession,  or  any similar matter; or
+(B) acquisition by prescription or adverse possession, or any similar matter; or
 
-(vii) for so long  only  as  is  necessary  for  the  purposes  of  any examination, investigation, trial or inquiry; or
+(vii) for so long only as is necessary for the purposes of any examination, investigation, trial or inquiry; or
 
 Page 22
 
@@ -784,7 +1002,7 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 21
 
-(viii)  in  the  case  of  land  -  for  so  long  only  as  is  necessary  for  the carrying out on it of -
+(viii) in the case of land - for so long only as is necessary for the carrying out on it of —
 
 (A) work of conservation of natural resources; or
 
@@ -792,11 +1010,11 @@ CAP. 1.02  Section 21
 
 (C) any survey to determine the existence or extent of mineral (including petroleum) resources; or
 
-(b) to the extent that the law makes provision for depriving a person of -
+(b) to the extent that the law makes provision for depriving a person of —
 
 (i) enemy property; or
 
-(ii) property of -
+(ii) property of —
 
 (A) a deceased person; or
 
@@ -806,27 +1024,27 @@ CAP. 1.02  Section 21
 
 (D) a person who is absent from Tuvalu,
 
-for  the  purpose  of  its  administration  for  the  benefit  of  the  persons entitled to the benefit of it; or
+for the purpose of its administration for the benefit of the persons entitled to the benefit of it; or
 
-(iii) property  of  a  person  declared  to  be  insolvent,  or  of  a  body corporate in liquidation, for the purposes of its administration for the benefit of -
+(iii) property of a person declared to be insolvent, or of a body corporate in liquidation, for the purposes of its administration for the benefit of —
 
 (A) the creditors of the insolvent or body corporate; and
 
-(B) subject  to  the  interests  of  the  creditors  -  the  persons entitled to the benefit of it; or
+(B) subject to the interests of the creditors - the persons entitled to the benefit of it; or
 
-(iv) property subject to a trust -
+(iv) property subject to a trust —
 
-(A) for  the  purpose  of  vesting  the  property  in  the  trustees  of the property; or
+(A) for the purpose of vesting the property in the trustees of the property; or
 
 (B) by order of a court - for the purpose of giving effect to the trust; or
 
 (v) shares in a body corporate pursuant to any take-over bid, scheme of arrangement or in other similar circumstances.
 
-- Nothing in this section prevents a body corporate established by a law from being  deprived,  in  accordance  with  law,  of  any  property  by  a  person  or governmental body who or which is the only investor in the body corporate.
+(10) Nothing in this section prevents a body corporate established by a law from being deprived, in accordance with law, of any property by a person or governmental body who or which is the only investor in the body corporate.
 
 ##### 21 Privacy of home and property
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) subsection (2); and
 
@@ -850,7 +1068,7 @@ The Constitution of Tuvalu
 
 (e) section  36  (restrictions  on  certain  rights  and  freedoms  during  public emergencies),
 
-except with his consent no-one shall be subjected to -
+except with his consent no-one shall be subjected to —
 
 (f) the search of his person; or
 
@@ -858,25 +1076,25 @@ except with his consent no-one shall be subjected to -
 
 (h) entry by others on his property.
 
-- Nothing in or done under a law shall be considered to be inconsistent with this section  to  the  extent  that  the  law  makes  provision  for  search  or  entry  for  a purpose declared by or under an Act of Parliament to be a public purpose for the purposes of this section, or -
+(2) Nothing in or done under a law shall be considered to be inconsistent with this section to the extent that the law makes provision for search or entry for a purpose declared by or under an Act of Parliament to be a public purpose for the purposes of this section, or —
 
 (a) for the purpose of protecting the rights or freedoms of others; or
 
-(b) for the purpose of authorizing an officer or agent of -
+(b) for the purpose of authorizing an officer or agent of —
 
 (i) a governmental body; or
 
 (ii) a body corporate established by law for a public purpose,
 
-to enter on the property of any person -
+to enter on the property of any person —
 
 (iii) in order to inspect the property or anything on it for the purposes of any law providing for taxation; or
 
-(iv) in order to carry out any work connected with any thing that is lawfully  on  the  property  and  that  belongs  to  the  governmental body or body corporate, as the case may be; or
+(iv) in order to carry out any work connected with any thing that is lawfully on the property and that belongs to the governmental body or body corporate, as the case may be; or
 
 (c) for the purpose of authorizing the entry on any property under an order of a court for the purpose of enforcing a judgment or order of a court; or
 
-(d) for the purpose of authorizing the entry on any property for the purpose of -
+(d) for the purpose of authorizing the entry on any property for the purpose of —
 
 (i) preventing or detecting the commission of an offence; or
 
@@ -886,7 +1104,7 @@ to enter on the property of any person -
 
 ##### 22 Protection of law
 
-- This  section  shall  be  read  subject  to  the  provisions  of  this  Part,  and  in particular to -
+(1) This section shall be read subject to the provisions of this Part, and in particular to —
 
 (a) section 31 (disciplined forces of Tuvalu); and
 
@@ -906,39 +1124,39 @@ CAP. 1.02  Section 22
 
 (c) section 33 (hostile disciplined forces).
 
-- If a person is charged with an offence, unless the charge is withdrawn he shall be  given  a  fair  hearing  within  a  reasonable  time  by  an  independent  and impartial court established by law.
+(2) If a person is charged with an offence, unless the charge is withdrawn he shall be given a fair hearing within a reasonable time by an independent and impartial court established by law.
 
-- A person charged with an offence -
+(3) A person charged with an offence —
 
-(a) subject to subsection (14)(a), shall be presumed to be innocent until -
+(a) subject to subsection (14)(a), shall be presumed to be innocent until —
 
 (i) he is proved guilty; or
 
-(ii) he  has  pleaded  guilty  and  the  plea  has  been  accepted  by  the court; and
+(ii) he has pleaded guilty and the plea has been accepted by the court; and
 
-(b) shall be informed as soon as practicable, in detail and in a language that he  understands,  of  the  precise  nature  and  particulars  of  the  offence charged,  and  if  the  information  is  not  given  in  writing  it  shall  be confirmed in writing as soon as practicable; and
+(b) shall be informed as soon as practicable, in detail and in a language that he understands, of the precise nature and particulars of the offence charged, and if the information is not given in writing it shall be confirmed in writing as soon as practicable; and
 
-(c) shall  be  given  adequate  time  and  facilities  for  the  preparation  of  his defence, including time to study and fully understand the precise charge against him, and its possible consequences; and
+(c) shall be given adequate time and facilities for the preparation of his defence, including time to study and fully understand the precise charge against him, and its possible consequences; and
 
-(d) shall  be  given  reasonable  facilities  to  consult,  at  his  own  expense,  a representative of his own choice; and
+(d) shall be given reasonable facilities to consult, at his own expense, a representative of his own choice; and
 
 (e) shall be permitted to defend himself before the court in person or, at his own expense, by a representative of his own choice; and
 
-(f) subject to subsection (14)(b), shall be given adequate facilities -
+(f) subject to subsection (14)(b), shall be given adequate facilities —
 
-(i) to  examine,  in  person  or  by  his  representative,  the  witnesses called before the court by the prosecution; and
+(i) to examine, in person or by his representative, the witnesses called before the court by the prosecution; and
 
-(ii) to  obtain  the  attendance  and  carry  out  the  examination  of witnesses to testify on his behalf before the court on conditions no less advantageous than those applying to witnesses called by the prosecution; and
+(ii) to obtain the attendance and carry out the examination of witnesses to testify on his behalf before the court on conditions no less advantageous than those applying to witnesses called by the prosecution; and
 
-(g) shall be permitted  to  have  without  payment  the  assistance  of  a competent interpreter, if he cannot adequately understand the language used at the trial or any part of the trial.
+(g) shall be permitted to have without payment the assistance of a competent interpreter, if he cannot adequately understand the language used at the trial or any part of the trial.
 
-- Except with his consent, the trial shall not take place in his absence unless -
+(4) Except with his consent, the trial shall not take place in his absence unless —
 
 (a) he behaves in such a way as to make it impracticable or unreasonable to continue the proceedings in his presence; and
 
-(b) the  court  orders  his  removal  and  the  continuance  of  the  trial  in  his absence.
+(b) the court orders his removal and the continuance of the trial in his absence.
 
-- When  a  person  is  tried  for  an  offence,  the  accused  person  or  a  person authorized by him for the purpose is entitled, on request and on payment of such reasonable fee (if any) as is prescribed, to be given within a reasonable time after judgment a copy, for the use of the accused person, of any record of the proceedings made by or on behalf of the court.
+(5) When a person is tried for an offence, the accused person or a person authorized by him for the purpose is entitled, on request and on payment of such reasonable fee (if any) as is prescribed, to be given within a reasonable time after judgment a copy, for the use of the accused person, of any record of the proceedings made by or on behalf of the court.
 
 2008 Revised Edition
 
@@ -952,17 +1170,17 @@ Section 22  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- No-one shall be convicted of an offence on account of an act that was not, at the time of the doing of the act, an offence or a legal element of an offence.
+(6) No-one shall be convicted of an offence on account of an act that was not, at the time of the doing of the act, an offence or a legal element of an offence.
 
-- No penalty shall be imposed for an offence that is more severe in amount or in kind than the maximum that might have been imposed for the offence at the time when it was committed.
+(7) No penalty shall be imposed for an offence that is more severe in amount or in kind than the maximum that might have been imposed for the offence at the time when it was committed.
 
-- Subject to subsection (14)(c), no-one who shows that he has been tried for an offence by a competent court and was either -
+(8) Subject to subsection (14)(c), no-one who shows that he has been tried for an offence by a competent court and was either —
 
 (a) convicted; or
 
 (b) acquitted,
 
-shall again be tried for -
+shall again be tried for —
 
 (c) the same offence; or
 
@@ -970,15 +1188,15 @@ shall again be tried for -
 
 except  on  the  order  of  a  superior  court  in  the  course  of  appeal  or  review proceedings relating to the conviction or acquittal.
 
-- No-one shall be tried for an offence if he shows that -
+(9) No-one shall be tried for an offence if he shows that —
 
 (a) he has been pardoned for the offence; and
 
 (b) if  the  pardon  was  a  conditional  pardon,  he  has  complied  with  the conditions of the pardon.
 
-- No-one who is tried for an offence shall be compelled to give evidence at the trial.
+(10) No-one who is tried for an offence shall be compelled to give evidence at the trial.
 
-- A court or other adjudicating authority prescribed by law for the determination  of  the  existence  or  extent  of  a  civil  right  or  obligation  shall be -
+(11) A court or other adjudicating authority prescribed by law for the determination of the existence or extent of a civil right or obligation shall be —
 
 (a) established or recognised by law; and
 
@@ -986,7 +1204,7 @@ except  on  the  order  of  a  superior  court  in  the  course  of  appeal  or 
 
 and  where  proceedings  for  such  a  determination  are  instituted  by  a  person before such a court or authority the case shall be given a fair hearing within a reasonable time.
 
-- Subject  to  subsection  (13),  except  with  the  consent  of  all  the  parties  to  the proceedings -
+(12) Subject to subsection (13), except with the consent of all the parties to the proceedings —
 
 (a) all proceedings before a court; and
 
@@ -994,7 +1212,7 @@ and  where  proceedings  for  such  a  determination  are  instituted  by  a  pe
 
 including the announcement of the decision, shall be held in public.
 
-- Subsection (12) does not prevent the court or other authority from excluding from the proceedings persons other than the parties, and the representatives in the proceedings of the parties, to such extent as the court or authority -
+(13) Subsection (12) does not prevent the court or other authority from excluding from the proceedings persons other than the parties, and the representatives in the proceedings of the parties, to such extent as the court or authority —
 
 Page 26
 
@@ -1008,13 +1226,13 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 22
 
-(a) is by law empowered to do so and thinks it necessary or desirable to do so -
+(a) is by law empowered to do so and thinks it necessary or desirable to do so —
 
 (i) if publicity would not be in the interests of justice; or
 
 (ii) in  interlocutory  proceedings,  that  is  to  say,  in  proceedings  of  a kind described in subsection (16); or
 
-(iii) in the interests of -
+(iii) in the interests of —
 
 (A) decency; or
 
@@ -1024,7 +1242,7 @@ CAP. 1.02  Section 22
 
 (D) the  protection  of  the  privacy  of  persons  concerned  in  the proceedings; or
 
-(b) is by law empowered or required to do so in the interests of -
+(b) is by law empowered or required to do so in the interests of —
 
 (i) defence; or
 
@@ -1032,13 +1250,13 @@ CAP. 1.02  Section 22
 
 (iii) public order.
 
-- Nothing in or done under a law shall be considered to be inconsistent with -
+(14) Nothing in or done under a law shall be considered to be inconsistent with —
 
-(a) subsection  (3)(a)  -  to  the  extent  that  the  law  imposes  upon  a  person charged  with  an  offence  the  burden  of  proving  or  disproving  certain facts  which  are  particularly  within  his  knowledge  or  his  capacity  to prove or disprove; or
+(a) subsection (3)(a) — to the extent that the law imposes upon a person charged with an offence the burden of proving or disproving certain facts which are particularly within his knowledge or his capacity to prove or disprove; or
 
-(b) subsection  (3)(f)  -  to  the  extent  that  the  law  imposes  reasonable conditions  that  must  be  satisfied  if  witnesses  called  on  behalf  of  an accused person are to be paid expenses out of public funds; or
+(b) subsection (3)(f) — to the extent that the law imposes reasonable conditions that must be satisfied if witnesses called on behalf of an accused person are to be paid expenses out of public funds; or
 
-(c) subsection  (8)  -  subject  to  subsection  (15),  to  the  extent  that  the  law authorizes a court to try a member of a disciplined force even though he has been tried and either -
+(c) subsection (8) — subject to subsection (15), to the extent that the law authorizes a court to try a member of a disciplined force even though he has been tried and either —
 
 (i) convicted; or
 
@@ -1046,11 +1264,11 @@ CAP. 1.02  Section 22
 
 under the disciplinary law of that force.
 
-- In  a  case  to  which  subsection  14(c)  applies,  the  court  that  tries  the  member shall,  in  sentencing  him  to  punishment,  take  into  account  any  punishment given to him under the disciplinary law.
+(15) In a case to which subsection 14(c) applies, the court that tries the member shall, in sentencing him to punishment, take into account any punishment given to him under the disciplinary law.
 
-- In  subsection  (13)(a)(ii),  'interlocutory  proceedings'  refers  to  any  judicial proceedings that -
+(16) In subsection (13)(a)(ii), “interlocutory proceedings” refers to any judicial proceedings that —
 
-(a) occur  during  or  for  the  purposes  of  some  other  legal  proceedings (referred to in this subsection as 'the principal proceedings'); and
+(a) occur during or for the purposes of some other legal proceedings (referred to in this subsection as “the principal proceedings”); and
 
 (b) are incidental to the principal proceedings; and
 
@@ -1070,7 +1288,7 @@ The Constitution of Tuvalu
 
 ##### 23 Freedom of belief
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) the succeeding provisions of this section; and
 
@@ -1086,7 +1304,7 @@ The Constitution of Tuvalu
 
 except  with  his  consent  no-one  shall  be  hindered  in  the  exercise  of  his freedom of belief.
 
-- For the purposes of this section, freedom of belief includes -
+(2) For the purposes of this section, freedom of belief includes —
 
 (a) freedom of thought, religion and belief; and
 
@@ -1094,7 +1312,7 @@ except  with  his  consent  no-one  shall  be  hindered  in  the  exercise  of  
 
 (c) freedom,  either  alone  or  with  others,  to  show  and  to  spread,  both  in public and in private, a religion or belief, in worship, teaching, practice and observance.
 
-- A religious community is entitled, at its own expense -
+(3) A religious community is entitled, at its own expense —
 
 (a) to establish and maintain places of education; and
 
@@ -1102,19 +1320,19 @@ except  with  his  consent  no-one  shall  be  hindered  in  the  exercise  of  
 
 (c) subject to subsection (4), to provide religious instruction for members of the community in the course of any education that it provides.
 
-- Except  with  his  consent,  no-one  attending  a  place  of  education  shall  be required -
+(4) Except with his consent, no-one attending a place of education shall be required —
 
 (a) to receive religious instruction; or
 
 (b) to  take  part  in  or  attend  a  religious  ceremony  or  observance,  if  the instruction, ceremony or observance relates to a religion or belief other than his own.
 
-- No-one shall be compelled -
+(5) No-one shall be compelled —
 
 (a) to take an oath or make an affirmation that is contrary to his religion or belief; or
 
 (b) to take an oath or make an affirmation in any manner that is contrary to his religion or belief.
 
-- Nothing in or done under a law shall be considered to be inconsistent with this section  to  the  extent  that  the  law  makes  provision  which  is  reasonably required -
+(6) Nothing in or done under a law shall be considered to be inconsistent with this section to the extent that the law makes provision which is reasonably required —
 
 Page 28
 
@@ -1128,7 +1346,7 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 24
 
-(a) in the interests of -
+(a) in the interests of —
 
 (i) defence; or
 
@@ -1142,19 +1360,19 @@ CAP. 1.02  Section 24
 
 (b) for  the  purpose  of  protecting  the  rights  or  freedoms  of  other  persons, including the right to observe and practise any religion or belief without the unsolicited intervention of members of any other religion or belief.
 
-- Nothing in or done under a law shall be considered to be inconsistent with this section to the extent that the law makes reasonable provision -
+(7) Nothing in or done under a law shall be considered to be inconsistent with this section to the extent that the law makes reasonable provision —
 
 (a) requiring a person who proves that he has a conscientious objection to performing some reasonable and normal traditional, communal or civic obligation, or to performing it at a particular time or in a particular way, to perform instead, some reasonably equivalent service of benefit to the community; or
 
 (b) for the exclusion of such a person and his household from any benefit arising out of the performance of those obligations by others until the equivalent service has been performed.
 
-- The protection given by this section to freedom of religion or belief applies equally to freedom not to have or hold a particular religion or belief, or any religion or belief.
+(8) The protection given by this section to freedom of religion or belief applies equally to freedom not to have or hold a particular religion or belief, or any religion or belief.
 
-- A  reference  in  this  section  to  a  religion  includes  a  reference  to  a  religious denomination and to the beliefs of a religion or religious denomination.
+(9) A reference in this section to a religion includes a reference to a religious denomination and to the beliefs of a religion or religious denomination.
 
 ##### 24 Freedom of expression
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) subsection (3); and
 
@@ -1172,7 +1390,7 @@ CAP. 1.02  Section 24
 
 except  with  his  consent  no-one  shall  be  hindered  in  the  exercise  of  his freedom of expression.
 
-- For the purposes of this section, freedom of expression includes -
+(2) For the purposes of this section, freedom of expression includes —
 
 2008 Revised Edition
 
@@ -1194,9 +1412,9 @@ The Constitution of Tuvalu
 
 (d) freedom from interference with correspondence.
 
-- Nothing in or done under a law shall be considered to be inconsistent with subsection (1) to the extent that the law makes provision -
+(3) Nothing in or done under a law shall be considered to be inconsistent with subsection (1) to the extent that the law makes provision —
 
-(a) in the interests of -
+(a) in the interests of —
 
 (i) defence; or
 
@@ -1208,7 +1426,7 @@ The Constitution of Tuvalu
 
 (v) public health; or
 
-(b) for the purpose of -
+(b) for the purpose of —
 
 (i) protecting the reputations, rights or freedoms of other persons; or
 
@@ -1222,7 +1440,7 @@ The Constitution of Tuvalu
 
 ##### 25 Freedom of assembly and association
 
-- Subject to the provisions of this Part and in particular to -
+(1) Subject to the provisions of this Part and in particular to —
 
 (a) subsection (3); and
 
@@ -1240,7 +1458,7 @@ The Constitution of Tuvalu
 
 except  with  his  consent  no-one  shall  be  hindered  in  the  exercise  of  his freedom of assembly and association.
 
-- For  the  purposes  of  this  section,  freedom  of  assembly  and  association includes -
+(2) For the purposes of this section, freedom of assembly and association includes —
 
 Page 30
 
@@ -1258,11 +1476,11 @@ CAP. 1.02  Section 26
 
 (b) the right to form or belong to political parties; and
 
-(c) the right, as regulated by law, to form or belong to trade unions or other associations for the protection or advancement of one's interests.
+(c) the right, as regulated by law, to form or belong to trade unions or other associations for the protection or advancement of one’s interests.
 
-- Nothing in or done under a law shall be considered to be inconsistent with subsection (1) to the extent that the law makes provision -
+(3) Nothing in or done under a law shall be considered to be inconsistent with subsection (1) to the extent that the law makes provision —
 
-(a) in the interests of -
+(a) in the interests of —
 
 (i) defence; or
 
@@ -1278,7 +1496,7 @@ CAP. 1.02  Section 26
 
 ##### 26 Freedom of movement
 
-- Subject to the provisions of this Part, and in particular to -
+(1) Subject to the provisions of this Part, and in particular to —
 
 (a) the succeeding provisions of this section; and
 
@@ -1292,7 +1510,7 @@ CAP. 1.02  Section 26
 
 (f) section  36  (restrictions  on  certain  rights  and  freedoms  during  public emergencies),
 
-no-one shall be deprived of -
+no-one shall be deprived of —
 
 (g) the right to move freely throughout Tuvalu; or
 
@@ -1302,11 +1520,11 @@ no-one shall be deprived of -
 
 and no-one shall be expelled from Tuvalu.
 
-- No restriction on the rights of a person under subsection (1) that is involved in his lawful detention shall be considered to be inconsistent with that subsection.
+(2) No restriction on the rights of a person under subsection (1) that is involved in his lawful detention shall be considered to be inconsistent with that subsection.
 
-- Nothing in or done under a law shall be considered to be inconsistent with subsection (1) to the extent that the law makes provision -
+(3) Nothing in or done under a law shall be considered to be inconsistent with subsection (1) to the extent that the law makes provision —
 
-(a) in respect of -
+(a) in respect of —
 
 (i) the entry into Tuvalu of a person who is not a citizen of Tuvalu; or
 
@@ -1328,13 +1546,13 @@ The Constitution of Tuvalu
 
 (iv) the exclusion or expulsion from Tuvalu of a person referred to in subparagraph (i); or
 
-(b) for the imposition of restrictions on -
+(b) for the imposition of restrictions on —
 
 (i) the movement within Tuvalu, or the residence in Tuvalu, of any person; or
 
 (ii) the right of any person to leave Tuvalu,
 
-that are reasonably required in the interests of -
+that are reasonably required in the interests of —
 
 (iii) defence; or
 
@@ -1342,13 +1560,13 @@ that are reasonably required in the interests of -
 
 (v) public order; or
 
-(c) for the imposition of restrictions on -
+(c) for the imposition of restrictions on —
 
 (i) the movement within, Tuvalu or the residence in Tuvalu; or
 
 (ii) the right to leave Tuvalu,
 
-of persons generally or of any class of persons, being restrictions that are reasonably required in the interests of -
+of persons generally or of any class of persons, being restrictions that are reasonably required in the interests of —
 
 (iii) defence; or
 
@@ -1362,13 +1580,13 @@ of persons generally or of any class of persons, being restrictions that are rea
 
 (viii)  conservation of the environment; or
 
-(d) imposing restrictions on -
+(d) imposing restrictions on —
 
 (i) the movement within Tuvalu; or
 
 (ii) the residence in any part of Tuvalu,
 
-of any class of person where such restrictions are reasonably required to meet the special circumstances of a part of Tuvalu, for example -
+of any class of person where such restrictions are reasonably required to meet the special circumstances of a part of Tuvalu, for example —
 
 (iii) overcrowding or potential overcrowding; or
 
@@ -1394,23 +1612,23 @@ CAP. 1.02  Section 27
 
 (g) for the imposition of restrictions on the movement within Tuvalu, or the residence  in  Tuvalu,  of  a  person  in  circumstances  that  would  justify depriving him of his liberty under section 17 (personal liberty).
 
-- If  a  person whose rights under subsection (1) have been restricted by virtue only of a law to which subsection (3)(b) applies so requests at any time -
+(4) If a person whose rights under subsection (1) have been restricted by virtue only of a law to which subsection (3)(b) applies so requests at any time —
 
 (a) during the period of restriction; and
 
 (b) not earlier than six months after he last made such a request during that period,
 
-his case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person who -
+his case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person who —
 
 (c) is qualified to practise before the High Court; and
 
 (d) is appointed by the Chief Justice for the purpose.
 
-- On a review under subsection (4) the tribunal may make to the appropriate authority recommendations concerning the necessity or desirability of continuing  the  restriction,  but  unless  it  is  otherwise  provided  by  law  that authority is not obliged to act in accordance with any such recommendation.
+(5) On a review under subsection (4) the tribunal may make to the appropriate authority recommendations concerning the necessity or desirability of continuing the restriction, but unless it is otherwise provided by law that authority is not obliged to act in accordance with any such recommendation.
 
 ##### 27 Freedom from discrimination
 
-- In  this  section,  discrimination  refers  to  the  treatment  of  different  people  in different ways wholly or mainly because of their different -
+(1) In this section, discrimination refers to the treatment of different people in different ways wholly or mainly because of their different —
 
 (a) races; or
 
@@ -1424,7 +1642,7 @@ his case shall be reviewed by an independent and impartial tribunal established 
 
 in  such  a  way  that  one  such  person  is  for  some  such  reason  given  more favourable treatment or less favourable treatment than another such person.
 
-- Subject to the provisions of this Part, and in particular to -
+(2) Subject to the provisions of this Part, and in particular to —
 
 (a) the succeeding provisions of this section; and
 
@@ -1438,7 +1656,7 @@ in  such  a  way  that  one  such  person  is  for  some  such  reason  given  m
 
 no-one shall be treated in a discriminatory manner.
 
-- Subsection (2) does not apply to a law so far as it makes provision -
+(3) Subsection (2) does not apply to a law so far as it makes provision —
 
 2008 Revised Edition
 
@@ -1458,7 +1676,7 @@ The Constitution of Tuvalu
 
 (c) with respect to persons who are not citizens of Tuvalu; or
 
-(d) in respect of -
+(d) in respect of —
 
 (i) adoption: or
 
@@ -1476,9 +1694,9 @@ in accordance with the personal law, beliefs or customs of any person or group; 
 
 (f) by  which  any  person  or  group  may  be  given  favourable  treatment  or unfavourable  treatment  which,  having  regard  to  the  nature  of  the treatment and to any special circumstances of the person or group, is reasonably justifiable  in  a  democratic  society  having  a  proper  respect for human rights and dignity.
 
-- Nothing in a law shall be considered to be inconsistent with subsection (2) to the extent that it makes provision for -
+(4) Nothing in a law shall be considered to be inconsistent with subsection (2) to the extent that it makes provision for —
 
-(a) standards  or  qualifications (not specifically related  to  any  matter referred  to  in  subsection  (1)(a)-(e))  for  appointment  to  any  office  or position in -
+(a) standards or qualifications (not specifically related to any matter referred to in subsection (1)(a)-(e)) for appointment to any office or position in —
 
 (i) a State Service; or
 
@@ -1490,9 +1708,9 @@ in accordance with the personal law, beliefs or customs of any person or group; 
 
 (b) localization within the meaning of section 142 (localization).
 
-- Subsection  (2)  does  not  affect  the  exercise  of  any  discretion  relating  to  the institution,  conduct  or  discontinuance  in  a  court  of  any  proceedings  that  is vested in any person or authority by or under this Constitution or any other law.
+(5) Subsection (2) does not affect the exercise of any discretion relating to the institution, conduct or discontinuance in a court of any proceedings that is vested in any person or authority by or under this Constitution or any other law.
 
-- Nothing in or done under a law shall be considered to be inconsistent with subsection  (2)  to  the  extent  that  the  law  provides  that  any  person  may  be subjected to any restriction on the rights and freedoms guaranteed by -
+(6) Nothing in or done under a law shall be considered to be inconsistent with subsection (2) to the extent that the law provides that any person may be subjected to any restriction on the rights and freedoms guaranteed by —
 
 (a) section 21 (privacy of home and property); and
 
@@ -1520,7 +1738,7 @@ CAP. 1.02  Section 28
 
 to the extent authorized by that section.
 
-- Subject  to  section  12(2)  (which  relates  to  harsh,  oppressive  or  otherwise unlawful  acts)  and  15  (definition  of  'reasonably  justifiable  in  a  democratic society') and to any other law, no act that -
+(7) Subject to section 12(2) (which relates to harsh, oppressive or otherwise unlawful acts) and 15 (definition of “reasonably justifiable in a democratic society”) and to any other law, no act that —
 
 (a) is in accordance with Tuvaluan custom; and
 
@@ -1528,7 +1746,7 @@ to the extent authorized by that section.
 
 shall be considered to be inconsistent with subsection (2).
 
-- Nothing in or done under a law shall be considered to be inconsistent with subsection (2) -
+(8) Nothing in or done under a law shall be considered to be inconsistent with subsection (2) —
 
 (a) if the law was in force in Tuvalu immediately before the date on which this Constitution took effect; or
 
@@ -1542,17 +1760,17 @@ The fact that certain rights and freedoms are referred to in this Constitution d
 
 ##### 29 Protection of Tuvaluan values, etc.
 
-- The  Preamble  acknowledges  that  Tuvalu  is  an  Independent  State  based  on Christian principles, the Rule of Law, Tuvaluan values, culture and tradition, and respect for human dignity.
+(1) The Preamble acknowledges that Tuvalu is an Independent State based on Christian principles, the Rule of Law, Tuvaluan values, culture and tradition, and respect for human dignity.
 
-- This includes recognition of -
+(2) This includes recognition of —
 
 (a) the right to worship, or not to worship, in whatever way the conscience of the individual tells him; and
 
 (b) the  right  to  hold,  to  receive  and  to  communicate  opinions,  ideas  and information.
 
-- Within Tuvalu, the freedoms of the individual can only be exercised having regard to the rights or feelings of other people, and to the effect on society.
+(3) Within Tuvalu, the freedoms of the individual can only be exercised having regard to the rights or feelings of other people, and to the effect on society.
 
-- It  may  therefore  be  necessary  in  certain  circumstances  to  regulate  or  place some restrictions on the exercise of those rights, if their exercise -
+(4) It may therefore be necessary in certain circumstances to regulate or place some restrictions on the exercise of those rights, if their exercise —
 
 2008 Revised Edition
 
@@ -1570,7 +1788,7 @@ The Constitution of Tuvalu
 
 (b) may directly threaten Tuvaluan values or culture.
 
-- Subject  to  section  15  (definition  of  'reasonably  justifiable  in  a  democratic society') nothing contained in a law or done under a law shall be considered to  be  inconsistent  with  section  23  (freedom  of  belief)  or  24  (freedom  of expression) to the extent that the law makes provision regulating or placing restrictions on any exercise of the right -
+(5) Subject to section 15 (definition of “reasonably justifiable in a democratic society”) nothing contained in a law or done under a law shall be considered to be inconsistent with section 23 (freedom of belief) or 24 (freedom of expression) to the extent that the law makes provision regulating or placing restrictions on any exercise of the right —
 
 (a) to spread beliefs; or
 
@@ -1580,7 +1798,7 @@ if the exercise of that right may otherwise conflict with subsection (4).
 
 ##### 30 Provisions relating to certain officials
 
-- Subject  to  section  15  (definition  of  'reasonably  justifiable  in  a  democratic society') nothing in -
+(1) Subject to section 15 (definition of “reasonably justifiable in a democratic society”) nothing in —
 
 (a) section 24 (freedom of expression); or
 
@@ -1588,13 +1806,13 @@ if the exercise of that right may otherwise conflict with subsection (4).
 
 (c) section 26 (freedom of movement),
 
-prevents  the  inclusion  in  the  terms  and  conditions  of  employment  of  any member of a State Service of reasonable requirements, related to his office or position in that Service, as to -
+prevents the inclusion in the terms and conditions of employment of any member of a State Service of reasonable requirements, related to his office or position in that Service, as to —
 
 (d) his communications or associations with other persons; or
 
 (e) his movements or residence.
 
-- The  terms  and  conditions  of  employment  referred  to  in  subsection  (1) include -
+(2) The terms and conditions of employment referred to in subsection (1) include —
 
 (a) all terms and conditions that are applicable to or in relation to a member of a State Service while he is a member of the Service; and
 
@@ -1602,7 +1820,7 @@ prevents  the  inclusion  in  the  terms  and  conditions  of  employment  of  a
 
 (c) all terms and conditions of a kind referred to in paragraph (a) or (b) that are applicable to or in relation to him because of his consent.
 
-- Subsection (1) and (2) apply whether a term or condition of employment is contained in -
+(3) Subsection (1) and (2) apply whether a term or condition of employment is contained in —
 
 (a) a contract or agreement of employment (whether written or oral); or
 
@@ -1624,7 +1842,7 @@ CAP. 1.02  Section 31
 
 ##### 31 Disciplined forces of Tuvalu
 
-Subject to section 15 (definition of 'reasonably justifiable in a democratic society'), in  relation  to  a  person  who  is  a  member  of  a  disciplined  force  of  Tuvalu  nothing contained in or done under the disciplinary law of that force shall be considered to be inconsistent with any provision of Subdivision A of this Division, other than -
+Subject to section 15 (definition of “reasonably justifiable in a democratic society”), in relation to a person who is a member of a disciplined force of Tuvalu nothing contained in or done under the disciplinary law of that force shall be considered to be inconsistent with any provision of Subdivision A of this Division, other than —
 
 (a) section 16 (life); or
 
@@ -1634,7 +1852,7 @@ Subject to section 15 (definition of 'reasonably justifiable in a democratic soc
 
 ##### 32 Foreign disciplined forces
 
-In relation to a person who -
+In relation to a person who —
 
 (a) is  a  member  of  a  disciplined  force  of  a  foreign  country  or  is,  as recognized  by  or  under  an  Act  of  Parliament,  a  person  otherwise subject to the disciplinary law of such a force; and
 
@@ -1650,9 +1868,9 @@ Nothing done in relation to a person who is a member of a disciplined force of a
 
 #### 34 Interpretation of Division 4
 
-In this Division -
+In this Division —
 
-' period of public emergency ' means a period throughout which -
+“period of public emergency” means a period throughout which —
 
 (a) Tuvalu is at war; or
 
@@ -1672,9 +1890,9 @@ The Constitution of Tuvalu
 
 #### 35 Declaration of public emergency
 
-- The Head of State, acting in accordance with the advice of the Prime Minister, may  by  proclamation  declare  that  a  state  of  public  emergency  exists  in Tuvalu, or in a part of Tuvalu specified in the proclamation.
+(1) The Head of State, acting in accordance with the advice of the Prime Minister, may by proclamation declare that a state of public emergency exists in Tuvalu, or in a part of Tuvalu specified in the proclamation.
 
-- Unless  earlier  revoked,  a  proclamation  under  subsection  (1)  lapses  at  the expiration of -
+(2) Unless earlier revoked, a proclamation under subsection (1) lapses at the expiration of —
 
 (a) three days; or
 
@@ -1682,11 +1900,11 @@ The Constitution of Tuvalu
 
 after the date on which it is made, unless it is approved in the meantime by Parliament by resolution.
 
-- An  approval  under  subsection  (2)  remains  in  force  for  such  period,  not exceeding six months, as is specified in the resolution granting the approval, and may be extended by further resolution from time to time for such period or periods, each not exceeding six months, as is or are specified in any such further resolution or resolutions.
+(3) An approval under subsection (2) remains in force for such period, not exceeding six months, as is specified in the resolution granting the approval, and may be extended by further resolution from time to time for such period or periods, each not exceeding six months, as is or are specified in any such further resolution or resolutions.
 
 #### 36 Restrictions on certain rights and freedoms during public emergencies
 
-Nothing in or done under a law shall be considered to be inconsistent with -
+Nothing in or done under a law shall be considered to be inconsistent with —
 
 (a) section 16 (life); or
 
@@ -1704,7 +1922,7 @@ Nothing in or done under a law shall be considered to be inconsistent with -
 
 (h) section 27 (freedom from discrimination),
 
-to the extent that the law -
+to the extent that the law —
 
 (i) makes any provision, in relation to a period of public emergency; or
 
@@ -1712,7 +1930,7 @@ to the extent that the law -
 
 #### 37 Detention during public emergencies
 
-- If  a  person  is  detained  by  virtue  of  a  law  authorized  only  by  section  36 (restrictions on certain rights and freedoms during public emergencies) -
+(1) If a person is detained by virtue of a law authorized only by section 36 (restrictions on certain rights and freedoms during public emergencies) —
 
 (a) he shall, as soon as practicable and in any case not more than 10 days after  the  beginning  of  his  detention,  be  furnished  with  a  written
 
@@ -1730,13 +1948,13 @@ CAP. 1.02  Section 38
 
 statement,  in  a  language  that  he  understands,  stating  in  detail  the grounds on which he is detained; and
 
-(b) not more than 14 days after the beginning of his detention a notice shall be published -
+(b) not more than 14 days after the beginning of his detention a notice shall be published —
 
 (i) in  the  manner  prescribed  for  the  publication  of  subordinate legislation; and
 
 (ii) in such other manner (if any) as is directed by the Chief Justice; and
 
-(c) not  more  than  one  month  after  the  beginning  of  his  detention,  and afterwards at intervals of not more than six months, his case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person who -
+(c) not more than one month after the beginning of his detention, and afterwards at intervals of not more than six months, his case shall be reviewed by an independent and impartial tribunal established by law and presided over by a person who —
 
 (i) is qualified to practise before the High Court; and
 
@@ -1746,15 +1964,15 @@ statement,  in  a  language  that  he  understands,  stating  in  detail  the gr
 
 (e) at the hearing of the case he shall be permitted to appear in person or, at his own expense, by a representative of his own choice.
 
-- On a review under subsection (1)(c), the tribunal may make recommendations to the authority that detained him concerning the necessity or desirability of continuing  the  detention,  but  unless  it  is  otherwise  provided  by  law  that authority is not obliged to act in accordance with any such recommendation.
+(2) On a review under subsection (1)(c), the tribunal may make recommendations to the authority that detained him concerning the necessity or desirability of continuing the detention, but unless it is otherwise provided by law that authority is not obliged to act in accordance with any such recommendation.
 
-- A failure to comply with subsection (1)(b) does not invalidate the detention.
+(3) A failure to comply with subsection (1)(b) does not invalidate the detention.
 
 ### DIVISION 5 - ENFORCEMENT OF THE BILL OF RIGHTS
 
 #### 38 Application for enforcement of the Bill of Rights
 
-- In accordance with any rules of court made for the purposes of this Division, if any person claims that any of the provisions of this Part -
+(1) In accordance with any rules of court made for the purposes of this Division, if any person claims that any of the provisions of this Part —
 
 (a) has been; or
 
@@ -1764,7 +1982,7 @@ statement,  in  a  language  that  he  understands,  stating  in  detail  the gr
 
 contravened or not complied with in relation to him, he may apply to the High Court under this Division.
 
-- In the case of a person who is being detained, an application under subsection (1) may be made -
+(2) In the case of a person who is being detained, an application under subsection (1) may be made —
 
 (a) by the person himself; or
 
@@ -1782,7 +2000,7 @@ The Constitution of Tuvalu
 
 (b) by any other person on his behalf.
 
-- Nothing in subsection (1) or (2) prevents any other action that may be taken under any other law in respect of the contravention.
+(3) Nothing in subsection (1) or (2) prevents any other action that may be taken under any other law in respect of the contravention.
 
 #### 39 Questions as to the Bill of Rights arising in subordinate courts
 
@@ -1790,7 +2008,7 @@ If in any proceedings in a subordinate court a question arises as to a contraven
 
 #### 40 Jurisdiction of the High Court as to the Bill of Rights
 
-- The High Court has original jurisdiction -
+(1) The High Court has original jurisdiction —
 
 (a) to  determine  any  application  made  under  section  38  (application  for enforcement of the Bill of Rights); and
 
@@ -1798,13 +2016,13 @@ If in any proceedings in a subordinate court a question arises as to a contraven
 
 and  may  make  any  orders,  issue  any  writs  and  give  any  directions  that  it thinks appropriate for enforcing or securing the enforcement of this Part.
 
-- The High Court may refuse to exercise its powers under subsection (1) if it is satisfied that adequate means of redress for the alleged contravention are or have been reasonably available to the person concerned under any other law.
+(2) The High Court may refuse to exercise its powers under subsection (1) if it is satisfied that adequate means of redress for the alleged contravention are or have been reasonably available to the person concerned under any other law.
 
 #### 41 Appeals as to the Bill of Rights
 
-- Subject to subsection (2), an appeal may be made, in accordance with Part VII (The  Courts),  against  any  determination  of  the  High  Court  under  this Division.
+(1) Subject to subsection (2), an appeal may be made, in accordance with Part VII (The Courts), against any determination of the High Court under this Division.
 
-- There is no appeal against a determination dismissing an application on the ground that it is frivolous or vexatious.
+(2) There is no appeal against a determination dismissing an application on the ground that it is frivolous or vexatious.
 
 #### 42 Additional powers of the High Court as to the Bill of Rights
 
@@ -1822,15 +2040,19 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 43
 
+## PART III
+
+### CITIZENSHIP
+
 #### 43 Interpretation of Part III
 
-- For the purposes of this Part, a person born on board -
+(1) For the purposes of this Part, a person born on board —
 
 (a) a registered vessel or aircraft; or
 
 (b) an unregistered vessel or aircraft of the Government of any country,
 
-shall be considered to have been born -
+shall be considered to have been born —
 
 (c) in the place where the vessel or aircraft was registered; or
 
@@ -1838,11 +2060,11 @@ shall be considered to have been born -
 
 as the case may be.
 
-- For the purposes of this Part, a foundling discovered at any time in Tuvalu shall, in the absence of proof to the contrary, be considered to have been born in Tuvalu.
+(2) For the purposes of this Part, a foundling discovered at any time in Tuvalu shall, in the absence of proof to the contrary, be considered to have been born in Tuvalu.
 
 #### 44 Initial citizenship under the Constitution
 
-Every  person  who,  immediately  before  the  date  on  which  this  Constitution  took effect, was a citizen of Tuvalu by virtue of -
+Every person who, immediately before the date on which this Constitution took effect, was a citizen of Tuvalu by virtue of —
 
 (a) Chapter III (Citizenship) of the Independence Constitution; or
 
@@ -1852,21 +2074,17 @@ is as at that date a citizen of Tuvalu for the purposes of this Constitution.
 
 #### 45 Citizenship by birth
 
-- Subject to subsections (3) and (4), a person born in Tuvalu on or after the date on which this Constitution took effect is a citizen of Tuvalu by birth.
+(1) Subject to subsections (3) and (4), a person born in Tuvalu on or after the date on which this Constitution took effect is a citizen of Tuvalu by birth.
 
-- A person born outside Tuvalu on or after the date on which this Constitution took effect is a citizen of Tuvalu by birth if on the date of his birth either of his parents is, or would but for his death have been, a citizen of Tuvalu.
+(2) A person born outside Tuvalu on or after the date on which this Constitution took effect is a citizen of Tuvalu by birth if on the date of his birth either of his parents is, or would but for his death have been, a citizen of Tuvalu.
 
-- Subject to subsection (5), a person does not become a citizen of Tuvalu by virtue of subsection (1) if at the time of his birth -
+(3) Subject to subsection (5), a person does not become a citizen of Tuvalu by virtue of subsection (1) if at the time of his birth —
 
 (a) neither of his parents was a citizen of Tuvalu; and
 
 (b) his father had the privileges and immunities of an envoy to Tuvalu from a country with which Tuvalu had diplomatic relations.
 
-- Subject to subsection (5), a person does not become a citizen of Tuvalu by virtue of subsection (1) if at the time of his birth -
-
-## PART III
-
-### CITIZENSHIP
+(4) Subject to subsection (5), a person does not become a citizen of Tuvalu by virtue of subsection (1) if at the time of his birth —
 
 2008 Revised Edition
 
@@ -1884,17 +2102,17 @@ The Constitution of Tuvalu
 
 (b) the birth occurred in a place in Tuvalu occupied by that country.
 
-- In  the  case  of  a  person  who  was  born  out  of  wedlock,  a  reference  in subsection (3) or (4) to his father shall be read as a reference to his mother.
+(5) In the case of a person who was born out of wedlock, a reference in subsection (3) or (4) to his father shall be read as a reference to his mother.
 
 #### 46 Citizenship by marriage under the Constitution
 
-- Subject  to  subsection  (2),  a  person  who,  on  or  after  the  date  on  which  this Constitution  took  effect,  marries  a  person  who  is  or  becomes  a  citizen  of Tuvalu is entitled, on making application in such manner as is prescribed by law, to be registered as a citizen of Tuvalu.
+(1) Subject to subsection (2), a person who, on or after the date on which this Constitution took effect, marries a person who is or becomes a citizen of Tuvalu is entitled, on making application in such manner as is prescribed by law, to be registered as a citizen of Tuvalu.
 
-- The right conferred by subsection (1) may be made subject to such exceptions and  qualifications  as  are  declared  by  law  to  be  in  the  interests  of  national security or public policy.
+(2) The right conferred by subsection (1) may be made subject to such exceptions and qualifications as are declared by law to be in the interests of national security or public policy.
 
 #### 47 Laws as to citizenship
 
-- An Act of Parliament may make provision -
+(1) An Act of Parliament may make provision —
 
 (a) for  the  acquisition  of  citizenship  of  Tuvalu  by  persons  who  are  not otherwise eligible to become citizens of Tuvalu by virtue of this Part; or
 
@@ -1906,11 +2124,11 @@ The Constitution of Tuvalu
 
 and generally for carrying into effect the purposes of this Part.
 
-- Subsection (1)(d) does not apply to a person who -
+(2) Subsection (1)(d) does not apply to a person who —
 
 (a) became  a  citizen  automatically  on  Independence  Day,  by  virtue  of section 19 (persons who became citizens on Independence Day) of the Independence Constitution; or
 
-(b) became a citizen by birth under -
+(b) became a citizen by birth under —
 
 (i) section  22  (persons  born  in  Tuvalu  after  the  day  prior  to Independence Day) of the Independence Constitution; or
 
@@ -1938,9 +2156,9 @@ CAP. 1.02  Section 48
 
 #### 48 The Sovereign of Tuvalu
 
-- Her Majesty Queen Elizabeth II,  by  the  grace  of  God  Queen  of  the  United Kingdom of Great Britain and Northern Ireland and of Her Other Realms and Possessions, Head of the Commonwealth, Defender of the Faith, having at the request  of  the  people  of  Tuvalu  graciously  consented,  is  the  Sovereign  of Tuvalu and, in accordance with this Constitution, the Head of State
+(1) Her Majesty Queen Elizabeth II, by the grace of God Queen of the United Kingdom of Great Britain and Northern Ireland and of Her Other Realms and Possessions, Head of the Commonwealth, Defender of the Faith, having at the request of the people of Tuvalu graciously consented, is the Sovereign of Tuvalu and, in accordance with this Constitution, the Head of State
 
-- The Royal Style and Titles are as determined by Act of Parliament. 2
+(2) The Royal Style and Titles are as determined by Act of Parliament. 2
 
 #### 49 Succession to the Crown
 
@@ -1954,9 +2172,9 @@ In  addition  to  the  other  functions  of  the  office,  the  office  of  Head
 
 #### 51 Functions, etc., of the Head of State generally
 
-- The only privileges and functions of the Head of State are those prescribed as such.
+(1) The only privileges and functions of the Head of State are those prescribed as such.
 
-- Subject to this Constitution and to any Act of Parliament, the privileges and functions  of  the  Sovereign  as  Head  of  State  may  be  had  and  performed through  a  Governor-General  appointed  in  accordance  with  Division  3  (the Governor-General) and, except where the context requires otherwise, references  in  any  law  to  the  Head  of  State  shall  be  read  as  including  a reference to the Governor-General.
+(2) Subject to this Constitution and to any Act of Parliament, the privileges and functions of the Sovereign as Head of State may be had and performed through a Governor-General appointed in accordance with Division 3 (the Governor-General) and, except where the context requires otherwise, references in any law to the Head of State shall be read as including a reference to the Governor-General.
 
 2008 Revised Edition
 
@@ -1972,7 +2190,7 @@ The Constitution of Tuvalu
 
 #### 52 Performance of functions by the Head of State
 
-- Subject to section 17 (impracticability of obtaining advice, etc.) of Schedule 1, in the performance of his functions under this Constitution or any other law the Head of State shall act only in accordance with the advice of -
+(1) Subject to section 17 (impracticability of obtaining advice, etc.) of Schedule 1, in the performance of his functions under this Constitution or any other law the Head of State shall act only in accordance with the advice of —
 
 (a) the Cabinet; or
 
@@ -1988,7 +2206,7 @@ except where he is required to act -
 
 or  where  this  Constitution  obliges  or  specifically  permits  him  to  act  in  a particular way.
 
-- When the Head of State is required or permitted by this Constitution or any other law to act in accordance with the advice of, or after consultation with, any person or authority, no question -
+(2) When the Head of State is required or permitted by this Constitution or any other law to act in accordance with the advice of, or after consultation with, any person or authority, no question —
 
 (a) whether he received the advice; or
 
@@ -2002,7 +2220,7 @@ shall be considered in any court.
 
 #### 53 Failure by the Head of State to act
 
-- Subject to subsection (2), if -
+(1) Subject to subsection (2), if —
 
 (a) the Head of State is required by this Constitution or by or under an Act of Parliament to perform any function in accordance with the advice of any person or authority; and
 
@@ -2010,7 +2228,7 @@ shall be considered in any court.
 
 he shall be considered to have acted in accordance with the advice.
 
-- If the person or authority giving the advice -
+(2) If the person or authority giving the advice —
 
 (a) certifies to the Head of State that the matter is urgent; and
 
@@ -2030,7 +2248,7 @@ CAP. 1.02  Section 54
 
 the  reference  in  subsection  (1)  to  a  period  of  seven  days  shall  be  read  as  a reference to that specified period.
 
-- If the Head of State is required by this Constitution or by or under an Act of Parliament to perform any function otherwise than -
+(3) If the Head of State is required by this Constitution or by or under an Act of Parliament to perform any function otherwise than —
 
 (a) in accordance with the advice of any person or authority; or
 
@@ -2038,21 +2256,21 @@ the  reference  in  subsection  (1)  to  a  period  of  seven  days  shall  be  
 
 and if at any time after the occasion for the performance of the function has arisen he has not so acted he shall be considered to have acted as required.
 
-- An Act of Parliament may make provision as to the proof of matters referred to in this section, and of acts considered to have been done by virtue of this section.
+(4) An Act of Parliament may make provision as to the proof of matters referred to in this section, and of acts considered to have been done by virtue of this section.
 
 ### DIVISION 3 - THE GOVERNOR-GENERAL
 
 #### 54 Establishment of office of Governor-General
 
-- An office of Governor-General of Tuvalu is established.
+(1) An office of Governor-General of Tuvalu is established.
 
-- The Governor-General is the representative of the Sovereign.
+(2) The Governor-General is the representative of the Sovereign.
 
 #### 55 Appointment, etc., of the Governor-General
 
-- The Governor-General shall be appointed, and may be removed from office at any time (with or without cause), by the Sovereign, acting in accordance with the  advice  of  the  Prime  Minister  given  after  the  Prime  Minister  has,  in confidence, consulted the members of Parliament.
+(1) The Governor-General shall be appointed, and may be removed from office at any time (with or without cause), by the Sovereign, acting in accordance with the advice of the Prime Minister given after the Prime Minister has, in confidence, consulted the members of Parliament.
 
-- A person is not qualified to be appointed Governor-General unless -
+(2) A person is not qualified to be appointed Governor-General unless —
 
 (a) he has attained the age of 50 years; and
 
@@ -2060,7 +2278,7 @@ and if at any time after the occasion for the performance of the function has ar
 
 (c) he is otherwise qualified to be elected as a member of Parliament.
 
-- The Governor-General vacates his office -
+(3) The Governor-General vacates his office —
 
 (a) on death; or
 
@@ -2086,35 +2304,35 @@ Section 56  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- A resignation under subsection (3)(d) takes effect on the day on which it is received  by  the  Speaker,  or  on  such  later  date  as  is  agreed  between  the Governor-General and the Prime Minister.
+(4) A resignation under subsection (3)(d) takes effect on the day on which it is received by the Speaker, or on such later date as is agreed between the Governor-General and the Prime Minister.
 
 #### 56 Acting Governor-General
 
-- Where -
+(1) Where —
 
 (a) the office of Governor-General is vacant; or
 
-(b) the Governor-General is -
+(b) the Governor-General is —
 
 (i) absent from Tuvalu; or
 
 (ii) for any other reason unable to perform any of the functions of his office,
 
-the functions of the Governor-General or the relevant parts of those functions shall be performed by -
+the functions of the Governor-General or the relevant parts of those functions shall be performed by —
 
 (c) a person appointed in accordance with subsection (2); or
 
 (d) in the absence of a person appointed in accordance with subsection (2) who is able to perform those functions - the Speaker.
 
-- For  the  purposes  of  subsection  (1)(c),  an  appointment  shall  be  made  in  the same  way  as  the  appointment  of  a  Governor-General  under  section  55 (appointment, etc., of Governor-General,) and the provisions of that section, with the necessary modifications, apply, provided that any oath or affirmation required  under  section  57  (oaths  and  affirmation  by  the  Governor-General, etc) may be taken or made before the Governor-General.
+(2) For the purposes of subsection (1)(c), an appointment shall be made in the same way as the appointment of a Governor-General under section 55 (appointment, etc., of Governor-General,) and the provisions of that section, with the necessary modifications, apply, provided that any oath or affirmation required under section 57 (oaths and affirmation by the Governor-General, etc) may be taken or made before the Governor-General.
 
-- No  question  whether  the  need  for  the  performance  of  any  function  of  the Governor-General  by  another  person  (including  the  Speaker)  in  accordance with subsection (1) has arisen, or has ceased, shall be considered in any court.
+(3) No question whether the need for the performance of any function of the Governor-General by another person (including the Speaker) in accordance with subsection (1) has arisen, or has ceased, shall be considered in any court.
 
 #### 57 Oaths and affirmation by the Governor-General, etc.
 
-- Before entering on the duties of his office the Governor-General shall take an oath,  or  make  an  affirmation,  of  allegiance,  and  take  the  relevant  oath,  or make the relevant affirmation, of office, in the forms respectively set out in Schedule  4,  and  before  performing  under  section  56(1)  (acting  GovernorGeneral) any of the functions of the Governor-General the person referred to in section 56(1)(c) (which relates to the appointment of an acting GovernorGeneral) or the Speaker, as the case may be, shall do the same.
+(1) Before entering on the duties of his office the Governor-General shall take an oath, or make an affirmation, of allegiance, and take the relevant oath, or make the relevant affirmation, of office, in the forms respectively set out in Schedule 4, and before performing under section 56(1) (acting Governor-General) any of the functions of the Governor-General the person referred to in section 56(1)(c) (which relates to the appointment of an acting Governor-General) or the Speaker, as the case may be, shall do the same.
 
-- The oaths and affirmations shall be taken or made before the Chief Justice or a person appointed by the Chief Justice for the purpose.
+(2) The oaths and affirmations shall be taken or made before the Chief Justice or a person appointed by the Chief Justice for the purpose.
 
 Page 46
 
@@ -2130,7 +2348,7 @@ CAP. 1.02  Section 58
 
 #### 58 Performance of functions by the Governor-General
 
-- Subject  to  any  Act  of  Parliament,  the  Governor-General  shall  perform  the functions of the Head of State when the Sovereign is -
+(1) Subject to any Act of Parliament, the Governor-General shall perform the functions of the Head of State when the Sovereign is —
 
 (a) outside Tuvalu; or
 
@@ -2138,9 +2356,9 @@ CAP. 1.02  Section 58
 
 (c) under age.
 
-- No  question  whether  the  conditions  prescribed  by  or  under  subsection  (1) apply shall be considered in any court.
+(2) No question whether the conditions prescribed by or under subsection (1) apply shall be considered in any court.
 
-- No question whether in performing a function as Head of State the GovernorGeneral  is  acting  in  accordance  with  the  will,  opinion  or  decision  of  the Sovereign shall be considered in any court, and -
+(3) No question whether in performing a function as Head of State the Governor-General is acting in accordance with the will, opinion or decision of the Sovereign shall be considered in any court, and —
 
 (a) except  to  the  extent  implied  by  sections  55  (appointment,  etc.,  of Governor-General)  and  56  (acting  Governor-General)  the  Sovereign has no power to give directions to the Governor-General; and
 
@@ -2156,9 +2374,9 @@ The Governor-General, as the representative of the Sovereign, is entitled -
 
 #### 60 Performance of certain ceremonial, etc., functions
 
-- With the approval of the Prime Minister, the Governor-General may authorize a person to perform, on his behalf and in his name, any of the ceremonial or formal functions of the Head of State or of the Governor-General.
+(1) With the approval of the Prime Minister, the Governor-General may authorize a person to perform, on his behalf and in his name, any of the ceremonial or formal functions of the Head of State or of the Governor-General.
 
-- Subsection (1) does not apply to -
+(2) Subsection (1) does not apply to —
 
 (a) any function conferred by this Constitution on the Head of State or on the Governor-General; or
 
@@ -2186,25 +2404,25 @@ The Constitution of Tuvalu
 
 #### 61 Vesting of the executive authority
 
-- The executive authority of Tuvalu is primarily vested in the Sovereign, and in the Governor-General as the representative of the Sovereign.
+(1) The executive authority of Tuvalu is primarily vested in the Sovereign, and in the Governor-General as the representative of the Sovereign.
 
-- The  executive  authority  so  vested  in  the  Sovereign  shall  be  exercised  in accordance with section 52 (performance of functions by the Head of State).
+(2) The executive authority so vested in the Sovereign shall be exercised in accordance with section 52 (performance of functions by the Head of State).
 
-- Nothing in this section prevents a law from conferring functions on any other person or authority.
+(3) Nothing in this section prevents a law from conferring functions on any other person or authority.
 
 #### 62 Offices of Ministers
 
-- An office of Prime Minister is established.
+(1) An office of Prime Minister is established.
 
-- Subject  to  subsection  (3),  there  shall  be  such  number  of  other  offices  of Minister,  and  they  shall  have  such  titles,  as  are  determined  by  the  Head  of State, acting in accordance with the advice of the Prime Minister.
+(2) Subject to subsection (3), there shall be such number of other offices of Minister, and they shall have such titles, as are determined by the Head of State, acting in accordance with the advice of the Prime Minister.
 
-- The number of offices of Minister (other than the office of Prime Minister) shall not exceed one half of the total membership of Parliament. 3
+(3) The number of offices of Minister (other than the office of Prime Minister) shall not exceed one half of the total membership of Parliament. 3
 
-- One of the Ministers other than the Prime Minister may be appointed to the office of Deputy Prime Minister by the Head of State, acting in accordance with the advice of the Prime Minister.
+(4) One of the Ministers other than the Prime Minister may be appointed to the office of Deputy Prime Minister by the Head of State, acting in accordance with the advice of the Prime Minister.
 
-- Subject  to  section  71  (caretaker  governments)  and  to  subsection  (6),  all Ministers (including the Prime Minister) must be members of Parliament.
+(5) Subject to section 71 (caretaker governments) and to subsection (6), all Ministers (including the Prime Minister) must be members of Parliament.
 
-- If  it  is  necessary  to  appoint  a  Minister  (other  than  a  Prime  Minister)  at  any time -
+(6) If it is necessary to appoint a Minister (other than a Prime Minister) at any time —
 
 (a) after Parliament is dissolved under section 118 (dissolution of Parliament); and
 
@@ -2212,7 +2430,7 @@ The Constitution of Tuvalu
 
 a person who was a member of Parliament immediately before the dissolution may be appointed.
 
-- Subject  to  sections  68  (acting  Prime  Minister)  and  76  (proceedings  in Cabinet), all Ministers other than the Prime Minister rank equally.
+(7) Subject to sections 68 (acting Prime Minister) and 76 (proceedings in Cabinet), all Ministers other than the Prime Minister rank equally.
 
 Page 48
 
@@ -2228,9 +2446,9 @@ CAP. 1.02  Section 63
 
 #### 63 The Prime Minister
 
-- The  Prime  Minister  shall  be  elected  by  the  members  of  Parliament  in accordance with Schedule 2 (Election and Appointment of Prime Minister).
+(1) The Prime Minister shall be elected by the members of Parliament in accordance with Schedule 2 (Election and Appointment of Prime Minister).
 
-- The office of the Prime Minister becomes vacant -
+(2) The office of the Prime Minister becomes vacant —
 
 (a) on death; or
 
@@ -2244,11 +2462,11 @@ CAP. 1.02  Section 63
 
 (f) if a motion of no confidence in the Government receives in Parliament the votes of a majority of the total membership of Parliament.
 
-- Subject to section 71 (caretaker governments), a resignation under subsection (2)(d) takes effect upon its receipt by the Head of State.
+(3) Subject to section 71 (caretaker governments), a resignation under subsection (2)(d) takes effect upon its receipt by the Head of State.
 
 #### 64 Removal from office of an incapacitated Prime Minister
 
-- If in the opinion of the Head of State, acting in his own deliberate judgment after consultation, in confidence, with the other Ministers -
+(1) If in the opinion of the Head of State, acting in his own deliberate judgment after consultation, in confidence, with the other Ministers —
 
 (a) the  Prime  Minister  is  unable  to  perform  properly  the  functions  of  his office because of infirmity of body or mind; and
 
@@ -2256,9 +2474,9 @@ CAP. 1.02  Section 63
 
 the  Head  of  State,  acting  in  accordance  with  the  advice  of  a  professional medical  body  outside  Tuvalu  approved  by  an  Act  of  Parliament  for  the purpose,  shall  appoint  two  or  more  medical  practitioners  who  are  legally qualified  to  practise  medicine  in  Tuvalu  or  elsewhere  to  investigate  the question of the capacity of the Prime Minister.
 
-- The persons appointed under subsection (1) shall investigate the question and make a joint professional report to the Head of State personally.
+(2) The persons appointed under subsection (1) shall investigate the question and make a joint professional report to the Head of State personally.
 
-- If after considering the report the Head of State, acting in his own deliberate judgment,  is  satisfied  that  it  is  in  the  interests  of  the  good  government  of Tuvalu to do so, he may, acting in his own deliberate judgment, by written notice to -
+(3) If after considering the report the Head of State, acting in his own deliberate judgment, is satisfied that it is in the interests of the good government of Tuvalu to do so, he may, acting in his own deliberate judgment, by written notice to —
 
 (a) the Prime Minister; and
 
@@ -2282,15 +2500,15 @@ The Constitution of Tuvalu
 
 #### 65 Suspension of Prime Minister
 
-- If  the  question  of  the  capacity  of  the  Prime  Minister  has  been  referred  to  a tribunal  under  section  64  (removal  from  office  of  an  incapacitated  Prime Minister),  the  Head  of  State,  acting  in  his  own  deliberate  judgment,  may suspend the Prime Minister from office.
+(1) If the question of the capacity of the Prime Minister has been referred to a tribunal under section 64 (removal from office of an incapacitated Prime Minister), the Head of State, acting in his own deliberate judgment, may suspend the Prime Minister from office.
 
-- A suspension under subsection (1) -
+(2) A suspension under subsection (1) —
 
 (a) may  be  lifted  at  any  time  by  the  Head  of  State,  acting  in  his  own deliberate judgment; and
 
 (b) ceases to have effect if the tribunal reports to the Head of State that the Prime Minister is able to perform properly the functions of his office.
 
-- A suspension under this section takes effect without loss of remuneration or other entitlements.
+(3) A suspension under this section takes effect without loss of remuneration or other entitlements.
 
 #### 66 Effect of removal or suspension of Prime Minister
 
@@ -2298,9 +2516,9 @@ His  removal  under  section  64  (removal  from  office  of  an  incapacitated 
 
 #### 67 The other Ministers
 
-- The Ministers other than the Prime Minister shall be appointed by the Head of State, acting in accordance with the advice of the Prime Minister.
+(1) The Ministers other than the Prime Minister shall be appointed by the Head of State, acting in accordance with the advice of the Prime Minister.
 
-- The office of a Minister other than the Prime Minister becomes vacant -
+(2) The office of a Minister other than the Prime Minister becomes vacant —
 
 (a) on death; or
 
@@ -2314,11 +2532,11 @@ His  removal  under  section  64  (removal  from  office  of  an  incapacitated 
 
 (f) in the circumstances set out in section 63(2)(f) (which relates to votes of no confidence in Government).
 
-- A resignation under subsection (2)(d) takes effect on the date on which it is received by the Head of State.
+(3) A resignation under subsection (2)(d) takes effect on the date on which it is received by the Head of State.
 
 #### 68 Acting Prime Minister
 
-- This section applies when the Prime Minister is -
+(1) This section applies when the Prime Minister is —
 
 Page 50
 
@@ -2336,9 +2554,9 @@ CAP. 1.02  Section 69
 
 (b) for any other reason unable to perform the functions of his office.
 
-- Subject to subsection (3), in a case to which subsection (1) applies until the Prime Minister returns to Tuvalu or is again able to perform the functions of his office the Deputy Prime Minister, (if any) shall perform those functions.
+(2) Subject to subsection (3), in a case to which subsection (1) applies until the Prime Minister returns to Tuvalu or is again able to perform the functions of his office the Deputy Prime Minister, (if any) shall perform those functions.
 
-- If -
+(3) If —
 
 (a) there is no office of Deputy Prime Minister; or
 
@@ -2352,7 +2570,7 @@ a  Minister  appointed  by  the  Head  of  State,  acting  in  accordance  with 
 
 #### 69 Acting Ministers
 
-- When-
+(1) When—
 
 (a) subject to section 71 (caretaker governments), the office of a Minister other than the Prime Minister is vacant; or
 
@@ -2364,7 +2582,7 @@ a  Minister  appointed  by  the  Head  of  State,  acting  in  accordance  with 
 
 the Head of State, acting in accordance with the advice of the Prime Minister, may  appoint  another  member  of  Parliament  to  perform  temporarily  the functions of the Minister.
 
-- The provisions of section 62(6) (which relates to the appointment of former members  of  Parliament  as  Ministers)  apply  to  an  appointment  under  this section in the same way as they apply to other appointments.
+(2) The provisions of section 62(6) (which relates to the appointment of former members  of  Parliament  as  Ministers)  apply  to  an  appointment  under  this section in the same way as they apply to other appointments.
 
 #### 70 Conditions of acting appointments to Ministerial offices
 
@@ -2390,9 +2608,9 @@ The Constitution of Tuvalu
 
 #### 71 Caretaker governments
 
-- Notwithstanding anything in this Part other than this section, in the event of a vacancy  in  the  office  of  Prime  Minister  the  Cabinet  in  office  immediately before  the  occurrence  of  the  vacancy  continues  in  office  as  a  caretaker government until a new election of a Prime Minister is completed.
+(1) Notwithstanding anything in this Part other than this section, in the event of a vacancy  in  the  office  of  Prime  Minister  the  Cabinet  in  office  immediately before  the  occurrence  of  the  vacancy  continues  in  office  as  a  caretaker government until a new election of a Prime Minister is completed.
 
-- If the Prime Minister -
+(2) If the Prime Minister —
 
 (a) dies; or
 
@@ -2402,11 +2620,11 @@ The Constitution of Tuvalu
 
 then subsections (4)-(7) apply.
 
-- If  the  Prime  Minister  resigns  under  section  63(2)(d)  (which  relates  to  the resignation of the Prime Minister) and indicates in his notice of resignation that  he  wishes  it  to  become  effective  immediately,  then  subsections  (4)-(7) apply.
+(3) If  the  Prime  Minister  resigns  under  section  63(2)(d)  (which  relates  to  the resignation of the Prime Minister) and indicates in his notice of resignation that  he  wishes  it  to  become  effective  immediately,  then  subsections  (4)-(7) apply.
 
-- Subject to subsection (5), in a case to which subsection (2) or (3) applies the Deputy Prime Minister shall perform the functions of the Prime Minister.
+(4) Subject to subsection (5), in a case to which subsection (2) or (3) applies the Deputy Prime Minister shall perform the functions of the Prime Minister.
 
-- If -
+(5) If —
 
 (a) there is no office of Deputy Prime Minister; or
 
@@ -2418,9 +2636,9 @@ then subsections (4)-(7) apply.
 
 a  Minister  appointed  by  the  Head  of  State,  acting  in  his  own  deliberate judgment  after  consultation,  in  confidence,  with  the  other  Ministers,  shall perform the functions of the Prime Minister.
 
-- The provisions of section 62(6) (which relates to the appointment of former members  of  Parliament  to  be  Ministers)  apply  in  respect  of  a  caretaker government holding office under this section.
+(6) The provisions of section 62(6) (which relates to the appointment of former members  of  Parliament  to  be  Ministers)  apply  in  respect  of  a  caretaker government holding office under this section.
 
-- A caretaker government goes out of office when a new election to the office of Prime Minister is completed.
+(7) A caretaker government goes out of office when a new election to the office of Prime Minister is completed.
 
 #### 72 Oaths and affirmations by Ministers
 
@@ -2442,9 +2660,9 @@ CAP. 1.02  Section 73
 
 #### 73 Establishment of the Cabinet
 
-- A Cabinet is established for Tuvalu.
+(1) A Cabinet is established for Tuvalu.
 
-- The Cabinet consists of the Prime Minister and all the other Ministers.
+(2) The Cabinet consists of the Prime Minister and all the other Ministers.
 
 #### 74 Functions of the Cabinet
 
@@ -2452,13 +2670,13 @@ The  Cabinet  is  collectively  responsible  to  Parliament  for  the  performan
 
 #### 75 Assignment of responsibilities to Ministers 4
 
-- The Head of State, acting in accordance with the advice of the Prime Minister may -
+(1) The Head of State, acting in accordance with the advice of the Prime Minister may —
 
 (a) assign to the Prime Minister or to any other Minister responsibility for the conduct of any business of the Government (including responsibility  for  the  administration  of  any  Ministry  or  office  of Government); and
 
 (b) from  time  to time re-assign any  such  responsibility either on  a substantive basis or on an acting basis.
 
-- Except as provided by or under an Act of Parliament -
+(2) Except as provided by or under an Act of Parliament —
 
 (a) all  Ministries,  offices  and  functions  of  Government  shall  be  the responsibility of the Prime Minister or another Minister; and
 
@@ -2466,15 +2684,15 @@ The  Cabinet  is  collectively  responsible  to  Parliament  for  the  performan
 
 #### 76 Proceedings in Cabinet
 
-- Meetings of the Cabinet shall be summoned by the Prime Minister or Minister appointed to act as Prime Minister.
+(1) Meetings of the Cabinet shall be summoned by the Prime Minister or Minister appointed to act as Prime Minister.
 
-- The  Prime  Minister  shall,  as  far  as  practicable,  attend  and  preside  at  all meetings of the Cabinet, and in his absence -
+(2) The  Prime  Minister  shall,  as  far  as  practicable,  attend  and  preside  at  all meetings of the Cabinet, and in his absence —
 
 (a) if  there  is  an  office  of  Deputy  Prime  Minister  and  the  Deputy  Prime Minister is present - the Deputy Prime Minister shall preside; and
 
 (b) in  any  other  case  -  a  Minister  chosen  by  the  Ministers  present  shall preside.
 
-- Subject  to  this  subsection,  the  quorum  for  a  meeting  of  the  Cabinet  is  a majority of the total membership, but if the members of the Cabinet present at a meeting certify to the Head of State that -
+(3) Subject  to  this  subsection,  the  quorum  for  a  meeting  of  the  Cabinet  is  a majority of the total membership, but if the members of the Cabinet present at a meeting certify to the Head of State that —
 
 2008 Revised Edition
 
@@ -2494,35 +2712,35 @@ The Constitution of Tuvalu
 
 the number of members actually present is a quorum for that meeting.
 
-- Subject to the requirement of a quorum in accordance with subsection (3) -
+(4) Subject to the requirement of a quorum in accordance with subsection (3) —
 
 (a) the Cabinet may conduct any business even if there is a vacancy in its membership; and
 
 (b) proceedings in Cabinet are valid even if a person who was not entitled to do so took part in those proceedings.
 
-- Subject  to  any  directions  of  the  Cabinet,  the  Prime  Minister  or  Minister appointed  to  act  as  Prime  Minister  shall  decide  what  business  is  to  be considered at a meeting of the Cabinet.
+(5) Subject  to  any  directions  of  the  Cabinet,  the  Prime  Minister  or  Minister appointed  to  act  as  Prime  Minister  shall  decide  what  business  is  to  be considered at a meeting of the Cabinet.
 
 #### 77 Validity of executive acts
 
-- The succeeding provisions of this section are subject to any Act of Parliament.
+(1) The succeeding provisions of this section are subject to any Act of Parliament.
 
-- Except as authorized by the Cabinet, or as otherwise required or permitted by an  Act  of  Parliament,  the  business  and  proceedings  of  the  Cabinet  shall  be kept secret.
+(2) Except as authorized by the Cabinet, or as otherwise required or permitted by an  Act  of  Parliament,  the  business  and  proceedings  of  the  Cabinet  shall  be kept secret.
 
-- No question whether any procedures prescribed for the Cabinet have been, or are being, complied with shall be considered in any court.
+(3) No question whether any procedures prescribed for the Cabinet have been, or are being, complied with shall be considered in any court.
 
-- Subject  to  subsection  (5),  no  act  of  the  Prime  Minister  or  of  any  other Minister is open to any challenge on the ground that he was not authorized to perform  it  if  any  Minister  (whether  or  not  specifically  named)  was  so authorized to do so.
+(4) Subject  to  subsection  (5),  no  act  of  the  Prime  Minister  or  of  any  other Minister is open to any challenge on the ground that he was not authorized to perform  it  if  any  Minister  (whether  or  not  specifically  named)  was  so authorized to do so.
 
-- Subsection  (4)  does  not  apply  in  relation  to  a  function  that  is  specifically conferred on the Prime Minister.
+(5) Subsection  (4)  does  not  apply  in  relation  to  a  function  that  is  specifically conferred on the Prime Minister.
 
 ### DIVISION 4 - OFFICERS ASSOCIATED WITH THE CABINET
 
 #### 78 The Secretary to Government
 
-- An office of Secretary to Government is established as an office in the Public Service.
+(1) An office of Secretary to Government is established as an office in the Public Service.
 
-- The Secretary to Government shall be appointed in accordance with section 159(3)(a) (which relates to the appointment of the Secretary to Government).
+(2) The Secretary to Government shall be appointed in accordance with section 159(3)(a) (which relates to the appointment of the Secretary to Government).
 
-- Unless he has been excused by or under the authority of the Prime Minister, the Secretary to Government shall attend all meetings of the Cabinet.
+(3) Unless he has been excused by or under the authority of the Prime Minister, the Secretary to Government shall attend all meetings of the Cabinet.
 
 Page 54
 
@@ -2536,29 +2754,29 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 79
 
-- The  Secretary  to Government  is  responsible, in  accordance  with  such instructions as are given to him by the Cabinet, for co-ordinating the work of all Ministries and offices of Government, and has such other functions as are prescribed or as are directed by the Cabinet or the Prime Minister.
+(4) The  Secretary  to Government  is  responsible, in  accordance  with  such instructions as are given to him by the Cabinet, for co-ordinating the work of all Ministries and offices of Government, and has such other functions as are prescribed or as are directed by the Cabinet or the Prime Minister.
 
-- On  receipt of a written notice of resignation from the Secretary to Government, the Prime Minister shall advise the Public Service Commission and submit the resignation to the Head of State for approval, which, subject to any other law, shall take effect on the date specified.
+(5) On  receipt of a written notice of resignation from the Secretary to Government, the Prime Minister shall advise the Public Service Commission and submit the resignation to the Head of State for approval, which, subject to any other law, shall take effect on the date specified.
 
 #### 79 The Attorney-General
 
-- An office  of  Attorney-General  for  Tuvalu  is  established  as  an  office  in  the Public Service.
+(1) An office  of  Attorney-General  for  Tuvalu  is  established  as  an  office  in  the Public Service.
 
-- The Attorney-General shall be appointed in accordance with section 159(4)(a) (which relates to the appointment of the Attorney-General).
+(2) The Attorney-General shall be appointed in accordance with section 159(4)(a) (which relates to the appointment of the Attorney-General).
 
-- The Attorney-General is the principal  legal  adviser  to  the  Government,  and has such other functions as are prescribed.
+(3) The Attorney-General is the principal  legal  adviser  to  the  Government,  and has such other functions as are prescribed.
 
-- A person is not qualified to hold or to act in the office of Attorney-General unless he is entitled to practise before the High Court.
+(4) A person is not qualified to hold or to act in the office of Attorney-General unless he is entitled to practise before the High Court.
 
-- Unless he is excused by or under the authority of Parliament, the AttorneyGeneral -
+(5) Unless he is excused by or under the authority of Parliament, the Attorney-General —
 
 (a) shall attend all meetings of Parliament; and
 
 (b) may take part, in accordance with the Rules of Procedure of Parliament, in  the  proceedings  of  Parliament  and  committees  of  Parliament  (but without a vote).
 
-- Unless  he  is  excused  by  or  under  the  authority  of  the  Prime  Minister,  the Attorney-General shall attend all meetings of the Cabinet.
+(6) Unless  he  is  excused  by  or  under  the  authority  of  the  Prime  Minister,  the Attorney-General shall attend all meetings of the Cabinet.
 
-- Subject  to  the  succeeding  provisions  of  this  section,  in  any  case  where  he considers it desirable to do so the Attorney-General may -
+(7) Subject  to  the  succeeding  provisions  of  this  section,  in  any  case  where  he considers it desirable to do so the Attorney-General may —
 
 (a) take criminal proceedings against any person before a court (other than a court-martial or other military tribunal) in respect of an offence; or
 
@@ -2566,7 +2784,7 @@ CAP. 1.02  Section 79
 
 (c) discontinue,  at  any  stage  before  judgment  is  given,  any  criminal proceedings referred to in paragraph (a) that have been taken by him or by any other person or authority.
 
-- Subject to any Act of Parliament, the functions of the Attorney-General may be performed -
+(8) Subject to any Act of Parliament, the functions of the Attorney-General may be performed —
 
 (a) in person; or
 
@@ -2586,13 +2804,13 @@ The Constitution of Tuvalu
 
 and  references  to  the  Attorney-General  include  references  to  officers  so acting.
 
-- Where any person or authority other than the Attorney-General has taken any criminal  proceedings,  nothing  in  this  section  prevents  the  withdrawal,  in accordance with law, of those proceedings by any person or authority except where those proceedings have been taken over by the Attorney-General.
+(9) Where any person or authority other than the Attorney-General has taken any criminal  proceedings,  nothing  in  this  section  prevents  the  withdrawal,  in accordance with law, of those proceedings by any person or authority except where those proceedings have been taken over by the Attorney-General.
 
-- Subject  to  subsections  (8)  and  (9),  the  powers  conferred  on  the  AttorneyGeneral by subsection (7)(b) and (c) are vested in him to the exclusion of any other person or authority.
+(10) Subject  to  subsections  (8)  and  (9),  the  powers  conferred  on  the  Attorney-General by subsection (7)(b) and (c) are vested in him to the exclusion of any other person or authority.
 
-- Subject to section 15 (independence) of Schedule 1, in the performance of his functions  under  subsection  (7)  the  Attorney-General  is  not  subject  to  the direction or control of any other person or authority.
+(11) Subject to section 15 (independence) of Schedule 1, in the performance of his functions  under  subsection  (7)  the  Attorney-General  is  not  subject  to  the direction or control of any other person or authority.
 
-- Subject to subsection (13), for the purposes of this section -
+(12) Subject to subsection (13), for the purposes of this section —
 
 (a) an appeal from a decision in any proceedings; and
 
@@ -2600,7 +2818,7 @@ and  references  to  the  Attorney-General  include  references  to  officers  s
 
 is part of those proceedings.
 
-- The  functions  of  the  Attorney-General  under  subsection  (7)(c)  shall  not  be exercised in relation to -
+(13) The  functions  of  the  Attorney-General  under  subsection  (7)(c)  shall  not  be exercised in relation to —
 
 (a) an appeal by a person convicted in any proceedings; or
 
@@ -2612,7 +2830,7 @@ is part of those proceedings.
 
 #### 80 Commutation, etc., of sentences
 
-- The  Head  of  State,  acting  in  accordance  with  the  advice  of  the  Cabinet, may -
+(1) The  Head  of  State,  acting  in  accordance  with  the  advice  of  the  Cabinet, may —
 
 (a) grant to a person a pardon, either free or subject to lawful conditions, for an offence; or
 
@@ -2640,7 +2858,7 @@ CAP. 1.02  Section 81
 
 (ii) any penalty, fine or forfeiture otherwise due to the Government on account of an offence.
 
-- In  any  case  in  which  the  power  of  mercy  is  exercised  in  accordance  with subsection (1), the Prime Minister shall present to Parliament -
+(2) In  any  case  in  which  the  power  of  mercy  is  exercised  in  accordance  with subsection (1), the Prime Minister shall present to Parliament —
 
 (a) if  the power is exercised during a meeting of Parliament - during that meeting; or
 
@@ -2660,11 +2878,11 @@ A Parliament is established for Tuvalu.
 
 #### 82 Composition of Parliament
 
-- Subject to subsection (3), Parliament shall consist of such number of members as is fixed by or under an Act of Parliament and a Bill for an Act to amend the number of members so fixed shall not be passed by Parliament unless it  is supported at its Third Reading by the votes of not less than two-thirds of the members of Parliament.
+(1) Subject to subsection (3), Parliament shall consist of such number of members as is fixed by or under an Act of Parliament and a Bill for an Act to amend the number of members so fixed shall not be passed by Parliament unless it  is supported at its Third Reading by the votes of not less than two-thirds of the members of Parliament.
 
-- The  members  shall  be  directly  elected  in  accordance  with  this  Constitution and, subject to this Constitution, in accordance with an Act of Parliament.
+(2) The  members  shall  be  directly  elected  in  accordance  with  this  Constitution and, subject to this Constitution, in accordance with an Act of Parliament.
 
-- The number of members of Parliament shall not be less than twelve.
+(3) The number of members of Parliament shall not be less than twelve.
 
 2008 Revised Edition
 
@@ -2678,7 +2896,7 @@ Section 83  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- For  the  purpose  of  the  election  of  the  members  of  Parliament,  electoral districts shall be established, having -
+(4) For  the  purpose  of  the  election  of  the  members  of  Parliament,  electoral districts shall be established, having —
 
 (a) such boundaries; and
 
@@ -2686,13 +2904,13 @@ The Constitution of Tuvalu
 
 as are prescribed by or under an Act of Parliament.
 
-- Nothing  in  this  Constitution  prevents  an  Act  of  Parliament  from  making special  provision  for  the  representation  of  a  part  of  Tuvalu  with  special electoral problems, or related problems.
+(5) Nothing  in  this  Constitution  prevents  an  Act  of  Parliament  from  making special  provision  for  the  representation  of  a  part  of  Tuvalu  with  special electoral problems, or related problems.
 
 #### 83 Principles of electoral apportionment
 
-- This section does not affect the operation of section 82(5) (which relates to special electoral provisions for particular parts of Tuvalu).
+(1) This section does not affect the operation of section 82(5) (which relates to special electoral provisions for particular parts of Tuvalu).
 
-- Subject  to  subsection  (1),  a  Bill  for  an  Act  for  the  purposes  of  section  82 (composition  of  Parliament)  shall,  so  far  as  practicable,  be  based  on  the principle that each member of Parliament should represent approximately the same  number  of  electors,  but  in  the  circumstances  of  Tuvalu  account  must also be taken of -
+(2) Subject  to  subsection  (1),  a  Bill  for  an  Act  for  the  purposes  of  section  82 (composition  of  Parliament)  shall,  so  far  as  practicable,  be  based  on  the principle that each member of Parliament should represent approximately the same  number  of  electors,  but  in  the  circumstances  of  Tuvalu  account  must also be taken of —
 
 (a) geographical features; and
 
@@ -2752,25 +2970,27 @@ Acts of Parliament may provide -
 
 #### 86 Manner of exercise of the law-making power
 
-- The power of Parliament to make laws shall be exercised by means of Bills passed, in accordance  with  section 111  (procedure  on  Bills, etc.),  by Parliament and assented to by the Head of State.
+(1) The power of Parliament to make laws shall be exercised by means of Bills passed, in accordance  with  section 111  (procedure  on  Bills, etc.),  by Parliament and assented to by the Head of State.
 
-- When a Bill is  presented  to  the  Head  of  State  for  assent  the  Head  of  State shall promptly assent to it.
+(2) When a Bill is  presented  to  the  Head  of  State  for  assent  the  Head  of  State shall promptly assent to it.
 
-- A Bill that has been assented to is an Act of Parliament.
+(3) A Bill that has been assented to is an Act of Parliament.
 
 ### DIVISION 3 - MEMBERSHIP OF PARLIAMENT
 
+#### Subdivision A - Elections
+
 ##### 87 Nature of elections
 
-- Members of Parliament shall be elected under a system of universal, citizen, adult suffrage, in accordance with this Constitution and any law made for the purposes of section 89 (electoral laws).
+(1) Members of Parliament shall be elected under a system of universal, citizen, adult suffrage, in accordance with this Constitution and any law made for the purposes of section 89 (electoral laws).
 
-- All  contested  elections  of  members  of  Parliament  shall  be  held  by  secret ballot.
+(2) All  contested  elections  of  members  of  Parliament  shall  be  held  by  secret ballot.
 
-- The provisions of subsection (2) shall not be considered to be contravened by a law that makes reasonable provision for assistance in voting to be given, on request, to any person.
+(3) The provisions of subsection (2) shall not be considered to be contravened by a law that makes reasonable provision for assistance in voting to be given, on request, to any person.
 
 ##### 88 Holding of elections
 
-- There shall be a general election to be held after one month but not later than three months after every dissolution of Parliament. 5
+(1) There shall be a general election to be held after one month but not later than three months after every dissolution of Parliament. 5
 
 2008 Revised Edition
 
@@ -2784,7 +3004,7 @@ Section 89  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- There shall be a bye-election as soon as practicable after -
+(2) There shall be a bye-election as soon as practicable after —
 
 (a) the occurrence of any casual vacancy in the membership of Parliament; or
 
@@ -2792,33 +3012,33 @@ The Constitution of Tuvalu
 
 ##### 89 Electoral laws
 
-- Subject to this Constitution, an Act of Parliament may make provision for and in relation to Parliamentary elections.
+(1) Subject to this Constitution, an Act of Parliament may make provision for and in relation to Parliamentary elections.
 
-- An Act of Parliament shall make provision for safeguarding the integrity of Parliamentary  elections,  especially  in  circumstances  to  which  section  87(3) (special provisions for certain voters) applies.
+(2) An Act of Parliament shall make provision for safeguarding the integrity of Parliamentary  elections,  especially  in  circumstances  to  which  section  87(3) (special provisions for certain voters) applies.
 
 #### Subdivision B - Electors
 
 ##### 90 Right to vote
 
-- Subject  to  the  succeeding  provisions  of  this  section,  any  person  who  is registered under an Act of Parliament as an elector for Parliamentary elections in an electoral district is entitled to vote, in such manner as is prescribed, in an election of a member of Parliament for that district.
+(1) Subject  to  the  succeeding  provisions  of  this  section,  any  person  who  is registered under an Act of Parliament as an elector for Parliamentary elections in an electoral district is entitled to vote, in such manner as is prescribed, in an election of a member of Parliament for that district.
 
-- An Act of Parliament may prohibit a person from voting in an election if -
+(2) An Act of Parliament may prohibit a person from voting in an election if —
 
 (a) he is an electoral officer within the meaning of the Act; or
 
 (b) he  has  been  involved  in  the  commission  of  an  offence  in  connection with an election.
 
-- A person is not entitled to vote in an election if -
+(3) A person is not entitled to vote in an election if —
 
 (a) throughout the hours and on the date or dates fixed for the polling he is under arrest or in prison; or
 
 (b) except as prescribed, he is for any reason unable to attend in person at the place and time fixed for the polling.
 
-- A person is not entitled to vote in an election of a member of Parliament for an  electoral  district  if  he  is  not  registered  as  an  elector  for  Parliamentary elections in that district.
+(4) A person is not entitled to vote in an election of a member of Parliament for an  electoral  district  if  he  is  not  registered  as  an  elector  for  Parliamentary elections in that district.
 
 ##### 91 Qualifications for registration
 
-- Subject to section 92 (disqualification from registration), a person is entitled to be registered as an elector in Parliamentary elections if, and is not entitled to be registered as such an elector unless -
+(1) Subject to section 92 (disqualification from registration), a person is entitled to be registered as an elector in Parliamentary elections if, and is not entitled to be registered as such an elector unless —
 
 (a) he is a citizen of Tuvalu; and
 
@@ -2838,11 +3058,11 @@ CAP. 1.02  Section 92
 
 (c) he  satisfies  such  other  requirements  (whether  as  to  residence  or otherwise) as are prescribed.
 
-- A  person  is  not  entitled  to  be  registered  as  an  elector  in  Parliamentary elections in more than one electoral district at the same time.
+(2) A  person  is  not  entitled  to  be  registered  as  an  elector  in  Parliamentary elections in more than one electoral district at the same time.
 
 ##### 92 Disqualification from registration
 
-- A  person  is  not  entitled  to  be  registered  as  an  elector  in  Parliamentary elections if -
+(1) A  person  is  not  entitled  to  be  registered  as  an  elector  in  Parliamentary elections if —
 
 (a) subject to section 102 (calculation of sentences) and to subsection (2), he has been sentenced by a court in a Commonwealth country to death or to imprisonment (by whatever name called) for a term exceeding 12 months, and has not received a free pardon; or
 
@@ -2850,7 +3070,7 @@ CAP. 1.02  Section 92
 
 (c) he  is  disqualified,  under  an  Act  of  Parliament  relating  to  offences  in connection  with  elections,  from  being  registered  as  an  elector  in Parliamentary elections.
 
-- Subsection (1)(a) does not apply if -
+(2) Subsection (1)(a) does not apply if —
 
 (a) on appeal or review -
 
@@ -2864,13 +3084,13 @@ CAP. 1.02  Section 92
 
 ##### 93 Candidature
 
-- A candidate for election to Parliament must be -
+(1) A candidate for election to Parliament must be —
 
 (a) qualified for election as a member of Parliament; and
 
 (b) nominated in accordance with an Act of Parliament.
 
-- A member of Parliament is not qualified to be a candidate.
+(2) A member of Parliament is not qualified to be a candidate.
 
 2008 Revised Edition
 
@@ -2894,7 +3114,7 @@ Subject  to  section  95  (disqualification  from  election)  a  person  is  qua
 
 ##### 95 Disqualification from election
 
-- A person is not qualified to be elected as a member of Parliament if -
+(1) A person is not qualified to be elected as a member of Parliament if —
 
 (a) subject to section 102 (calculation of sentences) and to subsection (2), he has been sentenced by a court in a commonwealth country to death or to imprisonment (by whatever name called) for a term exceeding 12 months,  and  has  not  received  a  free  pardon,  or  is  serving  a  prison sentence; or
 
@@ -2912,7 +3132,7 @@ Subject  to  section  95  (disqualification  from  election)  a  person  is  qua
 
 (h) he is a member of the Public Service Commission.
 
-- Subsection (l)(a) does not apply if -
+(2) Subsection (1)(a) does not apply if —
 
 (a) on appeal or review -
 
@@ -2938,7 +3158,7 @@ CAP. 1.02  Section 96
 
 ##### 96 Tenure of office
 
-- The seat of a member of Parliament becomes vacant -
+(1) The seat of a member of Parliament becomes vacant —
 
 (a) on death; or
 
@@ -2962,9 +3182,9 @@ CAP. 1.02  Section 96
 
 (i) if he becomes the Head of State or a Judge of the High Court.
 
-- A resignation under subsection (1)(d) takes effect on the date on which it is received by the Speaker.
+(2) A resignation under subsection (1)(d) takes effect on the date on which it is received by the Speaker.
 
-- A resignation under subsection (1)(e) takes effect on the date on which it is -
+(3) A resignation under subsection (1)(e) takes effect on the date on which it is —
 
 (a) announced to Parliament; or
 
@@ -2974,7 +3194,7 @@ as the case may be.
 
 ##### 97 Disclosure of interest
 
-- An  Act  of  Parliament  or  the  Rules  of  Procedures  of  Parliament  may  make provision requiring a member of Parliament who has an interest in a matter under consideration in Parliament -
+(1) An  Act  of  Parliament  or  the  Rules  of  Procedures  of  Parliament  may  make provision requiring a member of Parliament who has an interest in a matter under consideration in Parliament —
 
 (a) to disclose his interest; and
 
@@ -2992,19 +3212,19 @@ Section 98  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- An Act of Parliament or the Rules of Procedure of Parliament may provide that  if  a  member  of  Parliament  contravenes  a  provision  referred  to  in subsection (1) his seat becomes vacant.
+(2) An Act of Parliament or the Rules of Procedure of Parliament may provide that  if  a  member  of  Parliament  contravenes  a  provision  referred  to  in subsection (1) his seat becomes vacant.
 
 ##### 98 Vacation of seat on sentence
 
-- Subject  to  section  102  (calculation  of  sentences)  and  to  the  succeeding provisions of this section, if a member of Parliament is sentenced by a court in a  Commonwealth  country  to  death  or  to  imprisonment  (by  whatever  name called) for a term exceeding 12 months -
+(1) Subject  to  section  102  (calculation  of  sentences)  and  to  the  succeeding provisions of this section, if a member of Parliament is sentenced by a court in a  Commonwealth  country  to  death  or  to  imprisonment  (by  whatever  name called) for a term exceeding 12 months —
 
 (a) he  shall  forthwith  cease  to  discharge  his  functions  as  a  member  of Parliament, and shall not attend Parliament as a member of Parliament; and
 
 (b) his seat becomes vacant at the end of 30 days after the date of sentence.
 
-- The Speaker may, at the request of the member, from time to time extend the period  of  30  days  referred  to  in  subsection  (1)(b)  to  enable  the  member  to pursue any appeal (judicial or other) in respect of his conviction or sentence, but extensions totalling more than 150 days shall not be granted without the consent of Parliament, signified by resolution.
+(2) The Speaker may, at the request of the member, from time to time extend the period  of  30  days  referred  to  in  subsection  (1)(b)  to  enable  the  member  to pursue any appeal (judicial or other) in respect of his conviction or sentence, but extensions totalling more than 150 days shall not be granted without the consent of Parliament, signified by resolution.
 
-- If before a member vacates his seat under this section -
+(3) If before a member vacates his seat under this section —
 
 (a) he receives a free pardon; or
 
@@ -3016,13 +3236,13 @@ The Constitution of Tuvalu
 
 his  seat  does  not  become  vacant,  and  he  may  again  discharge  his functions as a member.
 
-- A reference in this section to functions as a member of Parliament includes a reference to functions performed in any capacity arising out of membership of Parliament  (including  functions  as  Speaker  or  as  the  Prime  Minister  or another Minister).
+(4) A reference in this section to functions as a member of Parliament includes a reference to functions performed in any capacity arising out of membership of Parliament  (including  functions  as  Speaker  or  as  the  Prime  Minister  or another Minister).
 
 ##### 99 Recall of incapacitated member
 
-- If  more  than  50  percent  of  the  persons  who  are  registered  as  electors  for Parliamentary elections in an electoral district sign a petition to the Head of State stating that a member of Parliament for that district is unable to perform properly the functions of a member because of infirmity of body or mind, the succeeding provisions of this section apply.
+(1) If  more  than  50  percent  of  the  persons  who  are  registered  as  electors  for Parliamentary elections in an electoral district sign a petition to the Head of State stating that a member of Parliament for that district is unable to perform properly the functions of a member because of infirmity of body or mind, the succeeding provisions of this section apply.
 
-- If the Head of State, acting in his own deliberate judgment, is satisfied that -
+(2) If the Head of State, acting in his own deliberate judgment, is satisfied that —
 
 Page 64
 
@@ -3042,9 +3262,9 @@ CAP. 1.02  Section 100
 
 the  Head  of  State,  acting  in  accordance  with  the  advice  of  a  professional medical  body  outside  Tuvalu  approved  by  an  Act  of  Parliament  for  the purpose,  shall  appoint  two  or  more  medical  practitioners  who  are  legally qualified to practise medicine either in Tuvalu or elsewhere to investigate the question of the capacity of the member.
 
-- The persons appointed under subsection (2) shall investigate the question and make a joint professional report to the Head of State personally.
+(3) The persons appointed under subsection (2) shall investigate the question and make a joint professional report to the Head of State personally.
 
-- If after considering the report the Head of State, acting in his own deliberate judgment,  is  satisfied that it is desirable in the interests  of  the  good government  of  Tuvalu  to  do  so,  he  shall,  acting  in  his  own  deliberate judgment, by written notice to -
+(4) If after considering the report the Head of State, acting in his own deliberate judgment,  is  satisfied that it is desirable in the interests  of  the  good government  of  Tuvalu  to  do  so,  he  shall,  acting  in  his  own  deliberate judgment, by written notice to —
 
 (a) the Speaker; and
 
@@ -3056,7 +3276,7 @@ declare the seat of the member concerned to be vacant.
 
 ##### 100 Questions as to membership of Parliament
 
-- The  High  Court  has  jurisdiction  to  determine,  in  accordance  with  law,  any question whether -
+(1) The  High  Court  has  jurisdiction  to  determine,  in  accordance  with  law,  any question whether —
 
 (a) a candidate has been validly elected as a member of Parliament; or
 
@@ -3066,11 +3286,11 @@ declare the seat of the member concerned to be vacant.
 
 (d) the  seat  of  a  member  has  been  declared  vacant  in  accordance  with section 99 (recall of incapacitated member).
 
-- There is no appeal from a decision of the High Court in proceedings under subsection (1).
+(2) There is no appeal from a decision of the High Court in proceedings under subsection (1).
 
 ##### 101 Sitting, etc., while unqualified
 
-- A  person  who  sits  or  votes  in  Parliament  or  in  a  committee  of  Parliament knowing, or having reasonable grounds for believing, that he is not entitled to do  so  is  liable  to  a  civil  penalty  not  exceeding  $20.00  for  each  day  upon which he so sits or votes.
+(1) A  person  who  sits  or  votes  in  Parliament  or  in  a  committee  of  Parliament knowing, or having reasonable grounds for believing, that he is not entitled to do  so  is  liable  to  a  civil  penalty  not  exceeding  $20.00  for  each  day  upon which he so sits or votes.
 
 2008 Revised Edition
 
@@ -3084,11 +3304,11 @@ Section 102  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- A penalty under subsection (1) may be recovered only by civil action in the High Court by the Attorney-General.
+(2) A penalty under subsection (1) may be recovered only by civil action in the High Court by the Attorney-General.
 
 ##### 102 Calculation of sentences
 
-- This section applies to the calculation of the lengths of periods of imprisonment for the purposes of -
+(1) This section applies to the calculation of the lengths of periods of imprisonment for the purposes of —
 
 (a) section 92 (disqualification from registration); and
 
@@ -3096,13 +3316,13 @@ The Constitution of Tuvalu
 
 (c) section 98 (vacation of seat on sentence).
 
-- For the purposes of the provisions referred to in subsection (1) -
+(2) For the purposes of the provisions referred to in subsection (1) —
 
 (a) two  or  more  terms  of  imprisonment  that  are  required  to  be  served consecutively shall be regarded as a single term of the total period; and
 
 (b) no  account  shall  be  taken  of  a  sentence  of  imprisonment  imposed  in default of payment of a fine; and
 
-(c) 'review' includes an administrative or executive review of a sentence.
+(c) “review” includes an administrative or executive review of a sentence.
 
 ### DIVISION 4 - THE SPEAKER
 
@@ -3112,9 +3332,9 @@ An office of Speaker of Parliament is established.
 
 #### 104 Election of the Speaker
 
-- Subject  to  this  section,  the  Speaker  shall  be  elected  by  the  members  of Parliament from among their own number.
+(1) Subject  to  this  section,  the  Speaker  shall  be  elected  by  the  members  of Parliament from among their own number.
 
-- As soon as practicable after -
+(2) As soon as practicable after —
 
 (a) each general election; or
 
@@ -3122,7 +3342,7 @@ An office of Speaker of Parliament is established.
 
 but after any necessary election of a Prime Minister, the Head of State, acting in accordance with the advice of the Prime Minister, shall call a meeting of the  members of Parliament for the purpose of electing a Speaker, at a date, time  and  place  fixed  by  the  Head  of  State,  acting  in  accordance  with  the advice of the Prime Minister, by notice to each member.
 
-- The Clerk of Parliament shall preside at the meeting, and for that purpose has all  the  functions  of  the  Speaker  as  if  the  meeting  were  a  meeting  of Parliament.
+(3) The Clerk of Parliament shall preside at the meeting, and for that purpose has all  the  functions  of  the  Speaker  as  if  the  meeting  were  a  meeting  of Parliament.
 
 Page 66
 
@@ -3136,13 +3356,13 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 105
 
-- When a Speaker is elected, the Clerk of Parliament shall so inform the Head of State, and the Head of State shall appoint the person so elected to be the Speaker.
+(4) When a Speaker is elected, the Clerk of Parliament shall so inform the Head of State, and the Head of State shall appoint the person so elected to be the Speaker.
 
-- At  the  commencement  of  the  first  sitting  day  of  Parliament  after  the appointment  of  a  Speaker,  the  Clerk  of  Parliament  shall  announce  to  the members of Parliament present the appointment of the Speaker and the person appointed shall then take his place as Speaker.
+(5) At  the  commencement  of  the  first  sitting  day  of  Parliament  after  the appointment  of  a  Speaker,  the  Clerk  of  Parliament  shall  announce  to  the members of Parliament present the appointment of the Speaker and the person appointed shall then take his place as Speaker.
 
 #### 105 Tenure of office of the Speaker
 
-- The office of Speaker becomes vacant -
+(1) The office of Speaker becomes vacant —
 
 (a) on death; or
 
@@ -3162,7 +3382,7 @@ CAP. 1.02  Section 105
 
 (g) if  Parliament  so  resolves  by  resolution  supported  by  the  votes  of  two thirds of the total membership.
 
-- A resignation under subsection (1)(c) takes effect on the date on which it is -
+(2) A resignation under subsection (1)(c) takes effect on the date on which it is —
 
 (a) announced to Parliament; or
 
@@ -3170,9 +3390,9 @@ CAP. 1.02  Section 105
 
 #### 106 Functions of the Speaker
 
-- Subject to subsection (2), when he is present the Speaker shall preside at all sittings of Parliament and of committees of Parliament.
+(1) Subject to subsection (2), when he is present the Speaker shall preside at all sittings of Parliament and of committees of Parliament.
 
-- An Act of Parliament or the Rules of Procedure of Parliament may provide that subsection (1) does not apply -
+(2) An Act of Parliament or the Rules of Procedure of Parliament may provide that subsection (1) does not apply —
 
 (a) when Parliament is in a committee of the whole Parliament; or
 
@@ -3190,9 +3410,9 @@ Section 107  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- Subject to any Act of Parliament made for the purposes of subsection (6), the Speaker  is  responsible  for ensuring  that the business  of Parliament  is conducted  in  accordance  with  this  Constitution,  any  applicable  Act  of Parliament and the Rules of Procedure of Parliament.
+(3) Subject to any Act of Parliament made for the purposes of subsection (6), the Speaker  is  responsible  for ensuring  that the business  of Parliament  is conducted  in  accordance  with  this  Constitution,  any  applicable  Act  of Parliament and the Rules of Procedure of Parliament.
 
-- The Speaker shall do his best to ensure that -
+(4) The Speaker shall do his best to ensure that —
 
 (a) proceedings  in  Parliament  are  conducted  at  all  times  with  dignity, decorum and politeness; and
 
@@ -3200,25 +3420,25 @@ The Constitution of Tuvalu
 
 (c) Parliamentary  privilege  is  not  abused  by  the  making  of  unnecessary personal attacks on other members of Parliament or other persons, or in any other manner.
 
-- The Speaker has such other functions as are provided for by this Constitution, any Act of Parliament and the Rules of Procedure of Parliament.
+(5) The Speaker has such other functions as are provided for by this Constitution, any Act of Parliament and the Rules of Procedure of Parliament.
 
-- Subject to any Act of Parliament, the decision of the Speaker on any matter relating to the conduct of the business of Parliament is final.
+(6) Subject to any Act of Parliament, the decision of the Speaker on any matter relating to the conduct of the business of Parliament is final.
 
-- The Speaker shall perform his functions impartially, and has a duty to ensure that  in  the  conduct  of  the  business  of  Parliament  there  is  a  reasonable opportunity for all members present to be fairly heard.
+(7) The Speaker shall perform his functions impartially, and has a duty to ensure that  in  the  conduct  of  the  business  of  Parliament  there  is  a  reasonable opportunity for all members present to be fairly heard.
 
 #### 107 Acting Speaker
 
-- If the Speaker is absent from a sitting of Parliament or if there is a vacancy in the office of Speaker during a meeting, a member of Parliament (not being the Prime  Minister  or  another  Minister)  elected  by  the  members  shall,  until relieved by the Speaker, perform the functions of the Speaker.
+(1) If the Speaker is absent from a sitting of Parliament or if there is a vacancy in the office of Speaker during a meeting, a member of Parliament (not being the Prime  Minister  or  another  Minister)  elected  by  the  members  shall,  until relieved by the Speaker, perform the functions of the Speaker.
 
-- If at any time when Parliament is not sitting -
+(2) If at any time when Parliament is not sitting —
 
 (a) the Speaker is absent from Tuvalu or is for any other reason unable to perform his functions; and
 
 (b) no  member  has  been  elected  under  subsection  (1),  the  Clerk  of Parliament shall perform the parliamentary functions of the Speaker.
 
-- The Clerk of Parliament shall preside for the purposes of the election of an acting Speaker under subsection (1).
+(3) The Clerk of Parliament shall preside for the purposes of the election of an acting Speaker under subsection (1).
 
-- No  question  whether  the  need  for  the  election  of  a  person  to  perform  the functions  of  the  Speaker  in  accordance  with  this  section  has  arisen,  or  has ceased, shall be considered in any court.
+(4) No  question  whether  the  need  for  the  election  of  a  person  to  perform  the functions  of  the  Speaker  in  accordance  with  this  section  has  arisen,  or  has ceased, shall be considered in any court.
 
 Page 68
 
@@ -3236,15 +3456,15 @@ CAP. 1.02  Section 108
 
 #### 108 Rules of Procedure
 
-- Subject  to  this  Constitution  and  to  any  Act  of  Parliament,  Parliament  may make  rules  of  procedure  for  the  regulation  and  orderly  conduct  of  its proceedings and the discharge of business at sittings  of  Parliament,  and  for related purposes.
+(1) Subject  to  this  Constitution  and  to  any  Act  of  Parliament,  Parliament  may make  rules  of  procedure  for  the  regulation  and  orderly  conduct  of  its proceedings and the discharge of business at sittings  of  Parliament,  and  for related purposes.
 
-- The rules shall ensure that in the conduct of the business of Parliament there is a reasonable opportunity for all members to be fairly heard.
+(2) The rules shall ensure that in the conduct of the business of Parliament there is a reasonable opportunity for all members to be fairly heard.
 
 #### 109 Quorum of Parliament
 
-- Subject to subsection (3), the quorum for a meeting of Parliament is one more than one half of the total membership, ignoring any fraction which may arise in calculating one half of the total membership.
+(1) Subject to subsection (3), the quorum for a meeting of Parliament is one more than one half of the total membership, ignoring any fraction which may arise in calculating one half of the total membership.
 
-- If at any time -
+(2) If at any time —
 
 (a) the Speaker declares that a quorum in accordance with subsection (1) is not present; and
 
@@ -3252,13 +3472,13 @@ CAP. 1.02  Section 108
 
 the  Speaker  shall  adjourn  Parliament  until  a  time  and  date  that  he  thinks appropriate.
 
-- If at the time and date fixed by the Speaker under subsection (2) a quorum in accordance  with  subsection  (1)  is  not  present,  the  number  of  members  of Parliament actually present and qualified to take part in the proceedings is a quorum for the purposes of that day's sitting.
+(3) If at the time and date fixed by the Speaker under subsection (2) a quorum in accordance  with  subsection  (1)  is  not  present,  the  number  of  members  of Parliament actually present and qualified to take part in the proceedings is a quorum for the purposes of that day's sitting.
 
 #### 110 Voting in Parliament
 
-- Subject to this Constitution, all questions before Parliament shall be determined  in  accordance  with  a  majority  of  the  votes  of  the  members  of Parliament present and voting.
+(1) Subject to this Constitution, all questions before Parliament shall be determined  in  accordance  with  a  majority  of  the  votes  of  the  members  of Parliament present and voting.
 
-- Subject to subsection (3), the Speaker does not have an original vote, but -
+(2) Subject to subsection (3), the Speaker does not have an original vote, but —
 
 (a) has; and
 
@@ -3266,7 +3486,7 @@ the  Speaker  shall  adjourn  Parliament  until  a  time  and  date  that  he  t
 
 a casting vote.
 
-- The Speaker has an original vote, but not a casting vote -
+(3) The Speaker has an original vote, but not a casting vote —
 
 (a) on a motion of no confidence in the Government; and
 
@@ -3286,7 +3506,7 @@ The Constitution of Tuvalu
 
 #### 111 Procedure on Bills, etc
 
-- Subject  to  this  Constitution,  any  member  of  Parliament  may,  in  accordance with the Rules of Procedure of Parliament -
+(1) Subject  to  this  Constitution,  any  member  of  Parliament  may,  in  accordance with the Rules of Procedure of Parliament —
 
 (a) introduce a Bill in Parliament; or
 
@@ -3296,7 +3516,7 @@ The Constitution of Tuvalu
 
 and it shall be disposed of in accordance with this Constitution and the Rules.
 
-- Subject to section 2 (the area of Tuvalu), with the exception of -
+(2) Subject to section 2 (the area of Tuvalu), with the exception of —
 
 (a) Appropriation Bills; and
 
@@ -3308,9 +3528,9 @@ and it shall be disposed of in accordance with this Constitution and the Rules.
 
 Parliament shall not proceed upon a Bill after its first reading until the next session of Parliament, and after the first reading the Clerk of Parliament shall circulate the Bill to all local governments for consideration and comment.
 
-- Parliament  shall  consider  and  dispose  of  any  comments  received  under subsection (2).
+(3) Parliament  shall  consider  and  dispose  of  any  comments  received  under subsection (2).
 
-- Parliament shall not proceed -
+(4) Parliament shall not proceed —
 
 (a) further  than  the  first  reading  of  a  Bill  for  any  purpose  referred  to  in section 166(1) (which relates to Executive initiative); or
 
@@ -3320,11 +3540,11 @@ Parliament shall not proceed upon a Bill after its first reading until the next 
 
 #### 112 Oath and affirmation of members of Parliament
 
-- Subject  to  subsection  (3),  no  member  of  Parliament  may  take  part  in  the proceedings  of  Parliament  (other  than  formal  proceedings  and  proceedings necessary  for  the  purpose  of  this  section)  until  he  has,  before  Parliament, made an oath, or taken an affirmation, of allegiance in the form in Schedule 4.
+(1) Subject  to  subsection  (3),  no  member  of  Parliament  may  take  part  in  the proceedings  of  Parliament  (other  than  formal  proceedings  and  proceedings necessary  for  the  purpose  of  this  section)  until  he  has,  before  Parliament, made an oath, or taken an affirmation, of allegiance in the form in Schedule 4.
 
-- The swearing-in of a member of Parliament takes precedence over all other business  (other  than  formal  business  and  business  referred  to  in  subsection (3)) in Parliament.
+(2) The swearing-in of a member of Parliament takes precedence over all other business  (other  than  formal  business  and  business  referred  to  in  subsection (3)) in Parliament.
 
-- Subsection (1) does not apply in relation to -
+(3) Subsection (1) does not apply in relation to —
 
 Page 70
 
@@ -3352,27 +3572,27 @@ Subject to sections 109 (quorum of Parliament) and 110 (voting in Parliament) -
 
 #### 114 Privileges of Parliament
 
-- The purpose of this section is to allow, as is customary in Parliaments -
+(1) The purpose of this section is to allow, as is customary in Parliaments —
 
 (a) certain privileges and immunities to be conferred upon Parliament and members of Parliament; and
 
 (b) certain  powers  to  be  conferred  upon  Parliament,  in  order  to  facilitate the  proper  conduct  of  the  business  of  Parliament,  and  to  prevent improper interference with the conduct of that business.
 
-- Subject to subsections (4) and (5), Parliament may provide for -
+(2) Subject to subsections (4) and (5), Parliament may provide for —
 
 (a) privileges  and  immunities  of  Parliament  and  members  of  Parliament; and
 
 (b) powers of Parliament.
 
-- Any provision made by Parliament for the purposes of subsection (2) shall be interpreted and applied only in accordance with the purpose of this section as set out in subsection (1).
+(3) Any provision made by Parliament for the purposes of subsection (2) shall be interpreted and applied only in accordance with the purpose of this section as set out in subsection (1).
 
-- No  civil  or  criminal  proceedings  may  be  instituted  against  a  member  of Parliament -
+(4) No  civil  or  criminal  proceedings  may  be  instituted  against  a  member  of Parliament —
 
 (a) for  words  spoken  in,  or  included  in  a  report  to,  Parliament  or  a committee of Parliament; or
 
 (b) by  reason  of  any  matter  or  thing  brought  by  him  in  Parliament  or  a committee of Parliament.
 
-- No process issued by a court shall be served or issued within the precincts of Parliament  (as  defined  by  or  under  an  Act  of  Parliament  or  the  Rules  of Procedure of Parliament).
+(5) No process issued by a court shall be served or issued within the precincts of Parliament  (as  defined  by  or  under  an  Act  of  Parliament  or  the  Rules  of Procedure of Parliament).
 
 2008 Revised Edition
 
@@ -3394,13 +3614,13 @@ There shall be a Clerk of Parliament and such other officers as are necessary fo
 
 #### 116 Meetings of Parliament
 
-- Subject to this section, Parliament shall meet at such places in Tuvalu, and at such times, as the Head of State, acting in accordance with the advice of the Cabinet, appoints.
+(1) Subject to this section, Parliament shall meet at such places in Tuvalu, and at such times, as the Head of State, acting in accordance with the advice of the Cabinet, appoints.
 
-- Sessions  of  Parliament  shall  be  held  in  such  a  way  that  no  period  of  12 months intervenes between the end of one session and the beginning of the next.
+(2) Sessions  of  Parliament  shall  be  held  in  such  a  way  that  no  period  of  12 months intervenes between the end of one session and the beginning of the next.
 
-- A session  of  Parliament  shall  be  appointed  to  begin  as  soon  as  practicable after  the  declaration  of  the  results  of  a  general  election,  and  in  any  event within three months after the declaration.
+(3) A session  of  Parliament  shall  be  appointed  to  begin  as  soon  as  practicable after  the  declaration  of  the  results  of  a  general  election,  and  in  any  event within three months after the declaration.
 
-- In the event of a failure to comply with subsection (2) or (3), the Speaker shall call  a  meeting  of  Parliament,  unless  in  the  meantime  a  meeting  has  been called under subsection (1).
+(4) In the event of a failure to comply with subsection (2) or (3), the Speaker shall call  a  meeting  of  Parliament,  unless  in  the  meantime  a  meeting  has  been called under subsection (1).
 
 #### 117 Prorogation of Parliament
 
@@ -3414,11 +3634,11 @@ may at any time prorogue Parliament.
 
 #### 118 Dissolution of Parliament
 
-- Subject to this section, Parliament is automatically dissolved at the end of the period of four years after the date of its first sitting after a general election.
+(1) Subject to this section, Parliament is automatically dissolved at the end of the period of four years after the date of its first sitting after a general election.
 
-- The Head of State, acting in accordance with a resolution of Parliament may at any time dissolve Parliament.
+(2) The Head of State, acting in accordance with a resolution of Parliament may at any time dissolve Parliament.
 
-- If -
+(3) If —
 
 (a) the office of Prime Minister is vacant; and
 
@@ -3438,17 +3658,17 @@ CAP. 1.02  Section 119
 
 Head  of  State,  acting  in  his  own  deliberate  judgment,  may  dissolve Parliament.
 
-- Subject to subsection (5), Parliament remains dissolved until the declaration of the results of the following general election.
+(4) Subject to subsection (5), Parliament remains dissolved until the declaration of the results of the following general election.
 
-- Subject to subsection (6), if the Head of State certifies that there is an urgent matter  requiring  the  attention  of  Parliament  at  a  time  while  Parliament  is dissolved he may re-convene Parliament, and Parliament may meet and act as if it had not been dissolved.
+(5) Subject to subsection (6), if the Head of State certifies that there is an urgent matter  requiring  the  attention  of  Parliament  at  a  time  while  Parliament  is dissolved he may re-convene Parliament, and Parliament may meet and act as if it had not been dissolved.
 
-- The functions of the Head of State under subsection (5) shall be performed -
+(6) The functions of the Head of State under subsection (5) shall be performed —
 
 (a) in accordance with the advice of the Cabinet; and
 
 (b) subject to any such advice, in his own deliberate judgment.
 
-- A meeting of Parliament re-convened under subsection (5) shall consider only the matter certified under that subsection and matters that, in the opinion of the Speaker, arise out of it.
+(7) A meeting of Parliament re-convened under subsection (5) shall consider only the matter certified under that subsection and matters that, in the opinion of the Speaker, arise out of it.
 
 ## PART VII
 
@@ -3474,9 +3694,9 @@ The judicial system of Tuvalu consists of -
 
 ##### 120 Establishment of the High Court
 
-- A High Court of Tuvalu is established.
+(1) A High Court of Tuvalu is established.
 
-- The High Court is a superior court of record.
+(2) The High Court is a superior court of record.
 
 2008 Revised Edition
 
@@ -3496,9 +3716,9 @@ The High Court is constituted by the Chief Justice of Tuvalu and any other Judge
 
 ##### 122 The Chief Justice of Tuvalu
 
-- An office of Chief Justice of Tuvalu is established.
+(1) An office of Chief Justice of Tuvalu is established.
 
-- The  Chief  Justice  shall  be  appointed  by  the  Head  of  State,  acting  in accordance with the advice of the Cabinet, for such period as is specified in the instrument of his appointment.
+(2) The  Chief  Justice  shall  be  appointed  by  the  Head  of  State,  acting  in accordance with the advice of the Cabinet, for such period as is specified in the instrument of his appointment.
 
 ##### 123 Other Judges
 
@@ -3520,9 +3740,9 @@ A person is not qualified for appointment as a Judge of the High Court unless -
 
 ##### 125 Remuneration, etc., of Judges
 
-- The salaries  or  other  remuneration  and  the  allowances  of  the  Judges  of  the High  Court  are  as  provided  for  in  section  169  (remuneration  of  certain officials).
+(1) The salaries  or  other  remuneration  and  the  allowances  of  the  Judges  of  the High  Court  are  as  provided  for  in  section  169  (remuneration  of  certain officials).
 
-- Subject to this Constitution and to any Act of Parliament, the other conditions of employment of a Judge of the High Court are as agreed between the Judge and the Cabinet.
+(2) Subject to this Constitution and to any Act of Parliament, the other conditions of employment of a Judge of the High Court are as agreed between the Judge and the Cabinet.
 
 Page 74
 
@@ -3538,7 +3758,7 @@ CAP. 1.02  Section 126
 
 ##### 126 Tenure of office of Judges
 
-- A Judge of the High Court vacates his office -
+(1) A Judge of the High Court vacates his office —
 
 (a) on death; or
 
@@ -3548,25 +3768,25 @@ CAP. 1.02  Section 126
 
 (d) at the end of the period of his appointment; or
 
-(e) in  the  case  of  a  Judge  appointed  in  accordance  with  section  123(b) (which relates to the appointment of other Judges for certain matters) on the conclusion of the matters in relation to which he was appointed.
+(e) in  the  case  of  a  Judge  appointed  in  accordance  with  section  123(b) (which relates to the appointment of other Judges for certain matters) - on the conclusion of the matters in relation to which he was appointed.
 
-- A resignation under subsection (1)(c) becomes effective on the date on which it  is  received  by  the  Head  of  State,  or  on  such  later  date  as  is  fixed  by agreement between the Judge and the Cabinet.
+(2) A resignation under subsection (1)(c) becomes effective on the date on which it  is  received  by  the  Head  of  State,  or  on  such  later  date  as  is  fixed  by agreement between the Judge and the Cabinet.
 
 ##### 127 Removal of Judges from office
 
-- A Judge of the High Court may be removed from office only -
+(1) A Judge of the High Court may be removed from office only —
 
 (a) for  inability  to  perform  properly  the  functions  of  his  office  (whether arising from infirmity of body or mind, or from some other cause) or for misbehaviour; and
 
 (b) in accordance with this section.
 
-- A Judge of the High Court may be removed from office by Parliament, by resolution, if -
+(2) A Judge of the High Court may be removed from office by Parliament, by resolution, if —
 
 (a) the question of his removal from office has been referred to a tribunal appointed under subsection (3); and
 
 (b) the tribunal has advised Parliament that he ought to be removed from office for a reason set out in subsection (1)(a).
 
-- If the Cabinet decides, or Parliament resolves, that the question of removing a Judge  from  office  should  be  investigated,  the  Head  of  State,  acting  after consultation with -
+(3) If the Cabinet decides, or Parliament resolves, that the question of removing a Judge  from  office  should  be  investigated,  the  Head  of  State,  acting  after consultation with —
 
 (a) the Prime Minister; and
 
@@ -3574,7 +3794,7 @@ CAP. 1.02  Section 126
 
 shall appoint an independent tribunal consisting of a chairman and at least one other member, each of whom is qualified for appointment as a Judge of the High Court, to investigate the question.
 
-- The tribunal shall investigate the question and report on it to Parliament, with its advice whether or not the Judge should be removed from office.
+(4) The tribunal shall investigate the question and report on it to Parliament, with its advice whether or not the Judge should be removed from office.
 
 2008 Revised Edition
 
@@ -3588,19 +3808,19 @@ Section 128  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- The  provisions of Schedule 3 (procedure, etc., of the Public Service Commission and certain Tribunals) apply to and in respect of the tribunal.
+(5) The provisions of Schedule 3 (procedure, etc., of the Public Service Commission and certain Tribunals) apply to and in respect of the tribunal.
 
 ##### 128 Suspension of Judges
 
-- If the question of removing a Judge of the High Court from office has been referred to a tribunal under section 127 (removal of Judges from office) the Head  of  State,  acting  in  accordance  with  the  advice  of  the  Cabinet  may suspend the Judge from office.
+(1) If the question of removing a Judge of the High Court from office has been referred to a tribunal under section 127 (removal of Judges from office) the Head  of  State,  acting  in  accordance  with  the  advice  of  the  Cabinet  may suspend the Judge from office.
 
-- A suspension under subsection (1) -
+(2) A suspension under subsection (1) -
 
 (a) may be lifted  at  any  time  by  the  Head  of  State,  acting  in  accordance with the advice of the Cabinet; and
 
 (b) ceases to have effect if the tribunal advises Parliament that the Judge should not be removed from office.
 
-- A suspension under this section takes effect without loss of remuneration or other entitlements.
+(3) A suspension under this section takes effect without loss of remuneration or other entitlements.
 
 ##### 129 Completion of pending matters
 
@@ -3610,7 +3830,7 @@ Even  when  he  vacates  his  office  (otherwise  than  by  removal  from  offic
 
 ##### 130 Jurisdiction of the High Court generally
 
-- The High Court has jurisdiction -
+(1) The High Court has jurisdiction -
 
 (a) in relation to Part II (Bill of Rights) of this Constitution - as provided by Division 5 (Enforcement of the Bill of Rights) of that Part; and
 
@@ -3634,13 +3854,13 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 131
 
-- Subject to any Act of Parliament providing for the jurisdiction of two or more members of the High Court sitting together, the jurisdiction of the High Court may be exercised by the Chief Justice or a single Judge.
+(2) Subject to any Act of Parliament providing for the jurisdiction of two or more members of the High Court sitting together, the jurisdiction of the High Court may be exercised by the Chief Justice or a single Judge.
 
 ##### 131 Constitutional interpretation
 
-- Subject to subsection (2), the High  Court  has original jurisdiction to determine any question as to the interpretation or application of this Constitution.
+(1) Subject to subsection (2), the High  Court  has original jurisdiction to determine any question as to the interpretation or application of this Constitution.
 
-- Where -
+(2) Where -
 
 (a) any question as to the interpretation or application of this Constitution arises in any proceedings in a subordinate court; and
 
@@ -3660,11 +3880,11 @@ The High Court has such other jurisdiction, power and authority as are conferred
 
 #### 134 Establishment of the Court of Appeal
 
-- A Court of Appeal for Tuvalu is established.
+(1) A Court of Appeal for Tuvalu is established.
 
-- The  Court  of  Appeal  shall  be  constituted  as  provided  for  by  an  Act  of Parliament.
+(2) The  Court  of  Appeal  shall  be  constituted  as  provided  for  by  an  Act  of Parliament.
 
-- Parliament shall not proceed upon a Bill for an Act referred to in subsection (2) after its first  reading in Parliament unless the Speaker has obtained, and has presented to Parliament, a report from the Chief Justice on the proposal.
+(3) Parliament shall not proceed upon a Bill for an Act referred to in subsection (2) after its first  reading in Parliament unless the Speaker has obtained, and has presented to Parliament, a report from the Chief Justice on the proposal.
 
 2008 Revised Edition
 
@@ -3680,7 +3900,7 @@ The Constitution of Tuvalu
 
 #### 135 Jurisdiction of the Court of Appeal
 
-- Subject to -
+(1) Subject to -
 
 (a) section  41(2)  (which  relates  to  frivolous  or  vexatious  appeals  against determinations as to contraventions of the Bill of Rights); and
 
@@ -3690,13 +3910,13 @@ The Constitution of Tuvalu
 
 the Court of Appeal has jurisdiction to determine appeals from decisions of the  High  Court,  whether  in  the  exercise  of  original  jurisdiction  or  in  the exercise of appellate jurisdiction.
 
-- No  Act  of  Parliament  made  for  the  purposes  of  subsection  (1)  affects  the rights  of  appeal  provided  for  by  Division  5  (Enforcement  of  the  Bill  of Rights) of Part II.
+(2) No  Act  of  Parliament  made  for  the  purposes  of  subsection  (1)  affects  the rights  of  appeal  provided  for  by  Division  5  (Enforcement  of  the  Bill  of Rights) of Part II.
 
 ### DIVISION 4 - THE SOVEREIGN IN COUNCIL
 
 #### 136 Jurisdiction of the Sovereign in Council
 
-- An  appeal  may  be  made  from  a  decision  of  the  Court  of  Appeal  to  the Sovereign in Council -
+(1) An  appeal  may  be  made  from  a  decision  of  the  Court  of  Appeal  to  the Sovereign in Council -
 
 (a) with the leave of the Court of Appeal -
 
@@ -3714,7 +3934,7 @@ in any proceedings, where in the opinion of the Court of Appeal the question inv
 
 (b) in  such  other  cases  and  on  such  conditions  as  are  provided  for  by  or under an Act of Parliament.
 
-- In  subsection  (l)(a)(iii)(B),  'interlocutory  decision'  refers  to  a  decision which -
+(2) In  subsection  (1)(a)(iii)(B),  'interlocutory  decision'  refers  to  a  decision which -
 
 (a) is made during or for the purposes of some legal proceedings; and
 
@@ -3754,19 +3974,17 @@ In this Part -
 
 (d) disciplinary action; and
 
-(e)
-
-- suspension; and
+(e) suspension; and
 
 (f) cessation or termination of employment (except cessation or termination at the end of the person's regular period of employment as determined according to law).
 
 #### 138 Application of Part VIII
 
-- This Part does not apply to or in relation to -
+(1) This Part does not apply to or in relation to -
 
 (a) consultants, advisers or agents (without executive authority or power of direction of members of a State Service) who are -
 
-(i) employed on an honorary basis: or
+(i) employed on an honorary basis; or
 
 (ii) remunerated  by  fees  or  commission  only,  with  or  without travelling  or  subsistence  allowances,  expense  allowances  or similar allowances; or
 
@@ -3790,7 +4008,7 @@ Section 139  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- Nothing in this Part prevents the creation of -
+(2) Nothing in this Part prevents the creation of -
 
 (a) statutory offices; or
 
@@ -3802,13 +4020,13 @@ or  the  determination,  in  accordance  with  law,  of  conditions  of  employm
 
 #### 139 The State Services
 
-- Subject  to  this  Part,  Acts  of  Parliament  shall  make  provision  for  and  in relation to -
+(1) Subject  to  this  Part,  Acts  of  Parliament  shall  make  provision  for  and  in relation to -
 
 (a) a Public Service; and
 
 (b) the Tuvalu Police.
 
-- Subject  to  this  Part,  Acts  of  Parliament  may  make  provision  for  and  in relation to -
+(2) Subject  to  this  Part,  Acts  of  Parliament  may  make  provision  for  and  in relation to -
 
 (a) a Prison Service; and
 
@@ -3826,9 +4044,9 @@ Subject to any Act of Parliament, the Cabinet may -
 
 #### 141 Appointments subject to approval, etc.
 
-- Except as provided in this Constitution, this section does not apply to or in relation to any office or position established by this Constitution.
+(1) Except as provided in this Constitution, this section does not apply to or in relation to any office or position established by this Constitution.
 
-- Nothing  in  this  Part  prevents  an  appointment  to,  or  other  service  action  in relation to, an office or position in a State Service from being made subject to -
+(2) Nothing  in  this  Part  prevents  an  appointment  to,  or  other  service  action  in relation to, an office or position in a State Service from being made subject to -
 
 (a) approval by Parliament, or by any other person or authority; or
 
@@ -3848,7 +4066,7 @@ CAP. 1.02  Section 142
 
 #### 142 Localization
 
-- In this section -
+(1) In this section -
 
 ' localization ' means preference in public employment (either generally or in respect of an office or position, or a class of offices or positions) for -
 
@@ -3860,15 +4078,15 @@ CAP. 1.02  Section 142
 
 including the replacement of the holders of offices or positions who do not have the qualifications required by the policy.
 
-- A localization policy or programme may be laid down -
+(2) A localization policy or programme may be laid down -
 
 (a) by or under an Act of Parliament; or
 
 (b) by decision of the Cabinet, approved by Parliament by resolution.
 
-- Nothing in a policy or programme laid down in accordance with subsection (2)(b) affects any right to termination or retirement benefits, or to compensation, otherwise possessed by any person affected by it.
+(3) Nothing in a policy or programme laid down in accordance with subsection (2)(b) affects any right to termination or retirement benefits, or to compensation, otherwise possessed by any person affected by it.
 
-- Nothing  in this Part, including Division 5 (Removal,  etc., of Certain Officials),  or  in  Part  II  (Bill  of  Rights)  prevents  the  implementation  of  any localization policy or programme laid down under this section.
+(4) Nothing  in this Part, including Division 5 (Removal,  etc., of Certain Officials),  or  in  Part  II  (Bill  of  Rights)  prevents  the  implementation  of  any localization policy or programme laid down under this section.
 
 ### DIVISION 2. - THE PUBLIC SERVICE COMMISSION
 
@@ -3882,9 +4100,9 @@ The  Public  Service  Commission  shall  consist  of  a  Chairman  and  three  o
 
 #### 145 Appointment of members of the Commission
 
-- The  members  of  the  Public  Service  Commission  shall  be  appointed  by  the Head of State, acting in accordance with the advice of the Cabinet.
+(1) The  members  of  the  Public  Service  Commission  shall  be  appointed  by  the Head of State, acting in accordance with the advice of the Cabinet.
 
-- A person is  not  qualified  for  appointment  as  a  member  of  the  Commission if -
+(2) A person is  not  qualified  for  appointment  as  a  member  of  the  Commission if -
 
 (a) he is a member of Parliament; or
 
@@ -3912,13 +4130,13 @@ The Constitution of Tuvalu
 
 #### 146 Remuneration, etc., of members of the Commission
 
-- The salary or other remuneration of the Chairman and the other members of the Public Service Commission are as provided for in section 169 (remuneration of certain officials).
+(1) The salary or other remuneration of the Chairman and the other members of the Public Service Commission are as provided for in section 169 (remuneration of certain officials).
 
-- The other conditions of employment of a member of the Commission are as prescribed by or under an Act of Parliament.
+(2) The other conditions of employment of a member of the Commission are as prescribed by or under an Act of Parliament.
 
 #### 147 Tenure of office of members of the Commission
 
-- A member of the Public Service Commission vacates his office or position -
+(1) A member of the Public Service Commission vacates his office or position -
 
 (a) if he is removed from office under Division 5 (Removal etc., of certain officials); or
 
@@ -3928,13 +4146,13 @@ The Constitution of Tuvalu
 
 (d) at the end of the period of four years after the date of his appointment.
 
-- A resignation under subsection (1)(b) takes effect on the date on which it is received by the Head of State, or on such later date as is fixed by agreement between the member and the Minister responsible for Public Service matters.
+(2) A resignation under subsection (1)(b) takes effect on the date on which it is received by the Head of State, or on such later date as is fixed by agreement between the member and the Minister responsible for Public Service matters.
 
 #### 148 Exclusion of members of the Commission from certain employment 7
 
-- This section does not apply to a person who has been acting temporarily in the office of a member of the Public Service Commission only for a period of less than six consecutive months.
+(1) This section does not apply to a person who has been acting temporarily in the office of a member of the Public Service Commission only for a period of less than six consecutive months.
 
-- Nothing  in  this  section  prevents  other  or  additional  disqualifications  being imposed by or under an Act of Parliament on -
+(2) Nothing  in  this  section  prevents  other  or  additional  disqualifications  being imposed by or under an Act of Parliament on -
 
 (a) a member or former member of the Public Service Commission, or
 
@@ -3942,7 +4160,7 @@ The Constitution of Tuvalu
 
 because of his membership or former membership of the Commission.
 
-- A member of the Public Service Commission is not eligible for appointment to  any  office  or  position  referred  to  in  section  145(2)(c)  (which  relates  to
+(3) A member of the Public Service Commission is not eligible for appointment to  any  office  or  position  referred  to  in  section  145(2)(c)  (which  relates  to
 
 Page 82
 
@@ -3962,7 +4180,7 @@ certain  offices  and  positions  the  holders  of  which  are  disqualified  fr
 
 #### 149 Functions of the Commission
 
-- Subject to this Constitution and in particular to section 150 (independence of the Commission), and to any Act of Parliament, the Public Service Commission is responsible for -
+(1) Subject to this Constitution and in particular to section 150 (independence of the Commission), and to any Act of Parliament, the Public Service Commission is responsible for -
 
 (a) the efficient management and control of the Public Service in relation to matters referred to in paragraphs (a)-(f) of the definition 'personnel matters' in section 137 (interpretation of Part VIII); and
 
@@ -3972,7 +4190,7 @@ certain  offices  and  positions  the  holders  of  which  are  disqualified  fr
 
 and has such other functions as are prescribed.
 
-- Subject to section 150 (independence of the Commission), the Public Service Commission -
+(2) Subject to section 150 (independence of the Commission), the Public Service Commission -
 
 (a) may at any time; and
 
@@ -3982,15 +4200,15 @@ inform  or  advise  the  Cabinet  as  to  any  matter  within  the  functions  o
 
 #### 150 Independence of the Commission
 
-- Subject to section 15 (independence) of Schedule 1, in personnel matters the Public  Service  Commission  shall  comply  with  any  general  directions  as  to policy  given  by  the  Cabinet,  but  otherwise  is  not  subject  to  direction  or control by any other person or authority.
+(1) Subject to section 15 (independence) of Schedule 1, in personnel matters the Public  Service  Commission  shall  comply  with  any  general  directions  as  to policy  given  by  the  Cabinet,  but  otherwise  is  not  subject  to  direction  or control by any other person or authority.
 
-- A policy direction given under subsection (1) -
+(2) A policy direction given under subsection (1) -
 
 (a) shall  be  published  in  any  manner  prescribed  for  the  publication  of subordinate legislation; and
 
 (b) shall immediately be forwarded by the Minister responsible for Public Service matters to the Speaker, for presentation to Parliament.
 
-- Except  in  relation  to  personnel  matters,  the  Public  Service  Commission  is responsible to the Cabinet for the performance of its functions.
+(3) Except  in  relation  to  personnel  matters,  the  Public  Service  Commission  is responsible to the Cabinet for the performance of its functions.
 
 2008 Revised Edition
 
@@ -4006,7 +4224,7 @@ The Constitution of Tuvalu
 
 #### 151 Appeals within State Services
 
-- The  independence  conferred  on  the  Public  Service  Commission  by  section 150 (independence of the Commission) is not affected by any provision of an Act  of  Parliament  providing  for  an  appeal,  to  an  independent  tribunal  or authority established by an Act of Parliament, from -
+(1) The  independence  conferred  on  the  Public  Service  Commission  by  section 150 (independence of the Commission) is not affected by any provision of an Act  of  Parliament  providing  for  an  appeal,  to  an  independent  tribunal  or authority established by an Act of Parliament, from -
 
 (a) a decision of the Commission; or
 
@@ -4014,7 +4232,7 @@ The Constitution of Tuvalu
 
 (c) any  advice  proposed  to  be  given  by  the  Commission  to  the  Head  of State
 
-- The  provisions  of  section  150  (independence  of  the  Commission)  and  of subsection (1) apply to and in relation to any tribunal or authority that may be established  under  subsection  (1)  in  the  same  way  as  they  apply  to  and  in relation to the Public Service Commission.
+(2) The  provisions  of  section  150  (independence  of  the  Commission)  and  of subsection (1) apply to and in relation to any tribunal or authority that may be established  under  subsection  (1)  in  the  same  way  as  they  apply  to  and  in relation to the Public Service Commission.
 
 #### 152 Procedures, etc., of the Commission
 
@@ -4022,17 +4240,17 @@ Subject to any Act of Parliament, the provisions of Schedule 3 (Procedures etc.,
 
 #### 153 Delegation by the Commission
 
-- With the approval of the Minister responsible for Public Service matters, the Public Service Commission may, in writing, delegate to any person any of its functions.
+(1) With the approval of the Minister responsible for Public Service matters, the Public Service Commission may, in writing, delegate to any person any of its functions.
 
-- A delegation under subsection (1) -
+(2) A delegation under subsection (1) -
 
 (a) may apply generally, or in respect of any part of Tuvalu or of any place specified in the instrument of delegation; and
 
 (b) may be made subject to such conditions, limitations and restrictions as are so specified.
 
-- A  delegation  under  this  section  is  revocable,  in  writing,  at  will,  and  no delegation prevents the performance of a function by the Commission.
+(3) A  delegation  under  this  section  is  revocable,  in  writing,  at  will,  and  no delegation prevents the performance of a function by the Commission.
 
-- If a delegation under this section relates to personnel matters, in performing the  delegated  function  the  delegate  is  subject  to  the  same  freedom  from direction  or  control  as  the  Commission,  and  the  provisions  of  sections  150 (independence  of  the  Commission)  and  151,  (appeals  with  State  Services) with the necessary modifications, apply accordingly.
+(4) If a delegation under this section relates to personnel matters, in performing the  delegated  function  the  delegate  is  subject  to  the  same  freedom  from direction  or  control  as  the  Commission,  and  the  provisions  of  sections  150 (independence  of  the  Commission)  and  151,  (appeals  with  State  Services) with the necessary modifications, apply accordingly.
 
 Page 84
 
@@ -4050,9 +4268,9 @@ CAP. 1.02  Section 154
 
 #### 154 Application of Division 4
 
-- This Division applies to and in relation to any Act of Parliament made for the purposes of section 139 (the State Services) establishing a State Service, and to any regulations or other subsidiary legislation made under such an Act.
+(1) This Division applies to and in relation to any Act of Parliament made for the purposes of section 139 (the State Services) establishing a State Service, and to any regulations or other subsidiary legislation made under such an Act.
 
-- The provisions of this Division shall be read subject to this Constitution and in particular to -
+(2) The provisions of this Division shall be read subject to this Constitution and in particular to -
 
 (a) section 142 (Localization); and
 
@@ -4064,19 +4282,19 @@ Authority  in  relation  to  personnel  matters  in  respect  of  members  of  t
 
 #### 156 Magistrates
 
-- The  provisions  of  this section apply  in relation to a magistrate of a subordinate  court  irrespective  of  whether  he  is  a  member  of  the  Public Service.
+(1) The  provisions  of  this section apply  in relation to a magistrate of a subordinate  court  irrespective  of  whether  he  is  a  member  of  the  Public Service.
 
-- Authority  in  relation  to  personnel  matters  in  respect  of  magistrates  of subordinate courts in their capacity as magistrates shall be vested in the Head of State, acting in accordance  with the advice of the Public Service Commission, subject to the approval, either general or specific, of the Chief Justice or a person authorized by him for the purpose.
+(2) Authority  in  relation  to  personnel  matters  in  respect  of  magistrates  of subordinate courts in their capacity as magistrates shall be vested in the Head of State, acting in accordance  with the advice of the Public Service Commission, subject to the approval, either general or specific, of the Chief Justice or a person authorized by him for the purpose.
 
 #### 157 The Police Force 8
 
-- An office of Commissioner of Police is established as an office in the Tuvalu Police.
+(1) An office of Commissioner of Police is established as an office in the Tuvalu Police.
 
-- The  Commissioner  of  Police  shall  be  appointed  in  accordance  with  section 159(5)(a) (which relates to the appointment of the Commissioner of Police).
+(2) The  Commissioner  of  Police  shall  be  appointed  in  accordance  with  section 159(5)(a) (which relates to the appointment of the Commissioner of Police).
 
-- Excluding the Commissioner of Police, members of the Tuvalu Police of or above the rank of Inspector (or the equivalent rank as defined by or under an Act of  Parliament)  may  be  appointed,  removed  and  disciplined  in  the  same manner, with any necessary modifications, as members of the Public Service under section 155 (the Public Service).
+(3) Excluding the Commissioner of Police, members of the Tuvalu Police of or above the rank of Inspector (or the equivalent rank as defined by or under an Act of  Parliament)  may  be  appointed,  removed  and  disciplined  in  the  same manner, with any necessary modifications, as members of the Public Service under section 155 (the Public Service).
 
-- Other  members  of  the  Tuvalu  Police  may  be  appointed,  removed  and disciplined  by  the  Commissioner  of  Police,  subject  to  appeal  to  the  Public Service Commission in the case of removal or disciplinary action.
+(4) Other  members  of  the  Tuvalu  Police  may  be  appointed,  removed  and disciplined  by  the  Commissioner  of  Police,  subject  to  appeal  to  the  Public Service Commission in the case of removal or disciplinary action.
 
 2008 Revised Edition
 
@@ -4092,7 +4310,7 @@ The Constitution of Tuvalu
 
 #### 158 Secretaries to Ministries
 
-- In this section -
+(1) In this section -
 
 (a) 'Secretary' means the Secretary or other head of a Ministry or office of Government  (being  a  member  of  the  Public  Service)  who  is  directly responsible  to  a  Minister,  but  does  not  include  the  Secretary  to Government; and
 
@@ -4102,35 +4320,35 @@ The Constitution of Tuvalu
 
 (ii) his  promotion  or  transfer  from  some  other  office  outside  a common cadre.
 
-- Secretaries -
+(2) Secretaries -
 
 (a) shall be appointed only with the concurrence of the Cabinet; and
 
 (b) form  a  common  cadre  or  (as  prescribed  by  or  under  an  Act  of Parliament)  common  cadres,  to  which  may  be  added  other  senior members (as so prescribed) of the Public Service.
 
-- The Cabinet may at any time request the Public Service Commission to advise the Head of State to appoint a particular person to be a Secretary.
+(3) The Cabinet may at any time request the Public Service Commission to advise the Head of State to appoint a particular person to be a Secretary.
 
-- If  the  Cabinet  makes  a  request  under  subsection  (3),  the  Public  Service Commission shall consider the request and advise of its decision.
+(4) If  the  Cabinet  makes  a  request  under  subsection  (3),  the  Public  Service Commission shall consider the request and advise of its decision.
 
-- No Secretary  shall  be  appointed  from  outside  the  State  Services  unless  the Public  Service  Commission  determines  that  the  appointee  has  clearly  more merit than a serving member of the State Services.
+(5) No Secretary  shall  be  appointed  from  outside  the  State  Services  unless  the Public  Service  Commission  determines  that  the  appointee  has  clearly  more merit than a serving member of the State Services.
 
 #### 159 Special cases of appointments
 
-- This section shall be read subject to section 142 (localization).
+(1) This section shall be read subject to section 142 (localization).
 
-- The Auditor-General -
+(2) The Auditor-General -
 
 (a) shall be appointed by the Head of State, acting in accordance with the advice  of  the  Public  Service  Commission,  and  with  the  approval  of Parliament signified by resolution; and
 
 (b) may be suspended or removed from office in accordance with Division 5 (Removal, etc., of Certain Officials).
 
-- The Secretary to Government -
+(3) The Secretary to Government -
 
 (a) shall be appointed by the Head of State, acting in accordance with the advice of the Public Service Commission given after consultation with the Cabinet; and
 
 (b) may be suspended or removed from office in accordance with Division 5 (Removal, etc., of Certain Officials).
 
-- The Attorney-General -
+(4) The Attorney-General -
 
 Page 86
 
@@ -4148,13 +4366,13 @@ CAP. 1.02  Section 160
 
 (b) may be suspended or removed from office in accordance with Division 5 (Removal, etc., of Certain Officials).
 
-- The Commissioner of Police -
+(5) The Commissioner of Police -
 
 (a) shall be appointed by the Head of State, acting in accordance with the advice of the Public Service Commission given after consultation with the Cabinet; and
 
 (b) may be suspended or removed from office in accordance with Division 5 (Removal, etc., of Certain Officials). 9
 
-- The  functions  of  the  Head  of  State  under  this  Division  in  relation  to  the personal staff of the Governor-General who are members of a State Service shall  be  exercised  by  the  Governor-General  acting  in  his  own  deliberate judgment.
+(6) The  functions  of  the  Head  of  State  under  this  Division  in  relation  to  the personal staff of the Governor-General who are members of a State Service shall  be  exercised  by  the  Governor-General  acting  in  his  own  deliberate judgment.
 
 ### DIVISION 5. - REMOVAL, ETC., OF CERTAIN OFFICIALS
 
@@ -4176,7 +4394,7 @@ In this Division -
 
 #### 161 Application of Division 5
 
-- This Division applies to the offices of -
+(1) This Division applies to the offices of -
 
 (a) Secretary to Government; and
 
@@ -4202,29 +4420,29 @@ The Constitution of Tuvalu
 
 and any other office or position to which this Division is applied by an Act of Parliament. 11
 
-- The  provisions of this Division shall be read subject to section  142 (localization).
+(2) The  provisions of this Division shall be read subject to section  142 (localization).
 
 #### 162 Removal of prescribed officials from office
 
-- Subject  to  section  164  (contract  employment),  the  holder  of  an  office  or position to which this Division applies may be removed from office only -
+(1) Subject  to  section  164  (contract  employment),  the  holder  of  an  office  or position to which this Division applies may be removed from office only -
 
 (a) for inability to perform properly the functions of his office or position (whether arising from infirmity of body or mind, or from some other cause), or for misbehaviour; and
 
 (b) in accordance with this section.
 
-- The  holder  of  an  office  or  position  to  which  this  Division  applies  may  be removed from office by the appropriate authority if -
+(2) The  holder  of  an  office  or  position  to  which  this  Division  applies  may  be removed from office by the appropriate authority if -
 
 (a) the question of his removal from office has been referred to a tribunal appointed under subsection (3); and
 
 (b) the  tribunal  has  advised  the  appropriate  authority  that  he  ought  to  be removed from office for a reason set out in subsection (1)(a).
 
-- If  the  Cabinet  or  the  appropriate  authority  decides  that  the  question  of removing from office the holder of an office or position to which this Division applies  should  be  investigated  under  this  section,  the  Head  of  State,  acting after  consultation  with  the  Prime  Minister,  shall  appoint  an  independent tribunal consisting of -
+(3) If  the  Cabinet  or  the  appropriate  authority  decides  that  the  question  of removing from office the holder of an office or position to which this Division applies  should  be  investigated  under  this  section,  the  Head  of  State,  acting after  consultation  with  the  Prime  Minister,  shall  appoint  an  independent tribunal consisting of -
 
 (a) a  chairman  who  is  qualified  for  appointment  as  a  Judge  of  the  High Court; and
 
 (b) not  less  than  one  other  member,  with  qualifications  or  experience relevant to the particular matter.
 
-- A person is not qualified to be appointed under subsection (3)(b) if he -
+(4) A person is not qualified to be appointed under subsection (3)(b) if he -
 
 (a) is the Governor-General; or
 
@@ -4248,21 +4466,21 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 163
 
-- The tribunal shall investigate the question and report on it to the appropriate authority,  with  its  advice  whether  the  person  concerned  should  be  removed from office.
+(5) The tribunal shall investigate the question and report on it to the appropriate authority,  with  its  advice  whether  the  person  concerned  should  be  removed from office.
 
-- The  provisions of Schedule 3 (procedure, etc., of the Public Service Commission and Certain Tribunals) apply to and in respect of the tribunal.
+(6) The  provisions of Schedule 3 (procedure, etc., of the Public Service Commission and Certain Tribunals) apply to and in respect of the tribunal.
 
 #### 163 Suspension of prescribed officials
 
-- If  the  question  of  removing  a  person  from  office  has  been  referred  to  a tribunal  under  section  162  (removal  of  prescribed  officials  from  office),  the appropriate authority may suspend him from office.
+(1) If  the  question  of  removing  a  person  from  office  has  been  referred  to  a tribunal  under  section  162  (removal  of  prescribed  officials  from  office),  the appropriate authority may suspend him from office.
 
-- A suspension under subsection (1) -
+(2) A suspension under subsection (1) -
 
 (a) may be lifted at any time by the appropriate authority; and
 
 (b) ceases  to  have  effect  if  the  tribunal  advises  the  appropriate  authority that the person concerned should not be removed from office.
 
-- A  person  suspended  under  this  section  shall  receive  remuneration  or  other entitlements in accordance with the policy in force for the time being in the Public Service and provided for in General Administrative Orders.
+(3) A  person  suspended  under  this  section  shall  receive  remuneration  or  other entitlements in accordance with the policy in force for the time being in the Public Service and provided for in General Administrative Orders.
 
 #### 164 Contract employment
 
@@ -4280,7 +4498,7 @@ If -
 
 #### 165 Parliamentary responsibility for finance
 
-- Notwithstanding anything in this Constitution (other than section 169 (remuneration of certain officials)), the raising and spending of money by the Government (including the imposition of taxation and the raising of loans) is
+(1) Notwithstanding anything in this Constitution (other than section 169 (remuneration of certain officials)), the raising and spending of money by the Government (including the imposition of taxation and the raising of loans) is
 
 2008 Revised Edition
 
@@ -4296,7 +4514,7 @@ The Constitution of Tuvalu
 
 subject to authorization and control by Parliament, and shall be regulated by an Act of Parliament.
 
-- For each financial year there shall be -
+(2) For each financial year there shall be -
 
 (a) a National Budget, comprising estimates of -
 
@@ -4308,7 +4526,7 @@ in respect of the financial year; and
 
 (b) appropriations  for  the  service  of  the  financial  year,  and  there  may  be such  supplementary Budgets and supplementary appropriations as are necessary.
 
-- Nothing in subsection (2) prevents an appropriation being expressed -
+(3) Nothing in subsection (2) prevents an appropriation being expressed -
 
 (a) to continue after the end of the financial year; or
 
@@ -4316,7 +4534,7 @@ in respect of the financial year; and
 
 #### 166 Executive initiative
 
-- Except  on  the  recommendation  of  a  Minister,  Parliament  shall  not  provide for -
+(1) Except  on  the  recommendation  of  a  Minister,  Parliament  shall  not  provide for -
 
 (a) the imposition or increase of taxation, or the raising of money by the Government; or
 
@@ -4326,7 +4544,7 @@ in respect of the financial year; and
 
 (d) the compounding or remission of any debt due to the Government.
 
-- Parliament may reduce the amount of any proposal -
+(2) Parliament may reduce the amount of any proposal -
 
 (a) for taxation; or
 
@@ -4334,7 +4552,7 @@ in respect of the financial year; and
 
 (c) for any expenditure of public money.
 
-- Parliament may not -
+(3) Parliament may not -
 
 (a) increase the amount of any proposal; or
 
@@ -4356,19 +4574,19 @@ CAP. 1.02  Section 167
 
 #### 167 The Consolidated Fund
 
-- There shall be a Consolidated Fund of Tuvalu, into which, subject to any Act of Parliament, all public money shall be paid.
+(1) There shall be a Consolidated Fund of Tuvalu, into which, subject to any Act of Parliament, all public money shall be paid.
 
-- Acts of Parliament may make provision for or in respect of other public funds not forming part of the Consolidated Fund, which shall be administered and dealt with in accordance with Acts of Parliament.
+(2) Acts of Parliament may make provision for or in respect of other public funds not forming part of the Consolidated Fund, which shall be administered and dealt with in accordance with Acts of Parliament.
 
 #### 168 Accounting, etc., for public money
 
-- All money of or under the control of the Government shall be dealt with and properly accounted for in accordance with law.
+(1) All money of or under the control of the Government shall be dealt with and properly accounted for in accordance with law.
 
-- No money of or under the control of the Government shall be spent except as provided by this Constitution or by or under an Act of Parliament.
+(2) No money of or under the control of the Government shall be spent except as provided by this Constitution or by or under an Act of Parliament.
 
 #### 169 Remuneration of certain officials
 
-- This section applies to the offices of -
+(1) This section applies to the offices of -
 
 (a) Governor-General; and
 
@@ -4388,13 +4606,13 @@ CAP. 1.02  Section 167
 
 (i) members of the Public Service Commission.
 
-- Subject to this section, the holders of the offices to which this section applies shall be paid such salaries or other remuneration and such allowances as are specifically prescribed by an Act of Parliament.
+(2) Subject to this section, the holders of the offices to which this section applies shall be paid such salaries or other remuneration and such allowances as are specifically prescribed by an Act of Parliament.
 
-- The remuneration and allowances referred to in subsection (2) are charged on and  shall  be  paid  out  of  the  Consolidated  Fund  without  appropriation otherwise than by this section.
+(3) The remuneration and allowances referred to in subsection (2) are charged on and  shall  be  paid  out  of  the  Consolidated  Fund  without  appropriation otherwise than by this section.
 
-- Subject to subsections (5) and (6), the remuneration and allowances payable to the holder of an office to which this section applies (other than allowances which are specifically excluded by Act of Parliament from the operation of this subsection) shall not be altered to his disadvantage after his appointment.
+(4) Subject to subsections (5) and (6), the remuneration and allowances payable to the holder of an office to which this section applies (other than allowances which are specifically excluded by Act of Parliament from the operation of this subsection) shall not be altered to his disadvantage after his appointment.
 
-- Subsection (4) does not apply in respect of any reduction in remuneration or allowances which is part of a general reduction applied proportionately to -
+(5) Subsection (4) does not apply in respect of any reduction in remuneration or allowances which is part of a general reduction applied proportionately to -
 
 (a) all offices to which this section applies; and
 
@@ -4412,15 +4630,15 @@ The Constitution of Tuvalu
 
 (b) all other offices the remuneration of which is specifically prescribed by Act of Parliament.
 
-- For the purposes of subsection (4), where any remuneration or allowance to which  that  subsection  applies  is  based,  whether  in  law  or  in  practice,  on  a choice  made  by  the  holder  of  the  office  in  question,  the  remuneration  or allowance which he chooses shall be considered to be more advantageous to him than any other which he might have chosen.
+(6) For the purposes of subsection (4), where any remuneration or allowance to which  that  subsection  applies  is  based,  whether  in  law  or  in  practice,  on  a choice  made  by  the  holder  of  the  office  in  question,  the  remuneration  or allowance which he chooses shall be considered to be more advantageous to him than any other which he might have chosen.
 
 ### DIVISION 2. - THE AUDITOR-GENERAL
 
 #### 170 Establishment of the office of Auditor-General
 
-- An office of Auditor-General for Tuvalu is established.
+(1) An office of Auditor-General for Tuvalu is established.
 
-- The Auditor-General shall be appointed in accordance with section 159(2)(a) (which relates to the appointment of the Auditor-General).
+(2) The Auditor-General shall be appointed in accordance with section 159(2)(a) (which relates to the appointment of the Auditor-General).
 
 #### 171 Independence of the office of Auditor-General
 
@@ -4428,7 +4646,7 @@ Subject  to  section  15  (independence)  of  Schedule  1,  in  the  performance
 
 #### 172 Functions of the Auditor-General
 
-- The Auditor-General shall inspect and audit, and report at least once in every financial year to Parliament on -
+(1) The Auditor-General shall inspect and audit, and report at least once in every financial year to Parliament on -
 
 (a) the public accounts of Tuvalu; and
 
@@ -4438,7 +4656,7 @@ Subject  to  section  15  (independence)  of  Schedule  1,  in  the  performance
 
 and has such other functions as are,  subject  to  subsection  (4),  conferred  on him by an Act of Parliament.
 
-- Unless other provision is made by or under an Act of Parliament in respect of the  inspection  and  audit  of  them,  subsection  (1)  extends  to  the  accounts, finances and property of -
+(2) Unless other provision is made by or under an Act of Parliament in respect of the  inspection  and  audit  of  them,  subsection  (1)  extends  to  the  accounts, finances and property of -
 
 (a) each branch, department, agency and instrumentality of the Government; and
 
@@ -4456,15 +4674,15 @@ The Constitution of Tuvalu
 
 CAP. 1.02  Section 173
 
-- Even  if  other  provision  for  inspection  or  audit  is  made  as  referred  to  in subsection  (2),  the  Auditor-General  may,  if  he  thinks  it  proper  to  do  so, inspect  and  audit,  and  report  to  Parliament  on,  any  accounts,  finances  or property of an organization referred to in that subsection so far as they or it relate  to,  or  consist  of  or  are  derived  from,  public  money  or  property  of Tuvalu.
+(3) Even  if  other  provision  for  inspection  or  audit  is  made  as  referred  to  in subsection  (2),  the  Auditor-General  may,  if  he  thinks  it  proper  to  do  so, inspect  and  audit,  and  report  to  Parliament  on,  any  accounts,  finances  or property of an organization referred to in that subsection so far as they or it relate  to,  or  consist  of  or  are  derived  from,  public  money  or  property  of Tuvalu.
 
-- An Act of Parliament may -
+(4) An Act of Parliament may -
 
-(a) expand,  and  provide  in  more  detail  for,  the  functions  of  the  AuditorGeneral under the preceding provisions of this section; and
+(a) expand,  and  provide  in  more  detail  for,  the  functions  of  the  Auditor-General under the preceding provisions of this section; and
 
 (b) confer on the Auditor-General additional functions (including functions of  the  nature  of  an  efficiency  audit  or  value-for-money  audit),  not inconsistent with the performance of the functions conferred by those provisions.
 
-- Subject to any Act of Parliament, the functions of the Auditor-General may be performed -
+(5) Subject to any Act of Parliament, the functions of the Auditor-General may be performed -
 
 (a) in person; or
 
@@ -4500,15 +4718,15 @@ The Constitution of Tuvalu
 
 #### 1. Application of Schedule 1
 
-- The provisions of this Schedule apply in the interpretation of this Constitution,  except  where  in  relation  to  a  particular  provision  of  this Constitution the context dictates otherwise.
+(1) The provisions of this Schedule apply in the interpretation of this Constitution,  except  where  in  relation  to  a  particular  provision  of  this Constitution the context dictates otherwise.
 
-- Except  where  otherwise  stated  in  this  Constitution,  the  provisions  of  this Schedule do not apply to any other law unless they are adopted by law for the purpose.
+(2) Except  where  otherwise  stated  in  this  Constitution,  the  provisions  of  this Schedule do not apply to any other law unless they are adopted by law for the purpose.
 
-- This  Schedule  shall  be  read  subject  to  section  4  (interpretation  of  the Constitution)
+(3) This  Schedule  shall  be  read  subject  to  section  4  (interpretation  of  the Constitution)
 
 #### 2. General definitions
 
-- In this Constitution -
+(1) In this Constitution -
 
 ' act ' includes omission and failure to act;
 
@@ -4542,7 +4760,7 @@ The Constitution of Tuvalu
 
 CAP. 1.02  SCHEDULE 1
 
-' the Auditor-General ' means the Auditor-General for Tuvalu whose office is  provided  for  by  section  170  (establishment  of  the  office  of  AuditorGeneral);
+' the Auditor-General ' means the Auditor-General for Tuvalu whose office is  provided  for  by  section  170  (establishment  of  the  office  of  Auditor-General);
 
 ' Bill '  means  a  proposed  Act  of  Parliament  that  has  been  introduced  into Parliament;
 
@@ -4618,7 +4836,7 @@ The Constitution of Tuvalu
 
 (d) a  body  set  up  by  law,  or  by  administrative  or  executive  act,  for governmental or official purposes;
 
-' the  Governor-General '  means  the  Governor-General  of  Tuvalu  whose office  is  provided  for  by  section  54  (establishment  of  office  of  GovernorGeneral), and includes -
+' the  Governor-General '  means  the  Governor-General  of  Tuvalu  whose office  is  provided  for  by  section  54  (establishment  of  office  of  Governor-General), and includes -
 
 (a) a person appointed in accordance with section 56(2) (which relates to the appointment of an acting Governor-General); or
 
@@ -4734,7 +4952,7 @@ The Constitution of Tuvalu
 
 ' State  Service '  means  a  service  referred  to  in  section  139  (the  State Services);
 
-' subordinate court '' means a court other than -
+' subordinate court ' means a court other than -
 
 (a) the Sovereign in Council; and
 
@@ -4766,25 +4984,25 @@ CAP. 1.02  SCHEDULE 1
 
 ' year ' means any period of 12 months.
 
-- Unless the context requires otherwise, where an expression is defined for any purpose  in  this  Schedule  or  otherwise  in  this  Constitution  then  for  that purpose all grammatical variations and cognate and related expressions are to be understood in the same sense.
+(2) Unless the context requires otherwise, where an expression is defined for any purpose  in  this  Schedule  or  otherwise  in  this  Constitution  then  for  that purpose all grammatical variations and cognate and related expressions are to be understood in the same sense.
 
-- Unless the context requires otherwise, a reference in this Constitution to an institution, office, position or thing is a reference to the appropriate institution, office, position or thing provided for by this Constitution.
+(3) Unless the context requires otherwise, a reference in this Constitution to an institution, office, position or thing is a reference to the appropriate institution, office, position or thing provided for by this Constitution.
 
 #### 3. Form of the Constitution
 
-- The Preamble forms part of this Constitution, and establishes principles upon which this Constitution, and the conduct of the public affairs of Tuvalu, are to be based.
+(1) The Preamble forms part of this Constitution, and establishes principles upon which this Constitution, and the conduct of the public affairs of Tuvalu, are to be based.
 
-- The Schedules to this Constitution form part of this Constitution.
+(2) The Schedules to this Constitution form part of this Constitution.
 
-- The head-notes to the sections  of  this  Constitution  do  not  form  part  of  this Constitution, but other headings do form part of it.
+(3) The head-notes to the sections  of  this  Constitution  do  not  form  part  of  this Constitution, but other headings do form part of it.
 
-- A reference in this Constitution to a subdivision of this Constitution without further  identification  shall  be  read  as  a  reference  to  the  corresponding subdivision of the body of this Constitution (that is, excluding the Preamble and the Schedules).
+(4) A reference in this Constitution to a subdivision of this Constitution without further  identification  shall  be  read  as  a  reference  to  the  corresponding subdivision of the body of this Constitution (that is, excluding the Preamble and the Schedules).
 
 #### 4. Meaning of language used
 
-- This Constitution is intended to be read as a whole.
+(1) This Constitution is intended to be read as a whole.
 
-- All provisions of this Constitution, and all words, expressions and statements in  this  Constitution,  shall  be  given  their  fair  and  liberal  meaning  without unnecessary technicality.
+(2) All provisions of this Constitution, and all words, expressions and statements in  this  Constitution,  shall  be  given  their  fair  and  liberal  meaning  without unnecessary technicality.
 
 #### 5. Gender and number
 
@@ -4812,9 +5030,9 @@ The Constitution of Tuvalu
 
 #### 6. Time limits
 
-- Where  no  time  is  prescribed  by  this  Constitution  within  which  an  act  is required or permitted to be done, the act shall, or may, as the case requires, be done with all convenient speed and as often as is necessary.
+(1) Where  no  time  is  prescribed  by  this  Constitution  within  which  an  act  is required or permitted to be done, the act shall, or may, as the case requires, be done with all convenient speed and as often as is necessary.
 
-- Where -
+(2) Where -
 
 (a) a time limit is imposed by this Constitution for any purpose; and
 
@@ -4822,7 +5040,7 @@ The Constitution of Tuvalu
 
 the limit shall be deemed to be extended by whatever period is necessary to make compliance practicable.
 
-- The  operation of subsection (2) is not excluded by a provision that unqualifiedly specifies a time limit or a maximum time limit.
+(3) The  operation of subsection (2) is not excluded by a provision that unqualifiedly specifies a time limit or a maximum time limit.
 
 #### 7. Attainment of age
 
@@ -4830,11 +5048,11 @@ For  all  purposes  of  this  Constitution,  a  person  attains  a  particular  
 
 #### 8. Powers of majority, and quorums
 
-- Where this Constitution requires or permits an act to be done by more than two persons, a majority of them may do it.
+(1) Where this Constitution requires or permits an act to be done by more than two persons, a majority of them may do it.
 
-- Subsection (1) does not affect any requirement of a quorum, and, subject to subsection  (3),  where  no  quorum  is  prescribed  by  this  Constitution  the quorum is the total membership.
+(2) Subsection (1) does not affect any requirement of a quorum, and, subject to subsection  (3),  where  no  quorum  is  prescribed  by  this  Constitution  the quorum is the total membership.
 
-- A power conferred by this Constitution to determine the procedures of a body includes power to determine a quorum (not being fewer than a majority of the total membership).
+(3) A power conferred by this Constitution to determine the procedures of a body includes power to determine a quorum (not being fewer than a majority of the total membership).
 
 #### 9. References to 'total membership'
 
@@ -4854,33 +5072,33 @@ CAP. 1.02  SCHEDULE 1
 
 #### 10. Performance of constitutional functions
 
-- Where this Constitution confers a power or imposes a duty, the power may be exercised  or  the  duty  shall  be  performed,  as  the  case  may  be,  from  time  to time as occasion requires.
+(1) Where this Constitution confers a power or imposes a duty, the power may be exercised or the duty shall be performed, as the case may be, from time to time as occasion requires.
 
-- Where  this  Constitution  confers  a  function  on  the  holder  of  an  office  or position  as  such,  the  function  may  be  performed  by  the  holder  (whether substantive or other) of the office or position from time to time.
+(2) Where this Constitution confers a function on the holder of an office or position as such, the function may be performed by the holder (whether substantive or other) of the office or position from time to time.
 
-- Where this Constitution confers a power to make an instrument or a decision (other than a judicial decision), that power includes power exercisable in the same manner and subject to the same conditions (if any), to revoke, vary or alter the instrument or decision.
+(3) Where this Constitution confers a power to make an instrument or a decision (other than a judicial decision), that power includes power exercisable in the same manner and subject to the same conditions (if any), to revoke, vary or alter the instrument or decision.
 
 #### 11. Appointments, etc., requiring prior approval
 
-- Where  by  any  provision  of  this  Constitution  an  appointment  or  other  act requires the prior approval of Parliament or of any other person or authority, and -
+(1) Where by any provision of this Constitution an appointment or other act requires the prior approval of Parliament or of any other person or authority, and -
 
 (a) it is for any reason not practicable to apply for the approval immediately; and
 
 (b) there is an immediate need to make the appointment or to do the act,
 
-the appointment may be made, or the act may be done, as the case may be, subject to approval  being  applied  for  at the first  reasonably  available opportunity.
+the appointment may be made, or the act may be done, as the case may be, subject to approval being applied for at the first reasonably available opportunity.
 
-- If  later  approval  is  refused,  the  refusal  takes  effect  as  a  disallowance  of  the appointment or act.
+(2) If later approval is refused, the refusal takes effect as a disallowance of the appointment or act.
 
-- The decision of the person or authority whose approval is required as to what is the first reasonably available opportunity for the purposes of subsection (2) is final.
+(3) The decision of the person or authority whose approval is required as to what is the first reasonably available opportunity for the purposes of subsection (2) is final.
 
 #### 12. Official appointments, etc.
 
-- The succeeding  provisions  of  this  section  shall,  in  relation  to  any  office  or position, be read subject to any provision of this Constitution relating to that office or position.
+(1) The succeeding provisions of this section shall, in relation to any office or position, be read subject to any provision of this Constitution relating to that office or position.
 
-- In  this  Constitution,  a  reference  to  the  holder  of  an  office  or  position  by reference  to  the  description  of  his  office  or  position  includes  a  reference  to any  person  who  is  for  the  time  being  lawfully  acting  in,  or  performing  the functions of, the office or position.
+(2) In this Constitution, a reference to the holder of an office or position by reference to the description of his office or position includes a reference to any person who is for the time being lawfully acting in, or performing the functions of, the office or position.
 
-- Where this Constitution confers power to make an appointment to act in, or to perform the functions of, an office or position, the power includes power -
+(3) Where this Constitution confers power to make an appointment to act in, or to perform the functions of, an office or position, the power includes power -
 
 (a) to remove or suspend a person so appointed: and
 
@@ -4910,19 +5128,19 @@ to appoint a person temporarily in his place; and
 
 subject  to  compliance  with  any  conditions  to  which  the  exercise  of  the original power of appointment was subject.
 
-- In a case to which subsection (3)(c) applies, no question whether the need for the exercise of the power has arisen, or has ceased, shall be considered in any court.
+(4) In a case to which subsection (3)(c) applies, no question whether the need for the exercise of the power has arisen, or has ceased, shall be considered in any court.
 
-- A reference in this Constitution to a power to remove from office the holder of an office or position includes a reference to a power -
+(5) A reference in this Constitution to a power to remove from office the holder of an office or position includes a reference to a power -
 
 (a) to require the holder of the office or position to retire; or
 
-(b) to  terminate  any  contract  under  which  the  holder  of  the  office  or position is employed; or
+(b) to terminate any contract under which the holder of the office or position is employed; or
 
-(c) to  determine whether any contract referred to in paragraph (b) should be renewed,
+(c) to determine whether any contract referred to in paragraph (b) should be renewed,
 
 but nothing in this section confers any power to require a Judge of the High Court, the Auditor-General or the Commissioner of Police to retire. 13
 
-- Except where this Constitution provides otherwise the holder of an office or position  established  by  this  Constitution  may  resign  from  the  office  or position by written notice to the Secretary to Government, and the resignation takes effect -
+(6) Except where this Constitution provides otherwise the holder of an office or position established by this Constitution may resign from the office or position by written notice to the Secretary to Government, and the resignation takes effect -
 
 (a) on a date specified in the notice; or
 
@@ -4930,13 +5148,13 @@ but nothing in this section confers any power to require a Judge of the High Cou
 
 whichever is the later, but the resignation may be withdrawn, with the consent of the Secretary to Government, at any time before it takes effect.
 
-- When  the  holder  of  an  office  or  position  is  on  leave  of  absence  pending relinquishment of the office or position -
+(7) When the holder of an office or position is on leave of absence pending relinquishment of the office or position -
 
 (a) another person may be appointed to the office or position; and
 
 (b) the person so appointed shall, for the performance of the functions of the office or position, be considered to be the sole holder of the office or position.
 
-- For the purposes of this Constitution, a person shall not be considered to be the holder of, or to be acting in, an office or position by reason only of the fact that -
+(8) For the purposes of this Constitution, a person shall not be considered to be the holder of, or to be acting in, an office or position by reason only of the fact that -
 
 Page 102
 
@@ -4962,17 +5180,17 @@ CAP. 1.02  SCHEDULE 1
 
 (f) he is the holder  of an office or position in the service of the Government, or is performing functions on behalf of the Government, if the only remuneration that he receives for it is by way of travelling or subsistence allowance, expense allowance or any similar allowance.
 
-- Subject to any provision of this Constitution relating to qualifications for, or disqualifications from, appointment, a person who has been the holder of an office or position is eligible for reappointment to that office or position.
+(9) Subject to any provision of this Constitution relating to qualifications for, or disqualifications from, appointment, a person who has been the holder of an office or position is eligible for reappointment to that office or position.
 
 #### 13. References to the Sovereign of Tuvalu
 
-- Subject to subsection (2), a reference in this Constitution or any other law to the Sovereign of Tuvalu includes a reference to -
+(1) Subject to subsection (2), a reference in this Constitution or any other law to the Sovereign of Tuvalu includes a reference to -
 
 (a) the Heirs and Successors of the Sovereign as declared or ascertained by or under an Act of Parliament; and
 
 (b) any person exercising the whole or the relevant part of the sovereignty of Tuvalu in accordance with an Act of Parliament.
 
-- Until an Act of Parliament is made for the purposes of subsection (1)(a) or (b),  a  reference  to  the  Sovereign  of  Tuvalu  shall  be  read  as  including  a reference to -
+(2) Until an Act of Parliament is made for the purposes of subsection (1)(a) or (b), a reference to the Sovereign of Tuvalu shall be read as including a reference to -
 
 (a) the Sovereign of the United Kingdom; or
 
@@ -5010,15 +5228,15 @@ Where any provision  of  this  Constitution  provides  for  the  regulation  of 
 
 #### 17. Impracticability of obtaining advice, etc.
 
-- In this section -
+(1) In this section -
 
-' the authorizing provision ' means the relevant provision of this Constitution referred to in subsection (2)(a);
+“the authorizing provision” means the relevant provision of this Constitution referred to in subsection (2)(a);
 
-' the prescribed authority ' has the meaning given to it by subsection (2)(a).
+“the prescribed authority” has the meaning given to it by subsection (2)(a).
 
-- This section applies in a case where -
+(2) This section applies in a case where -
 
-(a) a provision of this Constitution requires or permits the Head of State, or any  other  person  or  authority,  (referred  to  in  this  section  as  'the prescribed authority') to act -
+(a) a provision of this Constitution requires or permits the Head of State, or any other person or authority, (referred to in this section as “the prescribed authority”) to act -
 
 (i) in accordance with the advice of some other person or authority; or
 
@@ -5026,11 +5244,11 @@ Where any provision  of  this  Constitution  provides  for  the  regulation  of 
 
 (iii) subject to the approval of some other person or authority; and
 
-(b) the  prescribed  authority,  acting  in  his  or  its  own  deliberate  judgment, certifies in writing that he or it is satisfied that it is impracticable, in the circumstances,  to  comply,  or  to  comply  fully,  with  the  authorizing provision.
+(b) the prescribed authority, acting in his or its own deliberate judgment, certifies in writing that he or it is satisfied that it is impracticable, in the circumstances, to comply, or to comply fully, with the authorizing provision.
 
-- In a case to which this section applies the prescribed authority, acting in his or its  own  deliberate  judgment,  may  act  after  consultation  with  such  persons (including any available persons, and any available members of the authority, referred to in subsection (2)(a)(i), (ii) or (iii) as he or it, acting in his or its own deliberate judgment, thinks proper to consult.
+(3) In a case to which this section applies the prescribed authority, acting in his or its own deliberate judgment, may act after consultation with such persons (including any available persons, and any available members of the authority, referred to in subsection (2)(a)(i), (ii) or (iii) as he or it, acting in his or its own deliberate judgment, thinks proper to consult.
 
-- If  in  a  case  to  which  this  section  applies  the  prescribed  authority  acts  as provided for by subsection (3) -
+(4) If in a case to which this section applies the prescribed authority acts as provided for by subsection (3) -
 
 (a) he or it shall, as soon as practicable, report the circumstances to -
 
@@ -5062,23 +5280,23 @@ Where  this  Constitution  requires  or  permits  an  act  to  be  done  in  the
 
 #### 19. Effect of repeal
 
-- In  this  section,  'repeal'  includes  revocation,  cancellation,  suspension  and expiry.
+(1) In this section, “repeal” includes revocation, cancellation, suspension and expiry.
 
-- The repeal of any provision of this Constitution does not -
+(2) The repeal of any provision of this Constitution does not -
 
 (a) revive anything that was not in force or existing immediately before the repeal took effect; or
 
 (b) affect the previous operation of the repealed provision, or anything duly done or suffered under it; or
 
-(c) affect  any  right,  privilege,  obligation  or  liability  acquired,  accrued  or incurred under the repealed provision; or
+(c) affect any right, privilege, obligation or liability acquired, accrued or incurred under the repealed provision; or
 
-(d) affect  any  penalty,  forfeiture  or  punishment  incurred  in  respect  of  an offence against the repealed provision; or
+(d) affect any penalty, forfeiture or punishment incurred in respect of an offence against the repealed provision; or
 
 (e) affect any investigation, legal proceedings or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment.
 
-- Any  investigation,  legal  proceedings  or  remedy  referred  to  in  subsection (2)(e) may be instituted, continued or enforced, and any penalty, forfeiture or punishment referred to in that paragraph may be imposed, as if the repealed provision had continued in force.
+(3) Any investigation, legal proceedings or remedy referred to in subsection (2)(e) may be instituted, continued or enforced, and any penalty, forfeiture or punishment referred to in that paragraph may be imposed, as if the repealed provision had continued in force.
 
-- If a provision of this Constitution is repealed and re-enacted (with or without modification),  a  reference  in  any  other  law  to  the  repealed  provision  shall, unless the context indicates otherwise, be read as a reference to the substituted provision.
+(4) If a provision of this Constitution is repealed and re-enacted (with or without modification), a reference in any other law to the repealed provision shall, unless the context indicates otherwise, be read as a reference to the substituted provision.
 
 2008 Revised Edition
 
@@ -5098,11 +5316,11 @@ Where this Constitution provides that a law or any other thing may be disallowed
 
 #### 21. Multiple oaths, etc.
 
-- A reference in this section to the holding of an office or position includes a reference  to  the  temporary  performance  of  the  functions  of  the  office  or position.
+(1) A reference in this section to the holding of an office or position includes a reference to the temporary performance of the functions of the office or position.
 
-- If on or before commencing to hold an office or position established by this Constitution the holder is required to take an oath, or make a declaration of allegiance,  he  is  not  required  to  do  so  again  for  any  purpose  during  any continuous term for which he holds the office or position.
+(2) If on or before commencing to hold an office or position established by this Constitution the holder is required to take an oath, or make a declaration of allegiance, he is not required to do so again for any purpose during any continuous term for which he holds the office or position.
 
-- Where -
+(3) Where -
 
 (a) the  holder  of  an  office  or  position  established  by  this  Constitution  is required  or  permitted  to  perform  temporarily  the  functions  of  another such office or position; and
 
@@ -5134,33 +5352,33 @@ The functions of the Governor-General under this Schedule shall be performed in 
 
 #### 2. Election meetings
 
-- As soon as practicable after -
+(1) As soon as practicable after -
 
 (a) a general election; or
 
-(b) subject to section 71 (caretaker governments) of this Constitution, the occurrence of a vacancy in the office of Prime Minister, the GovernorGeneral  shall  call  a  meeting  of  the  members  of  Parliament  for  the purpose of electing a Prime Minister.
+(b) subject to section 71 (caretaker governments) of this Constitution, the occurrence of a vacancy in the office of Prime Minister, the Governor-General shall call a meeting of the members of Parliament for the purpose of electing a Prime Minister.
 
-- If the vacancy occurred because of -
+(2) If the vacancy occurred because of -
 
 (a) the death of the Prime Minister; or
 
-(b) the  Prime  Minister's  ceasing  to  be  a  member  of  Parliament  for  any reason other than the dissolution of Parliament,
+(b) the Prime Minister's ceasing to be a member of Parliament for any reason other than the dissolution of Parliament,
 
 the meeting shall not be called until after the declaration of the result of the consequent bye-election.
 
-- The  Governor-General  shall  issue  to  each  member  of  Parliament  a  notice stating -
+(3) The Governor-General shall issue to each member of Parliament a notice stating -
 
 (a) the date, time and place of the meeting; and
 
-(b) the  date  and  time  on  or  before  which,  and  the  place  at  which, nominations are to be delivered to the Governor-General.
+(b) the date and time on or before which, and the place at which, nominations are to be delivered to the Governor-General.
 
-- The date fixed for the purposes of subsection (3)(b) shall be at least one day before the date fixed for the election meeting.
+(4) The date fixed for the purposes of subsection (3)(b) shall be at least one day before the date fixed for the election meeting.
 
-- The election meeting shall consider only the election of a Prime Minister.
+(5) The election meeting shall consider only the election of a Prime Minister.
 
 #### 3. Nominations
 
-- All  members  of  Parliament  are  eligible  for  nomination  as  candidates  for election as Prime Minister.
+(1) All members of Parliament are eligible for nomination as candidates for election as Prime Minister.
 
 2008 Revised Edition
 
@@ -5174,13 +5392,13 @@ SCHEDULE 2  CAP. 1.02
 
 The Constitution of Tuvalu
 
-- No member may nominate more than one candidate.
+(2) No member may nominate more than one candidate.
 
-- A candidate may withdraw his candidature at any time before the commencement of voting at the election meeting.
+(3) A candidate may withdraw his candidature at any time before the commencement of voting at the election meeting.
 
 #### 4. Cancellation of proceedings
 
-- If at any stage of the proceedings a candidate -
+(1) If at any stage of the proceedings a candidate -
 
 (a) dies; or
 
@@ -5188,15 +5406,15 @@ The Constitution of Tuvalu
 
 the provisions of subsection (3) apply.
 
-- If -
+(2) If -
 
 (a) at or after the time fixed under section 2(3)(b) (which relates to the time for nominations) of this Schedule there is no candidate for election; or
 
-(b) for any other reason the Governor-General is satisfied that the election cannot  be,  or  is  unlikely  to  be,  successfully  completed  in  accordance with this Schedule,
+(b) for any other reason the Governor-General is satisfied that the election cannot be, or is unlikely to be, successfully completed in accordance with this Schedule,
 
 the provisions of subsection (3) apply.
 
-- In  a  case  referred  to  in  subsection  (1)  or  (2),  the  Governor-General  may either -
+(3) In a case referred to in subsection (1) or (2), the Governor-General may either -
 
 (a) cancel the proceedings and commence them again; or
 
@@ -5204,15 +5422,15 @@ the provisions of subsection (3) apply.
 
 #### 5. List of candidates
 
-A  list  setting  out  all  candidates  and  their  nominators  shall  be  given  by  or  by direction of the Governor-General to each member of Parliament before the election meeting opens.
+A list setting out all candidates and their nominators shall be given by or by direction of the Governor-General to each member of Parliament before the election meeting opens.
 
 #### 6. Quorum
 
-- The quorum for an election meeting is a majority of the total membership of Parliament.
+(1) The quorum for an election meeting is a majority of the total membership of Parliament.
 
-- If  a  quorum  is  not  present  at  the  time  fixed  under  section  2(3)(a)  (which relates to the time for the election meeting) of this Schedule, the GovernorGeneral shall adjourn the meeting until a time, date and place fixed by him and announced at the failed meeting.
+(2) If a quorum is not present at the time fixed under section 2(3)(a) (which relates to the time for the election meeting) of this Schedule, the Governor-General shall adjourn the meeting until a time, date and place fixed by him and announced at the failed meeting.
 
-- If  at  the  time  and  place  fixed  under  subsection  (2)  a  quorum  is  again  not present,  the  Governor-General  shall  cancel  the  proceedings  and  commence them again.
+(3) If at the time and place fixed under subsection (2) a quorum is again not present, the Governor-General shall cancel the proceedings and commence them again.
 
 Page 108
 
@@ -5228,13 +5446,13 @@ CAP. 1.02  SCHEDULE 2
 
 #### 7. Conduct of the election meeting
 
-- The election meeting shall be presided over by the Governor-General, and the election shall be conducted by him.
+(1) The election meeting shall be presided over by the Governor-General, and the election shall be conducted by him.
 
-- Each member of Parliament has one vote at each ballot held in accordance with section 8 (conduct of the election) of this Schedule.
+(2) Each member of Parliament has one vote at each ballot held in accordance with section 8 (conduct of the election) of this Schedule.
 
-- For the purpose of the counting of votes and for any other purpose relating to the conduct of the election, the Governor-General may request the assistance of such persons as he thinks necessary.
+(3) For the purpose of the counting of votes and for any other purpose relating to the conduct of the election, the Governor-General may request the assistance of such persons as he thinks necessary.
 
-- No person other than -
+(4) No person other than -
 
 (a) the Governor-General; or
 
@@ -5244,27 +5462,27 @@ CAP. 1.02  SCHEDULE 2
 
 shall be present at the election meeting.
 
-- Subject  to  this  Schedule,  the  election  meeting  and  the  election  shall  be conducted in such manner as the Governor-General determines.
+(5) Subject to this Schedule, the election meeting and the election shall be conducted in such manner as the Governor-General determines.
 
 #### 8. Conduct of the election
 
-- If there are more candidates than one, such number of ballots shall be held as is required to determine the result in accordance with this section.
+(1) If there are more candidates than one, such number of ballots shall be held as is required to determine the result in accordance with this section.
 
-- The ballots shall be secret ballots.
+(2) The ballots shall be secret ballots.
 
-- Subject to the succeeding provisions of this section, if no candidate receives in a ballot the votes of a majority of the total membership of Parliament -
+(3) Subject to the succeeding provisions of this section, if no candidate receives in a ballot the votes of a majority of the total membership of Parliament -
 
-(a) the  candidate  who  has  the  lowest  number  of  votes  shall  be  excluded; and
+(a) the candidate who has the lowest number of votes shall be excluded; and
 
 (b) a fresh ballot shall be held for the remaining candidates.
 
-- If in a case to which subsection (3) applies there is a tie between two or more candidates for the lowest number of votes in a ballot -
+(4) If in a case to which subsection (3) applies there is a tie between two or more candidates for the lowest number of votes in a ballot -
 
 (a) not more than two special ballots shall be held to exclude one of them; and
 
-(b) if  after  the  second  special  ballot neither  candidate has been excluded, the  Governor-General  shall  decide  by  lot  which  one  of  them  is  to  be excluded.
+(b) if after the second special ballot neither candidate has been excluded, the Governor-General shall decide by lot which one of them is to be excluded.
 
-- When in a ballot, whether the first ballot or a subsequent ballot, there are only two candidates, not more than -
+(5) When in a ballot, whether the first ballot or a subsequent ballot, there are only two candidates, not more than -
 
 (a) that ballot; and
 
@@ -5282,19 +5500,19 @@ SCHEDULE 2  CAP. 1.02
 
 The Constitution of Tuvalu
 
-shall be held, and if at the end of those ballots no candidate has received the votes  of  a  majority  of  the  total  membership  of  Parliament  the  GovernorGeneral shall cancel the election and commence the election procedure again.
+shall be held, and if at the end of those ballots no candidate has received the votes of a majority of the total membership of Parliament the Governor-General shall cancel the election and commence the election procedure again.
 
 #### 9. Declaration of the result
 
-- If  only  one  candidate  is  nominated,  the  Governor-General  shall  declare  that candidate elected.
+(1) If only one candidate is nominated, the Governor-General shall declare that candidate elected.
 
-- When  the  count  has  been  completed  in  each  ballot,  the  Governor-General shall -
+(2) When the count has been completed in each ballot, the Governor-General shall -
 
 (a) announce the number of votes received by each candidate; and
 
-(b) if  a  candidate  has  received  the  votes  of  a  majority  of  the  total membership of Parliament - declare that candidate to be elected.
+(b) if a candidate has received the votes of a majority of the total membership of Parliament - declare that candidate to be elected.
 
-- Upon  the  election  of  a  Prime  Minister  under  this  Schedule,  the  GovernorGeneral shall cause the election and the name of the Prime minister -
+(3) Upon the election of a Prime Minister under this Schedule, the Governor-General shall cause the election and the name of the Prime minister -
 
 (a) to  be  made  known  to  the  public  in  such  manner  as  he  thinks appropriate; and
 
@@ -5390,17 +5608,19 @@ CAP. 1.02  SCHEDULE 4
 
 (Sections 57, 72 and 112)
 
-#### Oath, etc., of Allegiance
+#### 1. Oath, etc., of Allegiance
 
-- I,  ...................................................,  do  swear  (or  solemnly  affirm)  that  I  will  be faithful and bear true allegiance to the Sovereign of Tuvalu. (So help me God)
-
-#### Oath, etc., of Office of Governor-General
-
-- I, .................................................., do swear (or solemnly affirm) that I will well and truly serve the Sovereign of Tuvalu in the office of Governor-General of Tuvalu (or in the performance of the functions of the Governor-General of Tuvalu under section 52 of the Constitution)
+I, ..................................................., do swear (or solemnly affirm) that I will be faithful and bear true allegiance to the Sovereign of Tuvalu.
 
 (So help me God)
 
-#### Oath, etc., of Office of Member of Cabinet
+#### 2. Oath, etc., of Office of Governor-General
+
+I, .................................................., do swear (or solemnly affirm) that I will well and truly serve the Sovereign of Tuvalu in the office of Governor-General of Tuvalu (or in the performance of the functions of the Governor-General of Tuvalu under section 52 of the Constitution)
+
+(So help me God)
+
+#### 3. Oath, etc., of Office of Member of Cabinet
 
 I,  ..................................................,  being  a  member  of  the  Cabinet  for  Tuvalu.  do swear (or solemnly affirm) that -
 
@@ -5426,35 +5646,35 @@ SCHEDULE 5  CAP. 1.02
 
 The Constitution of Tuvalu
 
-#### 1. Interpretation
-
-In this schedule -
-
-' appointed  day '  means  the  day  determined  pursuant  to  section  4  of  the Ordinance for the coming into effect of this Constitution;
-
-' existing  laws '  means  any  Acts  of  the  Parliament  of  the  United  Kingdom, Orders  of  Her  Majesty  in  Council,  Ordinances,  rules,  regulations,  orders  or other instruments having effect as part of the law of Tuvalu (whether or not they have been brought into operation) immediately before the appointed day, but does not include the Tuvalu Independence Order 1978 or the independence Constitution;
-
-' the Ordinance ' means the Constitution of Tuvalu Ordinance 1986.
-
-#### 2. Existing laws
-
-- Subject to this section, on and after the appointed day all existing laws shall have effect as if they had been made in pursuance of this Constitution.
-
-- All  existing  laws  shall  be  construed  with  such  changes  as  to  names,  titles, offices, persons and institutions, and to such other formal and non-substantial changes, as are necessary to adapt them to the provisions of this Constitution.
-
-- The Governor-General may, by order published in the Gazette,  at  any  time before 1 January 1988, make such amendments to any existing law (other than the Ordinance) as may appear to him to be necessary or expedient for bringing that law into conformity with any provision of this Constitution. 14
-
-- Nothing in this section shall be construed as affecting the operation of section 3 (the Constitution as supreme law) in relation to any existing law.
-
-#### 3. Prescribed matters
-
-Where any matter that falls  to  be  prescribed  or  otherwise  provided  for  under  this Constitution by or under an Act of Parliament is prescribed or otherwise provided for  by  or  under  an  existing  law  (including  any  amendment  to  any  such  law  made pursuant to section 2 (existing laws) of this Schedule) that prescription or provision
-
 ## SCHEDULE 5
 
 (Section 173)
 
 ### TRANSITIONAL PROVISIONS
+
+#### 1. Interpretation
+
+In this schedule -
+
+“appointed day” means the day determined pursuant to section 4 of the Ordinance for the coming into effect of this Constitution;
+
+“existing laws” means any Acts of the Parliament of the United Kingdom, Orders of Her Majesty in Council, Ordinances, rules, regulations, orders or other instruments having effect as part of the law of Tuvalu (whether or not they have been brought into operation) immediately before the appointed day, but does not include the Tuvalu Independence Order 1978 or the independence Constitution;
+
+“the Ordinance” means the Constitution of Tuvalu Ordinance 1986.
+
+#### 2. Existing laws
+
+(1) Subject to this section, on and after the appointed day all existing laws shall have effect as if they had been made in pursuance of this Constitution.
+
+(2) All existing laws shall be construed with such changes as to names, titles, offices, persons and institutions, and to such other formal and non-substantial changes, as are necessary to adapt them to the provisions of this Constitution.
+
+(3) The Governor-General may, by order published in the Gazette, at any time before 1 January 1988, make such amendments to any existing law (other than the Ordinance) as may appear to him to be necessary or expedient for bringing that law into conformity with any provision of this Constitution. 14
+
+(4) Nothing in this section shall be construed as affecting the operation of section 3 (the Constitution as supreme law) in relation to any existing law.
+
+#### 3. Prescribed matters
+
+Where any matter that falls to be prescribed or otherwise provided for under this Constitution by or under an Act of Parliament is prescribed or otherwise provided for by or under an existing law (including any amendment to any such law made pursuant to section 2 (existing laws) of this Schedule) that prescription or provision
 
 Page 114
 
@@ -5472,23 +5692,23 @@ shall, as from the appointed day, have effect (with such modifications, adaptati
 
 #### 4. The Governor-General
 
-- The  person  who  immediately  before  the  appointed  day  holds  office  as Governor-General  under  the  Independence  Constitution  shall,  as  from  that day,  hold  office  as  Governor-General  as  if  he  had  been  appointed  thereto under section 55 (appointment, etc., of the Governor-General).
+(1) The person who immediately before the appointed day holds office as Governor-General under the Independence Constitution shall, as from that day, hold office as Governor-General as if he had been appointed thereto under section 55 (appointment, etc., of the Governor-General).
 
-- The person who holds office as Governor-General by virtue of subsection (1) shall be deemed to have complied with section 57 (oaths and affirmations by the Governor-General).
+(2) The person who holds office as Governor-General by virtue of subsection (1) shall be deemed to have complied with section 57 (oaths and affirmations by the Governor-General).
 
-- For  the  purpose  of  calculating  the  period  of  four  years  referred  to  in subsection (3)(f) of section 55 (appointment, etc., of the Governor-General) in relation  to  the  person  who  holds  office  as  Governor-General  by  virtue  of subsection  (1),  that  period  shall  be  deemed  to  have  commenced  on  the appointed  day,  but  without  prejudice  to  the  operation  of  any  of  the  other provisions of subsection (3) of that section.
+(3) For the purpose of calculating the period of four years referred to in subsection (3)(f) of section 55 (appointment, etc., of the Governor-General) in relation to the person who holds office as Governor-General by virtue of subsection (1), that period shall be deemed to have commenced on the appointed day, but without prejudice to the operation of any of the other provisions of subsection (3) of that section.
 
-- Subsection (3)(c) of section 55 (appointment etc., of the Governor-General) shall not apply in relation to the person who holds office as Governor-General by virtue of subsection (1).
+(4) Subsection (3)(c) of section 55 (appointment etc., of the Governor-General) shall not apply in relation to the person who holds office as Governor-General by virtue of subsection (1).
 
 #### 5. Ministers
 
-- Any person who immediately before the appointed day holds office as Prime Minister or any other Minister under the Independence Constitution shall, as from that  date,  hold  office  as  Prime  Minister  or  other  Minister,  as  the  case may be, as if he had -
+(1) Any person who immediately before the appointed day holds office as Prime Minister or any other Minister under the Independence Constitution shall, as from that date, hold office as Prime Minister or other Minister, as the case may be, as if he had -
 
 (a) in the case of the Prime Minister, been elected thereto under section 63 (the Prime Minister); or
 
 (b) in the case of any other Minister, been appointed thereto under section 67 (the other Ministers).
 
-- Any person holding office as Prime Minister or other Minister by virtue of subsection (1) who before the appointed day was assigned, and immediately before that date held, responsibility for any business of the Government shall be deemed to have been assigned responsibility for that business under section 75 (assignment of responsibilities to Ministers).
+(2) Any person holding office as Prime Minister or other Minister by virtue of subsection (1) who before the appointed day was assigned, and immediately before that date held, responsibility for any business of the Government shall be deemed to have been assigned responsibility for that business under section 75 (assignment of responsibilities to Ministers).
 
 2008 Revised Edition
 
@@ -5504,31 +5724,31 @@ The Constitution of Tuvalu
 
 #### 6. Parliament
 
-- Unless and until the number of members of Parliament is fixed pursuant to section 82 (composition of Parliament) by or under an Act of Parliament, the number of members is 12.
+(1) Unless and until the number of members of Parliament is fixed pursuant to section 82 (composition of Parliament) by or under an Act of Parliament, the number of members is 12.
 
-- Any person who immediately before the appointed day is a member of the former Parliament shall on that day become a member of Parliament and shall be deemed to have complied with the requirements of section 112 (oath and affirmation of members of Parliament) and shall hold his seat in Parliament in accordance with the provisions of the Constitution.
+(2) Any person who immediately before the appointed day is a member of the former Parliament shall on that day become a member of Parliament and shall be deemed to have complied with the requirements of section 112 (oath and affirmation of members of Parliament) and shall hold his seat in Parliament in accordance with the provisions of the Constitution.
 
-- The  person  who  immediately  before  the  appointed  day  holds  the  office  of Speaker  of  the  former  Parliament  shall  on  that  day  become  Speaker  of Parliament and shall hold office as such in accordance with the provisions of this Constitution.
+(3) The person who immediately before the appointed day holds the office of Speaker of the former Parliament shall on that day become Speaker of Parliament and shall hold office as such in accordance with the provisions of this Constitution.
 
-- The  rules  of  procedure  of  the  former  Parliament  as  in  force  immediately before  the  appointed  day  shall,  except  as  may  be  otherwise  provided  under section 108 (rules of procedure) have effect after that day as if they had been made  under  that  section  but  shall  be  construed  with  such  modifications, adaptions,  qualifications  and  exceptions  as  may  be  necessary  to  bring  them into conformity with this Constitution.
+(4) The rules of procedure of the former Parliament as in force immediately before the appointed day shall, except as may be otherwise provided under section 108 (rules of procedure) have effect after that day as if they had been made under that section but shall be construed with such modifications, adaptions, qualifications and exceptions as may be necessary to bring them into conformity with this Constitution.
 
-- For the purpose of the first determination after the appointed day of the period of  four  years  referred  to  in  section  118(1)  (which  relates  to  the  automatic dissolution  of  Parliament),  that  period  shall  be  deemed  to  have  commenced after the date of the first sitting of the former Parliament after the last general election preceding the appointed day.
+(5) For the purpose of the first determination after the appointed day of the period of four years referred to in section 118(1) (which relates to the automatic dissolution of Parliament), that period shall be deemed to have commenced after the date of the first sitting of the former Parliament after the last general election preceding the appointed day.
 
-- Any Bill which, before the appointed day, was before the former Parliament -
+(6) Any Bill which, before the appointed day, was before the former Parliament -
 
 (a) shall not lapse; and
 
-(b) shall  on  and  after  the  appointed  day,  be  treated  as  a  Bill  for  an  Act before Parliament; and
+(b) shall on and after the appointed day, be treated as a Bill for an Act before Parliament; and
 
 (c) may be proceeded with accordingly -
 
-(i) any  stage  of  the  Bill  completed  before  the  former  Parliament being treated as having been completed before Parliament; and
+(i) any stage of the Bill completed before the former Parliament being treated as having been completed before Parliament; and
 
-(ii) any  stage  of  the  Bill  commenced  before  the  former  Parliament being continued before Parliament.
+(ii) any stage of the Bill commenced before the former Parliament being continued before Parliament.
 
-- Any business commenced before the former Parliament may, on and after the appointed day, be continued before Parliament.
+(7) Any business commenced before the former Parliament may, on and after the appointed day, be continued before Parliament.
 
-- In  this  section,  'the  former  Parliament'  means  the  Parliament  of  Tuvalu established by the Independence Constitution.
+(8) In this section, “the former Parliament” means the Parliament of Tuvalu established by the Independence Constitution.
 
 Page 116
 
@@ -5544,29 +5764,29 @@ CAP. 1.02  SCHEDULE 5
 
 #### 7. Public Officers
 
-- Every person who immediately before the appointed day holds or is acting in a  public  office  shall,  as  from  that  day,  hold  or  act  in  that  office  or  the corresponding  office  established  by  this  Constitution  as  if  he  had  been appointed to do so in accordance with the provisions of this Constitution and shall be deemed to have taken any oaths required upon such appointment by any existing law.
+(1) Every person who immediately before the appointed day holds or is acting in a public office shall, as from that day, hold or act in that office or the corresponding office established by this Constitution as if he had been appointed to do so in accordance with the provisions of this Constitution and shall be deemed to have taken any oaths required upon such appointment by any existing law.
 
-- Any  person  who  holds  office  by  virtue  of  subsection  (1)  and  who  would, under the Independence Constitution or any existing law, have been required to vacate office at the expiration of any period or on the attainment of any age shall  vacate  his  office  under  this  Constitution  upon  the  expiration  of  that period or upon the attainment of that age.
+(2) Any person who holds office by virtue of subsection (1) and who would, under the Independence Constitution or any existing law, have been required to vacate office at the expiration of any period or on the attainment of any age shall vacate his office under this Constitution upon the expiration of that period or upon the attainment of that age.
 
-- The  provisions  of  this  section  shall  be  without  prejudice  to  any  power conferred by or under this Constitution upon any person or authority to make provision  for  the  abolition  of  offices  and  for  the  removal  from  office  of persons holding or acting in any office.
+(3) The provisions of this section shall be without prejudice to any power conferred by or under this Constitution upon any person or authority to make provision for the abolition of offices and for the removal from office of persons holding or acting in any office.
 
-- In  this  section,  'public  office'  shall  be  construed  as  including  the  office  of member (including Chairman) of the Public Service Commission established by the Independence Constitution.
+(4) In this section, “public office” shall be construed as including the office of member (including Chairman) of the Public Service Commission established by the Independence Constitution.
 
 #### 8. Legal Proceedings
 
-- All proceedings commenced or pending before the appointed day before the High  Court or the Court of Appeal  established by the  Independence Constitution may continue on and after that day before the High Court or the Court of Appeal, as the case may be, established by this Constitution.
+(1) All proceedings commenced or pending before the appointed day before the High Court or the Court of Appeal established by the Independence Constitution may continue on and after that day before the High Court or the Court of Appeal, as the case may be, established by this Constitution.
 
-- Any decision given before the appointed day by the High Court or the Court of Appeal established by the Independence Constitution shall for the purposes of the enforcement or, in the case of a decision given by the High Court, for the purpose of any appeal therefrom, have effect on and after that day as if it were a decision of the High Court or the Court of Appeal, as the case may be, established by this Constitution.
+(2) Any decision given before the appointed day by the High Court or the Court of Appeal established by the Independence Constitution shall for the purposes of the enforcement or, in the case of a decision given by the High Court, for the purpose of any appeal therefrom, have effect on and after that day as if it were a decision of the High Court or the Court of Appeal, as the case may be, established by this Constitution.
 
 #### 9. Financial
 
-- In this section, 'the relevant financial year' means the financial year ending on 31 December 1986.
+(1) In this section, “the relevant financial year” means the financial year ending on 31 December 1986.
 
-- Section 165 (Parliamentary responsibility for finance) shall not apply, and the following provisions shall apply in relation to the relevant financial year -
+(2) Section 165 (Parliamentary responsibility for finance) shall not apply, and the following provisions shall apply in relation to the relevant financial year -
 
-- A.
+A.
 
-- The Minister responsible for Finance shall cause to be prepared and laid before Parliament before or not later than 60 days after
+(1) The Minister responsible for Finance shall cause to be prepared and laid before Parliament before or not later than 60 days after
 
 2008 Revised Edition
 
@@ -5582,15 +5802,15 @@ The Constitution of Tuvalu
 
 the commencement of the relevant financial year estimates of the revenues and expenditure of the Government for that year.
 
-- The heads of expenditure contained in the estimates (other than statutory expenditure) shall be included in a Bill to be known as an Appropriation Bill which shall be introduced into Parliament to provide for the issue from the Consolidated Fund of the sums necessary  to  supply  those  heads  and  the  appropriation  of  those sums for the purposes specified therein.
+(2) The heads of expenditure contained in the estimates (other than statutory expenditure) shall be included in a Bill to be known as an Appropriation Bill which shall be introduced into Parliament to provide for the issue from the Consolidated Fund of the sums necessary to supply those heads and the appropriation of those sums for the purposes specified therein.
 
-- If in respect of the relevant financial year it is found that the sum appropriated by the Appropriation Act for any purpose is insufficient  or  that  a  need  has  arisen  for  expenditure  for  a purpose for which no sum has been appropriated by that law, a supplementary  estimate  showing  the  sum  required  shall  be included in a Supplementary Bill for appropriation.
+(3) If in respect of the relevant financial year it is found that the sum appropriated by the Appropriation Act for any purpose is insufficient or that a need has arisen for expenditure for a purpose for which no sum has been appropriated by that law, a supplementary estimate showing the sum required shall be included in a Supplementary Bill for appropriation.
 
-- Where  in  respect  of  the  relevant  financial  year  the  Minister responsible for Finance is satisfied that an urgent and unforeseen need has arisen to authorise for any purpose advances from the Consolidated Fund for expenditure in excess of the sum appropriated for that purpose by an Appropriation Act, or for a purpose  for  which  no  sum  has  been  so  appropriated,  he  may, subject to the provisions of any law for the time being in force in that regard, authorise such advances by warrant and shall include such amount in a Supplementary Appropriation Bill for appropriation  at  the  meeting  of  Parliament  next  following  the date on which the warrant was issued.
+(4) Where in respect of the relevant financial year the Minister responsible for Finance is satisfied that an urgent and unforeseen need has arisen to authorise for any purpose advances from the Consolidated Fund for expenditure in excess of the sum appropriated for that purpose by an Appropriation Act, or for a purpose for which no sum has been so appropriated, he may, subject to the provisions of any law for the time being in force in that regard, authorise such advances by warrant and shall include such amount in a Supplementary Appropriation Bill for appropriation at the meeting of Parliament next following the date on which the warrant was issued.
 
-- If at the close of account for the relevant financial year it is found that  any  moneys have been expended on any head in excess of the sums appropriated for that head by an Appropriation Act or for  a  purpose  for  which  no  money  has  been  appropriated,  the excess or the sum expended but not appropriated, as the case may be,  shall  be  included  in  a  statement  of  heads  in  excess  which shall be presented to Parliament.
+(5) If at the close of account for the relevant financial year it is found that any moneys have been expended on any head in excess of the sums appropriated for that head by an Appropriation Act or for a purpose for which no money has been appropriated, the excess or the sum expended but not appropriated, as the case may be, shall be included in a statement of heads in excess which shall be presented to Parliament.
 
-- If the Appropriation Act in respect of the relevant financial year has not come into operation at the beginning of that financial year, Parliament by  resolution  may  empower  the  Minister  responsible  for  Finance  to authorise  the  issue  of  moneys  from  the  Consolidated  Fund  for  the purpose of meeting expenditure necessary to carry on the state services at a level not exceeding the level of the public services in the previous financial year, until the expiration of 4 months from the beginning of the relevant financial year or the coming  into operation of the Appropriation Act, whichever is the earlier.
+B. If the Appropriation Act in respect of the relevant financial year has not come into operation at the beginning of that financial year, Parliament by resolution may empower the Minister responsible for Finance to authorise the issue of moneys from the Consolidated Fund for the purpose of meeting expenditure necessary to carry on the state services at a level not exceeding the level of the public services in the previous financial year, until the expiration of 4 months from the beginning of the relevant financial year or the coming into operation of the Appropriation Act, whichever is the earlier.
 
 C.
 
@@ -5606,17 +5826,17 @@ The Constitution of Tuvalu
 
 CAP. 1.02  SCHEDULE 5
 
-- No  money  shall  be  issued  from  the  Consolidated  Fund  except upon the authority  of  a  warrant  under  the  hand  of  the  Minister responsible for Finance.
+(1) No money shall be issued from the Consolidated Fund except upon the authority of a warrant under the hand of the Minister responsible for Finance.
 
-- No  warrant  shall  be  issued  by  the  Minister  responsible  for Finance for the purpose of meeting any expenditure unless -
+(2) No warrant shall be issued by the Minister responsible for Finance for the purpose of meeting any expenditure unless -
 
 (a) the expenditure has been authorised for the relevant financial year by an Appropriation Act; or
 
 (b) the expenditure has been authorised in accordance with the provisions of paragraph A(4), B or C; or
 
-(c) it  is  statutory  expenditure  in  which  event,  it  shall  not  be voted  on  by  Parliament  but,  without  further  authority  of Parliament, shall be paid out of the Consolidated Fund and a warrant may issue for that purpose.
+(c) it is statutory expenditure in which event, it shall not be voted on by Parliament but, without further authority of Parliament, shall be paid out of the Consolidated Fund and a warrant may issue for that purpose.
 
-- Any -
+(3) Any -
 
 (a) estimates laid before Parliament; or
 
@@ -5678,11 +5898,11 @@ Amended by Act 4 of 2007, commences 3 August 2007 (LN 3/2007)
 
 13 Amended by Act 2 of 1992
 
-- 14 By LN 14/1986 the following Order under paragraph 2(3) of Schedule 5 was made -
+14 By LN 14/1986 the following Order under paragraph 2(3) of Schedule 5 was made -
 
-'1. This Order may be cited as the Renaming of Ordinances Order.
+“1. This Order may be cited as the Renaming of Ordinances Order.
 
-- For the avoidance of doubt and as it is expedient to bring them into conformity with section 86(3) of and paragraph 2(1) of Schedule 5 to the Constitution -
+2. For the avoidance of doubt and as it is expedient to bring them into conformity with section 86(3) of and paragraph 2(1) of Schedule 5 to the Constitution -
 
 (a) all Ordinances having effect as part of the law of Tuvalu immediately before 1 October  1986  (being  the  appointed  day  for  the  coming  into  effect  of  the Constitution) are named, and may be cited as, 'Acts' and their short titles are amended  by  substituting  the  word  'Act'  for  the  word  'Ordinance'  in  each place where it occurs;
 
