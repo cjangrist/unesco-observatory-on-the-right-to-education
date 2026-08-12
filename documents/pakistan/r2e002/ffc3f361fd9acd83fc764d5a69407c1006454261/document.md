@@ -1,10 +1,74 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+# Balochistan Education Sector Plan
+
+حکومت بلوچستان
+
+2013 - 2017
+
+Outline Document
+
+Developed by:
+PPIU, Education Department, Government of Balochistan
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+# Table of Content
+
+Chapter 1: Introduction | 1
+Chapter 2: Background and Methodology | 3
+2.1. Methodology | 3
+2.1.1. Situation Analysis | 3
+2.1.2. Sector Plan Development | 5
+2.1.3. Orgnanisation of the document | 5
+Chapter 3: Balochistan Context | 7
+3.1. Education Sector in Balochistan | 11
+Chapter 4: Organization of Education in Balochistan | 14
+4.1. The Levels | 14
+4.1.1. Pre-primary | 14
+4.1.2. Primary | 14
+4.1.3. Middle | 14
+4.1.4. Secondary | 14
+4.1.5. Higher Secondary | 15
+4.1.6. Higher Education | 15
+4.1.7. Technical and Vocational Education & Training | 16
+4.2. Organisations | 16
+4.2.1. Secondary Education Department | 16
+4.2.2. Department of Higher Education | 18
+4.2.3. BTEVTA | 19
+4.2.4. Department of Social Welfare | 19
+4.2.5. National Commission for Human Development (NCHD) | 20
+4.2.6. National Education Foundation (NEF) | 20
+4.2.7. Balochistan Education Foundation (BEF) | 20
+4.2.8. The Private Sector | 20
+4.2.9. Other Public Sector | 21
+4.2.10. Madrassas | 21
+Chapter 5: Framework of the BESP | 22
+5.1. National Education Policy 2009 | 22
+5.2. Article 25A | 22
+5.3. Implementation and Monitoring Process | 23
+5.3.1. Oversight and Monitoring | 24
+5.3.2. Decentralisation | 26
+5.3.3. Dissemination | 26
+5.4. Stakeholders’ Strategy | 26
+5.5. Performance Assessment Framework | 29
+5.5.1. Performance Assessment Framework | 31
+Chapter 6: Cross Cutting Strategies: | 34
+6.1. Coordination | 34
+6.1.1 Recommendations | 34
+6.2. Standards | 34
+6.2.1. Recommendations | 35
+6.3. Development of Education Experts | 36
+6.3.1. Recommendations | 36
+6.4. Research Culture | 36
+6.4.1. Recommendations | 36
+6.5. Capacity Development | 36
+Chapter 7: Quality and Relevance in Education | 37
+7.1. Quality Education | 37
+7.1.1. Key Findings | 37
+7.1.2. Strategic Objective(s) | 39
 
 1
 
@@ -12,11 +76,106 @@
 
 [[START OF PAGE 3]]
 
+7.1.3. Goal(s) | 39
+7.1.4. Strategies | 40
+7.2. Curriculum | 40
+7.2.1. Current Situation | 40
+7.2.2. Strategic Objectives | 40
+7.2.3. Strategies | 41
+7.3. Textbooks | 42
+7.3.1. Current Situation | 42
+7.3.2. Strategic Objective(s) | 42
+7.3.3. Strategies | 43
+7.4. In Service Teacher Training | 44
+7.4.1. Current Situation | 44
+7.4.2. Strategic Objective(s) | 45
+7.4.3. Strategies | 45
+7.5. Pre-Service Teacher Training | 46
+7.5.1. Current Situation | 47
+7.5.2. Strategic Objectives | 47
+7.5.3. Strategies | 47
+7.6. Assessments | 48
+7.6.1. Current Situation | 48
+7.6.2. Strategic Objectives | 49
+7.6.3. Strategies | 49
+7.7. School Environment | 50
+7.7.1. Current Situation | 50
+7.7.2. Strategic Objective(s) | 51
+7.7.3. Strategies: | 51
+7.8. Relevance | 53
+7.8.1. Current Situation | 53
+7.8.2. Strategic Objectives | 54
+7.8.3. Strategies | 54
+7.9. Language and Education | 54
+7.9.1. Current Situation | 54
+7.9.2. Strategic Objectives: | 55
+7.9.3. Strategies | 55
+7.10. Pre-Primary Early Childhood Education | 57
+7.10.1. Current Situation | 57
+7.10.2. Strategic Objective(s) | 57
+7.10.3. Strategies | 57
+Chapter 8: Access and Equity | 59
+8.1. Access and Equity | 59
+8.1.1. Current Situation | 59
+8.1.2. Strategic Objective(s) | 62
+8.1.3. Overall Targets | 62
+8.1.4. Strategies: | 63
+8.2. Inclusive Education | 66
+8.2.1. Current Situation | 66
+8.2.2. Strategic Objective(s) | 66
+8.2.3. Strategies: | 66
+8.3. Disaster Risk Reduction | 66
+8.3.1. Current Situation | 67
+8.3.2. Strategic Objective(s) | 67
+8.3.3. Strategies | 67
+Chapter 9: Governance and Management | 68
+
 2
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+9.1. Governance and Management | 68
+9.1.1. Current Situation | 68
+9.1.2. Strategic Objective(s) | 70
+9.1.3. Strategies | 71
+9.1.4. Overall Targets | 73
+Chapter 10: Higher Education | 75
+10.1. Higher Education | 75
+10.1.1. Current Situation | 75
+10.1.2. Strategic Objective(s) | 76
+10.1.3. Strategies | 76
+Chapter 11: Adult Literacy and NFE | 78
+11.1. Adult Literacy | 78
+11.1.1. Current Situation | 78
+11.1.2. Strategic Objective | 79
+11.1.3. Strategies: | 79
+Chapter 12: Financing the BESP | 81
+12.1. Budgetary Trends | 81
+12.2. External Sources | 84
+12.3. Sector Shares | 84
+12.4. Utilisation | 86
+12.5. Costing Strategies | 86
+12.6. Potential Sources | 87
+Annex 1: Results Matrices | i
+Annex 1.1 : Improving Quality Education | i
+Annex 1.1.1: Early Childhood Education | xxiii
+Annex 1.2: Access and Equity | xxxi
+Annex 1.2.1 Inclusive Education | xxxvi
+Annex 1.3 : Governance & Management | xlv
+Annex 1.4: Higher Education | liv
+Annex 1.5: Adult literacy & NFE | lxiii
+Annex 2: Implementation Matrices | lxxvi
+Annex 2.1 : Quality Education | lxxvi
+Annex 2.1.1: Early Childhood Education | ci
+Annex 2.2: Access and Equity | cix
+Annex 2.2.1: Inclusive Education | cxv
+Annex 2.2.2: Disaster Risk Reduction (DRR) | cxxv
+Annex 2.3: Governance and Management | cxxvii
+Annex 2.4: Higher Education | cxxxviii
+Annex 2.5: Adult Literacy and NFE | cxlv
+Bibliography | clv
 
 3
 
@@ -25,6 +184,51 @@
 [[START OF PAGE 5]]
 
 # Acronyms
+
+ACO | Assistant Coordination Officer
+--- | ---
+B.A | Bachelor of Arts
+B.Ed | Bachelor of Education
+B.Sc | Bachelor of Science
+BACT | Balochistan Academy for College Teacher
+BEF | Balochistan Education Foundation
+BEMIS | Balochistan Education Management Information System
+BISE | Board of Intermediate and Secondary Education
+BOC & EC | Bureau of Curriculum and Extension Centre
+BPSC | Balochistan Public Service Commission
+BTBB | Balochistan Text Book Board
+BUITEMS | Balochistan University of Information, Technology, Engineering and Management Sciences
+CBOs | Community Based Organizations
+CPD | Continuous Professional Development
+CT | Certificate of Teaching
+DBS | Direct Budgetary Support
+DEMIS | District Education Management Information System
+ECE | Early Childhood Education
+EDO (E) | Executive District Officer (Education)
+EFA | Education for All
+ESR | Education Sector Reform
+FGD | Focused Group Discussion
+GAT | Graduate Aptitude Test
+GoB | Government of Balochistan
+GDP | Gross Domestic Product
+GIZ | German International Cooperation
+GRE | Graduate Record Examination
+HE | Higher Education
+HEC | Higher Education Commission
+ICT | Information & Communication Technology
+M&E | Monitoring and Evaluation
+M.Ed | Master of Education
+MDGs | Millennium Development Goals
+MTDF | Medium Term Development Framework
+NFBES | Non-formal Basic Education School
+NCHD | National Commission for Human Development
+NEAS | National Education Assessment System
+NEF | National Education Foundation
+NEMIS | National Education Management Information System
+NEP | National Education Policy
+NER | Net Enrolment Rate
+NFBE | Non formal Basic Education
+NGO | Non Government Organization
 
 4
 
@@ -356,12 +560,23 @@ Straight Transfers & Federal Grants | 26.204 | 36.274 | 16.398 | 13.41
 Grants to Balochistan (Arrears of GDS 2003-2009) | 0 | 0 | 2 | 2
 Grants to Balochistan (Arrears of GDS prior 1991 - AHBP) | 0 | 0 | 10 | 10
 Balochistan's Own Receipts | 3.646 | 2.454 | 4.129 | 4.85
-Balochistan's Share in GST on | 0 | 0 | 0 | 4.85
-Services Total | 59.055 | 69.184 | 115.527 | 128.365
+Balochistan's Share in GST on Services | 0 | 0 | 0 | 4.85
+Total | 59.055 | 69.184 | 115.527 | 128.365
 
 Source: White Paper on Budget 2010-11 and Budget 2011-12
 
 The net impact of NFC, which decides the sharing formula for the 'Federal Divisible Pool 8 ' is also shown in figure 3.1 below:
+
+Figure 3.1. Impact of Revised NFC
+
+Amount in Billion
+
+Series1, 2009-10, 29.205
+Series1, 2009-10[R], 30.456
+Series1, 2010-11, 83
+Series1, 2011-12, 93.255
+
+Federal Divisible Pool Taxes
 
 Source: White Paper on Budget 2010-11 and Budget 2011-12
 
@@ -385,21 +600,21 @@ Education, like other social sectors, is not an exception. Balochistan has the l
 
 Table 3.2: Comparative Education Indicators Pakistan
 --- | --- | --- | --- | --- | ---
-Gender | Punjab | Sindh | KPK | Balochistan
-Pop. that ever attended | M | 72 | 72 | 71 | 61
-school | F | 53 | 47 | 35 | 20
-Pop. that completed | M | 60 | 62 | 57 | 48
-primary or above | F | 44 | 40 | 26 | 13
+ | Gender | Punjab | Sindh | KPK | Balochistan
+Pop. that ever attended school | M | 72 | 72 | 71 | 61
+ | F | 53 | 47 | 35 | 20
+Pop. that completed primary or above | M | 60 | 62 | 57 | 48
+ | F | 44 | 40 | 26 | 13
 GER Primary (6-10) | M | 103 | 91 | 100 | 92
-F | 92 | 71 | 76 | 54
+ | F | 92 | 71 | 76 | 54
 NER Primary (6-10) | M | 73 | 68 | 71 | 68
-F | 68 | 55 | 56 | 40
+ | F | 68 | 55 | 56 | 40
 NER Middle (11-13) | M | 38 | 39 | 40 | 34
-F | 32 | 32 | 25 | 13
+ | F | 32 | 32 | 25 | 13
 NER Secondary (14-15) | M | 24 | 26 | 23 | 21
-F | 21 | 20 | 14 | 4
+ | F | 21 | 20 | 14 | 4
 Literacy Rate 15+ | M | 67 | 71 | 65 | 56
-F | 47 | 43 | 28 | 15
+ | F | 47 | 43 | 28 | 15
 
 Source: PSLM 2010-11
 
@@ -538,7 +753,7 @@ Provincial Institute of Teacher Education is responsible for in service teacher 
 
 #### 4.2.1.4. Bureau of Curriculum and Extension Services (BOC & EC)
 
-The Bureau of Curriculum and Extension Centre (BOC&EC) was created for research on  curriculum  in  1971.  After  curriculum  became  a  federal  subject  in  1976  its mandate shifted to  represent the  provincial  government  in  the  curriculum  review process.  The  Bureau  under  the  rubric  of  the  Extension  Centre  conducts  teacher training  as  well.  It  is  administratively  responsible  for  the eleven  public  sector  preservice  teacher  education  colleges in  the  province.  BOC  also  houses  the Provincial Education Assessment Centre (PEACE) responsible for diagnostic assessments of the sector. The Bureau has its own cadre of personnel.
+The Bureau of Curriculum and Extension Centre (BOC&EC) was created for research on  curriculum  in  1971.  After  curriculum  became  a  federal  subject  in  1976  its mandate shifted to  represent the  provincial  government  in  the  curriculum  review process.  The  Bureau  under  the  rubric  of  the  Extension  Centre  conducts  teacher training  as  well.  It  is  administratively  responsible  for  the eleven  public  sector  pre-service  teacher  education  colleges in  the  province.  BOC  also  houses  the Provincial Education Assessment Centre (PEACE) responsible for diagnostic assessments of the sector. The Bureau has its own cadre of personnel.
 
 #### 4.2.1.5. Balochistan Textbook Board (BTBB)
 
@@ -556,7 +771,7 @@ Set up in 2009 this specialized unit has the role of coordination of the reforms
 
 ### 4.2.2. Department of Higher Education
 
-The  Department  of  Higher  Education  administers  public  sector  colleges  in  the province.  These  include one  College  of  Technical  Education,  one  Polytechnic Institute, one Commerce College, three Residential and four Cadet Colleges. The last two types mentioned have classes from grades 6 to 12. All colleges also have the intermediate  level,  grades  11  and  12.  Substantive  overlap  exists  between  the secondary and higher education departments as they both depend on the services of the Balochistan Textbook Board, Bureau of Curriculum and Extension Services and the Board of Intermediate and Secondary Education as all of these cover grades 1 to 12.  While  the  former  two  organisations  are  under  the  Department  of  Secondary Education,  the  BISE  falls  under  the  administrative  control  of  the  Department  for Higher  Education.  The  BISE  conducts  examinations  for  grades  9  through  12.  This forms  the  second  overlap  with  Department  of  Secondary  Education.  Additional, potential overlaps, exist in the teacher training department as the BOC controls preservice education and the PITE has the mandate for in service training of teachers at the school level.
+The  Department  of  Higher  Education  administers  public  sector  colleges  in  the province.  These  include one  College  of  Technical  Education,  one  Polytechnic Institute, one Commerce College, three Residential and four Cadet Colleges. The last two types mentioned have classes from grades 6 to 12. All colleges also have the intermediate  level,  grades  11  and  12.  Substantive  overlap  exists  between  the secondary and higher education departments as they both depend on the services of the Balochistan Textbook Board, Bureau of Curriculum and Extension Services and the Board of Intermediate and Secondary Education as all of these cover grades 1 to 12.  While  the  former  two  organisations  are  under  the  Department  of  Secondary Education,  the  BISE  falls  under  the  administrative  control  of  the  Department  for Higher  Education.  The  BISE  conducts  examinations  for  grades  9  through  12.  This forms  the  second  overlap  with  Department  of  Secondary  Education.  Additional, potential overlaps, exist in the teacher training department as the BOC controls pre-service education and the PITE has the mandate for in service training of teachers at the school level.
 
 #### 4.2.2.1. Directorate of Colleges (DOC)
 
@@ -574,7 +789,7 @@ Board of Intermediate and Secondary Education is responsible for public examinat
 
 [[START OF PAGE 26]]
 
-#### 4.2.2.3. Balochistan Academy for College Teachers |BACT)
+#### 4.2.2.3. Balochistan Academy for College Teachers (BACT)
 
 Balochistan Academy for College Teachers was set up in 2004 with the mandate of professional  development  of  college  teachers.  It  has  imparted  training  to  all  the college teachers who have been appointed under the Aghaz I Haqooq Balochistan package,  an  intervention  of  the  federal  government.  It  has  also  undertaken  the capacity building of college principal and vice principals besides training of college teachers in instructional techniques and service rules. It has minimal staff as it is still in the inception stage.
 
@@ -598,7 +813,7 @@ The  Department  of  Social  Welfare  has  the  mandate  for  Literacy  and  Non
 
 #### 4.2.4.1. Directorate of Literacy
 
-Directorate of Literacy and Non-formal Education was established in Balochistan in 1991. Before this date the few literacy programmes  in  the province were administratively controlled by the Department of Education while the funding was received from the Federal Government. Initially the Directorate was set up through UNICEF's support. The latter offered small funding for 1 year in shape of salaries, furniture and a centre of development (for females) in 3 districts namely Sibi, Quetta and  Loralai.  In  1993  the  government  approved  it  as  a  regular  directorate.  It  has oscillated between the Department of Education and the Social Welfare Department over  the  last  10  years.  Its  main  development  activities  have  been  funded  by  the Federal Education Sector Reform (ESR) since 2003 and continues to be dependent on this source of funding.
+Directorate of Literacy and Non-formal Education was established in Balochistan in 1991. Before this date the few literacy programmes in the province were administratively controlled by the Department of Education while the funding was received from the Federal Government. Initially the Directorate was set up through UNICEF's support. The latter offered small funding for 1 year in shape of salaries, furniture and a centre of development (for females) in 3 districts namely Sibi, Quetta
 
 19
 
@@ -606,9 +821,11 @@ Directorate of Literacy and Non-formal Education was established in Balochistan 
 
 [[START OF PAGE 27]]
 
+and Loralai. In 1993 the government approved it as a regular directorate. It has oscillated between the Department of Education and the Social Welfare Department over the last 10 years. Its main development activities have been funded by the Federal Education Sector Reform (ESR) since 2003 and continues to be dependent on this source of funding.
+
 ### 4.2.5. National Commission for Human Development (NCHD)
 
-The  NCHD  was  formed  under  the  last  military  government  as  a  non  government organization  funded  by  the  federal  government.  In  Balochistan  it  played  a  critical role in setting up satellite schools in remote areas and literacy centres in all districts. Its monitoring processes supported the work of the Directorate of Literacy and NFE. After  the  18 th Constitutional  Amendment  the  role  of  the  organization  has  been questioned,  specifically,  the  continuation  of  federal  funding.  While  an  interim solution has been reached through ad hoc funding by the federal government the final status remains unclear.
+The NCHD was formed under the last military government as a non government organization funded by the federal government. In Balochistan it played a critical role in setting up satellite schools in remote areas and literacy centres in all districts. Its monitoring processes supported the work of the Directorate of Literacy and NFE. After the 18th Constitutional Amendment the role of the organization has been questioned, specifically, the continuation of federal funding. While an interim solution has been reached through ad hoc funding by the federal government the final status remains unclear.
 
 ### 4.2.6. National Education Foundation (NEF)
 
@@ -654,7 +871,7 @@ The framework of BESP has been based on a number of documents and concepts. Thes
 
 ## 5.1. National Education Policy 2009
 
-National Education Policy was prepared in 2009 by the erstwhile Federal Ministry of Education. Theoretically it is the extant national policy although its status remains unclear after the 18 th Constitutional Amendment that has devolved education to the provinces. The policy itself was prepared through a widespread consultative process with involvement of stakeholders from all over Pakistan. All the provincial governments were involved. The BESP has used the policy recommendations of the NEP  as  the  basis  for  strategy  development  as  most  of  them  were  seen  as appropriate responses to the diagnosis of the Situation Analysis.
+National Education Policy was prepared in 2009 by the erstwhile Federal Ministry of Education. Theoretically it is the extant national policy although its status remains unclear after the 18th Constitutional Amendment that has devolved education to the provinces. The policy itself was prepared through a widespread consultative process with involvement of stakeholders from all over Pakistan. All the provincial governments were involved. The BESP has used the policy recommendations of the NEP as the basis for strategy development as most of them were seen as appropriate responses to the diagnosis of the Situation Analysis.
 
 ## 5.2. Article 25A
 
@@ -783,7 +1000,13 @@ The highest oversight body will be the Provincial Standing Committee on Educatio
 
 Figure 5.1: Oversight Mechanism for BESP
 
-An important concomitant of the monitoring process will be capacity development of PPIU on a fast track basis as it will function as the secretariat to all of the above committees  and  as  the  coordinators  of  the  implementation  process.  Initially  coopted support from the market may be provided by a donor partner but eventually internal capacity will have to be developed. PPIU will ensure implementation of the Sector Plan in the districts and the specialized agencies at the provincial headquarters. It will develop capacity to disseminate targets and review progress on the basis of identified indicators. Ideally this should place the services of BEMIS at PPIU's disposal.
+High Level committee
+
+Secretariate(PPIU)
+
+Donor-Gov Group | Organisational Unit | District Unit
+
+An important concomitant of the monitoring process will be capacity development of PPIU on a fast track basis as it will function as the secretariat to all of the above committees and as the coordinators of the implementation process. Initially co-opted support from the market may be provided by a donor partner but eventually internal capacity will have to be developed. PPIU will ensure implementation of the Sector Plan in the districts and the specialized agencies at the provincial headquarters. It will develop capacity to disseminate targets and review progress on the basis of identified indicators. Ideally this should place the services of BEMIS at PPIU's disposal.
 
 Each organisation will be responsible for implementation and monitoring of its own components as shown in the matrices in the annex and figure 5.1. A focal person will be nominated by each agency (i.e BTBB, BOC&ES etc.) for coordinating with the PPIU and reporting on progress against activities and indicators for its component.
 
@@ -821,13 +1044,13 @@ A stakeholder mapping was completed on the basis of two components: stakeholders
 
 [[START OF PAGE 34]]
 
-Power
---- | --- | ---
-Low | High
-Interest | 1 | 2
-3 | 4
+Figure 5.2: Stakeholders Analysis
 
-Figure  5.2:  Stakeholders  Analysis
+Power
+Low | High
+Interest
+Low | 1 | 2
+High | 3 | 4
 
 The four quadrants of the figure show the level of influence (or potential influence) of each stakeholder. The most influential being the stakeholders in quadrant 4 with a high interest-high power combination followed by 3, 2 and 1.
 
@@ -856,10 +1079,11 @@ Almost all those stakeholders with interest, rights, resources, powers and abili
 [[START OF PAGE 35]]
 
 Figure 5.3
---- | ---
-Interest
-Powers | High(H) Low(L)
-Low(L) | Parents, PTSMCs, Beneficiaries Students, BOC, PITE, BTTB, BISE & BACT; CBOs, Public service commission, Head teachers General community, NGOs, Publishers,
+
+Interest | High(H) | Low(L)
+--- | --- | ---
+Powers High(H) | Education Departments; Specifically PPIU | Finance Department; P&D Department; District management; Legislators; Politicians; Teacher Associations; Media; Private institutions; Teacher training institutes, Donors
+Powers Low(L) | Parents, PTSMCs, Beneficiaries, Students, BOC, PITE, BTTB, BISE & BACT; CBOs, Public service commission, Head teachers, Teachers | General community, NGOs, Publishers,
 
 During  the  course  of  interaction  with  educationist,  teachers,  administrators  and community  members  it  was  found  that  each  group  has  diverse  ideas  towards education and its reforms. The low internal efficiency of the existing multifaceted education  system  and  low  quality  delivery  to  the  market  effect  the  cognitive development of children and youth of the society and impede the economic growth of the country.
 
@@ -973,7 +1197,8 @@ Mathematics (Grade 8)
 Science (Grade 8)
 Reading Ability (Grade 5) | Baseline to be developed
 Examination results (pass %age) matric] | 86.52% | 87.04%
-Examination results (1st divisioner %age) [matric] Examination results (pass | 72.64% | 0.7328
+Examination results (1st divisioner %age) [matric]
+Examination results (pass | 72.64% | 0.7328
 
 > 13 PEACE data for 2008 has been used as it is the latest year for which the assessment was conducted.
 
@@ -1027,7 +1252,31 @@ Figure 6.1:
 
 [[START OF PAGE 42]]
 
-Figure 1 explains the arrangement for standards wherein the standards will be prepared for each of the organisations with BOC given the central role of monitoring. The BOC's writ will be  restricted  to  output  level  standards  for  each  of  the  organisations  while  the  latter  will develop  (or  review)  their  input  and  process  standards  accordingly.  To  the  extent  the Directorate  of  Colleges  deals  with  school  level  issues  (intermediate  level,  residential  and cadet colleges) it will form part of the process.
+TBB (Textbook Preparation)
+
+Monitoring of Standards
+
+BISE (Assessment)
+
+Monitoring of Standards
+
+BOC (Curriculum, Standards, Textbooks Approval, Research)
+
+Monitoring of Standards
+
+PITE (Trainings)
+
+Monitoring of Standards
+PEAC
+Research
+
+Directorate (User of Services)
+
+Each organisation to have:
+1. Capacity for internal audit of standards
+2. Research capacity
+
+Figure 1 explains the arrangement for standards wherein the standards will be prepared for each of the organisations with BOC given the central role of monitoring. The BOC's writ will be restricted to output level standards for each of the organisations while the latter will develop (or review) their input and process standards accordingly. To the extent the Directorate of Colleges deals with school level issues (intermediate level, residential and cadet colleges) it will form part of the process.
 
 In case of higher education the Higher Education Commission (HEC) has already developed standards  at  the  federal  level,  although,  these  have  been  targeted  at  universities  only. Standards  for  college  education  have  not  been  reviewed  and  most  of  the  current benchmarks  pertain  to  inputs  and  processes.  Output  level  standards  have  not  been prepared. At this level Balochistan Academy for College Teachers (BACT) should undertake the task in coordination with the University of Balochistan.
 
@@ -1091,6 +1340,15 @@ Quality  has  been  at  the  periphery  of  education  reforms  in  the  past  a
 
 Learning Outcomes PEACE 2008
 
+Figure 7.1: PEACE Scores 2008
+
+ | Maths | Science | Social Studies | Urdu
+--- | --- | --- | --- | ---
+Rural | 415 | 473 | 521 | 380
+Urban | 385 | 458 | 489 | 388
+Male | 416 | 469 | 513 | 377
+Female | 393 | 469 | 514 | 390
+
 Source: PEACE Balochistan Report 2008
 
 37
@@ -1107,27 +1365,18 @@ A  disconnect  exists  across  the  quality  related  organisations.  The  Direc
 
 Box 7.1 : Rote Learning in Schools
 
-Pakistan's curriculum is based on Bloom's taxonomy. As depicted in the figure below the
+Pakistan's curriculum is based on Bloom's taxonomy. As depicted in the figure below the taxonomy has different levels of learning in its 'cognitive domain' (The 'affective domain' and 'pyscho-motor skills' being the other two areas).
 
-taxonomy has different levels of learning in its 'cognitive domain' (The 'affective domain'
+Cognitive domain
+Evaluation
+Synthesis
+Analysis
+Application
+Comprehension
+Knowledge
+Rote learning partially covers this level only
 
-and
-
-'pyscho-motor
-
-skills'
-
-being
-
-the
-
-other
-
-two
-
-areas).
-
-A  good  learning  process  teaches  the  child  all  of  the  various  levels  of  learning  from knowledge  to  evaluation:  a  process  that  is  initiated  from  early  childhood  education. There is a consensus among all educators that all public schools and a majority of the private schools do not take a learner beyond the first level of knowledge and higher level thinking is never developed.
+A good learning process teaches the child all of the various levels of learning from knowledge to evaluation: a process that is initiated from early childhood education. There is a consensus among all educators that all public schools and a majority of the private schools do not take a learner beyond the first level of knowledge and higher level thinking is never developed.
 
 determined processes have no, or little feedback, from the field to gauge the realities of the classroom.
 
@@ -1176,7 +1425,7 @@ GPI in SLOs | Baseline needed
 
 [[START OF PAGE 47]]
 
-Gender issues in key inputs | Baseline needed
+Gender issues in key inputs (textbooks, exams, curriculum)14 | Baseline needed
 --- | ---
 
 ### 7.1.4. Strategies
@@ -1195,11 +1444,11 @@ Improvement in quality is envisaged to emerge from the following strategies:
 
 ## 7.2. Curriculum
 
-Curriculum  development  has  been  devolved  to  the  provincial  government  after  the  18 th constitutional  amendment  in  2010.  It  had  remained  an  exclusively  federal  subject  since 1976.  As  the  provincial  education  department  has  not  had  any  experience  in  curriculum review  and  development,  beyond  the  minimal  involvement  in  federally  managed  review processes, the government has decided to adopt Curriculum 2006 prepared by the erstwhile Ministry of Education.
+Curriculum development has been devolved to the provincial government after the 18th constitutional amendment in 2010. It had remained an exclusively federal subject since 1976. As the provincial education department has not had any experience in curriculum review and development, beyond the minimal involvement in federally managed review processes, the government has decided to adopt Curriculum 2006 prepared by the erstwhile Ministry of Education.
 
 ### 7.2.1. Current Situation
 
-Capacity to prepare a curriculum does not exist in the province at present as only under the recently passed 18 th amendment the mandate has been returned to provincial governments after 1976. In view of the capacity vacuum the provincial government has decided to adopt the last curriculum prepared by the Federal government in 2006.
+Capacity to prepare a curriculum does not exist in the province at present as only under the recently passed 18th amendment the mandate has been returned to provincial governments after 1976. In view of the capacity vacuum the provincial government has decided to adopt the last curriculum prepared by the Federal government in 2006.
 
 Curriculum  implementation  over  the  years  has  been  limited  to  preparation  of  textbooks only.  Most  teachers,  other  professionals  including  examiners,  parents  and  education managers  have  never  seen  a  curriculum  document.  Therefore  teaching  and  assessment remain dependent on the textbook alone. Also no feedback mechanism exists to assess the gaps between actual, taught and learned curriculum.
 
@@ -1265,7 +1514,7 @@ Capacity for curriculum review and implementation will have to be enhanced at tw
 
 ## 7.3. Textbooks
 
-Balochistan textbook board has been responsible for development of provincial textbooks since  its  inception  in  1977.  Until  the  18 th Amendment  to  the  Constitution  the  federal government had the responsibility for final approval to textbooks for reading in schools. The function has now been devolved to the provincial government. The current reforms provide an  opportunity  to  demarcate  the  processes  for  review  and  approval,  to  be  undertaken respectively  by  the  BTBB  and  BOC,  as  distinct  functions  that  require  separate  terms  of reference, while (more critically) improve the quality of textbooks themselves.
+Balochistan textbook board has been responsible for development of provincial textbooks since its inception in 1977. Until the 18th Amendment to the Constitution the federal government had the responsibility for final approval to textbooks for reading in schools. The function has now been devolved to the provincial government. The current reforms provide an opportunity to demarcate the processes for review and approval, to be undertaken respectively by the BTBB and BOC, as distinct functions that require separate terms of reference, while (more critically) improve the quality of textbooks themselves.
 
 ### 7.3.1. Current Situation
 
@@ -1293,13 +1542,13 @@ Fundamental  changes  in  the  textbook  development  and  review  processes  ar
 
 The  sector  plan  recommends  a  standardized  review  process  coordinated  by  the Balochistan Textbook Board that includes officials from the Directorates of school and colleges and any expert co-opted by the BTBB. In addition to the work of the core review committee  the  process  should  include  feedback  from  teachers  and  field-testing.    The committee should also develop standards for personnel involved in review and approval of  textbooks  and  most  critically  a  set  of  parameters  to  determine  the  quality  of  the textbooks. The standards must clearly demarcate, and cater to, the learning needs of students  at  each  level.  This  means  increased  local  context  at  the  primary  level  and improved explanation and presentation of concepts in senior classes.
 
-The  BTBB,  in  consultation  with  BOC,  will  have  to  develop  standards  for  textbook preparation  that  include  feedback  from  the  field.  Also  once  books  are  developed  an ongoing  feedback  mechanism  will  be  required  to  improve  subsequent  editions  of  the textbooks. The roles and responsibilities of BOC and BTBB will also be reviewed as the governance and management of textbook development has undergone a transition due to three major changes: the 18 th Constitutional Amendment, Curriculum 2006 and the textbooks policy of 2007.  The provincial government under the Balochistan Action Plan 2011 has already approved adaptation of the last two documents mentioned.
+The BTBB, in consultation with BOC, will have to develop standards for textbook preparation that include feedback from the field. Also once books are developed an ongoing feedback mechanism will be required to improve subsequent editions of the textbooks. The roles and responsibilities of BOC and BTBB will also be reviewed as the governance and management of textbook development has undergone a transition due to three major changes: the 18th Constitutional Amendment, Curriculum 2006 and the textbooks policy of 2007. The provincial government under the Balochistan Action Plan 2011 has already approved adaptation of the last two documents mentioned.
 
 As  the  standards  development  process  will  require  a  long  period,  interim  standards should be developed to fast track Phase I of the implementation of Curriculum 2006.
 
 #### 2. Adaption  and  implementation  of  Textbooks  Policy  2007  for  competitive  publishing through the private sector
 
-The  role  of  the  BTBB  in  development  of  textbooks  (also  review)  will  have  to  be  redefined in the light of the National Textbooks Policy 2007.The Policy shifted the textbook development process from the textbook boards to private sector publishers. Khyberpakhtunkhwa, Punjab and Sindh have already developed some textbooks under the process. Balochistan has been the only province without a book approved under the policy or prepared as per Curriculum 2006. The policy will need to be reviewed, as some sections are relevant to a federal dispensation, and be adapted to provincial requirements.
+The role of the BTBB in development of textbooks (also review) will have to be re-defined in the light of the National Textbooks Policy 2007.The Policy shifted the textbook development process from the textbook boards to private sector publishers. Khyberpakhtunkhwa, Punjab and Sindh have already developed some textbooks under the process. Balochistan has been the only province without a book approved under the policy or prepared as per Curriculum 2006. The policy will need to be reviewed, as some sections are relevant to a federal dispensation, and be adapted to provincial requirements.
 
 Preparation  of  textbooks  under  the  policy  will  require  the  Board  to  function  as  a regulator  and  not  a  direct  developer  as  in  the  past.  The  private  publishers,  through  a competitive bidding process, will develop textbooks
 
@@ -1327,7 +1576,7 @@ Provincial  Institute  of  Teachers  Education  and  BOC  &  EC  undertake  in-s
 
 ### 7.4.1. Current Situation
 
-The  sporadic  and  piecemeal  approach  to  teacher  training  has  been  undertaken  without assessment and documentation of the impact of the interventions in improved teaching and learning  in  the  classroom.  No  benchmark  (beyond  limited  project  specific  ones)  has  ever been  developed.  Additionally  quality  of  the  programmes  has  been  marred  by  nontransparent selection of trainees and a failure to maintain a database for the trainings and hence professional development of the teaching force has mostly not been documented.
+The sporadic and piecemeal approach to teacher training has been undertaken without assessment and documentation of the impact of the interventions in improved teaching and learning in the classroom. No benchmark (beyond limited project specific ones) has ever been developed. Additionally quality of the programmes has been marred by non-transparent selection of trainees and a failure to maintain a database for the trainings and hence professional development of the teaching force has mostly not been documented.
 
 An overall continuous professional development process, based on a holistic and ongoing assessment of the needs of the teachers and students, has never been established.
 
@@ -1417,7 +1666,7 @@ Balochistan will have to phase out PTC, CT and 2 year B.Ed in a stipulated time 
 
 #### 3. Develop standards for pre-service teacher education
 
-In  recent  years  the  Pre-Step  project  funded  by  the  USAID  has  developed  pre-service teacher education standards in Pakistan. These standards focus on outputs of the preservice  teacher  education,  as  well  as  the  processes.  Presently  the  Pre-step  project  is working  with  the  Bureau  of  Curriculum  and  Extension  Centre  and  the  Policy  Planning and Implementation Unit (PPIU) to implement these standards in Balochistan. Pre-step envisages  a  four  year  B.Ed  programme  with  the  two  years  Associate  Diploma  in Education as a possible midway certificate. It also calls for accreditation of pre-service education institutions.
+In recent years the Pre-Step project funded by the USAID has developed pre-service teacher education standards in Pakistan. These standards focus on outputs of the pre-service teacher education, as well as the processes. Presently the Pre-step project is working with the Bureau of Curriculum and Extension Centre and the Policy Planning and Implementation Unit (PPIU) to implement these standards in Balochistan. Pre-step envisages a four year B.Ed programme with the two years Associate Diploma in Education as a possible midway certificate. It also calls for accreditation of pre-service education institutions.
 
 47
 
@@ -1437,7 +1686,7 @@ Given the increasing share of private sector pre-service institutions it is impe
 
 The  BOC  will  need  to  oversee  the  government  run  colleges  of  education  under  its administrative control from an academic perspective also in close collaboration with the Higher Education Commission. The Bureau should also be the regulator of standards in private institutions.
 
-The biggest challenge will be faculty development as most of the current teachers in preservice institutions have neither the training nor the motivation to perform. To improve the quality of professionals engaged in pre-service teacher education, BESP recommends a  faculty  development  programme  and  a  career  structure.  At  present  no  career structure or incentives exist for the faculty members of pre-service education.
+The biggest challenge will be faculty development as most of the current teachers in pre-service institutions have neither the training nor the motivation to perform. To improve the quality of professionals engaged in pre-service teacher education, BESP recommends a faculty development programme and a career structure. At present no career structure or incentives exist for the faculty members of pre-service education.
 
 ## 7.6. Assessments
 
@@ -1671,7 +1920,7 @@ The  second  language  of  education  in  the  country,  and  the  province,  ha
 
 The policy imposed across the country fails to accommodate the early years of children from different communities, most of whom have a monolingual environment.
 
-Most graduates of the secondary and higher secondary levels have proficiency in neither of the two languages taught at the school level: English and Urdu. This is partially due to weak cognitive development in the absence of mother tongue as the medium of instruction in the early years. Other important factors include poor teaching capacity and unrealistic courses at senior level which have a heavy emphasis on classic literature than language. Practically even  students  in  9 th grade  can  learn  English  only  as  a  second  language.  They  are  not prepared for the literature heavy courses. The same is true of Urdu also, though to a lesser extent in urban areas.
+Most graduates of the secondary and higher secondary levels have proficiency in neither of the two languages taught at the school level: English and Urdu. This is partially due to weak cognitive development in the absence of mother tongue as the medium of instruction in the early years. Other important factors include poor teaching capacity and unrealistic courses at senior level which have a heavy emphasis on classic literature than language. Practically even students in 9th grade can learn English only as a second language. They are not prepared for the literature heavy courses. The same is true of Urdu also, though to a lesser extent in urban areas.
 
 Capacity to teach languages is also poor. This is, especially, true of the mother tongue and the English language. Any policy to introduce a different language set will have to address capacity issues.
 
@@ -1795,6 +2044,16 @@ Access issues manifest in three dimensions: overall the NER for the province has
 
 Figure 8.1: NER Trend 2004-11
 
+NER Trends 2004-2011
+60 | 50 | 40 | 30 | 20 | 10 | 0
+0 | 1 | 2 | 3 | 4 | 5 | 6 | 7
+Primary (6-10) | 44 | 39 | 50 | 51 | 54 | 56
+Middle (11-13) | 17 | 14 | 19 | 22 | 45 | 25
+Secondary (14-15) | 9 | 10 | 10 | 12 | 11 | 14
+Expon. (Primary (6-10))
+Expon. (Middle (11-13))
+Expon. (Secondary (14-15))
+
 Source: PSLMs 2004-2011
 
 > 17 Source: various issues of Pakistan Social and Living Measurements Survey
@@ -1808,6 +2067,15 @@ Source: PSLMs 2004-2011
 The issue of gender is depicted in figure 8.2 18 which describes the percentage of female to enrolment to total enrolment across the 82 sub divisions (known as Tehsil ).  As can be seen the bulk of these have less than 50% female enrolment.
 
 Figure 8.2: Gender Enrolment Gap
+
+Gender Enrolment Gap
+Tehsil-wise
+70 | 60 | 50 | 40 | 30 | 20 | 10 | 0
+Axis Title
+<=0% | <=10% | 11%-20% | 21%-30% | 31%-40% | 41%-50% | 51%-60% | 61%-70% | 71%-80% | 81%-90% | >90%
+High
+Middle
+Primary
 
 Source: BEMIS 2010-11
 
@@ -1829,11 +2097,13 @@ The situation on limited availability of middle and secondary schools has to be 
 
 The average annual expenditure at the various levels remains high at Rs. 8,550 for primary, Rs. 15,595 for middle and Rs. 14,717 at secondary. In contrast the average private school charges Rs. 2400 to Rs. 4800 per year.
 
-Source:
+Figure 8.3: Average annual per student expenditure
 
-Budget
+8550 | 15595 | 14717
+primary | middle | high
+Series1
 
-2010-11
+Source: Budget 2010-11
 
 The range of annual costs for the government schools for level is given in the table below:
 
@@ -1851,7 +2121,7 @@ Highest  expenditure  at  primary  level  is  of  district  Quetta  Rs.  17,991 
 
 [[START OF PAGE 69]]
 
-Improved  utilization  of  schools  requires  an  effective  non-formal  education  system  that provides a second opportunity to 'drop out' and 'left out' students. At present the provincial government has no financial provision for Non formal education, officially in the domain of the  Social  Welfare  Department.  The  main  intervention  in  non  formal  education  has  been provided  by  the  federally  run  National  Education  Foundation  (NEF).  The  Implementation Committee for the 18 th Amendment had dissolved the organization but the Supreme Court of  Pakistan  has  ordered its continuation and now, after an uncertainty period, the NEF is expected to revive operations.
+Improved utilization of schools requires an effective non-formal education system that provides a second opportunity to 'drop out' and 'left out' students. At present the provincial government has no financial provision for Non formal education, officially in the domain of the Social Welfare Department. The main intervention in non formal education has been provided by the federally run National Education Foundation (NEF). The Implementation Committee for the 18th Amendment had dissolved the organization but the Supreme Court of Pakistan has ordered its continuation and now, after an uncertainty period, the NEF is expected to revive operations.
 
 A key problem with NEF has been its inability to link its effort to mainstream schools (or the work of the Directorate of Schools. No documentation traces the education path of students enrolled in NEF schools, after they leave. Also the current system only targets children for primary school re-enrolment and not higher levels.  The Directorate of Education has also never proactively pursued coordination with NEF.
 
@@ -1877,11 +2147,11 @@ Increased enrolment and retention of the children in school with elimination of 
 
 Goal: To ensure access to quality education to every child as per the stipulation of Article 25A of the Constitution of Islamic Republic of Pakistan.
 
+Target: Reduce Out of School Children by 30% over the plan period 2013-17
+
 Table 8.2: Indicators for Access and Equity
 --- | --- | ---
 Indicators | Current | Target for
-
-Target: Reduce Out of School Children by 30% over the plan period 2013-17
 
 62
 
@@ -1981,7 +2251,7 @@ The sector plan recommends increased focus on improvements in utilization of exi
 
 #### 5. Effective Non Formal Education
 
-To achieve targets of Article 25A in minimum possible time out of school children will need  to  be  provided  opportunities  to  enter  the  formal  school  system.  A  strong  nonformal education system will assist in achievement of the targets.
+To achieve targets of Article 25A in minimum possible time out of school children will need to be provided opportunities to enter the formal school system. A strong non-formal education system will assist in achievement of the targets.
 
 The  sector  plan  recommends  formal  coordination  between  the  NEF  and  functional Literacy and Non Formal Education Directorate (DLNFE) 19 and the Directorate of Schools to  develop  a  strategy  for  ensuring  that  the  NEF  schools  do  not  poach  children  from formal schools through provision of incentives and also the children from NFE eventually mainstream into the formal schools.
 
@@ -2187,7 +2457,7 @@ The madrassahs form the third main tier in the parallel education structures. It
 
 - Include the private sector into mainstream education through development of a policy framework for the sector.
 
-#### Supportive political intervention in the education sector
+#### 9. Supportive political intervention in the education sector
 
 Three key steps are need to involve the political leadership in educational reforms and to secure the department from intrusive non-meritocratic pressures.
 
@@ -2265,7 +2535,7 @@ The sector plan recommends filling in the current policy vacuum through developm
 
 ### 9.1.4. Overall Targets
 
-Goal: Improve quality of education by enforcing good governance & put into effect wellinformed management in Balochistan to utilize educational resources efficiently and effectively.
+Goal: Improve quality of education by enforcing good governance & put into effect well-informed management in Balochistan to utilize educational resources efficiently and effectively.
 
 73
 
@@ -2273,17 +2543,17 @@ Goal: Improve quality of education by enforcing good governance & put into effec
 
 [[START OF PAGE 81]]
 
+Targets: De-politicized and decentralized merit based management approach focused on student learning and welfare.
+
 Table 9.2: Output Indicators for Governance
 --- | --- | ---
 Indicators | Current Situation | Target for 2015
 Public expenditure on education as percentage of total government expenditure | 13.79% | 16%
 Per pupil expenditure range across levels | 12500 | 16000
-Range of teacher per school per district | Study to set the base line
-Average number of days teachers present in school | Baseline needed
-Average tenure of key managerial positions | Baseline needed
-%age of females in key management positions | Baseline needed
-
-Targets: De-politicized and decentralized merit based management approach focused on student learning and welfare.
+Range of teacher per school per district | Study to set the base line |
+Average number of days teachers present in school | Baseline needed |
+Average tenure of key managerial positions | Baseline needed |
+%age of females in key management positions | Baseline needed |
 
 74
 
@@ -2317,8 +2587,6 @@ BESP targets a transition of the college sector into quality undergraduate progr
 
 [[START OF PAGE 83]]
 
-The sector plan has not made any recommendations for the university level. The  domain  of  university and  professional  education is too vast  and complicated  to  be  clubbed  with  a  study  on  school  reform.  Secondly  the Higher Education Commission has already advanced the reform process to a point where envisaging further improvements will require a detailed study of the  higher  education  sector. Consequently,  the  Plan  recommends  a  more detailed study of the higher education sector, especially, the universities and professional  colleges  like  the  Balochistan  Medical  College,  law  colleges  and engineering universities.
-
 ### 10.1.2. Strategic Objective(s)
 
 Reforms in higher education (under-graduate) should target transition to 4year programmes in all faculties over a period of 10 years. During the transitional phase quality of teaching, examinations and facilities should be improved. Curriculum revisions and other approaches to improve relevance of studies for students should also be undertaken to bring a change in outcomes of higher education. The key strategic objectives are:
@@ -2343,15 +2611,19 @@ The following strategies have been identified:
 
 The  Sector  Plan  recommends  phase  wise  transition  to  4  years  bachelors  programmes envisaged by the HEC in its revised curricula. In the first three years two colleges in Quetta may be picked: one male and one female.
 
-The transition will require a number of changes, not only in the colleges concerned, but also the  examination  system,  curriculum  and  textbooks.  Within  colleges  it  will  entail  upgradation of facilities within the college.
+The transition will require a number of changes, not only in the colleges concerned, but also the  examination  system,  curriculum  and  textbooks.  Within  colleges  it  will  entail  up-gradation of facilities within the college.
 
-The HEC has already prepared 4 year curricula for a number of courses for undergraduate. These  should  be  focused  initially  for  introduction  in  the  selected  colleges.  It  should  be ensured that textbooks recommended in these courses are available to the students. The third problem will be provision of faculty. Here flexibility will be required and teachers from universities  might  be  co-opted  as  visiting  lecturers  along  with  the  current  set  of  college teachers.  To  ensure  sustainability  professional  development  of  college  teachers  will  be pursued through  the  Balochistan  Academy  of  College  Teachers.  This  will  require  capacity development of BACT itself as it would not function merely as a teacher training institute but as the custodian of a 'Faculty Development Programme' for colleges in Balochistan.
+The HEC has already prepared 4 year curricula for a number of courses for undergraduate. These  should  be  focused  initially  for  introduction  in  the  selected  colleges.  It  should  be ensured that textbooks recommended in these courses are available to the students. The third problem will be provision of faculty. Here flexibility will be required and teachers from universities  might  be  co-opted  as  visiting  lecturers  along  with  the  current  set  of  college
+
+The sector plan has not made any recommendations for the university level. The  domain  of  university and  professional  education is too vast  and complicated  to  be  clubbed  with  a  study  on  school  reform.  Secondly  the Higher Education Commission has already advanced the reform process to a point where envisaging further improvements will require a detailed study of the  higher  education  sector. Consequently,  the  Plan  recommends  a  more detailed study of the higher education sector, especially, the universities and professional  colleges  like  the  Balochistan  Medical  College,  law  colleges  and engineering universities.
 
 76
 
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
+
+teachers. To ensure sustainability professional development of college teachers will be pursued through the Balochistan Academy of College Teachers. This will require capacity development of BACT itself as it would not function merely as a teacher training institute but as the custodian of a 'Faculty Development Programme' for colleges in Balochistan.
 
 Transitional  factors  will  involve  political  resistance  from  current  student  and  teachers' bodies in the college sector. The government will need to negotiate with these organisations, involve political parties and ensure that campuses, especially of the selected colleges, are free of political interference.
 
@@ -2487,9 +2759,29 @@ The change in budgetary trend as a result of increase in the NFC share is reflec
 
 Amount In Billions Of Rupees
 
+Figure 12.1 Education Budget Trend
+250 | 200 | 150 | 100 | 50 | 0
+|  | Education Budget | Total Budget |
+| 2007-08 | 11.617 | 68.781 |
+| 2008-09 | 12.711 | 81.689 |
+| 2009-10 | 13.855 | 95.358 |
+| 2010-11 | 19.607 | 151.592 |
+| 2011-12 | 22.064 | 164.559 |
+| 2012-13 | 24.608 | 179.931 |
+
 The additional allocation was lower than the past trend which ranged from 17.2 % to a low of 14.62% in 2009-10. Resultantly despite a net increase in education budget in 2010-11 the latter as a percentage of the total budget has reduced to around 13% as seen in Figure 12.2. This appears as an opportunity lost.
 
 Amount In Billions Of Rupees
+
+Figure 12.2: Education Budget as %age of Total
+18.00% | 16.00% | 14.00% | 12.00% | 10.00% | 8.00% | 6.00% | 4.00% | 2.00% | 0.00%
+|  | %age of Budget |
+| 2007-08 | 17.26% |
+| 2008-09 | 15.68% |
+| 2009-10 | 14.62% |
+| 2010-11 | 12.93% |
+| 2011-12 | 13.41% |
+| 2012-13 | 13.68% |
 
 82
 
@@ -2501,9 +2793,28 @@ Figure 12.3 clarifies the situation even further as it shows that the increase w
 
 Amount In Billions Of Rupees
 
+Figure 12.3 Budgetary Trends for Current vs Development 2008-12
+25.00 | 20.00 | 15.00 | 10.00 | 5.00 | 0.00
+|  | Current | Development |
+| 2007-8 | 9.67 | 1.94 |
+| 2008-9 | 10.49 | 2.22 |
+| 2009-10 | 11.48 | 2.38 |
+| 2010-11 | 17.32 | 2.29 |
+| 2011-12 | 19.24 | 2.82 |
+| 2012-13 | 22.46 | 2.15 |
+
 The increase has been a result of increase in teachers' pays as these were converted to 'time scale'.  According to the time scale system teachers receive automatic promotion into the higher pay scale after completion of a fixed tenure. Previously the promotion was based on a merit based process and most teachers remained in one grade for many years. The bulk promotions to higher pay scales have placed a lot of pressure on the budget and threatens to continue inflate the budget to untenable limits in the coming years.
 
 Figure 12.4 reveals a increasing share of salaries in current expenditure from 2010-11. This is also explained by the above discussion.
+
+Figure 12.4: Break up of Recurrent Budget
+|  | Salary | Non-Salary |
+| 2007-8 | 74 | 26 |
+| 2008-9 | 74 | 26 |
+| 2009-10 | 72 | 28 |
+| 2010-11 | 82 | 18 |
+| 2011-12 | 85 | 15 |
+| 2012-13 | 85 | 15 |
 
 83
 
@@ -2517,6 +2828,16 @@ The  situation  holds  true  for  all  levels  of  education:  primary,  middle 
 
 Government of Balochistan took a policy decision to eliminate loan based foreign support. Resultantly  the  FPA  component  of  the  budget  has  decreased  to  almost  negligible.  Figure 12.5 shows the receding amounts of FPA from the provincial PSDP. Fortunately the gap has been matched by the Government of Balochistan from its own sources. Presently the latter funds 88% of the PSDP, up from 25% in 2007-8.
 
+Figure 12. 5: GOB & FPA PSDP Trend
+100 | 80 | 60 | 40 | 20 | 0
+|  | Government of Balochistan | FPA |
+| 2007-8 | 25 | 75 |
+| 2008-9 | 27 | 73 |
+| 2009-10 | 52 | 48 |
+| 2010-11 | 62 | 38 |
+| 2011-12 | 84 | 16 |
+| 2012-13 | 88 | 12 |
+
 The direction of the investment remains unclear. Apparently the government funds have a higher  'brick  and  mortar'  component  than  those  of  the  development  partners.  The balancing of percentages does not necessarily mean a substantive increase in development funding as was evident from Figure 12.3. A missing part of the puzzle (as already discussed above) is the 'off budget support' provided by development partners in the form of grants.
 
 ## 12.3. Sector Shares
@@ -2529,9 +2850,26 @@ In the current budget secondary schools take the highest share of 30%. This is p
 
 [[START OF PAGE 92]]
 
+Fig:12.6 Sectoral Distribution (%) of Current Budget 2012-13
+PRIMARY & ADM | 26%
+SECONDARY & ADM | 35%
+COLLEGE & ADM | 10%
+PROFESSIONAL & TECH COLLEGES | 5%
+LIBRARY MUSEUM | 0%
+OTHERS | 24%
+
 The lower share of the primary sector (at 24%) signifies not only the lower salary grades of teachers but also a dearth of teachers at this level. A large number of primary schools in the province function as single school teachers with multi-grade teaching.
 
 Primary sector takes  the  bulk  of  development  expenditure  although  the  amount  is  lower than the sector's share in total enrolment.
+
+Figure 12.7: Sectoral Share EDUCATION PSDP 2012-13
+PRIMARY | 34%
+MIDDLE | 8%
+SECONDARY | 14%
+COLLEGE | 25%
+UNIVERSITY | 4%
+GENERAL | 13%
+TECHNICAL | 2%
 
 85
 
@@ -2584,24 +2922,23 @@ Area | Total | 2013-14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
 
 [[START OF PAGE 94]]
 
-Quality Education | 3.372 | 0.041 | 1.724 | 0.610 | 0.541 | 0.456
---- | --- | --- | --- | --- | --- | ---
-8% | 1% | 20% | 6% | 5% | 4%
-Early Childhood Education | 5.210 | 0.000 | 0.602 | 1.704 | 1.635 | 1.268
-12% | 0% | 7% | 16% | 14% | 12%
-Access and Equity | 31.222 | 3.213 | 5.950 | 7.247 | 7.762 | 7.051
-70% | 96% | 69% | 67% | 67% | 69%
-Inclusive Education | 0.922 | 0.041 | 0.042 | 0.178 | 0.330 | 0.331
-2% | 1% | 0% | 2% | 3% | 3%
-DRR | 0.008 | 0.008 | 0.000 | 0.000 | 0.000 | 0.000
-0.02% | 0.22% | 0.00% | 0.00% | 0.00% | 0.00%
-Governance and | 0.130 | 0.019 | 0.057 | 0.019 | 0.017 | 0.017
-Management | 0% | 1% | 1% | 0% | 0% | 0%
-Higher Education | 2.586 | 0.001 | 0.021 | 0.678 | 0.997 | 0.889
-6% | 0% | 0% | 6% | 9% | 9%
-Adult & Youth Literacy and | 1.172 | 0.014 | 0.222 | 0.355 | 0.370 | 0.211
-NFE | 3% | 0% | 3% | 3% | 3% | 2%
-Total Cost (in Billion Pak Rs.) | 44.621 | 3.336 | 8.619 | 10.791 | 11.652 | 10.224
+| Quality Education | 3.372 | 0.041 | 1.724 | 0.610 | 0.541 | 0.456 |
+|  | 8% | 1% | 20% | 6% | 5% | 4% |
+| Early Childhood Education | 5.210 | 0.000 | 0.602 | 1.704 | 1.635 | 1.268 |
+|  | 12% | 0% | 7% | 16% | 14% | 12% |
+| Access and Equity | 31.222 | 3.213 | 5.950 | 7.247 | 7.762 | 7.051 |
+|  | 70% | 96% | 69% | 67% | 67% | 69% |
+| Inclusive Education | 0.922 | 0.041 | 0.042 | 0.178 | 0.330 | 0.331 |
+|  | 2% | 1% | 0% | 2% | 3% | 3% |
+| DRR | 0.008 | 0.008 | 0.000 | 0.000 | 0.000 | 0.000 |
+|  | 0.02% | 0.22% | 0.00% | 0.00% | 0.00% | 0.00% |
+| Governance and Management | 0.130 | 0.019 | 0.057 | 0.019 | 0.017 | 0.017 |
+|  | 0% | 1% | 1% | 0% | 0% | 0% |
+| Higher Education | 2.586 | 0.001 | 0.021 | 0.678 | 0.997 | 0.889 |
+|  | 6% | 0% | 0% | 6% | 9% | 9% |
+| Adult & Youth Literacy and NFE | 1.172 | 0.014 | 0.222 | 0.355 | 0.370 | 0.211 |
+|  | 3% | 0% | 3% | 3% | 3% | 2% |
+| Total Cost (in Billion Pak Rs.) | 44.621 | 3.336 | 8.619 | 10.791 | 11.652 | 10.224 |
 
 The highest expenditure is under access as it captures anywhere from 69% to 98% of the expenditure  for  a  given  year.  The  expenditure  has  been  calculated  on  the  basis  of community  school  models  and  not  the  regular  schools  for  primary  and  up  gradation  for middle and secondary.
 
@@ -2639,11 +2976,11 @@ While the costing of the sector plan has been undertaken as conservatively as po
 
 ## Annex 1.1 : Improving Quality Education
 
-Objectives | Key Targets | Indicators | Assumptions/Risks
---- | --- | --- | ---
-Curriculum disseminated to all key stakeholders by December 2015 | Preparation of a dissemination plan | OVI Dissemination mechanism developed MOV Approved report | Multiple dissemination approaches used as per the local needs and through involvement of education field officers (EFOs). Dissemination target includes schools, colleges and community.
-Dissemination tools prepared | OVI Dissemination tools notified MOV User end organizations acknowledgement letters
-Dissemination process implemented | OVI 80 % teachers and education professionals aware of the objectives and content of curriculum 2006 by June, 2015. MOV
+| Objectives | Key Targets | Indicators | Assumptions/Risks |
+| --- | --- | --- | --- |
+| Curriculum disseminated to all key stakeholders by December 2015 | Preparation of a dissemination plan | OVI Dissemination mechanism developed MOV Approved report | Multiple dissemination approaches used as per the local needs and through involvement of education field officers (EFOs). Dissemination target includes schools, colleges and community. |
+|  | Dissemination tools prepared | OVI Dissemination tools notified MOV User end organizations acknowledgement letters |  |
+|  | Dissemination process implemented | OVI 80 % teachers and education professionals aware of the objectives and content of curriculum 2006 by June, 2015. MOV |  |
 
 i
 
@@ -2651,10 +2988,9 @@ i
 
 [[START OF PAGE 97]]
 
-Feedback reports from teachers and district officials
---- | --- | --- | ---
-National Textbooks and Learning Materials Policy revised and adopted as per provincial needs by December 2012 | Amended textbooks and LM policy adopted | OVI Policy documents for amended textbooks and learning material prepared MOV Official notification | ???
-Standards for textbooks developed by June 2013 | Standards reviewed and developed for textbooks as a product in terms of learning value based on content, writing style, illustration, language relevant to age by June 2013 | OVI Committee Constituted consisting of officials of BTBB, BOC, PITE, DOS, DOC, BISE and PPIU. Sub-committees formed level wise and subject wise. Exposed the committee to various textbooks produced nationally and internationally for various levels and subjects.
+|  |  | Feedback reports from teachers and district officials |  |
+| National Textbooks and Learning Materials Policy revised and adopted as per provincial needs by December 2012 | Amended textbooks and LM policy adopted | OVI Policy documents for amended textbooks and learning material prepared MOV Official notification | ??? |
+| Standards for textbooks developed by June 2013 | Standards reviewed and developed for textbooks as a product in terms of learning value based on content, writing style, illustration, language relevant to age by June 2013 | OVI Committee Constituted consisting of officials of BTBB, BOC, PITE, DOS, DOC, BISE and PPIU. Sub-committees formed level wise and subject wise. Exposed the committee to various textbooks produced nationally and internationally for various levels and subjects. |  |
 
 ii
 
@@ -2662,8 +2998,7 @@ ii
 
 [[START OF PAGE 98]]
 
-Feedback from teachers and students on strengths and weaknesses of current textbooks received. Standards for textbooks developed. Notified standards for textbooks. MOV Notification for constitution of committee by ED. Notification for constitution of sub- committee. Working paper for committee members along minutes of meeting.
----
+|  |  | Feedback from teachers and students on strengths and weaknesses of current textbooks received. Standards for textbooks developed. Notified standards for textbooks. MOV Notification for constitution of committee by ED. Notification for constitution of sub-committee. Working paper for committee members along minutes of meeting. |  |
 
 iii
 
@@ -2671,9 +3006,8 @@ iii
 
 [[START OF PAGE 99]]
 
-Committee feedback reports. Notification letter for textbooks standards.
---- | ---
-Standards notified for textbook development process by July 2012 | OVI Committee informed on textbooks standards of international and national practices. Feedback from publishers in place. Standards for textbook development prepared. Notified standards for textbooks development available.
+|  |  | Committee feedback reports. Notification letter for textbooks standards. |  |
+|  | Standards notified for textbook development process by July 2012 | OVI Committee informed on textbooks standards of international and national practices. Feedback from publishers in place. Standards for textbook development prepared. Notified standards for textbooks development available. |  |
 
 iv
 
@@ -2681,9 +3015,8 @@ iv
 
 [[START OF PAGE 100]]
 
-MOV Official letter from ED for information. Performa/feedback report from publishers. Notification of standards for textbook development.
---- | ---
-Standards for textbooks review by BTBB notified by July 2012 | OVI Committee informed on textbooks standards of international and national practices. Feedback received from former Federal Edu Ministry officials. Standards for textbook development prepared.
+|  |  | MOV Official letter from ED for information. Performa/feedback report from publishers. Notification of standards for textbook development. |  |
+|  | Standards for textbooks review by BTBB notified by July 2012 | OVI Committee informed on textbooks standards of international and national practices. Feedback received from former Federal Edu Ministry officials. Standards for textbook development prepared. |  |
 
 v
 
@@ -2691,8 +3024,10 @@ v
 
 [[START OF PAGE 101]]
 
-TORs for textbooks approval by BOC by June 2013 Standardized feedback mechanism on implemented textbooks | Notified standards for textbooks development available. MOV Official letter from ED for information. Performa/feedback reports from former Federal Education Ministry officials along attendance sheets. Notification of standards for textbook development. OVI TORs developed and approval by BOC through consultations with BTBB. MOV Notification by ED for ToRs OVI System of annual feedback from teachers on implemented textbooks in
---- | ---
+|  |  | Notified standards for textbooks development available. MOV Official letter from ED for information. Performa/feedback reports from former Federal Education Ministry officials along attendance sheets. Notification of standards for textbook development. |  |
+|  | TORs for textbooks approval by BOC by June 2013 | OVI TORs developed and approval by BOC through consultations with BTBB. MOV Notification by ED for ToRs |  |
+|  | Standardized feedback mechanism on implemented textbooks | OVI System of annual feedback from teachers on implemented textbooks in |  |
+--- | --- | --- | ---
 
 vi
 
@@ -2700,9 +3035,9 @@ vi
 
 [[START OF PAGE 102]]
 
-place. Bi-annual field research on textbooks implemented through field interviews and other tools. Feedback published in Annual Report. MOV Field reports, visit reports
+|  |  | place. Bi-annual field research on textbooks implemented through field interviews and other tools. Feedback published in Annual Report. MOV Field reports, visit reports Annual report copy. |  |
 --- | --- | --- | ---
-Quality textbooks prepared on Curriculum 2006 implemented in all classes by 2016 | Textbooks prepared for Phase I (1,6,9,11) by December 2013 | Annual report copy. OVI Standards for Textbooks developed for phase 1 by publishers. Standards for review of textbooks developed by BTBB for Phase 1 Standards for textbooks developed and approved by BOC for Phase I. Review standards and SOPs notified. | Private publishers undertake the task under the Textbook Policy 2007 (as adapted for Balochistan)
+Quality textbooks prepared on Curriculum 2006 implemented in all classes by 2016 | Textbooks prepared for Phase I (1,6,9,11) by December 2013 | OVI Standards for Textbooks developed for phase 1 by publishers. Standards for review of textbooks developed by BTBB for Phase 1 Standards for textbooks developed and approved by BOC for Phase I. Review standards and SOPs notified. | Private publishers undertake the task under the Textbook Policy 2007 (as adapted for Balochistan)
 
 vii
 
@@ -2736,7 +3071,7 @@ ix
 
 100% teachers receive at least one training under the CPD by December 2017 | OVI 100% teachers Training completed MOV Monitoring report, attendance sheets
 --- | --- | ---
-Minimise impact of multi- grade teaching in primary schools | Primary school teachers trained on teaching on multi-grade classrooms | OVI Teacher training modules developed by PITE MOV Teacher training completion reports
+Minimise impact of multi-grade teaching in primary schools | Primary school teachers trained on teaching on multi-grade classrooms | OVI Teacher training modules developed by PITE MOV Teacher training completion reports
 Preparation of specialised learning material for multigrade classrooms | OVI Material for multigrade classrooms prepared MOV Physical verification of material
 Provincial capacity for in service teacher professional development enhanced | Capacity Development of PITE as a professional development institute improved as per requisite standards by December 2016
 
@@ -2746,11 +3081,11 @@ x
 
 [[START OF PAGE 106]]
 
-Improve quality of Pre- service teacher education | Development of standards for pre-service teacher education by December 2015 | OVI NACTE standards adopted MOV Official notification | Private sector institutions are covered by the standards.
+Improve quality of Pre-service teacher education | Development of standards for pre-service teacher education by December 2015 | OVI NACTE standards adopted MOV Official notification | Private sector institutions are covered by the standards.
 --- | --- | --- | ---
-Current courses for pre- service replaced by ADE and 4 year B.ed | OVI 4 Year programme initiated MOV Pre-Step Report | As recommended by NEP 2009 and the Pre-Step Project
+Current courses for pre-service replaced by ADE and 4 year B.ed | OVI 4 Year programme initiated MOV Pre-Step Report | As recommended by NEP 2009 and the Pre-Step Project
 Faculty development of pre-service teacher education institutions | OVI Faculty development Programme prepared MOV Official notification | Faculty development programme prepared in consultation with HEC , UOB , BUITEMS and SBKWU
-Regulatory mechanism set up for private sector pre- service institutions | OVI Regulatory mechanism in place and private institutions registered MOV Notification by GoB for regulatory authority. | The proposed regulatory authority will ensure implementation of standards
+Regulatory mechanism set up for private sector pre-service institutions | OVI Regulatory mechanism in place and private institutions registered MOV Notification by GoB for regulatory authority. | The proposed regulatory authority will ensure implementation of standards
 
 xi
 
@@ -2780,7 +3115,7 @@ xiii
 
 [[START OF PAGE 109]]
 
-Capacity assessment PEACE to be conducted | of OVI Capacity assessment conducted MOV Assessment reports, | Through diagnostic assessment process PEACE can improve service delivery by feedback mechanism
+Capacity assessment of PEACE to be conducted | OVI Capacity assessment conducted MOV Assessment reports, | Through diagnostic assessment process PEACE can improve service delivery by feedback mechanism
 --- | --- | ---
 Capacity development plan to be prepared | OVI CD plan developed MOV CD plan document | A well defined guiding document is available for future needs
 BISE conducts credible standardized examinations as per curriculum by 2016 | Development of standards for examinations papers, conduct and assessment | OVI Developed and Revised standards MOV Official notification
@@ -2835,8 +3170,8 @@ xviii
 
 [[START OF PAGE 114]]
 
-They participate and recruited/registered as boy and girl guides.
----
+|  |  | activities in all public schools. Plans prepared for co-curricular in schools Separate section developed in DOS for monitoring of co-curricular plans Head teachers (M/F) supervise the co-curricular activities during the week. The activities are aligned with the curriculum. MOV Students’ participation lists. Prize distribution day report. | They participate and get recruited/registered as boy scouts and girl guides. |
+--- | --- | --- | ---
 
 xix
 
@@ -2875,13 +3210,13 @@ xxii
 
 [[START OF PAGE 118]]
 
+### Annex 1.1.1: Early Childhood Education
+
 Objectives | Key Targets | Indicators | Assumptions/Risks
 --- | --- | --- | ---
 Institutionalize Early Childhood Education in Balochistan | Policy framework for ECE prepared and implemented by June 2013 | OVI Minimum quality standards and guidelines developed for ECE. Bylaws drafted and disseminated to all BEF schools & 20% private schools. MOV Notification by Education Department for introduction of ECE. Approved bylaws Approved ECE standards
 Teachers trained for additional ECE classes by June 2013 | OVI ECE teacher training programme in place. Curriculum for training of ECE teachers developed and notified. MOV ECE teachers training report. GoB notification of ECE teacher training curriculum
 Government provides funds for introduction of ECE in 30% primary schools by June 2014 | OVI 5% of annual education budget allocated to ECE. Amended budget books making ECE a separate line item | GoB and donors make specific financial commitments to ECE.
-
-### Annex 1.1.1: Early Childhood Education
 
 xxiii
 
@@ -2974,7 +3309,7 @@ xxv
 
 Assessment reports/records. 180 monitoring and mentoring staff notified.
 --- | --- | --- | ---
-Strengthening Governance and Ownership of ECE programmes | Community and parental participation ensured in ECE by July 2013 | OVI ToRs of PTSMC members notified with reference to ECE . 1800 existing PTSMCs formulated /restructured. 1800 new PTSMCs formulated/restructured. Training packages developed for capacity building of PTSMCs in ECE context. 360 resource persons appointed and oriented. Schedule developed for training 360 RPs. 3600 PTSMC members of selected schools trained. | Community actively participate in the functioning of PTSMCs.
+Strengthening Governance and Ownership of ECE programmes | Community and parental participation ensured in ECE by July 2013 | OVI ToRs of PTSMC members notified with reference to ECE . 1800 existing PTSMCs formulated /restructured. 1800 new PTSMCs formulated/restructured. Training packages developed for capacity building of PTSMCs in ECE context. 360 resource persons appointed and oriented. Schedule developed for training 360 RPs. 3600 PTSMC members of selected schools trained. Teams of experts developed awareness | Community actively participate in the functioning of PTSMCs.
 
 xxvi
 
@@ -2993,9 +3328,9 @@ xxvii
 [[START OF PAGE 123]]
 
 MOV Meetings and workshops minutes /proceedings. Monitoring reports.
---- | --- | --- | --- | ---
-School health and nutrition services for ECE children | Formulated committee with the membership of Education, Health and P & D department at Provincial level with the sub-set at district level by March 2013; quarterly meetings held | OVI Agreement drafted for provision of Basic health services to ECE children. Number of immunization, polio, de- worming drives, had washing and hygiene campaigns conducted in ECE schools. Health and nutrition of ECE children improved as a result of SHN services. MOV Draft of Agreement List of campaigns along officials involved notified. | Education and Health department GoB work closely to improve the health of ECE children.
-ECE support monitoring | and | 200 EFOs trained in monitoring and mentoring of ECE teachers by July 2013 | OVI Mentoring and monitoring plans initiated and resources allocated. 200 EFOs (DEOs, DOs, DDOs) complete 3 | Education department allocates budget for the mentoring and monitoring of ECE Teachers.
+--- | --- | --- | ---
+School health and nutrition services for ECE children | Formulated committee with the membership of Education, Health and P & D department at Provincial level with the sub-set at district level by March 2013; quarterly meetings held | OVI Agreement drafted for provision of Basic health services to ECE children. Number of immunization, polio, de-worming drives, had washing and hygiene campaigns conducted in ECE schools. Health and nutrition of ECE children improved as a result of SHN services. MOV Draft of Agreement List of campaigns along officials involved notified. | Education and Health department GoB work closely to improve the health of ECE children.
+ECE support and monitoring | 200 EFOs trained in monitoring and mentoring of ECE teachers by July 2013 | OVI Mentoring and monitoring plans initiated and resources allocated. 200 EFOs (DEOs, DOs, DDOs) complete 3 | Education department allocates budget for the mentoring and monitoring of ECE Teachers.
 
 xxviii
 
@@ -3005,7 +3340,7 @@ xxviii
 
 days training to mentor and monitor ECE teachers. 1500 facilitators (LCs, ADEOs) completed their 6 days training to mentor and monitor ECE teachers. MOV Training lists notified by DoS. Training reports.
 --- | --- | --- | ---
-Action research advocacy for ECE | and | Standards and tools for conducting baseline designed and approved by Sep 2012 | OVI Conducted baseline studies as per designed tools and standards to map out the bench mark. Conducted impact studies to ensure the validity and effectiveness of ECE efforts in schools. Used action research and impact studies to inform advocacy. MOV
+Action research and advocacy for ECE | Standards and tools for conducting baseline designed and approved by Sep 2012 | OVI Conducted baseline studies as per designed tools and standards to map out the bench mark. Conducted impact studies to ensure the validity and effectiveness of ECE efforts in schools. Used action research and impact studies to inform advocacy. MOV
 
 xxix
 
@@ -3093,9 +3428,9 @@ xxxvi
 
 [[START OF PAGE 132]]
 
-Expand and improve service delivery of education | conducted to cadre special children education. MOV Curriculum copies/teacher guides for special education. Approved teaching plans by PITE. Teachers training reports and attendance
---- | --- | ---
-Government provides additional funds for introduction of inclusive education in 30% primary schools by 2014 Marginalized children as per National curriculum introduced in 1000 primary schools of the public sector by July 2013 | sheets. OVI GoB allocated 5% additional to schools for inclusive education. Amendments made in budget books. MOV Budget books OVI 500 primary schools identified for phase 1 with existing classrooms. 500 primary schools identified and redesigned classrooms accessible for | inclusive
+conducted to cadre special children education. MOV Curriculum copies/teacher guides for special education. Approved teaching plans by PITE. Teachers training reports and attendance sheets.
+--- | --- | --- | ---
+Expand and improve service delivery of inclusive education | Government provides additional funds for introduction of inclusive education in 30% primary schools by 2014 Marginalized children as per National curriculum introduced in 1000 primary schools of the public sector by July 2013 | OVI GoB allocated 5% additional to schools for inclusive education. Amendments made in budget books. MOV Budget books OVI 500 primary schools identified for phase 1 with existing classrooms. 500 primary schools identified and redesigned classrooms accessible for |
 
 xxxvii
 
@@ -3113,9 +3448,9 @@ xxxviii
 
 [[START OF PAGE 134]]
 
-inclusive education. Capacity building programmes developed for education, health deptt, politicians, media etc to advocate inclusive education. Standards developed along tools for continuous assessment of special students. MOV Appointment orders for teachers and ayas. TNA reports. Teacher guides/handbooks.
+inclusive education. Capacity building programmes developed for education, health deptt, politicians, media etc to advocate inclusive education. Standards developed along tools for continuous assessment of special students. MOV Appointment orders for teachers and ayas. TNA reports. Teacher guides/handbooks. Newsletters, brouchers
 --- | ---
-Inclusive education material and development resources provided in 1000 schools by 2013 | Newsletters, brouchers OVI Equipped 500 existing schools with conducive children development material.
+Inclusive education material and development resources provided in 1000 schools by 2013 | OVI Equipped 500 existing schools with conducive children development material.
 
 xxxix
 
@@ -3136,7 +3471,7 @@ xl
 
 education managers. Conducted training workshops for field managers on mentoring. MOV Reports on workshops Attendance sheets.
 --- | --- | ---
-School health nutrition services marginalized children | and for Committee formulated with the membership of education, health, social welfare, P&D departments at provincial level with sub- set at district level by March 2013. | OVI Committee formulated with membership of education, health, social welfare and P&D departments. MOV Notification for establishing committee.
+School health and nutrition services for marginalized children | Committee formulated with the membership of education, health, social welfare, P&D departments at provincial level with sub-set at district level by March 2013. | OVI Committee formulated with membership of education, health, social welfare and P&D departments. MOV Notification for establishing committee.
 Agreement drafted for provision of basic health services to special children by 2013 | OVI Agreement drafted and submitted between education and health department. MOV Draft of Agreement
 
 xli
@@ -3156,11 +3491,11 @@ xlii
 
 [[START OF PAGE 138]]
 
-Results disseminated 2016 | by OVI | Action research and impact studies used to inform advocacy. MOV Attendance sheets
---- | --- | --- | --- | ---
-Develop and institutionalize a DRR policy for education | Assess and document current disaster and its implications. | the potential | Acknowledgment letters(for receiving) OVI DRR study completed MOV DRR study document | Assessment be undertaken through interaction with community, education filed officers, teachers and relevant agencies of the government like the Provincial Disaster Management Authority (PDMA)
-DRR | Prepare a plan for risk prevention, mitigation and preparedness. | OVI DRR plan prepared MOV DRR plan notified | Plan prepared through interaction with community, education filed officers, teachers and relevant agencies of the government like the Provincial Disaster Management Authority (PDMA)
-a | Evaluate current capacity to implement DRR plan. | OVI Capacity Assessment completed | Capacity assessment to review issues of quality as well as access.
+Results disseminated by 2016 | OVI Action research and impact studies used to inform advocacy. MOV Attendance sheets Acknowledgment letters(for receiving)
+--- | --- | --- | ---
+Develop and institutionalize a DRR policy for education | Assess and document the current disaster potential and its implications. | OVI DRR study completed MOV DRR study document | Assessment be undertaken through interaction with community, education filed officers, teachers and relevant agencies of the government like the Provincial Disaster Management Authority (PDMA)
+Prepare a DRR plan for risk prevention, mitigation and preparedness. | OVI DRR plan prepared MOV DRR plan notified | Plan prepared through interaction with community, education filed officers, teachers and relevant agencies of the government like the Provincial Disaster Management Authority (PDMA)
+Evaluate current capacity to implement a DRR plan. | OVI Capacity Assessment completed | Capacity assessment to review issues of quality as well as access.
 
 xliii
 
@@ -3170,7 +3505,7 @@ xliii
 
 MOV Capacity assessment report
 --- | ---
-Prepare a capacity development plan enhancement of responsiveness. | for DRR OVI CD plan prepared MOV CD plan document
+Prepare a capacity development plan for enhancement of DRR responsiveness. | OVI CD plan prepared MOV CD plan document
 Implement CD plan | As per indicators of the CD report
 
 xliv
@@ -3267,8 +3602,8 @@ li
 
 Annual development plan
 --- | --- | --- | ---
-PTSMC Monitoring mechanism developed and in place by June 2013 | OVI Monitoring mechanism prepared MOV Official notification Monitoring reports
-Linkages with madrassas and private schools | Policy framework for linkages with madrassas and private schools instituted by December 2013 | Field visit reports OVI Agreement with private schools Agreement with madrassas MOV Official approval of agreement(s) | Dialogue conducted with private schools associations and madrassas for agreement on framework that includes agreement on basic standards Madrassas have low confidence in government organisations and therefore parameters for dialogue and agreement with madrassas are differently managed than private schools.
+PTSMC Monitoring mechanism developed and in place by June 2013 | OVI Monitoring mechanism prepared MOV Official notification Monitoring reports Field visit reports
+Linkages with madrassas and private schools | Policy framework for linkages with madrassas and private schools instituted by December 2013 | OVI Agreement with private schools Agreement with madrassas MOV Official approval of agreement(s) | Dialogue conducted with private schools associations and madrassas for agreement on framework that includes agreement on basic standards Madrassas have low confidence in government organisations and therefore parameters for dialogue and agreement with madrassas are differently managed than private schools.
 Gender balanced management approach | Gender awareness campaign developed and initiated by December 2012 | OVI Awareness campaign prepared and launched | More females will accept management positions as the gender bias in the work environment is reduced
 
 lii
@@ -3288,12 +3623,12 @@ liii
 
 [[START OF PAGE 149]]
 
+## Annex 1.4: Higher Education
+
 Objectives | Key Targets | Indicators | Assumptions/Risks
 --- | --- | --- | ---
 Institutional framework for transition to four years graduate | Establish an oversight body for guiding transition to 4 year undergraduate in colleges by August 2012 | OVI Oversight committee formed consisting of 3 VCs, Secretary HE, and Principals of selected colleges, representative of HEC, Finance and P&D Deptt. Drafted and approved ToRs for the committee. Nominated Directorate of HE as Secretariat to the oversight body. MOV Notification for oversight committee. Notified ToRs. Notification/ official letter for nominating Directorate HE as Secretariat to the oversight body | The oversight committee develops framework for transition to 4 years graduate.
 Technical committee formed to plan and implement the reform | OVI Technical committee approved and
-
-## Annex 1.4: Higher Education
 
 liv
 
@@ -3301,9 +3636,9 @@ liv
 
 [[START OF PAGE 150]]
 
-process by August 2012 | notified. 4 Officers from Directorate of HE nominated and notified. Approved ToRs for the technical committee. MOV
+process by August 2012 | notified. 4 Officers from Directorate of HE nominated and notified. Approved ToRs for the technical committee. MOV Notification letters
 --- | --- | --- | ---
-Develop academic programme for 4 year undergraduate degrees | Subject(s)/areas selected for 4 year undergraduate programme by June 2013 | Notification letters OVI Market survey conducted and completed to identify subjects with high market relevance. Dissemination of Survey results for debate with parents, politicians, students and teachers completed. Subjects selected and approved after consultations. MOV Survey Reports. Dissemination reports and Minutes of meeting with parents, teachers, students | The colleges and universities are offering courses relevant to the market needs i.e. provincial, national and international.
+Develop academic programme for 4 year undergraduate degrees | Subject(s)/areas selected for 4 year undergraduate programme by June 2013 | OVI Market survey conducted and completed to identify subjects with high market relevance. Dissemination of Survey results for debate with parents, politicians, students and teachers completed. Subjects selected and approved after consultations. MOV Survey Reports. Dissemination reports and Minutes of meeting with parents, teachers, students | The colleges and universities are offering courses relevant to the market needs i.e. provincial, national and international.
 
 lv
 
@@ -3313,8 +3648,8 @@ lv
 
 and politicians. Official approval letter of subjects.
 --- | --- | ---
-Curriculum and learning material requirements finalized by July 2014. | OVI Adopted curricula developed by HEC. List available of required learning materials i.e. textbooks, libraries and laboratories. MOV Official order by HE deptt for adoption of HEC curricula.
-Improving the teaching learning process | Faculty development programme prepared and implemented by June 2013 | Official letter for List approved by DOC. OVI Carried out Need assessment of faculty development. Designed and held training workshops for faculty in colleges(selected) Established a cell/centre in BACT for professional development support system. Tenure track system introduced college
+Curriculum and learning material requirements finalized by July 2014. | OVI Adopted curricula developed by HEC. List available of required learning materials i.e. textbooks, libraries and laboratories. MOV Official order by HE deptt for adoption of HEC curricula. Official letter for List approved by DOC.
+Improving the teaching learning process | Faculty development programme prepared and implemented by June 2013 | OVI Carried out Need assessment of faculty development. Designed and held training workshops for faculty in colleges(selected) Established a cell/centre in BACT for professional development support system. Tenure track system introduced college
 
 lvi
 
@@ -3322,9 +3657,9 @@ lvi
 
 [[START OF PAGE 152]]
 
-professionals. Visiting faculty from universities for specialized percentage of courses in place. MOV Need assessment report for faculty development. Training workshop reports along attendance sheets. Official letter from HE deptt for establishing PDSS in BACT. Notification letter tenure track system. Official letter from HE Deptt for Nominated professionals from
+professionals. Visiting faculty from universities for specialized percentage of courses in place. MOV Need assessment report for faculty development. Training workshop reports along attendance sheets. Official letter from HE deptt for establishing PDSS in BACT. Notification letter tenure track system. Official letter from HE Deptt for Nominated professionals from Universities as visiting faculty.
 --- | ---
-Assessment processes strengthened by June 2013 | Universities as visiting faculty. OVI Developed and initiated standardised assessment processes. Faculty trained on assessments. Awareness campaigns designed and implemented against cheating in
+Assessment processes strengthened by June 2013 | OVI Developed and initiated standardised assessment processes. Faculty trained on assessments. Awareness campaigns designed and implemented against cheating in
 
 lvii
 
@@ -3345,7 +3680,7 @@ lviii
 
 Implemented CD Plan. MOV Need based assessment report. Approved Official letter for DOC CD plan. Notification for implementation plan.
 --- | --- | ---
-Meritocratic decisions higher education institutions in place by June 2013 | in OVI Debates, workshops, seminars held regarding student politics with political party's leaders. Mutually developed a code of conduct. MOV Workshop/seminars consolidated reports. Attendance sheets.
+Meritocratic decisions in higher education institutions in place by June 2013 | OVI Debates, workshops, seminars held regarding student politics with political party’s leaders. Mutually developed a code of conduct. MOV Workshop/seminars consolidated reports. Attendance sheets. Draft of code of conduct.
 HEC standards applied in colleges through provincial | OVI | The new standards for Higher education institutions are
 
 lix
@@ -3354,7 +3689,7 @@ lix
 
 [[START OF PAGE 155]]
 
-oversight body by June 2013 | Established a provincial HE standards body with linkages to HEC. Provincial standards developed in consultation with HEC. Disseminated the developed standards among all provincial institutions (public & private). Developed strategies for institutions to transit effectively the new standards. Monitoring mechanism in place to monitor implementation of new standards. MOV Notification of Deptt HE for new standards. Notified standards Dissemination reports and feedback from public & private institutions. | effectively adopted.
+oversight body by June 2013 | Established a provincial HE standards body with linkages to HEC. Provincial standards developed in consultation with HEC. Disseminated the developed standards among all provincial institutions (public & private). Developed strategies for institutions to transit effectively the new standards. Monitoring mechanism in place to monitor implementation of new standards. MOV Notification of Deptt HE for new standards. Notified standards Dissemination reports and feedback from public & private institutions. Monitoring reports. | effectively adopted.
 --- | --- | --- | ---
 Improve employability of graduates | Research conducted on an ongoing basis to evaluate market opportunities from | OVI Funds allocated to BACT to conduct | GOB provides funds to BACT to conduct research on market opportunities on regular basis.
 
@@ -3384,12 +3719,12 @@ lxii
 
 [[START OF PAGE 158]]
 
+## Annex 1.5: Adult literacy & NFE
+
 Objectives | Key Targets | Indicators | Assumptions/Risks
 --- | --- | --- | ---
-Institutionalization of Youth/Adult literacy (YAL) and Non-Formal Education (NFE) Programme in the Province | Policy framework for NFE and YAL programs formulated and implemented by Dec 2012 | OVI Team of experts formulated to develop minimum standards of NFE and YAL Standards developed for NFE and YAL aligned with national curriculum Policies framed for ; a- NFE graduates equivalence b- Provided second chance for dropout adolescents after completing their primary education c-NFE aligned with 25 A
+Institutionalization of Youth/Adult literacy (YAL) and Non-Formal Education (NFE) Programme in the Province | Policy framework for NFE and YAL programs formulated and implemented by Dec 2012 | OVI Team of experts formulated to develop minimum standards of NFE and YAL Standards developed for NFE and YAL aligned with national curriculum Policies framed for; a- NFE graduates equivalence b- Provided second chance for dropout adolescents after completing their primary education c-NFE aligned with 25 A
 Developmental incentives introduced for communities showing improvement in literacy MOV Team of experts notified Notification by GoB for development of
-
-## Annex 1.5: Adult literacy & NFE
 
 lxiii
 
@@ -3407,9 +3742,9 @@ lxiv
 
 [[START OF PAGE 160]]
 
-Approved services rules for new posts MOV Notification letter of standing committee. Notification of supervisory council. Approval letter for restructuring of directorate of NFE and YAL. Physical monitoring of established divisional directorate. Official letter of approved new posts in directorate of NFE & YAL.
+Approved services rules for new posts MOV Notification letter of standing committee. Notification of supervisory council. Approval letter for restructuring of directorate of NFE and YAL. Physical monitoring of established divisional directorate. Official letter of approved new posts in directorate of NFE & YAL. Official letter of approved service rules.
 --- | ---
-Increase awareness for NFE among stakeholders by Dec 2013 | Official letter of approved service rules. OVI Advocacy campaigns conducted to raise awareness on importance of NFE & YAL. Linkages and coordination developed with Finance department for initial budgetary support.
+Increase awareness for NFE among stakeholders by Dec 2013 | OVI Advocacy campaigns conducted to raise awareness on importance of NFE & YAL. Linkages and coordination developed with Finance department for initial budgetary support.
 
 lxv
 
@@ -3477,7 +3812,7 @@ lxxi
 
 Training curriculum guide/book. Capacity building reports of NFE teachers. Accreditation certificates by competent authority. BEMIS report reflecting NFE graduates.
 --- | --- | ---
-Monitoring & Assessment | Improved learning outcomes for NFE & YAL Programmes by Dec 2012 | OVI Committee of experts reviewed Assessment techniques. Monitoring tools developed. Strong linkages developed with ED for monitoring and assessment. MOV Official Notification for constituting committee of experts to review
+Monitoring & Assessment | Improved learning outcomes for NFE & YAL Programmes by Dec 2012 | OVI Committee of experts reviewed Assessment techniques. Monitoring tools developed. Strong linkages developed with ED for monitoring and assessment. MOV Official Notification for constituting committee of experts to review assessment techniques.
 
 lxxii
 
@@ -3548,16 +3883,16 @@ lxxv
 
 ## Annex 2.1 : Quality Education
 
-Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe | Responsible
---- | --- | --- | --- | --- | ---
-2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Curriculum disseminated to all key stakeholders by December 2015 | Dissemination plan developed | Team set up for preparation of dissemination plan | Minimal Cost | x | BOC/DOS/DOC
-Plan prepared | Minimal Cost | x | BOC/DOS/DOC
-Approval of plan by the competent authority | Minimal Cost | x | BOC/DOS/DOC
-Dissemination | Website set up | Minimal Cost | x | BOC
-tools prepared | Tools for district level dissemination prepared | 1.00 | X 1.00 | BOC/DOS/DOC
-Tools for dissemination through media prepared | 9.00 | x 3.00 | x 6.00 | BOC
-Dissemination | Website set up | x | BOC
+Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe |  |  |  |  | Responsible
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 |
+Curriculum disseminated to all key stakeholders by December 2015 | Dissemination plan developed | Team set up for preparation of dissemination plan | Minimal Cost | x |  |  |  |  | BOC/DOS/DOC
+ |  | Plan prepared | Minimal Cost | x |  |  |  |  | BOC/DOS/DOC
+ |  | Approval of plan by the competent authority | Minimal Cost | x |  |  |  |  | BOC/DOS/DOC
+ | Dissemination tools prepared | Website set up | Minimal Cost |  | x |  |  |  | BOC
+ |  | Tools for district level dissemination prepared | 1.00 | X 1.00 |  |  |  |  | BOC/DOS/DOC
+ |  | Tools for dissemination through media prepared | 9.00 | x 3.00 | x 6.00 |  |  |  | BOC
+ | Dissemination | Website set up |  |  | x |  |  |  | BOC
 
 lxxvi
 
@@ -3565,14 +3900,14 @@ lxxvi
 
 [[START OF PAGE 172]]
 
-process implemented | District seminars conducted | 153.00 | x 51.00 | x 51.00 | x 51.00 | BOC/DOS/DOC
---- | --- | --- | --- | --- | --- | ---
-Printing of Curriculum (teacher wise/ school wise) [private/public] | 315.00 | x | x 315.00 | BoC
-Translation of 20 Curricula | 1.20 | x 1.20 | BoC
-Printing of Translated Curricula | 280.00 | x 280.00
-Posters and other packages for schools implemented | 80.00 | x 26.67 | x 26.67 | x 26.67 | BOC/DOS/DOC
-National Textbooks and Learning Materials Policy revised and adopted as per provincial needs by December | Amended textbooks and LM policy adopted | Form committee for review of textbooks policy. | 2.70 | x 2.70 | BTBB
-2012 | Revised policy submitted for approval of competent authority | Minimal Cost | x | BTBB
+ | process implemented | District seminars conducted | 153.00 |  | x 51.00 | x 51.00 | x 51.00 |  | BOC/DOS/DOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Printing of Curriculum (teacher wise/ school wise) [private/public] | 315.00 | x | x 315.00 |  |  |  | BoC
+ |  | Translation of 20 Curricula | 1.20 | x 1.20 |  |  |  |  | BoC
+ |  | Printing of Translated Curricula | 280.00 |  | x 280.00 |  |  |  |
+ |  | Posters and other packages for schools implemented | 80.00 |  | x 26.67 | x 26.67 | x 26.67 |  | BOC/DOS/DOC
+National Textbooks and Learning Materials Policy revised and adopted as per provincial needs by December 2012 | Amended textbooks and LM policy adopted | Form committee for review of textbooks policy. | 2.70 | x 2.70 |  |  |  |  | BTBB
+ |  | Revised policy submitted for approval of competent authority | Minimal Cost | x |  |  |  |  | BTBB
 
 lxxvii
 
@@ -3580,13 +3915,13 @@ lxxvii
 
 [[START OF PAGE 173]]
 
-Procedures for implementation of amended policy prepared | Form committee for preparation of procedures formed | Minimal Cost | X | BTBB/BOC
---- | --- | --- | --- | --- | ---
-Develop procedures in consultation with publishers | Minimal Cost | X | BTBB/BOC
-Notify procedures | X | BTBB
-Standards textbooks developed | Standards reviewed and developed for textbooks as a product in terms of learning based content, style, illustration, language age | Form committee consisting of officials of BTBB, BOC, PITE, DOS, DOC, BISE and PPIU | 5.40 | X 5.40 | BOC/BTBB
-value on writing | Form sub- committees for levels and subjects | Cost covered under above | X | BOC/BTBB
-relevant to etc. | Expose the committee to various textbooks produced nationally and internationally for various levels and subjects | Cost covered under above | X | X | BOC/BTBB
+ | Procedures for implementation of amended policy prepared | Form committee for preparation of procedures formed | Minimal Cost |  | X |  |  |  | BTBB/BOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Develop procedures in consultation with publishers | Minimal Cost |  | X |  |  |  | BTBB/BOC
+ |  | Notify procedures |  |  |  | X |  |  | BTBB
+Standards for textbooks developed | Standards reviewed and developed for textbooks as a product in terms of learning value based on content, writing style, illustration, language relevant to age etc. | Form committee consisting of officials of BTBB, BOC, PITE, DOS, DOC, BISE and PPIU | 5.40 |  | X 5.40 |  |  |  | BOC/BTBB
+ |  | Form sub-committees for levels and subjects | Cost covered under above |  | X |  |  |  | BOC/BTBB
+ |  | Expose the committee to various textbooks produced nationally and internationally for various levels and subjects | Cost covered under above |  | X | X |  |  | BOC/BTBB
 
 lxxviii
 
@@ -3594,13 +3929,13 @@ lxxviii
 
 [[START OF PAGE 174]]
 
-Receive feedback from teachers and students on strengths and weaknesses of current textbooks | Cost covered under above | X | BOC/BTBB
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Prepare standards for textbooks | Cost covered under above | X | BOC/BTBB
-Notify standards for textbooks | Minimal Cost | X | BOC/BTBB
-TORs for textbooks approval by BOC | Develop TORs for approval by BOC through consultations between BTBB and BOC | Minimal Cost | X | BOC/BTBB
-Standardized feedback mechanism on implemented textbooks | Collate annual feedback form teachers with the assistance of EFOs | 1.80 | x 0.36 | x 0.36 | x 0.36 | x 0.36 | x 0.36 | BTBB/DOS/DOC
-Field research on textbooks implemented every two years | 3.60 | x 1.80 | 1.80 | BTBB/PPIU
+ |  | Receive feedback from teachers and students on strengths and weaknesses of current textbooks | Cost covered under above |  |  | X |  |  | BOC/BTBB
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Prepare standards for textbooks | Cost covered under above |  |  | X |  |  | BOC/BTBB
+ |  | Notify standards for textbooks | Minimal Cost |  |  | X |  |  | BOC/BTBB
+ | TORs for textbooks approval by BOC | Develop TORs for approval by BOC through consultations between BTBB and BOC | Minimal Cost |  | X |  |  |  | BOC/BTBB
+ | Standardized feedback mechanism on implemented textbooks | Collate annual feedback form teachers with the assistance of EFOs | 1.80 | x 0.36 | x 0.36 | x 0.36 | x 0.36 | x 0.36 | BTBB/DOS/DOC
+ |  | Field research on textbooks implemented every two years | 3.60 |  |  | x 1.80 |  | 1.80 | BTBB/PPIU
 
 lxxix
 
@@ -3608,13 +3943,13 @@ lxxix
 
 [[START OF PAGE 175]]
 
-Publish feedback in an Annual Report prepared for the purpose | Minimal Cost | x | x | x | BTBB/PPIU
---- | --- | --- | --- | --- | ---
-Quality textbooks prepared on Curriculum 2006 implemented in all classes by 2016 | Textbooks prepared for Phase I (1,6,9,11) by December 2013 | Develop intermediate standards for textbooks development by the publishers for Phase I | Minimal Cost | x | BTBB/BOC
-Develop intermediate standards for review by BTBB for Phase I | Minimal Cost
-Develop intermediate standards for textbooks approval by BOC for Phase I | Minimal Cost | x | BTBB/BOC
-Notify review standards and SOPs | Minimal Cost | x | BTBB/BOC
-Form committees according to revised standards | Minimal Cost | x | BTBB/BOC
+ |  | Publish feedback in an Annual Report prepared for the purpose | Minimal Cost |  | x | x | x | x | BTBB/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Quality textbooks prepared on Curriculum 2006 implemented in all classes by 2016 | Textbooks prepared for Phase I (1,6,9,11) by December 2013 | Develop intermediate standards for textbooks development by the publishers for Phase I | Minimal Cost | x |  |  |  |  | BTBB/BOC
+ |  | Develop intermediate standards for review by BTBB for Phase I | Minimal Cost |  |  |  |  |  |
+ |  | Develop intermediate standards for textbooks approval by BOC for Phase I | Minimal Cost | x |  |  |  |  | BTBB/BOC
+ |  | Notify review standards and SOPs | Minimal Cost | x |  |  |  |  | BTBB/BOC
+ |  | Form committees according to revised standards | Minimal Cost | x |  |  |  |  | BTBB/BOC
 
 lxxx
 
@@ -3622,46 +3957,45 @@ lxxx
 
 [[START OF PAGE 176]]
 
-Advertise for preparation of Phase I books | Minimal Cost | x | BTBB
---- | --- | --- | --- | ---
-Review of manuscripts received by BTBB | Minimal Cost | x | BTBB
-Approval of selected textbook by BOC | Minimal Cost | x
-BOC
-Textbooks prepared for Phase II by December 2014 | Advertise for preparation of Phase II books | Minimal Cost | x | BTBB
-Review of manuscripts received by BTBB | Minimal Cost | x | BTBB
-Approval of selected textbook by BOC | Minimal Cost | x | BOC
-Textbooks prepared for Phase III by | Advertise for preparation of Phase III books | Minimal Cost | x | BTBB
-December 2015 | Review of manuscripts received by BTBB | Minimal Cost | X | BTBB
-Approval of selected textbook by BOC | Minimal Cost | X | BOC
+ |  | Advertise for preparation of Phase I books | Minimal Cost | x |  |  |  |  | BTBB
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Review of manuscripts received by BTBB | Minimal Cost | x |  |  |  |  | BTBB
+ |  | Approval of selected textbook by BOC | Minimal Cost | x |  |  |  |  | BOC
+ | Textbooks prepared for Phase II by December 2014 | Advertise for preparation of Phase II books | Minimal Cost |  | x |  |  |  | BTBB
+ |  | Review of manuscripts received by BTBB | Minimal Cost |  | x |  |  |  | BTBB
+ |  | Approval of selected textbook by BOC | Minimal Cost |  | x |  |  |  | BOC
+ | Textbooks prepared for Phase III by December 2015 | Advertise for preparation of Phase III books | Minimal Cost |  |  | x |  |  | BTBB
+ |  | Review of manuscripts received by BTBB | Minimal Cost |  |  |  | X |  | BTBB
+ |  | Approval of selected textbook by BOC | Minimal Cost |  |  |  | X |  | BOC
 
-lxxxi lxxxii lxxxiv lxxxvii lxxxix
+lxxxi
 
 [[END OF PAGE 176]]
 
 [[START OF PAGE 177]]
 
-Provincial capacity to develop quality textbooks enhanced | Capacity Development of BTBB as a regulator of textbook quality by | Assess current capacity of BTBB | 8.75 | x 2.92 | x 5.83 | BTBB/PPIU
---- | --- | --- | --- | --- | --- | ---
-December 2016 | Develop capacity development plan for BTBB | Cost cover under the above assessment cost | x | BTBB/PPIU
-Implement Phase I of CD Plan | Cost to be determined by CD Plan | x | BTBB/PPIU
-Implement Phase II of CD Plan | Cost to be determined by CD Plan | x | BTBB/PPIU
-Implement Phase III of CD Plan | Cost to be determined by CD Plan | x | BTBB/PPIU
-Local publishing capacity improved to requisite | Assess current publishing capacity | 2.70 | x 2.70 | BTBB/PPIU
-standards by June 2017 | Prepare training modules and plan for publishing professionals (authors, editors, illustrators etc. ) | Part of the above assessment cost | x | BTBB
-Implement training plan for publishing professionals | Cost to be determined by the Capacity Assessment | x | x | x | BTBB
+Provincial capacity to develop quality textbooks enhanced | Capacity Development of BTBB as a regulator of textbook quality by December 2016 | Assess current capacity of BTBB | 8.75 | x 2.92 | x 5.83 |  |  |  | BTBB/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Develop capacity development plan for BTBB | Cost cover under the above assessment cost | x |  |  |  |  | BTBB/PPIU
+ |  | Implement Phase I of CD Plan | Cost to be determined by CD Plan |  | x |  |  |  | BTBB/PPIU
+ |  | Implement Phase II of CD Plan | Cost to be determined by CD Plan |  |  | x |  |  | BTBB/PPIU
+ |  | Implement Phase III of CD Plan | Cost to be determined by CD Plan |  |  |  | x |  | BTBB/PPIU
+ | Local publishing capacity improved to requisite standards by June 2017 | Assess current publishing capacity | 2.70 |  | x 2.70 |  |  |  | BTBB/PPIU
+ |  | Prepare training modules and plan for publishing professionals (authors, editors, illustrators etc. ) | Part of the above assessment cost | x |  |  |  |  | BTBB
+ |  | Implement training plan for publishing professionals | Cost to be determined by the Capacity Assessment |  | x | x | x |  | BTBB
 
+lxxxii
 [[END OF PAGE 177]]
 
 [[START OF PAGE 178]]
 
-Courses on textbooks taught in pre- service teacher education | Introduce courses on textbooks as prescribed in the HEC curriculum | Minimal Cost | X | BOC
---- | --- | --- | --- | --- | --- | ---
-Train faculty on textbooks courses as part of faculty development | To be included in the cost of the faculty development | x | x | x | BOC/PITE
-process Utilise textbook professionals as visiting faculty till 2015 | program
-Minimal Cost | x | x | x | BOC/BTBB
-Teachers and in new | Continuous professional development programme based curriculum | Conduct teachers' baseline competencies study | 10.50 | x 3.50 | x 7.00 | PITE/PPIU
-on developed and implemented | Prepare professional development plan for five years | 1.80 | x 1.80 | PITE
-Develop curriculum based teacher training modules | 20.00 | x 10.00 | x 10.00 | PITE
+ | Courses on textbooks taught in pre-service teacher education | Introduce courses on textbooks as prescribed in the HEC curriculum | Minimal Cost | X |  |  |  |  | BOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Train faculty on textbooks courses as part of faculty development process | To be included in the cost of the faculty development program |  | x | x | x | x | BOC/PITE
+ |  | Utilise textbook professionals as visiting faculty till 2015 | Minimal Cost | x | x | x |  |  | BOC/BTBB
+Teachers trained and supported in applying the new curricula | Continuous professional development programme based on curriculum developed and implemented | Conduct teachers’ baseline competencies study | 10.50 | x 3.50 | x 7.00 |  |  |  | PITE/PPIU
+ |  | Prepare professional development plan for five years | 1.80 |  | x 1.80 |  |  |  | PITE
+ |  | Develop curriculum based teacher training modules | 20.00 |  | x 10.00 | x 10.00 |  |  | PITE
 
 lxxxiii
 
@@ -3669,31 +4003,31 @@ lxxxiii
 
 [[START OF PAGE 179]]
 
-Prepare training plan | Cost to be determined as per professional development plan | x | PITE
---- | --- | --- | --- | --- | --- | ---
-Implement phase wise training | Cost to be determined as per professional development plan | x | x | x | x | PITE
-Review guides prepare by DSD | Minimal Cost | DOS
-Preparation of teachers' guides based on curriculum 2006 | Punjab Reprint Cost of the | PITE/BTBB/DOC/ BTBB
-guide | 420.00 | x | x 420.00
-Adapt as per local needs | x | PITE/BTBB/DOC/ DOS
-Distribute teachers' guides to schools | 3.00 | x 3.00 | DOC/DOS
-Monitor use of teachers' guides in the classrooms | x | x | x | X | DOC/DOS
-Obtain feedback on implementation | x | x | X | DOC/DOS
+ |  | Prepare training plan | Cost to be determined as per professional development plan |  | x |  |  |  | PITE
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Implement phase wise training | Cost to be determined as per professional development plan |  | x | x | x | x | PITE
+ |  | Review guides prepare by DSD Punjab | Minimal Cost |  |  |  |  |  | PITE/BTBB/DOC/DOS
+ | Preparation of teachers’ guides based on curriculum 2006 | Reprint Cost of the guide | 420.00 | x | x 420.00 |  |  |  | BTBB
+ |  | Adapt as per local needs |  |  | x |  |  |  | PITE/BTBB/DOC/DOS
+ |  | Distribute teachers’ guides to schools | 3.00 |  | x 3.00 |  |  |  | DOC/DOS
+ |  | Monitor use of teachers’ guides in the classrooms |  |  | x | x | x | x | DOC/DOS
+ |  | Obtain feedback on implementation |  |  |  | x | x | X | DOC/DOS
 
+lxxxiv
 [[END OF PAGE 179]]
 
 [[START OF PAGE 180]]
 
-100% teachers receive at least one training under the CPD by December 2017 | Develop database for teachers | Covered under BEMIS CD plan | x | PITE/BEMIS
---- | --- | --- | --- | --- | --- | ---
-Use database to select teachers for training | X | PITE/DOS/DOC
-Update database on ongoing basis | x | X | x | PITE/BEMIS
-Provincial capacity for in service teacher professional development enhanced | Capacity Development of PITE as a professional development institute improved as per requisite standards by December 2016 | Assess current capacity of PITE | 15.75 | x 5.25 | x 10.50 | PPIU/PITE
-Prepare capacity development plan for PITE | x | PPIU/PITE
-Implement Phase I of CD Plan | Cost to be determined by CD Plan | x | PPIU/PITE
-Implement Phase II of CD Plan | Cost to be determined by CD Plan | x | PPIU/PITE
-Implement Phase III of CD Plan | Cost to be determined by CD Plan | x | PPIU/PITE
-Minimise impact of multi-grade teaching in primary schools | Primary school teachers trained on teaching on | Assessment of needs of mulitgrade teachers | x | PITE/BOC/BTBBB
+ | 100% teachers receive at least one training under the CPD by December 2017 | Develop database for teachers | Covered under BEMIS CD plan |  | x |  |  |  | PITE/BEMIS
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Use database to select teachers for training |  |  | X |  |  |  | PITE/DOS/DOC
+ |  | Update database on ongoing basis |  |  | x | X | x | x | PITE/BEMIS
+Provincial capacity for in service teacher professional development enhanced | Capacity Development of PITE as a professional development institute improved as per requisite standards by December 2016 | Assess current capacity of PITE | 15.75 | x 5.25 | x 10.50 |  |  |  | PPIU/PITE
+ |  | Prepare capacity development plan for PITE |  | x |  |  |  |  | PPIU/PITE
+ |  | Implement Phase I of CD Plan | Cost to be determined by CD Plan |  | x |  |  |  | PPIU/PITE
+ |  | Implement Phase II of CD Plan | Cost to be determined by CD Plan |  |  | x |  |  | PPIU/PITE
+ |  | Implement Phase III of CD Plan | Cost to be determined by CD Plan |  |  |  | x |  | PPIU/PITE
+Minimise impact of multi-grade teaching in primary schools | Primary school teachers trained on teaching on | Assessment of needs of multigrade teachers |  | x |  |  |  |  | PITE/BOC/BTBBB
 
 lxxxv
 
@@ -3701,15 +4035,15 @@ lxxxv
 
 [[START OF PAGE 181]]
 
-multi-grade classrooms | Preparation of training material | Impp | x | PITE/BOC/BTBBB
---- | --- | --- | --- | --- | --- | ---
-Training imparted under CPD process | x | x | x | x
-Preparation of specialised learning material for multigrade classrooms | Assessment of needs of mulit grade classrooms | Minimal Cost | x | PITE/BOC/BTBBB
-Preparation of material | x
-Dissemination of material | x | x | x
-Improve quality of Pre-service teacher education | Development of standards for pre-service teacher education by | Review standards developed by Pre- step/NACTE | 26.25 | x | x 26.25 | BOC
-December 2015 | Adapt the standards to Balochistan | x | BOC
-Obtain approval of standards from competent authority | x | BOC
+ | multi-grade classrooms | Preparation of training material | Impp | x |  |  |  |  | PITE/BOC/BTBBB
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Training imparted under CPD process |  |  | x | x | x | x | 
+ | Preparation of specialised learning material for multigrade classrooms | Assessment of needs of mulit grade classrooms | Minimal Cost | x |  |  |  |  | PITE/BOC/BTBBB
+ |  | Preparation of material |  |  | x |  |  |  | 
+ |  | Dissemination of material |  |  |  | x | x | x | 
+Improve quality of Pre-service teacher education | Development of standards for pre-service teacher education by December 2015 | Review standards developed by Pre-step/NACTE | 26.25 | x | x 26.25 |  |  |  | BOC
+ |  | Adapt the standards to Balochistan |  |  | x |  |  |  | BOC
+ |  | Obtain approval of standards from competent authority |  |  | x |  |  |  | BOC
 
 lxxxvi
 
@@ -3717,26 +4051,27 @@ lxxxvi
 
 [[START OF PAGE 182]]
 
-Prepare a monitoring and evaluation process to ensure implementation of standards | x | BOC
---- | --- | --- | --- | --- | ---
-Implement standards | x | x | x | BOC
-Current courses for pre-service replaced by ADE and 4 year B.Ed | Select four GCEs for conversion | x | BOC
-Develop a transition plan for the 4 colleges | 5.40 | x 5.40 | BOC
-Implement transition plan | Cost to be determined under Transition plan | x | x | x | BOC
-Faculty development of pre-service teacher education institutions | Undertake a study to identify current competency gaps in faculty | 50.00 | x 25.00 | x 25.00 | PPIU/BOC
-Prepare faculty development plan in view of the study | Cost to be determined on the basis of study | X | PPIU/BOC
-Develop faculty selection standards | Minimal Cost | X | BOC
+ |  | Prepare a monitoring and evaluation process to ensure implementation of standards |  |  | x |  |  |  | BOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Implement standards |  |  | x | x | x | x | BOC
+ | Current courses for pre-service replaced by ADE and 4 year B.Ed | Select four GCEs for conversion |  | x |  |  |  |  | BOC
+ |  | Develop a transition plan for the 4 colleges | 5.40 |  | x 5.40 |  |  |  | BOC
+ |  | Implement transition plan | Cost to be determined under Transition plan |  | x | x | x | x | BOC
+ | Faculty development of pre-service teacher education institutions | Undertake a study to identify current competency gaps in faculty | 50.00 |  | x 25.00 | x 25.00 |  |  | PPIU/BOC
+ |  | Prepare faculty development plan in view of the study | Cost to be determined on the basis of study |  | X |  |  |  | PPIU/BOC
+ |  | Develop faculty selection standards | Minimal Cost |  | X |  |  |  | BOC
 
+lxxxvii
 [[END OF PAGE 182]]
 
 [[START OF PAGE 183]]
 
-Develop career structure for pre- service faculty | Minimal Cost | X | X | BOC/PPIU
---- | --- | --- | --- | --- | ---
-Regulatory mechanism set up for private sector pre- service institutions | Form committee to develop regulatory mechanism in consultation with the private sector providers | 17.50 | x 8.750 | x 8.750 | BOC/DOC
-Prepare training system to assist private sector to comply with notified standards | Part of the DoS capacity development plan | X | BOC/DOC
-Prepare plan to ensure compliance of private sector with notified standards | Part of the DoS capacity development plan | X | BOC/DOC
-Implement monitoring and feedback mechanism on standards of private and public sector institutions | X | X | BOC
+ |  | Develop career structure for pre-service faculty | Minimal Cost |  | X | X |  |  | BOC/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Regulatory mechanism set up for private sector pre-service institutions | Form committee to develop regulatory mechanism in consultation with the private sector providers | 17.50 |  | x 8.750 | x 8.750 |  |  | BOC/DOC
+ |  | Prepare training system to assist private sector to comply with notified standards | Part of the DoS capacity development plan |  | X |  |  |  | BOC/DOC
+ |  | Prepare plan to ensure compliance of private sector with notified standards | Part of the DoS capacity development plan |  | X |  |  |  | BOC/DOC
+ |  | Implement monitoring and feedback mechanism on standards of private and public sector institutions |  |  |  | X | X | X | BOC
 
 lxxxviii
 
@@ -3744,28 +4079,29 @@ lxxxviii
 
 [[START OF PAGE 184]]
 
-Develop provincial capacity review curriculum | for of Development of curriculum review standards by June 2013 | Form a committee to develop standards for curriculum, curriculum review processes, reviewers and developers | 5.40 | X 1.80 | x 3.60 | BOC/PPIU
---- | --- | --- | --- | --- | --- | ---
-Notify standards | X | BOC
-Develop a training plan for reviewers and developers | X | X | X
-Capacity development of BOC for curriculum review and management of CIF by December 2016 | Assess current capacity of BOC | 7.20 | X 7.20 | PPIU/BOC
-Prepare capacity development plan for BOC | X | PPIU/BOC
-Implement Phase I of CD Plan | Cost to be determined by CD Plan | X | PPIU/BOC
-Implement Phase II of CD Plan | Cost to be determined by CD Plan | X | PPIU/BOC
-Implement Phase III of CD Plan | Cost to be determined by CD Plan | X | PPIU/BOC
+Develop provincial capacity for review of curriculum | Development of curriculum review standards by June 2013 | Form a committee to develop standards for curriculum, curriculum review processes, reviewers and developers | 5.40 | X 1.80 | x 3.60 |  |  |  | BOC/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Notify standards |  |  | X |  |  |  | BOC
+ |  | Develop a training plan for reviewers and developers |  |  | X | X | X | X | 
+ | Capacity development of BOC for curriculum review and management of CIF by December 2016 | Assess current capacity of BOC | 7.20 | X 7.20 |  |  |  |  | PPIU/BOC
+ |  | Prepare capacity development plan for BOC |  | X |  |  |  |  | PPIU/BOC
+ |  | Implement Phase I of CD Plan | Cost to be determined by CD Plan |  | X |  |  |  | PPIU/BOC
+ |  | Implement Phase II of CD Plan | Cost to be determined by CD Plan |  |  | X |  |  | PPIU/BOC
+ |  | Implement Phase III of CD Plan | Cost to be determined by CD Plan |  |  |  | X |  | PPIU/BOC
 
+lxxxix
 [[END OF PAGE 184]]
 
 [[START OF PAGE 185]]
 
-In school assessment processes based on curriculum and tests critical analytical ability | 60% internal assessments based on curriculum | Training modules on curriculum based quality assessment developed | Cost included in CPD Plan | X | PITE/BOC
---- | --- | --- | --- | --- | --- | --- | ---
-Establish and implement feedback mechanism | Cost included in CPD Plan | X | PITE/BOC
-Train teachers on curriculum based assessment as part of CPD | Cost included in CPD Plan | X | X | X | X | PITE/BOC
-Courses on assessment taught in pre- service teacher | Introduce courses on assessments as prescribed in the HEC curriculum | Minimal Cost | X | BOC
-education | Train faculty on assessment courses | As per faculty development program | X | X | X | X | BOC
-Utilize external professionals as visiting faculty till 2015 | Minimal Cost | X | X | X | BOC
-Function of PEACE as a | Scope of PEACE reviewed | Review the scope of PEACE | X | PPIU/BOC
+In school assessment processes based on curriculum and tests critical analytical ability | 60% internal assessments based on curriculum | Training modules on curriculum based quality assessment developed | Cost included in CPD Plan |  | X |  |  |  | PITE/BOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Establish and implement feedback mechanism | Cost included in CPD Plan |  | X |  |  |  | PITE/BOC
+ |  | Train teachers on curriculum based assessment as part of CPD | Cost included in CPD Plan |  | X | X | X | X | PITE/BOC
+ | Courses on assessment taught in pre-service teacher education | Introduce courses on assessments as prescribed in the HEC curriculum | Minimal Cost | X |  |  |  |  | BOC
+ |  | Train faculty on assessment courses | As per faculty development program |  | X | X | X | X | BOC
+ |  | Utilize external professionals as visiting faculty till 2015 | Minimal Cost | X | X | X |  |  | BOC
+Function of PEACE as a | Scope of PEACE reviewed | Review the scope of PEACE |  | X |  |  |  |  | PPIU/BOC
 
 xc
 
@@ -3773,14 +4109,14 @@ xc
 
 [[START OF PAGE 186]]
 
-diagnostic assessment body revived and institutionalized | Capacity assessment of PEACE conducted | Assess capacity of PEACE to undertake regular diagnostic assessments and ensure feedback into the system to improve service delivery | 15.75 | X 5.25 | x 10.50 | PPIU/BOC
---- | --- | --- | --- | --- | --- | ---
-Capacity development plan prepared | Prepare capacity development plan for PEACE | X | X | PPIU/BOC
-Implement Phase I of CD Plan | Cost to be determined by CD Plan
-Implement Phase II of CD Plan | Cost to be determined by CD Plan
-Implement Phase III of CD Plan | Cost to be determined by CD Plan
-BISE conducts credible standardized examinations as per curriculum by 2016 | Development of standards for examinations papers, conduct | Review current standards | 26.25 | X 8.75 | X 17.50 | PPIU/BISE
-and assessment | Develop standards for examination papers, conduct and examiners | Cost covered under review of standards | X | BISE
+diagnostic assessment body revived and institutionalized | Capacity assessment of PEACE conducted | Assess capacity of PEACE to undertake regular diagnostic assessments and ensure feedback into the system to improve service delivery | 15.75 |  | X 5.25 | x 10.50 |  |  | PPIU/BOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Capacity development plan prepared | Prepare capacity development plan for PEACE |  |  |  | X | X | X | PPIU/BOC
+ |  | Implement Phase I of CD Plan | Cost to be determined by CD Plan |  |  |  |  |  | 
+ |  | Implement Phase II of CD Plan | Cost to be determined by CD Plan |  |  |  |  |  | 
+ |  | Implement Phase III of CD Plan | Cost to be determined by CD Plan |  |  |  |  |  | 
+BISE conducts credible standardized examinations as per curriculum by 2016 | Development of standards for examinations papers, conduct and assessment | Review current standards | 26.25 | X 8.75 | X 17.50 |  |  |  | PPIU/BISE
+ |  | Develop standards for examination papers, conduct and examiners | Cost covered under review of standards |  | X |  |  |  | BISE
 
 xci
 
@@ -3788,16 +4124,15 @@ xci
 
 [[START OF PAGE 187]]
 
-Notify standards | No Cost | X | BISE
---- | --- | --- | --- | --- | --- | ---
-Train and certify examiners on curriculum based assessments | Develop training modules on curriculum based assessments | 7.88 | X 7.88 | BISE/BOC
-Train examiners | 12.00 | X | X | X | BISE/BOC
-4.00 | 4.00 | 4.00
-Develop a certification process for qualification as examiner | Cost covered under Review and development of standards | X | BISE/BOC
-Create political and social support for eradication of cheating in public | Develop an awareness campaign against cheating in examinations | 1.80 | X 1.80 | PPIU/BISE/DOS/D OC
-examinations | Implement awareness plan | X | X | X | X | PPIU/BISE/DOS/D OC
-Provincial capacity to develop quality examinations as per curriculum, enhanced | Capacity Development of BISE by December 2016 | Assess current capacity of BISE | 8.75 | x 4.38 | x 4.38 | PPIU/BISE
-Develop capacity development plan for BISE | Cost cover under Assessment Cost | X | PPIU/BISE
+ |  | Notify standards | No Cost |  | X |  |  |  | BISE
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Train and certify examiners on curriculum based assessments | Develop training modules on curriculum based assessments | 7.88 |  | X 7.88 |  |  |  | BISE/BOC
+ |  | Train examiners | 12.00 |  |  | X 4.00 | X 4.00 | X 4.00 | BISE/BOC
+ |  | Develop a certification process for qualification as examiner | Cost covered under Review and development of standards |  |  | X |  |  | BISE/BOC
+ | Create political and social support for eradication of cheating in public examinations | Develop an awareness campaign against cheating in examinations | 1.80 | X 1.80 |  |  |  |  | PPIU/BISE/DOS/DOC
+ |  | Implement awareness plan |  |  | X | X | X | X | PPIU/BISE/DOS/DOC
+Provincial capacity to develop quality examinations as per curriculum, enhanced | Capacity Development of BISE by December 2016 | Assess current capacity of BISE | 8.75 |  | x 4.38 | x 4.38 |  |  | PPIU/BISE
+ |  | Develop capacity development plan for BISE | Cost cover under Assessment Cost | X |  |  |  |  | PPIU/BISE
 
 xcii
 
@@ -3805,21 +4140,13 @@ xcii
 
 [[START OF PAGE 188]]
 
-Implement Phase I of CD Plan | Cost to be determined by CD Plan | X | PPIU/BISE
---- | --- | --- | --- | ---
-Implement Phase II of CD Plan | Cost to be determined by CD Plan | X | PPIU/BISE
-Implement Phase III of CD Plan | Cost to be determined by CD Plan | X | PPIU/BISE
-Set up a Balochistan Examination Commission under DOS to conduct examinations for grades 5 and 8 on | 10.50 | x | x | x
-an annual basis | 3.50 | 3.50
-3.50
-Develop systems for development of papers and
-conduct of | Cost cover under above cost | DOS/DOC
-Train and examiners | Cost cover under
-DOS/DOC
-examinations
-cost
-certify
-above
+ |  | Implement Phase I of CD Plan | Cost to be determined by CD Plan |  | X |  |  |  | PPIU/BISE
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Implement Phase II of CD Plan | Cost to be determined by CD Plan |  |  | X |  |  | PPIU/BISE
+ |  | Implement Phase III of CD Plan | Cost to be determined by CD Plan |  |  |  | X |  | PPIU/BISE
+ | Public examinations conducted by DOS based on curriculum and standardized | Set up a Balochistan Examination Commission under DOS to conduct examinations for grades 5 and 8 on an annual basis | 10.50 |  | x 3.50 | x 3.50 | x 3.50 |  | PPIU/DOS
+ |  | Develop systems for development of papers and conduct of examinations | Cost cover under above cost |  |  |  |  |  | DOS/DOC
+ |  | Train and certify examiners | Cost cover under above cost |  |  |  |  |  | DOS/DOC
 
 xciii
 
@@ -3827,14 +4154,14 @@ xciii
 
 [[START OF PAGE 189]]
 
-Prepare feedback for teachers and PITE on the basis of the examinations conducted. | Cost cover under above cost | DOS/DOC
---- | --- | --- | --- | --- | --- | ---
-Development of learner friendly school environment | School building specifications revised by December 2013 | Form a committee of teachers and EFOs to assess current school specifications for each district | 0.30 | X | X 0.15 | DOS/DOC
-Revise standards in the light of findings of the committee | No Cost | 0.15 | X | DOS/DOC
-Notify new standards | No Cost | X | DOS/DOC
-Missing facilities replenished in existing schools by June 2017 | Prepare plan for replenishment of missing facilities based on BEMIS data | No Cost (plan developed as per BEMIS Data) | X | DOS/DOC
-Implement the plan phase wise | 1800.00 | X 450.00 | X 450.00 | X 450.00 | X 450.00 | DOS/DOC
-Monitor progress of implementation | X | X | X | X | DOS/DOC
+ |  | Prepare feedback for teachers and PITE on the basis of the examinations conducted. | Cost cover under above cost |  |  |  |  |  | DOS/DOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Development of learner friendly school environment | School building specifications revised by December 2013 | Form a committee of teachers and EFOs to assess current school specifications for each district | 0.30 | X 0.15 | X 0.15 |  |  |  | DOS/DOC
+ |  | Revise standards in the light of findings of the committee | No Cost |  | X |  |  |  | DOS/DOC
+ |  | Notify new standards | No Cost |  | X |  |  |  | DOS/DOC
+ | Missing facilities replenished in existing schools by June 2017 | Prepare plan for replenishment of missing facilities based on BEMIS data | No Cost (plan developed as per BEMIS Data) |  | X |  |  |  | DOS/DOC
+ |  | Implement the plan phase wise | 1800.00 |  | X 450.00 | X 450.00 | X 450.00 | X 450.00 | DOS/DOC
+ |  | Monitor progress of implementation |  |  | X | X | X | X | DOS/DOC
 
 xciv
 
@@ -3842,12 +4169,12 @@ xciv
 
 [[START OF PAGE 190]]
 
-Awareness campaign against corporal punishment and child abuse prepared and conducted | Conduct a study to create a baseline on prevalence of, and attitude towards, corporal punishment and child abuse | 2.70 | x 1.35 | X 1.35 | PPIU/DOS/DOC
---- | --- | --- | --- | --- | --- | ---
-Develop an awareness and advocacy campaign on the basis of the baseline | will be costed on the basis of study | X | PPIU/DOS/DOC
-Implement the awareness and advocacy campaign | Part of the above consultancy will reflect design | X | X | X | X | PPIU/DOS/DOC
-Review impact through follow up study on prevalence of corporal punishment | Mechanizm to be prepared as part of the study | X | PPIU/DOS/DOC
-Functional libraries and laboratories in all middle and secondary | Review current functionality through a detailed study and data collection | 3.60 | x 3.60 | PPIU/DOS/DOC
+ | Awareness campaign against corporal punishment and child abuse prepared and conducted | Conduct a study to create a baseline on prevalence of, and attitude towards, corporal punishment and child abuse | 2.70 | x 1.35 | X 1.35 |  |  |  | PPIU/DOS/DOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Develop an awareness and advocacy campaign on the basis of the baseline | will be costed on the basis of study |  | X |  |  |  | PPIU/DOS/DOC
+ |  | Implement the awareness and advocacy campaign | Part of the above consultancy will reflect design |  | X | X | X | X | PPIU/DOS/DOC
+ |  | Review impact through follow up study on prevalence of corporal punishment | Mechanizm to be prepared as part of the study |  |  |  |  | X | PPIU/DOS/DOC
+ | Functional libraries and laboratories in all middle and secondary | Review current functionality through a detailed study and data collection | 3.60 |  | x 3.60 |  |  |  | PPIU/DOS/DOC
 
 xcv
 
@@ -3855,13 +4182,13 @@ xcv
 
 [[START OF PAGE 191]]
 
-schools | Develop a plan for enhanced functionality and usage | Based on the Review study | X | PPIU/DOS/DOC
---- | --- | --- | --- | --- | ---
-Include library and laboratory use as an indicator in BEMIS database | As per BEMIS CD Plan | X | PPIU/DOS/DOC
-Friendly classroom concepts included in CPD modules by October 2013 | Training modules on friendly classroom prepared | Cost to be covered under CPD plan | X | PITE/DOS
-Train teachers on friendly classroom concepts as part of CPD | Cost to be covered under CPD plan | X | X | X | PITE/DOS/BACT
-Co-curricular activities revived | Assess state of co- curricular activities in schools | 2.70 | X 2.70 | PPIU/DOS
-Prepare a plan for revival of co- curricular activities in schools | X | PPIU/DOS
+ | schools | Develop a plan for enhanced functionality and usage | Based on the Review study |  | X |  |  |  | PPIU/DOS/DOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Include library and laboratory use as an indicator in BEMIS database | As per BEMIS CD Plan |  |  | X |  |  | PPIU/DOS/DOC
+ | Friendly classroom concepts included in CPD modules by October 2013 | Training modules on friendly classroom prepared | Cost to be covered under CPD plan | X |  |  |  |  | PITE/DOS
+ |  | Train teachers on friendly classroom concepts as part of CPD | Cost to be covered under CPD plan |  | X | X | X | X | PITE/DOS/BACT
+ | Co-curricular activities revived | Assess state of co-curricular activities in schools | 2.70 |  | X 2.70 |  |  |  | PPIU/DOS
+ |  | Prepare a plan for revival of co-curricular activities in schools |  |  |  | X |  |  | PPIU/DOS
 
 xcvi
 
@@ -3869,14 +4196,14 @@ xcvi
 
 [[START OF PAGE 192]]
 
-Develop a separate section in the DOS for overseeing development and implementation of annual co- curricular activities plans | BEMIS to document in the data | X | PPIU/DOS
---- | --- | --- | --- | --- | --- | ---
-Preparation and implementation of a school language policy conducive to learning and social mobility | Review current school language policy in the light of learning needs of the students , current capacity of teachers | Conduct a school language study | 14.00 | x 7.00 | x 7.00 | PPIU/BOC
-Revise policy in the light of findings | x | x | PPIU/BOC
-Prepare an implementation plan for the policy | x | PPIU/BOC
-Implement the plan phase wise | x | BOC
-English and Urdu language syllabi for grades 9-12 revised to shift away from literature heavy courses to language | Form committee to review current syllabi | Low/No Cost (formation of committee and could be done on immediate basis) | X | X | BOC/DOS/DOC
-Develop new syllabi in the light of the committee's | X | BOC/DOS/DOC
+ |  | Develop a separate section in the DOS for overseeing development and implementation of annual co-curricular activities plans | BEMIS to document in the data |  |  | X |  |  | PPIU/DOS
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Preparation and implementation of a school language policy conducive to learning and social mobility | Review current school language policy in the light of learning needs of the students , current capacity of teachers | Conduct a school language study | 14.00 |  | x 7.00 | x 7.00 |  |  | PPIU/BOC
+ |  | Revise policy in the light of findings |  |  | x | x |  |  | PPIU/BOC
+ |  | Prepare an implementation plan for the policy |  |  |  | x |  |  | PPIU/BOC
+ |  | Implement the plan phase wise |  |  |  |  | x | x | BOC
+ | English and Urdu language syllabi for grades 9-12 revised to shift away from literature heavy courses to language | Form committee to review current syllabi | Low/No Cost (formation of committee and could be done on immediate basis) | X | X |  |  |  | BOC/DOS/DOC
+ |  | Develop new syllabi in the light of the committee’s |  |  | X |  |  |  | BOC/DOS/DOC
 
 xcvii
 
@@ -3884,17 +4211,14 @@ xcvii
 
 [[START OF PAGE 193]]
 
-teaching | findings
---- | --- | --- | --- | --- | --- | ---
-Publish new textbooks for Urdu and English for grades 9-12 | Covered under the phase III of text book printing | X | X | BOC/BTBB
-Strengthen capacity of the education sector in mother tongues teaching | Mother tongue subjects taught as optional subject from middle to higher secondary levels | Evaluate capacity needs for teaching mother tongues in middle and secondary schools as an optional subject | 2.70 | X 1.35 | x | PPIU/DOS/DOC/B ACT
-Prepare training needs and recruitment plan | as per study | X | 1.35 | PPIU/DOS/DOC/B ACT
-Develop textbooks on mother tongue teaching | as per study | X | X | BTBBB/DOS
-local setting of a local | Form committee to prepare concept paper on languages academy | as per study | X | PPIU
-Prepare PC 1 for approval | as per study | X | PPIU
-Promote
-languages through up languages
-academy
+ | teaching | findings |  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Publish new textbooks for Urdu and English for grades 9-12 | Covered under the phase III of text book printing |  |  | X | X | X | BOC/BTBB
+Strengthen capacity of the education sector in mother tongues teaching | Mother tongue subjects taught as optional subject from middle to higher secondary levels | Evaluate capacity needs for teaching mother tongues in middle and secondary schools as an optional subject | 2.70 |  | X 1.35 | x 1.35 |  |  | PPIU/DOS/DOC/BACT
+ |  | Prepare training needs and recruitment plan | as per study |  | X |  |  |  | PPIU/DOS/DOC/BACT
+ |  | Develop textbooks on mother tongue teaching | as per study |  |  | X | X | X | BTBBB/DOS
+ | Promote local languages through setting up of a local languages academy | Form committee to prepare concept paper on languages academy | as per study | X |  |  |  |  | PPIU
+ |  | Prepare PC 1 for approval | as per study |  | X |  |  |  | PPIU
 
 xcviii
 
@@ -3902,15 +4226,15 @@ xcviii
 
 [[START OF PAGE 194]]
 
-Improve outcomes of school education for all children | Review current policies and approaches to improve outcomes | Conduct a tracer study to catalogue school outcomes for graduates and drop outs | 15.75 | X | x | x | PPIU
---- | --- | --- | --- | --- | --- | --- | ---
-Present findings to political leadership, society and education sector professionals | Minimal Cost | X | X | PPIU
-Review policy and approaches in the light of findings and recommendations | Minimal Cost | X | X | PPIU
-Include employers from government and the private sector in development of curriculum, textbooks and assessments | Minimal Cost | X | X | X | PPIU/BOC/BTBB
+Improve outcomes of school education for all children | Review current policies and approaches to improve outcomes | Conduct a tracer study to catalogue school outcomes for graduates and drop outs | 15.75 |  | X 5.25 | x 5.25 | x 5.25 |  | PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Present findings to political leadership, society and education sector professionals | Minimal Cost |  | X | X |  |  | PPIU
+ |  | Review policy and approaches in the light of findings and recommendations | Minimal Cost |  |  |  | X | X | PPIU
+ |  | Include employers from government and the private sector in development of curriculum, textbooks and assessments | Minimal Cost |  |  | X | X | X | PPIU/BOC/BTBB
 
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
---- | --- | --- | --- | --- | --- | ---
-in Millions (Pak Rs.) | 3371.63 | 40.98 | 1724.16 | 609.55 | 540.78 | 456.16
+ |  |  | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | in Millions (Pak Rs.) | 3371.63 | 40.98 | 1724.16 | 609.55 | 540.78 | 456.16 | 
 
 xcix
 
@@ -3929,17 +4253,15 @@ c
 
 ### Annex 2.1.1: Early Childhood Education
 
-Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe | Responsible
---- | --- | --- | --- | --- | ---
-2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Institutionalise Early Childhood Education in Balochistan | Policy framework for ECE prepared and implemented | Develop minimum standards for ECE in line with the national curriculum on ECE | 1.50 | X | DOS/BOC
-1.50
-Make ECE mandatory in all public and private schools with primary sections | No Cost | X | DOS
-Draft bye laws to ensure ECE in all BEF schools and private schools | No Cost | X | DOS/PPIU
-Develop a mechanism to monitor implementation of ECE in public and private schools | No Cost | X | DOS./PPIU
-Teachers trained for additional ECE classes | Develop course/scheme of studies for training of ECE teachers | 2.00 | X | BOC
-2.00
-Introduce ECE courses for pre-service teacher education programmes | No Cost | X | X | X | BOC
+Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe |  |  |  |  | Responsible
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | 
+Institutionalise Early Childhood Education in Balochistan | Policy framework for ECE prepared and implemented | Develop minimum standards for ECE in line with the national curriculum on ECE | 1.50 |  | X 1.50 |  |  |  | DOS/BOC
+ |  | Make ECE mandatory in all public and private schools with primary sections | No Cost | X |  |  |  |  | DOS
+ |  | Draft bye laws to ensure ECE in all BEF schools and private schools | No Cost |  | X |  |  |  | DOS/PPIU
+ |  | Develop a mechanism to monitor implementation of ECE in public and private schools | No Cost |  |  | X |  |  | DOS./PPIU
+ | Teachers trained for additional ECE classes | Develop course/scheme of studies for training of ECE teachers | 2.00 |  | X 2.00 |  |  |  | BOC
+ |  | Introduce ECE courses for pre-service teacher education programmes | No Cost |  | X | X | X |  | BOC
 
 ci
 
@@ -3947,19 +4269,17 @@ ci
 
 [[START OF PAGE 197]]
 
-Develop Scheme ofStudies for in service training of teachers selected for ECE | No Cost | X | X | X | PITE/DOS
---- | --- | --- | --- | --- | --- | ---
-Government provides funds for introduction of ECE in 30% primary schools | Allocate 5% of primary budget to ECE | No Cost | X | X | X | Sectt/DOF
-Amend budget books to make ECE a separate line item | No Cost | X | X | X | Sectt/DOF
-Expand and improve service delivery of ECE | ECE as per National Curriculum on ECE introduced in 3600 ECE classes of the public sector | Identify 1800 primary schools with existing/available classrooms for introduction of ECE in phase I | X | DOS
-Identify 1800 primary schools for construction of new ECE classrooms | X | DOS
-Approve PC-1 for provision of additional classrooms | X | DOS
-Construct 3600 classrooms (Govt | 4320.00 | X | X | X | DOS
-Regular Pakka Model) | 1440.00 | 1440.00 | 1440.00
-(Community Model) | 2520.00 | 840.00 | 840.00 | 840.00
-Recruitment and professional development of | Recruit and nominate 3600 teachers for ECE | 460.80 | X | X | X | DOS
-96.00 | 201.60 | 163.20
-education staff for | Recruit and appoint | 322.56 | X | X | X | DOS
+ |  | Develop Scheme ofStudies for in service training of teachers selected for ECE | No Cost |  | X | X | X |  | PITE/DOS
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Government provides funds for introduction of ECE in 30% primary schools | Allocate 5% of primary budget to ECE | No Cost | X | X | X |  |  | Sectt/DOF
+ |  | Amend budget books to make ECE a separate line item | No Cost | X | X | X |  |  | Sectt/DOF
+Expand and improve service delivery of ECE | ECE as per National Curriculum on ECE introduced in 3600 ECE classes of the public sector | Identify 1800 primary schools with existing/available classrooms for introduction of ECE in phase I |  |  | X |  |  |  | DOS
+ |  | Identify 1800 primary schools for construction of new ECE classrooms |  |  |  | X |  |  | DOS
+ |  | Approve PC-1 for provision of additional classrooms |  |  |  | X |  |  | DOS
+ |  | Construct 3600 classrooms (Govt Regular Pakka Model) | 4320.00 |  |  | X 1440.00 | X 1440.00 | X 1440.00 | DOS
+ |  | (Community Model) | 2520.00 |  |  | 840.00 | 840.00 | 840.00 | 
+ | Recruitment and professional development of education staff for | Recruit and nominate 3600 teachers for ECE | 460.80 |  | X 96.00 | X 201.60 | X 163.20 |  | DOS
+ |  | Recruit and appoint | 322.56 |  | X | X | X |  | DOS
 
 cii
 
@@ -3967,18 +4287,13 @@ cii
 
 [[START OF PAGE 198]]
 
-all 3600 schools | 3600 ayas | 67.20 141.12 | 114.24
---- | --- | --- | --- | --- | ---
-Conduct TNA of recruited teachers (TNA | 0.60 | X | X X | X | DOS/PITE
-of 100 Teachers per year newly inducted teachers) | 0.15 | 0.15 0.15 | 0.15
-Prepare teacher training material and include ECE teachers in the Continuous Professional Development | 5.40 | X | X | DOS/PITE
-framework | 2.70 | 2.70
-Training of 3600 ECE teachers in ECE | 810.00 | X | X X | X | PITE
-pedagogical and didactical skills | 202.50 | 202.50 202.50 | 202.50
-Develop training package for all primary school teachers to learn ECE classrooms for children upto 8 years of | 5.00 | X | PITE
-age and include in CPD framework | 5.00
-Organize teacher training programme for all primary school | 540.00 | X | X X | X | PITE/DOS
-teachers of targeted schools on ECE | 135.00 | 135.00 135.00 | 135.00
+ | all 3600 schools | 3600 ayas |  |  | 67.20 | 141.12 | 114.24 |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Conduct TNA of recruited teachers (TNA of 100 Teachers per year newly inducted teachers) | 0.60 |  | X 0.15 | X 0.15 | X 0.15 | X 0.15 | DOS/PITE
+ |  | Prepare teacher training material and include ECE teachers in the Continuous Professional Development framework | 5.40 |  | X 2.70 | X 2.70 |  |  | DOS/PITE
+ |  | Training of 3600 ECE teachers in ECE pedagogical and didactical skills | 810.00 |  | X 202.50 | X 202.50 | X 202.50 | X 202.50 | PITE
+ |  | Develop training package for all primary school teachers to learn ECE classrooms for children upto 8 years of age and include in CPD framework | 5.00 |  | X 5.00 |  |  |  | PITE
+ |  | Organize teacher training programme for all primary school teachers of targeted schools on ECE | 540.00 |  | X 135.00 | X 135.00 | X 135.00 | X 135.00 | PITE/DOS
 
 ciii
 
@@ -3986,17 +4301,14 @@ ciii
 
 [[START OF PAGE 199]]
 
-Capacity building of education stakeholders (Ed. Dept, politicians, media, etc) to advocate for the inclusion of ECE at all primary schools | X | X | X | X | DOS/PPIU
---- | --- | --- | --- | --- | --- | --- | ---
-PEACE develops standards and tools for continuous assessment of teacher performance and student learning and coordinates assessments with LCs/ADEOs | Minimal Cost | X | X | BOC/DOS
-LCs/ADEOs conduct periodic teacher and student assessments based on SLOs | X | X | X | X | DOS
-ECE material and | Equip 1800 existing | 270.00 | X | X | X | DOS
-development resources all | schools with conducive ECE development material | 90.00 | 90.00
-provided in 3600 schools | Equip 1800 new schools with conducive ECE | 270.00 | 90.00 | X | X | X | DOS
-development material | 90.00 | 90.00 | 90.00
-Strengthening governance | Community and parental | Expand PTSMCs TORs to include coverage of ECE | X | DOS
-participation ensured in ECE | Develop training packages+D13 for | X
-ownership programmes | capacity building of | DOS/PITE
+ |  | Capacity building of education stakeholders (Ed. Dept, politicians, media, etc) to advocate for the inclusion of ECE at all primary schools |  |  | X | X | X | X | DOS/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | PEACE develops standards and tools for continuous assessment of teacher performance and student learning and coordinates assessments with LCs/ADEOs | Minimal Cost |  | X |  | X |  | BOC/DOS
+ |  | LCs/ADEOs conduct periodic teacher and student assessments based on SLOs |  |  | X | X | X | X | DOS
+ | ECE material and development resources provided in all 3600 schools | Equip 1800 existing schools with conducive ECE development material | 270.00 |  | X 90.00 | X 90.00 | X 90.00 |  | DOS
+ |  | Equip 1800 new schools with conducive ECE development material | 270.00 |  |  | X 90.00 | X 90.00 | X 90.00 | DOS
+Strengthening governance and ownership of ECE programmes | Community and parental participation ensured in ECE | Expand PTSMCs TORs to include coverage of ECE |  |  | X |  |  |  | DOS
+ |  | Develop training packages+D13 for capacity building of |  |  | X |  |  |  | DOS/PITE
 
 civ
 
@@ -4004,13 +4316,12 @@ civ
 
 [[START OF PAGE 200]]
 
-PTSMCs in the context of ECE
---- | --- | --- | --- | --- | --- | ---
-Conduct training for capacity building of PTSMCs members to assist, mentor & monitor ECE activities in the Schools. | X | X | X | DOS/PITE
-Mobilize communities through corner meetings, seminars, print media & electronic media | X | X | X | X | DOS
-Increased ownership and capacity of EFOs on ECE | Conduct dialogues, seminars and workshops with education managers | 0.60 | X | X | X | DOS
-0.20 | 0.20 | 0.20
-Conduct training for education field officials on mentoring & monitoring of ECE services in the targeted schools. | X | X | X | DOS
+ |  | PTSMCs in the context of ECE |  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Conduct training for capacity building of PTSMCs members to assist, mentor & monitor ECE activities in the Schools. |  |  | X | X | X |  | DOS/PITE
+ |  | Mobilize communities through corner meetings, seminars, print media & electronic media |  |  | X | X | X | X | DOS
+ | Increased ownership and capacity of EFOs on ECE | Conduct dialogues, seminars and workshops with education managers | 0.60 |  | X 0.20 | X 0.20 | X 0.20 |  | DOS
+ |  | Conduct training for education field officials on mentoring & monitoring of ECE services in the targeted schools. |  |  | X | X | X |  | DOS
 
 cv
 
@@ -4018,28 +4329,24 @@ cv
 
 [[START OF PAGE 201]]
 
-Social health and nutrition services for ECE children | Committee formulated with the membership of Education, Health and P & D department at provincial level with the sub-set at district level by Mar 2013; quarterly Meetings held. | Formulate committee with the membership of Education, Health and P & D department at provincial level with the sub-set at district level by March 2013 and hold quarterly | Minimal Cost | X | DOS/DOH
---- | --- | --- | --- | --- | --- | --- | ---
-Agreement drafted for provision of basic health services to ECE children | Draft an agreement between education and health department to ascertain the provision of basic health services to children enrolled in ECE classrooms | X | DOS/DOH
-Health and nutrition of ECE children improved as a result of SHN services. | Deliver regular SHN services such as immunization, polio and de-worming drives, hand washing and hygiene campaigns | X | X | X | X | DOS/DOH
-ECE support and monitoring | 200 EFOs trained in monitoring and mentoring of ECE teachers | Conduct training for education field officials on mentoring and monitoring of ECE services in targeted | Cover under In- Service Training | X | X | X | DOS
+Social health and nutrition services for ECE children | Committee formulated with the membership of Education, Health and P & D department at provincial level with the sub-set at district level by Mar 2013; quarterly Meetings held. | Formulate committee with the membership of Education, Health and P & D department at provincial level with the sub-set at district level by March 2013 and hold quarterly | Minimal Cost |  | X |  |  |  | DOS/DOH
+ | Agreement drafted for provision of basic health services to ECE children | Draft an agreement between education and health department to ascertain the provision of basic health services to children enrolled in ECE classrooms |  |  | X |  |  |  | DOS/DOH
+ | Health and nutrition of ECE children improved as a result of SHN services. | Deliver regular SHN services such as immunization, polio and de-worming drives, hand washing and hygiene campaigns |  |  | X | X | X | X | DOS/DOH
+ECE support and monitoring | 200 EFOs trained in monitoring and mentoring of ECE teachers | Conduct training for education field officials on mentoring and monitoring of ECE services in targeted | Cover under In-Service Training |  | X | X | X |  | DOS
 
 cvi
-
 [[END OF PAGE 201]]
 
 [[START OF PAGE 202]]
 
-schools
---- | --- | --- | --- | --- | --- | ---
-Action research and advocacy for ECE | Standards and tools for conducting baseline designed and approved. | Conduct baseline studies to map out the bench mark. | X | DOS/PPIU
-Impact study conducted | Conduct impact studies to ensure the validity and effectiveness of ECE efforts in the schools. | 1.20 | X | X | DOS/PPIU
-0.60 | 0.60
-Results disseminated | Use action research and impact studies to inform advocacy. | X | X | X | X | DOS/PPIU
+ |  | schools |  |  |  |  |  |  | 
+Action research and advocacy for ECE | Standards and tools for conducting baseline designed and approved. | Conduct baseline studies to map out the bench mark. |  |  | X |  |  |  | DOS/PPIU
+ | Impact study conducted | Conduct impact studies to ensure the validity and effectiveness of ECE efforts in the schools. | 1.20 |  |  | X 0.60 |  | X 0.60 | DOS/PPIU
+ | Results disseminated | Use action research and impact studies to inform advocacy. |  |  | X | X | X | X | DOS/PPIU
 
 Cost in Billions (Pak Rs.)
 --- | --- | --- | --- | --- | --- | ---
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
+ | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 Cost of Community Construction Model | 2.520 | 0.000 | 0.000 | 0.840 | 0.840 | 0.840
 Salary cost of Teacher and Aya's | 0.783 | 0.000 | 0.163 | 0.343 | 0.277 | 0.000
 Material Cost | 0.540 | 0.000 | 0.090 | 0.180 | 0.180 | 0.090
@@ -4047,284 +4354,255 @@ Training of Teachers | 1.361 | 0.000 | 0.345 | 0.340 | 0.338 | 0.338
 Other capacity building costs | 0.005 | 0.000 | 0.004 | 0.001 | 0.000 | 0.001
 
 cvii
-
 [[END OF PAGE 202]]
 
 [[START OF PAGE 203]]
 
-Total Cost in Billions | 5.210 | 0.000 | 0.602 | 1.704 | 1.635 | 1.268
+Total Cost in Billions (Pak Rs.) | 5.210 | 0.000 | 0.602 | 1.704 | 1.635 | 1.268
 --- | --- | --- | --- | --- | --- | ---
 
 cviii
-
 [[END OF PAGE 203]]
 
 [[START OF PAGE 204]]
 
 ## Annex 2.2: Access and Equity
 
-Purpose | Results | Activities | Cost (In Million Pak | Timeframe | Responsibili ty
+Purpose | Results | Activities | Cost (In Million Pak Rs.) | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | Responsibility
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Rs.) | 2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Provision of boys and girls schools in every tehsil | 4000 new primary schools established and equipped on the community | Train EFOs on community schools model | 3.00 | X 3.00 | X 0 | 0 | 0 | 0 | DOS/PPIU
-model by June 2017 | Develop a criterion for selection of site for primary schools establishment | X | DOS
-Identify locations with no primary schools through EFOs | 7.50 | X 1.13 | X 1.50 | X 1.88 | X 1.88 | X 1.13 | DOS/PPIU
-Prepare phase wise implementation plan | 1.50 | X 1.50 | DOS
-Implement the plan phase wise Regular Model Community Model | 18000 14000 | 2700 2100 | 3600 2800 | X 4500 3500 | X 4500 3500 | X 2700 2100 | DOS
-Appointment of teachers in phased manner | Prepare a flexible qualification criteria | X | DOS
+Provision of boys and girls schools in every tehsil | 4000 new primary schools established and equipped on the community model by June 2017 | Train EFOs on community schools model | 3.00 | X 3.00 | X 0 | 0 | 0 | 0 | DOS/PPIU
+ |  | Develop a criterion for selection of site for primary schools establishment |  |  | X |  |  |  | DOS
+ |  | Identify locations with no primary schools through EFOs | 7.50 | X 1.13 | X 1.50 | X 1.88 | X 1.88 | X 1.13 | DOS/PPIU
+ |  | Prepare phase wise implementation plan | 1.50 | X 1.50 |  |  |  |  | DOS
+ |  | Implement the plan phase wise
+Regular Model
+Community Model | 18000
+14000 | 2700
+2100 | 3600
+2800 | X 4500
+3500 | X 4500
+3500 | X 2700
+2100 | DOS
+ | Appointment of teachers in phased manner | Prepare a flexible qualification criteria |  | X |  |  |  |  | DOS
 
 cix
-
 [[END OF PAGE 204]]
 
 [[START OF PAGE 205]]
 
-by June 2015 | Recruit local teachers as per availability Teachers as per Regular Model Teacher as per Community Model | 5276.23 4220.99 | X 120 96 | X 432 346 | X 967 774 | X 1532 1226 | X 2225 1780 | DOS
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Train recruited teachers | 640.00 | X 100 | DOS/PITE
-Deploy trained teachers | 40 | 164 | 156 | 180
-in schools | X | X | X | DOS
-Remove school availability bottlenecks at middle and secondary level | Up gradation of 1600(800) primary schools to middle level | Develop a criterion for prioritized selection of primary school for up- gradation | X | DOS
-Prepare an up-gradation plan in consultation with EFOs | X | X | DOS
-Implement the plan in phases Recruitment of Teachers Infrastructure Cost | 1733.23 7200.00 | X 0 630 | X 0 1800 | X 144 1710 | X 570 1620 | X 1019 1440 | DOS
-Up gradation of 100 middle schools to secondary level | Develop a criterion for prioritized selection of middle school for up- gradation | X | DOS
-Prepare an up-gradation plan in consultation with EFOs | X | X | DOS
-Implement the plan in | X | X | X | X | DOS
+ | by June 2015 | Recruit local teachers as per availability
+Teachers as per Regular Model
+Teacher as per Community Model | 5276.23
+4220.99 | X 120
+96 | X 432
+346 | X 967
+774 | X 1532
+1226 | X 2225
+1780 | DOS
+ |  | Train recruited teachers | 640.00 | 40 | X 100 | 164 | 156 | 180 | DOS/PITE
+ |  | Deploy trained teachers in schools |  |  |  | X | X | X | DOS
+Remove school availability bottlenecks at middle and secondary level | Up gradation of 1600(800) primary schools to middle level | Develop a criterion for prioritized selection of primary school for up-gradation |  | X |  |  |  |  | DOS
+ |  | Prepare an up-gradation plan in consultation with EFOs |  | X | X |  |  |  | DOS
+ |  | Implement the plan in phases
+Recruitment of Teachers
+Infrastructure Cost | 1733.23
+7200.00 | X 0
+630 | X 0
+1800 | X 144
+1710 | X 570
+1620 | X 1019
+1440 | DOS
+ | Up gradation of 100 middle schools to secondary level | Develop a criterion for prioritized selection of middle school for up-gradation |  | X |  |  |  |  | DOS
+ |  | Prepare an up-gradation plan in consultation with EFOs |  | X | X |  |  |  | DOS
+ |  | Implement the plan in |  |  | X | X | X | X | DOS
 
 cx
-
 [[END OF PAGE 205]]
 
 [[START OF PAGE 206]]
 
-phases Recruitment of Teachers Infrastructure Cost | 314 1751 | 0 175 | 0 525 | 30 613 | 121 263 | 163 175
---- | --- | --- | --- | --- | --- | ---
-Increased utilization of existing schools | Rationalization of teachers student ratio at school level | Conduct a survey of teacher deployment in school | X | X | DOS
-Develop a strategy for rationalized deployment | X | DOS
-Prepare and implement rationalization plan | X | X | X | X | DOS
-Awareness campaign launched in districts with underutilized | Prepare an awareness campaign in consultation with local PTSMCs | 307.50 | X | X | DOS
-Formation of PTSMCs | 154 | 154
-institutions | Implement awareness campaign with assistance of PTSMCs | X | X | X | X | DOS
-Increase number of 5 room primary schools | 15% of 2 room and 10% of one room primary schools upgraded | Plan prepared for expansion | x | DOS
-Plan implemented | 0.915 | X | x | x | x | DOS
-to 5 room schools | 0.183 | 0.275 | 0.275 | 0.183
-Reduce economic and social barriers to school entry and continuation | Stipend programme for girls initiated for middle schools in 10 poorest districts | Study stipend programmes implemented in Sindh and Punjab | 1.80 | X 1.80 | PPIU/DOS
-Prepare stipend delivery plan | X | PPIU/DOS
+ |  | phases
+Recruitment of Teachers
+Infrastructure Cost | 314
+1751 | 0
+175 | 0
+525 | 30
+613 | 121
+263 | 163
+175 | 
+Increased utilization of existing schools | Rationalization of teachers student ratio at school level | Conduct a survey of teacher deployment in school |  | X | X |  |  |  | DOS
+ |  | Develop a strategy for rationalized deployment |  |  | X |  |  |  | DOS
+ |  | Prepare and implement rationalization plan |  |  | X | X | X | X | DOS
+ | Awareness campaign launched in districts with underutilized institutions | Prepare an awareness campaign in consultation with local PTSMCs
+Formation of PTSMCs | 307.50 | X 154 | X 154 |  |  |  | DOS
+ |  | Implement awareness campaign with assistance of PTSMCs |  |  | X | X | X | X | DOS
+Increase number of 5 room primary schools | 15% of 2 room and 10% of one room primary schools upgraded to 5 room schools | Plan prepared for expansion |  | x |  |  |  |  | DOS
+ |  | Plan implemented | 0.915 |  | x 0.183 | x 0.275 | x 0.275 | x 0.183 | DOS
+Reduce economic and social barriers to school entry and continuation | Stipend programme for girls initiated for middle schools in 10 poorest districts | Study stipend programmes implemented in Sindh and Punjab | 1.80 | X 1.80 |  |  |  |  | PPIU/DOS
+ |  | Prepare stipend delivery plan |  |  | X |  |  |  | PPIU/DOS
 
 cxi
-
 [[END OF PAGE 206]]
 
 [[START OF PAGE 207]]
 
-Implement stipend delivery plan | X | X | X | X | PPIU/DOS
---- | --- | --- | --- | --- | --- | ---
-Create awareness on the programme through PTSMCs | 16.30 | X 16.30 | X | X | X | PPIU/DOS
-Undertake study on impact of the programme (Prepare Indicators) | X | PPIU/DOS
-Provision of one school meal in | Prepare school meal plan in consultation with WFP | 1.80 | X | PPIU/DOS
-primary schools. | x | 1.80
-Agree on a prioritization criteria | X
-Prepare an oversight and implementation plan | X | PPIU/DOS
-Implement in primary schools | X | X | X | X | PPIU/DOS
-Awareness campaign on | Prepare an awareness campaign targeted at | X | PPIU/DOS
-girls' education | districts with lowest GPI Implement the awareness campaign | X | PPIU/DOS
-X
-Develop a feedback mechanism | X | X | X | X
-of in | Form a committee consisting of officials from NEF, Directorate of NFE | PPIU/DOS/D OL
-and DOS on establishing
-Re-entry
-of children
-school the Strengthen linkages NFE and DOS
-mainstream
-between programmes
-out
+ |  | Implement stipend delivery plan |  |  | X | X | X | X | PPIU/DOS
+ |  | Create awareness on the programme through PTSMCs | 16.30 |  | X 16.30 | X | X | X | PPIU/DOS
+ |  | Undertake study on impact of the programme (Prepare Indicators) |  |  |  |  |  | X | PPIU/DOS
+ | Provision of one school meal in primary schools. | Prepare school meal plan in consultation with WFP | 1.80 | x | X 1.80 |  |  |  | PPIU/DOS
+ |  | Agree on a prioritization criteria |  |  | X |  |  |  | PPIU/DOS
+ |  | Prepare an oversight and implementation plan |  |  | X |  |  |  | PPIU/DOS
+ |  | Implement in primary schools |  |  | X | X | X | X | PPIU/DOS
+ | Awareness campaign on girls’ education | Prepare an awareness campaign targeted at districts with lowest GPI |  | X |  |  |  |  | PPIU/DOS
+ |  | Implement the awareness campaign |  |  | X |  |  |  | PPIU/DOS
+ |  | Develop a feedback mechanism |  |  | X | X | X | X | PPIU/DOS
+Re-entry of out of school children in the mainstream | Strengthen linkages between NFE programmes and DOS | Form a committee consisting of officials from NEF, Directorate of NFE and DOS on establishing |  | X |  |  |  |  | PPIU/DOS/DOL
 
 cxii
-
 [[END OF PAGE 207]]
 
 [[START OF PAGE 208]]
 
-linkages
---- | --- | --- | --- | --- | --- | ---
-that be | Prepare Rules on linkages will allow students to mainstreamed into regular schools | X | PPIU/DOS/D OL
-Develop a shared database of NFE enrolled students | X | DOS/DOL/N EF
-30 NFE Community schools for middle | Conduct survey to identify areas with high need | 0.60 | X 0.60 | PPIU/DOL
-and secondary mainstreaming schools | Prepare plan for establishment of 30 NFE | X | DOL
-established under the Directorate of NFE Develop schools | PC 1 for establishment of 30 NFE | X | DOL
-Literacy and by June 2015 Construct phases: | NFE schools in 3 Infrastructure Cost | 60.00 27.03 | X 0.00 0.00 | X X 30.00 20.00 | X 0.00 | DOL
-Solicit NFE in | recurrent budget for the provincial budget
-5.90 9.37
-10.00 | 10.31
-Teachers Salary
-1.44
-PPIU/DOL
-X
-10.50
-DOS Capacity DOS | PPIU/DOS
-Assessment of | X
-system
-10.50
-Capacity development plan for
-21.00
+through a strengthened NFE |  | linkages |  |  |  |  |  |  | 
+ |  | Prepare Rules on linkages that will allow students to be mainstreamed into regular schools |  |  | X |  |  |  | PPIU/DOS/DOL
+ |  | Develop a shared database of NFE enrolled students |  |  |  | X |  |  | DOS/DOL/NEF
+ | 30 NFE Community schools for middle and secondary mainstreaming established under the Directorate of Literacy and NFE by June 2015 | Conduct survey to identify areas with high need | 0.60 |  | X 0.60 |  |  |  | PPIU/DOL
+ |  | Prepare plan for establishment of 30 NFE schools |  |  | X |  |  |  | DOL
+ |  | Develop PC 1 for establishment of 30 NFE schools |  |  | X |  |  |  | DOL
+ |  | Construct NFE schools in 3 phases:
+Infrastructure Cost
+Teachers Salary | 60.00
+27.03 | 0.00
+0.00 | X 10.00
+1.44 | X 30.00
+5.90 | X 20.00
+9.37 | X 0.00
+10.31 | DOL
+ |  | Solicit recurrent budget for NFE in the provincial budget |  |  |  |  |  |  | PPIU/DOL
+Capacity enhancement of DOS to manage | Capacity development plan for DOS | Capacity Assessment of DOS system | 21.00 | X 10.50 | X 10.50 |  |  |  | PPIU/DOS
 
 cxiii
-
 [[END OF PAGE 208]]
 
 [[START OF PAGE 209]]
 
-education reform | prepared and implemented | Preparation of a capacity development plan | X | X | PPIU/DOS
---- | --- | --- | --- | --- | ---
-Phase wise implementation of CD plan | X | X | X | X | PPIU/DOS
+education reform | prepared and implemented | Preparation of a capacity development plan |  | X | X |  |  |  | PPIU/DOS
+ |  | Phase wise implementation of CD plan |  |  | X | X | X | X | PPIU/DOS
 
 Cost in Billions (Pak Rs.) [with Community Model]
 --- | --- | --- | --- | --- | --- | ---
-Total | Y1 | Y2 | Y3 | Y4 | Y5
+ | Total | Y1 | Y2 | Y3 | Y4 | Y5
 Recurrent: | 6.295 | 0.096 | 0.347 | 0.953 | 1.927 | 2.972
 Non Development: (excluding recurrent and development cost which is assumed as construction and material) | 1.916 | 0.212 | 0.468 | 0.441 | 0.433 | 0.364
 Development Cost: | 23.011 | 2.905 | 5.135 | 5.853 | 5.403 | 3.715
 Total Cost with Community Model (in Billions Pak Rs.) | 31.222 | 3.213 | 5.950 | 7.247 | 7.762 | 7.051
 
 cxiv
-
 [[END OF PAGE 209]]
 
 [[START OF PAGE 210]]
 
-Cost (In Million Pak Rs.) | Timeframe | Responsibility
---- | --- | --- | --- | --- | --- | --- | ---
-Purpose | Results | Activities | 2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Promote inclusive school education in Balochistan | Participation of each child in school as a valued and unique individual | Restructuring schools by introducing separate arrangements for marginalized | 4.500 | X | DOS
-children Establish in 1000 primary schools to | 4.500
-classrooms accommodate children with special needs | Minimal Cost, major cost to be covered under heads coming later | X | DOS
-Conduct House hold survey to verify primary age group children with special needs in selective | 40.733 | X | DOS
-tehsils/UCs | 40.733
-Develop a mechanism to monitor implementation of Inclusive education | 2.000 | X | DOS./PPIU
-in Public schools | 2.000
-
 ### Annex 2.2.1: Inclusive Education
 
-cxv
+Purpose | Results | Activities | Cost (In Million Pak Rs.) | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | Responsibility
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Promote inclusive school education in Balochistan | Participation of each child in school as a valued and unique individual | Restructuring schools by introducing separate arrangements for marginalized children | 4.500 |  | X 4.500 |  |  |  | DOS
+ |  | Establish classrooms in 1000 primary schools to accommodate children with special needs | Minimal Cost, major cost to be covered under heads coming later |  | X |  |  |  | DOS
+ |  | Conduct House hold survey to verify primary age group children with special needs in selective tehsils/UCs | 40.733 | X 40.733 |  |  |  |  | DOS
+ |  | Develop a mechanism to monitor implementation of Inclusive education in Public schools | 2.000 |  | X 2.000 |  |  |  | DOS./PPIU
 
+cxv
 [[END OF PAGE 210]]
 
 [[START OF PAGE 211]]
 
-Teachers trained on special needs in ordinary classes | Develop curriculum for training Inclusive education teachers | Cost to be covered under Quality Education Budget | X | BOC
---- | --- | --- | --- | --- | ---
-Introduce special education courses for pre-service teacher education programmes | Cost to be covered under BoC other budgets | X | X | X | BOC
-Conduct in service training of teachers selected for special needs in ordinary classes | Cost to be covered in regulars plans to be developed with PITE and BoC | X | X | X | PITE/DOS
-Government provides funds for introduction of inclusive education | Allocate specific budget to Inclusive education | Minimal Cost | X | Sect/DOF
-in 30% primary schools | Amend budget books to accommodate inclusive education under a separate line item | Minimal Cost | X | Sect/DOF
+ | Teachers trained on special needs in ordinary classes | Develop curriculum for training Inclusive education teachers | Cost to be covered under Quality Education Budget |  | X |  |  |  | BOC
+ |  | Introduce special education courses for pre-service teacher education programmes | Cost to be covered under BoC other budgets |  | X | X | X |  | BOC
+ |  | Conduct in service training of teachers selected for special needs in ordinary classes | Cost to be covered in regulars plans to be developed with PITE and BoC |  | X | X | X |  | PITE/DOS
+ | Government provides funds for introduction of inclusive education in 30% primary schools | Allocate specific budget to Inclusive education | Minimal Cost |  |  | X |  |  | Sect/DOF
+ |  | Amend budget books to accommodate inclusive education under a separate line item | Minimal Cost |  |  | X |  |  | Sect/DOF
 
 cxvi
-
 [[END OF PAGE 211]]
 
 [[START OF PAGE 212]]
 
-Expand and improve service delivery of inclusive education | Marginalized children as per National Curriculum on special education introduced in 1000 primary schools of the public sector | Identify 500 primary schools with existing/available classrooms for introduction of inclusive education in phase I | Minimal Cost | X | DOS
---- | --- | --- | --- | --- | --- | --- | ---
-Identify 500 primary schools for redesigning existing classrooms making them accessible for children with special needs | Minimal Cost | X | DOS
-Approve PC-1 for making arrangements in existing schools and provision of additional classrooms for the minority groups | Minimal Cost | X | DOS
-Construct additional classrooms | 500.000 | X | X | X | DOS
-100.000 | 200.000 | 200.000
-Recruitment and professional | Recruit and appoint 500 new teachers | 163.686 | X | X | X | X | DOS
-development of | 0.000 | 6.000 | 30.600 | 57.660 | 69.426
+Expand and improve service delivery of inclusive education | Marginalized children as per National Curriculum on special education introduced in 1000 primary schools of the public sector | Identify 500 primary schools with existing/available classrooms for introduction of inclusive education in phase I | Minimal Cost |  | X |  |  |  | DOS
+ |  | Identify 500 primary schools for redesigning existing classrooms making them accessible for children with special needs | Minimal Cost |  |  | X |  |  | DOS
+ |  | Approve PC-1 for making arrangements in existing schools and provision of additional classrooms for the minority groups | Minimal Cost |  |  | X |  |  | DOS
+ |  | Construct additional classrooms | 500.000 |  |  | X 100.000 | X 200.000 | X 200.000 | DOS
+ | Recruitment and professional development of | Recruit and appoint 500 new teachers | 163.686 | 0.000 | X 6.000 | X 30.600 | X 57.660 | X 69.426 | DOS
 
 cxvii
-
 [[END OF PAGE 212]]
 
 [[START OF PAGE 213]]
 
-education staff for all 1000 schools | Recruit and appoint 500 ayas | 130.949 | X | X | X | X | DOS
---- | --- | --- | --- | --- | --- | --- | ---
-0.000 | 4.800 | 24.480 | 46.128 | 55.541
-Conduct TNA of recruited teachers on inclusive education | 0.500 | X | X | X | X | DOS/PITE /DOSE(Director ate of special education)
-0.050 | 0.200 | 0.200 | 0.050
-Prepare teacher training material and include Special education teachers in the Continuous Professional Development | 3.000 | X | X | DOS/PITE /DOSE
-framework Training of | 1.500 | 1.500
-500 teachers(on inclusive education) in special education needs and impairment skills | Cost to be calculated once the TNA is conducted | X | X | X | X | PITE/DOSE
+ | education staff for all 1000 schools | Recruit and appoint 500 ayas | 130.949 | 0.000 | X 4.800 | X 24.480 | X 46.128 | X 55.541 | DOS
+ |  | Conduct TNA of recruited teachers on inclusive education | 0.500 |  | X 0.050 | X 0.200 | X 0.200 | X 0.050 | DOS/PITE/DOSE (Directorate of special education)
+ |  | Prepare teacher training material and include Special education teachers in the Continuous Professional Development framework | 3.000 |  | X 1.500 | X 1.500 |  |  | DOS/PITE/DOSE
+ |  | Training of 500 teachers(on inclusive education) in special education needs and impairment skills | Cost to be calculated once the TNA is conducted |  | X | X | X | X | PITE/DOSE
 
 cxviii
-
 [[END OF PAGE 213]]
 
 [[START OF PAGE 214]]
 
-Develop training package for all primary school teachers to learn special needs in ordinary classrooms for children upto 8 years of age and include in CPD framework | 6.000 | X 6.000 | PITE/DOSE
---- | --- | --- | --- | --- | --- | ---
-Organize teacher training programme for all primary school teachers of targeted schools on inclusive education | Cost to be determined once the training package is developed | X | X | X | X | PITE/DOS /DOSE
-Capacity building of education stakeholders (Ed. Dept, Health Deptt, politicians, media, etc) to advocate for the inclusion of inclusive education at all primary schools | Cost to be determined once the training package is developed | X | X | X | X | DOS/PPIU
+ |  | Develop training package for all primary school teachers to learn special needs in ordinary classrooms for children upto 8 years of age and include in CPD framework | 6.000 |  | X 6.000 |  |  |  | PITE/DOSE
+ |  | Organize teacher training programme for all primary school teachers of targeted schools on inclusive education | Cost to be determined once the training package is developed |  | X | X | X | X | PITE/DOS/DOSE
+ |  | Capacity building of education stakeholders (Ed. Dept, Health Deptt, politicians, media, etc) to advocate for the inclusion of inclusive education at all primary schools | Cost to be determined once the training package is developed |  | X | X | X | X | DOS/PPIU
 
 cxix
-
 [[END OF PAGE 214]]
 
 [[START OF PAGE 215]]
 
-PEACE/School for special education develops standards and tools for continuous assessment of teacher performance and student learning and coordinates assessments with LCs/ADEOs | 3.600 | X 3.600 | BOC/DOS/ DOSE
---- | --- | --- | --- | --- | --- | --- | ---
-LCs/ADEOs conduct periodic teacher and student assessments based on SLOs. | Cost to be covered under Regular Budgets | X | X | X | X | DOS
-Inclusive education material and development resources provided in all 1000 schools | Equip 500 existing schools with conducive marginalized children development material | 50.000 | X | X | X | X | DOS
-5.000 | 20.000 | 20.000 | 5.000
-Equip 500 new schools with conducive marginalized children development material | Cost to be covered under new establishment of new schools | X | X | X | DOS
+ |  | PEACE/School for special education develops standards and tools for continuous assessment of teacher performance and student learning and coordinates assessments with LCs/ADEOs | 3.600 |  | X 3.600 |  |  |  | BOC/DOS/DOSE
+ |  | LCs/ADEOs conduct periodic teacher and student assessments based on SLOs. | Cost to be covered under Regular Budgets |  | X | X | X | X | DOS
+ | Inclusive education material and development resources provided in all 1000 schools | Equip 500 existing schools with conducive marginalized children development material | 50.000 |  | X 5.000 | X 20.000 | X 20.000 | X 5.000 | DOS
+ |  | Equip 500 new schools with conducive marginalized children development material | Cost to be covered under new establishment of new schools |  |  | X | X | X | DOS
 
 cxx
-
 [[END OF PAGE 215]]
 
 [[START OF PAGE 216]]
 
-Strengthening governance and ownership of Inclusive education programmes | Community and parental participation ensured in | Expand PTSMCs TORs to include coverage of inclusive education | Minimal Cost | X | DOS
---- | --- | --- | --- | --- | --- | ---
-Inclusive education | Develop training packages for capacity building of PTSMCs in the context of inclusive education | 0.750 | X 0.750 | DOS/PITE/ DOSE
-Conduct training for capacity building of PTSMCs members to assist, mentor & monitor Inclusive education activities in the Schools. | Cost to be covered under PTSMCs capacity building program | X | X | X | DOS/PITE/ DOSE
-Mobilize communities through corner meetings, seminars, print media & electronic media | 1.500 | X | X | X | X | DOS/ DOSE
-Conduct | 0.150 | 0.600 | 0.600 | 0.150
-Increased ownership and capacity of EFOs on Inclusive education | dialogues, seminars and workshops with | 1.500 | X | X | X | DOS
-education managers | 0.500 | 0.500 | 0.500
+Strengthening governance and ownership of Inclusive education programmes | Community and parental participation ensured in Inclusive education | Expand PTSMCs TORs to include coverage of inclusive education | Minimal Cost |  | X |  |  |  | DOS
+ |  | Develop training packages for capacity building of PTSMCs in the context of inclusive education | 0.750 |  | X 0.750 |  |  |  | DOS/PITE/DOSE
+ |  | Conduct training for capacity building of PTSMCs members to assist, mentor & monitor Inclusive education activities in the Schools. | Cost to be covered under PTSMCs capacity building program |  | X | X | X |  | DOS/PITE/DOSE
+ |  | Mobilize communities through corner meetings, seminars, print media & electronic media | 1.500 |  | X 0.150 | X 0.600 | X 0.600 | X 0.150 | DOS/DOSE
+ | Increased ownership and capacity of EFOs on Inclusive education | Conduct dialogues, seminars and workshops with education managers | 1.500 |  | X 0.500 | X 0.500 | X 0.500 |  | DOS
 
 cxxi
-
 [[END OF PAGE 216]]
 
 [[START OF PAGE 217]]
 
-Conduct training for education field officials on mentoring & monitoring of inclusive services in the targeted schools. | Cost covered under the capacity building activity | X | X | X | DOS
---- | --- | --- | --- | --- | ---
-School health and nutrition services for marginalized children | Committee formulated with the membership of Education, Health, Social Welfare and P&D department at provincial level with the sub-set at district level by Mar 2013; quarterly Meetings held. | Formulate committee with the membership of Education, Health, Social Welfare and P&D department at provincial level with the sub-set at district level by March 2013 and hold quarterly | Minimal Cost | X | DOS/DOH /DOSE
-Agreement drafted for provision of basic health services to special children | Draft an agreement between education and health department to ascertain the provision of basic health services to children enrolled in classrooms with special needs. | Minimal Cost | X | DOS/DOH
+ |  | Conduct training for education field officials on mentoring & monitoring of inclusive services in the targeted schools. | Cost covered under the capacity building activity |  | X | X | X |  | DOS
+School health and nutrition services for marginalized children | Committee formulated with the membership of Education, Health, Social Welfare and P&D department at provincial level with the sub-set at district level by Mar 2013; quarterly Meetings held. | Formulate committee with the membership of Education, Health, Social Welfare and P&D department at provincial level with the sub-set at district level by March 2013 and hold quarterly | Minimal Cost |  | X |  |  |  | DOS/DOH/DOSE
+ | Agreement drafted for provision of basic health services to special children | Draft an agreement between education and health department to ascertain the provision of basic health services to children enrolled in classrooms with special needs. | Minimal Cost |  | X |  |  |  | DOS/DOH
 
 cxxii
-
 [[END OF PAGE 217]]
 
 [[START OF PAGE 218]]
 
-Health and nutrition of marginalized children improved as a result of SHN services. | Deliver regular SHN services such as immunization, polio and de-worming drives, hand washing and hygiene campaigns. | Cost to be worked out as per the Need Assessment and the agreement | X | X | X | X | DOS/DOH
---- | --- | --- | --- | --- | --- | --- | ---
-Special needs in ordinary classrooms support and monitoring | 100 EFOs trained in monitoring and mentoring of inclusive education teachers | Conduct training for education field officials on mentoring and monitoring of Special needs services in targeted schools | Cost to be covered under regular capacity building of Officials | X | X | X | DOS
-Action research and advocacy for Inclusive education | Standards and tools for conducting baseline designed and approved. | Conduct baseline studies to map out the bench mark. | 7.500 | X | DOS/PPIU
-7.500
-Impact study conducted | Conduct impact studies to ensure the validity and effectiveness of inclusive education | 4.500 | X | DOS/PPIU
-4.500
-Results disseminated | Use action research and impact studies to inform advocacy. | 1.500 | X | X | X | DOS/PPIU
+ | Health and nutrition of marginalized children improved as a result of SHN services. | Deliver regular SHN services such as immunization, polio and de-worming drives, hand washing and hygiene campaigns. | Cost to be worked out as per the Need Assessment and the agreement |  | X | X | X | X | DOS/DOH
+Special needs in ordinary classrooms support and monitoring | 100 EFOs trained in monitoring and mentoring of inclusive education teachers | Conduct training for education field officials on mentoring and monitoring of Special needs services in targeted schools | Cost to be covered under regular capacity building of Officials |  | X | X | X |  | DOS
+Action research and advocacy for Inclusive education | Standards and tools for conducting baseline designed and approved. | Conduct baseline studies to map out the bench mark. | 7.500 |  | X 7.500 |  |  |  | DOS/PPIU
+ | Impact study conducted | Conduct impact studies to ensure the validity and effectiveness of inclusive education efforts in the schools. | 4.500 |  |  |  | X 4.500 |  | DOS/PPIU
+ | Results disseminated | Use action research and impact studies to inform advocacy. | 1.500 |  |  | X | X | X | DOS/PPIU
 
-cxxiii cxxvi
-
+cxxiii
 [[END OF PAGE 218]]
 
 [[START OF PAGE 219]]
 
-0.500 | 0.500 | 0.500
---- | --- | ---
+ |  |  |  |  |  | 0.500 | 0.500 | 0.500 | 
 
 Cost in Billions Pak Rs.
 --- | --- | --- | --- | --- | --- | ---
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
+ | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 Total Estimated Cost | 0.922 | 0.041 | 0.042 | 0.178 | 0.330 | 0.331
 Construction Cost | 0.500 | 0.000 | 0.000 | 0.100 | 0.200 | 0.200
 Salary Cost | 0.295 | 0.000 | 0.011 | 0.055 | 0.104 | 0.125
@@ -4333,118 +4611,105 @@ Training Cost | 0.010 | 0.000 | 0.008 | 0.002 | 0.000 | 0.000
 Other development Cost | 0.068 | 0.041 | 0.019 | 0.002 | 0.006 | 0.001
 
 cxxiv
-
 [[END OF PAGE 219]]
 
 [[START OF PAGE 220]]
 
-Purpose | Results | Activities | Cost (in Million Pak Rs.) | 2013- | Timeframe | Responsible
---- | --- | --- | --- | --- | --- | ---
-14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Develop and institutionalize a DRR policy for education | Assess and document the current disaster potential and its | Prepare Disaster Risk study | 4.500 | X | DOS/PPIU
-implications. | 4.500
-Prepare a DRR plan for risk prevention, mitigation and | Prepare a plan in consultation with EFOs, teachers and communities | 3.000 | X | DOS/PPIU
-preparedness. | 3.000
-Evaluate current capacity to implement a DRR plan. | Capacity assessment | Cost to be covered under Governance and Management | X | DOS/PPIU
-Prepare a capacity development plan for enhancement of DRR responsiveness. | Capacity Development plan | Cost to be covered under Governance and Management | X | DOS/PPIU
-Implement capacity development plan | Cost to be determined under above | X | X | X | DOS/PPIU
-
 ### Annex 2.2.2: Disaster Risk Reduction (DRR)
 
-cxxv
+Purpose | Results | Activities | Cost (in Million Pak Rs.) | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | Responsible
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Develop and institutionalize a DRR policy for education | Assess and document the current disaster potential and its implications. | Prepare Disaster Risk study | 4.500 | X 4.500 |  |  |  |  | DOS/PPIU
+ | Prepare a DRR plan for risk prevention, mitigation and preparedness. | Prepare a plan in consultation with EFOs, teachers and communities | 3.000 | X 3.000 |  |  |  |  | DOS/PPIU
+ | Evaluate current capacity to implement a DRR plan. | Capacity assessment | Cost to be covered under Governance and Management | X |  |  |  |  | DOS/PPIU
+ | Prepare a capacity development plan for enhancement of DRR responsiveness. | Capacity Development plan | Cost to be covered under Governance and Management |  | X |  |  |  | DOS/PPIU
+ |  | Implement capacity development plan | Cost to be determined under above |  |  | X | X | X | DOS/PPIU
 
+cxxv
 [[END OF PAGE 220]]
 
 [[START OF PAGE 221]]
 
-cost
---- | --- | --- | --- | --- | ---
-Implementation the DRR Plan | of Cost to be determined by CD plan | X | X | X | DOS/PPIU
+ |  |  | cost |  |  |  |  |  | 
+ |  | Implementation of the DRR Plan | Cost to be determined by CD plan |  |  | X | X | X | DOS/PPIU
 
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
+ | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 --- | --- | --- | --- | --- | --- | ---
 Total DRR Cost in Billions (Pak Rs.) | 0.008 | 0.008 | 0.000 | 0.000 | 0.000 | 0.000
 
+cxxvi
 [[END OF PAGE 221]]
 
 [[START OF PAGE 222]]
 
 ## Annex 2.3: Governance and Management
 
-Purpose | Results | Activities | Cost (in Million Pak | Timeframe | Responsible
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Rs.) | 2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Political interference converted from intrusive to supportive for systemic improvements | Development of a broad based oversight mechanism for education | Prepare a draft oversight mechanism headed by the Chief Secretary and inclusive of civil society members and professionals | 1.200 | X 0.400 | 0.400 | 0.400 | Sectt./PPIU
-Obtain approval of the oversight mechanism from the competent authority | Minimal Cost | Sectt./PPIU
-Nominate PPIU as secretariat to the oversight body | Minimal Cost | X | Sectt./PPIU
-Formation of a functional Education Committee in the provincial | Send summary to CM through education minister for formation of Education committee in the provincial assembly | Minimal Cost | X | Sectt./PPIU
-Assembly | Conduct dialogues, seminars and workshops with political parties | 1.000 | X 0.200 | X 0.200 | X 0.200 | X 0.200 | X 0.200 | Sectt./PPIU
-Strengthen the committee with capacity development seminars | 1.000 | X | X | X | X | X | Sectt./PPIU
+Purpose | Results | Activities | Cost (in Million Pak Rs.) | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | Responsible
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Political interference converted from intrusive to supportive for systemic improvements | Development of a broad based oversight mechanism for education | Prepare a draft oversight mechanism headed by the Chief Secretary and inclusive of civil society members and professionals | 1.200 | X 0.400 | 0.400 |  | 0.400 |  | Sectt./PPIU
+ |  | Obtain approval of the oversight mechanism from the competent authority | Minimal Cost |  |  |  |  |  | Sectt./PPIU
+ |  | Nominate PPIU as secretariat to the oversight body | Minimal Cost | X |  |  |  |  | Sectt./PPIU
+ | Formation of a functional Education Committee in the provincial Assembly | Send summary to CM through education minister for formation of Education committee in the provincial assembly | Minimal Cost | X |  |  |  |  | Sectt./PPIU
+ |  | Conduct dialogues, seminars and workshops with political parties | 1.000 | X 0.200 | X 0.200 | X 0.200 | X 0.200 | X 0.200 | Sectt./PPIU
+ |  | Strengthen the committee with capacity development seminars | 1.000 | X | X | X | X | X | Sectt./PPIU
 
 cxxvii
-
 [[END OF PAGE 222]]
 
 [[START OF PAGE 223]]
 
-0.200 | 0.200 | 0.200 | 0.200 | 0.200
---- | --- | --- | --- | --- | --- | --- | ---
-Teachers' associations to function as bodies for professional improvement of teachers | Conduct dialogues, seminars and workshops with teachers' association on review of role | 1.200 | X 0.300 | X 0.300 | X 0.300 | X 0.300 | Sectt./PPIU/D OS
-Development professional understanding of the associations through seminars and trainings | Cost cover in above | X | X | X | X | Sectt./PPIU/D OS
-Review mandate of teachers' associations in a consultative process | Cost cover in above | X | X | X | X | Sectt./PPIU/D OS
-Increased efficiency of the management system | Separate cadre for management notified by December 2012 | Prepare concept note on separation | X | Sectt/PPIU/DO S
-Get concept note approved by competent authority | X | Sectt/PPIU/DO S
-Training processes for managers developed and implemented | Assess training needs for education managers | 13.500 | X 4.500 | X 9.000 | Sectt/PPIU/DO S/PITE
-Prepare a professional development plan for education managers | X | Sectt/PPIU/DO S/PITE
-Implement professional development plan | X | X | X | X | Sectt/PPIU/DO S/PITE
+ |  |  |  | 0.200 | 0.200 | 0.200 | 0.200 | 0.200 | 
+ | Teachers’ associations to function as bodies for professional improvement of teachers | Conduct dialogues, seminars and workshops with teachers’ association on review of role | 1.200 |  | X 0.300 | X 0.300 | X 0.300 | X 0.300 | Sectt./PPIU/DOS
+ |  | Development professional understanding of the associations through seminars and trainings | Cost cover in above |  | X | X | X | X | Sectt./PPIU/DOS
+ |  | Review mandate of teachers’ associations in a consultative process | Cost cover in above |  | X | X | X | X | Sectt./PPIU/DOS
+Increased efficiency of the management system | Separate cadre for management notified by December 2012 | Prepare concept note on separation |  | X |  |  |  |  | Sectt/PPIU/DOS
+ |  | Get concept note approved by competent authority |  |  | X |  |  |  | Sectt/PPIU/DOS
+ | Training processes for managers developed and implemented | Assess training needs for education managers | 13.500 | X 4.500 | X 9.000 |  |  |  | Sectt/PPIU/DOS/PITE
+ |  | Prepare a professional development plan for education managers |  |  | X |  |  |  | Sectt/PPIU/DOS/PITE
+ |  | Implement professional development plan |  |  | X | X | X | X | Sectt/PPIU/DOS/PITE
 
 cxxviii
-
 [[END OF PAGE 223]]
 
 [[START OF PAGE 224]]
 
-Link training to career progression | X | Sectt/PPIU/DO S
---- | --- | --- | --- | --- | --- | ---
-Assess impact of training on an ongoing basis | X | Sectt/PPIU/DO S
-Decentralization plan prepared and implemented by December 2012 | Evaluate current administrative system for possibilities of transfer of functions and responsibilities to decentralized tiers | 9.000 | X 3.000 | X 6.000 | Sectt/PPIU/DO S
-Prepare a decentralization plan in consultation with EFOs | X | X | Sectt/PPIU/DO S
-Create awareness on decentralization process through seminars/ workshop | X | Sectt/PPIU/DO S
-Implement decentralization plan | X | X | X | Sectt/PPIU/DO S
-Increased data making planning | Evaluate current data needs and usage | Conduct study on data usage and needs in the education sector of various users | 15.000 | X 5.000 | X 10.00 0 | PPIU/BEMIS
-Prepare a plan for increased data usage on the basis of the study | X | PPIU/BEMIS
-Implement the plan in phases | X | X | X | X | PPIU/BEMIS
+ |  | Link training to career progression |  |  | X |  |  |  | Sectt/PPIU/DOS
+ |  | Assess impact of training on an ongoing basis |  |  |  |  |  | X | Sectt/PPIU/DOS
+ | Decentralization plan prepared and implemented by December 2012 | Evaluate current administrative system for possibilities of transfer of functions and responsibilities to decentralized tiers | 9.000 | X 3.000 | X 6.000 |  |  |  | Sectt/PPIU/DOS
+ |  | Prepare a decentralization plan in consultation with EFOs |  |  | X | X |  |  | Sectt/PPIU/DOS
+ |  | Create awareness on decentralization process through seminars/ workshop |  |  |  | X |  |  | Sectt/PPIU/DOS
+ |  | Implement decentralization plan |  |  |  | X | X | X | Sectt/PPIU/DOS
+Increased use of data in decision making and planning | Evaluate current data needs and usage | Conduct study on data usage and needs in the education sector of various users | 15.000 | X 5.000 | X 10.000 |  |  |  | PPIU/BEMIS
+ |  | Prepare a plan for increased data usage on the basis of the study |  |  | X |  |  |  | PPIU/BEMIS
+ |  | Implement the plan in phases |  |  | X | X | X | X | PPIU/BEMIS
 
 cxxix
-
 [[END OF PAGE 224]]
 
 [[START OF PAGE 225]]
 
-Include courses on education indicators and EMIS in pre- service teacher education | Review current curriculum to include courses in pre-service | X | PPIU/BEMIS/B OC
---- | --- | --- | --- | --- | ---
-Prepare pre-service faculty on teaching the course | X | X | X | X | PPIU/BEMIS/B OC
-Use professionals from the sector as visiting faculty | X | X | X | X | PPIU/BEMIS/B OC
-Courses for management cadre include training on education indicators and EMIS | Prepare short training packages for managers | 4.500 | X 2.000 | X 2.500 | PITE/DOS/DOC
-Revise rules for mandatory training on data at time of posting as a manager | X | DOS/Sectt/DO C
-Improve quality of education data available | BEMIS collects data on all institution types | Consult private schools etc. for approach to collection of data | X | X | DOS/BEMIS/PP IU
-Review BEMIS questionnaire to add provision for private schools, colleges, other public schools and madrassas | X | DOS/BEMIS/PP IU/DOC
-Provide recurrent funds for expanded survey | X | X | X | DOS/BEMIS/PP IU/DOC
+ | Include courses on education indicators and EMIS in pre-service teacher education | Review current curriculum to include courses in pre-service |  |  | X |  |  |  | PPIU/BEMIS/BOC
+ |  | Prepare pre-service faculty on teaching the course |  |  | X | X | X | X | PPIU/BEMIS/BOC
+ |  | Use professionals from the sector as visiting faculty |  |  | X | X | X | X | PPIU/BEMIS/BOC
+ | Courses for management cadre include training on education indicators and EMIS | Prepare short training packages for managers | 4.500 | X 2.000 | X 2.500 |  |  |  | PITE/DOS/DOC
+ |  | Revise rules for mandatory training on data at time of posting as a manager |  |  | X |  |  |  | DOS/Sectt/DOC
+Improve quality of education data available | BEMIS collects data on all institution types | Consult private schools etc. for approach to collection of data |  | X | X |  |  |  | DOS/BEMIS/PPIU
+ |  | Review BEMIS questionnaire to add provision for private schools, colleges, other public schools and madrassas |  |  | X |  |  |  | DOS/BEMIS/PPIU/DOC
+ |  | Provide recurrent funds for expanded survey |  |  |  | X | X | X | DOS/BEMIS/PPIU/DOC
 
 cxxx
-
 [[END OF PAGE 225]]
 
 [[START OF PAGE 226]]
 
-Conduct comprehensive annual survey | 11.800 | X 2.600 | X 2.800 | X 3.000 | X 3.400 | DOS/BEMIS/PP IU/DOC
---- | --- | --- | --- | --- | --- | --- | ---
-BEMIS collects qualitative data from PEAC, BISE, DOS, BoC | Agree on format and details of data with PEACE, BISE, DOS, DOC and BoC | X | DOS/BEMIS/PP IU/DOC/BoC
-Collect data and enter on agreed format | 4.425 | X | X | X | X | DOS/BEMIS/PP IU/DOC/BoC
-BEMIS generates key education indicators | Form committee to agree on key indicators needed for EFA, MDG, Article 25A and any other goal | X | 0.975 | DOS/BEMIS/PP IU
-Training of BEMIS staff on indicators | X | DOS/BEMIS/PP IU
-Indicators form part of BEMIS report | X | X | X | DOS/BEMIS/PP IU
-Data disseminated to all users and stakeholders | Convert current approach of BEMIS report from informational to analytical | 45.000 | X 9.000 | X 12.00 0 | X 12.00 0 | X 12.00 0 | DOS/BEMIS/PP IU
+ |  | Conduct comprehensive annual survey | 11.800 |  | X 2.600 | X 2.800 | X 3.000 | X 3.400 | DOS/BEMIS/PPIU/DOC
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | BEMIS collects qualitative data from PEAC, BISE, DOS, BoC | Agree on format and details of data with PEACE, BISE, DOS, DOC and BoC |  | X |  |  |  |  | DOS/BEMIS/PPIU/DOC/BoC
+ |  | Collect data and enter on agreed format | 4.425 |  | X 0.975 | X 1.050 | X 1.125 | X 1.275 | DOS/BEMIS/PPIU/DOC/BoC
+ | BEMIS generates key education indicators | Form committee to agree on key indicators needed for EFA, MDG, Article 25A and any other goal |  | X |  |  |  |  | DOS/BEMIS/PPIU
+ |  | Training of BEMIS staff on indicators |  |  | X |  |  |  | DOS/BEMIS/PPIU
+ |  | Indicators form part of BEMIS report |  |  |  | X | X | X | DOS/BEMIS/PPIU
+ | Data disseminated to all users and stakeholders | Convert current approach of BEMIS report from informational to analytical | 45.000 |  | X 9.000 | X 12.000 | X 12.000 | X 12.000 | DOS/BEMIS/PPIU
 
 cxxxi
 
@@ -4452,16 +4717,15 @@ cxxxi
 
 [[START OF PAGE 227]]
 
-Prepare a data dissemination strategy and plan | X | DOS/BEMIS/PP IU
---- | --- | --- | --- | --- | ---
-Implement plan through multiple tools | X | X | X | DOS/BEMIS/PP IU
-Capacity of BEMIS developed | Assess BEMIS capacity | 3.750 | X 3.750 | DOS/BEMIS/PP IU
-Prepare capacity development plan | X | DOS/BEMIS/PP IU
-Implement CD plan | X | X | X | DOS/BEMIS/PP IU
-Integrated need based planning processes | Provincial education budget based on sector plan | Coordination process established between Finance, P&D, Planning Wing(s) of education | 10.500 | X | Sectt/PPIU
-secretariat(s) and PPIU | 10.50 0
-Joint review processes undertaken by Finance, P&D, Education Department and C&W | Cost cover in above | X | Sectt/PPIU
-Political funds channelled through the | Dialogue with parliamentarians on educational needs | Cost cover in above | X | X | Sectt/PPIU
+ |  | Prepare a data dissemination strategy and plan |  |  | X |  |  |  | DOS/BEMIS/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Implement plan through multiple tools |  |  |  | X | X | X | DOS/BEMIS/PPIU
+ | Capacity of BEMIS developed | Assess BEMIS capacity | 3.750 | X 3.750 |  |  |  |  | DOS/BEMIS/PPIU
+ |  | Prepare capacity development plan |  |  | X |  |  |  | DOS/BEMIS/PPIU
+ |  | Implement CD plan |  |  |  | X | X | X | DOS/BEMIS/PPIU
+Integrated need based planning processes | Provincial education budget based on sector plan | Coordination process established between Finance, P&D, Planning Wing(s) of education secretariat(s) and PPIU | 10.500 |  | X 10.500 |  |  |  | Sectt/PPIU
+ |  | Joint review processes undertaken by Finance, P&D, Education Department and C&W | Cost cover in above |  | X |  |  |  | Sectt/PPIU
+ | Political funds channelled through the | Dialogue with parliamentarians on educational needs | Cost cover in above |  | X | X |  |  | Sectt/PPIU
 
 cxxxii
 
@@ -4469,17 +4733,17 @@ cxxxii
 
 [[START OF PAGE 228]]
 
-sector plan by December 2012 | Agreement on processing of MP funds through education departments | Cost cover in above | X | Sectt/PPIU
---- | --- | --- | --- | --- | ---
-Rules revised to mandate use of funds for education with the approval of the relevant departments | Cost cover in above | X | X | Sectt/PPIU
-Donor coordination process institutionalized by December 2012 | Prepare MOU for donor coordination process after discussion with development partners | Cost cover in above | X | Sectt/PPIU
-Ensure alignment of all donor support to the sector plan | Cost cover in above | X | X | X | X
-Identify joint indicators and a process for mutual accountability | Cost cover in above | X | Sectt/PPIU
-Establish a fund for donor support to BESP | Cost cover in above | X | X | Sectt/PPIU
-Enhanced capacity of PPIU for coordination and monitoring of BESP | Assess capacity of PPIU | Cost cover in above | X | Sectt/PPIU
-Prepare capacity development plan | Cost cover in above | X | Sectt/PPIU
-Implement CD plan | Cost CD imp will be worked out | X | X | X | Sectt/PPIU
-Community | Framework | Conduct study on | 3.000 | X | DOS/PPIU
+ | sector plan by December 2012 | Agreement on processing of MP funds through education departments | Cost cover in above |  |  | X |  |  | Sectt/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Rules revised to mandate use of funds for education with the approval of the relevant departments | Cost cover in above |  |  |  | X | X | Sectt/PPIU
+ | Donor coordination process institutionalized by December 2012 | Prepare MOU for donor coordination process after discussion with development partners | Cost cover in above | X |  |  |  |  | Sectt/PPIU
+ |  | Ensure alignment of all donor support to the sector plan | Cost cover in above |  | X | X | X | X | 
+ |  | Identify joint indicators and a process for mutual accountability | Cost cover in above |  | X |  |  |  | Sectt/PPIU
+ |  | Establish a fund for donor support to BESP | Cost cover in above |  | X | X |  |  | Sectt/PPIU
+ | Enhanced capacity of PPIU for coordination and monitoring of BESP | Assess capacity of PPIU | Cost cover in above | X |  |  |  |  | Sectt/PPIU
+ |  | Prepare capacity development plan | Cost cover in above | X |  |  |  |  | Sectt/PPIU
+ |  | Implement CD plan | Cost CD imp will be worked out |  | X | X | X |  | Sectt/PPIU
+Community | Framework | Conduct study on | 3.000 |  | X |  |  |  | DOS/PPIU
 
 cxxxiii
 
@@ -4487,15 +4751,15 @@ cxxxiii
 
 [[START OF PAGE 229]]
 
-Involvement in Education Management | developed for community involvement | situation of PTSMCs in the province | 3.000
---- | --- | --- | --- | --- | ---
-Discuss findings of the study with stakeholders | Cost cover in above | X | DOS/PPIU
-Prepare framework in consultation with stakeholders | Cost cover in above | X | DOS/PPIU
-5000 existing PTSMCs restructured as per agreed framework | Prepare a restructuring plan in coordination with EFOs | Minimal Cost and Plan Developmen t Cost covered in above study | X | DOS/PPIU
-Implement the plan in phases | As per the plan results of study and plan developed | X | X | DOS/PPIU
-7293 new PTSMCs formed on the basis of the framework | Prepare a plan for formation of new PTSMCs in consultation with EFOs | Unit cost to be worked out in the result of the study | X | DOS/PPIU
-Implement the plan in phases | Cost to be worked in the above | X | X | DOS/PPIU
-School Development Plans are | Train EFOs and head teachers in preparation of school development | 2.000 | X 2.000 | X | DOS
+Involvement in Education Management | developed for community involvement | situation of PTSMCs in the province |  |  | X 3.000 |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Discuss findings of the study with stakeholders | Cost cover in above |  | X |  |  |  | DOS/PPIU
+ |  | Prepare framework in consultation with stakeholders | Cost cover in above |  | X |  |  |  | DOS/PPIU
+ | 5000 existing PTSMCs restructured as per agreed framework | Prepare a restructuring plan in coordination with EFOs | Minimal Cost and Plan Development Cost covered in above study |  |  | X |  |  | DOS/PPIU
+ |  | Implement the plan in phases | As per the plan results of study and plan developed |  |  | X | X | X | DOS/PPIU
+ | 7293 new PTSMCs formed on the basis of the framework | Prepare a plan for formation of new PTSMCs in consultation with EFOs | Unit cost to be worked out in the result of the study |  |  | X |  |  | DOS/PPIU
+ |  | Implement the plan in phases | Cost to be worked in the above |  |  | X | X | X | DOS/PPIU
+ | School Development Plans are | Train EFOs and head teachers in preparation of school development | 2.000 |  |  | X 2.000 | X | X | DOS
 
 cxxxiv
 
@@ -4503,14 +4767,14 @@ cxxxiv
 
 [[START OF PAGE 230]]
 
-developed by with assistance of functioning PTSMCs | plans (need some discussion current only development cost)
---- | --- | --- | --- | --- | ---
-Prepare school development plans with the assistance of head teachers and EFOs | X | X | X | DOS
-Monitor implementation of school development plans | X | X | X | DOS
-PTSMC Monitoring mechanism developed and in place by June 2013 | Prepare monitoring mechanism for PTSMCs in consultation with EFOs, Head teachers and community | As per above note | X | X | DOS
-Include data on PTSMCs in BEMIS | X | X | X | DOS
-Train EFOs and DOS on monitoring effectiveness of PTSMCs | Part of the In-Service training and Also Covered some portion under BEMIS | X | X | DOS
-Minimise gaps between private and public schools | Policy framework for linkages with private schools development | Conduct dialogue with private schools to develop a policy framework | Minimal Cost | X | PPIU/DOS
+ | developed by with assistance of functioning PTSMCs | plans (need some discussion current only development cost) |  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Prepare school development plans with the assistance of head teachers and EFOs |  |  |  | X | X | X | DOS
+ |  | Monitor implementation of school development plans |  |  |  | X | X | X | DOS
+ | PTSMC Monitoring mechanism developed and in place by June 2013 | Prepare monitoring mechanism for PTSMCs in consultation with EFOs, Head teachers and community | As per above note |  | X | X |  |  | DOS
+ |  | Include data on PTSMCs in BEMIS |  |  |  | X | X | X | DOS
+ |  | Train EFOs and DOS on monitoring effectiveness of PTSMCs | Part of the In-Service training and Also Covered some portion under BEMIS |  |  | X | X |  | DOS
+Minimise gaps between private and public schools | Policy framework for linkages with private schools development | Conduct dialogue with private schools to develop a policy framework | Minimal Cost |  | X |  |  |  | PPIU/DOS
 
 cxxxv
 
@@ -4518,14 +4782,14 @@ cxxxv
 
 [[START OF PAGE 231]]
 
-Develop a policy framework for private schools to increase linkages through asset sharing like teacher training etc. | Minimal Cost | X | PPIU/DOS
---- | --- | --- | --- | --- | --- | ---
-Prepare a regulatory mechanism to minimize gaps in educational outcomes across private and public sector schools | Minimal Cost | X | PPIU/DOS
-Develop capacity of DOS to implement regulatory mechanism | Minimal Cost | X | X | X | X | PPIU/DOS
-Gender balanced management approach | Gender attitudes in the workplace improved | Develop a gender awareness campaign on the basis of UNICEF studies | 1.800 | X 1.800 | PPIU
-Implement the campaign through various tools | X | X | X | PPIU
-Mandate gender training for all managers | Part of In- service training | X | PPIU
-Special facilities provided for | Audit all offices for gender friendly facilities | Part of Monitoring | X | PPIU
+ |  | Develop a policy framework for private schools to increase linkages through asset sharing like teacher training etc. | Minimal Cost |  | X |  |  |  | PPIU/DOS
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Prepare a regulatory mechanism to minimize gaps in educational outcomes across private and public sector schools | Minimal Cost |  | X |  |  |  | PPIU/DOS
+ |  | Develop capacity of DOS to implement regulatory mechanism | Minimal Cost |  | X | X | X | X | PPIU/DOS
+Gender balanced management approach | Gender attitudes in the workplace improved | Develop a gender awareness campaign on the basis of UNICEF studies | 1.800 |  | X 1.800 |  |  |  | PPIU
+ |  | Implement the campaign through various tools |  |  | X | X | X |  | PPIU
+ |  | Mandate gender training for all managers | Part of In-service training |  | X |  |  |  | PPIU
+ | Special facilities provided for | Audit all offices for gender friendly facilities | Part of Monitoring |  | X |  |  |  | PPIU
 
 cxxxvi
 
@@ -4533,13 +4797,13 @@ cxxxvi
 
 [[START OF PAGE 232]]
 
-females in the workplace | Provide separate toilets in sufficient numbers for females in all offices (study to workout total toilets required and the implementation cost) | 1.000 | X 1.000 | PPIU
---- | --- | --- | --- | --- | --- | ---
-Set up day care centres' for females with young children in offices and schools | To be part of above study | X | X | X | X | PPIU
+ | females in the workplace | Provide separate toilets in sufficient numbers for females in all offices (study to workout total toilets required and the implementation cost) | 1.000 |  | X 1.000 |  |  |  | PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Set up day care centres’ for females with young children in offices and schools | To be part of above study |  | X | X | X | X | PPIU
 
 Cost in Billions (Pak Rs.)
 --- | --- | --- | --- | --- | --- | ---
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
+ | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 Development Cost | 0.130 | 0.019 | 0.057 | 0.019 | 0.017 | 0.017
 
 cxxxvii
@@ -4550,13 +4814,13 @@ cxxxvii
 
 ## Annex 2.4: Higher Education
 
-Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe | Responsible
---- | --- | --- | --- | --- | --- | ---
-2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Institutional framework for transition to four years graduate | Oversight body for guiding transition to 4 year undergraduate in colleges | Form an oversight committee consisting of at least 3 VCs, Secretary Higher Education, principals of concerned colleges, representative of HEC and Departments of Finance and P&D | Minimal Cost | X | X | Deptt of HE
-Prepare terms of reference for committee | Minimal Cost | X | X | PPIU/DOC
-Nominate Directorate of Higher Education as secretariat to the oversight body | Minimal Cost | X | X | Deptt. of HE
-Technical committee to plan and implement the reform process | Form committee consisting of officers of the Higher Education Directorate, at least one professor from concerned colleges and officers from PPIU | Minimal Cost | X | DOC
+Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe |  |  |  |  | Responsible
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | 
+Institutional framework for transition to four years graduate | Oversight body for guiding transition to 4 year undergraduate in colleges | Form an oversight committee consisting of at least 3 VCs, Secretary Higher Education, principals of concerned colleges, representative of HEC and Departments of Finance and P&D | Minimal Cost | X | X |  |  |  | Deptt of HE
+ |  | Prepare terms of reference for committee | Minimal Cost | X | X |  |  |  | PPIU/DOC
+ |  | Nominate Directorate of Higher Education as secretariat to the oversight body | Minimal Cost | X | X |  |  |  | Deptt. of HE
+ | Technical committee to plan and implement the reform process | Form committee consisting of officers of the Higher Education Directorate, at least one professor from concerned colleges and officers from PPIU | Minimal Cost | X |  |  |  |  | DOC
 
 cxxxviii
 
@@ -4564,26 +4828,14 @@ cxxxviii
 
 [[START OF PAGE 234]]
 
-Develop academic programme for 4 year undergraduate | Subject(s)/areas selected for 4 year undergraduate programme | Take a short market survey to identify subjects with high | 1.400 | X | X | DOC/PPIU
---- | --- | --- | --- | --- | --- | ---
-market relevance | 0.700 | 0.700
-degrees | Disseminate and discuss results of the survey with parents, students, teachers and politicians. | Cost cover in above | X | DOC/PPIU
-Select subjects after consultations | Minimal Cost | X | DOC/BACT
-Adopt curricula already developed by HEC (where available) | X | X
-Curriculum and learning material requirements | DOC/ BACT
-finalized | Identify requirements for learning materials: textbooks, libraries | 2159.264 | X | X | X | DOC/ BACT
-laboratories, renovation of buildings etc. | 539.81 6 | 863.70 6 | 755.7 42
-Faculty | Undertake a needs assessments of faculty | X
-prepared implemented | development Design training workshops for faculty
-X
-programme
-development
-X
-Improving the teaching learning
-process
-and
-DOC/BACT
-in colleges
+Develop academic programme for 4 year undergraduate degrees | Subject(s)/areas selected for 4 year undergraduate programme | Take a short market survey to identify subjects with high market relevance | 1.400 | X 0.700 | X 0.700 |  |  |  | DOC/PPIU
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Disseminate and discuss results of the survey with parents, students, teachers and politicians. | Cost cover in above |  | X |  |  |  | DOC/PPIU
+ |  | Select subjects after consultations | Minimal Cost |  | X |  |  |  | DOC/BACT
+ | Curriculum and learning material requirements finalized | Adopt curricula already developed by HEC (where available) |  |  | X | X |  |  | DOC/ BACT
+ |  | Identify requirements for learning materials: textbooks, libraries laboratories, renovation of buildings etc. | 2159.264 |  |  | X 539.816 | X 863.706 | X 755.742 | DOC/ BACT
+Improving the teaching learning process | Faculty development programme prepared and implemented | Undertake a needs assessments of faculty development |  | X | X |  |  |  | DOC/BACT
+ |  | Design training workshops for faculty in colleges |  |  | X |  |  |  | DOC/BACT
 
 cxxxix
 
@@ -4591,15 +4843,12 @@ cxxxix
 
 [[START OF PAGE 235]]
 
-Set up a teacher professional development support system in BACT to assist teachers in applying to universities, information, GRE preparation etc. and also provide information on scholarships | 10.000 | X | X | DOC/BACT
---- | --- | --- | --- | --- | ---
-5.000 | 5.000
-Provide incentives to teachers to improve their qualifications to Phd. through introduction of tenure track system for college faculty | 400.000 | X | X | X | DOC
-133.33 3 | 133.33 3 | 133.3 33
-Borrow visiting faculty from universities for specified percentage of courses | X | X | X | X | DOC/BACT
-Assessment processes | Standardize | 2.250 | X | DOC/UOB
-strengthened | assessment processes (Consultancy cost) | 2.250
-Train faculty on assessments | X | X | X | X | DOC/BACT/UO B
+ |  | Set up a teacher professional development support system in BACT to assist teachers in applying to universities, information, GRE preparation etc. and also provide information on scholarships | 10.000 |  | X 5.000 | X 5.000 |  |  | DOC/BACT
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Provide incentives to teachers to improve their qualifications to Phd. through introduction of tenure track system for college faculty | 400.000 |  |  | X 133.333 | X 133.333 | X 133.333 | DOC
+ |  | Borrow visiting faculty from universities for specified percentage of courses |  |  | X | X | X | X | DOC/BACT
+ | Assessment processes strengthened | Standardize assessment processes (Consultancy cost) | 2.250 |  | X 2.250 |  |  |  | DOC/UOB
+ |  | Train faculty on assessments |  |  | X | X | X | X | DOC/BACT/UOB
 
 cxl
 
@@ -4607,17 +4856,15 @@ cxl
 
 [[START OF PAGE 236]]
 
-Undertake awareness campaign against cheating in examinations | X X | X | X | DOC/UOB
---- | --- | --- | --- | --- | --- | ---
-BACT strengthened as a professional development institute | Assess capacity of BACT to undertake the role of faculty development (Study Cost) | 2.250 | X | DOC/PPIU
-2.250
-Prepare a capacity development plan for BACT | Cost may be covered in above cost | X | DOC/PPIU
-Implement CD plan in phases | CD plan will provide the cost | X | X | X | X | DOC/PPIU
-Revamp governance and management structure | DOC capacitated to manage higher education | Assess capacity of DOC in view of future needs (Consultancy Cost) | 4.500 | X | DOC/PPIU
-4.500
-programmes | Prepare capacity development plan for DOC | Cost may be covered in above cost | X | DOC/PPIU
-Implement CD Plan | CD plan will provide the cost | X | X | X | X | DOC/PPIU
-Meritocratic decision making independent of political pressure | Discuss issues of student politics with political parties and student leaders | Minimal Cost | X | X | Deptt. HE/DOC/BACT
+ |  | Undertake awareness campaign against cheating in examinations |  |  | X | X | X | X | DOC/UOB
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | BACT strengthened as a professional development institute | Assess capacity of BACT to undertake the role of faculty development (Study Cost) | 2.250 |  | X 2.250 |  |  |  | DOC/PPIU
+ |  | Prepare a capacity development plan for BACT | Cost may be covered in above cost |  | X |  |  |  | DOC/PPIU
+ |  | Implement CD plan in phases | CD plan will provide the cost |  | X | X | X | X | DOC/PPIU
+Revamp governance and management structure | DOC capacitated to manage higher education programmes | Assess capacity of DOC in view of future needs (Consultancy Cost) | 4.500 |  | X 4.500 |  |  |  | DOC/PPIU
+ |  | Prepare capacity development plan for DOC | Cost may be covered in above cost |  | X |  |  |  | DOC/PPIU
+ |  | Implement CD Plan | CD plan will provide the cost |  | X | X | X | X | DOC/PPIU
+ | Meritocratic decision making independent of political pressure | Discuss issues of student politics with political parties and student leaders | Minimal Cost |  | X | X |  |  | Deptt. HE/DOC/BACT
 
 cxli
 
@@ -4625,16 +4872,15 @@ cxli
 
 [[START OF PAGE 237]]
 
-in higher education institutions | Conduct seminars and debates on role of student politics in higher education | Minimal Cost | X | X | X | Deptt. HE/DOC/BACT
---- | --- | --- | --- | --- | --- | ---
-Develop a mutually agreed code of conduct | Minimal Cost | X | Deptt. HE/DOC/BACT
-HEC standards applied in colleges through a provincial | Set up a provincial higher education standards body with linkages to HEC | 2.250 | X | Deptt. HE/DOC/BACT
-2.250
-oversight body | Develop provincial standards in consultation with HEC | part of above cost | X | X | Deptt. HE/DOC/BACT
-Disseminate standards to all provincial private and public sector institutions | x | X | Deptt. HE/DOC/BACT
-Assist institutions in transition to new standards | X | Deptt. HE/DOC/BACT
-Monitor implementation of standards across public and private institutions | X | Deptt. HE/DOC/BACT
-Improve employability of | Research conducted on an | Provide funds to BACT to conduct research | 2.000 | X | Deptt. HE/BACT
+ | in higher education institutions | Conduct seminars and debates on role of student politics in higher education | Minimal Cost |  |  | X | X | X | Deptt. HE/DOC/BACT
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Develop a mutually agreed code of conduct | Minimal Cost |  |  |  | X |  | Deptt. HE/DOC/BACT
+ | HEC standards applied in colleges through a provincial oversight body | Set up a provincial higher education standards body with linkages to HEC | 2.250 |  | X 2.250 |  |  |  | Deptt. HE/DOC/BACT
+ |  | Develop provincial standards in consultation with HEC | part of above cost |  | X | X |  |  | Deptt. HE/DOC/BACT
+ |  | Disseminate standards to all provincial private and public sector institutions |  |  |  | x | X |  | Deptt. HE/DOC/BACT
+ |  | Assist institutions in transition to new standards |  |  |  |  | X |  | Deptt. HE/DOC/BACT
+ |  | Monitor implementation of standards across public and private institutions |  |  |  |  |  | X | Deptt. HE/DOC/BACT
+Improve employability of | Research conducted on an | Provide funds to BACT to conduct research | 2.000 |  | X |  |  |  | Deptt. HE/BACT
 
 cxlii
 
@@ -4642,14 +4888,13 @@ cxlii
 
 [[START OF PAGE 238]]
 
-graduates | ongoing basis to evaluate market opportunities | on market opportunities on a regular basis | 2.000
---- | --- | --- | --- | --- | ---
-Disseminate findings of the research to parents, students and the chambers through various tools including a website | Linkages with Media to minimize the cost | X | X | X | Deptt. HE/BACT
-Chambers of commerce and industries involved in higher education | Include members of the provincial and federal chambers in curriculum development | Minimal Cost | X | DOC/BACT
-Set up a students guidance centre with assistance of the Chambers | Minimal Cost | X | DOC/BACT
-Identify internship opportunities in collaboration of the chambers | Minimal Cost | X | X | X | DOC/BACT
-English language proficiency as per higher education and professional needs | Set up English language support centres for students in colleges for students with low proficiency (Consultancy cost to work out the Plan) | 2.100 | X | DOC/BACT
-2.100
+graduates | ongoing basis to evaluate market opportunities | on market opportunities on a regular basis |  |  | X 2.000 |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Disseminate findings of the research to parents, students and the chambers through various tools including a website | Linkages with Media to minimize the cost |  |  | X | X | X | Deptt. HE/BACT
+ | Chambers of commerce and industries involved in higher education | Include members of the provincial and federal chambers in curriculum development | Minimal Cost |  | X |  |  |  | DOC/BACT
+ |  | Set up a students guidance centre with assistance of the Chambers | Minimal Cost |  |  | X |  |  | DOC/BACT
+ |  | Identify internship opportunities in collaboration of the chambers | Minimal Cost |  |  | X | X | X | DOC/BACT
+ | English language proficiency as per higher education and professional needs | Set up English language support centres for students in colleges for students with low proficiency (Consultancy cost to work out the Plan) | 2.100 |  | X 2.100 |  |  |  | DOC/BACT
 
 cxliii
 
@@ -4657,13 +4902,13 @@ cxliii
 
 [[START OF PAGE 239]]
 
-Train teachers in English as a second language teaching | Cost to be determined from the above | X | X | DOC/BACT
---- | --- | --- | --- | ---
-Develop language laboratories within the English language centres in colleges selected for 4 year courses | Cost to be determined from the above | X | DOC/BACT
+ |  | Train teachers in English as a second language teaching | Cost to be determined from the above |  | X | X |  |  | DOC/BACT
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Develop language laboratories within the English language centres in colleges selected for 4 year courses | Cost to be determined from the above |  |  | X |  |  | DOC/BACT
 
 Cost in Billions Pak Rs.
 --- | --- | --- | --- | --- | --- | ---
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
+ | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 Total Cost in Billions Pak Rs. | 2.586 | 0.001 | 0.021 | 0.678 | 0.997 | 0.889
 Material and Construction Cost | 2.159 | 0.000 | 0.000 | 0.540 | 0.864 | 0.756
 Teachers Training Cost | 0.410 | 0.000 | 0.005 | 0.138 | 0.133 | 0.133
@@ -4675,14 +4920,14 @@ cxliv
 
 [[START OF PAGE 240]]
 
-Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe | Responsible
---- | --- | --- | --- | --- | ---
-2013- 14 | 2014- 15 | 2015- 16 | 2016- 17 | 2017- 18
-Institutionalization of Youth/ Adult Literacy (YAL) and Non-Formal Education (NFE) Program in the province | Policy framework for NFE and Youth/Adult Literacy (YAL) programs formulated and implemented | Formulation of a team of experts to develop minimum standards of NFE & YAL. | 3.375 | X 3.375 | DSW & PPIU, Directorate of Literacy
-Develop minimum standards of NFE & YAL in line with the national curriculum. | X | DSW & PPIU, Directorate of Literacy
-Formation of policy for : a. Mains treaming of NFE graduates through a system of equivalence. b. Provis ion of second chance for drop out adolescents after completing their primary education. | X | DSW & PPIU, Directorate of Literacy
-
 ## Annex 2.5: Adult Literacy and NFE
+
+Purpose | Results | Activities | Cost (in Million Pak Rs.) | Timeframe |  |  |  |  | Responsible
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | 
+Institutionalization of Youth/ Adult Literacy (YAL) and Non-Formal Education (NFE) Program in the province | Policy framework for NFE and Youth/Adult Literacy (YAL) programs formulated and implemented | Formulation of a team of experts to develop minimum standards of NFE & YAL. | 3.375 | X 3.375 |  |  |  |  | DSW & PPIU, Directorate of Literacy
+ |  | Develop minimum standards of NFE & YAL in line with the national curriculum. |  | X |  |  |  |  | DSW & PPIU, Directorate of Literacy
+ |  | Formation of policy for: a. Mainstreaming of NFE graduates through a system of equivalence. b. Provision of second chance for drop out adolescents after completing their primary education. |  | X |  |  |  |  | DSW & PPIU, Directorate of Literacy
 
 cxlv
 
@@ -4690,13 +4935,13 @@ cxlv
 
 [[START OF PAGE 241]]
 
-c. Aligni ng NFE with Article 25-A for introduction of compulsory education.
---- | --- | --- | --- | --- | ---
-Introduction of developmental incentives (roads, streets, sanitation, drainage WATSAN) for communities showing better results in improvement of literacy. | X | X | X | X | DSW, PPIU, FD and P&D
-Institutional arrangements place. | Formulation of Standing committee on NFE & YAL in the provincial assembly. | X | DSW, PPIU, S&GAD and Cabinet
-Formulation of Supervisory Council on NFE & YAL. | X | DSW & PPIU
-Restructuring / re- invigoration of Directorate of NFE & YAL | 3.000 | X 3.000 | DSW & FD
-Establishment of Divisional Directorates of NFE & YAL. | X | DSW, FD & S&GAD
+ |  | c. Aligning NFE with Article 25-A for introduction of compulsory education. |  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Introduction of developmental incentives (roads, streets, sanitation, drainage WATSAN) for communities showing better results in improvement of literacy. |  |  | X | X | X | X | DSW, PPIU, FD and P&D
+ | Institutional arrangements in place. | Formulation of Standing committee on NFE & YAL in the provincial assembly. |  | X |  |  |  |  | DSW, PPIU, S&GAD and Cabinet
+ |  | Formulation of Supervisory Council on NFE & YAL. |  | X |  |  |  |  | DSW & PPIU
+ |  | Restructuring / re-invigoration of Directorate of NFE & YAL | 3.000 | X 3.000 |  |  |  |  | DSW & FD
+ |  | Establishment of Divisional Directorates of NFE & YAL. |  |  | X |  |  |  | DSW, FD & S&GAD
 
 cxlvi
 
@@ -4704,10 +4949,10 @@ cxlvi
 
 [[START OF PAGE 242]]
 
-Creation of new positions aligned with enhanced responsibilities of NFE & YAL Directorate. | X | DSW, FD & S&GAD
---- | --- | --- | --- | --- | ---
-Formulation and approval of the service rules of new positions | X | X | DSW, FD & S&GAD
-Increase awareness for NFE among stakeholders | Conduct advocacy campaign to create awareness among policy makers regarding needs and importance of NFE & YAL. a. Creation of consensus with Finance | 1.000 | X | X | DSW, FD & P&D
+ |  | Creation of new positions aligned with enhanced responsibilities of NFE & YAL Directorate. |  |  | X |  |  |  | DSW, FD & S&GAD
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Formulation and approval of the service rules of new positions |  |  | X | X |  |  | DSW, FD & S&GAD
+ | Increase awareness for NFE among stakeholders | Conduct advocacy campaign to create awareness among policy makers regarding needs and importance of NFE & YAL. a. Creation of consensus with Finance Department for budgetary allocation to meet the expenditure on initial activities b. Advocacy with the Finance Department for enhanced annual budget to promote NFE and YAL. c. Advocacy with P&D department for enhanced PSD | 1.000 | X 0.500 | X 0.500 |  |  |  | DSW, FD & P&D
 
 cxlvii
 
@@ -4715,14 +4960,14 @@ cxlvii
 
 [[START OF PAGE 243]]
 
-Increasing awareness among communities on NFE and YAL | a. Preparing awareness material b. Training of staff on awareness techniques c. Launching awareness campaign | .500 | 1 X | X | DSW, ED
---- | --- | --- | --- | --- | ---
-0.750 | 0.750
-X
-d. Meetings with PTSMCs | X | X | X | X
-Government includes NFE and YAL in its Annual Budget and PSDP and allocates at least 2% of the total budget. | X X | X X | X X | DSW, P&D and FD
-Review development Teaching/ | Need based teaching/learning material available | Collection of existing teaching/learning material of NFE & YAL | 2.250 | X | DSW, Education Department
-Material. | Formation of team of experts to review the existing material and make recommendations for adoption/adaptation of | X | DSW
+ | Increasing awareness among communities on NFE and YAL | a. Preparing awareness material | 1.500 | X 0.750 | X 0.750 |  |  |  | DSW, ED
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | b. Training of staff on awareness techniques |  |  |  |  |  |  | 
+ |  | c. Launching awareness campaign |  |  | X |  |  |  | 
+ |  | d. Meetings with PTSMCs |  | X | X | X | X | X | 
+ |  | Government includes NFE and YAL in its Annual Budget and PSDP and allocates at least 2% of the total budget. |  |  | X | X | X | X | DSW, P&D and FD
+Review and development of Teaching/ Learning Material. | Need based teaching/learning material available | Collection of existing teaching/learning material of NFE & YAL | 2.250 | X 2.250 |  |  |  |  | DSW, Education Department
+ |  | Formation of team of experts to review the existing material and make recommendations for adoption/adaptation of |  | X |  |  |  |  | DSW
 
 cxlviii
 
@@ -4730,14 +4975,14 @@ cxlviii
 
 [[START OF PAGE 244]]
 
-material.
---- | --- | --- | --- | --- | --- | --- | ---
-Development of new material as per the recommendations of the Review Committee. | X | X | DSW
-Approval of material in light of standards. | X | DSW &
-Increase/ expand the literacy rate of the province by introducing YAL & NFE programs. | Increasing literacy rate by 20% of illiterate population by introducing YAL programs. | Conduct baseline survey to identify illiterates of all age groups in the province. | 3.750 | X 1.500 | X 2.250 | PPIU DSW through partners
-Establishment of 3000 YAL Centres on gender parity basis. Estimates for Adult Literacy Centres Estimates for YOUTH Literacy Centres | 390.000 | Cost to be | X 65.000 | X 104.000 | X 117.000 | X 104.000 | DSW & partners
-Identification and hiring of YAL Teachers. | part of above cost | out | X | X | X | X | DSW & partners
-Capacity building of hired teachers for YAL. | 22.500 | 0.000 | X 3.750 | X 6.000 | X 6.750 | X 6.000 | DSW, PPIU & PITE
+ |  | material. |  |  |  |  |  |  | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Development of new material as per the recommendations of the Review Committee. |  | X | X |  |  |  | DSW
+ |  | Approval of material in light of standards. |  |  | X |  |  |  | DSW & PPIU
+Increase/ expand the literacy rate of the province by introducing YAL & NFE programs. | Increasing literacy rate by 20% of illiterate population by introducing YAL programs. | Conduct baseline survey to identify illiterates of all age groups in the province. | 3.750 | X 1.500 | X 2.250 |  |  |  | DSW through partners
+ |  | Establishment of 3000 YAL Centres on gender parity basis. Estimates for Adult Literacy Centres Estimates for YOUTH Literacy Centres | 390.000 | Cost to be worked out | X 65.000 | X 104.000 | X 117.000 | X 104.000 | DSW & partners
+ |  | Identification and hiring of YAL Teachers. | part of above cost |  | X | X | X | X | DSW & partners
+ |  | Capacity building of hired teachers for YAL. | 22.500 | 0.000 | X 3.750 | X 6.000 | X 6.750 | X 6.000 | DSW, PPIU & PITE
 
 cxlix
 
@@ -4745,14 +4990,14 @@ cxlix
 
 [[START OF PAGE 245]]
 
-Assessment of learning and certification of Literacy graduates. | 15.000 | X | X | X | X | DSW, PPIU PEAS | ED, &
+ |  | Assessment of learning and certification of Literacy graduates. | 15.000 | 0.000 | X 2.500 | X 4.000 | X 4.500 | X 4.000 | DSW, ED, PPIU & PEAS
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Increase 20% Access for out of school adolescents by establishing NFBE centres | Conduct baseline survey to identify adolescents dropped out from schools without completing education, in the province. | 3.750 | 0.000 X 1.500 | 2.500 X 2.250 | 4.000 | 4.500 | 4.000 | DSW partners | &
-Establishment of 1500 NFE Centres on gender parity and needs identified through survey. | 675.750 | 0.000 | X 135.150 | X 225.250 | X 225.250 | X 90.100 | DSW partners | &
-Identification and hiring of NFE Teachers. | X | X | X | X | DSW partners | &
-Development of training curriculum of NFE teachers | X | DSW, & PITE | PPIU
-Capacity building of hired teachers for NFE. | 33.750 | 0.000 | X 6.750 | X 11.250 | X 11.250 | X 4.500 | DSW, & PITE | PPIU
-Examination and Certification of NFE graduates. | 13.125 | 0.000 | 2.625 | 4.375 | X 4.375 | X 1.750 | DSW
+ | Increase 20% Access for out of school adolescents by establishing NFBE centres | Conduct baseline survey to identify adolescents dropped out from schools without completing education, in the province. | 3.750 | X 1.500 | X 2.250 |  |  |  | DSW & partners
+ |  | Establishment of 1500 NFE Centres on gender parity and needs identified through survey. | 675.750 | 0.000 | X 135.150 | X 225.250 | X 225.250 | X 90.100 | DSW & partners
+ |  | Identification and hiring of NFE Teachers. |  |  | X | X | X | X | DSW & partners
+ |  | Development of training curriculum of NFE teachers |  | X |  |  |  |  | DSW, PPIU & PITE
+ |  | Capacity building of hired teachers for NFE. | 33.750 | 0.000 | X 6.750 | X 11.250 | X 11.250 | X 4.500 | DSW, PPIU & PITE
+ |  | Examination and Certification of NFE graduates. | 13.125 | 0.000 | 2.625 | 4.375 | X 4.375 | X 1.750 | DSW
 
 cl
 
@@ -4760,15 +5005,14 @@ cl
 
 [[START OF PAGE 246]]
 
-Mainstreaming of graduates of NFE in Formal Education System. | X | DSW
---- | --- | --- | --- | --- | --- | --- | ---
-Monitoring Assessment. | & | learning & Review of the Assessment techniques by a committee of experts | 1.575 | X | DSW, PPIU & PEAS
-1.575
-Develop Monitoring Tools and mechanism in the light of recommendation of the review committee | Cost cover under above | X | DSW, PPIU & PEAS
-Development of strong linkage with Education Department for Monitoring and Assessment | Cost cover under above | X | X | X | X | X | DSW & PPIU
-Monitoring & Assessment | Capacity building of the monitoring teams on assessment techniques | 1.200 | X 0.300 | X 0.300 | X 0.300 | X 0.300 | PEAS, DoS
-Development and implementation of a sustainable monitoring and assessment program | X | X | X | X | X | DSW
-Evaluation of the programs and improvement | X | X | X | DSW & PPIU
+ |  | Mainstreaming of graduates of NFE in Formal Education System. |  |  |  |  |  | X | DSW
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Monitoring & Assessment. | Improved learning outcomes for NFE & YAL Programs. | Review of the Assessment techniques by a committee of experts | 1.575 | X 1.575 |  |  |  |  | DSW, PPIU & PEAS
+ |  | Develop Monitoring Tools and mechanism in the light of recommendation of the review committee | Cost cover under above | X |  |  |  |  | DSW, PPIU & PEAS
+ |  | Development of strong linkage with Education Department for Monitoring and Assessment | Cost cover under above | X | X | X | X | X | DSW & PPIU
+ | Monitoring & Assessment | Capacity building of the monitoring teams on assessment techniques | 1.200 |  | X 0.300 | X 0.300 | X 0.300 | X 0.300 | PEAS, DoS
+ |  | Development and implementation of a sustainable monitoring and assessment program |  | X | X | X | X | X | DSW
+ |  | Evaluation of the programs and improvement |  |  |  | X | X | X | DSW & PPIU
 
 cli
 
@@ -4776,19 +5020,19 @@ cli
 
 [[START OF PAGE 247]]
 
-Management of YAL and NFE Database | Establishment of MIS | Join hand with BEMIS | X | X | DSW
---- | --- | --- | --- | --- | --- | ---
-Regular updating the MIS with monitoring and assessment results | 0.800 | X 0.200 | X 0.200 | X 0.200 | X 0.200 | DSW
-Dissemination of information | X | X | X | X | DSW
-Establishment of Institute for capacity building of NFE and YAL teachers | Establishment of training institute for YAL and NFE staff | Development of PC-I and approval | Cost to be worked out under PC-I | X | DSW & P&D
-Establishment of Training Institute | X | DSW
-Development of Teachers Training curriculum for NFE and YAL Teachers. | X | &
-Development of Master Trainers | X | X | DSW
-Conduct training of NFE and YAL teachers | X | X | X | X | DSW
+ | Management of YAL and NFE Database | Establishment of MIS | Join hand with BEMIS | X | X |  |  |  | DSW
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Regular updating the MIS with monitoring and assessment results | 0.800 |  | X 0.200 | X 0.200 | X 0.200 | X 0.200 | DSW
+ |  | Dissemination of information |  |  | X | X | X | X | DSW
+Establishment of Institute for capacity building of NFE and YAL teachers | Establishment of training institute for YAL and NFE staff | Development of PC-I and approval | Cost to be worked out under PC-I | X |  |  |  |  | DSW & P&D
+ |  | Establishment of Training Institute |  |  | X |  |  |  | DSW
+ |  | Development of Teachers Training curriculum for NFE and YAL Teachers. |  | X |  |  |  |  | DSW & PPIU
+ |  | Development of Master Trainers |  | X | X |  |  |  | DSW
+ |  | Conduct training of NFE and YAL teachers |  |  | X | X | X | X | DSW
 
 Cost in Billions Pak Rs.
 --- | --- | --- | --- | --- | --- | ---
-Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
+ | Total | Year 1 | Year 2 | Year 3 | Year 4 | Year 5
 Centre Establishment Cost (Salary and | 1.066 | 0.000 | 0.200 | 0.329 | 0.342 | 0.194
 
 clii
@@ -4811,7 +5055,7 @@ cliii
 
 # Summary Recurrent and Development Costs in Billions (Pak Rs.)
 
-Quality Education | ECE | Access & Equity | Inclusive Education | DRR | Governanc e & Managem ent | Higher Education | Adult Literacy and NFE | Total Estimate
+Quality Education | ECE | Access & Equity | Inclusive Education | DRR | Governance & Management | Higher Education | Adult Literacy and NFE | Total Estimate
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Recurrent Cost: | 0.000 | 0.783 | 4.029 | 0.295 | 0.000 | 0.000 | 0.000 | 0.682 | 5.789
 Salary Cost (Community Model) | 0.000 | 0.783 | 4.029 | 0.295 | 0.000 | 0.000 | 0.000 | 0.682 | 5.789
@@ -4830,61 +5074,34 @@ cliv
 
 # Bibliography
 
-- Annual Budget Statements 2009-11(Finance Department Government of Balochistan)
-
-- Annual Budget Statements 2011(Federal Ministry of Finance Government of Pakistan)
-
-'Assessing National Achievement Levels In Education', World Bank Report (Volume 1, 2007 Edition)
-
-- Balochistan Civil Servants Act 1974.
-
-- Beyond Madrassas - Assessing the link between Education and Militancy by Rebecca Winthrop and Corinne Graff
-
-- Balochistan Economic Report (2009): World Bank 2009
-
-- BEMIS Reports- 2001-2010
-
-- Balochistan Public Service commission (2009) Annual Report.
-
-- Consultancy Report on Draft Proposed National Professional Standards for Teachers in Pakistan; Prof. Dr. Mahmood H. Butt, UNESCO (2008).
-
-- Draft  Report  of  'Gender  Aware  Work  Conditions  in  Education  Department  in Balochistan', Gender in Education Policy Support Project, UNICEF/PPIU, Education Department Government of Balochistan
-
-- Directory Deeni Maadaris Pakistan 2003 ( Education Department ,Ministry Education Pakistan)
-
-'Education  In  Pakistan:  A  White  Paper'  Javed  Hasan,  Ministry  of  Education Government of Pakistan (2007)
-
-'EFA  Global  Monitoring  Report  2011:  The  Hidden  Crises:  Education  and  Armed Conflict'; UNESCO 2011
-
-- Education in Pakistan what works and why 2007 (Campaign for quality education )
-
-- Education Reforms in Balochistan 1990 -98 (World Bank)
-
-- ECE Strategy for Balochistan 2011 (Children Global Network Pakistan)
-
-- Education  Department  Government  of  Balochistan,  Education  for  All  (EFA)  Plan Balochistan (2011- 15).
-
-- Education  In  Pakistan:  A  White  Paper;  Javed  Hasan  Aly,  Ministry  of  Education Government of Pakistan (2007)
-
-- EFA Global Monitoring Report 2005: The Quality Imperative'; UNESCO 2005
-
-- Eighteenth  Constitutional  Amendment  (Challenges  and  Opportunities  for  the Education Sector), Case Study by Deutsche Gesellschaft Fur Internationale Zusammenarbeit (GIZ) for Punjab Government.
-
-- Eighteenth  Constitutional  Amendment  (Challenges  and  Opportunities  for  the Education Sector), Case Study by ISAPS for Punjab Government
-
-- Economic Survey 2011 (Finance Department Government of Pakistan)
-
-- Federal  Supervision  of  Curriculum,  Textbooks  and  Maintenance  of  Standards  of Education Act 1976.
-
-- Five Year Provincial Literacy Plan 2010-2015 Balochistan' developed by Literacy & Non Formal Basic Education (NFBE) Directorate of Balochistan (2009)
-
-- Higher Education Commission (HEC) Pakistan (2009- 10) Annual Report.
-
-- Higher Education in Developing Countries : Peril and Promise; World Bank, (2000)
-
-- Higher Education in Twenty- First Century: Vision and Action
-
-- Human Development Index Report 2010
+1. Annual Budget Statements 2009-11(Finance Department Government of Balochistan)
+2. Annual Budget Statements 2011(Federal Ministry of Finance Government of Pakistan)
+3. “Assessing National Achievement Levels In Education”, World Bank Report (Volume 1, 2007 Edition)
+4. Balochistan Civil Servants Act 1974.
+5. Beyond Madrassas - Assessing the link between Education and Militancy by Rebecca Winthrop and Corinne Graff
+6. Balochistan Economic Report (2009): World Bank 2009
+7. BEMIS Reports- 2001-2010
+8. Balochistan Public Service commission (2009) Annual Report.
+9. Consultancy Report on Draft Proposed National Professional Standards for Teachers in Pakistan; Prof. Dr. Mahmood H. Butt, UNESCO (2008).
+10. Draft Report of ‘Gender Aware Work Conditions in Education Department in Balochistan’, Gender in Education Policy Support Project, UNICEF/PPIU, Education Department Government of Balochistan
+11. Directory Deeni Maadaris Pakistan 2003 ( Education Department ,Ministry Education Pakistan)
+12. ‘Education In Pakistan: A White Paper’ Javed Hasan, Ministry of Education Government of Pakistan (2007)
+13. “EFA Global Monitoring Report 2011: The Hidden Crises: Education and Armed Conflict”; UNESCO 2011
+14. Education in Pakistan what works and why 2007 (Campaign for quality education )
+15. Education Reforms in Balochistan 1990 -98 (World Bank)
+16. ECE Strategy for Balochistan 2011 (Children Global Network Pakistan)
+17. Education Department Government of Balochistan, Education for All (EFA) Plan Balochistan (2011- 15).
+18. Education In Pakistan: A White Paper; Javed Hasan Aly, Ministry of Education Government of Pakistan (2007)
+19. EFA Global Monitoring Report 2005: The Quality Imperative”; UNESCO 2005
+20. Eighteenth Constitutional Amendment (Challenges and Opportunities for the Education Sector), Case Study by Deutsche Gesellschaft Fur Internationale Zusammenarbeit (GIZ) for Punjab Government.
+21. Eighteenth Constitutional Amendment (Challenges and Opportunities for the Education Sector), Case Study by ISAPS for Punjab Government
+22. Economic Survey 2011 (Finance Department Government of Pakistan)
+23. Federal Supervision of Curriculum, Textbooks and Maintenance of Standards of Education Act 1976.
+24. Five Year Provincial Literacy Plan 2010-2015 Balochistan” developed by Literacy & Non Formal Basic Education (NFBE) Directorate of Balochistan (2009)
+25. Higher Education Commission (HEC) Pakistan (2009- 10) Annual Report.
+26. Higher Education in Developing Countries : Peril and Promise; World Bank, (2000)
+27. Higher Education in Twenty- First Century: Vision and Action
+28. Human Development Index Report 2010
 
 clv
 
@@ -4892,65 +5109,65 @@ clv
 
 [[START OF PAGE 251]]
 
-'Higher  Education  in  Developing  Countries  :  Peril  and  Promise  '  World  Bank, (2000)
+29. “Higher Education in Developing Countries : Peril and Promise “ World Bank, (2000)
 
-- Impact of Higher Education Commission (HEC) Pakistan Programmes in Balochistan (Power Point Handout)
+30. Impact of Higher Education Commission (HEC) Pakistan Programmes in Balochistan (Power Point Handout)
 
-- Impact of  18 th Amendment  of  Federal Ministry of Education and its Allied Department (Ministry of Education Pakistan)
+31. Impact of 18th Amendment of Federal Ministry of Education and its Allied Department (Ministry of Education Pakistan)
 
-- Labor Force Survey 2010-11 (Ministry of Finance Government of Pakistan)
+32. Labor Force Survey 2010-11 (Ministry of Finance Government of Pakistan)
 
-- Learning Levels and Gaps in Pakistan 2006 (World Bank)
+33. Learning Levels and Gaps in Pakistan 2006 (World Bank)
 
-- Multiple Indicators Cluster Survey -MICS 2004 & 2010)
+34. Multiple Indicators Cluster Survey -MICS 2004 & 2010)
 
-'Malaysia and the Knowledge Economy: Building a World-class Higher Education System' World Bank (2007).
+35. “Malaysia and the Knowledge Economy: Building a World-class Higher Education System” World Bank (2007).
 
-- National Textbook Policy (2007); Ministry of Education Islamabad.
+36. National Textbook Policy (2007); Ministry of Education Islamabad.
 
-- National Education Policy 2009
+37. National Education Policy 2009
 
-- National  Curriculum  for  Early  Childhood  Education  2007(Ministry  of  Education Pakistan)
+38. National Curriculum for Early Childhood Education 2007(Ministry of Education Pakistan)
 
-- National Education Curriculum2006, (Ministry of Education Pakistan)
+39. National Education Curriculum2006, (Ministry of Education Pakistan)
 
-- National Skilled Strategy 2007 ,NAVTEC
+40. National Skilled Strategy 2007 ,NAVTEC
 
-- National  Standards  for  Accreditation  of  Teacher  Education  Programmes  (HEC/ Ministry of Education Pakistan)
+41. National Standards for Accreditation of Teacher Education Programmes (HEC/ Ministry of Education Pakistan)
 
-- National Curriculum for Literacy 2007 (Ministry of Education Pakistan)
+42. National Curriculum for Literacy 2007 (Ministry of Education Pakistan)
 
-- National Institute of Population Studies -NIPS(Population Trends Islamabad)
+43. National Institute of Population Studies -NIPS(Population Trends Islamabad)
 
-- New Growth Strategy 2011 (Planning Commission of Pakistan)
+44. New Growth Strategy 2011 (Planning Commission of Pakistan)
 
-- PAKISTAN Learning and Educational Achievements in Punjab Schools (LEAPS): Insights to inform the education policy debate (2007)
+45. PAKISTAN Learning and Educational Achievements in Punjab Schools (LEAPS): Insights to inform the education policy debate (2007)
 
-- Pakistan Social and Living Measurements Survey 2004-05-2010-11
+46. Pakistan Social and Living Measurements Survey 2004-05-2010-11
 
-- Pakistan  Millennium  Development  Goals  report  2010(  Planning  Commission  of Pakistan)
+47. Pakistan Millennium Development Goals report 2010( Planning Commission of Pakistan)
 
-- Pakistan Frame Work for Economic Growth 2011(Planning Commission Government of Pakistan)
+48. Pakistan Frame Work for Economic Growth 2011(Planning Commission Government of Pakistan)
 
-- Provincial  Social  Development  Programme  (PSDP)  2011-12  (Finance  Department Government of Balochistan)
+49. Provincial Social Development Programme (PSDP) 2011-12 (Finance Department Government of Balochistan)
 
-- Provincial Census Report /District Census Report 1998(Population Census organization ,Government of Pakistan)
+50. Provincial Census Report /District Census Report 1998(Population Census organization ,Government of Pakistan)
 
-- Provincial  Literacy  Plan  2010-2015  Balochistan  developed  by  Literacy  &  Non Formal Basic Education (NFBE) Directorate of Balochistan (2009)
+51. Provincial Literacy Plan 2010-2015 Balochistan developed by Literacy & Non Formal Basic Education (NFBE) Directorate of Balochistan (2009)
 
-- Provincial Budget (2010-11); Department of Finance, Government of Balochistan.
+52. Provincial Budget (2010-11); Department of Finance, Government of Balochistan.
 
-- Provincial  Report  on  Assessment  of  Students  Learning  of  Grade  IV  (2006)  by Provincial  Education  Assessment  Centre  (PEACE)  Bureau  of  Curriculum  and Extension Centre (BOC & EC) and National Education Assessment System (NEAS).
+53. Provincial Report on Assessment of Students Learning of Grade IV (2006) by Provincial Education Assessment Centre (PEACE) Bureau of Curriculum and Extension Centre (BOC & EC) and National Education Assessment System (NEAS).
 
-- Poverty Reduction Paper I & II Ministry of Finance Government of Pakistan
+54. Poverty Reduction Paper I & II Ministry of Finance Government of Pakistan
 
-- Report of the Commission on National Education, Government of Pakistan, 1959.
+55. Report of the Commission on National Education, Government of Pakistan, 1959.
 
-- Skilling Pakistan: National Skills Strategy 2009-13' NAVTEC 2009.
+56. Skilling Pakistan: National Skills Strategy 2009-13” NAVTEC 2009.
 
-- Status of Colleges, Higher and Technical Education Balochistan Prof. Abdul Wahid Kakar (PowerPoint Briefing Handout).
+57. Status of Colleges, Higher and Technical Education Balochistan Prof. Abdul Wahid Kakar (PowerPoint Briefing Handout).
 
-- Strategic Implementing Framework for Improving Teacher Education and Professional Development in Pakistan (Draft Document 2008).
+58. Strategic Implementing Framework for Improving Teacher Education and Professional Development in Pakistan (Draft Document 2008).
 
 clvi
 
@@ -4958,19 +5175,19 @@ clvi
 
 [[START OF PAGE 252]]
 
-- Study on Needs  Assessment  and  Capacity Building Plan Of Social Welfare Department  (Non  Formal  Education  and  Literacy  Programmes):  Prof.  Sajjad Akhtar and Noor -Ul- Haq Baloch (2009)
+59. Study on Needs Assessment and Capacity Building Plan Of Social Welfare Department (Non Formal Education and Literacy Programmes): Prof. Sajjad Akhtar and Noor –Ul- Haq Baloch (2009)
 
-- The  Subtle  Subversion:  The  State  of  Curricula  and  Textbooks  in  Pakistan  Sustainable Development Policy Institute
+60. The Subtle Subversion: The State of Curricula and Textbooks in Pakistan - Sustainable Development Policy Institute
 
-- Tracer Study on Bureau of Curriculum ; Sajjad Akhter 2007
+61. Tracer Study on Bureau of Curriculum ; Sajjad Akhter 2007
 
-'Tertiary  Education  Support  Project'  Project  Appraisal  Document,  World  Bank 2011
+62. “Tertiary Education Support Project” Project Appraisal Document, World Bank 2011
 
-- Vision 2030 (Planning Commission of Pakistan)
+63. Vision 2030 (Planning Commission of Pakistan)
 
-- Why Gender Equality in Basic Education in Pakistan 2010 (UNESCO)
+64. Why Gender Equality in Basic Education in Pakistan 2010 (UNESCO)
 
-- White Paper on Budget 2010-11;Department of Finance; Government of Balochistan
+65. White Paper on Budget 2010-11;Department of Finance; Government of Balochistan
 
 clvii
 
