@@ -1,14 +1,17 @@
 [[START OF PAGE 1]]
 
+THE REPUBLIC OF KENYA
+
 LAWS OF KENYA
 
 # CHILDREN ACT
 
 NO. 8 OF 2001
 
-Published by the National Council for Law Reporting
+Revised Edition 2018 [2012]
 
-Revised Edition 2018 [2012] with the Authority of the Attorney-General
+Published by the National Council for Law Reporting
+with the Authority of the Attorney-General
 
 www.kenyalaw.org
 
@@ -28,85 +31,7 @@ Children
 
 No. 8 of 2001
 
-Section
-
-- Short title.
-
-- Interpretation.
-
-### PART II - SAFEGUARDS FOR THE RIGHTS AND WELFARE OF THE CHILD
-
-- Realisation of the rights of the child.
-
-- Survival and best interests of the child.
-
-- Non-discrimination.
-
-- Right to parental care.
-
-- Right to education.
-
-- Right to religious education.
-
-- Right to health care.
-
-- Protection from child labour and armed conflict.
-
-- Name and nationality.
-
-- Disabled child.
-
-- Protection from abuse, etc.
-
-- Protection from harmful cultural rites, etc.
-
-- Protection from sexual exploitation.
-
-- Protection from drugs.
-
-- Leisure and recreation.
-
-- Torture and deprivation of liberty.
-
-- Right to privacy.
-
-- Penalties.
-
-- 20A. Application of No. 8 of 2010.
-
-- Duties and responsibilities of a child.
-
-- Enforcement of rights.
-
-### PART III - PARENTAL RESPONSIBILITY
-
-- Definition of parental responsibility.
-
-- Who has parental responsibility.
-
-- Acquisition of parental responsibility by father.
-
-- Parental responsibility agreement, etc.
-
-- Transmission of parental responsibility.
-
-- Extension of responsibility beyond eighteenth birthday.
-
-- Regulations by Chief Justice.
-
-### PART IV - ADMINISTRATION OF CHILDREN'S SERVICES
-
-#### The National Council for Children's Services
-
-- Establishment of National Council for Children's Services.
-
-- Composition of Council.
-
-- Functions of the Council.
-
-- Power of the Council.
-
-- Co-option and committees.
+3
 
 NO. 8 OF 2001
 
@@ -114,9 +39,87 @@ NO. 8 OF 2001
 
 ## ARRANGEMENT OF SECTIONS
 
-### PART I - PRELIMINARY
+### PART I – PRELIMINARY
 
-3
+Section
+
+1. Short title.
+
+2. Interpretation.
+
+### PART II – SAFEGUARDS FOR THE RIGHTS AND WELFARE OF THE CHILD
+
+3. Realisation of the rights of the child.
+
+4. Survival and best interests of the child.
+
+5. Non-discrimination.
+
+6. Right to parental care.
+
+7. Right to education.
+
+8. Right to religious education.
+
+9. Right to health care.
+
+10. Protection from child labour and armed conflict.
+
+11. Name and nationality.
+
+12. Disabled child.
+
+13. Protection from abuse, etc.
+
+14. Protection from harmful cultural rites, etc.
+
+15. Protection from sexual exploitation.
+
+16. Protection from drugs.
+
+17. Leisure and recreation.
+
+18. Torture and deprivation of liberty.
+
+19. Right to privacy.
+
+20. Penalties.
+
+20A. Application of No. 8 of 2010.
+
+21. Duties and responsibilities of a child.
+
+22. Enforcement of rights.
+
+### PART III – PARENTAL RESPONSIBILITY
+
+23. Definition of parental responsibility.
+
+24. Who has parental responsibility.
+
+25. Acquisition of parental responsibility by father.
+
+26. Parental responsibility agreement, etc.
+
+27. Transmission of parental responsibility.
+
+28. Extension of responsibility beyond eighteenth birthday.
+
+29. Regulations by Chief Justice.
+
+### PART IV – ADMINISTRATION OF CHILDREN’S SERVICES
+
+#### The National Council for Children’s Services
+
+30. Establishment of National Council for Children’s Services.
+
+31. Composition of Council.
+
+32. Functions of the Council.
+
+33. Power of the Council.
+
+34. Co-option and committees.
 
 [[END OF PAGE 3]]
 
@@ -128,97 +131,97 @@ Children
 
 [Rev. 2018]
 
-- Regulations by the Council.
+4
 
-- Expenses.
+35. Regulations by the Council.
 
-#### The Director of Children's Services and Children's Officers
+36. Expenses.
 
-- Appointment of Director, Deputy Directors and Children's Officers.
+#### The Director of Children’s Services and Children’s Officers
 
-- Functions of Director.
+37. Appointment of Director, Deputy Directors and Children’s Officers.
 
-- Penalty for obstruction.
+38. Functions of Director.
+
+39. Penalty for obstruction.
 
 #### The Role of Local Authorities
 
-- The role of local authorities.
+40. The role of local authorities.
 
-- Appointed local authorities.
+41. Appointed local authorities.
 
-- Local authority welfare schemes.
+42. Local authority welfare schemes.
 
-- Delegation of powers and duties by appointed local authorities.
+43. Delegation of powers and duties by appointed local authorities.
 
-- Delegation of functions of county councils.
+44. Delegation of functions of county councils.
 
-- Delegation to charitable children's institution.
+45. Delegation to charitable children’s institution.
 
-- Powers of local authorities to incur expenditure in temporary care.
+46. Powers of local authorities to incur expenditure in temporary care.
 
-### PART V - CHILDREN'S INSTITUTIONS
+### PART V – CHILDREN’S INSTITUTIONS
 
 #### Rehabilitation Schools and Remand Homes
 
-- Establishment of rehabilitation schools.
+47. Establishment of rehabilitation schools.
 
-- Separate sections in the rehabilitation schools.
+48. Separate sections in the rehabilitation schools.
 
-- Obligation of managers.
+49. Obligation of managers.
 
-- Establishment of children's remand homes.
+50. Establishment of children’s remand homes.
 
-- Supervision of rehabilitation schools and children's remand homes.
+51. Supervision of rehabilitation schools and children’s remand homes.
 
-- Leave of absence.
+52. Leave of absence.
 
-- Revocation of children's committal order.
+53. Revocation of children’s committal order.
 
-- Transfers and supervision after release.
+54. Transfers and supervision after release.
 
-- Treatment of absconders and children of difficult character.
+55. Treatment of absconders and children of difficult character.
 
-- Removal to health institution.
+56. Removal to health institution.
 
-- Authority  for  confinement  in  children's  remand  homes,  rehabilitation  school  and hospital.
+57. Authority for confinement in children’s remand homes, rehabilitation school and hospital.
 
-#### Charitable Children's Institutions
+#### Charitable Children’s Institutions
 
-- Definition of a charitable children's institution.
+58. Definition of a charitable children’s institution.
 
-- Exceptions.
+59. Exceptions.
 
-- Proof of registration.
+60. Proof of registration.
 
-- Institution set up by a person or unincorporated body of persons.
+61. Institution set up by a person or unincorporated body of persons.
 
-- Criteria for approval of programmes.
+62. Criteria for approval of programmes.
 
-- Reception of children in a charitable children's institution.
+63. Reception of children in a charitable children’s institution.
 
-- Duty to maintain a child in a charitable children's institution.
+64. Duty to maintain a child in a charitable children’s institution.
 
-- Director to monitor progress of children.
+65. Director to monitor progress of children.
 
-- Appointment and powers of approved officers.
+66. Appointment and powers of approved officers.
 
-- Inspection of charitable children's institutions.
+67. Inspection of charitable children’s institutions.
 
-- Inspection committees.
+68. Inspection committees.
 
-- Duty to notify the Area Advisory Council.
+69. Duty to notify the Area Advisory Council.
 
-- Review of programme.
+70. Review of programme.
 
-- Cancellation of a programme.
+71. Cancellation of a programme.
 
-- Regulations.
+72. Regulations.
 
-- 72A. Powers of Cabinet Secretary over charitable children institutions.
+72A. Powers of Cabinet Secretary over charitable children institutions.
 
-- 72B. Caretaker Committee.
-
-4
+72B. Caretaker Committee.
 
 [[END OF PAGE 4]]
 
@@ -230,97 +233,97 @@ Children
 
 No. 8 of 2001
 
-### PART VI - CHILDREN'S COURTS
+5
 
-- Jurisdiction of Children's Courts.
+### PART VI – CHILDREN’S COURTS
 
-- Sittings of Children's Court.
+73. Jurisdiction of Children’s Courts.
 
-- Power to clear court.
+74. Sittings of Children’s Court.
 
-- General principles with regard to proceedings in Children's Court.
+75. Power to clear court.
 
-- Legal aid.
+76. General principles with regard to proceedings in Children’s Court.
 
-- Reports.
+77. Legal aid.
 
-- Appointment of guardian ad litem .
+78. Reports.
 
-- Appeals.
+79. Appointment of guardian ad litem.
 
-### PART VII - CUSTODY AND MAINTENANCE
+80. Appeals.
 
-- Meaning of custody, care and control.
+### PART VII – CUSTODY AND MAINTENANCE
 
-- Custody.
+81. Meaning of custody, care and control.
 
-- Principles to be applied in making custody order.
+82. Custody.
 
-- Restriction on removal of a child where applicant has provided home for three years.
+83. Principles to be applied in making custody order.
 
-- Return of child taken away in breach of section 80.
+84. Restriction on removal of a child where applicant has provided home for three years.
 
-- Disputes between joint custodians.
+85. Return of child taken away in breach of section 80.
 
-- Revocation of custody order.
+86. Disputes between joint custodians.
 
-- Interim custody orders.
+87. Revocation of custody order.
 
-- Agreement not to be invalid by reason of giving custody to mother.
+88. Interim custody orders.
+
+89. Agreement not to be invalid by reason of giving custody to mother.
 
 #### Maintenance of Children
 
-- Joint maintenance of children.
+90. Joint maintenance of children.
 
-- Power to make maintenance order.
+91. Power to make maintenance order.
 
-- Maintenance during matrimonial proceedings.
+92. Maintenance during matrimonial proceedings.
 
-- Financial provisions.
+93. Financial provisions.
 
-- Financial provisions by step-parents and father of child born out of wedlock.
+94. Financial provisions by step-parents and father of child born out of wedlock.
 
-- Power to order maintenance monies to be paid to person other than the applicant.
+95. Power to order maintenance monies to be paid to person other than the applicant.
 
-- Duration of financial provisions.
+96. Duration of financial provisions.
 
-- Interim orders.
+97. Interim orders.
 
-- Other maintenance provisions.
+98. Other maintenance provisions.
 
-- Power to impose conditions and to vary order.
+99. Power to impose conditions and to vary order.
 
-- Power to vary maintenance agreements.
+100. Power to vary maintenance agreements.
 
 #### Enforcement of Maintenance Orders and Contribution Orders
 
-- Enforcement of maintenance orders and contribution orders.
+101. Enforcement of maintenance orders and contribution orders.
 
-### PART VIII - GUARDIANSHIP
+### PART VIII – GUARDIANSHIP
 
-- Appointment of guardian.
+102. Appointment of guardian.
 
-- Rights of surviving parent as to guardianship and power of court.
+103. Rights of surviving parent as to guardianship and power of court.
 
-- Appointment of testamentary guardian.
+104. Appointment of testamentary guardian.
 
-- Appointment of guardian by the court.
+105. Appointment of guardian by the court.
 
-- Guardian's revocation and disclaimer.
+106. Guardian’s revocation and disclaimer.
 
-- Extension of appointment of guardian beyond child's eighteenth birthday.
+107. Extension of appointment of guardian beyond child’s eighteenth birthday.
 
-- Disputes between guardians.
+108. Disputes between guardians.
 
-- Powers of guardian.
+109. Powers of guardian.
 
-- Neglect or misapplication of assets by guardians of the estate of the child.
+110. Neglect or misapplication of assets by guardians of the estate of the child.
 
-- Offence by guardians of the estate of a child.
+111. Offence by guardians of the estate of a child.
 
-- Rules.
-
-5
+112. Rules.
 
 [[END OF PAGE 5]]
 
@@ -368,8 +371,7 @@ Children
 141. | Assisting escape, etc.
 142. | Production of escaped child.
 #### Miscellaneous Provisions on Protection of Children
-of age.
-143. | Presumption and determination
+143. | Presumption and determination of age.
 144. | Contribution order.
 145. | International reciprocity.
 146. | Bonds.
@@ -451,58 +453,63 @@ Children
 
 [Rev. 2018]
 
-- Power to remit cases to Children's Court.
+8
 
-- Guarantees to a child accused of an offence.
+185. Power to remit cases to Children’s Court.
 
-- Consideration of welfare.
+186. Guarantees to a child accused of an offence.
 
-- Friendly setting of Children's Court.
+187. Consideration of welfare.
 
-- Words 'conviction' and 'sentence' not to be used of child.
+188. Friendly setting of Children’s Court.
 
-- Restriction on punishment.
+189. Words “conviction” and “sentence” not to be used of child.
 
-- Methods of dealing with offenders.
+190. Restriction on punishment.
 
-- Mental treatment.
+191. Methods of dealing with offenders.
 
-- Power to order parent to pay fines, etc.
+192. Mental treatment.
 
-- Proceedings in respect of offences committed by a child.
+193. Power to order parent to pay fines, etc.
 
-### PART XIV - MISCELLANEOUS AND GENERAL PROVISIONS
+194. Proceedings in respect of offences committed by a child.
 
-- Appeals to the Minister.
+### PART XIV – MISCELLANEOUS AND GENERAL PROVISIONS
 
-- General penalty.
+195. Appeals to the Minister.
 
-- General power to make regulations.
+196. General penalty.
 
-197A.
+197. General power to make regulations.
 
-Committees.
+197A. Committees.
 
-- Exemption.
+198. Exemption.
 
-- Grants and expenses of the Minister.
+199. Grants and expenses of the Minister.
 
-- Repeals.
+200. Repeals.
 
 ### SCHEDULES
 
-FIRST SCHEDULE - | PROCEEDINGS OF THE NATIONAL COUNCIL OF CHILDREN'S SERVICES
---- | ---
-SECOND SCHEDULE - | WELFARE SCHEMES
-THIRD SCHEDULE - | OFFENCES AGAINST CHILDREN WITH RESPECT TO WHICH PART IX APPLIES
-FOURTH SCHEDULE - | FOSTER CARE PLACEMENT RULES
-FIFTH SCHEDULE - | CHILD OFFENDERS RULES
-SIXTH SCHEDULE - | WRITTEN LAWS TO BE REPEALED
-SEVENTH SCHEDULE - | TRANSITIONAL PROVISIONS
-EIGHTH SCHEDULE - | POWER AND FUNCTIONS OF AN INSPECTION COMMITTEE
-NINTH SCHEDULE - | MEMBERS OF THE ADOPTION COMMITTEE
+FIRST SCHEDULE — PROCEEDINGS OF THE NATIONAL COUNCIL OF CHILDREN’S SERVICES
 
-8
+SECOND SCHEDULE — WELFARE SCHEMES
+
+THIRD SCHEDULE — OFFENCES AGAINST CHILDREN WITH RESPECT TO WHICH PART IX APPLIES
+
+FOURTH SCHEDULE — FOSTER CARE PLACEMENT RULES
+
+FIFTH SCHEDULE — CHILD OFFENDERS RULES
+
+SIXTH SCHEDULE — WRITTEN LAWS TO BE REPEALED
+
+SEVENTH SCHEDULE — TRANSITIONAL PROVISIONS
+
+EIGHTH SCHEDULE — POWER AND FUNCTIONS OF AN INSPECTION COMMITTEE
+
+NINTH SCHEDULE — MEMBERS OF THE ADOPTION COMMITTEE
 
 [[END OF PAGE 8]]
 
@@ -514,51 +521,55 @@ Children
 
 No. 8 of 2001
 
-#### 1.  Short title
+9
 
-This Act may be cited as the Children Act, 2001.
+NO. 8 OF 2001
 
-#### 2.  Interpretation
+# CHILDREN ACT
 
-In this Act, unless the context otherwise requires-
+[Date of assent: 31st December, 2001.]
 
-'Adoption Committee' means the Committee established under section 155;
+[Date of commencement: 1st March, 2002.]
 
-'adoption order' means an adoption order under section 154 vesting the parental rights and duties relating to a child in the adopter;
-
-'adoption society' means a society approved by the Adoption Committee under section 177;
-
-'age' where actual age is not known means apparent age;
-
-'appointed  local  authority' means  a  local  authority  appointed  under section 41;
-
-'approved officer' means a person appointed under section 38;
-
-'Area Advisory Council' means a council established under section 32;
-
-'authorised  officer' means  a  police  officer,  an  administrative  officer,  a children's officer, an approved officer, a chief appointed under the Chiefs' Act (Cap. 128), a labour officer, an officer of the national adoption society or any other officer authorised by the Director for the purposes of this Act;
-
-'body of persons' means any body of persons whether incorporate or unincorporate;
-
-'borstal institution' means a borstal institution established by section 3 of the Borstal Institutions Act (Cap. 92);
-
-'child' means any human being under the age of eighteen years;
-
-'child abuse' includes physical, sexual, psychological and mental injury;
-
-'child of tender years' means a child under the age of ten years;
-
-# NO. 8 OF 2001 CHILDREN ACT
-
-[ Date of assent: 31st December, 2001 .]
-
-[ Date of commencement: 1st March, 2002 .]
-
-- An Act of Parliament to make provision for parental responsibility, fostering, adoption,  custody,  maintenance,  guardianship,  care  and  protection of  children;  to  make  provision  for  the  administration  of  children's institutions; to give effect to the principles of the Convention on the Rights of the Child and the African Charter on the Rights and Welfare of the Child and for connected purposes
+An Act of Parliament to make provision for parental responsibility, fostering, adoption, custody, maintenance, guardianship, care and protection of children; to make provision for the administration of children’s institutions; to give effect to the principles of the Convention on the Rights of the Child and the African Charter on the Rights and Welfare of the Child and for connected purposes
 
 [Act No. 8 of 2001, L.N. 23/2002, Act No. 8 of 2010, Act No. 12 of 2012, Act No. 11 of 2017, Act No. 18 of 2018.]
 
-9
+## PART I – PRELIMINARY
+
+#### 1. Short title
+
+This Act may be cited as the Children Act, 2001.
+
+#### 2. Interpretation
+
+In this Act, unless the context otherwise requires—
+
+“Adoption Committee” means the Committee established under section 155;
+
+“adoption order” means an adoption order under section 154 vesting the parental rights and duties relating to a child in the adopter;
+
+“adoption society” means a society approved by the Adoption Committee under section 177;
+
+“age” where actual age is not known means apparent age;
+
+“appointed local authority” means a local authority appointed under section 41;
+
+“approved officer” means a person appointed under section 38;
+
+“Area Advisory Council” means a council established under section 32;
+
+“authorised officer” means a police officer, an administrative officer, a children’s officer, an approved officer, a chief appointed under the Chiefs’ Act (Cap. 128), a labour officer, an officer of the national adoption society or any other officer authorised by the Director for the purposes of this Act;
+
+“body of persons” means any body of persons whether incorporate or unincorporate;
+
+“borstal institution” means a borstal institution established by section 3 of the Borstal Institutions Act (Cap. 92);
+
+“child” means any human being under the age of eighteen years;
+
+“child abuse” includes physical, sexual, psychological and mental injury;
+
+“child of tender years” means a child under the age of ten years;
 
 [[END OF PAGE 9]]
 
@@ -1050,7 +1061,7 @@ No. 8 of 2001
 
 #### 31.  Composition of Council
 
-- The Council shall consist of-
+(1) The Council shall consist of—
 
 (a) a chairperson appointed by the President, who shall be knowledgeable in, or has actively contributed to the promotion of the rights and welfare of children;
 
@@ -1084,11 +1095,11 @@ No. 8 of 2001
 
 (1)  The object and purpose for which the Council is established is to exercise general supervision and control over the planning, financing and co-ordination of child  rights  and  welfare  activities  and  to  advise  the  Government on all aspects thereof.
 
-- Without prejudice to the generality of subsection (1), the Council shall-
+(2) Without prejudice to the generality of subsection (1), the Council shall—
 
-(a) design  and  formulate  policy  on  the  planning,  financing  and  coordination of child welfare activities;
+(a) design and formulate policy on the planning, financing and co-ordination of child welfare activities;
 
-(b) determine priorities in the field of child welfare in relation to the socioeconomic policies of the Government;
+(b) determine priorities in the field of child welfare in relation to the socio-economic policies of the Government;
 
 (c) plan, supervise and co-ordinate public education programmes on the welfare of children;
 
@@ -1392,6 +1403,8 @@ Children
 
 [Rev. 2018]
 
+before doing so it shall call for all the relevant records of the court which made the order, and all relevant records of any court which may previously have considered an application under this section.
+
 (3)    Notwithstanding  anything  in  this  Act,  an  order  committing  a  child  to  a rehabilitation school shall not remain in force beyond the date on which the child attains the age of eighteen years, nor shall any such order remain in force for longer than three years at a time except by order of the court.
 
 (4)  On an application for an order under subsection (2) or subsection (3) the manager of the rehabilitation school where the child is, shall cause the child to be brought before the court, unless the court otherwise orders.
@@ -1400,7 +1413,7 @@ Children
 
 (1)    The  Director  may  at  any  time  order  a  child  to  be  transferred  from  one rehabilitation school to another, but the period of his rehabilitative care shall not be increased thereby.
 
-(2)  A child committed to a rehabilitation school shall, after the expiration of the prescribed period of his stay, be under the supervision of such person as the Director shall appoint, for a period of two years, or until he attains the age of twentyone years whichever shall be the shorter period.
+(2)  A child committed to a rehabilitation school shall, after the expiration of the prescribed period of his stay, be under the supervision of such person as the Director shall appoint, for a period of two years, or until he attains the age of twenty-one years whichever shall be the shorter period.
 
 #### 55.  Treatment of absconders and children of difficult character
 
@@ -1422,7 +1435,7 @@ Provided that a child whose period of committal is increased or who is sent to a
 
 (1)  In the case of serious illness of a child staying in a children's remand home or a rehabilitation school the manager, on the advice of a medical officer or medical practitioner, may make an order for his removal to a health institution.
 
-(2)  Whenever the medical officer in charge of a health institution considers that the health of a child removed to a hospital under the provisions of this section no longer requires treatment therein, he shall notify the manager of the remand home or rehabilitation school from which he was removed to hospital, who shall thereupon cause such a child to be returned to the school if he is still liable to be kept therein.
+(2)  Whenever the medical officer in charge of a health institution considers that the health of a child removed to a hospital under the provisions of this section
 
 26
 
@@ -1435,6 +1448,8 @@ Provided that a child whose period of committal is increased or who is sent to a
 Children
 
 No. 8 of 2001
+
+no longer requires treatment therein, he shall notify the manager of the remand home or rehabilitation school from which he was removed to hospital, who shall thereupon cause such a child to be returned to the school if he is still liable to be kept therein.
 
 (3)  Every reasonable precaution shall be taken by the medical officer in charge of the health institution to prevent the escape of any child who is hospitalised therein under this section:
 
@@ -1467,6 +1482,8 @@ A charitable children's institution shall not include-
 (f) a temporary place of safety established under regulations made under this Act:
 
 Provided  that  nothing  in  this  section  shall  prevent  a  charitable  children's institution from providing medical care, education or training for children accommodated therein, if the provision of such services has been approved by the Council.
+
+[Act No. 18 of 2018, Sch.]
 
 #### 60.  Proof of registration
 
@@ -1554,7 +1571,7 @@ No. 8 of 2001
 
 (d) prepare and submit a report to the Director outlining his findings and recommendations.
 
-(a) A refusal to allow any authorised officer referred to in subsection (2) to  enter  a  charitable  children's  institution  or  such  premises  as  are mentioned in subsection (1) to inspect or interview any person in the institution or premises, shall be deemed to be a reasonable cause to suspect that a child in the institution or the premises is being neglected or abused in a manner which causes the child to be in need of care and protection.
+(3)  (a) A refusal to allow any authorised officer referred to in subsection (2) to  enter  a  charitable  children's  institution  or  such  premises  as  are mentioned in subsection (1) to inspect or interview any person in the institution or premises, shall be deemed to be a reasonable cause to suspect that a child in the institution or the premises is being neglected or abused in a manner which causes the child to be in need of care and protection.
 
 (b) Any  person  who  unlawfully  refuses  to  allow  an  authorised  officer referred to in subsection (2) to enter a charitable children's institution or such premises as are mentioned in subsection (1), or who interferes in any way with the work of such officer or fails to produce any report or records, or conceals any facility within such institution or premises, commits  an  offence  and  is  liable  to  imprisonment  for  a  term  not exceeding twelve months or to a fine not exceeding Kenya shillings fifty thousand or to both.
 
@@ -1668,7 +1685,7 @@ The Minister may, in consultation with the Council, make regulations for the bet
 
 (m) the conduct of inspections of charitable children's institutions;
 
-(n) corrective measures which should be imposed by the Director after inspection of a charitable children's institution and penalties for noncompliance therewith;
+(n) corrective measures which should be imposed by the Director after inspection of a charitable children's institution and penalties for non-compliance therewith;
 
 (o) appeals against decisions made under this Part.
 
@@ -2532,7 +2549,7 @@ A Children's Court shall have jurisdiction to make an order or give a judgment u
 
 #### 119.  When a child is in need of care and protection
 
-- For the purposes of this Act, a child is in need of care and protection-
+(1)  For the purposes of this Act, a child is in need of care and protection-
 
 (a) who has no parent or guardian, or has been abandoned by his parent or guardian, or is destitute; or
 
@@ -3157,6 +3174,7 @@ Provided that a child in relation to whom a care order has been made by reason o
 (c) upon the child attaining the age of eighteen years.
 
 (5)  Notwithstanding any other provision of this Act, the national adoption society may place any child it finds to be in need of care and protection in foster care under this Act.
+[Act No. 18 of 2018, Sch.]
 
 #### 148.  Persons qualified to foster children
 
@@ -3249,6 +3267,7 @@ No. 8 of 2001
 (e) such other functions as are conferred on the Committee by this Act.
 
 (3)    The  conduct  and  regulation  of  the  affairs  of  the  Committee  shall  be  as prescribed by the Minister, but subject thereto, the Committee shall regulate its own proceedings.
+[Act No. 18 of 2018, Sch.]
 
 ### Pre-requisites for Adoption
 
@@ -3263,6 +3282,7 @@ No. 8 of 2001
 (4)    The  Cabinet  Secretary  may  issue  a  moratorium  on  inter-country  and residents adoptions where there is sufficient evidence to support the opinion that such  adoptions  or  processes  leading  up  to  such  adoptions  are  likely  to  be  in contravention of the Constitution or any other law, or any international treaties or conventions to which Kenya is a party.
 
 (4A)  Notwithstanding any other provision of this Part, the moratorium issued before the enactment of subsection (4) shall be deemed to have been issued under this section.
+[Act No. 11 of 2017, Sch, Act No. 18 of 2018, Sch.]
 
 #### 157.  Children who may be adopted
 
@@ -3271,6 +3291,7 @@ No. 8 of 2001
 Provided that no application for an adoption order, shall be made in respect of a child unless the child concerned has been in the continuous care and control of the applicant within the Republic for a period of three consecutive months preceding the filing of the application and both the child and the applicant or applicants, as the case may be evaluated and assessed by the national adoption society or any other registered adoption society in Kenya.
 
 (2)  Any person who contravenes the provision of subsection (1) of this section shall be guilty of an offence and liable to imprisonment for a term not exceeding one  year  or  to  a  fine  not  exceeding  twenty  thousand  shillings  or  to  both  such imprisonment and such fine.
+[Act No. 18 of 2018, Sch.]
 
 #### 158.  Adoption applicants
 
@@ -3428,9 +3449,11 @@ Children
 
 No. 8 of 2001
 
+### Interim Orders
+
 #### 161.  Interim orders
 
-- Whilst an application for an adoption order is pending in court-
+(1) Whilst an application for an adoption order is pending in court-
 
 (a) any  person  who  has  given  his  consent  to  the  adoption  shall  not be entitled, except with the leave of the court, to remove the child concerned from the care and control of the applicant;
 
@@ -3453,8 +3476,6 @@ No. 8 of 2001
 (4)  An interim order shall not be made in any case where the making of an adoption order would be unlawful.
 
 (5)  An interim order shall not be deemed to be an adoption order within the meaning of this Act.
-
-### Interim Orders
 
 69
 
@@ -3523,6 +3544,7 @@ No. 8 of 2001
 (e) require the adopter to furnish such security by bond or otherwise as the court may think fit for the due performance of any condition that the court may impose;
 
 (f) where the adopter is not a resident of Kenya or a citizen of Kenya, require him to avail such periodical reports from a court or competent authority in the adopter's country of residence for such period as the court may specify.
+[Act No. 18 of 2018, Sch.]
 
 #### 164.  Power to appoint guardian
 
@@ -3568,7 +3590,7 @@ Children
 
 and the provisions of that subsection shall have effect accordingly.
 
-(3)  Where an adoption order is quashed or an appeal against an adoption order is allowed, the court which made the order shall give directions to the RegistrarGeneral to cancel any entry in the Register of Births and any entry in the Adopted Children Register which was effected in pursuance of the order.
+(3)  Where an adoption order is quashed or an appeal against an adoption order is allowed, the court which made the order shall give directions to the Registrar-General to cancel any entry in the Register of Births and any entry in the Adopted Children Register which was effected in pursuance of the order.
 
 (4)  A copy of, or extract from, and entry in any register being an entry the making of which is cancelled under this section, shall be deemed to be an accurate copy or extract and only if both the marking and the cancellation are omitted therefrom.
 
@@ -3600,7 +3622,7 @@ No. 8 of 2001
 
 (1)  Every adoption order made by the court shall contain a direction to the Registrar-General  to  make  an  entry  in  the  Adopted  Children  Register  in  the prescribed form.
 
-- For the purposes of compliance with the requirements of subsection (1)-
+(2) For the purposes of compliance with the requirements of subsection (1)-
 
 (a) where  the  precise  date  of  the  child's  birth  is  not  proved  to  the satisfaction of the court, the court shall determine the probable date of his birth and the date so determined shall be specified in the order as the date of his birth; and
 
@@ -3618,7 +3640,7 @@ No. 8 of 2001
 
 (1)    Upon  an  adoption  order  being  made,  all  rights,  duties,  obligations  and liabilities of the parents or guardians of the child in relation to the future custody, maintenance and education of the child, including all rights to appoint a guardian and to consent or give notice of dissent to marriage, shall be extinguished, and all such rights, duties, obligations and liabilities shall vest in and be exercisable by and enforceable against the adopter as if the child were a child born to the adopter inside marriage and in respect of the matters aforesaid the child shall stand to the adopter as a child inside marriage.
 
-(2)    In  any  case  where  two  spouses  are  the  adopters,  the  spouses  shall  in respect of the matters aforesaid, and for the purpose of the jurisdiction of any court to make orders as to the legal custody and maintenance of and right of contact with children, stand to each other and to the child in the same relation as they would have stood if they had been the lawful father and mother of the child and t he child shall stand to them in the same relation as to a lawful father and mother respectively.
+(2)    In  any  case  where  two  spouses  are  the  adopters,  the  spouses  shall  in respect of the matters aforesaid, and for the purpose of the jurisdiction of any court to make orders as to the legal custody and maintenance of and right of contact with children, stand to each other and to the child in the same relation as they would have stood if they had been the lawful father and mother of the child and the child shall stand to them in the same relation as to a lawful father and mother respectively.
 
 73
 
@@ -3704,13 +3726,15 @@ Children
 
 [Rev. 2018]
 
+section applies, then, for the purposes of this Act and all other written laws, the adoption shall have the same effect as an adoption order validly made under this Act, and shall have no other effect.
+
 (2)  Subsection (1) shall apply to an adoption in any place outside Kenya, if-
 
 (a) the adoption order was made  by any court of law in the Commonwealth and any court of competent jurisdiction in any other country;
 
 (b) in consequence of the adoption, according to the law of that country, a right superior to that of any natural parent of the adopted person in respect of the custody of the person; and
 
-(c) in  consequence  of  the  adoption,  the  adopter  had,  immediately following the adoption, according to the law of that country, a right superior  or  equal  to  that  of  any  natural  parent  in  respect  of  any property of the adopted person which was capable of passing to the parent or any property of the person dying intestate without other nextof-kin, and domiciled in that place where the adoption was made and a national of the country which had jurisdiction in respect of that place, but not otherwise.
+(c) in  consequence  of  the  adoption,  the  adopter  had,  immediately following the adoption, according to the law of that country, a right superior  or  equal  to  that  of  any  natural  parent  in  respect  of  any property of the adopted person which was capable of passing to the parent or any property of the person dying intestate without other next-of-kin, and domiciled in that place where the adoption was made and a national of the country which had jurisdiction in respect of that place, but not otherwise.
 
 (3)  An adoption order made overseas in favour of an adoptor who is resident in Kenya shall be lodged in the court within the period and in the manner specified by the rules made by the Chief Justice.
 
@@ -3734,7 +3758,7 @@ Children
 
 (4)  Where an application for registration is refused, no further application for registration of the adoption society may be made under this section within a period of six months beginning with the date when the applicant is notified of such refusal.
 
-(5)  Where the Adoption Committee approves and accepts the registration of an adoption society, it shall issue a Certificate of Registration in the prescribed form and shall at the end of the period of twelve months beginning with the date of registration and annually thereafter, review the registration of the adoption society for the purpose of determining whether the registration should continue being in force or be cancelled.
+(5)  Where the Adoption Committee approves and accepts the registration of an adoption society, it shall issue a Certificate of Registration in the prescribed form and shall at the end of the period of twelve months beginning with the date of registration and annually thereafter, review the registration of the adoption society
 
 76
 
@@ -3747,6 +3771,8 @@ Children
 Children
 
 No. 8 of 2001
+
+for the purpose of determining whether the registration should continue being in force or be cancelled.
 
 (6)  An appeal against the decision of the Adoption Committee in refusing or cancelling the registration of an adoption society shall be made in the prescribed manner to the Minister whose decision upon the hearing and determination of the appeal shall be final.
 
@@ -3774,7 +3800,7 @@ No. 8 of 2001
 
 (10)  Any corporate body which commits an offence under this section shall be liable on conviction to a fine not exceeding one hundred thousand shillings.
 
-(11)  Any person who takes part in the management or control of a corporate body of persons which is guilty of an offence under this section shall be liable to imprisonment for a term not exceeding one year, or to a fine not exceeding one hundred thousand shillings or to both.
+(11)  Any person who takes part in the management or control of a corporate body of persons which is guilty of an offence under this section shall be liable to
 
 77
 
@@ -3788,7 +3814,11 @@ Children
 
 [Rev. 2018]
 
+imprisonment for a term not exceeding one year, or to a fine not exceeding one hundred thousand shillings or to both.
+
 (12)  In any proceedings under this section, proof of the things done or of words written, spoken or published (whether or not in the presence of any party to the proceedings) by any person taking part in the management or control of a body of persons, or in making arrangements for the adoption of children on behalf of the body, shall be admissible as evidence of the purpose for which that body exists.
+
+[Act No. 18 of 2018, Sch.]
 
 ### General Provisions on Adoption
 
@@ -3928,7 +3958,7 @@ Provided that  nothing  in  this  subsection  shall  be  construed  as  preventi
 
 (2)  Where in accordance with the provisions of subsection (1) of this section, a case is remitted to a Children's Court after a finding that the child charged is guilty of the offence, the Children's Court to which the case has been remitted may deal with the offender in any way in which it might have dealt with him if he had been tried and found guilty by that court.
 
-(3)  No appeal shall lie against an order of remission made under this section, but nothing in this section shall affect any right of appeal against the verdict or finding on which such an order is founded, and if a child has been found guilty by the High Court and his case remitted to a Children's Court for an order under section 191 of this Act, he may appeal against such findings to the Court of Appeal.
+(3)  No appeal shall lie against an order of remission made under this section, but nothing in this section shall affect any right of appeal against the verdict or
 
 80
 
@@ -3941,6 +3971,8 @@ Provided that  nothing  in  this  subsection  shall  be  construed  as  preventi
 Children
 
 No. 8 of 2001
+
+finding on which such an order is founded, and if a child has been found guilty by the High Court and his case remitted to a Children's Court for an order under section 191 of this Act, he may appeal against such findings to the Court of Appeal.
 
 (4)  A court by which an order remitting a case to a Children's Court is made under this section may give such directions as appear to be necessary with respect to the custody of the offender or for his release on bail or bond until he can be brought before the Children's Court, and shall cause to be transmitted to the clerk of the Children's Court a certificate setting out the nature of the offence and stating the stage reached in the case, and that the case has been remitted for the purposes of being dealt with under this section.
 
@@ -4036,7 +4068,7 @@ If it appears to the court on the evidence of a medical practitioner that a chil
 
 #### 193.  Power to order parent to pay fines, etc
 
-(1)  Where a child is charged with an offence for which a fine, compensation or costs may be imposed, if the court is of the opinion that the case would best be met by imposition of a fine, compensation or costs, whether with or without any other punishment, the court may in any case order that the fine, compensation or costs imposed or awarded be paid by the child's parent or guardian instead of by the offender, unless the court is satisfied that the parent or guardian cannot be found or that he or she has not induced the commission of the offence, by neglecting to exercise due care of the offender.
+(1)  Where a child is charged with an offence for which a fine, compensation or costs may be imposed, if the court is of the opinion that the case would best be met by imposition of a fine, compensation or costs, whether with or without any other
 
 82
 
@@ -4049,6 +4081,8 @@ If it appears to the court on the evidence of a medical practitioner that a chil
 Children
 
 No. 8 of 2001
+
+punishment, the court may in any case order that the fine, compensation or costs imposed or awarded be paid by the child's parent or guardian instead of by the offender, unless the court is satisfied that the parent or guardian cannot be found or that he or she has not induced the commission of the offence, by neglecting to exercise due care of the offender.
 
 (2)  Where a child is charged with an offence, the court may order his parent or guardian to give security for his good behaviour.
 
@@ -4182,33 +4216,33 @@ Provisions for the assumption by local authorities of the care of persons includ
 
 #### PART II - TREATMENT OF CHILDREN IN CARE OF LOCAL AUTHORITIES
 
-- Furtherance of the best interests of children in their care.
+1. Furtherance of the best interests of children in their care.
 
-- Provision for the accommodation and maintenance of children.
+2. Provision for the accommodation and maintenance of children.
 
-- The establishment and maintenance of institutions or day nurseries.
+3. The establishment and maintenance of institutions or day nurseries.
 
-- The accommodation of children in voluntary homes including homes set up by voluntary children's institutions.
+4. The accommodation of children in voluntary homes including homes set up by voluntary children's institutions.
 
-- The provision of hostels and youth organisations.
+5. The provision of hostels and youth organisations.
 
-- The  provision  of  financial  assistance  towards  the  expenses  of maintenance, education or training of children.
+6. The provision of financial assistance towards the expenses of maintenance, education or training of children.
 
 #### PART III - VOLUNTARY CHILDREN'S INSTITUTIONS
 
-- The appointment of voluntary children's institutions to act as agents of local authorities.
+1. The appointment of voluntary children's institutions to act as agents of local authorities.
 
-- Provision for the after care of children formerly in the care of local authorities or voluntary children's institutions.
+2. Provision for the after care of children formerly in the care of local authorities or voluntary children's institutions.
 
 #### PART IV - ADMINISTRATIVE AND FINANCIAL PROVISIONS
 
-- Establishment of a children's Committee.
+1. Establishment of a children's Committee.
 
-- Appointment of children's officers and appropriate staff.
+2. Appointment of children's officers and appropriate staff.
 
-- Grants for training in child care.
+3. Grants for training in child care.
 
-- Grants to voluntary children's institutions.
+4. Grants to voluntary children's institutions.
 
 85
 
@@ -4224,9 +4258,9 @@ Children
 
 #### PART V - MISCELLANEOUS AND GENERAL
 
-- Provision of places of safety.
+1. Provision of places of safety.
 
-- Any other provisions which may be approved by the Minister.
+2. Any other provisions which may be approved by the Minister.
 
 ## THIRD SCHEDULE
 
@@ -4234,11 +4268,11 @@ Children
 
 ### OFFENCES AGAINST CHILDREN WITH RESPECT TO WHICH PART IX APPLIES
 
-- Offences under sections 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 157, 158, 162, 165, 166, 167, 250 and 251 of the Penal Code (Cap. 63).
+1. Offences under sections 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 157, 158, 162, 165, 166, 167, 250 and 251 of the Penal Code (Cap. 63).
 
-- Offences under this Act.
+2. Offences under this Act.
 
-- Any other offences involving bodily injury.
+3. Any other offences involving bodily injury.
 
 ## FOURTH SCHEDULE
 
@@ -4246,9 +4280,9 @@ Children
 
 ### FOSTER CARE PLACEMENT RULES
 
-- These Rules may be cited as the Foster Care Placement Rules.
+1. These Rules may be cited as the Foster Care Placement Rules.
 
-- In these Rules-
+2. In these Rules-
 
 'Director' means the Director of Children's Services;
 
@@ -4374,6 +4408,74 @@ Children
 
 No. 8 of 2001
 
+## FOURTH SCHEDULE—continued
+
+### FOSTER-CARE PLACEMENT RULES
+
+#### FORM 1
+
+(Rule 3)
+
+APPLICATION TO FOSTER A CHILD
+
+NAME OF APPLICANT ........................................................................
+
+MARRIED/SINGLE ........................................................ AGE ........................
+
+ADDRESS ........................................................................................
+
+........................................ TELEPHONE NO. ........................................
+
+NUMBER OF CHILDREN ................................................ AGE ........................
+
+EMPLOYMENT OF APPLICANT ................................................................
+
+EMPLOYMENT OF HUSBAND ..................................................................
+
+EMPLOYMENT OF WIFE ........................................................................
+
+OTHER SOURCES OF INCOME (e.g, farm) ....................................................
+
+.....................................................................................................
+
+HAVE YOU EVER FOSTERED A CHILD/CHILDREN BEFORE? (If so, give particulars) ........................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+REASONS TO FOSTER ...........................................................................
+
+.....................................................................................................
+
+ARE YOU WILLING TO UNDERTAKE SHORT TERM FOSTERING ........................
+
+NAMES OF 2 REFEREES AND THEIR ADDRESSES (one shall be your locational chief) ....................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+1. ..................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+AGE RANGE ........................................ SEX OF CHILD YOU WISH TO FOSTER
+
+APPLICANT’S SIGNATURE ......................................................................
+
+DATE ........................................
+
 89
 
 [[END OF PAGE 89]]
@@ -4385,6 +4487,82 @@ No. 8 of 2001
 Children
 
 [Rev. 2018]
+
+## FOURTH SCHEDULE—continued
+
+#### FORM 2
+
+(Rules 4(f) and 12)
+
+### FOSTER-CARE PLACEMENT RULES
+
+PROSPECTIVE FOSTER PARENT RECORD
+
+Name of prospective foster parent (s) ........................................................
+
+.....................................................................................................
+
+Date of birth ........................................................ Age ........................
+
+District of origin .................................... Religion ....................................
+
+Occupation .......................................................................................
+
+Marital Status of prospective foster parent(s) ..............................................
+
+Date of marriage ................................................................................
+
+Is the relationship monogamous or polygamous .............................................
+
+Home address
+
+........................................................
+
+........................................................
+
+........................................................
+
+Village                         ........................................................
+
+Parish                          ........................................................
+
+Country                         ........................................................
+
+Municipality                    ........................................................
+
+Details of other people living in the home:
+
+Name                    Relationship to prospective Foster Parent                    Age                    School/Class Occupation
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+Is there or has there been any serious illness/infection in the family? (If so, give details)
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+Particulars of the income and wealth of the prospective foster parents. Give details of businesses and land owned by the family/person.
+
+Description of the home .......................................................................
+
+.....................................................................................................
+
+Number of rooms ........................................ Type of toilet ............................
+
+Type of water supply ...........................................................................
+
+Will the family/person need material support in order to start fostering? If the answer is “yes” specify what will be needed ........................................ why does this family wish to foster children? ......................................................
+
+.....................................................................................................
+
+.....................................................................................................
 
 90
 
@@ -4398,6 +4576,70 @@ Children
 
 No. 8 of 2001
 
+## FOURTH SCHEDULE—continued
+
+Do they understand the temporary nature of fostering? ..................................
+
+Has the person/any member of the family had a criminal conviction (if YES, give details and dates and state whether in your opinion it is of such seriousness as to prevent the family/person from taking on a foster placement).
+
+.....................................................................................................
+
+.....................................................................................................
+
+Assessment of the suitability of that family/person to foster children.
+
+.....................................................................................................
+
+Recommendation .................................................................................
+
+what type of foster child would best benefit from this family/person? Baby, child, male, female, etc.)
+
+Details of foster child/(ren) already placed with foster parents
+
+Name        Sex        Date of placement        Age at date placement        Date of termination        Why terminated
+
+.....................................................................................................
+
+.....................................................................................................
+
+Details of parents and siblings of foster children if known
+
+Name of foster        Names of parents        Names of brothers sisters of foster child        Sex        Age        Religion        Address
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+.....................................................................................................
+
+Name of children’s officer ......................................................................
+
+Signature ..........................................................................................
+
+Address .............................................................................................
+
+Date ..................................................................................................
+
+#### FORM 3
+
+(Rule 7(2))
+
+### FOSTER-CARE PLACEMENT RULES
+
+FORM OF UNDERTAKING
+
+(To be completed in Triplicate)
+
+I/We (names of foster parents) ........................................................ who received
+
+(names of child) ..................................................................................
+
+into my/our home on (date) ....................................................................
+
 91
 
 [[END OF PAGE 91]]
@@ -4409,6 +4651,60 @@ No. 8 of 2001
 Children
 
 [Rev. 2018]
+
+## FOURTH SCHEDULE—continued
+
+from (name of children’s officer) ............................................................
+
+undertake that—
+
+1. I/We will care for (name of child) ......................................................
+
+As though he/she were my/our own child.
+
+2. I/We will bring him/her up in accordance with the (specify religious persuasion ......................................................................................)
+
+.....................................................................................................
+
+.....................................................................................................
+
+3. I/We will look after his/her health and allow him/her to be medically examined as required by the children’s officer.
+
+4. I/We will allow a children’s officer to visit my/our home, and to see the child at any time.
+
+5. I/We will inform the children’s Officer immediately if the child is seriously ill, or is missing, or is involved in an accident, or is in any kind of trouble.
+
+6. I/We will inform the children’s Officer immediately if I/We plan to change residence and address.
+
+7. I/We understand that a children’s Officer has the right to remove the child from my/our home in certain circumstances.
+
+........................................................
+
+(Signed, Foster Father)
+
+........................................................
+
+(Signed, Foster Mother)
+
+........................................................
+
+(Address of Foster Parent)
+
+#### FORM 4
+
+(Rule 7(2))
+
+CERTIFICATE OF REGISTRATION AS A FOSTER PARENT
+
+CERTIFICATE
+
+1. I ........................................ (Title) ........................................
+
+certify that I have explained the undertaking provided for under Rule 7(2) of the Foster Care Placement Rules in the ........................................................ language to ........................................................ and foster parent(s).
+
+Signed ..............................................................................................
+
+(Children’s Officer)
 
 92
 
@@ -4422,6 +4718,77 @@ Children
 
 No. 8 of 2001
 
+## FOURTH SCHEDULE—continued
+
+Signed ..............................................................................................
+
+(Witness)
+
+........................................................
+
+(Address of Witness)
+
+(Address of Children’s Officer) ..............................................................
+
+Date ..................................................................................................
+
+#### FORM 5
+
+(Rules 12 and 13)
+
+### FOSTER-CARE PLACEMENT RULES
+
+FOSTER CHILD CARE RECORD
+
+Name of child (surname first) ..................................................................
+
+Date of Birth ........................................................ Age ........................
+
+District of origin ..................................................................................
+
+Sex ........................ Religion ................................................................
+
+Names of foster parents .........................................................................
+
+Foster Parent’s Home Address                              Change of address
+
+Village .................................                  ........................................
+
+Parish ..................................                  ........................................
+
+Country .................................                  ........................................
+
+Municipality ............................                  ........................................
+
+Natural Father’s name ........................ Alive/dead/unknown
+
+Natural Mother’s name ........................ Alive/dead/unknown
+
+                              Natural Father or                    Natural Mother or
+                              Guardian’s Address                   guardian’s Address
+
+Village                       ............................          ............................
+
+Parish                        ............................          ............................
+
+Country                       ............................          ............................
+
+Municipality                  ............................          ............................
+
+Details of Foster child’s brothers, sisters and relatives
+
+Names                          Addresses                          Alive/Dead
+
+............................   ............................       ............................
+
+............................   ............................       ............................
+
+Where was the child living immediately prior to this foster placement? (Please give names and address of carers or institution)
+
+.....................................................................................................
+
+.....................................................................................................
+
 93
 
 [[END OF PAGE 93]]
@@ -4433,6 +4800,30 @@ No. 8 of 2001
 Children
 
 [Rev. 2018]
+
+## FOURTH SCHEDULE—continued
+
+CASE HISTORY OF THE CHILD AND HIS/HER FAMILY
+
+.....................................................................................................
+
+........................................................ Government what efforts have been made to trace the parents or relatives and to return the child to his/her family.
+
+.....................................................................................................
+
+Details of Medical history including immunisations
+
+.....................................................................................................
+
+Give details of Education
+
+School ........................................................ Class .............................
+
+Name of Children’s Officer ......................................................................
+
+Address .............................................................................................
+
+Date ........................................ Children’s Officer’s Signature ....................
 
 ## FIFTH SCHEDULE
 [Section 194.]
@@ -4458,7 +4849,7 @@ These  Rules  shall  apply  to  the  proceedings  with  respect  to  a  child  w
 
 (1)  Where a child is apprehended with or without a warrant on suspicion of having committed a criminal offence he shall be brought before the Court as soon as practicable:
 
-Provided that no child shall be held in custody for a period exceeding twentyfour hours from the time of his apprehension, without the leave of the Court.
+Provided that no child shall be held in custody for a period exceeding twenty-four hours from the time of his apprehension, without the leave of the Court.
 
 (2)  Where a child is held in police custody the officer in charge of the police station shall as soon as practicable inform-
 
