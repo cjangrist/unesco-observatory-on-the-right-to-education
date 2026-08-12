@@ -1,5 +1,5 @@
 [[START OF PAGE 1]]
-
+Kingdom of Lesotho
 # Education Sector Strategic Plan 2005-2015
 
 Government of Lesotho
@@ -24,39 +24,15 @@ To develop and implement policies which ensure acquisition of functional literac
 
 # Sector Objectives
 
-- To improve access, efficiency and equity of education and training at all levels.
-
-2.
-
-To improve the quality of education and training.
-
-3.
-
-To ensure that curricula and materials are relevant to
-
-the needs of Lesotho, are consonant with the
-
-appropriate standards and gender responsive.
-
-- To ensure that both vocational-technical and non- formal education programs respond to the needs of industry and the communities in general.
-
-- To develop and implement a common system of regular collection and reporting of information on the current status and future demand and supply, and on priority educational areas in the country.
-
-6.
-
-To progressively achieve the equivalence,
-
-harmonization and standardization of the education
-
-and training systems nationally, regionally and
-
-internationally.
-
-- To effectively participate in regional and international educational sector development initiatives.
-
-- To promote gender equality and ensure empowerment disadvantaged groups.
-
-- Address the challenges posed by HIV and AIDS in education and training.
+1. To improve access, efficiency and equity of education and training at all levels.
+2. To improve the quality of education and training.
+3. To ensure that curricula and materials are relevant to the needs of Lesotho, are consonant with the appropriate standards and gender responsive.
+4. To ensure that both vocational-technical and non-formal education programs respond to the needs of industry and the communities in general.
+5. To develop and implement a common system of regular collection and reporting of information on the current status and future demand and supply, and on priority educational areas in the country.
+6. To progressively achieve the equivalence, harmonization and standardization of the education and training systems nationally, regionally and internationally.
+7. To effectively participate in regional and international educational sector development initiatives.
+8. To promote gender equality and ensure empowerment disadvantaged groups.
+9. Address the challenges posed by HIV and AIDS in education and training.
 
 1
 
@@ -71,12 +47,9 @@ ________________________________________________________________________
 # Preface
 
 Our national Constitution stipulates that Lesotho shall endeavour to make education available to all and shall adopt policies aimed at ensuring that:
-
-- education is directed to the full development of the human personality and sense of dignity and strengthening the respect for human rights and fundamental freedom;
-
-- primary education is compulsory and available to all...; and
-
-- fundamental education is encouraged or intensified as far as possible for those persons who have not received or completed their primary education. 1
+a) education is directed to the full development of the human personality and sense of dignity and strengthening the respect for human rights and fundamental freedom;
+b) primary education is compulsory and available to all...; and
+c) fundamental education is encouraged or intensified as far as possible for those persons who have not received or completed their primary education. 1
 
 This Strategic  Plan  is  a  step  towards  fulfilling  this  constitutional  obligation.  We  have  come  a  long way,  taking  gigantic  steps  that  have  provided  direction  for  the  development  of  the  country.    Key documents like Vision 2020, Poverty Reduction Strategy and Public Sector Improvement and Reform Programme provide the focus into the long term future.  Since the nation was consulted in different forums  during  their  preparation,  they  represent  the  true  aspirations  of  Basotho.    Also,  taken  into consideration  were  the  Education  for  All  goals,  Millennium  Development  Goals,  international  and regional conventions,  treaties,  protocols,  agreements  and  declarations  to  which  Lesotho  fully subscribes.
 
@@ -132,6 +105,49 @@ ________________________________________________________________________
 
 # Contents
 
+Contents...............................................................................................................................4
+Acronyms ................................................................................................................................................. 8
+Tables and Figures................................................................................................................................... 10
+Introduction ........................................................................................................................................... 12
+Chapter 1 ....................................................................................................................... 14
+Strategic Plan Context ........................................................................................................... 14
+1.1 MACROECONOMIC AND SOCIAL CONTEXT.......................................................................................... 14
+1.1.1 Performance ............................................................................................................................... 14
+1.1.2 Macro-level Policies and Strategies ........................................................................................... 15
+1.2 EDUCATION SECTOR CONTEXT ........................................................................................................... 15
+1.2.1 Conditions................................................................................................................................... 15
+1.2.2 Financing.................................................................................................................................... 17
+1.3 ORGANISATIONAL STRUCTURE............................................................................................................ 17
+Chapter 2 ....................................................................................................................... 20
+Mission, Goals and Objectives.................................................................................................. 20
+2.1 BACKGROUND..................................................................................................................................... 20
+2.2 MISSION STATEMENT.......................................................................................................................... 25
+2.3 VISION ................................................................................................................................................ 25
+2.4 EDUCATION POLICY ............................................................................................................................ 26
+2.5 STRATEGIC GOALS AND OBJECTIVES .................................................................................................. 27
+Chapter 3 ....................................................................................................................... 30
+Integrated Early Childhood Care and Development........................................................................ 30
+3.1 SITUATION ANALYSIS.......................................................................................................................... 30
+3.2 MAIN POLICIES ................................................................................................................................... 32
+3.3 CRITICAL CHALLENGES ...................................................................................................................... 32
+3.4 OBJECTIVES AND STRATEGIES ............................................................................................................ 32
+3.5 ACTIVITIES AND TARGET INDICATORS................................................................................................ 33
+3.6 STRATEGIC SUMMARY OF ACTIVITIES.................................................................................................. 35
+3.6.1 IECCD Policy ............................................................................................................................. 35
+3.6.2 Increased Access......................................................................................................................... 35
+3.6.3 Equitable Access......................................................................................................................... 36
+3.6.4 Quality Improvement .................................................................................................................. 37
+3.6.5 Planning and Management......................................................................................................... 38
+3.6.6 Gender Mainstreaming Gender and HIV and AIDS concerns in IECCD................................... 38
+3.7 COSTING OF IECCD PLAN .................................................................................................................. 39
+Chapter 4 ....................................................................................................................... 40
+Basic Education ................................................................................................................... 40
+4.1 SITUATION ANALYSIS ......................................................................................................................... 40
+4.1.1 Primary education ...................................................................................................................... 40
+4.1.2 Junior Secondary Education....................................................................................................... 42
+4.2 MAIN POLICIES IN BASIC EDUCATION................................................................................................. 42
+4.3 CRITICAL CHALLENGES ...................................................................................................................... 43
+4.4 CRITICAL CHALLENGES ...................................................................................................................... 43
 4
 
 [[END OF PAGE 5]]
@@ -142,6 +158,56 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
+OBJECTIVES AND STRATEGIES .................................................................................................................. 43
+4.5 ACTIVITIES AND TARGET INDICATORS................................................................................................ 44
+4.6 STRATEGIC SUMMARY OF ACTIVITIES.................................................................................................. 49
+4.6.2 Free and compulsory quality basic education on equitable basis .......................................... 50
+4.6.3 Improved teaching and learning conditions in all schools..................................................... 51
+4.6.4 Provide a secure, healthy school environment ....................................................................... 51
+4.6.5 Facilitation of quality assurance systems and processes........................................................ 52
+4.6.7 Offer relevant curricula.......................................................................................................... 52
+4.6.8 Improve linkages with other Stakeholders.............................................................................. 53
+4.7 Critical Benchmarks for Achieving Basic Education for All .................................................. 53
+4.8 Costing for Basic Education................................................................................................... 55
+Chapter 5 ....................................................................................................................... 57
+Secondary Education ............................................................................................................. 57
+5.1 SITUATION ANALYSIS .................................................................................................................. 57
+5.2 MAIN POLICIES ............................................................................................................................ 60
+5.3 CRITICAL CHALLENGES ............................................................................................................... 60
+5.4 OBJECTIVES AND STRATEGIES ..................................................................................................... 60
+5.5 ACTIVITIES AND TARGET INDICATORS......................................................................................... 61
+5.6 STRATEGIC SUMMARY OF ACTIVITIES .......................................................................................... 64
+5.6.1 Improve Access to Secondary Education.................................................................................... 64
+5.6.2 Improve quality in secondary education..................................................................................... 64
+5.3.3 Develop an efficient management system for secondary education............................................ 64
+5.6.4 Develop gender equity and parity within the Secondary Education System............................... 65
+5.6.5 Develop HIV and AIDS Mitigation Strategies in Secondary Education System......................... 65
+5.6.6 Improve partnerships among education service providers and stakeholders............................. 65
+5.7 COSTING FOR SENIOR SECONDARY EDUCATION.......................................................................... 66
+Chapter 6 ....................................................................................................................... 68
+Technical and Vocational Education and Training ........................................................................ 68
+6.1 SITUATION ANALYSIS ......................................................................................................................... 68
+6.2 MAIN POLICIES ................................................................................................................................... 71
+6.3 CRITICAL CHALLENGES ...................................................................................................................... 72
+6.4 OBJECTIVES AND STRATEGIES ............................................................................................................ 72
+6.5 ACTIVITIES AND TARGET INDICATORS................................................................................................ 72
+6.6 STRATEGIC SUMMARY OF ACTIVITIES.................................................................................................. 76
+6.6.1 Enhanced access to technical and vocational training............................................................... 76
+6.6.2 Quality improvement................................................................................................................... 77
+6.6.3 Enhancing the Relevance of TVET programmes ........................................................................ 77
+6.6.4 Creating a supporting Institutional and Regulatory Regime...................................................... 77
+6.6.5 Reducing HIV and AIDS prevalence........................................................................................... 78
+6.6.6 Promotion of Partnerships in TVET Service delivery................................................................. 78
+6.7 FUNDING FOR TVET.................................................................................................................... 79
+Chapter 7 ....................................................................................................................... 80
+Higher Education ................................................................................................................. 80
+7.1 SITUATION ANALYSIS.................................................................................................................. 80
+7.2 MAIN POLICIES ............................................................................................................................ 82
+7.3 CRITICAL CHALLENGES ............................................................................................................... 82
+7.4 OBJECTIVES AND STRATEGIES ..................................................................................................... 82
+7.5 ACTIVITIES AND TARGET INDICATORS......................................................................................... 83
+7.6 STRATEGIC SUMMARY OF ACTIVITIES .......................................................................................... 85
+7.6.1 Increased Enrolments............................................................................................................. 85
 5
 
 [[END OF PAGE 6]]
@@ -152,6 +218,54 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
+7.6.2 Improved quality of training programmes.................................................................................. 85
+7.6.3 Increased relevance of training programmes ............................................................................. 85
+7.6.4 Establishment of efficient and effective management systems .................................................... 85
+7.6.5 Integrating Gender in Higher education .................................................................................... 86
+7.6.6 Reducing HIV and AIDS prevalence levels................................................................................. 86
+7.6.7 Effective partnerships in higher education in place ................................................................... 86
+7.7 FINANCING FOR HIGHER EDUCATION .......................................................................................... 86
+Chapter 8 ....................................................................................................................... 88
+Lifelong Learning and Non-Formal Education............................................................................. 88
+8.1 SITUATION ANALYSIS.................................................................................................................. 88
+8.2 MAIN POLICIES ............................................................................................................................ 89
+8.3 CRITICAL CHALLENGES ............................................................................................................... 89
+8.4 OBJECTIVES AND STRATEGIES ..................................................................................................... 90
+8.5 ACTIVITIES AND TARGET INDICATORS......................................................................................... 90
+8.6 FINANCING OF LIFELONG LEARNING ........................................................................................... 92
+Chapter 9 ....................................................................................................................... 93
+Teacher Development, Supply and Management............................................................................ 93
+9.1 SITUATION ANALYSIS.................................................................................................................. 93
+9.2 POLICIES ...................................................................................................................................... 97
+9.3 STRATEGY ................................................................................................................................... 98
+9.4 CRITICAL CHALLENGES ............................................................................................................... 98
+9.5 ACTIVITIES AND TARGET INDICATORS......................................................................................... 98
+9.6 FUNDING FOR TEACHER EDUCATION AND SUPPLY............................................................................ 100
+Chapter 10 ................................................................................................................... 102
+Cross-cutting Issues and Activities.......................................................................................... 102
+10.1 INTRODUCTION .......................................................................................................................... 102
+10.2 CURRICULUM AND ASSESSMENT ............................................................................................... 102
+10.2.1 COSTING OF CURRICULUM DEVELOPMENT, ASSESSMENT AND EDUCATION SUPPORT .......... 104
+10.3 SPECIAL EDUCATION ................................................................................................................. 105
+10.4 GENDER IN EDUCATION ............................................................................................................. 107
+10.5 HIV & AIDS IN THE EDUCATION SECTOR ................................................................................. 109
+10.6 SPECIAL PROGRAMMES.............................................................................................................. 113
+10.6.1 UNESCOM ............................................................................................................................. 113
+10.6.2 Prince Mohato Award Scheme................................................................................................ 114
+10.7 COSTING FOR SPECIAL PROGRAMMES........................................................................................ 115
+Chapter 11 ................................................................................................................... 116
+Institutional Capacity Considerations ...................................................................................... 116
+11.1 RATIONALE FOR INSTITUTIONAL CAPACITY STRENGTHENING................................................... 116
+11.2 BUILDING EFFECTIVE AND EFFICIENT EDUCATION SECTOR ...................................................... 116
+11.2.1 Decentralisation ..................................................................................................................... 116
+11.2.2 Capacity Strengthening .................................................................................................... 117
+11.2.3 Administrative and Support Services ...................................................................................... 120
+11.3 ACTIVITIES AND TARGET INDICATORS....................................................................................... 120
+11.3.1 COSTING FOR INSTITUTIONAL AND SYSTEMS DEVELOPMENT ................................................ 123
+11.4 PLANNING CAPACITY ................................................................................................................ 124
+11.4.1 Reform of the Planning Unit ............................................................................................ 124
+11.4.2 Budgeting and Financial Management Improvement ...................................................... 126
+11.4.3 Efficiency and Cost-sharing Measures............................................................................. 128
 6
 
 [[END OF PAGE 7]]
@@ -162,6 +276,29 @@ ________________________________________________________________________
 
 ________________________________________________________________________
 
+11.4.4 Quality Assurance ............................................................................................................ 128
+11.4.5 Monitoring and Reporting................................................................................................ 129
+11.4.6 Accountability .................................................................................................................. 130
+11.4.7 Stakeholder partnerships.................................................................................................. 131
+11.4.8 ACTIVITIES AND TARGET INDICATORS .................................................................................. 132
+11.4.9 COSTING FOR PLANNING, MONITORING AND EVALUATION PROGRAMME ............................. 137
+Chapter 12 ................................................................................................................... 140
+Implementation Framework .................................................................................................. 140
+12.1 INTRODUCTION .......................................................................................................................... 140
+12.2 PRIORITISATION AND PHASING OF THE STRATEGIC PLAN .......................................................... 140
+12.2.1 Prioritisation........................................................................................................................... 140
+12.2.2 Phasing ................................................................................................................................... 140
+12.3 STRATEGIC PLAN IMPLEMENTATION STRUCTURE...................................................................... 141
+12.4 MONITORING, REPORTING AND EVALUATION ........................................................................... 141
+12.6 IMPLEMENTATION FRAMEWORK ..................................................................................................... 145
+Chapter 13 ................................................................................................................... 146
+Costing and Financing of the ESSP......................................................................................... 146
+13.1 RATIONALE FOR ESSP COSTING AND FINANCING........................................................................... 146
+13.2 COSTING METHODOLOGY ............................................................................................................... 147
+13.3 OVERALL ESSP COSTING ............................................................................................................... 150
+13.4 FUNDING GAP........................................................................................................................ 151
+13.5 ESSP FINANCING................................................................................................................... 153
+Log-frame: Strategic Plan Implementation Framework: 2005-2015 ....................... 154
 7
 
 [[END OF PAGE 8]]
@@ -174,103 +311,55 @@ ________________________________________________________________________
 
 # Acronyms
 
+ACL | Anglican Church of Lesotho
+ADB | African Development Bank
+ADF | African Development Fund
+AGOA | Africa Growth Opportunities Act
+AIDS | Acquired Immune Deficiency Syndrome
+AIR | Apparent Intake Rate
+ARVs | Anti-retroviral Drugs
+CAC | Curriculum Advisory Committee
+CEO | Chief Education Officer
+CMA | Common Monetary Area
+COSC | Cambridge Overseas School Certificate
+DSTE | Diploma Secondary Technical Education
+DTEP | Distance Teacher Education Programme
+ECOL | Examination Council of Lesotho
+EFA | Education For All
+EMIS | Educational Management Information System
+ESDP | Education Sector Development Project
+EU | European Union
+FPE | Free Primary Education
+GDP | Gross Domestic Product
+GEC | General Education Certificate
+GER0 | Gross Enrolment Ratio (Pre-School)
+GER1 | Gross Enrolment Ratio (Primary)
+GER2 | Gross Enrolment Ratio (Secondary)
+GNI | Gross National Income
+GNP | Gross national Product
+GoL | Government of Lesotho
+HIV | Human Immunodeficiency Virus
+HQ | Headquarters
+ICT | Information Communication Technology
+IDA | International Development Association
+IDM | Institute for Development Management
+IECCD | Integrated Early Childhood Care and Development
+IMF | International Monetary Fund
+JC | Junior Certificate
+LAPCA | Lesotho AIDS Programmes Coordinating Authority
+LCE | Lesotho College of Education
+LEC | Lesotho Evangelical Church
+LHDA | Lesotho Highlands Development Authority
+LHWP | Lesotho Highlands Water Project
+LP | Lerotholi Polytechnic
+MDGs | Millennium Development Goals
+MOET | Ministry of Education and Training
+MTEF | Medium-Term Expenditure Framework
+NCC | National Craft Certificate
+NCC | National Curriculum Committee
+NCDC | National Curriculum Development Centre
+
 8
-
-ACL
-
-Anglican Church of Lesotho
-
-ADB
-
-African Development Bank African Development Fund Africa Growth Opportunities Act Acquired Immune Deficiency Syndrome Apparent Intake Rate Anti-retroviral Drugs Curriculum Advisory Committee Chief Education Officer Common Monetary Area Cambridge Overseas School Certificate Diploma Secondary Technical Education Distance Teacher Education Programme Examination Council of Lesotho Education For All Educational Management Information System Education Sector Development Project European Union Free Primary Education Gross Domestic Product General Education Certificate Gross Enrolment Ratio (Pre-School) Gross Enrolment Ratio (Primary) Gross Enrolment Ratio (Secondary) Gross National Income Gross national Product Government of Lesotho Human Immunodeficiency Virus Headquarters Information Communication Technology International Development Association Institute for Development Management Integrated Early Childhood Care and Development International Monetary Fund Junior Certificate Lesotho AIDS Programmes Coordinating Authority Lesotho College of Education Lesotho Evangelical Church Lesotho Highlands Development Authority Lesotho Highlands Water Project Lerotholi Polytechnic Millennium Development Goals Ministry of Education and Training Medium-Term Expenditure Framework National Craft Certificate National Curriculum Committee National Curriculum Development Centre
-
-ADF
-
-AGOA
-
-AIDS
-
-AIR
-
-ARVs
-
-CAC
-
-CEO
-
-CMA
-
-COSC
-
-DSTE
-
-DTEP
-
-ECOL
-
-EFA
-
-EMIS
-
-ESDP
-
-EU
-
-FPE
-
-GDP
-
-GEC
-
-GER0
-
-GER1
-
-GER2
-
-GNI
-
-GNP
-
-GoL
-
-HIV
-
-HQ
-
-ICT
-
-IDA
-
-IDM
-
-IECCD
-
-IMF
-
-JC
-
-LAPCA
-
-LCE
-
-LEC
-
-LHDA
-
-LHWP
-
-LP
-
-MDGs
-
-MOET
-
-MTEF
-
-NCC
-
-NCDC
 
 [[END OF PAGE 9]]
 
@@ -334,6 +423,54 @@ ________________________________________________________________________
 
 # Tables and Figures
 
+NO. | Tables in Text | Page
+1 | Public Recurrent Expenditure In Education (MOET Only) | 19
+2 | IECCD Enrolments By Sex, Centres And Teachers 2000-2002 | 32
+3 | Full Cost Of Education Provision Under The Strategic Plan On IECCD | 39
+Deleted: 40
+4 | Enrolment Numbers Primary School (Boys, Girls), 1999-2003 | 41
+5 | Key Access Indicators For Primary Education 1999-2003 | 42
+6 | Primary Efficiency Indicators 1999 – 2002 | 43
+7 | Teachers In Primary Schools By Qualification And Sex, 1999-2003 | 43
+8 | Key Benchmark Indicators For Basic Education 2005 – 2015 | 54
+9 | Full Cost Of Education Provision Under The Strategic Plan On The Basic Education Budget | 55
+10 | Full Recurrent Costs On Free Primary Education Provision Under The Strategic Plan Budget | 56
+11 | Enrolment In Secondary Schools By Sex And Grade 1999-2003 | 57
+12 | Number Of Secondary Schools, Classrooms And Teachers 1999-2003 | 58
+14 | Key Benchmark Indicators On Access, Efficiency And Quality For Secondary Education 1999-2015 | 66
+15 | Full Cost Of Education Provision Under The Strategic Plan On The Senior Secondary Education Budget (In M1000) | 67
+16 | Enrolment In TVET Institutions By Sex And Year 1998 – 2002 | 68
+17 | Enrolments In Technical/Vocational Schools By Type Of Courses 1999-2003 | 69
+18 | Percentage Pass Rates In Official TVD Examinations For National Craft Certificate | 71
+19 | Full Cost Of The Strategic Plan On The Technical And Vocational Education Training Budget | 79
+20 | Government Recurrent Expenditure On University Education, 1998-2002 | 80
+21 | Enrolment Projections For The Main Institutions Of Higher Institutions | 85
+22 | Full Cost Of The Strategic Plan On The Higher Education Budget (In M1000) | 87
+23 | Full Cost Of Education Provision Under The Strategic Plan On Lifelong Learning | 92
+24 | Courses Offered By LCE For Teacher Training | 93
+25 | Courses Offered By NUL For Teacher Training | 94
+26 | Enrolment At Lesotho College Of Education By Programme, 1998-2002 | 94
+27 | Full Cost Of Teacher Development Supply And Management Under The Strategic Plan | 101
+28 | Full Cost Of Education Provision Under The Strategic Plan On The Curriculum Development, Assessment And Education Support Budget | 105
+29 | Full Cost Of Education Provision Under The Strategic Plan On The Special Programme Budget | 115
+Deleted: 6
+30 | Full Cost Of Education Provision Under The Strategic Plan On The Institutional Systems Development And Maintenance Budget | 124
+Deleted: 5
+31 | Full Cost The Strategic Plan On The Planning, Monitoring And Evaluation Budget | 138
+Deleted: 9
+32 | Overall Cost of Education Sector Strategic Plan | 150
+Deleted: 2
+33 | Share of Education Sector Programmes in the Education Sector Strategic Plan in Percentage | 151
+Deleted: 3
+34 | ESSP Recurrent Costs By Programmes -2005/6 - 2014/15 | 149
+Deleted: 3
+35 | Percentage ESSP Recurrent Costs By Programmes For 2005/6 - 2014/15 | 149
+Deleted: 50
+36 | Funding Gap By Education Sector Programmes For The Period 2005/6 - 2014/15 | 152
+Deleted: 4
+37 | Share Of Education Sector Programmes In Funding Gap For The Period 2005/6 - 2014/15 | 152
+Deleted: 5
+
 10
 
 [[END OF PAGE 11]]
@@ -343,6 +480,35 @@ ________________________________________________________________________
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+TABLES IN THE ANNEXURE | Page
+A-1 | Number Of IECCD Centres, Children And Teachers By District, 2002 | 171
+A-2 | Important Statistics Secondary Schools Enrolment Levels And Number Of Teachers | 171
+A-3 | Target Access Indicators For Primary And Secondary Schools (Percent) | 171
+A-4 | Enrolment In Secondary Schools By Sex And Grade 1999-2003 | 172
+A-5 | Repetition Rate By Grade And Education Cycle | 173
+A-6 | Share Of Sub-Programmes In Basic Education Programme (%) | 173
+A-7 | Share Of Sub-Programmes In Senior Secondary Education Programme (%) | 173
+A-8 | Share Of Sub-Programmes In Technical And Vocational Training Budget (%) | 174
+A-9 | Share Of Sub-Programmes In Teacher Development, Supply And Management Budget | 174
+A-10 | Share Of Sub-Programmes In Higher Education Budget (%) | 175
+A-11 | Share Of Sub-Programmes In Cost Of The Strategic Plan On Lifelong Learning (%) | 175
+A-12 | Share Of IECCD In Cost Of Education Provision Under The Strategic Plan On IECCD | 175
+A-13 | Share Of Sub-Programmes In Special Programmes Budget (%) | 176
+A-14 | Share Of Institutional And Systems Development And Maintenance Budget (%) | 176
+A-15 | Share of Sub-programmes in curriculum development, assessment and education support Budget (%) | 176
+A-16 | Share of SUB-PROGRAMMES in Planning, Monitoring and Evaluation Budget (%) | 176
+A-17 | Projected Primary Enrolments 2004 – 2007 | 176
+FIGURES
+1 | Number of Primary and Secondary Schools by ownership in 2002 | 17
+2 | MOET Organogram | 20
+3 | IECCD Net Enrolment Ratio Projection 2007 – 2015 | 37
+4 | Inter-cycle Transition Rates from 1994 to 2003 | 59
+5 | Overview of Institutions offering the National Craft Certificate | 71
+6 | Lecturers at Lesotho College of Education 1998-2002 | 95
+7 | Projected Cumulative AIDS Deaths among Teachers, 2000 – 2015 | 96
+8 | Typical Planning Unit’s Functions | 127
+9 | Strategic Plan Implementation Process | 145
 
 11
 
@@ -356,7 +522,7 @@ ________________________________________________________________________
 
 # Introduction
 
-The Government of Lesotho envisages the provision of an equitable basic education to all  the people as a key developmental goal. Basic education is seen as an essential part of social and economic development and is regarded by the Government as a fundamental human right. It is also  seen  as  an  essential  pre-condition  for  mid-level  employment  and  secondary  and  postsecondary  education  and  training.  In  line  with  broad  Government  objectives,  it  is  Government policy to move decisively towards enrolment expansion and retention in all the educational subsectors.  The  education  sector  is  also  striving  to  improve  the  quality  of  education  by  equipping schools and educational centres; reforming the curriculum; ensuring the provision of teaching and learning  materials;  investing  in  teacher  training  and  professional  development;  and  providing cost-effective  and  efficient  teacher  supervision  and  support.  In  its  quantitative  and  qualitative improvements of the education sector, the Government counts on development partnerships with religious organisations, the private sector, NGOs, communities, and development partners.
+The Government of Lesotho envisages the provision of an equitable basic education to all the people as a key developmental goal. Basic education is seen as an essential part of social and economic development and is regarded by the Government as a fundamental human right. It is also seen as an essential pre-condition for mid-level employment and secondary and post-secondary education and training. In line with broad Government objectives, it is Government policy to move decisively towards enrolment expansion and retention in all the educational sub-sectors. The education sector is also striving to improve the quality of education by equipping schools and educational centres; reforming the curriculum; ensuring the provision of teaching and learning materials; investing in teacher training and professional development; and providing cost-effective and efficient teacher supervision and support. In its quantitative and qualitative improvements of the education sector, the Government counts on development partnerships with religious organisations, the private sector, NGOs, communities, and development partners.
 
 This Strategic Plan is intended to provide the Ministry of Education and Training (MOET) with an effective long term planning instrument over the 2005 to 2015 period and it is divided into three parts. Part One gives the Strategic plan context and broad objectives. It starts with Chapter 1 that highlights, firstly, the macroeconomic and social context of Lesotho and, secondly, the broad overview of the education and training sector. Chapter 2, in  turn, presents the Strategic  Plan's Mission, Vision, Goals and Objectives that are founded on such global goals as Education for All (EFA) and MDGs as well as national ones (e.g. those in the Constitution, the PRS, and Vision 2020).
 
@@ -398,7 +564,7 @@ ________________________________________________________________________
 
 ##### 1.1.1 Performance
 
-Lesotho, a largely mountainous and landlocked country, has a population of 2.2 million people and  offers  quite  limited  agricultural  potential,  mainly  pastoral  production.  A  considerable proportion of the male population is employed in South Africa's mining industry. Opportunities for  enhanced  industrial  growth  are  evident,  as  demonstrated  by  the  sizeable  expansion  in  the largely export-oriented garment sub-sector that specialises mainly in textile, clothing and leather. There is also light manufacturing. Additions that are more recent are royalties from the Lesotho Highlands Water Project (LHWP) that generates electricity and exports water to South Africa. This  large  project  has  provided  added  stimulus  to  the  country's  economic  diversification  and explained, to a significant degree, the recorded economic growth during the mid-1990s onwards. In 2001, infrastructure and utilities were facilitated in the Thetsane Industrial Area of Maseru in an  effort  to  create  more  jobs  through  textile  industry  investment.  This  initiative  was  partially motivated  by  export  opportunities  in  the  United  States  through  the  provisions  of  the  African Growth and Opportunities Act (AGOA). Under the AGOA terms, Lesotho textiles and clothing have  unlimited  access  to  the  US  market,  an  opportunity  that,  in  2002,  recorded  a  40  percent increase in the exportation of these commodities. Investors from South Africa and East Asia are particularly  being  targeted,  through  special  incentives,  to  establish  textile  and  other  labourintensive industries that target the US market.
+Lesotho, a largely mountainous and landlocked country, has a population of 2.2 million people and offers quite limited agricultural potential, mainly pastoral production. A considerable proportion of the male population is employed in South Africa's mining industry. Opportunities for enhanced industrial growth are evident, as demonstrated by the sizeable expansion in the largely export-oriented garment sub-sector that specialises mainly in textile, clothing and leather. There is also light manufacturing. Additions that are more recent are royalties from the Lesotho Highlands Water Project (LHWP) that generates electricity and exports water to South Africa. This large project has provided added stimulus to the country's economic diversification and explained, to a significant degree, the recorded economic growth during the mid-1990s onwards. In 2001, infrastructure and utilities were facilitated in the Thetsane Industrial Area of Maseru in an effort to create more jobs through textile industry investment. This initiative was partially motivated by export opportunities in the United States through the provisions of the African Growth and Opportunities Act (AGOA). Under the AGOA terms, Lesotho textiles and clothing have unlimited access to the US market, an opportunity that, in 2002, recorded a 40 percent increase in the exportation of these commodities. Investors from South Africa and East Asia are particularly being targeted, through special incentives, to establish textile and other labour-intensive industries that target the US market.
 
 Lesotho  has  recorded  a  real  annual  average  GDP  growth  rate  over  the  1980  to  2002  period. During the 1990s, the primary sectors (mainly agriculture and livestock) accounted for 20 percent of  GDP  while  secondary  sectors  (including  manufacturing  and  construction),  and  services accounting for 38 percent and 42 percent, respectively. Particularly during the mid-1990s, The IMF/World Bank-supported Structural  Adjustment  Programme  (SAP)  that  was  started  in  1988 provided the requisite foundation for economic stability. GDP growth averaged 6.3 percent over the  1988  to  1997  period.  Under  SAP,  the  government  budget  deficit  of  10  percent  of  GNP  in 1987/88 was eliminated and the 1992/93-1997/98 period recorded an average budget surplus of 2.1.  Inflation  as  measured  by  the  Consumer  Price  Index  also  dropped  by  half  during  the  same period.  Similarly,  in  the  1988  to  1998  period,  Lesotho  recorded  an  annual  average  surplus  of more than 8 months of import coverage, thus, indicating a positive external sector performance.
 
@@ -454,87 +620,17 @@ present  system  of  evaluating  examinations  is  potentially  vulnerable  to  
 
 Figure 1: Number of Primary and Secondary Schools by ownership in 2002
 
-0.0
+Ownership | Primary | Secondary
+Government | 5.3 | 3.3
+Community | 4.0 | 5.8
+Lesotho Evangelical Church | 35.9 | 31.9
+Roman Catholic Church | 38.0 | 35.4
+Anglican Church of Lesotho | 13.2 | 14.2
+Methodist | 1.8 | 2.2
+Other | 3.6 | 4.9
+Unknown | 0.1 | 0.4
 
-5.0
-
-10.0
-
-15.0
-
-20.0
-
-25.0
-
-30.0
-
-35.0
-
-40.0
-
-Primary
-
-5.3
-
-4.0
-
-35.9
-
-38.0
-
-13.2
-
-1.8
-
-3.6
-
-0.1
-
-Secondary
-
-3.3
-
-5.8
-
-31.9
-
-35.4
-
-14.2
-
-2.2
-
-4.9
-
-0.4
-
-Government
-
-Community
-
-Lesotho
-
-Evangelical
-
-Church
-
-Roman Catholic
-
-Church
-
-Anglican Church
-
-of Lesotho
-
-Methodist
-
-Other
-
-Unknown
-
-Source : Ministry of Education and Training, Lesotho's
-
-Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
+Source: Ministry of Education and Training, Lesotho's Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
 
 It  is  noteworthy  that  despite  the  ownership  pattern,  almost  all  education  personnel  fall  under Government employment through the MOET and are obliged to follow the Government's rules and regulations. All teachers government payroll are recruited through the Teaching Service. The Government  pays  teachers'  salaries  and  extends  subsidies  to  learners'  fees,  especially  with respect to Free Primary Education (FPE), and the supply of teaching and learning materials.
 
@@ -554,7 +650,7 @@ One of the most vexing challenges for Lesotho is the difficulty the average chil
 
 ________________________________________________________________________
 
-enrolment  of  children  from  poorer  families.  The  Government  is  equally  concerned  about  the generally  poor  quality  of  education  that  is  being  delivered,  a  phenomenon  that  is  explained principally  by  the  high  pupil-teacher  ratios;  inadequately  trained  teachers;  weak  and  overcentralised  school  management  systems;  etc.  More  devastating,  the  education  sector  has  been severely impacted by the HIV and AIDS.
+enrolment of children from poorer families. The Government is equally concerned about the generally poor quality of education that is being delivered, a phenomenon that is explained principally by the high pupil-teacher ratios; inadequately trained teachers; weak and over-centralised school management systems; etc. More devastating, the education sector has been severely impacted by the HIV and AIDS.
 
 ##### 1.2.2 Financing
 
@@ -586,17 +682,19 @@ The current organisational structure of the Ministry of Education and Training i
 
 [[START OF PAGE 19]]
 
-Table 1: Public Recurrent Expenditure in Education (MOET only) (Maloti, 2003/4 constant prices)
---- | --- | --- | --- | --- | ---
+Table 1: Public Recurrent Expenditure in Education (MOET only)
+(Maloti, 2003/4 constant prices)
+
 Program Area | 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6
-Revised | Estimate | Estimate | Estimate | Estimate
+--- | --- | --- | --- | --- | ---
+ | Revised | Estimate | Estimate | Estimate | Estimate
 Administration and Management | 9,050,571 | 9,050,571 | 11,876,830 | 11,726,920 | 23,367,120
 Early Childhood Care & Development | 1,231,930 | 1,231,930 | 1,220,700 | 1,081,400 | 2,712,110
 Basic Education and Senior Secondary | 473,966,139 | 550,552,194 | 541,718,630 | 584,156,594 | 617,389,470
 Of which: Primary | 289,885,461 | 367,560,085 | 381,085,380 | 417,356,894 | 430,737,280
 Of which: Secondary | 165,290,169 | 164,091,630 | 155,346,510 | 161,666,590 | 180,682,580
 Of which: Lifelong Learning | 5,797,357 | 5,797,357 | 5,286,740 | 5,133,110 | 5,969,610
-Of which: Other | 12,993,152 | 13,103,123
+Of which: Other | 12,993,152 | 13,103,123 |  |  | 
 Technical & Vocational Education | 29,191,567 | 29,191,567 | 21,382,040 | 22,192,326 | 25,031,680
 Teacher Education and Supply | 25,796,982 | 25,746,921 | 23,991,610 | 26,918,240 | 27,347,220
 Tertiary Education | 131,281,874 | 131,281,874 | 119,100,250 | 118,757,770 | 123,385,850
@@ -604,25 +702,27 @@ Curriculum Assessment & Education Support | 14,015,932 | 14,015,932 | 12,460,370
 Strategic Planning, Monitoring and Evaluation | 15,413,562 | 15,413,562 | 13,910,180 | 9,860,830 | 9,948,280
 Special Education & Other programmes | 2,089,989 | 2,089,989 | 2,171,290 | 9,354,480 | 12,304,040
 Total | 702,038,545 | 778,574,540 | 747,831,900 | 794,321,470 | 851,971,390
-Real growth in recurrent education expenditure | 11% | -1.6% | 3% | 3%
-2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6
-Revised | Estimate | Estimate | Estimate | Estimate
+Real growth in recurrent education expenditure |  | 11% | -1.6% | 3% | 3%
+
+ | 2001/2 | 2002/3 | 2003/4 | 2004/5 | 2005/6
+--- | --- | --- | --- | --- | ---
+ | Revised | Estimate | Estimate | Estimate | Estimate
 Administration and Management | 1.3% | 1.2% | 2% | 1% | 3%
 Early Childhood Care & Development | 0.2% | 0.2% | 0% | 0% | 0%
 Basic Education and Senior Secondary | 67.5% | 70.7% | 72% | 74% | 72%
 Of which: Primary | 41.3% | 47.2% | 51% | 53% | 51%
 Of which: Secondary | 23.5% | 21.1% | 21% | 20% | 21%
 Of which: Lifelong Learning | 0.8% | 0.7% | 1% | 1% | 1%
-Of which: Other | 1.9% | 1.7%
+Of which: Other | 1.9% | 1.7% |  |  | 
 Technical & Vocational Education | 4.2% | 3.7% | 3% | 3% | 3%
 Teacher Education and Supply | 3.7% | 3.3% | 3% | 3% | 3%
 Tertiary Education | 18.7% | 16.9% | 16% | 15% | 14%
 Curriculum Assessment & Education Support | 2.0% | 1.8% | 2% | 1% | 1%
 Strategic Planning, Monitoring and Evaluation | 2.2% | 2.0% | 2% | 1% | 1%
 Special Education & Other programmes | 0.3% | 0.3% | 0% | 1% | 1%
-100% | 100% | 100% | 100% | 100%
+ | 100% | 100% | 100% | 100% | 100%
 
-Source : Lesotho Public Expenditure Review of the Education Sector , Vol. II, Statistical Appendix (Final Draft), Maseru, February 2002 (updated)
+Source: Lesotho Public Expenditure Review of the Education Sector, Vol. II, Statistical Appendix (Final Draft), Maseru, February 2002 (updated)
 
 [[END OF PAGE 19]]
 
@@ -635,118 +735,62 @@ ________________________________________________________________________
 19
 
 Minister
-
 Ministry of Education & Training
-
 Assistant Minister
-
 Principal Secretary
-
+Deputy Principal Secretary
+Finance
+Administration
+Human Resources
 Examinations Council of Lesotho
-
+Council on Higher Education
+National Curriculum Committee
+Teaching Service Commission
+UNESCO Commission
 TVT Advisory Board
 
-UNESCO Commission
-
-National Curriculum Committee
-
-Teaching Service Commission
-
-Deputy Principal Secretary
-
-Director
-
-TVT
-
-Director
-
-Planning
-
-CEO Curriculum
-
-CEO Tertiary
-
-CEO Teaching
-
-Service
+CEO Primary
+IECCD
+PIEP
+SSRFU
+FPE
+Field Insp.
 
 CEO Secondary
-
-CEO Primary
-
-Administration
-
-Finance
-
-Human Resources
-
-IECCD
-
 Central Inspectorate
-
 Special Education
+Government Schools
+Secondary Schools Advisory Services
 
-Secondary Schools
-
-Advisory Services
-
-Government
-
-Schools
-
+CEO Teaching Service
+TSD
 TSC
 
-TSD
-
+CEO Tertiary
 LP
-
 LCE
-
+TTI
+NUL
 IDM
 
-NUL
-
-TTI
-
+CEO Curriculum
 NCDC
-
+LDTC
+SSU
+NFE
 ECOL
 
-NFE
-
-SSU
-
-LDTC
-
+Director Planning
+EMIS
+PSCU
+Planning Section
 IT
 
-Planning
-
-Section
-
-PSCU
-
-EMIS
-
-PIEP
-
-SSRFU
-
-Field
-
-Insp.
-
-FPE
-
-Figure 2:  MOET Organogram
-
+Director TVT
 TVD
+TVET Providers
 
-TVET
-
-Providers
-
-Council on Higher Education
+Figure 2: MOET Organogram
 
 [[END OF PAGE 20]]
 
@@ -766,17 +810,12 @@ The  national  and  global  context  within  which  the  objectives  of  this  S
 
 At the international level, the most important ones in terms of the considerable degree in which they  have  conditioned  Lesotho's    education  policies  are  (a)  the  Education  for  All  (EFA) initiative/process  and  the  Millennium  Development  Goals  (MDGs).  EFA  is  essentially  a worldwide  initiative  to  make  a  giant  step  forward  in  improving  basic  education,  based  on  the understanding  that education  is  a  fundamental  human  right .  From  the  standpoint  of  the Government, the following EFA goals and targets agreed upon at the World Education Forum in Dakar in 2000 provided hope for the development of basic education in Lesotho and shall, thus, continue to guide policy actions in the fields of education ad training:
 
-- Expanding  and  improving  comprehensive  early  childhood  care  and  education, especially for the most vulnerable and disadvantaged children;
-
-- ii) Ensuring  that  by  2015  all children, particularly girls, children in difficult circumstances  and  those  belonging  to  ethnic  minorities,  have  access  to  and complete, free and compulsory primary education of good quality;
-
-- iii) Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life-skills programmes;
-
-- iv) Achieving  a  50  per  cent  improvement  in  levels  of  adult  literacy  by  2015, especially for women, and equitable access to basic and continuing education for all adults;
-
-- Eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality;
-
-- vi) Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills. 10
+i) Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children;
+ii) Ensuring that by 2015 all children, particularly girls, children in difficult circumstances and those belonging to ethnic minorities, have access to and complete, free and compulsory primary education of good quality;
+iii) Ensuring that the learning needs of all young people and adults are met through equitable access to appropriate learning and life-skills programmes;
+iv) Achieving a 50 per cent improvement in levels of adult literacy by 2015, especially for women, and equitable access to basic and continuing education for all adults;
+v) Eliminating gender disparities in primary and secondary education by 2005, and achieving gender equality in education by 2015, with a focus on ensuring girls' full and equal access to and achievement in basic education of good quality;
+vi) Improving all aspects of the quality of education and ensuring excellence of all so that recognized and measurable learning outcomes are achieved by all, especially in literacy, numeracy and essential life skills. 10
 
 In  order  to  achieve  these  goals,  it  was  agreed  that  EFA  forums  shall  be  strengthened  at  the national, regional and international levels. For Sub-Saharan African countries, of which Lesotho is  part,  the  EFA  goals  are  expected  to  be  realized  through  strategizing  at  the  national  level,
 
@@ -843,11 +882,42 @@ The second target is equity , which stresses the need to ensure that the distrib
 ________________________________________________________________________
 
 Box 1: EFA REGIONAL FRAMEWORK FOR ACTION
---- | --- | ---
-1. Priority areas of focus | a) b) | Improving access and equity Improving quality and relevance of education
-2. Strategic Objectives | d) a) | Improving partnerships Transforming education for national and regional development goals with specific reference to social, cultural and economic and technological development Transforming curriculum content and improving relevance, quality and teaching
-3. Basic strategies | b) c) d) e) a) b) c) d) e) f) g) | methodologies with the need of learners in focus Transforming the role of the state and education system structures and functions for facilitating active participation of stakeholders in the lifelong learning processes Building capacity in educational leadership, management, research and information systems Strengthening partnerships with NGOs, civil society and development partners at community, and national, regional and international levels. Review and harmonisation of existing policies and legislation, focussed at rights of disadvantaged groups and the creation of a culture of lifelong learning Increase in financing and rationalisation of investment in education Development of national, sub-regional and regional institutional capacities Review of curricula and validation of African indigenous knowledge systems, values and skills Improvement of capacities for educational change Improvement of the teaching and learning environment, through development of materials, methodologies and social learning environments that are feasible, sustainable and relevant to the African learner Adoption of appropriate and cost-effective technologies, including reducing the dependence on imported materials and increasing the use of the oral tradition
-4. Targets | a) b) c) d) e) f) g) h) | IECCD Programmes - double by 2006 offering safe and stimulating environments. 100% access for 3-6 age group by 2015 Primary education - By 2015: 100% access; 80% completion rate, of which 90% start at secondary level Learning achievement - By 2015: all teachers have received initial training; operational in-service training programmes which are child-centred and gender-based. Enhancement of education of girls and women - Increase admission, completion and transition rates of girls and remove legislative barriers; create safe learning environments for girls; institutionalisation of action in relation to access; implement awareness raising campaigns and training. Reduction of adult literacy - Reduce illiteracy by 50% Expansion of basic education and skill training for out-of-school learners - Conduct studies in next 2 years to assess situation of out-of-school children; based on these studies design of NFE programmes; bridging gap between formal education and NFE. Development of HIV/AIDS programmes and mechanisms - life skills and HIV/AIDS education become part of education programmes; partnerships with civil society, media, communities; AIDS campaigning Improving management and governance - Use of ICT; decentralisation and participation through capacity building at a lower level; produce strategic plan on management.
+
+1. Priority areas of focus
+a) Improving access and equity
+b) Improving quality and relevance of education
+c) Institutional and professional capacity building
+d) Improving partnerships
+
+2. Strategic Objectives
+a) Transforming education for national and regional development goals with specific reference to social, cultural and economic and technological development
+b) Transforming curriculum content and improving relevance, quality and teaching methodologies with the need of learners in focus
+c) Transforming the role of the state and education system structures and functions for facilitating active participation of stakeholders in the lifelong learning processes
+d) Building capacity in educational leadership, management, research and information systems
+e) Strengthening partnerships with NGOs, civil society and development partners at community, and national, regional and international levels.
+
+3. Basic strategies
+a) Review and harmonisation of existing policies and legislation, focussed at rights of disadvantaged groups and the creation of a culture of lifelong learning
+b) Increase in financing and rationalisation of investment in education
+c) Development of national, sub-regional and regional institutional capacities
+d) Review of curricula and validation of African indigenous knowledge systems, values and skills
+e) Improvement of capacities for educational change
+f) Improvement of the teaching and learning environment, through development of materials, methodologies and social learning environments that are feasible, sustainable and relevant to the African learner
+g) Adoption of appropriate and cost-effective technologies, including reducing the dependence on imported materials and increasing the use of the oral tradition
+h) Promotion and support of Africa based educational research
+i) Development of genuine and sustainable partnerships
+
+4. Targets
+a) IECCD Programmes - double by 2006 offering safe and stimulating environments. 100% access for 3-6 age group by 2015
+b) Primary education - By 2015: 100% access; 80% completion rate, of which 90% start at secondary level
+c) Learning achievement - By 2015: all teachers have received initial training; operational in-service training programmes which are child-centred and gender-based.
+d) Enhancement of education of girls and women – Increase admission, completion and transition rates of girls and remove legislative barriers; create safe learning environments for girls; institutionalisation of action in relation to access; implement awareness raising campaigns and training.
+e) Reduction of adult literacy – Reduce illiteracy by 50%
+f) Expansion of basic education and skill training for out-of-school learners – Conduct studies in next 2 years to assess situation of out-of-school children; based on these studies design of NFE programmes; bridging gap between formal education and NFE.
+g) Development of HIV/AIDS programmes and mechanisms – life skills and HIV/AIDS education become part of education programmes; partnerships with civil society, media, communities; AIDS campaigning
+h) Improving management and governance – Use of ICT; decentralisation and participation through capacity building at a lower level; produce strategic plan on management.
+i) Increase budgetary allocation to education – By 2005: 7% of GDP spent on education; By 1010: 9%; international agencies should double their financial support
+j) Institutionalise the assessment and monitoring functions of the EFA team – Establishment of Regional EFA Consultative Council; By 2000: work plan on regular assessment and monitoring
 
 22
 
@@ -859,9 +929,9 @@ Box 1: EFA REGIONAL FRAMEWORK FOR ACTION
 
 ________________________________________________________________________
 
-The  third  target  regards learning  achievement ,  which  emphasizes  the  need  to  focus  on  welldefined learning accomplishments as a major outcome of the education process.  In this Strategic Plan, this principle is strongly linked to relevance , effectiveness and efficiency which, together, help to define the quality aspects of education. Lastly, the issue of partnerships has emerged as an important consideration in educational service provision and is deriving its significance from the EFA and MDGs principles. As resources at the disposal of the Government dwindle against a tide of competing demands, the need to invite other providers to educational services is no longer just an option; it is an imperative. Partnerships and alliances in service provision are also founded on the  principles  of  democracy  and  inclusiveness  that  call  for  the  direct  involvement  of  both providers  of,  and  beneficiaries  from,  the  education  system  not  only  in  meeting  the  cost  of provision but also in directly participating in decision-making processes. For Lesotho, the main partners  include  church  organisations,  the  private  sector,  NGOs,  CBOs,  traditional  leadership, communities,  parents,  and  learners  themselves.  Included  among  stakeholders  are  development cooperating  partners  that  shall  be  called  upon  not  only  to  provide  complementary  financial resources but also technical assistance so that most, if not all the EFA goals are achieved by 2015.
+The third target regards learning achievement, which emphasizes the need to focus on well-defined learning accomplishments as a major outcome of the education process. In this Strategic Plan, this principle is strongly linked to relevance, effectiveness and efficiency which, together, help to define the quality aspects of education. Lastly, the issue of partnerships has emerged as an important consideration in educational service provision and is deriving its significance from the EFA and MDGs principles. As resources at the disposal of the Government dwindle against a tide of competing demands, the need to invite other providers to educational services is no longer just an option; it is an imperative. Partnerships and alliances in service provision are also founded on the principles of democracy and inclusiveness that call for the direct involvement of both providers of, and beneficiaries from, the education system not only in meeting the cost of provision but also in directly participating in decision-making processes. For Lesotho, the main partners include church organisations, the private sector, NGOs, CBOs, traditional leadership, communities, parents, and learners themselves. Included among stakeholders are development cooperating partners that shall be called upon not only to provide complementary financial resources but also technical assistance so that most, if not all the EFA goals are achieved by 2015.
 
-The Millennium Development Goals have also set important targets that call upon the Lesotho's education  sector  to  respond  The  MDGs  Eradicate  extreme  poverty  and  hunger ; Achieve Universal Primary Education ;  MDG Promote gender equality ; combat HIV/AIDS, malaria and other diseases -  all  set  performance targets that are either directly related to educational service provision  or  the  educational  sector  is  indirectly  expected  to  play  an  important  facilitative  role. The achievement of universal primary education, for example, does set targets that are related to the EFA goals and, in this sense, also sets the tempo for Lesotho in this area of intervention.
+The Millennium Development Goals have also set important targets that call upon the Lesotho's education sector to respond The MDGs - Eradicate extreme poverty and hunger; Achieve Universal Primary Education; MDG Promote gender equality; combat HIV/AIDS, malaria and other diseases - all set performance targets that are either directly related to educational service provision or the educational sector is indirectly expected to play an important facilitative role. The achievement of universal primary education, for example, does set targets that are related to the EFA goals and, in this sense, also sets the tempo for Lesotho in this area of intervention.
 
 It is noteworthy that a number of important initiatives have been taken at the national level that, like at the international initiatives, significantly influenced the Government's current policies and strategies  in  the  educational  sector.  At  the  apex  of  the  national  drive  is  the  Constitution  that stipulates,  inter  alia,  that  Lesotho  shall  endeavour  to  make  education  available  to  all  and  shall adopt policies aimed at ensuring that:
 
@@ -903,7 +973,7 @@ Upgrading/establishing  educational  and  training  institutions;  create  resea
 
 Provide  effective  research  for  application  of  science  and  modern  technology; allocate  sufficient  resources  for  research  and  development  (R&D);  allocate resources  for  implementation  of  ICT  programme  for  schools  and  health institutions; promote IT applications; use IT to ensure information rich society.
 
-Similarly, the Poverty Reduction Strategy Paper reiterates the Government's commitment to the development  of  the  human  resource  base,  again  deriving  encouragement  from  the  EFA  and MDGs. In the PRSP, it is stated that the 'Government is convinced that investment in appropriate education  is  the  single  most  important  contribution  that  it  can  make  to  the  long-term  socioeconomic development of the country. For this reason the education budget remains the highest of all ministries, and is set to grow over the next three years.' The PRS sets five key objectives to be achieved over the period 2004/05 -2006/09, all of which are in line with the EFA targets, namely:
+Similarly, the Poverty Reduction Strategy Paper reiterates the Government's commitment to the development of the human resource base, again deriving encouragement from the EFA and MDGs. In the PRSP, it is stated that the 'Government is convinced that investment in appropriate education is the single most important contribution that it can make to the long-term socio-economic development of the country. For this reason the education budget remains the highest of all ministries, and is set to grow over the next three years.' The PRS sets five key objectives to be achieved over the period 2004/05 -2006/09, all of which are in line with the EFA targets, namely:
 
 - expand and promote Early Childhood Care and Development (IECCD);
 
@@ -1090,7 +1160,7 @@ ________________________________________________________________________
 
 #### 3.1 Situation analysis
 
-The period of early childhood is between 0 to 6 years of age and is the time of greatest growth and  development  when  the  brain  develops  most  rapidly;  a  period  when  walking,  talking,  selfesteem,  vision  of  the  world  and  moral  foundations  are  developed.  Care,  as  an  element  of Integrated  Early  Childhood  Care  and  Development  (IECCD),  refers  to  a  set  of  practices  and actions that are provided by caregivers (families, communities, and services institutions) in order to  ensure  the  child's  survival,  growth  and  development.  It  is  the  sum  of  the  requisite  enabling environment that promotes intellectual, spiritual, and psychosocial development of the child. It incorporates  the  development  of  life  skills  in  children,  and  involves  care  at  home  and  outside home where different activities and practices are undertaken  according to the different ages of children.  It also includes the early detection of disabilities that may necessitate early intervention.
+The period of early childhood is between 0 to 6 years of age and is the time of greatest growth and development when the brain develops most rapidly; a period when walking, talking, self-esteem, vision of the world and moral foundations are developed. Care, as an element of Integrated Early Childhood Care and Development (IECCD), refers to a set of practices and actions that are provided by caregivers (families, communities, and services institutions) in order to ensure the child's survival, growth and development. It is the sum of the requisite enabling environment that promotes intellectual, spiritual, and psychosocial development of the child. It incorporates the development of life skills in children, and involves care at home and outside home where different activities and practices are undertaken according to the different ages of children. It also includes the early detection of disabilities that may necessitate early intervention.
 
 The  rationale  for  including  IECCD  as  an  integral  part  of  the  pre-schooling  process  is  clearly evident.  The  early  years  of  life  are  critical  to  the  development  of  intelligence,  personality  and social behaviour. Research on brain development attests to the fact that if key mental, physical and  social  capabilities  are  not  well  developed  from  the  start,  and  especially  if  neurological damage occurs, the learning potential is adversely affected. The child's growth and development is influenced by a combination of interrelated factors that constitute the overall environment and the basic needs of the child have to be met by ensuring appropriate nutrition, good health, and a loving  and  secure  learning  atmosphere.  This  calls  for  integrated  comprehensive  actions  and interactions between the family, the schools, health centres, and the community. The Government of  Lesotho  recognizes  the  importance  of  the  early  years  of  life  as  a  foundation  for  human development  and  lifelong  learning.  The  1991/92-1995/96  Education  Sector  Development  Plan stipulated  that  all  children  from  2  to  6  years  of  age  should  have  access  to  integrated  early childhood education by the year 2000, a target that was not reached. The Government of Lesotho remains committed to supporting IECCD providers, especially for the pre-school years from 2 to 6 years.
 
@@ -1134,6 +1204,7 @@ ________________________________________________________________________
 
 The  population  of  children  aged  3-5  years,  which  is  the  official  age  at  IECCD  Centres,  was estimated  at  slightly  over  147,000  in  2002  of  which  41,469  were  enrolled  in  different  IECCD centres as illustrated in Table-2 below. The total number of children enrolled in IECCD centres increased  from  30,540  IN  2000  to  41,469  in  2002 13 .,  an  increase  of  35.8%.  Furthermore,  the number of IECCD centres declined from 2219 in 2000 to 1856 in  2002 (a decline of 16.4%). Female enrolments were slightly higher than males in only 2000. In subsequent years, there was a higher male than female enrolment. the number of teachers also increased by 23.1%, from 1,636 in 2000 to 2,041 in 2002. It is noteworthy that there are still many centres in Lesotho that are not registered with IECCD. In an attempt to increase access, the Ministry, through its IECCD Unit, embarked on testing a home-based approach in 2002 with a total of 439 children. While it is clear that home-based care opens opportunities to the poorest children, its sustainability is still to be proven.
 
+TABLE 2: IECCD ENROLMENTS BY SEX, CENTRES AND TEACHERS 2000-2002
 IECCD Enrolments | 2000 | 2001 | 2002
 --- | --- | --- | ---
 Total | 30,540 | 34,507 | 41,469
@@ -1143,8 +1214,6 @@ Females | 15,324 | 17,223 | 19949
 No. of Centres | 2219 | 1888 | 1856
 Teachers | 1636 | 2309 | 2041
 Child: Teacher ratio | 19 | 15 | 20
-
-TABLE 2: IECCD ENROLMENTS BY SEX, CENTRES AND TEACHERS 2000-2002
 
 Source : Ministry of Education and Training, Lesotho's Education Statistics Bulletin, 1999-2003,
 
@@ -1196,7 +1265,7 @@ In the light of the above, the following are the critical challenges during the 
 
 #### 3.4 Objectives and Strategies
 
-The  IECCD  programmes  will  involve  a  massive  mobilisation  at  the  national  level,  and  will include educating parents, families and communities about the holistic view of child development. Centre and home-based  sustainable approaches will be included and will accommodate  flexible  options  for  IECCD.  Particular  emphasis  will  be  placed  on  the  most deprived and underprivileged children, i.e. those living in difficult socio-economic conditions and at risk and OVCs. A National Early Childhood Care and Development Council will be formed by the  Government  to  coordinate  the  work  of  IECCD.  It  will  have  a  wide  representation  of  all stakeholders at national and local levels. The strategies shall be built on a comprehensive, multidimensional approach, including health, nutrition, education and psychosocial elements. They are as follows:
+The IECCD programmes will involve a massive mobilisation at the national level, and will include educating parents, families and communities about the holistic view of child development. Centre and home-based sustainable approaches will be included and will accommodate flexible options for IECCD. Particular emphasis will be placed on the most deprived and underprivileged children, i.e. those living in difficult socio-economic conditions and at risk and OVCs. A National Early Childhood Care and Development Council will be formed by the Government to coordinate the work of IECCD. It will have a wide representation of all stakeholders at national and local levels. The strategies shall be built on a comprehensive, multi-dimensional approach, including health, nutrition, education and psychosocial elements. They are as follows:
 
 32
 
@@ -1208,7 +1277,7 @@ The  IECCD  programmes  will  involve  a  massive  mobilisation  at  the  nation
 
 ________________________________________________________________________
 
-- The role of the Government in IECCD direct involvement shall be maintained at the bearable minimum  and shall largely be facilitative rather than direct provisioning. This shall entail the need for capacity building and empowerment of stakeholders through training and upgrading of knowledge and skills (i.e. through using IECCD directory of human resources, certification of trainees, accreditation of training centres, decentralisation of resource centres, M&E  of  training programmes, establishing  a  body  for  coordination  of  training  efforts,  pre-and  inservice training by LCE and NUL, in-service training by IECCD workshops).
+- The role of the Government in IECCD direct involvement shall be maintained at the bearable minimum and shall largely be facilitative rather than direct provisioning. This shall entail the need for capacity building and empowerment of stakeholders through training and upgrading of knowledge and skills (i.e. through using IECCD directory of human resources, certification of trainees, accreditation of training centres, decentralisation of resource centres, M&E of training programmes, establishing a body for coordination of training efforts, pre-and in-service training by LCE and NUL, in-service training by IECCD workshops).
 
 - Social  mobilisation  and  advocacy  with  all  stakeholders  for  effective  participation and  support  of  the  IECCD  programme  and  inclusion  of  all  children,  especially those orphaned by HIV/AIDS.
 
@@ -1237,10 +1306,10 @@ The matrix below highlights the planned activities during period 2005-2015.
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 --- | --- | --- | ---
 1. Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children | 1.1 To provide policy guidelines and minimum standard for an effective nationwide IECCD programme | 1.1 IECCD Policy approved by 2006 | 1. Secure the approval of the IECCD policy
-1.2 To expand and promote IECCD | 2.1 40% IECCD NER for 3-6 age group attained by 2007 and 70% by 2015 | 1. Increase government resource allocations to IECCD
-2. Expand IECCD complimentary approaches countrywide
-2.2 Attach pre-schools to at least all existing | 1. Streamline the Child Development Centres registration process
-GOL / Community primary schools by 2007 and all primary schools by 2015 | 2. Provide support for pre-schools attached to existing GOL / Community primary school
+ | 1.2 To expand and promote IECCD | 2.1 40% IECCD NER for 3-6 age group attained by 2007 and 70% by 2015 | 1. Increase government resource allocations to IECCD
+ | | | 2. Expand IECCD complimentary approaches countrywide
+ | | 2.2 Attach pre-schools to at least all existing GOL / Community primary schools by 2007 and all primary schools by 2015 | 1. Streamline the Child Development Centres registration process
+ | | | 2. Provide support for pre-schools attached to existing GOL / Community primary school
 
 33
 
@@ -1252,25 +1321,25 @@ GOL / Community primary schools by 2007 and all primary schools by 2015 | 2. Pro
 
 ________________________________________________________________________
 
-1.3 To provide equitable access to IECCD facilities | 3.1 70% IECCD access by disadvantaged groups, including orphaned and vulnerable children (OVCs) attained by 2015 3.2 Provide 100% equitable access to IECCD facilities by | 1. Provide subsidy to all OVCs from needy families, as well as to children with mental disability
---- | --- | ---
-2. Strive to attain inclusive access to IECCD by expanding opportunities in the less covered areas, particularly those in the disadvantaged mountain regions 3. Ensure the integration of children with special educational needs, including
-4. Develop and run programmes for children with special talents
-2. Improve the quality of IECCD | 2.1.1 Significant child achievement rates attained by 2015 | 1. Undertake studies on improving child performance under IECCD and take
-programmes. | appropriate measures
-2. Expose caregivers/facilitators to training opportunities that are offered regionally and internationally
-2.1.2 Significantly improved IECCD curriculum by 2015 | 3. Train all unqualified IECCD facilitators
-1. Develop inclusive integrated curriculum
-2. Develop Teachers' Guides
-Ndebele, Baphuthi, etc.) 4. Translate policy document into Sesotho 5. Introduce e-schooling in IECCD
-6. Attend to the health aspects of the child, including children with
-disabilities
-2.2. To increase the planning and management capacity of IECCD at the headquarters and districts | 2.2.1 A better managed and decentralised IECCD programme achieved by 2015 | 1. Monitor and coordinate implementation of IECCD Policy
-2. Transfer the function of IECCD curriculum development to NCDC
-3. Enhance the human resource base of the IECCD Department and at the district level.
-2.2.2 Participation of stakeholders in IECCD significantly increased | 1. Run countrywide IECCD advocacy workshops at community levels
-2.2.3 IECCD planning and management functions streamlined by 2015 | 1. Incorporate statistical data on child care and development into annual educational statistical data
-2. Develop enrolment indicators and train caregivers and field staff on how to capture these indicators
+ | 1.3 To provide equitable access to IECCD facilities | 3.1 70% IECCD access by disadvantaged groups, including orphaned and vulnerable children (OVCs) attained by 2015; 3.2 Provide 100% equitable access to IECCD facilities by 2015 | 1. Provide subsidy to all OVCs from needy families, as well as to children with mental disability
+ | | | 2. Strive to attain inclusive access to IECCD by expanding opportunities in the less covered areas, particularly those in the disadvantaged mountain regions
+ | | | 3. Ensure the integration of children with special educational needs, including OVCs in IECCD programmes
+ | | | 4. Develop and run programmes for children with special talents
+2. Improve the quality of IECCD programmes. | 2.1. To improve the quality of IECCD programme | 2.1.1 Significant child achievement rates attained by 2015 | 1. Undertake studies on improving child performance under IECCD and take appropriate measures
+ | | | 2. Expose caregivers/facilitators to training opportunities that are offered regionally and internationally
+ | | | 3. Train all unqualified IECCD facilitators
+ | | 2.1.2 Significantly improved IECCD curriculum by 2015 | 1. Develop inclusive integrated curriculum
+ | | | 2. Develop Teachers' Guides
+ | | | 3. Produce and procure materials for children of minority (e.g. Xhosa, Ndebele, Baphuthi, etc.)
+ | | | 4. Translate policy document into Sesotho
+ | | | 5. Introduce e-schooling in IECCD
+ | | | 6. Attend to the health aspects of the child, including children with disabilities
+ | 2.2. To increase the planning and management capacity of IECCD at the headquarters and districts | 2.2.1 A better managed and decentralised IECCD programme achieved by 2015 | 1. Monitor and coordinate implementation of IECCD Policy
+ | | | 2. Transfer the function of IECCD curriculum development to NCDC
+ | | | 3. Enhance the human resource base of the IECCD Department and at the district level.
+ | | 2.2.2 Participation of stakeholders in IECCD significantly increased | 1. Run countrywide IECCD advocacy workshops at community levels
+ | | 2.2.3 IECCD planning and management functions streamlined by 2015 | 1. Incorporate statistical data on child care and development into annual educational statistical data
+ | | | 2. Develop enrolment indicators and train caregivers and field staff on how to capture these indicators
 
 34
 
@@ -1461,13 +1530,14 @@ ________________________________________________________________________
 
 It should be noted that the costing structure assumes that government will not provide IECCD per se, bar for the addition of IECCD centres to some schools, and the support through the Unit in the MOET through training of IECCD providers and subsidies to needy children. The operating costs for  IECCD  which  include  some  incentives  for  schools  to  attach  pre-school  centres  have  been introduced  from  the  2005/06  financial  year  and  will  be  gradually  increased  through  the  plan period. This not withstanding, there will be a 70% funding gap in 2005/06 going down to about 52% towards the end of  the  plan  period  as  shown  in  Table-3.  This  excludes  inputs  of  private players  and  cost-sharing  contributions.  The  capital  allocation  for  this  programme  goes  mainly towards development of curricular materials, research and expansion of services to disadvantaged groups. The cost for training integrated early childhood care givers is incorporated in the teacher development component.
 
-2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
+Table 3: Full cost of education provision under the strategic plan on IECCD (in M1000)
+ | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
-Recurrent Costs
+Recurrent Costs | | | | | |
 Manpower Costs | 2,500 | 3,500 | 4,500 | 5,500 | 6,500 | 7,500
 Operating Costs | 5,000 | 5,500 | 6,000 | 6,500 | 7,000 | 7,500
 Other Recurrent Costs | 50 | 60 | 70 | 80 | 90 | 100
-Capital costs
+Capital costs | | | | | |
 Expansion of existing and establishment of new ECCD centres | 3,000 | 4,000 | 5,000 | 6,000 | 7,000 | 8,000
 Surveys, Teaching and learning materials | 300 | 400 | 500 | 600 | 700 | 800
 Subsidies to OVCs, children from needy families and children with special needs | 40,000 | 50,000 | 60,000 | 70,000 | 80,000 | 90,000
@@ -1478,8 +1548,6 @@ Available GOL Capital resources | 549 | 739 | 681 | 750 | 825 | 907
 Funding Gap | 47,639 | 58,320 | 67,841 | 79,250 | 90,481 | 101,507
 % of ESSP Funding | 6 | 8 | 11 | 11 | 11 | 11
 % of Funding Gap | 94 | 92 | 89 | 89 | 89 | 89
-
-Table 3: Full cost of education provision under the strategic plan on IECCD (in M1000)
 
 39
 
@@ -1503,6 +1571,7 @@ Basic  education  is  defined  to  cover  ten  years  of  continuous  learning  
 
 Enrolment rates are among the important indicators that offer a picture on the degree to which the education system is meeting demand. For the period 1974-1994, the number of primary schools as well as pupils increased on a consistent basis. The economic difficulties from the mid 1990s resulted in significant declines in enrolment. The introduction of Free Primary Education (FPE) in 2000, starting with Grade 1, resulted in a dramatic rise in intake and overall enrolment, which increased from 364,951 in 1999 to 410,745 in 2000; a rise of 12.5 percent.  Much of the increase was due to increased intake in grade 1.  Enrolment continued to increase in 2001, 2002 and 2003 though at a much slower rate than expected.  Table 4 shows the actual number of boys and girls that were enrolled in primary school over the period 1999-2003. The increase in the number of schools was  mainly  due  to the  establishment  of  new  community-based  schools  by  the Government under FPE
 
+Table 4: Enrolment Numbers and Primary School (Boys, Girls), 1999-2003
 Primary Enrolments | 1999 | 2000 | 2001 | 2002 | 2003
 --- | --- | --- | --- | --- | ---
 Total | 364,951 | 410,745 | 415,007 | 418,668 | 429,720
@@ -1510,8 +1579,6 @@ Males | 176,365 | 202,760 | 206,665 | 209,024 | 214,746
 Females | 188,586 | 207,985 | 208,342 | 209,644 | 214,974
 Number of schools | 1,272 | 1,283 | 1, 295 | 1, 333 | 1,355
 % Change in enrolments | -1.3 | 12.5 | 1.1 | 0.9 | 2.6
-
-Table 4:  Enrolment Numbers and Primary School (Boys, Girls), 1999-2003
 
 Source : Ministry of Education and Training, Lesotho's
 
@@ -1529,29 +1596,27 @@ As a result of FPE there has been a growth in both the Net Enrolment Rate (NER) 
 
 ________________________________________________________________________
 
-Years | Gross Enrolment | Net Enrolment | Pupil Teacher Ratio | Apparent Intake Rate (AIR) | Net Intake Rate (NIR)
+Table 5: Key Access Indicators for Primary Education 1999-2003
+Years | Gross Enrolment | | | Net Enrolment | | | Pupil Teacher Ratio | Apparent Intake Rate (AIR) | | | Net Intake Rate (NIR) | |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Males | Females | Total | Males | Females | Total | Male | Female | Total | Male | Female | Total
+ | Males | Females | Total | Males | Females | Total | | Male | Female | Total | Male | Female | Total
 1999 | 102.3 | 110.7 | 106.5 | 56.6 | 63.8 | 60.2 | 44.4 | 103.9 | 105.0 | 104.5 | 26.8 | 28.3 | 27.5
 2000 | 118.1 | 122.6 | 120.3 | 78.7 | 85.3 | 82.0 | 47.9 | 210.9 | 190.8 | 200.9 | 26.8 | 26.8 | 26.8
 2001 | 120.6 | 123.2 | 121.9 | 79.5 | 85.4 | 82.7 | 47.4 | 150.0 | 134.0 | 142.1 | 63.2 | 63.2 | 63.2
 2002 | 122.7 | 124.9 | 123.8 | 81.1 | 87.0 | 84.0 | 47.0 | 129.2 | 121.0 | 125.1 | 61.7 | 61.7 | 61.7
 2003 | 128.3 | 125.9 | 124.9 | 82.0 | 88.1 | 85.0 | 46.2 | 124.9 | 118.0 | 121.5 | 60.2 | 60.2 | 60.2
 
-Table 5: Key Access Indicators for Primary Education 1999-2003
-
 Source : Ministry of Education and Training, Lesotho's
 
 Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
 
-Promotion Rate | Repetition Rate | Dropout Rate | Completion Rate
+Table 6: Primary Efficiency Indicators 1999 - 2002
+ | Promotion Rate | | | | Repetition Rate | | | | Dropout Rate | | | | Completion Rate | | |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Year | '99 | '00 | '01 | '02 | '99 | '00 | '01 | '02 | '99 | '00 | '01 | '02 | '99 | '00 | '01 | '02
-Male | 69.5 | 71.3 | 70.9 | - | 21.8 | 20.7 | 21.6 | 24.1 | 8.6 | 7.9 | 7.4 | 6.4
-Female | 76.4 | 77.8 | 78.3 | - | 16.8 | 16.4 | 17.4 | 18.7 | 5.5 | 6.6 | 4.2 | 3.2
+Male | 69.5 | 71.3 | 70.9 | - | 21.8 | 20.7 | 21.6 | 24.1 | 8.6 | 7.9 | 7.4 | 6.4 | | | |
+Female | 76.4 | 77.8 | 78.3 | - | 16.8 | 16.4 | 17.4 | 18.7 | 5.5 | 6.6 | 4.2 | 3.2 | | | |
 Total | 73.0 | 74.6 | 74.6 | 76.5 | 19.3 | 18.6 | 18.5 | 21.4 | 7.1 | 7.3 | 5.8 | 4.8 | 59.3 | 66 | 64.5 | 57.5
-
-Table 6: Primary Efficiency Indicators 1999 - 2002
 
 Source
 
@@ -1575,16 +1640,15 @@ ________________________________________________________________________
 
 The MOET has committed itself to improving the quality of primary education through upgrading of teacher qualifications to at least diploma level. Table 7 shows the increase in the number of unqualified primary school teachers since 1999 as result of an ever-escalating demand for more teaching personnel to fill in new positions and vacancies from retirement and death. The output of trained teachers from the Lesotho College of Education has not been able to keep up with this ever  increasing  need  for  qualified  teachers.  Gender  disparities  are  also  observed  within  the primary school teaching personnel.  In 2003, nearly four out every five teachers were females.
 
-Degree | Certificate & Diploma | Unqualified | Total
+TABLE 7: TEACHERS IN PRIMARY SCHOOLS BY QUALIFICATION AND SEX, 1999-2003
+ | Degree | | Certificate & Diploma | | Unqualified | | Total |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Males | Females | Males | Females | Males | Females | Males | Females
+ | Males | Females | Males | Females | Males | Females | Males | Females
 1999 | 253 | 1549 | 854 | 3760 | 523 | 1286 | 1630 | 6595
 2000 | 240 | 1571 | 807 | 3744 | 653 | 1563 | 1700 | 6878
 2001 | 239 | 1578 | 824 | 3917 | 683 | 1521 | 1746 | 7016
 2002 | 229 | 1517 | 828 | 3892 | 746 | 1696 | 1803 | 7105
 2003 | 229 | 1514 | 783 | 3733 | 924 | 2111 | 1936 | 7358
-
-TABLE 7: TEACHERS IN PRIMARY SCHOOLS BY QUALIFICATION AND SEX,   1999-2003
 
 Source : Ministry of Education and Training, Lesotho's Education Statistics Bulletin, 1999-2003,
 
@@ -1700,7 +1764,7 @@ To  achieve  the  set  objectives,  the  Ministry  shall  continue,  in  a  more
 
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-. Secure increased access through the provision of free, compulsory basic | 1.1 To achieve Universal and equitable Basic Education | 1.1.1 NER in basic education increased from 85% in 2003 to 90% by 2007 and 100% by 2015 1.1.2 Reduce the PCR from 65:1 in 2003 to 55:1 in 2007 and to 40:1 to 2015 | 1. Expand the Free Primary Education Programme to Universal Basic Education 2. Construct additional classrooms and schools and renovate existing classrooms 3. Enacting of law on Compulsory Basic Education
+1. Secure increased access through the provision of free, compulsory basic | 1.1 To achieve Universal and equitable Basic Education | 1.1.1 NER in basic education increased from 85% in 2003 to 90% by 2007 and 100% by 2015 1.1.2 Reduce the PCR from 65:1 in 2003 to 55:1 in 2007 and to 40:1 to 2015 | 1. Expand the Free Primary Education Programme to Universal Basic Education 2. Construct additional classrooms and schools and renovate existing classrooms 3. Enacting of law on Compulsory Basic Education
 
 44
 
@@ -1714,13 +1778,11 @@ ________________________________________________________________________
 
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-education on equitable basis | 1.1.3 Reduce numbers of pupils per qualified teacher from 69:1 in 2003 to 60 in 2009 and to 40 in 2015 1.1.4 Transition rate from primary to secondary increased from 73% in 2003 to 78% in 2007, to 100% by 2015 1.1.5 Lower Secondary education gross enrolment increased from 34.5% in 2003 to 60% in 2007, 85 in 2015 1.1.6 Average walking time to schools reduced to less than one hour by 2015 | 4. Community campaigns on Education For All, urging people to ensure that all school-going age children are enrolled and retained in schools 5. Increase output from pre-service and distance teacher education programmes
-1.2 Equitable access to basic education | 1.2.1 Gender parity achieved in primary education by 2007, in secondary education by 2009. 1.2.2 Geographic disparities in access to basic education reduced to 5% variance by 2007 and 1% variance by | 1. Develop policy guidelines on inclusive education that provides for the integration of learners with special needs, OVCs, indigenous language minorities and religious minorities. 1. Specifically target enrolments of children with special needs,
-2. Provision of quality basic education | 2.1 To improve the quality of basic education to ensure opportunity for excellence and achievement of measurable learning outcomes | 2005 2.1.1 All pupils in primary provided with basic stationery. 2.1.2 All learners in primary and junior secondary provided with textbooks for core subjects by 2007 and for all subjects by 2015 | 1. Provide gender responsive and relevant teaching and learning materials for quality basic education
-2. Provide textbooks through the Textbook Rental Scheme
-2.1.3 Policy on repetition and transition developed and operational by 2007 | 3. Develop, disseminate and enforce a policy on repetition and transition in all public basic schools
-2.1.2 Reduce pupil teacher ratio from 46 in 2003 to 41 in 2007 and to 40 by 2015. | 4. Create additional teaching positions to cater for increased enrolments
-2.1.3 A review of basic education curriculum completed by 2007 and fully operational by 2015 2.1.4 Average scores of | 1. Review basic education curriculum and integrate practical/technical subjects into the school programmes
+education on equitable basis | | 1.1.3 Reduce numbers of pupils per qualified teacher from 69:1 in 2003 to 60 in 2009 and to 40 in 2015; 1.1.4 Transition rate from primary to secondary increased from 73% in 2003 to 78% in 2007, to 100% by 2015; 1.1.5 Lower Secondary education gross enrolment increased from 34.5% in 2003 to 60% in 2007, 85 in 2015; 1.1.6 Average walking time to schools reduced to less than one hour by 2015 | 4. Community campaigns on Education For All, urging people to ensure that all school-going age children are enrolled and retained in schools; 5. Increase output from pre-service and distance teacher education programmes
+ | 1.2 Equitable access to basic education | 1.2.1 Gender parity achieved in primary education by 2007, in secondary education by 2009. 1.2.2 Geographic disparities in access to basic education reduced to 5% variance by 2007 and 1% variance by 2005 | 1. Develop policy guidelines on inclusive education that provides for the integration of learners with special needs, OVCs, indigenous language minorities and religious minorities. 1. Specifically target enrolments of children with special needs, OVCs and minorities.
+2. Provision of quality basic education | 2.1 To improve the quality of basic education to ensure opportunity for excellence and achievement of measurable learning outcomes | 2.1.1 All pupils in primary provided with basic stationery. 2.1.2 All learners in primary and junior secondary provided with textbooks for core subjects by 2007 and for all subjects by 2015; 2.1.3 Policy on repetition and transition developed and operational by 2007 | 1. Provide gender responsive and relevant teaching and learning materials for quality basic education; 2. Provide textbooks through the Textbook Rental Scheme; 3. Develop, disseminate and enforce a policy on repetition and transition in all public basic schools
+ | | 2.1.2 Reduce pupil teacher ratio from 46 in 2003 to 41 in 2007 and to 40 by 2015. | 4. Create additional teaching positions to cater for increased enrolments
+ | | 2.1.3 A review of basic education curriculum completed by 2007 and fully operational by 2015; 2.1.4 Average scores of | 1. Review basic education curriculum and integrate practical/technical subjects into the school programmes
 
 45
 
@@ -1734,16 +1796,10 @@ ________________________________________________________________________
 
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-national achievement tests in primary (3&6) Maths, English and Sesotho improved by at least 15% by 2015 2.1.5 Learning achievement for basic education improved to 50% in 2009 | 2. Periodically review basic education curricula to ascertain relevance to evolving societal needs, including the requirements of children with mental and physical disabilities
-and 70% by 2015. 2.1.6 Performance in | 3. Provide relevant teaching and learning materials for quality basic education
-further 40% by 2015 2.1.3 A review of teacher education curriculum completed by 2007 and fully operational by 2015 | 1. Review of teacher-training curricula to incorporate life long skills and technical and vocational elements in basic education
-2. Provide curriculum delivery tools that ensure mastery of literacy and numeracy skills in the first two years of basic education
-3. Review and develop instructional materials that are responsive to changing technological needs of the country
-2.1.4 Modes of assessment that ensure the human, practical and vocational relevance of basic education put in place by 2015 | 1. Develop and implement an assessment policy for practical and vocational components of the basic education curriculum
-2. Develop and implement an assessment policy for practical and vocational components of the basic education curriculum
-3. Develop and enforce implementation of a policy on continuous assessment of learners in all public schools
-2.1.5 Quality assurance systems and processes in place by 2009 and fully operational by 2015 | 1. Undertake regular, purposeful supervision and inspection of schools to ensure quality education delivery
-2. Provide quality pre-service education for teachers at basic education level in line with the demand for teachers on established pupil teacher ratios
+ | | national achievement tests in primary (3&6) Maths, English and Sesotho improved by at least 15% by 2015; 2.1.5 Learning achievement for basic education improved to 50% in 2009 and 70% by 2015. 2.1.6 Performance in national achievement tests improved by 20%, on average, by 2009 and by a further 40% by 2015 | 2. Periodically review basic education curricula to ascertain relevance to evolving societal needs, including the requirements of children with mental and physical disabilities; 3. Provide relevant teaching and learning materials for quality basic education
+ | | 2.1.3 A review of teacher education curriculum completed by 2007 and fully operational by 2015 | 1. Review of teacher-training curricula to incorporate life long skills and technical and vocational elements in basic education; 2. Provide curriculum delivery tools that ensure mastery of literacy and numeracy skills in the first two years of basic education; 3. Review and develop instructional materials that are responsive to changing technological needs of the country
+ | | 2.1.4 Modes of assessment that ensure the human, practical and vocational relevance of basic education put in place by 2015 | 1. Develop and implement an assessment policy for practical and vocational components of the basic education curriculum; 2. Develop and implement an assessment policy for practical and vocational components of the basic education curriculum; 3. Develop and enforce implementation of a policy on continuous assessment of learners in all public schools
+ | | 2.1.5 Quality assurance systems and processes in place by 2009 and fully operational by 2015 | 1. Undertake regular, purposeful supervision and inspection of schools to ensure quality education delivery; 2. Provide quality pre-service education for teachers at basic education level in line with the demand for teachers on established pupil teacher ratios
 
 46
 
@@ -1762,7 +1818,7 @@ STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS/INDICATORS | ACTIVITIE
 2. Build management capacity at school level
 3. Develop infrastructure at district and local level to support decentralised management
 4. Expand, strengthen and decentralize school supervision and support services.
-5. Promote a culture of research information capturing, analysis and sharing to inform decision- making and policy formulation
+5. Promote a culture of research information capturing, analysis and sharing to inform decision-making and policy formulation
 3.1.2 Well developed local level education management systems in all basic schools in place by 2015 | 1. Increase the management capacity at district and local level for improved efficiency in service delivery for basic education
 2. Empower district and local government structures for greater decision-making on basic education issues
 3. Build management capacity at school level
@@ -1782,19 +1838,10 @@ ________________________________________________________________________
 
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-3.1.3 Efficiency gains in service provision in place by 2015 | 1. Institutionalise Multi-grade teaching approach where necessary and appropriate
-2. Provide regulations to guide promotion and transition to reduce repetition and dropout.
-3. Optimise the use of existing facilities in educational
-4. maximise teacher class contact time
-3.2 To improve pupil/student performance | 3.2.1 Overall, average performance in national achievement test at primary level in Math and | 1. Develop, disseminate and enforce a policy on repetition and transition in all public basic schools.
-Languages improved significantly by 2015. | 2. Support and develop approaches for teaching and learning Math and languages
-3.3 To secure a healthy and environmentally hospitable school conditions | 3.3.1 Infrastructure, health, sporting and recreational facilities improved significantly by 2015 | 1. Develop and implement a school health programme in all schools
-Review school supervision and management regulations to make them more protective of children's rights
-2. Provide amenities in schools such as safe drinking water, kitchens, and toilets
-3. Develop a national schools policy on sports
-4. Develop basic school facilities for sports and formalise linkages with the Ministry responsible for sports.
-4. Enhancement of partnership in basic education services provision | 4.1 To achieve expanded partnership among service providers | 4.1.1 Effective partnerships among all stakeholders in the basic education sub- sector in place by 2015 | 1. Empower parents and communities by increasing their active involvement in school management.
-2. Establish and run a national consultative forum for basic education development
+ | | 3.1.3 Efficiency gains in service provision in place by 2015 | 1. Institutionalise Multi-grade teaching approach where necessary and appropriate; 2. Provide regulations to guide promotion and transition to reduce repetition and dropout.; 3. Optimise the use of existing facilities in educational; 4. maximise teacher class contact time
+ | 3.2 To improve pupil/student performance | 3.2.1 Overall, average performance in national achievement test at primary level in Math and Languages improved significantly by 2015. | 1. Develop, disseminate and enforce a policy on repetition and transition in all public basic schools.; 2. Support and develop approaches for teaching and learning Math and languages
+ | 3.3 To secure a healthy and environmentally hospitable school conditions | 3.3.1 Infrastructure, health, sporting and recreational facilities improved significantly by 2015 | 1. Develop and implement a school health programme in all schools; Review school supervision and management regulations to make them more protective of children's rights; 2. Provide amenities in schools such as safe drinking water, kitchens, and toilets; 3. Develop a national schools policy on sports; 4. Develop basic school facilities for sports and formalise linkages with the Ministry responsible for sports.
+4. Enhancement of partnership in basic education services provision | 4.1 To achieve expanded partnership among service providers | 4.1.1 Effective partnerships among all stakeholders in the basic education sub-sector in place by 2015 | 1. Empower parents and communities by increasing their active involvement in school management.; 2. Establish and run a national consultative forum for basic education development
 
 48
 
@@ -1808,14 +1855,9 @@ ________________________________________________________________________
 
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS/INDICATORS | ACTIVITIES
 --- | --- | --- | ---
-3. Develop an education information and communication strategy 4. Rollout an information campaign to school communities on topical issues in education including gender sensitivity, environmental education, and citizenship education, population and family life education and school health
-5. Enhance the participation of NGOs and civil society in the provision, monitoring and assessment of basic education programmes
-5. Mainstream HIV and AIDS in basic education | 5.1 To significantly reduce HIV and AIDS prevalence levels among | 5.1.1 Significantly reduced HIV and AIDS prevalence levels by 2015 | 1. Infuse HIV and AIDS awareness in all aspects of school life
-2. Incorporate HIV and AIDS education in the school curriculum
-pupils/students and teachers at basic education level | 3. Conduct/Commission regular studies on the impact of HIV and AIDS on the basic education sub sector
-6. Mainstream gender in basic education | 6.1 To eliminate gender disparities in primary and secondary education and achieving gender equality in basic education by 2015. | 6.1.1 An education system that is free of gender disparities in place by 2015 | 1. Develop an education sector gender policy
-2. Ensure gender sensitivity of curricula content, teaching and learning materials in basic education and sensitise school communities on gender issues
-3. Monitor indicators on gender disparities on basic education on an annual basis
+ | | | 3. Develop an education information and communication strategy; 4. Rollout an information campaign to school communities on topical issues in education including gender sensitivity, environmental education, and citizenship education, population and family life education and school health; 5. Enhance the participation of NGOs and civil society in the provision, monitoring and assessment of basic education programmes
+5. Mainstream HIV and AIDS in basic education | 5.1 To significantly reduce HIV and AIDS prevalence levels among pupils/students and teachers at basic education level | 5.1.1 Significantly reduced HIV and AIDS prevalence levels by 2015 | 1. Infuse HIV and AIDS awareness in all aspects of school life; 2. Incorporate HIV and AIDS education in the school curriculum; 3. Conduct/Commission regular studies on the impact of HIV and AIDS on the basic education sub sector
+6. Mainstream gender in basic education | 6.1 To eliminate gender disparities in primary and secondary education and achieving gender equality in basic education by 2015. | 6.1.1 An education system that is free of gender disparities in place by 2015 | 1. Develop an education sector gender policy; 2. Ensure gender sensitivity of curricula content, teaching and learning materials in basic education and sensitise school communities on gender issues; 3. Monitor indicators on gender disparities on basic education on an annual basis
 
 #### 4.6 Strategic summary of activities
 
@@ -1961,49 +2003,48 @@ Table 8 shows trends from 1999 to 2003 and targets for 2007 and 20015 in levels 
 
 ________________________________________________________________________
 
-Primary Education Level | Targets
---- | --- | --- | --- | --- | --- | --- | --- | ---
-1999 | 2000 | 2001 | 2002 | 2003 | 2004 15 | 2007 | 2015
+Table 8: Key Benchmark Indicators for Basic Education 1999 - 2015
+
+Primary Education Level |  |  |  |  |  |  |  | Targets | 
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 15 | 2007 | 2015
 A. Access
 1. GER1
-Males | 102.3 | 118.1 | 120.6 | 122.7 | 123.8 | 126.2 | 115 | 100%
-Females | 110.7 | 122.6 | 123.2 | 124.9 | 125.9 | 127.0 | 115 | 100%
-Total | 106.5 | 120.3 | 121.9 | 123.8 | 124.9 | 126.6 | 115 | 100%
+ | Males | 102.3 | 118.1 | 120.6 | 122.7 | 123.8 | 126.2 | 115 | 100%
+ | Females | 110.7 | 122.6 | 123.2 | 124.9 | 125.9 | 127.0 | 115 | 100%
+ | Total | 106.5 | 120.3 | 121.9 | 123.8 | 124.9 | 126.6 | 115 | 100%
 2. NER1
-Males | 56.6 | 78.7 | 79.5 | 81.1 | 82 | 81 | 88% | 100%
-Females | 63.8 | 85.3 | 85.4 | 87 | 88.1 | 86 | 92% | 100%
-Total | 60.2 | 80.2 | 82.7 | 84 | 85 | 83 | 90% | 100%
+ | Males | 56.6 | 78.7 | 79.5 | 81.1 | 82 | 81 | 88% | 100%
+ | Females | 63.8 | 85.3 | 85.4 | 87 | 88.1 | 86 | 92% | 100%
+ | Total | 60.2 | 80.2 | 82.7 | 84 | 85 | 83 | 90% | 100%
 3. AIR1
-Males | 103.9 | 210.9 | 150.0 | 129.2 | 124.9 | 151.4 | 115% | 100%
-Females | 105.0 | 190.8 | 134.0 | 121.0 | 118.0 | 182.9 | 105 | 100%
-Total | 104.5 | 200.9 | 142.1 | 125.1 | 121.5 | 167.0 | 110 | 100
+ | Males | 103.9 | 210.9 | 150.0 | 129.2 | 124.9 | 151.4 | 115% | 100%
+ | Females | 105.0 | 190.8 | 134.0 | 121.0 | 118.0 | 182.9 | 105 | 100%
+ | Total | 104.5 | 200.9 | 142.1 | 125.1 | 121.5 | 167.0 | 110 | 100
 4. NIR1
-Males | 26.8 | 63.2 | 61.7 | 60.2 | 61.3 | 58.3
-Females | 39.4 | 65.1 | 62.8 | 62.5 | 63.0 | 60.2
-Total | 33.0 | 64.1 | 62.2 | 61.3 | 62.1 | 59.2 | 75 | 100
-1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2007 | 2015
+ | Males | 26.8 | 63.2 | 61.7 | 60.2 | 61.3 | 58.3 |  | 
+ | Females | 39.4 | 65.1 | 62.8 | 62.5 | 63.0 | 60.2 |  | 
+ | Total | 33.0 | 64.1 | 62.2 | 61.3 | 62.1 | 59.2 | 75 | 100
+ |  | 1999 | 2000 | 2001 | 2002 | 2003 | 2004 | 2007 | 2015
 B. Efficiency Rates
 1. Completion
-Total | 59.3 | 66 | 64.5 | 57.5 | 64.9 | 83% | 100%
+ | Total | 59.3 | 66 | 64.5 | 57.5 | 64.9 |  | 83% | 100%
 2. Repetitions
-Males | 22.8 | 23.2 | 22.6 | 24.1 | 25.3 | 20.7
-Females | 17.7 | 18.1 | 17.4 | 18.7 | 19.2 | 15.4
-Total | 20.1 | 20.6 | 19.9 | 21.4 | 22.3 | 18.0 | 14% | 7%
+ | Males | 22.8 | 23.2 | 22.6 | 24.1 | 25.3 | 20.7 |  | 
+ | Females | 17.7 | 18.1 | 17.4 | 18.7 | 19.2 | 15.4 |  | 
+ | Total | 20.1 | 20.6 | 19.9 | 21.4 | 22.3 | 18.0 | 14% | 7%
 3. Drop outs
-Males | 8.6 | 7.9 | 7.5 | 6.4
-Females | 5.5 | 6.6 | 4.2 | 3.2
-Total | 7.1 | 7.3 | 5.9 | 4.8 | 3% | 1%
-4. Transition rate (prim. - sec.) | - | - | 66.8 | 75.0 | 78.0 | 100
+ | Males | 8.6 | 7.9 | 7.5 | 6.4 |  |  |  | 
+ | Females | 5.5 | 6.6 | 4.2 | 3.2 |  |  |  | 
+ | Total | 7.1 | 7.3 | 5.9 | 4.8 |  |  | 3% | 1%
+4. Transition rate (prim. – sec.) |  | - | - | 66.8 | 75.0 |  |  | 78.0 | 100
 C. Quality Indicators
-a) Pupil: Teacher Ratio | 44 | 48 | 47 | 47 | 46 | 40 | 40
-b) Pupil: Qualified Teacher Ratio | 69 | 60 | 40
-Pupil :Classroom Ratio | 63 | 65 | 55 | 40
-d) National Performance Level in Numeracy | 49% | 55% | 80%
-at Grade 6 e) National Performance Level in | 58% | 65% | 90%
-Sesotho Literacy at Grade 6
-f) National Performance Level in English Literacy at Grade 6 | 45% | 50% | 85%
-
-Table 8: Key Benchmark Indicators for Basic Education 1999 - 2015
+a) Pupil: Teacher Ratio |  |  | 44 | 48 | 47 | 47 | 46 | 40 | 40
+b) Pupil: Qualified Teacher Ratio |  |  |  |  |  |  | 69 | 60 | 40
+c) Pupil :Classroom Ratio |  |  |  |  |  | 63 | 65 | 55 | 40
+d) National Performance Level in Numeracy at Grade 6 |  |  |  |  |  | 49% |  | 55% | 80%
+e) National Performance Level in Sesotho Literacy at Grade 6 |  |  |  |  |  | 58% |  | 65% | 90%
+f) National Performance Level in English Literacy at Grade 6 |  |  |  |  |  | 45% |  | 50% | 85%
 
 > 15 The 2004 figures are based on preliminary census analysis
 
@@ -2020,6 +2061,8 @@ ________________________________________________________________________
 #### 4.8 Costing for Basic Education
 
 The cost of education provision in this strategic area is approximately 65% funded over the first three  years  of  the  MTEF.  The  cost  of  increased  access  to  primary  and  junior  secondary  is  the major  contributor  to  additional  resource  requirements  even  with  target  reduced  repetition  and dropout rates. While the phased introduction of FPE has been the biggest contributor to increasing resource requirement since 2000, from 2007 increasing access to secondary education will be a major contributor. The highest cost item of increasing access to basic education is the personnel and infrastructure costs as shown in Table 9. The cost of improving teacher qualifications and, the cost of providing bursaries to vulnerable children in junior secondary are also major cost items. Besides teachers' salaries, the aggregated incremental cost of FPE (broken down in Table 10) is the biggest contributor to the basic education budget at 30% (see Table-4 in the Annex). Since the FPE budget covers a range of services managed under different programmes, some transaction costs related to FPE are borne right across the programmes of the education sector. Table 10 also shows that school feeding accounts for the biggest non-salary cost for primary education, though it is expected to decrease in real terms with anticipated increase in food security envisaged in the Poverty Reduction Strategy.
+
+Table 9: Full cost of education provision under the strategic plan on the Basic Education Budget (in M1000)
 
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -2044,8 +2087,6 @@ Funding Gap | 290,201 | 310,791 | 372,681 | 408,187 | 445,682 | 497,995
 % of ESSP Funding | 64 | 66 | 65 | 64 | 64 | 63
 % of Funding Gap | 36 | 34 | 35 | 36 | 36 | 37
 
-Table 9: Full cost of education provision under the strategic plan on the Basic Education Budget (in M1000)
-
 55
 
 [[END OF PAGE 56]]
@@ -2055,6 +2096,8 @@ Table 9: Full cost of education provision under the strategic plan on the Basic 
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+Table 10: Full Recurrent costs on Free Primary Education Provision under the Strategic Plan Budget (in M1000)
 
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -2075,8 +2118,6 @@ Funding Gap | 104,277 | 111,776 | 121,140 | 139,566 | 160,293 | 183,598
 % of ESSP Funding | 64.40 | 65.72 | 65.07 | 62.94 | 60.82 | 58.73
 % of Funding Gap | 35.60 | 34.28 | 34.93 | 37.06 | 39.18 | 41.27
 
-Table 10: Full Recurrent costs on Free Primary Education Provision under the Strategic Plan Budget (in M1000)
-
 56
 
 [[END OF PAGE 57]]
@@ -2086,6 +2127,10 @@ Table 10: Full Recurrent costs on Free Primary Education Provision under the Str
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+## Chapter 5
+
+### Secondary Education
 
 #### 5.1 Situation analysis
 
@@ -2104,19 +2149,15 @@ Total | 30833 | 41604 | 31537 | 41455 | 34226 | 43693 | 35467 | 45663 | 36621 | 
 
 Source : Ministry of Education and Training, Lesotho's Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
 
-On the demand side, it is noteworthy that the most important reasons for non-enrolment and nonattendance include the following:
+On the demand side, it is noteworthy that the most important reasons for non-enrolment and non-attendance include the following:
 
-- Cost of schooling
+a) Cost of schooling
 
-- Family commitments such as those pertaining to girls look after their siblings and boys looking after livestock.
+b) Family commitments such as those pertaining to girls look after their siblings and boys looking after livestock.
 
 > 16 Note that there are no separate High Schools in Lesotho that offer Forms D and E only, thus, making the separate treatment  of  basic  school  (Standard  1  up  to  Form  C)  and  high  school  (senior  secondary)  rather  difficult  and  often artificial. Thus, much of the generalizations and statistics regarding 'secondary school' education made in this section of the Strategic Plan often also cover junior secondary school which has already been treated earlier in Chapter Four on Basic  Education.  In  terms  of  management  structure,  MOET  is  still  organized  along  primary  and  secondary  school categorization with CEOs in charge of each one of the two levels. The Government is yet to harmonise the MOET structure to better accommodate the 'basic education' aspect.
 
 57
-
-## Chapter 5
-
-### Secondary Education
 
 [[END OF PAGE 58]]
 
@@ -2126,13 +2167,15 @@ On the demand side, it is noteworthy that the most important reasons for non-enr
 
 ________________________________________________________________________
 
-- Low or lack of income
+c) Low or lack of income
 
-- Weather (specifically in the Mountains)
+d) Weather (specifically in the Mountains)
 
 With HIV and AIDS pandemic, non-attendance by girls is expected to even go higher because they are expected to take up additional responsibilities in the household in terms of caring for the sick. It is worth noting that with deepening poverty in Lesotho, particularly in the rural areas as more Basotho men are retrenched from South African mines, many families can no longer afford to pay the fees demanded by schools. Although MOET provides bursaries for the needy students, particularly the orphans, limited resources restrict the number of beneficiaries.
 
 In  terms  of  the  human  resource  base,  the  number  of  secondary  school  teachers  has  increased consistently over the years, rising six-fold from 567 in 1974 to 3,384 in 2002.  At the same time, the  proportion  of  unqualified  teachers  in  secondary  schools  decreased  steadily  to  only  10.4 percent in 2002, down from 36.6 in 1974. It is equally noteworthy that secondary schools have generally been better catered for with respect to key facilities than primary schools.  Table 12 below shows the level of provision of secondary education for the period 1999 to 2003.
+
+Table 12 Number of Secondary Schools, Classrooms and Teachers   1999-2003
 
 Inputs | 1999 | 2000 | 2001 | 2002 | 2003
 --- | --- | --- | --- | --- | ---
@@ -2146,8 +2189,6 @@ Number of Teachers | 3,175 | 3,198 | 3,290 | 3,384 | 3,470
 Qualified | 2,738 | 2,765 | 2,937 | 2,992 | 3,093
 Unqualified | 437 | 433 | 353 | 392 | 377
 Pupil: teacher ratio | 23 | 23 | 24 | 24 | 24
-
-Table 12 Number of Secondary Schools, Classrooms and Teachers   1999-2003
 
 Source : Ministry of Education and Training, Lesotho's Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
 
@@ -2164,8 +2205,8 @@ With respect to Government spending on secondary education, teachers' salaries, 
 ________________________________________________________________________
 
 Table13: Recurrent Budget on Secondary Education, by Subprogram and Object of Expenditure (millions of Maloti)
+ | Budget 2000/01 | Budget 2001/02 | Budget 2002/03 | Budget 2003/04 | Budget 2004/05
 --- | --- | --- | --- | --- | ---
-Budget 2000/01 | Budget 2001/02 | Budget 2002/03 | Budget 2003/04 | Budget 2004/05
 Secondary Teachers' Salaries | 111.7 | 122.0 | 153.7 | 154.7 | 161.4
 Secondary Administration
 Personnel emoluments | 0.1 | 0.2 | 0.2 | 0.2 | 0.2
@@ -2250,51 +2291,51 @@ ________________________________________________________________________
 
 The Government's overall policy for secondary education during the 2005-2015 shall focus on the following:
 
-- Improvement of access to secondary education.
+a) Improvement of access to secondary education.
 
-- Ensuring that the quality of secondary education is at acceptable level to meet local and international experiences.
+b) Ensuring that the quality of secondary education is at acceptable level to meet local and international experiences.
 
-- Developing an efficient secondary education system.
+c) Developing an efficient secondary education system.
 
-- Ensuring  gender  equity  and  parity  within  the  secondary  education system.
+d) Ensuring gender equity and parity within the secondary education system.
 
-- Mainstreaming HIV and AIDS awareness in the education system.
+e) Mainstreaming HIV and AIDS awareness in the education system.
 
-In realising these policy goals, the Government shall, during the earlier part of the Strategic Plan period, focus more  on  redressing the low  quality of the system  through  consolidation, rationalisation and efficiency improvements with only a limited amount of expansion.
+In realising these policy goals, the Government shall, during the earlier part of the Strategic Plan period, focus more on redressing the low quality of the system through consolidation, rationalisation and efficiency improvements with only a limited amount of expansion.
 
 #### 5.3 Critical Challenges
 
 Given the current state of affairs in the secondary education system, the following shall constitute the critical challenges during the Strategic Plan period 2005-2015:
 
-- Improvement of the quality of secondary  education in a  manner that would make it more responsive to the national needs.
+a) Improvement of the quality of secondary education in a manner that would make it more responsive to the national needs.
 
-- Extension  of  FPE  to  universal  basic  education  would  entail  the  need  to provide additional space to accommodate all Standard 7 pupils into the first three years of secondary education.
+b) Extension of FPE to universal basic education would entail the need to provide additional space to accommodate all Standard 7 pupils into the first three years of secondary education.
 
-- Improvement  of  the  quality  of  delivery  so  as  to  minimise  wastage  and enhance  efficiency.  Decentralisation  of  service  delivery  shall  constitute  an important element of strive for efficiency gains.
+c) Improvement of the quality of delivery so as to minimise wastage and enhance efficiency. Decentralisation of service delivery shall constitute an important element of strive for efficiency gains.
 
-- Improvement of access to senior secondary education on equitable terms.
+d) Improvement of access to senior secondary education on equitable terms.
 
 #### 5.4 Objectives and Strategies
 
-Taking  into  account  the  above  state  of  affairs  in  the  secondary  school  sub-sector,  the  core objective  of  the  Government,  according  to  the  PRS,  is  to  'ensure  that  all  have  access  to  and complete  quality  basic  and  secondary  education.'  Although  the  Government  strategies  on Secondary Education in Lesotho do not differ much from Primary Education, the emphasis at the secondary school level has been more on redressing the low quality and increasing efficiency. In the  context  of  the  above,  the  strategic  objectives  of  MOET  on  secondary  education  during  the Strategic Plan period are as follows:
+Taking into account the above state of affairs in the secondary school sub-sector, the core objective of the Government, according to the PRS, is to 'ensure that all have access to and complete quality basic and secondary education.' Although the Government strategies on Secondary Education in Lesotho do not differ much from Primary Education, the emphasis at the secondary school level has been more on redressing the low quality and increasing efficiency. In the context of the above, the strategic objectives of MOET on secondary education during the Strategic Plan period are as follows:
 
-- Improve access to Secondary Education
+a) Improve access to Secondary Education
 
-- o Improve transition rate from lower to upper basic education.
+o Improve transition rate from lower to upper basic education.
 
-- o Expand  school  infrastructure  and  teaching  resources  (including  human resources)  to  accommodate  the  demands  from  the  FPE  policy  and, consequently, universal basic education.
+o Expand school infrastructure and teaching resources (including human resources) to accommodate the demands from the FPE policy and, consequently, universal basic education.
 
-- o Increase the number of schools with special needs facilities.
+o Increase the number of schools with special needs facilities.
 
-- o Diversify the provision of formal education to cater for all ability levels.
+o Diversify the provision of formal education to cater for all ability levels.
 
-- Ensure that the quality of secondary education is at acceptable level to meet local and international experiences
+b) Ensure that the quality of secondary education is at acceptable level to meet local and international experiences
 
-- o Continue improving teaching and learning conditions in all schools.
+o Continue improving teaching and learning conditions in all schools.
 
-- o Improve teaching and learning processes in all schools.
+o Improve teaching and learning processes in all schools.
 
-- o Diversify curriculum and assessment of technical and practical subjects in line with Vision 2020 and PRS.
+o Diversify curriculum and assessment of technical and practical subjects in line with Vision 2020 and PRS.
 
 60
 
@@ -2306,31 +2347,31 @@ Taking  into  account  the  above  state  of  affairs  in  the  secondary  schoo
 
 ________________________________________________________________________
 
-- o Improve achievement rates at secondary completion level.
+o Improve achievement rates at secondary completion level.
 
-- Develop an efficient Secondary Education System
+c) Develop an efficient Secondary Education System
 
-- o Minimise wastage.
+o Minimise wastage.
 
-- o Expand, strengthen and decentralize supervision and support services.
+o Expand, strengthen and decentralize supervision and support services.
 
-- o Continuously develop appropriate management practices in schools.
+o Continuously develop appropriate management practices in schools.
 
-- o Build management and competency capacity of all inspectors and support staff.
+o Build management and competency capacity of all inspectors and support staff.
 
-- o Up-grade the level of office equipment and utilities to match the current ICT demands.
+o Up-grade the level of office equipment and utilities to match the current ICT demands.
 
-- Develop gender equity and parity within the Secondary Education System
+d) Develop gender equity and parity within the Secondary Education System
 
-- o Achieve gender equity by 2009 and gender parity.
+o Achieve gender equity by 2009 and gender parity.
 
-- Develop HIV and AIDS awareness in the Education System
+e) Develop HIV and AIDS awareness in the Education System
 
-- o Establish  structures  for  the  effective  coordination  of  HIV  and  AIDS activities within the sector.
+o Establish structures for the effective coordination of HIV and AIDS activities within the sector.
 
-- o Incorporate HIV and AIDS issues in the school curriculum.
+o Incorporate HIV and AIDS issues in the school curriculum.
 
-- o Promote  workplace  interventions  to  maximise  continued  labour  force participation.
+o Promote workplace interventions to maximise continued labour force participation.
 
 #### 5.5 Activities and Target Indicators
 
@@ -2339,13 +2380,14 @@ In the context of the above strategic objectives, the Ministry will continue wit
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 --- | --- | --- | ---
 1. Achieve maximum access by all to secondary school education | 1.1 To improve Access to Secondary Education | 1.1.1 Improved transition rate from lower to secondary education to 90% by 2015 | 1. Expand and improve facilities in existing schools to cater for other children with special needs
-2. Reduce parental fees
-1.1.2 Training facilities in schools with special needs increased by 50% in 2015 | 1. Establish a second additional special school 2. Establish two schools in the north and south regions
-1.1.3 Diversified provision of formal education to cater for all ability levels | 1. Reinforce provision of private studies for all learners in addition to face-to-face teaching and learning activities
-2. Achieve quality secondary school education | 2.1 To improve Quality in Secondary Education | 2.1.1 Improved teaching and learning conditions in all schools by 2015 2.1.2 Achieve a 1:25 teacher/pupil ratio by 2009 | 1. Continue to increase intake into teacher training institutions to match the level of demand in schools
-2. Support library development in schools where this is required
-3. Provide textbooks through the Textbook Rental Scheme
-4. Develop an appropriate system of distributing basic education graduates into secondary schools
+ |  |  | 2. Reduce parental fees
+ |  | 1.1.2 Training facilities in schools with special needs increased by 50% in 2015 | 1. Establish a second additional special school
+ |  |  | 2. Establish two schools in the north and south regions
+ |  | 1.1.3 Diversified provision of formal education to cater for all ability levels | 1. Reinforce provision of private studies for all learners in addition to face-to-face teaching and learning activities
+2. Achieve quality secondary school education | 2.1 To improve Quality in Secondary Education | 2.1.1 Improved teaching and learning conditions in all schools by 2015<br>2.1.2 Achieve a 1:25 teacher/pupil ratio by 2009 | 1. Continue to increase intake into teacher training institutions to match the level of demand in schools
+ |  |  | 2. Support library development in schools where this is required
+ |  |  | 3. Provide textbooks through the Textbook Rental Scheme
+ |  |  | 4. Develop an appropriate system of distributing basic education graduates into secondary schools
 
 61
 
@@ -2357,22 +2399,22 @@ STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 
 ________________________________________________________________________
 
-5. Mobilise financial support to introduce book rental system and other teaching learning materials in schools
+ |  |  | 5. Mobilise financial support to introduce book rental system and other teaching learning materials in schools
+ |  | 2.1.3 Improved teaching and learning processes in all schools by 2015 | 1. Improve the quality of schooling through teacher training and availability of teaching and learning materials
+ |  |  | 2. Provide opportunities for remedial lessons for slow learners
+ |  |  | 3. Develop an ICT policy and strategy for secondary schools
+ |  |  | 4. Facilitate the procurement of ICT equipment for schools and monitoring offices
+ |  |  | 5. Design appropriate models for continuous practical assessment and profiling and train practical subject teachers and principals on the new assessment models
+STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 --- | --- | --- | ---
-2.1.3 Improved teaching and learning processes in all schools by 2015 | 1. Improve the quality of schooling through teacher training and availability of teaching and learning materials
-2. Provide opportunities for remedial lessons for slow learners
-3. Develop an ICT policy and strategy for secondary schools
-4. Facilitate the procurement of ICT equipment for schools and monitoring offices
-5. Design appropriate models for continuous practical assessment and profiling and train practical subject teachers and principals on the new assessment models
-STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 | ACTIVITIES
-TARGETS 2.1.4 Diversified curriculum and assessment of technical and practical subjects in place by 2015 | 1. Consult industry and the labour market to ensure that curriculum is responsive to national human resource requirements.
+ |  | 2.1.4 Diversified curriculum and assessment of technical and practical subjects in place by 2015 | 1. Consult industry and the labour market to ensure that curriculum is responsive to national human resource requirements.
 3. Achieving efficient administration, financing and management structures | 3.1 To develop an efficient management system for Secondary Education | 3.1.1 Minimised wastage by 50% by 2009 and by 100% by 2015 | 1. Expand, strengthen and decentralize supervision and support services
-2. Build management and competency capacity of all inspectors and support staff
-3. Improve the quality of schooling through teacher training and availability of teaching and learning materials
-4. Review of school policies that influence the standards of instruction, assessment and transition criteria
-5. Increase opportunities to learn and improve teaching processes by lengthening the school year
-3.1.2 Appropriate management systems and practice in schools well established by 2015 | 1. Draw a prioritised training plan
-2. Review the management training programmes for principals, deputy principals and heads of departments and take appropriate actions to improve service delivery
+ |  |  | 2. Build management and competency capacity of all inspectors and support staff
+ |  |  | 3. Improve the quality of schooling through teacher training and availability of teaching and learning materials
+ |  |  | 4. Review of school policies that influence the standards of instruction, assessment and transition criteria
+ |  |  | 5. Increase opportunities to learn and improve teaching processes by lengthening the school year
+ |  | 3.1.2 Appropriate management systems and practice in schools well established by 2015 | 1. Draw a prioritised training plan
+ |  |  | 2. Review the management training programmes for principals, deputy principals and heads of departments and take appropriate actions to improve service delivery
 
 62
 
@@ -2384,26 +2426,25 @@ TARGETS 2.1.4 Diversified curriculum and assessment of technical and practical s
 
 ________________________________________________________________________
 
-3. Undertake staff audit on the basis of which recruitment and redeployment of staff shall be made
---- | --- | --- | ---
-4. Conduct a training needs assessment of all officers and prioritise training needs
-5. Implement full-scale training of all education officers and inspectors on the new inspection style
-6. Facilitate post-graduate training for inspectorate officers
-7. Implement accountability tool/system in all secondary schools
-8. Draw a performance appraisal schedule to include all officers
-9. Train school principals in financial management
+ |  |  | 3. Undertake staff audit on the basis of which recruitment and redeployment of staff shall be made
+ |  |  | 4. Conduct a training needs assessment of all officers and prioritise training needs
+ |  |  | 5. Implement full-scale training of all education officers and inspectors on the new inspection style
+ |  |  | 6. Facilitate post-graduate training for inspectorate officers
+ |  |  | 7. Implement accountability tool/system in all secondary schools
+ |  |  | 8. Draw a performance appraisal schedule to include all officers
+ |  |  | 9. Train school principals in financial management
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
-4. Achieve gender equality | 4.1 To develop gender equity and parity within the Secondary | 4.1.1 Attained gender equity and gender parity | 1. Develop and disseminate a gender policy 2. Ensure that there is parity in enrolments between males and females
-Education | 3. Revise curricula to make it gender responsive
-System
-5. Eliminate HIV AND AIDS from the school system | 5.1 To strengthen HIV and AIDS mitigation in the Education System | 5.1.1 Structures for the effective coordination of HIV and AIDS activities within the sub-sector well established and operational by 2015 | 1. Develop and implement the HIV and AIDS co-ordination programme of intervention by
-the MOET 2. Establish the HIV and AIDS co-ordination
-unit and engage appropriate staff 3. Incorporate HIV and AIDS issues in the
-teacher training and school curricula 4. Implement improved HIV and AIDS workplace intervention guidelines in all
-schools 5. Liaise with the Ministry of Health and the HIV and AIDS Commission to establish relevant structures dealing with HIV and
-AIDS in the education sector 6. Conduct training programmes for teachers, principals and school boards on addressing
-HIV and AIDS and its impact in the school environment
-7. Establish support systems in schools for children affected by HIV and AIDS
+--- | --- | --- | ---
+4. Achieve gender equality | 4.1 To develop gender equity and parity within the Secondary Education System | 4.1.1 Attained gender equity and gender parity | 1. Develop and disseminate a gender policy
+ |  |  | 2. Ensure that there is parity in enrolments between males and females
+ |  |  | 3. Revise curricula to make it gender responsive
+5. Eliminate HIV AND AIDS from the school system | 5.1 To strengthen HIV and AIDS mitigation in the Education System | 5.1.1 Structures for the effective coordination of HIV and AIDS activities within the sub-sector well established and operational by 2015 | 1. Develop and implement the HIV and AIDS co-ordination programme of intervention by the MOET
+ |  |  | 2. Establish the HIV and AIDS co-ordination unit and engage appropriate staff
+ |  |  | 3. Incorporate HIV and AIDS issues in the teacher training and school curricula
+ |  |  | 4. Implement improved HIV and AIDS workplace intervention guidelines in all schools
+ |  |  | 5. Liaise with the Ministry of Health and the HIV and AIDS Commission to establish relevant structures dealing with HIV and AIDS in the education sector
+ |  |  | 6. Conduct training programmes for teachers, principals and school boards on addressing HIV and AIDS and its impact in the school environment
+ |  |  | 7. Establish support systems in schools for children affected by HIV and AIDS
 6. Build effective partnerships in service delivery | 6.1 Improve partnerships among | 6.1.1 Consultative structures for enhanced dialogue | 1. Commission a study on how best to engage communities in resource mobilisation for the educational system
 
 63
@@ -2416,9 +2457,8 @@ HIV and AIDS and its impact in the school environment
 
 ________________________________________________________________________
 
-education service providers and stakeholders | among service providers operational by 2009 and enhanced partnerships registered by 2015 | 2. Increase parents' and communities' active involvement in school management
---- | --- | ---
-3. Design effective coordination and harmonisation mechanisms between the MOET and development cooperating partners in the area of education support and development.
+ | education service providers and stakeholders | among service providers operational by 2009 and enhanced partnerships registered by 2015 | 2. Increase parents' and communities' active involvement in school management
+ |  |  | 3. Design effective coordination and harmonisation mechanisms between the MOET and development cooperating partners in the area of education support and development.
 
 #### 5.6 Strategic summary of activities
 
@@ -2474,9 +2514,11 @@ The Government's aim here is to establish effective consultative structures for 
 
 ________________________________________________________________________
 
-INDICATORS | Targets
+Table-14: Key Benchmark Indicators on Access, Efficiency and Quality for Secondary Education 1999-2015
+
+INDICATORS |  |  |  |  |  | Targets | 
 --- | --- | --- | --- | --- | --- | --- | ---
-1999 | 2000 | 2001 | 2002 | 2003 | 2007 | 2015
+ | 1999 | 2000 | 2001 | 2002 | 2003 | 2007 | 2015
 A. Access
 1 GER2
 Males | 25.5 | 25.8 | 27.9 | 29.0 | 30.1 | 55 | 85
@@ -2487,14 +2529,12 @@ Males | 12.8 | 14.5 | 16.4 | 17.2 | 17.9 | 22 | 50
 Females | 22.3 | 24.2 | 26.3 | 27.0 | 27.0 | 28 | 50
 Total | 17.5 | 19.2 | 21.3 | 22 | 22.4 | 25 | 50
 B. Efficiency
-Transition rate (prim. - sec.) | 58.0 | 66.0 | 68.8 | 63.5 | 78.0 | 100
-Transition from JC to Senior Sec. | 69.8 | 77.3 | 73.0 | 74.8 | 80 | 90
+Transition rate (prim. – sec.) |  | 58.0 | 66.0 | 68.8 | 63.5 | 78.0 | 100
+Transition from JC to Senior Sec. |  | 69.8 | 77.3 | 73.0 | 74.8 | 80 | 90
 C. Quality
 Pupil: Teacher Ratio (PTR) | 23 | 23 | 24 | 24 | 25 | 25 | 25
 Pupil: Classroom Ratio (PCR) | 37 | 37 | 39 | 39 | 40 | 40 | 40
 School Certificate pass rate | 44.0 | 42.9 | 45.0 | 46.2 | 52 | 60 | 70
-
-Table-14: Key Benchmark Indicators on Access, Efficiency and Quality for Secondary Education 1999-2015
 
 #### 5.7 Costing for Senior Secondary Education
 
@@ -2510,6 +2550,8 @@ The  costing  of  Senior  Secondary  Education  is  complicated  by  the  fact  
 
 ________________________________________________________________________
 
+Table 15: Full cost of education provision under the strategic plan on the Senior Secondary Education Budget (in M1000)
+
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
@@ -2522,7 +2564,7 @@ Scholarships from NMDS | 5,000 | 10,000 | 15,000 | 16,500 | 18,150 | 20,873
 Secondary Ed. Support Material | 7,000 | 7,000 | 9,000 | 9,900 | 10,890 | 12,524
 Cost of improved teacher qualifications | 20,000 | 21,000 | 22,050 | 23,153 | 24,310 | 25,526
 HIV and AIDS Activities | 3,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000
-Capital costs | - | - | -
+Capital costs |  |  |  | - | - | -
 Senior Secondary Administration | 13,570 | 18,510 | 21,510 | 23,661 | 26,027 | 29,931
 Lesotho High School | 3,000 | 3,150 | 3,308 | 3,473 | 3,647 | 3,829
 Bursaries Secondary | 5,000 | 7,500 | 7,500 | 8,250 | 9,075 | 10,436
@@ -2535,8 +2577,6 @@ Available GOL Capital resources | 13,653 | 18,516 | 18,990 | 19,940 | 20,937 | 2
 Funding Gap | 97,621 | 105,501 | 119,974 | 131,571 | 144,320 | 160,252
 % of ESSP funded | 64 | 66 | 65 | 65 | 65 | 65
 % of Funding Gap | 36 | 34 | 35 | 35 | 35 | 35
-
-Table 15: Full cost of education provision under the strategic plan on the Senior Secondary Education Budget (in M1000)
 
 67
 
@@ -2558,6 +2598,8 @@ Given Lesotho's unique geographic situation and limited employment  opportunitie
 
 Table 16 below illustrates enrolment levels over the 1999 to 2003 period. The overall enrolment increased from 1722 in 1999 to 1837 in 2003, an increase of 16.1%. The gender disaggregated enrolment  by  year  shows  that,  unlike  what  obtains  in  the  primary  and  secondary  levels  of education, the proportion of males enrolled was higher than that of their female counterparts.
 
+Table 16: Enrolment in TVET Institutions by Sex and Year 1998 – 2002
+
 Years | 1999 | 2000 | 2001 | 2002 | 2003
 --- | --- | --- | --- | --- | ---
 Total | 1722 | 1859 | 1939 | 1859 | 1837
@@ -2568,8 +2610,6 @@ Number of schools | 8 | 8 | 8 | 8 | 8
 Teachers | 165 | 170 | 161 | 162 | 166
 Males | 79 | 91 | 82 | 85 | 87
 Females | 56 | 79 | 79 | 77 | 79
-
-Table 16: Enrolment in TVET Institutions by Sex and Year 1998 - 2002
 
 Source : Ministry of Education and Training, Lesotho's
 
@@ -2589,7 +2629,7 @@ ________________________________________________________________________
 
 The number of teachers in TVET institutions increased from 165 in 1999 to 170 in 2000, an increase of 5.5%. Thereafter there was a notable decline from 170 in 2000 to 166 in 2003. During the period, there were  predominantly  more  male  teachers  than  their  female  counterparts.  Teachers  who  held  a diploma/certificate  plus  Technical  Training  constituted  68.0%  of  all  teachers,  while  those  who  held Degree plus Technical/Training qualifications and Degree only were 16.9% and 6.4% of all teachers respectively.
 
-Table 17 further shows the range of courses offered in different TVET institutions between 1999 and  2003.  The  profile  of  the  courses  that  are  offered  under  TVET  are  varied,  with  Home Economics, preferred predominantly by females, registering the largest numbers over the 19992003  period,      followed  by  the  male-dominated  Brick  Laying.  Mechanical  Engineering  and Carpentry ranked third.
+Table 17 further shows the range of courses offered in different TVET institutions between 1999 and 2003. The profile of the courses that are offered under TVET are varied, with Home Economics, preferred predominantly by females, registering the largest numbers over the 1999-2003 period, followed by the male-dominated Brick Laying. Mechanical Engineering and Carpentry ranked third.
 
 Table 17: Enrolments in Technical/Vocational Schools by Type of Courses 1999-2003
 --- | --- | --- | --- | --- | ---
@@ -2624,11 +2664,11 @@ Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
 
 Generally, the Ministry recognises the existence of major challenges that have to be addressed during the Strategic Plan period 2005-2015 and beyond. In its recent document, 19 the Ministry has acknowledged  the  following  factors  that  continue  to  compromise  the  realisation  of  the  TVET mission:
 
-- TTI's are under-funded and under-performing.
+a) TTI's are under-funded and under-performing.
 
-- Lack of confidence by employers in Trades Training Institute (TTI) graduates, demonstrated by the very low placement rates.
+b) Lack of confidence by employers in Trades Training Institute (TTI) graduates, demonstrated by the very low placement rates.
 
-- Absence  of planning for TVET  in  the form of national, industry or institutional skills development plans, through which skills requirements can be identified. This has resulted in training being largely supply-driven.
+c) Absence of planning for TVET in the form of national, industry or institutional skills development plans, through which skills requirements can be identified. This has resulted in training being largely supply-driven.
 
 > 19 Ministry of Education and Training (2004), The development of a new technical and vocational education and training strategy and policy, Cabinet Information Paper, March
 
@@ -2642,27 +2682,27 @@ Generally, the Ministry recognises the existence of major challenges that have t
 
 ________________________________________________________________________
 
-- Unregulated and stagnated apprenticeship scheme.
+d) Unregulated and stagnated apprenticeship scheme.
 
-- Weak  governance  and  management  of  TVET  at  national  and  institutional level with private participation in the TVET Board being largely symbolic.
+e) Weak governance and management of TVET at national and institutional level with private participation in the TVET Board being largely symbolic.
 
-- Limited  training  tailored  to  the  needs  of  small  business  and  the  informal sector.
+f) Limited training tailored to the needs of small business and the informal sector.
 
-- Weak quality assurance.
+g) Weak quality assurance.
 
-- No TVD accreditation system
+h) No TVD accreditation system
 
-Recognising  these  challenges,  the  Government  has  challenged  TVET  institutions  to  seek alternative  sources  of  revenue  to  complement  state  subventions.  Presently,  the  main  TVET funders are:
+Recognising these challenges, the Government has challenged TVET institutions to seek alternative sources of revenue to complement state subventions. Presently, the main TVET funders are:
 
-- Government at the level of meeting salaries (to two of them),  bursaries to students, support towards examinations and inspection
+a) Government at the level of meeting salaries (to two of them), bursaries to students, support towards examinations and inspection
 
-- Private sources
+b) Private sources
 
-- Students' tuition, and boarding fees
+c) Students' tuition, and boarding fees
 
-- Income generating activities
+d) Income generating activities
 
-- Donor support
+e) Donor support
 
 The National Craft  Certificate  (NCC)  and  national  diplomas  are  presently  the  only  certificates that  TVD  officially  awards.  Figure  5  shows  the  colleges  that  offered  NCC  in  different  fields during 2003. Performance in NCC examinations, as shown Table 18, is quite low, with pass rates averaging 48 percent in 2002 and 47 percent in 2003.
 
@@ -2676,47 +2716,47 @@ The National Craft  Certificate  (NCC)  and  national  diplomas  are  presently 
 
 ________________________________________________________________________
 
-Automotive | Bricklaying & Plastering | Carpentry & Joinery | Electrical Installation | Business 1 & 2 | Secretarial 1 & 2 | Pattern Cutting; Dress Making and Tailoring | Home Science Intermediate | Home Science Advanced
---- | --- | --- | --- | --- | --- | --- | --- | ---
-1. | Lerotholi Polytechnic
-2. | Technical School of Leribe
-3. | Technical Institute of Leloaleng
-4. | Thaba Tseka Technical Institute
-5. | Bishop Allards Vocational School
-6. | St Mary's Home Economics School
-7. | St. Elisabeth's Training Institute
-8. | Bernada Home Economics School
-
 Figure 5: Overview of Institutions offering the National Craft Certificate
 
-% Pass of those who actually sat the NCC exams
---- | --- | --- | ---
-Institution | 2002 | 2003
-1. | Lerotholi Polytechnic | 32 | 62
-2. | Technical School of Leribe | 30 | 27
-3. | Technical Institute of Leloaleng | 35 | 31
-4. | Thaba Tseka Technical Institute | 37 | 83
-5. | Bishop Allards Vocational School | 27 | 29
-6. | St Mary's Home Economics School | 29 | 19
-7. | St. Elisabeth's Training Institute | 73 | 76
-8. | Bernada Home Economics School | 29 | 78
-Average Figures | 48 | 47
+ | Automotive | Bricklaying & Plastering | Carpentry & Joinery | Electrical Installation | Business 1 & 2 | Secretarial 1 & 2 | Pattern Cutting; Dress Making and Tailoring | Home Science Intermediate | Home Science Advanced
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1. Lerotholi Polytechnic | ■ | ■ | ■ | ■ |  |  |  |  | 
+2. Technical School of Leribe | ■ | ■ | ■ | ■ |  |  |  |  | 
+3. Technical Institute of Leloaleng | ■ | ■ | ■ | ■ |  |  |  |  | 
+4. Thaba Tseka Technical Institute | ■ | ■ | ■ | ■ |  |  |  |  | 
+5. Bishop Allards Vocational School |  | ■ | ■ |  |  |  |  | ■ | 
+6. St Mary's Home Economics School |  |  |  |  |  |  |  | ■ | ■
+7. St. Elisabeth's Training Institute |  |  |  |  | ■ | ■ | ■ |  | ■
+8. Bernada Home Economics School |  |  |  |  |  |  |  | ■ | 
 
 Table 18:  Percentage pass rates in official TVD examinations for National Craft Certificate
+
+% Pass of those who actually sat the NCC exams
+Institution | 2002 | 2003
+--- | --- | ---
+1. Lerotholi Polytechnic | 32 | 62
+2. Technical School of Leribe | 30 | 27
+3. Technical Institute of Leloaleng | 35 | 31
+4. Thaba Tseka Technical Institute | 37 | 83
+5. Bishop Allards Vocational School | 27 | 29
+6. St Mary's Home Economics School | 29 | 19
+7. St. Elisabeth's Training Institute | 73 | 76
+8. Bernada Home Economics School | 29 | 78
+Average Figures | 48 | 47
 
 Source: Ministry of Education and Training
 
 #### 6.2 Main Policies
 
-The 1984 Act is currently still the official statement of policy. Nevertheless, MOET, under the on-going process of developing a new policy, aspires to make TVET in Lesotho more demanddriven and flexible, focusing on, inter alia, the following policy directions:
+The 1984 Act is currently still the official statement of policy. Nevertheless, MOET, under the on-going process of developing a new policy, aspires to make TVET in Lesotho more demand-driven and flexible, focusing on, inter alia, the following policy directions:
 
-- Facilitating increased access/enrolments in TVET.
+a) Facilitating increased access/enrolments in TVET.
 
-- Reforming the curricula and qualifications systems to make  them more responsive to industry needs as well as improving scope for self-employment for income  generation.  This  shall  entail  putting  in  place  a  demand-led,  customerfocused  and  diversified  TVET  system  with  top  priority  being  given  to skills development through infusing entrepreneurship in all training programmes.
+b) Reforming the curricula and qualifications systems to make them more responsive to industry needs as well as improving scope for self-employment for income generation. This shall entail putting in place a demand-led, customer-focused and diversified TVET system with top priority being given to skills development through infusing entrepreneurship in all training programmes.
 
-- Reforming the TVET system's governance and finance with a view to increasing the autonomy of the training institutions.
+c) Reforming the TVET system's governance and finance with a view to increasing the autonomy of the training institutions.
 
-- Create opportunities for sustainable funding that is premised on increased role of the private sector in TVET services provision. This also entails the facilitation of stronger  stakeholder  participation  in  TVET  through  effective  Public-PrivatePartnership (PPP) arrangements.
+d) Create opportunities for sustainable funding that is premised on increased role of the private sector in TVET services provision. This also entails the facilitation of stronger stakeholder participation in TVET through effective Public-Private-Partnership (PPP) arrangements.
 
 71
 
@@ -2734,27 +2774,27 @@ The issue of skills development is assumes a particularly high priority in the G
 
 In view of the current conditions in the TVET system, the following shall constitute the critical challenges during the period 2005-2015 Strategic Plan:
 
-- Approval of the new national policy on TVET
+a) Approval of the new national policy on TVET
 
-- Reconstituting  of  the  TVET  structure  to  make  it responsive to the labour market demands and to the creation of self-employment.
+b) Reconstituting of the TVET structure to make it responsive to the labour market demands and to the creation of self-employment.
 
-- Facilitation of the entry of the private sector into the TVET  system  and  assume  dominance  while  the state retracts into a more facilitative role.
+c) Facilitation of the entry of the private sector into the TVET system and assume dominance while the state retracts into a more facilitative role.
 
 #### 6.4 Objectives and Strategies
 
-- Increasing TVET total enrolment.
+a) Increasing TVET total enrolment.
 
-- Increasing  equity  in  TVET  system  by  enrolling  more  women  and  other disadvantaged groups, particularly in more technical fields.
+b) Increasing equity in TVET system by enrolling more women and other disadvantaged groups, particularly in more technical fields.
 
-- Reviewing and diversifying TVET programmes to make then more responsive to the needs of country and industry, including those of the informal sector and small-scale sectors.
+c) Reviewing and diversifying TVET programmes to make then more responsive to the needs of country and industry, including those of the informal sector and small-scale sectors.
 
-- Achieving high level of excellence in the quality of TVET programmes.
+d) Achieving high level of excellence in the quality of TVET programmes.
 
-- Putting in place an effective TVET governance structure.
+e) Putting in place an effective TVET governance structure.
 
-- Improving the funding position of TVET institutions through cost-clearing fees and enhanced entry of the private sector and other stakeholders in the provision of TVET programmes.
+f) Improving the funding position of TVET institutions through cost-clearing fees and enhanced entry of the private sector and other stakeholders in the provision of TVET programmes.
 
-- Mainstream HIV and AIDS in TVET programmes.
+g) Mainstream HIV and AIDS in TVET programmes.
 
 #### 6.5 Activities and Target Indicators
 
@@ -2773,18 +2813,19 @@ ________________________________________________________________________
 Strategic Goal | Strategic Objectives | 2005-2015 Targets | 2005-2009 Activities
 --- | --- | --- | ---
 1. Access to technical and vocational training enhanced Equitably | 1.1 To increase access to Quality Technical and Vocational Education and Training for all Basotho | 1.1.1 Total enrolment increased by 40% by 2009 and by a further 50% by 2015 | 1. Build additional workshops and classrooms that are accessible even to physically handicapped children
-2. Encourage private sector to establish or expand training centres.
-3. Design, develop and run flexible programmes with multiple entry and exit points.
-1.2 To implement targeted equity programmes for the marginalized groups | 1.2.1 Total enrolment in the more technical fields increased by 70% for women and disadvantaged groups by 2015 | 1. Take an affirmative action to specifically target women's enrolment in the 'hard' technical and vocational fields that have thus far traditionally been male-dominated
-2. Identify TVET training needs of persons with disabilities, particularly those in rural areas, and design and develop interest-tailored training programmes for them
-3. Pilot training programmes in special education. 4. Develop and implement bridging courses for potential graduates with low pass marks.
-2. The Quality of TVET programmes improved significantly | 2.1 To improve the quality of TVET programmes. | 2.1.1 TVET programmes that cater for the special needs of the country and industry developed, expanded and improved by 2015 | 1. Restructure the TVET system through a complete overhaul of the legislative, regulatory and institutional structures and processes to make both the management and course offerings demand- driven in a manner that is responsive to the needs and requirements of both the labour market and those of local communities.
-2. Following the TVET structural and organizational overhaul, work towards the reduction of the number of TVET providers to 2-3 'larger' outfits that the state would support and upgrade, in the short-term, before they are weaned off and given organizational and fiscal autonomy.
-3. Develop and endorse a nationally approved approach for curriculum development and review the roles and responsibilities for the current structures that are responsible for TVET curriculum development.
-4. A national technical teacher training programme must be developed and implemented. The programme must support competency based learning.
-5. Develop and operationalise a market-responsive training programme for TVET teachers and instructors as well as for TVD staff.
-6. Explore the merits of competency-based modular training approach and adopt this when appropriate
-7. Identify new qualifications/programmes in collaboration with the private sector
+ |  |  | 2. Encourage private sector to establish or expand training centres.
+ |  |  | 3. Design, develop and run flexible programmes with multiple entry and exit points.
+ | 1.2 To implement targeted equity programmes for the marginalized groups | 1.2.1 Total enrolment in the more technical fields increased by 70% for women and disadvantaged groups by 2015 | 1. Take an affirmative action to specifically target women's enrolment in the 'hard' technical and vocational fields that have thus far traditionally been male-dominated
+ |  |  | 2. Identify TVET training needs of persons with disabilities, particularly those in rural areas, and design and develop interest-tailored training programmes for them
+ |  |  | 3. Pilot training programmes in special education.
+ |  |  | 4. Develop and implement bridging courses for potential graduates with low pass marks.
+2. The Quality of TVET programmes improved significantly | 2.1 To improve the quality of TVET programmes. | 2.1.1 TVET programmes that cater for the special needs of the country and industry developed, expanded and improved by 2015 | 1. Restructure the TVET system through a complete overhaul of the legislative, regulatory and institutional structures and processes to make both the management and course offerings demand-driven in a manner that is responsive to the needs and requirements of both the labour market and those of local communities.
+ |  |  | 2. Following the TVET structural and organizational overhaul, work towards the reduction of the number of TVET providers to 2-3 “larger” outfits that the state would support and upgrade, in the short-term, before they are weaned off and given organizational and fiscal autonomy.
+ |  |  | 3. Develop and endorse a nationally approved approach for curriculum development and review the roles and responsibilities for the current structures that are responsible for TVET curriculum development.
+ |  |  | 4. A national technical teacher training programme must be developed and implemented. The programme must support competency based learning.
+ |  |  | 5. Develop and operationalise a market-responsive training programme for TVET teachers and instructors as well as for TVD staff.
+ |  |  | 6. Explore the merits of competency-based modular training approach and adopt this when appropriate
+ |  |  | 7. Identify new qualifications/programmes in collaboration with the private sector
 
 73
 
@@ -2798,18 +2839,20 @@ ________________________________________________________________________
 
 Strategic Goal | Strategic Objectives | 2005-2015 Targets | 2005-2009 Activities
 --- | --- | --- | ---
-8. Develop regulations that regulate apprenticeships and industrial training/attachment but that are sensitive to the conditions of young people with physical disabilities
-2.2 To attain quality assurance at the level of TVET providers and graduates | 2.2.1 Excellence in the quality of TVET programmes attained by 2015 | 1. Define a national module accreditation structure and subsequently put in place a new provider and instructor accreditation system
-2. Establish a National Vocational Qualifications Framework (NVQF) that will ensure that qualifications are recognised and accepted by employers 3. Establish National Quality Assurance Framework.
-4. Reform and re-orientate the existing TVET curriculum to comply with new standards as defined in consultation with industry/employers (through a consultative process) with a focus on learning from similar regional and international norms
-3. Standardise the entry criteria and qualifications for all TVET programmes and modules as a way of securing uniform recognition of graduate's qualifications
-4. Develop a nationally-administrated summative examination approaches that allow for practical and project based assessment
-5. Develop instruments that streamline the many different assessment approaches in existence (NCC, Trade Tests; Provider Assessment and Foreign Assessment) into one unified assessment system.
-6. Facilitate the linking up of TVET providers in Lesotho with regional training institutions that offer quality training programmes.
+ |  |  | 8. Develop regulations that regulate apprenticeships and industrial training/attachment but that are sensitive to the conditions of young people with physical disabilities
+ | 2.2 To attain quality assurance at the level of TVET providers and graduates | 2.2.1 Excellence in the quality of TVET programmes attained by 2015 | 1. Define a national module accreditation structure and subsequently put in place a new provider and instructor accreditation system
+ |  |  | 2. Establish a National Vocational Qualifications Framework (NVQF) that will ensure that qualifications are recognised and accepted by employers
+ |  |  | 3. Establish National Quality Assurance Framework.
+ |  |  | 4. Reform and re-orientate the existing TVET curriculum to comply with new standards as defined in consultation with industry/employers (through a consultative process) with a focus on learning from similar regional and international norms
+ |  |  | 3. Standardise the entry criteria and qualifications for all TVET programmes and modules as a way of securing uniform recognition of graduate's qualifications
+ |  |  | 4. Develop a nationally-administrated summative examination approaches that allow for practical and project based assessment
+ |  |  | 5. Develop instruments that streamline the many different assessment approaches in existence (NCC, Trade Tests; Provider Assessment and Foreign Assessment) into one unified assessment system.
+ |  |  | 6. Facilitate the linking up of TVET providers in Lesotho with regional training institutions that offer quality training programmes.
 3. The Relevance of TVET programmes significantly enhanced | 3.1 To facilitate skills development in response to labour market requirements | 3.1.1 Closer link between TVET programmes and market requirements achieved by 2015 | 1. Undertake needs assessment to inform TVET provision
-2. Conduct tracer studies on TVET graduates 3. Review the curriculum of all TVET courses to
-3.2 To offer TVET programmes that promote self- employment | 3.2.1 Informal sector-relevant programmes offered to a significant number of learners by 2015 | 1. Design special training programmes that address the production requirements of the various categories of informal sector operators so that there is greater preparedness for self employment upon graduation.
-2. Integrate trading skills in the TVET programmes to ensure that informal sector operators can better dispose of their products in both the national and regional markets through cross-border trade to generate more income
+ |  |  | 2. Conduct tracer studies on TVET graduates
+ |  |  | 3. Review the curriculum of all TVET courses to make them more demand-driven
+ | 3.2 To offer TVET programmes that promote self-employment | 3.2.1 Informal sector-relevant programmes offered to a significant number of learners by 2015 | 1. Design special training programmes that address the production requirements of the various categories of informal sector operators so that there is greater preparedness for self employment upon graduation.
+ |  |  | 2. Integrate trading skills in the TVET programmes to ensure that informal sector operators can better dispose of their products in both the national and regional markets through cross-border trade to generate more income
 
 74
 
@@ -2850,7 +2893,7 @@ Strategic Goal | Strategic Objectives | 2005-2015 Targets | 2005-2009 Activities
 --- | --- | --- | ---
 3. Encourage TVET providers to gravitate progressively towards cost-recovery tuition and other fees as long as there is a financing gap from alternative sources of revenue.
 4. Link the TVET providers' state funding to performance of the provider. The Ministry shall develop the criteria for assessing 'good performance.'
-5. Develop comprehensive resource mobilisation options and strategies from within the TVET system, focusing on the Government, private sources, students' fees (for conventional and short- duration courses), and income generating activities
+5. Develop comprehensive resource mobilisation options and strategies from within the TVET system, focusing on the Government, private sources, students' fees (for conventional and short-duration courses), and income generating activities
 6. Develop the strategy for a coordinated external resource mobilization for TVET institutions
 5. HIV and AIDS cases reduced | 5.1 To curb HIV and AIDS prevalence in TVET institutions | 5.1.1 HIV and AIDS prevalence levels in TVET institutions significantly reduced by 2015 | 1. Develop policy and operationalise guidelines on HIV and AIDS.
 2. Provide HIV and AIDS prevention support to TVD and TVET institutions.
@@ -2927,6 +2970,8 @@ ________________________________________________________________________
 
 The envisioned expansion of access to TVET, especially the expansion of facilities will require substantial  increase  to  this  sub-sector  during  the  plan  period.  While  the  increased  role  of  the private sector in this process should minimise dependence of public funding, the overall funding gap as shown in Table 19, will be as high as 74% from 2006 to 2009. The inclusion of additional facilities  and  capital  requirements  for  expansion  of  existing  institutions  such  as  Lerotholi Polytechnic and Thaba-Tseka Training Institute means that approximately 35% of the plan can be funded from Government resources over the plan period.
 
+Table 19: Full cost of education provision under the strategic plan on the Technical and Vocational Education Training Budget (in M1000)
+
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
@@ -2945,8 +2990,6 @@ Available GOL Capital resources | 5,106 | 3,864 | 3,530 | 3,707 | 3,892 | 4,281
 Funding Gap | 22,924 | 81,876 | 92,555 | 102,487 | 56,721 | 61,309
 % of ESSP Funded | 53 | 26 | 27 | 26 | 39 | 39
 % of Funding Gap | 47 | 74 | 73 | 74 | 61 | 61
-
-Table 19: Full cost of education provision under the strategic plan on the Technical and Vocational Education Training Budget (in M1000)
 
 79
 
@@ -2995,7 +3038,7 @@ diploma  and  certificate  levels.  These  are  the  School  of  Technology, 20 
 
 Notwithstanding LP's vision, a review of the 2002/2003 operational plan by the Polytechnic itself revealed some challenges in the institution's capacity to implement the  planned  activities.  The main  constraints  identified  include  high  staff  attrition,  inadequate  funding,  and  inadequate infrastructure. There is also recognition of the need to restructure its programmes so that they are responsive to the technological and industrial developments in Lesotho.
 
-It  is  the  Government's  position  that  higher  education  institutions  have  to  rationalize  the composition  of  their  expenditures  and  explore  complementary  ways  of  enhancing  their  selfgenerated revenue base. Increasing student enrolment in these institutions shall be given priority in  this  regard.  The  reconstruction  and  refurbishment  of  LCE  student  hostels  has  opened opportunities for increased enrolment. Similarly, NUL, under its new management, has embarked on a cost containment strategy that include the exploration of opportunities for the diversification of its revenue base beyond Government funding through, for example, income generating projects such as research and new investments in real estate. The expansion of student hostels around the fairly  isolated  Roma  Campus  would  not  only  lead  to  enrolment  expansion  but  also  to  the minimization of physical insecurity for students, (particularly females) who have to make suboptimal accommodation arrangements outside campus in a generally rural environment.
+It is the Government's position that higher education institutions have to rationalize the composition of their expenditures and explore complementary ways of enhancing their self-generated revenue base. Increasing student enrolment in these institutions shall be given priority in this regard. The reconstruction and refurbishment of LCE student hostels has opened opportunities for increased enrolment. Similarly, NUL, under its new management, has embarked on a cost containment strategy that include the exploration of opportunities for the diversification of its revenue base beyond Government funding through, for example, income generating projects such as research and new investments in real estate. The expansion of student hostels around the fairly isolated Roma Campus would not only lead to enrolment expansion but also to the minimization of physical insecurity for students, (particularly females) who have to make sub-optimal accommodation arrangements outside campus in a generally rural environment.
 
 In terms of the governance structure for higher education, the Higher Education Bill envisages the provision of a legal framework for the regulation of higher education in Lesotho and specifically focuses on the establishment, governance and funding of a Council for Higher Education (CHE). This new body has the following main responsibilities:
 
@@ -3059,9 +3102,9 @@ In the light of the policies and challenges above, the Government's strategies d
 
 - Review the curriculum.
 
-- Establish  national  quality  assurance  mechanisms  for  higher  education  subsector.
+- Establish national quality assurance mechanisms for higher education sub-sector.
 
-- Establish  national  accreditation  mechanisms  for  the  higher  education  subsector.
+- Establish national accreditation mechanisms for the higher education sub-sector.
 
 - Improve management efficiency and effectiveness.
 
@@ -3187,7 +3230,7 @@ Considering that the age group of students in higher education institutions is h
 
 ##### 7.6.7 Effective partnerships in higher education in place
 
-The Government recognises the value of improving its partnership with other stakeholders in the higher education sub-sector so as to ensure that their positions are reflected in the manner the subsector is evolving. The private sector, in particular, has a special interest in the calibre of higher education graduates and a closer link at this level would provide important information regarding the  labour  market  demand  for  this  trained  human  resource.  At  another  level,  the  form  of relationship between the Government and cooperating partners/donors is equally important and the modalities of interaction could have important implications with respect to how the sub-sector is funded. The refinement of the Government-donor relationship in the sub-sector shall, therefore, be done.
+The Government recognises the value of improving its partnership with other stakeholders in the higher education sub-sector so as to ensure that their positions are reflected in the manner the sub-sector is evolving. The private sector, in particular, has a special interest in the calibre of higher education graduates and a closer link at this level would provide important information regarding the labour market demand for this trained human resource. At another level, the form of relationship between the Government and cooperating partners/donors is equally important and the modalities of interaction could have important implications with respect to how the sub-sector is funded. The refinement of the Government-donor relationship in the sub-sector shall, therefore, be done.
 
 #### 7.7 Financing for Higher Education
 
@@ -3202,6 +3245,8 @@ The main cost driver in tertiary education  is the  construction  of  additional
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+Table 22: Full cost of education provision under the strategic plan on the Higher Education Budget (in M1000)
 
 2005/06 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -3223,8 +3268,6 @@ Available GOL Capital resources | 17,145 | 6,074 | 6,414 | 6,735 | 7,071 | 7,778
 Funding Gap | 198,270 | 251,897 | 254,729 | 172,773 | 176,034 | 160,105
 % of ESSP Funded | 62 | 55 | 55 | 65 | 65 | 67
 % of Funding Gap | 38 | 45 | 45 | 35 | 35 | 33
-
-Table 22: Full cost of education provision under the strategic plan on the Higher Education Budget (in M1000)
 
 87
 
@@ -3360,7 +3403,7 @@ STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 
 ________________________________________________________________________
 
-6. Developing and upgrading relevant
+6. Developing and upgrading relevant materials for literacy and post literacy programmes
 ---
 7. Create links with formal education programmes in order to share existing infrastructure and expertise. (Classrooms, Resource Centres, and Teachers)
 
@@ -3393,6 +3436,8 @@ ________________________________________________________________________
 
 The provision of Lifelong Learning services as envisaged in the Strategic Plan is 43% funded in the first year, increasing to 46% by 2009/10 as shown in Table 23. From 2008/09 the funding gap is expected to widen as alternative learning opportunities at basic education level are expanded to all the districts. This trend is driven by additional enrolment, and the cumulative cost driven by the  increased  provision  of  entrepreneurial  training  in  the  literacy  programme.  These  two interventions are the main cost items. The current costing does not take into account possible cost recovery.
 
+Table 23 Full cost of education provision under the strategic plan on Lifelong Learning (in M1000)
+
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
@@ -3408,11 +3453,9 @@ Health materials and courses | 100 | 300 | 600 | 900 | 1,200 | 1,500
 Total Cost of Lifelong Learning | 12,400 | 19,300 | 26,300 | 31,200 | 35,200 | 41,500
 Available GOL Recurrent resources | 4,900 | 7,700 | 10,500 | 13,300 | 15,400 | 18,900
 Available GOL Capital resources | 470 | 764 | 780 | 819 | 860 | 903
-Funding Gap | 7,030 | 0,836 | 5,020 | 7,081 | 18,940 | 21,697
+Funding Gap | 7,030 | 10,836 | 15,020 | 17,081 | 18,940 | 21,697
 % of ESSP Funding | 43 | 44 | 43 | 45 | 46 | 48
 % of Funding Gap | 57 | 56 | 57 | 55 | 54 | 52
-
-Table 23 Full cost of education provision under the strategic plan on Lifelong Learning (in M1000)
 
 92
 
@@ -3463,7 +3506,9 @@ Source: Lesotho College of Education
 
 ________________________________________________________________________
 
-The National University of Lesotho (NUL), through the Faculty of Education (FED), provides pre-service  teacher  education  programmes  at  both  undergraduate  and  postgraduate  levels  for secondary schools. These include four-year Bachelor of Education (B.Ed) degree and Bachelor of Science Education (B.Sc.Ed.). The University also offer a Bachelor of Education (primary) on a part-time basis, and its first output is expected at the end of 2005. Diploma programmes are also offered  by  the  University  in  Agriculture  (Dip.Agric.Ed.)  and  in  Science  (Dip.Sci.Ed).  At  postgraduate levels the courses are a Postgraduate Diploma in Education (PGDE), Master of Arts in Education (M.A.Ed.), Master of Education (M.Ed.) Master of Science Education (M.Sc.Ed.) and Doctor of Philosophy (Ph.D.). The enrolment of the FED increased from 562 in 1999 to 747 in 2002. Table 25 below shows the programmes offered by the
+The National University of Lesotho (NUL), through the Faculty of Education (FED), provides pre-service teacher education programmes at both undergraduate and postgraduate levels for secondary schools. These include four-year Bachelor of Education (B.Ed) degree and Bachelor of Science Education (B.Sc.Ed.). The University also offer a Bachelor of Education (primary) on a part-time basis, and its first output is expected at the end of 2005. Diploma programmes are also offered by the University in Agriculture (Dip.Agric.Ed.) and in Science (Dip.Sci.Ed). At post-graduate levels the courses are a Postgraduate Diploma in Education (PGDE), Master of Arts in Education (M.A.Ed.), Master of Education (M.Ed.) Master of Science Education (M.Sc.Ed.) and Doctor of Philosophy (Ph.D.). The enrolment of the FED increased from 562 in 1999 to 747 in 2002. Table 25 below shows the programmes offered by the
+
+Tables 25 show details of the teacher training programmes at NUL.
 
 Table 25: Courses Offered by NUL for Teacher Training
 --- | --- | --- | --- | ---
@@ -3476,25 +3521,23 @@ B. Ed | COSC | 4 years | Junior and High School
 MA. Ed | B. Ed | 2 years | Supervisory roles | Reduces # B.Ed
 PGDE | BA /BSc | 1 years | Junior and High School
 
-Tables 25 show details of the teacher training programmes at NUL.
-
 Source: University of Lesotho
 
 A number of positive quantitative and qualitative developments are worth noting. Table 26 shows that the total enrolment at the LCE increased from 925 in 1998 to 1739 in 2002.  Female students' higher share of enrolments is also noteworthy from the table. Figure 6, shows the proportions of the  different  categories  of  LCE  teaching  staff  in  2002,  revealing  that  the  number  of  assistant lecturers is almost twice as high as that of the senior lecturers. Although the pass rate in all the training  programmes  in  the  College  is  quite  high,  the  large  number  of  assistant  lecturers  has implications for the quality of teaching which necessitates capacity building.
 
 Table 26 Enrolment at Lesotho College of Education by Programme, 1998-2002
---- | --- | --- | --- | --- | --- | --- | ---
-Primary Teachers Certificate | Secondary Teachers Certificate | Diploma in Primary | Diploma Primary Education. | Diploma In Technical Education | Diploma Secondary Education | Total
-Males | 55 | 84 | 20 | 27 | 41 | 0 | 227
-Females | 282 | 197 | 144 | 74 | 1 | 0 | 698
-Males | 85 | 88 | 19 | 0 | 35 | 0 | 227
-Females | 378 | 195 | 143 | 0 | 5 | 0 | 721
-Males | 37 | 102 | 24 | 57 | 46 | 0 | 266
-Females | 153 | 227 | 129 | 194 | 1 | 0 | 704
-Males | 1 | 126 | 23 | 45 | 125 | 0 | 320
-Females | 23 | 226 | 141 | 5 | 284 | 0 | 679
-Males | 167 | 37 | 22 | 41 | 166 | 100 | 533
-Females | 333 | 89 | 58 | 4 | 478 | 144 | 1206
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Primary Teachers Certificate | Secondary Teachers Certificate | Diploma in Primary | Diploma Primary Education. | Diploma In Technical Education | Diploma Secondary Education | Total
+1998 | Males | 55 | 84 | 20 | 27 | 41 | 0 | 227
+ | Females | 282 | 197 | 144 | 74 | 1 | 0 | 698
+1999 | Males | 85 | 88 | 19 | 0 | 35 | 0 | 227
+ | Females | 378 | 195 | 143 | 0 | 5 | 0 | 721
+2000 | Males | 37 | 102 | 24 | 57 | 46 | 0 | 266
+ | Females | 153 | 227 | 129 | 194 | 1 | 0 | 704
+2001 | Males | 1 | 126 | 23 | 45 | 125 | 0 | 320
+ | Females | 23 | 226 | 141 | 5 | 284 | 0 | 679
+2002 | Males | 167 | 37 | 22 | 41 | 166 | 100 | 533
+ | Females | 333 | 89 | 58 | 4 | 478 | 144 | 1206
 
 94
 
@@ -3536,9 +3579,9 @@ Education Statistics Bulletin, 1999-2003, Maseru, Planning Unit, Vol. 1.2003
 
 Regarding  teacher  supply  the  Government's  concern  is  focused  principally  at  quantitative  and qualitative improvements.  The historical deficit of qualified teachers at primary and secondary levels has been exacerbated in recent times by increased enrolments and the high attrition rate. At the quantitative level, it is noteworthy that while teacher training has expanded, the demand for teachers still exceeds supply. The situation analysis in the IECCD, basic, secondary and TVET in previous  chapters  revealed  the  magnitude  of  the  problem.  The  impact  of  under-qualified  and unqualified teachers has a noticeable impact on the quality of education.
 
-At  the qualitative  level ,  the  government  recognizes  that  without  sufficient,  qualified  and  wellmotivated teachers, most of the quality targets in this Strategic Plan would be difficult to achieve. The situation  of  teacher  shortage  and  the  subsequent  high  teacher  turnover  can  only  create  an even  higher  need  for Continuing  Professional  Development  (CPD) to  re-skill  teachers  on innovative pedagogic approaches, immerging  challenges in curricula, social issues,  new technologies and management practices. The Government acknowledged the need for improved coordination and planning of CPD programmes informed by regular needs analyses.
+At the qualitative level, the government recognizes that without sufficient, qualified and well-motivated teachers, most of the quality targets in this Strategic Plan would be difficult to achieve. The situation of teacher shortage and the subsequent high teacher turnover can only create an even higher need for Continuing Professional Development (CPD) to re-skill teachers on innovative pedagogic approaches, immerging challenges in curricula, social issues, new technologies and management practices. The Government acknowledged the need for improved coordination and planning of CPD programmes informed by regular needs analyses.
 
-Whereas,  at  basic  education  and  secondary  levels,  a  majority  of  teachers  are  government employees,  their  management  at  school  and  at  national  level  is  shared  responsibility  of  the government  and  school  proprietors,  especially  churches  that  own  the  majority  of  schools.  The partnership  in  teacher  management  between  the  MOET,  Churches  and  teacher  formations, entrenched  in  the  Education  Act,  requires  further  refinement  with  greater  clarity  of  roles  and responsibilities. The current absence of a clear career structure for teachers has a generally demotivating effect on an average teacher at different levels of the education system. The resultant lack of upward mobility of teachers within the profession continues to affect the attractiveness of the  profession  and  principally  explains  the  high  attrition  rates,  particularly  at  primary  schools. Notwithstanding this, significant progress has been registered in  the area  of  improving teacher education.  In 2003, 67.3% of primary school and 89.3% of secondary school teachers were fully qualified.  At  post-primary  level,  the  high  proportion  of  unqualified  teachers  has  resulted  in expatriate personnel accounting for 10%  of teaching establishment. The imperative to significantly increase the output levels in teacher education programmes will remain high in the plan period if reasonable standards have to be achieved in IECCD, primary and secondary levels of  education.  Such  expansion  has  to  occur  in  a  context  a  well  defined  teacher  training  policy
+Whereas, at basic education and secondary levels, a majority of teachers are government employees, their management at school and at national level is shared responsibility of the government and school proprietors, especially churches that own the majority of schools. The partnership in teacher management between the MOET, Churches and teacher formations, entrenched in the Education Act, requires further refinement with greater clarity of roles and responsibilities. The current absence of a clear career structure for teachers has a generally de-motivating effect on an average teacher at different levels of the education system. The resultant lack of upward mobility of teachers within the profession continues to affect the attractiveness of the profession and principally explains the high attrition rates, particularly at primary schools. Notwithstanding this, significant progress has been registered in the area of improving teacher education. In 2003, 67.3% of primary school and 89.3% of secondary school teachers were fully qualified. At post-primary level, the high proportion of unqualified teachers has resulted in expatriate personnel accounting for 10% of teaching establishment. The imperative to significantly increase the output levels in teacher education programmes will remain high in the plan period if reasonable standards have to be achieved in IECCD, primary and secondary levels of education. Such expansion has to occur in a context a well defined teacher training policy
 
 95
 
@@ -3642,7 +3685,7 @@ During the Strategic Plan period 2005-2015, the Mission of the Ministry in the a
 
 - Put Performance Management system for teachers in place
 
-- Improve  professional  quality  and  effectiveness  of  both  pre-service  and  inservice teacher education.
+- Improve professional quality and effectiveness of both pre-service and in-service teacher education.
 
 - Improve school management.
 
@@ -3703,6 +3746,7 @@ In the context of the above, the following shall constitute the main interventio
 STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 --- | --- | --- | ---
 1. Attain quantitative improvements in teacher supply | 1.1 To achieve adequate supply of teachers | 1.1.1 Fill 80% of required posts 2010 and 100% by 2015 | 1. Recruitment of sufficient teachers to meet the quantitative and qualitative targets
+2. Expand learning facilities for trainee teachers at NUL and LCE
 3. Expand enrolment of student teachers at NUL
 4. Expand enrolment of student teachers at LCE
 
@@ -3733,7 +3777,7 @@ STRATEGIC GOAL | STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 3. Design and implement Performance Management System for teachers at different levels
 4. Ensure that supply and demand of qualified teachers/trainers meets the demand of high population growth resulting from the adoption of the policy of universal basic education.
 5. Introduce of e-governance in teacher management
-3. Improve the motivation of teachers | 3.1 To enhance the status, morale and professionalis m of teachers | 3.1.1 Motivated and satisfied teachers in the teaching service by 2015 | 1. Develop a framework that ensures that teachers/trainers at all levels develop professionally.
+3. Improve the motivation of teachers | 3.1 To enhance the status, morale and professionalism of teachers | 3.1.1 Motivated and satisfied teachers in the teaching service by 2015 | 1. Develop a framework that ensures that teachers/trainers at all levels develop professionally.
 2. Develop a clear career structure for teachers
 3. Have in place a co-ordinated In-service (INSET) / Continuing Professional Development
 4. Establish a national system of accreditation of providers and courses/ certificates.
@@ -3777,6 +3821,8 @@ A  degree  of  efficiency  savings  is  built  into  the  costing,  in  that  th
 
 ________________________________________________________________________
 
+Table 27: Full cost of Teacher Development Supply and Management under the strategic plan (in M1000)
+
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
@@ -3799,8 +3845,6 @@ Funding Gap | 150,181 | 180,684 | 198,793 | 162,803 | 171,203 | 182,049
 % of ESSP Funded | 17 | 17 | 18 | 22 | 22 | 23
 % of Funding Gap | 83 | 83 | 82 | 78 | 78 | 77
 
-Table 27: Full cost of Teacher Development Supply and Management under the strategic plan (in M1000)
-
 101
 
 [[END OF PAGE 102]]
@@ -3819,17 +3863,12 @@ ________________________________________________________________________
 
 In this Strategic Plan, the following are considered as key cross-cutting issues:
 
-- Curriculum and Assessment
-
-- Special Education
-
-- Gender in Education
-
-- HIV and AIDS pandemic
-
-- Administrative and Support Services
-
-- Special Programmes
+a) Curriculum and Assessment
+b) Special Education
+c) Gender in Education
+d) HIV and AIDS pandemic
+e) Administrative and Support Services
+f) Special Programmes
 
 The  Strategic  Plan's  activities  during  the  period  2005-2015  are  presented  below  under  these cross-cutting issues.
 
@@ -3863,20 +3902,17 @@ Despite earlier  setback  in  the  reform  initiatives  in  the  curriculum  and
 
 In the light of the above, the strategic objectives of the MOET in the area of Curriculum and Assessment are as follows:
 
-- Develop suitable curricula and instruction materials to meet the needs of Lesotho;
-
-- Disseminate curricula and instructional materials to schools;
-
-- Devise an evaluation system for curriculum activities and for assessment of students' learning;
-
-- Facilitate collaboration among institutions in matters related to curriculum and assessment;
+a) Develop suitable curricula and instruction materials to meet the needs of Lesotho;
+b) Disseminate curricula and instructional materials to schools;
+c) Devise an evaluation system for curriculum activities and for assessment of students' learning;
+d) Facilitate collaboration among institutions in matters related to curriculum and assessment;
 
 In the context of the above, the following shall constitute the main interventions in the area of Curriculum and Assessment during the Strategic Plan period:
 
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 --- | --- | --- | ---
-1. To provide a facilitative policy environment for curriculum development and assessment | 1.1 Functional Curriculum and Assessment Policy in place by 2006 | 1. | Develop the Curriculum and Assessment Policy
-2. | Develop an integrated national framework for curriculum and assessment for basic and senior secondary schools
+1. To provide a facilitative policy environment for curriculum development and assessment | 1.1 Functional Curriculum and Assessment Policy in place by 2006 | 1. Develop the Curriculum and Assessment Policy
+2. Develop an integrated national framework for curriculum and assessment for basic and senior secondary schools
 
 103
 
@@ -3892,12 +3928,13 @@ ________________________________________________________________________
 --- | --- | ---
 1. curriculum at both primary and secondary level and make it a) Developmentally-relevant b) Gender sensitive c) Responsive to the HIV and AIDS challenges d) Sensitive to the requirements of learners with disabilities
 2. Localize curriculum and examinations for senior secondary
+3. Review existing curriculum and assessment of practical subjects
 3. To make curriculum accessible | 3.1 Curricula and instructional materials effectively being disseminated to schools by 2015 | 1. Develop and disseminate curriculum and assessment packages
 3.2 Language policy in curriculum and assessment issues approved and implemented by 2009 | 1. Develop a curriculum language policy for different levels of education to render curricular materials accessible to educators and learners.
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 4. To devise an evaluation system for curriculum activities and for assessment of students' learning | 4.1 An effective evaluation/assessment system in place by 2015 | 1. Monitor educational System performance through public examinations and surveys continuously
 2. Periodically carry out national assessments
-3. Sensitise Teacher Training Institutions towards inclusion of assessment in their curriculum for pre-service and in- service
+3. Sensitise Teacher Training Institutions towards inclusion of assessment in their curriculum for pre-service and in-service
 5. To collaborate with other institutions on matters related to curriculum | 5.1 Diversified network of partners in curriculum development and assessment in place by 2015 | 1. Explore and enter into curriculum and assessment collaborative links with ministries of education in the region and internationally
 2. Strengthen collaboration with other regional and international qualifications / examinations authorities
 
@@ -3914,6 +3951,8 @@ The issue  of  enthusing  relevance  in  curricula  from  IECCD  to  Senior  Sec
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+Table 28: Full cost of education provision under the strategic plan on the Curriculum Development, Assessment and Education Support Budget (in M1000)
 
 2005/06 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -3933,8 +3972,6 @@ Funding Gap | 7,027 | 11,508 | 16,423 | 17,199 | 18,014 | 19,725
 % of ESSP Funded | 64 | 60 | 55 | 55 | 55 | 55
 % of Funding Gap | 36 | 40 | 45 | 45 | 45 | 45
 
-Table 28: Full cost of education provision under the strategic plan on the Curriculum Development, Assessment and Education Support Budget (in M1000)
-
 #### 10.3 Special Education
 
 The main objective of the Special Education programme is to advocate the integration/inclusion of learners with special educational needs/disabilities into the regular school system at all levels in order to enable them to acquire appropriate life skills and education. The learners include those who have physical and sensory impairments as well as those with learning difficulties, the gifted and  talented,  intellectually  disabled/mental  retardation  and  those  with  behavioural  disorders. Notwithstanding this, the MOET recognises the need for support to specialised schools to cater for  learners  with  extreme  needs,  for  who  care  and  development  is  provided.  The  Government recognises  that these learners require special educational  facilities  over  and  above  what mainstream  schools  offer.  To  handle  these  responsibilities,  the  Special  Education  Unit  was established in 1991 and focuses on four fields, namely, visual impairment, hearing impairment, physical disability and intellectual impairment. The integrative approach, that is preferred for the majority  of  learners  at  all  levels  of  education,  require  a  conscious  effort  on  the  side  of Government to develop educational facilities, curriculum materials and assessment mechanisms that  are  accessible  and  user  friendly  to  learners  with  special  needs.  The  need  for  training educators and other caregivers for learners with special needs has been recognised and needs to be an integral part of the capacity building in the education sector.
@@ -3943,8 +3980,8 @@ During  the  period  2005-2009,  the  Special  Education  programme  will  carry
 
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 --- | --- | ---
-1. To increase the provision of education of children with SEN/disability | 1.1 Have a Special Education Policy in place by 2006 | 1. Conduct a needs assessment study on the current needs and gaps within the Special Education Programme 2.
-Develop Special Education Policy through a review of the current special education policies, drawing some lessons from the experiences of other countries
+1. To increase the provision of education of children with SEN/disability | 1.1 Have a Special Education Policy in place by 2006 | 1. Conduct a needs assessment study on the current needs and gaps within the Special Education Programme
+2. Develop Special Education Policy through a review of the current special education policies, drawing some lessons from the experiences of other countries
 
 105
 
@@ -3956,27 +3993,28 @@ Develop Special Education Policy through a review of the current special educati
 
 ________________________________________________________________________
 
-2. To increase access for children with SEN/disability | 2.1 Significantly increase access for children with SEN/disability by 2015 2.2 Accelerate inclusion/integr ation of children with SEN/ disabilities from 4.8% to 20% by 2009 and to 40 | 1. Integrate more schools into the Special Education programme.
+2. To increase access for children with SEN/disability | 2.1 Significantly increase access for children with SEN/disability by 2015
+2.2 Accelerate inclusion/integration of children with SEN/ disabilities from 4.8% to 20% by 2009 and to 40 % by 2015 | 1. Integrate more schools into the Special Education programme.
 --- | --- | ---
 2. Provide targeted bursaries to learners with special needs to ensure full access to quality educational opportunities.
 3. Make classrooms, toilets and other school facilities physically accessible to learners with disabilities
 4. Facilitate the establishment of three resource centres to cater for children with visual impairment, hearing impairment and mental retardation
 1. Carry out feasibility studies to determine the level of demand for secondary education for learners with SEN/disabilities and select schools for integration.
 2. Build capacity for 20 percent of secondary schools to integrate learners with SEN/ disabilities
-% by 2015 | 3. Provide in-service training for 100 teachers per year in different areas of special needs
+3. Provide in-service training for 100 teachers per year in different areas of special needs
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
-2.3 700 teachers trained per year on SEN identification and assessment | 1. Intensify community awareness campaigns targeting families that have children with disabilities
-skills 3.1 Enhanced | 2. Train teachers in identification and assessment skills
-3. To improve the performance of Special Education Unit for efficient service delivery | capacity of the Special Education Unit by 2015 | 1. Improve the management capacity and quality of Special education
+2.3 700 teachers trained per year on SEN identification and assessment skills | 1. Intensify community awareness campaigns targeting families that have children with disabilities
+2. Train teachers in identification and assessment skills
+3. To improve the performance of Special Education Unit for efficient service delivery | 3.1 Enhanced capacity of the Special Education Unit by 2015 | 1. Improve the management capacity and quality of Special education
 2. Build capacity of the special education programme with the Education Sector
 3. Collect and analyse statistical data of children with SEN/disability
 4. Include special education component in teacher training and in technical vocational institutions
 5. Advocate for the inclusion of Special Education Programmes in all educational institutions
 6. Conduct a study to determine the appropriate educational provision for children with severe mental retardation, including the possibility of establishing a school specifically for children with physical and mental disabilities
 3.2 Human resource in the Special Education Unit increased and decentralised by 2015 | 1. Create the following posts: a) 4 assistant inspectors to be responsible for specific disability categories b) Itinerant Sp. Ed. teachers (1 per 10 primary schools) and 1 per 15 Secondary schools) c) 6 Technical Officers -1 per region (as Braillists & O&M instructors) & 1 per region (as Sign language interpreter)
-4. To mainstream Gender and HIV and AIDS in Special Education programmes | 4.1 HIV and AIDS and Gender mainstreamed into all Special Education | 1. Revise the Special Education Teacher Training Package to include HIV and AIDS and Gender
+4. To mainstream Gender and HIV and AIDS in Special Education programmes | 4.1 HIV and AIDS and Gender mainstreamed into all Special Education Programmes by 2015 | 1. Revise the Special Education Teacher Training Package to include HIV and AIDS and Gender
 2. Print materials on HIV and AIDS in Braille edition
-Programmes by 2015 | 3. Create awareness among children/learners with disabilities on HIV and AIDS, child abuse and equip them with assertive skills through workshops, media campaign, peaceful demonstrations, etc.
+3. Create awareness among children/learners with disabilities on HIV and AIDS, child abuse and equip them with assertive skills through workshops, media campaign, peaceful demonstrations, etc.
 4. Mainstream gender in all the programmes of the Special Education Unit
 
 106
@@ -4098,29 +4136,22 @@ ________________________________________________________________________
 
 prevalence  rate  in  the  country  increased  from  26  percent  in  1999  to  31  percent  in  2002,  with infected children between zero and 14 years old estimated by UNICEF to be 27,000 in 2002.
 
-Considering the high HIV and AIDS prevalence rate among teenagers and the large number of teenage  pregnancy  among  school  age  children,  the  challenge  for  the  education  sector  is considerable. Current preliminary projections warn that the impact on the school-going children will be severe.  HIV and AIDS affects school-going population in three ways: (a) infected women and men die prematurely and, thus, have less children; (b) women's fertility is reduced due to the HIV infection;  and  (c)  about  30  percent  of  children  born  to  infected  mothers  are  likely  to  be infected and most of them die before they reach school going age. A recent impact assessment of HIV and AIDS on the education sector revealed that in the absence of HIV and AIDS, the schoolgoing  age  population  aged  0  -  19  is  projected  to  continue  to  grow  from  848,000  in  2001  to 1,141,000 in 2010 and 1,142,000 in 2015. When considering the impacts of HIV and AIDS, the population  continues  to  grow  until  2008,  after  which  a  slow  decline  in  population  numbers  is projected as a result of deaths and the reduction in total fertility rates that occur.  The estimated impact of HIV and AIDS on teachers is discussed in Chapter 9.
+Considering the high HIV and AIDS prevalence rate among teenagers and the large number of teenage pregnancy among school age children, the challenge for the education sector is considerable. Current preliminary projections warn that the impact on the school-going children will be severe. HIV and AIDS affects school-going population in three ways: (a) infected women and men die prematurely and, thus, have less children; (b) women's fertility is reduced due to the HIV infection; and (c) about 30 percent of children born to infected mothers are likely to be infected and most of them die before they reach school going age. A recent impact assessment of HIV and AIDS on the education sector revealed that in the absence of HIV and AIDS, the school-going age population aged 0 - 19 is projected to continue to grow from 848,000 in 2001 to 1,141,000 in 2010 and 1,142,000 in 2015. When considering the impacts of HIV and AIDS, the population continues to grow until 2008, after which a slow decline in population numbers is projected as a result of deaths and the reduction in total fertility rates that occur. The estimated impact of HIV and AIDS on teachers is discussed in Chapter 9.
 
 In the light of the above state of affairs, the resolve of the MOET to tackle the HIV and AIDS pandemic is unshaken and is reflected in a number of activities that have been identified in this Strategic Plan under the different education sub-sectors. As the Ministry's Draft HIV and AIDS Manual that was released in 2003 states,
 
 Good quality education…is in itself a powerful weapon in the fight to contain HIV and AIDS. Because  schools  are  both  educational  environments  and  adult  workplaces,  the  Ministry  of Education has realised the need to develop, support and protect those who learn and work within them. The Ministry of Education is concerned about HIV and AIDS as it weakens the whole education system and creates new experiences within the system.
 
-At the more general level, the Government recognises HIV and AIDS as a cross-cutting multisectoral development challenge and the National Policy on HIV and AIDS Prevention, Control and Management, released in 2000, provides a framework for the formulation of plans to fight, in a coordinated and harmonised way, against the pandemic by different stakeholders. The National AIDS Strategic Plan, covering a three-year period, has been developed. It clarifies the national response to the HIV/AIDS pandemic in Lesotho. The strategic aims in the plan relate to reducing the prevalence of HIV/AIDS by 5%, delaying sexual activities by adolescents, increasing the use of  condoms,  assisting  all  people  living  with  HIV/AIDS  through  support,  counselling  and  care, organising care for 50% of the AIDS orphans, reducing spread of HIV/AIDS, realising positive behavioural  change,  establishing  and  implementing  a  gender  sensitive  policy,  conducting  a baseline study. The nine related strategic objectives of the National AIDS Strategic plan are:
+At the more general level, the Government recognises HIV and AIDS as a cross-cutting multi-sectoral development challenge and the National Policy on HIV and AIDS Prevention, Control and Management, released in 2000, provides a framework for the formulation of plans to fight, in a coordinated and harmonised way, against the pandemic by different stakeholders. The National AIDS Strategic Plan, covering a three-year period, has been developed. It clarifies the national response to the HIV/AIDS pandemic in Lesotho. The strategic aims in the plan relate to reducing the prevalence of HIV/AIDS by 5%, delaying sexual activities by adolescents, increasing the use of condoms, assisting all people living with HIV/AIDS through support, counselling and care, organising care for 50% of the AIDS orphans, reducing spread of HIV/AIDS, realising positive behavioural change, establishing and implementing a gender sensitive policy, conducting a baseline study. The nine related strategic objectives of the National AIDS Strategic plan are:
 
-- To  establish  structures  for  the  effective  coordination  of  the  multi-sectoral  National AIDS programme.
-
-- To mobilise adequate resources for the National AIDS Programme.
-
-- To significantly strengthen the information, education and communication programmes.
-
-- To provide support to the infected and affected with a view to significantly mitigating the impact of the epidemic.
-
-- To involve the youth in all AIDS Programmes.
-
-- To drastically reduce the high rate of sexually transmitted diseases.
-
-- To intensify surveillance and testing of HIV/AIDS.
-
-- To regularly monitor and periodically evaluate the National AIDS Programme.
+a) To establish structures for the effective coordination of the multi-sectoral National AIDS programme.
+b) To mobilise adequate resources for the National AIDS Programme.
+c) To significantly strengthen the information, education and communication programmes.
+d) To provide support to the infected and affected with a view to significantly mitigating the impact of the epidemic.
+e) To involve the youth in all AIDS Programmes.
+f) To drastically reduce the high rate of sexually transmitted diseases.
+g) To intensify surveillance and testing of HIV/AIDS.
+h) To regularly monitor and periodically evaluate the National AIDS Programme.
 
 110
 
@@ -4206,7 +4237,7 @@ For those who are already infected by the virus Government is determined to prol
 
 - o work with NGOs and CBOs to provide advice and support to infected persons.
 
-Source : Government of Lesotho, Poverty Reduction Strategy Paper 2004/05 - 2006/07 , Maseru, 2004
+Source: Government of Lesotho, Poverty Reduction Strategy Paper 2004/05 – 2006/07, Maseru, 2004
 
 In the context of the above and guided by the PRS approach, the following shall constitute the main  interventions  over  the  period  2005-2015  in  the  area  of  HIV  and  AIDS  in  the  education sector:
 
@@ -4216,9 +4247,9 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 2. Review the existing education sector's institutional needs and strengthen them with a view to better manage the HIV and AIDS challenges
 3. Review the education legislation and identify gaps that compromise more direct attention being given to HIV and AIDS problems and effect the required amendments and/or enact new legislation
 4. Mobilise financial and human resources to fight the pandemic within the education sector
-5. Introduce core-streaming of HIV and AIDS in all education sub- sectors and activities
+5. Introduce core-streaming of HIV and AIDS in all education sub-sectors and activities
 6. Establish clear linkages between the Ministry, teachers, management, students/pupils, the churches, traditional leaders, and NGOs for a combined fight against the spread of HIV.
-2. To combat the spread of HIV and AIDS | Significantly reduce the HIV infection rate among pupils/ students and teachers by 2015 | 1. Make schools focal points for reproductive health education, including aspects of HIV and AIDS and its link to gender.
+2. To combat the spread of HIV and AIDS | Significantly reduce the HIV infection rate among pupils/students and teachers by 2015 | 1. Make schools focal points for reproductive health education, including aspects of HIV and AIDS and its link to gender.
 2. Conduct HIV and AIDS awareness campaigns within the education sector based on Knowledge, Attitudes and Practices (KAP) and Impact Assessment surveys
 3. Target interventions (both prevention and care) to the most severely affected age groups in the school system, paying particular attention on the minimisation of new infections
 4. Design effective strategies to address the impact on education service delivery of high teacher attrition rates due to HIV and AIDS, focusing more on effective approaches to replenishments of lost human resource and matching of current and projected teacher supply to rising (current and projected) demand
@@ -4257,15 +4288,11 @@ Special Programmes in the Education Sector UNESCOM and Prince Mohato.
 
 With  Respect  to  UNESCOM, the  strategic  objectives  during  the  period  2005-2009  shall  be  as follows:
 
-- Review  the  legislation  which  set  up  the  National  Commission  in  order  to improve its operations
-
-- Improve the delivery capacity of the Commission
-
-- Facilitate the implementation of resolutions made at UNESCO's International and Intergovernmental Conferences and Conventions
-
-- Enhance  the  role  of  the  National  Commission  in  the  Poverty  Reduction efforts at the grassroots
-
-- Strengthen the role of the National Commission in the fight against HIV and AIDS
+a) Review the legislation which set up the National Commission in order to improve its operations
+b) Improve the delivery capacity of the Commission
+c) Facilitate the implementation of resolutions made at UNESCO's International and Intergovernmental Conferences and Conventions
+d) Enhance the role of the National Commission in the Poverty Reduction efforts at the grassroots
+e) Strengthen the role of the National Commission in the fight against HIV and AIDS
 
 113
 
@@ -4277,9 +4304,8 @@ With  Respect  to  UNESCOM, the  strategic  objectives  during  the  period  200
 
 ________________________________________________________________________
 
-- Develop the Commission's human resource
-
-- Play an enhanced role in Lesotho's poverty alleviation strategy
+f) Develop the Commission's human resource
+g) Play an enhanced role in Lesotho's poverty alleviation strategy
 
 In  the  context  of  the  above,  the  following  shall  constitute  the  Strategic  Plan  objectives  and activities for UNESCOM.
 
@@ -4291,7 +4317,7 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 4. Create an Assistant Administrative Officer position
 5. Train staff
 6. Computerize the library
-1.2 Enhanced implementation of resolutions made at UNESCO's international and intergovernment al conferences and Conventions | 1. Carry out the following activities as follow-up and implementation of UNESCO's Conferences and Conventions: a) Disseminate information, b) Organise meetings with stakeholders c) Establish National focal Points and Committees, d) Draw up National Plans and Strategies e) Disseminate the services available at the National Commission widely
+1.2 Enhanced implementation of resolutions made at UNESCO's international and intergovernmental conferences and Conventions | 1. Carry out the following activities as follow-up and implementation of UNESCO's Conferences and Conventions: a) Disseminate information, b) Organise meetings with stakeholders c) Establish National focal Points and Committees, d) Draw up National Plans and Strategies e) Disseminate the services available at the National Commission widely
 2. To enhance the relevance of UNESCOM | 2.1 The role of the Commission in the Poverty Reduction efforts enhanced | 1. Play an enhanced role in Lesotho's poverty alleviation strategy
 3. To mainstream HIV and AIDS in the Commission's activities | 3.1 Strengthened role of the National Commission in the fight against HIV and AIDS | 1. Set up an HIV and AIDS Resource Centre within the National Commission
 2. Develop a library collection on HIV and AIDS
@@ -4301,13 +4327,10 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 
 The following are the strategic objectives of Prince Mohato
 
-- To  increase the number  of  young  people participating in the  award programme
-
-- To train more adult helpers
-
-- To build management and competence.
-
-- To encourage young people to know their HIV status
+a) To increase the number of young people participating in the award programme
+b) To train more adult helpers
+c) To build management and competence.
+d) To encourage young people to know their HIV status
 
 In  the  context  of  the  above,  the  following  shall  constitute  the  Strategic  Plan  objectives  and activities for Prince Mohato.
 
@@ -4322,18 +4345,20 @@ In  the  context  of  the  above,  the  following  shall  constitute  the  Strat
 ________________________________________________________________________
 
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
---- | --- | --- | ---
-1. To expand access to the award | 1.1 More people accessing the award by 2015 | 1. | Ensure that institutions, community policing, youth groups, and NGOs take part in the Award Programme to improve access to award programme
-2. | Popularise the Award Scheme among young people
-3. | Acquire more equipment for the office and expeditions
-2. Train more adult helpers | 2.1 The number of trained adult helpers increased by 30 people per year | 1. | Conduct training of trainers workshops
-3. Improve the effectiveness of activities | 3.1 More awareness of the Mohato Award Scheme enhanced | 1. | Forge national and regional youth exchange programmes
-2. | Improve dissemination of activities through news letter and the use of the electronic media
-4. Address the challenges of HIV and AIDS | 4.1 HIV and AIDS messages integrated into the Award Scheme | 1. | Use drama to communicate HIV and AIDS messages
+--- | --- | ---
+1. To expand access to the award | 1.1 More people accessing the award by 2015 | 1. Ensure that institutions, community policing, youth groups, and NGOs take part in the Award Programme to improve access to award programme
+2. Popularise the Award Scheme among young people
+3. Acquire more equipment for the office and expeditions
+2. Train more adult helpers | 2.1 The number of trained adult helpers increased by 30 people per year | 1. Conduct training of trainers workshops
+3. Improve the effectiveness of activities | 3.1 More awareness of the Mohato Award Scheme enhanced | 1. Forge national and regional youth exchange programmes
+2. Improve dissemination of activities through news letter and the use of the electronic media
+4. Address the challenges of HIV and AIDS | 4.1 HIV and AIDS messages integrated into the Award Scheme | 1. Use drama to communicate HIV and AIDS messages
 
 #### 10.7 Costing for Special Programmes
 
 Whereas most of the costs towards the special programmes as cross-cutting areas are provided for in the various programmes of the education sector, some activities related to policy development, monitoring and coordination are costed below. Special Education is the major cost drivers in this area  accounting  for  almost  half  of  all  costs.  The  institutional  strengthening  of  this  programme with  concomitant  personnel  and  facilities  requirement  at  national  and  institutional  levels  will require both recurrent and development budget support as shown in Table-29.
+
+Table 29: Full cost of education provision under the strategic plan on the Special Programmes Budget (in M1000)
 
 2005/06 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -4356,8 +4381,6 @@ Funding Gap | 59,200 | 85,742 | 102,674 | 107,405 | 122,005 | 132,519
 % of ESSP Funding | 19 | 18 | 18 | 20 | 20 | 22
 % of Funding Gap | 81 | 82 | 82 | 80 | 80 | 78
 
-Table 29: Full cost of education provision under the strategic plan on the Special Programmes Budget (in M1000)
-
 115
 
 [[END OF PAGE 116]]
@@ -4376,23 +4399,15 @@ ________________________________________________________________________
 
 The Government of Lesotho has recognised that the institutional framework within which a plan is  implemented  ultimately  determines  the  prospects  of  its  success.  This  Strategic  Plan  has presented the Government's aim to improve the conditions in the education sector, focusing on both  quantitative  and  qualitative  considerations  that  include  issues  around  access,  quality, efficiency  and  equity  in  the  provision  of  education.    Given  the  many  institutional  and  human resource  capacity  limitations  that  still  face  the  education  sector  as  revealed  in  the  respective chapters  of  this  Strategic  Plan,  the  Government  has  decided  to  place  institutional  reforms  and capacity strengthening as part of its strategic goals during the period 2005-2015. In this regard, concerted  effort  shall  be  made  during  the  implementation  of  this  Strategic  Plan  to  build  the requisite capacities, guided by the following objectives:
 
-- Strengthening capacity of the MOET through the review of the management structure and reporting systems.
-
-- Through  the  Ministry's  MTEF,  continue  re-orienting  the  sector  Budget  to the financing of core functions, and to eventually integrate government and donor funding within a Sector-wide Approach (SWAp).
-
-- Integration  of  government  budget  resources  and  donor  resources  within  a mutually-agreed MOET programme of activities as defined in this Strategic Plan and guided by the EFA goals and MDGs.
-
-- Emphasising efficiency, transparency and realism in the design and implementation of the Strategic plan.
-
-- Fostering  a  sense  of  co-operation  and  partnership  with  all  stakeholders through regular consultation and reporting while firmly maintaining control and leadership within MOET.
-
-- Developing  and/or  strengthening  of mechanisms  for  measuring  sector performance.
-
-- Recognition  of  the  importance  of  consensus  on  education  policy,  reform activities and objectives between the Government, cooperating partners/donors and  other stakeholders through, inter-alia ,  formal  and informal consultation to ensure that there is common understanding on both the processes and instruments of Strategic Plan implementation.
-
-- To  establish a monitoring  and  evaluation  system  that ensures timely interventions  during  implementation  as  well  as  providing  information  on sector  performance  by  reconstituting  and  strengthening  the  Planning  Unit and the School Inspectorate.
-
-- Recognition of decentralisation as an important way of enlisting the interest and participation of local stakeholders at district, local and school levels in line with the Local Government structures to be established from 2005.
+a) Strengthening capacity of the MOET through the review of the management structure and reporting systems.
+b) Through the Ministry's MTEF, continue re-orienting the sector Budget to the financing of core functions, and to eventually integrate government and donor funding within a Sector-wide Approach (SWAp).
+c) Integration of government budget resources and donor resources within a mutually-agreed MOET programme of activities as defined in this Strategic Plan and guided by the EFA goals and MDGs.
+d) Emphasising efficiency, transparency and realism in the design and implementation of the Strategic plan.
+e) Fostering a sense of co-operation and partnership with all stakeholders through regular consultation and reporting while firmly maintaining control and leadership within MOET.
+f) Developing and/or strengthening of mechanisms for measuring sector performance.
+g) Recognition of the importance of consensus on education policy, reform activities and objectives between the Government, cooperating partners/donors and other stakeholders through, inter-alia, formal and informal consultation to ensure that there is common understanding on both the processes and instruments of Strategic Plan implementation.
+h) To establish a monitoring and evaluation system that ensures timely interventions during implementation as well as providing information on sector performance by reconstituting and strengthening the Planning Unit and the School Inspectorate.
+i) Recognition of decentralisation as an important way of enlisting the interest and participation of local stakeholders at district, local and school levels in line with the Local Government structures to be established from 2005.
 
 #### 11.2 Building Effective and Efficient Education Sector
 
@@ -4434,7 +4449,7 @@ In  view  of  the  above,  the  Government  shall  focus  on  the  following  ca
 
 ###### (a) Senior Management Capacity Strengthening
 
-The MOET management capacity will be strengthened through the provision of short- and longterm training for senior and middle-level managers in the following areas:
+The MOET management capacity will be strengthened through the provision of short- and long-term training for senior and middle-level managers in the following areas:
 
 - o procurement procedures and financial management,
 
@@ -4581,7 +4596,7 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 6. Align the MOET management structure at district level with the local government structures
 1.2 MOET headquarters restructured by 2009 and well functioning by 2015 | 1. Restructure the MOE Administration department to clearly reflect the Human Resource Management Unit, Training Unit, Staff Welfare Unit, Accounts Unit, Transport Unit, etc.
 2. Undertake the following reviews: a) How best to implement the Basic Education structure that presently spans between the primary and junior secondary sub-sectors b) The role and institutional home of Technical and Vocational Education and Training (TVET) c) The institutional home of Lerotholi Polytechnic in the light of the legislation that extends autonomy to it d) The School Supervision and Management Regulations e) The Teaching Service Regulations f) The hardship allowance and other incentives for teachers serving in difficult areas of the country
-3. Establish the following: a) Develop the policy on Higher Education b) A Welfare Department in MOET to provide services on HIV/AIDS, Counselling, and other personnel welfare issues c) A fully-fledged Department of Tertiary Education d) Legal Department for MOET e) Transform Education Planning Unit into a fully- fledged Education Planning and Research Department
+3. Establish the following: a) Develop the policy on Higher Education b) A Welfare Department in MOET to provide services on HIV/AIDS, Counselling, and other personnel welfare issues c) A fully-fledged Department of Tertiary Education d) Legal Department for MOET e) Transform Education Planning Unit into a fully-fledged Education Planning and Research Department
 
 121
 
@@ -4596,17 +4611,18 @@ ________________________________________________________________________
 4. Develop the following policies: a) Policy on HIV and AIDS for the education sector b) Teacher education and development policy c) Information and Communication Technologies (ICT) Policy for the Education Sector
 --- | --- | ---
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
-1.3 Enabling legislation | 1. Review the 1995 Education Act to incorporate new policy directions and lessons learned since its enactment
-reviewed and amended by 2007 to accommodate new policy orientations ad capacity strengthening efforts | 2. Review legislation establishing the National Commission for UNESCO
+1.3 Enabling legislation reviewed and amended by 2007 to accommodate new policy orientations ad capacity strengthening efforts | 1. Review the 1995 Education Act to incorporate new policy directions and lessons learned since its enactment
+2. Review legislation establishing the National Commission for UNESCO
 2. To build the needed management capacities for effective delivery of education services | 2.1 The capacity of MOET senior management and support staff fully strengthened by 2015 | 1. Facilitation of short- and long-term training for senior and middle-level managers of MOET in procurement procedures, financial management, ICT, human resource management, strategic planning and management, and policy and development.
 2. Seconding MOET officers to national, regional and international institutions to learn 'best practices'.
-2.2 All Personal and Private Secretaries of | 1. Facilitation of research and publishing opportunities for senior-level staff
-Ministers Senior Management trained in Office Management, IT and Public Relations within one year of recruitment. | 2. Train Senior Secretarial Staff in Office Management, Information Management, and Public Relations.
-2.3 Improvement of infrastructure provision by | 1. Construct more office accommodation at MOET Headquarters.
-2015 | 2. Expand infrastructure facilities at district level to accommodate increased activities.
-2.4 Improvement of school Management in | 1. Build education management skills of school heads and inspectors of school in areas of policy, planning and management of education at the local level.
-place by 2015 | 2. Offer school-level officers special training programmes in financial management, administrative management, human resource management, preventive maintenance, etc.
+2.2 All Personal and Private Secretaries of Ministers Senior Management trained in Office Management, IT and Public Relations within one year of recruitment. | 1. Facilitation of research and publishing opportunities for senior-level staff
+2. Train Senior Secretarial Staff in Office Management, Information Management, and Public Relations.
+2.3 Improvement of infrastructure provision by 2015 | 1. Construct more office accommodation at MOET Headquarters.
+2. Expand infrastructure facilities at district level to accommodate increased activities.
+2.4 Improvement of school Management in place by 2015 | 1. Build education management skills of school heads and inspectors of school in areas of policy, planning and management of education at the local level.
+2. Offer school-level officers special training programmes in financial management, administrative management, human resource management, preventive maintenance, etc.
 3. To strengthen administrative and support services | 3.1 Smooth and effective operations of MOET in place by 2015 | 1. Improve the capacity of MOET Accounts department through staffing and modernisation/computerisation of accounting operations
+2. Improve MOET payment systems
 3. Improve the Ministry's procurement system
 4. Provide senior managers of the MOET with adequate transport, and office space and requisites
 
@@ -4644,6 +4660,8 @@ Table 30 reveal that the expected available GOL recurrent resources for institut
 
 ________________________________________________________________________
 
+Table 30: Full cost of education provision under the strategic plan on the Institutional Systems Development and Maintenance Budget (in M1000)
+
 2005/06 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
@@ -4663,8 +4681,6 @@ Funding Gap | 151,729 | 313,659 | 315,085 | 116,728 | 28,545 | 21,452
 % of ESSP Funded | 12 | 8 | 9 | 22 | 56 | 66
 % of Funding Gap | 88 | 92 | 91 | 78 | 44 | 34
 
-Table 30: Full cost of education provision under the strategic plan on the Institutional Systems Development and Maintenance Budget (in M1000)
-
 #### 11.4  Planning Capacity
 
 ##### 11.4.1  Reform of the Planning Unit
@@ -4673,11 +4689,9 @@ MOET  recognises  that  there  is  need  to  review  the  structure  of  the  Mi
 
 In  view  of  the  above,  the  Ministry  recognises  that  the  capacity  of  its  Planning  Unit  has  to  be strengthened, paying particular attention on the following:
 
-- Clearer definition of its institutional functions and line responsibilities,
-
-- Enhancement of technical know-how among its personnel,
-
-- Clear  definition  of  the  form  and  extent  of  its  interaction  with  other departments/units within MOET,
+a) Clearer definition of its institutional functions and line responsibilities,
+b) Enhancement of technical know-how among its personnel,
+c) Clear definition of the form and extent of its interaction with other departments/units within MOET,
 
 124
 
@@ -4689,19 +4703,19 @@ In  view  of  the  above,  the  Ministry  recognises  that  the  capacity  of  i
 
 ________________________________________________________________________
 
-- Strengthened capacity to release accurate education statistical information in a timely manner, and
+d) Strengthened capacity to release accurate education statistical information in a timely manner, and
 
-- Enhanced functional leadership and professional support.
+e) Enhanced functional leadership and professional support.
 
 During the Strategic Plan period, the Planning Unit's core functions shall be clarified, focusing attention on the following typical line responsibilities:
 
-- Planning and Budgeting
+a) Planning and Budgeting
 
-- Contribution to policy development through pre-policy research and analysis
+b) Contribution to policy development through pre-policy research and analysis
 
-- Monitoring and Evaluation
+c) Monitoring and Evaluation
 
-- Education management information system
+d) Education management information system
 
 The  Unit's  education  sector  planning  function  shall  include  school  age  cohort  analysis  and forecast;  system  development capacity and projection; sector budgetary resource estimates; the development of sectoral program indicators; project planning (school sites selection plan, teacher training plan, curriculum development plan, and capital investment project plan); and cost-benefit analysis. Monitoring and evaluation is also an important line responsibility that the Planning Unit shall assume. The Planning Unit's capacity to develop performance indicators shall be enhanced, and  so  shall  be  reporting  and  information  sharing  functions.  MOET's  current  initiatives  to strengthen the Education Management Information System (EMIS) shall be continued, focusing on  the  Planning  Unit  personnel's  capacity  for  data  definition,  collection,  processing  and integration.  Once  these  capacities  are  built  and  strengthened  in  a  sustainable  manner,  the competence of the Planning Unit in sectoral planning, budgeting, policy research and analysis, monitoring and evaluation, and information  management is expected to be enhanced.  Figure 8 shows the typical functional responsibilities of a planning department.
 
@@ -4721,183 +4735,61 @@ ________________________________________________________________________
 
 Figure 8: Typical Planning Unit's Functions
 
-Objec tives
+Budget Preparation
+Budget Defense
+Expenditure Review
 
 Goals
-
+Objectives
 Targets
-
-Existing
-
-Status
-
-Re sources
-
-Al locatio n
-
-Dept.  &
-
-Personnel
-
-KP
-
-In dic ato rs
-
-Data
-
-Nee ded
-
-Tasks &
-
-Actions
-
-Planning and
-
-Budgeting
-
-Monitoring &
-
-Evalua tio n
-
-Policy
-
-Development
-
-R&D
-
-Pre-Policy
-
-Analysis
-
-R&D
-
-Post-Policy
-
-Analysis
-
-R&D
-
-System
-
-Pl anning
-
-Strategic
-
-Planning
-
-Project
-
-Planning
-
-Policy
-
-Sce narios
-
-Risk-Benefit
-
-Analysis
-
-Policy
-
-Im pa ct
-
-Scale-up
-
-Stra teg ies
-
-EM IS
-
-Data
-
-Collection
-
-Data
-
-Definiti on
-
-Data
-
-Proce ssin g
-
-Data
-
-In t egrat ion
-
-Data
-
-Relea se
-
-In d icato r
-
-Deve lop me nt
-
-Routine
-
-Reporting
-
-Re-alignm ent &
-
-Re -adjus tm ent
-
-Busines s
-
-Cycl e An alysis
-
-IC T
-
-In frast ruct u re
-
-ICT
-
-Mainte nance
-
-I CT
-
-Support
-
-Literature
-
-Review
-
-Theory &
-
-Framework
-
+Existing Status
+Resources Allocation
+Tasks & Actions
+KP Indicators
+Data Needed
+Dept. & Personnel
+
+System Planning
+Strategic Planning
+Project Planning
+
+Planning and Budgeting
+Monitoring & Evaluation
+Policy Development R&D
+EMIS
+Core Functions of Planning
+
+Indicator Development
+Routine Reporting
+Project M&E
+Business Cycle Analysis
+Re-alignment & Re-adjustment
+
+Pre-Policy Analysis R&D
+Policy Scenarios
+Risk-Benefit Analysis
+
+Post-Policy Analysis R&D
+Policy Impact
+Scale-up Strategies
+
+Literature Review
+Theory & Framework
 Design
+Data Application
+Statistical Analysis
+Policy Implication
 
-Da ta
+Data Definition
+Data Collection
+Data Processing
+Data Integration
+Data Release
+ICT Infrastructure
+ICT Maintenance
+ICT Support
 
-Appli catio n
-
-Statistic al
-
-Analysis
-
-Policy
-
-I mp lication
-
-Budget
-
-Preparation
-
-Budget
-
-Defens e
-
-Expenditure
-
-Re view
-
-Core
-
-Functions of
-
-Planning
-
-Project  M&E
-
-Source : Hua, H., 2004, proposed core functions, roles, expectations and structure of Education Planning Unit (Draft), Maseru
+Source: Hua, H., 2004, proposed core functions, roles, expectations and structure of Education Planning Unit (Draft), Maseru
 
 ##### 11.4.2  Budgeting and Financial Management Improvement
 
@@ -4919,19 +4811,19 @@ functional stress on the country's overstretched government bureaucracy. Under S
 
 In the light of the analysis above, the Government intends to pursue the following strategies in the areas budgeting and financial management:
 
-- To  prevent  the proliferation of conditions imposed  by  individual donors  on  the Government, cooperating partners shall limit their conditionality to the commonly agreed framework, which would guide their individual operations. In this respect, MOET shall facilitate the development of a Joint Statement of Intent between the Government and the sector's cooperating partners/donor that would state areas of cooperation and collaboration.
+1. To prevent the proliferation of conditions imposed by individual donors on the Government, cooperating partners shall limit their conditionality to the commonly agreed framework, which would guide their individual operations. In this respect, MOET shall facilitate the development of a Joint Statement of Intent between the Government and the sector's cooperating partners/donor that would state areas of cooperation and collaboration.
 
-- The Government shall continue its effort of strengthening its policy-relevant management information systems so as to secure data integrity in planning,  budgeting  and  financial reporting. Through its Education Management Information System (EMIS), MOET shall take advantage of existing advances in IT solutions, focusing on hardware and software acquisition;  skills  enhancement  through  training;  and  communications  infrastructure improvement.  The  role  of  cooperating  partners/donors  is  particularly  required  at  this level.
+2. The Government shall continue its effort of strengthening its policy-relevant management information systems so as to secure data integrity in planning, budgeting and financial reporting. Through its Education Management Information System (EMIS), MOET shall take advantage of existing advances in IT solutions, focusing on hardware and software acquisition; skills enhancement through training; and communications infrastructure improvement. The role of cooperating partners/donors is particularly required at this level.
 
-- The Government expects its cooperating partners to programme grants over a multi-year timeframe and concurrently make multi-year funding commitments to enable MOET to better  plan  its  medium  term  macroeconomic  and  fiscal  projections  in  the  context  of MTEF. This would also reduce transaction costs; allow allocation efficiency in education sector spending; increase predictability of aid flows; enhance the effectiveness of sector management; improve monitoring and evaluation; and strengthen financial accountability.
+3. The Government expects its cooperating partners to programme grants over a multi-year timeframe and concurrently make multi-year funding commitments to enable MOET to better plan its medium term macroeconomic and fiscal projections in the context of MTEF. This would also reduce transaction costs; allow allocation efficiency in education sector spending; increase predictability of aid flows; enhance the effectiveness of sector management; improve monitoring and evaluation; and strengthen financial accountability.
 
-- In order to fill the major gaps in economic statistics pertaining to the flow of grants to the education sector, all cooperating partners are requested, on agreed regular basis, to make full  disclosure  of  their  respective  external  assistance  to  the  education  sector  and  using reporting  formats  that  are  compatible  with  the  MOET's  public  financial  management system.  To  facilitate  this,  the  Planning  Unit  of  MOET  shall  develop  the  standard reporting format.
+4. In order to fill the major gaps in economic statistics pertaining to the flow of grants to the education sector, all cooperating partners are requested, on agreed regular basis, to make full disclosure of their respective external assistance to the education sector and using reporting formats that are compatible with the MOET's public financial management system. To facilitate this, the Planning Unit of MOET shall develop the standard reporting format.
 
-- The timing of cooperating partners' financial commitments and disbursements as well as their review processes shall be aligned with MOET's budget cycles and any deviations from this expectation shall be maintained to the bearable minimum.
+5. The timing of cooperating partners' financial commitments and disbursements as well as their review processes shall be aligned with MOET's budget cycles and any deviations from this expectation shall be maintained to the bearable minimum.
 
-- MOET  would  continue  to  strengthen  its  approach  to  sectoral  planning  behind  PRS, MDGs,  Vision  2020,  and  EFA.  This  shall  mean  that  all  cooperating  partners  shall formally adopt PRS and this Strategic Plan as the primary guide in their support to the education sector during the period 2005 - 2015.
+6. MOET would continue to strengthen its approach to sectoral planning behind PRS, MDGs, Vision 2020, and EFA. This shall mean that all cooperating partners shall formally adopt PRS and this Strategic Plan as the primary guide in their support to the education sector during the period 2005 - 2015.
 
-- As  part of the decentralization deepening process, district-level offices shall be empowered  as  centres  of  lower-level  education  sector  development  and  delivery. Resources  shall, therefore, be directed towards  this  level  to  enable  them  handle responsibilities pertaining to education service provision.
+7. As part of the decentralization deepening process, district-level offices shall be empowered as centres of lower-level education sector development and delivery. Resources shall, therefore, be directed towards this level to enable them handle responsibilities pertaining to education service provision.
 
 127
 
@@ -4943,11 +4835,11 @@ In the light of the analysis above, the Government intends to pursue the followi
 
 ________________________________________________________________________
 
-- The  Government  shall  facilitate  a  more  coordinated  policy,  legislative  and  regulatory regime for non-state actors  in  education  and  training  so  that  their  operations  are  better recorded and their roles fully acknowledged as important partners.
+8. The Government shall facilitate a more coordinated policy, legislative and regulatory regime for non-state actors in education and training so that their operations are better recorded and their roles fully acknowledged as important partners.
 
-- MOET's information and data generation capacity shall be strengthened so that accurate, reliable,  timely,  and  user-friendly  data  that  is  required  for  both  MOET  performance monitoring  and  broader  aspects  of  policy  analysis  is  readily  available.  The  Ministry recognizes  that  regional  governments'  capacity  in  economic  forecasting,  programming and strategic planning also depends on the availability of timely and reliable data. The human resource capacity building in this area is to be achieved primarily through training (short- and long-term professional studies; study tours; secondments; training workshops; and on-the-job training).
+9. MOET's information and data generation capacity shall be strengthened so that accurate, reliable, timely, and user-friendly data that is required for both MOET performance monitoring and broader aspects of policy analysis is readily available. The Ministry recognizes that regional governments' capacity in economic forecasting, programming and strategic planning also depends on the availability of timely and reliable data. The human resource capacity building in this area is to be achieved primarily through training (short- and long-term professional studies; study tours; secondments; training workshops; and on-the-job training).
 
-- The Government shall ensure that the procedures and timetables for the Education Sector Development Project shall be synchronized with the monitoring and annual reviews of this Strategic Plan so that progress at the ESDP level feeds into the overall Strategic plan performance assessment.  The need to dovetail the activities of ESDP into the Strategic Plan  calendar  and  indicators    is  essential  given  the  fact  that  the  former  is  not  only  a sectoral programme/project but, more importantly,  it brings together MOET, donors and other  stakeholders  under  consultative  frameworks  that  seek  agreement  on  monitorable indicators for the education sector. ESDP process also includes the conducting of routine reviews whose outcomes are very important for this Strategic Plan's progress.
+10. The Government shall ensure that the procedures and timetables for the Education Sector Development Project shall be synchronized with the monitoring and annual reviews of this Strategic Plan so that progress at the ESDP level feeds into the overall Strategic plan performance assessment. The need to dovetail the activities of ESDP into the Strategic Plan calendar and indicators is essential given the fact that the former is not only a sectoral programme/project but, more importantly, it brings together MOET, donors and other stakeholders under consultative frameworks that seek agreement on monitorable indicators for the education sector. ESDP process also includes the conducting of routine reviews whose outcomes are very important for this Strategic Plan's progress.
 
 ##### 11.4.3  Efficiency and Cost-sharing Measures
 
@@ -4985,7 +4877,7 @@ Quality assurance in educational and training programmes shall be attained throu
 
 MOET  recognises  the  critical  importance  of  monitoring  and  reporting  to  the  success  of  this Strategic  plan.  A  special  section  is  presented  in  Chapter  12  on  Monitoring,  Reporting  and Evaluation. Suffice to note here that the following shall constitute the MOET strategies during the period 2005-2015 in the area of monitoring and reporting:
 
-- This Strategic Plan shall remain the reference point for  monitoring the performance of the education sector. Consequently, the following tenets shall guide action:
+1. This Strategic Plan shall remain the reference point for monitoring the performance of the education sector. Consequently, the following tenets shall guide action:
 
 129
 
@@ -4997,17 +4889,17 @@ MOET  recognises  the  critical  importance  of  monitoring  and  reporting  to 
 
 ________________________________________________________________________
 
-- In monitoring education sector performance, the Government and donors shall use  the  performance  indicators  that  are  included  in  this  Strategic  Plan.  This shall continue to entail the tracking of changes  in the overall sectoral performance,  focusing  on  impact  on  access,  equity,  quality,  efficiency  and relevance.  Where  there  is  genuine  need  for  the  introduction  of  additional monitoring and/or accountability indicators, these shall be added only with the approval of MOET.
+a) In monitoring education sector performance, the Government and donors shall use the performance indicators that are included in this Strategic Plan. This shall continue to entail the tracking of changes in the overall sectoral performance, focusing on impact on access, equity, quality, efficiency and relevance. Where there is genuine need for the introduction of additional monitoring and/or accountability indicators, these shall be added only with the approval of MOET.
 
-- A  common monitoring framework shall be agreed upon between the Government  and  all  major  stakeholders,  including  the  country's  cooperating partners, and the performance indicators shall always be kept simple, specific, measurable, time-bound, achievable, realistic, and easily verifiable.
+b) A common monitoring framework shall be agreed upon between the Government and all major stakeholders, including the country's cooperating partners, and the performance indicators shall always be kept simple, specific, measurable, time-bound, achievable, realistic, and easily verifiable.
 
-- The Government would ensure that sector and project reporting and monitoring requirements under ESDP shall feed into the Strategic Plan's overall reporting and monitoring system and that their timing is synchronized with key planning cycles, including the Ministry's budget process and the Strategic Plan's annual progress reviews.
+c) The Government would ensure that sector and project reporting and monitoring requirements under ESDP shall feed into the Strategic Plan's overall reporting and monitoring system and that their timing is synchronized with key planning cycles, including the Ministry's budget process and the Strategic Plan's annual progress reviews.
 
-- Donors shall rely on the Government's financial reporting and monitoring system and would work towards the simplification of these.
+2. Donors shall rely on the Government's financial reporting and monitoring system and would work towards the simplification of these.
 
-- Impact  Monitoring  System  shall  be  strengthened,  focusing  on  (a)  the  improvement  of  the relevance  and  adequacy  of  the  collected  data;  (b)  the  timeliness  and  quality  of  processing, analysis and publication/dissemination; and (c) the utilization of impact monitoring results in policy-making and resource allocation. In this regard, the monitoring and reporting functions of all the education sub-sectors shall be reviewed to heighten their profile in MOET and to align  them  better  with  EFA  goals  and  ideals  so  that  it  can  more  effectively  monitor  the impact/outcomes (not just outputs) of the Government's interventions in the education sector.
+3. Impact Monitoring System shall be strengthened, focusing on (a) the improvement of the relevance and adequacy of the collected data; (b) the timeliness and quality of processing, analysis and publication/dissemination; and (c) the utilization of impact monitoring results in policy-making and resource allocation. In this regard, the monitoring and reporting functions of all the education sub-sectors shall be reviewed to heighten their profile in MOET and to align them better with EFA goals and ideals so that it can more effectively monitor the impact/outcomes (not just outputs) of the Government's interventions in the education sector.
 
-- The  reporting  and  monitoring  communication  infrastructure  (both  hardware  and  software) shall continue to be strengthened through dial-up connections and access to the Internet. In this regard, MOET shall continue with its on-going enhancement of data/information sharing through the Internet and Wireless Local Area Networks.
+4. The reporting and monitoring communication infrastructure (both hardware and software) shall continue to be strengthened through dial-up connections and access to the Internet. In this regard, MOET shall continue with its on-going enhancement of data/information sharing through the Internet and Wireless Local Area Networks.
 
 ##### 11.4.6  Accountability
 
@@ -5031,15 +4923,15 @@ Procurement  systems  are  also  an  important  component  of  accountability  t
 
 In terms of strategy, MOET shall, during the Strategic Plan period, adhere to the principles and directives  of  the  Public  Sector  Improvement  and  Reform  Programme  in  the  area  of  financial accountability, focusing on the following:
 
-- Explore  the  possibility  of  establishing  a  fully  fledged  internal  audit  department within  the  Ministry.  Once  established,  the  development  of  a  comprehensive manual in the areas of financial audit, control audit, performance audit and special investigation  shall  be  facilitated.  Training  materials  shall  also  be  developed  to facilitate  the  provision  of  intensive  training  on  the  application  of  the  manuals. Other interventions in this area shall include the following:
+1. Explore the possibility of establishing a fully fledged internal audit department within the Ministry. Once established, the development of a comprehensive manual in the areas of financial audit, control audit, performance audit and special investigation shall be facilitated. Training materials shall also be developed to facilitate the provision of intensive training on the application of the manuals. Other interventions in this area shall include the following:
 
-- Strengthen  capacity  in  the  area  of  computer  audit  and  other  techniques through recruitment of qualified staff and comprehensive training to meet these capacity requirements.
+a) Strengthen capacity in the area of computer audit and other techniques through recruitment of qualified staff and comprehensive training to meet these capacity requirements.
 
-- Cultivate institutional linkages/network with other audit institutions.
+b) Cultivate institutional linkages/network with other audit institutions.
 
-- OFAG  shall  conduct  project  audits  in  accordance  with  international  auditing standards. In this respect, enhanced effort shall be made to develop and strengthen national audit capacity, systems and procedures.
+2. OFAG shall conduct project audits in accordance with international auditing standards. In this respect, enhanced effort shall be made to develop and strengthen national audit capacity, systems and procedures.
 
-- MOET shall review the existing enabling regulations and legislation to ensure that an  internal  audit  department  is  established  in  a  manner  that  would  allow  the Ministry  to  provide  transparent,  credible  and  efficient  audits  that  secure  the required information for timely actions.
+3. MOET shall review the existing enabling regulations and legislation to ensure that an internal audit department is established in a manner that would allow the Ministry to provide transparent, credible and efficient audits that secure the required information for timely actions.
 
 ##### 11.4.7  Stakeholder partnerships
 
@@ -5066,12 +4958,15 @@ The role of the private sector in education and training, focusing on Public-Pri
 Against  the  above  background,  the  following  shall  constitute  the  2005-2015  Strategic  Plan objectives and activities for planning and monitoring and evaluation interventions of the MOET.
 
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
---- | --- | --- | --- | ---
-1. | To build the planning capacity of MOET | 1.1 A restructured, well-functioning and effective Planning Department in place by 2007 at the latest | 1. 2. | Restructure the Planning Unit and re-name it as Planning Department Define more clearly the Planning Department's: a. institutional functions and line responsibilities b. the form and extent of its interaction with other departments/units within MOET.
-3. | Strengthen the leadership of the Planning Department to improve its professional support to its key functions
-4. | Enhancement of technical know-how among its personnel
-5. | Recruiting and train additional planners and EMIS staff
-6. | Complete the upgrading of EMIS, e.g. the Educational Geographical Information System (EGIS) and the Educational Facilities Management Facilities
+--- | --- | ---
+1. To build the planning capacity of MOET | 1.1 A restructured, well-functioning and effective Planning Department in place by 2007 at the latest | 1. Restructure the Planning Unit and re-name it as Planning Department
+ |  | 2. Define more clearly the Planning Department's:
+ |  | a. institutional functions and line responsibilities
+ |  | b. the form and extent of its interaction with other departments/units within MOET.
+ |  | 3. Strengthen the leadership of the Planning Department to improve its professional support to its key functions
+ |  | 4. Enhancement of technical know-how among its personnel
+ |  | 5. Recruiting and train additional planners and EMIS staff
+ |  | 6. Complete the upgrading of EMIS, e.g. the Educational Geographical Information System (EGIS) and the Educational Facilities Management Facilities
 
 > 27 These include in the main TVET, IECCD, Lifelong Learning and higher education.
 
@@ -5085,27 +4980,32 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 
 ________________________________________________________________________
 
-7. Improve the data dissemination function of the Planning Department through speedy releases of statistical data and preparation and dissemination of statistical policy briefs
---- | --- | ---
-8. Train staff on monitoring, reporting and evaluation skills
-9. Review the implementation of the Medium Term Expenditure Framework (MTEF)
-10. Explore the utilisation of Sector-wide Approach (SWAp) in planning and resource utilisation
-11. Strengthen the capacity of the Planning Department in the area of active stakeholder partnership creation.
+ |  | 7. Improve the data dissemination function of the Planning Department through speedy releases of statistical data and preparation and dissemination of statistical policy briefs
+ |  | 8. Train staff on monitoring, reporting and evaluation skills
+ |  | 9. Review the implementation of the Medium Term Expenditure Framework (MTEF)
+ |  | 10. Explore the utilisation of Sector-wide Approach (SWAp) in planning and resource utilisation
+ |  | 11. Strengthen the capacity of the Planning Department in the area of active stakeholder partnership creation.
 2. To build the institutional capacity of MOET to enable it discharge its mandate more effectively | 2.1 Capacity building programmes put in place by 2015 | 1. Facilitate enhanced commitment to teamwork among MOET managers at the headquarters
-2. Move decisively towards rapid and comprehensive restructuring of the Ministry at all levels
-3. Establish a dependable management structure at the headquarters with the capacity to spearhead the policy and strategic reforms, including decentralisation
-4. Strengthen the Ministry's information dissemination function and public relations.
-1. Strengthen planning systems and capacities in terms of: a) human and institutional capacity improvement b) inculcating improved management culture and styles within a decentralised context c) putting in place a system that accommodates the formation of active stakeholder engagement and networks
-3. To strengthen budgeting and financial management capacities of MOET | 3.1 Well functioning decentralised financial management services to district and school levels | 1. Recruit qualified accounting staff 2. Develop an integrated financial management system for
-the education sector 3. Train existing staff in accounts and automated
-accounting systems 4. Provide timely, accurate and reliable financial
-by 2015 | information 5. Provide IT equipment and software for accounting and
+ |  | 2. Move decisively towards rapid and comprehensive restructuring of the Ministry at all levels
+ |  | 3. Establish a dependable management structure at the headquarters with the capacity to spearhead the policy and strategic reforms, including decentralisation
+ |  | 4. Strengthen the Ministry's information dissemination function and public relations.
+ |  | 1. Strengthen planning systems and capacities in terms of:
+ |  | a) human and institutional capacity improvement
+ |  | b) inculcating improved management culture and styles within a decentralised context
+ |  | c) putting in place a system that accommodates the formation of active stakeholder engagement and networks
+3. To strengthen budgeting and financial management capacities of MOET | 3.1 Well functioning decentralised financial management services to district and school levels by 2015 | 1. Recruit qualified accounting staff
+ |  | 2. Develop an integrated financial management system for the education sector
+ |  | 3. Train existing staff in accounts and automated accounting systems
+ |  | 4. Provide timely, accurate and reliable financial information
+ |  | 5. Provide IT equipment and software for accounting and stores purposes
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
-6. Train district level officials in financial planning, management and expenditure control/tracking
-7. Decentralize accounting and stores systems to the districts
-3.2 Revenue collection significantly enhanced by 2015 | 1. Encourage autonomous and quasi-autonomous learning/training institutions to charge cost-recovery fees for the services that they offer
-2. Encourage autonomous and quasi-autonomous learning/training institutions to diversify their revenue bases in order to reduce their dependence on state subventions
-3.3 Well established, reliable and | 3. Enhance revenue management and collection systems 1. Review MOET's budgeting and expenditure control processes in order to improve its accuracy and dependability as a planning tool in the context of MTEF
+--- | --- | ---
+ |  | 6. Train district level officials in financial planning, management and expenditure control/tracking
+ |  | 7. Decentralize accounting and stores systems to the districts
+ | 3.2 Revenue collection significantly enhanced by 2015 | 1. Encourage autonomous and quasi-autonomous learning/training institutions to charge cost-recovery fees for the services that they offer
+ |  | 2. Encourage autonomous and quasi-autonomous learning/training institutions to diversify their revenue bases in order to reduce their dependence on state subventions
+ |  | 3. Enhance revenue management and collection systems
+ | 3.3 Well established, reliable and | 1. Review MOET's budgeting and expenditure control processes in order to improve its accuracy and dependability as a planning tool in the context of MTEF
 
 133
 
@@ -5117,15 +5017,19 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 
 ________________________________________________________________________
 
-efficient budgeting process and expenditure tracking in place by 2015 | 2. Study the main constraints (institutional, procedural, human resource limitations, etc.) to budget execution with a view to improving the absorptive capacity of the budgeted resources by MOET.
---- | --- | ---
-3. Strengthen, through restructuring, the financial reporting processes within MOET as well as accounting mechanisms so as to meet the informational needs of the Ministry's monitoring systems.
-4. Progressively integrate external resources into the MOET through the merger of the present parallel financial management structure so that off-budget resources are streamlined into sector planning and resource accountability system.
-5. Progressively adopt the Sector-Wide Approach (SWAp) in financial resource receipt, management, reporting, and monitoring. Begin this with entering into a Statement of Intent (SOI) that would be updated every three years and which shall define the Government and development partners' commitment to SWAp.
-6. Strengthen the Ministry's EMIS, exploiting the opportunities offered by IT solutions, focusing on hardware and software acquisition; skills enhancement through training; and communications infrastructure improvement.
-7. Strengthen the financial and operational reporting systems so as to secure policy-relevant information. IT solutions shall be used in the strengthening of reporting processes.
+ | efficient budgeting process and expenditure tracking in place by 2015 | 2. Study the main constraints (institutional, procedural, human resource limitations, etc.) to budget execution with a view to improving the absorptive capacity of the budgeted resources by MOET.
+ |  | 3. Strengthen, through restructuring, the financial reporting processes within MOET as well as accounting mechanisms so as to meet the informational needs of the Ministry's monitoring systems.
+ |  | 4. Progressively integrate external resources into the MOET through the merger of the present parallel financial management structure so that off-budget resources are streamlined into sector planning and resource accountability system.
+ |  | 5. Progressively adopt the Sector-Wide Approach (SWAp) in financial resource receipt, management, reporting, and monitoring. Begin this with entering into a Statement of Intent (SOI) that would be updated every three years and which shall define the Government and development partners' commitment to SWAp.
+ |  | 6. Strengthen the Ministry's EMIS, exploiting the opportunities offered by IT solutions, focusing on hardware and software acquisition; skills enhancement through training; and communications infrastructure improvement.
+ |  | 7. Strengthen the financial and operational reporting systems so as to secure policy-relevant information. IT solutions shall be used in the strengthening of reporting processes.
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
-4. To design a strategy for external resource mobilisation from both the traditional donors and those that are yet to join the sector. | 4.1 Resource flow from into the education sector from more cooperating partners significantly increased by 2009 | 1. Hire a consultant to design a strategy for external resource mobilisation for the Strategic Plan, focusing on the following: a) review of the existing donors' aid modalities and procedures b) determine the general expectations of existing and potential donors with respect to what should be in place before financial commitments could be made/enhanced c) establish the sub-sectoral donor preferences d) recommend the donor-MOET consultation and coordination/harmonisation structure that would best allow for effective receipt and management of external resources
+--- | --- | ---
+4. To design a strategy for external resource mobilisation from both the traditional donors and those that are yet to join the sector. | 4.1 Resource flow from into the education sector from more cooperating partners significantly increased by 2009 | 1. Hire a consultant to design a strategy for external resource mobilisation for the Strategic Plan, focusing on the following:
+ |  | a) review of the existing donors' aid modalities and procedures
+ |  | b) determine the general expectations of existing and potential donors with respect to what should be in place before financial commitments could be made/enhanced
+ |  | c) establish the sub-sectoral donor preferences
+ |  | d) recommend the donor-MOET consultation and coordination/harmonisation structure that would best allow for effective receipt and management of external resources
 
 134
 
@@ -5137,19 +5041,28 @@ STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
 
 ________________________________________________________________________
 
-2. Negotiate with sector cooperating partners/donors to programme grants to the education sector over a multi- year timeframe and concurrently make multi-year funding commitments to enable MOET to better plan its medium term macroeconomic and fiscal projections in the context of MTEF.
---- | --- | ---
-5. To design efficiency and cost-sharing measures | 5.1 Sources of education and training funding diversified from local institutions and learners | 1. Commission a study to look at the best options of diversifying resource generation from within Lesotho, focusing on, but not limited to efficiency gains with respect to resource mobilisation and cost saving in the following areas: a) fees in high school, TVET and higher education b) greater efficiency in the deployment and utilisation of teachers and support staff c) exploitation of multi-grade teaching d) maximisation of teacher class contact time e) better utilisation of classroom space and other facilities f) reduced unit costs in construction and learning materials g) improved school planning and management h) increased private sector entry in education/training provision i) better sharing of responsibilities between MOET and the school 'owners,' mainly church institutions.
+ |  | 2. Negotiate with sector cooperating partners/donors to programme grants to the education sector over a multi-year timeframe and concurrently make multi-year funding commitments to enable MOET to better plan its medium term macroeconomic and fiscal projections in the context of MTEF.
+5. To design efficiency and cost-sharing measures | 5.1 Sources of education and training funding diversified from local institutions and learners | 1. Commission a study to look at the best options of diversifying resource generation from within Lesotho, focusing on, but not limited to efficiency gains with respect to resource mobilisation and cost saving in the following areas:
+ |  | a) fees in high school, TVET and higher education
+ |  | b) greater efficiency in the deployment and utilisation of teachers and support staff
+ |  | c) exploitation of multi-grade teaching
+ |  | d) maximisation of teacher class contact time
+ |  | e) better utilisation of classroom space and other facilities
+ |  | f) reduced unit costs in construction and learning materials
+ |  | g) improved school planning and management
+ |  | h) increased private sector entry in education/training provision
+ |  | i) better sharing of responsibilities between MOET and the school 'owners,' mainly church institutions.
 6. To move decisively with inspectorate reforms | 6.1 Significant system-wide improvements in the quality of education in Lesotho through improved school inspections | 1. Rationalise the structure of MOET in the areas of school inspection, focusing on possible restructuring of the current responsibilities of Chief Education Officers (CEOs) in charge of Primary and Secondary education as well as those of Chief Inspector (Field) and Chief inspector (Central)
-2. Determine the form and scale of decentralisation with respect to the devolution of inspection responsibilities.
+ |  | 2. Determine the form and scale of decentralisation with respect to the devolution of inspection responsibilities.
 STRATEGIC OBJECTIVES | 2005-2015 TARGETS | ACTIVITIES
-3. Facilitate adequate staffing.
-4. Decentralise the Central Inspectorate and assign inspectors of schools to regions/districts
-their tasks. 6. Establish clear reporting guidelines and schedules
-7. Develop well-structured and targeted training
-programme for inspectors.
-7. To secure quality assurance for the education and training programmes | 7.1 Overall quality of education and training significantly | 1. Review the entire education sector, focusing more on curriculum reform and stronger linkages between life skills at basic education level, training centres under TVET, higher education and the world of work.
-enhanced in | 2. Motivate teachers through comprehensive institutionalisation of career progression structure
+--- | --- | ---
+ |  | 3. Facilitate adequate staffing.
+ |  | 4. Decentralise the Central Inspectorate and assign inspectors of schools to regions/districts
+ |  | 5. Put in place a performance management system that ensures that inspectors are held accountable for meeting their tasks.
+ |  | 6. Establish clear reporting guidelines and schedules
+ |  | 7. Develop well-structured and targeted training programme for inspectors.
+7. To secure quality assurance for the education and training programmes | 7.1 Overall quality of education and training significantly enhanced in | 1. Review the entire education sector, focusing more on curriculum reform and stronger linkages between life skills at basic education level, training centres under TVET, higher education and the world of work.
+ |  | 2. Motivate teachers through comprehensive institutionalisation of career progression structure
 
 135
 
@@ -5161,27 +5074,26 @@ enhanced in | 2. Motivate teachers through comprehensive institutionalisation of
 
 ________________________________________________________________________
 
-terms of improved learning outcomes | 3. Continue monitoring learner's performance through Primary School Leaving Examinations, JC examinations and Overseas School Certificate (COSC)
---- | --- | ---
-4. Conduct periodic National Assessment Surveys of Learning Achievement
-5. Assess and revise curriculum to ensure learners' optimal performance.
-6. Revise teachers' guides, learning materials and review the curriculum for in-service teacher training to ensure that they meet MOET's standards.
-7. Improve materials provision to pupils and teachers through decentralised procurement and distribution system for textbooks.
-8. All high schools to develop pre-vocational skills and competencies alongside the core subjects.
-9. Include psychosocial life skills cross-cutting issues such as HIV/AIDS, nutrition and environmental education in school curriculum and teacher education
-10. Develop the national module accreditation structure and a provider and instructor accreditation system
-11. Establish the National Qualifications Framework (NQF)
-12. Establish the Lesotho Qualification Authority (LQA)
-13. Develop quality assurance and accreditation guidelines to serve as the national point of reference in educational service provision.
-8. To strengthen the Monitoring and Evaluation (M&E) and reporting functions of MOET | 8.1 A well- functioning M&E system in place by 2015 | 1. Strengthen the capacity of MOET to fully capture the total public expenditure for the education sector through enhancing the lower-level organs' ability to submit accurate expenditures and revenues reports on time
-2. Develop and agree on a common reporting and monitoring framework and the performance indicators. In this regard, ESDP reporting and monitoring systems shall be synchronised with Strategic Plan's reporting and monitoring system
-3. Progressively move away from manual to computer- based automated data recording and streamline budget head classifications
-4. Strengthen impact monitoring system and increase the utilization of impact monitoring results in policy-making and resource allocation.
+ | terms of improved learning outcomes | 3. Continue monitoring learner's performance through Primary School Leaving Examinations, JC examinations and Overseas School Certificate (COSC)
+ |  | 4. Conduct periodic National Assessment Surveys of Learning Achievement
+ |  | 5. Assess and revise curriculum to ensure learners' optimal performance.
+ |  | 6. Revise teachers' guides, learning materials and review the curriculum for in-service teacher training to ensure that they meet MOET's standards.
+ |  | 7. Improve materials provision to pupils and teachers through decentralised procurement and distribution system for textbooks.
+ |  | 8. All high schools to develop pre-vocational skills and competencies alongside the core subjects.
+ |  | 9. Include psychosocial life skills cross-cutting issues such as HIV/AIDS, nutrition and environmental education in school curriculum and teacher education
+ |  | 10. Develop the national module accreditation structure and a provider and instructor accreditation system
+ |  | 11. Establish the National Qualifications Framework (NQF)
+ |  | 12. Establish the Lesotho Qualification Authority (LQA)
+ |  | 13. Develop quality assurance and accreditation guidelines to serve as the national point of reference in educational service provision.
+8. To strengthen the Monitoring and Evaluation (M&E) and reporting functions of MOET | 8.1 A well-functioning M&E system in place by 2015 | 1. Strengthen the capacity of MOET to fully capture the total public expenditure for the education sector through enhancing the lower-level organs' ability to submit accurate expenditures and revenues reports on time
+ |  | 2. Develop and agree on a common reporting and monitoring framework and the performance indicators. In this regard, ESDP reporting and monitoring systems shall be synchronised with Strategic Plan's reporting and monitoring system
+ |  | 3. Progressively move away from manual to computer-based automated data recording and streamline budget head classifications
+ |  | 4. Strengthen impact monitoring system and increase the utilization of impact monitoring results in policy-making and resource allocation.
 9. To strengthen the MOET accountability system | 9.1 A functional internal auditing system in place by 2006 | 1. Establish Internal Audit Department
-2. Once the Internal Audit Department has been established, develop a comprehensive manual in the areas of financial audit, control audit, performance audit and special investigation
-3. Strengthen capacity in the area of computer audit through recruitment of qualified staff and comprehensive training
-4. Develop institutional linkages/network with other audit institutions.
-5. Review existing enabling regulations and legislation to ensure that MOET internal audit system would provide transparent, credible and efficient audits
+ |  | 2. Once the Internal Audit Department has been established, develop a comprehensive manual in the areas of financial audit, control audit, performance audit and special investigation
+ |  | 3. Strengthen capacity in the area of computer audit through recruitment of qualified staff and comprehensive training
+ |  | 4. Develop institutional linkages/network with other audit institutions.
+ |  | 5. Review existing enabling regulations and legislation to ensure that MOET internal audit system would provide transparent, credible and efficient audits
 
 136
 
@@ -5193,14 +5105,13 @@ terms of improved learning outcomes | 3. Continue monitoring learner's performan
 
 ________________________________________________________________________
 
-12.2 An efficient procurement system in place by 2006 | 1. Strengthen the efficiency of the MOET procurement system, focusing on achieving value for money, non- discrimination, transparency, and accountability while ensuring that it is executed expeditiously to so as to avoid costly delays.
---- | --- | ---
-2. Create and maintain an electronic fixed asset register
-3. Maintain an up-to-date inventory for MOET
+ | 12.2 An efficient procurement system in place by 2006 | 1. Strengthen the efficiency of the MOET procurement system, focusing on achieving value for money, non-discrimination, transparency, and accountability while ensuring that it is executed expeditiously to so as to avoid costly delays.
+ |  | 2. Create and maintain an electronic fixed asset register
+ |  | 3. Maintain an up-to-date inventory for MOET
 10. To strengthen stakeholder partnerships | 10.1 A well established and effective stakeholder network in place by 2015 | 1. Facilitate the bringing together of communities, parents, learners, the private sector, NGOs, Community-based organisations, and the country's cooperating partners/donors into an effective network of education service providers that dialogue often in areas of mutual concern.
-2. Develop a better coordinated and harmonized structure in through which resources from cooperating partners are mobilized, received/reported, utilized, monitored, and impact evaluated.
-3. Review the tripartite relationship between the government, the churches and communities in the provision of education and work towards the development of a Memorandum of Understanding between the Ministry and the owners of schools to redefine roles, responsibilities and modalities of interaction
-4. Enhance the role of the private sector in education and training, focusing on Public-Private-Partnerships (PPP) in educational services provision
+ |  | 2. Develop a better coordinated and harmonized structure in through which resources from cooperating partners are mobilized, received/reported, utilized, monitored, and impact evaluated.
+ |  | 3. Review the tripartite relationship between the government, the churches and communities in the provision of education and work towards the development of a Memorandum of Understanding between the Ministry and the owners of schools to redefine roles, responsibilities and modalities of interaction
+ |  | 4. Enhance the role of the private sector in education and training, focusing on Public-Private-Partnerships (PPP) in educational services provision
 
 ##### 11.4.9 Costing for Planning, Monitoring and Evaluation programme
 
@@ -5216,17 +5127,19 @@ Special attention is paid to the costing of activities related to policy develop
 
 ________________________________________________________________________
 
-2005/06 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
+Table 31: Full cost of education provision under the strategic plan on the Planning, Monitoring and Evaluation Budget (in M1000)
+
+ | 2005/06 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
-Recurrent Costs
+Recurrent Costs |  |  |  |  |  | 
 Primary Inspectorate | 6,000 | 7,000 | 8,000 | 8,400 | 8,820 | 9,702
 Secondary Inspectorate | 4,000 | 5,000 | 6,000 | 6,300 | 6,615 | 7,277
 Project Support and Coordination Unit | 500 | 1,000 | 2,000 | - | - | -
 Education Planning, Monitoring and Research | 3,000 | 5,000 | 7,000 | 7,700 | 8,470 | 9,317
-Capital costs
+Capital costs |  |  |  |  |  | 
 Primary Inspectorate | 3,000 | 5,000 | 8,000 | 8,400 | 8,820 | 9,702
 Secondary Inspectorate | 2,000 | 4,000 | 6,000 | 6,300 | 6,615 | 7,277
-Project Support and Coordination Unit | 10,000 | 15,000 | 15,000 | - | - | -
+Project Support and Coordination Unit | 10,000 | 15,000 | 15,000 |  |  | 
 Education Planning, Monitoring and Research | 10,000 | 12,000 | 15,000 | 15,750 | 16,538 | 18,191
 Total Cost Planning, M & E | 38,500 | 54,000 | 67,000 | 52,850 | 55,878 | 61,465
 Available GOL Recurrent resources | 9,450 | 12,600 | 16,100 | 15,680 | 16,734 | 18,407
@@ -5234,8 +5147,6 @@ Available GOL Capital resources | 9,999 | 10,117 | 9,575 | 10,053 | 10,556 | 11,
 Funding Gap | 19,051 | 31,283 | 41,325 | 27,117 | 28,588 | 31,447
 % of ESSP Funded | 51 | 42 | 38 | 49 | 49 | 49
 % of Funding Gap | 49 | 58 | 62 | 51 | 51 | 51
-
-Table 31: Full cost of education provision under the strategic plan on the Planning, Monitoring and Evaluation Budget (in M1000)
 
 138
 
@@ -5271,15 +5182,15 @@ The Vision of the Ministry of Education and Training is ' Basotho shall be a fun
 
 In  implementing  the  Strategic  Plan,  the  MOET  shall  target  five  strategic  outputs  and  all interventions shall use these as the principal reference point towards the attainment of the sector's Mission. These are:
 
-- Access
+a) Access
 
-- Equity
+b) Equity
 
-- Quality
+c) Quality
 
-- Efficiency
+d) Efficiency
 
-- Relevance
+e) Relevance
 
 #### 12.2 Prioritisation and Phasing of the Strategic Plan
 
@@ -5327,21 +5238,21 @@ Effective  reporting  and  monitoring  of  the  activities  of  a  strategic  pl
 
 ________________________________________________________________________
 
-relates to management and project/programme resources with a view to maintaining an account of how and where the resources are applied. Good quality financial reporting is critical to the effective implementation  of  the  Strategic  Plan  and  to  accountability  in  the  use  of  resources.  Equally noteworthy,  the  integrity  of  MOET's  financial  reporting  has  a  bearing  on  the  degree  to  which cooperating  partners  may  have  faith  in  the  system  before  they  can  consider  providing  increased resource support to the education sector, in general, and getting involved in SWAps, in particular. There  is  a  distinction  between implementation  monitoring that  involves  oversight  at  the  level  of processes and the registered progress with respect to the timely use of the budgeted resources; and results  monitorin g,  which  concerns  the  measurement  of  results  and  the  attainment  of  the  set objectives. MOET is interested in both.
+relates to management and project/programme resources with a view to maintaining an account of how and where the resources are applied. Good quality financial reporting is critical to the effective implementation of the Strategic Plan and to accountability in the use of resources. Equally noteworthy, the integrity of MOET's financial reporting has a bearing on the degree to which cooperating partners may have faith in the system before they can consider providing increased resource support to the education sector, in general, and getting involved in SWAps, in particular. There is a distinction between implementation monitoring that involves oversight at the level of processes and the registered progress with respect to the timely use of the budgeted resources; and results monitoring, which concerns the measurement of results and the attainment of the set objectives. MOET is interested in both.
 
 In  the  light  of  the  above,  MOET  shall  work  towards  strengthening  the  reporting  and  monitoring systems in a way that would allow it to fully capture the total public expenditure for the education sector whether Government or donor-funded. To expedite this process, MOET shall work towards ensuring  that  lower-level  organs  submit  their  expenditures  and  revenue  reports  on  time  by demanding timely submissions and by progressively moving away from manual to computer-based automated recording. The streamlining of budget classifications (particularly between recurrent and capital  expenditure)  would  also  improve  the  integrity  of  consolidated  data.  In  order  to  improve upon the reporting and monitoring functions during the Strategic Plan period, the following shall constitute the MOET strategies during the Strategic Plan period 2005-2015
 
-- This Strategic Plan shall remain the reference point for monitoring the performance of the education sector. Consequently, the following tenets shall guide action:
+1. This Strategic Plan shall remain the reference point for monitoring the performance of the education sector. Consequently, the following tenets shall guide action:
 
-- In  monitoring  education  sector  performance,  the  Government  and  cooperating partners shall use the performance indicators that are included in this Strategic Plan. This shall entail the tracking of changes in the overall sectoral performance, focusing on  impact  on  access,  equity,  quality,  efficiency  and  relevance.  Where  there  is genuine  need  for  the  introduction  of  additional  monitoring  and/or  accountability indicators, these shall be added only with the approval of MOET.
+a) In monitoring education sector performance, the Government and cooperating partners shall use the performance indicators that are included in this Strategic Plan. This shall entail the tracking of changes in the overall sectoral performance, focusing on impact on access, equity, quality, efficiency and relevance. Where there is genuine need for the introduction of additional monitoring and/or accountability indicators, these shall be added only with the approval of MOET.
 
-- A  common  monitoring  framework  shall  be  agreed  upon  between  MOET  and  all major stakeholders, including the country's cooperating partners, and the performance  indicators  shall  always  be  kept  simple,  specific,  measurable,  timebound, achievable, realistic, and easily verifiable.
+b) A common monitoring framework shall be agreed upon between MOET and all major stakeholders, including the country's cooperating partners, and the performance indicators shall always be kept simple, specific, measurable, time-bound, achievable, realistic, and easily verifiable.
 
-- MOET would ensure that sector and project reporting and monitoring requirements under  ESDP  shall  feed  into  the  Strategic  Plan's  overall  reporting  and  monitoring system and that their timing is synchronized with key planning cycles, including the Ministry's budget process and the Strategic Plan's annual progress reviews.
+c) MOET would ensure that sector and project reporting and monitoring requirements under ESDP shall feed into the Strategic Plan's overall reporting and monitoring system and that their timing is synchronized with key planning cycles, including the Ministry's budget process and the Strategic Plan's annual progress reviews.
 
-- Cooperating partners shall rely on the Government's financial reporting and monitoring system and would work towards the simplification of these.
+2. Cooperating partners shall rely on the Government's financial reporting and monitoring system and would work towards the simplification of these.
 
-- Impact  monitoring  system  shall  be  strengthened,  focusing  on  (a)  the  improvement  of relevant  data  collection;  (b)  the  timeliness  and  quality  of  processing,  analysis  and publication/dissemination; and (c) the utilization of impact monitoring results in policymaking and resource allocation. In this regard, the monitoring and reporting functions of all the education sub-sectors shall be reviewed to heighten their profile in MOET and to align them better with EFA goals and ideals so that it can more effectively monitor the impact/outcomes (not  just  outputs)  of  the  Government's  interventions  in  the  education sector.  The  strengthening  of  the  Planning  Unit  in  this  respect  shall  receive  priority attention.
+3. Impact monitoring system shall be strengthened, focusing on (a) the improvement of relevant data collection; (b) the timeliness and quality of processing, analysis and publication/dissemination; and (c) the utilization of impact monitoring results in policy-making and resource allocation. In this regard, the monitoring and reporting functions of all the education sub-sectors shall be reviewed to heighten their profile in MOET and to align them better with EFA goals and ideals so that it can more effectively monitor the impact/outcomes (not just outputs) of the Government's interventions in the education sector. The strengthening of the Planning Unit in this respect shall receive priority attention.
 
 142
 
@@ -5353,21 +5264,21 @@ In  the  light  of  the  above,  MOET  shall  work  towards  strengthening  the 
 
 ________________________________________________________________________
 
-- The reporting and monitoring communication infrastructure (both hardware and software) shall continue to be strengthened through dial-up connections and access to the Internet.  In  this  regard,  MOET  shall  continue  with  its  on-going  enhancement  of data/information sharing through the Internet and Wireless Local Area Networks.
+4. The reporting and monitoring communication infrastructure (both hardware and software) shall continue to be strengthened through dial-up connections and access to the Internet. In this regard, MOET shall continue with its on-going enhancement of data/information sharing through the Internet and Wireless Local Area Networks.
 
-At the more practical level, the monitoring processes shall use, as the main point of reference, the indicators  and  targets  that  are  defined  in  this  Strategic  Plan's  Implementation  Framework  (see below) as well as in the more detailed Annual Work Plans that  shall  operationalise  the  Strategic Plan.    The  regular  meetings  of  the  top  and  middle  management  staff  of  MOET  will  secure  the monitoring  of  planned  activities  on  a  day-to-day  basis.    To  enlist  the  input  of  participation  of cooperating partners in monitoring the implementation of the Strategic Plan, MOET shall institute Joint Strategic Plan Reviews (JSPRs) every six months. Monitoring will also be carried out as one of the main functions of the District Education Offices and respective managements and boards at the school/learning institution levels. Each monitoring body shall produce quarterly reports that will include  details  of  progress,  financial  expenditure  profiles  and  actions  to  be  taken  forward.    The quarterly  reports  will  form  the  basis  of  the  Ministry's  Annual  Reports  on  the  Strategic  Plan  that shall be shared with all other stakeholders. The results of each Annual Work Plan will be reflected in  the  MOET  Annual  Reports  and  the  overall  progress  will  be  tracked  against  the  objectives, indicators and targets as set in this Strategic Plan.  A Mid-Term Evaluation of the Strategic Plan shall be carried out in the fifth year of the Plan implementation (i.e. 2010).  This evaluation will include an impact assessment of the main activities of the Strategic Plan, set against the Ministry's overall  goals  and  sub-sector  goals  and  objectives  within  the  2005-2015  timeframe.  Figure  9 presents a rough guide to the Strategic Plan implementation process.
+At the more practical level, the monitoring processes shall use, as the main point of reference, the indicators and targets that are defined in this Strategic Plan's Implementation Framework (see below) as well as in the more detailed Annual Work Plans that shall operationalise the Strategic Plan. The regular meetings of the top and middle management staff of MOET will secure the monitoring of planned activities on a day-to-day basis. To enlist the input of participation of cooperating partners in monitoring the implementation of the Strategic Plan, MOET shall institute Joint Strategic Plan Reviews (JSPRs) every six months. Monitoring will also be carried out as one of the main functions of the District Education Offices and respective managements and boards at the school/learning institution levels. Each monitoring body shall produce quarterly reports that will include details of progress, financial expenditure profiles and actions to be taken forward. The quarterly reports will form the basis of the Ministry's Annual Reports on the Strategic Plan that shall be shared with all other stakeholders. The results of each Annual Work Plan will be reflected in the MOET Annual Reports and the overall progress will be tracked against the objectives, indicators and targets as set in this Strategic Plan. A Mid-Term Evaluation of the Strategic Plan shall be carried out in the fifth year of the Plan implementation (i.e. 2010). This evaluation will include an impact assessment of the main activities of the Strategic Plan, set against the Ministry's overall goals and sub-sector goals and objectives within the 2005-2015 timeframe. Figure 9 presents a rough guide to the Strategic Plan implementation process.
 
-- The  following  selection  of  indicators  will  be  used  to  assess  ESSP  implementation  progress during joint annual consultative meetings between GOL - MOET and development partners:
+5. The following selection of indicators will be used to assess ESSP implementation progress during joint annual consultative meetings between GOL - MOET and development partners:
 
-- Access indicators: these include, amongst others, gross enrolment ratio, net enrolment ratio, apparent intake ratio, net intake ratio.
+a) Access indicators: these include, amongst others, gross enrolment ratio, net enrolment ratio, apparent intake ratio, net intake ratio.
 
-- Efficiency indicators: promotion, transition, repetition, dropout and completion rates.
+b) Efficiency indicators: promotion, transition, repetition, dropout and completion rates.
 
-- Quality  indicators: these  include  amongst  others,  pupil  :  teacher  ratio,  pass  rates, national  performance  per  subject  per  grade,  pupil  :  classroom  ratio,  pupil  :  qualified teacher ratio, pupil : textbook ratio per subject per grade
+c) Quality indicators: these include amongst others, pupil : teacher ratio, pass rates, national performance per subject per grade, pupil : classroom ratio, pupil : qualified teacher ratio, pupil : textbook ratio per subject per grade
 
-- Financial indicators: these include, inter alia, budgetary performance indicators with respect  to  revenue,  recurrent  and  capital.  These  also  include  absorptive  capacity indicators such as funds utilization rates and triggers.
+d) Financial indicators: these include, inter alia, budgetary performance indicators with respect to revenue, recurrent and capital. These also include absorptive capacity indicators such as funds utilization rates and triggers.
 
-- Output indicators / contract performance indicators: these include, amongst others, indicators relating to consultancies, goods and equipment, civil works, service delivery.
+e) Output indicators / contract performance indicators: these include, amongst others, indicators relating to consultancies, goods and equipment, civil works, service delivery.
 
 143
 
@@ -5379,97 +5290,39 @@ At the more practical level, the monitoring processes shall use, as the main poi
 
 ________________________________________________________________________
 
-o
+Figure 9: Strategic Plan Implementation Process
+
+Functional Area | Responsibility
 
 Activities
-
-o
-
 Annual Work Plans
-
-o
-
 Budgets
+
+Government Education and Training Institutions
+- District/local levels
+Church organisations
+Private Sector
+NGOs
+Communities
 
 Sub-Programmes
 
-Strategic
+Heads of Departments/Units, sub-unit heads at the MOET Headquarters
 
-Programmes
+Strategic Programmes
 
-Functional Area
+Heads of Departments/Units at the MOET Headquarters
 
-Ministry of Education and Training Top
+Strategic Plan
 
-Management (Principal Secretary,
-
-CEOs/Directors) in consultation with:
-
-•
-
+Ministry of Education and Training Top Management (Principal Secretary, CEOs/Directors) in consultation with:
 Main Stakeholders
-
-•
-
 Cooperating Partners/Donors
 
-Heads of Departments/Units at the
-
-MOET Headquarters
-
-Heads of Departments/Units, sub-unit
-
-heads at the MOET Headquarters
-
-•
-
-Government Education and
-
-Training Institutions
-
-- District/local levels
-
-•
-
-Church organisations
-
-•
-
-Private Sector
-
-•
-
-NGOs
-
-•
-
-Communities
-
 Monitoring
-
-•
-
-MOET
-
-Management
-
-•
-
-Cooperating
-
-partners
-
-•
-
+MOET Management
+Cooperating partners
 Institutions
-
-Strategic
-
-Plan
-
-Responsibility
-
-Figure 9: Strategic Plan Implementation Process
 
 144
 
@@ -5487,21 +5340,21 @@ Taking  into  account  the  above  considerations,  the  Strategic  Plan Impleme
 
 The Implementation Framework shall form the basis for developing Annual Work Plans at levels of implementation. The Annual Work Plan shall guide actual implementation while the Strategic Plan only presents strategic goals and objectives as well as indicative activities. Annual Work Plans shall be prepared at the operational/functional levels (e.g. at the Ministry headquarters for those activities of strategic nature, at the educational institutional level, at the district level, etc.).  All the activities that  shall  be  implemented  annually  shall  focus  of  the  realisation  of  one  or  more  of  the  Strategic Plan's four strategic outputs, namely, access, equity, quality, efficiency and relevance.  As a general guide, Annual Work Plans shall give the following details:
 
-- Sub Sector objectives/ targets
+a) Sub Sector objectives/ targets
 
-- Programme and its strategic objective(s)
+b) Programme and its strategic objective(s)
 
-- Main activities covering the Strategic Plan period (2005-2015)
+c) Main activities covering the Strategic Plan period (2005-2015)
 
-- Sub activities, giving yearly activities to be identified by each level of implementation
+d) Sub activities, giving yearly activities to be identified by each level of implementation
 
-- Budget (giving source: GOL, pool/donor and /or other source)
+e) Budget (giving source: GOL, pool/donor and /or other source)
 
-- Timeline for the specific year
+f) Timeline for the specific year
 
-- Annual Target
+g) Annual Target
 
-- Implementation modality
+h) Implementation modality
 
 The  Strategic  Plan  Implementation  Framework  for  the  period  2005-2015  is  presented  in  the  log frame matrix in the following pages. In the matrix, sub-sector outputs are presented under the main Strategic Plan outputs of Access/Equity, quality, and relevance. The matrix begins with the more generic outputs that are planned for the Strategic Plan period, guided by the 2015 targets.
 
@@ -5575,7 +5428,7 @@ Fifthly, the  costing  for  activities  of  cross-cutting  nature  is  explicitl
 
 -Establishment of HIV and AIDS counselling  VCCT centres and training of HIV and AIDS counsellors
 
--HIV and AIDS propagation, e.g._ workshops and awareness campaigns
+- HIV and AIDS propagation, e.g. workshops and awareness campaigns
 
 -Distribution of HIV and AIDS preventive materials, ARVs and micro-nutrients
 
@@ -5591,8 +5444,11 @@ Finally, a  more  detailed  cost  breakdown of  the  ESSP  recurrent  costs  is 
 
 ________________________________________________________________________
 
+Table - 34 ESSP Recurrent Costs by Programmes for 2005/6 - 2014/15 FYs (M1000)
+
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
+ |  |  |  |  |  | 
 Basic Education | 630,533 | 700,255 | 829,433 | 892,925 | 957,862 | 1,042,401
 Senior Secondary Education | 228,683 | 260,940 | 291,810 | 318,889 | 348,620 | 383,672
 Technical & Vocational Education & Training | 30,100 | 35,799 | 43,618 | 44,980 | 46,478 | 48,949
@@ -5607,10 +5463,11 @@ Available GOL Resources | 1,002,315 | 1,104,333 | 1,247,288 | 1,326,221 | 1,409,
 Funding Gap | 429,564 | 473,286 | 534,552 | 568,380 | 604,206 | 650,703
 Percentage Funding Gap % | 30 | 30 | 30 | 30 | 30 | 30
 
-Table - 34    ESSP Recurrent Costs by Programmes for 2005/6 - 2014/15 FYs (M1000)
+Table - 35 Percentage ESSP Recurrent Costs by Programmes for 2005/6 - 2014/15 (M1000)
 
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
+ |  |  |  |  |  | 
 Basic Education | 44.04 | 44.39 | 46.55 | 47.13 | 47.56 | 48.06
 Senior Secondary Education | 15.97 | 16.54 | 16.38 | 16.83 | 17.31 | 17.69
 Technical & Vocational Education & Training | 2.10 | 2.27 | 2.45 | 2.37 | 2.31 | 2.26
@@ -5621,8 +5478,6 @@ Planning, Monitoring and Evaluation | 0.94 | 1.14 | 1.29 | 1.18 | 1.19 | 1.21
 Special Education Programmes | 1.27 | 1.58 | 1.73 | 1.95 | 2.09 | 2.29
 Institutional and Systems Development and Maintenance | 1.77 | 2.21 | 2.13 | 2.19 | 2.26 | 2.40
 Total ESSP Recurrent Costs | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-
-Table - 35   Percentage ESSP Recurrent Costs by Programmes for 2005/6 - 2014/15 (M1000)
 
 149
 
@@ -5640,19 +5495,19 @@ The overall ESSP costing is reflected in Table 32 below. The current MTEF is dev
 
 The  distribution  of  ESSP  costs  in  percentages  is  shown  in  Table  33  below.  The  distribution  is driven by the fact that a number of activities are phased;  therefore the high cost of infrastructure development over the middle costing period and the cumulative impact of increased access in basic education  is  particularly  on  account  of  the  introduction  of  cost  reduction  measures  for  junior secondary  education  which  represents  a  marked  expansion  in  terms  of  enrolment  numbers  from 2007 school year. The highest contributions to ESSP costs over the ESSP period are associated with improvements  in  access  and  quality  in  Basic  Education  and  Senior  Secondary  Education.  The provision  of  TVET  infrastructure  facilities  and  the  provision  of  HIV  and  AIDS  protective  and preventive materials including, inter alia, ARVs and micro-nutrients to education sector are other major items which contribute considerably to the ESSP costs. Together these items are expected to constitute  53.0%,  60.6% and 64.2 % of the ESSP costs in 2005/6, 2008/9 and 2014/15 financial years respectively. The third highest contributor to the ESSP costs is higher education, mostly on account of the cost of expanding access. Given the high need for qualified teachers at primary and secondary  levels,  the  need  to  expand  teacher  development  programmes  bears  a  significant contribution to the higher education budgetary allocation. These costs are borne mainly through the NMDS  budget, subventions, allocations for capital construction and implementation of transformation  programmes.  It  is  worth  mentioning  that  the  ESSP  costing  by  individual  MOET programmes is covered in the relevant sections of this plan.
 
+TABLE 32:  OVERALL COST OF EDUCATION SECTOR STRATEGIC PLAN (in M1000)
+
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Basic Education | 804,332 | 909,325 | 1,058,627 | 1,143,845 | 1,232,326 | 1,355,430
 Senior Secondary Education | 271,353 | 306,675 | 343,232 | 374,733 | 409,290 | 451,853
 Technical & Vocational Education & Training | 49,100 | 110,799 | 126,618 | 137,680 | 93,148 | 99,854
-Teacher Education, Support & Supply | 180,783 | 216,642 | 242,124 | 209,051 | 220'601 | 236,107
+Teacher Education, Support & Supply | 180,783 | 216,642 | 242,124 | 209,051 | 220’601 | 236,107
 Higher Education | 515,286 | 562,168 | 569,918 | 492,993 | 501,536 | 491,702
 Curriculum Development, Assessment & Education Support | 19,300 | 28,600 | 36,900 | 38,595 | 40,375 | 44,112
 Planning, Monitoring and Evaluation | 38,500 | 54,000 | 67,000 | 52,850 | 55,878 | 61,465
 Special Programmes: UNESCOM, Prince Mohato, Special Ed., IECCD, LLL | 72,978 | 104,710 | 125,753 | 134,744 | 153,077 | 169,036
 Institutional and Systems Development and Maintenance | 172,458 | 342,455 | 345,554 | 149,909 | 64,700 | 62,605
-
-TABLE 32:  OVERALL COST OF EDUCATION SECTOR STRATEGIC PLAN (in M1000)
 
 150
 
@@ -5688,7 +5543,7 @@ Curriculum Development, Assessment & Education Support | 0.91 | 1.09 | 1.27 | 1.
 Planning, Monitoring and Evaluation | 1.81 | 2.05 | 2.30 | 1.93 | 2.02 | 2.07
 Special Programmes | 3.44 | 3.97 | 4.31 | 4.93 | 5.52 | 5.69
 Institutional and Systems Development and Maintenance | 8.12 | 12.99 | 11.85 | 5.48 | 2.33 | 2.11
-100 | 100 | 100 | 100 | 100 | 100
+ | 100 | 100 | 100 | 100 | 100 | 100
 
 The  most  significant additional  cost arises  from  the  activities  envisaged  in  the  Basic  Education Strategic  Area,  followed  by  Senior  Secondary  and  other.  This  is  to  be  expected,  since  given  the high  enrolment  numbers compared to other sectors; every improvement envisaged carries a high cost. The third highest contributor to additional costs is the tertiary area, mostly on account of the cost of expanding access (both the cost borne by the NMDS budget and through the subvention on the  education  ministry  budget)  and  on  account  of  a  capital  construction  and  transformation programmes at the NUL and the LP. The fourth largest contributor is the Teacher Education and Supply Area, on account of the cost of additional teacher provision and training of untrained and under-qualified teachers. The fifth largest contribution comes from TVET, where it is driven by the envisaged additional TVET facilities.
 
@@ -5708,10 +5563,11 @@ ________________________________________________________________________
 
 The  share  of  Basic  Education  is  expected  to  increase  from  29.13  %  of  the  total  funding  gap  in 2005/6 to 37.42% in 2009/10. The share of Higher Education is expected to decrease from 19.90 % in 2005/6 to 14.78 % in 2009/10 while Senior Secondary Education is expected to rise from 9.80% to 12.12%. The overall ESSP funding gap and the gap by individual programmes help the existing and potential development and cooperating partners to identify areas of possible financing in close consultation and collaboration with the Government.
 
+Table - 36   Funding Gap by Education Sector Programmes for the Period 2005/6 - 2014/15 (in M1000)
+
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
-Basic Education
-290,201 | 310,791 | 372,681 | 408,187 | 445,682 | 497,995
+Basic Education | 290,201 | 310,791 | 372,681 | 408,187 | 445,682 | 497,995
 Senior Secondary Education | 97,621 | 105,501 | 119,974 | 131,571 | 144,320 | 160,252
 Technical & Vocational Education & Training | 22,924 | 81,876 | 92,555 | 102,487 | 56,721 | 61,309
 Teacher Education, Support & Supply | 150,181 | 180,684 | 198,793 | 162,803 | 171,203 | 182,049
@@ -5722,7 +5578,7 @@ Special Education Programmes | 59,200 | 85,742 | 102,674 | 107,405 | 122,005 | 1
 Institutional and Systems Development and Maintenance | 151,729 | 313,659 | 315,085 | 116,728 | 28,545 | 21,452
 Total ESSP Funding Gap | 996,204 | 1,372,941 | 1,514,238 | 1,246,269 | 1,191,112 | 1,266,852
 
-Table - 36   Funding Gap by Education Sector Programmes for the Period 2005/6 - 2014/15 (in M1000)
+Table - 37: Share of Education Sector Programmes in Funding Gap for the Period 2005/6 - 2014/15 (%)
 
 FINANCIAL YEAR | 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -5736,8 +5592,6 @@ Planning, Monitoring and Evaluation | 1.91 | 2.28 | 2.73 | 2.18 | 2.40 | 2.48
 Special Education Programmes | 5.94 | 6.25 | 6.78 | 8.62 | 10.24 | 10.46
 Institutional and Systems Development and Maintenance | 15.23 | 22.85 | 20.81 | 9.37 | 2.40 | 1.69
 Total ESSP Funding Gap | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-
-Table - 37: Share of Education Sector Programmes in Funding Gap for the Period 2005/6 - 2014/15 (%)
 
 152
 
@@ -5753,19 +5607,19 @@ ________________________________________________________________________
 
 The  MOET  shall  work  towards  the  integrated  sector-wide  approach  (SWAp)  as  the  guiding modality  for  financing  implementation  of  the  Education  Sector  Strategic  Plan.  Sector  Wide Approach shall be guided by, amongst others, the following principles:
 
-- The  co-ordination  of  MOET  and  donor  activities  in  support  of  an  agreed common prioritised policy framework and the Strategic Plan.
+a) The co-ordination of MOET and donor activities in support of an agreed common prioritised policy framework and the Strategic Plan.
 
-- The  integration  of  government  budget  resources  and  aid  within  a  mutuallyagreed government programme for the improvement of the education sector.
+b) The integration of government budget resources and aid within a mutually-agreed government programme for the improvement of the education sector.
 
-- Emphasis on efficiency, transparency and realism in the design and implementation of the Strategic Plan.
+c) Emphasis on efficiency, transparency and realism in the design and implementation of the Strategic Plan.
 
-- Strengthening of links between the sub-sector expenditure programme and the MOET's Medium-Term Expenditure Framework (MTEF).
+d) Strengthening of links between the sub-sector expenditure programme and the MOET’s Medium-Term Expenditure Framework (MTEF).
 
-- Fostering a sense of co-operation and partnership with all stakeholders through regular  consultation  and  reporting  while  firmly  maintaining  control  and leadership within MOET's Planning Unit.
+e) Fostering a sense of co-operation and partnership with all stakeholders through regular consultation and reporting while firmly maintaining control and leadership within MOET’s Planning Unit.
 
-- A programme design that takes into account cross-cutting objectives such as poverty reduction, HIV and AIDS, and gender.
+f) A programme design that takes into account cross-cutting objectives such as poverty reduction, HIV and AIDS, and gender.
 
-- The  development  and/or  strengthening  of  mechanisms  for  monitoring  the performance of Strategic Plan interventions.
+g) The development and/or strengthening of mechanisms for monitoring the performance of Strategic Plan interventions.
 
 As  a  first  step,  the  Government  of  Lesotho  and  its  Development  and  Cooperating  partners  in education  shall  negotiate  and  sign  a Statement  of  Intent that  shall  guide  their  relationship  in  the sector, initially focusing on common reporting and monitoring mechanism before opportunities for resource  pooling  are  explored.  This  is  going  to  be  followed  by  development  of  memoranda  of understanding and establishment of relevant management and implementation structures.
 
@@ -5785,11 +5639,11 @@ ________________________________________________________________________
 
 ## Log-frame: Strategic Plan Implementation Framework: 2005-2015
 
-Means of | responsibility CRITICAL
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
 --- | --- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Assumptions | Government | Others
-1 Overall Goal: To improve access, quality, equity and relevance of education levels
-1.1 | Improving Access and Equity of education and training at all levels | 1. Share of total recurrent budget devoted to primary and secondary education increased from 63% in 2003 to 70% from 2007 2. Free and compulsory primary education and Universal Basic Education by 2015 3. Attainment by 2015 of equitable access to education and training at all levels through formal and informal modes of delivery 4. Special support structures/mechanisms for socially disadvantaged groups, including OVCs and the girl-child, facilitated in the school/training environment in order to balance access to education by 2015 5. Safe learning environments for girls created by 2015, focusing on elimination of child abuse, including sexual harassment 6. Admission, completion and transition rates of both boys and girls in schools and training institutions increased by 2015 7. Gender parity in access attained by 2015 8. Access to lifelong learning significantly increased by 2015 9. All legislative and social/cultural barriers | 1. Statistical surveys by the Planning Unit of MOET 2. Annual School Census 3. National Assessment results | and Training at all 1. Current Government budgetary allocations to MOET are increased 2. Cooperating partners/donors maintain sufficient external funding to meet financing gap 3. Strengthened capacity of MOET Management 4. Enhanced resource absorptive capacity 5. Adoption and implementation of MOET reforms/decentralisa tion 6. MOET shall urgently strengthen its statistical data collection, analytical and reporting capacity | 1. Ministry of Finance 2. MOET management at HQ | 1. Cooperating Partners/donors 2. Education service providers, particularly churches
+1 Overall Goal: To improve access, quality, equity and relevance of education and Training at all levels
+1.1 | Improving Access and Equity of education and training at all levels | 1. Share of total recurrent budget devoted to primary and secondary education increased from 63% in 2003 to 70% from 2007 2. Free and compulsory primary education and Universal Basic Education by 2015 3. Attainment by 2015 of equitable access to education and training at all levels through formal and informal modes of delivery 4. Special support structures/mechanisms for socially disadvantaged groups, including OVCs and the girl-child, facilitated in the school/training environment in order to balance access to education by 2015 5. Safe learning environments for girls created by 2015, focusing on elimination of child abuse, including sexual harassment 6. Admission, completion and transition rates of both boys and girls in schools and training institutions increased by 2015 7. Gender parity in access attained by 2015 8. Access to lifelong learning significantly increased by 2015 9. All legislative and social/cultural barriers | 1. Statistical surveys by the Planning Unit of MOET 2. Annual School Census 3. National Assessment results | 1. Current Government budgetary allocations to MOET are increased 2. Cooperating partners/donors maintain sufficient external funding to meet financing gap 3. Strengthened capacity of MOET Management 4. Enhanced resource absorptive capacity 5. Adoption and implementation of MOET reforms/decentralisation 6. MOET shall urgently strengthen its statistical data collection, analytical and reporting capacity | 1. Ministry of Finance 2. MOET management at HQ | 1. Cooperating Partners/donors 2. Education service providers, particularly churches
 
 154
 
@@ -5814,10 +5668,10 @@ people removed by 2015 10. More new community schools built by 2015 and more upg
 
 ________________________________________________________________________
 
-Means of | CRITICAL Assumptions | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Government | Others
-1.2 | Improving Quality | 1. Learning achievement for both basic and secondary school pupils/students improved to 50% by 2009 and 75% by 2015 2. Synergies between TVET training programmes and the labour market demands enhanced significantly by 2015 3. Pupil per qualified teacher ratio at primary level increased to 40:1 by 2015 4. The assessment and monitoring functions of the Education for All ( EFA) Team institutionalised by 2015 through a clear and realistic Work Plan on regular assessment and monitoring of progress 5. Drinking water and toilets facilitated in all schools by 2015 6. The implementation of ICT programme for all institutions of learning receive sufficient resources by 2015 7. Effective research for the application of science and modern technology adequately funded by 2015 8. Sufficient, skilled and motivated human resource for the education and training system developed through use of ICT | 1. Improved school inspections for quality and relevance 2. Results from the Southern Africa Consortium for Monitoring Education Quality (SACMEQ) 3. Surveys by the Planning Unit of MOET 4. MOET Departmental reports 4. UNDP Human Development Reports and other international reports | MOET management at HQ | 1. Cooperating Partners/donors (funding studies/assessment ) 2. Service providers, particularly churches
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+1.2 | Improving Quality | 1. Learning achievement for both basic and secondary school pupils/students improved to 50% by 2009 and 75% by 2015 2. Synergies between TVET training programmes and the labour market demands enhanced significantly by 2015 3. Pupil per qualified teacher ratio at primary level increased to 40:1 by 2015 4. The assessment and monitoring functions of the Education for All ( EFA) Team institutionalised by 2015 through a clear and realistic Work Plan on regular assessment and monitoring of progress 5. Drinking water and toilets facilitated in all schools by 2015 6. The implementation of ICT programme for all institutions of learning receive sufficient resources by 2015 7. Effective research for the application of science and modern technology adequately funded by 2015 8. Sufficient, skilled and motivated human resource for the education and training system developed through use of ICT | 1. Improved school inspections for quality and relevance 2. Results from the Southern Africa Consortium for Monitoring Education Quality (SACMEQ) 3. Surveys by the Planning Unit of MOET 4. MOET Departmental reports 4. UNDP Human Development Reports and other international reports |  | MOET management at HQ | 1. Cooperating Partners/donors (funding studies/assessment) 2. Service providers, particularly churches
 
 156
 
@@ -5829,10 +5683,10 @@ Narrative Summary | Performance Indicators | Verification | Government | Others
 
 ________________________________________________________________________
 
-Means of | CRITICAL Assumptions | responsibility
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
 --- | --- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Government | Others
-1.3 | Improving Relevance | 1. MOET Headquarters' capacities for educational change improved significantly by 2015 through training and restructuring 2. Commitment to curriculum improvement significantly increased by 2015 3. Curriculum and Assessment Framework revised by 2015 4. By 2015, all teachers exposed to in-service training programmes which are child-centred, gender-sensitive, and that include sexual and reproductive health (particularly HIV/ and AIDS aspects) in pre-service and in-service courses. 5. The Inspectorate transformed by 2015 to focus on achievement and educational outcomes 6. By 2015, sufficient resources being allocated to R&D in educational and training institutions | 1. Statistical surveys by the Planning Unit of MOET 2. MOET Departmental reports 3. UNDP Human Development Reports and other international reports | Ability and readiness of MOET to change the curricula | 1. MOET Management at HQ 2. National Curriculum Development Centre (NCDC) | Industry in determining appropriate curriculum
+1.3 | Improving Relevance | 1. MOET Headquarters’ capacities for educational change improved significantly by 2015 through training and restructuring 2. Commitment to curriculum improvement significantly increased by 2015 3. Curriculum and Assessment Framework revised by 2015 4. By 2015, all teachers exposed to in-service training programmes which are child-centred, gender-sensitive, and that include sexual and reproductive health (particularly HIV/ and AIDS aspects) in pre-service and in-service courses. 5. The Inspectorate transformed by 2015 to focus on achievement and educational outcomes 6. By 2015, sufficient resources being allocated to R&D in educational and training institutions | 1. Statistical surveys by the Planning Unit of MOET 2. MOET Departmental reports 3. UNDP Human Development Reports and other international reports | Ability and readiness of MOET to change the curricula | 1. MOET Management at HQ 2. National Curriculum Development Centre (NCDC) | Industry in determining appropriate curriculum
 1.4 | Enhanced efficiency of the education system through improving administration, financing and management structures | 1. A national decentralisation policy for the education sector developed by 2007, focusing on the devolution of fiscal and management authority to the districts and schools 2. The Decentralisation Operational Framework in place by 2008, giving the timeline and resource requirements for the implementation of the Decentralisation policy 3. Administrative service reforms of the education sector undertaken through moving decisively during the 2005-2015 period towards decentralisation, including devolution of decision-making power and authority to the districts 4. E-governance through the use of ICT introduced by 2015 | Review of MOET management system | Availability of resources to undertake the restructuring/reform process | MOET Management at HQ | 1. Cooperating partners/donors by contributing to sectoral reforms 2. Other education services providers, especially churches
 
 157
@@ -5845,12 +5699,12 @@ Narrative Summary | Performance Indicators | Verification | Government | Others
 
 ________________________________________________________________________
 
-Means of | CRITICAL | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Assumptions | Government | Others
-5. The process of MOET institutional strengthening at headquarters and district levels in place by 2006, focusing, inter alia, on strategic planning, programme implementation, financial management/expenditure control, monitoring and evaluation of activities, procurement systems, and in mainstreaming gender and HIV and AIDS in planning and management systems 6. Capacity in educational leadership, management, research and information systems developed for Ministry management staff by 2015 | 3.
-7. Resource mobilisation strategy designed by 2007 for the education sector (at different levels of service provision), targeting development cooperation partners/donors, multilateral agencies, local and external/regional bodies/institutions, church organisations, the private sector, NGOs, CBOs, communities and individuals. | 4.
-Improving partnerships/linkages in education service provision | 1. Existence by 2015 of effective and sustained partnership arrangements with the different categories of stakeholders and funding organisations/agencies 2. Existence by 2015 of formalised modalities of cooperation/collaboration between MOET/GOL and partners in the education sector (e.g. donors, the church, the community, private sector) by defining more clearly the level and degree of involvement. | Periodic reviews of partnership arrangements, focusing less on their 'presence' and more on their actual effectiveness | Ability and/or willingness on the part of parties to arrange for, and enter into formalised and structured arrangements | MOET Management at HQ | Cooperating partners/donors
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+ |  | 5. The process of MOET institutional strengthening at headquarters and district levels in place by 2006, focusing, inter alia, on strategic planning, programme implementation, financial management/expenditure control, monitoring and evaluation of activities, procurement systems, and in mainstreaming gender and HIV and AIDS in planning and management systems 6. Capacity in educational leadership, management, research and information systems developed for Ministry management staff by 2015 |  |  |  | 3.
+ |  | 7. Resource mobilisation strategy designed by 2007 for the education sector (at different levels of service provision), targeting development cooperation partners/donors, multilateral agencies, local and external/regional bodies/institutions, church organisations, the private sector, NGOs, CBOs, communities and individuals. |  |  |  | 4.
+1.5 | Improving partnerships/linkages in education service provision | 1. Existence by 2015 of effective and sustained partnership arrangements with the different categories of stakeholders and funding organisations/agencies 2. Existence by 2015 of formalised modalities of cooperation/collaboration between MOET/GOL and partners in the education sector (e.g. donors, the church, the community, private sector) by defining more clearly the level and degree of involvement. | Periodic reviews of partnership arrangements, focusing less on their ‘presence’ and more on their actual effectiveness | Ability and/or willingness on the part of parties to arrange for, and enter into formalised and structured arrangements | MOET Management at HQ | Cooperating partners/donors
 
 158
 
@@ -5862,14 +5716,14 @@ Improving partnerships/linkages in education service provision | 1. Existence by
 
 ________________________________________________________________________
 
-Means of | CRITICAL | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Assumptions | Government | Others
-2 Strategic Plan Outputs : Access & Equity
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+2 Strategic Plan Outputs: Access & Equity
 2.1 | Early Childhood Education
-Expanding and improving comprehensive early childhood care and education | 1. 100% IECCD access for 3-6 age group by 2015 2. Linking of IECCD programmes to 80% of existing primary schools initiated and running smoothly by 2015 3. Attainment of 70% and 100% IECCD access by disadvantaged groups by 2009 and 2015, respectively 4. By 2015, all districts have at least two home- based centres established, with sufficient manuals, basic materials, and exposure of teachers, caregivers and parents to relevant workshops-based training 5. Integration of early child education into the basic education structure by 2015 6. Gender effectively mainstreamed in IECCD activity by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Inspection Reports 3. MOET departmental reports 4. EMIS reports | 1. MOET shall urgently strengthen its statistical data collection, analytical and reporting capacity 2. Parents are willing to enrol their children into IECCD programmes 3. The Government is willing and able to make available primary school infrastructure for use by IECCD programmes | 1. MOET Management at HQ 2. IECCD/Field Inspectorate | Communities/parents in terms of contributing to construction and maintenance of physical facilities
+ | Expanding and improving comprehensive early childhood care and education | 1. 100% IECCD access for 3-6 age group by 2015 2. Linking of IECCD programmes to 80% of existing primary schools initiated and running smoothly by 2015 3. Attainment of 70% and 100% IECCD access by disadvantaged groups by 2009 and 2015, respectively 4. By 2015, all districts have at least two home-based centres established, with sufficient manuals, basic materials, and exposure of teachers, caregivers and parents to relevant workshops-based training 5. Integration of early child education into the basic education structure by 2015 6. Gender effectively mainstreamed in IECCD activity by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Inspection Reports 3. MOET departmental reports 4. EMIS reports | 1. MOET shall urgently strengthen its statistical data collection, analytical and reporting capacity 2. Parents are willing to enrol their children into IECCD programmes 3. The Government is willing and able to make available primary school infrastructure for use by IECCD programmes | 1. MOET Management at HQ 2. IECCD/Field Inspectorate | Communities/parents in terms of contributing to construction and maintenance of physical facilities
 2.2 | Basic Education
-Increasing Enrolment Rate in basic education through expansion of available schools and construction of additional ones | 1. Net Enrolment ratio in primary education increased from 85% in 2003 to 100% by 2015 2. Primary completion rate increased to 90% in 2009 and 100% in 2015 3. Lower secondary (Forms A-C) Gross Enrolment Rate increased to 60% in 2007 and 85% in 2015 4. 15,000 bursaries to be provided annually for orphans and other needy pupils/students as a targeted equity-based programme 5. Average walking time to schools reduced to less than 1 hour 30 minutes by 2009 and to less than 1 hour by 2015 6. Gender equity and parity within the basic Education System achieved by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Results from SACMEQ 3. Household Survey 4. Annual School Census, School Surveys 5. Inspection reports 6. MOET departmental reports 7. EMIS reports | 1. MOET shall strengthen its statistical data collection and analysis capacity 2. Government has sufficient resources at its disposal to construct more facilities 3. The community is willing and able to register their children in Standard 1 | MOET Management at HQ
+ | Increasing Enrolment Rate in basic education through expansion of available schools and construction of additional ones | 1. Net Enrolment ratio in primary education increased from 85% in 2003 to 100% by 2015 2. Primary completion rate increased to 90% in 2009 and 100% in 2015 3. Lower secondary (Forms A-C) Gross Enrolment Rate increased to 60% in 2007 and 85% in 2015 4. 15,000 bursaries to be provided annually for orphans and other needy pupils/students as a targeted equity-based programme 5. Average walking time to schools reduced to less than 1 hour 30 minutes by 2009 and to less than 1 hour by 2015 6. Gender equity and parity within the basic Education System achieved by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Results from SACMEQ 3. Household Survey 4. Annual School Census, School Surveys 5. Inspection reports 6. MOET departmental reports 7. EMIS reports | 1. MOET shall strengthen its statistical data collection and analysis capacity 2. Government has sufficient resources at its disposal to construct more facilities 3. The community is willing and able to register their children in Standard 1 | MOET Management at HQ |
 
 159
 
@@ -5881,13 +5735,13 @@ Increasing Enrolment Rate in basic education through expansion of available scho
 
 ________________________________________________________________________
 
-Means of | CRITICAL | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Assumptions | Government | Others
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
 ##### 2.3 Secondary Education
-Improve Access to equity Secondary Education | 1. At least three Government-owned secondary schools constructed annually up to 2015 2. At least 3,000 bursaries provided annually for orphans and other needy students up to 2015 3. One week-long separate in-service workshops held annually for secondary school teachers/principals, inspectors, advisors, and School Boards 4. 50% and 80% high school net enrolment by 2009 and 2015, respectively 5. Transition rate from primary to secondary education increased from 77% to 90% by 2009 and to 100% by 2015 6. Increased by 50 percent the training facilities in schools with special needs by 2015 7. The provision of formal education to cater for all ability levels diversified by 2015 8. Teaching and learning conditions in all schools significantly improved by 2015 9. Teaching and learning processes in all schools enhanced considerably by 2015 10. Gender equity and parity within the Secondary | 1. Statistical surveys by the Planning Unit of MOET 2. Results from National and regional Assessments such as the SACMEQ 3. MOET Annual reviews 4. Annual School Census, School Surveys 5. Inspectors Reports 6. EMIS reports 7. Departmental reports | 1. There is a steady increase in the number of secondary schools 2. There is sufficient budgetary allocations for access-enhancing programmes/ activities | MOET Management at HQ | Cooperating partners/donors in terms of provision of resources for physical infrastructure development
+Improve Access to equity Secondary Education | 1. At least three Government-owned secondary schools constructed annually up to 2015 2. At least 3,000 bursaries provided annually for orphans and other needy students up to 2015 3. One week-long separate in-service workshops held annually for secondary school teachers/principals, inspectors, advisors, and School Boards 4. 50% and 80% high school net enrolment by 2009 and 2015, respectively 5. Transition rate from primary to secondary education increased from 77% to 90% by 2009 and to 100% by 2015 6. Increased by 50 percent the training facilities in schools with special needs by 2015 7. The provision of formal education to cater for all ability levels diversified by 2015 8. Teaching and learning conditions in all schools significantly improved by 2015 9. Teaching and learning processes in all schools enhanced considerably by 2015 10. Gender equity and parity within the Secondary Education System attained by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Results from National and regional Assessments such as the SACMEQ 3. MOET Annual reviews 4. Annual School Census, School Surveys 5. Inspectors Reports 6. EMIS reports 7. Departmental reports | 1. There is a steady increase in the number of secondary schools 2. There is sufficient budgetary allocations for access-enhancing programmes/activities | MOET Management at HQ | Cooperating partners/donors in terms of provision of resources for physical infrastructure development
 ##### 2.4 Technical and Vocational Education and Training
-Increase access to Quality Technical and Vocational Education and Training for Basotho people | 1. TVET enrolment increased by 40% by 2009 and by a further 40% by 2015 2. Strategy for targeted equity programmes for the marginalized groups in place by 2007 3. Legal and regulatory framework conducive to establishing a demand-driven TVET system in place by 2007 4. Skills development centres in place, one in every district, by 2015 5. Private sector-driven skills development fund in place by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. TVET institutions' annual reports 3. Departmental reports 4. EMIS reports | 1. TVET's legal and regulatory framework in place, clarified, and implemented 2. Willingness of the private sector to participate 3. Existence of demand- driven curriculum | 1. MOET Management at HQ 2. TVET training institutions | 1. Learners through contributing cost- recovery fees 2. Trade and Industry through benefaction
+Increase access to Quality Technical and Vocational Education and Training for Basotho people | 1. TVET enrolment increased by 40% by 2009 and by a further 40% by 2015 2. Strategy for targeted equity programmes for the marginalized groups in place by 2007 3. Legal and regulatory framework conducive to establishing a demand-driven TVET system in place by 2007 4. Skills development centres in place, one in every district, by 2015 5. Private sector-driven skills development fund in place by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. TVET institutions’ annual reports 3. Departmental reports 4. EMIS reports | 1. TVET’s legal and regulatory framework in place, clarified, and implemented 2. Willingness of the private sector to participate 3. Existence of demand-driven curriculum | 1. MOET Management at HQ 2. TVET training institutions | 1. Learners through contributing cost-recovery fees 2. Trade and Industry through benefaction
 
 160
 
@@ -5899,14 +5753,14 @@ Increase access to Quality Technical and Vocational Education and Training for B
 
 ________________________________________________________________________
 
-Means of | CRITICAL | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Assumptions | Government | Others
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
 ##### 2.5 Higher Education
-Enhanced opportunities for accessing quality higher education by Basotho people | 1. Enrolments increased by 30 percent in 2009 and by a further 40 percent in 2015 2. Intake into teacher training institutions significantly enhanced by 2015, in response to increased teacher demand 3. Facilities in institutions of higher learning expanded by 2015 through offering of more training programmes | 1. Statistical surveys by the Planning Unit of MOET 2. Results from SACMEQ | Strengthened tertiary education institution's management systems, especially in strategic planning and financial management | 1. MOET Management at HQ 2. Management of institutions of higher learning | 1. Learners through contributing cost- recovery fees 2. Cooperating partners/donors in terms of physical infrastructure and equipment support
+Enhanced opportunities for accessing quality higher education by Basotho people | 1. Enrolments increased by 30 percent in 2009 and by a further 40 percent in 2015 2. Intake into teacher training institutions significantly enhanced by 2015, in response to increased teacher demand 3. Facilities in institutions of higher learning expanded by 2015 through offering of more training programmes | 1. Statistical surveys by the Planning Unit of MOET 2. Results from SACMEQ | Strengthened tertiary education institution’s management systems, especially in strategic planning and financial management | 1. MOET Management at HQ 2. Management of institutions of higher learning | 1. Learners through contributing cost-recovery fees 2. Cooperating partners/donors in terms of physical infrastructure and equipment support
 ##### 2.6 Lifelong Learning/Non-Formal Education
-Achieve a 100% literate society | 1. 80% and 100% access by disadvantaged groups to lifelong learning by 2009 and 2015, respectively 2. Established Lifelong Learning centres in all districts (10 centres constructed, equipped and staffed by 2015) 3. Have learning posts in all districts by 2015 4. 70% of the present 57% functionally illiterate adults and youths to have received vocational/practical training by 2015 5. Functional illiteracy reduced significantly by 2015 6. More women trained in vocations generally assumed to be men's domain | 1. Statistical surveys by the Planning Unit of MOET 2. Departmental reports 3. EMIS reports | More lifelong leaning centres and Home-based centres constructed with involvement of communities and support form the Government | MOET Management at HQ/IECCD | 1. Learners through financial contributions 2. Communities through financial and in-kind contributions
-#### Strategic Plan Output: Quality
+Achieve a 100% literate society | 1. 80% and 100% access by disadvantaged groups to lifelong learning by 2009 and 2015, respectively 2. Established Lifelong Learning centres in all districts (10 centres constructed, equipped and staffed by 2015) 3. Have learning posts in all districts by 2015 4. 70% of the present 57% functionally illiterate adults and youths to have received vocational/practical training by 2015 5. Functional illiteracy reduced significantly by 2015 6. More women trained in vocations generally assumed to be men’s domain | 1. Statistical surveys by the Planning Unit of MOET 2. Departmental reports 3. EMIS reports | More lifelong leaning centres and Home-based centres constructed with involvement of communities and support form the Government | MOET Management at HQ/IECCD | 1. Learners through financial contributions 2. Communities through financial and in-kind contributions
+#### 3 Strategic Plan Output: Quality
 ##### 3.1 Early Childhood Education
 Improve the quality of IECCD programmes | 1. Approved IECCD Policy in place by 2006 2. Structures, staffing, guidelines and standards for an effective nationwide IECCD programme in place by 2015 3. Significant child achievement rates recorded by 2015 4. Improved IECCD curriculum by 2015 5. Caregivers/facilitators exposed to training opportunities for quality improvement by 2015 6. Improved planning and management capacity of IECCD at the headquarters and districts by 2015 7. Well-managed and decentralised IECCD programme in place by 2015 | 1. Annual reviews by MOET 2. Annual reports childcare centres 3. Inspection reports 4. Departmental reports 5. EMIS reports | IECCD policy in place to guide both qualitative and quantitative interventions | MOET Management at HQ, mainly through support for training of teachers | Communities
 
@@ -5920,11 +5774,11 @@ Improve the quality of IECCD programmes | 1. Approved IECCD Policy in place by 2
 
 ________________________________________________________________________
 
-Means of | CRITICAL Assumptions | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Government | Others
-##### Basic Education
-Provision of quality basic education | 1. Average scores of national achievement tests in primary (3&6) Maths, English and Sesotho improved by at least 15% by 2015 2. Learning achievement for basic education improved to 50% in 2009 and 70% by 2015. 3. Performance in national achievement tests improved by 20%, on average, by 2009 and by a further 40% by 2015 4. Primary completion rate increased from 77% in 2001 to 85% in 2009 and to 100% by 2015 5. Average pupil classroom ratio reduced from 1:65 in 2003 to 1:55 in 2007 to 40:1 by 2015. 6. Pupil teacher ratio reduced from 46 in 2003 to 41 in 2007 to 40 by 2015. 7. Quality assurance systems and processes in place by 2015 8. Basic education curriculum reviewed by 2007 and operational by 2015. 9. Teacher education curriculum reviewed by 2007 and operational by 2015. 10. 100% increase in effective use of C&A packages by basic education teachers by 2015 11. Gender disparities in primary and secondary education eliminated and gender equality achieved by 2015. 12. Assured availability of teaching and learning materials: Procure core textbooks by 2007 to maintain primary pupil/textbook ration of 1:5 by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Innovation Configuration Matrix (observation instrument used to assess classroom interaction) and Concerns-Based Adoption Model 3. Curriculum and Assessment (C&A) annual reports 4. Results from SACMEQ 5. Inspection reports 6. Departmental reports 7. EMIS reports | Sufficient resources channelled to basic education from both GOL and cooperating partners in order to meet the quality- enhancing targets | 1. MOET Management at HQ 2. District-level education officers under decentralised system of education services delivery | 1. Cooperating partners/donors through funding assessments, personnel training, and equipment and learning and teaching materials provision
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+##### 3.2 Basic Education
+Provision of quality basic education | 1. Average scores of national achievement tests in primary (3&6) Maths, English and Sesotho improved by at least 15% by 2015 2. Learning achievement for basic education improved to 50% in 2009 and 70% by 2015. 3. Performance in national achievement tests improved by 20%, on average, by 2009 and by a further 40% by 2015 4. Primary completion rate increased from 77% in 2001 to 85% in 2009 and to 100% by 2015 5. Average pupil classroom ratio reduced from 1:65 in 2003 to 1:55 in 2007 to 40:1 by 2015. 6. Pupil teacher ratio reduced from 46 in 2003 to 41 in 2007 to 40 by 2015. 7. Quality assurance systems and processes in place by 2015 8. Basic education curriculum reviewed by 2007 and operational by 2015. 9. Teacher education curriculum reviewed by 2007 and operational by 2015. 10. 100% increase in effective use of C&A packages by basic education teachers by 2015 11. Gender disparities in primary and secondary education eliminated and gender equality achieved by 2015. 12. Assured availability of teaching and learning materials: Procure core textbooks by 2007 to maintain primary pupil/textbook ration of 1:5 by 2015 | 1. Statistical surveys by the Planning Unit of MOET 2. Innovation Configuration Matrix (observation instrument used to assess classroom interaction) and Concerns-Based Adoption Model 3. Curriculum and Assessment (C&A) annual reports 4. Results from SACMEQ 5. Inspection reports 6. Departmental reports 7. EMIS reports | Sufficient resources channelled to basic education from both GOL and cooperating partners in order to meet the quality-enhancing targets | 1. MOET Management at HQ 2. District-level education officers under decentralised system of education services delivery | 1. Cooperating partners/donors through funding assessments, personnel training, and equipment and learning and teaching materials provision
 
 162
 
@@ -5936,12 +5790,12 @@ Provision of quality basic education | 1. Average scores of national achievement
 
 ________________________________________________________________________
 
-Means of | CRITICAL Assumptions | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Government | Others
-13. Quality pre-service and in-service education for teachers at basic education level in place by 2015 14. School supervision and support services expanded and decentralised by 2015 15. Inspection Manual used and periodically reviewed/upgraded by 2015 16. 40 primary inspectors and Special Education inspectors trained annually on school supervision 17. 85 primary advisors trained annually on school improvements, curriculum materials and instructional supervision 18. The use of e-education institutionalised by 2015 19. The provision of formal education to cater for all ability levels diversified by 2015 20. Teaching and learning conditions in all schools significantly improved by 2015 | 2.
-##### Secondary Education
-Improved Quality in Secondary Education | 1. Teaching and learning conditions in all schools significantly improved by 2015 2. C&A of technical and practical subjects diversified by 2015 3. Effective use of curriculum and assessment (C&A) packages by basic secondary teachers increased by 100% in 2015 4. Secondary textbooks supplied for every subject by 2015 5. Integrated C&A Framework in place 6. National Assessment Studies conducted periodically 7. Effective and decentralised secondary school management system in place by 2015 8. Library facilities in the average secondary school significantly improved by 2015 9. Utilisation of ICT in teaching and learning significantly increased by 2015 10. A pupil teacher ratio of 1:25 achieved by 2009. | 1. Statistical surveys by the Planning Unit of MOET 2. Innovation Configuration Matrix and Concerns-Based Adoption Model 3. Annual reviews by MOET 4. Curriculum and Assessment (C&A) annual reports 5. Inspectors Reports | More budgetary resources allocated to quality- enhancing interventions, including curriculum development and school inspection | MOET Management at HQ | Cooperating partners/donors through funding assessments, personnel training, and equipment and learning and teaching materials provision
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+ |  | 13. Quality pre-service and in-service education for teachers at basic education level in place by 2015 14. School supervision and support services expanded and decentralised by 2015 15. Inspection Manual used and periodically reviewed/upgraded by 2015 16. 40 primary inspectors and Special Education inspectors trained annually on school supervision 17. 85 primary advisors trained annually on school improvements, curriculum materials and instructional supervision 18. The use of e-education institutionalised by 2015 19. The provision of formal education to cater for all ability levels diversified by 2015 20. Teaching and learning conditions in all schools significantly improved by 2015 |  |  |  | 2.
+##### 3.3 Secondary Education
+Improved Quality in Secondary Education | 1. Teaching and learning conditions in all schools significantly improved by 2015 2. C&A of technical and practical subjects diversified by 2015 3. Effective use of curriculum and assessment (C&A) packages by basic secondary teachers increased by 100% in 2015 4. Secondary textbooks supplied for every subject by 2015 5. Integrated C&A Framework in place 6. National Assessment Studies conducted periodically 7. Effective and decentralised secondary school management system in place by 2015 8. Library facilities in the average secondary school significantly improved by 2015 9. Utilisation of ICT in teaching and learning significantly increased by 2015 10. A pupil teacher ratio of 1:25 achieved by 2009. | 1. Statistical surveys by the Planning Unit of MOET 2. Innovation Configuration Matrix and Concerns-Based Adoption Model 3. Annual reviews by MOET 4. Curriculum and Assessment (C&A) annual reports 5. Inspectors Reports | More budgetary resources allocated to quality-enhancing interventions, including curriculum development and school inspection | MOET Management at HQ | Cooperating partners/donors through funding assessments, personnel training, and equipment and learning and teaching materials provision
 
 163
 
@@ -5953,13 +5807,13 @@ Improved Quality in Secondary Education | 1. Teaching and learning conditions in
 
 ________________________________________________________________________
 
-Performance Indicators | Means of Verification | CRITICAL Assumptions | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Government | Others
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
 ##### 3.4 Technical and Vocational Education and Training
-Improved quality of TVET programmes | 1. TVET curriculum reviewed to make it more responsive to more modern learning systems 2. Accreditation Council established that oversees the quality aspects of TVET activities 3. ICT used more as an important tool for expanding the learning environment 4. Acceptance of TVET graduates by the labour market | 1. Annual reviews by MOET 2. Reviews by respective TVET institutions | Curriculum reviews intensely undertaken | 1. MOET Management at HQ 2. Management of TVET institutions | 1. Private sector 2. Learners through cost- recovery fees
+Improved quality of TVET programmes | 1. TVET curriculum reviewed to make it more responsive to more modern learning systems 2. Accreditation Council established that oversees the quality aspects of TVET activities 3. ICT used more as an important tool for expanding the learning environment 4. Acceptance of TVET graduates by the labour market | 1. Annual reviews by MOET 2. Reviews by respective TVET institutions | Curriculum reviews intensely undertaken | 1. MOET Management at HQ 2. Management of TVET institutions | 1. Private sector 2. Learners through cost-recovery fees
 ##### 3.5 Higher Education
-Enhance quality of higher education | 1. The higher education's human resource gaps established and well-structured quality improvement training programme in place 2. National quality assurance/accreditation mechanisms for higher education in place 3. ICT requirements of institutions of higher learning established and a programme of acquiring these in place at all the main institutions of higher learning | 1. Annual reviews by MOET 2. Reviews by respective Higher education institutions | Investment in ICT utilisation and priority given to science courses/subjects | 1. MOET Management at HQ 2. Management of higher education institutions 3. Council for Higher Education | 1. Private sector 2. Learners through cost- recovery fees 3. Cooperating partners/donors through support for development of learning infrastructure and equipment
+Enhance quality of higher education | 1. The higher education’s human resource gaps established and well-structured quality improvement training programme in place 2. National quality assurance/accreditation mechanisms for higher education in place 3. ICT requirements of institutions of higher learning established and a programme of acquiring these in place at all the main institutions of higher learning | 1. Annual reviews by MOET 2. Reviews by respective Higher education institutions | Investment in ICT utilisation and priority given to science courses/subjects | 1. MOET Management at HQ 2. Management of higher education institutions 3. Council for Higher Education | 1. Private sector 2. Learners through cost-recovery fees 3. Cooperating partners/donors through support for development of learning infrastructure and equipment
 
 164
 
@@ -5971,11 +5825,11 @@ Enhance quality of higher education | 1. The higher education's human resource g
 
 ________________________________________________________________________
 
-Means of | CRITICAL Assumptions | responsibility
---- | --- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Verification | Government | Others
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
 ##### 3.6 Lifelong Learning/Non-Formal Education
-Improve the quality of non-formal training | 1. Adult illiteracy reduced by 50% by 2015 2. Basic education and skill training for out- of-school learners expanded significantly by 2015 3. On-going NFE staff training programme strengthened: 20 permanent staff trained in fields of specialisation by 2015 4. By 2015, lifelong learning component of NFE strengthened and effective through the establishment of learning centres in all districts, complemented by an effective staff training programme 5. Strong collaboration arrangements between NFE system and technical and vocational institutions established by 2015 6. Most NFE teachers/instructors exposed to training skills by 2015 | 1. Annual reviews by MOET 2. Inspectors Reports | Increased investment in staff training | MOET Management at HQ | Communities
+Improve the quality of non-formal training | 1. Adult illiteracy reduced by 50% by 2015 2. Basic education and skill training for out-of-school learners expanded significantly by 2015 3. On-going NFE staff training programme strengthened: 20 permanent staff trained in fields of specialisation by 2015 4. By 2015, lifelong learning component of NFE strengthened and effective through the establishment of learning centres in all districts, complemented by an effective staff training programme 5. Strong collaboration arrangements between NFE system and technical and vocational institutions established by 2015 6. Most NFE teachers/instructors exposed to training skills by 2015 | 1. Annual reviews by MOET 2. Inspectors Reports | Increased investment in staff training | MOET Management at HQ | Communities
 #### 4 Strategic Plan Output: Relevance
 ##### 4.1 Early Childhood Education
 Provide IECCD programme that is relevant to the cognitive, intellectual and emotional needs of the child | 1. The performance rating of children in terms of their readiness to enter into Standard 1 significantly improved by 2015 2. Children with special educational needs well integrated into IECCD programmes by 2015 3. Inclusive integrated curriculum in place by 2015 | 1. Annual reviews by MOET 2. Inspectors Reports | More training for IECCD facilitators/caregivers | MOET Management at HQ | Communities
@@ -5990,15 +5844,15 @@ Provide IECCD programme that is relevant to the cognitive, intellectual and emot
 
 ________________________________________________________________________
 
-Means of Verification | CRITICAL Assumptions | responsibility
---- | --- | --- | --- | ---
-Narrative Summary | Performance Indicators | Government | Others
-##### Education
-Improve the relevance of Basic Education 1. Vocational and practical basic education 2. Curriculum reformed national needs and 3. Enhanced student and science subjects 4. Basic education primary health care | skills included in curriculum by 2015 by 2015 to reflect the aspirations interest in mathematics in place by 2015 programmes that address and HIV and AIDS 1. Annual reviews by MOET 2. Inspectors Reports | Priority given to curriculum development | 1. MOET Management at HQ especially NCDC 2. District level education offices | ---
-##### Secondary Education
-Improve the relevance of Secondary education 1. Practical subjects in secondary education curriculum included by 2015 2. The provision and student interest in mathematics and science subjects enhanced significantly by 2015 3. Localised senior secondary curriculum and assessment in place | by 2015 1. Annual reviews by MOET 2. Inspectors Reports | Priority given to curriculum development , focusing on the inclusion of practical subjects | 3. MOET Management at HQ especially NCDC 4. District level education offices | ---
-##### Technical and Vocational Education and Training
-Reform curriculum in response to labour market demands 1. TVET curriculum content transformed and models of assessment improved by 2015 to ensure human, practical and vocational relevance, focusing on learners' needs 2. Curriculum in TVET institutions made more market-responsive by 2015 3. Modularised training programmes that promote self-employment and income generation in place | by 2015 1. Annual reviews by MOET 2. Annual reviews by respective institutions | Priority given to curriculum development | 1. MOET Management especially TVET 2. TVET institutions, focusing on curriculum reforms and introduction of market- responsive programmes | 1. Private sector 2. Learners
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+##### 4.2 Basic Education
+Improve the relevance of Basic Education | 1. Vocational and practical skills included in basic education curriculum by 2015 2. Curriculum reformed by 2015 to reflect the national needs and aspirations 3. Enhanced student interest in mathematics and science subjects in place by 2015 4. Basic education programmes that address primary health care and HIV and AIDS issues in place by 2015 | 1. Annual reviews by MOET 2. Inspectors Reports | Priority given to curriculum development | 1. MOET Management at HQ especially NCDC 2. District level education offices | ---
+##### 4.3 Secondary Education
+Improve the relevance of Secondary education | 1. Practical subjects in secondary education curriculum included by 2015 2. The provision and student interest in mathematics and science subjects enhanced significantly by 2015 3. Localised senior secondary curriculum and assessment in place by 2015 | 1. Annual reviews by MOET 2. Inspectors Reports | Priority given to curriculum development , focusing on the inclusion of practical subjects | 3. MOET Management at HQ especially NCDC 4. District level education offices | ---
+##### 4.4 Technical and Vocational Education and Training
+Reform curriculum in response to labour market demands | 1. TVET curriculum content transformed and models of assessment improved by 2015 to ensure human, practical and vocational relevance, focusing on learners’ needs 2. Curriculum in TVET institutions made more market-responsive by 2015 3. Modularised training programmes that promote self-employment and income generation in place by 2015 | 1. Annual reviews by MOET 2. Annual reviews by respective institutions | Priority given to curriculum development | 1. MOET Management especially TVET 2. TVET institutions, focusing on curriculum reforms and introduction of market-responsive programmes | 1. Private sector 2. Learners
 
 166
 
@@ -6010,13 +5864,13 @@ Reform curriculum in response to labour market demands 1. TVET curriculum conten
 
 ________________________________________________________________________
 
-Performance Indicators | responsibility CRITICAL Assumptions
---- | --- | --- | --- | ---
-Narrative Summary | Means of Verification | Government | Others
-##### Higher Education
-Improve the developmental relevance of higher education | 1. Teacher training reviewed by 2007 to incorporate life long skills and technical and vocational elements 2. More resources invested in the sciences and engineering fields in tertiary institutions by 2015 1. Annual reviews by MOET 2. Annual reviews by respective institutions | Priority given to curriculum development | 1. MOET Management at HQ especially the Tertiary Department 2. Higher institutions, focusing on curriculum reforms and curriculum diversification . | Cooperating partners/donors in terms of support for assessments that monitor relevance
-##### Lifelong Learning/Non-Formal Education
-Provide functional Literacy Education with life and survival skills | 1. Informal sector/village apprenticeship programmes (e.g. Roadside mechanics, carpentry, joinery etc.) promoted in NFE and efficiently functional by 2015 2. Alternative learning opportunities diversification: At least 20 additional 1. Annual reviews by MOET 2. Inspectors' annual reviews | Priority given to lifelong learning opportunities | MOET Management at HQ especially the section in charge of Non-Formal Education | 1. Communities 2. Private sector
+ |  |  |  |  | responsibility |
+ | Narrative Summary | Performance Indicators | Means of Verification | CRITICAL Assumptions | Government | Others
+--- | --- | --- | --- | --- | --- | ---
+##### 4.5 Higher Education
+Improve the developmental relevance of higher education | 1. Teacher training reviewed by 2007 to incorporate life long skills and technical and vocational elements 2. More resources invested in the sciences and engineering fields in tertiary institutions by 2015 | 1. Annual reviews by MOET 2. Annual reviews by respective institutions | Priority given to curriculum development | 1. MOET Management at HQ especially the Tertiary Department 2. Higher institutions, focusing on curriculum reforms and curriculum diversification. | Cooperating partners/donors in terms of support for assessments that monitor relevance
+##### 4.6 Lifelong Learning/Non-Formal Education
+Provide functional Literacy Education with life and survival skills | 1. Informal sector/village apprenticeship programmes (e.g. Roadside mechanics, carpentry, joinery etc.) promoted in NFE and efficiently functional by 2015 2. Alternative learning opportunities diversification: At least 20 additional modules at primary, 8 new courses at secondary, and 10 income generating modules developed by 2015 3. An NFE programme on training of trainers in relevant occupational skills in place running efficiently by 2015 4. NFE programmes that address primary health care and HIV and AIDS issues in place by 2015 | 1. Annual reviews by MOET 2. Inspectors’ annual reviews | Priority given to lifelong learning opportunities | MOET Management at HQ especially the section in charge of Non-Formal Education | 1. Communities 2. Private sector
 
 167
 
@@ -6122,21 +5976,21 @@ Source :  Ministry of Education and Training, Lesotho's  Education Statistics Bu
 ### Table A-5 : Repetition Rate by Grade and Education Cycle
 --- | --- | --- | --- | --- | --- | ---
 Cycle | Grade | 1999 | 2000 | 2001 | 2002 | 2003
-1 | 23.6 | 30.0 | 23.4 | 27.1 | 29.0
-2 | 22.9 | 21.9 | 28.5 | 25.1 | 25.4
+ | 1 | 23.6 | 30.0 | 23.4 | 27.1 | 29.0
+ | 2 | 22.9 | 21.9 | 28.5 | 25.1 | 25.4
 Primary | 3 | 20.3 | 20.0 | 18.5 | 25.5 | 19.7
 Cycle | 4 | 21.2 | 20.4 | 20.3 | 19.7 | 25.4
-5 | 16.8 | 15.8 | 15.7 | 14.7 | 16.4
-6 | 12.1 | 12.4 | 12.0 | 12.6 | 12.9
-7 | 19.9 | 17.4 | 11.3 | 11.9 | 19.0
-Average | 19.5 | 19.7 | 18.5 | 19.5 | 21.1
+ | 5 | 16.8 | 15.8 | 15.7 | 14.7 | 16.4
+ | 6 | 12.1 | 12.4 | 12.0 | 12.6 | 12.9
+ | 7 | 19.9 | 17.4 | 11.3 | 11.9 | 19.0
+ | Average | 19.5 | 19.7 | 18.5 | 19.5 | 21.1
 Junior | A | 7.5 | 7.9 | 8.5 | 8.8 | 10.3
 Secondary | B | 9.7 | 10.2 | 8.9 | 10.9 | 11.7
-C | 9.3 | 7.4 | 7.5 | 7.5 | 10.6
-Average | 7.3
+ | C | 9.3 | 7.4 | 7.5 | 7.5 | 10.6
+ | Average |  |  |  |  | 7.3
 Upper | D | 8.2 | 10.3 | 12.0 | 12.0 | 13.9
 Secondary | E | 4.1 | 3.7 | 4.4 | 3.9 | 3.9
-Average | 8.4
+ | Average |  |  |  |  | 8.4
 
 Source : Draft MOET
 
@@ -6151,6 +6005,8 @@ Source : GoL, 2002, Lesotho Public Expenditure Review of the Education Sector, V
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+### Table A-6: Share of sub-programmes in Basic Education Programme (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6170,7 +6026,7 @@ Schools Self-Reliance and Feeding Unit | 0.02 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02
 Cost of Gender Sensitive Activities | 0.03 | 0.03 | 0.03 | 0.02 | - | -
 Total Cost of Basic Education | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table A-6: Share of sub-programmes in Basic Education Programme (%)
+### Table A-7: Share of sub-programmes in Senior Secondary Education Programme (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6193,8 +6049,6 @@ Cost of Gender Sensitive Activities | 3.69 | 3.42 | 3.21 | 3.09 | 2.97 | 2.82
 Provision of infrastructure facilities (e.g. Labs, classrooms, , ICTs etc) | 0.04 | 0.02 | 0.02 | 0.02 | 0.02 | 0.02
 Total Cost of Senior Secondary Education | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table A-7: Share of sub-programmes in Senior Secondary Education Programme (%)
-
 171
 
 [[END OF PAGE 172]]
@@ -6204,6 +6058,8 @@ Total Cost of Senior Secondary Education | 100.00 | 100.00 | 100.00 | 100.00 | 1
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+### Table A-8: Share of sub-programmes in Technical and Vocational Training Budget (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6219,7 +6075,7 @@ Lerotholi Polytechnic | 20.37 | 9.03 | 7.90 | 7.99 | 12.99 | 13.94
 Provision of TVET infrastructure facilities | 4.07 | 45.13 | 44.23 | 45.76 | 15.03 | 14.02
 Total Cost of TVET | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table A-8: Share of sub-programmes in Technical and Vocational Training Budget (%)
+### Table A-9: Share of sub-programmes in Teacher Development, Supply and Management Budget (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6239,8 +6095,6 @@ Distance Teacher Education Program | 1.66 | 2.77 | 4.13 | 5.02 | 5.00 | 5.14
 Review of Teacher education and Training Curricula | 1.66 | 1.85 | 2.07 | 0.96 | 0.91 | 0.85
 Total Cost of Teacher Education, Support and Supply | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table A-9: Share of sub-programmes in Teacher Development, Supply and Management Budget (%)
-
 172
 
 [[END OF PAGE 173]]
@@ -6250,6 +6104,8 @@ Total Cost of Teacher Education, Support and Supply | 100.00 | 100.00 | 100.00 |
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+### Table A-10: Share of sub-programmes in Higher Education Budget (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6266,8 +6122,6 @@ National University of Lesotho | 9.70 | 10.67 | 12.28 | 2.03 | 1.99 | 2.03
 Council on Higher Education | 0.17 | 0.09 | 0.09 | 0.10 | 0.11 | 0.12
 Cost of ICT and Transformation Programmes | 4.85 | 9.78 | 7.90 | 4.06 | 3.99 | -
 Total Cost of Higher Education | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-
-### Table A-10: Share of sub-programmes in Higher Education Budget (%)
 
 ### Table A-11- Share of Sub-programmes in cost of education provision under the strategic plan on Lifelong Learning (in %)
 
@@ -6295,6 +6149,8 @@ Total Cost of Lifelong Learning | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 1
 
 ________________________________________________________________________
 
+### Table A-12: Share of ECCD in cost of education provision under the Strategic Plan on ECCD (%)
+
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
@@ -6308,7 +6164,7 @@ Subsidies to OVCs, children from needy families and children with special needs 
 Health materials and courses | 0.10 | 0.09 | 0.09 | 0.09 | 0.09 | 0.09
 Total Cost of IECCD | 100 | 100 | 100 | 100 | 100 | 100
 
-### Table A-12: Share of ECCD in cost of education provision under the Strategic Plan on ECCD (%)
+### Table A-13: Share of sub-programmes in Special Programmes Budget (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6326,8 +6182,6 @@ Lifelong Learning | 7.40 | 7.93 | 8.99 | 9.05 | 8.62 | 8.58
 IECCD | 59.40 | 52.01 | 52.14 | 56.91 | 57.35 | 58.51
 Total Cost of Special Programmes | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table A-13: Share of sub-programmes in Special Programmes Budget (%)
-
 174
 
 [[END OF PAGE 175]]
@@ -6338,9 +6192,12 @@ Total Cost of Special Programmes | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 
 
 ________________________________________________________________________
 
+### Table A-14: Share of Institutional and Systems Development and Maintenance Budget (%)
+
 ### Table A-14: Share of sub-programmes in Institutional and Systems Development and Maintenance Budget (%)
---- | --- | --- | --- | --- | --- | ---
+
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
+--- | --- | --- | --- | --- | --- | ---
 Recurrent Costs
 Central Administration and Management | 5.46 | 3.22 | 3.36 | 8.52 | 21.73 | 25.82
 District Management | 4.55 | 2.92 | 3.31 | 8.38 | 21.37 | 25.40
@@ -6353,7 +6210,7 @@ HIV-AIDS Coordination | 1.55 | 0.78 | 0.77 | 1.96 | 4.99 | 5.93
 Feasibility and Construction of MOET Headquarters Building Complex including provision of initial Furniture | 81.18 | 87.60 | 86.82 | 66.71 | 15.46 | -
 Total Cost of Institutional and Systems Development and Maintenance | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table A-14: Share of Institutional and Systems Development and Maintenance Budget (%)
+### Table A-15: Share of SUB-PROGRAMMES in Curriculum Development, Assessment and Education Support Budget (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6368,8 +6225,6 @@ Curriculum Development | 10.36 | 17.48 | 16.26 | 16.32 | 16.38 | 16.50
 Examination Council of Lesotho | 10.36 | 13.99 | 16.26 | 16.32 | 16.38 | 16.50
 Total Cost of Curriculum Development, Assessment and Education Support | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
 
-### Table  A-15:  Share  of  SUB-PROGRAMMES  in  Curriculum  Development,  Assessment  and  Education  Support Budget (%)
-
 175
 
 [[END OF PAGE 176]]
@@ -6379,6 +6234,8 @@ Total Cost of Curriculum Development, Assessment and Education Support | 100.00 
 2005, MOET, Lesotho Education Sector Strategic Plan: 2005-2015
 
 ________________________________________________________________________
+
+### Table A-16: Share of SUB-PROGRAMMES in Planning, Monitoring and Evaluation Budget (%)
 
 2005/6 | 2006/7 | 2007/8 | 2008/9 | 2009/10 | 2014/15
 --- | --- | --- | --- | --- | --- | ---
@@ -6393,8 +6250,6 @@ Central Inspectorate | 5.19 | 7.41 | 8.96 | 11.92 | 11.84 | 11.84
 Project Support and Coordination Unit | 25.97 | 27.78 | 22.39 | - | - | -
 Education Planning, Monitoring and Research | 25.97 | 22.22 | 22.39 | 29.80 | 29.60 | 29.60
 Total Cost of Planning, M & E | 100.00 | 100.00 | 100.00 | 100.00 | 100.00 | 100.00
-
-### Table A-16: Share of SUB-PROGRAMMES in Planning, Monitoring and Evaluation Budget (%)
 
 ### Table A-17 Projected Primary Enrolments, 2004-2007
 
