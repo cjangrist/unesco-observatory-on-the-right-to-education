@@ -47,12 +47,12 @@ HEREBY DECLARE, with a view to institutionalizing the achievements made through 
 
 ## Preliminary
 
-### Constitution as the Fundamental Law:
+### 1. Constitution as the Fundamental Law:
 (1) This Constitution is the fundamental law of Nepal. Any laws inconsistent with it shall, to the extent of such inconsistency, be void.
 
-- It is the duty of every person to uphold this Constitution.
+(2) It is the duty of every person to uphold this Constitution.
 
-### Sovereignty and State Authority:
+### 2. Sovereignty and State Authority:
 The sovereignty and the state authority of Nepal shall be vested in the people of Nepal.
 
 > 1 Inserted by the Fourth Amendment.
@@ -61,27 +61,27 @@ The sovereignty and the state authority of Nepal shall be vested in the people o
 
 [[START OF PAGE 3]]
 
-### Nation :
-Having  multiethnic,  multilingual, multireligious  and multicultural characteristics  with  common  aspirations  and  being  united  by  a  bond  of allegiance  to  national  independence,  integrity,  national  interest  and  prosperity of Nepal, all the Nepalese people collectively constitute the nation.
+### 3. Nation:
+Having multiethnic, multilingual, multireligious and multicultural characteristics with common aspirations and being united by a bond of allegiance to national independence, integrity, national interest and prosperity of Nepal, all the Nepalese people collectively constitute the nation.
 
-### State of Nepal :
-(1) Nepal is an independent, indivisible, sovereign, secular, inclusive and federal, democratic republican state 2 .
+### 4. State of Nepal:
+(1) Nepal is an independent, indivisible, sovereign, secular, inclusive and federal, democratic republican state 2.
 
-- The territory of Nepal shall comprise of :
+(2) The territory of Nepal shall comprise of:
 
-(a) The territory existing  at  the  commencement  of  this constitution; and
+(a) The territory existing at the commencement of this constitution; and
 
 (b) Such other territory as may be acquired after the commencement of this Constitution.
 
-### Language of the Nation :
-(1)  All the languages spoken as mother tongues in Nepal are the languages of nation.
+### 5. Language of the Nation:
+(1) All the languages spoken as mother tongues in Nepal are the languages of nation.
 
 (2) The Nepali Language in Devanagari script shall be the official language.
 
-- Notwithstanding  anything  contained  in  Clause  (2),  nothing shall  be  deemed  to  prevent  the  using  of  any  language  spoken  as  the  mother tongue  in  a  local  body  and  office.  The  State  shall  maintain  records  by translating the languages so used in the official language.
+(3) Notwithstanding anything contained in Clause (2), nothing shall be deemed to prevent the using of any language spoken as the mother tongue in a local body and office. The State shall maintain records by translating the languages so used in the official language.
 
-### National  Flag :
-The  National  flag  of  Nepal,  as  handed  down  by  tradition, consists of two juxta-posed triangular figures with a crimson-coloured base and deep blue borders, there being a white emblem of the crescent moon with eight rays  visible  out  of  sixteen  in  the  upper  part  and  a  white  emblem  of  a  twelve rayed  sun  in  the  lower  part.  The  method  of  drawing  out  the  flag  and  other particulars relating thereto shall be as set forth in the Schedule -1.
+### 6. National Flag:
+The National flag of Nepal, as handed down by tradition, consists of two juxta-posed triangular figures with a crimson-coloured base and deep blue borders, there being a white emblem of the crescent moon with eight rays visible out of sixteen in the upper part and a white emblem of a twelve rayed sun in the lower part. The method of drawing out the flag and other particulars relating thereto shall be as set forth in the Schedule -1.
 
 > 2 Amended by the Fourth Amendment
 
@@ -89,7 +89,7 @@ The  National  flag  of  Nepal,  as  handed  down  by  tradition, consists of tw
 
 [[START OF PAGE 4]]
 
-### National Anthem etc :
+### 7. National Anthem etc:
 (1) The national anthem and the coat-of-arms of Nepal shall be as determined by Government of Nepal.
 
 (2) The Rhododendron Arboreum is the national flower, Crimson Colour shall be the national colour, the Cow shall be the national animal and the Lophophorus shall be the national bird of Nepal.
@@ -97,39 +97,41 @@ The  National  flag  of  Nepal,  as  handed  down  by  tradition, consists of tw
 # PART 2
 ## CITIZENSHIP
 
-### Citizenship at  the  Commencement  of  the  Constitution :
-(1) At the commencement  of  this  Constitution,  the  persons  who  have  acquired  the citizenship of Nepal and who are eligible to acquire the citizenship by virtue of this part shall be the citizenship of Nepal.
+### 8. Citizenship at the Commencement of the Constitution:
+(1) At the commencement of this Constitution, the persons who have acquired the citizenship of Nepal and who are eligible to acquire the citizenship by virtue of this part shall be the citizenship of Nepal.
 
-(2) At  the  commencement  of  this  Constitution,  the  following  persons who have their permanent domicile in Nepal shall be deemed to be the citizens of Nepal by descent:
+(2) At the commencement of this Constitution, the following persons who have their permanent domicile in Nepal shall be deemed to be the citizens of Nepal by descent:
 
 (a) any person who has acquired citizenship by descent prior to the commencement of this Constitution;
 
 (b) any person whose father or mother was a citizen of Nepal at his or her birth.
 
-- Every child who is found within the territory of Nepal and the whereabouts  of  whose  parents  are  not  known  shall,  until  the  father  or  the mother of the child is traced, be deemed to be a citizen of Nepal.
+(3) Every child who is found within the territory of Nepal and the whereabouts of whose parents are not known shall, until the father or the mother of the child is traced, be deemed to be a citizen of Nepal.
 
-- Whenever  any  territory  is  acquired  by  way  of  incorporation into  Nepal,  every  person  having  his  or  her  domicile  in  such  territory  shall become a citizen of Nepal, subject to the provisions of the laws in force.
+(4) Whenever any territory is acquired by way of incorporation into Nepal, every person having his or her domicile in such territory shall become a citizen of Nepal, subject to the provisions of the laws in force.
 
-(5)  Any person who was born in the territory of Nepal before or on the last day of the month of Chaitra of the year 2046 (13April 1990) and has been permanently domiciled in Nepal shall acquire the citizenship of Nepal by birth pursuant to the laws in force.
+(5) Any person who was born in the territory of Nepal before or on the last day of the month of Chaitra of the year 2046 (13April 1990) and has
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
+been permanently domiciled in Nepal shall acquire the citizenship of Nepal by birth pursuant to the laws in force.
+
 Provided that, for the acquisition of citizenship under this provision, any person must make an application within the prescribed period, for one time, as provided in the laws in force.
 
-- A woman of foreign nationality who has a matrimonial relationship  with  a  citizen  of  Nepal  may,  if  she  so  wishes,  acquire  the naturalized citizenship of Nepal, pursuant to the laws in force.
+(6) A woman of foreign nationality who has a matrimonial relationship with a citizen of Nepal may, if she so wishes, acquire the naturalized citizenship of Nepal, pursuant to the laws in force.
 
-- Notwithstanding anything contained elsewhere in this Article, in the case of a person born from a woman citizen of Nepal married to a foreign citizen, if such person was born in Nepal, has permanently resided in Nepal and has  not  acquired  the  citizenship  of  a  foreign  country  on  the  basis  of  the citizenship of his or her father, he or she may acquire the naturalized citizenship of Nepal, pursuant to the laws in force.
+(7) Notwithstanding anything contained elsewhere in this Article, in the case of a person born from a woman citizen of Nepal married to a foreign citizen, if such person was born in Nepal, has permanently resided in Nepal and has not acquired the citizenship of a foreign country on the basis of the citizenship of his or her father, he or she may acquire the naturalized citizenship of Nepal, pursuant to the laws in force.
 
-### Naturalized or honorary  citizenship:
-Except as  mentioned in Article  8,  the Government  of  Nepal  may  grant  the  naturalized  or  honorary  citizenship  of Nepal, as provided in the laws.
+### 9. Naturalized or honorary citizenship:
+Except as mentioned in Article 8, the Government of Nepal may grant the naturalized or honorary citizenship of Nepal, as provided in the laws.
 
-### Acquisition and termination of citizenship:
+### 10. Acquisition and termination of citizenship:
 Other necessary matters including the acquisition and termination of citizenship shall be as provided in the laws in force.
 
-### Deputation  of  citizenship  teams:
-The  Government  of  Nepal  may  depute citizenship  distribution  teams  to  grant  citizenship  to  those  persons  who  are eligible to acquire citizenship as provided in the laws in force.
+### 11. Deputation of citizenship teams:
+The Government of Nepal may depute citizenship distribution teams to grant citizenship to those persons who are eligible to acquire citizenship as provided in the laws in force.
 
 [[END OF PAGE 5]]
 
@@ -139,12 +141,12 @@ The  Government  of  Nepal  may  depute citizenship  distribution  teams  to  gr
 
 ## FUNDAMENTAL RIGHTS
 
-### Right to freedom:
+### 12. Right to freedom:
 (1) Every person shall have the right to live with a dignity, and no law shall be made which provides for the death penalty.
 
-(2)  No  person shall  be  deprived  of his  or  her personal liberty save  in accordance with law.
+(2) No person shall be deprived of his or her personal liberty save in accordance with law.
 
-- Every citizen shall have the following freedoms:
+(3) Every citizen shall have the following freedoms:
 
 (a) Freedom of opinion and expression;
 
@@ -156,119 +158,140 @@ The  Government  of  Nepal  may  depute citizenship  distribution  teams  to  gr
 
 (e) Freedom to move and reside in any part of Nepal; and
 
-(f) Freedom  to  practice  any  profession,  carry  on  any  occupation, industry and trade.
+(f) Freedom to practice any profession, carry on any occupation, industry and trade.
 
 Provided that:
 
-- Nothing in Sub-clause (a) shall be deemed to prevent the making of laws to impose reasonable restrictions on any act which may undermine the sovereignty and integrity of Nepal, or which may jeopardize the harmonious relations subsisting  among  the  peoples  of  various  castes,  tribes, religions  or  communities,  or  on  any  act  of  defamation, contempt of court or incitement to an offence, or on any act which may be contrary to public decency or morality.
+(1) Nothing in Sub-clause (a) shall be deemed to prevent the making of laws to impose reasonable restrictions on any act which may undermine the sovereignty and integrity of Nepal, or which may jeopardize the harmonious relations subsisting among the peoples of various castes, tribes, religions or communities, or on any act of defamation, contempt of court or incitement to an offence, or on any act which may be contrary to public decency or morality.
 
-- Nothing in Sub-clause (b) shall be deemed to prevent the making of laws to impose reasonable restrictions on any
+(2) Nothing in Sub-clause (b) shall be deemed to prevent the making of laws to impose reasonable restrictions on any
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- act  which  may  undermine  the  sovereignty,  integrity  or public peace and order of Nepal.
+act which may undermine the sovereignty, integrity or public peace and order of Nepal.
 
-- Nothing  in  Sub-clauses  (c)  and  (d)  shall  be  deemed  to prevent the making of laws to impose reasonable restrictions on any act which may undermine the sovereignty and integrity of Nepal, or which may jeopardize the harmonious relations subsisting among the peoples of various castes, tribes, religions or communities, or  which  may  incite  violent  activities,  or  which  may  be contrary to public morality.
+(3) Nothing in Sub-clauses (c) and (d) shall be deemed to prevent the making of laws to impose reasonable restrictions on any act which may undermine the sovereignty and integrity of Nepal, or which may jeopardize the harmonious relations subsisting among the peoples of various castes, tribes, religions or communities, or which may incite violent activities, or which may be contrary to public morality.
 
-- Nothing in Sub-clause (e) shall be deemed to prevent the making  of  laws  which  are  in  the  interest  of  the  general public, or which are made to impose reasonable restrictions on any act which may jeopardize the harmonious  relations  subsisting  among  the  peoples  of various castes, tribes, religions or communities.
+(4) Nothing in Sub-clause (e) shall be deemed to prevent the making of laws which are in the interest of the general public, or which are made to impose reasonable restrictions on any act which may jeopardize the harmonious relations subsisting among the peoples of various castes, tribes, religions or communities.
 
-- Nothing in Sub-clause (f) shall be deemed to prevent the making  of  laws  to  impose  restrictions  on  any  act  which may be contrary to public health or morality of the general public,  to  confer  on  the  State  the  exclusive  right  to undertake any specific industry, business or service, or to prescribe  any  condition  or  qualification  for  carrying  on any industry, trade, profession or employment.
+(5) Nothing in Sub-clause (f) shall be deemed to prevent the making of laws to impose restrictions on any act which may be contrary to public health or morality of the general public, to confer on the State the exclusive right to undertake any specific industry, business or service, or to prescribe any condition or qualification for carrying on any industry, trade, profession or employment.
 
-### Right to equality:
-(1)  All  citizens  shall  be  equal  before  the  law.  No  person shall be denied the equal protection of the laws.
+### 13. Right to equality:
+(1) All citizens shall be equal before the law. No person shall be denied the equal protection of the laws.
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-(2) No  discrimination  shall  be  made  against  any  citizen  in  the application  of  general  laws  on  grounds  of  religion,  color,  sex,  caste,  tribe, origin, language or ideological conviction or any of these. (3) The State shall not discriminate against citizens among citizens on grounds  of  religion,  race,  caste,  tribe,  sex,  origin,  language  or  ideological conviction or any of these. Provided that nothing shall be deemed to prevent the making of special provisions by law for the protection, empowerment or advancement of women, Dalits,  indigenous  peoples  (Adibasi,  Janajati),  Madhesi  or  farmers,  workers, economically, socially or culturally backward classes or children, the aged and the disabled or those who are physically or mentally incapacitated. (4) No discrimination in regard to remuneration social security shall
+(2) No discrimination shall be made against any citizen in the application of general laws on grounds of religion, color, sex, caste, tribe, origin, language or ideological conviction or any of these.
 
-- be made between men and women for the same work.
+(3) The State shall not discriminate against citizens among citizens on grounds of religion, race, caste, tribe, sex, origin, language or ideological conviction or any of these.
 
-### Right against untouchability andracial discrimination:
-(1)  No person shall be discriminated against as untouchable and subjected to racial discrimination in  any  form,  on  grounds  of  caste,  race,  community  or  occupation.  Such discriminatory treatment shall be punishable, and the victim shall be entitled to such compensation as determined by law. (2) No person shall, on grounds of caste or race, be deprived of the use of services, facilities or utilities available to the public or of the access to any public place or public religious sites or of the performance of any religious function. In  producing  or  distributing  any  goods,  serves  or  facilities,  no person  belonging  to  any  particular  caste  or  tribe  shall  be  prevented  from purchasing  or  acquiring  such  goods,  services  facilities  nor  shall  such  goods, services  facilities  or  facilities  be  sold  or  distributed  only  to  the  persons
+Provided that nothing shall be deemed to prevent the making of special provisions by law for the protection, empowerment or advancement of women, Dalits, indigenous peoples (Adibasi, Janajati), Madhesi or farmers, workers, economically, socially or culturally backward classes or children, the aged and the disabled or those who are physically or mentally incapacitated.
 
-- belonging to any particular caste or tribe.
+(4) No discrimination in regard to remuneration and social security shall be made between men and women for the same work.
+
+### 14. Right against untouchability and racial discrimination:
+(1) No person shall be discriminated against as untouchable and subjected to racial discrimination in any form, on grounds of caste, race, community or occupation. Such discriminatory treatment shall be punishable, and the victim shall be entitled to such compensation as determined by law.
+
+(2) No person shall, on grounds of caste or race, be deprived of the use of services, facilities or utilities available to the public or of the access to any public place or public religious sites or of the performance of any religious function.
+
+(3) In producing or distributing any goods, services or facilities, no person belonging to any particular caste or tribe shall be prevented from purchasing or acquiring such goods, services or facilities nor shall such goods, services or facilities be sold or distributed only to the persons belonging to any particular caste or tribe.
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-- No  such  act  as  to  purport  to  demonstrate  any  superiority  or inferiority of the person or persons belonging to any caste, tribe or origin or to justify  social  discrimination  on  the  ground  of  caste  or  race  or  to  publicize ideology based on racial superiority or hatred or to encourage caste discrimination in any manner shall be allowed. (5) Any act contrary to clauses (2), (3) and (4) shall be punishable by law.
-### 15. Right relating to publication, broadcasting and press:
-(1) No publication, broadcasting  or  printing  of  any  news  item,  editorial,  feature,  article  or  other reading  and  audio-visual  material  through  any  means  whatsoever  including electronic publication, broadcasting and printing shall be censored. Provided that nothing shall be deemed to prevent the making of laws to impose reasonable restrictions on any act which may undermine the sovereignty and  integrity  of  Nepal,  or  which  may  jeopardize  the  harmonious  relations subsisting  among  the  peoples  of  various  castes,  tribes  or  communities,  or  on any act of treason, defamation, contempt of court or incitement to an offence, or on any act which may be contrary to public decency or morality. (2) No radio, television, on-line or other form of digital or electronic equipment, press or other means of communication publishing and broadcasting or  printing  any  material  shall  be  closed  nor  shall  registration  thereof  be canceled  by  the  reason  of  the  publication,  broadcasting  or  printing  of  such material through any audio, audio-visual or electronic equipment. (3) No newspaper, periodical or press  shall  be  closed  or  seized  nor shall  the  registration  thereof  be  cancelled  for  printing  or  publishing any news item, editorial, article or other reading material. No  means  of  communication  including  the  press,  electronic
+(4) No such act as to purport to demonstrate any superiority or inferiority of the person or persons belonging to any caste, tribe or origin or to justify social discrimination on the ground of caste or race or to publicize ideology based on racial superiority or hatred or to encourage caste discrimination in any manner shall be allowed.
 
-(4) broadcasting and telephone shall be interrupted except in accordance with law.
+(5) Any act contrary to clauses (2), (3) and (4) shall be punishable by law.
+
+### 15. Right relating to publication, broadcasting and press:
+(1) No publication, broadcasting or printing of any news item, editorial, feature, article or other reading and audio-visual material through any means whatsoever including electronic publication, broadcasting and printing shall be censored.
+
+Provided that nothing shall be deemed to prevent the making of laws to impose reasonable restrictions on any act which may undermine the sovereignty and integrity of Nepal, or which may jeopardize the harmonious relations subsisting among the peoples of various castes, tribes or communities, or on any act of treason, defamation, contempt of court or incitement to an offence, or on any act which may be contrary to public decency or morality.
+
+(2) No radio, television, on-line or other form of digital or electronic equipment, press or other means of communication publishing and broadcasting or printing any material shall be closed nor shall registration thereof be canceled by the reason of the publication, broadcasting or printing of such material through any audio, audio-visual or electronic equipment.
+
+(3) No newspaper, periodical or press shall be closed or seized nor shall the registration thereof be cancelled for printing or publishing any news item, editorial, article or other reading material.
+
+(4) No means of communication including the press, electronic broadcasting and telephone shall be interrupted except in accordance with law.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-### Right relating to environment and health:
-(1)  Every person shall  have the right to live in a healthy environment.
+### 16. Right relating to environment and health:
+(1) Every person shall have the right to live in a healthy environment.
 
 (2) Every citizen shall have the right to basic health services free of cost from the State, as provided in law.
 
-### Right relating to education and culture:
+### 17. Right relating to education and culture:
 (1) Every community shall have the right to get basic education in its own mother tongue, as provided in law.
 
-- Every citizen shall have the right to get free education up to the secondary level from the State, as provided in law. Every  community  residing  in  Nepal  shall  have  the  right  to preserve  and  promote  its  language,  script,  culture,  cultural  civilization  and
+(2) Every citizen shall have the right to get free education up to the secondary level from the State, as provided in law.
 
-- heritage.
+(3) Every community residing in Nepal shall have the right to preserve and promote its language, script, culture, cultural civilization and heritage.
 
-### Right relating to employment and social security:
+### 18. Right relating to employment and social security:
 (1) Every citizen shall have the right to employment, as provided in law.
 
-- The women, labor, aged, disabled, incapacitated and helpless citizens shall have the right to social security, as provided in law.
+(2) The women, labor, aged, disabled, incapacitated and helpless citizens shall have the right to social security, as provided in law.
 
-- Every citizen shall have the right to food sovereignty, as provided in law.
+(3) Every citizen shall have the right to food sovereignty, as provided in law.
 
-### Right to property:
+### 19. Right to property:
 (1) Every citizen shall, subject to the laws in force, have the right to acquire, own, sell, dispose of, and otherwise deal with, property.
 
-- The  State  shall  not,  except  in  the  public  interest,  requisition  or acquire, or otherwise create any encumbrance on, the property of any person.
+(2) The State shall not, except in the public interest, requisition or acquire, or otherwise create any encumbrance on, the property of any person.
 
-Provided that this Clause shall not apply to any property acquired in an illicit manner. Compensation  shall  be  provided  for  any  property  requisitioned, acquired or encumbered by the State in the course of enforcing a scientific land
+Provided that this Clause shall not apply to any property acquired in an illicit manner.
 
-- reform program or in the public interest, in accordance with law. The amount
+(3) Compensation shall be provided for any property requisitioned, acquired or encumbered by the State in the course of enforcing a scientific land reform program or in the public interest, in accordance with law. The amount
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- and basis of compensation and the procedure therefor shall be as determined by law.
+and basis of compensation and the procedure therefor shall be as determined by law.
 
-### Rights of women:
+### 20. Rights of women:
 (1) No discrimination of any kind shall be made against the women by virtue of sex.
 
-- Every  woman  shall  have  the  right  to  reproductive  health  and reproduction. (3) No  woman  shall  be  subjected  to  physical,  mental  or  any  other kind of violence; and such act shall be punishable by law. ancestral
+(2) Every woman shall have the right to reproductive health and reproduction.
 
-- Sons  and  daughters  shall have  the equal right to property.
+(3) No woman shall be subjected to physical, mental or any other kind of violence; and such act shall be punishable by law.
 
-### Right to social iustice:
+(4) Sons and daughters shall have the equal right to ancestral property.
+
+### 21. Right to social justice:
 The economically, socially or educationally backward women, Dalits, indigenous peoples, Madhesi communities, oppressed classes, poor farmers and labors shall have the right to take part in the structures of the State on the basis of the principle of 'proportional inclusion.
 
-### Rights of the child:
+### 22. Rights of the child:
 (1) Every child shall have the right to his or her identity and name.
 
-(2)  Every child  shall  have  the  right  to  nurture,  basic  health  and  social security. (3) Every child shall have the right against physical, mental or any other form of exploitation. Such exploitative act shall be punishable by law; and any child so treated shall be given such compensation as may be determined by law. (4)  The  helpless,  orphan,  mentally  retarded,  conflict  victim,  displaced, vulnerable and street children shall have the right to get special facilities from the State for their well-ascertained future. (5) No minor shall be employed to work in any factory, mine or engaged
+(2) Every child shall have the right to nurture, basic health and social security.
 
-- in any similar other hazardous work or used in army, police or conflict.
+(3) Every child shall have the right against physical, mental or any other form of exploitation. Such exploitative act shall be punishable by law; and any child so treated shall be given such compensation as may be determined by law.
+
+(4) The helpless, orphan, mentally retarded, conflict victim, displaced, vulnerable and street children shall have the right to get special facilities from the State for their well-ascertained future.
+
+(5) No minor shall be employed to work in any factory, mine or engaged in any similar other hazardous work or used in army, police or conflict.
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
-### Right to religion:
+### 23. Right to religion:
 (1) Every person shall have the right to profess, practice and protect  his  or  her  own  religion  as  handed  down  to  him  or  her  from  ancient times, having due regard to the existing social and cultural practices.
 
 Provided that no person shall be entitled to convert another person from one religion to another; and that no act or action shall be done in such a manner as to jeopardize the religion of each other.
 
 (2)  Every  religious  denomination  shall  have  the  right  to  maintain  its independent existence, and, for this purpose, to operate and protect its religious sites and religious trusts, in accordance with law.
 
-### Right relating to justice:
+### 24. Right relating to justice:
 (1) No person who is arrested shall be detained in custody without informing him or her of the reasons for such arrest.
 
 (2) Every person who is arrested shall have the right to consult a legal practitioner  of  his  or  her  choice  at  the  time  of  such  arrest.  Any  consultation made by such person with his or her legal practitioner and advice given by such practitioner shall be secret; and such person shall not be deprived of the right to be defended by his or her legal practitioner.
@@ -283,34 +306,63 @@ Provided  that  nothing  in  Clauses  (2)  and  (3)  shall  apply  to  preventiv
 
 [[START OF PAGE 13]]
 
-- 25.
+(4) No person shall be punished for an act which was not punishable by law when the act was committed nor shall any person be subjected to a punishment greater than that prescribed by the law in force at the time of the commission of the offence.
 
-- or to cruel, inhuman or degrading treatment.
+(5) Every person charged with an Offense shall be presumed innocent until proved guilty of the offense.
 
-(4) No person shall be punished for an act which was not punishable by law  when  the  act  was  committed  nor  shall  any  person  be  subjected  to  a punishment greater than that prescribed by the law in force at the time of the commission of the offence. (5)  Every  person  charged  with  an  Offense  shall  be  presumed  innocent until proved guilty of the offense. (6) No person shall be prosecuted or punished for the same offense in a court more than once. (7)  No  person  charged  with  an  offense  shall  be  compelled  to  testify against him/herself . (8) Every person shall have the right to be informed of any proceedings taken against him or her. (9) Every person shall have the right to a fair trial by a competent court or judicial body. (10) Any  incapable  party  shall  have  the  right  to  free  legal  aid,  as provided in law.
-### Right against preventive detention :
-(1) No person shall be held under preventive detention unless there is a sufficient ground of the existence of an immediate threat to the sovereignty, integrity or law and order situation of the State of Nepal. (2) Any person held under preventive detention shall, if he or she has been held  under  such  detention  by the  authority  making  preventive  detention contrary to law or in bad faith, have the right to such compensation as may be prescribed by law.
-### Right against torture:
-(1) No  person  who  is  detained  during  investigation  or for trial or for any other reason shall be subjected to physical or mental torture
+(6) No person shall be prosecuted or punished for the same offense in a court more than once.
+
+(7) No person charged with an offense shall be compelled to testify against him/herself.
+
+(8) Every person shall have the right to be informed of any proceedings taken against him or her.
+
+(9) Every person shall have the right to a fair trial by a competent court or judicial body.
+
+(10) Any incapable party shall have the right to free legal aid, as provided in law.
+
+### 25. Right against preventive detention:
+(1) No person shall be held under preventive detention unless there is a sufficient ground of the existence of an immediate threat to the sovereignty, integrity or law and order situation of the State of Nepal.
+
+(2) Any person held under preventive detention shall, if he or she has been held under such detention by the authority making preventive detention contrary to law or in bad faith, have the right to such compensation as may be prescribed by law.
+
+### 26. Right against torture:
+(1) No person who is detained during investigation or for trial or for any other reason shall be subjected to physical or mental torture or to cruel, inhuman or degrading treatment.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-- Any act referred to in Clause (1) shall be punishable by law, and any person  so  treated  shall  be  provided  with  such  compensation  as  may  be determined by law.
+(2) Any act referred to in Clause (1) shall be punishable by law, and any person so treated shall be provided with such compensation as may be determined by law.
+
 ### 27. Right to information:
-Every citizen shall have the right to demand or receive information on any matter of his or her interest or of public interest. Provided  that  nothing  shall  be  deemed  to  compel  any  person  to  provide information on any matter of which secrecy is to be maintained by law.
+Every citizen shall have the right to demand or receive information on any matter of his or her interest or of public interest.
+
+Provided that nothing shall be deemed to compel any person to provide information on any matter of which secrecy is to be maintained by law.
+
 ### 28. Right to privacy:
 Except as provided by law, the privacy of any person, his or her home, property, document, data, correspondence or matters relating to his or her character shall be inviolable.
-### 28. Right against exploitation:
-(1) Every  person  shall  have  the  right  against exploitation. (2) No one shall be exploited in the name of any custom, tradition and usage or in any manner whatsoever. (3) No one shall be trafficked in nor shall one be held in slavery or in servitude. (4) No one shall be required to perform forced labor. Provided  that  nothing  in  this  clause  shall  be  deemed  to  prevent  the making of law which require citizens to perform compulsory service for public purposes.
-### 30. Right relating to labour:
-(1) Every worker and employee shall have the right to appropriate labor exercise. (2) Every worker and employee shall have the right to form and join trade unions and to engage in collective bargaining for the protection of their respective interests, as provided in law.
-### 32. Right against exile:
-No citizen shall be exiled. The right to proceed in the manner set forth in  Article  107  for  the  enforcement  of  the  rights  conferred  by  this  Part  is
 
-### Right to constitutional remedies:
-guaranteed.
+### 29. Right against exploitation:
+(1) Every person shall have the right against exploitation.
+
+(2) No one shall be exploited in the name of any custom, tradition and usage or in any manner whatsoever.
+
+(3) No one shall be trafficked in nor shall one be held in slavery or in servitude.
+
+(4) No one shall be required to perform forced labor.
+
+Provided that nothing in this clause shall be deemed to prevent the making of law which require citizens to perform compulsory service for public purposes.
+
+### 30. Right relating to labour:
+(1) Every worker and employee shall have the right to appropriate labor exercise.
+
+(2) Every worker and employee shall have the right to form and join trade unions and to engage in collective bargaining for the protection of their respective interests, as provided in law.
+
+### 31. Right against exile:
+No citizen shall be exiled.
+
+### 32. Right to constitutional remedies:
+The right to proceed in the manner set forth in Article 107 for the enforcement of the rights conferred by this Part is guaranteed.
 
 [[END OF PAGE 14]]
 
@@ -320,7 +372,7 @@ guaranteed.
 
 ## OBLIGATIONS, DIRECTIVE PRINCIPLES AND POLICIES OF THE STATE
 
-### Obligations of the State:
+### 33. Obligations of the State:
 The State shall have the following obligations:
 
 (a) To concentrate fully on holding the election to the members of the ...... 3 the  year  2064  (12  April  2007) 4 ,  while  recognizing  the  need  for  the functional realization of the sovereignty inherent in the people of Nepal;
@@ -329,7 +381,7 @@ The State shall have the following obligations:
 
 (c) To  adopt  a  political  system  fully  upholding  the  universally  accepted concepts  of  basic  human  rights,  competitive  multi-party  democratic system, sovereignty inherent in the people and supremacy of the people, constitutional  checks  and  balances,  rule  of  law,  social  justice  and equality, independence of judiciary, periodic elections, monitoring by the civil society, complete press freedom, right to information of the people, transparency  and  accountability  in  the  activities  of  political  parties, public participation and impartial, efficient and fair bureaucracy, and to maintain  good  governance,  while  putting  an  end  to  corruption  and impunity;
 
-(d) To  make  an  inclusive,  democratic  and  progressive  restructuring  of  the State, by ending the existing centralized and unitary structure of the State so as to address the problems  including  those  of  women, Dalit , indigenous people, Madhesi, oppressed, excluded and minority communities and backward regions, while at the same time doing way with  discrimination  based  on  class,  caste,  language,  gender,  culture,
+(d) To make an inclusive, democratic and progressive restructuring of the State, by ending the existing centralized and unitary structure of the State so as to address the problems including those of women, Dalit, indigenous people, Madhesi, oppressed, excluded and minority communities and backward regions, while at the same time doing away with discrimination based on class, caste, language, gender, culture,
 
 > 3 Deleted by the third Amendment.
 
@@ -341,9 +393,9 @@ The State shall have the following obligations:
 
 religion and region;
 
-(dl) 5 To have participation of Madhesi , dalit, indigenous peoples, women, labors, farmers, disabled, backward classes and regions in all organs of the State structure on the basis of proportional inclusion;
+(d1) 5 To have participation of Madhesi, dalit, indigenous peoples, women, labors, farmers, disabled, backward classes and regions in all organs of the State structure on the basis of proportional inclusion;
 
-(e) To seta  common  minimum program on socio-economic transformation to do away with feudalism in all its forms, and keep on implementing the program;
+(e) To set a common minimum program on socio-economic transformation to do away with feudalism in all its forms, and keep on implementing the program;
 
 (f) To pursue a policy of implementing a scientific land reform program by doing away with the feudalistic land ownership;
 
@@ -373,15 +425,15 @@ of labors;
 
 (o) To  use  natural  means  and  resources  including  water  resources  of  the country in the interests of nation;
 
-(p) To make provisions for appropriate relied, recognition and rehabilitation of  the  family members of those who have died in the course of armed conflicts  and  those  who,  being  injured  in  this  course,  have  become disabled and infirm;
+(p) To make provisions for appropriate relief, recognition and rehabilitation of the family members of those who have died in the course of armed conflicts and those who, being injured in this course, have become disabled and infirm;
 
 (q) To provide relief  to  the  families  of  the  victims  who  were  subjected  to disappearance during the course of armed conflict based on the report of the inquiry commission constituted in relation to such persons;
 
 (r) To  launch  a  special  program  in  order  to  rehabilitate  the  displaced persons,  provide  relief  in  the  case  of  private  and  public  properties destructed,  and  reconstruct  the  infrastructures  devastated,  during  the course of armed conflict;
 
-(rl ) 6 To develop a culture of resolving major political problems of the country through  understanding  between,  consent  of,  and  collaboration  with, major political  parties  which,  having  preformed  the  leading  role  in  the historic people's movement, made an understanding on 2 Kartik 2063(12 November 2006), as well as other political parties having representation the Constituent Assembly;
+(r1) 6 To develop a culture of resolving major political problems of the country through understanding between, consent of, and collaboration with, major political parties which, having performed the leading role in the historic people's movement, made an understanding on 22 Kartik 2063 (8 November 2006), as well as other political parties having representation in the Constituent Assembly;
 
-(s) To  constitute  a  high  level  truth  and  reconciliation  commission  to investigate the facts about involved in gross violations of human rights
+(s) To constitute a high level truth and reconciliation commission to investigate the facts about those involved in gross violations of human rights and
 
 > 6 Inserted by the Fifth Amendment
 
@@ -389,9 +441,9 @@ of labors;
 
 [[START OF PAGE 18]]
 
-crimes against humanity during the course armed conflict, and to create an environment reconciliation in the society.
+crimes against humanity during the course of armed conflict, and to create an environment of reconciliation in the society.
 
-### Directive principles of the State:
+### 34. Directive principles of the State:
 (1) The main objective of the State shall be to promote the welfare of the people on the basis of the principles of an open society, by establishing a just system in all aspects of the national life including social,  economic and political life while at the same time protecting the lives property, equality and liberty of the people.
 
 (2) The objective of the State shall be to maintain peace and order, protect and  promote  human  rights,  promote  public  welfare  in  the  society,  and  create opportunities for the maximum participation of the people in the governance by way of  self-governance,  while  at  the  same  time  maintaining  a  system  where people can enjoy the fruits of democracy.
@@ -400,21 +452,34 @@ crimes against humanity during the course armed conflict, and to create an envir
 
 (4) The  fundamental  economic  objective  of  the  State  shall  be  to transform the national economy into an independent, self-reliant and progressive economy  by  preventing the economic resources and means available in the country from being concentrated within a limited section of the society,  by  making  arrangements  for  the  equitable  distribution  of  economic gains on the basis of social justice, by making such provisions as to eliminate economic  inequalities  and  prevent  economic  exploitation  of  any  caste,  sex, class,  origin  or  individuals,  and  by  giving  priority  and  encouragement  to national enterprises, both private and public.
 
-(5) The social objective of the State shall be to establish and develop a healthy social life on the foundation of justice and morality, by eliminating all types of economic and social inequalities and by establishing harmony amongst the various castes, tribes, religions, languages, races, communities and denominations. (6) The State shall direct its international relations towards enhancing the dignity of the nation in the international arena by maintaining the sovereignty, integrity and independence of the country.
-### 35. Policies of the State:
-(1) The  State shall pursue  a policy  of raising the standards of living of the general public through the development of infrastructures such as education, health, housing and employment of the people of all regions, by equitably distributing investment of economic investment for the balanced development of the country. (2) The State shall pursue a policy of developing economy of the country through the governmental, cooperative and private sectors. (3) The State shall pursue a policy of strengthening the national unity by maintaining  the  cultural  diversity  of  the  country  by  developing  healthy  and cordial social relations amongst the various religions, cultures, castes, communities,  denominations,  origins  and  linguistic  groups,  based  on  equality and  co-existence,  and  through  the  equal  development  of  their  languages, literatures, scripts, arts and cultures. (4)  The  State  shall  pursue  a  policy  of  according  priority  to  the  local communities  while  mobilizing  the  natural  resources  and  heritages  of  the country in such a manner as to be useful and beneficial to the interests of the nation. (5) The State shall make such arrangements as may be required to keep the environment clean. The State shall give priority to the prevention of adverse impacts in the environment from physical development activities, by increasing the awareness of the general public about environmental cleanliness, as well as to the protection of the environment and special safeguard of the rare wildlife. The State  shall  make  arrangements  for  the  protection  of,  sustainable  uses  of, and the equitable distribution of benefits derived from, the flora and fauna and biological diversity.
+(5) The social objective of the State shall be to establish and develop a healthy social life on the foundation of justice and morality, by eliminating all
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-(this page came through the extractor with no text)
+types of economic and social inequalities and by establishing harmony amongst the various castes, tribes, religions, languages, races, communities and denominations.
+
+(6) The State shall direct its international relations towards enhancing the dignity of the nation in the international arena by maintaining the sovereignty, integrity and independence of the country.
+
+### 35. Policies of the State:
+(1) The State shall pursue a policy of raising the standards of living of the general public through the development of infrastructures such as education, health, housing and employment of the people of all regions, by equitably distributing investment of economic investment for the balanced development of the country.
+
+(2) The State shall pursue a policy of developing economy of the country through the governmental, cooperative and private sectors.
+
+(3) The State shall pursue a policy of strengthening the national unity by maintaining the cultural diversity of the country by developing healthy and cordial social relations amongst the various religions, cultures, castes, communities, denominations, origins and linguistic groups, based on equality and co-existence, and through the equal development of their languages, literatures, scripts, arts and cultures.
+
+(4) The State shall pursue a policy of according priority to the local communities while mobilizing the natural resources and heritages of the country in such a manner as to be useful and beneficial to the interests of the nation.
+
+(5) The State shall make such arrangements as may be required to keep the environment clean. The State shall give priority to the prevention of adverse impacts in the environment from physical development activities, by increasing the awareness of the general public about environmental cleanliness, as well as
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-(6)  The  State  shall  develop  the  agriculture  sector  as  an  industry  by creating conditions for economic progress of the majority of the people who are dependent  on  agriculture  and  raising  productivity  in  the  agriculture  sector through encouragement to the farmers.
+to the protection of the environment and special safeguard of the rare wildlife. The State shall make arrangements for the protection of, sustainable uses of, and the equitable distribution of benefits derived from, the flora and fauna and biological diversity.
+
+(6) The State shall develop the agriculture sector as an industry by creating conditions for economic progress of the majority of the people who are dependent on agriculture and raising productivity in the agriculture sector through encouragement to the farmers.
 
 (7) The State shall pursue a policy of ensuring the right to work of the labor  force,  which  remains  as  the  major  social  and  economic  strength  of  the country, by providing them with employment and raising their participation in the  management of enterprises,  while  at  the  same  time  protecting  their  rights and interests.
 
@@ -452,12 +517,12 @@ crimes against humanity during the course armed conflict, and to create an envir
 
 (20) The State shall pursue a special policy of mobilizing the  youthful human resources in the development of the country.
 
-- The  State  shall  pursue  the  foreign  policy  of  Nepal  based  on  the principles of the Charter of the United Nations, non-alignment, the principles of Panchsheel, international law and the norms of world peace.
+(21) The State shall pursue the foreign policy of Nepal based on the principles of the Charter of the United Nations, non-alignment, the principles of Panchsheel, international law and the norms of world peace.
 
-- The State shall pursue a policy of keeping institutionalizing peace in Nepal through international norms, by promoting cooperative and harmonious relations in the economic, social and other spheres on the basis of equality with neighboring friendly countries and all other countries of the world.
+(22) The State shall pursue a policy of keeping institutionalizing peace in Nepal through international norms, by promoting cooperative and harmonious relations in the economic, social and other spheres on the basis of equality with neighboring friendly countries and all other countries of the world.
 
-### Questions not to be raised in court:
-(1) No  question  shall  be  raised  in  any court as to whether the matters contained in this Part have been implemented or not.
+### 36. Questions not to be raised in court:
+(1) No question shall be raised in any court as to whether the matters contained in this Part have been implemented or not.
 
 (2)  The  State  shall  mobilize,  or  cause  to  be  mobilized,  the  means  and resources, as required, to implement the principles and policies contained in this Part.
 
@@ -506,7 +571,7 @@ In  order  to  become  the  President,  a  person  must possess the following qu
 ### 36E. Vacation of office of President:
 The office of the President shall become vacant in any of the following circumstances:
 
-(a) if he or she tenders resignation before the Vice-president;  I
+(a) if he or she tenders resignation before the Vice-president;
 
 (b)	  if  at  least  two-thirds  majority  of  the  total  number  of  the  then members  of  the  Constituent  Assembly  adopts  a  resolution  of impeachment  against  him  or  her  on  the charge  of serious violation of the Constitution by him or her; or
 
@@ -518,9 +583,9 @@ The President shall, prior to assuming his or her duties, take an oath of office
 ### 36G. Vice-president:
 (1) There shall be a Vice-president in Nepal.
 
-- The  Vice-president  shall  perform the  functions  to  be  performed  by the  President  in  absence  of  the  President  or  until  another  President  is  elected after the removal of the President from his or her office pursuant to Article 36E.
+(2) The Vice-president shall perform the functions to be performed by the President in absence of the President or until another President is elected after the removal of the President from his or her office pursuant to Article 36E.
 
-- 9 (3) If  any  person  holding any political office to be filled by way of election, nomination or appointment is elected to the office of Vice-president, such political office shall, ipso facto, be vacant.
+9 (3) If any person holding any political office to be filled by way of election, nomination or appointment is elected to the office of Vice-president, such political office shall, ipso facto, be vacant.
 
 ### 36H.  Vacation  of  office  of  Vice-president:
 The  office  of  the  Vice-president  shall become vacant in any of the following circumstances:
@@ -537,13 +602,13 @@ The  office  of  the  Vice-president  shall become vacant in any of the followin
 
 (c) if he/she dies.
 
-### 36i. Other  provisions  relating  to  Vice-president:
-(1)  Provisions  relating  to  the qualification, 10 election  procedure  and  term  of  office  of  the  Vice-president shall be the same as those of the President.
+### 36I. Other provisions relating to Vice-president:
+(1) Provisions relating to the qualification, 10 election procedure and term of office of the Vice-president shall be the same as those of the President.
 
-(2) The Vice-president shall, prior to assuming his or her duties, take an oath  of  office  and  secrecy  before  the  President  in  the  form  referred  to  in Schedule-IA.
+(2) The Vice-president shall, prior to assuming his or her duties, take an oath of office and secrecy before the President in the form referred to in Schedule-1A.
 
 ### 36J. Remuneration and facilities of President and Vice-president:
-The remuneration and other facilities of the President the Vice-president shall be as determined  by  an  Act  and  as  determined  by  the  Government  of  Nepal  until such Act is made.
+The remuneration and other facilities of the President and the Vice-president shall be as determined by an Act and as determined by the Government of Nepal until such Act is made.
 
 ### 36K. 11 Office of President and Vice-president:
 (1) There  shall  be  separate  offices for rendering assistance in the functions of the President and the Vice-president.
@@ -565,9 +630,13 @@ The remuneration and other facilities of the President the Vice-president shall 
 ### 37. Executive power:
 (1) The executive power of Nepal shall, pursuant to this Constitution and other laws, be vested in the Council of Ministers. (2) The responsibility for  issuing  general  directives,  controlling  and regulating  the  administration  of  Nepal  shall,  subject  to  this  Constitution  and other laws, lie in the Council of Ministers. (3) The executive functions of Nepal shall be performed in the name of the Government of Nepal. (4) Any decision or order to be issued in the name of the Government of Nepal  pursuant  to Clause  (3) and  other instruments  of authorization pertaining thereto shall be authenticated as provided by law.
 ### 38. Formulation of Council of Ministers:
-(1) The Council of Ministers shall be formed  under  the  chairpersonship  of  the  Prime  Minister,  on  the  basis  of political understanding. 12 …………………… (2) Failing the understanding as referred to in Clause (1), the Prime Minister  shall  be  elected  by  a  majority  of  the  total  number  of  the  then members 13 of the Legislature-Parliament. (3) The structure and allocation of business of the Interim Council of Ministers shall be settled through mutual consent. (4) The Council of Ministers shall consist of Deputy Prime Minister
+(1) The Council of Ministers shall be formed under the chairpersonship of the Prime Minister, on the basis of political understanding.
+…………………… 12
+(2) Failing the understanding as referred to in Clause (1), the Prime Minister shall be elected by a majority of the total number of the then members 13 of the Legislature-Parliament.
 
-- and other Ministers, as required.
+(3) The structure and allocation of business of the Interim Council of Ministers shall be settled through mutual consent.
+
+(4) The Council of Ministers shall consist of Deputy Prime Minister and other Ministers, as required.
 
 > 12 Deleted by the Fifth Amendment
 
@@ -579,7 +648,7 @@ The remuneration and other facilities of the President the Vice-president shall 
 
 Explanation : For the purposes of this Article, the expression "Minister" shall include a Minister of State holding an independent portfolio of a Ministry.
 
-(5) The Prime Minister shall, on the recommendation of the concerned parties,  appoint  Ministers  from  amongst  the  members  of  the  LegislatureParliament.
+(5) The Prime Minister shall, on the recommendation of the concerned parties, appoint Ministers from amongst the members of the Legislature-Parliament.
 
 (6) The  Prime  Minister  and  other Ministers shall be collectively responsible to the Legislature-Parliament, and the Ministers shall be individually responsible for the work of their respective Ministries to the Prime Minister and the Legislature-Parliament.
 
@@ -618,12 +687,12 @@ Explanation : For the purposes of this Article, the expression "Minister" shall 
 ### 39 Ministers of State and Assistant Ministers:
 (1) The Prime Minister may, on the recommendation of the concerned party, appoint a Minister of State from amongst the members of the Legislature-Parliament.
 
-(2)  The Prime Minister may, on the recommendation of the concerned party, appoint Assistant Minister from amongst the members of the LegislatureParliament to assist the Minister in carrying out his or her responsibilities.
+(2) The Prime Minister may, on the recommendation of the concerned party, appoint Assistant Minister from amongst the members of the Legislature-Parliament to assist the Minister in carrying out his or her responsibilities.
 
-### Appointment of non-member  of Legislature-Parliament as Minister:
+### 40. Appointment of non-member of Legislature-Parliament as Minister:
 Notwithstanding anything contained in Articles 38 and 39, the Prime Minister may, on the basis of political understanding 16 ,  appoint a person who is not a member  of  the  Legislature-Parliament  as  Deputy  Prime  Minister,  Minister, Minister of State or Assistant Minister.
 
-### Remuneration and other facilities:
+### 41. Remuneration and other facilities:
 The remuneration  and  other  facilities  of the  Prime  Minister,  Deputy,  Prime  Minister,  Minister,  Minister  of  State  and Assistant Minister shall be as determined by an Act, and until so determined, shall be as specified by the Government of Nepal.
 
 > 16 Inserted by the Second Amendment
@@ -632,17 +701,17 @@ The remuneration  and  other  facilities  of the  Prime  Minister,  Deputy,  Pri
 
 [[START OF PAGE 29]]
 
-### Oath:
+### 42. Oath:
 The Prime Minister shall take an oath of office and secrecy before the President 17 ,  and  the  Deputy  Prime  Minister,  Minister,  Minister  of  State  and Assistant Minister shall take such oath before the Prime Minister.
 
-### Conduct of business  of  the  Government of Nepal:
+### 43. Conduct of business of the Government of Nepal:
 (1)  The  business  of  the Government of Nepal shall be conducted in consonance with the spirit of the people's joint  movement, political understanding  and  culture  of  collaboration. The common minimum program set through mutual consent shall be the policy basis of the operation of the Government of Nepal.
 
 (2) The allocation and transaction of the business of the Government of Nepal shall be carried out as set forth in the rules approved by the Government of Nepal.
 
 (3)  No  question  whether the  Rules  referred  to  in  Clause  (2)  have been observed shall be inquired into in any court.
 
-### Council  of  Ministers  after  formation  of  Constituent  Assembly:
+### 44. Council of Ministers after formation of Constituent Assembly:
 After  the formation  of  the  Constituent  Assembly,  the  exercise  of  the  executive  power, formulation  of  the  Council  of  Ministers  and  other  matters  pertaining  thereto shall be governed by the provisions contained in this Part mutatis mutandis.
 
 > 17 Amended by the Fourth Amendment
@@ -668,7 +737,7 @@ After  the formation  of  the  Constituent  Assembly,  the  exercise  of  the  e
 ### 50. 23	  ……………….
 
 ### 51. Summoning and prorogation of sessions:
-(1) 24 The  President  shall,  on  the recommendation of the Prime Minister, summon the session of the Legislature- Parliament from time to time.
+(1) 24 The President shall, on the recommendation of the Prime Minister, summon the session of the Legislature-Parliament from time to time.
 
 (2) 25 The President shall, on the recommendation of the Prime Minister, prorogue the session of the Legislature-Parliament.
 
@@ -702,20 +771,20 @@ and the session or meeting of the Legislature-Parliament shall commence or be he
 
 Explanation: For the purposes of this Clause, the expression "petition" shall mean a document bearing the signature of the petitioner.
 
-### Address  by  President: 28
+### 52. Address by President: 28
 The  President 29 shall  address  the  session  of  the Legislature-Parliament, and present thereat the annual policies and programs of the Government.
 
 ### 53 Quorum:
-Save  as  otherwise  provided  in  this  Constitution,  no  question  or resolution  shall  be  presented  for  decision  in  any  meeting  of  the  LegislatureParliament unless one-fourth of the total number of members are present.
+Save as otherwise provided in this Constitution, no question or resolution shall be presented for decision in any meeting of the Legislature-Parliament unless one-fourth of the total number of members are present.
 
-### Conduct of business in case of vacancy in membership:
-(1) The LegislatureParliament  shall  have  power  to  conduct  its  business  notwithstanding  any vacancy  in  the  seat  of  any  member  of  the  Legislature-Parliament;  and  no proceedings in the Legislature-Parliament shall become invalid notwithstanding that it is discovered subsequently that some person who was not entitled so to do took part in such proceedings.
+### 54. Conduct of business in case of vacancy in membership:
+(1) The Legislature-Parliament shall have power to conduct its business notwithstanding any vacancy in the seat of any member of the Legislature-Parliament; and no proceedings in the Legislature-Parliament shall become invalid notwithstanding that it is discovered subsequently that some person who was not entitled so to do took part in such proceedings.
 
 (2) A Minister or Minister of State or Assistant Minister who is not a member of the Legislature-Parliament shall be entitled to attend any meeting of the Legislature-Parliament or any of its committees.
 
 Provided that he or she shall not have the right to vote.
 
-### Voting:
+### 55. Voting:
 Save  as  otherwise  provided  in  this  Constitution,  any  question  put before  for  decision  in  any  meeting  of  the  Legislature-Parliament  shall  be decided by a majority of votes of the members present and voting. Ordinarily, the presiding member shall not have the right to vote.
 
 Provided that, he or she may exercise the casting vote in the case of a tie.
@@ -733,9 +802,11 @@ Provided that, he or she may exercise the casting vote in the case of a tie.
 
 (2) At least one-fourth of the total number  of members  of  the Legislature-Parliament  may  table  in  writing  a  no-confidence  motion  that  the Legislature-Parliament has no confidence in the Prime Minister. Provided  that,  a  no-confidence  motion  shall  not  be  tabled  against  the same Prime Minister more than once within six months. (3) A decision on the resolution or motion tabled pursuant to Clause (1)  or  (2)  shall  be  made  by  a  …… 31 majority  of  the  number  of  the  then members of the Legislature-Parliament.
 ### 56. Privileges:
-(1)  There  shall  be  full  freedom  of  speech  in  any  meeting  of  the Legislature-Parliament; and no member shall be arrested, detained or prosecuted in any court for anything expressed or any vote cast by him or her in such meeting. (2)  The  Legislature-Parliament  shall  have  full  power  to  regulate  its internal  business, and  it  shall  be  the  exclusive  right  of  the  LegislatureParliament  to  decide  whether  or  not  any  of  its  proceedings  is  regular  or irregular. No question in this behalf shall be raised in any court. No  comment  shall  be  made  about  the  good  faith  concerning  any proceeding of the Legislature- Parliament, and no publication and broadcasting of  any  kind  shall  be  made  about  anything  said  by  any  member,  intentionally
+(1) There shall be full freedom of speech in any meeting of the Legislature-Parliament; and no member shall be arrested, detained or prosecuted in any court for anything expressed or any vote cast by him or her in such meeting.
 
-(3) distorting or misinterpreting the meaning of the speech.
+(2) The Legislature-Parliament shall have full power to regulate its internal business, and it shall be the exclusive right of the Legislature-Parliament to decide whether or not any of its proceedings is regular or irregular. No question in this behalf shall be raised in any court.
+
+(3) No comment shall be made about the good faith concerning any proceeding of the Legislature-Parliament, and no publication and broadcasting of any kind shall be made about anything said by any member, intentionally distorting or misinterpreting the meaning of the speech.
 
 > 30 Inserted by the Second Amendment
 
@@ -765,21 +836,21 @@ Provided that if such person submits an apology to the satisfaction of the Legis
 
 (8) Other matters relating to privileges not mentioned in this Constitution shall be such as may be determined by law.
 
-### Procedures relating to conduct of business:
+### 57. Procedures relating to conduct of business:
 The Legislature-Parliament shall, subject  to  this  Constitution,  conduct  its  business  on  the  basis  of  political understanding,  and frame  rules  for  maintaining order  during  its  meetings  and regulating the constitution, functions and procedures of the committees or any other matters. Until such Rules are framed, the Legislature-Parliament shall set its own Rules of procedure.
 
 ### 57A 32 . Opposition party:
-(1)  There  shall  be  an  opposition  party  in  the  LegislatureParliament and a leader of such party.
+(1) There shall be an opposition party in the Legislature-Parliament and a leader of such party.
 
 (2) The remuneration and other facilities of the leader of the opposition party shall be as determined by law.
 
-### Committees:
-The  Legislature-Parliament  shall  have  committees  and  sub­ committees in the required number as provided in its Rules.
+### 58. Committees:
+The Legislature-Parliament shall have committees and sub-committees in the required number as provided in its Rules.
 
-### Powers of Legislature-Parliament to be exercised by Constituent Assembly:
+### 59. Powers of Legislature-Parliament to be exercised by Constituent Assembly:
 Upon  the  expiration  of  the  term  of  the  Legislature-Parliament pursuant  to  this  constitution 33 ,  the  Constituent  Assembly  shall  exercise  the powers of the Legislature-Parliament as referred to in this Constitution.
 
-### Restriction on discussion:
+### 60. Restriction on discussion:
 (1) No discussion shall be held in the House on any matter which is sub judice in  any court  of  Nepal  and  on  any judicial  act done by a Judge in the course of performance of his or her judicial duties.
 
 Provided that  nothing  in  this  Article  shall  be  deemed  to  bar  the expression of opinions about the conduct of a Judge during deliberations held on a motion of impeachment.
@@ -794,7 +865,7 @@ Provided that  nothing  in  this  Article  shall  be  deemed  to  bar  the expre
 
 (2) The  provision  of  clause  (1)  shall  also  apply  to  the  Constituent Assembly.
 
-### Secretariat  of  Legislature-Parliament:
+### 61. Secretariat of Legislature-Parliament:
 (1)  There  shall  be  a  Secretariat  for the  conduct  and  management  of  the  business  of  the  Legislature-Parliament. The establishment of the Secretariat and other matters related thereto shall be as determined by law.
 
 (2) The Government of Nepal shall provide such employees as required for the conduct and management of the business of the Legislature-Parliament.
@@ -806,8 +877,8 @@ Provided that  nothing  in  this  Article  shall  be  deemed  to  bar  the expre
 
 (3)  The  qualification,  functions,  duties,  powers  and  other  terms  and conditions of service of the secretary general  and the secretary of the Legislature-Parliament shall be as determined by law.
 
-### Remuneration:
-The  remuneration  and  facilities of the  Speaker,  Deputy Speaker,  members,  and  chairpersons  of  the  committees  of  the  LegislatureParliament  shall  be  as  provided  by  law,  and  until  so  determined,  shall  be  as determined by the Government of Nepal.
+### 62. Remuneration:
+The remuneration and facilities of the Speaker, Deputy Speaker, members, and chairpersons of the committees of the Legislature-Parliament shall be as provided by law, and until so determined, shall be as determined by the Government of Nepal.
 
 > 34 Inserted by the Third Amendment.
 
@@ -821,7 +892,7 @@ The  remuneration  and  facilities of the  Speaker,  Deputy Speaker,  members,  
 
 ## CONSTITUENT ASSEMBLY
 
-### Constitution  of  Constituent  Assembly:
+### 63. Constitution of Constituent Assembly:
 (1)  A  Constituent  Assembly  shall, subject to this Constitution, be constituted for the making of a new constitution by the people of Nepal themselves.
 
 (2) Following the commencement of this Constitution, an election to the Constituent Assembly shall be held on such date as may be appointed by the Government of Nepal.
@@ -885,7 +956,7 @@ Unless  dissolved  earlier  pursuant  to  a resolution  passed  by  the  Constit
 
 Provided that if the making of constitution cannot be completed by the reason of  the  proclamation  of  as  Sate  of  emergency  in  the  country,  the  Constituent Assembly may, by a resolution to that effect, extend its term for an additional period not exceeding six months.
 
-### Qualification for member:
+### 65. Qualification for member:
 In order for a person to become a member of the Constituent Assembly, such person must possess the following qualification:
 
 (a) being a citizen of Nepal;
@@ -900,10 +971,10 @@ In order for a person to become a member of the Constituent Assembly, such perso
 
 Explanation: For the purpose of clause (d), the expression "office of profit" shall mean any position, other than a political position which is to be filled by election or nomination, for which a remuneration or economic benefit is paid out of a government fund.
 
-### Decision  on  question  as  to  disqualification  of  member:
+### 66. Decision on question as to disqualification of member:
 If  there  arises  a question as to whether a member of the Constituent Assembly is disqualified or has ceased to possess any of the qualifications set forth in Article 65, the final decision of such question shall be made by the Constituent Assembly Court.
 
-### Vacation  of  seat:
+### 67. Vacation of seat:
 The  seat  of  a  member  of  the  Constituent  Assembly  shall become vacant in any of the following circumstances:
 
 > 44 Inserted by the Second Amendment.
@@ -924,10 +995,10 @@ The  seat  of  a  member  of  the  Constituent  Assembly  shall become vacant in
 
 Explanation: The provision of Sub-clause (d) shall not apply to the Chairperson or Vice-chairperson of the Constituent Assembly.
 
-### Oath by member:
+### 68. Oath by member:
 Every  member  of  the  Constituent  Assembly  shall,  before taking part for the first time in the meeting of the Constituent Assembly or any of its committees, take an oath as provided in law.
 
-### Meeting of Constituent Assembly:
+### 69. Meeting of Constituent Assembly:
 (1) The  first  meeting  of  the  Constituent Assembly shall be held as summoned by the Prime Minister within twenty one days after the Election Commission has published the final results of election to the members of the Constituent Assembly; and thereafter, its meetings shall be held at such place and time as may be specified by the person presiding over the Constituent Assembly.
 
 (2)  Notwithstanding  anything  contained  in  Clause  (1),  if  no  less  than one-fourth of the members of the Constituent Assembly make a petition, along with  the  reason,  to  the  Chairperson  of  the  Constituent  Assembly  that  it  is necessary to convene a meeting of the Constituent Assembly, the Chairperson shall  convene  the  meeting  of  the  Constituent  Assembly  no  later  than  fifteen days.
@@ -955,18 +1026,18 @@ Every  member  of  the  Constituent  Assembly  shall,  before taking part for th
 
 [[START OF PAGE 42]]
 
-### Chairperson and Vice-chairperson of Constituent Assembly:
+### 71. Chairperson and Vice-chairperson of Constituent Assembly:
 (1)  The Constituent  Assembly  shall,  before  commencing  its  business  of  framing  the constitution,  elect  a  Chairperson  and  a  Vice-chairperson  from  amongst  its members on the basis of political understanding. 45
 
 (1a) 46 Failing the understanding referred to in Clause (1), a member of the  Constituent  Assembly  who  secures  a  majority  of  the  total  number  of  the then members of the constituent Assembly shall be deemed elected to the office of Chairperson or Vice-chairperson.
 
 (2) In holding election pursuant to Clause (1) or (1a), 47 the Chairperson and the Vice-chairperson shall be from different political parties representing to the Constituent Assembly.
 
-- Until the election of the Chairperson and the Vice-chairperson is held pursuant to Clause (1), the member of the Constituent Assembly who is by age the senior most shall preside over the Constituent Assembly.
+(3) Until the election of the Chairperson and the Vice-chairperson is held pursuant to Clause (1), the member of the Constituent Assembly who is by age the senior most shall preside over the Constituent Assembly.
 
-- While discharging his or her duties pursuant to this Constitution, the Chairperson or the Vice-chairperson shall do so as a neutral person, without favoring or disfavoring any-political party.
+(4) While discharging his or her duties pursuant to this Constitution, the Chairperson or the Vice-chairperson shall do so as a neutral person, without favoring or disfavoring any-political party.
 
-### Vacation of office of Chairperson or Vice chairperson:
+### 72. Vacation of office of Chairperson or Vice chairperson:
 (1) The  office  of  the Chairperson  or  the Vice-chairperson  shall  become  vacant  in  any  of  the following circumstances:
 
 (a) if he or she resigns in writing;
@@ -1012,10 +1083,10 @@ Save  as  otherwise  provided  in  this  Part,  any  question  or  resolution pr
 
 Provided that he or she may exercise the casting vote in the case of a tie.
 
-### Penalty for unauthorized presence or voting:
+### 76. Penalty for unauthorized presence or voting:
 If a person sits or votes in a meeting of the Constituent Assembly or any of its committees without taking an oath pursuant to Article 68, or knowing that he or she is not qualified for membership  in  the  Constituent  Assembly,  he  or  she  shall,  on  order  of  the person presiding over the meeting, be liable to a fine of five thousand rupees for  each instance of such presence or voting. If such person fails to pay the fine so imposed, such fine shall be recovered as government dues.
 
-### Privileges:
+### 77. Privileges:
 (1) There shall be full freedom of speech in any meeting of the Constituent Assembly; and no member  shall be arrested, detained or prosecuted  in  any  court  for  anything  expressed  or  any  vote cast  in  such meeting.
 
 (2) Every meeting of the Constituent Assembly shall have full power to regulate its internal business, and it shall be the exclusive right of the meeting concerned  to  decide  whether  or  not  any  of  its  proceedings  is  regular  or irregular. No question shall be raised in any court in this respect.
@@ -1043,36 +1114,36 @@ Provided that, if such person submits an apology-' to the satisfaction of the Co
 (8) Other matters relating to privileges not mentioned in this Constitution shall be such as may be determined by law.
 
 ### 78. Procedures relating to conduct of business:
-The Constituent Assembly shall, subject to this Constitution, frame Rules for conducting its business, maintaining order during its meetings and regulating the constitution, functions and  procedures  of  the  committees -or  any  other  matters.  Until  such  Rules  are framed, the Constituent Assembly shall set its own Rules of procedure.
+The Constituent Assembly shall, subject to this Constitution, frame Rules for conducting its business, maintaining order during its meetings and regulating the constitution, functions and procedures of the committees or any other matters. Until such Rules are framed, the Constituent Assembly shall set its own Rules of procedure.
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
-### Committees:
-The  Constituent  Assembly  shall  have  committees  and  sub­ committees in the required number as provided in law. Support of experts may be availed, as required.
+### 79. Committees:
+The Constituent Assembly shall have committees and sub-committees in the required number as provided in law. Support of experts may be availed, as required.
 
-### Secretariat of Constituent Assembly:
+### 80. Secretariat of Constituent Assembly:
 (1) There shall be a Secretariat for the management of the business of the Constituent Assembly. The establishment of the Secretariat and other matters related thereto shall be as determined by law.
 
-- The Government of Nepal shall provide such employees as required for the conduct of the business of the Constituent Assembly.
+(2) The Government of Nepal shall provide such employees as required for the conduct of the business of the Constituent Assembly.
 
-### Remuneration:
-The  remuneration  and  facilities  of  the  Chairperson,  Vicechairperson, members, and chairpersons of the committees, of the Constituent Assembly  shall  be  as  provided  by  law,  and  until  so  provided,  shall  be  as determined by the Government of Nepal.
+### 81. Remuneration:
+The remuneration and facilities of the Chairperson, Vice-chairperson, members, and chairpersons of the committees, of the Constituent Assembly shall be as provided by law, and until so provided, shall be as determined by the Government of Nepal.
 
-### Dissolution of Constituent Assembly:
+### 82. Dissolution of Constituent Assembly:
 The business of the Constituent Assembly shall end on he day of the commencement of the constitution passed by the Constituent Assembly.
 
 Provided that, until the election to the legislature- parliament as set forth in the constitution  passed  by  the  Constituent  Assembly  is  held,  the  business  and proceedings of the legislature-parliament shall be as set forth in the constitution passed by that Assembly.
 
-### To act in capacity of Legislature-Parliament:
+### 83. To act in capacity of Legislature-Parliament:
 (1) Notwithstanding anything contained  elsewhere  in  this  Part,  the  Constituent  Assembly  shall,  during  the existence of its term, also perform the business of the Legislature-Parliament; and  the  Constituent  Assembly  may  constitute  a  separate  committee  for  the discharge of necessary regular legislative business.
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-(2) The  Chairperson and the Vice-chairperson of the Constituent Assembly  shall  be  the  Speaker  and  the  Deputy  Speaker  of  the  LegislatureParliament, respectively.
+(2) The Chairperson and the Vice-chairperson of the Constituent Assembly shall be the Speaker and the Deputy Speaker of the Legislature-Parliament, respectively.
 
 (3) The secretariat of the Constituent Assembly and its employees shall be the secretariat and employees of the Legislature-Parliament.
 
@@ -1085,7 +1156,7 @@ Provided that, until the election to the legislature- parliament as set forth in
 # PART 8
 ## LEGISLATIVE PROCEDURE
 
-### Introduction of Bills:
+### 84. Introduction of Bills:
 (1)  Any  member  of  the  Legislature-Parliament  may introduce a Bill in the House.
 
 Explanation: For the purposes of this Part, the expression "House" shall mean the House of the Legislature-Parliament and "member" means any member of the Legislature-Parliament.
@@ -1112,7 +1183,7 @@ Provided that, any Bill shall not be deemed to be a Money Bill by  the  reason  
 
 (4) If  any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of the Legislature-Parliament thereon shall be final.
 
-### Procedure for passage of Bills:
+### 85. Procedure for passage of Bills:
 (1) Any member intending to introduce a Bill in  the  House  shall  give  a  notice  thereof  to  the  Secretary  General  or  the Secretary at least seven days prior to the introduction of such Bill.
 
 Provided that, an advance notice of five days shall suffice in the case of a Government Bill.
@@ -1134,12 +1205,12 @@ The member introducing a Bill may, with the leave of the House, withdraw the Bil
 
 [[START OF PAGE 50]]
 
-### Authentication of Bills:
+### 87. Authentication of Bills:
 A Bill passed by the House shall become an Act after it is authenticated by the President. 49
 
 Provided  that,  such  Bill  shall  be  authenticated  by  the  Speaker  until  the President is elected and assumes his or her duties. 50
 
-### Ordinance:
+### 88. Ordinance:
 (1)  If  at  any  time,  except  when  the  session  or  meeting  of  the Legislature-Parliament  is  not  in  recess,  the  President 51 is  satisfied  that  it  is necessary to take immediate action, the President may, on the recommendation of  the  Council  of  Ministers, 52 promulgate  any  Ordinance  as  required  without prejudice to the provisions set forth in this Constitution.
 
 (2)  Any  Ordinance  promulgated  under  Clause  (1)  shall  have  the  same force and effect as an Act.
@@ -1150,7 +1221,7 @@ Provided that, every such Ordinance:
 
 (b) may be repealed at any time by the President; 53 and
 
-(c) shall, unless rendered ineffective or repealed under Sub-clause (a) or  (b), ipso  facto cease  to  have  effect  at  the  expiration  of  sixty days from the holding of the meeting of the LegislatureParliament.
+(c) shall, unless rendered ineffective or repealed under Sub-clause (a) or (b), ipso facto cease to have effect at the expiration of sixty days from the holding of the meeting of the Legislature-Parliament.
 
 > 49 Amended by the Fourth Amendment.
 
@@ -1175,12 +1246,12 @@ Provided that, every such Ordinance:
 
 (2)  No  loan  shall  be  raised  and  guarantee  given by the  Government of Nepal except in accordance with law.
 
-### Consolidated Fund:
+### 90. Consolidated Fund:
 Except for the revenues of religious endowments ( Guthi ), all  revenues  received  by  the  Government  of  Nepal,  all  loans  raised  on  the security  of  revenues,  all  moneys  received  in  repayment  of  any  loans  made under  the  authority  of  any  Act  and  any  other  moneys  received  by  the Government of Nepal shall be credited to a Government Fund to be known as the Consolidated Fund.
 
 Provided that the revenues of any religious endowments ( Guthi ) other than any private  religious  endowments ( Guthi )  shall  be  regulated  by  a  law  made thereon.
 
-### Expenditures from Government Fund or a consolidated fund:
+### 91. Expenditures from Government Fund or a consolidated fund:
 No expenditure  shall  be  incurred  out  of  the  Consolidated  Fund  or  any  other Government Fund except the following:
 
 (a) moneys charged on the Consolidated Fund;
@@ -1189,15 +1260,15 @@ No expenditure  shall  be  incurred  out  of  the  Consolidated  Fund  or  any  
 
 (c) advance  moneys  authorized  by  an  Act  required  to  meet  expenditures, when an Appropriation Bill, is under consideration; or
 
-(d) expenditures to be incurred in extraordinary circumstances under a Vote of Credit Act which contains only a description of expenditures. be
+(d) expenditures to be incurred in extraordinary circumstances under a Vote of Credit Act which contains only a description of expenditures.
 
-Provided  that, matters relating to the Contingency  Fund  shall governed by Article 98.
+Provided that, matters relating to the Contingency Fund shall be governed by Article 98.
 
 [[END OF PAGE 51]]
 
 [[START OF PAGE 52]]
 
-### Expenditures chargeable on Consolidated Fund:
+### 92. Expenditures chargeable on Consolidated Fund:
 The  expenditures  relating to the following matters shall be charged on the Consolidated Fund:
 
 (a) 54 the amount required as remuneration and facilities of the President and the Vice-president;
@@ -1206,19 +1277,19 @@ The  expenditures  relating to the following matters shall be charged on the Con
 
 (b) the  amount  required  as  remuneration  and  facilities  payable  to  the following officials:
 
-- the Speaker and the Deputy Speaker of the LegislatureParliament;
+(1) the Speaker and the Deputy Speaker of the Legislature-Parliament;
 
-- the  Chairperson  and  the  Vice-chairperson  of  the  Constituent Assembly;
+(2) the Chairperson and the Vice-chairperson of the Constituent Assembly;
 
-- the Chief Commissioner and Commissioners of the Commission for the Investigation of Abuse of Authority;
+(3) the Chief Commissioner and Commissioners of the Commission for the Investigation of Abuse of Authority;
 
-- the Auditor General;
+(4) the Auditor General;
 
-- the Chairperson and Members of the Public Service Commission;
+(5) the Chairperson and Members of the Public Service Commission;
 
-- the  Chief  Election  Commissioner  and  Election  Commissioners; and
+(6) the Chief Election Commissioner and Election Commissioners; and
 
-- the  Chairperson  and  Members  of  the  National  Human  Rights Commission.
+(7) the Chairperson and Members of the National Human Rights Commission.
 
 (c) the administrative expenses of the Supreme Court, the Commission for the Investigation of Abuse of Authority, the Auditor General, the Public Service Commission, the Election Commission and the National Human
 
@@ -1238,7 +1309,7 @@ Rights Commission;
 
 (f) any  other  sum  declared  by  law  to  be  chargeable  on  the  Consolidated Fund.
 
-### Estimates of revenues and expenditures:
+### 93. Estimates of revenues and expenditures:
 (1) The Minister for Finance shall, in respect of every financial year, present before the Legislature-Parliament an annual estimate setting out the following matters:
 
 (a) an estimate of revenues;
@@ -1247,12 +1318,12 @@ Rights Commission;
 
 (c) the moneys required to meet the expenditure to be provided for by an Appropriation Act.
 
-- The annual estimate to be laid pursuant to clause (1) shall also be accompanied by a statement of the expenses allocated to every Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved.
+(2) The annual estimate to be laid pursuant to clause (1) shall also be accompanied by a statement of the expenses allocated to every Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved.
 
-### Appropriation  Act:
+### 94. Appropriation Act:
 The  moneys  required  to  meet  the  expenditure  to  be provided  for  by  any  Appropriation  Act  shall  be  specified  under  appropriate heads in an Appropriation Bill.
 
-### Supplementary estimates:
+### 95. Supplementary estimates:
 (1) The Minister for Finance shall present before the  Legislature-Parliament  a  supplementary  estimate  if  it  is  found  in  any financial year,­
 
 (a) that the sum authorized to be spent for a particular service by the Appropriation Act for the current financial year is insufficient, or
@@ -1265,9 +1336,9 @@ that a need has arisen for expenditures upon some new service not provided for b
 
 (b) that the expenditures made during that financial year are in excess of the amount authorized by the Appropriation Act.
 
-- The  sums  included  in  the  supplementary  estimates  shall  be specified under the heads in a Supplementary Appropriation Bill.
+(2) The sums included in the supplementary estimates shall be specified under the heads in a Supplementary Appropriation Bill.
 
-### Votes  on  account:
+### 96. Votes on account:
 (1)  Notwithstanding  anything  contained  in  this  Part,  a portion  of  the  expenditure  estimated  for  the  financial  year  may,  when  an Appropriation Bill is under consideration, be incurred in advance by an Act.
 
 (2)  A Vote on Account Bill shall not be introduced until the estimates of revenues and expenditures have been presented in accordance with the provisions of Article 93, and the sums involved in the Vote on Account shall not exceed one-third of the estimate of expenditures for the financial year.
@@ -1277,7 +1348,7 @@ that a need has arisen for expenditures upon some new service not provided for b
 ### 96A. 56 Special provision relating to revenues and expenditures:
 (1)Notwithstanding anything contained elsewhere in this Part, if there arises a special circumstance where an estimate of revenues and expenditures for the forthcoming financial year cannot be laid before the Legislature-Parliament by the end of the current financial year, revenues may be collected in accordance with the Financial Act of the current financial year.
 
-(2) If there arises a circumstance referred to in Clause (1), the Minister for Finance may, setting out the reasons therefor, present before the Legislature-Parliament a Bill authorizing to spend in the forthcoming financial year an amount not exceeding one-third of the total expenditures of the current financial year.
+(2) If there arises a circumstance referred to in Clause (1), the Minister for Finance may, setting out the reasons therefor, present before the Legislature-Parliament a Bill authorizing to spend in the forthcoming financial
 
 > 56 Inserted by the Fifth Amendment.
 
@@ -1285,17 +1356,19 @@ that a need has arisen for expenditures upon some new service not provided for b
 
 [[START OF PAGE 55]]
 
+year an amount not exceeding one-third of the total expenditures of the current financial year.
+
 (3) The expenditures made pursuant to clause (2) shall be included in the Appropriation Bill.
 
-- Notwithstanding anything contained elsewhere in this Constitution, a Bill presented before the Legislature-Parliament pursuant to clause (2) may be discussed and passed on the same day on which it is introduced.
+(4) Notwithstanding anything contained elsewhere in this Constitution, a Bill presented before the Legislature-Parliament pursuant to clause (2) may be discussed and passed on the same day on which it is introduced.
 
-### Votes of credit:
+### 97. Votes of credit:
 Notwithstanding anything contained elsewhere in this Part, if owing to a local or national emergency due to either natural causes or a threat of external aggression or internal disturbances or other reasons, it' appears to be impractical  or  inexpedient  in  view  of  the  security  or  interest  of  the  State  to specify the details required under Article 93, the Minister for Finance may lay before the Legislature-Parliament a Vote of Credit Bill giving only a statement of expenditures.
 
-### Contingency  Fund:
+### 98. Contingency Fund:
 An  Act may  create a Fund  to be  known  as the Contingency Fund into which shall be paid from time to time such moneys as may  be  determined  by  the  Act.  The  Fund  shall  be  under  the  control  of  the Government  of  Nepal.  Any  unforeseen  expenditure  may  be  met  out  of  such Fund by the Government of Nepal. The amount of the expenditures so met shall be reimbursed as soon as possible by an Act.
 
-### Act  relating  to  financial  procedures:
+### 99. Act relating to financial procedures:
 Matters  relating  to  the  transfer  of moneys appropriated by the Act from one head to another and other financial procedures shall be governed by an Act.
 
 [[END OF PAGE 55]]
@@ -1306,12 +1379,12 @@ Matters  relating  to  the  transfer  of moneys appropriated by the Act from one
 
 ## JUDICIARY
 
-### Courts to exercise powers relating to Justice:
+### 100. Courts to exercise powers relating to Justice:
 (1) Powers relating to justice in Nepal shall be exercised by courts and other judicial bodies in accordance with the provisions of this Constitution, other laws and the recognized principles of justice.
 
-- The Judiciary of Nepal shall remain committed to this Constitution by pursuing  the  concepts,  norms  and  values  of  the  independent  judiciary and realizing the spirit of democracy and the people's movement
+(2) The Judiciary of Nepal shall remain committed to this Constitution by pursuing the concepts, norms and values of the independent judiciary and realizing the spirit of democracy and the people's movement
 
-### Courts:
+### 101. Courts:
 (1) There shall be the following Courts in Nepal:
 
 (a) Supreme Court;
@@ -1320,11 +1393,11 @@ Matters  relating  to  the  transfer  of moneys appropriated by the Act from one
 
 (C) District Court.
 
-- In  addition  to  the  Courts  referred  to  in  Clause  (1),  any  other courts, judicial  bodies  or  tribunals  may be  established  and  constituted by law for the purpose of trying and disposing cases of special types and nature.
+(2) In addition to the Courts referred to in Clause (1), any other courts, judicial bodies or tribunals may be established and constituted by law for the purpose of trying and disposing cases of special types and nature.
 
 Provided that no court, judicial body or tribunal shall be constituted for the purpose of trying and disposing any particular case.
 
-### Supreme  Court:
+### 102. Supreme Court:
 (1)  The  Supreme  Court  shall  be  the  highest  court  in  the judicial hierarchy.
 
 (2)  All  courts  and  judicial  bodies  of  Nepal,  other  than  the  Constituent Assembly Court, shall be under the Supreme Court. The Supreme Court may inspect,  supervise  and  give  necessary  directives  to  its  subordinate  courts  and judicial bodies.
@@ -1335,7 +1408,9 @@ Provided that no court, judicial body or tribunal shall be constituted for the p
 
 (3)  The  Supreme  Court  shall  be  a  court  of  record.  it  may  initiate proceedings  and  impose  punishment  in  accordance  with  law  for  contempt  of itself and of its subordinate courts or judicial bodies.
 
-- The  Supreme  Court  shall  have  the  final  authority  to  interpret  this Constitution and the laws in force, other than on any matter falling under the jurisdiction of the Constituent Assembly Court. (5) The Supreme Court shall consist of the Chief Justice and of not more than fourteen other Judges. If, at any time, the number of existing Judges becomes insufficient by the reason of an increase in the number of cases in the Supreme Court, ad hoc Judges may be appointed for a fixed term.
+(4) The Supreme Court shall have the final authority to interpret this Constitution and the laws in force, other than on any matter falling under the jurisdiction of the Constituent Assembly Court.
+
+(5) The Supreme Court shall consist of the Chief Justice and of not more than fourteen other Judges. If, at any time, the number of existing Judges becomes insufficient by the reason of an increase in the number of cases in the Supreme Court, ad hoc Judges may be appointed for a fixed term.
 ### 103. Appointment and qualification of Judges of the Supreme  Court:
 (1) The President 57 shall, on the recommendation of the Constitutional Council, appoint the  Chief  Justice  of  the  Supreme  Court,  and  the  Chief  Justice  shall,  on  the recommendation of the Judicial Council, appoint other Judges of the Supreme Court. The tenure of office of the Chief Justice shall, subject to Sub-clause (b) of Clause (1) of Article 105, be six years from the date of appointment. (2) Any person who has worked as a Judge of the Supreme Court for at least three years shall be eligible for appointment as the Chief Justice of the Supreme Court. (3) A person who has worked as a Judge of an Appellate Court or in any equivalent office of the Judicial Service for seven years or has worked in the post of Gazetted First Class or a higher post of the Judicial Service for at least twelve  years  or  has  practiced  law  for  at  least  fifteen  years  as  a  law  graduate advocate or senior advocate or who is a distinguished jurist having worked for at  least  fifteen  years  in  the  judicial  or  legal  field  shall  only  be  eligible  for
 
@@ -1375,11 +1450,11 @@ the Supreme Court shall act as the Acting Chief Justice.
 
 (b) if he or she attains the age of sixty-five years;
 
-(c) if a motion  of impeachment  is  passed  by  the LegislatureParliament; or
+(c) if a motion of impeachment is passed by the Legislature-Parliament; or
 
 (d) If he or she dies.
 
-- A motion of impeachment against the Chief Justice or any other Judge may be moved in the Legislature Parliament on the grounds of his or her incompetence, misbehavior or failure to discharge the duties of his or her office in  good  faith  or  his  or  her  inability  to  discharge  his  or  her  duties  because  of physical or mental reason; and if the motion is passed by a two-thirds majority of the total number of the then members, he or she shall ipso facto be relieved of his or her office.
+(2) A motion of impeachment against the Chief Justice or any other Judge may be moved in the Legislature Parliament on the grounds of his or her incompetence, misbehavior or failure to discharge the duties of his or her office in good faith or his or her inability to discharge his or her duties because of physical or mental reason; and if the motion is passed by a two-thirds majority of the total number of the then members, he or she shall ipso facto be relieved of his or her office.
 
 Provided that, the Chief Justice or the Judge being so charged shall not be deprived of an opportunity to defend him/herself.
 
@@ -1396,7 +1471,7 @@ Provided that the Government of Nepal may, in consultation with the Judicial Cou
 
 [[START OF PAGE 60]]
 
-### Jurisdiction  of  the  Supreme  Court:
+### 107. Jurisdiction of the Supreme Court:
 (1)  Any  citizen  of  Nepal  may  file  a petition in the Supreme Court to have any law or any part thereof declared void on  the  ground  of  inconsistency  with  this  Constitution  because  it  imposes  an unreasonable restriction on the enjoyment of the fundamental rights conferred by this Constitution or on any other ground; and the Supreme Court shall have extra-ordinary power to declare that law to be void either ab initio or from the date of its decision if it appears that the law in question is inconsistent with this Constitution.
 
 (2)  The  Supreme  Court  shall,  for  the  enforcement  of  the  fundamental rights conferred by this Constitution or for the enforcement of any other legal right  for  which  no  other  remedy  has  been  provided  or  for  which  the  remedy even  though  provided  appears  to  be  inadequate  or  ineffective  or  for  the settlement  of  any  constitutional  or  legal  question  involved  in  any  dispute  of public interest or concern, have the extraordinary power to issue necessary and appropriate  orders  to  enforce  such  right  or  settle  such  dispute.  For  these purposes,  the  Supreme  Court  may,  with  a  view  to  imparting  full  justice  and providing the appropriate remedy, issue appropriate orders and writs including the writs of habeas  corpus, mandamus,  certiorari, prohibition  and  quo warranto .
@@ -1409,10 +1484,12 @@ Provided  that,  except  on  the  ground  of  absence  of  jurisdiction,  the Su
 
 [[START OF PAGE 61]]
 
-- The  Supreme  Court  may  review  its  own  judgments  or  final  orders subject to such conditions and in such circumstances as may be, prescribed by law. Judges other than those having handed down the previous judgment shall make such review. (5)  Other  powers  and  procedures  of  the  Supreme  Court  shall  be  as prescribed by law.
+(4) The Supreme Court may review its own judgments or final orders subject to such conditions and in such circumstances as may be, prescribed by law. Judges other than those having handed down the previous judgment shall make such review.
+
+(5) Other powers and procedures of the Supreme Court shall be as prescribed by law.
 ### 108. Establishment,  management  and  jurisdiction  of  Appellate  Courts  and District Courts:
 The establishment and management of the Appellate Courts, District Courts and other courts and judicial bodies subordinate to the Supreme Court shall be determined by law subject to this Constitution.
-### 109. Appointment, qualification, conditions of service and facilities of:Jud.es of A  ellate  Courts  and  District  Courts:
+### 109. Appointment, qualification, conditions of service and facilities of Judges of Appellate Courts and District Courts:
 (1)  The  Chief  Justice  shall,  on  the recommendation of the Judicial Council, appoint any Chief Judge and Judges of the Appellate Courts and any Judges of the District Courts. (2) Any citizen of Nepal who has a Bachelor's Degree in law and has worked as a Judge of a District Court or in the post of Gazetted First Class of the Judicial Service for at least seven years or has practiced law for at least ten years as a law graduate advocate or senior advocate or who has taught law or done research thereon or worked in any other field of law or justice for at least ten years shall be considered eligible for appointment as the Chief Judge or a Judge of an Appellate Court. (3)  Any citizen  of  Nepal  who  has  a  Bachelor's  Degree  in  law  and  has worked in the post of Gazetted Second Class of the Judicial Service for at least three  years  or  has  practiced  law  for  at  least  eight  years  as  a  law  graduate advocate shall be considered eligible for appointment as a District Judge. (4) In appointing a law graduate advocate as a District Judge pursuant to
 
 Clause (3), a person who has passed the written and oral examination conducted by the Judicial Council shall be so appointed. The method of such examination and other procedures shall be as determined by law.
@@ -1445,11 +1522,11 @@ Clause (3), a person who has passed the written and oral examination conducted b
 
 her from office on the grounds of incompetence, misbehavior or failure to discharge the duties of his or her office in good faith or his  or  her  inability  to  discharge  his  or  her  duties  because  of physical or mental reason or his or her deviation from justice, he or she is removed by the Chief Justice from his or her office;
 
-A Judge of an Appellate Court or of a District Court who is facing a change pursuant to this Sub-clause shall be given a reasonable opportunity to defend himself or herself, and for this purpose, the Judicial  Council  may  form  a  committee  of  inquiry  for  the purposes  of  recording  the  statements  of  the  Judge,  collecting evidence  and  submitting  a  report  accompanied  by  its  findings. The Rules of procedure of the committee shall be as determined by law.
+A Judge of an Appellate Court or of a District Court who is facing a charge pursuant to this Sub-clause shall be given a reasonable opportunity to defend himself or herself, and for this purpose, the Judicial Council may form a committee of inquiry for the purposes of recording the statements of the Judge, collecting evidence and submitting a report accompanied by its findings. The Rules of procedure of the committee shall be as determined by law.
 
 (d) if he or she dies.
 
-- The  Judge  of  an  Appellate  Court  or  of  a  District  Court  against whom the proceedings are being initiated pursuant to Sub-clause (c) of clause (10) shall not perform the duties of his or her office until the proceedings are completed.
+(11) The Judge of an Appellate Court or of a District Court against whom the proceedings are being initiated pursuant to Sub-clause (c) of clause (10) shall not perform the duties of his or her office until the proceedings are completed.
 
 ### 110. Judge of Appellate Court and District Court not to be transferred to or engaged in any other assignments:
 (1)  No  Judge  shall  be  transferred  to  or engaged in or deputed to any office other than that of Judge.
@@ -1462,26 +1539,22 @@ Provided  that,  the  Government  of  Nepal  may,  in  consultation  with  the J
 
 (2)  The  Chief  Justice  may,  on  the  recommendation  of  the  Judicial Council transfer a Judge of an Appellate or of a District Court from one court to another.
 
-- Taking  into  consideration, inter  alia ,  the  case-load  and  matters  of dispute to be settled judicially, the Chief Justice may depute a Judge of a Court to act as a Judge of another Court of the same level for a certain period of time.
+(3) Taking into consideration, inter alia, the case-load and matters of dispute to be settled judicially, the Chief Justice may depute a Judge of a Court to act as a Judge of another Court of the same level for a certain period of time.
 
-- The Supreme Court may, as provided for in law, authorise a Judge in any area to issue, through electronic or other media, a preliminary or interim order  in  the  course  of  proceedings  of  a  case  pending  in  another  Court  of  the same level situated in a geographically nearby area.
+(4) The Supreme Court may, as provided for in law, authorise a Judge in any area to issue, through electronic or other media, a preliminary or interim order in the course of proceedings of a case pending in another Court of the same level situated in a geographically nearby area.
 
-### Transfer of cases:
+### 111. Transfer of cases:
 If the Supreme Court is satisfied with the reason that there exists  a  situation  where  justice  can  be  adversely  affected  if  a  case  filed  in  a Court is tried by that Court, the Supreme Court may order such case to be tried by another Court of the same level.
 
-### Responsibility  of  Chief  Justice:
+### 112. Responsibility of Chief Justice:
 The  Chief  Justice  shall  have  the  final responsibility to make effective the administration of justice of the country; and to  that  end,  he  or  she  may,  subject  to  this  Constitution  and  other  laws,  give necessary directives to the Supreme Court and subordinate Courts.
 
-### Judicial Council:
+### 113. Judicial Council:
 There shall be a Judicial Council to make recommendation or  give  advice,  in  accordance  with  this  Constitution,  on  the  appointment  of, transfer  of,  disciplinary  action  against,  and  dismissal  of,  Judges,  and  other matters  relating  to  the  administration  of  justice,  which  shall  consist  of  the following as its chairperson and members:
 
-(a) The Chief Justice
+(a) The Chief Justice - Chairperson
 
-(b) The Minister for Justice
-
--Chairperson
-
-- Member
+(b) The Minister for Justice - Member
 
 [[END OF PAGE 64]]
 
@@ -1495,30 +1568,22 @@ There shall be a Judicial Council to make recommendation or  give  advice,  in  
 
 [[START OF PAGE 66]]
 
-### Judicial  Service  Commission:
+### 114. Judicial Service Commission:
 (1)  In  appointing,  transferring  or  promoting gazetted officers of the Judicial Service or taking departmental action concerning  such  officers  in  accordance  with  law,  the  Government  of  Nepal shall act on the recommendation of the Judicial Service Commission.
 
 Provided  that,  the  Government  of  Nepal  shall  act  shall  act  on  the recommendation  of  the  public  service  commission  for  the  purpose  of permanent recruitment to the gazetted posts of the Judicial Service from a  persons  who  are  not  already  in  the  Government  Service  or  from person  being  promoted  from  non-gazatted  to  gazetted  post  within  the judicial service.
 
-- The Judicial Service Commission shall consist of the following as its chairperson and members:
+(2) The Judicial Service Commission shall consist of the following as its chairperson and members:
 
 (a) The Chief Justice - Chairperson
 
-(b)
+(b) The Minister for Justice - Member
 
-- The Minister for Justice - Member
+(c) The senior most Judge of the Supreme Court - Member
 
-(c) The senior most Judge of - Member the Supreme Court
+(d) The Chairperson of the Public Service Commission - Member
 
-(d) The Chairperson of the
-
-Public Service Commission
-
-- Member
-
-(e)
-
-- The Attorney General - Member
+(e) The Attorney General - Member
 
 (3)  Other  functions,  duties,  powers  and  procedures  of  the  Judicial Service Commission shall be as determined by law.
 
@@ -1529,12 +1594,12 @@ It  shall  be  the  duty  of  the Government of Nepal and all offices or officia
 
 [[START OF PAGE 67]]
 
-### Orders  and  decisions  of  Courts  to  be  binding:
+### 116. Orders and decisions of Courts to be binding:
 (1)  All  shall  abide  by  the orders and decisions made in the course of hearing a lawsuit a by the Courts.
 
 (2) Any interpretation given to a law or any legal principle laid down by the Supreme Court in the course of hearing a lawsuit shall be binding on the Government of Nepal and all offices and courts.
 
-### Annual report:
+### 117. Annual report:
 (1)  The  Supreme  Court  shall,  every  year,  submit  an  annual report to the President; 60 and the President 61 shall arrange to submit such report to the Legislature-Parliament through the Prime Minister. 62
 
 (2) The annual report to be submitted pursuant to clause (1) shall set out, inter alia , the following details:
@@ -1567,16 +1632,16 @@ It  shall  be  the  duty  of  the Government of Nepal and all offices or officia
 
 subordinate Courts, and of expenditures.
 
-- while  submitting  the  annual  report  pursuant  to  Clause  (1)  the supreme  court  shall  also  include  the  details  of  work  performed  by  Judicial Council and by the Judicial Service Commission.
+(3) while submitting the annual report pursuant to Clause (1) the supreme court shall also include the details of work performed by Judicial Council and by the Judicial Service Commission.
 
-### Constituent  Assembly  Court :
+### 118. Constituent Assembly Court:
 (1)  A  constituent  Assembly  court  shall  be constituted  to  resolve  the  complaints  regarding  election  of  the  constituent Assembly .
 
-- The  composition,  jurisdiction  and  other  matters  of  the  Constituent Assembly Court as referred to in Clause (1) shall be as determined by law.
+(2) The composition, jurisdiction and other matters of the Constituent Assembly Court as referred to in Clause (1) shall be as determined by law.
 
-- Notwithstanding  anything  contained  elsewhere  in  this  Constitution, no  question  may  be  raised  in  any  court  in  respect  of  any  election  to  the members of the Constituent Assembly unless a petition is filed in the Court as referred to in Clause (1) as prescribed by law.
+(3) Notwithstanding anything contained elsewhere in this Constitution, no question may be raised in any court in respect of any election to the members of the Constituent Assembly unless a petition is filed in the Court as referred to in Clause (1) as prescribed by law.
 
-- Notwithstanding  anything  contained  elsewhere  in  this  Constitution, no question may, after the process of election to the Constituent Assembly has commenced,  be  raised  in  any  Court  in  such  a  manner  as  to  interrupt  such election.
+(4) Notwithstanding anything contained elsewhere in this Constitution, no question may, after the process of election to the Constituent Assembly has commenced, be raised in any Court in such a manner as to interrupt such election.
 
 [[END OF PAGE 68]]
 
@@ -1585,10 +1650,12 @@ subordinate Courts, and of expenditures.
 # PART 11
 ## COMMISSION FOR THE INVESTIGATION OF ABUSE OF AUTHORITY
 
-### Commission for the Investigation of Abuse of Authoritv:
-(1) There shall be a Commission for the Investigation of Abuse of Authority of Nepal, consisting of the Chief Commissioner and such number of other Commissioners as may be required.  If,  apart  from  the  Chief  Commissioner,  any  other  Commissioner  is appointed, the Chief Commissioner  shall act as the chairperson of the Commission for the Investigation of Abuse of Authority. (2)  The  President 63 shall,  on  the  recommendation of the Constitutional Council, appoint the Chief Commissioner and other Commissioners. Commissioner  and  other
+### 119. Commission for the Investigation of Abuse of Authority:
+(1) There shall be a Commission for the Investigation of Abuse of Authority of Nepal, consisting of the Chief Commissioner and such number of other Commissioners as may be required. If, apart from the Chief Commissioner, any other Commissioner is appointed, the Chief Commissioner shall act as the chairperson of the Commission for the Investigation of Abuse of Authority.
 
-- The term of office of the Chief Commissioners shall be six years from the date of appointment, subject to Subclause (a) of the proviso to Clause (7).
+(2) The President 63 shall, on the recommendation of the Constitutional Council, appoint the Chief Commissioner and other Commissioners.
+
+(3) The term of office of the Chief Commissioner and other Commissioners shall be six years from the date of appointment, subject to Sub-clause (a) of the proviso to Clause (7).
 
 Provided that­
 
@@ -1596,17 +1663,17 @@ Provided that­
 
 (b) the  Chief  Commissioner  or  a  Commissioner  may  be  removed from  his  or  her  office  on  the  same  grounds  and  in  the  same manners as has been set forth for the removal of a judge of the supreme court.
 
-- The office of the Chief Commissioner or a Commissioner shall be deemed vacant in any of the following circumstances:
+(4) The office of the Chief Commissioner or a Commissioner shall be deemed vacant in any of the following circumstances:
 
-(a)
-
-if he or she tenders resignation in writing to the President; 64
+(a) if he or she tenders resignation in writing to the
 
 > 63 Amended by the Fourth Amendment.
 
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
+
+President;64
 
 (b) if, pursuant to Clause (3), his or her term expires or he or she ceases to hold his or her office; or
 
@@ -1645,13 +1712,23 @@ Provided that
 
 Provided that, this Clause shall not apply to  any official in relation to whom this Constitution  itself  separately  provides  for  such  action  and  to  any official  in  relation  to  whom  any  other  law  provides  for  separate  special provision.
 
-(2) In the  case  of  the  officials  of  a  Constitutional  body  who  can  be removed  from  office  following  a  motion  of  impeachment  on  the  ground  of misconduct,  the  Judges  who  can  be  removed  by  the  Judicial  Council  similar changes and the persons who are liable to action under the Army Act, it may conduct  inquiries  and  investigations  in  accordance  with  law  after  they  have been so removed from office. (3) If  the  Commission  for  the  Investigation  of  Abuse  of  Authority finds, upon inquiry and investigation conducted pursuant to Clause (1), that a person holding any public office has misused authority by committing any act which is defined by law as an improper conduct, it may admonish such person or write to the concerned authority for taking departmental action or any other necessary action against such person as provided in law. (4) If  the  Commission  for  the  Investigation  of  Abuse  of  Authority finds, upon inquiry and investigation conducted pursuant to Clause (1), that a person holding any public office has committed an act which is defined by law as corruption, it may file, or cause to be filed, a case against such person and any other person involved in that offense in the competent court in accordance with law. (5) If,  upon  inquiry  and  investigation  conducted  pursuant  to  Clause (1),  any  act  or  action  done  or  taken  by  a  person  holding  any  public  office appears to be of such nature as to be falling  under the jurisdiction of another official  or  body,  the  Commission  for  the  Investigation  of  Abuse  of  Authority may write to the concerned official or body for necessary action. (6) Subject  to  this  Constitution,  other  functions,  duties  and  powers and  Rules  of  procedure  of  the  Commission  for  the  Investigation  of  Abuse  of Authority shall be as provided by law. The Commission for the Investigation of Abuse of Authority may delegate  any  of  its  functions,  duties  and  powers  relating  to  the  inquiry  and investigation or filing of cases, to the Chief Commissioner, a Commissioner or any employee of the Government of Nepal to be exercised and complied with
+(2) In the case of the officials of a Constitutional body who can be removed from office following a motion of impeachment on the ground of misconduct, the Judges who can be removed by the Judicial Council on similar charges and the persons who are liable to action under the Army Act, it may
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
 
-(7) subject to the specified conditions.
+conduct inquiries and investigations in accordance with law after they have been so removed from office.
+
+(3) If the Commission for the Investigation of Abuse of Authority finds, upon inquiry and investigation conducted pursuant to Clause (1), that a person holding any public office has misused authority by committing any act which is defined by law as an improper conduct, it may admonish such person or write to the concerned authority for taking departmental action or any other necessary action against such person as provided in law.
+
+(4) If the Commission for the Investigation of Abuse of Authority finds, upon inquiry and investigation conducted pursuant to Clause (1), that a person holding any public office has committed an act which is defined by law as corruption, it may file, or cause to be filed, a case against such person and any other person involved in that offense in the competent court in accordance with law.
+
+(5) If, upon inquiry and investigation conducted pursuant to Clause (1), any act or action done or taken by a person holding any public office appears to be of such nature as to be falling under the jurisdiction of another official or body, the Commission for the Investigation of Abuse of Authority may write to the concerned official or body for necessary action.
+
+(6) Subject to this Constitution, other functions, duties and powers and Rules of procedure of the Commission for the Investigation of Abuse of Authority shall be as provided by law.
+
+(7) The Commission for the Investigation of Abuse of Authority may delegate any of its functions, duties and powers relating to the inquiry and investigation or filing of cases, to the Chief Commissioner, a Commissioner or any employee of the Government of Nepal to be exercised and complied with subject to the specified conditions.
 
 [[END OF PAGE 72]]
 
@@ -1717,13 +1794,13 @@ commerce  or  accounts  from  a  university  recognized  by  the Government of N
 
 (e) possesses  high moral character.
 
-- The remuneration and other conditions of service of the Auditor General shall be as determined by law. The remuneration and other conditions of service of the Auditor General shall not, so long as he or she holds office, be altered to his or her disadvantage.
+(6) The remuneration and other conditions of service of the Auditor General shall be as determined by law. The remuneration and other conditions of service of the Auditor General shall not, so long as he or she holds office, be altered to his or her disadvantage.
 
 (7) A  person  once  appointed  as  the  Auditor  General  shall  not  be eligible for appointment in any other government service.
 
 Provided that nothing in this Clause shall be deemed to be a bar to the appointment  to  any  political  position or to  any  position  which  has  the responsibility of making investigations, inquiries or findings on any subject, or to  any  position  which  has  the  responsibility  of  submitting  advice,  opinion  or recommendation after carrying out a study or research on any subject.
 
-### Functions, duties and powers of the Auditor-General:
+### 123. Functions, duties and powers of the Auditor-General:
 (1)  The  accounts  of the Supreme Court, the Legislature-Parliament, the Constituent Assembly, the Commission  for  the  Investigation  of  Abuse  of  Authority,  the  Office  of  the Auditor-General,  the  Public  Service  Commission,  the  Election  Commission, the  National  Human Rights Commission, the  Office of the Attorney General and  other  offices  of  the  Constitutional  Bodies,  the  Nepal  Army,  the  Armed Police  or  Nepal  Police,  and  all  other  government  offices  and  courts  shall  be audited by the Auditor-General in such manner as may be determined by law, with due consideration given to the regularity, economy, efficiency, effectiveness and the propriety thereof.
 
 [[END OF PAGE 75]]
@@ -1732,8 +1809,8 @@ Provided that nothing in this Clause shall be deemed to be a bar to the appointm
 
 (2) The Auditor General shall be consulted in the matter of appointment of an auditor to carry out the audit of any corporate body of which the Government of Nepal owns more than fifty percent of the shares or assets. The  Auditor  General  may  also  issue  necessary  directives  setting  forth  the principles for carrying out the audit of such corporate body. (3) The  Auditor  General  shall,  at  all  times,  have  access  to  the documents  concerning  the  accounts  for  the  purpose  of  carrying  out  the functions stipulated in clause (1). It shall be the duty of the concerned chief of office to provide all such documents and information as may be demanded by the Auditor General or any of his or her employees. (4) The accounts to be audited pursuant to Clause (1) shall, subject to the relevant laws in force, be maintained in such form as may be prescribed by the Auditor General. (5) In addition to the accounts of the offices referred to in Clause (1), the law may also require that the accounts of any other office or institution be audited by the Auditor General.
 ### 124. Annual report:
-(1)  The  Auditor  General  shall  submit  to  the  President 70 an annual report on the works the office has performed; and the President 71 shall arrange to submit such report to the Legislature Parliament, through the Prime Minister. 72 (2) The annual report to be submitted pursuant to Clause (1) shall set out, inter alia, the details of bodies audited by the Auditor General throughout the year, situation of irregular amounts, attempts made to settle such irregular amounts  and  achievements  made  on  the  settlement  of  irregular  amounts,  and
-- reforms to be made in the future in respect of audit.
+(1) The Auditor General shall submit to the President 70 an annual report on the works the office has performed; and the President 71 shall arrange to submit such report to the Legislature-Parliament, through the Prime Minister. 72 (2) The annual report to be submitted pursuant to Clause (1) shall set out, inter alia, the details of bodies audited by the Auditor General throughout the year, situation of irregular amounts, attempts made to settle such irregular amounts and achievements made on the settlement of irregular amounts, and
+reforms to be made in the future in respect of audit.
 
 > 70 Amended by the Fourth Amendment.
 
@@ -1767,11 +1844,11 @@ Provided that nothing in this Clause shall be deemed to be a bar to the appointm
 
 (6) No person shall be eligible to be appointed as the Chairperson or a  Member  of  the  Public  Service  Commission  unless  he  or  she  possesses  the following qualification:
 
-(a) holds a Master's Degree from a university recognized by the Government of Nepal-,
+(a) holds a Master's Degree from a university recognized by the Government of Nepal;
 
 (b) is  not  a  member  of  any  political  party  immediate  before appointment;
 
-(c) has attained the age of forty five years-, and
+(c) has attained the age of forty five years; and
 
 (d) possesses high moral character.
 
@@ -1791,14 +1868,14 @@ Provided that­
 
 (b) nothing  in  this  Clause  shall  be  deemed  to  be  a  bar  to  the appointment to any political position or to any position which has the  responsibility of  making investigations,  inquiries  or  findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject.
 
-### Functions, duties and powers of Public Service Commission:
+### 126. Functions, duties and powers of Public Service Commission:
 (1)  It shall  be the  duty  of  the  Public  Service  Commission  to  conduct  examinations  for  the selection  of  suitable  candidates  to  be  appointed  to  the  positions  in  the  civil service.
 
 Explanation: For the purposes of this Article, all services or positions in the Government of Nepal, other than the services and positions of army officers or soldiers and of armed police and police personnel and such other services and positions as are excluded by an Act from the civil service or positions thereof, shall be deemed to be the civil service or positions thereof.
 
-- No  permanent  appointment  to  any  pensionable  position  in  the civil  service  shall  be  made  except  in  consultation  with  the  Public  Service Commission.
+(2) No permanent appointment to any pensionable position in the civil service shall be made except in consultation with the Public Service Commission.
 
-- The Public Service Commission shall be consulted:
+(3) The Public Service Commission shall be consulted:
 
 (a) on  matters  concerning  the  law  relating  to  the  conditions  of service of the civil service;
 
@@ -1808,9 +1885,9 @@ Explanation: For the purposes of this Article, all services or positions in the 
 
 [[START OF PAGE 80]]
 
-- appointment  and  promotion  to  the  civil  service  or  positions thereof and in taking departmental action; (c) on  matters  concerning  the  suitability  of  any  candidate  for appointment to a civil  service  position  for  a  period  of  more than six months; (d) on  matters  concerning  the  suitability  of  any  candidate  for transfer  or  promotion  from  one  service  to  another  with  the civil service or from any other government service to the civil service; (e) on  matters  concerning  the,  permanent  transfer  or  promotion of  any  employee  working  in  any  position  which  does  not require  consultation  with  the  Public  Service  Commission  to any  position  which  requires  consultation  with  the  Public Service Commission; and (f) on  matters  relating  to  departmental  action  proposed  against any civil servant. (4) Notwithstanding anything contained in Clause (3), matters falling within the purview of the Judicial Service Commission pursuant to Article 114 shall be governed by that Article. (5) The Public Service Commission shall be consulted on the general principles to be followed in the course of making appointment and promotion to any position of the  military service, armed  police service or police  service or other government service.
+appointment and promotion to the civil service or positions thereof and in taking departmental action; (c) on matters concerning the suitability of any candidate for appointment to a civil service position for a period of more than six months; (d) on matters concerning the suitability of any candidate for transfer or promotion from one service to another with the civil service or from any other government service to the civil service; (e) on matters concerning the, permanent transfer or promotion of any employee working in any position which does not require consultation with the Public Service Commission to any position which requires consultation with the Public Service Commission; and (f) on matters relating to departmental action proposed against any civil servant. (4) Notwithstanding anything contained in Clause (3), matters falling within the purview of the Judicial Service Commission pursuant to Article 114 shall be governed by that Article. (5) The Public Service Commission shall be consulted on the general principles to be followed in the course of making appointment and promotion to any position of the military service, armed police service or police service or other government service.
 
-- If any public corporate body intends to seek advice of the Public Service Commission on the laws in force relating to the conditions of service of the employees in the service of such body and on the general principles to be followed in the course of making appointment and promotion to any position of such service and in taking departmental action against any such employee, the Public Service Commission may advise on such matters.
+(6) If any public corporate body intends to seek advice of the Public Service Commission on the laws in force relating to the conditions of service of the employees in the service of such body and on the general principles to be followed in the course of making appointment and promotion to any position of such service and in taking departmental action against any such employee, the Public Service Commission may advise on such matters.
 
 [[END OF PAGE 80]]
 
@@ -1822,7 +1899,7 @@ Explanation: For  the  purposes  of  this  Article,  the  expression  "public bo
 
 (8) Subject to this Constitution, other functions, duties and Rules of procedure of the Public Service Commission shall be as determined by law.
 
-### Annual report:
+### 127. Annual report:
 (1)  The Public Service Commission shall, every year, submit to  the  President; 75 an  annual  report  on  the  works  it  has  performed,  and  the President 76 shall  arrange  to  submit  such  report  to  the  Legislature-Parliament, through the Prime Minister. 77
 
 (2) The annual report to be submitted pursuant to Clause (1) shall set out, inter  alia ,  the  details  of  examinations  conducted  by  the  Public  Service Commission to select candidates throughout the year, details of examinees who have  passed  such  examinations,  details  of  advice  made  to  various  corporate bodies, details of advice made in relation to departmental action and punishment  proposed  to  be  taken  against  and  imposed  on  civil  servants, statements  whether  such  advice  has  been  complied  with,  details  of  advice,  if any,  made  in  relation  to  the  general  principles  to  be  followed  while  making appointment  and  promotion  to  any  position  of  any  government  service  and while taking departmental action concerning such position and details of future reforms to be made in the field of civil service.
@@ -1841,10 +1918,10 @@ Explanation: For  the  purposes  of  this  Article,  the  expression  "public bo
 
 ## ELECTION COMMISSION
 
-### Election Commission:
-(1) There  shall  be  an  Election  Commission  of  Nepal, consisting of the Chief Election Commissioner and a maximum of four other Election Commissioners as may be required. If, apart from the chief election commissioner,  any  other  Election  Commissioner  is  appointed,  the  Chief Election Commissioner shall act as the Chairperson of the Election Commission. (2) The President 78 shall, on the recommendation of the Constitutional  Council,  appoint  the  Chief  Election  Commissioner  and  other Election Commissioners. (3) The term of office of the Chief Election Commissioner and other Election  Commissioners  shall  be  six  years  from  the  date  of  appointment, subject to Sub-clause (a) of the proviso to Clause (7). Provided that­ (a) if  before  the  expiry of his or her term, the Chief Election Commissioner or an Election Commissioner attains the age of sixty five years, he or she shall retire. (b) the Chief Election Commissioner and an Election Commissioner may be removed from his or her office on the same ground and in the same manner as has been set forth for the removal of a Judge of the Supreme Court. (4) The office of the Chief Election Commissioner or of an Election Commissioner shall be deemed vacant in any of the following circumstances: the
+### 128. Election Commission:
+(1) There shall be an Election Commission of Nepal, consisting of the Chief Election Commissioner and a maximum of four other Election Commissioners as may be required. If, apart from the chief election commissioner, any other Election Commissioner is appointed, the Chief Election Commissioner shall act as the Chairperson of the Election Commission. (2) The President 78 shall, on the recommendation of the Constitutional Council, appoint the Chief Election Commissioner and other Election Commissioners. (3) The term of office of the Chief Election Commissioner and other Election Commissioners shall be six years from the date of appointment, subject to Sub-clause (a) of the proviso to Clause (7). Provided that­ (a) if before the expiry of his or her term, the Chief Election Commissioner or an Election Commissioner attains the age of sixty five years, he or she shall retire. (b) the Chief Election Commissioner and an Election Commissioner may be removed from his or her office on the same ground and in the same manner as has been set forth for the removal of a Judge of the Supreme Court. (4) The office of the Chief Election Commissioner or of an Election Commissioner shall be deemed vacant in any of the following circumstances:
 
-(a) if he or she tenders resignation in writing to President; 79
+(a) if he or she tenders resignation in writing to the President; 79
 
 > 78 Amended by the Fourth Amendment.
 
@@ -1882,18 +1959,18 @@ Provided that­
 
 [[START OF PAGE 84]]
 
-- appointment to any political position or to any position which has the  responsibility of  making investigations,  inquiries  or  findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject.
+appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject.
 
-### Functions duties and, powers of Election Commission:
+### 129. Functions duties and, powers of Election Commission:
 (1)  The Election Commission shall, subject to the provisions of this Constitution and other laws, conduct, supervise, direct and control the election to the Constituent Assembly, any referendum to be held under Article 157 of this Constitution and elections to  the  Local  Authorities.  For  these  purposes,  the  Election  Commission  shall prepare the electoral rolls.
 
-- If, after nominations of candidacy for the member  of  the Constituent Assembly have been filed but before the election is completed, a question arises whether a candidate is disqualified or has ceased to possess the qualification  set  forth  in  Article  65,  the  Election  Commission  shall  make decision thereon.
+(2) If, after nominations of candidacy for the member of the Constituent Assembly have been filed but before the election is completed, a question arises whether a candidate is disqualified or has ceased to possess the qualification set forth in Article 65, the Election Commission shall make decision thereon.
 
-- The  Election  Commission  may  delegate  any  of  its  functions, duties and powers to the Chief Election Commissioner, Election Commissioner or any employee of the Government of Nepal as to be exercised and complied with subject to the specified conditions.
+(3) The Election Commission may delegate any of its functions, duties and powers to the Chief Election Commissioner, Election Commissioner or any employee of the Government of Nepal as to be exercised and complied with subject to the specified conditions.
 
-- Subject  to  this  Constitution,  other  functions,  duties  and  rules  of procedure of the Election Commission shall be as determined by law.
+(4) Subject to this Constitution, other functions, duties and rules of procedure of the Election Commission shall be as determined by law.
 
-### Government of Nepal to provide necessary employees to Election Commission:
+### 130. Government of Nepal to provide necessary employees to Election Commission:
 The Government of Nepal shall provide the Election Commission  with  such  employees  and  other  things  as  may  be  required  to perform its functions in accordance with this Constitution.
 
 [[END OF PAGE 84]]
@@ -1904,16 +1981,16 @@ The Government of Nepal shall provide the Election Commission  with  such  emplo
 
 ## NATIONAL HUMAN RIGHTS COMMISSION
 
-### National  Human  Rights  Commission:
+### 131. National Human Rights Commission:
 (1)  There  shall  be  a  National  Human Rights  Commission  of  Nepal,  which  shall  consist  of  the  Chairperson  and Members, as follows:
 
 (a) one person from amongst the retired Chief Justices or Judges of the Supreme Court who have rendered an outstanding contribution to the protection and promotion of human rights or a person who holds a high reputation and has been actively involved in the field of, and rendered an outstanding contribution to the  protection  and  promotion  of  human  rights,  or social service. -chairperson
 
 (b) Four persons from amongst the persons who hold a high reputation and have been actively involved in the field of, and rendered an outstanding contribution  to,  the  protection  and  promotion  of human rights, or social service. -member
 
-- There shall be maintained diversity including gender perspective while  making  appointment  of  the  Chairperson  and  Members  of  the  National Human Rights Commission.
+(2) There shall be maintained diversity including gender perspective while making appointment of the Chairperson and Members of the National Human Rights Commission.
 
-- The President 80 shall, on the recommendation of the Constitutional  Council,  appoint  the  Chairperson  and  the  Members  of  the National Human Rights Commission.
+(3) The President 80 shall, on the recommendation of the Constitutional Council, appoint the Chairperson and the Members of the National Human Rights Commission.
 
 > 80 Amended by the Fourth Amendment.
 
@@ -1996,7 +2073,7 @@ action against such official;
 
 (e) To exercise and perform, or cause to be exercised and performed, such other powers and duties as provided in law.
 
-- Notwithstanding anything contained elsewhere in this Article, the National Human Rights Commission shall have no jurisdiction over any matter falling within the jurisdiction of the Army Act.
+(4) Notwithstanding anything contained elsewhere in this Article, the National Human Rights Commission shall have no jurisdiction over any matter falling within the jurisdiction of the Army Act.
 
 Provided that nothing shall bar the institution of, actions on any matters of the violations of human rights or humanitarian laws.
 
@@ -2005,8 +2082,7 @@ Provided that nothing shall bar the institution of, actions on any matters of th
 [[START OF PAGE 90]]
 
 ### 133. Annual report:
-(1)  The National Human Rights Commission shall submit to an annual report on the works which it has performed pursuant shall arrange to submit such report to
-the President 82 to this Constitution; and the President 83 the Legislature-Parliament through the Prime Minister. 84
+(1) The National Human Rights Commission shall submit to the President 82 an annual report on the works which it has performed pursuant to this Constitution; and the President 83 shall arrange to submit such report to the Legislature-Parliament through the Prime Minister. 84
 
 (2) The annual report to be submitted pursuant to Clause (1) shall set out, inter  alia ,  the  details  of  complaints  filed  in  the  National  Human  Rights Commission  throughout  the  year,  inquiries  into,  and  investigations  of,  such complaints, details of recommendations made to the Government of Nepal on various  matters,  the  number  of  cases,  if  any,  filed  against  those  who  have violated  human  rights  and  the  details  of  reforms  to  be  made  in  the  future  in relation to the protection and promotion of human rights.
 
@@ -2024,10 +2100,10 @@ the President 82 to this Constitution; and the President 83 the Legislature-Parl
 
 ## ATTORNEY GENERAL
 
-### Appointment of Attorney General:
+### 134. Appointment of Attorney General:
 (1) There shall be an Attorney General of Nepal, who shall be appointed by the President, on the recommendation of the Prime Minister. 85 The Attorney General shall hold office during the pleasure of the Prime Minister.
 
-- No  person  shall  be  eligible  to  be  appointed  as  the  Attorney  General unless he or she is qualified to be appointed as a Judge of the Supreme Court.
+(2) No person shall be eligible to be appointed as the Attorney General unless he or she is qualified to be appointed as a Judge of the Supreme Court.
 
 (3) The office of the Attorney General shall be deemed vacant in any of the following circumstances:
 
@@ -2037,9 +2113,9 @@ the President 82 to this Constitution; and the President 83 the Legislature-Parl
 
 (c) if he or she dies.
 
-- The  remuneration  and  other  facilities  of  the  Attorney  General shall be similar to those of a Judge of the Supreme Court. Other conditions of service of the Attorney General shall be as determined by law.
+(4) The remuneration and other facilities of the Attorney General shall be similar to those of a Judge of the Supreme Court. Other conditions of service of the Attorney General shall be as determined by law.
 
-### Functions duties and power of Attorney General:
+### 135. Functions duties and power of Attorney General:
 (1) The Attorney General shall be the chief legal advisor to the Government of Nepal. It shall be the duty of  the  Attorney  General  to  give  opinions  and  advices  on  constitutional  and legal  matters  to  the  Government  of  Nepal  and  such  other  authorities  as  the
 
 > 85 Amended by the Fourth Amendment.
@@ -2056,13 +2132,13 @@ Government of Nepal may specify.
 
 (2) The Attorney General or officers subordinate to him or her shall represent the Government of Nepal in lawsuits wherein the rights, interests or concerns of the Government of Nepal are involved. Save as provided otherwise in this Constitution, the Attorney General shall have the right to make the final decision  as  to  whether  to  institute  any  case  on  behalf  of  the  Government  of Nepal in any court or judicial authority.
 
-- Subject  to  Clause  (2),  in  the  course  of  performing  his  or  her duties, the Attorney General shall have the power to do the following acts:
+(3) Subject to Clause (2), in the course of performing his or her duties, the Attorney General shall have the power to do the following acts:
 
-(a) To defend, on behalf of the Government of Nepal, any lawsuit in which the Government of Nepal is a plaintiff or a defendant; (b) To monitor, or cause to be monitored, whether any interpretation given to a law or any legal principle laid down by the Supreme Court in the course of trying lawsuits has been implemented; (c) On a complaint alleging that any person held in custody has not been treated humanely subject to this Constitution or such person has  not  been  allowed  to  meet  his  or  her  relative  in  person  or through his or her legal practitioner, or on receipt of information of such matter, to inquire there into and give necessary directive to the concerned authority to prevent such act. In addition to the functions, duties and powers mentioned in this Article, other functions, duties and powers of the Attorney General shall be as
+(a) To defend, on behalf of the Government of Nepal, any lawsuit in which the Government of Nepal is a plaintiff or a defendant; (b) To monitor, or cause to be monitored, whether any interpretation given to a law or any legal principle laid down by the Supreme Court in the course of trying lawsuits has been implemented; (c) On a complaint alleging that any person held in custody has not been treated humanely subject to this Constitution or such person has not been allowed to meet his or her relative in person or through his or her legal practitioner, or on receipt of information of such matter, to inquire there into and give necessary directive to the concerned authority to prevent such act. (4) In addition to the functions, duties and powers mentioned in this Article, other functions, duties and powers of the Attorney General shall be as
 
-- determined by this Constitution and other laws.
+determined by this Constitution and other laws.
 
-- In  the  course  of  discharging  the  duties  of  his  or,  her  office,  the Attorney  General  shall  have  the  right  to  appear  in  any  Court,  office  and authority of Nepal.
+(5) In the course of discharging the duties of his or, her office, the Attorney General shall have the right to appear in any Court, office and authority of Nepal.
 
 [[END OF PAGE 92]]
 
@@ -2089,7 +2165,7 @@ The Attorney General shall have the right to appear and express his or her opini
 
 ## STRUCTURE OF STATE AND LOCAL SELF- GOVERNANCE
 
-### Progressive restructuring of the State:
+### 138. Progressive restructuring of the State:
 (1) There shall be made progressive restructuring of the State with inclusive, democratic federal system of governance, 91 by doing away with the centralized and unitary structure of the State  so  as  to  end  discriminations  based  on  class,  caste,  language,  gender, culture, religion and region.
 
 (1a) 92 Recognizing  the  desire  of  the  indigenous  peoples  and  of  the people of backward and other area including Madhesi people towards autonomous  provinces  Nepal  shall  be  a  federal  democratic  republican  state. Provinces shall be autonomous and vested with full authority. The boundaries, number, names and structures, as well as full details of the lists, of autonomous provinces and the center and allocation of means, resources and powers shall be determined  by  the  Constituent  Assembly,  while  maintaining  the  sovereignty, unity and integrity of Nepal.
@@ -2110,7 +2186,7 @@ The Attorney General shall have the right to appear and express his or her opini
 
 [[START OF PAGE 95]]
 
-### Provisions on local self-governance:
+### 139. Provisions on local self-governance:
 (1) The election to local self-governance bodies shall be held 95 based on decentralization and devolution of authority in order to promote the participation of people, to the maximum extent possible, in the  system  of  governance  of  the  country  by  creating  such  environment  as  is conducive  to  the  exercise  of  sovereignty  by  the  people  even  from  the  local level,  deliver  services  to  the  people  at  the  local  level  and  have  institutional development of democracy even from the local level.
 
 (2) 96 Interim local bodies shall be formed at the district, municipal and village levels by the Government of Nepal, with the consent and participation of the political parties which are actively involved at the local level pending the election to the local authorities.
@@ -2119,7 +2195,7 @@ Explanation :  For  the  purpose  of  this  clause,  the  expression  "political
 
 (3) The  organizational  structure,  framework,  territorial  boundaries and mode of formation of the local self-governance bodies shall be as provided by law.
 
-### Arrangement and mobilization of revenue:
+### 140. Arrangement and mobilization of revenue:
 (1) There shall be mobilization and  allocation  of  responsibilities  and  revenues  between  the  Government  of Nepal  and  the  local  self-governance  bodies as  provided  by  law  in  order  to make  the  local  self-governance  bodies  accountable  for  the  identification, formulation and implementation of local level plans, while maintaining equality in the mobilization, appropriation of means and resources and in the balanced and  equitable distribution of the fruits of  development  with  a  view  to
 
 > 95 Amended by the Fifth Amendment.
@@ -2132,7 +2208,7 @@ Explanation :  For  the  purpose  of  this  clause,  the  expression  "political
 
 strengthening the local self-governance bodies for local development.
 
-- While mobilizing and allocating revenues pursuant to Clause (1), special attention shall be accorded to the overall upliftment of those classes and communities who are backward socially and economically in such a manner as to have a balanced and equal development of the country.
+(2) While mobilizing and allocating revenues pursuant to Clause (1), special attention shall be accorded to the overall upliftment of those classes and communities who are backward socially and economically in such a manner as to have a balanced and equal development of the country.
 
 [[END OF PAGE 96]]
 
@@ -2144,20 +2220,20 @@ strengthening the local self-governance bodies for local development.
 
 ### 141. Prohibition on imposition of restrictions on political parties:
 (1) Persons
-- who  are  committed  to  common  political  ideology,  philosophy  and  program shall,  subject  to  laws  made  under  proviso  (3)  to  Clause  (3)  of  Article  12,  be entitled to form and operate political parties of their choice and to generate, or cause to be generated, publicity in order to secure support and cooperation from the  general  public  for  their  ideology,  philosophy and  program or  to  carry out any  other  activity  for  this  purpose.  Any  law,  arrangement  or  decision  which restricts  any  of  such  activities  shall  be  deemed  to  be  inconsistent  with  this Constitution and shall, ipso facto , be void.
+who are committed to common political ideology, philosophy and program shall, subject to laws made under proviso (3) to Clause (3) of Article 12, be entitled to form and operate political parties of their choice and to generate, or cause to be generated, publicity in order to secure support and cooperation from the general public for their ideology, philosophy and program or to carry out any other activity for this purpose. Any law, arrangement or decision which restricts any of such activities shall be deemed to be inconsistent with this Constitution and shall, ipso facto , be void.
 
-- Any law, arrangement or decision which allows for participation or  involvement  of  only  a  single  political  party  or  persons  having  similar political  ideology,  philosophy  or  program  in  the  elections  or  in  the  political system of, or in the conduct of governance of the country shall be inconsistent with this Constitution and shall, ipso facto , be void.
+(2) Any law, arrangement or decision which allows for participation or involvement of only a single political party or persons having similar political ideology, philosophy or program in the elections or in the political system of, or in the conduct of governance of the country shall be inconsistent with this Constitution and shall, ipso facto , be void.
 
-- No party which has objectives prejudicial to the basic spirit and essence of the Preamble of this Constitution shall be deemed to be qualified for registration as a party.
+(3) No party which has objectives prejudicial to the basic spirit and essence of the Preamble of this Constitution shall be deemed to be qualified for registration as a party.
 
-### Registration required for securing recognition for the purpose of contesting elections as political party:
+### 142. Registration required for securing recognition for the purpose of contesting elections as political party:
 (1) Every  political  party  wishing to  secure  recognition  from  the  Election  Commission  for  the  purposes  of elections  shall  be  required  to,  register  it  with  the  Election  Commission  in fulfillment of the procedures as determined by the Election Commission. The name of any political party failing to have such registration shall be removed from the list of the Election Commission.
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
 
-- A petition to be made for registration pursuant to Clause (1) shall be accompanied by the constitution, manifesto and Rules of the political party proposed to be registered, and contain, inter alia, the following details:
+(2) A petition to be made for registration pursuant to Clause (1) shall be accompanied by the constitution, manifesto and Rules of the political party proposed to be registered, and contain, inter alia, the following details:
 
 (a) Name of the political party and address  its central office;
 
@@ -2165,7 +2241,7 @@ strengthening the local self-governance bodies for local development.
 
 (c) Details of funds,  income  source  of  the political party  and resources for bringing about such funds.
 
-- Every  political  party  shall  be  required  to  fulfil  the  following conditions in order to qualify for registration pursuant to Clause (1):
+(3) Every political party shall be required to fulfil the following conditions in order to qualify for registration pursuant to Clause (1):
 
 (a) The constitution and rules of the political must be democratic;
 
@@ -2175,7 +2251,7 @@ strengthening the local self-governance bodies for local development.
 
 (d) The constitution of the party must have an effective provision to maintain discipline of its members.
 
-- The Election Commission shall not register any political party or organization which discriminates against any citizen of Nepal in becoming its member  on  the  basis  merely  of  religion,  caste,  tribe,  language  or  sex  or  the name, objective, insignia or flag of which is of such a nature as to jeopardize the religious and communal unity of the country or to fragment the country or
+(4) The Election Commission shall not register any political party or organization which discriminates against any citizen of Nepal in becoming its member on the basis merely of religion, caste, tribe, language or sex or the name, objective, insignia or flag of which is of such a nature as to jeopardize the religious and communal unity of the country or to fragment the country or
 
 [[END OF PAGE 98]]
 
@@ -2185,7 +2261,7 @@ the  Constitution  or  Rules  of  such  party  or  organization  have  the  obje
 
 (5)) A petition with the support and signature of at least ten thousand voters shall be required for the purpose of registration of a party for election. Provided that, this provision shall not apply to the parties represented in the Interim Legislature-Parliament.
 
-- Provisions on the establishment, registration, recognition of political parties and other matters except those mentioned in this Part shall be as provided in law.
+(6) Provisions on the establishment, registration, recognition of political parties and other matters except those mentioned in this Part shall be as provided in law.
 
 [[END OF PAGE 99]]
 
@@ -2204,19 +2280,21 @@ the  Constitution  or  Rules  of  such  party  or  organization  have  the  obje
 
 (4) If a proclamation or order laid before a meeting of the Legislature-Parliament  for  approval  pursuant  to  Clause  (2)  is  not  approved pursuant Clause (3), such proclamation or order shall ipso facto be deemed to cease to operate.
 
-(5) Before  the  expiration  of  the  period  referred  to  Clause  (3),  if  a meeting of the Legislate -Parliament, by a two-thirds majority of the members present therein, passes a resolution to the effect that the circumstances referred to in Clause (1) continue to exist, it may extend the period of the proclamation or order of the state of emergency for another one period, not exceeding three months as specified in such resolution.
+(5) Before the expiration of the period referred to Clause (3), if a meeting of the Legislature-Parliament, by a two-thirds majority of the members present therein, passes a resolution to the effect that the circumstances referred to in Clause (1) continue to exist, it may extend the period of the proclamation or order of the state of emergency for another one period, not exceeding three months as specified in such resolution.
 
 (6) After  a  state  of  emergency  has  been  declared  or  order  issued pursuant  to  Clause  (1),  the  President  may,  on  the  recommendation  of  the Government of  Nepal,  Council  of  Ministers, 98 issue  such  orders  as  are necessary to meet the exigencies. Orders so issued shall be operative with the same force and effect as law so long as the state of emergency is in operation.
 
 > 97 Amended by the Fourth Amendment.
 
+> 98 Amended by the Fourth Amendment.
+
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
 
-99
+Government of Nepal, Council of Ministers,98 issue such orders as are necessary to meet the exigencies. Orders so issued shall be operative with the same force and effect as law so long as the state of emergency is in operation.
 
-(7) The  President may,  at  the  time  of  making  a  proclamation  or order of a state of emergency pursuant to Clause (1), suspend the fundamental rights  as  provided  in  Part  3  for  as  long  as  the  proclamation  or  order  is  in operation.
+(7) The President99 may, at the time of making a proclamation or order of a state of emergency pursuant to Clause (1), suspend the fundamental rights as provided in Part 3 for as long as the proclamation or order is in operation.
 
 Provided that clauses (1) and (2) of Article 12 and Sub-clauses (c) and (d) of Clause (3),  Articles 13 and 14, Clauses (2) and (3) of Article 15, Articles 16, 17, 18, 20, 21, 22, 23, 24, 26, 29, 30 and 31 and the right to constitutional remedy in relation to such Articles pursuant to Article 32 and the right to the remedy of habeas corpus shall not be suspended.
 
@@ -2282,9 +2360,9 @@ Provided that clauses (1) and (2) of Article 12 and Sub-clauses (c) and (d) of C
 
 Provided  that,  where  there  is  representation  of  less  than three political parties in the Council of Ministers, nothing shall be deemed to bar the  making  of  designation  in  such  a  manner  as  to have representation of less than three political parties.
 
-- In cases where the same person is both the Prime Minister and the Minister for Defense, the senior-most Member of the Council of Ministers shall be a member of the National Defence council.
+(2) In cases where the same person is both the Prime Minister and the Minister for Defense, the senior-most Member of the Council of Ministers shall be a member of the National Defence council.
 
-- The  National  Defence  Council  may  invite  any  other  person  to  its meeting, as per necessity.
+(3) The National Defence Council may invite any other person to its meeting, as per necessity.
 
 (4) The secretary at the Ministry of Defense shall act as the secretary of the National Defence Council; and in his or her absence, any officer designated by the Prime Minister shall carry out such act.
 
@@ -2298,10 +2376,10 @@ Provided  that,  where  there  is  representation  of  less  than three politica
 
 (5) The National Defence Council may set its Rules of procedure on its own.
 
-### Transitional provisions on combatants:
+### 146. Transitional provisions on combatants:
 The Council of Ministers shall form a special  committee  for  the  supervision,  adjustment  and  rehabilitation  of  the Maoist  army  combatants,  in  such  a  manner  as  to  consist  of  representation  of major  political  parties  represented  in  the  Constituent  Assembly; 106 and  the functions, duties and powers of such committee shall be as determined by the Council of Ministers.
 
-### Management  and  monitoring:
+### 147. Management and monitoring:
 Other  provisions  on  the  management  and monitoring of the arms and armies shall be as mentioned in the Comprehensive Peace Accord and the Agreement on Monitoring of the Management of Arms and Armies concluded between the Government of Nepal and CPN (Maoist) on 5 Mangsir 2063 (21 November 2006) and 22 Mangsir 2063 (8 December 2006), respectively.
 
 > 106 Amended by the Fifth Amendment.
@@ -2314,10 +2392,10 @@ Other  provisions  on  the  management  and monitoring of the arms and armies sh
 
 ## AMENDMENT TO CONSTITUTION
 
-### Amendment to Constitution:
+### 148. Amendment to Constitution:
 (1) A Bill to amend or repeal any Article of this Constitution may be introduced in the Legislature-Parliament.
 
-- If a Bill introduced pursuant to Clause (1) is approved by at least two-thirds of all the then members of the Legislature-Parliament, the Bill shall be deemed to have been passed.
+(2) If a Bill introduced pursuant to Clause (1) is approved by at least two-thirds of all the then members of the Legislature-Parliament, the Bill shall be deemed to have been passed.
 
 [[END OF PAGE 105]]
 
@@ -2327,7 +2405,7 @@ Other  provisions  on  the  management  and monitoring of the arms and armies sh
 
 ## MISCELLANEOUS
 
-### Constitutional  Council:
+### 149. Constitutional Council:
 (1)  There  shall  be  a  Constitutional  Council  for making recommendations for appointment of officials to Constitutional Bodies in  accordance with this Constitution, which shall consist of the following as the chairperson and members:
 
 (a) The Prime Minister -Chairperson
@@ -2352,25 +2430,25 @@ Provided  that,  where  there  is  representation  of  less  than three  politic
 
 [[START OF PAGE 107]]
 
-- The procedures on the appointment of officials to Constitutional Bodies and other functions, duties and powers and Rules of procedures of the Constitutional Council shall be as determined by law.
+(3) The procedures on the appointment of officials to Constitutional Bodies and other functions, duties and powers and Rules of procedures of the Constitutional Council shall be as determined by law.
 
 (4) The Chief Secretary of the Government of Nepal shall act as the secretary of the Constitutional Council.
 
-### Nepalese ambassadors and emissaries:
+### 150. Nepalese ambassadors and emissaries:
 The President may, on the recommendation of the Council of Ministers, 109 appoint the Nepalese ambassadors, and special emissaries for any specific purposes.
 
-### Pardons:
+### 151. Pardons:
 The President  may,  on  the  recommendation  of  the  Council  of Ministers, 110 grant  pardons  and  suspend,  commute  or  remit  any  sentence passed by any court, special court, and military court or by any other judicial quasi-judicial or administrative authority or body.
 
-### Titles, honors and decorations:
+### 152. Titles, honors and decorations:
 (1) The titles, honors and decorations to be conferred  on  behalf  of  the  State  shall  be  conferred  by  the  President,  on  the recommendation of the Council of Ministers. 111
 
 (2) No citizen of Nepal shall, without the approval of the Government of  Nepal,  accept  any  title,  honor  or  decoration  from  the  government  of  any foreign country.
 
-### Constitution  of  Government  Service:
+### 153. Constitution of Government Service:
 The  Government  of  Nepal  may,  in order to run the Administration of the country, constitute the Civil Service and such other government services as may be required. The constitution, operation and conditions of service thereof shall be as determined by an Act.
 
-### Constitution of commissions:
+### 154. Constitution of commissions:
 The Government of Nepal may constitute such commissions as may be required for the protection and  promotion of the rights
 
 > 109 Amended by the Fourth Amendment.
@@ -2385,21 +2463,21 @@ The Government of Nepal may constitute such commissions as may be required for t
 
 and  interests  of  various  sectors  Including  women, Dalit, indigenous  peoples, Madhesi, disabled, labours or farmers. The provisions relating to the formation, functions,  duties  and  powers of  such  commissions shall be as  determined by law.
 
-### 154A 112 .Election Constituency Delimitation Commission:
-(1)  The  Government of Nepal may constitute an  Constituency Delimitation Commission, to determine election  constituencies  for  the  purpose  of  the  election  to  the  members  of  the Constituent Assembly, which shall consist of the following as the chairperson and members:
-
-- The chairperson and members of the Constituency Delimitation Commission shall be appointed by the Government of Nepal.
-
-- The term of office of the Constituency Delimitation Commission shall  be  as  prescribed  by  the  Government  of  Nepal  at  the  time  of  the constitution of the Commission, and such term may be extended, if required, by the Government of Nepal.
-
-- Without prejudice to the generality of clause (1), no person shall be eligible to be appointed as the chairperson or a member of the  Constituency
+### 154A112.Election Constituency Delimitation Commission:
+(1) The Government of Nepal may constitute an Constituency Delimitation Commission, to determine election constituencies for the purpose of the election to the members of the Constituent Assembly, which shall consist of the following as the chairperson and members:
 
 (a) | Retired Judgeof the Supreme Court | -Chairperson
 --- | --- | ---
 (b) | Geographer | -Member
 (c) | Sociologist or demographer | -Member
 (d) | Administrator or management expert | -Member
-(e) | Gazetted special class officer in the service of the Government of Nepal | - Member-secretary
+(e) | Gazetted special class officer in the service of the Government of Nepal | -Member-secretary
+
+(2) The chairperson and members of the Constituency Delimitation Commission shall be appointed by the Government of Nepal.
+
+(3) The term of office of the Constituency Delimitation Commission shall be as prescribed by the Government of Nepal at the time of the constitution of the Commission, and such term may be extended, if required, by the Government of Nepal.
+
+(4) Without prejudice to the generality of clause (1), no person shall be eligible to be appointed as the chairperson or a member of the Constituency
 
 > 112 Inserted by the First Amendment.
 
@@ -2415,13 +2493,13 @@ Delimitation Commission unless he or she possesses the following qualification:
 
 (c) Possess a moral character.
 
-- The office of the chairperson or member of the Constituency Delimitation Commission shall be deemed vacant in any of the following circumstances:
+(5) The office of the chairperson or member of the Constituency Delimitation Commission shall be deemed vacant in any of the following circumstances:
 
 (a) if  he  or  she  tenders  resignation  in  writing  to  the  Prime Minister: or
 
 (b) if he or she dies.
 
-- While  delimiting  constituencies  pursuant  to  this  Article. the Constituency Delimitation Commission shall, subject to Clauses (3) and (3a) of Article 63, determine the number of members to be elected from each district on the basis of the population of that district, by maintaining the proportionality, as far as practicable, between the population of such districts, and the number of members of the Constituent Assembly, and shall determine the number of election constituencies equal to such number, for the purpose of the election to the members of the Constituent Assembly.
+(6) While delimiting constituencies pursuant to this Article. the Constituency Delimitation Commission shall, subject to Clauses (3) and (3a) of Article 63, determine the number of members to be elected from each district on the basis of the population of that district, by maintaining the proportionality, as far as practicable, between the population of such districts, and the number of members of the Constituent Assembly, and shall determine the number of election constituencies equal to such number, for the purpose of the election to the members of the Constituent Assembly.
 
 (7) In delimitating constituencies pursuant to clause (6), due consideration shall be given to inter alia , the boundaries, geographical conditions, density of population, transportation facilities of each administrative district and communal and cultural aspects of the inhabitants in such district, on the basis of equal population and geographical specificity and congeniality.
 
@@ -2435,7 +2513,7 @@ Delimitation Commission unless he or she possesses the following qualification:
 
 (10) The Constituency Delimitation Commission shall submit a report on the works it has performed to the Prime Minister.
 
-(l0a) 114 The  Prime  Minister  shall  lay  the  report  received  pursuant  to Clause (10) before the Council of Ministers; and the Council of Ministers shall send the report to the Election Commission and other concerned bodies for its implementation.
+(10a)114 The Prime Minister shall lay the report received pursuant to Clause (10) before the Council of Ministers; and the Council of Ministers shall send the report to the Election Commission and other concerned bodies for its implementation.
 
 (10b) 115 Notwithstanding  anything  contained  in  Clause  (10a),  if  the Council  of  Ministers  considers  that  it  is  necessary  to  review  the  report submitted to the Prime Minister pursuant to Clause (10), in the case of a district of which delimitation is not in order technically, the Council of Ministers may, in  such  a  special  circumstance,  request  the  chairperson  and  members  of  the Commission  constituted  pursuant  to  Clause  (1)  to  review  the  report  for  one time, specifying the deadline for such review.
 
@@ -2457,7 +2535,7 @@ Delimitation Commission unless he or she possesses the following qualification:
 
 be required for the Constituency Delimitation Commission.
 
-### Provisions  relating  to  hearing  about,  and  citizenship  of officials of Constitutional Bodies:
+### 155. Provisions relating to hearing about, and citizenship of officials of Constitutional Bodies:
 (1) Prior to the appointment of any persons to constitutional positions to which appointments are made on the recommendation of the  Constitutional Council pursuant to this Constitution, to positions of Judges of the Supreme Court and to positions of ambassadors, 119 there shall be parliamentary hearing about them as provided in law.
 
 (2) Only those persons who are citizens of Nepal by descent or birth or  who,  having  acquired  naturalized  citizenship,  have  resided  in  Nepal  for  at least  ten  years  shall  be  eligible  to  be  appointed  to  constitutional  positions  to which appointments are made pursuant to this Constitution.
@@ -2472,7 +2550,7 @@ be required for the Constituency Delimitation Commission.
 
 [[START OF PAGE 112]]
 
-### Ratification  of,  accession  to,  acceptance  of  or  approval  of,  treaties  or agreements:
+### 156. Ratification of, accession to, acceptance of or approval of, treaties or agreements:
 (1)The ratification of, accession to, acceptance of or approval of, treaties or agreements to which the State of Nepal or the Government of Nepal is to become a party shall be as determined by law.
 
 (2) Any  law  to  be  made  pursuant  to  Clause  (1)  shall, inter  alia , require  that  the  ratification  of,  accession  to,  acceptance  of,  or  approval  of, treaties or agreements on the following subjects must be made, by a two-thirds majority of the total number of the then members of the Legislature-Parliament:
@@ -2495,12 +2573,12 @@ Provided that, out of the treaties or agreements referred to in Sub-clauses (a) 
 
 [[START OF PAGE 113]]
 
-### Power to make decision through referendum:
+### 157. Power to make decision through referendum:
 (1) Save as otherwise provided elsewhere in this  Constitution,  if  a  two-thirds  majority  of  the  total number of the  then  members  of  the  Constituent  Assembly  decides  that  it  is necessary  to  decide  any  issue  of  national  importance  through  referendum, such issue may be decided through referendum.
 
-- The  procedures  on  making  decision  through  the  process  as referred to in Clause (1) shall be as determined by law.
+(2) The procedures on making decision through the process as referred to in Clause (1) shall be as determined by law.
 
-### Power to remove difficulties:
+### 158. Power to remove difficulties:
 If any difficulty arises in connection with the implementation of this Constitution, the President may on the recommendation  of  the  Council  of  Ministers, 120 issue  any  orders  to  remove such difficulty; and such orders shall have to be ratified by the Legislature ­ Parliament …………. 121 within one month.
 
 > 120 Amended by the Fifth Amendment.
@@ -2515,22 +2593,22 @@ If any difficulty arises in connection with the implementation of this Constitut
 
 ## TRANSITIONAL PROVISIONS
 
-### 122 Properties to be held in trust:
+### 159.122 Properties to be held in trust:
 (1) The properties of the then King Birendra, Queen  Aishwarya  and  their  families  shall  be  brought  under  control  of  the Government of Nepal  and held in  a  trust,  to  be  used  for  the  interests  of  the nation.
 
-- All  properties  acquired  by  Gyanendra Shah in  capacity of  the  then King (such as palaces, forests, parks and heritages of historical and archaeological importance situated in various places) shall be nationalized.
+(2) All properties acquired by Gyanendra Shah in capacity of the then King (such as palaces, forests, parks and heritages of historical and archaeological importance situated in various places) shall be nationalized.
 
-### Provisions relating to the Council of Ministers:
+### 160. Provisions relating to the Council of Ministers:
 (1) The Council of Ministers existing at the time of commencement of this Constitution shall be deemed to have been constituted under this Constitution.
 
-- The Council of Ministers as referred to in Clause (1) shall exist until the Council of Ministers is constituted pursuant to Article 38.
+(2) The Council of Ministers as referred to in Clause (1) shall exist until the Council of Ministers is constituted pursuant to Article 38.
 
-### Provisions relating to the Legislature-Parliament:
-(1)The LegislatureParliament  as  referred  to  in  this  Constitution  shall  be  constituted  immediately after the promulgation of this Constitution.
+### 161. Provisions relating to the Legislature-Parliament:
+(1)The Legislature-Parliament as referred to in this Constitution shall be constituted immediately after the promulgation of this Constitution.
 
-- The House of Representatives and the National Assembly existing for  the  time  being  shall ipso  facto be  dissolved  on  the  promulgation  of  this Constitution; and the first meeting of the Legislature-Parliament as referred to in this Constitution shall be held on the same day.
+(2) The House of Representatives and the National Assembly existing for the time being shall ipso facto be dissolved on the promulgation of this Constitution; and the first meeting of the Legislature-Parliament as referred to in this Constitution shall be held on the same day.
 
-- The Bills pending in the House of Representatives at the time of the  promulgation  of  this  Constitution  shall  be  transferred  to  the  LegislatureParliament as referred to in this Constitution.
+(3) The Bills pending in the House of Representatives at the time of the promulgation of this Constitution shall be transferred to the Legislature-Parliament as referred to in this Constitution.
 
 > 122 Amended by the Third Amendment and further amended by the Fourth Amendment.
 
@@ -2538,19 +2616,19 @@ If any difficulty arises in connection with the implementation of this Constitut
 
 [[START OF PAGE 115]]
 
-- The Parliament Secretariat existing at the time of promulgation of this  Constitution  and  the  officials  and  employees  serving  in  that  Secretariat shall be deemed to be the Legislature-Parliament Secretariat and to have been appointed as officials and employees thereof under this Constitution.
+(4) The Parliament Secretariat existing at the time of promulgation of this Constitution and the officials and employees serving in that Secretariat shall be deemed to be the Legislature-Parliament Secretariat and to have been appointed as officials and employees thereof under this Constitution.
 
-### Provisions relating to Judiciary:
+### 162. Provisions relating to Judiciary:
 (1) The Supreme Court, Appellate Courts and  Districts  Courts  existing  at  the  time  of  the  commencement  of  this Constitution shall be deemed to have been established under this Constitution, and this Constitution shall not be deemed to bar the disposal by the respective Courts of the cases filed prior to the commencement of this Constitution.
 
-- The Judges serving in the Supreme Court, Appellate Courts and Districts  Courts  shall,  after  the  commencement  of  this  Constitution,  take  an oath  of  commitment  to  this  Constitution  in  such  form  as  determined  by  the Government of Nepal. Any Judge who refuses to take the oath shall ipso facto be relived of his or her office.
+(2) The Judges serving in the Supreme Court, Appellate Courts and Districts Courts shall, after the commencement of this Constitution, take an oath of commitment to this Constitution in such form as determined by the Government of Nepal. Any Judge who refuses to take the oath shall ipso facto be relived of his or her office.
 
-- Necessary  legal  provisions  shall  be  made  to  keep  on  making reforms  in  the  judicial  sector  based  on  democratic  values  and  norms  for  the independent, fair, impartial and competent Judiciary.
+(3) Necessary legal provisions shall be made to keep on making reforms in the judicial sector based on democratic values and norms for the independent, fair, impartial and competent Judiciary.
 
-### Provisions relating to Constitutional Bodies and, Officials thereof:
+### 163. Provisions relating to Constitutional Bodies and, Officials thereof:
 (1)  Out of the Constitutional Bodies and Officials thereof existing at the commencement of this Constitution, those Bodies and Officials which or who are not mentioned in this Constitution shall cease to exist after the commencement of this Constitution.
 
-- The Constitutional Bodies existing at the commencement of this Constitution shall be deemed to have been established under this Constitution; and this Constitution shall not be deemed to prevent from giving continuity to the issues pending in these Bodies pursuant to the laws in force. Necessary legal
+(2) The Constitutional Bodies existing at the commencement of this Constitution shall be deemed to have been established under this Constitution; and this Constitution shall not be deemed to prevent from giving continuity to the issues pending in these Bodies pursuant to the laws in force. Necessary legal
 
 [[END OF PAGE 115]]
 
@@ -2570,7 +2648,7 @@ Provided that, any law which is inconsistent with this Constitution shall ipso f
 
 ## DEFINITIONS
 
-### Definitions:
+### 165. Definitions:
 (1)  Unless  the  subject  or  the  context  otherwise  requires,  in  this Constitution:
 
 (a) "Article" means an Article of Constitution.
@@ -2583,7 +2661,7 @@ Provided that, any law which is inconsistent with this Constitution shall ipso f
 
 (e) "Remuneration" shall include salary, allowances, pension and any other forms of emoluments and facilities .
 
-- Unless the subject or the context otherwise requires, the prevailing  legal  provisions  on  the  interpretation  of  law  shall,  subject  to  the provisions of this Constitution, apply to the interpretation of this Constitution in the same manner as that law applies to the interpretation of the laws of Nepal.
+(2) Unless the subject or the context otherwise requires, the prevailing legal provisions on the interpretation of law shall, subject to the provisions of this Constitution, apply to the interpretation of this Constitution in the same manner as that law applies to the interpretation of the laws of Nepal.
 
 [[END OF PAGE 117]]
 
@@ -2592,7 +2670,7 @@ Provided that, any law which is inconsistent with this Constitution shall ipso f
 # PART 25
 ## SHORT TITLE, COMMENCEMENT AND REPEAL
 
-### Short  title  and  commencement:
+### 166. Short title and commencement:
 (1)  This  Constitution  may  be  called "Interim Constitution of Nepal, 2063(2007)". (2) This Constitution shall be promulgated by the House of Representatives and ratified by the Interim Legislature-Parliament. The details in relation to its implementation shall be as mentioned in Schedule-3. (3) The Comprehensive Peace Accord and the Agreement on Monitoring of the Management of Arms and Armies concluded between the Government of Nepal  and  CPN  (Maoist)  on  5  Mangsir  2063  (21  November  2006)  and  22 Mangsir 2063 (8 December 2006), respectively, are in Schedule-4. (4) This Constitution shall come into force on Monday, the first day of the month of Magha of the year 2063 Bikram Sambat (15 January 2007).
 ### 167. Repeal:
 The  Constitution  of  the  Kingdom  of  Nepal,  2047(1990)  is,  hereby, repealed.
@@ -2607,23 +2685,31 @@ The  Constitution  of  the  Kingdom  of  Nepal,  2047(1990)  is,  hereby, repeal
 ## NATIONAL FLAG
 ### (A) Method of making the shape inside the border
 
-- On the lower portion of a crimson cloth draw line AB of the required length from left to right.
+(1) On the lower portion of a crimson cloth draw line AB of the required length from left to right.
 
-- From A draw a line AC perpendicular to AB making AC equal to AB plus one third AB. From AC mark off D making line AD equal to line AB. Join B and D.
+(2) From A draw a line AC perpendicular to AB making AC equal to AB plus one third AB. From AC mark off D making line AD equal to line AB. Join B and D.
 
-- From BD mark off E making BE equal to AB.
+(3) From BD mark off E making BE equal to AB.
 
-- Touching E draw a line FG, starting from the point F on line AC, parallel to AB to the right hand-side. Mark off  FG equal to AB.
+(4) Touching E draw a line FG, starting from the point F on line AC, parallel to AB to the right hand-side. Mark off FG equal to AB.
 
-- Join C and G.
+(5) Join C and G.
 
 ### (B) Method of making the moon
 
-- From AB mark off AH making AH equal to one fourth of line AB and starting from H draw a line HI parallel to line AC touching line CG at
+(6) From AB mark off AH making AH equal to one fourth of line AB and starting from H draw a line HI parallel to line AC touching line CG at point I.
 
-- point I. (7) Bisect CF at J and draw a line JK parallel to AB touching CG at point K. (8) Let L be the point where lines JK and HI cut one another. (9) Join J and G. (10) Let M be the point where line JG and HI cut one another. (11) With centre, M and with a distance shortest from M to BD mark off N on the lower portion of line HI. r
+(7) Bisect CF at J and draw a line JK parallel to AB touching CG at point K.
 
-- Touching M and starting f om 0, a point on AC, draw a line from left to
+(8) Let L be the point where lines JK and HI cut one another.
+
+(9) Join J and G.
+
+(10) Let M be the point where line JG and HI cut one another.
+
+(11) With centre, M and with a distance shortest from M to BD mark off N on the lower portion of line HI.
+
+(12) Touching M and starting from O, a point on AC, draw a line from left to
 
 [[END OF PAGE 119]]
 
@@ -2631,31 +2717,31 @@ The  Constitution  of  the  Kingdom  of  Nepal,  2047(1990)  is,  hereby, repeal
 
 right parallel to AB,
 
-- With centre L and radius LN draw a semi-circle on the lower portion and let P and Q be the points where it touches the line OM respectively.
+(13) With centre L and radius LN draw a semi-circle on the lower portion and let P and Q be the points where it touches the line OM respectively.
 
-- With centre M and radius MQ draw a semi-circle on the lower portion touching P and Q.
+(14) With centre M and radius MQ draw a semi-circle on the lower portion touching P and Q.
 
-- With centre  N  and  radius  NM  draw  an  arc  touching  PNQ  at  R  and  S. Join RS. Let T be the point where RS and HI cut one another.
+(15) With centre N and radius NM draw an arc touching PNQ at R and S. Join RS. Let T be the point where RS and HI cut one another.
 
-- With centre T and radius TS draw a semi-circle on the upper portion of PNQ touching it at two points.
+(16) With centre T and radius TS draw a semi-circle on the upper portion of PNQ touching it at two points.
 
-- With centre T and radius TM draw an arc on the upper portion of PNQ touching at two points.
+(17) With centre T and radius TM draw an arc on the upper portion of PNQ touching at two points.
 
-- Eight equal and similar triangles of the moon are to be made in the space lying inside the semicircle of No. (16) and outside the arc of No. (17) of this Schedule.
+(18) Eight equal and similar triangles of the moon are to be made in the space lying inside the semicircle of No. (16) and outside the arc of No. (17) of this Schedule.
 
 ### (c) Method of making the sun
 
-- Bisect line AF at U, and draw a line UV parallel to AB line touching line BE at V.
+(19) Bisect line AF at U, and draw a line UV parallel to AB line touching line BE at V.
 
-- With centre W, the point where HI and UV cut one another and radius MN draw a circle.
+(20) With centre W, the point where HI and UV cut one another and radius MN draw a circle.
 
-- With centre W and radius LN draw a circle.
+(21) With centre W and radius LN draw a circle.
 
-- Twelve equal and similar triangles of the sun are to be made in the space enclosed by the circles of No. (20) and of No. (21) with the two apexes of two triangles touching line HI.
+(22) Twelve equal and similar triangles of the sun are to be made in the space enclosed by the circles of No. (20) and of No. (21) with the two apexes of two triangles touching line HI.
 
 ### (D) Method of making the border.
 
-- The width of the border will be equal to the width TN. This will be of
+(23) The width of the border will be equal to the width TN. This will be of
 
 [[END OF PAGE 120]]
 
@@ -2663,7 +2749,7 @@ right parallel to AB,
 
 deep blue color and will be provided on all the side of the flag. However, on the five angles of the flag the external angles be equal to the internal angles.
 
-- The above mentioned border will be provided if the flag is to be used with a rope. On the other hand, if it is to be hoisted on a pole, the hole on the border on the side AC can be extended according to requirements.
+(24) The above mentioned border will be provided if the flag is to be used with a rope. On the other hand, if it is to be hoisted on a pole, the hole on the border on the side AC can be extended according to requirements.
 
 Explanation: The lines HI, RS, FE, ED, JG, OQ, JK and UV are imaginary. Similarly, the external and internal circles of the sun and the other arcs except the crescent moon are also imaginary. These are not shown on the flag.
 
@@ -2691,11 +2777,9 @@ Date
 
 [[START OF PAGE 123]]
 
-125
-
-Deleted by the Fifth Amendment.
-
 # Schedule-2 125
+
+> 125 Deleted by the Fifth Amendment.
 
 [[END OF PAGE 123]]
 
@@ -2711,19 +2795,23 @@ After the commencement of the management and monitoring of arms pursuant to the 
 
 [[START OF PAGE 125]]
 
-### Preamble
-
-Respecting the people's mandate expressed in favour of democracy, peace and progression through the historical struggles and people's movements launched
-
-by the people of Nepal at various times since before 2007 (1951) till now; Reaffirming  the  full  commitment  to  the  Twelve-point  Understanding,  Eightpoint  Agreement and  Twenty-five-point  Code  of  Conduct  concluded  between the Seven Political Parties and CPN (Maoist), Decisions of the Meeting of Top Leaders of Seven Political Parties and CPN (Maoist) held on 22 Kartik 2063 (8 November  2006)  including  all  agreements, understandings and codes  of conduct entered into between the Government of Nepal and CPN (Maoist) and the letter carrying similar perceptions sent to the United Nations; Pledging  to  accomplish  the  progressive  restructuring  of  the  State  in  order  to solve  the  existing  problems  of the  country  relating  to  class,  caste,  region  and gender; Reiterating the full commitment to competitive multi-party democratic system of governance, civil liberties, fundamental rights, human rights, full freedom of press, and concept of rule of law including democratic values and norms;
-
-Remaining  committed  to  the  Universal  Declaration  of  Human  Rights,  1948,
-
 # Schedule-4
 
 (Relating to clause (3) of Article 166)
 
 ## The Comprehensive Peace Accord concluded between the Government of Nepal and Communist Party of Nepal (Maoist)
+
+### Preamble
+
+Respecting the people's mandate expressed in favour of democracy, peace and progression through the historical struggles and people's movements launched by the people of Nepal at various times since before 2007 (1951) till now;
+
+Reaffirming the full commitment to the Twelve-point Understanding, Eight-point Agreement and Twenty-five-point Code of Conduct concluded between the Seven Political Parties and CPN (Maoist), Decisions of the Meeting of Top Leaders of Seven Political Parties and CPN (Maoist) held on 22 Kartik 2063 (8 November 2006) including all agreements, understandings and codes of conduct entered into between the Government of Nepal and CPN (Maoist) and the letter carrying similar perceptions sent to the United Nations;
+
+Pledging to accomplish the progressive restructuring of the State in order to solve the existing problems of the country relating to class, caste, region and gender;
+
+Reiterating the full commitment to competitive multi-party democratic system of governance, civil liberties, fundamental rights, human rights, full freedom of press, and concept of rule of law including democratic values and norms;
+
+Remaining committed to the Universal Declaration of Human Rights, 1948,
 
 [[END OF PAGE 125]]
 
@@ -2755,7 +2843,7 @@ This Comprehensive Peace Accord has been concluded between the Government of Nep
 
 control for the immediate implementation of, and compliance with, this Agreement, and shall implement it, and cause it to be implemented.
 
-- 1.4 All  the  agreements,  understandings,  codes  o  conduct  and  decisions reached  between  the  Seven'  Political  Parties,  the  Government  and  the Maoist sides that are attached in the Annex shall also be considered to be an integral part of this Agreement.
+- 1.4 All  the  agreements,  understandings,  codes  of  conduct  and  decisions reached  between  the  Seven  Political  Parties,  the  Government  and  the Maoist sides that are attached in the Annex shall also be considered to be an integral part of this Agreement.
 
 - 1.5. Such understandings and agreements as may be required to be reached hereafter  for  the  implementation  of  this  Agreement  shall  also  be considered to be an integral part of this Agreement.
 
@@ -2769,7 +2857,7 @@ Unless the subject or the context otherwise requires, in this Agreement,­
 
 (c) "Interim  Council  of  Ministers"  shall  mean  the  Interim  Council  of Ministers to be constituted pursuant to the Interim Constitution.
 
-(d) "Both parties" shall mean the party of the Government of · Nepal and the party of Communist Party of Nepal (Maoist).
+(d) "Both parties" shall mean the party of the Government of Nepal and the party of Communist Party of Nepal (Maoist).
 
 (e) "Laws  in  force"  shall  mean  the  Interim  Constitution  of  Nepal,  2063 (2007)  and  Nepal  laws  in  force  that  are  not  inconsistent  with  it. Provided that this definition shall not affect the legal provisions existed
 
@@ -2789,7 +2877,7 @@ Both  parties  agree  to  adopt  the  following  policies  and  programs  for  t
 
 - 3.2. To  constitute  the  Interim  Legislature-Parliament  based  on  the  Interim Constitution;  and  the  Interim  Government  is  to  hold  election  to  the Constituent Assembly freely and fairly no later than the month of Jestha of the year 2064 (mid-June 2007); and to guarantee sovereignty inherent in the people of Nepal.
 
-- 3.3 The King shall have no power relating to the governance of the country. The  properties  of  the  late  King  Birendra,  late  Queen  Aishwarya  and their  families  are  to  be  brought  under  control  of  the  Government  of Nepal and held in a trust, to be used for the interests of the nation. All properties acquired by King Gyanendra in capacity of the King (such as palaces,  forest  parks  and  heritages  of  historical  and  archaeological importance situated in various places) are to  be nationalized. The first meeting of the Constituent Assembly is to decide, by t simple majority, whether the institution of monarchy is to be retained or not.
+- 3.3 The King shall have no power relating to the governance of the country. The  properties  of  the  late  King  Birendra,  late  Queen  Aishwarya  and their  families  are  to  be  brought  under  control  of  the  Government  of Nepal and held in a trust, to be used for the interests of the nation. All properties acquired by King Gyanendra in capacity of the King (such as palaces,  forest  parks  and  heritages  of  historical  and  archaeological importance situated in various places) are to  be nationalized. The first meeting of the Constituent Assembly is to decide, by a simple majority, whether the institution of monarchy is to be retained or not.
 
 - 3.4 To  adopt  a  political  system  which  is  in  full  compliance  with  the universally accepted basic human rights, competitive multi-party
 
@@ -2797,7 +2885,7 @@ Both  parties  agree  to  adopt  the  following  policies  and  programs  for  t
 
 [[START OF PAGE 129]]
 
-democratic system, sovereignty inherent in the people and supremacy of the people, constitutional checks and balances, rule of law, social justice equality, independent  judiciary  periodic  elections,  monitoring  by the civil society,  complete  press  freedom,  right  of  the  people  to information, transparency and accountability in the activities of political parties, public participation and concepts of impartial, efficient and fair bureaucracy,  and  maintain  good  governance  while  putting  an  end  to corruption and impunity.
+democratic system, sovereignty inherent in the people and supremacy of the people, constitutional checks and balances, rule of law, social justice, equality, independent  judiciary,  periodic  elections,  monitoring  by the civil society,  complete  press  freedom,  right  of  the  people  to information, transparency and accountability in the activities of political parties, public participation and concepts of impartial, efficient and fair bureaucracy,  and  maintain  good  governance  while  putting  an  end  to corruption and impunity.
 
 - 3.5 To end the existing centralized and unitary structure of the State so as to address  the  problems  including  those  of  women, Dalit ,  indigenous peoples, Madhesi, oppressed,  excluded  and  minority communities  and backward regions, and  make  an  inclusive,  democratic  and  progressive restructuring  of  the  State,  while  at  the  same  time  doing  away  with discriminations based on class, caste, language, gender, culture, religion and region.
 
@@ -2819,7 +2907,7 @@ democratic system, sovereignty inherent in the people and supremacy of the peopl
 
 - 3.12 To build a common development concept for socio-economic transformation  of  the  country  and  justice,  and  making  the  country prosperous and economically sound rapidly.
 
-- 3.13 To pursue a policy of extensively increasing, income-generating opportunities by increasing investment in industry, trade, export promotion etc., while at the same time ensuring the professional ,rights of labors.
+- 3.13 To pursue a policy of extensively increasing, income-generating opportunities by increasing investment in industry, trade, export promotion etc., while at the same time ensuring the professional rights of labors.
 
 ### 4. Management of armies and arms:
 
@@ -2839,7 +2927,7 @@ Three satellite cantonments shall be placed in the periphery of each of
 
 [[START OF PAGE 131]]
 
-- these main cantonments.
+these main cantonments.
 
 - 4.2 After  confining  the  Maoist  army  combatants  in  the  cantonments,  all arms, other than the arms and ammunitions required for the security of the cantonments, are to be securely stored within the cantonments, to be sealed with a single-lock, and the concerned party is to hold the key. In the process of installing the lock, to assemble a device including a siren and register for  the  monitoring  by the United Nations.  While carrying out the necessary examination of the stored arms, the United Nations is to  do  so  under  the  presence  of  the  concerned  party.  Other  detailed technical specifications in this respect including camera monitoring are to be prepared with the consent of the United Nations, the CPN (Maoist) and the Government of Nepal.
 
@@ -2859,7 +2947,7 @@ Three satellite cantonments shall be placed in the periphery of each of
 
 the United Nations. While carrying out the necessary examination of the stored  arms,  the  United  Nations  is  to  do  so  under  the  presence  of  the concerned  party.  Other  detailed  technical  specifications  in  this  respect including camera monitoring are to be prepared with the consent of the United Nations, the Government of Nepal and the CPN (Maoist).
 
-- 4.7 The Council of Ministers shall control, mobilize and manage the Nepal Army as per the new Army Am The Interim Council of Ministers is to prepare and implement the detailed action plan for the democratization of the Nepal Army,  with political understanding and by taking suggestions  from  the  concerned  committee  of  the  Interim  Parliament Under this, to carry out activities like to assess the appropriate number of  the  Nepal  Army,  to  train  the  army  in  democratic  and  human  rights values,  while  developing  democratic  stricture,  national  and  inclusive character.
+- 4.7 The Council of Ministers shall control, mobilize and manage the Nepal Army as per the new Army Act. The Interim Council of Ministers is to prepare and implement the detailed action plan for the democratization of the Nepal Army,  with political understanding and by taking suggestions  from  the  concerned  committee  of  the  Interim  Parliament. Under this, to carry out activities like to assess the appropriate number of  the  Nepal  Army,  to  train  the  army  in  democratic  and  human  rights values,  while  developing  democratic  structure,  national  and  inclusive character.
 
 - 4.8 The Nepal Army is to continue to perform functions including border security,  security  of  the  conservation  areas,  protected  areas,  banks, airports, power  houses, telephone towers, central secretariats and security of VIPs.
 
@@ -2895,9 +2983,9 @@ parties;
 
 (i) Conducting military espionage against each other.
 
-- 5.1.2	  Both parties shall not  recruit additional armed forces or conduct military activities against each other, including transporting weapons ammunitions and explosives.
+- 5.1.2	  Both parties shall not  recruit additional armed forces or conduct military activities against each other, including transporting weapons, ammunitions and explosives.
 
-Provided that the security forces deployed by the Interim Government  shall have authority to conduct routine patrol, explore  in order prevent  illegal trafficking  of  the  weapons, explosives  or  raw  materials  used  in  assembling  weapons  at  the international border and custom, points and seize them.
+Provided that the security forces deployed by the Interim Government  shall have authority to conduct routine patrol, explore  in order to prevent  illegal trafficking  of  the  weapons, explosives  or  raw  materials  used  in  assembling  weapons  at  the international border and custom points and seize them.
 
 - 5.1.3	  No person or group shall move carrying illegal arms, ammunitions and explosives.
 
@@ -2931,7 +3019,7 @@ Provided that the security forces deployed by the Interim Government  shall have
 
 rehabilitation works for the people victimized from and displaced as a result of the war/conflict, while normalizing the adverse situation emerged from the armed conflict.
 
-- 5.2.5 Both  parties  agree  to  constitute,  with  mutual  understanding,  a high  level  truth  and  reconciliation  commission  for  finding  out the  truth  about  those  who  committed  the  gross  violation  of human rights and were involved in the crime against humanity in the course of armed conflict and for creating an environment of reconciliation in the society.
+- 5.2.5 Both  parties  agree  to  constitute,  with  mutual  understanding,  a high  level  truth  and  reconciliation  commission  for  finding  out the  truth  about  those  who  committed  gross  violation  of human rights and were involved in the crime against humanity in the course of armed conflict and for creating an environment of reconciliation in the society.
 
 - 5.2.6. Both parties pledge to abandon all types of war, attack, counter­ attack,  violence  and  counter-violence  existing  in  the  country, with a commitment to ensure democracy, peace and progressive transformation  in  the  Nepalese  society.  It  is  also  agreed  that both  parties  shall  assist  each  other  in  establishing  peace  and maintaining peace and security.
 
@@ -2949,9 +3037,9 @@ society  and  local  institutions,  any  problems  arising  in  the  said contex
 
 - 5.2.10 Both parties express commitment not to make any discrimination against nor to exert any kind of pressure on any member  of  the  family  on  the  ground  that  such  member  is affiliated with other party.
 
-- 5.2.11 Both  parties  agree  to  let  employees  of  the  Government  of  the Nepal  and  public  agencies  travel  freely  to  any  part  of  the country, to fulfill their duties and not to create any obstacles or obstruction while executing their work or not to let obstruction to arise and to facilitate their work.
+- 5.2.11 Both  parties  agree  to  let  employees  of  the  Government  of Nepal  and  public  agencies  travel  freely  to  any  part  of  the country, to fulfill their duties and not to create any obstacles or obstruction while executing their work or not to let obstruction to arise and to facilitate their work.
 
-- 5.2.12  Both  parties	 agree  to  allow  the  United  Nations,  international donors agencies and diplomatic missions based in Nepal, national or international non-governmental organizations, press, human rights activists, election observers and foreign tourists to travel unrestricted in the State of Nepal in accordance with law.
+- 5.2.12  Both  parties	 agree  to  allow  the  United  Nations,  international donor agencies and diplomatic missions based in Nepal, national or international non-governmental organizations, press, human rights activists, election observers and foreign tourists to travel unrestricted in the State of Nepal in accordance with law.
 
 - 5.2.13 Both parties are committed to operate publicity programs in a decent and respectable manner.
 
@@ -2965,19 +3053,19 @@ society  and  local  institutions,  any  problems  arising  in  the  said contex
 
 [[START OF PAGE 137]]
 
-- Parties and  CPN (Maoist) held on 22 Kartik 2063 (8 November 2006) shall be the main policy basis for long-term peace.
+Parties and  CPN (Maoist) held on 22 Kartik 2063 (8 November 2006) shall be the main policy basis for long-term peace.
 
 - 6.3 After the confinement of the Nepal Army in the barracks and the Maoist Army combatants in the cantonments, holding, displaying the arms, intimidation and any type of use of violence and arms, in  contravention  of  the  understanding,  agreement  and  law,  shall be legally punishable.
 
 - 6.4 Armies  of  both  parties  shall  not  be  allowed  to  canvass,  and  be engaged in, for or against any side. Provided that they shall not be deprived of the right to vote.
 
-### 7. Observance of human rights, fundamental rights al humanitarian law:
+### 7. Observance of human rights, fundamental rights and humanitarian law:
 
 Remaining  committed  to  the  Universal  Declaration  of  Human  rights,  1948, international  humanitarian  law  and  basic  principles  and  values  relating  to human rights, both parties express their consent to the following matters:
 
 #### 7.1 Human rights:
 
-- 7.1.1 Both parties reiterate their commitment to the respect for and protection  of  human  rights  and  to  international  humanitarian law, and accept that no person shall be discriminated against on  the  ground  of  color,  sex,  language,  religion,  age,  race, national  or  social  origin,  wealth  disability,  birth  and  other status, opinion or belief.
+- 7.1.1 Both parties reiterate their commitment to the respect for and protection  of  human  rights  and  to  international  humanitarian law, and accept that no person shall be discriminated against on  the  ground  of  color,  sex,  language,  religion,  age,  race, national  or  social  origin,  wealth, disability,  birth  and  other status, opinion or belief.
 
 - 7.1.2 Both parties agree to create an environment where the Nepalese  people  can  enjoy  their  civil,  political,  economic, social and cultural rights, and are committed to make such an environment that such rights are not violated in any circumstances in the future.
 
@@ -2995,7 +3083,7 @@ law, impartial investigation shall be carried out in respect of, and  action  ta
 
 #### 7.2 Right to life:
 
-- 7.2.1 Both  parties  shall  respect  and  protect  the  .basic  right  of  a person to life. No person shall be deprived of this basic right; and  no  law  shall  be  made  which  provides  for  the  death penalty.
+- 7.2.1 Both  parties  shall  respect  and  protect  the  basic  right  of  a person to life. No person shall be deprived of this basic right; and  no  law  shall  be  made  which  provides  for  the  death penalty.
 
 #### 7.3 Personal dignity, freedom and movement:
 
@@ -3009,11 +3097,11 @@ law, impartial investigation shall be carried out in respect of, and  action  ta
 
 person nor shall kidnap, or take any person in hostage.  Both parties  agree  to  make  public  the  status  of  the  persons  who have  been  disappeared  and  held  in  captivity  by  them  and provide  information  in  this  respect  to  their  families,  legal advisers and other authorized persons.
 
-- 7.3.3 Both parties shall respect and protect the right of every citizen to  free  movement  and  freedom  to  choose  one's  place  of, residence  in  accordance  with  legal  norms,  and  express  the commitment to  respect  the  right  of  the  persons  displaced  by the conflict and their families to return back to their homes or to settle in any other place of their choice.
+- 7.3.3 Both parties shall respect and protect the right of every citizen to  free  movement  and  freedom  to  choose  one's  place  of residence  in  accordance  with  legal  norms,  and  express  the commitment to  respect  the  right  of  the  persons  displaced  by the conflict and their families to return back to their homes or to settle in any other place of their choice.
 
 #### 7.4 Civil and political rights:
 
-- 7.4.1 Both parties are committed to respect and, protect the freedom of  every  person  to  opinion,  expression,  form  unions  anorganizations  and  assemble  peaceably and  the  right  of  every person against exploitation.
+- 7.4.1 Both parties are committed to respect and protect the freedom of  every  person  to  opinion,  expression,  form  unions  and organizations  and  assemble  peaceably and  the  right  of  every person against exploitation.
 
 - 7.4.2 Both  parties  respect  the  right  of  every  citizen  to  take  part directly or through representative of his or her choice in issues of  public  concern,  to  vote,  to  be  elected  and  to  equality  in admission to public services.
 
@@ -3029,7 +3117,7 @@ person nor shall kidnap, or take any person in hostage.  Both parties  agree  to
 
 [[START OF PAGE 140]]
 
-of all people to food security and ensure that there shall be no interference  in  the  use,  transport  and  distribution  of  food items, food production and food grains.
+of all people to food security and ensure that there shall be no interference  in  the  use,  transport  and  distribution  of  food items, food production and foodgrains.
 
 - 7.5.3 Both parties realize the fact that the  right  of  every citizen  to health must be respected and protected. Both parties shall not hinder drug supplies and aid and health related campaigns, and express commitment to do medical treatment and have rehabilitation of  those  who  are  injured  in  the  course  of conflicts.
 
@@ -3069,7 +3157,7 @@ of all people to food security and ensure that there shall be no interference  i
 
 Both parties agree to make the following arrangements for the implementation  and  monitoring  of  the  agreements  mentioned  in  this Agreement:
 
-- 9.1 Both parties agree to give continuity to the monitoring of the human rights  related  provisions  contained  in  this  Agreement by  the  United  Nations  Office  of  the  High  Commissioner Human Rights, Nepal.
+- 9.1 Both parties agree to give continuity to the monitoring of the human rights  related  provisions  contained  in  this  Agreement by  the  United  Nations  Office  of  the  High  Commissioner for Human Rights, Nepal.
 
 - 9.2 Both parties agree to have the management of arms and armies monitored by the United Nations Mission in Nepal in accordance  with  the  five-point  letter  sent  previously  and  the provisions contained in this Agreement  and  express the commitment to render assistance in this respect.
 
@@ -3109,21 +3197,9 @@ provisions  to  be  made  by  such  an  amendment  shall  not  fall below the mi
 
 [[START OF PAGE 145]]
 
-10.8
+democratic  Nepal  and  establishing  sustainable  peace  through the election to the Constituent Assembly, by ending the armed conflicts.
 
-democratic  Nepal  and  establishing  sustainable  peace  through
-
-the election to the Constituent Assembly, by ending the armed
-
-conflicts.
-
-We heartily urge all friendly countries and the United Nations
-
-as  well  as  the  international  community  to  extend  support  to
-
-Nepal  in  this  campaign  of  establishing  absolute  democracy
-
-and sustainable peace.
+- 10.8 We heartily urge all friendly countries and the United Nations as  well  as  the  international  community  to  extend  support  to Nepal  in  this  campaign  of  establishing  absolute  democracy and sustainable peace.
 
 In realization of the responsibility towards the future of the country and
 
@@ -3135,27 +3211,23 @@ Party  of  Nepal  (Maoist),  sign  this  Comprehensive  Peace  Accord  and
 
 hereby make it public.
 
-Sd.
+Sd.	 Sd.
 
-Prachnda
+Prachnda	 Girija Prasad Koirala
 
-Chairman
+Chairman	 Prime Minister
 
-Communist Party of Nepal (Maoist)
-
-Sd.
-
-Girija Prasad Koirala
-
-Prime Minister
-
-Government of Nepal
+Communist Party of Nepal (Maoist)	 Government of Nepal
 
 Date of signature: 2063.8.5 (21 November 2006)
 
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
+
+## Agreement on Monitoring of the Management of Arms and Armies
+
+8 December 2006
 
 ### Preamble
 
@@ -3169,10 +3241,6 @@ Affirming the will to fully observe the terms of this bilateral agreement witnes
 
 The parties agree to seek UN assistance in monitoring the management of the arms and armies of both sides by the deployment of qualified UN civilian personnel to monitor, according  to  international  norms,  the  confinement  of  Maoist  army  combatants  and their weapons within designated cantonment areas and monitor the Nepal Army (NA) to ensure that it remains in its barracks and its weapons are not used against any side.
 
-## Agreement on Monitoring of the Management of Arms and Armies
-
-8 December 2006
-
 [[END OF PAGE 146]]
 
 [[START OF PAGE 147]]
@@ -3181,13 +3249,13 @@ The parties agree to seek UN assistance in monitoring the management of the arms
 
 #### 1.1 Principles
 
-Neither  of  the  parties  shall  engage  in  movement  or  redeployment  of forces resulting in . tactical or strategic advantage.
+Neither  of  the  parties  shall  engage  in  movement  or  redeployment  of forces resulting in tactical or strategic advantage.
 
 Any  claims  or  reports  of  violations  of  this  agreement  will  be reported to UN  monitors, substantiated or not substantiated, and subsequently reported to the parties through the appropriate representative of the UN Mission in Nepal.
 
 The  security  forces  deployed  by  the  interim  government  shall  have authority  to  conduct  routine  patrol,  explore  in  order  to  prevent  illegal trafficking of the weapons, explosives or raw materials used in assembling  weapons  at  the  international  border  or  custom  points  and seize them.
 
-Both  parties  agree  to  allow  the  United  Nations,  international  donor agencies and diplomatic mission based in Nepal, national and international non-governmental organizations, press, human rights activists,  election  observers  and  foreign  tourists  to  travel  unrestricted according to law in the state of Nepal. The parties will ensure the safety, security  freedom  of  movement  and  well-being  of  UN  Mission  and associated personnel, goods and services in all parts of Nepal.
+Both  parties  agree  to  allow  the  United  Nations,  international  donor agencies and diplomatic missions based in Nepal, national and international non-governmental organizations, press, human rights activists,  election  observers  and  foreign  tourists  to  travel  unrestricted according to law in the state of Nepal. The parties will ensure the safety, security, freedom  of  movement  and  well-being  of  UN  Mission  and associated personnel, goods and services in all parts of Nepal.
 
 The parties shall immediately take all necessary measures to cooperate with  efforts  aimed  at  controlling  illicit  trafficking  of  arms  and  the infiltration of armed groups.
 
@@ -3201,17 +3269,17 @@ Both parties fully agree to not include or use children who are 18 years old  an
 
 The following definitions are accepted:
 
-- Cantonment  (Maoist  army)  is a  temporarily  designated  and  clearly defined geographical area for encampment and provision of services for the Maoist combatant units including weapons, ammunition and equipment. The cantonments are provided for all echelons of the Maoist army.
+- (1) Cantonment  (Maoist  army)  is a  temporarily  designated  and  clearly defined geographical area for encampment and provision of services for the Maoist combatant units including weapons, ammunition and equipment. The cantonments are provided for all echelons of the Maoist army.
 
-- Barracking (NA) is the  deployment of  Nepal  Army units  to  barracks, including  weapons,  ammunition  and  equipment.  No  units  below  a company  level  will  be  independently  deployed  unless  for  activities specified elsewhere in this agreement or otherwise mutually agreed by the parties.
+- (2) Barracking (NA) is the  deployment of  Nepal  Army units  to  barracks, including  weapons,  ammunition  and  equipment.  No  units  below  a company  level  will  be  independently  deployed  unless  for  activities specified elsewhere in this agreement or otherwise mutually agreed by the parties.
 
-- Secure  arms  storage  areas are  either  military  barracks  with  regular armoury stores used for storage of weapons, munitions and explosives, or  storage  containers  established  in  special  perimeters  at  cantonment sites controlled and guarded by the responsible unit.
+- (3) Secure  arms  storage  areas are  either  military  barracks  with  regular armoury stores used for storage of weapons, munitions and explosives, or  storage  containers  established  in  special  perimeters  at  cantonment sites controlled and guarded by the responsible unit.
 
-"The parties" refers to the party of Government of Nepal (including the Nepal Army) and the party of the Communist Party of Nepal (Maoist), (including the Maoist Army).
+- (4) "The parties" refers to the party of Government of Nepal (including the Nepal Army) and the party of the Communist Party of Nepal (Maoist), (including the Maoist Army).
 
-- UN Monitoring refers  to  all  efforts  by  the  United  Nations  Mission  to determine  relative compliance  with  the  terms  spelled out in this agreement  and  to  report  to  all  the  parties  and  others  concerned  its findings.
+- (5) UN Monitoring refers  to  all  efforts  by  the  United  Nations  Mission  to determine  relative compliance  with  the  terms  spelled out in this agreement  and  to  report  to  all  the  parties  and  others  concerned  its findings.
 
-- The Joint Monitoring Coordination Committee (JMCC) is the monitoring,  reporting  and  coordinating  body  chaired  by  the  UN,  with membership  of  the  parties.  The  JMCC  is  responsible  for  supervising compliance  by  the  parties  with  this  agreement  in  accordance  with
+- (6) The Joint Monitoring Coordination Committee (JMCC) is the monitoring,  reporting  and  coordinating  body  chaired  by  the  UN,  with membership  of  the  parties.  The  JMCC  is  responsible  for  supervising compliance  by  the  parties  with  this  agreement  in  accordance  with
 
 [[END OF PAGE 148]]
 
@@ -3219,9 +3287,9 @@ The following definitions are accepted:
 
 provision 6.1 of this agreement.
 
-- Joint  Monitoring  Teams (JMTs)  are  the  bodies  which  will  assist  in monitoring the cessation of hostilities. The Joint Monitoring Teams will be active at the regional and local level and in mobile teams. Each team will  be  comprised  of  one  UN  monitor  serving  as  team  leader,  one monitor  from  Nepal  Army  and  one  monitor  from  the  Maoist  Army. Joint Monitoring Teams will not be used for weapons storage inspections.  Inspections  at  Maoist  army  cantonments  will  take  place with  a  UN  monitoring  team  and  a  representative  of  the  Maoist  army. Inspections at Nepal  Army  barracks  will take  place  with  a  UN monitoring team and a Nepal Army representative.
+- (7) Joint  Monitoring  Teams (JMTs)  are  the  bodies  which  will  assist  in monitoring the cessation of hostilities. The Joint Monitoring Teams will be active at the regional and local level and in mobile teams. Each team will  be  comprised  of  one  UN  monitor  serving  as  team  leader,  one monitor  from  Nepal  Army  and  one  monitor  from  the  Maoist  Army. Joint Monitoring Teams will not be used for weapons storage inspections.  Inspections  at  Maoist  army  cantonments  will  take  place with  a  UN  monitoring  team  and  a  representative  of  the  Maoist  army. Inspections at Nepal  Army  barracks  will take  place  with  a  UN monitoring team and a Nepal Army representative.
 
-- Maoist army combatants: For purposes of agreement this will include regular  active  duty  members  of  the  Maoist  army  who  joined  service before  25  May  2006,  who  are  not  minors  and  who  are  able  to demonstrate their service, including by CPN (M) identity card and other means agreed by the parties.
+- (8) Maoist army combatants: For purposes of agreement this will include regular  active  duty  members  of  the  Maoist  army  who  joined  service before  25  May  2006,  who  are  not  minors  and  who  are  able  to demonstrate their service, including by CPN (M) identity card and other means agreed by the parties.
 
 #### 1.3 Promotion
 
@@ -3237,29 +3305,29 @@ The parties, Government of Nepal, Nepal Army (NA), CPN (M) and the Maoist army, 
 
 This  agreement  shall  come  into  force  upon  signing.  Thereafter  it  shall  be implemented in phases, as follows:
 
-- Reporting and verification;
+- (1) Reporting and verification;
 
-- Redeployment and concentration of forces;
+- (2) Redeployment and concentration of forces;
 
-- Maoist army cantonment, NA barracking and arms control; and,
+- (3) Maoist army cantonment, NA barracking and arms control; and,
 
-- Full compliance with the agreement.
+- (4) Full compliance with the agreement.
 
 A full and practical timeline will be established by the parties for all of these activities to take place in consultation with the UN.
 
 ### 2. Reporting and verification
 
-I  he  parties  will  report  detailed  information  about  their  troops  and  this information  will  be  treated  with  appropriate  confidentiality  by  the  United Nations. The parties will provide maps and sketches showing current dispositions, including:
+The  parties  will  report  detailed  information  about  their  troops  and  this information  will  be  treated  with  appropriate  confidentiality  by  the  United Nations. The parties will provide maps and sketches showing current dispositions, including:
 
-- Order of battle/military structure, organization, deployment and number of troops;
+- (1) Order of battle/military structure, organization, deployment and number of troops;
 
-- Minefields, landmines, unexploded ordnance, standard explosives, improvised explosive devices and exact location of such items;
+- (2) Minefields, landmines, unexploded ordnance, standard explosives, improvised explosive devices and exact location of such items;
 
-- All necessary information about roads, tracks, trails and passages related to encampments;
+- (3) All necessary information about roads, tracks, trails and passages related to encampments;
 
-- Information regarding armed or unarmed groups working along with the parties,  the  Nepal  Army  (NA)  and  the  Maoist  army,  including  their responsibilities and,
+- (4) Information regarding armed or unarmed groups working along with the parties,  the  Nepal  Army  (NA)  and  the  Maoist  army,  including  their responsibilities and,
 
-- Other  information  required  by  the  UN  for  proper  monitoring  of  the disposition of arms and armies.
+- (5) Other  information  required  by  the  UN  for  proper  monitoring  of  the disposition of arms and armies.
 
 [[END OF PAGE 150]]
 
@@ -3271,7 +3339,7 @@ The UN Mission shall check this information immediately after  monitors are depl
 
 Comprehensive plans, timelines and routes for the redeployment and concentration of forces will be provided by both the NA and Maoist army to the UN Mission.
 
-The redeployment and concentration of all combatants in Nepal -- with the NA in  barracks  and  the  Maoist  army  moving  in  to  cantonment  sites  -shall  be carried out in consultation with the UN. The redeployment and cantonment of forces will be monitored by UN the monitors after they are deployed.
+The redeployment and concentration of all combatants in Nepal -- with the NA in barracks and the Maoist army moving in to cantonment sites -- shall be carried out in consultation with the UN. The redeployment and cantonment of forces will be monitored by UN the monitors after they are deployed.
 
 Both sides express an understanding to create a record of government, public and private buildings, land and other properties and return them immediately.
 
@@ -3367,13 +3435,13 @@ The  UN  Mission  shall  monitor  these  commitments  with  a  full-time presenc
 
 ##### 4.1.3	  Registration of Maoist army combatants at cantonment sites
 
-All Maoist army combatants will registered at the main cantonment sites. This registration will include the provision of age, name, rank, responsibilities within unit/formation, date of entry into service and will provide  the  basis  for  a  complete  list  of  personnel.  Maoist  combatants will be registered regardless if they are in condition of weapon will be specified. The total number of weapons will be categorized by unit/formation. Only those individuals who were members of the Maoist army before 25 May 2006 will eligible for cantonment. The parties will agree as to how  this pre-existing service is to be confirmed in consultation with the UN.
+All Maoist army combatants will registered at the main cantonment sites. This registration will include the provision of age, name, rank, responsibilities within unit/formation, date of entry into service and will provide the basis for a complete list of personnel. Maoist combatants will be registered regardless if they are in possession of a weapon. The type and condition of weapon will be specified. The total number of weapons will be categorized by unit/formation. Only those individuals who were members of the Maoist army before 25 May 2006 will eligible for cantonment. The parties will agree as to how this pre-existing service is to be confirmed in consultation with the UN.
 
 [[END OF PAGE 155]]
 
 [[START OF PAGE 156]]
 
-As part of this registration, all Maoist army combatants will present their Maoist  army  identity  card  to  be  marked  by  the  UN.  The  process  for marking the cards will be assistance received by Maoist army members. Unregistered persons  will not  be  eligible  for  assistance  or  permitted  to remain in cantonments.
+As part of this registration, all Maoist army combatants will present their Maoist army identity card to be marked by the UN. The process for marking the cards will be determined. This registration card will be the basis for assistance received by Maoist army members. Unregistered persons will not be eligible for assistance or permitted to remain in cantonments.
 
 Only those Maoist army combatants who have been properly registered at  cantonment  sites  will  be  eligible  for  possible  integration  into  the security forces fulfilling the standard norms. Any discharged personnel will  be  ineligible  for  possible  integration.  Those  who  are  eligible  for integration  into  the  security  forces  will  be  determined  by  a  special committee as agreed in the Comprehensive Peace Accord. This integration process will be determined in subsequent agreement with the parties.
 
@@ -3415,7 +3483,7 @@ The  normal  NA  chain of command,  control,  communication  and information wil
 
 - Other information required by the UN Mission for proper monitoring of the disposition of arms and armies.
 
-The NA will ensure the safety, security, freedom of movement and well­ being of UN Mission and associated personnel, goods and services, and provide  information  in  cooperation  with  the  UN  Mission  according  to Section 2.
+The NA will ensure the safety, security, freedom of movement and well-being of UN Mission and associated personnel, goods and services, and provide information in cooperation with the UN Mission according to Section 2.
 
 The  UN  Mission  shall monitor these  commitments  through  daily presence in selected NA barracks, field visits and regular inspections.
 
@@ -3637,14 +3705,18 @@ This agreement shall come into force upon signature, and it supersedes the agree
 
 Done in Kathmandu, Nepal on the 8th day of December 2006 (22 Mangsir 2063 BS)
 
-Krishna Bahadur Mahara | Krishna Prasad
+Krishna Bahadur Mahara | Krishna Prasad Sitoula
 --- | ---
-Sitoula
 Coordinator | Coordinator
 Negotiating team | Negotiating team
-CPN (Maoist) | Government of
-Nepal
+CPN (Maoist) | Government of Nepal
 
-Witnessed by Ian Martin Personal Representative of the Secretary-General United Nations
+Witnessed by
+
+Ian Martin
+
+Personal Representative of the Secretary-General
+
+United Nations
 
 [[END OF PAGE 167]]
