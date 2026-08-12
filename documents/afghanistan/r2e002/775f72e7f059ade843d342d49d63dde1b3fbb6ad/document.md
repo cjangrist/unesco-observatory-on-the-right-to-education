@@ -1,4 +1,11 @@
 [[START OF PAGE 1]]
+دافغانستان اسلامي جمهوريت
+د پوهنې وزارت
+جمهوری اسلامی افغانستان
+وزارت معارف
+
+ISLAMIC REPUBLIC OF AFGHANISTAN
+MINISTRY OF EDUCATION
 
 # DRAFT NATIONAL EDUCATION STRATEGIC PLAN FOR AFGHANISTAN (1389-1393/2010-2014)
 
@@ -14,7 +21,33 @@ Draft National Education Strategic Plan (2010-2014)
 
 # Table of Contents
 
-| P a g e 1
+Abbreviations........................................................................................................................ 2
+Message from the Minister.................................................................................................... 3
+Executive Summary ............................................................................................................... 1
+Chapter One: Strategic Framework ...................................................................................... 20
+Chapter Two: Situation Analysis .......................................................................................... 26
+Chapter Three: Priority Programs......................................................................................... 59
+Program One: General and Islamic Education.......................................................................... 59
+Sub-Program 1.1: General Education ................................................................................... 59
+Sub-Program 1.2: Islamic Education..................................................................................... 69
+Program Two: Curriculum Development, Teacher Education and Science and Technology Education .................................................................................................................................. 74
+Sub-Program 2.1: Curriculum Development ........................................................................ 74
+Sub-Program 2.2: Teacher Education ................................................................................... 80
+Sub-Program 2.3: Science and Technology Education ......................................................... 87
+Program Three: Technical and Vocational Education and Training ......................................... 91
+Program Four: Literacy ............................................................................................................. 97
+Program Five: Education Management.................................................................................. 105
+Sub-Program 5.1: Education Infrastructure Development................................................. 105
+Sub-Program 5.2: Education Administration Development............................................... 112
+Sub-Program 5.3: Strategic Management Development ................................................... 120
+Chapter Four: Implementation, M&E Framework............................................................... 127
+Implementation ...................................................................................................................... 127
+Monitoring and Evaluation ..................................................................................................... 130
+Chapter Five: Costing and Financing................................................................................... 134
+Costing .................................................................................................................................... 134
+Financing ................................................................................................................................. 137
+
+1 | P a g e
 
 [[END OF PAGE 2]]
 
@@ -120,7 +153,7 @@ TVET
 
 Technical and Vocational Education and Training
 
-| P a g e 2
+2 | P a g e
 
 [[END OF PAGE 3]]
 
@@ -142,7 +175,7 @@ The  Ministry  is  determined  to  ensure  that  all  children  and  adults  hav
 
 The NESP consists of five programs which aim at improving access, quality and management of education  across  the  country.  There  are  three  priority  areas  requiring  special  attention.  The first  is  to  provide  an  adequate  learning  environment  for  children,  especially  girls,  to  improve access and retention. Nearly half of the existing schools do not even have buildings and many existing buildings are too damaged or unsafe to use. Many schools operate more than one shift per day to accommodate the large numbers of students in the available buildings.  The second priority is to upgrade teachers' skills and qualifications to improve the quality of their teaching and  the  learning  that  takes  place  in  the  classroom.  The  third  priority  is  to  strengthen  the institutional ability to develop and implement sound policies, as well as to effectively manage the human, financial and physical resources required to achieve results.
 
-| P a g e 3
+3 | P a g e
 
 [[END OF PAGE 4]]
 
@@ -156,7 +189,7 @@ This  Strategic  Plan  lays  the  future  direction  for  Afghanistan's  educati
 
 Dr. Farooq Wardak Minister for Education Kabul, Hamal, 1389/2010
 
-| P a g e 4
+4 | P a g e
 
 [[END OF PAGE 5]]
 
@@ -188,7 +221,7 @@ The goals set out in this strategic plan were established in order to keep the e
 
  The national literacy rate will be 75%.
 
-| P a g e 1
+1 | P a g e
 
 [[END OF PAGE 6]]
 
@@ -220,7 +253,7 @@ Draft National Education Strategic Plan (2010-2014)
 
  According to the MoE Security Department (1388/2009), 481 schools were either closed or  burned  by  the  insurgents  and  consequently  300,000  children  have  lost  access  to education.
 
- By  1387(2008),  511  Islamic  institutes  (41 Dar-ul-Ulums 1 ,  369 Madrasa 2 ,  84 Dar-ulHuffaz 3 and  17  outreach  schools)  had  been  established  with  more  than  106,000 students enrolled.
+ By 1387(2008), 511 Islamic institutes (41 Dar-ul-Ulums 1, 369 Madrasa 2, 84 Dar-ul-Huffaz 3 and 17 outreach schools) had been established with more than 106,000 students enrolled.
 
 > 1 Islamic studies institutes (grade 13-14)
 
@@ -228,7 +261,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 > 3 Schools/centers for memorizing holy Quran (grade 1-12)
 
-| P a g e 2
+2 | P a g e
 
 [[END OF PAGE 7]]
 
@@ -262,7 +295,7 @@ Draft National Education Strategic Plan (2010-2014)
 
  Access to technical and vocational education will increase by expanding TVET regional institutes from 16 to 32; TVET provincial schools from 32 to 102; and establishing 364 TVET district schools. The number of students in technical and vocational education will increase to 150,000 with 30 % female students.
 
-| P a g e 3
+3 | P a g e
 
 [[END OF PAGE 8]]
 
@@ -280,11 +313,11 @@ Draft National Education Strategic Plan (2010-2014)
 
  Sufficient ordinary and development budget will be provided for all education programs with a ratio of 75% for salaries and 25% for non-salary costs.
 
- The  new  Structure  ' Tashkil '  will  be  implemented  based  on  public  administration reforms at central, provincial and district levels.
+ The new Structure “Tashkil” will be implemented based on public administration reforms at central, provincial and district levels.
 
  A comprehensive EMIS system will be functional at central, provincial and district level and  will  facilitate  informed  decision  making,  transparency  and  accountability  of education services being provided.
 
-| P a g e 4
+4 | P a g e
 
 [[END OF PAGE 9]]
 
@@ -319,7 +352,7 @@ The  number  of  students  in  General  Education  increased  to  6.2  million  
 
 In order to increase access to upper secondary education the Ministry will recruit 19,000 new teachers  for  upper  secondary  schools  and  upgrade  2,200  lower  secondary  schools  to  upper secondary  schools  by  1393  (2014).  Also,  In  order  to  provide  education  services  for  older children who are out of school and have missed out on education the Ministry will establish 3,200 accelerated learning centers. In addition, the Ministry will implement a communication strategy to increase girls' enrollment and will provide increased access to primary education for Kuchi children and children with special needs.
 
-Despite implementation of various in-service teacher training programmes, teaching  remains largely based on rote learning and teacher-centered methods. Through both in-service and preservice  programs  the  Ministry  will  continue  to  work  with  teachers  to  develop  their  skills  in active  and  learner-centered  approaches.  The  Ministry  will  also  continue  to  work  to  attract qualified and motivated university and TTC graduates to enter the teaching profession, through implementation of pay and grade reforms as well as through efforts to increase the number of teachers who are from the rural areas of the country.
+Despite implementation of various in-service teacher training programmes, teaching remains largely based on rote learning and teacher-centered methods. Through both in-service and pre-service programs the Ministry will continue to work with teachers to develop their skills in active and learner-centered approaches. The Ministry will also continue to work to attract
 
 [[END OF PAGE 10]]
 
@@ -327,7 +360,9 @@ Despite implementation of various in-service teacher training programmes, teachi
 
 Draft National Education Strategic Plan (2010-2014)
 
-One of the Ministry's main strategies for improving the quality, management and protection of schools has been the formation of school councils. As of 1388 (2009) school Shuras have been established  in  8,000  out  of  10,998  schools.  The  Ministry  will  continue  to  establish  school councils for all schools and train the council members.
+qualified and motivated university and TTC graduates to enter the teaching profession, through implementation of pay and grade reforms as well as through efforts to increase the number of teachers who are from the rural areas of the country.
+
+One of the Ministry's main strategies for improving the quality, management and protection of schools has been the formation of school councils. As of 1388 (2009) school Shuras have been established in 8,000 out of 10,998 schools. The Ministry will continue to establish school councils for all schools and train the council members.
 
 ### Sub-Program 1.2: Islamic Education
 
@@ -351,7 +386,7 @@ Based  on  the  revised  curriculum  the  Ministry  plans  to  continue  to  inc
 
 The  total  number  of  Islamic  Education  teachers  increased  to  4,144  (52/.013%  females)  in 1387(2008), but the number of professional and qualified teachers is still low. Therefore, the Ministry also plans to recruit around 3000 new professional teachers by 1393(2014).
 
-| P a g e 6
+6 | P a g e
 
 [[END OF PAGE 11]]
 
@@ -361,7 +396,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 The Islamic Education High Council was established in 1386 (2007) to regulate and revise the Islamic Education system and to supervise its activities. In addition in 1389 (2010) the Ministry will establish an Islamic Education Board, consisting of scholars and experts, chaired by a senior MoE official  (Deputy  Minister  for  Islamic  Education),  that  will  be  responsible  for  conducting research and making recommendations to the leadership of the Ministry on how to improve the quality of Islamic education throughout the country.
 
-| P a g e 7
+7 | P a g e
 
 [[END OF PAGE 12]]
 
@@ -429,7 +464,7 @@ In 1387 (2008),the total number of student teachers enrolled in TTCs increased t
 
 To  improve  the  quality  of  teaching  and  teachers'  familiarity  with  teaching  methods  and  the content of the curriculum, the educational materials for INSET 1 and 2 have been developed and the materials for INSET 3 and 4 are in progress.  By  1393 (2014) all General and Islamic teachers will have completed INSET 1, 2, and 3 and at least 50% will have completed INSET 4.
 
-| P a g e 9
+9 | P a g e
 
 [[END OF PAGE 14]]
 
@@ -455,7 +490,7 @@ In order to improve the quality of teaching of science and technology throughout
 
 The Ministry  will  develop  the  capacity  of  the  staff  of  the  NCSTE  and  its  provincial  satellites, school laboratory technicians and science/math and ICT teachers through implementation of a series of high quality training programs.
 
-| P a g e 10
+10 | P a g e
 
 [[END OF PAGE 15]]
 
@@ -501,7 +536,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 Revision of all policies, regulations and guidelines of TVET, reform of supervision and reporting mechanisms and the development of a database in the TVET program are part of the strategy to improve quality of TVET.
 
-| P a g e 12
+12 | P a g e
 
 [[END OF PAGE 17]]
 
@@ -518,7 +553,7 @@ To provide literacy to male and female aged 15 and above in order to enable them
 
 By end of 1393 (2014):
 
- Increase national literacy rate of the population aged 15 and over from the current level of 26 4 % (12% female and 39 % male) to 48% (43% female and 54% male).
+ Increase national literacy rate of the population aged 15 and over from the current level of 26%⁴ (12% female and 39 % male) to 48% (43% female and 54% male).
 
  Provide literacy courses for 3.6 million literacy learners.
 
@@ -530,11 +565,11 @@ By end of 1393 (2014):
 
  Enhance learning achievement of graduates from 50% to 80%.
 
-According  to  Education  for  All  (EFA)  goals,  the  literacy  rate  must  be  increased  by  50%  by 1394/2015 5 .  To  achieve  this  goal,  the  Ministry  will  provide  literacy  education  for  3.6  million learners  (out  of  an  estimated  9.5  million  illiterate  Afghans)  across  the  country  through  an estimated 140,000 literacy courses. Most literacy learners live in rural areas, so the Ministry will pay more attention to those areas. Involvement of the private sector, communities, and other institutions like mosques, ulema and local elders in the implementation of literacy programs is another strategy to attract more literacy learners. Public awareness programs will be launched and, since the literacy rate is lower among women (12% for women and 39% for men), their participation in literacy programs will be encouraged through increasing the number of female facilitators and, in some cases, the provision of incentive such as food, healthcare and seeds.
+According to Education for All (EFA) goals, the literacy rate must be increased by 50% by 1394/2015⁵. To achieve this goal, the Ministry will provide literacy education for 3.6 million learners (out of an estimated 9.5 million illiterate Afghans) across the country through an estimated 140,000 literacy courses. Most literacy learners live in rural areas, so the Ministry will pay more attention to those areas. Involvement of the private sector, communities, and other institutions like mosques, ulema and local elders in the implementation of literacy programs is another strategy to attract more literacy learners. Public awareness programs will be launched and, since the literacy rate is lower among women (12% for women and 39% for men), their participation in literacy programs will be encouraged through increasing the number of female facilitators and, in some cases, the provision of incentive such as food, healthcare and seeds.
 
 The curriculum of the literacy programs has been developed and accompanying textbooks and teacher  guides  have  been  printed  and  distributed.  The  Ministry  will  maintain  a  unified curriculum  for  literacy  education  but  with  the  cooperation  of  international  partners,  the Ministry  will  continue  to  develop  the  learning  materials  to  make  them  more  relevant  to learners' lives so that learners become not only literate and numerate but also learn skills they can use in their lives. Accordingly specific materials will be developed based on the needs of particular learners, such as women, shopkeepers and farmers.
 
-The Ministry plans to employ 2,850 additional permanent literacy teachers which means that around  11,000  contract  teachers  will  need  to  be  employed  to  reach  the  Ministry's  goal  of providing 140,000 literacy courses over the next five years. To enhance the quality of teaching in literacy programs, a literacy teacher education division has been established in the Literacy Department  and  the  Ministry  will  establish  a  separate  Literacy  Teacher  Education  Institute. Developing  a  literacy  database  and  a  monitoring  and  evaluation  mechanism  are  other objectives of the program that will contribute to increasing the efficiency and effectiveness of literacy programs.
+The Ministry plans to employ 2,850 additional permanent literacy teachers which means that around 11,000 contract teachers will need to be employed to reach the Ministry's goal of providing 140,000 literacy courses over the next five years. To enhance the quality of teaching
 
 > 4 National Risk and Vulnerability Assessment Report (2007/2008).
 
@@ -545,6 +580,10 @@ The Ministry plans to employ 2,850 additional permanent literacy teachers which 
 [[START OF PAGE 19]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+in literacy programs, a literacy teacher education division has been established in the Literacy Department and the Ministry will establish a separate Literacy Teacher Education Institute.
+
+Developing a literacy database and a monitoring and evaluation mechanism are other objectives of the program that will contribute to increasing the efficiency and effectiveness of literacy programs.
 
 ## Program Five: Education Management
 
@@ -578,15 +617,17 @@ By the end of 1393 (2014):
 
  Manage the infrastructure development program in close coordination with other relevant departments.
 
-The provision of decent buildings for all students is a main goal of the Ministry and the Ministry will use all means provided by development partners, the private sector and local communities to achieve this goal. Over the next five years the Ministry will design, supervise and inspect the construction of 65,000 new classrooms, 2000 science and ICT labs, the rehabilitation of 16,000 existing classrooms and the building of 2,000 boundary walls for general schools. In addition the  Infrastructure  Department  will  oversee  the  construction  of  new  facilities  for  Islamic Education, namely 3,500 new classrooms, 220 boundary walls, dormitories for 180 schools and 32 Dar-ul-Ulums .  For  Technical  and  Vocational  Education,  the  Department  will  oversee construction of 110 new and rehabilitation of 34 existing TVET  complexes, 364 district TVET schools and 121 dormitories for TVET schools. The Ministry will also oversee the construction of 48  teacher  training  colleges,  412  teacher  resource  centers  and  55  dormitories.  Other construction projects include buildings for 20 Provincial Education Departments and warehouses in all provinces and districts.
+The provision of decent buildings for all students is a main goal of the Ministry and the Ministry will use all means provided by development partners, the private sector and local communities to achieve this goal. Over the next five years the Ministry will design, supervise and inspect the construction of 65,000 new classrooms, 2000 science and ICT labs, the rehabilitation of 16,000 existing classrooms and the building of 2,000 boundary walls for general schools. In addition the Infrastructure Department will oversee the construction of new facilities for Islamic Education, namely 3,500 new classrooms, 220 boundary walls, dormitories for 180 schools and 32 Dar-ul-Ulums. For Technical and Vocational Education, the Department will oversee construction of 110 new and rehabilitation of 34 existing TVET complexes, 364 district TVET schools and 121 dormitories for TVET schools. The Ministry will also oversee the construction of 48 teacher training colleges, 412 teacher resource centers and 55 dormitories. Other
 
-| P a g e 14
+14 | P a g e
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+construction projects include buildings for 20 Provincial Education Departments and warehouses in all provinces and districts.
 
 The Department has developed guidelines and construction standards for all of its projects and has deployed engineering teams to all of the provinces to monitor adherence to the Ministry's construction standards. The Department will continue to strengthen its planning and inspection systems to ensure that all learners have access to a safe and conducive learning environment throughout the country.
 
@@ -612,7 +653,7 @@ The Ministry is committed to the process of decentralization and delegation of m
 
 Another of the Ministry's priorities is to encourage donors to channel their assistance through the government's core development budget instead of the external development budget. This will  increase  aid  effectiveness  by  allowing  the  Ministry  to  allocate  budgets  to  identified priorities  and  to  redress  provincial  disparities  in  access  to  and  quality  of  education.  The involvement of the private sector will also be encouraged to assist with the implementation of the  strategic  plan,  although  the  Ministry  will  supervise  activities  conducted  by private implementers.
 
-| P a g e 15
+15 | P a g e
 
 [[END OF PAGE 20]]
 
@@ -648,9 +689,9 @@ By 1393 (2014)
 
 The Education Law of Afghanistan was developed and approved by the Cabinet in 1387 (2008), and awaits approval by the Parliament. The regulations for private educational institutes were also  developed  and  approved  in  late  1385  (2006).  Other  regulation  and  guidelines  are  in progress based on the new Education Law.
 
-The  process  of  operational  planning  has  started  at  both  central  and  provincial  levels.  This process will continue to be strengthened so that by 1393 (2014) all departments, provinces and districts  will  assume  responsibility  for  the  development  of  annual  operational  plans  and budgets based on their identified needs. The Planning and Evaluation Department will provide support and guidance as needed. As part of these processes the Department will continue to specify  the  main  program  activities  of  the  Ministry  in  order  to  develop  associated  standard costs.  This  will  facilitate  the  development  of  standard  plans  and  proposals  as  well  as implementation of activities.
+The process of operational planning has started at both central and provincial levels. This process will continue to be strengthened so that by 1393 (2014) all departments, provinces and districts will assume responsibility for the development of annual operational plans and budgets based on their identified needs. The Planning and Evaluation Department will provide support and guidance as needed. As part of these processes the Department will continue to
 
-| P a g e 16
+16 | P a g e
 
 [[END OF PAGE 21]]
 
@@ -658,7 +699,9 @@ The  process  of  operational  planning  has  started  at  both  central  and  p
 
 Draft National Education Strategic Plan (2010-2014)
 
-The EMIS has been developed and comprehensive surveys were conducted in 1386 and 1387 (2007  and  2008).  The  Ministry  plans  to  expand  the  use  of  EMIS  throughout  the  country  to ensure that all educational institutes have access to needed information. The Ministry will also work to develop a comprehensive reporting, monitoring and evaluation system for use in ongoing monitoring of NESP implementation and for evaluation of key education activities.
+specify the main program activities of the Ministry in order to develop associated standard costs. This will facilitate the development of standard plans and proposals as well as implementation of activities.
+
+The EMIS has been developed and comprehensive surveys were conducted in 1386 and 1387 (2007 and 2008). The Ministry plans to expand the use of EMIS throughout the country to ensure that all educational institutes have access to needed information. The Ministry will also work to develop a comprehensive reporting, monitoring and evaluation system for use in on-going monitoring of NESP implementation and for evaluation of key education activities.
 
 The central Grants Management Unit will be strengthened and focal points will be deployed to the provinces to ensure that education projects are sufficiently funded, to improve coordination between the Ministry and its partners, and to ensure alignment of activities with the NESP.
 
@@ -670,15 +713,17 @@ The administrative bureaucracy is aimed to be decreased by formal division of re
 
 The revised structure of MoE corresponds to the NESP program design. Under the leadership of the  Minister  of  Education  there  are  5  deputy  ministers  each  leading  one  of  the  priority programs.  The  Directors  under  the  Deputy  Minister  and  Provincial  Education  Directors  are responsible  for  implementation  of  program  components.  Community,  non-governmental organizations and the private sector will also participate in implementation of the NESP. Annual implementation plans will be developed and facilitate implementation of activities across the country.  Program  implementation  will  be  supervised  by  relevant  authorities  at  national, provincial,  district  and  school  levels.  The  EMIS  system  will  be  strengthened  and  deployed  at provincial  level  to  improve  and  accelerate  the  data  collection  process  for  monitoring  and evaluation. The EMIS data could also be used to rack poverty related expenditure. The Ministry of Education is aware of the risks and constraints associated with implementation of the plan and has developed clear risk mitigation plans to tackle them.
 
-The MoE will organise six-monthly meetings in cooperation with the EDB. The meetings will serve as a common review process of programme performance including MoE, NGOs, private sector education partners and external funding partners to the sector. One meeting will review progress  in  the  previous  fiscal  year  and  the  other  will  review  the  proposed  work-plan  and budget for the next fiscal year. NESP implementation will be monitored and periodic reports will be generated. The NESP monitoring will consist of three elements; monitoring of progress against targets, monitoring of resource use and expenditure against budget, and monitoring of development partners' contribution through the external budget. External reviews and studies will  be  commissioned  to  assess actual  outcomes  of  the  NESP  and/or  assess  specific  areas  of focus under the NESP. Mid-term and final evaluations of the NESP will be carried out. The final evaluation will assess the outcomes of the strategic plan on the overall status of education in Afghanistan and review the lessons learned from the implementation of the strategic plan. The results will be used for the development of the next strategic plan.
+The MoE will organise six-monthly meetings in cooperation with the EDB. The meetings will serve as a common review process of programme performance including MoE, NGOs, private sector education partners and external funding partners to the sector. One meeting will review progress in the previous fiscal year and the other will review the proposed work-plan and
 
-| P a g e 17
+17 | P a g e
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+budget for the next fiscal year. NESP implementation will be monitored and periodic reports will be generated. The NESP monitoring will consist of three elements; monitoring of progress against targets, monitoring of resource use and expenditure against budget, and monitoring of development partners' contribution through the external budget. External reviews and studies will be commissioned to assess actual outcomes of the NESP and/or assess specific areas of focus under the NESP. Mid-term and final evaluations of the NESP will be carried out. The final evaluation will assess the outcomes of the strategic plan on the overall status of education in Afghanistan and review the lessons learned from the implementation of the strategic plan. The results will be used for the development of the next strategic plan.
 
 ## Costing and Financing
 
@@ -690,13 +735,13 @@ Ministry of Education
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 National Education Strategic Plan 1389-1393
 All 5 Programs | USD Millions (US$ '000,000)
-Summary Costing | 1387 Actual | 1388 Projecte d | 1389 Estima te | 1390 Estimat e | 1391 Estimat e | 1392 Estim ate | 1393 Estimat e | Total 1398-1393
+Summary Costing | 1387 Actual | 1388 Projected | 1389 Estimate | 1390 Estimate | 1391 Estimate | 1392 Estimate | 1393 Estimate | Total 1398-1393
 Operating (Recurrent) Expenditures
 Wages and Salaries (21) | 226 | 255 | 425 | 540 | 628 | 718 | 808 | 3,119
 Goods and Services (22) | 29 | 26 | 77 | 108 | 138 | 172 | 210 | 705
 Purchase of Assets (25) | 7 | 1 | 17 | 27 | 38 | 50 | 65 | 197
 
-| P a g e 18
+18 | P a g e
 
 [[END OF PAGE 23]]
 
@@ -722,7 +767,7 @@ TOTAL All 5 Programs | 323 | 481 | 1,258 | 1,459 | 1,694 | 1,896 | 2,085 | 8,392
 
 Note: exchange rate 1USD = Afs 50
 
-| P a g e 19
+19 | P a g e
 
 [[END OF PAGE 24]]
 
@@ -746,9 +791,9 @@ This  framework for strategic policies has  been  developed around three hubs: a
 
 ## Access
 
-The policy of the Ministry is to provide equitable access to quality education for all males and females  without  any  form  of  discrimination.  According  to  Article  43  of  the  Afghanistan Constitution  and  Article  Four  of  the  Education  Law,  the  Ministry  is  obliged  to  provide  free education for all children and youth of Afghanistan. The Constitution also stipulates compulsory basic  education  (up  to  grade  9).  According  to  the  Millennium  Development  Goals  for Afghanistan, all Afghan children, boys and girls alike, will be able to complete a full course of primary schooling by 1399/2020. To reach this goal, the Ministry is committed to achieving the net enrolment rates of 75% for boys and 60% for girls by 1393 (2014) in basic education. The Ministry will also work to increase enrolment in post-basic education.
+The policy of the Ministry is to provide equitable access to quality education for all males and females without any form of discrimination. According to Article 43 of the Afghanistan Constitution and Article Four of the Education Law, the Ministry is obliged to provide free education for all children and youth of Afghanistan. The Constitution also stipulates compulsory
 
-| P a g e 20
+20 | P a g e
 
 [[END OF PAGE 25]]
 
@@ -756,7 +801,9 @@ The policy of the Ministry is to provide equitable access to quality education f
 
 Draft National Education Strategic Plan (2010-2014)
 
-The Ministry is committed to the provision of inclusive education and will provide equal access to  education  for  all  children  including  girls,  children  with  disabilities  and  other  special educational needs, Kuchi children, working children, minorities and gifted children. In addition to  increasing  access  through  continued  expansion  of  the  formal  system,  the  Ministry  will support alternative means of providing access such as community based schools, accelerated learning  programs  for  out-of-school  youth  (including  children  from  poor  families  and  child laborers), mobile schools for Kuchis, emergency education alternatives for children in insecure areas  and  distance  education.  The  Ministry  will  also  work  to  increase  access  to  preschool education  (for  children  aged  4-5)  so  that  they  are  better  prepared  to  enter  the  primary education system. These supplementary programs will further increase access to education for all children and youth.
+basic education (up to grade 9). According to the Millennium Development Goals for Afghanistan, all Afghan children, boys and girls alike, will be able to complete a full course of primary schooling by 1399/2020. To reach this goal, the Ministry is committed to achieving the net enrolment rates of 75% for boys and 60% for girls by 1393 (2014) in basic education. The Ministry will also work to increase enrolment in post-basic education.
+
+The Ministry is committed to the provision of inclusive education and will provide equal access to education for all children including girls, children with disabilities and other special educational needs, Kuchi children, working children, minorities and gifted children. In addition to increasing access through continued expansion of the formal system, the Ministry will support alternative means of providing access such as community based schools, accelerated learning programs for out-of-school youth (including children from poor families and child laborers), mobile schools for Kuchis, emergency education alternatives for children in insecure areas and distance education. The Ministry will also work to increase access to preschool education (for children aged 4-5) so that they are better prepared to enter the primary education system. These supplementary programs will further increase access to education for all children and youth.
 
 To improve girls' access to education, the Ministry will increase the number of female teachers. In  provinces  and  districts  where  the  need  is  acute,  the  number  of  female  teachers  will  be increased through adoption of various strategies including relocation of female teacher to rural areas, encouraging  females  to enroll in Teacher  Training Colleges (TTCs),  and special accelerated learning programs for teachers with an education lower than grade 12.
 
@@ -764,11 +811,11 @@ The number of graduates of the Teacher Training Colleges (TTCs) are nearly doubl
 
 The policies of the Ministry include provision of teacher education programs that are based on the specific needs of respective provinces, provision of ongoing programs near the residences of  teachers  to  enhance  their  professional  capacity,  and  establishment  of  TTC  satellites  in districts.  These  policies  combined  with  implementation  of  the  government-wide  Pay  and Grading  program  and  strategies  for  recruitment  of  more  TTC  and  university  graduates, particularly  females,  will  result  in  a  more  equitable  distribution  of  teachers  throughout  the provinces especially to historically deprived provinces and districts.
 
-In order to further increase access to education, the Ministry will encourage and support the contribution of the private sector to education, based on relevant rules and regulations and the Education Law,. In addition, the Ministry will evaluate, register, and provide support to crossborder Afghan educational institutes (sited in Pakistan and Iran).
+In order to further increase access to education, the Ministry will encourage and support the contribution of the private sector to education, based on relevant rules and regulations and the Education Law,. In addition, the Ministry will evaluate, register, and provide support to cross-border Afghan educational institutes (sited in Pakistan and Iran).
 
 The Ministry of Education must provide access to Islamic Education for all boys and girls wishing to pursue their studies in this field. Therefore, the Ministry  will establish at least one Islamic school in each district and one well-equipped Dar-ul-Ulum and Dar-ul-Huffaz in each provincial capital. Pedagogical and vocational trainings will also be included in the curriculum of Islamic Education particularly for grades 13 and 14.
 
-| P a g e 21
+21 | P a g e
 
 [[END OF PAGE 26]]
 
@@ -790,7 +837,7 @@ In 1387 (2008), 55% of schools had usable buildings; by 1393 (2014), 75% of scho
 
 > 6 General education, teacher education, technical and vocational education and literacy
 
-| P a g e 22
+22 | P a g e
 
 [[END OF PAGE 27]]
 
@@ -798,7 +845,7 @@ In 1387 (2008), 55% of schools had usable buildings; by 1393 (2014), 75% of scho
 
 Draft National Education Strategic Plan (2010-2014)
 
-The Ministry will regularly assess the textbooks and teaching materials in relation to curricula and revise and update them accordingly. Cross cutting issues such as peace education, human rights, elimination of violence against children and women, environmental protection, counternarcotics, and HIV will be incorporated in the textbooks. The Ministry will also improve science and technology education and will equip the schools with laboratories, so  that education  in mathematics  and  sciences  will  become  more  practical  and  thus  more  effective.  Additional extracurricular  activities  will  be  introduced  and  the  emphasis  on  physical  education  will  be increased in order to promote children's physical, social, emotional and moral development.
+The Ministry will regularly assess the textbooks and teaching materials in relation to curricula and revise and update them accordingly. Cross cutting issues such as peace education, human rights, elimination of violence against children and women, environmental protection, counter-narcotics, and HIV will be incorporated in the textbooks. The Ministry will also improve science and technology education and will equip the schools with laboratories, so that education in mathematics and sciences will become more practical and thus more effective. Additional extracurricular activities will be introduced and the emphasis on physical education will be increased in order to promote children’s physical, social, emotional and moral development.
 
 The  Ministry  has  recently  printed  and  is  distributing  61  million  textbooks  for  grades  1-12. Primary  textbooks  based  on  the  new  curriculum  have  been  printed  and  distributed.  The Ministry  of  Education  is  developing  new  secondary  textbooks  based  on  the  new  curriculum which will be printed and distributed in 1388-9/2009-10. As a temporary solution, the existing secondary level textbooks were corrected, printed and distributed.
 
@@ -812,7 +859,7 @@ A sustainable professional development system will be established and salary inc
 
 In order to provide technical support for the TTCs and to improve policies and programs aimed at  enhancing  the  quality  of  teaching  and  quality  educational  results,  the  National  Teacher Education Institute will be strengthened with the cooperation of the national and international higher education institutes. In addition the Ministry will develop and improve  its monitoring and evaluation systems at national and provincial levels to ensure the quality and effectiveness of  the  teacher  education  programs,  and  establish  and  update  a  database  to  store  the information on trainings provided for teachers and annual staff performance appraisals.
 
-| P a g e 23
+23 | P a g e
 
 [[END OF PAGE 28]]
 
@@ -834,7 +881,7 @@ The Ministry will increase its efforts to develop the capacity of all existing s
 
 Another priority of the Ministry of Education is the reform of administration: financial, human resource,  planning,  monitoring  and  evaluation,  reporting  and  audit  systems.  Such  reform  is necessary  for  an  education  system  that  is  transparent,  effective,  efficient,  accountable  and results-oriented. To ensure proper and timely implementation of the Ministry's administrative and academic policies, the existing monitoring, supervision and evaluation mechanisms will be improved  and  further  facilities  will  be  provided  for  them  to  operate  more  efficiently  and effectively. In addition the Ministry will work to devolve more authority to decentralized levels of the system, especially with regard to decision-making in finances, recruitment, procurement, planning, supervision and audit. These functions will be gradually devolved to the provincial, district  and  school  levels,  while  central  monitoring  and  supervision  of  the  processes  will  be preserved.
 
-| P a g e 24
+24 | P a g e
 
 [[END OF PAGE 29]]
 
@@ -852,11 +899,11 @@ The Ministry of Education's share of the government's overall budget was only 13
 
 The proportion of the non-salary costs will gradually increase over the five years to 25% of the total budget. The Ministry of Education intends to gradually make all educational expenditures, except those related to infrastructure, out of the Ministry's operating budget. The Ministry will also  work  to  increase  the  proportion  of  external  assistance  that  is  managed  through  the government's core development budget.
 
-Insecurity  in  some  provinces  of  the  country  is  a  major  challenge  to  access  to  education.  To address this problem, the Ministry encourages communities, especially parents, the ulema and community  leaders  to  cooperate  on  education  issues.  The  Ministry  will  work  to  increase cooperation between governmental and non-governmental sectors in tackling natural and manmade disasters.
+Insecurity in some provinces of the country is a major challenge to access to education. To address this problem, the Ministry encourages communities, especially parents, the ulema and community leaders to cooperate on education issues. The Ministry will work to increase cooperation between governmental and non-governmental sectors in tackling natural and man-made disasters.
 
 The  Ministry  also  encourages  the  participation  of  provincial,  district  and  school  councils (parents, the ulema and community  leaders) in decision making  and monitoring the implementation  of  decisions.  These  councils  play  a  vital  role  in  supporting  and  protecting schools, and will contribute to the development of activities and the transparency of education services.
 
-| P a g e 25
+25 | P a g e
 
 [[END OF PAGE 30]]
 
@@ -872,7 +919,25 @@ Draft National Education Strategic Plan (2010-2014)
 
 The  number  of  students  in  general  education  has  increased  from  2.3  million  in  1381  to  6.2 million  in  1387  (2008),  an  increase  of  around  4  million.  In  1387  (2008),  approximately  4.0 million boys and 2.2 million girls were enrolled in school (see figure 1).
 
-Figure 1 : Total number of students, 1381- 1387 (2002-2008)
+Figure 1 : Total number of students, 1381– 1387 (2002-2008)
+
+7,000,000
+6,000,000
+5,000,000
+4,000,000
+3,000,000
+2,000,000
+1,000,000
+0
+1381
+1382
+1383
+1384
+1385
+1386
+1387
+No of Female Students
+No of Male Students
 
 Source: MoE Statistics, 1387 (2008)
 
@@ -882,7 +947,7 @@ Net enrolment rates in basic education for boys and girls in 1387 (2008) were es
 
 > 8 Unless data from 1387/2008 are available, the 1386/2007 statistics will be used.
 
-| P a g e 26
+26 | P a g e
 
 [[END OF PAGE 31]]
 
@@ -894,11 +959,35 @@ Students in primary, lower secondary and higher secondary levels constitute 82%,
 
 Figure 2 : Enrolment in General Education
 
+Enrollment
+1,000,000
+800,000
+600,000
+400,000
+200,000
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Grade
+Girls
+Boys
+Total
+
 Source: MoE Statistics, 1386 (2007)
 
-The number of teachers has nearly doubled to around 158,000 in 1387 (2008) with 29% female teachers. Figure 3 shows the number of male and female teachers in years 1381-1387 (20022008). Despite the increase, the Ministry estimates that 32,000 new teachers are needed each year  if  the  Ministry  wants  to  achieve  its  Millennium  Development  Goals  and  create  equity among the provinces. Despite this need, however, the Ministry of Finance has so for allowed for only  12,500  positions  each  year,  which  also  includes  positions  for  administrative  staff.  To overcome this challenge, ministry of education is lobbying to increase the share of education in the total national budget for coming years.
+The number of teachers has nearly doubled to around 158,000 in 1387 (2008) with 29% female teachers. Figure 3 shows the number of male and female teachers in years 1381-1387 (2002-2008). Despite the increase, the Ministry estimates that 32,000 new teachers are needed each year if the Ministry wants to achieve its Millennium Development Goals and create equity among the provinces. Despite this need, however, the Ministry of Finance has so for allowed for only 12,500 positions each year, which also includes positions for administrative staff. To overcome this challenge, ministry of education is lobbying to increase the share of education in the total national budget for coming years.
 
-| P a g e 27
+27 | P a g e
 
 [[END OF PAGE 32]]
 
@@ -906,17 +995,37 @@ The number of teachers has nearly doubled to around 158,000 in 1387 (2008) with 
 
 Draft National Education Strategic Plan (2010-2014)
 
-Figure 3 : Number of teachers, 1381 -1387 (2002-2008)
+Figure 3 : Number of teachers, 1381-1387 (2002-2008)
+
+180,000
+160,000
+140,000
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+0
+1381
+1382
+1383
+1384
+1385
+1386
+1387
+No of Female Teacher
+No of Male Teacher
 
 Source: MoE Statistics, 1387 (2008)
 
 In  both  1386  (2007)  and  1387  (2008),  2,600  new  schools  were  established  throughout  the country each year, increasing the total number of general schools from 6,039 in 1381 to 10,998 in 1387 (2008) as shown in Table 1.
 
+Table 1: Number of Schools from 1381 to 1387 (2002 to 2008)
+
 Year | 1381 (2002) | 1382 (2003) | 1383 (2004) | 1384 (2005) | 1385 (2006) | 1386 (2007) | 1387 (2008)
 --- | --- | --- | --- | --- | --- | --- | ---
 Number of schools | 6,039 | 7,137 | 8,254 | 8,398 | 8,398 | 9,062 | 10,998
-
-Table 1: Number of Schools from 1381 to 1387 (2002 to 2008)
 
 Source: MoE Statistics, 1387 (2008)
 
@@ -926,7 +1035,7 @@ According to the Ministry's statistics, around 83% of all schools are located in
 
 > 9 A GPI of 1.0 indicates that an equal proportion of boys and girls are enrolled in a given level of schooling. If the GPI is less than 1.0 it indicates that proportionally there are fewer girls than boys enrolled in school.
 
-| P a g e 28
+28 | P a g e
 
 [[END OF PAGE 33]]
 
@@ -934,13 +1043,13 @@ According to the Ministry's statistics, around 83% of all schools are located in
 
 Draft National Education Strategic Plan (2010-2014)
 
+Table 2: Gender Parity Index (GPI) in Rural and Urban Areas, 1386 (2007)
+
 Level of Education | Total | Rural | Urban
 --- | --- | --- | ---
-Primary | 0.5 9 | 0.53 | 0.71
+Primary | 0.59 | 0.53 | 0.71
 Lower Secondary | 0.38 | 0.25 | 0.53
 Upper Secondary | 0.33 | 0.14 | 0.47
-
-Table 2: Gender Parity Index (GPI) in Rural and Urban Areas, 1386 (2007)
 
 Source: MoE Statistics, 1386 (2007)
 
@@ -954,13 +1063,25 @@ Public awareness activities have been conducted through seminars, posters, and t
 
 Figure 4 : Number of Females Enrolled in Schools from 1381 to 1387 (2008)
 
+2,500,000
+2,000,000
+1,500,000
+1,000,000
+500,000
+0
+1381
+1382
+1383
+1384
+1385
+1386
+1387
+
 Source: MoE Statistics, 1387 (2008)
 
 The gender parity index varies from province to province. The status of girls' education is better in the provinces of Badakhshan and Herat (8 girls to 10 boys). It is the worst in the provinces of Zabul, Uruzgan and Helmand (1 girl to 10 boys). As shown in figure 5 girls' education suffers the most in insecure provinces.
 
-29
-
-| P a g e
+29 | P a g e
 
 [[END OF PAGE 34]]
 
@@ -970,17 +1091,45 @@ Draft National Education Strategic Plan (2010-2014)
 
 Figure 5 : Students gender parity index by province, 1387 (2008)
 
+0.90
+0.80
+0.70
+0.60
+0.50
+0.40
+0.30
+0.20
+0.10
+0.00
+Uruzgan
+Hilmand
+Paktika
+Wardak
+Badghis
+Logar
+Farah
+Parwan
+Panjshir
+Sari Pul
+Laghman
+Baghlan
+Bamyan
+Faryab
+Takhar
+Balkh
+Hirat
+
 Source: MoE Statistics, 1387 (2008)
 
 The small number of female teachers is one of the main reasons behind the low enrolment of girls. According to the Ministry's survey, in 1387 (2008) only 29% of teachers were women (see figure  4).  The  percentage  of  female  teachers  also  varies  considerably  by  province.  Females constitute only 3% of teachers in the provinces of Paktika, Uruzgan and Zabul whereas in Kabul and Balkh they represent 60% and 49%, respectively. Though the number of female teachers has increased over the past years, it has not met the objective set in the National Education Strategic Plan for Afghanistan, 1385 (2006)-1389.
 
-In  addition  to  the  shortage  of  female  teachers,  local  traditions,  discrimination  against  girls, insecurity in some regions, and lack of girls' schools near their homes are among the obstacles to  girls'  enrolment.  One  strategy  to  encourage  girls  to  education  is  the  provision  of  food assistance. From 1386 (2007)-1389, the World Food Program provided take home rations to more  than  225,000  girls  and  food  assistance  to  40,000  female  students  enrolled  in  the  inservice programs of the teacher training colleges.
+In addition to the shortage of female teachers, local traditions, discrimination against girls, insecurity in some regions, and lack of girls’ schools near their homes are among the obstacles to girls’ enrolment. One strategy to encourage girls to education is the provision of food assistance. From 1386 (2007)-1389, the World Food Program provided take home rations to more than 225,000 girls and food assistance to 40,000 female students enrolled in the in-service programs of the teacher training colleges.
 
 #### Inclusive and Special Needs Education
 
 There is  only  one  school  in  Afghanistan  (in  Kabul)  for  students  with  visual  impairments.  The school is administered by the Ministry of Education and accommodates 150 students. There are four  schools  for  students  with  hearing  impairments  (two  in  Herat,  one  in  Kabul  and  one  in Jalalabad)  accommodating 900  students  altogether.  The  Ministry  of  Education,  with  support from UN agencies and international organizations, is running 29 pilot general schools in Kabul for  inclusive  education  (where  children  with  disabilities  and  without  disabilities  are  learning together). This initiative will gradually be replicated throughout the country. The long-term goal is that all schools become inclusive and child-friendly, welcoming all children regardless of their abilities, disabilities, backgrounds and circumstances. There is also a large number of integrated schools throughout Afghanistan, where children with disabilities learn in special classes and/or units located in ordinary schools.
 
-| P a g e 30
+30 | P a g e
 
 [[END OF PAGE 35]]
 
@@ -990,11 +1139,11 @@ Draft National Education Strategic Plan (2010-2014)
 
 According to estimates  made by Handicap International France in 2005, around 77% of children with disabilities in the country did not have access to education. The number was 85% for girls with  disabilities.  More  than  2,600  children  with  disabilities  (mostly  with  hearing  or  visual impairments)  are  learning  in  inclusive  education  pilot  schools  throughout  the  country.  A shortage  of  teachers  trained  in  inclusive  education  and  a  shortage  of  learning  materials  for students  with  special  educational  needs  are  among  the  obstacles  to  the  development  of inclusive education in Afghanistan.
 
-According  to  the  National  Risk  and  Vulnerability  Assessment  (NRVA)  Report  2005,  the enrolment  rates  for  Kuchi  boys  and  girls  are  also  very  low,  11%  and  6%  respectively.  The Ministry has adopted three policies to encourage Kuchi children to enroll in school: enrolment of  school  age  Kuchi  children  in  formal  general  schools,  establishment  of  permanent  Kuchispecific schools, and establishment of mobile schools. To facilitate education for Kuchi children, the establishment of 68 schools has been permitted in 28 provinces. Eight dormitories have also been established to accommodate 2,320 Kuchi students and students from insecure areas.
+According to the National Risk and Vulnerability Assessment (NRVA) Report 2005, the enrolment rates for Kuchi boys and girls are also very low, 11% and 6% respectively. The Ministry has adopted three policies to encourage Kuchi children to enroll in school: enrolment of school age Kuchi children in formal general schools, establishment of permanent Kuchi-specific schools, and establishment of mobile schools. To facilitate education for Kuchi children, the establishment of 68 schools has been permitted in 28 provinces. Eight dormitories have also been established to accommodate 2,320 Kuchi students and students from insecure areas.
 
 NGOs, under the supervision of the Ministry, are providing accelerated learning programs for 51,000  children  deprived  from  schooling.  These  children  complete  basic  education  in  a shortened period of time and are generally over age 13 when they enroll.
 
-There is no reliable information available on the number of students with special educational needs, children with disabilities and Kuchi children. This results in the Ministry being unable to develop  a  well-informed  plan  for  these  children  and  achieve  education  for  all.  However following  the  48 th session  of  the  International  Conference  on  Education  (ICE)  in  November 2008, the MoE committed to support inclusive and child friendly environments for all children. The  Ministry  of  Education  has  developed  a  Road  Map  towards  Inclusion  in  Afghanistan  in collaboration with members of the Inclusive Education Coordination Working Group (IECWG). As inclusive and child-friendly education are vital tools to reach Education for All (EFA) they will therefore be implemented in accordance with the Road Map as outlined in the Needs and Right Assessment Analysis on Inclusive Education 1388 (2009). Some development partners/donors have already begun supporting this plan.
+There is no reliable information available on the number of students with special educational needs, children with disabilities and Kuchi children. This results in the Ministry being unable to develop a well-informed plan for these children and achieve education for all. However following the 48th session of the International Conference on Education (ICE) in November 2008, the MoE committed to support inclusive and child friendly environments for all children. The Ministry of Education has developed a Road Map towards Inclusion in Afghanistan in collaboration with members of the Inclusive Education Coordination Working Group (IECWG). As inclusive and child-friendly education are vital tools to reach Education for All (EFA) they will therefore be implemented in accordance with the Road Map as outlined in the Needs and Right Assessment Analysis on Inclusive Education 1388 (2009). Some development partners/donors have already begun supporting this plan.
 
 To help administer inclusive education issues, an Inclusive and Special Education Directorate has  been  included  in  the  new Tashkil of  the  Ministry.  In  addition  an  inclusive  and  special education  curriculum  development  section  has  been  established  within  the  Curriculum Development Department.
 
@@ -1002,7 +1151,7 @@ To help administer inclusive education issues, an Inclusive and Special Educatio
 
 Regulations on private schools have been developed and ratified. So far, 159 private schools have been established and 37,180 students are enrolled. A private and cross border schools unit has been established to facilitate the process. In addition, 153 cross border schools in Iran and 338 schools in Pakistan have been registered with the Ministry and 131,240 students in those schools are using the Ministry's curriculum.
 
-| P a g e 31
+31 | P a g e
 
 [[END OF PAGE 36]]
 
@@ -1012,7 +1161,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 #### Distance Education
 
-In  addition to public awareness programs, the Education Radio and TV (ERTV) section of the Ministry  has  educational  programs  for  teachers,  children  and  adult  learners.  Some  of  the programs are 'Domestic Affairs', 'School Time', 'Learn and Teach', and 'Voice of Education'. The  Education  TV  is  broadcast  daily  for  6  hours  in  Kabul  province  and  city.  The  Educational Radio has round-the-clock educational programs.
+In addition to public awareness programs, the Education Radio and TV (ERTV) section of the Ministry has educational programs for teachers, children and adult learners. Some of the programs are “Domestic Affairs”, “School Time”, “Learn and Teach”, and “Voice of Education”. The Education TV is broadcast daily for 6 hours in Kabul province and city. The Educational Radio has round-the-clock educational programs.
 
 #### Preschool Education
 
@@ -1022,19 +1171,65 @@ In  Afghanistan,  mosques  play  an  important  role  in  preschool  education  
 
 According to the 1386 (2007) school survey, the pupil-teacher ratio at the national level was 40, very near to the standard ratio set by the Ministry. Since more than 46% of eligible children are out of school, however, the pupil-teacher ratio would be significantly higher if these children were enrolled. The pupil-teacher ratio varies considerably among the provinces. It is very high in  some provinces like Helmand, Nangarhar and Badghis, around 70, 60 and 56, respectively (see figure 7). Inequitable distribution of staffing positions, insecurity and teachers' unwillingness to relocate to rural areas are the main reasons behind this imbalance.
 
-Figure 6 : Pupil -teacher ratio in provinces, 1387 (2008)
+Figure 6 : Pupil –teacher ratio in provinces, 1387 (2008)
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Nuristan
+Badakhshan
+Paktika
+Parwan
+Panjshir
+Baghlan
+Bamyan
+Kandahar
+Uruzgan
+Sari Pul
+Jawzjan
+Wardak
+Kabul
+Takhar
+Balkh
+Kunar
+Farah
+Faryab
+Zabul
+Samangan
+Laghman
+Kapisa
+Paktia
+Ghor
+Logar
+Nimroz
+Ghazni
+Kunduz
+Daikundi
+Khost
+Hirat
+Badghis
+Nangarhar
+Hilmand
 
 Source: MoE Statistics, 1387 (2008)
 
-Currently the dropout and repetition rates are high. On average, these rates are estimated to be  5%  and  19%,  respectively.  According  to  Ministry  policy,  the  names  of  absent  students remain on the register for three years which means that they are included in the list of those repeating a grade. The actual drop-out rate is therefore more than 6%. In Afghanistan children drop out of school for reasons that include poverty, low quality of schooling, security problems, and local traditions.
+Currently the dropout and repetition rates are high. On average, these rates are estimated to be 5% and 19%, respectively. According to Ministry policy, the names of absent students remain on the register for three years which means that they are included in the list of those repeating a grade. The actual drop-out rate is therefore more than 6%. In Afghanistan children
 
-| P a g e 32
+32 | P a g e
 
 [[END OF PAGE 37]]
 
 [[START OF PAGE 38]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+drop out of school for reasons that include poverty, low quality of schooling, security problems, and local traditions.
 
 #### Student Services
 
@@ -1052,15 +1247,17 @@ By  the  end  of  1387  (2008),  more  than  8,000  school  councils  have  been
 
 In  cooperation with the provincial  councils, the Ministry has  appointed a religious scholar  in each province to raise awareness on the importance of education in Islam, and to encourage communities to protect schools. The school councils in many areas have played a critical role in identifying security threats and protecting schools and thus decreasing the likelihood of security incidents.
 
-In addition a protection and security unit has been included in the new structure of the Ministry for each provincial education department to ensure security of schools, students, and staff of the Ministry, and to identify and analyze internal and external elements affecting security. One security coordinator position has also been included to supervise and train teachers and head teachers on security issues. These units are also responsible for considering issues related to natural disasters and health, including availability of safe drinking water.
+In addition a protection and security unit has been included in the new structure of the Ministry for each provincial education department to ensure security of schools, students, and staff of
 
-| P a g e 33
+33 | P a g e
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+the Ministry, and to identify and analyze internal and external elements affecting security. One security coordinator position has also been included to supervise and train teachers and head teachers on security issues. These units are also responsible for considering issues related to natural disasters and health, including availability of safe drinking water.
 
 ## Islamic Education
 
@@ -1070,22 +1267,22 @@ By 1387 (2008), 41 Dar-ul-Ulums (Institutes of Islamic Education of grades 13 - 
 
 There are also a number of local schools in which Holy Quran and other necessary religious teachings are provided in traditional ways, typically by the Imams of mosques. If these schools align  their  activities  with  the  formal  curriculum,  the  Ministry  will  issue  permits  for  them  to operate as private schools.
 
-Based on an agreement between the Ministry of Education and Al-Azhar University of Egypt, AlAzhar Institute was established in Kabul in 1388 (2009). Through this agreement, 45 Egyptian teachers have come to Afghanistan and are teaching 240 students in eight classes.
+Based on an agreement between the Ministry of Education and Al-Azhar University of Egypt, Al-Azhar Institute was established in Kabul in 1388 (2009). Through this agreement, 45 Egyptian teachers have come to Afghanistan and are teaching 240 students in eight classes.
 
 The number of Islamic Education students (in Islamic schools and Dar-ul-Ulums ) has increased from 58,000 in 1385 (2006) to more than 106,000 in 1387 (2008) with 5% females. The number of  students  in Dar-ul-Ulums increased  to  1,791  in  1387  (2008)  with  nearly  6%  females  (see table 3).
 
-Islamic Teachers | Students | Islamic Education Institutes
+Table 3 : Number of Islamic Education Institutes, Students and Teachers
+
+Islamic Teachers |  |  | Students |  |  | Islamic Education Institutes |  |  |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Male | Female | Total | Male | Female | Total | Schools | Dar-ul-Huffaz | Dar-ul-Ulums | Outreach | Total
 4,092 | 52 | 4,144 | 100,857 | 5,299 | 106,156 | 369 | 84 | 41 | 17 | 511
-
-Table 3 : Number of Islamic Education Institutes, Students and Teachers
 
 Source: MoE Statistics, 1387 (2008)
 
 The percentage of female students in Islamic  education  is  very  low  -  around  5%.  There  are various reasons behind this: lack of interest in girls' education particularly Islamic education and the  low  number  of  female  Islamic  teachers  in  Islamic  schools  and Dar-ul-Ulums .  Presently, female teachers only constitute 1% of all teachers in Islamic schools of the country.
 
-| P a g e 34
+34 | P a g e
 
 [[END OF PAGE 39]]
 
@@ -1097,23 +1294,21 @@ From 1385 (2006) to 1387 (2008), more than 2,000 new teachers were recruited, in
 
 Figure 7 : Educational Level of Islamic Teachers
 
-62%
-
-13%
-
 5%
-
-20%
 
 Bachelor's degree or higher
 
+20%
+
 Grade 14 graduates
+
+62%
 
 Grade 12 graduates
 
-Less than Grade 12 or
+13%
 
-unknown
+Less than Grade 12 or unknown
 
 Source: MoE Statistics, 1387 (2008)
 
@@ -1127,7 +1322,7 @@ More than 200 textbook titles and teacher guides for grades 7-14 are being devel
 
 The  process  of  developing  the  curriculum  and  learning  materials  for  education  faces  many challenges including a shortage of experts to develop Islamic textbooks; inadequate budget for printing, purchasing and distributing textbooks; and lengthy and slow procurement procedures.
 
-| P a g e 35
+35 | P a g e
 
 [[END OF PAGE 40]]
 
@@ -1139,7 +1334,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 In  addition  to  Islamic  subjects,  the  Islamic  teacher  education  curriculum  includes  pedagogy, psychology,  science,  mathematics  and  one  foreign  language.  Graduates  of  Grade  14  Islamic Education are expected to have developed teaching skills so that they can serve as teachers after graduation.
 
-Though  comprehensive  programs  do  not  exist  for  professional  capacity  building  of  Islamic teachers, various activities have been carried out in this regard; 50 Islamic teachers were sent to Iran to be trained on teaching methodology. In addition a training seminar on administration and  management  was  also  held  for  Islamic  teachers  from  the  34  provinces.  With  the cooperation of the Teacher Education Department, 34 Dar-ul-Ulum administrators (headmasters who deals with teaching), from provincial capitals were also provided with a 10day training on teaching methodology. In addition, 123 teachers were awarded scholarships to Libya, Kuwait and Egypt to pursue their studies.
+Though comprehensive programs do not exist for professional capacity building of Islamic teachers, various activities have been carried out in this regard; 50 Islamic teachers were sent to Iran to be trained on teaching methodology. In addition a training seminar on administration and management was also held for Islamic teachers from the 34 provinces. With the cooperation of the Teacher Education Department, 34 Dar-ul-Ulum administrators (headmasters who deals with teaching), from provincial capitals were also provided with a 10-day training on teaching methodology. In addition, 123 teachers were awarded scholarships to Libya, Kuwait and Egypt to pursue their studies.
 
 ### Academic Supervision
 
@@ -1151,7 +1346,7 @@ The Islamic Education High Council was established in 1386 (2007) to manage and 
 
 The  main  problem  facing  this  Sub-Program  is  that  the  development  budget  for  the  Islamic Education  Sub-Program  is  very  low.  Even  Islamic  countries  do  not  play  an  active  role  in supporting this Sub-Program.
 
-| P a g e 36
+36 | P a g e
 
 [[END OF PAGE 41]]
 
@@ -1165,9 +1360,9 @@ Draft National Education Strategic Plan (2010-2014)
 
 The Curriculum Development Department is responsible for the development of curricula for General and Islamic education. In addition the Department has two sections for development of curriculum for inclusive education, special needs education and preschool education.
 
-The new curriculum framework and syllabi for the primary level and 109 books for grades 1-6 have  been  developed  for  General  Education.  The  books  are  printed  and  are  now  used  by students. The drafts of 89 teacher guides have also been developed. Though the quality of new textbooks  is  better,  primary  textbooks  will  need  to  be  regularly  revised  to  meet  the  everchanging needs of Afghanistan.
+The new curriculum framework and syllabi for the primary level and 109 books for grades 1-6 have been developed for General Education. The books are printed and are now used by students. The drafts of 89 teacher guides have also been developed. Though the quality of new textbooks is better, primary textbooks will need to be regularly revised to meet the ever-changing needs of Afghanistan.
 
-The new curriculum framework and syllabi for grades 7-12 of general schools  has also been developed and the development of 400 textbooks and teacher guides is in progress - 40% of the work has been completed. Grades 7-9 textbooks will be ready for printing in 1388 (2009) and six science laboratory guides will soon be completed and made available to teachers. Until the  new  books  are  ready,  the  old  books  are  still  in  use,  but  in  1387  (2008),  147  titles  of textbooks for grades 7-12 were edited and distributed for students' temporary use.  The new curriculum framework and syllabi for grades 7-14 of Islamic schools (Hanafi and Jafari sects) has also been developed and 50% of the development of 298 textbooks and teachers guides for grades 7-14 of the Islamic education has been completed.
+The new curriculum framework and syllabi for grades 7-12 of general schools has also been developed and the development of 400 textbooks and teacher guides is in progress – 40% of the work has been completed. Grades 7-9 textbooks will be ready for printing in 1388 (2009) and six science laboratory guides will soon be completed and made available to teachers. Until the new books are ready, the old books are still in use, but in 1387 (2008), 147 titles of textbooks for grades 7-12 were edited and distributed for students’ temporary use. The new curriculum framework and syllabi for grades 7-14 of Islamic schools (Hanafi and Jafari sects) has also been developed and 50% of the development of 298 textbooks and teachers guides for grades 7-14 of the Islamic education has been completed.
 
 Modern educational standards have been applied in the development of the new curriculum, and active learning methods have been incorporated. Each lesson contains objectives, the text, activities,  and  evaluation.  Cross-cutting  themes  like  human  rights,  gender  equity,  health, environmental  protection,  drug-related  issues  and  communicable  diseases  have  also  been included in the new curriculum and syllabi.
 
@@ -1177,9 +1372,9 @@ The  institutional  and  individual  capacity  for  curriculum  development  inc
 
 ### Development  and  Implementation  of  Student  Learning  Achievement Assessment System (SLAAS)
 
-Students of grades 4 and above go through two comprehensive exams on all of their subjects one mid-year and another at the end of the year. Each teacher develops his/her own questions and the new teacher guides include guidance on how to determine the  number of students who  have  learned  the  knowledge  and  skills  contained  in  the  lesson  objectives.  If  a  student scores less than 50% for more than two subjects he/she must repeat the grade. Students who score less than 50% in one or two subjects retake the exam after a 2-3 month remedial course and if they succeed, are then promoted to the next higher grade if they succeed.
+Students of grades 4 and above go through two comprehensive exams on all of their subjects – one mid-year and another at the end of the year. Each teacher develops his/her own questions and the new teacher guides include guidance on how to determine the number of students who have learned the knowledge and skills contained in the lesson objectives. If a student scores less than 50% for more than two subjects he/she must repeat the grade. Students who score less than 50% in one or two subjects retake the exam after a 2-3 month remedial course and if they succeed, are then promoted to the next higher grade if they succeed.
 
-| P a g e 37
+37 | P a g e
 
 [[END OF PAGE 42]]
 
@@ -1187,7 +1382,7 @@ Students of grades 4 and above go through two comprehensive exams on all of thei
 
 Draft National Education Strategic Plan (2010-2014)
 
-Presently, students' achievements are measured through tests that are developed by schools and districts and there is no standard system. The exams vary among schools, so the learning achievements of students with the same scores may differ considerably. There is therefore a need for a standard evaluation system.  A 'Standards, Research and Evaluation' directorate has been established within the Curriculum Development Department to address such issues. The national standard evaluation system will include a questions bank that will be developed after all textbooks have been completed.
+Presently, students' achievements are measured through tests that are developed by schools and districts and there is no standard system. The exams vary among schools, so the learning achievements of students with the same scores may differ considerably. There is therefore a need for a standard evaluation system. A “Standards, Research and Evaluation” directorate has been established within the Curriculum Development Department to address such issues. The national standard evaluation system will include a questions bank that will be developed after all textbooks have been completed.
 
 ### Printing and Distribution of Textbooks and Learning Materials
 
@@ -1207,7 +1402,7 @@ Most teachers are not familiar with proper methods to teach the textbooks that a
 
 There is no reliable system to evaluate the staff of the Curriculum Development Department, nor  has  a  long-term  plan  been  developed  to  enhance  the  capacity  of  its  staff.  The  capacity building budget is inadequate but some efforts have been made, however, to build capacity:
 
-| P a g e 38
+38 | P a g e
 
 [[END OF PAGE 43]]
 
@@ -1239,7 +1434,7 @@ Of the 158,000 general education teachers, only 24% have an education of more th
 
 Figure 8 : level of education of the teachers, 1387 (2008)
 
-| P a g e 39
+39 | P a g e
 
 [[END OF PAGE 44]]
 
@@ -1247,17 +1442,67 @@ Figure 8 : level of education of the teachers, 1387 (2008)
 
 Draft National Education Strategic Plan (2010-2014)
 
+Qualified Teacher (graduated Grade 14 or above)
+24%
+Unknown Teacher
+7%
+Unqualified Teacher (lower than Grade 14)
+69%
+
 Source: MoE Statistics, 1387 (2008)
 
 The status of teachers varies considerably among provinces. More than 60% of teachers have an education of grade 14 or higher in Kabul Province (including in Kabul City); while less than one percent (only 10) of teachers in Daikundi have an education of grade 14 or higher  (see figure 9).
 
 Figure 9 : Percentage of educationally qualified teachers by province, 1387 (2008)
 
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Daikundi
+Zabul
+Uruzgan
+Paktika
+Ghor
+Bamyan
+Sari Pul
+Panjshir
+Kandahar
+Khost
+Wardak
+Kunar
+Hilmand
+Ghazni
+Paktia
+Hirat
+Nuristan
+Logar
+Badakhshan
+Farah
+Baghlan
+Badghis
+Parwan
+Takhar
+Nangarhar
+Kunduz
+Faryab
+Samangan
+Kapisa
+Laghman
+Nimroz
+Balkh
+Jawzjan
+Kabul
+
 Source: MoE Statistics, 1387 (2008)
 
 While the number of female teachers has increased from 22,000 in 1381 to 45,000 (or 29%) in 1387  (2008),  this  is  by  no  means  satisfactory.    The  distribution  of  female  teachers  is  not balanced and the huge difference between the number of female teachers in big cities and rural areas  is  one  of  the  challenges.  Currently  95%  of  female  teachers  holding  a  BA  and  84%  of female grade 14 graduates are teaching in the nine big cities of Kabul, Herat, Nangarhar, Balkh, Baghlan, Badakhshan, Takhar, Jowzjan, and Fariab. There are 109 districts that have no or only one female teacher.
 
-| P a g e 40
+40 | P a g e
 
 [[END OF PAGE 45]]
 
@@ -1267,7 +1512,9 @@ Draft National Education Strategic Plan (2010-2014)
 
 ### Teacher Training Colleges (TTCs)
 
-The number of student teachers in TTCs was 33,062 in 1387 (2008) - of which 12,836 (39%) were female. Of the total number of student teachers, 59% are enrolled in the Ministry's two pre-service programs and 41% are enrolled in in-service programs. In 1387 (2008), the overall number of student teachers enrolled in in-service two-year programs reached 18,489 and the number  of  student  teachers  in  pre-service  two-  and  five-year  programs  reached  14,603  13,643 in two-year and 930 in five-year programs (see table 4).
+The number of student teachers in TTCs was 33,062 in 1387 (2008) – of which 12,836 (39%) were female. Of the total number of student teachers, 59% are enrolled in the Ministry’s two pre-service programs and 41% are enrolled in in-service programs. In 1387 (2008), the overall number of student teachers enrolled in in-service two-year programs reached 18,489 and the number of student teachers in pre-service two- and five-year programs reached 14,603 – 13,643 in two-year and 930 in five-year programs (see table 4).
+
+Table 4: Number of Student Teachers According to their Courses, 1387 (2008)
 
 Teacher training program | Male | Female | Total
 --- | --- | --- | ---
@@ -1275,8 +1522,6 @@ Five-year pre-service | 665 | 265 | 930
 Two-year pre-service | 9,611 | 4,032 | 13,643
 In-service | 9,950 | 8,539 | 18,489
 Total enrolled in all teacher training programs | 20,226 | 12,836 | 33,062
-
-Table 4: Number of Student Teachers According to their Courses, 1387 (2008)
 
 Source: Teacher Education Department
 
@@ -1286,9 +1531,9 @@ The number of TTC graduates reached 8,497 in 1387 (2008), of which 2,740 (32%) t
 
 Over the past years the number of TTC student teachers enrolled in subject-matter fields has not been based on the needs of respective provinces. In 1388 (2009), however, the distribution of newly enrolled students was done according to the needs of provinces at the beginning of the year. In addition a Memorandum of Understanding was signed with the Ministry of Higher Education entailing that the distribution of those who succeed in Kankur should be based on the needs of their provinces and should not be done randomly. Presently, through the Kankur those who get the lowest mark are admitted into TTCs as teaching is not an attractive job. With the  increase  in  the  salary  of  teachers,  teaching  should  become  a  more  attractive  option. Graduates of grade 12 have been allowed into TTCs over the past two years without sitting for Kankur; this initiative is expected to increase the number of teachers returning to their villages after graduation from TTCs.
 
-Currently DT3 program cover all 34 provinces of the country  and provide In-service teacher training to teachers on district level. It is planed that DT3 to be integrated into the national teacher education system In 1388 (2009) a special curriculum was designed for teachers with an education of lower than grade 12 in rural areas. This program will enable them to enhance their educational level and qualify for teacher training colleges.
+Currently DT3 program cover all 34 provinces of the country and provide In-service teacher training to teachers on district level. It is planed that DT3 to be integrated into the national teacher education system In 1388 (2009) a special curriculum was designed for teachers with
 
-| P a g e 41
+41 | P a g e
 
 [[END OF PAGE 46]]
 
@@ -1296,15 +1541,17 @@ Currently DT3 program cover all 34 provinces of the country  and provide In-serv
 
 Draft National Education Strategic Plan (2010-2014)
 
+an education of lower than grade 12 in rural areas. This program will enable them to enhance their educational level and qualify for teacher training colleges.
+
 ### Teacher Trainers and Educators
 
 In 1387 (2008), 820 teacher trainers were teaching in TTCs, 24% of them females. More than 99%  of  them  have  at  least  a  BA  degree  (see  table  5).  Despite  this  relatively  high  level  of qualification, there is a shortage of professional teacher trainers in TTCs particularly expertise in the fields of pedagogy and psychology.
 
+Table 5: Level of Education of Teacher Educators
+
 MA and PhD | BA | Graduates of Grade 14 | Total
 --- | --- | --- | ---
 36 | 762 | 1 (in Konduz) | 820
-
-Table 5: Level of Education of Teacher Educators
 
 Source: Teacher Education Department
 
@@ -1320,7 +1567,7 @@ A shortage of professional teachers, particularly females, to be attracted as te
 
 Provision of accelerated learning programs for teachers with an education of lower than grade 12 is an important part of the in-service teacher education program. Since these teachers are not  eligible  to  enroll  in  the  TTCs,  programs  have  been  considered  for  winter  and  summer vacations  to  enhance  the  education  level  of  teachers  to  grade  12  and  grade  14  in  an accelerated manner.
 
-| P a g e 42
+42 | P a g e
 
 [[END OF PAGE 47]]
 
@@ -1340,7 +1587,7 @@ The main problems in this area are the shortage of national experts of teacher e
 
 ### Capacity Building
 
-The  National  Teacher  Education  Academy  was  established  in  1386  (2007)  to  train  teacher educators. In the first round of its programs, 137 teacher educators, 27% of whom were female, were trained through an eight-month course. The Academy does not, however, have a welldeveloped curriculum and is currently dependent on foreign educators.
+The National Teacher Education Academy was established in 1386 (2007) to train teacher educators. In the first round of its programs, 137 teacher educators, 27% of whom were female, were trained through an eight-month course. The Academy does not, however, have a well-developed curriculum and is currently dependent on foreign educators.
 
 ### Assessment of Teacher Competencies
 
@@ -1350,7 +1597,7 @@ In 1387 (2008) a literacy and numeracy assessment of 148,000 teachers was also c
 
 Required competencies of teachers have been determined according to the subject and class they teach. Based on these requirements, the national competency test has been developed and is being piloted.
 
-| P a g e 43
+43 | P a g e
 
 [[END OF PAGE 48]]
 
@@ -1372,7 +1619,7 @@ There are no technical and vocational schools in 12 provinces. Of the 48 existin
 
 According to the National Skills Development Program, it is the duty of the Ministry of Labor and Social Affairs to conduct research on the needs of national, regional and international labor markets.  Such  needs,  however,  have  not  been  identified  in  the  provinces  for  use  in  the establishment of new TVET schools. Presently there are 50 fields of study in TVET schools. Table 6 presents the TVET subjects and number of students in each province.
 
-| P a g e 44
+44 | P a g e
 
 [[END OF PAGE 49]]
 
@@ -1380,25 +1627,25 @@ According to the National Skills Development Program, it is the duty of the Mini
 
 Draft National Education Strategic Plan (2010-2014)
 
-No | Province | Number of | Fields of Study | Number of Students | Number of Students in
---- | --- | --- | --- | --- | --- | --- | ---
-Schools | Male | Female | Total | Dormitories
-1 | Kabul | 15 | Auto Repair, TV Repair, Machinery, Electricity, Water Supply, Central Heating and Radiator, Metal Works, Enterprise Economy, Credit and Finance, Budget, Industry, Civil Industry, Geodesy, Weaving, Computer Science, Painting, Agronomy, Forestry, Animal Science, Veterinary, Architecture, Construction, Industrial Machines Service, Eclectic Repair, Refrigerator Repair, Art, Music, Ceramics, Road Construction Machinery Repair, Administration and Management, Business, Administration, Economics, Public Administration, Welding, Construction Machinery | 7,684 | 1,632 | 9,316 | 2,967
-2 | Herat | 4 | Auto Repair, Electricity, Machinery, Architecture, Construction, Agronomy, Animal Science, Art, Music and Ceramic | 922 | 301 | 1,223 | 450
-3 | Helmand | 2 | Carpentry, Auto Repair, Industrial Electricity, Metal Works, Agronomy, | 216 | 216 | 225
-4 | Farah | 1 | Agriculture and Veterinary | 153 | 153 | 130
-5 | Kunduz | 2 | Agronomy and Business | 209 | 100 | 309 | 157
-6 | Baghlan | 2 | Electricity, Machinery, Auto Repair, Agronomy and Agriculture Economy | 452 | 1 | 453 | 167
-7 | Faryab | 1 | Agronomy, Animal Science and Husbandry | 212 | 212 | 100
-8 | Kunar | 1 | Carpentry | 132 | 132 | 85
-9 | Kandahar | 1 | Machinery, Electricity, Auto Repair, Carpentry, Metal Works | 86 | 86 | 115
-10 | Khost | 1 | Electricity, Auto Repair, Machinery | 146 | 146 | 115
-11 | Nengarhar | 3 | Agronomy, Animal Science and Husbandry, Electricity, Auto Repair | 760 | 189 | 949 | 337
-12 | Samangan | 1 | Administration and Management | 217 | 217
-
 Table 6: Number of TVET Schools and Students According to Subject, 1387 (2008)
 
-| P a g e 45
+No | Province | Number of Schools | Fields of Study | Number of Students |  |  | Number of Students in Dormitories
+--- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  | Male | Female | Total |
+1 | Kabul | 15 | Auto Repair, TV Repair, Machinery, Electricity, Water Supply, Central Heating and Radiator, Metal Works, Enterprise Economy, Credit and Finance, Budget, Industry, Civil Industry, Geodesy, Weaving, Computer Science, Painting, Agronomy, Forestry, Animal Science, Veterinary, Architecture, Construction, Industrial Machines Service, Eclectic Repair, Refrigerator Repair, Art, Music, Ceramics, Road Construction Machinery Repair, Administration and Management, Business, Administration, Economics, Public Administration, Welding, Construction Machinery | 7,684 | 1,632 | 9,316 | 2,967
+2 | Herat | 4 | Auto Repair, Electricity, Machinery, Architecture, Construction, Agronomy, Animal Science, Art, Music and Ceramic | 922 | 301 | 1,223 | 450
+3 | Helmand | 2 | Carpentry, Auto Repair, Industrial Electricity, Metal Works, Agronomy, | 216 |  | 216 | 225
+4 | Farah | 1 | Agriculture and Veterinary | 153 |  | 153 | 130
+5 | Kunduz | 2 | Agronomy and Business | 209 | 100 | 309 | 157
+6 | Baghlan | 2 | Electricity, Machinery, Auto Repair, Agronomy and Agriculture Economy | 452 | 1 | 453 | 167
+7 | Faryab | 1 | Agronomy, Animal Science and Husbandry | 212 |  | 212 | 100
+8 | Kunar | 1 | Carpentry | 132 |  | 132 | 85
+9 | Kandahar | 1 | Machinery, Electricity, Auto Repair, Carpentry, Metal Works | 86 |  | 86 | 115
+10 | Khost | 1 | Electricity, Auto Repair, Machinery | 146 |  | 146 | 115
+11 | Nengarhar | 3 | Agronomy, Animal Science and Husbandry, Electricity, Auto Repair | 760 | 189 | 949 | 337
+12 | Samangan | 1 | Administration and Management |  | 217 | 217 |
+
+45 | P a g e
 
 [[END OF PAGE 50]]
 
@@ -1406,20 +1653,20 @@ Table 6: Number of TVET Schools and Students According to Subject, 1387 (2008)
 
 Draft National Education Strategic Plan (2010-2014)
 
-No | Province | Number of Schools | Fields of Study | Number of Students | Number of Students in Dormitories
+No | Province | Number of Schools | Fields of Study | Number of Students |  |  | Number of Students in Dormitories
 --- | --- | --- | --- | --- | --- | --- | ---
-Male | Female | Total
+ |  |  |  | Male | Female | Total |
 13 | Parwan | 2 | Auto Repair, Mechanic Machinery, Carpentry, Construction, Metal Works, Agronomy, Animal Science and Agronomy | 353 | 2 | 355 | 120
-14 | Maydan Wardak | 1 | Agronomy | 85 | 85 | 65
-15 | Bamyan | 1 | Agronomy | 13 | 13
+14 | Maydan Wardak | 1 | Agronomy | 85 |  | 85 | 65
+15 | Bamyan | 1 | Agronomy | 13 |  | 13 |
 16 | Balkh | 3 | Mines and Minerals, Oil Exploration, Oil Finery Equipments, Geology, Petroleum Chemistry, Agronomy, Measurement and Automatic Tools, Mechanics, Electrical Power, Chemical Technology, Nonorganic Synthesis | 824 | 34 | 858 | 377
-17 | Juzjan | 2 | Agronomy, Drilling Machinery, Auto Repair, Electricity of Drilling Machinery | 365 | 365 | 235
-18 | Daikondy | 1 | Agronomy | 30 | 30
-19 | Badghis | 1 | Agronomy | 30 | 30 | 30
-20 | Badakhshan | 1 | Agronomy | 121 | 121 | 80
-21 | Urozgan | 1 | Agronomy | 66 | 66 | 75
-22 | Kapisa | 1 | Auto Repair, Machinery, Electricity, Construction, Civil Industry, Agriculture | 640 | 640 | 170
-Total | 13,499 | 2,476 | 15,975 | 6,000
+17 | Juzjan | 2 | Agronomy, Drilling Machinery, Auto Repair, Electricity of Drilling Machinery | 365 |  | 365 | 235
+18 | Daikondy | 1 | Agronomy | 30 |  | 30 |
+19 | Badghis | 1 | Agronomy | 30 |  | 30 | 30
+20 | Badakhshan | 1 | Agronomy | 121 |  | 121 | 80
+21 | Urozgan | 1 | Agronomy | 66 |  | 66 | 75
+22 | Kapisa | 1 | Auto Repair, Machinery, Electricity, Construction, Civil Industry, Agriculture | 640 |  | 640 | 170
+Total |  |  |  | 13,499 | 2,476 | 15,975 | 6,000
 
 Source: Deputy Ministry of Technical and Vocational Education
 
@@ -1427,7 +1674,7 @@ The number of teachers has increased from 635 (128 of  whom are females) in 1383
 
 Dormitories  have  been  established  to  accommodate  6,000  students  in  the  capital  and  the provinces. In 1387 (2008) there was not a dormitory for girls so 65 female students used the dormitories of the University of Kabul. Increasing the capacity of dormitories, particularly for girls, is essential for an equitable expansion of technical and vocational education.
 
-| P a g e 46
+46 | P a g e
 
 [[END OF PAGE 51]]
 
@@ -1459,7 +1706,7 @@ A full analysis for the development of a systematic capacity development plan ha
 
  Training fellowships to Tajikistan were given to 26 teachers
 
-| P a g e 47
+47 | P a g e
 
 [[END OF PAGE 52]]
 
@@ -1491,9 +1738,9 @@ The present monitoring and reporting system for TVET is of low effectiveness and
 
 Compared with the previous years, access to literacy programs has improved. In 1387 (2008), there  were  a  total  of  15,481  literacy  courses  and  78  literacy  schools  with  2,900  permanent teachers (five in each district) of which 34% are women. In line with the new policies, attention is more focused on rural areas.
 
-In 1387 (2008) more than 378,520 learners were enrolled in literacy courses supported by the Ministry and its partners. The enrolment of women has increased and has reached 72%, which is  12%  ahead  of  the  target  set  in  the  previous  NESP  (see  Table  7).  Innovative  approaches  in teaching and learning introduced through Literacy Initiative for Empowerment (LIFE), Literacy and Community Empowerment (LCEP1 and LCEP2) and other MoE initiatives such as engaging communities and religious leaders in literacy programs played a significant role in increasing enrolment.
+In 1387 (2008) more than 378,520 learners were enrolled in literacy courses supported by the Ministry and its partners. The enrolment of women has increased and has reached 72%, which is 12% ahead of the target set in the previous NESP (see Table 7). Innovative approaches in teaching and learning introduced through Literacy Initiative for Empowerment (LIFE), Literacy and Community Empowerment (LCEP1 and LCEP2) and other MoE initiatives such as engaging
 
-| P a g e 48
+48 | P a g e
 
 [[END OF PAGE 53]]
 
@@ -1501,13 +1748,15 @@ In 1387 (2008) more than 378,520 learners were enrolled in literacy courses supp
 
 Draft National Education Strategic Plan (2010-2014)
 
+communities and religious leaders in literacy programs played a significant role in increasing enrolment.
+
+Table 7: No of Learners in 1385/2006 – 1387/2008
+
 Year | Male | Female | Total | % Female
 --- | --- | --- | --- | ---
-1385 (2006) | 105,446 | 147,645 | 253,091 | 58 %
-1386 (2007) | 98,581 | 226,451 | 325,032 | 70 %
+1385 (2006) | 105,446 | 147,645 | 253,091 | 58%
+1386 (2007) | 98,581 | 226,451 | 325,032 | 70%
 1387 (2008) | 104,134 | 274,386 | 378,520 | 72%
-
-Table 7: No of Learners in 1385/2006 - 1387/2008
 
 Source: Deputy Ministry of Literacy
 
@@ -1519,15 +1768,17 @@ The interest in literacy courses is very low for various reasons including econo
 
 According to the Literacy Needs Assessment Report (2008) which was developed by the MoE and UNESCO, other ministries are also delivering literacy programs. The Ministries of Defense, Interior  and  Health  are  providing  literacy  for  their  own  staff  whereas  the  Ministries  of Rehabilitation and Rural Development, Agriculture, Women's Affairs and Justice are implementing literacy programs as activities. Under the overall framework of Literary Initiative for Empowerment (LIFE) Afghanistan, local NGOs, national and international organizations, and UN agencies  are  also  implementing  literacy  courses  to  support  the  Ministry  of  Education  in achieving the EFA goals.
 
-Shortage of professional staff, financial resources and budget (both development and ordinary) are  the  main  obstacles  hindering  the  expansion  and  development  of  literacy  programs.  The program did not receive any development budget in 1387 (2008), and its ordinary budget in 1388 (2009) was only 227 million Afs (approximately 4.5 million USD).
+Shortage of professional staff, financial resources and budget (both development and ordinary) are the main obstacles hindering the expansion and development of literacy programs. The
 
-| P a g e 49
+49 | P a g e
 
 [[END OF PAGE 54]]
 
 [[START OF PAGE 55]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+program did not receive any development budget in 1387 (2008), and its ordinary budget in 1388 (2009) was only 227 million Afs (approximately 4.5 million USD).
 
 ### Curriculum and Learning Materials
 
@@ -1541,9 +1792,9 @@ In  order  to  coordinate  literacy  teacher  training  activities,  a  Literacy
 
 A  functional  system  for  assessment  of  learning  achievements  of  literacy  learners  and measurement of the quality of courses does not exist. The research that has been conducted shows  that  the  quality  of  literacy  courses  and  learning  achievements  of  learners  are  not satisfactory for several reasons. Nine months is not enough for literacy programs. There is  a shortage of textbooks. The existing literacy programs only cover skills like reading and writing and rarely include vocational courses. The programs are not interesting and learners gradually lose  their  interest.  And  finally,  these  programs  do  not  pave  the  way  for  further  formal education.
 
-The shortage of qualified literacy teachers particularly females is another main reason behind the low quality of courses.  Because of  the implementation of the Ministry's new policy that requires  more  attention  to  rural  areas  and  transfer  of  teaching  positions  to  districts,  2,750 literacy  teachers  became general  education  teachers. Since  the  illiteracy  rate  is high  in  rural areas, new teachers are very hard to find. Teachers in rural areas do not have the required education and need to be trained more in order to be able to teach the literacy textbooks and use other  learning  materials.  The  Literacy  Department  does  not  have  a  new  curriculum  and enough skilled educators to train literacy teachers, so a decision has been made to use school teachers as literacy teachers after the school time where needed.
+The shortage of qualified literacy teachers particularly females is another main reason behind the low quality of courses. Because of the implementation of the Ministry's new policy that requires more attention to rural areas and transfer of teaching positions to districts, 2,750 literacy teachers became general education teachers. Since the illiteracy rate is high in rural areas, new teachers are very hard to find. Teachers in rural areas do not have the required
 
-| P a g e 50
+50 | P a g e
 
 [[END OF PAGE 55]]
 
@@ -1551,23 +1802,25 @@ The shortage of qualified literacy teachers particularly females is another main
 
 Draft National Education Strategic Plan (2010-2014)
 
+education and need to be trained more in order to be able to teach the literacy textbooks and use other learning materials. The Literacy Department does not have a new curriculum and enough skilled educators to train literacy teachers, so a decision has been made to use school teachers as literacy teachers after the school time where needed.
+
 ### Academic Supervision
 
 There are two supervisors for each city and district, two supervisors in provincial capitals, and 12  in  the  central  literacy  department.  This  is  not  sufficient  for  implementation  of  a  quality monitoring  and  evaluation  system  due  to  logistical  problems  and  lack  of  professional  and experienced  staff.    To  improve  monitoring  of  the  literacy  activities  and  establish  a  literacy databank, forms have been developed, revised, printed and distributed to literacy units. The forms have been sent to provinces to gather information, and seminars have been held on how to complete the forms. The literacy database is being developed.
 
 ### Management and Coordination
 
-Afghanistan is now covered by the universal program Literary Initiative for Empowerment (LIFE) that  is  used  as  a  strategic  framework  to  improve  literacy  programs.  Two  major  programs 'Literacy and Community Empowerment Project 2' (LCEP2) and 'Empowerment of Literacy in Afghanistan' (ELA) were also launched in 1387 (2008).
+Afghanistan is now covered by the universal program Literary Initiative for Empowerment (LIFE) that is used as a strategic framework to improve literacy programs. Two major programs “Literacy and Community Empowerment Project 2” (LCEP2) and “Empowerment of Literacy in Afghanistan” (ELA) were also launched in 1387 (2008).
 
 LCEP2  provides  micro-credit,  establishes  microfinance  banks  in  communities  and  seeks  to increase productive skills while building critical reading, writing and computational abilities as well  as  enhancing  critical  thinking.  LCEP2  will  reach  300,000  learners  in  more  than  3,000 communities of 18 provinces over 5 years. Of the total beneficiaries, 60% will be women. The courses provided by the program will each last for 18 months.
 
-ELA uses the National literacy curriculum and will train 600,000 learners over five years. The program has started its activities in 50 districts of 9 provinces. In 1389 (2010) ELA will expand to 100  districts  in  18  provinces.  The  program  provides  nine-month  literacy  courses  and  threemonth vocational training courses.
+ELA uses the National literacy curriculum and will train 600,000 learners over five years. The program has started its activities in 50 districts of 9 provinces. In 1389 (2010) ELA will expand to 100 districts in 18 provinces. The program provides nine-month literacy courses and three-month vocational training courses.
 
 Due to the shortage of literacy teachers, these programs will recruit teachers with an education of lower than grade 12. With the consent of the Ministry of Education, however, a credentialing and accreditation system is being developed.
 
 In addition to budget and human resource shortages the Department faces several challenges, including insufficient information on literacy programs run by NGOs that do not coordinate with the Literacy Department and lack of a system to involve communities more in the provision of literacy  programs  at  provincial  and  district  levels.  Though  many  literacy  offices  have  been equipped, most literacy offices still do not have the needed equipment to support the program.
 
-| P a g e 51
+51 | P a g e
 
 [[END OF PAGE 56]]
 
@@ -1584,12 +1837,55 @@ Since implementation of the NESP began, 19,718 classrooms have been constructed 
 The average student-classroom ratio, according to 1387 (2008) statistics, is 141, but there is considerable disparity among the provinces - the lowest in Panjsher is 73 and the highest in Ghor is 287 (see figure 10).
 
 Figure 10 : students- classroom ratio, 1387 (2008)
+Students to Classroom Ratio
+350
+300
+250
+200
+150
+100
+50
+0
+Panjshir
+Bamyan
+Logar
+Farah
+Badghis
+Nimroz
+Badakhshan
+Parwan
+Ghazni
+Kandahar
+Paktia
+Jawzjan
+Laghman
+Nuristan
+Takhar
+Samangan
+Kapisa
+Hilmand
+Kunar
+Paktika
+Wardak
+Kunduz
+Hirat
+Kabul
+Baghlan
+Balkh
+Nangarhar
+Khost
+Faryab
+Uruzgan
+Sari Pul
+Daikundi
+Zabul
+Ghor
 
 Source: MoE Statistics, 1387 (2008)
 
 There are several major challenges that hinder school construction efforts in the country. These include challenges related to the budget, such as insufficient  budget for school construction, delay of budget approval by the Cabinet and Parliament, the problematic working procedure between MoF and other governmental organizations (with regard to the development budget), and delays  by  the  Provincial  Finance  Departments  in  delivering  the  budget  to  the  Provincial Education Departments. In addition the time-consuming procurement process results in delays in construction projects as does the closure of bank accounts every year due to auditing and clearance issues. Finally the lack of coordination between central departments and provincial departments, especially in the determination of places for school construction and the lack of construction  companies  in  third  level  provinces  such  as  Daikundi,  Nuristan,  Zabul,  etc.  also hinder school construction efforts.
 
-| P a g e 52
+52 | P a g e
 
 [[END OF PAGE 57]]
 
@@ -1599,7 +1895,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 ### Construct and Equip Islamic Schools and Dar-ul-Ulums
 
-The construction work for 65 Dar-ul-Ulums and Islamic schools has started, and work on 19 Darul-Ulums and Islamic schools has been completed. Still, only five percent of Islamic schools and Dar-ul-Ulums have usable buildings.
+The construction work for 65 Dar-ul-Ulums and Islamic schools has started, and work on 19 Dar-ul-Ulums and Islamic schools has been completed. Still, only five percent of Islamic schools and Dar-ul-Ulums have usable buildings.
 
 ### Construct and Equip TVET Schools
 
@@ -1619,9 +1915,9 @@ Standards and safety criteria for the design and construction of education offic
 
 Engineering  teams  that  consist  of,  on  average,  five  engineers  and  a  senior  engineer,  are deployed  in  each  province  to  supervise  the  quality  of  the  buildings.  Each  field  engineer  is responsible for quality control of specific buildings. In case of any variation of work progress from standard design the field engineer will instruct the contractor to fix it according to the agreed design. The engineers, however, need to be trained on international (ICB) bidding codes.
 
-Lack of appropriate transport is a serious challenge for field engineers to be able to monitor and complete quality control checks. In addition, in some provinces, there is no coordination between the Ministry of Education and development partners in the construction of schools, and there is no coordination between the Education Infrastructure Department and Provincial Education Departments particularly in specifying land for schools.
+Lack of appropriate transport is a serious challenge for field engineers to be able to monitor and complete quality control checks. In addition, in some provinces, there is no coordination between the Ministry of Education and development partners in the construction of schools,
 
-| P a g e 53
+53 | P a g e
 
 [[END OF PAGE 58]]
 
@@ -1629,7 +1925,9 @@ Lack of appropriate transport is a serious challenge for field engineers to be a
 
 Draft National Education Strategic Plan (2010-2014)
 
-The process of surveying the land allocated for teachers' residential areas by the government started  in  10  provinces  with  the  cooperation  of  the  Ministry  of  Rural  Rehabilitation  and Development. So far, 102,129 jaribs of land have been allocated for teachers' residential areas.
+and there is no coordination between the Education Infrastructure Department and Provincial Education Departments particularly in specifying land for schools.
+
+The process of surveying the land allocated for teachers' residential areas by the government started in 10 provinces with the cooperation of the Ministry of Rural Rehabilitation and Development. So far, 102,129 jaribs of land have been allocated for teachers' residential areas.
 
 ## Education Administration Development
 
@@ -1643,15 +1941,17 @@ To enhance capacity and increase the efficiency of education offices, the Minist
 
 The  registration  of  Ministry  employees  has  been  completed  in  Kabul  and  34  provinces  to ascertain and identify qualified employees, prevent administrative corruption, and facilitate the payment of salaries through the banking system. Detailed particulars of the employees have been entered into a database.
 
-Since  1386  (2007),  6,000  employees  have  been  trained  on  management,  finance,  ICT, computer,  English  language  and  recruitment  procedures.  Lack  of  incentive  for  learning  and participants' financial expectations from trainings are problems affecting the efficiency of the capacity  building  programs.  The  Ministry  of  Education  does  not  yet  have  a  comprehensive capacity building plan in place.
+Since 1386 (2007), 6,000 employees have been trained on management, finance, ICT, computer, English language and recruitment procedures. Lack of incentive for learning and participants' financial expectations from trainings are problems affecting the efficiency of the
 
-| P a g e 54
+54 | P a g e
 
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+capacity building programs. The Ministry of Education does not yet have a comprehensive capacity building plan in place.
 
 ### Development of Financial System
 
@@ -1667,19 +1967,21 @@ An efficient and effective financial system does not exist between the Finance D
 
 All education departments in the capital and provinces, 20% of district education offices, and 15% of educational institutes have been equipped with telephones. Around 40% of the central departments in the capital and provinces but none of the district departments and educational institutes are equipped with computer and printer. All education departments in the capital and 50% of provincial education offices have access to internet, but the district education offices and educational institutes do not have access to such facilities. Despite these improvements in availability of  equipment only 5% of Ministry's employees have been trained on information technology.
 
-The project 'one laptop per child' has recently started. With the cooperation of its partners, the  project  will  distribute  5,000  free  XO  laptops  for  grade  4-6  students  in  the  capital  and provinces. The project has already provided 2,000 XO laptops for children in Kabul and 400 for children in Nangarhar. The project's objective is to educate children on computer and facilitate their learning process. The laptops are connected to the internet. The implementation of the project will encourage parents to provide laptops for their other children.
+The project “one laptop per child” has recently started. With the cooperation of its partners, the project will distribute 5,000 free XO laptops for grade 4-6 students in the capital and provinces. The project has already provided 2,000 XO laptops for children in Kabul and 400 for children in Nangarhar. The project's objective is to educate children on computer and facilitate their learning process. The laptops are connected to the internet. The implementation of the project will encourage parents to provide laptops for their other children.
 
 ### Land and Properties
 
-In order to increase incentives for teachers, 102,129 jaribs of land have been allocated for the construction of teacher's residential areas in the center and provincial capitals. In Deh Sabz of Kabul, the contract for the allocation of  240 jaribs of land for teachers' residential areas has been concluded between the Ministry of Education and the Ministry of Agriculture.  After an inauguration ceremony attended by His Excellency President, Cabinet members, members of the  Parliament  and  other  public  organizations,  1,101  plots  of  land  in  Kabul  have  been distributed to teachers based on temporary deeds. In addition 539 jaribs that were a gift from the people were allocated for construction of schools in the provinces and districts.
+In order to increase incentives for teachers, 102,129 jaribs of land have been allocated for the construction of teacher's residential areas in the center and provincial capitals. In Deh Sabz of Kabul, the contract for the allocation of 240 jaribs of land for teachers' residential areas has
 
-| P a g e 55
+55 | P a g e
 
 [[END OF PAGE 60]]
 
 [[START OF PAGE 61]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+been concluded between the Ministry of Education and the Ministry of Agriculture. After an inauguration ceremony attended by His Excellency President, Cabinet members, members of the Parliament and other public organizations, 1,101 plots of land in Kabul have been distributed to teachers based on temporary deeds. In addition 539 jaribs that were a gift from the people were allocated for construction of schools in the provinces and districts.
 
 ### Management and Coordination
 
@@ -1699,7 +2001,7 @@ The first National Education Strategic Plan for Afghanistan (NESP) was developed
 
 The planning system is still very centralized in the Ministry of Education. The central Education Departments and Provincial Departments do not yet play an active role in the development of strategic and operational plans.  In addition the finalized plans and budgets are not available to central departments and provincial departments on a timely basis and the education activities carried out in the center and provinces are still not fully in line with the strategic plan. Activities and their costs have still not been standardized.
 
-| P a g e 56
+56 | P a g e
 
 [[END OF PAGE 61]]
 
@@ -1725,7 +2027,7 @@ As a  follow-up  to  the  first  Afghanistan  Education  Development  Forum  (ED
 
 Issues relating to education development, plans, achievements and challenges are disseminated to various communities, influential people, politicians, donors, etc. in different forms including news reports, round tables, and publications. The mass media is monitored and the news bulletins and other remarks made on education are analyzed and communicated to relevant responsible authorities.
 
-| P a g e 57
+57 | P a g e
 
 [[END OF PAGE 62]]
 
@@ -1733,7 +2035,7 @@ Issues relating to education development, plans, achievements and challenges are
 
 Draft National Education Strategic Plan (2010-2014)
 
-| P a g e 58
+58 | P a g e
 
 [[END OF PAGE 63]]
 
@@ -1745,15 +2047,15 @@ Draft National Education Strategic Plan (2010-2014)
 
 This Strategic Plan contains five priority programs, each of which is led by a Deputy Minister, except  for  the  sub-program  on  Strategic  Management  Development  (under  Program  5: Education Management) that reports directly to the Minister of Education. In this chapter, the overall goal, objectives, components and targets are explained for each program.
 
-- General and Islamic Education
+1. General and Islamic Education
 
-- Curriculum Development, Teacher Education and Science and Technology Education
+2. Curriculum Development, Teacher Education and Science and Technology Education
 
-- Technical and Vocational Education
+3. Technical and Vocational Education
 
-- Literacy
+4. Literacy
 
-- Education Management
+5. Education Management
 
 ## Program One: General and Islamic Education
 
@@ -1771,7 +2073,7 @@ Establishing outreach classes in areas in need (particularly in remote areas whe
 
 Increasing  girls'  enrolment  is  a  priority  for  the  Ministry,  especially  in  rural  areas.  Important strategies therefore will include the  establishment and upgrading of girls' secondary schools, and relocation of female teachers to rural areas through an incentive scheme. In addition, as discussed in the Teacher Education sub-program the Ministry will increase its efforts to enroll girls from rural areas in its programs. The Ministry will consistently monitor the improvement of girls' education.
 
-| P a g e 59
+59 | P a g e
 
 [[END OF PAGE 64]]
 
@@ -1801,7 +2103,7 @@ By end of 1393 (2014):
 
  Increase enrolment in basic education
 
-| P a g e 60
+60 | P a g e
 
 [[END OF PAGE 65]]
 
@@ -1829,17 +2131,17 @@ Draft National Education Strategic Plan (2010-2014)
 
 #### Priority Program Components
 
-- Access to General Education
+1) Access to General Education
 
-- Extracurricular Activities
+2) Extracurricular Activities
 
-- Student Services
+3) Student Services
 
-- Distance Education
+4) Distance Education
 
-- Academic Supervision
+5) Academic Supervision
 
-- Management and Coordination
+6) Management and Coordination
 
 #### Component One: Access to General Education
 ##### Targets:
@@ -1860,7 +2162,7 @@ By end of 1393 (2014):
 
  Establish 4,800 new outreach classes with the cooperation of communities and NGOs.
 
-| P a g e 61
+61 | P a g e
 
 [[END OF PAGE 66]]
 
@@ -1890,9 +2192,9 @@ The enrolment of girls in general schools is low due to the shortage of female t
 
 One  of  the  primary  concerns  of  the  Ministry  is  ensuring  equitable  access  to  education throughout  the  country.  For  this  purpose,  the  Ministry  is  conducting  a  thorough  school mapping survey that will be completed by the end of 1389. The main objective of the survey is to identify the location of schools and regions in need of schools in order to use the information to decide about the establishment of new schools and upgrading of existing schools. In remote areas and villages which do not meet the requirements for the establishment of a school, the Ministry will establish outreach classes to provide all school age children with education. The Ministry will establish and support 4,800 outreach classes with the cooperation of communities and NGOs by 1393 (2014).
 
-Inclusive education is another of the Ministry's policies to ensure education for all children. The Ministry will gradually implement this policy and all children, including children with disabilities, will  learn  in  one  classroom.  Such  policy  requires  the  revision  of  the  curriculum,  teacher education  programs,  and  training  of  the  school  supervisors.  Before  this  policy  can  be  fully implemented,  the  Ministry  plans  to  establish  16  competence  centers  for  children  with disabilities  (with  priorities  for  children  with  visual  impairment,  hearing  impairment  and developmental impairment). Based on an understanding with the Independent Department for Kuchi Affairs, the Ministry will also establish 500 schools for Kuchis by 1393 (2014).
+Inclusive education is another of the Ministry's policies to ensure education for all children. The Ministry will gradually implement this policy and all children, including children with disabilities, will learn in one classroom. Such policy requires the revision of the curriculum, teacher education programs, and training of the school supervisors. Before this policy can be fully implemented, the Ministry plans to establish 16 competence centers for children with disabilities (with priorities for children with visual impairment, hearing impairment and
 
-| P a g e 62
+62 | P a g e
 
 [[END OF PAGE 67]]
 
@@ -1900,7 +2202,9 @@ Inclusive education is another of the Ministry's policies to ensure education fo
 
 Draft National Education Strategic Plan (2010-2014)
 
-At present, 46% of school age children are out of school. Some of these are older children who have missed years of education. Working children also lag behind as they cannot attend school regularly.  Ministry of education will target children from poor families. To provide them with access to education, 3,200 accelerated learning centers will be established with the assistance of NGOs. These centers will also include flexible classes for working children in urban areas. The Ministry will supervise the establishment and activities of these centers.
+developmental impairment). Based on an understanding with the Independent Department for Kuchi Affairs, the Ministry will also establish 500 schools for Kuchis by 1393 (2014).
+
+At present, 46% of school age children are out of school. Some of these are older children who have missed years of education. Working children also lag behind as they cannot attend school regularly. Ministry of education will target children from poor families. To provide them with access to education, 3,200 accelerated learning centers will be established with the assistance of NGOs. These centers will also include flexible classes for working children in urban areas. The Ministry will supervise the establishment and activities of these centers.
 
 By 1393 (2014) one model schools will be established in each province with boarding facilities. The schools will be equipped with training material and equipment including audiovisual and ICT. Research and project development will be carried out in 1389. In 1390 (2011) two model schools will be established in two provinces for pilot experiment. Based on the lessons learned and  successful  results  of  the  pilot  experiment  model  schools  will  be  established  in  other provinces. The top students of grade 9, and where applicable grade 6, acquiring first position in the school at the district level will be introduced for enrollment in model school. In addition gifted children/students will also be enrolled in model schools. Specialized assessment system will be developed to identify gifted children.
 
@@ -1910,7 +2214,7 @@ The  Ministry  will  recruit  100,000  new  teachers  for  primary  schools  and
 
 As another means of increasing access the Ministry will work with the private sector to facilitate the opening of private schools. The regulations on the establishment of private schools have been approved and therefore can be used throughout the country. A new policy allows private schools to be registered at  the  provincial  level  rather  than  having  to  come  to  the  capital  to register. The Ministry will supervise these schools to ensure that the Ministry's curriculum and regulations are implemented therein.
 
-| P a g e 63
+63 | P a g e
 
 [[END OF PAGE 68]]
 
@@ -1918,7 +2222,7 @@ As another means of increasing access the Ministry will work with the private se
 
 Draft National Education Strategic Plan (2010-2014)
 
-The Ministry will provide education for all children prevented from schooling due to security reasons. To achieve this, the Ministry will adopt different strategies including involvement of elders and local influential people, and establishment of community based and Islamic schools. (See  also  component  five  'security  and  protection'  under  the  Sub-Program  5.2  Education Administrative Development.)
+The Ministry will provide education for all children prevented from schooling due to security reasons. To achieve this, the Ministry will adopt different strategies including involvement of elders and local influential people, and establishment of community based and Islamic schools. (See also component five “security and protection” under the Sub-Program 5.2 Education Administrative Development.)
 
 #### Component Two: Extracurricular Activities
 
@@ -1958,7 +2262,7 @@ By 1393 (2014)
 
  Provide dormitory facilities for 10% of secondary students.
 
-| P a g e 64
+64 | P a g e
 
 [[END OF PAGE 69]]
 
@@ -1990,15 +2294,17 @@ By 1393 (2014):
 
  Evaluate the programs broadcast by the Educational Radio and TV
 
-Education Radio and Television (ERTV) will be equipped and linked with satellite in order to expand its coverage to all provinces. An 18-hour program schedule will be developed and will include  the  need  of  all  programs  and  sub-programs  of  the  ministry  for  distance  education. Educational audiovisual programs will be developed in close consultation with other departments  and  will  contain  pre-school  education,  general  and  Islamic  education,  teacher education,  literacy,  technical  and  vocational  education,  and  awareness  raising  on  education plans, policies and procedures. These programs will provide access to education for all people, particularly for women and those living in remote areas. The Education Radio and TV and local radios  and  televisions  will  be  used  for  broadcasting  such  programs.  In  order  to  improve  the quality of  distance education  programs, a  research  and evaluation  system will  be  developed and implemented.
+Education Radio and Television (ERTV) will be equipped and linked with satellite in order to expand its coverage to all provinces. An 18-hour program schedule will be developed and will include the need of all programs and sub-programs of the ministry for distance education. Educational audiovisual programs will be developed in close consultation with other departments and will contain pre-school education, general and Islamic education, teacher
 
-| P a g e 65
+65 | P a g e
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+education, literacy, technical and vocational education, and awareness raising on education plans, policies and procedures. These programs will provide access to education for all people, particularly for women and those living in remote areas. The Education Radio and TV and local radios and televisions will be used for broadcasting such programs. In order to improve the quality of distance education programs, a research and evaluation system will be developed and implemented.
 
 #### Component Five: Academic Supervision
 
@@ -2038,7 +2344,7 @@ By the end of 1393 (2014):
 
  Hold quarterly meetings with other general education stakeholders
 
-| P a g e 66
+66 | P a g e
 
 [[END OF PAGE 71]]
 
@@ -2056,9 +2362,9 @@ The Ministry will seek to increase the efficiency of all employees through commu
 
 The Ministry will also develop and implement a computerized system for maintaining students' academic  records.  This  will  help  improve  school  administration,  facilitate  the  collection  of information  and  issuance  of  certificates  for  students,  and  improve  management  of  student affairs. This activity will be done in consultation with the EMIS Department.
 
-Like other programs, the General Education Sub-Program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of its programs, and in  line  with  the  National  Education  Strategic  Plan  for  Afghanistan.  Quarterly  reports  on  the progress and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six  months  will  be  carefully  evaluated  and  the  results  will  be  used  to  revise  and  develop operational plans.
+Like other programs, the General Education Sub-Program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of its programs, and in line with the National Education Strategic Plan for Afghanistan. Quarterly reports on the progress and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over
 
-| P a g e 67
+67 | P a g e
 
 [[END OF PAGE 72]]
 
@@ -2066,7 +2372,9 @@ Like other programs, the General Education Sub-Program will develop annual opera
 
 Draft National Education Strategic Plan (2010-2014)
 
-| P a g e 68
+six months will be carefully evaluated and the results will be used to revise and develop operational plans.
+
+68 | P a g e
 
 [[END OF PAGE 73]]
 
@@ -2078,7 +2386,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 #### Overall Goal
 
-Develop  and  improve  Islamic  Education  in  order  to  develop  young  people  with  capabilities needed  for  teaching;  religious  preaching;  leading  prayers;  working  in  government,  nongovernment and private organizations and pursuing their studies in higher education institutes.
+Develop and improve Islamic Education in order to develop young people with capabilities needed for teaching; religious preaching; leading prayers; working in government, non-government and private organizations and pursuing their studies in higher education institutes.
 
 #### Overall Strategies
 
@@ -2102,15 +2410,15 @@ Since  the  Islamic  education  curriculum  is  being  developed  in  the  Curri
 
 #### Priority Program Components
 
-- Access to Islamic Education
+1) Access to Islamic Education
 
-- Student Services
+2) Student Services
 
-- Academic Supervision
+3) Academic Supervision
 
-- Management and Coordination
+4) Management and Coordination
 
-| P a g e 69
+69 | P a g e
 
 [[END OF PAGE 74]]
 
@@ -2131,7 +2439,7 @@ By 1393 (2014):
 
  Establish 32 new Dar-ul-Ulums for females in 32 provinces
 
- Enroll 190,000 students in Islamic schools and 10,000 students in grades 13-14 of Dar-ulUlums
+ Enroll 190,000 students in Islamic schools and 10,000 students in grades 13-14 of Dar-ul-Ulums
 
  Recruit 2,830 Islamic teachers of whom at least 40% will be female
 
@@ -2139,7 +2447,7 @@ By 1393 (2014):
 
 The  enrolment  of  girls  in  Islamic  schools  is  very  low.  To  increase  their  enrolment  different public awareness activities will be implemented. Through imams of mosques campaigns will be organized about the inclusion of girls in Islamic education. In addition, meetings will be held between Islamic Education Department officials and ulema, community elders and parents to discuss  the  importance  of  Islamic  education  for  girls.  The  Department  will  also  increase awareness through the use of the media, especially ERTV.
 
-Attracting girls to Dar-ul-Ulums is  another priority of the Islamic Education Sub-Program. This will  ultimately  increase  the  number  of  female  teachers  and therefore the number of  female Islamic students. The Ministry will establish one Dar-ul-Ulum for  females beside each Dar-ulUlum for males in each province. This will require the establishment of 32 new Dar-ul-Ulums for girls which will be equipped with dormitories and other necessary equipment.
+Attracting girls to Dar-ul-Ulums is another priority of the Islamic Education Sub-Program. This will ultimately increase the number of female teachers and therefore the number of female Islamic students. The Ministry will establish one Dar-ul-Ulum for females beside each Dar-ul-Ulum for males in each province. This will require the establishment of 32 new Dar-ul-Ulums for girls which will be equipped with dormitories and other necessary equipment.
 
 In order to increase the number of students in Islamic schools to 190,000, and the number of students in grades 13 and 14 of Dar-ul-Ulums to 10,000 by 1393 (2014), approximately 280 new Islamic  schools  will  be  established  in  districts.  Existing Dar-ul-Huffaz outreach  classes  in populated  districts  will  also  be  upgraded  to  independent Dar-ul-Huffaz leading  to  the establishment of 77 new Dar-ul-Huffaz .
 
@@ -2147,15 +2455,17 @@ According to the policy of the Ministry, the pupil teacher ratio for Islamic edu
 
 Efforts to bring the contents of the Islamic and General Education curricula closer to each other will continue. Additional Islamic content will be added to the General Education curriculum and general education subjects like mathematics, science, social sciences, Dari/Pushto and English will be part of the Islamic Education curriculum.
 
-Islamic  schools  presently  lack  necessities  like  buildings,  textbooks,  laboratories  and  sports facilities.  By  1393  (2014)  the  Ministry  plans  to  equip  Islamic  schools  and Dar-ul-Ulums with these facilities to improve the quality of services which will help prevent youth from going to other countries for Islamic education.
+Islamic schools presently lack necessities like buildings, textbooks, laboratories and sports facilities. By 1393 (2014) the Ministry plans to equip Islamic schools and Dar-ul-Ulums with
 
-| P a g e 70
+70 | P a g e
 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+these facilities to improve the quality of services which will help prevent youth from going to other countries for Islamic education.
 
 The Ministry will encourage individuals and the private sector to contribute to the provision of Islamic education. The Islamic Education Department will facilitate the registration of private schools and will provide them with advice and support, particularly in the areas of curriculum development and teacher education.
 
@@ -2167,7 +2477,7 @@ The Ministry will encourage individuals and the private sector to contribute to 
 
  Provide dormitories for 30,000 students
 
-Presently, 7,760 Islamic students are accommodated in dormitories of Islamic schools and Darul-Ulums .  These  dormitories  are  funded  through  private  donations  and  the  Ministry  of Education  budget.  To  facilitate  access  of  poor  students  to  Islamic  schools  and Dar-ul-Ulums , new dormitories  will  be  established  and  30,000  students  will  be  accommodated  in  them  by 1393 (2014). Health services will be provided to students as described under component three of sub-program 1.1 general education.
+Presently, 7,760 Islamic students are accommodated in dormitories of Islamic schools and Dar-ul-Ulums. These dormitories are funded through private donations and the Ministry of Education budget. To facilitate access of poor students to Islamic schools and Dar-ul-Ulums, new dormitories will be established and 30,000 students will be accommodated in them by 1393 (2014). Health services will be provided to students as described under component three of sub-program 1.1 general education.
 
 #### Component Three: Academic Supervision
 
@@ -2185,7 +2495,7 @@ There is a shortage of supervisory staff. Therefore, the number of supervisors w
 
 The  supervisors  will  regularly  visit  (three  times  a  year)  the  Islamic  Education  institutes  to inspect  their  administrative  and  teaching  affairs  and  provide  feedback  and  support  to  the administrators and teachers.
 
-| P a g e 71
+71 | P a g e
 
 [[END OF PAGE 76]]
 
@@ -2224,9 +2534,9 @@ As  mentioned  in  the  situation  analysis,  the  Ministry  can  certify  the  
 
 The Islamic Education Board will be established in 1389 to conduct research on main issues and solve  technical  problems  of  the  Islamic  Education  Department.  This  Board  will  also  make recommendations related to policies and implementation of Islamic Education to the leadership of the Ministry.
 
-Like other programs, the Islamic Education Sub-Program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of Islamic programs, and  in  line  with  the  National  Education  Strategic  Plan  for  Afghanistan.  Each  year  the department will also prepare a budget for facilities' improvements and equipment and submit its request to the Procurement Department. Quarterly reports on the progress and challenges of the program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop operational plans.
+Like other programs, the Islamic Education Sub-Program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of Islamic programs, and in line with the National Education Strategic Plan for Afghanistan. Each year the department will also prepare a budget for facilities' improvements and equipment and submit its request to the Procurement Department. Quarterly reports on the progress and challenges of the program will be prepared and submitted to the Department of Planning and Evaluation
 
-| P a g e 72
+72 | P a g e
 
 [[END OF PAGE 77]]
 
@@ -2234,9 +2544,11 @@ Like other programs, the Islamic Education Sub-Program will develop annual opera
 
 Draft National Education Strategic Plan (2010-2014)
 
-A comprehensive database will be developed to cover all activities of the Islamic Education SubProgram; the database will be part of the Ministry's EMIS and will contain all information on the Islamic  education  programs.  It  will  be  used  for  monitoring,  evaluation  and  planning.  The information  on  program  activities  will  be  collected  from  districts  and  provinces  and  will  be communicated to the center by academic supervisors.
+and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop operational plans.
 
-| P a g e 73
+A comprehensive database will be developed to cover all activities of the Islamic Education Sub-Program; the database will be part of the Ministry's EMIS and will contain all information on the Islamic education programs. It will be used for monitoring, evaluation and planning. The information on program activities will be collected from districts and provinces and will be communicated to the center by academic supervisors.
+
+73 | P a g e
 
 [[END OF PAGE 78]]
 
@@ -2262,15 +2574,17 @@ Efforts to bring the contents of the Islamic and General Education curricula clo
 
 The Ministry will use the private sector to print and distribute textbooks and learning materials. The Ministry will develop systems, however, to supervise these processes and make sure that students have access to complete sets of textbooks.
 
-Provincial master trainers, science supervisors and academic supervisors will be trained on the new curriculum. These individuals will then be responsible for  introducing the new books to teachers  and  for  helping  them  to  implement  the  curriculum  correctly.  The  Curriculum Department  will  also  share  the  new  curriculum  and  textbooks,  developed  for  General Education, with the Teacher Education Department. The TTC instructors will be trained on the new  curriculum  and  new  curriculum  will  be  incorporated  into  pre/in-service  education programs.  How  to  teach  the  subject  matter  textbook  is  part  of  the  teacher  education curriculum.
+Provincial master trainers, science supervisors and academic supervisors will be trained on the new curriculum. These individuals will then be responsible for introducing the new books to teachers and for helping them to implement the curriculum correctly. The Curriculum Department will also share the new curriculum and textbooks, developed for General Education, with the Teacher Education Department. The TTC instructors will be trained on the new curriculum and new curriculum will be incorporated into pre/in-service education
 
-| P a g e 74
+74 | P a g e
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+programs. How to teach the subject matter textbook is part of the teacher education curriculum.
 
 The new curriculum will be implemented more efficiently and effectively if student teachers learn the new curriculum during their teacher education programs so that they are immediately ready  to  teach  using  the  new  textbooks  and  know  how  to  adapt  them  to  local  needs  and conditions. In addition school administrators and supervisors will be trained so that they can provide necessary support for the implementation of the curriculum. To improve the quality of curricula  developed  for  all  programs  of  the  Ministry,  an  autonomous  National  Institute  for Curriculum Development will be established in 1390 (2011). This Institute will be responsible for the broad curricular policies of General and Islamic Education and will also coordinate the curriculum  development  for  Teacher  Education,  Technical  and  Vocational  Education  and Literacy Education. Capacity building activities for the Curriculum Development staff particularly the young developers will also be a priority in the coming five years.
 
@@ -2313,7 +2627,7 @@ By 1393 (2014):
 
  Revise the General Education textbooks
 
-| P a g e 75
+75 | P a g e
 
 [[END OF PAGE 80]]
 
@@ -2345,9 +2659,9 @@ The existing curriculum contains one subject that is a general introduction to v
 
 To  revise  and  improve  the  quality  of  the  curriculum  the  Department  will  employ  multiple strategies  include  experimentally  introducing  books,  evaluating  the  implementation  of  the curriculum in General and Islamic schools, and collecting feedback from teachers and students. The  results  will  be  used  to  revise,  reform  and  bring  necessary  changes  to  the  curriculum framework, the syllabi, textbooks and learning materials. This will result in quality textbooks and  learning  aids  that  are  consistent  with  the  current  conditions  and  modern  scientific developments.  The  curriculum  department  in  close  collaboration  with  general  education department will research on bi-lingual education using both of the official national languages of Dari and Pashto.
 
-In line with the national Constitution, in the areas where the third languages are spoken the schools will provide the opportunity to  students who speak in third languages  to learn their native  language  in  each  grade.  The  Curriculum  Development  Sub-Program  is  developing textbooks for Pamiri, Turkmani, Uzbeki, Pashii, Baluchi, and Nurestani languages for grades 112. These will be completed by 1393 (2014).
+In line with the national Constitution, in the areas where the third languages are spoken the schools will provide the opportunity to students who speak in third languages to learn their native language in each grade. The Curriculum Development Sub-Program is developing textbooks for Pamiri, Turkmani, Uzbeki, Pashii, Baluchi, and Nurestani languages for grades 1-12. These will be completed by 1393 (2014).
 
-| P a g e 76
+76 | P a g e
 
 [[END OF PAGE 81]]
 
@@ -2387,7 +2701,7 @@ To ensure the effectiveness of regular exams in General and Islamic schools, the
 
 To ensure the realization of planned educational objectives contained in the curriculum and advancement of students on a transparent and equitable basis throughout the country, the learning  achievements  of  students  will  also  be  measured  through  a  standard  national assessment which will be developed based on a comprehensive bank of examination questions. The assessment data will be used to analyze the strengths and weaknesses of the education system and how to improve students' learning achievements. The test results may also be used to assist with the direction of students into either on-going General Education or Technical and Vocational Education after grade 9. Finally the results will be used to evaluate and revise the curriculum and teacher education programs.
 
-| P a g e 77
+77 | P a g e
 
 [[END OF PAGE 82]]
 
@@ -2431,7 +2745,7 @@ Master  trainers  and  academic  supervisors  will  be  oriented  to  the  new  
 
  Provide  improved  working conditions for all staff of the  Curriculum  Development Department by 1393 (2014)
 
-| P a g e 78
+78 | P a g e
 
 [[END OF PAGE 83]]
 
@@ -2449,7 +2763,7 @@ The results of this review will also assist with the establishment of the autono
 
 Like other programs, the Curriculum Development Sub-Program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of the sub-program and in line with the National Education Strategic Plan for Afghanistan. Each year the Department will also prepare a budget for facilities' improvements and equipment and submit  its  request  to  the  Procurement  Department.  Quarterly  reports  on  the  progress  and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop operational plans.
 
-| P a g e 79
+79 | P a g e
 
 [[END OF PAGE 84]]
 
@@ -2467,15 +2781,15 @@ To develop the capacities of General and Islamic Education male and female teach
 
 Teacher recruitment will be gradually decentralized and will be based on an identification of needs  at  the  school  and  provincial  level  matched  with  each  applicant's  field  of  study  and competencies. The teachers for upper  secondary school should be university graduate.   The need for subject-matter teaching positions in upper secondary schools in each province will be communicated to universities for students' enrollment planning purpose. Opportunities will be provided for existing teachers to enhance their level of education through in-service programs. In addition, special teacher training programs will be provided for females in remote areas that have a shortage of female teachers.
 
-The  General  Education  Department  will  identify  and  communicate  the  number  of  subjectmatter teaching positions required in each school and district to Teacher Education Department. Enrollment in both pre-service and in-service teacher training programs will then be based on these needs. Grade 12 graduates from the districts will be enrolled in TTCs based on a special examination that will be developed by the Ministry of Education in coordination with  the  Ministry  of  Higher  Education.  In  addition  a  joint  committee  will  be  established between the Ministry of Education and Ministry of Higher Education that will review the Kankur results and admit students to TTCs in their home provinces based on the needs of the districts and provinces. This process has started but will be strengthened over the plan period.
+The General Education Department will identify and communicate the number of subject-matter teaching positions required in each school and district to Teacher Education Department. Enrollment in both pre-service and in-service teacher training programs will then be based on these needs. Grade 12 graduates from the districts will be enrolled in TTCs based on a special examination that will be developed by the Ministry of Education in coordination with the Ministry of Higher Education. In addition a joint committee will be established between the Ministry of Education and Ministry of Higher Education that will review the Kankur results and admit students to TTCs in their home provinces based on the needs of the districts and provinces. This process has started but will be strengthened over the plan period.
 
-A key strategy for increasing girls' enrollment is for the Ministry to increase the number and quality of female teachers. In order to address these needs the Ministry will focus first on inservice  programs  to  improve  the  capacity  of  existing  female  teachers  and  will  also  focus  on increasing the number of women enrolled in the Ministry's pre-service programs. Satellite TTCs will  be  established  in  the  districts  to  provide  in-service  training  initially  and  later,  where needed,  pre-service  education.  This  strategy  will  bring  the  teacher  training  closer  to  where teachers live and will increase the participation of female teachers. In addition special teacher education programs will also be provided for women who have an education lower than grade 12 in order to increase the number of female teachers in remote areas.
+A key strategy for increasing girls' enrollment is for the Ministry to increase the number and quality of female teachers. In order to address these needs the Ministry will focus first on in-service programs to improve the capacity of existing female teachers and will also focus on increasing the number of women enrolled in the Ministry's pre-service programs. Satellite TTCs will be established in the districts to provide in-service training initially and later, where needed, pre-service education. This strategy will bring the teacher training closer to where teachers live and will increase the participation of female teachers. In addition special teacher education programs will also be provided for women who have an education lower than grade 12 in order to increase the number of female teachers in remote areas.
 
 The Ministry of Education will encourage the support of the private sector in the establishment of TTCs. This may include financial contributions and sponsorships for the establishment of TTCs or the establishment of private TTCs that are accredited by the Ministry and that will receive the teacher training curriculum and other necessary guidance from the Ministry. A mechanism will be put in place to ensure the quality of teacher education programs provided by the private sector.
 
 To  improve  the  quality  of  all  of  the  Ministry's  teacher  education  programs,  the  Teacher Education Department will be transformed into a National Institute for Teacher Education in
 
-| P a g e 80
+80 | P a g e
 
 [[END OF PAGE 85]]
 
@@ -2515,7 +2829,7 @@ By 1393 (2014):
 
 - Establishment of Professional Development System
 
-| P a g e 81
+81 | P a g e
 
 [[END OF PAGE 86]]
 
@@ -2559,7 +2873,7 @@ By 1393 (2014):
 
  Train all teachers through INSET 1, 2 and 3
 
-| P a g e 82
+82 | P a g e
 
 [[END OF PAGE 87]]
 
@@ -2596,7 +2910,7 @@ By 1393 (2014)
 
 Remote area allowances of 8,000 to 10,000 Afghanis (approximately 160-200 USD) will be paid to teachers educators in 18 provinces where there is a shortage of TTC teachers. The provinces included in the scheme are Kandahar, Helmand, Uruzgan, Zabol, Pakia, Paktica, Khost, Nimruz, Farah, Daikundi, Bamian, Badghis, Logar, Panjsher, Konar, Ghor, Nurestan, and Sar-e-Pul. These allowances will be in addition to the regular salary and allowances of teacher educators.
 
-| P a g e 83
+83 | P a g e
 
 [[END OF PAGE 88]]
 
@@ -2629,7 +2943,7 @@ By 1393 (2014):
 
 The new Teacher Education curriculum and syllabi have been developed based on the General Education curriculum and Teacher Education standards. Textbooks are being developed and will be completed for all TTC subjects by 1389. The existing textbooks consist of 340 titles (half in Dari and half in Pashto). The number will reach to 400 as new subjects areas are established. As 110,000 student teachers will be educated by 1393 (2014), five million textbooks will need to be printed and distributed.
 
-| P a g e 84
+84 | P a g e
 
 [[END OF PAGE 89]]
 
@@ -2659,7 +2973,7 @@ By 1393 (2014):
 
 The National Teacher Education Academy has been established to design and provide short-, medium- and long-term programs for teachers from TTCs, satellites TTCs, and other staff of the Teacher Education Department. The Academy will also serve as a center for development of policies and new teacher education programs to address national issues like the shortage of female  teachers.  It  will  also  measure  the  impact  of  teacher  training  programs  on  students'
 
-| P a g e 85
+85 | P a g e
 
 [[END OF PAGE 90]]
 
@@ -2698,7 +3012,7 @@ With  the  cooperation  of  recognized  teacher  education  institutes,  the  wo
 
 The Teacher Education Department will also review all legal documents including regulations, procedures and guidelines for the Department and revise as necessary. Such revisions will be done through a consultative process and will incorporate other countries' experience and the context in Afghanistan. The documents will be available to the public through the Ministry's website.
 
-| P a g e 86
+86 | P a g e
 
 [[END OF PAGE 91]]
 
@@ -2724,7 +3038,7 @@ To develop basic capabilities of teachers and schools to set up, maintain and us
 
 A National Centre of Science and Technology Education, with mini satellites in every province, will be established in order to assess and support students' learning achievements in science and technology. Experiences of other countries in establishing and running similar centres will be explored and best practices will be adopted for Afghanistan.
 
-| P a g e 87
+87 | P a g e
 
 [[END OF PAGE 92]]
 
@@ -2766,7 +3080,7 @@ By 1393 (2014)
 
 A survey will be conducted by science supervisors in the provinces to determine the schools where  labs  are  needed.  Standard  science/math  kits  and  science  labs  have  already  been developed  by  the  science  center.  Books  and  reading  materials  for  libraries,  science  and mathematic kits for primary schools (grade 4-6) and science and ICT labs for secondary grades
 
-| P a g e 88
+88 | P a g e
 
 [[END OF PAGE 93]]
 
@@ -2810,7 +3124,7 @@ A lab technician will be recruited in each school prior to establishing a labora
 
  Conduct a mid-year review of programs and projects each year and revise  activities  and projects as needed to achieve targets
 
-| P a g e 89
+89 | P a g e
 
 [[END OF PAGE 94]]
 
@@ -2824,9 +3138,9 @@ A  team  of  24  core  Afghan  trainers  (BSC  with  minimum  of  7  years  work
 
 A  database  will  be  developed  by  1390  (2011)  to  plan  for  and  monitor  distribution  of laboratories and science kits and training of teachers on application of lab experiments.
 
-Like other programs, the Science and Technology sub-program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of the subprogram and in line with the National Education Strategic Plan for Afghanistan. Each year the NCSTE will also prepare a budget for facilities' improvements and equipment and submit its request to the Procurement Department. Quarterly reports on the progress and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop operational plans.
+Like other programs, the Science and Technology sub-program will develop annual operational plans based on a situation analysis and assessment of the progress and efficiency of the sub-program and in line with the National Education Strategic Plan for Afghanistan. Each year the NCSTE will also prepare a budget for facilities' improvements and equipment and submit its request to the Procurement Department. Quarterly reports on the progress and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop operational plans.
 
-| P a g e 90
+90 | P a g e
 
 [[END OF PAGE 95]]
 
@@ -2858,7 +3172,7 @@ By 1393 (2014):
 
  Increase enrolment and training of TVET students from 19,500 in 1388 to 150,000
 
-| P a g e 91
+91 | P a g e
 
 [[END OF PAGE 96]]
 
@@ -2913,7 +3227,7 @@ By 1393 (2014):
 
  Increase enrolment in TVET schools and institutes to 150,000 students (30% of whom will be girls)
 
-| P a g e 92
+92 | P a g e
 
 [[END OF PAGE 97]]
 
@@ -2935,7 +3249,7 @@ In line with the national Constitution and the Education Law and strategies to s
 
 An increase in the number of technical and vocational institutes will necessitate an increase in the number of teachers. According to the policies of the Ministry, the target pupil-teacher ratio for practical training will be 13 in 1393 (2014). Therefore, the Ministry will need to recruit 8,800 new teachers over the coming five years. This will increase the number of teachers to 11,900 in 1393 (2014). They will be recruited based on their expertise and the needs of technical and vocational schools. The salaries must be competitive with the private labor market, otherwise professional  teachers  cannot  be  attracted  to  public  technical  and  vocational  schools.  To increase the salaries of TVET instructors the Ministry will increase the salary base through pay and  grade,  provide  remote  area  allowances  for  some  provinces  and  increase  the  academic benefit allowances.
 
-| P a g e 93
+93 | P a g e
 
 [[END OF PAGE 98]]
 
@@ -2974,7 +3288,7 @@ By 1393 (2014):
 
 Comprehensive research, in close collaboration with MoLSA/NSDP, will be conducted on the needs of the labor market and will be used to establish TVET subjects and develop the curricula. Subjects for which there is a demand in the market will be introduced and the TVET curricula will be revised to support the competencies needed in the market. The distribution of students to three-year upper secondary TVET programs and two-year post-secondary programs provided by the regional institutes will be based on the comprehensive market survey, the new curricula and the interest of students. The TVET research unit will study the needs of the market and the employment status of TVET graduates and its results will be used for planning.
 
-| P a g e 94
+94 | P a g e
 
 [[END OF PAGE 99]]
 
@@ -3004,7 +3318,7 @@ Short-term training courses will be held to enhance the capacity of  TVET teache
 
 Quality cannot improve without a reform of teaching methods. With the cooperation of the Teacher  Education  Department  and  using  their  technical  capacity,  short-term  courses  on pedagogy will be held for all TVET teachers by 1393 (2014).
 
-| P a g e 95
+95 | P a g e
 
 [[END OF PAGE 100]]
 
@@ -3048,7 +3362,7 @@ By 1393 (2014):
 
  Hold quarterly coordination meetings with other TVET stakeholders
 
-| P a g e 96
+96 | P a g e
 
 [[END OF PAGE 101]]
 
@@ -3076,7 +3390,7 @@ To provide literacy to males and females aged 15 and above in order to enable th
 
 To increase the number of literacy learners and encourage people to  join literacy programs, public awareness  programs  will be strengthened  and  other resources like  the  media (particularly the Education Radio and Television), mosques, religious ulema and general schools will be used to promote literacy.  In some areas, development partners will offer incentives like food,  healthcare  and  seeds  particularly  to  women.  A  transparent  mechanism  will  be  put  in place for the equitable distribution of such incentives.
 
-| P a g e 97
+97 | P a g e
 
 [[END OF PAGE 102]]
 
@@ -3100,7 +3414,7 @@ According to the Education Law, literacy learning is mandatory for contract staf
 
 By 1393 (2014):
 
-| P a g e 98
+98 | P a g e
 
 [[END OF PAGE 103]]
 
@@ -3108,7 +3422,7 @@ By 1393 (2014):
 
 Draft National Education Strategic Plan (2010-2014)
 
- Increase the national literacy rate of the population aged 15 and over from the current level of 26 10 % (12% female and 39 % male) to 48% (43% females and 54% males).
+ Increase the national literacy rate of the population aged 15 and over from the current level of 26¹⁰% (12% female and 39 % male) to 48% (43% females and 54% males).
 
  Provide literacy courses for 3.6 million literacy learners
 
@@ -3122,15 +3436,15 @@ Draft National Education Strategic Plan (2010-2014)
 
 #### Priority Program Components
 
-- Equitable Access to Literacy Centers
+1) Equitable Access to Literacy Centers
 
-- Curriculum and Learning Material Development and Revision
+2) Curriculum and Learning Material Development and Revision
 
-- Training of Teachers and Literacy Supervisors
+3) Training of Teachers and Literacy Supervisors
 
-- Academic Supervision
+4) Academic Supervision
 
-- Coordination and Management
+5) Coordination and Management
 
 #### Component One: Equitable Access to Literacy Centers
 ##### Targets:
@@ -3155,7 +3469,7 @@ By 1393 (2014):
 
 > 10 Main Report of National Risk and Vulnerability Assessment (2007/2008).
 
-| P a g e 99
+99 | P a g e
 
 [[END OF PAGE 104]]
 
@@ -3178,7 +3492,7 @@ If 140,000 courses are held over the next five years and the number of courses i
 
 By 1393 (2014):
 
-| P a g e 100
+100 | P a g e
 
 [[END OF PAGE 105]]
 
@@ -3209,7 +3523,7 @@ A standard system will be developed and implemented to assess and evaluate the l
 
  Develop the curriculum and learning materials for training of teachers and supervisors by 1389
 
-| P a g e 101
+101 | P a g e
 
 [[END OF PAGE 106]]
 
@@ -3247,7 +3561,7 @@ By 1393 (2014):
 
 Since  the  existing  literacy  supervision  system  is  old,  the  program  will  develop  a  new  system including new procedures and forms. After the system is developed, literacy supervisors will be trained in the new system. In the new Tashkil of the Ministry, six professional members of the Literacy Program will be stationed in each district education office. The literacy manager will be responsible to establish and supervise the literacy courses in the district.
 
-| P a g e 102
+102 | P a g e
 
 [[END OF PAGE 107]]
 
@@ -3280,7 +3594,7 @@ The Literacy Department will review all legal documents including regulations, p
 
 The  Department  will  work  to  strengthen  the  capacity  of  literacy  staff  in  the  capital  and provinces.  Training  will  be  provided  on  management,  computer,  English  language  and  other professional subjects.
 
-| P a g e 103
+103 | P a g e
 
 [[END OF PAGE 108]]
 
@@ -3292,7 +3606,7 @@ Like  other  programs, the  Literacy  Program will  develop annual  operational 
 
 A comprehensive database will be developed to cover all activities of the Literacy Program. The database  will  be  part  of  the  Ministry's  EMIS  and  will  contain  all  information  on  literacy programs. It will be used for monitoring, evaluation and planning. The information on program activities will be collected from districts and provinces and will be communicated to the center by the literacy supervisors.
 
-| P a g e 104
+104 | P a g e
 
 [[END OF PAGE 109]]
 
@@ -3322,7 +3636,7 @@ Part of the strategy to improve people's participation in education affairs will
 
 To ensure efficiency and cost-effectiveness in construction works, the Ministry will ensure that local  resources  and  materials  are  used  to  the  extent  possible.  Schools  will  be  constructed throughout the country on an equitable basis. More works will be allocated to provinces where the  student  classroom  ratio  is  higher  or  where  useable  buildings  do  not  exist.    School construction programs not only provides conducive learning environment for children by also create employment and income for local labors.
 
-| P a g e 105
+105 | P a g e
 
 [[END OF PAGE 110]]
 
@@ -3354,23 +3668,23 @@ Draft National Education Strategic Plan (2010-2014)
 
 #### Priority Program Components
 
-- Identification of Rehabilitation and Construction Needs
+1. Identification of Rehabilitation and Construction Needs
 
-- Construction and Equipping of General Schools
+2. Construction and Equipping of General Schools
 
-- Construction and Equipping of Islamic Schools and Dar-ul-Ulums
+3. Construction and Equipping of Islamic Schools and Dar-ul-Ulums
 
-- Construction and Equipping of Technical and Vocational Schools
+4. Construction and Equipping of Technical and Vocational Schools
 
-- Construction and Equipping of TTCs, Science Centers and Labs
+5. Construction and Equipping of TTCs, Science Centers and Labs
 
-- Construction and Equipping of Educational Offices in Provinces and Districts
+6. Construction and Equipping of Educational Offices in Provinces and Districts
 
-- Monitoring and Quality Control
+7. Monitoring and Quality Control
 
-- Maintenance of Buildings
+8. Maintenance of Buildings
 
-- Management and Coordination
+9. Management and Coordination
 
 #### Component One: Identification of Rehabilitation and Construction Needs
 ##### Targets:
@@ -3383,7 +3697,7 @@ Draft National Education Strategic Plan (2010-2014)
 
  Develop an annual plan for rehabilitation and construction of schools
 
-| P a g e 106
+106 | P a g e
 
 [[END OF PAGE 111]]
 
@@ -3421,7 +3735,7 @@ To expand the network of general schools and provide buildings for newly establi
 
 The new standard school  designs include provisions to equip general schools with furniture, safe  drinking  water,  sanitation  facilities  and  boundary  walls.  Therefore  all  new  construction contracts  will  include  such  facilities.  Many  existing  schools  do  not  have  these  facilities, however,  so  the  Ministry  will  build  boundary  walls  for  2,000  schools  (especially  for  girls' schools), equip 4,000 schools with furniture (average 1,000 students each), and provide water and sanitation facilities for 5,000 schools within the next five years. Sports facilities will also be built for 6,600 schools.  In order to improve the quality of science and ICT teaching and learning at high schools 2,000 buildings for science and ICT labs will be constructed within the existing high  schools  where  lab  rooms  are  not  already  constructed  as  part  of  the  school  building.  In addition, the Ministry will construct 50 small residential houses that will be attached to new school buildings. These houses will be occupied by caretaker teacher families. The Ministry of Education will research the feasibility and impact of this housing scheme with respect to its impact  on  improving  school  protection  and  reducing  related  costs.  The  decision  on  further expansion of this activity will be made based on the research findings and recommendations.
 
-| P a g e 107
+107 | P a g e
 
 [[END OF PAGE 112]]
 
@@ -3440,7 +3754,7 @@ By 1393 (2014):
 
  Construct boundary walls for 220 existing Islamic schools
 
- Provide safe drinking water facilities and sanitary toilets for 200 Islamic schools and Darul-Ulums
+ Provide safe drinking water facilities and sanitary toilets for 200 Islamic schools and Dar-ul-Ulums
 
  Provide tables and chairs to 380 Islamic schools and Dar-ul-Ulums
 
@@ -3467,7 +3781,7 @@ Sports  facilities  will  be  provided  for  450 Dar-ul-Ulums and  Islamic  scho
 
 To help ensure the expansion of technical and vocational education throughout the country, the Ministry will build and equip 110 new complexes for technical and vocational institutes and schools  (existing  schools  that  do  not  have  buildings  plus  new  schools)  by  1393  (2014).  In addition  to  increase  access  to  TVET  throughout  the  country,  the  Department  will  build  and equip  364  district-level  schools.  The  new  complexes  will  be  equipped  with  all  equipment necessary  for  technical  and  vocational  education.  In  addition  34  technical  and  vocational centers will be rehabilitated, expanded and equipped by 1393 (2014). To facilitate the access of students in rural and remote areas to technical and vocational education, 121 dormitories will also be built.
 
-| P a g e 108
+108 | P a g e
 
 [[END OF PAGE 113]]
 
@@ -3510,7 +3824,7 @@ The Ministry will construct a new building for the central ministry by 1390 (201
 
  Strengthen the central engineering team for design and standards, and the provincial engineering teams for monitoring and quality control
 
-| P a g e 109
+109 | P a g e
 
 [[END OF PAGE 114]]
 
@@ -3552,7 +3866,7 @@ The  Ministry  will  obtain  one-year  guarantees  for  the  schools  and  admin
 
  Regularly maintain teaching and administrative buildings
 
-| P a g e 110
+110 | P a g e
 
 [[END OF PAGE 115]]
 
@@ -3587,7 +3901,7 @@ To  prevent  duplication  and  promote  cost-effectiveness,  the  Infrastructure
 
 Quarterly and yearly reports on infrastructure development activities will be prepared to be used in the evaluation of construction projects and to improve accountability of the Ministry.
 
-| P a g e 111
+111 | P a g e
 
 [[END OF PAGE 116]]
 
@@ -3621,7 +3935,7 @@ By 1393 (2014):
 
  Reform administrative, executive and recruitment structures; train, evaluate, reward and effectively  manage  Ministry  personnel  according  to  administrative  reform  norms  and modern management in order to enhance the efficiency of the personnel and administration to successfully implement education programs
 
-| P a g e 112
+112 | P a g e
 
 [[END OF PAGE 117]]
 
@@ -3655,19 +3969,19 @@ Draft National Education Strategic Plan (2010-2014)
 
 #### Priority Program Components
 
-- Administrative Reform and Human Resource Development
+1) Administrative Reform and Human Resource Development
 
-- Financial System Development
+2) Financial System Development
 
-- Information Communication Technology
+3) Information Communication Technology
 
-- Procurement and Logistics, Services and Properties
+4) Procurement and Logistics, Services and Properties
 
-- Security and Protection
+5) Security and Protection
 
-- Management and Coordination
+6) Management and Coordination
 
-| P a g e 113
+113 | P a g e
 
 [[END OF PAGE 118]]
 
@@ -3692,11 +4006,11 @@ Draft National Education Strategic Plan (2010-2014)
 
 The implementation of the revised Tashkil of the Ministry and the new pay and grade system has started at the central and provincial levels. The new structure is more responsive to the Ministry's core programs. There will be an on-going review of the organizational structure of the Ministry, however, in order to identify and make changes as needed. Gender policy will be mainstreamed in restructuring and positions will be made gender specific as much as possible.
 
-By  the  end  of  1388  (2009),  all  4,000  administrative  staff  in  the  central  Ministry  and  42,000 teachers  in  the  provinces  will  have  been  appointed  under  the  pay  and  grade  system.  All remaining teachers and 25% of administrative staff in the provinces will be appointed through this process in 1389 and the remaining administrative staff by the end of 1391 (2012). Those employed through the pay and grade scheme will receive higher salaries, which is expected to attract  more  capable  staff  to  the  Ministry  of  Education  and  thus  increase  efficiency  and effectiveness.  To  encourage  recruitment  and  appointment  of  qualified  teaching  and  nonteaching staff in rural areas, especially female staff, the Ministry of Education will work with the Civil Service Commission and the Ministry of Finance to provide additional allowances such as regional  allowances,  hazard  pay  and  special  top-up  pay  for  female  staff  relocating  to  rural areas.
+By  the  end  of  1388  (2009),  all  4,000  administrative  staff  in  the  central  Ministry  and  42,000 teachers  in  the  provinces  will  have  been  appointed  under  the  pay  and  grade  system.  All remaining teachers and 25% of administrative staff in the provinces will be appointed through this process in 1389 and the remaining administrative staff by the end of 1391 (2012). Those employed through the pay and grade scheme will receive higher salaries, which is expected to attract  more  capable  staff  to  the  Ministry  of  Education  and  thus  increase  efficiency  and effectiveness.  To  encourage  recruitment  and  appointment  of  qualified  teaching  and  non-teaching staff in rural areas, especially female staff, the Ministry of Education will work with the Civil Service Commission and the Ministry of Finance to provide additional allowances such as regional  allowances,  hazard  pay  and  special  top-up  pay  for  female  staff  relocating  to  rural areas.
 
 To date, capacity building programs have been implemented on an ad hoc basis, which makes it difficult  to  gauge  their impact  on  the  Ministry. To  organize  such activities  and  increase  their effectiveness, the Ministry will develop a comprehensive capacity building plan. According to the  plan,  at  least  80%  of  the  staff  of  the  Ministry  will  receive  training  on  various  relevant subjects  such  as  English  language,  computer,  human  rights,  gender  issues,  environmental protection,  and  counter-narcotics.  In  addition  based  on  the  identified  capacity  development needs of various staff members, more specialized trainings will be conducted including training in rules and regulations, policies and guidelines. Placement of technical advisors and specialists will  be  part  of  the  capacity  building  strategy  which  will  include  clear  objectives  for  system development, training of civil servant staff, filling the service delivery gap and a time bound exit strategy for the advisors. The Ministry of Education will make use of trainings provided by the Civil Service Commission.
 
-| P a g e 114
+114 | P a g e
 
 [[END OF PAGE 119]]
 
@@ -3728,7 +4042,7 @@ The Ministry is now implementing the program budgeting approach required by the 
 
 Timely and effective implementation of programs requires timely payments in the center and provinces. As mentioned in the situation analysis, presently payments are not made on time, for multiple reasons, which hinders implementation of the plans. The Ministry will therefore train  its  Finance,  Procurement  and  relevant  program  staff  on  rules,  regulations  and  proper procedures in order minimize errors and accelerate payments. Staff will also be trained to make adequate cash flow projections that will be submitted to the Ministry of Finance, which will help ensure that payments can be made on a timely basis.
 
-| P a g e 115
+115 | P a g e
 
 [[END OF PAGE 120]]
 
@@ -3764,7 +4078,7 @@ The Finance and Accounting Department will coordinate closely with the Grants Ma
 
 The  Ministry  of  Education  will  conduct  research  on  the  optimal  use  of  ICT  in  educational administration  and  management.  This  research  will  be  used  for  decisions  regarding  optimal technology  to  be  installed  in  offices  at  central  and  provincial  levels  and  to  increase  the efficiency of ICT use in all departments and offices. Additional research will also be conducted, in  close  collaboration  with  the  Curriculum,  Teacher  Education  and  Science  and  Technology Education program, regarding effective use of ICT for educational purposes.
 
-| P a g e 116
+116 | P a g e
 
 [[END OF PAGE 121]]
 
@@ -3793,7 +4107,7 @@ The  Ministry's  website  will  be  maintained  and  will  continue  to  be  use
 
  Provide support services (including transport facilities, goods for programs, office equipment  and  building  and  maintenance  services)  to  staff  in  the  capital  and  provinces when and as needed
 
-| P a g e 117
+117 | P a g e
 
 [[END OF PAGE 122]]
 
@@ -3825,7 +4139,7 @@ Although more than 11,000 educational facilities are active in Afghanistan, only
 
 Over the past years, the enemies of Afghanistan and education have been attacking schools, martyring  or  injuring  students  and  burning  facilities.  With  the  cooperation  of  security institutions, the Ministry has developed a system to protect education facilities and offices, and will equip and train protection officers in the capital and provinces.
 
-| P a g e 118
+118 | P a g e
 
 [[END OF PAGE 123]]
 
@@ -3857,7 +4171,7 @@ The  unit  in-charge  of  policy  and  procedures  under  the  office  of  the  
 
 Like other programs, the Education Administrative Development Sub-Program will, in line with the National Education Strategic Plan for Afghanistan, develop annual operational plans and budgets  based  on  a  situation  analysis  and  assessment  of  progress  and  efficiency.  Quarterly reports on the progress and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop annual operational plans.
 
-| P a g e 119
+119 | P a g e
 
 [[END OF PAGE 124]]
 
@@ -3887,7 +4201,7 @@ Strategic  decisions  and  actions  will  be  based  on  accurate  statistics  a
 
  Review and revise, as necessary, all policies, regulations, and guidelines and other legal documents by 1393
 
-| P a g e 120
+120 | P a g e
 
 [[END OF PAGE 125]]
 
@@ -3933,9 +4247,9 @@ Draft National Education Strategic Plan (2010-2014)
 
  Develop and make available to education departments and institutes the Afghanistan Education  Compendium  and  a  collection  of  education  legislative  documents  and guidelines by 1390 (2011)
 
-The  Ministry  will  develop  and  strengthen  the  Education  Academic  Council  as  a  professional body.  The  main  responsibilities  of  the  Council  will  be  to  conduct  research  on  policies, procedures, systems and educational strategies; to revise laws, regulations and guidelines and to  provide  recommendations  for  improving  the  quality  of  education.  The  Council  will  revise policies,  regulations  and  guidelines  and,  if  need  be,  develop  new  ones  to  ensure  equitable access to and quality of education, and to fight against administrative corruption.   The research and policy revision will be carried out in close coordination with relevant program departments and national and international research bodies.
+The Ministry will develop and strengthen the Education Academic Council as a professional body. The main responsibilities of the Council will be to conduct research on policies, procedures, systems and educational strategies; to revise laws, regulations and guidelines and to provide recommendations for improving the quality of education. The Council will revise policies, regulations and guidelines and, if need be, develop new ones to ensure equitable
 
-| P a g e 121
+121 | P a g e
 
 [[END OF PAGE 126]]
 
@@ -3943,7 +4257,9 @@ The  Ministry  will  develop  and  strengthen  the  Education  Academic  Council
 
 Draft National Education Strategic Plan (2010-2014)
 
-The Afghanistan Education Compendium will contain general information on Afghan education, the organizational structure of the Ministry, duties and responsibilities of each department, the main  policies  of  the  Ministry  and  other  important  information.  The  Compendium  will  be developed to raise public knowledge on education and to provide guidance for clients. All legal documents  of  the  Ministry  will  be  collected  and  printed  as  another  package,  and  made available  to  education  departments  and  institutes.  This  package  will  provide  education  staff with information related to policies, duties and procedures.
+access to and quality of education, and to fight against administrative corruption. The research and policy revision will be carried out in close coordination with relevant program departments and national and international research bodies.
+
+The Afghanistan Education Compendium will contain general information on Afghan education, the organizational structure of the Ministry, duties and responsibilities of each department, the main policies of the Ministry and other important information. The Compendium will be developed to raise public knowledge on education and to provide guidance for clients. All legal documents of the Ministry will be collected and printed as another package, and made available to education departments and institutes. This package will provide education staff with information related to policies, duties and procedures.
 
 #### Component Two: Strategic and Operational Planning
 
@@ -3965,7 +4281,7 @@ To  ensure  implementation  of  the  National  Education  Strategic  Plan  for  
 
 Beginning in 1391 (2012), the Planning and Evaluation Department will begin the process of training  and  supporting  the  districts'  education  offices  to  produce  district-level  annual operational  plans.  This  will  promote  a  needs-based  bottom-up  planning  approach.  By  1393
 
-| P a g e 122
+122 | P a g e
 
 [[END OF PAGE 127]]
 
@@ -3997,7 +4313,7 @@ The EMIS will gradually expand throughout the country to ensure that all educati
 
 A  standard  reporting  system  will  be  established  for  reporting  on  program  implementation progress  in  the  center  and  provinces.  National  and  provincial  focal  points  responsible  for reporting  on  programs,  components  and  main  activities/projects  will  be  assigned  for  each program and sub-program. Periodic reports will be submitted by provincial focal points to their relevant  program  focal  points  at  national  level.  The  national  program  focal  point  will consolidate provincial reports and submit a consolidated report to the Department of Planning and Evaluation. This system  will  allow  the  Ministry  to  more  efficiently  produce  consolidated quarterly and yearly reports. In addition, EMIS staff will be trained to develop reports based on users' identified needs.
 
-| P a g e 123
+123 | P a g e
 
 [[END OF PAGE 128]]
 
@@ -4031,7 +4347,7 @@ In 1389 the Ministry will hold joint meetings with donors and international part
 
 A system will be developed to track procurement, execution and conclusion of contracts for externally funded projects, including those supported by PRTs. This will include a database to register  and  store  information  on  funding, implementation,  monitoring  and  evaluation  of  all projects  that  are  funded  through  the  external  development  budget.    An  end  of  project summary  report  for  each  project  will  be  prepared  and  maintained  in  the  database.  Joint evaluation  of  major  projects  will  be  organized  through  the  Education  Development  Board
 
-| P a g e 124
+124 | P a g e
 
 [[END OF PAGE 129]]
 
@@ -4065,15 +4381,17 @@ The Ministry will strengthen its internal inspection and audit system so that it
 
  Organize quarterly coordination and consultation workshops for provincial and district officials every year
 
-Provision of quality education services for all requires implementation of the Ministry's policies, and  plans.  There  are  also  issues  in  delivery  of  education  programs  and  meeting  targets.  An effective communications strategy is therefore needed to disseminate information to all of the Ministry's  stakeholders  about  policies,  plans,  challenges,  and  progress.  The  purpose  of  the strategy is to build the trust of students, parents, communities, donors and others and attract their  support  for  education  in  Afghanistan.  The  Ministry  will  develop  public  awareness materials and analytical reports on policies, progress and existing education issues. These will be communicated through regular press conferences in the capital and provinces, the Ministry's website, internationally-recognized publications and other media. In addition to coordinating and consulting with decentralized district and provincial levels, the Ministry will hold regular quarterly  workshops  to  improve  coordination,  decision-making  processes  and  information sharing of policies and strategies with other levels.
+Provision of quality education services for all requires implementation of the Ministry's policies, and plans. There are also issues in delivery of education programs and meeting targets. An effective communications strategy is therefore needed to disseminate information to all of the Ministry's stakeholders about policies, plans, challenges, and progress. The purpose of the strategy is to build the trust of students, parents, communities, donors and others and attract their support for education in Afghanistan. The Ministry will develop public awareness materials and analytical reports on policies, progress and existing education issues. These will
 
-| P a g e 125
+125 | P a g e
 
 [[END OF PAGE 130]]
 
 [[START OF PAGE 131]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+be communicated through regular press conferences in the capital and provinces, the Ministry's website, internationally-recognized publications and other media. In addition to coordinating and consulting with decentralized district and provincial levels, the Ministry will hold regular quarterly workshops to improve coordination, decision-making processes and information sharing of policies and strategies with other levels.
 
 #### Component Seven: Management and Coordination
 
@@ -4095,7 +4413,7 @@ Education Development Board (EDB) meetings will be organized on a monthly basis 
 
 Like other programs, the Strategic Management Development sub-program will, in line with the National  Education  Strategic  Plan  for  Afghanistan,  develop  annual  operational  plans  and budgets  based  on  a  situation  analysis  and  assessment  of  progress  and  efficiency.  Quarterly reports on the progress and challenges of the sub-program will be prepared and submitted to the Department of Planning and Evaluation and the Ministry leadership. The activities of the sub-program over six months will be carefully evaluated and the results will be used to revise and develop operational plans.
 
-| P a g e 126
+126 | P a g e
 
 [[END OF PAGE 131]]
 
@@ -4125,7 +4443,7 @@ Non-governmental organizations will participate in implementation of NESP priori
 
 > 14 Running private schools, supply of goods and services, school construction, for example
 
-| P a g e 127
+127 | P a g e
 
 [[END OF PAGE 132]]
 
@@ -4145,15 +4463,17 @@ To  strengthen  effective  implementation  of  the  strategic  plan  and  operat
 
 The  most  important  factor  with  regard  to  plan  implementation  is  strengthening  delivery capacity at central, provincial, district and school levels. The Ministry of Education will recruit and deploy technical assistance to improve the systems, adequately staff provincial and district education offices and train civil servants and school managers in relevant disciplines. Special attention will be focused on improvement of financial management, procurement and logistics systems at national and provincial levels by deploying qualified staff and computerized systems to increase effectiveness and efficiency.
 
-Optimal  utilization  of  the  capacities  of  the  Afghan  private  sector  and  non-governmental organizations is an important factor for successful implementation of the NESP. The Ministry of Education  will  encourage  donors  to  develop  and  utilize  local  capacities  and  institutions  for implementation of projects funded through the external development budget. The Ministry of Education will endorse funding foreign organizations and companies as implementing partners only in exceptional cases when critical technical expertise is not available locally. The Ministry of Education will also use the Afghan private sector and non-governmental organizations for service delivery through contract awards from core budget.
+Optimal utilization of the capacities of the Afghan private sector and non-governmental organizations is an important factor for successful implementation of the NESP. The Ministry of Education will encourage donors to develop and utilize local capacities and institutions for implementation of projects funded through the external development budget. The Ministry of Education will endorse funding foreign organizations and companies as implementing partners only in exceptional cases when critical technical expertise is not available locally. The Ministry
 
-| P a g e 128
+128 | P a g e
 
 [[END OF PAGE 133]]
 
 [[START OF PAGE 134]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+of Education will also use the Afghan private sector and non-governmental organizations for service delivery through contract awards from core budget.
 
 To effectively implement NESP, coordination among different departments of the Ministry and between the Ministry and its partners at central and provincial levels will increase through joint meetings. Internal program coordination meetings will be organized within each program and across programs on a weekly basis both at central ministry and provincial levels. The Teacher Education program and the Technical and Vocational Education program will also implement their programs in coordination with the Ministry of Higher Education and the Ministry of Labor and Social Affairs, and other independent departments active in the education sector. Monthly and quarterly program coordination meetings will be organized with relevant stakeholders.
 
@@ -4171,7 +4491,7 @@ Availability and  willingness  of qualified  human  resources to  teach  in  the
 
 Government budget constraints and predictability of external  funding will negatively impact access  to  and  quality  of  education.  Through  EDB,  the  Ministry  of  Education  lobby  within Parliament and will encourage donors and MoF to provide adequate resources to education and prioritized activities.
 
-| P a g e 129
+129 | P a g e
 
 [[END OF PAGE 134]]
 
@@ -4201,7 +4521,7 @@ Program  and  component  directors  will  prepare  monitoring  plans  and  check
 
 Monthly  program/activity  updates  will  be  prepared  by  provincial  education  offices  and submitted to relevant program directors at national level. The program directors will prepare program summary updates and submit them to the Department of Planning and Evaluation.
 
-| P a g e 130
+130 | P a g e
 
 [[END OF PAGE 135]]
 
@@ -4223,7 +4543,7 @@ The  annual  audit  will  be  conducted  by  the  Office  of  the  Controller  a
 
 ### Meetings
 
-| P a g e 131
+131 | P a g e
 
 [[END OF PAGE 136]]
 
@@ -4231,7 +4551,7 @@ The  annual  audit  will  be  conducted  by  the  Office  of  the  Controller  a
 
 Draft National Education Strategic Plan (2010-2014)
 
-Monthly EDB meetings will be organized and updates will be provided to education partners on NESP implementation. The MoE will also organise semi-annual meetings in cooperation with the EDB. The meetings will serve as a common review of program performance including MoE, NGOs, private sector education partners and external funding partners to the sector. The semiannual review meetings will consist of one to review progress in the previous fiscal year and another to review proposed work-plans and budgets for the following fiscal year.
+Monthly EDB meetings will be organized and updates will be provided to education partners on NESP implementation. The MoE will also organise semi-annual meetings in cooperation with the EDB. The meetings will serve as a common review of program performance including MoE, NGOs, private sector education partners and external funding partners to the sector. The semi-annual review meetings will consist of one to review progress in the previous fiscal year and another to review proposed work-plans and budgets for the following fiscal year.
 
 The semi-annual meeting to review progress will be convened in Sawr/Jawza (May/June) and will review overall progress for the previous fiscal year based on expenditure reports, progress reports  and  annual  reports.  At  this  meeting  donors  will  be  expected  to  make  an  initial indication of funding to be provided for NESP for the following fiscal year, which will enable MoE to include this in their budget preparation process.
 
@@ -4245,15 +4565,17 @@ The  Department  of  Planning  and  Evaluation  will  also  provide  assistance 
 
 ### Reviews
 
-The semi-annual meetings will be presented with the relevant plans, budgets and reports as described in the section above. In addition, based on prior annual meeting decisions, MoE in cooperation with EDB will conduct reviews and studies before the next semi-annual meeting to assess actual outcomes of the NESP and/or to assess specific areas of focus under the NESP (like learning outcomes, coverage and outreach of services, efficiency and effectiveness of resource use, relevance and cost effectiveness of projects with external funds managed by partners out of  the  government  budget).  These  reviews  will  be  external  and  thus  serve  as  an  additional source  of  information  to  verify  progress  and  annual  reports  based  on  internal  monitoring systems, as well as to identify opportunities to conduct studies and assess outcomes in specific areas, both for monitoring purposes and for informing the MoE and donors.
+The semi-annual meetings will be presented with the relevant plans, budgets and reports as described in the section above. In addition, based on prior annual meeting decisions, MoE in cooperation with EDB will conduct reviews and studies before the next semi-annual meeting to assess actual outcomes of the NESP and/or to assess specific areas of focus under the NESP (like learning outcomes, coverage and outreach of services, efficiency and effectiveness of resource use, relevance and cost effectiveness of projects with external funds managed by partners out of the government budget). These reviews will be external and thus serve as an additional source of information to verify progress and annual reports based on internal monitoring
 
-| P a g e 132
+132 | P a g e
 
 [[END OF PAGE 137]]
 
 [[START OF PAGE 138]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+systems, as well as to identify opportunities to conduct studies and assess outcomes in specific areas, both for monitoring purposes and for informing the MoE and donors.
 
 ### Evaluation
 
@@ -4271,7 +4593,7 @@ The final evaluation report prepared at the end of the implementation phase will
 
 With the cooperation of universities and national and international research organizations, the Department  of  Planning  and  Evaluation  will  more  deeply  evaluate  some  components  or activities  of  the  plan  that  are  of  specific  importance  to  the  Ministry.  Such  evaluations  will consider the effectiveness, efficiency, and sustainability of activities. The results will be used in the revision of policies, objectives, and strategies adopted by the Ministry. The analytical results of such evaluations will be made available to the leadership of the Ministry.
 
-| P a g e 133
+133 | P a g e
 
 [[END OF PAGE 138]]
 
@@ -4283,7 +4605,7 @@ Draft National Education Strategic Plan (2010-2014)
 
 ## Costing
 
-Achieving the educational goals of NESP by 1393 (2014) and addressing the challenge presented by the Millennium Development Goals and Education for All will be costly. The pressure created by  the  number  of  students  already  in  the  system  and  our  shared  objective  to  increase  the quality and relevance of their education is greater now than it was five years ago. Demand from the community has outstripped supply and the future demands from current students require significant  additional  investments.  The  Ministry  must  accommodate  the  new  entrants,  build new  schools,  recruit  and  train  additional  (and  current)  teachers  to  higher  standards  of knowledge and skills and simultaneously manage short-term changes that will have long-lasting impact.  Improving  the  quality  of  teaching  is  not  possible  without  proper  remuneration  to attract and retain qualified teachers/staff. In addition, implementation of the new governmentwide Pay and Grade system will have huge cost implications.
+Achieving the educational goals of NESP by 1393 (2014) and addressing the challenge presented by the Millennium Development Goals and Education for All will be costly. The pressure created by the number of students already in the system and our shared objective to increase the quality and relevance of their education is greater now than it was five years ago. Demand from the community has outstripped supply and the future demands from current students require significant additional investments. The Ministry must accommodate the new entrants, build new schools, recruit and train additional (and current) teachers to higher standards of knowledge and skills and simultaneously manage short-term changes that will have long-lasting impact. Improving the quality of teaching is not possible without proper remuneration to attract and retain qualified teachers/staff. In addition, implementation of the new government-wide Pay and Grade system will have huge cost implications.
 
 While the investment required is great, education is the basic right of all children and adults and a pre-condition for democratic processes and social participation. It is the foundation for development of human resources required for economic development of the country and can contribute to poverty reduction and bringing peace and unity. Education service delivery also provides large number of employment opportunity nationwide.
 
@@ -4291,16 +4613,16 @@ While the investment required is great, education is the basic right of all chil
 
 The calculation of the base salary is made by multiplying the number of existing staff in 1388 (2009)  and  the  average  pre-Pay  and  Grade  salary  rate  for  each  category  of  staff  (teachers, officers, support staff).  Increase in salaries due to Pay and Grade is calculated separately. The existing staff will be covered under pay and grade in four years starting in 1388 (2009) (around 42,000 teaching staff in all provinces and 4,000 non-teaching staff in MoE center in 1388 (2009), remaining 132,906 teachers and 12,554 non-teaching staff in 1389, and the remaining 25,108 non-teaching staff in 1390-1391/2011-2012. Based on the increase in students enrollment and student teacher ratio over 165,000 new staff will be recruited in the coming five years. The cost of recruitment of new staff is calculated separately based on new pay and grade system.
 
+Table 8: Planned recruitment of new staff
+
 Summary | 1387 (2008) Actual | 1388 (2009) Projected | 1389 (2010) Estimate | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate | 1393 (2014) Estimate | Total 1389-1393 (2010-2014)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Teachers | 10,613 | 29,004 | 30,434 | 32,380 | 33,215 | 135,646
-Officers | 581 | 2,017 | 2,080 | 2,193 | 2,241 | 9,112
-Support staff | 1,709 | 4,392 | 4,639 | 4,922 | 5,054 | 20,716
+Teachers |  |  | 10,613 | 29,004 | 30,434 | 32,380 | 33,215 | 135,646
+Officers |  |  | 581 | 2,017 | 2,080 | 2,193 | 2,241 | 9,112
+Support staff |  |  | 1,709 | 4,392 | 4,639 | 4,922 | 5,054 | 20,716
 Total 4- New Recruitment | 12,500 | 12,500 | 12,903 | 35,413 | 37,153 | 39,495 | 40,510 | 165,474
 
-Table 8 : Planned recruitment of new staff
-
-| P a g e 134
+134 | P a g e
 
 [[END OF PAGE 139]]
 
@@ -4310,6 +4632,8 @@ Draft National Education Strategic Plan (2010-2014)
 
 An increase in the ratio of non-salary costs (budget line 22 and 25) is proposed in order to allow for supply of sufficient teaching  and learning material to schools/students, maintenance and repair of  buildings  constructed through  development budget, and covering the perdiem and traveling costs to improve supervision and monitoring.
 
+Table 9: Proposed salary and non-salary cost ratios
+
 Summary Costing | 1387 (2008) Actual | 1388 (2009) Projected | 1389 (2010) Estimate | 1390 (2011) Estimate | 1391 (2012) Estimate | 1392 (2013) Estimate | 1393 (2014) Estimate | Total 1389-1393 (2010-2014)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Operating (Recurrent) Expenditures
@@ -4318,13 +4642,13 @@ Goods and Services (22) | 11% | 9% | 15% | 16% | 17% | 18% | 19% | 17%
 Purchase of Assets (25) | 3% | 0% | 3% | 4% | 5% | 6% | 6% | 5%
 Sub-Total 2- Budget ratio Operating | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
 
-Table 9: Proposed salary and non-salary cost ratios
-
 The  proposed  option  will  have  a  number  of  comparative  advantages.  The  execution  rate  of operating budget has been successful as the civil servants managing the program and finances are familiar with the government ordinary budget system. In addition this will pave the way for integration of the operating and development budget in the future.
 
 ### Development Budget
 
 The government of Afghanistan is not in a position to cover the cost of education through the ordinary  budget  due  to  lack  of  internal  resources.  Donors'  contributions  to  education  are preconditions for success in achieving the NESP objectives and MDG and EFA goals. The major cost items calculated for the development  budget include construction of education institutions/schools, technical assistance in the form of TA staff and consultancy services, and other  program  costs  of  a  developmental  type  (for  example,  accelerated  teacher  education, community  based  education,  inclusive  education,  etc)  that  cannot  be  covered  through  the ordinary budget at this stage.
+
+Table 10: NESP Costing 1389-1393 (2010-2014)
 
 Ministry of Education
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4339,9 +4663,7 @@ Sub-Total All 5 Programs Operating | 262 | 282 | 519 | 674 | 804 | 940 | 1,083 |
 Development Budget | 61 | 199 | 739 | 785 | 890 | 955 | 1,003 | 4,371
 TOTAL All 5 Programs | 323 | 481 | 1,258 | 1,459 | 1,694 | 1,896 | 2,085 | 8,392
 
-Table 10 : NESP Costing 1389-1393 (2010-2014)
-
-| P a g e 135
+135 | P a g e
 
 [[END OF PAGE 140]]
 
@@ -4391,7 +4713,7 @@ Goods and Services (22) | 0 | 1 | 2 | 2 | 3 | 3 | 4 | 14
 Purchase of Assets (25) | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 4
 Sub-Total Program-4: Literacy Operating | 5 | 6 | 12 | 15 | 17 | 19 | 21 | 83
 
-| P a g e 136
+136 | P a g e
 
 [[END OF PAGE 141]]
 
@@ -4426,13 +4748,15 @@ Over 57.3% of the total development budget is directed at infrastructure develop
 
 The table below provides information on donors' funding commitment for the upcoming five years through core development budget.
 
-| P a g e 137
+137 | P a g e
 
 [[END OF PAGE 142]]
 
 [[START OF PAGE 143]]
 
 Draft National Education Strategic Plan (2010-2014)
+
+Table 11: donor's funding commitment through core development budget for 1389-1393 (2010-2014)
 
 All 5 Programs | Afghani Millions (AFS '000,000)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4444,7 +4768,7 @@ Literacy
 Education Management
 Sub-total | 3,030 | 9,929
 
-Table 11: donor's funding commitment through core development budget for 1389-1393 (20102014)
+Table 12: donor's funding commitment through external development budget for 1389-1393 (2010-2014)
 
 All 5 Programs | Afghani Millions (AFS '000,000)
 --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -4456,8 +4780,6 @@ Literacy
 Education Management
 Sub-total
 
-Table 12: donor's funding commitment through external development budget for 1389-1393 (2010-2014)
-
-| P a g e 138
+138 | P a g e
 
 [[END OF PAGE 143]]
