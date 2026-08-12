@@ -136,9 +136,12 @@ Criminal Investigations Division
 
 CIDA
 
-Coconut Industry Development Authority Convention on International Trade in Endangered Species of Wild Fauna and Flora
+Coconut Industry Development Authority
 
 CITES
+
+Convention on International Trade in Endangered Species of Wild
+Fauna and Flora
 
 CMDA
 
@@ -562,10 +565,11 @@ Small, Medium and Micro Enterprises
 
 SOPAC
 
-South Pacific Applied Geo-science Commission South Pacific Regional Trade and Economic Cooperation
+South Pacific Applied Geo-science Commission
 
 SPARTECA
 
+South Pacific Regional Trade and Economic Cooperation
 Agreement
 
 SRU
@@ -624,11 +628,97 @@ vii
 
 # Contents
 
+Chapter 1 Vision, Mission and Guiding Principles ...............................................1
+1.1 Introduction ...............................................................................................1
+1.2 Vision: “A peaceful, prosperous Fiji” .......................................................2
+1.2.1 Peace, Unity and Multi-racial Harmony ...............................................2
+1.2.2 Prosperity for All..................................................................................3
+1.3 Mission and Guiding Principles ................................................................3
+1.3.1 International Commitments ..................................................................4
+1.3.2 Consistent and Credible Policies ..........................................................5
+Chapter 2 Review of Social Development ............................................................6
+2.1 Quality of Life...........................................................................................6
+2.1.1 The Human Development Index and Millennium Development Goals 6
+2.1.2 Global Partnership for Development ....................................................6
+2.2 Poverty Alleviation....................................................................................7
+2.3 Social Justice and Affirmative Action.......................................................9
+2.4 Rural and Outer Island Development ......................................................11
+2.5 Security....................................................................................................12
+2.6 Law and Justice .......................................................................................14
+2.7 Environmental Sustainability ..................................................................16
+2.8 Housing ...................................................................................................18
+2.9 Urban Development ................................................................................20
+2.10 Health ......................................................................................................22
+2.11 Education and Training ...........................................................................25
+2.12 Gender Equality and Women in Development........................................27
+2.13 Children and Youth .................................................................................30
+2.14 Culture and Heritage ...............................................................................31
+2.15 Sports Development ................................................................................33
+2.16 Disaster Risk Reduction and Disaster Management................................35
+Chapter 3 Review of Economic Development ....................................................37
+3.1 Economic Management...........................................................................37
+3.1.1 Recent Developments .........................................................................37
+3.1.2 Private Sector Requirements...............................................................38
+3.1.3 Public Sector Challenges ....................................................................40
+3.1.4 Monetary Policy and Macroeconomic Conditions in 2006.................44
+3.1.5 Fiscal Position in 2006........................................................................47
+3.2 Sector Performance .................................................................................49
+3.2.1 Sectoral Challenges and Opportunities...............................................49
+3.2.2 Sugar...................................................................................................50
+3.2.3 Agriculture and Livestock ..................................................................52
+3.2.4 Forestry...............................................................................................54
+3.2.5 Marine Resources ...............................................................................56
+
 viii
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+3.2.6 Mineral and Groundwater Resources .................................................58
+3.2.7 Land Resource Development and Management .................................59
+3.2.8 Tourism...............................................................................................61
+3.2.9 Manufacturing and Commerce ...........................................................63
+3.2.10 Information and Telecommunications ...........................................65
+3.2.11 Financial Services ..........................................................................66
+3.2.12 Micro, Small and Medium Enterprises ..........................................68
+3.2.13 Transport........................................................................................69
+3.2.14 Energy............................................................................................73
+3.2.15 Water and Sewerage ......................................................................74
+3.2.16 Foreign Affairs and External Trade ...............................................76
+3.2.17 Employment and the Labour Market .............................................76
+Chapter 4 Medium Term Strategy: Maintaining Stability and Sustaining Growth 79
+4.1 Strategic Priorities ...................................................................................79
+4.2 Maintaining Stability...............................................................................81
+4.2.1 Promoting peace and harmony ...........................................................81
+4.2.2 Enhancing security, law and order......................................................82
+4.2.3 Alleviating poverty.............................................................................83
+4.2.4 Strengthening good governance..........................................................83
+4.2.5 Reviewing the Constitution ................................................................84
+4.2.6 Resolving the agricultural land lease issue .........................................84
+4.2.7 Implementing affirmative action ........................................................85
+4.3 Sustaining Growth...................................................................................85
+4.3.1 Macro-economic stability ...................................................................86
+4.3.2 Restructuring to promote competition and efficiency.........................86
+4.3.3 Raising Export Earnings.....................................................................87
+4.3.4 Raising investment levels for jobs and growth ...................................88
+4.3.5 Rural and outer island development ...................................................89
+4.4 Plans to Implement the Strategy..............................................................90
+Chapter 5 Macroeconomic Management ............................................................91
+5.1 Monetary Policy ......................................................................................91
+5.2 Fiscal Policy ............................................................................................91
+5.3 Summary and Key Performance Indicators.............................................93
+Chapter 6 Public Sector Restructuring ................................................................96
+6.1 The Public Sector ....................................................................................96
+6.1.1 The Need for Restructuring ................................................................96
+6.1.2 The Approach to Restructuring...........................................................96
+6.2 Civil Service............................................................................................98
+6.2.1 Civil Service Structure........................................................................98
+6.2.2 Human Resources ...............................................................................98
+6.2.3 Human Resources Management .........................................................99
+6.2.4 Asset Management .............................................................................99
+6.3 Public Enterprises..................................................................................100
+6.3.1 Restructuring Principles....................................................................100
 
 ix
 
@@ -636,12 +726,94 @@ ix
 
 [[START OF PAGE 11]]
 
+6.3.2 Public Sector Structures....................................................................101
+6.3.3 Accelerated Restructuring Programme.............................................103
+6.4 Public Sector Restructuring Plan...........................................................104
+Chapter 7 Maintaining Stability ........................................................................108
+7.1 Alleviating Poverty................................................................................108
+7.1.1 Poverty Alleviation...........................................................................108
+7.1.2 Rural and Outer Island Development ...............................................110
+7.1.3 Housing.............................................................................................112
+7.2 Social Justice .........................................................................................113
+7.2.1 Social Justice and Affirmative Action ..............................................113
+7.2.2 Gender Equality and Women in Development .................................115
+7.2.3 Children and Youth ..........................................................................117
+7.3 Social Services ......................................................................................119
+7.3.1 Urban Development..........................................................................119
+7.3.2 Health ...............................................................................................120
+7.3.3 Sports Development .........................................................................122
+7.3.4 Disaster Risk Reduction and Disaster Management.........................123
+7.4 Security, Law and Justice......................................................................125
+7.4.1 National Security ..............................................................................125
+7.4.2 Law and Justice ................................................................................126
+Chapter 8 Sustaining Growth ............................................................................130
+8.1 Economic Restructuring ........................................................................130
+8.1.1 Financial Services.............................................................................130
+8.1.2 Micro, Small and Medium Enterprises .............................................132
+8.1.3 Education and Training.....................................................................134
+8.1.4 Employment and the Labour Market................................................135
+8.2 International Trade ................................................................................137
+8.2.1 Manufacturing and Commerce .........................................................138
+8.2.2 Tourism.............................................................................................140
+8.2.3 Culture and Heritage.........................................................................142
+8.2.4 Mineral and Groundwater Resources ...............................................144
+8.2.5 Environmental Sustainability............................................................145
+8.2.6 Foreign Affairs and External Trade..................................................146
+8.3 Natural Resources..................................................................................148
+8.3.1 Sugar.................................................................................................148
+8.3.2 Agriculture and Livestock ................................................................150
+8.3.3 Forestry.............................................................................................151
+8.3.4 Marine Resources .............................................................................153
+8.3.5 Land Resource Development and Management ...............................154
+8.4 Infrastructure .........................................................................................156
+8.4.1 Information and Telecommunications ..............................................156
+8.4.2 Transport...........................................................................................157
+8.4.3 Energy...............................................................................................161
+8.4.4 Water and Sewerage .........................................................................163
+
 x
 
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
+Chapter 9 Implementation, Monitoring and Evaluation....................................165
+9.1 Purpose..................................................................................................165
+9.2 Vertical Coordination ............................................................................165
+9.3 Horizontal Coordination........................................................................166
+9.4 Coordination of External Assistance .....................................................167
+9.5 Monitoring and Evaluation System .......................................................168
+9.5.1 Monitoring the Key Performance Indicators ....................................168
+9.5.2 Managing the Process and Reporting ...............................................169
+9.6 Timeline for Coordination.....................................................................170
+List of Figures in the Text
+Figure 1: Ethnic and Rural – Urban Distribution of Incidence of Poverty ...................7
+Figure 2: Progress to MDG 4 Reduction in Child Mortality ......................................23
+Figure 3: Progress to MDG 5 Improved Maternal Health ..........................................23
+Figure 4: Progress to MDG 6 Combat HIV/AIDS and Other Diseases......................23
+Figure 5: Actual and Projected Real GDP Growth.....................................................44
+Figure 6: Foreign Exchange Reserves (F$M).............................................................45
+Figure 7: Real Interest Rates ......................................................................................46
+Figure 8: Actual and Projected Fiscal Balance...........................................................47
+Figure 9: Actual & Projected Debt to GDP Ratio ......................................................48
+Figure 10: Estimated Financing and Refinancing.......................................................48
+Figure 11 : Plans Supporting Strategic Priorities........................................................80
+Annex 1: Macroeconomic Data and Projections
+Table 1: Gross Domestic Product by Sector ($000), 2001-2009 .............................172
+Table 2: Gross Domestic Product by Sector - Growth Rates 2001-2009 ................173
+Table 3: Gross Domestic Product Shares by Sector (%), 2001-2009 ......................174
+Table 4: Exports by Major Commodities ($), 2000-2009........................................175
+Table 5: Exports by Major Commodities - Growth Rates (%), 2000-2009.............175
+Table 6: Imports by Major Commodities ($m), 2000-2009 ....................................176
+Table 7: Imports by Major Commodities - Growth Rates (%), 2000-2009.............176
+Table 8: Balance of Payments ($m), 2001-2009 .....................................................177
+Table 9: Real GDP Growth Rates, Foreign Reserves, Interest Rates, and Government Revenue, Expenditure and Debt.....................................................................178
+Table 10: Actual and Budgeted Expenditure (VAT inclusive), 1999-2006.............179
+Table 11: Government Expenditure on Key Priorities, 1999-2006 .........................179
+Table 12: Direct and Indirect Tax Concessions, 2002-2005....................................179
+Table 13: Gross Domestic Product at Constant 1995 Prices, 2000-2009 ................180
+Table 14: Gross Domestic Product at Current Factor Cost, 2000-2009 ..................180
+Table 15: Gross Domestic Product at Current Prices, 2000-2009 ...........................180
 Annex 2: Implementation, Monitoring and Evaluation
 
 xi
@@ -664,13 +836,13 @@ Strategic Development Plan 2007-2011: Part One: National Vision
 
 The  Strategic  Development  Plan  (SDP)  2007-2011  for  Fiji  is  the  culmination  of consultations  with  a  wide  range  of  stakeholders  in  the  private  sector,  non-government organisations  and  Government.  The  plan  draws  extensively  on  the  Manifesto  of  the Soqosoqo  Duavata  ni  Lewenivanua  Party  and  consensus  reached  with  the  Fiji  Labour Party on issues of national importance to the achievement of the Vision of a Peaceful and Prosperous Fiji. Lessons learnt from the mid-term Review of the Strategic Development Plan  2003-2005,  planning  document  released  in  November  2004,  has  contributed  to Government's decision on this Strategic Development Plan for 2007 to 2011.
 
-The Vision which drives the Plan is described in this chapter of Part One, together with the  Mission  and  Guiding  Principles  that  Government  will  follow  in  implementing policies. The Vision is a statement of Government's aspirations for Fiji in the medium to long term. The Mission and Guiding Principles summarise the approach and philosophy that Government will take in designing and implementing policies to achieve the Vision. The Vision and Guiding Principles continue as in the Strategic Development Plan 20032005.
+The Vision which drives the Plan is described in this chapter of Part One, together with the Mission and Guiding Principles that Government will follow in implementing policies. The Vision is a statement of Government's aspirations for Fiji in the medium to long term. The Mission and Guiding Principles summarise the approach and philosophy that Government will take in designing and implementing policies to achieve the Vision. The Vision and Guiding Principles continue as in the Strategic Development Plan 2003-2005.
 
 The mix of policies needed to steer the country towards that Vision is dependant on the current political, economic and social situation and trends. In Part Two, the second and third  chapters  highlight  the  country's  present  social  and  economic  situation  and  the development challenges that the country faces.
 
 In Part Three, Government's Medium Term Strategy is outlined in the fourth chapter and sets the framework for the plans for the future presented in the succeeding chapters. The strategy,  which  can  be  summarised  as  Maintaining  Stability  and  Sustaining  Growth, identifies the Strategic Priorities on which Government must concentrate during the next 5 years. The Strategic Priorities are a blend of policy objectives to address the identified development challenges. Effective implementation of these Strategic Priorities will put us on a path to reach our Vision.
 
-Chapters five and six then address the macroeconomic management and restructuring of the public sector, supporting macroeconomic data and projections are presented in Annex 1.  Chapters  seven  and  eight  outline  the  policies  and  strategies  for  individual  sectors grouped 1 in  relation  to  the  outcomes  to  which  they  will  contribute  in  terms  of Maintaining Stability, in Chapter seven, and Sustaining Growth, in Chapter eight. These chapters  describe  the  detailed  policies  and  strategies  that  will  be  used  to  guide  sector stakeholders and the outcome oriented key performance indicators (KPI). The policies are consistent with the Strategic Priorities in the Medium Term Strategy. The final, Chapter nine then establishes the framework for implementation, monitoring and evaluation of the Plan, which is developed further in Annex 2.
+Chapters five and six then address the macroeconomic management and restructuring of the public sector, supporting macroeconomic data and projections are presented in Annex 1. Chapters seven and eight outline the policies and strategies for individual sectors grouped¹ in relation to the outcomes to which they will contribute in terms of Maintaining Stability, in Chapter seven, and Sustaining Growth, in Chapter eight. These
 
 > 1 The  grouping  of  the  sectoral  plans  follows  the  same  outcome  oriented  logic  as  the revised  groupings  for  Summit  Working  Groups,  hence  the  sectoral  plans  addressed  by each SWG are grouped together in Chapters seven and eight.
 
@@ -682,7 +854,9 @@ Chapters five and six then address the macroeconomic management and restructurin
 
 Strategic Development Plan 2007-2011: Part One: National Vision
 
-### 1.2 Vision: 'A peaceful, prosperous Fiji'
+chapters describe the detailed policies and strategies that will be used to guide sector stakeholders and the outcome oriented key performance indicators (KPI). The policies are consistent with the Strategic Priorities in the Medium Term Strategy. The final, Chapter nine then establishes the framework for implementation, monitoring and evaluation of the Plan, which is developed further in Annex 2.
+
+### 1.2 Vision: “A peaceful, prosperous Fiji”
 
 The objective of the Plan is to identify and implement policies to take us forward to our vision of a peaceful and prosperous Fiji. We believe that this vision is one that should be shared by all citizens of Fiji.
 
@@ -820,9 +994,9 @@ The Millennium Development Goals (MDGs) and their associated targets and indicat
 
 The  Millennium  Development  Goals,  specifically  through  Goal  8,  call  for  a  Global Partnership  for  Development.  The  focus  of  the  targets  and  indicators  under  this  Goal relate  to  the  amount  and  thrust  of  developed  countries'  aid  to  developing  countries. Development assistance to Fiji is important and development partners continue to work with Government to improve the livelihoods of people in Fiji. However, aid donor grants are not large and represented around 1.3 % of Fiji's GDP in 2003.
 
-Donor grants fell in 2000, as most development assistance was withdrawn following the May 2000 crisis. Donor funds increased in 2001 and were restored to more normal levels in  2002.  Estimates  for  2004  and  2005  show  that  donor  grants  more  than  doubled compared to 2002 as the Australian programme expanded and the EU programme was reestablished. Loan finance is also available through the Asian Development Bank.
+Donor grants fell in 2000, as most development assistance was withdrawn following the May 2000 crisis. Donor funds increased in 2001 and were restored to more normal levels in 2002. Estimates for 2004 and 2005 show that donor grants more than doubled compared to 2002 as the Australian programme expanded and the EU programme was re-established. Loan finance is also available through the Asian Development Bank.
 
-Donor programmes are well-aligned to the areas covered by the MDGs. Education is a major  area  of  intervention  with  AusAID  and  the  EU  supporting  Lautoka  Teachers' College, and the provision of scholarships through AusAID and NZAID. Rural education will be supported through a major EU intervention. Health projects include the upgrading of health facilities and services in Taveuni, major initiatives to improve the management and service delivery by the Ministry of Health, the establishment of the  new Pharmaceutical Centre and the expansion of the Fiji School of Medicine. Environmental health is supported through the Naboro Landfill Project, the Kinoya Outfall Project and the  Suva-Nausori  Water  and  Sewerage  Project,  funded  with  assistance  from  an  ADB loan.
+Donor programmes are well-aligned to the areas covered by the MDGs. Education is a major area of intervention with AusAID and the EU supporting Lautoka Teachers' College, and the provision of scholarships through AusAID and NZAID. Rural education will be supported through a major EU intervention. Health projects include the upgrading of health facilities and services in Taveuni, major initiatives to improve the management and service delivery by the Ministry of Health, the establishment of the new
 
 6
 
@@ -832,7 +1006,9 @@ Donor programmes are well-aligned to the areas covered by the MDGs. Education is
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-Whilst  the  level  of  Government-Donor  engagement  is  relatively  significant  during  the review period, the lack of proper framework to guide this engagement was an issue of concern. Donor coordination needs to be strengthened. To this end Government aims to improve its coordinating mechanisms, using proper guidelines and procedures whereby government  and  donors  will  work  together  to  ensure  that  Government's  priorities  are addressed  for  sustainable  development.  Government  is  committed  to  increase  the effectiveness of aid through adhering to the principles of the Paris Declaration.
+Pharmaceutical Centre and the expansion of the Fiji School of Medicine. Environmental health is supported through the Naboro Landfill Project, the Kinoya Outfall Project and the Suva-Nausori Water and Sewerage Project, funded with assistance from an ADB loan.
+
+Whilst the level of Government-Donor engagement is relatively significant during the review period, the lack of proper framework to guide this engagement was an issue of concern. Donor coordination needs to be strengthened. To this end Government aims to improve its coordinating mechanisms, using proper guidelines and procedures whereby government and donors will work together to ensure that Government's priorities are addressed for sustainable development. Government is committed to increase the effectiveness of aid through adhering to the principles of the Paris Declaration.
 
 ### 2.2 Poverty Alleviation
 
@@ -840,12 +1016,12 @@ The first MDG concerns the eradication of extreme poverty and hunger. Two target
 
 A comprehensive view of income inequalities and the state of poverty in the country as a whole  is  available  only  from  national  household  income  and  expenditure  surveys. Government recognises the need for up-to-date information and a household survey was conducted in 2002/03. Results of the survey indicated that 34.4% of the population lived below the basic needs poverty line (BNPL), indicating a 5% increase from the 1990-91 Household  Income  Expenditure  Survey  (HIES).  Most  of  those  in  poverty  are  people living in rural areas, particularly those from the Indian community.
 
-Rural | Urban | Total
---- | --- | --- | --- | --- | --- | --- | ---
-Fijians | Indian | Others | Fijians | Indian | Others
-Percent of population in poverty | 38.0 | 43.1 | 41.3 | 27.2 | 29.1 | 17.3 | 34.4
+Figure 1: Ethnic and Rural – Urban Distribution of Incidence of Poverty
 
-Figure 1: Ethnic and Rural - Urban Distribution of Incidence of Poverty
+| | Rural | | | Urban | | | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| | Fijians | Indian | Others | Fijians | Indian | Others | |
+| Percent of population in poverty | 38.0 | 43.1 | 41.3 | 27.2 | 29.1 | 17.3 | 34.4 |
 
 Source: 2002/03 HIES Report
 
@@ -907,7 +1083,7 @@ The programmes aim to address disadvantage existing in all communities in the ar
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-Two detailed reports on the implementation of the Affirmative Action Programmes have been tabled in the House of Representatives in 2004 and 2005 respectively. These reports noted  the  extent  to  which  the  objectives  of  the  programmes  have  been  achieved  in improving and enhancing opportunities  for  the  target  groups.  In  the  Small  and  MicroEnterprise development programme for instance, about 90 % of beneficiaries are women. The vocational programmes administered by the Ministry of Education, Youth and Sports have enabled unemployed youths to acquire training and skills in various trade. Around 76 % of youth trained are able to secure some form of employment
+Two detailed reports on the implementation of the Affirmative Action Programmes have been tabled in the House of Representatives in 2004 and 2005 respectively. These reports noted the extent to which the objectives of the programmes have been achieved in improving and enhancing opportunities for the target groups. In the Small and Micro-Enterprise development programme for instance, about 90 % of beneficiaries are women. The vocational programmes administered by the Ministry of Education, Youth and Sports have enabled unemployed youths to acquire training and skills in various trade. Around 76 % of youth trained are able to secure some form of employment
 
 A major component of Government's Affirmative Action policy is the implementation of the Twenty Year Development Plan (2001-2020) for the enhancement of participation of indigenous Fijians and Rotumans in the socio-economic development of Fiji. Areas of focus include education and training, resource-based industries, tourism, commerce and finance, and rural development.
 
@@ -989,7 +1165,7 @@ The RFMF is primarily responsible for defence. It has a supportive role to the P
 
 The Immigration Department and Customs Department are responsible for the security and management of Fiji's border, administration of citizenship, facilitation of migration and control functions at the major ports and airports of Fiji. Following the 9/11 event, and the  rapid  increase  in  people  and  drug  trafficking,  identity  fraud,  money  laundering, prostitution, and illegal immigrants, there is an urgent need to strengthen their capacity to ensure  that  it  performs  its  core  roles  and  functions  effectively.  The  Department  of Immigration has shown also that it is a revenue generation agency with potential for cost recovery.  The  basis  of  this  work  is  strong  intelligence  and  to  which  the  intelligence gathering and analysis capability is a key focus of the Ministry.
 
-Related to terrorist activities but also to corruption and wider economic crimes is the need to monitor flows of funds through the financial system both domestically and internationally. The Fiji Financial Intelligence Unit (FIU) has been established to monitor flows  of  funds  through  the  banking  system  to  identify  and  investigate  suspicious transactions related to money laundering, corruption and other illegal activities to provide inputs  to  investigation  and  enforcement  agencies.    At  a  regional  level,  a  Pacific  Antimoney Laundering Programme (PALP) has been established in 2006 in the Suva-based Forum Secretariat with support and cooperation of US and UN agencies. This programme will  strengthen  anti-money  laundering  activities  through  training  and  capacity  building with a practical,  hands-on  approach.  These  national  and  regional  measures  address  the immediate and long term need to protect the integrity of the financial system from money laundering, corrupt practices and criminal abuse.
+Related to terrorist activities but also to corruption and wider economic crimes is the need to monitor flows of funds through the financial system both domestically and internationally. The Fiji Financial Intelligence Unit (FIU) has been established to monitor flows of funds through the banking system to identify and investigate suspicious transactions related to money laundering, corruption and other illegal activities to provide inputs to investigation and enforcement agencies. At a regional level, a Pacific Anti-money Laundering Programme (PALP) has been established in 2006 in the Suva-based Forum Secretariat with support and cooperation of US and UN agencies. This programme
 
 13
 
@@ -998,6 +1174,8 @@ Related to terrorist activities but also to corruption and wider economic crimes
 [[START OF PAGE 28]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+will strengthen anti-money laundering activities through training and capacity building with a practical, hands-on approach. These national and regional measures address the immediate and long term need to protect the integrity of the financial system from money laundering, corrupt practices and criminal abuse.
 
 #### Development Constraints and Challenges
 
@@ -1011,7 +1189,7 @@ The causal factors of crime are often socio-economic in nature, including unempl
 
 The Fiji Police Force had established the Fiji Police Intelligence Bureau, in 2005, which has  now  been  renamed  as  the  National  Intelligence  Service.  This  unit  will  be  closely working with the FIU that is based at the Reserve Bank of Fiji. The Police Department is responsible for the maintenance of law and order, preservation of peace, protection of life and property, the prevention and detection of crime and the enforcement of all laws it is directly  charged with. The Force is currently undertaking 46 major projects for reform and modernization, in particular with the CID, Police Tactical Response Unit, Fiji Police Academy, and Community Policing initiatives. This is an initiative taken to revamp the Fiji Police Force for an effective and efficient police organization. More so, Government had committed to better equip the Police with additional financial and other resources to fight against crime.
 
-The Office of the Solicitor General is responsible for providing quality legal advice to all ministries and departments; drafting Government bills and subsidiary legislations through the  Office  of  the  First  Parliamentary  Counsel;  undertaking  Statutory  Law  Reform;  and ensuring the effective administration of legal registries. The Fiji Law Reform office set up in 2003 with the appointment of a Fiji Law Reform Commission is currently revising and consolidating the laws of Fiji in accordance with the Revised Edition of the Laws Act to provide a more current authoritative version of the laws of Fiji. The Fiji Law Reform Commission established under the Fiji Law Reform Commission Act is responsible to keep under review all the laws applicable to Fiji, with a view to their development and reform. The Commission is currently undertaking a holistic review of the Penal Code and focusing on offences, penalties/punishment sentencing jurisdiction and criminal procedures. The Legal Aid Commission established under the Legal Aid Act is charged with providing legal assistance to impoverished persons in proceedings relating to family and criminal law through legal advice and representation.
+The Office of the Solicitor General is responsible for providing quality legal advice to all ministries and departments; drafting Government bills and subsidiary legislations through the Office of the First Parliamentary Counsel; undertaking Statutory Law Reform; and ensuring the effective administration of legal registries. The Fiji Law Reform office set up in 2003 with the appointment of a Fiji Law Reform Commission is currently revising and consolidating the laws of Fiji in accordance with the Revised Edition of the Laws Act to provide a more current authoritative version of the laws of Fiji. The Fiji Law Reform Commission established under the Fiji Law Reform Commission Act is responsible to keep under review all the laws applicable to Fiji, with a view to their development and
 
 14
 
@@ -1021,7 +1199,9 @@ The Office of the Solicitor General is responsible for providing quality legal a
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-In  effort  to  fight  corruption,  the  Government  will  introduce  a  Standards  of  Leadership Conduct  Bill  in  accordance  with  Section  156  of  the  Constitution,  for  all  public  office holders including Government ministers and Members of Parliament. The legislation will demand  exacting  standards  of  integrity.  A  new  legislation  to  combat  bribery  and corruption as recommended by the Fiji Law Reform Commission is being finalised.
+reform. The Commission is currently undertaking a holistic review of the Penal Code and focusing on offences, penalties/punishment sentencing jurisdiction and criminal procedures. The Legal Aid Commission established under the Legal Aid Act is charged with providing legal assistance to impoverished persons in proceedings relating to family and criminal law through legal advice and representation.
+
+In effort to fight corruption, the Government will introduce a Standards of Leadership Conduct Bill in accordance with Section 156 of the Constitution, for all public office holders including Government ministers and Members of Parliament. The legislation will demand exacting standards of integrity. A new legislation to combat bribery and corruption as recommended by the Fiji Law Reform Commission is being finalised.
 
 The Ministry of  Justice  comprises  Justice  as  the  core  department,  the  Judicial  and  the Prisons  Department.  Judicial  is  responsible  for  enhancing  the  quality  of  justice  in  the community by ensuring an effective and accessible Court System and as cornerstone of Justice; the court system will uphold the principles of equality, fairness and access while protecting  the  dignity  and  rights  of  all  members  of  the  community.  The  Fiji  Prisons Service is responsible for the safe, secure and humane treatment of persons in custody by providing opportunities to correct offending behaviour, develop work and life skills and perform community service. They also work towards enhancing the quality of custodial responsibilities,  improve  inmate  rehabilitation  programmes,  develop  human  resources and modernize the service.
 
@@ -1063,7 +1243,7 @@ Increasing population, urbanization, industrial, agricultural and other economic
 
 The  discharge  of  untreated  or  inadequately  treated  wastewater  from  the  industrial  and agricultural  sectors,  and  increased  sewage  discharge  causes  harmful  effects  to  the environment  and  to  human  health.  The  impacts  of  which  result  in  changes  to  the ecosystems,  reduction  in  economic  value  of  resources,  aesthetic  damage,  and  poses human  health  risks.  Contaminants  of  concern  that  are  present  in  wastewater  include pathogens  (micro-organisms),  nutrients,  heavy  metals,  hazardous  chemicals,  suspended solids, and oil and grease.
 
-The  Ministry  of  Environment,  in  partnership  with  other  Government  Ministries  and Departments,  Institutions  NGOs  and  through  donor  funding,  has  implemented  various environment programmes throughout Fiji related to biodiversity conservation, sustainable biological  resource  use,  climate  change,  waste  and  pollution,  development  control  and other programmes related to Fiji's obligations under regional and multilateral agreements.  The  production  of  Fiji's  Biodiversity  Strategy  and  Action  Plan,  National Land Use Policy  (Land  Use  Department,  2005),  the  First  National  Communication  on Climate  Change  Strategic  Actions  (2005),  Solid  and  Liquid  Waste  Strategies  (2006), Endangered and Protected Species ACT (2002), Environment Management Act (EMA) 2005  and  the  scheduled  Litter  Act  for  2008  will  provide  a  framework  for  sustainable management of land and water resources.
+The Ministry of Environment, in partnership with other Government Ministries and Departments, Institutions NGOs and through donor funding, has implemented various
 
 16
 
@@ -1072,6 +1252,8 @@ The  Ministry  of  Environment,  in  partnership  with  other  Government  Minis
 [[START OF PAGE 31]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+environment programmes throughout Fiji related to biodiversity conservation, sustainable biological resource use, climate change, waste and pollution, development control and other programmes related to Fiji's obligations under regional and multilateral agreements. The production of Fiji's Biodiversity Strategy and Action Plan, National Land Use Policy (Land Use Department, 2005), the First National Communication on Climate Change Strategic Actions (2005), Solid and Liquid Waste Strategies (2006), Endangered and Protected Species ACT (2002), Environment Management Act (EMA) 2005 and the scheduled Litter Act for 2008 will provide a framework for sustainable management of land and water resources.
 
 The key features of the EMA 2005 are:
 
@@ -1135,9 +1317,9 @@ Development constraints and challenges include:
 
 - insufficient funds allocated to squatter upgrading and resettlement;
 
-- existing policies only address the provision of affordable lots but do not include the provision of a decent shelter;
-
 - rising levels of urban poverty, linked to the increase in squatter settlements;
+
+- existing policies only address the provision of affordable lots but do not include the provision of a decent shelter;
 
 - there is lack of incentives for squatters who wish to return to their villages;
 
@@ -1159,7 +1341,7 @@ Strategic Development Plan 2007-2011: Part Two: Development Status
 
 Fiji is an urbanizing society with about half the population currently living in cities and towns  and  surrounding  peri-urban  areas,  accessing  and  taking  advantage  of  urban services, employment and social opportunities. It is inevitable that cities and towns will continue to grow through the extension of town boundaries, creation of new towns, and on-going rural-urban migration. Urban areas support not only much of Fiji's population, but  also  a  significant  component  of  the  economy,  with  60%  of  the  country's  GDP produced in urban areas. To take account of this urbanizing trend between 2007 and 2011 and beyond, there must be an urbanization strategy in place to ensure an effective and efficient  local  government  structure  that  implements  this  strategy.  Only  then  can  a stronger relationship between urban and rural areas be assured in improving Fiji's long term prosperity that is the basis of a harmonious nation.
 
-To address urbanization issues Government with assistance from the Asian Development Bank (ADB) prepared an Urban Sector Strategy or Urban Policy Action Plan (UPAP), following  wide  consultations  with  all  stakeholders  and  in-depth  studies  of  key  urban issues in 2003/2004. The primary goal of the UPAP is to assist in achieving an efficient, effective and sustainable urban sector that can make an optimal contribution to the socioeconomic development of Fiji. The UPAP then provides the framework for achieving this by providing a vital link to government's socio-economic development objectives aimed at  actively  growing  the  economy  and  addressing  social  issues  through  an  urbanization planning strategy.
+To address urbanization issues Government with assistance from the Asian Development Bank (ADB) prepared an Urban Sector Strategy or Urban Policy Action Plan (UPAP), following wide consultations with all stakeholders and in-depth studies of key urban issues in 2003/2004. The primary goal of the UPAP is to assist in achieving an efficient, effective and sustainable urban sector that can make an optimal contribution to the socio-economic development of Fiji. The UPAP then provides the framework for achieving this by providing a vital link to government's socio-economic development objectives aimed at actively growing the economy and addressing social issues through an urbanization planning strategy.
 
 The  four  key  strategic  implementation  components  identified  to  ensure  the  effective implementation of the UPAP are:
 
@@ -1239,44 +1421,35 @@ Of the eight Millennium Development Goals, three concern health issues. MDG 4 is
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-MDG 4: Reduce Child Mortality Rate
---- | --- | --- | --- | --- | --- | --- | ---
-Target | Indicator | 1990 | Status of Progress | 2015
-Baseline | 1995 | 2000 | 2002 | 2005 | Target
-Reduce by 2/3 between 1990 and 2015 the under- five mortality rate. | Under-five mortality rate per 1000 live births. | 27.8 | 19.4 | 21.8 | 22.4 | 26.0 | 9.3
-Infant mortality rate per 1000 live births | 16.8 | 14.7 | 16.2 | 17.8 | 20.8 | 5.6
-Proportion of 1 year old children immunized against measles. | 86% | 75% | 74% | 76% | 68% | increase
-
 Figure 2: Progress to MDG 4 Reduction in Child Mortality
-
+MDG 4: Reduce Child Mortality Rate
+Target | Indicator | 1990 Baseline | Status of Progress |  |  |  | 2015 Target
+ |  |  | 1995 | 2000 | 2002 | 2005 |
+Reduce by 2/3 between 1990 and 2015 the under-five mortality rate. | Under-five mortality rate per 1000 live births. | 27.8 | 19.4 | 21.8 | 22.4 | 26.0 | 9.3
+ | Infant mortality rate per 1000 live births | 16.8 | 14.7 | 16.2 | 17.8 | 20.8 | 5.6
+ | Proportion of 1 year old children immunized against measles. | 86% | 75% | 74% | 76% | 68% | increase
 Source: Ministry of Health
 
-MDG 5 is to Improve Maternal Health with the key target set as a 75% reduction in the maternal mortality rate, supported by an increased proportion of births attended by skilled health personnel. Increased Government resources have ensured that almost all births are attended by skilled health personnel. However, as shown in Figure 3 ,  this  did result in improvements in the early years of this decade but there is currently a significant setback which needs to be addressed. Achieving the MDG target by 2015 will be a substantial challenge requiring a much improved performance in the use of health resources provided by Government.
-
-MDG 5: Improve Maternal Health
---- | --- | --- | --- | --- | --- | --- | ---
-Target | Indicator | 1990 | Status of Progress | 2015
-Baseline | 1995 | 2000 | 2002 | 2005 | Target
-Reduce by 3/4, between 1990 and 2015, the | Maternal mortality rate per 100,000 live births | 41.1 | 60.4 | 57.6 | 35.3 | 50.5 | 10.3
-maternal mortality rate. | Proportion of births attended by skilled health personnel. | 98% | 99% | 99% | 99.6% | c100% | increase
+MDG 5 is to Improve Maternal Health with the key target set as a 75% reduction in the maternal mortality rate, supported by an increased proportion of births attended by skilled health personnel. Increased Government resources have ensured that almost all births are attended by skilled health personnel. However, as shown in Figure 3, this did result in improvements in the early years of this decade but there is currently a significant setback which needs to be addressed. Achieving the MDG target by 2015 will be a substantial challenge requiring a much improved performance in the use of health resources provided by Government.
 
 Figure 3: Progress to MDG 5 Improved Maternal Health
-
+MDG 5: Improve Maternal Health
+Target | Indicator | 1990 Baseline | Status of Progress |  |  |  | 2015 Target
+ |  |  | 1995 | 2000 | 2002 | 2005 |
+Reduce by 3/4, between 1990 and 2015, the maternal mortality rate. | Maternal mortality rate per 100,000 live births | 41.1 | 60.4 | 57.6 | 35.3 | 50.5 | 10.3
+ | Proportion of births attended by skilled health personnel. | 98% | 99% | 99% | 99.6% | c100% | increase
 Source: Ministry of Health
 
-MDG 6 is to Combat HIV/AIDS and other Diseases, such as tuberculosis. The progress against some of the indicators for this MDG is presented in Figure 4 .
-
-MDG 6: Combat HIV/AIDS and other Diseases
---- | --- | --- | --- | --- | --- | --- | ---
-Target | 1990 | Status of Progress | 2015
-Indicator | Baseline | 1995 | 2000 | 2002 | 2005 | Target
-Have halted by 2015 and begun to reverse the spread of HIV/AIDS | HIV prevalence among 15-24 year old pregnant women | 0.00% | 0.01% | 0.01% | 0.01% | 0.04% | 0.00%
-Contraceptive prevalence rate | 31% | 38% | 44% | 35% | 46% | increase
-Have halted by 2015 and begun to reverse the | Prevalence of tuberculosis per 100,000 | na | 21.1 (1997) | 18.00 | 22.00 | reduce
-incidence of malaria and other major diseases. | Death rate of tuberculosis per 100,000 | na | 0.37 (1997) | 0.37 | 0.73 (2001) | reduce
+MDG 6 is to Combat HIV/AIDS and other Diseases, such as tuberculosis. The progress against some of the indicators for this MDG is presented in Figure 4.
 
 Figure 4: Progress to MDG 6 Combat HIV/AIDS and Other Diseases
-
+MDG 6: Combat HIV/AIDS and other Diseases
+Target | Indicator | 1990 Baseline | Status of Progress |  |  |  | 2015 Target
+ |  |  | 1995 | 2000 | 2002 | 2005 |
+Have halted by 2015 and begun to reverse the spread of HIV/AIDS | HIV prevalence among 15-24 year old pregnant women | 0.00% | 0.01% | 0.01% | 0.01% | 0.04% | 0.00%
+ | Contraceptive prevalence rate | 31% | 38% | 44% | 35% | 46% | increase
+Have halted by 2015 and begun to reverse the incidence of malaria and other major diseases. | Prevalence of tuberculosis per 100,000 | na | 21.1 (1997) | 18.00 | 22.00 |  | reduce
+ | Death rate of tuberculosis per 100,000 | na | 0.37 (1997) | 0.37 | 0.73 (2001) |  | reduce
 Source: Ministry of Health
 
 23
@@ -1305,7 +1478,7 @@ The performance against the three health MDGs is disappointing given the priorit
 
 The  progress  towards  MDGs  suggests  that  the  substantial  and  increased  input  of resources  by  Government  is  not  achieving  the  impacts  on  the  health  of  citizens  which Government intends.
 
-The  lack  of  improvement  in  outcomes  suggests  that  the  improvement  in  the  nation's health is not simply, perhaps not primarily, a matter of increasing the resources allocated to health. It may be necessary to give greater attention to the management and use of the resources which are allocated in the context of policies to restructure the public sector and  build  public  private  partnerships  for  delivery  of  public  services.  A  re-orientation away from a supply driven process to a demand driven, outcome focused process may be appropriate.
+The lack of improvement in outcomes suggests that the improvement in the nation's health is not simply, perhaps not primarily, a matter of increasing the resources allocated to health. It may be necessary to give greater attention to the management and use of the resources which are allocated in the context of policies to restructure the public sector
 
 24
 
@@ -1314,6 +1487,8 @@ The  lack  of  improvement  in  outcomes  suggests  that  the  improvement  in  
 [[START OF PAGE 39]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+and build public private partnerships for delivery of public services. A re-orientation away from a supply driven process to a demand driven, outcome focused process may be appropriate.
 
 #### Development Constraints and Challenges
 
@@ -1327,9 +1502,9 @@ Development constraints and challenges include:
 
 - to reduce the incidence of Non-Communicable and life-style diseases;
 
-- limited capacity at FSMed;
-
 - the emigration of skilled health care professionals;
+
+- limited capacity at FSMed;
 
 - the increasing demand and cost for health care; and
 
@@ -1381,7 +1556,7 @@ Ethnic differentials are still a concern in terms of Examination performance in 
 
 ### 2.12 Gender Equality and Women in Development
 
-Women comprise about 40% of the Fiji labor force, according to the 1996 Census, an increase  of  4%  from  the  1986  census.    This  contribution  is  fairly  significant  when compared to an average of 30% for the Pacific region.  The Government is committed to creating  an  enabling  environment,  to  enable  women  to  participate  fully  in  the  socioeconomic development of the country.
+Women comprise about 40% of the Fiji labor force, according to the 1996 Census, an increase of 4% from the 1986 census. This contribution is fairly significant when compared to an average of 30% for the Pacific region. The Government is committed to creating an enabling environment, to enable women to participate fully in the socio-economic development of the country.
 
 Acknowledging  the  recommendations  made  in  the  Mid  Term  Review  of  the  National Women's Plan of Action [1999-2008] the Government's gender policies are guided by six areas of action that are focused into advancing the economic, legal and political status of women.  These critical areas of action include Women and the Law, Women in Decision Making,  Formal  Sector  Employment  &  Livelihood,  Elimination  of  all  Forms  of Discrimination  &  Violence  Against  Women  and  the  Girl  Child,  Women's  Health  and Reproductive Health and HIV/AIDS.
 
@@ -1391,7 +1566,7 @@ Government has endorsed MDGs, including those associated directly or indirectly 
 
 Overall, gender mainstreaming processes to achieve the Government's commitments are still not well integrated into the  government  institutional  structure,  planning  and budgetary  process.    Further  support  is  needed  to  strengthen  government  capacity  to implement its policies on Gender and Development.
 
-Although recent indicators show little difference in the educational levels and achievements  of  men  and  women,  and  despite  Government's  commitments  to  gender equality,  occupational  discrimination  and  gender  segregation  are  strong  and  persistent. Of  the  economically  active  population,  women's  share  of  formal  employment  is significantly lower than men's and women are less often promoted and are concentrated at the low-pay end of the labour market in the public and private sector.  Studies show that sexual harassment of women in the workplace is a problem.
+Although recent indicators show little difference in the educational levels and achievements of men and women, and despite Government's commitments to gender equality, occupational discrimination and gender segregation are strong and persistent. Of the economically active population, women's share of formal employment is significantly lower than men's and women are less often promoted and are concentrated
 
 27
 
@@ -1401,7 +1576,9 @@ Although recent indicators show little difference in the educational levels and 
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-Of the economically active female population, only about 30% are engaged in the formal economy and of these a large proportion work in semi-subsistence employment and self employment.    Few  women  own  businesses,  because  the  inheritance  laws  practiced  by both major ethnic groups in the Fiji Islands usually exclude women from inheriting land or other fixed assets.
+at the low-pay end of the labour market in the public and private sector. Studies show that sexual harassment of women in the workplace is a problem.
+
+Of the economically active female population, only about 30% are engaged in the formal economy and of these a large proportion work in semi-subsistence employment and self employment. Few women own businesses, because the inheritance laws practiced by both major ethnic groups in the Fiji Islands usually exclude women from inheriting land or other fixed assets.
 
 In government, women hold only about 17% of Senior Executive positions, mainly in the social  sectors.    In  the  education  sector,  for  example,  there  is  a  proportion  of  28%  of female teachers at the first line of management in the school system.   As one progresses into  the  middle  and  top  management  positions  the  proportion  of  female  Principals administers to 12% and 8%.
 
@@ -1421,7 +1598,7 @@ Women in rural areas are the major subsistence produces and small scale marketer
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-The impact of imported, low quality foods which are cheaper than most local produce on women must be closely monitored.  Twice as many women as men have nutritionallyrelated diseases associated with poor diets and poverty.  Far more women then men suffer from anemia and twice as many women than men suffer from diabetes.  Increased efforts are  needed  to  address  food  security  and  public  health,  and  promote  and  supply, distribution and consumption of locally produced food.
+The impact of imported, low quality foods which are cheaper than most local produce on women must be closely monitored. Twice as many women as men have nutritionally-related diseases associated with poor diets and poverty. Far more women then men suffer from anemia and twice as many women than men suffer from diabetes. Increased efforts are needed to address food security and public health, and promote and supply, distribution and consumption of locally produced food.
 
 Government has endorsed MDG 3 for women's empowerment, for which a key indicator is the proportion of seats held by women in National Parliament.  In 2006 there are three women Cabinet Ministers and two State Ministers. There are eight women parliamentarians  amongst  the  71  members  of  the  House  of  Representatives  and  five women Senators amongst the 42 members.
 
@@ -1461,9 +1638,9 @@ Strategic Development Plan 2007-2011: Part Two: Development Status
 
 - Advancing women's participation in Parliaments and other decision making bodies;
 
-- Decreasing fertility of women especially rural Fijian women;
-
 - Increasing incidence of domestic violence;
+
+- Decreasing fertility of women especially rural Fijian women;
 
 - Spreading of HIV/AIDS as an epidemic; and
 
@@ -1475,7 +1652,7 @@ The  issues  affecting  children  and  youths  are  multi-faceted  and  need  a 
 
 In acknowledging International Conventions and other instruments concerning children, Fiji ratified the Convention on the Rights of the Child [CRC] in August 1993; adopted the Stockholm Agenda for Action in 1996; signed the Optional Protocol to the CRC in November  2005;  signed  the  Hague  Convention  on  the  Civil  Aspects  of  International Child  Abduction  [28]  in  October  1980.  Section  VI  of  the  Millennium  Declaration specifies  the  protection  of  the  vulnerable,  in  particular,  children.  Since  1993,  Cabinet endorsed the establishment of a National Coordinating Committee on Children [NCCC] to  oversee  the  implementation  of  the  Convention.    Membership  of  the  Committee comprises  of  government  agencies,  non-government  organisations  and  civil  society organisations.  The Ministry of Women, Social Welfare & Housing is the current chair and secretariat of the NCCC.
 
-Key  issues  that  have  been  the  focus  of  NCCC  include  Health,  Legal  Protection, Education and Family.  Critical concerns are the prevention of child abuse, neglect and exploitation,  children  being  made  vulnerable  by  HIV/AIDS,  child  trafficking,  internal migration and the disaffiliation of children from their families, as well as the reporting requirements to the International Committee on the Rights of the Child.
+Key issues that have been the focus of NCCC include Health, Legal Protection, Education and Family. Critical concerns are the prevention of child abuse, neglect and exploitation, children being made vulnerable by HIV/AIDS, child trafficking, internal
 
 30
 
@@ -1485,9 +1662,11 @@ Key  issues  that  have  been  the  focus  of  NCCC  include  Health,  Legal  Pr
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-Strengthening  protective  environments  for  children  at  government,  community  and family levels is a key strategy to address the above concerns. This includes awareness raising at community level, development of life skills education for children, review of legislations affecting children, and provision of child - friendly services and participation of children in decision making.
+migration and the disaffiliation of children from their families, as well as the reporting requirements to the International Committee on the Rights of the Child.
 
-National Youth Policy of the Fiji Islands 2004 was developed and incorporated into the 20-year  plan.    Some  of  the  policies  were  Youth  Development  and  Employment; Leadership  and  Decision  Making;  Physical  Education,  Sports  and  Recreation;  Youth Health;  Life  Skills  Training;  Youths  at  Risk;  Youth  Networking  and  Partnership; Cultural, Religious, Values and Virtues; Youth Rights; and Environmental Sustainability. The Cabinet endorsed a 20-year Strategic Development for Youth Development 20062025 in 2005.  The plan is a coordinating mechanism for stakeholders to work together on a common platform for long-term youth development.  The four focal areas of this plan  that  covers  a  wide  range  of  issues  are  the  Health  &  Social  Services;  Non-Formal Education & Training; Employment and Sports.
+Strengthening protective environments for children at government, community and family levels is a key strategy to address the above concerns. This includes awareness raising at community level, development of life skills education for children, review of legislations affecting children, and provision of child - friendly services and participation of children in decision making.
+
+National Youth Policy of the Fiji Islands 2004 was developed and incorporated into the 20-year plan. Some of the policies were Youth Development and Employment; Leadership and Decision Making; Physical Education, Sports and Recreation; Youth Health; Life Skills Training; Youths at Risk; Youth Networking and Partnership; Cultural, Religious, Values and Virtues; Youth Rights; and Environmental Sustainability. The Cabinet endorsed a 20-year Strategic Development for Youth Development 2006-2025 in 2005. The plan is a coordinating mechanism for stakeholders to work together on a common platform for long-term youth development. The four focal areas of this plan that covers a wide range of issues are the Health & Social Services; Non-Formal Education & Training; Employment and Sports.
 
 #### Development Constraints and Challenges
 
@@ -1495,9 +1674,9 @@ Development constraints and challenges include:
 
 - Insufficient funding for all the implementing agencies;
 
-- Adoption of a National Plan of Action for Children;
-
 - Coordination of implementation of programmes across sectors;
+
+- Adoption of a National Plan of Action for Children;
 
 - Establishment of a central disaggregated database and an Information System for monitoring of the status of Children's Welfare; and
 
@@ -1507,7 +1686,7 @@ Development constraints and challenges include:
 
 Fiji is a multi-racial, multi-cultural country with a multiplicity of languages, religions and ways  of  living.  Culture  refers  to  the  diverse  manifestation  of  human  intellectual  and artistic activity that is part of both culture and heritage and is the living form of cultural expression.
 
-The  Department  of  Culture  and  Heritage  was  established  in  2000  to  coordinate  the activities  in  the  cultural  sector  and  is  also  responsible  for  administering  three  statutory bodies  in  the  sector.  The  Fiji  Museum  established  in  1929,  aims  to  be  dynamic institutions for the preservation of the countries national heritage. The National Trust of Fiji  was  established  in  1970  to  provide  for  the  protection  of  Fijis  natural  and  cultural heritage. The Fiji Arts Council was created in 1964 to coordinate national programmes and  activities  for  the  development  of  visual  and  performing  and  fine  arts  as  well  as traditional and contemporary crafts.
+The Department of Culture and Heritage was established in 2000 to coordinate the activities in the cultural sector and is also responsible for administering three statutory bodies in the sector. The Fiji Museum established in 1929, aims to be dynamic institutions for the preservation of the countries national heritage. The National Trust of Fiji was established in 1970 to provide for the protection of Fijis natural and cultural heritage. The Fiji Arts Council was created in 1964 to coordinate national programmes
 
 31
 
@@ -1517,7 +1696,9 @@ The  Department  of  Culture  and  Heritage  was  established  in  2000  to  coo
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
-Integral to the development of the nation is the conservation, development and promotion of  the  indigenous  identity.  One  that  is  not  mutually  exclusive  but  recognizes  that  its strength and vitality comes not only from conserving the past but embracing the future in its myriad dimensions.
+and activities for the development of visual and performing and fine arts as well as traditional and contemporary crafts.
+
+Integral to the development of the nation is the conservation, development and promotion of the indigenous identity. One that is not mutually exclusive but recognizes that its strength and vitality comes not only from conserving the past but embracing the future in its myriad dimensions.
 
 Tourism, as the fastest growing industry in the world, relies to a large extent on cultural heritage  for  its  sustainability.  Historic  conservation  and  cultural  activities  can  maintain the distinct character of communities and greatly enhance the quality of life and enhance tourism  investment.  Cultural  &  natural  heritage  sites  and  traditional  arts  should  be conserved  and  protected.  Due  emphasis  should  be  placed  towards  the  listing  of  Fiji's cultural and natural heritage sites in the world heritage listing and the establishment of proper  heritage  management  system  &  the  necessary  infrastructure  to  enhance  the product base for tourism investment on cultural resources.
 
@@ -1545,7 +1726,7 @@ Through the Sports Unit, the Ministry has four major programmes to meet its obje
 
 Donations  of  sports equipment  are  given  to schools, religious organizations  and registered  clubs  and  youth  groups.  The  Ministry  only  provides  basic  sports  equipment such as netballs, basketballs, volleyballs and net, soccer and rugby balls, boxing gloves, cricket and softball bats. Sports Field Development and Upgrading programme involves the development and upgrading of sports playing fields. Priority is given to schools and communities  in  remote  areas  who  have  limited  access  to  proper  facilities.  Other programmes for the Ministry include: Inter-Ministry Sports, assist in organizing of sports tournaments  upon  request  and  coaching  clinics  and  sports  administration  courses  for communities and schools.
 
-The  effectiveness  of  Fiji's  sportsmen  and  sportswomen  has  been  highlighted  by  the achievements of 2005 namely the Rugby Sevens World Cup, International Rugby Board (IRB) 2005/2006 sevens series, and in the United States Professional Golfers Association tour.  At  the  VII th Mini  South  Pacific  Games  in  Koror,  Palau,  Fiji  won  63  medals  (23 gold, 21 silver and 10 bronze) and a bronze medal in the Rugby Sevens competition at the 2006 Melbourne Commonwealth Games. A significant number of Fiji Islanders are now making a living in various sports overseas. Players like Waisale Serevi, Vijay Singh and Vilimaina Davu are role models of the youths and children who want to make career in sports.
+The effectiveness of Fiji's sportsmen and sportswomen has been highlighted by the achievements of 2005 namely the Rugby Sevens World Cup, International Rugby Board (IRB) 2005/2006 sevens series, and in the United States Professional Golfers Association tour. At the VIIth Mini South Pacific Games in Koror, Palau, Fiji won 63 medals (23 gold, 21 silver and 10 bronze) and a bronze medal in the Rugby Sevens competition at the 2006 Melbourne Commonwealth Games. A significant number of Fiji Islanders are now making a living in various sports overseas. Players like Waisale Serevi, Vijay Singh and Vilimaina Davu are role models of the youths and children who want to make career in sports.
 
 A  significant  amount  of  remittances  from  overseas  is  received  from  sports-related activities. Remittances were valued at $297 million in 2004, increased to $311 million in
 
@@ -1563,7 +1744,7 @@ Following the 2003 South Pacific Games in Suva, the Fiji Sports Council now mana
 
 In 2006, Melbourne hosted the Commonwealth Games, which provided an opportunity to market Fiji's world standard sporting facilities for training prior to the Games. In July 2007, the National Indoor Stadium will host the World Netball Championships (WNC), last held in Jamaica in 2003. Government is fully committed to the successful staging of the WNC. It will be an opportunity to show the World that despite our smallness and our diversity,  Fiji  has  what  it  takes  to  host  a  world  championship  like  the  WNC  2007.  In preparation towards the WNC, the Team Fiji has hosted the New South Wales Institute of Sports,  England  and  South  African  National  Teams.  It  is  envisaged  that  on  an  annual basis, the current facilities in Fiji will host at least one international tournament, meeting or conference.
 
-Government is fully committed to the balanced development of sports, particularly at the grassroots level. It aims to give the sport the recognition it deserves as one of the defining features of our national character. To foster partnership and ownership with stakeholders, a National Sports Summit was held in December 2003, to draft a National Sports Policy (NSP). The NSP will form the basis of an overall national approach to developing and coordinating sports in Fiji. To support private sector funding of sports, the Government has provided a 200% tax incentive for commercial sponsors of sports since 2004 which is managed by the National Sports Funding Commission (NSFC). Other funding initiatives such  as  gaming  machines  have  been  considered,  with  staging  of  special  events, development of sporting facilities and provision of training also in the current plan. The grant to sports has assisted 26 national sporting bodies with sports grants to implement their development programmes. Sports outreach programme is currently ongoing and so far  2  sports  outreach  programme  have  been  completed  in  the  following  villages  Nabasovi - Koro, Tavuki - Kadavu and Qeleni - Taveuni.
+Government is fully committed to the balanced development of sports, particularly at the grassroots level. It aims to give the sport the recognition it deserves as one of the defining features of our national character. To foster partnership and ownership with stakeholders, a National Sports Summit was held in December 2003, to draft a National Sports Policy (NSP). The NSP will form the basis of an overall national approach to developing and coordinating sports in Fiji. To support private sector funding of sports, the Government has provided a 200% tax incentive for commercial sponsors of sports since 2004 which is managed by the National Sports Funding Commission (NSFC). Other funding initiatives such as gaming machines have been considered, with staging of special events, development of sporting facilities and provision of training also in the current plan. The grant to sports has assisted 26 national sporting bodies with sports grants to implement their development programmes. Sports outreach programme is currently ongoing and so far 2 sports outreach programme have been completed in the following villages – Nabasovi - Koro, Tavuki - Kadavu and Qeleni - Taveuni.
 
 Most  sporting  federations  need  to  work  towards  a  more  structured  approach  to  sport development. Some sports have greater potential to attract financing and move towards professionalism.  Both  rugby  and  soccer  have  the  ability  to  receive  significant  funding from  international  parent  bodies  and  corporate  sponsorship.  To  identify  and  develop athletes  who  could  excel  internationally,  Government  plans  the  development  of  a National Institute of Sport or an Academy.
 
@@ -1583,9 +1764,9 @@ Constraints to further development of sports include:
 
 - the lack of sporting facilities, especially in rural areas,
 
-- the need to move to a more commercial approach, especially in professional sports.
-
 - the low funding for sport and need to promote corporate sponsorship; and
+
+- the need to move to a more commercial approach, especially in professional sports.
 
 ### 2.16 Disaster Risk Reduction and Disaster Management
 
@@ -1593,7 +1774,7 @@ Over the last decade, damage caused by tropical cyclones has been estimated at a
 
 A risk  management  approach  underpins  Government  efforts  in  disaster  risk  reduction, with  a  strong  emphasis  on  greater  community  self-reliance.  The  integration  of  risk management into the development planning decision-making process using the Comprehensive  Hazard  and  Risk  Management  (CHARM)  approach  will  make  a significant  contribution  towards  disaster  and  risk  reduction.  Essentially  this  will  place strong emphasis in the analysis and evaluation of hazards, vulnerabilities and elements at risk.  However,  the  heavy  dependence  on  Government  handouts  after  recent  disasters, coupled  with high rehabilitation costs, has disrupted planned  capital expenditure programmes. To address this problem, Government established a National Disaster Relief and  Rehabilitation  Fund,  with  a  $2.6  million  budget  in  2004.  A  National  Disaster Committee was established in the Prime Minister's Office, to oversee the new National Disaster Relief and Rehabilitation Fund and to assist the NDMO to deal with disasters.
 
-Reviews of the Natural Disaster Management Act 1998 and the 1995 National Disaster Management Plan, are due for completion in 2006. The principal recommendations are to include  manmade  hazards  including  technological  hazards  in  the  Act  and  Plan  and  to institute  qualitative  improvements  in  legislation,  regulations,  organisation,  operating procedures,  training  and  readiness.  The  reviews  stressed  that  an  effective  crisis  and emergency management system under national leadership is essential. The review also aims to put in place a robust system in dealing with disaster risk reduction and planning for  effective  preparedness,  response  and  recovery.  The  focus  on  community  capacity building aims to reduce dependency and to achieve community resilience and sustainable development.
+Reviews of the Natural Disaster Management Act 1998 and the 1995 National Disaster Management Plan, are due for completion in 2006. The principal recommendations are to include manmade hazards including technological hazards in the Act and Plan and to institute qualitative improvements in legislation, regulations, organisation, operating procedures, training and readiness. The reviews stressed that an effective crisis and emergency management system under national leadership is essential. The review also aims to put in place a robust system in dealing with disaster risk reduction and planning for effective preparedness, response and recovery. The focus on community capacity
 
 35
 
@@ -1602,6 +1783,8 @@ Reviews of the Natural Disaster Management Act 1998 and the 1995 National Disast
 [[START OF PAGE 50]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+building aims to reduce dependency and to achieve community resilience and sustainable development.
 
 #### Development Constraints and Challenges
 
@@ -1625,13 +1808,13 @@ Strategic Development Plan 2007-2011: Part Two: Development Status
 
 #### 3.1.1 Recent Developments
 
-The performance of the Fiji Islands economy since 1999 has been uneven, reflecting the economic consequences of the political and constitutional  shocks  experienced between 1999 and 2001. The Government has been broadly successful in restoring stability and reestablishing economic growth but the country continues to face an uncertain future. The uncertainties stem partly from the need to resolve political issues such as constitutional reform and leasehold land issues and partly from an economy beginning to experience the impact  of  restructuring  of  the  agriculture  and  manufacturing  sectors  in  response  to changes in international trading arrangements.
+The performance of the Fiji Islands economy since 1999 has been uneven, reflecting the economic consequences of the political and constitutional  shocks  experienced between 1999 and 2001. The Government has been broadly successful in restoring stability and re-establishing economic growth but the country continues to face an uncertain future. The uncertainties stem partly from the need to resolve political issues such as constitutional reform and leasehold land issues and partly from an economy beginning to experience the impact  of  restructuring  of  the  agriculture  and  manufacturing  sectors  in  response  to changes in international trading arrangements.
 
-For many years Fiji benefited from preferential quota access to two high-price markets the US garment market and the EU sugar market. The garment quota was lost in 2005 with an immediate impact on growth, exports and employment - 6,000 jobs were lost in the first few months, with more following as the industry re-sized. Thousands of sugar cane farmers have left the sugar industry in recent years and thousands more are expected to leave over the next few years as EU price reductions take effect and returns to labour and  land  in  sugar  cane  production  become  uneconomic.  These  figures  understate  the social  impact  of  these  developments.  The  garment  industry  provided  employment predominantly to women, for whom there is no obvious alternative employment and the contraction of the sugar industry will impact not just farmers but also the thousands of ancillary workers - cane cutters, those transporting cane to the mill and mill workers - as well as all their families.
+For many years Fiji benefited from preferential quota access to two high-price markets - the US garment market and the EU sugar market. The garment quota was lost in 2005 with an immediate impact on growth, exports and employment - 6,000 jobs were lost in the first few months, with more following as the industry re-sized. Thousands of sugar cane farmers have left the sugar industry in recent years and thousands more are expected to leave over the next few years as EU price reductions take effect and returns to labour and  land  in  sugar  cane  production  become  uneconomic.  These  figures  understate  the social  impact  of  these  developments.  The  garment  industry  provided  employment predominantly to women, for whom there is no obvious alternative employment and the contraction of the sugar industry will impact not just farmers but also the thousands of ancillary workers - cane cutters, those transporting cane to the mill and mill workers - as well as all their families.
 
 There  have  also  been  positive  developments  in  other  sectors,  requiring  change  and economic restructuring. Tourism has grown strongly, providing additional employment in the tourism areas. Foreign remittances have increased sharply, providing critical support to  the  balance  of  payments  and  reserves.  Exports  of  water,  the  harvesting  of  newly matured  mahogany  plantations  and  non-sugar  agricultural  exports  are  all  expected  to make a growing contribution to export earnings over the next few years. But these, by themselves, may not be sufficient to create the faster growth rate Fiji needs.
 
-The future prosperity of the country depends critically upon how Government and private sector  respond  to  the  challenges  posed  by  the  changing  external  environment  and  the weakness  of  private  sector  investment.  The  events  of  2000  halted  most  private  sector investment in Fiji. Stability and confidence have been rebuilt to a considerable extent and private sector investment has increased significantly. But issues remain to be solved, in terms of land leases and constitutional and public sector reform, which hinder increases in  private  investment  as  many  private  sector  investors  -  other  than  investors  in  tourist related facilities - wait for these issues to be resolved.
+The future prosperity of the country depends critically upon how Government and private sector  respond  to  the  challenges  posed  by  the  changing  external  environment  and  the weakness  of  private  sector  investment.  The  events  of  2000  halted  most  private  sector
 
 > 2 This section builds upon the analysis of Michael Moriarty undertaken for the National Planning Office in 2005 under ADB TA 3960.
 
@@ -1643,17 +1826,19 @@ The future prosperity of the country depends critically upon how Government and 
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
+investment in Fiji. Stability and confidence have been rebuilt to a considerable extent and private sector investment has increased significantly. But issues remain to be solved, in terms of land leases and constitutional and public sector reform, which hinder increases in private investment as many private sector investors - other than investors in tourist related facilities - wait for these issues to be resolved.
+
 Investment  in  tourist  accommodation  and  related  facilities  is  increasing  strongly  in response to the ongoing growth in visitor arrivals, but the linkages between large tourist operations  and  the  domestic  economy  are  not  yet  strong.  Tax  exemptions  intended  to promote  tourism  invest  also  give  preference  to  imported  goods  rather  than  creating demand for increased domestic production.
 
-In  2001,  Government  sought  to  'kick-start'  an  economic  recovery  through  a  demanddriven  economic expansion. Public sector spending and investment were intended as a substitute  for  the  missing  private  sector  investment  in  a  pro-cyclical  fiscal  stance  with increasing Government deficits. Between 2001 and 2003, the deficit averaged 6.5% per annum. The Reserve Bank indicator interest rate was held at a historically low level to encourage more rapid domestic credit expansion to the private sector.
+In  2001,  Government  sought  to  'kick-start'  an  economic  recovery  through  a  demand-driven  economic expansion. Public sector spending and investment were intended as a substitute  for  the  missing  private  sector  investment  in  a  pro-cyclical  fiscal  stance  with increasing Government deficits. Between 2001 and 2003, the deficit averaged 6.5% per annum. The Reserve Bank indicator interest rate was held at a historically low level to encourage more rapid domestic credit expansion to the private sector.
 
-In  conjunction  with  strong  growth  in  remittances  and  recovery  in  tourist  arrivals,  this resulted  in  real  GDP  growth  between 2001 and 2004 averaging 3.5% per annum. This consumption-driven expansion did not produce an investment response from the private sector  sufficient  to  sustain  high  growth.  While  spending  by  tourists  and  remittancefunded  consumption  were  backed  by  an  inflow  of  foreign  exchange,  the  expansion  in consumption fuelled by the budget deficit and cheap credit was not. As a result, foreign exchange reserves began to decline until, as discussed in Chapter 5, fiscal and monetary policy were tightened to consolidate the gains made and lead to a new level of macroeconomic  stability  supported  by  a  fundamental  restructuring  of  the  public  sector  and, consequently of the whole economy.
+In  conjunction  with  strong  growth  in  remittances  and  recovery  in  tourist  arrivals,  this resulted  in  real  GDP  growth  between 2001 and 2004 averaging 3.5% per annum. This consumption-driven expansion did not produce an investment response from the private sector  sufficient  to  sustain  high  growth.  While  spending  by  tourists  and  remittance-funded  consumption  were  backed  by  an  inflow  of  foreign  exchange,  the  expansion  in consumption fuelled by the budget deficit and cheap credit was not. As a result, foreign exchange reserves began to decline until, as discussed in Chapter 5, fiscal and monetary policy were tightened to consolidate the gains made and lead to a new level of macro-economic  stability  supported  by  a  fundamental  restructuring  of  the  public  sector  and, consequently of the whole economy.
 
 Confidence is returning even more with the development of civil partnerships to address the political issues facing the nation. In this context, the combination of macro-economic stability  and  public  sector  restructuring  will  not  be  a  substitute  for  private  sector investment  but  will  promote  and  facilitate  such  investment.  In  partnership  with  the private sector, Government not only seeks a private contribution to Fiji's physical asset base but also to benefit from the private sector's unique entrepreneurship - the ability to manage assets profitably and promote self-financing economic growth.
 
 #### 3.1.2 Private Sector Requirements
 
-Entrepreneurs discover profit opportunities which increase the productivity of resources that will drive sustainable growth. To work effectively, such private entrepreneurs need a set  of  stable  'rules'  that  facilitate  their  access  to  the  assets,  markets,  skills  and  the financial resources that they require and 'rules' which also protect entrepreneurial gains from  expropriation.  Such  rules  include  property  rights,  regulatory  regimes  and  legal systems which allow the private sector to work effectively.
+Entrepreneurs discover profit opportunities which increase the productivity of resources that will drive sustainable growth. To work effectively, such private entrepreneurs need a set  of  stable  'rules'  that  facilitate  their  access  to  the  assets,  markets,  skills  and  the financial resources that they require and 'rules' which also protect entrepreneurial gains
 
 38
 
@@ -1663,15 +1848,17 @@ Entrepreneurs discover profit opportunities which increase the productivity of r
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
+from expropriation. Such rules include property rights, regulatory regimes and legal systems which allow the private sector to work effectively.
+
 At present, the business regulatory environment in Fiji needs to be improved to enable businesses to operate successfully. The institutional environment is cluttered with 'rules' which incur time and cost penalties on businesses but often have no discernable benefits to  the  country,  indeed  they  often  incur  costs  for  the  country  as  well.  That  is  because deficiencies in  the  institutional  environment  create  perverse  incentives, block  access  to assets, information and markets, generate uncertainties about whether entrepreneurs will be able to keep the profits they make, and increase transaction costs.
 
 - There  is  no  integrated  system  of  formal  property  rights  that  can  be  easily accessed and analyzed by potential investors and which can be efficiently used to make people accountable for the business commitments they enter into;
 
-- There are still difficulties in ensuring that land is used productively in its highest value use. The market for leasehold land is not working properly as it is underpriced and there is insufficient land being made available for all the entrepreneurs who can use it productively and land that is available is not used as  productively  as  it  could  be,  harming  benefits  to  indigenous  land  owners  as much as to the prospective tenants;
+- There are still difficulties in ensuring that land is used productively in its highest value use. The market for leasehold land is not working properly as it is under-priced and there is insufficient land being made available for all the entrepreneurs who can use it productively and land that is available is not used as  productively  as  it  could  be,  harming  benefits  to  indigenous  land  owners  as much as to the prospective tenants;
 
 - Inadequacies  in  property  rights  in  land  increase  transaction  costs  and  make  it difficult to use leasehold land for collateral, reducing the benefits of the land use below  the  full  potential  and  reducing  market  value  of  leasehold  land,  again harming benefits to both owner and tenants;
 
-- There  are  difficulties  with  the  legal  system  that  make  it  needlessly  timeconsuming  and  costly  for  entrepreneurs  to  start-up  a  business,  operate  their businesses and exit a business;
+- There  are  difficulties  with  the  legal  system  that  make  it  needlessly  time-consuming  and  costly  for  entrepreneurs  to  start-up  a  business,  operate  their businesses and exit a business;
 
 - There are difficulties in enforcing business transactions, in collecting debt, and in taking a secure interest in property;
 
@@ -1681,7 +1868,7 @@ At present, the business regulatory environment in Fiji needs to be improved to 
 
 - There is  too  great  a  discretionary  element  in  the  administration  of  investment incentives, price controls and the tax system, which create needless uncertainties and the fear of arbitrary expropriation of income.
 
-These  are  all  'supply-side'  constraints  that  increase  the  risks  and  costliness  of  doing business,  sometimes  to  the  point  where  transactions  no  longer  take  place  at  all.  This impacts upon the financial incomes of entrepreneurs, land owners, tenants and employees. Enterprises are not started or expanded to their full potential. Land owners have no tenants or receive incomes well below those which would exist in an efficient market.  Tenants  access  to  financial  and  technical  resources  is  severely  constrained  so they  cannot  achieve  the  incomes  needed  to  increase  their  living  standards  and  afford higher  rents.  Workers  have  fewer  jobs  and  restricted  opportunities  for  higher  incomes which depend on access to technology and training.
+These  are  all  'supply-side'  constraints  that  increase  the  risks  and  costliness  of  doing business,  sometimes  to  the  point  where  transactions  no  longer  take  place  at  all.  This impacts upon the financial incomes of entrepreneurs, land owners, tenants and employees. Enterprises are not started or expanded to their full potential. Land owners have no tenants or receive incomes well below those which would exist in an efficient
 
 39
 
@@ -1691,9 +1878,11 @@ These  are  all  'supply-side'  constraints  that  increase  the  risks  and  co
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
+market. Tenants access to financial and technical resources is severely constrained so they cannot achieve the incomes needed to increase their living standards and afford higher rents. Workers have fewer jobs and restricted opportunities for higher incomes which depend on access to technology and training.
+
 Each individual and family bears the financial cost in terms of lower quality of life and standard  of  living.  Nationally,  these  supply-side  constraints  reduce  the  size  of  the economy and its ability to grow. Consequentially, resources available to Government are reduced and its ability to provide public goods and services is diminished.
 
-Removal  of  these  constraints  cannot  be  achieved  by  tinkering  with  administrative arrangements.  They  require  a  fundamental  restructuring  of  Government  and  a  reallocation  of  assets  and  responsibilities  to  those  who  can  best  manage  them  in  the interests of the whole population of Fiji.
+Removal  of  these  constraints  cannot  be  achieved  by  tinkering  with  administrative arrangements.  They  require  a  fundamental  restructuring  of  Government  and  a  re-allocation  of  assets  and  responsibilities  to  those  who  can  best  manage  them  in  the interests of the whole population of Fiji.
 
 #### 3.1.3 Public Sector Challenges
 
@@ -1725,7 +1914,7 @@ As  a  result  of  past  development,  institutional  arrangements  in  the  lab
 
 Entrepreneurial activity also requires a supportive policy framework. Entrepreneurs need an economic environment that ensures low inflation, predictable tax rates, trade policies that  do  not  impede  access  to  assets  and  markets  and  a  foreign  exchange  regime  that reduces the vulnerability of the economy to external shocks.
 
-As noted in 3.1.1, Fiji is suffering such an 'external shock' as a result of the present and prospective reduction of preferential market access for sugar and garments. These have reduced  export  revenues  and,  thus,  reserves.  Budget  deficits  to  support  growth  have drawn in imports and are no longer appropriate as they compound the impact on reducing reserves whilst increasing Government debt faster than economic growth can support. As discussed in Chapter 5, none of these parameters has been allowed to approach a critical level and measures have and are being taken to maintain macroeconomic stability which is essential to all economic activity and growth.
+As noted in 3.1.1, Fiji is suffering such an 'external shock' as a result of the present and prospective reduction of preferential market access for sugar and garments. These have reduced  export  revenues  and,  thus,  reserves.  Budget  deficits  to  support  growth  have
 
 41
 
@@ -1734,6 +1923,8 @@ As noted in 3.1.1, Fiji is suffering such an 'external shock' as a result of the
 [[START OF PAGE 56]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+drawn in imports and are no longer appropriate as they compound the impact on reducing reserves whilst increasing Government debt faster than economic growth can support. As discussed in Chapter 5, none of these parameters has been allowed to approach a critical level and measures have and are being taken to maintain macroeconomic stability which is essential to all economic activity and growth.
 
 These appropriate tightening measures in monetary policy include increased interest rates to encourage savings and investment rather than consumption and debt. This regime of higher  interest  rates  will  also  lead  to  higher  Government  debt  service  costs.  However, using the proceeds of asset sales to repay the debt is the quickest way to strengthen the Government's  balance  sheet  to  maintain  macroeconomic  stability.  Such  proposals  to transfer  under-performing  assets  to  private  ownership  are  included  in  Chapter  6. Reducing  debt  to  a  more  conservative  level  requires  a  reduction  of  the  Government deficit  through  increased  control  and  management  of  revenue  and  expenditure,  as proposed in 5.2.
 
@@ -1787,7 +1978,7 @@ Sources: FIBOS, Macro Policy Committee, October 2006
 
 4.3%
 
-1 . 2%
+1.2%
 
 5.6%
 
@@ -1803,7 +1994,7 @@ Sources: FIBOS, Macro Policy Committee, October 2006
 
 0.0%
 
-1 . 0%
+1.0%
 
 2.0%
 
@@ -1905,7 +2096,7 @@ Investment has risen 11.5% of GDP in 2000 to 16.7% in 2005 and an expected 17% i
 
 ##### Exchange Rate and Reserves
 
-RBF  has  two  objectives  of  monetary  policy:  low  inflation  and  an  adequate  level  of foreign reserves. The adverse change in the balance of trade has impacted upon reserves
+RBF  has  two  objectives  of  monetary  policy:  low  inflation  and  an  adequate  level  of foreign reserves. The adverse change in the balance of trade has impacted upon reserves and required the monetary measures being taken to maintain reserves, through demand management. In October 2005, RBF increased the indicator rate by 0.5% to 2.25%. Subsequently the rate was increased in 2006 by 1.0% in February and another 1.0% in June. In May, RBF also raised the commercial bank's statutory reserve deposit requirement ratio from 5% to 7%.
 
 Figure 7: Real Interest Rates
 
@@ -1947,11 +2138,7 @@ Savings
 
 Source: RBF
 
-and  required  the  monetary measures being taken to maintain reserves, through demand management. In October 2005, RBF increased  the  indicator  rate by 0.5% to 2.25%. Subsequently  the  rate  was increased  in  2006  by  1.0% in February and another 1.0% in June. In May, RBF also  raised  the  commercial bank's statutory reserve deposit requirement ratio from 5% to 7%.
-
-These  initiatives  have  made a  significant  impact  on  the lending and deposit rates
-
-offered  by  banks.  The  real  rates  of  interest,  net  of  inflation,  which  lenders  paid  had increased  significantly,  and  for  new  lenders  had  risen  by  over  50%  in  real  terms  from 3.88% in 2005 to 7.04% by July 2006. Meanwhile, real rates on time deposits switched from  minus  0.72%  in  December  2005  to  plus  4.16%  in  July  2006  and  for  new  time deposits real rates reached 5.73%. These changes are expected to encourage savings and lower growth in consumption and imports.
+These  initiatives  have  made a  significant  impact  on  the lending and deposit rates offered  by  banks.  The  real  rates  of  interest,  net  of  inflation,  which  lenders  paid  had increased  significantly,  and  for  new  lenders  had  risen  by  over  50%  in  real  terms  from 3.88% in 2005 to 7.04% by July 2006. Meanwhile, real rates on time deposits switched from  minus  0.72%  in  December  2005  to  plus  4.16%  in  July  2006  and  for  new  time deposits real rates reached 5.73%. These changes are expected to encourage savings and lower growth in consumption and imports.
 
 46
 
@@ -2031,6 +2218,8 @@ programmes.  Government  will  continue  its  current  fiscal  policy  stance  o
 
 ##### Debt Management and Contingent Liabilities
 
+The reduction in the ratio of debt to GDP does not mean that Government will no longer borrow. Total debt service is some $300m to $350m per year and nominal value of total debt will continue to rise at sustainable levels as Government borrows to refinance loans repaid and raise new debts to fund public sector investment.
+
 Figure 10: Estimated Financing and Refinancing
 
 0
@@ -2065,11 +2254,7 @@ New Debt
 
 Source: MFNP
 
-investment.
-
 Annual borrowing for refinancing and new debt is estimated to be about $400m to $500m per  year  (Figure  10).  This  will  be  consistent  with  macroeconomic  objectives  and,  by turning over the debt portfolio, it will provide an opportunity to restructure the debt.
-
-The reduction in the ratio  of  debt  to  GDP does not mean that Government will no longer borrow. Total debt service is some $300m  to  $350m  per year and nominal value of total debt will continue to rise at sustainable levels as Government borrows to refinance loans repaid and  raise  new  debts  to fund public sector The borrowing of off-budget entities does not form part of government debt though they are contingent liabilities due to Government guarantees. These liabilities have been on a downward trend as a ratio to GDP but in 2005 amounted to 59.4% of GDP. The major part of this is in the form of guarantees of the liabilities of FNPF, whose major asset is loans  made  to  the  Government.  Thus,  the  contingent  liabilities  associated  with  FNPF relate to debt which Government  owes  to FNPF  -  effectively double counting Government's obligation to repay the debt and the contingent liability to guarantee FNPF if it does not do so. Net of the FNPF liability the Government has contingent liabilities of some 20% of GDP additional to the public debt. There is no commonly used benchmark for  the  sustainable  level  of  contingent  liabilities.  Government  will  encourage  statutory authorities  and  companies  that  are  majority  owned  by  Government  to  borrow  on  the strength of their balance sheets and cash flows. Government guarantee will be restricted and used only as a last resort.
 
 48
 
@@ -2078,6 +2263,8 @@ The reduction in the ratio  of  debt  to  GDP does not mean that Government will
 [[START OF PAGE 63]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+The borrowing of off-budget entities does not form part of government debt though they are contingent liabilities due to Government guarantees. These liabilities have been on a downward trend as a ratio to GDP but in 2005 amounted to 59.4% of GDP. The major part of this is in the form of guarantees of the liabilities of FNPF, whose major asset is loans made to the Government. Thus, the contingent liabilities associated with FNPF relate to debt which Government owes to FNPF - effectively double counting Government's obligation to repay the debt and the contingent liability to guarantee FNPF if it does not do so. Net of the FNPF liability the Government has contingent liabilities of some 20% of GDP additional to the public debt. There is no commonly used benchmark for the sustainable level of contingent liabilities. Government will encourage statutory authorities and companies that are majority owned by Government to borrow on the strength of their balance sheets and cash flows. Government guarantee will be restricted and used only as a last resort.
 
 Although  contingent  liabilities  are  not  a  current  concern  in  terms  of  direct  impact  on Government finance they are an issue as they impede the process of restructuring public enterprises for which debt had been guaranteed. This issue will be addressed in the Plan period as a part of the more fundamental restructuring of the public sector discussed in Chapter 6.
 
@@ -2111,7 +2298,7 @@ Up to 60% of sugar produced has been for the preferential EU market with a quota
 
 ##### Development Constraints and Challenges
 
-The future of the industry will depend heavily on the inculcation of commercial values in all aspects of operation, from farming and harvesting, to transportation and milling. With the ceasing of preferential treatment in the EU market, the merits of the industry will be weighed against other sugar producing countries on the highly competitive world market.
+The future of the industry will depend heavily on the inculcation of commercial values in all aspects of operation, from farming and harvesting, to transportation and milling. With
 
 > 3 Ratio showing how many tons of cane required to produce a ton of sugar
 
@@ -2123,13 +2310,15 @@ The future of the industry will depend heavily on the inculcation of commercial 
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
+the ceasing of preferential treatment in the EU market, the merits of the industry will be weighed against other sugar producing countries on the highly competitive world market.
+
 Improving  farm  level  productivity  is  an  additional  area  crucial  to  establishing  the industry's  competitiveness.  Put  into  perspective,  the  average  cost  of  producing  sugar locally  is  US  14  cents/pound  compared  to  Brazil  at  US  4  cents/pound.  Local  cane productivity  levels  average  42  tons/ha  compared  to  80  tons/ha  in  Brazil.  Brazil,  as  the current lowest cost producer, represents the benchmark for best practice. The variation in productivity levels between the two countries is attributed to factors such as the incidence of  replanting,  crop  variety  and  husbandry,  and  farming  and  harvesting  techniques. Strategies are being put in place to systematically address these areas in the local industry but its success will depend on the effectiveness of the research and extension services of FSC and support from SCGC.
 
 With Government support, the FSC has secured an $86m loan from the EXIM Bank of India to upgrade  the  machinery  and  equipment  in  its  mills.  The  recapitalisation programme  should  improve  the  milling  efficiency  of  FSC,  reducing  breakdowns,  and improving sucrose extraction rates.
 
 To successfully reform, fundamental issues need to be managed. The loss of experienced farmers  due  to  expiry  of  agricultural  leases  needs  to  be  addressed  with  well  targeted training and extension services to work with remaining farmers. The support provided by the EU, through its share in the cost of the National Adaptation Strategy (NAS), will play a pivotal role particularly in addressing the production side of the industry.
 
-The NAS identifies measures totalling $755 million over an 8 year period and proposes the use of EU donor funds to finance $350 million. As grants, these funds cannot be used for  commercial  activities  except  when  there  is  a  particular  social  need,  as  in  microfinance,  or  when  confined  to  technical  assistance  for  feasibility  studies,  as  with  cogeneration  and  studies  of  commercial  agriculture.  Additional  funds  could  be  available from the European Investment Bank for such activities.
+The NAS identifies measures totalling $755 million over an 8 year period and proposes the use of EU donor funds to finance $350 million. As grants, these funds cannot be used for  commercial  activities  except  when  there  is  a  particular  social  need,  as  in  micro-finance,  or  when  confined  to  technical  assistance  for  feasibility  studies,  as  with  co-generation  and  studies  of  commercial  agriculture.  Additional  funds  could  be  available from the European Investment Bank for such activities.
 
 The EU grants will focus on those parts of the NAS which support cane farming rather than commercial milling operations. They will particularly support cane replanting and research and extension for cane farming systems. Rural infrastructure will be strengthened through community development to sustain drainage systems and development  of  farm  access  roads  as  well  as  'emergency  repairs'  to  the  bridges  and classified roads which serve the cane access roads. Grants will also be used to address the social impacts of restructuring on the poor through housing construction programmes and micro-finance.  In  addition  to  the  sugar  cane  and  social  components  the  NAS  will  also promote diversification, as discussed in 3.2.3.
 
@@ -2323,7 +2512,7 @@ With  competing  demands  for  limited land resources for housing, industrial an
 
 As a basic factor input, access to land is a major prerequisite for any development. The current  system  of  land  tenure  in  Fiji  has  been  seen  to  be  very  rigid.  The  Agricultural Landlord and Tenant Act 1966 (ALTA) governs the negotiation and grant of agricultural leases  on  native  land.  About  50%  of  all  leases  are  ALTA  leases.  Since  leases  began expiring  in  1997,  it  has  been  increasingly  difficult  to  renew  leases  under  the  ALTA framework. Neither the landlords nor the tenants are happy with the terms and conditions imposed under ALTA. The landlords are unhappy about the low rental levels, which do not  appear  to  reflect  the  value  of  the  land,  and  the  tenants  want  stronger  provisions providing  compensation  for  improvements  in  the  event  that  the  lease  is  not  renewed. Unfortunately, the issue is now heavily politicized and a sensible and pragmatic solution cannot be guaranteed. The ALTA legislation is constitutionally 'entrenched' (originally to safeguard the interests of indigenous Fijians) and can only be amended if a two-thirds majority concurs.
 
-These rigidities in the market for leases have resulted in the development of an illegal 'black  market'  in  which  landlords  and  tenants  reach  agreements  outside  the  law.  This 'black market' is evident in the growing incidence of vakavanua arrangements.  These are  informal  agreements  -  with  nothing  in  writing  -  between mataqali and  families  or individuals  who  wish  to  occupy  and  use  some  land.  They  can  run  for  many  years  sometimes decades. The main problem with vakavanua arrangements is that they leave the tenants outside the formal property rights system and thus unable to take advantage of the benefits a legal leasehold title would give them.
+These rigidities in the market for leases have resulted in the development of an illegal 'black  market'  in  which  landlords  and  tenants  reach  agreements  outside  the  law.  This 'black market' is evident in the growing incidence of vakavanua arrangements.  These are  informal  agreements  -  with  nothing  in  writing  -  between mataqali and  families  or individuals  who  wish  to  occupy  and  use  some  land.  They  can  run  for  many  years  - sometimes decades. The main problem with vakavanua arrangements is that they leave the tenants outside the formal property rights system and thus unable to take advantage of the benefits a legal leasehold title would give them.
 
 The proposed NLTA leases give much greater flexibility in lease conditions which would allow landlords and tenants to reach agreement within the legal framework. Considerably long security of land use is available and potentially higher rentals must be seen in the context of the illegal up-front payments for 'goodwill' which must now be paid for the lower rental levels prescribed under ALTA. Government wishes to resolve the land lease issue by establishing a legal framework which allows landlords and tenants to agree on a sound, secure legal basis rather than through and ALTA-based 'black market'.
 
@@ -2349,9 +2538,9 @@ Visitor arrivals fell from 410,000 in 1999 to 294,000 in 2000 but the tourism in
 
 Over the review period, there were spates of investment in the tourism industry. 2005 saw an increase in room inventory by Sofitel Fiji Resort & Spa and the Navutu Stars Hotel. The  Naviti  Resort  on  the  Coral  Coast  also  completed  its  $15  million  renovation. Collectively,  these  resorts  and  hotels  would  add  about  1500  new  rooms  to  inventory. Construction  work  at  other  resorts  including  the  Marriot  Fiji  Resort  &  Spa,  the Intercontinental Fiji Resort and the Hilton Fiji Beach Resort and Spa will provide further growth impetus for the industry. Air Pacific Limited recently announced its intention to increase inbound flights from Christchurch, Auckland, Brisbane, Los Angeles and also commence regular flights from Kiribati.
 
-These developments, in part will address constraints associated with the shortage of upmarket  accommodation  in  peak  periods  and  airline  capacity.  Other  constraints  for  the sector include problems related to land tenure, recessions in some major source markets, the  pollution  and  degradation  of  our  natural  environment  and  the  lack  of  development and  training  to  improve  workers'  skills,  particularly  resource-owners  interested  in effectively participating in the sector.
+These developments, in part will address constraints associated with the shortage of up-market  accommodation  in  peak  periods  and  airline  capacity.  Other  constraints  for  the sector include problems related to land tenure, recessions in some major source markets, the  pollution  and  degradation  of  our  natural  environment  and  the  lack  of  development and  training  to  improve  workers'  skills,  particularly  resource-owners  interested  in effectively participating in the sector.
 
-Secondary  tourism  activities  are  still  poorly  developed,  especially  when  compared  to major competing destinations such as Bali and the Australian Gold Coast. Tourists with higher spending capacity tend to spend fewer days in Fiji and this could be due largely to a lack of sufficient entertainment facilities or other secondary activities. Spells of adverse weather also limit the activities available to tourists.
+Secondary  tourism  activities  are  still  poorly  developed,  especially  when  compared  to major competing destinations such as Bali and the Australian Gold Coast. Tourists with higher spending capacity tend to spend fewer days in Fiji and this could be due largely to
 
 61
 
@@ -2360,6 +2549,8 @@ Secondary  tourism  activities  are  still  poorly  developed,  especially  when
 [[START OF PAGE 76]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+a lack of sufficient entertainment facilities or other secondary activities. Spells of adverse weather also limit the activities available to tourists.
 
 The tourism sector is the country's largest source of economic growth, investment and foreign exchange earnings. It is mainly private sector driven and is globally competitive. Growth  is  becoming  more  broad-based  with  expanding  eco-tourism  and  village-based activities. Construction of new hotels and the entry of new air carriers support a strongly positive outlook.
 
@@ -2371,9 +2562,9 @@ Eco-tourism  is  a  strategy  both  for  rural  development  and  for  greater  
 
 ##### Development Constraints and Challenges
 
-Up-market accommodation will be increased by the construction of three major hotels over the next two years. Government will provide infrastructure support for the Marriot Resort and the Natadola Resort in the Coral Coast, which are anticipated to be completed in  2007.  However,  there  is  a  lack  of  infrastructure  development  in  the  emerging  ecotourism destinations: Kadavu, Yasawa, Vanua Levu, the Lau Group and in the interior part of Viti Levu. This is being partly addressed through the Eco-Tourism Project, with support from the SCARF programme under FDB.
+Up-market accommodation will be increased by the construction of three major hotels over the next two years. Government will provide infrastructure support for the Marriot Resort and the Natadola Resort in the Coral Coast, which are anticipated to be completed in  2007.  However,  there  is  a  lack  of  infrastructure  development  in  the  emerging  eco-tourism destinations: Kadavu, Yasawa, Vanua Levu, the Lau Group and in the interior part of Viti Levu. This is being partly addressed through the Eco-Tourism Project, with support from the SCARF programme under FDB.
 
-Sustainable  utilisation  of  coastlines  and  marine  ecosystems  in  the  major  tourism development areas such as the Coral Coast, Nadi Bay, and Mamanuca Group is essential for their long term survival. Work is under way on addressing qoliqoli issues. To support human resource  development,  a  Tourism  and  Hospitality  Training  School  commenced construction  in  2005.  Government  will  continue  to  subsidise  the  cost  of  training construction workers in the FIT and TPAF to address skill shortages experienced in the construction industry.
+Sustainable  utilisation  of  coastlines  and  marine  ecosystems  in  the  major  tourism development areas such as the Coral Coast, Nadi Bay, and Mamanuca Group is essential for their long term survival. Work is under way on addressing qoliqoli issues. To support
 
 62
 
@@ -2382,6 +2573,8 @@ Sustainable  utilisation  of  coastlines  and  marine  ecosystems  in  the  majo
 [[START OF PAGE 77]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+human resource development, a Tourism and Hospitality Training School commenced construction in 2005. Government will continue to subsidise the cost of training construction workers in the FIT and TPAF to address skill shortages experienced in the construction industry.
 
 #### 3.2.9 Manufacturing and Commerce
 
@@ -2449,9 +2642,9 @@ Much greater use of information and communications technology (ICT) is essential
 
 Despite the relatively low contribution of communications to overall economic output, as a business, telecommunication firms are among the largest in the country. In Fiji, access to  traditional  ICTs  such  as  radio  and  television  is  high.  Over  90%  of  households  are estimated to have a radio and over half the population has access to television. Internet use  is  increasing  and  people  are  also  becoming  more  exposed  to  ICTs  through  their mobile phones and use of text messages. Electronic transactions in Fiji have also become widespread, spearheaded by the banks. ANZ has established an international call centre and Affiliated Computer Services (ACS) has set up a back-office processing centre.
 
-ICT has the potential not only to create new jobs through call centres and other related activities, but also to empower rural dwellers with information and provide low-cost teleservices in some cases. The adoption of ICT is also the key to improving productivity, especially in the public sector. Government intends to deliver as many online services as possible by 2006 and make greater use of ICT, in order to improve internal processes.
+ICT has the potential not only to create new jobs through call centres and other related activities, but also to empower rural dwellers with information and provide low-cost tele-services in some cases. The adoption of ICT is also the key to improving productivity, especially in the public sector. Government intends to deliver as many online services as possible by 2006 and make greater use of ICT, in order to improve internal processes.
 
-The current initiative of Government to develop and E-Commerce Bill will ensure that the  interests  of  suppliers  and  buyers  engaged  in  transactions  over  the  internet  are adequately protected. E-community learning centres are being established in rural areas to  enable  communities  to  access  information,  Government  services,  and  business products and services on the internet.
+The current initiative of Government to develop and E-Commerce Bill will ensure that the  interests  of  suppliers  and  buyers  engaged  in  transactions  over  the  internet  are adequately protected. E-community learning centres are being established in rural areas
 
 65
 
@@ -2461,9 +2654,11 @@ The current initiative of Government to develop and E-Commerce Bill will ensure 
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
 
+to enable communities to access information, Government services, and business products and services on the internet.
+
 The liberalisation of telecommunication services is critical for development of this sector. The  absence  of  competition  is  the  basis  of  some  of  the  key  problems  facing  the telecommunication sector, namely high prices for international telecommunications and for leased lines. In particular, the high price for international voice and data communications  is  a  major  impediment  to  development  of  ICT  services,  including Internet  development.  A  new  Telecommunications  Bill  will  be  tabled  in  Parliament  in 2006. The legislation will establish an appropriate regulatory framework for the industry and ensure it supports development and growth in the ICT sector.
 
-The IT Advisory Council (ITAC) which was set up in 2001 includes representatives of key government ministries, the academic community and the private sector. The ITAC has  drafted  an  ICT  Policy  with  the  vision  'to  harness  Fiji's  ideal  geographic  location, competent workforce and world-class information technology infrastructure to promote Fiji's international competitiveness and create a dynamic, vibrant and well-connected esociety'.
+The IT Advisory Council (ITAC) which was set up in 2001 includes representatives of key government ministries, the academic community and the private sector. The ITAC has  drafted  an  ICT  Policy  with  the  vision  'to  harness  Fiji's  ideal  geographic  location, competent workforce and world-class information technology infrastructure to promote Fiji's international competitiveness and create a dynamic, vibrant and well-connected e-society'.
 
 ##### Development Constraints and Challenges
 
@@ -2545,21 +2740,21 @@ Although  considerable  progress  is  being  made  in  the  MSME  sub-sector,  t
 
 - lack of sufficient business support services and infrastructure;
 
-- restrictive laws of the local councils;
-
 - poor financial management skills of MSME operators;
+
+- restrictive laws of the local councils;
 
 - lack of knowledge about the existence of MSME service - providers;
 
-- lack of finance for business start-ups.
-
 - a lack of data for the MSME sub-sector; and
+
+- lack of finance for business start-ups.
 
 #### 3.2.13 Transport
 
 Transport is a most important component of the economy. It contributes on average about 10% of GDP and provides employment for around 40,000 people, including some 10,000 in the formal sector. The transport sector supports and facilitates growth and development in other sectors.
 
-Government  continues  to  play  a  lead  role  in  creating  a  conducive  and  enabling environment for the provision of transport services and infrastructure. However, as with elsewhere in the world, Government has come to recognize limitations in its ability to meet transport infrastructure and services. Government sees the benefits of private sector involvement utilizing the potential to raise capital and provide management efficiency, through systems of public-private partnerships, such as the BOOT (Build Own Operate Transfer) system.
+Government  continues  to  play  a  lead  role  in  creating  a  conducive  and  enabling environment for the provision of transport services and infrastructure. However, as with elsewhere in the world, Government has come to recognize limitations in its ability to
 
 69
 
@@ -2568,6 +2763,8 @@ Government  continues  to  play  a  lead  role  in  creating  a  conducive  and 
 [[START OF PAGE 84]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+meet transport infrastructure and services. Government sees the benefits of private sector involvement utilizing the potential to raise capital and provide management efficiency, through systems of public-private partnerships, such as the BOOT (Build Own Operate Transfer) system.
 
 ##### Land Transport
 
@@ -2579,7 +2776,7 @@ It has been estimated that $50 million will be required to adequately fund maint
 
 Increased vehicle emissions have become  a  prominent  problem, especially as a consequence  of  the  inappropriate  emissions  standards  and  the  inadequate  capacity  to monitor  emission  levels.  LTA  currently  uses  the  Queensland  standard,  which  is considered inappropriate for Fiji. To address this problem, an ADB Technical Assistance Project to review aspects of vehicle pollution standards, is currently in train. The study will produce a 4-year Action Plan to reduce vehicle emission.
 
-Traffic congestion has mounted considerably in recent years, due to the increase in the number of vehicles,  especially  heavy  vehicles.  To  address  traffic  congestion  along  the Suva-Nausori  Corridor,  a  Greater  Suva  Transportation  Study  was  undertaken  in  2002. The study recommended  a 30-year plan for traffic management, road network development and public transport services, to meet the mobility needs in the greater Suva area.  The  long-term  development  options  in  addressing  traffic  include  proposals  for  a new regional road and a new coastal road network for the Suva-Nausori Corridor.
+Traffic congestion has mounted considerably in recent years, due to the increase in the number of vehicles,  especially  heavy  vehicles.  To  address  traffic  congestion  along  the Suva-Nausori  Corridor,  a  Greater  Suva  Transportation  Study  was  undertaken  in  2002. The study recommended  a 30-year plan for traffic management, road network development and public transport services, to meet the mobility needs in the greater Suva
 
 70
 
@@ -2588,6 +2785,8 @@ Traffic congestion has mounted considerably in recent years, due to the increase
 [[START OF PAGE 85]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+area. The long-term development options in addressing traffic include proposals for a new regional road and a new coastal road network for the Suva-Nausori Corridor.
 
 Reforms in the Public Works Department are currently under way. The reform process will take a phased approach, with the initial establishment of a Department of National Roads  (DNR),  and  later  the  establishment  of  a  Fiji  Road  Authority,  to  enable  greater autonomy. To ensure cost recovery, the introduction of a 'road fund', either through the introduction of fuel tax or using vehicle registration revenue, must be considered.
 
@@ -2647,7 +2846,7 @@ Major changes have taken place within the FEA, following its restructuring. This
 
 Government  is  developing  a  national  energy  policy  and  a  strategic  action  plan  that provides the framework for energy sector activities. This is expected to be completed in 2006 for implementation from 2007. A study on the bio-fuel initiative is currently under way, in order to assess the viability of producing ethanol and coco diesel on a national scale,  using  sugarcane, cassava and copra has been completed. These various bio-fuels will be used to supplement our electricity supply and provide an alternative to imported diesel fuel for industrial and transportation purposes.
 
-A  Charter  for  Renewable  Energy-Based  Rural  Electrification  with  participation  of  the private sector, was developed with UNDP-GEF assistance, and approved by Government in  March  2003.  The  charter  provides  a  mechanism  for  renewable  energy  service companies to install and maintain renewable energy-based projects. The formulation of a 'Renewable  Energy-Based  Rural  Electrification  Bill'  has  also  been  approved  and consultations  are  ongoing  with  enactment  envisaged  by  2007.  With  ADB  support,  Fiji completed a Renewable Energy and Energy Efficiency Programme (REEP), which was aimed at building capacity to develop, fund and implement renewable energy and energy efficiency projects, while emphasizing market driven structures.
+A  Charter  for  Renewable  Energy-Based  Rural  Electrification  with  participation  of  the private sector, was developed with UNDP-GEF assistance, and approved by Government in  March  2003.  The  charter  provides  a  mechanism  for  renewable  energy  service companies to install and maintain renewable energy-based projects. The formulation of a 'Renewable  Energy-Based  Rural  Electrification  Bill'  has  also  been  approved  and consultations  are  ongoing  with  enactment  envisaged  by  2007.  With  ADB  support,  Fiji
 
 73
 
@@ -2656,6 +2855,8 @@ A  Charter  for  Renewable  Energy-Based  Rural  Electrification  with  particip
 [[START OF PAGE 88]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+completed a Renewable Energy and Energy Efficiency Programme (REEP), which was aimed at building capacity to develop, fund and implement renewable energy and energy efficiency projects, while emphasizing market driven structures.
 
 ##### Development Constraints and Challenges
 
@@ -2673,7 +2874,7 @@ In  the  rural  areas  many  villages  were  assisted  in  the  provision  of  p
 
 ##### Water sector reforms
 
-Government has declared the Water and Sewerage Department in the Ministry of Public Utilities and Infrastructure Development as a Reorganization Enterprise and will become the  Fiji  Water  Authority.  The  Ministry  of  Public  Enterprise  and  Public  Sector  Reform will further drive these reforms.
+Government has declared the Water and Sewerage Department in the Ministry of Public Utilities and Infrastructure Development as a Reorganization Enterprise and will become
 
 74
 
@@ -2682,6 +2883,8 @@ Government has declared the Water and Sewerage Department in the Ministry of Pub
 [[START OF PAGE 89]]
 
 Strategic Development Plan 2007-2011: Part Two: Development Status
+
+the Fiji Water Authority. The Ministry of Public Enterprise and Public Sector Reform will further drive these reforms.
 
 The institutional reforms will result in a public water utility service provider, which will be oriented to deliver customer satisfaction in relation to water quality and continuity of service.  The  water  and  sewerage  company  will  be  responsible  for  operations  and maintenance of all of Fiji's urban and peri-urban water supply and sewerage infrastructure. A customer service plan will document the levels of service the company is  to  provide  for.  The  company  will  operate  on  a  commercial  basis,  which  implies revenue collection to cater for all operational, maintenance, renovation and capital costs. Furthermore,  this  company  will  provide  assistance  to  initiatives  for  rural  water  and sanitation projects.
 
@@ -2739,7 +2942,7 @@ There  are  signs  of  skill  shortages  in  both  the  public  and  private  se
 
 The  challenge  is  to  ensure  that  economic  growth  is  sufficient  to  absorb  the  estimated 16,000 people that enter the labour force each year. With current equilibrium of relatively low economic growth, the formal sector is unable to create sufficient jobs.  Many are left to make their own opportunities in the rural economy and in small and micro-enterprises. Government's  Integrated  Human  Resource  Development  Programme  for  Employment Promotion  (IHRDPEP),  which  began  in  2000,  and  the  National  Centre  for  Small  and Micro-Enterprise Development (NCSMED) established in 2002 are spearheading efforts to  support  employment creation in both the informal and formal sectors. However, the economic growth which is needed to raise the levels and quality of employment can only be achieved through the economic restructuring to traverse to a high growth equilibrium, as discussed in Chapter 4 and the following chapters of Part Three.
 
-Additional opportunities of securing employment  are  affected  by  skill shortages. Government has established  a  fast-track  system  for  approving  work  permits  in  sectors faced by skill shortages. Poor dissemination of information about job opportunities and the skills required exacerbates skill shortages. Employment placement centres, where job seekers have access to information on available positions and to job-interview training, are to be incorporated into the National Youth Option Centres. Government's Internetbased  placement  service,  CareerNET,  which  started  in  2004,  and  the  expansion  of  the Computerised Human Resources Information System (CHRIS) would also assist in job placements.
+Additional opportunities of securing employment  are  affected  by  skill shortages. Government has established  a  fast-track  system  for  approving  work  permits  in  sectors faced by skill shortages. Poor dissemination of information about job opportunities and the skills required exacerbates skill shortages. Employment placement centres, where job seekers have access to information on available positions and to job-interview training, are to be incorporated into the National Youth Option Centres. Government's Internet-based  placement  service,  CareerNET,  which  started  in  2004,  and  the  expansion  of  the Computerised Human Resources Information System (CHRIS) would also assist in job placements.
 
 Obtaining  a  job is also hampered  by  the  lack  of  recognition  of  many  training qualifications now  available. Preliminary work  by  the Training and Productivity Authority  of  Fiji  (TPAF)  on  developing  a  comprehensive  accreditation  system  of qualifications, commenced in 2004.
 
@@ -2802,8 +3005,32 @@ Maintaining Stability : • Promoting peace and harmony • Enhancing security a
 
 Strategic Development Plan 2007-2011: Part Three
 
-Key | Maintaining Stability
---- | ---
+Figure 11 : Plans Supporting Strategic Priorities
+
+Key
+100% of KPI focuses on Priority
+66% to 99% or highest single %
+25% to 65%
+Less than 25%
+No KPI focused on this Priority
+
+Maintaining Stability
+Promoting peace and harmony
+Enhancing security & law & order
+Alleviating poverty
+Strengthening good governance
+Reviewing the constitution
+Resolving agricultural land leases
+Implementing affirmative action
+
+Sustaining Growth
+Maintaining macro-economic stability
+Restructuring to promote competition & efficiency
+Raising export earnings
+Raising investment levels for jobs and growth
+Rural & outer island development
+
+Chapter
 6 | Public Sector Restructuring
 Restructuring the Public Sector
 7.1 | Alleviating Poverty
@@ -2821,32 +3048,33 @@ Restructuring the Public Sector
 7.3.4 | Disaster Risk Reduction & Disaster Management
 7.4 | Security, Law and Justice
 7.4.1 | National Security
-7.4.2 8.1 | Law and Justice Economic Restructuring
+7.4.2 | Law and Justice
+8.1 | Economic Restructuring
 5 | Macroeconomic management
 8.1.1 | Financial Services
 8.1.2 | Micro, Small and Medium Enterprises
-8.1.3 8.1.4 | Education and Training Employment and Labour Market
+8.1.3 | Education and Training
+8.1.4 | Employment and Labour Market
 8.2 | International Trade
-8.2.1
-Manufacturing and Commerce
+8.2.1 | Manufacturing and Commerce
+8.2.2 | Tourism
 8.2.3 | Culture and Heritage
-8.2.5 | Environment
 8.2.4 | Mineral and Groundwater Resources
+8.2.5 | Environment
+8.2.6 | Foreign Affairs and External Trade
 8.3 | Natural Resources
 8.3.1 | Sugar
-Agriculture &
-8.3.2
-8.3.3 | Livestock Forestry
-8.3.5 8.4 | Land Resource Development & Management
-Infrastructure Information & Telecommunications
-8.4.1 8.4.2 | Transport
+8.3.2 | Agriculture & Livestock
+8.3.3 | Forestry
+8.3.4 | Marine Resources
+8.3.5 | Land Resource Development & Management
+8.4 | Infrastructure
+8.4.1 | Information & Telecommunications
+8.4.2 | Transport
 8.4.3 | Energy
-8.4.4 | Water and
-Sewerage
+8.4.4 | Water and Sewerage
 
-Figure 11 : Plans Supporting Strategic Priorities
-
-Fiji's economy is in equilibrium, but a low growth equilibrium which is not realising our full  potential  for  economic  development  and,  consequently,  not  realising  the  social development which we need. In the Medium Term Strategy we need to accomplish the difficult task of 'traversing' from this low growth equilibrium to a new equilibrium of sustainable,  higher  growth.  Such  a  traverse  is  difficult  as  it  is  not  simply  about  doing more or working harder. It requires a fundamental change in the way our economy works. The key to the change is in the productive use of resources. At present, too much of Fiji's resources  are  inappropriately  managed  in  the  public  sector  -  doing  things  which Government should not do at the expenses of the tasks of which Government is uniquely able.
+Fiji's economy is in equilibrium, but a low growth equilibrium which is not realising our full  potential  for  economic  development  and,  consequently,  not  realising  the  social development which we need. In the Medium Term Strategy we need to accomplish the difficult task of 'traversing' from this low growth equilibrium to a new equilibrium of
 
 80
 
@@ -2855,6 +3083,8 @@ Fiji's economy is in equilibrium, but a low growth equilibrium which is not real
 [[START OF PAGE 96]]
 
 Strategic Development Plan 2007-2011: Part Three
+
+sustainable, higher growth. Such a traverse is difficult as it is not simply about doing more or working harder. It requires a fundamental change in the way our economy works. The key to the change is in the productive use of resources. At present, too much of Fiji's resources are inappropriately managed in the public sector - doing things which Government should not do at the expenses of the tasks of which Government is uniquely able.
 
 To increase growth we must increase the returns on our productive resources. We must extend the frontiers of growth by redefining the boundary between the private sector and public sector to gain from the unique private sector skills in securing high value in the use of assets and the unique public sector skills in providing those public goods and services which markets fail to provide.
 
@@ -2890,7 +3120,7 @@ The  rule  of  law  is  essential  for  social  stability  as  well  as  for  ec
 
 The trend in the numbers of reported criminal offences has generally been downward due to better enforcement of the rule of law. This is largely a result of more resources, better co-ordination between law and order agencies, and capacity improvements. Funding of the major security and law enforcement agencies 5 has increased by 28 % since 1999.
 
-Since  2003,  an  AusAID-funded  Fiji  Law  and  Justice  Sector  Programme  has  given technical  support  to  the  Police,  Prisons  and  Judiciary.  AusAID's  Pacific  Regional Policing  Initiative  provides  improved  training  of  police  officers.  Streamlined  court processes and consolidation of prosecution functions into a National Prosecution Service, are helping to reduce the backlog of court cases. The Fiji Prison Service is reviewing a policy shift from  'containment'  to  'correction or rehabilitation'. This process of improvement will continue and new challenges to security and the rule of law - including international terrorism, trading in illicit drugs, people smuggling and money-laundering will be met.
+Since  2003,  an  AusAID-funded  Fiji  Law  and  Justice  Sector  Programme  has  given technical  support  to  the  Police,  Prisons  and  Judiciary.  AusAID's  Pacific  Regional Policing  Initiative  provides  improved  training  of  police  officers.  Streamlined  court processes and consolidation of prosecution functions into a National Prosecution Service, are helping to reduce the backlog of court cases. The Fiji Prison Service is reviewing a policy shift from  'containment'  to  'correction or rehabilitation'. This process of
 
 > 5 Includes  Solicitor  General's  Office,  Prisons,  Justice,  Ministry  of  Home  Affairs  & Immigration, RFMF, Police, Judiciary and DPP's Office.
 
@@ -2901,6 +3131,8 @@ Since  2003,  an  AusAID-funded  Fiji  Law  and  Justice  Sector  Programme  has
 [[START OF PAGE 98]]
 
 Strategic Development Plan 2007-2011: Part Three
+
+improvement will continue and new challenges to security and the rule of law - including international terrorism, trading in illicit drugs, people smuggling and money-laundering - will be met.
 
 Plan sections which support this Strategic Priority are indicated in Figure 11 , including developments which assist law enforcement and those which develop more law abiding citizens.
 
@@ -2944,7 +3176,7 @@ Plans which may be influenced by such a constitutional review are indicated in F
 
 In addition to a wider review of constitutional issues, the Multi Party Government creates a  political  environment  which  is  more  conducive  to  a  healthy  dialogue  and  possible resolution  of  the  land  lease  issue.  Government's  proposed  native  land  lease  system  is based  on  providing  secure,  longer  term  leases  for  tenants  and  fair  rental  returns  to landowners. A fair rental enables landowners to channel proceeds into viable investments and human resource capacity building for their children.
 
-Land not required for the daily sustenance of the Mataqali or  landowning units will be offered at fair rental terms and conditions, giving increased availability and use of land by tenants to contribute to growth. Longer term leases enable tenants to undertake longer term investments for a market rate of return. Government will also identify land for the resettlement of urban squatters, apart from efforts to encourage squatters to utilize vacant lands  in  villages  and  rural  areas.  Sustainable  land  practices  will  also  be  encouraged  to protect  land  from  soil  erosion  and  degradation  and  ensure  that  Fiji's  environment  is adequately protected. A Land Use Policy adopted in 2005 will guide Fiji's future land use development programmes.
+Land not required for the daily sustenance of the Mataqali or  landowning units will be offered at fair rental terms and conditions, giving increased availability and use of land by tenants to contribute to growth. Longer term leases enable tenants to undertake longer
 
 84
 
@@ -2953,6 +3185,8 @@ Land not required for the daily sustenance of the Mataqali or  landowning units 
 [[START OF PAGE 100]]
 
 Strategic Development Plan 2007-2011: Part Three
+
+term investments for a market rate of return. Government will also identify land for the resettlement of urban squatters, apart from efforts to encourage squatters to utilize vacant lands in villages and rural areas. Sustainable land practices will also be encouraged to protect land from soil erosion and degradation and ensure that Fiji's environment is adequately protected. A Land Use Policy adopted in 2005 will guide Fiji's future land use development programmes.
 
 The  Native  Lands  Trust  Act  (NLTA)  is  the  legal  framework  that  Government  will promote to safeguard the interests of landowners and tenants. A land lease system that promotes fair rental and security of tenancy will provide an environment of political and social stability in Fiji.
 
@@ -3166,11 +3400,11 @@ Macro-economic management will determine the extent to which Government achieves
 
 The  major  challenges  for  the  medium  term  are  to  maintain  prudent  monetary  and  fiscal management in order to protect exchange reserves, continue with low inflation, and ensure sustainable  fiscal  deficits  and  debt  levels.  The  medium-term  approach  by  Government recognizes the importance of consolidating fiscal policy and increasing export earnings to reduce the widening trade account of the balance of payments.
 
+#### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-The nation enjoys macro- economic stability and growth on which to build improved standards of living and quality of life. | • Low and stable levels of inflation are assured through use of fiscal policy to manage of budget deficits and monetary and interest rate policy to pro-actively manage inflation. • Promote growth consistent with criteria of the UNDP Human Life Quality Index. | • Annual growth rate to reach 5% by 2009. • Inflation is to be brought securely below 3% per year after 2008.
-
-#### Policy Objectives, Strategies and Key Performance Indicators
+The nation enjoys macro-economic stability and growth on which to build improved standards of living and quality of life. | • Low and stable levels of inflation are assured through use of fiscal policy to manage of budget deficits and monetary and interest rate policy to pro-actively manage inflation. • Promote growth consistent with criteria of the UNDP Human Life Quality Index. | • Annual growth rate to reach 5% by 2009. • Inflation is to be brought securely below 3% per year after 2008.
 
 93
 
@@ -3182,12 +3416,11 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-• To maintain confidence in Fiji's currency and capacity to meet international financial obligations through: maintenance of a stable foreign exchange rate regime; a reasonable level of reserves; pro-active use of interest rates; and a progressive review of exchange controls with further relaxation in annual budgets. | • Reserves equivalent to 3-4 months of import cover for goods only. • Interest rates on deposits are at least positive in real terms.
-• Transparent, market based interest rates maintained at levels consistent with low inflation and a comfortable level of foreign reserves. | • Inflation and foreign reserve targets (above) are met and interest rate spreads reduced.
-• To maintain a sustainable ratio of debt to GDP by restricting spending to levels consistent with debt targets. | • Debt to be reduced from 52% of GDP to less than 50% of GDP by 2009 and towards 45% in 2011.
-• Government revenue regime is used to promote economic growth through appropriate levels of taxation, a broader tax base, reduced distortions, increased compliance and development of the user pays principle. | • Revenue to be not less than 27% of GDP in each year of the plan period. • Annual investment increased to 25% of GDP with 15% private sector investment in 2009.
-• Top corporate and income tax rates no more than 30%. • Tax collected within 3 months of the due date to be not less than 95% of the tax due.
-• To reduce government spending as a proportion of GDP through tight control of | • Government deficit to be less than 2% of GDP by 2011.
+ | • To maintain confidence in Fiji's currency and capacity to meet international financial obligations through: maintenance of a stable foreign exchange rate regime; a reasonable level of reserves; pro-active use of interest rates; and a progressive review of exchange controls with further relaxation in annual budgets. | • Reserves equivalent to 3-4 months of import cover for goods only. • Interest rates on deposits are at least positive in real terms.
+ | • Transparent, market based interest rates maintained at levels consistent with low inflation and a comfortable level of foreign reserves. | • Inflation and foreign reserve targets (above) are met and interest rate spreads reduced.
+ | • To maintain a sustainable ratio of debt to GDP by restricting spending to levels consistent with debt targets. | • Debt to be reduced from 52% of GDP to less than 50% of GDP by 2009 and towards 45% in 2011.
+ | • Government revenue regime is used to promote economic growth through appropriate levels of taxation, a broader tax base, reduced distortions, increased compliance and development of the user pays principle. | • Revenue to be not less than 27% of GDP in each year of the plan period. • Annual investment increased to 25% of GDP with 15% private sector investment in 2009. • Top corporate and income tax rates no more than 30%. • Tax collected within 3 months of the due date to be not less than 95% of the tax due.
+ | • To reduce government spending as a proportion of GDP through tight control of | • Government deficit to be less than 2% of GDP by 2011.
 
 94
 
@@ -3199,7 +3432,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-Ministerial expenditure within budget provisions and through improved cost recovery measures. • Priority allocation of resources to focus on core activities of government in infrastructure, health and education and increasing the proportion of capital expenditure in the budget. | • Net expenditure to be limited to revenue plus the target level of deficit. • Capital to operating expenditure mix of 25:75 by 2010. • Maintenance expenditure to be not less than 7.5% of total expenditure.
+ | Ministerial expenditure within budget provisions and through improved cost recovery measures. • Priority allocation of resources to focus on core activities of government in infrastructure, health and education and increasing the proportion of capital expenditure in the budget. | • Net expenditure to be limited to revenue plus the target level of deficit. • Capital to operating expenditure mix of 25:75 by 2010. • Maintenance expenditure to be not less than 7.5% of total expenditure.
 
 95
 
@@ -3227,7 +3460,7 @@ To  meet  these  challenges,  Government  has  developed  plans  to  address:  (
 
 Reform must be made in a planned and coordinated manner. Improvements in governance, planning, coordination, donor assistance and communication between the key stakeholders need to be efficiently harmonized and synchronized. To support such an approach, a Civil Service Reform Programme is currently being developed for implementation over the Plan period through a common management structure.
 
-Such a programme requires commitment and leadership at the highest levels of Government to  champion  the  cause  of  reform  and  lead  its  implementation.  To  this  end,  Cabinet  has decided to form a Steering Committee of key stakeholders under the chairmanship of the CEO of the  Prime  Minister's  Office  reporting  directly  to  a  Public  Service  Cabinet  SubCommittee led by the Prime Minister.
+Such a programme requires commitment and leadership at the highest levels of Government to champion the cause of reform and lead its implementation. To this end, Cabinet has decided to form a Steering Committee of key stakeholders under the chairmanship of the CEO of the Prime Minister's Office reporting directly to a Public Service Cabinet Sub-Committee led by the Prime Minister.
 
 96
 
@@ -3291,7 +3524,7 @@ The  approval  of  this  strategy  would  be  subject  to  consultation  with  t
 
 Strategic Development Plan 2007-2011: Part Three
 
-In  April  2006,  a  three  year  Partnership  Agreement  was  reached  with  six  public  service unions  to  resolve  outstanding  disputes  and  establish  a  partnership  to  move  forward  with reforms. As a forum for this process, a Joint Committee has been established composed of CEOs  of  appropriate  ministries  and  representatives  of  the  public  service  unions.  A comprehensive  study  will  be  undertaken  to  agree  a  system  of  annual  pay  review  for implementation from 1 st January 2008.
+In April 2006, a three year Partnership Agreement was reached with six public service unions to resolve outstanding disputes and establish a partnership to move forward with reforms. As a forum for this process, a Joint Committee has been established composed of CEOs of appropriate ministries and representatives of the public service unions. A comprehensive study will be undertaken to agree a system of annual pay review for implementation from 1st January 2008.
 
 #### 6.2.3 Human Resources Management
 
@@ -3461,11 +3694,11 @@ Continuance of the present large public sector is neither appropriate nor afford
 
 The boundary between public and private sectors will be moved so that each undertakes those tasks which it is best able to do. Private goods and services and the assets to produce them  will  be  transferred  from  inefficient  public  sector  management  to  gain  productivity from the entrepreneurial skills which are unique to the private sector. A downsized public sector will  focus on more efficient provision of higher quality public goods and services which the private sector is unable to provide.
 
+#### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 People are better served by increased civil service efficiency, productivity, and quality. | • Restructuring the civil service appropriate to the needs of efficient provision of public goods and services at national and local government level. • Establish and implement, where needed, a redundancy policy to support expeditious restructuring. • Provide an institutional, operational and legislative framework for more accountability and transparency in policy making and management of public resources at all levels of Government. • Enforce the principles of good governance, including transparency in decision-making | • Cost of running Government machinery reduced from 14% to 7% of GDP. • The number of civil servants reduced from 25,000 to 20,000 by 2011. • Civil service employment costs reduced from 36% to 28% of annual Government expenditure.
-
-#### Policy Objectives, Strategies and Key Performance Indicators
 
 105
 
@@ -3477,8 +3710,8 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-and accountability in public services, including a Code of Conduct for Leaders, as provided for in the Constitution, and a Code of Conduct for Local Government. • Introduce a strategic procurement policy for all government departments and public enterprises. • To ensure full consultation with all stakeholders in all relevant matters pertaining to reforms and promote general public awareness of reform strategies. • Ensure that Government is seen as an equal opportunity employer by members of all communities. • Improve access to public services and improve quality, productivity and efficiency of service delivery in national, provincial and local Government.
-The country achieves greater productivity in the use of assets currently owned and/or managed by public sector commercial entities. | • Accelerate the designation of departments as re-organisation enterprises to increase efficiency through improved operational systems, contracting out and privatization by 2008. • Transfer low return assets, including shares, properties and enterprises, to private sector ownership and management by 2008. • Intensify and update micro- economic and management policy instruments for promoting efficiency and provide consistent guidelines for the application of these across the Whole of Government by 2008. • Undertake regulatory reform and establish appropriate regulatory institutions prior to the corporatisation or divestment of the entities to be regulated. | • Aggregate rates of return in public enterprises listed under the Public Enterprise Act increased from 3% to 10%. • Government's contingent liabilities incurred on behalf of public enterprises, excluding FNPF, not more than 10% of GDP by 2011. • Not less than 10 public entities sold into private ownership by 2008.
+ | and accountability in public services, including a Code of Conduct for Leaders, as provided for in the Constitution, and a Code of Conduct for Local Government. • Introduce a strategic procurement policy for all government departments and public enterprises. • To ensure full consultation with all stakeholders in all relevant matters pertaining to reforms and promote general public awareness of reform strategies. • Ensure that Government is seen as an equal opportunity employer by members of all communities. • Improve access to public services and improve quality, productivity and efficiency of service delivery in national, provincial and local Government. | 
+The country achieves greater productivity in the use of assets currently owned and/or managed by public sector commercial entities. | • Accelerate the designation of departments as re-organisation enterprises to increase efficiency through improved operational systems, contracting out and privatization by 2008. • Transfer low return assets, including shares, properties and enterprises, to private sector ownership and management by 2008. • Intensify and update micro-economic and management policy instruments for promoting efficiency and provide consistent guidelines for the application of these across the Whole of Government by 2008. • Undertake regulatory reform and establish appropriate regulatory institutions prior to the corporatisation or divestment of the entities to be regulated. | • Aggregate rates of return in public enterprises listed under the Public Enterprise Act increased from 3% to 10%. • Government's contingent liabilities incurred on behalf of public enterprises, excluding FNPF, not more than 10% of GDP by 2011. • Not less than 10 public entities sold into private ownership by 2008.
 
 106
 
@@ -3490,7 +3723,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-• To implement a comprehensive cost of protection analysis in order to assess the essential viability of the enterprises and develop a corresponding policy liberalisation strategy to provide the enabling economic policy environment by 2008. • To review the constraints on public enterprises ability to achieve the target 10% return on shareholder funds and identify means to improve their returns by 2007.
+ | • To implement a comprehensive cost of protection analysis in order to assess the essential viability of the enterprises and develop a corresponding policy liberalisation strategy to provide the enabling economic policy environment by 2008. • To review the constraints on public enterprises ability to achieve the target 10% return on shareholder funds and identify means to improve their returns by 2007. | 
 
 107
 
@@ -3524,7 +3757,7 @@ Fiji  is  party  to  international conventions on poverty alleviations, includin
 
 The underlying objective for poverty alleviation is ensuring that all categories of the poor are able to sustainably and affordably meet their basic needs. Promoting consensus on the definition of the poor and their needs will sharpen and focus government's assistance to the poor.  The  creation  of  income-earning  opportunities  for  the  poor,  review  of  housing  and poverty related policies and the partnership arrangement with Government and civil society organization would promote the eradication of poverty.
 
-Fiji is working to create its own national poverty eradication strategies based on local needs and priorities. The strategies in the plan advocate nationally-owned solutions and help to make them more effective through ensuring a greater voice for poor people, promoting their self  reliance  and  self  esteem.  Strategies  will  expand  access  to  productive  assets  and economic opportunities by linking poverty programmes with economic, social and financial policies.  The  plan  looks  at  innovative  projects  and  brings  Government,  civil  society  and donors together to coordinate their efforts.
+Fiji is working to create its own national poverty eradication strategies based on local needs and priorities. The strategies in the plan advocate nationally-owned solutions and help to make them more effective through ensuring a greater voice for poor people, promoting their self reliance and self esteem. Strategies will expand access to productive assets and economic opportunities by linking poverty programmes with economic, social and financial
 
 108
 
@@ -3534,11 +3767,13 @@ Fiji is working to create its own national poverty eradication strategies based 
 
 Strategic Development Plan 2007-2011: Part Three
 
+policies. The plan looks at innovative projects and brings Government, civil society and donors together to coordinate their efforts.
+
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 All categories of the poor are able to meet their basic needs. | • Reach consensus on the definition of the poor and their needs and ensure the compilation and timely analysis of statistics on poverty, including Household Income and Expenditure Survey. • Review and develop poverty targeted policies and implement appropriate programmes in housing, national insurance and social security and National Integrated Poverty Eradication Framework. • Develop and strengthen supportive community infrastructures for sustainable management of poverty targeted programmes. • Empower communities through liberation education programmes for self-sufficiency, self-reliance and self esteem. • Establish community mechanisms for feedback on public services. • Disseminate information to the nation about anti-poverty programmes. • Create income-earning opportunities for the poor in formal and informal sectors, including SME development and support structures and institutions, and develop their relevant skills, including, training attachments of unemployed. • Formalize and strengthen Government and civil society partnership in alleviating poverty, including traditional support mechanisms for the disadvantaged and support to the elderly through CSO. | • Proportion of population below the HIES defined basic needs poverty line reduced from 34.4% to 24% (MDG). • Poverty gap ratio reduced from $2,600 to $2,000 (MDG). • Percentage share of consumption held by poorest 20% increased from 7% to 10% (MDG). • Not less than 1,500 recipients of family assistance graduate from assistance programmes through income generating projects. • Reduction in number of elderly in State care from 98 to 75.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 109
 
@@ -3570,11 +3805,11 @@ Devolution  of  planning  and  administrative  authority  to  provincial  and  l
 
 Improved infrastructure will allow development to proceed beyond meeting basic needs to providing  opportunities  to  improve  the  livelihoods  and  quality  of  life  of  themselves  and their children through better access to services and markets. Improved education and skills training,  including  in  entrepreneurship,  SME  development  and  tourism  will  enable  the people to exploit those opportunities.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-Rural and outer island communities to meet their basic needs, improve living | • Effective service provision to rural and outer island areas by strengthening the coordination role between relevant key government agencies. • Strengthened capacity at Provincial Offices, Infrastructure | • Rural population with water- seal toilets or other sanitary waste disposal increased from 45% to 80%. • Telecommunications access to at least 100 more unconnected rural
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+Rural and outer island communities to meet their basic needs, improve living | • Effective service provision to rural and outer island areas by strengthening the coordination role between relevant key government agencies. • Strengthened capacity at Provincial Offices, Infrastructure | • Rural population with water-seal toilets or other sanitary waste disposal increased from 45% to 80%. • Telecommunications access to at least 100 more unconnected rural
 
 110
 
@@ -3586,8 +3821,8 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-standards and quality of life towards self- sufficiency. | Ministry and other relevant agencies to support implementation of initiatives. • Government intervention role to assist the rural and outer island areas reviewed. • Implement appropriate recommendations planning studies on water and sewerage, electrification, alternative energy sources, and telecommunications. • Awareness programmes to educate rural population on Government assistance and their civic responsibilities. | communities by 2011. • Increase in rural dwellers trained under the TVET and 'Matua' programmes from 2,000 to 3,000 per year.
-Rural and outer island dwellers enjoy increased access to markets and government services to ensure income and food security. | • Community capacity building programmes at grassroots levels developed. • Volunteer Schemes to use experiences of retired personnel. • Implement the infrastructure development activities of the Rural and Outer Islands Project. • Development of commercial agriculture, tourism, SMME enterprises and market networks linking producers, processors and end product markets. • Inter island shipping routes reviewed. • Encourage quality agricultural produce, shows and cooperative farming in rural areas for consumption both domestic and international. • Increased access to formal financial services for savings and credit, including rural banking, microfinance and savings and credit unions. | • Increase in average weeks paid employment per working age population increased from 10 weeks per year to 15 weeks. • Average cash incomes per working age household member increased from F$550/yr to F$1,000/yr. • Average weeks paid self- employment for working age household members increased from 4 to 7. • Minimum of 2 trips per month on each of nine franchised outer island shipping routes. • Average journey time to nearest town/market reduced from 2hrs to 1hr. • Agricultural sales to local and national private traders increased from 40% to 60% of total sales.
+standards and quality of life towards self-sufficiency. | Ministry and other relevant agencies to support implementation of initiatives. • Government intervention role to assist the rural and outer island areas reviewed. • Implement appropriate recommendations planning studies on water and sewerage, electrification, alternative energy sources, and telecommunications. • Awareness programmes to educate rural population on Government assistance and their civic responsibilities. | communities by 2011. • Increase in rural dwellers trained under the TVET and 'Matua' programmes from 2,000 to 3,000 per year.
+Rural and outer island dwellers enjoy increased access to markets and government services to ensure income and food security. | • Community capacity building programmes at grassroots levels developed. • Volunteer Schemes to use experiences of retired personnel. • Implement the infrastructure development activities of the Rural and Outer Islands Project. • Development of commercial agriculture, tourism, SMME enterprises and market networks linking producers, processors and end product markets. • Inter island shipping routes reviewed. • Encourage quality agricultural produce, shows and cooperative farming in rural areas for consumption both domestic and international. • Increased access to formal financial services for savings and credit, including rural banking, microfinance and savings and credit unions. | • Increase in average weeks paid employment per working age population increased from 10 weeks per year to 15 weeks. • Average cash incomes per working age household member increased from F$550/yr to F$1,000/yr. • Average weeks paid self-employment for working age household members increased from 4 to 7. • Minimum of 2 trips per month on each of nine franchised outer island shipping routes. • Average journey time to nearest town/market reduced from 2hrs to 1hr. • Agricultural sales to local and national private traders increased from 40% to 60% of total sales.
 
 111
 
@@ -3615,11 +3850,11 @@ Provision  of  affordable  shelter  will  contribute  to  the  eradication  of  
 
 The plan recognizes the need for quality and reasonable housing at affordable prices for all. Squatter Resettlement Unit (SRU) is established to carry out development in all aspects like topographical  survey,  scheme  plan  engineering,  drawings  and  physical  development.  As discussed  in  the  policy  objectives  and  strategies,  the  overall  aim  is  to  provide  decent housing and to reduce the squatter settlements. While access to better housing is a basic need, it is also prerequisite to social and community development. Government continues to inject resources to upgrade squatter settlements and provide affordable accommodation to the needy.
 
+##### Policy Objectives and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-Citizens, including those on low incomes, have access to decent and affordable housing towards home ownership. | • To significantly upgrade squatter settlements by redevelopment of squatter areas, and provision of basic amenities in current squatter settlements. • Proactively resettle expired ALTA tenants. • Develop housing programmes to reduce the existence of squatter settlements and social housing. • Accessible and affordable mortgage financing for both rural and urban communities. • To strengthen public, private and community partnership and provide | • At least 350 additional families each year benefit from new or improved housing under government and non- government poverty- oriented housing programmes. • Upgrading of
-
-##### Policy Objectives and Key Performance Indicators
+Citizens, including those on low incomes, have access to decent and affordable housing towards home ownership. | • To significantly upgrade squatter settlements by redevelopment of squatter areas, and provision of basic amenities in current squatter settlements. • Proactively resettle expired ALTA tenants. • Develop housing programmes to reduce the existence of squatter settlements and social housing. • Accessible and affordable mortgage financing for both rural and urban communities. • To strengthen public, private and community partnership and provide | • At least 350 additional families each year benefit from new or improved housing under government and non-government poverty-oriented housing programmes. • Upgrading of
 
 112
 
@@ -3635,7 +3870,7 @@ support for the provision of housing and land for poor and low income earners. �
 
 ### 7.2 Social Justice
 
-Programmes  serving  the  objective  of  Social  Justice  address  the  needs  of  those  who  are socially or culturally disadvantaged. Although deprived of equal opportunities, these groups need not be materially poor - but often are. Social Justice programmes are set out in three sections of the plan to address the needs of: indigenous Fijians and Rotumans, people with disabilities,  women,  children  and  youths.  Government  implementation  will  be  supported, monitored and evaluated by the Summit Working Group on Social Justice.
+Programmes  serving  the  objective  of  Social  Justice  address  the  needs  of  those  who  are socially or culturally disadvantaged. Although deprived of equal opportunities, these groups need not be materially poor – but often are. Social Justice programmes are set out in three sections of the plan to address the needs of: indigenous Fijians and Rotumans, people with disabilities,  women,  children  and  youths.  Government  implementation  will  be  supported, monitored and evaluated by the Summit Working Group on Social Justice.
 
 #### 7.2.1 Social Justice and Affirmative Action
 
@@ -3665,14 +3900,14 @@ Strategic Development Plan 2007-2011: Part Three
 
 The Plan recognises the need for balanced development and equality of access to economic and social development benefits. Improving access and participation of indigenous Fijians and  Rotumans,  minority  groups,  women,  youths,  children  and  people  with  disabilities  to education and training, commerce and business is critical to achieving social justice. The Plan emphasises the provision of a social safety-net through the family assistance scheme to those in severe state of deprivation. A comprehensive review of the Social Justice Act and the 29 affirmative action programmes is essential for transparency and accountability.
 
-The  programmes  range  from  small  business  equity  scheme,  improving  educational infrastructures,  technical  and  vocational  training,  special  education,  squatter  settlements upgrading, education scholarships, rental subsidies, poverty alleviation projects and family assistance  scheme.  Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow monitoring of the success in achieving the Strategic Priorities.
+The  programmes  range  from  small  business  equity  scheme,  improving  educational infrastructures,  technical  and  vocational  training,  special  education,  squatter  settlements upgrading, education scholarships, rental subsidies, poverty alleviation projects and family assistance  scheme.  Measurable  outcome  oriented  KPI’s  have  been  set  which  will  allow monitoring of the success in achieving the Strategic Priorities.
+
+##### Policy Objectives, Strategies and Key Performance Indicators
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Indigenous Fijians and Rotumans enjoy an improved quality of life and standard of living. | • Increase participation of indigenous Fijians and Rotumans in commerce and business. • Improve indigenous Fijian and Rotuman education and training and build capacity for all leaders. • Establish sex disaggregated database and information system. • Mid-term review to improve the effectiveness of the Social Justice and Affirmative Action programme. • Proportion of Government rent on Tikina and Provincial Council owned buildings increased from 51% to 90%. • Harmonisation of existing acts, including the Finance Act, with the Social Justice Act. | • Increased shares of licenses and permits held by indigenous Fijians and Rotumans from 15% to 30%. • Pass rates in FSLC improved from 57% to 80% and in FSFE from 68% to 85%. • Proportion of students scoring at least 250 marks in FSLC and FSFE increased from 30% to 50%. • Recovery in student loan scheme increased from 1.5% to 50%. • Indigenous Fijian and Rotuman ownership of listed companies increased from 50% to 80%.
 People with disabilities enjoy greater access to an inclusive, | • Improve the provision of and policies for education and vocational training services which meet the needs of people with | • Enrolment in regular and special schools increased from 1,068 in 2004 to 2,000 in 2011.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 114
 
@@ -3698,7 +3933,7 @@ Gender  and  development  contributes  to  maintaining  stability  by  addressin
 
 ##### Link to UN Millennium Development Goals (MDGs)
 
-The MDG 3: - 'promote gender equality and empower women' -sets a target to eliminate gender disparity in primary and secondary education, preferably by 2005, and in all levels of education no later than 2015 The other two indicators are included as KPIs are: 'Share of women in wage employment in the non-agricultural sector' and 'Proportion of seats held by  women in  national  parliament.'  According  to  the    2004  Annual  Employment  Survey around 36% of women are economically active whereas in the not economical active sector 71% are Females.  The proportion of seats in Parliament held by women had increased from 9% in 2000 to 13% in 2006.
+The MDG 3: - “promote gender equality and empower women” –sets a target to eliminate gender disparity in primary and secondary education, preferably by 2005, and in all levels of education no later than 2015 The other two indicators are included as KPIs are: “Share of women in wage employment in the non-agricultural sector” and “Proportion of seats held
 
 115
 
@@ -3708,17 +3943,19 @@ The MDG 3: - 'promote gender equality and empower women' -sets a target to elimi
 
 Strategic Development Plan 2007-2011: Part Three
 
+by women in national parliament.” According to the 2004 Annual Employment Survey around 36% of women are economically active whereas in the not economical active sector 71% are Females. The proportion of seats in Parliament held by women had increased from 9% in 2000 to 13% in 2006.
+
 Under MDG 6 there should be a gender specific indicator to address the increasing number of diabetes and anaemia amongst women.  This is a public health issue and women's health being a prioritized area of action under the National Women's Plan of Action must be given due priority.  In accordance with MDG 5 for improved maternal health there is a need to promote family planning programmes.  This is also stated as an Area of Action under the National  Women's  Plan  of  Action.    In  keeping  with  MDG  6  and  in  accordance  with government's policy on gender mainstreaming a strong emphasis on gender issues is needed to reduce HIV transmission.
 
 ##### Development Rationale
 
 The Plan emphasizes the cross sectoral breadth which needs to be addressed on the need for implementing  and  monitoring Equal Employment  Opportunity  (EEO)  policy  in  all workplaces,  eliminating  all  forms  of  discrimination  and  violence  against  women  and  the girl  /  child;  the  need  for  effective  social  safety  nets  for  the  unemployed  in  particular, training  and  investment  to  promote  alternative  livelihoods  for  women  displaced  from  the manufacturing  and  formal  sector  employment,  and  increasing  accessibility  to  economic opportunity  for  rural  women.    Access  to  improved  public  health  services  in  particular maternal  health  and  focused  emphasis  on  gender  issues  to  reduce  HIV  transmission  will provide on enabling environment to fully recognize the benefits outlined in various Action Plans.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objective | Strategies | Key Performance Indicator
 --- | --- | ---
-Achievement of Gender Equality and Empowerment of Women through full participation in business and decision making process through entrepreneurial support in non- formal and formal sector and decision making processes. | • Laws in relation to UN CEDAW (articles 1-13) reviewed, implemented and monitored; gender mainstreaming institutions strengthened; a National Women's Plan of Action implemented, Domestic Violence Bill enacted, awareness training on the Family Law Act, and ensure appropriate sentencing penalties, including counselling, for violent crimes, against women and children. • Increase ability of women and their access to income generating activities including SME. | • Share of women in wage employment in the non-agricultural sector increased from 35.9% to 37.9% by 2011 (MDG). • Combined primary and secondary girls : boys ratio of 1:1 (MDG). • The proportion of female school principals, vice and assistant principals to be not less than 25% by 2011. • The proportion of
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+Achievement of Gender Equality and Empowerment of Women through full participation in business and decision making process through entrepreneurial support in non-formal and formal sector and decision making processes. | • Laws in relation to UN CEDAW (articles 1-13) reviewed, implemented and monitored; gender mainstreaming institutions strengthened; a National Women's Plan of Action implemented, Domestic Violence Bill enacted, awareness training on the Family Law Act, and ensure appropriate sentencing penalties, including counselling, for violent crimes, against women and children. • Increase ability of women and their access to income generating activities including SME. | • Share of women in wage employment in the non-agricultural sector increased from 35.9% to 37.9% by 2011 (MDG). • Combined primary and secondary girls : boys ratio of 1:1 (MDG). • The proportion of female school principals, vice and assistant principals to be not less than 25% by 2011. • The proportion of
 
 116
 
@@ -3730,7 +3967,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objective | Strategies | Key Performance Indicator
 --- | --- | ---
-development (WOSED to be reviewed), targeted programmes for women in agriculture reform., and Equal training opportunities at all levels in Government. • Empower women, particularly rural women, through training on leadership, awareness of human and indigenous rights issues, health and quality of life through Partnership, Networking and Coordination with women groups and increased collaboration and partnership with NGOs. • Mainstream gender perspectives in all sectoral development programmes. • Strengthen women's groups to increase awareness in the role that women play in societies. | female CEOs in Government to be at least 20% by 2011. • At least one woman in each Government board, committee, tribunal, council, and commission. • Proportion of seats held by women in national parliament and municipal elections to be not less than 20% (MDG). • Number of women supported by micro- finance increased from 5,100 in 2006 to not less than 19,500 by 2010. • Cases of domestic violence recorded by police to be monitored and analysed.
+development (WOSED to be reviewed), targeted programmes for women in agriculture reform., and Equal training opportunities at all levels in Government. • Empower women, particularly rural women, through training on leadership, awareness of human and indigenous rights issues, health and quality of life through Partnership, Networking and Coordination with women groups and increased collaboration and partnership with NGOs. • Mainstream gender perspectives in all sectoral development programmes. • Strengthen women's groups to increase awareness in the role that women play in societies. | female CEOs in Government to be at least 20% by 2011. • At least one woman in each Government board, committee, tribunal, council, and commission. • Proportion of seats held by women in national parliament and municipal elections to be not less than 20% (MDG). • Number of women supported by micro-finance increased from 5,100 in 2006 to not less than 19,500 by 2010. • Cases of domestic violence recorded by police to be monitored and analysed.
 
 #### 7.2.3 Children and Youth
 
@@ -3758,11 +3995,11 @@ Strategic Development Plan 2007-2011: Part Three
 
 The plan requires the need for protection of youth and children. The National Coordinating Committee  on  Children  will  coordinate  the  implementation  of  the  convention  into  Fiji's laws and procedures while the Family Law Act will address the problems faced by children who are from divorced families. As indicated in the policy objectives and strategies, the overall aim is to reduce the number of street kids, child abuse and, teenage pregnancy.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objective | Strategies | Key Performance Indicators
 --- | --- | ---
 Children and young people enjoy greater protection and development. | • Review, implement and monitor legislation with the principles and provisions of the Convention on the Rights of the Child (CRC) and other relevant international instruments. • Strengthened policy formulation, programme implementation and monitoring. • Facilitate and Support the establishment of youth small & micro-enterprise projects nation wide. • Increase number of youths trained for livelihood activities and lifelong skills and values to be responsible citizens. • Promotion of children and youth issues and their increased participation in decision-making processes, at all levels. • Create greater awareness amongst parents with parenting skills and family counselling services, children and youth on sexual, drug and substance abuse, suicide and infanticide, reproductive health education and family life issues. • Promote a protective environment for children and combat all forms of child abuse and pornography in partnership with community and faith based organizations and NGOs. | • Offences against children to be recorded by police, monitored and analysed. • Young people benefiting from Placement Services Work Experience Programmes increased from 100 to 120 annually. • Number of SME projects supporting young people increased from 180 to 250 per year. • Teenage pregnancy reduced from 16% to 8% by 2011
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 118
 
@@ -3790,11 +4027,11 @@ Better  planning  and  urban  development  will  contribute  to  increasing  inv
 
 Fiji is an increasingly urbanised society with about half of the population living in cities, towns and peri-urban areas. Government also recognizes that the urban economy is a major driver  of  the  national  economy.  Therefore,  to  support  Plan  objectives,  an  effective, integrated  urbanization  strategy  is  needed  as  a  key  mechanism  for  achieving  sustained socio-economic  development  within  an  integrated  planning  framework  for  urban  centres and regional areas. The Urban Policy Action Plan and review of the Local Government Act, supported  by  the  good  governance  and  leadership  campaign  at  the  local  level,  are considered crucial parts of the national economic development process.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key performance indicators
 --- | --- | ---
 An efficient, effective and sustainable urban sector. | • Implementation of Urban Policy Action Plan (UPAP) and Urban Growth Management Plan (UGMP). • Responsive institutional, regulatory and policy frameworks for management of urban development. • Devolution of authority and responsibilities and institutional realignment. • Expanded capacity of local and central | • Urbanisation rate constrained to the current 2% or less. • Fiji Accounting Standards and accrual accounting complied with by all local government units and audited accounts produced as required
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 119
 
@@ -3824,9 +4061,9 @@ The Integrated Management of Childhood Illnesses strategy implementation and ext
 
 ##### Development Rationale
 
-Health continues to be a growing and increasingly complex field of competing priorities from all perspectives -from the individuals to governments, businesses, health professionals and the health services system. A healthy and productive population is a key for sustainable economic development.
+Health continues to be a growing and increasingly complex field of competing priorities from all perspectives – from the individuals to governments, businesses, health professionals and the health services system. A healthy and productive population is a key for sustainable economic development.
 
-The plan recognises the need for adequate access to primary and preventative health care services  for  all.  These  services  must  be  provided  efficiently  and  effectively  with  the emphasis  on  the  quality  and  scale  of  service  delivered  to  beneficiaries.  Comprehensive health care programmes in the strategies will generally contribute to overall well being of the society. As indicated in the policy objective and strategies the overall aim is to increase average life expectancy and reduce life lived with disability.
+The plan recognises the need for adequate access to primary and preventative health care services  for  all.  These  services  must  be  provided  efficiently  and  effectively  with  the emphasis  on  the  quality  and  scale  of  service  delivered  to  beneficiaries.  Comprehensive
 
 120
 
@@ -3836,12 +4073,14 @@ The plan recognises the need for adequate access to primary and preventative hea
 
 Strategic Development Plan 2007-2011: Part Three
 
+health care programmes in the strategies will generally contribute to overall well being of the society. As indicated in the policy objective and strategies the overall aim is to increase average life expectancy and reduce life lived with disability.
+
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Communities are served by adequate primary and preventive health services, thereby protecting, promoting and supporting their well being. | • Strengthen and implement integrated programme on maternal and child health, Expanded Programme on Immunisation, Integrated Management of Childhood Illnesses and Reproductive Health. • Implement the safe motherhood programme. • Strengthen reproductive programme. • Implement the STI/HIV/AIDS Strategic Plan 2007-2011. • Implement the Non Communicable Diseases Strategic Plan 2005-2008. • Maintain appropriate levels of health care professionals and ensure high standards of health care. | • Child mortality rate reduced from 26 to 20 per 1000 live births (MDG). • Percentage of one year old immunised against measles increased from 68% to 95%. • Maternal mortality ratio reduced from 50 to 20 per 100,000 live births. • HIV/AIDS prevalence among 15-24 year-old pregnant women reduced from 0.04 to 0.03 (MDG). • Prevalence of diabetes reduced from 16% to 14%. • Contraceptive prevalence rate amongst population of child bearing age increased from 46% to 56% (MDG). • Increased Fiji resident medical graduates from FSMed from 40 to 50 per year.
-Communities have access to effective, efficient and quality clinical health care and rehabilitation services | • Balanced mix of public and private financing for priority health programs. • Improved level of equity, efficiency and effectiveness of health services. • Financial resources shifted towards cost-effective health programmes. • Increased budget spending for health by 1% of GDP in 2009 and 2% by 2011 from current levels. | • Participation of private and health care providers increased from 2 to 10. • Doctors per 100,000 population increased from 36 to 42. • Elimination of stock outs of drugs from present 100 items per month. • Average length of stay for in- patient treatment reduced from 5 to 3 days.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+Communities have access to effective, efficient and quality clinical health care and rehabilitation services | • Balanced mix of public and private financing for priority health programs. • Improved level of equity, efficiency and effectiveness of health services. • Financial resources shifted towards cost-effective health programmes. • Increased budget spending for health by 1% of GDP in 2009 and 2% by 2011 from current levels. | • Participation of private and health care providers increased from 2 to 10. • Doctors per 100,000 population increased from 36 to 42. • Elimination of stock outs of drugs from present 100 items per month. • Average length of stay for in-patient treatment reduced from 5 to 3 days.
 
 121
 
@@ -3871,11 +4110,11 @@ Sport moulds better citizens through the inculcation of important values such as
 
 The  plan  recognizes  the  need  to  promote  healthy  lifestyles  and  to  facilitate  lucrative employment opportunities through sports. With non-communicable (life-style) diseases on the increase, the Ministry of Youth and Sports is continuing to promote 'Sports for All', targeting public service offices around the country and rural and urban population. Ministry of Health is emphasizing on the facilities for improving adult health counselling. Further, it is  also  recognized  in  the  priorities  that  effective  cooperation  and  partnership  between agencies, private sector and the community are essential to the effective achievement of the outcomes intended by the Government.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 People enjoy healthier lifestyles and improved sporting skills and knowledge. | • Increase in participation of citizens in 'Sports for All' activities and integrate them in the workplace. • Support the development of sports facilities, programmes and involvement of the private sector in sports. • Measures to be designed and implemented to promote minor | • Increase in corporate sponsorship from $2.6 million to $3.5 million per year. • Increase in gold medals from 25 to 35 in the Pacific and Mini South Pacific Games. • At least 3 medals Commonwealth Games
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 122
 
@@ -3887,7 +4126,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-sports and develop professional players. • To facilitate employment opportunities through sports. • Increased number of qualified sports scientists and administrators and improved coordination between sports agencies, continuing implementation of the National Sports policy. • Increase in the number of national age group teams (U13, U17, U19 and U23) and competition for various sports. • Increased number of playing fields and other recreation facilities in use in rural and peri- urban areas and improved monitoring and maintenance to ensure they are kept in good, usable condition. • Review Government tax incentives on sports sponsorship for national sporting federations. • Laucala Sports City hosts at least one international meet annually. | won at each Games. • Each year, at least one age group in a team sport to qualify for World Championships. • Increase in number of athletes and players contracted to overseas clubs from 70 to 200.
+sports and develop professional players. • To facilitate employment opportunities through sports. • Increased number of qualified sports scientists and administrators and improved coordination between sports agencies, continuing implementation of the National Sports policy. • Increase in the number of national age group teams (U13, U17, U19 and U23) and competition for various sports. • Increased number of playing fields and other recreation facilities in use in rural and peri-urban areas and improved monitoring and maintenance to ensure they are kept in good, usable condition. • Review Government tax incentives on sports sponsorship for national sporting federations. • Laucala Sports City hosts at least one international meet annually. | won at each Games. • Each year, at least one age group in a team sport to qualify for World Championships. • Increase in number of athletes and players contracted to overseas clubs from 70 to 200.
 
 #### 7.3.4 Disaster Risk Reduction and Disaster Management
 
@@ -3917,11 +4156,11 @@ A principal recommendation in the review of the 1998 Natural Disaster Management
 
 The  Plan  recognises  the  need  to  maintain  effective  planning  in  order  to  reduce  disaster impact,  improve  community  capacity  in  dealing  with  disasters  and  risks,  and  to  conduct analysis  and  evaluation  of  hazards,  vulnerabilities  and  risks  and  invest  in  risk  reduction projects  and  activities.  The  shift  towards  a  comprehensive  and  an  integrated  approach towards risk reduction on hazards are reflected in the policy objective and strategies under disaster management.  Further,  it is also recognized  in the strategies that effective cooperation and partnership between Civil Society Organisations, the Government and the community  are  essential  to  the  effective  achievement  of  then  outcomes  intended  by Government.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Communities are better protected from risks of disasters and better able to protect themselves and cope with the consequences of disasters. | • Effective risk reduction projects identified and implemented. • Improved community capacity in dealing with disasters and risks supported by effective, integrated and people-focused early warning systems to ensure people receive timely warning. • Increased analysis and evaluation of hazards, vulnerabilities and risks. • Food security strengthened and enhanced community based disaster reduction initiatives. • Strengthened organisational, institutional, policy and decision making frameworks. • Enhanced knowledge, information, public awareness and education. • Strengthen effective planning, response and recovery. • Adequate availability of necessary germplasm to support recovery. • Reduction in underlying risk factors. | • Government responds to disaster situation within the first 24 hours. • Casualties reduced from 30 per year to none.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 124
 
@@ -3949,13 +4188,13 @@ Security  contributes  directly  to  the  Strategic  Priorities  of  promoting  
 
 The  Plan  recognises  the  need  for  security  agencies  to  secure  and  protect  the  nation's sovereignty  and  borders  with  appropriate  capacity  for  identified  defence  and  security requirements.  Whilst  security  is  primarily  concerned  with  external  terrorist,  criminal  and economic threats, vigilance is also required to support maintenance of internal security and to  safeguard  against  civil  unrest.  It  is  also  recognized  in  the  strategies  that  effective cooperation and partnership between agencies and between them and the community are essential to the effective achievement of then outcomes intended by Government.
 
-Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow  monitoring  of  the success in achieving the Strategic Priorities
+Measurable  outcome  oriented  KPI’s  have  been  set  which  will  allow  monitoring  of  the success in achieving the Strategic Priorities
+
+##### Policy Objectives, Strategies and Key Performance Indicators
 
 Policy Objectives | Strategies | Key performance Indicators
 --- | --- | ---
 Fiji is protected from political, social, terrorist, criminal, economic and environmental threats, and its sovereignty and territorial integrity are ensured. | • Implementation of Security and Defence review recommendations. • Strengthened security and management services with establishment of Counter Terrorism Official Group, improved border management system and the national emergency capability. • Ratify the 8 remaining UN Counter Terrorism Conventions and implement all conventions. • Strengthening of networking between | • Terrorist activities on Fiji's territory prevented. • Prosecution of money laundering cases increased from1 to at least 10 per year. • Increase detection rate of intended unlawful entry by
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 125
 
@@ -3993,12 +4232,12 @@ Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow  monit
 
 Strategic Development Plan 2007-2011: Part Three
 
-Policy Objectives | Strategies | Key Performance
---- | --- | ---
-To enhance community safety and respect for the law. | • Improved integration of law and justice sector agencies, with a focus on crime prevention, through partnerships between government agencies and the community including with youth and through Fijian traditional structures. • Increase capacity and capability to collate and analyse intelligence and investigate serious and complex fraud. • Improved public access to information about prosecutions • Develop evidence based approach to investigations through the use of scientific and analytical systems. • Promote human rights awareness and educational programmes, increase enforcement of human rights, revise laws and regulations to eliminate exclusionary language, and strengthening human rights compliance during investigations and interrogations. • Enhancing traffic law, enforcement, and awareness | Indicators • Reduction in total crime and youth offender rates by at least 20% from 19,050. • Maintain the crime detection rate over 50% • Reduction in complaints against police by at least 50% from the present 558 per year. • Decrease in the number of motor vehicle accident fatalities by at least 20% from the present 76 per year. • Fiji's ranking under Transparency International's Corruption Perception Index, covering 159 countries, improved from the present rank of 55 th .
-People are served by an ethical, professional, independent, transparent and accountable judiciary that is responsive and efficient. | • Increase opportunities for justice and accessible processes that are responsive to the diverse needs. • Reinforce the institutional independence and accountability of the Judiciary. • Improve delivery of benchmark of court judgements. • Reduce adjournments. • Introduce audio recording and electronic case management | • Number of contested court case hearings adjourned or withdrawn reduced from 62.5% to 45%. • Judgements to be handed down within three months of completion of hearings. • Average time to dispose of civil cases
-
 ##### Policy Objectives, Strategies and Key Performance Indicators
+
+Policy Objectives | Strategies | Key Performance Indicators
+--- | --- | ---
+To enhance community safety and respect for the law. | • Improved integration of law and justice sector agencies, with a focus on crime prevention, through partnerships between government agencies and the community including with youth and through Fijian traditional structures. • Increase capacity and capability to collate and analyse intelligence and investigate serious and complex fraud. • Improved public access to information about prosecutions • Develop evidence based approach to investigations through the use of scientific and analytical systems. • Promote human rights awareness and educational programmes, increase enforcement of human rights, revise laws and regulations to eliminate exclusionary language, and strengthening human rights compliance during investigations and interrogations. • Enhancing traffic law, enforcement, and awareness programmes. | • Reduction in total crime and youth offender rates by at least 20% from 19,050. • Maintain the crime detection rate over 50% • Reduction in complaints against police by at least 50% from the present 558 per year. • Decrease in the number of motor vehicle accident fatalities by at least 20% from the present 76 per year. • Fiji's ranking under Transparency International's Corruption Perception Index, covering 159 countries, improved from the present rank of 55th.
+People are served by an ethical, professional, independent, transparent and accountable judiciary that is responsive and efficient. | • Increase opportunities for justice and accessible processes that are responsive to the diverse needs. • Reinforce the institutional independence and accountability of the Judiciary. • Improve delivery of benchmark of court judgements. • Reduce adjournments. • Introduce audio recording and electronic case management | • Number of contested court case hearings adjourned or withdrawn reduced from 62.5% to 45%. • Judgements to be handed down within three months of completion of hearings. • Average time to dispose of civil cases
 
 127
 
@@ -4066,11 +4305,11 @@ Strategic Development Plan 2007-2011: Part Three
 
 To ensure that the financial system is adequately supervised, a financial services regulator will be identified. Review of the appropriate legislations including the RBF legislations and the  Banking  and  Insurance  legislation  coupled  with  increased  data  coverage  will  reflect performance  and  standards  of  the  financial  sector.  Enhanced  disclosure  of  the  financial transactions  is  envisaged  with  the  implementation  of  the  new  Financial  Transactions Reporting (FTR) Act. For the development of the capital markets, appropriate incentives will considered for companies to list on the stock exchange.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 People and organizations in Fiji have access to appropriate modes of transparent, sound and secure financial and banking facilities. | • To review, evaluate, implement and monitor appropriate recommendations of the COIFS report, the FSAP, EFF review, Action plan for Insurance and Guarantee, FNPF studies and restructure of Fiji's superannuation sector, FDB review recommendations and the Rural banking survey recommendations. • Promote development of formal financial institutions in all rural and outer island areas. • Develop, promote and monitor financial instruments which provide cost effective export finance to remove financial constraints on exports. • Introduce, monitor and develop a RTGS system to increase efficiency. • Enhance safety and protection of financial institutions and financial services from their use and abuse by criminals for money laundering, corruption, fraud and other serious crimes. • Examine the feasibility of an ombudsman to promote and protect customer interests in financial services. • Review legislations and regulatory procedures, including micro-finance regulations and legislation on RBF, Banking, Insurance, and Superannuation. • Enhanced disclosure and monitoring of bank fees and charges. • Collect and analyse data from credit unions, micro finance operators and similar sources. | • Increase rural and outer island households with savings in institutions, banks and MFI, from 30% to 50% and with borrowings from 6% to 15% by 2010. • 50% of exports are financed by export finance at competitive rates. • The annual rate of detection of suspicious transactions increased from 300 to 500 by 2010. • Total equity market capitalization of listed entities increased to 100% of GDP from 25% by 2011. • Value of shares traded on the stock exchange
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 131
 
@@ -4112,11 +4351,11 @@ This sub sector continues to strengthen and made  significant impact to national
 
 Strategic Development Plan 2007-2011: Part Three
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Communities secure new and improved livelihoods through small and micro and medium enterprise development. | • To mainstream MSMEs in national development through: Government resources allocated annually to the sector; annual awards for individual and group excellence; and greater coverage of MSMEs in school curriculum. • To improve business support services and infrastructure by: • reviewing MSME laws and regulations; • extending micro finance facilities to all provinces; • providing incentives for large firms to develop MSME suppliers; • publishing MSME establishment costs on a regular basis; • conducting of training of trainers and refresher courses; • addressing quality and productivity issues; AND • developing marketing for MSMEs through research conducted regularly on new markets and opportunities. • Develop and implement strategies to promote the long term sustainability of MSMEs and microfinance institutions. • Provide readily available information through establishment of MSME database and promote and facilitate access to on-line technology information and methods supporting MSMEs. • Provide counselling services to recipients of remittances to promote sound use and management of funds for long term purposes as education, training (including enterprise skills), housing, savings and MSME investment; ministries serving citizens overseas to provide information and contacts. • Encourage financial institutions to provide access to finance. | • At least 500 MSMEs established each year. • Jobs in the MSME sector increased to 200,000. • Loans and savings clients of MFIs increased from the 2006 total of 22,000 to 30,000 in 2011. • Business Incubations Centres support development of 200 new enterprises during the plan period, of which 50 develop to be medium enterprises.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 133
 
@@ -4156,11 +4395,11 @@ The plan recognises the need for access to quality education which will enhance 
 
 Strategic Development Plan 2007-2011: Part Three
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 To ensure access to quality academic and vocational education by all communities in urban and rural areas and strengthen the foundations of peace in society. | • Curriculum framework developed to enhance spiritual, intellectual, social and physical development and strengthen instruction in Fijian and Hindi as well as English. • Improvement in the numbers and quality of competent and motivated teachers and reduction of the pupil: teacher ratios. • Increased use of standards improvement measurement in schools. • Enhanced rural education programme by establishing appropriate infrastructure, building standards, review of school performance and piloting distance education programme. • Strengthened partnership between government, communities, donors, municipal councils, school management committees, developers and parents. • Strengthen and expanded Technical and Vocational Educational and Training (TVET). • Effective and efficient allocation of subsidies to tertiary institutions. • Ensure retention of good quality teachers. | • Net enrolment rates for secondary schools rise from 77% to 90% of the cohorts from class 1 by 2010. • Proportion of pupils who start class 1 who reach class 5 to be not less than 95% (MDG). • Preschool enrolment in rural schools increases by 10% each year from 16% in 2006. • Proportion of students successfully completing TVET courses not less than 90% to meet current and future demand. • Disparities in passes in FSLC and FSFE are at least reduced from: (i) 28% to 15% between Fijians and non-Fijians; (ii) 24% to 15% between rural and urban students; and (iii) 3% to 1% between male and female students.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 #### 8.1.4 Employment and the Labour Market
 
@@ -4170,7 +4409,7 @@ Fullest and most productive utilisation of our human resources.
 
 ##### Links to Strategic Priorities
 
-An efficient, productive,  and  mobile  labour  force  is  an  essential  counterpart  to  increased availability and utilisation of investments and land in traversing to a new, sustainable, high growth equilibrium. Employment and labour market development are critical to achievement of Strategic Priorities of restructuring to promote competition and efficiency, raise export earnings and raise investment levels for jobs and growth. In supporting these Strategic  Priorities  it  will  also  contribute  to  alleviating  poverty,  rural  and  outer  island development and promoting peace and harmony.
+An efficient, productive,  and  mobile  labour  force  is  an  essential  counterpart  to  increased availability and utilisation of investments and land in traversing to a new, sustainable, high growth equilibrium. Employment and labour market development are critical to
 
 135
 
@@ -4179,6 +4418,8 @@ An efficient, productive,  and  mobile  labour  force  is  an  essential  counte
 [[START OF PAGE 151]]
 
 Strategic Development Plan 2007-2011: Part Three
+
+achievement of Strategic Priorities of restructuring to promote competition and efficiency, raise export earnings and raise investment levels for jobs and growth. In supporting these Strategic Priorities it will also contribute to alleviating poverty, rural and outer island development and promoting peace and harmony.
 
 ##### Link to UN Millennium Development Goals (MDGs)
 
@@ -4192,11 +4433,11 @@ The  Labour  Reform  brought  about  by  the  enactment  of  the  Employment  Re
 
 The policy objectives summarize the supply and demand side of the labour market, and the development and utilisation aspect of the human  capital. It reflects governments' commitment to improving the functioning of the labour market. The strategies on the other hand,  highlights  the  need  for  effective  and  consistent  inter/intra  agencies  consultation  to ensure the realisation of that broad policy objectives defined by government. The specific KPI's  therefore  are  arrived  at  through  the  strategies  and  are  considered  as  a  means  of achieving the policy objective.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-Employees work in a safe, healthy, decent, conducive and sustainable work environment where more people can | • Creating new employment opportunities and self- employment for people by establishing appropriate legal and operational framework and to include the annual review of all employment incentive schemes. • The implementation of the | • Unemployment reduced from 6% in the HIES to less than 4.2% by 2011. • Increasing people in paid employment from 136,411 by 5% per year or the rate of GDP growth, whichever is the higher.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+Employees work in a safe, healthy, decent, conducive and sustainable work environment where more people can | • Creating new employment opportunities and self-employment for people by establishing appropriate legal and operational framework and to include the annual review of all employment incentive schemes. • The implementation of the | • Unemployment reduced from 6% in the HIES to less than 4.2% by 2011. • Increasing people in paid employment from 136,411 by 5% per year or the rate of GDP growth, whichever is the higher.
 
 136
 
@@ -4212,7 +4453,7 @@ secure incomes from employment in the formal and informal sectors and acquire te
 
 ### 8.2 International Trade
 
-The manufacturing and commerce sectors, including extractive industries for minerals and groundwater, are projected to be the major source of increased export earnings and major areas  of  increased  investment  and  employment  -  service  sectors,  including  tourism,  are projected  to  provide  80%  of  the  increased  foreign  exchange  earnings  with  most  of  the balance provided by manufacturing and extractive industries 6 . Hence the manufacturing and service  sectors  addressed  here  are  critical  to  serving  the  Strategic  Priorities  of  Raising Export Earnings and Raising Investment Levels for Jobs and Growth. They underpin the macroeconomic  management  plans  in  Chapter  5  and  are  closely  related  to  economic restructuring (8.1) particularly  in  relation  to  the  regulatory  reforms  in  manufacturing  and commerce.  A  Summit  Working  Group  on  International  Trade  will  support.  monitor  and evaluate implementation of the following plans.
+The manufacturing and commerce sectors, including extractive industries for minerals and groundwater, are projected to be the major source of increased export earnings and major areas of increased investment and employment - service sectors, including tourism, are projected to provide 80% of the increased foreign exchange earnings with most of the balance provided by manufacturing and extractive industries⁶. Hence the manufacturing and service sectors addressed here are critical to serving the Strategic Priorities of Raising Export Earnings and Raising Investment Levels for Jobs and Growth. They underpin the macroeconomic management plans in Chapter 5 and are closely related to economic restructuring (8.1) particularly in relation to the regulatory reforms in manufacturing and commerce. A Summit Working Group on International Trade will support. monitor and evaluate implementation of the following plans.
 
 > 6 Trade and balance of payments data and projections are presented in Appendix 1.
 
@@ -4244,11 +4485,11 @@ A major factor constraining Fiji's growth is the inadequate institutional enviro
 
 The Plan aims to  create  an  enabling  environment  by  providing:  supportive  legislation  to give  legal  protection  to  investors;  policy  for  research  and  development;  adequate  market support, low cost business inputs, conducive private sector development policies, efficient financial system, and policies for small and medium enterprises to achieve the objective of sustainable  and  competitive  manufacturing,  commerce  and  industry.  Issues  of  inadequate infrastructure will be addressed through increased participation be the private sector in the financing and management of such infrastructure, including through divestiture and public private partnerships.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Fiji supported by a diversified and expanded manufacturing and commercial sector. | • Preparation of plans and development of competitive, high value-added manufacturing industries, including agro-based and niche products. • Promote competitiveness through divestment of public enterprises, | • Annual Foreign direct investment to be 6% of GDP in 2011. • Annual value of domestic private investment to be
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 138
 
@@ -4260,7 +4501,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-annual review of tariff barriers. • Enforcement of international standards, weights and measures, and quality control on both domestic producers and importers, to ensure a level playing field in domestic markets and ensuring local manufactured goods attain competitive international standards for exports. • Enforcement of anti-dumping legislation and increased vigilance at ports of entry to ensure that imported goods meet Fiji standards, including labelling and environmentally friendly packaging. • Develop private-public partnership for infrastructure development. • Implement decentralisation programme to encourage commercial and manufacturing activities in rural areas. • Implement electronic commerce policy and legislation. • National programme improving competitiveness through the National | 9% of GDP. • Annual exports of goods and services to be not less than 65% of GDP. • Fiji to be in the top ten of the World Bank Doing Business rankings.
+| annual review of tariff barriers. • Enforcement of international standards, weights and measures, and quality control on both domestic producers and importers, to ensure a level playing field in domestic markets and ensuring local manufactured goods attain competitive international standards for exports. • Enforcement of anti-dumping legislation and increased vigilance at ports of entry to ensure that imported goods meet Fiji standards, including labelling and environmentally friendly packaging. • Develop private-public partnership for infrastructure development. • Implement decentralisation programme to encourage commercial and manufacturing activities in rural areas. • Implement electronic commerce policy and legislation. • National programme improving competitiveness through the National Productivity Charter. | 9% of GDP. • Annual exports of goods and services to be not less than 65% of GDP. • Fiji to be in the top ten of the World Bank Doing Business rankings.
 Communities should benefit from enhanced consumer protection and awareness. | • Merge PIB, Fair Trading Department, and Commerce Commission to increase effectiveness of monitoring, enforcement and service delivery. • Consumer Council to promote consumer awareness and education through research and investigation. • Improve Government and Donor support to the Consumer Council by 10% per year from the present funding of $569,170 to better protect consumers from unfair trade and services and to enforce weights and measures standards. | • Consumer complaints solved through mediation increased from 15% (201/1305) in 2005 to 30%.
 
 139
@@ -4289,11 +4530,11 @@ Tourism growth places considerable demands on infrastructure and is often locate
 
 Comprehensive  measurable  outcome  oriented  KPI's  have  been  set  which  will  allow monitoring of the success in achieving the strategic priorities, reflecting the broad impact of tourism  on  wholesale  and  retail  sector,  construction,  transport,  demand  for  supporting supplies or service.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Fiji benefits from a sustainable increase economic contribution and retention of the tourist dollar from an environmentally and socially | • Additional rooms are constructed to maintain a balance between supply and demand. • New markets are developed and needed physical and institutional infrastructure established. • Promote high growth niche markets for specialized tourism. • Cruise ship and yachting tourism promoted, using improved outer island | • 800,000 visitors per year by 2011. • Room occupancy maintained at 60% to 70% with room stock growth in balance with visitor arrivals. • Direct employment in tourism
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 140
 
@@ -4346,11 +4587,11 @@ Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow  monit
 
 Strategic Development Plan 2007-2011: Part Three
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Each community enjoys increased experience and benefits of its own culture and heritage and appreciation of those of fellow communities in Fiji. | • Protect, preserve and manage Fiji's Cultural and natural Heritage • Develop and strengthen Fiji Arts Council, Fiji Museum, Fiji Handicraft Council, and National Trust of Fiji to increase their effectiveness. • Develop strategies to preserve, promote and increase awareness of culture for posterity and increase coordination between relevant agencies. • Research and development of professional cultural heritage and training. • Increase cultural and cross cultural understanding. • Promote creativity in all forms and at all level of society. • Promote conservation and cultural resource development that emphasizes partnership with local resource owners & local institutions. • Increase the number of sites, including flora and fauna currently protected and managed by further 50%. • At least 20 new archaeological sites surveyed annually. • Arts, languages, heritage awareness subjects included in school curriculum s and other learning centres. • Develop films and other audiovisual projects that capture Fiji's culture and traditions, including flora and fauna. | • At least 2 heritage sites included in the World Heritage listing. • At least 80% of resource owners meet standard for best practices in the marketing of cultural resources. • At least 20 new heritage sites included as visitor attractions.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 143
 
@@ -4374,11 +4615,11 @@ Mineral resources support the Strategic Priorities of raising investment levels 
 
 EGM and Natural Waters of Fiji are the two major players in the mineral and groundwater sector. Compared to other industries, the potential for new entrants is limited. Recognizing this,  the  policy  objectives  and  strategies  of  the  Plan  is  focused  on  strengthening  the institutional  support  mechanisms  to  guide  the  development  of  the  sector.  Where  there  is scope,  the  potentials  for  developing  other  minerals  and  subsidiary  industries  will  be pursued.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Communities benefit from sustainable development and management of mineral and groundwater resources to increase long term economic returns for the broader community, in particular to indigenous Fijian resource owners. | • Provide appropriate institutional environment for sector development. • Strengthen resource management by proactive enforcement of provisions of the Environment Management Act and other legislations. • Provide appropriate institutional support for development of the sector. • Encourage cordial relationship with landowners including awareness on land tenure issues and developments in the industry with investors and landowners. • Explore other mineral potentials such as in petroleum and gas with policy framework developed in consultation with the industry. • Review Mineral Act in line with benefits to landowners. • Investigate feasibility of marble quarrying. • Legislate water quality control and standards. | • Water quality at rivers/streams in the vicinity of mining operations maintained at acceptable standards. • Sector contribution to GDP increased from 0.5% in 2006 to 1.5% by 2011. • Annual exploration expenditure doubled to $12 million by 2011. • Annual gold exports increased from the past five years' average of $75m to $100m by 2011. • Annual bottled water exports increased from $80m in 2006 to over $100m by 2011.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 144
 
@@ -4408,11 +4649,11 @@ The Plan recognizes that there is an environmental threshold that development sh
 
 It is cross-cutting to the stability and sustained growth strategies. The strategies to address sustainable development issues across the various sectors include Environmental Management  Act,  National  Biodiversity  Strategy  and  Action  Plan,  and  Solid  Waste Management Strategy.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Fiji's environment is protected from degradation and provides the people with a healthy and clean environment | • Promote awareness of environmental management at all levels and mobilize communities to manage their own environment as a priority over outside intervention by state and non-state actors. • Review and strengthen legislation which includes environmental management provisions (e.g. Forest Act, Public Health Act, and Litter Decree) and coordinate. | • Population of inventoried species to be stable or increasing. • Waste disposal at Naboro landfill increased from 60,000 to 80,000 tonnes per year by 2011. • 100% of facilities comply with EMA requirements by 2011.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 145
 
@@ -4424,7 +4665,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-implementation in the framework of the Environmental Management Act. • Enforce sound waste management practices, including use of PPP when appropriate, and develop waste management to address disposal of wastes in non-urban areas, including traditional villages. • Enforce the Environmental Management Act, giving priority to early full enforcement of provisions for Environmental Impact Assessment and Waste Management and Pollution Control. • Continue the implementation of the Biodiversity Strategy and Action Plan and Endangered and Protected Species Act. • Establish and improve waste collection in non-municipal areas. • Review standards for biodegradability of plastics and establish appropriate tax incentives. • Adopt ISO 14855 Standard for plastic use in Fiji. | • All new developments to conduct EIA and establish monitoring benchmarks consistent with the Environment Management Act by 2011. • Total cessation of non- quarantine pre- shipment application for methyl bromide and chlorofluoro- carbons (CFCs) by 2010. • All companies complying with the Ozone Depleting Substances Act 1998 and Regulations 2000.
+| implementation in the framework of the Environmental Management Act. • Enforce sound waste management practices, including use of PPP when appropriate, and develop waste management to address disposal of wastes in non-urban areas, including traditional villages. • Enforce the Environmental Management Act, giving priority to early full enforcement of provisions for Environmental Impact Assessment and Waste Management and Pollution Control. • Continue the implementation of the Biodiversity Strategy and Action Plan and Endangered and Protected Species Act. • Establish and improve waste collection in non-municipal areas. • Review standards for biodegradability of plastics and establish appropriate tax incentives. • Adopt ISO 14855 Standard for plastic use in Fiji. | • All new developments to conduct EIA and establish monitoring benchmarks consistent with the Environment Management Act by 2011. • Total cessation of non-quarantine pre-shipment application for methyl bromide and chlorofluorocarbons (CFCs) by 2010. • All companies complying with the Ozone Depleting Substances Act 1998 and Regulations 2000.
 
 #### 8.2.6 Foreign Affairs and External Trade
 
@@ -4438,7 +4679,7 @@ Good diplomatic and trade relations with other countries will facilitate the mov
 
 ##### Development Rationale
 
-The Plan recognises the importance of increased export and that the proliferation of trade agreements could result in excessively complex and opaque trade regimes which increase the cost of doing business. This can prove costly on opportunities for trade and investment in the private and public sectors. Policies will be formulated, in cooperation with the private sector,  that  allow  regional  integration  to  complement  most-favoured-nation-based  trade liberalization and avoid undesirable trade diversions. Through her membership in regional and international  organisations  Fiji  will  negotiate  increased  access  to  global  markets  and emphasise the needs of small developing countries in multilateral negotiations.
+The Plan recognises the importance of increased export and that the proliferation of trade agreements could result in excessively complex and opaque trade regimes which increase the cost of doing business. This can prove costly on opportunities for trade and investment
 
 146
 
@@ -4448,15 +4689,17 @@ The Plan recognises the importance of increased export and that the proliferatio
 
 Strategic Development Plan 2007-2011: Part Three
 
-Fiji  will  also  strengthen  diplomatic  relations  with  sovereign  states  and  international institutions.
+in the private and public sectors. Policies will be formulated, in cooperation with the private sector, that allow regional integration to complement most-favoured-nation-based trade liberalization and avoid undesirable trade diversions. Through her membership in regional and international organisations Fiji will negotiate increased access to global markets and emphasise the needs of small developing countries in multilateral negotiations.
+
+Fiji will also strengthen diplomatic relations with sovereign states and international institutions.
 
 Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow  monitoring  of  the success in achieving Strategic Priorities.
+
+##### Policy Objectives, Strategies and Key Performance Indicators
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Communities should benefit from Fiji's diplomatic and external trade relations and development. | • Implementation of the National Export Strategy, coordinated under the Ministry of Commerce and Industry, to be implemented as a Strategic Priority. • Diversify export markets, particularly in the Asia-Pacific region, in close cooperation with private sector producers and traders. • Improve investment and trade facilitation and negotiation capacity. • Enhance existing bilateral and multilateral relations. • With the private sector and concerned agencies, develop a temporary employment strategy and establish agreements with regional countries, Gulf States, US and EU to facilitate training and employment of skilled and seasonal workers to be employed in those countries. • Develop and implement Medium Term plan/targets for free trade agreements. • Strengthen trade facilitation in areas of quarantine protocols, customs, ports and immigration. • Advocate Fiji's interest and profile in regional and international institutions. • Adhere to international declarations, agreements, conventions and treaties and align domestic policies to them. | • Exports of goods and services to be increased from 58% of GDP in 2005 to at least 65% of GDP. • Agreements in place with Australia and New Zealand on temporary employment of Fiji nationals as skilled and/or seasonal workers.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 147
 
@@ -4468,7 +4711,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-• Recruit personnel with expertise in trade, trade negotiations and investment. • Develop a South Pacific Policy Statement on regional resource pooling, governance and security. • Secure visa free entry for Fiji citizens to foreign countries and establish and update registry for all countries granting visa free entry by 2008. • Establish and maintain a website to provide accurate and timely information on Fiji.
+| • Recruit personnel with expertise in trade, trade negotiations and investment. • Develop a South Pacific Policy Statement on regional resource pooling, governance and security. • Secure visa free entry for Fiji citizens to foreign countries and establish and update registry for all countries granting visa free entry by 2008. • Establish and maintain a website to provide accurate and timely information on Fiji. |
 
 ### 8.3 Natural Resources
 
@@ -4502,11 +4745,11 @@ The loss of preferential access to the EU market through declining preferential 
 
 Measurable outcome indicators have been set to monitor the progress of the reform plan and its success in achieving the sector goal.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 To re-structure the sugar industry into a commercially viable, profitable and sustainable industry. | • Implementation of the sugar industry reform plan, including the National Adaptation Strategy. • Encourage dialogue and consultation to ensure land availability for the industry. • Promote milling efficiency and cane quality payment system. • To improve efficiency and productivity of cane production in farms through improved extension and research services. • Review the cane transportation system and harvesting with the objective of making it more cost effective, efficient and practical. • Increased range of crops produced (including aquaculture) in the cane belt. • Design and implement sugar product diversification such as ethanol production. • Implement measures to address the social impact of the industry restructure. | • Yield per ha increased from 61mt/ha in 2006 to 80mt/ha by 2011. • TCTS ratio improved from 11 TCTS in 2006 to 8 TCTS by 2011. • Extraction rate of sucrose increased from an average of 72% in 2006 to 85% by 2011. • Reduce milling costs from $280/mt raw sugar in 2006 to $140/mt raw sugar by 2011. • Sale of up to 137GWh of electricity to the national grid by 2011. • FSC return on investment not less than 10% and a debt to equity ratio of not more than 60:40. • Returns per farm labour day to remain at least the present levels. • Monitor school enrolment in cane belt areas.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 149
 
@@ -4536,11 +4779,11 @@ While the economy remains largely agro based, the annual food import bill contin
 
 Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow  monitoring  of  the success in achieving the Strategic Priorities.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-Fiji is served by a thriving commercial agriculture sector, sustaining Fiji's food security. | • Through the Rural and Outer Islands Project (ROI), rescoped Alternative Livelihood Project (ALP) and related rural development projects, build the capacity of rural communities to diversify agriculture to higher value crops and commercial agriculture to improve on and off farm livelihoods and opportunities for processing and value added. • Establish commodity protocols with existing and new markets (China, Australia, NZ, EU, US, Japan) and | • Maintain agriculture sector's contribution to GDP at 12%. • Value of non- sugar agriculture exports increased from $40m in 2006 to $80m by 2011. • Value of food
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+Fiji is served by a thriving commercial agriculture sector, sustaining Fiji's food security. | • Through the Rural and Outer Islands Project (ROI), rescoped Alternative Livelihood Project (ALP) and related rural development projects, build the capacity of rural communities to diversify agriculture to higher value crops and commercial agriculture to improve on and off farm livelihoods and opportunities for processing and value added. • Establish commodity protocols with existing and new markets (China, Australia, NZ, EU, US, Japan) and | • Maintain agriculture sector's contribution to GDP at 12%. • Value of non-sugar agriculture exports increased from $40m in 2006 to $80m by 2011. • Value of food
 
 150
 
@@ -4552,7 +4795,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-promote formation of industry councils to spearhead/ coordinate commodity development. • Strengthen agricultural training institutions to improve training services to all stakeholders. • Strengthen demand driven research in partnership with the private sector. • Improve accessibility of farmers to saving and credit facilities and develop micro- finance institutions. • Provide infrastructure to facilitate market access of agricultural produce, particularly in the rural and outer islands. • Enhance tourism industry and agriculture sector linkages to match demand and supply, therefore reducing imports. • Promote food safety and quality programmes. • Revitalise coconut industry to move into value adding and product diversification. | imports reduced from $370m in 2006 to $260m in 2011. • Increase lending to agriculture sector of commercial banks to 1% of total loan portfolio by 2011 from current level of 0.6% in 2005.
+| promote formation of industry councils to spearhead/ coordinate commodity development. • Strengthen agricultural training institutions to improve training services to all stakeholders. • Strengthen demand driven research in partnership with the private sector. • Improve accessibility of farmers to saving and credit facilities and develop micro-finance institutions. • Provide infrastructure to facilitate market access of agricultural produce, particularly in the rural and outer islands. • Enhance tourism industry and agriculture sector linkages to match demand and supply, therefore reducing imports. • Promote food safety and quality programmes. • Revitalise coconut industry to move into value adding and product diversification. | imports reduced from $370m in 2006 to $260m in 2011. • Increase lending to agriculture sector of commercial banks to 1% of total loan portfolio by 2011 from current level of 0.6% in 2005.
 
 #### 8.3.3 Forestry
 
@@ -4570,7 +4813,7 @@ Developments  will  contribute  to  eradication  of  poverty  (MDG  1)  and  pro
 
 ##### Development Rationale
 
-The  plan  recognizes  the  potential  in  the  forest  sector  in  contributing  to  the  economy. However,  the  current  institutional  environment  in  which  the  sector  operates  needs  to  be revamped and this is the focus in the plan. In addition, with the harvesting of the high value mahogany resource, issues of  sustainable  forest  management,  value  adding  and  effective involvement of resource owners are prominent in the sector strategies.
+The plan recognizes the potential in the forest sector in contributing to the economy. However, the current institutional environment in which the sector operates needs to be revamped and this is the focus in the plan. In addition, with the harvesting of the high value
 
 151
 
@@ -4580,13 +4823,15 @@ The  plan  recognizes  the  potential  in  the  forest  sector  in  contributing
 
 Strategic Development Plan 2007-2011: Part Three
 
-Measurable  outcome  oriented  KPI's  have  been  set  which  will  allow  monitoring  of  the success in achieving the strategic priorities.
+mahogany resource, issues of sustainable forest management, value adding and effective involvement of resource owners are prominent in the sector strategies.
+
+Measurable outcome oriented KPI's have been set which will allow monitoring of the success in achieving the strategic priorities.
+
+##### Policy Objectives, Strategies and Key Performance Indicators
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-Resource owners benefit from sustainable development and management of the forest resources and maximise the long term economic returns. | • Provide adequate institutional, policy and technical support to development. • Review status of forest reserves with the aim of safeguarding biodiversity of areas under threat. • Address capacity constraints of industry to bring harvesting, nursery and plantation establishment practices up to world class level. • Develop the financial and technical capacity of resource owners to effectively participate in forestry development. • Undertake research and development of new areas such as non wood forest products. • Encourage value adding in the industry through coordinated processing and marketing. • Promote resource utilisation efficiency in primary and secondary processing. • Provide infrastructure to support development in the industry, such as roads for harvesting access. • Improve competition in extraction and marketing segments of the industry, mahogany in particular, with due regard to liability of resource sustainability and participation of resource owners. | • Forest sector contribution to GDP increased from 1.2% in 2006 to 1.6% by 2011. • Target commercial annual harvesting of mahogany at 100,000 m 3 . • Double annual export earnings from sector, including value adding, from $60 million in 2006 to $120 million by 2011. • Area of indigenous forest increased by 20% by 2010 from 858,000ha to over 1,000,000ha. • 15 forest native reserves identified and gazetted by 2010. • Value of contracts secured by indigenous Fijian businesses not less than 40%.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+Resource owners benefit from sustainable development and management of the forest resources and maximise the long term economic returns. | • Provide adequate institutional, policy and technical support to development. • Review status of forest reserves with the aim of safeguarding biodiversity of areas under threat. • Address capacity constraints of industry to bring harvesting, nursery and plantation establishment practices up to world class level. • Develop the financial and technical capacity of resource owners to effectively participate in forestry development. • Undertake research and development of new areas such as non wood forest products. • Encourage value adding in the industry through coordinated processing and marketing. • Promote resource utilisation efficiency in primary and secondary processing. • Provide infrastructure to support development in the industry, such as roads for harvesting access. • Improve competition in extraction and marketing segments of the industry, mahogany in particular, with due regard to liability of resource sustainability and participation of resource owners. | • Forest sector contribution to GDP increased from 1.2% in 2006 to 1.6% by 2011. • Target commercial annual harvesting of mahogany at 100,000 m³. • Double annual export earnings from sector, including value adding, from $60 million in 2006 to $120 million by 2011. • Area of indigenous forest increased by 20% by 2010 from 858,000ha to over 1,000,000ha. • 15 forest native reserves identified and gazetted by 2010. • Value of contracts secured by indigenous Fijian businesses not less than 40%.
 
 152
 
@@ -4616,11 +4861,11 @@ The Plan recognizes the erratic performance experienced in the fisheries sector 
 
 Outcome indicators set are intended to monitor the development of the sector in tandem with the utilization of the resource.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Communities benefit from sustainable development and management of marine resources to maximise long term economic returns to the broader community, in | • Review existing institutional arrangement including legislations to take account of global and national developments. • Strengthen resource management. • Undertake community awareness on management of inshore fisheries and coral reef management. • Provide appropriate support through institutional strengthening and reform of the Department of Fisheries. • Encourage private public | • Ratio of total catch to sustainable yield (or TAC) for each targeted species to be less than 1. • Fisheries sector contribution to GDP increased and maintained at 3% from current level of 2.7% of GDP. • Increase fisheries export from $85m in
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 153
 
@@ -4632,7 +4877,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-particular to indigenous Fijian resource owners. | partnerships through demand driven research, training on HACCP and CITES requirements, and well targeted training programmes relevant to needs of sector. • Provide relevant training and technical support to indigenous Fijians currently involved in the industry. • Promote partnerships with the private sector and business mentoring with established players in the industry. | 2006 to $100m by 2011. Proportion of total tuna catch landed by indigenous Fijian licensed vessels to be increased from the present 25% to not less than 40%.
+particular to indigenous Fijian resource owners. | partnerships through demand driven research, training on HACCP and CITES requirements, and well targeted training programmes relevant to needs of sector. • Provide relevant training and technical support to indigenous Fijians currently involved in the industry. • Promote partnerships with the private sector and business mentoring with established players in the industry. | 2006 to $100m by 2011. • Proportion of total tuna catch landed by indigenous Fijian licensed vessels to be increased from the present 25% to not less than 40%.
 
 #### 8.3.5 Land Resource Development and Management
 
@@ -4650,7 +4895,7 @@ Land's central role in rural livelihoods means its effective use is an important
 
 ##### Development Rationale
 
-Land slides, flash floods, and prevalent soil erosion is testament to the destructive land use practices  that  have  persisted.  Recognizing  the  urgent  situation,  the  Plan  emphatically espouses  sustainable  land  use  practices  with  appropriate  sector  strategies  for  awareness, training  and  enforcement.  The  current  haphazard  nature  of  development  (industrial, housing,  commercial)  is  also  a  clear  indication  of  the  absence  of  coordination  between agencies concerned. The Plan recognizes this weakness and recommends closer coordination. As a basic factor input, the Plan also recognizes the significance of resolving the land tenure issue for future development and prosperity.
+Land slides, flash floods, and prevalent soil erosion is testament to the destructive land use practices that have persisted. Recognizing the urgent situation, the Plan emphatically espouses sustainable land use practices with appropriate sector strategies for awareness, training and enforcement. The current haphazard nature of development (industrial, housing, commercial) is also a clear indication of the absence of coordination between agencies concerned. The Plan recognizes this weakness and recommends closer
 
 154
 
@@ -4660,13 +4905,15 @@ Land slides, flash floods, and prevalent soil erosion is testament to the destru
 
 Strategic Development Plan 2007-2011: Part Three
 
+coordination. As a basic factor input, the Plan also recognizes the significance of resolving the land tenure issue for future development and prosperity.
+
 The outcome indicators set are intended to monitor the rate of land development.
+
+##### Policy Objectives, Strategies and Key Performance Indicators
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Resource owners and land users securing long term incomes from environmentally sustainable land development and management. | • Encourage dialogue and consensus in adopting appropriate land tenure legislation which has support of all stakeholders. • Strengthen institutional capacity and adequately resource the Land Resource Planning and Development Unit and the Land Conservation Board to enforce land use policies. • Strengthen resource management and awareness on appropriate land use and watershed management practices from the community level. • Strengthen coordination between agencies involved in land development to ensure land is put to its most productive use. | • A land tenure system is in place which allows equitable returns to owners and users through an effective market for land use rights.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 155
 
@@ -4692,7 +4939,7 @@ Information  and  telecommunications  are  essential  to  modern  commerce  and 
 
 ##### Links to UN Millennium Development Goals (MDGs)
 
-Improved communications supports the global partnership  for development  (MDG 8)  by making available the benefits of new technologies, especially information and communications. The indicator for which is, ' Telephone lines and cellular subscribers per 100 people' , as included in the table below.
+Improved communications supports the global partnership for development (MDG 8) by making available the benefits of new technologies, especially information and communications. The indicator for which is, “Telephone lines and cellular subscribers per 100 people”, as included in the table below.
 
 ##### Development Rationale
 
@@ -4708,11 +4955,11 @@ The availability of timely and accurate information in Government and society ge
 
 Strategic Development Plan 2007-2011: Part Three
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-People and businesses enjoy improved ICT services in terms of coverage, quality and price. | • Reduce telecom rates in the short term by promoting more discussions between potential investors in ICT services and providers of telecommunication services. • Increased coverage of telecommunication services especially to rural areas by continuing to provide telecommunication access to unconnected villages. • Develop Fiji as an attractive info- communications hub in the region. • A well informed citizenship in the medium term require the liberalisation of the telecommunications sector and free to air television services. • Ensure the regulatory and legal framework functions. • Align ICT training to developments in the employment market. • Establish an appropriate framework and promote e-commerce development. • Introduce e-government in order to raise efficiency of service delivery. • Provide appropriate support for provision of ITC infrastructure. | • Reduction in telephone charges by at least 25% by 2011. • Telephone lines and cellular subscribers to be not less than 25% in rural areas and 75% in urban areas (MDG). • Increase number of rural tele-centres from 6 to 56 by 2011. • Increase bandwidth to all service providers to not less than 300 Mbytes by 2011. • Increase number of Fijian and Hindi free-to-air TV broadcast providers to more than 2 each by 2011.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+People and businesses enjoy improved ICT services in terms of coverage, quality and price. | • Reduce telecom rates in the short term by promoting more discussions between potential investors in ICT services and providers of telecommunication services. • Increased coverage of telecommunication services especially to rural areas by continuing to provide telecommunication access to unconnected villages. • Develop Fiji as an attractive info-communications hub in the region. • A well informed citizenship in the medium term require the liberalisation of the telecommunications sector and free to air television services. • Ensure the regulatory and legal framework functions. • Align ICT training to developments in the employment market. • Establish an appropriate framework and promote e-commerce development. • Introduce e-government in order to raise efficiency of service delivery. • Provide appropriate support for provision of ITC infrastructure. | • Reduction in telephone charges by at least 25% by 2011. • Telephone lines and cellular subscribers to be not less than 25% in rural areas and 75% in urban areas (MDG). • Increase number of rural tele-centres from 6 to 56 by 2011. • Increase bandwidth to all service providers to not less than 300 Mbytes by 2011. • Increase number of Fijian and Hindi free-to-air TV broadcast providers to more than 2 each by 2011.
 
 #### 8.4.2 Transport
 
@@ -4740,11 +4987,11 @@ The  development  strategies  focus  on  development  of  infrastructure  which 
 
 The  KPI  are  outcome  oriented,  not  concerned  with  the  outputs  of  the  civil  engineering investments but with the scope and quality of transport services subsequently enjoyed by the communities in Fiji.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 Multi-modal To ensure access to safe, efficient, affordable and environ-mentally sustainable transportation services. | • Review Government Subsidies on Transport. • Attract potential investors to provide alternative modes of transportation through PPP framework. • To promote the use of public transport. • Introduction of effective measures to reduce the number of road deaths, mishap at sea and air crashes through enabling legal frameworks. • LTA, FIMSA and CAAFI incorporate stringent safety and security measures. • To continue investment in the construction, maintenance and upgrading of the national transport network supported by enabling legislation and regulation enforced. • Ensure provision of access to all forms of transport. • To promote the use of fuel efficient vehicles. • Undertake a wider study on the | • At least one transport PPP project over $100 million by 2009. • Reduction in annual fatalities on all forms of transport by at least 20% from the present 90.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 158
 
@@ -4756,8 +5003,8 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-transportation system in the Suva- Nausori corridor, including study of intermodal and peak hour variability, and make and implement appropriate decisions on the recommendations.
-Land Transport To enhance livelihood by reducing cost of transport of people and goods. | • Protect investment in the national land transport network through effective controls on vehicle overloading and adequate maintenance. • Reform and consolidate the land transport sector. • Self funding mechanism developed for LTA, DNR, NRSC, Police Traffic and municipalities. • Promotion and implementation of user pay principles. • Improve traffic management schemes and reduce traffic congestions at main trunk routes. • Imposition of high fines to deter traffic infringements. • Control on the importation ages of second hand vehicles. • Introduction of alternative fuel powered vehicles. • Review the Land Transport structure and funding mechanisms for implementation. • Improve vehicle operating cost by investing in more maintenance. | • Not less than 125km of national roads resealed and 40km rehabilitated each year. • Annual CO 2 emissions per capita reduced from 1.6mt to 1.0mt. • Average vehicle emission levels reduced from 40,000 ppm to 20,000 ppm. • Reduce vehicle emission opacity from 70% to 35%.
+| transportation system in the Suva-Nausori corridor, including study of intermodal and peak hour variability, and make and implement appropriate decisions on the recommendations. |
+Land Transport To enhance livelihood by reducing cost of transport of people and goods. | • Protect investment in the national land transport network through effective controls on vehicle overloading and adequate maintenance. • Reform and consolidate the land transport sector. • Self funding mechanism developed for LTA, DNR, NRSC, Police Traffic and municipalities. • Promotion and implementation of user pay principles. • Improve traffic management schemes and reduce traffic congestions at main trunk routes. • Imposition of high fines to deter traffic infringements. • Control on the importation ages of second hand vehicles. • Introduction of alternative fuel powered vehicles. • Review the Land Transport structure and funding mechanisms for implementation. • Improve vehicle operating cost by investing in more maintenance. | • Not less than 125km of national roads resealed and 40km rehabilitated each year. • Annual CO₂ emissions per capita reduced from 1.6mt to 1.0mt. • Average vehicle emission levels reduced from 40,000 ppm to 20,000 ppm. • Reduce vehicle emission opacity from 70% to 35%.
 Marine Transport Communities and the country enjoy better access to passenger and cargo shipping services. | • Improve efficiency at ports and provide competitive international port charges, including for cruise ships. • More frequent services to Maritime Provinces. • Develop and upgrade seaways and main rivers. • Replacement of at least 1 light house annually and continue ongoing maintenance programme. • Ensure a high level of safety and | • Annual tonnage of international cargo handled in Fiji ports increased from 3.3 million revenue tons in 2005 to 5 million by 2011. • Minimum of 2 trips per month on each outer island route. • Fiji maintains its
 
 159
@@ -4770,7 +5017,7 @@ Strategic Development Plan 2007-2011: Part Three
 
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-security in sea transport and prevent marine pollution. • Provide economical, safe, adequate and efficient facilities for the transport of goods and people to facilitate trade, transhipment and other related functions. • Ensure optimal location, updated design and construction of existing and new jetties. • Commence implementation of Rokobili Port. | White List Status. • Main Ports maintain ISPS Code status.
+| security in sea transport and prevent marine pollution. • Provide economical, safe, adequate and efficient facilities for the transport of goods and people to facilitate trade, transhipment and other related functions. • Ensure optimal location, updated design and construction of existing and new jetties. • Commence implementation of Rokobili Port. | White List Status. • Main Ports maintain ISPS Code status.
 Air Transport To promote development of tourism and exports to expand industries relying on air freight. | • Continued improvements in airport infrastructure and facilities, including capacity extension at Nausori to accommodate 737-800, widening at Savusavu, and upgrading at Rotuma. • Design a model that will take care or manage non-core activities of CAAFI • Increased number of passenger seats per annum. • Improved runway capacity to meet additional cargo requirements. • Utilization of additional air traffic rights under existing ASAs by 2007. • Restructure and reform within the aviation industry in line standards by 2007. • Airstrips to be compliant with ICAO international standards. • A new international airport in Vanua Levu to be evaluated and considered by 2008. | • 3 or more airlines with unsubsidised, scheduled domestic flights. • Passenger seat km on domestic flights restored to 1999 levels of 110 million by 2009 and increased to not less than 150 million by 2011 from 73.1 million in 2005. • International airfreight capacity increased from 700 million tonne/km in 2005 to not less than 1,000 million tonne/km by 2010.
 
 160
@@ -4799,7 +5046,7 @@ Efficient  and  sustainable  energy  use  contributes  to  ensuring  environment
 
 Availability, reliability and cost of appropriate forms of energy are necessary as a basis for viable  production  investments  needed  to  attract  private  productive  investments  to  create employment, alleviate poverty and increase exports. Energy directly supports growth of the economy  and  indirectly  influences  stability  of  the  country  as  well.  As  a  fundamental element  to any  commercial  businesses  operation  energy  directly  contributes to the formation of capital investment that sustains economic growth.
 
-Government will increase access to provision of energy during the planning period through supporting  FEA in  energy  production  to  extend  its  grid  and  assist  others  through  dieselpowered generators. Equally importance will focus on educating and advocating minimizing  utilization  of  energy.  Operation  of  regulator  will  hopefully  be  established  to look at interest of both the provider and user addressing both tariff and technical issues.
+Government will increase access to provision of energy during the planning period through supporting FEA in energy production to extend its grid and assist others through diesel-powered generators. Equally importance will focus on educating and advocating minimizing utilization of energy. Operation of regulator will hopefully be established to look at interest of both the provider and user addressing both tariff and technical issues.
 
 Consumption led growth has contributed to a decline in efficiency of imported oil products use from $8.27 of GDP (at 1995 prices) in 2000 to only $5.01 in 2004. Increased efficiency in  the  use  of  imported  oil  is  needed.  Recognizing  the  parallel  need  to  pursue  alternative sources of energy, Government realizes how vulnerable to risk is involved relying on fossil fuels. Extensive planning, research and development will be required to look at avenues to enhance and support provision of energy from renewable energy sources.
 
@@ -4813,11 +5060,11 @@ Realizing the need to boost the supply of energy to the economy, Government will
 
 Strategic Development Plan 2007-2011: Part Three
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
-The community has increased, secure access to affordable and reliable energy supplies. | • Enact enforce appropriate legislation to improve sustainable energy use, including the National Energy Policy (NEP) and Renewable Energy Based Rural Electrification Act. • Monitor Customer satisfaction through survey and develop and implement an awareness programme. • Establish a reliable energy information system for end use decision making at all levels. • A better understanding of Fiji's energy security situation developed and maintained to guide future policy decisions. • Greater collaboration within the industry and with other sectors and strengthen private sector involvement in all forms of energy, including review of tariffs, cost recovery. and competition in energy production. • Reduce inefficient use of energy through energy efficiency research, demonstration, energy audits, regulation, and building codes, and create a robust market for energy efficiency services. • Promote measures to reduce fossil fuel consumption, including in the transport sector, and encourage alternative fuels for the power, transport and other sectors. • Develop and implement a national electrification master plan covering both grid and stand-alone systems. • Formation of an appropriate independent regulatory agency and review the Electricity Act. • Assess local renewable energy resource potential, undertake research, identify technologies appropriate to Fiji and develop information systems. • Encourage competition in the generation of energy. | • GDP per kg oil equivalent, at constant 1995 prices, increased from $5 in 2004 to $8 by 2011. • Household power outages on Grid Lines are each not more than 5 minutes by 2010. • 90% national electrification coverage by 2011 with urban increased from 95% to 100%and rural areas from 70% to 85%. • IPP to produce not less than 250GWh of energy per year by 2011. • Improvement in the national energy mix from 40/60 renewables to fossil fuel to 90/10 for the grid and from 5/95 to 55/45 for off grid energy by 2011. • 30% of fuel for transport is bio- fuel, LPG or LNG by 2010.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
+The community has increased, secure access to affordable and reliable energy supplies. | • Enact enforce appropriate legislation to improve sustainable energy use, including the National Energy Policy (NEP) and Renewable Energy Based Rural Electrification Act. • Monitor Customer satisfaction through survey and develop and implement an awareness programme. • Establish a reliable energy information system for end use decision making at all levels. • A better understanding of Fiji’s energy security situation developed and maintained to guide future policy decisions. • Greater collaboration within the industry and with other sectors and strengthen private sector involvement in all forms of energy, including review of tariffs, cost recovery. and competition in energy production. • Reduce inefficient use of energy through energy efficiency research, demonstration, energy audits, regulation, and building codes, and create a robust market for energy efficiency services. • Promote measures to reduce fossil fuel consumption, including in the transport sector, and encourage alternative fuels for the power, transport and other sectors. • Develop and implement a national electrification master plan covering both grid and stand–alone systems. • Formation of an appropriate independent regulatory agency and review the Electricity Act. • Assess local renewable energy resource potential, undertake research, identify technologies appropriate to Fiji and develop information systems. • Encourage competition in the generation of energy. | • GDP per kg oil equivalent, at constant 1995 prices, increased from $5 in 2004 to $8 by 2011. • Household power outages on Grid Lines are each not more than 5 minutes by 2010. • 90% national electrification coverage by 2011 with urban increased from 95% to 100%and rural areas from 70% to 85%. • IPP to produce not less than 250GWh of energy per year by 2011. • Improvement in the national energy mix from 40/60 renewables to fossil fuel to 90/10 for the grid and from 5/95 to 55/45 for off grid energy by 2011. • 30% of fuel for transport is bio-fuel, LPG or LNG by 2010.
 
 162
 
@@ -4849,11 +5096,11 @@ The plan recognizes the need to provide access to reliable and adequate supplies
 
 The  plan  will  develop  and  implement  a  Water  Management  Policy,  which  will  increase efficiency and better meet the needs of the communities and other users of water.
 
+##### Policy Objectives, Strategies and Key Performance Indicators
+
 Policy Objectives | Strategies | Key Performance Indicators
 --- | --- | ---
 The community is served by access to reliable and adequate supplies of safe water in both urban and rural centres and | • Expanding the rural water supply schemes and extending and upgrading major urban and regional water schemes to include rural areas as outlined in their respective master plans. • Expansion of the sewer reticulation | • 95% of the urban population and 80% of the rural population have access to safe water supply by 2011.
-
-##### Policy Objectives, Strategies and Key Performance Indicators
 
 163
 
@@ -4903,7 +5150,7 @@ Implementation  will  be  guided  by  the  hierarchy  of  plans  introduced  in 
 
 Strategic Development Plan 2007-2011: Part Three
 
-- Public Sector Investment Programme ,  as part of the budget process, will focus on capital  investment  and  development  projects  which  produce  the  public  goods  and services - deliverable outputs of the ACPs - which support achievement of the SDP outcomes.
+- Public Sector Investment Programme, as part of the budget process, will focus on capital investment and development projects which produce the public goods and services – deliverable outputs of the ACPs – which support achievement of the SDP outcomes.
 
 Responsibility  for  ensuring  that  vertical  coordination  takes  place  starts  with  the  CEO  of each Ministry, who will set up quality control procedures for the ACP and budget bids that encourage alignment with the hierarchy of plans set out above.
 
@@ -4913,7 +5160,7 @@ In  ACP  preparation  the  coordination  role  is  shared  between  the  Ministr
 
 ### 9.3 Horizontal Coordination
 
-Horizontal coordination across agencies is more complex. Implementation involves many agencies, some of which have an autonomous tendency to 'do their own thing'. The SDP Outcomes - impacts on the community - are normally  the joint  outcome  resulting  from several related outputs of different agencies Figure 11 on page 80 clearly illustrates that no  Strategic  Priority  is  served  by  the  outputs  of  a  single  agency.  As  such,  autonomous implementation  by  individual  agencies  is  likely  to  produce  sub-optimal  achievement  of Outcomes consistent with Strategic Priorities.
+Horizontal coordination across agencies is more complex. Implementation involves many agencies, some of which have an autonomous tendency to “do their own thing”. The SDP Outcomes – impacts on the community – are normally the joint outcome resulting from several related outputs of different agencies - Figure 11 on page 80 clearly illustrates that no Strategic Priority is served by the outputs of a single agency. As such, autonomous implementation by individual agencies is likely to produce sub-optimal achievement of Outcomes consistent with Strategic Priorities.
 
 Horizontal coordination, therefore, needs to ensure that agencies are working in parallel to achieve the national outcomes rather than narrowly pursuing individual agency objectives. Plan  implementation  involves  different  levels  of  decision  making  and  implementation. Horizontal  coordination  is  needed  at  each  of  those  levels  and  between  them.  This coordination between levels is concerned with operational matters rather than the planning and administrative matters discussed above as vertical coordination.
 
@@ -5039,6 +5286,22 @@ Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Eva
 
 ### List of Tables
 
+Table 1: Gross Domestic Product by Sector ($000), 2001-2009 ....................................172
+Table 2: Gross Domestic Product by Sector - Growth Rates 2001-2009 .......................173
+Table 3: Gross Domestic Product Shares by Sector (%), 2001-2009 .............................174
+Table 4: Exports by Major Commodities ($), 2000-2009...............................................175
+Table 5: Exports by Major Commodities - Growth Rates (%), 2000-2009....................175
+Table 6: Imports by Major Commodities ($m), 2000-2009 ...........................................176
+Table 7: Imports by Major Commodities - Growth Rates (%), 2000-2009....................176
+Table 8: Balance of Payments ($m), 2001-2009 ............................................................177
+Table 9: Real GDP Growth Rates, Foreign Reserves, Interest Rates, and Government Revenue, Expenditure and Debt............................................................................178
+Table 10: Actual and Budgeted Expenditure (VAT inclusive), 1999-2006....................179
+Table 11: Government Expenditure on Key Priorities, 1999-2006 ................................179
+Table 12: Direct and Indirect Tax Concessions, 2002-2005...........................................179
+Table 13: Gross Domestic Product at Constant 1995 Prices, 2000-2009 .......................180
+Table 14: Gross Domestic Product at Current Factor Cost, 2000-2009 .........................180
+Table 15: Gross Domestic Product at Current Prices, 2000-2009 ..................................180
+
 171
 
 [[END OF PAGE 187]]
@@ -5047,10 +5310,11 @@ Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Eva
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
-Activity | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+### Table 1: Gross Domestic Product by Sector ($000), 2001-2009
+
+Activity | 2001 | 2002 | 2003 | 2004 | 2005 (p) | 2006 (f) | 2007 (f) | 2008 (f) | 2009 (f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. Agriculture, Fishing and | 435,252 | 456,454 | 438,163 | 458,046 | (p) 470,914 | (f) 489,334 | (f) 504,063 | (f) 524,345 | (f) 545,401
-Forestry
+1. Agriculture, Fishing and Forestry | 435,252 | 456,454 | 438,163 | 458,046 | 470,914 | 489,334 | 504,063 | 524,345 | 545,401
 Agriculture | 330,083 | 345,291 | 337,471 | 342,320 | 350,907 | 364,553 | 374,491 | 399,304 | 416,179
 Crops | 186,309 | 197,761 | 188,352 | 190,681 | 197,745 | 209,067 | 216,054 | 238,483 | 253,672
 Sugarcane | 121,853 | 124,721 | 121,070 | 122,331 | 119,549 | 126,961 | 128,612 | 144,045 | 151,679
@@ -5067,40 +5331,36 @@ Forestry | 17,532 | 15,912 | 20,736 | 20,700 | 18,936 | 20,830 | 22,496 | 23,621
 Subsistence | 16,581 | 16,701 | 16,903 | 17,024 | 17,167 | 17,322 | 17,460 | 17,582 | 17,705
 Public Sector | 695 | 674 | 635 | 662 | 660 | 690 | 650 | 628 | 628
 2. Mining & Quarrying | 41,566 | 40,081 | 37,833 | 43,384 | 30,045 | 16,735 | 20,082 | 23,436 | 23,436
-3. Manufacturing | 449,851 | 453,488 | 448,857 | 506482 | 430,634 | 433,855 | 448,815 | 466,976 | 483,427
+3. Manufacturing | 449,851 | 453,488 | 448,857 | 506,482 | 430,634 | 433,855 | 448,815 | 466,976 | 483,427
 Sugar | 60,483 | 61,849 | 60,093 | 60,679 | 59,313 | 62,990 | 63,809 | 71,466 | 75,254
 Beverage and Tobacco | 46,804 | 52,579 | 61,734 | 71,082 | 91,340 | 92,345 | 96,039 | 98,920 | 101,887
 Other Food Industries | 30,844 | 34,184 | 35,690 | 38,080 | 36,869 | 39,450 | 41,817 | 43,908 | 46,103
 Non-Food Industries | 299,808 | 292,661 | 278,821 | 323,785 | 229,918 | 225,520 | 233,275 | 238,530 | 245,747
-Clothing and | 178,054 | 156,349 | 139,280 | 173,582 | 78,256 | 58,692 | 58,105 | 58,105 | 58,105
-Footwear Other Non-Food | 121,754 | 136,312 | 139,541 | 150,203 | 151,662 | 166,828 | 175,170 | 180,425 | 187,642
-94,027
+Clothing and Footwear | 178,054 | 156,349 | 139,280 | 173,582 | 78,256 | 58,692 | 58,105 | 58,105 | 58,105
+Other Non-Food Industries | 121,754 | 136,312 | 139,541 | 150,203 | 151,662 | 166,828 | 175,170 | 180,425 | 187,642
+Informal Sector | 11,912 | 12,215 | 12,519 | 12,856 | 13,194 | 13,550 | 13,875 | 14,153 | 14,436
 4. Electricity & Water | 100,150 | 104,429 | 108,696 | 112,905 | 114,385 | 120,104 | 127,222 | 135,943 | 142,740
-Electricity | 98,158 | 102,149 | 104,739 | 106,000 | 111,300 | 117,978 | 126,236 | 132,548
+Electricity | 94,027 | 98,158 | 102,149 | 104,739 | 106,000 | 111,300 | 117,978 | 126,236 | 132,548
 Water | 6,123 | 6,271 | 6,547 | 8,166 | 8,385 | 8,804 | 9,244 | 9,707 | 10,192
 5. Building & Construction | 116,266 | 125,544 | 137,359 | 141,595 | 178,239 | 200,218 | 191,961 | 187,553 | 183,292
 Private Sector | 26,539 | 27,175 | 36,683 | 47,645 | 89,941 | 107,929 | 97,136 | 92,279 | 87,665
-Public Sector Employment | 41,024 | 50,005 | 51,973 | 45,022 | 38,919 | 42,811 | 44,951 | 44,951 | 44,951
-Own Account & Self | 48,703 | 48,364 | 48,703 | 48,928 | 49,379 | 49,478 | 49,874 | 50,322 | 50,675
+Public Sector | 41,024 | 50,005 | 51,973 | 45,022 | 38,919 | 42,811 | 44,951 | 44,951 | 44,951
+Own Account & Self Employment | 48,703 | 48,364 | 48,703 | 48,928 | 49,379 | 49,478 | 49,874 | 50,322 | 50,675
 6. Wholesale, Retail Trade, Hotels & Restaurants | 465,983 | 458,568 | 473,162 | 538,387 | 533,989 | 547,975 | 551,923 | 561,103 | 570,480
-Trade | 133,948 | 185,938 | 191,346
-Wholesale & Retail Hotel & Restaurants | 343,014 122,969 | 324,620 | 337,021 136,141 | 376,985 161,402 | 354,858 179,131 | 362,037 | 360,576 | 364,306 196,797 | 368,075 202,405
-7. Transport & | 357,552 | 387,990 | 400,045 | 396,918 | 422,277 | 441,329 | 460,416 | 476,889 | 497,677
-Communication Transport | 249,568 | 274,984 | 282,973 | 292,592 | 315,164 | 331,967 | 349,522 | 364,997 | 384,555
-Communication. | 107,984 | 113,006 | 107,113 | 109,362 | 111,891 | 113,122
-8. Finance, Insurance, Real | 374,794 | 368,634 | 117,072 325,814 | 104,326 338,757 | 367,457 | 382,601 | 110,893 399,065 | 414,339 | 434,477
-Sector & Business Services
+Wholesale & Retail Trade | 343,014 | 324,620 | 337,021 | 376,985 | 354,858 | 362,037 | 360,576 | 364,306 | 368,075
+Hotel & Restaurants | 122,969 | 133,948 | 136,141 | 161,402 | 179,131 | 185,938 | 191,346 | 196,797 | 202,405
+7. Transport & Communication | 357,552 | 387,990 | 400,045 | 396,918 | 422,277 | 441,329 | 460,416 | 476,889 | 497,677
+Transport | 249,568 | 274,984 | 282,973 | 292,592 | 315,164 | 331,967 | 349,522 | 364,997 | 384,555
+Communication. | 107,984 | 113,006 | 117,072 | 104,326 | 107,113 | 109,362 | 110,893 | 111,891 | 113,122
+8. Finance, Insurance, Real Sector & Business Services | 374,794 | 368,634 | 325,814 | 338,757 | 367,457 | 382,601 | 399,065 | 414,339 | 434,477
 Finance | 110,139 | 101,688 | 79,567 | 85,059 | 104,387 | 106,897 | 113,625 | 121,711 | 130,590
 Insurance | 91,526 | 99,511 | 74,818 | 77,317 | 75,826 | 78,124 | 80,494 | 82,940 | 85,464
-Real Estate & | 173,129 | 167,435 | 171,429 | 176,381 | 187,244 | 197,580 | 204,946 | 209,687 | 218,423
-Business Services
+Real Estate & Business Services | 173,129 | 167,435 | 171,429 | 176,381 | 187,244 | 197,580 | 204,946 | 209,687 | 218,423
 9. Community, Social & Personal Services | 467,737 | 483,555 | 518,645 | 515,089 | 538,934 | 564,084 | 560,474 | 551,818 | 553,029
-less imputed bank | 117,887 | 108,841 | 85,164 | 91,043 | 111,730 | 114,417 | 121,618 | 130,273 | 139,777
-service charges GDP at constant prices (1995 Prices) | 2,691,264 | 2,769,902 | 2,803,410 | 2,960,520 | 2,975,144 | 3,081,819 | 3,142,403 | 3,212,129 | 3,294,181
+less imputed bank service charges | 117,887 | 108,841 | 85,164 | 91,043 | 111,730 | 114,417 | 121,618 | 130,273 | 139,777
+GDP at constant prices (1995 Prices) | 2,691,264 | 2,769,902 | 2,803,410 | 2,960,520 | 2,975,144 | 3,081,819 | 3,142,403 | 3,212,129 | 3,294,181
 
-### Table 1: Gross Domestic Product by Sector ($000), 2001-2009
-
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
 172
 
@@ -5110,10 +5370,12 @@ Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
-Activity | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+### Table 2: Gross Domestic Product by Sector - Growth Rates 2001-2009
+
+Activity | 2001 | 2002 | 2003 | 2004 | 2005 (p) | 2006 (f) | 2007 (f) | 2008 (f) | 2009 (f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-1. Agriculture, Fishing and | -5.8 | 4.3 | -0.6 | 1.4 | (p) 2.3 | (f) 3.9 | (f) 3.0 | (f) 4.0 | (f) 4.0
-Forestry Agriculture | -3.6 | 4.1 | -1.0 | 1.0 | 1.8 | 3.9 | 2.7 | 6.6 | 4.2
+1. Agriculture, Fishing and Forestry | -5.8 | 4.3 | -0.6 | 1.4 | 2.3 | 3.9 | 3.0 | 4.0 | 4.0
+Agriculture | -3.6 | 4.1 | -1.0 | 1.0 | 1.8 | 3.9 | 2.7 | 6.6 | 4.2
 Crops | -6.5 | 6.1 | -2.4 | 0.3 | 2.4 | 5.7 | 3.3 | 10.4 | 6.4
 Sugarcane | -7.5 | 2.4 | -3.2 | -7.0 | -2.3 | 6.2 | 1.3 | 12.0 | 5.3
 Other crops | -4.6 | 13.3 | -1.0 | 12.5 | 10.5 | 5.0 | 6.5 | 8.0 | 8.0
@@ -5133,8 +5395,9 @@ Public Sector | 41.8 | -25.0 | 0.0 | 0.0 | -0.3 | 4.5 | -5.7 | -3.4 | 0.0
 Sugar | -7.7 | 2.3 | -3.2 | -7.0 | -2.3 | 6.2 | 1.3 | 12.0 | 5.3
 Beverage and Tobacco | 15.1 | 8.5 | 15.0 | 7.0 | 28.5 | 1.1 | 4.0 | 3.0 | 3.0
 Other Food Industries | 14.2 | 10.7 | 1.0 | 15.0 | -3.2 | 7.0 | 6.0 | 5.0 | 5.0
-Non-Food Industries | 15.7 | -2.4 | 7.5 | 4.5 | -29.0 | -1.9 | 3.4 | 2.3 0.0 | 3.0 0.0
-Clothing and Footwear Other Non-Food | 27.3 2.1 | -12.2 11.8 | 1.0 15.0 | 4.0 5.0 | -54.9 1.0 | -25.0 10.0 | -1.0 5.0 | 3.0 | 4.0
+Non-Food Industries | 15.7 | -2.4 | 7.5 | 4.5 | -29.0 | -1.9 | 3.4 | 2.3 | 3.0
+Clothing and Footwear | 27.3 | -12.2 | 1.0 | 4.0 | -54.9 | -25.0 | -1.0 | 0.0 | 0.0
+Other Non-Food Industries | 2.1 | 11.8 | 15.0 | 5.0 | 1.0 | 10.0 | 5.0 | 3.0 | 4.0
 Informal Sector | 3.2 | 2.5 | 2.6 | 2.6 | 2.6 | 2.7 | 2.4 | 2.0 | 2.0
 4. Electricity & Water | 6.6 | 4.3 | 4.5 | 5.2 | 1.3 | 5.0 | 5.9 | 6.9 | 5.0
 Electricity | 6.7 | 4.4 | 4.5 | 5.5 | 1.2 | 5.0 | 6.0 | 7.0 | 5.0
@@ -5142,26 +5405,22 @@ Water | 5.0 | 2.4 | 4.4 | 1.0 | 2.7 | 5.0 | 5.0 | 5.0 | 5.0
 5. Building & Construction | 6.5 | 14.1 | 20.7 | 21.9 | 25.9 | 12.3 | -4.0 | -2.3 | -2.3
 Private Sector | -8.5 | 1.6 | 50.0 | 50.0 | 88.8 | 20.0 | -10.0 | -5.0 | -5.0
 Public Sector | 24.5 | 32.7 | 18.0 | 17.0 | -13.6 | 10.0 | 5.0 | 0.0 | 0.0
-Own Account & Self | -0.5 | 0.9 | 10.0 | 10.0 | 0.9 | 0.2 | 0.8 | 0.9 | 0.7
-Employment
-Hotels & Restaurants Wholesale & Retail | 6.3 | 1.4 | 7.9 | 4.5 | -5.7 | 2.0 | -0.4 | 1.0 | 1.0
-Trade Hotel & Restaurants | 8.4 | 8.9 | 4.8 | 4.8 | 11.0 | 3.8 | 2.9 | 2.8 | 2.8
-7. Transport & | -2.5 | 6.2 | 4.0 | 3.8 | 7.1 | 4.5 | 4.3 | 3.6 | 4.4
-Communication Transport | -0.1 | 10.2 | 4.7 | 5.0 | 8.7 | 5.3 | 5.3 | 4.4 | 5.4
+Own Account & Self Employment | -0.5 | 0.9 | 10.0 | 10.0 | 0.9 | 0.2 | 0.8 | 0.9 | 0.7
+6. Wholesale, Retail Trade, Hotels & Restaurants | 6.9 | 3.5 | 7.0 | 4.6 | -0.7 | 2.6 | 0.7 | 1.7 | 1.7
+Wholesale & Retail Trade | 6.3 | 1.4 | 7.9 | 4.5 | -5.7 | 2.0 | -0.4 | 1.0 | 1.0
+Hotel & Restaurants | 8.4 | 8.9 | 4.8 | 4.8 | 11.0 | 3.8 | 2.9 | 2.8 | 2.8
+7. Transport & Communication | -2.5 | 6.2 | 4.0 | 3.8 | 7.1 | 4.5 | 4.3 | 3.6 | 4.4
+Transport | -0.1 | 10.2 | 4.7 | 5.0 | 8.7 | 5.3 | 5.3 | 4.4 | 5.4
 Communication. | -7.6 | -3.3 | 2.0 | 0.5 | 2.7 | 2.1 | 1.4 | 0.9 | 1.1
-8. Finance, Insurance, Real | 6.8 | -0.9 | 3.3 | 10.3 | 4.3 | 3.8
-10.5 | 4.1 | 4.9
-Sector & Business Services
+8. Finance, Insurance, Real Sector & Business Services | 6.8 | -0.9 | 10.5 | 3.3 | 10.3 | 4.1 | 4.3 | 3.8 | 4.9
 Finance | 11.1 | -4.4 | 27.4 | 4.0 | 22.7 | 2.4 | 6.3 | 7.1 | 7.3
 Insurance | 36.4 | 17.6 | 2.6 | 2.0 | 5.3 | 3.0 | 3.0 | 3.0 | 3.0
-Real Estate & | -6.0 | -8.5 | 5.4 | 3.7 | 6.2 | 5.5 | 3.7 | 2.3 | 4.2
-Business Services 9. Community, Social & Personal Services | 1.4 | 7.5 | 3.0 | 3.0 | 4.6 | 4.7 | -0.6 | -1.5 | 0.2
+Real Estate & Business Services | -6.0 | -8.5 | 5.4 | 3.7 | 6.2 | 5.5 | 3.7 | 2.3 | 4.2
+9. Community, Social & Personal Services | 1.4 | 7.5 | 3.0 | 3.0 | 4.6 | 4.7 | -0.6 | -1.5 | 0.2
 less imputed bank service charges | 11.1 | -4.4 | 20.5 | 3.0 | 22.7 | 2.4 | 6.3 | 7.1 | 7.3
 GDP at constant prices (1995 Prices) | 2.0 | 3.2 | 1.0 | 5.3 | 0.7 | 3.6 | 2.0 | 2.2 | 2.6
 
-### Table 2: Gross Domestic Product by Sector - Growth Rates 2001-2009
-
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
 173
 
@@ -5171,11 +5430,12 @@ Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
-Activity | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 | 2007 | 2008 | 2009
+### Table 3: Gross Domestic Product Shares by Sector (%), 2001-2009
+
+Activity | 2001 | 2002 | 2003 | 2004 | 2005 (p) | 2006 (f) | 2007 (f) | 2008 (f) | 2009 (f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-(p) | (f) | (f) | (f) | (f)
-1. Agriculture, Fishing and | 16.2 | 16.5 | 15.6 | 15.5 | 15.8 | 15.9 | 16.0 | 16.3 | 16.6
-Forestry Agriculture | 12.3 | 12.5 | 12.0 | 11.6 | 11.8 | 11.8 | 11.9 | 12.4 | 12.6
+1. Agriculture, Fishing and Forestry | 16.2 | 16.5 | 15.6 | 15.5 | 15.8 | 15.9 | 16.0 | 16.3 | 16.6
+Agriculture | 12.3 | 12.5 | 12.0 | 11.6 | 11.8 | 11.8 | 11.9 | 12.4 | 12.6
 Crops | 6.9 | 7.1 | 6.7 | 6.4 | 6.6 | 6.8 | 6.9 | 7.4 | 7.7
 Sugarcane | 4.5 | 4.5 | 4.3 | 4.1 | 4.0 | 4.1 | 4.1 | 4.5 | 4.6
 Other crops | 2.4 | 2.6 | 2.4 | 2.3 | 2.6 | 2.7 | 2.8 | 2.9 | 3.1
@@ -5190,12 +5450,14 @@ Forestry | 1.3 | 1.2 | 1.4 | 1.3 | 1.2 | 1.3 | 1.3 | 1.3 | 1.3
 Forestry | 0.7 | 0.6 | 0.7 | 0.7 | 0.6 | 0.7 | 0.7 | 0.7 | 0.8
 Subsistence | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.6 | 0.5 | 0.5
 Public Sector | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0
+2. Mining & Quarrying | 1.5 | 1.4 | 1.3 | 1.5 | 1.0 | 0.5 | 0.6 | 0.7 | 0.7
 3. Manufacturing | 16.7 | 16.4 | 16.0 | 17.1 | 14.5 | 14.1 | 14.3 | 14.5 | 14.7
 Sugar | 2.2 | 2.2 | 2.1 | 2.0 | 2.0 | 2.0 | 2.0 | 2.2 | 2.3
+Beverage and Tobacco | 1.7 | 1.9 | 2.2 | 2.4 | 3.1 | 3.0 | 3.1 | 3.1 | 3.1
 Other Food Industries | 1.1 | 1.2 | 1.3 | 1.3 | 1.2 | 1.3 | 1.3 | 1.4 | 1.4
 Non-Food Industries | 11.1 | 10.6 | 9.9 | 10.9 | 7.7 | 7.3 | 7.4 | 7.4 | 7.5
-Clothing and | 6.6 | 5.6 | 5.0 | 5.9 | 2.6 | 1.9 | 1.8 | 1.8 | 1.8
-Footwear Other Non-Food | 4.5 | 4.9 | 5.0 | 5.1 | 5.1 | 5.4 | 5.6 | 5.6 | 5.7
+Clothing and Footwear | 6.6 | 5.6 | 5.0 | 5.9 | 2.6 | 1.9 | 1.8 | 1.8 | 1.8
+Other Non-Food Industries | 4.5 | 4.9 | 5.0 | 5.1 | 5.1 | 5.4 | 5.6 | 5.6 | 5.7
 Informal Sector | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4 | 0.4
 4. Electricity & Water | 3.7 | 3.8 | 3.9 | 3.8 | 3.8 | 3.9 | 4.0 | 4.2 | 4.3
 Electricity | 3.5 | 3.5 | 3.6 | 3.5 | 3.6 | 3.6 | 3.8 | 3.9 | 4.0
@@ -5203,24 +5465,22 @@ Water | 0.2 | 0.2 | 0.2 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.3
 5. Building & Construction | 4.3 | 4.5 | 4.9 | 4.8 | 6.0 | 6.5 | 6.1 | 5.8 | 5.6
 Private Sector | 1.0 | 1.0 | 1.3 | 1.6 | 3.0 | 3.5 | 3.1 | 2.9 | 2.7
 Public Sector | 1.5 | 1.8 | 1.9 | 1.5 | 1.3 | 1.4 | 1.4 | 1.4 | 1.4
-Own Account & Self | 1.8 | 1.7 | 1.7 | 1.7 | 1.7 | 1.6 | 1.6 | 1.6 | 1.5
-Employment 6. Wholesale, Retail Trade, | 17.3 | 16.6 | 16.9 | 18.2 | 17.9 | 17.8 | 17.6 | 17.5 | 17.3
-Wholesale & Retail | 12.7 | 11.7 | 12.0 | 12.7 | 11.9 | 11.7 | 11.5 | 11.3 | 11.2
-Trade Hotel & Restaurants | 4.6 | 4.8 | 4.9 | 5.5 | 6.0 | 6.0 | 6.1 | 6.1 | 6.1
-7. Transport & | 13.3 | 14.0 | 14.3 | 13.4 | 14.2 | 14.3 | 14.7 | 14.8 | 15.1
-Communication | 9.3 | 9.9 | 9.9 | 10.6 | 10.8 | 11.1 | 11.4 | 11.7
-Transport Communication. | 4.0 | 4.1 | 10.1 4.2 | 3.5 | 3.6 | 3.5 | 3.5 | 3.5 | 3.4
-13.9 | 11.6 | 11.4 | 12.4 | 12.7
-12.4 | 12.9 | 13.2
-8. Finance, Insurance, Real Sector & Business Services Finance | 4.1 | 13.3 3.7 | 2.8 | 2.9 2.6 | 3.5 2.5 | 3.5 | 3.6 | 3.8 2.6 | 4.0
-Insurance | 3.4 6.4 | 3.6 | 2.7 | 6.0 | 6.3 | 2.5 | 2.6 6.5 | 6.5 | 2.6 6.6
-Real Estate & Business Services 9. Community, Social & | 17.4 | 6.0 17.5 | 6.1 18.5 | 17.4 | 18.1 | 6.4 18.3 | 17.8 | 17.2 | 16.8
-Personal Services less imputed bank | 4.4 | 3.9 | 3.0 | 3.1 | 3.8 | 3.7 | 3.9 | 4.1 | 4.2
-service charges GDP at constant prices (1995 Prices) | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
+Own Account & Self Employment | 1.8 | 1.7 | 1.7 | 1.7 | 1.7 | 1.6 | 1.6 | 1.6 | 1.5
+6. Wholesale, Retail Trade, Hotels & Restaurants | 17.3 | 16.6 | 16.9 | 18.2 | 17.9 | 17.8 | 17.6 | 17.5 | 17.3
+Wholesale & Retail Trade | 12.7 | 11.7 | 12.0 | 12.7 | 11.9 | 11.7 | 11.5 | 11.3 | 11.2
+Hotel & Restaurants | 4.6 | 4.8 | 4.9 | 5.5 | 6.0 | 6.0 | 6.1 | 6.1 | 6.1
+7. Transport & Communication | 13.3 | 14.0 | 14.3 | 13.4 | 14.2 | 14.3 | 14.7 | 14.8 | 15.1
+Transport | 9.3 | 9.9 | 10.1 | 9.9 | 10.6 | 10.8 | 11.1 | 11.4 | 11.7
+Communication. | 4.0 | 4.1 | 4.2 | 3.5 | 3.6 | 3.5 | 3.5 | 3.5 | 3.4
+8. Finance, Insurance, Real Sector & Business Services | 13.9 | 13.3 | 11.6 | 11.4 | 12.4 | 12.4 | 12.7 | 12.9 | 13.2
+Finance | 4.1 | 3.7 | 2.8 | 2.9 | 3.5 | 3.5 | 3.6 | 3.8 | 4.0
+Insurance | 3.4 | 3.6 | 2.7 | 2.6 | 2.5 | 2.5 | 2.6 | 2.6 | 2.6
+Real Estate & Business Services | 6.4 | 6.0 | 6.1 | 6.0 | 6.3 | 6.4 | 6.5 | 6.5 | 6.6
+9. Community, Social & Personal Services | 17.4 | 17.5 | 18.5 | 17.4 | 18.1 | 18.3 | 17.8 | 17.2 | 16.8
+less imputed bank service charges | 4.4 | 3.9 | 3.0 | 3.1 | 3.8 | 3.7 | 3.9 | 4.1 | 4.2
+GDP at constant prices (1995 Prices) | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 100.0
 
-### Table 3: Gross Domestic Product Shares by Sector (%), 2001-2009
-
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
 174
 
@@ -5230,13 +5490,14 @@ Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
+### Table 4: Exports by Major Commodities ($), 2000-2009
+
 Commodities | 2000 (r) | 2001 (r) | 2002 (r) | 2003 (r) | 2004 (r) | 2005 (r) | 2006 (f) | 2007 (f) | 2008 (f) | 2009 (f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Sugar | 233.9 | 221.6 | 230.7 | 222.5 | 204.2 | 217.9 | 241.8 | 229.3 | 191.0 | 172.3
 Molasses | 9.5 | 12.3 | 12.4 | 6.9 | 9.6 | 9.9 | 10.4 | 9.2 | 12.1 | 12.1
 Gold | 69.7 | 85.4 | 67.8 | 76.5 | 88.5 | 59.3 | 55.7 | 64.5 | 79.0 | 84.3
-Timber, Cork & Wood | 43.4 | 39.6 | 38.9 | 30.8 | 42.0 | 45.1 | 37.2 | 40.9 | 44.2 | 47.7
-Manufacturers
+Timber, Cork & Wood Manufacturers | 43.4 | 39.6 | 38.9 | 30.8 | 42.0 | 45.1 | 37.2 | 40.9 | 44.2 | 47.7
 Fish | 86.2 | 93.0 | 78.4 | 79.4 | 81.4 | 82.9 | 89.6 | 94.1 | 87.5 | 92.7
 Fruits & Vegetables | 19.3 | 19.3 | 17.9 | 23.9 | 31.0 | 29.0 | 31.2 | 34.3 | 37.8 | 41.5
 -Dalo | 12.3 | 10.3 | 11.1 | 14.9 | 18.7 | 19.0 | 19.9 | 21.5 | 23.6 | 26.0
@@ -5252,17 +5513,16 @@ Total Domestic Exports | 992.8 | 987.0 | 870.6 | 955.1 | 945.6 | 841.8 | 833.1 |
 Re-Exports | 158.8 | 230.6 | 258.1 | 310.9 | 254.8 | 345.0 | 390.4 | 404.3 | 420.4 | 434.6
 Total | 1151.6 | 1217.6 | 1128.7 | 1266 | 1200.4 | 1186.8 | 1223.5 | 1260.9 | 1273.4 | 1303.8
 
-### Table 4: Exports by Major Commodities ($), 2000-2009
+Source: FIBOS, Macro Policy Committee. Key: r = revised; f = forecast.
 
-Source: FIBOS, Macro Policy Committee. Key: r = revised;  f = forecast.
+### Table 5: Exports by Major Commodities - Growth Rates (%), 2000-2009
 
 Commodities | 2000 (r) | 2001 (r) | 2002 (r) | 2003 (r) | 2004 (r) | 2005 (r) | 2006 (f) | 2007 (f) | 2008 (f) | 2009 (f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Sugar | -11.1 | -5.2 | 4.1 | -3.6 | -8.2 | 6.7 | 11.0 | -5.2 | -16.7 | -9.8
 Molasses | -23.4 | 29.5 | 0.8 | -44.3 | 39.1 | 3.1 | 5.1 | -11.5 | 31.5 | 0.0
 Gold | -8.8 | 22.5 | -20.6 | 12.8 | 15.7 | -33.0 | -6.1 | 15.9 | 22.4 | 6.7
-Timber, Cork & Wood | 22.0 | -8.9 | -1.7 | -20.7 | 36.3 | 7.2 | -17.4 | 10.0 | 8.0 | 8.0
-Manufacturers
+Timber, Cork & Wood Manufacturers | 22.0 | -8.9 | -1.7 | -20.7 | 36.3 | 7.2 | -17.4 | 10.0 | 8.0 | 8.0
 Fish | 49.9 | 7.8 | -15.7 | 1.3 | 2.6 | 1.8 | 8.1 | 5.0 | -7.0 | 6.0
 Fruits & Vegetables | 67.8 | 0.0 | -7.3 | 33.5 | 29.7 | -6.5 | 7.6 | 10.0 | 10.0 | 10.0
 -Dalo | 38.4 | -16.6 | 7.6 | 35.2 | 225.1 | 1.7 | 4.7 | 8.0 | 10.0 | 10.0
@@ -5278,9 +5538,7 @@ Total Domestic Exports | 4.8 | -0.6 | -11.8 | 9.7 | -1.0 | -11.0 | -1.0 | 2.8 | 
 Re-Exports | -37.2 | 45.2 | 11.9 | 20.5 | -18.0 | 35.4 | 13.2 | 3.6 | 4.0 | 3.4
 Total | -4.1 | 5.7 | -7.3 | 12.2 | -5.2 | -1.1 | 3.1 | 3.1 | 1.0 | 2.4
 
-### Table 5: Exports by Major Commodities - Growth Rates (%), 2000-2009
-
-Source: FIBOS, Macro Policy Committee. Key: r = revised;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: r = revised; f = forecast.
 
 175
 
@@ -5289,6 +5547,8 @@ Source: FIBOS, Macro Policy Committee. Key: r = revised;  f = forecast.
 [[START OF PAGE 192]]
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
+
+### Table 6: Imports by Major Commodities ($m), 2000-2009
 
 Economic Category | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 (p) | 2006 (f) | 2007(f) | 2008(f) | 2009(f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -5304,9 +5564,9 @@ Miscellaneous Manufactured Goods | 244.3 | 217.9 | 206.2 | 236.7 | 253.5 | 264.0
 Other Commodities | 7.0 | 9.5 | 6.6 | 7.4 | 11.3 | 8.3 | 9.8 | 10.8 | 11.9 | 13.1
 Total | 1822.1 | 2017.0 | 1970.0 | 2284.7 | 2501.6 | 2722.8 | 3301.4 | 3320.3 | 3489.0 | 3662.0
 
-### Table 6: Imports by Major Commodities ($m), 2000-2009
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+### Table 7: Imports by Major Commodities - Growth Rates (%), 2000-2009
 
 Economic Category | 2000 | 2001 | 2002 | 2003 | 2004 | 2005 (p) | 2006 (f) | 2007(f) | 2008(f) | 2009(f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -5318,13 +5578,11 @@ Oils & Fats | -13.7 | 15.8 | -4.3 | 35.7 | -24.4 | 14.7 | -4.0 | 8.0 | 7.0 | 7.0
 Chemicals | 6.8 | 23.0 | 1.9 | 10.4 | 20.7 | 4.9 | 11.6 | 10.0 | 10.0 | 10.0
 Manufactured Goods | 14.1 | -14.0 | -9.0 | 15.7 | 9.1 | -7.0 | 5.8 | 7.7 | 7.9 | 8.0
 Machinery & Transport Equipment | -24.9 | 15.7 | 2.0 | 35.0 | -3.5 | 5.7 | 33.2 | -15.6 | 2.6 | 3.3
-Miscellaneous | 4.1 | -10.8 | -5.4 | 14.8 | 7.1 | 4.1 | 2.8 | 6.2 | 6.2 | 6.3
-Manufactured Goods Other Commodities | -57.1 | 35.7 | -30.5 | 12.1 | 52.7 | -26.5 | 18.4 | 10.0 | 10.0 | 10.0
+Miscellaneous Manufactured Goods | 4.1 | -10.8 | -5.4 | 14.8 | 7.1 | 4.1 | 2.8 | 6.2 | 6.2 | 6.3
+Other Commodities | -57.1 | 35.7 | -30.5 | 12.1 | 52.7 | -26.5 | 18.4 | 10.0 | 10.0 | 10.0
 Total | 2.4 | 10.7 | -2.3 | 16.0 | 9.5 | 8.8 | 21.3 | 0.6 | 5.1 | 5.0
 
-### Table 7: Imports by Major Commodities - Growth Rates (%), 2000-2009
-
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
 176
 
@@ -5333,6 +5591,8 @@ Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
 [[START OF PAGE 193]]
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
+
+### Table 8: Balance of Payments ($m), 2001-2009
 
 Summary | 2001 | 2002 | 2003 | 2004 | 2005 (p) | 2006 (f) | 2007(f) | 2008(f) | 2009(f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -5354,9 +5614,7 @@ FINANCIAL ACCOUNT BALANCE | 68 | 45.9 | 29 | 94.3 | -25.3 | 584.6 | 166.6 | 224.
 Errors & Omissions | 240.6 | -18.5 | 312.3 | 690.8 | 835.1 | 550.9 | 838.5 | 841 | 846.2
 OVERALL BALANCE | 44.6 | 92.3 | -41.5 | -102 | 223.2 | 4.5 | 102 | 150 | 165.9
 
-### Table 8: Balance of Payments ($m), 2001-2009
-
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
 177
 
@@ -5366,28 +5624,29 @@ Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
-2001 | 2002 | 2003 | 2004 | 2005(p) | 2006(f) | 2007(f) | 2008(f) | 2009(f)
+### Table 9: Real GDP Growth Rates, Foreign Reserves, Interest Rates, and Government Revenue, Expenditure and Debt
+
+ | 2001 | 2002 | 2003 | 2004 | 2005(p) | 2006(f) | 2007(f) | 2008(f) | 2009(f)
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Real GDP Growth % | 2.0 | 3.2 | 1.0 | 5.3 | 0.7 | 3.6 | 2.0 | 2.2 | 2.6
 Inflation % | 4.3 | 0.8 | 4.2 | 2.8 | 2.4 | 3.5 | 4.0 | 3.5 | 3.5
-Reserves: months of cover -goods & services | 4.3 | 3.6 | 3.2 | 4.7 | 2.9 | (June)
--goods | 6.7 | 5.4 | 4.7 | 7.1 | 4.2 | 3.0
-Interest Rates %
--Lending Rate | 8.19 | 7.89 | 7.39 | 7.03 | 6.63
--Savings Deposit rate | 0.78 | 0.57 | 0.45 | 0.36 | 0.4
--Time Deposit rate | 2.43 | 2.17 | 1.7 | 1.77 | 2.03
--RBF Note Rate | 1.25 | 1.25 | 1.19 | 1.75 | 2.25
--Minimum Lending rate | 1.75 | 1.75 | 1.75 | 2.25 | 2.75
-Revenue - % of GDP | 23.5 | 24.5 | 21.9 | 21.5 | 26.4 | 26.9 | 26.6 | 26.8
-Expenditure - % of GDP | 29.9 | 31.8 | 34 | 28.8 | 30.8 | 31.0 | 28.6 | 28.3
-Operating/Capital Ratio | 81/19 | 82/18 | 80/20 | 82/18 | 82/18 | 83/17 | 80/20 | 80/20
-Net budget deficit (actual) | -6.4% | -5.6% | -5.9% | -3.2% | -3.6%
-Net deficit (planned) | -4.0% | -6.0% | -4.0% | -3.6% | -3.5% | -4.0% | -2.0% | -1.5%
-Debt as a % of GDP | 44.7 | 47.7 | 50.4 | 50.9 | 52.0 | 52.2 | 52.8 | 50.3
+Reserves: months of cover (June) |  |  |  |  |  |  |  |  | 
+-goods & services | 4.3 | 3.6 | 3.2 | 4.7 | 2.9 |  |  |  | 
+-goods | 6.7 | 5.4 | 4.7 | 7.1 | 4.2 | 3.0 |  |  | 
+Interest Rates % |  |  |  |  |  |  |  |  | 
+-Lending Rate | 8.19 | 7.89 | 7.39 | 7.03 | 6.63 |  |  |  | 
+-Savings Deposit rate | 0.78 | 0.57 | 0.45 | 0.36 | 0.4 |  |  |  | 
+-Time Deposit rate | 2.43 | 2.17 | 1.7 | 1.77 | 2.03 |  |  |  | 
+-RBF Note Rate | 1.25 | 1.25 | 1.19 | 1.75 | 2.25 |  |  |  | 
+-Minimum Lending rate | 1.75 | 1.75 | 1.75 | 2.25 | 2.75 |  |  |  | 
+Revenue - % of GDP | 23.5 | 24.5 | 21.9 | 21.5 | 26.4 | 26.9 | 26.6 | 26.8 | 
+Expenditure - % of GDP | 29.9 | 31.8 | 34 | 28.8 | 30.8 | 31.0 | 28.6 | 28.3 | 
+Operating/Capital Ratio | 81/19 | 82/18 | 80/20 | 82/18 | 82/18 | 83/17 | 80/20 | 80/20 | 
+Net budget deficit (actual) | -6.4% | -5.6% | -5.9% | -3.2% | -3.6% |  |  |  | 
+Net deficit (planned) | -4.0% | -6.0% | -4.0% | -3.6% | -3.5% | -4.0% | -2.0% | -1.5% | 
+Debt as a % of GDP | 44.7 | 47.7 | 50.4 | 50.9 | 52.0 | 52.2 | 52.8 | 50.3 | 
 
-### Table  9:  Real  GDP  Growth  Rates,  Foreign  Reserves,  Interest  Rates,  and  Government Revenue, Expenditure and Debt
-
-Source: FIBOS, Ministry of Finance and National Planning. Key: p = provisional;  f = forecast.
+Source: FIBOS, Ministry of Finance and National Planning. Key: p = provisional; f = forecast.
 
 178
 
@@ -5396,6 +5655,8 @@ Source: FIBOS, Ministry of Finance and National Planning. Key: p = provisional; 
 [[START OF PAGE 195]]
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
+
+### Table 10: Actual and Budgeted Expenditure (VAT inclusive), 1999-2006
 
 Year | Budget ($'000) | Revised ($'000) | Actual ($'000)
 --- | --- | --- | ---
@@ -5406,15 +5667,15 @@ Year | Budget ($'000) | Revised ($'000) | Actual ($'000)
 2003 | 1,295.00 | 1,325.17 | 1,320.90
 2004 | 1,313.30 | 1,325.23 | 1,322.57
 2005 | 1,424.48 | 1,434.53 | 1,386.55
-2006 | 1,548.66 | -
-
-### Table 10: Actual and Budgeted Expenditure (VAT inclusive), 1999-2006
+2006 | 1,548.66 | - | 
 
 Source: Ministry of Finance and National Planning. Key: r = revised; B = budget.
 
-Infrastructure | Health | Education
+### Table 11: Government Expenditure on Key Priorities, 1999-2006
+
+Year | Infrastructure |  | Health |  | Education | 
 --- | --- | --- | --- | --- | --- | ---
-$m | % of Total | $m | % of Total | $m | % of Total
+ | $m | % of Total | $m | % of Total | $m | % of Total
 1999 | 113.41 | 11% | 89.19 | 9% | 165.85 | 16%
 2000 | 119.63 | 12% | 98.92 | 10% | 184.14 | 18%
 2001 | 147.01 | 13% | 107.9 | 10% | 203.25 | 18%
@@ -5424,19 +5685,17 @@ $m | % of Total | $m | % of Total | $m | % of Total
 2005 (r) | 183.66 | 13% | 126.59 | 9% | 279.49 | 19%
 2006(B) | 209.28 | 14% | 131.31 | 9% | 277.36 | 18%
 
-### Table 11: Government Expenditure on Key Priorities, 1999-2006
-
 Source: Ministry of Finance and National Planning. Key: r = revised; B = budget.
 
-2002 | 2003 | 2004 | 2005
+### Table 12: Direct and Indirect Tax Concessions, 2002-2005
+
+ | 2002 | 2003 | 2004 | 2005
 --- | --- | --- | --- | ---
-Total Direct Tax | 93,100,263 | 33,634,952 | 36,060,886 | 54,350,068
+Total Direct Tax Concessions | 93,100,263 | 33,634,952 | 36,060,886 | 54,350,068
 Total Indirect Tax Concessions | 92,004,408 | 133,351,612 | 110,698,122 | 112,802,966
 Total Concessions | 185,104,671 | 166,986,564 | 146,759,008 | 167,153,034
-Total Concessions as | 4.7 | 4.0 | 3.3 | 3.6
-GDP at Market | 3,929.40 | 4,134.90 | 4,473.80 | 4,614.60
-
-### Table 12: Direct and Indirect Tax Concessions, 2002-2005
+Total Concessions as % of GDP | 4.7 | 4.0 | 3.3 | 3.6
+GDP at Market Prices ($m) | 3,929.40 | 4,134.90 | 4,473.80 | 4,614.60
 
 Source: Revenue Technical Committee, Macro Policy Committee
 
@@ -5447,6 +5706,8 @@ Source: Revenue Technical Committee, Macro Policy Committee
 [[START OF PAGE 196]]
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
+
+### Table 13: Gross Domestic Product at Constant 1995 Prices, 2000-2009
 
 Year | GDP @ constant 1995 prices ($000) | Growth Rates %
 --- | --- | ---
@@ -5461,9 +5722,9 @@ Year | GDP @ constant 1995 prices ($000) | Growth Rates %
 2008 (r) | 3,212,129 | 2.2
 2009 (r) | 3,294,181 | 2.6
 
-### Table 13: Gross Domestic Product at Constant 1995 Prices, 2000-2009
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+### Table 14: Gross Domestic Product at Current Factor Cost, 2000-2009
 
 Year | GDP @ current factor cost ($000) | Growth Rates %
 --- | --- | ---
@@ -5478,9 +5739,9 @@ Year | GDP @ current factor cost ($000) | Growth Rates %
 2008 (r) | 4,693,451 | 5.7
 2009 (r) | 4,960,461 | 5.7
 
-### Table 14: Gross Domestic Product at Current Factor Cost, 2000-2009
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+### Table 15: Gross Domestic Product at Current Prices, 2000-2009
 
 Year | GDP @ market prices ($000) | Growth Rates %
 --- | --- | ---
@@ -5495,9 +5756,7 @@ Year | GDP @ market prices ($000) | Growth Rates %
 2008 (r) | 5,445,342 | 5.7
 2009 (r) | 5,755,127 | 5.7
 
-### Table 15: Gross Domestic Product at Current Prices, 2000-2009
-
-Source: FIBOS, Macro Policy Committee. Key: p = provisional;  f = forecast.
+Source: FIBOS, Macro Policy Committee. Key: p = provisional; f = forecast.
 
 180
 
@@ -5517,35 +5776,39 @@ Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Eva
 
 ## Implementation, Monitoring and Evaluation
 
-### 1.  Introduction.
+### 1. Introduction.
 
-Chapter 9 of the SDP sets out in general terms how the implementation of the Plan will be  co-ordinated  and  monitored.  This  annex  defines  the  responsibilities  for  individuals contributing to the monitoring system. It also contains a technical table defining for each KPI:
+Chapter 9 of the SDP sets out in general terms how the implementation of the Plan will be co-ordinated and monitored. This annex defines the responsibilities for individuals contributing to the monitoring system. It also contains a technical table defining for each KPI:
 
 - Where the information will come from and when
 
-- A single point of responsibility for collecting and disseminating the information.
-
 - How it will be measured, where this is not fully set out in the KPI itself
+
+- A single point of responsibility for collecting and disseminating the information.
 
 The following paragraphs set out the responsibilities of:
 
-SWG Chairs The SWG Secretariat The Ministry of Finance and National Planning
+SWG Chairs
+
+The SWG Secretariat
+
+The Ministry of Finance and National Planning
 
 Chief Executive Officers of Ministries and Departments
 
-### 2.  SWG Chairs
+### 2. SWG Chairs
 
 The Chairs of Summit Working Groups will:
 
-- Each December/ January, set a broad agenda for the two SWG meetings in the coming  year  in  consultation  with  the  Secretariat.  These  agendas  should  have regard  to  the  likely  availability  of  information  on  progress  towards  the  KPIs, other forthcoming performance information, and the timing of known milestones in  the  programmes of the Ministries and departments contributing towards the KPIs (such as legislation, regulations, major capital investment or divestment, or major strategy launches or reviews). The agendas will be informed among other things by the Annual Corporate Plans of the relevant Ministries and Departments.
+- Each December/ January, set a broad agenda for the two SWG meetings in the coming year in consultation with the Secretariat. These agendas should have regard to the likely availability of information on progress towards the KPIs, other forthcoming performance information, and the timing of known milestones in the programmes of the Ministries and departments contributing towards the KPIs (such as legislation, regulations, major capital investment or divestment, or major strategy launches or reviews). The agendas will be informed among other things by the Annual Corporate Plans of the relevant Ministries and Departments.
 
-- Hold meetings in accordance with the forward programme, with the assistance of  the  Secretariat.  These  meetings  should be  framed  around  the  last  three  key monitoring questions in Chapter 9, that is:
+- Hold meetings in accordance with the forward programme, with the assistance of the Secretariat. These meetings should be framed around the last three key monitoring questions in Chapter 9, that is:
 
-- o Are  Ministries  and  Departments  achieving  against  the  objectives  in their corporate and annual plans?
+  - Are Ministries and Departments achieving against the objectives in their corporate and annual plans?
 
-- o What progress is being made against the key performance indicators?
+  - What progress is being made against the key performance indicators?
 
-- o Are  the  private  sector  and  civil  society  able  in  the  current  policy environment to contribute to the achievement of SDP objectives?
+  - Are the private sector and civil society able in the current policy environment to contribute to the achievement of SDP objectives?
 
 181
 
@@ -5555,7 +5818,7 @@ The Chairs of Summit Working Groups will:
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
-The objective of the meetings will be to monitor performance (of all potential contributors, not just Government), not simply to monitor the KPIs. The SWGs should form a view of the likelihood of the overall strategic objectives of the SDP being achieved, and consider the reasons for possible shortfalls. They may recommend  to  the  Ministry  of  Finance  and  Economic  Planning  that  further economic or social research be carried out where it appears that information on the  achievement  of  objectives  is  lacking 7 ;  or  recommend  the  scrapping  or amendment of KPIs if they no longer appear relevant or if the information to assess them is not available.
+The objective of the meetings will be to monitor performance (of all potential contributors, not just Government), not simply to monitor the KPIs. The SWGs should form a view of the likelihood of the overall strategic objectives of the SDP being achieved, and consider the reasons for possible shortfalls. They may recommend to the Ministry of Finance and Economic Planning that further economic or social research be carried out where it appears that information on the achievement of objectives is lacking⁷; or recommend the scrapping or amendment of KPIs if they no longer appear relevant or if the information to assess them is not available.
 
 - Provide an oral report and recommendations to the next meeting of the NEDC
 
@@ -5623,9 +5886,9 @@ CEOs will contribute to the implementation and monitoring of the SDP by:
 
 Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Evaluation
 
-- each piece of routine co-ordination, but those areas where the CEO's personal attention needs to be engaged to establish or improve co-ordination should be identified.
+each piece of routine co-ordination, but those areas where the CEO's personal attention needs to be engaged to establish or improve co-ordination should be identified.
 
-- Aligning their personal performance agreements to the outputs and coordination requirements identified in the ACP.
+- Aligning their personal performance agreements to the outputs and co-ordination requirements identified in the ACP.
 
 - Attending  personally meetings  of  the  SWGs  to  which  their  Ministry  or Department  is  relevant,  and  taking  a  personal  interest  in  the  quality  and timeliness of the information being provided by their Ministry or Department to the SWGs.
 
@@ -5633,14 +5896,14 @@ Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Eva
 
 ### SWG on Public Sector Reform
 
+Chapter 6
+
 KPI | Source/frequency/ timing | Commentary 8 | Reporting Agency
 --- | --- | --- | ---
 Cost of running Government machinery reduced from 12% to 7% of GDP. | Budget outturn and GDP calculation. Annually January | Total of salaries and running costs as a proportion of GDP for the previous year. | Ministry of Finance
 Number of Civil servants reduced from 25,000 to 20,000 by 2011. | Public Service Commission Continuous database. Checked six monthly January and June | Total of all civil servants paid through segs 1 and 2 of the budget. | PSC MS unit
 Civil service employment costs reduced from 36% to 28% of annual Government expenditure. | Budget outturn. Annually January | Seg 1 and 2 expenditure as a proportion of all Government expenditure excluding VAT. | Ministry of Finance
 Aggregate rates of return in public enterprises increased form 3% to 10%. | Compilation of data from public enterprise annual reports. Annually March | Sum of all PEs. Rate of return is net profit after tax as a proportion of total equity. | Ministry of Public Enterprises and Public Sector Reform
-
-Chapter 6
 
 > 8 This column has only been completed where necessary to clarify the KPI
 
@@ -5667,7 +5930,7 @@ KPIs | Source/frequency/ timing | Commentary | Reporting Agency
 Proportion of population below the HIES defined basic needs poverty line reduced from 34.4% to 24% (MDG). | HIES Once in SDP period 2008 | HIES unit, FIBOS
 Poverty gap ratio reduced from $2,600 to $2,000 (MDG). | HIES Once in SDP period 2008 | HIES unit, FIBOS
 Percentage share of consumption held by poorest 20% increased from 7% to 10% (MDG). | HIES Once in SDP period 2008 | HIES unit, FIBOS
-Not less than 1,500 recipients of family assistance graduate from assistance programmes through income generating projects. | Ministry of Women, Social Welfare and Housing statistics Quarterly | Numbers of families receiving Family Assistance who are given a final grant following training, implying a judgment about future self- sufficiency. | Social Welfare Department, Family Assistance Division
+Not less than 1,500 recipients of family assistance graduate from assistance programmes through income generating projects. | Ministry of Women, Social Welfare and Housing statistics Quarterly | Numbers of families receiving Family Assistance who are given a final grant following training, implying a judgment about future self-sufficiency. | Social Welfare Department, Family Assistance Division
 Reduction in number of elderly in State | Social Welfare Department | Total number of elderly people in the | Social Welfare Department
 
 185
@@ -5683,7 +5946,7 @@ KPIs | Source/frequency/ timing | Commentary | Reporting Agency
 care from 98 to 75. | Current numbers continuously available, but can be checked in January each year. | 3 Old People's Homes (Samabula,Lautoka and Labasa). This KPI assumes that measures by Government and NGOs to help families to look after their own are successful. The SWG will need a commentary on the success of the programmes as well as the raw statistics.
 #### 7.1.2 Rural and Outer Island Development
 Rural population with water-seal toilets or other sanitary waste disposal increased from 45% to 80%. | Ministry of Health statistics. Annual January | Environmental Health Division, Ministry of Health
-Telecommunications access to at least 100 more unconnected rural communities by 2011. | Ministry of Information and Communication report. Annually November | Availability of fixed lines or radio link in numbers of villages or settlements with no subscribers as at 30 June 2006. Provisional data may be available earlier in the year. | Director Telecommunicati ons
+Telecommunications access to at least 100 more unconnected rural communities by 2011. | Ministry of Information and Communication report. Annually November | Availability of fixed lines or radio link in numbers of villages or settlements with no subscribers as at 30 June 2006. Provisional data may be available earlier in the year. | Director Telecommunications
 Increase in rural dwellers trained under the TVET and 'Matua' programmes from 2,000 to 3,000 per year. | Ministry of Education Report or statistics. Annual January | The number of rural dwellers successfully completing TVET courses in the secondary school curriculum as well as the franchise courses for FIT and the 'Matua' programme | Ministry of Education R&D Division
 Increase in average weeks paid | ROI Project reports Annual | This and other ROI project indicators are | ROI Project Management
 
@@ -5764,7 +6027,7 @@ KPIs | Source/frequency/ timing | Commentary | Reporting Agency
 The proportion of CEOs in Government to be at least 20% by 2011. | PSC records Continuous database, checked annually January | PSC
 At least one woman in each Government board, committee, tribunal, council, and commission. | Ministry of Women reporting Annually. January | Reporting against database of bodies held by Ministry of Women. | Deputy Secretary Ministry of Women
 Proportion of seats held by women in national parliament and municipal elections to be not less than 20% (MDG). | Ministry of Women Continuous database, can be checked annually. January | Calculation is of proportion of women in Parliamentary and municipal seats taken together. | Deputy Secretary Ministry of Women
-Number of women supported by micro- finance increased from 5,100 in 2006 to not less than 19,500 by 2010. | National Centre for Small & Micro Enterprise Development (NCSMED) reporting Annual January | Figure is for publicly supported micro- finance schemes. | Director NCSMED
+Number of women supported by micro-finance increased from 5,100 in 2006 to not less than 19,500 by 2010. | National Centre for Small & Micro Enterprise Development (NCSMED) reporting Annual January | Figure is for publicly supported micro-finance schemes. | Director NCSMED
 Cases of domestic violence recorded by police. | Police records. Annual stock take. January | This indicator is deliberately neutral. Since many cases go unreported, an upward or downward trend needs to be accompanied by qualitative assessments. | Police Planning Unit
 #### 7.2.3 Children & Youth
 Offences against children recorded by the police. | Police records. Annual stock take. January | May include sexual abuse, violence or neglect. This indicator is deliberately neutral. Since many cases go unreported, an upward or downward | Police Planning Unit
@@ -5911,7 +6174,7 @@ KPIs | Source/frequency/ timing | Commentary | Reporting Agency
 Increase access to legal aid from 1,000 eligible clients to 1,500 yearly. | Legal Aid Commission reports. Annually January | Number of new cases of clients receiving legal aid in calendar year. | Director, Legal Aid Commission
 Fiji's laws are consistent with international obligations and human rights standards. | Fiji Human Rights Commission report or simple certification. Annual January | Although this is a yes/no measure, SWGs will need further analysis of major departures from international standards. | FHRC
 Prisoner escapees reduced by at least 10% per year from the present level of 33 per year. | Prison records Annual stocktake. January | Prisons Research and Planning Unit
-Offenders who successfully complete rehabilitation programmes increased from 10 to 50 per year by 2011. | Prison records Annual stocktake. January | SWG may also consider data which will be available on prisoners who commence a programme and do not complete with reasons for non- completion. | Prisons Research and Planning Unit
+Offenders who successfully complete rehabilitation programmes increased from 10 to 50 per year by 2011. | Prison records Annual stocktake. January | SWG may also consider data which will be available on prisoners who commence a programme and do not complete with reasons for non-completion. | Prisons Research and Planning Unit
 People successfully completing Community Correction Programmes increased from 30 to 400 by 2011. | Community Corrections Project Team reports. Annual January | Community Corrections Project team.
 Re-offending rates reduced by at least 5% per year from the present level of 150 per year. | Prison records Annual stocktake. January | Each prisoner who has previously been in prison who returns during a calendar year. At present data is only available on reimprisonment. Police and Courts will also need to develop methodology | Prisons Research and Planning Unit
 
@@ -6005,7 +6268,7 @@ Key Performance Indicator | Source/frequency/ timing | Commentary | Reporting Ag
 --- | --- | --- | ---
 1 by 2010. | information on completion rates may be provided.
 Proportion of pupils who start class 1 who reach class 5 to be not less than 95% (MDG). | Min of Education records. Annual. Following end of school year. | Pupils finishing class 5 as a proportion of Class 1 starters five years previously. SWG will need drop out rates for all grades to be able to gauge performance. | Min of Education R&D Division
-Preschool enrolment in rural schools increases by 10% each year from 16% in 2006. | Min of Education records Annual Following start of school year | Children in pre- school as a proportion of children in age group. | Min of Education R&D Division
+Preschool enrolment in rural schools increases by 10% each year from 16% in 2006. | Min of Education records Annual Following start of school year | Children in pre-school as a proportion of children in age group. | Min of Education R&D Division
 Proportion of students successfully completing TVET courses not less than 90% to meet current and future demand. | Min of Education records. Annually. Following end of school year. | Min of Education R&D Division
 Disparities in passes in FSLC and FSFE are at least reduced from: (i) 28% to 15% between Fijians and non-Fijians; (ii) 24% to 15% between rural and urban students; and (iii) 3% to 1% between male and female students. | Min of Education records. Annually. Following exams. | Min of Education Exams office
 #### 8.1.4: Employment and the Labour Market
@@ -6127,7 +6390,7 @@ KPI | Source/frequency/ timing | Commentary | Reporting Agency
 --- | --- | --- | ---
 requirements by 2011. | records Continuous database, checked annually. January. | institution generating waste. | Waste Pollution Unit, Ecosystems Management Unit
 All new development projects to undertake environmental impact assessment and establish benchmarks for monitoring by 2011 | Ministry of Environment records. Continuous database, checked annually. January. | Ministry of Environment EIA Unit
-Total cessation of non-quarantine pre- shipment application of methyl bromide and Chlorofluorocarbon (CFC) by 2010. | Ministry of Environment report Annual July-October | Ministry certification in 2010 that no CFCs are being imported. Interim figures checked annually. | Ministry of Environment ODS Unit
+Total cessation of non-quarantine pre-shipment application of methyl bromide and Chlorofluorocarbon (CFC) by 2010. | Ministry of Environment report Annual July-October | Ministry certification in 2010 that no CFCs are being imported. Interim figures checked annually. | Ministry of Environment ODS Unit
 All companies complying with the ODS Act 1998 and Regulations 2000. | Ministry of Environment records. Continuous database, checked annually. January. | Annual inspection and review of licence. | Ministry of Environment ODS Unit
 #### 8.2.6 Foreign Affairs & External Trade
 Annual exports of goods and services to be not less than 65% of GDP. | FIBOS Reports - Quarterly Key Statistics. | MFNP to derive percentage. | FIBOS
@@ -6169,13 +6432,13 @@ KPI | Source/frequency/ timing | Commentary | Reporting Agency
 --- | --- | --- | ---
 #### 8.3.2 Agriculture & Livestock
 Maintain agriculture sector's contribution to GDP at 12%. | Macro-technical committee estimates. Annual. March. | MFNP
-Value of non-sugar agriculture exports increased from $40m in 2006 to $80m by 2011. | FIBOS Reports - Quarterly Key Statistics. | FIBOS
-Value of food imports reduced from $370m in 2006 to $260m in 2011. | FIBOS Reports - Quarterly Key Statistics. | FIBOS
-Increase lending to agriculture sector of commercial banks to 1% of total loan portfolio by 2011 from current level of 0.6% in 2005. | FIBOS Reports - Quarterly Key Statistics. | FIBOS
+Value of non-sugar agriculture exports increased from $40m in 2006 to $80m by 2011. | FIBOS Reports – Quarterly Key Statistics. | FIBOS
+Value of food imports reduced from $370m in 2006 to $260m in 2011. | FIBOS Reports – Quarterly Key Statistics. | FIBOS
+Increase lending to agriculture sector of commercial banks to 1% of total loan portfolio by 2011 from current level of 0.6% in 2005. | FIBOS Reports – Quarterly Key Statistics. | FIBOS
 #### 8.3.3 Forestry
 Forest sector contribution to GDP increased from 1.2% in 2006 to 1.6% by 2011. | Macro-technical committee estimates. Annual. March. | MFNP
-Target commercial annual harvesting of mahogany at 100,000m 3 . | Fiji Hardwood Corporation Ltd. Report Annual. July-October. | Provisional production data and forecasts may be available earlier in the year | FHCL
-Double annual export earnings from sector, including value adding, from $60 million in 2006 to | FIBOS Reports - Quarterly Key Statistics. | FIBOS
+Target commercial annual harvesting of mahogany at 100,000m³. | Fiji Hardwood Corporation Ltd. Report Annual. July-October. | Provisional production data and forecasts may be available earlier in the year | FHCL
+Double annual export earnings from sector, including value adding, from $60 million in 2006 to | FIBOS Reports – Quarterly Key Statistics. | FIBOS
 
 210
 
@@ -6194,7 +6457,7 @@ Value of contracts secured by indigenous Fijian businesses not less than 40%. | 
 #### 8.3.4 Marine Resources
 Ratio of total catch to sustainable yield (or TAC) for each targeted species to be less than 1. | Ministry of Fisheries & Forests report. Annual. July-October. | Targeted species are bigeye, yellowfin and albacore tuna. | Tuna Management Plan division (MFF)
 Fisheries sector contribution to GDP increased and maintained at 3% from current level of 2.7% of GDP. | Macro-technical committee estimates. Annual. March. | MFNP
-Increase fisheries export from $85m in 2006 to $100m by 2011. | FIBOS Report - Quarterly Key Statistics. | FIBOS
+Increase fisheries export from $85m in 2006 to $100m by 2011. | FIBOS Report – Quarterly Key Statistics. | FIBOS
 Proportion of total tuna catch landed by indigenous Fijian licensed vessels to be increased from the present 25% to not | Ministry of Fisheries & Forests report. Annual. July-October. | Tuna Management Plan division (MFF)
 
 211
@@ -6218,10 +6481,10 @@ Chapter 8.4
 KPI | Source/frequency/ timing | Commentary | Reporting Agency
 --- | --- | --- | ---
 #### 8.4.1 Information and Telecommunication
-Reduction in telephone charges by at least 25% by 2011. | Ministry of Information and Communication report. Annually. November. | For all data deriving from MIC annual report provisional figures may be available earlier in the year. Measure is of average cost of three minute local call. | Director Telecomm- unications
-Telephone lines and cellular subscribers to be not less than 25% in rural areas and 75% in urban areas (MDG). | Ministry of Information and Communication report. Annually. November. | Director Telecomm- unications
-Increase number of rural tele-centres from 6 to 56 by 2011. | Ministry of Information and Communication report. Annually. November. | Director Telecomm- unications
-Increase bandwidth to all service providers to not less than 300 | Ministry of Information and Communication report. | Director Telecomm- unications
+Reduction in telephone charges by at least 25% by 2011. | Ministry of Information and Communication report. Annually. November. | For all data deriving from MIC annual report provisional figures may be available earlier in the year. Measure is of average cost of three minute local call. | Director Telecommunications
+Telephone lines and cellular subscribers to be not less than 25% in rural areas and 75% in urban areas (MDG). | Ministry of Information and Communication report. Annually. November. | Director Telecommunications
+Increase number of rural tele-centres from 6 to 56 by 2011. | Ministry of Information and Communication report. Annually. November. | Director Telecommunications
+Increase bandwidth to all service providers to not less than 300 | Ministry of Information and Communication report. | Director Telecommunications
 
 212
 
@@ -6234,7 +6497,7 @@ Strategic Development Plan 2007-2011: Annex 2: Implementation Monitoring and Eva
 KPI | Source/frequency/ timing | Commentary | Reporting Agency
 --- | --- | --- | ---
 Mbytes by 2011. | Annually. November.
-Increase number of Fijian and Hindi free-to-air TV broadcast providers to more than 2 each by 2011. | Ministry of Information and Communication report. Annually. November. | Director Telecomm- unications
+Increase number of Fijian and Hindi free-to-air TV broadcast providers to more than 2 each by 2011. | Ministry of Information and Communication report. Annually. November. | Director Telecommunications
 #### 8.4.2 Transport
 ##### Multi Modal
 At least one transport PPP project over $100 million by 2009. | MPEPSR records Continuous database, checked annually. January. | MPEPSR
@@ -6283,7 +6546,7 @@ Household power outages on Grid Lines are each not more than 5 minutes by 2010. 
 90% national electrification coverage by 2011 and not less than 85% in rural areas. | FEA records Continuous database, checked annually. January. | CEO FEA
 IPP to produce not less than 250GWh of energy per year by 2011. | FEA records Continuous database, checked annually. January. | CEO FEA
 Improvement in the national energy mix from 40/60 renewables to fossil fuel to 50/50 for the grid and from 5/95 to 10/90 for off grid energy by 2011. | FEA and Ministry of Energy records. Continuous database, checked annually. January. | FEA for grid, Min of Energy for non-grid | CEO FEA, Ministry of Energy
-30% of fuel for transport is bio- fuel, LPG or LNG by 2010. | LTA report. Annual. November. | CEO LTA
+30% of fuel for transport is bio-fuel, LPG or LNG by 2010. | LTA report. Annual. November. | CEO LTA
 #### 8.4.4 Water and Sewerage
 95% of the urban population and 80% of the rural population have access to safe water supply by 2011. | Department of Water and Sewerage records. Continuous database, checked annually. January. | Director Water
 Increase in the annual number of water connections | Department of Water and Sewerage records. | Director Water
