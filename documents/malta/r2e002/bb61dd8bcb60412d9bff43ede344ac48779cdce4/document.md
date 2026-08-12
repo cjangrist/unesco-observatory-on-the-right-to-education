@@ -14,7 +14,7 @@ To consolidate and reform the law relating to Education in Malta.
 
 16th August, 1988; 5th September, 1988; 16th April, 1991
 
-ACT XXIV of 1988, as amended by Legal Notices: 98 of 1988, 63, 64, 135 and 136 of 1989, 153 and I56 of 1990 and 10 of 1991; Act X of 1991; Legal Notices: 66 and 153 of 1991, 67, 89, 90 and 105 of 1992, 21 and 117 of 1993, 5, 12, 110 and 149 of 1994; Act II of 1995; Legal Notices: 79 of 1995 and 165 of 1996; Act XVIII of 1997; and Legal Notices: 177, 181, 183, 184, 189 and 202 of 1997, 9, 30 and 172 of 1998, and 41, 101 and 102 of 1999; Acts VI of 2001, XVIII of 2002 and III of 2004; Legal Notices 144 and 363 of 2004; Acts II of 2005 and XIII of 2006; Legal Notices 293 of 2006, and 327, 391 and 424 of 2007; Act XXXII of 2007; Legal Notices 212 of 2008, and 21 and 85 of 2009; Act XXIII of 2009; and Legal Notice 102 of 2010.
+ACT XXIV of 1988, as amended by Legal Notices: 98 of 1988, 63, 64, 135 and 136 of 1989, 153 and 156 of 1990 and 10 of 1991; Act X of 1991; Legal Notices: 66 and 153 of 1991, 67, 89, 90 and 105 of 1992, 21 and 117 of 1993, 5, 12, 110 and 149 of 1994; Act II of 1995; Legal Notices: 79 of 1995 and 165 of 1996; Act XVIII of 1997; and Legal Notices: 177, 181, 183, 184, 189 and 202 of 1997, 9, 30 and 172 of 1998, and 41, 101 and 102 of 1999; Acts VI of 2001, XVIII of 2002 and III of 2004; Legal Notices 144 and 363 of 2004; Acts II of 2005 and XIII of 2006; Legal Notices 293 of 2006, and 327, 391 and 424 of 2007; Act XXXII of 2007; Legal Notices 212 of 2008, and 21 and 85 of 2009; Act XXIII of 2009; and Legal Notice 102 of 2010.
 
 ### ARRANGEMENT OF ACT
 
@@ -48,14 +48,10 @@ EDUCATION
 
 ##### Short title.
 
+1. The short title of this Act is the Education Act.
+
 ##### Interpretation.
 Amended by: XIII. 2006.4; XXXII. 2007.9.
-
-Cap. 93.
-
-Cap. 58.
-
-1. The short title of this Act is the Education Act.
 
 2. In this Act, unless the context otherwise requires -
 
@@ -79,7 +75,10 @@ Cap. 58.
 
 "employment" includes employment in any labour or work exercised by way of trade or for gain, whether the gain be to the person employed or to any other person, and whether the labour or work is done for wages or other compensation or not, and "to employ" should be construed accordingly;
 
-"entity" includes a Directorate, a College, the National Commission for Higher Education established under Part VI, the institution for tourism studies referred to in article 132, and any Directorate, department, unit, agency or other organisation as may be established by virtue of this Act or regulations made thereunder, or  under any other law, and "entities" shall be construed accordingly:
+"entity" includes a Directorate, a College, the National Commission for Higher Education established under Part VI, the institution for tourism studies referred to in article 132, and any Directorate, department, unit, agency or other organisation as may be established by virtue of this Act or regulations made thereunder, or under any other law, and "entities" shall be construed accordingly:
+
+Cap. 93.
+Cap. 58.
 
 Provided that only for the purposes of any right pertaining to any officer or staff member under the Pensions Ordinance and the Widows and Orphans Pensions Act under Part IX of this Act, "entity" also includes the University and the Malta College of Arts, Science and Technology incorporated into this Act by Part VIII;
 
@@ -137,10 +136,6 @@ EDUCATION
 
 4
 
-##### Right to education and instruction.
-
-##### Obligations of the State.
-
 74 and any person temporarily acting in that capacity;
 
 "remuneration" includes compensation in any form whether in money or in kind;
@@ -161,15 +156,19 @@ EDUCATION
 
 #### General Provisions
 
+##### Right to education and instruction.
+
 3. It is the right of every citizen of the Republic of Malta to receive education and instruction without any distinction of age, sex, belief or economic means.
 
-- It is the duty of the State -
+##### Obligations of the State.
 
-(a ) to promote education and instruction;
+4. It is the duty of the State -
 
-( b ) to  ensure  the  existence  of  a  system  of  schools  and institutions  accessible  to  all  Maltese  citizens  catering for  the  full  development  of  the  whole  personality including the ability of every person to work; and
+(a) to promote education and instruction;
 
-( c ) to  provide  for  such  schools  and  institutions  where these do not exist.
+(b) to ensure the existence of a system of schools and institutions accessible to all Maltese citizens catering for the full development of the whole personality including the ability of every person to work; and
+
+(c) to provide for such schools and institutions where these do not exist.
 
 ##### Duties of parents.
 5. It shall be the duty of every parent of a minor to cause him-
@@ -186,48 +185,48 @@ EDUCATION
 
 [ CAP. 327. 5
 
-period  as  the  Minister  may  prescribe  by  regulations; and
+period as the Minister may prescribe by regulations; and
 
-( c ) to  attend  school  regularly  on  each  scholastic  day, unless the minor has a good and sufficient cause to be absent from school.
+(c) to attend school regularly on each scholastic day, unless the minor has a good and sufficient cause to be absent from school.
+
+##### Right of choice of parents.
 
 6. It is the right of every parent of a minor to give his decision with regard to any matter concerning the education which the minor is to receive.
 
-- It shall be the right of the State -
+##### Right of the State to regulate education.
+Amended by: XIII. 2006.5.
 
-( a ) to  establish  a  National  Curriculum  Framework  of studies for all schools;
+7. It shall be the right of the State -
 
-( b ) to  establish  the  national  minimum  conditions  for  all schools; and
+(a) to establish a National Curriculum Framework of studies for all schools;
 
-( c ) to  secure  compliance  with  the  National  Curriculum Framework  of  studies and the  national  minimum conditions for all schools.
+(b) to establish the national minimum conditions for all schools; and
+
+(c) to secure compliance with the National Curriculum Framework of studies and the national minimum conditions for all schools.
+
+Added by: XIII. 2006.6.
 
 ### PART II
 
 #### Constitution and Functions of Directorates of Education
 
-8. There  shall  be  established  a  Directorate  for  Quality  and Standards in Education under the responsibility, guidance and administration of a Director General. The mission of this Directorate shall be to regulate, establish, monitor and assure standards and quality in the programmes and educational services provided by schools, whether State schools or not, as provided for in this Act.
-
-9. (1) It  shall  be  the  function  of  the  Directorate  for  Quality and Standards in Education to generally regulate, guide, evaluate, verify, research and report on the various elements and the results of the compulsory education system with the aim of assuring quality education for all and in order to promote good practices in all activities related to such education in a national curricular framework of lifelong learning.
-
-(2) In  particular  the  functions  and  duties  of  this  Directorate shall include:
-
-( a ) to  propose  to  the  Minister  a  National  Curriculum Framework which promotes a lifelong learning policy and strategy;
-
-( b ) to provide the required guidelines, among other things, for  the  better  implementation  of  the  education  policy and  services,  including  each  school's  development plan, the syllabi, the establishment of standards, performance assessment, and examinations;
-
-( c ) to  ensure  that  all  schools  identify  the  educational training needs for the implementation of the curriculum and to ensure the provision of regular and continuous professional development at a level where this may be achieved in the most effective manner;
-
-##### Right of choice of parents.
-
-##### Right of the State to regulate education.
-Amended by: XIII. 2006.5.
-
-Added by: XIII. 2006.6.
-
 ##### Directorate for Quality and Standards in Education.
 Added by: XIII. 2006.6.
 
+8. There shall be established a Directorate for Quality and Standards in Education under the responsibility, guidance and administration of a Director General. The mission of this Directorate shall be to regulate, establish, monitor and assure standards and quality in the programmes and educational services provided by schools, whether State schools or not, as provided for in this Act.
+
 ##### Functions of the Directorate for Quality and Standards in Education.
 Added by: XIII. 2006.6.
+
+9. (1) It shall be the function of the Directorate for Quality and Standards in Education to generally regulate, guide, evaluate, verify, research and report on the various elements and the results of the compulsory education system with the aim of assuring quality education for all and in order to promote good practices in all activities related to such education in a national curricular framework of lifelong learning.
+
+(2) In particular the functions and duties of this Directorate shall include:
+
+(a) to propose to the Minister a National Curriculum Framework which promotes a lifelong learning policy and strategy;
+
+(b) to provide the required guidelines, among other things, for the better implementation of the education policy and services, including each school's development plan, the syllabi, the establishment of standards, performance assessment, and examinations;
+
+(c) to ensure that all schools identify the educational training needs for the implementation of the curriculum and to ensure the provision of regular and continuous professional development at a level where this may be achieved in the most effective manner;
 
 [[END OF PAGE 5]]
 
@@ -239,26 +238,26 @@ CAP. 327. ]
 
 EDUCATION
 
+(d) to ensure that all information, data and statistics required for the drafting and the planning of policy, strategies, guidelines and directives in education are collated, compiled, analysed and researched, and, subject to any other law, take all necessary steps so that these may be accessible to whosoever is involved and who may have an interest;
+
+(e) in support of the evaluation and the internal audit of every school, to implement every inspection, evaluation and external audit of educational programmes and services, of the operations undertaken, of the physical environment of every school, and of the results obtained by them, with an aim of ensuring that the curriculum is being followed in every school, that good practices are being promoted, that the quality in and the coordination of each part and at every level of the educational system are ensured, and also so that children and students are helped so that they may obtain in the best possible manner the set learning targets and necessary skills;
+
+(f) to evaluate and assess the operation and the results of Colleges and schools and of any person teaching and working therein;
+
+(g) to be responsible for the compliance with and implementation of the provisions of laws and regulations dealing with matters relating to education;
+
+(h) to evaluate the financial and economic aspects of the educational system;
+
+(i) to ensure the application and the maximum possible use of information technology systems by whosoever is involved in teaching and in imparting education in schools;
+
+(j) to receive and process applications for the issuing of a licence for the opening of a school, to advise the Minister on this matter according to the provisions of this Act, and to keep a register containing the required details of every school which has a licence issued by the Minister under this Act;
+
+(k) to ensure that the national minimum conditions for all schools are being constantly observed and to investigate and take all necessary steps required on any matter about which the Minister may consider the suspension or the withdrawal of a school licence;
+
+(l) to implement any other matter required for the attainment of objectives and the execution of duties pertaining to the State as provided for by this Act.
+
 ##### Directorate for Educational Services.
 Added by: XIII. 2006.6.
-
-( d ) to ensure that all information, data and  statistics required  for  the  drafting  and  the  planning  of  policy, strategies,  guidelines  and  directives  in  education  are collated, compiled, analysed and researched, and, subject  to  any  other  law,  take  all  necessary  steps  so that these may be accessible to whosoever is involved and who may have an interest;
-
-( e ) in  support  of  the  evaluation  and  the  internal  audit  of every school, to implement every inspection, evaluation and external audit of educational programmes and services, of the operations undertaken,  of  the  physical  environment  of  every school,  and  of  the  results  obtained  by  them,  with  an aim of ensuring that the curriculum is being followed in every school, that good practices are being promoted,  that  the  quality  in  and  the  coordination  of each part and at every level of the educational system are ensured, and also so that children and students are helped  so  that  they  may  obtain  in  the  best  possible manner the set learning targets and necessary skills;
-
-( f ) to evaluate and assess the operation and the results of Colleges and schools and of any person teaching and working therein;
-
-( g ) to be responsible for the compliance with and implementation of the provisions of laws and regulations dealing with matters relating to education;
-
-( h ) to  evaluate  the  financial  and  economic  aspects  of  the educational system;
-
-( i ) to  ensure  the  application  and  the  maximum  possible use  of  information  technology  systems  by  whosoever is  involved  in  teaching  and in  imparting  education  in schools;
-
-( j ) to receive and process applications for the issuing of a licence  for  the  opening  of  a  school,  to  advise  the Minister on this matter according to the provisions of this Act, and to keep a register containing the required details of every school which has a licence issued by the Minister under this Act;
-
-( k ) to ensure that the national minimum conditions for all schools are being constantly observed and to investigate  and  take  all  necessary  steps  required  on any matter about which the Minister may consider the suspension or the withdrawal of a school licence;
-
-( l ) to implement any other matter required for the attainment  of  objectives  and  the  execution  of  duties pertaining to the State as provided for by this Act.
 
 10. There shall also be established a Directorate for Educational Services under the responsibility, guidance and administration of a Director General. The mission of this Directorate is to ensure the effective and efficient operation and delivery of services to the Colleges and State schools within an established framework of decentralisation and autonomy.
 
@@ -270,26 +269,26 @@ EDUCATION
 
 [ CAP. 327. 7
 
-11. (1) It  shall  be  the  general  function  of  the  Directorate  for Educational Services, in constant collaboration with the Colleges and schools, to plan, provide and allocate the resources, human and otherwise, services, and learning tools, both of a pedagogical, psychosocial, managerial and operative nature and other ancillary support tools, as required in the State colleges, schools and educational institutions, and to encourage and facilitate their networking and cooperation.
-
-- In particular, this Directorate shall:
-
-( a ) in  conjunction  with  the  Colleges  and  schools,  plan, monitor  and  ensure  the  operation  of  Colleges  and schools and shall strongly support the fulfilment of the functions and the targets of the Directorate for Quality and Standards in Education as provided for in this Act, giving priority to both services and support that ensure the  development  of  students'  potential  and  skills,  the implementation of the National Curriculum Framework,  and  the  development  of  the  identity  and the ethos of the Colleges;
-
-( b ) ensure the development of the building, the modernisation and the regular maintenance of schools and educational facilities, and ensure effective systems of  capital  projects  management  and  maintenance  in school buildings;
-
-( c ) allocate to  the  Colleges  and  to  the  schools  such buildings,  including  sports  facilities,  educational  and cultural spaces, furniture, equipment, technology, science,  communications  and  information  technology laboratories,  and  other  tools,  which  would  be  needed with an aim of making the best use of them as teaching and learning tools;
-
-( d ) within  the  limits  of  that  which  is  possible  to  place students in schools according to their  needs  and potential;
-
-( e ) anticipate  the  needs  of  professional  staff,  including teachers  and  other  human  resources,  and  collaborate with  the  Directorate  for  Quality  and  Standards  in Education,  with  the  University  of  Malta,  with  the Malta  College  of  Arts,  Science  and  Technology,  and with other institutions, public and private, in order to ensure  the  training  and  development  of  teaching  and non-teaching personnel according to their needs;
-
-( f ) in conjunction with the Colleges, to ensure the engagement  of  the  professional,  administrative  and support  personnel  in  the  light  of  the  students'  needs and of the particular programmes of each school;
-
-( g ) promote, encourage and monitor the democratic governance  of  schools  through  School  Councils  with
-
 ##### Functions of the Directorate for Educational Services.
 Added by: XIII. 2006.6.
+
+11. (1) It shall be the general function of the Directorate for Educational Services, in constant collaboration with the Colleges and schools, to plan, provide and allocate the resources, human and otherwise, services, and learning tools, both of a pedagogical, psychosocial, managerial and operative nature and other ancillary support tools, as required in the State colleges, schools and educational institutions, and to encourage and facilitate their networking and cooperation.
+
+(2) In particular, this Directorate shall:
+
+(a) in conjunction with the Colleges and schools, plan, monitor and ensure the operation of Colleges and schools and shall strongly support the fulfilment of the functions and the targets of the Directorate for Quality and Standards in Education as provided for in this Act, giving priority to both services and support that ensure the development of students' potential and skills, the implementation of the National Curriculum Framework, and the development of the identity and the ethos of the Colleges;
+
+(b) ensure the development of the building, the modernisation and the regular maintenance of schools and educational facilities, and ensure effective systems of capital projects management and maintenance in school buildings;
+
+(c) allocate to the Colleges and to the schools such buildings, including sports facilities, educational and cultural spaces, furniture, equipment, technology, science, communications and information technology laboratories, and other tools, which would be needed with an aim of making the best use of them as teaching and learning tools;
+
+(d) within the limits of that which is possible to place students in schools according to their needs and potential;
+
+(e) anticipate the needs of professional staff, including teachers and other human resources, and collaborate with the Directorate for Quality and Standards in Education, with the University of Malta, with the Malta College of Arts, Science and Technology, and with other institutions, public and private, in order to ensure the training and development of teaching and non-teaching personnel according to their needs;
+
+(f) in conjunction with the Colleges, to ensure the engagement of the professional, administrative and support personnel in the light of the students' needs and of the particular programmes of each school;
+
+(g) promote, encourage and monitor the democratic governance of schools through School Councils with
 
 [[END OF PAGE 7]]
 
@@ -301,7 +300,7 @@ EDUCATION
 
 the active participation of parents, teachers and students;
 
-( h ) promote, support, coordinate and ensure lifelong learning services and initiatives, including educational and cultural initiatives within the community, elearning and distance learning, adult education, evening classes and other initiatives relating to complementary  education  and  services  for  persons having specific learning difficulties;
+(h) promote, support, coordinate and ensure lifelong learning services and initiatives, including educational and cultural initiatives within the community, e-learning and distance learning, adult education, evening classes and other initiatives relating to complementary education and services for persons having specific learning difficulties;
 
 ( i ) support  and  encourage  schools  and  Colleges  in  the promotion  of  school  library  services,  sports,  drama, music and creative and cultural activities within schools;
 
@@ -319,7 +318,7 @@ the active participation of parents, teachers and students;
 
 ( p ) ensure  the  provision  of  programmes,  services  and human  resources required for a safe and secure environment in schools, for students, teachers and any person who are in the school, the provision of a school transport service which  may  be required for the students;
 
-( q ) support  the  Colleges  in  the  organisation  of  special initiatives  and  projects,  including  those  after  schoolhours;
+(q) support the Colleges in the organisation of special initiatives and projects, including those after school-hours;
 
 ( r ) in the course of the preparation of the business plan of the Directorate, consider and discuss the development plans of Colleges and schools, facilitate formal budgeting  of the Colleges, allocate the  necessary
 
@@ -331,32 +330,32 @@ EDUCATION
 
 [ CAP. 327. 9
 
-finances  within  the  limits  of  Government's  general estimates, and ensure that the allocated funds are being used to finance pre-identified priorities;
+finances within the limits of Government's general estimates, and ensure that the allocated funds are being used to finance pre-identified priorities;
 
-( s ) be ultimately responsible to ensure the  necessary compliance by Colleges and schools with the government  financial  and  audit  policies,  procedures and regulations;
+(s) be ultimately responsible to ensure the necessary compliance by Colleges and schools with the government financial and audit policies, procedures and regulations;
 
-( t ) communicate  the  framework  and  the  guidelines  as approved  by  the  Minister  concerning  the  working conditions of the personnel employed by Colleges and schools  and  keep  the  necessary  information,  records and documentation of such personnel and of financial transactions, including those relating to the payment of salaries;
+(t) communicate the framework and the guidelines as approved by the Minister concerning the working conditions of the personnel employed by Colleges and schools and keep the necessary information, records and documentation of such personnel and of financial transactions, including those relating to the payment of salaries;
 
-( u ) administer State aid to non-State schools;
+(u) administer State aid to non-State schools;
 
-( v ) ensure  the  fullest  possible  application  and  use  of systems of information technology in the administration and operation of Colleges and schools;
+(v) ensure the fullest possible application and use of systems of information technology in the administration and operation of Colleges and schools;
 
-( w ) ensure  a  customer  care  service  at  national  level  for students,  parents  and  staff  of  State  and  Non-State schools and provide guidance and clear procedures on how complaints should be made and be dealt with in an effective manner at the proper level;
+(w) ensure a customer care service at national level for students, parents and staff of State and Non-State schools and provide guidance and clear procedures on how complaints should be made and be dealt with in an effective manner at the proper level;
 
-( x ) carry  out  any  other  function  as  may  be  necessary  for the  attainment  of  the  objectives  and  the  fulfilment  of the  duties  pertaining  to  the  State  as  provided  for  by this Act.
-
-12. Subject to the preceding provisions, every Directorate shall also:
-
-( a ) sustain an effective dialogue with whosoever is involved  in  the  educational  system  and  aim  for  the widest consensus possible about any matter which may be relevant to education;
-
-( b ) cooperate with local and foreign institutions,  and encourage and facilitate a better participation in programmes, scholarships, and the international exchange of students and personnel, particularly in the institutions and programmes of the European Union;
-
-( c ) keep informed and updated any person who is involved in  the  workings  of  the  Directorates  with  Government policy,  strategy  and  priorities  related  to  education within  the  country,  and  verify  that  these  are  being followed and implemented;
-
-( d ) generally  give  advice  to  the  Minister  on  any  matter relating  to  education and  perform  any  other  function, such  as  those  provided  under  this  law  or  under  any other  law  that  the  Minister  may  from  time  to  time assign to the Directorate.
+(x) carry out any other function as may be necessary for the attainment of the objectives and the fulfilment of the duties pertaining to the State as provided for by this Act.
 
 ##### Common duties for all Directorates.
 Added by: XIII. 2006.6.
+
+12. Subject to the preceding provisions, every Directorate shall also:
+
+(a) sustain an effective dialogue with whosoever is involved in the educational system and aim for the widest consensus possible about any matter which may be relevant to education;
+
+(b) cooperate with local and foreign institutions, and encourage and facilitate a better participation in programmes, scholarships, and the international exchange of students and personnel, particularly in the institutions and programmes of the European Union;
+
+(c) keep informed and updated any person who is involved in the workings of the Directorates with Government policy, strategy and priorities related to education within the country, and verify that these are being followed and implemented;
+
+(d) generally give advice to the Minister on any matter relating to education and perform any other function, such as those provided under this law or under any other law that the Minister may from time to time assign to the Directorate.
 
 [[END OF PAGE 9]]
 
@@ -371,38 +370,38 @@ EDUCATION
 ##### Respect for the diversity of educational institutions.
 Added by: XIII. 2006.6.
 
+13. The Directorates shall, subject to their functions, respect the diversity of educational institutions, services and programmes, and dialogue and collaborate with other colleges, schools, agencies and institutions, public and private, local and foreign, about policies, initiatives and projects in order to ensure that the whole system operates effectively within the country.
+
 ##### Appointment of Directors General.
 Added by: XIII. 2006.6.
+
+14. The Directors General of the Directorates mentioned in the preceding articles in this Part of this Act shall be appointed by the Prime Minister for a period of three years under such terms and conditions as may be stated in the letter of appointment. The appointment of a Director General shall be made after a public call for which there may apply such persons who have the qualifications, the educational experience and the qualities necessary for the management of these Directorates. When a term of office expires, such person may be re-appointed for a further period or periods.
 
 ##### Directors General to be responsible for Officers, etc.
 Added by: XIII. 2006.6.
 
+15. Without prejudice to the provisions of this Act, the executive management, the administration and the administrative control of the officers and employees of the Directorates shall be the responsibility of the Directors General.
+
 ##### Exchange of information between the Directorates.
 Added by: XIII. 2006.6.
+
+16. (1) Every Directorate may request, collect and verify any information, data and statistics, as may be required for the performance of its functions.
+
+(2) A Directorate shall have access to all information which another Directorate, the Colleges and schools may possess, and is entitled to request and obtain all data it may require from students, parents, personnel and from public and private educational institutions, and this data should be given to it within a reasonable time from the date of request.
+
+(3) Every Directorate shall have access to other statistics and data of an economic and social nature as required in order that it may perform its functions according to this Act.
 
 ##### Permanent Committee for Education.
 Added by: XIII. 2006.6.
 
+17. (1) There shall be a committee to be known as the Permanent Committee for Education, presided by the Minister, to discuss and evaluate the policy, the strategy and the direction and the developments in the education sector, to facilitate and ensure the effective collaboration and coordination between the entities established under this Act, their agencies, and other public and private educational institutions, and to monitor and follow the implementation of the educational policy and strategy adopted by the Government.
+
+(2) The Committee shall be composed as provided for in Schedule IV, and the Minister may by regulations amend this Schedule, and provide for any other matter or procedure he may deem necessary for the better implementation of the functions of the Committee.
+
 ##### Education Inspectorate.
 Added by: XIII. 2006.6.
 
-13. The  Directorates  shall,  subject  to  their  functions,  respect the diversity of educational institutions, services and programmes, and dialogue and collaborate with other colleges, schools, agencies and institutions, public and private, local and foreign, about policies, initiatives and projects in order to ensure that the whole system operates effectively within the country.
-
-14. The Directors General of the Directorates mentioned in the preceding articles in this Part of this Act shall be appointed by the Prime Minister for a period of three years under such terms and conditions as may be stated in the letter of appointment. The appointment of a Director General shall be made after a public call f o r   w h i c h   t h e r e   m a y   a p p l y   s u c h   p e r s o n s   w h o   h a v e   t h e qualifications, the educational experience and the qualities necessary for the management of these Directorates. When a term of office expires, such person may be re-appointed for a further period or periods.
-
-15. Without prejudice to the provisions of this Act, the executive management, the administration and the administrative control of the officers and employees of the Directorates shall be the responsibility of the Directors General.
-
-16. (1) Every Directorate may request, collect and verify any i nformation, data and statistics, as may be required for the performance of its functions.
-
-(2) A  Directorate  shall  have  access  to  all  information  which another Directorate, the Colleges and schools may possess, and is entitled to request and obtain all data it may require from students, parents, personnel and from public and private educational institutions, and this data should be given to it within a reasonable time from the date of request.
-
-(3) Every Directorate  shall  have  access  to  other  statistics  and data of an economic and social nature as required in order that it may perform its functions according to this Act.
-
-17. (1) There  shall  be  a  committee  to  be  known  as  the Permanent Committee for Education, presided by the Minister, to discuss and evaluate the policy, the strategy and the direction and the developments in the education sector, to facilitate and ensure the effective collaboration and coordination between the entities established under this Act, their agencies, and other public and private educational institutions, and to monitor and follow the implementation of the educational policy and strategy adopted by the Government.
-
-(2) The  Committee  shall  be  composed  as  provided  for  in Schedule IV, and the Minister may by regulations amend this Schedule, and provide for any other matter or procedure he may deem necessary for the better implementation of the functions of the Committee.
-
-18. (1) The Directorate for Quality and Standards in Education shall have an Educational Inspectorate which provides a professional service of support, guidance, monitoring, inspection, evaluation and reporting on the process of teaching in schools, on the application of the curriculum , syllabi, pedagogy, assessment and examinations, and on the administration, and on the assurance and auditing of quality in Colleges and schools.
+18. (1) The Directorate for Quality and Standards in Education shall have an Educational Inspectorate which provides a professional service of support, guidance, monitoring, inspection, evaluation and reporting on the process of teaching in schools, on the application of the curriculum, syllabi, pedagogy, assessment and examinations, and on the administration, and on the assurance and auditing of quality in Colleges and schools.
 
 [[END OF PAGE 10]]
 
@@ -412,30 +411,31 @@ EDUCATION
 
 [ CAP. 327. 11
 
-(2) The  Director  General  of  the  Directorate  mentioned  in  the preceding subarticle shall have such Education Officers and other officers as necessary for the execution of the functions of the Education Inspectorate and those other functions which are related to the general implementation of this Act or of any regulations made thereunder, and also to perform such work as may be necessary to assure and audit the quality in Colleges and schools, and to perform such duties as may be assigned to them by the Director General.
+(2) The Director General of the Directorate mentioned in the preceding subarticle shall have such Education Officers and other officers as necessary for the execution of the functions of the Education Inspectorate and those other functions which are related to the general implementation of this Act or of any regulations made thereunder, and also to perform such work as may be necessary to assure and audit the quality in Colleges and schools, and to perform such duties as may be assigned to them by the Director General.
 
-19. (1) Such  officers,  with  relevant  qualifications  as  may  be necessary and duly authorised in writing by the Director General of the Directorate for Quality and Standards in Education, shall have t he power to enter in any College, school, class or place of instruction, and inspect and report on the teaching process, the physical environment, and the observance of the conditions, standards, policies and regulations established and made by virtue of this Act.
-
-(2) Colleges,  schools  and  educational  institutions,  public  and private, shall provide any information and access requested by these officers as they may deem necessary for the implementation of the functions of the Directorate for Quality and Standards in Education.
-
-20. (1) Any person shall have the right to apply to the Minister for the grant of a licence to establish a school.
-
-(2) The  Minister  shall  grant  the  licence  mentioned  in  subarticle (1) where -
-
-( a ) the  applicant  is  the  Catholic  Church  or  any  other voluntary  society,  religious  or  otherwise,  of  a  nonprofit making character; and
-
-( b ) the school conforms with the national  minimum conditions.
-
-(3) In the case of any other application for a licence under this article, being an application not falling under the provisions of subarticle (2), the Minister may grant the licence if he deems this to be in the public interest.
-
-(4) The applicant for a licence under this article who intends to establish a school which is to be a body corporate with a separate statute shall make a declaration to that effect in his application, which shall be accompanied by a copy of the statute, and the grant of a licence to the applicant who makes such a declaration will be deemed conclusive evidence that the school is a body corporate.
-
-(5) Any  licence  granted  under  the  provisions  of  this  article shall be in the name of the head of school in his personal capacity or in representation of a body of persons, as the case may be, and
 ##### Power of entry and of inspection.
 Added by: XIII. 2006.6.
 
+19. (1) Such officers, with relevant qualifications as may be necessary and duly authorised in writing by the Director General of the Directorate for Quality and Standards in Education, shall have the power to enter in any College, school, class or place of instruction, and inspect and report on the teaching process, the physical environment, and the observance of the conditions, standards, policies and regulations established and made by virtue of this Act.
+
+(2) Colleges, schools and educational institutions, public and private, shall provide any information and access requested by these officers as they may deem necessary for the implementation of the functions of the Directorate for Quality and Standards in Education.
+
 ##### Licences to establish schools.
 Amended by: XIII. 2006.7, 8; XXIII. 2009.63.
+
+20. (1) Any person shall have the right to apply to the Minister for the grant of a licence to establish a school.
+
+(2) The Minister shall grant the licence mentioned in sub-article (1) where -
+
+(a) the applicant is the Catholic Church or any other voluntary society, religious or otherwise, of a non-profit making character; and
+
+(b) the school conforms with the national minimum conditions.
+
+(3) In the case of any other application for a licence under this article, being an application not falling under the provisions of sub-article (2), the Minister may grant the licence if he deems this to be in the public interest.
+
+(4) The applicant for a licence under this article who intends to establish a school which is to be a body corporate with a separate statute shall make a declaration to that effect in his application, which shall be accompanied by a copy of the statute, and the grant of a licence to the applicant who makes such a declaration will be deemed conclusive evidence that the school is a body corporate.
+
+(5) Any licence granted under the provisions of this article shall be in the name of the head of school in his personal capacity or in representation of a body of persons, as the case may be, and
 
 [[END OF PAGE 11]]
 
@@ -455,7 +455,7 @@ Provided  that  an  application  for  a  licence  to  establish  a school shall 
 
 Provided  further  that  in  the  case  of  an  application  made under subarticle (2), an application for a licence to establish a school shall not be deemed to have been submitted by the Catholic Church if such application is not signed by the Bishops in Ordinary of these Islands or authorised by them in writing.
 
-(7) Where the head of school in whose name there is a licence under the provisions of this article ceases to be the head of school for any reason whatsoever, the following provisions of this subarticle shall apply:
+(7) Where the head of school in whose name there is a licence under the provisions of this article ceases to be the head of school for any reason whatsoever, the following provisions of this sub-article shall apply:
 
 ( a ) where the licence is in the name of that head of school in  his  personal  capacity,  a  fresh  application  for  a licence shall be made in accordance with the provisions of this article;
 
@@ -463,7 +463,7 @@ Provided  further  that  in  the  case  of  an  application  made under subartic
 
 (8) Where no application as required by sub-article (7)( a ) or no notice as required by paragraph ( b ) of that sub-article is made or given within three months from the date on which the head of school in whose name is the licence ceases to hold that office, that licence shall be deemed to have been cancelled on the date of the lapse of that period of three months.
 
-(9) In  considering  any  application  for  a  licence  under  this article, the Minister shall consult the Directorate for Quality and Standards in Education should the request be in respect of a school at an early or compulsory education level, and the National Commission for Higher Education should the request be in respect of a school at a further or higher education level:
+(9) In considering any application for a licence under this article, the Minister shall consult the Directorate for Quality and Standards in Education should the request be in respect of a school
 
 [[END OF PAGE 12]]
 
@@ -473,19 +473,32 @@ EDUCATION
 
 [ CAP. 327. 13
 
-Provided  that  where  an  applicant  for  a  licence  is  already licensed or otherwise legally established in a Member State, the Minister, in compliance with Directive 2006/123 of the European Parliament and of the Council of 12 December, 2006 on services in the internal market, shall not duplicate requirements or controls which are equivalent or essentially comparable as regards their purpose to which the applicant may already be subject to in another Member State.
+at an early or compulsory education level, and the National Commission for Higher Education should the request be in respect of a school at a further or higher education level:
 
-(10) Where  an  application has  been  refused,  suspended  or cancelled, the applicant for a licence may appeal to the Court of Appeal (Inferior Jurisdiction) according to the provisions of article 127.
+Provided that where an applicant for a licence is already licensed or otherwise legally established in a Member State, the Minister, in compliance with Directive 2006/123 of the European Parliament and of the Council of 12 December, 2006 on services in the internal market, shall not duplicate requirements or controls which are equivalent or essentially comparable as regards their purpose to which the applicant may already be subject to in another Member State.
 
-(11) An appeal under sub-article  (10) shall  be  made in  writing within two months from the date on which the decision refusing the application or the decision suspending or withdrawing the licence was notified to the applicant or from the date of the lapse of the period of three months mentioned in sub-article (6), as the case may be.
+(10) Where an application has been refused, suspended or cancelled, the applicant for a licence may appeal to the Court of Appeal (Inferior Jurisdiction) according to the provisions of article 127.
 
-21. The Minister, for the purposes of this Act,  shall  have the right to inspect every school and shall have the right to supervise the administration of every school.
+(11) An appeal under sub-article (10) shall be made in writing within two months from the date on which the decision refusing the application or the decision suspending or withdrawing the licence was notified to the applicant or from the date of the lapse of the period of three months mentioned in sub-article (6), as the case may be.
+
+##### Minister's right to supervise schools.
+Amended by: XIII. 2006.7.
+
+21. The Minister, for the purposes of this Act, shall have the right to inspect every school and shall have the right to supervise the administration of every school.
+
+##### Minister to represent State.
+Amended by: XIII. 2006.7.
 
 22. Wherever under the provisions of this Act a right or a duty is vested in or imposed on the State, that right or duty shall be exercised or fulfilled by the Minister.
+
+Added by: XIII. 2006.9.
 
 ### PART III
 
 #### The Teachers' Profession
+
+##### Interpretation.
+Added by: XIII. 2006.9.
 
 23. Without prejudice to the provisions of this Act, in this Part, insofar as the context does not otherwise require:
 
@@ -493,19 +506,9 @@ Provided  that  where  an  applicant  for  a  licence  is  already licensed or o
 
 "the Council" means the Council for the Teaching Profession in Malta established by article 26;
 
-"to practise" in relation to the teaching profession includes the t a k i n g   u p   o r   p u r s u i t   o f   t h e   t e a c h i n g   p r o f e s s i o n   i n   M a l t a   a t compulsory education level bound by the curriculum in a licensed school;
+"to practise" in relation to the teaching profession includes the taking up or pursuit of the teaching profession in Malta at compulsory education level bound by the curriculum in a licensed school;
 
 "professional and ethical standards" includes standards relating to the general conduct of a member of the teaching profession,
-##### Minister's right to supervise schools.
-Amended by: XIII. 2006.7.
-
-##### Minister to represent State.
-Amended by: XIII. 2006.7.
-
-Added by: XIII. 2006.9.
-
-##### Interpretation.
-Added by: XIII. 2006.9.
 
 [[END OF PAGE 13]]
 
@@ -516,9 +519,6 @@ Added by: XIII. 2006.9.
 CAP. 327. ]
 
 EDUCATION
-
-##### Warrant required to practise profession.
-Added by: XIII. 2006.9.
 
 including the behaviour of such member towards his students, during or consequential to the exercise of his profession, and behaviour of such member towards other members of his profession, towards other persons assisting teachers in the exercise of their profession, and towards society;
 
@@ -534,23 +534,26 @@ Provided that, for the purposes of this Part, and insofar as not otherwise provi
 
 "temporary warrant" means a temporary warrant issued under article 25.
 
+##### Warrant required to practise profession.
+Added by: XIII. 2006.9.
+
 24. (1) Subject to the provisions of this Part, no person shall exercise the teaching profession against remuneration or hold himself to be professionally qualified to do so unless such person is the holder of a warrant issued under this Act.
 
-(2) A  person  shall  not  qualify  for  a  warrant  unless  such person -
+(2) A person shall not qualify for a warrant unless such person -
 
-( a ) is a Maltese citizen, or is otherwise permitted to work in Malta under any law; and
+(a) is a Maltese citizen, or is otherwise permitted to work in Malta under any law; and
 
-( b ) is of good conduct; and
+(b) is of good conduct; and
 
-( c ) has full legal capacity; and
+(c) has full legal capacity; and
 
-( d ) is in possession of -
+(d) is in possession of -
 
 (i) a Degree of Bachelor in Education; or
 
-(ii) a  Degree  of  Bachelor  together  with  a  PostGraduate Certificate in Education; or
+(ii) a Degree of Bachelor together with a Post-Graduate Certificate in Education; or
 
-(iii) a Doctorate, or a  Bachelor's  Degree  and  a
+(iii) a Doctorate, or a Bachelor's Degree and a
 
 [[END OF PAGE 14]]
 
@@ -560,31 +563,31 @@ EDUCATION
 
 [ CAP. 327. 15
 
-Master's Degree, together with a certificate of a pedagogical course organised by the Directorate for  Educational  Services  established  by  article 10 or by any other institution which is recognised by the Council; or
+Master's Degree, together with a certificate of a pedagogical course organised by the Directorate for Educational Services established by article 10 or by any other institution which is recognised by the Council; or
 
 (iv) any other professional qualification as the Council may deem comparable; and
 
-( e ) satisfies  the  Council  that  he  has  received  adequate experience  in  the  practice  of  the  teaching  profession under supervision in a licensed school, or in any other manner  as  the  Council  may  decide,  for  an  aggregate period of at least two scholastic years full-time or its equivalent  in  part-time  following  the  completion  of such degree or such other professional qualification as hereabove  mentioned,  and  for  the  purposes  of  this paragraph the practice by such teacher of the profession to acquire the above mentioned experience shall be deemed to be practice in accordance with this Act.
+(e) satisfies the Council that he has received adequate experience in the practice of the teaching profession under supervision in a licensed school, or in any other manner as the Council may decide, for an aggregate period of at least two scholastic years full-time or its equivalent in part-time following the completion of such degree or such other professional qualification as hereabove mentioned, and for the purposes of this paragraph the practice by such teacher of the profession to acquire the above mentioned experience shall be deemed to be practice in accordance with this Act.
 
-(3) The  Post-Graduate  Certificate  in  Education,  Bachelor's Degree, Masters Degree and Doctorate mentioned in paragraph ( d )(i), (ii) and (iii) in the preceding subarticle shall be a PostGraduate Certificate in Education, a Bachelor's Degree, a Master's Degree and a Doctorate awarded by the University of Malta.
+(3) The Post-Graduate Certificate in Education, Bachelor's Degree, Masters Degree and Doctorate mentioned in paragraph (d)(i), (ii) and (iii) in the preceding subarticle shall be a Post-Graduate Certificate in Education, a Bachelor's Degree, a Master's Degree and a Doctorate awarded by the University of Malta.
 
 (4) The Minister may prescribe, instead of any of the requirements established under the foregoing provisions of this article, other requirements in terms of any international or multinational treaty or agreement entered into by Malta or with the provisions of any legislation the binding force of which derives from any such treaty or agreement.
 
-(5) Without  prejudice  to  any  provision  made  by  or  under  the Mutual Recognition of Qualifications Act, where the duration of a course leading to the professional qualification possessed by an applicant is less than the duration for the course leading to the Degree conferred by the University of Malta or when the experience referred to in subarticle (2)( e ) is less than two years, the Council may require the applicant to undertake such adaptation period not exceeding twice the shortfall, as the Council may specify. In addition the Council may also submit the applicant to a proficiency test.
-
-25. Notwithstanding  anything  contained  in  the  provisions  of this Part, the Minister may award a temporary warrant having a validity of one year, that may be renewed to any person who, in the discretion of the Minister, has the necessary proficiency to teach in Malta.
-
-26. (1) There shall be a Council to  be known as the Council for the Teaching Profession, which shall be composed of the following members:
-
-( a ) a  President  appointed  by  the  Minister  from  amongst persons who have served, or who have the
-
 Cap. 451.
+
+(5) Without prejudice to any provision made by or under the Mutual Recognition of Qualifications Act, where the duration of a course leading to the professional qualification possessed by an applicant is less than the duration for the course leading to the Degree conferred by the University of Malta or when the experience referred to in subarticle (2)(e) is less than two years, the Council may require the applicant to undertake such adaptation period not exceeding twice the shortfall, as the Council may specify. In addition the Council may also submit the applicant to a proficiency test.
 
 ##### Temporary warrant.
 Added by: XIII. 2006.9.
 
+25. Notwithstanding anything contained in the provisions of this Part, the Minister may award a temporary warrant having a validity of one year, that may be renewed to any person who, in the discretion of the Minister, has the necessary proficiency to teach in Malta.
+
 ##### Council for the Teaching Profession in Malta.
 Added by: XIII. 2006.9.
+
+26. (1) There shall be a Council to be known as the Council for the Teaching Profession, which shall be composed of the following members:
+
+(a) a President appointed by the Minister from amongst persons who have served, or who have the
 
 [[END OF PAGE 15]]
 
@@ -640,22 +643,22 @@ EDUCATION
 
 (12) The Council shall keep a true and correct record of all its proceedings and the Council shall give to the Minister such information as he may require.
 
-27. (1) Without  prejudice  to  its  other  powers  and  functions, the Council shall regulate the practice of the teaching profession in Malta, and in particular to -
-
-( a ) keep  under  review  and  assess  education  and  training standards  and  on  the  fitness  to  teach  of  each  person who chooses to practise the teaching profession;
-
-( b ) advise the Minister in relation to these standards, the initial and continuing training of teachers, proficiency, experience and qualifications required for holding and retaining a warrant under this Act;
-
-( c ) consider and advise the Minister with regard to applications for comparability and recognition of teaching qualifications;
-
-( d ) promote  and  encourage  initiatives  which  ensure  a continuing professional training and development programme for warrant holders;
-
-( e ) examine  applications  for  a  warrant  to  practise  the teaching profession and make recommendations to the Minister on the award or refusal thereof;
-
-( f ) keep an official register of all registered teachers and another register of those holding a temporary warrant given under article 25, and record therein any
-
 ##### Functions of the Council.
 Added by: XIII. 2006.9.
+
+27. (1) Without prejudice to its other powers and functions, the Council shall regulate the practice of the teaching profession in Malta, and in particular to -
+
+(a) keep under review and assess education and training standards and on the fitness to teach of each person who chooses to practise the teaching profession;
+
+(b) advise the Minister in relation to these standards, the initial and continuing training of teachers, proficiency, experience and qualifications required for holding and retaining a warrant under this Act;
+
+(c) consider and advise the Minister with regard to applications for comparability and recognition of teaching qualifications;
+
+(d) promote and encourage initiatives which ensure a continuing professional training and development programme for warrant holders;
+
+(e) examine applications for a warrant to practise the teaching profession and make recommendations to the Minister on the award or refusal thereof;
+
+(f) keep an official register of all registered teachers and another register of those holding a temporary warrant given under article 25, and record therein any
 
 [[END OF PAGE 17]]
 
@@ -667,30 +670,30 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Warrants.
-Added by: XIII. 2006.9. Amended by: XXIII. 2009.64.
-
 suspension, cancellation and reinstatement of a warrant;
 
-( g ) keep an official register of all teachers' partnerships;
+(g) keep an official register of all teachers' partnerships;
 
-( h ) keep such information as may be required in relation to  associations  representing  teachers  in  Malta  and which are registered under the provisions of this Act;
+(h) keep such information as may be required in relation to associations representing teachers in Malta and which are registered under the provisions of this Act;
 
-( i ) make  recommendations  to  the  Minister,  following consultation with the associations registered under the provisions  of  this  Act,  on  the  code  of  professional standards  and  ethics  that  may  be  prescribed  for  the professional behaviour of teachers which among other things shall  include  references  to  the  respect  towards and  the  promotion  of  fundamental  values  in  life  that are enshrined in the Constitution and in the laws of the land;
+(i) make recommendations to the Minister, following consultation with the associations registered under the provisions of this Act, on the code of professional standards and ethics that may be prescribed for the professional behaviour of teachers which among other things shall include references to the respect towards and the promotion of fundamental values in life that are enshrined in the Constitution and in the laws of the land;
 
-( j ) inquire into any allegation of professional misconduct, gross negligence or incompetence by a teacher;
+(j) inquire into any allegation of professional misconduct, gross negligence or incompetence by a teacher;
 
-( k ) advise the Minister on any matter on which the opinion of the Council is sought by the Minister, including any advice on persons who practise the teaching profession while holding a temporary warrant;
+(k) advise the Minister on any matter on which the opinion of the Council is sought by the Minister, including any advice on persons who practise the teaching profession while holding a temporary warrant;
 
-( l ) perform  such  other  functions  as  may  arise  from  this Act or any other law, or as may be assigned to it by the Minister.
+(l) perform such other functions as may arise from this Act or any other law, or as may be assigned to it by the Minister.
 
-(2) The Council shall, not later than three months after the end of each year, publish in the Gazette a list of persons or partnerships who on the 31 st December of the said year, were registered for the first time in the register of teachers or in the register of partnerships of teachers.
+(2) The Council shall, not later than three months after the end of each year, publish in the Gazette a list of persons or partnerships who on the 31st December of the said year, were registered for the first time in the register of teachers or in the register of partnerships of teachers.
 
 (3) The Council shall, in the performance of its functions, keep in consideration the public interest, and draw up and publish a report every three years concerning its activities in general.
 
+##### Warrants.
+Added by: XIII. 2006.9. Amended by: XXIII. 2009.64.
+
 28. (1) Any person seeking to obtain a warrant to practise the teaching profession in Malta shall make an application to the Council which shall be accompanied by all information and relevant documents in support of the application, including certificates issued by the competent authority about the comparability of qualifications and certificates of their authenticity as the Council may require:
 
-Provided  that  an  application  made  under  this  article  shall not be deemed to have been filed by an applicant unless it is duly filled in and accompanied with all required information and documentation.
+Provided that an application made under this article shall not be deemed to have been filed by an applicant unless it is duly filled in and accompanied with all required information and documentation.
 
 (2) The Council shall make a recommendation to the Minister for the issue of a warrant as soon as it is satisfied that the applicant satisfies the minimum requirements established under this Act.
 
@@ -704,33 +707,33 @@ EDUCATION
 
 [ CAP. 327. 19
 
-(4) For  the  purpose  of  establishing  whether  an  applicant  has successfully completed his training as aforesaid, the Council may submit the applicant to a proficiency test under the provisions of this Act or under regulations issued thereunder.
+(4) For the purpose of establishing whether an applicant has successfully completed his training as aforesaid, the Council may submit the applicant to a proficiency test under the provisions of this Act or under regulations issued thereunder.
 
 (5) The Council shall regularly draw the attention of registered teachers to their obligation to periodically carry out programmes of continuous professional development and of up-dating necessary for the standards and the fitness to teach.
 
 (6) The Council shall also periodically request registered teachers to provide it with the necessary information showing which programmes they have followed.
 
-(7) Whenever  the  case  may  be,  the  Council  shall  draw  the attention of a registered teacher of his failure to fulfil this obligation as provided for in this article and shall give him reasonable time to comply therewith.
+(7) Whenever the case may be, the Council shall draw the attention of a registered teacher of his failure to fulfil this obligation as provided for in this article and shall give him reasonable time to comply therewith.
 
 (8) When a registered teacher continues to ignore the request of the Council to follow programmes of continuous professional development and of updating, the warrant pertaining to the warrant holder may be suspended until such time as the warrant holder proves that he is fulfilling the requirements of the obligation provided for in this article.
-
-29. The Council shall consider and make its recommendations on an application for a warrant to practise the teaching profession as soon as is reasonably practicable, but in no case later than four months from the receipt of the application. On making its recommendations to the Minister, the Council shall concurrently notify the applicant of its recommendations, together with the reasons upon which these were based.
-
-30. (1) A person shall  not  be  qualified  to  obtain  or  shall  not retain a warrant in terms of this Act if such person has been convicted by any court of criminal jurisdiction:
-
-( a ) for any  crime  liable  to  imprisonment  for  a  term exceeding one year; or
-
-( b ) of  having  abused  the  students'  trust  or  having  used violence in their regard; or
-
-( c ) of any crime because of which such person may not, in the  Council's  opinion,  be  fit  to  practise  the  teaching profession in a school.
-
-(2) Where a person loses his warrant following a conviction as is referred to in the preceding subarticle, notice of such loss shall be given by the Minister in the Gazette and shall be communicated by the Council to the person disqualified, unless such person has been interdicted by the judgement itself, and to the Principal of the College and to the Head of school where such person is employed as the case may be.
 
 ##### The Council to assess application for warrant.
 Added by: XIII. 2006.9.
 
+29. The Council shall consider and make its recommendations on an application for a warrant to practise the teaching profession as soon as is reasonably practicable, but in no case later than four months from the receipt of the application. On making its recommendations to the Minister, the Council shall concurrently notify the applicant of its recommendations, together with the reasons upon which these were based.
+
 ##### Loss of warrant.
 Added by: XIII. 2006.9.
+
+30. (1) A person shall not be qualified to obtain or shall not retain a warrant in terms of this Act if such person has been convicted by any court of criminal jurisdiction:
+
+(a) for any crime liable to imprisonment for a term exceeding one year; or
+
+(b) of having abused the students' trust or having used violence in their regard; or
+
+(c) of any crime because of which such person may not, in the Council's opinion, be fit to practise the teaching profession in a school.
+
+(2) Where a person loses his warrant following a conviction as is referred to in the preceding subarticle, notice of such loss shall be given by the Minister in the Gazette and shall be communicated by the Council to the person disqualified, unless such person has been interdicted by the judgement itself, and to the Principal of the College and to the Head of school where such person is employed as the case may be.
 
 [[END OF PAGE 19]]
 
@@ -763,7 +766,7 @@ Added by: XIII. 2006.9.
 
 (3) Any teacher who is the subject of any inquiry carried out by the Council shall be given all the opportunity to make his defence and bring any evidence in his favour and for such purpose he may be represented by a lawyer or by any other person of his choice.
 
-- On finalising the inquiry the Council shall -
+(4) On finalising the inquiry the Council shall -
 
 ( a ) if it finds in favour of the teacher, dismiss the case; or
 
@@ -793,39 +796,42 @@ EDUCATION
 
 [ CAP. 327. 21
 
+Cap. 273.
+
 (7) For the purposes of this article, the members of the Council have the powers that are or may be conferred under the Inquiries Act, and shall conduct their inquiry as provided for in the same Act.
-
-32. (1) Any person who feels aggrieved by the decision of the Minister, following the recommendations of the Council to refuse an application for the issuing of a warrant, or where no decision has been notified to the applicant within the time established in article 29, or whereby a warrant is to be suspended or cancelled, under the provisions of this Part, may, within twenty-one days of the notification given to the Minister, appeal to the Court of Appeal in its inferior jurisdiction.
-
-(2) Notwithstanding  that  an  appeal  has been  instituted in accordance with the provisions of this article, the warrant shall be considered as suspended or cancelled, as the case may be, pending the final decision of the Court of Appeal.
-
-(3) The Minister responsible for justice may make regulations prescribing the fees that shall be payable in the Registry of the Court in connection with appeals under this article:
-
-Provided that  until  such  time  as  fees  are  so  prescribed  by the Minister responsible for justice, the fees payable with respect to appeals to that Court shall be the fees applicable to the Court of Magistrates (Malta).
-
-(4) The  Board  established  under  article  29  of  the  Code  of Organization and Civil Procedure shall make rules establishing the form of such appeals and any other matters related thereto.
-
-33. The Minister may, on the recommendation of the Council, and upon application to this effect, restore the warrant to a person who is disqualified to hold or who forfeits such warrant in terms of article  30,  or  remove  such  suspension or cancellation as recommended in terms of article 31, if the applicant meets such requirements that may be prescribed. Where the warrant of the teacher has been reinstated, such teacher is to be again registered in the official register.
-
-33A. Any person established in a Member State may practise the profession of teacher in Malta on a temporary and occasional basis provided that the provisions of Part II of the Recognition of Professional Qualifications Regulations, 2007 are satisfied.
-
-34. (1) An association of teachers is an association of teachers established with the primary aim of promoting the principles, values and standards related to the practice of the teaching profession.
-
-(2) Any association of teachers may make an application to the Council to be registered as an association of teachers for the Cap. 273.
 
 ##### Appeals.
 Added by: XIII. 2006.9. Amended by: XXIII. 2009.65.
 
+32. (1) Any person who feels aggrieved by the decision of the Minister, following the recommendations of the Council to refuse an application for the issuing of a warrant, or where no decision has been notified to the applicant within the time established in article 29, or whereby a warrant is to be suspended or cancelled, under the provisions of this Part, may, within twenty-one days of the notification given to the Minister, appeal to the Court of Appeal in its inferior jurisdiction.
+
+(2) Notwithstanding that an appeal has been instituted in accordance with the provisions of this article, the warrant shall be considered as suspended or cancelled, as the case may be, pending the final decision of the Court of Appeal.
+
+(3) The Minister responsible for justice may make regulations prescribing the fees that shall be payable in the Registry of the Court in connection with appeals under this article:
+
+Provided that until such time as fees are so prescribed by the Minister responsible for justice, the fees payable with respect to appeals to that Court shall be the fees applicable to the Court of Magistrates (Malta).
+
 Cap. 12.
+
+(4) The Board established under article 29 of the Code of Organization and Civil Procedure shall make rules establishing the form of such appeals and any other matters related thereto.
 
 ##### Minister may reinstate warrant.
 Added by: XIII. 2006.9.
 
+33. The Minister may, on the recommendation of the Council, and upon application to this effect, restore the warrant to a person who is disqualified to hold or who forfeits such warrant in terms of article 30, or remove such suspension or cancellation as recommended in terms of article 31, if the applicant meets such requirements that may be prescribed. Where the warrant of the teacher has been reinstated, such teacher is to be again registered in the official register.
+
 ##### Temporary provision of services.
-Added by: XXIII. 2009.66. L.N. 422 of 2007.
+Added by: XXIII. 2009.66.
+L.N. 422 of 2007.
+
+33A. Any person established in a Member State may practise the profession of teacher in Malta on a temporary and occasional basis provided that the provisions of Part II of the Recognition of Professional Qualifications Regulations, 2007 are satisfied.
 
 ##### Association of teachers.
 Added by: XIII. 2006.9.
+
+34. (1) An association of teachers is an association of teachers established with the primary aim of promoting the principles, values and standards related to the practice of the teaching profession.
+
+(2) Any association of teachers may make an application to the Council to be registered as an association of teachers for the
 
 [[END OF PAGE 21]]
 
@@ -837,33 +843,33 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Partnerships of teachers.
-Added by: XIII. 2006.9.
-
-##### Conditions applying to a partnership.
-Added by: XIII. 2006.9.
-
 purposes of this Act.
 
 (3) An association shall be qualified to be registered under this article if it proves to the Council that it has a membership of at least ten registered teachers and that it conforms with such other conditions as may be prescribed. An association shall submit together with the application a list of members and such other information as the Council may require to process the application.
 
-(4) The Council shall have the power to require any association r e g i s t e r e d   u n d e r   t h i s   a r t i c l e   t o   p r o d u c e   s u c h   r e c o r d s   a n d information regarding the association and its members as the Council may reasonably require from time to time.
+(4) The Council shall have the power to require any association registered under this article to produce such records and information regarding the association and its members as the Council may reasonably require from time to time.
 
-35. (1) Two  or more  warrant holders  may  form a civil partnership, in this Act referred to as a "partnership of teachers", having for its exclusive object the practice of the teaching profession and such powers as are necessary for the attainment of the objects of the partnership.
+##### Partnerships of teachers.
+Added by: XIII. 2006.9.
+
+35. (1) Two or more warrant holders may form a civil partnership, in this Act referred to as a "partnership of teachers", having for its exclusive object the practice of the teaching profession and such powers as are necessary for the attainment of the objects of the partnership.
 
 (2) No person, other than a warrant holder, may be a partner in a partnership of teachers.
 
 (3) Any such partnership shall, when duly formed according to law and on payment of the prescribed fee, be registered with the Council and upon registration the partners shall, for as long as it is so registered, be authorised to act in the name and on behalf of the partnership which shall be entitled to the designation "Teachers" as part of its name.
 
-(4) Every  such  partnership  shall  give  to  the  Council  such information as the Council may reasonably require or as may be prescribed, and shall give notice to the Council of any relevant changes in any information previously given to the Council within fifteen days after the date on which the change occurs.
+(4) Every such partnership shall give to the Council such information as the Council may reasonably require or as may be prescribed, and shall give notice to the Council of any relevant changes in any information previously given to the Council within fifteen days after the date on which the change occurs.
 
-36. Notwithstanding  the  provisions  of  any  other  law  or  any other agreement to the contrary, the following provisions shall apply to a partnership of teachers under this Act:
+##### Conditions applying to a partnership.
+Added by: XIII. 2006.9.
 
-( a ) the partners shall be jointly and severally responsible for the actions and omissions of each and every one of them  in  the  performance  of  their  professional  duties, the maintenance of the required professional standards and  conduct  and  generally  in  the  fulfilment  of  their obligations under this Act or any other applicable law, and  shall  also  be  jointly  and  severally  liable  for  any loss or damage resulting therefrom;
+36. Notwithstanding the provisions of any other law or any other agreement to the contrary, the following provisions shall apply to a partnership of teachers under this Act:
 
-( b ) any act or thing that may be done by a warrant holder may  be  done  by  one  or  more  of  the  partners  in  the name of the partnership; and any act or thing done in the  name  of  the  partnership  shall  be  done  by  one  or more of the partners;
+(a) the partners shall be jointly and severally responsible for the actions and omissions of each and every one of them in the performance of their professional duties, the maintenance of the required professional standards and conduct and generally in the fulfilment of their obligations under this Act or any other applicable law, and shall also be jointly and severally liable for any loss or damage resulting therefrom;
 
-( c ) the responsibilities and liabilities for anything done or omitted to be done during the period in which a person was  a  partner  in  a  partnership  of  teachers  shall  not
+(b) any act or thing that may be done by a warrant holder may be done by one or more of the partners in the name of the partnership; and any act or thing done in the name of the partnership shall be done by one or more of the partners;
+
+(c) the responsibilities and liabilities for anything done or omitted to be done during the period in which a person was a partner in a partnership of teachers shall not
 
 [[END OF PAGE 22]]
 
@@ -873,15 +879,21 @@ EDUCATION
 
 [ CAP. 327. 23
 
-cease,  in  respect  of  such  person,  by  his  retirement, death  or  other  cause  by  which  he  ceases  to  be  a partner.
+cease, in respect of such person, by his retirement, death or other cause by which he ceases to be a partner.
 
-37. The  provisions  of  articles  30,  31  and  32  shall  apply  to partnerships of teachers as they apply mutatis mutandis to teachers.
+##### Applicability of articles to partnerships.
+Added by: XIII. 2006.9.
 
-38. (1) Any  person  who,  for  the  purpose  of  obtaining  a warrant or registering a partnership of teachers under the provisions of this Act, knowingly gives any false information or otherwise acts in a deceitful or fraudulent manner, shall be guilty of an offence and shall, on conviction, be liable to a fine (multa) not exceeding two thousand and three hundred and twenty-nine euro and thirty-seven cents (2,329.37) or to imprisonment not exceeding twelve months or to both such fine and imprisonment.
+37. The provisions of articles 30, 31 and 32 shall apply to partnerships of teachers as they apply mutatis mutandis to teachers.
 
-(2) Any person who is found guilty of any other offence against any provision of this article of this Act shall be liable on conviction to a fine (multa) not exceeding one thousand and one hundred and sixty-four euro and sixty-nine cents (1,164.69), or to three months imprisonment or to both such fine and imprisonment, and in the case of a continuing offence to a fine ( multa ) of eleven euro and sixty-five cents (11.65) for each day during which the offence continues, subject to a maximum of four thousand and six hundred and fifty-eight euro and seventy-five cents (4,658.75).
+##### Offences and penalties.
+Added by: XIII. 2006.9. Amended by: L.N. 424 of 2007.
 
-(3) Any  person  who,  not  being  the  holder  of  a  warrant  or  a temporary warrant issued under this Act, practises the teaching profession or carries out any education practice in contravention of the provisions of this Act, shall be guilty of an offence against this Act.
+38. (1) Any person who, for the purpose of obtaining a warrant or registering a partnership of teachers under the provisions of this Act, knowingly gives any false information or otherwise acts in a deceitful or fraudulent manner, shall be guilty of an offence and shall, on conviction, be liable to a fine (multa) not exceeding two thousand and three hundred and twenty-nine euro and thirty-seven cents (2,329.37) or to imprisonment not exceeding twelve months or to both such fine and imprisonment.
+
+(2) Any person who is found guilty of any other offence against any provision of this article of this Act shall be liable on conviction to a fine (multa) not exceeding one thousand and one hundred and sixty-four euro and sixty-nine cents (1,164.69), or to three months imprisonment or to both such fine and imprisonment, and in the case of a continuing offence to a fine (multa) of eleven euro and sixty-five cents (11.65) for each day during which the offence continues, subject to a maximum of four thousand and six hundred and fifty-eight euro and seventy-five cents (4,658.75).
+
+(3) Any person who, not being the holder of a warrant or a temporary warrant issued under this Act, practises the teaching profession or carries out any education practice in contravention of the provisions of this Act, shall be guilty of an offence against this Act.
 
 (4) Any person who uses the words "Teachers" in relation to a partnership of teachers where such partnership is not registered in accordance with the provisions of this Act, or in any manner whatsoever makes use of a name falsely implying the existence of a partnership of teachers registered as aforesaid shall be guilty of an offence against this Act.
 
@@ -889,13 +901,7 @@ cease,  in  respect  of  such  person,  by  his  retirement, death  or  other  c
 
 (6) Subject to the provisions of subarticle (5), no person or any other organisation shall employ any person other than a registered teacher or a person holding a temporary warrant for the purpose of practising the teaching profession.
 
-(7) The  provisions  of  this  Act  establishing  offences  shall  be without prejudice to the provisions of any other law establishing offences and punishments in respect of the same acts or omissions and shall not, in particular, affect the application of any higher punishment under any other law.
-
-##### Applicability of articles to partnerships.
-Added by: XIII. 2006.9.
-
-##### Offences and penalties.
-Added by: XIII. 2006.9. Amended by: L.N. 424 of 2007.
+(7) The provisions of this Act establishing offences shall be without prejudice to the provisions of any other law establishing offences and punishments in respect of the same acts or omissions and shall not, in particular, affect the application of any higher punishment under any other law.
 
 [[END OF PAGE 23]]
 
@@ -910,37 +916,37 @@ EDUCATION
 ##### Administrative fines.
 Added by: XIII. 2006.9.
 
+39. Where, following an inquiry under the provisions of article 31, the Council finds a teacher guilty of any breach of professional conduct or of the Code of Ethics, the Council may impose such administrative fines as recommended to the Minister and that the Minister may prescribe.
+
 ##### Minister may make regulations.
 Added by: XIII. 2006.9.
 
+40. The Minister may, after consultation with the Council, make regulations not inconsistent with the provisions of this Part of this Act, to give better effect to any of such provisions and generally to regulate the teaching profession, and, without prejudice to the generality of the foregoing, such regulations may in particular include provisions with respect to -
+
+(a) the establishment of standards, practices, procedures and other duties in the exercise of the profession of a teacher;
+
+(b) the professional conduct and code of ethics of teachers and the standards of competency and integrity to be kept by the profession
+
+(c) the requirements, conditions and frequency in relation to the programmes of continuous professional development for the maintenance of a warrant;
+
+(d) the work which can be performed and the services which can be rendered in terms of a warrant, and the terms and conditions which can be attached to such warrant;
+
+(e) the fees that may be charged by the Council in connection with the issue of a warrant, for the making of any registration under this Act, those annual or periodic fees that the Council may deem necessary for its operation under the provisions of this Act;
+
+(f) the fees that may be charged by teachers for their professional services;
+
+(g) the procedures to be followed in cases of professional misconduct;
+
+(h) the engagement of persons who are employed to work in a school by virtue of a temporary warrant;
+
+(i) the forms, conduct certificates and other ancillary matters connected with the application for a warrant, a test to establish the legal capacity, the procedures connected with the nomination of members to the Council, and relating to any other procedure which may be adopted by the Council;
+
+(j) the appointment, composition and procedures of committees or sub-committees which the Council may feel necessary to appoint for any one of its functions;
+
+(k) any matter which is required or is authorised by this Act to be prescribed.
+
 ##### Saving.
 Added by: XIII. 2006.9.
-
-39. Where, following an inquiry under the provisions of article 31, the Council finds a teacher guilty of any breach of professional conduct or of the Code of Ethics, the Council may impose such administrative fines as recommended to the Minister and that the Minister may prescribe.
-
-40. The  Minister  may,  after  consultation  with  the  Council, make regulations not inconsistent with the provisions of this Part of this Act, to give better effect to any of such provisions and generally to regulate the teaching profession, and, without prejudice to the generality of the foregoing, such regulations may in particular include provisions with respect to -
-
-( a ) the  establishment  of  standards,  practices,  procedures and other duties in the exercise of the profession of a teacher;
-
-( b ) the professional conduct and code of ethics of teachers and  the  standards  of  competency  and  integrity  to  be kept by the profession
-
-( c ) the requirements, conditions and frequency in relation to the programmes of continuous professional development for the maintenance of a warrant;
-
-( d ) the  work  which  can  be  performed  and  the  services which can be rendered in terms of a warrant, and the terms  and  conditions  which  can  be  attached  to  such warrant;
-
-( e ) the fees  that  may  be  charged  by  the  Council  in connection with the issue of a warrant, for the making of  any  registration  under  this  Act,  those  annual  or periodic fees that the Council may deem necessary for its operation under the provisions of this Act;
-
-( f ) the  fees  that  may  be  charged  by  teachers  for  their professional services;
-
-( g ) the procedures to be followed in cases of professional misconduct;
-
-( h ) the engagement of persons who are employed to work in a school by virtue of a temporary warrant;
-
-( i ) the  forms,  conduct  certificates  and  other  ancillary matters connected with the application for a warrant, a test  to  establish  the  legal  capacity,  the  procedures connected  with  the  nomination  of  members  to  the Council,  and  relating  to  any  other  procedure  which may be adopted by the Council;
-
-( j ) the appointment, composition and procedures of committees or sub-committees which the Council may feel necessary to appoint for any one of its functions;
-
-( k ) any  matter  which  is  required  or  is  authorised  by  this Act to be prescribed.
 
 41. (1) Any person who on the coming into force of this Part is in possession of a permanent warrant obtained under Part II of this Act before the entry into force of this Part shall be deemed to be a warrant holder with the same rights and obligations inasmuch as such warrant had been issued in accordance with the provisions and conditions of this Part.
 
@@ -954,36 +960,36 @@ EDUCATION
 
 (2) A person shall be deemed to remain eligible for a permanent warrant under the provisions of this Act before having been amended if on the date of the coming into force of this Part:
 
-( a ) would have already been enrolled in a course leading to  a  Masters'  degree  from  the  University  or  so  a comparable  degree,  and  would  have  been  eligible  to apply for a permanent warrant under the provisions of article 11(3)( a ) before having been amended; or
+(a) would have already been enrolled in a course leading to a Masters' degree from the University or so a comparable degree, and would have been eligible to apply for a permanent warrant under the provisions of article 11(3)(a) before having been amended; or
 
-( b ) qualified for a permanent warrant under the provisions of article 11(3)( b ) before having been amended; or
+(b) qualified for a permanent warrant under the provisions of article 11(3)(b) before having been amended; or
 
-( c ) was  practising  the  teaching  profession  in  any  school by virtue of a temporary warrant and had  been practising  as  such  for  not  less  than  eight  scholastic years, and is eligible to apply for a permanent warrant under the provisions of article 11(3)( d )  before having been  amended  due  to  the  fact  that  such  person  had practised the teaching profession in a school in Malta for  a  period  of  not  less  than  fifteen  years  and  in  the opinion of the Minister such person has the necessary academic  skill,  shall  still  be  qualified  to  be  given  a warrant inasmuch as such person was qualified under the  provisions  of  this  Part  after  having  completed fifteen years practice.
+(c) was practising the teaching profession in any school by virtue of a temporary warrant and had been practising as such for not less than eight scholastic years, and is eligible to apply for a permanent warrant under the provisions of article 11(3)(d) before having been amended due to the fact that such person had practised the teaching profession in a school in Malta for a period of not less than fifteen years and in the opinion of the Minister such person has the necessary academic skill, shall still be qualified to be given a warrant inasmuch as such person was qualified under the provisions of this Part after having completed fifteen years practice.
 
-42. A  warrant  holder  may  return  his  warrant  to  the  Minister and request that his name be cancelled from the register of teachers.
+##### Warrant holder may return warrant.
+Added by: XIII. 2006.9.
+
+42. A warrant holder may return his warrant to the Minister and request that his name be cancelled from the register of teachers.
+
+Amended by: XIII. 2006.10.
 
 ### PART IV
 
 #### Duty of the State to provide education
 
-43. (1) It  shall  be  the  duty  of  the  State  to  provide  for  the primary education of the children of Maltese citizens being children of compulsory school age.
-
-(2) For the purpose mentioned in sub-article  (1), the Minister shall wherever possible maintain a school in every town or village and shall provide transport for pupils who reside in areas which are distant from the school.
-
-(3) The  State  may  provide  schools  for  infants  who  are  under compulsory school age.
-
-44. It shall be the duty of the State to provide for the secondary education of the children of Maltese citizens being children who have completed their primary education.
-
-##### Warrant holder may return warrant.
-Added by: XIII. 2006.9.
-
-Amended by: XIII. 2006.10.
-
 ##### Primary education.
 Amended by: XIII. 2006.10.
 
+43. (1) It shall be the duty of the State to provide for the primary education of the children of Maltese citizens being children of compulsory school age.
+
+(2) For the purpose mentioned in sub-article (1), the Minister shall wherever possible maintain a school in every town or village and shall provide transport for pupils who reside in areas which are distant from the school.
+
+(3) The State may provide schools for infants who are under compulsory school age.
+
 ##### Secondary education.
 Amended by: XIII. 2006.10.
+
+44. It shall be the duty of the State to provide for the secondary education of the children of Maltese citizens being children who have completed their primary education.
 
 [[END OF PAGE 25]]
 
@@ -998,34 +1004,32 @@ EDUCATION
 ##### Resource centres.
 Amended by: XIII. 2006.10.
 
+45. (1) Without prejudice to the provisions of article 58, it shall be the duty of the State to provide resource centres, whose specialised role will include provision for children with individual educational needs who would benefit more from being in such centres than in mainstream schools, for such time as may be appropriate depending on their needs.
+
+(2) A minor shall be deemed to have special educational needs when that minor has special difficulties of a physical, sensory, intellectual or psychological nature.
+
 ##### Right of action.
 Amended by: XIII. 2006.10, 26.
+
+46. Any person may, if he deems himself aggrieved by the failure of the State to comply with the duties imposed upon it by articles 43, 44 and 45, bring an action against the Minister for a declaration of such grievance.
 
 ##### Minister's right to establish curriculum.
 Amended by: XIII. 2006.10, 11.
 
-##### Duty of the State to prepare citizens for work.
-Amended by:
-
-XIII. 2006.10.
-
-45. (1) Without  prejudice  to  the  provisions  of  article  58,  it shall be the duty of the State to provide resource centres, whose specialised role will include provision for children with individual educational needs who would benefit more from being in such centres than in mainstream schools, for such time as may be appropriate depending on their needs.
-
-(2) A minor shall be deemed to have special educational needs when that minor has special difficulties of a physical, sensory, intellectual or psychological nature.
-
-46. Any  person  may,  if  he  deems  himself  aggrieved  by  the failure of the State to comply with the duties imposed upon it by articles 43, 44 and 45, bring an action against the Minister for a declaration of such grievance.
-
 47. (1) Subject to the provisions of subarticle (2), it shall be the duty of the Minister, after receiving the proposals and the advice of the entities established by this Act, and after consultation with whosoever is involved in the development of the country, to establish the framework of the national curriculum both for State schools and for non-State schools at compulsory educational level and it shall be the duty of all schools to accomplish this curriculum according to the potential and the various skills of students attending thereat and according to the ethos, the identity and the character of the particular school or College.
 
-(2) The  Minister  shall  monitor  the  curricular  activity  of  the educational Directorates and of every College and school and has a right to request any data and report and to take such measures as may result to be required in order to ensure that school teaching is being imparted according to the philosophy, vision, strategy, principles, objectives, standards, and bench-marks established by the curriculum.
+(2) The Minister shall monitor the curricular activity of the educational Directorates and of every College and school and has a right to request any data and report and to take such measures as may result to be required in order to ensure that school teaching is being imparted according to the philosophy, vision, strategy, principles, objectives, standards, and bench-marks established by the curriculum.
 
-(3) It  shall  be  the  duty  of  the  Minister  to  provide  for  the education and teaching of the catholic religion in State schools and to establish the curriculum for the education and teaching of that religion in those schools according to the dispositions in this regard of the Bishops in Ordinary of these Islands.
+(3) It shall be the duty of the Minister to provide for the education and teaching of the catholic religion in State schools and to establish the curriculum for the education and teaching of that religion in those schools according to the dispositions in this regard of the Bishops in Ordinary of these Islands.
 
-(4) A  College  or  school  council  may  request  the  Minister  to include in the curriculum of that College or school courses of studies additional to those established by the Minister and the Minister may grant that request.
+(4) A College or school council may request the Minister to include in the curriculum of that College or school courses of studies additional to those established by the Minister and the Minister may grant that request.
 
 (5) The parents of any minor will have the right to opt that the minor should not receive instruction in the catholic religion.
 
-48. It  shall  be  the  duty  of  the  State,  having  provided  for  the education of Maltese citizens to enable them to form their own independent judgment, to establish such scholastic facilities which the State may deem necessary to provide those citizens with the opportunity to qualify in trades, skills, artisan or technical or commercial activities, and in the professions in order to prepare, instruct and instil discipline in those citizens for work in the community.
+##### Duty of the State to prepare citizens for work.
+Amended by: XIII. 2006.10.
+
+48. It shall be the duty of the State, having provided for the education of Maltese citizens to enable them to form their own independent judgment, to establish such scholastic facilities which the State may deem necessary to provide those citizens with the opportunity to qualify in trades, skills, artisan or technical or commercial activities, and in the professions in order to prepare, instruct and instil discipline in those citizens for work in the community.
 
 [[END OF PAGE 26]]
 
@@ -1035,38 +1039,38 @@ EDUCATION
 
 [ CAP. 327. 27
 
+Added by: XIII. 2006.12.
+
 ### PART V
 
 #### Colleges of State Schools
 
-49. With an aim of improving the quality, standards, operation, initiatives and educational achievements in State schools, there shall be established those Colleges, in such manner as it may from time to time appear to the Minister to be necessary in Malta and in Gozo, which shall network within them State boys and girls schools, and which would ensure educational experience and services in a full and continuous process starting from early childhood education, and through the primary and secondary levels. Every College shall be under the responsibility, guidance and administration of a Principal.
-
-50. (1) Each of the Colleges established under this Part of this Act is a body corporate having a legal and distinct personality and which may, subject to the provisions of this Act, enter contracts, acquire, hold and dispose of any kind of property for the purposes of its functions, or to sue or to be sued, and to perform all such matters and such operations which are incidental or conducive to the exercise or the execution of its functions under this Act.
-
-(2) The  juridical  and  judicial  representation  of  every  College mentioned in this article shall vest in its Principal, provided that each Principal may appoint any one or more of the officers or employees of the respective College, to appear on his behalf and in his name in any judicial proceedings and on any deed, contract, instrument or other document of whatsoever nature.
-
-51. It shall be the function of each College to:
-
-( a ) ensure that students entrusted to the schools within the College receive their educational entitlement according  to  their  potential  in  a  full,  continuous  and smooth process of education from an early age to the end  of  compulsory  education  in  the  perspective  of lifelong  learning  and  inspired  by  the  highest  human values;
-
-( b ) ensure  the  responsibility  and  the  accountability  of whosoever is involved in the schools in the educational process of the students;
-
-( c ) develop the character and identity thereof and ensure the  improvement  of  the  quality  of  the  educational provision  in  schools  by  promoting,  achieving  and maintaining high results and standards by all College members and students;
-
-( d ) promote dialogue and a team culture among the Heads and  school  staff  through  cooperation,  especially  with regard  to initiatives  and  problems  relating  to  the College as a whole;
-
-( e ) ensure  that  the  National  Curriculum  Framework  is translated  into  an  appropriate  curriculum  for  College
-
-Added by: XIII. 2006.12.
-
 ##### Colleges.
 Added by: XIII. 2006.12.
+
+49. With an aim of improving the quality, standards, operation, initiatives and educational achievements in State schools, there shall be established those Colleges, in such manner as it may from time to time appear to the Minister to be necessary in Malta and in Gozo, which shall network within them State boys and girls schools, and which would ensure educational experience and services in a full and continuous process starting from early childhood education, and through the primary and secondary levels. Every College shall be under the responsibility, guidance and administration of a Principal.
 
 ##### Legal personality and juridical representation of the Colleges.
 Added by: XIII. 2006.12.
 
+50. (1) Each of the Colleges established under this Part of this Act is a body corporate having a legal and distinct personality and which may, subject to the provisions of this Act, enter contracts, acquire, hold and dispose of any kind of property for the purposes of its functions, or to sue or to be sued, and to perform all such matters and such operations which are incidental or conducive to the exercise or the execution of its functions under this Act.
+
+(2) The juridical and judicial representation of every College mentioned in this article shall vest in its Principal, provided that each Principal may appoint any one or more of the officers or employees of the respective College, to appear on his behalf and in his name in any judicial proceedings and on any deed, contract, instrument or other document of whatsoever nature.
+
 ##### Functions of the College.
 Added by: XIII. 2006.12.
+
+51. It shall be the function of each College to:
+
+(a) ensure that students entrusted to the schools within the College receive their educational entitlement according to their potential in a full, continuous and smooth process of education from an early age to the end of compulsory education in the perspective of lifelong learning and inspired by the highest human values;
+
+(b) ensure the responsibility and the accountability of whosoever is involved in the schools in the educational process of the students;
+
+(c) develop the character and identity thereof and ensure the improvement of the quality of the educational provision in schools by promoting, achieving and maintaining high results and standards by all College members and students;
+
+(d) promote dialogue and a team culture among the Heads and school staff through cooperation, especially with regard to initiatives and problems relating to the College as a whole;
+
+(e) ensure that the National Curriculum Framework is translated into an appropriate curriculum for College
 
 [[END OF PAGE 27]]
 
@@ -1106,35 +1110,35 @@ EDUCATION
 
 [ CAP. 327. 29
 
-( p ) ensure the coordination of research activity, including action research, both between the College schools and between the Colleges;
+(p) ensure the coordination of research activity, including action research, both between the College schools and between the Colleges;
 
-( q ) promote contact with child care centres to facilitate the smooth  transition  between  early  childhood  and  the entry into kindergarten centres and schools;
+(q) promote contact with child care centres to facilitate the smooth transition between early childhood and the entry into kindergarten centres and schools;
 
-( r ) promote  and  encourage  culture  and  a  wholesome mentality  in  favour  of  creativity,  entrepreneurship, proactivity and a positive attitude towards change.
-
-52. (1) Every College shall have a Principal who shall be the Chief Executive Officer of the College and who shall be responsible to the Directors General as regards the performance of his functions and of the College according to respective issues, and to the College Board where matters are incumbent on the Board according to its functions.
-
-(2) The  Principal  shall  be  appointed  by  the  Minister  on  the basis of a definitive and renewable contract, with a selection process, following a public call made by the Directorate for Educational Services, and for which there may apply persons having the professional qualifications and the required educational experience and also the managerial and leadership skills for the networking and effective coordination of schools falling within the College.
-
-53. It  shall  be  the  duty  of  every  College  Principal  to  ensure that the functions of the College as provided for in article 51 are being accomplished, and he shall in particular:
-
-( a ) create  opportunities  so  that  the  Heads,  teachers  and other staff in schools may contribute to and exchange ideas,  experiences  and  good  practice  and  collaborate on common educational programmes, projects, activities and initiatives;
-
-( b ) prepare a business plan for three years as well as the annual  estimates  of  the  College  and  its  schools  and apportion  the  funds  allocated  by  the  Directorate  for Educational  Services  according  to  the  needs  of  the schools within the college as indicated in the estimates;
-
-( c ) be  the  mentor  of  the  Heads  of  schools  both  when required  to  act  in  such  manner  and  when  it  is  so required of him;
-
-( d ) collaborate  with  the  officers  of  the  Directorates  and with local and foreign higher education institutions, in the initial training and continuous professional development of teachers and staff of the schools;
-
-( e ) regularly present reports on the activity of the College and provide the necessary data to the College Board;
-
-( f ) preside over the Council meetings of Heads of school and in the drawing up of the Council agenda he should
+(r) promote and encourage culture and a wholesome mentality in favour of creativity, entrepreneurship, proactivity and a positive attitude towards change.
 
 ##### College Principal.
 Added by: XIII. 2006.12.
 
+52. (1) Every College shall have a Principal who shall be the Chief Executive Officer of the College and who shall be responsible to the Directors General as regards the performance of his functions and of the College according to respective issues, and to the College Board where matters are incumbent on the Board according to its functions.
+
+(2) The Principal shall be appointed by the Minister on the basis of a definitive and renewable contract, with a selection process, following a public call made by the Directorate for Educational Services, and for which there may apply persons having the professional qualifications and the required educational experience and also the managerial and leadership skills for the networking and effective coordination of schools falling within the College.
+
 ##### Functions of the College Principal.
 Added by: XIII. 2006.12.
+
+53. It shall be the duty of every College Principal to ensure that the functions of the College as provided for in article 51 are being accomplished, and he shall in particular:
+
+(a) create opportunities so that the Heads, teachers and other staff in schools may contribute to and exchange ideas, experiences and good practice and collaborate on common educational programmes, projects, activities and initiatives;
+
+(b) prepare a business plan for three years as well as the annual estimates of the College and its schools and apportion the funds allocated by the Directorate for Educational Services according to the needs of the schools within the college as indicated in the estimates;
+
+(c) be the mentor of the Heads of schools both when required to act in such manner and when it is so required of him;
+
+(d) collaborate with the officers of the Directorates and with local and foreign higher education institutions, in the initial training and continuous professional development of teachers and staff of the schools;
+
+(e) regularly present reports on the activity of the College and provide the necessary data to the College Board;
+
+(f) preside over the Council meetings of Heads of school and in the drawing up of the Council agenda he should
 
 [[END OF PAGE 29]]
 
@@ -1146,31 +1150,31 @@ CAP. 327. ]
 
 EDUCATION
 
+give due consideration to the proposals of the Heads of school which the Principal may deem to be opportune to include in the agenda.
+
 ##### The College Board.
 Added by: XIII. 2006.12.
+
+54. (1) Every College shall have a Board appointed by the Minister and which shall be composed of not less than five, but not more than seven members, one of whom shall be appointed President. The members of the Board shall be appointed for three years provided that when the term of office of a member expires he may be reappointed for a further term or terms.
+
+(2) The Minister shall appoint the members of the Board from among persons who in his opinion may give a valid contribution to the College and that in making such appointments he should seek to ensure a balanced mix of skills and experiences, such as personal initiative, commitment in education as a parent, educational leadership or leadership in the community, business skills, and a civic spirit.
+
+(3) The College Board is a consultative Board, with the function of supporting the College, to acquire the services and the resources required for the implementation of its functions, and to monitor that these functions are being performed.
+
+(4) The Principal shall report regularly to the Board on the performance and operation of the College and point out any matter about which advice would be required to be given. The Board is entitled to request information about the functioning and the development of the College and the Principal is duty bound to procure the required data. The Board shall discuss the Business Plan and the Financial Estimates of the College prior to their presentation to the Directorates for their consideration. The Board shall contribute towards keeping the College close to the world of work, the economy, and the communities to which the students belong.
+
+(5) The Principal shall participate as of right in every Board meeting while an officer of the College shall be the Secretary, provided that either or both shall withdraw from the meeting should the Board discuss matters connected with their conduct and performance. The Principal and the Secretary shall always have the right to make their case.
 
 ##### Council of Heads of Schools.
 Added by: XIII. 2006.12.
 
-give due consideration to the proposals of the Heads of school which the Principal may deem to be opportune to include in the agenda.
-
-54. (1) Every  College  shall  have  a  Board  appointed  by  the Minister and which shall be composed of not less than five, but not more than seven members, one of whom shall be appointed President. The members of the Board shall be appointed for three years provided that when the term of office of a member expires he may be reappointed for a further term or terms.
-
-(2) The Minister shall appoint the members of the Board from among persons who in his opinion may give a valid contribution to the College and that in making such appointments he should seek to ensure a balanced mix of skills and experiences, such as personal initiative, commitment in education as a parent, educational leadership or leadership in the community, business skills, and a civic spirit.
-
-(3) The  College  Board  is a consultative Board, with the function of supporting the College, to acquire the services and the resources required for the implementation of its functions, and to monitor that these functions are being performed.
-
-(4) The  Principal  shall  report  regularly  to  the  Board  on  the performance and operation of the College and point out any matter about which advice would be required to be given. The Board is entitled to request information about the functioning and the development of the College and the Principal is duty bound to procure the required data. The Board shall discuss the Business Plan and the Financial Estimates of the College prior to their presentation to the Directorates for their consideration. The Board shall contribute towards keeping the College close to the world of work, the economy, and the communities to which the students belong.
-
-(5) The  Principal  shall  participate  as  of  right  in  every  Board meeting while an officer of the College shall be the Secretary, provided that either or both shall withdraw from the meeting should the Board discuss matters connected with their conduct and performance. The Principal and the Secretary shall always have the right to make their case.
-
 55. In each College there shall be a Council of Heads of school forming the College to be presided by the Principal. The Council shall:
 
-( a ) nurture  a  spirit  of  collegiality  in  the  running  of  the College  as  a  network  of  schools  while  developing  a common ethos and identity;
+(a) nurture a spirit of collegiality in the running of the College as a network of schools while developing a common ethos and identity;
 
-( b ) identify  the  training  needs  of  school  staff  and  plan staff development opportunities which may be achieved at College level for its schools;
+(b) identify the training needs of school staff and plan staff development opportunities which may be achieved at College level for its schools;
 
-( c ) ensure  an  exchange  of  experiences  of  the  School Development Plans, Performance Management Programmes, and policies and practices with the
+(c) ensure an exchange of experiences of the School Development Plans, Performance Management Programmes, and policies and practices with the
 
 [[END OF PAGE 30]]
 
@@ -1182,35 +1186,35 @@ EDUCATION
 
 participation of the school community as required;
 
-( d ) ensure that the national policies on matters of education,  including  those  relating  to  good  conduct and discipline in the schools, the safeguarding against child and substance abuse, absenteeism, inclusive education, and any national policy which the Minister may from time to time adopt, are well understood by all  the  teaching  and  non-teaching  staff,  and  that  they are being effectively followed;
+(d) ensure that the national policies on matters of education, including those relating to good conduct and discipline in the schools, the safeguarding against child and substance abuse, absenteeism, inclusive education, and any national policy which the Minister may from time to time adopt, are well understood by all the teaching and non-teaching staff, and that they are being effectively followed;
 
-( e ) encourage and facilitate the development of exchanges and  projects  in  partnerships  with  other  schools  in Europe and in any other country;
+(e) encourage and facilitate the development of exchanges and projects in partnerships with other schools in Europe and in any other country;
 
-( f ) ensure that parents become partners and active collaborators  in  the  education  of  their  children  at school  and  promote  lifelong  learning  among  both parents and the community generally;
+(f) ensure that parents become partners and active collaborators in the education of their children at school and promote lifelong learning among both parents and the community generally;
 
-( g ) ensure that schools make proper use of and share the resources, facilities and services and that they develop the partnerships required for the provision of particular technical support or assistance;
+(g) ensure that schools make proper use of and share the resources, facilities and services and that they develop the partnerships required for the provision of particular technical support or assistance;
 
-( h ) ensure  that  schools  participate  in  and  support  the operations performed by the Education Inspectorate;
+(h) ensure that schools participate in and support the operations performed by the Education Inspectorate;
 
-( i ) receive and discuss reports presented by the Principal or by any Head of School and also other reports which the Principal or the Council requests or receives;
+(i) receive and discuss reports presented by the Principal or by any Head of School and also other reports which the Principal or the Council requests or receives;
 
-( j ) keep record of the proceedings and decisions adopted during the Council meetings.
-
-56. (1) The College Principal shall seek to create partnerships with other non-State colleges or schools and conclude an agreement of collaboration in favour of the education of students.
-
-(2) The  Principals  or  Heads  of  such  non-State  colleges  or schools which reach a partnership agreement with the College shall be entitled to participate in the Council of the Heads of the College and to work in conjunction with the Heads of State schools within the College on educational matters of reciprocal interest and benefit.
-
-(3) A partnership agreement such as the aforementioned in this article shall provide for opportunities of collaboration, the use of common resources, and exchanges of experience, good practice and educational programmes.
-
-57. (1) The  Minister  and  the  Directorates  shall  promote  the application of the principle of subsidiarity in the management and a d m i n i s t r a t i o n   o f   t h e   C o l l e g e s ,   w i t h i n   a   f r a m e w o r k   o f decentralisation and autonomy of the educational operation and services given by the Colleges and their schools according to the priorities, targets and national strategies adopted by the Government.
-
-- Subject to the provisions of this Act, the Minister may give
+(j) keep record of the proceedings and decisions adopted during the Council meetings.
 
 ##### Partnership within Colleges.
 Added by: XIII. 2006.12.
 
+56. (1) The College Principal shall seek to create partnerships with other non-State colleges or schools and conclude an agreement of collaboration in favour of the education of students.
+
+(2) The Principals or Heads of such non-State colleges or schools which reach a partnership agreement with the College shall be entitled to participate in the Council of the Heads of the College and to work in conjunction with the Heads of State schools within the College on educational matters of reciprocal interest and benefit.
+
+(3) A partnership agreement such as the aforementioned in this article shall provide for opportunities of collaboration, the use of common resources, and exchanges of experience, good practice and educational programmes.
+
 ##### Autonomy of Colleges.
 Added by: XIII. 2006.12.
+
+57. (1) The Minister and the Directorates shall promote the application of the principle of subsidiarity in the management and administration of the Colleges, within a framework of decentralisation and autonomy of the educational operation and services given by the Colleges and their schools according to the priorities, targets and national strategies adopted by the Government.
+
+(2) Subject to the provisions of this Act, the Minister may give
 
 [[END OF PAGE 31]]
 
@@ -1222,28 +1226,28 @@ CAP. 327. ]
 
 EDUCATION
 
+such directives and make such regulations as he may deem to be required in order to delegate in a clear manner educational functions to the Colleges and establish the parameters of the function and the effective accountability of every officer or employee involved in the exercise of the delegated function, of the decentralisation and the autonomy of the application of the functions entrusted to schools and Colleges.
+
 ##### Inclusive education.
 Added by: XIII. 2006.12.
+
+58. (1) The Minister shall ensure that the national policy on inclusive education is being applied in all schools and that there are available the resources, tools and facilities required so that this may be given as effectively as possible.
+
+(2) The Minister shall ensure the existence of specialised centres of resources which support schools and Colleges in the implementation of the policy of inclusive education, which give a service to students having specific learning difficulties, and others which provide education and training services to students with individual educational needs whose educational entitlement may be better achieved in such centres.
+
+(3) For the purposes of the preceding subarticles hereof, the Minister may give such directives and make such regulations as may in his opinion be required to provide students with individual educational needs, including the multi-disciplinary assessment of their condition, the process of statementing, the formulating and the application of an individual educational programme, special arrangements on the assessment, tests and examinations of concerned students, the programmes in specialised centres of resources or special schools, the application of therapies or the giving of medicines as prescribed by competent professional persons according to any law in force to students while at a school or centre, means for the reconsideration of and appeals from decisions on an application for the statementing of a student, and on any other matter connected with the implementation of the policy on inclusive education.
 
 ##### Arts, music, drama and sports in education.
 Added by: XIII. 2006.12.
 
+59. (1) Every College and school shall, since early childhood, ensure programmes and activities of arts, music, drama and sport with an aim of fostering in students an inclination and appreciation towards them, and to exploit all possible elements of the arts, music, drama and sports for the purposes of the pedagogical tools and the educational experience for the better development of the skills, talents and all various capabilities of the students.
+
+(2) The Minister shall ensure the existence of schools for the teaching of the arts, music, drama and sport, and also ensure that these work in an effective network between them and in effective cooperation with Colleges, schools and with institutions and centres of the arts, music, drama and sports established by law or in any other manner.
+
 ##### Schools as community learning centres.
 Added by: XIII. 2006.12.
 
-such directives and make such regulations as he may deem to be required in order to delegate in a clear manner educational functions to the Colleges and establish the parameters of the function and the effective accountability of every officer or employee involved in the exercise of the delegated function, of the decentralisation and the autonomy of the application of the functions entrusted to schools and Colleges.
-
-58. (1) The  Minister  shall  ensure  that  the  national  policy  on inclusive education is being applied in all schools and that there are available the resources, tools and facilities required so that this may be given as effectively as possible.
-
-(2) The  Minister  shall  ensure  the  existence  of  specialised centres of resources which support schools and Colleges in the implementation of the policy of inclusive education, which give a service to students having specific learning difficulties, and others which provide education and training services to students with individual educational needs whose educational entitlement may be better achieved in such centres.
-
-(3) For  the  purposes  of  the  preceding  subarticles  hereof,  the Minister may give such directives and make such regulations as may in his opinion be required to provide students with individual educational needs, including the multi-disciplinary assessment of their condition, the process of statementing, the formulating and the application of an individual educational programme, special arrangements on the assessment, tests and examinations of concerned students, the programmes in specialised centres of resources or special schools, the application of therapies or the giving of medicines as prescribed by competent professional persons according to any law in force to students while at a school or centre, means for the reconsideration of and appeals from decisions on an application for the statementing of a student, and on any other matter connected with the implementation of the policy on inclusive education.
-
-59. (1) Every College and school shall, since early childhood, ensure programmes and activities of arts, music, drama and sport with an aim of fostering in students an inclination and appreciation towards them, and to exploit all possible elements of the arts, music, drama and sports for the purposes of the pedagogical tools and the educational experience for the better development of the skills, talents and all various capabilities of the students.
-
-(2) The Minister shall  ensure  the  existence  of  schools  for  the teaching of the arts, music, drama and sport, and also ensure that these work in an effective network between them and in effective cooperation with Colleges, schools and with institutions and centres of the arts, music, drama and sports established by law or in any other manner.
-
-60. The  Minister  may  give  such  directives,  institute  such programmes and make such regulations as he may deem to be required so that the facilities of the Colleges and of the State schools can be used as child care centres, and so that they may also be used at all times outside normal school hours as community learning centres for a range of lifelong learning programmes including those of complementary and supplementary educational support, for each activity of physical exercise and sports education, and for cultural activities of arts, music and drama, for children, students and adult persons. 61. (1) The  Minister  shall  ensure  that  each  College  shall implement the national policy on parental partnership in the educational process of their children. (2) Every school, whether it is a school within the College or not, shall have a School Council which shall be composed of parents and teachers, and a Students' Council which shall be composed of and selected, and which shall have the functions, duties, powers and procedures such as the Minister may from time to time establish by means of regulations. 62. (1) Subject to the provisions of this Act, the Head and the teaching and non-teaching staff of a school, including whosoever directly or indirectly is involved in the educational process of students in the school, shall be responsible for the teaching and the education of students and for the keeping of discipline in the school and they shall be responsible for the foregoing to the Principal, the officers of the Directorates and to the Minister. (2) It shall be the duty in the first instance of parents to ensure the motivation of their children for education and their disposition for good behaviour and discipline, and for this reason they are bound to cooperate fully and with due respect with the Head and teachers. (3) The  Minister  may,  in  order  to  give  the  best  effect  and ensure the implementation of the duties mentioned in this article, make regulations and policies and give directives about the emotional and behavioural difficulties manifested by students, including those to provide for the services and the resources required, for the establishment of learning support zones in the school and of learning support centres outside the school, for the transfer of students from the class and the school to these zones and centres, for the suspension and the exclusion of students from the class and the school as part of a process of discipline and reintegration, for the means of making an appeal and for the reconsideration of decisions on discipline taken by competent authorities, for the adoption by the College and school of the code of discipline, and for any other matter ancillary thereto as may be required. (4) Subject to the provisions of this Act or of any other law, the regulations and the code of discipline mentioned in the preceding subarticle hereof may include provisions about the conduct and the discipline regarding teachers, other school staff, visitors to a school and parents.
+60. The Minister may give such directives, institute such programmes and make such regulations as he may deem to be required so that the facilities of the Colleges and of the State schools can be used as child care centres, and so that they may also
 
 [[END OF PAGE 32]]
 
@@ -1253,11 +1257,25 @@ EDUCATION
 
 [ CAP. 327. 33
 
+be used at all times outside normal school hours as community learning centres for a range of lifelong learning programmes including those of complementary and supplementary educational support, for each activity of physical exercise and sports education, and for cultural activities of arts, music and drama, for children, students and adult persons.
+
 ##### School Council and Students' Council.
 Added by: XIII. 2006.12.
 
+61. (1) The Minister shall ensure that each College shall implement the national policy on parental partnership in the educational process of their children.
+
+(2) Every school, whether it is a school within the College or not, shall have a School Council which shall be composed of parents and teachers, and a Students' Council which shall be composed of and selected, and which shall have the functions, duties, powers and procedures such as the Minister may from time to time establish by means of regulations.
+
 ##### Good behaviour and discipline in the schools.
 Added by: XIII. 2006.12.
+
+62. (1) Subject to the provisions of this Act, the Head and the teaching and non-teaching staff of a school, including whosoever directly or indirectly is involved in the educational process of students in the school, shall be responsible for the teaching and the education of students and for the keeping of discipline in the school and they shall be responsible for the foregoing to the Principal, the officers of the Directorates and to the Minister.
+
+(2) It shall be the duty in the first instance of parents to ensure the motivation of their children for education and their disposition for good behaviour and discipline, and for this reason they are bound to cooperate fully and with due respect with the Head and teachers.
+
+(3) The Minister may, in order to give the best effect and ensure the implementation of the duties mentioned in this article, make regulations and policies and give directives about the emotional and behavioural difficulties manifested by students, including those to provide for the services and the resources required, for the establishment of learning support zones in the school and of learning support centres outside the school, for the transfer of students from the class and the school to these zones and centres, for the suspension and the exclusion of students from the class and the school as part of a process of discipline and reintegration, for the means of making an appeal and for the reconsideration of decisions on discipline taken by competent authorities, for the adoption by the College and school of the code of discipline, and for any other matter ancillary thereto as may be required.
+
+(4) Subject to the provisions of this Act or of any other law, the regulations and the code of discipline mentioned in the preceding subarticle hereof may include provisions about the conduct and the discipline regarding teachers, other school staff, visitors to a school and parents.
 
 [[END OF PAGE 33]]
 
@@ -1273,12 +1291,12 @@ Added by:
 
 XIII. 2006.13.
 
-##### Interpretation.
-Added by: XIII. 2006.13.
-
 ### PART VI
 
 #### Establishment and Functions of the National Commission for Higher Education
+
+##### Interpretation.
+Added by: XIII. 2006.13.
 
 63. Without prejudice to the provisions of this Act, in this Part, insofar as the context does not require otherwise -
 
@@ -1312,45 +1330,45 @@ EDUCATION
 
 [ CAP. 327. 35
 
-"ISCED level" means the level of the International Standard Classification of Education (ISCED) adopted in the 29 th  Session of the General Conference of the United Nations Organisation for Education, Science and Culture (UNESCO) in 1997;
+"ISCED level" means the level of the International Standard Classification of Education (ISCED) adopted in the 29th Session of the General Conference of the United Nations Organisation for Education, Science and Culture (UNESCO) in 1997;
+
+S.L. 343.26
 
 "NQF level" means the levels of qualifications and competences adopted by the Malta Qualifications Council Regulations, which among them form the National Qualifications Framework, NQF;
 
 "quality assurance" refers to systems which:
 
-( a ) safeguard  the  quality  of  further  and  higher  education within the economic, social and cultural context, on a national, European and international level;
+(a) safeguard the quality of further and higher education within the economic, social and cultural context, on a national, European and international level;
 
-( b ) ensure the use of appropriate measures as a means of improving  the  quality  of  teaching,  learning,  training and research; and
+(b) ensure the use of appropriate measures as a means of improving the quality of teaching, learning, training and research; and
 
-( c ) communicate the outcome of such findings within an internal and external framework of accountability;
+(c) communicate the outcome of such findings within an internal and external framework of accountability;
 
 "quality audit" refers to an external evaluation process of internal quality assurance mechanisms, adopted by an institution for its own use in order to continuously monitor and improve the activities and services of a subject, programme, theme or the whole institution;
 
 "recognition" means the process of granting official status to skills and, or competences either through the award of certificates or through the grant of comparability, credits, validation of gained skills and, or competences.
 
-64. (1) There  shall  be  established  the  National  Commission for Higher Education, which through a structured dialogue:
-
-( a ) ascertains the needs and the aspirations of further and higher education institutions,
-
-( b ) informs the public of issues connected with sustainable development of further and higher education sectors in Malta in order to meet the needs of society, and
-
-( c ) gives advice to the Government on any matter which is connected with the further and higher education sectors.
-
-(2) The affairs and activities of the Commission are under the direction of the Commission and are dealt with by the members of the Commission and for this purpose shall be represented by the Chairman who shall be able to speak and act on its behalf.
-
-65. The Commission shall:
-
-( a ) formulate the guiding principles for further and higher education, and propose a clear vision and sustainable strategic  targets  and  objectives  for  the  further  and higher sectors of education;
-
-( b ) research,  analyse,  review  and,  through  the  Minister, give  advice  to  the  Government  on  the  development,
-
-S.L. 343.26
-
 ##### Establishment of the National Commission for Higher Education.
 Added by: XIII. 2006.13.
 
+64. (1) There shall be established the National Commission for Higher Education, which through a structured dialogue:
+
+(a) ascertains the needs and the aspirations of further and higher education institutions,
+
+(b) informs the public of issues connected with sustainable development of further and higher education sectors in Malta in order to meet the needs of society, and
+
+(c) gives advice to the Government on any matter which is connected with the further and higher education sectors.
+
+(2) The affairs and activities of the Commission are under the direction of the Commission and are dealt with by the members of the Commission and for this purpose shall be represented by the Chairman who shall be able to speak and act on its behalf.
+
 ##### Aim and functions of the Commission.
 Added by: XIII. 2006.13.
+
+65. The Commission shall:
+
+(a) formulate the guiding principles for further and higher education, and propose a clear vision and sustainable strategic targets and objectives for the further and higher sectors of education;
+
+(b) research, analyse, review and, through the Minister, give advice to the Government on the development,
 
 [[END OF PAGE 35]]
 
@@ -1362,42 +1380,42 @@ CAP. 327. ]
 
 EDUCATION
 
+planning and governance of the further and higher education policy;
+
+(c) recommend to the competent authority systems and policies for the evaluation, approval, accreditation, authorization and recognition of institutions and programmes that will ensure their quality;
+
+(d) recommend financing policies, and alternative financing systems, of the further and higher sectors of education, while addressing the issue of the adequacy of this financing and of the accountability of the sectors;
+
+(e) propose policies which are related to students on sustainable options, equity in access and mobility in the institutions, financial support, services of information and guidance about pathway development for students;
+
+(f) recommend policies related to research, innovation, intellectual property, and knowledge transfer;
+
+(g) formulate policies related to the international dimension of further and higher education and to the expansion and diversification of their provision;
+
+(h) advise and, where the case shall so require, make such recommendations as may appear to be required, to the Government and to the institutions, on any matter or other issue related to further and higher education.
+
 ##### Duties of the Commission.
 Added by: XIII. 2006.13.
 
-planning  and  governance  of  the  further  and  higher education policy;
+66. In reaching its aims, the Commission shall:
 
-( c ) recommend  to  the  competent  authority  systems  and policies  for  the  evaluation,  approval,  accreditation, authorization and recognition of institutions and programmes that will ensure their quality;
+(a) develop and promote a structured dialogue among the institutions in the further and higher education sectors and with relevant stakeholders in the socio-economic development, including students and their organisations;
 
-( d ) recommend financing policies, and alternative financing systems, of the further and higher sectors of education, while addressing the issue of the adequacy of  this  financing  and  of  the  accountability  of  the sectors;
+(b) keep a regular dialogue with international experts on policies, strategies and current sectoral developments;
 
-( e ) propose  policies  which  are  related  to  students  on sustainable  options,  equity  in  access  and  mobility  in the institutions, financial support, services of information and guidance about pathway development for students;
+(c) collect information, data and statistics as required for the performance of its functions;
 
-( f ) recommend  policies  related  to  research,  innovation, intellectual property, and knowledge transfer;
-
-( g ) formulate policies related to the international dimension of further  and  higher  education  and  to  the expansion and diversification of their provision;
-
-( h ) advise and, where the case shall so require, make such recommendations as may appear to be required, to the Government and to the  institutions,  on  any  matter  or other issue related to further and higher education.
-
-- In reaching its aims, the Commission shall:
-
-( a ) develop and promote a structured dialogue among the institutions in the further and higher education sectors and with relevant  stakeholders  in  the  socio-economic development, including students and their organisations;
-
-( b ) keep  a  regular  dialogue  with  international  experts  on policies, strategies and current sectoral developments;
-
-( c ) collect information, data and statistics as required for the performance of its functions;
-
-( d ) publish studies and thematic reviews which it deems to be important as relating to:
+(d) publish studies and thematic reviews which it deems to be important as relating to:
 
 (i) national strategy for further and higher education;
 
-(ii) key  performance  indicators  on  the  further  and higher education sectors in Malta; and
+(ii) key performance indicators on the further and higher education sectors in Malta; and
 
 (iii) benchmarking performance against international developments;
 
-( e ) compile and send to the Minister an annual report, not later  than  six  weeks  after  the  end  of  each  financial year, on its activities during that year;
+(e) compile and send to the Minister an annual report, not later than six weeks after the end of each financial year, on its activities during that year;
 
-( f ) maintain and publish an updated register of authorised and  accredited  institutions  and  programmes  available
+(f) maintain and publish an updated register of authorised and accredited institutions and programmes available
 
 [[END OF PAGE 36]]
 
@@ -1409,42 +1427,42 @@ EDUCATION
 
 in Malta;
 
-( g ) act on specific requests made to it by the Minister on its objectives and functions as explained in this Act.
-
-67. (1) The Minister shall consult with the Commission on all proposed changes in legislation connected with further and higher education.
-
-(2) The  Commission  may  act  on  its  own  initiative  and  make such recommendations to the Government which it deems to be fit on this educational sector.
-
-68. (1) The Commission shall have full access to all information available to further and higher public educational institutions and it shall have the right to request all data it may require both from public and private institutions and this data shall be transmitted to it within a reasonable time from when it was requested.
-
-(2) The  Commission  shall  have  access  to  statistics  and  to economic and social data as required so that the Commission and its Secretariat may be able to perform their functions in accordance with this Act.
-
-69. (1) The  Commission  shall  be  composed  of  not  less  than seven and not more than nine members to be nominated by the Minister and appointed by the Prime Minister for a period of three years and the members shall be eligible to be re-appointed after their term of office expires. All members of the Commission shall serve in their personal capacity.
-
-(2) The Prime Minister shall appoint from among the members a Chairman and a Deputy Chairman. In the case when the Chairman is abroad or for any other reason, for a temporary period, is unable t o  p erform his functions, the Deputy Chairman shall act as Chairman and shall perform the powers and functions of the Chairman.
-
-(3) The members of the Commission shall be persons who, in the opinion of the Minister, possess leadership qualities, and have an understanding in further and higher education within the context of the general socio-economic development.
-
-(4) A  person  shall  not  be  qualified  to  be  appointed  or  hold office as member of the Commission if such person:
-
-( a ) is a member of the House of Representatives; or
-
-( b ) is a serving as a judge or magistrate; or
-
-( c ) is legally incapacitated; or
-
-( d ) has been declared to be in a state of bankruptcy or has entered  into  a  composition  or  agreement  with  its creditors; or
-
-( e ) has  been  convicted  of  an  offence  against  this  Act  or affecting  public  trust  or  theft  or  fraud,  or  having knowingly received property which had been acquired by theft or fraud; or
+(g) act on specific requests made to it by the Minister on its objectives and functions as explained in this Act.
 
 ##### Powers of the Commission.
 Added by: XIII. 2006.13.
 
+67. (1) The Minister shall consult with the Commission on all proposed changes in legislation connected with further and higher education.
+
+(2) The Commission may act on its own initiative and make such recommendations to the Government which it deems to be fit on this educational sector.
+
 ##### Commission to have full access to required information.
 Added by: XIII. 2006.13.
 
+68. (1) The Commission shall have full access to all information available to further and higher public educational institutions and it shall have the right to request all data it may require both from public and private institutions and this data shall be transmitted to it within a reasonable time from when it was requested.
+
+(2) The Commission shall have access to statistics and to economic and social data as required so that the Commission and its Secretariat may be able to perform their functions in accordance with this Act.
+
 ##### Composition of the Commission.
 Added by: XIII. 2006.13.
+
+69. (1) The Commission shall be composed of not less than seven and not more than nine members to be nominated by the Minister and appointed by the Prime Minister for a period of three years and the members shall be eligible to be re-appointed after their term of office expires. All members of the Commission shall serve in their personal capacity.
+
+(2) The Prime Minister shall appoint from among the members a Chairman and a Deputy Chairman. In the case when the Chairman is abroad or for any other reason, for a temporary period, is unable to perform his functions, the Deputy Chairman shall act as Chairman and shall perform the powers and functions of the Chairman.
+
+(3) The members of the Commission shall be persons who, in the opinion of the Minister, possess leadership qualities, and have an understanding in further and higher education within the context of the general socio-economic development.
+
+(4) A person shall not be qualified to be appointed or hold office as member of the Commission if such person:
+
+(a) is a member of the House of Representatives; or
+
+(b) is a serving as a judge or magistrate; or
+
+(c) is legally incapacitated; or
+
+(d) has been declared to be in a state of bankruptcy or has entered into a composition or agreement with its creditors; or
+
+(e) has been convicted of an offence against this Act or affecting public trust or theft or fraud, or having knowingly received property which had been acquired by theft or fraud; or
 
 [[END OF PAGE 37]]
 
@@ -1484,29 +1502,29 @@ EDUCATION
 
 (11) The Commission shall appoint a Secretary to keep minutes and a record of the meetings and of its decisions.
 
-(12) The  Commission  shall  take  all  necessary  precautions  and treat information on commercially sensitive matters in a highly confidential manner in its relations with both public and private institutions.
+(12) The Commission shall take all necessary precautions and treat information on commercially sensitive matters in a highly confidential manner in its relations with both public and private institutions.
 
-(13) The  Minister  may,  after  consulting  the  Chairman  of  the Commission, make regulations regarding the procedures to be adopted by the Commission in its operations.
+(13) The Minister may, after consulting the Chairman of the Commission, make regulations regarding the procedures to be adopted by the Commission in its operations.
 
-70. (1) There shall be established by  the  Commission  a Secretariat which shall be answerable to the Commission to follow up and execute its decisions, provide the necessary information and administrative, technical, and research support required by the Commission to perform its functions.
+##### Commission Secretariat.
+Added by: XIII. 2006.13.
 
-(2) The  Secretariat  shall  annually  prepare  a  business  plan  for the consideration and approval of the Commission. Such plan shall explain the guidance and operative policies which the Commission would be adopting and outline the planned work and activities of the Commission and its Secretariat.
+70. (1) There shall be established by the Commission a Secretariat which shall be answerable to the Commission to follow up and execute its decisions, provide the necessary information and administrative, technical, and research support required by the Commission to perform its functions.
+
+(2) The Secretariat shall annually prepare a business plan for the consideration and approval of the Commission. Such plan shall explain the guidance and operative policies which the Commission would be adopting and outline the planned work and activities of the Commission and its Secretariat.
+
+##### Appointment and duties of the Chief Executive Officer and other officers of the Secretariat.
+Added by: XIII. 2006.13.
 
 71. (1) The engagement and the termination of the engagement of the officers and the employees of the Commission and of the Secretariat shall be a function of the Commission which acts through the Chairman after due consultation with the Chief Executive Officer.
 
 (2) Subject to the provisions of this Act and to all directives of the Commission, the executive and administrative affairs and the organisation of the Commission and of the Secretariat, and the administrative control of its officers and its employees, shall fall within the responsibility of the Chief Executive Officer.
 
-(3) The  Chief  Executive  Officer  shall  also  be  responsible  for the implementation of the purposes and the functions of the Commission, and without prejudice to the generality of the aforesaid he shall develop such strategies, policy and regulations r e q u i r e d   f o r   t h e   i m p l e m e n t a t i o n   o f   t h e   p u r p o s e s   o f   t h e Commission, provide information and give advice to it on any matter according to such matters as he may deem necessary or expedient, and perform such other duties as are assigned to him from time to time by the Commission.
+(3) The Chief Executive Officer shall also be responsible for the implementation of the purposes and the functions of the Commission, and without prejudice to the generality of the aforesaid he shall develop such strategies, policy and regulations required for the implementation of the purposes of the Commission, provide information and give advice to it on any matter according to such matters as he may deem necessary or expedient, and perform such other duties as are assigned to him from time to time by the Commission.
 
-(4) The  Chief  Executive  Officer  shall  be  appointed  by  the Commission, with the approval of the Minister, under such terms and conditions as the Commission may establish in agreement with the Minister.
+(4) The Chief Executive Officer shall be appointed by the Commission, with the approval of the Minister, under such terms and conditions as the Commission may establish in agreement with the Minister.
 
-(5) The  Chief  Executive  Officer  shall  report  to  the  Chairman and to the Commission and attend the Commission's meetings whenever he is invited to do so.
-
-##### Commission Secretariat.
-Added by: XIII. 2006.13.
-
-##### Appointment and duties of the Chief Executive Officer and other officers of the Secretariat.
-Added by: XIII. 2006.13.
+(5) The Chief Executive Officer shall report to the Chairman and to the Commission and attend the Commission's meetings whenever he is invited to do so.
 
 [[END OF PAGE 39]]
 
@@ -1520,43 +1538,44 @@ EDUCATION
 
 Amended by: XIII. 2006.14.
 
-##### Refounding, aims, functions and powers of the University of Studies.
-Amended by: XVIII. 1997.2; XIII. 2006.14.
-
-##### Financing and control of the finances of the University.
-Substituted by: XVIII. 1997.3. Amended by: XIII. 2006.14.
-
 ### PART VII
 
 #### The University of Malta
 
-72. The  University  of  Studies  of  Malta  is,  by  means  of  the present Act, being refounded under the name of University of Malta with the following functions and powers:
+##### Refounding, aims, functions and powers of the University of Studies.
+Amended by: XVIII. 1997.2; XIII. 2006.14.
 
-( a ) to provide for instruction in such branches of learning and  to  make  such  provisions  for  research  and  the advancement  and  dissemination  of  knowledge  as  it may from time to time determine;
+72. The University of Studies of Malta is, by means of the present Act, being refounded under the name of University of Malta with the following functions and powers:
 
-( b ) to  determine  the  conditions  for  admission  into  the University and into any course of study provided by it;
+(a) to provide for instruction in such branches of learning and to make such provisions for research and the advancement and dissemination of knowledge as it may from time to time determine;
 
-( c ) to  provide  appropriate  procedures  to  determine  the persons who have attained the necessary proficiency in the various branches of study;
+(b) to determine the conditions for admission into the University and into any course of study provided by it;
 
-( d ) to  confer  degrees  and  grant  diplomas,  certificates  or other academic distinctions;
+(c) to provide appropriate procedures to determine the persons who have attained the necessary proficiency in the various branches of study;
 
-( e ) to constitute faculties, departments and other academic sections of the University;
+(d) to confer degrees and grant diplomas, certificates or other academic distinctions;
 
-( f ) to institute academic and non-academic posts as required from time to time, and to make appointments thereto;
+(e) to constitute faculties, departments and other academic sections of the University;
 
-( g ) to  set  up  and  properly  maintain libraries, laboratories and  other  facilities  required  for  teaching,  research, experimentation, or diffusion of knowledge and sciences as well as the establishment of academic audit and quality assurance schemes;
+(f) to institute academic and non-academic posts as required from time to time, and to make appointments thereto;
 
-( h ) to  establish  entities  with  their  own  statutes  and  to monitor the administration of such entities as well as of  other  entities  already  existing  or  which  may  be created by others in the field of higher education;
+(g) to set up and properly maintain libraries, laboratories and other facilities required for teaching, research, experimentation, or diffusion of knowledge and sciences as well as the establishment of academic audit and quality assurance schemes;
 
-( i ) to administer the funds voted by the House of Representatives for the implementation of its programme;  and  any  other  funds  it  may  receive  or generate from other sources;
+(h) to establish entities with their own statutes and to monitor the administration of such entities as well as of other entities already existing or which may be created by others in the field of higher education;
 
-( j ) to evaluate foreign degrees and academic distinctions;
+(i) to administer the funds voted by the House of Representatives for the implementation of its programme; and any other funds it may receive or generate from other sources;
 
-( k ) to make statutes, regulations and bye-laws in accordance with the provisions of this Act; and
+(j) to evaluate foreign degrees and academic distinctions;
 
-( l ) to act in any other way conducive to the attainment of its aims.
+(k) to make statutes, regulations and bye-laws in accordance with the provisions of this Act; and
 
-73. (1) The finance of the University shall derive  from periodic agreements entered into between the University and the Government stipulating, among other things, the supply of funds to the University by the Government.
+(l) to act in any other way conducive to the attainment of its aims.
+
+##### Financing and control of the finances of the University.
+Substituted by: XVIII. 1997.3.
+Amended by: XIII. 2006.14.
+
+73. (1) The finance of the University shall derive from periodic agreements entered into between the University and the Government stipulating, among other things, the supply of funds to the University by the Government.
 
 (2) The amount of funds to be stated in the agreement shall be established in relation to the requirements of the University to achieve its aims determined in the context of the needs of the country as perceived by the Government.
 
@@ -1568,45 +1587,46 @@ EDUCATION
 
 [ CAP. 327. 41
 
-(3) The agreement stipulated between the Government and the University, and any extension or substitution thereof, shall be laid in draft on the Table of the House of Representatives, and shall be entered into only after it has been discussed in the House of Representatives in a sitting for that purpose not later than twentyeight days from the day on which it is so laid.
+(3) The agreement stipulated between the Government and the University, and any extension or substitution thereof, shall be laid in draft on the Table of the House of Representatives, and shall be entered into only after it has been discussed in the House of Representatives in a sitting for that purpose not later than twenty-eight days from the day on which it is so laid.
 
-(4) The  University  shall  in  each  financial  year  cause  to  be prepared and shall adopt estimates of its income and expenditure for the following year.
+(4) The University shall in each financial year cause to be prepared and shall adopt estimates of its income and expenditure for the following year.
 
 (5) The University shall cause to be kept proper accounts and other records in respect of its operation and transactions and shall cause to be prepared a statement of accounts in respect of each financial year.
 
-(6) The  accounts  of  the  University  shall  be  audited  by  an auditor or auditors appointed by the Council from year to year.
+(6) The accounts of the University shall be audited by an auditor or auditors appointed by the Council from year to year.
 
 (7) The University shall, not later than three months after the end of each financial year, cause a copy of a statement of its audited accounts together with a report on its activities during that year, to be sent to the Minister together with the report of the auditor or auditors with respect to such statement and the Minister shall without delay lay such statements and reports on the Table of the House of Representatives so that the House may take note thereof and discuss the same in not more than two normal sittings, allocated for that purpose, within eight weeks from their being laid by the Minister.
 
-74. (1) The  following  shall  be  the  governing  bodies  of  the University:
+##### Governing bodies and officers of the University.
+Amended by: X. 1991.2; XVIII. 1997.4; XIII. 2006.14.
 
-( a ) the Council;
+74. (1) The following shall be the governing bodies of the University:
 
-( b ) the Senate;
+(a) the Council;
 
-( c ) the Faculty Boards.
+(b) the Senate;
+
+(c) the Faculty Boards.
 
 (2) The following shall be the Principal Officers of the University:
 
-( a ) the Chancellor;
+(a) the Chancellor;
 
-( b ) the Pro-Chancellor;
+(b) the Pro-Chancellor;
 
-( c ) the Rector;
+(c) the Rector;
 
-( d ) the Pro-Rectors;
+(d) the Pro-Rectors;
 
-( e ) the Secretary;
+(e) the Secretary;
 
-( f ) the Deans and Deputy Deans of the Faculties.
+(f) the Deans and Deputy Deans of the Faculties.
 
 (3) The Chancellor shall be appointed for a term of seven years by the President of Malta acting in accordance with the advice of the Prime Minister given after he has consulted the Leader of the Opposition.
 
 (4) The Chancellor shall be the highest officer of the University and shall be responsible to ensure that it conforms with the law.
 
-(5) The  Chancellor  promulgates  the  statutes,  regulations  and
-##### Governing bodies and officers of the University.
-Amended by: X. 1991.2; XVIII. 1997.4; XIII. 2006.14.
+(5) The Chancellor promulgates the statutes, regulations and
 
 [[END OF PAGE 41]]
 
@@ -1618,25 +1638,25 @@ EDUCATION
 
 bye-laws of the governing bodies of the University and may refer back once to the governing body concerned any such statutes, regulations or bye-laws which in his opinion are not in accordance with the law; the Chancellor, in special circumstances, shall also have the power to summon the Council, Senate and Faculty Boards.
 
-(6) The  Pro-Chancellor  shall  be  appointed  by  the  Chancellor after the Minister's approval for a term not exceeding five years.
+(6) The Pro-Chancellor shall be appointed by the Chancellor after the Minister's approval for a term not exceeding five years.
 
-(7) Whenever  the  office  of  Chancellor  is  temporarily  vacant, and until a new Chancellor is appointed and whenever the holder of that office is absent from Malta or on vacation or is for any reason unable to perform the functions conferred upon him by this Act, those functions shall be performed by the Pro-Chancellor who shall continue to perform those functions notwithstanding the expiration of his term of office.
+(7) Whenever the office of Chancellor is temporarily vacant, and until a new Chancellor is appointed and whenever the holder of that office is absent from Malta or on vacation or is for any reason unable to perform the functions conferred upon him by this Act, those functions shall be performed by the Pro-Chancellor who shall continue to perform those functions notwithstanding the expiration of his term of office.
 
-(8) The  Pro-Chancellor  shall  also  perform  the  functions  of Chancellor whenever required to do so in writing by the Chancellor.
+(8) The Pro-Chancellor shall also perform the functions of Chancellor whenever required to do so in writing by the Chancellor.
 
 (9) The Pro-Chancellor shall be the ex officio president of the Council.
 
-( a ) The Rector shall be elected by the Council for a term of five years and shall be the principal academic and administrative officer of the University.
+(10) (a) The Rector shall be elected by the Council for a term of five years and shall be the principal academic and administrative officer of the University.
 
-( b ) The election  for  the  office  of  Rector  shall  take  place three months before the end of the term of office of the Rector  or,  should  there  be  a  vacancy  for  any  reason, not later than fifteen days after the vacancy occurs.
+(b) The election for the office of Rector shall take place three months before the end of the term of office of the Rector or, should there be a vacancy for any reason, not later than fifteen days after the vacancy occurs.
 
-( c ) The election shall take place at a meeting of Council called for the purpose. Every member of Council shall have the right to nominate a candidate to the office of Rector.  If  there  are  more  than  two  candidates,  each member shall show his preference by casting a single transferable  vote.  Prior  to  an  election,  the  Council shall  determine  as  required  the  procedural details relating to the method of election.
+(c) The election shall take place at a meeting of Council called for the purpose. Every member of Council shall have the right to nominate a candidate to the office of Rector. If there are more than two candidates, each member shall show his preference by casting a single transferable vote. Prior to an election, the Council shall determine as required the procedural details relating to the method of election.
 
 (11) The Rector shall be responsible for the day to day administration of the University, shall be the president ex officio of the Senate and Faculty Boards, and shall be vested with the legal representation of the University.
 
-(12) The Pro-Rectors shall be appointed by the Rector for a term of one year and shall, as delegated by the Rector, perform the functions of the Rector in the circumstances that the ProChancellor would perform the functions of the Chancellor under the provisions of sub-article (7). One of the Pro-Rectors determined from time to time by the Rector, shall also perform the functions of the Rector in the same circumstances that the Pro-Chancellor would perform the functions of the Chancellor under the provisions of sub-article (8).
+(12) The Pro-Rectors shall be appointed by the Rector for a term of one year and shall, as delegated by the Rector, perform the functions of the Rector in the circumstances that the Pro-Chancellor would perform the functions of the Chancellor under the provisions of sub-article (7). One of the Pro-Rectors determined from time to time by the Rector, shall also perform the functions of the Rector in the same circumstances that the Pro-Chancellor would perform the functions of the Chancellor under the provisions of sub-article (8).
 
-(13) The  Secretary  shall  be  the  second  highest  administration officer of the University and shall be appointed by the Council for a term of five years.
+(13) The Secretary shall be the second highest administration officer of the University and shall be appointed by the Council for a term of five years.
 
 [[END OF PAGE 42]]
 
@@ -1646,28 +1666,30 @@ EDUCATION
 
 [ CAP. 327. 43
 
-(14) The Dean of a Faculty shall be elected for a  term  of  four years by the academic staff of that Faculty and from among the heads of departments of that Faculty and shall be the president ex officio of the Faculty Board in the absence of the Rector.
+(14) The Dean of a Faculty shall be elected for a term of four years by the academic staff of that Faculty and from among the heads of departments of that Faculty and shall be the president ex officio of the Faculty Board in the absence of the Rector.
+
+Cap. 385.
 
 (15) The University Ombudsman shall be appointed for a term of five years by the Ombudsman appointed in terms of the Ombudsman Act, hereinafter referred to as "the Parliamentary Ombudsman". He shall have the duty to investigate and report on any complaint by the students or employees of the University on matters related to the University as well as complaints by persons who have been refused entry into the University, and to suggest redress. Complainants, who have exhausted this remedy may still, bring their complaint to the Parliamentary Ombudsman. The University Ombudsman shall be paid such salary and allowances, which shall be a charge on the Consolidated Fund, as may be determined by the Minister.
 
-(16) The  University  Ombudsman  may  only  be  removed  from office by the Parliamentary Ombudsman on the advice of the Council, and this for proved inability to perform the functions of his office or proved misbehaviour, which advice is to be given by an address of the Council for that purpose having the support of the votes of at least two-thirds of its members.
+(16) The University Ombudsman may only be removed from office by the Parliamentary Ombudsman on the advice of the Council, and this for proved inability to perform the functions of his office or proved misbehaviour, which advice is to be given by an address of the Council for that purpose having the support of the votes of at least two-thirds of its members.
 
-(17) The  Deputy  Dean  of  a  Faculty  shall  be  appointed  by  the Rector for a period of one year, in consultation with the Dean of the respective Faculty.
+(17) The Deputy Dean of a Faculty shall be appointed by the Rector for a period of one year, in consultation with the Dean of the respective Faculty.
 
-(18) The Deputy Dean besides such  other  functions  as  may  be delegated to him by the Dean, shall perform the functions of the Dean in the same circumstances that the Pro-Chancellor would perform the functions of Chancellor under the provision of subarticle (7) and sub-article (8).
-
-75. (1) The University shall have the power to make statutes, r e g u l a t i o n s ,   a n d   b y e - l a w s   i n   o r d e r   t o   p r o v i d e   f o r   i t s   o w n administration and for the administration of its activities and of the entities created by it.
-
-(2) Statutes  shall  be  made  by  the  Council  and  shall  bind  the whole University as well as the entities created by it.
-
-(3) Regulations shall be made by the Senate and shall provide for matters of an academic nature and shall bind the whole University.
-
-(4) Bye-laws  shall  be  made  by  the  Faculty  Boards  and  shall provide for matters of an academic nature and shall bind the Faculty represented by the Faculty Board that made those byelaws.
-
-(5) No  statute  providing  for  a  matter  of  an  academic  nature may be made or, when made, may be amended or revoked by the Council, unless the Council requests the advice of the Senate of that statute or on that amendment or revocation but if such advice is not tendered within the term established by the Council, which term Cap. 385.
+(18) The Deputy Dean besides such other functions as may be delegated to him by the Dean, shall perform the functions of the Dean in the same circumstances that the Pro-Chancellor would perform the functions of Chancellor under the provision of sub-article (7) and sub-article (8).
 
 ##### Subsidiary legislation.
 Amended by: XIII. 2006.14.
+
+75. (1) The University shall have the power to make statutes, regulations, and bye-laws in order to provide for its own administration and for the administration of its activities and of the entities created by it.
+
+(2) Statutes shall be made by the Council and shall bind the whole University as well as the entities created by it.
+
+(3) Regulations shall be made by the Senate and shall provide for matters of an academic nature and shall bind the whole University.
+
+(4) Bye-laws shall be made by the Faculty Boards and shall provide for matters of an academic nature and shall bind the Faculty represented by the Faculty Board that made those bye-laws.
+
+(5) No statute providing for a matter of an academic nature may be made or, when made, may be amended or revoked by the Council, unless the Council requests the advice of the Senate of that statute or on that amendment or revocation but if such advice is not tendered within the term established by the Council, which term
 
 [[END OF PAGE 43]]
 
@@ -1677,45 +1699,45 @@ Amended by: XIII. 2006.14.
 
 EDUCATION
 
+shall in no case be less than twenty-one days from the date of the said request, then the Council may make that statute or amend or revoke it without that advice.
+
+(6) Statutes, regulations and bye-laws made by the competent governing bodies of the University in accordance with the provisions of this Part of this Act shall be without effect unless promulgated by the Chancellor and published in the Government Gazette but when those statutes, regulations or bye-laws have been so promulgated and published they shall have the force of law:
+
+Provided that the subsidiary legislation herein mentioned shall as soon as may be after it is made, be laid on the Table of the House of Representatives.
+
+(7) Any power given by this Act for the making of statutes, regulations or bye-laws by the competent governing body of the University shall be construed as including a power, exercisable in the like manner and subject to the like consent and conditions, if any, to rescind, revoke, amend, or vary the statutes, regulations or bye-laws, and such power shall be exercisable without prejudice to the making of new statutes, regulations or bye-laws.
+
 ##### Composition of the Council of the University.
 Amended by: II. 1995.2; XVIII. 1997.5; XIII. 2006.14.
+
+76. The Council of the University shall be composed as follows:
+
+(a) the Pro-Chancellor who shall be ex officio president;
+
+(b) the Rector who shall be ex officio vice-president;
+
+(c) four members representing the Senate;
+
+(d) two members elected by the academic staff from those amongst them who are not members of the Senate;
+
+(e) two members elected by and from among the non-academic staff;
+
+(f) two members elected by and from among the University students;
+
+(g) one member appointed by the Minister and a member appointed by the Chairman of the Foundation for Theological Studies;
+
+(h) a number of members appointed by the Prime Minister from among the leading representatives of the economic, industrial and social fields, to represent the general interest of the country, such number never to exceed the number of all the members mentioned in paragraphs (c), (d), (e), (f) and (g).
 
 ##### Functions of the Council.
 Amended by: XIII. 2006.14.
 
-shall in no case be less than twenty-one days from the date of the said request, then the Council may make that statute or amend or revoke it without that advice.
+77. The Council shall be the supreme governing body of the University and shall have the following functions:
 
-(6) Statutes,  regulations  and  bye-laws  made  by  the  competent governing bodies of the University in accordance with the provisions of this Part of this Act shall be without effect unless promulgated by the Chancellor and published in the Government Gazette but when those statutes, regulations or bye-laws have been so promulgated and published they shall have the force of law:
+(a) to administer and control all the property, movable and immovable, of the University;
 
-Provided  that  the  subsidiary  legislation  herein  mentioned shall as soon as may be after it is made, be laid on the Table of the House of Representatives.
+(b) to establish and abolish posts of an academic nature or otherwise;
 
-(7) Any  power  given  by  this  Act  for  the  making  of  statutes, regulations or bye-laws by the competent governing body of the University shall be construed as including a power, exercisable in the like manner and subject to the like consent and conditions, if any, to rescind, revoke, amend, or vary the statutes, regulations or bye-laws, and such power shall be exercisable without prejudice to the making of new statutes, regulations or bye-laws.
-
-76. The  Council  of  the  University  shall  be  composed  as follows:
-
-( a ) the Pro-Chancellor who shall be ex officio president;
-
-( b ) the Rector who shall be ex officio vice-president;
-
-( c ) four members representing the Senate;
-
-( d ) two members elected by the academic staff from those amongst them who are not members of the Senate;
-
-( e ) two  members  elected  by  and  from  among  the  nonacademic staff;
-
-( f ) two members elected by and from among the University students;
-
-( g ) one member appointed by the Minister and a member appointed  by  the  Chairman  of  the  Foundation  for Theological Studies;
-
-( h ) a number of members appointed by the Prime Minister from among the leading representatives of the economic, industrial and social fields, to represent the general interest  of  the  country,  such  number  never  to exceed  the  number  of  all  the  members  mentioned  in paragraphs ( c ), ( d ), ( e ), ( f ) and ( g ).
-
-77. The  Council  shall  be  the  supreme  governing  body  of  the University and shall have the following functions:
-
-( a ) to administer and control all the property, movable and immovable, of the University;
-
-( b ) to establish and abolish posts of an academic nature or otherwise;
-
-( c ) to establish, administer and abolish institutes and other
+(c) to establish, administer and abolish institutes and other
 
 [[END OF PAGE 44]]
 
@@ -1727,49 +1749,49 @@ EDUCATION
 
 entities;
 
-( d ) to  make statutes in accordance with the provisions of this Act;
+(d) to make statutes in accordance with the provisions of this Act;
 
-( e ) to make appointments to posts, of an academic nature or otherwise, in accordance with procedures established by statutes;
+(e) to make appointments to posts, of an academic nature or otherwise, in accordance with procedures established by statutes;
 
-( f ) to  pay  the  wages  or  salaries  of  all  members  of  the academic  and  non-academic  staff  in  accordance  with scales determined  by  it  with  the  approval  of  the Minister;
+(f) to pay the wages or salaries of all members of the academic and non-academic staff in accordance with scales determined by it with the approval of the Minister;
 
-( g ) to  establish  Faculties,  departments  and  institutes  for the  proper  organization  of  academic  work  and  interdisciplinary  collaboration,  taking  into  account  any directions given by the Minister in accordance with the provisions of this Act;
+(g) to establish Faculties, departments and institutes for the proper organization of academic work and inter-disciplinary collaboration, taking into account any directions given by the Minister in accordance with the provisions of this Act;
 
-( h ) to appoint heads of departments for periods not exceeding four years after considering the recommendations of the departments concerned;
+(h) to appoint heads of departments for periods not exceeding four years after considering the recommendations of the departments concerned;
 
-( i ) to appoint and provide for the payment of Maltese or foreign  examiners  in  accordance  with  statutes  and predetermined procedures;
+(i) to appoint and provide for the payment of Maltese or foreign examiners in accordance with statutes and predetermined procedures;
 
-( j ) to  do  all  other  acts  or  things  not  vested  in  any  other governing body of the University.
-
-- The Senate of the University shall be composed as follows:
-
-( a ) the Rector who shall be ex officio president;
-
-( b ) the Pro-Rectors, one of whom as may be designated by the Rector  from  time  to  time  shall  be  the  Vicepresident;
-
-( c ) the Deans of all the Faculties;
-
-( d ) a  representative  of  each  Faculty  elected  by  and  from among the academic staff of that Faculty;
-
-( e ) four members elected by and from among the University students;
-
-( f ) two representatives  of  the  Minister  appointed  by  him from among graduates of the University;
-
-( g ) two members appointed by the directors of the institutes and other entities established by the University;
-
-( h ) the Librarian.
-
-79. The Senate shall have the general direction of the academic matters of the University and shall have the following functions:
-
-( a ) to regulate studies, research, documentation and examinations in the University by means of regulations;
-
-( b ) to  make regulations  in  accordance with  the  provision of this Act;
+(j) to do all other acts or things not vested in any other governing body of the University.
 
 ##### Composition of the Senate.
 Amended by: XVIII. 1997.6; XIII. 2006.14.
 
+78. The Senate of the University shall be composed as follows:
+
+(a) the Rector who shall be ex officio president;
+
+(b) the Pro-Rectors, one of whom as may be designated by the Rector from time to time shall be the Vice-president;
+
+(c) the Deans of all the Faculties;
+
+(d) a representative of each Faculty elected by and from among the academic staff of that Faculty;
+
+(e) four members elected by and from among the University students;
+
+(f) two representatives of the Minister appointed by him from among graduates of the University;
+
+(g) two members appointed by the directors of the institutes and other entities established by the University;
+
+(h) the Librarian.
+
 ##### Functions of the Senate.
 Amended by: XIII. 2006.14.
+
+79. The Senate shall have the general direction of the academic matters of the University and shall have the following functions:
+
+(a) to regulate studies, research, documentation and examinations in the University by means of regulations;
+
+(b) to make regulations in accordance with the provision of this Act;
 
 [[END OF PAGE 45]]
 
@@ -1781,49 +1803,49 @@ CAP. 327. ]
 
 EDUCATION
 
+(c) to decide on whom should be conferred academic degrees, diplomas and other distinctions;
+
+(d) to establish by regulations the conditions for admission into the University;
+
+(e) to give recognition to the degrees, diplomas, certificates and distinctions of foreign universities or institutes of higher education;
+
+(f) to advise the Council on matters of an academic nature even if of such a nature only in part;
+
+(g) to advise the Government on all matters in the fields of learning, science and technology referred to it by the Government;
+
+(h) to deal with any other matter of an academic nature arising in the administration of the University.
+
 ##### Composition of the Faculty Boards.
 Amended by: II.1995.3; XIII. 2006.14.
+
+80. The Board of each Faculty shall be composed as follows:
+
+(a) the Rector who shall be ex officio president;
+
+(b) the Dean of the Faculty who shall be ex officio vice-president;
+
+(c) the heads of all the departments in the Faculty;
+
+(d) a representative of each department of the Faculty elected by and from among the academic staff of the department;
+
+(e) two members elected by and from among the students of the Faculty;
+
+(f) two members appointed by the Minister to represent the interests outside the Faculty and who, in the opinion of the Minister, can give an effective contribution towards the good administration of the Faculty, provided that in the case of the Faculty of Theology the two members shall be appointed by the Foundation for Theological Studies to represent the interests of the said Foundation.
 
 ##### Functions of Faculty Boards.
 Amended by: XIII. 2006.14.
 
-( c ) to  decide  on  whom  should  be  conferred  academic degrees, diplomas and other distinctions;
+81. (1) The Faculty Board shall have the following functions:
 
-( d ) to establish by regulations the conditions for admission into the University;
+(a) to direct the academic tasks of the Faculty in a unitary manner and in consultation;
 
-( e ) to give recognition to the degrees, diplomas, certificates  and  distinctions  of  foreign  universities  or institutes of higher education;
+(b) to determine the studies, teaching and research within the Faculty and to provide for the administration, publication and diffusion of the academic work of the Faculty and to distribute tasks within the said activities;
 
-( f ) to advise the Council on matters of an academic nature even if of such a nature only in part;
+(c) to make bye-laws concerning the Faculty in accordance with the provisions of this Act;
 
-( g ) to advise the Government on all matters in the fields of learning,  science  and  technology  referred  to  it  by  the Government;
+(d) to prepare plans for the development of the Faculty and to present those plans for approval by the Senate and the Council.
 
-( h ) to  deal  with  any  other  matter  of  an  academic  nature arising in the administration of the University.
-
-- The Board of each Faculty shall be composed as follows:
-
-( a ) the Rector who shall be ex officio president;
-
-( b ) the Dean of the Faculty who shall be ex officio vicepresident;
-
-( c ) the heads of all the departments in the Faculty;
-
-( d ) a  representative  of  each  department  of  the  Faculty elected  by  and  from  among the  academic  staff  of  the department;
-
-( e ) two members elected by and from among the students of the Faculty;
-
-( f ) two  members  appointed  by  the  Minister  to  represent the  interests  outside  the  Faculty  and  who,  in  the opinion of the Minister, can give an effective contribution  towards  the  good  administration  of  the Faculty,  provided  that  in  the  case  of  the  Faculty  of Theology the two members shall be appointed by the Foundation  for  Theological  Studies  to  represent  the interests of the said Foundation.
-
-(1) The Faculty Board shall have the following functions:
-
-( a ) to direct the academic tasks of the Faculty in a unitary manner and in consultation;
-
-( b ) to determine the studies, teaching and research within the  Faculty  and  to  provide  for  the  administration, publication and diffusion of the academic work of the Faculty and to distribute tasks within the said activities;
-
-( c ) to make bye-laws concerning the Faculty in accordance with the provisions of this Act;
-
-( d ) to  prepare  plans  for  the  development  of  the  Faculty and to present those plans for approval by the Senate and the Council.
-
-- Bye-laws made by the Faculty Board shall be referred to the
+(2) Bye-laws made by the Faculty Board shall be referred to the
 
 [[END OF PAGE 46]]
 
@@ -1835,33 +1857,33 @@ EDUCATION
 
 Senate for its approval and shall not be submitted to the Chancellor for promulgation unless they have been so approved by the Senate.
 
+##### Powers of the Rector.
+Amended by: XIII. 2006.14.
+
 82. (1) The Rector, without prejudice to the powers vested in the governing bodies of the University by the provisions of this Act, shall have all the powers necessary for the day to day administration of the University and shall have the power to decide upon any urgent matter, of an academic nature or otherwise, provided that such decision which impinges upon a power or function vested by this Act in a governing body of the University shall be registered by the Secretary and brought before that body at its first meeting following that decision.
 
-(2) The  Rector,  as  the officer  vested  with  the  immediate government of the University, shall exercise authority over the teaching staff, the examiners, the students, the candidates for examinations and all the employees of the University, and shall enforce discipline and the strict observance of the provisions of this Act and of the statutes, regulations and bye-laws.
+(2) The Rector, as the officer vested with the immediate government of the University, shall exercise authority over the teaching staff, the examiners, the students, the candidates for examinations and all the employees of the University, and shall enforce discipline and the strict observance of the provisions of this Act and of the statutes, regulations and bye-laws.
 
-(3) The  Rector  shall  confer  University  degrees,  diplomas, certificates and other distinctions.
+(3) The Rector shall confer University degrees, diplomas, certificates and other distinctions.
 
-(4) The  Rector  shall  have  the  power  to  summon  the  Council, Senate and Faculty Boards.
+(4) The Rector shall have the power to summon the Council, Senate and Faculty Boards.
 
 (5) The Rector shall ensure that any elections required by the provisions of this Act are in fact held without undue delay and shall be responsible to provide for the procedures of those elections.
 
-(6) The  Rector  shall  be  responsible  for  the  planning  and  coordination of the work of the various bodies and institutions of higher education and for the implementation of the decisions of the competent authorities of the University.
+(6) The Rector shall be responsible for the planning and co-ordination of the work of the various bodies and institutions of higher education and for the implementation of the decisions of the competent authorities of the University.
+
+##### Common provisions for the governing bodies of the University.
+Amended by: XVIII. 1997.7; XIII. 2006.14.
 
 83. (1) Any person holding office on a governing body of the University shall, unless otherwise specifically provided elsewhere in this Act, hold that office for a period of two years:
 
-Provided  that  any  person  holding  office  on  the  governing body of the University shall continue so to hold office, despite the expiry of his term, until the election or appointment of another person to substitute that person.
+Provided that any person holding office on the governing body of the University shall continue so to hold office, despite the expiry of his term, until the election or appointment of another person to substitute that person.
 
 (2) The quorum for the meetings of any governing body of the University shall be that of one more than one third of the members of that body; provided that the quorum for the Council shall be eight.
 
 (3) Any governing body of the University may act notwithstanding any vacancy in its membership and quorum shall be computed as if there was no such vacancy.
 
 (4) Any question proposed for decision at any meeting of any governing body of the University shall be determined by a majority of the votes of the members present and voting, and if on any such question the votes are equally divided the member presiding shall have and exercise a casting vote.
-
-##### Powers of the Rector.
-Amended by: XIII. 2006.14.
-
-##### Common provisions for the governing bodies of the University.
-Amended by: XVIII. 1997.7; XIII. 2006.14.
 
 [[END OF PAGE 47]]
 
@@ -1874,21 +1896,19 @@ CAP. 327. ]
 EDUCATION
 
 ##### Faculty of Theology.
-Added by: II.1995.4. Amended by: XIII. 2006.14, 26.
+Added by: II.1995.4.
+Amended by: XIII. 2006.14, 26.
+
+84. There shall be in the University, a Faculty of Theology which shall be governed by such Agreement signed on the 26 September 1988 and any other Agreement as may from time to time be in force between the Government of Malta and the Holy See on the matter, and the provisions of this Part where incompatible with any such Agreement shall not apply and the provisions of such Agreement shall apply instead. A copy of the Agreement is reproduced in Italian and English in Schedule III to this Act and a copy of any Agreement in force from time to time shall be published in the Gazette and shall have the same force as subsidiary legislation made under article 75 and shall in the same manner be laid on the Table of the House of Representatives.
 
 Added by: XIII. 2006.15.
-
-##### Interpretation.
-Added by: XIII. 2006.15.
-
-##### Incorporation of the Malta College of Arts, Science and Technology.
-Added by: XIII. 2006.15.
-
-84. There  shall  be  in  the  University,  a  Faculty  of  Theology which shall be governed by such Agreement signed on the 26 September 1988 and any other Agreement as may from time to time be in force between the Government of Malta and the Holy See on the matter, and the provisions of this Part where incompatible with any such Agreement shall not apply and the provisions of such Agreement shall apply instead. A copy of the Agreement is reproduced in Italian and English in Schedule III to this Act and a copy of any Agreement in force from time to time shall be published in the Gazette and shall have the same force as subsidiary legislation made under article 75 and shall in the same manner be laid on the Table of the House of Representatives.
 
 ### PART VIII
 
 #### The Malta College of Arts, Science and Technology
+
+##### Interpretation.
+Added by: XIII. 2006.15.
 
 85. Without prejudice to the provisions of this Act, in this Part, insofar as the context does not require otherwise -
 
@@ -1904,13 +1924,16 @@ Added by: XIII. 2006.15.
 
 "the Council" means the Council of the Institute established by article 91;
 
-"Institute" means every Institute established by virtue of articles 90( d ) and 93;
+"Institute" means every Institute established by virtue of articles 90(d) and 93;
 
 "President" means the President of the Board of Governors appointed by virtue of article 91(2) and any person who temporarily occupies that office;
 
 "Principal" means the College Principal appointed by the Board of Governors to perform the duties indicated in article 91(2) and any person who temporarily occupies that office.
 
-86. The  Malta  College  of Arts,  Science  and  Technology, established by public deed of the 11 th  August, 2000, is being reestablished and incorporated in this Act to implement the mission to provide studies and training for education in the vocational and professional sectors.
+##### Incorporation of the Malta College of Arts, Science and Technology.
+Added by: XIII. 2006.15.
+
+86. The Malta College of Arts, Science and Technology, established by public deed of the 11th August, 2000, is being re-established and incorporated in this Act to implement the mission to provide studies and training for education in the vocational and professional sectors.
 
 [[END OF PAGE 48]]
 
@@ -1920,15 +1943,24 @@ EDUCATION
 
 [ CAP. 327. 49
 
+##### Legal personality and juridical representation of the College.
+Added by: XIII. 2006.15.
+
 87. (1) The College shall be a body corporate having a distinct legal personality and shall be capable, subject to the provisions of this Act, of entering into contracts, of acquiring, holding and disposing of any kind of property for the purposes of its functions, of suing and being sued, and of doing all such things and entering into all such transactions as are incidental or conducive to the exercise or performance of its functions under this Act.
 
-(2) The legal and juridical  representation  of the College shall vest in the Principal, provided that the Board of Governors may appoint any one or more of its members or of the officers or employees of the College to appear in the name and on behalf of the College in any judicial proceedings and in any act, contract, instrument or other document whatsoever.
+(2) The legal and juridical representation of the College shall vest in the Principal, provided that the Board of Governors may appoint any one or more of its members or of the officers or employees of the College to appear in the name and on behalf of the College in any judicial proceedings and in any act, contract, instrument or other document whatsoever.
 
-88. Maltese  and  English  are  the  official  languages  of  the College. The College administration may use either of both languages for official purposes.
+##### Official languages.
+Added by: XIII. 2006.15.
 
-89. (1) The  College  shall  in  a  general  manner  ensure  the existence of educational institutions accessible to all, and to establish such facilities and such programmes of education and training, and of work and practical experience which the College may deem necessary to provide all with the opportunity to qualify in trades, skills, artisan or technical or commercial activities, and in the professions according to the socio-economic needs of the country in a lifelong learning curriculum framework and holistic personal development.
+88. Maltese and English are the official languages of the College. The College administration may use either of both languages for official purposes.
 
-(2) The  College  shall  organise  instruction  and  training  at  the required levels, including the levels established by the Malta Qualifications Council.
+##### Purpose of the College.
+Added by: XIII. 2006.15.
+
+89. (1) The College shall in a general manner ensure the existence of educational institutions accessible to all, and to establish such facilities and such programmes of education and training, and of work and practical experience which the College may deem necessary to provide all with the opportunity to qualify in trades, skills, artisan or technical or commercial activities, and in the professions according to the socio-economic needs of the country in a lifelong learning curriculum framework and holistic personal development.
+
+(2) The College shall organise instruction and training at the required levels, including the levels established by the Malta Qualifications Council.
 
 (3) The College shall ensure optimum quality at all levels, and shall therefore ensure that whosoever successfully terminates any instruction and training leading to the attainment of a certificate at any level shall have the required educational basis so as to be able to satisfy the established standards before proceeding any further to the next level.
 
@@ -1936,16 +1968,7 @@ EDUCATION
 
 (5) The College shall provide teaching and training programmes to help persons acquire qualifications according to their needs, including by distance learning and other programmes which are imparted by any effective means and from any suitable place whatsoever according to the objective of the particular programme.
 
-- The College shall in a particular manner:
-
-##### Legal personality and juridical representation of the College.
-Added by: XIII. 2006.15.
-
-##### Official languages.
-Added by: XIII. 2006.15.
-
-##### Purpose of the College.
-Added by: XIII. 2006.15.
+(6) The College shall in a particular manner:
 
 [[END OF PAGE 49]]
 
@@ -1981,7 +2004,7 @@ EDUCATION
 
 ( l ) participate in bilateral and regional exchange programmes  and  particularly  in  the  educational  and training programmes of the European Union in which Malta participates from time to time.
 
-- The  College  shall  function  in  proactive  coordination  with
+(7) The College shall function in proactive coordination with
 
 [[END OF PAGE 50]]
 
@@ -1992,6 +2015,9 @@ EDUCATION
 [ CAP. 327. 51
 
 t h e   o t h e r   e d u c a t i o n a l   e n t i t i e s   r e f e r r e d   t o   i n   t h i s   A c t ,   t h e Employment and Training Corporation, constituted bodies, trade union organisations and the other national organs and agencies which participate in the social and economic development of the country.
+
+##### Powers and functions of the College.
+Added by: XIII. 2006.15.
 
 90. The College shall:
 
@@ -2011,14 +2037,11 @@ t h e   o t h e r   e d u c a t i o n a l   e n t i t i e s   r e f e r r e d   
 
 ( h ) establish the teaching and training posts or act otherwise  as  may  be  required  from  time  to  time  and appoint persons to such posts;
 
-( i ) establish  and  maintain  as  due,  libraries,  laboratories, workshops.  services  and  other  facilities  required  for teaching,  training,  experimentation,  research  and  the dissemination of knowledge, science and technology;
+( i ) establish  and  maintain  as  due,  libraries,  laboratories, workshops,  services  and  other  facilities  required  for teaching,  training,  experimentation,  research  and  the dissemination of knowledge, science and technology;
 
 ( j ) establish  internal  auditing  schemes  which  ensure  the quality  of  education  and  training  being  imparted  and the effective use of resources;
 
 ( k ) make regulations concerning the performance and the
-
-##### Powers and functions of the College.
-Added by: XIII. 2006.15.
 
 [[END OF PAGE 51]]
 
@@ -2030,17 +2053,16 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Governing body and officers of the College.
-Added by: XIII. 2006.15.
 
-##### Composition of the Board of Governors.
-Added by: XIII. 2006.15.
 
 conduct of students, teachers and other persons entrusted  with  rendering  any  service  at  the  College, whether engaged by an indefinite or a definite contract of service, or by a contract for services, or if seconded or  on  loan  to  the  College  by  government,  public  or private entities;
 
 ( l ) administer the property, resources and funds allotted to it from time to time by the Government with an aim of accomplishing the College programmes, including such other funds as it may receive or raise from other sources;
 
 ( m ) do anything required to be done so as to accomplish its objects according to this Act.
+
+##### Governing body and officers of the College.
+Added by: XIII. 2006.15.
 
 91. (1) The  governing  bodies  of  the  College  shall  be  the following:
 
@@ -2054,7 +2076,7 @@ conduct of students, teachers and other persons entrusted  with  rendering  any 
 
 ( e ) the Partnership Office.
 
-- The principal officers of the College are:
+(2) The principal officers of the College are:
 
 ( a ) the President of the Board of Governors;
 
@@ -2076,6 +2098,9 @@ conduct of students, teachers and other persons entrusted  with  rendering  any 
 
 (3) There shall be other officers as may be established by the Board of Governors from time to time. Such officers shall be responsible to the Principal for the conduct of their respective duties.
 
+##### Composition of the Board of Governors.
+Added by: XIII. 2006.15.
+
 92. (1) The Board of Governors shall be composed of not less than seven and not more than nine members to be appointed by the Minister for a period of three years and the members shall be eligible to be re-appointed after their term of office expires. The members of the Board shall serve in their personal capacity.
 
 (2) The  Minister  shall  appoint  from  among  the  members  a President and a Deputy President. In the case when the President is abroad or for any other reason, for a temporary period, is unable to perform his functions, the Deputy President shall act as President and shall perform the powers and functions of the President.
@@ -2094,7 +2119,7 @@ EDUCATION
 
 (5) A member of the Board of Governors may at any time be removed from office by the Minister on the grounds of inability to perform the functions of his office as required, either because of mental or physical illness, or for any other reason due to which the member would no longer be fit to occupy such office or due to bad conduct.
 
-(6) A member of the Board may resign from his office through a letter addressed to the Minister. If any member tenders his resignation or is removed from his office by the Minister or should the office of any member of the Board become in any manner vacant, the Minister may appoint a qualified person to take up this post and any person who is so appointed shall keep on occupying that post up to the termination of the term of office of the person being so substituted and such person shall be eligible to be reappointed.
+(6) A member of the Board may resign from his office through a letter addressed to the Minister. If any member tenders his resignation or is removed from his office by the Minister or should the office of any member of the Board become in any manner vacant, the Minister may appoint a qualified person to take up this post and any person who is so appointed shall keep on occupying that post up to the termination of the term of office of the person being so substituted and such person shall be eligible to be re-appointed.
 
 (7) A  member  of  the  Board  of  Governors  having  a  direct  or indirect interest in any contract made or proposed to be made by the Board of Governors, or any financial interest or otherwise in any enterprise or activity which may affect the performance of his functions as a member in this Board, shall reveal the kind of his interest in the first sitting of the Board of Governors after having come to know of the relevant facts. Such matters as are revealed are to be registered in the minutes of the sitting of the Board, and the member concerned shall withdraw from the sitting while such contract or matter in which he has an interest is being discussed. Such matters as have been revealed are to be forwarded to the Minister without delay. When such interest as the member may have is such that it may lead to his removal from office, the member shall immediately report the fact to the Minister and offer to tender his resignation, without prejudice to the Minister's power to remove such member from the Board.
 
@@ -2103,8 +2128,7 @@ EDUCATION
 (9) Subject to the provisions of this Act and of any regulations made thereunder, the Board of Governors may appoint committees and generally regulate its own procedures.
 
 (10) The Board of Governors shall appoint a Secretary to keep
-##### Functions and powers of the Board of Governors.
-Added by: XIII. 2006.15.
+
 
 [[END OF PAGE 53]]
 
@@ -2119,6 +2143,9 @@ minutes and a record of the meetings and of its decisions.
 (11) The Board of Governors shall take all necessary precautions and treat information on commercially sensitive matters in a highly confidential manner in its relations with both public and private institutions.
 
 (12) The  Minister  may,  after  consulting  the  President  of  the Board of Governors, make regulations regarding the procedures to be adopted by the Board of Governors in the course of its operations.
+
+##### Functions and powers of the Board of Governors.
+Added by: XIII. 2006.15.
 
 93. (1) The Board of Governors shall be the highest governing body of the College and shall have the duty of performing the objectives and to exercise the powers of the College as laid down in the provisions of this Act, and shall in particular have the following functions:
 
@@ -2150,7 +2177,7 @@ EDUCATION
 
 ( j ) to  do  anything  which  it  may  deem  necessary  to  be done  to  achieve  the  objectives  of  the  College  and  to execute the powers and functions of the College which have not been previously vested in another governing body of the College:
 
-Provided that the Institutes, departments, centres, programmes on other education and training entities as referred to in paragraph ( b ) may be established by the Board of Governors, following consultation with the Council of Institutes, and their establishment, statutes and regulations are to be deemed to have come in force on that date that the Minister may by notice establish in the Gazette.
+Provided that the Institutes, departments, centres, programmes or other education and training entities as referred to in paragraph ( b ) may be established by the Board of Governors, following consultation with the Council of Institutes, and their establishment, statutes and regulations are to be deemed to have come in force on that date that the Minister may by notice establish in the Gazette.
 
 (2) The  Board  of  Governors  shall  also  approve  the  curricula and the syllabi submitted by the Institute and by each educational and training entity within it and, where it deems it so necessary, to revert same to such Institutes or entities together with its advice about any proposed amendments.
 
@@ -2159,6 +2186,9 @@ Provided that the Institutes, departments, centres, programmes on other educatio
 (4) The Board of Governors shall ensure that the qualification degrees, diplomas, distinctions and certificates of the College are recognised both at a national and at an international level, and that, wherever applicable, are related to the standards established by the Malta Qualifications Council.
 
 (5) The Board of Governors shall meet at least once every two months with a quorum of not less than one-half of the number of members of the Board plus one.
+
+##### Composition of the Council of the Institutes.
+Added by: XIII. 2006.15.
 
 94. The  Council  of  the  Institutes  shall  be  constituted  of  the following members:
 
@@ -2182,8 +2212,7 @@ Provided that the Institutes, departments, centres, programmes on other educatio
 
 ( j ) four members appointed by the Minister.
 
-##### Composition of the Council of the Institutes.
-Added by: XIII. 2006.15.
+
 
 [[END OF PAGE 55]]
 
@@ -2231,7 +2260,10 @@ Added by: XIII. 2006.15.
 
 ( f ) the Financial Controller.
 
-97. The Bureau shall meet at least every four  weeks  in order
+##### Functions of the Bureau.
+Added by: XIII. 2006.15.
+
+97. The Bureau shall meet at least every four weeks in order to:
 
 ( a ) ensure that the policies, strategy and decisions adopted by  the  Board  of  Governors  and  by  the  Council  are actuated;
 
@@ -2239,9 +2271,7 @@ Added by: XIII. 2006.15.
 
 ( c ) under  the direction of the Principal,  and  without prejudice  to  any  of  the  provisions  of  this  Part,  take
 
-##### Functions of the Bureau.
-Added by: XIII. 2006.15.
-to:
+
 
 [[END OF PAGE 56]]
 
@@ -2258,6 +2288,9 @@ care of all the  matters related to the process  of selection and engagement of 
 ( e ) adopt all necessary measures to apply the disciplinary procedures  and  the  auditing  and  quality  assurance schemes of all operations within the College;
 
 ( f ) ensure  the  keeping  of  lively  and  proactive  relations between  the  College  and  its  partners  in  Malta  and overseas.
+
+##### Composition of the Board of Studies of the Institutes.
+Added by: XIII. 2006.15.
 
 98. (1) Each  Institute  shall  have  a  Board  of  Studies  to  be constituted of the following members:
 
@@ -2281,15 +2314,14 @@ care of all the  matters related to the process  of selection and engagement of 
 
 (2) The Principal shall have the right to convene a meeting of the Board of Studies of any Institute whenever he may deem necessary and in such cases he shall preside the meeting.
 
+##### Functions of the Board of Studies.
+Added by: XIII. 2006.15.
+
 99. (1) The Board of Studies shall have the following functions:
 
 ( a ) to  conduct  the  educational  and  training  work  of  the Institute;
 
-##### Composition of the Board of Studies of the Institutes.
-Added by: XIII. 2006.15.
 
-##### Functions of the Board of Studies.
-Added by: XIII. 2006.15.
 
 [[END OF PAGE 57]]
 
@@ -2301,8 +2333,7 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Partnership Office.
-Added by: XIII. 2006.15.
+
 
 ( b ) to establish the studies, the instruction to be imparted, the training and the research at the Institute, centre or programme  for  which  it  may  be  responsible,  and  to provide for the administration, publication and dissemination of the academic, training and development operations of the Institute and to allot the work to be done in such activities;
 
@@ -2316,9 +2347,12 @@ Added by: XIII. 2006.15.
 
 (3) The  Board  of  Studies  shall  meet  at  least  once  every  six weeks and the quorum of the meetings shall be of five members.
 
+##### Partnership Office.
+Added by: XIII. 2006.15.
+
 100. There shall be a Partnership Office whose head shall be a person appointed for the purpose by the Board of Governors and who shall also be responsible for the bilateral and international relations at the College, including such matters as are related to Europe. The functions of the Partnership Office are:
 
-( a ) to  develop  the  necessary  relations  for  the  greater  cooperation and synergy between the College and educational  and  training  institutions,  both  public  and private, operating in Malta;
+( a ) to  develop  the  necessary  relations  for  the  greater  co-operation and synergy between the College and educational  and  training  institutions,  both  public  and private, operating in Malta;
 
 ( b ) to  develop  by  agreement  and  suitable  measures  a proactive  partnership  between  the  College  and  its Institutes  on  one  part,  and  the  industrial  and  services economic sectors on the other;
 
@@ -2338,13 +2372,19 @@ EDUCATION
 
 [ CAP. 327. 59
 
+##### Powers and duties of the President.
+Added by: XIII. 2006.15.
+
 101. (1) The  President  shall  be  the  highest  officer  of  the College and shall be responsible for ensuring that the College complies with this Act.
 
-(2) The President shall issue the statutes, regulations and byelaws of the governing bodies of the College and may revert once to any governing body such statutes, regulations and bye-laws which in his opinion are not in terms of the law.
+(2) The President shall issue the statutes, regulations and bye-laws of the governing bodies of the College and may revert once to any governing body such statutes, regulations and bye-laws which in his opinion are not in terms of the law.
 
 (3) The President shall  whenever he deems it  necessary, have the power to convene and preside the Board of Governors, the Council, the Administrative Bureau and the Board of Studies.
 
 (4) Whenever the office of President is temporarily vacant, and until a new President is appointed, and whenever the holder of such office is absent from Malta or on vacation or is for any reason unable to perform the functions conferred upon him by this Act, those functions shall be performed by the Deputy President of the Board of Governors.
+
+##### Powers of the Principal.
+Added by: XIII. 2006.15.
 
 102. (1) The Principal shall be the Chief Executive Officer of the College.
 
@@ -2359,11 +2399,7 @@ Provided  that  any  such  aforementioned  decision  effecting any power or func
 (5) The  Principal  shall  ensure  that,  insofar  as  it  depends  on him, the governing bodies are regularly constituted, and that he provides for the organisation of such elections required by this Act, including that they actually be held as established and without undue delay.
 
 (6) The Principal  shall  ensure  that  the  governing  bodies  meet regularly as established by this Act and he shall be responsible for the planning and coordination of the activities of the different educational and training bodies and institutions and for the
-##### Powers and duties of the President.
-Added by: XIII. 2006.15.
 
-##### Powers of the Principal.
-Added by: XIII. 2006.15.
 
 [[END OF PAGE 59]]
 
@@ -2375,21 +2411,17 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Deputy Principals.
-Added by: XIII. 2006.15.
 
-##### The Registrar.
-Added by: XIII. 2006.15.
-
-##### The Administrative Director.
-Added by: XIII. 2006.15.
-
-##### The Librarian.
-Added by: XIII. 2006.15.
 
 performance of the decisions of the competent authorities of the College.
 
+##### Deputy Principals.
+Added by: XIII. 2006.15.
+
 103. The Deputy Principals shall perform such functions as are delegated to them by the Principal, including that they act on his behalf as may be necessary.
+
+##### The Registrar.
+Added by: XIII. 2006.15.
 
 104. The Registrar shall:
 
@@ -2411,7 +2443,13 @@ performance of the decisions of the competent authorities of the College.
 
 ( i ) carry out such other duties as may be called for by the Principal according to the exigencies of the College.
 
+##### The Administrative Director.
+Added by: XIII. 2006.15.
+
 105. The  Administrative  Director  shall,  under  the  direction  of the Principal, be responsible for the administration and the day to day functioning of the College, its employees and all movable and immovable property, and, wherever applicable, he shall execute decisions made by the governing bodies of the College. Without prejudice to the provisions of this Act, the Administrative Director shall perform all other duties as he may from time to time be requested to perform by the Principal owing to the exigencies of the College.
+
+##### The Librarian.
+Added by: XIII. 2006.15.
 
 106. The  Librarian  is  entrusted  with  the  administration  of  the Library and he shall:
 
@@ -2433,6 +2471,9 @@ EDUCATION
 
 ( e ) present  a  report  to  the  Library  Committee  on  the working  of  the  Library  at  the  end  of  each  academic year.
 
+##### Financing and control of the College finances.
+Added by: XIII. 2006.15.
+
 107. (1) The  Board  of  Governors  shall  during  each  financial year ensure the preparation and adoption of a budget of the revenue and expenditure of the College for the following year.
 
 (2) The Board of Governors shall ensure the proper keeping of accounts and other records concerning its operations and transactions, and shall ensure that a relative statement of accounts is prepared for each financial year.
@@ -2441,9 +2482,12 @@ EDUCATION
 
 (4) The  Board  of  Governors  shall,  not  later  than  six  months from the closing of each financial year, ensure that a copy of the audited statement of accounts, together with a report of the activities during that year of the College, is sent to the Minister together with a copy of the report made by the auditor or auditors about that statement, and the Minister shall without undue delay cause such statements and reports to be laid on the Table of the House of Representatives.
 
+##### The Financial Controller.
+Added by: XIII. 2006.15.
+
 108. (1) The Financial Controller shall, under the direction of the Principal or the Deputy Principal as delegated by the Principal, be responsible for the day to day administration of the College finances, reporting to the said Principal.
 
-- In particular, the Financial Controller shall:
+(2) In particular, the Financial Controller shall:
 
 ( a ) prepare -
 
@@ -2463,11 +2507,7 @@ EDUCATION
 
 ( f ) carry  out  such  internal  auditing  and  control  as  he deems necessary;
 
-##### Financing and control of the College finances.
-Added by: XIII. 2006.15.
 
-##### The Financial Controller.
-Added by: XIII. 2006.15.
 
 [[END OF PAGE 61]]
 
@@ -2479,21 +2519,14 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Staff appointments with formal duties of instruction or research.
-Added by: XIII. 2006.15.
 
-##### Official dress.
-Added by: XIII. 2006.15.
-
-##### Award of degrees and diplomas.
-Added by: XIII. 2006.15.
-
-##### Common provisions for the governing bodies of the College.
-Added by: XIII. 2006.15.
 
 ( g ) in conjunction with the Principal or the Administrative Director, countersign bills of exchange, cheques, bank drafts, letters of credit and all other banking, financial and commercial documents, subject to any restrictions made by the Board of Governors;
 
 ( h ) discharge such other duties as may be called upon the Principal owing to the exigencies of the College.
+
+##### Staff appointments with formal duties of instruction or research.
+Added by: XIII. 2006.15.
 
 109. (1) The  appointment  of  staff  with  duties  of  teaching, training and, or research shall be made in the grades of professor, associate professor, senior lecturer, lecturer, assistant lecturer, teaching assistant, research assistant or in any other grade approved by the Board of Governors according to the qualifications of the person being appointed.
 
@@ -2501,13 +2534,22 @@ Added by: XIII. 2006.15.
 
 (3) An  appointment  to  a  post  with  formal  duties  of  teaching and, or, research shall be made by the Principal and confirmed by the Board of Governors.
 
+##### Official dress.
+Added by: XIII. 2006.15.
+
 110. The proper official dress which the principal officers of the College, instructors, graduates, students and other members of the College are expected to wear on official occasions shall be prescribed by regulations made by the Board of Governors following consultations with Council.
 
-111. (1) Degrees  and  diplomas  shall  he  awarded  at  a  public ceremony or, with the consent of the Board of Governors, at a private ceremony or in absentia .
+##### Award of degrees and diplomas.
+Added by: XIII. 2006.15.
+
+111. (1) Degrees  and  diplomas  shall  be  awarded  at  a  public ceremony or, with the consent of the Board of Governors, at a private ceremony or in absentia .
 
 (2) A candidate shall be eligible for the award of a degree or diploma only after certification by the Principal that all the conditions prescribed by statutes, regulations and bye-laws relevant to that degree or diploma have been fulfilled, and insofar as all other obligations and responsibilities of the candidate towards the College have also been satisfied.
 
 (3) No  person  may  be  considered  as  holding  a  degree  or diploma of the College unless such degree or diploma has been conferred as prescribed in subarticle (1).
+
+##### Common provisions for the governing bodies of the College.
+Added by: XIII. 2006.15.
 
 112. (1) Any person holding office on a governing body of the College shall, unless otherwise specifically provided elsewhere in this Act, hold such office for a period of two years:
 
@@ -2515,7 +2557,7 @@ Provided  that  any  person  holding  office  on  a  governing body of the Colle
 
 (2) Any governing body of the College may act notwithstanding any vacancy in its membership and quorum shall be computed as if there were no such vacancy.
 
-(3) Any  matter  proposed  for  decision  at  any  meeting  of  any governing body of the College shall be determined by a majority of the votes of the members present and voting, and if, on any such question the votes are equally divided, the presiding member shall have and exercise a casting vote.
+(3) Any matter proposed for decision at any meeting of any
 
 [[END OF PAGE 62]]
 
@@ -2525,13 +2567,22 @@ EDUCATION
 
 [ CAP. 327. 63
 
+governing body of the College shall be determined by a majority of the votes of the members present and voting, and if, on any such question the votes are equally divided, the presiding member shall have and exercise a casting vote.
+
 ### PART IX
+Added by: XIII. 2006.17.
 
 #### Officers and Staff of the Entities
+
+##### Staff appointments.
+Added by: XIII. 2006.17.
 
 113. (1) Subject  to  the  provisions  of  the  Constitution  and  of any other enactment applicable hereto, including this Act, any entity, acting with the concurrence of the Minister, may appoint and employ such officials and other employees which may from time to time be required for the due and efficient performance of its functions.
 
 (2) Such appointment and employment of the said officials and employees shall be effected with such remuneration and upon such terms and conditions as the entity may, in concurrence with the Minister, from time to time, determine.
+
+##### Status of public officers detailed for duty with an entity.
+Added by: XIII. 2006.17.
 
 114. (1) The Prime Minister may, at the request of any entity made with the concurrence of the Minister, from time to time direct that any public officer be detailed for duty with an entity in such capacity and with effect from such date and for such duration as may be specified in the Prime Minister's direction.
 
@@ -2547,14 +2598,6 @@ EDUCATION
 
 (ii) be so employed that his remuneration and conditions  of  service  are  less  favourable  than those  which  are  attached  to  the  appointment
 
-Added by: XIII. 2006.17.
-
-##### Staff appointments.
-Added by: XIII. 2006.17.
-
-##### Status of public officers detailed for duty with an entity.
-Added by: XIII. 2006.17.
-
 [[END OF PAGE 63]]
 
 [[START OF PAGE 64]]
@@ -2563,18 +2606,10 @@ Added by: XIII. 2006.17.
 
 EDUCATION
 
-Cap. 93. Cap. 58.
-
-##### Offer of permanent employment to public officers detailed for duty with the entities.
-Added by: XIII. 2006.17.
+under  the  Government  held  by  him  at  the  date aforesaid or which would have become attached to such appointment, during the said period, had such officer not been detailed for duty with the entity; and
 
 Cap. 93.
-
 Cap. 58.
-
-Cap. 58.
-
-under  the  Government  held  by  him  at  the  date aforesaid or which would have become attached to such appointment, during the said period, had such officer not been detailed for duty with the entity; and
 
 ( b ) shall  be  entitled  to  have  his  service  with  the  entity considered  as  service  with  the  Government  for  the purposes of any pension, gratuity, or benefit under the Pensions  Ordinance  and  the  Widows'  and  Orphans' Pensions  Act  and  of  any  other  right  or  privilege  to which he would be entitled, and liable to any liability to  which  he  would  be  liable,  but  for  the  fact  of  his being detailed for duty with an entity.
 
@@ -2582,15 +2617,23 @@ under  the  Government  held  by  him  at  the  date aforesaid or which would ha
 
 (6) The entity shall pay to the Government, where applicable, such contributions as may from time to time be determined by the Minister responsible for finance in respect of the cost of pensions and gratuities earned by an officer detailed for duty with the entity as aforesaid during the period in which he is so detailed.
 
+##### Offer of permanent employment to public officers detailed for duty with the entities.
+Added by: XIII. 2006.17.
+
 115. (1) An  entity may, with the approval of the  Prime Minister, offer to any officer detailed for duty with the said entity under the provision of article 114 permanent employment with the entity at a remuneration and on terms and conditions not less favourable than those enjoyed by such officer at the date of such offer.
 
 (2) The terms and conditions comprised in any offer made as aforesaid shall not be deemed to be less favourable merely because they are not in all respects identical with or superior to those enjoyed by the officer concerned at the date of such offer, if such terms and conditions, taken as a whole, in the opinion of the Prime Minister, offer substantially equivalent or greater benefits.
 
+Cap. 93.
+Cap. 58.
+
 (3) Every officer who accepts permanent employment with the entity, offered to him under the provisions of subarticle (1), shall for all purposes other than those of the Pensions Ordinance and of the Widows' and Orphans' Pensions Act, be deemed to have ceased to be in service with the Government and to have entered into service with the entity on the date of his acceptance, and for the purposes of the said Ordinance and of the said Act, so far as applicable to him, service with the entity shall be deemed to be service with the Government within the meanings thereof respectively.
+
+Cap. 58.
 
 (4) Every  such  officer  as  aforesaid  who,  immediately  before accepting permanent employment with the entity was entitled to benefit under the Widows' and Orphans' Pensions Act, shall continue to be so entitled to benefit thereunder to all intents as if his service with the entity were service with the Government.
 
-(5) The entity shall pay to the Government such contributions as may from time to time be determined by the Minister responsible for finance in respect of the cost of pensions and gratuities earned by an officer who has accepted permanent employment with the entity as aforesaid during the period commencing on the date of such officer's acceptance.
+(5) The entity shall pay to the Government such contributions as may from time to time be determined by the Minister responsible
 
 [[END OF PAGE 64]]
 
@@ -2600,9 +2643,13 @@ EDUCATION
 
 [ CAP. 327. 65
 
+for finance in respect of the cost of pensions and gratuities earned by an officer who has accepted permanent employment with the entity as aforesaid during the period commencing on the date of such officer's acceptance.
+
+Cap. 93.
+
 (6) For the purpose of the Pensions Ordinance the pensionable emoluments of such public officer on retirement shall be deemed to be the pensionable emoluments payable to an officer in Government service in a grade and at an incremental level corresponding to the post and incremental level at which the officer retires from the entity.
 
-( a ) For the purposes of this article posts and salary grades with the entity shall be classified in the most nearly corresponding grades and incremental levels in the service under the Government of Malta by reference to job description, skills, responsibilities and other analogous factors.
+(7) ( a ) For the purposes of this article posts and salary grades with the entity shall be classified in the most nearly corresponding grades and incremental levels in the service under the Government of Malta by reference to job description, skills, responsibilities and other analogous factors.
 
 ( b ) The classification referred to in paragraph ( a ) shall be carried  out  by  a  Board  composed  of  a  Chairperson appointed by the Ministry responsible for finance and two  other  members,  one  appointed  by  the  Ministry responsible  centrally  for  personnel  policies  in  the public service and one appointed by the entity concerned.  The  classification  shall  be  subject  to  the final approval of the Minister responsible for finance.
 
@@ -2610,22 +2657,21 @@ EDUCATION
 
 ( d ) No post shall be classified in a grade higher than that of a Grade 3 in the service of the Government or such other  grade  that  the  Minister  responsible  for  finance may  from  time  to  time  by  notice  in  the  Gazette determine.
 
+Cap. 93.
+
 ( e ) Without  prejudice  to  the  provisions  of  article  113  of the Constitution, no person may, following a classification  as  aforesaid,  be  entitled  to  rights  under the said Pensions Ordinance less favourable than those to  which  he  would  have  been  entitled  prior  to  such classification.
 
 ### PART X
+Added by: XIII. 2006.18.
 
 #### Financial Provisions
 
-116. (1) Without prejudice to the following provisions of this article, every entity shall so conduct its affairs that the expenditure required for the proper performance of its functions shall, as far as possible and practicable, be met out of its revenue.
-
-(2) In  case  an  entity  registers  any  excess  of  revenue  over expenditure, this excess shall, subject to such directives as the Minister, after consultation with the Minister responsible for Cap. 93.
-
-Cap. 93.
-
-Added by: XIII. 2006.18.
-
 ##### Entities to meet expenditure out of revenue.
 Added by: XIII. 2006.18.
+
+116. (1) Without prejudice to the following provisions of this article, every entity shall so conduct its affairs that the expenditure required for the proper performance of its functions shall, as far as possible and practicable, be met out of its revenue.
+
+(2) In  case  an  entity  registers  any  excess  of  revenue  over expenditure, this excess shall, subject to such directives as the Minister, after consultation with the Minister responsible for
 
 [[END OF PAGE 65]]
 
@@ -2637,27 +2683,28 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Advances from Government.
-Added by: XIII. 2006.18.
 
-##### Power to borrow or raise capital.
-Added by: XIII. 2006.18. Amended by: L.N. 424 of 2007.
-
-##### Borrowing from Government.
-Added by: XIII. 2006.18.
 
 finance, may from time to time give, be applied by the entity to the formation of reserve funds to be used for the purposes of the functions of the entity.
 
 (3) Any  funds  of  an  entity  not  immediately  required  to  meet expenditure may be invested in such manner as may from time to time be approved by the Minister.
 
+##### Advances from Government.
+Added by: XIII. 2006.18.
+
 117. The Minister responsible for finance may, after consultation with the Minister, make advances to the entity of such sums as he may agree to be required by the entity for carrying out any of its functions under this Act, and may make such advances on such terms and conditions as he may, after consultation as aforesaid, deem appropriate. Any such advance may be made by the Minister responsible for finance out of the Consolidated Fund, and without further appropriation other than this Act, by warrant under his hand authorising the Accountant General to make such advance.
+
+##### Power to borrow or raise capital.
+Added by: XIII. 2006.18. Amended by: L.N. 424 of 2007.
 
 118. (1) For  the  purpose  of  carrying  out  any  of  its  functions under this Act, the entity may, with the approval in writing of the Minister, given after consultation with the Minister responsible for finance, borrow or raise money in such manner, from such person, body or authority, and under such terms and conditions as the Minister, after consultation as aforesaid, may in writing approve.
 
 (2) An entity may also, from time to time, borrow, by way of overdraft or otherwise, such sums as it may require by way of working capital for carrying out its functions under this Act:
 
-Provided that for any facility in an amount exceeding sixtynine thousand and eight hundred and eighty-one euro and twenty cents (69,881.20), there shall be required the approval of the Minister in writing.
+Provided that for any facility in an amount exceeding sixty-nine thousand and eight hundred and eighty-one euro and twenty cents (69,881.20), there shall be required the approval of the Minister in writing.
 
+##### Borrowing from Government.
+Added by: XIII. 2006.18.
 119. (1) The  Minister  responsible  for  finance  may,  for  any requirements of an entity of a capital nature, contract or raise loans, or incur liabilities, for such periods and on such terms and conditions as he may deem appropriate; and any sums due in respect of or in connection with any such loan or liability shall be a charge on the Consolidated Fund.
 
 (2) Notice of any loans, liabilities or advances made  or incurred under the foregoing provisions of this article shall be given to the House of Representatives as soon as practicable.
@@ -2676,7 +2723,10 @@ EDUCATION
 
 (5) Sums received by the Accountant General from an entity in respect of advances made to the entity under this article, shall be paid, as respects of amounts received by way of repayment into the Treasury Clearance Fund and, as respects amounts received by way of interest into the Consolidated Fund.
 
-120. (1) An entity shall cause to be prepared in every financial year, and shall not later than the end of September of each such year adopt, estimates of the income and expenditure of the entity for the next following financial yea:
+##### Estimates of entity.
+Added by: XIII. 2006.18.
+
+120. (1) An entity shall cause to be prepared in every financial year, and shall not later than the end of September of each such year adopt, estimates of the income and expenditure of the entity for the next following financial year:
 
 Provided  that  the  estimates  for  the  first  financial  year  of each entity shall be prepared and adopted within such time as the Minister may by notice in writing to the entity specify.
 
@@ -2686,19 +2736,18 @@ Provided  that  the  estimates  for  the  first  financial  year  of each entity
 
 (4) A copy of  the  estimates  shall,  upon  their  adoption  by  the entity, be sent forthwith by the entity to the Minister and to the Minister responsible for finance. The Minister shall at the earliest opportunity and not later than six weeks after he has received a copy of the estimates from the entity, after consultation with the Minister responsible for finance, approve the same with or without amendment. The Minister shall as soon as practicable cause the total amount of these approved estimates to form an integral part of the Government General Estimates.
 
+##### Expenditure to be according to approved estimates.
+Added by: XIII. 2006.18.
+
 121. (1) No expenditure shall be made or incurred by an entity unless provision therefor has been made in the estimates approved as provided in article 120.
 
-- Notwithstanding the provisions of subarticle (1) -
+(2) Notwithstanding the provisions of subarticle (1) -
 
 ( a ) until the expiry of six months from the beginning of a financial year, or until the approval of the estimates for that year by the Minister, whichever is the earlier date, the entity may make or incur expenditure for carrying on  its  functions  under  this  Act  not  exceeding  in  the aggregate  one-half  of  the  amount  approved  by  the Minister for the preceding financial year;
 
 ( b ) expenditure approved in respect of a head or sub-head of the estimates may, with the approval of the Minister given after consultation with the Minister responsible for finance, be made or incurred in respect of another head or sub-head of the estimates;
 
-##### Estimates of entity.
-Added by: XIII. 2006.18.
 
-##### Expenditure to be according to approved estimates.
-Added by: XIII. 2006.18.
 
 [[END OF PAGE 67]]
 
@@ -2710,15 +2759,14 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Accounts and audit.
-Added by: XIII. 2006.18.
 
-##### Deposit of revenues and payment by the entity.
-Added by: XIII. 2006.18.
 
 ( c ) in  respect  of  the  first  financial  year,  the  entity  may make or incur expenditure not exceeding in the aggregate such amounts as the Minister responsible for finance  may,  after  consultation  with the  Minister, allow;
 
 ( d ) if  in  respect  of  any  financial  year  it  is  found  that  the amount approved by the Minister is not sufficient or a need  has  arisen  for  expenditure  for  a  purpose  not provided  for  in  the  estimates,  the  entity  may  adopt supplementary estimates for approval by the Minister, and  in any  such  case  the  provisions  of this  Act applicable to the estimates shall as near as practicable apply to the supplementary estimates.
+
+##### Accounts and audit.
+Added by: XIII. 2006.18.
 
 122. (1) The entity shall cause to be kept proper accounts and other records in respect of its operations, and shall cause to be prepared a statement of accounts in respect of each financial year.
 
@@ -2730,13 +2778,16 @@ Provided  that  the  Minister  responsible  for  finance  may, after consultatio
 
 (4) The Minister shall, as soon as practicable, cause a copy of every such statement and report to be laid on the Table of the House of Representatives.
 
+##### Deposit of revenues and payment by the entity.
+Added by: XIII. 2006.18.
+
 123. (1) All monies accruing to the entity shall be paid into a bank or banks appointed as bankers by the entity with the approval of the Minister. Such monies shall, as far as practicable, be paid into any such banks from day to day, except for such sum as the entity may authorise to be retained to meet petty disbursements and immediate cash payments.
 
 (2) All payments out of the funds of the entity, other than petty disbursements not exceeding a sum as from time to time may be fixed by the entity, shall be made by such officer or officers of the entity as the entity shall appoint or designate for that purpose.
 
 (3) Cheques against and withdrawals from any bank account of the entity shall be signed by such officer of the entity as may be appointed or designated by the entity for that purpose and shall be countersigned by such other member or officer of the entity as may be authorised by the entity for that purpose.
 
-- Each entity shall also make provision with respect to:
+(4) Each entity shall also make provision with respect to:
 
 [[END OF PAGE 68]]
 
@@ -2752,11 +2803,18 @@ EDUCATION
 
 ( c ) the  method to be adopted in making payments out of funds  of  the  entity  and  generally  with  respect  to  any matter  which  is  relevant  to  the  proper  keeping  and control of the accounts and books, and the control of the finance, of the entity.
 
+##### Contracts of supply or work.
+Added by: XIII. 2006.18. Amended by: L.N. 424 of 2007.
+
 124. No  entity  shall,  except  with  the  approval  of  the  Minister granted for special reasons and after consultation with the Minister responsible for finance, award or enter into any contract for the supply of goods or materials or for the execution of works, or for the rendering of services, to or for the benefit of the entity, which is estimated by the entity to exceed six thousand and nine hundred and eighty-eight euro and twelve cents (6,988.12) in value, or such other amount as the Minister responsible for finance may by regulations under this article prescribe, except after notice of the intention of the entity to enter into the contract has been published and competitive tenders have been issued.
 
 ### PART XI
+Amended by: XIII. 2006.19.
 
 #### Miscellaneous
+
+##### Registrar of Examinations.
+Amended by: XVIII. 1997.8; XIII. 2006.19.
 
 125. The  Minister  shall  appoint  a  Registrar  of  Examinations who shall be responsible for -
 
@@ -2766,20 +2824,14 @@ EDUCATION
 
 For the purposes of paragraph ( b ), the State shall be deemed to have effective control of a commercial partnership where in that partnership more than fifty per cent of the capital or voting power is owned or controlled, directly or indirectly, by the State.
 
-126. (1) In State schools and the University all teaching shall be given to Maltese citizens without any fee being charged. So as to ensure the full exercise of choice of school by parents, the State shall, through agreements of subsidy of non-State schools, when such are of a non profit-making character, in accordance with the availability of public funds, provide gradually for the same gratuity of teaching in such schools as is afforded to students in State schools.
-
-- The  Minister  may  by  regulations  prescribe  the  fees  to  be
-
-##### Contracts of supply or work.
-Added by: XIII. 2006.18. Amended by: L.N. 424 of 2007.
-
-Amended by: XIII. 2006.19.
-
-##### Registrar of Examinations.
-Amended by: XVIII. 1997.8; XIII. 2006.19.
-
 ##### Gratuity of teaching and subsidy in certain cases.
 Amended by: XIII. 2006.19.
+
+126. (1) In State schools and the University all teaching shall be given to Maltese citizens without any fee being charged. So as to ensure the full exercise of choice of school by parents, the State shall, through agreements of subsidy of non-State schools, when such are of a non profit-making character, in accordance with the availability of public funds, provide gradually for the same gratuity of teaching in such schools as is afforded to students in State schools.
+
+(2) The  Minister  may  by  regulations  prescribe  the  fees  to  be
+
+
 
 [[END OF PAGE 69]]
 
@@ -2791,10 +2843,7 @@ CAP. 327. ]
 
 EDUCATION
 
-##### Appeals.
-Amended by: VI. 20001.19; XIII. 2006.19. Substituted by: XIII. 2006.20.
 
-Cap. 12.
 
 charged for examinations and special courses outside regular hours and the fees to be paid by students who are not Maltese citizens:
 
@@ -2808,6 +2857,9 @@ Provided that the Minister may exempt any person from the payment of those fees.
 
 Provided that in making such regulations the Minister shall ensure on the basis of an objective assessment of the schools to which the regulations apply that these shall be in a position to continue to provide their services and for this purpose the Minister shall, if necessary, supplement the financial means of those schools through public funds.
 
+##### Appeals.
+Amended by: VI. 2001.19; XIII. 2006.19. Substituted by: XIII. 2006.20.
+
 127. (1) When  a  person  who  applies  for  a  licence  to  open  a school under article 20 has his application refused, or when the applicant has not been served notice in writing of the decision of the Minister as established in article 20(6), or when a school licence is suspended or withdrawn by the Minister, the applicant or the licence holder may, within the time prescribed in article 20(11), appeal to the Court of Appeal in its Inferior Jurisdiction.
 
 (2) Notwithstanding that an appeal would have been lodged in accordance with the provisions of this article, a licence shall be considered as having been suspended or cancelled, as the case may be, pending the final decision of the Court of Appeal.
@@ -2815,6 +2867,8 @@ Provided that in making such regulations the Minister shall ensure on the basis 
 (3) The Minister responsible for justice may make regulations which establish the fees to be paid in the Court registry with regard to appeals made under this article:
 
 Provided that until such fees are established by the Minister responsible for justice, the fees that are due to be paid for appeals before that Court shall be the same fees as apply to the Court of Magistrates (Malta).
+
+Cap. 12.
 
 (4) The Board established by virtue of article 29 of the Code of Organisation and Civil Procedure shall make regulations which establish the form of such appeals and other matters relating thereto.
 
@@ -2826,6 +2880,9 @@ EDUCATION
 
 [ CAP. 327. 71
 
+##### Employment of minors.
+Amended by: II. 2005.20; XIII. 2006.19, 21.
+
 128. (1) No person may employ a minor of compulsory school age or otherwise bound to regularly attend school under the provisions of this Act without the written permission of the Director General of the Directorate for Educational Services.
 
 (2) The  Director  General  of  this  Directorate  may  give  his permission under subarticle (1) when the minor concerned, notwithstanding that he is under the compulsory age to start attending school, would have terminated the full obligatory course at secondary level and produces evidence that he has an offer in writing for him to make a work experience exclusively during the summer holiday period.
@@ -2836,17 +2893,16 @@ EDUCATION
 
 (5) The Director General of the Directorate referred to in this article may approve apprenticeship indentures and training schemes which, when so approved, shall not be deemed to constitute employment for the purposes of this article.
 
+##### Offences and penalties.
+Amended by: XIII. 2006.19, 22; L.N. 424 of 2007.
+
 129. (1) Any parent of a minor who -
 
 ( a ) fails  to  register  that  minor  in  a  State  school,  or  in  a school licensed under this Act, for the first scholastic year starting when he is of compulsory school age or fails  to  ensure  that  the  minor  is  so  registered  at  all times for every scholastic year during the whole period that the minor is of compulsory school age or fails to cause that minor to continue to be so registered up to the end of the scholastic year during which the minor ceases to be of compulsory school age or up to the end of such further period as the Minister may by regulations prescribe; or
 
 ( b ) fails  to  ensure,  without  a  good  and  sufficient  cause, that the minor attends school regularly on each scholastic day during such period that the minor is of compulsory  school  age  and  up  to  the  end  of  the
 
-##### Employment of minors.
-Amended by: II. 2005.20; XIII. 2006.19. 21.
 
-##### Offences and penalties.
-Amended by: XIII. 2006.19, 22; L.N. 424 of 2007.
 
 [[END OF PAGE 71]]
 
@@ -2856,11 +2912,7 @@ Amended by: XIII. 2006.19, 22; L.N. 424 of 2007.
 
 EDUCATION
 
-##### Persons considered to be public officers.
-Added by: XIII. 2006.23. Cap. 9.
 
-##### Establishment of other entities.
-Added by: XIII. 2006.23.
 
 scholastic year during which the minor ceases to be of compulsory  school  age  and  up  to  the  end  of  such further  period  as  the  Minister  may  by  regulations prescribe;
 
@@ -2876,7 +2928,14 @@ Provided that no criminal proceedings for an offence under paragraph ( b ) of th
 
 (5) In  the  case  of  a  second  or  subsequent  conviction  for  an offence against the provisions of this article, committed by a person in possession of a licence under this Act, it shall be lawful for the court, at the request of the Minister, to cancel the licence or to suspend the same for any time it deems appropriate, in its discretion.
 
+##### Persons considered to be public officers.
+Added by: XIII. 2006.23.
+Cap. 9.
+
 130. For the purposes of the Criminal Code and of any provision relating to a criminal offence, the members of any Board, Directorate, College, Committee, Commission, Council and any officer or employee of any entity, shall be considered and be treated as public officers.
+
+##### Establishment of other entities.
+Added by: XIII. 2006.23.
 
 131. Without prejudice to the provisions of this Act or of some other law, the Prime Minister may by Order in the Gazette establish other entities, including those agencies, directorates, departments or other educational institutions as he may deem necessary for the better quality and provision of education and training services in the country, and the Prime Minister may also by an Order in the Gazette constitute any entity established under this Act a body corporate with its own juridical and distinct personality, and the Prime Minister shall in such a case, by means of regulations, provide for any matter that may be necessary for the effective management of the entity mentioned in the relative Order.
 
@@ -2888,25 +2947,27 @@ EDUCATION
 
 [ CAP. 327. 73
 
+##### Institution for tourism studies.
+Added by: XIII. 2006.23.
+
 132. (1) The Minister shall ensure the existence of an institution to provide courses and programmes of education and training, including practical and work experience, at the levels of further and higher education, that lead to recognised qualifications in trades, skills, and professions as may be necessary in the tourism, restaurants and the catering industry and services, and all this in a curricular framework of lifelong learning and the holistic development of the person.
 
 (2) Without prejudice to the provisions of this Act or of some other law, the Minister may make regulations to regulate and to provide for any matter related to the bodies, administration and control, the education and training policies, functions, appointments and conditions of work of teachers, officers and employees, the financing of the institution, internal and external educational quality audit and assurance, and any other matter that may be necessary for the performance and results of the institution referred to in subarticle (1).
+
+##### Penalties following second or subsequent convictions.
+Amended by: XIII. 2006.19, 26.
 
 133. (1) In the case of a second or subsequent conviction for an offence committed by any parent against the provisions of article 129(1), the Second Hall of the Civil Court may, upon an application by the Director of Education, deprive that parent of his authority, whether " de jure " or " de facto ", over the minor and may appoint a tutor for that minor.
 
 (2) In  the  case  of  a  second  or  subsequent  conviction  for  an offence committed by any other person against the provisions of article 129(2), the court may authorise the Minister, at his request, to take possession of the premises opened or kept as a school without a licence and this for such time as the court may deem necessary to prevent that person from committing a further offence against the provisions of that sub-article.
 
+##### Relations with the Minister.
+Repealed by: XVIII. 1997.9. Amended by: XIII. 2006.19. Substituted by: XIII. 2006.24.
+
 134. (1) The  Minister  may,  from  time  to  time  give  to  any  of the entities or to any of its officers or employees such directives and orders, not being inconsistent with the provisions of this Act, as the Minister may deem opportune with regard to the policy that has  t o   b e   f o l l o w e d   b y   t h e m   a n d   t o   t h e   o p e r a t i o n   a n d implementation of their functions, and on any other matter which appears to the Minister to be connected with the education, and the entity, officer or employee concerned shall, as much as possible without delay, comply with and act in accordance with these directives and orders and shall conduct their functioning in accordance with these principles.
 
 (2) Every entity shall give the Minister all required facilities so that he may obtain all information connected with their affairs and
-##### Institution for tourism studies.
-Added by: XIII. 2006.23.
 
-##### Penalties following second or subsequent convictions.
-Amended by: XIII. 2006.19, 26.
-
-##### Relations with the Minister.
-Repealed by: XVIII. 1997.9. Amended by: XIII. 2006.19. Substituted by: XIII. 2006.24.
 
 [[END OF PAGE 73]]
 
@@ -2916,10 +2977,12 @@ Repealed by: XVIII. 1997.9. Amended by: XIII. 2006.19. Substituted by: XIII. 200
 
 EDUCATION
 
-##### Power to make regulations.
-Amended by: XIII. 2006.19. Substituted by: XIII. 2006.25.
+
 
 activities of any entity, officer or employee, and for this purpose they shall supply the Minister with returns, bills and any other information connected thereto, or with their functions, and give him all required facilities to audit all given information, in such manner and within such times as the Minister may reasonably require.
+
+##### Power to make regulations.
+Amended by: XIII. 2006.19. Substituted by: XIII. 2006.25.
 
 135. The  Minister  may,  subject  to  the  provisions  of  this  Act, make regulations to give effect to any of the provisions of this Act, or to regulate or otherwise provide about any thing in respect of the functions and the activities which affect education according to this Act, and may in particular, but without prejudice to the generality of the aforesaid, make regulations for any of the following purposes:
 
@@ -2969,12 +3032,7 @@ CAP. 327. ]
 
 EDUCATION
 
-Cap. 451.
-
-##### Transitory.
-Amended by: XIII. 2006.19, 26.
-
-Technology, the University, or any body or organisation  established  under  this  Act,  means  and procedures either to lodge its complaints and aggravation  about  a  decision  or  to  contest  or  appeal from  such  a  decision  and  to  be  so  satisfied  if  its aggravation is upheld;
+Technology, the University, or any body or organisation established under this Act, means and procedures either to lodge its complaints and aggravation about a decision or to contest or appeal from such a decision and to be so satisfied if its aggravation is upheld;
 
 ( n ) to regulate the meetings  of  any  entity, board,  or committee, including procedures relating to a quorum, making  decisions  by  means  of  voting,  keeping  of minutes and any other matter ancillary thereto;
 
@@ -2986,13 +3044,18 @@ Technology, the University, or any body or organisation  established  under  thi
 
 Provided that regulations made under this article may provide differently for different aims or circumstances, for  different  classes  or  kinds  of  schools,  and  for different classes of children;
 
-( r ) to bring into force the provisions  of  the  Mutual Recognition of  Qualifications  Act  and  all  regulations made thereunder, on the mutual recognition of qualifications of a teacher;
+Cap. 451.
+
+( r ) to bring into force the provisions of the Mutual Recognition of Qualifications Act and all regulations made thereunder, on the mutual recognition of qualifications of a teacher;
 
 ( s ) to  better  regulate  the  operation  and  the  provision  of services  in  the  Colleges  and  schools,  including  all matters  concerning  personnel,  equipment,  building, management, the use of school premises after normal school hours, partnerships between Colleges and State schools, and non-State schools and international exchanges, and participation in EU programmes;
 
 ( t ) to provide processes of accreditation, approval, authorization,  evaluations  and  recognition,  as  well  as quality assurance and verification of programmes or of educational institutions, and access to and gathering of information, statistics and data by the National Commission for Higher Education and the Secretariat of the same Commission, that are both established by articles 64 and 70 respectively.
 
-136. (1) The  University  shall  succeed  to  the  property,  rights and obligations of the University existing immediately before the coming into force of article 72 as well as to the property, rights and obligations of the institutions which used to be known as The Old University, The New University and The Royal University of Malta.
+##### Transitory.
+Amended by: XIII. 2006.19, 26.
+
+136. (1) The University shall succeed to the property, rights and obligations of the University existing immediately before the coming into force of article 72 as well as to the property, rights and
 
 [[END OF PAGE 76]]
 
@@ -3002,23 +3065,26 @@ EDUCATION
 
 [ CAP. 327. 77
 
+obligations of the institutions which used to be known as The Old University, The New University and The Royal University of Malta.
+
 (2) All those persons who before the coming into force of this Act were employed by the institution known under the name of The University of Malta shall, on the coming into force of this Act, be deemed to have always been employed and shall continue to be so employed by the University:
+
+Cap. 93.
+Cap. 58.
 
 Provided that in respect of those persons whose service, on the date of the coming into force of this article, was deemed, for the purposes of the Pensions Ordinance and the Widows and Orphans Pensions Act, to be service with the Government, the service of such persons with the University shall, for the purposes of the said Ordinance and of the said Act, continue to be deemed to be service with the Government within the meanings thereof respectively.
 
 (3) The statutes, regulations and bye-laws included in Schedule II of this Act shall come into force and have the force of law on the coming into force of article 72 and shall so remain in force until such time as they are amended or repealed by the competent governing bodies of the University in accordance with the provisions of this Act.
 
-(4) The person who held the office of Rector of the institution known as The Old University before the enactment of Act XII of 1980 which amended the Education Act * , shall be the Rector of the University on the coming into force of article 72.
+Cap. 247.
 
-(5) All appointments of heads of departments and all appointments and elections to the Council, the Senate and the Faculty Boards of the University shall be made as soon as practicable after the date of commencement of the relevant provisions of this Act and in any case not later than three months from such date; but, notwithstanding the provisions of articles 72 to 83 (both inclusive) of this Act and subject to the provisions of subarticle (6), until the said appointments of heads of departments are so made and until the said Council, Senate and Boards are so reconstituted or, in either case, until the expiration of the said period of three months, whichever is the earlier date in either case, the heads of departments, the Council, the Senate and the Faculty Boards of the University which existed immediately before the date of the coming into force of article 72, shall be the heads of departments, Council, Senate and Faculty Boards of the University for the purposes of this Act.
+(4) The person who held the office of Rector of the institution known as The Old University before the enactment of Act XII of 1980 which amended the Education Act*, shall be the Rector of the University on the coming into force of article 72.
+
+(5) All appointments of heads of departments and all appointments and elections to the Council, the Senate and the Faculty Boards of the University shall be made as soon as practicable after the date of commencement of the relevant provisions of this Act and in any case not later than three months from such date; but, notwithstanding the provisions of articles 72 to 83 (both inclusive) of this Act and subject to the provisions of sub-article (6), until the said appointments of heads of departments are so made and until the said Council, Senate and Boards are so reconstituted or, in either case, until the expiration of the said period of three months, whichever is the earlier date in either case, the heads of departments, the Council, the Senate and the Faculty Boards of the University which existed immediately before the date of the coming into force of article 72, shall be the heads of departments, Council, Senate and Faculty Boards of the University for the purposes of this Act.
 
 (6) Notwithstanding the provisions of sub-article (5), the Rector designated in sub-article (4) shall be a member and ex officio vice-president of the Council and a member and ex officio president of the Senate and Faculty Boards on the coming into force of article 72.
 
 *Repealed by this Act.
-
-Cap. 93. Cap. 58.
-
-Cap. 247.
 
 [[END OF PAGE 77]]
 
@@ -3035,8 +3101,26 @@ EDUCATION
 [ARTICLE 22]
 
 Name of School | Locality
---- | --- | ---
-Agius de Soldanis Kan Pawl Pullicino Carlo Diacono Dun {u\epp Zammit Dun {wann Mamo Trade School Fellenberg School of Electronics {an Fran[isk Abela {org Grognet de Vass é Technical Institute {u\eppi Despott Maria Assumpta Maria Goretti Maria Re[ina Mikielan[ Sapiano Technical Institute Mikiel Anton Vassalli Ninu Cremona Complex Salvatore Dimech School for Craftsmen Santa Tere\a Sir Adrian Dingli Umberto Calosso Trade School | Victoria, Gozo Rabat |ejtun }amrun Marsa Paola Msida Naxxar Cospicua }amrun Tarxien Blata-1-Bajda Paola Tal-}andaq Victoria, Gozo Mosta Mrie]el St. Andrews Sta. Venera
+--- | ---
+Agius de Soldanis | Victoria, Gozo
+Kan Pawl Pullicino | Rabat
+Carlo Diacono | Żejtun
+Dun Ġużepp Zammit | Ħamrun
+Dun Ġwann Mamo Trade School | Marsa
+Fellenberg School of Electronics | Paola
+Ġan Franġisk Abela | Msida
+Ġorġ Grognet de Vassé Technical Institute | Naxxar
+Ġużeppi Despott | Cospicua
+Maria Assumpta | Ħamrun
+Maria Goretti | Tarxien
+Maria Reġina | Blata-l-Bajda
+Mikielanġ Sapiano Technical Institute | Paola
+Mikiel Anton Vassalli | Tal-Ħandaq
+Ninu Cremona Complex | Victoria, Gozo
+Salvatore Dimech School for Craftsmen | Mosta
+Santa Tereża | Mrieħel
+Sir Adrian Dingli | St. Andrews
+Umberto Calosso Trade School | Sta. Venera
 
 [[END OF PAGE 78]]
 
@@ -3047,6 +3131,7 @@ EDUCATION
 [ CAP. 327. 79
 
 ### SCHEDULE II
+Amended by: L.N. 98 of 1988; L.N. 63 of 1989; L.N. 64 of 1989; L.N. 135 of 1989; L.N. 136 of 1989; L.N. 153 of 1990; L.N. 156 of 1990; L.N. 10 of 1991; L.N. 66 of 1991; L.N. 153 of 1991; L.N. 67 of 1992; L.N. 89 of 1992; L.N. 90 of 1992; L.N. 105 of 1992; L.N. 21 of 1993; L.N. 117 of 1993; L.N. 5 of 1994; L.N. 12 of 1994; L.N. 110 of 1994; L.N. 149 of 1994; L.N. 79 of 1995; L.N. 165 of 1996; L.N. 177 of 1997; L.N. 181 of 1997; L.N. 183 of 1997 L.N. 184 of 1997; L.N. 189 of 1997; L.N. 202 of 1997; L.N. 9 of 1998; L.N. 30 of 1998; L.N. 172 of 1998; L.N. 41 of 1999; L.N. 101 of 1999; L.N. 102 of 1999; L.N. 144 of 2004; L.N. 363 of 2004; L.N. 293 of 2006; L.N. 220 of 2007; L.N. 391 of 2007; L.N. 212 of 2008; L.N. 21 of 2009; L.N. 85 of 2009; L.N. 102 of 2010.
 
 #### STATUTES, REGULATIONS AND BYE-LAWS
 
@@ -3070,8 +3155,6 @@ Provided that the Senate may by regulations allow candidates in special circumst
 
 The University shall give adequate notice (normally two years) before any amendments to regulations, which may affect a candidate's preparation for admission to any course of studies (such as the requirement of a new subject in the special course requirements) come into effect and two years notice for a change in a grade.
 
-Amended   by: L.N. 98 of 1988; L.N. 63 of 1989; L.N. 64 of 1989; L.N.  135  of  1989; L.N. 136 of 1989; L.N. 153 of 1990; L.N. 156 of 1990; L.N. 10 of 1991; L.N. 66 of 1991; L.N. 153 of 1991; L.N. 67 of 1992; L.N. 89 of 1992; L.N. 90 of 1992; L.N. 105 of 1992; L.N. 21 of 1993; L.N. 117 of 1993; L.N. 5 of 1994; L.N. 12 of 1994; L.N. 110 of 1994; L.N. 149 of 1994; L.N. 79 of 1995; L.N. 165 of 1996; L.N. 177 of 1997; L.N. 181 of 1997; L.N. 183 of 1997 L.N. 184 of 1997; L.N. 189 of 1997; L.N. 202 of 1997; L.N. 9 of 1998; L.N. 30 of 1998; L.N. 172 of 1998; L.N. 41 of 1999; L.N. 101 of 1999; L.N. 102 of 1999; L.N. 144 of 2004; L.N. 363 of 2004; L.N. 293 of 2006; L.N. 220 of 2007; L.N. 391 of 2007; L.N. 212 of 2008; L.N. 21 of 2009; L.N. 85 of 2009; L.N. 102 of 2010.
-
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
@@ -3088,9 +3171,9 @@ The dress appropriate for the Principal Officers of the University, for the Acad
 
 ###### 1.5 Scholarships and Prizes
 
-- Scholarships and prizes to be awarded by the University shall be established by regulations made for the purpose.
+1. Scholarships and prizes to be awarded by the University shall be established by regulations made for the purpose.
 
-- The award of scholarships and prizes shall also be governed by regulations.
+2. The award of scholarships and prizes shall also be governed by regulations.
 
 ##### Statute 2 - FACULTIES
 
@@ -3122,21 +3205,21 @@ The Faculty of Theology
 
 ###### 3.1 Courses of Studies, Degrees and Distinctions
 
-- The  University  shall  have  the  power  to  award  degrees,  diplomas  and certificates to candidates who fulfil the prescribed conditions after following the requisite courses of studies, and this in accordance with regulations and bye-laws made by Senate.
+1. The University shall have the power to award degrees, diplomas and certificates to candidates who fulfil the prescribed conditions after following the requisite courses of studies, and this in accordance with regulations and bye-laws made by Senate.
 
-- Courses of studies shall start as the Council shall determine.
+2. Courses of studies shall start as the Council shall determine.
 
 ###### 3.2 Provision  for  the  Award  of  a  Joint  or  Double  Degree  with  another University
 
-- Where the University, with the approval of Senate, enters into an agreement with other universities for the granting of a joint or double degree, then the necessary requirement to qualify for the degree may be obtained either partly at the University and partly at the other university/universities, or wholly at one of the partner universities as provided for in such agreement.
+1. Where the University, with the approval of Senate, enters into an agreement with other universities for the granting of a joint or double degree, then the necessary requirement to qualify for the degree may be obtained either partly at the University and partly at the other university/universities, or wholly at one of the partner universities as provided for in such agreement.
 
-- The degree may be awarded:
+2. The degree may be awarded:
 
-( a ) in  the  case  of  a  joint  degree,  jointly  on  one  certificate  by  all  the universities and shall be conferred at one of the partner universities as agreed between them; or
+( a ) in the case of a joint degree, jointly on one certificate by all the universities and shall be conferred at one of the partner universities as agreed between them; or
 
-( b ) in  the  case  of  a  double  degree,  separately  by  each  of  the  two  partner universities.
+( b ) in the case of a double degree, separately by each of the two partner universities.
 
-- The programme of study, including the catalogue of study-units, for the joint
+3. The programme of study, including the catalogue of study-units, for the joint
 
 [[END OF PAGE 80]]
 
@@ -3148,38 +3231,38 @@ EDUCATION
 
 CAP. 327. 81
 
-- or double degree shall be approved by the University and as required by the other partner universities.
+or double degree shall be approved by the University and as required by the other partner universities.
 
-- The  Boards  of  Examiners  and  the  Degree  Classification  Boards  shall  be constituted in terms of decisions taken by the appropriate bodies of the partner universities and as provided for in the agreement between them.
+4. The Boards of Examiners and the Degree Classification Boards shall be constituted in terms of decisions taken by the appropriate bodies of the partner universities and as provided for in the agreement between them.
 
-- Students may register for a joint or double degree if accepted by the partner universities in terms of the admission regulations of each of the universities and in terms of the provisions regarding registration in the degree programme as specified in the agreement between the universities.
+5. Students may register for a joint or double degree if accepted by the partner universities in terms of the admission regulations of each of the universities and in terms of the provisions regarding registration in the degree programme as specified in the agreement between the universities.
 
-- The agreement for the award of a joint or double degree by the University and the other universities may provide that the certificate includes an equivalent title, normally as awarded by the other universities, in conjunction with the title of the University degree. In the case of the award of a double degree, a statement to this effect will be made on the certificate.
+6. The agreement for the award of a joint or double degree by the University and the other universities may provide that the certificate includes an equivalent title, normally as awarded by the other universities, in conjunction with the title of the University degree. In the case of the award of a double degree, a statement to this effect will be made on the certificate.
 
 ###### 3.3 Award of Degrees and Diplomas
 
-- Degrees and diplomas shall be awarded at a public ceremony or, with the consent of the Senate, privately or in absentia .
+1. Degrees and diplomas shall be awarded at a public ceremony or, with the consent of the Senate, privately or in absentia.
 
-- A candidate shall be eligible for the award of a degree or diploma only after certification by the Rector that all the conditions prescribed by statutes, regulations and bye-laws relevant to that degree or diploma have been fulfilled and provided that all other obligations and responsibilities of the candidate to the University have been satisfied.
+2. A candidate shall be eligible for the award of a degree or diploma only after certification by the Rector that all the conditions prescribed by statutes, regulations and bye-laws relevant to that degree or diploma have been fulfilled and provided that all other obligations and responsibilities of the candidate to the University have been satisfied.
 
-- No  person  may  be  described  as  holding  a  degree  or  diploma  of  the University unless such degree or diploma has been conferred as prescribed in paragraph 1 of this section.
+3. No person may be described as holding a degree or diploma of the University unless such degree or diploma has been conferred as prescribed in paragraph 1 of this section.
 
 ###### 3.4 Degrees Honoris Causa
 
-- The  University  shall  also  have  the  power  to  confer  the  following  degrees honoris causa :
+1. The University shall also have the power to confer the following degrees honoris causa:
 
-Doctor of Laws - LL.D. Doctor of Medicine and Surgery - M.D. Doctor of Literature -  D.Litt. Doctor of Engineering -  D.Eng. Doctor of Science -  D.Sc. Doctor of Education -  D.Ed.
+Doctor of Laws - LL.D. Doctor of Medicine and Surgery - M.D. Doctor of Literature - D.Litt. Doctor of Engineering - D.Eng. Doctor of Science - D.Sc. Doctor of Education - D.Ed.
 
-Master of Philosophy -  M.Phil.
+Master of Philosophy - M.Phil.
 
-- On  the  recommendation  of  the  Senate,  the  Council  may  at  its  discretion order the conferment of a degree honoris causa on any person whom it may deem worthy of such a distinction.
+2. On the recommendation of the Senate, the Council may at its discretion order the conferment of a degree honoris causa on any person whom it may deem worthy of such a distinction.
 
 ##### Statute 6 - THE PRINCIPAL AND OTHER OFFICERS OF THE UNIVERSITY
 ###### 6.1 The Principal Officers
 
-- The Principal Officers of the University are:
+1. The Principal Officers of the University are:
 
-- the Chancellor;
+the Chancellor;
 
 the Pro-Chancellor;
 
@@ -3213,7 +3296,7 @@ the Deans of the Faculties.
 
 (as in article 74(10)-(11) and article 82)
 
-- The Pro-Rectors
+5. The Pro-Rectors
 
 (as in article 74(12))
 
@@ -3229,7 +3312,7 @@ The Secretary shall -
 
 ( c ) help develop and maintain, under the direction of the Rector, streamlined and efficient administrative systems to support the teaching,  research,  and  external  services  of  the  University  to  meet current as well as projected future needs;
 
-( d ) act as Chairman of the Senior Management Committee in the absence of the  Rector  or  any  Pro-Rector  explicitly  designated  to  do  so  by  the Rector; the said Committee, which deals solely with matters of a nonacademic and administrative nature, comprises the Registrar, the Director of Finance, the Librarian, and any other senior official of the University administration as determined by the Rector;
+( d ) act as Chairman of the Senior Management Committee in the absence of the Rector or any Pro-Rector explicitly designated to do so by the Rector; the said Committee, which deals solely with matters of a non-academic and administrative nature, comprises the Registrar, the Director of Finance, the Librarian, and any other senior official of the University administration as determined by the Rector;
 
 ( e ) coordinate the preparation for regular meetings of the Senior Management Committee, and the implementation of decisions taken by the Senior Management Committee related to the day-to-day administrative affairs of the University, its personnel and its movable, immovable and other assets;
 
@@ -3267,7 +3350,7 @@ The Registrar shall:
 
 ( e ) be responsible to ensure that the decisions of Senate are formulated and executed and, where applicable, presented to the Chancellor expeditiously for promulgation;
 
-( f ) be responsible for the records of all examinations held by the University and for the proper safekeeping of such records, and for keeping up-todate copies of the statutes, regulations and bye-laws;
+( f ) be responsible for the records of all examinations held by the University and for the proper safekeeping of such records, and for keeping up-to-date copies of the statutes, regulations and bye-laws;
 
 ( g ) keep  the  rolls  of  the  members  of  the  Council,  of  the  Senate,  of  the Faculty Boards, of teachers, of examiners, and of students;
 
@@ -3277,7 +3360,7 @@ The Registrar shall:
 
 ( j ) carry out such other duties as may be called for by the Rector bearing in mind the exigencies of the University.
 
-- The Librarian
+3. The Librarian
 
 (as in paragraph 3 of Article 6.2 of Statute 6).
 
@@ -3329,23 +3412,21 @@ EDUCATION
 
 1. Appointments of staff with formal teaching and/or research duties shall be made in the grades of professor, associate professor, senior lecturer, lecturer, assistant lecturer, teaching assistant, research assistant or in any other grades approved by Council on the recommendation of Senate, according to the qualifications of the persons being appointed.
 
-- Posts may be advertised for appointments within specified grades.
+2. Posts may be advertised for appointments within specified grades.
 
-- An appointment to a post with a formal teaching and/or research duties shall be made by Council on the recommendation of a Selection Board composed as follows:
+3. An appointment to a post with a formal teaching and/or research duties shall be made by Council on the recommendation of a Selection Board composed as follows:
 
-- the Rector, who shall be chairman;
+· the Rector, who shall be chairman;
 
-- three  members  of  staff  with  formal  teaching  and/or  research  duties appointed by Senate, normally  including the  head  of  department concerned  (or,  in  the  case  of  posts  specifically  intended  only  for  an institute, or other entity of similar nature, the director of that institute or the chief officer of the entity concerned) and another head of department from outside the Faculty:
+· three members of staff with formal teaching and/or research duties appointed by Senate, normally including the head of department concerned (or, in the case of posts specifically intended only for an institute, or other entity of similar nature, the director of that institute or the chief officer of the entity concerned) and another head of department from outside the Faculty:
 
-Provided  that  when  it  is  envisaged  that  the  appointee  is  to  give significant  service  to  a  second  Department/Institute/Centre  or  other entity  of  similar  nature,  the  chief  officer  of  the  entity  concerned  is  to replace the head of department from outside the Faculty.
+Provided that when it is envisaged that the appointee is to give significant service to a second Department/Institute/Centre or other entity of similar nature, the chief officer of the entity concerned is to replace the head of department from outside the Faculty.
 
-·
-
-one  member  of  Council  not  in  the  employment  of  the  University appointed  annually  by  the  Council  to  be  a  member  of  all  Selection Boards for posts in a particular speciality.
+· one member of Council not in the employment of the University appointed annually by the Council to be a member of all Selection Boards for posts in a particular speciality.
 
 ###### 7.2 Promotion of Staff with Formal Teaching and/or Research Duties
 
-- Every  three  years,  normally  during  March/April,  applications  from  staff
+1. Every three years, normally during March/April, applications from staff
 
 [[END OF PAGE 84]]
 
@@ -3387,7 +3468,7 @@ with formal teaching and/or research duties for promotion shall be considered by
 
 ###### 7.4 Appointment of Part-Time Staff
 
-(i) Appointments of staff with formal teaching and/or research duties on a parttime basis are generally made for specific periods, normally four years, renewable by a further four years after which the appointment will be made permanent subject to ordinary auditory procedures.
+(i) Appointments of staff with formal teaching and/or research duties on a part-time basis are generally made for specific periods, normally four years, renewable by a further four years after which the appointment will be made permanent subject to ordinary auditory procedures.
 
 (ii) The Council of the University may, however, make permanent appointments to retiring age, subject to a probationary period of one year.
 
@@ -3411,9 +3492,9 @@ EDUCATION
 
 ###### 7.5 Appointment of Part-Time Visiting Staff
 
-- Part-time  visiting  staff  may  be  appointed  according  to  the  needs  that  may arise from time to time.
+1. Part-time visiting staff may be appointed according to the needs that may arise from time to time.
 
-- Appointments shall  be  made  by  the  Rector  on  the  recommendation  of  the Dean of the Faculty concerned, or of the Director of the Institute or Centre concerned, as the case may be.
+2. Appointments shall be made by the Rector on the recommendation of the Dean of the Faculty concerned, or of the Director of the Institute or Centre concerned, as the case may be.
 
 3. Appointments shall be made for periods not exceeding one year at a time, and shall be reported to the Senate and the Council at the first opportunity.
 
@@ -3467,7 +3548,7 @@ abroad,  arrangements  will  be  made  within  their  Departments  so  that they
 
 ( d ) participate  in  the  administration  of  academic  affairs  at  departmental, faculty and university levels;
 
-( e ) contribute to national development, particularly in the area of specialisation  and  through  co-operation  with  governmental  and  nongovernmental institutions and services.
+( e ) contribute to national development, particularly in the area of specialisation and through co-operation with governmental and non-governmental institutions and services.
 
 (v) Senior Lecturers
 
@@ -3555,7 +3636,7 @@ Fellows may be appointed by Council on the recommendation of Senate as:
 
 ###### Appointments
 
-- Appointments to non-academic posts shall be made by the Council on the recommendation of Selection Boards appointed in terms of this statute.
+1. Appointments to non-academic posts shall be made by the Council on the recommendation of Selection Boards appointed in terms of this statute.
 
 [[END OF PAGE 88]]
 
@@ -3575,17 +3656,17 @@ officers of the University responsible for the departments or sections to which 
 
 one member of Council not in the employment of the University.
 
-- Candidates  for  appointment  to  particular  posts  may  be  required  to  take written and/or practical tests and/or to attend an interview as appropriate.
+3. Candidates for appointment to particular posts may be required to take written and/or practical tests and/or to attend an interview as appropriate.
 
-- When the number of eligible applicants by far exceeds the number of vacant places, or when in the opinion of the Board the difference in the quality of the applicants can be judged from the documentation presented by the applicants, the Selection Board may, at its discretion, short-list the number of eligible applicants that are to be formally examined and/or called for an interview, provided that the Board shall include in its report the criteria on which the short-listing was made.
+4. When the number of eligible applicants by far exceeds the number of vacant places, or when in the opinion of the Board the difference in the quality of the applicants can be judged from the documentation presented by the applicants, the Selection Board may, at its discretion, short-list the number of eligible applicants that are to be formally examined and/or called for an interview, provided that the Board shall include in its report the criteria on which the short-listing was made.
 
-- Any absence among the members of the Selection Board, or the participation of any person called to assist the Board in the selection process, does not invalidate the procedures of the Board, provided that there is a quorum of not less than three of the Board members.
+5. Any absence among the members of the Selection Board, or the participation of any person called to assist the Board in the selection process, does not invalidate the procedures of the Board, provided that there is a quorum of not less than three of the Board members.
 
 ###### Promotions
 
-- Applications from non-academic staff for promotion shall be considered by the Promotions Board when there are special reasons, such as the redressal of an anomaly or more accurate recognition of merit, provided that no detriment to others or any departure from agreed parameters of conditions of work is thereby incurred.
+6. Applications from non-academic staff for promotion shall be considered by the Promotions Board when there are special reasons, such as the redressal of an anomaly or more accurate recognition of merit, provided that no detriment to others or any departure from agreed parameters of conditions of work is thereby incurred.
 
-- The Promotions Board shall be composed as follows:
+7. The Promotions Board shall be composed as follows:
 
 the Rector or his delegate, who shall be Chairman;
 
@@ -3593,21 +3674,21 @@ the Secretary of the University;
 
 the Director of Finance;
 
-two  members  appointed  by  Council,  one  of  whom  shall  not  be  in  the employment of the University.
+two members appointed by Council, one of whom shall not be in the employment of the University.
 
-- The Rector may propose any member of the staff for consideration by the Promotions Board at its annual meeting or, in exceptional circumstances, at any other time during the year.
+8. The Rector may propose any member of the staff for consideration by the Promotions Board at its annual meeting or, in exceptional circumstances, at any other time during the year.
 
 ##### Statute 9 - APPOINTMENT OF EXAMINERS
 
-- 1.Examiners shall be appointed by the Council after considering the recommendations of the Senate.
+1. Examiners shall be appointed by the Council after considering the recommendations of the Senate.
 
-- Examiners shall normally be appointed for one academic year.
+2. Examiners shall normally be appointed for one academic year.
 
-- Out-going examiners may be re-appointed.
+3. Out-going examiners may be re-appointed.
 
 ##### Statute 10 - OFFICIAL PUBLICATIONS
 
-- The official publications of the University shall be:
+1. The official publications of the University shall be:
 
 [[END OF PAGE 89]]
 
@@ -3623,7 +3704,7 @@ The University Gazette
 
 and such other publications as the Council may from time to time determine.
 
-- The Calendar shall be published each year. The Calendar shall include:
+2. The Calendar shall be published each year. The Calendar shall include:
 
 ( a ) the statutes, the regulations, and such other subsidiary legislation as are of general application; and
 
@@ -3637,7 +3718,7 @@ and such other publications as the Council may from time to time determine.
 
 1. The  Institute  of  Health  Care  is  hereby  appointed  as  an  inter-Faculty institution within the University of Malta.
 
-- The aims of the Institute shall be -
+2. The aims of the Institute shall be -
 
 ( a ) to provide degree and diploma courses in Health Care Sciences (such as in  Nursing,  Medical  Technology,  Speech  Therapy)  and  allied  areas, subject to the statutes and regulations of the University;
 
@@ -3645,7 +3726,7 @@ and such other publications as the Council may from time to time determine.
 
 ( c ) to conduct research of both mono-disciplinary and a multi-disciplinary kind, with a focus on health care.
 
-- The Institute shall be governed by a Board.
+3. The Institute shall be governed by a Board.
 
 ( a ) The Board will consist of the following:
 
@@ -3667,7 +3748,7 @@ two additional members may be co-opted by the Board.
 
 ( b ) The Board shall have the power to -
 
-(i) propose  to  the  Senate  regulations  and  to  make  and  revoke  byelaws;
+(i) propose to the Senate regulations and to make and revoke bye-laws;
 
 [[END OF PAGE 90]]
 
@@ -3687,7 +3768,7 @@ EDUCATION
 
 (vi) nominate co-ordinators to ensure the co-ordination of Programmes of Study.
 
-- The Institute will have a Director and staff:
+4. The Institute will have a Director and staff:
 
 ( a ) the Director, appointed by the Council of the University, for a period of five  years  following  a  call  for  applications,  with  the  possibility  of renewal, on the recommendation of the Board of the Institute;
 
@@ -3701,7 +3782,7 @@ EDUCATION
 
 #### B - REGULATIONS AND BYE-LAWS
 
-##### ROI - ADMISSION REGULATIONS, 1997
+##### R01 - ADMISSION REGULATIONS, 1997
 
 ###### 1. Admission to a Course of Studies
 
@@ -4037,11 +4118,11 @@ EDUCATION
 
 - 7.1 The University will seek to make provisions to assist persons with special needs to be able to sit for its examinations provided that the candidate does not gain undue advantage from such assistance. Any assistance so provided shall be under the full control of the University.
 
-7.2 Candidates with a disability may be given the option to be exempted from being examined in a particular element of the examination, such as orthography (in a non-language examination), an oral or a practical. When candidates accept the option, the certificates shall be endorsed as follows: 'Special arrangements were made to enable the candidate to be assessed in this subject. Details may be obtained from the Registrar.'
+7.2 Candidates with a disability may be given the option to be exempted from being examined in a particular element of the examination, such as orthography (in a non-language examination), an oral or a practical. When candidates accept the option, the certificates shall be endorsed as follows: “Special arrangements were made to enable the candidate to be assessed in this subject. Details may be obtained from the Registrar.”
 
 Such certificates shall only be issued as a last resort when ways cannot be found of supporting disabled candidates to satisfy examination requirements.
 
-##### RO3 - THE MATRICULATION EXAMINATION
+##### R03 - THE MATRICULATION EXAMINATION
 
 ###### Regulations for 1988 and 1989
 
@@ -4063,7 +4144,7 @@ The regulations for the sessions of the Matriculation Examination to be held in 
 
 EDUCATION
 
-##### RO5 -SCHOOL LEAVING EXAMINATION IN RELIGIOUS KNOWLEDGE
+##### R05 -SCHOOL LEAVING EXAMINATION IN RELIGIOUS KNOWLEDGE
 
 ###### Regulations for 1988 and 1989
 
@@ -4078,6 +4159,7 @@ The regulations for the sessions of the School Leaving Examination in Religious 
 (NOTE: The syllabi remain as published).
 
 ### SCHEDULE III
+Added by: II. 1995.5.
 
 [Article 39A]
 
@@ -4093,9 +4175,7 @@ The Holy See and the Government of the Republic of Malta, keeping in mind the hi
 
 3. As  regards  the  structure,  the  internal  organization,  the  academic  and  the student bodies, the Faculty of Theology is incorporated in the University of Malta in the same state of fact in which it exists on the date of the present Agreement and as shown in the Annex, saving the right of the same Faculty, for its reasonable and proper development, to vary the number of students and of teachers, as also the right to provide for other courses of theology and of any other discipline connected therewith, if this is deemed necessary for the appropriate preparation of its students.
 
-4. The  University  of  Malta,  in  everything  that  regards  the  regulation  of  the studies and the academic and canonical requirements for the teachers in the Faculty of Theology, shall proceed in accordance with what is laid down in the Apostolic Constitution "Sapientia Christiana" of 15 April 1979 and in the "Ordinationes" issued by the Congregation for Catholic Education on 29 April 1979 and with such
-
-Added by: II. 1995.5.
+4. The University of Malta, in everything that regards the regulation of the studies and the academic and canonical requirements for the teachers in the Faculty of Theology, shall proceed in accordance with what is laid down in the Apostolic Constitution "Sapientia Christiana" of 15 April 1979 and in the "Ordinationes" issued by the Congregation for Catholic Education on 29 April 1979 and with such
 
 [[END OF PAGE 100]]
 
@@ -4111,7 +4191,7 @@ The candidates for the post of teacher in the Faculty of Theology shall provide 
 
 For the disciplines in matters of faith and morals, the University of Malta shall communicate in due time to the said Archbishop the name of the candidate chosen after the selection process, who shall receive the appointment of teacher after he shall have subscribed to the profession of faith before the same Ordinary and received from him the canonical mission.
 
-Should the same Archbishop, for reasons pertaining to the faith, to moral conduct or to ecclesiastical discipline, revoke the "nihil obstat" or the canonical mission to a t e acher,  the  latter shall cease to form part of the Faculty of Theology and proceedings shall immediately be taken for the appointment of a new teacher.
+Should the same Archbishop, for reasons pertaining to the faith, to moral conduct or to ecclesiastical discipline, revoke the "nihil obstat" or the canonical mission to a teacher, the latter shall cease to form part of the Faculty of Theology and proceedings shall immediately be taken for the appointment of a new teacher.
 
 5. The  Government  of  Malta  and,  through  the  Foundation  for  Theological Studies, the Archdiocese of Malta shall provide the economic means which are necessary for the proper functioning of the Faculty of Theology, in such measure and with such modalities as shall be established by common accord.
 
@@ -4123,9 +4203,10 @@ Should the same Archbishop, for reasons pertaining to the faith, to moral conduc
 
 (Sgd.) | (Sgd.)
 --- | ---
-Dr. Ugo Mifsud Bonnici Minister of Education | Mgr. Pier Luigi Celata Tit. Archbishop of Doclea Apostolic Nuncio
-On behalf
-On behalf of the | of
+Dr. Ugo Mifsud Bonnici | Mgr. Pier Luigi Celata
+Minister of Education | Tit. Archbishop of Doclea
+ | Apostolic Nuncio
+On behalf of the | On behalf of
 Government of Malta | the Holy See
 
 ##### ANNEX REGARDING ARTICLE 3 OF THE AGREEMENT SIGNED ON 26 SEPTEMBER 1988 BETWEEN THE HOLY SEE AND THE GOVERNMENT OF THE REPUBLIC OF MALTA ON THE INCORPORATION OF THE FACULTY OF THEOLOGY IN THE UNIVERSITY OF MALTA
@@ -4134,7 +4215,7 @@ We certify that on 26 September 1988 the Faculty of Theology consists of the fol
 
 (A) The Faculty of Theology proper; (B) The Institute for Religious Studies; (C) The Institute of Philosophy and Human Studies.
 
-(A) The  Faculty  of  Theology  proper  comprises  three  cycles:  the  first,  of  five years' duration, leads to the conferment of a Bachelor's degree (S.Th.B.); the second, of two years duration, leads to the conferment of a Licentiate (S.Th.L.); the third, lasting an adequate number of years, leads to the attainment of a Doctorate (S.Th.D.). The Faculty also confers a Diploma in Pastoral Theology.
+(A) The Faculty of Theology proper comprises three cycles: the first, of five years’ duration, leads to the conferment of a Bachelor’s degree (S.Th.B.); the
 
 [[END OF PAGE 101]]
 
@@ -4143,6 +4224,8 @@ We certify that on 26 September 1988 the Faculty of Theology consists of the fol
 102 CAP. 327. ]
 
 EDUCATION
+
+second, of two years duration, leads to the conferment of a Licentiate (S.Th.L.); the third, lasting an adequate number of years, leads to the attainment of a Doctorate (S.Th.D.). The Faculty also confers a Diploma in Pastoral Theology.
 
 The teaching staff includes Permanent and non-Permanent teachers as well as Visiting Teachers. The Permanent teachers are divided into three grades: Lecturers, Associate Professors and Professors. The non-Permanent teachers and Visiting Teachers may be Maltese or foreign, and vary in number according to the needs of the Departments. Besides, the Faculty includes 3 Emeritus Professors.
 
@@ -4180,9 +4263,9 @@ EDUCATION
 
 With the incorporation of the Faculty of Theology in the University, the Institute of Philosophy and Human Studies will in actual fact remain in abeyance.
 
-The students registered at the Faculty of Theology in the academic year 19881989 are divided as follows:
+The students registered at the Faculty of Theology in the academic year 1988-1989 are divided as follows:
 
-( a ) Faculty of Theology proper: 36 regulars and 13 curriculars. In addition, there  are  another  19  students  who,  as  foreseen  for  the  first  cycle  of Theology, follow courses in Philosophy and who are divided as follows: 15  are  regulars  enrolled  in  the  Faculty  of  Arts  of  the  University  of Malta, 2 are about to be enrolled in the same Faculty on the strength of 'mature matriculation', and 2 are curriculars registered at the Faculty of Theology;
+(a) Faculty of Theology proper: 36 regulars and 13 curriculars. In addition, there are another 19 students who, as foreseen for the first cycle of Theology, follow courses in Philosophy and who are divided as follows: 15 are regulars enrolled in the Faculty of Arts of the University of Malta, 2 are about to be enrolled in the same Faculty on the strength of “mature matriculation”, and 2 are curriculars registered at the Faculty of Theology;
 
 ( b ) Institute for Religious Studies: 82 regulars and 12 curriculars;
 
@@ -4215,9 +4298,9 @@ CAP. 327. ]
 
 EDUCATION
 
-- Any part of the contribution by the Foundation for Theological Studies that shall result unspent at the end of the annual fiscal period for which the said contribution had been allocated shall be refunded to the said Foundation.
+5. Any part of the contribution by the Foundation for Theological Studies that shall result unspent at the end of the annual fiscal period for which the said contribution had been allocated shall be refunded to the said Foundation.
 
-- Should there arise, in future, any difficulty of interpretation or application of the foregoing provisions, the Government of Malta and the Archdiocese of Malta shall entrust the search for an amicable solution to a Joint Commission which shall be composed, on the part of the Government of Malta, by the Minister of Education and the Secretary of the Ministry of Education, or by their representatives, and on the part of the Archdiocese of Malta, by the President of the Foundation for Theological Studies and the Director of the Foundation for Theological Studies, or by their representatives, and by a Chairman elected by the other members.
+6. Should there arise, in future, any difficulty of interpretation or application of the foregoing provisions, the Government of Malta and the Archdiocese of Malta shall entrust the search for an amicable solution to a Joint Commission which shall be composed, on the part of the Government of Malta, by the Minister of Education and the Secretary of the Ministry of Education, or by their representatives, and on the part of the Archdiocese of Malta, by the President of the Foundation for Theological Studies and the Director of the Foundation for Theological Studies, or by their representatives, and by a Chairman elected by the other members.
 
 26 September 1988
 
@@ -4233,7 +4316,7 @@ EDUCATION
 
 The Holy See and the Government of Malta, following the proposal presented by the said Government and subsequent discussions, by common accord decide to amend Article Six of the Agreement on the incorporation of the Faculty of Theology in the University of Malta, signed on 26 September 1988, to read as follows:
 
-'A representative of the Chairman of the Foundation for Theological Studies, nominated  by  the  said  Chairman,  shall  form  part  of  the  Council  for  the University.  Two  representatives  of  the  Foundation  for  Theological  Studies, nominated  by  the  said  Foundation,  shall  form  part  of  the  Faculty  Board  of Theology.'
+“A representative of the Chairman of the Foundation for Theological Studies, nominated by the said Chairman, shall form part of the Council for the University. Two representatives of the Foundation for Theological Studies, nominated by the said Foundation, shall form part of the Faculty Board of Theology.”
 
 The present Additional Protocol forms an integral part of the Agreement signed by the Parties on 26 September 1988.
 
@@ -4257,15 +4340,15 @@ EDUCATION
 
 La Santa Sede e il Governo della Repubblica di Malta, avendo presente lo sviluppo storico degli studi universitari a Malta ed avendo soprattutto considerato i vantaggi di carattere scientifico, culturale e sociale che potranno derivare da un più stretto collegamento della Facoltà di Teologia con l'Università di Malta, stabiliscono di comune intesa quanto segue
 
-1. La Facoltà di Teologia è incorporata nell' Unive rsità di Malta.
+1. La Facoltà di Teologia è incorporata nell’ Università di Malta.
 
 Tale incorporazione e le funzioni della Facoltà di Teologia sono regolate, in primo luogo, dalle disposizioni del presente Accordo e, in secondo luogo, dalle Leggi di Malta e dagli Statuti della stessa Università.
 
-- I  gradi  accademici  e  i  diplomi  conferiti  dalla  Facoltà  di  Teologia  avranno valore canonico e civile.
+2. I gradi accademici e i diplomi conferiti dalla Facoltà di Teologia avranno valore canonico e civile.
 
-- Per quel che  concerne  la  struttura, l'organizzazione  interna, il  corpo accademico e quello studentesco, la Facoltà di Teologia è incorporata nell' Università di Malta nello stato di fatto in cui essa si trova alla data del presente Accordo e come risulta dall'Allegato, salvo restando alla stessa Facoltà, per un suo ragionevole ed adeguato sviluppo, il diritto di variare il numero degli studenti e dei docenti, nonché il diritto di provvedere altri cors i di teologia e di qualunque altra disciplina connessa, se ciò sarà ritenuto necessario per la congrua preparazione dei suoi studenti.
+3. Per quel che concerne la struttura, l'organizzazione interna, il corpo accademico e quello studentesco, la Facoltà di Teologia è incorporata nell' Università di Malta nello stato di fatto in cui essa si trova alla data del presente Accordo e come risulta dall'Allegato, salvo restando alla stessa Facoltà, per un suo ragionevole ed adeguato sviluppo, il diritto di variare il numero degli studenti e dei docenti, nonché il diritto di provvedere altri corsi di teologia e di qualunque altra disciplina connessa, se ciò sarà ritenuto necessario per la congrua preparazione dei suoi studenti.
 
-- L'Università di Malta, in tutto ciò che riguarda l'ordinamento degli studi ed i requisiti accademici e canonici dei docenti della Facoltà di Teologia, procederà in conformità con quanto prescritto dalla Costituzione Apostolica "Sapientia Christiana" del 15 aprile 1979 e dalle "Ordinationes" emanate dalla Congregazione per l'Educazione Cattolica il 29 aprile 1979 e con eventuali norme canoniche che in futuro dovessero integrare o sostituire quelle contenute in tali documenti della Santa Sede.
+4. L'Università di Malta, in tutto ciò che riguarda l'ordinamento degli studi ed i requisiti accademici e canonici dei docenti della Facoltà di Teologia, procederà in conformità con quanto prescritto dalla Costituzione Apostolica "Sapientia Christiana" del 15 aprile 1979 e dalle "Ordinationes" emanate dalla Congregazione per l'Educazione Cattolica il 29 aprile 1979 e con eventuali norme canoniche che in futuro dovessero integrare o sostituire quelle contenute in tali documenti della Santa Sede.
 
 I concorrenti ad un posto di docente nella Facoltà di Teologia dovranno munirsi previamente di un attestato dell' Arcivescovo di Malta che non vi è alcuna obiezione canonica contro di essi.
 
@@ -4273,11 +4356,11 @@ Per le discipline concernenti la fede e la morale, l'Università di Malta comuni
 
 Qualora lo stesso Arcivescovo, per ragioni attinenti alla fede, alla condotta morale o alla disciplina ecclesiastica, dovesse revocare il "nulla osta" o la "missione canonica" a un docente, questi cesserà di far parte della Facoltà di Teologia e immediatamente si procederà per la nomina di un nuovo docente.
 
-5. ll  Governo  di  Malta  e,  tramite  la  "Foundation  for  Theological  Studies", l'Arcidiocesi di Malta forniranno i mezzi economici necessari per il conveniente funzionamento della Facoltà di Teologia, nella misura e nei modi che saranno stabiliti di comune intesa.
+5. Il Governo di Malta e, tramite la "Foundation for Theological Studies", l'Arcidiocesi di Malta forniranno i mezzi economici necessari per il conveniente funzionamento della Facoltà di Teologia, nella misura e nei modi che saranno stabiliti di comune intesa.
 
-6. ll  Presidente della "Foundation for Theological Studies" o un suo delegato farà parte del Consiglio dell' Università. Due rappresentanti della stessa "Foundation for Theological Studies" faranno parte del Consiglio della Facoltà di Teologia.
+6. Il Presidente della "Foundation for Theological Studies" o un suo delegato farà parte del Consiglio dell' Università. Due rappresentanti della stessa "Foundation for Theological Studies" faranno parte del Consiglio della Facoltà di Teologia.
 
-7. Se in avvenire sorgessero difficoltà di interpretazione o di applicazione delle precedenti disposizioni, la Santa Sede e il Governo della Repubblica di Malta affideranno la ricerca di un'amichevole soluzione ad una Commissione Paritetica che sarà composta, per parte della Santa Sede, dal Nunzio Apostolico a Malta e dall'Arcivescovo di Malta o da loro delegati, e, per parte del Governo Maltese, dal Ministro dell'Educazione e dal Rettore dell'Università, o da loro delegati.
+7. Se in avvenire sorgessero difficoltà di interpretazione o di applicazione delle
 
 [[END OF PAGE 105]]
 
@@ -4287,13 +4370,18 @@ Qualora lo stesso Arcivescovo, per ragioni attinenti alla fede, alla condotta mo
 
 EDUCATION
 
+precedenti disposizioni, la Santa Sede e il Governo della Repubblica di Malta affideranno la ricerca di un'amichevole soluzione ad una Commissione Paritetica che sarà composta, per parte della Santa Sede, dal Nunzio Apostolico a Malta e dall'Arcivescovo di Malta o da loro delegati, e, per parte del Governo Maltese, dal Ministro dell'Educazione e dal Rettore dell'Università, o da loro delegati.
+
 26 settembre 1988
 
 Per il Governo di Malta | Per la Santa Sede
 --- | ---
-(firmato) Dr. Ugo Mifsud Bonnici | (firmato) +Mgr. Pier Luigi Celata
+(firmato) | (firmato)
+Dr. Ugo Mifsud Bonnici | +Mgr. Pier Luigi Celata
+Ministro dell’Educazione | Arcivescovo tit.di Doclea
+ | Nunzio Apostolico
 
-##### ALLEGATO RELATIVO ALL'ART. 3 DELL'ACCORDO DEL 26 SE TTEMBRE 1988 TRA LA SANTA SEDE ED IL GOVERNO DELLA REPUBBLICA DI MALTA SULL'INCORPORAZIONE DELLA FACOLTÀ DI TEOLOGIA NELL'UNIVERSITÀ DI MALTA
+##### ALLEGATO RELATIVO ALL'ART. 3 DELL'ACCORDO DEL 26 SETTEMBRE 1988 TRA LA SANTA SEDE ED IL GOVERNO DELLA REPUBBLICA DI MALTA SULL'INCORPORAZIONE DELLA FACOLTÀ DI TEOLOGIA NELL'UNIVERSITÀ DI MALTA
 
 Si attesta che alla data del 26 settembre 1988 la Facoltà di Teologia consta delle tre seguenti entità, canonicamente erette;
 
@@ -4301,7 +4389,7 @@ Si attesta che alla data del 26 settembre 1988 la Facoltà di Teologia consta de
 
 (A) La  Facoltà  di  Teologia  propriamente  detta:  comprende  tre  cicli,  di  cui  il primo della durata di 5 anni, al termine del quale è conferito il Baccalaureato (S.Th.B); il secondo della durata di 2 anni, al termine del quale è conferita la Licenza (S.Th.L.); il terzo, della durata di un congruo numero di anni, per il conseguimento del Dottorato (S.Th.D.). La Facoltà conferisce pure il Diploma in Teologia Pastorale.
 
-Il corpo docente comprende docenti Permanenti, non-Permanenti e VisitingTeachers. I docenti Permanenti sono divisi in tre gradi: Lettori, Professori-Associati, Professori. I docenti non-Permanenti e i Visiting-Teachers possono essere maltesi o stranieri, e variano di numero secondo le esigenze dei Dipartimenti. La Facoltà annovera, inoltre, 3 Professori Emeriti.
+Il corpo docente comprende docenti Permanenti, non-Permanenti e Visiting-Teachers. I docenti Permanenti sono divisi in tre gradi: Lettori, Professori-Associati, Professori. I docenti non-Permanenti e i Visiting-Teachers possono essere maltesi o stranieri, e variano di numero secondo le esigenze dei Dipartimenti. La Facoltà annovera, inoltre, 3 Professori Emeriti.
 
 La Facoltà consta di sei Dipartimenti con i relativi docenti, come segue:
 
@@ -4315,7 +4403,7 @@ La Facoltà consta di sei Dipartimenti con i relativi docenti, come segue:
 
 5. Dipartimento  di  Teologia  Pastorale,  Diritto  Canonico  e  Liturgia:  con  5 docenti Permanenti (tra cui un Professore, un Professore-Associato, due Lettori ed un Assistente-Lettore);
 
-6. Dipartimento di Filosofia: con 5 docenti Permanenti (tra cui un Professore, due Lettori e due posti attualmente vacanti). In quest'ultimo anno, quando gli studenti di Filosofia frequentavano già i corsi presso l'Università, il Governo, nella previsione dell'incorporazione della Facoltà di Teologia  nell'Università, aveva già assegnato al Dipartimento di Filosofia della Facoltà di Teologia una cifra corrispondente a quattro "full timers" (un Professore e tre Lettori), uno dei quali destinato all'insegnamento di una scienza già inclusa nel Dipartimento di Teologia Pastorale della Facoltà di Teologia. Questa materia potrà essere eventualmente considerata dal Consiglio di Facoltà.
+6. Dipartimento di Filosofia: con 5 docenti Permanenti (tra cui un Professore, due Lettori e due posti attualmente vacanti). In quest’ultimo anno, quando gli studenti di Filosofia frequentavano già i corsi presso l’Università, il Governo, nella
 
 [[END OF PAGE 106]]
 
@@ -4325,11 +4413,13 @@ EDUCATION
 
 [ CAP. 327. 107
 
-Ogni Dipartimento, col consenso del Consiglio di Facoltà, invita annualmente dei Lettori non-Permanenti secondo i propri bisogni. Ogni Dipartimento è retto da un proprio   coordinatore.
+previsione dell’incorporazione della Facoltà di Teologia nell’Università, aveva già assegnato al Dipartimento di Filosofia della Facoltà di Teologia una cifra corrispondente a quattro "full timers" (un Professore e tre Lettori), uno dei quali destinato all’insegnamento di una scienza già inclusa nel Dipartimento di Teologia Pastorale della Facoltà di Teologia. Questa materia potrà essere eventualmente considerata dal Consiglio di Facoltà.
 
-I membri Permanenti del corpo docente, su una base di impiego "part-time", sono presenti nella Facoltà di Teologia secondo il seguente numero di sessioni settimanali: 5 Professori per 4 sessioni e 1 Professore per 2/3 sessioni; 1 ProfessoreAssociato per 2 sessioni; 1 Lettore per 4 sessioni, 4 Lettori per 3 sessioni, 6 Lettori per 2 sessioni ed 1 Lettore per 1 sessione. Ogni sessione corrisponde a mezza giornata lavorativa.
+Ogni Dipartimento, col consenso del Consiglio di Facoltà, invita annualmente dei Lettori non-Permanenti secondo i propri bisogni. Ogni Dipartimento è retto da un proprio coordinatore.
 
-(B) "Institute for Religious Studies" è abilitato a  conferire il Baccalaureato in Studi Religiosi ed è strutturato in un ciclo di cor si serali "part-time" della durata di 5 anni. È altresì abilitato a conferire il Diploma in Studi Religiosi dopo un ciclo biennale di corsi.
+I membri Permanenti del corpo docente, su una base di impiego "part-time", sono presenti nella Facoltà di Teologia secondo il seguente numero di sessioni settimanali: 5 Professori per 4 sessioni e 1 Professore per 2/3 sessioni; 1 Professore-Associato per 2 sessioni; 1 Lettore per 4 sessioni, 4 Lettori per 3 sessioni, 6 Lettori per 2 sessioni ed 1 Lettore per 1 sessione. Ogni sessione corrisponde a mezza giornata lavorativa.
+
+(B) "Institute for Religious Studies" è abilitato a conferire il Baccalaureato in Studi Religiosi ed è strutturato in un ciclo di corsi serali "part-time" della durata di 5 anni. È altresì abilitato a conferire il Diploma in Studi Religiosi dopo un ciclo biennale di corsi.
 
 L'istituto ha sede in Floriana (Istituto Cattolico), è retto da un proprio Direttore e da un "Board" soggetto al Consiglio della Facoltà di Teologia, il cui Rettore è il "Chairman" dello stesso "Board". I docenti dell' istituto sono scelti, per lo più, fra quelli Permanenti della stessa Facoltà, ma sono invitati anche altri docenti.
 
@@ -4339,7 +4429,7 @@ Con l'incorporazione della Facoltà di Teologia nell'Università, l'Istituto di 
 
 Gli studenti iscritti alla Facoltà di Teologia nell'anno accademico 1988-1989 sono così distribuiti:
 
-( a ) Facoltà di Teologia propriamente detta: 36 "regulars" e 13 "curriculars". Sono inoltre da aggiungere 19 studenti che, come previsto per il l° ciclo di teologia, seguono  corsi  di  filosofia  e  sono  così   distribuiti:  15 "regulars" iscritti alla Facoltà di Lettere nell'Università di Malta, 2 in procinto  di esservi iscritti in base  alla  "mature  matriculation",  2 "curriculars" iscritti alla Facoltà di Teologia;
+(a) Facoltà di Teologia propriamente detta: 36 "regulars" e 13 "curriculars". Sono inoltre da aggiungere 19 studenti che, come previsto per il 1° ciclo di teologia, seguono corsi di filosofia e sono così distribuiti: 15 "regulars" iscritti alla Facoltà di Lettere nell'Università di Malta, 2 in procinto di esservi iscritti in base alla "mature matriculation", 2 "curriculars" iscritti alla Facoltà di Teologia;
 
 ( b ) "Institute for Religious Studies": 82 "regulars" e 12 "curriculars";
 
@@ -4364,22 +4454,29 @@ Il Governo di Malta e l'Arcidiocesi di Malta, desiderando dare concreta attuazio
 
 1. Il  Governo  di  Malta  finanzierà  la  Facoltà  di  Teologia  secondo  gli  stessi criteri da esso applicati per il finanziamento delle altre Facoltà.
 
-- L'Arcidiocesi  di  Malta,  tramite  la  "Foundation  for  Theological  Studies", contribuirà al finanziamento della Facoltà di Teologia nella misura ritenuta necessaria, oltre i fondi destinati dal Governo nel Budget dell' Università, ad assicurare che la stessa Facoltà possa svolgere le proprie funzioni in modo rispondente a quanto stabilito negli art. 3 e 4 dell'Accordo sopra citato tra la Santa Sede e il Governo di Malta. Tale contributo potrà raggiungere, al massimo, quello assegnato dal Governo.
+2. L'Arcidiocesi di Malta, tramite la "Foundation for Theological Studies", contribuirà al finanziamento della Facoltà di Teologia nella misura ritenuta necessaria, oltre i fondi destinati dal Governo nel Budget dell' Università, ad assicurare che la stessa Facoltà possa svolgere le proprie funzioni in modo rispondente a quanto stabilito negli art. 3 e 4 dell'Accordo sopra citato tra la Santa Sede e il Governo di Malta. Tale contributo potrà raggiungere, al massimo, quello assegnato dal Governo.
 
-- I competenti organi amministrativi dell' Università comunicheranno sollecitamente alla "Foundation for Theological Studies" l'ammontare del contributo stabilito dal Governo per il finanziamento della Facoltà e 1'ammontare della spesa prevista dalla stessa Facoltà per il suo conveniente funzionamento.
+3. I competenti organi amministrativi dell' Università comunicheranno sollecitamente alla "Foundation for Theological Studies" l'ammontare del contributo stabilito dal Governo per il finanziamento della Facoltà e l'ammontare della spesa prevista dalla stessa Facoltà per il suo conveniente funzionamento.
 
-- La  "Foundation  for  Theological  Studies",  entro  30  giorni  dalla  data  della comunicazione di cui al punto 3 della presente Intesa, esaminerà la previsione di spesa della Facoltà e, tenendo conto del contributo disposto dal Governo, comunicherà al Decano della Facoltà l'ammontare del proprio contributo, che verserà in rate trimestrali.
+4. La "Foundation for Theological Studies", entro 30 giorni dalla data della comunicazione di cui al punto 3 della presente Intesa, esaminerà la previsione di spesa della Facoltà e, tenendo conto del contributo disposto dal Governo, comunicherà al Decano della Facoltà l'ammontare del proprio contributo, che verserà in rate trimestrali.
 
-- La  parte  del  contributo  della  "Foundation  for  Theo1ogical  Studies"  che risulterà non essere stata spesa al termine dell' esercizio finanziario annuale per il quale lo stesso contributo era stato predisposto, sarà restituita alla stessa "Foundation".
+5. La parte del contributo della "Foundation for Theological Studies" che risulterà non essere stata spesa al termine dell' esercizio finanziario annuale per il quale lo stesso contributo era stato predisposto, sarà restituita alla stessa "Foundation".
 
-- Qualora  sorgessero  difficoltà  di  interpretazione  o  di  applicazione  delle precedenti disposizioni, il Governo della Repubblica di Malta e l'Arcidiocesi di Malta affideranno la ricerca di un'amichevole soluzione ad una commissione paritetica che sarà composta, per parte del Governo Maltese, dal Ministro dell'Educazione e dal Segretario Generale del Ministero dell'Educazione, o da loro delegati, per parte dell'Arcidiocesi di Malta, dal Presidente della "Foundation for Theological Studies" e dal Direttore della "Foundation for Theological Studies", o da loro delegati, e da un Presidente che sarà eletto dagli altri membri.
+6. Qualora sorgessero difficoltà di interpretazione o di applicazione delle precedenti disposizioni, il Governo della Repubblica di Malta e l'Arcidiocesi di Malta affideranno la ricerca di un'amichevole soluzione ad una commissione paritetica che sarà composta, per parte del Governo Maltese, dal Ministro dell'Educazione e dal Segretario Generale del Ministero dell'Educazione, o da loro delegati, per parte dell'Arcidiocesi di Malta, dal Presidente della "Foundation for Theological Studies" e dal Direttore della "Foundation for Theological Studies", o da loro delegati, e da un Presidente che sarà eletto dagli altri membri.
 
-26 settembre 1988 (firmato) Ugo Mifsud Bonnici Per il Governo di Malta | (firmato) +Giuseppe Mercieca Per l'Arcidiocesi di Malta (firmato) +Pier Luigi Celata
+26 settembre 1988
+
+(firmato) | (firmato)
 --- | ---
+Ugo Mifsud Bonnici | +Giuseppe Mercieca
+Per il Governo di Malta | Per l’Arcidiocesi di Malta
+
+(firmato)
++Pier Luigi Celata
 
 #### PROTOCOLLO AGGIUNTIVO ALL'ACCORDO TRA LA SANTA SEDE E IL GOVERNO DELLA REPUBBLICA DI MALTA SULL'INCORPORAZIONE DELLA FACOLTÀ DI TEOLOGIA NELL'UNIVERSITÀ DI MALTA
 
-La Santa Sede e il Governo di Malta, facendo seguito alla proposta avanzata dallo stesso Governo ed alle successive discussioni, stabiliscono di comune intesa di emendare 1'Articolo Sei dell'Accordo sull'incorporazione della Facoltà di Teologia nell'Università di Malta, firmato il 26 settembre 1988, come segue:
+La Santa Sede e il Governo di Malta, facendo seguito alla proposta avanzata dallo stesso Governo ed alle successive discussioni, stabiliscono di comune intesa di
 
 [[END OF PAGE 108]]
 
@@ -4391,13 +4488,20 @@ EDUCATION
 
 CAP. 327. 109
 
-"Un  rappresentante  del  Presidente  della  'Foundation  for  Theological  Studies', nominato  dallo  stesso  Presidente,  farà  parte  del  Consiglio  dell'Università. Due  rappresentanti  della  "Foundation  for  Theological  Studies",  da  questa nominati, faranno parte del Consiglio della Facoltà di Teologia".
+emendare l’Articolo Sei dell’Accordo sull’incorporazione della Facoltà di Teologia nell’Università di Malta, firmato il 26 settembre 1988, come segue:
+
+"Un rappresentante del Presidente della “Foundation for Theological Studies”, nominato dallo stesso Presidente, farà parte del Consiglio dell'Università. Due rappresentanti della "Foundation for Theological Studies", da questa nominati, faranno parte del Consiglio della Facoltà di Teologia".
 
 Il presente Protocollo aggiuntivo è parte integrale dell'Accordo firmato dalle due Parti il 26 settembre 1988.
 
 Fatto alla Valletta, Malta, il 26 del mese di gennaio millenovecentonovantacinque, in due testi originali, ciascuno in italiano e in inglese, ambedue facenti ugualmente fede.
 
-Per la Santa Sede (firmato) +Pier Luigi Celata Arcivescovo tit. di Doclea Nunzio Apostolico Per il Governo di Malta (firmato) Michael Falzon Ministro dell' Educazione e Risorse Umane.
+Per la Santa Sede | Per il Governo di Malta
+--- | ---
+(firmato) | (firmato)
++Pier Luigi Celata | Michael Falzon
+Arcivescovo tit. di Doclea | Ministro dell’ Educazione e Risorse Umane.
+Nunzio Apostolico |
 
 ### SCHEDULE IV | Added by:
 --- | ---
