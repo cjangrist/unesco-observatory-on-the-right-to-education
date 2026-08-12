@@ -22,6 +22,42 @@ Armenia 1995 (rev. 2015)
 
 Page 2
 
+Preamble 9
+CHAPTER 1: THE FOUNDATIONS OF CONSTITUTIONAL ORDER 9
+Article 3: The Human Being, His Dignity, Fundamental Rights, and Freedoms 9
+Article 4: The Principle of Separation and Balance of the Powers 9
+Article 5: The Hierarchy of Legal Norms 10
+Article 6: The Principle of Legality 10
+Article 7: The Suffrage Principles 10
+Article 8: Ideological Pluralism and the Multipartisan System 10
+Article 9: Guaranteeing Local Self-Government 11
+Article 10: Guaranteeing Property 11
+Article 11: The Economic Order 11
+Article 12: Preservation of the Environment and Sustainable Development 11
+Article 13: Foreign Policy 11
+Article 14: The Armed Forces and Defense 11
+Article 15: Promotion of Culture, Education, and Science, Protection of the Armenian language and Cultural Heritage 12
+Article 16: Protection of the Family 12
+Article 17: The State and Religious Organizations 12
+Article 18: The Armenian Apostolic Holy Church 12
+Article 19: Ties with the Armenian Diaspora 12
+Article 20: The State Language of the Republic of Armenia 12
+Article 21: The Symbols of the Republic of Armenia 13
+Article 22: The Capital of the Republic of Armenia 13
+CHAPTER 2: FUNDAMENTAL RIGHTS AND FREEDOMS OF THE HUMAN BEING AND THE CITIZEN 13
+Article 23: Human Dignity 13
+Article 24: The Right to Life 13
+Article 25: The Right to Physical and Mental Integrity 13
+Article 26: The Prohibition of Torture, Inhuman or Degrading Treatment or Punishment 14
+Article 27: Personal Liberty 14
+Article 28: General Equality before the Law 15
+Article 29: The Prohibition of Discrimination 15
+Article 30: Equality of Rights between Women and Men 15
+Article 31: Inviolability of Private and Family Life and of Honor and Reputation 15
+Article 32: Inviolability of the Home 16
+Article 33: Freedom and Confidentiality of Communication 16
+Article 34: The Protection of Personal Data 16
+
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
@@ -33,6 +69,45 @@ PDF generated: 17 Jan 2018, 15:43
 Armenia 1995 (rev. 2015)
 
 Page 3
+
+Article 35: Freedom to Marry 17
+Article 36: Rights and Obligations of Parents 17
+Article 37: The Rights of a Child 17
+Article 38: The Right to Education 17
+Article 39: The Right of a Human Being to Act Freely 18
+Article 40: The Right to Freedom of Movement 18
+Article 41: The Freedom of Thought, Conscience, and Religion 18
+Article 42: The Freedom of Expression of Opinion 19
+Article 43: The Freedom of Creation 19
+Article 44: The Freedom of Assembly 19
+Article 45: The Freedom of Association 20
+Article 46: The Right to Create a Party and to Become a Member of a Party 20
+Article 47: The Right to Citizenship of the Republic of Armenia 20
+Article 48: Right to Vote and Right to Participate in a Referendum 21
+Article 49: The Right to Enter the Public Service 22
+Article 50: The Right to Proper Administration 22
+Article 51: The Right to Receive Information 22
+Article 52: The Right to Apply to the Human Rights Defender 22
+Article 53: The Right to Submit a Petition 22
+Article 54: The Right to Political Asylum 23
+Article 55: The Prohibition of Deportation or Extradition 23
+Article 56: The Right to Preserve National and Ethnic Identity 23
+Article 57: The Freedom to Choose Employment and the Labor Rights 23
+Article 58: The Right to a Strike 24
+Article 59: The Freedom of Economic Activities and Guaranteeing Economic Competition 24
+Article 60: The Right to Property 24
+Article 61: The Right to Judicial Protection and the Right to Apply to International Bodies of Human Rights Protection 25
+Article 62: Right to Compensation for Damage 25
+Article 63: The Right to a Fair Trial 25
+Article 64: The Right to Receive Legal Aid 26
+Article 65: The Right to Be Exempted from the Duty to Testify 26
+Article 66: The Presumption of Innocence 26
+Article 67: The Right to Defend Oneself from Charges 26
+Article 68: The Prohibition of Being Tried Twice 26
+Article 69: The Right of a Convicted Person to Appeal 27
+Article 70: The Right to Request a Pardon 27
+Article 71: The Principle of Guilt and the Principle of Proportionality of Punishment 27
+Article 72: The Principle of Legality in Defining Crimes and Imposing Penalties 27
 
 [[END OF PAGE 3]]
 
@@ -46,6 +121,43 @@ Armenia 1995 (rev. 2015)
 
 Page 4
 
+Article 73: The Retrospective Effect of Laws and Other Legal Acts 27
+Article 74: The Applicability of Fundamental Rights and Freedoms in Respect of Legal Persons 27
+Article 75: Organizational Structures and Procedures for the Exercise of Fundamental Rights and Freedoms 28
+Article 76: Restrictions of Fundamental Rights and Freedoms in Emergency Situations or during Martial Law 28
+Article 77: The Prohibition of Abuse of Fundamental Rights and Freedoms 28
+Article 78: The Principle of Proportionality 28
+Article 79: The Principle of Certainty 28
+Article 80: Inviolability of the Essence of Provisions on Fundamental Rights and Freedoms 28
+Article 81: Fundamental Rights and Freedoms and the International Legal Practice 28
+CHAPTER 3: LEGISLATIVE GUARANTEES AND MAIN OBJECTIVES OF STATE POLICY IN THE ECONOMIC, SOCIAL, AND CULTURAL SPHERES 29
+Article 82: Working Conditions 29
+Article 83: Social Security 29
+Article 84: Dignifying Existence and Minimum Salary 29
+Article 85: Health Care 29
+Article 86: The Main Objectives of State Policy 29
+Article 87: Fulfillment of the Main Objectives of State Policy 30
+CHAPTER 4: THE NATIONAL ASSEMBLY 31
+Article 88: The Status and Functions of the National Assembly 31
+Article 89: The National Assembly Composition and Election Procedure 31
+Article 90: Term of Office of the National Assembly 31
+Article 91: Regular Election of the National Assembly 32
+Article 92: Extraordinary Election of the National Assembly 32
+Article 93: Setting Elections of the National Assembly 32
+Article 94: Representation Mandate 33
+Article 95: Incompatibility of the Parliamentarian Mandate 33
+Article 96: The Immunity of a Parliamentarian 33
+Article 97: Remuneration Amount and Other Safeguards of Activities of a Parliamentarian 33
+Article 98: Cessation and Termination of Powers of a Parliamentarian 33
+Article 99: Regular Sessions of the National Assembly 34
+Article 100: Extraordinary Sessions and Sittings of the National Assembly 34
+Article 101: Publicity of Sittings of the National Assembly 34
+Article 102: Quorum of National Assembly Sittings 34
+Article 103: The Adoption of Laws, National Assembly Decisions, Statements, and Addresses 34
+Article 104: The National Assembly Chairman and Deputy Chairmen, and the National Assembly Council 35
+Article 105: The Factions of the National Assembly 35
+Article 106: The Standing Committees of the National Assembly 35
+
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
@@ -57,6 +169,45 @@ PDF generated: 17 Jan 2018, 15:43
 Armenia 1995 (rev. 2015)
 
 Page 5
+
+Article 107: Temporary Committees of the National Assembly 36
+Article 108: Inquiry Committees of the National Assembly 36
+Article 109: Legislative Initiative 36
+Article 110: Adoption of the State Budget 37
+Article 111: Oversight of State Budget Execution 37
+Article 112: Oral and Written Questions of Parliamentarians 37
+Article 113: Interpellations 38
+Article 114: Deliberations on Urgent Topics 38
+Article 115: Expressing Non-Confidence in the Prime Minister 38
+Article 116: Ratification, Suspension, or Renunciation of International Treaties 39
+Article 117: Amnesty 39
+Article 118: Declaring War and Establishing Peace 39
+Article 119: Martial Law 40
+Article 120: State of Emergency 40
+Article 121: Administrative-Territorial Units and Division 40
+Article 122: Autonomous Bodies 40
+CHAPTER 5: THE PRESIDENT OF THE REPUBLIC 41
+Article 123: Status and Functions of the President of the Republic 41
+Article 124: Term of Office of and Requirements on the President of the Republic 41
+Article 125: Election Procedure of the President of the Republic 42
+Article 126: Extraordinary Election of the President of the Republic 42
+Article 127: The President of the Republic Assuming Office 42
+Article 128: Address by the President of the Republic 43
+Article 129: The Signing and Publication of a Law 43
+Article 130: Accepting the Resignation of the Government 43
+Article 131: Changes in the Composition of the Government 43
+Article 132: Powers of the President of the Republic in the Area of Foreign Policy 43
+Article 133: Powers of the President of the Republic in the Area of Armed Forces 44
+Article 134: Resolution of Issues Related to Citizenship 44
+Article 135: Granting Pardon 44
+Article 136: Decorating with Awards and Granting Honorary Titles 44
+Article 137: Awarding the Highest Ranks 44
+Article 138: Temporary Appointment of Officials 45
+Article 139: Orders and Decrees of the President of the Republic 45
+Article 140: Immunity of the President of the Republic 45
+Article 141: Impeachment of the President of the Republic 45
+Article 142: Resignation of the President of the Republic 46
+Article 143: Impossibility for the President of the Republic to Discharge His Powers 46
 
 [[END OF PAGE 5]]
 
@@ -70,6 +221,44 @@ Armenia 1995 (rev. 2015)
 
 Page 6
 
+Article 144: Temporary Discharge of Powers of the President of the Republic 46
+Article 145: Support to the Activities of the President of the Republic 46
+CHAPTER 6: THE GOVERNMENT 46
+Article 146: Status and Functions of the Government 46
+Article 147: Composition and Structure of the Government 47
+Article 148: Requirements on Government Members 47
+Article 149: Election and Appointment of the Prime Minister 47
+Article 150: Formation of the Government 48
+Article 151: The Program of the Government 48
+Article 152: Powers of the Prime Minister and Other Members of the Government 49
+Article 153: Sittings and Decisions of the Government 49
+Article 154: Economic and Financial Policies 49
+Article 155: The Armed Forces 49
+Article 156: Annual Report of the Government to the National Assembly 50
+Article 157: The Question of Confidence in the Government 50
+Article 158: Resignation of the Government 51
+Article 159: Bodies of the State Administration System 51
+Article 160: Implementation of the Regional Policy of the Government 51
+Article 161: The Public Council 51
+CHAPTER 7: COURTS AND THE SUPREME JUDICIAL COUNCIL 51
+Article 162: The Administration of Justice 51
+Article 163: The Courts 52
+Article 164: The Status of a Judge 52
+Article 165: Requirements on Judge Candidates 53
+Article 166: The Judge Election and Appointment Procedure 54
+Article 167: The Constitutional Court 55
+Article 168: Powers of the Constitutional Court 55
+Article 169: Applying to the Constitutional Court 56
+Article 170: Decisions and Opinions of the Constitutional Court 58
+Article 171: The Cassation Court 58
+Article 172: The Appellate Courts 58
+Article 173: The Supreme Judicial Council 58
+Article 174: Composition and Formation Procedure of the Supreme Judicial Council 59
+Article 175: Powers of the Supreme Judicial Council 59
+CHAPTER 8: THE PROSECUTION OFFICE AND THE INVESTIGATIVE ORGANS 60
+Article 176: The Prosecution Office 60
+Article 177: The Prosecutor General 61
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
@@ -82,6 +271,43 @@ Armenia 1995 (rev. 2015)
 
 Page 7
 
+Article 178: The Investigative Organs 61
+CHAPTER 9: LOCAL SELF-GOVERNMENT 62
+Article 179: The Right to Local Self-Government 62
+Article 180: Communities 62
+Article 181: Elections of Local Self-Government Bodies 62
+Article 182: Community Issues and the Powers of Local Self-Government Bodies 62
+Article 183: Direct Participation in the Administration of Community Affairs 63
+Article 184: Community Property 63
+Article 185: Community Budget, Local Taxes, Duties, and Fees 63
+Article 186: The Financing of Communities 64
+Article 187: Local Self-Government in Yerevan 64
+Article 188: Legal and Professional Oversight 64
+Article 189: Inter-Community Unions 64
+Article 190: Merger and Separation of Communities 64
+CHAPTER 10: THE HUMAN RIGHTS DEFENDER 65
+Article 191: Functions and Powers of the Human Rights Defender 65
+Article 192: Election of the Human Rights Defender 65
+Article 193: Safeguards of the Activities of the Human Rights Defender 65
+CHAPTER 11: THE CENTRAL ELECTORAL COMMISSION 66
+Article 194: Functions and Powers of the Central Electoral Commission; the System of Electoral Commissions 66
+Article 195: Formation Procedure and Composition of the Central Electoral Commission 66
+CHAPTER 12: THE TELEVISION AND RADIO COMMISSION 67
+Article 196: Functions and Powers of the Television and Radio Commission 67
+Article 197: Formation Procedure and Composition of the Television and Radio Commission 68
+CHAPTER 13: THE AUDIT CHAMBER 68
+Article 198: Functions and Powers of the Audit Chamber 68
+Article 199: Formation Procedure and Composition of the Audit Chamber 69
+CHAPTER 14: THE CENTRAL BANK 70
+Article 200: Main Goals and Functions of the Central Bank 70
+Article 201: The Chairman and Board of the Central Bank 70
+CHAPTER 15: ADOPTING AND AMENDING THE CONSTITUTION; THE REFERENDUM 71
+Article 202: Adopting and Amending the Constitution 71
+Article 203: Unamendable Articles of the Constitution 72
+Article 204: Referendum on a Law Draft Submitted by Popular Initiative 72
+Article 205: Referenda on the Membership of the Republic of Armenia in Supranational International Organizations and Changes of Territory 72
+Article 206: Setting a Referendum 72
+
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
@@ -93,6 +319,22 @@ PDF generated: 17 Jan 2018, 15:43
 Armenia 1995 (rev. 2015)
 
 Page 8
+
+Article 207: Adoption of the Act Put to a Referendum 73
+Article 208: Prohibition of Conducting a Referendum 73
+CHAPTER 16: FINAL AND TRANSITIONAL PROVISIONS 73
+Article 209: Entry into Force of Certain Provisions of the Constitution 73
+Article 210: Harmonization of Laws with the Amendments to the Constitution 74
+Article 211: Election Timeframe of the President of the Republic 74
+Article 212: Resignation of the Government 74
+Article 213: Tenure of the Chairman and Members of the Constitutional Court 74
+Article 214: Formation of the Supreme Judicial Council 75
+Article 215: Tenure of Judges, Court Chairmen, and Chamber Chairmen of the Cassation Court 75
+Article 216: Tenure of the Prosecutor General 75
+Article 217: Tenure of the Community Mayors and the Members of the Community Councils 75
+Article 218: Tenure of the Human Rights Defender 76
+Article 219: The Formation of the Central Electoral Commission 76
+Article 220: Tenure of the Members of Bodies Prescribed by Chapters 12-14 of the Constitution 76
 
 [[END OF PAGE 8]]
 
@@ -1236,7 +1478,7 @@ When regulating fundamental rights and freedoms, laws shall define the organizat
 
 ### Article 76: Restrictions of Fundamental Rights and Freedoms in Emergency Situations or during Martial Law
 
-In a state of emergency or during martial law, fundamental rights and freedoms of the human being and the citizen, with the exception of those stipulated by Articles 23-26,  28-30,  35-37,  Paragraph  1  of  Article  38,  Paragraph  1  of  Article  41, Paragraph 1, the first sentence of Paragraph 5, and Paragraph 8 of Article 47, Article 52, Paragraph 2 of Article 55, Articles 56, 61, and 63-72 of the Constitution, may be temporarily  suspended  or  subjected  to  additional  restrictions  in  the  manner stipulated by law to the extent required by the situation, subject to the international commitments  undertaken  with  respect  to  derogations  from  commitments  in emergency situations or during martial law.
+In a state of emergency or during martial law, fundamental rights and freedoms of the human being and the citizen, with the exception of those stipulated by Articles 23–26,  28–30,  35–37,  Paragraph  1  of  Article  38,  Paragraph  1  of  Article  41, Paragraph 1, the first sentence of Paragraph 5, and Paragraph 8 of Article 47, Article 52, Paragraph 2 of Article 55, Articles 56, 61, and 63–72 of the Constitution, may be temporarily  suspended  or  subjected  to  additional  restrictions  in  the  manner stipulated by law to the extent required by the situation, subject to the international commitments  undertaken  with  respect  to  derogations  from  commitments  in emergency situations or during martial law.
 
 ### Article 77: The Prohibition of Abuse of Fundamental Rights and Freedoms
 
@@ -1484,7 +1726,7 @@ Immunity of legislators
 
 Removal of individual legislators
 
-· Attendance by legislators Regular  and  extraordinary  elections  of  the  National  Assembly  shall  be  set  by  the President of the Republic.
+Regular  and  extraordinary  elections  of  the  National  Assembly  shall  be  set  by  the President of the Republic.
 
 ### Article 94: Representation Mandate
 
@@ -1510,6 +1752,8 @@ The  remuneration  amount  and  other  safeguards  of  activities  of  a  parlia
 
 - The  powers  of  a  parliamentarian  shall  be  terminated  in  case  of  the inexcusable  absence  from  at  least  half  of  the  votes  during  each  calendar semester, as well as in case of a violation of the terms of Article 95 of the Constitution.
 
+· Attendance by legislators
+
 Armenia 1995 (rev. 2015)
 
 Page 33
@@ -1534,7 +1778,7 @@ Supermajority required for legislation · Referenda
 
 ### Article 99: Regular Sessions of the National Assembly
 
-Regular sessions of the National Assembly shall be convened twice a year-from the third Monday of January to the third Thursday of June, and from the second Monday of September to the third Thursday of December.
+Regular sessions of the National Assembly shall be convened twice a year—from the third Monday of January to the third Thursday of June, and from the second Monday of September to the third Thursday of December.
 
 ### Article 100: Extraordinary Sessions and Sittings of the National Assembly
 
@@ -1802,6 +2046,8 @@ Page 39
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 15:43
+
 · Emergency provisions
 
 · Emergency provisions
@@ -1835,8 +2081,6 @@ Marzes and communities shall be the administrative-territorial units of the Repu
 - To  safeguard  the  exercise  of  fundamental  rights  and  freedoms  of  the human being and citizen, as well as to protect fundamental public interests enshrined in the Constitution, autonomous bodies may be created by a law adopted by majority vote of the total number of parliamentarians.
 
 - The members of autonomous bodies shall be appointed by majority vote of the total number of parliamentarians.
-
-PDF generated: 17 Jan 2018, 15:43
 
 Armenia 1995 (rev. 2015)
 
@@ -1898,6 +2142,8 @@ Page 41
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 15:43
+
 · Head of state selection
 
 Scheduling of elections
@@ -1905,8 +2151,6 @@ Scheduling of elections
 · Head of state removal
 
 Head of state replacement
-
-PDF generated: 17 Jan 2018, 15:43
 
 ### Article 125: Election Procedure of the President of the Republic
 
@@ -1960,7 +2204,7 @@ Treaty ratification
 
 International organizations
 
-- The President of the Republic shall assume office by taking the following oath to the people at a special sitting of the National Assembly: 'Assuming the office of the President of the Republic of Armenia, I swear to be faithful to  the  Constitution  of  the  Republic  of  Armenia,  to  be  impartial  in  the exercise of my powers, to follow only state and national interests, and to invest all of my strength for the fortification of national unity.'
+- The President of the Republic shall assume office by taking the following oath to the people at a special sitting of the National Assembly: “Assuming the office of the President of the Republic of Armenia, I swear to be faithful to  the  Constitution  of  the  Republic  of  Armenia,  to  be  impartial  in  the exercise of my powers, to follow only state and national interests, and to invest all of my strength for the fortification of national unity.”
 
 ### Article 128: Address by the President of the Republic
 
@@ -2284,6 +2528,8 @@ Page 49
 
 constituteproject.org
 
+PDF generated: 17 Jan 2018, 15:43
+
 Advisory bodies to the head of state
 
 Selection of active-duty commanders
@@ -2295,8 +2541,6 @@ Cabinet removal
 Head of government removal
 
 · Emergency provisions
-
-PDF generated: 17 Jan 2018, 15:43
 
 - The general guidelines of defense policy shall be stipulated by the Security Council.  Within  such  general  guidelines,  the  Minister  of  Defense  shall conduct the command of the armed forces.
 
@@ -3192,7 +3436,7 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
 
-· Legislative committees conduct inspections of legal entities only in cases stipulated by law.
+conduct inspections of legal entities only in cases stipulated by law.
 
 - The  Audit  Chamber  shall  operate  on  the  basis  of  a  program  of  activities approved by it.
 
@@ -3211,6 +3455,8 @@ PDF generated: 17 Jan 2018, 15:43
 - The Audit Chamber shall consist of seven members.
 
 - The Audit Chamber chairman and other members shall, upon nomination by the competent standing committee of the National Assembly, be elected by  the  National  Assembly  for  a  six-year  term  by  at  least  a  three-fifths majority  vote  of  the  total  number  of  parliamentarians.  The  same  person may not be elected as a member, including chairman, of the Audit Chamber for more than two consecutive terms.
+
+· Legislative committees
 
 - Anyone who has higher education and meets the requirements prescribed for a parliamentarian may be elected as a member of the Audit Chamber. Additional requirements may be stipulated by law for members of the Audit Chamber.
 
@@ -3492,23 +3738,23 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
 
-· Ombudsman
-
-· Electoral commission
-
-· Central bank
+• Ombudsman
 
 ### Article 218: Tenure of the Human Rights Defender
 
-The Human Rights Defender appointed prior to the entry into force of Chapter 10 of the  Constitution  shall  continue  to  serve  until  the  end  of  the  term  of  his  office stipulated by the Constitution amended in 2005.
+The Human Rights Defender appointed prior to the entry into force of Chapter 10 of the Constitution shall continue to serve until the end of the term of his office stipulated by the Constitution amended in 2005.
 
 ### Article 219: The Formation of the Central Electoral Commission
 
-The Central Electoral Commission shall be formed under the procedure stipulated by  Chapter  11  of  the  Constitution  prior  to  1  November  2016.  The  powers  of  the Central  Electoral  Commission  members  appointed  prior  to  the  entry  into  force  of Chapter  11 of the Constitution shall terminate when  the Central Electoral Commission is formed.
+• Electoral commission
+
+The Central Electoral Commission shall be formed under the procedure stipulated by Chapter 11 of the Constitution prior to 1 November 2016. The powers of the Central Electoral Commission members appointed prior to the entry into force of Chapter 11 of the Constitution shall terminate when the Central Electoral Commission is formed.
 
 ### Article 220: Tenure of the Members of Bodies Prescribed by Chapters 12-14 of the Constitution
 
-After the entry into force of Chapters 12-14 of the Constitution, the members of the bodies prescribed by those Chapters shall continue to serve until the end of the term of their office stipulated by the Constitution amended in 2005 and by laws. Members of  the  Control  Chamber  shall  continue  to  serve  in  office  as  members  of  the  Audit Chamber.
+• Central bank
+
+After the entry into force of Chapters 12-14 of the Constitution, the members of the bodies prescribed by those Chapters shall continue to serve until the end of the term of their office stipulated by the Constitution amended in 2005 and by laws. Members of the Control Chamber shall continue to serve in office as members of the Audit Chamber.
 
 Armenia 1995 (rev. 2015)
 
@@ -3524,6 +3770,45 @@ PDF generated: 17 Jan 2018, 15:43
 
 ## Topic index
 
+A
+Access to higher education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Accession of territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49, 50
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 60, 75
+B
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+C
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 43, 48, 50, 51
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Central bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70, 76
+Civil service recruitment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 21
+Compensation of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Compulsory education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Constitutional court opinions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 58
+Constitutional court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 45, 46, 48, 55
+Constitutional court removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 53, 56
+Constitutional court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54, 74
+Constitutional court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54, 74, 75
+Constitutional court term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 56, 57
+Customary international law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+D
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41, 55
+Duty to pay taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+E
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66, 76
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21, 47
+Eligibility for const court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
 Armenia 1995 (rev. 2015)
 
 Page 77
@@ -3535,6 +3820,48 @@ Page 77
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
+
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28, 32, 38, 40, 50, 73
+Equality for persons with disabilities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of age . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of financial status . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of language . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of parentage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Establishment of administrative courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+Establishment of constitutional court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 53, 54, 58, 59, 75
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+F
+First chamber representation quotas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 31
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Free education . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 18
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+G
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+H
+Head of government powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 48, 50, 51
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
 
 Armenia 1995 (rev. 2015)
 
@@ -3548,6 +3875,47 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
 
+Head of state decree power . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 44
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42, 45
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 13
+I
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36, 37
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 11, 12, 21, 23, 25, 28, 39, 43, 44, 72
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37, 39, 43, 44, 57, 72
+J
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 52, 55
+L
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Legal status of treaties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 28, 39, 55
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35, 36, 61, 65, 67, 68, 69, 70
+Legislative initiatives by citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37, 72
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31, 36, 37, 38, 50
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Limits on employment of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Limits on removing head of government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+M
+Mandatory retirement age for judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Media commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+Min age of const court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+Minimum age of supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 21, 62
+N
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+National capital . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
 Armenia 1995 (rev. 2015)
 
 Page 79
@@ -3559,6 +3927,47 @@ Page 79
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
+
+O
+Oaths to abide by constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Official religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 57, 65, 76
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Ordinary court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54, 75
+Ordinary court term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+P
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 23
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47, 49
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 27
+Prohibited political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Prohibition of capital punishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Prohibition of corporal punishment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Protection from false imprisonment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Protection of consumers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 23
+Protection of stateless persons . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Provision for matrimonial equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Public or private sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Q
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+R
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 67, 74
 
 Armenia 1995 (rev. 2015)
 
@@ -3572,6 +3981,50 @@ constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
 
+Reference to art . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Reference to fraternity/solidarity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 14, 19, 30, 33, 52
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 10, 21, 34, 55, 66, 71, 72, 73
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 26
+Regulation of political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 56
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33, 55, 57
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 21
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 18
+Restrictions on political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 20
+Restrictions on rights of groups . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Restrictions on the armed forces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 19, 20
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Right of petition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+Right to academic freedom . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 58
+Right to choose occupation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Right to competitive marketplace . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 24
+Right to conscientious objection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 23
+Right to establish a business . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 24
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10, 20
+Right to found a family . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 17
+Right to health care . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Right to information . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 22
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to marry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Right to own property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 24
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 16
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Right to reasonable standard of living . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Right to rest and leisure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Right to safe work environment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Right to speedy trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Right to strike . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Right to transfer property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 17
+
 Armenia 1995 (rev. 2015)
 
 Page 81
@@ -3583,6 +4036,38 @@ Page 81
 constituteproject.org
 
 PDF generated: 17 Jan 2018, 15:43
+
+S
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32, 42
+Secession of territory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Selection of active-duty commanders . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44, 50
+Separation of church and state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+State operation of the media . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 67
+State support for children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+State support for the disabled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+State support for the elderly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29, 30
+State support for the unemployed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 58
+Subsidiary unit government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+Supermajority required for legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54, 75
+Supreme court term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 53
+T
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 19, 67, 74
+Television . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 67, 74
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39, 43, 44
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15, 26
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+U
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Unamendable provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
 
 Armenia 1995 (rev. 2015)
 
