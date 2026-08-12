@@ -7,6 +7,39 @@
 ## TABLE OF CONTENTS
 
 PREAMBLE
+Fundamental principles
+Art 1 - (Portuguese Republic)
+Art 2 - (Democratic state based on the rule of law)
+Art 3 - (Sovereignty and legality)
+Art 4 - (Portuguese citizenship)
+Art 5 - (Territory)
+Art 6 - (Unitary state)
+Art 7 - (International relations)
+Art 8 - (International law)
+Art 9 - (Fundamental tasks of the state)
+Art 10 - (Universal suffrage and political parties)
+Art 11 - (National symbols and official language)
+PART I – Fundamental rights and duties
+TITLE I – General principles
+Art 12 - (Principle of universality)
+Art 13 - (Principle of equality)
+Art 14 - (Portuguese abroad)
+Art 15 - (Foreigners, stateless persons, European citizens)
+Art 16 - (Scope and interpretation of fundamental rights)
+Art 17 - (Rules governing rights, freedoms and guarantees)
+Art 18 - (Legal force)
+Art 19 - (Suspension of the exercise of rights)
+Art 20 - (Access to law and effective judicial protection)
+Art 21 - (Right of resistance)
+Art 22 - (Liability of public bodies)
+Art 23 - (Ombudsman)
+TITLE II – Rights, freedoms and guarantees
+CHAPTER I - Personal rights, freedoms and guarantees
+Art 24 - (Right to life)
+Art 25 - (Right to personal integrity)
+Art 26 - (Other personal rights)
+Art 27 - (Right to freedom and security)
+Art 28 - (Remand in custody)
 
 [[END OF PAGE 1]]
 
@@ -18,13 +51,93 @@ Art 29 - (Application of criminal law) Art 30 - (Limits on sentences and securit
 
 [[START OF PAGE 3]]
 
-(this page came through the extractor with no text)
+Art 65 - (Housing and urban planning)
+Art 66 - (Environment and quality of life)
+Art 67 - (Family)
+Art 68 - (Fatherhood and motherhood)
+Art 69 - (Childhood)
+Art 70 - (Youth)
+Art 71 - (Disabled citizens)
+Art 72 - (The elderly)
+CHAPTER III – Cultural rights and duties
+Art 73 - (Education, culture and science)
+Art 74 - (Education)
+Art 75 - (Public, private and cooperative education)
+Art 76 - (University and access to higher education)
+Art 77 - (Democratic participation in education)
+Art 78 - (Cultural enjoyment and creation)
+Art 79 - (Physical education and sport)
+PART II – Organisation of the economy
+TITLE I – General principles
+Art 80 - (Fundamental principles)
+Art 81 - (Primary duties of the state)
+Art 82 - (Sectors of ownership of the means of production)
+Art 83 - (Requirements for compulsory purchase)
+Art 84 - (Public domain)
+Art 85 - (Cooperatives and worker-management experiments)
+Art 86 - (Private businesses)
+Art 87 - (Foreign economic activity and investment)
+Art 88 - (Abandoned means of production)
+Art 89 - (Worker participation in management)
+TITLE II - Plans
+Art 90 - (Objectives)
+Art 91 - (Drawing up and implementation of plans)
+Art 92 - (Economic and Social Council)
+TITLE III – Agricultural, commercial and industrial policies
+Art 93 - (Agricultural policy objectives)
+Art 94 - (Elimination of very large estates)
+Art 95 - (Resizing of small farms)
+Art 96 - (Forms of use of non-owned land)
+Art 97 - (State assistance)
+Art 98 - (Participation in drawing up agricultural policy)
+Art 99 - (Commercial policy objectives)
+Art 100 - (Industrial policy objectives)
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-(this page came through the extractor with no text)
+TITLE IV – Financial and fiscal system
+Art 101 - (Financial system)
+Art 102 - (Bank of Portugal)
+Art 103 - (Fiscal system)
+Art 104 - (Taxes)
+Art 105 - (Budget)
+Art 106 - (Drawing up the Budget)
+Art 107 - (Scrutiny)
+PART III – Organisation of political power
+TITLE I – General principles
+Art 108 - (Source and exercise of power)
+Art 109 - (Citizens’ participation in politics)
+Art 110 - (Bodies that exercise sovereign power)
+Art 111 - (Separation and interdependence)
+Art 112 - (Legislation)
+Art 113 - (General principles of electoral law)
+Art 114 - (Political parties and right to opposition)
+Art 115 - (Referenda)
+Art 116 - (Collegiate bodies)
+Art 117 - (Status of political officeholders)
+Art 118 - (Renewal principle)
+Art 119 - (Publicising of acts)
+TITLE II - President of the Republic
+CHAPTER I – Status, role and election
+Art 120 - (Definition)
+Art 121 - (Election)
+Art 122 - (Eligibility for election)
+Art 123 - (Eligibility for re-election)
+Art 124 - (Nominations)
+Art 125 - (Date of election)
+Art 126 - (Electoral system)
+Art 127 - (Installation and swearing in)
+Art 128 - (Term of office)
+Art 129 - (Absence from Portuguese territory)
+Art 130 - (Criminal liability)
+Art 131 - (Resignation)
+Art 132 - (Acting President)
+CHAPTER II - Responsibilities
+Art 133 - (Responsibilities in relation to other bodies)
+Art 134 - (Personal responsibilities)
+Art 135 - (Responsibilities in international relations)
 
 [[END OF PAGE 4]]
 
@@ -36,7 +149,45 @@ Art 136 - (Enactment and veto) Art 137 - (Failure to enact or sign) Art 138 - (D
 
 [[START OF PAGE 6]]
 
-(this page came through the extractor with no text)
+Art 172 - (Dissolution)
+Art 173 - (Sitting following elections)
+Art 174 - (Legislative sessions, full sessions and calling)
+Art 175 - (Internal responsibilities of the Assembly)
+Art 176 - (Order of business of plenary sittings)
+Art 177 - (Attendance by members of the Government)
+Art 178 - (Committees)
+Art 179 - (Standing Committee)
+Art 180 - (Parliamentary groups)
+Art 181 - (Assembly staff and specialists)
+TITLE IV - Government
+CHAPTER I – Function and structure
+Art 182 - (Definition)
+Art 183 - (Composition)
+Art 184 - (Council of Ministers)
+Art 185 - (Temporary substitution of members of the Government)
+Art 186 - (Taking and leaving office)
+CHAPTER II – Formation and responsibilities
+Art 187 - (Formation)
+Art 188 - (The Government’s Programme)
+Art 189 - (Collective responsibility)
+Art 190 - (Government responsibility)
+Art 191 - (Responsibility of members of the Government)
+Art 192 - (Consideration of the Government’s Programme)
+Art 193 - (Request for confidence motion)
+Art 194 - (No confidence motions)
+Art 195 - (Resignation or removal of the Government)
+Art 196 - (Lifting immunity from criminal prosecution from members of the Government)
+CHAPTER III - Responsibilities
+Art 197 - (Political responsibilities)
+Art 198 - (Legislative responsibilities)
+Art 199 - (Administrative responsibilities)
+Art 200 - (Responsibilities of the Council of Ministers)
+Art 201 - (Responsibilities of members of the Government)
+TITLE V – Courts
+CHAPTER I – General principles
+Art 202 - (Jurisdiction)
+Art 203 - (Independence)
+Art 204 - (Compliance with the Constitution)
 
 [[END OF PAGE 6]]
 
@@ -54,7 +205,38 @@ Art 235 - (Local authorities) Art 236 - (Categories of local authority and admin
 
 [[START OF PAGE 9]]
 
-(this page came through the extractor with no text)
+Art 270 - (Restrictions on the exercise of rights)
+Art 271 - (Liability of state staff and agents)
+Art 272 - (Police)
+TITLE X – National defence
+Art 273 - (National defence)
+Art 274 - (Supreme National Defence Council)
+Art 275 - (Armed forces)
+Art 276 - (Defence of the nation, military service and civic service)
+PART IV – Guaranteeing and revision of the Constitution
+TITLE I – Review of constitutionality
+Art 277 - (Positive unconstitutionality)
+Art 278 - (Prior review of constitutionality)
+Art 279 - (Effects of ruling)
+Art 280 - (Specific review of constitutionality and legality)
+Art 281 - (Abstract review of constitutionality and legality)
+Art 282 - (Effects of declaration of unconstitutionality or illegality)
+Art 283 - (Unconstitutionality by omission)
+TITLE II – Revision of the Constitution
+Art 284 - (Responsibility and time for revisions)
+Art 285 - (Power to initiate revisions)
+Art 286 - (Passage and enactment)
+Art 287 - (New text of the Constitution)
+Art 288 - (Matters in which revision shall be restricted)
+Art 289 - (Circumstances in which revision shall be restricted)
+Final and transitional provisions
+Art 290 - (Previous law)
+Art 291 - (Districts)
+Art 292 - (Indictment and trial of PIDE/DGS agents and officials)
+Art 293 - (Reprivatisation of property nationalised after 25 April 1974)
+Art 294 - (Rules applicable to local authority bodies)
+Art 295 - (Referendum on European Treaty)
+Art 296 - (Date and entry into force of the Constitution)
 
 [[END OF PAGE 9]]
 
@@ -134,11 +316,11 @@ All  persons  whom  the  law  or  international  convention  consider  to  be  P
 
 - In its international relations Portugal shall be governed by the principles of national independence, respect for human rights, the rights of peoples, equality between states, the peaceful settlement of international conflicts, non-interference in the internal affairs of other states and cooperation with all other peoples with a view to the emancipation and progress of mankind.
 
-- Portugal shall advocate the abolition of imperialism, colonialism and all other forms of  aggression,  dominion and exploitation in the relations between peoples, as well as simultaneous  and  controlled  general  disarmament,  the  dissolution  of  the  politicalmilitary blocs and the setting up of a collective security system, all with a view to the creation  of  an  international  order  with  the  ability  to  ensure  peace  and  justice  in  the relations between peoples.
+- Portugal shall advocate the abolition of imperialism, colonialism and all other forms of aggression, dominion and exploitation in the relations between peoples, as well as simultaneous and controlled general disarmament, the dissolution of the political-military blocs and the setting up of a collective security system, all with a view to the creation of an international order with the ability to ensure peace and justice in the relations between peoples.
 
 - Portugal shall recognise peoples' rights to self-determination and independence and to development, as well as the right to insurrection against all forms of oppression.
 
-- Portugal shall maintain privileged ties of friendship and cooperation with Portuguesespeaking countries.
+- Portugal shall maintain privileged ties of friendship and cooperation with Portuguese-speaking countries.
 
 - Portugal shall make every effort to reinforce the European identity and to strengthen the  European  states'  actions  in  favour  of  democracy,  peace,  economic  progress  and justice in the relations between peoples.
 
@@ -200,7 +382,7 @@ The fundamental tasks of the state shall be:
 
 (National symbols and official language)
 
-- The National Flag, which shall be the symbol of the sovereignty of the Republic and of Portugal's independence, unity and integrity, shall be that adopted by the Republic formed by the Revolution of the 5 th of October 1910.
+- The National Flag, which shall be the symbol of the sovereignty of the Republic and of Portugal's independence, unity and integrity, shall be that adopted by the Republic formed by the Revolution of the 5th of October 1910.
 
 - The national anthem shall be A Portuguesa .
 
@@ -244,7 +426,7 @@ Portuguese citizens who find themselves or who reside abroad shall enjoy the sta
 
 (Foreigners, stateless persons, European citizens)
 
-- Foreigners and stateless persons who fund themselves or who reside in Portugal shall enjoy the same rights and be subject to the same duties as Portuguese citizens.
+- Foreigners and stateless persons who find themselves or who reside in Portugal shall enjoy the same rights and be subject to the same duties as Portuguese citizens.
 
 - Political rights, the exercise of public offices that are not predominantly technical in nature,  and  the  rights  that  this  Constitution  and  the  law  reserve  exclusively  to Portuguese citizens shall be excepted from the provisions of the previous paragraph.
 
@@ -442,7 +624,7 @@ Personal rights, freedoms and guarantees
 
 (Application of criminal law)
 
-- No one shall be sentenced under the criminal law unless the action or omission in question is punishable under the terms of a pre-existing law, nor shall any person be the object of a security measure unless the prerequisites therefore are laid down by a preexisting law.
+- No one shall be sentenced under the criminal law unless the action or omission in question is punishable under the terms of a pre-existing law, nor shall any person be the object of a security measure unless the prerequisites therefore are laid down by a pre-existing law.
 
 - The provisions of the previous paragraph shall not preclude the punishment up to the limits laid down by internal Portuguese law of an action or omission which was deemed criminal under the general principles of commonly recognised international law at the moment of its commission.
 
@@ -498,7 +680,7 @@ Personal rights, freedoms and guarantees
 
 - Preliminary  investigations  shall  be  conducted  entirely  under  the  responsibility  of  a judge,  who  may,  subject  to  the  terms  of  the  law,  delegate  the  practise  of  such investigative  acts  as  do  not  directly  concern  fundamental  rights  to  other  persons  or bodies.
 
-- Criminal  proceedings  shall  posses  an  accusatorial  structure,  and  trial  hearings  and such  preliminary  investigative  acts  as  the  law  may  require  shall  be  subject  to  the principle of pleading and counter-pleading.
+- Criminal proceedings shall possess an accusatorial structure, and trial hearings and such preliminary investigative acts as the law may require shall be subject to the principle of pleading and counter-pleading.
 
 - The law shall define the cases in which, subject to the safeguarding of the rights of the defence, the presence of the defendant or the accused at procedural acts, including trial hearings, may be dispensed with.
 
@@ -562,7 +744,7 @@ undefined duration, shall only be permissible in the event that the applicant st
 
 - The  law  shall  define  the  concept  of  personal  data,  together  with  the  terms  and conditions applicable to its automatised treatment and its linkage, transmission and use, and shall guarantee its protection, particularly by means of an independent administrative body.
 
-- Computers  shall  not  be  used  to  treat  data  concerning  philosophical  or  political convictions,  party  or  trade  union  affiliations,  religious  beliefs,  private  life  or  ethnic origins, save with the express consent of the datasubject, with authorisation provided for by  law  and  with  guarantees  of  non-discrimination,  or  for  the  purpose  of  processing statistical data that cannot be individually identified.
+- Computers shall not be used to treat data concerning philosophical or political convictions, party or trade union affiliations, religious beliefs, private life or ethnic origins, save with the express consent of the data subject, with authorisation provided for by law and with guarantees of non-discrimination, or for the purpose of processing statistical data that cannot be individually identified.
 
 - Third-party  access  to  personal  data  shall  be  prohibited,  save  in  exceptional  cases provided for by law.
 
@@ -654,7 +836,7 @@ undefined duration, shall only be permissible in the event that the applicant st
 
 - Exercise of the rights to broadcasting time, of reply and of political response.
 
-- The  law  shall  define  the  composition,  responsibilities,  organisation  and  modus operandi of the body referred to in the previous paragraph, together with the status and role of its members, who shall be appointed by the Assembly of the Republic and coopted by those so appointed.
+- The  law  shall  define  the  composition,  responsibilities,  organisation  and  modus operandi of the body referred to in the previous paragraph, together with the status and role of its members, who shall be appointed by the Assembly of the Republic and co-opted by those so appointed.
 
 [[END OF PAGE 27]]
 
@@ -998,7 +1180,7 @@ Economic rights and duties
 
 - Advertising  shall  be  regulated  by  law  and  all  forms  of  concealed,  indirect  or fraudulent advertising shall be prohibited.
 
-- Consumers' associations and consumer cooperatives shall possess the right, as laid down by law, to receive support from the state and to be heard in relation to consumerprotection issues, and shall possess legitimatio ad causam in defence of their members or of any collective or general interests.
+- Consumers' associations and consumer cooperatives shall possess the right, as laid down by law, to receive support from the state and to be heard in relation to consumer-protection issues, and shall possess legitimatio ad causam in defence of their members or of any collective or general interests.
 
 ##### Article 61
 
@@ -1096,7 +1278,7 @@ and  among  the  people;  and  by  developing  both  the  people's  health  and 
 
 [[START OF PAGE 40]]
 
-- Encouraging  and  supporting  local  community  initiatives  that  work  towards  the resolution  of  their  housing  problems  and  foster  the  formation  of  housing  and  selfbuilding cooperatives.
+- Encouraging  and  supporting  local  community  initiatives  that  work  towards  the resolution  of  their  housing  problems  and  foster  the  formation  of  housing  and  self-building cooperatives.
 
 - The state shall undertake a policy that works towards the establishment of a rental system which is compatible with family incomes and access to individual housing.
 
@@ -1468,7 +1650,7 @@ The law shall lay down the means and forms of intervention in relation to, and f
 
 (Private businesses)
 
-1.  The  state  shall  encourage  business  activity,  particularly  that  of  small  and  mediumsized  enterprises,  and  shall  inspect  fulfilment  of  the  respective  legal  obligations, especially  by  businesses  that  engage  in  activities  that  are  of  general  interest  to  the economy.
+1.  The  state  shall  encourage  business  activity,  particularly  that  of  small  and  medium-sized  enterprises,  and  shall  inspect  fulfilment  of  the  respective  legal  obligations, especially  by  businesses  that  engage  in  activities  that  are  of  general  interest  to  the economy.
 
 2.  The  state  shall  only  intervene  in  the  management  of  private  businesses  on  a transitional basis, in cases that are expressly provided for by law and, as a general rule, subject to prior judicial ruling.
 
@@ -1576,7 +1758,7 @@ Without prejudice  to  the  right  of  ownership  and  as  laid  down  by  law, 
 
 (Forms of use of non-owned land)
 
-1. The law shall regulate the rules governing the rental and other forms of use of nonowned land in such a way as to guarantee the farmer's security and legitimate interests.
+1. The law shall regulate the rules governing the rental and other forms of use of non-owned land in such a way as to guarantee the farmer's security and legitimate interests.
 
 - The  fee-farming  and  colony  systems  shall  be  prohibited  and  the  conditions  that farmers  need  to  put  an  effective  end  to  the  agricultural  partnership  system  shall  be created.
 
@@ -1756,7 +1938,7 @@ Political power shall lie with the people and shall be exercised in accordance w
 
 (Citizens' participation in politics)
 
-The  direct  and  active  participation  in  politics  by  men  and  women  is  a  fundamental instrument  in  the  consolidation  of  the  democratic  system,  and  the  law  shall  promote both  equality  in  the  exercise  of  civic  and  political  rights  and  the  absence  of  genderbased discrimination in access to political office.
+The  direct  and  active  participation  in  politics  by  men  and  women  is  a  fundamental instrument  in  the  consolidation  of  the  democratic  system,  and  the  law  shall  promote both  equality  in  the  exercise  of  civic  and  political  rights  and  the  absence  of  gender-based discrimination in access to political office.
 
 ##### Article 110
 
@@ -2459,7 +2641,7 @@ Members shall enjoy the following rights and privileges:
 
 Members shall possess the following duties:
 
-- To attend plenary sittings and any committees to which they belong
+- To attend plenary sittings and any committees to which they belong;
 
 - To perform such offices in the Assembly and such functions as they are appointed to upon proposals by their respective parliamentary groups;
 
@@ -2699,7 +2881,7 @@ The Assembly of the Republic shall possess exclusive responsibility to legislate
 
 - The acts provided for in Article 161a shall take the form of constitutional laws.
 
-- The acts provided for in Articles 164a to f, h, j, the first part of l, q and t and 255 shall take the form of organisational laws
+- The acts provided for in Articles 164a to f, h, j, the first part of l, q and t and 255 shall take the form of organisational laws.
 
 - The acts provided for in Article 161b to h shall take the form of laws.
 
@@ -2785,7 +2967,7 @@ the Assembly may suspend the force of all or part of the executive law until eit
 
 - In  the  event  that  a  motion  to  consider  has  been  made  and  the  Assembly  has  not pronounced on the result of such consideration, or in the event that the Assembly has decided to make amendments, but has not put the respective law to the vote by the end of  the  then  current  legislative  session,  and  on  condition  that  at  least  fifteen  plenary sessions have passed, the consideration process shall be deemed to have lapsed.
 
-6. Proceedings concerning the consideration of executive laws shall enjoy priority under the terms of the Rules of Procedure
+6. Proceedings concerning the consideration of executive laws shall enjoy priority under the terms of the Rules of Procedure.
 
 ##### Article 170
 
@@ -2971,7 +3153,7 @@ b) Electing its President and the remaining members of the Bureau by absolute ma
 
 (Assembly staff and specialists)
 
-The Assembly and its committees shall be assisted in their work by a permanent body of technical and administrative staff, and by specialists on assignment or under temporary contracts. The number of such staff and specialists shall be the that which the President considers necessary.
+The Assembly and its committees shall be assisted in their work by a permanent body of technical and administrative staff, and by specialists on assignment or under temporary contracts. The number of such staff and specialists shall be that which the President considers necessary.
 
 ### TITLE IV
 
@@ -3045,7 +3227,7 @@ Formation and responsibilities
 
 (Formation)
 
-- The President of the Republic shall appoint the Prime Minister after consulting the parties with seats in Assembly of the Republic and in the light of the electoral results.
+- The President of the Republic shall appoint the Prime Minister after consulting the parties with seats in the Assembly of the Republic and in the light of the electoral results.
 
 - The  President  of  the  Republic  shall  appoint  the  remaining  members  of  the Government upon a proposal from the Prime Minister.
 
@@ -3259,7 +3441,7 @@ In the exercise of its administrative functions the Government shall be responsi
 
 - Informing the President of the Republic about matters concerning the conduct of the country's internal and external policy;
 
-- Performing such other functions as may be required of him by this Constitution and the law
+- Performing such other functions as may be required of him by this Constitution and the law.
 
 - Ministers shall be responsible for:
 
@@ -3573,7 +3755,7 @@ The Constitutional Court shall be the court with specific responsibility for adm
 
 - Issuing rulings of final instance on the proper conduct and validity of electoral acts, as laid down by law;
 
-- For the purpose of Article 124(3), verifying the death and declaring the incapacity to exercise the office of President of the Republic of any candidate therefore;
+- For the purpose of Article 124(3), verifying the death and declaring the incapacity to exercise the office of President of the Republic of any candidate therefor;
 
 - Verifying  the  legality  of  the  formation  of  political  parties  and  coalitions  thereof, assessing the legality of their names, initials and symbols, and ordering their abolition, all as laid down by this Constitution and the law;
 
@@ -3635,7 +3817,7 @@ drawn up by the said Legislative Assemblies and sent to the Assembly of the Repu
 
 (Powers of the autonomous regions)
 
-- 1.The  autonomous  regions  shall  be  territorial  bodies  corporate  and  shall  posses  the following powers, which shall be defined in their statutes:
+- 1.The  autonomous  regions  shall  be  territorial  bodies  corporate  and  shall  possess  the following powers, which shall be defined in their statutes:
 
 - To  legislate  within  the  ambit  of  the  region  on  such  matters  as  are  set  out  in  the political and administrative statute of the region in question and are not the exclusive responsibility of bodies that exercise sovereign power;
 
@@ -3671,7 +3853,7 @@ drawn up by the said Legislative Assemblies and sent to the Assembly of the Repu
 
 - To pass the regional economic and social development plan, the regional budget and the region's accounts and to take part in drawing up National Plans;
 
-- Without  prejudice  to  the  provisions  of  Article  165(1)d,  to  define  administrative offences and the penalties therefore;
+- Without  prejudice  to  the  provisions  of  Article  165(1)d,  to  define  administrative offences and the penalties therefor;
 
 - To participate in the definition and implementation of fiscal, monetary, financial and exchange policy in such a way as to ensure regional control of the means of payment in circulation and the financing of the investments needed for the region's economic and social development;
 
@@ -3709,7 +3891,7 @@ drawn up by the said Legislative Assemblies and sent to the Assembly of the Repu
 
 1.  In  cooperation  with  the  self-government  bodies,  the  bodies  that  exercise  sovereign power shall ensure the autonomous regions' economic and social development, with a particular view to the correction of inequalities derived from the autonomous regions' insular nature.
 
-- Bodies  that  exercise  sovereign  power  shall  always  consult  the  regional  selfgovernment bodies in relation to such issues as fall within their own responsibilities and concern the autonomous regions.
+- Bodies  that  exercise  sovereign  power  shall  always  consult  the  regional  self-government bodies in relation to such issues as fall within their own responsibilities and concern the autonomous regions.
 
 - The  financial  relations  between  the  Republic  and  the  autonomous  regions  shall  be regulated by the law provided for in Article 164t.
 
@@ -3767,9 +3949,9 @@ drawn up by the said Legislative Assemblies and sent to the Assembly of the Repu
 
 (Signature and veto of Representatives of the Republic)
 
-- The  Representative  of  the  Republic  shall  be  responsible  for  signing  regional legislative decrees and regional regulatory decree and having them published.
+- The  Representative  of  the  Republic  shall  be  responsible  for  signing  regional legislative decrees and regional regulatory decrees and having them published.
 
-- Within  fifteen  days  of  reception  of  any  decree  of  the  Legislative  Assembly  of  the autonomous  region  that  is  sent  to  him  for  signature,  or  of  the  publication  of  a Constitutional Court ruling that fails to declare any of its provisions unconstitutional, the Representative of the Republic shall either sign the decree, or exercise the right of veto. In the latter case, by means of a message setting out the grounds therefore, he shall request that the decree be reconsidered.
+- Within  fifteen  days  of  reception  of  any  decree  of  the  Legislative  Assembly  of  the autonomous  region  that  is  sent  to  him  for  signature,  or  of  the  publication  of  a Constitutional Court ruling that fails to declare any of its provisions unconstitutional, the Representative of the Republic shall either sign the decree, or exercise the right of veto. In the latter case, by means of a message setting out the grounds therefor, he shall request that the decree be reconsidered.
 
 - If the Legislative Assembly of the autonomous region confirms its original vote by an absolute majority of all its members in full exercise of their office, the Representative of the Republic shall sign the decree within eight days of receiving it.
 
@@ -3819,7 +4001,7 @@ General principles
 
 - The Azores and Madeira autonomous regions shall comprise parishes and municipalities.
 
-- In  large  urban  areas  and  on  the  islands  the  law  may  create  other  forms  of  local government organisation in accordance with the specific conditions prevailing therein or on.
+- In  large  urban  areas  and  on  the  islands  the  law  may  create  other  forms  of  local government organisation in accordance with the specific conditions prevailing therein or thereon.
 
 - The law shall lay down the manner in which Portuguese territory is to be divided for administrative purposes.
 
@@ -4032,7 +4214,7 @@ The  regional  assembly  and  the  regional  authority  shall  be  an  administr
 
 (Regional assemblies)
 
-The regional assembly shall be its region's decision-making body. It shall be composed of directly elected members, and by a smaller number of members who shall be elected in accordance with the proportional representation system and using d'Hondt's highestaverage  rule,  by  an  electoral  college  formed  by  those  members  of  the  same  area's municipal assemblies who were appointed by direct election.
+The regional assembly shall be its region's decision-making body. It shall be composed of directly elected members, and by a smaller number of members who shall be elected in accordance with the proportional representation system and using d'Hondt's highest-average  rule,  by  an  electoral  college  formed  by  those  members  of  the  same  area's municipal assemblies who were appointed by direct election.
 
 ##### Article 261
 
@@ -4218,7 +4400,7 @@ National defence
 
 - The Armed Forces shall obey the competent bodies that exercise sovereign power, as laid down by this Constitution and the law.
 
-4.  The  Armed  Forces  shall  serve  the  Portuguese  people  and  shall  be  rigorously  nonpartisan. Their personnel shall not take advantage of their weapons, their positions or their functions to intervene in political matters in any way.
+4.  The  Armed  Forces  shall  serve  the  Portuguese  people  and  shall  be  rigorously  non-partisan. Their personnel shall not take advantage of their weapons, their positions or their functions to intervene in political matters in any way.
 
 - As  laid  down  by  law,  the  Armed  Forces  shall  be  charged  with  fulfilling  the Portuguese  state's  commitments  in  the  military  field  and  taking  part  in  humanitarian and  peace  missions  undertaken  by  international  organisations  to  which  Portugal belongs.
 
@@ -4520,7 +4702,7 @@ No act involving the revision of this Constitution shall be undertaken during a 
 
 ##### Article 293
 
-(Reprivatisation of property nationalised after 25 April l974)
+(Reprivatisation of property nationalised after 25 April 1974)
 
 - A framework law passed by an absolute majority of all the Members in full exercise of  their  office  shall  regulate  reprivatisations  of  the  ownership  of,  or  the  right  to  use, means  of  production  and  other  property  nationalised  after  25  April  1974.  Such reprivatisations shall observe the following fundamental principles:
 
