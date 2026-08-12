@@ -20,6 +20,40 @@ Page i
 
 ## SOMMAIRE
 
+LISTE DES ACRONYMES ................................................................................................................................. IV
+LISTE DES TABLEAUX .................................................................................................................................. VIII
+LISTE DES FIGURES ...................................................................................................................................... VIII
+CLARIFICATION DES CONCEPTS .................................................................................................................. IX
+AVANT PROPOS .............................................................................................................................................. XII
+RESUME EXECUTIF........................................................................................................................................ XIV
+INTRODUCTION ................................................................................................................................................. 1
+1 CONTEXTE SOCIO-ECONOMIQUE ET POLITIQUE DU PAYS ............................................................... 3
+1.1 CONTEXTE POLITIQUE ............................................................................................................................ 3
+1.2 CONTEXTE DEMOGRAPHIQUE .................................................................................................................. 4
+1.3 CONTEXTE SOCIOCULTUREL .................................................................................................................. 4
+1.4 CONTEXTE MACRO-ECONOMIQUE ET BUDGETAIRE .................................................................................... 4
+1.5 LES RISQUES DE CATASTROPHES NATURELLES ET DE CONFLITS ................................................................ 6
+2 MISSION DU SECTEUR DE L’EDUCATION ............................................................................................. 7
+2.1 STRUCTURATION ET ORGANISATION DU SYSTEME EDUCATIF BURKINABE ................................................... 7
+2.2 LE CADRE INSTITUTIONNEL DE GESTION DU SYSTEME EDUCATIF BURKINABE .............................................. 8
+2.3 LE PERIMETRE DE L’EDUCATION DE BASE AU BURKINA FASO ..................................................................... 9
+3 SITUATION DU SECTEUR ......................................................................................................................... 9
+3.1 SITUATION NATIONALE DU SECTEUR ........................................................................................................ 9
+3.2 SITUATION DES INTERVENTIONS ANTERIEURES ....................................................................................... 17
+3.3 DEPENSES PUBLIQUES POUR LE SECTEUR : SON EVOLUTION ET SA REPARTITION ..................................... 36
+4 VISION ET PRINCIPES DE DEVELOPPEMENT DU SECTEUR............................................................. 38
+4.1 VISION ................................................................................................................................................. 38
+4.2 PRINCIPES DIRECTEURS DE LA MISE EN ŒUVRE DU PDSEB.................................................................... 39
+5 ORIENTATIONS STRATEGIQUES .......................................................................................................... 39
+5.1 CHOIX STRATEGIQUE 1 : DEVELOPPEMENT DU PRESCOLAIRE EN PASSANT DE 3% EN 2010 A 11,5% EN 2015 ET 25% AU MOINS EN 2021 .............................................................................................................................. 40
+5.2 CHOIX STRATEGIQUE 2 : REALISATION DE LA SCOLARISATION PRIMAIRE UNIVERSELLE EN 2021 DONT 75,1% DE TAP EN 2015 AVEC UNE EQUITE FILLE/GARÇON ................................................................................................. 40
+5.3 CHOIX STRATEGIQUE 3 : SUPPRESSION DU GOULOT D’ETRANGLEMENT ENTRE LE PRIMAIRE ET LE POST PRIMAIRE (GENERAL ET TECHNIQUE FORMEL ET NON FORMEL) AVEC UN TAUX DE TRANSITION DE 93,2% EN 2015 PUIS 95% EN 2021 AVEC UNE EQUITE FILLE/GARÇON ET 100% EN 2025. ................................................................... 41
+5.4 CHOIX STRATEGIQUE 4 : ACCELERATION DE L’ALPHABETISATION AVEC POUR AMBITIONS, D’UNE PART, L’ELIMINATION DE L’ANALPHABETISME A SA SOURCE A TRAVERS LA PRISE EN CHARGE DE TOUS LES ADOLESCENTS DE 09-14 ANS A L’HORIZON 2021 ET D’AUTRE PART, L’ALPHABETISATION/FORMATION DE 15 ANS ET PLUS AVEC UNE ATTENTION PARTICULIERE POUR AU MOINS 60% DES JEUNES DE 15-24 ANS EN 2015 ET 75% EN 2021 DONT 60% DE FEMMES. .......................................................................................................................................................... 42
+6 OBJECTIFS GLOBAUX............................................................................................................................ 43
+6.1 PROGRAMME N°1 : DEVELOPPEMENT DE L’ACCES A L’EDUCATION DE BASE FORMELLE .. 44
+6.2 PROGRAMME N°2 : AMELIORATION DE LA QUALITE DE L’EDUCATION DE BASE FORMELLE 55
+6.3 PROGRAMME N°3 : DEVELOPPEMENT DE L’EDUCATION NON FORMELLE (ENF) .................. 64
+
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page ii
@@ -27,6 +61,34 @@ Page ii
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+6.4 PROGRAMME N°4 : PILOTAGE DU SECTEUR DE L’EDUCATION DE BASE FORMELLE ET DE L’EDUCATION NON FORMELLE .................................................................................................................. 77
+6.5 PROGRAMME N°5 : GESTION EFFICACE ET EFFICIENTE DU PDSEB ........................................ 85
+7 COUTS ET FINANCEMENT DU PDSEB .................................................................................................. 86
+7.1 LE COUT DU PDSEB A PARTIR DU MODELE DE SIMULATION FINANCIERE .................................................. 86
+7.2 LE FINANCEMENT DU PDSEB ............................................................................................................... 87
+8 PRINCIPALES MESURES DE REFORMES ET ACTIONS ..................................................................... 88
+8.1 LA REFORME DU PRESCOLAIRE, DU PRIMAIRE ET DU POST PRIMAIRE EN CONTINUUM ................................ 88
+8.2 LA PROMOTION DE LA FORMATION PROFESSIONNELLE DE COURTE DUREE ............................................... 89
+8.3 LA REFORME DES STRUCTURES DE FORMATION DES ENSEIGNANTS ......................................................... 90
+8.4 LA REFORME DES PROGRAMMES D’ENSEIGNEMENT ASSORTI D’UN REAMENAGEMENT DU VOLUME HORAIRE D’APPRENTISSAGE ............................................................................................................................................ 90
+8.5 LA MUTUALISATION DES INFRASTRUCTURES ........................................................................................... 90
+8.6 LA GESTION DECENTRALISEE DU SYSTEME EDUCATIF ............................................................................. 91
+9 ANALYSE DES RISQUES ........................................................................................................................ 91
+9.1 LE RISQUE FINANCIER ........................................................................................................................... 91
+9.2 LE RISQUE LIE A LA FAIBLE CAPACITE D’ABSORPTION .............................................................................. 92
+9.3 LE RISQUE LIE A UNE FAIBLE ADHESION DES ACTEURS ............................................................................ 92
+9.4 LE RISQUE LIE A LA FAIBLE CAPACITE DES ACTEURS A METTRE EN ŒUVRE LES REFORMES ........................ 93
+9.5 LES RISQUES LIES AUX SITUATIONS D’URGENCE ..................................................................................... 93
+CONCLUSION ................................................................................................................................................... 95
+REFERENCES BIBLIOGRAPHIQUES ............................................................................................................. 96
+TABLE DES MATIERES ................................................................................................................................. 100
+ANNEXE : CADRE LOGIQUE ........................................................................................................................ 104
+PROGRAMME 1 : DEVELOPPEMENT DE L’ACCES EN EDUCATION DE BASE FORMELLE ........................................... 104
+PROGRAMME 2: AMELIORATION DE LA QUALITE DE L’EDUCATION DE BASE FORMELLE ......................................... 110
+PROGRAMME 3 : DEVELOPPEMENT DE L’EDUCATION NON FORMELLE ................................................................ 115
+PROGRAMME 4 : PILOTAGE DU SOUS SECTEUR DE L’EDUCATION DE BASE FORMELLE ET DE L’EDUCATION NON FORMELLE ..................................................................................................................................................... 121
+PROGRAMME 5 : GESTION EFFICACE ET EFFICIENTE DU PDSEB ...................................................................... 125
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -80,7 +142,8 @@ CM1 | : | Cours Moyen 1 ère Année
 CM2 | : | Cours Moyen 2 ème Année
 CNE | : | Conseil National de l'Education
 COGES | : | Comité de Gestion des Etablissements Scolaires
-CONASUR CP1 | : : | Comité National de Secours d'Urgence Cours Préparatoire 1ère Année
+CONASUR | : | Comité National de Secours d'Urgence
+CP1 | : | Cours Préparatoire 1ère Année
 CP2 | : | Cours Préparatoire 2 ème Année
 
 Adopté en Conseil des Ministres le 1 er août 2012
@@ -321,8 +384,8 @@ MATDS | : | Ministère de l'Administration Territoriale, de la Décentralisation
 MEF | : | Ministère de l'Economie et des Finances
 MEJE | : | Moniteur d'Education des Jeunes Enfants
 MENA | : | Ministère de l'Education Nationale et de l'Alphabétisation
-MESS | : | Ministère des Enseignements Secondaire et Supérieur Ministère de la Jeunesse, de la Formation Professionnelle et de l'Emploi
-MJFPE | :
+MESS | : | Ministère des Enseignements Secondaire et Supérieur
+MJFPE | : | Ministère de la Jeunesse, de la Formation Professionnelle et de l'Emploi
 MOD | : | Maîtrise d'Ouvrage Délégué
 MPF | : | Ministère de la Promotion de la Femme
 MRSI | : | Ministère de la Recherche Scientifique et de l'Innovation
@@ -330,6 +393,7 @@ OCDE | : | Organisation pour la Coopération et le Développement Economique
 OCECOS | : | Office Central des Examens et Concours du Secondaire
 OMD | : | Objectifs du Millénaire pour le Développement
 ONG | : | Organisation Non Gouvernementale
+OSC | : | Organisation de la Société Civile
 PAO | : | Publication Assistée par Ordinateur
 PAP | : | Programme d'Action Prioritaire
 PDDEB | : | Plan Décennal de Développement de l'Education de Base
@@ -394,6 +458,32 @@ Page vii
 
 ## Liste des tableaux
 
+Tableau 1: Principaux résultats du scenario tendanciel FMI ou scénario de base(en milliards de FCFA) ............................................................................................................................................... 5
+Tableau 2 : Principaux indicateurs macro-économiques ................................................................... 5
+Tableau 3: Evolution des indicateurs 2001 – 2010 dans le préscolaire .......................................... 10
+Tableau 4: Evolution des indicateurs de l’enseignement primaire de 2001 à 2011 .......................... 13
+Tableau 5: Evolution effectif alphabétisation 2003 à 2010 .............................................................. 16
+Tableau 6: Nature et état des murs des écoles ............................................................................... 17
+Tableau 7: Répartition des écoles par statuts ................................................................................. 18
+Tableau 8: Etat des équipements scolaires ..................................................................................... 18
+Tableau 9: Indicateurs de la mise en œuvre du PDDEB en termes d’accès au primaire ................ 19
+Tableau 10: Evolution du TBA et du TBS au post primaire entre 2005 et 2010 ............................... 21
+Tableau 11: Les indicateurs d’efficacité interne au primaire ............................................................ 22
+Tableau 12:Evolution du taux d’achèvement de 2001/2002 à 2009/2010 ....................................... 23
+Tableau 13:Taux de réussite au CEP en 2001-2002 et 2009-2010 ................................................. 25
+Tableau 14: Evolution du budget alloué à l’éducation (2005 à 2010) en millions de F CFA ............. 37
+Tableau 15: Part de chaque programme dans le budget du PDSEB ............................................... 86
+Tableau 16 : Evolution du nombre de bénéficiaires directs du PDSEB ........................................... 87
+
+## Liste des figures
+
+Figure 1: Evolution du TBS au primaire entre 2000 et 2010 dans les 20 provinces prioritaires ...... 20
+Figure 2: Evolution du TBS selon le genre entre 2000/2001 et 2010/2011 ...................................... 20
+Figure 3 : Les évolutions des taux de rendement interne par sous-cycle ........................................ 23
+Figure 4 : Evolution du TAP du primaire de 2000 à 2010 ................................................................ 24
+Figure 5 : Evolution des taux de réussite au CEP et à l'entrée en sixième de 2008 à 2010 ............. 25
+Figure 6 : Taux de survie ................................................................................................................ 26
+
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page viii
@@ -418,7 +508,7 @@ Education  formelle ,  l'ensemble  des  activités  éducatives  se  déroulant 
 
 Education  informelle ,  toute  forme  d'éducation  non  structurée  et  concourant  à  la  formation  de l'individu et à son insertion sociale.
 
-Education non formelle , toutes les activités d'éducation et de formation structurées et organisées dans un cadre non scolaire. Elle comprend, en plus de l'alphabétisation et le développement de l'environnement lettré des apprenants, les différents types et modes d'acquisition de connaissances et de compétences ne relevant pas du système scolaire classique, mais organisés de manière plus flexible  aux  fins  de  s'adapter  à  l'environnement  social  et  économique  dans  un  processus d'éducation spécifique.
+Education non formelle, toutes les activités d'éducation et de formation structurées et organisées dans un cadre non scolaire. Elle comprend, en plus de l'alphabétisation et le développement de l'environnement lettré des apprenants, les différents types et modes d'acquisition de connaissances
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -427,6 +517,8 @@ Page ix
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+et de compétences ne relevant pas du système scolaire classique, mais organisés de manière plus flexible aux fins de s'adapter à l'environnement social et économique dans un processus d'éducation spécifique.
 
 Education ou encadrement de la petite enfance , l'ensemble des activités éducatives destinées à des  enfants  de  zéro  à  six  ans  en  vue  de  favoriser  leur  développement  global  et  harmonieux, stimuler  leurs  potentialités  affectives,  intellectuelles,  motrices,  artistiques  et  de  contribuer  à  leur épanouissement  et  leur  apprentissage  de  la  vie  sociale.  Elle  comprend  l'éducation  de  la  prime enfance (zéro à 3 ans) et l'éducation préscolaire (3 à 6 ans). L'encadrement et l'éveil des enfants de  0  à  3  ans  sont  principalement  assurés  dans  les  crèches 1 ,  les  pouponnières 2 ,  les  haltes garderies, les familles et les orphelinats 3 . Les crèches sont des structures essentiellement privées à but lucratif tandis que les orphelinats sont gérés par les œuvres de charité. Les enfants de 3 à 6 ans  sont  encadrés  dans  les  centres  d'éveil  et  d'éducation  préscolaire  (CEEP),  les  espaces d'entraide  communautaire  pour  l'enfance  (EECE)/Bisongo,  les  haltes  garderies  et  les    espaces d'éveil éducatif (3 E).
 
@@ -534,6 +626,12 @@ Par ailleurs la gestion décentralisée du système éducatif occupe une place d
 
 Le PDSEB devient ainsi le cadre de référence pour toutes les interventions à quel que niveau que ce soit dans le sous secteur de l'éducation de base formelle et non formelle. J'invite donc tous les acteurs (publics, privés, société civile, partenaires sociaux, Partenaires Techniques et Financiers, collectivités  territoriales,  …)  à  s'approprier  le  PDSEB  et  à  s'investir  conséquemment    pour  la réussite de cette œuvre commune pour le développement humain durable du Burkina Faso.
 
+Le Ministre de l’Education Nationale et de l’Alphabétisation
+
+Koumba BOLY/BARRY
+
+Chevalier de l’Ordre du Mérite
+
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page xiii
@@ -604,15 +702,14 @@ Choix stratégique 4 : Accélération de l'alphabétisation avec pour ambitions,
 
 L'atteinte de ces orientations en termes d'accès se matérialise par les données regroupées dans le tableau ci-dessous :
 
-Sous secteur de l'éducation de base | Nombre de bénéficiaires à la fin du | Nombre de bénéficiaires en 2015 | Nombre de bénéficiaires à la fin du PDSEB en 2021 | Proportion des effectifs
+Sous secteur de l'éducation de base | Nombre de bénéficiaires à la fin du PDDEB en 2011 | Nombre de bénéficiaires en 2015 | Nombre de bénéficiaires à la fin du PDSEB en 2021 | Proportion des effectifs 2015 sur 2011 | Proportion des effectifs 2021 sur 2011
 --- | --- | --- | --- | --- | ---
-PDDEB en 2011 | 2015 sur 2011 | 2021 sur 2011
 Education préscolaire | 69 363 | 161 847 | 317 647 | 2,33 | 4,58
 Enseignement primaire | 2 344 031 | 3 196 682 | 4 179 681 | 1,36 | 1,78
-Enseignement post- primaire général | 536 927 | 905 247 | 1 608 434 | 1,69 | 3,00
+Enseignement post-primaire général | 536 927 | 905 247 | 1 608 434 | 1,69 | 3,00
 EFTP post primaire | 52 179 | 287 822 | 192 046 | 5,52 | 3,68
 Education non formelle de la petite enfance | 20 832 | 52 499 | 100 000 | 2,52 | 4,80
-Education non formelle des adolescents 9 - 15 ans | 19 693 | 30 752 | 0 | 1,56 | -
+Education non formelle des adolescents 9 – 15 ans | 19 693 | 30 752 | 0 | 1,56 | -
 Alphabétisation et formation des jeunes et adultes
 Alphabétisation initiale | 386 234 | 541 858 | 26 006 | 1,40 | 0,07
 FCB | 97 976 | 471 057 | 253 979 | 4,81 | 2,59
@@ -626,7 +723,7 @@ La mise en œuvre du PDSEB se fera autour de 5 programmes dont les 4 premiers r�
 
 Il  concerne  les  différents  sous  secteurs  de  l'éducation  de  base formelle  que  sont  l'enseignement préscolaire, l'enseignement primaire, l'enseignement post primaire général et technique. Dans ce programme, il s'agira de développer des infrastructures et de recruter le personnel nécessaire à tous les niveaux pour accueillir le public cible concerné en constante augmentation.
 
-Le  préscolaire  fera  l'objet  d'une  attention  particulière  dans  le  cadre  d'une  réforme  globale  qui consistera à développer des complexes éducatifs autour des écoles primaires. Le nombre de CEEP construits et équipés passera de 105 en 2011 à  914 en 2015, environ neuf fois plus le nombre de départ, pour atteindre 3 804 CEEP en 2021. Ainsi, au niveau du public formel, 411 CEEP seront construits par an pour faire passer le nombre d'enfants accueillis dans ces structures de 70 000 enfants dont 50% de filles en 2011 à 216 571 enfants dont 50% de filles en 2015 et 512 146 enfants dont 50% de filles à l'horizon 2021, soit un taux de préscolarisation de 24,18% dans le public. Le nombre  cumulé  de  moniteurs  d'éducation  de  jeunes  enfants  (MEJE)  et  d'éducateurs  de  jeunes enfants  (EJE)  passera  de  349  (dont  222  MEJE  et  127  EJE)  en  2011  à  657  enseignants  du préscolaire  en  2015  puis  à  1813  enseignants  du  préscolaire  en  2021.  Ces  enseignants  seront appuyés  par  des  animateurs-trices  communautaires  dont  la  prise  en  charge  pérenne  se  fera  en accord avec les collectivités territoriales. La mise en œuvre de cette stratégie de préscolarisation permettra d'atteindre un taux du même ordre que ceux des pays de la sous région.
+Le  préscolaire  fera  l'objet  d'une  attention  particulière  dans  le  cadre  d'une  réforme  globale  qui consistera à développer des complexes éducatifs autour des écoles primaires. Le nombre de CEEP construits et équipés passera de 105 en 2011 à  914 en 2015, environ neuf fois plus le nombre de
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -635,6 +732,8 @@ Page xvi
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
+
+départ, pour atteindre 3 804 CEEP en 2021. Ainsi, au niveau du public formel, 411 CEEP seront construits par an pour faire passer le nombre d'enfants accueillis dans ces structures de 70 000 enfants dont 50% de filles en 2011 à 216 571 enfants dont 50% de filles en 2015 et 512 146 enfants dont 50% de filles à l'horizon 2021, soit un taux de préscolarisation de 24,18% dans le public. Le nombre cumulé de moniteurs d'éducation de jeunes enfants (MEJE) et d'éducateurs de jeunes enfants (EJE) passera de 349 (dont 222 MEJE et 127 EJE) en 2011 à 657 enseignants du préscolaire en 2015 puis à 1813 enseignants du préscolaire en 2021. Ces enseignants seront appuyés par des animateurs-trices communautaires dont la prise en charge pérenne se fera en accord avec les collectivités territoriales. La mise en œuvre de cette stratégie de préscolarisation permettra d'atteindre un taux du même ordre que ceux des pays de la sous région.
 
 Au cours de la décennie 2012-2021, le nombre d'élèves dans le primaire passera de 2 344 031 enfants  en  2011  à  3  196  682  enfants  en  2015  et  4  179 681  enfants  en  2021 avec  un  ratio élèves/maître de  56 élèves au cours de la période. Pour leur accueil, il faudra réaliser au moins 37 072 nouvelles salles de classe à raison de 3 707 salles par an en moyenne , ce qui correspond à de nouveaux défis à relever en termes de délais de réalisation des infrastructures, mais aussi de mobilisation  de  ressources  suffisantes  pour  faire  face  aux  besoins  dans  un  contexte  de  crises multiformes. Toutefois, l'hypothèse de travail utilisée n'ayant retenu que 10% des effectifs dans le privé  à  l'horizon  2021,  contre  15,6%  actuellement,  laisse  à  penser  que  le  maintien  de  cette tendance  de  développement  du  privé  au-delà  de  10%  devrait  contribuer  à  réduire  la  taille  des effectifs  dans  les  classes  et  ainsi  améliorer  davantage  le  ratio  élève/maître  dans  le  public.  Dans l'enseignement public, du fait de l'accroissement important de l'effectif des élèves et de la nécessité de  l'amélioration  du  taux  d'encadrement,  le  nombre  total  d'enseignants  (y  compris  les  SND) passera de 35 308 en 2011 à 51 375 en 2015 à 67 173 en 2021 ,  soit  un  taux  d'accroissement moyen annuel de recrutement d'environ 6% entre 2011 et 2021. A terme, la durée du cycle primaire sera ramenée à cinq ans afin de capitaliser les effets bénéfiques du continuum éducatif né de la généralisation du préscolaire et du bilinguisme.
 
@@ -734,7 +833,7 @@ Le  sous  programme  gouvernance  s'adresse  aux  textes  d'application  de  la 
 
 Quant  à  la  mobilisation  des  ressources,  elle  est  abordée  suivant  l'axe  du  choix  d'une  stratégie pertinente à développer pour augmenter les ressources de l'Etat. Ainsi, il est proposé qu'au moins 20% sur ressources propres de l'Etat soient  affectées à l'éducation de base et que des mesures soient prises pour une meilleure absorption des crédits alloués afin d'assurer la mobilisation des ressources.
 
-Enfin le renforcement des capacités de pilotage constitue l'épine dorsale de ce programme Pilotage pour assurer l'exécution et une bonne gestion du programme. Parmi les capacités à développer, il y a  entre  autres :    la  clarification  des  missions,  le  développement  d'un  dispositif  efficace  de  suiviévaluation  et  des  outils  adaptés  de  planification  et  de  gestion,  le  développement  d'un  système d'archivage,  la  mise  en  place  des  plans  de  carrière,  le  développement  d'un  plan  intégré  de formation, d'un système de rendus de compte efficace, d'une stratégie de gestion de la suppléance, d'un dispositif de suivi et d'exploitation des études et de leurs résultats, la formation à la gestion du changement,  le  développement  d'une  stratégie  de  motivation  du  personnel  et  d'un  plan  de communication efficace et pertinent.
+Enfin le renforcement des capacités de pilotage constitue l'épine dorsale de ce programme Pilotage pour assurer l'exécution et une bonne gestion du programme. Parmi les capacités à développer, il y a  entre  autres :    la  clarification  des  missions,  le  développement  d'un  dispositif  efficace  de  suivi-évaluation  et  des  outils  adaptés  de  planification  et  de  gestion,  le  développement  d'un  système d'archivage,  la  mise  en  place  des  plans  de  carrière,  le  développement  d'un  plan  intégré  de formation, d'un système de rendus de compte efficace, d'une stratégie de gestion de la suppléance, d'un dispositif de suivi et d'exploitation des études et de leurs résultats, la formation à la gestion du changement,  le  développement  d'une  stratégie  de  motivation  du  personnel  et  d'un  plan  de communication efficace et pertinent.
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -770,7 +869,7 @@ Page xxi
 
 ## Introduction
 
-L'état  du  système  éducatif  fait  l'objet  d'analyses  régulières  depuis  les  réformes  successives amorcées au début des années 60. Le diagnostic posé depuis les Etats Généraux de l'Education (1996) sur la faillite du système éducatif demeure d'actualité dans ses triples dimensions « accèsqualité-gestion/pilotage», ce qui a du reste justifié la mise en place de la réforme de 2007 qui vise une plus grande cohérence et une meilleure intégration des différents niveaux d'enseignement.
+L'état  du  système  éducatif  fait  l'objet  d'analyses  régulières  depuis  les  réformes  successives amorcées au début des années 60. Le diagnostic posé depuis les Etats Généraux de l'Education (1996) sur la faillite du système éducatif demeure d'actualité dans ses triples dimensions « accès-qualité-gestion/pilotage», ce qui a du reste justifié la mise en place de la réforme de 2007 qui vise une plus grande cohérence et une meilleure intégration des différents niveaux d'enseignement.
 
 L'éducation étant le socle à partir duquel adviendront les changements attendus, le Burkina Faso investi  d'importantes  ressources  dans  le  capital  humain  depuis  maintenant  plus  de  dix  ans.  La nécessité de garantir un minimum éducatif de 10 ans à tous ses fils et toutes ses filles d'ici à 2021 réside  dans  l'idée  selon  laquelle  les  plus  fortes  valeurs  ajoutées  et  la  réduction  de  la  pauvreté dépendent d'une masse critique des ressources humaines qualifiées.
 
@@ -784,7 +883,7 @@ Le  PDDEB  2001-2010  qui  ne  visait  que  70%  de  taux  de  scolarisation  et
 
 L'évaluation du PDDEB a par ailleurs montré toutes les limites d'une planification non holistique, centrée seulement sur  l'enseignement  primaire alors que  le  législateur  burkinabè  fixe  l'obligation scolaire jusqu'à 16 ans. Dans un contexte marqué par un croit démographique exceptionnel (3,1%) avec près de la moitié de la population ayant mois de 15 ans, l'éducation ne peut être que la priorité des priorités. Or, le préscolaire qui est normalement, la base d'une éducation primaire de qualité, n'affiche qu'un taux de préscolarisation de 3% en 2010. L'enseignement post-primaire n'accueille que  le  tiers  des  élèves  achevant  le  primaire,  ce  qui  pose  avec  acuité  le  problème  de  transition primaire-post primaire et bientôt du post primaire au secondaire, si une politique globale n'est pas mise  en  place  pour  approcher  la  question  éducative  dans  son  entièreté,  comme  du  reste  l'a recommandé, à juste titre, le conseil national de l'éducation.
 
-Face à cette situation et fidèle à ses engagements, le Burkina Faso a décidé depuis avril 2010, soit quelques  mois  avant  la  fin  de  son  plan  décennal,  d'élaborer  un  nouveau  programme  intitulé Programme de développement  stratégique  de  l'éducation  de  base  (PDSEB)  avec  pour  ambition d'atteindre les objectifs de l'éducation pour tous et ceux du millénaire pour le développement en matière d'éducation de base à l'horizon 2021. Par-delà les actions et activités, c'est avant tout la dimension stratégique qui est l'enjeu de ce nouveau programme d'éducation. Il aborde les différents sous systèmes suivant leurs paliers et thématiques respectifs, dans une perspective analytique et intégrée  des  grands  défis  qui  se  posent  au  système  éducatif  et  des  réformes  subséquentes  à opérer urgemment pour lever les contraintes et permettre d'atteindre ses objectifs.
+Face à cette situation et fidèle à ses engagements, le Burkina Faso a décidé depuis avril 2010, soit quelques  mois  avant  la  fin  de  son  plan  décennal,  d'élaborer  un  nouveau  programme  intitulé Programme de développement  stratégique  de  l'éducation  de  base  (PDSEB)  avec  pour  ambition d'atteindre les objectifs de l'éducation pour tous et ceux du millénaire pour le développement en matière d'éducation de base à l'horizon 2021. Par-delà les actions et activités, c'est avant tout la
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -793,6 +892,8 @@ Page 1
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
+
+dimension stratégique qui est l'enjeu de ce nouveau programme d'éducation. Il aborde les différents sous systèmes suivant leurs paliers et thématiques respectifs, dans une perspective analytique et intégrée des grands défis qui se posent au système éducatif et des réformes subséquentes à opérer urgemment pour lever les contraintes et permettre d'atteindre ses objectifs.
 
 Le PDSEB devient ainsi le cadre fédérateur et holistique de la politique éducative au cours des dix prochaines années en vue d'une planification annuelle conjointe et concertée entre le Gouvernement,  les  partenaires  techniques  et  financiers,  la  société  civile avec  une  cohérence financière et de budgétisation. Il constitue  le cadre d'orientation des actions de recherche et de travaux analytiques qui viendront éclairer le secteur.
 
@@ -822,7 +923,7 @@ Le Burkina Faso s'est résolument engagé dans un processus démocratique depuis
 
 Après la décennie 2000-2010 marquée par la lutte contre la pauvreté à travers le Cadre Stratégique de lutte contre la pauvreté (CSLP), le Burkina Faso a adopté la Stratégie de Croissance Accélérée et de Développement Durable (SCADD) dont l'axe 2 porte sur la consolidation du capital humain et la promotion de la protection sociale. L'opérationnalisation de cet objectif stratégique passe par la mise  en  place  d'un  système  éducatif  performant  à  travers  l'adoption  et  la  mise  en  œuvre d'instruments juridiques et/ou politiques, aussi bien nationaux qu'internationaux.
 
-Au niveau des engagements internationaux, il s'agit principalement de l'adhésion du Burkina Faso aux objectifs de l'Education Pour Tous (EPT), aux Objectifs du Millénaire pour le Développement (OMD), et à l'Initiative  de  Mise  en  Œuvre  Accélérée  en faveur  de  l'Education  Pour Tous  (IMOAEPT).
+Au niveau des engagements internationaux, il s'agit principalement de l'adhésion du Burkina Faso aux objectifs de l'Education Pour Tous (EPT), aux Objectifs du Millénaire pour le Développement (OMD), et à l'Initiative  de  Mise  en  Œuvre  Accélérée  en faveur  de  l'Education  Pour Tous  (IMOA-EPT).
 
 Sur  le  plan  national,  les  principaux  engagements  du  Gouvernement  qui  ont  une  incidence  sur l'éducation  sont  exprimés  dans  des  documents  de  référence  notamment,  la  Constitution 5 ,  la  loi d'orientation de l'éducation, la Lettre de politique éducative, la politique nationale de l'emploi (PNE), la politique nationale d'enseignement et de formation, techniques et professionnels (PN-EFTP), la politique sous-sectorielle des enseignements secondaire, supérieur et de la recherche scientifique (ESSRS), la SCADD, le Programme quinquennal de Son Excellence Monsieur le Président du Faso « Bâtir, ensemble,  un Burkina  émergent»,  le  Programme  d'Action  du  Gouvernement  pour l'Emergence et le Développement durable (PAGEDD).
 
@@ -880,6 +981,8 @@ Le cadre macro-économique global retenu dans le modèle de simulation s'appuie 
 
 Le taux de croissance annuelle du PIB réel passe de 4,2% en 2010 pour atteindre 7% en 2012 et y demeurer constant jusqu'en 2015. Les recettes totales hors dons rapportées au PIB courant au prix du  marché  permettent  de  calculer  le  taux  de  pression  fiscale,  passant  de  12,9%  en  2010  pour atteindre 15,1% en 2015.
 
+Tableau 1: Principaux résultats du scenario tendanciel FMI ou scénario de base(en milliards de FCFA)
+
 Rubriques | 2010 | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | --- | ---
 PIB nominal | 4 371,0 | 4 807,0 | 5 326,0 | 5 813,0 | 6 345,0 | 6 925,0
@@ -895,21 +998,19 @@ Dépenses courantes | 530,9 | 628,3 | 751,3 | 743,7 | 822,6 | 904,7
 Dépenses en capital | 484,7 | 488,6 | 662,4 | 761 | 836 | 919,3
 Taux de pression fiscale | 12,9 | 14,5 | 14 | 14,2 | 14,7 | 15,1
 
-Tableau 1: Principaux résultats du scenario tendanciel FMI ou scénario de base(en milliards de FCFA)
-
 Source : IAP Mars 2012. MEF
 
 La  part  des  dépenses  courantes  d'éducation  financées  sur  recettes  propres  de  l'État  représente 19,9%  en  2010,  soit  3,3%  du  PIB  réel.  Elle  devrait  atteindre  au  moins  20%  à  partir  de  2012 conformément  au  Cadre  indicatif  du  partenariat  mondial  pour  l'éducation  (FTI).    Par  ailleurs, la recommandation  5.9  du  Cadre  d'Action  pour  l'Afrique  subsaharienne  issue  du  Forum mondial sur l'éducation 8 , suggère aux gouvernements qui connaissent un retard de développement de leur système éducatif de « faire en sorte de consacrer  à l'éducation au moins 7% du PIB à moyen terme (5 ans) et 9% à long terme (10 ans) ».
 
 Si  le  Burkina  avait  suivi  cette  recommandation,  le  pays  aurait  dû  par  an  consacrer  l'équivalent d'environ 40% des recettes propres de l'Etat à partir de l'an 2000 pour espérer rattraper son retard en  matière  d'éducation  par  rapport  aux  indicateurs  fixés  par  la  communauté  internationale  pour l'année  cible  2015.  Au  regard  des  hypothèses  utilisées  dans  le  cadre    macro-économique,  les ressources anticipées sont consignées dans le tableau ci-dessous.
 
+Tableau 2 : Principaux indicateurs macro-économiques
+
 Désignation | 2010 | 2015 | 2020
 --- | --- | --- | ---
 PIB courant au prix du marché (Millions de FCFA) | 4 369 294 | 6 925 000 | 12 512 547
 Taux de croissance réel du PIB (%) | 7,9% | 7,0% | 10,5%
 Recettes fiscales hors dons (Millions de FCFA) | 565 928 | 1 044 600 | 2 127 133
-
-Tableau 2 : Principaux indicateurs macro-économiques
 
 > 7 Source : Instrument Automatisé de Prévisions (IAP), mars 2012
 
@@ -926,7 +1027,7 @@ Page 5
 Désignation | 2010 | 2015 | 2020
 --- | --- | --- | ---
 Recettes non fiscales (Millions de FCFA) | 114 614 | 161 600 | nd
-Recettes en capital | 0,232 | nd
+Recettes en capital | 0,232 |  | nd
 Dons (y compris appui budgétaire) (Millions de FCFA) | 198 944 | 398 200 | nd
 Ressources totales (y compris appuis budgétaires) | 879 486 | 1 604 400 | 2 127 133
 Pression fiscale | 13,0% | 15,1% | 17,0%
@@ -1016,9 +1117,9 @@ Le  secteur  éducatif  burkinabé  a  connu  de  l'indépendance  du  pays  à 
 
 En 2011, la gestion du secteur de l'éducation et de la formation était confiée à quatre départements ministériels :
 
-- le Ministère de l'Education Nationale et de l'Alphabétisation (MENA) qui assure la tutelle de l'enseignement de base et de l'éducation non formelle ;
+i) le Ministère de l'Education Nationale et de l'Alphabétisation (MENA) qui assure la tutelle de l'enseignement de base et de l'éducation non formelle ;
 
-- ii) le  Ministère  des  Enseignements  Secondaire  et Supérieur  (MESS) qui assure la tutelle  de l'enseignement secondaire général et technique et l'enseignement supérieur ;
+ii) le Ministère des Enseignements Secondaire et Supérieur (MESS) qui assure la tutelle de l'enseignement secondaire général et technique et l'enseignement supérieur ;
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -1028,9 +1129,9 @@ Page 8
 
 [[START OF PAGE 30]]
 
-- iii) le  Ministère  de  l'Action  Sociale  et  de  la  Solidarité  Nationale  (MASSN)  qui  a  en  charge l'éducation de la prime enfance, l'éducation préscolaire et l'éducation non formelle de la petite enfance ;
+iii) le Ministère de l'Action Sociale et de la Solidarité Nationale (MASSN) qui a en charge l'éducation de la prime enfance, l'éducation préscolaire et l'éducation non formelle de la petite enfance ;
 
-- iv) le  Ministère  de  la  Jeunesse,  de  la  Formation  Professionnelle  et  de  l'Emploi  (MJFPE)  qui s'occupe  de  la  formation  professionnelle  et  de  l'apprentissage  ainsi  que  de  l'éducation  de  la jeunesse.
+iv) le Ministère de la Jeunesse, de la Formation Professionnelle et de l'Emploi (MJFPE) qui s'occupe de la formation professionnelle et de l'apprentissage ainsi que de l'éducation de la jeunesse.
 
 Ces quatre ministères couvrent tous les niveaux de l'éducation, du préscolaire au supérieur ainsi que les formes d'éducation et de formations formelle, non formelle et informelle.
 
@@ -1074,12 +1175,14 @@ Pourtant, il est reconnu que l'éducation préscolaire joue un rôle essentiel d
 
 D'où la nécessité pour le PDSEB de poursuivre les efforts déjà entrepris par le Ministère de l'Action Sociale et de la Solidarité Nationale (MASSN) pour atteindre les objectifs définis d'ici à 2021 avec la promotion de l'éducation  non formelle de la petite enfance.
 
-Années | Nombre de structures | Effectifs | Taux brut de préscolarisation (%) | Parité
+Tableau 3: Evolution des indicateurs 2001 - 2010 dans le préscolaire
+
+Années | Nombre de structures |  |  |  | Effectifs |  |  | Taux brut de préscolarisation (%) |  |  | Parité
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Formelles | Non formelles | Total | F | G | Total | F | G | Total
-Publ. | Priv.
-2001-2002 | 156 | 17 | 173 | 6 208 | 6 541 | 12 749 | - | - | 1,4 | 0,95
-2002-2003 | 72 | 99 | 31 | 202 | 6 436 | 6 578 | - | - | 0,7 | 0,98
+ | Formelles |  | Non formelles | Total | F | G | Total | F | G | Total |
+ | Publ. | Priv. |  |  |  |  |  |  |  |  |
+2001-2002 | 156 |  | 17 | 173 | 6 208 | 6 541 | 12 749 | - | - | 1,4 | 0,95
+2002-2003 | 72 | 99 | 31 | 202 | 6 436 | 6 578 |  | - | - | 0,7 | 0,98
 2003-2004 | 63 | 150 | 52 | 265 | 10 395 | 10 410 | 20 805 | - | - | 1,2 | 1
 2004-2005 | 82 | 154 | 77 | 313 | 11 954 | 12 421 | 24 375 | - | - | 1,3 | 0,96
 2005-2006 | 88 | 160 | 97 | 345 | 13 120 | 14 072 | 27 192 | 1,4 | 1,5 | 1,5 | 0,93
@@ -1089,13 +1192,11 @@ Publ. | Priv.
 2009-2010 | 86 | 317 | 170 | 573 | 21 291 | 21 874 | 43 165 | 2,8 | 2,7 | 2,7 | 0,97
 2010-2011 | - | - | - | - | 24 096 | 24 782 | 48 878 | 2,8 | 3,1 | 3 | 0,97
 
-Tableau 3: Evolution des indicateurs 2001 - 2010  dans le préscolaire
-
 Source : DPEPE/MASSN
 
-La préscolarisation a fait des avancées significatives au cours des dix dernières années, même si cette évolution se présente en dents de scie. En effet, entre 2001-2002 et 2004-2005, le taux de pré scolarisation est passé de 1,44% à 1,34% puis à 2,7% en 2009-2010. Grâce aux efforts fournis, le niveau de participation a doublé les  6 dernières années, passant de 1,45% à 3% des enfants de 35  ans  entre  2005  et  2010.  Ces  progrès  sont  surtout  à  mettre  à  l'actif  des  ONG  nationales  et internationales qui mettent en œuvre des programmes innovants au niveau communautaire.
+La préscolarisation a fait des avancées significatives au cours des dix dernières années, même si cette évolution se présente en dents de scie. En effet, entre 2001-2002 et 2004-2005, le taux de pré scolarisation est passé de 1,44% à 1,34% puis à 2,7% en 2009-2010. Grâce aux efforts fournis, le niveau de participation a doublé les 6 dernières années, passant de 1,45% à 3% des enfants de 3-5 ans entre 2005 et 2010. Ces progrès sont surtout à mettre à l'actif des ONG nationales et internationales qui mettent en œuvre des programmes innovants au niveau communautaire.
 
-Malgré ces avancées constatées, les performances restent faibles en termes d'accès et de qualité. En effet, les structures publiques et communautaires préscolaires souffrent du manque de matériels didactiques  adéquats.  Les  structures  privées 14 et  communautaires  souffrent    d'insuffisance  de personnels qualifiés. En effet, les capacités d'accueil de la filière éducation de jeunes enfants de l'institut national de formation en travail social ne lui permettent pas de former plus de quatre-vingts (80) moniteurs d'éducation de jeunes enfants (MEJE) et éducateurs de jeunes enfants (EJE) par an, ce qui est très insuffisant pour couvrir les besoins annuels des structures existantes (Publiques et privées).
+Malgré ces avancées constatées, les performances restent faibles en termes d'accès et de qualité. En effet, les structures publiques et communautaires préscolaires souffrent du manque de matériels
 
 > 12 Les bisongo ont été initiés et mis en place par le Ministère de l'action sociale et de la Solidarité nationale avec l'appui de l'UNICEF.
 
@@ -1108,6 +1209,8 @@ Page 10
 [[END OF PAGE 31]]
 
 [[START OF PAGE 32]]
+
+didactiques adéquats. Les structures privées 14 et communautaires souffrent d'insuffisance de personnels qualifiés. En effet, les capacités d'accueil de la filière éducation de jeunes enfants de l'institut national de formation en travail social ne lui permettent pas de former plus de quatre-vingts (80) moniteurs d'éducation de jeunes enfants (MEJE) et éducateurs de jeunes enfants (EJE) par an, ce qui est très insuffisant pour couvrir les besoins annuels des structures existantes (Publiques et privées).
 
 Les structures publiques et privées formelles fonctionnent sous la forme de complexe de 3 classes appelées centre d'éveil et d'éducation préscolaire ou CEEP.
 
@@ -1161,9 +1264,11 @@ Page 12
 
 [[START OF PAGE 34]]
 
-Désignation | Nombre d'écoles | Nombre classes | Nombre | Effectifs des élèves
+Tableau 4: Evolution des indicateurs de l'enseignement primaire de 2001 à 2011
+
+Désignation | Nombre d'écoles |  |  | Nombre classes (pub + priv) | Nombre d'enseignants | Effectifs des élèves |  |
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Publiques | Privées | Pub+priv | (pub + priv) | d'enseignants | Garçons | Filles | Total
+ | Publiques | Privées | Pub+priv |  |  | Garçons | Filles | Total
 2001/02 | 4 697 | 692 | 5 389 | 19 252 | 20 676 | 546 130 | 392 108 | 938 238
 2002/03 | 5 028 | 776 | 5 804 | 20 251 | 22 664 | 585 573 | 426 577 | 1 012 150
 2003/04 | 5 430 | 836 | 6 266 | 22 330 | 24 203 | 647 043 | 492 469 | 1 139 512
@@ -1175,8 +1280,6 @@ Publiques | Privées | Pub+priv | (pub + priv) | d'enseignants | Garçons | Fill
 2009/10 | 8 375 | 1 823 | 10 198 | 38 269 | 37 814 | 1 089 912 | 957 718 | 2 047 630
 2010/11 | 8 831 | 1 965 | 10 796 | 40 912 | 40 639 | 1 163 784 | 1 041 511 | 2 205 295
 2011/12 | 9 266 | 2 279 | 11 545 | 43 661 | 48 592 | 1 225 032 | 1 118 999 | 2 344 031
-
-Tableau 4: Evolution des indicateurs de l'enseignement primaire de 2001 à 2011
 
 Source : DEP/MENA
 
@@ -1258,11 +1361,11 @@ En ciblant  les  jeunes  de  15  à  24  ans  comme  public  cible  prioritaire,
 
 Au Burkina Faso, l'ensemble des inscrits en éducation non formelle ne représentaient que 3,8% de la population de 15 ans et plus en 2010.
 
-Le taux national d'alphabétisation se situait en 2007  à  28,7%  dont  19,5%  en  milieu  rural  et 21,3% chez les femmes alors que la moyenne de l'Afrique subsaharienne de cette année est de 61%. Des disparités, se traduisant par des écarts importants entre régions, persistent depuis  des  années.  En  effet,  pendant  que  la région du Centre réalise 63,7% de taux
+Le taux national d'alphabétisation se situait en 2007 à 28,7% dont 19,5% en milieu rural et 21,3% chez les femmes alors que la moyenne de l'Afrique subsaharienne de cette année est de 61%. Des disparités, se traduisant par des écarts importants entre régions, persistent depuis des années. En effet, pendant que la région du Centre réalise 63,7% de taux d'alphabétisation, le Centre Sud n'enregistre que 16,1%. Au regard des statistiques disponibles, les inscrits dans les centres d'alphabétisation et d'encadrement du non formel augmentent dans une proportion relativement lente. Pourtant, une formation en alphabétisation ouvre la voie vers une amélioration des moyens de subsistance, une meilleure santé et une meilleure perspective de vie.
 
 Tableau 5: Evolution effectif alphabétisation 2003 à 2010
---- | --- | --- | --- | ---
 Campagnes | AI | FCB | A3F | Total
+--- | --- | --- | --- | ---
 2003 | 154 481 | 49 529 | ND | 204 010
 2004 | 182 323 | 65 929 | 1 386 | 249 638
 2005 | 197 412 | 90 913 | 4 610 | 292 935
@@ -1271,8 +1374,6 @@ Campagnes | AI | FCB | A3F | Total
 2008 | 188 475 | 117 571 | 5 434 | 311 480
 2009 | 199829 | 150526 | 47440 | 397 795
 2010 | 88.124 | 137.801 | ND | 225 925
-
-d'alphabétisation, le Centre Sud n'enregistre que 16,1%. Au regard des statistiques disponibles, les inscrits  dans les centres d'alphabétisation et d'encadrement du non formel augmentent dans une proportion  relativement  lente.  Pourtant,  une  formation  en  alphabétisation  ouvre  la  voie  vers  une amélioration des moyens de subsistance, une meilleure santé et une meilleure perspective de vie.
 
 Par  ailleurs,  l'élan  d'élimination  progressive  de  l'analphabétisme  se  trouve  contraint  par  un  croît démographique élevé et une forte propension d'analphabétisme de retour due à l'insuffisance de structures de post alphabétisation et du fait que tous les enfants en âge d'aller à l'école n'y  sont pas inscrits ; en plus il y a une forte déperdition de ceux qui y accèdent et tous ceux-ci viennent grossir dès l'âge de 15 ans le nombre d'analphabètes.
 
@@ -1302,9 +1403,11 @@ Au préscolaire , les effectifs ont connu ces dernières années un accroissemen
 
 Dans l'enseignement primaire , le nombre d'écoles est passé de 5 389 en 2001 à 11 545 en 2011 soit un doublement en dix ans. Malheureusement, la forte croissance du nombre de classes l'a été au détriment des matériaux utilisés et cette situation est dénoncée par la population aussi bien à travers l'enquête d'opinion que dans le rapport d'évaluation du PDDEB. Les tableaux qui suivent indiquent l'état des salles de classes.
 
-Années | Nombre de salles de classe ayant les murs en: | Nombre de salle de classe dont les murs sont :
+Tableau 6: Nature et état des murs des écoles
+
+Années | Nombre de salles de classe ayant les murs en: |  |  |  | Nombre de salle de classe dont les murs sont : |  |
 --- | --- | --- | --- | --- | --- | --- | ---
-dur | sémi dur | autres + paillote | indet. | bons | mauvais | autres
+ | dur | sémi dur | autres + paillote | indet. | bons | mauvais | autres
 2001/2002 | 17333 | 1460 | 283 | 176 | 17330 | 1647 | 275
 2002/2003 | 18647 | 1454 | 269 | 251 | 18319 | 1541 | 761
 2003/2004 | 20030 | 1549 | 407 | 344 | 19800 | 2115 | 25
@@ -1316,8 +1419,6 @@ dur | sémi dur | autres + paillote | indet. | bons | mauvais | autres
 2009/2010 | 31765 | 3187 | 3108 | 209 | 31645 | 6389 | 79
 2010/2011 | 33 978 | 3 231 | 3 703 | 0 | 34 174 | 6 720 | 18
 2011/2012 | 36 006 | 3 671 | 3 973 | 11 | 36 414 | 7 174 | 73
-
-Tableau 6: Nature et état des murs des écoles
 
 Source : DEP/MENA
 
@@ -1333,9 +1434,11 @@ Le  nombre  de  salles  de  classes  non  construites  en  matériaux  définiti
 
 Si  le  nombre  d'école  a  doublé  au  public,  il  a  triplé  au  privé  et  représente  environ  18%  de l'ensemble.
 
-Public et privé | Public | Privé
+Tableau 7: Répartition des écoles par statuts
+
+Années | Public et privé |  | Public |  | Privé |
 --- | --- | --- | --- | --- | --- | ---
-Années | Nombre d'écoles | Nombre de salles de classes | Nombre d'écoles | Nombre de salles de classes | Nombre d'écoles | Nombre de salles de classes
+ | Nombre d'écoles | Nombre de salles de classes | Nombre d'écoles | Nombre de salles de classes | Nombre d'écoles | Nombre de salles de classes
 2001/2002 | 5 389 | 19 252 | 4 697 | 16 619 | 692 | 2 633
 2002/2003 | 5 804 | 20 621 | 5 028 | 17 658 | 776 | 2 963
 2003/2004 | 6 266 | 22 330 | 5 430 | 18 971 | 836 | 3 359
@@ -1348,11 +1451,11 @@ Années | Nombre d'écoles | Nombre de salles de classes | Nombre d'écoles | No
 2010/2011 | 10 796 | 40 912 | 8 831 | 33 757 | 1 965 | 7 155
 2011/2012 | 11 545 | 43 661 | 9 266 | 35 568 | 2 279 | 8 093
 
-Tableau 7: Répartition des écoles par statuts
-
 Source : DEP/MENA
 
 Le déficit en places assises est passé de 102 069 en 2001/2002 à 483 312 en 2011/2012 soit une augmentation de plus de quatre fois le nombre en dix ans.
+
+Tableau 8: Etat des équipements scolaires
 
 Années | Nombre d'écoles ayant suffisamment de tables bancs | Nombre d'écoles n'ayant pas suffisamment de tables bancs | Déficit en places assises
 --- | --- | --- | ---
@@ -1368,8 +1471,6 @@ Années | Nombre d'écoles ayant suffisamment de tables bancs | Nombre d'écoles
 2010/2011 | 4 118 | 6 678 | 465 324
 2011/2012 | 4 545 | 7 000 | 483 312
 
-Tableau 8: Etat des équipements scolaires
-
 Source : DEP/MENA
 
 Malgré les insuffisances constatées dans la réalisation des infrastructures, la mise en  œuvre du PDDEB a permis d'engranger des résultats appréciables à travers les indicateurs suivants regroupés dans le tableau ci-dessous.
@@ -1382,30 +1483,30 @@ Page 18
 
 [[START OF PAGE 40]]
 
+Tableau 9: Indicateurs de la mise en œuvre du PDDEB en termes d'accès au primaire
+
 Indicateurs | Prévision 2010/2011 (a) | Réalisation (b) | Ecart (c)
 --- | --- | --- | ---
 Nombre élèves au primaire (G+F) | 2 022 127 | 2 205 295 | +183 168
-Nombre élèves au primaire (G) | 1 163 784
-Nombre élèves au primaire (F) | 1 041 511
+Nombre élèves au primaire (G) |  | 1 163 784 |
+Nombre élèves au primaire (F) |  | 1 041 511 |
 Parité | 0,92 | 0,91 | -0,01
 Nouveaux entrants au CP1 (G+F) | 418 885 | 444 519 | +25 664
-Nouveaux entrants (G) au CP1) | 232 818
-Nouveaux entrants (F) au CP1) | 211 701
+Nouveaux entrants (G) au CP1) |  | 232 818 |
+Nouveaux entrants (F) au CP1) |  | 211 701 |
 Parité | 0,92 | 0,93 | +0,01
 Taux brut de scolarisation (G+F) | 78,20% | 77,6 | -0,6%
-Taux brut de scolarisation (G) | 80,2
-Taux brut de scolarisation (Filles) | 75,0%
-Parité | 0,935
+Taux brut de scolarisation (G) |  | 80,2 |
+Taux brut de scolarisation (Filles) |  | 75,0% |
+Parité |  | 0,935 |
 Taux Brut d'Admission (G+F) | 88,00% | 85,7% | -2,3%
-Taux Brut d'Admission (G) | 86,9%
-Taux Brut d'Admission (Filles) | 84,4%
-Parité | 0,97
+Taux Brut d'Admission (G) |  | 86,9% |
+Taux Brut d'Admission (Filles) |  | 84,4% |
+Parité |  | 0,97 |
 Taux d'achèvement du primaire (G+F) | 51,30% | 52,1% | +0,8%
-Taux d'achèvement du primaire (G) | 55,1
-Taux d'achèvement du primaire (F) | 49,1
-Parité | 0,89
-
-Tableau 9: Indicateurs de la mise en œuvre  du PDDEB en termes d'accès au primaire
+Taux d'achèvement du primaire (G) |  | 55,1 |
+Taux d'achèvement du primaire (F) |  | 49,1 |
+Parité |  | 0,89 |
 
 Sources : (a) Document phase II du PDDEB ; (b) DEP/MENA ; (c) Calcul des auteurs.
 
@@ -1421,7 +1522,12 @@ Page 19
 
 [[START OF PAGE 41]]
 
-Figure 1: Evolution du TBS au primaire entre 2000 et 2010  dans les 20 provinces prioritaires
+Figure 1: Evolution du TBS au primaire entre 2000 et 2010 dans les 20 provinces prioritaires
+
+Evolution du TBS des 20 PP entre 2000 et 2010
+90 | 80 | 70 | 60 | 50 | 40 | 30 | 20 | 10 | 0
+BAM | GANZOURGOU | GNAGNA | GOURMA | KOMONDJARI | KOMPIENGA | KOSSI | KOULPELOGO | LERABA | NAMENTENGA | NOUMBIEL | OUDALAN | PONI | SANMATENGA | SENO | SOUM | TAPOA | TUY | YAGHA | ZIRO
+2000/2001 | 2010/2011 | Ecart
 
 Source : DEP/MENA
 
@@ -1430,6 +1536,10 @@ Le TBS de l'ensemble de ces provinces est passé de 28,5% en 2000/2001 à 63,4% 
 Entre 2000/01 et 2010/11, le TBS global s'est accru de 69,1%, celui des filles de 97,8% (presqu'un doublement)  et  celui  des  garçons  de  48,8%.  La  comparaison  des  TBS  2010/11  des  garçons (80,2%) et des filles (75,0%), et leur évolution dans le graphique ci-dessous mettent en évidence une réduction des disparités entre genre ; l'indice de parité est passé de 0,70 en 2000/01 à 0,91 en 2009/10 et à 0,93 en 2010/11.
 
 Figure 2: Evolution du TBS selon le genre entre 2000/2001 et 2010/2011
+
+90,0 | 80,0 | 70,0 | 60,0 | 50,0 | 40,0 | 30,0
+2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11
+Garçons | Filles
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -1444,17 +1554,17 @@ Sous le PDDEB, avec la mobilisation sociale, on observe un réel engouement des 
 ###### Au post primaire ,
 la contribution du PDDEB qui a concerné la phase II (2007 - 2010) a contribué à l'amélioration des résultats qui en termes d'accès restent toujours très faibles.
 
-Le taux brut d'admission au post primaire est passé de 26,7% en 2007-2008 à 25,1% en 20082009,  soit  une  baisse  de  1,6  point  de  pourcentage  et  rompt  avec  la  croissance  amorcée  en 2004/05. Cette situation est expliquée par les changements intervenus cette année dans le calcul de l'indicateur.
+Le taux brut d'admission au post primaire est passé de 26,7% en 2007-2008 à 25,1% en 2008-2009, soit une baisse de 1,6 point de pourcentage et rompt avec la croissance amorcée en 2004/05. Cette situation est expliquée par les changements intervenus cette année dans le calcul de l'indicateur.
 
 L'offre  d'éducation  dans  l'enseignement  secondaire  public,  régulée  par  le  concours  d'entrée  en classe de sixième, est la principale raison de cette faiblesse dans l'accès au post primaire. Il est passé de 25,1% en 2008-2009 à 32,6% en 2010-2011, soit une hausse de 7,5 points en deux ans. Cette hausse peut s'expliquer d'une part par l'amélioration du taux de succès au CEP et d'autre part par l'accroissement des capacités d'accueil et des mesures prises dans le cadre de la reforme du système éducatif. Ce niveau est très en deçà de l'objectif de 40% fixé dans le cadre du Projet Enseignement Post Primaire 2.
 
-2005-2006 | 2007-2008 | 2009-2010 | 2010-2011
+Tableau 10: Evolution du TBA et du TBS au post primaire entre 2005 et 2010
+
+ | 2005-2006 |  |  | 2007-2008 |  |  | 2009-2010 |  |  | 2010-2011 |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 SEXE | G | F | T | G | F | T | G | F | T | G | F | T
 TBA en 6 ème | 24,7 | 17,4 | 21,0 | 31,4 | 22,1 | 26,7 | 35,2 | 27,6 | 31,4 | 35,6 | 29,5 | 32,6
 TBS | 24,6 | 17,7 | 21,1 | 30,4 | 22,5 | 26,4 | 33,6 | 25,8 | 29,7 | 36,0 | 28,6 | 32,3
-
-Tableau 10: Evolution du TBA et du TBS au post primaire entre 2005 et 2010
 
 Source : DEP/MESS
 
@@ -1483,48 +1593,46 @@ Page 21
 
 Le taux de promotion a connu des progrès considérables pendant la période de mise en œuvre du PDDEB.  Cependant,  il  peut  encore  s'améliorer  au  regard  du  gap  important  entre  le  taux d'admission  et  celui  de  l'achèvement  indiquant  ainsi  des  déperditions  conséquentes  dans  le système comme le montre le tableau ci-dessous.
 
-Années scolaires Taux de flux | 2001/02 | 2005/2006 | 2009/2010 | 2010/2011 | 2011/2012
---- | --- | --- | --- | --- | --- | ---
-Taux de Promotion
-Sous cycle CP | Garçons | 79,8 | 84,7 | 87,5 | 90,9 | 90,8
-Filles | 80,3 | 84,6 | 88,2 | 91,4 | 91,3
-Total | 80,0 | 84,7 | 87,8 | 91,2 | 91,1
-Sous cycle CE | Garçons | 72,3 | 79,5 | 82,5 | 86,7 | 86,1
-Filles | 74,3 | 81,7 | 85,9 | 89,9 | 90,0
-Total | 73,1 | 80,4 | 84,0 | 88,1 | 88,0
-CM1 | Garçons | 72,6 | 75,7 | 74,2 | 79,9 | 79,4
-Filles | 71,8 | 75,4 | 74,7 | 80,0 | 81,2
-Total | 72,3 | 75,6 | 74,4 | 80,0 | 80,2
-Taux de redoublement
-Sous cycle CP | Garçons | 12,7 | 8,0 | 8,0 | 4,5 | 4,3
-Filles | 12,7 | 7,7 | 7,2 | 3,9 | 3,7
-Total | 12,7 | 7,9 | 7,7 | 4,2 | 4,0
-Sous cycle CE | Garçons | 17,0 | 12,9 | 12,2 | 7,4 | 7,1
-Filles | 16,9 | 12,6 | 12,0 | 6,9 | 6,5
-Total | 17,0 | 12,8 | 12,1 | 7,2 | 6,8
-CM1 | Garçons | 17,9 | 14,6 | 11,5 | 7,1 | 6,3
-Filles | 20,5 | 15,8 | 12,9 | 7,9 | 6,8
-Total | 19,0 | 15,1 | 12,1 | 7,5 | 6,6
-CM2 | Garçons | 35,4 | 31,0 | 26,5 | 28,2 | 27,2
-Filles | 37,2 | 33,4 | 31,0 | 31,4 | 31,9
-Total | 36,1 | 32,1 | 28,6 | 29,7 | 29,5
-% des redoublants | 18,2 | 12,0 | 10,1
-Taux d'abandon
-Sous cycle CP | Garçons | 7,5 | 7,2 | 4,5 | 4,5 | 4,9
-Filles | 7,0 | 7,8 | 4,6 | 4,7 | 4,9
-Total | 7,3 | 7,5 | 4,5 | 4,6 | 4,9
-Sous cycle CE | Garçons | 10,6 | 7,5 | 5,3 | 5,9 | 6,7
-Filles | 8,8 | 5,7 | 2,2 | 3,1 | 3,4
-Total | 9,9 | 6,7 | 3,9 | 4,5 | 5,2
-CM1 | Garçons | 9,5 | 9,7 | 14,3 | 13,0 | 14,2
-Filles | 7,7 | 8,8 | 12,3 | 12,1 | 12,0
-Total | 8,7 | 9,3 | 13,4 | 12,6 | 13,2
-
 Tableau 11: Les indicateurs d'efficacité interne au primaire
 
-Source
+Années scolaires Taux de flux |  | 2001/02 | 2005/2006 | 2009/2010 | 2010/2011 | 2011/2012
+--- | --- | --- | --- | --- | --- | ---
+Taux de Promotion |  |  |  |  |  |
+Sous cycle CP | Garçons | 79,8 | 84,7 | 87,5 | 90,9 | 90,8
+ | Filles | 80,3 | 84,6 | 88,2 | 91,4 | 91,3
+ | Total | 80,0 | 84,7 | 87,8 | 91,2 | 91,1
+Sous cycle CE | Garçons | 72,3 | 79,5 | 82,5 | 86,7 | 86,1
+ | Filles | 74,3 | 81,7 | 85,9 | 89,9 | 90,0
+ | Total | 73,1 | 80,4 | 84,0 | 88,1 | 88,0
+CM1 | Garçons | 72,6 | 75,7 | 74,2 | 79,9 | 79,4
+ | Filles | 71,8 | 75,4 | 74,7 | 80,0 | 81,2
+ | Total | 72,3 | 75,6 | 74,4 | 80,0 | 80,2
+Taux de redoublement |  |  |  |  |  |
+Sous cycle CP | Garçons | 12,7 | 8,0 | 8,0 | 4,5 | 4,3
+ | Filles | 12,7 | 7,7 | 7,2 | 3,9 | 3,7
+ | Total | 12,7 | 7,9 | 7,7 | 4,2 | 4,0
+Sous cycle CE | Garçons | 17,0 | 12,9 | 12,2 | 7,4 | 7,1
+ | Filles | 16,9 | 12,6 | 12,0 | 6,9 | 6,5
+ | Total | 17,0 | 12,8 | 12,1 | 7,2 | 6,8
+CM1 | Garçons | 17,9 | 14,6 | 11,5 | 7,1 | 6,3
+ | Filles | 20,5 | 15,8 | 12,9 | 7,9 | 6,8
+ | Total | 19,0 | 15,1 | 12,1 | 7,5 | 6,6
+CM2 | Garçons | 35,4 | 31,0 | 26,5 | 28,2 | 27,2
+ | Filles | 37,2 | 33,4 | 31,0 | 31,4 | 31,9
+ | Total | 36,1 | 32,1 | 28,6 | 29,7 | 29,5
+% des redoublants |  | 18,2 | 12,0 | 10,1 |  |
+Taux d'abandon |  |  |  |  |  |
+Sous cycle CP | Garçons | 7,5 | 7,2 | 4,5 | 4,5 | 4,9
+ | Filles | 7,0 | 7,8 | 4,6 | 4,7 | 4,9
+ | Total | 7,3 | 7,5 | 4,5 | 4,6 | 4,9
+Sous cycle CE | Garçons | 10,6 | 7,5 | 5,3 | 5,9 | 6,7
+ | Filles | 8,8 | 5,7 | 2,2 | 3,1 | 3,4
+ | Total | 9,9 | 6,7 | 3,9 | 4,5 | 5,2
+CM1 | Garçons | 9,5 | 9,7 | 14,3 | 13,0 | 14,2
+ | Filles | 7,7 | 8,8 | 12,3 | 12,1 | 12,0
+ | Total | 8,7 | 9,3 | 13,4 | 12,6 | 13,2
 
-: DEP/MEBA
+Source : DEP/MEBA
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -1535,6 +1643,21 @@ Page 22
 [[START OF PAGE 44]]
 
 Figure 3 : Les évolutions des taux de rendement interne par sous-cycle
+
+Promotion
+95,0 | 90,0 | 85,0 | 80,0 | 75,0 | 70,0 | 65,0
+2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11
+Promotion CP | Promotion CE | Promotion CM1
+
+Redoublement
+35,0 | 30,0 | 25,0 | 20,0 | 15,0 | 10,0 | 5,0 | 0,0
+2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11
+Redoublement CP | Redoublement CE | Redoublement CM
+
+Abandon
+16,0 | 14,0 | 12,0 | 10,0 | 8,0 | 6,0 | 4,0 | 2,0 | 0,0
+2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11
+Abandon CP | Abandon CE | Abandon CM1
 
 Source : DEP/MENA
 
@@ -1547,6 +1670,8 @@ Le taux d'abandon quant à lui se situe en 2011/2012 à 4,9% au CP, 5,2% au CE e
 ###### Le taux d'achèvement
 
 La réduction du taux de redoublement et l'amélioration du taux de promotion ont pour conséquence d'influer  qualitativement  sur  le  taux  d'achèvement  comme  l'attestent  les  données  du  tableau  qui suit.
+
+Tableau 12:Evolution du taux d'achèvement de 2001/2002 à 2009/2010
 
 Années scolaires | Taux d'achèvement des garçons | Taux d'achèvement des filles | Taux d'achèvement (G+F)
 --- | --- | --- | ---
@@ -1562,11 +1687,7 @@ Années scolaires | Taux d'achèvement des garçons | Taux d'achèvement des fil
 2010/2011 | 55,1 | 49,1 | 52,1
 2011/2012 | 56,6 | 53,7 | 55,1
 
-Tableau 12:Evolution du taux d'achèvement de 2001/2002 à 2009/2010
-
-: DEP/MEBA
-
-Source
+Source : DEP/MEBA
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -1579,6 +1700,10 @@ Page 23
 Le taux d'achèvement du primaire (TAP) est passé de 28,0% en 2001/2002 (dont 23,6% pour les filles),  à  55,1%  en  2011/2012  (dont  53,7%  pour  les  filles).  Cet  indicateur  a  beaucoup  progressé pour les filles, celui-ci étant passé de 23,6% à 53,7%..
 
 Figure 4 : Evolution du TAP du primaire de 2000 à 2010
+
+60,0 | 55,0 | 50,0 | 45,0 | 40,0 | 35,0 | 30,0 | 25,0 | 20,0 | 15,0 | 10,0
+2000/01 | 2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10 | 2010/11
+Garçons | Filles | ensemble
 
 Les  disparités  entre  les  régions  sont  toujours  importantes.  Le  TAP  varie  de  23,2%  au  Sahel  à 60,8% au Centre soit un écart de près de 37,6 points. La région du Centre se singularise avec un TAP largement au-dessus de ceux des autres régions et favorable aux filles.  La  faiblesse  de  la parité  dans la  région  du  Nord  se  confirme  (0,73)  au  niveau  du  taux  d'achèvement. Ces constats montrent que les régions urbaines sont toujours favorisées au détriment de celles rurales.
 
@@ -1598,9 +1723,11 @@ Page 24
 
 [[START OF PAGE 46]]
 
-2001/2002 (session de 2002) | 2009/2010 (session de 2010) | Ecart par rapport à 2002
+Tableau 13:Taux de réussite au CEP en 2001-2002 et 2009-2010
+
+REGIONS | 2001/2002 (session de 2002) |  |  | 2009/2010 (session de 2010) |  |  | Ecart par rapport à 2002 |  |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-REGIONS | F | G | T | F | G | T | F | G | T
+ | F | G | T | F | G | T | F | G | T
 Boucle du Mouhoun | 48,5 | 58,9 | 54,4 | 61,3 | 69,2 | 65,4 | 12,7 | 10,3 | 11
 Cascades | 50,8 | 58,8 | 55,6 | 53,9 | 60,0 | 57,3 | 3,1 | 1,2 | 1,7
 Centre | 68,6 | 74,8 | 71,6 | 72,2 | 76,2 | 74,1 | 3,6 | 1,4 | 2,5
@@ -1617,53 +1744,15 @@ Sud Ouest | 51,6 | 63,5 | 59,6 | 53,1 | 67,3 | 60,8 | 1,5 | 3,8 | 1,2
 Total National | 58,7 | 66,2 | 63,0 | 62,3 | 69,3 | 65,9 | 3,6 | 3,1 | 2,9
 Médiane | 58,4 | 63,5 | 61,5 | 59,3 | 66,8 | 63 | 3,1 | 1,6 | 3,1
 
-Tableau 13:Taux de réussite au CEP en 2001-2002 et 2009-2010
-
-Source
-
-: DEC/MEBA, 2002 à 2010
+Source : DEC/MEBA, 2002 à 2010
 
 Si  le  taux  de  réussite  au  CEP  a  globalement  progressé  entre  2002  et  2010,  cela  n'a  pas  été toujours de manière constante comme illustré sur la figure suivante présentant les taux de réussite au CEP et à l'entrée en 6 ème entre 2008 et 2010.
 
 Figure 5 : Evolution des taux de réussite au CEP et à l'entrée en sixième de 2008 à 2010
 
-0
-
-10
-
-20
-
-30
-
-40
-
-50
-
-60
-
-70
-
-80
-
-90
-
-CEP 2008
-
-CEP 2009
-
-CEP 2010
-
-6ème 2008
-
-6ème 2009
-
-6ème 2010
-
-Fille
-
-Garçon
-
-Total
+Fille | Garçon | Total
+90 | 80 | 70 | 60 | 50 | 40 | 30 | 20 | 10 | 0
+CEP 2008 | CEP 2009 | CEP 2010 | 6ème 2008 | 6ème 2009 | 6ème 2010
 
 Source: DEP/MENA
 
@@ -1683,45 +1772,9 @@ Page 25
 
 Figure 6 : Taux de survie
 
-200
-
-300
-
-400
-
-500
-
-600
-
-700
-
-800
-
-900
-
-1000
-
-2001/02
-
-2002/03
-
-2003/04
-
-2004/05
-
-2005/06
-
-2006/07
-
-2007/08
-
-2008/09
-
-2009/10
-
-Taux de survie au CM2
-
-Taux de survie au CEP
+Taux de survie au CM2 | Taux de survie au CEP
+1000 | 900 | 800 | 700 | 600 | 500 | 400 | 300 | 200
+2001/02 | 2002/03 | 2003/04 | 2004/05 | 2005/06 | 2006/07 | 2007/08 | 2008/09 | 2009/10
 
 La méthode retenue pour l'analyse de la survie au CM2 et au CEP est le profil de scolarisation pseudo longitudinale. Cette méthode nous renseigne sur l'avenir en tenant compte des conditions du moment. Il permet de se projeter et d'examiner combien d'élèves vont atteindre le CM2 et, parmi eux combien auront leur certificat.
 
@@ -1749,7 +1802,7 @@ Page 26
 
 Un  des  éléments  importants  dans  l'amélioration  des  acquis  des  élèves  est  la  disponibilité  des manuels  scolaires.  L'analyse  des  ratios  livres  de  lecture  et  de  calcul  par  élève  indique  qu'au Burkina Faso, l'Etat a la capacité de doter tous les élèves du primaire en livres de lecture et en livres de calcul et ce depuis l'année scolaire 2007. Le ratio livre/élève a atteint 1,17 pour la lecture et 1,18 pour le calcul en 2010. Toutefois, certains rapports de mission indiquent que des manuels à l'état neuf comptabilisés dans le calcul du ratio se trouvent dans des armoires des écoles au lieu d'être entre les mains des écoliers.
 
-Si  dans  le  secteur  public  l'on  peut  noter  des  ratios  livre  de  lecture  et  livre  de  calcul  par  élève supérieurs  à  1,  ce  n'est  pas  le  cas  pour  le  secteur  privé.  Les  ratios  du  privé  sont  en-deçà  de l'objectif fixé qui est d'un livre par élève. Les ratios livre par élève sont respectivement de 0,72 et 0,70 pour la lecture et le calcul en 2010. Cette situation se justifie par l'existence d'écoles privées non reconnues qui ne sont pas systématiquement dotées par certaines Circonscriptions d'Education de Base (CEB). En outre, certaines écoles privées comme les medersas et les francoarabes n'utilisent pas les manuels scolaires distribués. Ces indicateurs se sont améliorés dans le secteur privé comparativement à l'année scolaire 2007 où l'on avait respectivement des ratios de 0,67 et de 0,60.
+Si dans le secteur public l'on peut noter des ratios livre de lecture et livre de calcul par élève supérieurs à 1, ce n'est pas le cas pour le secteur privé. Les ratios du privé sont en-deçà de l'objectif fixé qui est d'un livre par élève. Les ratios livre par élève sont respectivement de 0,72 et 0,70 pour la lecture et le calcul en 2010. Cette situation se justifie par l'existence d'écoles privées non reconnues qui ne sont pas systématiquement dotées par certaines Circonscriptions d'Education de Base (CEB). En outre, certaines écoles privées comme les medersas et les franco-arabes n'utilisent pas les manuels scolaires distribués. Ces indicateurs se sont améliorés dans le secteur privé comparativement à l'année scolaire 2007 où l'on avait respectivement des ratios de 0,67 et de 0,60.
 
 Il est donc opportun de calculer le ratio livre/élève par type d'école afin de permettre une meilleure lisibilité de cet indicateur. Il est tout à fait indiqué également que les enseignants soient sensibilisés à rendre disponibles les manuels au niveau des bénéficiaires.
 
@@ -1863,7 +1916,7 @@ Malgré  les  améliorations  constatées  au  niveau  du  pilotage  et  de  la 
 
 #### 3.2.2  Résultats de l'enquête d'opinion sur la mise en œuvre du PDDEB
 
-De  nombreuses  contraintes  freinent  le  développement  de  l'éducation  au  Burkina  Faso  et,  les mêmes défis qui prévalaient  depuis  des  décennies,  demeurent  encore  aujourd'hui  avec  presque autant d'acuité. En effet, l'impact du PDDEB, s'il est reconnu par les populations, il n'en demeure pas moins qu'il est diversement interprété, voire méconnu par les populations comme l'attestent les résultats de l'enquête d'opinion menée auprès de 900 ménages par une équipe de recherche de l'Institut  Supérieur  des  Sciences  de  la  Population  (ISSP)  de  l'Université  de  Ouagadougou  (juillet 2011).
+De nombreuses contraintes freinent le développement de l'éducation au Burkina Faso et, les mêmes défis qui prévalaient depuis des décennies, demeurent encore aujourd'hui avec presque autant d'acuité. En effet, l'impact du PDDEB, s'il est reconnu par les populations, il n'en demeure pas moins qu'il est diversement interprété, voire méconnu par les populations comme l'attestent les
 
 > 20 CDMT sous sectoriel, CDMT sectoriel Education, Budget programme, Plans d'action, Programme d'activités.
 
@@ -1875,7 +1928,9 @@ Page 30
 
 [[START OF PAGE 52]]
 
-En effet, selon cette étude, moins d'un tiers des chefs de ménages enquêtés (27%) connaissent le PDDEB. Toutefois le niveau de connaissance du PDDEB croît avec le niveau d'instruction : 55,5% de  niveau  secondaire  et  plus  contre  24,7%  de  niveau  primaire  et  29,5%  d'alphabétisés  n'ayant jamais  fréquenté  l'école.  Par  rapport  à  l'activité  socioéconomique  du  Chef  de  ménage,  ceux exerçant  dans  l'administration  et  les  professions  libérales  connaissent  le  PDDEB  dans  une proportion  de  56,3%  contre  23,26%  pour  les  agriculteurs.  Moins  d'un  ménage  sur  dix  connait  le PEPP2.
+résultats de l'enquête d'opinion menée auprès de 900 ménages par une équipe de recherche de l'Institut Supérieur des Sciences de la Population (ISSP) de l'Université de Ouagadougou (juillet 2011).
+
+En effet, selon cette étude, moins d'un tiers des chefs de ménages enquêtés (27%) connaissent le PDDEB. Toutefois le niveau de connaissance du PDDEB croît avec le niveau d'instruction : 55,5% de niveau secondaire et plus contre 24,7% de niveau primaire et 29,5% d'alphabétisés n'ayant jamais fréquenté l'école. Par rapport à l'activité socioéconomique du Chef de ménage, ceux exerçant dans l'administration et les professions libérales connaissent le PDDEB dans une proportion de 56,3% contre 23,26% pour les agriculteurs. Moins d'un ménage sur dix connait le PEPP2.
 
 Par  rapport  à  la  connaissance  des  objectifs  du  PDDEB,  51,7%  des  Chefs  des  ménages connaissant  le  PDDEB,  retiennent  l'amélioration  des  indicateurs  d'éducation  depuis  ces  dix dernières années comme un acquis fondamental. Ils signalent également la promotion de l'EPT, l'amélioration  de  la  qualité  et  la  promotion  de  l'éducation  des  filles.  Lorsqu'on  compare  les agriculteurs  à  ceux  exerçant  dans  l'administration  sur  cette  variable,  il  n'y  a  pas  de  différence fondamentale  sur  l'évocation  des  constructions,  la  gratuité  des  manuels,  le  recrutement  des enseignants et la sensibilisation de la population. Par contre, la décentralisation du pouvoir est citée chez ceux exerçant dans l'administration et les professions libérales. 56% des Chefs de ménage pensent que l'accès à l'école s'est nettement amélioré. Ils sont 66% pour l'accès aux filles. 78% estiment que les inégalités filles/garçons se sont réduites au cours de ces dix dernières années. 70,2% des Chefs de ménage disent que les gens ne font plus de différence entre filles et garçons en matière de scolarisation. Les acteurs reconnaissent qu'il y a une disparité dans la répartition des infrastructures  entre  régions.  Beaucoup  d'écoles  ne  seraient  pas  normalisées.  Les  équipements sont  insuffisants.  Les  enseignants  manquent  en  zone  rurale  alors  qu'ils  sont  doublés  dans  les classes en ville.
 
@@ -2039,7 +2094,7 @@ Page 34
 
 [[START OF PAGE 56]]
 
-- réalisation oscillant entre 72.5% et 94.5%. A partir de 2009, nonobstant l'avènement du FTI, la dotation a baissé de 15,1 milliards FCFA en 2009 puis de 13.8 milliards FCFA en 2010 ;
+réalisation oscillant entre 72.5% et 94.5%. A partir de 2009, nonobstant l'avènement du FTI, la dotation a baissé de 15,1 milliards FCFA en 2009 puis de 13.8 milliards FCFA en 2010 ;
 
 -l'inexistence  d'un  mécanisme  de  recouvrement  et  de  financement  pérenne  du  secteur  de l'éducation qui mettrait à l'abri des aléas de la conjoncture économique grâce à l'affectation d'un pourcentage de recettes annuelles sures de l'Etat ;
 
@@ -2129,7 +2184,7 @@ Page 35
 
 ### 3.3 Dépenses publiques pour le secteur : son évolution et sa répartition
 
-Le  Burkina  Faso  est  l'un  des  pays  de  la  sous  région  ouest-africaine  qui  présente  une  allocation budgétaire  régulière  assez  élevée  en  faveur  du  primaire 22 (la  moyenne  africaine,  ajustée  à  six années  de  scolarisation  est  de  44%  alors  que  le  Burkina  réalise  58%  en  2008),  souvent  au détriment  des  autres  sous  secteurs  qui  n'ont  bénéficié  en  2010  que  de  33,5%  pour  les enseignements post-primaire, secondaire, supérieur et la recherche scientifique  et 3,3% pour le préscolaire et la petite enfance.
+Le Burkina Faso est l'un des pays de la sous région ouest-africaine qui présente une allocation budgétaire régulière assez élevée en faveur du primaire 22 (la moyenne africaine, ajustée à six années de scolarisation est de 44% alors que le Burkina réalise 58% en 2008), souvent au détriment des autres sous secteurs qui n'ont bénéficié en 2010 que de 33,5% pour les
 
 > 22 Cf. UNESCO BREDA, 2007, EPT en Afrique : l'urgence de politiques sectorielles intégrées, rapport Dakar +7, UNESCO, Dakar
 
@@ -2141,29 +2196,35 @@ Page 36
 
 [[START OF PAGE 58]]
 
-De ce point de vue, l'évolution des indicateurs de financement de l'éducation de base est en phase avec le Cadre Indicatif du Fast Track Initiative. Néanmoins, les progrès jusque là réalisés en termes de scolarisation ne reflètent pas ce niveau d'allocation de ressources comparativement à d'autres pays à contexte similaire.  En  clair,  à  niveau  de  dépenses  égales,  les  autres  pays  obtiennent  de meilleurs résultats en matière de scolarisation que le Burkina Faso.
+enseignements post-primaire, secondaire, supérieur et la recherche scientifique et 3,3% pour le préscolaire et la petite enfance.
+
+De ce point de vue, l'évolution des indicateurs de financement de l'éducation de base est en phase avec le Cadre Indicatif du Fast Track Initiative. Néanmoins, les progrès jusque là réalisés en termes de scolarisation ne reflètent pas ce niveau d'allocation de ressources comparativement à d'autres pays à contexte similaire. En clair, à niveau de dépenses égales, les autres pays obtiennent de meilleurs résultats en matière de scolarisation que le Burkina Faso.
 
 Dans  le  cadre  général  de  la  redistribution  des  ressources  budgétaires  par  secteur, l'éducation a vu sa part progresser de façon régulière pour atteindre 19,02% du budget de l'Etat en 2010 pour une norme internationale minimale de 20% à réaliser en 2000. De même, l'effort de financement du secteur de l'éducation à partir de la richesse nationale s'est traduit par un niveau de ressources équivalant à 3,95% du PIB en 2010 pour un niveau à partir de 7%  recommandé  pour  les  pays  de  l'Afrique subsaharienne qui sont en retard de scolarisation .
 
-Années | 2005 | 2006 | 2007
+Tableau 14: Evolution du budget alloué à l'éducation (2005 à 2010) en millions de F CFA
+
+Années | 2005 |  | 2006 |  | 2007 |
 --- | --- | --- | --- | --- | --- | ---
 Secteurs | Dotation | Réalisation. | Dotation | Réalisation | Dotation | Réalisation
 MASSN | 4 297 | 367 | 4 528 | 2 130 | 5 262 | 2 947
-MEBA CAST/FSDEB FONAENF | 80 972 10 751 | 6 190 7 865 1 607 | 85 268 21 636 | 16 610 17 841 7 426 | 93 707 24 791 | 20 079 17 770 3 847
+MEBA | 80 972 | 6 190 | 85 268 | 16 610 | 93 707 | 20 079
+CAST/FSDEB | 10 751 | 7 865 | 21 636 | 17 841 | 24 791 | 17 770
+FONAENF |  | 1 607 |  | 7 426 |  | 3 847
 MESSRS | 37 579 | 2 599 | 43 270 | 23 723 | 58 628 | 27 029
 Budget Education | 133 599 | 18 628 | 154 702 | 67 730 | 182 388 | 71 672
 Budget Etat | 796 186 | 258 839 | 911 959 | 406 593 | 1 032 662 | 497 750
 Education/ Budget Etat | 16,77 | 7,19 | 16,96 | 16,65 | 17,66 | 14,39
-Années | 2008 | 2009 | 2010
+Années | 2008 |  | 2009 |  | 2010 |
 Secteurs | Dotation | Réalisation | Dotation | Réalisation | Dotation | Réalisation
-MASSN | 5 718 | 3 520 | 5 311 | 5 573 | 7 299
-MEBA CAST/FSDEB FONAENF | 101 862 23 848 | 24 325 22 564 | 103 488 15 131 | 89 651 12 846 | 125 990 13 867
-MESSRS | 64 771 | 29 402 | 56 681 | 51 756 | 74 069
-Budget Education | 196 199 | 79 811 | 18 0611 | 159 826 | 221 225
-Budget Etat | 1 008 730 | 502 166 | 1 219 606 | 876 047 | 1 162 865
-Education/ Budget Etat | 19,45 | 15,89 | 14,80 | 18,24 | 19,02
-
-Tableau 14: Evolution du budget alloué à l'éducation (2005 à 2010) en millions de F CFA
+MASSN | 5 718 | 3 520 | 5 311 | 5 573 | 7 299 |
+MEBA | 101 862 | 24 325 | 103 488 | 89 651 | 125 990 |
+CAST/FSDEB | 23 848 | 22 564 | 15 131 | 12 846 | 13 867 |
+FONAENF |  |  |  |  |  |
+MESSRS | 64 771 | 29 402 | 56 681 | 51 756 | 74 069 |
+Budget Education | 196 199 | 79 811 | 18 0611 | 159 826 | 221 225 |
+Budget Etat | 1 008 730 | 502 166 | 1 219 606 | 876 047 | 1 162 865 |
+Education/ Budget Etat | 19,45 | 15,89 | 14,80 | 18,24 | 19,02 |
 
 Source : MEF
 
@@ -2225,7 +2286,7 @@ Pour atteindre cette vision,  la mise en œuvre du PDSEB se fondera sur les prin
 
 -la  gouvernance  démocratique  du  système  éducatif basée  sur  les  principes  de la décentralisation, la déconcentration et la participation communautaire dans une dynamique partenariale  pour  une  éducation  inclusive,  égalitaire,  équitable  et  prenant  en  compte  les risques de catastrophes ainsi que des stratégies de leur réduction ;
 
--la  promotion du bilinguisme et l'introduction de l'anglais pour améliorer la qualité  de l'éducation de base. En effet, le développement des langues nationales en faisant de cellesci  des  supports  d'apprentissage  en  général  et  en  particulier  pour  l'apprentissage  des langues étrangères a montré toute sa pertinence dans le cadre des multiples expériences menées au Burkina Faso et ailleurs.  Dans  le  cadre  de  la  spécialisation  des  enseignants, l'introduction de l'anglais comme langue seconde après le français dès le primaire devient aisée et contribuera à assurer une ouverture supplémentaire de notre système éducatif au monde.
+-la promotion du bilinguisme et l'introduction de l'anglais pour améliorer la qualité de l'éducation de base. En effet, le développement des langues nationales en faisant de celles-ci des supports d'apprentissage en général et en particulier pour l'apprentissage des langues étrangères a montré toute sa pertinence dans le cadre des multiples expériences menées au Burkina Faso et ailleurs. Dans le cadre de la spécialisation des enseignants, l'introduction de l'anglais comme langue seconde après le français dès le primaire devient aisée et contribuera à assurer une ouverture supplémentaire de notre système éducatif au monde.
 
 ## 5 ORIENTATIONS STRATEGIQUES
 
@@ -2281,7 +2342,7 @@ Sur un flux de déscolarisés précoces du primaire oscillant entre 112 878 en 2
 
 -tous les élèves orientés dans le post primaire général auront la possibilité après la classe de 5 ème ou de 4 ème de s'orienter vers des cycles d'EFTP de courte durée préparant au CAP ou au CQP. 50% des élèves en provenance du CM2 ayant 14 ans et plus seront orientés vers l'enseignement post primaire technique. Parmi la cohorte des élèves orientés dans le post primaire général, 70% de ces élèves n'ayant pas achevé ce niveau et 50% de ceux l'ayant achevé sans obtenir  le BEPC,  seront tous  orientés  vers  la  formation  professionnelle.  Les apprenants en fin de cycle des métiers des CEBNF pourront également être orientés vers la formation professionnelle grâce à la passerelle ;
 
-Compte  tenu  des  caractéristiques  du  marché  du  travail  burkinabé  et    des  besoins  en emplois  des  secteurs  économiques  porteurs  ,  et  pour  éviter  le  déplacement  dugoulot d'étranglement  primaire/post  primaire  au  niveau  du  post  primaire/secondaire,  cette  voie d'orientation sera privilégiée par l'Etat tout en veillant à assurer un équitable accès à tous aux différents niveaux d'éducation.
+Compte tenu des caractéristiques du marché du travail burkinabé et des besoins en emplois des secteurs économiques porteurs , et pour éviter le déplacement du goulot d'étranglement primaire/post primaire au niveau du post primaire/secondaire, cette voie d'orientation sera privilégiée par l'Etat tout en veillant à assurer un équitable accès à tous aux différents niveaux d'éducation.
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -2291,13 +2352,13 @@ Page 41
 
 [[START OF PAGE 63]]
 
-### 5.4 Choix stratégique 4 : Accélération de l'alphabétisation avec pour ambitions,  d'une  part,  l'élimination  de  l'analphabétisme  à  sa  source  à travers    la  prise  en  charge  de  tous  les  adolescents  de  09-14  ans  à l'horizon  2021  et  d'autre  part,  l'alphabétisation/formation  de  15  ans  et plus avec une  attention particulière pour au moins 60% des jeunes de 1524 ans en 2015 et 75% en 2021 dont 60% de femmes.
+### 5.4 Choix stratégique 4 : Accélération de l'alphabétisation avec pour ambitions, d'une part, l'élimination de l'analphabétisme à sa source à travers la prise en charge de tous les adolescents de 09-14 ans à l'horizon 2021 et d'autre part, l'alphabétisation/formation de 15 ans et plus avec une attention particulière pour au moins 60% des jeunes de 15-24 ans en 2015 et 75% en 2021 dont 60% de femmes.
 
 Dans  le  cadre  du  Programme  national  d'accélération  de  l'alphabétisation  (PRONAA),  il  s'agit d'assurer un niveau d'alphabétisation de 60% à la population de 15 à 64 ans d'ici à 2015 et 75% en 2021.
 
 Pour le volet alphabétisation, le PDSEB en raison de ses capacités et contraintes, mettra la priorité sur les populations en quête d'alphabétisation en vue de mieux exercer des activités professionnelles.  De  ce  fait,  la  tranche  d'âges  ciblée  sera  celle  comprise  entre  15  et  44  ans.  Il s'agira d'alphabétiser et de former/initier aux métiers d'ici 2021 une proportion d'adultes en activité répartie  en  deux  tranches :  15  à  24  ans  et  25  à  44  ans.  Cet  engagement  du  PDSEB  est  en conformité  avec  les  indicateurs  de  la  SCADD  qui,  malgré  le  faible  taux  d'alphabétisation  de  la population adulte burkinabé, a décidé de mettre l'accent sur l'alphabétisation des jeunes de 15 à 24 ans dans sa première phase.
 
-Dans le domaine de l'éducation non formelle des adolescents, l'ambition est d'assurer l'encadrement d'au moins 75 000 adolescents par an au cours de la période 2012-2015 grâce à la création  de  nouvelles  structures  d'éducation  non  formelle  pour  adolescents  dans  le  cadre  du programme  Alphabétisation  pour  l'emploi. Il est prévu qu'à l'horizon  2021  l'ensemble  des adolescents déscolarisés précoces ou non scolariséssoient totalement pris en charge, soit dans des structures formelles ou non formelles.
+Dans le domaine de l'éducation non formelle des adolescents, l'ambition est d'assurer l'encadrement d'au moins 75 000 adolescents par an au cours de la période 2012-2015 grâce à la création de nouvelles structures d'éducation non formelle pour adolescents dans le cadre du programme Alphabétisation pour l'emploi. Il est prévu qu'à l'horizon 2021 l'ensemble des adolescents déscolarisés précoces ou non scolarisés soient totalement pris en charge, soit dans des structures formelles ou non formelles.
 
 La mise en œuvre de cette ambition mobilisera l'ensemble de la communauté éducative à travers les stratégies suivantes :
 
@@ -2327,15 +2388,15 @@ Page 42
 
 Le PDSEB constitue un cadre fédérateur pour mettre en place les conditions d'un développement harmonieux et durable du secteur éducatif du Burkina Faso. Il se veut un référentiel programmatique de la stratégie de croissance accélérée et de développement durable (SCADD) au niveau de l'éducation de base, notamment en son axe n° 2, portant sur la consolidation du capital humain  et  la  promotion  de  la  protection  sociale.  Il  tient  compte  des  engagements  nationaux  et internationaux  auxquels  le  Burkina  Faso  a  souscrit,  à  savoir  les  objectifs  du  millénaire  pour  le développement  (OMD)  et  les  objectifs  de  l'éducation  pour  tous  (EPT).  A  cet  effet,  les  objectifs globaux sont :
 
-- assurer  la  scolarisation  primaire  universelle  à  l'horizon  2021  et  la  transition  primaire complète  et  post  primaire  universelle  à  l'horizon  2025  afin  de  faire  de  l'enseignement  de base  obligatoire  de  dix  (10)  ans  une  réalité  pour  toutes  les  couches  sociales,  avec  une attention particulière pour l'équité du genre et l'inclusion ;
+1. assurer la scolarisation primaire universelle à l'horizon 2021 et la transition primaire complète et post primaire universelle à l'horizon 2025 afin de faire de l'enseignement de base obligatoire de dix (10) ans une réalité pour toutes les couches sociales, avec une attention particulière pour l'équité du genre et l'inclusion ;
 
-- améliorer la qualité de l'éducation de base formelle à tous les niveaux ;
+2. améliorer la qualité de l'éducation de base formelle à tous les niveaux ;
 
-- alphabétiser  et  former  prioritairement  les  jeunes  de  15-24  ans  arrivant  sur  le  marché  du travail, conformément aux orientations de la SCADD afin de contribuer d'une part à porter le taux d'alphabétisation à 60% en 2015 dont 60% de femmes et 75% en 2020 dont 60% de femmes et d'autre part, accroître le niveau de qualification des jeunes ;
+3. alphabétiser et former prioritairement les jeunes de 15-24 ans arrivant sur le marché du travail, conformément aux orientations de la SCADD afin de contribuer d'une part à porter le taux d'alphabétisation à 60% en 2015 dont 60% de femmes et 75% en 2020 dont 60% de femmes et d'autre part, accroître le niveau de qualification des jeunes ;
 
-- renforcer les capacités de  pilotage de l'éducation de base ;
+4. renforcer les capacités de pilotage de l'éducation de base ;
 
-- assurer une gestion financière efficace du programme.
+5. assurer une gestion financière efficace du programme.
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -2407,7 +2468,7 @@ Les principales actions consisteront à :
 
 - xrhombus Elaborer et mettre en œuvre la stratégie de réalisation des infrastructures éducatives qui prendra  en  compte  les  risques  de  catastrophes  telles  que  les  inondations  et  les  vents violents ;
 
-- xrhombus Construire et équiper les classes : Cette action concerne la construction en moyenne de 3 707 salles de classes par an dont la résorption annuelle de 547 salles de classe sous abris précaires. I l est  également  prévu  l'électrification  de  toutes  les  classes  soit  en  énergie solaire, soit en énergie conventionnelle selon les cas. Les nouvelles classes seront réalisées dans les zones noninondables. Les écoles à risque seront préalablement identifiées et un plan opérationnel de transfert de site  sera  mis en œuvre. Des digues de protection et des canaux d'évacuation seront réalisés autour des écoles situées dans des zones inondables. Un  fonds  ou  une  ligne  budgétaire  conséquente  sera  pré-positionné  pour  faire  face  aux situations d'urgence.
+- xrhombus Construire et équiper les classes : Cette action concerne la construction en moyenne de 3 707 salles de classes par an dont la résorption annuelle de 547 salles de classe sous abris précaires. Il est également prévu l'électrification de toutes les classes soit en énergie solaire, soit en énergie conventionnelle selon les cas. Les nouvelles classes seront réalisées dans les zones non-inondables. Les écoles à risque seront préalablement identifiées et un plan opérationnel de transfert de site sera mis en œuvre. Des digues de protection et des canaux d'évacuation seront réalisés autour des écoles situées dans des zones inondables. Un fonds ou une ligne budgétaire conséquente sera pré-positionné pour faire face aux situations d'urgence.
 
 - xrhombus Réhabiliter  les  salles  de  classe :  Le  PDSEB  devra  procéder  à  la  réhabilitation  de  200 salles de classe par an entre 2012 et 2021.
 
@@ -2469,7 +2530,7 @@ La mise en œuvre du PDSEB au cours de la période visée se fera en passant de 
 
 Une partie des personnels MEJE, EJE et IEJE déjà engagée sera progressivement orientée vers les structures de protection de jeunes enfants (crèche, pouponnière, orphelinat), compte tenu des attributions et du champ d'interventions de l'éducateur de jeunes enfants.
 
-Pour ce faire, le choix stratégique consiste à mettre l'accent sur le recrutement d'enseignants du pré scolaire qui auront le même profil que les enseignants du primaire à partir de 2013 et formés au sein des ENEP. Il s'agira d'avoir par classe  un enseignant du préscolaire assisté d'un-e animateurtrice  du  préscolaire, en capitalisant  l'expérience  des  petites  mamans et des petits papas dans le non formel au profit des structures formelles. Les animateurs-trices du pré scolaire seront formés dans les CPAF après les trois niveaux de l'alphabétisation (AI, FCB et A3F) ou dans des structures d'EFTP spécialisées. Leur prise en charge se fera au niveau des collectivités territoriales.
+Pour ce faire, le choix stratégique consiste à mettre l'accent sur le recrutement d'enseignants du pré scolaire qui auront le même profil que les enseignants du primaire à partir de 2013 et formés au sein des ENEP. Il s'agira d'avoir par classe un enseignant du préscolaire assisté d'un-e animateur-trice du préscolaire, en capitalisant l'expérience des petites mamans et des petits papas dans le non formel au profit des structures formelles. Les animateurs-trices du pré scolaire seront formés dans les CPAF après les trois niveaux de l'alphabétisation (AI, FCB et A3F) ou dans des structures d'EFTP spécialisées. Leur prise en charge se fera au niveau des collectivités territoriales.
 
 Pour opérationnaliser cette stratégie, les actions ci-après seront menées :
 
@@ -2561,7 +2622,7 @@ Page 50
 
 L'état nutritionnel des enfants sera couvert à travers l'action suivante :
 
-- xrhombus Assurer à tous les élèves l'accès à la cantine scolaire : tous les élèves bénéficieront d'un repas à la cantine scolaire qui sera élargie à l'ensemble des écoles du pays en accordant une  attention  particulière  aux  enfants  situés  dans  les  zones  à  insécurité  alimentaire chronique par un meilleur ciblage spatio-temporel. Pour accroître les capacités d'autonomie de prise en charge des écoles, il sera encouragé dans les écoles, la pratique d es activités de production en maraîcher-culture et en élevage. Du reste, l'éducation à la nutrition est déjà intégrée dans les programmes d'enseignement. Afin d'éviter des dysfonctionnements liés à la faible capacité de prise en charge communautaire des cantines, il sera entrepris des actions d'habilitation communautaire de manière à optimiser les cantines endogènes.
+- xrhombus Assurer à tous les élèves l'accès à la cantine scolaire : tous les élèves bénéficieront d'un repas à la cantine scolaire qui sera élargie à l'ensemble des écoles du pays en accordant une attention particulière aux enfants situés dans les zones à insécurité alimentaire chronique par un meilleur ciblage spatio-temporel. Pour accroître les capacités d'autonomie de prise en charge des écoles, il sera encouragé dans les écoles, la pratique des activités de production en maraîcher-culture et en élevage. Du reste, l'éducation à la nutrition est déjà intégrée dans les programmes d'enseignement. Afin d'éviter des dysfonctionnements liés à la faible capacité de prise en charge communautaire des cantines, il sera entrepris des actions d'habilitation communautaire de manière à optimiser les cantines endogènes.
 
 #### 6.1.4 Sous-programme 4 : Promotion de l'égalité et l'équité d'accès pour tous
 
@@ -2625,7 +2686,7 @@ Page 52
 
 [[START OF PAGE 74]]
 
-- xrhombus S ensibiliser les populations à participer au programme d'éducation parentale qui sera développé  pour  permettre  aux  parents  de  mieux  s'impliquer  dans  l'éducation  de  leurs enfants et d'améliorer la demande d'éducation préscolaire.
+- xrhombus Sensibiliser les populations à participer au programme d'éducation parentale qui sera développé pour permettre aux parents de mieux s'impliquer dans l'éducation de leurs enfants et d'améliorer la demande d'éducation préscolaire.
 
 - xrhombus Mettre en œuvre la stratégie de mobilisation sociale adoptée dans le document cadre de mobilisation sociale.
 
@@ -2739,7 +2800,7 @@ Enfin, les curricula rénovés reposeront sur le principe de la vision holistiqu
 
 - xrhombus Réviser périodiquement les curricula de l'éducation de base selon les besoins identifiés sur la base des résultats des tests sur les acquis des apprentissages : les curricula seront dynamiques.  Pour  cela,  les  règles  de  révision  seront  scrupuleusement  respectées  en  se fondant sur les évaluations des performances des élèves et des acquis scolaires.
 
-- xrhombus Réviser  les  programmes  de  formation  des  enseignants pour  prendre  en  compte  les différentes mesures de réforme (spécialisation des enseignants, généralisation du bilinguisme, développement du préscolaire, enseignement de l'anglais, TICE, éducation en situation d'urgence et la prévention des désastres, éducation inclusive, etc.). Les nouveaux curricula des écoles de formation des enseignants seront en phase avec ceux des niveaux auxquels  ils  sont  censés  préparés.  Ils  conditionneront  le  profil  de  l'enseignant  recherché capable d'assurer la médiation entre le savoir et l'élève dans un processus d'enseignementapprentissage fructueux plaçant l'élève au centre des apprentissages.
+- xrhombus Réviser  les  programmes  de  formation  des  enseignants pour  prendre  en  compte  les différentes mesures de réforme (spécialisation des enseignants, généralisation du bilinguisme, développement du préscolaire, enseignement de l'anglais, TICE, éducation en situation d'urgence et la prévention des désastres, éducation inclusive, etc.). Les nouveaux curricula des écoles de formation des enseignants seront en phase avec ceux des niveaux auxquels  ils  sont  censés  préparés.  Ils  conditionneront  le  profil  de  l'enseignant  recherché capable d'assurer la médiation entre le savoir et l'élève dans un processus d'enseignement-apprentissage fructueux plaçant l'élève au centre des apprentissages.
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -2855,9 +2916,9 @@ A  cet  égard,  l'action  phare  qui  sera  menée  portera  sur la  dotation  
 
 La mise en œuvre des PEQ et/ou des EQAmE sera facilitée par les actions suivantes :
 
-- xrhombus Mettre à la disposition de tous les établissements scolaires une grille d'élaboration des projets  d'école  de  qualité  pour  leur  permettre  d'entrer  dans  une  logique  de  microplanification.
+- xrhombus Mettre à la disposition de tous les établissements scolaires une grille d'élaboration des projets  d'école  de  qualité  pour  leur  permettre  d'entrer  dans  une  logique  de  micro-planification.
 
-- xrhombus Former  les  acteurs  en  éducation,  notamment  les  directeurs  d'écoles en  microplanification et en montage de projets d'école.
+- xrhombus Former  les  acteurs  en  éducation,  notamment  les  directeurs  d'écoles en  micro-planification et en montage de projets d'école.
 
 - xrhombus Allouer des  crédits  au  titre  des  transferts  pour  assurer  le  financement  des  initiatives novatrices.
 
@@ -2901,11 +2962,11 @@ Page 62
 
 [[START OF PAGE 84]]
 
-- des  enseignants,  sinon  éliminer  ce  phénomène  et  ainsi,  faire  passer  le  taux  effectif  des heures d'apprentissage de 60% en 2008 à 100% en 2015.
+des  enseignants,  sinon  éliminer  ce  phénomène  et  ainsi,  faire  passer  le  taux  effectif  des heures d'apprentissage de 60% en 2008 à 100% en 2015.
 
 - xrhombus Développer des programmes d'électrification permettant aux apprenants de réaliser des études à domicile :  les  expériences  du  programme « Une Lampe pour l'Afrique » et d'autres  initiatives  conduites  par  les  ONG  feront  l'objet  d'une  évaluation  puis  capitalisées avant  d'être  portées  à  l'échelle  si  les  résultats  sont  concluants.  En  tout  état  de  cause, l'électrification  des  écoles  présente  un  avantage  certain  pour  l'amélioration  du  temps d'apprentissage ainsi que la mutualisation des infrastructures avec le non formel et le post primaire.
 
-Au  total,  la  mise  en  œuvre  de  ce  programme  à  travers  ses  sous  programmes  accentue  ses interventions sur les facteurs internes identifiés comme déterminants sur la qualité de l'éducation afin de favoriser les interactions porteuses d'apprentissage et partant, d'acquis scolaires en termes d'efficacité interne et externe, grâce à l'espace supplémentaire d'apprentissage mené dans le cadre des  projets  d'établissement  qui  reposent  sur  trois  principes :  l'enfant-centrisme,  l'inclusion  et  la participation  démocratique.  Le  projet  d'établissement  fait  ainsi  le  lien  entre  les  facteurs  extrascolaires et les facteurs dits scolaires.
+Au  total,  la  mise  en  œuvre  de  ce  programme  à  travers  ses  sous  programmes  accentue  ses interventions sur les facteurs internes identifiés comme déterminants sur la qualité de l'éducation afin de favoriser les interactions porteuses d'apprentissage et partant, d'acquis scolaires en termes d'efficacité interne et externe, grâce à l'espace supplémentaire d'apprentissage mené dans le cadre des  projets  d'établissement  qui  reposent  sur  trois  principes :  l'enfant-centrisme,  l'inclusion  et  la participation  démocratique.  Le  projet  d'établissement  fait  ainsi  le  lien  entre  les  facteurs  extra-scolaires et les facteurs dits scolaires.
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -2939,13 +3000,13 @@ Page 64
 
 ##### 6.3.1.1 Objectif spécifique 1 : Augmenter la capacité d'accueil des structures d'éducation non formelle de la petite enfance
 
-L'ambition dans le cadre du PDSEB est en termes d'accès de faire passer l e nombre d'enfants de 25 000 en 2011 à 50 000 en 2015 et 100 000 en 2021. Afin de permettre à toutes les zones rurales et  périurbaines  de  bénéficier  des  avantages  de  l'éducation  préscolaire,  l'Etat  et  ses  partenaires veilleront à :
+L'ambition dans le cadre du PDSEB est en termes d'accès de faire passer le nombre d'enfants de 25 000 en 2011 à 50 000 en 2015 et 100 000 en 2021. Afin de permettre à toutes les zones rurales et  périurbaines  de  bénéficier  des  avantages  de  l'éducation  préscolaire,  l'Etat  et  ses  partenaires veilleront à :
 
 - xrhombus Construire  des  infrastructures  d'éducation  non  formelle  de  la  petite  enfance :  97 structures communautaires seront réalisées par an au cours de la période. Ainsi, le nombre de Bisongo et structures assimilées passera de 260 en 2011 à 627 en 2015 soit plus du double  à  construire  à  l'horizon  2015    pour  atteindre  1 111  en  2021.  L'architecture  des structures actuelles sera revue pour intégrer la dimension « complexe éducatif » prenant en compte le pré scolaire, le  primaire,  le  post  primaire  et  l'éducation  non  formelle,  dans  une perspective de maîtrise des coûts.
 
 - xrhombus Réhabiliter  et  réfectionner  les  infrastructures  défectueuses :  20%  des  infrastructures existantes seront réhabilitées chaque année. Les dispositifs temporaires seront prévus dans les mêmes conditions que les structures formelles.
 
-- xrhombus Ouvrir  des  haltes-garderies  dans  les  centres  d'alphabétisation :  tous  les  centres d'alphabétisation  seront  couverts  de  ces  structures  en  tant  que  de  besoin.  Les  haltesgarderies  seront  incorporées  au  dispositif  des  programmes  d'alphabétisation  et  leurs animatrices et animateurs formés dans le cadre des FTS.
+- xrhombus Ouvrir  des  haltes-garderies  dans  les  centres  d'alphabétisation :  tous  les  centres d'alphabétisation  seront  couverts  de  ces  structures  en  tant  que  de  besoin.  Les  haltes-garderies  seront  incorporées  au  dispositif  des  programmes  d'alphabétisation  et  leurs animatrices et animateurs formés dans le cadre des FTS.
 
 ##### 6.3.1.2 Objectif spécifique 2 : Promouvoir l'éducation non formelle des adolescents
 
@@ -2965,7 +3026,7 @@ Le PDSEB prendra également en compte le plan de généralisation de la formatio
 
 Dans  ces  dispositifs  d'éducation  non  formelle  comprenant  l'alphabétisation  et  la  formation  aux métiers,  la  possibilité  pour  les  apprenants  qui  le  peuvent  ou  le  veulent  d'intégrer  le  dispositif classique reste ouverte par l'instauration de passerelles entre les différents sous systèmes et par la certification des compétences professionnelles ou la valorisation des acquis de l'expérience.
 
-Les dispositions pour l'insertion professionnelle ne sont pas perdues  de vue. Elles sont concomitamment développées en même temps que le processus de formation, d'apprentissage ou d'alphabétisation. Plusieurs possibilités sont exploitées : la formation alternée, la formation en intraentreprise, le développement des incubateurs d'entreprises, l'aide à l'apprenant dans la formulation d'un projet personnel, etc.
+Les dispositions pour l'insertion professionnelle ne sont pas perdues  de vue. Elles sont concomitamment développées en même temps que le processus de formation, d'apprentissage ou d'alphabétisation. Plusieurs possibilités sont exploitées : la formation alternée, la formation en intra-entreprise, le développement des incubateurs d'entreprises, l'aide à l'apprenant dans la formulation d'un projet personnel, etc.
 
 A terme, tous les enfants non scolarisés au nombre de 775 450 en 2011 seront ramenés à 61 889 en 2015 et tous pris en charge à l'horizon 2021 28 .
 
@@ -3001,7 +3062,7 @@ Page 66
 
 [[START OF PAGE 88]]
 
-- charges  à  assurer  l'encadrement  de  50%  des  charges dans  le  cadre  de  la  stratégie  du « faire faire ».
+charges  à  assurer  l'encadrement  de  50%  des  charges dans  le  cadre  de  la  stratégie  du « faire faire ».
 
 - xrhombus Ouvrir  des    Centres  d'alphabétisation  de  base  pour  adolescents : 3393  salles d'alphabétisation  de  base  seront  ouvertes  au cours  de  la même  période  pour  prendre  en charge en moyenne 83 529 adolescents de 2012 à 2015.
 
@@ -3207,7 +3268,7 @@ Une des exigences des nouveaux curricula est l'élaboration de documents de post
 
 De manière plus générale, la mise en œuvre du PDSEB aidera à :
 
-- xrhombus Elaborer  et  traduire  en  langues  nationales des  manuels  de  référence  sur  l'éducation parentale : ceci en raison de la faiblesse de l'environnement lettré et pour permettre la prise en  charge  communautaire  des  enfants  non  inscrits  dans  les  structures  d'éducation préscolaire.  La  production  de  ces  matériels  se  fera  à  travers  la  promotion  de  l'intersectorialité  dans  le  cadre  de  conventions,  de  partenariats  entre  ministères  en  charge  de l'éducation,  de  la  santé  et  des  affaires  sociales,  de  l'Eau  et  de  l'Assainissement,  les organisations  de  la  société  civile,  les  collectivités  territoriales,  chacun  en  fonction  de  ses compétences pour toucher une large couche de la population.
+- xrhombus Elaborer  et  traduire  en  langues  nationales des  manuels  de  référence  sur  l'éducation parentale : ceci en raison de la faiblesse de l'environnement lettré et pour permettre la prise en  charge  communautaire  des  enfants  non  inscrits  dans  les  structures  d'éducation préscolaire.  La  production  de  ces  matériels  se  fera  à  travers  la  promotion  de  l'inter-sectorialité  dans  le  cadre  de  conventions,  de  partenariats  entre  ministères  en  charge  de l'éducation,  de  la  santé  et  des  affaires  sociales,  de  l'Eau  et  de  l'Assainissement,  les organisations  de  la  société  civile,  les  collectivités  territoriales,  chacun  en  fonction  de  ses compétences pour toucher une large couche de la population.
 
 - xrhombus Assurer  la  production  et  la  reproduction du  matériel  didactique  de  l'ensemble  des niveaux (petite enfance, adolescents, jeunes et adultes) avec l'appui des marchés local et international d'impression.
 
@@ -3261,7 +3322,7 @@ accéder soit à d'autres niveaux d'études ou de formation ou au marché de l'e
 
 ##### 6.3.2.7 Objectif spécifique 7 : Développer  la recherche action et la recherche développement en éducation non formelle
 
-A l'instar du programme d'éducation formelle, l'éducation non formelle en raison de la complexité même de ses cibles est le terrain  de  prédilection  des  innovations,  donc  résultats  de  recherches appliquées.  Aussi,  afin  de  renforcer  le  programme  régulier  d'alphabétisation  et  d'éducationformation  alternative  déjà  disponible  pour  la  petite  enfance,  les  adolescents  et  les  adultes,  un dispositif de recherche action et de recherche développement sera mis en place avec l'appui des universités  et  des  professionnels  de  divers  domaines  pour  poursuivre  le  développement  de nouveaux programmes et de nouvelles approches. Un institut chargé de la recherche en éducation formelle et non formelle pourrait être créé à cet effet. Pour cela, les actions phares suivantes seront mises en œuvre :
+A l'instar du programme d'éducation formelle, l'éducation non formelle en raison de la complexité même de ses cibles est le terrain  de  prédilection  des  innovations,  donc  résultats  de  recherches appliquées.  Aussi,  afin  de  renforcer  le  programme  régulier  d'alphabétisation  et  d'éducation-formation  alternative  déjà  disponible  pour  la  petite  enfance,  les  adolescents  et  les  adultes,  un dispositif de recherche action et de recherche développement sera mis en place avec l'appui des universités  et  des  professionnels  de  divers  domaines  pour  poursuivre  le  développement  de nouveaux programmes et de nouvelles approches. Un institut chargé de la recherche en éducation formelle et non formelle pourrait être créé à cet effet. Pour cela, les actions phares suivantes seront mises en œuvre :
 
 - xrhombus Evaluer  tous  les  trois  ans  l'impact  des  programmes afin  de  déceler  leurs  limites  et prospecter  des  solutions  qui  seront  expérimentées  puis  mises  à  l'échelle,  si  les  résultats sont concluants.
 
@@ -3297,7 +3358,7 @@ Page 75
 
 [[START OF PAGE 97]]
 
-- formelle des adolescents : au niveau des néo-alphabètes,  l'accent sera mis sur l'utilisation effective des acquis de l'alphabétisation pour la préprofessionnalisation ou la professionnalisation.  Cela  revient  à  prendre  des  mesures  volontaristes,  d'une  part,  en matière de politiques d'infrastructures dans le domaine, de manière à disposer d'ouvrages permanents et d'autre part en matière de mutualisation des ressources avec les structures d'éducation non formelle des adolescents qui disposent d'ateliers techniques équipés.
+formelle des adolescents : au niveau des néo-alphabètes,  l'accent sera mis sur l'utilisation effective des acquis de l'alphabétisation pour la préprofessionnalisation ou la professionnalisation.  Cela  revient  à  prendre  des  mesures  volontaristes,  d'une  part,  en matière de politiques d'infrastructures dans le domaine, de manière à disposer d'ouvrages permanents et d'autre part en matière de mutualisation des ressources avec les structures d'éducation non formelle des adolescents qui disposent d'ateliers techniques équipés.
 
 - xrhombus Aider les jeunes et adultes formés à démarrer des activités économiques : à cet égard les programmes  d'insertion socioprofessionnelle des jeunes seront fortement mis à contribution.
 
@@ -3625,23 +3686,23 @@ Cependant  la  capacité  nationale  annuelle  moyenne  de  financement  en  201
 
 L'exécution du PDSEB suivra la nomenclature du budget programme en vigueur dans le secteur de l'éducation.  De  ce  fait  le  budget  est  désagrégé  autour  des  quatre  (4)  programmes  que  sont :  le développement de l'accès de l'éducation de base formelle, l'amélioration de la qualité de l'éducation de base formelle, le développement de l'éducation non formelle, et le pilotage du sous-secteur de l'éducation  de  base  formelle  et  de  l'éducation  non  formelle  (y  compris  la  gestion  efficace  et efficiente du programme). Ces quatre programmes requièrent des financements dont les montants sont regroupés dans le tableau ci-dessous :
 
-Montant (millions de FCFA) | en % du budget total
---- | --- | ---
-Coût total PDSEB | 4 863 745 | 100%
-Programme 1 : Développement de l'accès à l'éducation de base formelle | 3 181 153 | 65%
-dont salaire | 2 087 162 | 43%
-dont infrastructures + subventions + autres | 1 093 991 | 22%
-Programme 2 : Amélioration de la qualité de l'éducation de base formelle | 533 283 | 11%
-Programme 3 : Développement de l'éducation non formelle y compris Formation professionnelle | 448 492 | 9%
-Programme 4 : Pilotage du PDSEB du secteur de l'éducation de base formelle et l'éducation non formelle y compris Salaire et Formation continue des personnels d'administration et d'encadrement | 700 817 | 14%
-+
-Programme 5 : Gestion efficace et efficiente du Programme
-
 Tableau 15: Part de chaque programme dans le budget du PDSEB
+
+| | Montant (millions de FCFA) | en % du budget total |
+|---|---:|---:|
+| Coût total PDSEB | 4 863 745 | 100% |
+| Programme 1 : Développement de l'accès à l'éducation de base formelle | 3 181 153 | 65% |
+| dont salaire | 2 087 162 | 43% |
+| dont infrastructures + subventions + autres | 1 093 991 | 22% |
+| Programme 2 : Amélioration de la qualité de l'éducation de base formelle | 533 283 | 11% |
+| Programme 3 : Développement de l'éducation non formelle y compris Formation professionnelle | 448 492 | 9% |
+| Programme 4 : Pilotage du PDSEB du secteur de l'éducation de base formelle et l'éducation non formelle y compris Salaire et Formation continue des personnels d'administration et d'encadrement | 700 817 | 14% |
+| + | | |
+| Programme 5 : Gestion efficace et efficiente du Programme | | |
 
 Source : Modèle de simulation financière du PDSEB
 
-Le coût de chaque programme  contient, les investissements matériels (infrastructures et équipements)  et  immatériels  (formation  des  acteurs,  réalisation  des  études,  élaboration  des curricula,  programmes  et  supports  didactiques,  etc.)  le  fonctionnement  ainsi  que  les  autres dépenses.
+Le coût de chaque programme contient, les investissements matériels (infrastructures et équipements) et immatériels (formation des acteurs, réalisation des études, élaboration des
 
 > 30 Ce montant d'environ 183 milliards de FCFA/an correspond à l'engagement en faveur de l'éducation dans le budget national de 2012.
 
@@ -3653,23 +3714,25 @@ Page 86
 
 [[START OF PAGE 108]]
 
+curricula, programmes et supports didactiques, etc.) le fonctionnement ainsi que les autres dépenses.
+
 Malgré la prise en compte des coûts liés aux éléments du référentiel de qualité et de ceux liés au développement  de  l'éducation  non  formelle  issus  du  PRONAA,  on  constate  que  le  programme « Développement de l'accès de l'éducation de base formelle » représente 65% du coût du PDSEB, dont  plus  de  la  moitié  de  cette  enveloppe  va  dans  les  salaires.  Cela  se  justifie  par  le  fait  que nonobstant les efforts et les acquis du PDDEB, le pays devra doubler sa capacité actuelle d'ici à 2021 en raison de la pression démographique, d'où un nombre important d'infrastructures à réaliser et/ou à réhabiliter au cours de la période. En effet, le nombre de bénéficiaires directs pour tous les sous secteurs de l'éducation de base va au moins doubler entre la fin du PDDEB et de celle du PDSEB comme l'indique le tableau ci-dessous.
 
-Sous secteur de | Nombre de bénéficiaires | Taux de croissance entre | Proportion
---- | --- | --- | --- | --- | --- | --- | ---
-l'éducation de base | en 2011 (PDDEB) | en 2015 (PDSEB) | en 2021 (PDSEB) | 2011 et 2015 | 2011 et 2021 | 2015 sur 2011 | 2021 sur 2011
-Education préscolaire | 69 363 | 161 847 | 317 647 | 133,3% | 357,9% | 2,33 | 4,58
-Enseignement primaire | 2 344 031 | 3 196 682 | 4 179 681 | 36,4% | 78,3% | 1,36 | 1,78
-Enseignement post-primaire général | 536 927 | 905 247 | 1 608 434 | 68,6% | 199,6% | 1,69 | 3,00
-EFTP post primaire | 52 179 | 287 822 | 192 046 | 451,6% | 268,1% | 5,52 | 3,68
-Education non formelle de la petite enfance | 20 832 | 52 499 | 100 000 | 152,0% | 380,0% | 2,52 | 4,80
-Education non formelle des adolescents 9 - 15 ans | 19 693 | 30 752 | - | 56,2% | 1,56 | -
-Alphabétisation et formation des jeunes et adultes
-Alphabétisation initiale | 386 234 | 541 858 | 26 006 | 40,3% | -93,3% | 1,40 | 0,07
-FCB | 97 976 | 471 057 | 253 979 | 380,8% | 159,2% | 4,81 | 2,59
-Cycle optionnels | 67 596 | 499 378 | 162 790 | 638,8% | 140,8% | 7,39 | 2,41
-
 Tableau 16 : Evolution du nombre de bénéficiaires directs du PDSEB
+
+| Sous secteur de l'éducation de base | Nombre de bénéficiaires | | | Taux de croissance entre | | Proportion | |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| | en 2011 (PDDEB) | en 2015 (PDSEB) | en 2021 (PDSEB) | 2011 et 2015 | 2011 et 2021 | 2015 sur 2011 | 2021 sur 2011 |
+| Education préscolaire | 69 363 | 161 847 | 317 647 | 133,3% | 357,9% | 2,33 | 4,58 |
+| Enseignement primaire | 2 344 031 | 3 196 682 | 4 179 681 | 36,4% | 78,3% | 1,36 | 1,78 |
+| Enseignement post-primaire général | 536 927 | 905 247 | 1 608 434 | 68,6% | 199,6% | 1,69 | 3,00 |
+| EFTP post primaire | 52 179 | 287 822 | 192 046 | 451,6% | 268,1% | 5,52 | 3,68 |
+| Education non formelle de la petite enfance | 20 832 | 52 499 | 100 000 | 152,0% | 380,0% | 2,52 | 4,80 |
+| Education non formelle des adolescents 9 – 15 ans | 19 693 | 30 752 | - | 56,2% | | 1,56 | - |
+| Alphabétisation et formation des jeunes et adultes | | | | | | | |
+| Alphabétisation initiale | 386 234 | 541 858 | 26 006 | 40,3% | -93,3% | 1,40 | 0,07 |
+| FCB | 97 976 | 471 057 | 253 979 | 380,8% | 159,2% | 4,81 | 2,59 |
+| Cycle optionnels | 67 596 | 499 378 | 162 790 | 638,8% | 140,8% | 7,39 | 2,41 |
 
 Source : Evaluation PDDEB et modèle de simulation PDSEB
 
@@ -3701,7 +3764,7 @@ Le  principe  de  la  gratuité  de  l'éducation  de  base  affirmée  par  le 
 
 ### 8.1 La réforme du préscolaire, du primaire et du post primaire en continuum
 
-L'ensemble des acteurs de l'éducation  au  Burkina  Faso  sont  unanimes  sur  les  efforts  à  réaliser pour  l'amélioration  de  la  qualité.  Au  niveau  du  primaire,  compte  tenu  de  l'environnement  socioéconomique, beaucoup d'élèves n'arrivent pas à engranger des acquis suffisants. Cependant, il est établi  que  les  pays  qui  ont  su  mettre  l'accent  sur  le  préscolaire  dans  leur  système  éducatif développent  un  potentiel  énorme  en  termes  de  créativité  et  d'innovation  chez  l'enfant  qui  lui permettent de mieux réussir le cycle primaire. Par delà les gains pédagogiques sur le plan de la performance et de la réussite scolaires des enfants préscolarisés, des gains économiques résultent de la réduction de la durée de la scolarité qui s'accompagne généralement d'une réduction de la pression  sur  le  temps  d'apprentissage  qui  fait  davantage  plus  de  place  aux  apprentissages informels dans un environnement stimulant..
+L'ensemble des acteurs de l'éducation  au  Burkina  Faso  sont  unanimes  sur  les  efforts  à  réaliser pour  l'amélioration  de  la  qualité.  Au  niveau  du  primaire,  compte  tenu  de  l'environnement  socio-économique, beaucoup d'élèves n'arrivent pas à engranger des acquis suffisants. Cependant, il est établi  que  les  pays  qui  ont  su  mettre  l'accent  sur  le  préscolaire  dans  leur  système  éducatif développent  un  potentiel  énorme  en  termes  de  créativité  et  d'innovation  chez  l'enfant  qui  lui permettent de mieux réussir le cycle primaire. Par delà les gains pédagogiques sur le plan de la performance et de la réussite scolaires des enfants préscolarisés, des gains économiques résultent de la réduction de la durée de la scolarité qui s'accompagne généralement d'une réduction de la pression  sur  le  temps  d'apprentissage  qui  fait  davantage  plus  de  place  aux  apprentissages informels dans un environnement stimulant..
 
 Aussi, tirant les enseignements de ces bonnes pratiques, le PDSEB, après l'analyse des options possibles pour le système éducatif burkinabé qui se veut être au service d'un Burkina émergent propose-t-il une réforme en profondeur du préscolaire, du primaire et du post primaire qui devront former  désormais  un  continuum  conformément  à  l'esprit  de  la  Loi  d'orientation  de  l'éducation.  Il s'agit de manière concrète de :
 
@@ -3827,7 +3890,7 @@ La réussite des réformes indispensables est aussi tributaire des résultats de
 
 ### 9.5 Les risques liés aux situations d'urgence
 
-La mise en œuvre du PDDEB a montré clairement la vulnérabilité du système éducatif face aux situations  d'urgence  liées  aux  crises  et  conflits  sociaux  internes  et  externes  (crises  ivoiriennes depuis  le  début  des  années  2000,  troubles  sociaux  et  politiques,  etc.)  aux  phénomènes  du changement  climatique  et  aux  aléas  climatiques  (inondations  du  1 er septembre  2009,  pénuries alimentaires à répétition dues aux caprices pluviométriques, etc.) Le défi demeure donc de savoir comment  développer  une  capacité  de  résilience  nationale  face  à  de  tels  phénomènes,  parfois imprévisibles  à  travers  des  mécanismes  de  prévention  et  de  gestion  efficaces.  Ce  programme intègre la question des urgences dont la gestion va au-delà du secteur de l'éducation nécessite une vision nationale plus globale et sensible à la place et rôle que doit jouer l'éducation.
+La mise en œuvre du PDDEB a montré clairement la vulnérabilité du système éducatif face aux situations  d'urgence  liées  aux  crises  et  conflits  sociaux  internes  et  externes  (crises  ivoiriennes depuis  le  début  des  années  2000,  troubles  sociaux  et  politiques,  etc.)  aux  phénomènes  du changement  climatique  et  aux  aléas  climatiques  (inondations  du  1 er septembre  2009,  pénuries alimentaires à répétition dues aux caprices pluviométriques, etc.) Le défi demeure donc de savoir
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -3836,6 +3899,8 @@ Page 93
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
+
+comment développer une capacité de résilience nationale face à de tels phénomènes, parfois imprévisibles à travers des mécanismes de prévention et de gestion efficaces. Ce programme intègre la question des urgences dont la gestion va au-delà du secteur de l'éducation nécessite une vision nationale plus globale et sensible à la place et rôle que doit jouer l'éducation.
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -3935,7 +4000,7 @@ MEBA  (2007) : Lettre  de  contrôle  interne  et  analyses  spécifiques  CAST-
 
 MEBA  (2007) : Rapport  de  mise  en  œuvre  du  PDDEB,  Janvier  à  Décembre  2006,  Version amendée par les directeurs centraux du MEBA, Neuvième  rapport, 66p
 
-MEBA (Décembre 2009) : Audit technique et économiques des infrastructures scolaires du PDDEBPériode 2003 à 2007 ;
+MEBA (Décembre 2009) : Audit technique et économiques des infrastructures scolaires du PDDEB-Période 2003 à 2007 ;
 
 MEBA (2008)  : Tendances  récentes  et  situation  actuelle  de  l'éducation  et  de  la  formation  des adultes (EdFoA) ; rapport national du Burkina Faso, 42p ;
 
@@ -3997,7 +4062,7 @@ Décret n° 2009-109/PRES/PM/MFPRE/MATD/MEF du 03 mars 2009 , portant modalités
 
 Décret  n° 2010-057/PRES/PM/MEBA  du  19  février  2010 ,  portant  organisation  du  ministère  de l'Enseignement de base et de l'Alphabétisation ;
 
-Décret n° 2011-O55/PRES/PM/MESSRS du 17 février 2011 , portant organisation du ministère des Enseignements secondaire, supérieur et de la Recherche scientifique ;
+Décret n° 2011-055/PRES/PM/MESSRS du 17 février 2011 , portant organisation du ministère des Enseignements secondaire, supérieur et de la Recherche scientifique ;
 
 ### ARRETES
 
@@ -4041,6 +4106,49 @@ Page 99
 
 ## Table des matières
 
+LISTE DES ACRONYMES ..................................................................................................................................................... IV
+LISTE DES TABLEAUX ....................................................................................................................................................... VIII
+LISTE DES FIGURES .......................................................................................................................................................... VIII
+CLARIFICATION DES CONCEPTS ..................................................................................................................................... IX
+AVANT PROPOS ................................................................................................................................................................... XII
+RESUME EXECUTIF ............................................................................................................................................................ XIV
+INTRODUCTION ...................................................................................................................................................................... 1
+1 CONTEXTE SOCIO-ECONOMIQUE ET POLITIQUE DU PAYS ................................................................................ 3
+1.1 CONTEXTE POLITIQUE ....................................................................................................................................................... 3
+1.2 CONTEXTE DEMOGRAPHIQUE ........................................................................................................................................... 4
+1.3 CONTEXTE SOCIOCULTUREL ............................................................................................................................................ 4
+1.4 CONTEXTE MACRO-ECONOMIQUE ET BUDGETAIRE .......................................................................................................... 4
+1.5 LES RISQUES DE CATASTROPHES NATURELLES ET DE CONFLITS ..................................................................................... 6
+2 MISSION DU SECTEUR DE L'EDUCATION ................................................................................................................ 7
+2.1 STRUCTURATION ET ORGANISATION DU SYSTEME EDUCATIF BURKINABE ....................................................................... 7
+2.1.1 L'éducation formelle ............................................................................................................................................... 7
+2.1.2 L'éducation non formelle ....................................................................................................................................... 7
+2.2 LE CADRE INSTITUTIONNEL DE GESTION DU SYSTEME EDUCATIF BURKINABE ................................................................. 8
+2.3 LE PERIMETRE DE L'EDUCATION DE BASE AU BURKINA FASO .......................................................................................... 9
+3 SITUATION DU SECTEUR ............................................................................................................................................ 9
+3.1 SITUATION NATIONALE DU SECTEUR ................................................................................................................................. 9
+3.1.1 Au préscolaire ......................................................................................................................................................... 9
+3.1.2 Au primaire ............................................................................................................................................................ 11
+3.1.3 Dans l'enseignement post-primaire et secondaire ......................................................................................... 14
+3.1.4 La formation et l'enseignement techniques et professionnels ...................................................................... 15
+3.1.5 Au niveau de l'éducation non formelle .............................................................................................................. 16
+3.2 SITUATION DES INTERVENTIONS ANTERIEURES .............................................................................................................. 17
+3.2.1 Bilan de la mise en œuvre du PDDEB 2001-2011 .......................................................................................... 17
+3.2.1.1 Au niveau de l'accès ........................................................................................................................................................... 17
+3.2.1.2 Au niveau de la qualité ....................................................................................................................................................... 22
+3.2.1.3 Au niveau de l'ENF ............................................................................................................................................................. 29
+3.2.1.4 Au niveau de la gestion et du pilotage ............................................................................................................................. 30
+3.2.2 Résultats de l'enquête d'opinion sur la mise en œuvre du PDDEB ............................................................. 30
+3.2.3 Insuffisances et limites de l'éducation de base burkinabè ............................................................................. 32
+3.2.4 Opportunités et potentialités de développement du secteur ......................................................................... 35
+3.2.5 Les atouts du système éducatif burkinabé ....................................................................................................... 35
+3.3 DEPENSES PUBLIQUES POUR LE SECTEUR : SON EVOLUTION ET SA REPARTITION ....................................................... 36
+4 VISION ET PRINCIPES DE DEVELOPPEMENT DU SECTEUR ............................................................................. 38
+4.1 VISION ............................................................................................................................................................................. 38
+4.2 PRINCIPES DIRECTEURS DE LA MISE EN ŒUVRE DU PDSEB ......................................................................................... 39
+5 ORIENTATIONS STRATEGIQUES ............................................................................................................................. 39
+5.1 CHOIX STRATEGIQUE 1 : DEVELOPPEMENT DU PRESCOLAIRE EN PASSANT DE 3% EN 2010 A 11,5% EN 2015 ET 25% AU MOINS EN 2021 ....................................................................................................................................................................... 40
+
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page 100
@@ -4049,6 +4157,43 @@ Page 100
 
 [[START OF PAGE 122]]
 
+5.2 CHOIX STRATEGIQUE 2 : REALISATION DE LA SCOLARISATION PRIMAIRE UNIVERSELLE EN 2021 DONT 75,1% DE TAP EN 2015 AVEC UNE EQUITE FILLE/GARÇON .................................................................................................................................. 40
+5.3 CHOIX STRATEGIQUE 3 : SUPPRESSION DU GOULOT D'ETRANGLEMENT ENTRE LE PRIMAIRE ET LE POST PRIMAIRE (GENERAL ET TECHNIQUE FORMEL ET NON FORMEL) AVEC UN TAUX DE TRANSITION DE 93,2% EN 2015 PUIS 95% EN 2021 AVEC UNE EQUITE FILLE/GARÇON ET 100% EN 2025. ................................................................................................................ 41
+5.4 CHOIX STRATEGIQUE 4 : ACCELERATION DE L'ALPHABETISATION AVEC POUR AMBITIONS, D'UNE PART, L'ELIMINATION DE L'ANALPHABETISME A SA SOURCE A TRAVERS LA PRISE EN CHARGE DE TOUS LES ADOLESCENTS DE 09-14 ANS A L'HORIZON 2021 ET D'AUTRE PART, L'ALPHABETISATION/FORMATION DE 15 ANS ET PLUS AVEC UNE ATTENTION PARTICULIERE POUR AU MOINS 60% DES JEUNES DE 15-24 ANS EN 2015 ET 75% EN 2021 DONT 60% DE FEMMES. ................................... 42
+6 OBJECTIFS GLOBAUX ............................................................................................................................................... 43
+6.1 PROGRAMME N°1 : DEVELOPPEMENT DE L'ACCES A L'EDUCATION DE BASE FORMELLE ................. 44
+6.1.1 Sous-programme 1 : Développement et gestion des infrastructures d'accueil à tous les niveaux ......... 44
+6.1.1.1 Objectif spécifique 1 : Accroître la capacité d'accueil des centres d'éveil et d'éducation préscolaire ................... 44
+6.1.1.2 Objectif spécifique 2: Augmenter la capacité d'accueil des structures de formation en travail social ................... 45
+6.1.1.3 Objectif spécifique 3 : Elargir le réseau scolaire du primaire suivant la carte éducative .......................................... 45
+6.1.1.4 Objectif spécifique 4 : Couvrir la demande d'éducation au post-primaire général avec l'équité du genre ............ 46
+6.1.1.5 Objectif spécifique 5 : Augmenter l'offre d'enseignement et de formation techniques et professionnels post primaire avec une équité du genre ...................................................................................................................................................... 47
+6.1.2 Sous-programme 2 : Recrutement et déploiement du personnel adéquat ................................................. 48
+6.1.2.1 Objectif spécifique 1 : Assurer les besoins en personnels d'éducation préscolaire ................................................. 48
+6.1.2.2 Objectif spécifique 2 : Couvrir tous les besoins d'encadrement scolaire dans l'enseignement primaire .............. 48
+6.1.2.3 Objectif spécifique 3 : Pourvoir l'enseignement post primaire général en enseignants qualifiés en nombre suffisant dans les différentes disciplines ............................................................................................................................................. 49
+6.1.2.4 Objectif spécifique 4 : Pourvoir l'enseignement et la formation techniques et professionnels post primaire en enseignants et formateurs qualifiés en nombre suffisant dans les différentes filières ................................................................. 49
+6.1.3 Sous-programme 3 : Amélioration des conditions de santé-hygiène-nutrition et prévention contre le VIH/SIDA en milieu scolaire ................................................................................................................................................. 50
+6.1.3.1 Objectif spécifique 1: Donner aux élèves et aux personnels d'éducation les moyens d'accéder à de meilleures conditions d'hygiène et de santé .......................................................................................................................................................... 50
+6.1.3.2 Objectif spécifique 2: Prévenir et prendre en charge le VIH/SIDA en milieu scolaire .............................................. 50
+6.1.3.3 Objectif spécifique 3 : Améliorer l'état nutritionnel des enfants .................................................................................... 51
+6.1.4 Sous-programme 4 : Promotion de l'égalité et l'équité d'accès pour tous .................................................. 51
+6.1.4.1 Objectif spécifique : Permettre à tous les enfants en âges scolaires, quelles que soient leurs situations économique, sociale ou leur lieu de résidence, d'accéder de manière équitable, à un enseignement primaire obligatoire et gratuit au plus tard en 2015 .................................................................................................................................................................. 51
+6.1.5 Sous-programme 5 : Mobilisation sociale et implication des parties prenantes dans le développement du sous secteur de l'éducation de base ............................................................................................................................. 52
+6.1.5.1 Objectif spécifique : favoriser la mobilisation sociale en vue de l'implication effective de toutes les parties prenantes dans le processus éducationnel. ....................................................................................................................................... 52
+6.1.6 Sous-programme 6 : Promotion de l'éducation inclusive à tous les niveaux .............................................. 53
+6.1.6.1 Objectif spécifique 1 : Assurer une prise en charge éducative complète des enfants à besoins spécifiques ....... 53
+6.2 PROGRAMME N°2 : AMELIORATION DE LA QUALITE DE L'EDUCATION DE BASE FORMELLE .............. 55
+6.2.1 Sous-programme 1 : Formation initiale et continue du personnel ................................................................ 55
+6.2.1.1 Objectif spécifique : Assurer la formation initiale et continue du personnel de l'éducation de base formelle ........ 55
+6.2.2 Sous-programme 2 : Développement et révision des curricula et programmes d'enseignement / formation ............................................................................................................................................................................... 57
+6.2.2.1 Objectif spécifique 1. : Mettre à la disposition de l'éducation de base formelle des curricula fédérateurs de qualité permettant l'opérationnalisation des passerelles ................................................................................................................. 57
+6.2.2.2 Objectif spécifique 2: Assurer un approvisionnement régulier des établissements en manuels, fournitures scolaires et matériels didactiques adaptés ........................................................................................................................................ 58
+6.2.2.3 Objectif spécifique 3: Assurer la passerelle entre les sous systèmes formel et non formel et entre l'enseignement général et la formation professionnelle et vice-versa. .......................................................................................... 58
+6.2.2.4 Objectif spécifique 4: Créer un dispositif de suivi évaluation permanent pour impulser la recherche .................... 59
+6.2.2.5 Objectif spécifique 5 : Promouvoir la recherche action et la recherche développement au sein de l'éducation de base ................................................................................................................................................................................................. 59
+6.2.3 Sous-programme 3 : Promotion du bilinguisme et du multilinguisme .......................................................... 60
+6.2.3.1 Objectif spécifique 1: Promouvoir l'introduction des langues nationales dans l'éducation de base........................ 60
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page 101
@@ -4057,6 +4202,49 @@ Page 101
 
 [[START OF PAGE 123]]
 
+6.2.3.2 Objectif spécifique 2: Promouvoir l'introduction de l'anglais et d'autres langues étrangères dans l'éducation de base ................................................................................................................................................................................................. 60
+6.2.4 Sous-programme 4 : Amélioration des apprentissages selon une approche centrée sur l'école ............ 61
+6.2.4.1 Objectif spécifique 1 : Promouvoir des approches pédagogiques innovantes pour améliorer les acquis scolaires des élèves ............................................................................................................................................................................. 61
+6.2.4.2 Objectif spécifique 2 : Assurer un temps d'apprentissage de 100% à partir de 2015 .............................................. 62
+6.2.4.3 Objectif spécifique 3 : Mettre en place un dispositif efficace d'évaluation des acquis scolaires ............................. 62
+6.3 PROGRAMME N°3 : DEVELOPPEMENT DE L'EDUCATION NON FORMELLE (ENF) ................................... 64
+6.3.1 Sous programme 1 : Accroissement de l'offre et la demande en ENF ........................................................ 65
+6.3.1.1 Objectif spécifique 1 : Augmenter la capacité d'accueil des structures d'éducation non formelle de la petite enfance ............................................................................................................................................................................................... 65
+6.3.1.2 Objectif spécifique 2 : Promouvoir l'éducation non formelle des adolescents............................................................ 65
+6.3.1.3 Objectif spécifique 3 : Formaliser et généraliser la formation professionnelle ........................................................... 67
+6.3.1.4 Objectif spécifique 4: Alphabétiser les jeunes de 15 à 24 ans à hauteur de 60% en 2015 et 75% en 2021 dont 60% de femmes ...................................................................................................................................................................................... 68
+6.3.1.5 Objectif spécifique 5 : Améliorer les conditions d'hygiène, de santé et de nutrition dans les structures d'ENF.... 69
+6.3.1.6 Objectif spécifique 6 : Couvrir tous les besoins d'encadrement dans l'éducation non formelle .............................. 69
+6.3.1.7 Objectif spécifique 7 : Réduire les disparités de toutes sortes en ENF....................................................................... 70
+6.3.1.8 Objectif spécifique 8: Susciter une large adhésion des populations aux programmes d'ENF ................................. 70
+6.3.1.9 Objectif spécifique 9 : Assurer une prise en charge complète des personnes vivant avec un handicap dans l'ENF ................................................................................................................................................................................................... 71
+6.3.2 Sous-programme 2 : Amélioration de la qualité de l'ENF .............................................................................. 71
+6.3.2.1 Objectif spécifique 1 : Assurer la formation des différents personnels intervenant dans l'ENF ............................... 72
+6.3.2.2 Objectif spécifique 2 : Réviser et/ou vulgariser les programmes et curricula de l'ENF ............................................. 72
+6.3.2.3 Objectif spécifique 3 : Mettre à la disposition des acteurs en ENF du matériel didactique adéquat ....................... 73
+6.3.2.4 Objectif spécifique 4 : Promouvoir les innovations en ENF .......................................................................................... 73
+6.3.2.5 Objectif spécifique 5 : Appliquer le cahier des charges et les programmes officiels en ENF ................................. 74
+6.3.2.6 Objectif spécifique 6: Opérationnaliser les passerelles entre l'éducation non formelle et l'éducation de base formelle ............................................................................................................................................................................................... 74
+6.3.2.7 Objectif spécifique 7 : Développer la recherche action et la recherche développement en éducation non formelle ............................................................................................................................................................................................... 75
+6.3.2.8 Objectif spécifique 8 : Appuyer les sortants des structures d'ENF à s'insérer dans le monde du travail ............... 75
+6.4 PROGRAMME N°4 : PILOTAGE DU SECTEUR DE L'EDUCATION DE BASE FORMELLE ET DE L'EDUCATION NON FORMELLE ........................................................................................................................................... 77
+6.4.1 Sous-programme 1 : Coordination/gouvernance du sous secteur de l'éducation de base entre les différents acteurs publics, privés et OSC ........................................................................................................................... 77
+6.4.1.1 Objectif spécifique 1 : Renforcer la coordination du sous secteur de l'éducation de base entre les différents départements ministériels, le secteur privé et la société civile ........................................................................................................ 77
+6.4.1.2 Objectif spécifique 2 : Renforcer la gouvernance du sous secteur de l'éducation de base .................................... 78
+6.4.2 Sous-programme 2 : Gestion de la décentralisation du sous secteur de l'éducation de base ................. 79
+6.4.2.1 Objectif spécifique 1 : Réaliser la décentralisation intégrale de l'éducation de base à l'horizon 2021 ................... 79
+6.4.2.2 Objectif spécifique 2 : Renforcer les capacités des collectivités territoriales à assumer la gestion de l'éducation ............................................................................................................................................................................................ 79
+6.4.3 Sous-programme 3 : Mobilisation des ressources et financement du sous secteur de l'éducation de base ......................................................................................................................................................................................... 80
+6.4.3.1 Objectif spécifique 1 : Développer une stratégie efficace de mobilisation des ressources en cohérence avec les ambitions du programme ....................................................................................................................................................................... 80
+6.4.3.2 Objectif spécifique 2 : Optimiser le financement conséquent du programme ............................................................ 80
+6.4.4 Sous-programme 4 : Renforcement des capacités de gestion des acteurs et des structures en charge du sous secteur de l'éducation de base ............................................................................................................................. 81
+6.4.4.1 Objectif spécifique 1 : Assurer une coordination efficace des ressources et des activités allouées au sous secteur de l'éducation de base ............................................................................................................................................................. 81
+6.4.4.2 Objectif spécifique 2 : Mettre en place un système d'archivage des documents au sein du MENA ....................... 81
+6.4.4.3 Objectif spécifique 3 : Elaborer et mettre en œuvre les plans de carrières des personnels du MENA .................. 81
+6.4.4.4 Objectif spécifique 4 : Elaborer et mettre en œuvre un plan intégré de formation des personnels ........................ 82
+6.4.4.5 Objectif spécifique 5 : Assurer des rendus de compte efficaces à tous les niveaux ................................................. 82
+6.4.4.6 Objectif spécifique 6 : Mettre en place un système de gestion de la suppléance des enseignants........................ 83
+6.4.4.7 Objectif spécifique 7 : Assurer une adéquation des études concernant l'éducation de base, aux besoins réels du MENA et de ses partenaires ................................................................................................................................................................. 83
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page 102
@@ -4065,6 +4253,41 @@ Page 102
 
 [[START OF PAGE 124]]
 
+6.4.4.8 Objectif spécifique 8 : Gérer efficacement les changements introduits dans le sous secteur de l'éducation de base ................................................................................................................................................................................................. 84
+6.4.4.9 Objectif spécifique 9 : Elaborer une stratégie de motivation des personnels de l'éducation de base .................... 84
+6.4.4.10 Objectif spécifique 10 : Elaborer et mettre en œuvre un plan de communication sur le PDSEB ............................ 84
+6.5 PROGRAMME N°5 : GESTION EFFICACE ET EFFICIENTE DU PDSEB .......................................................... 85
+6.5.1 Sous-programme 1 : Renforcement des structures et procédures de gestion du PDSEB ....................... 85
+6.5.1.1 Objectif spécifique 1 : Mettre en place la structure de coordination et de suivi évaluation du programme ........... 85
+6.5.1.2 Objectif Spécifique 2 : Assurer une gestion efficace et efficiente du programme ...................................................... 85
+6.5.2 Sous-programme 2 : Mise en œuvre et suivi évaluation du programme ..................................................... 85
+6.5.2.1 Objectif spécifique 1 : Mettre en place un système de suivi-évaluation et de reporting ........................................... 85
+6.5.2.2 Objectif spécifique 2 : Mettre en œuvre le programme en deux phases suivant une planification participative .. 85
+7 COUTS ET FINANCEMENT DU PDSEB .................................................................................................................... 86
+7.1 LE COUT DU PDSEB A PARTIR DU MODELE DE SIMULATION FINANCIERE ...................................................................... 86
+7.2 LE FINANCEMENT DU PDSEB ......................................................................................................................................... 87
+8 PRINCIPALES MESURES DE REFORMES ET ACTIONS ...................................................................................... 88
+8.1 LA REFORME DU PRESCOLAIRE, DU PRIMAIRE ET DU POST PRIMAIRE EN CONTINUUM .................................................. 88
+8.2 LA PROMOTION DE LA FORMATION PROFESSIONNELLE DE COURTE DUREE ................................................................... 89
+8.3 LA REFORME DES STRUCTURES DE FORMATION DES ENSEIGNANTS ............................................................................. 90
+8.4 LA REFORME DES PROGRAMMES D'ENSEIGNEMENT ASSORTI D'UN REAMENAGEMENT DU VOLUME HORAIRE D'APPRENTISSAGE ........................................................................................................................................................................ 90
+8.5 LA MUTUALISATION DES INFRASTRUCTURES .................................................................................................................. 90
+8.6 LA GESTION DECENTRALISEE DU SYSTEME EDUCATIF .................................................................................................... 91
+9 ANALYSE DES RISQUES............................................................................................................................................ 91
+9.1 LE RISQUE FINANCIER ..................................................................................................................................................... 91
+9.2 LE RISQUE LIE A LA FAIBLE CAPACITE D'ABSORPTION..................................................................................................... 92
+9.3 LE RISQUE LIE A UNE FAIBLE ADHESION DES ACTEURS .................................................................................................. 92
+9.4 LE RISQUE LIE A LA FAIBLE CAPACITE DES ACTEURS A METTRE EN ŒUVRE LES REFORMES ......................................... 93
+9.5 LES RISQUES LIES AUX SITUATIONS D'URGENCE ............................................................................................................ 93
+CONCLUSION ....................................................................................................................................................................... 95
+REFERENCES BIBLIOGRAPHIQUES ................................................................................................................................ 96
+TABLE DES MATIERES ..................................................................................................................................................... 100
+ANNEXE : CADRE LOGIQUE ............................................................................................................................................ 104
+PROGRAMME 1 : DEVELOPPEMENT DE L'ACCES EN EDUCATION DE BASE FORMELLE .............................................................. 104
+PROGRAMME 2: AMELIORATION DE LA QUALITE DE L'EDUCATION DE BASE FORMELLE ............................................................ 110
+PROGRAMME 3 : DEVELOPPEMENT DE L'EDUCATION NON FORMELLE ...................................................................................... 115
+PROGRAMME 4 : PILOTAGE DU SOUS SECTEUR DE L'EDUCATION DE BASE FORMELLE ET DE L'EDUCATION NON FORMELLE .. 121
+PROGRAMME 5 : GESTION EFFICACE ET EFFICIENTE DU PDSEB ............................................................................................ 125
 Adopté en Conseil des Ministres le 1 er août 2012
 
 Page 103
@@ -4077,14 +4300,14 @@ Page 103
 
 ### Programme 1 : Développement de l'accès en éducation de base formelle
 
-Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses
---- | --- | --- | --- | ---
-Objectif général | Accélérer le développement quantitatif de l'offre d'éducation de base et réduire les inégalités de toutes sortes 2010 à 100% 2020 square4 TBS primaire 2011 à 95,8 2021 square4 Taux Transition de 68,7% en 95% en 2021 square4 Taux brut porté de 37,7% 2015 et 95% square4 TBS Post en 2011 à en 2021 square4 Nombre | square4 Taux de pré scolaire porté de 3% en 2010 à 11,5% en 2015 et 25% en 2021 square4 Nombre d'enfants dans les CEEP de 69 363 en 2011 porté à 216 571 en 2015 et 512 146 en 2021 o dont % dans le privé passe de 49,2% en 2011 à 49,5% en 2015 et 50% en 2021 square4 TBA primaire porté de 85,7% en en 2015; 110% en porté de 79,6% en en 2015 et 106,3% en Post primaire porté 2011 à 93,2 en 2015 et d'admission en 6ème en 2011 à 67,3% en en 2021 primaire passe de 33,4% 47,8% en 2015 et 70,8% d'élèves pub+privé Post | Annuaires statistiques et Tableau de bord Education de base. DEP/MENA | Maîtrise de la croissance démographique Stabilité politique Allocation des ressources Les situations d'urgence prise en compte La perception de l'EFTP change L'application effective de la vision holistique
-#### Sous programme n° 1: Développement et gestion des infrastructures à tous les niveaux
-OS1: Accroître la capacité d'accueil des CEEP | square4 Normes de sécurité et d'inclusion respectées % CEEP privés passe de 49% à 49,5% en 2015 et 50% en 2021 ; square4 Nombre d'enfants dans les CEEP de 69 363 en 2011 porté à 216 571 en | Annuaires statistiques ministères concernés | des | Priorisation du pré scolaire par le Gouvernement
-R.1. Les CEEP sont construits en nombre suffisants prioritairement dans les zones rurales | 2015 et 512 square4 Nombre de CEEP extensibles construits porté de 105 en 2011 à 914 en 2015 et 3804 en 2021 square4 Nombre de CEEP construits en zone rurale par rapport aux zones urbaines atteint 57% en zone rurale contre 43% en zone urbaine en 2021 square4 Moyenne de CEEP à construire par an : 411 CEEP | 146 en 2021 Annuaires statistiques ministères concernés | des | Faible capacité de coordination des acteurs, surtout au niveau déconcentré
-R.2. Les infrastructures du pré scolaire sont réhabilitées | square4 20% des infrastructures existantes réfectionnées/réhabilitées par an | Annuaires statistiques des ministères | Faible capacités des entreprises nationales
-R.3. Le secteur privé est subventionné | square4 Part du préscolaire privé passant de 49,2 à 25% en 2015 et 21% en 2021 square4 % des infrastructures pré scolaire relevant du privé square4 % des ressources du pré scolaire | Annuaires statistiques MENA | L'extension de l'obligation scolaire au pré scolaire
+| | Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses |
+|---|---|---|---|---|
+| Objectif général | Accélérer le développement quantitatif de l'offre d'éducation de base et réduire les inégalités de toutes sortes | - Taux de pré scolaire porté de 3% en 2010 à 11,5% en 2015 et 25% en 2021<br>- Nombre d'enfants dans les CEEP de 69 363 en 2011 porté à 216 571 en 2015 et 512 146 en 2021<br>o dont % dans le privé passe de 49,2% en 2011 à 49,5% en 2015 et 50% en 2021<br>- TBA primaire porté de 85,7% en 2010 à 100% en 2015; 110% en 2020<br>- TBS primaire porté de 79,6% en 2011 à 95,8 en 2015 et 106,3% en 2021<br>- Taux Transition Post primaire porté de 68,7% en 2011 à 93,2 en 2015 et 95% en 2021<br>- Taux brut d'admission en 6ème porté de 37,7% en 2011 à 67,3% en 2015 et 95% en 2021<br>- TBS Post primaire passe de 33,4% en 2011 à 47,8% en 2015 et 70,8% en 2021<br>- Nombre d'élèves pub+privé Post primaire: 536 927 en 2011 à 905 247 en 2015 et 1 608 434 en 2021<br>o dont 20% dans le privé Post primaire<br>- Ratio groupe pédagogique : 79 en 2011 ; 60 en 2015 et 50 en 2021<br>- % élèves 1er cycle EFTP passe de 9% en 2011 à 24% à partir de 2015<br>- Accroissement flux de 52 179 en 2011 à 287 822 à partir de 2015 | Annuaires statistiques et Tableau de bord Education de base. DEP/MENA | Maîtrise de la croissance démographique<br>Stabilité politique<br>Allocation des ressources<br>Les situations d'urgence prise en compte<br>La perception de l'EFTP change<br>L'application effective de la vision holistique |
+#### Sous programme n°1: Développement et gestion des infrastructures à tous les niveaux
+OS1: Accroître la capacité d'accueil des CEEP | - Normes de sécurité et d'inclusion respectées<br>- % CEEP privés passe de 49% à 49,5% en 2015 et 50% en 2021 ;<br>- Nombre d'enfants dans les CEEP de 69 363 en 2011 porté à 216 571 en 2015 et 512 146 en 2021 | Annuaires statistiques des ministères concernés | Priorisation du pré scolaire par le Gouvernement
+R.1. Les CEEP sont construits en nombre suffisants prioritairement dans les zones rurales | - Nombre de CEEP extensibles construits porté de 105 en 2011 à 914 en 2015 et 3804 en 2021<br>- Nombre de CEEP construits en zone rurale par rapport aux zones urbaines atteint 57% en zone rurale contre 43% en zone urbaine en 2021<br>- Moyenne de CEEP à construire par an : 411 CEEP | Annuaires statistiques des ministères concernés | Faible capacité de coordination des acteurs, surtout au niveau déconcentré
+R.2. Les infrastructures du pré scolaire sont réhabilitées | - 20% des infrastructures existantes réfectionnées/réhabilitées par an | Annuaires statistiques des ministères concernés | Faible capacités des entreprises nationales
+R.3. Le secteur privé est subventionné | - Part du préscolaire privé passant de 49,2 à 25% en 2015 et 21% en 2021<br>- % des infrastructures pré scolaire relevant du privé<br>- % des ressources du pré scolaire | Annuaires statistiques MENA | L'extension de l'obligation scolaire au pré scolaire
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -4116,10 +4339,11 @@ Page 105
 
 [[START OF PAGE 127]]
 
-Logique | d'intervention | Indicateurs objectivement vérifiables Sources de vérification | Hypothèses
+Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses
 --- | --- | --- | ---
-R.1. Des infrastructures scolaires post primaires sont réalisées en nombre suffisant | square4 dont 20% dans le privé PP square4 Le ratio enfant/groupe pédagogique passe de 79 en 2011 à 60 en 2015 et 50 en 2021 square4 Nombre de classe PP passe de 4928 en 2011 à 22 960 en 2021, au cours de la square4 Nombre de salles an : 1803 salles au cours de la square4 Ratio élève/classe | 10 870 en 2015 et soit 18 032 salles période PP construites par par an soit 18 309 période ; : 60 en 2015 et Annuaires statistiques du MENA | Capacités nationale de réalisation des infrastructures Poursuite de la réforme du système éducatif
-R.2. Les salles de classes du post primaire défectueuses sont réhabilitées | éducatif de 10 ans square4 Nombre de salles réhabilitées par an square4 Réhabilitation : 440 soit 44 par an square4 Nombre de Paillotes remplacées : 455 soit 45 par an square4 Nombre de salles de rattrapage : 3669 | Annuaires statistiques des ministères concernés | Transfert de ressources aux communes
+| | - dont 20% dans le privé PP<br>- Le ratio enfant/groupe pédagogique passe de 79 en 2011 à 60 en 2015 et 50 en 2021 | | |
+R.1. Des infrastructures scolaires post primaires sont réalisées en nombre suffisant | - Nombre de classe PP passe de 4928 en 2011 à 10 870 en 2015 et 22 960 en 2021, soit 18 032 salles au cours de la période<br>- Nombre de salles PP construites par an : 1803 salles par an soit 18 309 au cours de la période ;<br>- Ratio élève/classe : 60 en 2015 et 50 en 2021 ;<br>- Nombre d'écoles primaires à six classes transformées en complexe éducatif de 10 ans | Annuaires statistiques du MENA | Capacités nationale de réalisation des infrastructures<br>Poursuite de la réforme du système éducatif
+R.2. Les salles de classes du post primaire défectueuses sont réhabilitées | - Nombre de salles réhabilitées par an<br>- Réhabilitation : 440 soit 44 par an<br>- Nombre de Paillotes remplacées : 455 soit 45 par an<br>- Nombre de salles de rattrapage : 3669 | Annuaires statistiques des ministères concernés | Transfert de ressources aux communes
 R.3. L'équité est promue au post primaire | square4 Indice de parité fille/garçons sur les différents taux = 1 ou proche de 1 | Annuaires statistiques des ministères concernés | Pesanteurs socioculturelles
 R.4. Des maisons communautaires sont réalisées au profit des jeunes filles | square4 Nombre de maisons communautaires construites, au moins, 1 par région | Annuaires statistiques des ministères concernés | Coût de fonctionnement desdites structures
 OS5: Augmenter l'offre d'enseignement et de formation techniques et professionnels du post primaire avec une équité du genre | square4 Nombre d'enfants ETFP passant de 52 179 en 2011, à 287 631 en 2015 et 191 790 enfants en 2021 ; square4 Le ratio enfant/classe est de 40 au cours de la période ; square4 Répartition des effectifs : ETP = 25% des effectifs des 14 ans+ du CM2 ; 30% effectifs PP n'ayant pas achevé ; square4 FP = 50% des effectifs CM2 de 14ans+ ; 70% PP n'ayant pas achevé ; 50% des effectifs PPG n'ayant pas obtenu BEPC. | Annuaires statistiques du MENA | Transfert effectif du post primaire au MENA
@@ -4140,7 +4364,7 @@ Page 106
 
 Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses
 --- | --- | --- | ---
-MEJE et 127 EJE) en 2011 à 667 enseignants du préscolaire en 2015 et 1813 en 2021. | préscolaire | MENA
+| | MEJE et 127 EJE) en 2011 à 667 enseignants du préscolaire en 2015 et 1813 en 2021. | préscolaire | MENA |
 R.1. Le personnel enseignant préscolaire recruté est qualifié | square4 Nombre d'enseignants du pré scolaire qualifiés recrutés | Annuaires statistiques | Acceptation de la réforme du pré scolaire
 R.2. La gestion du personnel est rationalisée | square4 Ratio enfants/encadreurs | Régionalisation des emplois
 OS2: Couvrir tous les besoins d'encadrement dans l'enseignement primaire | square4 Nombre d'enseignants du primaire public titulaires de classe passe de 35 308 en 2011 à 51 375 en 2015 puis à 67 173 en 2021, soit 31 865, soit 3 196 enseignants par an ; square4 Ratio Maître/encadreur porté à : square4 un IEPD pour 120 enseignants ; un CPI pour 60 enseignants et un IP pour 18 enseignants | Annuaires statistiques MENA | Capacités limitées des structures actuelles de formation des enseignants avec les réformes envisagée.
@@ -4151,7 +4375,7 @@ R.2. Le % de la vacation est stabilisé à 3% en 2021 | square4 Proportion du ta
 OS4: Pourvoir l'enseignement et la formation, techniques et professionnels post primaire en personnels enseignants et formateurs qualifiés et en nombre suffisant dans les différentes filières | square4 Le nombre d'enseignants au post primaire technique passe de 79 en 2011 à 2716 en 2015 soit 659 enseignants par an dans 13 filières ; square4 Le ratio professeur/Inspecteur est 75 square4 Le ratio professeur /Conseiller est de 50 | Annuaires statistiques du post primaire | Capacité limitée des ressources
 R.1. La gestion du personnel est rationnalisée | square4 Le ratio élève-professeur en zone rurale et en zone urbaine | Tableau de bord de l'éducation | Pression politique, de supérieurs hiérarchiques, séparation des couples
 R.2. Des enseignants sont recrutés en nombre suffisant pour le post primaire technique | square4 ETP : 659 enseignants recrutés par an dans 13 filières square4 FTP : 219 en 2011 à 879 en 2015 et 2199 en 2021, soit 1980 formateurs au cours de la période | Annuaires statistiques du post primaire | Surveiller des candidats potentiels
-#### Sous programme 3: Amélioration des conditions de santé-hygiène-nutrition et prévention contre le VIH/SIDA en milieu
+#### Sous programme 3: Amélioration des conditions de santé-hygiène-nutrition et prévention contre le VIH/SIDA en milieu scolaire
 OS1. Donner aux élèves et aux personnels d'éducation les moyens d'accéder à de meilleures conditions d'hygiène et de santé | square4 Taux de couverture des structures d'éducation de base en ouvrages AEP ; square4 Taux de couverture des structures d'éducation de base en produits déparasitants et de supplémentation ; | Annuaires statistiques des ministères concernés | Prise en compte des ouvrages AEP dans le plan des complexes Financement adéquat du programme santé- nutrition
 
 Adopté en Conseil des Ministres le 1 er août 2012
@@ -4165,15 +4389,15 @@ Page 107
 Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses
 --- | --- | --- | ---
 R.1. Les règles d'hygiène et de santé sont promues à travers des écoles de qualité amies des enfants | square4 Nombre d'écoles conformes aux standards de qualité | Rapports semestriel et annuel de suivi | Pluralité des approches concurrentes, peu de différences dans le fond
-R.2. Laccès des élèves aux moyens de prévention des maladies courantes est assuré | square4 Nombre d'écoles ayant des trousses médicales square4 Prise en compte de la prévention des maladies courantes dans les programmes | Curricula, guides, manuels scolaires | Existence d'une politique de santé scolaire
+R.2. L'accès des élèves aux moyens de prévention des maladies courantes est assuré | square4 Nombre d'écoles ayant des trousses médicales square4 Prise en compte de la prévention des maladies courantes dans les programmes | Curricula, guides, manuels scolaires | Existence d'une politique de santé scolaire
 OS2.Prévenir et prendre en charge le VIH/SIDA en milieu scolaire | square4 Nombre de personnes touchées par la sensibilisation à la prévention du VIH/SIDA square4 Nombre d'acteurs de la communauté éducative dépistés square4 Nombre personnes prises en charge. | Rapport annuel | Crainte de la stigmatisation
 R.1. Des modules et autres supports d'éducation à la prévention du VIH/SIDA sont développés | square4 Niveau de prise en charge de la thématique dans les curricula square4 Nombre de modules produits et autres supports produits mis à disposition. | Modules et supports élaborés Rapports annuels
 R.2. Des campagnes de dépistage sont organisées | square4 Nombre de personnes ayant accepté de se faire dépister ; square4 Nombre de campagnes de dépistage organisées | Rapport semestriel et annuel | Peur de connaître son statut Stigmatisation
 R.3. La prise en charge communautaire des PV-VIH/SIDA en milieu scolaires est assurée | square4 Nombre de personnes prises en charge en milieu scolaire | Rapport semestriel et annuel | Peur de connaître son statut Stigmatisation
-OS3. Améliorer l'état nutritionnel des enfants | square4 Taux de couverture des structures de l'éducation de base en cantines scolaires square4 Nombre d'écoles couvertes par la | Annuaires statistiques | Mauvaises récoltes récurrentes face au besoin de fonctionnement des cantines endogènes
-R.1. L'accès à la cantine est assuré à tous les élèves qui en ont besoin | cantine scolaire ; square4 Nombre de personnes ayant bénéficié de la cantine scolaire ; square4 Nombre d'écoles disposant de jardins polyvalents ; square4 Existence d'une cartographie des zones à insécurité alimentaire ; square4 % des écoles situées dans les zones à insécurité alimentaire qui disposent de cantines scolaires fonctionnelles et suffisamment approvisionnées pendant les neufs mois de l'année scolaire ; square4 % d'écoles ne bénéficiant pas de cantines scolaires fonctionnelles pendant toute l'année scolaire ; square4 Nombre d'écoles pratiquant les activités de maraîchage ; square4 Nombre de structures communautaires habilitées pour produire au profit de la cantine scolaire. | Annuaires Rapports annuel et semestriel | Coût de la généralisation des cantines scolaires par rapport aux capacités de l'Etat, Maintien des appuis extérieurs, fréquences des pénuries alimentaires
+OS3. Améliorer l'état nutritionnel des enfants | - Taux de couverture des structures de l'éducation de base en cantines scolaires | Annuaires statistiques | Mauvaises récoltes récurrentes face au besoin de fonctionnement des cantines endogènes
+R.1. L'accès à la cantine est assuré à tous les élèves qui en ont besoin | - Nombre d'écoles couvertes par la cantine scolaire ;<br>- Nombre de personnes ayant bénéficié de la cantine scolaire ;<br>- Nombre d'écoles disposant de jardins polyvalents ;<br>- Existence d'une cartographie des zones à insécurité alimentaire ;<br>- % des écoles situées dans les zones à insécurité alimentaire qui disposent de cantines scolaires fonctionnelles et suffisamment approvisionnées pendant les neufs mois de l'année scolaire ;<br>- % d'écoles ne bénéficiant pas de cantines scolaires fonctionnelles pendant toute l'année scolaire ;<br>- Nombre d'écoles pratiquant les activités de maraîchage ;<br>- Nombre de structures communautaires habilitées pour produire au profit de la cantine scolaire. | Annuaires<br>Rapports annuel et semestriel | Coût de la généralisation des cantines scolaires par rapport aux capacités de l'Etat,<br>Maintien des appuis extérieurs, fréquences des pénuries alimentaires
 #### Sous programme 4: Promotion de l'égalité et de l'équité d'accès pour tous
-OS: Permettre à tous les enfants en âges scolaires, quelles que soient leurs situations économiques, sociale ou leur lieu de résidence, d'accéder de manière équitable à un enseignement obligatoire square4 square4 square4 | plus tard en 2015 | TBA filles : 87,3% en 2011et 109% en 2015 ; TBS filles : 78,11 en 2011 ; 105 en 2015 TAP filles : 53,7% en 2011 ; 74,09% en 2015 square4 Indice de parité fille garçons dans les différents taux | Annuaires statistiques des ministères concernés
+OS: Permettre à tous les enfants en âges scolaires, quelles que soient leurs situations économiques, sociale ou leur lieu de résidence, d'accéder de manière équitable à un enseignement obligatoire et gratuit au plus tard en 2015 | - TBA filles : 87,3% en 2011et 109% en 2015 ;<br>- TBS filles : 78,11 en 2011 ; 105 en 2015<br>- TAP filles : 53,7% en 2011 ; 74,09% en 2015<br>- Indice de parité fille garçons dans les différents taux | Annuaires statistiques des ministères concernés |
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -4212,13 +4436,13 @@ Page 109
 
 ### Programme 2: Amélioration de la qualité de l'éducation de base formelle
 
-Logique d'intervention | Indicateurs objectivement | Sources de vérification | Hypothèses
---- | --- | --- | --- | --- | --- | ---
-Objectif général | Améliorer la qualité, la pertinence, l'efficacité et l'efficience de l'éducation de base formelle | vérifiables square4 TAP porté de 51,4% en 2011 à 75,1% en 2015 et 100% en 2021 ; square4 Les résultats moyens des tests de réussite se sont améliorés. o Français : - CM1 : de 50 points sur 100 à 60 points en 2011 et à 70 points en 2015 ; - 6 ème : de 53,7 points sur 100 en 2006 à 60 en 2011. o Mathématiques : - CM1: de 38 points sur 100 à 50 points en 2011 et 60 points en 2015 ; - 6 ème : de 49,8 points sur 100 à 55 points en 2011 et 60 points en 2015. o Sciences : - CM1: de 46 points sur 100 à 55 points en 2011 et 65 points en 2015. square4 % réussite CEP passe de 63,9% en 2010 à 76,1% en 2015 et 100% en 2021 ; square4 Taux d'abandon réduit ; square4 Taux de redoublement réduit ; square4 Taux de promotion amélioré. | - Tableau bord l'éducation base DEP/MENA - Annuaires statistiques DEP/MENA | de de de | Mise en œuvre des recommandées | partielle mesures
+| | Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses |
+|---|---|---|---|---|
+| Objectif général | Améliorer la qualité, la pertinence, l'efficacité et l'efficience de l'éducation de base formelle | - TAP porté de 51,4% en 2011 à 75,1% en 2015 et 100% en 2021 ;<br>- Les résultats moyens des tests de réussite se sont améliorés.<br>o Français :<br>- CM1 : de 50 points sur 100 à 60 points en 2011 et à 70 points en 2015 ;<br>- 6ème : de 53,7 points sur 100 en 2006 à 60 en 2011.<br>o Mathématiques :<br>- CM1: de 38 points sur 100 à 50 points en 2011 et 60 points en 2015 ;<br>- 6ème : de 49,8 points sur 100 à 55 points en 2011 et 60 points en 2015.<br>o Sciences :<br>- CM1: de 46 points sur 100 à 55 points en 2011 et 65 points en 2015.<br>- % réussite CEP passe de 63,9% en 2010 à 76,1% en 2015 et 100% en 2021 ;<br>- Taux d'abandon réduit ;<br>- Taux de redoublement réduit ;<br>- Taux de promotion amélioré. | - Tableau de bord de l'éducation de base DEP/MENA<br>- Annuaires statistiques DEP/MENA | Mise en œuvre partielle des mesures recommandées |
 #### Sous programme 1: Formation initiale et continue du personnel
-OS: Assurer la formation initiale continue du personnel de l'éducation base formelle | et de | square4 Programme de formation initiale révisé ; square4 % des enseignants bénéficiant du plan de formation continue ; square4 Nombre d'enseignants bénéficiant des dispositifs de formation continue (FOAD, GAP, Conférences annuelles) ; square4 Nombre de services de formation à distance créés ; square4 Nombre d'enseignants ayant bénéficié d'une formation à distance ; | - Rapport semestriel PDSEB - Annuaires statistiques des ministères concernés | du | Insuffisance de ressources Maîtrise de la question perdiems | des
-R.1. Les offres de formation initiale sont diversifiées | étudiées. square4 Nombre de formation développant des la formation des animatrices du square4 Nombre de square4 Nombre de | centres de professionnelle filières liées à animateurs et préscolaire ; formations offertes ; personnels formés. | - Rapport semestriel du PDSEB - Annuaires statistiques des ministères | Adoption des mesures réformes établissements formation initiale personnels | de des de des
-R.2. La formation initiale des l'éducation de base est | personnels de réformée square4 en institut des de base square4 Niveau fixé au bac ; square4 Nombre de chaque square4 % de différents de base enseignant ; square4 Nombre | Nombre d'ENEP transformées national de formation enseignants de l'éducation (INAFEEB) ; d'entrée dans les ENEP filières existant dans institut ; couverture des besoins de niveaux de l'éducation en personnel d'université ayant des instituts de formation des enseignants en leur sein. | - Rapport semestriel du PDSEB - Annuaires statistiques des ministères | Réticence des par rapport à financière | financiers l'incidence
+OS: Assurer la formation initiale et continue du personnel de l'éducation de base formelle | - Programme de formation initiale révisé ;<br>- % des enseignants bénéficiant du plan de formation continue ;<br>- Nombre d'enseignants bénéficiant des dispositifs de formation continue (FOAD, GAP, Conférences annuelles) ;<br>- Nombre de services de formation à distance créés ;<br>- Nombre d'enseignants ayant bénéficié d'une formation à distance ;<br>- Nombre de thématiques étudiées. | - Rapport semestriel du PDSEB<br>- Annuaires statistiques des ministères concernés | Insuffisance de ressources<br>Maîtrise de la question des perdiems
+R.1. Les offres de formation initiale sont diversifiées | - Nombre de centres de formation professionnelle développant des filières liées à la formation des animateurs et animatrices du préscolaire ;<br>- Nombre de formations offertes ;<br>- Nombre de personnels formés. | - Rapport semestriel du PDSEB<br>- Annuaires statistiques des ministères | Adoption des mesures de réformes des établissements de formation initiale des personnels
+R.2. La formation initiale des personnels de l'éducation de base est réformée | - Nombre d'ENEP transformées en institut national de formation des enseignants de l'éducation de base (INAFEEB) ;<br>- Niveau d'entrée dans les ENEP fixé au bac ;<br>- Nombre de filières existant dans chaque institut ;<br>- % de couverture des besoins de différents niveaux de l'éducation de base en personnel enseignant ;<br>- Nombre d'université ayant des instituts de formation des enseignants en leur sein. | - Rapport semestriel du PDSEB<br>- Annuaires statistiques des ministères | Réticence des financiers par rapport à l'incidence financière
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -4233,17 +4457,16 @@ Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vé
 R.3. L'encadrement de proximité est renforcé | square4 Nombre de CEB créés ; square4 Ratio enseignants/IEPD ; square4 Ratio enseignants/CPI ; square4 Ratio enseignants/IP ; square4 Nombre de visites pédagogiques effectuées ; square4 Nombre de bassins d'encadrement post primaire. | - Annuaires - Rapports annuels | Vétusté de la logistique
 R.4. La formation continue des enseignants est renforcée | square4 Nombre d'enseignants ayant participé à un service de formation continue (GAP, conférences pédagogiques, clubs culturels, formation à distance) ; square4 Nombre de thèmes développés ; | Rapports semestriels et annuels | Etat d'avancement de la politique d'intégration des TIC dans l'éducation
 R.5. Les enseignants et encadreurs sont formés dans des thématiques émergentes (technique de prise en charge sociale et des handicaps, etc.) | square4 Nombre d'enseignants formés dans des thématiques émergentes (techniques de prise en charge psycho- sociales, ESU, éducation inclusive etc.) | Rapports annuels et semestriels | Non priorisation
-R.6. Les chefs d'établissement sont formés en management des organisations et des | square4 Nombre de chefs d'établissement formés | Rapports annuels et semestriels
-structures éducatives
+R.6. Les chefs d'établissement sont formés en management des organisations et des structures éducatives | - Nombre de chefs d'établissement formés | Rapports annuels et semestriels |
 #### Sous programme 2 : Développement et révision des curricula et programmes d'enseignement et de formation
-OS1 : l'éducation curricula permettant passerelles | Mettre à la disposition de de base formelle des fédérateurs de qualité l'opérationnalisation des | square4 Existence de curricula réformé suivant l'approche par les compétences adaptée aux réalités du milieu | - Rapport semestriel du PDSEB - Annuaires statistiques des ministères | Capacité des spécialistes à adapter les résultats de la recherche au contexte local
-R.1 . Les curricula sont rénovés et prennent en compte les spécificités locales | square4 Nombre de curricula rénovés prenant en compte les spécificités locales | Rapport semestriel du PDSEB | Soutenabilité des méthodes d'implantation des nouveaux curricula
-R.2 . Les curricula sont révisés par sous cycles en tenant compte des résultats des | square4 Nombre de curricula révisés prenant en compte les résultats des acquis scolaires | Rapport semestriel du PDSEB | idem
-acquis scolaires R.3 . Les programmes de formation des enseignants sont révisés pour prendre en compte les thèmes émergents | square4 Nombre de thèmes émergents introduits dans les curricula ; square4 Etat d'avancement du processus d'introduction des thèmes émergents. | Rapport semestriel du PDSEB | idem
-R.4. Les référentiels de compétences et les niveaux d'entrée sont harmonisés pour faciliter les passerelles | square4 Niveau d'intégration des référentiels de formation des différentes structures de formation square4 Niveau de cohérence des référentiels de formation avec les référentiels métiers et de certification | Rapport semestriel du PDSEB | Faible capacité des acteurs à conduire la réforme suivant l'APC
-R.5. des centres spécialisés de bilan de compétences et de remise à niveau sont | Nombre de centres spécialisés créées | Rapport semestriel du PDSEB | Insuffisance de spécialistes
-ouverts R.6. un service d'orientation est créé au sein de chaque CEB | square4 Nombre de CEB ayant un service d'orientation fonctionnel | Rapport semestriel du PDSEB | Création d'une filière de formation des cadres en orientation scolaire
-OS2: Assurer un approvisionnement régulier des établissements en manuels, fournitures scolaires et matériels didactiques adaptés | square4 Existence d'une politique éditoriale pour le formel ; square4 Ratio livre/élève maintenu à 1 dans les disciplines fondamentales à tous les niveaux ; square4 Taux de couverture en kits de fournitures scolaires porté à 100% dès 2015 ; square4 Taux de couverture en kits collectifs des écoles amélioré. | - Rapport semestriel du PDSEB - Annuaires statistiques des ministères | Capacité nationale de production
+OS1 : Mettre à la disposition de l'éducation de base formelle des curricula fédérateurs de qualité permettant l'opérationnalisation des passerelles | - Existence de curricula réformé suivant l'approche par les compétences adaptée aux réalités du milieu | - Rapport semestriel du PDSEB<br>- Annuaires statistiques des ministères | Capacité des spécialistes à adapter les résultats de la recherche au contexte local
+R.1. Les curricula sont rénovés et prennent en compte les spécificités locales | - Nombre de curricula rénovés prenant en compte les spécificités locales | Rapport semestriel du PDSEB | Soutenabilité des méthodes d'implantation des nouveaux curricula
+R.2. Les curricula sont révisés par sous cycles en tenant compte des résultats des acquis scolaires | - Nombre de curricula révisés prenant en compte les résultats des acquis scolaires | Rapport semestriel du PDSEB | idem
+R.3. Les programmes de formation des enseignants sont révisés pour prendre en compte les thèmes émergents | - Nombre de thèmes émergents introduits dans les curricula ;<br>- Etat d'avancement du processus d'introduction des thèmes émergents. | Rapport semestriel du PDSEB | idem
+R.4. Les référentiels de compétences et les niveaux d'entrée sont harmonisés pour faciliter les passerelles | - Niveau d'intégration des référentiels de formation des différentes structures de formation<br>- Niveau de cohérence des référentiels de formation avec les référentiels métiers et de certification | Rapport semestriel du PDSEB | Faible capacité des acteurs à conduire la réforme suivant l'APC
+R.5. des centres spécialisés de bilan de compétences et de remise à niveau sont ouverts | Nombre de centres spécialisés créées | Rapport semestriel du PDSEB | Insuffisance de spécialistes
+R.6. un service d'orientation est créé au sein de chaque CEB | - Nombre de CEB ayant un service d'orientation fonctionnel | Rapport semestriel du PDSEB | Création d'une filière de formation des cadres en orientation scolaire
+OS2: Assurer un approvisionnement régulier des établissements en manuels, fournitures scolaires et matériels didactiques adaptés | - Existence d'une politique éditoriale pour le formel ;<br>- Ratio livre/élève maintenu à 1 dans les disciplines fondamentales à tous les niveaux ;<br>- Taux de couverture en kits de fournitures scolaires porté à 100% dès 2015 ;<br>- Taux de couverture en kits collectifs des écoles amélioré. | - Rapport semestriel du PDSEB<br>- Annuaires statistiques des ministères | Capacité nationale de production
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -4253,9 +4476,9 @@ Page 111
 
 [[START OF PAGE 133]]
 
-Logique d'intervention Indicateurs objectivement | Sources de vérification | Hypothèses
+Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses
 --- | --- | --- | ---
-R.1. Une politique nationale d'édition scolaire est mise en place | vérifiables square4 Existence de commissions d'élaboration des manuels ; square4 Existence de mesures relatives à la préférence nationale d'édition ; square4 Le taux de couverture des disciplines en manuels ; square4 Durée de vie des manuels ; square4 Existence d'un système de réparation des manuels. | Rapports annuel et semestriel | Faible Capacité des structures techniques de l'Etat en matière d'édition scolaire
+R.1. Une politique nationale d'édition scolaire est mise en place | - Existence de commissions d'élaboration des manuels ;<br>- Existence de mesures relatives à la préférence nationale d'édition ;<br>- Le taux de couverture des disciplines en manuels ;<br>- Durée de vie des manuels ;<br>- Existence d'un système de réparation des manuels. | Rapports annuel et semestriel | Faible Capacité des structures techniques de l'Etat en matière d'édition scolaire
 R.2. Du matériel didactique adéquat est mis à la disposition des écoles | square4 Existence d'une planification pluri annuelle des approvisionnements ; square4 % de ressources transférées pour l'acquisition de matériel didactique ; square4 Existence d'une liste des manuels obligatoires par niveau. | Rapports annuel et semestriel | Système d'approvisionnement performant
 OS3 : Assurer la passerelle entre les sous systèmes formel et non formel et entre l'enseignement général et la formation professionnelle et vice versa | square4 Existence de passerelles entre le sous système formel et non formel et vice versa ; square4 Existence de passerelles entre l'enseignement général et la formation professionnelle et vice versa ; square4 Effectif des élèves ayant bénéficié des passerelles ; square4 Effectif des apprenants ayant bénéficié des passerelles. | - Rapports semestriels et annuels - Annuaires statistiques des Ministères concernés | Fonctionnalité des passerelles Adhésion de la communauté
 R.1. Les référentiels de compétences et les niveaux d'entrée sont harmonisés | square4 Existence de référentiels harmonisés ; square4 Nombre de niveaux d'entrée harmonisés. | - Rapports semestriels et annuels - Annuaires statistiques des Ministères concernés
@@ -4302,10 +4525,10 @@ Page 113
 
 [[START OF PAGE 135]]
 
-Logique d'intervention | Indicateurs objectivement vérifiables Sources | Hypothèses
+Logique d'intervention | Indicateurs objectivement vérifiables | Sources de vérification | Hypothèses
 --- | --- | --- | ---
-lampes solaires. | de vérification
-OS2: Assurer un temps d'apprentissage de 100% à partir de 2015 | square4 % du volume horaire officiel effectué passe de 59,6% en 2008 à partir 100% en 2015. | - Rapport semestriel du PDSEB - Annuaires statistiques des ministères - Tableau de bord de l'éducation | Capacité de mise en œuvre des mesures
+| | lampes solaires. | | |
+OS2: Assurer un temps d'apprentissage de 100% à partir de 2015 | - % du volume horaire officiel effectué passe de 59,6% en 2008 à partir 100% en 2015. | - Rapport semestriel du PDSEB<br>- Annuaires statistiques des ministères<br>- Tableau de bord de l'éducation | Capacité de mise en œuvre des mesures
 R.1. Le temps d'apprentissage est réévalué et les études extra muros systématisées | square4 Nombre d'écoles disposant d'un éclairage de nuit ; square4 Nombre de COGES organisant des études surveillées ; square4 Nombre d'élèves dotés de lampes solaires. | Emploi de temps officiel | Non prorisation des investissements adéquats Sécurité du matériel
 R.2. Un calendrier officiel et des programmes congruents sont adoptés | square4 Volume horaire annuel ; square4 Nombre de semaines dans l'année. | Décret, arrêté, programmes officiels
 R.3. Un système d'évaluation harmonisée est mise en place pour limiter les déperditions | square4 Liste des compétences à mesurer à chaque niveau ; square4 Existence d'une banque dynamique d'items. | Liste validée Banque d'items actualisée régulièrement
@@ -4326,13 +4549,13 @@ Page 114
 
 Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
 --- | --- | --- | --- | ---
-Objectif général | Alphabétiser et former prioritairement les jeunes de 15-24 ans arrivant sur le marché du travail, conformément aux orientations de la SCADD afin de contribuer d'une part, à porter le taux d'alphabétisation à 60% en 2015 (PRONAA) dont 60% de femmes et 75% en 2020 dont 60% de femmes et d'autre part, accroître le niveau de qualification des jeunes | square4 Nombre d'enfants hors de tout système scolaire passe de 775 450 en 2011 à 61 889 en 2015 et 00 en 2021 ; square4 %flux déscolarisés et non scolarisés encadrés passe 3% à 25% en 2015 et 100% en 2021. square4 Taux alphabétisation : 60% en 2015 et 75% en 2021 square4 Taux promotion AI/FCB passe de 85,9% en 2011 à 90% en 2015 et 96,3% en 2021 square4 Taux de réussite FCB passe de 84,7% en 2011 à 90% en 2015 et 96,3% en 2021 square4 % des déclarés alphabétisés orientés en A3F passe de 43% en 2011 à 40% en 2015 et 40% en 2021 square4 % des déclarés alphabétisés orientés en CST passe de 6,3% en 2011 à 30% en 2015 et 30% en 2021 square4 % des déclarés alphabétisés orientés en FTS passe de 16,7% en 2010 à 30% à | - Projection DEP - Lettre de politique éducative ; - Tableau de bord de l'éducation - | Non Respect des consignes par les opérateurs Non Mobilisation des jeunes de la tranche d'âge
+Objectif général | Alphabétiser et former prioritairement les jeunes de 15-24 ans arrivant sur le marché du travail, conformément aux orientations de la SCADD afin de contribuer d'une part, à porter le taux d'alphabétisation à 60% en 2015 (PRONAA) dont 60% de femmes et 75% en 2020 dont 60% de femmes et d'autre part, accroître le niveau de qualification des jeunes | - Nombre d'enfants hors de tout système scolaire passe de 775 450 en 2011 à 61 889 en 2015 et 00 en 2021 ;<br>- %flux déscolarisés et non scolarisés encadrés passe 3% à 25% en 2015 et 100% en 2021.<br>- Taux alphabétisation : 60% en 2015 et 75% en 2021<br>- Taux promotion AI/FCB passe de 85,9% en 2011 à 90% en 2015 et 96,3% en 2021<br>- Taux de réussite FCB passe de 84,7% en 2011 à 90% en 2015 et 96,3% en 2021<br>- % des déclarés alphabétisés orientés en A3F passe de 43% en 2011 à 40% en 2015 et 40% en 2021<br>- % des déclarés alphabétisés orientés en CST passe de 6,3% en 2011 à 30% en 2015 et 30% en 2021<br>- % des déclarés alphabétisés orientés en FTS passe de 16,7% en 2010 à 30% à partir de 2015 | - Projection DEP<br>- Lettre de politique éducative ;<br>- Tableau de bord de l'éducation<br>- | Non Respect des consignes par les opérateurs<br>Non Mobilisation des jeunes de la tranche d'âge
 #### Sous programme 1: Accroissement de l'offre et de la demande en ENF
-OS1: Augmenter la capacité d'accueil des structures d'éducation non formelle de la petite enfance | square4 Le nombre de structures d'éducation non formelle de la petite enfance passe de 260 en 2011 à 627 en 2015 et 1 111 en 2021 ; square4 Le nombre d'élèves passe de 25 000 en 2011 à 50 000 en 2015 et 100 000 en 2021. square4 Nombre de Bisongo et de 3E réalisés par | - Annuaires statistiques du non formel ; - Rapport semestriel | Mobilisation effective des communautés
-R.1. Au moins 97 structures d'éducation non formelle communautaire de la petite enfance sont réalisées par an | an ; square4 Nombre de structures réhabilitées ; square4 Nombre de villages disposant d'une structure d'éducation de la petite enfance ; square4 Effectif des enfants des structures non formelle de la petite enfance ouvertes par an ; square4 Nombre de CPAF disposant de haltes- garderies. | Idem | Répartition des ressources entre le formel et le non formel
-R.2. 20% des structures existantes sont réhabilitées | square4 Nombre de structures réhabilitées ; square4 Nombre de dispositifs temporaires disponibles en cas d'urgence. | Idem | Problème de prorisation en cas d'insuffisance de ressources
-OS2: Promouvoir l'éducation non formelle des adolescents | square4 Nombre de structures d'éducation et de formation professionnelle non formelle des adolescents passant de 251 en 2011 à 389 à partir de 2015 ; square4 Nombre de Centre d'alphabétisation de base pour l'emploi ouverts par an porté à 1671 par an ; square4 Nombre d'apprenants dans les CEBNF et assimilés passe de 19 693 en 2011 à 37 352 à partir de 2014 puis 0 en 2021 ; square4 Nombre d'apprenants pris en charge dans les centres d'alphabétisation de base pour l'emploi est de 83 529 durant toute la période du PDSEB. | Rapport annuel | Non mobilisation des adolescents dans les zones minières
-R.1. 934 nouvelles salles de CEBNF sont construites d'ici à 2015 | square4 Nombre de salles construites pour les CEBNF et assimilés ; | Rapport annuel | Affectation effective des ressources
+OS1: Augmenter la capacité d'accueil des structures d'éducation non formelle de la petite enfance | - Le nombre de structures d'éducation non formelle de la petite enfance passe de 260 en 2011 à 627 en 2015 et 1 111 en 2021 ;<br>- Le nombre d'élèves passe de 25 000 en 2011 à 50 000 en 2015 et 100 000 en 2021. | - Annuaires statistiques du non formel ;<br>- Rapport semestriel | Mobilisation effective des communautés
+R.1. Au moins 97 structures d'éducation non formelle communautaire de la petite enfance sont réalisées par an | - Nombre de Bisongo et de 3E réalisés par an ;<br>- Nombre de structures réhabilitées ;<br>- Nombre de villages disposant d'une structure d'éducation de la petite enfance ;<br>- Effectif des enfants des structures non formelle de la petite enfance ouvertes par an ;<br>- Nombre de CPAF disposant de haltes-garderies. | Idem | Répartition des ressources entre le formel et le non formel
+R.2. 20% des structures existantes sont réhabilitées | - Nombre de structures réhabilitées ;<br>- Nombre de dispositifs temporaires disponibles en cas d'urgence. | Idem | Problème de prorisation en cas d'insuffisance de ressources
+OS2: Promouvoir l'éducation non formelle des adolescents | - Nombre de structures d'éducation et de formation professionnelle non formelle des adolescents passant de 251 en 2011 à 389 à partir de 2015 ;<br>- Nombre de Centre d'alphabétisation de base pour l'emploi ouverts par an porté à 1671 par an ;<br>- Nombre d'apprenants dans les CEBNF et assimilés passe de 19 693 en 2011 à 37 352 à partir de 2014 puis 0 en 2021 ;<br>- Nombre d'apprenants pris en charge dans les centres d'alphabétisation de base pour l'emploi est de 83 529 durant toute la période du PDSEB. | Rapport annuel | Non mobilisation des adolescents dans les zones minières
+R.1. 934 nouvelles salles de CEBNF sont construites d'ici à 2015 | - Nombre de salles construites pour les CEBNF et assimilés ; | Rapport annuel | Affectation effective des ressources
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
@@ -4355,7 +4578,7 @@ R.5. Le mécanisme de financement de la formation professionnelle et de l'appren
 R.6. Les capacités institutionnelles et de pilotage des acteurs de la formation professionnelle sont renforcées | square4 Cf. programme pilotage du programme | Rapports annuels | Capacité de financement du PSCRC
 OS4: Alphabétiser les jeunes de 15-24 ans à hauteur de 60% en 2015 et 75% en 2021 dont 60% de femmes | square4 % de personnes de 15-24 ans alphabétisées en 2015 puis 2021 ; square4 % de femmes de 15-24 ans alphabétisées en 2015 et 2021. | - Rapport d'enquête - Annuaire ENF | Pertinence des programmes proposés Coût d'opportunité
 R.1. La demande en ENF est couverte avec une attention particulière pour les filles et les femmes | square4 Nombre de personnes alphabétisées par an square4 % de femmes alphabétisées par an | - Rapport d'enquête - Annuaire ENF | Acquis des apprentissages faibles au niveau du non formel actuel
-R.2. Les déperditions sont réduites | square4 Taux de déperdition | - Rapport d'enquête ;Annuai re ENF | Pertinence des programmes Coût d'opportunité
+R.2. Les déperditions sont réduites | square4 Taux de déperdition | - Rapport d'enquête ; Annuaire ENF | Pertinence des programmes Coût d'opportunité
 R.3. Les langues nationales sont progressivement décrites | square4 Nombre de langues nationales scientifiquement décrites | Rapport d'enquête Annuaire ENF
 R.4. La continuité des programmes d'alphabétisation même en situation d'urgence est assurée | square4 Nombre de centres d'alphabétisation réouverts et fonctionnels dans les délais prescrits en cas d'urgence | Rapport d'enquête Annuaire ENF
 OS5: Améliorer les conditions d'hygiène,de santé et de nutrition dans les structures d'ENF | square4 Taux de couverture des structures d'ENF de la petite enfance en ouvrage AEP ; square4 Taux de couverture des structures d'ENF petite enfance en cantine, produits déparasitants et de supplémentation , médicaments de première nécessité ; square4 Taux de couverture des structures d'ENF | - Annuaires statistiques du non formel - Rapport semestriel | Disposition à prendre pour la prise en compte de l'éducation non formelle dans le programme de santé nutrition
@@ -4382,7 +4605,7 @@ R.4. Au moins 29 691 animateurs tous niveaux confondus sont mobilisés par an | 
 OS 7: Réduire les disparités de toutes sortes dans l'éducation non formelle | square4 indice de parité Fille/garçons ; square4 Effectifs de l'éducation non formelle de la petite enfance ; square4 indice de parité Homme/femmes dans les effectifs de l'éducation non formelle des adolescentes ; square4 indice de parité Homme/femme dans les effectifs de l'éducation non formelle des jeunes et des adultes. | - Rapport d'enquête - Annuaire ENF - | Barrières socioculturelles
 R.1. Des centres féminins d'alphabétisation sont ouverts | square4 Nombre de centres féminins ouverts par an | - Rapport d'enquête - Annuaire ENF - Rapport d'enquête - Annuaire ENF
 R.2. Le marqueur rouge est utilisé pour apprécier les centres d'alphabétisation mixtes | square4 % des femmes dans les CPAF mixtes | - Rapport d'enquête - Annuaire ENF | Barrière socioculturelles
-OS8: Susciter une large adhésion des populations aux programmes d'éducation non formelle | square4 Nombre de personnes n'obtenant pas une inscription faute de places ; square4 Nombre de personnes touchées par chaque campagne. | - Annuaires statistiques du non formel - TBE - Rapport semestriel | - Qualité et pertinence des programmes - Mesures d'accompagne ment par rapport aux sites aurifères
+OS8: Susciter une large adhésion des populations aux programmes d'éducation non formelle | square4 Nombre de personnes n'obtenant pas une inscription faute de places ; square4 Nombre de personnes touchées par chaque campagne. | - Annuaires statistiques du non formel - TBE - Rapport semestriel | - Qualité et pertinence des programmes - Mesures d'accompagnement par rapport aux sites aurifères
 R.1. Un programme de renforcement des capacités communautaire est mis en œuvre (COGES, AME, APE) | square4 Nombre de personnes formées | Rapport annuel et semestriel | - Capacité de financement de la stratégie - Diversité des intervenants
 
 Adopté en Conseil des Ministres le 1 er août 2012
@@ -4402,12 +4625,12 @@ R.3. Un service d'orientation scolaire des personnes vivant avec un handicap est
 #### Sous programme 2: Amélioration de la qualité de l'éducation non formelle
 OS1: Assurer la formation des différents personnels intervenant dans l'ENF | square4 Nombre de personnels intervenant en éducation non formelle formés | - Annuaires statistiques du non formel - TBE - Rapport annuel | Insuffisance de structures formelles de formation des personnels de l'ENF
 R.1. Tous les animateurs ont reçu une formation initiale avant d'être engagé | square4 Nombre d'animateurs formés ; square4 % des formateurs et animateurs ayant bénéficié d'une formation initiale. square4 | Rapports semestriel et annuel | Absence de centres spécialisés de formation des animateurs du non formel
-R.2. Les personnels bénéficient régulièrement d'une formation continue | square4 % des intervenants ayant bénéficié d'un programme de formation-recyclage | Rapports semestriel et annuel | Capacité à coordonner les multiples
-OS2: Réviser et/ou vulgariser les programmes et curricula de l'ENF | square4 Nombre de programmes et curricula révisés | - Annuaires statistiques du non formel - TBE - Rapport annuel | formations Faible allocation de ressources
+R.2. Les personnels bénéficient régulièrement d'une formation continue | square4 % des intervenants ayant bénéficié d'un programme de formation-recyclage | Rapports semestriel et annuel | Capacité à coordonner les multiples formations
+OS2: Réviser et/ou vulgariser les programmes et curricula de l'ENF | square4 Nombre de programmes et curricula révisés | - Annuaires statistiques du non formel - TBE - Rapport annuel | Faible allocation de ressources
 R1. L'éducation non formelle de la petite enfance dispose de curricula révisés | square4 Existence du curriculum validé | Rapports semestriel et annuel | Faible capacité des structures techniques
 R2. Les curricula et programmes de formation des adolescents sont révisés | square4 Nombre de nouveaux curricula élaborés et/ou révisés par niveau | Rapports semestriel et annuel | Faible capacité des structures techniques
 R.3. Les curricula et programmes de formation des adolescents sont révisés | square4 Nombre de nouveaux curricula élaborés et/ou révisés par niveau | Rapports semestriel et annuel | Lourdeurs administratives Procédures d'acquisition des biens publics
-OS3: Mettre à la disposition des acteurs en éducation non formelle du matériel didactique adéquat | square4 Le ratio livre/apprenants atteint 1/1 en lecture et en calcul à tous les niveaux | - Annuaires statistiques du non formel - TBE - Rapport semestriel | Faible approvisionneme nt en livres
+OS3: Mettre à la disposition des acteurs en éducation non formelle du matériel didactique adéquat | square4 Le ratio livre/apprenants atteint 1/1 en lecture et en calcul à tous les niveaux | - Annuaires statistiques du non formel - TBE - Rapport semestriel | Faible approvisionnement en livres
 R.1. Un manuel sur l'éducation parentale existe et est traduit en langues nationales | square4 Existence d'un manuel d'éducation parentale validé en français ; square4 Existence d'un manuel d'éducation parentale traduit en langues nationales. | Rapport annuel | Capacité de diffusion du contenu de ce manuel
 R.2. La production et la reproduction du matériel didactique en langues nationales sont assurées | square4 Nombre de manuels existants pour les différents niveaux, cycles et formules ; square4 Nombre de textes produits et édités ; | Rapports semestriel et annuel | Mise en œuvre de la politique éditoriale
 
@@ -4433,8 +4656,8 @@ R.1. Un cadre de référence sur les passerelles est élaboré | square4 Existen
 R.2. Des centres spécialisés de mise à niveau sont ouverts et permettent la validation des acquis de l'expérience (VAE) | square4 Nombre de personnes bénéficiant de ce service | - Annuaire ENF - Rapport annuel - | Insuffisance de spécialistes
 OS7: Développer la recherche action et la recherche développement en éducation non formelle | square4 Existence d'un dispositif performant de recherche | Acte de création dudit centre
 R.1. Les programmes d'éducation non formelle sont évalués tous les trois ans pour identifier leurs impacts et limites | square4 Nombre de programmes évalués | Rapport annuel | Capacité de l'Etat à faire appliquer les normes
-R.2. De nouvelles méthodes sont mises au | square4 Nombre de méthodes mises au point | Rapport annuel
-point y compris celles intégrant les TIC R.3. Les résultats de la recherche sont vulgarisés et diffusés | square4 Nombre de résultats de recherche diffusés et vulgarisés | Rapport annuel | Faible capacité de documentation et de diffusion des expériences
+R.2. De nouvelles méthodes sont mises au point y compris celles intégrant les TIC | square4 Nombre de méthodes mises au point | Rapport annuel |
+R.3. Les résultats de la recherche sont vulgarisés et diffusés | square4 Nombre de résultats de recherche diffusés et vulgarisés | Rapport annuel | Faible capacité de documentation et de diffusion des expériences
 OS 8: Appuyer les sortants des | square4 Taux d'insertion des différentes structures | - Annuaires | - Capacité de
 
 Adopté en Conseil des Ministres le 1 er août 2012
@@ -4445,7 +4668,7 @@ Page 119
 
 [[START OF PAGE 141]]
 
-structures d'ENF à s'insérer dans le monde du travail | de formation | statistiques du non formel - TBE - Rapport semestriel | suivi- accompagneme nt - Intégration des dispositifs de formation dans le programme spécial de création d'emploi et les autres mécanismes
+structures d'ENF à s'insérer dans le monde du travail | de formation | statistiques du non formel<br>- TBE<br>- Rapport semestriel | suivi-accompagnement<br>- Intégration des dispositifs de formation dans le programme spécial de création d'emploi et les autres mécanismes
 --- | --- | --- | ---
 R.1. L'environnement lettré est développé pour faciliter l'accès des néo-alphabètes aux technologies et techniques de production | square4 Nombre de documents post-alpha distribués | - Rapport annuel et rapport semestriel - Documents produits | Faible capacité de l'impression et de l'édition
 R.2. Des programmes de renforcement des capacités des néo-alphabètes existent dans les domaines techniques et de recherche d'emploi | square4 Nombre de néo-alphabètes formés à l'entreprenariat et aux techniques de montage de micro-projets | Rapports semestriel et annuel | Faible intégration des programmes de formation aux besoins des entreprises
@@ -4464,14 +4687,14 @@ Page 120
 Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
 --- | --- | --- | --- | ---
 Objectif général | Renforcer les capacités de pilotage du système éducatif | square4 Existence d'un cadre de concertation permanente ; square4 % des ressources transférées ; square4 % de ressources mobilisées/prévisions ; square4 Taux d'exécution annuelle du plan de renforcement des capacités ; square4 Taux d'exécution du programme. | - Recueil de textes - Rapports semestriels et annuels | - Clivages institutionnels pouvant empêcher la synergie recherchée - Mobilité des cadres - Volume du budget alloué par rapport à la taille des besoins - Efficacité de la priorisation
-#### Sous programme 1: Coordination/gouvernance du sous secteur de l'éducation de base entre les différents acteurs publics,
-OS1. Renforcer la coordination du sous secteur de l'éducation de base entre les différents départements ministériels, le secteur privé et la | square4 Existence d'instances de travail fonctionnelles ; square4 Existence d'un arrêté conjoint de pilotage du programme. | JO, recueil de textes du MENA | - Non effectivité du transfert - Conflits d'intérêts sectoriels ou thématiques
-R.1. Une coordination interne est assurée | square4 Existence d'organes et instances de pilotage au niveau central et déconcentré ; square4 Nombre de rencontres statutaires tenues. | JO, actes administratifs
-R.2. Une coordination externe est assurée | square4 Rôles assignés à chaque partenaire externe ; square4 Cadres de concertations spécifiques avec ces partenaires ; square4 Nombre de rencontres statutaires organisées. | Rapports de suivi semestriel et annuel
-R.3. Le programme est mis en œuvre suivant les principes de l'équité, de l'approche participative et de transparence | square4 Existence de mesures de discrimination positive ; square4 Statistiques désagrégées à tous les niveaux Existence d'un cadre juridique approprié. | Capacité d'analyse des budgets avant leur approbation
-OS2. Renforcer la gouvernance du sous secteur de l'éducation de base | square4 Existence de textes réglementaires d'application de la Loi d'orientation de l'éducation; square4 Existence d'un mécanisme de reddition des comptes ; square4 Processus de planification participatif. | JO, recueil de textes du MENA | Non application des textes
-R.1. Les textes réglementaires d'application de la Loi d'orientation de | square4 Nombre de textes d'application élaborés et adoptés | Actes, JO, recueil des textes
-l'éducation R.2. Le mécanisme de reddition des comptes est efficace | adoptés | square4 Nombre de rapports produits à bonne date | Rapport de suivi financier du programme | Engagement de chaque acteur en fonction de son niveau de responsabilité
+#### Sous programme 1: Coordination/gouvernance du sous secteur de l'éducation de base entre les différents acteurs publics, privés et OSC
+OS1. Renforcer la coordination du sous secteur de l'éducation de base entre les différents départements ministériels, le secteur privé et la société civile | - Existence d'instances de travail fonctionnelles ;<br>- Existence d'un arrêté conjoint de pilotage du programme. | JO, recueil de textes du MENA | - Non effectivité du transfert<br>- Conflits d'intérêts sectoriels ou thématiques
+R.1. Une coordination interne est assurée | - Existence d'organes et instances de pilotage au niveau central et déconcentré ;<br>- Nombre de rencontres statutaires tenues. | JO, actes administratifs |
+R.2. Une coordination externe est assurée | - Rôles assignés à chaque partenaire externe ;<br>- Cadres de concertations spécifiques avec ces partenaires ;<br>- Nombre de rencontres statutaires organisées. | Rapports de suivi semestriel et annuel |
+R.3. Le programme est mis en œuvre suivant les principes de l'équité, de l'approche participative et de transparence | - Existence de mesures de discrimination positive ;<br>- Statistiques désagrégées à tous les niveaux<br>- Existence d'un cadre juridique approprié. | | Capacité d'analyse des budgets avant leur approbation
+OS2. Renforcer la gouvernance du sous secteur de l'éducation de base | - Existence de textes réglementaires d'application de la Loi d'orientation de l'éducation;<br>- Existence d'un mécanisme de reddition des comptes ;<br>- Processus de planification participatif. | JO, recueil de textes du MENA | Non application des textes
+R.1. Les textes réglementaires d'application de la Loi d'orientation de l'éducation adoptés | - Nombre de textes d'application élaborés et adoptés | Actes, JO, recueil des textes |
+R.2. Le mécanisme de reddition des comptes est efficace | - Nombre de rapports produits à bonne date | Rapport de suivi financier du programme | Engagement de chaque acteur en fonction de son niveau de responsabilité
 R.3. La planification est participative | square4 Mécanisme participatif mis en place | Plans d'action des différentes structures et niveaux | Coût et délais de planification
 #### Sous programme 2 : Gestion de la décentralisation du sous secteur de l'éducation de base
 OS.1. Réaliser la décentralisation de l'éducation de base à l'horizon 2021 | square4 % des ressources et des compétences transférées ; square4 Nombre de rencontres statutaires du cadre de concertation tenues | Rapport semestriel et annuel de suivi du PDSEB | Faibles capacités des communes Tradition bureaucratique centralisée
@@ -4486,18 +4709,18 @@ Page 121
 
 Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
 --- | --- | --- | --- | ---
-R.1. Les compétences effectivement transférées communautés | sont aux | square4 Degré d'application des TOD square4 Nombre de compétences transférées | Actes, JO, Rapports semestriels et annuels de suivi du programme | Volonté politique d'opérer la décentralisation
+R.1. Les compétences sont effectivement transférées aux communautés | square4 Degré d'application des TOD square4 Nombre de compétences transférées | Actes, JO, Rapports semestriels et annuels de suivi du programme | Volonté politique d'opérer la décentralisation
 R.2. Les ressources sont progressivement transférées | square4 Existence d'un plan de transfert des ressources square4 Etat de mise en œuvre du plan de transfert | - Document du plan de transfert des ressources - Rapport sur l'état de la gestion des ressources transférées | Analphabétisme des conseillers municipaux
 R.3. Les cadres de concertation sont dynamisés | square4 Nombre de cadre de concertation tenant régulièrement leurs sessions | Rapports de tenue des sessions
-OS2. Renforcer les capacités des collectivités territoriales à assumer la gestion de l'éducation | square4 Niveau des compétences des collectivités territoriales par rapport aux compétences transférées ; square4 Nombre de conseils municipaux et Maires formés sur la gestion du programme ; square4 Nombre de communes ayant les compétences requises en lien avec la | - Rapport semestriel et annuel - Rapport de suivi financier du programme | Analphabétisme des conseillers municipaux
+OS2. Renforcer les capacités des collectivités territoriales à assumer la gestion de l'éducation | square4 Niveau des compétences des collectivités territoriales par rapport aux compétences transférées ; square4 Nombre de conseils municipaux et Maires formés sur la gestion du programme ; square4 Nombre de communes ayant les compétences requises en lien avec la gestion du programme. | - Rapport semestriel et annuel - Rapport de suivi financier du programme | Analphabétisme des conseillers municipaux
 R.1. Les capacités de chaque commune sont évaluées afin de disposer d'informations pour le transfert des ressources | square4 Nombre d'audits réalisés sur les communes square4 Cartographie des compétences communales | Rapports des audits | Adoption de cette mesure par le ministère de tutelle MATDS
 R.2. Un plan de renforcement des capacités des acteurs est élaboré et mis en œuvre | square4 Nombre de plans de renforcement des capacités élaborés suivant ARCIE-B | Plans de renforcement des capacités des communes | Planification de l'activité par le ministère de tutelle en collaboration avec les autres départements
 #### Sous programme 3 : Mobilisation des ressources et financement du sous secteur de l'éducation de base
 OS1. Développer une stratégie efficace de mobilisation des ressources en cohérence avec les ambitions du programme | square4 Nombre de partenaires engagés dans le financement du programme diversifiées ; square4 Taux de mobilisation des ressources | - Plan d'action - Rapports annuels - Rapports semestriels | - Persistance de la crise économique - Déplacement du centre d'intérêt de certains grands partenaires techniques et financiers
 R.1. Au moins 20% des ressources propres de l'Etat sont affectées à l'éducation | square4 % du budget de l'Etat sur ressources propres affectées à l'éducation | Rapport de suivi financier | Adoption d'une Loi de programmation budgétaire
 R.2. Des stratégies innovantes de mobilisation des ressources sont mises en place | square4 Mécanisme de levée de fonds mis en place square4 Nouvelles sources de financement | Rapport de suivi financier | Pauvreté de la large majorité de la population
-R.3. Une stratégie spécifique de mobilisation des ressources extérieures est adoptée en faveur | de l'éducation | square4 Existence du document de stratégie de mobilisation des ressources extérieures | Document de mobilisation des ressources | Adoption de cette mesure par le MEF
-OS2. Optimiser le financement conséquent du | programme | square4 Taux d'exécution annuelle du budget | Rapport de suivi financier | Tensions budgétaires
+R.3. Une stratégie spécifique de mobilisation des ressources extérieures est adoptée en faveur de l'éducation | square4 Existence du document de stratégie de mobilisation des ressources extérieures | Document de mobilisation des ressources | Adoption de cette mesure par le MEF
+OS2. Optimiser le financement conséquent du programme | square4 Taux d'exécution annuelle du budget | Rapport de suivi financier | Tensions budgétaires
 R.1. Un protocole commun de financement du programme est signé | square4 Existence d'un protocole de financement | Document du protocole commun de financement signé | Lourdeurs administratives
 R.2. Un mécanisme efficace d'absorption des ressources est disponible | square4 Existence d'un mécanisme efficace d'absorption des ressources | Rapport sur le plan de passation des marchés | Système de contrôle non efficace
 
@@ -4509,9 +4732,8 @@ Page 122
 
 [[START OF PAGE 144]]
 
-Logique | d'intervention | Indicateurs objectivement vérifiable Sources de | Hypothèses
+Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
 --- | --- | --- | ---
-vérification
 #### Sous programme 4 : Renforcement des capacités de gestion des acteurs et des structures en charge du sous secteur de l'éducation de base
 OS. 1. Assurer une coordination efficace des ressources et des activités allouées au sous secteur de l'éducation de base | square4 Degré de cohérence entre les différents outils de planification square4 | Rapports annuel et semestriel de suivi du programme | Faiblesse de l'esprit d'équipe
 R.1. Les missions des différentes directions sont clarifiées | square4 Existence d'un organigramme pertinent et débarrassé des chevauchements | Décret portant organisation du MENA | Volonté politique
@@ -4538,16 +4760,16 @@ Page 123
 
 [[START OF PAGE 145]]
 
-Logique | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
+Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
 --- | --- | --- | ---
-d'intervention R.3. Les agents bénéficient d'un suivi, appui et conseil dans l'élaboration des rendus de compte | square4 Nombre de responsables assurant l'appui conseil | Rapport d'études d'opinion sur le sujet | Charge de travail des responsables
+R.3. Les agents bénéficient d'un suivi, appui et conseil dans l'élaboration des rendus de compte | square4 Nombre de responsables assurant l'appui conseil | Rapport d'études d'opinion sur le sujet | Charge de travail des responsables
 OS6. Mettre en place un système de gestion de la suppléance des enseignants | square4 Taux de suppléance en rapport avec le seuil autorisé | JO, Actes administratifs, rapports semestriels et annuels | Influences et autres pressions hiérarchiques
 R.1. Une enquête est réalisée sur la suppléance | square4 Existence d'un rapport d'enquête sur la suppléance | Document du rapport d'enquête | Sensibilité de la question
 R.2. Un texte est adopté sur la suppléance | square4 Existence d'un texte portant gestion de la suppléance | Document de l'acte administratif
 R.3. Un appui-accompagnement est assuré par les autorités à l'endroit des structures déconcentrées | square4 Nombre de sorties officielles effectuées dans le cadre du suivi de la problématique de la suppléance | - Rapport en conseil des ministres - Rapports semestriels et annuels de suivi
-OS7. Assurer une adéquation des études concernant l'éducation de base aux besoins réels du MENA et de ses partenaires | square4 Etat de mise en œuvre du plan de recherche du MENA | Rapports des études menées | Inexistence de mesures coercitives, telles que l'obligation
-R.1. Une cellule de coordination des études est mise en place | square4 Existence d'une cellule de coordination de la réalisation des études square4 Acte portant mise en place de la cellule | Document de l'acte | pour tout commanditaire d'étude de
-R.2. Les acteurs et partenaires sont sensibilisés sur la nécessité d'impliquer le MENA sur les études le concernant | square4 Nombre d'institutions partenaires sensibilisés sur la nécessité d'impliquer le MENA dans les études le concernant square4 Nombre de personnes touchées par les campagnes de sensibilisation square4 Existence d'un acte réglementaire portant autorisation de conduire une étude dans le domaine de l'éducation | Document du rapport de sensibilisation | disposer d'un agrément du ministère de tutelle
+OS7. Assurer une adéquation des études concernant l'éducation de base aux besoins réels du MENA et de ses partenaires | square4 Etat de mise en œuvre du plan de recherche du MENA | Rapports des études menées | Inexistence de mesures coercitives, telles que l'obligation pour tout commanditaire d'étude de disposer d'un agrément du ministère de tutelle
+R.1. Une cellule de coordination des études est mise en place | square4 Existence d'une cellule de coordination de la réalisation des études square4 Acte portant mise en place de la cellule | Document de l'acte |
+R.2. Les acteurs et partenaires sont sensibilisés sur la nécessité d'impliquer le MENA sur les études le concernant | square4 Nombre d'institutions partenaires sensibilisés sur la nécessité d'impliquer le MENA dans les études le concernant square4 Nombre de personnes touchées par les campagnes de sensibilisation square4 Existence d'un acte réglementaire portant autorisation de conduire une étude dans le domaine de l'éducation | Document du rapport de sensibilisation |
 R.3. Les recommandations des études font l'objet de suivi | square4 Rapport de suivi des recommandations square4 % des recommandations mises en œuvre | Document du rapport de suivi des recommandations | Pro-activité de la cellule de suivi à faire prendre en compte les recommandations dans les plans d'action
 OS8. Gérer efficacement les changements introduits dans le sous secteur de l'éducation de base | square4 Poids des changements dans la performance des services
 R.1. Les agents sont formés en gestion des changements | square4 Nombre de responsables formés sur la gestion des changements | Rapports annuels et semestriels de suivi du programme | Mobilité du personnel
@@ -4569,25 +4791,25 @@ Page 124
 
 ### Programme 5 : Gestion efficace et efficiente du PDSEB
 
-Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses
---- | --- | --- | --- | ---
-général | Objectif | square4 Irrégularités de gestion réduites | Rapports d'audits | - Qualité de la formation des gestionnaires - Efficacité du système de
+| | Logique d'intervention | Indicateurs objectivement vérifiable | Sources de vérification | Hypothèses |
+|---|---|---|---|---|
+| Objectif général | Renforcer les capacités de gestion administrative et financière du programme | - Irrégularités de gestion réduites | Rapports d'audits | - Qualité de la formation des gestionnaires<br>- Efficacité du système de contrôle |
 #### Sous programme 1 : Renforcement des structures et procédures de gestion du PDSEB
-OS1. Mettre en place la structure de coordination et de suivi évaluation du programme | square4 Existence du SP/PDSEB en tant que structure de coordination et de suivi évaluation du programme | Décret portant mise en place de la structure | Réticence certaines directions | de à
-R.1. Le SP/PDSEB est créé et doté de moyens adéquats | square4 existence d'un décret portant création du SP/PDSEB | Acte administratif | recevoir regard critique d'une structure | le
-R.2. Les missions du SP/PDSEB et des structures techniques impliquées dans la | square4 Existence d'un arrêté portant missions et attributions du SP/PDSEB | Acte administratif | de veille externe
-gestion du programme sont bien définies OS2. Assurer une gestion efficace et efficiente du programme | square4 Dysfonctionnements réduits | Rapport financier de suivi du programme
-R.1. L'approche programme est renforcée | square4 Nombre de partenaires participant au panier commun ou engagés dans l'aide budgétaire ciblée ou non | Rapport financier de suivi du programme | Respect de déclaration Paris l'efficacité l'aide | la de sur de
-R.2. L'approche budgétaire sectorielle est adoptée comme mode de gestion | square4 % des ressources reçues dans le cadre de cette approche | Rapport financier de suivi du programme
-R.3. L'approche projet est mieux coordonnée | square4 Nombre de projets inscrits au PIP | Rapports annuel et semestriel de suivi du PDSEB | Respect de déclaration Paris par partenaires | la de les
+OS1. Mettre en place la structure de coordination et de suivi évaluation du programme | - Existence du SP/PDSEB en tant que structure de coordination et de suivi évaluation du programme | Décret portant mise en place de la structure | Réticence de certaines directions à recevoir le regard critique d'une structure de veille externe
+R.1. Le SP/PDSEB est créé et doté de moyens adéquats | - existence d'un décret portant création du SP/PDSEB | Acte administratif |
+R.2. Les missions du SP/PDSEB et des structures techniques impliquées dans la gestion du programme sont bien définies | - Existence d'un arrêté portant missions et attributions du SP/PDSEB | Acte administratif |
+OS2. Assurer une gestion efficace et efficiente du programme | - Dysfonctionnements réduits | Rapport financier de suivi du programme |
+R.1. L'approche programme est renforcée | - Nombre de partenaires participant au panier commun ou engagés dans l'aide budgétaire ciblée ou non | Rapport financier de suivi du programme | Respect de la déclaration de Paris sur l'efficacité de l'aide
+R.2. L'approche budgétaire sectorielle est adoptée comme mode de gestion | - % des ressources reçues dans le cadre de cette approche | Rapport financier de suivi du programme |
+R.3. L'approche projet est mieux coordonnée | - Nombre de projets inscrits au PIP | Rapports annuel et semestriel de suivi du PDSEB | Respect de la déclaration de Paris par les partenaires
 #### Sous programme 2. Mise en œuvre et suivi évaluation du programme
-OS1. Mettre en place un système de suivi-évaluation et de reporting efficace | square4 Existence d'un système de suivi évaluation et de reporting harmonisé | - Rapports annuels et semestriels - Rapports annuel et semestriel de | Culture l'évaluation construction | de en
-R.1. Le système de suivi-évaluation est approprié par les différents acteurs | square4 Nombre de personnes formées par structure sur le manuel de suivi évaluation square4 | du
-R.2. Les rapports sont produits à bonne date | square4 Calendrier de parution des rapports connu | suivi PDSEB
-OS2 : Mettre en œuvre le programme en deux phases suivant une planification annuelle participative et concertée | square4
-R.1. Le programme est mis en œuvre en deux phases | square4 Existence d'un plan triennal en 2013 square4 Existence d'un plan quinquennal en 2016 | Rapports annuels | Adoption plans à date | des bonne
-R.2. Des plans d'action annuels sont élaborés chaque année | square4 Existence de plans d'action annuels validés
-R.3. Une évaluation à mi-parcours et une évaluation finales sont organisées aux échéances prévues. | square4 Existence d'un rapport de bilan à mi- parcours et d'un rapport annuel à bonne date
+OS1. Mettre en place un système de suivi-évaluation et de reporting efficace | - Existence d'un système de suivi évaluation et de reporting harmonisé | - Rapports annuels et semestriels<br>- Rapports annuel et semestriel de suivi du PDSEB | Culture de l'évaluation en construction
+R.1. Le système de suivi-évaluation est approprié par les différents acteurs | - Nombre de personnes formées par structure sur le manuel de suivi évaluation | |
+R.2. Les rapports sont produits à bonne date | - Calendrier de parution des rapports connu | |
+OS2 : Mettre en œuvre le programme en deux phases suivant une planification annuelle participative et concertée | | |
+R.1. Le programme est mis en œuvre en deux phases | - Existence d'un plan triennal en 2013<br>- Existence d'un plan quinquennal en 2016 | Rapports annuels | Adoption des plans à bonne date
+R.2. Des plans d'action annuels sont élaborés chaque année | - Existence de plans d'action annuels validés | |
+R.3. Une évaluation à mi-parcours et une évaluation finales sont organisées aux échéances prévues. | - Existence d'un rapport de bilan à mi-parcours et d'un rapport annuel à bonne date | |
 
 Adopté en Conseil des Ministres le 1 er août 2012
 
