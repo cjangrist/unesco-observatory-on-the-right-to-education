@@ -14,13 +14,15 @@ h
 
 # Functional Translation of the Constitution of the Republic of Maldives 2008
 
-Done By Ms. Dheena Hussain
+Done By
 
-LLB. (Hons), (Birmingham), LLM. (London), Barrister-at-Law (Lincoln's Inn)
+Ms. Dheena Hussain
+
+LLB. (Hons), (Birmingham), LLM. (London), Barrister-at-Law (Lincoln’s Inn)
 
 At the Request of
 
-Ministry of Legal Reform, Information and Arts Article Page No
+Ministry of Legal Reform, Information and Arts
 
 [[END OF PAGE 3]]
 
@@ -32,11 +34,48 @@ Ministry of Legal Reform, Information and Arts Article Page No
 
 [[START OF PAGE 5]]
 
-## CHAPTER I STATE, SOVEREIGNTY AND CITIZENS
+i
 
 # INDEX
 
-i
+Article Page No
+
+## CHAPTER I STATE, SOVEREIGNTY AND CITIZENS
+
+1. Constitution .............................................................................................. 1
+2. Republic of the Maldives ........................................................................ 1
+3. Territory of the Maldives ........................................................................ 1
+4. Powers of the citizens .............................................................................. 1
+5. Legislative power ..................................................................................... 1
+6. Executive power ....................................................................................... 1
+7. Judicial power .......................................................................................... 1
+8. Supremacy of Constitution .................................................................... 2
+9. Citizens ...................................................................................................... 2
+10. State Religion ......................................................................................... 2
+11. National Language ................................................................................ 2
+12. National Flag .......................................................................................... 2
+13. Currency of the Maldives...................................................................... 3
+14. Capital ..................................................................................................... 3
+15. National Day .......................................................................................... 3
+
+## CHAPTER II FUNDAMENTAL RIGHTS AND FREEDOMS
+
+16. Guarantee of Rights .............................................................................. 3
+17. Non-discrimination ............................................................................... 5
+18. Duty of the State .................................................................................... 5
+19. Freedom from restraint ........................................................................ 5
+20. Equality ................................................................................................... 5
+21. Right to life ............................................................................................. 5
+22. Protection of the environment ............................................................ 5
+23. Economic and social rights .................................................................. 6
+24. Privacy ..................................................................................................... 6
+25. No slavery or forced labour .................................................................. 7
+26. Right to vote and run for public office ................................................ 7
+27. Freedom of expression ......................................................................... 7
+28. Freedom of the media ........................................................................... 7
+29. Freedom of acquiring and imparting knowledge .............................. 7
+30. Freedom to form political parties, associations and societies ........ 8
+31. Right to strike ......................................................................................... 8
 
 [[END OF PAGE 5]]
 
@@ -44,21 +83,134 @@ i
 
 ii
 
+32. Freedom of assembly ............................................................................ 8
+33. Right to protect reputation and name ................................................ 8
+34. Right to marry and establishment of the family ............................... 8
+35. Special protection to children, young, elderly and disadvantaged people ........................................................................................ 8
+36. Right to education ................................................................................. 9
+37. Right to work .......................................................................................... 9
+38. Right of pension ................................................................................... 10
+39. Right to participate in cultural life .................................................... 10
+40. Right to acquire and hold property ................................................... 10
+41. Freedom of movement and establishment ...................................... 11
+42. Fair and transparent hearings ........................................................... 11
+43. Fair administrative action .................................................................. 12
+44. Personal liability .................................................................................. 12
+45. No unlawful arrest or detention ........................................................ 12
+46. Power of arrest and detention ........................................................... 12
+47. Search and seizure ............................................................................... 13
+48. Rights on arrest and detention .......................................................... 13
+49. Release of accused ............................................................................... 13
+50. Prompt investigation and prosecution ............................................. 14
+51. Rights of the accused .......................................................................... 14
+52. Confessions and illegal evidence ....................................................... 15
+53. Assistance of legal counsel ................................................................. 15
+54. No degrading treatment or torture ................................................... 15
+55. No imprisonment for non-fulfilment of contractual obligation ................................................................................................ 15
+56. Right to appeal ..................................................................................... 15
+57. Humane treatment of arrested or detained persons ...................... 15
+58. Compensation ...................................................................................... 16
+59. Retrospective legislation .................................................................... 16
+60. Prohibition of double jeopardy .......................................................... 16
+61. Publication of acts and regulations ................................................... 16
+62. Retention of other rights .................................................................... 17
+63. Voidance of laws inconsistent with fundamental rights ................ 17
+64. Non-compliance with unlawful orders ............................................. 17
+65. Application to court to obtain a remedy .......................................... 17
+66. Voidance of laws inconsistent with rights and freedoms .............. 18
+67. Responsibilities and duties ................................................................ 18
+68. Interpretation....................................................................................... 19
+69. Non-destructive interpretation of Constitution .............................. 19
+
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-## CHAPTER III THE PEOPLE'S MAJLIS
-
 iii
+
+## CHAPTER III THE PEOPLE’S MAJLIS
+
+70. Legislative authority............................................................................ 19
+71. Determination of the composition of the People’s Majlis ............. 20
+72. Election of members ........................................................................... 21
+73. Qualifications of members ................................................................. 22
+74. Court jurisdiction ................................................................................ 24
+75. Function of members .......................................................................... 24
+76. Declaration of assets ........................................................................... 24
+77. Resignation ........................................................................................... 24
+78. Filling vacancy ..................................................................................... 24
+79. Term of the People’s Majlis ................................................................ 24
+80. Extension of term of the People’s Majlis .......................................... 25
+81. Oath of office of members of the People’s Majlis ............................ 25
+82. Speaker and Deputy Speaker of the People’s Majlis ...................... 25
+83. Sittings of the People’s Majlis ............................................................ 27
+84. Presidential address ............................................................................ 27
+85. Proceedings open to the public ......................................................... 27
+86. Quorum ................................................................................................. 27
+87. Voting .................................................................................................... 27
+88. Regulation of procedure ..................................................................... 28
+89. Publication of proceedings of the People’s Majlis .......................... 29
+90. Privilege ................................................................................................ 29
+91. Presidential assent or return for reconsideration ........................... 29
+92. Publication of laws in the Government Gazette .............................. 30
+93. Treaties ................................................................................................. 30
+94. Delegation of power to make regulations and orders with lawful authority ........................................................................................ 30
+95. Reference to Supreme Court .............................................................. 31
+96. Annual budget ...................................................................................... 31
+97. Taxation and expenditures ................................................................. 31
+98. Questioning of Ministers and members of the Government ......... 32
+99. Summoning persons ........................................................................... 33
+100. Removal of President or Vice President ......................................... 33
+101. Vote of no confidence in a member of the Cabinet ....................... 34
+102. Salary and allowances ....................................................................... 35
+103. Improper benefit ............................................................................... 35
+104. Secretary General .............................................................................. 35
+105. Security ............................................................................................... 35
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+iv
+
 ## CHAPTER IV THE PRESIDENT
 
-iv
+106. Executive power ................................................................................. 36
+107. Term of office ..................................................................................... 36
+108. Manner of Presidential election ...................................................... 36
+109. Qualifications for election as President .......................................... 36
+110. Election ............................................................................................... 37
+111. Presidential election .......................................................................... 37
+112. Vice President .................................................................................... 38
+113. Jurisdiction of the Supreme Court .................................................. 38
+114. Oath of office of the President and Vice President ....................... 39
+115. Powers and responsibilities of the President ................................ 39
+116. Government Ministries ..................................................................... 41
+117. Responsibilities of the Vice President ............................................ 42
+118. Salary and allowances ....................................................................... 42
+119. Restrictions ........................................................................................ 42
+120. Declaration of assets ......................................................................... 42
+121. Resignation ......................................................................................... 42
+122. Vacancy of office of Vice President ................................................. 43
+123. Temporary inability of the President to perform his responsibilities ......................................................................................... 43
+124. Temporary incapacity to carry out duties ...................................... 44
+125. Presidential elections on the vacancy of the office of President and Vice President .................................................................. 44
+126. Oath of office by persons temporarily discharging the duties of the office of President and Vice President ....................................... 45
+127. Criminal accountability .................................................................... 45
+128. Immunity to a person who has served as the President .............. 45
+
+## CHAPTER V THE CABINET OF MINISTERS
+
+129. Cabinet of Ministers .......................................................................... 46
+130. Qualifications of Ministers ............................................................... 46
+131. Oath of office ...................................................................................... 47
+132. Responsibilities of the Cabinet ........................................................ 47
+133. Attorney General ............................................................................... 48
+134. Accountability and responsibility of the Cabinet .......................... 49
+135. Salary and allowances ....................................................................... 50
+136. Restrictions ........................................................................................ 50
+137. Dismissal............................................................................................. 50
+138. Declaration of assets ......................................................................... 50
 
 [[END OF PAGE 8]]
 
@@ -66,13 +218,84 @@ iv
 
 v
 
+139. Resignation ......................................................................................... 50
+140. A minister to be responsible for each government authority ................................................................................................. 50
+
+## CHAPTER VI THE JUDICIARY
+
+141. Judiciary ............................................................................................. 51
+142. Compliance with Law ........................................................................ 52
+143. Jurisdiction of the courts ................................................................. 52
+144. Powers in constitutional matters .................................................... 52
+145. Supreme Court ................................................................................... 53
+146. High Court .......................................................................................... 54
+147. Appointment of the Chief Justice .................................................... 54
+148. Appointment of Judges .................................................................... 54
+149. Qualifications of Judges ................................................................... 55
+150. Oath of office of Judges .................................................................... 55
+151. Full time performance ...................................................................... 56
+152. Salary and allowances ....................................................................... 56
+153. Declaration of assets ......................................................................... 56
+154. Tenure and removal .......................................................................... 56
+155. Power to determine the jurisdiction of courts and to enact administrative laws relating to the courts ........................................... 56
+156. Administration of the courts ............................................................ 56
+
+## CHAPTER VII INDEPENDENT COMMISSIONS AND OFFICES
+
+### JUDICIAL SERVICE COMMISSION
+
+157. Judicial Service Commission ........................................................... 57
+158. Composition of the Judicial Service Commission ........................ 57
+159. Responsibilities and powers ............................................................ 58
+160. Constituting the Judicial Service Commission ............................. 59
+161. Term of office of members of the Judicial Service Commission ............................................................................................. 59
+162. Resignation from membership of the Judicial Service Commission ............................................................................................. 60
+163. Quorum and voting ........................................................................... 60
+164. Salary and allowances ....................................................................... 60
+165. Removal from office .......................................................................... 60
+166. Oath of office ...................................................................................... 60
+
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+vi
+
 ### ELECTIONS COMMISSION
 
-vi
+167. Elections Commission ...................................................................... 61
+168. Appointment and composition of the Elections Commission ............................................................................................. 61
+169. Qualifications ..................................................................................... 61
+170. Responsibilities and powers ............................................................ 62
+171. Voting and recording of results ....................................................... 63
+172. Elections petitions ............................................................................. 63
+173. Term of office of members of the Elections Commission ............ 63
+174. Resignation from membership of the Elections Commission ............................................................................................. 63
+175. Quorum and voting ........................................................................... 64
+176. Salary and allowances ....................................................................... 64
+177. Removal from office .......................................................................... 64
+178. Oath of office ...................................................................................... 64
+
+### CIVIL SERVICE COMMISSION
+
+179. Civil Service Commission ................................................................. 65
+180. Appointment and composition of the Civil Service Commission ............................................................................................. 65
+181. Qualifications ..................................................................................... 65
+182. Responsibilities and powers ............................................................ 66
+183. Term of office of members of the Civil Service Commission ...... 68
+184. Resignation from membership of the Civil Service Commission ............................................................................................. 68
+185. Quorum and voting ........................................................................... 68
+186. Salary and allowances ....................................................................... 68
+187. Removal from office .......................................................................... 68
+188. Oath of office ...................................................................................... 69
+
+### HUMAN RIGHTS COMMISSION
+
+189. Human Rights Commission ............................................................. 69
+190. Appointment and composition of the Human Rights Commission ............................................................................................. 69
+191. Qualifications ..................................................................................... 70
+192. Responsibilities and powers ............................................................ 70
+193. Term of office of members of the Human Rights Commission ............................................................................................. 71
 
 [[END OF PAGE 10]]
 
@@ -80,11 +303,88 @@ vi
 
 vii
 
+194. Resignation from membership of the Human Rights Commission ............................................................................................. 71
+195. Quorum and voting ........................................................................... 71
+196. Salary and allowances ....................................................................... 71
+197. Removal from office .......................................................................... 71
+198. Oath of office ...................................................................................... 72
+
+### ANTI-CORRUPTION COMMISSION
+
+199. Anti-Corruption Commission .......................................................... 72
+200. Appointment and composition of the Anti-Corruption Commission ............................................................................................. 72
+201. Qualifications ..................................................................................... 73
+202. Responsibilities and powers ............................................................ 73
+203. Term of office of members of the Anti-Corruption Commission ............................................................................................. 74
+204. Resignation from the Anti-Corruption Commission .................... 74
+205. Quorum and voting ........................................................................... 74
+206. Salary and allowances ....................................................................... 74
+207. Removal from office .......................................................................... 74
+208. Oath of office ...................................................................................... 75
+
+### AUDITOR GENERAL
+
+209. Auditor General ................................................................................. 75
+210. Appointment of Auditor General .................................................... 75
+211. Qualifications of Auditor General ................................................... 75
+212. Responsibilities and powers ............................................................ 75
+213. Reporting ............................................................................................ 77
+214. Audit of the Auditor General’s office .............................................. 77
+215. Term of office of the Auditor General ............................................. 77
+216. Resignation of Auditor General ....................................................... 77
+217. Salary and allowances ....................................................................... 77
+218. Removal from office .......................................................................... 77
+219. Oath of office ...................................................................................... 77
+
+### PROSECUTOR GENERAL
+
+220. Prosecutor General ............................................................................ 78
+221. Appointment of Prosecutor General ............................................... 78
+
 [[END OF PAGE 11]]
 
 [[START OF PAGE 12]]
 
 viii
+
+222. Qualifications of Prosecutor General .............................................. 78
+223. Responsibilities and powers of the Prosecutor General .............. 79
+224. Acting through agents ....................................................................... 80
+225. Term of office of the Prosecutor General ....................................... 80
+226. Resignation of Prosecutor General ................................................. 80
+227. Salary and allowances ....................................................................... 80
+228. Removal from office .......................................................................... 80
+229. Oath of office ...................................................................................... 81
+
+## CHAPTER VIII DECENTRALISED ADMINISTRATION
+
+230. Decentralised administration .......................................................... 81
+231. Election of Councils .......................................................................... 82
+232. Responsibilities .................................................................................. 82
+233. Authority to enact subordinate legislation .................................... 83
+234. Finance ................................................................................................ 83
+235. Ownership of property and liability for debts ............................... 83
+
+## CHAPTER IX SECURITY SERVICES
+
+236. Security services ................................................................................ 83
+237. Responsibilities and duties .............................................................. 83
+238. Constitutional limitations ................................................................ 83
+239. Authority of the People’s Majlis over the security services ......... 84
+240. Separate services ............................................................................... 84
+241. Multiparty committee of the People’s Majlis ................................. 84
+242. Ministerial Responsibility ................................................................ 84
+243. Military Service .................................................................................. 84
+244. Police Service ..................................................................................... 84
+245. Illegal orders and non-compliance ................................................. 85
+246. Equal treatment ................................................................................. 85
+
+## CHAPTER X PROPERTY, LIABILITIES AND LEGAL ACTIONS OF THE STATE
+
+247. Property and assets owned and acquired by the State ................. 85
+248. Land, sea and naturally occurring valuable resources ................. 86
+249. Ownerless property ........................................................................... 86
+250. Transactions relating to State property .......................................... 86
 
 [[END OF PAGE 12]]
 
@@ -92,25 +392,101 @@ viii
 
 ix
 
+251. Prohibition of foreign ownership and foreign military purposes ................................................................................................. 87
+252. Legal actions in the name of the State ............................................ 87
+
+## CHAPTER XI STATE OF EMERGENCY
+
+253. Declaration of a state of emergency ................................................ 87
+254. Content of the declaration ................................................................ 88
+255. Limitations of the declaration ......................................................... 88
+256. Publication.......................................................................................... 90
+257. Submission of declaration to the Peoples Majlis .......................... 90
+258. Determination of disputes relating to the declaration ................. 90
+259. Expiry or revocation of declaration ................................................ 90
+260. Public announcement of expiry of state of emergency ................ 91
+
+## CHAPTER XII AMENDMENT OF THE CONSTITUTION
+
+261. Amendment of the Constitution ...................................................... 91
+262. Assent of President ............................................................................ 91
+263. Publication in Government Gazette ................................................ 92
+264. Non-assent by President and national referendum ..................... 92
+265. Defeat of Bill ....................................................................................... 92
+266. Provisions included in Bill ............................................................... 93
+267. No amendment during emergency ................................................. 93
+
+## CHAPTER XIII APPLICATION AND CONSTRUCTION OF THE CONSTITUTION
+
+268. Supremacy of the Constitution ........................................................ 93
+269. Continuance of laws in force ............................................................ 93
+270. Continued effect of repealed laws ................................................... 93
+271. Regulations enacted under authority of Statute ........................... 93
+272. Ascertainment of time ...................................................................... 94
+273. Headings ............................................................................................. 94
+274. Definitions .......................................................................................... 94
+
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
+x
+
 ## CHAPTER XIV TRANSITIONAL MATTERS
 
-x
+275. Application of this Chapter .............................................................. 97
+276. Elections Commission ...................................................................... 97
+277. Vacancy in Elections Commission .................................................. 99
+278. Qualifications of members of the Elections Commission ............ 99
+279. Responsibilities of the Elections Commission .............................. 99
+280. Term of Elections Commission ....................................................... 99
+281. Judicial Service Commission ........................................................... 99
+282. Supreme Court ................................................................................. 100
+283. Appointment of Judges to the Supreme Court............................ 102
+284. Term of Supreme Court .................................................................. 102
+285. Continuation of Judges ................................................................... 102
+286. Other courts...................................................................................... 103
+287. Jurisdiction of the courts ............................................................... 103
+288. Prosecutor General .......................................................................... 103
+289. Anti-Corruption Commission ........................................................ 104
+290. Independent Commissions ............................................................ 104
+291. Continuance of laws ........................................................................ 104
+292. No amendment to the Constitution .............................................. 104
+293. Commencement of this Constitution ............................................ 104
+294. Continuance of the People’s Majlis ............................................... 105
+295. Responsibilities and powers of the People’s Majlis .................... 105
+296. Election of the People’s Majlis ....................................................... 106
+297. Continuance of other posts and institutions ............................... 106
+298. Decentralised administration ........................................................ 107
+299. Obedience to the Constitution ....................................................... 107
+300. Continuation in office of the President and the Cabinet of Ministers ................................................................................................. 108
+301. Presidential election ........................................................................ 109
+
+## SCHEDULE 1 OATHS OF OFFICE
+
+1. OATH OF OFFICE OF PRESIDENT ................................................ 110
+2. OATH OF OFFICE OF VICE PRESIDENT ...................................... 110
+3. OATH OF OFFICE OF MEMBERS OF THE CABINET ................. 110
+4. OATH OF OFFICE OF MEMBERS OF THE PEOPLE’S MAJLIS .................................................................................................... 111
+5. OATH OF OFFICE OF CHIEF JUSTICE AND JUDGES ............... 111
+6. OATH OF OFFICE OF MEMBERS OF INDEPENDENT COMMISSIONS AND INDEPENDENT OFFICES ............................... 111
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
+xi
+
 ## SCHEDULE 2 ADMINISTRATIVE DIVISIONS
 
-......................................................................................................................  112
+...................................................................................................................... 112
 
 ## SCHEDULE 3 NATIONAL FLAG
 
-xi
+National flag ............................................................................................... 113
+Composition of national flag .................................................................... 113
+Dimensions ................................................................................................. 113
+Colours ........................................................................................................ 114
 
 [[END OF PAGE 15]]
 
@@ -118,29 +494,33 @@ xi
 
 ## CHAPTER I STATE, SOVEREIGNTY AND CITIZENS
 
-### Constitution | 1. |
-This is the ' Constitution of the Republic of the Maldives' . Any reference to the 'Constitution' herein is a reference to the Constitution of the Republic of the Maldives.
---- | --- | ---
-### Republic of the Maldives | 2. |
-The Maldives is a sovereign, independent, democratic Republic based on the principles of Islam, and is a unitary State, to be known as the Republic of the Maldives. Any reference to 'the Maldives' is a reference to the Republic of the Maldives.
-### Territory of the Maldives | 3. |
-The territory of the Maldives encompasses the land, air space, sea and seabed within the archipelagic baselines of the Maldives drawn in accordance with the law, and includes the territorial waters, the seabed and air space thereof beyond the said baselines. Any changes to the territory of the Maldives may only be made pursuant to a law enacted by at least a two-third majority of the total membership of the People's Majlis.
+### Constitution 1.
 
-### Powers of the citizens
+This is the “Constitution of the Republic of the Maldives”. Any reference to the “Constitution” herein is a reference to the Constitution of the Republic of the Maldives.
 
-### Legislative power
+### Republic of the Maldives 2.
 
-### Executive power
+The Maldives is a sovereign, independent, democratic Republic based on the principles of Islam, and is a unitary State, to be known as the Republic of the Maldives. Any reference to “the Maldives” is a reference to the Republic of the Maldives.
 
-### Judicial power
+### Territory of the Maldives 3.
 
-- All the powers of the State of the Maldives are derived from, and remain with, the citizens.
+The territory of the Maldives encompasses the land, air space, sea and seabed within the archipelagic baselines of the Maldives drawn in accordance with the law, and includes the territorial waters, the seabed and air space thereof beyond the said baselines. Any changes to the territory of the Maldives may only be made pursuant to a law enacted by at least a two-third majority of the total membership of the People’s Majlis.
 
-- All  legislative  power  in  the  Maldives  is  vested  in  the People's Majlis.
+### Powers of the citizens 4.
 
-- As  provided  for  in  this  Constitution  the  executive power is vested in the President.
+All the powers of the State of the Maldives are derived from, and remain with, the citizens.
 
-- The  judicial  power  is  vested  in the courts of the Maldives.
+### Legislative power 5.
+
+All legislative power in the Maldives is vested in the People’s Majlis.
+
+### Executive power 6.
+
+As provided for in this Constitution the executive power is vested in the President.
+
+### Judicial power 7.
+
+The judicial power is vested in the courts of the Maldives.
 
 1
 
@@ -148,38 +528,39 @@ The territory of the Maldives encompasses the land, air space, sea and seabed wi
 
 [[START OF PAGE 17]]
 
-### Supremacy of Constitution
+### Supremacy of Constitution 8.
 
-### Citizens
+The powers of the State shall be exercised in accordance with this Constitution.
 
-- The powers of the State shall be exercised in accordance with this Constitution.
+### Citizens 9.
 
 (a) The following persons are citizens of the Maldives:
 
-- citizens of the Maldives at the commencement of this Constitution;
+1. citizens of the Maldives at the commencement of this Constitution;
 
-- children born to a citizen of the Maldives; and
+2. children born to a citizen of the Maldives; and
 
-- foreigners  who,  in  accordance  with  the law, become citizens of the Maldives.
+3. foreigners who, in accordance with the law, become citizens of the Maldives.
 
-(b) No  citizen  of  the  Maldives  may  be  deprived  of citizenship.
+(b) No citizen of the Maldives may be deprived of citizenship.
 
 (c) Any person who wishes to relinquish his citizenship may do so in accordance with law.
 
-(d) Despite  the  provisions  of article  (a)  a  nonMuslim may not become a citizen of the Maldives.
+(d) Despite the provisions of article (a) a non-Muslim may not become a citizen of the Maldives.
 
 ### State Religion 10.
-(a) The religion of the State of the Maldives is Islam. Islam shall be the one of the  basis of all the laws of the Maldives
 
-(b) No  law  contrary  to  any  tenet  of  Islam  shall  be enacted in the Maldives
+(a) The religion of the State of the Maldives is Islam. Islam shall be the one of the basis of all the laws of the Maldives
 
-- The national language of the Maldives is Dhivehi.
+(b) No law contrary to any tenet of Islam shall be enacted in the Maldives
 
 ### National Language 11.
 
-### National Flag
+The national language of the Maldives is Dhivehi.
 
-(a) The  national  flag  of  the  Maldives  consists  of  a white crescent in the centre of a green rectangle
+### National Flag 12.
+
+(a) The national flag of the Maldives consists of a white crescent in the centre of a green rectangle
 
 2
 
@@ -189,27 +570,27 @@ The territory of the Maldives encompasses the land, air space, sea and seabed wi
 
 surrounded by a red border.
 
-(b) The dimensions and colour code of the national flag  and  the  placing  of  the  crescent  on  the national flag shall be as specified in Schedule 3 of this Constitution.
+(b) The dimensions and colour code of the national flag and the placing of the crescent on the national flag shall be as specified in Schedule 3 of this Constitution.
 
-### Currency of the Maldives
+### Currency of the Maldives 13.
 
-- The  unit  of  currency  of  the  Maldives  is  the  Rufiyaa, divided into one hundred Laari.
+The unit of currency of the Maldives is the Rufiyaa, divided into one hundred Laari.
 
-### Capital
+### Capital 14.
 
-- The capital of the Maldives is the island of Male'.
+The capital of the Maldives is the island of Male’.
 
-### National Day
+### National Day 15.
 
-- The national day of the Maldives is the first day of the month of Rabeeu al-Awwal.
+The national day of the Maldives is the first day of the month of Rabeeu al-Awwal.
 
 ## CHAPTER II FUNDAMENTAL RIGHTS AND FREEDOMS
 
 ### Guarantee of Rights 16.
 
-(a) This Constitution guarantees to all persons, in a manner  that  is  not  contrary  to  any  tenet  of Islam, the rights and freedoms contained within this  Chapter,  subject  only  to  such  reasonable limits prescribed by a law enacted by the People's Majlis in a manner that is not contrary to this Constitution. Any such law enacted by the People's Majlis can limit the rights and freedoms to any extent only if demonstrably justified in a free and democratic society.
+(a) This Constitution guarantees to all persons, in a manner that is not contrary to any tenet of Islam, the rights and freedoms contained within this Chapter, subject only to such reasonable limits prescribed by a law enacted by the People’s Majlis in a manner that is not contrary to this Constitution. Any such law enacted by the People’s Majlis can limit the rights and freedoms to any extent only if demonstrably justified in a free and democratic society.
 
-(b) The limitation of a right or freedom specified in this  Chapter  by  a  law  enacted  by  the  People's Majlis as provided for in this Constitution, and
+(b) The limitation of a right or freedom specified in this Chapter by a law enacted by the People’s Majlis as provided for in this Constitution, and
 
 3
 
@@ -217,23 +598,23 @@ surrounded by a red border.
 
 [[START OF PAGE 19]]
 
-in  order  to  protect  and  maintain  the  tenets  of Islam, shall not be contrary to article (a).
+in order to protect and maintain the tenets of Islam, shall not be contrary to article (a).
 
-(c) In  deciding  whether  a  right  or  freedom  in  this Chapter,  has  been  limited  in  accordance    with article (a) and (b), a court must be fully cognisant of and make reference to all the facts, including:
+(c) In deciding whether a right or freedom in this Chapter, has been limited in accordance with article (a) and (b), a court must be fully cognisant of and make reference to all the facts, including:
 
-- the  nature  and  character  of  the  right  or freedom;
+1. the nature and character of the right or freedom;
 
-- the purpose and importance of limiting the right or freedom;
+2. the purpose and importance of limiting the right or freedom;
 
-- the extent and manner of limiting the right or freedom;
+3. the extent and manner of limiting the right or freedom;
 
-- the  relationship  between  the  limitation  of the right or freedom and the importance of the right or freedom;
+4. the relationship between the limitation of the right or freedom and the importance of the right or freedom;
 
-- the  extent  to  which  the  objective  for  which the right or freedom has been limited could have been achieved by limiting the right or freedom to a lesser degree;
+5. the extent to which the objective for which the right or freedom has been limited could have been achieved by limiting the right or freedom to a lesser degree;
 
-- the  extent  to  which  the  right  or  freedom must  be  limited  in  order  to  protect  the tenets of Islam, where the right or freedom has been limited pursuant to article (b).
+6. the extent to which the right or freedom must be limited in order to protect the tenets of Islam, where the right or freedom has been limited pursuant to article (b).
 
-(d) The  onus  of  establishing  that  the  limitation  to any extent, of a right or freedom included in this Chapter  is within the reasonable  limitations prescribed in this Constitution is on the State or the person asserting the limitation of the right or freedom.
+(d) The onus of establishing that the limitation to any extent, of a right or freedom included in this Chapter is within the reasonable limitations prescribed in this Constitution is on the State or the person asserting the limitation of the right or freedom.
 
 4
 
@@ -243,29 +624,29 @@ in  order  to  protect  and  maintain  the  tenets  of Islam, shall not be contr
 
 ### Non-discrimination 17.
 
-(a) Everyone is entitled to the rights and freedoms included in this Chapter without discrimination of any  kind,  including  race,  national  origin, colour,  sex,  age,  mental  or  physical  disability, political  or  other  opinion,  property,  birth  or other status, or native island.
+(a) Everyone is entitled to the rights and freedoms included in this Chapter without discrimination of any kind, including race, national origin, colour, sex, age, mental or physical disability, political or other opinion, property, birth or other status, or native island.
 
-(b) Special assistance or protection to disadvantaged individuals or groups, or to groups  requiring  special  social  assistance,  as provided  in  law  shall  not  be  deemed  to  be discrimination, as provided for in article (a).
+(b) Special assistance or protection to disadvantaged individuals or groups, or to groups requiring special social assistance, as provided in law shall not be deemed to be discrimination, as provided for in article (a).
 
-### Duty of the State
+### Duty of the State 18.
 
-### Freedom from restraint
+It is the duty of the State to follow the provisions of this Constitution, and to protect and promote the rights and freedoms provided in this Chapter.
 
-### Equality
+### Freedom from restraint 19.
 
-### Right to life
+A citizen is free to engage in any conduct or activity that is not expressly prohibited by Islamic Shari’ah or by law. No control or restraint may be exercised against any person unless it is expressly authorised by law.
 
-### Protection of the environment
+### Equality 20.
 
-- It is the duty of the State to follow the provisions of this Constitution, and to protect and promote the rights and freedoms provided in this Chapter.
+Every individual is equal before and under the law, and has the right to the equal protection and equal benefit of the law.
 
-- A  citizen  is  free  to  engage  in  any  conduct  or  activity that is not expressly prohibited by Islamic Shari'ah or by  law.    No  control  or  restraint  may  be  exercised against any person unless it is expressly authorised by law.
+### Right to life 21.
 
-- Every individual is equal before and under the law, and has the right to the equal protection and equal benefit of the law.
+Everyone has the right to life, liberty and security of the person, and the right not be deprived thereof to any extent except pursuant to a law made in accordance with Article 16 of this Constitution.
 
-- Everyone has the right to life, liberty and security of the person,  and  the  right  not  be  deprived  thereof  to  any extent  except  pursuant  to  a  law  made  in  accordance with Article 16 of this Constitution.
+### Protection of the environment 22.
 
-- The  State  has  a  fundamental  duty  to  protect  and preserve the natural environment, biodiversity, resources and beauty of the country for the benefit of present and future generations. The State shall undertake and promote desirable economic and social goals through ecologically balanced sustainable development  and  shall  take  measures  necessary  to
+The State has a fundamental duty to protect and preserve the natural environment, biodiversity, resources and beauty of the country for the benefit of present and future generations. The State shall undertake and promote desirable economic and social goals through ecologically balanced sustainable development and shall take measures necessary to
 
 5
 
@@ -273,28 +654,29 @@ in  order  to  protect  and  maintain  the  tenets  of Islam, shall not be contr
 
 [[START OF PAGE 21]]
 
-### Economic and social rights
-
-### Privacy
 foster conservation, prevent pollution, the extinction of any species and ecological degradation from any such goals.
 
-- Every  citizen    the  following  rights  pursuant  to  this Constitution,  and  the  State  undertakes  to  achieve  the progressive  realisation  of  these  rights  by  reasonable measures within its ability and resources:
+### Economic and social rights 23.
+
+Every citizen has the following rights pursuant to this Constitution, and the State undertakes to achieve the progressive realisation of these rights by reasonable measures within its ability and resources:
 
 (a) adequate and nutritious food and clean water;
 
 (b) clothing and housing;
 
-(c) good  standards  of  health  care,  physical  and mental;
+(c) good standards of health care, physical and mental;
 
 (d) a healthy and ecologically balanced environment;
 
-(e) equal  access  to  means  of  communication,  the State  media,  transportation  facilities,  and  the natural resources of the country;
+(e) equal access to means of communication, the State media, transportation facilities, and the natural resources of the country;
 
-(f) the establishment of a sewage  system  of a reasonably adequate standard on every inhabited island;
+(f) the establishment of a sewage system of a reasonably adequate standard on every inhabited island;
 
-(g) the  establishment  of  an  electricity  system  of  a reasonably adequate standard on every inhabited  island  that  is  commensurate  to  that island.
+(g) the establishment of an electricity system of a reasonably adequate standard on every inhabited island that is commensurate to that island.
 
-- Everyone  has  the  right  to  respect  for  his  private  and family life,  his  home and his private communications. Every person must respect these rights with respect to others.
+### Privacy 24.
+
+Everyone has the right to respect for his private and family life, his home and his private communications. Every person must respect these rights with respect to others.
 
 6
 
@@ -306,33 +688,29 @@ foster conservation, prevent pollution, the extinction of any species and ecolog
 
 (a) No one shall be held in slavery or servitude, or be required to perform forced labour.
 
-(b) Compulsory military service, service required in cases  of  emergency  or  calamity  threatening  the life  or  well-being  of  the  community,  or  service required pursuant to a court order shall not be deemed to be contrary to article (a).
+(b) Compulsory military service, service required in cases of emergency or calamity threatening the life or well-being of the community, or service required pursuant to a court order shall not be deemed to be contrary to article (a).
 
-### Right to vote and run for public office
+### Right to vote and run for public office 26.
 
-- Unless  otherwise  provided  in  this  Constitution,  every citizen  of  the  Maldives  eighteen  years  of  age  or  older has the right:
+Unless otherwise provided in this Constitution, every citizen of the Maldives eighteen years of age or older has the right:
 
 (a) to vote in elections, and in public referendums, which shall be held by secret ballot;
 
 (b) to run for public office;
 
-(c) to  take  part  in  the  conduct  of  public  affairs, directly or through freely chosen representatives.
+(c) to take part in the conduct of public affairs, directly or through freely chosen representatives.
 
-- Everyone has the right to freedom of thought and the freedom to communicate opinions and expression in a manner that is not contrary to any tenet of Islam.
+### Freedom of expression 27.
 
-- Everyone  has  the  right  to  freedom  of  the  press,  and other means of communication, including the right to espouse,  disseminate  and  publish  news,  information, views  and  ideas.  No  person  shall  be  compelled  to disclose the source of any information that is espoused, disseminated or published by that person.
+Everyone has the right to freedom of thought and the freedom to communicate opinions and expression in a manner that is not contrary to any tenet of Islam.
 
-- Everyone  has  the freedom  to acquire  and  impart knowledge, information and learning.
+### Freedom of the media 28.
 
-### Freedom of expression
+Everyone has the right to freedom of the press, and other means of communication, including the right to espouse, disseminate and publish news, information, views and ideas. No person shall be compelled to disclose the source of any information that is espoused, disseminated or published by that person.
 
-### Freedom of the media
+### Freedom of acquiring and imparting knowledge 29.
 
-### Freedom of acquiring and imparting knowledge
-### Freedom to form political parties, associations and societies
-### Right to strike
-### Freedom of assembly
-### Right to protect reputation and name
+Everyone has the freedom to acquire and impart knowledge, information and learning.
 
 7
 
@@ -340,31 +718,37 @@ foster conservation, prevent pollution, the extinction of any species and ecolog
 
 [[START OF PAGE 23]]
 
-(a) Every  citizen  has  the  right  to  establish  and  to participate in the activities of political parties.
+### Freedom to form political parties, associations and societies 30.
 
-(b) Everyone  has  the  freedom  to  form  associations and societies, including the following:
+(a) Every citizen has the right to establish and to participate in the activities of political parties.
 
-- the  right  to  establish  and  participate  in any  association  or  society  for  economic, social, educational or cultural or purposes;
+(b) Everyone has the freedom to form associations and societies, including the following:
 
-- the right to form trade unions, to participate  or  not  participate  in  their activities.
+1. the right to establish and participate in any association or society for economic, social, educational or cultural or purposes;
 
-- Every  person  employed  in  the  Maldives  and  all  other workers have the freedom to stop work and to strike in order to protest.
+2. the right to form trade unions, to participate or not participate in their activities.
 
-- Everyone has the right to freedom of peaceful assembly without prior permission of the State.
+### Right to strike 31.
 
-- Everyone has the right to protect one's reputation and good name.
+Every person employed in the Maldives and all other workers have the freedom to stop work and to strike in order to protest.
+
+### Freedom of assembly 32.
+
+Everyone has the right to freedom of peaceful assembly without prior permission of the State.
+
+### Right to protect reputation and name 33.
+
+Everyone has the right to protect one’s reputation and good name.
 
 ### Right to marry and establishment of the family 34.
 
-### Special protection to children, young, elderly and 35.
-
-(a) Every person of marriageable age as determined by law has the right to marry, and to establish a family as specified in law. The family, being the natural and  fundamental  unit of society, is entitled to special protection by society and the State.
+(a) Every person of marriageable age as determined by law has the right to marry, and to establish a family as specified in law. The family, being the natural and fundamental unit of society, is entitled to special protection by society and the State.
 
 (b) Children must be afforded special protection as specified in law in the event of a marital breakdown of the parents.
 
-(a) Children and young people are entitled to special  protection  and  special  assistance  from
+### Special protection to children, young, elderly and 35.
 
-30.
+(a) Children and young people are entitled to special protection and special assistance from
 
 8
 
@@ -374,25 +758,25 @@ foster conservation, prevent pollution, the extinction of any species and ecolog
 
 disadvantaged people
 
+the family, the community and the State. Children and young people shall not be harmed, sexually abused, or discriminated against in any manner and shall be free from unsuited social and economic exploitation. No person shall obtain undue benefit from their labour.
+
+(b) Elderly and disadvantaged persons are entitled to protection and special assistance from the family, the community and the State.
+
 ### Right to education 36.
+
+(a) Everyone has the right to education without discrimination of any kind.
+
+(b) Primary and secondary education shall be freely provided by the State. It is imperative on parents and the State to provide children with primary and secondary education. Opportunity for higher education shall be generally accessible to all citizens.
+
+(c) Education shall strive to inculcate obedience to Islam, instil love for Islam, foster respect for human rights, and promote understanding, tolerance and friendship among all people.
 
 ### Right to work 37.
 
-the family, the community and the State. Children and young people shall not be harmed, sexually abused, or discriminated against in any manner  and  shall  be  free  from  unsuited  social and economic  exploitation. No  person shall obtain undue benefit from their labour.
-
-(b) Elderly  and  disadvantaged  persons  are  entitled to  protection  and  special  assistance  from  the family, the community and the State.
-
-(a) Everyone  has  the  right  to  education  without discrimination of any kind.
-
-(b) Primary and secondary education shall be freely provided by the State. It is imperative on parents and the  State  to  provide  children  with  primary and secondary education. Opportunity for higher education shall be generally accessible to all citizens.
-
-(c) Education shall strive to inculcate obedience to Islam,  instil  love  for  Islam,  foster  respect  for human rights, and promote understanding, tolerance and friendship among all people.
-
-(a) Every  citizen  has  the  right  to  engage  in  any employment or occupation.
+(a) Every citizen has the right to engage in any employment or occupation.
 
 (b) Everyone is entitled to just and safe conditions of work, fair wages, equal remuneration for work of equal value, and equal opportunity for promotion.
 
-(c) Everyone  has  the  right to rest and  leisure, including  limits  on  hours  of  work  and  periodic holidays with pay.
+(c) Everyone has the right to rest and leisure, including limits on hours of work and periodic holidays with pay.
 
 9
 
@@ -400,27 +784,27 @@ the family, the community and the State. Children and young people shall not be 
 
 [[START OF PAGE 25]]
 
-### Right of pension
+(d) Everyone has the right to spend time at rest and leisure. In order to provide this right to each employed person, the maximum number of working hours have to be determined as well as the length of paid holidays.
 
-(d) Everyone has the right to spend time at rest and leisure.  In  order  to  provide  this  right  to  each employed  person,  the  maximum  number  of working hours have to be determined as well as the length of paid holidays.
+### Right of pension 38.
 
-- Every one engaged in employment with the State shall have the right of pension as provided by law.
+Every one engaged in employment with the State shall have the right of pension as provided by law.
 
 ### Right to participate in cultural life 39.
 
-### Right to acquire and 40. hold property
+(a) Everyone has the right to participate in the cultural life of the nation, and to benefit from literary and artistic endeavours.
 
-(a) Everyone  has  the  right  to  participate  in  the cultural  life  of  the  nation,  and  to  benefit  from literary and artistic endeavours.
+(b) The State shall promote education, culture, literature and the arts, within the limits of its resources.
 
-(b) The State shall promote education, culture, literature  and  the  arts,  within  the  limits  of  its resources.
+### Right to acquire and hold property 40.
 
-(a) Every  citizen  has  the  right  to  acquire,  own, inherit,  transfer  or  otherwise  transact  of  such property.
+(a) Every citizen has the right to acquire, own, inherit, transfer or otherwise transact of such property.
 
-(b) Private  property  shall  be  inviolable,  and  may only  be  compulsorily  acquired  by  the  State  for the public good, as expressly prescribed by law, and as authorised by order of the court. Fair and adequate  compensation  shall be paid in all cases, as determined by the court.
+(b) Private property shall be inviolable, and may only be compulsorily acquired by the State for the public good, as expressly prescribed by law, and as authorised by order of the court. Fair and adequate compensation shall be paid in all cases, as determined by the court.
 
-(c) Nothing in this Article prevents any law authorising a court to order the forfeiture (without  the  giving  of  any  compensation)  of illegally acquired or possessed property, or enemy property.
+(c) Nothing in this Article prevents any law authorising a court to order the forfeiture (without the giving of any compensation) of illegally acquired or possessed property, or enemy property.
 
-(d) Property  of  a  person  shall  not  be  forfeited  in substitution for any offence.
+(d) Property of a person shall not be forfeited in substitution for any offence.
 
 10
 
@@ -430,15 +814,15 @@ the family, the community and the State. Children and young people shall not be 
 
 ### Freedom of movement and establishment 41.
 
-### Fair and transparent hearings 42.
-
 (a) Every citizen has the freedom to enter, remain in and leave the Maldives, and to travel within the Maldives.
 
-(b) Every citizen has the right to move to, and take up  residence  on,  any  inhabited  island  of  the Maldives.
+(b) Every citizen has the right to move to, and take up residence on, any inhabited island of the Maldives.
 
-(c) Every  citizen  shall  have  equal  access  to  the receipt  of  rights  and  benefits  from  any  island where he has established residency.
+(c) Every citizen shall have equal access to the receipt of rights and benefits from any island where he has established residency.
 
-(a) In  the  determination  of  one's  civil  rights  and obligations or of any criminal charge, everyone is entitled to a fair and public hearing within a reasonable  time  by  an  independent  court  or tribunal established by law.
+### Fair and transparent hearings 42.
+
+(a) In the determination of one's civil rights and obligations or of any criminal charge, everyone is entitled to a fair and public hearing within a reasonable time by an independent court or tribunal established by law.
 
 (b) All  judicial  proceedings  in  the  Maldives  shall be  conducted  with  justice,  transparency  and impartiality.
 
@@ -456,9 +840,9 @@ the family, the community and the State. Children and young people shall not be 
 
 [[START OF PAGE 27]]
 
-### Fair administrative action 43.
+(d) All judgements or orders of a Court shall be pronounced publicly, unless the Court specifically orders otherwise for the reasons stipulated in article (c). All publicly pronounced judgements or orders shall be available to the public.
 
-(d) All  judgements  or  orders  of  a  Court  shall  be pronounced publicly, unless the Court specifically  orders  otherwise  for  the  reasons stipulated in article (c). All publicly pronounced  judgements  or  orders  shall  be available to the public.
+### Fair administrative action 43.
 
 (a) Everyone has the right to administrative action that is lawful, procedurally fair, and expeditious.
 
@@ -466,17 +850,17 @@ the family, the community and the State. Children and young people shall not be 
 
 (c) Where  the rights of a person, a group or community has been adversely affected by administrative action, every such person, group or every person who may be directly affected by such action has the right to submit the matter to court.
 
-### Personal liability
+### Personal liability 44.
 
-### No unlawful arrest or detention
+The application of the criminal law or criminal procedure, including the conduct of investigations, criminal proceedings and enforcement of sentences as provided by law, shall extend to the accused person only and shall not affect the legal rights or obligations of any other person.
 
-### Power of arrest and detention
+### No unlawful arrest or detention 45.
 
-- The application of the criminal law or criminal procedure,  including  the  conduct  of  investigations, criminal proceedings and enforcement of sentences as provided  by  law,  shall  extend  to  the  accused  person only and shall not affect the legal rights or obligations of any other person.
+Everyone has the right not to be arbitrarily detained, arrested or imprisoned except as provided by law enacted by the People's Majlis in accordance with Article 16 of this Constitution.
 
-- Everyone  has  the  right  not  to  be  arbitrarily  detained, arrested  or  imprisoned  except  as  provided  by  law enacted  by  the  People's  Majlis  in  accordance  with Article 16 of this Constitution.
+### Power of arrest and detention 46.
 
-- No person shall be arrested or detained for an offence unless the arresting officer observes the offence being committed, or has reasonable and probable grounds or evidence  to  believe  the  person  has  committed  an offence or is about to  commit an offence, or under the
+No person shall be arrested or detained for an offence unless the arresting officer observes the offence being committed, or has reasonable and probable grounds or evidence to believe the person has committed an offence or is about to commit an offence, or under the
 
 12
 
@@ -484,21 +868,16 @@ the family, the community and the State. Children and young people shall not be 
 
 [[START OF PAGE 28]]
 
-### Search and seizure
-
-detention
-
-### Release of accused
-
-47.
-
 authority of an arrest warrant issued by the court.
+
+### Search and seizure 47.
 
 (a) No person shall be subject to search or seizure unless there is reasonable cause.
 
-(b) Residential  property  shall  be  inviolable,  and shall  not  be  entered  without  the  consent  of  the resident, except to prevent immediate and serious  harm  to  life  or  property,  or  under  the express authorisation of an order of the Court.
+(b) Residential property shall be inviolable, and shall not be entered without the consent of the resident, except to prevent immediate and serious harm to life or property, or under the express authorisation of an order of the Court.
 
-### Rights on arrest or 48.
+### Rights on arrest or detention 48.
+
 Everyone has the right on arrest or detention:
 
 (a) to be informed immediately of the reasons therefore,  and  in  writing  within  at  least  twenty four hours;
@@ -509,7 +888,9 @@ Everyone has the right on arrest or detention:
 
 (d) to be brought within twenty four hours before a Judge, who has power to determine the validity of  the  detention,  to  release  the  person  with  or without  conditions,  or  to  order  the  continued detention of the accused.
 
-- No  person    shall  be  detained  in  custody  prior  to sentencing, unless the danger of the accused absconding or not appearing at trial, the protection of the  public,  or  potential  interference  with  witnesses  or
+### Release of accused 49.
+
+No person shall be detained in custody prior to sentencing, unless the danger of the accused absconding or not appearing at trial, the protection of the public, or potential interference with witnesses or
 
 13
 
@@ -517,10 +898,11 @@ Everyone has the right on arrest or detention:
 
 [[START OF PAGE 29]]
 
-### Prompt investigation and prosecution
-evidence dictate otherwise. The release may be subject to  conditions  of  bail  or  other  assurances  to  appear  as required by the court.
+evidence dictate otherwise. The release may be subject to conditions of bail or other assurances to appear as required by the court.
 
-- After notice of an alleged offence has been brought to the attention of the investigating authorities, the matter shall be investigated promptly,  and  where warranted, the Prosecutor General shall lay charges as quickly as possible.
+### Prompt investigation and prosecution 50.
+
+After notice of an alleged offence has been brought to the attention of the investigating authorities, the matter shall be investigated promptly, and where warranted, the Prosecutor General shall lay charges as quickly as possible.
 
 ### Rights of the accused 51.
 Everyone charged with an offence has the right:
@@ -545,36 +927,35 @@ Everyone charged with an offence has the right:
 
 [[START OF PAGE 30]]
 
-### Confessions and illegal evidence
-
-### Assistance of legal counsel
-
-### No degrading treatment or torture
-
-### No imprisonment for non-fulfilment of contractual obligation
-
-### Right to appeal
-
-### Humane treatment of arrested or detained persons
 witnesses;
 
-(h) to  be  presumed  innocent  until  proven  guilty beyond a reasonable doubt.
+(h) to be presumed innocent until proven guilty beyond a reasonable doubt.
 
-- No  confession  shall  be  admissible  in  evidence  unless made in court by an accused who is in a sound state of mind. No statement or evidence must be obtained from any  source  by  compulsion  or  by  unlawful  means  and such statement or evidence is inadmissible in evidence.
+### Confessions and illegal evidence 52.
 
-53.
+No confession shall be admissible in evidence unless made in court by an accused who is in a sound state of mind. No statement or evidence must be obtained from any source by compulsion or by unlawful means and such statement or evidence is inadmissible in evidence.
 
-(a) Everyone  has  the  right  to  retain  and  instruct legal counsel at any instance where legal assistance is required.
+### Assistance of legal counsel 53.
 
-(b) In serious criminal cases, the State shall provide a  lawyer  for  an  accused  person  who  cannot afford to engage one.
+(a) Everyone has the right to retain and instruct legal counsel at any instance where legal assistance is required.
 
-- No  person  shall  be  subjected  to  cruel,  inhumane  or degrading treatment or punishment, or to torture.
+(b) In serious criminal cases, the State shall provide a lawyer for an accused person who cannot afford to engage one.
 
-- No person shall be imprisoned on the ground of nonfulfilment of a contractual obligation.
+### No degrading treatment or torture 54.
 
-- Everyone related to a matter has the right to appeal a conviction  and  sentence,  or  judgement  or  order  in  a criminal or civil matter.
+No person shall be subjected to cruel, inhumane or degrading treatment or punishment, or to torture.
 
-- Everyone deprived of liberty through arrest or detention as provided by law, pursuant to an order of the court, or being held in State care for social reasons, shall be treated with humanity and with respect for the inherent dignity of the human person. A person may be deprived  of  the  rights  or  freedoms  specified  in  this Chapter only to the extent required for the purpose for which he is deprived of his liberty.
+### No imprisonment for non-fulfilment of contractual obligation 55.
+
+No person shall be imprisoned on the ground of non-fulfilment of a contractual obligation.
+
+### Right to appeal 56.
+
+Everyone related to a matter has the right to appeal a conviction and sentence, or judgement or order in a criminal or civil matter.
+
+### Humane treatment of arrested or detained persons 57.
+
+Everyone deprived of liberty through arrest or detention as provided by law, pursuant to an order of the court, or being held in State care for social reasons, shall be treated with humanity and with respect for the inherent dignity of the human person. A person may be deprived of the rights or freedoms specified in this Chapter only to the extent required for the purpose for which he is deprived of his liberty.
 
 15
 
@@ -582,25 +963,23 @@ witnesses;
 
 [[START OF PAGE 31]]
 
-### Compensation
+### Compensation 58.
 
-### Retrospective legislation
+Everyone who has been arrested or detained without legal authority or justification has the right to be compensated.
 
-- Everyone  who  has  been  arrested  or  detained  without legal  authority  or  justification  has  the  right  to  be compensated.
-
-59.
+### Retrospective legislation 59.
 
 (a) No  person  shall  be  found  guilty  of  any  act  or omission  which  did  not  constitute  an  offence under Islamic Shari'ah or law at the time committed. Nor shall a more severe penalty be imposed than the one applicable at the time the offence was committed. If the punishment for an offence  has  been  reduced  between  the  time  of commission  and  the  time  of  sentencing,  the accused  is  entitled  to  the  benefit  of  the  lesser punishment.
 
 (b) This  Article  shall  not  prejudice  the  trial  and punishment of any person for any act which was criminal according to international law.
 
-### Prohibition of double jeopardy
+### Prohibition of double jeopardy 60.
 
 (a) If  an  accused  is  acquitted  of  an  offence  by  a court, he shall not be tried again for the same or substantially  the  same  offence.  If  an  accused  is found guilty and punished for an offence he shall not  be  tried  or  punished  again  for  the  same  or substantially the same offence.
 
 (b) The principle stated in article (a) does not apply to appeals relating to the offence.
 
-### Publication of acts 61. and regulations
+### Publication of acts and regulations 61.
 
 (a) All statutes, regulations, government orders requiring compliance by citizens and government  policies shall be published and made available to the public.
 
@@ -612,35 +991,33 @@ witnesses;
 
 [[START OF PAGE 32]]
 
-### Retention of other rights
-
-### Voidance of laws inconsistent with fundamental rights
-
-### Non-compliance with unlawful orders
-
-### Application to court to obtain a remedy
-
-### Voidance of laws inconsistent with rights and freedoms
-
-62.
-
 punishment for commission of the offence.
 
-(c) All information concerning government decisions  and  actions  shall  be  made  public, except  information  that  is  declared  to  be  State secrets by a law enacted by the People's Majlis.
+(c) All information concerning government decisions and actions shall be made public, except information that is declared to be State secrets by a law enacted by the People's Majlis.
 
 (d) Every citizen has the right to obtain all information possessed by the Government about that person.
 
-(a) The enumeration of rights and freedoms in this Chapter  are  guaranteed  equally  to  female  and male persons.
+### Retention of other rights 62.
+
+(a) The enumeration of rights and freedoms in this Chapter are guaranteed equally to female and male persons.
 
 (b) The enumeration of rights and freedoms individually in this Chapter shall not be construed to deny or negate other rights retained by the people which are not specified in this Chapter.
 
-- Any law or part of any law contrary to the fundamental rights or freedoms guaranteed by this Chapter shall be void or void to the extent of such inconsistency.
+### Voidance of laws inconsistent with fundamental rights 63.
 
-- No employee of the State shall impose any orders on a person except under authority of a law. Everyone has the right not to obey an unlawful order.
+Any law or part of any law contrary to the fundamental rights or freedoms guaranteed by this Chapter shall be void or void to the extent of such inconsistency.
 
-- Anyone  whose  rights  or  freedoms,  as  guaranteed  by this Chapter, have been infringed or denied may apply to a court to obtain a just remedy.
+### Non-compliance with unlawful orders 64.
 
-- All  existing  statutes,  regulations,  decrees  and  notices inconsistent with the fundamental rights and freedoms provisions  in  this  Chapter  shall,  to  the  extent  of  the inconsistency,  become  void  on  the  commencement  of this Constitution.
+No employee of the State shall impose any orders on a person except under authority of a law. Everyone has the right not to obey an unlawful order.
+
+### Application to court to obtain a remedy 65.
+
+Anyone whose rights or freedoms, as guaranteed by this Chapter, have been infringed or denied may apply to a court to obtain a just remedy.
+
+### Voidance of laws inconsistent with rights and freedoms 66.
+
+All existing statutes, regulations, decrees and notices inconsistent with the fundamental rights and freedoms provisions in this Chapter shall, to the extent of the inconsistency, become void on the commencement of this Constitution.
 
 17
 
@@ -648,7 +1025,7 @@ punishment for commission of the offence.
 
 [[START OF PAGE 33]]
 
-### Responsibilities and duties
+### Responsibilities and duties 67.
 
 - The exercise and enjoyment of fundamental rights and freedoms is inseparable from the performance of responsibilities  and  duties,  and  it  is  the  responsibility of every citizen:
 
@@ -670,9 +1047,7 @@ punishment for commission of the offence.
 
 (i) to  respect  the  national  flag,  state  emblem  and the national anthem.
 
-Every  person  in  the  Maldives  must  also  respect  these
-### Interpretation
-duties.
+Every person in the Maldives must also respect these
 
 18
 
@@ -680,15 +1055,19 @@ duties.
 
 [[START OF PAGE 34]]
 
-- When interpreting and applying the rights and freedoms  contained  within  this  Chapter,  a  court  or tribunal shall promote the values that underlie an open and democratic society based on human  dignity, equality and freedom, and shall consider international treaties to which the Maldives is a party.
+duties.
 
-### Non-destructive interpretation of Constitution
+### Interpretation 68.
 
-### Legislative authority 70.
+When interpreting and applying the rights and freedoms contained within this Chapter, a court or tribunal shall promote the values that underlie an open and democratic society based on human dignity, equality and freedom, and shall consider international treaties to which the Maldives is a party.
 
-- No provision of the Constitution shall be interpreted or translated in a manner that would grant to the State or any group or person the right to engage in any activity or  perform  any  act  aimed  at  the  destruction  of  the rights and freedoms set out in this Constitution.
+### Non-destructive interpretation of Constitution 69.
+
+No provision of the Constitution shall be interpreted or translated in a manner that would grant to the State or any group or person the right to engage in any activity or perform any act aimed at the destruction of the rights and freedoms set out in this Constitution.
 
 ## CHAPTER III THE PEOPLE'S MAJLIS
+
+### Legislative authority 70.
 
 (a) The legislative authority of the Maldives shall be vested in the People's Majlis.
 
@@ -704,25 +1083,25 @@ duties.
 
 [[START OF PAGE 35]]
 
-### Determination of the composition of the People's Majlis 71.
+- the supervision of the exercise of executive authority and ensuring the executive authority is accountable for the exercise of its powers, and taking the steps required for ensuring the same;
 
-- the supervision of the exercise of executive authority and ensuring the executive authority is accountable for the exercise  of  its  powers,  and  taking  the steps required for ensuring the same;
+- the approval of the annual budget and any supplementary budget;
 
-- the  approval  of  the  annual  budget  and any supplementary budget;
+- the determination of matters relating to Independent Commissions and Independent Offices in accordance with law;
 
-- the determination of matters relating  to Independent Commissions and Independent Offices  in  accordance  with law;
+- the holding of public referendums on issues of public importance;
 
-- the  holding  of  public  referendums  on issues of public importance;
-
-- the  performance  of  all  duties  otherwise expressly  required  by  this  Constitution and by law.
+- the performance of all duties otherwise expressly required by this Constitution and by law.
 
 (c) The People's Majlis shall not pass any law that contravenes any tenet of Islam.
 
-(d) Any matter submitted to the People's Majlis for approval  includes  the  power  of  the  People's Majlis  to  accept,  reject,  revoke  or  amend  the disposition of the matter.
+(d) Any matter submitted to the People's Majlis for approval includes the power of the People's Majlis to accept, reject, revoke or amend the disposition of the matter.
 
-(e) Any appointment or dismissal submitted to the People's Majlis for approval includes the power of  the  People's  Majlis  to  accept  or  reject  the appointment or dismissal.
+(e) Any appointment or dismissal submitted to the People's Majlis for approval includes the power of the People's Majlis to accept or reject the appointment or dismissal.
 
-(a) The membership of the People's Majlis shall be determined  in  accordance  with  the  following principles:
+### Determination of the composition of the People's Majlis 71.
+
+(a) The membership of the People's Majlis shall be determined in accordance with the following principles:
 
 20
 
@@ -730,15 +1109,15 @@ duties.
 
 [[START OF PAGE 36]]
 
-### Election of members 72.
-
-- two  members  for  the  first  five  thousand residents registered for each administrative division or two members for administrative divisions with less than five thousand residents; and
+- two members for the first five thousand residents registered for each administrative division or two members for administrative divisions with less than five thousand residents; and
 
 - where the residents registered to an administrative division exceed five thousand residents, one additional member for each group of five thousand residents in excess of the first five thousand.
 
-(b) The  administrative  divisions  at  the  time  this Constitution comes into force, referred to in this Article  shall  be  the  twenty  administrative  Atolls plus Male', for a total of twenty one.  The details of  the  administrative  divisions  are  specified  in Schedule 2 of this Constitution.
+(b) The administrative divisions at the time this Constitution comes into force, referred to in this Article shall be the twenty administrative Atolls plus Male', for a total of twenty one. The details of the administrative divisions are specified in Schedule 2 of this Constitution.
 
-(a) Each administrative division shall establish separate  electoral  constituencies  in  accordance with the principles specified in Article 71 of this Constitution. All members shall be elected from a separate electoral constituency.
+### Election of members 72.
+
+(a) Each administrative division shall establish separate electoral constituencies in accordance with the principles specified in Article 71 of this Constitution. All members shall be elected from a separate electoral constituency.
 
 (b) The person elected from amongst those standing for election in each separate electoral constituency  shall  be  the  person  receiving  the greatest number of votes by secret ballot.
 
@@ -808,25 +1187,25 @@ years has elapsed since his release, or pardon  for  the  offence  for  which  h
 
 [[START OF PAGE 39]]
 
-### Court jurisdiction
+### Court jurisdiction 74.
 
-### Function of members
+Any question concerning the qualifications or removal, or vacating of seats, of a member of the People's Majlis shall be determined by the Supreme Court.
 
-### Declaration of assets
+### Function of members 75.
 
-### Resignation
+Members of the People's Majlis should be guided in their actions by considerations of national interest and public welfare foremost, and should not exploit their official positions in any way for their own benefit or for the benefit of those with whom they have special relations. They shall represent not only their constituencies but the country as a whole.
 
-- Any question concerning the qualifications or removal, or vacating of seats, of a member of the People's Majlis shall be determined by the Supreme Court.
+### Declaration of assets 76.
 
-- Members  of  the  People's  Majlis  should  be  guided  in their actions by considerations of national interest and public  welfare  foremost,  and  should  not  exploit  their official positions in any way for their own benefit or for the  benefit  of  those  with  whom  they  have  special relations. They shall represent not only their constituencies but the country as a whole.
+Every member shall anually submit to the Secretary General of the People's Majlis a statement of all property and monies owned by him, business interests and liabilities. Such declarations shall include the details of any other employment and obligations of such employment.
 
-- Every  member  shall  anually  submit    to  the  Secretary General  of  the People's Majlis a statement  of  all property and monies owned by him, business interests and  liabilities. Such  declarations  shall include the details  of  any  other  employment  and  obligations  of such employment.
+### Resignation 77.
 
-- A member of the People's Majlis may resign his seat by writing under his hand addressed to the Speaker, and the  seat  shall  become  vacant  when  the  resignation  is received by the Speaker.
+A member of the People's Majlis may resign his seat by writing under his hand addressed to the Speaker, and the seat shall become vacant when the resignation is received by the Speaker.
 
-### Filling vacancy
+### Filling vacancy 78.
 
-- Whenever  there  is  a  vacancy  among  the  members  of the  People's  Majlis,  an  election  shall  be  held  within sixty days from the date of the vacancy. A by-election shall not be held within six months prior to a general election.
+Whenever there is a vacancy among the members of the People's Majlis, an election shall be held within sixty days from the date of the vacancy. A by-election shall not be held within six months prior to a general election.
 
 ### Term of the People's Majlis 79.
 
@@ -838,13 +1217,13 @@ years has elapsed since his release, or pardon  for  the  offence  for  which  h
 
 [[START OF PAGE 40]]
 
-### Extension of term of the People's Majlis
+(b) Election of members to the new People's Majlis and all matters pertaining thereto shall be concluded thirty days prior to the expiration of the existing People's Majlis.
 
-(b) Election  of  members  to  the  new  People's  Majlis and all matters pertaining thereto shall be concluded  thirty  days  prior  to  the  expiration  of the existing People's Majlis.
+### Extension of term of the People's Majlis 80.
 
-- In  the  event  of  a  declaration  of  a  state  of  emergency, making it difficult to hold a general election, the term of the People's Majlis may be extended by a resolution enacted by the People's Majlis for a period not exceeding one year if such resolution is  supported  by two-thirds  of  the  total  membership  of  the  People's Majlis. When the declaration of the state of emergency expires  or  is  revoked  during  an  extended  term,  the People's  Majlis  shall  not  continue  for  a  period  longer than sixty days, and all matters relating to the election of a new People's Majlis shall be completed within that time.
+In the event of a declaration of a state of emergency, making it difficult to hold a general election, the term of the People's Majlis may be extended by a resolution enacted by the People's Majlis for a period not exceeding one year if such resolution is supported by two-thirds of the total membership of the People's Majlis. When the declaration of the state of emergency expires or is revoked during an extended term, the People's Majlis shall not continue for a period longer than sixty days, and all matters relating to the election of a new People's Majlis shall be completed within that time.
 
-### Oath of office of members of the People's Majlis
+### Oath of office of members of the People's Majlis 81.
 
 - A  person  elected  as  a  member  of  the  People's  Majlis shall assume membership in the People's Majlis upon taking and subscribing, before the Chief Justice or his designate, the oath of office of members of the People's Majlis set out in Schedule 1 of this Constitution.
 
@@ -882,11 +1261,11 @@ years has elapsed since his release, or pardon  for  the  offence  for  which  h
 
 removal.
 
-### Sittings of the People's Majlis
+### Sittings of the People's Majlis 83.
 
 - There  shall  be  at  least  three  sessions  of  the  People's Majlis  every  year.  The  dates  for  the  commencement and conclusion of the sessions must be specified in the Regulations  governing  the  Proceedings  of People's Majlis.  The  sessions  shall  generally  be  held  at  the House of the People's Majlis.
 
-### Presidential address
+### Presidential address 84.
 
 - At the beginning of the first session of each year at the first  sitting,  the  President  shall  address  the  People's Majlis  on  the  state  of  the  country,  and  may  present proposals for improving the state of the country to the People's Majlis.
 
@@ -898,7 +1277,7 @@ removal.
 
 (c) Article (b) does not prevent the People's Majlis from specifying additional reasons for excluding the  public  from  all  or  any  part  of  a  committee meeting of the People's Majlis.
 
-### Quorum
+### Quorum 86.
 
 - The  presence  of  at  least  twenty  five  percent  of  the members,  shall  constitute  a  quorum  of  the  People's Majlis.
 
@@ -920,7 +1299,7 @@ present and voting.
 
 (d) The  Speaker  or  other  person  presiding  over sittings of the People's Majlis may vote when a question  must  be  decided  by  a  two-thirds  or three-quarters majority of the members.
 
-### Regulation of procedure
+### Regulation of procedure 88.
 
 (a) Subject  to  the  provisions  of  this  Constitution, the People's Majlis shall:
 
@@ -938,11 +1317,11 @@ and allowances.
 
 (b) Unless otherwise specified in this Constitution, the  validity  of  any  proceedings  in  the  People's Majlis  shall  not  be  questioned  in  any  court  of law.
 
-### Publication of proceedings of the People's Majlis
+### Publication of proceedings of the People's Majlis 89.
 
 - All proceedings of the People's Majlis shall be published  in  the  minutes  of  the  People's  Majlis  and available to the public.
 
-### Privilege
+### Privilege 90.
 
 (a) No  member  or  other  person  shall  be  liable  to any  proceedings  in  any  court,  and  no  person shall be subject to any inquiry, arrest, detention or prosecution, with respect to anything said in, produced  before,  or  submitted  to  the  People's Majlis or any of its committees, or with respect to any vote given if the same is not contrary to any tenet of Islam.
 
@@ -962,17 +1341,17 @@ and allowances.
 
 (c) Any  Bill  not  returned  for  reconsideration  or amendment  or  assented  to  by  the  President within  the  specified  time  shall  be  deemed  to have been assented to by the President and shall be published in the Government Gazette.
 
-### Publication of laws in the Government Gazette
+### Publication of laws in the Government Gazette 92.
 
 - A Bill  passed  by  the  People's  Majlis  shall  become  law when assented to by the President. Every Bill assented to by the President shall be published in the Government  Gazette  on  the  day  of  assent.  Such  law shall  come  into  force  when  it  is  published  in  the Government  Gazette,  or  on  such  later  date  following publication stipulated in the statute.
 
-### Treaties
+### Treaties 93.
 
 (a) Treaties  entered  into  by  the  Executive  in  the name  of the State with foreign states and international organizations shall be approved by the  People's  Majlis,  and  shall  come  into  force only  in  accordance  with  the  decision  of  the People's Majlis.
 
 (b) Despite  the  provisions  of  article  (a),  citizens shall only be required to act in compliance with treaties ratified by the State as provided for in a law enacted by the People's Majlis.
 
-### Delegation of power to make regulations and orders with lawful authority
+### Delegation of power to make regulations and orders with lawful authority 94.
 
 - The  People's  Majlis  may,  pursuant  to  law  and  for prescribed  purposes,  delegate  to  any  person  or  body power  to make  orders, and regulations, or other instruments  having  legislative effect, including  the power to:
 
@@ -986,7 +1365,7 @@ and allowances.
 
 (b) make any law or part thereof applicable to any area or to any class of persons.
 
-### Reference to Supreme Court
+### Reference to Supreme Court 95.
 
 - The  People's  Majlis  may  by  resolution  refer  to  the Supreme Court for hearing and consideration important  questions  of  law  concerning  any  matter, including the interpretation of the Constitution and the constitutional  validity  of  any  statute.  The  Supreme Court shall answer the questions so referred and shall provide  the  answers  to  the  People's  Majlis,  giving reasons for its answers. The opinion shall be pronounced in like manner as in the case of a judgment on appeal to the Supreme Court.
 
@@ -998,7 +1377,7 @@ and allowances.
 
 (c) No supplementary expenditures shall be added to an approved budget without further approval by the People's Majlis. Expenditures included in the budget shall be applied solely for the specified purpose.
 
-### Taxation and expenditures
+### Taxation and expenditures 97.
 
 - The Executive shall not:
 
@@ -1070,7 +1449,7 @@ The  People's  Majlis  or  any  of  its  committees  has  the power to:
 
 (f) The  Regulations  governing  the  functioning  of the  People's  Majlis  shall  specify  the  principles and procedures concerning a resolution to remove  the  President  or  Vice  President  from office as provided in this Constitution.
 
-### Vote of no confidence in a member of the Cabinet
+### Vote of no confidence in a member of the Cabinet 101.
 
 (a) A  motion  expressing  want  of  confidence  in  a member  of  the  Cabinet  may  be  moved  in  the People's  Majlis,  under  the  hand  of  at  least  ten members, specifying the reasons.
 
@@ -1086,19 +1465,19 @@ The  People's  Majlis  or  any  of  its  committees  has  the power to:
 
 (d) A member of Cabinet against whom a motion of want  of  confidence  has  been  passed  by  the People's Majlis shall cease to hold office.
 
-### Salary and allowances
+### Salary and allowances 102.
 
 - The President, Vice President, members of the Cabinet, members of the People's Majlis, including the Speaker and  Deputy  Speaker,  members  of  the  Judiciary,  and members of the Independent Commissions and Independent  Offices  shall  be  paid  such  salary  and allowances as determined by the People's Majlis.
 
-### Improper benefit
+### Improper benefit 103.
 
 - The  members  of  the  People's  Majlis  and  persons appointed  or  employed  by  them  shall  not  use  their position  or  any  information  entrusted  to  them  to improperly benefit themselves or any other person.
 
-### Secretary General
+### Secretary General 104.
 
 - The People's Majlis shall, as provided for in its regulations,  appoint  a  Secretary  General  to  establish and manage the secretariat, to arrange for the sittings and documentation of the People's Majlis, and generally to assist the Speaker and the members.
 
-### Security
+### Security 105.
 
 (a) The security of the House of the People's Majlis, all property attached thereto and all offices and facilities  where  its  work  is  conducted  shall  be protected by the security services of the State
 
@@ -1122,17 +1501,17 @@ The  People's  Majlis  or  any  of  its  committees  has  the power to:
 
 (d) The President shall exercise Executive authority as provided for in the Constitution and law.
 
-### Term of office
+### Term of office 107.
 
 (a) The President shall hold office for a term of five years and no person elected as President pursuant  to  this  Constitution  shall  serve  for more than two terms in office, whether consecutive or otherwise.
 
 (b) A  vacancy  in  the  office  of  President  leading  to the Vice President succeeding to the presidency shall  only  be  considered  as  a  term  in  office within the meaning of article (a) if there are at least two years remaining in that term of office.
 
-### Manner of Presidential election
+### Manner of Presidential election 108.
 
 - The President shall be elected directly by the people by universal and secret suffrage.
 
-### Qualifications for election as President
+### Qualifications for election as President 109.
 
 - A person elected as President shall have the following qualifications:
 
@@ -1156,7 +1535,7 @@ The  People's  Majlis  or  any  of  its  committees  has  the power to:
 
 (g) despite  the  provisions  of  article  (f),  not  have been convicted of an offence for which a hadd is prescribed  in  Islam  or  of  fraud,  deception  or criminal breach of trust.
 
-### Election
+### Election 110.
 
 - Elections for the office of President shall be held within one hundred and twenty days to thirty days prior to the expiry of the existing presidential term.
 
@@ -1176,7 +1555,7 @@ candidates receiving the highest number of votes in  the  first  election  have 
 
 (c) The People's Majlis shall enact a statute governing the conduct of presidential elections.
 
-### Vice President
+### Vice President 112.
 
 (a) There shall be a Vice President of the Maldives who shall assist the President in the discharge of his duties and responsibilities.
 
@@ -1186,7 +1565,7 @@ candidates receiving the highest number of votes in  the  first  election  have 
 
 (d) If the office of the President becomes vacant for any  reason,  the  Vice  President  shall  succeed  to the office of the President.
 
-### Jurisdiction of the Supreme Court
+### Jurisdiction of the Supreme Court 113.
 
 - The  Supreme  Court,  sitting  together  in  session,  shall have sole and final jurisdiction to determine all disputes concerning the qualification or disqualification, election, status, of a presidential candidate or running mate or removal of the President by the People's Majlis.
 
@@ -1196,11 +1575,11 @@ candidates receiving the highest number of votes in  the  first  election  have 
 
 [[START OF PAGE 54]]
 
-### Oath of office of the President and Vice President
+### Oath of office of the President and Vice President 114.
 
 - An incoming President or Vice President shall assume office  upon  taking  and  subscribing,  before  the  Chief Justice  or  his  designate,  at  a  sitting  of  the  People's Majlis, the relevant oath of office set out in Schedule 1 of this Constitution.
 
-### Powers and responsibilities of the President
+### Powers and responsibilities of the President 115.
 
 - In addition to the duties and powers otherwise expressly conferred on the President by this Constitution  and  the  law,  the  President  is  entrusted pursuant  to  this  Constitution  with  carrying  out  the duties  specified  herein  and  shall  have  the  following powers to do so:
 
@@ -1232,9 +1611,9 @@ candidates receiving the highest number of votes in  the  first  election  have 
 
 (k)
 
-- to enter into general treaties and agreements with foreign states and international organizations, which  do not impose any obligations on citizens;
+1. to enter into general treaties and agreements with foreign states and international organizations, which  do not impose any obligations on citizens;
 
-- to enter into and ratify, with the approval of the People's Majlis, treaties and agreements with foreign states and international organizations, which impose obligations on citizens;
+2. to enter into and ratify, with the approval of the People's Majlis, treaties and agreements with foreign states and international organizations, which impose obligations on citizens;
 
 (l) to  appoint    members  of  diplomatic  missions  to foreign countries and international organizations  in  consultation  with  the  People's Majlis;
 
@@ -1284,11 +1663,11 @@ and  their  areas  of  jurisdiction  established  in accordance with article (a)
 
 (b) The Vice President shall perform the responsibilities of the President if the President is  absent  or  temporarily  unable  to  perform  the responsibilities of office.
 
-### Salary and allowances
+### Salary and allowances 118.
 
 - The  President  and  Vice  President  shall  be  paid  such salary  and  allowances  as  determined  by  the  People's Majlis.
 
-### Restrictions
+### Restrictions 119.
 
 (a) The President and Vice President shall not hold any other public office or office of profit, actively engage  in  a  business  or  in  the  practice  of  any profession, or any other income generating employment, be employed by any person, buy or lease  any  property  belonging  to  the  State,  or have a financial interest in any transaction between the State and any other party.
 
@@ -1302,7 +1681,7 @@ General a statement of all property and monies owned
 
 by him, business interests and all assets and liabilities.
 
-### Resignation
+### Resignation 121.
 
 (a) The President may resign from office by writing under his hand submitted to the Speaker of the People's  Majlis,  and  the  office  shall  become vacant  when  the  resignation  is  received  by  the
 
@@ -1316,7 +1695,7 @@ Speaker.
 
 (b) The  Vice  President  may  resign  from  office  by writing under his hand submitted to the President,  and  the  office  shall  become  vacant when the resignation is received by the President.
 
-### Vacancy of office of Vice President
+### Vacancy of office of Vice President 122.
 
 - If the office of Vice President becomes vacant by reason of  death,  resignation,  removal  from  office,  permanent incapacity, or succession to the office of the President, the  President  shall  appoint  a  new  Vice  President  to serve the remainder of the term. The appointment shall be approved by the People's Majlis.
 
@@ -1360,15 +1739,15 @@ Vice President elect in the presidential elections, presidential  elections  sha
 
 (c) Where  fresh  presidential  elections  have  to  be held  for  any  reason  during  the  currency  of  an ongoing presidential term, persons elected to the office of the President or the Vice President shall only continue in office for the remainder of the ongoing  presidential  term.  For  the  purposes  of Article  107  of  this  Constitution  they  shall  be dealt  with  as  specified  in  article  (c)  of  the  said Article.
 
-### Oath of office by persons temporarily discharging the duties of the office of President and Vice President
+### Oath of office by persons temporarily discharging the duties of the office of President and Vice President 126.
 
 - Any  person  temporarily  discharging  the  duties  of  the office of the President or Vice President shall take and subscribe before the Chief Justice or his designate, the relevant  oath  of  office  set  out  in  Schedule  1  of  this Constitution.
 
-### Criminal accountability
+### Criminal accountability 127.
 
 - The President and the Vice President shall be answerable  in  law  for  any  alleged  criminal  offence, whether committed before or during his term of office. However,  if  any  criminal  proceedings  are  instituted against  the  President,  the  People's  Majlis  may  if  it  so sees  fit,  by  resolution  provide  that  such  proceedings shall not be continued until after the expiration of the term of office.
 
-### Immunity to a person who has served as the President
+### Immunity to a person who has served as the President 128.
 
 - A  person  who  has  served  in  the  office  of  President, serving his term of office lawfully without committing any  offence,  shall  be  entitled  to  the  highest  honour, dignity, protection, financial privileges and other privileges  entitled  to  a  person  who  has  served  in  the highest office of the land. Such protection and privileges shall be specified in law.
 
@@ -1394,15 +1773,15 @@ Vice President elect in the presidential elections, presidential  elections  sha
 
 (a) A person shall be qualified to be a member of the Cabinet if he:
 
-- is a citizen of the Maldives;
+1. is a citizen of the Maldives;
 
-- is not a citizen of a foreign country;
+2. is not a citizen of a foreign country;
 
-- is  a  Muslim  and  a  follower  of  a  Sunni school of Islam;
+3. is  a  Muslim  and  a  follower  of  a  Sunni school of Islam;
 
-- has attained the age of  twenty-five years;
+4. has attained the age of  twenty-five years;
 
-- is of sound mind.
+5. is of sound mind.
 
 46
 
@@ -1412,15 +1791,15 @@ Vice President elect in the presidential elections, presidential  elections  sha
 
 (b) A person is disqualified from being a member of the Cabinet, or a member  of the Cabinet immediately becomes disqualified, if he:
 
-- has  a  decreed    debt  which  is  not  being paid as provided in the judgment; or
+1. has  a  decreed    debt  which  is  not  being paid as provided in the judgment; or
 
-- has  been  convicted  of  a  criminal  offence and  sentenced  to  a  term  of  more  than twelve  months,  unless  a  period  of  three years  has  elapsed  since  his  release,  or pardon  for  the  offence  for  which  he  was sentenced.
+2. has  been  convicted  of  a  criminal  offence and  sentenced  to  a  term  of  more  than twelve  months,  unless  a  period  of  three years  has  elapsed  since  his  release,  or pardon  for  the  offence  for  which  he  was sentenced.
 
-### Oath of office
+### Oath of office 131.
 
 - A  member  of  the  Cabinet  shall  assume  office  upon taking and subscribing, before the Chief Justice or his designate, the oath of office of members of the Cabinet set out in Schedule 1 of this Constitution.
 
-### Responsibilities of the Cabinet
+### Responsibilities of the Cabinet 132.
 
 - The members of the Cabinet shall comply with all the provisions  of  the  Constitution  and  the  law,  and  shall faithfully discharge  the responsibilities assigned  to them by the President, including the following:
 
@@ -1484,7 +1863,7 @@ responsibility  of  the  Prosecutor  General  in  this Constitution.
 
 [[START OF PAGE 65]]
 
-### Salary and allowances
+### Salary and allowances 135.
 
 - The members of the Cabinet shall be paid such salary and allowances as determined by the People's Majlis.
 
@@ -1494,21 +1873,21 @@ responsibility  of  the  Prosecutor  General  in  this Constitution.
 
 (b) A  member  of  the  Cabinet  shall  not  use  his position or any information entrusted to him by virtue of his office to improperly benefit himself or any other person.
 
-### Dismissal
+### Dismissal 137.
 
 (a) The President may at his discretion remove any member  of  the  Cabinet  from  office  by  writing under his hand addressed to such member.
 
 (b) Despite the provisions of article (a), the President does not have the discretion to remove the Vice President from office.
 
-### Declaration of assets
+### Declaration of assets 138.
 
 - Every member of the Cabinet shall annually submit to the  Auditor  General  a  statement  of  all  property  and monies owned by him, business interests and all assets and liabilities.
 
-### Resignation
+### Resignation 139.
 
 - A  member  of  the  Cabinet  may  resign  from  office  by writing under his hand submitted to the President, and the office shall become vacant when the resignation is received by the President.
 
-### A minister to be responsible for each government authority
+### A minister to be responsible for each government authority 140.
 
 - A member of the Cabinet shall be given responsibility for each authority or institute established by the Government or the People's Majlis, except for independent institutions specified in this Constitution
 
@@ -1522,7 +1901,7 @@ or  established  pursuant  to  law.  Such  member  of  the Cabinet  must  take  
 
 ## CHAPTER VI THE JUDICIARY
 
-### Judiciary
+### Judiciary 141.
 
 (a) The  judicial  power  is  vested  in  the  Supreme Court, the High Court, and such Trial Courts as established by law.
 
@@ -1538,7 +1917,7 @@ or  established  pursuant  to  law.  Such  member  of  the Cabinet  must  take  
 
 [[START OF PAGE 67]]
 
-### Compliance with law
+### Compliance with law 142.
 
 - The  Judges  are  independent,  and  subject  only  to  the Constitution  and  the  law.  When  deciding  matters  on which the Constitution or the law is silent, Judges must consider Islamic Shari'ah. In the performance of their judicial functions, Judges must apply the Constitution and  the  law  impartially  and  without  fear,  favour  or prejudice.
 
@@ -1566,13 +1945,13 @@ When  deciding a constitutional matter within its jurisdiction, a court:
 
 [[START OF PAGE 68]]
 
-- an order providing just compensation for any damage sustained by any person or group  of  persons  due  to  any  statute, regulation  or action that is inconsistent with the Constitution; or
+1. an order providing just compensation for any damage sustained by any person or group  of  persons  due  to  any  statute, regulation  or action that is inconsistent with the Constitution; or
 
-- an  order  suspending  the  declaration  of invalidity (of a statute, regulation or action due to inconsistency with the Constitution) for any period and on any conditions, to allow the competent authority to correct the defect:
+2. an  order  suspending  the  declaration  of invalidity (of a statute, regulation or action due to inconsistency with the Constitution) for any period and on any conditions, to allow the competent authority to correct the defect:
 
 (c) may  make  an  order  limiting  the  retrospective effect  of  a  declaration  of  invalidity  of  a  statute, regulation  or  part  thereof,  order,  decision  or action of any person or body performing a public function that is inconsistent with the Constitution.
 
-### Supreme Court
+### Supreme Court 145.
 
 (a) The  Supreme  Court  shall  consist  of  the  Chief Justice and such number of Judges as provided by  law.  The  Supreme  Court  shall  consist  of  an uneven number of Judges.
 
@@ -1586,17 +1965,17 @@ When  deciding a constitutional matter within its jurisdiction, a court:
 
 (c) The Supreme Court shall be the final authority on  the  interpretation  of  the  Constitution,  the law, or any other matter dealt with by a court of law.
 
-### High Court
+### High Court 146.
 
 (a) The High Court shall consist of such number of Judges as provided by law.
 
 (b) Matters  shall  be  disposed  of  in  the  High  Court by an uneven number of Judges sitting together in session.
 
-### Appointment of the Chief Justice
+### Appointment of the Chief Justice 147.
 
 - There  shall  be  a  Chief  Justice  of  the  Maldives.  The President as the Head of State shall appoint the Chief Justice, after consulting the Judicial Service Commission  and  confirmation  of  the  appointee  by  a majority of the members of the People's Majlis present and voting.
 
-### Appointment of Judges
+### Appointment of Judges 148.
 
 (a) The President as the Head of State shall appoint the Judges of the Supreme Court, after consulting the Judicial Service Commission and confirmation of the appointees by a majority of the members of the People's Majlis present and voting.
 
@@ -1618,19 +1997,19 @@ When  deciding a constitutional matter within its jurisdiction, a court:
 
 (b) In  addition  to  the  qualifications  specified  in article  (a),  a  Judge  shall  possess  the  following qualifications:-
 
-- be  a  Muslim  and  a  follower  of  a  Sunni school of Islam;
+1. be  a  Muslim  and  a  follower  of  a  Sunni school of Islam;
 
-- be twenty-five years of age;
+2. be twenty-five years of age;
 
-- has  not  been  convicted  of  an  offence  for which a hadd is prescribed in Islam, criminal breach of trust, or bribery;
+3. has  not  been  convicted  of  an  offence  for which a hadd is prescribed in Islam, criminal breach of trust, or bribery;
 
-- be of sound mind.
+4. be of sound mind.
 
 (c) A person appointed to be a Judge of the Supreme Court, shall be at least thirty  years  of age; possess at least seven years experience as a Judge  or  practicing  lawyer  or  both  as  a  Judge and a practicing lawyer, and must be educated in Islamic Shari'ah or law.
 
 (d) The People's Majlis shall pass a statute relating to Judges.
 
-### Oath of office of Judges
+### Oath of office of Judges 150.
 
 - Every Judge shall take and subscribe the oath of office of  Judges  set  out  in  Schedule  1  of  this  Constitution before assuming office.
 
@@ -1640,15 +2019,15 @@ When  deciding a constitutional matter within its jurisdiction, a court:
 
 [[START OF PAGE 71]]
 
-### Full time performance
+### Full time performance 151.
 
 - Every Judge shall devote his full time to the performance of the responsibilities of a Judge. A Judge shall perform other work only in accordance with and as specified by the statute relating to Judges.
 
-### Salary and allowances
+### Salary and allowances 152.
 
 - Judges  shall  be  paid  such  salary  and  allowances  in keeping  with  the  stature  of  their  office  as  determined by the People's Majlis.
 
-### Declaration of assets
+### Declaration of assets 153.
 
 - Every  Judge  shall  annually  submit  to  the  Judicial Service  Commission  a  statement  of  all  property  and monies owned by him, business interests and all assets and liabilities.
 
@@ -1656,13 +2035,13 @@ When  deciding a constitutional matter within its jurisdiction, a court:
 
 (a) A Judge shall not be removed from office during good  behavior and  compliance  with  judicial ethics.
 
-(b) A Judge may be removed from office only if the Judicial Service Commission finds that the person is grossly incompetent, or that the Judge is guilty of gross misconduct, and submits to the People's Majlis a resolution supporting the removal of the Judge, which is passed by a twothirds  majority  of  the  members  of  the  People's Majlis present and voting.
+(b) A Judge may be removed from office only if the Judicial Service Commission finds that the person is grossly incompetent, or that the Judge is guilty of gross misconduct, and submits to the People's Majlis a resolution supporting the removal of the Judge, which is passed by a two-thirds  majority  of  the  members  of  the  People's Majlis present and voting.
 
-### Power to determine the jurisdiction of courts and to enact administrative laws relating to the courts
+### Power to determine the jurisdiction of courts and to enact administrative laws relating to the courts 155.
 
 - The  People's  Majlis  shall  have  authority  to  pass  laws concerning  the  administration  of  the  courts,  the  trial and appellate jurisdiction of the courts and trial procedures.
 
-### Administration of the courts
+### Administration of the courts 156.
 
 - The  courts  have  the  inherent  power  to  protect  and regulate their own process, in accordance with law and the interests of justice.
 
@@ -1714,7 +2093,7 @@ The Judicial Service Commission shall consist of:
 
 (j) a lawyer elected from among the lawyers licensed to practise in the Maldives by themselves.
 
-### Responsibilities and powers
+### Responsibilities and powers 159.
 
 - The Judicial Service Commission is entrusted with  the responsibility and power:
 
@@ -1730,21 +2109,21 @@ The Judicial Service Commission shall consist of:
 
 (c) to make rules:
 
-- regarding schemes for recruitment and procedures for the appointment of Judges;
+1. regarding schemes for recruitment and procedures for the appointment of Judges;
 
-- ethical standards of Judges;
+2. ethical standards of Judges;
 
-- providing for such matters as are necessary or expedient for the exercise, performance and discharge of the duties and responsibilities of the Commission;
+3. providing for such matters as are necessary or expedient for the exercise, performance and discharge of the duties and responsibilities of the Commission;
 
 (d) to  advise  the  President  and  the  People's  Majlis on any other matter relating to the Judiciary or the administration of justice;
 
 (e) to exercise such additional powers and functions prescribed by this Constitution or by law.
 
-### Constituting the Judicial Service Commission
+### Constituting the Judicial Service Commission 160.
 
 - The President as Head of the State shall constitute the Judicial Service Commission as specified in this Chapter.
 
-### Term of office of members of the Judicial Service Commission
+### Term of office of members of the Judicial Service Commission 161.
 
 - A member of the Judicial Service Commission:
 
@@ -1758,25 +2137,25 @@ The Judicial Service Commission shall consist of:
 
 [[START OF PAGE 75]]
 
-### Resignation from membership of the Judicial Service Commission
+### Resignation from membership of the Judicial Service Commission 162.
 
-162. A  member  of  the  Judicial  Service  Commission  may resign from office by writing under his hand addressed to  the  President,  and  the  office  shall  become  vacant when  the  resignation  is  received  by  the  President.  A member  appointed  under  Articles  158  (a),  (g),  or  (i) may not resign pursuant to this Article.
+- A  member  of  the  Judicial  Service  Commission  may resign from office by writing under his hand addressed to  the  President,  and  the  office  shall  become  vacant when  the  resignation  is  received  by  the  President.  A member  appointed  under  Articles  158  (a),  (g),  or  (i) may not resign pursuant to this Article.
 
-### Quorum and voting
+### Quorum and voting 163.
 
-163. A majority of the members shall constitute a quorum at a meeting of the Judicial Service Commission, and any decision  of  the  Judicial  Service  Commission  shall  be taken  by  a  majority  of  votes  of  the  members  present and voting.
+- A majority of the members shall constitute a quorum at a meeting of the Judicial Service Commission, and any decision  of  the  Judicial  Service  Commission  shall  be taken  by  a  majority  of  votes  of  the  members  present and voting.
 
-### Salary and allowances
+### Salary and allowances 164.
 
-164. A member of the Judicial Service Commission who is not  a  member  of  the  Executive,  the  Judiciary,  or  the People's Majlis shall be paid such salary and allowances as may be determined by the People's Majlis.
+- A member of the Judicial Service Commission who is not  a  member  of  the  Executive,  the  Judiciary,  or  the People's Majlis shall be paid such salary and allowances as may be determined by the People's Majlis.
 
-### Removal from office
+### Removal from office 165.
 
-165. A member of the Judicial Service Commission appointed pursuant to Article 158 (b), (c), (d), (e), (f), (h) or (j), may be removed from office by the appointor. Members of the Judicial Service Commission appointed  by  virtue  of  the  office  held  pursuant  to Articles  158  (a),  (g),  or  (i)  shall  be  removed  from membership of the Judicial Service Commission upon vacation of the office he holds.
+- A member of the Judicial Service Commission appointed pursuant to Article 158 (b), (c), (d), (e), (f), (h) or (j), may be removed from office by the appointor. Members of the Judicial Service Commission appointed  by  virtue  of  the  office  held  pursuant  to Articles  158  (a),  (g),  or  (i)  shall  be  removed  from membership of the Judicial Service Commission upon vacation of the office he holds.
 
-### Oath of office
+### Oath of office 166.
 
-166. Every member of the Judicial Service Commission shall take and subscribe the oath of office of members of the Judicial  Service  Commission  set  out  in  Schedule  1  of this Constitution before assuming office.
+- Every member of the Judicial Service Commission shall take and subscribe the oath of office of members of the Judicial  Service  Commission  set  out  in  Schedule  1  of this Constitution before assuming office.
 
 60
 
@@ -1786,7 +2165,7 @@ The Judicial Service Commission shall consist of:
 
 ### ELECTIONS COMMISSION
 
-### Elections Commission
+### Elections Commission 167.
 
 (a) There  shall  be  an  Elections  Commission  of  the Maldives.
 
@@ -1800,7 +2179,7 @@ The Judicial Service Commission shall consist of:
 
 (b) The  President  shall  appoint  to  the  Elections Commission those persons approved by a majority of the People's Majlis from the names submitted to the People's Majlis as provided for in the statute governing the Elections Commission.
 
-### Qualifications
+### Qualifications 169.
 
 - To be qualified for appointment  to the Elections Commission,  a  person  shall  possess  the  educational qualifications,  experience  and  recognized  competence necessary  to  discharge  the  functions  of  the  Elections Commission.  Members  of  the  Elections  Commission shall not engage in any other employment.
 
@@ -1834,6 +2213,8 @@ The Elections Commission's responsibilities and powers include the following:
 
 [[START OF PAGE 78]]
 
+(h) to perform such additional functions as may be prescribed by law.
+
 ### Voting and recording of results 171.
 
 (a) Voting in all public elections or public referendums conducted by the Elections Commission, shall be by secret ballot.
@@ -1846,11 +2227,11 @@ The Elections Commission's responsibilities and powers include the following:
 
 (b) The  manner  for  dealing  with  any  challenge submitted pursuant to article (a) shall be provided for in a statute on elections.
 
-### Term of office of members of the Elections Commission
+### Term of office of members of the Elections Commission 173.
 
 - A member  of  the Elections Commission  shall be appointed  for  one  term  of  five  years.  The  People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
 
-### Resignation from membership of the Elections Commission
+### Resignation from membership of the Elections Commission 174.
 
 - A  member  of  the  Elections  Commission  may  resign from office by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
 
@@ -1860,15 +2241,15 @@ The Elections Commission's responsibilities and powers include the following:
 
 [[START OF PAGE 79]]
 
-### Quorum and voting
+### Quorum and voting 175.
 
 - A majority of the members of the Elections Commission shall constitute a quorum at a meeting of the  Elections  Commission,  and  any  decision  of  the Elections  Commission  shall  be  taken  by  a  majority  of votes of the members present and voting.
 
-### Salary and allowances
+### Salary and allowances 176.
 
 - The  members  of  the  Elections  Commission  shall  be paid such salary and allowances as determined by the People's Majlis.
 
-### Removal from office
+### Removal from office 177.
 
 - A member  of  the Elections Commission  shall be removed  from  office  only  for  the  reasons  specified  in article (a), and in the manner specified in article (b):
 
@@ -1876,7 +2257,7 @@ The Elections Commission's responsibilities and powers include the following:
 
 (b) a  finding  to  that  effect  by  a  committee  of  the People's Majlis pursuant to article (a), and upon the  approval  of  such  finding  by  the  People's Majlis by a majority of those present and voting, calling  for  the  member's  removal  from  office, such  member  shall  be  deemed  removed  from office.
 
-### Oath of office
+### Oath of office 178.
 
 - Every member of the Elections Commission shall take and  subscribe  the  oath  of  office  of  members  of  the Elections  Commission  set  out  in  Schedule  1  of  this Constitution before assuming office.
 
@@ -1888,7 +2269,7 @@ The Elections Commission's responsibilities and powers include the following:
 
 ### CIVIL SERVICE COMMISSION
 
-### Civil Service Commission
+### Civil Service Commission 179.
 
 (a) There shall be a Civil Service Commission of the Maldives.
 
@@ -1902,7 +2283,7 @@ The Elections Commission's responsibilities and powers include the following:
 
 (b) The President shall appoint to the Civil Service Commission those persons approved by a majority  of  the  members  of  the  People's  Majlis present  and  voting,  from  the  names  submitted to  the  People's  Majlis  as  provided  for  in  the statute governing the Civil Service Commission.
 
-### Qualifications
+### Qualifications 181.
 
 - To  be  qualified  for  appointment  to  the  Civil  Service Commission,  a  person  shall  possess  the  educational qualifications,  experience  and  recognized  competence necessary to discharge the functions of the Civil Service Commission. Members of the Civil Service Commission
 
@@ -1918,17 +2299,17 @@ shall not engage in any other employment.
 
 (a) The  Civil  Service  Commission's  responsibilities and powers include the following:
 
-- to  recruit,  appoint,  promote,  transfer  and dismiss the members of the Civil Service, as defined by law;
+1. to recruit, appoint, promote, transfer and dismiss the members of the Civil Service, as defined by law;
 
-- to establish uniform standards of organization  and  administration  within  the Civil Service;
+2. to establish uniform standards of organization and administration within the Civil Service;
 
-- to  formulate  measures  to  ensure  effective and  efficient  performance  within  the  Civil Service;
+3. to formulate measures to ensure effective and efficient performance within the Civil Service;
 
-- to establish personnel procedures relating to recruitment, appointments, transfers, promotions and dismissals;
+4. to establish personnel procedures relating to recruitment, appointments, transfers, promotions and dismissals;
 
-- to report to the Executive and to the People's Majlis on  its activities and  the performance of its functions, including personnel  policies,  findings,  directions  and advice it may give, and an evaluation of the extent to which the values and principles set out in article (b) are complied with;
+5. to report to the Executive and to the People's Majlis on its activities and the performance of its functions, including personnel policies, findings, directions and advice it may give, and an evaluation of the extent to which the values and principles set out in article (b) are complied with;
 
-- to exercise or perform such additional powers  and  responsibilities  prescribed  by law.
+6. to exercise or perform such additional powers and responsibilities prescribed by law.
 
 (b) In carrying out its powers and functions, the Civil Service Commission shall be governed by democratic  values  and  principles,  including  the
 
@@ -1940,23 +2321,23 @@ shall not engage in any other employment.
 
 following:
 
-- a high standard of professional ethics shall be promoted and maintained;
+1. a high standard of professional ethics shall be promoted and maintained;
 
-- efficient, economic and effective use of resources shall be promoted;
+2. efficient, economic and effective use of resources shall be promoted;
 
-- services shall be provided impartially, fairly, equitably and without prejudice;
+3. services shall be provided impartially, fairly, equitably and without prejudice;
 
-- the needs of the public shall be responded to, and the public shall be encouraged to participate in policy-making;
+4. the needs of the public shall be responded to, and the public shall be encouraged to participate in policy-making;
 
-- the  accountability  of  the  Civil  Service  to  all branches of the State and to the public;
+5. the accountability of the Civil Service to all branches of the State and to the public;
 
-- transparency  shall  be  fostered  by  providing the public with timely, accessible and accurate information;
+6. transparency shall be fostered by providing the public with timely, accessible and accurate information;
 
-- good human-resource management and career-development practices to  maximise human potential shall be cultivated;
+7. good human-resource management and career-development practices to maximise human potential shall be cultivated;
 
-- employment and personnel management practices shall be based on ability, analysis of determined principles  and fairness;
+8. employment and personnel management practices shall be based on ability, analysis of determined principles and fairness;
 
-- no member  of  the  Civil Service  may  be favoured or prejudiced only because of support  for  or  opposition  to  a  particular political party or cause;
+9. no member of the Civil Service may be favoured or prejudiced only because of support for or opposition to a particular political party or cause;
 
 67
 
@@ -1964,27 +2345,27 @@ following:
 
 [[START OF PAGE 83]]
 
-### Term of office of members of the Civil Service Commission
+10. no member of the Civil Service shall use his position or any information entrusted to him to improperly benefit himself or any other person.
 
-### Resignation from membership of the Civil Service Commission
+### Term of office of members of the Civil Service Commission 183.
 
-### Quorum and voting
+- A member of the Civil Service Commission shall be appointed for one term of five years. The People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
 
-### Salary and allowances
-
-### Removal from office
-
-- no member of the Civil Service shall use his position or any information entrusted to him to  improperly  benefit  himself  or  any  other person.
-
-- A  member  of  the  Civil  Service  Commission  shall  be appointed  for  one  term  of  five  years.  The  People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
+### Resignation from membership of the Civil Service Commission 184.
 
 - A member of the Civil Service Commission may resign from office by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
 
-- A majority of the members  of the Civil Service Commission shall constitute a quorum at a meeting of the Civil Service Commission, and any decision of the Civil Service Commission shall be taken by a majority of votes of the members present and voting.
+### Quorum and voting 185.
+
+- A majority of the members of the Civil Service Commission shall constitute a quorum at a meeting of the Civil Service Commission, and any decision of the Civil Service Commission shall be taken by a majority of votes of the members present and voting.
+
+### Salary and allowances 186.
 
 - The members of the Civil Service Commission shall be paid such salary and allowances as may be determined by the People's Majlis.
 
-- A  member  of  the  Civil  Service  Commission  shall  be removed  from  office  only  for  the  reasons  specified  in article (a), and in the manner specified in article (b):
+### Removal from office 187.
+
+- A member of the Civil Service Commission shall be removed from office only for the reasons specified in article (a), and in the manner specified in article (b):
 
 (a) on the ground of misconduct, incapacity or incompetence; and
 
@@ -1994,23 +2375,23 @@ following:
 
 [[START OF PAGE 84]]
 
-### Oath of office
+(b) a finding to that effect by a committee of the People's Majlis pursuant to article (a), and upon the approval of such finding by the People's Majlis by a majority of those present and voting, calling for the member's removal from office, such member shall be deemed removed from office.
 
-### Human Rights Commission
+### Oath of office 188.
 
-### Appointment and composition of the Human Rights Commission 190.
-
-(b) a  finding  to  that  effect  by  a  committee  of  the People's Majlis pursuant to article (a), and upon the approval of such finding by the People's Majlis by a majority of those present and voting, calling for the member's removal from office,  such  member  shall be deemed removed from office.
-
-- Every  member  of  the  Civil  Service  Commission  shall take and subscribe the oath of office of members of the Civil  Service  Commission set out in Schedule 1 before assuming office.
+- Every member of the Civil Service Commission shall take and subscribe the oath of office of members of the Civil Service Commission set out in Schedule 1 before assuming office.
 
 ### HUMAN RIGHTS COMMISSION
 
+### Human Rights Commission 189.
+
 (a) There shall be a Human Rights Commission of the Maldives.
 
-(b) The Human Rights Commission is an independent  and  impartial  institution.  It  shall promote  respect  for  human  rights  impartially without favour and prejudice.
+(b) The Human Rights Commission is an independent and impartial institution. It shall promote respect for human rights impartially without favour and prejudice.
 
-(c) The  Human  Rights  Commission  shall  function as provided by the statute governing the Human Rights  Commission.  Such  statute  shall  specify the responsibilities, powers, mandate, qualifications, and ethical standards of members.
+(c) The Human Rights Commission shall function as provided by the statute governing the Human Rights Commission. Such statute shall specify the responsibilities, powers, mandate, qualifications, and ethical standards of members.
+
+### Appointment and composition of the Human Rights Commission 190.
 
 (a) The Human Rights Commission shall comprise of at least five members including the Chairman of the Commission.
 
@@ -2022,7 +2403,7 @@ following:
 
 (b) The President shall appoint to  the  Human Rights Commission those persons approved by a majority  of  the  members  of  the  People's  Majlis from the names submitted to the People's Majlis as  provided  for  in  the  statute  governing  the Human Rights Commission.
 
-### Qualifications
+### Qualifications 191.
 
 - To be qualified for appointment to the Human Rights Commission,  a  person  shall  possess  the  educational qualifications,  experience  and  recognized  competence necessary  to  discharge  the  functions  of  the  Human Rights Commission. Members of the Elections Commission shall not engage in any other employment.
 
@@ -2030,17 +2411,17 @@ following:
 
 (a) The Human Rights Commission's responsibilities  and  powers  shall  include  the following:
 
-- to promote respect for human rights;
+1. to promote respect for human rights;
 
-- to  promote  the  protection,  development and attainment of human rights;
+2. to promote the protection, development and attainment of human rights;
 
-- to  monitor  and  assess  the  observance  of human rights.
+3. to monitor and assess the observance of human rights.
 
-(b) The  Human  Rights  Commission  shall  have  the following functions and powers, as regulated by law:
+(b) The Human Rights Commission shall have the following functions and powers, as regulated by law:
 
-- to investigate and to report on the observance of human rights;
+1. to investigate and to report on the observance of human rights;
 
-- to  take  steps  to  secure  appropriate  redress where human rights have been violated;
+2. to take steps to secure appropriate redress where human rights have been violated;
 
 70
 
@@ -2048,33 +2429,33 @@ following:
 
 [[START OF PAGE 86]]
 
-### Term of office of members of the Human Rights Commission
+3. to carry out research, and to educate the public;
 
-### Resignation from membership of the Human Rights Commission
+4. to exercise such additional powers and functions prescribed by law.
 
-### Quorum and voting
+### Term of office of members of the Human Rights Commission 193.
 
-### Salary and allowances
+- A member of the Human Rights Commission shall be appointed for one term of five years. The People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
 
-### Removal from office
+### Resignation from membership of the Human Rights Commission 194.
 
-- to  carry  out  research,  and  to  educate  the public;
+- A member of the Human Rights Commission may resign from office by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
 
-- to exercise such additional powers and functions prescribed by  law.
+### Quorum and voting 195.
 
-- A member of the Human Rights Commission shall be appointed  for  one  term  of  five  years.  The  People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
+- A majority of the members of the Human Rights Commission shall constitute a quorum at a meeting of the Human Rights Commission, and any decision of the Human Rights Commission shall be taken by a majority of votes of the members present and voting.
 
-- A  member  of  the  Human  Rights  Commission  may resign from office by writing under his hand addressed to  the  President,  and  the  office  shall  become  vacant when the resignation is received by the President.
+### Salary and allowances 196.
 
-- A  majority  of  the  members  of  the  Human  Rights Commission shall constitute a quorum at a meeting of the  Human  Rights  Commission,  and  any  decision  of the  Human  Rights  Commission  shall  be  taken  by  a majority of votes of the members present and voting.
+- The members of the Human Rights Commission shall be paid such salary and allowances as determined by the People's Majlis.
 
-- The members of the Human Rights Commission shall be  paid  such  salary  and  allowances  as  determined  by the People's Majlis.
+### Removal from office 197.
 
-- A member of the Human Rights Commission shall be removed  from  office  only  for  the  reasons  specified  in article (a) and in the manner specified in article (b):
+- A member of the Human Rights Commission shall be removed from office only for the reasons specified in article (a) and in the manner specified in article (b):
 
-(a) on  the  ground  of  misconduct,  incapacity  or incompetence; and
+(a) on the ground of misconduct, incapacity or incompetence; and
 
-(b) a finding to that effect by a committee of the People's  Majlis  pursuant  to  article  (a),  and upon  the  approval  of  such  finding  by  the People's Majlis by a majority of those present and voting, calling for the member's removal
+(b) a finding to that effect by a committee of the People's Majlis pursuant to article (a), and upon the approval of such finding by the People's Majlis by a majority of those present and voting, calling for the member's removal
 
 71
 
@@ -2082,28 +2463,25 @@ following:
 
 [[START OF PAGE 87]]
 
-### Oath of office
+from office, such member shall be deemed removed from office.
 
-### Anti-Corruption Commission
-
-### Appointment and composition of the Anti-Corruption Commission
-from  office,  such  member  shall  be  deemed removed from office.
+### Oath of office 198.
 
 - Every member of the Human Rights Commission shall take and subscribe the oath of office of members of the Human Rights Commission set out in Schedule 1 of this Constitution before assuming office.
 
 ### ANTI-CORRUPTION COMMISSION
 
-199.
+### Anti-Corruption Commission 199.
 
-200.
+(a) There shall be an Anti-Corruption Commission of the Maldives.
 
-(a) There  shall  be  an  Anti-Corruption  Commission of the Maldives.
+(b) The Anti-Corruption Commission is an independent and impartial institution. It shall perform its duties and responsibilities in accordance with the Constitution and any laws enacted by the People's Majlis. The Anti-Corruption Commission shall work to prevent and combat corruption within all activities of the State without fear.
 
-(b) The Anti-Corruption Commission is an independent  and  impartial  institution.    It  shall perform its duties and responsibilities in accordance  with  the  Constitution  and  any  laws enacted by the People's Majlis. The AntiCorruption  Commission  shall  work  to  prevent and combat corruption within all activities of the State without fear.
-
-(c) The Anti-Corruption Commission shall function as  provided  for  by  the  statute  governing  the Anti-Corruption Commission. Such statute shall specify  the  responsibilities,  powers,  mandate, qualifications, and ethical standards of members.
+(c) The Anti-Corruption Commission shall function as provided for by the statute governing the Anti-Corruption Commission. Such statute shall specify the responsibilities, powers, mandate, qualifications, and ethical standards of members.
 
 (d) The statute governing the Anti-Corruption Commission shall provide a definition of corruption.
+
+### Appointment and composition of the Anti-Corruption Commission 200.
 
 (a) The Anti-Corruption Commission shall comprise of at least five members including the Chairman of the Commission.
 
@@ -2113,13 +2491,13 @@ from  office,  such  member  shall  be  deemed removed from office.
 
 [[START OF PAGE 88]]
 
-### Qualifications
+(b) The President shall appoint to the Anti-Corruption Commission those persons approved by a majority of the members of the People's Majlis present and voting, from the names submitted to the People's Majlis as provided for in the statute governing the Anti-Corruption Commission.
 
-### Responsibilities and powers
+### Qualifications 201.
 
-(b) The President shall appoint to the AntiCorruption Commission those persons approved by  a  majority  of  the  members  of  the  People's Majlis present and voting, from  the  names submitted to the People's Majlis as provided for in  the  statute  governing  the  Anti-Corruption Commission.
+- To be qualified for appointment to the Anti-Corruption Commission, a person shall possess the educational qualifications, experience and recognized competence necessary to discharge the functions of the Anti-Corruption Commission. Members of the Anti-Corruption Commission shall not engage in any other employment.
 
-- To be qualified for appointment to the Anti-Corruption Commission,  a  person  shall  possess  the  educational qualifications,  experience  and  recognized  competence necessary to discharge the functions of the AntiCorruption Commission. Members of the AntiCorruption Commission shall not engage in any other employment.
+### Responsibilities and powers 202.
 
 - The Anti-Corruption Commission's responsibilities and powers include the following:
 
@@ -2127,9 +2505,9 @@ from  office,  such  member  shall  be  deemed removed from office.
 
 (b) to recommend further inquiries and investigations by other investigatory bodies, and to recommend prosecution of alleged offences to the Prosecutor General, where warranted;
 
-(c) to carry out research on the prevention of corruption and to submit recommendations for improvement  to  relevant  authorities  regarding actions to be taken;
+(c) to carry out research on the prevention of corruption and to submit recommendations for improvement to relevant authorities regarding actions to be taken;
 
-(d) to promote the values of honesty and integrity in the  operations  of  the  State,  and  to  promote public awareness of the dangers of corruption;
+(d) to promote the values of honesty and integrity in the operations of the State, and to promote public awareness of the dangers of corruption;
 
 73
 
@@ -2137,31 +2515,31 @@ from  office,  such  member  shall  be  deemed removed from office.
 
 [[START OF PAGE 89]]
 
-### Term of office of members of the Anti-Corruption Commission
+(e) to perform any additional duties or functions specifically provided by law for the prevention of corruption.
 
-### Resignation from the Anti-Corruption Commission
+### Term of office of members of the Anti-Corruption Commission 203.
 
-### Quorum and voting
+- A member of the Anti-Corruption Commission shall be appointed for one term of five years. The People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
 
-### Salary and allowances
+### Resignation from the Anti-Corruption Commission 204.
 
-### Removal from office
+- A member of the Anti-Corruption Commission may resign from office by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
 
-(e) to  perform  any  additional  duties  or  functions specifically provided by law for the prevention of corruption.
+### Quorum and voting 205.
 
-- A member of the Anti-Corruption Commission shall be appointed  for  one  term  of  five  years.  The  People's Majlis can approve the renewal of the appointment for an additional term of not more than five years.
+- A majority of the members of the Anti-Corruption Commission shall constitute a quorum at a meeting of the Anti-Corruption Commission, and any decision of the Anti-Corruption Commission shall be taken by a majority of votes of the members present and voting.
 
-- A  member  of  the  Anti-Corruption  Commission  may resign from office by writing under his hand addressed to  the  President,  and  the  office  shall  become  vacant when the resignation is received by the President.
+### Salary and allowances 206.
 
-- A  majority  of  the  members  of  the  Anti-Corruption Commission shall constitute a quorum at a meeting of the  Anti-Corruption  Commission,  and  any  decision  of the  Anti-Corruption  Commission  shall  be  taken  by  a majority of votes of the members present and voting.
+- The members of the Anti-Corruption Commission shall be paid such salary and allowances as determined by the People's Majlis.
 
-- The members of the Anti-Corruption Commission shall be  paid  such  salary  and  allowances  as  determined  by the People's Majlis.
+### Removal from office 207.
 
-- A member of the Anti-Corruption Commission shall be removed  from  office  only  for  the  reasons  specified  in article (a) and in the manner specified in article (b):
+- A member of the Anti-Corruption Commission shall be removed from office only for the reasons specified in article (a) and in the manner specified in article (b):
 
-(a) on  the  ground  of  misconduct,  incapacity  or incompetence; and
+(a) on the ground of misconduct, incapacity or incompetence; and
 
-(b) a  finding  to  that  effect  by  a  committee  of  the People's Majlis pursuant to article (a), and upon the  approval  of  such  finding  by  the  People's Majlis by a majority of those present and voting, calling  for  the  member's  removal  from  office, such  member  shall  be  deemed  removed  from office.
+(b) a finding to that effect by a committee of the People's Majlis pursuant to article (a), and upon the approval of such finding by the People's Majlis by a majority of those present and voting, calling for the member's removal from office, such member shall be deemed removed from office.
 
 74
 
@@ -2169,33 +2547,30 @@ from  office,  such  member  shall  be  deemed removed from office.
 
 [[START OF PAGE 90]]
 
-### Oath of office
+### Oath of office 208.
 
-### Auditor General
-
-### Appointment of Auditor General
-
-### Qualifications of Auditor General
-
-- Every  member  of  the  Anti-Corruption  Commission shall take and subscribe the oath of office of members of the Anti-Corruption Commission set out in Schedule 1 of this Constitution before assuming office.
+- Every member of the Anti-Corruption Commission shall take and subscribe the oath of office of members of the Anti-Corruption Commission set out in Schedule 1 of this Constitution before assuming office.
 
 ### AUDITOR GENERAL
 
-(a) There  shall  be  an  independent  and  impartial Auditor General of the Maldives.
+### Auditor General 209.
 
-209.
+(a) There shall be an independent and impartial Auditor General of the Maldives.
 
-(b) The Auditor General shall carry out his responsibilities  and  duties  in  accordance  with the  Constitution  and  any  laws  passed  by  the People's Majlis.
+(b) The Auditor General shall carry out his responsibilities and duties in accordance with the Constitution and any laws passed by the People's Majlis.
 
-- The  President  shall  appoint  as  Auditor  General  a person approved by a majority of the total membership of the People's Majlis from the names submitted to the People's Majlis as provided for in law.
+### Appointment of Auditor General 210.
 
-211.
+- The President shall appoint as Auditor General a person approved by a majority of the total membership of the People's Majlis from the names submitted to the People's Majlis as provided for in law.
 
-(a) To  be  qualified  for  appointment  as  Auditor General, a person shall possess the educational qualifications, experience and recognized competence necessary to discharge the responsibilities of the Auditor General. The Auditor  General  shall  not  engage  in  any  other employment.
+### Qualifications of Auditor General 211.
+
+(a) To be qualified for appointment as Auditor General, a person shall possess the educational qualifications, experience and recognized competence necessary to discharge the responsibilities of the Auditor General. The Auditor General shall not engage in any other employment.
 
 (b) A statute shall specify the responsibilities, powers, mandate, qualifications, and ethical standards of the Auditor General.
 
 ### Responsibilities and powers 212.
+
 The Auditor General's responsibilities and powers include the following:-
 
 75
@@ -2206,25 +2581,25 @@ The Auditor General's responsibilities and powers include the following:-
 
 (a) audit,  the  accounts,  financial  statements  and financial management and prepare and publish reports on:
 
-- all Government ministries;
+1. all Government ministries;
 
-- departments  operating  under  Government ministries;
+2. departments operating under Government ministries;
 
-- other government agencies and offices;
+3. other government agencies and offices;
 
-- all offices and organisations operating under the legislative authority;
+4. all offices and organisations operating under the legislative authority;
 
-- Independent Commissions and Independent Offices  established  in  accordance  with  the Constitution and law, and all offices operating under the same;
+5. Independent Commissions and Independent Offices established in accordance with the Constitution and law, and all offices operating under the same;
 
-- all offices and organisations operating under the judicial authority;
+6. all offices and organisations operating under the judicial authority;
 
-(b) in addition to the institutions specified in article (a) any other institution or organisation required  by  law  to  be  audited  by  the  Auditor General.
+(b) in addition to the institutions specified in article (a) any other institution or organisation required by law to be audited by the Auditor General.
 
-(c) Subject  to  law,  the  Auditor  General  may  audit, report  on  and  publish  the  accounts,  financial statements and financial management of:
+(c) Subject to law, the Auditor General may audit, report on and publish the accounts, financial statements and financial management of:
 
-- any institution primarily funded by the State;
+1. any institution primarily funded by the State;
 
-- any  business  entity, in which  shares  are owned by the State.
+2. any business entity, in which shares are owned by the State.
 
 76
 
@@ -2232,35 +2607,35 @@ The Auditor General's responsibilities and powers include the following:-
 
 [[START OF PAGE 92]]
 
-### Reporting
-
-### Audit of the Auditor General's office
-
-### Term of office of the Auditor General
-
-### Resignation of Auditor General
-
-### Salary and allowances
-
-### Removal from office
-
-### Oath of office
+### Reporting 213.
 
 - The Auditor General shall submit audit reports and an annual report to the President and the People's Majlis, and to any other authority prescribed by law.
 
-- The  office  of  the  Auditor  General  shall  be  audited  as specified in law.
+### Audit of the Auditor General's office 214.
 
-- The Auditor General shall be appointed for one term of seven years. The appointment may be renewed for an additional term of not more than five years in accordance  with  the  statute  relating  to  the  Auditor General,  by  a  resolution  passed  by  a  majority  of  the total membership of the People's Majlis.
+- The office of the Auditor General shall be audited as specified in law.
 
-- The Auditor General may resign from office by writing under  his  hand  addressed  to  the  President,  and  the office  shall  become  vacant  when  the  resignation  is received by the President.
+### Term of office of the Auditor General 215.
 
-- The  Auditor  General  shall  be  paid  such  salary  and allowances as determined by the People's Majlis.
+- The Auditor General shall be appointed for one term of seven years. The appointment may be renewed for an additional term of not more than five years in accordance with the statute relating to the Auditor General, by a resolution passed by a majority of the total membership of the People's Majlis.
 
-- The Auditor General shall be removed from office only for  the  reasons  specified  in  article  (a)  and  in  the manner specified in article (b):
+### Resignation of Auditor General 216.
 
-(a) on  the  ground  of  misconduct,  incapacity  or incompetence; and
+- The Auditor General may resign from office by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
 
-(b) a  finding  to  that  effect  by  a  committee  of  the People's Majlis, pursuant to article (a) and upon the  approval  of  such  finding  by  the  People's Majlis by a majority of those present and voting, calling  for  the  Auditor  General's  removal  from office,  the  Auditor  General  shall  be  deemed removed from office.
+### Salary and allowances 217.
+
+- The Auditor General shall be paid such salary and allowances as determined by the People's Majlis.
+
+### Removal from office 218.
+
+- The Auditor General shall be removed from office only for the reasons specified in article (a) and in the manner specified in article (b):
+
+(a) on the ground of misconduct, incapacity or incompetence; and
+
+(b) a finding to that effect by a committee of the People's Majlis, pursuant to article (a) and upon the approval of such finding by the People's Majlis by a majority of those present and voting, calling for the Auditor General's removal from office, the Auditor General shall be deemed removed from office.
+
+### Oath of office 219.
 
 - The Auditor General shall take and subscribe the oath
 
@@ -2270,27 +2645,25 @@ The Auditor General's responsibilities and powers include the following:-
 
 [[START OF PAGE 93]]
 
-### Prosecutor General
-
-### Appointment of Prosecutor General
-
-### Qualifications of Prosecutor General
-
-220.
-
 of office of the Auditor General set out in Schedule 1 of this Constitution before assuming office.
 
 ### PROSECUTOR GENERAL
 
-(a) There  shall  be  an  independent  and  impartial Prosecutor General of the Maldives.
+### Prosecutor General 220.
 
-(b) The Prosecutor General shall carry out his responsibilities  and  duties  in  accordance  with the  Constitution  and  any  laws  passed  by  the People's Majlis.
+(a) There shall be an independent and impartial Prosecutor General of the Maldives.
 
-(c) The  Prosecutor General is  independent  and impartial, and he shall not be under the direction or control of any person or authority in carrying out his responsibilities and the exercise of his powers. He shall carry out his responsibilities and exercise his powers without fear,  favour  or  prejudice,  subject  only  to  the general policy directives of the Attorney General, and on the basis  of  fairness,  transparency,  and accountability.
+(b) The Prosecutor General shall carry out his responsibilities and duties in accordance with the Constitution and any laws passed by the People's Majlis.
 
-- The  President  shall  appoint  as  Prosecutor  General  a person approved by a majority of the total membership of the People's Majlis from the names submitted to the People's Majlis as provided for in law.
+(c) The Prosecutor General is independent and impartial, and he shall not be under the direction or control of any person or authority in carrying out his responsibilities and the exercise of his powers. He shall carry out his responsibilities and exercise his powers without fear, favour or prejudice, subject only to the general policy directives of the Attorney General, and on the basis of fairness, transparency, and accountability.
 
-- To be qualified for appointment as Prosecutor General, a  person  shall  possess  the  educational  qualifications, experience  and  recognized  competence  necessary  to discharge the responsibilities of the Prosecutor General.  The  Prosecutor  General  shall  not  engage  in any other employment.
+### Appointment of Prosecutor General 221.
+
+- The President shall appoint as Prosecutor General a person approved by a majority of the total membership of the People's Majlis from the names submitted to the People's Majlis as provided for in law.
+
+### Qualifications of Prosecutor General 222.
+
+- To be qualified for appointment as Prosecutor General, a person shall possess the educational qualifications, experience and recognized competence necessary to discharge the responsibilities of the Prosecutor General. The Prosecutor General shall not engage in any other employment.
 
 78
 
@@ -2298,7 +2671,7 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 94]]
 
-### Responsibilities and powers of the Prosecutor General
+### Responsibilities and powers of the Prosecutor General 223.
 
 - The Prosecutor General's responsibilities and powers include the following:-
 
@@ -2324,33 +2697,33 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 95]]
 
-### Acting through agents
-
-### Term of office of the Prosecutor General
-
-### Resignation of Prosecutor General
-
-### Salary and allowances
-
-### Removal from office
-
 (i) to appeal any judgment, verdict or decision in a criminal matter;
 
 (j) to issue policy directives which shall be observed in the entire prosecutorial process;
 
 (k) to uphold the constitutional order, the law, and the rights and freedoms of all citizens.
 
-- The  responsibilities and  powers  of the Prosecutor General may be assigned with his express instructions, to  any  person  working  under  his  mandate  or  to  any other person.
+### Acting through agents 224.
 
-- The Prosecutor General shall be appointed for one term of  five  years.  The  People's  Majlis  can  approve  the renewal  of  the  appointment  for  an  additional  term  of not more than five years in accordance with the statute relating to the Prosecutor General.
+- The responsibilities and powers of the Prosecutor General may be assigned with his express instructions, to any person working under his mandate or to any other person.
 
-- The  Prosecutor  General  may  resign  from  office  by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
+### Term of office of the Prosecutor General 225.
 
-- The Prosecutor General shall  be  paid  such  salary  and allowances as determined by the People's Majlis.
+- The Prosecutor General shall be appointed for one term of five years. The People's Majlis can approve the renewal of the appointment for an additional term of not more than five years in accordance with the statute relating to the Prosecutor General.
 
-- The  Prosecutor  General  shall  be  removed  from  office only for the reasons specified in article (a) and in the manner specified in article (b):
+### Resignation of Prosecutor General 226.
 
-(a) on  the  ground  of  misconduct,  incapacity  or incompetence; and
+- The Prosecutor General may resign from office by writing under his hand addressed to the President, and the office shall become vacant when the resignation is received by the President.
+
+### Salary and allowances 227.
+
+- The Prosecutor General shall be paid such salary and allowances as determined by the People's Majlis.
+
+### Removal from office 228.
+
+- The Prosecutor General shall be removed from office only for the reasons specified in article (a) and in the manner specified in article (b):
+
+(a) on the ground of misconduct, incapacity or incompetence; and
 
 80
 
@@ -2358,23 +2731,21 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 96]]
 
-### Oath of office
+(b) a finding to that effect by a committee of the People's Majlis, pursuant to article (a) and upon the approval of such finding by the People's Majlis by a majority of those present and voting, calling for the Prosecutor General's removal from office, the Prosecutor General shall be deemed removed from office.
 
-### Decentralised administration
+### Oath of office 229.
 
-(b) a  finding  to  that  effect  by  a  committee  of  the People's Majlis, pursuant to article (a) and upon the  approval  of  such  finding  by  the  People's Majlis by a majority of those present and voting, calling  for  the  Prosecutor  General's  removal from  office,  the  Prosecutor  General  shall  be deemed removed from office.
-
-- The  Prosecutor  General  shall  take  and  subscribe  the oath  of  office  of  the  Prosecutor  General  set  out  in Schedule 1 of this Constitution before assuming office.
+- The Prosecutor General shall take and subscribe the oath of office of the Prosecutor General set out in Schedule 1 of this Constitution before assuming office.
 
 ## CHAPTER VIII DECENTRALISED ADMINISTRATION
 
-230.
+### Decentralised administration 230.
 
-(a) The  administrative  divisions  of  the  Maldives shall be administered decentrally.
+(a) The administrative divisions of the Maldives shall be administered decentrally.
 
 (b) In order to provide for decentralised administration, the President has the power, as provided in law, to create constituencies, posts, island councils, atoll councils and city councils.
 
-(c) The jurisdiction and characteristics of constituencies,  posts  and  councils  created  to provide for decentralised administration shall be specified in law.
+(c) The jurisdiction and characteristics of constituencies, posts and councils created to provide for decentralised administration shall be specified in law.
 
 81
 
@@ -2382,31 +2753,29 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 97]]
 
-### Election of Councils
+### Election of Councils 231.
 
-### Responsibilities
+(a) All members of councils created for decentralised administration shall be democratically elected by secret ballot by their respective communities.
 
-231.
+(b) The President and the Vice President of the councils elected to administer the administrative divisions shall be elected from among the members of each council by secret ballot of the members.
 
-(a) All members of councils created for decentralised administration shall be democratically  elected  by  secret  ballot  by  their respective communities.
+(c) The term of councils elected to administer the constituencies shall not exceed three years.
 
-(b) The  President  and  the  Vice  President  of  the councils elected to administer the administrative divisions shall be elected from among the members of each council by secret ballot of the members.
-
-(c) The  term  of  councils  elected  to  administer  the constituencies shall not exceed three years.
-
-(d) The People's Majlis shall enact a statute governing  the  election  of  members  of  councils created for decentralised administration.
+(d) The People's Majlis shall enact a statute governing the election of members of councils created for decentralised administration.
 
 (e) The elections of councils created for decentralised administration shall be conducted by the Elections Commission.
 
-- The  responsibilities  of  councils  elected  to  provide  for decentralised administration shall include:
+### Responsibilities 232.
+
+- The responsibilities of councils elected to provide for decentralised administration shall include:
 
 (a) to provide democratic and accountable governance;
 
 (b) to foster the social and economic well-being and development of the community;
 
-(c) to establish a safe, healthy and  ecologically diverse environment;
+(c) to establish a safe, healthy and ecologically diverse environment;
 
-(d) to  achieve  such  other  objects  as  prescribed  by law.
+(d) to achieve such other objects as prescribed by law.
 
 82
 
@@ -2414,31 +2783,31 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 98]]
 
-### Authority to enact subordinate legislation
-
-### Finance
-
-### Ownership of property and liability for debts
-
-### Security services
-
-### Responsibilities and duties
-
-### Constitutional limitations
+### Authority to enact subordinate legislation 233.
 
 - A bylaw or decision of a local authority shall be subject to Acts or Regulation of the People's Majlis.
 
-- Local  authorities  shall  be  provided  with  an  annual budget from the Treasury as provided in law, and shall also have authority, in accordance with statute, to raise funds.
+### Finance 234.
 
-- Local authorities shall be empowered to own property and  to incur liabilities, subject to any limitations prescribed by statute.
+- Local authorities shall be provided with an annual budget from the Treasury as provided in law, and shall also have authority, in accordance with statute, to raise funds.
+
+### Ownership of property and liability for debts 235.
+
+- Local authorities shall be empowered to own property and to incur liabilities, subject to any limitations prescribed by statute.
 
 ## CHAPTER IX SECURITY SERVICES
 
-- The Maldivian security services, consisting of the Military Service and the Police Service, is established to enable  all  persons  in  the  Maldives  to  live  in  peace, security and freedom.
+### Security services 236.
+
+- The Maldivian security services, consisting of the Military Service and the Police Service, is established to enable all persons in the Maldives to live in peace, security and freedom.
+
+### Responsibilities and duties 237.
 
 - The security services shall protect the nation's sovereignty, maintain its territorial integrity defend the constitution and democratic institutions, maintain and enforce law and order, and render assistance in emergencies.
 
-- The actions of the security services must be exercised in accordance  with  the  Constitution  and  the  law,  and operate  on  the  basis  of  accountability.    The  President shall ensure  that  these obligations of the security services are complied with.
+### Constitutional limitations 238.
+
+- The actions of the security services must be exercised in accordance with the Constitution and the law, and operate on the basis of accountability. The President shall ensure that these obligations of the security services are complied with.
 
 83
 
@@ -2446,33 +2815,31 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 99]]
 
-### Authority of the People's Majlis over the security services
+### Authority of the People's Majlis over the security services 239.
 
-### Separate services
-
-### Multiparty committee of the People's Majlis
-
-### Ministerial Responsibility
-
-### Military Service
-
-### Police Service
-
-(a) The  People's  Majlis  shall  enact  a  statute  on  the organization of and  the principles pursuant  to which each security service shall operate.
+(a) The People's Majlis shall enact a statute on the organization of and the principles pursuant to which each security service shall operate.
 
 (b) The security services shall be subject to the authority of the People's Majlis.
 
+### Separate services 240.
+
 - The security services shall be organized as two separate services, and shall operate independently of each other.
 
-- A committee of the People's Majlis shall be established to exercise continuing oversight of the operations of the security services. The committee shall include representation  from  all  the  different  political  parties within the People's Majlis.
+### Multiparty committee of the People's Majlis 241.
+
+- A committee of the People's Majlis shall be established to exercise continuing oversight of the operations of the security services. The committee shall include representation from all the different political parties within the People's Majlis.
+
+### Ministerial Responsibility 242.
 
 - Each security service shall be under the responsibility of a Minister, who shall be answerable for its operations to the President and to the People's Majlis.
 
-243.
+### Military Service 243.
 
-(a) The primary object of the Military Service is to defend  and  protect  the  Republic,  its  territorial integrity,  its  Exclusive  Economic  Zone  and  the people.
+(a) The primary object of the Military Service is to defend and protect the Republic, its territorial integrity, its Exclusive Economic Zone and the people.
 
-(b) If the President, as Commander in Chief, authorizes  or  orders  the  employment  of  the Military Service in defence of the Republic or as part of an international undertaking, the President shall without delay submit the authorization to the People's Majlis. The People's  Majlis  may  at  any  time  approve  the authorization, or revoke the authorization.
+(b) If the President, as Commander in Chief, authorizes or orders the employment of the Military Service in defence of the Republic or as part of an international undertaking, the President shall without delay submit the authorization to the People's Majlis. The People's Majlis may at any time approve the authorization, or revoke the authorization.
+
+### Police Service 244.
 
 - The primary objects of the Police Service are:
 
@@ -2484,646 +2851,580 @@ of office of the Auditor General set out in Schedule 1 of this Constitution befo
 
 [[START OF PAGE 100]]
 
-### Illegal orders and non-compliance
-
-### Equal treatment
-
 (b) to protect and secure all people in the Maldives, and their property;
 
-(c) to  investigate  crime,  conservation  of  evidence and prepare cases for disposition by the courts; and
+(c) to investigate crime, conservation of evidence and prepare cases for disposition by the courts; and
 
 (d) to uphold the law.
 
+### Illegal orders and non-compliance 245.
+
 - No person shall give an illegal order to a member of the security services. Members of the security services shall not obey a manifestly illegal order.
 
-246.
+### Equal treatment 246.
 
-(a) Members of the  security  services  shall  treat  all persons and groups equally without any discrimination,  and  with  humanity  and  dignity in  accordance  with  the  decorous  principles  of Islam.
+(a) Members of the security services shall treat all persons and groups equally without any discrimination, and with humanity and dignity in accordance with the decorous principles of Islam.
 
-(b) Members  of the security services shall not engage in partisan political activity of any nature,  and  shall  not  affiliate  themselves  with any trade union or political party.
+(b) Members of the security services shall not engage in partisan political activity of any nature, and shall not affiliate themselves with any trade union or political party.
 
 ## CHAPTER X PROPERTY, LIABILITIES AND LEGAL ACTIONS OF THE STATE
 
-### Property and assets owned and acquired by the State
+### Property and assets owned and acquired by the State 247.
 
-247.
-
-(a) All  property,  assets  and  monies  which  at  the commencement of this Constitution were vested in the State shall continue to vest in the State.
+(a) All property, assets and monies which at the commencement of this Constitution were vested in the State shall continue to vest in the State.
 
 85
 
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
+(b) All property, assets and monies acquired for, or received by the State shall vest in the State.
 
 ### Land, sea and naturally occurring valuable resources 248.
 
+(a) The land, sea, and seabed, including all fish within the territory of the Maldives, and all naturally occurring resources, including metallic ores, petroleum and gas, shall vest in the State.
+
+(b) All living, non-living and naturally occurring resources of value within the Exclusive Economic Zone of the Maldives and the seabed shall vest in the State.
+
 ### Ownerless property 249.
+
+(a) Any property found within the territory of the Maldives and any property occurring in the seabed or found drifting in the sea, save those naturally occurring or formed in the sea, without a rightful owner, shall vest in the State.
+
+(b) All property such as gold, silver, other precious metals, jewellery, money and items of historical interest, excavated within the territory of the Maldives without a rightful owner, shall vest in the State.
 
 ### Transactions relating to State property 250.
 
-(b) All property, assets and monies acquired for, or received by the State shall vest in the State.
+(a) Any transfer, sale, lease, release, mortgage (to any person) or destruction of, any property or assets owned by the State, and any such other agreement, shall only be entered into in accordance with law.
 
-(a) The  land,  sea,  and  seabed,  including  all  fish within  the  territory  of  the  Maldives,  and  all naturally occurring resources, including metallic ores, petroleum and gas, shall vest in the State.
-
-(b) All  living,  non-living  and  naturally  occurring resources of value within the Exclusive Economic Zone of the Maldives and the seabed shall vest in the State.
-
-(a) Any  property  found  within  the  territory  of  the Maldives  and  any  property  occurring  in  the seabed  or  found  drifting  in  the  sea,  save  those naturally occurring or formed in the sea, without a rightful owner, shall vest in the State.
-
-(b) All property such as gold, silver, other precious metals, jewellery, money and items of historical interest,  excavated  within  the  territory  of  the Maldives without a rightful owner, shall vest in the State.
-
-(a) Any  transfer,  sale,  lease,  release,  mortgage  (to any  person)  or  destruction  of,  any  property  or assets  owned  by  the  State,  and  any  such  other agreement, shall only be entered into in accordance with law.
-
-(b) Money,  property  or  any  other  thing  kept  as  a reserve in the State Treasury shall be used only after  approval by a resolution passed by a twothirds  majority  of  the  total  membership  of  the People's Majlis.
+(b) Money, property or any other thing kept as a reserve in the State Treasury shall be used only after approval by a resolution passed by a two-thirds majority of the total membership of the People's Majlis.
 
 86
-
 [[END OF PAGE 101]]
 
 [[START OF PAGE 102]]
+### Prohibition of foreign ownership and foreign military purposes 251.
 
-### Prohibition of foreign ownership and foreign military purposes
+(a) No foreign party, shall own or be given ownership of any part of the territory of the Maldives.
 
-### Legal actions in the name of the State
+(b) A foreign party shall not receive a lease of, or be given in any other way, any part of the territory of the Maldives for a period exceeding ninety nine years.
 
-### Declaration of a state of emergency
+(c) No part of the territory of the Maldives shall be used for foreign military purposes without the approval of the majority of the total membership of the People's Majlis.
 
-251.
+### Legal actions in the name of the State 252.
 
-253.
-
-(a) No foreign party, shall own or be given ownership  of  any  part  of  the  territory  of  the Maldives.
-
-(b) A foreign party shall not receive a lease of, or be given in any other way, any part of the territory of  the  Maldives  for  a  period  exceeding  ninety nine years.
-
-(c) No part of the territory of the Maldives shall be used  for  foreign  military  purposes  without  the approval of the majority of the total membership of the People's Majlis.
-
-- Except  where  specified  in  this  Constitution  as  the responsibility of another party, the Executive may sue or be sued on behalf of the State, and may defend any action against the State, in any court of the Maldives, in any foreign court, or in any other place.
+- Except where specified in this Constitution as the responsibility of another party, the Executive may sue or be sued on behalf of the State, and may defend any action against the State, in any court of the Maldives, in any foreign court, or in any other place.
 
 ## CHAPTER XI STATE OF EMERGENCY
 
-- In  the  event  of  natural  disaster,  dangerous  epidemic disease, war, threat to national security, or threatened foreign aggression, the President may declare a state of emergency in all or part of the country for a period not exceeding thirty days.
+### Declaration of a state of emergency 253.
+
+- In the event of natural disaster, dangerous epidemic disease, war, threat to national security, or threatened foreign aggression, the President may declare a state of emergency in all or part of the country for a period not exceeding thirty days.
 
 87
-
 [[END OF PAGE 102]]
 
 [[START OF PAGE 103]]
+### Content of the declaration 254.
 
-### Content of the declaration
+- The declaration of a state of emergency shall specify the reasons for the declaration of an emergency, and include measures to deal with the emergency, which may include the temporary suspension of the operation of laws and infringement of certain fundamental rights and freedoms guaranteed by this Constitution in Chapter 2.
 
-### Limitations of the declaration
+### Limitations of the declaration 255.
 
-- The declaration of a state of emergency shall specify the reasons  for  the  declaration  of  an  emergency,  and include  measures  to  deal  with  the  emergency,  which may include the temporary suspension of the operation of laws and infringement of certain fundamental rights and freedoms guaranteed by this Constitution in Chapter 2.
+(a) Measures adopted in an emergency shall not contravene this Article.
 
-255.
+(b) Measures adopted in an emergency shall not restrict the following rights and freedoms contained in the following Articles of this Constitution:
 
-(a) Measures  adopted  in  an  emergency  shall  not contravene this Article.
+1. Article 21 (right to life);
 
-(b) Measures  adopted  in  an  emergency  shall  not restrict the following rights and freedoms contained in the following Articles of this Constitution:
+2. Article 25 (no slavery or forced labour);
 
-- Article 21 (right to life);
+3. Article 27 (freedom of expression);
 
-- Article 25 (no slavery or forced labour);
+4. Article 28 (freedom of the media);
 
-- Article 27  (freedom of expression);
+5. Article 42 (fair and transparent hearings);
 
-- Article 28 (freedom of the media);
+6. Article 48 (b) (rights on arrest or detention);
 
-- Article 42 (fair and transparent hearings);
-
-- Article 48 (b) (rights on arrest or detention);
-
-- Article 51 (rights of the accused);
+7. Article 51 (rights of the accused);
 
 88
-
 [[END OF PAGE 103]]
 
 [[START OF PAGE 104]]
+8. Article 52 (confessions and illegal evidence);
 
-- Article 52 (confessions and illegal evidence);
+9. Article 53 (assistance of legal counsel);
 
-- Article 53 (assistance of legal counsel);
+10. Article 54 (no degrading treatment or torture);
 
-- Article  54  (no  degrading  treatment  or torture);
+11. Article 55 (no imprisonment for non-fulfilment of contractual obligation);
 
-- Article  55  (no  imprisonment  for  nonfulfilment of contractual obligation);
+12. Article 57 (humane treatment of arrested or detained persons);
 
-- Article 57 (humane treatment of arrested or detained persons);
+13. Article 59 (retrospective legislation);
 
-- Article 59 (retrospective legislation);
+14. Article 60 (prohibition of double jeopardy);
 
-- Article 60 (prohibition of double jeopardy);
+15. Article 62 (retention of other rights);
 
-- Article 62 (retention of other rights);
-
-- Article 64 (non-compliance with unlawful orders).
+16. Article 64 (non-compliance with unlawful orders).
 
 (c) Any infringement of rights and freedoms under this Constitution and the law shall be only to the extent strictly required by the emergency.
 
-(d) Measures  adopted  in  an  emergency  shall  be consistent  with  the  obligations  of  the  Maldives under  international  law  applicable  to  states  of emergency.
+(d) Measures adopted in an emergency shall be consistent with the obligations of the Maldives under international law applicable to states of emergency.
 
 89
-
 [[END OF PAGE 104]]
 
 [[START OF PAGE 105]]
+### Publication 256.
 
-### Publication
+- The declaration of a state of emergency shall be published in the Government Gazette within three days of its issuance.
 
-### Submission of declaration to the Peoples Majlis
+### Submission of declaration to the Peoples Majlis 257.
 
-### Determination of disputes relating to the declaration
-
-### Expiry or revocation of declaration
-
-- The  declaration of a state of emergency  shall  be published in the Government Gazette within three days of its issuance.
-
-257.
-
-(a) The declaration of a state of emergency shall be submitted  to  the  People's  Majlis  within  forty eight  hours.    If  the  People's  Majlis  is  not  in session at the time of the declaration, it shall be re-called within fourteen days, inclusive of holidays, and the declaration of a state of emergency submitted to the People's Majlis for approval.
+(a) The declaration of a state of emergency shall be submitted to the People's Majlis within forty eight hours. If the People's Majlis is not in session at the time of the declaration, it shall be re-called within fourteen days, inclusive of holidays, and the declaration of a state of emergency submitted to the People's Majlis for approval.
 
 (b) The People's Majlis may at any time:
 
-- approve the declaration in whole or in part;
+1. approve the declaration in whole or in part;
 
-- extend the operation of the declaration for periods not exceeding thirty days at a time; or
+2. extend the operation of the declaration for periods not exceeding thirty days at a time; or
 
-- revoke the declaration.
+3. revoke the declaration.
 
-(c) Where  the  President deems  it necessary to extend the length of the state of emergency, he shall submit the extension to the People's Majlis prior to the expiry of the state of emergency, and obtain  the  approval  of  the  People's  Majlis  for such extension.
+(c) Where the President deems it necessary to extend the length of the state of emergency, he shall submit the extension to the People's Majlis prior to the expiry of the state of emergency, and obtain the approval of the People's Majlis for such extension.
 
-- The  Supreme  Court  shall  determine  any  issues  with regard to the validity in whole or part of the declaration or any law or order made pursuant to the emergency.
+### Determination of disputes relating to the declaration 258.
+
+- The Supreme Court shall determine any issues with regard to the validity in whole or part of the declaration or any law or order made pursuant to the emergency.
+
+### Expiry or revocation of declaration 259.
 
 - When the declaration of a state of emergency expires or is revoked by the People's Majlis, all laws promulgated
 
 90
-
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
-
-### Public announcement of expiry of state of emergency
 pursuant to the declaration shall cease to have effect.
+
+### Public announcement of expiry of state of emergency 260.
 
 - The President must publicly announce the expiration of the declaration of a state of emergency.
 
 ## CHAPTER XII AMENDMENT OF THE CONSTITUTION
 
-### Amendment of the Constitution
+### Amendment of the Constitution 261.
 
 - The Constitution may be amended by a Bill passed by a three quarters majority of the total membership of the People's Majlis.
 
 ### Assent of President 262.
 
-(a) The  Bill  amending  the  Constitution  passed  by the  People's  Majlis  shall  come  into  force  upon obtaining the written assent of the President.
+(a) The Bill amending the Constitution passed by the People's Majlis shall come into force upon obtaining the written assent of the President.
 
-(b) Despite  the  provisions  of  article  (a)  above,  the President shall give written assent to any amendments made by the People's Majlis to the following  provisions  of  this  Constitution  only after a public referendum decides so by a majority of the votes cast.
+(b) Despite the provisions of article (a) above, the President shall give written assent to any amendments made by the People's Majlis to the following provisions of this Constitution only after a public referendum decides so by a majority of the votes cast.
 
-- Any of the provisions contained in Chapter II (The Maldivian Charter of Rights and Freedoms) of this Constitution;
+1. Any of the provisions contained in Chapter II (The Maldivian Charter of Rights and Freedoms) of this Constitution;
 
-- Article 79(a) (Term of Majlis);
+2. Article 79(a) (Term of Majlis);
 
 91
-
 [[END OF PAGE 106]]
 
 [[START OF PAGE 107]]
+3. Article 107 (Term of office), and Article 108 (Presidential election);
 
-### Publication in Government Gazette
+where the amendment does not receive a majority approval in the public referendum, it shall be deemed to have been defeated.
 
-### Non-assent by President and national referendum
+### Publication in Government Gazette 263.
 
-### Defeat of Bill
+- After assent by the President, the Bill amending the Constitution passed by the People's Majlis shall come into force after publication in the Government Gazette and on a date fixed by the People's Majlis.
 
-3. Article  107  (Term  of  office),  and  Article  108 (Presidential election);
+### Non-assent by President and national referendum 264.
 
-where  the  amendment  does  not  receive  a  majority approval in the public referendum, it shall be deemed to have been defeated.
+(a) If the President does not assent to the Bill amending the Constitution passed by the People's Majlis within fifteen days of receipt, the President shall inform the People's Majlis specifying the reasons thereof. Where the President does not inform the People's Majlis of the reasons thereof within fifteen days of receipt the President shall be deemed to have assented to the Bill.
 
-- After  assent  by  the  President,  the  Bill  amending  the Constitution  passed  by  the  People's  Majlis  shall  come into force after publication in the Government Gazette and on a date fixed by the People's Majlis.
+(b) If the President does not assent to the Bill amending the Constitution passed by the People's Majlis and so informs the People's Majlis, the People's Majlis may within a period determined by the People's Majlis call for a public referendum to vote on the adoption or rejection of the Bill
 
-264.
+(c) If the Bill is approved by a majority in the public referendum specified in article (b), the President shall assent to the Bill within fifteen days and publish it in the Government Gazette.
 
-(a) If  the  President  does  not  assent  to  the  Bill amending the Constitution passed by the People's Majlis within fifteen days of receipt, the President shall inform the People's Majlis specifying the reasons thereof. Where the President does not inform the People's Majlis of the reasons thereof within fifteen days of receipt the President shall be deemed to have assented to the Bill.
+### Defeat of Bill 265.
 
-(b) If  the  President  does  not  assent  to  the  Bill amending the Constitution passed by the People's Majlis and  so  informs  the  People's Majlis,  the  People's  Majlis  may  within  a  period determined  by  the  People's  Majlis  call  for  a public  referendum  to  vote  on  the  adoption  or rejection of the Bill
-
-(c) If the Bill is approved by a majority in the public referendum specified in article (b), the President shall  assent  to  the  Bill  within  fifteen  days  and publish it in the Government Gazette.
-
-- Where  the  Bill  amending  this  Constitution  passed  by the People's Majlis does not receive a majority approval in  the  public  referendum,  it  shall  be  deemed  to  have been defeated.
+- Where the Bill amending this Constitution passed by the People's Majlis does not receive a majority approval in the public referendum, it shall be deemed to have been defeated.
 
 92
-
 [[END OF PAGE 107]]
 
 [[START OF PAGE 108]]
+### Provisions included in Bill 266.
 
-### Provisions included in Bill
+- The Bill amending the Constitution may not include provisions other than constitutional amendments and matters connected with the amendment.
 
-### No amendment during emergency
-
-- The  Bill  amending  the  Constitution  may  not  include provisions  other  than  constitutional  amendments  and matters connected with the amendment.
+### No amendment during emergency 267.
 
 - No amendment shall be made to any provision of the Constitution during the existence of a state of emergency.
 
 ## CHAPTER XIII APPLICATION AND CONSTRUCTION OF THE CONSTITUTION
 
-### Supremacy of the Constitution
+### Supremacy of the Constitution 268.
 
-### Continuance of laws in force
+- All laws of the Maldives must be enacted in accordance with this Constitution. Any law or part of any law inconsistent with this Constitution is, to the extent of its inconsistency, void and of no force and effect. The obligations imposed by this Constitution must be fulfilled. Any conduct contrary to this Constitution shall be invalid.
 
-### Continued effect of repealed laws
+### Continuance of laws in force 269.
 
-### Regulations enacted under authority of Statute
+- Unless amended by the People's Majlis, the laws in force at the time this Constitution comes into force which are not inconsistent with this Constitution shall continue to remain in force.
 
-- Unless  amended  by  the  People's  Majlis,  the  laws  in force  at  the  time  this  Constitution  comes  into  force which are not inconsistent with this Constitution shall continue to remain in force.
+### Continued effect of repealed laws 270.
 
-- Acts done pursuant to or in accordance with any law which  is  repealed  upon  the  commencement  of  this Constitution due to its inconsistency with this Constitution, remain valid, and the repeal of any such law shall not affect any right or obligation of a person under  such  law  or  any  punishment  enforced  under such law.
+- Acts done pursuant to or in accordance with any law which is repealed upon the commencement of this Constitution due to its inconsistency with this Constitution, remain valid, and the repeal of any such law shall not affect any right or obligation of a person under such law or any punishment enforced under such law.
+
+### Regulations enacted under authority of Statute 271.
 
 - Regulations derive their authority from laws passed by the People's Majlis pursuant to which they are
 
 93
-
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
+enacted, and are enforceable pursuant to such lawful authority. Any regulations requiring compliance by citizens must only be enacted pursuant to authority granted by a law enacted by the People's Majlis.
 
-### Ascertainment of time
-
-### Headings
-
-### Definitions
-enacted, and are enforceable pursuant to such lawful authority.  Any  regulations  requiring  compliance  by citizens  must  only  be  enacted  pursuant  to  authority granted by a law enacted by the People's Majlis.
+### Ascertainment of time 272.
 
 - Terms, periods of times and dates in this Constitution shall be ascertained in accordance with the Gregorian Calendar.
 
-- The  table  of  contents,  headings,  and  marginal  notes are  not  part  of  this  Constitution  but  are  inserted  for convenience of reference only.
+### Headings 273.
 
-(a) In this Constitution, unless the context otherwise  requires,  the  following  words  and phrases shall have the following meanings:
+- The table of contents, headings, and marginal notes are not part of this Constitution but are inserted for convenience of reference only.
 
-'present and voting' means, of those members participating in the meeting at which the voting occurs, being present at the time of voting and voting either in favour of, or against, the motion being voted upon. In determining the majority of those members present and voting, members who  did  not  vote  either  for  or  against  the motion shall not be counted;
+### Definitions 274.
 
-'a  citizen'  means,  any  person  specified  as  a citizen  of  the  Maldives  in  Article  9  of  this Constitution;
+(a) In this Constitution, unless the context otherwise requires, the following words and phrases shall have the following meanings:
 
-'court' means, each and every place established by the Constitution, or by a law enacted by the People's Majlis, for the purpose of conducting a trial by a judge or bench of judges;
+“present and voting” means, of those members participating in the meeting at which the voting occurs, being present at the time of voting and voting either in favour of, or against, the motion being voted upon. In determining the majority of those members present and voting, members who did not vote either for or against the motion shall not be counted;
 
-'jurisdiction' means, the area and matters over which an authority has power to exercise influence;
+“a citizen” means, any person specified as a citizen of the Maldives in Article 9 of this Constitution;
+
+“court” means, each and every place established by the Constitution, or by a law enacted by the People's Majlis, for the purpose of conducting a trial by a judge or bench of judges;
+
+“jurisdiction” means, the area and matters over which an authority has power to exercise influence;
 
 94
-
 [[END OF PAGE 109]]
 
 [[START OF PAGE 110]]
+“election” means, those elections in which, pursuant to the law to govern administrative districts under the principles of decentralized governance, citizens vote to select members of various councils, as well as general elections held to select persons as members of the People's Majlis and presidential elections held to select a person to fill the post of President of the Republic. By-elections held to elect a person to any of the seats falling vacant comes within the meaning of elections;
 
-'election' means, those elections in which, pursuant  to  the  law  to  govern  administrative districts  under  the  principles  of  decentralized governance, citizens  vote  to  select  members  of various  councils,  as  well  as  general  elections held to select persons as members  of  the People's  Majlis  and  presidential  elections  held to select a person to fill the post of President of the Republic. By-elections held to elect a person to  any  of  the  seats  falling  vacant  comes  within the meaning of elections;
+“tenet of Islam” means, the Holy Qur'an and those principles of Shari'ah whose provenance is not in dispute from among those found in the Sunna of the Noble Prophet, and those principles derived from these two foundations;
 
-'tenet  of  Islam'  means,  the  Holy  Qur'an  and those  principles  of  Shari'ah  whose  provenance is not in dispute from among those found in the Sunna of the Noble Prophet, and those principles derived from these two foundations;
+“Islamic Shari'ah” means, the Holy Qur'an and the ways preferred by the learned people within the community and followers of the Sunnah in relation to criminal, civil, personal and other matters found in the Sunna;
 
-'Islamic Shari'ah'  means, the Holy Qur'an and the ways preferred by the learned people within the community and followers of the Sunnah in relation  to  criminal,  civil,  personal  and  other matters found in the Sunna;
+“person” or “persons” shall include natural and legal personalities;
 
-'person' or 'persons' shall include natural and legal personalities;
+“have a financial interest” means, doing anything in a manner that could increase his property or wealth, or safeguard his property or wealth from loss;
 
-'have a financial interest' means, doing anything  in  a  manner  that  could  increase  his property or wealth, or safeguard his property or wealth from loss;
+“judge” means, those persons appointed in accordance with this Constitution to conduct trials in the Supreme Court, High Court or Trial Courts;
 
-'judge' means,  those persons appointed in accordance  with  this  Constitution  to  conduct trials in the Supreme Court, High Court or Trial Courts;
-
-'constitutional matter' means, proceedings where the determination of the meaning of an Article of the Constitution or any part thereof is required, or proceedings requiring a determination whether a law or any part thereof,  or  a  regulation  or  any  part  thereof,  or an order issued by a State authority, or an act committed, or a decision taken, by an official of that authority contravenes the Constitution;
+“constitutional matter” means, proceedings where the determination of the meaning of an Article of the Constitution or any part thereof is required, or proceedings requiring a determination whether a law or any part thereof, or a regulation or any part thereof, or an order issued by a State authority, or an act committed, or a decision taken, by an official of that authority contravenes the Constitution;
 
 95
-
 [[END OF PAGE 110]]
 
 [[START OF PAGE 111]]
+“enemy” means, those foreign nationals who commit acts detrimental to the independence and sovereignty of the Maldives. Citizens are not included in the meaning of “enemies”;
 
-'enemy'  means,  those  foreign  nationals  who commit  acts  detrimental  to  the  independence and  sovereignty  of  the  Maldives.  Citizens  are not included in the meaning of 'enemies';
+“law” means, those statutes enacted by the People's Majlis and assented to by the President, and those regulations which are authorized by, and which fall within the ambit of, those statutes;
 
-'law'  means,  those  statutes  enacted  by  the People's Majlis and assented to by the President, and those regulations which are authorized by, and which fall within the ambit of, those statutes;
+“threat to national security” means a threat to the independence and sovereignty of the Maldives, or a threat of major damage to people's lives, limbs or property. This includes terrorist attacks and acts of aggression committed using weapons. This, however, does not include the exercise by citizens of their legal rights to conduct peaceful activities in support of, or against various matters without contravening the law;
 
-'threat  to  national  security'  means  a  threat  to the independence and sovereignty of the Maldives, or a threat of  major  damage  to people's lives,  limbs  or  property.  This  includes terrorist attacks and acts of aggression committed using weapons. This, however, does not include the exercise by citizens of their legal rights  to  conduct  peaceful  activities  in  support of, or against various matters without contravening the law;
+“territorial integrity” means, the security of all persons, places and things within the territory of the Maldives or any part thereof and the Exclusive Economic Zone of the Maldives, and the retention of the entirety of the territory of the Maldives under the control of the Maldivian State;
 
-'territorial  integrity'  means,  the  security  of  all persons,  places  and  things  within  the  territory of  the  Maldives  or  any  part  thereof  and  the Exclusive Economic Zone of the Maldives, and the  retention  of  the  entirety  of  the  territory  of the Maldives under the control of the Maldivian State;
-
-'tribunal' means any institution not constituting a court, authorized by law to adjudicate cases where a dispute arises between two or more parties and to which an application is made for adjudication thereto;
+“tribunal” means any institution not constituting a court, authorized by law to adjudicate cases where a dispute arises between two or more parties and to which an application is made for adjudication thereto;
 
 96
-
 [[END OF PAGE 111]]
 
 [[START OF PAGE 112]]
+“tax” or “a tax” means, all monies levied by the government from an individual or organization or other legal entity for the purpose of raising revenue for the State, and excluding any charge, fee or rent levied in accordance with law for the provision of a service.
 
-'tax' or 'a tax' means, all monies levied by the government from an individual or organization or  other  legal  entity  for  the  purpose  of  raising revenue for the State, and excluding any charge, fee or rent levied in accordance with law for the provision of a service.
-
-(b) In this Constitution, words  denoted  in  the singular tense include the plural tense and vice versa.
+(b) In this Constitution, words denoted in the singular tense include the plural tense and vice versa.
 
 ## CHAPTER XIV TRANSITIONAL MATTERS
 
 ### Application of this Chapter 275.
 
-### Elections Commission 276.
-
 Unless otherwise specifically provided in this Chapter:
 
-(a) the  provisions  set  out  in  this  Chapter  shall apply from the commencement of the Constitution until the election of and assumption of office  by the President and the People's Majlis; and
+(a) the provisions set out in this Chapter shall apply from the commencement of the Constitution until the election of and assumption of office by the President and the People's Majlis; and
 
-(b) actions  during  the  transitional  period  shall  be as provided in this Constitution.
+(b) actions during the transitional period shall be as provided in this Constitution.
 
-(a) A  five  member  Elections  Commission  shall  in the manner specified in this Chapter, be appointed within thirty days of the commencement of this Constitution.
+### Elections Commission 276.
+
+(a) A five member Elections Commission shall in the manner specified in this Chapter, be appointed within thirty days of the commencement of this Constitution.
 
 97
-
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
-
 (b) The members of the Elections Commission shall be appointed as follows:-
 
-- each of the political parties shall submit to the People's Majlis one nomination for appointment to the Elections Commission;
+1. each of the political parties shall submit to the People's Majlis one nomination for appointment to the Elections Commission;
 
-- the  People's  Majlis  shall  by  resolution passed by a two-thirds majority of those present and voting confirm the appointment  of five members  to  the Elections Commission from the nominations  received  from  the  political parties;
+2. the People's Majlis shall by resolution passed by a two-thirds majority of those present and voting confirm the appointment of five members to the Elections Commission from the nominations received from the political parties;
 
-- where five members are not confirmed as provided for in article (b) (2), the political party or parties whose nominations  were  unsuccessful  shall  be given  the  opportunity  to  submit  further nominations  in  numbers  equal  to  the membership positions unfilled;
+3. where five members are not confirmed as provided for in article (b) (2), the political party or parties whose nominations were unsuccessful shall be given the opportunity to submit further nominations in numbers equal to the membership positions unfilled;
 
-- where the nominations submitted by the political parties as provided for in article (a) falls short of five names; the political parties shall be afforded the opportunity to submit further names;
+4. where the nominations submitted by the political parties as provided for in article (a) falls short of five names; the political parties shall be afforded the opportunity to submit further names;
 
-- the members of the Elections Commission shall appoint a Chairman of the Elections Commission from amongst themselves;
+5. the members of the Elections Commission shall appoint a Chairman of the Elections Commission from amongst themselves;
 
-- for the purposes of this Chapter a political  party  shall  mean  a  party  which has  held  its  elections  and  post  bearers appointed to its posts.
+6. for the purposes of this Chapter a political party shall mean a party which has held its elections and post bearers appointed to its posts.
 
 98
-
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
+### Vacancy in Elections Commission 277.
 
-### Vacancy in Elections Commission
+- Vacancies in the Elections Commission shall be filled in accordance with the provisions of this Chapter on appointments to the Elections Commission.
 
-### Qualifications of members of the Elections Commission
+### Qualifications of members of the Elections Commission 278.
 
-### Responsibilities of the Elections Commission
+(a) The members of the Elections Commission established pursuant to this Chapter shall possess the qualifications specified in Article 169 of this Constitution.
 
-### Term of Elections Commission
+(b) A member of the Elections Commission shall not be a member of any political party.
 
-### Judicial Service Commission
+### Responsibilities of the Elections Commission 279.
 
-- Vacancies in the Elections Commission shall be filled in  accordance  with  the  provisions  of  this  Chapter  on appointments to the Elections Commission.
+- The responsibilities of the Elections Commission appointed pursuant to this Chapter shall be to do all things necessary to conduct, manage, supervise and declare the results of the elections held pursuant to this Chapter, perform actions relating to political parties, and such additional functions specified in this Constitution to the extent required during the transitional period.
 
-278.
+### Term of Elections Commission 280.
 
-279.
+- The Elections Commission appointed pursuant to this Chapter shall continue until the appointment, by the People's Majlis elected as specified in the Chapter, “The People's Majlis” (of this Constitution), of a new Elections Commission as specified in the Chapter, “Independent Commissions and Independent Offices” (of this Constitution).
 
-(a) The  members  of  the  Elections  Commission established pursuant to this Chapter shall possess  the  qualifications  specified  in  Article 169 of this Constitution.
+### Judicial Service Commission 281.
 
-(b) A  member  of  the  Elections  Commission  shall not be a member of any political party.
+(a) A Judicial Service Commission composed of the following persons, shall be appointed within thirty days of the commencement of this Constitution:
 
-The responsibilities of the Elections Commission appointed pursuant to this Chapter shall be to do all things  necessary  to  conduct,  manage,  supervise  and declare  the  results  of  the  elections  held  pursuant  to this Chapter,  perform  actions  relating to political parties, and such additional functions specified in this Constitution to the extent required during the transitional period.
-
-- The Elections Commission appointed pursuant to this Chapter  shall  continue  until  the  appointment,  by  the People's  Majlis  elected  as  specified  in  the    Chapter, 'The People's Majlis' (of this Constitution),  of a new Elections  Commission  as  specified  in  the  Chapter, 'Independent Commissions and Independent Offices' (of this Constitution).
-
-281.
-
-(a) A Judicial Service Commission composed of the following  persons,  shall  be  appointed  within thirty days of the commencement of this Constitution:
-
-- a Judge of the Supreme Court other than the Chief  Justice,  elected  by  the  Judges  of  the Supreme Court;
+1. a Judge of the Supreme Court other than the Chief Justice, elected by the Judges of the Supreme Court;
 
 99
-
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
+2. a Judge of the High Court, elected by the Judges of the High Court;
+
+3. a Judge of the Trial Courts, elected by the Judges of the Trial Courts;
+
+4. a member of the People's Majlis appointed by it;
+
+5. a member of the general public appointed by the People's Majlis;
+
+6. the Chair of the Civil Service Commission;
+
+7. a person appointed by the President;
+
+8. a lawyer elected from among the lawyers licensed to practise in the Maldives by themselves.
+
+(b) Despite the provisions of article (a), a Judge from the Supreme Court shall only be appointed to the Judicial Service Commission after appointment of Judges to the Supreme Court as specified in this Chapter.
+
+(c) The Judicial Service Commission appointed as provided in this Chapter shall continue until constitution by the next elected People's Majlis, of a Judicial Service Commission as specified in this Constitution.
 
 ### Supreme Court 282.
 
-- a  Judge  of  the  High  Court,  elected  by  the Judges of the High Court;
-
-- a  Judge  of  the  Trial  Courts,  elected  by  the Judges of the Trial Courts;
-
-- a  member  of  the  People's  Majlis  appointed by it;
-
-- a member of the general public appointed by the People's Majlis;
-
-- the Chair of the Civil Service Commission;
-
-- a person appointed by the President;
-
-- a  lawyer  elected  from  among  the  lawyers licensed to practise in the Maldives by themselves.
-
-(b) Despite  the  provisions  of  article  (a),  a  Judge from the Supreme Court shall only be appointed  to  the  Judicial  Service  Commission after  appointment  of  Judges  to  the  Supreme Court as specified in this Chapter.
-
-(c) The Judicial  Service  Commission appointed as provided  in  this  Chapter  shall  continue  until constitution by the next elected People's Majlis, of a Judicial Service Commission as specified in this Constitution.
-
-(a) A  Supreme  Court  comprising  of  five  Judges, shall within forty five days of the commencement of this Constitution, be appointed to deal with all legal disputes arising
+(a) A Supreme Court comprising of five Judges, shall within forty five days of the commencement of this Constitution, be appointed to deal with all legal disputes arising
 
 100
-
 [[END OF PAGE 115]]
 
 [[START OF PAGE 116]]
-
 under this Constitution and all matters coming to it on appeal from the High Court.
 
-(b) Until  the  establishment  of  the  Supreme  Court as provided for in this Chapter and appointment  of a person to carry out the responsibilities of the Chief Justice as specified in article (c), the highest  authority  for the administration  of  justice  in  the  Maldives  shall be  a  Judge  of  the  High  Court  chosen  from among themselves.
+(b) Until the establishment of the Supreme Court as provided for in this Chapter and appointment of a person to carry out the responsibilities of the Chief Justice as specified in article (c), the highest authority for the administration of justice in the Maldives shall be a Judge of the High Court chosen from among themselves.
 
-(c) Until such time as the new People's Majlis upon the  recommendation  of  the  Judicial  Service Commission constituted as specified for in this Constitution, appoints a Chief Justice as provided for in Article 147,   the responsibilities of  that  office  shall  be  administered  by  a  Judge chosen  from  within  themselves  by  the  Judges appointed to the Supreme Court in the manner specified in this Chapter.
+(c) Until such time as the new People's Majlis upon the recommendation of the Judicial Service Commission constituted as specified for in this Constitution, appoints a Chief Justice as provided for in Article 147, the responsibilities of that office shall be administered by a Judge chosen from within themselves by the Judges appointed to the Supreme Court in the manner specified in this Chapter.
 
-(d) All matters pending on appeal to the President at the commencement of this Constitution shall henceforth  be  dealt  with  and  deemed  to  be pending before the Supreme Court. There shall be no further recourse of appeal from the High Court to the President from then onwards.
+(d) All matters pending on appeal to the President at the commencement of this Constitution shall henceforth be dealt with and deemed to be pending before the Supreme Court. There shall be no further recourse of appeal from the High Court to the President from then onwards.
 
-(e) The Supreme Court established as provided for in  this  Chapter,  in  formulating  the  principles applicable  to  the  appeal  process  shall  ensure that the following cases have the opportunity of appeal:
+(e) The Supreme Court established as provided for in this Chapter, in formulating the principles applicable to the appeal process shall ensure that the following cases have the opportunity of appeal:
 
-- those cases disposed  of by  the  High Court where the right of appeal has been lost  between  the  commencement of this Constitution  and  establishment  of  the Supreme Court pursuant to this Chapter;
+1. those cases disposed of by the High Court where the right of appeal has been lost between the commencement of this Constitution and establishment of the Supreme Court pursuant to this Chapter;
 
 101
-
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
+2. those cases disposed of by the High Court between the commencement of this Constitution and establishment of the Supreme Court pursuant to this Chapter;
 
-### Appointment of Judges to the Supreme Court
+### Appointment of Judges to the Supreme Court 283.
 
-### Term of Supreme Court
+(a) The President as Head of the State shall appoint Judges to the Supreme Court established as specified in this Chapter. The appointments shall be determined after consulting the Judicial Service Commission and confirmation of the appointments by a two-thirds majority of the members of the People's Majlis present and voting.
 
-### Continuation of Judges
+(b) The Judges of the Supreme Court appointed pursuant to this Chapter shall possess the qualifications specified in Article 149 of this Constitution.
 
-283.
+### Term of Supreme Court 284.
 
-- those cases disposed  of by  the  High Court  between  the  commencement  of this  Constitution  and  establishment  of the Supreme  Court pursuant to this Chapter;
+- The Supreme Court appointed pursuant to this Chapter shall continue until the establishment of the Supreme Court as provided for in Article 145 of this Constitution.
 
-(a) The President as Head of the State shall appoint Judges  to  the  Supreme  Court  established  as specified  in  this  Chapter.    The  appointments shall be determined after consulting the Judicial  Service  Commission  and  confirmation of the appointments by a two-thirds majority of the members of the People's Majlis present and voting.
+### Continuation of Judges 285.
 
-(b) The  Judges  of  the  Supreme  Court  appointed pursuant to this Chapter shall possess the qualifications  specified  in  Article  149  of  this Constitution.
+(a) All Judges in office at the commencement of this Constitution except for the Chief Justice shall continue in office until such time as a determination pursuant to this Article.
 
-- The Supreme Court appointed pursuant to this Chapter shall  continue  until  the  establishment  of  the Supreme Court  as  provided  for  in  Article  145  of  this Constitution.
-
-(a) All  Judges  in  office  at  the  commencement  of this  Constitution  except  for  the  Chief  Justice shall  continue  in  office  until  such  time  as  a determination pursuant to this Article.
-
-(b) The  Judicial  Service  Commission  established pursuant  to  Article  157  of  this  Constitution, shall within two years of the commencement of this Constitution determine whether or not the Judges  in  office  at  the  said  time,  possess  the qualification of Judges specified in Article 149.
+(b) The Judicial Service Commission established pursuant to Article 157 of this Constitution, shall within two years of the commencement of this Constitution determine whether or not the Judges in office at the said time, possess the qualification of Judges specified in Article 149.
 
 (c) Where it is determined as provided in article (b) that a Judge does not possess a qualification or
 
 102
-
 [[END OF PAGE 117]]
 
 [[START OF PAGE 118]]
-
-### Other courts
-
-### Jurisdiction of the courts
-
-### Prosecutor General
 the qualifications specified in Article 149, such Judge shall cease to hold office.
 
-(d) Where it is determined as provided in article (b) that a Judge possesses the qualifications specified  in  Article  149,  such  Judge  shall  be appointed as a Judge under this Constitution.
+(d) Where it is determined as provided in article (b) that a Judge possesses the qualifications specified in Article 149, such Judge shall be appointed as a Judge under this Constitution.
 
-(e) Except  as  provided  in  article  (c),  Judges  may only  be  removed  from  office  as  specified  in Article 154 of this Constitution.
+(e) Except as provided in article (c), Judges may only be removed from office as specified in Article 154 of this Constitution.
 
-- All  Courts  in  existence  at  commencement  of  this Constitution  shall  continue  in  existence  until  such time as new Courts are established in accordance with Article 141 of this Constitution.
+### Other courts 286.
+
+- All Courts in existence at commencement of this Constitution shall continue in existence until such time as new Courts are established in accordance with Article 141 of this Constitution.
+
+### Jurisdiction of the courts 287.
 
 - All matters pending before the Supreme Court established pursuant to this Chapter and the courts in existence at commencement of this Constitution shall henceforth be deemed to be pending before the courts established under this Constitution.
 
-288.
+### Prosecutor General 288.
 
-(a) The  Prosecutor  General  shall  be  appointed  in the  manner  specified  in  this  Chapter  within thirty days of the commencement of this Constitution.
+(a) The Prosecutor General shall be appointed in the manner specified in this Chapter within thirty days of the commencement of this Constitution.
 
-(b) Until  such  time  as  the  Prosecutor  General  is appointed and assumes office, the responsibilities of the Prosecutor General shall be  carried  out  the  by  the  Attorney  General. However the Attorney General shall only carry out the responsibilities of the Prosecutor General for a maximum period of thirty days.
+(b) Until such time as the Prosecutor General is appointed and assumes office, the responsibilities of the Prosecutor General shall be carried out the by the Attorney General. However the Attorney General shall only carry out the responsibilities of the Prosecutor General for a maximum period of thirty days.
 
-(c) The President as Head of the State shall appoint the  Prosecutor  General  as  provided  in  article (a). The appointment shall be made by
+(c) The President as Head of the State shall appoint the Prosecutor General as provided in article (a). The appointment shall be made by
 
 103
-
 [[END OF PAGE 118]]
 
 [[START OF PAGE 119]]
+submission of a nomination to the People's Majlis within fifteen days of the commencement of this Constitution, and confirmation of the appointment by a two-thirds majority of the members of the People's Majlis present and voting.
 
-### Anti-Corruption Commission
-
-### Independent Commissions
-
-### Continuance of laws
-
-### No amendment to the Constitution
-
-### Commencement of this Constitution
-submission  of  a  nomination  to  the  People's Majlis within fifteen days of the commencement of  this  Constitution,  and  confirmation  of  the appointment  by  a  two-thirds  majority  of  the members  of  the  People's  Majlis  present  and voting.
+### Anti-Corruption Commission 289.
 
 - The Anti-Corruption Commission shall in the manner specified in this Constitution be appointed within sixty days of the commencement of this Constitution.
 
-- The Elections Commission, the Anti-Corruption Commission  and  the  Prosecutor General shall in accordance with the provisions of this Constitution, be appointed  within  sixty  days  of  the  first  sitting  of  the first People's Majlis elected under this Constitution.
+### Independent Commissions 290.
 
-- All  laws  in  force  at  the  time  this  Constitution  comes into force which are not inconsistent with this Constitution shall continue to remain in force.
+- The Elections Commission, the Anti-Corruption Commission and the Prosecutor General shall in accordance with the provisions of this Constitution, be appointed within sixty days of the first sitting of the first People's Majlis elected under this Constitution.
 
-- No  amendments  may  be  made  to  the  Constitution until  the  first  election  of  and  assumption  of  office  by the President and  the People's Majlis under  this Constitution.
+### Continuance of laws 291.
 
-293.
+- All laws in force at the time this Constitution comes into force which are not inconsistent with this Constitution shall continue to remain in force.
 
-(a) This  Constitution  shall  come  into  force,  after approval  of  the  Special  Majlis,  assent  by  the President  and  publication  in  the  Government Gazette.
+### No amendment to the Constitution 292.
 
-(b) Upon the commencement of this Constitution, the ' Constitution of the Republic of the Maldives '  which came into force on 1 January 1998 shall be repealed.
+- No amendments may be made to the Constitution until the first election of and assumption of office by the President and the People's Majlis under this Constitution.
 
-(c) Despite the provisions of article (a), until such time  as  the  election  of  the  President  and  the People's  Majlis,  the  specific  provisions  of  this
+### Commencement of this Constitution 293.
+
+(a) This Constitution shall come into force, after approval of the Special Majlis, assent by the President and publication in the Government Gazette.
+
+(b) Upon the commencement of this Constitution, the “Constitution of the Republic of the Maldives” which came into force on 1 January 1998 shall be repealed.
+
+(c) Despite the provisions of article (a), until such time as the election of the President and the People's Majlis, the specific provisions of this
 
 104
-
 [[END OF PAGE 119]]
 
 [[START OF PAGE 120]]
+Chapter shall apply to the matters specified herein.
 
 ### Continuance of the People's Majlis 294.
 
-### Responsibilities and powers of the People's Majlis 295.
-Chapter  shall  apply  to  the  matters  specified herein.
-
 (a) The People's Majlis in existence at the commencement of this Constitution shall continue until such time as the first elections of the People's Majlis under this Constitution are held, and election of members and assumption of office by the members.
 
-(b) The People's Majlis shall at the first sitting after the ratification of this Constitution, elect a Speaker and a Deputy Speaker from its members by secret ballot. Until such time as a Speaker  and  a  Deputy  Speaker  is  elected  the People's  Majlis  shall  be  presided  over  by  the consecutively longest serving  member  from among those present. Where there are a number  of  members  who  have  consecutively served  the  longest  then  the  Majlis  shall  be presided  over  by  the  member  most  senior  by age  of  those  having  served  consecutively  the longest.
+(b) The People's Majlis shall at the first sitting after the ratification of this Constitution, elect a Speaker and a Deputy Speaker from its members by secret ballot. Until such time as a Speaker and a Deputy Speaker is elected the People's Majlis shall be presided over by the consecutively longest serving member from among those present. Where there are a number of members who have consecutively served the longest then the Majlis shall be presided over by the member most senior by age of those having served consecutively the longest.
 
-(c) Whenever there is a vacancy among the members of the People's Majlis, and there is a period  of  six  months  between  the  date  of  the vacancy and the first sitting of the first elected People's Majlis, an election shall be held to elect a member to the vacancy.
+(c) Whenever there is a vacancy among the members of the People's Majlis, and there is a period of six months between the date of the vacancy and the first sitting of the first elected People's Majlis, an election shall be held to elect a member to the vacancy.
+
+### Responsibilities and powers of the People's Majlis 295.
 
 (a) The People's Majlis shall carry out the following:
 
-- to  do  all  things  necessary  to  facilitate  the elections  specified  in  this  Chapter  in  the manner provided herein;
+1. to do all things necessary to facilitate the elections specified in this Chapter in the manner provided herein;
 
 105
-
 [[END OF PAGE 120]]
 
 [[START OF PAGE 121]]
+2. to determine what laws are contrary to the Constitution and to do all things necessary for the repeal or amendment of such laws;
+
+3. to enact legislation required under this Constitution;
+
+4. to deal with all routine legislative matters necessary for the functioning of the Executive and the Judiciary, and for the proper functioning and good governance of the Maldives.
+
+(b) The People's Majlis shall continue to consider Bills submitted prior to the commencement of this Constitution, and not yet enacted, and any other matters if they are not contrary to the Constitution.
 
 ### Election of the People's Majlis 296.
 
-### Continuance of other posts and institutions 297.
-
-- to  determine  what  laws  are  contrary  to  the Constitution  and  to  do  all  things  necessary for the repeal or amendment of such laws;
-
-- to enact legislation required under this Constitution;
-
-- to  deal  with  all  routine  legislative  matters necessary for the functioning of the Executive  and  the  Judiciary,  and  for  the proper functioning and good governance of the Maldives.
-
-(b) The  People's  Majlis  shall  continue  to  consider Bills  submitted  prior  to  the  commencement  of this Constitution, and not yet enacted, and any other  matters  if  they  are  not  contrary  to  the Constitution.
-
-(a) The  first  election  of  members  to  the  People's Majlis  to  be  held  under  this  Constitution  shall be held before 15 February 2009.
+(a) The first election of members to the People's Majlis to be held under this Constitution shall be held before 15 February 2009.
 
 (b) The People's Majlis elected in accordance with article (a) shall after taking and subscribing the oath of office and assumption of office, hold the first meeting of the first People's Majlis elected under this Constitution, before 1 March 2009.
 
-(a) Within two years of the commencement of this Constitution, excepting matters specifically provided  herein,  elections  or  appointments  to posts  shall  be  finalised  in  accordance  with  the provisions of this Constitution, and institutions specified in the Constitution shall also be created or established.
+### Continuance of other posts and institutions 297.
+
+(a) Within two years of the commencement of this Constitution, excepting matters specifically provided herein, elections or appointments to posts shall be finalised in accordance with the provisions of this Constitution, and institutions specified in the Constitution shall also be created or established.
 
 (b) Until such time as elections or appointments to posts specified in this Constitution in the
 
 106
-
 [[END OF PAGE 121]]
 
 [[START OF PAGE 122]]
+manner provided in this Chapter or this Constitution are finalised, persons elected or appointed at the commencement of this Constitution shall continue in office.
 
-### Decentralised administration
+(c) Until such time as creation of institutions specified in this Constitution in the manner provided in this Chapter or this Constitution, institutions created or established at the commencement of this Constitution shall continue.
+
+### Decentralised administration 298.
+
+- In order to provide for decentralised administration of the administrative divisions of the Maldives, elections to island councils, atoll councils and city councils as provided for in this Constitution shall be held before 1 July 2009.
 
 ### Obedience to the Constitution 299.
-manner provided in this Chapter or this Constitution  are  finalised,  persons  elected  or appointed at the commencement of this Constitution shall continue in office.
 
-(c) Until such time as creation of institutions specified  in  this  Constitution  in  the  manner provided  in  this  Chapter  or  this  Constitution, institutions created or established at the commencement of this Constitution shall continue.
-
-- In order to provide for decentralised administration of the administrative divisions of the Maldives, elections to  island  councils,  atoll  councils  and  city  councils    as provided for in this Constitution shall be held before 1 July 2009.
-
-(a) The Executive, the People's Majlis, the Judiciary,  the  Independent  Commissions  and persons in Independent Offices, all State institutions, all persons in any State post and all citizens shall comply with the provisions of the Constitution upon its commencement. The nonexistence of a law shall not be an excuse for the infringement of any fundamental right or freedom under the Constitution.
+(a) The Executive, the People's Majlis, the Judiciary, the Independent Commissions and persons in Independent Offices, all State institutions, all persons in any State post and all citizens shall comply with the provisions of the Constitution upon its commencement. The non-existence of a law shall not be an excuse for the infringement of any fundamental right or freedom under the Constitution.
 
 (b) Despite the provisions of article (a):-
 
-- the  People's  Majlis  shall  identify  laws inconsistent  with  the  Constitution  at  its commencement and approve a course of action  until  such  inconsistent  laws  or parts thereof can be amended or repealed. The Executive shall within thirty days of the commencement of this Constitution draw up a list of such laws or  part  thereof  and  submit  it  to  the
+1. the People's Majlis shall identify laws inconsistent with the Constitution at its commencement and approve a course of action until such inconsistent laws or parts thereof can be amended or repealed. The Executive shall within thirty days of the commencement of this Constitution draw up a list of such laws or part thereof and submit it to the
 
 107
-
 [[END OF PAGE 122]]
 
 [[START OF PAGE 123]]
+People's Majlis. Within ninety days of the commencement of this Constitution, the People's Majlis shall draw up and approve a schedule for amending or revoking such laws.
+
+2. the People's Majlis shall until the enactment and commencement of laws required to give effect to this Constitution, approve a course of action in relation to these matters. The Executive shall within thirty days of the commencement of this Constitution draw up a list of such laws and submit it to the People's Majlis. Within ninety days of the commencement of this Constitution, the People's Majlis shall draw up and approve a schedule for enactment and commencement of such laws.
 
 ### Continuation in office of the President and the Cabinet of Ministers 300.
 
-People's Majlis. Within ninety days of the commencement of this Constitution, the People's Majlis shall draw up and approve a schedule for amending  or revoking such laws.
+(a) Until such time as the first Presidential elections under this Constitution are held and a person elected to and assumes the post of President, the person holding the post of President at the commencement of this Constitution shall continue in office.
 
-- the People's Majlis shall until the enactment  and  commencement  of  laws required to give effect to this Constitution,  approve a course of action in relation to these matters. The Executive shall within thirty days of the commencement of this Constitution draw up a list of such laws and submit it to the People's Majlis.  Within  ninety days of the commencement of this Constitution,  the  People's  Majlis  shall draw  up  and  approve  a  schedule  for enactment  and  commencement  of  such laws.
+(b) Until such time as the first Presidential elections under this Constitution are held and a person elected to and assumes the post of President, the Cabinet of Ministers appointed by the person holding the post of President at the commencement of this Constitution shall continue in office. The President has the discretion to make changes to the Cabinet of Ministers.
 
-(a) Until such time as the first Presidential elections under this Constitution are held and a person  elected  to  and  assumes  the  post  of President, the person holding the post of President at the commencement of this Constitution shall continue in office.
-
-(b) Until such time as the first Presidential elections under this Constitution are held and a person  elected  to  and  assumes  the  post  of President,  the  Cabinet  of  Ministers  appointed by  the  person  holding  the  post  of  President  at the  commencement  of  this  Constitution  shall continue in office. The President has the discretion  to  make  changes  to  the  Cabinet  of Ministers.
-
-(c) The  Cabinet  of  Ministers  appointed  after  the first Presidential elections held pursuant to this
+(c) The Cabinet of Ministers appointed after the first Presidential elections held pursuant to this
 
 108
-
 [[END OF PAGE 123]]
 
 [[START OF PAGE 124]]
+Constitution shall not contain any members of the People's Majlis.
 
 ### Presidential election 301.
 
-Constitution shall not contain any members of the People's Majlis.
-
 (a) The first presidential elections to be held under this Constitution shall be held before 10 October 2008.
 
-(b) The President elected in accordance with article (a)  shall  take  and  subscribe  the  oath  of  and assume office on 11 November 2008.
+(b) The President elected in accordance with article (a) shall take and subscribe the oath of and assume office on 11 November 2008.
 
 109
-
 [[END OF PAGE 124]]
 
 [[START OF PAGE 125]]
@@ -3262,7 +3563,7 @@ National flag
 
 Composition of national flag | As provided in Article 12 of this Constitution, the national flag of the Republic of Maldives comprises of a green rectangle with a white crescent in the centre, the green rectangle being surrounded by a red border.
 --- | ---
-Dimensions | The width of the national flag is two-thirds of its length. The width of the red border is one-fourth of the width of the flag. The radii of both curvatures crescent are one- third of the width of the green rectangle. They are drawn from two points on a centre line across the length of the green rectangle, the first point being nine-sixteenth and the second at five-eighths of the length, measured from
+Dimensions | The width of the national flag is two-thirds of its length. The width of the red border is one-fourth of the width of the flag. The radii of both curvatures crescent are one-third of the width of the green rectangle. They are drawn from two points on a centre line across the length of the green rectangle, the first point being nine-sixteenth and the second at five-eighths of the length, measured from
 
 113
 
