@@ -6,7 +6,7 @@ SLOVENSKEJ REPUBLIKY
 
 Ročník 2008
 
-Časová verzia predpisu účinná od: 1. 9.2019 do: 31.12.2019
+Vyhlásené: 2. 7. 2008 Časová verzia predpisu účinná od: 1. 9.2019 do: 31.12.2019
 
 Obsah dokumentu je právne záväzný.
 
@@ -25,8 +25,6 @@ Národná rada Slovenskej republiky sa uzniesla na tomto zákone:
 ### PRVÁ ČASŤ VŠEOBECNÉ USTANOVENIA
 
 ##### § 1 Predmet úpravy
-
-Vyhlásené: 2. 7. 2008
 
 Tento zákon ustanovuje
 
@@ -224,11 +222,13 @@ Strana 5
 
 - výchovno-vzdelávacie programy pre školské zariadenia (ďalej len 'výchovný program').
 
-- Podľa vzdelávacích programov sa uskutočňuje výchova a vzdelávanie, ktoré poskytuje stupeň
+(3) Podľa vzdelávacích programov sa uskutočňuje výchova a vzdelávanie, ktoré poskytuje stupeň vzdelania podľa § 16 a 17.
 
-vzdelania podľa § 16 a 17. (4) Vzdelávací program je a) štátny vzdelávací program,
+(4) Vzdelávací program je
 
-- školský vzdelávací program.
+a) štátny vzdelávací program,
+
+b) školský vzdelávací program.
 
 (5) Podľa výchovného programu sa uskutočňuje výchova a vzdelávanie, ktoré neposkytuje stupeň vzdelania podľa § 16 a 17.
 
@@ -286,7 +286,7 @@ Zbierka zákonov Slovenskej republiky
 
 (5) Štátne vzdelávacie programy podľa odseku 4 pre zdravotnícke študijné odbory obsahujú aj požiadavky zdravotnej spôsobilosti vo vzťahu k príslušnému študijnému odboru.
 
-- Pre príslušný odbor vzdelávania je štátny vzdelávací program záväzný pre
+(6) Pre príslušný odbor vzdelávania je štátny vzdelávací program záväzný pre
 
 - vypracovanie školského vzdelávacieho programu,
 
@@ -344,7 +344,7 @@ h) vyučovací jazyk podľa § 12,
 
 (7) Súlad školského vzdelávacieho programu so štátnym vzdelávacím programom, cieľmi a princípmi výchovy a vzdelávania ustanovenými týmto zákonom kontroluje Štátna školská inšpekcia. 7 )
 
-- Ak ide o novozriaďovanú školu, odborné vypracovanie školského vzdelávacieho programu zabezpečí zriaďovateľ školy a prikladá ho k žiadosti o zaradenie školy do siete škôl a školských zariadení podľa osobitného predpisu. 8 )
+(8) Ak ide o novozriaďovanú školu, odborné vypracovanie školského vzdelávacieho programu zabezpečí zriaďovateľ školy a prikladá ho k žiadosti o zaradenie školy do siete škôl a školských zariadení podľa osobitného predpisu. 8 )
 
 (9) Školský vzdelávací program zverejní riaditeľ školy na verejne prístupnom mieste.
 
@@ -404,9 +404,9 @@ i) vnútorný systém kontroly a hodnotenia zamestnancov školského zariadenia
 
 b) obsahové štandardy, ktoré určujú rozsah požadovaných vedomostí a zručností.
 
-- Rámcové učebné plány sú súčasťou štátnych vzdelávacích programov, obsahujú vzdelávacie oblasti a zoznam povinných a voliteľných vyučovacích predmetov s vymedzením najmenšieho počtu vyučovacích hodín v rámci celého vzdelávacieho programu alebo jeho ucelenej časti. Rámcové učebné plány určujú taktiež rozsah najväčšieho týždenného počtu vyučovacích hodín v príslušnom ročníku vzdelávacieho programu a počet hodín, ktoré môže škola použiť na svoje vlastné zameranie v rámci tvorby školského vzdelávacieho programu. Rámcové učebné plány sú záväzné pre vypracovanie učebných plánov príslušných školských vzdelávacích programov.
+(3) Rámcové učebné plány sú súčasťou štátnych vzdelávacích programov, obsahujú vzdelávacie oblasti a zoznam povinných a voliteľných vyučovacích predmetov s vymedzením najmenšieho počtu vyučovacích hodín v rámci celého vzdelávacieho programu alebo jeho ucelenej časti. Rámcové učebné plány určujú taktiež rozsah najväčšieho týždenného počtu vyučovacích hodín v príslušnom ročníku vzdelávacieho programu a počet hodín, ktoré môže škola použiť na svoje vlastné zameranie v rámci tvorby školského vzdelávacieho programu. Rámcové učebné plány sú záväzné pre vypracovanie učebných plánov príslušných školských vzdelávacích programov.
 
-- Učebné plány sú súčasťou školských vzdelávacích programov a rozpracúvajú rámcové učebné plány štátneho vzdelávacieho programu podľa jednotlivých ročníkov s určením celkového týždenného počtu vyučovacích hodín pre príslušný ročník školského vzdelávacieho programu.
+(4) Učebné plány sú súčasťou školských vzdelávacích programov a rozpracúvajú rámcové učebné plány štátneho vzdelávacieho programu podľa jednotlivých ročníkov s určením celkového týždenného počtu vyučovacích hodín pre príslušný ročník školského vzdelávacieho programu.
 
 (5) Učebné osnovy sú súčasťou školských vzdelávacích programov. Vymedzujú výchovno-vzdelávacie ciele, obsah a rozsah vyučovania jednotlivých vyučovacích predmetov podľa učebného plánu alebo jednotlivých vzdelávacích oblastí v materskej škole.
 
@@ -424,35 +424,35 @@ Strana 9
 
 vzdelávacie štandardy. Učebnými osnovami povinných vyučovacích predmetov všeobecného vzdelávania strednej odbornej školy, školy umeleckého priemyslu, strednej športovej školy, konzervatória alebo kurzov jazykovej školy, ktorých časová dotácia sa v učebnom pláne nezvyšuje alebo sa zvyšuje bez rozšírenia obsahu, môžu byť vzdelávacie štandardy.
 
-- Rozsah úprav učebných plánov a vypracovanie učebných osnov musí byť v súlade s príslušným vzdelávacím štandardom.
+(7) Rozsah úprav učebných plánov a vypracovanie učebných osnov musí byť v súlade s príslušným vzdelávacím štandardom.
 
 ##### § 10 Výchovné štandardy, výchovné plány, výchovné osnovy
 
-- Výchovné štandardy obsahujú súbor požiadaviek na osvojenie si vedomostí, zručností a schopností, ktoré majú deti získať, aby mohli nadväzovať na vedomosti, zručnosti a schopnosti získané vo výchovno-vzdelávacej činnosti v škole.
+(1) Výchovné štandardy obsahujú súbor požiadaviek na osvojenie si vedomostí, zručností a schopností, ktoré majú deti získať, aby mohli nadväzovať na vedomosti, zručnosti a schopnosti získané vo výchovno-vzdelávacej činnosti v škole.
 
-- Výchovné štandardy pre deti sa členia na
+(2) Výchovné štandardy pre deti sa členia na
 
 - výkonové štandardy, ktoré určujú kritériá úrovne zvládnutia obsahových štandardov,
 
 - obsahové štandardy, ktoré určujú, akú vedomosť, zručnosť a schopnosť majú deti ovládať a prakticky používať.
 
-- Výchovné plány obsahujú zoznam oblastí výchovy s vymedzením najmenšieho počtu vyučovacích hodín v rámci celého výchovného programu alebo ich ucelených častí.
+(3) Výchovné plány obsahujú zoznam oblastí výchovy s vymedzením najmenšieho počtu vyučovacích hodín v rámci celého výchovného programu alebo ich ucelených častí.
 
-- Výchovné plány sú súčasťou výchovných programov a určujú celkovú skladbu výchovných oddelení a výchovných skupín pre príslušný ročník výchovného programu.
+(4) Výchovné plány sú súčasťou výchovných programov a určujú celkovú skladbu výchovných oddelení a výchovných skupín pre príslušný ročník výchovného programu.
 
-- Výchovné osnovy sú súčasťou výchovných programov. Vymedzujú výchovno-vzdelávacie ciele, obsah a rozsah oblastí výchovy podľa výchovného plánu.
+(5) Výchovné osnovy sú súčasťou výchovných programov. Vymedzujú výchovno-vzdelávacie ciele, obsah a rozsah oblastí výchovy podľa výchovného plánu.
 
-- Jednotlivé školské zariadenia vypracujú výchovné osnovy najmenej v rozsahu ustanovenom výchovným štandardom.
+(6) Jednotlivé školské zariadenia vypracujú výchovné osnovy najmenej v rozsahu ustanovenom výchovným štandardom.
 
-- Rozsah úprav výchovných plánov a vypracovanie výchovných osnov musí byť v súlade s príslušným výchovným štandardom.
+(7) Rozsah úprav výchovných plánov a vypracovanie výchovných osnov musí byť v súlade s príslušným výchovným štandardom.
 
 ##### § 11 Pedagogická dokumentácia a ďalšia dokumentácia
 
-- Pedagogická dokumentácia školy alebo školského zariadenia je súbor písomných dokumentov, ktorými sa riadi proces výchovy a vzdelávania a podľa ktorých vydáva škola alebo školské zariadenie verejné listiny a rozhodnutia.
+(1) Pedagogická dokumentácia školy alebo školského zariadenia je súbor písomných dokumentov, ktorými sa riadi proces výchovy a vzdelávania a podľa ktorých vydáva škola alebo školské zariadenie verejné listiny a rozhodnutia.
 
-- Pedagogická dokumentácia sa v školách a v školských zariadeniach vedie v štátnom jazyku. 9 ) V školách a v školských zariadeniach podľa tohto zákona, v ktorých sa uskutočňuje výchova a vzdelávanie v jazyku národnostných menšín, sa pedagogická dokumentácia školy vedie dvojjazyčne, a to v štátnom jazyku a v jazyku príslušnej národnostnej menšiny.
+(2) Pedagogická dokumentácia sa v školách a v školských zariadeniach vedie v štátnom jazyku. 9 ) V školách a v školských zariadeniach podľa tohto zákona, v ktorých sa uskutočňuje výchova a vzdelávanie v jazyku národnostných menšín, sa pedagogická dokumentácia školy vedie dvojjazyčne, a to v štátnom jazyku a v jazyku príslušnej národnostnej menšiny.
 
-- Pedagogickú dokumentáciu tvoria
+(3) Pedagogickú dokumentáciu tvoria
 
 - triedna kniha,
 
@@ -524,7 +524,7 @@ b) o identifikácii zákonných zástupcov dieťaťa alebo žiaka v rozsahu
 
 (7) Osoby, ktoré pri plnení svojich pracovných povinností prichádzajú do styku s osobnými údajmi podľa odseku 6, majú povinnosť mlčanlivosti, a to aj po skončení pracovnoprávneho vzťahu. 12 ) V prípade porušenia povinnosti mlčanlivosti sa postupuje podľa osobitného predpisu. 13 )
 
-- Ďalšia dokumentácia školy alebo školského zariadenia je súbor dokumentov, ktorými sa
+(8) Ďalšia dokumentácia školy alebo školského zariadenia je súbor dokumentov, ktorými sa
 
 [[END OF PAGE 10]]
 
@@ -604,7 +604,7 @@ Zbierka zákonov Slovenskej republiky
 
 (5) Súčasťou schvaľovacej doložky podľa odsekov 3 a 4 je aj určenie lehoty platnosti schvaľovacej doložky. Ministerstvo školstva, ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy podľa § 109 jeden rok pred uplynutím určenej lehoty platnosti schvaľovacej doložky zabezpečia odborné posúdenie učebnice, učebného textu, pracovného zošita a učebnej pomôcky podľa odsekov 3 a 4 a vydajú novú schvaľovaciu doložku alebo zabezpečia vydanie novej učebnice, učebného textu, pracovného zošita a učebnej pomôcky.
 
-(6) Schválené učebnice, schválené učebné texty a schválené pracovné zošity vrátane učebníc, učebných textov a pracovných zošitov v prepise do Braillovho písma, s implementáciou posunkovej reči nepočujúcich alebo v inej vhodnej forme pre žiakov so zdravotným znevýhodnením ministerstvo školstva bezodplatne prevedie do správy alebo do vlastníctva podľa odseku 7 alebo poskytne finančné prostriedky na ich zakúpenie podľa osobitného predpisu 14a ) školám, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie. K prevodu správy alebo vlastníctva schválených učebníc, schválených učebných textov a schválených pracovných zošitov dochádza dňom ich odovzdania a prevzatia. Na nakladanie so schválenými učebnicami, schválenými učebnými textami a schválenými pracovnými zošitmi sa nevzťahuje osobitný predpis. 14b
+(6) Schválené učebnice, schválené učebné texty a schválené pracovné zošity vrátane učebníc, učebných textov a pracovných zošitov v prepise do Braillovho písma, s implementáciou posunkovej reči nepočujúcich alebo v inej vhodnej forme pre žiakov so zdravotným znevýhodnením ministerstvo školstva bezodplatne prevedie do správy alebo do vlastníctva podľa odseku 7 alebo poskytne finančné prostriedky na ich zakúpenie podľa osobitného predpisu 14a ) školám, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie. K prevodu správy alebo vlastníctva schválených učebníc, schválených učebných textov a schválených pracovných zošitov dochádza dňom ich odovzdania a prevzatia. Na nakladanie so schválenými učebnicami, schválenými učebnými textami a schválenými pracovnými zošitmi sa nevzťahuje osobitný predpis. 14b)
 
 [[END OF PAGE 12]]
 
@@ -628,13 +628,13 @@ Strana 13
 
 - zriaďovateľa základnej školy, ktorá nie je právnickou osobou.
 
-- Pri prevode správy alebo vlastníctva schválených učebníc, schválených učebných textov, schválených pracovných zošitov a schválených učebných pomôcok pre odborné predmety v zdravotníckych odboroch vzdelávania a pre odborné predmety v školách podľa § 109 postupuje ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy podľa odsekov 6 a 7.
+(8) Pri prevode správy alebo vlastníctva schválených učebníc, schválených učebných textov, schválených pracovných zošitov a schválených učebných pomôcok pre odborné predmety v zdravotníckych odboroch vzdelávania a pre odborné predmety v školách podľa § 109 postupuje ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy podľa odsekov 6 a 7.
 
-- Na vzdelávanie v školách, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, možno používať aj učebnice odporúčané ministerstvom školstva. Ministerstvo školstva môže v priebehu kalendárneho roka poskytnúť školám, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, finančné prostriedky na zakúpenie učebníc odporúčaných ministerstvom školstva podľa osobitného predpisu. 14a )
+(9) Na vzdelávanie v školách, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, možno používať aj učebnice odporúčané ministerstvom školstva. Ministerstvo školstva môže v priebehu kalendárneho roka poskytnúť školám, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, finančné prostriedky na zakúpenie učebníc odporúčaných ministerstvom školstva podľa osobitného predpisu. 14a )
 
-- Ministerstvo školstva vedie register schválených učebníc, schválených učebných textov, schválených pracovných zošitov a odporúčaných učebníc a zverejňuje ho na svojom webovom sídle. Ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy podľa § 109 vedú register schválených učebných pomôcok. Ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy poskytujú priebežne do registra schválených učebníc, schválených učebných textov, schválených pracovných zošitov a odporúčaných učebníc údaje o schválených učebniciach, schválených učebných textoch a schválených pracovných zošitoch podľa odsekov 4 a 5.
+(10) Ministerstvo školstva vedie register schválených učebníc, schválených učebných textov, schválených pracovných zošitov a odporúčaných učebníc a zverejňuje ho na svojom webovom sídle. Ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy podľa § 109 vedú register schválených učebných pomôcok. Ministerstvo zdravotníctva a príslušný ústredný orgán štátnej správy poskytujú priebežne do registra schválených učebníc, schválených učebných textov, schválených pracovných zošitov a odporúčaných učebníc údaje o schválených učebniciach, schválených učebných textoch a schválených pracovných zošitoch podľa odsekov 4 a 5.
 
-- Ministerstvo školstva vypracúva a schvaľuje edičný plán na príslušný školský rok, ktorý obsahuje podľa ročníkov a druhu školy
+(11) Ministerstvo školstva vypracúva a schvaľuje edičný plán na príslušný školský rok, ktorý obsahuje podľa ročníkov a druhu školy
 
 - zoznam schválených učebníc, schválených učebných textov, schválených pracovných zošitov a odporúčaných učebníc, na zakúpenie ktorých poskytne ministerstvo školstva školám finančné prostriedky,
 
@@ -642,7 +642,7 @@ Strana 13
 
 ##### § 13a Používanie učebníc, pracovných zošitov a učebných textov
 
-- Školy podľa § 27 ods. 3 vedú evidenciu schválených učebníc, schválených učebných textov,
+(1) Školy podľa § 27 ods. 3 vedú evidenciu schválených učebníc, schválených učebných textov,
 
 [[END OF PAGE 13]]
 
@@ -670,7 +670,7 @@ schválených pracovných zošitov a odporúčaných učebníc bezodplatne prev
 
 ##### § 14 Experimentálne overovanie
 
-- Predmetom experimentálneho overovania sú predovšetkým
+(1) Predmetom experimentálneho overovania sú predovšetkým
 
 - ciele, metódy a prostriedky vzdelávania,
 
@@ -726,7 +726,7 @@ Strana 15
 
 (8) Experimentálne overovanie organizačne zabezpečuje zriaďovateľ školy alebo zriaďovateľ školského zariadenia v spolupráci s riaditeľom školy alebo školského zariadenia a garantom.
 
-- Náklady na experimentálne overovanie zabezpečí vo svojom rozpočte garant alebo po vzájomnej dohode zriaďovateľ školy. Experimentálne overovanie uskutočňované z podnetu ministerstva školstva je ním úplne alebo čiastočne financované. Na experimentálne overovanie môžu byť vyčlenené finančné prostriedky aj v rámci schválených projektov a podľa zmluvy aj z prostriedkov zriaďovateľov, iných fyzických osôb alebo právnických osôb.
+(9) Náklady na experimentálne overovanie zabezpečí vo svojom rozpočte garant alebo po vzájomnej dohode zriaďovateľ školy. Experimentálne overovanie uskutočňované z podnetu ministerstva školstva je ním úplne alebo čiastočne financované. Na experimentálne overovanie môžu byť vyčlenené finančné prostriedky aj v rámci schválených projektov a podľa zmluvy aj z prostriedkov zriaďovateľov, iných fyzických osôb alebo právnických osôb.
 
 (10) Garantom experimentálneho overovania podľa odseku 4 môže byť vysoká škola s akreditovaným študijným programom pedagogického zamerania alebo organizácia zriadená podľa osobitného predpisu. 15 )
 
@@ -794,7 +794,7 @@ Strana 17
 
 - úplné stredné odborné vzdelanie (vyššie sekundárne), ktoré získa žiak úspešným absolvovaním posledného ročníka najmenej štvorročného a najviac päťročného vzdelávacieho programu odboru vzdelávania v strednej odbornej škole, škole umeleckého priemyslu alebo v strednej športovej škole, ktorý sa ukončuje maturitnou skúškou, úspešným absolvovaním posledného ročníka najmenej dvojročného vzdelávacieho programu odboru vzdelávania nadstavbového štúdia v strednej odbornej škole, ktorý sa ukončuje maturitnou skúškou alebo úspešným absolvovaním posledného ročníka najmenej dvojročného vzdelávacieho programu odboru vzdelávania pomaturitného kvalifikačného štúdia v strednej odbornej škole, ktorý sa ukončuje odbornou zložkou maturitnej skúšky; dokladom o získanom stupni vzdelania a o získanej kvalifikácii je vysvedčenie o maturitnej skúške a v študijných odboroch, v ktorých sa praktické vyučovanie vykonáva formou odborného výcviku podľa osobitného predpisu, 17a ) je dokladom o získanej kvalifikácii aj výučný list.
 
-- Vyššie odborné vzdelanie (postsekundárne), ktoré získa žiak úspešným absolvovaním
+(5) Vyššie odborné vzdelanie (postsekundárne), ktoré získa žiak úspešným absolvovaním
 
 - najmenej dvojročného a najviac trojročného vzdelávacieho programu odboru vzdelávania v strednej odbornej škole, ktorý sa ukončuje absolventskou skúškou; dokladom o získanom stupni vzdelania je vysvedčenie o absolventskej skúške a dokladom o získanej kvalifikácii je absolventský diplom s právom používať titul 'diplomovaný špecialista' so skratkou 'DiS'; titul sa uvádza za priezviskom, pre zdravotnícke odbory vzdelania podľa osobitného predpisu, 18 )
 
@@ -808,7 +808,7 @@ Strana 17
 
 ##### § 17 Stupne základného umeleckého vzdelania a stupne jazykového vzdelania
 
-- Základné umelecké vzdelanie môže žiak získať úspešným absolvovaním vzdelávacieho programu odboru vzdelávania v základnej umeleckej škole. Základné umelecké vzdelanie sa člení na
+(1) Základné umelecké vzdelanie môže žiak získať úspešným absolvovaním vzdelávacieho programu odboru vzdelávania v základnej umeleckej škole. Základné umelecké vzdelanie sa člení na
 
 - primárne umelecké vzdelanie, ktoré získa žiak úspešným absolvovaním posledného ročníka vzdelávacieho programu pre prvú časť prvého stupňa základného štúdia základnej umeleckej školy; dokladom o získanom stupni vzdelania je vysvedčenie s doložkou,
 
@@ -826,7 +826,7 @@ Zbierka zákonov Slovenskej republiky
 
 ročníka vzdelávacieho programu pre druhú časť prvého stupňa základného štúdia základnej umeleckej školy; dokladom o získanom stupni vzdelania je vysvedčenie s doložkou.
 
-- Stupeň základného umeleckého vzdelania nenahrádza stupeň vzdelania podľa § 16.
+(2) Stupeň základného umeleckého vzdelania nenahrádza stupeň vzdelania podľa § 16.
 
 (3) Jazykové vzdelanie môže poslucháč získať úspešným absolvovaním vzdelávacieho programu odboru vzdelávania v jazykovej škole. Jazykové vzdelanie sa člení na
 
@@ -842,7 +842,7 @@ ročníka vzdelávacieho programu pre druhú časť prvého stupňa základného
 
 (1) Doklady o získanom vzdelaní podľa tohto zákona môžu vydávať školy, ktoré sú zaradené do siete škôl a školských zariadení podľa osobitného predpisu, 2 ) a školy podľa § 109 zriadené iným ústredným orgánom štátnej správy.
 
-- Dokladom o získanom vzdelaní je
+(2) Dokladom o získanom vzdelaní je
 
 - osvedčenie o absolvovaní predprimárneho vzdelávania,
 
@@ -932,7 +932,7 @@ rokov, nedosiahli školskú spôsobilosť, pochádzajú zo sociálne znevýhodne
 
 (2) Zákonný zástupca dieťaťa je povinný prihlásiť dieťa na plnenie povinnej školskej dochádzky v základnej škole (ďalej len 'zápis'). Zápis sa koná od 1. apríla do 30. apríla, ktorý predchádza začiatku školského roka, v ktorom má dieťa začať plniť povinnú školskú dochádzku.
 
-- Miesto a čas zápisu podľa odseku 2 určí
+(3) Miesto a čas zápisu podľa odseku 2 určí
 
 - obec všeobecne záväzným nariadením, 20 )
 
@@ -958,27 +958,27 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 21
 
-- Žiak umiestnený v školskom zariadení alebo v inom zariadení na základe rozhodnutia súdu alebo na žiadosť jeho zákonného zástupcu, plní povinnú školskú dochádzku v škole zriadenej pri tomto zariadení, ak je zriadená.
+(7) Žiak umiestnený v školskom zariadení alebo v inom zariadení na základe rozhodnutia súdu alebo na žiadosť jeho zákonného zástupcu, plní povinnú školskú dochádzku v škole zriadenej pri tomto zariadení, ak je zriadená.
 
-- Žiak podľa odseku 7 môže so súhlasom riaditeľa školského zariadenia alebo zariadenia, v ktorom sa vykonáva rozhodnutie súdu, plniť povinnú školskú dochádzku aj v inej škole podľa tohto zákona.
+(8) Žiak podľa odseku 7 môže so súhlasom riaditeľa školského zariadenia alebo zariadenia, v ktorom sa vykonáva rozhodnutie súdu, plniť povinnú školskú dochádzku aj v inej škole podľa tohto zákona.
 
-- Žiak, ktorý nemá trvalé bydlisko, plní povinnú školskú dochádzku v spádovej škole, ktorú určí orgán miestnej štátnej správy v školstve.
+(9) Žiak, ktorý nemá trvalé bydlisko, plní povinnú školskú dochádzku v spádovej škole, ktorú určí orgán miestnej štátnej správy v školstve.
 
 ##### § 21 Plnenie povinnej školskej dochádzky v strednej škole
 
-- Žiak, ktorý bol v priebehu plnenia povinnej školskej dochádzky prijatý do strednej školy alebo do školy podľa § 94, pokračuje v plnení povinnej školskej dochádzky až do jej skončenia v tejto škole, ak tento zákon neustanovuje inak.
+(1) Žiak, ktorý bol v priebehu plnenia povinnej školskej dochádzky prijatý do strednej školy alebo do školy podľa § 94, pokračuje v plnení povinnej školskej dochádzky až do jej skončenia v tejto škole, ak tento zákon neustanovuje inak.
 
-- Žiaka, ktorý plní povinnú školskú dochádzku v strednej škole podľa odseku 1, možno podľa § 36 ods. 1 preradiť 25 ) do príslušného ročníka spádovej základnej školy alebo do základnej školy, ktorú si zvolil zákonný zástupca.
+(2) Žiaka, ktorý plní povinnú školskú dochádzku v strednej škole podľa odseku 1, možno podľa § 36 ods. 1 preradiť 25 ) do príslušného ročníka spádovej základnej školy alebo do základnej školy, ktorú si zvolil zákonný zástupca.
 
-- Žiaka podľa odseku 2 možno preradiť do inej než spádovej základnej školy len s písomným súhlasom riaditeľa školy, do ktorej má byť žiak preradený.
+(3) Žiaka podľa odseku 2 možno preradiť do inej než spádovej základnej školy len s písomným súhlasom riaditeľa školy, do ktorej má byť žiak preradený.
 
 ##### § 22 Skončenie plnenia povinnej školskej dochádzky
 
-- Žiak skončil plnenie povinnej školskej dochádzky, ak od začiatku plnenia povinnej školskej dochádzky absolvoval desať rokov vzdelávania v školách podľa tohto zákona alebo dňom 31. augusta príslušného školského roka, v ktorom žiak dovŕšil 16. rok veku.
+(1) Žiak skončil plnenie povinnej školskej dochádzky, ak od začiatku plnenia povinnej školskej dochádzky absolvoval desať rokov vzdelávania v školách podľa tohto zákona alebo dňom 31. augusta príslušného školského roka, v ktorom žiak dovŕšil 16. rok veku.
 
-- Žiakovi ôsmeho ročníka vzdelávacieho programu základnej školy, ktorý dovŕšil 16 rokov veku, riaditeľ školy umožní ukončiť deviaty ročník a získať nižšie stredné vzdelanie, ak je predpoklad úspešného ukončenia najneskôr do konca školského roka, v ktorom žiak dovŕši 17. rok jeho veku.
+(2) Žiakovi ôsmeho ročníka vzdelávacieho programu základnej školy, ktorý dovŕšil 16 rokov veku, riaditeľ školy umožní ukončiť deviaty ročník a získať nižšie stredné vzdelanie, ak je predpoklad úspešného ukončenia najneskôr do konca školského roka, v ktorom žiak dovŕši 17. rok jeho veku.
 
-- Žiakovi s ťažkým zdravotným postihnutím 26 ) môže riaditeľ školy umožniť vzdelávanie v základnej škole až do konca školského roka, v ktorom žiak dovŕši 18. rok veku.
+(3) Žiakovi s ťažkým zdravotným postihnutím 26 ) môže riaditeľ školy umožniť vzdelávanie v základnej škole až do konca školského roka, v ktorom žiak dovŕši 18. rok veku.
 
 #### Štvrtý oddiel Osobitný spôsob plnenia školskej dochádzky
 
@@ -1062,11 +1062,11 @@ Strana 23
 
 (8) Žiak, ktorému bolo povolené individuálne vzdelávanie podľa odseku 2 písm. a) na základe odporúčania všeobecného lekára pre deti a dorast z dôvodu zdravotného znevýhodnenia, nevykonáva komisionálnu skúšku. Pedagogický zamestnanec, ktorý zabezpečuje vzdelávanie žiaka, polročne predkladá riaditeľovi školy písomnú správu o postupe a výsledkoch výchovno-vzdelávacej činnosti so žiakom, na základe ktorej po prerokovaní v pedagogickej rade školy sa vykoná hodnotenie a klasifikácia prospechu žiaka.
 
-- Na konanie komisionálnych skúšok podľa odseku 6 sa vzťahujú ustanovenia § 57.
+(9) Na konanie komisionálnych skúšok podľa odseku 6 sa vzťahujú ustanovenia § 57.
 
 (10) Kontrolu úrovne kvality výchovy a vzdelávania pri individuálnom vzdelávaní vykonáva Štátna školská inšpekcia podľa osobitného predpisu. 7 ) Kontrolu odborno-pedagogického a materiálno-technického zabezpečenia výchovy a vzdelávania a ochrany zdravia žiaka vykonáva kmeňová škola. Z tohto dôvodu je zákonný zástupca povinný umožniť vstup a vykonanie kontroly poverenému školskému inšpektorovi a poverenému zamestnancovi kmeňovej školy.
 
-- Povolenie individuálneho vzdelávania žiaka riaditeľ školy zruší
+(11) Povolenie individuálneho vzdelávania žiaka riaditeľ školy zruší
 
 - na základe žiadosti zákonného zástupcu žiaka alebo plnoletého žiaka,
 
@@ -1134,11 +1134,11 @@ Zbierka zákonov Slovenskej republiky
 
 [[START OF PAGE 25]]
 
+245/2008 Z. z.
+
 Zbierka zákonov Slovenskej republiky
 
 Strana 25
-
-245/2008 Z. z.
 
 školským vzdelávacím programom a sú záväzné pre obe strany.
 
@@ -1186,7 +1186,7 @@ h) školy pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebam
 
 ##### § 28
 
-(1) Materská škola podporuje osobnostný rozvoj detí v oblasti sociálno-emocionálnej, intelektuálnej, telesnej, morálnej, estetickej, rozvíja schopnosti a zručnosti, utvára predpoklady na ďalšie vzdelávanie. Pripravuje na život v spoločnosti v súlade s individuálnymi a vekovými osobitosťami detí.
+(1) Materská škola podporuje osobnostný rozvoj detí v oblasti sociálno-emocionálnej, intelektuálnej, telesnej, morálnej, estetickej, rozvíja schopnosti a zručnosti, utvára predpoklady na
 
 [[END OF PAGE 25]]
 
@@ -1198,6 +1198,8 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
+ďalšie vzdelávanie. Pripravuje na život v spoločnosti v súlade s individuálnymi a vekovými osobitosťami detí.
+
 (2) Materská škola sa zriaďuje spravidla pri počte desať detí. Materská škola zabezpečuje výchovu a vzdelávanie prostredníctvom školského vzdelávacieho programu, ktorý poskytuje predprimárne vzdelanie podľa § 16 ods. 2.
 
 (3) Vzdelávanie v materských školách sa uskutočňuje za čiastočnú úhradu okrem materských škôl pri zdravotníckych zariadeniach.
@@ -1206,39 +1208,39 @@ Zbierka zákonov Slovenskej republiky
 
 (5) Výšku mesačného príspevku zákonného zástupcu na čiastočnú úhradu výdavkov za pobyt dieťaťa v materskej škole zriadenej obcou určí zriaďovateľ všeobecne záväzným nariadením. 31 )
 
-- Príspevok v materskej škole sa neuhrádza za dieťa,
+(6) Príspevok v materskej škole sa neuhrádza za dieťa,
 
-- ktoré má jeden rok pred plnením povinnej školskej dochádzky,
+a) ktoré má jeden rok pred plnením povinnej školskej dochádzky,
 
-- ak zákonný zástupca dieťaťa predloží riaditeľovi materskej školy doklad o tom, že je poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi, 32 )
+b) ak zákonný zástupca dieťaťa predloží riaditeľovi materskej školy doklad o tom, že je poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi,32)
 
-- ktoré je umiestnené v zariadení na základe rozhodnutia súdu.
+c) ktoré je umiestnené v zariadení na základe rozhodnutia súdu.
 
 (7) Príspevok v materskej škole na základe rozhodnutia zriaďovateľa sa neuhrádza za dieťa,
 
-- ktoré má prerušenú dochádzku do materskej školy na viac ako 30 po sebe nasledujúcich kalendárnych dní z dôvodu choroby alebo rodinných dôvodov preukázateľným spôsobom,
+a) ktoré má prerušenú dochádzku do materskej školy na viac ako 30 po sebe nasledujúcich kalendárnych dní z dôvodu choroby alebo rodinných dôvodov preukázateľným spôsobom,
 
-- ktoré nedochádzalo do materskej školy v čase školských prázdnin alebo bola prerušená prevádzka materskej školy zapríčinená zriaďovateľom alebo inými závažnými dôvodmi; v týchto prípadoch uhrádza zákonný zástupca pomernú časť určeného príspevku.
+b) ktoré nedochádzalo do materskej školy v čase školských prázdnin alebo bola prerušená prevádzka materskej školy zapríčinená zriaďovateľom alebo inými závažnými dôvodmi; v týchto prípadoch uhrádza zákonný zástupca pomernú časť určeného príspevku.
 
 (8) Deti, ktoré majú v nasledujúcom roku plniť povinnú školskú dochádzku, sa obvykle zaraďujú do samostatnej triedy. Deti so špeciálnymi výchovno-vzdelávacími potrebami sa zaraďujú do tried alebo do samostatných tried pre deti so špeciálnymi výchovno-vzdelávacími potrebami. Do samostatných tried pre deti so špeciálnymi výchovno-vzdelávacími potrebami nie je možné zaradiť deti výlučne z dôvodu, že pochádzajú zo sociálne znevýhodneného prostredia. Samostatné triedy sa môžu vytvárať aj pre deti, ktoré sa učia cudzí jazyk.
 
-- Najvyšší počet detí v triede materskej školy je
+(9) Najvyšší počet detí v triede materskej školy je
 
-- 20 v triede pre troj- až štvorročné deti,
+a) 20 v triede pre troj- až štvorročné deti,
 
-- 21 v triede pre štvor- až päťročné deti,
+b) 21 v triede pre štvor- až päťročné deti,
 
-- 22 v triede pre päť- až šesťročné deti,
+c) 22 v triede pre päť- až šesťročné deti,
 
-- 21 v triede pre troj- až šesťročné deti.
+d) 21 v triede pre troj- až šesťročné deti.
 
-(10) Ak sú splnené požiadavky podľa osobitného predpisu, 32a ) najvyšší počet detí v triede podľa odseku 9 sa môže zvýšiť o tri deti z dôvodu
+(10) Ak sú splnené požiadavky podľa osobitného predpisu,32a) najvyšší počet detí v triede podľa odseku 9 sa môže zvýšiť o tri deti z dôvodu
 
-- zmeny trvalého pobytu dieťaťa,
+a) zmeny trvalého pobytu dieťaťa,
 
-- zaradenia dieťaťa len na adaptačný pobyt alebo len na diagnostický pobyt v materskej škole,
+b) zaradenia dieťaťa len na adaptačný pobyt alebo len na diagnostický pobyt v materskej škole,
 
-- odkladu plnenia povinnej školskej dochádzky alebo dodatočného odkladu plnenia povinnej
+c) odkladu plnenia povinnej školskej dochádzky alebo dodatočného odkladu plnenia povinnej
 
 [[END OF PAGE 26]]
 
@@ -1250,11 +1252,27 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 27
 
-školskej dochádzky alebo d) zvýšeného záujmu zákonných zástupcov detí o výchovu a vzdelávanie v materskej škole. (11) Pri určovaní počtu detí v triede podľa odseku 10 sa môže zohľadniť počet detí v triede mladších ako tri roky. (12) O zaradení dieťaťa so špeciálnymi výchovno-vzdelávacími potrebami rozhodne riaditeľ na základe odporúčania všeobecného lekára pre deti a dorast a školského zariadenia výchovného poradenstva a prevencie a informovaného súhlasu zákonného zástupcu. Počet detí v triede môže byť znížený najviac o dve za každé dieťa so špeciálnymi výchovno-vzdelávacími potrebami. Maximálny počet zaradených detí so špeciálnymi výchovno-vzdelávacími potrebami v jednej triede sú dve. (13) Ak riaditeľ materskej školy alebo príslušné školské zariadenie výchovného poradenstva a prevencie zistí, že vzdelávanie začleneného dieťaťa nie je na prospech začlenenému dieťaťu alebo deťom, ktoré sú účastníkmi výchovy a vzdelávania, navrhne po písomnom súhlase zriaďovateľa materskej školy a písomnom súhlase príslušného zariadenia výchovného poradenstva a prevencie zákonnému zástupcovi iný spôsob vzdelávania dieťaťa. Ak zákonný zástupca nesúhlasí so zmenou spôsobu vzdelávania svojho dieťaťa, o jeho ďalšom vzdelávaní rozhodne súd. (14) V materskej škole môže pôsobiť aj asistent učiteľa. (15) Predprimárne vzdelávanie v materskej škole sa môže uskutočňovať so súhlasom riaditeľa aj s priamou účasťou zákonných zástupcov na výchove a vzdelávaní. (16) Materská škola môže organizovať pobyty detí v škole v prírode, výlety, exkurzie, saunovanie, športový výcvik a ďalšie aktivity len s informovaným súhlasom zákonného zástupcu dieťaťa a po dohode so zriaďovateľom. (17) Riaditeľ materskej školy ďalej a dĺžku adaptačného alebo diagnostického pobytu dieťaťa, ktorý je zameraný na postupnú socializáciu
+školskej dochádzky alebo
 
-- určuje, po prerokovaní so zákonným zástupcom, zaradenie dieťaťa do triedy a diagnostikovanie,
+d) zvýšeného záujmu zákonných zástupcov detí o výchovu a vzdelávanie v materskej škole.
 
-- rozhoduje o prerušení dochádzky dieťaťa do materskej školy 33 ) na základe písomnej žiadosti zákonného zástupcu.
+(11) Pri určovaní počtu detí v triede podľa odseku 10 sa môže zohľadniť počet detí v triede mladších ako tri roky.
+
+(12) O zaradení dieťaťa so špeciálnymi výchovno-vzdelávacími potrebami rozhodne riaditeľ na základe odporúčania všeobecného lekára pre deti a dorast a školského zariadenia výchovného poradenstva a prevencie a informovaného súhlasu zákonného zástupcu. Počet detí v triede môže byť znížený najviac o dve za každé dieťa so špeciálnymi výchovno-vzdelávacími potrebami. Maximálny počet zaradených detí so špeciálnymi výchovno-vzdelávacími potrebami v jednej triede sú dve.
+
+(13) Ak riaditeľ materskej školy alebo príslušné školské zariadenie výchovného poradenstva a prevencie zistí, že vzdelávanie začleneného dieťaťa nie je na prospech začlenenému dieťaťu alebo deťom, ktoré sú účastníkmi výchovy a vzdelávania, navrhne po písomnom súhlase zriaďovateľa materskej školy a písomnom súhlase príslušného zariadenia výchovného poradenstva a prevencie zákonnému zástupcovi iný spôsob vzdelávania dieťaťa. Ak zákonný zástupca nesúhlasí so zmenou spôsobu vzdelávania svojho dieťaťa, o jeho ďalšom vzdelávaní rozhodne súd.
+
+(14) V materskej škole môže pôsobiť aj asistent učiteľa.
+
+(15) Predprimárne vzdelávanie v materskej škole sa môže uskutočňovať so súhlasom riaditeľa aj s priamou účasťou zákonných zástupcov na výchove a vzdelávaní.
+
+(16) Materská škola môže organizovať pobyty detí v škole v prírode, výlety, exkurzie, saunovanie, športový výcvik a ďalšie aktivity len s informovaným súhlasom zákonného zástupcu dieťaťa a po dohode so zriaďovateľom.
+
+(17) Riaditeľ materskej školy ďalej
+
+a) určuje, po prerokovaní so zákonným zástupcom, zaradenie dieťaťa do triedy a dĺžku adaptačného alebo diagnostického pobytu dieťaťa, ktorý je zameraný na postupnú socializáciu a diagnostikovanie,
+
+b) rozhoduje o prerušení dochádzky dieťaťa do materskej školy33) na základe písomnej žiadosti zákonného zástupcu.
 
 (18) Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom ďalšie spôsoby organizácie a zabezpečovania výchovno-vzdelávacej činnosti v materskej škole.
 
@@ -1278,23 +1296,23 @@ Zbierka zákonov Slovenskej republiky
 
 (3) Základné školy sa členia na tieto typy:
 
-- základnú školu so všetkými ročníkmi (ďalej len 'plnoorganizovaná základná škola'),
+a) základnú školu so všetkými ročníkmi (ďalej len „plnoorganizovaná základná škola“),
 
-- základnú školu, ktorá nemá všetky ročníky (ďalej len 'neplnoorganizovaná základná škola').
+b) základnú školu, ktorá nemá všetky ročníky (ďalej len „neplnoorganizovaná základná škola“).
 
 (4) Základná škola má spravidla deväť ročníkov s možnosťou zriadenia nultého ročníka. Člení sa na prvý a druhý stupeň, v ktorých sa vzdelávanie realizuje samostatnými na seba nadväzujúcimi vzdelávacími programami. Prvý stupeň základnej školy tvorí spravidla prvý až štvrtý ročník. Druhý stupeň základnej školy tvorí piaty až deviaty ročník.
 
 (5) Najvyšší počet žiakov v triede základnej školy je
 
-- 16 žiakov v triede nultého ročníka,
+a) 16 žiakov v triede nultého ročníka,
 
-- 24 žiakov v triede, v ktorej sú žiaci viacerých ročníkov prvého stupňa základnej školy,
+b) 24 žiakov v triede, v ktorej sú žiaci viacerých ročníkov prvého stupňa základnej školy,
 
-- 22 žiakov v triede prvého ročníka,
+c) 22 žiakov v triede prvého ročníka,
 
-- 25 žiakov v triede druhého až štvrtého ročníka,
+d) 25 žiakov v triede druhého až štvrtého ročníka,
 
-- 29 žiakov v triede piateho až deviateho ročníka.
+e) 29 žiakov v triede piateho až deviateho ročníka.
 
 (6) Triedu podľa charakteru vzdelávacieho programu možno deliť na skupiny.
 
@@ -1302,21 +1320,21 @@ Zbierka zákonov Slovenskej republiky
 
 (8) Najnižší počet žiakov v triede základnej školy je
 
-- osem žiakov v triede nultého ročníka; šesť žiakov v triede nultého ročníka v neplnoorganizovanej základnej škole,
+a) osem žiakov v triede nultého ročníka; šesť žiakov v triede nultého ročníka v neplnoorganizovanej základnej škole,
 
-- 12 žiakov v triede, v ktorej sú žiaci viacerých ročníkov prvého stupňa základnej školy,
+b) 12 žiakov v triede, v ktorej sú žiaci viacerých ročníkov prvého stupňa základnej školy,
 
-- 11 žiakov v triede prvého ročníka,
+c) 11 žiakov v triede prvého ročníka,
 
-- 13 žiakov v triede druhého až štvrtého ročníka,
+d) 13 žiakov v triede druhého až štvrtého ročníka,
 
-- 15 žiakov v triede piateho až deviateho ročníka.
+e) 15 žiakov v triede piateho až deviateho ročníka.
 
 (9) V škole možno po súhlase zriaďovateľa zriadiť triedu pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami.
 
 (10) Do triedy základnej školy možno začleniť žiaka so špeciálnymi výchovno-vzdelávacími potrebami. Ak riaditeľ školy alebo príslušné zariadenie výchovného poradenstva a prevencie zistí, že vzdelávanie nie je na prospech začlenenému žiakovi alebo žiakom, ktorí sú účastníkmi výchovy a vzdelávania, navrhne po písomnom súhlase orgánu miestnej štátnej správy v školstve a príslušného zariadenia výchovného poradenstva a prevencie zákonnému zástupcovi iný spôsob vzdelávania dieťaťa. Príslušný orgán miestnej štátnej správy v školstve uhradí zo štátneho rozpočtu zákonnému zástupcovi dieťaťa cestovné náklady vo výške ceny hromadnej dopravy na jeho dopravu do a zo školy, do ktorej bol žiak po zmene zaradený. Ak zákonný zástupca nesúhlasí so zmenou spôsobu vzdelávania svojho dieťaťa, o jeho ďalšom vzdelávaní rozhodne súd.
 
-(11) V základnej škole možno so súhlasom zriaďovateľa zriadiť špecializovanú triedu. V špecializovanej triede sa vzdelávajú žiaci, ktorí nemajú predpoklad úspešne zvládnuť obsah vzdelávania príslušného ročníka, na účely kompenzácie chýbajúceho obsahu vzdelávania. Žiaka do špecializovanej triedy zaraďuje riaditeľ školy na návrh triedneho učiteľa po vyjadrení výchovného poradcu a s informovaným súhlasom zákonného zástupcu žiaka na nevyhnutne potrebný čas, najviac na jeden školský rok. Špecializovanú triedu možno zriadiť pre najmenej štyroch žiakov a najviac ôsmich žiakov z jedného ročníka alebo viacerých ročníkov. Ak je počet žiakov v špecializovanej triede nižší ako štyria žiaci, špecializovaná trieda sa zruší.
+(11) V základnej škole možno so súhlasom zriaďovateľa zriadiť špecializovanú triedu. V špecializovanej triede sa vzdelávajú žiaci, ktorí nemajú predpoklad úspešne zvládnuť obsah vzdelávania príslušného ročníka, na účely kompenzácie chýbajúceho obsahu vzdelávania. Žiaka do špecializovanej triedy zaraďuje riaditeľ školy na návrh triedneho učiteľa po vyjadrení výchovného poradcu a s informovaným súhlasom zákonného zástupcu žiaka na nevyhnutne potrebný čas, najviac na jeden školský rok. Špecializovanú triedu možno zriadiť pre najmenej štyroch žiakov a najviac ôsmich žiakov z jedného ročníka alebo viacerých ročníkov. Ak je počet žiakov
 
 [[END OF PAGE 28]]
 
@@ -1328,21 +1346,23 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 29
 
+v špecializovanej triede nižší ako štyria žiaci, špecializovaná trieda sa zruší.
+
 (12) V triede základnej školy pre žiakov vzatých do väzby alebo vo výkone trestu odňatia slobody je najviac päť žiakov.
 
-(13) Ak sú splnené požiadavky podľa osobitného predpisu, 32a ) najvyšší počet žiakov v triede podľa odseku 5 sa môže zvýšiť o troch žiakov z dôvodu
+(13) Ak sú splnené požiadavky podľa osobitného predpisu,32a) najvyšší počet žiakov v triede podľa odseku 5 sa môže zvýšiť o troch žiakov z dôvodu
 
-- zmeny trvalého pobytu žiaka,
+a) zmeny trvalého pobytu žiaka,
 
-- opakovania ročníka žiakom,
+b) opakovania ročníka žiakom,
 
-- prestupu žiaka z inej školy,
+c) prestupu žiaka z inej školy,
 
-- osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
+d) osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
 
-- preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
+e) preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
 
-- preradenia žiaka do základnej školy.
+f) preradenia žiaka do základnej školy.
 
 (14) Ak riaditeľ základnej školy povolil plniť povinnú školskú dochádzku mimo územia Slovenskej republiky, a preto je počet žiakov vzdelávaných v triede nižší ako počet žiakov v triede podľa odseku 5, riaditeľ základnej školy môže navýšiť počet vzdelávaných žiakov v triede o počet žiakov, ktorí plnia povinnú školskú dochádzku mimo územia Slovenskej republiky.
 
@@ -1350,15 +1370,15 @@ Strana 29
 
 (16) Zriaďovateľ základnej školy môže určiť v osobitných prípadoch aj nižší počet žiakov v triede, ako je počet žiakov uvedený v odsekoch 8 a 15. Za osobitný prípad sa považuje
 
-- znížená dostupnosť žiakov do školy; za zníženú dostupnosť žiakov do školy sa považuje dĺžka dopravnej cesty vlakom alebo autobusom z miesta trvalého pobytu žiaka dlhšia ako 6 kilometrov,
+a) znížená dostupnosť žiakov do školy; za zníženú dostupnosť žiakov do školy sa považuje dĺžka dopravnej cesty vlakom alebo autobusom z miesta trvalého pobytu žiaka dlhšia ako 6 kilometrov,
 
-- vzdelávanie žiakov v jazyku národnostnej menšiny, ak v okruhu 6 kilometrov od miesta trvalého pobytu žiaka nie je žiadna iná základná škola s vyučovacím jazykom národnostnej menšiny,
+b) vzdelávanie žiakov v jazyku národnostnej menšiny, ak v okruhu 6 kilometrov od miesta trvalého pobytu žiaka nie je žiadna iná základná škola s vyučovacím jazykom národnostnej menšiny,
 
-- vzdelávanie žiakov v štátnom jazyku, ak v okruhu 6 kilometrov od miesta trvalého pobytu žiaka nie je žiadna iná základná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v štátnom jazyku,
+c) vzdelávanie žiakov v štátnom jazyku, ak v okruhu 6 kilometrov od miesta trvalého pobytu žiaka nie je žiadna iná základná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v štátnom jazyku,
 
-- vzdelávanie žiakov zo sociálne znevýhodneného prostredia, ak je z celkového počtu žiakov školy viac ako 80 % žiakov zo sociálne znevýhodneného prostredia, alebo
+d) vzdelávanie žiakov zo sociálne znevýhodneného prostredia, ak je z celkového počtu žiakov školy viac ako 80 % žiakov zo sociálne znevýhodneného prostredia, alebo
 
-- ďalšie prípady hodné osobitného zreteľa.
+e) ďalšie prípady hodné osobitného zreteľa.
 
 (17) Ustanovenie odseku 8 písm. a) až d) sa nevzťahuje na triedy základných škôl zriadených len s ročníkmi prvého stupňa.
 
@@ -1366,7 +1386,7 @@ Strana 29
 
 ##### § 30
 
-(1) Základnú školu len s ročníkmi prvého stupňa zriaďovateľ zriadi, ak je predpoklad, že sa do nej prihlási najmenej 30 detí, ktoré majú plniť povinnú školskú dochádzku v tejto základnej škole. Žiak, ktorý skončí posledný ročník takejto školy, pokračuje vo vzdelávaní v plnoorganizovanej základnej škole.
+(1) Základnú školu len s ročníkmi prvého stupňa zriaďovateľ zriadi, ak je predpoklad, že sa do nej prihlási najmenej 30 detí, ktoré majú plniť povinnú školskú dochádzku v tejto základnej škole. Žiak, ktorý skončí posledný ročník takejto školy, pokračuje vo vzdelávaní v plnoorganizovanej
 
 [[END OF PAGE 29]]
 
@@ -1377,6 +1397,8 @@ Strana 30
 Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
+
+základnej škole.
 
 (2) Vzdelávanie v základnej škole na prvom stupni sa môže organizovať aj v triede, v ktorej sú žiaci viacerých ročníkov.
 
@@ -1416,55 +1438,55 @@ Strana 31
 
 ##### § 32
 
+Stredné školy sú:
+
+a) gymnázium,
+
+b) stredná odborná škola,
+
+c) stredná športová škola,
+
+d) škola umeleckého priemyslu,
+
+e) konzervatórium.
+
 ##### § 33
 
-- V strednej škole sa zriaďujú triedy denného štúdia s počtom žiakov najviac 31.
+(1) V strednej škole sa zriaďujú triedy denného štúdia s počtom žiakov najviac 31.
 
-(2) Ak sú splnené požiadavky podľa osobitného predpisu, 32a ) najvyšší počet žiakov v triede podľa odseku 1 sa môže zvýšiť o troch žiakov z dôvodu
+(2) Ak sú splnené požiadavky podľa osobitného predpisu,32a) najvyšší počet žiakov v triede podľa odseku 1 sa môže zvýšiť o troch žiakov z dôvodu
 
-- zmeny trvalého pobytu žiaka,
+a) zmeny trvalého pobytu žiaka,
 
-- opakovania ročníka žiakom,
+b) opakovania ročníka žiakom,
 
-- pokračovania štúdia žiaka po prerušení štúdia,
+c) pokračovania štúdia žiaka po prerušení štúdia,
 
-- prestupu žiaka z inej školy,
+d) prestupu žiaka z inej školy,
 
-- osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
+e) osobitného spôsobu plnenia školskej dochádzky žiaka podľa § 23 písm. a) až e),
 
-- prijatia žiaka do vyššieho ročníka,
+f) prijatia žiaka do vyššieho ročníka,
 
-- preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
+g) preradenia žiaka do vyššieho ročníka bez absolvovania predchádzajúceho ročníka alebo
 
-- zmeny študijného odboru alebo učebného odboru žiakom.
+h) zmeny študijného odboru alebo učebného odboru žiakom.
 
 (3) Stredná škola môže pre osoby vykonávajúce trest odňatia slobody a osoby vo výkone väzby organizovať vzdelávanie v elokovanom pracovisku strednej školy alebo individuálne vzdelávanie v ústavoch na výkon väzby a v ústavoch na výkon trestu; to neplatí pre zdravotnícke odbory vzdelania.
 
-- V priebehu štúdia na strednej škole sa umožňuje žiakom
+(4) V priebehu štúdia na strednej škole sa umožňuje žiakom
 
-- prerušenie štúdia,
+a) prerušenie štúdia,
 
-- zmena študijného alebo učebného odboru,
+b) zmena študijného alebo učebného odboru,
 
-- prestup na inú strednú školu,
+c) prestup na inú strednú školu,
 
-- preradenie do základnej školy,
+d) preradenie do základnej školy,
 
-- opakovanie ročníka,
+e) opakovanie ročníka,
 
-- postup do vyššieho ročníka,
-
-Stredné školy sú:
-
-- gymnázium,
-
-- stredná odborná škola,
-
-- stredná športová škola,
-
-- škola umeleckého priemyslu,
-
-- konzervatórium.
+f) postup do vyššieho ročníka,
 
 [[END OF PAGE 31]]
 
@@ -1476,11 +1498,11 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- zanechanie štúdia,
+g) zanechanie štúdia,
 
 h) štúdium podľa individuálneho učebného plánu,
 
-- štúdium na zahraničnej škole obdobného typu.
+i) štúdium na zahraničnej škole obdobného typu.
 
 (5) Riaditeľ strednej školy môže po posúdení učebných plánov a po prerokovaní v pedagogickej rade povoliť žiakovi absolvovať časť štúdia na obdobnej škole v zahraničí; ak sa žiak pripravuje v systéme duálneho vzdelávania, po súhlase zamestnávateľa, u ktorého sa tento žiak pripravuje.
 
@@ -1488,21 +1510,21 @@ h) štúdium podľa individuálneho učebného plánu,
 
 (7) Najnižší počet žiakov v triede strednej školy je
 
-- 17 žiakov v triede strednej školy v dennej forme štúdia,
+a) 17 žiakov v triede strednej školy v dennej forme štúdia,
 
-- 8 žiakov v triede strednej školy v externej forme štúdia.
+b) 8 žiakov v triede strednej školy v externej forme štúdia.
 
 (8) Zriaďovateľ strednej školy môže určiť v osobitnom prípade aj nižší počet žiakov v triede, ako je počet žiakov uvedený v odseku 7, a to v dennej forme štúdia deväť žiakov a v externej forme štúdia päť žiakov. Za osobitný prípad sa považuje
 
-- zaradenie študijného odboru alebo učebného odboru do zoznamu študijných odborov a učebných odborov s nedostatočným počtom absolventov pre potreby trhu práce, 32b ) ak nemožno zriadiť triedu podľa odseku 10,
+a) zaradenie študijného odboru alebo učebného odboru do zoznamu študijných odborov a učebných odborov s nedostatočným počtom absolventov pre potreby trhu práce,32b) ak nemožno zriadiť triedu podľa odseku 10,
 
-- výchova a vzdelávanie vo vzdelávacom programe nižšieho stredného odborného vzdelávania,
+b) výchova a vzdelávanie vo vzdelávacom programe nižšieho stredného odborného vzdelávania,
 
-- výchova a vzdelávanie žiakov vo výkone trestu odňatia slobody,
+c) výchova a vzdelávanie žiakov vo výkone trestu odňatia slobody,
 
-- stredná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v štátnom jazyku a súčasne v jazyku príslušnej národnostnej menšiny, ak pre výchovu a vzdelávanie v štátnom jazyku alebo v jazyku príslušnej národnostnej menšiny nemožno zriadiť triedu podľa odseku 7, alebo
+d) stredná škola, v ktorej sa výchova a vzdelávanie uskutočňuje v štátnom jazyku a súčasne v jazyku príslušnej národnostnej menšiny, ak pre výchovu a vzdelávanie v štátnom jazyku alebo v jazyku príslušnej národnostnej menšiny nemožno zriadiť triedu podľa odseku 7, alebo
 
-- ďalšie prípady hodné osobitného zreteľa.
+e) ďalšie prípady hodné osobitného zreteľa.
 
 (9) Triedu podľa charakteru vzdelávacieho programu možno deliť na skupiny.
 
@@ -1610,11 +1632,11 @@ Gymnázium je všeobecnovzdelávacia, vnútorne diferencovaná stredná škola, 
 
 (1) Stredná odborná škola je vnútorne diferencovaná stredná škola, ktorá poskytuje žiakom odborné vzdelávanie a prípravu vo vzdelávacom programe príslušného odboru vzdelávania zameranom predovšetkým na výkon povolania, skupiny povolaní a odborných činností.
 
-- Stredná odborná škola poskytuje žiakom odborné vzdelávanie a prípravu v členení na teoretické vyučovanie a praktické vyučovanie. Praktické vyučovanie žiaka strednej odbornej školy upravuje osobitný predpis. 6aa )
+(2) Stredná odborná škola poskytuje žiakom odborné vzdelávanie a prípravu v členení na teoretické vyučovanie a praktické vyučovanie. Praktické vyučovanie žiaka strednej odbornej školy upravuje osobitný predpis.6aa)
 
 (3) Stredná odborná škola poskytuje po úspešnom absolvovaní príslušného vzdelávacieho programu študijného odboru alebo po úspešnom absolvovaní príslušného vzdelávacieho programu učebného odboru stupeň vzdelania podľa § 16 ods. 4 písm. a), b) a d) a ods. 5.
 
-- Pre fyzické osoby, ktoré nezískali nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b), môže stredná odborná škola organizovať vzdelávanie na získanie tohto stupňa vzdelania, ktoré sa končí komisionálnou skúškou zo všetkých vyučovacích predmetov okrem vyučovacích predmetov s výchovným zameraním. Po úspešnom vykonaní komisionálnej skúšky vydá stredná odborná škola fyzickej osobe vysvedčenie s doložkou, na ktorej sa uvedie získaný stupeň vzdelania.
+(4) Pre fyzické osoby, ktoré nezískali nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b), môže stredná odborná škola organizovať vzdelávanie na získanie tohto stupňa vzdelania, ktoré sa končí komisionálnou skúškou zo všetkých vyučovacích predmetov okrem vyučovacích predmetov s výchovným zameraním. Po úspešnom vykonaní komisionálnej skúšky vydá stredná odborná škola fyzickej osobe vysvedčenie s doložkou, na ktorej sa uvedie získaný stupeň vzdelania.
 
 (5) Žiak, ktorý už vykonal maturitnú skúšku v inom študijnom odbore, študuje v strednej odbornej škole len odborné vyučovacie predmety.
 
@@ -1642,11 +1664,11 @@ Zbierka zákonov Slovenskej republiky
 
 (6) Stredná športová škola poskytuje
 
-- stredné odborné vzdelanie,
+a) stredné odborné vzdelanie,
 
-- úplné stredné všeobecné vzdelanie alebo
+b) úplné stredné všeobecné vzdelanie alebo
 
-- úplné stredné odborné vzdelanie.
+c) úplné stredné odborné vzdelanie.
 
 (7) Žiak, ktorý už vykonal maturitnú skúšku v inom študijnom odbore, študuje v strednej športovej škole len odborné vyučovacie predmety.
 
@@ -1656,11 +1678,11 @@ Zbierka zákonov Slovenskej republiky
 
 (2) Výchova a vzdelávanie v škole umeleckého priemyslu sa uskutočňuje ako teoretické vyučovanie a umelecká prax.
 
-- Škola umeleckého priemyslu poskytuje
+(3) Škola umeleckého priemyslu poskytuje
 
-- úplné stredné odborné vzdelanie alebo
+a) úplné stredné odborné vzdelanie alebo
 
-- vyššie odborné vzdelanie.
+b) vyššie odborné vzdelanie.
 
 (4) Škola umeleckého priemyslu neposkytuje kvalifikačné pomaturitné štúdium.
 
@@ -1672,7 +1694,7 @@ Zbierka zákonov Slovenskej republiky
 
 (2) Typom konzervatória je hudobné a dramatické konzervatórium a tanečné konzervatórium. Hudobné a dramatické konzervatórium poskytuje žiakom výchovu a vzdelávanie v študijnom odbore spev, hudba, tanec a hudobno-dramatické umenie v šesťročnom súvislom vzdelávacom programe. Tanečné konzervatórium poskytuje žiakom výchovu a vzdelávanie v študijnom odbore tanec v osemročnom súvislom vzdelávacom programe.
 
-(3) Výchova a vzdelávanie v konzervatóriu sa uskutočňuje individuálne, v skupinách alebo kolektívne.
+(3) Výchova a vzdelávanie v konzervatóriu sa uskutočňuje individuálne, v skupinách alebo
 
 [[END OF PAGE 36]]
 
@@ -1684,6 +1706,8 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 37
 
+kolektívne.
+
 (4) Žiakom sa zapožičiavajú bezplatne hudobné nástroje, notový materiál, audiovizuálne nahrávky umeleckých diel, záznamová technika a ďalší výstroj a potrebný materiál na vyučovanie.
 
 (5) Výchova a vzdelávanie v konzervatóriu sa uskutočňuje podľa šesťročného vzdelávacieho programu, v ktorom žiak po ukončení štvrtého ročníka vykoná maturitnú skúšku a po ukončení šiesteho ročníka vykoná absolventskú skúšku. V odbore tanec sa štúdium uskutočňuje podľa osemročného vzdelávacieho programu, ktorý sa v poslednom ročníku ukončuje maturitnou skúškou a absolventskou skúškou, a podľa šesťročného vzdelávacieho programu, v ktorom žiak po ukončovaní štvrtého ročníka vykoná maturitnú skúšku a po ukončení šiesteho ročníka vykoná absolventskú skúšku.
@@ -1692,11 +1716,11 @@ Strana 37
 
 (7) Konzervatórium poskytuje
 
-- nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) úspešným skončením štvrtého ročníka v osemročnom vzdelávacom programe,
+a) nižšie stredné vzdelanie podľa § 16 ods. 3 písm. b) úspešným skončením štvrtého ročníka v osemročnom vzdelávacom programe,
 
-- úplné stredné odborné vzdelanie podľa § 16 ods. 4 písm. d) úspešným vykonaním maturitnej skúšky,
+b) úplné stredné odborné vzdelanie podľa § 16 ods. 4 písm. d) úspešným vykonaním maturitnej skúšky,
 
-- vyššie odborné vzdelanie podľa § 16 ods. 5 písm. b) úspešným vykonaním absolventskej skúšky.
+c) vyššie odborné vzdelanie podľa § 16 ods. 5 písm. b) úspešným vykonaním absolventskej skúšky.
 
 (8) Žiak, ktorý už vykonal maturitnú skúšku v inom študijnom odbore, študuje na konzervatóriu len odborné vyučovacie predmety.
 
@@ -1704,25 +1728,25 @@ Strana 37
 
 Nadväzujúce formy odborného vzdelávania a prípravy sú
 
-- nadstavbové štúdium,
+a) nadstavbové štúdium,
 
-- pomaturitné štúdium,
+b) pomaturitné štúdium,
 
-- skrátené štúdium.
+c) skrátené štúdium.
 
 ##### § 46 Nadstavbové štúdium
 
 (1) Nadstavbové štúdium sa organizuje v odboroch vzdelávania stredných odborných škôl, ktoré nadväzujú na predchádzajúce odborné vzdelávanie a prípravu v príbuznom odbore vzdelávania ukončeného stredným odborným vzdelaním, a ukončuje sa maturitnou skúškou.
 
-- Nadstavbové štúdium poskytuje vyššiu úroveň všeobecného a široko profilovaného odborného vzdelávania a prípravy, ktorou sa žiaci
+(2) Nadstavbové štúdium poskytuje vyššiu úroveň všeobecného a široko profilovaného odborného vzdelávania a prípravy, ktorou sa žiaci
 
-- zdokonaľujú pre kvalifikovaný výkon povolania a špecializujú sa na výkon niektorých technicko-hospodárskych činností prevádzkového charakteru,
+a) zdokonaľujú pre kvalifikovaný výkon povolania a špecializujú sa na výkon niektorých technicko-hospodárskych činností prevádzkového charakteru,
 
-- pripravujú na ďalšie vzdelávanie.
+b) pripravujú na ďalšie vzdelávanie.
 
 ##### § 47 Pomaturitné štúdium
 
-- Pomaturitné štúdium sa organizuje na stredných odborných školách v záujme zvyšovania
+(1) Pomaturitné štúdium sa organizuje na stredných odborných školách v záujme zvyšovania
 
 [[END OF PAGE 37]]
 
@@ -1740,13 +1764,13 @@ a prehlbovania kvalifikácie na výkon povolaní a pracovných činností.
 
 (3) Pomaturitné štúdium sa člení na tieto druhy:
 
-- zdokonaľovacie štúdium alebo inovačné štúdium, v ktorom si žiaci zdokonaľujú alebo inovujú vedomosti a zručnosti v už absolvovanom študijnom odbore na strednej odbornej škole; štúdium sa ukončuje záverečnou pomaturitnou skúškou,
+a) zdokonaľovacie štúdium alebo inovačné štúdium, v ktorom si žiaci zdokonaľujú alebo inovujú vedomosti a zručnosti v už absolvovanom študijnom odbore na strednej odbornej škole; štúdium sa ukončuje záverečnou pomaturitnou skúškou,
 
-- kvalifikačné štúdium, v ktorom žiaci získavajú odbornú kvalifikáciu v inom odbore vzdelania, než v ktorom vykonali maturitnú skúšku; štúdium sa ukončuje odbornou zložkou maturitnej skúšky, ktoré neboli súčasťou predtým vykonanej maturitnej skúšky,
+b) kvalifikačné štúdium, v ktorom žiaci získavajú odbornú kvalifikáciu v inom odbore vzdelania, než v ktorom vykonali maturitnú skúšku; štúdium sa ukončuje odbornou zložkou maturitnej skúšky, ktoré neboli súčasťou predtým vykonanej maturitnej skúšky,
 
-- špecializačné štúdium, v ktorom žiaci získavajú špeciálne vedomosti a zručnosti vrátane nových vedecko-technických poznatkov na výkon konkrétnych pracovných činností a pracovných funkcií, ktoré svojou pracovnou náplňou a odborným zameraním zodpovedajú predtým absolvovanému študijnému odboru na strednej odbornej škole alebo na škole umeleckého priemyslu; štúdium sa ukončuje absolventskou skúškou; úspešným skončením špecializačného štúdia absolvent získa vyššie odborné vzdelanie podľa § 16 ods. 5 písm. a) alebo písm. c),
+c) špecializačné štúdium, v ktorom žiaci získavajú špeciálne vedomosti a zručnosti vrátane nových vedecko-technických poznatkov na výkon konkrétnych pracovných činností a pracovných funkcií, ktoré svojou pracovnou náplňou a odborným zameraním zodpovedajú predtým absolvovanému študijnému odboru na strednej odbornej škole alebo na škole umeleckého priemyslu; štúdium sa ukončuje absolventskou skúškou; úspešným skončením špecializačného štúdia absolvent získa vyššie odborné vzdelanie podľa § 16 ods. 5 písm. a) alebo písm. c),
 
-- vyššie odborné štúdium, v ktorom žiaci získavajú všeobecné vzdelanie a špeciálne vedomosti a zručnosti vrátane nových vedecko-technických poznatkov na výkon konkrétnych pracovných činností a pracovných funkcií. Je určené pre uchádzačov, ktorí v predchádzajúcom štúdiu získali úplné stredné odborné vzdelanie alebo úplné stredné všeobecné vzdelanie; štúdium sa ukončuje absolventskou skúškou; úspešným ukončením vyššieho odborného štúdia absolvent získa vyššie odborné vzdelanie podľa § 16 ods. 5 písm. a); vyššie odborné štúdium na stredných zdravotníckych školách, ktorým študujúci získavajú odbornú spôsobilosť na výkon povolania v študijnom odbore diplomovaná všeobecná sestra, diplomovaný fyzioterapeut, diplomovaný radiologický asistent, sa ukončuje absolventskou skúškou.
+d) vyššie odborné štúdium, v ktorom žiaci získavajú všeobecné vzdelanie a špeciálne vedomosti a zručnosti vrátane nových vedecko-technických poznatkov na výkon konkrétnych pracovných činností a pracovných funkcií. Je určené pre uchádzačov, ktorí v predchádzajúcom štúdiu získali úplné stredné odborné vzdelanie alebo úplné stredné všeobecné vzdelanie; štúdium sa ukončuje absolventskou skúškou; úspešným ukončením vyššieho odborného štúdia absolvent získa vyššie odborné vzdelanie podľa § 16 ods. 5 písm. a); vyššie odborné štúdium na stredných zdravotníckych školách, ktorým študujúci získavajú odbornú spôsobilosť na výkon povolania v študijnom odbore diplomovaná všeobecná sestra, diplomovaný fyzioterapeut, diplomovaný radiologický asistent, sa ukončuje absolventskou skúškou.
 
 ##### § 47a Skrátené štúdium
 
@@ -1754,11 +1778,11 @@ a prehlbovania kvalifikácie na výkon povolaní a pracovných činností.
 
 (2) Skrátené štúdium je určené pre uchádzačov, ktorí v predchádzajúcom vzdelávaní získali najmenej stredné odborné vzdelanie.
 
-- Stredná odborná škola môže organizovať skrátené štúdium v
+(3) Stredná odborná škola môže organizovať skrátené štúdium v
 
-- jednoročnom vzdelávacom programe odboru vzdelávania alebo
+a) jednoročnom vzdelávacom programe odboru vzdelávania alebo
 
-- dvojročnom vzdelávacom programe odboru vzdelávania.
+b) dvojročnom vzdelávacom programe odboru vzdelávania.
 
 (4) Žiak v skrátenom štúdiu študuje len odborné vyučovacie predmety.
 
@@ -1798,19 +1822,19 @@ Strana 39
 
 ##### § 50 Ukončovanie štúdia v základnej umeleckej škole
 
-- Základné štúdium a štúdium pre dospelých sa ukončuje záverečnou skúškou.
+(1) Základné štúdium a štúdium pre dospelých sa ukončuje záverečnou skúškou.
 
-- Riaditeľ základnej umeleckej školy môže rozhodnúť o predčasnom ukončení štúdia, ak
+(2) Riaditeľ základnej umeleckej školy môže rozhodnúť o predčasnom ukončení štúdia, ak
 
-- žiak sústavne alebo závažným spôsobom porušuje školský poriadok,
+a) žiak sústavne alebo závažným spôsobom porušuje školský poriadok,
 
-- žiak alebo zákonný zástupca žiaka neuhrádza čiastočnú úhradu nákladov podľa § 49 ods. 4.
+b) žiak alebo zákonný zástupca žiaka neuhrádza čiastočnú úhradu nákladov podľa § 49 ods. 4.
 
 ##### § 51 Organizácia výchovno-vzdelávacieho procesu v základných umeleckých školách
 
-- Základná umelecká škola organizuje prípravné štúdium, základné štúdium, štúdium s rozšíreným počtom vyučovacích hodín, skrátené štúdium a štúdium pre dospelých.
+(1) Základná umelecká škola organizuje prípravné štúdium, základné štúdium, štúdium s rozšíreným počtom vyučovacích hodín, skrátené štúdium a štúdium pre dospelých.
 
-- Prípravné štúdium má najviac dva ročníky. Je určené pre žiakov prvého stupňa základnej školy a pre nadané deti vo veku pred plnením povinnej školskej dochádzky.
+(2) Prípravné štúdium má najviac dva ročníky. Je určené pre žiakov prvého stupňa základnej školy a pre nadané deti vo veku pred plnením povinnej školskej dochádzky.
 
 [[END OF PAGE 39]]
 
@@ -1932,31 +1956,31 @@ Zbierka zákonov Slovenskej republiky
 
 (1) Hodnotenie žiaka sa v rámci vzdelávania podľa tohto zákona vykonáva podľa úrovne dosiahnutých výsledkov
 
-- slovným hodnotením,
+a) slovným hodnotením,
 
-- klasifikáciou,
+b) klasifikáciou,
 
-- kombináciou klasifikácie a slovného hodnotenia.
+c) kombináciou klasifikácie a slovného hodnotenia.
 
 (2) Predmety, ktoré sa neklasifikujú, sú určené v školskom vzdelávacom programe.
 
 (3) Prospech žiaka v jednotlivých vyučovacích predmetoch nultého ročníka, prípravného ročníka a prvého až štvrtého ročníka základnej školy sa môže hodnotiť slovne týmito stupňami:
 
-- dosiahol veľmi dobré výsledky,
+a) dosiahol veľmi dobré výsledky,
 
-- dosiahol dobré výsledky,
+b) dosiahol dobré výsledky,
 
-- dosiahol uspokojivé výsledky,
+c) dosiahol uspokojivé výsledky,
 
-- dosiahol neuspokojivé výsledky.
+d) dosiahol neuspokojivé výsledky.
 
 (4) Pri hodnotení a klasifikácii žiaka s vývinovými poruchami alebo žiaka so zdravotným postihnutím sa zohľadňuje jeho porucha alebo postihnutie.
 
 (5) Prospech žiaka v jednotlivých vyučovacích predmetoch sa klasifikuje týmito stupňami:
 
-- 1 - výborný,
+a) 1 – výborný,
 
-b) 2 - chválitebný,
+b) 2 – chválitebný,
 
 [[END OF PAGE 42]]
 
@@ -1968,37 +1992,37 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 43
 
-- 3 - dobrý,
+c) 3 – dobrý,
 
-- 4 - dostatočný,
+d) 4 – dostatočný,
 
-- 5 - nedostatočný.
+e) 5 – nedostatočný.
 
 (6) Správanie žiaka sa klasifikuje týmito stupňami:
 
-- 1 - veľmi dobré,
+a) 1 – veľmi dobré,
 
-- 2 - uspokojivé,
+b) 2 – uspokojivé,
 
-- 3 - menej uspokojivé,
+c) 3 – menej uspokojivé,
 
-- 4 - neuspokojivé.
+d) 4 – neuspokojivé.
 
 (7) Celkové hodnotenie žiaka nultého ročníka, prípravného ročníka, prvého ročníka základnej školy a žiaka s mentálnym postihnutím vo všetkých ročníkoch základnej školy sa na konci prvého a druhého polroka na vysvedčení, ak tento zákon neustanovuje inak, vyjadruje takto:
 
-- prospel,
+a) prospel,
 
-- neprospel.
+b) neprospel.
 
 (8) Celkové hodnotenie žiaka druhého až deviateho ročníka základnej školy a žiaka strednej školy, ktorý bol hodnotený podľa odseku 1 písm. b), sa na konci prvého a druhého polroka vyjadruje na vysvedčení, ak tento zákon neustanovuje inak, takto:
 
-- prospel s vyznamenaním,
+a) prospel s vyznamenaním,
 
-- prospel veľmi dobre,
+b) prospel veľmi dobre,
 
-- prospel,
+c) prospel,
 
-- neprospel.
+d) neprospel.
 
 (9) Celkové hodnotenie žiaka na konci prvého a druhého polroku vyjadruje výsledky jeho klasifikácie v povinných vyučovacích predmetoch, ktoré sa klasifikujú, a klasifikáciu jeho správania; nezahŕňa klasifikáciu v nepovinných vyučovacích predmetoch.
 
@@ -2010,7 +2034,7 @@ Strana 43
 
 (13) Žiak prospel s vyznamenaním, ak ani v jednom povinnom vyučovacom predmete nemá stupeň prospechu horší ako chválitebný, priemerný stupeň prospechu z povinných vyučovacích predmetov nemá horší ako 1,5 a jeho správanie je hodnotené ako 'veľmi dobré'; v školách umeleckého priemyslu aj z profilového predmetu stupeň prospechu výborný.
 
-(14) Žiak hodnotený slovne prospel veľmi dobre, ak ani v jednom povinnom vyučovacom predmete nedosiahol horšie hodnotenie ako 'dosiahol uspokojivé výsledky' a jeho správanie je hodnotené ako 'veľmi dobré'.
+(14) Žiak hodnotený slovne prospel veľmi dobre, ak ani v jednom povinnom vyučovacom predmete nedosiahol horšie hodnotenie ako „dosiahol uspokojivé výsledky“ a jeho správanie je
 
 [[END OF PAGE 43]]
 
@@ -2022,7 +2046,9 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-(15) Žiak prospel veľmi dobre, ak ani v jednom povinnom vyučovacom predmete nemá stupeň prospechu horší ako dobrý, priemerný stupeň prospechu z povinných vyučovacích predmetov nemá horší ako 2,0 a jeho správanie je hodnotené ako 'veľmi dobré'; v školách umeleckého priemyslu aj z profilového predmetu stupeň prospechu nie horší ako chválitebný.
+hodnotené ako „veľmi dobré“.
+
+(15) Žiak prospel veľmi dobre, ak ani v jednom povinnom vyučovacom predmete nemá stupeň prospechu horší ako dobrý, priemerný stupeň prospechu z povinných vyučovacích predmetov nemá horší ako 2,0 a jeho správanie je hodnotené ako „veľmi dobré“; v školách umeleckého priemyslu aj z profilového predmetu stupeň prospechu nie horší ako chválitebný.
 
 (16) Žiak hodnotený slovne prospel, ak ani v jednom povinnom vyučovacom predmete nebol hodnotený ako 'dosiahol neuspokojivé výsledky'.
 
@@ -2062,9 +2088,9 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 45
 
-- podľa odseku 3 vykonali najneskôr do 31. augusta; žiakovi, ktorý zo závažných dôvodov nemôže prísť vykonať opravnú skúšku v určenom termíne, možno povoliť vykonanie opravnej skúšky najneskôr do 15. septembra, a žiakovi, ktorý bol klasifikovaný podľa odseku 2, najneskôr do 15. októbra,
+a) podľa odseku 3 vykonali najneskôr do 31. augusta; žiakovi, ktorý zo závažných dôvodov nemôže prísť vykonať opravnú skúšku v určenom termíne, možno povoliť vykonanie opravnej skúšky najneskôr do 15. septembra, a žiakovi, ktorý bol klasifikovaný podľa odseku 2, najneskôr do 15. októbra,
 
-- podľa odseku 4 vykonali najneskôr do klasifikačnej porady za druhý polrok.
+b) podľa odseku 4 vykonali najneskôr do klasifikačnej porady za druhý polrok.
 
 (6) Žiak, ktorý bez závažných dôvodov nepríde na opravnú skúšku, sa klasifikuje z vyučovacieho predmetu, z ktorého mal vykonať opravnú skúšku, stupňom prospechu nedostatočný.
 
@@ -2072,31 +2098,31 @@ Strana 45
 
 ##### § 57 Komisionálne skúšky v základných a stredných školách
 
-- Žiak sa klasifikuje podľa výsledkov komisionálnej skúšky
+(1) Žiak sa klasifikuje podľa výsledkov komisionálnej skúšky
 
-- ak vykonáva rozdielovú skúšku v stredných školách,
+a) ak vykonáva rozdielovú skúšku v stredných školách,
 
-- ak je skúšaný v náhradnom termíne,
+b) ak je skúšaný v náhradnom termíne,
 
-- ak žiak alebo zákonný zástupca požiada o preskúšanie žiaka,
+c) ak žiak alebo zákonný zástupca požiada o preskúšanie žiaka,
 
-- ak sa preskúšanie koná na podnet riaditeľa školy,
+d) ak sa preskúšanie koná na podnet riaditeľa školy,
 
-- ak vykonáva opravné skúšky,
+e) ak vykonáva opravné skúšky,
 
-- v štúdiu podľa individuálneho učebného plánu v stredných školách,
+f) v štúdiu podľa individuálneho učebného plánu v stredných školách,
 
-- v prípade oslobodenia žiaka od povinnosti dochádzať do školy,
+g) v prípade oslobodenia žiaka od povinnosti dochádzať do školy,
 
-- pri praktických skúškach a skúškach z hlavného odboru štúdia na konci prvého a druhého polroka na konzervatóriách, a z umeleckej praxe a profilového predmetu na školách umeleckého priemyslu,
+h) pri praktických skúškach a skúškach z hlavného odboru štúdia na konci prvého a druhého polroka na konzervatóriách, a z umeleckej praxe a profilového predmetu na školách umeleckého priemyslu,
 
-- pri plnení osobitného spôsobu školskej dochádzky,
+i) pri plnení osobitného spôsobu školskej dochádzky,
 
-- pri individuálnom vzdelávaní podľa § 24,
+j) pri individuálnom vzdelávaní podľa § 24,
 
-- vo vzdelávaní v základných školách na získanie nižšieho stredného vzdelania podľa § 30 ods. 5,
+k) vo vzdelávaní v základných školách na získanie nižšieho stredného vzdelania podľa § 30 ods. 5,
 
-- vo vzdelávaní v stredných odborných školách na získanie nižšieho stredného vzdelania podľa § 42 ods. 4.
+l) vo vzdelávaní v stredných odborných školách na získanie nižšieho stredného vzdelania podľa § 42 ods. 4.
 
 (2) Komisia pre komisionálne skúšky má najmenej troch členov. Komisia sa skladá z predsedu, ktorým je spravidla riaditeľ školy alebo ním poverený učiteľ alebo majster odbornej výchovy, skúšajúceho učiteľa, ktorým je spravidla učiteľ alebo majster odbornej výchovy vyučujúci žiaka príslušný vyučovací predmet, a prísediaceho, ktorý spĺňa kvalifikačné predpoklady pre príslušný alebo príbuzný vyučovací predmet. Výsledok komisionálnej skúšky vyhlási predseda komisie verejne v deň konania skúšky. Výsledok každej komisionálnej skúšky je pre klasifikáciu žiaka konečný.
 
@@ -2116,13 +2142,17 @@ Strana 46
 
 ##### § 58 Opatrenia vo výchove
 
-(1) Za vzorné správanie, za vzorné plnenie povinností alebo za statočný čin možno žiakovi udeliť
+(1) Za vzorné správanie, za vzorné plnenie povinností alebo za statočný čin možno žiakovi udeliť pochvalu alebo iné ocenenie.
 
-(2) Ak sa žiak previní proti školskému poriadku, možno mu uložiť napomenutie alebo pokarhanie od triedneho učiteľa, majstra odbornej výchovy, pokarhanie od riaditeľa, podmienečné
+(2) Ak sa žiak previní proti školskému poriadku, možno mu uložiť napomenutie alebo pokarhanie od triedneho učiteľa, majstra odbornej výchovy, pokarhanie od riaditeľa, podmienečné vylúčenie alebo vylúčenie.
 
 (3) Ak žiak svojím správaním a agresivitou ohrozuje bezpečnosť a zdravie ostatných žiakov, ostatných účastníkov výchovy a vzdelávania alebo narúša výchovu a vzdelávanie do takej miery, že znemožňuje ostatným účastníkom výchovy a vzdelávania vzdelávanie, riaditeľ školy alebo školského zariadenia, okrem špeciálnych výchovných zariadení, môže použiť ochranné opatrenie, ktorým je okamžité vylúčenie žiaka z výchovy a vzdelávania, umiestnením žiaka do samostatnej miestnosti za prítomnosti pedagogického zamestnanca. Riaditeľ školy alebo riaditeľ školského zariadenia bezodkladne privolá
 
-pochvalu alebo iné ocenenie. vylúčenie alebo vylúčenie. a) zákonného zástupcu, b) zdravotnú pomoc, 45 ) c) Policajný zbor. 46 )
+a) zákonného zástupcu,
+
+b) zdravotnú pomoc,45)
+
+c) Policajný zbor.46)
 
 (4) Ochranné opatrenie slúži na upokojenie žiaka. O dôvodoch a priebehu ochranného opatrenia vyhotoví riaditeľ školy alebo školského zariadenia písomný záznam.
 
@@ -2137,7 +2167,7 @@ pochvalu alebo iné ocenenie. vylúčenie alebo vylúčenie. a) zákonného zás
 
 (3) Riaditeľ materskej školy po dohode so zriaďovateľom určí miesto a termín na podávanie žiadosti na prijatie dieťaťa na predprimárne vzdelávanie pre nasledujúci školský rok a podmienky na prijatie zverejní v mieste sídla materskej školy obvyklým spôsobom.
 
-(4) Riaditeľ materskej školy rozhoduje o prijatí dieťaťa na predprimárne vzdelávanie podľa osobitného predpisu. 47 ) V rozhodnutí o prijatí dieťaťa môže určiť adaptačný alebo diagnostický pobyt dieťaťa v materskej škole, ktorý nesmie byť dlhší ako tri mesiace. V materskej škole pre deti so špeciálnymi výchovno-vzdelávacími potrebami môže diagnostický pobyt dieťaťa presiahnuť dobu tri mesiace, nesmie byť ale dlhší ako jeden rok.
+(4) Riaditeľ materskej školy rozhoduje o prijatí dieťaťa na predprimárne vzdelávanie podľa osobitného predpisu.47) V rozhodnutí o prijatí dieťaťa môže určiť adaptačný alebo diagnostický pobyt dieťaťa v materskej škole, ktorý nesmie byť dlhší ako tri mesiace. V materskej škole pre deti so špeciálnymi výchovno-vzdelávacími potrebami môže diagnostický pobyt dieťaťa presiahnuť dobu
 
 [[END OF PAGE 46]]
 
@@ -2148,6 +2178,8 @@ pochvalu alebo iné ocenenie. vylúčenie alebo vylúčenie. a) zákonného zás
 Zbierka zákonov Slovenskej republiky
 
 Strana 47
+
+tri mesiace, nesmie byť ale dlhší ako jeden rok.
 
 (5) O prijatí dieťaťa so zdravotným postihnutím rozhoduje riaditeľ materskej školy po vyjadrení príslušného zariadenia výchovného poradenstva a prevencie a vyjadrení všeobecného lekára pre deti a dorast; ak ide o dieťa so zmyslovým a telesným postihnutím, vyjadrením príslušného odborného lekára.
 
@@ -2259,7 +2291,7 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- meno a priezvisko, rodné číslo, vyučovací jazyk, štátne občianstvo, potvrdenie o zdravotnej spôsobilosti žiaka, výchovno-vzdelávacie výsledky žiaka na základnej škole,
+a) meno a priezvisko, rodné číslo, vyučovací jazyk, štátne občianstvo, potvrdenie o zdravotnej spôsobilosti žiaka, výchovno-vzdelávacie výsledky žiaka na základnej škole,
 
 b) meno a priezvisko, adresa a telefónny kontakt zákonných zástupcov.
 
@@ -2299,31 +2331,31 @@ Strana 51
 
 (8) Počet žiakov prvého ročníka príslušného gymnázia s osemročným vzdelávacím programom sa určuje podľa
 
-- predbežného záujmu zákonných zástupcov žiakov z daného populačného ročníka,
+a) predbežného záujmu zákonných zástupcov žiakov z daného populačného ročníka,
 
-- udržateľnosti počtu žiakov v piatom ročníku až ôsmom ročníku tried príslušného gymnázia,
+b) udržateľnosti počtu žiakov v piatom ročníku až ôsmom ročníku tried príslušného gymnázia,
 
-- počtu žiakov prvého ročníka príslušného gymnázia k 15. septembru v predchádzajúcom školskom roku,
+c) počtu žiakov prvého ročníka príslušného gymnázia k 15. septembru v predchádzajúcom školskom roku,
 
-- výsledkov hodnotenia externej časti maturitnej skúšky a písomnej formy internej časti maturitnej skúšky s dôrazom na nadpriemerné výsledky,
+d) výsledkov hodnotenia externej časti maturitnej skúšky a písomnej formy internej časti maturitnej skúšky s dôrazom na nadpriemerné výsledky,
 
-- výsledkov z celoslovenských kôl súťaží alebo predmetových olympiád a výsledkov medzinárodných kôl súťaží alebo predmetových olympiád s dôrazom na nadpriemerné výsledky,
+e) výsledkov z celoslovenských kôl súťaží alebo predmetových olympiád a výsledkov medzinárodných kôl súťaží alebo predmetových olympiád s dôrazom na nadpriemerné výsledky,
 
-- účasti žiakov príslušného gymnázia v medzinárodných projektoch alebo v medzinárodných programoch,
+f) účasti žiakov príslušného gymnázia v medzinárodných projektoch alebo v medzinárodných programoch,
 
-- zamerania školského vzdelávacieho programu príslušného gymnázia alebo školského vzdelávacieho programu tried príslušného gymnázia na rozvoj nadania žiakov, špecifických zručností alebo schopností žiakov.
+g) zamerania školského vzdelávacieho programu príslušného gymnázia alebo školského vzdelávacieho programu tried príslušného gymnázia na rozvoj nadania žiakov, špecifických zručností alebo schopností žiakov.
 
 ##### § 65
 
 (1) Riaditeľ strednej školy po prerokovaní v pedagogickej rade školy, po vyjadrení rady školy a so súhlasom zriaďovateľa určí počet žiakov, ktorých možno prijať do tried prvého ročníka a termíny konania prijímacích skúšok. Ak ide o strednú odbornú školu, v ktorej sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania, v rámci počtu žiakov, ktorých možno prijať do tried prvého ročníka, riaditeľ strednej odbornej školy určí samostatne aj počet žiakov, ktorých možno prijať do študijného odboru alebo do učebného odboru, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania. Tieto údaje zverejní
 
-- do 1. februára na štúdium v odboroch vzdelávania, ktoré vyžadujú overenie špeciálnych schopností, zručností alebo nadania,
+a) do 1. februára na štúdium v odboroch vzdelávania, ktoré vyžadujú overenie špeciálnych schopností, zručností alebo nadania,
 
-- do 31. marca na ostatné odbory vzdelávania.
+b) do 31. marca na ostatné odbory vzdelávania.
 
 (2) Riaditeľ strednej školy po prerokovaní v pedagogickej rade školy určí formu prijímacej skúšky, jej obsah a rozsah podľa vzdelávacích štandardov štátneho vzdelávacieho programu odboru vzdelávania v základnej škole. Určí jednotné kritériá na úspešné vykonanie skúšky a ostatné podmienky prijatia na štúdium pre oba termíny prijímacieho konania podľa § 66 ods. 6. Riaditeľ strednej školy je povinný tieto podmienky zverejniť najneskôr v termíne podľa odseku 1; pre žiakov so zdravotným znevýhodnením sa forma prijímacej skúšky určí s prihliadnutím na ich zdravotné znevýhodnenie.
 
-(3) Ak ide o prijímanie do študijného odboru alebo do učebného odboru, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania, formu prijímacej skúšky, obsah a rozsah podľa vzdelávacích štandardov štátneho vzdelávacieho programu odboru vzdelávania v základnej škole, jednotné kritériá na úspešné vykonanie skúšky a ostatné podmienky prijatia na štúdium pre oba termíny prijímacieho konania podľa § 66 ods. 6 určí riaditeľ strednej odbornej školy spolu so zamestnávateľom, u ktorého sa žiak bude pripravovať, po prerokovaní v pedagogickej rade školy. Riaditeľ strednej školy je povinný tieto podmienky zverejniť najneskôr v termíne podľa odseku 1; pre žiakov so zdravotným znevýhodnením sa forma prijímacej skúšky určí s prihliadnutím na ich zdravotné znevýhodnenie.
+(3) Ak ide o prijímanie do študijného odboru alebo do učebného odboru, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania, formu prijímacej skúšky, obsah
 
 [[END OF PAGE 51]]
 
@@ -2335,6 +2367,8 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
+a rozsah podľa vzdelávacích štandardov štátneho vzdelávacieho programu odboru vzdelávania v základnej škole, jednotné kritériá na úspešné vykonanie skúšky a ostatné podmienky prijatia na štúdium pre oba termíny prijímacieho konania podľa § 66 ods. 6 určí riaditeľ strednej odbornej školy spolu so zamestnávateľom, u ktorého sa žiak bude pripravovať, po prerokovaní v pedagogickej rade školy. Riaditeľ strednej školy je povinný tieto podmienky zverejniť najneskôr v termíne podľa odseku 1; pre žiakov so zdravotným znevýhodnením sa forma prijímacej skúšky určí s prihliadnutím na ich zdravotné znevýhodnenie.
+
 (4) Riaditeľ strednej odbornej školy môže po prerokovaní v pedagogickej rade školy určiť kritériá na prijatie uchádzačov bez prijímacej skúšky alebo jej časti do prvého ročníka vzdelávacieho programu nižšieho stredného odborného vzdelávania a do prvého ročníka vzdelávacieho programu stredného odborného vzdelávania, ak tento zákon neustanovuje inak. Ak ide o prijímanie do učebného odboru, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania, tieto kritériá určí riaditeľ strednej odbornej školy aj spolu so zamestnávateľom, u ktorého sa žiak bude pripravovať.
 
 (5) Pri prijímaní žiaka, ktorý v celoslovenskom testovaní žiakov deviateho ročníka základnej školy dosiahol v každom predmete samostatne úspešnosť najmenej 90 %, rozhoduje riaditeľ školy bez prijímacej skúšky; toto sa nevzťahuje na školu so vzdelávacím programom učebného odboru alebo študijného odboru, ktorý vyžaduje overenie špeciálnych schopností, zručností alebo nadania.
@@ -2343,9 +2377,9 @@ Zbierka zákonov Slovenskej republiky
 
 (7) Riaditeľ strednej školy odošle rozhodnutie o prijatí žiaka bez prijímacej skúšky podľa odseku 4 alebo odseku 5 najneskôr 7 dní pred termínom konania prijímacích skúšok. Riaditeľ strednej odbornej školy prijíma samostatne
 
-- uchádzačov, ktorí boli prijatí na štúdium v študijnom odbore alebo v učebnom odbore, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania a
+a) uchádzačov, ktorí boli prijatí na štúdium v študijnom odbore alebo v učebnom odbore, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania a
 
-- ostatných uchádzačov.
+b) ostatných uchádzačov.
 
 (8) Do odborov vzdelávania, v ktorých sa vyžaduje overenie špeciálnych schopností, zručností alebo nadania, sa prijímajú uchádzači po ich overení; na tanečné konzervatórium a strednú športovú školu aj po overení zdravotnej spôsobilosti.
 
@@ -2353,13 +2387,13 @@ Zbierka zákonov Slovenskej republiky
 
 ##### § 66 Prijímacia skúška
 
-(1) Prijímacia skúška pozostáva z overenia vedomostí z predmetov podľa 64 ods. 1 alebo z overenia špeciálnych schopností, zručností alebo nadania potrebných na zvládnutie príslušného odboru vzdelávania, prípadne z oboch týchto častí.
+(1) Prijímacia skúška pozostáva z overenia vedomostí z predmetov podľa § 64 ods. 1 alebo z overenia špeciálnych schopností, zručností alebo nadania potrebných na zvládnutie príslušného odboru vzdelávania, prípadne z oboch týchto častí.
 
 (2) V školách s vyučovacím jazykom národnostných menšín sú predmety určené podľa § 64 ods. 1 doplnené o vyučovací jazyk strednej školy.
 
 (3) Ak sa žiak základnej školy s vyučovacím jazykom národnostných menšín prihlási na štúdium na strednej škole s vyučovacím jazykom slovenským, prijímacie skúšky z vyučovacích predmetov koná takto:
 
-a) zo slovenského jazyka a literatúry v rozsahu učiva určeného štátnym vzdelávacím programom odboru vzdelávania v základnej škole, b) z ďalšieho predmetu v jazyku, v akom si ho na základnej škole osvojoval, ak zákonný zástupca žiaka túto požiadavku uvedie v prihláške na štúdium na strednej škole.
+a) zo slovenského jazyka a literatúry v rozsahu učiva určeného štátnym vzdelávacím programom odboru vzdelávania v základnej škole,
 
 [[END OF PAGE 52]]
 
@@ -2370,6 +2404,8 @@ a) zo slovenského jazyka a literatúry v rozsahu učiva určeného štátnym 
 Zbierka zákonov Slovenskej republiky
 
 Strana 53
+
+b) z ďalšieho predmetu v jazyku, v akom si ho na základnej škole osvojoval, ak zákonný zástupca žiaka túto požiadavku uvedie v prihláške na štúdium na strednej škole.
 
 (4) Ak sa žiak základnej školy s vyučovacím jazykom slovenským prihlási na strednú školu s vyučovacím jazykom národnostných menšín, koná prijímaciu skúšku podľa odseku 1. Z ďalšieho predmetu koná žiak prijímaciu skúšku v jazyku, v akom si ho na základnej škole osvojoval, ak zákonný zástupca žiaka túto požiadavku uvedie v prihláške na štúdium na strednej škole.
 
@@ -2407,7 +2443,7 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- ostatných uchádzačov.
+b) ostatných uchádzačov.
 
 (5) Riaditeľ strednej školy pri rozhodovaní o prijatí zohľadní, že uchádzač je úspešným riešiteľom predmetovej olympiády alebo víťazom súťaže, ktorá súvisí s odborom vzdelávania, o ktorý sa uchádza, a na výsledky dosiahnuté v celoslovenskom testovaní žiakov deviatych ročníkov základných škôl.
 
@@ -2455,7 +2491,7 @@ Strana 55
 
 (10) Riaditeľ strednej odbornej školy prijíma samostatne
 
-- uchádzačov, ktorí boli prijatí na štúdium v študijnom odbore alebo v učebnom odbore, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania a
+a) uchádzačov, ktorí boli prijatí na štúdium v študijnom odbore alebo v učebnom odbore, v ktorom sa odborné vzdelávanie a príprava poskytuje v systéme duálneho vzdelávania a
 
 b) ostatných uchádzačov.
 
@@ -2495,13 +2531,13 @@ Zbierka zákonov Slovenskej republiky
 
 Výchova a vzdelávanie v stredných školách môže byť ukončené
 
-- záverečnou skúškou,
+a) záverečnou skúškou,
 
-- maturitnou skúškou,
+b) maturitnou skúškou,
 
-- záverečnou pomaturitnou skúškou,
+c) záverečnou pomaturitnou skúškou,
 
-- absolventskou skúškou.
+d) absolventskou skúškou.
 
 ##### § 73 Záverečná skúška
 
@@ -2593,17 +2629,17 @@ Strana 59
 
 (4) Interná časť maturitnej skúšky v jednotlivých predmetoch maturitnej skúšky sa môže konať aj formou
 
-- ústnou,
+a) ústnou,
 
-- praktickou,
+b) praktickou,
 
 c) predvedením komplexnej úlohy alebo umeleckého výkonu,
 
 d) obhajoby komplexnej odbornej práce alebo projektu alebo úspešnej súťažnej práce,
 
-- realizácie a obhajoby experimentu,
+e) realizácie a obhajoby experimentu,
 
-- kombinácie foriem podľa písmen a) až e).
+f) kombinácie foriem podľa písmen a) až e).
 
 (5) Písomnú formu internej časti maturitnej skúšky tvorí súbor tém alebo zadaní, ktoré zadáva Národný ústav certifikovaných meraní vzdelávania podľa § 154 ods. 5 písm. a). Písomná forma internej časti maturitnej skúšky sa vykonáva v rovnakom čase na celom území Slovenskej republiky.
 
@@ -2673,15 +2709,15 @@ Strana 61
 
 (2) Absolventská skúška je komplexná odborná skúška, ktorou sa overuje úroveň špecifických vedomostí a zručností žiaka zameraných na výkon konkrétnych pracovných činností. Skúškou sa môže overiť aj úroveň umeleckých a pedagogicko-umeleckých činností. Absolventská skúška obsahuje
 
-- na konzervatóriu absolventské výkony z hlavného odboru štúdia alebo hlavných odborov štúdia, absolventskú písomnú prácu a jej obhajobu a súbornú skúšku z pedagogickej prípravy alebo súborné skúšky z pedagogickej prípravy,
+a) na konzervatóriu absolventské výkony z hlavného odboru štúdia alebo hlavných odborov štúdia, absolventskú písomnú prácu a jej obhajobu a súbornú skúšku z pedagogickej prípravy alebo súborné skúšky z pedagogickej prípravy,
 
-- na tanečnom konzervatóriu absolventský výkon z hlavného odboru štúdia a súbornú skúšku z pedagogickej prípravy,
+b) na tanečnom konzervatóriu absolventský výkon z hlavného odboru štúdia a súbornú skúšku z pedagogickej prípravy,
 
-- na škole umeleckého priemyslu praktickú skúšku vrátane obhajoby absolventskej písomnej práce, teoretickú skúšku z odborných predmetov podľa charakteru príslušného študijného odboru; súčasťou absolventskej skúšky môže byť aj súborná skúška z pedagogickej prípravy,
+c) na škole umeleckého priemyslu praktickú skúšku vrátane obhajoby absolventskej písomnej práce, teoretickú skúšku z odborných predmetov podľa charakteru príslušného študijného odboru; súčasťou absolventskej skúšky môže byť aj súborná skúška z pedagogickej prípravy,
 
-- na strednej zdravotníckej škole komplexnú teoreticko-praktickú skúšku z príslušného študijného odboru, absolventskú písomnú prácu a jej obhajobu,
+d) na strednej zdravotníckej škole komplexnú teoreticko-praktickú skúšku z príslušného študijného odboru, absolventskú písomnú prácu a jej obhajobu,
 
-- na ostatných stredných odborných školách písomnú absolventskú prácu, jej obhajobu a komplexnú skúšku z odborných predmetov.
+e) na ostatných stredných odborných školách písomnú absolventskú prácu, jej obhajobu a komplexnú skúšku z odborných predmetov.
 
 (3) Absolventská skúška sa koná v riadnom skúšobnom období alebo v mimoriadnom skúšobnom období.
 
@@ -2695,17 +2731,17 @@ Strana 61
 
 (1) Organizáciu a priebeh maturitnej skúšky a záverečnej pomaturitnej skúšky zabezpečujú tieto maturitné komisie:
 
-- ústredná maturitná komisia,
+a) ústredná maturitná komisia,
 
-- školská maturitná komisia,
+b) školská maturitná komisia,
 
-- predmetová maturitná komisia.
+c) predmetová maturitná komisia.
 
 (2) Ústredná maturitná komisia plní tieto úlohy:
 
-- vyjadruje sa k harmonogramu maturitných skúšok,
+a) vyjadruje sa k harmonogramu maturitných skúšok,
 
-- vyjadruje sa k požiadavkám a obsahu externej časti maturitnej skúšky,
+b) vyjadruje sa k požiadavkám a obsahu externej časti maturitnej skúšky,
 
 [[END OF PAGE 61]]
 
@@ -2767,29 +2803,29 @@ počet skúšajúcich predmetovej maturitnej komisie, môže skúšajúcich vyme
 
 (2) Predsedom predmetovej maturitnej komisie môže byť len pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady na vyučovanie daného predmetu.
 
-- Predsedu školskej maturitnej komisie a predsedu predmetovej maturitnej komisie nemožno vymenovať z pedagogických zamestnancov školy, na ktorej sa maturitná skúška koná.
+(3) Predsedu školskej maturitnej komisie a predsedu predmetovej maturitnej komisie nemožno vymenovať z pedagogických zamestnancov školy, na ktorej sa maturitná skúška koná.
 
-- Predsedom školskej maturitnej komisie v triedach s bilingválnym vzdelávaním môže byť len pedagogický zamestnanec, ktorý spĺňa
+(4) Predsedom školskej maturitnej komisie v triedach s bilingválnym vzdelávaním môže byť len pedagogický zamestnanec, ktorý spĺňa
 
-- kvalifikačné predpoklady a má štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo
+a) kvalifikačné predpoklady a má štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo
 
-- kvalifikačné predpoklady a druhý vyučovací jazyk je jeho materinský jazyk.
+b) kvalifikačné predpoklady a druhý vyučovací jazyk je jeho materinský jazyk.
 
-- Predsedom predmetovej maturitnej komisie v triedach s bilingválnym vzdelávaním v predmetoch, z ktorých sa koná skúška v druhom vyučovacom jazyku, môže byť len pedagogický zamestnanec, ktorý
+(5) Predsedom predmetovej maturitnej komisie v triedach s bilingválnym vzdelávaním v predmetoch, z ktorých sa koná skúška v druhom vyučovacom jazyku, môže byť len pedagogický zamestnanec, ktorý
 
-- spĺňa kvalifikačné predpoklady na vyučovanie daného predmetu a úspešne vykonal štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo
+a) spĺňa kvalifikačné predpoklady na vyučovanie daného predmetu a úspešne vykonal štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo
 
-- spĺňa kvalifikačné predpoklady na vyučovanie daného predmetu a druhý vyučovací jazyk je jeho materinský jazyk alebo
+b) spĺňa kvalifikačné predpoklady na vyučovanie daného predmetu a druhý vyučovací jazyk je jeho materinský jazyk alebo
 
-- úspešne vykonal štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo druhý vyučovací jazyk je jeho materinským jazykom.
+c) úspešne vykonal štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo druhý vyučovací jazyk je jeho materinským jazykom.
 
-- Skúšajúcim predmetovej maturitnej komisie môže byť len pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady na vyučovanie predmetu, z ktorého sa skúška vykonáva.
+(6) Skúšajúcim predmetovej maturitnej komisie môže byť len pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady na vyučovanie predmetu, z ktorého sa skúška vykonáva.
 
-- Skúšajúci predmetovej maturitnej komisie v triedach s bilingválnym vzdelávaním v predmetoch, ktorých skúška sa koná v druhom vyučovacom jazyku, môže byť len pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady na vyučovanie predmetu, z ktorého sa skúška koná a z ktorých aspoň jeden má štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo druhý vyučovací jazyk je jeho materinský jazyk.
+(7) Skúšajúci predmetovej maturitnej komisie v triedach s bilingválnym vzdelávaním v predmetoch, ktorých skúška sa koná v druhom vyučovacom jazyku, môže byť len pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady na vyučovanie predmetu, z ktorého sa skúška koná a z ktorých aspoň jeden má štátnu jazykovú skúšku z druhého vyučovacieho jazyka alebo druhý vyučovací jazyk je jeho materinský jazyk.
 
 (8) Skúšajúci zástupca stavovskej organizácie a skúšajúci zástupca zamestnávateľa, u ktorého sa žiak pripravuje v systéme duálneho vzdelávania, musí spĺňať tieto predpoklady:
 
-- má najmenej úplné stredné odborné vzdelanie v príslušnom študijnom odbore alebo
+a) má najmenej úplné stredné odborné vzdelanie v príslušnom študijnom odbore alebo
 
 [[END OF PAGE 63]]
 
@@ -2803,55 +2839,55 @@ Zbierka zákonov Slovenskej republiky
 
 v príbuznom študijnom odbore a
 
-- vykonával najmenej päť rokov povolanie alebo odborné činnosti v rozsahu učiva odborných vyučovacích predmetov určených vzdelávacími štandardmi príslušného študijného odboru.
+b) vykonával najmenej päť rokov povolanie alebo odborné činnosti v rozsahu učiva odborných vyučovacích predmetov určených vzdelávacími štandardmi príslušného študijného odboru.
 
 ##### § 82
 
-- Predseda školskej maturitnej komisie
+(1) Predseda školskej maturitnej komisie
 
-- kontroluje pripravenosť a organizáciu maturitnej skúšky,
+a) kontroluje pripravenosť a organizáciu maturitnej skúšky,
 
-- kontroluje správnosť protokolu o maturitnej skúške,
+b) kontroluje správnosť protokolu o maturitnej skúške,
 
-- podpisuje vysvedčenie o maturitnej skúške,
+c) podpisuje vysvedčenie o maturitnej skúške,
 
-- vypracuje správu o priebehu a celkovej úrovni maturitnej skúšky, ktorú odosiela príslušnému orgánu štátnej správy v školstve.
+d) vypracuje správu o priebehu a celkovej úrovni maturitnej skúšky, ktorú odosiela príslušnému orgánu štátnej správy v školstve.
 
-- Predseda predmetovej maturitnej komisie
+(2) Predseda predmetovej maturitnej komisie
 
-- riadi prácu predmetovej maturitnej komisie,
+a) riadi prácu predmetovej maturitnej komisie,
 
-- kontroluje pripravenosť maturitnej skúšky z príslušného predmetu,
+b) kontroluje pripravenosť maturitnej skúšky z príslušného predmetu,
 
-- zodpovedá za priebeh a hodnotenie externej časti maturitných skúšok z predmetu maturitnej skúšky,
+c) zodpovedá za priebeh a hodnotenie externej časti maturitných skúšok z predmetu maturitnej skúšky,
 
-- zodpovedá za správnosť protokolu o externej časti maturitných skúšok,
+d) zodpovedá za správnosť protokolu o externej časti maturitných skúšok,
 
-- schvaľuje do 30. apríla maturitné zadania alebo témy ústnej formy internej časti maturitnej skúšky z príslušného predmetu a ak má pochybnosti, požiada o stanovisko Štátnu školskú inšpekciu, 7 ) v prípade stredných zdravotníckych škôl ministerstvo zdravotníctva,
+e) schvaľuje do 30. apríla maturitné zadania alebo témy ústnej formy internej časti maturitnej skúšky z príslušného predmetu a ak má pochybnosti, požiada o stanovisko Štátnu školskú inšpekciu, 7 ) v prípade stredných zdravotníckych škôl ministerstvo zdravotníctva,
 
-- kontroluje hodnotenie písomnej formy internej časti maturitných skúšok,
+f) kontroluje hodnotenie písomnej formy internej časti maturitných skúšok,
 
-- podieľa sa na skúšaní a klasifikácii žiaka,
+g) podieľa sa na skúšaní a klasifikácii žiaka,
 
-- zodpovedá za klasifikáciu žiaka,
+h) zodpovedá za klasifikáciu žiaka,
 
-- vypracuje správu o priebehu a celkovej úrovni maturitnej skúšky z predmetu maturitnej skúšky, ktorú odovzdá predsedovi školskej maturitnej komisie.
+i) vypracuje správu o priebehu a celkovej úrovni maturitnej skúšky z predmetu maturitnej skúšky, ktorú odovzdá predsedovi školskej maturitnej komisie.
 
-- Ak predseda školskej maturitnej komisie nemôže z vážnych dôvodov funkciu vykonávať, zastúpi ho riaditeľ školy, ak nie je vymenovaný nový predseda.
+(3) Ak predseda školskej maturitnej komisie nemôže z vážnych dôvodov funkciu vykonávať, zastúpi ho riaditeľ školy, ak nie je vymenovaný nový predseda.
 
-- Ak predseda predmetovej maturitnej komisie nemôže z vážnych dôvodov funkciu vykonávať, zastúpi ho riaditeľ školy alebo zástupca riaditeľa školy, ak nie je vymenovaný nový predseda.
+(4) Ak predseda predmetovej maturitnej komisie nemôže z vážnych dôvodov funkciu vykonávať, zastúpi ho riaditeľ školy alebo zástupca riaditeľa školy, ak nie je vymenovaný nový predseda.
 
-- Riaditeľ školy môže na odbornú zložku maturitnej skúšky prizvať so súhlasom predsedu predmetovej maturitnej komisie odborníka z praxe. Odborník z praxe môže so súhlasom predsedu predmetovej maturitnej komisie dávať žiakovi otázky; odborník z praxe žiaka nehodnotí.
+(5) Riaditeľ školy môže na odbornú zložku maturitnej skúšky prizvať so súhlasom predsedu predmetovej maturitnej komisie odborníka z praxe. Odborník z praxe môže so súhlasom predsedu predmetovej maturitnej komisie dávať žiakovi otázky; odborník z praxe žiaka nehodnotí.
 
 #### Skúšobná komisia pre záverečnú skúšku a skúšobná komisia pre absolventskú skúšku
 
 ##### § 83
 
-- Organizáciu a priebeh záverečnej skúšky zabezpečuje skúšobná komisia pre záverečnú skúšku.
+(1) Organizáciu a priebeh záverečnej skúšky zabezpečuje skúšobná komisia pre záverečnú skúšku.
 
-- Skúšobná komisia pre záverečnú skúšku má stálych členov a ďalších členov.
+(2) Skúšobná komisia pre záverečnú skúšku má stálych členov a ďalších členov.
 
-- Stálymi členmi skúšobnej komisie pre záverečnú skúšku sú
+(3) Stálymi členmi skúšobnej komisie pre záverečnú skúšku sú
 
 [[END OF PAGE 64]]
 
@@ -2863,27 +2899,27 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 65
 
-- predseda,
+a) predseda,
 
-- podpredseda,
+b) podpredseda,
 
-- triedny učiteľ.
+c) triedny učiteľ.
 
 (4) Ďalšími členmi skúšobnej komisie pre záverečnú skúšku sú
 
-- majster odbornej výchovy a učiteľ teoretických odborných vyučovacích predmetov alebo učiteľ odbornej praxe a učiteľ teoretických odborných vyučovacích predmetov,
+a) majster odbornej výchovy a učiteľ teoretických odborných vyučovacích predmetov alebo učiteľ odbornej praxe a učiteľ teoretických odborných vyučovacích predmetov,
 
-- skúšajúci zástupca zamestnávateľa, u ktorého sa žiak pripravuje v systéme duálneho vzdelávania,
+b) skúšajúci zástupca zamestnávateľa, u ktorého sa žiak pripravuje v systéme duálneho vzdelávania,
 
-- skúšajúci zástupca stavovskej organizácie, ak ho stavovská organizácia deleguje; to neplatí, ak má skúšobná komisia pre záverečnú skúšku ďalšieho člena podľa písmena b).
+c) skúšajúci zástupca stavovskej organizácie, ak ho stavovská organizácia deleguje; to neplatí, ak má skúšobná komisia pre záverečnú skúšku ďalšieho člena podľa písmena b).
 
 (5) Predsedom skúšobnej komisie pre záverečnú skúšku a podpredsedom skúšobnej komisie pre záverečnú skúšku môže byť pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady podľa osobitného predpisu 51 ) a ktorý má najmenej štyri roky pedagogickej praxe.
 
 (6) Člen skúšobnej komisie pre záverečnú skúšku podľa odseku 4 písm. b) a c) musí spĺňať tieto predpoklady:
 
-- má najmenej stredné odborné vzdelanie v príslušnom učebnom odbore alebo v príbuznom učebnom odbore a
+a) má najmenej stredné odborné vzdelanie v príslušnom učebnom odbore alebo v príbuznom učebnom odbore a
 
-- vykonával najmenej päť rokov povolanie alebo odborné činnosti v rozsahu učiva odborných vyučovacích predmetov určených vzdelávacími štandardmi príslušného učebného odboru.
+b) vykonával najmenej päť rokov povolanie alebo odborné činnosti v rozsahu učiva odborných vyučovacích predmetov určených vzdelávacími štandardmi príslušného učebného odboru.
 
 (7) Riaditeľ školy môže so súhlasom predsedu skúšobnej komisie pre záverečnú skúšku prizvať na záverečnú skúšku odborníka z praxe. Odborník z praxe môže so súhlasom predsedu skúšobnej komisie pre záverečnú skúšku dávať žiakovi otázky; odborník z praxe žiaka nehodnotí.
 
@@ -2891,33 +2927,33 @@ Strana 65
 
 (1) Organizáciu a priebeh absolventskej skúšky zabezpečuje skúšobná komisia pre absolventskú skúšku.
 
-- Skúšobná komisia pre absolventskú skúšku má stálych členov a ďalších členov.
+(2) Skúšobná komisia pre absolventskú skúšku má stálych členov a ďalších členov.
 
-- Stálymi členmi skúšobnej komisie pre absolventskú skúšku sú
+(3) Stálymi členmi skúšobnej komisie pre absolventskú skúšku sú
 
-- v strednej odbornej škole
+a) v strednej odbornej škole
 
-- predseda,
+1. predseda,
 
-- podpredseda,
+2. podpredseda,
 
-- triedny učiteľ,
+3. triedny učiteľ,
 
-- v konzervatóriu
+b) v konzervatóriu
 
-- predseda,
+1. predseda,
 
-- podpredseda,
+2. podpredseda,
 
-- vedúci oddelenia,
+3. vedúci oddelenia,
 
-- v škole umeleckého priemyslu
+c) v škole umeleckého priemyslu
 
-- predseda,
+1. predseda,
 
-- podpredseda,
+2. podpredseda,
 
-- vedúci odboru.
+3. vedúci odboru.
 
 [[END OF PAGE 65]]
 
@@ -2931,21 +2967,21 @@ Zbierka zákonov Slovenskej republiky
 
 (4) Ďalšími členmi skúšobnej komisie pre absolventskú skúšku sú
 
-- v strednej odbornej škole
+a) v strednej odbornej škole
 
-- učiteľ odborných vyučovacích predmetov,
+1. učiteľ odborných vyučovacích predmetov,
 
-- prísediaci učiteľ,
+2. prísediaci učiteľ,
 
-- skúšajúci zástupca alebo zástupcovia zamestnávateľa, u ktorého sa žiak pripravuje v systéme duálneho vzdelávania,
+3. skúšajúci zástupca alebo zástupcovia zamestnávateľa, u ktorého sa žiak pripravuje v systéme duálneho vzdelávania,
 
-- skúšajúci zástupca stavovskej organizácie, ak ho stavovská organizácia deleguje; to neplatí, ak má skúšobná komisia pre absolventskú skúšku ďalšieho člena podľa tretieho bodu,
+4. skúšajúci zástupca stavovskej organizácie, ak ho stavovská organizácia deleguje; to neplatí, ak má skúšobná komisia pre absolventskú skúšku ďalšieho člena podľa tretieho bodu,
 
-- v konzervatóriu a v škole umeleckého priemyslu
+b) v konzervatóriu a v škole umeleckého priemyslu
 
-- učiteľ odborných vyučovacích predmetov,
+1. učiteľ odborných vyučovacích predmetov,
 
-- prísediaci učiteľ.
+2. prísediaci učiteľ.
 
 (5) Predsedom skúšobnej komisie pre absolventskú skúšku môže byť pedagogický zamestnanec, ktorý spĺňa kvalifikačné predpoklady podľa osobitného predpisu 51 ) a ktorý má najmenej štyri roky pedagogickej praxe; v strednej zdravotníckej škole aj dva roky odbornej zdravotníckej praxe.
 
@@ -2953,11 +2989,11 @@ Zbierka zákonov Slovenskej republiky
 
 (7) Člen skúšobnej komisie pre absolventskú skúšku podľa odseku 4 písm. a) tretieho a štvrtého bodu musí spĺňať tieto predpoklady:
 
-- má najmenej vyššie odborné vzdelanie v príslušnom študijnom odbore alebo v príbuznom študijnom odbore a
+a) má najmenej vyššie odborné vzdelanie v príslušnom študijnom odbore alebo v príbuznom študijnom odbore a
 
-- vykonával najmenej päť rokov povolanie alebo odborné činnosti v rozsahu učiva odborných vyučovacích predmetov určených vzdelávacími štandardmi príslušného študijného odboru.
+b) vykonával najmenej päť rokov povolanie alebo odborné činnosti v rozsahu učiva odborných vyučovacích predmetov určených vzdelávacími štandardmi príslušného študijného odboru.
 
-- Prísediaci učiteľ musí spĺňať kvalifikačné predpoklady podľa osobitného predpisu. 51 )
+(8) Prísediaci učiteľ musí spĺňať kvalifikačné predpoklady podľa osobitného predpisu. 51 )
 
 (9) Riaditeľ školy môže so súhlasom predsedu skúšobnej komisie pre absolventskú skúšku prizvať na absolventskú skúšku odborníka z praxe. Odborník z praxe môže so súhlasom predsedu skúšobnej komisie pre absolventskú skúšku dávať žiakovi otázky; odborník z praxe žiaka nehodnotí.
 
@@ -3005,7 +3041,7 @@ Strana 67
 
 (3) Žiak, zákonný zástupca žiaka alebo ním poverená osoba alebo zástupca zariadenia, v ktorom je maloleté dieťa umiestnené na základe rozhodnutia súdu v zariadení ústavnej starostlivosti (ďalej len 'žiadateľ'), môže požiadať riaditeľa školy o nahliadnutie do písomnej práce a porovnať jej hodnotenie s kľúčom správnych odpovedí a pravidlami hodnotenia práce do piatich dní odo dňa, keď sa dozvedel o jej výsledku. Žiadateľ môže podať prostredníctvom riaditeľa školy písomné námietky voči hodnoteniu
 
-- písomnej formy internej časti maturitnej skúšky podľa § 76 ods. 5 do ôsmich dní odo dňa, keď sa dozvedel o jej výsledku, Štátnej školskej inšpekcii, 7 )
+a) písomnej formy internej časti maturitnej skúšky podľa § 76 ods. 5 do ôsmich dní odo dňa, keď sa dozvedel o jej výsledku, Štátnej školskej inšpekcii, 7 )
 
 [[END OF PAGE 67]]
 
@@ -3017,19 +3053,19 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- ďalších foriem internej časti maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky do ôsmich dní od jej vykonania Štátnej školskej inšpekcii, 7 )
+b) ďalších foriem internej časti maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky do ôsmich dní od jej vykonania Štátnej školskej inšpekcii, 7 )
 
-- teoretickej časti odbornej zložky maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky na stredných zdravotníckych školách do ôsmich dní od jej vykonania ministerstvu zdravotníctva. 52 )
+c) teoretickej časti odbornej zložky maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky na stredných zdravotníckych školách do ôsmich dní od jej vykonania ministerstvu zdravotníctva. 52 )
 
 (4) Ak je opodstatnená námietka voči hodnoteniu
 
-- písomnej formy internej časti maturitnej skúšky podľa § 76 ods. 5, môže Štátna školská inšpekcia uložiť záväzný pokyn na odstránenie zistených nedostatkov, 53 )
+a) písomnej formy internej časti maturitnej skúšky podľa § 76 ods. 5, môže Štátna školská inšpekcia uložiť záväzný pokyn na odstránenie zistených nedostatkov, 53 )
 
-- ďalších foriem internej časti maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky, môže Štátna školská inšpekcia nariadiť komisionálne preskúšanie pri zistení nedostatkov pri klasifikácii 54 ) za prítomnosti školského inšpektora,
+b) ďalších foriem internej časti maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky, môže Štátna školská inšpekcia nariadiť komisionálne preskúšanie pri zistení nedostatkov pri klasifikácii 54 ) za prítomnosti školského inšpektora,
 
-- teoretickej časti odbornej zložky maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky na stredných zdravotníckych školách, môže ministerstvo zdravotníctva uložiť záväzný pokyn na odstránenie zistených nedostatkov alebo nariadiť komisionálnu skúšku pri zistení nedostatkov pri klasifikácii.
+c) teoretickej časti odbornej zložky maturitnej skúšky alebo praktickej časti odbornej zložky maturitnej skúšky na stredných zdravotníckych školách, môže ministerstvo zdravotníctva uložiť záväzný pokyn na odstránenie zistených nedostatkov alebo nariadiť komisionálnu skúšku pri zistení nedostatkov pri klasifikácii.
 
-- Skúška sa koná pred predmetovou maturitnou komisiou v pôvodnom zložení.
+(5) Skúška sa koná pred predmetovou maturitnou komisiou v pôvodnom zložení.
 
 (6) Žiak úspešne vykonal maturitnú skúšku, ak úspešne vykonal maturitnú skúšku zo všetkých predmetov maturitnej skúšky.
 
@@ -3037,7 +3073,7 @@ Zbierka zákonov Slovenskej republiky
 
 ##### § 87
 
-- Klasifikácia žiaka na záverečnej skúške je vyjadrená stupňom prospechu.
+(1) Klasifikácia žiaka na záverečnej skúške je vyjadrená stupňom prospechu.
 
 (2) Klasifikáciu žiaka z písomnej časti záverečnej skúšky, praktickej časti záverečnej skúšky alebo ústnej časti záverečnej skúšky schvaľuje skúšobná komisia na návrh člena skúšobnej komisie podľa § 83 ods. 4 písm. a) hlasovaním. Pri rovnosti hlasov rozhoduje hlas predsedu skúšobnej komisie pre záverečnú skúšku. Ak ide o záverečnú skúšku žiaka, ktorý sa pripravuje v systéme duálneho vzdelávania, pri rovnosti hlasov rozhoduje hlas zástupcu zamestnávateľa, u ktorého sa žiak pripravuje.
 
@@ -3047,7 +3083,7 @@ Zbierka zákonov Slovenskej republiky
 
 ##### § 87a
 
-- Klasifikácia žiaka na absolventskej skúške je vyjadrená stupňom prospechu.
+(1) Klasifikácia žiaka na absolventskej skúške je vyjadrená stupňom prospechu.
 
 (2) Klasifikáciu žiaka z jednotlivých častí absolventskej skúšky podľa § 79 ods. 2 schvaľuje skúšobná komisia na návrh učiteľa odborných vyučovacích predmetov, ktorý je jej členom podľa § 84 ods. 4, hlasovaním. Pri rovnosti hlasov rozhoduje hlas predsedu skúšobnej komisie pre absolventskú skúšku. Ak ide o absolventskú skúšku žiaka, ktorý sa pripravuje na povolanie v systéme duálneho vzdelávania, pri rovnosti hlasov rozhoduje hlas zástupcu zamestnávateľa, u ktorého sa žiak pripravuje.
 
@@ -3071,17 +3107,17 @@ Strana 69
 
 (2) Ak žiak strednej odbornej školy na maturitnej skúške alebo záverečnej pomaturitnej skúške, žiak strednej športovej školy, školy umeleckého priemyslu alebo žiak konzervatória na maturitnej skúške z niektorých, najviac však z dvoch predmetov, neúspešne vykonal maturitnú skúšku, školská maturitná komisia môže žiakovi povoliť konať opravnú skúšku z týchto predmetov, časti skúšky z týchto predmetov, foriem internej časti maturitnej skúšky alebo ich kombinácie.
 
-(3) Ak bol žiak na záverečnej skúške alebo na absolventskej skúške z jednej časti tejto skúšky klasifikovaný stupňom 5 - nedostatočný, skúšobná komisia pre záverečnú skúšku alebo skúšobná komisia pre absolventskú skúšku môže žiakovi povoliť konať opravnú skúšku z tejto časti záverečnej skúšky alebo absolventskej skúšky.
+(3) Ak bol žiak na záverečnej skúške alebo na absolventskej skúške z jednej časti tejto skúšky klasifikovaný stupňom 5 – nedostatočný, skúšobná komisia pre záverečnú skúšku alebo skúšobná komisia pre absolventskú skúšku môže žiakovi povoliť konať opravnú skúšku z tejto časti záverečnej skúšky alebo absolventskej skúšky.
 
 (4) Žiak môže opravnú skúšku konať na jeho žiadosť najneskôr do troch rokov od ukončenia posledného ročníka strednej školy. Opravnú skúšku internej časti maturitnej skúšky okrem jej písomnej formy podľa § 76 ods. 5 žiak koná na strednej škole, na ktorej konal maturitnú skúšku. Ak žiak koná opravnú skúšku z predmetu, ktorý má externú časť maturitnej skúšky a internú časť maturitnej skúšky, a koná ju zo všetkých častí, potom ústnu formu internej časti maturitnej skúšky môže konať v riadnom termíne.
 
-(5) Ak žiak na opravnej skúške z niektorých predmetov neúspešne vykonal maturitnú skúšku alebo bol na opravnej skúške klasifikovaný stupňom 5 - nedostatočný, školská maturitná komisia, skúšobná komisia pre záverečnú skúšku alebo skúšobná komisia pre absolventskú skúšku môže žiakovi povoliť konať druhú opravnú skúšku z týchto predmetov.
+(5) Ak žiak na opravnej skúške z niektorých predmetov neúspešne vykonal maturitnú skúšku alebo bol na opravnej skúške klasifikovaný stupňom 5 – nedostatočný, školská maturitná komisia, skúšobná komisia pre záverečnú skúšku alebo skúšobná komisia pre absolventskú skúšku môže žiakovi povoliť konať druhú opravnú skúšku z týchto predmetov.
 
 (6) Žiak môže druhú opravnú skúšku konať na jeho žiadosť najneskôr do troch rokov od ukončenia posledného ročníka príslušnej strednej školy.
 
 (7) Žiakovi strednej školy, ktorý neúspešne vykonal maturitnú skúšku z viac ako dvoch predmetov alebo neúspešne vykonal maturitnú skúšku na niektorej opravnej skúške, môže školská maturitná komisia povoliť opakovať celú maturitnú skúšku.
 
-(8) Žiakovi, ktorý bol na záverečnej skúške alebo na absolventskej skúške klasifikovaný stupňom 5 - nedostatočný z viac ako jednej časti tejto skúšky alebo bol klasifikovaný stupňom 5 nedostatočný na niektorej opravnej skúške, môže skúšobná komisia pre záverečnú skúšku alebo skúšobná komisia pre absolventskú skúšku povoliť opakovať celú záverečnú skúšku alebo celú absolventskú skúšku.
+(8) Žiakovi, ktorý bol na záverečnej skúške alebo na absolventskej skúške klasifikovaný stupňom 5 – nedostatočný z viac ako jednej časti tejto skúšky alebo bol klasifikovaný stupňom 5 – nedostatočný na niektorej opravnej skúške, môže skúšobná komisia pre záverečnú skúšku alebo skúšobná komisia pre absolventskú skúšku povoliť opakovať celú záverečnú skúšku alebo celú absolventskú skúšku.
 
 (9) Záverečnú skúšku, maturitnú skúšku, záverečnú pomaturitnú skúšku alebo absolventskú
 
@@ -3177,15 +3213,15 @@ Zbierka zákonov Slovenskej republiky
 
 ##### § 92
 
-- Žiakom prestáva byť aj žiak,
+(1) Žiakom prestáva byť aj žiak,
 
-- ktorý zanechá štúdium,
+a) ktorý zanechá štúdium,
 
-- ktorému nebolo povolené opakovať ročník alebo záverečnú skúšku, maturitnú skúšku, záverečnú pomaturitnú skúšku alebo absolventskú skúšku,
+b) ktorému nebolo povolené opakovať ročník alebo záverečnú skúšku, maturitnú skúšku, záverečnú pomaturitnú skúšku alebo absolventskú skúšku,
 
-- ktorý je zo štúdia vylúčený.
+c) ktorý je zo štúdia vylúčený.
 
-- Ak žiakovi bolo štúdium prerušené, prestáva byť žiakom po dobu prerušenia štúdia.
+(2) Ak žiakovi bolo štúdium prerušené, prestáva byť žiakom po dobu prerušenia štúdia.
 
 ##### § 93
 
@@ -3197,13 +3233,13 @@ Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom zozna
 
 ##### § 94
 
-- Výchova a vzdelávanie detí so zdravotným znevýhodnením a žiakov so zdravotným znevýhodnením sa uskutočňuje
+(1) Výchova a vzdelávanie detí so zdravotným znevýhodnením a žiakov so zdravotným znevýhodnením sa uskutočňuje
 
-- v školách pre deti so zdravotným znevýhodnením a žiakov so zdravotným znevýhodnením; tieto školy sú špeciálne školy,
+a) v školách pre deti so zdravotným znevýhodnením a žiakov so zdravotným znevýhodnením; tieto školy sú špeciálne školy,
 
-- v ostatných školách podľa tohto zákona
+b) v ostatných školách podľa tohto zákona
 
-- v špeciálnych triedach, ktoré sa zriaďujú spravidla pre deti s rovnakým druhom zdravotného znevýhodnenia alebo žiakov s rovnakým druhom zdravotného znevýhodnenia; časť
+1. v špeciálnych triedach, ktoré sa zriaďujú spravidla pre deti s rovnakým druhom zdravotného znevýhodnenia alebo žiakov s rovnakým druhom zdravotného znevýhodnenia; časť
 
 [[END OF PAGE 72]]
 
@@ -3217,33 +3253,33 @@ Strana 73
 
 výchovno-vzdelávacieho procesu sa môže uskutočňovať v triede spoločne s ostatnými deťmi alebo žiakmi školy; niektoré vyučovacie predmety alebo činnosti môže dieťa alebo žiak absolvovať mimo špeciálnej triedy,
 
-- v triedach alebo výchovných skupinách spolu s ostatnými deťmi alebo žiakmi školy; ak je to potrebné, takéto dieťa alebo žiak je vzdelávaný podľa individuálneho vzdelávacieho programu, ktorý vypracúva škola v spolupráci so školským zariadením výchovnej prevencie a poradenstva; zákonný zástupca dieťaťa alebo žiaka má právo sa s týmto programom oboznámiť.
+2. v triedach alebo výchovných skupinách spolu s ostatnými deťmi alebo žiakmi školy; ak je to potrebné, takéto dieťa alebo žiak je vzdelávaný podľa individuálneho vzdelávacieho programu, ktorý vypracúva škola v spolupráci so školským zariadením výchovnej prevencie a poradenstva; zákonný zástupca dieťaťa alebo žiaka má právo sa s týmto programom oboznámiť.
 
 (2) Pri výchove a vzdelávaní detí so zdravotným znevýhodnením alebo žiakov so zdravotným znevýhodnením sa postupuje podľa vzdelávacích programov pre
 
-- deti a žiakov s mentálnym postihnutím,
+a) deti a žiakov s mentálnym postihnutím,
 
-- deti a žiakov so sluchovým postihnutím,
+b) deti a žiakov so sluchovým postihnutím,
 
-- deti a žiakov so zrakovým postihnutím,
+c) deti a žiakov so zrakovým postihnutím,
 
-- deti a žiakov s telesným postihnutím,
+d) deti a žiakov s telesným postihnutím,
 
-- deti a žiakov s narušenou komunikačnou schopnosťou,
+e) deti a žiakov s narušenou komunikačnou schopnosťou,
 
-- deti a žiakov s autizmom alebo ďalšími pervazívnymi vývinovými poruchami,
+f) deti a žiakov s autizmom alebo ďalšími pervazívnymi vývinovými poruchami,
 
-- deti a žiakov chorých a zdravotne oslabených,
+g) deti a žiakov chorých a zdravotne oslabených,
 
-- deti a žiakov hluchoslepých,
+h) deti a žiakov hluchoslepých,
 
-- žiakov s vývinovými poruchami učenia,
+i) žiakov s vývinovými poruchami učenia,
 
-- žiakov s poruchami aktivity a pozornosti,
+j) žiakov s poruchami aktivity a pozornosti,
 
-- deti a žiakov s viacnásobným postihnutím,
+k) deti a žiakov s viacnásobným postihnutím,
 
-- deti a žiakov s poruchami správania.
+l) deti a žiakov s poruchami správania.
 
 Vzdelávacie programy podľa písmen a) až l) sú súčasťou štátnych vzdelávacích programov.
 
@@ -3255,15 +3291,15 @@ Vzdelávacie programy podľa písmen a) až l) sú súčasťou štátnych vzdel�
 
 (1) Výchova a vzdelávanie detí so zdravotným znevýhodnením alebo žiakov so zdravotným znevýhodnením sa uskutočňuje v týchto školách:
 
-- materská škola,
+a) materská škola,
 
-- základná škola,
+b) základná škola,
 
-- stredné školy,
+c) stredné školy,
 
-- praktická škola,
+d) praktická škola,
 
-- odborné učilište.
+e) odborné učilište.
 
 (2) Základná škola, v ktorej sa uskutočňuje výchova a vzdelávanie podľa vzdelávacích programov pre deti a žiakov s mentálnym postihnutím, sa označuje špeciálna základná škola.
 
@@ -3321,11 +3357,11 @@ Strana 75
 
 (5) Základná škola podľa § 94 ods. 2 písm. a), ktorá vzdeláva žiakov s mentálnym postihnutím alebo s mentálnym postihnutím v kombinácii s iným postihnutím, sa vnútorne člení podľa stupňa mentálneho postihnutia žiakov na
 
-- variant A pre žiakov s ľahkým stupňom mentálneho postihnutia,
+a) variant A pre žiakov s ľahkým stupňom mentálneho postihnutia,
 
-- variant B pre žiakov so stredným stupňom mentálneho postihnutia,
+b) variant B pre žiakov so stredným stupňom mentálneho postihnutia,
 
-- variant C pre žiakov s ťažkým alebo hlbokým stupňom mentálneho postihnutia alebo pre žiakov s mentálnym postihnutím, ktorí majú aj iné zdravotné postihnutie, sú držiteľmi preukazu zdravotne ťažko postihnutých a nemôžu sa vzdelávať podľa variantu A alebo B.
+c) variant C pre žiakov s ťažkým alebo hlbokým stupňom mentálneho postihnutia alebo pre žiakov s mentálnym postihnutím, ktorí majú aj iné zdravotné postihnutie, sú držiteľmi preukazu zdravotne ťažko postihnutých a nemôžu sa vzdelávať podľa variantu A alebo B.
 
 (6) Základná škola podľa § 95 ods. 1 písm. b) sa spravidla zriaďuje pre najmenej desať žiakov s rovnakým zdravotným znevýhodnením a zriaďovateľ ju zruší, ak počet žiakov klesne pod osem. V odôvodnených prípadoch možno školu ponechať zriadenú aj pri nižšom počte žiakov, najmä v prípadoch, ak v nasledujúcom školskom roku je predpoklad zvýšenia počtu žiakov. Triedy podľa § 94 ods. 1 písm. a) a b) prvého bodu možno zriadiť pre najmenej štyroch žiakov a najviac desať žiakov. Riaditeľ školy môže povoliť prekročenie najvyššieho počtu žiakov v triede najviac o dvoch.
 
@@ -3441,13 +3477,13 @@ Zbierka zákonov Slovenskej republiky
 
 a) intelektového nadania detí a žiakov
 
-- všeobecného intelektového nadania,
+1. všeobecného intelektového nadania,
 
-- špecifického intelektového nadania,
+2. špecifického intelektového nadania,
 
-- umeleckého nadania detí alebo žiakov,
+b) umeleckého nadania detí alebo žiakov,
 
-- športového nadania detí alebo žiakov.
+c) športového nadania detí alebo žiakov.
 
 (2) Intelektovým nadaním detí a žiakov sa rozumie vysoko nadpriemerne rozvinuté poznávacie schopnosti v jednej alebo viacerých intelektových oblastiach. Žiaci so všeobecným intelektovým nadaním sú žiakmi so špeciálnymi výchovno-vzdelávacími potrebami na základe diagnostiky vykonanej zariadením výchovnej prevencie a poradenstva.
 
@@ -3461,27 +3497,27 @@ a) intelektového nadania detí a žiakov
 
 (7) Pre rozvíjanie nadania vytvárajú
 
-- inštitucionálne podmienky zriaďovatelia,
+a) inštitucionálne podmienky zriaďovatelia,
 
-- individuálne podmienky školy.
+b) individuálne podmienky školy.
 
 (8) Pod inštitucionálnymi podmienkami pre rozvíjanie nadania sa rozumie zriaďovanie tried alebo škôl pre deti s nadaním alebo žiakov s nadaním.
 
 (9) Individuálne podmienky pre rozvíjanie nadania sa deťom s nadaním alebo žiakom s nadaním vytvárajú tým, že sa im umožní
 
-- vzdelávať sa v predmetoch vzdelávacieho programu základnej školy v materskej škole,
+a) vzdelávať sa v predmetoch vzdelávacieho programu základnej školy v materskej škole,
 
 b) prijatie do školy pred dosiahnutím šiesteho roku veku,
 
-- rozšírené vyučovanie predmetov, v ktorých prejavujú nadanie, v základnej škole a strednej škole,
+c) rozšírené vyučovanie predmetov, v ktorých prejavujú nadanie, v základnej škole a strednej škole,
 
-- preradenie do vyššieho ročníka bez absolvovania predchádzajúceho ročníka,
+d) preradenie do vyššieho ročníka bez absolvovania predchádzajúceho ročníka,
 
-- absolvovanie viacerých ročníkov počas jedného školského roka,
+e) absolvovanie viacerých ročníkov počas jedného školského roka,
 
-- absolvovanie jedného alebo viacerých predmetov vo vyššom ročníku,
+f) absolvovanie jedného alebo viacerých predmetov vo vyššom ročníku,
 
-- získať príslušný stupeň vzdelania poskytovaného strednou školou za dobu kratšiu ako určuje vzdelávací program príslušného učebného alebo študijného odboru,
+g) získať príslušný stupeň vzdelania poskytovaného strednou školou za dobu kratšiu ako určuje vzdelávací program príslušného učebného alebo študijného odboru,
 
 [[END OF PAGE 78]]
 
@@ -3509,11 +3545,11 @@ k) diferencované vzdelávanie skupiny žiakov s nadaním v triede alebo mimo 
 
 (1) Školou pre deti s nadaním alebo žiakov s nadaním je len škola, ktorá zabezpečuje vzdelávanie týchto detí alebo žiakov vo všetkých triedach a vo všetkých ročníkoch. Pre deti s nadaním a žiakov s nadaním sa zriaďujú tieto školy:
 
-- materské školy,
+a) materské školy,
 
 b) základné školy,
 
-- stredné školy.
+c) stredné školy.
 
 (2) Triedy na rozvíjanie nadania detí alebo žiakov sa môžu zriadiť v materských školách, v základných školách a v stredných školách so súhlasom zriaďovateľa.
 
@@ -3589,19 +3625,19 @@ Strana 81
 
 Individuálnymi podmienkami sú:
 
-- úprava organizácie výchovy a vzdelávania,
+a) úprava organizácie výchovy a vzdelávania,
 
-- úprava prostredia, v ktorom sa výchova a vzdelávanie uskutočňuje, alebo
+b) úprava prostredia, v ktorom sa výchova a vzdelávanie uskutočňuje, alebo
 
-- uplatnenie špecifických metód a foriem výchovy a vzdelávania.
+c) uplatnenie špecifických metód a foriem výchovy a vzdelávania.
 
 (2) Dieťa alebo žiak, ktorého špeciálne výchovno-vzdelávacie potreby vyplývajú výlučne z jeho vývinu v sociálne znevýhodnenom prostredí, nemôže byť prijatý do špeciálnej školy alebo do špeciálnej triedy materskej školy, špeciálnej triedy základnej školy alebo do špeciálnej triedy strednej školy.
 
 (3) Deti zo sociálne znevýhodneného prostredia alebo žiaci zo sociálne znevýhodneného prostredia sa zaraďujú do triedy materskej školy, triedy základnej školy alebo do triedy strednej školy spolu s ostatnými deťmi alebo žiakmi. To neplatí, ak ide o zaradenie žiaka zo sociálne znevýhodneného prostredia, ktorý je zaradený
 
-- do nultého ročníka základnej školy s informovaným súhlasom zákonného zástupcu alebo
+a) do nultého ročníka základnej školy s informovaným súhlasom zákonného zástupcu alebo
 
-- do špecializovanej triedy podľa § 29 ods. 11.
+b) do špecializovanej triedy podľa § 29 ods. 11.
 
 ##### § 108
 
@@ -3617,9 +3653,9 @@ Individuálnymi podmienkami sú:
 
 Školy v pôsobnosti ústredných orgánov štátnej správy sú
 
-- policajné školy,
+a) policajné školy,
 
-- školy požiarnej ochrany.
+b) školy požiarnej ochrany.
 
 ##### § 110 Policajné školy
 
@@ -3627,7 +3663,7 @@ Individuálnymi podmienkami sú:
 
 (2) Policajné školy zriaďuje, riadi a zrušuje ministerstvo vnútra podľa siete policajných škôl; 63 ) vo veciach všeobecne vzdelávacích predmetov postupuje po dohode s ministerstvom školstva.
 
-- Pôsobnosť vo veciach výchovy a vzdelávania v stredných odborných školách, ktorú má
+(3) Pôsobnosť vo veciach výchovy a vzdelávania v stredných odborných školách, ktorú má
 
 [[END OF PAGE 81]]
 
@@ -3679,17 +3715,17 @@ Strana 83
 
 ##### § 112
 
-- Sústavu školských zariadení tvoria
+(1) Sústavu školských zariadení tvoria
 
-- školské výchovno-vzdelávacie zariadenia,
+a) školské výchovno-vzdelávacie zariadenia,
 
-- špeciálne výchovné zariadenia,
+b) špeciálne výchovné zariadenia,
 
-- školské zariadenia výchovného poradenstva a prevencie,
+c) školské zariadenia výchovného poradenstva a prevencie,
 
-- školské účelové zariadenia.
+d) školské účelové zariadenia.
 
-- Školské zariadenie podľa odseku 1 je právnická osoba, ak tak určí zriaďovateľ.
+(2) Školské zariadenie podľa odseku 1 je právnická osoba, ak tak určí zriaďovateľ.
 
 #### Prvý oddiel Školské výchovno-vzdelávacie zariadenia
 
@@ -3697,21 +3733,21 @@ Strana 83
 
 Školskými výchovno-vzdelávacími zariadeniami sú:
 
-- školský klub detí,
+a) školský klub detí,
 
-- centrum voľného času,
+b) centrum voľného času,
 
-- školský internát.
+c) školský internát.
 
 ##### § 114 Školský klub detí
 
 (1) Školský klub detí je súčasťou školy, ktorá zabezpečuje pre deti, ktoré plnia povinnú školskú dochádzku na základnej škole, činnosť podľa výchovného programu školského zariadenia zameranú na ich prípravu na vyučovanie a na oddych v čase mimo vyučovania a v čase školských prázdnin. Činnosť, ktorú zabezpečuje školský klub detí, nie je totožná s činnosťou zabezpečovanou centrom voľného času podľa § 116.
 
-- Školský klub detí sa člení na oddelenia spravidla podľa veku detí, pričom počet detí v oddelení určí riaditeľ školy, ktorej je školský klub detí súčasťou, pri dodržaní požiadaviek podľa osobitného predpisu; 32a ) počet detí v oddeleniach pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami je rovnaký ako v triedach, v ktorých sa vzdelávajú.
+(2) Školský klub detí sa člení na oddelenia spravidla podľa veku detí, pričom počet detí v oddelení určí riaditeľ školy, ktorej je školský klub detí súčasťou, pri dodržaní požiadaviek podľa osobitného predpisu;32a) počet detí v oddeleniach pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami je rovnaký ako v triedach, v ktorých sa vzdelávajú.
 
-- Výšku mesačného príspevku na čiastočnú úhradu nákladov spojených s činnosťou školského klubu detí, ktorého zriaďovateľom je orgán miestnej štátnej správy v školstve, určí riaditeľ školy, ak je školský klub detí jej súčasťou, na jedného žiaka v sume neprevyšujúcej 7,5 % sumy životného minima pre nezaopatrené dieťa podľa osobitného predpisu. 29 ) Tento príspevok sa uhrádza vopred do 10. dňa príslušného kalendárneho mesiaca, ktorý predchádza kalendárnemu mesiacu, za ktorý sa príspevok uhrádza. Výška príspevku na úhradu zohľadňuje náročnosť a druh klubovej alebo záujmovej činnosti.
+(3) Výšku mesačného príspevku na čiastočnú úhradu nákladov spojených s činnosťou školského klubu detí, ktorého zriaďovateľom je orgán miestnej štátnej správy v školstve, určí riaditeľ školy, ak je školský klub detí jej súčasťou, na jedného žiaka v sume neprevyšujúcej 7,5 % sumy životného minima pre nezaopatrené dieťa podľa osobitného predpisu.29) Tento príspevok sa uhrádza vopred do 10. dňa príslušného kalendárneho mesiaca, ktorý predchádza kalendárnemu mesiacu, za ktorý sa príspevok uhrádza. Výška príspevku na úhradu zohľadňuje náročnosť a druh klubovej alebo záujmovej činnosti.
 
-- Riaditeľ školy, ktorej je školský klub detí súčasťou, môže rozhodnúť o znížení alebo odpustení príspevku podľa odseku 3, ak zákonný zástupca predloží doklad o tom, že je poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi podľa osobitného predpisu. 32 )
+(4) Riaditeľ školy, ktorej je školský klub detí súčasťou, môže rozhodnúť o znížení alebo odpustení príspevku podľa odseku 3, ak zákonný zástupca predloží doklad o tom, že je poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi podľa osobitného predpisu.32)
 
 (5) Príspevok na čiastočnú úhradu nákladov spojených s hmotným zabezpečením v školskom klube detí sa neplatí za pobyt dieťaťa v školskom klube detí zriadenom orgánom štátnej správy v školstve pri zdravotníckom zariadení.
 
@@ -3793,11 +3829,11 @@ Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom spôs
 
 Špeciálnymi výchovnými zariadeniami sú:
 
-- diagnostické centrum,
+a) diagnostické centrum,
 
-- reedukačné centrum,
+b) reedukačné centrum,
 
-- liečebno-výchovné sanatórium.
+c) liečebno-výchovné sanatórium.
 
 ##### § 121 Diagnostické centrum
 
@@ -3813,29 +3849,29 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- žiadosti zákonného zástupcu dieťaťa,
+a) žiadosti zákonného zástupcu dieťaťa,
 
-- dohody so zariadením, v ktorom sa vykonáva rozhodnutie súdu, 66 )
+b) dohody so zariadením, v ktorom sa vykonáva rozhodnutie súdu,66)
 
-- neodkladného opatrenia súdu podľa osobitného predpisu, 67 )
+c) neodkladného opatrenia súdu podľa osobitného predpisu,67)
 
-- rozhodnutia súdu o uložení výchovného opatrenia. 68 )
+d) rozhodnutia súdu o uložení výchovného opatrenia.68)
 
 (2) Diagnostické centrum najmä
 
-- zabezpečuje diagnostiku deťom s narušeným alebo ohrozeným psychosociálnym vývinom s cieľom určenia ďalšej vhodnej výchovno-vzdelávacej, resocializačnej alebo reedukačnej starostlivosti,
+a) zabezpečuje diagnostiku deťom s narušeným alebo ohrozeným psychosociálnym vývinom s cieľom určenia ďalšej vhodnej výchovno-vzdelávacej, resocializačnej alebo reedukačnej starostlivosti,
 
-- poskytuje poradenské služby zariadeniam, v ktorých sa vykonáva ústavná starostlivosť alebo ochranná výchova, ak o ne požiadajú,
+b) poskytuje poradenské služby zariadeniam, v ktorých sa vykonáva ústavná starostlivosť alebo ochranná výchova, ak o ne požiadajú,
 
-- vypracúva diagnostické správy o dieťati, ktoré slúžia ako vstupný podklad zariadeniu, v ktorom sa vykonáva ústavná starostlivosť alebo ochranná výchova, na vypracovanie individuálneho reedukačného programu alebo výchovno-vzdelávacieho programu pre prácu odborníkov s deťmi mimo zariadenia, v ktorom sa vykonáva ústavná starostlivosť alebo ochranná výchova,
+c) vypracúva diagnostické správy o dieťati, ktoré slúžia ako vstupný podklad zariadeniu, v ktorom sa vykonáva ústavná starostlivosť alebo ochranná výchova, na vypracovanie individuálneho reedukačného programu alebo výchovno-vzdelávacieho programu pre prácu odborníkov s deťmi mimo zariadenia, v ktorom sa vykonáva ústavná starostlivosť alebo ochranná výchova,
 
-- vypracúva odporúčanie o umiestnení dieťaťa po ukončení pobytu v diagnostickom centre s ohľadom na možnosť prípravy na povolanie, uplatnenia na trhu práce a úpravy rodinných pomerov.
+d) vypracúva odporúčanie o umiestnení dieťaťa po ukončení pobytu v diagnostickom centre s ohľadom na možnosť prípravy na povolanie, uplatnenia na trhu práce a úpravy rodinných pomerov.
 
 (3) Pobyt dieťaťa v diagnostickom centre trvá nevyhnutne potrebný čas na stanovenie diagnostiky, spravidla dvanásť týždňov.
 
 (4) V diagnostickom centre sa zriaďuje záchytné oddelenie. V záchytnom oddelení riaditeľ umiestni dieťa pohybujúce sa nepovolene mimo zariadenia, do ktorého bolo umiestnené podľa odseku 1 a § 122 ods. 2. O umiestnení detí v záchytnom oddelení sa vyhotoví písomný záznam a bezodkladne sa táto skutočnosť oznámi zariadeniu, v ktorom je dieťa umiestnené, príslušnému orgánu sociálnoprávnej ochrany detí a sociálnej kurately a zákonnému zástupcovi. Ak si do 24 hodín príslušné zariadenie alebo zákonný zástupca dieťa neprevezme, riaditeľ diagnostického centra zabezpečí odovzdanie dieťaťa príslušnému zariadeniu alebo jeho zákonnému zástupcovi na náklady prijímajúcej strany. Do odovzdania je dieťa zaradené do diagnostickej skupiny diagnostického centra.
 
-- Súčasťou záchytného oddelenia je karanténna miestnosť.
+(5) Súčasťou záchytného oddelenia je karanténna miestnosť.
 
 (6) Základnou organizačnou jednotkou diagnostického centra je diagnostická skupina, ktorá sa zriadi pre najviac osem detí a zriaďovateľ ju zruší, ak je ich počet menší ako štyri; v odôvodnených prípadoch sa môže diagnostická skupina ponechať aj pri nižšom počte detí.
 
@@ -3843,9 +3879,9 @@ Zbierka zákonov Slovenskej republiky
 
 (8) Diagnostické centrum sa podľa vnútornej organizácie môže diferencovať na
 
-- diagnostické centrum pre deti do 15. roku veku,
+a) diagnostické centrum pre deti do 15. roku veku,
 
-- diagnostické centrum pre deti od 15. rokov veku.
+b) diagnostické centrum pre deti od 15. rokov veku.
 
 Do diagnostických centier sa spravidla prijímajú deti obidvoch pohlaví.
 
@@ -3867,25 +3903,25 @@ Strana 87
 
 (2) Do reedukačného centra sa prijímajú deti na základe
 
-- žiadosti zákonného zástupcu,
+a) žiadosti zákonného zástupcu,
 
-- dohody so zariadením, v ktorom sa vykonáva rozhodnutie súdu, 66 )
+b) dohody so zariadením, v ktorom sa vykonáva rozhodnutie súdu,66)
 
-- neodkladného opatrenia súdu podľa osobitného predpisu, 67 )
+c) neodkladného opatrenia súdu podľa osobitného predpisu,67)
 
-- rozhodnutia súdu o uložení ochrannej výchovy, 69 )
+d) rozhodnutia súdu o uložení ochrannej výchovy,69)
 
-- rozhodnutia súdu o uložení výchovného opatrenia, 68 )
+e) rozhodnutia súdu o uložení výchovného opatrenia,68)
 
-- rozhodnutia súdu o nariadení ústavnej starostlivosti. 1 )
+f) rozhodnutia súdu o nariadení ústavnej starostlivosti.1)
 
-- Reedukačné centrá sa podľa vnútornej organizácie môžu diferencovať na
+(3) Reedukačné centrá sa podľa vnútornej organizácie môžu diferencovať na
 
-- reedukačné centrá pre deti do 15. rokov veku, prípadne do ukončenia povinnej školskej dochádzky v základnej škole,
+a) reedukačné centrá pre deti do 15. rokov veku, prípadne do ukončenia povinnej školskej dochádzky v základnej škole,
 
-- reedukačné centrá pre deti od 15. rokov veku,
+b) reedukačné centrá pre deti od 15. rokov veku,
 
-- reedukačné centrá pre deti do ukončenia ich prípravy na povolanie.
+c) reedukačné centrá pre deti do ukončenia ich prípravy na povolanie.
 
 Do reedukačných centier sa spravidla prijímajú deti oboch pohlaví.
 
@@ -3895,23 +3931,23 @@ Do reedukačných centier sa spravidla prijímajú deti oboch pohlaví.
 
 (6) V reedukačnom centre sa môžu zriaďovať podľa potreby oddelenia
 
-- pre deti vyžadujúce zvýšenú starostlivosť,
+a) pre deti vyžadujúce zvýšenú starostlivosť,
 
-- s ochranným režimom,
+b) s ochranným režimom,
 
-- s otvoreným režimom,
+c) s otvoreným režimom,
 
-- pre maloleté matky s deťmi.
+d) pre maloleté matky s deťmi.
 
 (7) Ak sa reedukačné centrum zriadi tak, že sa vo všetkých výchovných skupinách bude postupovať podľa individuálnych reedukačných programov pre niektoré z oddelení podľa odseku 6, označuje sa ako
 
-- reedukačné centrum pre deti vyžadujúce zvýšenú starostlivosť,
+a) reedukačné centrum pre deti vyžadujúce zvýšenú starostlivosť,
 
-- reedukačné centrum s ochranným režimom,
+b) reedukačné centrum s ochranným režimom,
 
-- reedukačné centrum s otvoreným režimom,
+c) reedukačné centrum s otvoreným režimom,
 
-- reedukačné centrum pre matky s deťmi.
+d) reedukačné centrum pre matky s deťmi.
 
 (8) Oddelenie podľa odseku 6 písm. a) poskytuje starostlivosť deťom, ktorých zdravotné znevýhodnenie podľa § 2 písm. k) si vyžaduje zvýšenú starostlivosť.
 
@@ -3935,37 +3971,37 @@ Zbierka zákonov Slovenskej republiky
 
 (1) Liečebno-výchovné sanatórium poskytuje psychologickú, psychoterapeutickú starostlivosť a výchovu a vzdelávanie deťom s vývinovou poruchou učenia a deťom s poruchami aktivity a pozornosti, u ktorých ambulantná starostlivosť neviedla k náprave, na základe
 
-- žiadosti zákonného zástupcu dieťaťa,
+a) žiadosti zákonného zástupcu dieťaťa,
 
-- dohody so zariadením, v ktorom sa vykonáva rozhodnutie súdu, 66 )
+b) dohody so zariadením, v ktorom sa vykonáva rozhodnutie súdu,66)
 
-- právoplatného rozhodnutia súdu o uložení výchovného opatrenia, 68 )
+c) právoplatného rozhodnutia súdu o uložení výchovného opatrenia,68)
 
-- právoplatného rozhodnutia súdu alebo príslušného orgánu sociálnoprávnej ochrany detí a sociálnej kurately o uložení výchovného opatrenia, ak ide o denné zariadenie. 70 )
+d) právoplatného rozhodnutia súdu alebo príslušného orgánu sociálnoprávnej ochrany detí a sociálnej kurately o uložení výchovného opatrenia, ak ide o denné zariadenie.70)
 
-- Základnou organizačnou jednotkou liečebno-výchovného sanatória je výchovná skupina, ktorá sa zriaďuje pre najviac osem detí.
+(2) Základnou organizačnou jednotkou liečebno-výchovného sanatória je výchovná skupina, ktorá sa zriaďuje pre najviac osem detí.
 
-- Liečebno-výchovné sanatórium sa zriaďuje ako denné alebo internátne zariadenie s celoročnou prevádzkou spravidla pre najviac šesť výchovných skupín.
+(3) Liečebno-výchovné sanatórium sa zriaďuje ako denné alebo internátne zariadenie s celoročnou prevádzkou spravidla pre najviac šesť výchovných skupín.
 
-- Pobyt dieťaťa v liečebno-výchovnom sanatóriu trvá spravidla tri až dvanásť mesiacov.
+(4) Pobyt dieťaťa v liečebno-výchovnom sanatóriu trvá spravidla tri až dvanásť mesiacov.
 
 (5) Liečebno-výchovné sanatórium poskytuje odborné služby a pomoc formou individuálnych alebo skupinových stretnutí aj zákonným zástupcom dieťaťa s cieľom aktívne ich zapojiť do liečebno-výchovného procesu.
 
 ##### § 124 Zdravotná starostlivosť v špeciálnych výchovných zariadeniach
 
-- Zariadenia uvedené v § 120 môžu okrem poskytovania výchovno-vzdelávacej činnosti
+(1) Zariadenia uvedené v § 120 môžu okrem poskytovania výchovno-vzdelávacej činnosti
 
-- vytvárať organizačné a iné podmienky na poskytovanie zdravotnej starostlivosti 71 ) a
+a) vytvárať organizačné a iné podmienky na poskytovanie zdravotnej starostlivosti71) a
 
-- poskytovať v zariadení zdravotnú starostlivosť podľa odsekov 2 až 5.
+b) poskytovať v zariadení zdravotnú starostlivosť podľa odsekov 2 až 5.
 
 (2) V zariadeniach podľa § 120 možno poskytovať zdravotnú starostlivosť, ak fyzická osoba alebo právnická osoba prevádzkujúca zariadenie
 
-- získala povolenie na prevádzkovanie zdravotníckeho zariadenia podľa osobitného predpisu 72 ) alebo
+a) získala povolenie na prevádzkovanie zdravotníckeho zariadenia podľa osobitného predpisu72) alebo
 
-- uzatvorila zmluvný vzťah s fyzickou osobou alebo právnickou osobou, ktorá je držiteľom povolenia na prevádzkovanie zdravotníckeho zariadenia podľa osobitného predpisu, 72 ) alebo
+b) uzatvorila zmluvný vzťah s fyzickou osobou alebo právnickou osobou, ktorá je držiteľom povolenia na prevádzkovanie zdravotníckeho zariadenia podľa osobitného predpisu,72) alebo
 
-- uzatvorila zmluvný vzťah s fyzickou osobou, ktorá je držiteľom licencie na výkon samostatnej
+c) uzatvorila zmluvný vzťah s fyzickou osobou, ktorá je držiteľom licencie na výkon samostatnej
 
 [[END OF PAGE 88]]
 
@@ -3979,7 +4015,7 @@ Strana 89
 
 praxe podľa osobitného predpisu, 73 ) alebo
 
-- zamestnáva v pracovnoprávnom vzťahu alebo obdobnom pracovnom vzťahu 74 ) zdravotníckych pracovníkov spĺňajúcich podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu. 75 )
+d) zamestnáva v pracovnoprávnom vzťahu alebo obdobnom pracovnom vzťahu74) zdravotníckych pracovníkov spĺňajúcich podmienky na výkon zdravotníckeho povolania podľa osobitného predpisu.75)
 
 (3) Minimálne požiadavky na personálne zabezpečenie, materiálno-technické vybavenie pre poskytovanie zdravotnej starostlivosti vykonávanej v zariadení podľa odseku 2 písm. d) ustanoví všeobecne záväzný právny predpis, ktorý vydá ministerstvo zdravotníctva po dohode s ministerstvom školstva.
 
@@ -3989,29 +4025,29 @@ praxe podľa osobitného predpisu, 73 ) alebo
 
 ##### § 125 Výchovné opatrenia a ochranné opatrenia v špeciálnych výchovných zariadeniach
 
-(1) V špeciálnych výchovných zariadeniach možno v záujme odstránenia porúch v psychosociálnom vývine dieťaťa a v záujme odstránenia príčin, pre ktoré bola dieťaťu nariadená ústavná starostlivosť alebo uložená ochranná výchova, alebo dieťa umiestnené v špeciálnom výchovnom zariadení na základe žiadosti zákonného zástupcu (ďalej len 'dobrovoľný pobyt') použiť
+(1) V špeciálnych výchovných zariadeniach možno v záujme odstránenia porúch v psychosociálnom vývine dieťaťa a v záujme odstránenia príčin, pre ktoré bola dieťaťu nariadená ústavná starostlivosť alebo uložená ochranná výchova, alebo dieťa umiestnené v špeciálnom výchovnom zariadení na základe žiadosti zákonného zástupcu (ďalej len „dobrovoľný pobyt“) použiť
 
-- výchovné opatrenia podľa odsekov 2 až 4 so zameraním na motiváciu dieťaťa zlepšovať svoje správanie,
+a) výchovné opatrenia podľa odsekov 2 až 4 so zameraním na motiváciu dieťaťa zlepšovať svoje správanie,
 
-- ochranné opatrenia podľa odsekov 5 a 6 zamerané na predchádzanie ohrozeniu zdravia dieťaťa jeho nevhodným správaním.
+b) ochranné opatrenia podľa odsekov 5 a 6 zamerané na predchádzanie ohrozeniu zdravia dieťaťa jeho nevhodným správaním.
 
 (2) Dieťa má právo udržiavať styk s oboma rodičmi alebo inými zákonnými zástupcami. Ak je to v záujme dieťaťa, zariadenie môže určiť podmienky styku a to tak, že dieťa sa môže stretávať
 
-- len za prítomnosti pedagogického zamestnanca alebo ďalšieho odborného zamestnanca,
+a) len za prítomnosti pedagogického zamestnanca alebo ďalšieho odborného zamestnanca,
 
-- na určenom mieste v priestoroch zariadenia,
+b) na určenom mieste v priestoroch zariadenia,
 
-- na území obce, v ktorej má zariadenie sídlo.
+c) na území obce, v ktorej má zariadenie sídlo.
 
 (3) Ak je to v záujme dieťaťa, má právo stretávať sa s inými osobami ako rodičmi po súhlase príslušného orgánu sociálnoprávnej ochrany detí a sociálnej kurately za podmienok ustanovených v odseku 2; v prípade dieťaťa umiestneného na základe žiadosti zákonného zástupcu po súhlase jeho rodiča alebo iného zákonného zástupcu.
 
 (4) Zariadenie môže povoliť dieťaťu
 
-- tráviť voľný čas mimo zariadenia bez prítomnosti pedagogického zamestnanca, zákonného zástupcu alebo inej poverenej osoby,
+a) tráviť voľný čas mimo zariadenia bez prítomnosti pedagogického zamestnanca, zákonného zástupcu alebo inej poverenej osoby,
 
-- pobyt mimo zariadenia v mieste bydliska zákonného zástupcu na určitý čas, a to najmä v čase školských prázdnin, a po vyjadrení príslušného orgánu sociálnoprávnej ochrany detí a sociálnej kurately; toto ustanovenie sa nevzťahuje na dieťa umiestnené na základe žiadosti zákonného zástupcu.
+b) pobyt mimo zariadenia v mieste bydliska zákonného zástupcu na určitý čas, a to najmä v čase školských prázdnin, a po vyjadrení príslušného orgánu sociálnoprávnej ochrany detí a sociálnej kurately; toto ustanovenie sa nevzťahuje na dieťa umiestnené na základe žiadosti zákonného zástupcu.
 
-- Ak dieťa svojím správaním ohrozuje zdravie a život seba alebo iných osôb alebo môže svojím
+(5) Ak dieťa svojím správaním ohrozuje zdravie a život seba alebo iných osôb alebo môže svojím
 
 [[END OF PAGE 89]]
 
@@ -4025,15 +4061,15 @@ Zbierka zákonov Slovenskej republiky
 
 správaním spôsobiť psychickú alebo fyzickú ujmu sebe alebo iným osobám, zariadenie môže použiť ochranné opatrenia, ktorými sú:
 
-- vykonanie kontroly obsahu doručeného balíka za prítomnosti dieťaťa; opakované kontroly balíka musia byť odôvodnené v osobnom spise dieťaťa,
+a) vykonanie kontroly obsahu doručeného balíka za prítomnosti dieťaťa; opakované kontroly balíka musia byť odôvodnené v osobnom spise dieťaťa,
 
-- prevzatie a uloženie do úschovy tých predmetov dieťaťa, ktoré nie sú vnútorným poriadkom zariadenia povolené,
+b) prevzatie a uloženie do úschovy tých predmetov dieťaťa, ktoré nie sú vnútorným poriadkom zariadenia povolené,
 
-- prevzatie so súhlasom zákonného zástupcu dieťaťa do úschovy cennosti a sumy peňazí, ktoré prevyšujú hodnotu určenú vnútorným poriadkom zariadenia,
+c) prevzatie so súhlasom zákonného zástupcu dieťaťa do úschovy cennosti a sumy peňazí, ktoré prevyšujú hodnotu určenú vnútorným poriadkom zariadenia,
 
-- neodkladné privolanie zdravotnej pomoci, 45 )
+d) neodkladné privolanie zdravotnej pomoci,45)
 
-- privolanie Policajného zboru. 46 )
+e) privolanie Policajného zboru.46)
 
 (6) V záujme dieťaťa a jeho ochrany alebo v záujme ochrany iných osôb na odporúčanie psychológa môže riaditeľ zariadenia, v ktorom sa vykonáva rozhodnutie súdu, umiestniť dieťa na určitý čas do karanténnej miestnosti alebo ochrannej miestnosti, najviac však na 24 hodín, najmenej s jednou hodinou pobytu denne na čerstvom vzduchu mimo tejto miestnosti, alebo do príchodu zdravotnej pomoci alebo Policajného zboru.
 
@@ -4045,7 +4081,7 @@ správaním spôsobiť psychickú alebo fyzickú ujmu sebe alebo iným osobám, 
 
 (1) Mesačnú úhradu nákladov za pobyt dieťaťa v špeciálnom výchovnom zariadení tvorí 30-násobok dennej sadzby za stravovanie dieťaťa za dni, počas ktorých bolo umiestnené v špeciálnom výchovnom zariadení; v diagnostickom centre a reedukačnom centre aj úhrada za mesačné vreckové dieťaťa podľa § 127 ods. 2.
 
-(2) Mesačnú úhradu nákladov za pobyt dieťaťa v zariadeniach podľa odseku 1 je povinný platiť zákonný zástupca alebo fyzická osoba, ktorá má voči dieťaťu vyživovaciu povinnosť (ďalej len 'povinný'). Úhradu nákladov platí povinný na účet zariadenia do 15. dňa nasledujúceho mesiaca.
+(2) Mesačnú úhradu nákladov za pobyt dieťaťa v zariadeniach podľa odseku 1 je povinný platiť zákonný zástupca alebo fyzická osoba, ktorá má voči dieťaťu vyživovaciu povinnosť (ďalej len „povinný“). Úhradu nákladov platí povinný na účet zariadenia do 15. dňa nasledujúceho mesiaca.
 
 (3) Povinný neplatí úhrady za pobyt dieťaťa v zariadení podľa odseku 1, ak jeho príjem a príjem osôb, ktorých príjmy sa spoločne posudzujú, je nižší alebo sa rovná sume životného minima ustanoveného osobitným predpisom. 62 )
 
@@ -4093,7 +4129,7 @@ Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom podro
 
 (1) V školských zariadeniach výchovného poradenstva a prevencie sa vykonáva najmä psychologická, 79 ) pedagogická, špeciálnopedagogická vrátane logopedickej a liečebnopedagogickej činnosti a sociálna činnosť zameraná na optimalizáciu výchovného, vzdelávacieho, psychického, sociálneho a kariérového vývinu detí od narodenia až po ukončenie prípravy na povolanie. Osobitnú starostlivosť venujú deťom so špeciálnymi výchovno-vzdelávacími potrebami. Poradenské služby poskytujú aj zákonným zástupcom detí a pedagogickým zamestnancom.
 
-(2) Základnými zložkami systému výchovného poradenstva a prevencie sú zariadenia výchovného, psychologického a špeciálnopedagogického poradenstva a prevencie (ďalej len 'poradenské zariadenie'), ktorých súčasťou je
+(2) Základnými zložkami systému výchovného poradenstva a prevencie sú zariadenia výchovného, psychologického a špeciálnopedagogického poradenstva a prevencie (ďalej len „poradenské zariadenie“), ktorých súčasťou je
 
 a) centrum pedagogicko-psychologického poradenstva a prevencie,
 
@@ -4109,7 +4145,23 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-(4) Jednotlivé zložky systému výchovného poradenstva a prevencie podľa odsekov 2 a 3 spolupracujú najmä s rodinou, školou, školským zariadením, zamestnávateľmi, orgánmi verejnej správy a občianskymi združeniami. Zložky systému výchovného poradenstva a prevencie sú
+(3) K ďalším zložkám systému výchovného poradenstva a prevencie patrí
+
+a) výchovný poradca,
+
+b) kariérový poradca,
+
+c) školský psychológ,
+
+d) školský špeciálny pedagóg,
+
+e) liečebný pedagóg,
+
+f) sociálny pedagóg,
+
+g) koordinátor prevencie.
+
+(4) Jednotlivé zložky systému výchovného poradenstva a prevencie podľa odsekov 2 a 3 spolupracujú najmä s rodinou, školou, školským zariadením, zamestnávateľmi, orgánmi verejnej správy a občianskymi združeniami. Zložky systému výchovného poradenstva a prevencie sú organizačne a obsahovo prepojené.
 
 (5) Výchovný poradca, psychológ alebo školský psychológ, školský špeciálny pedagóg, liečebný pedagóg, sociálny pedagóg a koordinátor prevencie vykonávajú svoju činnosť v školách podľa § 27 ods. 2 písm. a) až g) alebo v školských zariadeniach podľa § 117, 120 a odseku 2.
 
@@ -4117,7 +4169,17 @@ Zbierka zákonov Slovenskej republiky
 
 (7) Poradenské zariadenia uvedené v odseku 2 metodicky usmerňujú činnosť ďalších zložiek systému výchovného poradenstva v školách podľa § 27 ods. 2 písm. a) až g) alebo v školských zariadeniach podľa § 117 a 120 v členení určenom poradenským zariadením podľa odseku 2.
 
-(3) K ďalším zložkám systému výchovného poradenstva a prevencie patrí a) výchovný poradca, b) kariérový poradca, c) školský psychológ, d) školský špeciálny pedagóg, e) liečebný pedagóg, f) sociálny pedagóg, g) koordinátor prevencie. organizačne a obsahovo prepojené. (8) Poradenské zariadenie uvedené v odseku 2 vykonáva činnosti a) diagnostické, b) poradenské, c) terapeutické, d) preventívne, e) rehabilitačné.
+(8) Poradenské zariadenie uvedené v odseku 2 vykonáva činnosti
+
+a) diagnostické,
+
+b) poradenské,
+
+c) terapeutické,
+
+d) preventívne,
+
+e) rehabilitačné.
 
 (9) Poradenské zariadenie možno zriadiť pri najmenšom počte troch odborných zamestnancov.
 
@@ -4139,45 +4201,45 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 93
 
-- skúmanie, výklad, ovplyvňovanie a prognostické hodnotenie správania detí alebo ich skupín psychologickými metódami, technikami a postupmi zodpovedajúcimi súčasným poznatkom psychologických vied a stavu praxe,
+a) skúmanie, výklad, ovplyvňovanie a prognostické hodnotenie správania detí alebo ich skupín psychologickými metódami, technikami a postupmi zodpovedajúcimi súčasným poznatkom psychologických vied a stavu praxe,
 
-- psychologické poradenstvo v školských, výchovných, preventívnych a poradenských zariadeniach,
+b) psychologické poradenstvo v školských, výchovných, preventívnych a poradenských zariadeniach,
 
-- psychoterapiu v školských, výchovných, preventívnych a poradenských zariadeniach,
+c) psychoterapiu v školských, výchovných, preventívnych a poradenských zariadeniach,
 
-- používanie psychodiagnostických metód a testov v podmienkach školských, výchovných, preventívnych a poradenských zariadeniach.
+d) používanie psychodiagnostických metód a testov v podmienkach školských, výchovných, preventívnych a poradenských zariadeniach.
 
 (2) Špeciálnopedagogickú činnosť v školách podľa § 27 ods. 2 písm. a) až g) a školských zariadeniach podľa § 117, 120 a 130 vykonáva špeciálny pedagóg. Špeciálny pedagóg, vykonávajúci činnosť najmä mimo poradenského zariadenia, je terénny špeciálny pedagóg.
 
 (3) Špeciálnopedagogická činnosť je zameraná najmä na
 
-- špeciálnopedagogické pôsobenie na zvyšovanie úrovne výchovného a vzdelávacieho prospievania detí špeciálnopedagogickými metódami, technikami a postupmi zodpovedajúcimi súčasným poznatkom pedagogických vied a stavu praxe a jej hodnotenie,
+a) špeciálnopedagogické pôsobenie na zvyšovanie úrovne výchovného a vzdelávacieho prospievania detí špeciálnopedagogickými metódami, technikami a postupmi zodpovedajúcimi súčasným poznatkom pedagogických vied a stavu praxe a jej hodnotenie,
 
-- používanie špeciálnopedagogických diagnostických metód,
+b) používanie špeciálnopedagogických diagnostických metód,
 
-- špeciálnopedagogické korektívne a reedukačné postupy.
+c) špeciálnopedagogické korektívne a reedukačné postupy.
 
 (4) Sociálna činnosť je zameraná najmä na
 
-- sledovanie a hodnotenie správania detí metódami, technikami a postupmi zodpovedajúcimi súčasným poznatkom sociálnej pedagogiky a stavu praxe,
+a) sledovanie a hodnotenie správania detí metódami, technikami a postupmi zodpovedajúcimi súčasným poznatkom sociálnej pedagogiky a stavu praxe,
 
-- sociálne poradenstvo,
+b) sociálne poradenstvo,
 
-- socioterapiu,
+c) socioterapiu,
 
-- používanie diagnostických metód sociálnej pedagogiky.
+d) používanie diagnostických metód sociálnej pedagogiky.
 
 (5) Kariérové poradenstvo je zamerané najmä na zosúlaďovanie kariérového vývinu žiaka s jeho individuálnymi predpokladmi a záujmami a potrebami trhu práce.
 
-- Kariérové poradenstvo sa vykonáva najmä
+(6) Kariérové poradenstvo sa vykonáva najmä
 
-- diagnostickou činnosťou na zisťovanie individuálnych predpokladov žiaka dôležitých pre kariérový vývin,
+a) diagnostickou činnosťou na zisťovanie individuálnych predpokladov žiaka dôležitých pre kariérový vývin,
 
-- výchovnou činnosťou zameranou na usmerňovanie kariérového vývinu žiaka a rozvoj zručnosti pre riadenie vlastnej kariéry,
+b) výchovnou činnosťou zameranou na usmerňovanie kariérového vývinu žiaka a rozvoj zručnosti pre riadenie vlastnej kariéry,
 
-- poradenskou a informačnou činnosťou pre žiaka, zákonného zástupcu a zástupcu zariadenia,
+c) poradenskou a informačnou činnosťou pre žiaka, zákonného zástupcu a zástupcu zariadenia,
 
-- koordinačnou činnosťou pri poskytovaní a výmene informácií medzi žiakom, rodičom, zástupcom zariadenia, strednou školou a vysokou školou o potrebách trhu práce.
+d) koordinačnou činnosťou pri poskytovaní a výmene informácií medzi žiakom, rodičom, zástupcom zariadenia, strednou školou a vysokou školou o potrebách trhu práce.
 
 ##### § 132 Centrum pedagogicko-psychologického poradenstva a prevencie
 
@@ -4199,27 +4261,27 @@ Zbierka zákonov Slovenskej republiky
 
 (4) Centrum pedagogicko-psychologického poradenstva a prevencie vykonáva okrem činností uvedených v § 130 ods. 8 aj činnosti
 
-- preventívno-výchovné a odborno-preventívne,
+a) preventívno-výchovné a odborno-preventívne,
 
-- metodicko-odborné,
+b) metodicko-odborné,
 
-- tvorbu preventívnych programov.
+c) tvorbu preventívnych programov.
 
 (5) Centrum pedagogicko-psychologického poradenstva a prevencie sa môže členiť na oddelenia
 
-- poradenstva osobnostného vývinu,
+a) poradenstva osobnostného vývinu,
 
-- poradenstva vzdelávacieho vývinu,
+b) poradenstva vzdelávacieho vývinu,
 
-- poradenstva sociálneho vývinu a prevencie,
+c) poradenstva sociálneho vývinu a prevencie,
 
-- poradenstva v kariérovom vývine,
+d) poradenstva v kariérovom vývine,
 
-- psychoterapie,
+e) psychoterapie,
 
-- metodiky výchovného poradenstva,
+f) metodiky výchovného poradenstva,
 
-- špeciálnopedagogického poradenstva.
+g) špeciálnopedagogického poradenstva.
 
 (6) Oddelenia možno podľa špecifických regionálnych podmienok a personálneho zabezpečenia zlučovať.
 
@@ -4281,14 +4343,6 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-Školské účelové zariadenia sú:
-
-- škola v prírode,
-
-- zariadenia školského stravovania,
-
-- stredisko služieb škole.
-
 ##### § 136
 
 Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom spôsob organizácie poradenských zariadení, personálneho a materiálno-technického zabezpečenia a vytvárania ďalších pracovísk.
@@ -4296,6 +4350,14 @@ Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom spôs
 #### Štvrtý oddiel Školské účelové zariadenia
 
 ##### § 137
+
+Školské účelové zariadenia sú:
+
+a) škola v prírode,
+
+b) zariadenia školského stravovania,
+
+c) stredisko služieb škole.
 
 ##### § 138 Škola v prírode
 
@@ -4317,7 +4379,7 @@ Ministerstvo školstva ustanoví všeobecne záväzným právnym predpisom spôs
 
 (2) Zariadenia školského stravovania sú:
 
-- školská jedáleň,
+a) školská jedáleň,
 
 b) výdajná školská jedáleň.
 
@@ -4399,7 +4461,7 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 99
 
-- Ministerstvo školstva zverejní na svojej internetovej stránke finančné pásma určujúce rozpätie nákladov na nákup potravín na jedno jedlo podľa vekových kategórií stravníkov.
+(9) Ministerstvo školstva zverejní na svojej internetovej stránke finančné pásma určujúce rozpätie nákladov na nákup potravín na jedno jedlo podľa vekových kategórií stravníkov.
 
 ##### § 142
 
@@ -4411,39 +4473,39 @@ Zriaďovateľ je povinný znížiť úhradu zákonného zástupcu dieťaťa v z
 
 ##### § 143 Stredisko služieb škole
 
-- Stredisko služieb škole poskytuje odbornú, technickú, metodickú a materiálnu pomoc školám a školským zariadeniam pri zabezpečovaní ich prevádzky.
+(1) Stredisko služieb škole poskytuje odbornú, technickú, metodickú a materiálnu pomoc školám a školským zariadeniam pri zabezpečovaní ich prevádzky.
 
-- Stredisko služieb škole poskytuje investorské a dodávateľské služby školám a školským zariadeniam vo svojej pôsobnosti, ktoré o to požiadajú.
+(2) Stredisko služieb škole poskytuje investorské a dodávateľské služby školám a školským zariadeniam vo svojej pôsobnosti, ktoré o to požiadajú.
 
 ### DESIATA ČASŤ SPOLOČNÉ USTANOVENIA
 
 ##### § 144 Práva a povinnosti dieťaťa, žiaka a jeho zákonného zástupcu alebo zástupcu zariadenia
 
-- Dieťa alebo žiak má právo na
+(1) Dieťa alebo žiak má právo na
 
-- rovnoprávny prístup ku vzdelávaniu,
+a) rovnoprávny prístup ku vzdelávaniu,
 
-- bezplatné vzdelanie v základných školách a v stredných školách, 80 )
+b) bezplatné vzdelanie v základných školách a v stredných školách,80)
 
-- bezplatné vzdelanie pre päťročné deti pred začiatkom plnenia povinnej školskej dochádzky v materských školách,
+c) bezplatné vzdelanie pre päťročné deti pred začiatkom plnenia povinnej školskej dochádzky v materských školách,
 
-- vzdelanie v štátnom jazyku a materinskom jazyku v rozsahu ustanovenom týmto zákonom,
+d) vzdelanie v štátnom jazyku a materinskom jazyku v rozsahu ustanovenom týmto zákonom,
 
-- individuálny prístup rešpektujúci jeho schopnosti a možnosti, nadanie a zdravotný stav v rozsahu ustanovenom týmto zákonom,
+e) individuálny prístup rešpektujúci jeho schopnosti a možnosti, nadanie a zdravotný stav v rozsahu ustanovenom týmto zákonom,
 
-- bezplatné zapožičiavanie učebníc a učebných textov na povinné vyučovacie predmety,
+f) bezplatné zapožičiavanie učebníc a učebných textov na povinné vyučovacie predmety,
 
-- úctu k jeho vierovyznaniu, svetonázoru, národnostnej a etnickej príslušnosti,
+g) úctu k jeho vierovyznaniu, svetonázoru, národnostnej a etnickej príslušnosti,
 
-- poskytovanie poradenstva a služieb spojených s výchovou a vzdelávaním,
+h) poskytovanie poradenstva a služieb spojených s výchovou a vzdelávaním,
 
-- výchovu a vzdelávanie v bezpečnom a hygienicky vyhovujúcom prostredí,
+i) výchovu a vzdelávanie v bezpečnom a hygienicky vyhovujúcom prostredí,
 
-- organizáciu výchovy a vzdelávania primeranú jeho veku, schopnostiam, záujmom, zdravotnému stavu a v súlade so zásadami psychohygieny,
+j) organizáciu výchovy a vzdelávania primeranú jeho veku, schopnostiam, záujmom, zdravotnému stavu a v súlade so zásadami psychohygieny,
 
-- úctu k svojej osobe a na zabezpečenie ochrany proti fyzickému, psychickému a sexuálnemu násiliu,
+k) úctu k svojej osobe a na zabezpečenie ochrany proti fyzickému, psychickému a sexuálnemu násiliu,
 
-- na slobodnú voľbu voliteľných a nepovinných predmetov v súlade so svojimi možnosťami,
+l) na slobodnú voľbu voliteľných a nepovinných predmetov v súlade so svojimi možnosťami,
 
 [[END OF PAGE 99]]
 
@@ -4457,11 +4519,11 @@ Zbierka zákonov Slovenskej republiky
 
 záujmami a záľubami v rozsahu ustanovenom vzdelávacím programom,
 
-- na informácie týkajúce sa jeho osoby a jeho výchovno-vzdelávacích výsledkov,
+m) na informácie týkajúce sa jeho osoby a jeho výchovno-vzdelávacích výsledkov,
 
-- na individuálne vzdelávanie za podmienok ustanovených týmto zákonom podľa § 24,
+n) na individuálne vzdelávanie za podmienok ustanovených týmto zákonom podľa § 24,
 
-- náhradu škody, ktorá mu vznikla pri výchove a vzdelávaní alebo v priamej súvislosti s nimi; toto ustanovenie sa nevzťahuje na škodu podľa osobitného predpisu. 80a )
+o) náhradu škody, ktorá mu vznikla pri výchove a vzdelávaní alebo v priamej súvislosti s nimi; toto ustanovenie sa nevzťahuje na škodu podľa osobitného predpisu.80a)
 
 (2) Dieťa so špeciálnymi výchovno-vzdelávacími potrebami alebo žiak so špeciálnymi výchovno-vzdelávacími potrebami má právo na výchovu a vzdelávanie s využitím špecifických foriem a metód, ktoré zodpovedajú jeho potrebám, a na vytvorenie nevyhnutných podmienok, ktoré túto výchovu a vzdelávanie umožňujú.
 
@@ -4469,31 +4531,31 @@ záujmami a záľubami v rozsahu ustanovenom vzdelávacím programom,
 
 (4) Dieťa alebo žiak je povinný
 
-- neobmedzovať svojím konaním práva ostatných osôb zúčastňujúcich sa výchovy a vzdelávania,
+a) neobmedzovať svojím konaním práva ostatných osôb zúčastňujúcich sa výchovy a vzdelávania,
 
-- dodržiavať školský poriadok školy a ďalšie vnútorné predpisy školy alebo školského zariadenia,
+b) dodržiavať školský poriadok školy a ďalšie vnútorné predpisy školy alebo školského zariadenia,
 
-- chrániť pred poškodením majetok školy alebo školského zariadenia a majetok, ktorý škola alebo školské zariadenie využíva na výchovu a vzdelávanie,
+c) chrániť pred poškodením majetok školy alebo školského zariadenia a majetok, ktorý škola alebo školské zariadenie využíva na výchovu a vzdelávanie,
 
-- chrániť pred poškodením učebnice, učebné texty a učebné pomôcky, ktoré im boli bezplatne zapožičané,
+d) chrániť pred poškodením učebnice, učebné texty a učebné pomôcky, ktoré im boli bezplatne zapožičané,
 
-- pravidelne sa zúčastňovať na výchove a vzdelávaní a riadne sa vzdelávať, ak tento zákon neustanovuje inak,
+e) pravidelne sa zúčastňovať na výchove a vzdelávaní a riadne sa vzdelávať, ak tento zákon neustanovuje inak,
 
-- konať tak, aby neohrozoval svoje zdravie a bezpečnosť, ako aj zdravie a bezpečnosť ďalších osôb zúčastňujúcich sa na výchove a vzdelávaní,
+f) konať tak, aby neohrozoval svoje zdravie a bezpečnosť, ako aj zdravie a bezpečnosť ďalších osôb zúčastňujúcich sa na výchove a vzdelávaní,
 
-- ctiť si ľudskú dôstojnosť svojich spolužiakov a zamestnancov školy alebo školského zariadenia,
+g) ctiť si ľudskú dôstojnosť svojich spolužiakov a zamestnancov školy alebo školského zariadenia,
 
-- rešpektovať pokyny zamestnancov školy alebo školského zariadenia, ktoré sú v súlade so všeobecne záväznými právnymi predpismi, vnútornými predpismi školy a dobrými mravmi.
+h) rešpektovať pokyny zamestnancov školy alebo školského zariadenia, ktoré sú v súlade so všeobecne záväznými právnymi predpismi, vnútornými predpismi školy a dobrými mravmi.
 
 (5) Zákonný zástupca má právo vybrať pre svoje dieťa školu alebo školské zariadenie, ktoré poskytuje výchovu a vzdelávanie podľa tohto zákona, zodpovedajúce schopnostiam, zdravotnému stavu, záujmom a záľubám dieťaťa, jeho vierovyznaniu, svetonázoru, národnosti a etnickej príslušnosti; právo na slobodnú voľbu školy alebo školského zariadenia možno uplatňovať v súlade s možnosťami výchovno-vzdelávacej sústavy.
 
 (6) Zákonný zástupca dieťaťa alebo žiaka alebo zástupca zariadenia má právo
 
-- žiadať, aby sa v rámci výchovy a vzdelávania v škole alebo v školskom zariadení poskytovali deťom a žiakom informácie a vedomosti vecne a mnohostranne v súlade so súčasným poznaním sveta a v súlade s princípmi a cieľmi výchovy a vzdelávania podľa tohto zákona,
+a) žiadať, aby sa v rámci výchovy a vzdelávania v škole alebo v školskom zariadení poskytovali deťom a žiakom informácie a vedomosti vecne a mnohostranne v súlade so súčasným poznaním sveta a v súlade s princípmi a cieľmi výchovy a vzdelávania podľa tohto zákona,
 
-- oboznámiť sa s výchovno-vzdelávacím programom školy alebo školského zariadenia a školským poriadkom,
+b) oboznámiť sa s výchovno-vzdelávacím programom školy alebo školského zariadenia a školským poriadkom,
 
-- byť informovaný o výchovno-vzdelávacích výsledkoch svojho dieťaťa,
+c) byť informovaný o výchovno-vzdelávacích výsledkoch svojho dieťaťa,
 
 [[END OF PAGE 100]]
 
@@ -4505,25 +4567,25 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 101
 
-- na poskytnutie poradenských služieb vo výchove a vzdelávaní svojho dieťaťa,
+d) na poskytnutie poradenských služieb vo výchove a vzdelávaní svojho dieťaťa,
 
-- zúčastňovať sa výchovy a vzdelávania po predchádzajúcom súhlase riaditeľa školy alebo školského zariadenia,
+e) zúčastňovať sa výchovy a vzdelávania po predchádzajúcom súhlase riaditeľa školy alebo školského zariadenia,
 
-- vyjadrovať sa k výchovno-vzdelávaciemu programu školy alebo školského zariadenia prostredníctvom orgánov školskej samosprávy,
+f) vyjadrovať sa k výchovno-vzdelávaciemu programu školy alebo školského zariadenia prostredníctvom orgánov školskej samosprávy,
 
-- byť prítomný na komisionálnom preskúšaní svojho dieťaťa po predchádzajúcom súhlase riaditeľa školy.
+g) byť prítomný na komisionálnom preskúšaní svojho dieťaťa po predchádzajúcom súhlase riaditeľa školy.
 
 (7) Zákonný zástupca dieťaťa alebo žiaka alebo zástupca zariadenia je povinný
 
-- vytvoriť pre dieťa podmienky na prípravu na výchovu a vzdelávanie v škole a na plnenie školských povinností,
+a) vytvoriť pre dieťa podmienky na prípravu na výchovu a vzdelávanie v škole a na plnenie školských povinností,
 
-- dodržiavať podmienky výchovno-vzdelávacieho procesu svojho dieťaťa určené školským poriadkom,
+b) dodržiavať podmienky výchovno-vzdelávacieho procesu svojho dieťaťa určené školským poriadkom,
 
-- dbať na sociálne a kultúrne zázemie dieťaťa a rešpektovať jeho špeciálne výchovno-vzdelávacie potreby,
+c) dbať na sociálne a kultúrne zázemie dieťaťa a rešpektovať jeho špeciálne výchovno-vzdelávacie potreby,
 
-- informovať školu alebo školské zariadenie o zmene zdravotnej spôsobilosti jeho dieťaťa, jeho zdravotných problémoch alebo iných závažných skutočnostiach, ktoré by mohli mať vplyv na priebeh výchovy a vzdelávania,
+d) informovať školu alebo školské zariadenie o zmene zdravotnej spôsobilosti jeho dieťaťa, jeho zdravotných problémoch alebo iných závažných skutočnostiach, ktoré by mohli mať vplyv na priebeh výchovy a vzdelávania,
 
-- nahradiť škodu, ktorú žiak úmyselne zavinil.
+e) nahradiť škodu, ktorú žiak úmyselne zavinil.
 
 (8) Zákonný zástupca dieťaťa alebo zástupca zariadenia je povinný prihlásiť dieťa na plnenie povinnej školskej dochádzky a dbať o to, aby dieťa dochádzalo do školy pravidelne a včas, ak mu nezabezpečí inú formu vzdelávania podľa tohto zákona; dôvody neprítomnosti dieťaťa na výchove a vzdelávaní doloží dokladmi v súlade so školským poriadkom.
 
@@ -4531,7 +4593,7 @@ Strana 101
 
 (10) Neprítomnosť maloletého dieťaťa alebo žiaka, ktorá trvá najviac tri po sebe nasledujúce vyučovacie dni, ospravedlňuje jeho zákonný zástupca alebo zástupca zariadenia; vo výnimočných a osobitne odôvodnených prípadoch škola môže vyžadovať lekárske potvrdenie o chorobe dieťaťa alebo žiaka alebo iný doklad potvrdzujúci odôvodnenosť jeho neprítomnosti. Ak neprítomnosť dieťaťa alebo žiaka z dôvodu ochorenia trvá dlhšie ako tri po sebe nasledujúce vyučovacie dni, predloží dieťa, žiak, jeho zákonný zástupca alebo zástupca zariadenia potvrdenie od lekára.
 
-- Plnoletý žiak sa ospravedlňuje sám spôsobom uvedeným v odsekoch 8 až 10.
+(11) Plnoletý žiak sa ospravedlňuje sám spôsobom uvedeným v odsekoch 8 až 10.
 
 (12) Ustanovenia v odsekoch 1 až 11 sa vzťahujú na osoby vo výkone väzby a osoby vo výkone trestu odňatia slobody primerane tak, aby sa ich vzdelávanie zabezpečovalo v súlade s osobitnými predpismi. 28 )
 
@@ -4561,15 +4623,15 @@ Zbierka zákonov Slovenskej republiky
 
 (1) Cudzinci sú na účely tohto zákona deti
 
-- osôb, ktoré sú občanmi iného štátu alebo osôb bez štátnej príslušnosti, s povoleným pobytom na území Slovenskej republiky, 81 )
+a) osôb, ktoré sú občanmi iného štátu alebo osôb bez štátnej príslušnosti, s povoleným pobytom na území Slovenskej republiky,81)
 
-- žiadateľov o udelenie azylu na území Slovenskej republiky podľa osobitného predpisu, 82 )
+b) žiadateľov o udelenie azylu na území Slovenskej republiky podľa osobitného predpisu,82)
 
-- Slovákov žijúcich v zahraničí,
+c) Slovákov žijúcich v zahraničí,
 
-- ako žiadatelia o udelenie azylu podľa osobitného predpisu, 82 )
+d) ako žiadatelia o udelenie azylu podľa osobitného predpisu,82)
 
-- ako cudzinci, ktorí sa nachádzajú na území Slovenskej republiky bez sprievodu zákonného zástupcu. 83 )
+e) ako cudzinci, ktorí sa nachádzajú na území Slovenskej republiky bez sprievodu zákonného zástupcu.83)
 
 (2) Deťom cudzincov s povoleným pobytom na území Slovenskej republiky a deťom žiadateľov o udelenie azylu 82 ) a Slovákov žijúcich v zahraničí sa poskytuje výchova a vzdelávanie, ubytovanie a stravovanie v školách podľa tohto zákona za tých istých podmienok ako občanom Slovenskej republiky.
 
@@ -4599,7 +4661,7 @@ osoba po získaní akreditácie. 84 )
 
 ##### § 147
 
-(1) Výmenný program sa uskutočňuje medzi strednou školou Slovenskej republiky a strednou školou iného členského štátu Európskej únie alebo strednou školou štátu, ktorý nie je členským štátom Európskej únie (ďalej len 'tretí štát'). Výmenný program sa uskutočňuje medzi strednými školami, ktoré majú spravidla rovnaký študijný odbor alebo učebný odbor.
+(1) Výmenný program sa uskutočňuje medzi strednou školou Slovenskej republiky a strednou školou iného členského štátu Európskej únie alebo strednou školou štátu, ktorý nie je členským štátom Európskej únie (ďalej len „tretí štát“). Výmenný program sa uskutočňuje medzi strednými školami, ktoré majú spravidla rovnaký študijný odbor alebo učebný odbor.
 
 (2) Žiak, ktorý je štátnym občanom Slovenskej republiky, občanom iného členského štátu Európskej únie alebo občanom tretieho štátu, má právo absolvovať časť uznaného vzdelávacieho programu odboru vzdelania strednej školy v rámci výmenného programu, ktorý poskytuje stredná škola.
 
@@ -4607,33 +4669,33 @@ osoba po získaní akreditácie. 84 )
 
 (4) Výmenný program podľa odseku 1 je zameraný najmä na
 
-- získanie nových vedomostí v príslušnom študijnom odbore alebo učebnom odbore,
+a) získanie nových vedomostí v príslušnom študijnom odbore alebo učebnom odbore,
 
-- získanie praktických skúseností a zručností v príslušnom študijnom odbore alebo učebnom odbore,
+b) získanie praktických skúseností a zručností v príslušnom študijnom odbore alebo učebnom odbore,
 
-- skvalitnenie jazykových znalostí.
+c) skvalitnenie jazykových znalostí.
 
 (5) Škola, ktorá uskutočňuje výmenu žiakov v rámci výmenného programu, preberá zodpovednosť za žiaka počas pobytu na území svojho štátu, a to najmä na zabezpečenie výdavkov na
 
-- ubytovanie a stravovanie,
+a) ubytovanie a stravovanie,
 
-- vzdelávanie,
+b) vzdelávanie,
 
-- zdravotnú starostlivosť,
+c) zdravotnú starostlivosť,
 
-- náklady na cestu späť.
+d) náklady na cestu späť.
 
 (6) Škola podľa odseku 1 je povinná zabezpečiť pedagogický a odborný dohľad po celý čas výmenného programu.
 
 (7) Zdrojmi financovania výmenného programu sú najmä
 
-- prostriedky zo štátneho rozpočtu,
+a) prostriedky zo štátneho rozpočtu,
 
-- prostriedky z podnikateľskej činnosti školy,
+b) prostriedky z podnikateľskej činnosti školy,
 
 c) dary a príspevky od tuzemských a zahraničných právnických osôb a fyzických osôb,
 
-d) prostriedky zriaďovateľov škôl, e) prostriedky Európskej únie.
+d) prostriedky zriaďovateľov škôl,
 
 [[END OF PAGE 103]]
 
@@ -4645,37 +4707,39 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
+e) prostriedky Európskej únie.
+
 ##### § 148
 
 (1) Výmenný program podľa § 147 ods. 1 sa uskutočňuje na základe dohody zúčastnených stredných škôl.
 
 (2) Dohoda o výmennom programe obsahuje najmä
 
-- názvy a adresy sídiel škôl a názvy štátov, na ktorých území sa uskutočňujú výmenné programy,
+a) názvy a adresy sídiel škôl a názvy štátov, na ktorých území sa uskutočňujú výmenné programy,
 
-- zameranie výmenného programu podľa § 147 ods. 4,
+b) zameranie výmenného programu podľa § 147 ods. 4,
 
-- deň začatia a deň skončenia výmenného programu,
+c) deň začatia a deň skončenia výmenného programu,
 
-- spôsob dopravy žiakov výmenného programu,
+d) spôsob dopravy žiakov výmenného programu,
 
-- spôsob ukončenia výmenného programu,
+e) spôsob ukončenia výmenného programu,
 
-- zabezpečenie dohľadu nad bezpečnosťou žiakov po dobu celého výmenného programu žiakov zo strany školy, v ktorej sa žiaci zúčastňujú na výmennom programe,
+f) zabezpečenie dohľadu nad bezpečnosťou žiakov po dobu celého výmenného programu žiakov zo strany školy, v ktorej sa žiaci zúčastňujú na výmennom programe,
 
-- spôsob finančného zabezpečenia žiakov v rámci výmenného programu žiakov,
+g) spôsob finančného zabezpečenia žiakov v rámci výmenného programu žiakov,
 
-- podpis a odtlačok pečiatky štatutárnych orgánov škôl.
+h) podpis a odtlačok pečiatky štatutárnych orgánov škôl.
 
 (3) Súčasťou dohody o výmennom programe je zoznam žiakov, ktorí sa zúčastňujú výmenného programu. Zoznam žiakov výmenného programu obsahuje najmä
 
-- meno a priezvisko žiaka,
+a) meno a priezvisko žiaka,
 
-- dátum narodenia žiaka,
+b) dátum narodenia žiaka,
 
-- adresu trvalého pobytu žiaka,
+c) adresu trvalého pobytu žiaka,
 
-- súhlas zákonného zástupcu žiaka alebo plnoletého žiaka.
+d) súhlas zákonného zástupcu žiaka alebo plnoletého žiaka.
 
 (4) Na výmennom programe sa môže zúčastniť žiak, ktorý dosiahol vek najmenej pätnásť rokov a najviac dvadsaťjeden rokov a je žiakom školy, ktorá uzatvorila dohodu podľa odseku 1.
 
@@ -4705,13 +4769,13 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 105
 
-- ktorým sa poskytuje dávka v hmotnej núdzi a príspevky k dávke v hmotnej núdzi podľa osobitného predpisu 85 ) alebo
+a) ktorým sa poskytuje dávka v hmotnej núdzi a príspevky k dávke v hmotnej núdzi podľa osobitného predpisu85) alebo
 
-- u ktorých jedna dvanástina príjmu 86 ) za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom sa žiada o štipendium, je najviac vo výške životného minima podľa osobitného predpisu. 87 )
+b) u ktorých jedna dvanástina príjmu86) za kalendárny rok predchádzajúci kalendárnemu roku, v ktorom sa žiada o štipendium, je najviac vo výške životného minima podľa osobitného predpisu.87)
 
 (2) Štipendium sa poskytuje od začiatku školského roka na príslušný školský rok v období školského vyučovania podľa § 150.
 
-(3) Štipendium sa poskytuje na základe písomnej žiadosti podanej žiakom alebo jeho zákonným zástupcom (ďalej len 'žiadateľ') riaditeľovi školy, na ktorej žiak študuje.
+(3) Štipendium sa poskytuje na základe písomnej žiadosti podanej žiakom alebo jeho zákonným zástupcom (ďalej len „žiadateľ“) riaditeľovi školy, na ktorej žiak študuje.
 
 (4) Ak žiadateľ požiada o štipendium počas školského roka, štipendium sa poskytne v príslušnom školskom roku od prvého dňa kalendárneho mesiaca, v ktorom bola žiadosť podaná.
 
@@ -4721,25 +4785,25 @@ Strana 105
 
 (7) Podmienkou poskytnutia štipendia je písomný záväzok žiadateľa, že
 
-- bezodkladne písomne oznámi riaditeľovi školy všetky skutočnosti, ktoré by mohli mať vplyv na poskytovanie štipendia,
+a) bezodkladne písomne oznámi riaditeľovi školy všetky skutočnosti, ktoré by mohli mať vplyv na poskytovanie štipendia,
 
-- vráti štipendium poskytnuté na základe ním uvedených nepravdivých údajov alebo neoznámenej zmeny skutočností rozhodujúcich na poskytnutie štipendia. 89 )
+b) vráti štipendium poskytnuté na základe ním uvedených nepravdivých údajov alebo neoznámenej zmeny skutočností rozhodujúcich na poskytnutie štipendia.89)
 
 (8) Ak dôjde k zmene skutočností rozhodujúcich na priznanie štipendia, zmena sa uskutoční, ak je
 
-- v prospech žiaka, od prvého dňa kalendárneho mesiaca, v ktorom nastala, ak bola oznámená najneskôr v nasledujúcom kalendárnom mesiaci; po uplynutí tejto lehoty od prvého dňa kalendárneho mesiaca, v ktorom bola zmena oznámená,
+a) v prospech žiaka, od prvého dňa kalendárneho mesiaca, v ktorom nastala, ak bola oznámená najneskôr v nasledujúcom kalendárnom mesiaci; po uplynutí tejto lehoty od prvého dňa kalendárneho mesiaca, v ktorom bola zmena oznámená,
 
-- v neprospech žiaka, od prvého dňa kalendárneho mesiaca, ktorý nasleduje po kalendárnom mesiaci, v ktorom nastala zmena.
+b) v neprospech žiaka, od prvého dňa kalendárneho mesiaca, ktorý nasleduje po kalendárnom mesiaci, v ktorom nastala zmena.
 
 (9) Štipendium sa neposkytuje, ak bolo priznané žiakovi na základe nepravdivých údajov alebo za obdobie, v ktorom nastala taká zmena skutočností rozhodujúcich na poskytovanie štipendia, ktoré majú za následok nesplnenie podmienok na jeho poskytovanie.
 
 (10) Štipendium sa poskytuje žiakovi mesačne vo výške
 
-- 50 % sumy životného minima určeného osobitným predpisom 29 ) pri priemernom prospechu žiaka do 2,0 vrátane,
+a) 50 % sumy životného minima určeného osobitným predpisom29) pri priemernom prospechu žiaka do 2,0 vrátane,
 
-- 35 % sumy životného minima určeného osobitným predpisom 29 ) pri priemernom prospechu žiaka horšom ako 2,0 do 2,5 vrátane,
+b) 35 % sumy životného minima určeného osobitným predpisom29) pri priemernom prospechu žiaka horšom ako 2,0 do 2,5 vrátane,
 
-- 25 % sumy životného minima určeného osobitným predpisom 29 ) pri priemernom prospechu žiaka horšom ako 2,5 do 3,5 vrátane.
+c) 25 % sumy životného minima určeného osobitným predpisom29) pri priemernom prospechu žiaka horšom ako 2,5 do 3,5 vrátane.
 
 (11) Priemerný prospech žiaka sa určí ako priemer stupňov prospechu z jednotlivých vyučovacích predmetov uvedených na vysvedčení žiaka za predchádzajúci polrok školského vyučovania; priemerný prospech žiaka nezahŕňa klasifikáciu z nepovinných vyučovacích predmetov.
 
@@ -4801,27 +4865,27 @@ Strana 107
 
 Školy a školské zariadenia sú pri výchove a vzdelávaní, pri činnostiach priamo súvisiacich s výchovou a vzdelávaním a pri poskytovaní služieb povinné
 
-- prihliadať na základné fyziologické potreby detí a žiakov,
+a) prihliadať na základné fyziologické potreby detí a žiakov,
 
-- vytvárať podmienky na zdravý vývin detí a žiakov a na predchádzanie sociálnopatologickým javom,
+b) vytvárať podmienky na zdravý vývin detí a žiakov a na predchádzanie sociálnopatologickým javom,
 
-- zaistiť bezpečnosť a ochranu zdravia detí a žiakov,
+c) zaistiť bezpečnosť a ochranu zdravia detí a žiakov,
 
-- poskytnúť nevyhnutné informácie na zaistenie bezpečnosti a ochrany zdravia detí a žiakov,
+d) poskytnúť nevyhnutné informácie na zaistenie bezpečnosti a ochrany zdravia detí a žiakov,
 
-- viesť evidenciu školských úrazov detí a žiakov, ku ktorým prišlo počas výchovno-vzdelávacieho procesu a pri činnostiach organizovaných školou; pri vzniku školského úrazu vyhotoviť záznam o školskom úraze.
+e) viesť evidenciu školských úrazov detí a žiakov, ku ktorým prišlo počas výchovno-vzdelávacieho procesu a pri činnostiach organizovaných školou; pri vzniku školského úrazu vyhotoviť záznam o školskom úraze.
 
 ##### § 153 Školský poriadok
 
 (1) Riaditeľ školy alebo školského zariadenia vydá školský poriadok po prerokovaní s orgánmi školskej samosprávy a v pedagogickej rade. Školský poriadok upravuje najmä podrobnosti o
 
-- výkone práv a povinností detí, žiakov a ich zákonných zástupcov v škole alebo v školskom zariadení, pravidlá vzájomných vzťahov a vzťahov s pedagogickými zamestnancami a ďalšími zamestnancami školy,
+a) výkone práv a povinností detí, žiakov a ich zákonných zástupcov v škole alebo v školskom zariadení, pravidlá vzájomných vzťahov a vzťahov s pedagogickými zamestnancami a ďalšími zamestnancami školy,
 
-- prevádzke a vnútornom režime školy alebo školského zariadenia,
+b) prevádzke a vnútornom režime školy alebo školského zariadenia,
 
-- podmienkach na zaistenie bezpečnosti a ochrany zdravia detí a žiakov a ich ochrany pred sociálnopatologickými javmi, diskrimináciou alebo násilím,
+c) podmienkach na zaistenie bezpečnosti a ochrany zdravia detí a žiakov a ich ochrany pred sociálnopatologickými javmi, diskrimináciou alebo násilím,
 
-- podmienkach nakladania s majetkom, ktorý škola alebo školské zariadenie spravuje, ak tak rozhodne zriaďovateľ.
+d) podmienkach nakladania s majetkom, ktorý škola alebo školské zariadenie spravuje, ak tak rozhodne zriaďovateľ.
 
 (2) Deťom a žiakom sa so súhlasom riaditeľa školy alebo školského zariadenia umožňuje účasť na súťažiach.
 
@@ -4831,13 +4895,13 @@ Strana 107
 
 (1) Monitorovanie a hodnotenie kvality výchovy a vzdelávania plní úlohy v oblasti sledovania najmä
 
-- kontinuálnych procesov zlepšenia alebo zhoršenia výsledkov vzdelávania,
+a) kontinuálnych procesov zlepšenia alebo zhoršenia výsledkov vzdelávania,
 
-- dosahovania výkonnostných a kvalitatívnych cieľov a podnetov,
+b) dosahovania výkonnostných a kvalitatívnych cieľov a podnetov,
 
-- externého a interného hodnotenia a porovnávania škôl a školských zariadení,
+c) externého a interného hodnotenia a porovnávania škôl a školských zariadení,
 
-- dosahov rozhodnutí.
+d) dosahov rozhodnutí.
 
 (2) Na uskutočňovanie monitorovania a hodnotenia kvality výchovy a vzdelávania na úrovni štátnych školských programov ministerstvo školstva zriaďuje Národný ústav certifikovaných meraní vzdelávania.
 
@@ -4851,57 +4915,57 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- Národný ústav certifikovaných meraní vzdelávania
+(3) Národný ústav certifikovaných meraní vzdelávania
 
-- zodpovedá za prípravu a metodické riadenie priebehu externých častí skúšok a testovanie žiakov v školách podľa tohto zákona, spracovanie, vyhodnocovanie a uchovávanie výsledkov externého merania alebo testovania,
+a) zodpovedá za prípravu a metodické riadenie priebehu externých častí skúšok a testovanie žiakov v školách podľa tohto zákona, spracovanie, vyhodnocovanie a uchovávanie výsledkov externého merania alebo testovania,
 
-- určuje obsah externých častí skúšok alebo testovania zadávaných ministerstvom školstva,
+b) určuje obsah externých častí skúšok alebo testovania zadávaných ministerstvom školstva,
 
-- vydáva osvedčenie o spôsobilosti na výkon funkcie predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie a hodnotiteľa výsledkov externých častí skúšok alebo testovania.
+c) vydáva osvedčenie o spôsobilosti na výkon funkcie predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie a hodnotiteľa výsledkov externých častí skúšok alebo testovania.
 
 (4) Národný ústav certifikovaných meraní vzdelávania je rozpočtová organizácia, ktorá je svojimi finančnými vzťahmi zapojená na rozpočet ministerstva školstva.
 
 (5) Národný ústav certifikovaných meraní vzdelávania v školách a v školských zariadeniach podľa tohto zákona
 
-- zabezpečuje externú časť skúšky a písomnú formu internej časti maturitnej skúšky zadávanej ministerstvom školstva,
+a) zabezpečuje externú časť skúšky a písomnú formu internej časti maturitnej skúšky zadávanej ministerstvom školstva,
 
-- stanovuje požiadavky na odbornú prípravu pedagogických zamestnancov pre výkon funkcie predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie,
+b) stanovuje požiadavky na odbornú prípravu pedagogických zamestnancov pre výkon funkcie predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie,
 
-- zabezpečuje výrobu, doručenie a vyhodnocovanie úloh alebo testov pre externé skúšky alebo testovanie školám a školským zariadeniam, v ktorých sa má externá skúška alebo testovanie vykonať,
+c) zabezpečuje výrobu, doručenie a vyhodnocovanie úloh alebo testov pre externé skúšky alebo testovanie školám a školským zariadeniam, v ktorých sa má externá skúška alebo testovanie vykonať,
 
-- vedie evidenciu výsledkov externých skúšok alebo testovania,
+d) vedie evidenciu výsledkov externých skúšok alebo testovania,
 
-- vedie evidenciu pedagogických zamestnancov, ktorí majú oprávnenie vykonávať funkciu predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie alebo hodnotiteľov a poskytuje ju príslušným orgánom miestnej štátnej správy v školstve. 50 )
+e) vedie evidenciu pedagogických zamestnancov, ktorí majú oprávnenie vykonávať funkciu predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie alebo hodnotiteľov a poskytuje ju príslušným orgánom miestnej štátnej správy v školstve.50)
 
 (6) Národný ústav certifikovaných meraní vzdelávania plní tiež úlohy pre zabezpečovanie medzinárodných meraní na Slovensku podľa programov, do ktorých sa Slovenská republika zapája.
 
 (7) Na účely plnenia úloh podľa odsekov 5 a 6 Národný ústav certifikovaných meraní vzdelávania má právo získavať a spracúvať osobné údaje o
 
-- žiakovi v rozsahu
+a) žiakovi v rozsahu
 
-- meno a priezvisko,
+1. meno a priezvisko,
 
-- dátum narodenia,
+2. dátum narodenia,
 
-- rodné číslo,
+3. rodné číslo,
 
-- trieda, ktorú navštevuje,
+4. trieda, ktorú navštevuje,
 
-- ročník, do ktorého je zaradený,
+5. ročník, do ktorého je zaradený,
 
-- názov školy, ktorú navštevuje,
+6. názov školy, ktorú navštevuje,
 
-- špeciálne výchovno-vzdelávacie potreby,
+7. špeciálne výchovno-vzdelávacie potreby,
 
-- pedagogickom zamestnancovi v rozsahu
+b) pedagogickom zamestnancovi v rozsahu
 
-- meno a priezvisko,
+1. meno a priezvisko,
 
-- dátum a miesto narodenia,
+2. dátum a miesto narodenia,
 
-- adresa zamestnávateľa,
+3. adresa zamestnávateľa,
 
-- adresa bydliska a druh pobytu.
+4. adresa bydliska a druh pobytu.
 
 [[END OF PAGE 108]]
 
@@ -4967,49 +5031,49 @@ Zbierka zákonov Slovenskej republiky
 
 a) ak ide o dieťa, žiaka alebo poslucháča,
 
-- titul, meno a priezvisko, rodné priezvisko,
+1. titul, meno a priezvisko, rodné priezvisko,
 
-- dátum, miesto, okres a štát narodenia,
+2. dátum, miesto, okres a štát narodenia,
 
-- dátum a miesto úmrtia alebo údaj o vyhlásení za mŕtveho alebo zrušení vyhlásenia za mŕtveho,
+3. dátum a miesto úmrtia alebo údaj o vyhlásení za mŕtveho alebo zrušení vyhlásenia za mŕtveho,
 
-- rodné číslo,
+4. rodné číslo,
 
-- pohlavie,
+5. pohlavie,
 
-- národnosť,
+6. národnosť,
 
-- štátne občianstvo,
+7. štátne občianstvo,
 
-- spôsobilosť na právne úkony,
+8. spôsobilosť na právne úkony,
 
-- rodinný stav,
+9. rodinný stav,
 
-- adresa bydliska a druh pobytu,
+10. adresa bydliska a druh pobytu,
 
-- zákaz pobytu,
+11. zákaz pobytu,
 
-- kontakt na účely komunikácie,
+12. kontakt na účely komunikácie,
 
-- adresa bydliska, z ktorého dochádza do školy,
+13. adresa bydliska, z ktorého dochádza do školy,
 
-- skutočnosti podľa § 144 ods. 7 písm. d),
+14. skutočnosti podľa § 144 ods. 7 písm. d),
 
-- dátum prijatia, študijný odbor, zameranie študijného odboru, učebný odbor alebo zameranie učebného odboru, výchovno-vzdelávací program a forma organizácie výchovy a vzdelávania v škole, školskom zariadení alebo pracovisku praktického vyučovania a údaje o účasti na aktivitách v nich,
+15. dátum prijatia, študijný odbor, zameranie študijného odboru, učebný odbor alebo zameranie učebného odboru, výchovno-vzdelávací program a forma organizácie výchovy a vzdelávania v škole, školskom zariadení alebo pracovisku praktického vyučovania a údaje o účasti na aktivitách v nich,
 
-- učebná zmluva podľa osobitného predpisu, 92a )
+16. učebná zmluva podľa osobitného predpisu,92a)
 
-- zmluva o budúcej pracovnej zmluve podľa osobitného predpisu, 92b )
+17. zmluva o budúcej pracovnej zmluve podľa osobitného predpisu,92b)
 
-- dosiahnutý stupeň vzdelania a dosiahnuté výsledky vzdelávania,
+18. dosiahnutý stupeň vzdelania a dosiahnuté výsledky vzdelávania,
 
-- počet vyučovacích hodín, ktoré neabsolvoval bez ospravedlnenia, a to za každý kalendárny mesiac školského roka,
+19. počet vyučovacích hodín, ktoré neabsolvoval bez ospravedlnenia, a to za každý kalendárny mesiac školského roka,
 
-- ak ide o zákonného zástupcu dieťaťa, žiaka alebo poslucháča,
+b) ak ide o zákonného zástupcu dieťaťa, žiaka alebo poslucháča,
 
-- osobné údaje v rozsahu podľa písmena a) prvého až dvanásteho bodu,
+1. osobné údaje v rozsahu podľa písmena a) prvého až dvanásteho bodu,
 
-- dosiahnuté vzdelanie.
+2. dosiahnuté vzdelanie.
 
 [[END OF PAGE 110]]
 
@@ -5029,27 +5093,27 @@ Strana 111
 
 (7) Centrálny register je neverejný a ministerstvo školstva spracúva a poskytuje osobné údaje z centrálneho registra v rozsahu potrebnom na plnenie úloh podľa osobitných predpisov 93 ) len osobám podľa odseku 8, a to na účely
 
-- zabezpečovania a kontroly financovania výchovy a vzdelávania v školách a školských zariadeniach,
+a) zabezpečovania a kontroly financovania výchovy a vzdelávania v školách a školských zariadeniach,
 
-- overovania dokladov o vzdelaní a dosiahnutom stupni vzdelania podľa osobitného predpisu, 93a )
+b) overovania dokladov o vzdelaní a dosiahnutom stupni vzdelania podľa osobitného predpisu,93a)
 
-- overovania dokladov o vzdelaní a o získanom stupni vzdelania alebo kvalifikácii na účel poskytovania štipendií podľa tohto zákona,
+c) overovania dokladov o vzdelaní a o získanom stupni vzdelania alebo kvalifikácii na účel poskytovania štipendií podľa tohto zákona,
 
-- štatistických spracovaní údajov vrátane medzinárodných porovnaní a na rozpočtové účely,
+d) štatistických spracovaní údajov vrátane medzinárodných porovnaní a na rozpočtové účely,
 
-- zabezpečovania výkonu zdravotného poistenia, sociálneho poistenia a starobného dôchodkového sporenia alebo
+e) zabezpečovania výkonu zdravotného poistenia, sociálneho poistenia a starobného dôchodkového sporenia alebo
 
-- plánovania a zabezpečovania úloh na úseku verejnej dopravy.
+f) plánovania a zabezpečovania úloh na úseku verejnej dopravy.
 
 (8) Ministerstvo školstva sprístupní osobné údaje v centrálnom registri pre
 
-- školy a školské zariadenia, ktoré sa ich týkajú alebo ktoré sa týkajú žiakov, detí a poslucháčov, ktorým zabezpečujú výchovu a vzdelávanie,
+a) školy a školské zariadenia, ktoré sa ich týkajú alebo ktoré sa týkajú žiakov, detí a poslucháčov, ktorým zabezpečujú výchovu a vzdelávanie,
 
-- zriaďovateľov, ktoré sa týkajú nimi zriadených škôl a školských zariadení,
+b) zriaďovateľov, ktoré sa týkajú nimi zriadených škôl a školských zariadení,
 
-- orgány štátnej správy v školstve v rozsahu ich pôsobnosti podľa osobitných predpisov,
+c) orgány štátnej správy v školstve v rozsahu ich pôsobnosti podľa osobitných predpisov,
 
-- iné orgány štátnej správy, orgány územnej samosprávy, Štatistický úrad Slovenskej republiky, Sociálnu poisťovňu, zdravotné poisťovne a vysoké školy na účely plnenia ich úloh, a to na základe písomnej dohody medzi ministerstvom školstva a týmto subjektom.
+d) iné orgány štátnej správy, orgány územnej samosprávy, Štatistický úrad Slovenskej republiky, Sociálnu poisťovňu, zdravotné poisťovne a vysoké školy na účely plnenia ich úloh, a to na základe písomnej dohody medzi ministerstvom školstva a týmto subjektom.
 
 (9) Ministerstvo školstva sprístupňuje údaje z centrálneho registra na žiadosť orgánu verejnej moci podľa osobitného predpisu 93b ) aj bez dohody podľa odseku 8 písm. d) prostredníctvom informačného systému verejnej správy podľa osobitného predpisu 93c ) v rozsahu podľa odseku 3 písm. a) prvého bodu až štvrtého bodu a pätnásteho bodu.
 
@@ -5057,7 +5121,7 @@ Strana 111
 
 (11) Na spracúvanie osobných údajov v centrálnom registri a osobných údajov podľa odseku 10 sa vzťahuje osobitný predpis. 11 ) Na uchovávanie osobných údajov z centrálneho registra sa vzťahuje osobitný predpis. 94 )
 
-- Osobné údaje podľa odseku 3 možno v centrálnom registri spracúvať najdlhšie do jedného
+(12) Osobné údaje podľa odseku 3 možno v centrálnom registri spracúvať najdlhšie do jedného
 
 [[END OF PAGE 111]]
 
@@ -5157,7 +5221,7 @@ Zbierka zákonov Slovenskej republiky
 
 (18) Žiaci gymnázia so šesťročným štúdiom, ktorí začali študovať podľa doterajších predpisov, pokračujú v tomto štúdiu až do ukončenia podľa týchto predpisov.
 
-(19) Domov mládeže podľa doterajších predpisov je školským internátom podľa tohto zákona. Škola, ktorá je internátna podľa doterajších predpisov, je od účinnosti tohto zákona školou, ktorej súčasťou je školské zariadenie 'školský internát'.
+(19) Domov mládeže podľa doterajších predpisov je školským internátom podľa tohto zákona. Škola, ktorá je internátna podľa doterajších predpisov, je od účinnosti tohto zákona školou, ktorej súčasťou je školské zariadenie „školský internát“.
 
 (20) Pedagogicko-psychologická poradňa a pedagogicko-psychologická poradňa s centrom výchovnej a psychologickej prevencie podľa doterajších predpisov je centrom pedagogicko-psychologického poradenstva podľa tohto zákona.
 
@@ -5193,13 +5257,13 @@ Zriaďovateľ gymnázia s osemročným štúdiom môže požiadať orgán miest
 
 ##### § 161b Prechodné ustanovenia k úpravám účinným od 1. januára 2013
 
-- Školské stredisko záujmovej činnosti zriadené podľa predpisov účinných do 31. decembra 2012 je centrum voľného času podľa tohto zákona. Práva a povinnosti z pracovnoprávnych vzťahov zamestnancov, majetkovoprávnych a iných právnych vzťahov školského strediska záujmovej činnosti prechádzajú na príslušné centrum voľného času.
+(1) Školské stredisko záujmovej činnosti zriadené podľa predpisov účinných do 31. decembra 2012 je centrum voľného času podľa tohto zákona. Práva a povinnosti z pracovnoprávnych vzťahov zamestnancov, majetkovoprávnych a iných právnych vzťahov školského strediska záujmovej činnosti prechádzajú na príslušné centrum voľného času.
 
-- Žiak alebo iná fyzická osoba, ktorá sa prihlásila na skúšku z jednotlivých vyučovacích predmetov alebo na vykonanie maturitnej skúšky do 31. decembra 2012, vykoná túto skúšku podľa doterajších predpisov.
+(2) Žiak alebo iná fyzická osoba, ktorá sa prihlásila na skúšku z jednotlivých vyučovacích predmetov alebo na vykonanie maturitnej skúšky do 31. decembra 2012, vykoná túto skúšku podľa doterajších predpisov.
 
-- Najvyšší počet detí v triede materskej školy, najvyšší počet žiakov v triede základnej školy a najvyšší počet žiakov v triede strednej školy určený podľa predpisov účinných do 31. decembra 2012 sa zachová do ukončenia výchovy a vzdelávania týchto detí a žiakov.
+(3) Najvyšší počet detí v triede materskej školy, najvyšší počet žiakov v triede základnej školy a najvyšší počet žiakov v triede strednej školy určený podľa predpisov účinných do 31. decembra 2012 sa zachová do ukončenia výchovy a vzdelávania týchto detí a žiakov.
 
-- Stupeň vzdelania získaný absolvovaním tretieho ročníka vzdelávacieho programu praktickej školy podľa doterajších predpisov zostáva zachovaný. Žiaci, ktorí začali vzdelávanie v praktickej škole pred 1. januárom 2013, dokončia svoje vzdelávanie podľa doterajších predpisov. Na účely prijímacieho konania na stredné školy sa žiaci podľa tohto ustanovenia považujú za žiakov, ktorí dosiahli nižšie stredné odborné vzdelanie.
+(4) Stupeň vzdelania získaný absolvovaním tretieho ročníka vzdelávacieho programu praktickej školy podľa doterajších predpisov zostáva zachovaný. Žiaci, ktorí začali vzdelávanie v praktickej škole pred 1. januárom 2013, dokončia svoje vzdelávanie podľa doterajších predpisov. Na účely prijímacieho konania na stredné školy sa žiaci podľa tohto ustanovenia považujú za žiakov, ktorí dosiahli nižšie stredné odborné vzdelanie.
 
 ##### § 161c Prechodné ustanovenie k úprave účinnej od 1. januára 2014
 
@@ -5227,15 +5291,15 @@ Zbierka zákonov Slovenskej republiky
 
 ##### § 161db
 
-Absolvent, ktorý získal vyššie odborné vzdelanie do 31. augusta 2008 a nebolo mu priznané právo používať titul 'diplomovaný špecialista' so skratkou 'DiS' alebo titul 'diplomovaný umelec' so skratkou 'DiS.art.', je oprávnený používať tento titul, ak dĺžka absolvovaného študijného odboru trvala najmenej dva roky. Na písomnú žiadosť absolventa príslušná škola, v ktorej tento študijný odbor absolvoval, alebo jej nástupnícka škola, vydá potvrdenie o práve používať titul. Ak takáto škola alebo jej nástupnícka škola neexistuje, absolvent môže požiadať o potvrdenie o práve používať titul orgán miestnej štátnej správy v školstve, do ktorého územnej pôsobnosti zrušená škola patrila.
+Absolvent, ktorý získal vyššie odborné vzdelanie do 31. augusta 2008 a nebolo mu priznané právo používať titul „diplomovaný špecialista“ so skratkou „DiS“ alebo titul „diplomovaný umelec“ so skratkou „DiS.art.“, je oprávnený používať tento titul, ak dĺžka absolvovaného študijného odboru trvala najmenej dva roky. Na písomnú žiadosť absolventa príslušná škola, v ktorej tento študijný odbor absolvoval, alebo jej nástupnícka škola, vydá potvrdenie o práve používať titul. Ak takáto škola alebo jej nástupnícka škola neexistuje, absolvent môže požiadať o potvrdenie o práve používať titul orgán miestnej štátnej správy v školstve, do ktorého územnej pôsobnosti zrušená škola patrila.
 
 ##### § 161e Prechodné ustanovenia k úpravám účinným od 1. septembra 2015
 
-- Na počty žiakov v triede šiesteho až deviateho ročníka základnej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich deviateho ročníka základnej školy sa vzťahuje právny predpis účinný do 31. augusta 2015.
+(1) Na počty žiakov v triede šiesteho až deviateho ročníka základnej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich deviateho ročníka základnej školy sa vzťahuje právny predpis účinný do 31. augusta 2015.
 
-- Na počty žiakov v triede druhého až ôsmeho ročníka strednej školy trojročného až osemročného štúdia strednej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich štúdia sa vzťahuje právny predpis účinný do 31. augusta 2015.
+(2) Na počty žiakov v triede druhého až ôsmeho ročníka strednej školy trojročného až osemročného štúdia strednej školy zriadené do 31. augusta 2015 a ich nasledujúce ročníky až do ukončenia ich štúdia sa vzťahuje právny predpis účinný do 31. augusta 2015.
 
-- Právo používať titul 'diplomovaný umelec' priznané podľa predpisov účinných do 31. augusta 2015 zostáva zachované.
+(3) Právo používať titul „diplomovaný umelec“ priznané podľa predpisov účinných do 31. augusta 2015 zostáva zachované.
 
 ##### § 161f Prechodné ustanovenie k úpravám účinným od 1. januára 2016
 
@@ -5265,25 +5329,25 @@ Stredná umelecká škola a škola úžitkového výtvarníctva v prijímacom 
 
 ##### § 161gc Prechodné ustanovenia k úpravám účinným od 1. septembra 2019
 
-- Stredná umelecká škola, stredná odborná škola umeleckopriemyselná a škola úžitkového výtvarníctva zaradená do siete škôl a školských zariadení podľa predpisov účinných do 31. augusta 2019 sa stáva školou umeleckého priemyslu podľa predpisov účinných od 1. septembra 2019.
+(1) Stredná umelecká škola, stredná odborná škola umeleckopriemyselná a škola úžitkového výtvarníctva zaradená do siete škôl a školských zariadení podľa predpisov účinných do 31. augusta 2019 sa stáva školou umeleckého priemyslu podľa predpisov účinných od 1. septembra 2019.
 
-- Žiak strednej umeleckej školy, strednej odbornej školy umeleckopriemyselnej a školy úžitkového výtvarníctva, ktorý začal štúdium podľa predpisov účinných do 31. augusta 2019, dokončí štúdium podľa predpisov účinných do 31. augusta 2019.
+(2) Žiak strednej umeleckej školy, strednej odbornej školy umeleckopriemyselnej a školy úžitkového výtvarníctva, ktorý začal štúdium podľa predpisov účinných do 31. augusta 2019, dokončí štúdium podľa predpisov účinných do 31. augusta 2019.
 
 ##### § 161h Prechodné ustanovenia k úpravám účinným od 1. januára 2019
 
-- Gymnáziá zaradené do siete škôl a školských zariadení podľa osobitného predpisu 8 ) s názvom 'športové gymnázium' zriadené podľa predpisov účinných do 31. decembra 2018 sa stávajú strednými športovými školami podľa predpisov účinných od 1. januára 2019.
+(1) Gymnáziá zaradené do siete škôl a školských zariadení podľa osobitného predpisu8) s názvom „športové gymnázium“ zriadené podľa predpisov účinných do 31. decembra 2018 sa stávajú strednými športovými školami podľa predpisov účinných od 1. januára 2019.
 
-- Žiak gymnázia podľa odseku 1, ktorý začal štúdium podľa predpisov účinných do 31. decembra 2018, dokončí štúdium podľa predpisov účinných do 31. decembra 2018.
+(2) Žiak gymnázia podľa odseku 1, ktorý začal štúdium podľa predpisov účinných do 31. decembra 2018, dokončí štúdium podľa predpisov účinných do 31. decembra 2018.
 
-- Žiak športovej triedy v gymnáziu alebo v strednej odbornej škole, ktorý začal štúdium podľa predpisov účinných do 31. decembra 2018, dokončí štúdium podľa predpisov účinných do 31. decembra 2018.
+(3) Žiak športovej triedy v gymnáziu alebo v strednej odbornej škole, ktorý začal štúdium podľa predpisov účinných do 31. decembra 2018, dokončí štúdium podľa predpisov účinných do 31. decembra 2018.
 
-- Ustanovenia o predložení potvrdenia národného športového zväzu, že uchádzač je uvedený v zozname talentovaných športovcov podľa osobitného predpisu, 34a ) sa prvýkrát použijú pre prijímacie konanie pre školský rok 2021/2022.
+(4) Ustanovenia o predložení potvrdenia národného športového zväzu, že uchádzač je uvedený v zozname talentovaných športovcov podľa osobitného predpisu,34a) sa prvýkrát použijú pre prijímacie konanie pre školský rok 2021/2022.
 
 ##### § 161i Prechodné ustanovenia k úpravám účinným od 1. januára 2019
 
-- Športové stredné odborné školy zaradené do siete škôl a školských zariadení podľa osobitného predpisu 8 ) zriadené podľa predpisov účinných do 31. decembra 2018 sa stávajú strednými športovými školami podľa predpisov účinných od 1. januára 2019.
+(1) Športové stredné odborné školy zaradené do siete škôl a školských zariadení podľa osobitného predpisu8) zriadené podľa predpisov účinných do 31. decembra 2018 sa stávajú strednými športovými školami podľa predpisov účinných od 1. januára 2019.
 
-- Žiak športovej strednej odbornej školy podľa odseku 1, ktorý začal štúdium podľa predpisov účinných do 31. decembra 2018, dokončí štúdium podľa predpisov účinných do 31. decembra 2018.
+(2) Žiak športovej strednej odbornej školy podľa odseku 1, ktorý začal štúdium podľa predpisov účinných do 31. decembra 2018, dokončí štúdium podľa predpisov účinných do 31. decembra 2018.
 
 [[END OF PAGE 117]]
 
@@ -5295,36 +5359,6 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-Zrušujú sa:
-
-- Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 188/1988 Zb., zákona č. 171/1990 Zb., zákona č. 522/1990 Zb., zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 231/1994 Z. z., zákona č. 6/1998 Z. z., zákona č. 5/1999 Z. z., zákona č. 229/2000 Z. z., zákona č. 216/2001 Z. z., zákona č. 416/2001 Z. z., zákona č. 506/2001 Z. z., zákona č. 334/2002 Z. z., zákona č. 408/2002 Z. z., zákona č. 553/2003 Z. z., zákona č. 596/2003 Z. z., zákona č. 207/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 1/2005 Z. z., zákona č. 5/2005 Z. z. a zákona č. 363/2007 Z. z.
-
-- Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení zákona č. 222/1996 Z. z., zákona č. 230/2000 Z. z., zákona č. 202/2001 Z. z., zákona č. 416/2001 Z. z., zákona č. 334/2002 Z. z. a zákona č. 596/2003 Z. z.
-
-- Nariadenie vlády Slovenskej socialistickej republiky č. 99/1978 Zb. o zriaďovaní a prevádzke predškolských zariadení socialistickými organizáciami.
-
-- Nariadenie vlády Slovenskej republiky č. 282/1994 Z. z. o používaní učebníc a učebných textov.
-
-- Vyhláška ministerstiev školstva a zdravotníctva a Štátneho úradu sociálneho zabezpečenia č. 124/1967 Zb. o čiastočnej úhrade nákladov na starostlivosť poskytovanú v niektorých zariadeniach pre mládež v znení vyhlášky č. 110/1970 Zb., vyhlášky č. 156/1970 Zb. a vyhlášky č. 149/1988 Zb.
-
-- Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 119/1980 Zb. o výkone ústavnej výchovy a ochrannej výchovy v školských výchovných zariadeniach v znení vyhlášky č. 46/1982 Zb., vyhlášky č. 56/1986 Zb. a vyhlášky č. 230/2000 Z. z.
-
-- Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 143/1984 Zb. o základnej škole v znení vyhlášky č. 409/1990 Zb. a vyhlášky č. 249/1995 Z. z.
-
-- Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 86/1986 Zb. o združení rodičov a priateľov školy v znení vyhlášky č. 37/1987 Zb.
-
-- Vyhláška Ministerstva školstva, mládeže a telesnej výchovy Slovenskej socialistickej republiky č. 65/1988 Zb. o športových školách a stredných odborných učilištiach s triedami s vrcholovou športovou prípravou.
-
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 477/1990 Zb. o základných umeleckých školách.
-
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 536/1990 Zb. o zriaďovaní a činnosti cirkevných škôl.
-
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 80/1991 Zb. o stredných školách v znení vyhlášky č. 52/1993 Z. z., vyhlášky č. 255/1995 Z. z., vyhlášky č. 120/2003 Z. z., vyhlášky č. 424/2005 Z. z.
-
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 212/1991 Zb. o špeciálnych školách v znení vyhlášky č. 63/2000 Z. z., vyhlášky č. 364/2003 Z. z. a vyhlášky č. 49/2004 Z. z.
-
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 261/1991 Zb., ktorou sa určujú podmienky uzatvárania hospodárskych zmlúv o dočasnom užívaní majetku
-
 #### Záverečné ustanovenia
 
 ##### § 162
@@ -5332,6 +5366,36 @@ Zrušujú sa:
 Týmto zákonom sa preberajú právne záväzné akty Európskej únie uvedené v prílohe.
 
 ##### § 163 Zrušovacie ustanovenia
+
+Zrušujú sa:
+
+1. Zákon č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení zákona č. 188/1988 Zb., zákona č. 171/1990 Zb., zákona č. 522/1990 Zb., zákona Národnej rady Slovenskej republiky č. 230/1994 Z. z., zákona Národnej rady Slovenskej republiky č. 231/1994 Z. z., zákona č. 6/1998 Z. z., zákona č. 5/1999 Z. z., zákona č. 229/2000 Z. z., zákona č. 216/2001 Z. z., zákona č. 416/2001 Z. z., zákona č. 506/2001 Z. z., zákona č. 334/2002 Z. z., zákona č. 408/2002 Z. z., zákona č. 553/2003 Z. z., zákona č. 596/2003 Z. z., zákona č. 207/2004 Z. z., zákona č. 365/2004 Z. z., zákona č. 1/2005 Z. z., zákona č. 5/2005 Z. z. a zákona č. 363/2007 Z. z.
+
+2. Zákon Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení zákona č. 222/1996 Z. z., zákona č. 230/2000 Z. z., zákona č. 202/2001 Z. z., zákona č. 416/2001 Z. z., zákona č. 334/2002 Z. z. a zákona č. 596/2003 Z. z.
+
+3. Nariadenie vlády Slovenskej socialistickej republiky č. 99/1978 Zb. o zriaďovaní a prevádzke predškolských zariadení socialistickými organizáciami.
+
+4. Nariadenie vlády Slovenskej republiky č. 282/1994 Z. z. o používaní učebníc a učebných textov.
+
+5. Vyhláška ministerstiev školstva a zdravotníctva a Štátneho úradu sociálneho zabezpečenia č. 124/1967 Zb. o čiastočnej úhrade nákladov na starostlivosť poskytovanú v niektorých zariadeniach pre mládež v znení vyhlášky č. 110/1970 Zb., vyhlášky č. 156/1970 Zb. a vyhlášky č. 149/1988 Zb.
+
+6. Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 119/1980 Zb. o výkone ústavnej výchovy a ochrannej výchovy v školských výchovných zariadeniach v znení vyhlášky č. 46/1982 Zb., vyhlášky č. 56/1986 Zb. a vyhlášky č. 230/2000 Z. z.
+
+7. Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 143/1984 Zb. o základnej škole v znení vyhlášky č. 409/1990 Zb. a vyhlášky č. 249/1995 Z. z.
+
+8. Vyhláška Ministerstva školstva Slovenskej socialistickej republiky č. 86/1986 Zb. o združení rodičov a priateľov školy v znení vyhlášky č. 37/1987 Zb.
+
+9. Vyhláška Ministerstva školstva, mládeže a telesnej výchovy Slovenskej socialistickej republiky č. 65/1988 Zb. o športových školách a stredných odborných učilištiach s triedami s vrcholovou športovou prípravou.
+
+10. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 477/1990 Zb. o základných umeleckých školách.
+
+11. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky a Ministerstva zdravotníctva Slovenskej republiky č. 536/1990 Zb. o zriaďovaní a činnosti cirkevných škôl.
+
+12. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 80/1991 Zb. o stredných školách v znení vyhlášky č. 52/1993 Z. z., vyhlášky č. 255/1995 Z. z., vyhlášky č. 120/2003 Z. z., vyhlášky č. 424/2005 Z. z.
+
+13. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 212/1991 Zb. o špeciálnych školách v znení vyhlášky č. 63/2000 Z. z., vyhlášky č. 364/2003 Z. z. a vyhlášky č. 49/2004 Z. z.
+
+14. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 261/1991 Zb., ktorou sa určujú podmienky uzatvárania hospodárskych zmlúv o dočasnom užívaní majetku
 
 [[END OF PAGE 118]]
 
@@ -5343,51 +5407,51 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 119
 
-- stredných odborných učilíšť a stredísk praktického vyučovania štátnym podnikom, štátnou organizáciou alebo ich právnym nástupcom.
+stredných odborných učilíšť a stredísk praktického vyučovania štátnym podnikom, štátnou organizáciou alebo ich právnym nástupcom.
 
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 262/1991 Zb. o postupe a úlohách orgánov a organizácií pri riadení a príprave mládeže na povolanie v stredných odborných učilištiach a strediskách praktického vyučovania a o podmienkach pre ich zriaďovanie.
+15. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 262/1991 Zb. o postupe a úlohách orgánov a organizácií pri riadení a príprave mládeže na povolanie v stredných odborných učilištiach a strediskách praktického vyučovania a o podmienkach pre ich zriaďovanie.
 
-- Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 358/1991 Zb. o finančnom a hmotnom zabezpečení cudzincov študujúcich v Slovenskej republike.
+16. Vyhláška Ministerstva školstva, mládeže a športu Slovenskej republiky č. 358/1991 Zb. o finančnom a hmotnom zabezpečení cudzincov študujúcich v Slovenskej republike.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 245/1993 Z. z. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, špeciálnych stredných odborných učilíšť, odborných učilíšť a učilíšť v znení vyhlášky č. 595/2007 Z. z.
+17. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 245/1993 Z. z. o finančnom a hmotnom zabezpečení žiakov stredných odborných učilíšť, špeciálnych stredných odborných učilíšť, odborných učilíšť a učilíšť v znení vyhlášky č. 595/2007 Z. z.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 196/1994 Z. z. o domovoch mládeže v znení vyhlášky č. 426/2007 Z. z.
+18. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 196/1994 Z. z. o domovoch mládeže v znení vyhlášky č. 426/2007 Z. z.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 280/1994 Z. z. o súkromných školách.
+19. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 280/1994 Z. z. o súkromných školách.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 291/1994 Z. z. o centrách voľného času v znení vyhlášky č. 27/2005 Z. z. a vyhlášky č. 388/2007 Z. z.
+20. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 291/1994 Z. z. o centrách voľného času v znení vyhlášky č. 27/2005 Z. z. a vyhlášky č. 388/2007 Z. z.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 295/1994 Z. z. o škole v prírode.
+21. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 295/1994 Z. z. o škole v prírode.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 351/1994 Z. z. o školských strediskách záujmovej činnosti v znení vyhlášky č. 28/2005 Z. z. a vyhlášky č. 389/2007 Z. z.
+22. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 351/1994 Z. z. o školských strediskách záujmovej činnosti v znení vyhlášky č. 28/2005 Z. z. a vyhlášky č. 389/2007 Z. z.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 352/1994 Z. z. o školských výpočtových strediskách.
+23. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 352/1994 Z. z. o školských výpočtových strediskách.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 353/1994 Z. z. o predškolských zariadeniach v znení vyhlášky č. 81/1997 Z. z. a vyhlášky č. 540/2004 Z. z.
+24. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 353/1994 Z. z. o predškolských zariadeniach v znení vyhlášky č. 81/1997 Z. z. a vyhlášky č. 540/2004 Z. z.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 28/1995 Z. z. o školských kluboch detí v znení vyhlášky č. 140/1995 Z. z. a vyhlášky č. 588/2004 Z. z.
+25. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 28/1995 Z. z. o školských kluboch detí v znení vyhlášky č. 140/1995 Z. z. a vyhlášky č. 588/2004 Z. z.
 
-- Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 85/1995 Z. z. o školských hospodárstvach.
+26. Vyhláška Ministerstva školstva a vedy Slovenskej republiky č. 85/1995 Z. z. o školských hospodárstvach.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 139/1995 Z. z. o Štátnom stenografickom ústave.
+27. Vyhláška Ministerstva školstva Slovenskej republiky č. 139/1995 Z. z. o Štátnom stenografickom ústave.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 167/1995 Z. z. o strediskách služieb škole.
+28. Vyhláška Ministerstva školstva Slovenskej republiky č. 167/1995 Z. z. o strediskách služieb škole.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 14/1996 Z. z. o podmienkach poskytovania dotácií zo štátneho rozpočtu cirkevným školským zariadeniam, obecným školským zariadeniam a súkromným školským zariadeniam.
+29. Vyhláška Ministerstva školstva Slovenskej republiky č. 14/1996 Z. z. o podmienkach poskytovania dotácií zo štátneho rozpočtu cirkevným školským zariadeniam, obecným školským zariadeniam a súkromným školským zariadeniam.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 43/1996 Z. z. o podrobnostiach o výchovnom poradenstve a o poradenských zariadeniach v znení vyhlášky č. 222/1996 Z. z.
+30. Vyhláška Ministerstva školstva Slovenskej republiky č. 43/1996 Z. z. o podrobnostiach o výchovnom poradenstve a o poradenských zariadeniach v znení vyhlášky č. 222/1996 Z. z.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 44/1996 Z. z. o jazykových školách a štátnych jazykových školách a o štátnych jazykových skúškach.
+31. Vyhláška Ministerstva školstva Slovenskej republiky č. 44/1996 Z. z. o jazykových školách a štátnych jazykových školách a o štátnych jazykových skúškach.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 145/1996 Z. z. o prijímaní na štúdium na stredných školách v znení vyhlášky č. 437/2001 Z. z., vyhlášky č. 725/2002 Z. z., vyhlášky č. 6/2004 Z. z. a vyhlášky č. 706/2004 Z. z.
+32. Vyhláška Ministerstva školstva Slovenskej republiky č. 145/1996 Z. z. o prijímaní na štúdium na stredných školách v znení vyhlášky č. 437/2001 Z. z., vyhlášky č. 725/2002 Z. z., vyhlášky č. 6/2004 Z. z. a vyhlášky č. 706/2004 Z. z.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 279/1996 Z. z. o strediskách odbornej praxe.
+33. Vyhláška Ministerstva školstva Slovenskej republiky č. 279/1996 Z. z. o strediskách odbornej praxe.
 
-- Vyhláška Ministerstva vnútra Slovenskej republiky č. 145/2002 Z. z. o stredných školách požiarnej ochrany.
+34. Vyhláška Ministerstva vnútra Slovenskej republiky č. 145/2002 Z. z. o stredných školách požiarnej ochrany.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 311/2004 Z. z. o poskytovaní štipendií žiakom stredných škôl a špeciálnych škôl v znení vyhlášky č. 343/2006 Z. z.
+35. Vyhláška Ministerstva školstva Slovenskej republiky č. 311/2004 Z. z. o poskytovaní štipendií žiakom stredných škôl a špeciálnych škôl v znení vyhlášky č. 343/2006 Z. z.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 510/2004 Z. z. o ukončovaní štúdia na
+36. Vyhláška Ministerstva školstva Slovenskej republiky č. 510/2004 Z. z. o ukončovaní štúdia na
 
 [[END OF PAGE 119]]
 
@@ -5399,41 +5463,43 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- stredných školách a o ukončovaní prípravy v odborných učilištiach, učilištiach a praktických školách v znení vyhlášky č. 379/2005 Z. z., vyhlášky č. 482/2006 Z. z. a vyhlášky č. 390/2007 Z. z.
+stredných školách a o ukončovaní prípravy v odborných učilištiach, učilištiach a praktických školách v znení vyhlášky č. 379/2005 Z. z., vyhlášky č. 482/2006 Z. z. a vyhlášky č. 390/2007 Z. z.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 376/2005 Z. z., ktorou sa upravujú podrobnosti o podmienkach a pravidlách experimentálneho overovania cieľov, obsahu, metód, organizácie a riadenia výkonu výchovno-vzdelávacieho procesu v školách a v školských zariadeniach.
+37. Vyhláška Ministerstva školstva Slovenskej republiky č. 376/2005 Z. z., ktorou sa upravujú podrobnosti o podmienkach a pravidlách experimentálneho overovania cieľov, obsahu, metód, organizácie a riadenia výkonu výchovno-vzdelávacieho procesu v školách a v školských zariadeniach.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 361/2007 Z. z. o podrobnostiach organizácie školského roka na základných školách, na stredných školách a na základných umeleckých školách.
+38. Vyhláška Ministerstva školstva Slovenskej republiky č. 361/2007 Z. z. o podrobnostiach organizácie školského roka na základných školách, na stredných školách a na základných umeleckých školách.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 366/2007 Z. z. o podrobnostiach o činnosti a prevádzke zariadení školského stravovania.
+39. Vyhláška Ministerstva školstva Slovenskej republiky č. 366/2007 Z. z. o podrobnostiach o činnosti a prevádzke zariadení školského stravovania.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 319/2008 Z. z. o uznávaní náhrady maturitnej skúšky z cudzieho jazyka v znení vyhlášky Ministerstva školstva Slovenskej republiky č. 269/2009 Z. z., vyhlášky Ministerstva školstva Slovenskej republiky č. 405/2009 Z. z. a vyhlášky Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 208/2011 Z. z.
+40. Vyhláška Ministerstva školstva Slovenskej republiky č. 319/2008 Z. z. o uznávaní náhrady maturitnej skúšky z cudzieho jazyka v znení vyhlášky Ministerstva školstva Slovenskej republiky č. 269/2009 Z. z., vyhlášky Ministerstva školstva Slovenskej republiky č. 405/2009 Z. z. a vyhlášky Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 208/2011 Z. z.
 
-- Vyhláška Ministerstva školstva Slovenskej republiky č. 649/2008 Z. z. o účele použitia príspevku na žiakov zo sociálne znevýhodneného prostredia v znení vyhlášky Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 452/2011 Z. z.
+41. Vyhláška Ministerstva školstva Slovenskej republiky č. 649/2008 Z. z. o účele použitia príspevku na žiakov zo sociálne znevýhodneného prostredia v znení vyhlášky Ministerstva školstva, vedy, výskumu a športu Slovenskej republiky č. 452/2011 Z. z.
 
 ## Čl. II
 
 Zákon č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení zákona č. 365/2004 Z. z., zákona č. 564/2004 Z. z., zákona č. 5/2005 Z. z., zákona č. 475/2005 Z. z., zákona č. 279/2006 Z. z. a zákona č. 689/2006 Z. z. sa mení a dopĺňa takto:
 
-- V § 3 odsek 2 znie:
+1. V § 3 odsek 2 znie:
 
-'(2) Ak je zriaďovateľom orgán podľa ustanovenia § 2 ods. 1 písm. b) až d), vymenúva riaditeľa na päťročné funkčné obdobie zriaďovateľ na návrh rady školy v lehote do 30 kalendárnych dní odo dňa predloženia návrhu. Rada školy predkladá návrh na kandidáta na riaditeľa na základe výberového konania (§ 4) okrem kandidáta, ktorý bol odvolaný podľa odsekov 7 a 8. Návrh rady školy je pre zriaďovateľa záväzný, ak tento zákon neustanovuje inak.'.
+„(2) Ak je zriaďovateľom orgán podľa ustanovenia § 2 ods. 1 písm. b) až d), vymenúva riaditeľa na päťročné funkčné obdobie zriaďovateľ na návrh rady školy v lehote do 30 kalendárnych dní odo dňa predloženia návrhu. Rada školy predkladá návrh na kandidáta na riaditeľa na základe výberového konania (§ 4) okrem kandidáta, ktorý bol odvolaný podľa odsekov 7 a 8. Návrh rady školy je pre zriaďovateľa záväzný, ak tento zákon neustanovuje inak.“.
 
-- V § 3 odsek 4 znie:
+2. V § 3 odsek 4 znie:
 
-'(4) Riaditeľa školy alebo riaditeľa školského zariadenia, pri ktorom sa rada školy nezriaďuje alebo rada školy nekoná v ustanovenej lehote (§ 4 ods. 4), alebo ak rada školy nenavrhla zriaďovateľovi kandidáta na vymenovanie riaditeľa na základe dvoch po sebe nasledujúcich výberových konaní, na ktorých sa zúčastnil najmenej jeden kandidát, ktorý spĺňa kvalifikačné predpoklady podľa odseku 5, vymenúva zriaďovateľ podľa osobitného predpisu. 6 ) Zriaďovateľ podľa § 19 ods. 2 písm. d) a e) postupuje rovnakým spôsobom.'.
+„(4) Riaditeľa školy alebo riaditeľa školského zariadenia, pri ktorom sa rada školy nezriaďuje alebo rada školy nekoná v ustanovenej lehote (§ 4 ods. 4), alebo ak rada školy nenavrhla zriaďovateľovi kandidáta na vymenovanie riaditeľa na základe dvoch po sebe nasledujúcich výberových konaní, na ktorých sa zúčastnil najmenej jeden kandidát, ktorý spĺňa kvalifikačné predpoklady podľa odseku 5, vymenúva zriaďovateľ podľa osobitného predpisu.6) Zriaďovateľ podľa § 19 ods. 2 písm. d) a e) postupuje rovnakým spôsobom.“.
 
-- V § 3 sa odsek 7 dopĺňa písmenom e), ktoré znie:
+3. V § 3 sa odsek 7 dopĺňa písmenom e), ktoré znie:
 
-'e) na návrh hlavného školského inšpektora [§ 12 ods. 3 písm. f)].'.
+„e) na návrh hlavného školského inšpektora [§ 12 ods. 3 písm. f)].“.
 
-- V § 3 ods. 8 sa vypúšťa písmeno c). Doterajšie písmeno d) sa označuje ako písmeno c).
+4. V § 3 ods. 8 sa vypúšťa písmeno c). Doterajšie písmeno d) sa označuje ako písmeno c).
 
-- V § 3 ods. 9 sa slová 'odseku 8 písm. b) až d)' nahrádzajú slovami 'odseku 8 písm. b) a c)'.
+5. V § 3 ods. 9 sa slová „odseku 8 písm. b) až d)“ nahrádzajú slovami „odseku 8 písm. b) a c)“.
 
-§ 3 sa dopĺňa odsekom 12, ktorý znie:
+6. § 3 sa dopĺňa odsekom 12, ktorý znie:
 
-'(12) Zriaďovateľ cirkevnej školy alebo zriaďovateľ súkromnej školy vymenúva riaditeľa na návrh rady školy. Rada školy predkladá návrh na kandidáta na riaditeľa školy na základe výberového konania (§ 4). Ak zriaďovateľ navrhnutého kandidáta neakceptuje, požiada radu školy o predloženie návrhu na nového kandidáta. Ak rada cirkevnej školy predloží návrh na kandidáta na vymenovanie riaditeľa po druhom výberovom konaní, ktorý nespĺňa kritériá zriaďovateľa podľa výchovného zamerania školy, 13a ) riaditeľa vymenúva zriaďovateľ.'. Poznámka pod čiarou k odkazu13a znie:
+„(12) Zriaďovateľ cirkevnej školy alebo zriaďovateľ súkromnej školy vymenúva riaditeľa na návrh rady školy. Rada školy predkladá návrh na kandidáta na riaditeľa školy na základe výberového konania (§ 4). Ak zriaďovateľ navrhnutého kandidáta neakceptuje, požiada radu školy o predloženie návrhu na nového kandidáta. Ak rada cirkevnej školy predloží návrh na kandidáta na vymenovanie riaditeľa po druhom výberovom konaní, ktorý nespĺňa kritériá zriaďovateľa podľa výchovného zamerania školy,13a) riaditeľa vymenúva zriaďovateľ.“.
+
+Poznámka pod čiarou k odkazu13a znie:
 
 [[END OF PAGE 120]]
 
@@ -5445,61 +5511,61 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 121
 
-'13a) Čl. 1 ods. 2 Zmluvy medzi Slovenskou republikou a Svätou stolicou o katolíckej výchove a vzdelávaní (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 394/2004 Z. z.).'.
+„13a) Čl. 1 ods. 2 Zmluvy medzi Slovenskou republikou a Svätou stolicou o katolíckej výchove a vzdelávaní (oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 394/2004 Z. z.).“.
 
-- V § 4 ods. 2 sa za prvú vetu vkladá nová veta, ktorá znie: 'Organizačné zabezpečenie výberového konania a posúdenie kvalifikačných predpokladov kandidátov na vymenovanie riaditeľa zabezpečuje zriaďovateľ.'.
+7. V § 4 ods. 2 sa za prvú vetu vkladá nová veta, ktorá znie: „Organizačné zabezpečenie výberového konania a posúdenie kvalifikačných predpokladov kandidátov na vymenovanie riaditeľa zabezpečuje zriaďovateľ.“.
 
-- V § 4 odsek 3 znie:
+8. V § 4 odsek 3 znie:
 
-'(3) Rada školy vyzve príslušný krajský školský úrad a Štátnu školskú inšpekciu na delegovanie svojich zástupcov do rady školy na účely výberového konania s riadnym hlasom; v stredných zdravotníckych školách je prizývaný delegovaný zástupca Ministerstva zdravotníctva Slovenskej republiky.'.
+„(3) Rada školy vyzve príslušný krajský školský úrad a Štátnu školskú inšpekciu na delegovanie svojich zástupcov do rady školy na účely výberového konania s riadnym hlasom; v stredných zdravotníckych školách je prizývaný delegovaný zástupca Ministerstva zdravotníctva Slovenskej republiky.“.
 
-- V § 5 odsek 2 znie:
+9. V § 5 odsek 2 znie:
 
-'(2) Riaditeľ zodpovedá za
+„(2) Riaditeľ zodpovedá za
 
-- dodržiavanie štátnych vzdelávacích programov určených pre školu, ktorú riadi,
+a) dodržiavanie štátnych vzdelávacích programov určených pre školu, ktorú riadi,
 
-- vypracovanie a dodržiavanie školského vzdelávacieho programu a výchovného programu,
+b) vypracovanie a dodržiavanie školského vzdelávacieho programu a výchovného programu,
 
-- vypracovanie a dodržiavanie ročného plánu ďalšieho vzdelávania pedagogických zamestnancov,
+c) vypracovanie a dodržiavanie ročného plánu ďalšieho vzdelávania pedagogických zamestnancov,
 
-- dodržiavanie všeobecne záväzných právnych predpisov, ktoré súvisia s predmetom činnosti školy alebo školského zariadenia,
+d) dodržiavanie všeobecne záväzných právnych predpisov, ktoré súvisia s predmetom činnosti školy alebo školského zariadenia,
 
-- každoročné hodnotenie pedagogických a odborných zamestnancov,
+e) každoročné hodnotenie pedagogických a odborných zamestnancov,
 
-- úroveň výchovno-vzdelávacej práce školy alebo školského zariadenia,
+f) úroveň výchovno-vzdelávacej práce školy alebo školského zariadenia,
 
-- rozpočet, financovanie 15 ) a efektívne využívanie finančných prostriedkov určených na zabezpečenie činnosti školy alebo školského zariadenia,
+g) rozpočet, financovanie15) a efektívne využívanie finančných prostriedkov určených na zabezpečenie činnosti školy alebo školského zariadenia,
 
-- riadne hospodárenie s majetkom v správe alebo vo vlastníctve školy alebo školského zariadenia.'.
+h) riadne hospodárenie s majetkom v správe alebo vo vlastníctve školy alebo školského zariadenia.“.
 
-- V § 5 sa odsek 3 dopĺňa písmenami k) až n), ktoré znejú:
+10. V § 5 sa odsek 3 dopĺňa písmenami k) až n), ktoré znejú:
 
-'k) individuálnom vzdelávaní žiaka,
+„k) individuálnom vzdelávaní žiaka,
 
-- vzdelávaní žiaka v školách zriadených iným štátom na území Slovenskej republiky so súhlasom zastupiteľského úradu iného štátu,
+l) vzdelávaní žiaka v školách zriadených iným štátom na území Slovenskej republiky so súhlasom zastupiteľského úradu iného štátu,
 
-- individuálnom vzdelávaní žiaka v zahraničí,
+m) individuálnom vzdelávaní žiaka v zahraničí,
 
-- umožnení štúdia žiaka podľa individuálneho učebného plánu.'.
+n) umožnení štúdia žiaka podľa individuálneho učebného plánu.“.
 
-- V § 5 ods. 4 písm. a) sa na konci vypúšťajú tieto slová: 'alebo učilište'.
+11. V § 5 ods. 4 písm. a) sa na konci vypúšťajú tieto slová: „alebo učilište“.
 
-- Poznámka pod čiarou k odkazu 17 sa vypúšťa.
+12. Poznámka pod čiarou k odkazu 17 sa vypúšťa.
 
-- V § 5 sa odsek 4 dopĺňa písmenami o) až r), ktoré znejú:
+13. V § 5 sa odsek 4 dopĺňa písmenami o) až r), ktoré znejú:
 
-'o) uznaní náhrady maturitnej skúšky z cudzieho jazyka,
+„o) uznaní náhrady maturitnej skúšky z cudzieho jazyka,
 
-- individuálnom vzdelávaní žiaka,
+p) individuálnom vzdelávaní žiaka,
 
-- vzdelávaní žiaka v školách zriadených iným štátom na území Slovenskej republiky so súhlasom zastupiteľského úradu iného štátu.'.
+r) vzdelávaní žiaka v školách zriadených iným štátom na území Slovenskej republiky so súhlasom zastupiteľského úradu iného štátu.“.
 
-- V § 5 ods. 7 písmeno c) znie:
+14. V § 5 ods. 7 písmeno c) znie:
 
-'c) návrh školského vzdelávacieho programu a výchovného programu,'.
+„c) návrh školského vzdelávacieho programu a výchovného programu,“.
 
-§ 5 sa dopĺňa odsekmi 12 až 14, ktoré znejú:
+15. § 5 sa dopĺňa odsekmi 12 až 14, ktoré znejú:
 
 [[END OF PAGE 121]]
 
@@ -5511,59 +5577,59 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-'(12) Riaditeľ jazykovej školy rozhoduje o
+„(12) Riaditeľ jazykovej školy rozhoduje o
 
-- prijatí na štúdium,
+a) prijatí na štúdium,
 
-- prerušení štúdia,
+b) prerušení štúdia,
 
-- predčasnom skončení štúdia,
+c) predčasnom skončení štúdia,
 
-- určení príspevku poslucháča alebo zákonného zástupcu poslucháča na čiastočnú úhradu nákladov spojených so štúdiom. 18 )
+d) určení príspevku poslucháča alebo zákonného zástupcu poslucháča na čiastočnú úhradu nákladov spojených so štúdiom.18)
 
 (13) Riaditeľ materskej školy rozhoduje o
 
-- prijatí dieťaťa do materskej školy,
+a) prijatí dieťaťa do materskej školy,
 
-- zaradení na adaptačný pobyt alebo diagnostický pobyt dieťaťa v materskej škole,
+b) zaradení na adaptačný pobyt alebo diagnostický pobyt dieťaťa v materskej škole,
 
-- prerušení dochádzky dieťaťa,
+c) prerušení dochádzky dieťaťa,
 
-- predčasnom ukončení predprimárneho vzdelávania,
+d) predčasnom ukončení predprimárneho vzdelávania,
 
-- určení príspevku zákonného zástupcu dieťaťa na čiastočnú úhradu nákladov spojených s predprimárnym vzdelávaním. 18a )
+e) určení príspevku zákonného zástupcu dieťaťa na čiastočnú úhradu nákladov spojených s predprimárnym vzdelávaním.18a)
 
-(14) Riaditeľ rozhoduje o ukončení adaptačného vzdelávania pedagogického alebo odborného zamestnanca.'.
+(14) Riaditeľ rozhoduje o ukončení adaptačného vzdelávania pedagogického alebo odborného zamestnanca.“.
 
 Poznámky pod čiarou k odkazom 18 a 18a znejú:
 
-'18) § 53 ods. 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
+„18) § 53 ods. 5 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.
 
-18a) § 28 ods. 4 zákona č. 245/2008 Z. z.'.
+18a) § 28 ods. 4 zákona č. 245/2008 Z. z.“.
 
-- V § 6 sa odsek 2 dopĺňa písmenom i), ktoré znie:
+16. V § 6 sa odsek 2 dopĺňa písmenom i), ktoré znie:
 
-'i) školské internáty.'.
+„i) školské internáty.“.
 
-- V § 6 sa odsek 8 dopĺňa písmenom j), ktoré znie:
+17. V § 6 sa odsek 8 dopĺňa písmenom j), ktoré znie:
 
-'j) prerokuje školský vzdelávací program a výchovný program. 23a )'.
+„j) prerokuje školský vzdelávací program a výchovný program.23a)“.
 
 Poznámka pod čiarkou k odkazu 23a znie:
 
-'23a) § 7 ods. 2 a § 8 ods. 2 zákona č. 245/2008 Z. z.'.
+„23a) § 7 ods. 2 a § 8 ods. 2 zákona č. 245/2008 Z. z.“.
 
-- V § 6 ods. 12 písmeno b) znie:
+18. V § 6 ods. 12 písmeno b) znie:
 
-'b) poskytuje na základe žiadosti zriaďovateľa z finančných prostriedkov poukázaných podľa osobitného predpisu 30a ) dotácie na mzdy a prevádzku zriaďovateľovi cirkevnej základnej umeleckej školy, zriaďovateľovi cirkevnej jazykovej školy, zriaďovateľovi cirkevnej materskej školy, 30b ) zriaďovateľovi cirkevného školského zariadenia, zriaďovateľovi súkromnej základnej umeleckej školy, zriaďovateľovi súkromnej jazykovej školy, zriaďovateľovi súkromnej materskej školy 30b ) a zriaďovateľovi súkromného školského zariadenia; zriaďovateľ cirkevnej základnej umeleckej školy, zriaďovateľ cirkevnej materskej školy, 30b ) zriaďovateľ cirkevnej jazykovej školy, zriaďovateľ cirkevného školského zariadenia, zriaďovateľ súkromnej základnej umeleckej školy, zriaďovateľ súkromnej materskej školy, 30b ) zriaďovateľ súkromnej jazykovej školy a zriaďovateľ súkromného školského zariadenia, ktoré sú zriadené na území obce, môžu požiadať obec o dotáciu na dieťa alebo žiaka do 15 rokov veku na mzdy a prevádzku takých základných umeleckých škôl, jazykových škôl, materských škôl 30b ) a školských zariadení, ktorých zriaďovateľom môže byť aj obec alebo krajský školský úrad.'.
+„b) poskytuje na základe žiadosti zriaďovateľa z finančných prostriedkov poukázaných podľa osobitného predpisu30a) dotácie na mzdy a prevádzku zriaďovateľovi cirkevnej základnej umeleckej školy, zriaďovateľovi cirkevnej jazykovej školy, zriaďovateľovi cirkevnej materskej školy,30b) zriaďovateľovi cirkevného školského zariadenia, zriaďovateľovi súkromnej základnej umeleckej školy, zriaďovateľovi súkromnej jazykovej školy, zriaďovateľovi súkromnej materskej školy30b) a zriaďovateľovi súkromného školského zariadenia; zriaďovateľ cirkevnej základnej umeleckej školy, zriaďovateľ cirkevnej materskej školy,30b) zriaďovateľ cirkevnej jazykovej školy, zriaďovateľ cirkevného školského zariadenia, zriaďovateľ súkromnej základnej umeleckej školy, zriaďovateľ súkromnej materskej školy,30b) zriaďovateľ súkromnej jazykovej školy a zriaďovateľ súkromného školského zariadenia, ktoré sú zriadené na území obce, môžu požiadať obec o dotáciu na dieťa alebo žiaka do 15 rokov veku na mzdy a prevádzku takých základných umeleckých škôl, jazykových škôl, materských škôl30b) a školských zariadení, ktorých zriaďovateľom môže byť aj obec alebo krajský školský úrad.“.
 
 Poznámka pod čiarou k odkazu 30b znie:
 
-'30b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.'.
+„30b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.“.
 
-§ 6 sa dopĺňa odsekmi 23 a 24, ktoré znejú:
+19. § 6 sa dopĺňa odsekmi 23 a 24, ktoré znejú:
 
-'(23) Obec vykonáva hodnotenie riaditeľa školy alebo riaditeľa školského zariadenia, ktorých je zriaďovateľom.
+„(23) Obec vykonáva hodnotenie riaditeľa školy alebo riaditeľa školského zariadenia, ktorých je zriaďovateľom.
 
 [[END OF PAGE 122]]
 
@@ -5575,55 +5641,55 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 123
 
-- Obec ako zriaďovateľ určí výšku príspevku za pobyt dieťaťa v materskej škole, výšku príspevku v základnej umeleckej škole, výšku úhrady nákladov na štúdium v jazykovej škole a výšku mesačného príspevku na čiastočnú úhradu nákladov na činnosť školského klubu detí, školského strediska záujmovej činnosti, internátu alebo centra voľného času.'.
+(24) Obec ako zriaďovateľ určí výšku príspevku za pobyt dieťaťa v materskej škole, výšku príspevku v základnej umeleckej škole, výšku úhrady nákladov na štúdium v jazykovej škole a výšku mesačného príspevku na čiastočnú úhradu nákladov na činnosť školského klubu detí, školského strediska záujmovej činnosti, internátu alebo centra voľného času.“.
 
-- V § 8 ods. 7 sa slová 'špeciálnych základných škôl' nahrádzajú slovami 'základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami'.
+20. V § 8 ods. 7 sa slová „špeciálnych základných škôl“ nahrádzajú slovami „základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami“.
 
-- V § 9 ods. 1 sa vypúšťa písmeno b).
+21. V § 9 ods. 1 sa vypúšťa písmeno b).
 
 Doterajšie písmeno c) sa označuje ako písmeno b).
 
-- V § 9 odsek 2 znie:
+22. V § 9 odsek 2 znie:
 
-'(2) Samosprávny kraj pri výkone samosprávy 36 ) zriaďuje a zrušuje podľa siete
+„(2) Samosprávny kraj pri výkone samosprávy36) zriaďuje a zrušuje podľa siete
 
-- základné umelecké školy,
+a) základné umelecké školy,
 
-- jazykové školy okrem jazykových škôl pri základných školách,
+b) jazykové školy okrem jazykových škôl pri základných školách,
 
-- školské internáty,
+c) školské internáty,
 
-- zariadenia školského stravovania,
+d) zariadenia školského stravovania,
 
-- školské hospodárstva a strediská odbornej praxe,
+e) školské hospodárstva a strediská odbornej praxe,
 
-- strediská služieb školy,
+f) strediská služieb školy,
 
-- školy v prírode,
+g) školy v prírode,
 
-- centrá voľného času s územnou pôsobnosťou samosprávneho kraja,
+h) centrá voľného času s územnou pôsobnosťou samosprávneho kraja,
 
-- školské strediská záujmovej činnosti.'.
+i) školské strediská záujmovej činnosti.“.
 
-- V § 9 ods. 8 písm. g) sa vypúšťajú slová 'stredných odborných učilíšť,' a slová 'združených stredných škôl,'.
+23. V § 9 ods. 8 písm. g) sa vypúšťajú slová „stredných odborných učilíšť,“ a slová „združených stredných škôl,“.
 
-- V § 9 sa odsek 8 dopĺňa písmenom n), ktoré znie:
+24. V § 9 sa odsek 8 dopĺňa písmenom n), ktoré znie:
 
-'n) prerokuje školský vzdelávací program a výchovný program. 23a )'.
+„n) prerokuje školský vzdelávací program a výchovný program.23a)“.
 
-- V § 9 ods. 12 písmeno b) znie:
+25. V § 9 ods. 12 písmeno b) znie:
 
-'b) poskytuje na základe žiadosti zriaďovateľa z finančných prostriedkov poukázaných podľa osobitného predpisu 30a ) dotácie na mzdy a prevádzku zriaďovateľovi cirkevnej základnej umeleckej školy, zriaďovateľovi cirkevnej jazykovej školy, zriaďovateľovi cirkevného školského zariadenia, zriaďovateľovi súkromnej základnej umeleckej školy, zriaďovateľovi súkromnej jazykovej školy a zriaďovateľovi súkromného školského zariadenia; zriaďovateľ cirkevnej základnej umeleckej školy, zriaďovateľ cirkevnej jazykovej školy, zriaďovateľ cirkevného školského zariadenia, zriaďovateľ súkromnej základnej umeleckej školy, zriaďovateľ súkromnej jazykovej školy a zriaďovateľ súkromného školského zariadenia, ktoré sú zriadené na území samosprávneho kraja, môžu požiadať samosprávny kraj o dotáciu na žiaka nad 15 rokov veku na mzdy a prevádzku takých základných umeleckých škôl, jazykových škôl a školských zariadení, ktorých zriaďovateľom môže byť aj samosprávny kraj alebo krajský školský úrad, a na dieťa alebo žiaka do 15 rokov veku takého školského zariadenia, 30c ) ktorého zriaďovateľom nemôže byť obec a nemôže byť krajský školský úrad.'.
+„b) poskytuje na základe žiadosti zriaďovateľa z finančných prostriedkov poukázaných podľa osobitného predpisu30a) dotácie na mzdy a prevádzku zriaďovateľovi cirkevnej základnej umeleckej školy, zriaďovateľovi cirkevnej jazykovej školy, zriaďovateľovi cirkevného školského zariadenia, zriaďovateľovi súkromnej základnej umeleckej školy, zriaďovateľovi súkromnej jazykovej školy a zriaďovateľovi súkromného školského zariadenia; zriaďovateľ cirkevnej základnej umeleckej školy, zriaďovateľ cirkevnej jazykovej školy, zriaďovateľ cirkevného školského zariadenia, zriaďovateľ súkromnej základnej umeleckej školy, zriaďovateľ súkromnej jazykovej školy a zriaďovateľ súkromného školského zariadenia, ktoré sú zriadené na území samosprávneho kraja, môžu požiadať samosprávny kraj o dotáciu na žiaka nad 15 rokov veku na mzdy a prevádzku takých základných umeleckých škôl, jazykových škôl a školských zariadení, ktorých zriaďovateľom môže byť aj samosprávny kraj alebo krajský školský úrad, a na dieťa alebo žiaka do 15 rokov veku takého školského zariadenia,30c) ktorého zriaďovateľom nemôže byť obec a nemôže byť krajský školský úrad.“.
 
 Poznámka pod čiarou k odkazu 30c znie:
 
-'30c) § 138 zákona č. 245/2008 Z. z.'.
+„30c) § 138 zákona č. 245/2008 Z. z.“.
 
-§ 9 sa dopĺňa odsekmi 18 a 19, ktoré znejú:
+26. § 9 sa dopĺňa odsekmi 18 a 19, ktoré znejú:
 
-'(18) Samosprávny kraj vo svojej zriaďovateľskej pôsobnosti vykonáva hodnotenie riaditeľa školy alebo riaditeľa školského zariadenia.
+„(18) Samosprávny kraj vo svojej zriaďovateľskej pôsobnosti vykonáva hodnotenie riaditeľa školy alebo riaditeľa školského zariadenia.
 
-(19) Samosprávny kraj ako zriaďovateľ určí výšku príspevku v základnej umeleckej škole, výšku úhrady nákladov na štúdium v jazykovej škole a výšku mesačného príspevku na čiastočnú úhradu nákladov na činnosť centra voľného času, školského strediska záujmovej činnosti a školského internátu.'.
+(19) Samosprávny kraj ako zriaďovateľ určí výšku príspevku v základnej umeleckej škole, výšku úhrady nákladov na štúdium v jazykovej škole a výšku mesačného príspevku na čiastočnú úhradu nákladov na činnosť centra voľného času, školského strediska záujmovej činnosti a školského internátu.“.
 
 [[END OF PAGE 123]]
 
@@ -5635,71 +5701,73 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- V § 10 odsek 5 znie:
+27. V § 10 odsek 5 znie:
 
-'(5) Krajský školský úrad zriaďuje a zrušuje podľa siete
+„(5) Krajský školský úrad zriaďuje a zrušuje podľa siete
 
-- základné školy, ak to vyžadujú osobitné podmienky,
+a) základné školy, ak to vyžadujú osobitné podmienky,
 
-- stredné školy a strediská praktického vyučovania, ak to vyžadujú osobitné podmienky,
+b) stredné školy a strediská praktického vyučovania, ak to vyžadujú osobitné podmienky,
 
-- materské školy pre deti so špeciálnymi výchovno-vzdelávacími potrebami,
+c) materské školy pre deti so špeciálnymi výchovno-vzdelávacími potrebami,
 
-- základné školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami,
+d) základné školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami,
 
-- stredné školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami,
+e) stredné školy pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami,
 
-- praktické školy,
+f) praktické školy,
 
-- odborné učilištia,
+g) odborné učilištia,
 
-- špeciálne výchovné zariadenia,
+h) špeciálne výchovné zariadenia,
 
-- školy, v ktorých sa výchova a vzdelávanie uskutočňujú v cudzom jazyku na základe medzinárodnej dohody,
+i) školy, v ktorých sa výchova a vzdelávanie uskutočňujú v cudzom jazyku na základe medzinárodnej dohody,
 
-- školský internát,
+j) školský internát,
 
-- centrá špeciálno-pedagogického poradenstva,
+k) centrá špeciálno-pedagogického poradenstva,
 
-- centrá pedagogicko-psychologického poradenstva,
+l) centrá pedagogicko-psychologického poradenstva,
 
-- školské zariadenia, ktoré sú súčasťou školy alebo školského zariadenia uvedeného v písmenách a) až j).'.
+m) školské zariadenia, ktoré sú súčasťou školy alebo školského zariadenia uvedeného v písmenách a) až j).“.
 
-§ 10 sa dopĺňa odsekom 16, ktorý znie:
+28. § 10 sa dopĺňa odsekom 16, ktorý znie:
 
-'(16) Vedie územný školský register detí a žiakov. 41a )'.
+„(16) Vedie územný školský register detí a žiakov.41a)“.
 
 Poznámka pod čiarou k odkazu 41a znie:
 
-'41a) § 157 ods. 3 písm. b) zákona č. 245/2008 Z. z.'.
+„41a) § 157 ods. 3 písm. b) zákona č. 245/2008 Z. z.“.
 
-§ 10 sa dopĺňa odsekom 17, ktorý znie:
+29. § 10 sa dopĺňa odsekom 17, ktorý znie:
 
-'(17) Krajský školský úrad v spolupráci s orgánmi územnej samosprávy organizačne a finančne zabezpečuje jazykové kurzy detí cudzincov s povoleným pobytom na území Slovenskej republiky.'.
+„(17) Krajský školský úrad v spolupráci s orgánmi územnej samosprávy organizačne a finančne zabezpečuje jazykové kurzy detí cudzincov s povoleným pobytom na území Slovenskej republiky.“.
 
-- V § 13 ods. 7 písm. g) sa na konci pripájajú tieto slová: 'okrem rozhodovania riaditeľa školy podľa osobitného predpisu, 80 )'.
+30. V § 13 ods. 7 písm. g) sa na konci pripájajú tieto slová: „okrem rozhodovania riaditeľa školy podľa osobitného predpisu,80)“.
 
-- V § 13 ods. 7 písm. h) sa slová '37 ods. 2 a 3' nahrádzajú slovami '37a ods. 2 a 3'.
+31. V § 13 ods. 7 písm. h) sa slová „37 ods. 2 a 3“ nahrádzajú slovami „37a ods. 2 a 3“.
 
-- V § 13 sa dopĺňa odsekom 13, ktorý znie:
+32. V § 13 sa dopĺňa odsekom 13, ktorý znie:
 
-'(13) Štátna školská inšpekcia pri výkone školskej inšpekcie ďalej
+„(13) Štátna školská inšpekcia pri výkone školskej inšpekcie ďalej
 
-- kontroluje súlad školského vzdelávacieho programu so štátnym vzdelávacím programom, s cieľmi a princípmi výchovy a vzdelávania, 47a )
+a) kontroluje súlad školského vzdelávacieho programu so štátnym vzdelávacím programom, s cieľmi a princípmi výchovy a vzdelávania,47a)
 
-- kontroluje súlad výchovného programu s cieľmi a princípmi výchovy a vzdelávania, 47b )
+b) kontroluje súlad výchovného programu s cieľmi a princípmi výchovy a vzdelávania,47b)
 
-- kontroluje úroveň kvality výchovy a vzdelávania pri individuálnom vzdelávaní, 47c )
+c) kontroluje úroveň kvality výchovy a vzdelávania pri individuálnom vzdelávaní,47c)
 
-d) monitoruje a hodnotí kvalitu výchovy a vzdelávania. 47d )'. Poznámky pod čiarou k odkazom 47a až 47d znejú:
+d) monitoruje a hodnotí kvalitu výchovy a vzdelávania.47d)“.
 
-'47a) § 7 ods. 7 zákona č. 245/2008 Z. z.
+Poznámky pod čiarou k odkazom 47a až 47d znejú:
+
+„47a) § 7 ods. 7 zákona č. 245/2008 Z. z.
 
 47b) § 8 ods. 5 zákona č. 245/2008 Z. z.
 
 47c) § 24 ods. 10 zákona č. 245/2008 Z. z.
 
-47d) § 154 ods. 7 písm. b) zákona č. 245/2008 Z. z.'.
+47d) § 154 ods. 7 písm. b) zákona č. 245/2008 Z. z.“.
 
 [[END OF PAGE 124]]
 
@@ -5713,51 +5781,51 @@ Strana 125
 
 33. Za § 13 sa vkladá § 13a, ktorý znie:
 
-##### '§ 13a
+##### „§ 13a
 
 (1) Do výchovného a vzdelávacieho procesu v školách a školských zariadeniach môžu vstupovať školskí inšpektori Štátnej školskej inšpekcie.
 
 (2) Školským inšpektorom môže byť ten, kto spĺňa kvalifikačné predpoklady vysokoškolského vzdelania pre príslušný druh, typ a stupeň školy alebo školského zariadenia, má osem rokov pedagogickej praxe v škole alebo v školskom zariadení, absolvoval I. kvalifikačnú skúšku alebo jej náhradu a pôsobil minimálne tri roky v riadiacej funkcii v školstve alebo v pracovnom zaradení metodika alebo v pracovnom zaradení školského inšpektora, alebo absolvoval II. kvalifikačnú skúšku alebo jej náhradu.
 
-(3) Školský inšpektor musí byť spôsobilý používať slovenský jazyk v úradnom styku, 8b ) ovládať jazyk príslušnej národnostnej menšiny v súvislosti s náplňou pracovnej činnosti, mať osobnostné predpoklady a morálne predpoklady a predpoklady odbornej inšpekčnej práce.'.
+(3) Školský inšpektor musí byť spôsobilý používať slovenský jazyk v úradnom styku,8b) ovládať jazyk príslušnej národnostnej menšiny v súvislosti s náplňou pracovnej činnosti, mať osobnostné predpoklady a morálne predpoklady a predpoklady odbornej inšpekčnej práce.“.
 
-- V § 14 ods. 2 písm. b) sa slová '§ 29 ods. 4' nahrádzajú slovami '§ 11 zákona č. 245/2008 Z. z.'.
+34. V § 14 ods. 2 písm. b) sa slová „§ 29 ods. 4“ nahrádzajú slovami „§ 11 zákona č. 245/2008 Z. z.“.
 
-35. V § 14 ods. 6 písm. a) sa slovo 'schvaľuje' nahrádza slovom 'spravuje'.
+35. V § 14 ods. 6 písm. a) sa slovo „schvaľuje“ nahrádza slovom „spravuje“.
 
-- V § 14 ods. 6 písm. l) sa slová '[§ 3 ods. 8 písm. d)]' nahrádzajú slovami '[§ 3 ods. 8 písm. c)]'.
+36. V § 14 ods. 6 písm. l) sa slová „[§ 3 ods. 8 písm. d)]“ nahrádzajú slovami „[§ 3 ods. 8 písm. c)]“.
 
-- V § 14 sa odsek 6 dopĺňa písmenom m), ktoré znie:
+37. V § 14 sa odsek 6 dopĺňa písmenom m), ktoré znie:
 
-'m) vedie štátny register detí a žiakov. 50a )'.
+„m) vedie štátny register detí a žiakov.50a)“.
 
 Poznámka pod čiarou k odkazu 50a znie:
 
-'50a) § 157 ods. 3 písm. c) zákona č. 245/2008 Z. z.'.
+„50a) § 157 ods. 3 písm. c) zákona č. 245/2008 Z. z.“.
 
-§ 14 sa dopĺňa odsekom 7, ktorý znie:
+38. § 14 sa dopĺňa odsekom 7, ktorý znie:
 
-'(7) Ministerstvo vo verejnom záujme na žiadosť zamestnávateľských zväzov, podnikateľov a rezortných ministerstiev môže určiť samosprávnemu kraju počty žiakov pre jednotlivé študijné a učebné odbory stredných odborných škôl.'.
+„(7) Ministerstvo vo verejnom záujme na žiadosť zamestnávateľských zväzov, podnikateľov a rezortných ministerstiev môže určiť samosprávnemu kraju počty žiakov pre jednotlivé študijné a učebné odbory stredných odborných škôl.“.
 
-- V § 16 ods. 1 písm. k) sa za slová 'ak ide o' vkladajú slová 'materské školy, jazykové školy,'.
+39. V § 16 ods. 1 písm. k) sa za slová „ak ide o“ vkladajú slová „materské školy, jazykové školy,“.
 
-- V § 16 ods. 1 písm. l) sa za slová 'ak ide o' vkladajú slová 'jazykové školy,'.
+40. V § 16 ods. 1 písm. l) sa za slová „ak ide o“ vkladajú slová „jazykové školy,“.
 
-- V § 16 ods. 2 úvodnej vete sa za prvé slovo 'alebo' vkladá slovo 'iná'.
+41. V § 16 ods. 2 úvodnej vete sa za prvé slovo „alebo“ vkladá slovo „iná“.
 
-- V § 17 ods. 4 sa na konci pripájajú tieto slová: 'alebo na základe kontrolných zistení podľa § 14 ods. 6 písm. j)'.
+42. V § 17 ods. 4 sa na konci pripájajú tieto slová: „alebo na základe kontrolných zistení podľa § 14 ods. 6 písm. j)“.
 
-§ 18 sa dopĺňa odsekom 5, ktorý znie:
+43. § 18 sa dopĺňa odsekom 5, ktorý znie:
 
-'(5) Pri zmene adresy zriaďovateľa, zmene súpisného čísla školy alebo školského zariadenia, udelení alebo odňatí čestného názvu školy alebo školského zariadenia je zriaďovateľ povinný bezodkladne túto skutočnosť písomne oznámiť spolu s dokladom osvedčujúcim zmenu ministerstvu. Ministerstvo písomne potvrdí uvedenú zmenu zriaďovateľovi; ak sa zmena týka školy alebo školského zariadenia, upraví názov školy alebo školského zariadenia v sieti. Pri týchto zmenách sa nepostupuje podľa osobitného predpisu. 80 )'.
+„(5) Pri zmene adresy zriaďovateľa, zmene súpisného čísla školy alebo školského zariadenia, udelení alebo odňatí čestného názvu školy alebo školského zariadenia je zriaďovateľ povinný bezodkladne túto skutočnosť písomne oznámiť spolu s dokladom osvedčujúcim zmenu ministerstvu. Ministerstvo písomne potvrdí uvedenú zmenu zriaďovateľovi; ak sa zmena týka školy alebo školského zariadenia, upraví názov školy alebo školského zariadenia v sieti. Pri týchto zmenách sa nepostupuje podľa osobitného predpisu.80)“.
 
-- V § 19 sa vypúšťa odsek 5.
+44. V § 19 sa vypúšťa odsek 5.
 
 Doterajšie odseky 6 až 8 sa označujú ako odseky 5 až 7.
 
 45. V § 21 odsek 12 znie:
 
-'(12) Na vonkajšom označení budovy školy sa uvádza názov školy bez uvedenia názvu ulice, popisného čísla hlavnej budovy a úradného názvu sídla školy.'.
+„(12) Na vonkajšom označení budovy školy sa uvádza názov školy bez uvedenia názvu ulice, popisného čísla hlavnej budovy a úradného názvu sídla školy.“.
 
 46. V § 25 odseky 5 a 6 znejú:
 
@@ -5771,25 +5839,27 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-'(5) Členmi rady školy alebo školského zariadenia, ktorej zriaďovateľom je obec, sú dvaja zvolení zástupcovia pedagogických zamestnancov a jeden zvolený zástupca ostatných zamestnancov školy, štyria zvolení zástupcovia rodičov, ktorí nie sú zamestnancami školy alebo školského zariadenia, a štyria delegovaní zástupcovia zriaďovateľa.
+„(5) Členmi rady školy alebo školského zariadenia, ktorej zriaďovateľom je obec, sú dvaja zvolení zástupcovia pedagogických zamestnancov a jeden zvolený zástupca ostatných zamestnancov školy, štyria zvolení zástupcovia rodičov, ktorí nie sú zamestnancami školy alebo školského zariadenia, a štyria delegovaní zástupcovia zriaďovateľa.
 
-(6) Členmi rady školy alebo školského zariadenia, ktorého zriaďovateľom je samosprávny kraj alebo krajský školský úrad, sú dvaja zvolení zástupcovia pedagogických zamestnancov a jeden zvolený zástupca ostatných zamestnancov školy, traja zvolení zástupcovia rodičov, ktorí nie sú zamestnancami školy alebo školského zariadenia, a štyria delegovaní zástupcovia zriaďovateľa. Členom rady školy pri strednej škole je aj zvolený zástupca žiakov príslušnej školy.'.
+(6) Členmi rady školy alebo školského zariadenia, ktorého zriaďovateľom je samosprávny kraj alebo krajský školský úrad, sú dvaja zvolení zástupcovia pedagogických zamestnancov a jeden zvolený zástupca ostatných zamestnancov školy, traja zvolení zástupcovia rodičov, ktorí nie sú zamestnancami školy alebo školského zariadenia, a štyria delegovaní zástupcovia zriaďovateľa. Členom rady školy pri strednej škole je aj zvolený zástupca žiakov príslušnej školy.“.
+
+47. V § 25 sa vypúšťa odsek 7.
 
 Doterajšie odseky 8 až 16 sa označujú ako odseky 7 až 15.
 
-48. V § 25 ods. 13 písm. c) sa číslovka '12' nahrádza číslovkou '11' a v § 25 ods. 15 sa číslovka '14' nahrádza číslovkou '13'.
+48. V § 25 ods. 13 písm. c) sa číslovka „12“ nahrádza číslovkou „11“ a v § 25 ods. 15 sa číslovka „14“ nahrádza číslovkou „13“.
 
-47. V § 25 sa vypúšťa odsek 7. 49. § 25 sa dopĺňa odsekmi 16 a 17, ktoré znejú:
+49. § 25 sa dopĺňa odsekmi 16 a 17, ktoré znejú:
 
-'(16) Na účely výberového konania na vymenovanie riaditeľa (§ 4) pre školy podľa § 6 ods. 1 sú členmi rady školy aj jeden delegovaný zástupca krajského školského úradu a jeden delegovaný zástupca Štátnej školskej inšpekcie.
+„(16) Na účely výberového konania na vymenovanie riaditeľa (§ 4) pre školy podľa § 6 ods. 1 sú členmi rady školy aj jeden delegovaný zástupca krajského školského úradu a jeden delegovaný zástupca Štátnej školskej inšpekcie.
 
-(17) Na účely výberového konania na vymenovanie riaditeľa (§ 4) pre školy podľa § 9 ods. 1 sú členmi rady školy aj jeden delegovaný zástupca krajského školského úradu a jeden delegovaný zástupca Štátnej školskej inšpekcie a jeden delegovaný zástupca samosprávneho kraja; v stredných zdravotníckych školách je členom rady školy aj jeden delegovaný zástupca Ministerstva zdravotníctva Slovenskej republiky.'.
+(17) Na účely výberového konania na vymenovanie riaditeľa (§ 4) pre školy podľa § 9 ods. 1 sú členmi rady školy aj jeden delegovaný zástupca krajského školského úradu a jeden delegovaný zástupca Štátnej školskej inšpekcie a jeden delegovaný zástupca samosprávneho kraja; v stredných zdravotníckych školách je členom rady školy aj jeden delegovaný zástupca Ministerstva zdravotníctva Slovenskej republiky.“.
 
 50. § 27 až 30 a § 36 sa vypúšťajú vrátane poznámok pod čiarou k odkazom 69 až 76.
 
 51. § 37 vrátane nadpisu znie:
 
-##### '§ 37 Priestupky
+##### „§ 37 Priestupky
 
 (1) Priestupku sa dopustí zákonný zástupca dieťaťa, ktorý ohrozuje jeho výchovu a vzdelávanie alebo zanedbáva starostlivosť o povinnú školskú dochádzku dieťaťa, najmä ak dieťa neprihlási na povinnú školskú dochádzku alebo dieťa neospravedlnene vynechá viac ako 60 vyučovacích hodín v príslušnom školskom roku.
 
@@ -5797,15 +5867,15 @@ Doterajšie odseky 8 až 16 sa označujú ako odseky 7 až 15.
 
 (3) Priestupky podľa tohto zákona prejednáva obec.
 
-(4) Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch. 79a )'.
+(4) Na priestupky a ich prejednávanie sa vzťahuje všeobecný predpis o priestupkoch.79a)“.
 
 Poznámka pod čiarou k odkazu 79a znie:
 
-'79a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.'.
+„79a) Zákon Slovenskej národnej rady č. 372/1990 Zb. o priestupkoch v znení neskorších predpisov.“.
 
 52. Za § 37 sa vkladá § 37a, ktorý vrátane nadpisu znie:
 
-##### '§ 37a Správne delikty
+##### „§ 37a Správne delikty
 
 (1) Obec uloží pokutu do 10 000 Sk zákonnému zástupcovi dieťaťa, ktorý je právnickou osobou a ktorý ohrozil jeho výchovu a vzdelávanie alebo zanedbal starostlivosť o povinnú
 
@@ -5823,53 +5893,53 @@ Strana 127
 
 (2) Školský inšpektor uloží pokutu do 10 000 Sk zodpovednému zamestnancovi, ktorý
 
-- nevytvoril podmienky na výkon inšpekčnej činnosti,
+a) nevytvoril podmienky na výkon inšpekčnej činnosti,
 
-- neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
+b) neodstránil nedostatky zistené školskou inšpekciou okrem opatrení týkajúcich sa riešenia sťažností a petícií.
 
 (3) Hlavný školský inšpektor uloží pokutu do 20 000 Sk zriaďovateľovi, ktorý vymenoval do funkcie riaditeľa osobu, ktorá nespĺňa predpoklady podľa § 3 ods. 5, a rozhodne o opatrení na odstránenie zisteného nedostatku.
 
 (4) Krajský školský úrad uloží pokutu
 
-- do 20 000 Sk
+a) do 20 000 Sk
 
-- obci, ktorá nezabezpečila činnosti podľa § 6 ods. 3,
+1. obci, ktorá nezabezpečila činnosti podľa § 6 ods. 3,
 
-- samosprávnemu kraju, ktorý nezabezpečil činnosti podľa § 9 ods. 4,
+2. samosprávnemu kraju, ktorý nezabezpečil činnosti podľa § 9 ods. 4,
 
-- do 50 000 Sk
+b) do 50 000 Sk
 
-- obci, ktorá neplnila povinnosti podľa § 6 ods. 13,
+1. obci, ktorá neplnila povinnosti podľa § 6 ods. 13,
 
-- samosprávnemu kraju, ktorý neplnil povinnosti podľa § 9 ods. 13,
+2. samosprávnemu kraju, ktorý neplnil povinnosti podľa § 9 ods. 13,
 
-- obci a samosprávnemu kraju, ktoré porušili ustanovenia o počte žiakov v triedach.
+3. obci a samosprávnemu kraju, ktoré porušili ustanovenia o počte žiakov v triedach.
 
-- Ministerstvo uloží pokutu
+(5) Ministerstvo uloží pokutu
 
-- do 100 000 Sk zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom,
+a) do 100 000 Sk zriaďovateľovi, ktorý vykonal zmeny údajov podľa § 15 ods. 4 bez vykonania zmien v sieti ministerstvom,
 
-- do 1 000 000 Sk zriaďovateľovi, ktorý
+b) do 1 000 000 Sk zriaďovateľovi, ktorý
 
-- zriadil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich zaradení do siete,
+1. zriadil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich zaradení do siete,
 
-- zrušil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich vyradení zo siete.
+2. zrušil školu alebo školské zariadenie bez rozhodnutia ministerstva o ich vyradení zo siete.
 
 (6) Pokutu možno uložiť do jedného roka odo dňa, keď správny orgán zistil porušenie povinností, najneskôr však do troch rokov odo dňa, keď k porušeniu povinností došlo.
 
 (7) Pri ukladaní pokuty správny orgán prihliada najmä na závažnosť, čas trvania a následky protiprávneho konania.
 
-(8) Výnos z pokút je príjmom štátneho rozpočtu okrem výnosu z pokút podľa odseku 1, ktorý je príjmom obce.'.
+(8) Výnos z pokút je príjmom štátneho rozpočtu okrem výnosu z pokút podľa odseku 1, ktorý je príjmom obce.“.
 
-- V § 38 odsek 2 znie:
+53. V § 38 odsek 2 znie:
 
-'(2) Na cirkevné školy a cirkevné školské zariadenia sa nevzťahujú ustanovenia § 2 ods. 1 písm. a), § 3 ods. 2 a ods. 11, § 16 ods. 1 písm. m), § 17 ods. 2 písm. e) až g); ustanovenie § 5, § 24 až 26 sa na ne vzťahuje primerane.'.
+„(2) Na cirkevné školy a cirkevné školské zariadenia sa nevzťahujú ustanovenia § 2 ods. 1 písm. a), § 3 ods. 2 a ods. 11, § 16 ods. 1 písm. m), § 17 ods. 2 písm. e) až g); ustanovenie § 5, § 24 až 26 sa na ne vzťahuje primerane.“.
 
-- V § 38 odsek 3 znie:
+54. V § 38 odsek 3 znie:
 
-'(3) Na súkromné školy a súkromné školské zariadenia sa nevzťahujú ustanovenia § 2 ods. 1 písm. a), § 3 ods. 2, ods. 7 písm. b) a ods. 11, § 16 ods. 1 písm. m), § 17 ods. 2 písm. e) až g), § 35; ustanovenie § 5, § 24 až 26 sa na ne vzťahuje primerane.'.
+„(3) Na súkromné školy a súkromné školské zariadenia sa nevzťahujú ustanovenia § 2 ods. 1 písm. a), § 3 ods. 2, ods. 7 písm. b) a ods. 11, § 16 ods. 1 písm. m), § 17 ods. 2 písm. e) až g), § 35; ustanovenie § 5, § 24 až 26 sa na ne vzťahuje primerane.“.
 
-- V § 38 ods. 4 sa za slová 'podmienečného vylúčenia' vkladá čiarka a slovo 'pochvaly'.
+55. V § 38 ods. 4 sa za slová „podmienečného vylúčenia“ vkladá čiarka a slovo „pochvaly“.
 
 [[END OF PAGE 127]]
 
@@ -5885,45 +5955,47 @@ Zbierka zákonov Slovenskej republiky
 
 Zákon č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 523/2004 Z. z., zákona č. 564/2004 Z. z. a zákona č. 689/2006 Z. z. sa mení a dopĺňa takto:
 
-- V § 1 odsek 1 znie:
+1. V § 1 odsek 1 znie:
 
-'(1) Tento zákon upravuje financovanie
+„(1) Tento zákon upravuje financovanie
 
-- škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie, 1 ) a financovanie materských škôl pre deti so špeciálnymi výchovno-vzdelávacími potrebami 2a ) a školských zariadení 4 ) zriadených krajskými školskými úradmi, ktoré sú zaradené do siete podľa osobitného predpisu 5 ) (ďalej len 'regionálne školstvo'),
+a) škôl, v ktorých sa vzdelávanie považuje za sústavnú prípravu na povolanie,1) a financovanie materských škôl pre deti so špeciálnymi výchovno-vzdelávacími potrebami2a) a školských zariadení4) zriadených krajskými školskými úradmi, ktoré sú zaradené do siete podľa osobitného predpisu5) (ďalej len „regionálne školstvo“),
 
-- príspevku na čiastočnú úhradu nákladov na výchovu a vzdelávanie (ďalej len 'príspevok na výchovu a vzdelávanie') detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky 5a ) v materských školách, 2b ) ktoré sú zaradené do siete podľa osobitného predpisu, 5 )
+b) príspevku na čiastočnú úhradu nákladov na výchovu a vzdelávanie (ďalej len „príspevok na výchovu a vzdelávanie“) detí, ktoré majú jeden rok pred plnením povinnej školskej dochádzky5a) v materských školách,2b) ktoré sú zaradené do siete podľa osobitného predpisu,5)
 
-- príspevku na záujmové vzdelávanie pre žiakov škôl, 1 ) ktoré sú zaradené do siete podľa osobitného predpisu. 5 )'.
+c) príspevku na záujmové vzdelávanie pre žiakov škôl,1) ktoré sú zaradené do siete podľa osobitného predpisu.5)“.
 
-V poznámke pod čiarou k odkazu 1 sa citácia '§ 2 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov' nahrádza citáciou '§ 27 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.'.
+V poznámke pod čiarou k odkazu 1 sa citácia „§ 2 ods. 1 zákona č. 29/1984 Zb. o sústave základných a stredných škôl (školský zákon) v znení neskorších predpisov“ nahrádza citáciou „§ 27 ods. 3 zákona č. 245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov.“.
 
 Poznámka pod čiarou k odkazu 2 sa vypúšťa.
 
 Poznámky pod čiarou k odkazom 2a a 2b znejú:
 
-'2a) § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
+„2a) § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.
 
-2b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.'.
+2b) § 27 ods. 2 písm. a), § 95 ods. 1 písm. a) a § 104 ods. 1 písm. a) zákona č. 245/2008 Z. z.“.
 
-V poznámke pod čiarou k odkazu 4 sa citácia '§ 1 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.' nahrádza citáciou '§ 112 zákona č. 245/2008 Z. z.'.
+V poznámke pod čiarou k odkazu 4 sa citácia „§ 1 ods. 2 zákona Národnej rady Slovenskej republiky č. 279/1993 Z. z. o školských zariadeniach v znení neskorších predpisov.“ nahrádza citáciou „§ 112 zákona č. 245/2008 Z. z.“.
 
 Poznámka pod čiarou k odkazu 5a znie:
 
-'5a) § 19 zákona č. 245/2008 Z. z.'.
+„5a) § 19 zákona č. 245/2008 Z. z.“.
 
-- V § 1 odsek 3 znie:
+2. V § 1 odsek 3 znie:
 
-'(3) Zo štátneho rozpočtu sa zabezpečuje financovanie škôl 1 ) zriadených štátom uznanými cirkvami alebo náboženskými spoločnosťami (ďalej len 'cirkevná škola') a financovanie škôl 1 ) zriadených inými právnickými osobami alebo fyzickými osobami (ďalej len 'súkromná škola') rovnako ako pri štátnych školách (§ 4 až 4d), ak tento zákon neustanovuje inak.'.
+„(3) Zo štátneho rozpočtu sa zabezpečuje financovanie škôl1) zriadených štátom uznanými cirkvami alebo náboženskými spoločnosťami (ďalej len „cirkevná škola“) a financovanie škôl1) zriadených inými právnickými osobami alebo fyzickými osobami (ďalej len „súkromná škola“) rovnako ako pri štátnych školách (§ 4 až 4d), ak tento zákon neustanovuje inak.“.
 
-- V § 1 odsek 4 znie:
+3. V § 1 odsek 4 znie:
 
-'(4) Zo štátneho rozpočtu sa prispieva na financovanie školských zariadení podľa osobitného predpisu 10 ) v zriaďovateľskej pôsobnosti krajských školských úradov (ďalej len 'štátne školské zariadenie') a na financovanie materských škôl pre deti so špeciálnymi výchovno-vzdelávacími potrebami 2a ) v zriaďovateľskej pôsobnosti krajských školských úradov (ďalej len 'štátna materská škola').'.
+„(4) Zo štátneho rozpočtu sa prispieva na financovanie školských zariadení podľa osobitného predpisu10) v zriaďovateľskej pôsobnosti krajských školských úradov (ďalej len „štátne školské zariadenie“) a na financovanie materských škôl pre deti so špeciálnymi výchovno-vzdelávacími potrebami2a) v zriaďovateľskej pôsobnosti krajských školských úradov (ďalej len „štátna materská škola“).“.
 
-V poznámke pod čiarou k odkazu 10 sa citácia '§ 10 ods. 5 písm. c), h), j) až m) zákona č. 596/2003 Z. z. v znení zákona č. 564/2004 Z. z.' nahrádza citáciou '§ 10 ods. 5 písm. h), j) až m) zákona č. 596/2003 Z. z. v znení neskorších predpisov.'.
+V poznámke pod čiarou k odkazu 10 sa citácia „§ 10 ods. 5 písm. c), h), j) až m) zákona č. 596/2003 Z. z. v znení zákona č. 564/2004 Z. z.“ nahrádza citáciou „§ 10 ods. 5 písm. h), j) až m) zákona č. 596/2003 Z. z. v znení neskorších predpisov.“.
 
-- V § 1 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
+4. V § 1 sa za odsek 4 vkladá nový odsek 5, ktorý znie:
 
-'(5) Zo štátneho rozpočtu sa zabezpečuje financovanie príspevku na výchovu a vzdelávanie zriaďovateľom materských škôl 2b ) okrem materských škôl 2b ) pri zdravotníckych zariadeniach.'. Doterajšie odseky 5 a 6 sa označujú ako odseky 6 a 7.
+„(5) Zo štátneho rozpočtu sa zabezpečuje financovanie príspevku na výchovu a vzdelávanie zriaďovateľom materských škôl2b) okrem materských škôl2b) pri zdravotníckych zariadeniach.“.
+
+Doterajšie odseky 5 a 6 sa označujú ako odseky 6 a 7.
 
 [[END OF PAGE 128]]
 
@@ -5935,43 +6007,45 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 129
 
-- V § 1 ods. 6 sa slovo 'neštátnych' nahrádza slovami 'cirkevných školách a súkromných'.
+5. V § 1 ods. 6 sa slovo „neštátnych“ nahrádza slovami „cirkevných školách a súkromných“.
 
-- V § 1 odsek 7 znie:
+6. V § 1 odsek 7 znie:
 
-'(7) Tento zákon sa nevzťahuje na školy v pôsobnosti Ministerstva vnútra Slovenskej republiky a školy v pôsobnosti Ministerstva spravodlivosti Slovenskej republiky.'. Poznámky pod čiarou k odkazom 7 až 9 a 11 sa vypúšťajú.
+„(7) Tento zákon sa nevzťahuje na školy v pôsobnosti Ministerstva vnútra Slovenskej republiky a školy v pôsobnosti Ministerstva spravodlivosti Slovenskej republiky.“.
 
-- V § 2 ods. 1 úvodná veta znie: 'Zdroje financovania štátnych škôl, štátnych materských škôl a štátnych školských zariadení sú'.
+Poznámky pod čiarou k odkazom 7 až 9 a 11 sa vypúšťajú.
 
-- V poznámke pod čiarou k odkazu 13 sa citácia '§ 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.' nahrádza citáciou '§ 8 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.'.
+7. V § 2 ods. 1 úvodná veta znie: „Zdroje financovania štátnych škôl, štátnych materských škôl a štátnych školských zariadení sú“.
 
-- V § 2 ods. 2 sa slovo 'neštátnych' nahrádza slovami 'cirkevných škôl a súkromných'.
+8. V poznámke pod čiarou k odkazu 13 sa citácia „§ 6 zákona Národnej rady Slovenskej republiky č. 303/1995 Z. z. o rozpočtových pravidlách v znení neskorších predpisov.“ nahrádza citáciou „§ 8 zákona č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
-- V nadpise pod § 3 sa vypúšťajú slová 'na regionálne školstvo'.
+9. V § 2 ods. 2 sa slovo „neštátnych“ nahrádza slovami „cirkevných škôl a súkromných“.
 
-- V § 3 ods. 1 prvá veta znie: 'Financovanie regionálneho školstva, príspevku na výchovu a vzdelávanie a príspevku na záujmové vzdelávanie zo štátneho rozpočtu sa uskutočňuje prostredníctvom kapitoly ministerstva.'.
+10. V nadpise pod § 3 sa vypúšťajú slová „na regionálne školstvo“.
 
-- V § 3 ods. 2 písm. a) sa za slová 'štátnych škôl' vkladá čiarka a slová 'štátnych materských škôl'.
+11. V § 3 ods. 1 prvá veta znie: „Financovanie regionálneho školstva, príspevku na výchovu a vzdelávanie a príspevku na záujmové vzdelávanie zo štátneho rozpočtu sa uskutočňuje prostredníctvom kapitoly ministerstva.“.
 
-- V § 3 ods. 2 písm. c) sa slovo 'neštátnych' nahrádza slovami 'cirkevných škôl a súkromných'.
+12. V § 3 ods. 2 písm. a) sa za slová „štátnych škôl“ vkladá čiarka a slová „štátnych materských škôl“.
 
-- V § 3 sa odsek 2 dopĺňa písmenom h), ktoré znie:
+13. V § 3 ods. 2 písm. c) sa slovo „neštátnych“ nahrádza slovami „cirkevných škôl a súkromných“.
 
-'h) príspevok na výchovu a vzdelávanie.'.
+14. V § 3 sa odsek 2 dopĺňa písmenom h), ktoré znie:
 
-- V § 3 odsek 3 znie:
+„h) príspevok na výchovu a vzdelávanie.“.
 
-'(3) Finančné prostriedky na účely podľa odseku 2 písm. a) a d) prideľuje ministerstvo zriaďovateľom štátnych škôl, štátnych materských škôl a štátnych školských zariadení podľa § 4 a 5. Finančné prostriedky na účely podľa odseku 2 písm. c) a d) prideľuje ministerstvo zriaďovateľom cirkevných škôl a súkromných škôl podľa § 6 a 6a. Finančné prostriedky na účely podľa odseku 2 písm. h) prideľuje ministerstvo zriaďovateľom materských škôl 2b ) podľa § 6b. Finančné prostriedky na účely podľa odseku 2 písm. e) prideľuje ministerstvo zriaďovateľom škôl a školských zariadení podľa § 7 ods. 8. Finančné prostriedky na účely podľa odseku 2 písm. b) prideľuje ministerstvo krajským školským úradom podľa § 7 ods. 10.'.
+15. V § 3 odsek 3 znie:
 
-- V § 3 odsek 6 znie:
+„(3) Finančné prostriedky na účely podľa odseku 2 písm. a) a d) prideľuje ministerstvo zriaďovateľom štátnych škôl, štátnych materských škôl a štátnych školských zariadení podľa § 4 a 5. Finančné prostriedky na účely podľa odseku 2 písm. c) a d) prideľuje ministerstvo zriaďovateľom cirkevných škôl a súkromných škôl podľa § 6 a 6a. Finančné prostriedky na účely podľa odseku 2 písm. h) prideľuje ministerstvo zriaďovateľom materských škôl2b) podľa § 6b. Finančné prostriedky na účely podľa odseku 2 písm. e) prideľuje ministerstvo zriaďovateľom škôl a školských zariadení podľa § 7 ods. 8. Finančné prostriedky na účely podľa odseku 2 písm. b) prideľuje ministerstvo krajským školským úradom podľa § 7 ods. 10.“.
 
-'(6) Finančné prostriedky z kapitoly ministerstva poskytnuté zriaďovateľom štátnych škôl podľa § 4 ods. 1 až 12 a § 4a až 4d, zriaďovateľom cirkevných škôl a súkromných škôl podľa § 6 a 6a, zriaďovateľom materských škôl 2b ) podľa § 6b a zriaďovateľom škôl a školských zariadení podľa § 7 ods. 8 možno použiť len na účely ustanovené týmto zákonom.'.
+16. V § 3 odsek 6 znie:
 
-- V § 4 ods. 7 sa slová 'očakávaný počet žiakov školy v novom školskom' nahrádzajú slovami 'počet žiakov školy v školskom roku, ktorý začal v predchádzajúcom kalendárnom'.
+„(6) Finančné prostriedky z kapitoly ministerstva poskytnuté zriaďovateľom štátnych škôl podľa § 4 ods. 1 až 12 a § 4a až 4d, zriaďovateľom cirkevných škôl a súkromných škôl podľa § 6 a 6a, zriaďovateľom materských škôl2b) podľa § 6b a zriaďovateľom škôl a školských zariadení podľa § 7 ods. 8 možno použiť len na účely ustanovené týmto zákonom.“.
 
-- V § 4 odsek 8 znie:
+17. V § 4 ods. 7 sa slová „očakávaný počet žiakov školy v novom školskom“ nahrádzajú slovami „počet žiakov školy v školskom roku, ktorý začal v predchádzajúcom kalendárnom“.
 
-'(8) Krajský školský úrad oznámi najneskôr do 30. októbra bežného roka zriaďovateľovi štátnej školy úpravu výšky normatívnych príspevkov pre štátne školy v jeho zriaďovateľskej pôsobnosti na kalendárny rok podľa odseku 7. Úprava zodpovedá rozdielu normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 3 zo skutočných počtov žiakov v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa určených podľa odseku 3 z počtov žiakov nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku.'.
+18. V § 4 odsek 8 znie:
+
+„(8) Krajský školský úrad oznámi najneskôr do 30. októbra bežného roka zriaďovateľovi štátnej školy úpravu výšky normatívnych príspevkov pre štátne školy v jeho zriaďovateľskej pôsobnosti na kalendárny rok podľa odseku 7. Úprava zodpovedá rozdielu normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 3 zo skutočných počtov žiakov v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa určených podľa odseku 3 z počtov žiakov nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku.“.
 
 [[END OF PAGE 129]]
 
@@ -5983,39 +6057,41 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-- V § 4 sa vypúšťajú odseky 13 až 16.
+19. V § 4 sa vypúšťajú odseky 13 až 16.
 
 Doterajšie odseky 17 až 19 sa označujú ako odseky 13 až 15.
 
-V poznámke pod čiarou k odkazu 21 sa citácia '§ 198 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov, § 41 zákona č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.' nahrádza citáciou '§ 76 ods. 6 a § 198 Zákonníka práce.'.
+V poznámke pod čiarou k odkazu 21 sa citácia „§ 198 zákona č. 311/2001 Z. z. Zákonník práce v znení neskorších predpisov, § 41 zákona č. 313/2001 Z. z. o verejnej službe v znení neskorších predpisov.“ nahrádza citáciou „§ 76 ods. 6 a § 198 Zákonníka práce.“.
 
-- V § 4 ods. 13 sa slová 'podľa odsekov 1 až 16' nahrádzajú slovami 'podľa odsekov 1 až 12 a § 4a až 4d'.
+20. V § 4 ods. 13 sa slová „podľa odsekov 1 až 16“ nahrádzajú slovami „podľa odsekov 1 až 12 a § 4a až 4d“.
 
-- V § 4 ods. 14 sa slová 'špeciálnych škôl' nahrádzajú slovami 'škôl pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami 22a )'. Poznámka pod čiarou k odkazu 22a znie:
+21. V § 4 ods. 14 sa slová „špeciálnych škôl“ nahrádzajú slovami „škôl pre deti a žiakov so špeciálnymi výchovno-vzdelávacími potrebami22a)“.
 
-'22a) § 95 ods. 1 a § 104 ods. 1 zákona č. 245/2008 Z. z.'.
+Poznámka pod čiarou k odkazu 22a znie:
 
-- Za § 4 sa vkladajú § 4a až 4d, ktoré vrátane nadpisov znejú:
+„22a) § 95 ods. 1 a § 104 ods. 1 zákona č. 245/2008 Z. z.“.
 
-##### '§ 4a Financovanie špecifík
+22. Za § 4 sa vkladajú § 4a až 4d, ktoré vrátane nadpisov znejú:
+
+##### „§ 4a Financovanie špecifík
 
 (1) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva na žiadosť zriaďovateľa štátnej školy finančné prostriedky na špecifiká. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu najneskôr do 30. septembra príslušného kalendárneho roka. Prostredníctvom špecifík sa financujú náklady, ktoré sa opakujú a nie sú zohľadnené v normatíve školy podľa § 4 ods. 4. Špecifikami sú:
 
-- náklady na dopravu žiakov podľa osobitných predpisov, 22b )
+a) náklady na dopravu žiakov podľa osobitných predpisov,22b)
 
-- náklady na mzdy asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním 22c ) vrátane poistného a príspevku zriaďovateľa do poisťovní.
+b) náklady na mzdy asistentov učiteľa pre žiakov so zdravotným znevýhodnením alebo s nadaním22c) vrátane poistného a príspevku zriaďovateľa do poisťovní.
 
-- Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä
+(2) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä
 
-- počet dní prítomnosti žiaka v škole,
+a) počet dní prítomnosti žiaka v škole,
 
-- výšku cestovných nákladov na dopravu žiaka do školy z miesta trvalého bydliska a späť.
+b) výšku cestovných nákladov na dopravu žiaka do školy z miesta trvalého bydliska a späť.
 
-- Žiadosť zriaďovateľa podľa odseku 1 písm. b) obsahuje najmä
+(3) Žiadosť zriaďovateľa podľa odseku 1 písm. b) obsahuje najmä
 
-- počet žiakov,
+a) počet žiakov,
 
-- stupeň a mieru postihnutia žiakov.
+b) stupeň a mieru postihnutia žiakov.
 
 (4) Ministerstvo pridelí zriaďovateľovi štátnej školy finančné prostriedky podľa odseku 1 písm. b) najmä podľa počtu žiakov so zdravotným znevýhodnením alebo s nadaním a podľa stupňa a miery postihnutia týchto žiakov.
 
@@ -6027,7 +6103,7 @@ V poznámke pod čiarou k odkazu 21 sa citácia '§ 198 zákona č. 311/2001
 
 (2) Zoznam súťaží, predmetových olympiád, medzinárodných projektov a programov na nový školský rok zverejní ministerstvo na svojej internetovej stránke najneskôr do 15. júna príslušného kalendárneho roka.
 
-- Ministerstvo pridelí finančné prostriedky zriaďovateľovi štátnej školy podľa
+(3) Ministerstvo pridelí finančné prostriedky zriaďovateľovi štátnej školy podľa
 
 [[END OF PAGE 130]]
 
@@ -6039,7 +6115,7 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 131
 
-- počtu umiestnení žiakov na prvých troch miestach celoslovenských kôl súťaží alebo predmetových olympiád, počtu umiestnení žiakov na prvých troch miestach medzinárodných kôl súťaží alebo predmetových olympiád a počtu umiestnení v súťažiach, v ktorých sa poradie neurčuje; v tej istej súťaži alebo predmetovej olympiáde sa zohľadní najvyššie umiestnenie žiaka,
+a) počtu umiestnení žiakov na prvých troch miestach celoslovenských kôl súťaží alebo predmetových olympiád, počtu umiestnení žiakov na prvých troch miestach medzinárodných kôl súťaží alebo predmetových olympiád a počtu umiestnení v súťažiach, v ktorých sa poradie neurčuje; v tej istej súťaži alebo predmetovej olympiáde sa zohľadní najvyššie umiestnenie žiaka,
 
 b) počtu účastí škôl v medzinárodných projektoch alebo programoch.
 
@@ -6051,29 +6127,29 @@ b) počtu účastí škôl v medzinárodných projektoch alebo programoch.
 
 (1) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva v priebehu roka na základe skutočnej potreby zriaďovateľovi štátnej školy, zriaďovateľovi štátnej materskej školy a zriaďovateľovi štátneho školského zariadenia, ktorý o to požiada, účelovo finančné prostriedky na bežné výdavky na riešenie vzniknutých havarijných situácií a na kapitálové výdavky na riešenie vzniknutých havarijných situácií. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu v priebehu roka. Havarijné situácie sú:
 
-- udalosť, ktorou boli vážne ohrozené životy a zdravie osôb,
+a) udalosť, ktorou boli vážne ohrozené životy a zdravie osôb,
 
-- udalosť, ktorou bola na majetku školy alebo majetku školského zariadenia spôsobená škoda ohrozujúca jej prevádzku.
+b) udalosť, ktorou bola na majetku školy alebo majetku školského zariadenia spôsobená škoda ohrozujúca jej prevádzku.
 
-- Žiadosť zriaďovateľa obsahuje najmä
+(2) Žiadosť zriaďovateľa obsahuje najmä
 
-- podrobný popis vzniknutej havarijnej situácie a príčiny jej vzniku,
+a) podrobný popis vzniknutej havarijnej situácie a príčiny jej vzniku,
 
-- predpokladané nevyhnutné náklady na odstránenie havarijnej situácie.
+b) predpokladané nevyhnutné náklady na odstránenie havarijnej situácie.
 
 (3) Ministerstvo pridelí zriaďovateľom finančné prostriedky na riešenie havarijných situácií najmä podľa
 
-- charakteru havárie,
+a) charakteru havárie,
 
-- miery možného ohrozenia životov a zdravia osôb alebo prevádzky,
+b) miery možného ohrozenia životov a zdravia osôb alebo prevádzky,
 
-- rozsahu vzniknutých škôd, či nebezpečenstva vzniku ďalších škôd.
+c) rozsahu vzniknutých škôd, či nebezpečenstva vzniku ďalších škôd.
 
 (4) Ministerstvo môže prideliť krajskému školskému úradu finančné prostriedky na kapitálové výdavky a na bežné výdavky určené na zmiernenie dopadov havarijných situácií štátnych škôl. Krajský školský úrad rozhodne o pridelení objemu finančných prostriedkov zriaďovateľom štátnych škôl v jeho územnej pôsobnosti podľa naliehavosti riešenia havarijnej situácie a výšky prideleného objemu finančných prostriedkov. Objem finančných prostriedkov pre krajský školský úrad na kalendárny rok na zmiernenie dopadov havarijných situácií štátnych škôl určuje ministerstvo.
 
 ##### § 4d Financovanie rozvojových projektov
 
-- Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva na žiadosť zriaďovateľa
+(1) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva na žiadosť zriaďovateľa
 
 [[END OF PAGE 131]]
 
@@ -6087,55 +6163,56 @@ Zbierka zákonov Slovenskej republiky
 
 štátnej školy o financovanie rozvojového projektu účelovo finančné prostriedky na realizáciu predloženého rozvojového projektu. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu. Výzvy na podanie žiadosti o financovanie rozvojového projektu zverejňuje ministerstvo na svojej internetovej stránke v priebehu kalendárneho roka. Rozvojové projekty sú projekty zamerané najmä na rozvoj výchovy a vzdelávania v oblasti
 
-- informačných a komunikačných technológií,
+a) informačných a komunikačných technológií,
 
-- jazykových znalostí,
+b) jazykových znalostí,
 
-- modernizácie a obnovy kompenzačných pomôcok pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami,
+c) modernizácie a obnovy kompenzačných pomôcok pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami,
 
-- modernizácie a obnovy učebných pomôcok,
+d) modernizácie a obnovy učebných pomôcok,
 
-- športu,
+e) športu,
 
-- zdravého životného štýlu,
+f) zdravého životného štýlu,
 
-- životného prostredia,
+g) životného prostredia,
 
-- nákladov na vybavenie rozvíjania manuálnych zručností.
+h) nákladov na vybavenie rozvíjania manuálnych zručností.
 
 (2) Žiadosť zriaďovateľa obsahuje najmä
 
-- cieľ projektu,
+a) cieľ projektu,
 
-- charakteristiku projektu,
+b) charakteristiku projektu,
 
-- časový harmonogram realizácie projektu,
+c) časový harmonogram realizácie projektu,
 
-- analýzu finančného zabezpečenia realizácie projektu.
+d) analýzu finančného zabezpečenia realizácie projektu.
 
 (3) Výška spoluúčasti zriaďovateľa alebo iných fyzických osôb alebo právnických osôb na realizácii rozvojového projektu je najmenej 5 % z celkových nákladov na realizáciu rozvojového projektu.
 
 (4) Ministerstvo pridelí zriaďovateľovi štátnej školy finančné prostriedky na realizáciu rozvojového projektu najmä podľa
 
-- využitia rozvojového projektu vo výchove a vzdelávaní,
+a) využitia rozvojového projektu vo výchove a vzdelávaní,
 
-- využitia rozvojového projektu v mieste sídla štátnej školy, v územnej pôsobnosti okresu alebo kraja.'.
+b) využitia rozvojového projektu v mieste sídla štátnej školy, v územnej pôsobnosti okresu alebo kraja.“.
 
 Poznámky pod čiarou k odkazom 22b a 22c znejú:
 
-'22b) § 8 zákona č. 596/2003 Z. z. v znení neskorších predpisov. § 29 ods. 10 zákona č. 245/2008 Z. z.
+„22b) § 8 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+§ 29 ods. 10 zákona č. 245/2008 Z. z.
 
-22c) § 2 písm. k) a q) zákona č. 245/2008 Z. z.'.
+22c) § 2 písm. k) a q) zákona č. 245/2008 Z. z.“.
 
-§ 5 a 6 vrátane nadpisov znejú:
+23. § 5 a 6 vrátane nadpisov znejú:
 
-##### '§ 5 Financovanie štátnych materských škôl a štátnych školských zariadení
+##### „§ 5 Financovanie štátnych materských škôl a štátnych školských zariadení
 
 (1) Rozpis finančných prostriedkov zriaďovateľom štátnych materských škôl a štátnych školských zariadení na kalendárny rok vychádza z objemov finančných prostriedkov určených pre štátne materské školy a pre jednotlivé štátne školské zariadenia.
 
-(2) Objemy finančných prostriedkov podľa odseku 1 pre štátne materské školy a pre štátne školské internáty 23 ) sa určujú ako pre štátne školy podľa § 4 ods. 2 až 6.
+(2) Objemy finančných prostriedkov podľa odseku 1 pre štátne materské školy a pre štátne školské internáty23) sa určujú ako pre štátne školy podľa § 4 ods. 2 až 6.
 
-(3) Pri určovaní objemu finančných prostriedkov podľa odseku 1 pre štátne školské zariadenia okrem školských internátov a zariadení školského stravovania 23a ) sa vychádza z počtu detí alebo žiakov, ktorým príslušné zariadenie poskytuje služby, a náročnosti na personálne a prevádzkové zabezpečenie činnosti zariadenia alebo z rozsahu poskytovaných služieb.
+(3) Pri určovaní objemu finančných prostriedkov podľa odseku 1 pre štátne školské zariadenia okrem školských internátov a zariadení školského stravovania23a) sa vychádza z počtu detí alebo žiakov, ktorým príslušné zariadenie poskytuje služby, a náročnosti na personálne a prevádzkové zabezpečenie činnosti zariadenia alebo z rozsahu poskytovaných služieb.
 
 [[END OF PAGE 132]]
 
@@ -6147,39 +6224,39 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 133
 
-(4) Pri určovaní objemu finančných prostriedkov podľa odseku 1 pre zariadenie školského stravovania 23b ) sa vychádza z celkového počtu detí alebo žiakov škôl v zriaďovateľskej pôsobnosti krajského školského úradu, ktorým poskytuje školské zariadenie svoje služby.
+(4) Pri určovaní objemu finančných prostriedkov podľa odseku 1 pre zariadenie školského stravovania23b) sa vychádza z celkového počtu detí alebo žiakov škôl v zriaďovateľskej pôsobnosti krajského školského úradu, ktorým poskytuje školské zariadenie svoje služby.
 
 (5) Ministerstvo pridelí krajskému školskému úradu finančné prostriedky podľa celkového počtu detí alebo žiakov škôl v jeho zriaďovateľskej pôsobnosti na úhradu nákladov spojených so službami poskytovanými deťom alebo žiakom týchto škôl, ak sa služby poskytujú
 
-- deťom štátnych materských škôl v zariadeniach školského stravovania 23b ) zriadených obcou, samosprávnym krajom, štátom uznanou cirkvou alebo náboženskou spoločnosťou alebo inou právnickou osobou alebo fyzickou osobou,
+a) deťom štátnych materských škôl v zariadeniach školského stravovania23b) zriadených obcou, samosprávnym krajom, štátom uznanou cirkvou alebo náboženskou spoločnosťou alebo inou právnickou osobou alebo fyzickou osobou,
 
-- žiakom základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa osobitného predpisu 23c ) v zariadeniach školského stravovania 23b ) zriadených samosprávnym krajom,
+b) žiakom základných škôl a základných škôl pre žiakov so špeciálnymi výchovno-vzdelávacími potrebami podľa osobitného predpisu23c) v zariadeniach školského stravovania23b) zriadených samosprávnym krajom,
 
-- žiakom škôl podľa osobitného predpisu 23d ) okrem písmen a) a b) v zariadeniach školského stravovania 23b ) zriadených obcou, štátom uznanou cirkvou alebo náboženskou spoločnosťou alebo inou právnickou osobou alebo fyzickou osobou.'.
+c) žiakom škôl podľa osobitného predpisu23d) okrem písmen a) a b) v zariadeniach školského stravovania23b) zriadených obcou, štátom uznanou cirkvou alebo náboženskou spoločnosťou alebo inou právnickou osobou alebo fyzickou osobou.“.
 
-##### § 6 Financovanie cirkevných škôl
+##### „§ 6 Financovanie cirkevných škôl
 
 (1) Pri financovaní cirkevných škôl, ktoré sa uskutočňuje z kapitoly ministerstva, sa postupuje podľa § 4, § 4a ods. 1 písm. b), § 4b až 4d.
 
-- Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 pre cirkevné školy na nasledujúci kalendárny rok je vypracovanie správy o hospodárení školy za predchádzajúci rok, ak počas neho už pôsobila, podľa § 7 ods. 2 a 3 a jej predloženie podľa § 7 ods. 1 prostredníctvom zriaďovateľa príslušnému krajskému školskému úradu.
+(2) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 pre cirkevné školy na nasledujúci kalendárny rok je vypracovanie správy o hospodárení školy za predchádzajúci rok, ak počas neho už pôsobila, podľa § 7 ods. 2 a 3 a jej predloženie podľa § 7 ods. 1 prostredníctvom zriaďovateľa príslušnému krajskému školskému úradu.
 
-- Zriaďovateľ cirkevnej školy je povinný použiť finančné prostriedky pridelené podľa § 4 na úhradu osobných nákladov a prevádzkových nákladov okrem nájomného podľa zmluvy o kúpe prenajatej veci a okrem reklamy.'.
+(3) Zriaďovateľ cirkevnej školy je povinný použiť finančné prostriedky pridelené podľa § 4 na úhradu osobných nákladov a prevádzkových nákladov okrem nájomného podľa zmluvy o kúpe prenajatej veci a okrem reklamy.“.
 
-V poznámke pod čiarou k odkazu 23 sa citácia '§ 5 a 7 zákona č. 279/1993 Z. z. v znení neskorších predpisov.' nahrádza citáciou '§ 117 zákona č. 245/2008 Z. z.'.
+V poznámke pod čiarou k odkazu 23 sa citácia „§ 5 a 7 zákona č. 279/1993 Z. z. v znení neskorších predpisov.“ nahrádza citáciou „§ 117 zákona č. 245/2008 Z. z.“.
 
 Poznámky pod čiarou k odkazom 23a až 23d znejú:
 
-'23a) § 117 a 139 zákona č. 245/2008 Z. z.
+„23a) § 117 a 139 zákona č. 245/2008 Z. z.
 
 23b) § 139 zákona č. 245/2008 Z. z.
 
 23c) § 27 ods. 2 písm. b), § 95 ods. 1 písm. b) a § 104 ods. 1 písm. b) zákona č. 245/2008 Z. z.
 
-23d) § 27 ods. 2 písm. c), § 95 ods. 1 písm. c) až e) a § 104 ods. 1 písm. c) zákona č. 245/2008 Z. z.'.
+23d) § 27 ods. 2 písm. c), § 95 ods. 1 písm. c) až e) a § 104 ods. 1 písm. c) zákona č. 245/2008 Z. z.“.
 
-- Za § 6 sa vkladajú § 6a a 6b, ktoré vrátane nadpisov znejú:
+24. Za § 6 sa vkladajú § 6a a 6b, ktoré vrátane nadpisov znejú:
 
-##### '§ 6a Financovanie súkromných škôl
+##### „§ 6a Financovanie súkromných škôl
 
 (1) Pri financovaní súkromných škôl, ktoré sa uskutočňuje z kapitoly ministerstva, sa postupuje podľa § 4, § 4a ods. 1 písm. b), § 4b až 4d. Súkromným školám možno prideliť finančné prostriedky na kapitálové výdavky len v rámci rozvojových projektov (§ 4d) na obstaranie hnuteľného majetku.
 
@@ -6195,15 +6272,15 @@ Zbierka zákonov Slovenskej republiky
 
 (2) Podmienkou na pridelenie finančných prostriedkov podľa odseku 1 pre súkromné školy na nasledujúci kalendárny rok je vypracovanie správy o hospodárení školy za predchádzajúci rok, ak počas neho už pôsobila, podľa § 7 ods. 2 a 3 a jej predloženie podľa § 7 ods. 1 prostredníctvom zriaďovateľa príslušnému krajskému školskému úradu.
 
-(3) Ministerstvo zníži zriaďovateľovi súkromnej školy objem finančných prostriedkov na príslušný kalendárny rok, ak v priebehu kalendárneho roka v poslednej správe o výsledku inšpekčnej činnosti Štátnou školskou inšpekciou 23e )
+(3) Ministerstvo zníži zriaďovateľovi súkromnej školy objem finančných prostriedkov na príslušný kalendárny rok, ak v priebehu kalendárneho roka v poslednej správe o výsledku inšpekčnej činnosti Štátnou školskou inšpekciou23e)
 
 a) bolo zistené porušenie školských vzdelávacích programov, ktoré sa uplatňujú v porovnateľnom druhu a type školy,
 
-- bol zistený vyšší počet žiakov v triedach škôl, 1 ) ako stanovuje osobitný právny predpis, 23f )
+b) bol zistený vyšší počet žiakov v triedach škôl,1) ako stanovuje osobitný právny predpis,23f)
 
-- bola zistená odbornosť vyučovania jednotlivých predmetov v školách 1 ) v rámci školských vzdelávacích programov menšia ako 70 %.
+c) bola zistená odbornosť vyučovania jednotlivých predmetov v školách1) v rámci školských vzdelávacích programov menšia ako 70 %.
 
-(4) Ministerstvo zníži zriaďovateľovi súkromnej školy normatívny príspevok na príslušný kalendárny rok o 15 % (ďalej len 'znížený normatívny príspevok') za zistené nedostatky podľa odseku 3 v závislosti od počtu mesiacov, počas ktorých neboli zistené nedostatky odstránené. Do počtu mesiacov sa započítavajú mesiace od mesiaca, ktorý nasleduje po mesiaci, v ktorom boli nedostatky zistené, do mesiaca, v ktorom boli nedostatky odstránené. Ak súkromná škola odstráni nedostatky v mesiaci, v ktorom boli nedostatky zistené, do počtu mesiacov, počas ktorých ministerstvo pridelí zriaďovateľovi súkromnej školy znížený normatívny príspevok, sa započíta jeden mesiac.
+(4) Ministerstvo zníži zriaďovateľovi súkromnej školy normatívny príspevok na príslušný kalendárny rok o 15 % (ďalej len „znížený normatívny príspevok“) za zistené nedostatky podľa odseku 3 v závislosti od počtu mesiacov, počas ktorých neboli zistené nedostatky odstránené. Do počtu mesiacov sa započítavajú mesiace od mesiaca, ktorý nasleduje po mesiaci, v ktorom boli nedostatky zistené, do mesiaca, v ktorom boli nedostatky odstránené. Ak súkromná škola odstráni nedostatky v mesiaci, v ktorom boli nedostatky zistené, do počtu mesiacov, počas ktorých ministerstvo pridelí zriaďovateľovi súkromnej školy znížený normatívny príspevok, sa započíta jeden mesiac.
 
 (5) Ak súkromná škola neodstráni nedostatky podľa odseku 3 do konca kalendárneho roka, ministerstvo postupuje pri prideľovaní finančných prostriedkov zriaďovateľovi tejto školy na nasledujúci kalendárny rok podľa odseku 4.
 
@@ -6213,9 +6290,9 @@ a) bolo zistené porušenie školských vzdelávacích programov, ktoré sa upla
 
 ##### § 6b
 
-(1) Príspevok na výchovu a vzdelávanie pre materskú školu 2b ) na kalendárny rok pozostáva z príspevku na výchovu a vzdelávanie pre materskú školu 2b ) na bežný školský rok a príspevku na výchovu a vzdelávanie pre materskú školu 2b ) na nový školský rok.
+(1) Príspevok na výchovu a vzdelávanie pre materskú školu2b) na kalendárny rok pozostáva z príspevku na výchovu a vzdelávanie pre materskú školu2b) na bežný školský rok a príspevku na výchovu a vzdelávanie pre materskú školu2b) na nový školský rok.
 
-(2) Príspevok na výchovu a vzdelávanie pre materskú školu 2b ) na bežný školský rok sa určí ako súčin 8-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa 23g ) platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy 2b ) v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku. Príspevok na výchovu a vzdelávanie pre materskú školu 2b ) na nový školský rok sa určí ako súčin 4-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa 23g ) platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy 2b ) v školskom roku, ktorý sa začína v bežnom kalendárnom roku. Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie je podľa § 7 ods. 4.
+(2) Príspevok na výchovu a vzdelávanie pre materskú školu2b) na bežný školský rok sa určí ako súčin 8-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa23g) platnej k 1. januáru príslušného kalendárneho roka a počtu detí materskej školy2b) v školskom roku, ktorý sa začal v predchádzajúcom kalendárnom roku. Príspevok na výchovu a vzdelávanie pre materskú školu2b) na nový školský rok sa určí ako súčin 4-násobku objemu finančných prostriedkov pripadajúceho na 15 % sumy životného minima pre jedno nezaopatrené dieťa23g) platnej k 1. septembru príslušného kalendárneho roka a počtu detí materskej školy2b) v školskom roku, ktorý sa začína v bežnom kalendárnom roku. Dátum rozhodujúci pre počet detí použitý pri určovaní príspevku na výchovu a vzdelávanie je podľa § 7 ods. 4.
 
 [[END OF PAGE 134]]
 
@@ -6227,37 +6304,37 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 135
 
-- Krajský školský úrad
+(3) Krajský školský úrad
 
-- oznámi najneskôr do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte zriaďovateľovi materskej školy 2b ) výšku príspevku na výchovu a vzdelávanie pre materské školy 2b ) v jeho zriaďovateľskej pôsobnosti podľa odseku 1 a určených podľa odseku 2; pre výpočet príspevku na výchovu a vzdelávanie pre materskú školu 2b ) na nový školský rok sa použije počet detí v školskom roku, ktorý začal v predchádzajúcom kalendárnom roku, nahlásený zriaďovateľom podľa § 7 ods. 4 a výška sumy životného minima pre jednu plnoletú fyzickú osobu 23g ) platnej k 1. januáru príslušného kalendárneho roka,
+a) oznámi najneskôr do 30 pracovných dní po nadobudnutí účinnosti zákona o štátnom rozpočte zriaďovateľovi materskej školy2b) výšku príspevku na výchovu a vzdelávanie pre materské školy2b) v jeho zriaďovateľskej pôsobnosti podľa odseku 1 a určených podľa odseku 2; pre výpočet príspevku na výchovu a vzdelávanie pre materskú školu2b) na nový školský rok sa použije počet detí v školskom roku, ktorý začal v predchádzajúcom kalendárnom roku, nahlásený zriaďovateľom podľa § 7 ods. 4 a výška sumy životného minima pre jednu plnoletú fyzickú osobu23g) platnej k 1. januáru príslušného kalendárneho roka,
 
-- oznámi najneskôr do 30. októbra zriaďovateľovi materskej školy 2b ) úpravu výšky príspevku na výchovu a vzdelávanie pre materské školy 2b ) v jeho zriaďovateľskej pôsobnosti podľa odseku 4 písm. a); úprava zodpovedá rozdielu príspevku na výchovu a vzdelávanie pre materské školy 2b ) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 zo skutočných počtov detí v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a výšky sumy životného minima pre jednu plnoletú fyzickú osobu 23g ) platnej k 1. septembru príslušného kalendárneho roka a príspevku na výchovu a vzdelávanie pre materské školy 2b ) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 z počtov detí nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku a výšky sumy životného minima pre jednu plnoletú fyzickú osobu 23g ) platnej k 1. januáru príslušného kalendárneho roka,
+b) oznámi najneskôr do 30. októbra zriaďovateľovi materskej školy2b) úpravu výšky príspevku na výchovu a vzdelávanie pre materské školy2b) v jeho zriaďovateľskej pôsobnosti podľa odseku 4 písm. a); úprava zodpovedá rozdielu príspevku na výchovu a vzdelávanie pre materské školy2b) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 zo skutočných počtov detí v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a výšky sumy životného minima pre jednu plnoletú fyzickú osobu23g) platnej k 1. septembru príslušného kalendárneho roka a príspevku na výchovu a vzdelávanie pre materské školy2b) v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa odseku 2 z počtov detí nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku a výšky sumy životného minima pre jednu plnoletú fyzickú osobu23g) platnej k 1. januáru príslušného kalendárneho roka,
 
-- poskytuje zriaďovateľom materských škôl 2b ) finančné prostriedky z kapitoly ministerstva podľa odseku 1 v priebehu roka podľa osobitného predpisu. 22 )
+c) poskytuje zriaďovateľom materských škôl2b) finančné prostriedky z kapitoly ministerstva podľa odseku 1 v priebehu roka podľa osobitného predpisu.22)
 
-(4) Zriaďovateľ materskej školy 2b ) do 30 dní po doručení oznámenia krajského školského úradu
+(4) Zriaďovateľ materskej školy2b) do 30 dní po doručení oznámenia krajského školského úradu
 
-- podľa odseku 3 písm. a) rozpíše finančné prostriedky na kalendárny rok pre jednotlivé materské školy 2b ) vo svojej zriaďovateľskej pôsobnosti,
+a) podľa odseku 3 písm. a) rozpíše finančné prostriedky na kalendárny rok pre jednotlivé materské školy2b) vo svojej zriaďovateľskej pôsobnosti,
 
-- podľa odseku 3 písm. b) upraví finančné prostriedky na nový školský rok pre jednotlivé materské školy 2b ) vo svojej zriaďovateľskej pôsobnosti.'.
+b) podľa odseku 3 písm. b) upraví finančné prostriedky na nový školský rok pre jednotlivé materské školy2b) vo svojej zriaďovateľskej pôsobnosti.“.
 
 Poznámky pod čiarou k odkazom 23e až 23g znejú:
 
-'23e) § 12 a 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+„23e) § 12 a 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
 23f) § 29 ods. 5, § 33 ods. 1, § 97 ods. 6, § 98 ods. 3, § 99 ods. 4 a § 100 ods. 8 zákona č. 245/2008 Z. z.
 
-23g) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.'.
+23g) § 2 písm. c) zákona č. 601/2003 Z. z. o životnom minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.“.
 
-- V § 7 ods. 1 druhej vete sa slová 'do 15. mája' nahrádzajú slovami 'do 15. apríla'.
+25. V § 7 ods. 1 druhej vete sa slová „do 15. mája“ nahrádzajú slovami „do 15. apríla“.
 
-- V § 7 ods. 1 tretej vete sa slová 'neštátnej školy' nahrádzajú slovami 'cirkevnej školy a súkromnej školy'.
+26. V § 7 ods. 1 tretej vete sa slová „neštátnej školy“ nahrádzajú slovami „cirkevnej školy a súkromnej školy“.
 
-- V § 7 ods. 2 písm. b) sa slová 'neštátne školy' nahrádzajú slovami 'cirkevné školy a súkromné školy'.
+27. V § 7 ods. 2 písm. b) sa slová „neštátne školy“ nahrádzajú slovami „cirkevné školy a súkromné školy“.
 
-- V § 7 odsek 4 znie:
+28. V § 7 odsek 4 znie:
 
-'(4) Zriaďovatelia 24a ) škôl 1 ) sú povinní oznámiť do 30. septembra kalendárneho roka príslušnému krajskému školskému úradu počty detí alebo žiakov škôl v ich zriaďovateľskej pôsobnosti podľa stavu k 15. septembru začínajúceho školského roka a ďalšie údaje potrebné na rozpis finančných prostriedkov z kapitoly ministerstva pre školy. Krajský školský úrad je povinný oznámiť tieto údaje za zriaďovateľov 24a ) škôl 1 ) a za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti ministerstvu. Podrobnosti o požadovaných údajoch a forme ich poskytnutia oznámi ministerstvo zriaďovateľom každoročne do 31. augusta.'.
+„(4) Zriaďovatelia24a) škôl1) sú povinní oznámiť do 30. septembra kalendárneho roka príslušnému krajskému školskému úradu počty detí alebo žiakov škôl v ich zriaďovateľskej pôsobnosti podľa stavu k 15. septembru začínajúceho školského roka a ďalšie údaje potrebné na rozpis finančných prostriedkov z kapitoly ministerstva pre školy. Krajský školský úrad je povinný oznámiť tieto údaje za zriaďovateľov24a) škôl1) a za školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti ministerstvu. Podrobnosti o požadovaných údajoch a forme ich poskytnutia oznámi ministerstvo zriaďovateľom každoročne do 31. augusta.“.
 
 [[END OF PAGE 135]]
 
@@ -6269,47 +6346,49 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
-V poznámke pod čiarou k odkazu 24a sa citácia '§ 6 ods. 1 a § 9 ods. 1 zákona č. 596/2003 Z. z. v znení neskorších predpisov' nahrádza citáciou '§ 19 ods. 2 písm. a), b), d) a e) zákona č. 596/2003 Z. z. v znení neskorších predpisov'.
+V poznámke pod čiarou k odkazu 24a sa citácia „§ 6 ods. 1 a § 9 ods. 1 zákona č. 596/2003 Z. z. v znení neskorších predpisov“ nahrádza citáciou „§ 19 ods. 2 písm. a), b), d) a e) zákona č. 596/2003 Z. z. v znení neskorších predpisov“.
 
-- V § 7 ods. 5 sa za slová 'v štátnych školách' vkladá čiarka a slová 'a neštátnych školách' sa nahrádzajú slovami 'cirkevných školách a súkromných školách'.
+29. V § 7 ods. 5 sa za slová „v štátnych školách“ vkladá čiarka a slová „a neštátnych školách“ sa nahrádzajú slovami „cirkevných školách a súkromných školách“.
 
-- V § 7 ods. 6 sa slová 'podľa § 4 až 6' nahrádzajú slovami 'podľa § 4 až 6b'.
+30. V § 7 ods. 6 sa slová „podľa § 4 až 6“ nahrádzajú slovami „podľa § 4 až 6b“.
 
-- V § 7 sa vypúšťa odsek 7.
+31. V § 7 sa vypúšťa odsek 7.
 
 Doterajšie odseky 8 až 10 sa označujú ako odseky 7 až 9.
 
-- V § 7 ods. 7 sa slová 'podľa § 4 ods. 12 až 16 a § 8a ods. 2' nahrádzajú slovami 'podľa § 4a až 4d a § 8c'.
+32. V § 7 ods. 7 sa slová „podľa § 4 ods. 12 až 16 a § 8a ods. 2“ nahrádzajú slovami „podľa § 4a až 4d a § 8c“.
 
-- V § 7 ods. 8 druhá a tretia veta znejú: 'Vzdelávací poukaz reprezentuje osobitný ročný príspevok štátu na záujmové vzdelávanie pre jedného žiaka školy, v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie. 1 ) Vzdelávacie poukazy vydávajú svojim žiakom školy 1 ) najneskôr do 10. septembra príslušného kalendárneho roka a vzdelávacie poukazy prijímajú školy a školské zariadenia, ktoré tvoria sústavu škôl a sústavu školských zariadení podľa osobitného predpisu, 24b ) najneskôr do 25. septembra príslušného kalendárneho roka.'. Poznámka pod čiarou k odkazu 24b znie:
+33. V § 7 ods. 8 druhá a tretia veta znejú: „Vzdelávací poukaz reprezentuje osobitný ročný príspevok štátu na záujmové vzdelávanie pre jedného žiaka školy, v ktorej sa vzdelávanie považuje za sústavnú prípravu na povolanie.1) Vzdelávacie poukazy vydávajú svojim žiakom školy1) najneskôr do 10. septembra príslušného kalendárneho roka a vzdelávacie poukazy prijímajú školy a školské zariadenia, ktoré tvoria sústavu škôl a sústavu školských zariadení podľa osobitného predpisu,24b) najneskôr do 25. septembra príslušného kalendárneho roka.“.
 
-'24b) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.'.
+Poznámka pod čiarou k odkazu 24b znie:
+
+„24b) § 27 ods. 2 a § 112 ods. 1 zákona č. 245/2008 Z. z.“.
 
 34. V § 7 odsek 9 znie:
 
-'(9) Vláda nariadením ustanoví
+„(9) Vláda nariadením ustanoví
 
-- podrobnosti rozpisu finančných prostriedkov vrátane spôsobu určovania normatívov podľa § 4 ods. 1,
+a) podrobnosti rozpisu finančných prostriedkov vrátane spôsobu určovania normatívov podľa § 4 ods. 1,
 
-- hodnoty percentuálnych podielov podľa § 4 ods. 9,
+b) hodnoty percentuálnych podielov podľa § 4 ods. 9,
 
-- podrobnosti rozpisu finančných prostriedkov a postup pri určovaní objemu finančných prostriedkov podľa § 5 ods. 1 až 5,
+c) podrobnosti rozpisu finančných prostriedkov a postup pri určovaní objemu finančných prostriedkov podľa § 5 ods. 1 až 5,
 
-- podrobnosti využitia vzdelávacích poukazov podľa odseku 8 vrátane vymedzenia okruhu aktivít škôl a školských zariadení vytvárajúcich záujmové vzdelávanie financovaných prostredníctvom vzdelávacích poukazov,
+d) podrobnosti využitia vzdelávacích poukazov podľa odseku 8 vrátane vymedzenia okruhu aktivít škôl a školských zariadení vytvárajúcich záujmové vzdelávanie financovaných prostredníctvom vzdelávacích poukazov,
 
-- podrobnosti určovania garantovaného minima a jeho použitia pri prideľovaní finančných prostriedkov zriaďovateľom podľa § 8a.'.
+e) podrobnosti určovania garantovaného minima a jeho použitia pri prideľovaní finančných prostriedkov zriaďovateľom podľa § 8a.“.
 
-§ 7 sa dopĺňa odsekmi 10 a 11, ktoré znejú:
+35. § 7 sa dopĺňa odsekmi 10 a 11, ktoré znejú:
 
-'(10) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva krajskému školskému úradu finančné prostriedky na účel podľa § 3 ods. 2 písm. b) podľa naliehavosti riešenia rekonštrukcie školských objektov alebo modernizácie škôl a školských zariadení v ich zriaďovateľskej pôsobnosti. Objem finančných prostriedkov na kalendárny rok určí ministerstvo.
+„(10) Ministerstvo môže prideliť v rámci rezervy kapitoly ministerstva krajskému školskému úradu finančné prostriedky na účel podľa § 3 ods. 2 písm. b) podľa naliehavosti riešenia rekonštrukcie školských objektov alebo modernizácie škôl a školských zariadení v ich zriaďovateľskej pôsobnosti. Objem finančných prostriedkov na kalendárny rok určí ministerstvo.
 
-(11) Finančné prostriedky pridelené školám a školským zariadeniam v zriaďovateľskej pôsobnosti krajského školského úradu podľa § 4 až 6b, § 7 ods. 8 a § 8c sa zabezpečujú v rámci limitu výdavkov.'.
+(11) Finančné prostriedky pridelené školám a školským zariadeniam v zriaďovateľskej pôsobnosti krajského školského úradu podľa § 4 až 6b, § 7 ods. 8 a § 8c sa zabezpečujú v rámci limitu výdavkov.“.
 
-- V § 8 odsek 2 znie:
+36. V § 8 odsek 2 znie:
 
-'(2) Ministerstvo pri výkone dohľadu sleduje najmä prehľadnosť financovania a kontroluje správnosť použitia metód a postupov pri financovaní štátnych škôl, cirkevných škôl, súkromných škôl, štátnych školských zariadení a kontroluje správnosť použitia metód a postupov pri financovaní materských škôl 2b ) podľa § 6b.'.
+„(2) Ministerstvo pri výkone dohľadu sleduje najmä prehľadnosť financovania a kontroluje správnosť použitia metód a postupov pri financovaní štátnych škôl, cirkevných škôl, súkromných škôl, štátnych školských zariadení a kontroluje správnosť použitia metód a postupov pri financovaní materských škôl2b) podľa § 6b.“.
 
-- V § 8a sa vypúšťa odsek 2. Súčasne sa zrušuje označenie odseku 1.
+37. V § 8a sa vypúšťa odsek 2. Súčasne sa zrušuje označenie odseku 1.
 
 [[END OF PAGE 136]]
 
@@ -6321,43 +6400,43 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 137
 
-- Za § 8a sa vkladajú § 8b a 8c, ktoré vrátane nadpisov znejú:
+38. Za § 8a sa vkladajú § 8b a 8c, ktoré vrátane nadpisov znejú:
 
-##### '§ 8b Sankcie
+##### „§ 8b Sankcie
 
-- Ministerstvo uloží zriaďovateľovi
+(1) Ministerstvo uloží zriaďovateľovi
 
-- za nedodržanie lehoty určenej na rozpis finančných prostriedkov na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 9 pokutu od 10 000 Sk do 100 000 Sk,
+a) za nedodržanie lehoty určenej na rozpis finančných prostriedkov na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 9 pokutu od 10 000 Sk do 100 000 Sk,
 
-- za nedodržanie lehoty určenej na úpravu finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10 pokutu od 10 000 Sk do 100 000 Sk,
+b) za nedodržanie lehoty určenej na úpravu finančných prostriedkov na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 4 ods. 10 pokutu od 10 000 Sk do 100 000 Sk,
 
-- za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým štátnym školám krajskému školskému úradu podľa § 4 ods. 11 pokutu od 10 000 Sk do 100 000 Sk,
+c) za neoznámenie výšky finančných prostriedkov rozpísaných jednotlivým štátnym školám krajskému školskému úradu podľa § 4 ods. 11 pokutu od 10 000 Sk do 100 000 Sk,
 
-- za nedodržanie účelu použitia finančných prostriedkov podľa § 6 ods. 3 pokutu od 10 000 Sk do 1 000 000 Sk,
+d) za nedodržanie účelu použitia finančných prostriedkov podľa § 6 ods. 3 pokutu od 10 000 Sk do 1 000 000 Sk,
 
-- za nedodržanie lehoty určenej na oznámenie o porušení platných právnych predpisov a za nedodržanie lehoty určenej na oznámenie o odstránení porušenia platných právnych predpisov podľa § 6a ods. 6 pokutu od 10 000 Sk do 1 000 000 Sk,
+e) za nedodržanie lehoty určenej na oznámenie o porušení platných právnych predpisov a za nedodržanie lehoty určenej na oznámenie o odstránení porušenia platných právnych predpisov podľa § 6a ods. 6 pokutu od 10 000 Sk do 1 000 000 Sk,
 
-- za nedodržanie účelu použitia finančných prostriedkov podľa § 6a ods. 7 pokutu od 10 000 Sk do 1 000 000 Sk,
+f) za nedodržanie účelu použitia finančných prostriedkov podľa § 6a ods. 7 pokutu od 10 000 Sk do 1 000 000 Sk,
 
-- za nedodržanie lehoty určenej na rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a) pokutu od 10 000 Sk do 100 000 Sk,
+g) za nedodržanie lehoty určenej na rozpis finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. a) pokutu od 10 000 Sk do 100 000 Sk,
 
-- za nedodržanie lehoty určenej na úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b) pokutu od 10 000 Sk do 100 000 Sk,
+h) za nedodržanie lehoty určenej na úpravu finančných prostriedkov pridelených prostredníctvom príspevku na výchovu a vzdelávanie na nový školský rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 6b ods. 4 písm. b) pokutu od 10 000 Sk do 100 000 Sk,
 
-- za nedodržanie lehoty určenej na predloženie správy o hospodárení krajskému školskému úradu podľa § 7 ods. 1 pokutu od 10 000 Sk do 100 000 Sk,
+i) za nedodržanie lehoty určenej na predloženie správy o hospodárení krajskému školskému úradu podľa § 7 ods. 1 pokutu od 10 000 Sk do 100 000 Sk,
 
-- za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3 pokutu od 10 000 Sk do 100 000 Sk,
+j) za nevypracovanie správy o hospodárení podľa § 7 ods. 2 a 3 pokutu od 10 000 Sk do 100 000 Sk,
 
-- za poskytnutie nesprávnych údajov o počtoch žiakov a ďalších údajov podľa § 7 ods. 4 a za nedodržanie lehoty na ich predloženie podľa § 7 ods. 4 pokutu od 10 000 Sk do 1 000 000 Sk,
+k) za poskytnutie nesprávnych údajov o počtoch žiakov a ďalších údajov podľa § 7 ods. 4 a za nedodržanie lehoty na ich predloženie podľa § 7 ods. 4 pokutu od 10 000 Sk do 1 000 000 Sk,
 
-- za nedodržanie lehoty na rozpis finančných prostriedkov pridelených prostredníctvom dohodovacieho konania na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 8c ods. 6 pokutu od 10 000 Sk do 100 000 Sk.
+l) za nedodržanie lehoty na rozpis finančných prostriedkov pridelených prostredníctvom dohodovacieho konania na kalendárny rok pre jednotlivé školy v zriaďovateľskej pôsobnosti zriaďovateľa podľa § 8c ods. 6 pokutu od 10 000 Sk do 100 000 Sk.
 
 (2) Ministerstvo pri určení pokuty prihliada na závažnosť, spôsob a rozsah porušenia povinnosti, na následky takého porušenia a ich trvanie, ako aj na mieru zavinenia.
 
 (3) Uložením pokuty nezaniká povinnosť, za ktorej porušenie sa uložila. Ministerstvo môže uložiť pokutu aj opakovane, a to až do odstránenia nezákonného stavu.
 
-- Výnosy z pokút sú príjmom štátneho rozpočtu.
+(4) Výnosy z pokút sú príjmom štátneho rozpočtu.
 
-- Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia
+(5) Pokuta uložená podľa tohto zákona je splatná do 30 dní odo dňa nadobudnutia
 
 [[END OF PAGE 137]]
 
@@ -6379,31 +6458,31 @@ právoplatnosti rozhodnutia, ktorým bola uložená.
 
 (1) V rozpočte ministerstva sa každoročne vyčleňuje v kapitole ministerstva rezerva, ktorá je určená na prechodné zmierňovanie rozdielov vyplývajúcich z uplatňovania tohto zákona. Ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť upraviť v rámci rezervy objem pridelených finančných prostriedkov. Dohodovacím konaním je úprava výšky pridelených finančných prostriedkov zriaďovateľovi podľa § 4 o objem finančných prostriedkov pridelený najmä z dôvodu
 
-- nedostatku finančných prostriedkov na osobné náklady a na prevádzkové náklady,
+a) nedostatku finančných prostriedkov na osobné náklady a na prevádzkové náklady,
 
-- nákladov súvisiacich s činnosťou predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie a jej členov vrátane odborníkov z praxe, predsedu skúšobnej komisie pre záverečnú skúšku a pre absolventskú skúšku a jej členov vrátane odborníkov z praxe podľa osobitného predpisu. 25a ).
+b) nákladov súvisiacich s činnosťou predsedu školskej maturitnej komisie, predsedu predmetovej maturitnej komisie a jej členov vrátane odborníkov z praxe, predsedu skúšobnej komisie pre záverečnú skúšku a pre absolventskú skúšku a jej členov vrátane odborníkov z praxe podľa osobitného predpisu.25a).
 
 (2) Dohodovacie konanie sa začína na žiadosť zriaďovateľa. Žiadosť predkladá zriaďovateľ ministerstvu prostredníctvom príslušného krajského školského úradu v priebehu kalendárneho roka.
 
 (3) Žiadosť zriaďovateľa podľa odseku 1 písm. a) obsahuje najmä zdôvodnenie nedostatku finančných prostriedkov poskytnutých školám, štátnym materským školám a štátnym školským zariadeniam
 
-- na osobné náklady,
+a) na osobné náklady,
 
-- na prevádzkové náklady.
+b) na prevádzkové náklady.
 
 (4) Žiadosť zriaďovateľa na úhradu nákladov pre zamestnancov podľa odseku 1 písm. b) obsahuje najmä
 
-- počet dní strávených zamestnancami na maturitných skúškach a záverečných skúškach,
+a) počet dní strávených zamestnancami na maturitných skúškach a záverečných skúškach,
 
-- skutočné náklady zamestnancov na náhrady podľa osobitného predpisu 25b ) vynaložené počas konania maturitných skúšok a záverečných skúšok,
+b) skutočné náklady zamestnancov na náhrady podľa osobitného predpisu25b) vynaložené počas konania maturitných skúšok a záverečných skúšok,
 
-- počet odskúšaných žiakov zamestnancom počas konania maturitných skúšok a záverečných skúšok.
+c) počet odskúšaných žiakov zamestnancom počas konania maturitných skúšok a záverečných skúšok.
 
-- Ministerstvo pridelí zriaďovateľovi finančné prostriedky na kalendárny rok
+(5) Ministerstvo pridelí zriaďovateľovi finančné prostriedky na kalendárny rok
 
-- podľa odseku 1 písm. a) nad rámec normatívnych príspevkov pridelených na základe údajov poskytnutých podľa § 7 ods. 4 v závislosti od zvýšených osobných nákladov a prevádzkových nákladov v priebehu kalendárneho roka a objemu finančných prostriedkov vyčlenených na tento účel v rámci rezervy,
+a) podľa odseku 1 písm. a) nad rámec normatívnych príspevkov pridelených na základe údajov poskytnutých podľa § 7 ods. 4 v závislosti od zvýšených osobných nákladov a prevádzkových nákladov v priebehu kalendárneho roka a objemu finančných prostriedkov vyčlenených na tento účel v rámci rezervy,
 
-- podľa odseku 1 písm. b) nad rámec normatívnych príspevkov pridelených na základe údajov poskytnutých podľa § 7 ods. 4 a objemu finančných prostriedkov vyčlenených na tento účel v rámci rezervy.
+b) podľa odseku 1 písm. b) nad rámec normatívnych príspevkov pridelených na základe údajov poskytnutých podľa § 7 ods. 4 a objemu finančných prostriedkov vyčlenených na tento účel v rámci rezervy.
 
 (6) Zriaďovateľ do 15 dní po doručení oznámenia krajského školského úradu podľa odseku 1 rozpíše finančné prostriedky na kalendárny rok pre jednotlivé školy a školské zariadenia vo svojej zriaďovateľskej pôsobnosti.
 
@@ -6417,51 +6496,50 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 139
 
-- Podrobnosti prideľovania finančných prostriedkov zriaďovateľom podľa odseku 1 písm. b) ustanoví ministerstvo všeobecne záväzným právnym predpisom.'.
+(7) Podrobnosti prideľovania finančných prostriedkov zriaďovateľom podľa odseku 1 písm. b) ustanoví ministerstvo všeobecne záväzným právnym predpisom.“.
 
 Poznámky pod čiarou k odkazom 25a a 25b znejú:
 
-'25a) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
+„25a) § 90 ods. 7 až 11 zákona č. 245/2008 Z. z.
 
-25b) § 4 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.'.
+25b) § 4 zákona č. 283/2002 Z. z. o cestovných náhradách v znení neskorších predpisov.“.
 
-- V § 9 ods. 3 sa slovo 'obciam' nahrádza slovom 'zriaďovateľom'.
+39. V § 9 ods. 3 sa slovo „obciam“ nahrádza slovom „zriaďovateľom“.
 
-- Za § 9 sa vkladá § 9a, ktorý vrátane nadpisu znie:
+40. Za § 9 sa vkladá § 9a, ktorý vrátane nadpisu znie:
 
-##### '§ 9a
+##### „§ 9a
 
 ##### Prechodné ustanovenia k úpravám účinným od 1. septembra 2008
 
 Počas obdobia od 1. septembra 2008 do 31. decembra 2008
 
-- krajský školský úrad oznámi najneskôr do 30. októbra zriaďovateľovi štátnej školy úpravu výšky normatívnych príspevkov pre štátne školy v jeho zriaďovateľskej pôsobnosti na kalendárny rok; úprava zodpovedá rozdielu normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa § 4 ods. 3 zo skutočných počtov žiakov v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa určených podľa § 4 ods. 3 z očakávaných počtov žiakov nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku,
+a) krajský školský úrad oznámi najneskôr do 30. októbra zriaďovateľovi štátnej školy úpravu výšky normatívnych príspevkov pre štátne školy v jeho zriaďovateľskej pôsobnosti na kalendárny rok; úprava zodpovedá rozdielu normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa na nový školský rok určenému podľa § 4 ods. 3 zo skutočných počtov žiakov v novom školskom roku nahlásených zriaďovateľom podľa § 7 ods. 4 a normatívnych príspevkov pre štátne školy v zriaďovateľskej pôsobnosti zriaďovateľa určených podľa § 4 ods. 3 z očakávaných počtov žiakov nahlásených zriaďovateľom podľa § 7 ods. 4 v minulom kalendárnom roku,
 
-- ministerstvo pri určovaní objemu finančných prostriedkov podľa § 5 ods. 1 pre štátne školské zariadenia okrem zariadení podľa osobitného predpisu 23 ) vychádza z počtu detí alebo žiakov, ktorým príslušné zariadenie poskytuje služby, a náročnosti na personálne a prevádzkové zabezpečenie činnosti zariadenia alebo z rozsahu poskytovaných služieb,
+b) ministerstvo pri určovaní objemu finančných prostriedkov podľa § 5 ods. 1 pre štátne školské zariadenia okrem zariadení podľa osobitného predpisu23) vychádza z počtu detí alebo žiakov, ktorým príslušné zariadenie poskytuje služby, a náročnosti na personálne a prevádzkové zabezpečenie činnosti zariadenia alebo z rozsahu poskytovaných služieb,
 
-- sa určujú objemy finančných prostriedkov podľa § 5 ods. 1 pre školské zariadenia podľa osobitného predpisu 23 ) zriadené štátom uznanou cirkvou alebo náboženskou spoločnosťou alebo inou právnickou osobou alebo fyzickou osobou ako pre štátne školy podľa § 4 ods. 2 až 6,
+c) sa určujú objemy finančných prostriedkov podľa § 5 ods. 1 pre školské zariadenia podľa osobitného predpisu23) zriadené štátom uznanou cirkvou alebo náboženskou spoločnosťou alebo inou právnickou osobou alebo fyzickou osobou ako pre štátne školy podľa § 4 ods. 2 až 6,
 
-- vyčlení ministerstvo v kapitole ministerstva rezervu, ktorá je určená na prechodné zmierňovanie rozdielov vyplývajúcich z uplatňovania tohto zákona; ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť v odôvodnených prípadoch upraviť v rámci rezervy objem zriaďovateľovi pridelených finančných prostriedkov,
+d) vyčlení ministerstvo v kapitole ministerstva rezervu, ktorá je určená na prechodné zmierňovanie rozdielov vyplývajúcich z uplatňovania tohto zákona; ministerstvo môže v rámci dohodovacieho konania so zriaďovateľom na jeho žiadosť v odôvodnených prípadoch upraviť v rámci rezervy objem zriaďovateľovi pridelených finančných prostriedkov,
 
-- pridelí ministerstvo na žiadosť zriaďovateľa školy finančné prostriedky z rezervy ministerstva na mzdy asistentov učiteľa pre žiakov zo sociálne znevýhodneného prostredia, 26 ) vrátane poistného a príspevku zriaďovateľa do poisťovní, podľa počtu žiakov školy zo sociálne znevýhodneného prostredia; zriaďovateľ podáva žiadosť ministerstvu prostredníctvom príslušného krajského školského úradu najneskôr do 30. septembra príslušného kalendárneho roka.'.
+e) pridelí ministerstvo na žiadosť zriaďovateľa školy finančné prostriedky z rezervy ministerstva na mzdy asistentov učiteľa pre žiakov zo sociálne znevýhodneného prostredia,26) vrátane poistného a príspevku zriaďovateľa do poisťovní, podľa počtu žiakov školy zo sociálne znevýhodneného prostredia; zriaďovateľ podáva žiadosť ministerstvu prostredníctvom príslušného krajského školského úradu najneskôr do 30. septembra príslušného kalendárneho roka.“.
 
 Poznámka pod čiarou k odkazu 26 znie:
 
-'26) § 2 písm. p) zákona č. 245/2008 Z. z.'.
+„26) § 2 písm. p) zákona č. 245/2008 Z. z.“.
 
-- Poznámky pod čiarou k odkazom 15 až 19 znejú:
+41. Poznámky pod čiarou k odkazom 15 až 19 znejú:
 
-'15) § 26 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
+„15) § 26 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 16) § 19 ods. 7 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-§ 35 a 36 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
-
+17) § 35 a 36 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 § 23 zákona č. 523/2004 Z. z. v znení neskorších predpisov.
 
 18) Napríklad § 24 zákona č. 523/2004 Z. z. v znení neskorších predpisov, § 476 až 480 Občianskeho zákonníka v znení neskorších predpisov.
 
-19) § 8 ods. 2 zákona č. 523/2004 Z. z. v znení neskorších predpisov.'.
+19) § 8 ods. 2 zákona č. 523/2004 Z. z. v znení neskorších predpisov.“.
 
 ## Čl. IV
 
@@ -6483,21 +6561,21 @@ Zbierka zákonov Slovenskej republiky
 
 Zákon č. 278/1993 Z. z. o správe majetku štátu v znení zákona Národnej rady Slovenskej republiky č. 374/1996 Z. z., zákona č. 72/1999 Z. z., zákona č. 121/2001 Z. z., zákona č. 509/2001 Z. z., nálezu Ústavného súdu Slovenskej republiky č. 64/2002 Z. z., zákona č. 435/2002 Z. z., zákona č. 161/2003 Z. z., zákona č. 512/2003 Z. z., zákona č. 618/2004 Z. z., zákona č. 534/2005 Z. z., zákona č. 277/2007 Z. z., zákona č. 325/2007 Z. z. a zákona č. 165/2008 Z. z. sa dopĺňa takto:
 
-- V § 11 ods. 6 sa slová 's výnimkou ustanovenia podľa odseku 7' nahrádzajú slovami 'ak tento zákon neustanovuje inak'.
+1. V § 11 ods. 6 sa slová „s výnimkou ustanovenia podľa odseku 7“ nahrádzajú slovami „ak tento zákon neustanovuje inak“.
 
-- V § 13 ods. 10 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: 'to neplatí, ak ide o krátkodobý nájom.'.
+2. V § 13 ods. 10 prvej vete sa na konci bodka nahrádza bodkočiarkou a pripájajú sa tieto slová: „to neplatí, ak ide o krátkodobý nájom.“.
 
-- Za § 18h sa vkladá nový § 18i, ktorý znie:
+3. Za § 18h sa vkladá nový § 18i, ktorý znie:
 
-##### '§ 18i
+##### „§ 18i
 
-Správca môže so súhlasom zriaďovateľa bezodplatne previesť hnuteľný majetok vo vlastníctve štátu škole alebo školskému zariadeniu, ktoré je zaradené najmenej rok do siete podľa osobitného predpisu, 29 ) podľa schválených projektov spolufinancovaných z prostriedkov Európskej únie, 30 ) ak hnuteľný majetok bude využívaný len na plnenie úloh v rámci predmetu činnosti školy alebo školského zariadenia. Previesť možno aj hnuteľný majetok štátu, ktorý nie je prebytočný; v tomto prípade sa rozhodnutie o prebytočnosti majetku štátu nevydáva.'.
+Správca môže so súhlasom zriaďovateľa bezodplatne previesť hnuteľný majetok vo vlastníctve štátu škole alebo školskému zariadeniu, ktoré je zaradené najmenej rok do siete podľa osobitného predpisu,29) podľa schválených projektov spolufinancovaných z prostriedkov Európskej únie,30) ak hnuteľný majetok bude využívaný len na plnenie úloh v rámci predmetu činnosti školy alebo školského zariadenia. Previesť možno aj hnuteľný majetok štátu, ktorý nie je prebytočný; v tomto prípade sa rozhodnutie o prebytočnosti majetku štátu nevydáva.“.
 
 Poznámky pod čiarou k odkazom 29 a 30 znejú:
 
-'29) § 15 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov a v znení neskorších predpisov.
+„29) § 15 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov a v znení neskorších predpisov.
 
-> 30) Napríklad nariadenie Európskeho parlamentu a Rady 1081/2006/ES z 5. júla 2006 o Európskom sociálnom fonde, ktorým sa zrušuje nariadenie 1784/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006), nariadenie Rady 1083/2006/ES z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie 1260/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006).'.
+30) Napríklad nariadenie Európskeho parlamentu a Rady 1081/2006/ES z 5. júla 2006 o Európskom sociálnom fonde, ktorým sa zrušuje nariadenie 1784/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006), nariadenie Rady 1083/2006/ES z 11. júla 2006, ktorým sa ustanovujú všeobecné ustanovenia o Európskom fonde regionálneho rozvoja, Európskom sociálnom fonde a Kohéznom fonde a ktorým sa zrušuje nariadenie 1260/1999/ES (Ú. v. EÚ L 210, 31. 7. 2006).“.
 
 [[END OF PAGE 140]]
 
@@ -6535,17 +6613,17 @@ k zákonu č. 245/2008 Z. z.
 
 ### ZOZNAM PREBERANÝCH PRÁVNE ZÁVÄZNÝCH AKTOV EURÓPSKEJ ÚNIE
 
-- Smernica Rady 77/486/EHS z 25. júla 1977 o vzdelávaní detí migrujúcich pracovníkov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 199, 6. 8. 1977).
+1. Smernica Rady 77/486/EHS z 25. júla 1977 o vzdelávaní detí migrujúcich pracovníkov (Mimoriadne vydanie Ú. v. EÚ, kap. 5/zv. 1; Ú. v. ES L 199, 6. 8. 1977).
 
-- Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (Ú. v. EÚ L 132, 21. 5. 2016).
+2. Smernica Európskeho parlamentu a Rady (EÚ) 2016/801 z 11. mája 2016 o podmienkach vstupu a pobytu štátnych príslušníkov tretích krajín na účely výskumu, štúdia, odborného vzdelávania, dobrovoľníckej služby, výmenných programov žiakov alebo vzdelávacích projektov a činnosti aupair (Ú. v. EÚ L 132, 21. 5. 2016).
 
-- Smernica Európskeho parlamentu a Rady 2011/93/EÚ z 13. decembra 2011 o boji proti sexuálnemu zneužívaniu a sexuálnemu vykorisťovaniu detí a proti detskej pornografii, ktorou sa nahrádza rámcové rozhodnutie Rady 2004/68/SVV (Ú. v. EÚ L 335, 17. 12. 2011).
+3. Smernica Európskeho parlamentu a Rady 2011/93/EÚ z 13. decembra 2011 o boji proti sexuálnemu zneužívaniu a sexuálnemu vykorisťovaniu detí a proti detskej pornografii, ktorou sa nahrádza rámcové rozhodnutie Rady 2004/68/SVV (Ú. v. EÚ L 335, 17. 12. 2011).
 
-- Smernica Európskeho parlamentu a Rady 2011/95/EÚ z 13. decembra 2011 o normách pre oprávnenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva mať postavenie medzinárodnej ochrany, o jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o obsahu poskytovanej ochrany (prepracované znenie) (Ú. v. EÚ L 337, 20. 12. 2011).
+4. Smernica Európskeho parlamentu a Rady 2011/95/EÚ z 13. decembra 2011 o normách pre oprávnenie štátnych príslušníkov tretej krajiny alebo osôb bez štátneho občianstva mať postavenie medzinárodnej ochrany, o jednotnom postavení utečencov alebo osôb oprávnených na doplnkovú ochranu a o obsahu poskytovanej ochrany (prepracované znenie) (Ú. v. EÚ L 337, 20. 12. 2011).
 
-- Smernica Európskeho parlamentu a Rady 2011/98/EÚ z 13. decembra 2011 o jednotnom postupe vybavovania žiadostí o jednotné povolenie na pobyt a zamestnanie na území členského štátu pre štátnych príslušníkov tretích krajín a o spoločnom súbore práv pracovníkov z tretích krajín s oprávneným pobytom v členskom štáte (Ú. v. EÚ L 343, 23. 12. 2011).
+5. Smernica Európskeho parlamentu a Rady 2011/98/EÚ z 13. decembra 2011 o jednotnom postupe vybavovania žiadostí o jednotné povolenie na pobyt a zamestnanie na území členského štátu pre štátnych príslušníkov tretích krajín a o spoločnom súbore práv pracovníkov z tretích krajín s oprávneným pobytom v členskom štáte (Ú. v. EÚ L 343, 23. 12. 2011).
 
-- Smernica Európskeho parlamentu a Rady 2013/33/EÚ z 26. júna 2013, ktorou sa stanovujú normy pre prijímanie žiadateľov o medzinárodnú ochranu (prepracované znenie) (Ú. v. EÚ L 180, 29. 6. 2013).
+6. Smernica Európskeho parlamentu a Rady 2013/33/EÚ z 26. júna 2013, ktorou sa stanovujú normy pre prijímanie žiadateľov o medzinárodnú ochranu (prepracované znenie) (Ú. v. EÚ L 180, 29. 6. 2013).
 
 [[END OF PAGE 142]]
 
@@ -6557,61 +6635,60 @@ Zbierka zákonov Slovenskej republiky
 
 Strana 143
 
-§ 54 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
+1) § 54 zákona č. 36/2005 Z. z. o rodine a o zmene a doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Napríklad § 19 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, § 142 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
+2) Napríklad § 19 zákona č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov, § 19 zákona č. 314/2001 Z. z. o ochrane pred požiarmi v znení neskorších predpisov, § 142 ods. 3 zákona č. 73/1998 Z. z. o štátnej službe príslušníkov Policajného zboru, Slovenskej informačnej služby, Zboru väzenskej a justičnej stráže Slovenskej republiky a Železničnej polície v znení neskorších predpisov.
 
-§ 372 Trestného zákona.
+3) § 372 Trestného zákona.
 
-§ 424 Trestného zákona.
+4) § 424 Trestného zákona.
 
-- Oznámenie Federálneho ministerstva zahraničných vecí č. 209/1992 Zb. o dojednaní Dohovoru o ochrane ľudských práv a základných slobôd a Protokolov na tento Dohovor nadväzujúcich.
+5) Oznámenie Federálneho ministerstva zahraničných vecí č. 209/1992 Zb. o dojednaní Dohovoru o ochrane ľudských práv a základných slobôd a Protokolov na tento Dohovor nadväzujúcich.
 
 5a) § 28 ods. 2 zákona č. 61/2015 Z. z. o odbornom vzdelávaní a príprave a o zmene a doplnení niektorých zákonov.
 
-- Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
+6) Nariadenie vlády Slovenskej republiky č. 742/2004 Z. z. o odbornej spôsobilosti na výkon zdravotníckeho povolania v znení neskorších predpisov.
 
 6aa) Zákon č. 61/2015 Z. z.
 
-§ 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+7) § 13 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-§ 16 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
+8) § 16 zákona č. 596/2003 Z. z. v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
+9) Zákon Národnej rady Slovenskej republiky č. 270/1995 Z. z. o štátnom jazyku Slovenskej republiky v znení neskorších predpisov.
 
-- 9a) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
+9a) Čl. 3 ods. 12 nariadenia Európskeho parlamentu a Rady (EÚ) č. 910/2014 z 23. júla 2014 o elektronickej identifikácii a dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zrušení smernice 1999/93/ES (Ú. v. EÚ L 257, 28. 8. 2014).
 
-- 9b) § 8 zákona č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
+9b) § 8 zákona č. 272/2016 Z. z. o dôveryhodných službách pre elektronické transakcie na vnútornom trhu a o zmene a doplnení niektorých zákonov (zákon o dôveryhodných službách).
 
-- 9c) Čl. 3 ods. 27 nariadenia (EÚ) č. 910/2014.
+9c) Čl. 3 ods. 27 nariadenia (EÚ) č. 910/2014.
 
-- 9d) Čl. 3 ods. 34 nariadenia (EÚ) č. 910/2014.
+9d) Čl. 3 ods. 34 nariadenia (EÚ) č. 910/2014.
 
-§ 2 ods. 14 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
+10) § 2 ods. 14 zákona č. 395/2002 Z. z. o archívoch a registratúrach a o doplnení niektorých zákonov v znení neskorších predpisov.
 
-- Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
+11) Zákon č. 428/2002 Z. z. o ochrane osobných údajov v znení neskorších predpisov.
 
-§ 18 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+12) § 18 zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
-§ 49 ods. 5 písm. c) zákona č. 428/2002 Z. z. v znení neskorších predpisov.
+13) § 49 ods. 5 písm. c) zákona č. 428/2002 Z. z. v znení neskorších predpisov.
 
-- Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
+14) Zákon Národnej rady Slovenskej republiky č. 149/1995 Z. z. o posunkovej reči nepočujúcich osôb.
 
-- 14a) § 4ad zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 182/2017 Z. z.
+14a) § 4ad zákona č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení zákona č. 182/2017 Z. z.
 
-- 14b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
+14b) Zákon Národnej rady Slovenskej republiky č. 278/1993 Z. z. o správe majetku štátu v znení neskorších predpisov.
 
-§ 14 ods. 2 písm. a) a b) zákona č. 596/2003 Z. z. v znení zákona č. 475/2005 Z. z.
+15) § 14 ods. 2 písm. a) a b) zákona č. 596/2003 Z. z. v znení zákona č. 475/2005 Z. z.
 
-- Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
+16) Zákon č. 308/1991 Zb. o slobode náboženskej viery a postavení cirkví a náboženských spoločností v znení neskorších predpisov.
 
-- Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 394/2004 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Svätou stolicou o katolíckej výchove a vzdelávaní.
-
+17) Oznámenie Ministerstva zahraničných vecí Slovenskej republiky č. 394/2004 Z. z. o uzavretí Zmluvy medzi Slovenskou republikou a Svätou stolicou o katolíckej výchove a vzdelávaní.
 Dohoda medzi Slovenskou republikou a registrovanými cirkvami a náboženskými spoločnosťami o náboženskej výchove a vzdelávaní (č. 395/2004 Z. z.).
 
 17a) § 4 ods. 2 zákona č. 61/2015 Z. z.
 
-- Nariadenie vlády Slovenskej republiky č. 12/2008 Z. z. o používaní profesijných titulov a ich
+18) Nariadenie vlády Slovenskej republiky č. 12/2008 Z. z. o používaní profesijných titulov a ich
 
 [[END OF PAGE 143]]
 
@@ -6731,7 +6808,7 @@ Strana 145
 
 59) § 226 ods. 2 Zákonníka práce.
 
-§ 1 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
+60) § 1 zákona Národnej rady Slovenskej republiky č. 199/1994 Z. z. o psychologickej činnosti a Slovenskej komore psychológov v znení zákona č. 578/2004 Z. z.
 
 62) Zákon č. 601/2003 Z. z. v znení neskorších predpisov.
 
@@ -6741,13 +6818,13 @@ Strana 145
 
 65) Zákon č. 315/2001 Z. z. o Hasičskom a záchrannom zbore v znení neskorších predpisov.
 
-- Napríklad § 103 Trestného zákona, § 54 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
+66) Napríklad § 103 Trestného zákona, § 54 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
-§ 360 a 365 Civilného mimosporového poriadku.
+67) § 360 a 365 Civilného mimosporového poriadku.
 
-§ 37 ods. 2 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
+68) § 37 ods. 2 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
-§ 102 Trestného zákona.
+69) § 102 Trestného zákona.
 
 70) § 37 ods. 1 zákona č. 36/2005 Z. z. v znení neskorších predpisov.
 
@@ -6839,10 +6916,10 @@ Zbierka zákonov Slovenskej republiky
 
 245/2008 Z. z.
 
+Vydavateľ Zbierky zákonov Slovenskej republiky, správca obsahu a prevádzkovateľ právneho a informačného portálu Slov-Lex dostupného na webovom sídle www.slov-lex.sk je
+
 Ministerstvo spravodlivosti Slovenskej republiky, Župné námestie 13, 813 11 Bratislava,
 
 tel.: 02 888 91 131, e-mail: helpdesk@slov-lex.sk.
-
-Vydavateľ Zbierky zákonov Slovenskej republiky, správca obsahu a prevádzkovateľ právneho a informačného portálu Slov-Lex dostupného na webovom sídle www.slov-lex.sk je
 
 [[END OF PAGE 147]]
