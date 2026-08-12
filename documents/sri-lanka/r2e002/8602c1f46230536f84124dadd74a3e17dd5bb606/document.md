@@ -39,6 +39,29 @@ J.J. Kandamby The Director of Education (EFA) Ministry of Human Resource Develop
 [[START OF PAGE 4]]
 
 # Contents
+Page
+Chapter - 01
+Introduction 1-21
+1.1 Historical Overview of Education system in Sri Lanka
+1.2 Western Influence
+1.3 New Era in Education
+1.3.1 Democratization of Education
+1.3.2 Opening of Central Schools
+1.3.3 The Free Education Scheme
+1.3.4 Diversification of the Curriculum
+1.3.5 School Midday Meal
+1.3.6 Improvement of the Status of Teachers
+1.3.7 Establishment of the University of Ceylon
+1.4 Need for New Education Reforms
+1.5 Development of Schools on Fast Track
+1.6 Counseling and Career Guidance
+1.7 Teaching of English and Foreign languages
+1.8 Information Technology
+1.9 Teacher Performance Appraisal
+1.10 Strengthening the Management of Education
+1.11 New Trends Based on Education for All Vision
+1.11.1 Details of Programmes Implemented by the Education for All Branch
+1.12 Scope and the methodology of the Case Study
 
 [[END OF PAGE 4]]
 
@@ -47,6 +70,29 @@ J.J. Kandamby The Director of Education (EFA) Ministry of Human Resource Develop
 Chapter - 02
 
 Early Childhood Care and Education 21-48
+2.1 Vision Statement
+2.1.1 Interpretation
+2.1.2 Special Significance in Early Childhood
+2.2 Review relating to the Present Position of the Early Childhood care and Education.
+2.2.1 Present Position Relating to Early Childhood Care and Education Centers.
+2.2.2 Intervention by the Government Sector
+2.2.2.1 Ministry of Health
+2.2.2.2 Ministry of Social Service and Well Fare
+2.2.2.3 Provincial Ministry
+2.2.2.4 Ministry of Education
+2.2.3 Early Childhood Care and Education Centers conducted by public institute.
+2.2.4 Early Childhood Care and Education Centers conducted by non Government Organizations
+2.3 Children in the Early Childhood age belonging to Various Categories.
+2.4 National Objective of the Early Childhood Care and Education.
+2.5 Indicators for Early Childhood Care and Education.
+2.6 Early Childhood Care and Development.
+2.7 Objective of the Early Childhood Care Development Center.
+2.8 Proposed Programmes for Early Childhood Care and Education.
+2.8.1 Home Based Programme
+2.8.2 Based on Day Care Centers.
+2.8.3 Based on E.C.C.E. Development Center.
+2.9. Professional Development of the Employees Engaged in E.C.C.E.
+2.10. Organizing Structure
 
 [[END OF PAGE 5]]
 
@@ -67,6 +113,26 @@ Early Childhood Care and Education 21-48
 - 2.17. Conclusion.
 
 Chapter - 03
+Primary Education 49-80
+3.1 By way of definition
+3.1.1 Historical with reference to E.F.A.
+3.1.2 Growth of literacy in Sri Lanka during the twentieth centaury
+3.1.3 The last decade
+3.2 The present
+3.2.1 Schools with primary classes
+3.2.2 Pupils population in Grade 1-5
+3.2.3 Primary Teachers Teaching in Grade 1-5
+3.3 Towards Universalisation of education through school rationalization
+3.4 Reforms of Primary Education
+3.4.1 The launch of reforms in Primary Education
+3.4.2 The five year plan for Primary Education (EYPPE) (2000-2004)
+3.5 The relevance of FYPPE to E.F.A.
+3.5.1 Towards E.F.A.
+3.6 Towards better productivity in Primary Education
+3.7 Implementation of Primary Education Reforms
+3.8 For Primary Education the contribution from the National Institute of Education
+3.9 Nutrition programme for Grade I pupils in selected schools
+3.10 Productive Primary Education programmes at provincial level
 
 [[END OF PAGE 6]]
 
@@ -84,7 +150,7 @@ Chapter - 03
 
 Chapter - 04
 
-Formal Education in Sri Lanka
+Formal Education in Sri Lanka 81-105
 
 - 4.1 Introduction
 
@@ -108,7 +174,7 @@ Formal Education in Sri Lanka
 
 Chapter - 05
 
-Non-Formal Education in Sri Lanka
+Non-Formal Education in Sri Lanka 106-122
 
 - 5.1 Definitions
 
@@ -125,10 +191,6 @@ Non-Formal Education in Sri Lanka
 - 5.4.2 NGO involvements in Non-Formal Education programme in provinces
 
 - 5.5 Problems arising when implementing Non-Formal Education programmes
-
-81-105
-
-106-122
 
 [[END OF PAGE 7]]
 
@@ -154,7 +216,7 @@ Non-Formal Education in Sri Lanka
 
 Chapter - 06
 
-UNESCO Involvement
+UNESCO Involvement 123-131
 
 - 6.1 Publications
 
@@ -180,11 +242,7 @@ UNESCO Involvement
 
 Chapter - 07
 
-Gender Education
-
-123-131
-
-132-137
+Gender Education 132-137
 
 [[END OF PAGE 8]]
 
@@ -192,29 +250,25 @@ Gender Education
 
 Chapter - 08
 
-Conclusion
+Conclusion 138-141
 
 - 7.1 Responsibilities and Functions of Education for All
 
 - 7.2 Achievement of Education for All goals through our Collective commitment
 
-Appendix
+Appendix 141-183
 
-- Questioners
+1. Questioners
 
-- Circular - Implementation of EFA programme
+2. Circular – Implementation of EFA programme
 
-- List of references
+3. List of references
 
-- Participants at the work shop
+4. Participants at the work shop
 
-- Work shop on final discussion for drafting
+5. Work shop on final discussion for drafting
 
-- Panel of writers
-
-141-183
-
-138-141
+6. Panel of writers
 
 [[END OF PAGE 9]]
 
@@ -230,7 +284,7 @@ Sri  Lanka  has  clear  evidence  of  flourishing  civilization  over  2000  yea
 
 In  the  ancient  society,  education  was  associated  with  Buddhist  temples.  At  a  time  when printing was not known knowledge was transmitted through generations, verbally and was memorized  by  pupils.  Later,  texts  were  written  on  Ola  leaf  and  these  manuscripts  were collected  in  libraries  of  Buddhist  Temples.  There  were  seats  of  learning,  which,  can  be compared to present day universities, which were run by Buddhist Clergy where subject like Religion  Philosophy  and  Literature  were  taught.  These  institutions  were  called  Privenas (Buddhist Monastic Colleges), which were primarily intended to teach clergy, but gave the opportunity for male lay students also to receive education.
 
-There  are  many  literacy  works  written  during  this  period  which  show  a  high  quality  of literary excellence.
+There are many literary works written during this period which show a high quality of literary excellence.
 
 ## 1.2 Western Influence
 
@@ -248,7 +302,7 @@ Portuguese  conquered  the  coastal  areas  of  Sri  Lanka  in  1505  and  remai
 
 Dutch  who  succeeded  the  Portuguese,  on  realization  that  the  establishment  of  schools assisted the civil administration and trade, took steps to expand the opportunity of education by  increasing  the  number  of  schools;  their  system  of  education  was  based  on  promoting religion through The Dutch Reformed Church.
 
-But the difference to Portuguese is, that the Dutch did not leave education in the lands of the clergy but  exercised  government control to a fair degree over managing schools.
+But the difference to Portuguese is, that the Dutch did not leave education in the hands of the clergy but exercised government control to a fair degree over managing schools.
 
 ### 1.2.3 Period Under The British
 
@@ -270,9 +324,9 @@ With the implementation of recommendations of The Donoughmore Commission in 1931
 
 3
 
-The empowerment of people was ensured by election of representatives to the State Council by popular vote. Executive committees were set up to be in charge of various subjects of the government and the elected chairman of each executive committee became the Minster in charge of the particular subject that come under the preview of the committee.
+The empowerment of people was ensured by election of representatives to the State Council by popular vote. Executive committees were set up to be in charge of various subjects of the government and the elected chairman of each executive committee became the Minister in charge of the particular subject that come under the preview of the committee.
 
-The executive committee on Education was placed under the chairmanship of Dr. C.W.W. Kanangara, who became the first minister of education in Sri Lanka. The country stepped forward  with  a  wealth  of  achievements  during  the  period  of  15  years  (1931-1947)  during which, Dr. Kannangara held office as the Minister of Education.
+The executive committee on Education was placed under the chairmanship of Dr. C.W.W. Kannangara, who became the first minister of education in Sri Lanka. The country stepped forward with a wealth of achievements during the period of 15 years (1931-1947) during which, Dr. Kannangara held office as the Minister of Education.
 
 He  enacted  a  comprehensive  ordinance  covering  all  aspects  of  education  to  lay  the foundation for a national system of education. The draft bill was sent to the legal draftsman in 1932 which took seven years to be finalized in 1939.
 
@@ -332,33 +386,11 @@ this country enjoys to-day in spite of a low per capita income.
 
 ### 1.3.4 Diversification of the Curriculum.
 
-Dr. Kannangara believed that, education should train the future generation of youth
+Dr. Kannangara believed that, education should train the future generation of youth that could contribute to the economic development of the country. He encouraged the promotion of this concept through the ‘Handessa Scheme’, where children would learn by practical experience through exploring the environment. The present concern for environment was reflected in these efforts of Dr. Kannangara. The special Committee recommended that a curriculum should develop a child's “Head Heart and Hand" This concept emphasized the development of the 3 aspects of personality development. They are -
 
-that could contribute to the economic development of the country. He encouraged
+ Development of academic knowledge
 
-the promotion of this concept through the 'Handessa Scheme', where children would
-
-learn  by  practical  experience  through  exploring  the  environment.  The  present
-
-concern  for  environment  was  reflected  in  these  efforts  of  Dr.  Kannangara.
-
-special The Committee  recommended  that  a  curriculum  should  develop  a  child's
-
-'Head Heart
-
-and Hand"
-
-This concept emphasized the development of the  3 aspects
-
-of personality development.  They are -
-
-
-
-Development of academic knowledge
-
-
-
-Development of aesthetic values
+ Development of aesthetic values
 
 [[END OF PAGE 13]]
 
@@ -378,7 +410,7 @@ The other aspect that was emphasized by , Dr. Kannangara  are -
 
 ### 1.3.7 Establishment of the University of Ceylon.
 
-### 1.3 8     Period  After  Independence  ( Education Policy Reforms 1948 1997 )
+### 1.3.8 Period After Independence ( Education Policy Reforms 1948 – 1997 )
 
 Sri Lanka gained independence in 1948 but remained a dominion in the British Commonwealth  of  Nations  until  1972.  In  the  year  1972  the  country  was  declared  a Democratic Socialist Republic and there was an improvement in access to education with the expansion of the school network  throughout the country.
 
@@ -414,7 +446,7 @@ The age limit for school admission was raised to 6 years.
 
 - x The early 1970 reforms were short lived.  Further reforms were introduced in 1981.
 
-* The fee mid-day meal facility was suspended.
+* The free mid-day meal facility was suspended.
 
 - The previous system of schooling of 12 years was re-established.
 
@@ -540,7 +572,7 @@ Material and facilities needed for Teaching and Learning  is provided as Quality
 
 ### 1.5.3  Development of Schools on a Fast Track
 
-Provision of equal access to Education is an accepted concept by all rations.  The reform proposal recognized this fact and proposed the development of school at divisional level.
+Provision of equal access to Education is an accepted concept by all nations. The reform proposal recognized this fact and proposed the development of school at divisional level.
 
 Accordingly, it has been decided that:
 
@@ -562,7 +594,7 @@ Accordingly, it has been decided that:
 
  About  115 schools in the plantation sector, which had not been covered by the earlier projects, to be taken up for development during the current year.
 
-These interventional  programmes are mea nt to   ease out  some of the disparities  that  are persisting in the Education system.
+These interventional programmes are meant to ease out some of the disparities that are persisting in the Education system.
 
 ### 1.5.4    Student Welfare Services
 
@@ -580,11 +612,11 @@ The Ministry of Education at present funds a wide- range of student welfare meas
 
 11
 
-campaign as well as strictly enforcing the legal provisions with the help of lawenforcement agencies.
+campaign as well as strictly enforcing the legal provisions with the help of law-enforcement agencies.
 
 ### 1.5.5     Education for Peace & Social Harmony
 
-Learning to live together is  one  of  the  basic  aims  that  has  been  detailed  in  the  UNESCO Report. Sri Lanka being a multi -cultural society, and after experiencing the trauma of an ethnic  conflict,  peace  and  harmony  should  be  an  essential  outcome  of  Education.  Peace Education,  conflict  resolution,  respect  for  others  viewpoint  are  encouraged  through  the curricula as well as co- urricular programmes.
+Learning to live together is one of the basic aims that has been detailed in the UNESCO Report. Sri Lanka being a multi-cultural society, and after experiencing the trauma of an ethnic conflict, peace and harmony should be an essential outcome of Education. Peace Education, conflict resolution, respect for others viewpoint are encouraged through the curricula as well as co-curricular programmes.
 
 Values  and  morals  cannot  be taught as separate subjects. They  should  be  learned continuously  as  cohesive  trend  that  runs  through  all  subjects,  through  all  the  years  of schooling.  The  teaching  of  religion,  which  begins  in  the  primary  grades  and  continues through the rest of the general education years, contributes greatly to building up of correct values and morals.
 
@@ -628,7 +660,7 @@ A National Policy on introduction of information technology to the school curric
 
  IT will be used as a tool of learning in the classroom
 
-It is expected that around 2000 schools will have computer facilities within 2002 and 2003. This  will be funded by Foreign Funded Projects. Eight provincial computer-training centers will be established in the eight provinces. Al teachers who wish to acquire computer literacy will be trained in these centers.
+It is expected that around 2000 schools will have computer facilities within 2002 and 2003. This will be funded by Foreign Funded Projects. Eight provincial computer-training centers will be established in the eight provinces. All teachers who wish to acquire computer literacy will be trained in these centers.
 
 [[END OF PAGE 21]]
 
@@ -638,7 +670,7 @@ It is expected that around 2000 schools will have computer facilities within 200
 
 ### 1.5.9  Teacher Performance Appraisal
 
-Success  of  the  entire  reforms  programme  depends,    on  how  the  teacher  performs  in  the classroom and interacts with the pupils. The best-laid plans will fail if the fullest cooperation of the teacher is not given that all times. The Education System will incur much time, effort and expense in order to build up the quality and efficiency of the teaching learning process. However,  in  order  to  achieve  desired  results  a  well-planned  monitoring  programme  is essential. The presidential task force has decided to take the following steps.
+Success of the entire reforms programme depends, on how the teacher performs in the classroom and interacts with the pupils. The best-laid plans will fail if the fullest cooperation of the teacher is not given at all times. The Education System will incur much time, effort and expense in order to build up the quality and efficiency of the teaching learning process. However, in order to achieve desired results a well-planned monitoring programme is essential. The presidential task force has decided to take the following steps.
 
  A system of teacher performance appraisal (TPA) will be introduced to schools.
 
@@ -662,9 +694,9 @@ The Management of the Education system and the implementation of the Reform proc
 
 14
 
-- between Provincial administration and the Zonal Administration  and the school system.
+between Provincial administration and the Zonal Administration and the school system.
 
- New  monitoring  and  supervision  system  should  be  developed,  involving  the center and provincial systems, whereby school based Management can operate efficiently, with official system caring out monitoring and facilitating role rather than one of control.
+ New monitoring and supervision system should be developed, involving the center and provincial systems, whereby school based Management can operate efficiently, with official system carrying out monitoring and facilitating role rather than one of control.
 
 ## 1.6   Partnerships in Education Sector
 
@@ -672,7 +704,7 @@ The Management of the Education system and the implementation of the Reform proc
 
 - x Approved private schools, approved certified schools, international schools and  tutories have entered the education sector which are totally managed by private organizations. Due to high competition for School Admissions most parents in the urban areas seek admissions of their children .to private schools.
 
-- x All pre-schools are managed by them private sector or welfare organizations.
+- x All pre-schools are managed by the private sector or welfare organizations.
 
 ### 1.6.2     State Sector Participation in Education
 
@@ -686,25 +718,24 @@ The  following  Ministries  have  undertaken  partnerships  in  education  in  t
 
 Ministry | Sub Sector
 --- | ---
-Vocational Education
-Ministry of Social of Services | Special Education
-Non formal Education
-Adult literacy Programmes
-Pre-school Education
-Ministry of Woman's Affairs | Vocational Education for women
-Health and Nutrition Education
-Provincial Authorities | Non formal Education through community Based
-Rehabilitation programs
-Health and Nutrition Education
-Adult Education
-Vocational Education
-Non formal Education
-Special Education
+Ministry of Social of Services | Vocational Education
+ | Special Education
+ | Non formal Education
+ | Adult literacy Programmes
+ | Pre-school Education
+Ministry of Woman’s Affairs | Vocational Education for women
+ | Health and Nutrition Education
+Provincial Authorities | Non formal Education through community Based Rehabilitation programs
+ | Health and Nutrition Education
+ | Adult Education
+ | Vocational Education
+ | Non formal Education
+ | Special Education
 Samurdhi Authority | Adult Literacy program
-Vocational Education
+ | Vocational Education
 Ministry of Industries | Technical Education
 Ministry of Tertiary Education | Technical Education
-Vocational Education
+ | Vocational Education
 Ministry of Health | Health & Nutrition Education
 
 [[END OF PAGE 24]]
@@ -777,7 +808,7 @@ Financial  investment
 
 :   US Dollars   76.00 Million
 
-The Project is implemented through the following activities with a view to promote Qualitative improvement of education by modernizing and   strengthening the Teaching Learning process
+The Project is implemented through the following activities with a view to promote Qualitative improvement of education by modernizing and   strengthening the Teaching – Learning process
 
 - x Construction of Computer Learning Centers in  schools
 
@@ -847,7 +878,7 @@ Financial Investment:
 
 Local Funding Rupees 26.3 million/ Foreign Aid Rupees 98 million
 
-This project is implemented with the objective of promoting a quality development of the learning - teaching process for reading the basic competencies of the primary stage.
+This project is implemented with the objective of promoting a quality development of the learning – teaching process for reading the basic competencies of the primary stage.
 
 #### Junior School Improvement Project (JHICA - JAPAN Funded)
 
@@ -877,7 +908,7 @@ In  the  light  of  "World  Declaration  on  Education"  Sri  Lankan  education 
 
 - The evolution of a sustainable pattern of living
 
-- The  preparation  for  work  opportunities  that  are  dignified  satisfying  and  self  fulfilling.
+- The  preparation  for  work  opportunities  that  are  dignified  satisfying  and  self – fulfilling.
 
 [[END OF PAGE 27]]
 
@@ -987,7 +1018,7 @@ Four-member committee would be appointed to handle this case study and they woul
 
 Accordingly four questionnaires were prepared and handed over to all eight provinces at the preliminary work session and provincial level EFA coordinators attended to this task. They gathered all the data pertaining to the respective areas of Education relevant to their own provinces.  Four-member  committee  visited  all  the  provinces  and  instructed  the  relevant authority how to respond to these questionnaires. Data gathering was the difficult part of this study  due  to  lack  of  the  availability  of  reliable  information  with  regard  to  some  areas  of Education. There fore the verification of facts and figures had to be done at the interviews with officers who are dealing with respective branches of Education.
 
-Eight Provincial level  EFA  coordinators  and  other officers responsible for  Primary Education,  ECCD,  Non-  Formal  Education  and  Formal  Education  were  called  to  the second  work  session  where  all  the  questionnaires  were  collected  and  analyzed.  Several participants  from  NGOs  and  other  organizations  also  participated  in  this  session  and contributed with some statically data. Four areas namely, ECCE, Primary Education, NonFormal  Education  and  Formal  Education  were  given  to  separate  groups,  which  were comprised of the specialists in those respective areas of Education. Within these groups all the  data  gathered  from  eight  provinces  were  analyzed.    Data  collected  form  other  sources were also taken in the final analysis of data. The output of this work session was the rough draft of the report of case study.
+Eight Provincial level  EFA  coordinators  and  other officers responsible for  Primary Education,  ECCD,  Non-  Formal  Education  and  Formal  Education  were  called  to  the second  work  session  where  all  the  questionnaires  were  collected  and  analyzed.  Several participants  from  NGOs  and  other  organizations  also  participated  in  this  session  and contributed with some statically data. Four areas namely, ECCE, Primary Education, Non-Formal  Education  and  Formal  Education  were  given  to  separate  groups,  which  were comprised of the specialists in those respective areas of Education. Within these groups all the  data  gathered  from  eight  provinces  were  analyzed.    Data  collected  form  other  sources were also taken in the final analysis of data. The output of this work session was the rough draft of the report of case study.
 
 A panel of writers including the four-member committee to whom this task was assigned did writing of the first draft of the country case study. All the literary resources pertaining to the respective areas of Education were consulted at this level and final verification on some of the  information  were  also  involved.  The  final  outcome  of  this  writing  session  is  this  draft report of country case study.
 
@@ -1049,7 +1080,7 @@ Among the children below 5 years the percentage of under weight, blind and dwarf
 --- | --- | ---
  | One year olds who were subjected to immunization against Tuberclos is | 97%
  | The number who were subjected to immunization against Dyptheria,
-Whooping Cough and Tetanus | `
+Whooping Cough and Tetanus | 99%
  | Immunization against Polio | 99%
  | Immunization against Measles | 95%
 
@@ -1063,7 +1094,9 @@ Although we have a short history relating to Early Childhood Care and Developmen
 
 27
 
-District | No. of Pre Schools | No. of Pre School Teachers | No. of Students
+List of Pre Schools at the end of 2000
+
+ | District | No. of Pre Schools | No. of Pre School Teachers | No. of Students
 --- | --- | --- | --- | ---
 1 | Colombo | 612 | 1101 | 22016
 2 | Gampaha | 730 | 996 | 19267
@@ -1072,7 +1105,7 @@ District | No. of Pre Schools | No. of Pre School Teachers | No. of Students
 5 | Matara | 137 | 725 | 12908
 6 | Hambantota | 269 | 423 | 7142
 7 | Mahanuwara | 343 | 414 | 7814
-8 | Nuwaraeliya
+8 | Nuwaraeliya |  |  | 
 9 | Matale | 303 | 415 | 7991
 10 | Ratnapura | 593 | 812 | 11145
 11 | Kegall | 426 | 573 | 9418
@@ -1084,14 +1117,12 @@ District | No. of Pre Schools | No. of Pre School Teachers | No. of Students
 17 | Polonnaruwa | 70 | 124 | 2113
 18 | Trinco | 145 | 231 | 4727
 19 | Ampara | 329 | 690 | 11272
-20 | Madakalapuwa
-21 | Mannarama
-22 | Mulathive
+20 | Madakalapuwa |  |  | 
+21 | Mannarama |  |  | 
+22 | Mulathive |  |  | 
 23 | Wauniyawa | 86 | 133 | 3742
-24 | Yapanaya
-Total | 7725 | 11366 | 204695
-
-List of Pre Schools at the end of 2000
+24 | Yapanaya |  |  | 
+ | Total | 7725 | 11366 | 204695
 
 Source - Child Secretariat Office
 
@@ -1117,7 +1148,7 @@ The statistics of the Sirisubhoda Training and Resources Centre that conducteds 
 
 29
 
-Several  steps    have  been  taken  by  the  Ministry  of  Health  with  regard  to  the  child development and minimizing low weight at birth. In an attempt to lower the number of maternity  deaths,  the  Ministry  has  launched  a  nutrition  projects  to  overcome  malnutrition. Under this project steps have been taken to supplement   vitamin deficiencies of pregnant mothers and the timely provision of vaccines for  prevention of diseases.
+Several  steps    have  been  taken  by  the  Ministry  of  Health  with  regard  to  the  child development and minimizing low weight at birth. In an attempt to lower the number of maternity  deaths,  the  Ministry  has  launched  a  nutrition  projects  to  overcome  mal-nutrition. Under this project steps have been taken to supplement   vitamin deficiencies of pregnant mothers and the timely provision of vaccines for  prevention of diseases.
 
 The  Ministry  of  social  service  and  other  relevant  Ministries  are  jointly  revising  the National Policy on Early Childhood Care and Education.
 
@@ -1157,7 +1188,7 @@ In addition to this, 'Early Childhood Care and Education' has been treated as th
 
  UNICEF  which  provides  assistance attain International level for Early Childhood Care and Education.
 
- Providing awareness programme for mothers relating to female children in Sri Lanka  for  necessary  guidance  for  the  female  children  for  better  mental, physical  develo0emt  through  the  care  and  education,  woman's  Affairs  and Women's bureau.
+ Providing awareness programme for mothers relating to female children in Sri Lanka  for  necessary  guidance  for  the  female  children  for  better  mental, physical  development  through  the  care  and  education,  woman's  Affairs  and Women's bureau.
 
  Women's and Children bureau of Ministry of labour.
 
@@ -1243,7 +1274,7 @@ The  most  suitable  place  for  bringing  up  children  is  their  home.  Most 
 
 - Provision of abilities to face challenging situations
 
-- Build  up  a  favorable  atmosphere  for  getting  used  to  work  with  cohabitation.
+- Build  up  a  favorable  atmosphere  for  getting  used  to  work  with  co-habitation.
 
 - Make arrangements to the child to live a happy a joyous life.
 
@@ -1257,7 +1288,7 @@ The  most  suitable  place  for  bringing  up  children  is  their  home.  Most 
 
 ### 2.8.1   Home based programme
 
-The period spent by the child in the company of his/her family members is very important. During this period he/she should get health, nutrition as well as  protection  and  care.  Love  and    affection  from  his  family  members  and adults  is  very  essential  for  children.  While  being  funding  among  mother, father, elder brother, elder sister, aunt, uncle, grandmother, grandfather etc, the child will get developed among various characters. As such regarding the child's  development  it  is  more  important  that  the  adult  understand  him.  A more subtle system adapted in maternity clinics starting from the conception up  to  the  childbirth.  Along  with  the  birth  to  the  child,  the  father  will  also have knowledge of building up a child. As such the building up of the child is the responsibility for the only it shared by the father too. It is a joint effort. Regarding this aspect we have to adopt some arrangement in our country. In addition to the awareness on the part of the parents it is also important to introduce the resources in the homes and in the adjacent environment. For lack  of  proper  understanding  there  will  be  unfavorable  impacts  on  the development  of  child  and  for  his  personality  development  during  the  time spent in the child's home. Awareness programmes for parents would be very fruitful as due to ignorance of the pre-school system has led to a decline in pre-school attendance. Many pre school education specialists believe that a child's physical and mental requirements and also his psychological requirements will be fulfilled in his family and home environment. Therefor child  development programmes based on home should be implemented for the  welfare  of  the  growing  child.  In  this  regard,  appropriate  caring  and protection requirements for fulfilling the requirements of the child's development should be established. This home based programme should be implemented in the form of community programmes to create is awareness of  family  responsibilities  through  Family  Health,  Samurdhi  and  Grama Niladhari and Volunteer Service as well as at rural level, of parents, mother, woman, societies and community centers etc.
+The period spent by the child in the company of his/her family members is very important. During this period he/she should get health, nutrition as well as protection and care. Love and affection from his family members and adults is very essential for children. While being funding among mother, father, elder brother, elder sister, aunt, uncle, grandmother, grandfather etc,
 
 [[END OF PAGE 42]]
 
@@ -1265,9 +1296,11 @@ The period spent by the child in the company of his/her family members is very i
 
 34
 
+the child will get developed among various characters. As such regarding the child's development it is more important that the adult understand him. A more subtle system adapted in maternity clinics starting from the conception up to the childbirth. Along with the birth to the child, the father will also have knowledge of building up a child. As such the building up of the child is the responsibility for the only it shared by the father too. It is a joint effort. Regarding this aspect we have to adopt some arrangement in our country. In addition to the awareness on the part of the parents it is also important to introduce the resources in the homes and in the adjacent environment. For lack of proper understanding there will be unfavorable impacts on the development of child and for his personality development during the time spent in the child's home. Awareness programmes for parents would be very fruitful as due to ignorance of the pre-school system has led to a decline in pre-school attendance. Many pre school education specialists believe that a child's physical and mental requirements and also his psychological requirements will be fulfilled in his family and home environment. Therefor child development programmes based on home should be implemented for the welfare of the growing child. In this regard, appropriate caring and protection requirements for fulfilling the requirements of the child's development should be established. This home based programme should be implemented in the form of community programmes to create is awareness of family responsibilities through Family Health, Samurdhi and Grama Niladhari and Volunteer Service as well as at rural level, of parents, mother, woman, societies and community centers etc.
+
 ### 2.8.2 Day Care Centers
 
-A child's heaven will be created in his family, home, based existence of an environment favorable to him and on the awareness of his members of the family. But both these resources are not available in most of the families. In a nucleus family where they are only the husband and the wife the child will be deprived of  the  favorable  atmosphere  funded  in  extend  family.  Also  where husband  and  wife  will  be  deprived  of  a  favorable  atmosphere.  In  such instances, the child will be left alone in his home. The child is not an adult.
+A child's heaven will be created in his family, home, based existence of an environment favorable to him and on the awareness of his members of the family. But both these resources are not available in most of the families. In a nucleus family where they are only the husband and the wife the child will be deprived of the favorable atmosphere funded in extend family. Also where husband and wife will be deprived of a favorable atmosphere. In such instances, the child will be left alone in his home. The child is not an adult.
 
 [[END OF PAGE 43]]
 
@@ -1281,7 +1314,7 @@ Day Care Centers should be prepared according to the needs and demand of the  pa
 
 ### 2.8.3 Early Childhood Care and Development Centers
 
-These Institutions are varied and known to us as Pre Schools, Infant Schools, and Children's Parks, Montessori etc. In will be  more meaningful to define them as  "Early Childhood Development Centres". These institutions should not be places where something is taught to the child  but as a centres with multiple activities for the overall development of personality including child's education. These institutions are ECCD centres which pre school programmes conducted by Matrons trained in child development of children between 3-5 years of age. "Pre Schools" conducted in the above Day Care Centers also fall into this category of ECCD Centers. Although it is possible to  conduct  both  a  Day  Care  Centre  and  an  ECCD  centre  in  the  same premises they should be treated as two different programmes. A child of 3-5 years of age is naturally active, unsatisfied and inquisitive with questions of why? Who? Where? What? How? etc. The parents will not be in a position to create  an  environment  or  a  "Children's  World"  within  their  homes  to  live freely and to run, jump, play, question and shout. Therefore, as an alternative the ECCD centre should be a place away from the "adult's world" and meet needs of the child. They should develop pleasing language abilities, promote intellectual experiences and provide independence and personality development.  The  furniture,  sports  materiel,  and  books  should  be  those suitable  for  children  only.  Association  with  pre  groups,  maintaining  and friend  ships,  playing  with  friends  is  essential  for  a  child  social  and  mental development. The ECCD centres should be converted to be places, giving a new start to the life of children of the parents of various disparities such as rural,  undeveloped,  farmer,  laborer,  urban,  slum  and  hut  dwelling,  estate, poor  dispersed  etc,  living  as  a  community  in  this  country.  These  centers should keep to over come the cultural and language deficiencies of children from  unfavorable  environments.  In  the  same  manner  these  centres  should setup  a  foundation  to  buildup  a  better  personality  by  providing  a  series  of more  pleas  and  tasteful  and  meaningful  experiences  to  the  children  not available in their disadvantaged environments. There should be also suitable programmes to enhance the nutrition and health of these  groups. Finally, the child  who  leave  the  centre  and  who  enters  formal  education  will  be systematically  adaptable  to  the  learning  process  on  the  instructions  of  the teacher for spending 3 to 4 hours in a school, spending the interval, behaving in  the  class  room  obedient,  disciplined,  socially  adaptable,    taking  meals together, and have appropriate health habits etc.
+These Institutions are varied and known to us as Pre Schools, Infant Schools, and Children's Parks, Montessori etc. In will be more meaningful to define them as "Early Childhood Development Centres". These institutions should not be places where something is taught to the child but as a centres with multiple activities for the overall development of personality including child's education. These institutions are ECCD centres which pre school programmes conducted by Matrons trained in child development of children between 3-5 years of age. "Pre Schools" conducted in the above Day Care Centers also fall into this category of ECCD Centers. Although it is possible to conduct both a Day Care Centre and an ECCD centre in the same premises they should be treated as two different programmes. A child of 3-5 years of age is naturally active, unsatisfied and inquisitive with questions of why? Who? Where? What? How? etc. The parents will not be in a position to create an environment or a "Children's World" within their homes to live
 
 [[END OF PAGE 44]]
 
@@ -1289,15 +1322,19 @@ These Institutions are varied and known to us as Pre Schools, Infant Schools, an
 
 36
 
+freely and to run, jump, play, question and shout. Therefore, as an alternative the ECCD centre should be a place away from the "adult's world" and meet needs of the child. They should develop pleasing language abilities, promote intellectual experiences and provide independence and personality development. The furniture, sports materiel, and books should be those suitable for children only. Association with pre groups, maintaining and friend ships, playing with friends is essential for a child social and mental development. The ECCD centres should be converted to be places, giving a new start to the life of children of the parents of various disparities such as rural, undeveloped, farmer, laborer, urban, slum and hut dwelling, estate, poor dispersed etc, living as a community in this country. These centers should keep to over come the cultural and language deficiencies of children from unfavorable environments. In the same manner these centres should setup a foundation to buildup a better personality by providing a series of more pleas and tasteful and meaningful experiences to the children not available in their disadvantaged environments. There should be also suitable programmes to enhance the nutrition and health of these groups. Finally, the child who leave the centre and who enters formal education will be systematically adaptable to the learning process on the instructions of the teacher for spending 3 to 4 hours in a school, spending the interval, behaving in the class room obedient, disciplined, socially adaptable, taking meals together, and have appropriate health habits etc.
+
 ## 2.9 Professional Development of the Employees Engaged in E.C.C.E.
 
-It  is  very  essential  that  the  employees  engaged  in  ECCE  activities  have  a  comprehensive training. Any person working closely, with children shall understand children. It is important to  provide  an  understanding  of  to  ECCE  to  every  are  body  as  the  child  will  be  spending more time in association with the family, and as a home based programme is implemented under ECCE and also as the mother, father adults in the family and bothers and sisters are closely contributing for his care. It is very essential to provide professional development to through a systematic training on ECCE for those who are defined as the official care takers of the child namely, matrons of these centres, pre school teachers, their assistants, as well as the  family  health  officers  and  child  care  officers,  employees  etc.  In  reviving  the  unique position  relating  to  ECCE  education  and  professional  training  the  open  university  of  Sri Lanka is in the forefront. It conducts a national level pre school teacher-training course and has a separate faculty for E.C.C.E.
+It is very essential that the employees engaged in ECCE activities have a comprehensive training. Any person working closely, with children shall understand children. It is important to provide an understanding of to ECCE to every are body as the child will be spending more time in association with the family, and as a home based programme is implemented under ECCE and also as the mother, father adults in the family and bothers and sisters are closely contributing for his care. It is very essential to provide professional development to through a systematic training on ECCE for those who are defined as the official care takers
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
 
 37
+
+of the child namely, matrons of these centres, pre school teachers, their assistants, as well as the family health officers and child care officers, employees etc. In reviving the unique position relating to ECCE education and professional training the open university of Sri Lanka is in the forefront. It conducts a national level pre school teacher-training course and has a separate faculty for E.C.C.E.
 
 Pre School Education and ECCE are implemented as two separate subjects in the Faculty of Education in the university of Colombo too. It appears that in the other universities certain courses or subjects have been combined to ECCE. An example is the course on "Importance of  Breast  feeding"  conducted  for  nurses  in  the  Ruhunu  University  can  be  cited.  However ECCE has not been yet been included in the national colleges of education, which is  the main institute  handling  teacher  in  education  in  the  government  sector.    The  entire  course conducted  by  the  national  institute  of  social  development  relating  to  this  subject  is  very important. The home economics course conducted by the Dehiwala poly technique is also significant. With regard to privet sector contribution, a important contribution is level media by the processional courses conducted by the Sri Lanka sarvodaya organization. Valuable service has been rendered by the courses conducted by Lanka Mahila Samiti, social service institutes,  Yoshida  infant  education  institute,  and  other  privet  institutions  under  various business names. It is heartening to note that in the absence of any government policy relating to ECCE  Education  or  professional development, various organization and private entrepreneurs  are  conducting  training  and  providing  teachers  and  matrons  with  some training,  of  such  training,  is  carried  out  in  an  improper  or  incorrect  manner,  cause  a mismatch in the process of ECCE. As such the above institution should be encouraged to case training and syllabus or standards. ECCE professional training should be developed as short term, long term, in service and as courses, certificates, diploms, Degree and up to post graduate  level.  These  courses  should  include,  pre-natal  stage,  child  development,  child psychology,  Nutrition,  Health,  needs  of  children,  child  care,  children's  sport's,  activities, aesthetic  and  creative  activities,  communication  and  language  development,  children's learning patterns, children's rights, community co-operation and development.
 
@@ -1321,11 +1358,11 @@ Question No - 1
 
 Provincial Level E.C.C.E. Policy
 
+Table - 1
+
 WP | SP | CP | UP | NCP | NEP | SAP | NWP
 --- | --- | --- | --- | --- | --- | --- | ---
-9 X | X | X | X | - | 9 | 9
-
-Table - 1
+X ✓ | X | X |  | X | - | ✓ | ✓
 
 [[END OF PAGE 47]]
 
@@ -1333,33 +1370,29 @@ Table - 1
 
 39
 
-Yes -
-
-9
-
-No - X
+Yes - ✓    No – X
 
 Students of Pre School in Sri Lanka
 
-Government | Private Sector | NGO's | Volunteer S.O | Grand
+Table - 2
+
+ | Government |  | Private Sector |  | NGO's |  | Volunteer S.O |  | Grand
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-No | % | No | % | No | % | No | % | Total
+ | No | % | No | % | No | % | No | % | Total
 Less than 50 Pupils | 3868 | 86% | 2557 | 73% | 845 | 70% | 407 | 63.29% | 7677
 50-100 | 437 | 9.7% | 789 | 23% | 345 | 28% | 232 | 36% | 1803
 Over 100 | 198 | 4.4% | 140 | 4% | 19 | 1.97% | 4 | 0.6% | 361
 Total | 4503 | 100% | 3486 | 100% | 1209 | 100% | 643 | 99.99% | 9841
 
-Table - 2
-
 Question No - 4
+
+Table - 3
 
 Pupils in Pre Schools | 2282231
 --- | ---
 Pre School Directors | 10360
 Pre School Assistants | 9964
 Trainee Teachers | 5543
-
-Table - 3
 
 The Government Sector is the most active sector in Early Childhood Care and Education, maintaining    4503  pre  schools  while  the  private  sector  maintains  3486  schools.  1209  pre schools function under non-government organizations while voluntary organizations maintain only 643.  The total number of pupils in these schools is 2282331. This does not present a true picture as the survey  in certain provinces were not completed at the time of collection of data. Responsible officers have been appointed so far at Divisional and Zonal levels. Consequently the amount spent on various programmes carried out is not available in certain province.
 
@@ -1373,17 +1406,22 @@ The Government Sector is the most active sector in Early Childhood Care and Educ
 
 Part of the eleven programmes have been carried out in various special programmes (Table 4)
 
-2001 | 2002
+Question No - 3 & 5
+
+ | 2001 | 2002
 --- | --- | ---
-1. Training programmes 1.1 Pre School teachers | 3700050.00 | 2185728.00 209300.00
-1.2 Mathematical
+1. Training programmes |  | 
+1.1 Pre School teachers | 3700050.00 | 2185728.00
+1.2 Mathematical |  | 209300.00
 1.3 Nutrition Concepts programme | 68000.00 | 38961.00
 1.4 Assistant Directors of Day Care Centers | 59000.00 | 416100.00
-1.5 Children parks 2. Awareness Programme for parents 3. Provision of pre school equipment | 1900000.00 | 1000000.00
-4. Provision of nutritious diet 5.Publication of Teacher guides for pre ...school teachers | 250000.00
-6. Aesthetics programmes | 50000.00
-
-Question No - 3 & 5
+1.5 Children parks |  | 
+2. Awareness Programme for parents | 1900000.00 | 1000000.00
+3. Provision of pre school equipment |  | 
+4. Provision of nutritious diet |  | 
+5.Publication of Teacher guides for pre ...school teachers |  | 250000.00
+6. Aesthetics programmes |  | 50000.00
+7. Other programmes |  | 
 
 [[END OF PAGE 49]]
 
@@ -1445,25 +1483,27 @@ The expenditure incurred through the children's secretariat of the Ministry of S
 
 42
 
-0%
+Functions Pre Schools in Sri Lanka
 
-5%
-
-10%
-
-15%
-
-20%
-
-25%
-
-30%
-
-35%
+45%
 
 40%
 
-45%
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
 
 Government
 
@@ -1471,13 +1511,9 @@ Private
 
 NGO's
 
-Volunteer
-
-S.O.
+Volunteer S.O.
 
 Organization
-
-Functions Pre Schools in Sri Lanka
 
 ## 2.13 Expenditure - Ministry of Social Welfare on E.C.C.E.
 
@@ -1485,13 +1521,12 @@ The estimate expenditure for each programme is as follows.
 
 No | Programme | Estimated Amount
 --- | --- | ---
-01 | Home Based Early childhood Development Programme 1,700,000.00
-02 | Early Childhood Development Centers
-800,000.00
+01 | Home Based Early childhood Development Programme | 1,700,000.00
+02 | Early Childhood Development Centers | 800,000.00
 03 | Day Care Centers | 1,000,000.00
 04 | Prevention of Child Abuse | 600,000.00
 05 | Universal Children's Day | 300,000.00
-Total | 4,400,000.00
+Total | | 4,400,000.00
 
 ### Home Based Early Childhood Development Programme
 
@@ -1505,17 +1540,17 @@ The period of early childhood extends from conception to about the age of 5 year
 
 #### Basic Training
 
-MHO Division | Participation | Date
---- | --- | --- | ---
-01 | Welimada 40,000.00 | 29 | 2002/02/13,14,15
-02 | Panudara 36,680.00 | 36 | 2002/02 /28 - 03 - 01
-03. | Warakapola 39,750.00 | 34 | 2002/03/13,14,15
-04. | Polgahawela 39,460.00 | 39 | 2002/03/13,14,15
-05 | Bowatta 35,600.00 | 26 | 2002/03/23,24,25
-06 | Madampe 45,330.00 | 42 | 2002/03/23,24,25
-07 | Marawila 51,210.00 | 41 | 2002/04/01,02,03
-08 | Negombo 40,450.00 | 37 | 2002/04/01,02,03
-09 | Bandaragama 40,175.00 | 37 | 2002/04/04,05,06
+ | MHO Division | Participation | Date | Amount
+--- | --- | --- | --- | ---
+01 | Welimada | 29 | 2002/02/13,14,15 | 40,000.00
+02 | Panudara | 36 | 2002/02 /28 - 03 - 01 | 36,680.00
+03. | Warakapola | 34 | 2002/03/13,14,15 | 39,750.00
+04. | Polgahawela | 39 | 2002/03/13,14,15 | 39,460.00
+05 | Bowatta | 26 | 2002/03/23,24,25 | 35,600.00
+06 | Madampe | 42 | 2002/03/23,24,25 | 45,330.00
+07 | Marawila | 41 | 2002/04/01,02,03 | 51,210.00
+08 | Negombo | 37 | 2002/04/01,02,03 | 40,450.00
+09 | Bandaragama | 37 | 2002/04/04,05,06 | 40,175.00
 
 [[END OF PAGE 52]]
 
@@ -1523,22 +1558,20 @@ MHO Division | Participation | Date
 
 44
 
-10 | Piliyandala 41,900.00 | 37 | 2002/05/31 - 06,01
---- | --- | --- | ---
-11 | Jaffna 54,000.00 | 32 | 2002/06/13,14,15
-12 | Wenappuwa 44,700.00 | 44 | 2002/07/18,19.20
-13 | Arachchikattuwa Mu. 53,900.00 | 37 | 2002/07/25,26,27
-14 | Trincomale - Sin.Medi. 74,700.00 | 42 | 2002/07/25,26,27
-15 | Trincomale - Tamil Medi. 91,825.00 | 24 | 2002/08/15,16,17
-16 | Hakmana 40,739.00 | 32 | 2002/08/23,24,25
-17 | Ja- Ela 62,350.00 | 22 | 2002/08/29,30,31
-18 | Uwa Paranagama 56,620.00 | 41 | 2002/08/29,30,31
-19 | Polpithigama 55,070.00 | 45 | 2002/10/13,14,15
-20 | Ibbagamuwa 53,230.00 | 38 | 2002/10/13,14,15
-21 | Kuliyapitiya 85,900.00 | 54 | 2002/10/18,19,20
-22 | Laggala 40,644.00 | 25 | 2002/11/14,15,16
-802
-1,124,233.00
+10 | Piliyandala | 37 | 2002/05/31 - 06,01 | 41,900.00
+11 | Jaffna | 32 | 2002/06/13,14,15 | 54,000.00
+12 | Wenappuwa | 44 | 2002/07/18,19.20 | 44,700.00
+13 | Arachchikattuwa Mu. | 37 | 2002/07/25,26,27 | 53,900.00
+14 | Trincomale - Sin.Medi. | 42 | 2002/07/25,26,27 | 74,700.00
+15 | Trincomale - Tamil Medi. | 24 | 2002/08/15,16,17 | 91,825.00
+16 | Hakmana | 32 | 2002/08/23,24,25 | 40,739.00
+17 | Ja- Ela | 22 | 2002/08/29,30,31 | 62,350.00
+18 | Uwa Paranagama | 41 | 2002/08/29,30,31 | 56,620.00
+19 | Polpithigama | 45 | 2002/10/13,14,15 | 55,070.00
+20 | Ibbagamuwa | 38 | 2002/10/13,14,15 | 53,230.00
+21 | Kuliyapitiya | 54 | 2002/10/18,19,20 | 85,900.00
+22 | Laggala | 25 | 2002/11/14,15,16 | 40,644.00
+ | | 802 | | 1,124,233.00
 
 #### Basic Training
 
@@ -1548,9 +1581,8 @@ MHO Division | Participation | Date
 
 45
 
-MHO | Division | Participation | Date
+ | MHO Division | Participation | Date | Amount
 --- | --- | --- | --- | ---
-Amount
 01 | Polgahawela | 35 | 2002/08/08,09 | 34,097.00
 02 | Warakapola | 34 | 2002/08/08,09 | 35,400.00
 03 | Ehaliyagoda | 35 | 2002/05/20,21 | 26,900.00
@@ -1568,7 +1600,7 @@ Amount
 15 | Gampaha | 41 | 2002/06/28,29 | 26,385.00
 16 | Piliyandala | 32 | 2002/10/21,22 | 39,150.00
 17 | Diyatalawa | 27 | 2002/11/08,09 | 31,842.00
-548 | 504,126.00
+ | | 548 | | 504,126.00
 
 ### Programme of Early Childhood Development Centres
 
@@ -1600,7 +1632,9 @@ The different aspects of total development can be outlined as follows.
 
 The aim of Pre School is not to teach reading, writing and number but to prepare the child for learning to read and write and provide experiences that would  promote  total development. The training programmes for pre  school teachers carried out by the Children's Secretariat give them necessary knowledge skills and attitudes to accomplish their tasks.
 
-DS Division | Participant | Date | Amount
+Pre School Teacher Training Programmes Conducted in 2002
+
+ | DS Division | Participant | Date | Amount
 --- | --- | --- | --- | ---
 01 | Kandakatiya | 40 | 2002/04/27 | 27,500.00
 02 | Passara | 35 | 2002/04/28 | 7,500.00
@@ -1612,13 +1646,11 @@ DS Division | Participant | Date | Amount
 08. | Meegahakiwula | 36 | 2002/06/23 | 16,400.00
 09. | Welgama | 80 | 2002/07/11,12,13 | 67,950.00
 10. | Wennappuwa | 42 | 2002/07/18,19,20 | 40,316.00
-11. | Hakmana | 39 | 2002/08/15,106,17 | 40,940.00
+11. | Hakmana | 39 | 2002/08/15,16,17 | 40,940.00
 12. | Wellawaya | 115 | 2002/09/09,10 | 61,250.00
 13. | Tanamalwila | 82 | 2002/09/09,10 | 57,350.00
 14. | Malimbada | 88 | 2002/09/14 | 15,920.00
 15. | Galnewa | 50 | 2002/10/01 | 10,400.00
-
-Pre School Teacher Training Programmes Conducted in 2002
 
 [[END OF PAGE 55]]
 
@@ -1627,10 +1659,9 @@ Pre School Teacher Training Programmes Conducted in 2002
 47
 
 16. | Kuliyapitiya | 30 | 2002/10/18,19 ,20 | 40,230.00
---- | --- | --- | --- | ---
 17. | Diyatalawa | 40 | 2002/11/08,09 | 31,860.00
 18. | Lagagla | 49 | 2002/11/14,15,16 | 46,770.00
-1053 | 649,186.00
+ | | 1053 | | 649,186.00
 
 ### Day Care Centres
 
@@ -1663,29 +1694,18 @@ Child abuse is a burning problem that Sri Lanka Faces. Even the failure to do wh
 
 The  children's secretariat conducts awareness  programmes  for  adults aiming  at the prevention of child abuse. In addition to parents, officers serving in the education, police, health  and  probation  and  childcare  sectors  have  been  the  target  groups  for  these  training programmes.
 
-04
-
-Place Participants
---- | --- | --- | ---
-Amount
-01 | Wenapuwa | 50 | 2002/07/09
-16,700.00
-02 | Ethiliwewa | 54 | 2002/09/10
-8,450.00
-03. | Mawanella | 50
-9,375.00
-Welimada | 50
-7,500.00
-05. | Galle | 250
-13,750.00
-06. | Ratnapura | 250
-13,750.00
-07. | Matara | 250
-08. | 13,750.00
-Hambantota | 250
-13,750.00
-09. | Colombo | 250
-1454 | 110,775.00
+ | Place | Participants | Date | Amount
+--- | --- | --- | --- | ---
+01 | Wenapuwa | 50 | 2002/07/09 | 16,700.00
+02 | Ethiliwewa | 54 | 2002/09/10 | 8,450.00
+03. | Mawanella | 50 | | 9,375.00
+04 | Welimada | 50 | | 7,500.00
+05. | Galle | 250 | | 13,750.00
+06. | Ratnapura | 250 | | 13,750.00
+07. | Matara | 250 | | 13,750.00
+08. | Hambantota | 250 | | 13,750.00
+09. | Colombo | 250 | | 13,750.00
+ | | 1454 | | 110,775.00
 
 ### Trainers  Training  Programme  for  the  Prevention  of  Child Abuse
 
@@ -1695,12 +1715,11 @@ Hambantota | 250
 
 49
 
-Place | Participants | Date | Amount
---- | --- | --- | ---
-01 | Bataramulla 14,101.00 | 22 | 2002/09/16
-02 | Galle | 30 | 2002/10/14
-52
-44,051.00
+ | Place | Participants | Date | Amount
+--- | --- | --- | --- | ---
+01 | Bataramulla | 22 | 2002/09/16 | 14,101.00
+02 | Galle | 30 | 2002/10/14 | 29,950.00
+ | | 52 | | 44,051.00
 
 ### Programmes for the Training of Child rights Promotion Officers.
 
@@ -1708,10 +1727,9 @@ The children's secretariat obtains the services of child rights promotion office
 
 Details are given below
 
-Place | Participants | Date | Amount
---- | --- | --- | ---
-01 | Battramulla | 33 | 2002/03/05
-21,023.00
+ | Place | Participants | Date | Amount
+--- | --- | --- | --- | ---
+01 | Battramulla | 33 | 2002/03/05 | 21,023.00
 
 ### Training Programme for Supervision and Monitoring of the Home based Early Childhood Development Programme
 
@@ -1731,9 +1749,11 @@ There has not been a systematic survey of pre schools in Sri Lanka for over thre
 
 This UNICEF sponsored survey is being carried out by
 
-Prof. Swarna Wijetunga Dean  of the faculty of education University of
+Prof. Swarna Wijetunga – Dean of the faculty of education University of
+Colombo
 
-Dr. V. Wickramarathna University of Sri Lanka.
+Dr. V. Wickramarathna – Head of the Department of the Education, Open
+University of Sri Lanka.
 
 Under Question 07 UNESCO relating to assistance for ECCE but no responses has been received has made inquiries from the provinces.
 
@@ -1743,11 +1763,10 @@ Table 5
 
 Participation in Pre School Programmes (2002)
 
-W | S | C | U | NC | NE | Sa | NW
+ | W | S | C | U | NC | NE | Sa | NW
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 No of Students | 40500 | 36848 | No response | 18732 | No response | 76900 | 32000 | 40000
-Pre School Teachers (Trained) | 998 | 685 | 300 | No | No | 1205 | 1550 | 1052
-response | response
+Pre School Teachers (Trained) | 998 | 685 | 300 | No response | No response | 1205 | 1550 | 1052
 
 ## 2.16 Obstacles Faced in Reaching the Targets.
 
@@ -1787,7 +1806,7 @@ Question No - 10
 
 Under  Question  No  10  a  summary  of  the  proposals    for  the  development  of  ECCE programmes is given below.
 
-- Maintaining cooperation and coordination between the various organizations in the  Ministry  of  Health,  Ministry  of  Social  and  Welfare,  Children's  Secretariat
+1. Maintaining cooperation and coordination between the various organizations in the  Ministry  of  Health,  Ministry  of  Social  and  Welfare,  Children's  Secretariat
 
 [[END OF PAGE 60]]
 
@@ -1797,27 +1816,27 @@ Under  Question  No  10  a  summary  of  the  proposals    for  the  development
 
 Provincial  Ministry,  Ministry  of  Education  and  other  Government  institution, Non  Government  Institution  such  as  UNISEF  and  the  institutions  providing training for metros in Early Childhood Care and Education Centers.
 
-- Increasing  the  facilities  in  the  Training  Institutions  for  conducting  continuous short term  training courses  and  systematic  training for  matrons  in  Early Childhood Care and Education.
+2. Increasing  the  facilities  in  the  Training  Institutions  for  conducting  continuous short term  training courses  and  systematic  training for  matrons  in  Early Childhood Care and Education.
 
-- Registration of all Early Childhood Care and Education Centres in the relevant Provincial Ministry.
+3. Registration of all Early Childhood Care and Education Centres in the relevant Provincial Ministry.
 
-- Maintain continuous coordination between the institutions providing training for matrons of Early Childhood Development Centres and the relevant Government institutions  and  thereby  uplift  the  standard  of  Early  Childhood  Development Centres.
+4. Maintain continuous coordination between the institutions providing training for matrons of Early Childhood Development Centres and the relevant Government institutions  and  thereby  uplift  the  standard  of  Early  Childhood  Development Centres.
 
-- Convert the Early Childhood Care and Education Centres to be places providing more flexible and creative experiences for children.
+5. Convert the Early Childhood Care and Education Centres to be places providing more flexible and creative experiences for children.
 
-- Appoint  a  defined  group  of  officers  for  Early  Childhood  Care  and  Education Centres to provide training.
+6. Appoint  a  defined  group  of  officers  for  Early  Childhood  Care  and  Education Centres to provide training.
 
-- Prepare  a  programme  for  monitoring  Early  Childhood  Care  and  Education Centers.
+7. Prepare  a  programme  for  monitoring  Early  Childhood  Care  and  Education Centers.
 
-- Take steps to minimize the disparities existing in Early Childhood Care Centres and Day Care Centres functioning in various spheres.
+8. Take steps to minimize the disparities existing in Early Childhood Care Centres and Day Care Centres functioning in various spheres.
 
-- Provide  benefits  obtainable  from  Early  Childhood  Care  and  Education  by providing awareness to parents.
+9. Provide  benefits  obtainable  from  Early  Childhood  Care  and  Education  by providing awareness to parents.
 
-- Deploy  suitable  resource  persons  to  awareness  and  provide  benefits  expended from Home Based Programmes.
+10. Deploy  suitable  resource  persons  to  awareness  and  provide  benefits  expended from Home Based Programmes.
 
-- Coordination the activities between government and Non Government Organizations  where  possible  and  thereby  take  action  reach  the  indicators  of "Education for All"  by achieving the objectives of the National Policy on "Early Childhood Care"
+11. Coordination the activities between government and Non Government Organizations  where  possible  and  thereby  take  action  reach  the  indicators  of "Education for All"  by achieving the objectives of the National Policy on "Early Childhood Care"
 
-- Supply activity sets for Early Childhood Care and Education Centres.
+12. Supply activity sets for Early Childhood Care and Education Centres.
 
 ## 2.18 Conclusion
 
@@ -1829,21 +1848,21 @@ Provincial  Ministry,  Ministry  of  Education  and  other  Government  institut
 
 It  is  clearly  evident from the facts indicated in above that a major part of work relating to ECCE Sri Lanka with the mediation of Government and Non Governmental Organizations. Therefor maintaining coordinating with all the relevant sectors relating to ECCE is of vital importance. Especially amasser assistance is  provided  for  the  education  of  children  in  the families  in  less  privileged  areas  by  instruction  like  the  UNICEF  through  the  Ministry  of Health  and  Social  Service.    Accordingly  especial  attention  should  be  drawn  in  to  the following factors for the improvement of Early Childhood Care and Education in Sri Lanka.
 
-- Implement  a  suitable  programme  for  the  development  of  the  child  as  the foundation of the child's life is laid through the Early Childhood Care and Education Centres.
+1. Implement  a  suitable  programme  for  the  development  of  the  child  as  the foundation of the child's life is laid through the Early Childhood Care and Education Centres.
 
-- Identify  children  with  special  Education  needs  to  having  social,  mental  or physical disabilities  and  prepare  programmes to suit such children in Early Childhood Care and Education Centre
+2. Identify  children  with  special  Education  needs  to  having  social,  mental  or physical disabilities  and  prepare  programmes to suit such children in Early Childhood Care and Education Centre
 
-- Intervention  of  the  Early  Childhood  Care  and  Education  Center  for  the purpose of providing awareness to parents of such children, and to provide instruction and guidance continuously to set a sustainable are to disadvantage of children.
+3. Intervention  of  the  Early  Childhood  Care  and  Education  Center  for  the purpose of providing awareness to parents of such children, and to provide instruction and guidance continuously to set a sustainable are to disadvantage of children.
 
-- Take action to enhance the quality in these centers by maintaining continuous  relationships  with  the  officers  of  the  Health  Medical  Officers, Zonal Education Office and Divisional Secretary office from where they can receive instructions constantly.
+4. Take action to enhance the quality in these centers by maintaining continuous  relationships  with  the  officers  of  the  Health  Medical  Officers, Zonal Education Office and Divisional Secretary office from where they can receive instructions constantly.
 
 There are several main factors for which our special attention should be drawn in the implementation of such pilot plan.
 
-- The plan prepared by the "Education for All" Branch for Early Childhood Care and Education to be revised and to be at a National Level.
+1. The plan prepared by the "Education for All" Branch for Early Childhood Care and Education to be revised and to be at a National Level.
 
-- The  relevant  institutions  to  launch  a  short-term  pilot  programme  jointly along  with  the  monitoring  of  activities  in  Early  Childhood  Care  and Education centres with are functioning at present.
+2. The  relevant  institutions  to  launch  a  short-term  pilot  programme  jointly along  with  the  monitoring  of  activities  in  Early  Childhood  Care  and Education centres with are functioning at present.
 
-- Preparation of a plan for attending to pilot activities with long term targets in order  to  achieve  the  functioning position and  objectives in the  Early Childhood Care Centres according to the plans.
+3. Preparation of a plan for attending to pilot activities with long term targets in order  to  achieve  the  functioning position and  objectives in the  Early Childhood Care Centres according to the plans.
 
 [[END OF PAGE 62]]
 
@@ -1851,21 +1870,22 @@ There are several main factors for which our special attention should be drawn i
 
 54
 
-- Provide awareness to the relevant officers and a short term training  relating to monitoring work for the relevant persons under Zonal Level.
+4. Provide awareness to the relevant officers and a short term training  relating to monitoring work for the relevant persons under Zonal Level.
+
+5. Collection of the relevant information through monitoring
 
 (An information leaflet prepared by the Ministry of Education at present is
+sent herewith)
 
-- Collection of the relevant information through monitoring sent herewith)
+6. Review of the progress achieved through monitoring
 
-- Review of the progress achieved through monitoring
+7. Remedial measures for the identified short- comings
 
-- Remedial measures for the identified short- comings
+8. Preparation  of  sets  of  equipment  suitable  for  use  in  Early  Childhood  Care and Education Centres
 
-- Preparation  of  sets  of  equipment  suitable  for  use  in  Early  Childhood  Care and Education Centres
+9. Preparation of estimates for provisions of resources to be used for monitoring and to obtain them
 
-- Preparation of estimates for provisions of resources to be used for monitoring and to obtain them
-
-- Training of matrons in Early Childhood Care and Education Centers  and to take necessary action for the quality improvement of the centers by providing understanding  relating  to  self  assessment  and  external  assessment  in  the centers through training centers and training courses.
+10. Training of matrons in Early Childhood Care and Education Centers  and to take necessary action for the quality improvement of the centers by providing understanding  relating  to  self  assessment  and  external  assessment  in  the centers through training centers and training courses.
 
 [[END OF PAGE 63]]
 
@@ -1913,9 +1933,11 @@ Although  universal  education  was  "The  practice"  in  the  country,  the  ou
 
 The change in the number of schools with primary classes, within the years 2001 and 2002 is very  marginal  Table  3  shows  the  variation  of  school  numbers  on  a  provincial  basis.  Total national decrease is about 0.31%
 
-Province | Schools with Primary Classes | Percentage Change %
+Table 3
+
+Province | Schools with Primary Classes | | Percentage Change %
+ | 2001 | 2002 |
 --- | --- | --- | ---
-2001 | 2002
 Western | 1335 | 1333 | -0.15%
 Central | 1496 | 1492 | -0.13%
 Southern | 1145 | 1168 | 0.61%
@@ -1925,8 +1947,6 @@ North Central | 762 | 759 | -0.39%
 Uva | 824 | 824 | 0.00%
 Sabaragamuwa | 1074 | 1072 | -0.19%
 Total | 9629 | 9599 | -0.31%
-
-Table 3
 
 Source - Provincial Returns
 
@@ -1942,9 +1962,11 @@ Source - Provincial Returns
 
 A  nation  wide  decrease  in  (1-5)  pupil  population  is  observable  from  table  4  below  (Except Western Province) Average Annual drop in (1-5) pupil population is about 1.4%.
 
-Province | Schools with Primary Classes | Change %
+Table 4
+
+Province | Schools with Primary Classes | | Change %
+ | 2001 | 2002 |
 --- | --- | --- | ---
-2001 | 2002
 Western | 326312 | 331388 | +1.56%
 Central | 227060 | 226159 | +0.40%
 Southern | 228255 | 226709 | -0.68%
@@ -1955,8 +1977,6 @@ Uva | 131871 | 131871 | 0.00%
 Sabaragamuwa | 170225 | 168112 | -1.24%
 Total | 1723603 | 1720736 | 0.17%
 
-Table 4
-
 Source - Provincial Returns
 
 (Total 1998 = 1799387) Average Annual Decrease 1.4% (1998 - 2001)
@@ -1965,12 +1985,12 @@ Source - Provincial Returns
 
 The  primary  teacher  population    in  general  show  an  increase.  The    percentage  of  increase  is about  -0.18  %  except  in  the  Western  Province,  which  shows  a  decrease.  Other  provinces experience increases. Table 5 presents the provincial distribution.
 
-Province | No of Primary Teachers | Change %
---- | --- | --- | ---
-2001 | 2002
-Western | 19829 | 19753 | -0.38%
-
 Table 5
+
+Province | No of Primary Teachers | | Change %
+ | 2001 | 2002 |
+--- | --- | --- | ---
+Western | 19829 | 19753 | -0.38%
 
 [[END OF PAGE 66]]
 
@@ -2018,26 +2038,28 @@ The  result  of  the  school  rationalization  exercise  could  be  observed  fa
 
  Locality of school
 
-Year | 1-5 | % | 1-8 | % | 1-11 | % | 1-13 | % | Total
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Control | National | 1998 | 0.00 | 1 | 0.55 | 1 | 0.55 | 179 | 98.90 | 181
-Schools | 2001 | 0.00 | 0.00 | 3 | 1.38 | 215 | 98.62 | 218
-Provincial | 1998 | 2805 | 29.41 | 1123 | 11.78 | 3808 | 39.93 | 1800 | 18.88 | 9536
-Schools | 2001 | 2644 | 28.16 | 797 | 8.49 | 4135 | 44.05 | 1812 | 19.30 | 9388
-Total | 1998 | 2805 | 28.87 | 1124 | 11.57 | 3809 | 39.20 | 1979 | 20.37 | 9717
-2001 | 2644 | 27.52 | 797 | 8.30 | 4138 | 43.08 | 2027 | 21.10 | 9606
+Table 6
 
-Table 6 Charges in the Control of School System (1998 - 2001)
+Charges in the Control of School System (1998 - 2001)
+
+ | | Year | 1-5 | % | 1-8 | % | 1-11 | % | 1-13 | % | Total
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Control | National Schools | 1998 | | 0.00 | 1 | 0.55 | 1 | 0.55 | 179 | 98.90 | 181
+ | | 2001 | | 0.00 | | 0.00 | 3 | 1.38 | 215 | 98.62 | 218
+ | Provincial Schools | 1998 | 2805 | 29.41 | 1123 | 11.78 | 3808 | 39.93 | 1800 | 18.88 | 9536
+ | | 2001 | 2644 | 28.16 | 797 | 8.49 | 4135 | 44.05 | 1812 | 19.30 | 9388
+ | Total | 1998 | 2805 | 28.87 | 1124 | 11.57 | 3809 | 39.20 | 1979 | 20.37 | 9717
+ | | 2001 | 2644 | 27.52 | 797 | 8.30 | 4138 | 43.08 | 2027 | 21.10 | 9606
 
 Source: Schools Census - 2001 MOE
 
 Table 6 shows the nature of change in the Control of schools at National or Provincial Level within the period 1998 and 2001. According to this table, by 2001
 
-- Total number of schools has decreased by about 111 (Utilizing teachers and other resources better)
+1. Total number of schools has decreased by about 111 (Utilizing teachers and other resources better)
 
-- The  total  number  of  National  Schools  has  increased  by  37.  (Making  schools newly absorbed to National Level control better facilitated)
+2. The  total  number  of  National  Schools  has  increased  by  37.  (Making  schools newly absorbed to National Level control better facilitated)
 
-- The number of small schools (1-5) and (1-8) has decreased while the number of 111 schools has increased by 329 making the entire general (secondary) education more accessible to poor and disadvantaged masses. (Preventing dropping out at the end of grade 5 of the small school.)
+3. The number of small schools (1-5) and (1-8) has decreased while the number of 1-11 schools has increased by 329 making the entire general (secondary) education more accessible to poor and disadvantaged masses. (Preventing dropping out at the end of grade 5 of the small school.)
 
 Table 7
 
@@ -2066,31 +2088,32 @@ Source : School Census 2001 - MOE
 
 Table 7 shows the nature of change that occurred in media of instruction in schools. Within 1998 to 2001, following observations could be made in this table.
 
-- The number of 1-11 schools in both Sinhala and Tamil media has significantly increased (Sinhala by 194 and Tamil by 71) making secondary education more accessible to masses.
+1. The number of 1-11 schools in both Sinhala and Tamil media has significantly increased (Sinhala by 194 and Tamil by 71) making secondary education more accessible to masses.
 
-- The  number  of  1-13  Tamil  medium  schools  has  increased  by  51  (providing broader opportunities for minority populations)
+2. The  number  of  1-13  Tamil  medium  schools  has  increased  by  51  (providing broader opportunities for minority populations)
 
-- The  number  of  1-11  bi-media  schools  has  increased  by  4  (22%)  (Targeting  at better communal coexistence)
+3. The  number  of  1-11  bi-media  schools  has  increased  by  4  (22%)  (Targeting  at better communal coexistence)
 
 Table 8
 
 Changes in Number of Schools in Relation to Ethnicity  (1998 -2001)
 
-Year | 1-5 | % | 1-8 | % | 1-11 | % | 1-13 | % | Total
+ | | Year | 1-5 | % | 1-8 | % | 1-11 | % | 1-13 | % | Total
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Ethnicity | Sinhala | 1998 2001 | 1668 1587 | 24.09 23.36 | 671 439 | 9.69 6.46 | 3061 3244 | 44.21 47.75 | 1524 1524 | 22.01 22.43 | 6924 6794
-Tamil | 1998 2001 | 973 898 | 47.00 43.38 | 339 294 | 16.38 14.20 | 502 | 24.25 | 256 284 | 12.37 13.72 | 2070 2070
-1998 | 164 | 22.37 | 114 | 15.55 | 594 256 | 28.70 | 199 | 27.15 | 733
-Muslim | 34.92
-Total | 2001 | 159 | 21.43 | 64 | 8.63 | 300 | 40.43 | 219 | 29.51 | 742
-1998 | 2805 | 28.84 27.52 | 1124 797 | 11.56 | 3819 | 39.26 | 1979 | 20.35 | 9727
-2001 | 2644 | 8.30 | 4138 | 43.08 | 2027 | 21.10 | 9606
+Ethnicity | Sinhala | 1998 | 1668 | 24.09 | 671 | 9.69 | 3061 | 44.21 | 1524 | 22.01 | 6924
+ | | 2001 | 1587 | 23.36 | 439 | 6.46 | 3244 | 47.75 | 1524 | 22.43 | 6794
+ | Tamil | 1998 | 973 | 47.00 | 339 | 16.38 | 502 | 24.25 | 256 | 12.37 | 2070
+ | | 2001 | 898 | 43.38 | 294 | 14.20 | 594 | 28.70 | 284 | 13.72 | 2070
+ | Muslim | 1998 | 164 | 22.37 | 114 | 15.55 | 256 | 34.92 | 199 | 27.15 | 733
+ | | 2001 | 159 | 21.43 | 64 | 8.63 | 300 | 40.43 | 219 | 29.51 | 742
+ | Total | 1998 | 2805 | 28.84 | 1124 | 11.56 | 3819 | 39.26 | 1979 | 20.35 | 9727
+ | | 2001 | 2644 | 27.52 | 797 | 8.30 | 4138 | 43.08 | 2027 | 21.10 | 9606
 
 Source : School Census 2001 - MOE
 
 Table 8 reveals the changes in the school system within, the period 1998 - 2001 in relation to the ethnicity of pupils (Sinhala, Tamil & Muslim). This table indicates that
 
-- The number of small schools (1 - 5 &1 - 8) has decreased and the number of schools  with  a  broader  grade  span  (1  -  11  and  1  -  13)  has  increased.  (Making accessibility  to  secondary  education  better  for  children  of  all  ethnic  groups  Sinhala, Tamil and Muslim)
+1. The number of small schools (1 – 5 &1 – 8) has decreased and the number of schools  with  a  broader  grade  span  (1  –  11  and  1  –  13)  has  increased.  (Making accessibility  to  secondary  education  better  for  children  of  all  ethnic  groups  – Sinhala, Tamil and Muslim)
 
 [[END OF PAGE 69]]
 
@@ -2117,7 +2140,7 @@ Source : School Census 2001 - MOE
 
 Table  9  is  a  gender    based  analysis  of  the  country's  school  system  between  1998  and  2001. Following are the major observations that could be made;
 
-- The number of (1-5) and (1-8) smaller schools has decreased significantly while the number of (1-11) and (1-13) large schools has increased.
+1. The number of (1-5) and (1-8) smaller schools has decreased significantly while the number of (1-11) and (1-13) large schools has increased.
 
 (Again making secondary education prospects better in schools whether they be boys, girls or mixed without gender based disparities)
 
@@ -2148,9 +2171,9 @@ Source : School Census 2001 - MOE
 
 Table 10 shows the distribution of schools with varying grade spans against their respective local government authorities during the period 1998 and 2001. This table shows that.
 
-- The number of schools of all grade spans in Urban Council areas have increased. And the decrease in corresponding numbers in Pradeshiya Saba areas is almost reciprocal especially with regard to small schools. (Indicating increased contribution of facilities from local community to previously rural schools)
+1. The number of schools of all grade spans in Urban Council areas have increased. And the decrease in corresponding numbers in Pradeshiya Saba areas is almost reciprocal especially with regard to small schools. (Indicating increased contribution of facilities from local community to previously rural schools)
 
-- The number of  1-11  and  1-13  schools  in  Pradeshiya  Saba  areas  has  increased. (Providing broader access to secondary education to rural populations)
+2. The number of  1-11  and  1-13  schools  in  Pradeshiya  Saba  areas  has  increased. (Providing broader access to secondary education to rural populations)
 
 The conclusion arrived at above are evidence of efforts made through school rationalization to bring about equity in primary education opportunities. The  ultimate targets of school rationalization, EQUAL and JUST Education for All and optimizing the utilization of related resources.
 
@@ -2160,19 +2183,19 @@ It is very important here to note that the school rationalization exercise has p
 
 Basic strategies identified under Primary the Education Reforms were
 
-- The extension of education opportunities
+1. The extension of education opportunities
 
-- Quality Improvement of Primary Education
+2. Quality Improvement of Primary Education
 
-- Professionalization of Teachers and
+3. Professionalization of Teachers and
 
-- Management of Education and Provision of Resources.
+4. Management of Education and Provision of Resources.
 
 These strategies exhibited a high degree of congruence with the goals of Dakar Framework for Action under EFA.
 
 ### 3.4.1  The launch of Reforms in Primary Education
 
-The  pilot  phase  of  implementation  from  Grade  I  commenced  in  1998  in  Gampaha    District followed by the National Level implementation in 1999 and successively in every following year in the next grade level. Thus at National Level, the implementation timetable adopted is shown below.       1999      Grade 1
+The  pilot  phase  of  implementation  from  Grade  I  commenced  in  1998  in  Gampaha    District followed by the National Level implementation in 1999 and successively in every following year
 
 [[END OF PAGE 71]]
 
@@ -2180,7 +2203,11 @@ The  pilot  phase  of  implementation  from  Grade  I  commenced  in  1998  in  
 
 63
 
-2000 -Grade 2
+in the next grade level. Thus at National Level, the implementation timetable adopted is shown below.
+
+1999 - Grade 1
+
+2000 - Grade 2
 
 2001 -Grade 3
 
@@ -2231,12 +2258,12 @@ Source : 1. The Darker Frame work for Action - UNESCO 2000,
 
 #### Goals & Targets of Sri Lanka Five-Year Plan for Primary Education
 
+Figure : 2
+
 Goal | Targets
 --- | ---
 Goal 1 Extending Educational Opportunity | 1.1 Increase the Net initial intake rate (NIIR) from 96.7% in 1998 to 100% by 2004
 To ensure the initial enrolment of all boys and girls at the official primary education entry age | 1.2 Ensure the maximum distance to the closest available school from the
-
-Figure : 2
 
 [[END OF PAGE 73]]
 
@@ -2244,35 +2271,18 @@ Figure : 2
 
 65
 
-of  5+  by  2004, to lay the base for their completion of the Primary Stage of Education.
+of  5+  by  2004, to lay the base for their completion of the Primary Stage of Education. | residence  of  a  Grade  1  child  is  2  km  by 2004
+ | 1.3 Increase  5-9  years  old  NER  from 96.5% in 1998 to 100 by 2004.
+ | 1.4 Increase  the  completion  rate  for primary education from 94.4% in 1997 to 98% by 2004.
 
-Goal 2 Improving the Quality of Primary Education
+Goal 2 Improving the Quality of Primary Education | 2.1 Pupils mastering essential leaning competencies  in  all  identified  areas  will reach at least 80% in key stages 1,2 and 3 of primary education by 2004.
+To  increase  the  level  of  learning  achievement of  all  pupils  in  the  3  key  stages  of  primary education. | 2.2 The percentage of teachers qualified  in  primary  education  methods and  teaching  in  grades  1-5  will  increase from 68% in 1998 to 100% by 2004.
+ | 2.3 Each in-service advisor should make  100  school  visits  in  100  days  per annum by 2001.
 
-To  increase  the  level  of  learning  achievement of  all  pupils  in  the  3  key  stages  of  primary education.
-
-Goal 3 Improving  the  Quality  of  Management  of Primary Education
-
-To improve primary education management at school, divisional, zonal, provincial and national level by 2004
-
-- residence  of  a  Grade  1  child  is  2  km  by 2004
-
-- 1.3 Increase  5-9  years  old  NER  from 96.5% in 1998 to 100 by 2004.
-
-- 1.4 Increase  the  completion  rate  for primary education from 94.4% in 1997 to 98% by 2004.
-
-- 2.1 Pupils mastering essential leaning competencies  in  all  identified  areas  will reach at least 80% in key stages 1,2 and 3 of primary education by 2004.
-
-- 2.2 The percentage of teachers qualified  in  primary  education  methods and  teaching  in  grades  1-5  will  increase from 68% in 1998 to 100% by 2004.
-
-- 2.3 Each in-service advisor should make  100  school  visits  in  100  days  per annum by 2001.
-
-- 1.1 All  new  appointments  to  principal  and primary section head positions in schools having  1-5  to  be  trained  in  Primary  by 2004.
-
-- 1.2 Principals and primary section needs with training in primary education management to be increased to 100% by 2004.
-
-- 1.3 Appoint primary trained I.S.A.s competent  in  the  relevant  medium  of instruction  to  achieve  an  ISA  Primary ratio of 1:70 for both media and 1:50 for areas of low population density by 2001.
-
-- 1.4 The  maximum  number  of  schools  with grades 1-5 to be supported by a Primary Education specialist Officer (PESO) to be 60 by 2001
+Goal 3 Improving  the  Quality  of  Management  of Primary Education | 1.1 All  new  appointments  to  principal  and primary section head positions in schools having  1-5  to  be  trained  in  Primary  by 2004.
+To improve primary education management at school, divisional, zonal, provincial and national level by 2004 | 1.2 Principals and primary section needs with training in primary education management to be increased to 100% by 2004.
+ | 1.3 Appoint primary trained I.S.A.s competent  in  the  relevant  medium  of instruction  to  achieve  an  ISA  Primary ratio of 1:70 for both media and 1:50 for areas of low population density by 2001.
+ | 1.4 The  maximum  number  of  schools  with grades 1-5 to be supported by a Primary Education specialist Officer (PESO) to be 60 by 2001
 
 [[END OF PAGE 74]]
 
@@ -2280,9 +2290,14 @@ To improve primary education management at school, divisional, zonal, provincial
 
 66
 
-1.5 All divisional field unit officers, primary education officers, zonal and provincial primary education officers to be trained in primary education management by 2004. 1.6 Establish an organizational structure for primary education with clear job description, responsibilities and lines of authority by 2002. 1.7 Establish a primary education planning and EMIS system from national to school level by 2002.
---- | ---
-Goal 4 Ensuring Equitable Allocations of Human and Financial Resources To promote the equitable allocation of human and financial resources to primary education by 2003. | 1.1 Improve TPR in the Sinhala medium from 1:28 in 1998 to 1:27 in 2001 improve the TPR in the Tamil medium from 1:41 in 1998 to 1:27 in 2003. 1.2 Formulate and implement a norm based, unite cost resource allocation mechanism for the supply of quality inputs by 2001. 1.3 In addition to the normal allocation, 10% of the allocation of funds for consumables to be set aside for disadvantaged schools by 2001. 1.4 Separate budget programmes for primary stage at the National Provincial, Zonal and School levels by 2001
+ | 1.5 All divisional field unit officers, primary education officers, zonal and provincial primary education officers to be trained in primary education management by 2004.
+ | 1.6 Establish an organizational structure for primary education with clear job description, responsibilities and lines of authority by 2002.
+ | 1.7 Establish a primary education planning and EMIS system from national to school level by 2002.
+
+Goal 4 Ensuring Equitable Allocations of Human and Financial Resources | 1.1 Improve TPR in the Sinhala medium from 1:28 in 1998 to 1:27 in 2001 improve the TPR in the Tamil medium from 1:41 in 1998 to 1:27 in 2003.
+To promote the equitable allocation of human and financial resources to primary education by 2003. | 1.2 Formulate and implement a norm based, unite cost resource allocation mechanism for the supply of quality inputs by 2001.
+ | 1.3 In addition to the normal allocation, 10% of the allocation of funds for consumables to be set aside for disadvantaged schools by 2001.
+ | 1.4 Separate budget programmes for primary stage at the National Provincial, Zonal and School levels by 2001
 
 Source FYPPE 2000-2004
 
@@ -2338,21 +2353,21 @@ KEY STAGE 3
 
 GRADE 5
 
-
+☆
 
 FIRST
 
 LANGUAGE
 
-
+☆
 
 English
 
-
+☆
 
 MATHEMATICS
 
-
+☆
 
 RELIGION
 
@@ -2370,11 +2385,7 @@ TO
 
 LEARNER
 
-ENVIRONME
-
-NT
-
-RELATED
+ENVIRONMENT RELATED
 
 ACTIVITY  BASED  ORAL
 
@@ -2384,31 +2395,27 @@ KEY STAGE 2
 
 GRADE
 
-
+☆
 
 FIRST
 
 LANGUAGE
 
-
+☆
 
 English
 
-
+☆
 
 MATHEMATICS
 
-
+☆
 
 RELIGION
 
 CO-CURRICULUM
 
-ENVIRONME
-
-NT
-
-RELATED
+ENVIRONMENT RELATED
 
 ACTIVITY  BASED  ORAL
 
@@ -2422,27 +2429,23 @@ KEY STAGE 1
 
 GRADE
 
-
+☆
 
 FIRST
 
 LANGUAGE
 
-
+☆
 
 MATHEMATICS
 
-
+☆
 
 RELIGION
 
 CO-CURRICULUM
 
-ENVIRONME
-
-NT
-
-RELATED
+ENVIRONMENT RELATED
 
 ACTIVITY  BASED  ORAL
 
@@ -2490,37 +2493,37 @@ INSTRUCTION
 
 Through guided play items and activities Grade 1 teachers are made to identify newly admitted children to grade I. The teacher will identify the nature of assistance and skills needed by individual children. Teachers also collect relevant personal information of the children.
 
-### Competency - based curriculum
+### Competency – based curriculum
 
 The new curriculum is designed focusing on 5 major competency categories namely.
 
-- Communication
+1. Communication
 
-- The Environment
+2. The Environment
 
-- Ethics and Religion
+3. Ethics and Religion
 
-- Play and Leisure
+4. Play and Leisure
 
-- Learn to Learn
+5. Learn to Learn
 
 ### Oral English
 
-This  is  to  provide  opportunities  to  all  children  to  use  simple  English  for  conversation. Basic training and teacher's guides are provided. Usually oral English is emphasized in environment related activities.
+This is to provide opportunities to all children to use simple English for conversation. Basic training and teacher's guides are provided. Usually oral English is emphasized in environment related activities.
 
 ### Co curricular activities
 
-The  principal  and  class  teachers  are  expected  to  identify  and  implement  suitable  co curricular activities for 30 minute a week. These are aimed at nurturing good attitudes, physical growth and enhancing aesthetic capacities.
+The principal and class teachers are expected to identify and implement suitable co curricular activities for 30 minute a week. These are aimed at nurturing good attitudes, physical growth and enhancing aesthetic capacities.
 
-### Learning - Teaching activities
+### Learning – Teaching activities
 
 Three major processes are recommended
 
-- Guided Play
+2. Guided Play
 
-- Actives Activities
+3. Actives Activities
 
-- Desk Work
+4. Desk Work
 
 The mix of these three categories varies across the three stages as depicted below.
 
@@ -2558,21 +2561,21 @@ The children are allowed to work 1 period per week with grade 6 children. The ob
 
 Grade  1  classrooms  were  improved  initially  and  the  process  was  repeated  every successive level. Major concerns in the renovations are
 
-- 10 sq. ft per child
+1. 10 sq. ft per child
 
-- Partitioned classroom
+2. Partitioned classroom
 
-- Enclosing outer walls with iron grills and fixing doors and locks.
+3. Enclosing outer walls with iron grills and fixing doors and locks.
 
-- Wall blackboards to suit he height of children and facility for displaying creative activities.
+4. Wall blackboards to suit he height of children and facility for displaying creative activities.
 
-- Providing
+5. Providing
 
 Book corners (Small libraries)
 
 Sand Corner
 
-Work Table Sink and Tap Water & Electricity where available (5 amp plug base)
+Work Table
 
 [[END OF PAGE 78]]
 
@@ -2580,9 +2583,13 @@ Work Table Sink and Tap Water & Electricity where available (5 amp plug base)
 
 70
 
-- Children's Park area, Toilets, Drinking Water, First aid box
+Sink and Tap
 
-- Teacher guides pupils' text books and work books
+Water & Electricity where available (5 amp plug base)
+
+6. Children's Park area, Toilets, Drinking Water, First aid box
+
+7. Teacher guides pupils' text books and work books
 
 ### Guidelines
 
@@ -2594,25 +2601,25 @@ Dawn  of  the  new  millennium  for  Sri  Lanka  ushered  in  a  great  momentum
 
 The magnitudes of the tasks at hand were massive.
 
- Preparing a new curriculum
+• Preparing a new curriculum
 
- Publishing and distributing Teachers' Guides
+• Publishing and distributing Teachers' Guides
 
- Training of Teachers Trainers
+• Training of Teachers Trainers
 
- Training of Primary Teachers
+• Training of Primary Teachers
 
-- In the new curriculum
+i. In the new curriculum
 
-- In Primary Mathematics
+ii. In Primary Mathematics
 
-- In Primary English
+iii. In Primary English
 
-- In Essential Learning Competencies.
+iv. In Essential Learning Competencies.
 
- Training principals and sectional heads in planning
+• Training principals and sectional heads in planning
 
- Publishing and distributing students text books and work books
+• Publishing and distributing students text books and work books
 
 All  in  large  numbers  and  in  time  to  suit  smooth  change  over.  This  needed  nation  wide coordination and cooperation. Above all  the necessary funding.
 
@@ -2634,19 +2641,21 @@ The tables 10 presents the magnitude of financial contribution made by G.E.P. II
 
 72
 
-Teacher Training | Infrastructure | Special Projects
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Province | Grades 1,2&3 Training in new Curriculum | Grades 4&5 Training in new Curriculum | Primary Maths Training | Primary English Training | Essential Learning Competencies Training | Training of Inservice Advisors(Pri,Maths,Eng | Training in Aesthetic/Technical Skills | Quality Circles for Teachers | Training in Preparing Primary Teaching aids G.T.Z. Teacher Training | Renovation of Primary Classrooms | Establishing Children's Play Areas in schools | Primary Education Exhibitions | School Family Programmes | Principals and Sectional Heads Training | Inter Schools Study Tours for Teachers | Publication of Primary Education Journal
-Western Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-Central Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-Southern Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-Northern/Eastern Pro | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-North Western Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-North Central Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-Uva Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
-Sabaragamuwa Province | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9
+Table 20
 
-Table 20 Recent Programmes/Projects Conducted under Primary Education Reforms Proposals in the Provinces
+Recent Programmes/Projects Conducted under Primary Education Reforms Proposals in the Provinces
+
+Teacher Training | Infrastructure | Special Projects
+Province | Grades 1,2&3 Training in new Curriculum | Grades 4&5 Training in new Curriculum | Primary Maths Training | Primary English Training | Essential Learning Competencies Training | Training of Inservice Advisors(Pri,Maths,Eng | Training in Aesthetic/Technical Skills | Quality Circles for Teachers | Training in Preparing Primary Teaching aids | G.T.Z. Teacher Training | Renovation of Primary Classrooms | Establishing Children's Play Areas in schools | Primary Education Exhibitions | School Family Programmes | Principals and Sectional Heads Training | Inter Schools Study Tours for Teachers | Publication of Primary Education Journal
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+Western Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Central Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Southern Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Northern/Eastern Pro | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+North Western Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+North Central Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Uva Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
+Sabaragamuwa Province | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓
 
 Sourse : Provincial Returns 2002
 
@@ -2662,29 +2671,29 @@ As mentioned else where, the developments in Primary Education in Sri Lanka are 
 
 1. Department for International Development (U.K.) - D.F.I.D.
 
- Primary Education Planning Project
+• Primary Education Planning Project
 
- Primary Mathematics Project
+• Primary Mathematics Project
 
- Primary English Language Project
+• Primary English Language Project
 
 2. World Bank
 
- Second General Education Project (GEP II)
+• Second General Education Project (GEP II)
 
- Training of primary teachers in new curriculum
+• Training of primary teachers in new curriculum
 
- Quality Inputs (Partial contribution)
+• Quality Inputs (Partial contribution)
 
 3. G.T.Z. (German Technical Assistance)
 
- Teacher training and development of additional curriculum materials for teachers (in selected province)
+• Teacher training and development of additional curriculum materials for teachers (in selected province)
 
- Training of principals
+• Training of principals
 
 4. JICA (Japan International Corporation Agency)
 
- Provision  of  infrastructure  facilities  in  selected  schools  to  primary  and  junior secondary sectors.
+• Provision of infrastructure facilities in selected schools to primary and junior secondary sectors.
 
 5. UNICEF  -  Programme on child protection in a few provinces.
 
@@ -2698,37 +2707,25 @@ As mentioned else where, the developments in Primary Education in Sri Lanka are 
 
 74
 
-2. Sponsoring participation at international conferences and work shops on primary  and non-formal education held in
+2. Sponsoring participation at international conferences and work shops on primary and non-formal education held in
 
-Islamabad -
+Islamabad - 1 person – Learning achievement
 
-1 person -
+New Delhi - 3 persons - EFA
 
-Learning achievement
+Tokyo - 1 person - Special Education
 
-New Delhi -
-
-3 persons -
-
-EFA
-
-Tokyo -
-
-1 person -
-
-Special Education
-
-- Sponsoring workshop at National Level
+3. Sponsoring workshop at National Level
 
 on EFA (1 day)
 
-- Awarding scholarships for disabled and displaced children
+4. Awarding scholarships for disabled and displaced children
 
 ## 3.12 The involvement of NGOs in the Development of Primary Education.
 
-Of the eight provinces Central, North Central and Uva Provinces receive assistance and guidance in  Primary  Education  Developmental  activities  from  G.T.Z.  The  main  areas  of  concern  of G.T.Z. programmes are;
+Of the eight provinces Central, North Central and Uva Provinces receive assistance and guidance in Primary Education Developmental activities from G.T.Z. The main areas of concern of G.T.Z. programmes are;
 
-- Training of leader teachers
+i. Training of leader teachers
 
 ii. Preparation of specific teachers guides
 
@@ -2752,30 +2749,31 @@ Several Local religious institutions and organizations assist some provinces to 
 
 76
 
-Province
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Category | Aspect | Western | Central | Southern | North East | North Western | North Central | Uva | Sabaragamuwa
-1 Teacher Training | 1.1 Lack of Resources and knowledge in New Technological Developments among teachers. | 9
-1.2 Slow development of language skills among primary pupils. | 9
-1.3 Delays in teacher training time tables (Delays in provision of funds centrally). | 9
-1.4 Teachers of small schools need systematic training in Multi Grade, Multi Level teaching | 9 | 9
-1.5 Primary Teachers need organized training in Aesthetics and in basic technical skills for handling tools | 9
-2 Renovation of Infrastructure | 2.1 Renovation of primary classrooms leads to reduction of usable classroom space for other classes | 9
-2.2 Shortage of physical resources (buildings, furniture etc.) | 9
-2.3 Difficulties in organizing classrooms as recommended due to lack of facilities | 9
-2.4 Delay in completing renevotions | 9 | 9
-2.5 Need for additional classroom space in certain schools | 9
-3 Achievement Level of Pupils | 3.1 Some pupils do not reach anticipated competency level. | 9
-3.2 Derth of sufficient guidance for conducting pupils centered learning activities | 9
-3.3 Need for a better classroom environment which in conducive to the free and creative development of the child's mind | 9
-4 Text Books | 4.1 Delays in distribution of some text books and workbooks to schools | 9 | 9 | 9
-5 Teacher's Guides | 5.1 Delays in distribution of teacher's guilds | 9
-6 Supervision | 6.1 Lack of follow-up activities to monitor implementation of key tasks at Provincial, Zonal, Divisional Level | 9 | 9
-7 Curriculum | 7.1 Matching Grade 6 curriculum to pupils achievement at grade 5 level | 9
-7.2 Problems in curriculum management at school level in National Schools | 9 | 9
-8 Administration | 8.1 Teacher deficiency (of qualified, trained teachers- in remote area) | 9 | 9 | 9 | 9
+Figure 5
 
-Figure 5 Problem areas that demand attention for further Development of Primary Education as identified by provincial Primary Education authorities.
+Problem areas that demand attention for further Development of Primary Education as identified by provincial Primary Education authorities.
+
+Category | Aspect | Western | Central | Southern | North East | North Western | North Central | Uva | Sabaragamuwa
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1 Teacher Training | 1.1 Lack of Resources and knowledge in New Technological Developments among teachers. |  |  |  |  |  | ✓ |  |
+ | 1.2 Slow development of language skills among primary pupils. |  |  |  | ✓ |  |  |  |
+ | 1.3 Delays in teacher training time tables (Delays in provision of funds centrally). |  |  |  |  |  |  |  | ✓
+ | 1.4 Teachers of small schools need systematic training in Multi Grade, Multi Level teaching | ✓ |  |  |  |  |  |  | ✓
+ | 1.5 Primary Teachers need organized training in Aesthetics and in basic technical skills for handling tools | ✓ |  |  |  |  |  |  |
+2 Renovation of Infrastructure | 2.1 Renovation of primary classrooms leads to reduction of usable classroom space for other classes |  |  |  |  |  |  |  | ✓
+ | 2.2 Shortage of physical resources (buildings, furniture etc.) |  |  |  |  |  | ✓ |  |
+ | 2.3 Difficulties in organizing classrooms as recommended due to lack of facilities |  |  |  | ✓ |  |  |  |
+ | 2.4 Delay in completing renevotions |  | ✓ |  |  |  |  |  | ✓
+ | 2.5 Need for additional classroom space in certain schools |  |  |  |  | ✓ |  |  |
+3 Achievement Level of Pupils | 3.1 Some pupils do not reach anticipated competency level. |  |  |  |  |  |  |  | ✓
+ | 3.2 Derth of sufficient guidance for conducting pupils centered learning activities |  | ✓ |  |  |  |  |  |
+ | 3.3 Need for a better classroom environment which in conducive to the free and creative development of the child's mind |  | ✓ |  |  |  |  |  |
+4 Text Books | 4.1 Delays in distribution of some text books and workbooks to schools |  |  | ✓ |  | ✓ |  |  | ✓
+5 Teacher's Guides | 5.1 Delays in distribution of teacher's guilds |  |  |  |  |  |  |  | ✓
+6 Supervision | 6.1 Lack of follow-up activities to monitor implementation of key tasks at Provincial, Zonal, Divisional Level |  |  | ✓ |  |  |  | ✓ |
+7 Curriculum | 7.1 Matching Grade 6 curriculum to pupils achievement at grade 5 level |  |  |  |  |  |  | ✓ |
+ | 7.2 Problems in curriculum management at school level in National Schools |  |  | ✓ |  |  |  |  | ✓
+8 Administration | 8.1 Teacher deficiency (of qualified, trained teachers- in remote area) |  |  |  | ✓ | ✓ | ✓ |  | ✓
 
 [[END OF PAGE 85]]
 
@@ -2783,17 +2781,15 @@ Figure 5 Problem areas that demand attention for further Development of Primary 
 
 77
 
-8.2 Transfer of teacher-especially those that have been trained for a particular grade to another grade in another school | 9 | 9
---- | --- | --- | --- | --- | ---
-8.3 Not all teachers teaching in primary classes are primary trained (or graduates) | 9
-8.4 Concentration of In service training programmes at the end of financial year (just to spend allocations, without proper spacing and advancing these to the begining of the year | 9 | 9
-8.5 Not adhering to circulars governing new primary education reforms and lack of action against violation of regulations. | 9 | 9
-8.6 Need for better attention by divisional, Zonal officers to remote rural schools | 9 | 9
-9 Teaching materials | 9.1 Shortage of resources | 9
-10 Funding | 10.1 Shortage of funds for training teachers in all grades (1-5) due to insufficient allocation by | 9
-provincial ministries.
-11 Mass Media | 11.1 Lack of attention towards values and attitudes favourable to children in programmes | 9 | 9
-11.2 Need for public awareness on matters related to primary Education (Specially in rural - areas) | 9 | 9 | 9 | 9 | 9
+ | 8.2 Transfer of teacher-especially those that have been trained for a particular grade to another grade in another school |  |  |  |  | ✓ |  |  | ✓
+ | 8.3 Not all teachers teaching in primary classes are primary trained (or graduates) | ✓ |  |  |  |  |  |  |
+ | 8.4 Concentration of In service training programmes at the end of financial year (just to spend allocations, without proper spacing and advancing these to the begining of the year | ✓ |  |  |  |  | ✓ |  |
+ | 8.5 Not adhering to circulars governing new primary education reforms and lack of action against violation of regulations. |  |  | ✓ |  |  |  | ✓ |
+ | 8.6 Need for better attention by divisional, Zonal officers to remote rural schools |  |  |  |  | ✓ |  |  | ✓
+9 Teaching materials | 9.1 Shortage of resources |  |  |  |  |  | ✓ |  |
+10 Funding | 10.1 Shortage of funds for training teachers in all grades (1-5) due to insufficient allocation by provincial ministries. |  |  |  |  | ✓ |  |  |
+11 Mass Media | 11.1 Lack of attention towards values and attitudes favourable to children in programmes |  |  | ✓ |  |  |  |  | ✓
+ | 11.2 Need for public awareness on matters related to primary Education (Specially in rural - areas) |  | ✓ | ✓ |  | ✓ | ✓ |  | ✓
 
 Source : Provincial Returns - 2002
 
@@ -2807,25 +2803,24 @@ Source : Provincial Returns - 2002
 
 The following is an analysis of proposals by provincial primary authorities aimed at smoothing out existing difficulties and short coms in the national primary education system
 
-Aspect | Province
---- | --- | --- | --- | --- | --- | --- | ---
-WP | CP | SP | NE | NW | NC | UP | Sab
-1 | Teachers 1.1 Qualifications | Take positive measures to appoint primary trained teachers or graduates to primary classes | 9
-1.2 | Appoint qualified English teachers to small schools | 9 | 9
-2 Teacher | 2.1 | Draw Special attention to the teaching of mother | 9
-Proficiency 2.2 | tongue in Primary Teacher Introduce an organized training programme to train teachers of small schools, in multi-grade and multi-level teaching | Training programme 9 | 9 | 9
-2.3 | Provide special training teacher competancies in using basic tools and simple cost teaching material | programmes to enhance the teaching aesthetics and in materials for making low- | 9
-2.4 | Ensure that all teachers teaching in primary classes receive proper training in relevant new syllabus before starting to teach in a particular grade | 9 | 9
-3 Infrastructure | 3.1 | Renovate grade 3-4 and 5 classrooms in schools where this has been neglected | 9 | 9 | 9
-3.2 | Improve the design of primary class room to enhance more liberal creative and active learning by creating a free and open mental atmosphere for young children | 9
-3.3 | Provide additional classroom space to schools which lack sufficient space | 9 | 9
-3.4 | Supply basic furniture needs to needy schools located in rural areas that are often neglected due to difficulties | specially in accessibility
-4 | Curriculum 4.1 | Make better adjustments between grade 5 and grade 6 curricula | 9
-5 | Administration 5.1 | Distribute text books and work books in time without SHORTAGES or DELAYS | 9 | 9
-5.2 | Take positive action against violation of critical regulations governing pupils admission and primary education in general | 9 | 9
-5.3 | Provide better facilities for primary coordinators to obtain and process relevant data from schools | 9
-5.4 | Programme teacher training sessions so that teachers are not kept out of their classrooms extensive during school working days | 9 | 9
-5.5 | Make productive assessments of primary teachers who are committed and devoted to profession | 9 | 9
+Aspect | Proposal | WP | CP | SP | NE | NW | NC | UP | Sab
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1 Teachers Qualifications | 1.1 Take positive measures to appoint primary trained teachers or graduates to primary classes | ✓ |  |  |  |  |  |  |
+ | 1.2 Appoint qualified English teachers to small schools |  |  | ✓ |  |  |  |  | ✓
+2 Teacher Proficiency | 2.1 Draw Special attention to the teaching of mother tongue in Primary Teacher Training programme | ✓ |  |  |  |  |  |  |
+ | 2.2 Introduce an organized training programme to train teachers of small schools, in multi-grade and multi-level teaching | ✓ |  |  |  |  | ✓ |  | ✓
+ | 2.3 Provide special training programmes to enhance the teacher competancies in teaching aesthetics and in using basic tools and simple materials for making low-cost teaching material |  |  |  |  |  |  |  | ✓
+ | 2.4 Ensure that all teachers teaching in primary classes receive proper training in relevant new syllabus before starting to teach in a particular grade |  |  |  | ✓ |  |  |  | ✓
+3 Infrastructure | 3.1 Renovate grade 3-4 and 5 classrooms in schools where this has been neglected | ✓ |  |  |  | ✓ |  |  | ✓
+ | 3.2 Improve the design of primary class room to enhance more liberal creative and active learning by creating a free and open mental atmosphere for young children |  | ✓ |  |  |  |  |  |
+ | 3.3 Provide additional classroom space to schools which lack sufficient space |  |  |  |  | ✓ |  |  | ✓
+ | 3.4 Supply basic furniture needs to needy schools specially located in rural areas that are often neglected due to difficulties in accessibility |  |  |  |  |  |  |  |
+4 Curriculum | 4.1 Make better adjustments between grade 5 and grade 6 curricula |  |  | ✓ |  |  |  |  |
+5 Administration | 5.1 Distribute text books and work books in time without SHORTAGES or DELAYS |  |  | ✓ |  |  |  |  | ✓
+ | 5.2 Take positive action against violation of critical regulations governing pupils admission and primary education in general |  |  | ✓ |  |  |  |  | ✓
+ | 5.3 Provide better facilities for primary coordinators to obtain and process relevant data from schools |  |  |  |  |  | ✓ |  |
+ | 5.4 Programme teacher training sessions so that teachers are not kept out of their classrooms extensive during school working days |  |  |  |  |  | ✓ |  | ✓
+ | 5.5 Make productive assessments of primary teachers who are committed and devoted to profession |  |  |  |  |  |  | ✓ | ✓
 
 [[END OF PAGE 87]]
 
@@ -2833,12 +2828,11 @@ Proficiency 2.2 | tongue in Primary Teacher Introduce an organized training prog
 
 79
 
-5.6 | Minimize teacher deficiency specially in rural schools by proper teacher deployment | 9
---- | --- | --- | --- | ---
-5.7 | Provide necessary financial allocations to promote school family activities and teacher quality circles programme | 9 | 9 | 9
-6 Mass Media | 6.1 | Execute necessary controls to cultural programmes and news publications that would lead to degradation of social values in young children. Promote programmes that are contributive towards sound character development during childhood | 9 | 9
-6.2 | Organize systematic public awareness programmes for rural parents and general public aimed at furtherance of public cooperation in school development activities | 9 | 9
-7 Extra Curricular Activities | 7.1 | Organize provincial and zonal level primary children's sports meets | 9
+ | 5.6 Minimize teacher deficiency specially in rural schools by proper teacher deployment |  |  |  |  |  |  |  | ✓
+ | 5.7 Provide necessary financial allocations to promote school family activities and teacher quality circles programme |  | ✓ |  |  | ✓ |  |  | ✓
+6 Mass Media | 6.1 Execute necessary controls to cultural programmes and news publications that would lead to degradation of social values in young children. Promote programmes that are contributive towards sound character development during childhood |  |  | ✓ |  |  |  |  | ✓
+ | 6.2 Organize systematic public awareness programmes for rural parents and general public aimed at furtherance of public cooperation in school development activities |  |  |  |  |  | ✓ |  | ✓
+7 Extra Curricular Activities | 7.1 Organize provincial and zonal level primary children's sports meets |  |  |  |  |  |  | ✓ |
 
 Source : Provincial Returns - 2002
 
@@ -2872,13 +2866,16 @@ Head of schools were instructed to admit children whose parents were not able to
 
 Compulsory education extends from grade 1 to 9 and after primary cycle children have to enters Junior  Secondary  stage  which  include  grade  vi  -  ix.  In  the  primary  stage  children  are  taught through an integrated curriculum, in grade vi-ix children have to learn through a subject-based curriculum.
 
-## A n n e x  - (P rim a ry  E d u c a tio n )
+## Annex - (Primary Education)
 
-### S o m e  b a sic  s ta tis tic s  re le v a n t to  P rim a ry  E d u c a tio n
+### Some basic statistics relevant to Primary Education
 
-Corrected P opu lation  P ro jectio n s -C h ild re n  5 -9  y e a rs o f a g e
+Table A-1
 
-Y ear | M a le | Fem a le | Total
+Corrected Population Projections
+-Children 5-9 years of age
+
+Year | Male | Female | Total
 --- | --- | --- | ---
 1998 (1989-1993) | 898,158.00 | 863,740.00 | 1,761,898.00
 1999 (1990-1994) | 894,195.00 | 860,447.00 | 1,754,642.00
@@ -2888,11 +2885,9 @@ Y ear | M a le | Fem a le | Total
 2003 (1994-1998) | 866,122.00 | 826,716.00 | 1,692,838.00
 2004 (1995-1999) | 852,265.00 | 813,488.00 | 1,665,753.00
 
-Source - F Y P P E  2000-2004
+Source - FYPPE 2000-2004
 
-Table A -1
-
-T a b le  A -1
+Table A-1
 
 [[END OF PAGE 90]]
 
@@ -2900,27 +2895,31 @@ T a b le  A -1
 
 82
 
-Medium | Year
+Table - A3
+
+Trend Based Enrolment Projections for Grades 1-5
+(1999-2004)
+
+Medium | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | --- | ---
-1999 | 2000 | 2001 | 2002 | 2003 | 2004
 Sinhala | 1,310,334 | 1,302,847 | 1,295,410 | 1,288,021 | 1,280,681 | 1,263,389
 Tamil | 501,997 | 510,679 | 519,568 | 528,671 | 537,993 | 547,540
 Total | 1,812,331 | 1,813,526 | 1,814,978 | 1,816,692 | 1,818,674 | 1,810,929
-
-Table - A3 Trend Based Enrolment Projections for Grades 1-5 (1999-2004)
 
 Source - FYPPE (1998-2004)
 
 Table - A3
 
-Medium | Year / TPR
+Table - A4
+
+Targeted T.P.R.
+(1999-2004)
+
+Medium | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | --- | --- | ---
-1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
 Sinhala | 1:28 | 1:28 | 1:275 | 1:27 | 1:27 | 1:27 | 1:27
 Tamil | 1:41 | 1:40 | 1:36 | 1:32 | 1:29 | 1:27 | 1:27
 Overall | 1:31 | 1:30 | 1:29 | 1:28 | 1:28 | 1:27 | 1:27
-
-Table - A4 Targeted T.P.R. (1999-2004)
 
 Source - FYPPE (1998-2004)
 
@@ -2934,20 +2933,15 @@ Table - A4
 
 Table A-2
 
-Protections of Primary Pupils Enrolments  -(1998-2004)
+Protections of Primary Pupils Enrolments -(1998-2004)
 
-Year
---- | --- | --- | --- | --- | --- | --- | ---
 Projection | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
+--- | --- | --- | --- | --- | --- | --- | ---
 NER | 96.50 | 96.60 | 97.50 | 98.50 | 99.00 | 99.5 | 100.00
-Population 5-9 year old | 1761898 | 1759637 | 1719563 | 1665753
-(All Island) | 1754642 | 1743728 | 1692839
-Total Pupils Population | 1695811 | 1717572 | 1684375
-5-9 Years old | 1700908 | 1715646 | 1702367 | 1665753
-Overage Primary Pupils | 153855 | 126180 | 92088 | 57826
-Population | 141308 | 109582 | 74886
-Total Primary Population | 854763 | 1841826 | 1744455 | 1723579
-(All Island) | 1837119 | 1827154 | 1759261
+Population 5-9 year old (All Island) | 1761898 | 1754642 | 1759637 | 1743728 | 1719563 | 1692839 | 1665753
+Total Pupils Population 5-9 Years old | 1700908 | 1695811 | 1715646 | 1717572 | 1702367 | 1684375 | 1665753
+Overage Primary Pupils Population | 153855 | 141308 | 126180 | 109582 | 92088 | 74886 | 57826
+Total Primary Population (All Island) | 854763 | 1837119 | 1841826 | 1827154 | 1744455 | 1759261 | 1723579
 
 Note : Pupil populations include Government Schools Private Special, Non Formal Education, International Schools
 
@@ -2963,45 +2957,46 @@ Table A-2
 
 Table - A5
 
-Pupil Enrolment and Teacher Requirement (1998-2004) (Govt. Schools)
+Pupil Enrolment and Teacher Requirement
+(1998-2004) (Govt. Schools)
 
-Year
---- | --- | --- | --- | --- | --- | ---
-1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
-Primary | 1801387 | 1783743 | 1773778 | 1705785
-Enrolment | 1788450 | 1741079 | 1670203
-Primary Teachers | 58678 | 58575 | (62940) | (63177)
-(Ava/Req) | (60913) | (63290) | (61859)
+ | 1998 | 1999 | 2000 | 2001 | 2002 | 2003 | 2004
+--- | --- | --- | --- | --- | --- | --- | ---
+Primary Enrolment | 1801387 | 1783743 | 1788450 | 1773778 | 1741079 | 1705785 | 1670203
+Primary Teachers (Ava/Req) | 58678 | 58575 | (60913) | (62940) | (63290) | (63177) | (61859)
 
 Source - FYPPE (1998-2004)
 
-T a b le   -   A 6
-
 Table - A5
 
-P r o m o tio n   R a te s   &   R e p e t i t i o n   R a t e s
+Table - A6
 
-P rom o tio n R a te s | R e p e titio n R a te s
+Promotion Rates & Repetition Rates
+
+ | Promotion Rates | Repetition Rates
 --- | --- | ---
-G ra d e 1 - 2 | 9 6 .3 2 * | 3 .8 3
-G ra d e 2 - 3 | 9 4 .3 8 | 5 .4 0
-G ra d e 3 - 4 | 9 3 .0 4 | 5 .7 6
-G ra d e 4 - 5 | 9 2 .4 5 | 5 .5 0
-G ra d e 5 - 6 | 9 2 .8 2 | 5 .0 6
+Grade 1 - 2 | 96.32 * | 3.83
+Grade 2 - 3 | 94.38 | 5.40
+Grade 3 - 4 | 93.04 | 5.76
+Grade 4 - 5 | 92.45 | 5.50
+Grade 5 - 6 | 92.82 | 5.06
 
-S o u r c e   -   F Y P P E  ( 1 9 9 8 -2 0 0 4 )
+Source - FYPPE (1998-2004)
 
-*   N o t e   :   A d ju s t e d   p r o m o t i o n   r a t e   i n   9 6 . 1 7
+* Note : Adjusted promotion rate in 96.17
 
-T a b le   -   A 6
+Table - A6
 
-1994 | 1995 | 1996 | 1997 | 1998 | 1999
+Table - A8
+
+Expenditure on Education as a Percentage of Government Expenditure
+(Trends)
+
+ | 1994 | 1995 | 1996 | 1997 | 1998 | 1999
 --- | --- | --- | --- | --- | --- | ---
 Recurrent | 10.9 | 11.1 | 10.7 | 11 | 12.2 | 11.5
 Capital | 7.1 | 7.3 | 9.5 | 8.4 | 7.6 | 9.4
 Total | 9.90% | 10.20% | 10.40% | 10.50% | 11.10% | 10.90%
-
-Table - A8 Expenditure on Education as a Percentage of Government Expenditure (Trends)
 
 Source - FYPPE (1998-2004)
 
@@ -3031,61 +3026,35 @@ Table - A7
 
 [[START OF PAGE 95]]
 
+86
+
 # 4 Formal Education in Sri Lanka (Junior Secondary)
 
 ## 4.1 Introduction
 
-Sri  Lanka  is  a  developing  country  which  has  a  very  high  level  of  performance  regarding
-
-education  in  comparison  to  her  neighbors  in  South  Asia.  She  had  provided  educational
-
-opportunities to a very large portion of the population. She had in fact adopted a policy of free
-
-education  from  kindergarten  to  university  even  before  gained  independence.  She  was  able  to
-
-produce  a  substantial  number  of  scientists,  administrators  and  other  professional  who  were
-
-capable enough to guide the destinies of the Nation. However the majority of the educational out
-
-puts were not of very high quality despite the opportunities provided to all irrespective of any
-
-sectarian consideration.
+Sri Lanka is a developing country which has a very high level of performance regarding education in comparison to her neighbors in South Asia. She had provided educational opportunities to a very large portion of the population. She had in fact adopted a policy of free education from kindergarten to university even before gained independence. She was able to produce a substantial number of scientists, administrators and other professional who were capable enough to guide the destinies of the Nation. However the majority of the educational out puts were not of very high quality despite the opportunities provided to all irrespective of any sectarian consideration.
 
 ## 4.2 Secondary Education.
 
-Secondary  education  is  considered  broadly  as  the  period  of  formal  and  non-formal  education
+Secondary education is considered broadly as the period of formal and non-formal education following primary education or education at first level. (Gunawardana G.B-1988)
 
-following primary education or education at first level. (Gunawardana G.B-1988)
+The Proposals for Reforms in 1981 describes the period of secondary education in Sri Lanka as having three segments.
 
-The Proposals for Reforms in 1981 describes  the period of secondary education in Sri Lanka as
+1. Junior Secondary - years from 6-8
 
-having three segments.
+2. Senior Secondary - years from 9-11
 
-1. Junior Secondary -
-
-2. Senior Secondary -
-
-3. Collegiate level years from 6-8
-
-years from 9-11
-
-years from 12-13
+3. Collegiate level - years from 12-13
 
 The Proposals for Reforms in Education in 1997 made some minor changes to these segments.
 
 The current position regarding these segments is as follows.
 
-1. Junior Secondary -
+1. Junior Secondary - grades from 6-9
 
-2. Senior Secondary -
+2. Senior Secondary - grades from 10-11
 
-3. Collegiate level grades from 6-9
-
-grades from 10-11
-
-grades from 12-13
-
-86
+3. Collegiate level - grades from 12-13
 
 [[END OF PAGE 95]]
 
@@ -3163,17 +3132,17 @@ The  government  was  generous  enough  to  provide  students  with  free-unifor
 
 In addition to the provision of free text-books free mid-day meal free uniform materials with a view to extend educational opportunities some changes were made in administration of school system too. In 1987 a system of 'school clusters' was introduced. A Cluster comprised of 10-15 schools in a geographical area and was treated as an administrative entity. Although it was not successful, the objective of cluster schools system was to share the physical and human resources more efficiently among schools.
 
-After  establishing  the  central  schools  system,  a  scholarship  programme  at  grade  5  was introduced. This programme opened the doors of central collages to sons and daughters of lowincome rural folk. In addition, students were offered subsidized bus fares for travel to schools.
+After establishing the central schools system, a scholarship programme at grade 5 was introduced. This programme opened the doors of central collages to sons and daughters of low-income rural folk. In addition, students were offered subsidized bus fares for travel to schools.
 
 In the 1970s the teaching of Science was extended to all secondary schools in the Island. Science education  was  limited  exclusively  to  few  privileged  urban  schools.  With  the  introduction  of Universal  Science  Education  a  large  number  of  science  and  mathematics  teachers  had  to  be recruited  to  meet  the  newly  created  demand.  These  teachers  were  deployed  country  wide ensuring equity.
 
-The provision of extending educati0nal opportunity was built in to the 1978 Constitution. Article 27 (2) says 'The complete eradication of illiteracy and assurance to all persons of the right to universal  and  equal  access  to  education  at  all  levels.'  This  demonstrates  the  intention  of  the Government in no uncertain terms.
+The provision of extending educational opportunity was built in to the 1978 Constitution. Article 27 (2) says 'The complete eradication of illiteracy and assurance to all persons of the right to universal and equal access to education at all levels.' This demonstrates the intention of the Government in no uncertain terms.
 
 In consequence to the steps taken towards  extending educational opportunity, secondary schools enrolment kept rising steadily. The number on roll in 1970 was 360000  and it reached half a million in 1975. By 1980, there were 1.2 million students in secondary schools in Sri Lanka and in 1988 the figure rose up to 1.9 million" (Secondary education in Sri Lanka -1991 NIE)
 
 Although  many  steps  were  taken  to  extend  educational  opportunities,  expected  numbers  of children were still not in schools. Asian Development Bank report said that significant section of the children between the age ranges of 5-14 years was still out of school. At the senior secondary level nearly 1/3 of the children were not in school.
 
-In spite of all the efforts taken by the schools there was a considerable number in certain sections of  the  populationwho  do  not  make  use  of  the  opportunities  provided  due  to  many  socio economic  reasons.  Grade  repetition and  drop  outs were  other problems  the successive governments had to grapple with. Figure II and III shows the situation graphically. However it could be seen that the rate of repetition and drop outs over the years have been on the decline.
+In spite of all the efforts taken by the schools there was a considerable number in certain sections of the population who do not make use of the opportunities provided due to many socio economic reasons. Grade repetition and drop outs were other problems the successive
 
 [[END OF PAGE 98]]
 
@@ -3181,9 +3150,13 @@ In spite of all the efforts taken by the schools there was a considerable number
 
 90
 
-Figure II Repetitions Rates
+governments had to grapple with. Figure II and III shows the situation graphically. However it could be seen that the rate of repetition and drop outs over the years have been on the decline.
 
-Table III
+Figure II
+
+Repetitions Rates
+
+Value
 
 10
 
@@ -3191,19 +3164,9 @@ Table III
 
 6
 
-Value
-
 4
 
-vi
-
-vii
-
 2
-
-viii
-
-ix
 
 0
 
@@ -3217,7 +3180,19 @@ ix
 
 Year
 
+vi
+
+vii
+
+viii
+
+ix
+
+Table III
+
 Dropouts Rates
+
+Value
 
 12
 
@@ -3225,25 +3200,13 @@ Dropouts Rates
 
 8
 
-Value
-
 6
 
 4
 
-vi
-
 2
 
-vii
-
-viii
-
-ix
-
 0
-
-Year
 
 1977
 
@@ -3252,6 +3215,16 @@ Year
 1987
 
 1988
+
+Year
+
+vi
+
+vii
+
+viii
+
+ix
 
 Tables given above indicate that the dropout and repetition rates have been fairly high at the junior secondary level.
 
@@ -3261,33 +3234,36 @@ Tables given above indicate that the dropout and repetition rates have been fair
 
 91
 
-After  the  completion  of  the  primary  cycle  the  students  sit  for  the  grade  five  scholarship  examination.  This scholarship was originally introduced to support the bright students coming from the disadvantaged sector of the population. However later this was extended to all grade five students including those who did not qualify for financial support but they were accorded the opportunity of changing over from rural disadvantaged schools to urban reputed schools. The results of the 1992  year five scholarship examination is given in table V.
+After the completion of the primary cycle the students sit for the grade five scholarship examination. This scholarship was originally introduced to support the bright students coming from the disadvantaged sector of the population. However later this was extended to all grade five students including those who did not qualify for financial support but they were accorded the opportunity of changing over from rural disadvantaged schools to urban reputed schools. The results of the 1992 year five scholarship examination is given in table V.
 
-Class Interval | Sinhala | Language | Mathematics
+Figure v
+
+Year Five Scholarship Examination –1992Performance Levels
+
+Class Interval | Sinhala Language Frequency | Sinhala Language Cumulative Percentage | Mathematics Frequency | Mathematics Cumulative Percentage
 --- | --- | --- | --- | ---
-Frequency | Cumulative Percentage | Frequency | Cumulative Percentage
-00 - 04 05 - 09 10 - 14 | 11148 8804 10001 | 6.12 10.95 16.43 | 18971 22071 21840 18801 | 10.41 22.52 34.50
-15 - 19 | 14597 | 23.35 | 44.62
-20 - 24 | 14946 | 31.55 | 15839 | 53.51
-25 - 29 | 16388 | 40.54 | 12964 | 60.62
-30 - 34 | 16543 | 49.61 | 10621 | 66.45
-35 - 39 | 15977 | 58.38 | 8703 | 71.22
-40 - 44 | 15141 | 66.69 | 7545 | 75.36
-45 - 49 | 12940 | 73.79 | 6418 | 78.88
-50 - 54 | 11954 | 80.35 | 5999 | 82.17
-55 - 59 | 9839 | 85.77 | 5634 | 85.27
-60 - 64 | 8451 | 90.38 | 5073 | 88.05
-65 - 69 | 6260 | 93.81 | 4942 | 90.76
-70 - 74 | 5002 | 96.56 | 4358 | 93.15
-75 - 79 | 3096 | 98.26 | 3829 | 95.25
-80 - 84 | 2064 | 99.39 | 3297 | 97.06
-85 - 89 | 873 | 99.87 | 2639 | 98.51
-90 - 94 | 215 | 99.99 | 1781 | 99.49
-95 - 100 | 21 | 100.00 | 937 | 100.00
+00 – 04 | 11148 | 6.12 | 18971 | 10.41
+05 – 09 | 8804 | 10.95 | 22071 | 22.52
+10 – 14 | 10001 | 16.43 | 21840 | 34.50
+15 – 19 | 14597 | 23.35 | 18801 | 44.62
+20 – 24 | 14946 | 31.55 | 15839 | 53.51
+25 – 29 | 16388 | 40.54 | 12964 | 60.62
+30 – 34 | 16543 | 49.61 | 10621 | 66.45
+35 – 39 | 15977 | 58.38 | 8703 | 71.22
+40 – 44 | 15141 | 66.69 | 7545 | 75.36
+45 – 49 | 12940 | 73.79 | 6418 | 78.88
+50 – 54 | 11954 | 80.35 | 5999 | 82.17
+55 – 59 | 9839 | 85.77 | 5634 | 85.27
+60 – 64 | 8451 | 90.38 | 5073 | 88.05
+65 – 69 | 6260 | 93.81 | 4942 | 90.76
+70 – 74 | 5002 | 96.56 | 4358 | 93.15
+75 – 79 | 3096 | 98.26 | 3829 | 95.25
+80 – 84 | 2064 | 99.39 | 3297 | 97.06
+85 – 89 | 873 | 99.87 | 2639 | 98.51
+90 – 94 | 215 | 99.99 | 1781 | 99.49
+95 – 100 | 21 | 100.00 | 937 | 100.00
 
-Figure v Year Five Scholarship Examination -1992Performance Levels
-
-Source - Research on the year five Scholarship Examination - NIE - 1994.
+Source – Research on the year five Scholarship Examination – NIE – 1994.
 
 The table shows that 60 % of the students failed to reach the minimum performance level in mathematics and 42 % in the mother tongue, after completing the primary five year cycle.
 
@@ -3299,17 +3275,9 @@ The table shows that 60 % of the students failed to reach the minimum performanc
 
 Some basic Performance indicators in Government Schools 2000
 
-Number
-
-%
-
-18.7
-
-100.0
-
-49.9
-
-50.1
+Number | %
+--- | ---
+1. Functioning Schools
 
 Total | 9,972 | 100.0
 --- | --- | ---
@@ -3318,15 +3286,7 @@ Total | 9,972 | 100.0
 Type 2 Schools | 3,910 | 39.2
 Type 3 Schools | 3,613 | 36.2
 
-1. Functioning Schools
-
 2. Student by Gender
-
-Total
-
-Boys
-
-Girls
 
 Total | 4,190,657 | 100.0
 --- | --- | ---
@@ -3405,12 +3365,14 @@ Type 3 Schools | 24,960 | 13.0
 
 Figure VI
 
-1994 | 1995 | 1996 | 1997 | 1998
+Annex 10 – G.C.E. (O.L) Examination 1994 – 1998 Performances of All Candidates
+
+ | 1994 |  | 1995 |  | 1996 |  | 1997 |  | 1998 |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Number | PER % | Number | PER % | Number | PER % | Number | PER % | Number | PER %
-Number Sat | 484380 | 499754 | 492422 | 501505 | 509499
+ | Number | PER % | Number | PER % | Number | PER % | Number | PER % | Number | PER %
+Number Sat | 484380 |  | 499754 |  | 492422 |  | 501505 |  | 509499 |
 Qualified for A.L. | 85345 | 17.62 | 75746 | 15.16 | 106662 | 21.66 | 119383 | 23.8 | 132255 | 26
-Passed in 6 or more Subjects with 1 st Language and Maths | 99038 | 20.42 | 85454 | 17.1 | 109885 | 22.32 | 125831 | 25.09 | 145918 | 28.6
+Passed in 6 or more Subjects with 1st Language and Maths | 99038 | 20.42 | 85454 | 17.1 | 109885 | 22.32 | 125831 | 25.09 | 145918 | 28.6
 Obtained 8 D's | 594 | 0.12 | 828 | 0.17 | 1235 | 0.25 | 1261 | 0.25 | 2331 | 0.5
 Passed in 8 Subjects or more | 48173 | 9.95 | 43783 | 8.76 | 43870 | 8.91 | 46003 | 9.17 | 57799 | 11.3
 Passed in 7 Subjects | 41101 | 8.49 | 37785 | 7.56 | 45442 | 9.23 | 50048 | 9.98 | 62458 | 12.3
@@ -3422,8 +3384,6 @@ Passed in 2 Subjects | 54611 | 11.27 | 51705 | 10.35 | 46533 | 9.45 | 48776 | 9.
 Passed in 1 Subjects | 94546 | 19.52 | 89037 | 17.82 | 79076 | 16.06 | 89810 | 17.91 | 97332 | 19.1
 Failed in all Subjects | 42908 | 8.86 | 49696 | 9.94 | 38503 | 7.82 | 45033 | 8.98 | 39137 | 7.7
 
-Annex 10 - G.C.E. (O.L) Examination 1994 - 1998 Performances of All Candidates
-
 * Source: Department of Examinations
 
 [[END OF PAGE 103]]
@@ -3434,18 +3394,21 @@ Annex 10 - G.C.E. (O.L) Examination 1994 - 1998 Performances of All Candidates
 
 The number of students who could not obtain passes in 6 subjects and those who could not pass in a single subject from 1994- 1998 are give in table VII
 
+Table VII
+
+Student Performance at the G.C.E. Ordinary Level Examination
+From 1994-1998
+
 Year | 1994 | 1995 | 1996 | 1997 | 1998
 --- | --- | --- | --- | --- | ---
-Percentage of students who Could not obtain passes in | 69.87 % | 64.99 % | 68.38 % | 67.11 % | 62.1 %
+Percentage of students who Could not obtain passes in Six subjects | 69.87 % | 64.99 % | 68.38 % | 67.11 % | 62.1 %
 Failures in all 8 subjects | 8.86 % | 9.94 % | 7.82 % | 8.98 % | 7.7 %
-
-Table VII Student Performance at the G.C.E. Ordinary Level Examination From 1994-1998
 
 The table  VI  reveals  that  the  number  of  students  who  could  not  complete  6  subjects  in  GCE (O/L) examination ranges  from  around  62  %  to  69  %.  Total  failures  in  all  8  subjects  for  the above  years  reveal  appalling  figures  which  says  that  nearly  40.000  students  have  not  learnt anything after spending 6 years in the secondary cycle These figures give an indication that in spite  of  many  steps  taken  for  extending  educational  opportunities  the  objectives  have  not  yet been fully achieved.
 
 Sri  Lanka  could  be  proud  of  her  literacy  rate  of  90%  in  comparison  to  other  countries  in  the South Asian Region. But with this high literacy rate and substantial human capital she has not been able to emerge as another industrial country in the region.
 
-Despite the efforts taken by the Government at several levels the qualituy of education has not the  required  levels.  A  survey  in  1994  reveals  that  only  21%  of  primary  school  students  had attained required skills. Only 9% could solve numerical problems and only 20% displayed any understanding of health and hygiene.
+Despite the efforts taken by the Government at several levels the quality of education has not the required levels. A survey in 1994 reveals that only 21% of primary school students had attained required skills. Only 9% could solve numerical problems and only 20% displayed any understanding of health and hygiene.
 
 [[END OF PAGE 104]]
 
@@ -3461,18 +3424,21 @@ Despite the efforts taken by the Government at several levels the qualituy of ed
 
 The number of students who could not obtain passes in 6 subjects and those who could not pass in a single subject from 1994- 1998 are give in table VII
 
+Table VII
+
+Student Performance at the G.C.E. Ordinary Level Examination
+From 1994-1998
+
 Year | 1994 | 1995 | 1996 | 1997 | 1998
 --- | --- | --- | --- | --- | ---
-Percentage of students who Could not obtain passes in | 69.87 % | 64.99 % | 68.38 % | 67.11 % | 62.1 %
+Percentage of students who Could not obtain passes in Six subjects | 69.87 % | 64.99 % | 68.38 % | 67.11 % | 62.1 %
 Failures in all 8 subjects | 8.86 % | 9.94 % | 7.82 % | 8.98 % | 7.7 %
-
-Table VII Student Performance at the G.C.E. Ordinary Level Examination From 1994-1998
 
 The table VI reveals that the number of students who could not complete 6 subjects in GCE (O/L) examination ranges from around 62 % to 69 %. Total failures in all 8 subjects for the above years reveal appalling figures which says that nearly 40.000 students have not learnt anything after spending 6 years in the secondary cycle These figures give an indication that in spite of many steps taken for extending educational opportunities the objectives have not yet been fully achieved.
 
 Sri Lanka could be proud of her literacy rate of 90% in comparison to other countries in the South Asian Region. But with this high literacy rate and substantial human capital she has not been able to emerge as another industrial country in the region.
 
-Despite the efforts taken by the Government at several levels the qualituy of education has not the required levels. A survey in 1994 reveals that only 21% of primary school students had  attained  required  skills.  Only  9%  could  solve  numerical  problems  and  only  20% displayed any understanding of health and hygiene.
+Despite the efforts taken by the Government at several levels the quality of education has not the required levels. A survey in 1994 reveals that only 21% of primary school students had attained required skills. Only 9% could solve numerical problems and only 20% displayed any understanding of health and hygiene.
 
 [[END OF PAGE 106]]
 
@@ -3486,18 +3452,18 @@ Quality of Primary Education in Sri Lanka (NIE, 1994)
 
 Percentage of students who achieved the required skills
 
-Literacy % | Numeracy % | Life skills | %
---- | --- | --- | ---
-Vocabulary 33 | Problem Solving 9 | Health | 20
-Comprehension 27 | Knowledge of procedures 13 | Elementary Science | 9
-Writing 21 | Understanding concepts 32 | Environmental skills | 13
-Duties / Child rights | 43
+Literacy % | Numeracy % | Life skills %
+--- | --- | ---
+Vocabulary 33 | Problem Solving 9 | Health 20
+Comprehension 27 | Knowledge of procedures 13 | Elementary Science 9
+Writing 21 | Understanding concepts 32 | Environmental skills 13
+ |  | Duties / Child rights 43
 
 ## 4.3 Current Situation
 
 As illustrated in this article 14% of the age group of 5 to 14 years do not attend school. This is in fact the compulsory schools going age and the percentage is a national average. In some geographical  areas,  the  percentage  of  non-attendance  is  very  much  higher.    A  study conducted  by  the Ministry of Education in certain slum areas of Colombo revealed that 20 % children of 8 year children have not attended any school. Another survey conducted in Anuradhapura area shows that 20 % of the age group of 9-14 did not attend school. About 50 % - 70 % children stay at home to help their parents in their agricultural activities during the sowing and harvesting season. (NEC Report 1992)  These are some of the reasons for this acute non-schooling.
 
-Taking these into consideration, The Parliament of Sri Lanka made  education compulsory for  children  in  the  age  group  5  to  14  and  it  come  into  effect  in  January  1998.  These regulations required all parents to send their children to schools and be responsible for their continued  attendance  during  the  compulsory  period  education.  Provincial  Secretary  and Grama  Niladaris too required to help them in this task.
+Taking these into consideration, The Parliament of Sri Lanka made education compulsory for children in the age group 5 to 14 and it come into effect in January 1998. These
 
 [[END OF PAGE 107]]
 
@@ -3505,7 +3471,9 @@ Taking these into consideration, The Parliament of Sri Lanka made  education com
 
 99
 
-In the year 1997, an Island wide survey was conducted to determine the reasons for nonattendance of children. After the survey, attempts were made to persuade non-school going children to attend schools.
+regulations required all parents to send their children to schools and be responsible for their continued attendance during the compulsory period education. Provincial Secretary and Grama Niladaris too required to help them in this task.
+
+In the year 1997, an Island wide survey was conducted to determine the reasons for non-attendance of children. After the survey, attempts were made to persuade non-school going children to attend schools.
 
 Heads  of  schools  were  instructed  by  the  Ministry  of  Education  to  admit  children  whose parents were not able to provide birth certificates or affidavits. Letters from Grama Niladaris were accepted as proof of a child's' age. Continuing to supply several incentives such as free textbooks free uniform materials encouraged the people to participate in these programmes. Some  N G Os  too participated in implementing these programmes.
 
@@ -3513,7 +3481,7 @@ Compulsory education extends from grade 1 to 9 and after primary cycle children 
 
 As strategy for social integration teaching Sinhala language for Tamil speaking students and Tamil Language to Sinhala speaking students was introduced at the junior secondary level depending on the availability of teachers. Methodology have been devised to teaching either language  through project work or other practical work modes..
 
-As  a  new  concept,  'Activity  Rooms'  were  established  to  initiate  students  to    engage  in practical  work.    In  these  activity  rooms  pupils  encouraged  to  learn  by  doing  things  by themselves  using  simple  tools  and  learning  simple  techniques.  Facilities  were  provided  to junior and secondary schools wherever necessary.
+As a new concept, “Activity Rooms” were established to initiate students to engage in practical work. In these activity rooms pupils encouraged to learn by doing things by themselves using simple tools and learning simple techniques. Facilities were provided to junior and secondary schools wherever necessary.
 
 Traditional  methods    of  assessment  have  been  replaced  with  school  based  assessment  Its main  aim  is  the  improvement  of  quality  in  education  through  an  understanding  of  the student's performance level by teachers and parents within the classroom.
 
@@ -3545,47 +3513,47 @@ In  order  to  develop  quality  of  teaching  a  new  concept  was  introduced 
 
 Numbers of new educational programmes have been implemented during the period of 2001 and 2002 to improve quality of education. Following are some of the important activities that were initiated  in this respect.
 
-- Provision of free school textbooks to all students.
+1. Provision of free school textbooks to all students.
 
-- Supply  of  school  uniform  material  to  all  students  in  Government  Schools  and Pirivenas.
+2. Supply of school uniform material to all students in Government Schools and Pirivenas.
 
-- Central Colleges Refurbishment Programme
+3. Central Colleges Refurbishment Programme
 
-- Navodaya Schools Project .
+4. Navodaya Schools Project .
 
-- Development of school libraries.
+5. Development of school libraries.
 
-- School based assessment programme
+6. School based assessment programme
 
-- Teacher quality circles.
+7. Teacher quality circles.
 
-- Curriculum development of grade 6 to 9 (all subjects)
+8. Curriculum development of grade 6 to 9 (all subjects)
 
-- Introduction of small learning projects for students.
+9. Introduction of small learning projects for students.
 
-- Establishment of activity rooms in secondary schools
+10. Establishment of activity rooms in secondary schools
 
-- School physical fitness programme.
+11. School physical fitness programme.
 
-- Starting of English medium classes from grade 6.
+12. Starting of English medium classes from grade 6.
 
-- Professional Development of teacher through in-service training programmes.
+13. Professional Development of teacher through in-service training programmes.
 
-- Establishment of teacher education centers in all districts.
+14. Establishment of teacher education centers in all districts.
 
-- Island- wide programme for the sustainable development of the school.
+15. Island- wide programme for the sustainable development of the school.
 
-- Mobile  service programme  for  solving  the  problems  related to the  Teachers profession and schools.
+16. Mobile service programme for solving the problems related to the Teachers profession and schools.
 
-- Programmes to minimize the teacher shortages in the difficult areas.
+17. Programmes to minimize the teacher shortages in the difficult areas.
 
-- Fulfillment of staff requirement of schools.
+18. Fulfillment of staff requirement of schools.
 
-- Implementing the Nutrition Projects in 750 selected schools for the children studying in the primary section in disadvantaged areas.
+19. Implementing the Nutrition Projects in 750 selected schools for the children studying in the primary section in disadvantaged areas.
 
-- A  National  Policy  was  declared  to  include  Information  Technology  in  the  school curriculum.
+20. A National Policy was declared to include Information Technology in the school curriculum.
 
-- 21.
+21.
 
 ## 4.5 Education Cost - Secondary Education
 
@@ -3600,9 +3568,9 @@ EDUCATION SYSTEM IN SRI LANKA
 17 + | Universities | Professional | Open University
 --- | --- | --- | --- | ---
 C ll
-Programme | Capital Expenditure | Recurrent | Expenditure
-Estimated Amount 2002 | Expenditure Actual 2002
-Estimated Amount 2002 | Expenditur e Actual 2002
+Programme | Capital Expenditure |  | Recurrent Expenditure | 
+--- | --- | --- | --- | ---
+ | Estimated Amount 2002 | Expenditure Actual 2002 | Estimated Amount 2002 | Expenditure Actual 2002
 1. Secondary Education | 514.19 | 137.34 | 3395.90 | 2426.60
 2. Teachers colleges and teachers centres. | 12.68 | 4.02 | 107.80 | 61.20
 3. General Education Project (World Bank funded) | 1679.42 | 807.86
@@ -3615,8 +3583,6 @@ Project. | 100.00 | 0.46 | 2.70 | 0.50
 [[START OF PAGE 112]]
 
 103
-
-### Foreign Projects
 
 15 +
 
@@ -3660,6 +3626,8 @@ Education
 
 Programmes
 
+### Foreign Projects
+
 [[END OF PAGE 112]]
 
 [[START OF PAGE 113]]
@@ -3676,7 +3644,7 @@ Financial Investment
 
 : US Dollars
 
-This project  in  implemented  through  the  following  components,  by  each c\divition and institution of Ministry.
+This project in implemented through the following components, by each division and institution of Ministry.
 
  Curriculum Development
 
@@ -3696,17 +3664,7 @@ This project  in  implemented  through  the  following  components,  by  each c\
 
 The Present Financial Progress of this Project is 65'05% of the Financial Investment of the project. Is 65.05% of the financial investment of the project.
 
-#### Teacher  Education  and  Teacher  Deployment  Project  (Funded  by  IDA/ World Bank)
-
-- x Rationalization of teacher Deployment
-
-- x Structuring and systematization of Teacher Education
-
-- x Strengthen  Staff and Management
-
-- x Supply of physical facilities for rationalized teacher education.
-
-- x Studies
+#### Teacher Education and Teacher Deployment Project (Funded by IDA/ World Bank)
 
 Project Period
 
@@ -3720,37 +3678,35 @@ Present Financial Progress
 
 90.1%
 
+- x Rationalization of teacher Deployment
+
+- x Structuring and systematization of Teacher Education
+
+- x Strengthen Staff and Management
+
+- x Supply of physical facilities for rationalized teacher education.
+
+- x Studies
+
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
 
+105
+
 This Project was implemented under the above components
 
-The following above main function were performed among the activities carried out
+The following above main function were performed among the activities carried out during the past year.
 
-during the past year.
+- x Supply of math's and science equipment to jaffna, Vavuniyawa, Adalachchanai Sri Pada and Veyangoda National Colleges of Education.
 
-x
+- x Supply of computer and Audio Visual equipment for 84 Teacher Centers, 14 National Colleges of Education. 03 Teacher Education Institution and Jaffna University.
 
-Supply  of  math's  and  science  q  equipment  to  jaffna,  Vavuniyawa,
+- x Supply of Technology Education equipment to 14 National Colleges Education.
 
-Adalachchanai Sri Pada and Veyangoda National Colleges of Education.
+- x Commencement of the construction work of 15 new Teacher Centers and Batticaloa National College of Education.
 
-Supply of computer and Audio Visual equipment for 84 Teacher Centers,
-
-14 National Colleges of Education. 03 Teacher Education Institution and
-
-Jaffna University.
-
-Supply  of  Technology  Education  equipment  to  14  National  Colleges
-
-Education.
-
-Commencement of the construction work of 15 new Teacher Centers and
-
-Batticaloa National College of Education.
-
-#### Secondary  Education  Modernization  Project  (Funded  by  Asian Development Bank)
+#### Secondary Education Modernization Project (Funded by Asian Development Bank)
 
 Project Period:
 
@@ -3762,33 +3718,13 @@ US Dollars 76 Million
 
 Present Expenditure as a percentage of the project investment 88%
 
-The following  activities  are  being  performed  with  a  view  to  promote  a  qualitative
+The following activities are being performed with a view to promote a qualitative improvement in education by modernizing the curriculum and by strengthening the learning - teaching process.
 
-improvement in education by modernizing the curriculum and by strengthening the
+- x Construction for computer Learning Centres in 210 schools of 1AB and 1 C type
 
-learning - teaching process.
-
-x
-
-x
-
-Construction for computer Learning Centres in 210 schools of 1AB and 1
-
-C type
-
-Construction of Multi Media Units in 210 schools of IAB and 1c type and
-
-supply of Media equipment Schools.
+- x Construction of Multi Media Units in 210 schools of IAB and 1c type and supply of Media equipment Schools.
 
 - x Establishment of 05 Environment study centres.
-
-x
-
-x
-
-x
-
-105
 
 [[END OF PAGE 114]]
 
@@ -3842,51 +3778,31 @@ It is implemented under the following 5 main functions.
 
 Project Period:
 
-Financial Investment:
-
 2001 to 2003
 
-Local Funding Rupees 26.3 million/ Foreign Aid
+Financial Investment:
 
-Rupees 98 million
+Local Funding Rupees 26.3 million/ Foreign Aid Rupees 98 million
 
-This Project is implemented with the objective of promoting a quality development
-
-of the learning - teaching process for reading the basic competencies of the primary
-
-stage.
+This Project is implemented with the objective of promoting a quality development of the learning - teaching process for reading the basic competencies of the primary stage.
 
 #### Junior School Improvement Project (JICA - JAPAN Funded)
 
 Project Period:
 
-Phases)
+From March 1999 to March 2009 (Several Phases)
 
 This project is implemented with the tow main objectives of
 
-x
+- x Supply of infrastructure facilities and
 
-x
+- x Improve the qulity in schools through teacher training
 
-Supply of infrastructure facilities and
+Under the First phase improvements were made in 4 schools in Gampaha Distric, 2 schools in Kegalle District and in 10 schools in Rathnapura District an investment of Rupees 1500 million.
 
-Improve the qulity in schools through teacher training
-
-Under the First phase improvements were made in 4 schools in Gampaha Distric, 2
-
-schools in Kegalle District and in 10 schools in Rathnapura District an investment of
-
-Rupees 1500 million.
-
-Under  the  second  phase  improvements  will  be  made  in  56  school  selected  from  gall,
-
-Hambantota  and  Monaragala  Districts  at  a  cost  of  Rupees  2.2.  Bbillion  provided  by
-
-government..
+Under the second phase improvements will be made in 56 school selected from gall, Hambantota and Monaragala Districts at a cost of Rupees 2.2. Bbillion provided by government..
 
 ## 4.6 Data Analysis of the Case Study
-
-From March 1999 to March 2009 (Several In  this  case  study  a  questionnaire  was  sent  out  to  all  8  provinces  for  collecting  data. Responses from Western, Southern, Central, North Central, North Eastern, North Western, Uva and Sabaragamuwa  provinces have been received by the researchers..
 
 [[END OF PAGE 116]]
 
@@ -3894,20 +3810,24 @@ From March 1999 to March 2009 (Several In  this  case  study  a  questionnaire  
 
 108
 
-First question was asked to find out the number of schools with grades 6 to 9. When the data was analyzed it showed that there was an increase in the number of schools in 3 provinces. eighteen  schools  in  the  Central  Province,  59  in  Southern  Province,  ten  schools  in  North Central Province and seven in Uva Province have been added to the list of schools. The total number of new schools is 94. But one school in western province and 40 in North Western Province  have  been  closed  down  subsequently.  Altogether  41  schools  have  closed  down during the period. Data from Sabaragamuwa Province were not available for record.
+In this case study a questionnaire was sent out to all 8 provinces for collecting data. Responses from Western, Southern, Central, North Central, North Eastern, North Western, Uva and Sabaragamuwa provinces have been received by the researchers..
+
+First question was asked to find out the number of schools with grades 6 to 9. When the data was analyzed it showed that there was an increase in the number of schools in 3 provinces. eighteen schools in the Central Province, 59 in Southern Province, ten schools in North Central Province and seven in Uva Province have been added to the list of schools. The total number of new schools is 94. But one school in western province and 40 in North Western Province have been closed down subsequently. Altogether 41 schools have closed down during the period. Data from Sabaragamuwa Province were not available for record.
 
 Case Study on Formal Education
 
 Number of Schools and Students.
 
-Western Provinc e | Southern Province | Central Province | North Central Province | North Eastern Province | Uva Province | North Western Province
+ | Western Province | Southern Province | Central Province | North Central Province | North Eastern Province | Uva Province | North Western Province
 --- | --- | --- | --- | --- | --- | --- | ---
-Number of Schools Having Grade 6- 9 2001 | 1134 1133 | 850 909 | 837 875 | 556 566 | 1006 | 628 635 | 1037 997
-Number of students 2001 2002 | 283326 286839 | 178656 178263 | 184991 | 91468 90661 | 193108 | 98430 99743 | 159199 130750
+Number of Schools Having Grade 6-9 2001 | 1134 | 850 | 837 | 556 |  | 628 | 1037
+2002 | 1133 | 909 | 875 | 566 | 1006 | 635 | 997
+Number of students 2001 | 283326 | 178656 |  | 91468 |  | 98430 | 159199
+2002 | 286839 | 178263 | 184991 | 90661 | 193108 | 99743 | 130750
 
 Altogether 41 schools have been closed. Data of Sabaragamuwa Province were not available for record..
 
-Second  question  was  designed  to  reveal  the  number  of  students  in  grade  6  -  9,  when analyzed  it  shows  that  there  is  a  decrease  of  students  in  numbers  except  in  Western Province.  A  sharp  decrease  could  be  identified  in  North  Western  Province.  It  shows  a decrease of 20136 students. There was a trend towards decrease in enrollment in the N W P but there is an an increase of 3813 students in  the Western Province.
+Second question was designed to reveal the number of students in grade 6 - 9, when analyzed it shows that there is a decrease of students in numbers except in Western Province. A sharp decrease could be identified in North Western Province. It shows a
 
 [[END OF PAGE 117]]
 
@@ -3915,7 +3835,9 @@ Second  question  was  designed  to  reveal  the  number  of  students  in  grad
 
 109
 
-Question  Number  3  was  intended  to  reveal  the  amount  of  money  allocated  for  quality inputs. When compared year 2001 with year 2002 there was a drop in the amount of money allocated by Rs. 13375000 in Western Province, Rs. 2480125 in Southern Province and Rs. 3414340 in North Western Province. The amount of money allocated for Central Province and North Central Province has been increased. The reliability of the data form the Central Province is questionable. There is an increase in the amount allocated for quality inputs by 11 million in North Central Province.
+decrease of 20136 students. There was a trend towards decrease in enrollment in the N W P but there is an an increase of 3813 students in the Western Province.
+
+Question Number 3 was intended to reveal the amount of money allocated for quality inputs. When compared year 2001 with year 2002 there was a drop in the amount of money allocated by Rs. 13375000 in Western Province, Rs. 2480125 in Southern Province and Rs. 3414340 in North Western Province. The amount of money allocated for Central Province and North Central Province has been increased. The reliability of the data form the Central Province is questionable. There is an increase in the amount allocated for quality inputs by 11 million in North Central Province.
 
 Fourth  question  was  designed  to  reveal  the  amount  spent  for  learning  achievement programme out of allocated money for quality inputs. There is no difference in the amount of money spent in 2001 and in 2002. Analysis of data shows an increase of Rs. 1033831/= in Southern Province. The data provided  by  the North Central Province and Uva Province too show descepancies.
 
@@ -3971,7 +3893,7 @@ Province are given in the table below.
 
 Contribution by .SHIYA Organization
 
-For Education in the Southern Province Question  number  7.0  was  deigned  to  obtain  particulars  of  contribution  by  the  National Institute of Education for formal education. In  the Western province, the NIE has provided every school having grade 6 - 9 with syllabuses and Teachers Guides. Teaching equipments for  grade  6  -  9  have  been  supplied  to  every  school.  Teachers  have  been  trained  by  NIE trained resource persons.
+For Education in the Southern Province
 
 [[END OF PAGE 119]]
 
@@ -3987,6 +3909,8 @@ Awareness programme for Principals on Special Education, | Rs. 315600
 Training camps for school prefects | Rs. 185480
 Wheel chairs, Eye Lenses for students | Rs. 947430
 Total | Rs.2484860
+
+Question number 7.0 was deigned to obtain particulars of contribution by the National Institute of Education for formal education. In the Western province, the NIE has provided every school having grade 6 - 9 with syllabuses and Teachers Guides. Teaching equipments for grade 6 - 9 have been supplied to every school. Teachers have been trained by NIE trained resource persons.
 
 North Western Province has received the required number of Teacher Guides but they have not received teacher guides for grade 8-9. in  Science and Music
 
@@ -4027,11 +3951,11 @@ Overcrowded classrooms especially in the National Schools has developed disconte
 
 ### Proposals for development of formal education.
 
-- Paying a special allowance for talented teachers who serve in difficult areas.
+1. Paying a special allowance for talented teachers who serve in difficult areas.
 
-- Conducting continuous teachers education programmes.
+2. Conducting continuous teachers education programmes.
 
-- Planning and implementing an efficient monitoring programme Nationally, Provincially and at Zonal level
+3. Planning and implementing an efficient monitoring programme Nationally, Provincially and at Zonal level
 
 ## 4.7 Conclusion
 
@@ -4063,23 +3987,23 @@ Through the new comprehensive and continuous evaluation process, schools would b
 
 113
 
+5
+
+# Non – Formal Education.
+
 ## 5.1 Definitions.
 
-There are no universally accepted definitions in the field of social sciences. Education is also a  social  science,  which  cannot  be  defined  precisely.  Hence  there  is  no  universally  agreed definition of non-formal education.
+There are no universally accepted definitions in the field of social sciences. Education is also a social science, which cannot be defined precisely. Hence there is no universally agreed definition of non-formal education.
 
-The  activities  that  have  taken  place  outside  the  formal  education  system  and  directed towards the fulfillment of the learning needs of a group of learners can be considered as nonformal education. A  non-formal  education  facilitates a learning process that  would eventually  benefit  the  targeted  learners  to  develop  a  set  of  knowledge  skills  and  attitudes required to make their future lives more successful. Such knowledge skills and attitudes are developed  based  on  their  present  levels  of  knowledge  skills  attitudes  and  wishes  of  the learners.
+The activities that have taken place outside the formal education system and directed towards the fulfillment of the learning needs of a group of learners can be considered as non-formal education. A non-formal education facilitates a learning process that would eventually benefit the targeted learners to develop a set of knowledge skills and attitudes required to make their future lives more successful. Such knowledge skills and attitudes are developed based on their present levels of knowledge skills attitudes and wishes of the learners.
 
 ## 5.2 History of Non formal educations in Sri Lanka.
 
-After  50  years  of  free  education  Sri  Lanka  has  gained  a  remarkable  development  in education.  The  main  thrust  was  in  the  field  of  formal  education.  During  the  last  three decades Non Formal education programmes has been introduced to the education system.
+After 50 years of free education Sri Lanka has gained a remarkable development in education. The main thrust was in the field of formal education. During the last three decades Non Formal education programmes has been introduced to the education system.
 
 The aim of the Non-formal education programmes was to open the doors of education to " Many" and specially those who were out of schools.
 
-Non-formal education programmes organized by government and non-government organizations to provide youth with a technical and vocational training. At the beginning these Non formal education programmes were confined to cater  to  the  educational  needs  of  school  leavers  and  adults  and  gradually  extended  its activities  to  serve  various  other  groups  in  the  community.  By  the  end  of  1980s  the  main  programmes conducted were Technical Education Units for school leavers, adult, community education, Adult English classes and literacy classes for out of school children. These programmes addressed the needs of various adult groups, Children who have left school but are not skilled, dropouts from the formal school, children who have never  been  to  a  school. Most  of  the  Non  formal  programmes  have  been  conducted
-
-5
-
-# Non - Formal  Education.
+Non-formal education programmes organized by government and non-government organizations to provide youth with a technical and vocational training. At the beginning these Non formal education programmes were confined to cater to the educational needs of school leavers and adults and gradually extended its activities to serve various other groups in the community. By the end of 1980s the main programmes conducted were Technical Education Units for school leavers, adult, community education, Adult English classes and literacy classes for out of school children. These programmes addressed the needs of various adult groups, Children who have left school but are not skilled, dropouts from the formal school, children who have never been to a school. Most of the Non formal programmes have been conducted
 
 [[END OF PAGE 124]]
 
@@ -4101,11 +4025,11 @@ Activity
 
 progress
 
-- Providing Educational opportunities for out of school children between 5-14 yrs
+1. Providing Educational opportunities for out of school children between 5-14 yrs
 
-- 1.1  Carrying  out  a  survey  to  identify  out  of  school  children which  has  been  already Completed
+1.1 Carrying out a survey to identify out of school children which has been already Completed
 
-- 1.2 300
+1.2 300
 
 ### 5.3.1  Non-Formal Education Programmes Sri Lanka.
 
@@ -4161,14 +4085,13 @@ Figure  1:3:1  shows  the  increasing  number  of  students  enrolled  to  liter
 
 #### Technical Centres
 
-
-Number of Students
-
-Full time technical courses for school leavers and school dropouts conduct at Technical  Units  throughout  the  country.  These  courses  are  very  popular  among  youth. Under this programme the MOE has organized part time courses too.
+Full time technical courses for school leavers and school dropouts conduct at Technical Units throughout the country. These courses are very popular among youth. Under this programme the MOE has organized part time courses too.
 
 Figure 1:3:2
 
 Number of Participated in Technical Courses
+
+Number of Students
 
 35000
 
@@ -4210,25 +4133,25 @@ According to the figure 1:3:2 nearly 30000 children are following these Technica
 
 Community  learning  centres  (CLC)  are  comparatively  a  new  concept  in  Non  Formal Education. With the aim of uplifting the standard of living of the community and to develop the community, the CLCs were started in year 2002 and there are 55 CLCs at present. The following activities are conducting in these CLCs.
 
-- Programmes on Basic Literacy functional literacy and post literacy.
+1. Programmes on Basic Literacy functional literacy and post literacy.
 
-- Income generating programmes.
+2. Income generating programmes.
 
 Table 1:3:1
 
-Province | No. Of Community Learning Centers | No. Of Programme | Participation
---- | --- | --- | --- | ---
-1 2 3 4 5 6 7 | North western North Central | 6 4 5 6 7 8 | 37 | 1115 862 1185 922 1540 1333 1231 1320
-38
-North Eastern | 11 | 76
-Sabaragamuwa | 35
-Uva | 42
-Southern | 51
-Central | 55
-8 | Western | 7 | 42
-55 | 376 | 9548
-
 No of CLCs in Sri Lanka by 2002.
+
+ | Province | No. Of Community Learning Centers | No. Of Programme | Participation
+--- | --- | --- | --- | ---
+1 | North western | 6 | 37 | 1115
+2 | North Central | 4 | 38 | 862
+3 | North Eastern | 11 | 76 | 1185
+4 | Sabaragamuwa | 5 | 35 | 922
+5 | Uva | 6 | 42 | 1540
+6 | Southern | 7 | 51 | 1333
+7 | Central | 8 | 55 | 1231
+8 | Western | 7 | 42 | 1320
+ |  | 55 | 376 | 9548
 
 Source: Literacy towards education NFE Branch MoE 2000
 
@@ -4248,17 +4171,20 @@ This programme is a new innovation in the field of NFE. These Activity Learning 
 
 This is an innovative activity started in year 2001. The MoE has initiated this programme to meet the needs of women's those who intend to go abroad for foreign employment. The aim of this programme is to give basic literacy to the above mentioned target group. This is an 18-day programme, which uses special non-formal teaching methods.
 
-Date | No of groups | No of | Participants | Total
---- | --- | --- | --- | ---
-2001.11.01 | 1 | 22 | 22
-2001.11.20
-2002.01.10 | 2 | 11 | 11 | 22
-2002.01.28
-2002.02.26 | 2 | 22 | 17 | 39
-2002.03.16
-2002.03.25 | 2 | 22 | 21 | 43
+Table 1:3:2
 
-Table 1:3:2 No of groups followed the literacy programme for migrant female workers.
+No of groups followed the literacy programme for migrant female workers.
+
+Date | No of groups | No of Participants |  | Total
+--- | --- | --- | --- | ---
+ |  | Sinhala | Tamil |
+2001.11.01 | 1 | 22 |  | 22
+2001.11.20 |  |  |  |
+2002.01.10 | 2 | 11 | 11 | 22
+2002.01.28 |  |  |  |
+2002.02.26 | 2 | 22 | 17 | 39
+2002.03.16 |  |  |  |
+2002.03.25 | 2 | 22 | 21 | 43
 
 [[END OF PAGE 129]]
 
@@ -4266,8 +4192,15 @@ Table 1:3:2 No of groups followed the literacy programme for migrant female work
 
 119
 
-2002.04.12 2002.04.18 2002.05.07 2002.06.03 2002.06.21 2002.07.08 2002.07.26 2002.08.05 | 2 2 2 2 | 18 27 23 26 | 24 20 17 22 | 42 47 40 48
---- | --- | --- | --- | ---
+2002.04.12 |  |  |  |
+2002.04.18 | 2 | 18 | 24 | 42
+2002.05.07 |  |  |  |
+2002.06.03 | 2 | 27 | 20 | 47
+2002.06.21 |  |  |  |
+2002.07.08 | 2 | 23 | 17 | 40
+2002.07.26 |  |  |  |
+2002.08.05 | 2 | 26 | 22 | 48
+2002.08.23 |  |  |  |
 Total | 15 | 171 | 132 | 303
 
 Source: Literacy towards development. NFE Branch, MoE,2000
@@ -4276,6 +4209,8 @@ Source: Literacy towards development. NFE Branch, MoE,2000
 
 According to the statistics of population of the provinces, an increase of population can be seen in year 2002. The literacy rate in each province is not available. The literacy rate in Sri Lanka in 2001 is 91.4%. There is no significant  change  in  the  literacy  rate  in  2002  when comparing with 2001.
 
+Table 2.1 Population
+
 Province | 2001 | 2002
 --- | --- | ---
 North western | 2157000 | 2187000
@@ -4283,8 +4218,6 @@ North Central | 1106000 | 1121000
 North Eastern | 2457000 | 2492000
 Sabaragamuwa | 1788000 | 1813000
 Uva | 1171000 | 1187000
-
-Table 2.1 Population
 
 [[END OF PAGE 130]]
 
@@ -4302,6 +4235,8 @@ Source: Provincial Returns
 
 When  considering  the  amount  of  money  allocated  to  various  literacy  programmes  at provincial level, Rs. 14307230/= has spent in 2001 while Rs. 11083012/= in 2002. Table 2.2 shows the amount of money allocated in each province on literacy programmes.
 
+Table 2:2 Expenditure on NFE programmes.
+
 Province | 2001 SL Rs. | 2002 SL Rs
 --- | --- | ---
 North western | 1606100 | 1434000
@@ -4314,8 +4249,6 @@ Central | 431800 | 151800
 Western | 434370 | 3163000
 Total | 14307230 | 11083012
 
-Table 2:2 Expenditure on NFE programmes.
-
 According to this table a decline of total amount of money allocated in 2002 can be seen One  of  the  reasons  for  this  decline  can  be  non-availability  of  data  in  North  East. When considering  the  provincial  data  most  of  the  provinces  shows  a  decrease  in  2002.  Only  Sabaragamuwa Province has an increase of Rs. 955925/=.
 
 [[END OF PAGE 131]]
@@ -4324,16 +4257,13 @@ According to this table a decline of total amount of money allocated in 2002 can
 
 121
 
-Expenditure Head | 2001 | 2002
---- | --- | --- | ---
-Allocation | Expenditure | Allocation Expenditure
-1. Adult Education (Local Foreign Aid) 2. Sri Lanka Student Action Plan. 3. Counseling fees for Community Education Organization. 4. Contribution in Schools of Physically disabled children. 5. Special Education and Counseling. 6. Supply of Spectacles for students. 7. In service Training. 8. Competitions, Exhibition, Function 9. Overtime as Holiday Pay 10. Technical courses for National Schools 11. Buildings Special Education Class room. 12. Buildings (Braille Press) 13. Equipment (Adult Centers) 14. Equipment (Braille Press)] | 4500000 14400000 2700000 17100000 45000 | 4488635 12764465 2400000 5000000 539325 | 4500000 5208600 16000000 2475445 1900000 1916148
-15. Equipment (Children Activity Plan) Total | 50,779,675 | 46107 270000 332050 563750
-350000 | 502400
-3547300 361225 1440000
-20,840,582 | 22,400,000 9,600,193
-
 Table 2:3 Expenditure on NFE in 2001 and 2002.
+
+Expenditure Head | 2001 |  | 2002
+--- | --- | --- | ---
+ | Allocation | Expenditure | Allocation Expenditure
+1. Adult Education (Local Foreign Aid) 2. Sri Lanka Student Action Plan. 3. Counseling fees for Community Education Organization. 4. Contribution in Schools of Physically disabled children. 5. Special Education and Counseling. 6. Supply of Spectacles for students. 7. In service Training. 8. Competitions, Exhibition, Function 9. Overtime as Holiday Pay 10. Technical courses for National Schools 11. Buildings Special Education Class room. 12. Buildings (Braille Press) 13. Equipment (Adult Centers) 14. Equipment (Braille Press)] 15. Equipment (Children Activity Plan) | 4500000 14400000 2700000 17100000 45000 350000 | 4488635 12764465 2400000 5000000 539325 46107 270000 332050 563750 502400 3547300 361225 1440000 | 4500000 5208600 16000000 2475445 1900000 1916148
+Total | 50,779,675 | 20,840,582 | 22,400,000 9,600,193
 
 [[END OF PAGE 132]]
 
@@ -4372,6 +4302,8 @@ When  analyzing  the  responses  given  to  4.1  in  the  questioner,  total  ex
 
 123
 
+Table 2.4 Expenditure on skill development programmes.
+
 Province | 2001 | 2002
 --- | --- | ---
 North western | 33,64,000.00 | 24,74,220.00
@@ -4384,17 +4316,15 @@ Central | 51,12,000.00 | 33,09,000.00
 Western | 47,45,325.00 | 49,02,880.00
 Total | 1,90,94,345.00 | 1,66,65,640.00
 
-Table 2.4 Expenditure on skill development programmes.
-
 It  also  appears  an  increase  in  expenditure  at  a  considerable  amount  in  North  Central  and Southern Provinces.
 
 The activities implemented for skill development in the provinces are stated in table 2.5.
 
+Table 2.5 Skills Development Programmes.
+
 Activity | No. Of Provinces implemented the activity.
 --- | ---
 1. Technical and Vocational Courses. | 7
-
-Table 2.5 Skills Development Programmes.
 
 [[END OF PAGE 134]]
 
@@ -4402,33 +4332,31 @@ Table 2.5 Skills Development Programmes.
 
 124
 
-2. Interest groups programmes. 3. Courses in Community learning centres. 4. Programmes conducted in national schools. (Computer, AC/RF, Radio, Mechanism) | 3
---- | ---
-4
-3
+2. Interest groups programmes. | 3
+3. Courses in Community learning centres. | 4
+4. Programmes conducted in national schools. (Computer, AC/RF, Radio, Mechanism) | 3
 5. Programmes to introduce Market. | 1
 6. Guidance and Drug preventive programmes. | 1
-7. Care development programmes.
-8. Training programmes for instructors and project officers. | 1 2
+7. Care development programmes. | 1
+8. Training programmes for instructors and project officers. | 2
 9. Equipment for adult Education Programmes. | 1
 
 According to the response given, it is clear that Technical Courses for School leavers and out of  school  children  have  been conducting in every province. This includes 6 months and 8 months courses.
+
+Table 2.6 the most successful NFE programme in the province.
 
 Activity | No of provinces
 --- | ---
 Community Learning Centers. | 7
 Interests group programmes. | 3
-Technical & Vocational training for school | 4
-leavers/youth
+Technical & Vocational training for school leavers/youth | 4
 Functional Literacy Centres. | 2
 Adult Literacy / English Classes. | 1
 Literacy classes. | 1
 
-Table 2.6 the most successful NFE programme in the province.
-
 The respondents were  asked  to  state  the  progress  of  more  successful  programmes  in  their province. The responses can be stated as above.
 
-The  majority  of  provinces  considered  the  CLC  programmes  as  their  most  successful programme. As mentioned in the table, these CLC are popular in 7 provinces while technical and  vocational  training  courses  are  popular  in  4  provinces.  Although  the  CLS  is  a  new programme there are 55 CLC centers established island wide. 376 programmes have been conducting  in  these  centres.  These  centres  provide  opportunities  to  meet  specific  learning needs of different target groups particularly in the rural areas.
+The majority of provinces considered the CLC programmes as their most successful programme. As mentioned in the table, these CLC are popular in 7 provinces while technical and vocational training courses are popular in 4 provinces. Although the CLS is a new
 
 [[END OF PAGE 135]]
 
@@ -4436,11 +4364,15 @@ The  majority  of  provinces  considered  the  CLC  programmes  as  their  most 
 
 125
 
+programme there are 55 CLC centers established island wide. 376 programmes have been conducting in these centres. These centres provide opportunities to meet specific learning needs of different target groups particularly in the rural areas.
+
 ### 5.4.2  NGO  involvement in Non formal Education Programmes in provinces.
 
 Although the provision NFE Activities in Sri Lanka are carried out by the Central Government (MoE) and Provincial Authorities. The NGOs, Service organizations and other private parties play a vital role in assisting these programmes.
 
 The NGO involvement in NFE is stated in table 2.7.
+
+Table 2. 7 NGOs and Private Organizations involved in NFE Programmes.
 
 Province | Organization | Programme
 --- | --- | ---
@@ -4449,26 +4381,27 @@ North Central | Samadeepa (Peace) Lama Rekawarane (Child Protection) | Community
 North Eastern | UNICEF | Literacy programmes, Computer training.
 Sabaragamuwa | UNICEF, ILO- IPEC Save The Children | Literacy classes, Activity learning centers. ECCE programmes.
 
-Table 2. 7 NGOs and Private Organizations involved in NFE Programmes.
-
 [[END OF PAGE 136]]
 
 [[START OF PAGE 137]]
 
 126
 
-Uva Southern Central Western | Norway UK Not any NGO involvement in NFE activities. ILO - IPEC Save The Children Women's' Development Center. Plan International Sarvodaya. Vision International UNESCO Sarwodaya Lions Club. FERUT ,UNESCO | Functional literacy centers. ECCE programme Income generating programmes. Community works. ECCE programmes. Special Education Activities. Literacy programmes. Vocational Training Vocational Training.
---- | --- | ---
+ | Norway UK | 
+Uva | Not any NGO involvement in NFE activities. | 
+Southern | ILO – IPEC Save The Children | Functional literacy centers. ECCE programme
+Central | Women’s' Development Center. Plan International Sarvodaya. Vision International | Income generating programmes. Community works. ECCE programmes. Special Education Activities.
+Western | UNESCO Sarwodaya Lions Club. FERUT ,UNESCO | Literacy programmes. Vocational Training Vocational Training.
 
 According  to  the  above  table  all  the  provinces  except  North  and  East  are  getting  the assistance of NGOs. Respondent in North East stated that there is no NGOs involvement in the province.
 
 The respondents were asked to state the UNESCO involvement in NFE at provincial level and their responses are shown in the table.
 
+Table 2.8 The UNESCO involvements in NFE in 2001 - 2002.
+
 Province | Involvement of UNESCO | Funds Allocated (Rs.)
 --- | --- | ---
-North West | Not involved
-
-Table 2.8 The UNESCO involvements in NFE in 2001 - 2002.
+North West | Not involved |
 
 [[END OF PAGE 137]]
 
@@ -4476,19 +4409,24 @@ Table 2.8 The UNESCO involvements in NFE in 2001 - 2002.
 
 127
 
-North Central North and East Sabaragamuwa Uva Southern Central Western | , , , , , Provide learning materials and handbooks. Provide training abroad for NFE instructors. Building reconstruction Learning material Allowances to OIC/NFE Allowance to instructors Traveling and supervision. 36000 | 100000 30000 36000 108000
---- | --- | ---
+North Central | , |
+North and East | , |
+Sabaragamuwa | , |
+Uva | , |
+Southern | , |
+Central | Provide learning materials and handbooks. Provide training abroad for NFE instructors. |
+Western | Building reconstruction Learning material Allowances to OIC/NFE Allowance to instructors Traveling and supervision. | 100000 30000 36000 108000 36000
 
 According to the responses UNESCO is involved in NFE activities only in Western province and Southern province.
 
 As  discussed  earlier,  many  Non-formal  activities  have  been  conducting  through  out  the country. The number of students benefited by these programmes in year 2001 and 2002 is given in the questionnaire. The following table shows the numbers of students participated in NFE programmes in each province.
 
-Province | 2001 | 2002
---- | --- | --- | --- | --- | --- | ---
-Male | Female | Total | Male | Female | Total
-1. North Western | 1389 | 5552 | 6941 | 1726 | 5177 | 6903
-
 Table 2.9 Total numbers of students participated in NFE programmes 2001 and 2002.
+
+Province | 2001 |  |  | 2002 |  | 
+--- | --- | --- | --- | --- | --- | ---
+ | Male | Female | Total | Male | Female | Total
+1. North Western | 1389 | 5552 | 6941 | 1726 | 5177 | 6903
 
 [[END OF PAGE 138]]
 
@@ -4512,15 +4450,15 @@ When comparing the figures in the table there are no significant changes in 2002
 
 The respondents were asked to state the problems they face when the programmes are implementing. The responses can be listed under 5 main categories.
 
-- Problems related to financial allocations.
+1. Problems related to financial allocations.
 
-- Problems related to other physical facilities.
+2. Problems related to other physical facilities.
 
-- Problems related to human resources.
+3. Problems related to human resources.
 
-- Problems related to the quality of programmes
+4. Problems related to the quality of programmes
 
-- Others.
+5. Others.
 
 Three provinces have given priority to problems related to financial allocations. Although the financial allocations are there the authorities do not take action to send them in time to enable for implementing NFE programme as planned.
 
@@ -4534,14 +4472,21 @@ Priority  for  "  Lack  of  equipments"  has  given  by  two  provinces.  This  
 
 The  problems  related  to  human  resources  are  lack  of  trained  or  qualified  personnel  to conduct  programmes,  lack  of  opportunities  for  professional  development.  Two  provinces have given priority to this matter.
 
+Table 3:1 shows the priority numbers given to problems by each province.
+
 Province/Problem | N.W | N.C | N. E | Sa b | Uv a | Sout h | Cen | West
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-1.Problems related to Financial allocations 1.1 Allocations are not received in time. | 3 | 1 | 1 | 3 | 1
-2. Problems related to other physical facilities. 2.1 Lack of equipments, row material, Machines etc. 2.2 Lack of space to conduct programmes. | 1 | 1 | 2 | 3 2 | 3
-3. Problems related to human resources. 3.1 Lack of qualified personnel. 3.2 Difficulty to get qualities persons because of low payments. 3.3 Lack of opportunity for professional development. | 1 | 3 | 1 | 1
-4. Problems related to quality of NFE programme. 4.1 Curricula are not standardized. | 2 | 2
-
-Table 3:1 shows the priority numbers given to problems by each province.
+1.Problems related to Financial allocations
+1.1 Allocations are not received in time. | 3 |  |  | 1 | 1 | 3 | 1 | 
+2. Problems related to other physical facilities.
+2.1 Lack of equipments, row material, Machines etc. | 1 |  | 1 |  | 2 | 3 | 3 | 
+2.2 Lack of space to conduct programmes. |  |  |  |  |  | 2 |  | 
+3. Problems related to human resources.
+3.1 Lack of qualified personnel. | 1 |  |  |  |  |  |  | 1
+3.2 Difficulty to get qualities persons because of low payments. |  |  |  |  | 3 |  |  | 
+3.3 Lack of opportunity for professional development. |  |  |  |  |  | 1 |  | 
+4. Problems related to quality of NFE programme.
+4.1 Curricula are not standardized. | 2 |  |  |  |  |  | 2 |
 
 [[END OF PAGE 140]]
 
@@ -4549,8 +4494,10 @@ Table 3:1 shows the priority numbers given to problems by each province.
 
 130
 
-5.Others. 5.1 Lack of employment opportunities for trainees. 5.2 Lack of awareness among community. Difficult to enter the market after following income- generating programme.
----
+5.Others.
+5.1 Lack of employment opportunities for trainees. |  |  | 3 |  |  |  |  | 
+5.2 Lack of awareness among community. |  | 2 |  |  |  |  |  | 
+Difficult to enter the market after following income-generating programme. |  | 3 |  |  |  |  |  |
 
 ## 5.6 Suggestions
 
@@ -4592,7 +4539,7 @@ Infrastructure facilities should be developing to conduct NFE programmes effecti
 
 ## 5.7 Conclusion.
 
-This  study  was  conducted  to  collect  data  and  information  regarding  the  Non  formal education  in  Sri  Lanka.  The  aim  of  conducting  study  is  to  see  whether  the  Non-formal education activities could fulfill the needs to achieve "Education For All". By the other hand this  study  reveals  the  problems  of  conducting  Non-formal  activities  in  the  provincial  and zonal levels. Suggestions to improve and expand Non-formal activated are also collected in this study.
+This study was conducted to collect data and information regarding the Non formal education in Sri Lanka. The aim of conducting study is to see whether the Non-formal education activities could fulfill the needs to achieve "Education For All". By the other hand
 
 [[END OF PAGE 142]]
 
@@ -4600,7 +4547,9 @@ This  study  was  conducted  to  collect  data  and  information  regarding  the
 
 132
 
-The  data  show  that  there  are  considerable  numbers  of  Non-formal  activities  have  been conducting in every province. These programmes can be categories as literacy programmes and  skill  development  programmes  literacy  programmes  are  designated  to  meet  the educational needs of out of school children.
+this study reveals the problems of conducting Non-formal activities in the provincial and zonal levels. Suggestions to improve and expand Non-formal activated are also collected in this study.
+
+The data show that there are considerable numbers of Non-formal activities have been conducting in every province. These programmes can be categories as literacy programmes and skill development programmes literacy programmes are designated to meet the educational needs of out of school children.
 
 Thus adult illiteracy is declining though exact numbers are not available. Skills development programme have introduced by MoE and NGOs and voluntary organizations. It is worth noting that there is trend of entering international voluntary organizations such as UNICEF to  the  field  of  NFE  in  North  and  East  (war  affected)  provinces.  Community  Learning Centers are one of the most popular, skill development programmes in the island.
 
@@ -4610,13 +4559,13 @@ Thus adult illiteracy is declining though exact numbers are not available. Skill
 
 ## 6.1 Publications
 
-- UNESCO courier Sinhala Magazine published in 06 volumes with 3500 copies each. They  were  freely  distributed  among  Mha  Vidyala,  Vidyalaya  and  privenas  while copies were posted to those who contributed and actions as taken t sell the balance number of copies.
+1. UNESCO courier Sinhala Magazine published in 06 volumes with 3500 copies each. They were freely distributed among Mha Vidyala, Vidyalaya and privenas while copies were posted to those who contributed and actions as taken t sell the balance number of copies.
 
-- Courier  Tamil  Magazine  06  volumes  were  brought  down  from  Madras  and  they were freely distributed to the Tamil schools.
+2. Courier Tamil Magazine 06 volumes were brought down from Madras and they were freely distributed to the Tamil schools.
 
-- UNESCO News letter was published in 06 volumes with 3500 copies in each and they  were  freely  distributed  among  the  Maha  Vidyalaya,  Madya  Maha  Vidyalaya and pirivenas.
+3. UNESCO News letter was published in 06 volumes with 3500 copies in each and they were freely distributed among the Maha Vidyalaya, Madya Maha Vidyalaya and pirivenas.
 
-- The  Sinhala  book  titled  Good  Teacher,  Good  child  and  Good  Parents,  was published with 5000 copies and they were also freely distributed.
+4. The Sinhala book titled Good Teacher, Good child and Good Parents, was published with 5000 copies and they were also freely distributed.
 
 [[END OF PAGE 143]]
 
@@ -4626,9 +4575,9 @@ Thus adult illiteracy is declining though exact numbers are not available. Skill
 
 ## 6.2 Exhibitions
 
-- Participation for the "Nenasara" Education and trade stall conducted in Chandrajothi Vidyalaya from 04 th April to 11 the April 2001.
+1. Participation for the "Nenasara" Education and trade stall conducted in Chandrajothi Vidyalaya from 04 th April to 11 the April 2001.
 
-- Participation for the Educational Book Exhibition held in Public Library Colombo from 10 th May to 14 th May 2001.
+2. Participation for the Educational Book Exhibition held in Public Library Colombo from 10 th May to 14 th May 2001.
 
 ## 6.3 Competitions
 
@@ -4658,44 +4607,25 @@ Thus adult illiteracy is declining though exact numbers are not available. Skill
 
 Training Sessions | Venue | Participants | Date
 --- | --- | --- | ---
-Use of Electronic Media In university science Training - workshop | New Delhi in India | Dr. G.A.C Gomeze Senior Lecturer Physical Section University of Colombo.
-Joint South Asian Initiative on improving Learning Achievement of | Islamabad | Mrs. M.D.I.N Siriwardane | 20-21 March 2001
-Literacy of Non - Formal Education as a Means of 2001 Poverty alleviation | Dakar | Mr. S. Kaluarachi Addi. Director of Education Uva Provincial Education | 29-31 July
-Invitation to the 2001 26-30 | ACCE | Mr. K.L. Premachandra
-ACCU- APPEAL Join Planning Meeting on Regional NFE | Japan | D.D.U. Ministry of Education | June 2001
-UNESCO - NISSAT 18-22 Regional Training on | Mysore India | Mrs. G. Amara Nanayakkara | June
-
+Use of Electronic Media In university science Training – workshop | New Delhi in India | Dr. G.A.C Gomeze Senior Lecturer Physical Section University of Colombo. |
+Joint South Asian Initiative on improving Learning Achievement of Primary school children – Workshop. | Islamabad | Mrs. M.D.I.N Siriwardane | 20-21 March 2001
+Literacy of Non – Formal Education as a Means of Poverty alleviation | Dakar | Mr. S. Kaluarachi Addi. Director of Education Uva Provincial Education Office | 29-31 July 2001
+Invitation to the 2001 ACCU- APPEAL Join Planning Meeting on Regional NFE Programmes in Asia and The pacific Training programme | ACCE Japan | Mr. K.L. Premachandra D.D.U. Ministry of Education | 26-30 June 2001
+UNESCO – NISSAT Regional Training on | Mysore India | Mrs. G. Amara Nanayakkara | 18-22 June
 [[END OF PAGE 145]]
 
 [[START OF PAGE 146]]
 
 135
 
-creation and Management | Chief Librarian | 2001
---- | --- | --- | ---
-on Digital Resources - | National Library
-Training Session. | And Documentation
-Service Board
-Regional Training | Vientance | Mr. K.A.H. Kalugampitiya | 01-03
-Programme of experts in October | Laos | Director
-Biodiversing systematic | National Technical | 2001
-Evaluation and Monitoring | Education Institute
-With emphasis medition | 100, Kandawala Road.
-Plants - Training Programme | Ratmalana.
+creation and Management on Digital Resources – Training Session. |  | Chief Librarian National Library And Documentation Service Board | 2001
+Regional Training Programme of experts in Biodiversing systematic Evaluation and Monitoring With emphasis medition Plants – Training Programme | Vientance Laos | Mr. K.A.H. Kalugampitiya Director National Technical Education Institute 100, Kandawala Road. Ratmalana. | 01-03 October 2001
 ### Work Shops and Seminars
 Training Sessions | Venue | Participants | Date
-Workshop in promotion 16-20 April | Chandigar | Mrs.G.K. Nanayakkara
-Of science technology & | India | A.D.E. | 2001
-Environment | Ministry of Education
-UNESCO - APNIEVE 10 -13 | Icon | Mrs. A.P. Sugathapala
-and ACEIU teacher Korea | Kuliyapitiya M.M.V. | July
-Training & Education for living together in | Kuliyapitiya
-peace and Harmony
-ACCU international Nara | Mr. I.D. Wijethilaka | 17-30
-Exchange Programme Japan | Asst. Director
-October under the UNESCO | Archaeological | 2001
-Japan funds in- trust | Department
-for the promotion | Sri Marcus Fernando MW
+--- | --- | --- | ---
+Workshop in promotion Of science technology & Environment | Chandigar India | Mrs.G.K. Nanayakkara A.D.E. Ministry of Education | 16-20 April 2001
+UNESCO – APNIEVE and ACEIU teacher Training & Education for living together in peace and Harmony | Icon Korea | Mrs. A.P. Sugathapala Kuliyapitiya M.M.V. Kuliyapitiya | 10 –13 July
+ACCU international Exchange Programme under the UNESCO Japan funds in- trust for the promotion | Nara Japan | Mr. I.D. Wijethilaka Asst. Director Archaeological Department Sri Marcus Fernando MW | 17-30 October 2001
 
 [[END OF PAGE 146]]
 
@@ -4703,52 +4633,22 @@ for the promotion | Sri Marcus Fernando MW
 
 136
 
-of international cooperation and mutual | Colombo 07
---- | --- | --- | ---
-understanding
-International seminar | Tokyo | Mr. S.U. Wijerathna | 10-21
-On partnership in | Japan | Director of Education
-September
-Education | (Planing) Ministry of | 2001
-Education.
-Regional workshop for | Konju | Mr. P.B. Mandawala | 11-13
-The participation of | Korea | Director Central Cultura | July
-Periodic reports in the | fund, 212/1, Bauddhaloka
-World cultural heritage | Mawatha, Colombo 7
-Sites in Asia and Pacific
-International forum on | Beijing | Prof. Carlo Fonseka | 12-15
-Quality improvement in | China | Secretary General | June
-Education the 21 st century | Sri Lanka National | 2001
-UNESCO commission
-The 5 th Arirang Youth | Korea | 1. Kamalka Malwatta | 8-13
-Camp from 8 - 13 August | Visaka Vidyalaya | August
-2001 in Korea two children | 2. Fathima Raida Raleen | 2001
-participating for the camp | St. Pauls Balika Vidyalaya
-Sub regional orientation | New | 1. R.S. Medagama
-Training workshop on | Delhi | Director General
-Planning & monitoring of | Ministry of Education
-EFA in South Asia
-22 | 2. M.D.I.N Siriwardana
-
+of international cooperation and mutual understanding |  | Colombo 07 |
+International seminar On partnership in Education | Tokyo Japan | Mr. S.U. Wijerathna Director of Education (Planing) Ministry of Education. | 10-21 September 2001
+Regional workshop for The participation of Periodic reports in the World cultural heritage Sites in Asia and Pacific | Konju Korea | Mr. P.B. Mandawala Director Central Cultura fund, 212/1, Bauddhaloka Mawatha, Colombo 7 | 11-13 July 2001
+International forum on Quality improvement in Education the 21 st century | Beijing China | Prof. Carlo Fonseka Secretary General Sri Lanka National UNESCO commission | 12-15 June 2001
+The 5 th Arirang Youth Camp from 8 - 13 August 2001 in Korea two children participating for the camp | Korea | 1. Kamalka Malwatta Visaka Vidyalaya 2. Fathima Raida Raleen St. Pauls Balika Vidyalaya | 8-13 August 2001
+Sub regional orientation Training workshop on Planning & monitoring of EFA in South Asia | New Delhi | 1. R.S. Medagama Director General Ministry of Education 2. M.D.I.N Siriwardana | 22
 [[END OF PAGE 147]]
 
 [[START OF PAGE 148]]
 
 137
 
-Director of Education | Oct. to
---- | --- | --- | ---
-Education for All Branch03 Nov.
-2001
-seminar in Education | Japan | D.D.E Zonal | Education
-- seminar | Office, Horana
-Regional seminar on | NIER | Mrs. D.H.A.A.M | 28
-Foreign/ Second Language Education in Asia and The Pacific region seminar | Japan | Pilomina Director of Education English & Foreign | to Dec. 2001
-31 st UNESCO General Assembly | Paris | Dr. Sarath Amunugama Hon. Minister of
-Education and Higher Education Prof. R.P. Gunawardana | 15 Oct.
-Secretary, Ministry of | 03
-Higher Education | 2001
-Prof. Carlo Fonseka Secretary General
+ |  | 2. M.D.I.N Siriwardana Director of Education Education for All Branch 3. Mr. N. Dharmasena Director of Education Non- Forma Branch Ministry of Education | Oct. to 03 Nov. 2001
+seminar in Education - seminar | Japan | D.D.E Zonal Education Office, Horana | Nov.2001
+Regional seminar on Foreign/ Second Language Education in Asia and The Pacific region seminar | NIER Japan | Mrs. D.H.A.A.M Pilomina Director of Education English & Foreign Language Unit Ministry of Education | 28 Nov. to Dec. 2001
+31 st UNESCO General Assembly | Paris | Dr. Sarath Amunugama Hon. Minister of Education and Higher Education Prof. R.P. Gunawardana Secretary, Ministry of Higher Education Prof. Carlo Fonseka Secretary General Sri Lanka – UNESCO | 15 Oct. to 03 Nov. 2001
 
 [[END OF PAGE 148]]
 
@@ -4758,17 +4658,7 @@ Prof. Carlo Fonseka Secretary General
 
 Commission
 
-Regional Seminar | Kyoto | Mrs. P.A. Kuruppu | 28 | to
---- | --- | --- | --- | ---
-30
-Towards the Gender | Japan | D.D. Education
-November
-Equality in Basic | Ministry of Education | 2001
-Education Major
-Challenges to meet he Dakar
-EFA Goals in Asia - Conference
-
-to
+Regional Seminar Towards the Gender Equality in Basic Education Major Challenges to meet he Dakar EFA Goals in Asia – Conference | Kyoto Japan | Mrs. P.A. Kuruppu D.D. Education Ministry of Education | 28 to 30 November 2001
 
 Under the UNESCO cooperation programme a sum of Rs. 1221860.50 was obtained from the  head  quarters  in  Paris  and  this  amount  was  provided  to  the  various  institutions  as mentioned below; for project work
 
@@ -4790,7 +4680,7 @@ Project | Institution | Amount Rs. Cts.
 6. National level assessment of minimum literacy competencies for effective school learning | National Institute of Education | 13,47,600.00
 7. Eco- tourism for forest conversation | Ministry of Forest Resources and Environment | 13,47,600.00
 
-- P.S.  Regarding  Project  nos.  03  and  07  of  the  above  projects  the  relevant  institutions  have informed that they are unable to do this projects and accordingly the amount allocated to them was deposited in the General Deposit Account of the Government and they were requested to take necessary action to start the projects during year 2002.
+P.S. Regarding Project nos. 03 and 07 of the above projects the relevant institutions have informed that they are unable to do this projects and accordingly the amount allocated to them was deposited in the General Deposit Account of the Government and they were requested to take necessary action to start the projects during year 2002.
 
 Financial provision for sum of Rs. 250000/= was allocated to the Epilepsy Prevention task force for the purpose of providing awareness to teachers and children relating to prevention of Epilepsy.
 
@@ -4810,25 +4700,23 @@ Conducting the Training workshop for provincial Director of Education for the pu
 
 A sum of Rs. 300,518.50 received by the sale of UNESCO publications during the year 2001 has been credited to the UNESCO fund started by the Sri Lanka UNESCO commission for the use of disabled and dis- placed children.
 
-## Foreign Training Seminars Workshops
+## 6.7 Foreign Training Seminars Workshops
 
-- 2002 ACCU - Appeal joint planning meeting on Regional NFE programmes in Asia and  Pacific  9  -  13  July  2002  Tokyo  Japan.  Participated  Ms.  R.A.M.R  Herath, Director of Education Department, Colombo.
+1. 2002 ACCU - Appeal joint planning meeting on Regional NFE programmes in Asia and Pacific 9 - 13 July 2002 Tokyo Japan. Participated Ms. R.A.M.R Herath, Director of Education Department, Colombo.
 
-- 20 th Regional workshop on capacity building for trainers of NFE facilitators in Asia and Pacific 3 rd - 12 December 2002 in Mayamar.  Mr. Jagath Dhrmapriya, project officer, Provincial Education Office Kandy Participated.
+2. 20th Regional workshop on capacity building for trainers of NFE facilitators in Asia and Pacific 3rd - 12 December 2002 in Mayamar. Mr. Jagath Dhrmapriya, project officer, Provincial Education Office Kandy Participated.
 
-- Regional Workshop fir cultural personal in Asia and the Pacific on he promotion of the proclamation of master places of the oral and intangible heritage of humanity 12 th
+3. Regional Workshop fir cultural personal in Asia and the Pacific on he promotion of the proclamation of master places of the oral and intangible heritage of humanity 12th - 16th March 2002. Mr Nawarathna Ravibandu Vidyaapathi, Artistic Director participated the workshop.
 
-- 16 th March  2002.  Mr  Nawarathna  Ravibandu  Vidyaapathi,  Artistic  Director participated the workshop.
+4. Sub regional training workshop on capacity building for CLC personal on management and implementation of CE activities from 20th - 25th - May Dhakar. Mr. W.R.G. Wickramasinghe, Project Officers NFE Branch in the Ministry of Human Resources Development, Education And Cultural Affairs and Mr. Ravindra Ariyavikrama Senior Executive Assistant, Sarvodaya has been participated.
 
-- Sub regional training workshop  on capacity building for CLC  personal on management and implementation of CE activities from 20 th -  25 th -  May  Dhakar. Mr.  W.R.G.  Wickramasinghe,  Project  Officers  NFE  Branch  in  the  Ministry  of Human Resources Development, Education And Cultural Affairs and Mr. Ravindra Ariyavikrama Senior Executive Assistant, Sarvodaya has been participated.
+5. The 22nd Asia pacific international seminar on special Education from 11th - 16th November in 2002 in Yokohama. Ms. Hema Malini Perera Deputy Director, Ministry of HRDE & CA participated the above workshop.
 
-- The  22 nd Asia  pacific  international  seminar  on  special  Education  from  11 th -  16 th November  in  2002  in  Yokohama.  Ms.  Hema  Malini  Perera  Deputy  Director, Ministry of HRDE & CA participated the above workshop.
+6. Training courses on conservation training structures in Asia Pacific formal 14th 16th November 2002 M.D.A. Rasika Dissanayake senior technical officer, conservation Department of Archaeology Colombo - 07 has been participated.
 
-- Training courses on conservation training structures in Asia Pacific formal 14 th 16 th November 2002 M.D.A. Rasika Dissanayake senior technical officer, conservation Department of Archaeology Colombo - 07 has been participated.
+7. xxxviii session of the advanced training programmed in Education Planning & management from 31st May 2002 in Paris. Participated the Director Policy Planning and Monitoring Division M/O/E
 
-- xxxviii  session  of  the  advanced  training  programmed  in  Education  Planning  & management from 31 st May 2002 in Paris. Participated the Director Policy Planning and Monitoring Division M/O/E
-
-- Regional  seminar  on  implementing  the  UNESCO  Recommendation  concerning technical  and  vocational  Education  and  ILO  conclusions  concerning  Human Resources  Training  and  development  from  24 th September  -  02 nd October  2002
+8. Regional seminar on implementing the UNESCO Recommendation concerning technical and vocational Education and ILO conclusions concerning Human Resources Training and development from 24th September - 02nd October 2002
 
 [[END OF PAGE 151]]
 
@@ -4840,29 +4728,29 @@ Tokyo  Japan.  Mr.  P.M.  Leelarathne,  Director  General,  Tertiary  and  Vocat
 
 ## 6.8 Local Workshops
 
-- Sri  Lanka  National  Commission  for  UNESCO  has  organized  a  workshop  on scientific  and  Technological  Literacy  for  all  with  the  assistance  of  Ministry  of Education. Ms. Maria Malvari, New Delhi UNESCO office has been participated.
+1. Sri Lanka National Commission for UNESCO has organized a workshop on scientific and Technological Literacy for all with the assistance of Ministry of Education. Ms. Maria Malvari, New Delhi UNESCO office has been participated.
 
-- Sri Lanka National Commission for UNESCO and with assistance of the Education for All Unit Organized a workshop on Network and Education. Ms. Linda Fanels from Bangkok office has been participated.
+2. Sri Lanka National Commission for UNESCO and with assistance of the Education for All Unit Organized a workshop on Network and Education. Ms. Linda Fanels from Bangkok office has been participated.
 
 ## 6.9 Visit of Foreign Experts
 
-- Ms. Mario Takano, programme specialist Asia Pacific Cultural Center for UNESCO came for a research to establish a Literacy Resources Center in Sri Lanka.
+1. Ms. Mario Takano, programme specialist Asia Pacific Cultural Center for UNESCO came for a research to establish a Literacy Resources Center in Sri Lanka.
 
-- Ms.  Mario  Takano  and  her  Director  Ms.  Shibao  Tomoko  came  for  a  research regarding the establishment of a Literacy Resources Center in Sri Lanka.
+2. Ms. Mario Takano and her Director Ms. Shibao Tomoko came for a research regarding the establishment of a Literacy Resources Center in Sri Lanka.
 
-- Under  the orientation  programme  Ms.  Rafiza  Hashni  and  Shahnaz  Begam, programme, programme  officers, from Bangladesh National Commission  for UNESCO  for  a  study  the  Management  of  Sri  Lanka  National  Commission  for UNESCO on 17 th  - 23 rd November 2002.
+3. Under the orientation programme Ms. Rafiza Hashni and Shahnaz Begam, programme, programme officers, from Bangladesh National Commission for UNESCO for a study the Management of Sri Lanka National Commission for UNESCO on 17th - 23rd November 2002.
 
-- Prof.s. Chawhry came for a discussion on the workshop on HIV/AIDS prevention and care on 18 th 21 st December 2002
+4. Prof.s. Chawhry came for a discussion on the workshop on HIV/AIDS prevention and care on 18th 21st December 2002
 
 ## 6.10 Competitions
 
-- Submission of entries to the Asia pacific Cultural Centers for the photo contest.
+1. Submission of entries to the Asia pacific Cultural Centers for the photo contest.
 
-- Submission  of  entries  to  the  Noma  concurs  competition  in  Asia  pacific  Cultural Centers UNESCO.
+2. Submission of entries to the Noma concurs competition in Asia pacific Cultural Centers UNESCO.
 
-- Submission of entries to the 08 th International Caricature Contest " Women's World"
+3. Submission of entries to the 08th International Caricature Contest " Women's World"
 
-- Submission of entries to the 12 th Kanagawa Biennal world children's exhibition.
+4. Submission of entries to the 12th Kanagawa Biennal world children's exhibition.
 
 [[END OF PAGE 152]]
 
@@ -4870,15 +4758,15 @@ Tokyo  Japan.  Mr.  P.M.  Leelarathne,  Director  General,  Tertiary  and  Vocat
 
 142
 
-- Translated  the  book  "Tell  me  About  UNESCO"  in  Sri  Lanka  and  Tamil  and preparing for print. 8000 copies in Sinhala version and 2500 copies in Tamil version.
+5. Translated the book "Tell me About UNESCO" in Sri Lanka and Tamil and preparing for print. 8000 copies in Sinhala version and 2500 copies in Tamil version.
 
-- Translated  the  book  "Learning  the  way  of  peace"  A  teacher's  guide  to  peace Education in to Sinhala and Tamil.
+6. Translated the book "Learning the way of peace" A teacher's guide to peace Education in to Sinhala and Tamil.
 
 ## 6.11 Celebration of the Following UNESCO Days
 
-- To celebrate the Tolerance day on 16 th November organization programme among the Associated Project.
+1. To celebrate the Tolerance day on 16th November organization programme among the Associated Project.
 
-- International science Day - 10 November. A workshop on Peace and Development was held by Science Foundation under NATCOM sponsorship.
+2. International science Day - 10 November. A workshop on Peace and Development was held by Science Foundation under NATCOM sponsorship.
 
 [[END OF PAGE 153]]
 
@@ -4892,7 +4780,7 @@ Education is a Universal human right. Article  26 of  the  Universal  Declaratio
 
 Eliminating gender disparities in primary and secondary education by 2005 and achieving gender equality in education by 2015 has become a millenium goal. This becomes one of the Dakar goals as the World Forum 2000 yet extreme poverty could be eradicated in gender disparities are eliminated. The term "Gender" refers to the rules and responsibilities of men and women that are created in our families, our societies and cultures. The concept of gender also includes the expectations held about the characteristics, aptitudes and likely behavior of both  women  and  men.  (femininity  or  masculinity),  (Gender  workshop  in  Thailand)  Our analysis of the current position, problems, issues and disparities in education with reference to  gender  will  reveal  that  the  subordination  of  woman  is  socially  constructed  and  not biologically pre-determined. As this subordination is not forever we could look for ways and means of changing or ending it.
 
-In examining the relationship between gender and education it would be interesting to look at  education  from  the  "  capability  approach"  put  forward  by  Amartya  Sen,  a  leading advocate of a new thinking on development. According to him without a narrow focus on growth  in  perceptual  income  as  the  central  indicator  of  development,  he  emphasizes  the central to which peoples' capabilities have been improved to enjoy the freedoms that make life meaningful and worth while. In this respective he says education is important for three reasons  and  in  our  analysis  of  gender  and  education  in  Sri  Lanka  we  would  apply  his argument to see the relationship between these two variables as it would give a very clear picture regarding the correlation. Firstly Sen argues that the skills printed by basic education have their intrinsic world. Secondly education helps to overcome other negative features of life. He mentions education as leading to a reduction in child labour. This is quite ender in she Sri Lankan estate sector where most under educated mother send their daughters mostly as child labors. Thirdly education emphases those who suffer from multiple disadvantages. Therefore Sen says " Education has a powerful impact in addressing social and economics barriers within a society and is central to realizing human freedoms". This has been apply proud in Sri  Lanka  to  a  certain  extent,  where  girls  and  boys  who  received  free  education from the lower rungs of society have been able to climb up the social ladder and take over positions set apart for the English - educated elite.
+In examining the relationship between gender and education it would be interesting to look at education from the " capability approach" put forward by Amartya Sen, a leading advocate of a new thinking on development. According to him without a narrow focus on growth in perceptual income as the central indicator of development, he emphasizes the central to which peoples' capabilities have been improved to enjoy the freedoms that make life meaningful and worth while. In this respective he says education is important for three reasons and in our analysis of gender and education in Sri Lanka we would apply his argument to see the relationship between these two variables as it would give a very clear picture regarding the correlation. Firstly Sen argues that the skills printed by basic education have their intrinsic world. Secondly education helps to overcome other negative features of
 
 [[END OF PAGE 154]]
 
@@ -4900,13 +4788,17 @@ In examining the relationship between gender and education it would be interesti
 
 144
 
+life. He mentions education as leading to a reduction in child labour. This is quite ender in she Sri Lankan estate sector where most under educated mother send their daughters mostly as child labors. Thirdly education emphases those who suffer from multiple disadvantages. Therefore Sen says " Education has a powerful impact in addressing social and economics barriers within a society and is central to realizing human freedoms". This has been apply proud in Sri Lanka to a certain extent, where girls and boys who received free education from the lower rungs of society have been able to climb up the social ladder and take over positions set apart for the English - educated elite.
+
 ## Current State
 
 According  to  the  department  of  census  and  statistics  the  total  population  of  Sri  Lanka  is about  18.7  million.  Females  account  for  50.5  of  this  total  lack  out  of  a  total  student enrolment  of  4.19  million  only  50.1  is  female.  However  females  dominate  in  the  higher grades,  particularly  in  the  advanced  level  classes  although  statistics  reveal  that  the  total student enrolment female is lower number of enroles.
 
-Grade | Male | Female | Total
+Table 1 : Pupil population by grade and gender, 2001
+
+Grade | Male |  | Female |  | Total
 --- | --- | --- | --- | --- | ---
-No. | % | No. | %
+ | No. | % | No. | % |
 Grade 1 | 168,704 | 50.8 | 163,359 | 49.2 | 332,063
 Grade 2 | 172,648 | 51.0 | 165,846 | 49.0 | 338,494
 Grade 3 | 180,093 | 51.1 | 172,257 | 48.9 | 352,350
@@ -4928,8 +4820,6 @@ Grade 13 Commerce | 21,031 | 51.3 | 19,987 | 48.7 | 41,018
 Grade13 Science repeaters | 9,488 | 55.5 | 7,610 | 44.5 | 17,098
 Grade 13 Arts repeaters | 12,525 | 34.1 | 24,157 | 65.9 | 36,682
 Grade 13 Commerce repeaters | 11,186 | 53.3 | 9,782 | 46.7 | 20,968
-
-Table 1 : Pupil population by grade and gender, 2001
 
 [[END OF PAGE 155]]
 
@@ -4967,12 +4857,12 @@ The primary school enrolment for boys and girls in Sri Lanka.
 
 It is heartening to note that higher aspirations of parents for the education of their children, both boys and girls, have more or less eliminated gender disparities in school enrolment at national  level.  This  is  supplemented  by  the  provision  of  free  education  along  with  other ancillary  service  such  as  scholarships,  free  text  books  and  free  uniforms.  Yet  it  has  been found that 16.4 % of the girls in the age group 5-14 years, do not attend school. Despite all the facilities made available to them. Non-schooling and early school dropouts are high in economically and socially disadvantaged districts and in particular in the deprived areas such as urban slums, shanties and plantations. Ignorance of parents and also the fact that the elder child  is  made  use  for  baby  sitting  when  both  parents  go  to  work  in  the  paddy  fields  or plantations are contributory factors. Thus it can be seen that social economics factors rather than  gender  that  determines  the  education  opportunities  of  the  girl  child.  However  it  is heartening to note that a sharp increase in the literacy level among females has reduced the gender gap from 30 percentage points to 8 percentage points between 1946 to 1981.
 
-(Population over 10 years)
---- | --- | --- | --- | --- | --- | --- | ---
-Sex | 1946(1) | 1953 | 1963 | 1971 | 1981 | 1990/91* | 1994*
-Average | 57.8 | 69.0 | 77.0 | 78.5 | 87.2 | 86.6 | 90.1
-
 Table 2 : Literacy Rate by gender for census years
+
+(Population over 10 years)
+Sex | 1946(1) | 1953 | 1963 | 1971 | 1981 | 1990/91* | 1994*
+--- | --- | --- | --- | --- | --- | --- | ---
+Average | 57.8 | 69.0 | 77.0 | 78.5 | 87.2 | 86.6 | 90.1
 
 [[END OF PAGE 157]]
 
@@ -4992,6 +4882,8 @@ Source : Census of Population and Housing 1963, 1971, 1981 Household Income and 
 
 The  total  number  of  schools  in  Sri  Lanka  is  9,891.  Of  these  139  are  categorized  as  boys schools and 208 and girls schools in the secondary sector. But girls are at a disadvantage in certain instances when it comes to choice of schools as in certain areas girls schools are not available for higher studies. Therefore girls are forced to attend boys schools or they simply keep away as they dislike co-education. This gender disparity could be seen here.
 
+Table 3: Government schools by sex of pupils and functional grade of school
+
 Functional grade | Boys | Girls | Mixed | Total
 --- | --- | --- | --- | ---
 1AB Schools | 80 | 100 | 420 | 600
@@ -4999,8 +4891,6 @@ Functional grade | Boys | Girls | Mixed | Total
 Type 2 Schools | 32 | 30 | 4128 | 4190
 Type 3 Schools | 11 | 19 | 3304 | 3334
 Total | 139 | 208 | 9544 | 9891
-
-Table 3: Government schools by sex of pupils and  functional grade of school
 
 Source : School census, 2001
 
@@ -5011,20 +4901,6 @@ Ministry of Human Resources Development, Education and Cultural Affairs
 [[START OF PAGE 159]]
 
 148
-
-Male
-
-Science
-
-28.2%
-
-Arts
-
-38.6%
-
-Commerce
-
-33.1%
 
 Female
 
@@ -5039,6 +4915,20 @@ Arts
 Commerce
 
 24.3%
+
+Male
+
+Science
+
+28.2%
+
+Arts
+
+38.6%
+
+Commerce
+
+33.1%
 
 [[END OF PAGE 159]]
 
@@ -5124,15 +5014,15 @@ To serve the basic learning needs of all requires a greater commitment by all co
 
 The expanded vision encompasses
 
-- Universalizing access and promoting equity.
+1. Universalizing access and promoting equity.
 
-- Focusing on learning.
+2. Focusing on learning.
 
-- Broadening the means and scope of education
+3. Broadening the means and scope of education
 
-- Enhancing the environment for learning
+4. Enhancing the environment for learning
 
-- Strengthening Partnerships
+5. Strengthening Partnerships
 
 As an approach to achieve this expanded vision six dimensions have been introduced.
 
@@ -5156,15 +5046,15 @@ Accordingly, the process of establishing the Education for All Committees is bei
 
 Under the above circular Education for All committees are   scheduled to be established in five stages:
 
-- National Committee
+1. National Committee
 
-- Provincial Committees
+2. Provincial Committees
 
-- Zonal Committees
+3. Zonal Committees
 
-- Divisional Committees
+4. Divisional Committees
 
-- School Committees
+5. School Committees
 
 [[END OF PAGE 162]]
 
@@ -5174,31 +5064,31 @@ Under the above circular Education for All committees are   scheduled to be esta
 
 The  objectives  of  establishing  Education  for  All  committees  in  Sri  Lanka  are  indicated  as follows:
 
-- Plan  and  implement  programmes  based  on  the  objectives  prepared  according  to Education for All objectives mentioned above.
+1. Plan and implement programmes based on the objectives prepared according to Education for All objectives mentioned above.
 
-- Subjecting  the  programme  planned  and  being  implemented  for  evaluation  through  a continuous monitoring process.
+2. Subjecting the programme planned and being implemented for evaluation through a continuous monitoring process.
 
-- Progress Review
+3. Progress Review
 
-- Obtain  the  assistance  of  all  stakeholders  including  the  government  institutions,  Non government institutions and volunteer organizations.
+4. Obtain the assistance of all stakeholders including the government institutions, Non government institutions and volunteer organizations.
 
-- Minimize  the  gap  between  the  Formal  Education  and  Non  -  Formal  Education  by activating the Education for All committees.
+5. Minimize the gap between the Formal Education and Non - Formal Education by activating the Education for All committees.
 
-- Fulfill the indicators relevant to Education for All in Sri Lanka by activating the network of Education for All Committees.
+6. Fulfill the indicators relevant to Education for All in Sri Lanka by activating the network of Education for All Committees.
 
-- Obtain community participation to create a favorable environment for improvement of student performance and a positive Education for All.
+7. Obtain community participation to create a favorable environment for improvement of student performance and a positive Education for All.
 
-- Obtain participation for the provision of resources
+8. Obtain participation for the provision of resources
 
-- Set up a management pattern, which is transparent, and a favorable network within all sectors.
+9. Set up a management pattern, which is transparent, and a favorable network within all sectors.
 
-- Build up a data base relevant to Formal and Non- Formal Education in Sri Lanka
+10. Build up a data base relevant to Formal and Non- Formal Education in Sri Lanka
 
 We believe that in order to achieve the above the objectives, the Education for All committees should be effectively implemented in Sri Lanka. For this purpose, however we have identified that there are two main obstacles on its way.
 
-- Lack  of  sufficient  financial  provisions  for  providing  a  wider  awareness  relating  to  the objectives and vision of Education for All.
+1. Lack of sufficient financial provisions for providing a wider awareness relating to the objectives and vision of Education for All.
 
-- Lack of sufficient technological training and co-operation required for the implementations of Education for All programmes.
+2. Lack of sufficient technological training and co-operation required for the implementations of Education for All programmes.
 
 While revising the EFA plan of action for 2002 - 2004 submitted to the UNESCO in New Delhi, preliminary activities have been finalized relating   to the preparation of five-year plan for 2005 to 2008 and the long-term plan for 2008 to 1015.
 
@@ -5210,7 +5100,7 @@ The philosophy and vision behind the process of EFA is improvement of quality of
 
 152
 
-Finally  it  should  be  stated  that  the  present  National  education  policy  "under  new  education reforms' is expected to achieve nine National goals through development of basic and specific competences in  the learners.
+Finally it should be stated that the present National education policy "under new education reforms” is expected to achieve nine National goals through development of basic and specific competences in the learners.
 
 [[END OF PAGE 164]]
 
@@ -5238,17 +5128,17 @@ for furnishing of information
 
 ...............................................................
 
-- Has policy on early childhood care and education been formulated at provincial level?
+1. Has policy on early childhood care and education been formulated at provincial level?
 
-.............       Year .............
+............. Year .............
 
-- Details of the functioning pre schools in the province (state the number)
+2. Details of the functioning pre schools in the province (state the number)
 
-Under the Divisional Councils | Private Sector | Non government organizations | Volunteer Services
---- | --- | --- | ---
-Less than 50
-50 - 100
-Over 100
+ | Under the Divisional Councils | Private Sector | Non government organizations | Volunteer Services
+--- | --- | --- | --- | ---
+Less than 50 |  |  |  |
+50 - 100 |  |  |  |
+Over 100 |  |  |  |
 
 [[END OF PAGE 165]]
 
@@ -5256,49 +5146,38 @@ Over 100
 
 153
 
-- Amount spend on early childhood care and education
+3. Amount spend on early childhood care and education
+
+2001 | 2002
 
 3.1 ..........................................................................................................
-
 ..........................................................................................................
 
 3.2 ..........................................................................................................
-
 ..........................................................................................................
 
 3.3 ..........................................................................................................
-
 ..........................................................................................................
 
 3.4 ..........................................................................................................
-
 ..........................................................................................................
 
-- Information on the Directresses of Early Childhood Care and Education Centres
+4. Information on the Directresses of Early Childhood Care and Education Centres
 
-- 4.1 Number of pre-schools in the province/zone/division
+2001 | 2002
 
-- 4.2 Number of Directors of the day care centres
+4.1 Number of pre-schools in the province/zone/division
 
-- 4.3 Number of pre-school assistants
+4.2 Number of Directors of the day care centres
 
-- Most successful of the Early Childhood Care and Education Programme implemented.
+4.3 Number of pre-school assistants
 
-5.1 .......................................................................................................
-
-2002
-
-2001
-
-2002
-
-2001
-
-2002
-
-2001
+5. Most successful of the Early Childhood Care and Education Programme implemented.
 
 Expenditure Fee
+2001 | 2002
+
+5.1 .......................................................................................................
 
 [[END OF PAGE 166]]
 
@@ -5336,58 +5215,20 @@ Expenditure Fee
 
 .......................................................................................................
 
-- Organizations  which  sponsor  the  Early  Child  Hood  Education  programme  with Province/Zone/Division
+6. Organizations which sponsor the Early Child Hood Education programme with Province/Zone/Division
 
-Municipal Provincial
+Municipal Provincial Council or Government | NGO's | Volunteer Organization | Private Sector
+--- | --- | --- | ---
+1 | 1 | 1 | 1
+2 | 2 | 2 | 2
+3 | 3 | 3 | 3
+4 | 4 | 4 | 4
 
-Council or Government
+7. UNESCO involvement in the development of Pre-school (Training and provision of books and other resources.)
 
-NGO's
-
-Volunteer
-
-Organization
-
-Private Sector
-
-1
-
-1
-
-1
-
-1
-
-2
-
-2
-
-2
-
-2
-
-3
-
-3
-
-3
-
-3
-
-4
-
-4
-
-4
-
-4
-
-- UNESCO involvement in the development of Pre-school (Training and provision of books and other resources.)
-
-- 7.1 Year 2001
+7.1 Year 2001
 
 ............................................................................................................................
-
 ............................................................................................................................
 
 [[END OF PAGE 167]]
@@ -5396,89 +5237,33 @@ Private Sector
 
 155
 
-2001
-
-Number of Children
-
-2002
-
-2001
-
-Number of teachers
-
-training in the province
-
-2002
-
+............................................................................................................................
 ............................................................................................................................
 
-............................................................................................................................
-
-- 7.2 Year 2002
+7.2 Year 2002
 
 ............................................................................................................................
-
+............................................................................................................................
+............................................................................................................................
 ............................................................................................................................
 
-............................................................................................................................
+8. Participation in pre schools programme
 
-............................................................................................................................
+ |  | Male | Female
+--- | --- | --- | ---
+Number of Children | 2001 | ................ | ................
+ | 2002 | ................ | ................
+Number of teachers training in the province | 2001 | ................ | ................
+ | 2002 | ................ | ................
 
-- Participation in pre schools programme
-
-2001
-
-Number of Children
-
-2002
-
-2001
-
-Number of teachers
-
-training in the province
-
-2002
-
-- Problems encountered in the implementation of ECCD in order of priority
+9. Problems encountered in the implementation of ECCD in order of priority
 
 9.1.................................................................................................................................
-
-......
-
 ......................................................................................................................................
 
-......
-
 9.2
-
 ................................................................................................................................
-
-......
-
 ................................................................................................................................
-
-......
-
-Male
-
-Female
-
-................
-
-................
-
-................
-
-................
-
-................
-
-................
-
-................
-
-................
 
 [[END OF PAGE 168]]
 
@@ -5502,7 +5287,7 @@ Female
 
 ......
 
-- Proposals for the development of ECCD in the Province/Zone/Division.
+10. Proposals for the development of ECCD in the Province/Zone/Division.
 
 10.1
 
@@ -5546,53 +5331,36 @@ Female
 
 Please forward to the Education for All branch the completed form indicating a correct description of primary education programmes carried-out in your province during 2001 and 2002.
 
-Province
-
-: .................................. ....................
-
+Province : .................................. ....................
 ..................
 
-Name of the officer forwarding information
-
-: ........................ ...............................
-
+Name of the officer forwarding information : ........................ ...............................
 .................
-
 .................................. ..................................... ..........................................
-
 ..............................
 
-- No. of schools with Primary Classes
-
-- No of pupils in Primary Classes in the Province
-
-- No. of teachers Primary Classes  in the Province
-
-- No of Teachers Trained
-
-No of Teachers
-
-- Grade 1
-
-- Grade 2
-
-- Grade 3
-
-- Grade 4
-
-- Grade 5
-
-- Financial allocation for Primary Sector
-
-- Amount set aside from this amount for Primary Education quality inputs.
-
-- Major programmes in operation under
-
 Expenditure
+2001 | 2002
 
-2001
+1. No. of schools with Primary Classes
 
-2002
+2. No of pupils in Primary Classes in the Province
+
+3. No. of teachers Primary Classes in the Province
+
+4. No of Teachers Trained          No of Teachers
+
+Grade 1
+Grade 2
+Grade 3
+Grade 4
+Grade 5
+
+5. Financial allocation for Primary Sector
+
+6. Amount set aside from this amount for Primary Education quality inputs.
+
+7. Major programmes in operation under
 
 [[END OF PAGE 170]]
 
@@ -5602,63 +5370,41 @@ Expenditure
 
 Primary education and relevant expenditure
 
-- 7.1
+7.1
 
-- 7.2
+7.2
 
-- 7.3
+7.3
 
-- 7.5
+7.5
 
-- Recent programmes carried out under Education reforms and relevant expenditure
-
-- 8.1
-
-- 8.2
-
-- 8.3
-
-- 8.4
-
-- 8.5
-
-- Contributions, during years 2001/2002, received from NGOs and private institutions for Provincial /Zonal / Divisional Primary education programmes
-
-- A brief description about the progress of programmes out of the above mentioned activities.
-
-- 10.1
-
-....................................... .................................. ........................... ..........
-
-....................................... .................................. ........................... .............
-
-....................................... .................................. ........................... .............
+8. Recent programmes carried out under Education reforms and relevant expenditure
 
 Expenditure
+2001 | 2002
 
-2001
+8.1
+8.2
+8.3
+8.4
+8.5
 
-2002
+9. Contributions, during years 2001/2002, received from NGOs and private institutions for Provincial /Zonal / Divisional Primary education programmes
 
-Expenditure
+Organization | Programme | Expenditure |
+ |  | 2001 | 2002
+--- | --- | --- | ---
+1 |  |  |
+2 |  |  |
+3 |  |  |
+4 |  |  |
+5 |  |  |
 
-2001
+10. A brief description about the progress of programmes out of the above mentioned activities.
 
-2002
-
-Programme
-
-Organization
-
-1
-
-2
-
-3
-
-4
-
-5
+10.1 ....................................... .................................. ........................... ..........
+....................................... .................................. ........................... .............
+....................................... .................................. ........................... .............
 
 [[END OF PAGE 171]]
 
@@ -5686,7 +5432,7 @@ Organization
 
 ....................................... .................................. ........................... .............
 
-- Contribution from National Institute of Education to Provincial education development  activities  in  the  Primary  development  activities  in  the  (training, publication and supplying of other resources give statistics.)
+11. Contribution from National Institute of Education to Provincial education development activities in the Primary development activities in the (training, publication and supplying of other resources give statistics.)
 
 11.1
 
@@ -5706,7 +5452,7 @@ Organization
 
 ....................................... .................................. .......................................
 
-- Areas of problems demanding especial attention in implementing Primary education activities
+12. Areas of problems demanding especial attention in implementing Primary education activities
 
 12.1
 
@@ -5732,7 +5478,7 @@ Organization
 
 ....................................... .................................. ........................................
 
-- Your proposal for the development of Primary Education
+13. Your proposal for the development of Primary Education
 
 [[END OF PAGE 172]]
 
@@ -5740,15 +5486,15 @@ Organization
 
 160
 
-- 13.1 ....................................... .................................. ........................... ............
+13.1 ....................................... .................................. ........................... ............
 
-- 13.2 ....................................... .................................. ........................... ...........
+13.2 ....................................... .................................. ........................... ...........
 
-- 13.3 ....................................... .................................. ......................................... ....................................... .................................. .......................................
+13.3 ....................................... .................................. ......................................... ....................................... .................................. .......................................
 
-- 13.4 ....................................... .................................. ......................................... ....................................... .................................. .........................................
+13.4 ....................................... .................................. ......................................... ....................................... .................................. .........................................
 
-- 13.5 ....................................... .................................. ........................................
+13.5 ....................................... .................................. ........................................
 
 ...................................... ..................................
 
@@ -5766,39 +5512,27 @@ Organization
 
 Please fill in the following form inserting particulars of all the NFE programmes conducted within your province during the years 2001 and 2002.
 
-Province
-
-..........................................
-
+Province ..........................................
 ......………………………
 
-Name and the designation of the officer who provides these particulars: ..................................... ......................................... .............................................. .....................………………….........
+Name and the designation of the officer who provides these particulars:
+..................................... ......................................... ..............................................
+.....................………………….........
 
-2001
-
-2002
-
-1. Total Population of the province.
-
-2. Adult Literacy rate of the province.
-
-- All  the  programmes conducted for the development of literacy and total amount of money spent on them.
+ | 2001 | 2002
+--- | --- | ---
+1. Total Population of the province. |  |
+2. Adult Literacy rate of the province. |  |
+3. All the programmes conducted for the development of literacy and total amount of money spent on them. | Amount | Amount
 
 3.1 …….………………………………………………
-
 …….…………………………………………………….
 
 3.2 …...……………………………………………………..
-
 ……..……………………………………………………
 
 3.3 …...…………………………………………………….
-
 ……………....…………………………………………
-
-Amount
-
-Amount
 
 [[END OF PAGE 174]]
 
@@ -5810,7 +5544,7 @@ Amount
 
 ….....……………………………………………………
 
-- Programmes conducted for skill development and total amount of money spent on them.
+4. Programmes conducted for skill development and total amount of money spent on them.
 
 4.1 ……………………………………………………….
 
@@ -5824,7 +5558,7 @@ Amount
 
 4.4 ……………………………………………………….
 
-- Please give a brief description of successful programmes out of above mentioned programmes.
+5. Please give a brief description of successful programmes out of above mentioned programmes.
 
 5.1 ……………………………………………………….
 
@@ -5842,39 +5576,17 @@ Amount
 
 ………………………………………………………..
 
-- NGOs  and  other  private  organizations  who  conducted  NFE  programmes  within  your province during the years 2001 and 2002.
+6. NGOs and other private organizations who conducted NFE programmes within your province during the years 2001 and 2002.
 
-Organization
-
-Programmes Conducted.
-
-6.1……………………………..
-
-………………………………
-
-………………………………
-
-6.2……………………………..
-
-………………………………
-
-………………………………
-
-6.3……………………………..
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
+Organization | Programmes Conducted.
+--- | ---
+6.1…………………………….. | …………………………………………………………
+……………………………… | …………………………………………………………
+……………………………… | …………………………………………………………
+6.2…………………………….. | …………………………………………………………
+……………………………… | …………………………………………………………
+……………………………… | …………………………………………………………
+6.3…………………………….. | …………………………………………………………
 
 [[END OF PAGE 175]]
 
@@ -5882,53 +5594,30 @@ Programmes Conducted.
 
 163
 
-………………………………
+……………………………… | …………………………………………………………
+……………………………… | …………………………………………………………
+6.4…………………………….. | …………………………………………………………
+……………………………… | …………………………………………………………
+……………………………… | …………………………………………………………
+6.5 …………………………….. | …………………………………………………………
+……………………………… | …………………………………………………………
+……………………………… | …………………………………………………………
 
-………………………………
+7. Give a brief description of UNESCO involvement in NFE programmes within your province. (Statistical data on distribution of books and other learning materials, training programmes etc.)
 
-6.4……………………………..
-
-………………………………
-
-………………………………
-
-6.5 ……………………………..
-
-………………………………
-
-………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-…………………………………………………………
-
-- Give  a  brief  description  of  UNESCO  involvement  in  NFE  programmes  within  your province.  (Statistical  data  on  distribution  of  books  and  other  learning  materials,  training programmes etc.)
-
-- 7.1
+7.1
 
 2001………………………………………………………………………………
 
 ……………………………………………………………………………….
 
-- 7.2
+7.2
 
 2001………………………………………………………………………………
 
 ……………………………………………………………………………….
 
-- Total number of  students participated in NFE programmes.
+8. Total number of students participated in NFE programmes.
 
 2001
 
@@ -5946,7 +5635,7 @@ Male………….   Female……………..
 
 Total  ……………..
 
-- Please indicate the problems that you had to confront with during the course of NFE programmes.
+9. Please indicate the problems that you had to confront with during the course of NFE programmes.
 
 9.1 ………………………………………………………………………………………..
 
@@ -5966,7 +5655,7 @@ Total  ……………..
 
 …………………………………………………………………………………………
 
-- Please submit your proposals for further development of NFE in your province.
+10. Please submit your proposals for further development of NFE in your province.
 
 10.1 …………………………………………………………………………………….
 
@@ -6026,7 +5715,7 @@ Amount
 
 Amount
 
-- Programmes conducted and money spent on the development of learning achievements.
+4. Programmes conducted and money spent on the development of learning achievements.
 
 4.1 ………………………………………………….
 
@@ -6040,7 +5729,7 @@ Amount
 
 ……………………………………………………….
 
-- Money spent by School Development Societies on the programmes of learning achievement under new education reforms.
+5. Money spent by School Development Societies on the programmes of learning achievement under new education reforms.
 
 [[END OF PAGE 179]]
 
@@ -6048,23 +5737,16 @@ Amount
 
 167
 
-Programmes
+Programmes | 2001 Money | 2002 Money
+--- | --- | ---
+5.1 ………………………………………… | |
+…………………………………………. | |
+5.2 ………………………………………… | |
+…………………………………………. | |
+5.3 ………………………………………… | |
+…………………………………………. | |
 
-5.1 …………………………………………
-
-………………………………………….
-
-5.2 …………………………………………
-
-………………………………………….
-
-5.3 …………………………………………
-
-………………………………………….
-
-2001  Money                           2002 Money
-
-- A brief account of successful programmes from above mentioned programmes.
+6. A brief account of successful programmes from above mentioned programmes.
 
 6.1 ………………………………………………………………………………………….
 
@@ -6074,7 +5756,7 @@ Programmes
 
 …………………………………………………………………………………………..
 
-- NGOs and Private sector involvement in formal education programmes.
+7. NGOs and Private sector involvement in formal education programmes.
 
 [[END OF PAGE 180]]
 
@@ -6082,49 +5764,36 @@ Programmes
 
 168
 
-###### Institution
+Institution | Programme | Money spent
+--- | --- | ---
+7.1 ………………………... | |
+………………………… | |
+7.2 ………………………... | |
+………………………… | |
+7.3 ………………………... | |
+………………………… | |
+7.4 ………………………... | |
+………………………… | |
+7.5 ………………………... | |
+………………………… | |
 
-7.1 ………………………...
-
-…………………………
-
-7.2 ………………………...
-
-…………………………
-
-7.3 ………………………...
-
-…………………………
-
-7.4 ………………………...
-
-…………………………
-
-7.5 ………………………...
-
-…………………………
-
-Programme
-
-Money spent
-
-- Contribution by the National Institute of Education for the development of formal education . (Training programmes, provision of books and others physical resources etc.)
+8. Contribution by the National Institute of Education for the development of formal education . (Training programmes, provision of books and others physical resources etc.)
 
 8.1 2001- …………………………………………………………………………………
 
 …………………………………………………………………………………
 
-- 8.2
+8.2
 
 2002 - …………………………………………………………………………………
 
 ………………………………………………………………………………….
 
-- 9.1 Total number of teachers participated in in-service training programmes on School Based Assessment.
+9.1 Total number of teachers participated in in-service training programmes on School Based Assessment.
 
 2002 - ……………………….          2002 - ………………………………………
 
-- 9.2 Problems encountered in the process of School Bases Assessment Programme.
+9.2 Problems encountered in the process of School Bases Assessment Programme.
 
 1. …………………………………………………………………………………
 
@@ -6144,7 +5813,7 @@ Money spent
 
 …………………………………………………………………………………
 
-- Suggestions for the improvement of formal education activities within the province.
+10. Suggestions for the improvement of formal education activities within the province.
 
 1…………………………………………………………………………………
 
@@ -6226,17 +5895,12 @@ plan are as follows:
 
 171
 
-- While  drawing  special  attention  towards  the  children  for  whom  no  attention  has been paid and for Children in less privileged groups to broaden and improve early child hood security and provision of educational opportunities.
-
-- Ensure the provision of compulsory and qualitative opportunities in education for all children including children belonging to minorities who  live under difficult conditions and especially for girls by year 2015.
-
-- Ensure  the  provision  of  equal  opportunities  to  participate  in  life  skills  and  other educational programmes for all youths and adults to fulfill their learning needs.
-
-- Provide elementary and continuous educational opportunities in an equal manner for all adults including especially women and thereby increase the present adult literacy rate by 50% by year 2015.
-
-- While drawing attention to ensure the provision of qualitative elementary education for  girls  to  take  action  to  eradicate  gender  disparity  in  primary  and  secondary education and create a uniformity by year 2015.
-
-- Improve  quality  of  education  in  all  aspects,  especially  in  literacy,  numeracy  and figures  and  life  skills  to  ensure  the  achievement  of  an  identified  and  assessible learning result and an overall acquisition in that respect.
+1. While drawing special attention towards the children for whom no attention has been paid and for Children in less privileged groups to broaden and improve early child hood security and provision of educational opportunities.
+2. Ensure the provision of compulsory and qualitative opportunities in education for all children including children belonging to minorities who live under difficult conditions and especially for girls by year 2015.
+3. Ensure the provision of equal opportunities to participate in life skills and other educational programmes for all youths and adults to fulfill their learning needs.
+4. Provide elementary and continuous educational opportunities in an equal manner for all adults including especially women and thereby increase the present adult literacy rate by 50% by year 2015.
+5. While drawing attention to ensure the provision of qualitative elementary education for girls to take action to eradicate gender disparity in primary and secondary education and create a uniformity by year 2015.
+6. Improve quality of education in all aspects, especially in literacy, numeracy and figures and life skills to ensure the achievement of an identified and assessible learning result and an overall acquisition in that respect.
 
 ### 03. Strategies for the Implementation of the plan
 
@@ -6258,43 +5922,16 @@ other stakeholders in National Level.
 
 Functions are as follows:
 
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-Formulation of the Policy on EFA
-
-To provide awareness for all those concerned including the Political Sector
-
-Implementation  of  national  level  programmes  for  the  awareness  of  the
-
-general public.
-
-Planning long term strategies for national level programmes and provision of
-
-resources.
-
-Maintain Co-ordination
-
-programmes.
-
-- Maintain a national level information system.
-
-- Preparation of criteria for monitoring and monitoring the progress.
-
-#### 3.2 Provincial  Level Committee on EFA
-
-This committee  will function under the leadership of secretary, Ministry of Education  of  the  Province  and  will  consist  of  representatives  of  Provincial  Level State  Institutions  and  NGOs.  The  meeting  should  be  convened  according  to  the needs of the Province and at least two meetings should be held in a year.
-
+1. Formulation of the Policy on EFA
+2. To provide awareness for all those concerned including the Political Sector
+3. Implementation of national level programmes for the awareness of the general public.
+4. Planning long term strategies for national level programmes and provision of resources.
+5. Maintain Co-ordination with Institutions for monitoring the relevant programmes.
+6. Maintain a national level information system.
+7. Preparation of criteria for monitoring and monitoring the progress.
+#### 3.2 Provincial Level Committee on EFA
+This committee will function under the leadership of secretary, Ministry of Education of the Province and will consist of representatives of Provincial Level State Institutions and NGOs. The meeting should be convened according to the needs of the Province and at least two meetings should be held in a year.
 The functions will be as follows:
-
-with Institutions for monitoring the relevant
 
 [[END OF PAGE 185]]
 
@@ -6302,29 +5939,18 @@ with Institutions for monitoring the relevant
 
 173
 
-- Preparation of an action plan on provincial level and provision of resources
-
-- Provide  awareness  for  the  political sector  in  the  province  and  others concerned
-
-- Organizing  of  programmes  for  the  awareness  of  the  general  public  in  the province
-
-- Co-ordination of programmes organized by the provincial level government and non governmental organizations
-
-- Maintain a provincial level information system
-
-- Co-ordinations of provincial  and  zonal  level  committees  and  supply  of  the relevant information
-
-- Monitoring of the progress based on the relevant criteria.
-
-#### 3.3 Zonal  Level Committees on EFA
-
-This committee will function under the leadership of the zonal director of education and  it  will  consist  of  the  representatives  of  governmental  and  non-governmental organizations. Meetings should be convened according to the needs of the zone and at least 04 meetings should be held in a year.
-
+1. Preparation of an action plan on provincial level and provision of resources
+2. Provide awareness for the political sector in the province and others concerned
+3. Organizing of programmes for the awareness of the general public in the province
+4. Co-ordination of programmes organized by the provincial level government and non governmental organizations
+5. Maintain a provincial level information system
+6. Co-ordinations of provincial and zonal level committees and supply of the relevant information
+7. Monitoring of the progress based on the relevant criteria.
+#### 3.3 Zonal Level Committees on EFA
+This committee will function under the leadership of the zonal director of education and it will consist of the representatives of governmental and non-governmental organizations. Meetings should be convened according to the needs of the zone and at least 04 meetings should be held in a year.
 The functions will be as follows:
-
-- Preparation of a zonal level Action Plan and provision of resources
-
-- Provide  awareness  for  the  political  sector  and  the  officers  in  the  governmental and non-governmental organizations based on zonal level.
+1. Preparation of a zonal level Action Plan and provision of resources
+2. Provide awareness for the political sector and the officers in the governmental and non-governmental organizations based on zonal level.
 
 [[END OF PAGE 186]]
 
@@ -6332,33 +5958,20 @@ The functions will be as follows:
 
 174
 
-- Organizing of programmes for the awareness of the community within the zone.
-
-- Maintain an information system on zonal level
-
-- Co-ordinations of provincial level committees and zonal level committees.
-
-- Monitoring of the progress based on the relevant criteria.
-
-#### 3.4 Divisional  Level Committee on EFA
-
-This  committee  will  function  under  the  leadership  of  the  Divisional  Director  of Education  and  will  consist  of  representatives  of  divisional  level  governmental  and non-governmental organizations. Six meetings should be convened according to the needs of the division.
-
+3. Organizing of programmes for the awareness of the community within the zone.
+4. Maintain an information system on zonal level
+5. Co-ordinations of provincial level committees and zonal level committees.
+6. Monitoring of the progress based on the relevant criteria.
+#### 3.4 Divisional Level Committee on EFA
+This committee will function under the leadership of the Divisional Director of Education and will consist of representatives of divisional level governmental and non-governmental organizations. Six meetings should be convened according to the needs of the division.
 The functions will be as follows:
-
-- Preparation of an Action Plan on Divisional Level and provision of resources
-
-- Provide  awareness  for  the  political  sector  and  the  officers  in  the  governmental and non-governmental organizations in the division.
-
-- Organizing of programmes for the awareness of the community within the zone.
-
-- Maintain a divisional level information system.
-
-- Co-ordination of formal and non-formal educational activities.
-
-- Co-ordination of zonal level and school level committees.
-
-- Monitoring of the progress based on the relevant criteria.
+1. Preparation of an Action Plan on Divisional Level and provision of resources
+2. Provide awareness for the political sector and the officers in the governmental and non-governmental organizations in the division.
+3. Organizing of programmes for the awareness of the community within the zone.
+4. Maintain a divisional level information system.
+5. Co-ordination of formal and non-formal educational activities.
+6. Co-ordination of zonal level and school level committees.
+7. Monitoring of the progress based on the relevant criteria.
 
 [[END OF PAGE 187]]
 
@@ -6372,17 +5985,12 @@ This committee will function under the leadership of the Principal. Meeting shou
 
 The functions will be as follows:
 
-- Preparation of an Action Plan on school level and provision of resources
-
-- Provide  awareness  for  the  parents  of  the  school,  and  other  persons  who  are connected to the school and to build up community relationships.
-
-- Provide awareness for students of the school and organizing of programmes.
-
-- Maintain a School Level information system.
-
-- Maintain co-ordination with zonal level and divisional level committees and to obtain instructions.
-
-- Monitoring of the progress based on the relevant criteria.
+1. Preparation of an Action Plan on school level and provision of resources
+2. Provide awareness for the parents of the school, and other persons who are connected to the school and to build up community relationships.
+3. Provide awareness for students of the school and organizing of programmes.
+4. Maintain a School Level information system.
+5. Maintain co-ordination with zonal level and divisional level committees and to obtain instructions.
+6. Monitoring of the progress based on the relevant criteria.
 
 This  circular  is  issued  with  the  concurrence  of  Ministries  in  charge  of  the  subjects  Social Welfare,  Provincial  Councils  and  Local  Government,  Health,  Women's'  Affairs  and Samurdhi.
 
@@ -6396,47 +6004,34 @@ The  composition  of  the  above  committees  is  given  in  the  annexure  I  h
 
 I  hope  that  you  would  extend  your  utmost  dedication  and  co-operation  for  the  successful implementation of the above educational programmes so that every citizen living in the 21 st century will be able to live a meaningful and fruit-full life.
 
-###### V.K. Nanayakkara
+##### V.K. Nanayakkara
 
-###### Secretary
+##### Secretary
 
 Ministry of Human Resource Development, Education and Cultural Affairs.
 
 Copies to   :
 
-- Provincial Secretaries
-
-- District  Secretaries
-
-- Divisional Secretaries
-
-- Director General (National Institute of Education)
-
-- Chairman National Education Commission.
+1. Provincial Secretaries
+2. District Secretaries
+3. Divisional Secretaries
+4. Director General (National Institute of Education)
+5. Chairman National Education Commission.
 
 Annexure 01.
 
-###### Composition of the National Monitoring Committee
+##### Composition of the National Monitoring Committee
 
-- Secretary, Ministry of Education
-
-- Representative from National Education Commission.
-
-- Secretary, Ministry of Social Welfare and Development
-
-- Secretary, Ministry of Health and Nutrition
-
-- Secretary, Ministry of Home Affairs Provincial Councils and Local Government
-
-- Secretary, Ministry of Women's Affairs
-
-- Director General Samurdhi Ministry or Representation of Samurdhi Authority
-
-- Additional Secretary (Policy Planning)
-
-- Additional Secretary (Educational Quality Development)
-
-- Commissioner Probation and Child care
+01. Secretary, Ministry of Education
+02. Representative from National Education Commission.
+03. Secretary, Ministry of Social Welfare and Development
+04. Secretary, Ministry of Health and Nutrition
+05. Secretary, Ministry of Home Affairs Provincial Councils and Local Government
+06. Secretary, Ministry of Women's Affairs
+07. Director General Samurdhi Ministry or Representation of Samurdhi Authority
+08. Additional Secretary (Policy Planning)
+09. Additional Secretary (Educational Quality Development)
+10. Commissioner Probation and Child care
 
 [[END OF PAGE 189]]
 
@@ -6444,55 +6039,33 @@ Annexure 01.
 
 177
 
-- Secretary General UNESCO
+11. Secretary General UNESCO
+12. Director General National Institute of Education
+13. Director General Educational Reforms
+14. Director General Standards and Evaluation
+15. Director General of the Secretariat on NGOs
+16. Chief Accountant, Ministry of Education
+17. Director of Education EFA
+18. National Co-ordination Officer EFA
+19. Representative – UNICEF
+20. Provincial Directors of Education
+21. Representatives of Technical Committees
 
-- Director General National Institute of Education
+##### Composition of the Provincial Level Committee on EFA
 
-- Director General Educational Reforms
-
-- Director General Standards and Evaluation
-
-- Director General of the Secretariat on NGOs
-
-- Chief Accountant, Ministry of Education
-
-- Director of Education EFA
-
-- National Co-ordination Officer EFA
-
-- Representative - UNICEF
-
-- Provincial Directors of Education
-
-- Representatives of Technical Committees
-
-###### Composition of the Provincial Level Committee on EFA
-
-- Provincial Secretary of Education (Chairman)
-
-- Provincial Director of Education
-
-- Provincial Director of Social Services
-
-- Director Health Services
-
-- Commissioner Probation and Child Care
-
-- Assistant Samurdhi Commissioner to represent Provinces
-
-- Additional Director (Development) of the Provincial Education Department Coordinating officer EFA (Ex Officer)
-
-- A separate representative for District Secretaries
-
-- Zonal Director of Education (To be decided according to number of zones)
-
-- Co-ordinating officer - pre Schools
-
-- Deputy  Director  Primary  Education  and  Deputy  Director  Non  Formal  Education  on Provincial Level.
-
-- Provincial representative of the Ministry of Women's Affairs.
-
-- Provincial NGO representation (3)
+01. Provincial Secretary of Education (Chairman)
+02. Provincial Director of Education
+03. Provincial Director of Social Services
+04. Director Health Services
+05. Commissioner Probation and Child Care
+06. Assistant Samurdhi Commissioner to represent Provinces
+07. Additional Director (Development) of the Provincial Education Department Coordinating officer EFA (Ex Officer)
+08. A separate representative for District Secretaries
+09. Zonal Director of Education (To be decided according to number of zones)
+10. Co-ordinating officer – pre Schools
+11. Deputy Director Primary Education and Deputy Director Non Formal Education on Provincial Level.
+12. Provincial representative of the Ministry of Women's Affairs.
+13. Provincial NGO representation (3)
 
 [[END OF PAGE 190]]
 
@@ -6500,61 +6073,37 @@ Annexure 01.
 
 178
 
-###### Composition of the Zonal Level Committee on EFA
+##### Composition of the Zonal Level Committee on EFA
 
-- Zonal Director of Education (Chairman)
+01. Zonal Director of Education (Chairman)
+02. Secretary of the Divisional Council or his representative
+03. Divisional Secretary (Number to be decided according to the Divisional Secretary Divisions within the Zone)
+04. Co-ordinating Officer EFA, Deputy Director of Education Development (Secretary)
+05. Health Officer
+06. Deputy Director of Education (Planning and Administration)
+07. Director Primary Education
+08. Director Non Formal Education
+09. Project Officers - Non Formal Education
+10. Representation from NGO (3)
+11. Divisional Directors of Education
+12. Teacher Centres Officer
+13. Social Development Officer
 
-- Secretary of the Divisional Council or his representative
+##### Composition of the Divisional Level Committee on EFA
 
-- Divisional  Secretary  (Number  to  be  decided  according  to  the  Divisional  Secretary Divisions within the Zone)
-
-- Co-ordinating Officer EFA, Deputy Director of Education Development (Secretary)
-
-- Health Officer
-
-- Deputy Director of Education (Planning and Administration)
-
-- Director Primary Education
-
-- Director Non Formal Education
-
-- Project Officers - Non Formal Education
-
-- Representation from NGO (3)
-
-- Divisional Directors of Education
-
-- Teacher Centres Officer
-
-- Social Development Officer
-
-###### Composition of the Divisional Level Committee on EFA
-
-- Deputy Director of Education (Director in charge of Division)
-
-- One Principal from each of the categories of Schools 1AB/1C/2/3 types including National Schools
-
-- Representation from the officer of the Health Medical Officer
-
-- Female officer in charge of Woman's' affairs in the Divisional Secretary's officer
-
-- Non Formal Education Officer
-
-- In service Advisor in the Division -02
-
-- Child Development Officer
-
-- Representation from Pre School - 02
-
-- NGOs - 02
-
-- Teacher Educator
-
-- Samurdhi Manager
-
-- Probation Officer
-
-- Social Service Officer
+01. Deputy Director of Education (Director in charge of Division)
+02. One Principal from each of the categories of Schools 1AB/1C/2/3 types including National Schools
+03. Representation from the officer of the Health Medical Officer
+04. Female officer in charge of Woman's' affairs in the Divisional Secretary's officer
+05. Non Formal Education Officer
+06. In service Advisor in the Division –02
+07. Child Development Officer
+08. Representation from Pre School – 02
+09. NGOs - 02
+10. Teacher Educator
+11. Samurdhi Manager
+12. Probation Officer
+13. Social Service Officer
 
 [[END OF PAGE 191]]
 
@@ -6562,49 +6111,33 @@ Annexure 01.
 
 179
 
-- Rural Development Officer
+14. Rural Development Officer
+15. Youth Service Officer
 
-- Youth Service Officer
+##### Composition of the School Level Committee on EFA
 
-###### Composition of the School Level Committee on EFA
+01. Principal (Chairman)
+02. Deputy Principal
+03. Grama Niladhari
+04. School Management Assistant (Secretary)
+05. One representative from each of parents/past pupils/well wishers
+06. Samurdhi Development Officer
+07. Representative from School Development Society
+08. Two representatives from Government Institutions connected to school
+09. Two representatives from NGOs
+10. Two teachers from the school
+11. Family health officer
+12. Student Leaders 02
 
-- Principal (Chairman)
+##### Annexure 02..
 
-- Deputy Principal
+##### Strategies for Achieving Education for all
 
-- Grama Niladhari
-
-- School Management Assistant (Secretary)
-
-- One representative from each of parents/past pupils/well wishers
-
-- Samurdhi Development Officer
-
-- Representative from School Development Society
-
-- Two representatives from Government Institutions connected to school
-
-- Two representatives from NGOs
-
-- Two teachers from the school
-
-- Family health officer
-
-- Student Leaders 02
-
-###### Annexure 02..
-
-###### Strategies for Achieving Education for all
-
-- Mobilize strong national and international political commitment for Education for all,  develop  national  action  plans  and  enhance  significantly  investment  in  basic education.
-
-- Promote E.F.A. Polices within a sustainable and well-integrated sector framework clearly linked to poverty elimination and development strategies.
-
-- Ensure  the  engagement  and  participation of civil society in the formulation implementation and monitoring of strategies for educational development.
-
-- Develop responsive, participatory and accountable systems of educational governance and management.
-
-- Meet  the  needs  of  education  systems  affected  by  conflict,  natural  calamities  and instability,  and  conduct  educational  programmes  in  ways  that  promote  mutual understanding, peace and tolerance, and that help to prevent violence and conflict.
+1. Mobilize strong national and international political commitment for Education for all, develop national action plans and enhance significantly investment in basic education.
+2. Promote E.F.A. Polices within a sustainable and well-integrated sector framework clearly linked to poverty elimination and development strategies.
+3. Ensure the engagement and participation of civil society in the formulation implementation and monitoring of strategies for educational development.
+4. Develop responsive, participatory and accountable systems of educational governance and management.
+5. Meet the needs of education systems affected by conflict, natural calamities and instability, and conduct educational programmes in ways that promote mutual understanding, peace and tolerance, and that help to prevent violence and conflict.
 
 [[END OF PAGE 192]]
 
@@ -6612,45 +6145,32 @@ Annexure 01.
 
 180
 
-- Implement integrated strategies for gender equality in education that recognize the need for change in attitude values and practices.
+6. Implement integrated strategies for gender equality in education that recognize the need for change in attitude values and practices.
+7. Implement education programmes and actions to combat the HIV/AIDS pandemic as a matter of urgency.
+8. Create safe, healthy, inclusive and equitably, resourced educational environments conducive to excellence in learning with clearly defined levels of achievement for all.
+9. Enhance the status, morale and professionalism of teachers.
+10. Harness new information and communication technologies to help achieve E.F.A. goals.
+11. Systematically monitor progress towards E.F.A. goals and strategies at the international levels.
+12. Build on existing mechanisms to accelerate progress towards Education for all.
 
-- Implement education programmes and actions to combat the HIV/AIDS pandemic as a matter of urgency.
+##### Annexure 03.
 
-- Create  safe,  healthy,  inclusive  and  equitably,  resourced  educational  environments conducive to excellence in learning with clearly defined levels of achievement for all.
-
-- Enhance the status, morale and professionalism of teachers.
-
-- Harness new information and communication technologies to help achieve E.F.A. goals.
-
-- Systematically monitor progress towards E.F.A. goals and strategies at the international levels.
-
-- Build on existing mechanisms to accelerate progress towards Education for all.
-
-###### Annexure 03.
-
-###### Technical Committee
+##### Technical Committee
 
 The Technical committee shall consist of officers relevant to main areas covering the EFA field.
 
-- Early Childhood care and education
+1. Early Childhood care and education
+2. Primary Education
+3. Life Skills Development
+4. Adult Education
+5. Easing off of the Gender Disparity in Education
+6. Learning Achievement
 
-- Primary Education
+##### Functions of the Technical Committee are as follows:
 
-- Life Skills Development
-
-- Adult Education
-
-- Easing off of the Gender Disparity in Education
-
-- Learning Achievement
-
-###### Functions of the Technical Committee are as follows:
-
-- Assist in the formulation of National Plans relating to EFA
-
-- Provide instruction for the implementation of EFA plans
-
-- Assist the National Committee.
+1. Assist in the formulation of National Plans relating to EFA
+2. Provide instruction for the implementation of EFA plans
+3. Assist the National Committee.
 
 [[END OF PAGE 193]]
 
@@ -6660,37 +6180,26 @@ The Technical committee shall consist of officers relevant to main areas coverin
 
 ### 03. List of Reference
 
-- Ministry  of  Education  (2000)  E.F.A.,  the  year  of  Assessment  the  country  status Report, Sri Lanka.
-
-- E.C.C.E Annual progress Report 2002 - Child Secretariat office Ministry of Social WelFair.
-
-- Achieving Excellence with Equality .................. A vision making a difference in Education .............. Ministry of Education - Sri Lanka - March - 2001
-
-- General Education Reforms - 1997 The Presidential task force on General Education - Sri Lanka
-
-- Performance of Grade 3 student in Literacy and Numeracy -  (After three Years of implementing Educational Reforms) Primary Education and Special Education Unit
-
-- National Institute of Education 2003 - February
-
-- Ministry  of  Human  Resources  Development,  Education  and  Cultural  Affairs.  Progress Report - 2001 to 2002
-
-- Central Bank Annual Report - 2001
-
-- Literacy  for  Development  -2002    -  Non-  Formal  Education  Branch  -  Ministry  of Human Resources Development, Education and Cultural Affairs.
-
-- Sri Lanka in Brief  - 2002 - Chamber of Commerce - Sri Lanka
-
-- Education for All Three Year Plan of Action - 2002 to 2004 - Ministry of Human Resources Development, Education and Cultural Affairs.
-
-- Scholl  Censes  Report  -  2001  -  Statistic  Branch,  Ministry  of  Human  Resources Development, Education and Cultural Affairs.
-
-- Scholl  Censes  Report  -  2002  -  Statistic  Branch  -  Ministry  of  Human  Resources Development, Education and Cultural Affairs.
-
-- Through our Collective Commitment - Education for All - 2002 - Education for All Branch,  Ministry  of  Human  Resources  Development,  Education  and  Cultural Affairs.
-
-- Education for All - Review of the Situation of Children in the 5 to 14 Age Group Mrs. Swarna Jayaweera
-
-- Mrs. Chandra Gunawardena
+1. Ministry of Education (2000) E.F.A., the year of Assessment the country status Report, Sri Lanka.
+2. E.C.C.E Annual progress Report 2002 - Child Secretariat office Ministry of Social WelFair.
+3. Achieving Excellence with Equality ..................
+A vision making a difference in Education ..............
+Ministry of Education – Sri Lanka – March - 2001
+4. General Education Reforms - 1997
+The Presidential task force on General Education – Sri Lanka
+5. Performance of Grade 3 student in Literacy and Numeracy - (After three Years of implementing Educational Reforms) Primary Education and Special Education Unit
+– National Institute of Education 2003 - February
+6. Ministry of Human Resources Development, Education and Cultural Affairs. – Progress Report – 2001 to 2002
+7. Central Bank Annual Report – 2001
+8. Literacy for Development –2002 - Non- Formal Education Branch – Ministry of Human Resources Development, Education and Cultural Affairs.
+9. Sri Lanka in Brief - 2002 – Chamber of Commerce – Sri Lanka
+10. Education for All Three Year Plan of Action – 2002 to 2004 – Ministry of Human Resources Development, Education and Cultural Affairs.
+11. Scholl Censes Report – 2001 – Statistic Branch, Ministry of Human Resources Development, Education and Cultural Affairs.
+12. Scholl Censes Report – 2002 – Statistic Branch – Ministry of Human Resources Development, Education and Cultural Affairs.
+13. Through our Collective Commitment – Education for All – 2002 - Education for All Branch, Ministry of Human Resources Development, Education and Cultural Affairs.
+14. Education for All – Review of the Situation of Children in the 5 to 14 Age Group
+Mrs. Swarna Jayaweera
+Mrs. Chandra Gunawardena
 
 [[END OF PAGE 194]]
 
@@ -6698,13 +6207,11 @@ The Technical committee shall consist of officers relevant to main areas coverin
 
 182
 
-- Primary  Education  Reform  in  Sri  Lanka  -  Education  Publication  Department, Ministry of Human Resources Development, Education and Cultural Affairs. Mrs. Anjala W. Little
-
-- Five Year Plan for Primary Education (FYPPY - 2000 - 2004)
-
-- Guide line for Primary Education - 1998 - National Institute of Education.
-
-- Essential  Learning  Competency  -  Curriculum  Development  Section  -  National Institute of Education.
+15. Primary Education Reform in Sri Lanka – Education Publication Department, Ministry of Human Resources Development, Education and Cultural Affairs.
+Mrs. Anjala W. Little
+16. Five Year Plan for Primary Education (FYPPY – 2000 – 2004)
+17. Guide line for Primary Education – 1998 – National Institute of Education.
+18. Essential Learning Competency – Curriculum Development Section – National Institute of Education.
 
 [[END OF PAGE 195]]
 
@@ -6712,49 +6219,32 @@ The Technical committee shall consist of officers relevant to main areas coverin
 
 183
 
-- 3.
-
-###### Participants at the Workshops
-
-- Mr. Dikson Fernando
-
+##### Participants at the Workshops
+1. Mr. Dikson Fernando
 Provincial Director of Education,
-
 Department of Provincial Education,
-
 Western Province,
-
-Colombo - 07
-
-### 2. Mr. J. Karunadasa
-
+Colombo – 07
+2. Mr. J. Karunadasa
 Additional Provincial Director of Education,
-
 Department of Education,
-
 Department of Provincial Education,
-
 Southern Province,
-
 Gall.
-
-- Mr. B.M. Asoka Jayasingha. Additional Provincial Director of Education,
-
-Department of Provincial Education, Sabaragamuwa Province, Rathnapura.
-
-- Mr. K.A.Marasingha,
-
-Additional Provincial Director of Education, Department of Provincial Education, Rathnaoura.
-
-- Mrs. Kannangara,
-
-Deputy Director of Education,
-
+3. Mr. B.M. Asoka Jayasingha.
+Additional Provincial Director of Education,
 Department of Provincial Education,
-
+Sabaragamuwa Province,
+Rathnapura.
+4. Mr. K.A.Marasingha,
+Additional Provincial Director of Education,
+Department of Provincial Education,
+Rathnaoura.
+5. Mrs. Kannangara,
+Deputy Director of Education,
+Department of Provincial Education,
 Western Province,
-
-Colombo - 07.
+Colombo – 07.
 
 [[END OF PAGE 196]]
 
@@ -6884,7 +6374,8 @@ Deputy Director of Education
 
 Deputy Director of Education
 
-- Mr. R.M. Shaddha Mangala, Deputy Director of Education
+23. Mr. R.M. Shaddha Mangala,
+Deputy Director of Education
 
 24.  Miss. M.K. Rohini,
 
@@ -6934,25 +6425,28 @@ Ministry of Human Resources Development Education & Cultural Affairs
 
 187
 
-- Mrs. Wasantha Samaraweera Ministry of Women's Affairs
-
-###### Participants of Non Government Organizations
-
-- Mrs. Nilusha Rajakaruna, Programme Assistant.
-
-- Mrs. Dharshini Senevirathna, Coordinator, Save the Childre Fund, 58 A, Horton Place, Colombo 07.
-
+29. Mrs. Wasantha Samaraweera
+Ministry of Women's Affairs
+##### Participants of Non Government Organizations
+1. Mrs. Nilusha Rajakaruna,
+Programme Assistant.
+2. Mrs. Dharshini Senevirathna,
+Coordinator,
+Save the Childre Fund,
+58 A, Horton Place, Colombo 07.
+3. Mrs. Bianca Abeygunawardana,
 Coordinator - Early Childhood Care and Education,
-
-- Mrs. Bianca Abeygunawardana, Sarvodaya
-
-- Mr. S.N. Tanikasalampillai Deputy Commissioner, Department of Publications,
-
+Sarvodaya
+4. Mr. S.N. Tanikasalampillai
+Deputy Commissioner,
+Department of Publications,
 Ministry of Human Resources Development, Education and Cultural Affairs.
-
-- Situwama Training Education, 24/19, kacheheri Road, Matale.
-
-- Lanka Mahila Samithi, 123, Sri James Peiris Mawatha, Colombo - 07.
+5. Situwama Training Education,
+24/19, kacheheri Road,
+Matale.
+6. Lanka Mahila Samithi,
+123, Sri James Peiris Mawatha,
+Colombo – 07.
 
 [[END OF PAGE 200]]
 
@@ -6960,29 +6454,33 @@ Ministry of Human Resources Development, Education and Cultural Affairs.
 
 188
 
-###### Panel of Writers
+##### Panel of Writers
 
-- Mr. K.L. Premachandra Deputy Director of Education, Education for All Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mrs. Malini Vithanage Assistant Director of Education, Education for All Branch,
-
+1. Mr. K.L. Premachandra
+Deputy Director of Education,
+Education for All Branch,
 Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
+2. Mrs. Malini Vithanage
+Assistant Director of Education,
+Education for All Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
+3. Mr. P.B. Dayasiri
 Provincial Primary Education Coordinator,
-
-- Mr. P.B. Dayasiri Sabaragamuwa Province
-
-- Mrs. Hema Perera, Deputy Director of Education, Planning and Monitoring Branch,
-
+Sabaragamuwa Province
+4. Mrs. Hema Perera,
+Deputy Director of Education,
+Planning and Monitoring Branch,
 Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mr. Pramalal Kumarasiri The Principal, Maharagama College. Colombo - 03
-
-- Mrs.Pryanthi Kuruppu, Deputy Director of Education, Education Quality Development Section,
-
+5. Mr. Pramalal Kumarasiri
+The Principal,
+Maharagama College.
+Colombo – 03
+6. Mrs.Pryanthi Kuruppu,
+Deputy Director of Education,
+Education Quality Development Section,
 Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mr. K.G. Kulasena Consultant
+7. Mr. K.G. Kulasena
+Consultant
 
 [[END OF PAGE 201]]
 
@@ -6990,21 +6488,31 @@ Ministry of Hunan Resources Development, Education and Cultural Affairs.
 
 189
 
-- Mrs. Chithra Rajapakse Advisor Teacher Training NIE
-
-- Mrs. K.M. Srimathi Kumarasingha Deputy Director of Education Navodya Schools Project Ministry of Human Resources Development Education & Cultural Affairs "Isurupaya"
-
-###### Work Shop on Final Discussing for Drafting
-
-- Mr. J.J. kandamby, Director of Education, Education for All Branch,
-
+8. Mrs. Chithra Rajapakse
+Advisor
+Teacher Training NIE
+9. Mrs. K.M. Srimathi Kumarasingha
+Deputy Director of Education
+Navodya Schools Project
+Ministry of Human Resources Development Education & Cultural Affairs
+"Isurupaya"
+##### Work Shop on Final Discussing for Drafting
+1. Mr. J.J. kandamby,
+Director of Education,
+Education for All Branch,
 Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mr. K.L. Premachandra, Deputy Director of Education, Education for All Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mrs. Malini Vithanage Assistant Director of Education, Education for All Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mrs. H.M. Wataliyadd Deputy Director of Education, Education for All Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
+2. Mr. K.L. Premachandra,
+Deputy Director of Education,
+Education for All Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
+3. Mrs. Malini Vithanage
+Assistant Director of Education,
+Education for All Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
+4. Mrs. H.M. Wataliyadd
+Deputy Director of Education,
+Education for All Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
 
 [[END OF PAGE 202]]
 
@@ -7012,21 +6520,30 @@ Ministry of Hunan Resources Development, Education and Cultural Affairs.
 
 190
 
-- Mrs. Hema Perera Deputy Director of Education, Planning and Monitoring Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mr. P.B. Dayasiri Provincial Primary Education Coordinator, Sabaragamuwa Province
-
-- Mrs. Geetha Abeyagunawardhana, Assistant Director of Education,
-
-- Mr. Pramalal Kumarasiri The Principal, Maharagama College. Colombo - 03
-
-- Mrs.Pryanthi Kuruppu, Deputy Director of Education, Education Quality Development Section, Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- 10.
-
-- Mr. Thanakasalam Pillaye, Deputy Commissioner of Education, Education Publication Department.
-
-- Mrs. Chandra Senewirathna, Director of Education, Primary Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
+5. Mrs. Hema Perera
+Deputy Director of Education,
+Planning and Monitoring Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
+6. Mr. P.B. Dayasiri
+Provincial Primary Education Coordinator,
+Sabaragamuwa Province
+7. Mrs. Geetha Abeyagunawardhana,
+Assistant Director of Education,
+8. Mr. Pramalal Kumarasiri
+The Principal,
+Maharagama College.
+Colombo – 03
+9. Mrs.Pryanthi Kuruppu,
+Deputy Director of Education,
+Education Quality Development Section,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
+10. Mr. Thanakasalam Pillaye,
+Deputy Commissioner of Education,
+Education Publication Department.
+11. Mrs. Chandra Senewirathna,
+Director of Education,
+Primary Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
 
 [[END OF PAGE 203]]
 
@@ -7034,11 +6551,14 @@ Ministry of Hunan Resources Development, Education and Cultural Affairs.
 
 191
 
-- Mr. N. Dharmasena Director of Education, Non- Formal Branch, Ministry of Hunan Resources Development, Education and Cultural Affairs.
-
-- Mrs. Kodagoda Representative of Non Government Organization.
-
-- Mr. Pushpakumara Deputy Director of Education.
+12. Mr. N. Dharmasena
+Director of Education,
+Non- Formal Branch,
+Ministry of Hunan Resources Development, Education and Cultural Affairs.
+13. Mrs. Kodagoda
+Representative of Non Government Organization.
+14. Mr. Pushpakumara
+Deputy Director of Education.
 
 [[END OF PAGE 204]]
 
@@ -7046,7 +6566,7 @@ Ministry of Hunan Resources Development, Education and Cultural Affairs.
 
 192
 
-###### Staff of the Education for All Branch
+##### Staff of the Education for All Branch
 
  Mr. J.J. Kandamby
 
