@@ -62,10 +62,6 @@ Radovan Fuchs Ph.D.
 
 Minister of Science, Education and Sports
 
-6
-
-7
-
 5
 
 [[END OF PAGE 5]]
@@ -80,7 +76,43 @@ Minister of Science, Education and Sports
 
 # Contents
 
-31
+FOREWORD 5
+INTRODUCTION 9
+I. NATIONAL CURRICULUM FRAMEWORK FOR PRE-SCHOOL EDUCATION AND GENERAL COMPULSORY AND SECONDARY EDUCATION 11
+1. What is the National Curriculum Framework? 11
+2. Focus on Competences 11
+3. What are the Elements of the National Curriculum Framework? 13
+4. Why National? Why Curriculum? Why Framework? 13
+II. EDUCATIONAL VALUES AND GENERAL EDUCATIONAL GOALS 14
+1. Socio-Cultural and Educational Values 14
+2. Educational Goals 15
+III. PRINCIPLES OF THE NATIONAL CURRICULUM FRAMEWORK 16
+IV. STUDENT-CENTRED EDUCATION 17
+V. STRUCTURE OF THE NATIONAL CURRICULUM FRAMEWORK FOR PRE-SCHOOL EDUCATION AND GENERAL COMPULSORY AND SECONDARY EDUCATION 18
+1. Educational Levels 18
+2. Educational Cycles 19
+3. Structure of the National Curriculum Framework in Primary and Secondary Schools 20
+4. Optional and Non-Compulsory Subjects 22
+VI. INTERDISCIPLINARY THEMES 23
+1. Personal and Social Development 23
+2. Health, Safety and Environmental Protection 24
+3. Learning to Learn 24
+4. Entrepreneurship 25
+5. Use of Information and Communication Technology 26
+6. Civil Education 26
+VII. PRE-SCHOOL EDUCATION 28
+1. Purpose and Importance of Pre-School Curriculum 28
+2. Structure of Pre-School Curriculum 28
+VIII. EDUCATIONAL AREAS OF GENERAL COMPULSORY AND SECONDARY EDUCATION 30
+1. Language and Communication Area 31
+DESCRIPTION OF THE AREA 31
+EDUCATIONAL GOALS OF THE AREA 31
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 32
+A. CROATIAN LANGUAGE 32
+B. FOREIGN LANGUAGES 52
+C. CLASSICAL LANGUAGES 73
+D. LANGUAGES OF NATIONAL MINORITIES AS MOTHER TONGUES 79
+SUBJECT FRAMEWORK OF THE AREA 79
 
 7
 
@@ -88,9 +120,44 @@ Minister of Science, Education and Sports
 
 [[START OF PAGE 8]]
 
-XII.
-
-9
+2. Mathematics Area 80
+DESCRIPTION OF THE AREA 80
+EDUCATIONAL GOALS OF THE AREA 80
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 81
+SUBJECT FRAMEWORK OF THE AREA 92
+3. Science Area 93
+DESCRIPTION OF THE AREA 93
+EDUCATIONAL GOALS OF THE AREA 94
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 95
+SUBJECT FRAMEWORK OF THE AREA 114
+4. Technical and Informatics area 115
+DESCRIPTION OF THE AREA 115
+EDUCATIONAL GOALS OF THE AREA 115
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 116
+SUBJECT FRAMEWORK OF THE AREA 130
+5. Social Sciences and Humanities Area 131
+DESCRIPTION OF THE AREA 131
+EDUCATIONAL GOALS OF THE AREA 131
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 132
+SUBJECT FRAMEWORK OF THE AREA 152
+6. Art Area 153
+DESCRIPTION OF THE AREA 153
+EDUCATIONAL GOALS OF THE AREA 154
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 154
+SUBJECT FRAMEWORK OF THE AREA 186
+7. Physical Education and Health Area 187
+DESCRIPTION OF THE AREA 187
+EDUCATIONAL GOALS OF THE AREA 187
+EXPECTED STUDENT ACHIEVEMENTS PER EDUCATIONAL CYCLE 188
+SUBJECT FRAMEWORK OF THE AREA 196
+IX. EXPECTED STUDENT ACHIEVEMENTS IN VOCATIONAL AND ART EDUCATION 197
+X. CHILDREN AND STUDENTS WITH SPECIAL EDUCATIONAL NEEDS 199
+1. Children and Students with Disabilities 199
+2. Gifted and Talented Children and Students 201
+XI. ASSESSMENT AND EVALUATION OF STUDENT ACHIEVEMENTS 204
+XII. MONITORING AND EVALUATION OF THE ACHIEVEMENTS OF THE NATIONAL CURRICULUM 207
+1. External Evaluation – State Matura and National-Level Examinations 207
+2. Self-Evaluation of Educational Work 208
 
 8
 
@@ -112,9 +179,9 @@ The  transition  to  a  competence-based  system  would  be  deficient  without 
 
 The National Curriculum Framework defines core educational values, educational goals, principles and goals  of  educational  areas,  principles  of  evaluation  of  student  achievements,  and  principles  of evaluation  and self-evaluation  of  the  implementation  of  the  national  curriculum.  It  provides  for  short descriptions of interdisciplinary themes and their goals. Expected student achievements for educational areas according to cycles have been determined. The subject structure of each of the educational areas  has  been  outlined.  Namely,  a  successful  implementation  of  education  that  leads  to  the acquisition of competences is not in contravention of traditional subject-based teaching. The National Curriculum Framework instructs teachers to overcome subject specialisation, and to take part more or less equally in developing students' core competences by applying the principle of shared responsibility -  in  particular  by  making  explicit  the  values  that  are  intertwined  with  cross-subject  (cross-curricular) topics.
 
-The National Curriculum Framework constitutes the baseline for the preparation of syllabi, i.e., defining optimal workloads for students, and building on educational area achievements to prepare  subjectbased curricula.  The  prerequisite  for  high-quality  implementation  of  the  national  curriculum  is  a  high level  of  competence  among  the  implementers  of  education  policy.  It  requires  the  preparation  of systematic training programmes to enable teachers, associates and principals to apply the curriculumbased approach. The National Curriculum Framework will also be used for the preparation of textbooks and other teaching and educational resources.
+The National Curriculum Framework constitutes the baseline for the preparation of syllabi, i.e., defining optimal workloads for students, and building on educational area achievements to prepare subject-based curricula. The prerequisite for high-quality implementation of the national curriculum is a high level of competence among the implementers of education policy. It requires the preparation of systematic training programmes to enable teachers, associates and principals to apply the curriculum-based approach. The National Curriculum Framework will also be used for the preparation of textbooks and other teaching and educational resources.
 
-It  is  important  to  point  out  that  the National  Curriculum  Framework is  an  exceptionally  significant document  for  planning  and  organising  school  operations,  including  the  preparation  of  the  school curriculum.  The  described  educational  values,  goals,  competences  and  principles  contribute  to  the understanding  and  concerted  planning  of  the  development  and  operation  of  schools.  Further,  a description of educational areas and their goals helps schools to inter-connect subjects and streamline instruction  purposefully.  This  is  also  facilitated  by  cross-curricular  topics  whose  introduction  serves  to deepen topical content and boost students' knowledge and awareness about health; rights; personal and social accountability; social, cultural, economic, technological, and sustainable development; and the values of learning, working, self-esteem, and respect for other and different people. The introduction of cross-curricular topics - and the possibility of devising and organising optional and non-compulsory instruction - will enable schools to enrich the school curriculum significantly.
+It is important to point out that the National Curriculum Framework is an exceptionally significant document for planning and organising school operations, including the preparation of the school curriculum. The described educational values, goals, competences and principles contribute to the understanding and concerted planning of the development and operation of schools. Further, a description of educational areas and their goals helps schools to inter-connect subjects and streamline instruction purposefully. This is also facilitated by cross-curricular topics whose introduction serves to deepen topical content and boost students' knowledge and awareness about health; rights; personal and social accountability; social, cultural, economic, technological, and sustainable development; and
 
 9
 
@@ -122,7 +189,9 @@ It  is  important  to  point  out  that  the National  Curriculum  Framework is 
 
 [[START OF PAGE 10]]
 
-This  document  calls  on  us  to  start  thinking  out  of  the  box  when  it  comes  to  education:  it  addresses challenges to learning and teaching, to instruction planning and implementation, and to school work in its entirety.
+the values of learning, working, self-esteem, and respect for other and different people. The introduction of cross-curricular topics – and the possibility of devising and organising optional and non-compulsory instruction – will enable schools to enrich the school curriculum significantly.
+
+This document calls on us to start thinking out of the box when it comes to education: it addresses challenges to learning and teaching, to instruction planning and implementation, and to school work in its entirety.
 
 The preparation of curriculum documents, including the National Curriculum Framework ,  constitutes a complex and time-consuming process that implies a permanent evaluation and self-evaluation of the course of education for those who learn and those who teach, and a constant connection between education policy and science and education practice.
 
@@ -134,7 +203,7 @@ The preparation of curriculum documents, including the National Curriculum Frame
 
 # I. NATIONAL CURRICULUM FRAMEWORK FOR PRE-SCHOOL EDUCATION AND GENERAL COMPULSORY AND SECONDARY EDUCATION
 
-## 1. What is the National Curriculum Framework ?
+## 1. What is the National Curriculum Framework?
 
 The National Curriculum Framework constitutes the basic elements of pre-school, general compulsory and secondary education, including education for children with special needs. The National Curriculum Framework is  the fundamental  document  that  presents  the  elements  of  the  curriculum  system:  the values,  goals,  principles,  content  and  general  goals  of  educational  areas,  the  evaluation  of  student achievements, and the evaluation and self-evaluation of the realisation of the national curriculum.
 
@@ -152,8 +221,6 @@ The  development  of  a  knowledge-based  society  and  the  globalization  proc
 
 Life  and  work  in  the  contemporary  society  of  rapid  changes  and  tough  competition  require  new knowledge,  skills,  abilities,  values,  and  attitudes,  i.e.  new  competences  of  the  individual,  which emphasize  innovativeness,  creativity,  problem  solving  skills,  critical  thinking  skills,  entrepreneurship, information  literacy,  social  skills,  and  other  skills.  It  is  not  possible  to  foster  these  skills  in  a  traditional education system whose main function is knowledge transfer. A shift in curriculum policy and planning from a focus on knowledge transfer to one of competence development means a  turnabout in the approach to education programming.
 
-12
-
 11
 
 [[END OF PAGE 11]]
@@ -166,7 +233,7 @@ The development of national curricula that focus on student competences represen
 
  communication  in  foreign  languages  -  this  is  the  ability  to  use  a  foreign  language  to understand and express oneself, in both verbal and written form, and to interpret concepts, thoughts,  feelings,  attitudes  and  facts  in  a  full  range  of  societal  and  cultural  contexts.  A significant part of achieving this ability is developing skills of intercultural understanding.
 
- mathematical competence and basic competences in science and technology -mathematical competence is the ability of the student to develop mathematical thinking skills and apply them to problem solving in various everyday situations; science competence is the ability to use the body of knowledge and methodology that explains the natural world in order to identify questions and draw evidence-based conclusions; competence in technology is the application  of  scientific  knowledge  and  methodology  to  satisfy  perceived  human  wants  or needs. Basic abilities in science and technology also involve an understanding of the impacts caused by human activity and the responsibilities of individual citizens.
+ mathematical competence and basic competences in science and technology – mathematical competence is the ability of the student to develop mathematical thinking skills and apply them to problem solving in various everyday situations; science competence is the ability to use the body of knowledge and methodology that explains the natural world in order to identify questions and draw evidence-based conclusions; competence in technology is the application of scientific knowledge and methodology to satisfy perceived human wants or needs. Basic abilities in science and technology also involve an understanding of the impacts caused by human activity and the responsibilities of individual citizens.
 
  digital  competence  -  this  involves  the  confident  and  critical  use  of  Information  Society Technology for work, leisure,  social  life,  and  communication. It is  underpinned  by  basic  skills and  abilities  in  ICT:  the  use  of  computers  to  retrieve,  assess,  store,  produce,  present,  and exchange information, and the development of collaborative networks via the Internet.
 
@@ -188,7 +255,7 @@ At present, the above abilities are being introduced into the national curricula
 
 [[START OF PAGE 13]]
 
-## 3. What are the elements of the National Curriculum Framework ?
+## 3. What are the elements of the National Curriculum Framework?
 
 The basic elements of the National Curriculum Framework are as follows:
 
@@ -204,7 +271,7 @@ The basic elements of the National Curriculum Framework are as follows:
 
  assessment and evaluation of student achievements and schools.
 
-## 4. Why National ? Why Framework ? Why Curriculum ?
+## 4. Why National? Why Framework? Why Curriculum?
 
 It is National because  it  is  being  adopted  at  the  national  level,  by  consensus,  and  it  takes  into consideration  national  social,  cultural,  and  economic  factors,  as  well  as  the  opinions  of  scientists, professionals, and citizens. It is therefore binding on all stakeholders throughout the implementation to act in accordance with the values and goals adopted by means of this document.
 
@@ -212,9 +279,7 @@ It is a Framework because it provides the widest framework for educational activ
 
 It is a Curriculum - meaning the aggregate of a child and student's growth, upbringing and education: a long-term, systematically devised, permanent, meaningfully-assembled, and harmonious organisation of  the  educational  process  which  is  wider  and  deeper  than  course  syllabi  alone.  The  curriculum  is subject to change through the application of external evaluation and self-evaluation.
 
-The National  Curriculum  Framework is  a  vehicle  for  the  implementers  of  educational  activities  educators, teachers, associates, and principals - as well as for the participants (stakeholders) and users of education - students, adult attendees included in education, parents, the local community, religious groups, agencies, associations/organisations, the government, social partners, political parties, professional associations, and civil organisations.
-
-14
+The National Curriculum Framework is a vehicle for the implementers of educational activities – educators, teachers, associates, and principals – as well as for the participants (stakeholders) and users of education – students, adult attendees included in education, parents, the local community, religious groups, agencies, associations/organisations, the government, social partners, political parties, professional associations, and civil organisations.
 
 13
 
@@ -228,7 +293,7 @@ The National  Curriculum  Framework is  a  vehicle  for  the  implementers  of  
 
 By means of education we demonstrate to students the kind of society and the kind of people that we want. Therefore, it is essential to recognise and agree on common social and cultural values as well as long-term educational goals that support and give direction to educational work. Preschool institutions and schools are expected to consider and adhere to these values and goals.
 
-At the beginning of the 21st century, Croatian educational policy also faces the challenge and need to harmonise the local and the national with the global, to harmonise tradition with modernity, the shortterm  with  the  long-term,  competition  with solidarity,  the  accelerated  growth  of  scientific  and technological knowledge with the human abilities needed to master it, the spiritual with the material, etc.
+At the beginning of the 21st century, Croatian educational policy also faces the challenge and need to harmonise the local and the national with the global, to harmonise tradition with modernity, the short-term with the long-term, competition with solidarity, the accelerated growth of scientific and technological knowledge with the human abilities needed to master it, the spiritual with the material, etc.
 
 One of the responses to the challenges and needs mentioned above is promoting key values through education  -  for  instance,  human  dignity,  freedom,  justice,  patriotism,  social  equality,  solidarity, tolerance, industriousness, integrity, peace, health, conservation of the natural and human environment, and other democratic values. These values, on which the education system in Croatia is based, facilitate new opportunities for the development of the Croatian national, cultural, and spiritual identity in the context of globalisation.
 
@@ -272,17 +337,11 @@ These goals should be spliced into basic educational content and everyday school
 
 In  order  for  schools  to  be  able  to  contribute  to  attaining  such  values  and  objectives,  they  must collaborate with families and local communities.
 
-16
-
-16
-
 15
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
-
-17
 
 # III. PRINCIPLES OF THE NATIONAL CURRICULUM FRAMEWORK
 
@@ -350,8 +409,6 @@ The realisation of education and instruction requires permanent collaboration an
 
 Quality  educational  work  on  the  part  of  pre-school  institutions  and  schools  implies  regular  and permanent collaboration  with parents/guardians in order to establish  a clear division  of  responsibility with respect to the achievement of educational objectives in school.
 
-18
-
 17
 
 [[END OF PAGE 17]]
@@ -376,21 +433,15 @@ Pre-school education constitutes the first level in the structure of the Nationa
 
  from the third year of age of the child to the start of primary school.
 
-Figure 1. Education cycles of pre-school education
-
+Cycle III
+3 to 6.5 years
+Cycle II
+1 to 3 years
+Cycle I
+6 months to 1 year
 up to 6 months
 
-1 to 3 years
-
-6 months to 1 year
-
-Cycle I
-
-Cycle II
-
-Cycle III
-
-3 to 6.5 years
+Figure 1. Education cycles of pre-school education
 
 In line with the values, general goals, and principles of the National Curriculum Framework, the focus of educational activities over the course of pre-school education is directed at fostering comprehensive and  sound  growth  and  development  of  the  child,  and  the  development  of  all  areas  of  the  child's personality:  physical,  emotional,  social,  intellectual,  moral,  and  spiritual,  appropriate  for  the  child's developmental level.
 
@@ -426,6 +477,33 @@ The fourth cycle, which pertains to grades 1 and 2 of secondary vocational and a
 
 The fourth cycle also pertains to the acquisition of the lowest level of vocational qualifications, which means that a student may acquire the first such qualification at the age of 16.
 
+NATIONAL CURRICULUM FRAMEWORK FOR ACQUIRING KEY COMPETENCES
+NCF
+SCHOOL CURRICULUM
+State Matura
+SECONDARY SCHOOL
+Cycle 4
+grade 4
+grade 3
+grade 2
+grade 1
+16/17
+PRIMARY SCHOOL
+Cycle 3
+grade 8
+grade 7
+14/15
+Cycle 2
+grade 6
+grade 5
+10/11
+Cycle 1
+grade 4
+grade 3
+grade 2
+grade 1
+6/7
+
 Figure 2. Educational Cycles for Acquiring Key Competences
 
 Educational  cycles  are  primarily  used  to  plan  and  program  curricula  and  subject  content,  and  are guided  by  the  principles  of  inter-connectivity,  purposeful  harmony,  and  clearly  defined  student workloads  over  the  course  of  either  a  specific  educational  cycle  or  one  school  year  in  the  core, differentiated, and  school curricula. Curriculum programming  implies taking into consideration interdisciplinary themes. Curriculum planning and programming presumes taking into consideration the level of each student's engagement in school (school work) and at home (homework).
@@ -446,89 +524,23 @@ Curricula of art schools will be regulated by special regulations.
 
 On the basis of scientific research, modern educational trends, and the provisions of the Strategy for Preparing and Developing the National Curriculum for Pre-School, General Compulsory, and Secondary Education (2007), Measures to Introduce Compulsory Secondary Education in the Republic of Croatia (2007), and Art. 27 of the Primary and Secondary School Education Act (2008), the National Curriculum Framework presupposes an equal curriculum structure in primary and secondary schools. This consists of the core, differentiated and school curricula (Figure 3).
 
-Figure 3. Structure of the National Curriculum in Primary and Secondary Schools
-
-CORE CURRICULUM
-
-DIFFERENTIATED
-
-CURRICULUM
-
-consists of one or
-
-more optional
-
-subjects offered at
-
-the national and/or
-
-school
-
-level; constitutes one
-
-part of the
-
-compulsory
-
-educational standard
-
-for students;
-
-assesses student
-
-performance by
-
-numerical mark
-
-pertains to all
-
-students;
-
-identical and
-
-compulsory for all
-
-students, except
-
-those with difficulties;
-
-assesses student
-
-performance by
-
-numerical mark
-
-Interdisciplinary  themes  either  permeate  all  parts  of  NCF,  or  are  programmed  as
-
-special subjects or modules in one part of the school curriculum
-
 NATIONAL CURRICULUM FRAMEWORK IN PRIMARY AND SECONDARY SCHOOL
 
+CORE CURRICULUM
+pertains to all students;
+identical and compulsory for all students, except those with difficulties;
+assesses student performance by numerical mark
+
+DIFFERENTIATED CURRICULUM
+consists of one or more optional subjects offered at the national and/or school level; constitutes one part of the compulsory educational standard for students;
+assesses student performance by numerical mark
+
 SCHOOL CURRICULUM
+consists of non-compulsory subjects, supplemental classes/additional instruction, remedial instruction, extracurricular activities, projects, excursions, and other options for students at the school level; assesses student performance optionally, and if so, by numerical mark or by description
 
-consists of non-compulsory
+Interdisciplinary themes either permeate all parts of NCF, or are programmed as special subjects or modules in one part of the school curriculum
 
-subjects, supplemental
-
-classes/additional instruction,
-
-remedial instruction,
-
-extracurricular activities,
-
-projects, excursions, and
-
-other options for students at
-
-the school level; assesses
-
-student performance
-
-optionally, and if so, by
-
-numerical mark or by
-
-description
+Figure 3. Structure of the National Curriculum in Primary and Secondary Schools
 
 ### Primary school
 
@@ -536,7 +548,7 @@ The core curriculum through which students acquire key competences in primary sc
 
 The differentiated curriculum in primary school is a cluster of optional subjects offered to students at the national and/or school level. The core and differentiated curricula constitute the educational standard for  all  students.  Accordingly,  the  workload  under  the  differentiated  curriculum  is  the  same  for  all students. As with the core curriculum, the differentiated curriculum is compulsory for all students, and it assesses student performance by assigning a numerical mark that is recorded in each student's school certificate.
 
-The school curriculum refers to the methods used by the schools to implement the National Curriculum Framework,  and  takes  into  consideration  the  educational  needs  and  priorities  of  the  students,  the school, and the environment in which the school operates. It is prepared in collaboration with school employees, students, parents, and the local community. The school curriculum includes non-compulsory subjects,  modules  and  other  educational  programmes,  supplementary  classes,  additional/remedial instruction,  school  projects,  class  projects,  group  projects,  excursions,  trips,  and  extracurricular  and extramural  activities.  All  school  curriculum  programmes  are  non-compulsory.  However,  if  the  school curriculum  facilitates  for  students  the  acquisition  of  specific  abilities  by  means  of  non-compulsory subjects, supplementary classes/additional instruction (in, e.g., a foreign language), other services (e.g., a  special  curriculum  for  gifted  students),  or  specific  activities  (e.g.,  entrepreneurial  learning),  each student's achievement may be assessed by description or by numerical mark. (This numerical mark is separate from the educational standard, and may be entered into a student's certificate supplement if the option for such is transparently published at the beginning of the school year.)
+The school curriculum refers to the methods used by the schools to implement the National Curriculum Framework, and takes into consideration the educational needs and priorities of the students, the
 
 20
 
@@ -544,7 +556,9 @@ The school curriculum refers to the methods used by the schools to implement the
 
 [[START OF PAGE 21]]
 
-The school curriculum implies the offering of extracurricular and extramural programmes and activities that  each  school  will  prepare  as  part  of  its  programming  and  then  harmonise  with  its  counterpart schools, taking into account the aptitudes and developmental capacities of students, the capabilities of each school, and the optimal student workload in particular.
+school, and the environment in which the school operates. It is prepared in collaboration with school employees, students, parents, and the local community. The school curriculum includes non-compulsory subjects, modules and other educational programmes, supplementary classes, additional/remedial instruction, school projects, class projects, group projects, excursions, trips, and extracurricular and extramural activities. All school curriculum programmes are non-compulsory. However, if the school curriculum facilitates for students the acquisition of specific abilities by means of non-compulsory subjects, supplementary classes/additional instruction (in, e.g., a foreign language), other services (e.g., a special curriculum for gifted students), or specific activities (e.g., entrepreneurial learning), each student's achievement may be assessed by description or by numerical mark. (This numerical mark is separate from the educational standard, and may be entered into a student's certificate supplement if the option for such is transparently published at the beginning of the school year.)
+
+The school curriculum implies the offering of extracurricular and extramural programmes and activities that each school will prepare as part of its programming and then harmonise with its counterpart schools, taking into account the aptitudes and developmental capacities of students, the capabilities of each school, and the optimal student workload in particular.
 
 The  school  curricula  are  published  at  the  beginning  of  the  school  year  so  that  students,  parents, education  policymakers,  local  communities,  and  the  public  at  large  are  informed  about  them  in  a timely manner.
 
@@ -572,7 +586,7 @@ For secondary school students who attend the vocational curriculum for at least 
 
 [[START OF PAGE 22]]
 
-The National Curriculum Framework provides for the monitoring and recognition of students at threeyear vocational schools who have performed at above-average levels and demonstrated an interest in continuing  education.  For  those  students  it  is  necessary  to  take  advantage  of  optional  and  noncompulsory subjects as a form of supplementary instruction (or as a part of the school curriculum), thus enabling them to acquire wider and deeper knowledge, and to develop abilities, that will meet the requirements  of  the  State  Matura  examination  and  prepare  them  for  the  successful  continuation  of education.
+The National Curriculum Framework provides for the monitoring and recognition of students at three-year vocational schools who have performed at above-average levels and demonstrated an interest in continuing education. For those students it is necessary to take advantage of optional and non-compulsory subjects as a form of supplementary instruction (or as a part of the school curriculum), thus enabling them to acquire wider and deeper knowledge, and to develop abilities, that will meet the requirements of the State Matura examination and prepare them for the successful continuation of education.
 
 ### Secondary schools that provide general education - grammar schools
 
@@ -586,21 +600,17 @@ A grammar school student completes secondary education by taking and passing the
 
 For the purpose of harmonising educational standards for all primary school students, it is necessary to develop  a  uniform  student  workload  as  well.  An  alternative  optional  subject  is  therefore  to  be introduced  that  will  provide  students  with  key  ethical  and  moral  competences,  as  well  as  basic knowledge about religion, for those who opt not to enrol in a traditional catechism course.
 
-While  optional  subjects  are  compulsory  and  therefore  an  integral  part  of  the  educational  standard, non-compulsory subjects are subjects that students select from a range of offered subjects/modules in the  school  curriculum.  Unlike  optional  subjects,  non-compulsory  subjects  do  not  mandate  a  choice between  a  limited  number  of  alternative  subjects,  but  instead  represent  unique  and  truly  noncompulsory offers.
+While optional subjects are compulsory and therefore an integral part of the educational standard, non-compulsory subjects are subjects that students select from a range of offered subjects/modules in the school curriculum. Unlike optional subjects, non-compulsory subjects do not mandate a choice between a limited number of alternative subjects, but instead represent unique and truly non-compulsory offers.
 
 Non-compulsory subjects may include, for instance, Professional orientation for the future, Information and  communication  technology,  Civil  education,  Cultures  of  speech  and  listening,  Rhetoric,  Media culture, Croatian traditional culture, Architecture, Environmental and  cultural heritage,  Drama education, Addiction prevention, Domestic science, Handicrafts, classical and foreign languages, and many others that the school may prepare and offer to students, taking into consideration their needs, general  educational  values,  goals,  and  the  development  of  key  competences.  Schools  may  create other subjects, modules, projects, and activities at their own discretion.
 
 The National Curriculum Framework addresses only the SUBJECT FRAMEWORK of specific educational areas. The precise subject structure of the national curriculum, i.e., the list of compulsory, optional, and non-compulsory subjects constituting the core, differentiated and school curricula, respectively, will be determined  in  the  next  phase  of  national  curriculum  development,  immediately  following  the preparation of the educational plan, i.e., the optimal student workload.
-
-23
 
 22
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
-
-24
 
 # VI. INTERDISCIPLINARY THEMES
 
@@ -864,8 +874,6 @@ guide  one's  own  activities;  independence  in  engaging  in  activities,  for
 
 On the basis of these key determinants, individual and special curricula will be prepared in pre-school educational institutions, as will all other activities related to children of pre-school age.
 
-30
-
 29
 
 [[END OF PAGE 29]]
@@ -1004,7 +1012,7 @@ Students will:
 
  recognise the everyday importance of simple, non-literary and literary texts, either assigned or individually selected
 
- assess their  selections  and the  pleasure  they derive from them when listening to simple, nonliterary and literary texts
+ assess their  selections  and the  pleasure  they derive from them when listening to simple, non-literary and literary texts
 
 32
 
@@ -1012,7 +1020,7 @@ Students will:
 
 [[START OF PAGE 33]]
 
- acquire key frameworks for developing valid personal listening preferences vis-à-vis simple, nonliterary and literary texts.
+ acquire key frameworks for developing valid personal listening preferences vis-à-vis simple, non-literary and literary texts.
 
 ###### 5. Becoming familiar with and respecting the Croatian culture, the cultures of national minorities in the Republic of Croatia, and other cultures
 
@@ -1076,7 +1084,7 @@ Students will:
 
  recognise and respect the features of the Croatian culture, their own cultures (if not Croatian), and other cultures in their immediate surroundings, and express themselves through verbal and non-verbal speech
 
- identify and accept differences and common values between the Croatian culture, their own cultures  (if  not  Croatian),  and  other  cultures,  and  speak  about  them  using  verbal  and  nonverbal communication.
+ identify and accept differences and common values between the Croatian culture, their own cultures  (if  not  Croatian),  and  other  cultures,  and  speak  about  them  using  verbal  and  non-verbal communication.
 
 ##### III. READING
 
@@ -1124,7 +1132,7 @@ Students will:
 
  assess their selections and the pleasure they derive from them when reading simple, non-literary and literary texts
 
- acquire key frameworks for developing valid personal reading preferences vis-à-vis simple, nonliterary and literary texts.
+ acquire key frameworks for developing valid personal reading preferences vis-à-vis simple, non-literary and literary texts.
 
 34
 
@@ -1206,7 +1214,7 @@ Students will:
 
  select a topic, a format, sources and a purpose for listening to simple, non-literary and literary texts, either assigned or individually selected
 
- recognise and describe the differences between active and passive listening, using simple, nonliterary and literary texts, in line with their own everyday interests and needs
+ recognise and describe the differences between active and passive listening, using simple, non-literary and literary texts, in line with their own everyday interests and needs
 
  recognise and point out key words, ideas, language characteristics, and key features of style in simple, non-literary and literary texts, either assigned or individually selected.
 
@@ -1238,7 +1246,7 @@ Students will:
 
  recognise the everyday importance of simple, non-literary and literary texts, either assigned or individually selected
 
- assess their  selections  and the  pleasure  they derive from them when listening to simple, nonliterary and literary texts
+ assess their  selections  and the  pleasure  they derive from them when listening to simple, non-literary and literary texts
 
  acquire the key frameworks for developing valid personal listening preferences vis-à-vis simple, non-literary and literary texts.
 
@@ -1310,7 +1318,7 @@ Students will:
 
  recognise and respect the features of the Croatian culture, their own cultures (if not Croatian), and other cultures in their immediate surroundings, and express themselves through verbal and non-verbal speech
 
- identify and accept differences and common values between the Croatian culture, their own cultures  (if  not  Croatian),  and  other  cultures,  and  speak  about  them  using  verbal  and  nonverbal communication.
+ identify and accept differences and common values between the Croatian culture, their own cultures  (if  not  Croatian),  and  other  cultures,  and  speak  about  them  using  verbal  and  non-verbal communication.
 
 ##### III. READING
 
@@ -1358,7 +1366,7 @@ Students will:
 
  assess their selections and the pleasure they derive from them when reading simple, non-literary and literary texts
 
- acquire key frameworks for developing valid personal reading preferences vis-à-vis simple, nonliterary and literary texts.
+ acquire key frameworks for developing valid personal reading preferences vis-à-vis simple, non-literary and literary texts.
 
 38
 
@@ -1442,7 +1450,7 @@ Students will:
 
  recognize and describe the differences between active and passive listening, using complex, non-literary and literary texts, in line with their own everyday interests and needs
 
- recognise and define key words, ideas, linguistic details, and stylistic features of complex, nonliterary and literary texts, either assigned or individually selected.
+ recognise and define key words, ideas, linguistic details, and stylistic features of complex, non-literary and literary texts, either assigned or individually selected.
 
 ###### 2. Applying listening strategies
 
@@ -1544,7 +1552,7 @@ Students will:
 
  recognise and respect the features of the Croatian culture, their own culture (if not Croatian), and other cultures beyond their own immediate surroundings, and express themselves through verbal and non-verbal communication.
 
- identify and accept differences and common values between the Croatian culture, their own cultures  (if  not  Croatian),  and  other  cultures,  and  speak  about  them  using  verbal  and  nonverbal communication.
+ identify and accept differences and common values between the Croatian culture, their own cultures  (if  not  Croatian),  and  other  cultures,  and  speak  about  them  using  verbal  and  non-verbal communication.
 
 ##### III. READING
 
@@ -1606,7 +1614,7 @@ Students will:
 
  recognise and respect the features of the Croatian culture, their own cultures (if not Croatian), and other cultures beyond their immediate surroundings, and in more complex, non-literary and literary texts, either assigned or individually selected
 
- identify  and  accept  the  differences  between  Croatian  culture,  their  own  cultures  (if  not Croatian), and other cultures beyond their immediate surroundings, and in more complex, nonliterary and literary texts, either assigned or individually selected.
+ identify  and  accept  the  differences  between  Croatian  culture,  their  own  cultures  (if  not Croatian), and other cultures beyond their immediate surroundings, and in more complex, non-literary and literary texts, either assigned or individually selected.
 
 ##### IV. WRITING
 
@@ -1674,7 +1682,7 @@ Students will:
 
  explain  the  difference  between  active  and  passive  listening,  using  complex,  non-literary  and literary texts, in line with their own everyday interests and needs
 
- identify and explain the key words, ideas, and linguistic and stylistic features of complex, nonliterary and literary texts, either assigned or individually selected.
+ identify and explain the key words, ideas, and linguistic and stylistic features of complex, non-literary and literary texts, either assigned or individually selected.
 
 ###### 2. Applying listening strategies
 
@@ -1682,7 +1690,7 @@ Students will:
 
  select  and  apply  cognitive,  metacognitive,  and  social-affective  strategies  prior  to  and  while listening  to  (and  looking  at)  complex,  non-literary  and  literary  texts,  either  assigned  or individually selected
 
- systematically identify and classify information as necessary, significant, or interesting, and point out useful and important details, prior to and while listening to (and looking at) complex, nonliterary and literary texts, either assigned or individually selected
+ systematically identify and classify information as necessary, significant, or interesting, and point out useful and important details, prior to and while listening to (and looking at) complex, non-literary and literary texts, either assigned or individually selected
 
  select  and  justify  the  use  of  individual  or  collaborative  learning  strategies,  both  inside  and outside of the classroom.
 
@@ -1690,7 +1698,7 @@ Students will:
 
 Students will:
 
- systematically identify and explain the key words, ideas, and linguistic features of complex, nonliterary, and literary texts, either assigned or individually selected
+ systematically identify and explain the key words, ideas, and linguistic features of complex, non-literary, and literary texts, either assigned or individually selected
 
  over  the  course  of  listening,  assess  on  various  levels  the  content  as  well  as  the  linguistic  and theoretical information in complex, non-literary and literary texts, either assigned or individually selected.
 
@@ -1890,6 +1898,8 @@ Students will:
 
 [[START OF PAGE 48]]
 
+#### The fourth cycle (grammar schools)
+
 ##### I. LISTENING
 
 ###### 1. Preparation for listening
@@ -1898,7 +1908,7 @@ Students will:
 
  select a topic, a format, sources, and purpose for listening to variously complex non-literary and literary texts, either assigned or individually selected
 
- explain  the  difference  between  active  and  passive  listening,  using  variously  complex  nonliterary and literary texts, selected in line with their own everyday interests and needs
+ explain  the  difference  between  active  and  passive  listening,  using  variously  complex  non-literary and literary texts, selected in line with their own everyday interests and needs
 
  identify  and  explain  the  key  words,  ideas,  and  linguistic  and  stylistic  features  of  variously complex non-literary and literary texts, either assigned or individually selected.
 
@@ -1937,8 +1947,6 @@ Students will:
  recognise and respect the differences between the Croatian culture, their own cultures (if not Croatian), and other cultures beyond their immediate surroundings, on the basis of non-literary and literary texts, either assigned or individually selected, taking into consideration the place and time of the texts' origin
 
  behave in accordance with general human values.
-
-#### The fourth cycle (grammar schools)
 
 48
 
@@ -1980,7 +1988,7 @@ Students will:
 
 Students will:
 
- acquire interest in and a positive attitude towards conversational engagement and problemsolving in various situations, in accordance with relevant educational objectives
+ acquire interest in and a positive attitude towards conversational engagement and problem-solving in various situations, in accordance with relevant educational objectives
 
  acquire a habit of speaking in various situations, with regard to relevant educational objectives
 
@@ -2120,6 +2128,8 @@ Students will:
 
 ### B. FOREIGN LANGUAGES 1
 
+#### The first cycle 2
+
 ##### I. LISTENING
 
 ###### 1. Preparation for listening
@@ -2152,7 +2162,7 @@ Students will:
 
  demonstrate  comprehension  of  and  pleasure  from  listening  by  actively  participating  and showing appropriate reactions
 
- follow and react at a basic level to the content of very simple literary and non-literary audiovisual materials
+ follow and react at a basic level to the content of very simple literary and non-literary audio-visual materials
 
  demonstrate through verbal and non-verbal reactions a positive attitude towards listening to a variety of very simple texts.
 
@@ -2171,8 +2181,6 @@ Students will:
 > 1  The expectations of achievement listed here represent the minimal such expectations for students learning their first foreign language from the 1st year of primary school.
 
 > 2   Expectations of achievement in the first foreign language, upon students' completion of the 4th year of primary school, are devised based on the preparatory level (A1) of the Common European Framework of Reference for Languages. Under  these  arrangements  it  is  expected  that  students  learning  the  English  language,  given  their significantly higher exposure to it in everyday situations, will probably exceed these expectations.
-
-#### The first cycle 2
 
 52
 
@@ -2374,6 +2382,8 @@ Students will:
 
 [[START OF PAGE 56]]
 
+#### The second cycle 3
+
 ##### I. LISTENING
 
 ###### 1. Preparation for listening
@@ -2435,8 +2445,6 @@ Students will:
  notice  differences  between  the  writing  out  and  the  phonetic  pronunciation  of  simple expressions.
 
 > 3  In determining expectations of achievement in learning a second foreign language, the achievements listed here reflect expected results given fewer hours of instruction and an onset of said instruction that does not occur until the 4th year of primary school. Distinctions between the expected achievements of students learning their first and second foreign languages will be determined by subject curricula.
-
-#### The second cycle 3
 
 56
 
@@ -2628,6 +2636,8 @@ Students will:
 
 [[START OF PAGE 60]]
 
+#### The third cycle 4
+
 ##### I. LISTENING
 
 ###### 1. Preparation for listening
@@ -2664,7 +2674,7 @@ Students will:
 
  demonstrate  comprehension  of  and  pleasure  from  listening  by  actively  participating  and showing appropriate reactions
 
- follow  and  react  to  the  content  of  simple  and  somewhat  more  complex  audio  and  audiovisual, literary and non-literary texts
+ follow and react to the content of simple and somewhat more complex audio and audio-visual, literary and non-literary texts
 
  demonstrate,  through  verbal  and  non-verbal  feedback,  curiosity  and  a  positive  attitude towards listening to a variety of simple and somewhat more complex texts.
 
@@ -2681,8 +2691,6 @@ Students will:
  acquire a positive  attitude  towards  universal  human  values  such  as  friendship,  collaboration, altruism,  and  tolerance,  and  become  aware  of  the  importance  of  active  and  responsible community involvement.
 
 > 4  Expectations of achievement upon students' completion of the 8th year of foreign language instruction are based on  the  basic  level  (A2)  of  the Common European Framework of Reference for Languages. It  is  expected  that students  learning  the  English  language,  given  their  significantly  higher  exposure  to  it  in  everyday  situations,  will probably  exceed  these  expectations.  For  expected  achievements  with  respect  to  students'  second  foreign language, see the second cycle.
-
-#### The third cycle 4
 
 60
 
@@ -2786,7 +2794,7 @@ Students will:
 
  demonstrate a desire to read through verbal and non-verbal feedback
 
- select and read with interest a variety of simple and somewhat more complex, literary and nonliterary, original and didactical texts, in prose or verse, and enjoy the sense of accomplishment that comes from reading in a foreign language
+ select and read with interest a variety of simple and somewhat more complex, literary and non-literary, original and didactical texts, in prose or verse, and enjoy the sense of accomplishment that comes from reading in a foreign language
 
  compare and contrast the content of the texts they have read with their own experiences and knowledge about the world.
 
@@ -2832,7 +2840,7 @@ Students will:
 
  write short and simple texts, including texts common in everyday communication, using simple as well as somewhat more complex language
 
- write  texts  per  the  previous  item  at  various  levels  of  independence:  adding  content  to  preexisting texts; writing on the basis of an audio, visual, or written template; and writing freely
+ write texts per the previous item at various levels of independence: adding content to pre-existing texts; writing on the basis of an audio, visual, or written template; and writing freely
 
  interpret and make independent deductions based on what they have learned
 
@@ -3044,7 +3052,7 @@ Students will:
 
  identify the key ideas in a written argument, and the development of the argument itself
 
- apply various collaborative and individual learning strategies, as well  as various forms of selfassessment and mutual assessment.
+ apply various collaborative and individual learning strategies, as well as various forms of self-assessment and mutual assessment.
 
 ###### 3. Reading comprehension
 
@@ -3184,6 +3192,8 @@ Students will:
 
 [[START OF PAGE 69]]
 
+#### The fourth cycle (grammar schools) 6
+
 ##### I. LISTENING
 
 ###### 1. Preparation for listening
@@ -3204,7 +3214,7 @@ Students will:
 
  use  various  foreign  language  audio  resources,  including  electronic  media  and  educational programmes
 
- apply  various  collaborative  and  individual  learning  strategies  as  well  as  various  forms  of  selfassessment and mutual assessment.
+ apply various collaborative and individual learning strategies as well as various forms of self-assessment and mutual assessment.
 
 ###### 3. Listening comprehension
 
@@ -3224,7 +3234,7 @@ Students will:
 
  demonstrate listening comprehension of audio clips and express pleasure through appropriate feedback
 
- follow and react to the contents of various complex audio and audio-visual, literary and nonliterary texts
+ follow and react to the contents of various complex audio and audio-visual, literary and non-literary texts
 
  demonstrate,  through  verbal  and  non-verbal  feedback,  curiosity  and  a  positive  attitude towards listening to various complex audio clips.
 
@@ -3238,9 +3248,7 @@ Students will:
 
  respect their own culture and other cultures
 
-> 6   Expectations of achievement at the end of grammar school are determined at the intermediate level, between interlevel  and  the  individual  level  (B1+),  according  to  the Common  European  Framework  of  Reference  for Languages. In grammar school programmes providing an increased number of foreign language instruction hours, these expectations of achievement will have to be made more complex. The same applies to expectations of achievement in the English language, considering the significantly greater exposure to that language that students get in their everyday environment. In determining the expectations of achievement for students learning a second foreign language continuously from the 4 th  year of primary school, as well as for those just starting to learn of a foreign language, both as compared with the distinct expectations of achievement for students learning their first, second  and  third  foreign  languages,  refer  to  the  footnote  under  the  4th  cycle  (secondary  vocational  and  art schools).
-
-#### The fourth cycle (grammar schools) 6
+> 6   Expectations of achievement at the end of grammar school are determined at the intermediate level, between interlevel and the individual level (B1+), according to the Common European Framework of Reference for Languages. In grammar school programmes providing an increased number of foreign language instruction hours, these expectations of achievement will have to be made more complex. The same applies to expectations of achievement in the English language, considering the significantly greater exposure to that language that students get in their everyday environment. In determining the expectations of achievement for students learning a second foreign language continuously from the 4th year of primary school, as well as for those just starting to learn of a foreign language, both as compared with the distinct expectations of achievement for students learning their first, second and third foreign languages, refer to the footnote under the 4th cycle (secondary vocational and art schools).
 
 69
 
@@ -3470,6 +3478,12 @@ Students will:
 
 ### C. CLASSICAL LANGUAGES 7
 
+#### The first cycle
+
+This cycle does not include classical language instruction.
+
+#### The second cycle
+
 ##### I. READING and WRITING
 
 ###### 1. Understanding rules for reading and writing
@@ -3499,12 +3513,6 @@ Students will:
  apply the most basic grammatical concepts
 
 > 7  Classical languages appear in school curricula no earlier than the Second cycle, and the expectations of student achievement  duly  reflect  a  delayed  onset  of  instruction.  Expectations  of  achievement  reflect  the  minimum requirements  that  students  must  fulfil  during  the  average  number  of  hours  of  classical  language  instruction provided, starting with the initial Second cycle and continuing in a graduated fashion until the end of the Fourth cycle.
-
-#### The first cycle
-
-This cycle does not include classical language instruction.
-
-#### The second cycle
 
 73
 
@@ -3804,6 +3812,7 @@ Students will:
 
 [[START OF PAGE 78]]
 
+#### The fourth cycle (grammar schools) 10
 ##### I. READING AND WRITING
 
 ###### 1. Understanding rules for reading and writing
@@ -3859,8 +3868,6 @@ Students will:
  acquire interest in understanding texts, and curiosity and creativity in preparing translations from a classical language to their own, and vice versa.
 
 > 10  In determining expectations of achievement for students learning a classical language in non-classical grammar schools,  the  expectations  listed  here  should  be  adjusted  to  reflect  the  lower  number  of  years  and  hours  of instruction. Distinct expectations of achievement will be determined by subject curricula, and additional details will be determined in specific grammar school curricula, taking into consideration the profile of each school.
-
-#### The fourth cycle (grammar schools) 10
 
 78
 
@@ -3933,7 +3940,7 @@ Given that mathematics systematically studies quantitative relations, structure,
 
 Teaching  and  learning  mathematics  requires  the  transmission  of  knowledge,  skills  and  abilities  in computing,  assessment,  and  logical  and  spatial  thinking.  A  mathematical  approach  to  problems includes selecting and correctly applying basic mathematical skills, discovering patterns in forms and numbers,  preparing  models,  interpreting  data,  and  recognising  and  exchanging  ideas.  Solving mathematical problems requires a creative and systematic approach, which not coincidentally is also the main requirement for invention (innovation) and scientific and technical discovery.
 
-Mathematical education enables students to set up and solve mathematical problems, encouraging them to be systematic, creative, adventurous,  distinctive,  persistent,  and  research-savvy.  All  students can and should experience success in mathematics. By learning mathematics, they will acquire selfconfidence in the use of numbers, and they will develop measurement and construction skills as well as the ability  to  create  three-dimensional images. They  will learn how to collect,  organise, and interpret data;  make  presentations  using  mathematical  language;  reason  inductively  based  on  observed patterns  and  connections;  and  think  in  abstract  terms.  They  will  become  active  participants  in  the process of learning and thus well-prepared for lifelong learning.
+Mathematical education enables students to set up and solve mathematical problems, encouraging them to be systematic, creative, adventurous, distinctive, persistent, and research-savvy. All students can and should experience success in mathematics. By learning mathematics, they will acquire self-confidence in the use of numbers, and they will develop measurement and construction skills as well as the ability to create three-dimensional images. They will learn how to collect, organise, and interpret data; make presentations using mathematical language; reason inductively based on observed patterns and connections; and think in abstract terms. They will become active participants in the process of learning and thus well-prepared for lifelong learning.
 
 Over  the  course  of  mathematical  education,  students  will  realise  the  importance  of  mathematics  in their daily lives, gain insight into the historical development of the discipline, and come to understand its role  and  importance  in  the  society  of  the  past,  present,  and  future.  They  will  connect  new mathematical  concepts,  expressions,  skills,  and  processes  to  those  with  which  they  have  previous experience and practical knowledge. They will gain exposure to mathematical problems found in real, everyday situations, thus linking the discipline with their everyday lives and activities as well as with other areas of their education. They will have an opportunity to apply mathematics in the application and expansion of their own knowledge, skills and abilities. They will engage in corresponding mathematical activities  both  individually  and  in  groups  (in  a  collaborative  manner),  which  will  enable  them  to approach problems with mathematical ramifications in a variety of contexts.
 
@@ -4055,7 +4062,7 @@ Students will:
 
  describe their positions and trajectories by using their own senses of orientation and a simple coordinate system (e.g., a square grid)
 
- identify,  draw,  describe,  compare,  and  classify  lines,  faces,  and  simple  two-  and  threedimensional forms and their parts
+ identify, draw, describe, compare, and classify lines, faces, and simple two- and three-dimensional forms and their parts
 
  sketch simple two-dimensional forms and draw them using geometry tools
 
@@ -4405,7 +4412,7 @@ Students will:
 
 Students will:
 
- collect, classify, and organise data, and present them both with and without a computer, using systemic lists, tables, frequency diagrams, line charts, bar charts, pie charts, 'box and whiskers' charts, and various graphs
+ collect, classify, and organise data, and present them both with and without a computer, using systemic lists, tables, frequency diagrams, line charts, bar charts, pie charts, „box and whiskers” charts, and various graphs
 
  read, interpret, and analyse data presented in various ways
 
@@ -4527,7 +4534,7 @@ Students will:
 
  draw, using a two-dimensional rectangular coordinate system, a point defined by coordinates and a straight line defined by equation; students will also read point coordinates
 
- recognise,  describe,  compare,  and  apply  properties  and  relationships  of  two-  and  threedimensional geometric forms when drawing, measuring, calculating, and deducing
+ recognise, describe, compare, and apply properties and relationships of two- and three-dimensional geometric forms when drawing, measuring, calculating, and deducing
 
  sketch, describe, and interpret two-dimensional representations of three-dimensional forms
 
@@ -4729,7 +4736,7 @@ Students will:
 
  interpret the derivation of functions physically (i.e., velocity of change) and geometrically (i.e., coefficient of point-based tangents), and derive polynomials
 
- using  derivations,  examine  polynomial  flows  and  draw  polynomial  -  primarily  quadratic  and cubic - charts
+ using derivations, examine polynomial flows and draw polynomial – primarily quadratic and cubic – charts
 
  calculate the indefinite integrals of polynomials
 
@@ -4749,11 +4756,11 @@ Students will:
 
 ### DESCRIPTION OF THE AREA
 
-What is commonly referred to as 'science' is based on the findings of the fundamental natural sciences of  physics,  chemistry,  biology,  geography,  and  geology.  These  fields  develop  by  virtue  of  human curiosity  and  a  drive  to  find  the  answers  to  questions  about  mankind's  origins,  development,  and role/place in nature and space. Thus, science is a part of culture in each and every human community. It  explores  and describes nature, life, and death, on a scale ranging from atomic nuclei, up through systems commensurate with man, all the way to the most distant reaches of space.
+What is commonly referred to as “science” is based on the findings of the fundamental natural sciences of physics, chemistry, biology, geography, and geology. These fields develop by virtue of human curiosity and a drive to find the answers to questions about mankind’s origins, development, and role/place in nature and space. Thus, science is a part of culture in each and every human community. It explores and describes nature, life, and death, on a scale ranging from atomic nuclei, up through systems commensurate with man, all the way to the most distant reaches of space.
 
-Mankind  observes  continual  changes  in  nature  through  direct  and  instrumental  observation,  while natural sciences explore the patterns, causes, and forces that govern those changes. Knowledge of the fundamental  natural  sciences  directly  contributes  to  technological  progress  and  ensures  sustainable development on Earth.  The  area  of  natural  sciences  gathers  knowledge  that  has  been  gained  and collected for centuries, and that is the foundation of all technology used by man today. Application of this  knowledge is  evident in  medicine,  transport,  communications,  the  production  of  food  and  other goods,  the  generation  and  transmission  of  energy,  research  into  and  use  of  natural  resources,  the harmonisation of man's needs with the conservation of nature, the culture of living, information, art, and research  into  the  formation  of  space.  Knowledge  collected  in  the  natural  sciences  is  the  general property of all mankind, so natural sciences are characterised by democracy and internationality. By learning natural sciences, students develop a system of values that educates them in terms of equality and appropriate remuneration for their achievements.
+Mankind observes continual changes in nature through direct and instrumental observation, while natural sciences explore the patterns, causes, and forces that govern those changes. Knowledge of the fundamental natural sciences directly contributes to technological progress and ensures sustainable development on Earth. The area of natural sciences gathers knowledge that has been gained and collected for centuries, and that is the foundation of all technology used by man today. Application of this knowledge is evident in medicine, transport, communications, the production of food and other goods, the generation and transmission of energy, research into and use of natural resources, the harmonisation of man’s needs with the conservation of nature, the culture of living, information, art, and research into the formation of space. Knowledge collected in the natural sciences is the general property of all mankind, so natural sciences are characterised by democracy and internationality. By learning natural sciences, students develop a system of values that educates them in terms of equality and appropriate remuneration for their achievements.
 
-In order to adapt to the rapid pace of scientific and technological development, cultivate responsible attitudes  towards  nature,  health,  and  the  environment,  and  contribute  to  sustainable  development, students  need  to  acquire  basic  scientific  skills  and  literacy.  By  learning  science,  students  develop logical,  creative  and  critical  opinions,  which  contribute  to  their  mastery  of  situations  that  require knowledge  and  professionalism.  Science  studies  equip  students  with  basic  knowledge  of  natural phenomena and systems: motion and forces in inhabited areas, electromagnetic and thermodynamic phenomena,  relativistic  motion  and  forces,  relationships  between  matter  and  energy,  interactions between basic particles, and the workings of space from the cosmological level to the quantum level. Students observe the importance of physicists' discoveries as the basis for devising and realising real, modern devices.
+In order to adapt to the rapid pace of scientific and technological development, cultivate responsible attitudes towards nature, health, and the environment, and contribute to sustainable development, students need to acquire basic scientific skills and literacy. By learning science, students develop logical, creative and critical opinions, which contribute to their mastery of situations that require knowledge and professionalism. Science studies equip students with basic knowledge of natural phenomena and systems: motion and forces in inhabited areas, electromagnetic and thermodynamic phenomena, relativistic motion and forces, relationships between matter and energy, interactions between basic particles, and the workings of space from the cosmological level to the quantum level. Students observe the importance of physicists’ discoveries as the basis for devising and realising real, modern devices.
 
 Students come to know the properties of substances that make up the living and non-living world as well  as  the  processes  in  which  those  substances  take  part,  and  of  materials  obtained  from  nature through simple procedures as well as those produced through modern industry. Discoveries on the part of  chemists and biologists, which are based on controlled mimicry of natural processes, lead to new technologies  in  the  production  of  food  and  medicines,  and  contribute  to  the  development  of  new medicines.
 
@@ -4761,7 +4768,7 @@ Students become familiar with the structures and functions of living systems. St
 
 Students become familiar with human geography and its features, acquire basic knowledge of natural phenomena and processes on Earth, and learn about the formation, appearance, and significance of ecological and  geospatial systems. They learn that the ecological system is a result of the interdependence  between  man  and  nature,  whereas  the  geospatial  system  is  a  result  of  human activities  from  one  region  to  the  next.  They  learn  about  the  mutual  relationships  between  natural elements  and  societal  phenomena/processes,  about  geospatial  orientation  and  presentation,  and about understanding and evaluating ecological and geospatial systems data. They prepare for active and  conscientious  roles  in  society  and  develop  responsible  attitudes  towards  the  environment  and natural resources.
 
-In  terms of scientific problems and research, instruction focuses on appropriate (practical) laboratory work  and  on  the  natural  environment  (or  the  surrounding  areas).  It  follows  various  methods  and approaches, providing the basis for students' studies and lifelong learning. The scientific method entails reproducible experiments regarding natural phenomena, and therefore experiments are an indispensable part of science education. Science has two faces: empirical, which relies on observation and measurement, and rational, which relies on logical thought and mathematical deduction.
+In terms of scientific problems and research, instruction focuses on appropriate (practical) laboratory work and on the natural environment (or the surrounding areas). It follows various methods and approaches, providing the basis for students’ studies and lifelong learning. The scientific method entails reproducible experiments regarding natural phenomena, and therefore experiments are an indispensable part of science education. Science has two faces: empirical, which relies on observation and measurement, and rational, which relies on logical thought and mathematical deduction.
 
 93
 
@@ -4773,13 +4780,13 @@ Science education is built into the curriculum by observing the following three 
 
 Contemporary society requires the availability of science education to all, regardless of gender, age, cultural  or  ethnic  affiliation,  ability,  aptitude,  and  motivation  for  learning.  All  students  should  have  a chance to acquire scientific literacy at various levels, and they do so in various ways and on various levels.  Therefore,  physics,  chemistry,  biology,  and  geography  syllabi  should  be  provided,  from  basic levels up through advanced programmes.
 
-Learning about natural sciences is responsibility of the students, which means that it requires physical and mental effort on students' part. Students observe and describe phenomena, ask questions, acquire knowledge, devise explanations, and communicate their own ideas to others. Students are involved in planning, making assumptions, conducting experiments, measuring, data processing, problem solving, deduction, discussion, and critical deliberation.
+Learning about natural sciences is responsibility of the students, which means that it requires physical and mental effort on students’ part. Students observe and describe phenomena, ask questions, acquire knowledge, devise explanations, and communicate their own ideas to others. Students are involved in planning, making assumptions, conducting experiments, measuring, data processing, problem solving, deduction, discussion, and critical deliberation.
 
-Science education fosters a worldview that reflects the intellectual and cultural traditions of science. Students become familiar with scientific approaches, manners of research, the rules of evidence, and manners  of  formulating  questions  and  providing  explanations.  In  addition  to  imparting  scientific knowledge  and  skills  and  enabling  the  development  of  scientific  abilities,  instruction  in  the  natural sciences builds students' affinity and kinship with environment.
+Science education fosters a worldview that reflects the intellectual and cultural traditions of science. Students become familiar with scientific approaches, manners of research, the rules of evidence, and manners of formulating questions and providing explanations. In addition to imparting scientific knowledge and skills and enabling the development of scientific abilities, instruction in the natural sciences builds students’ affinity and kinship with environment.
 
 ### EDUCATIONAL GOALS OF THE AREA
 
-The  main  goal  of  science  education  is  to  establish  a  scientifically  literate  society.  An  individual  is scientifically  literate  if  he  or  she  understands  and  embraces  the  need  for  lifelong  education;  adopts scientific  concepts,  methods,  procedures,  and  principles  in  decision-making;  and  directs  knowledge and skills  that  have  been  acquired  through  education  towards  creative  problem  solving.  This  goal  is implemented  gradually,  at  specific  levels  of  education,  in  a  manner  that  is  consistent  with  each student's age.
+The main goal of science education is to establish a scientifically literate society. An individual is scientifically literate if he or she understands and embraces the need for lifelong education; adopts scientific concepts, methods, procedures, and principles in decision-making; and directs knowledge and skills that have been acquired through education towards creative problem solving. This goal is implemented gradually, at specific levels of education, in a manner that is consistent with each student’s age.
 
 By adopting the objectives of the area, students will:
 
@@ -4837,7 +4844,7 @@ Students will:
 
  describe their relationship with nature
 
- specify examples of the impact of some major discoveries on people's everyday life
+ specify examples of the impact of some major discoveries on people’s everyday life
 
  describe  how  the  interpretation  of  natural  phenomena  has  changed  in  the  course  of  the development of mankind
 
@@ -4973,7 +4980,7 @@ Students will:
 
  describe examples of biodiversity in the surrounding natural environment
 
- discuss why diversity is nature's greatest asset
+ discuss why diversity is nature’s greatest asset
 
  name typical plant and animal species from the surrounding natural environment
 
@@ -5173,7 +5180,7 @@ Students will:
 
  explain the position of the Earth in the solar system
 
- describe the impact of the Earth's rotation  around its axis  and  around  the  Sun  on  the  life  of people and economic activities.
+ describe the impact of the Earth’s rotation around its axis and around the Sun on the life of people and economic activities.
 
 ###### 3. Natural environment of the Earth (relief, climate, water, soil, flora and fauna)
 
@@ -5275,7 +5282,7 @@ Students will:
 
  describe common properties and relationships between certain groups of living beings
 
- describe man's role in selecting and growing plants and farming animals.
+ describe man’s role in selecting and growing plants and farming animals.
 
 ###### 5. Ecosystems
 
@@ -5737,7 +5744,7 @@ Students will:
 
  analyse waste management methods used at the local and the global level
 
- assess potential future sizes of protected areas in Croatia and the world.
+ assess potential future sizes of protected areas in Croatia and the world.7
 
 ##### II. PLANET EARTH
 
@@ -5748,8 +5755,6 @@ Students will:
  use plans of town or villages, topographic maps, compasses and navigation (GPS) devices for spatial orientation
 
 106
-
-7
 
 [[END OF PAGE 106]]
 
@@ -6367,7 +6372,7 @@ Students will:
 
 ### DESCRIPTION OF THE AREA
 
-Technics  (Croatian: tehnika  Greek tehne =  art,  know-how,  proficiency,  skill)  has  existed  ever  since people made the first stone blades, built a fire, and poked the earth by a pointed stick in order to plant seeds. To the day it has developed to an unprecedented level. Airplanes, trains, and automobiles carry people and freight at high speed, from one place to another. Telephones, television, and computer networks help people in interpersonal communication around the world; rockets penetrate into outer space, and various probes into the deep sea. Medicines and medical devices enable people to live longer  and  have  healthier  lives.  The  Croatian  word tehnika refers  to  all  tools,  devices,  systems,  and procedures made by man to adapt the natural environment to his needs.
+Technics  (Croatian: tehnika - Greek tehne =  art,  know-how,  proficiency,  skill)  has  existed  ever  since people made the first stone blades, built a fire, and poked the earth by a pointed stick in order to plant seeds. To the day it has developed to an unprecedented level. Airplanes, trains, and automobiles carry people and freight at high speed, from one place to another. Telephones, television, and computer networks help people in interpersonal communication around the world; rockets penetrate into outer space, and various probes into the deep sea. Medicines and medical devices enable people to live longer  and  have  healthier  lives.  The  Croatian  word tehnika refers  to  all  tools,  devices,  systems,  and procedures made by man to adapt the natural environment to his needs.
 
 Just  as  the  natural  sciences  deal  with  nature,  revealing  its  patterns  and  describing  its  phenomena, technical sciences - on the basis of those phenomena - define principles according to which products, services, and systems for satisfying specific human needs can be produced. Innovation and creative discoveries are the very foundations of technical development and progress. The concept of innovation applies  to  the  whole  range  of  changes  -  from  small  daily  improvements  and  upgrades  of  existing products and services, to radical changes that yield new products and services and generic changes, which create new branches of industry.
 
@@ -6681,7 +6686,7 @@ Students will:
 
  design a promotional leaflet for one's own product
 
- make  a  simple  technical  and  economic  analysis  of  the  ratio  of  the  invested  resources  materials, work and energy - and the market value of the product or service
+ make  a  simple  technical  and  economic  analysis  of  the  ratio  of  the  invested  resources – materials, work and energy – and the market value of the product or service
 
  evaluate the design of a specific product.
 
@@ -7045,7 +7050,7 @@ Students will:
 
 Students will:
 
- explain how natural sciences and technology have worked together to bring about state-ofthe-art medical equipment and systems
+ explain how natural sciences and technology have worked together to bring about state-of-the-art medical equipment and systems
 
  come to understand how progress in agricultural technology directly reduced the number of people who produce food to supply the population
 
@@ -7383,7 +7388,7 @@ Within the framework of the social sciences and humanities area students are con
 
 In the social sciences and humanities area students become acquainted with contents that contribute to  the  understanding  of  conditions  in  life  and  work  in  the  past  and  the  present  in  order  to  become equipped  for  life  and  work  in  the  future.  They  learn  about  people,  relationships  among  them,  the relationship between people and the world around them, about cultural development of people, and society.  They  study  and  evaluate  events  from  the  past  and  the  present,  discuss  issues  related  to establishing just and peaceful relations among people, social relations, international order and social and  economic  security.  They  discuss  social  systems,  social  structures,  economic  and  political  orders, European integration and the process of globalisation.
 
-They are educated to evaluate and protect natural, material, spiritual, historical and cultural heritage of the Republic of Croatia and the national identity, as well as to evaluate and protect the European and world's  cultural  heritage.  They  are  acquainted  with  ethical  and  moral  values,  religious  and  cultural tradition  and  value  systems.  This  primarily  refers  to  Christianity,  as  well  as  to  other  religions  and  nonreligious views of the world - the things that make up the civilisation and ethical basis of Europe.
+They are educated to evaluate and protect natural, material, spiritual, historical and cultural heritage of the Republic of Croatia and the national identity, as well as to evaluate and protect the European and world's cultural heritage. They are acquainted with ethical and moral values, religious and cultural tradition and value systems. This primarily refers to Christianity, as well as to other religions and non-religious views of the world - the things that make up the civilisation and ethical basis of Europe.
 
 They study regularities in spatial relations and spatial structures and they are trained for the protection and the improvement of the environment.  Students  tackle the issues of identity, sexuality,  protection and improvement of their own health and their life at school, in the family and in society. They also study the differences and equal rights of individuals of different sexes, cultures, races, religions and classes.
 
@@ -7649,7 +7654,7 @@ Students will:
 
  express,  verbally  and  non-verbally,  their  thoughts,  insights,  feelings  and  attitudes  (e.g.  in speaking, writing, drawing, painting, acting etc.)
 
- find,  present  in  a  number  of  ways,  and  evaluate  basic  information  aboutnature,  society, culture,  religion,  humans  and  their  activities in  the  past  and  the  present  (in  speaking,  writing, drawing and painting, cartographic presentation, acting)
+ find,  present  in  a  number  of  ways,  and  evaluate  basic  information  about nature,  society, culture,  religion,  humans  and  their  activities in  the  past  and  the  present  (in  speaking,  writing, drawing and painting, cartographic presentation, acting)
 
  enumerate  and  describe  various  ways  in  which  the  same  events  and  phenomena  can  be presented (science, art, media, museum exhibitions etc.)
 
@@ -8239,7 +8244,7 @@ Students will:
 
  explain the cultural, economic and historical determination of the local community and of the Republic of Croatia at the regional, European and world levels
 
- explore and explain t features of specific periods and societies, and causes and consequences of events and changes; place their explanations of causes, consequences and changes in a wider context, in various countries and various periods
+ explore and explain the features of specific periods and societies, and causes and consequences of events and changes; place their explanations of causes, consequences and changes in a wider context, in various countries and various periods
 
  explain the historical development of society, culture, and public awareness
 
@@ -8505,7 +8510,7 @@ Students will:
 
  explain the processes related to European integration and globalisation and their impact on Croatian society
 
- compare and evaluate the following relations: local - global, traditional - modern and postmodern, majority - minority, spiritual - material, Croatian identity - multiculturalism.
+ compare and evaluate the following relations: local - global, traditional - modern and post-modern, majority - minority, spiritual - material, Croatian identity - multiculturalism.
 
 ##### III. PAST EVENTS, PEOPLE AND SOCIETY
 
@@ -8763,7 +8768,7 @@ Art  encourages  introspection  and  pondering  and  catharsis,  it  allows  for
 
 The creative process of art is greatly beneficial to the child's harmonious development; it stimulates all types of intelligence, as well as creative and symbolical thinking, practical skills, and personality. It also encourages self-confidence, perseverance, self-discipline, spontaneity and  inquisitiveness; it develops attentiveness, concentration, sensitivity to proportions and cyclical nature of life and fosters the ability of self-expression and critical thinking.
 
-Works of art and creative activities play a role in forming identity, strengthening integrity and self-respect and raising cultural and environmental awareness. Education for art and through art renders creative individuals who participate in the cultural life of their local and wider communities. 53
+Works of art and creative activities play a role in forming identity, strengthening integrity and self-respect and raising cultural and environmental awareness. Education for art and through art renders creative individuals who participate in the cultural life of their local and wider communities.53
 
 Art  in  education  contributes  to  intellectual,  sensory,  emotional,  social,  physical,  spiritual  and  creative development of students:  art  helps  students  bring  together  the  knowledge,  insights  and  experiences from  other  educational  areas  and  integrate  them  into  wider  social  and  cultural  value  systems  and worldviews.
 
@@ -8903,7 +8908,7 @@ Students will:
 
  integrate  different  elements  of  visual  art  (point,  line,  colour,  surface,  mass/volume)  and  vary their  size,  position,  direction,  number  and  density  in  two-dimensional  and  three-dimensional space
 
- differentiate between basic areas and types of visual art creation, two-dimensional and threedimensional  design,  drawing,  painting,  basis  of  graphic  art)  and  elements  of  visual  artworks (contrast, rhythm)
+ differentiate between basic areas and types of visual art creation, two-dimensional and three-dimensional design, drawing, painting, basis of graphic art) and elements of visual artworks (contrast, rhythm)
 
  recognise  elements  of  visual  art  in  various  visual  art  media  (drawing,  painting,  graphic  art, sculpture, architecture, video, film, photography)
 
@@ -9343,7 +9348,7 @@ Students will:
 
 Students will:
 
- apply  appropriate  visual  art  language  (terminology)  in  'reading'  works  of  art,  or  specific elements or relations in the area of painting, sculpture, architecture or design
+ apply appropriate visual art language (terminology) in „reading“ works of art, or specific elements or relations in the area of painting, sculpture, architecture or design
 
  demonstrate and verbalize interest in and appreciation of the values of the Croatian culture and cultures of other nations, including museums and galleries
 
@@ -9361,7 +9366,7 @@ Students will:
 
  express  and  share  feelings,  experience,  ideas  and  attitudes  using  the  assigned  visual  art elements
 
- communicate using visual elements of expression: shape their visual message and interpret the general visual message of other 'senders'
+ communicate using visual elements of expression: shape their visual message and interpret the general visual message of other „senders“
 
  on a basic level, use multimedia and ICT to express and develop a certain idea
 
@@ -9393,7 +9398,7 @@ Students will:
 
  make note of and accept different personal experience of different types of music
 
-###### Acquiring knowledge of elements of musical art and creation
+###### 2. Acquiring knowledge of elements of musical art and creation
 
 Students will:
 
@@ -9459,7 +9464,7 @@ Students will:
 
  demonstrate  self-criticism  in  both  musical  creation  (production)  and  musical  performance (reproduction)
 
- improve the ability  of  constructive criticism  in  the  evaluation  of  their  own  and  others'  artistic efforts and results .164
+ improve the ability of constructive criticism in the evaluation of their own and others' artistic efforts and results.164
 
 ##### IV. FILM AND MEDIA CULTURE AND ART
 
@@ -9625,7 +9630,7 @@ Students will:
 
  explore and communicate in movement their own ideas, experiences, feelings and attitudes
 
- improvise movements, using a wide array of stimuli in order to expand their dance 'vocabulary'
+ improvise movements, using a wide array of stimuli in order to expand their dance ”vocabulary”
 
  choose  and  use  in  a  structured  way  the  basic  elements  of  space,  intensity  of  movement, rhythm and the body in improvising and forming a dance sequence
 
@@ -9753,7 +9758,7 @@ Students will:
 
  on the basis of their observation of works of art and their own art experience, explore visual art techniques to find those that allow them to best express their own visual messages
 
- in  solving  a  moderately  complex  visual  art  problem,  within  a  design  assignment  or  in  free expression,  apply  skills  and  techniques  for  work  in  planned  two-dimensional  and  threedimensional visual art techniques
+ in solving a moderately complex visual art problem, within a design assignment or in free expression, apply skills and techniques for work in planned two-dimensional and three-dimensional visual art techniques
 
  acquire the skill of integrating various sources of data into a visual form or message
 
@@ -9801,7 +9806,7 @@ Students will:
 
 Students will:
 
- shape  a  relatively  complex  visual  message  and  partially  independently  interpret  visual messages of other 'senders'
+ shape a relatively complex visual message and partially independently interpret visual messages of other „senders“
 
  demonstrate basic organisational and presentational skills by presenting their own and others' artwork
 
@@ -9839,7 +9844,7 @@ Students will:
 
  develop interpretative competences by playing music actively
 
- recognise and name  musical instruments and various vocal, instrumental and vocalinstrumental groups and ensembles on the basis of sound and appearance
+ recognise and name musical instruments and various vocal, instrumental and vocal-instrumental groups and ensembles on the basis of sound and appearance
 
  compare, differentiate between and identify stylistic periods, prominent authors of the period and significant works and express their experience of them.
 
@@ -9903,7 +9908,7 @@ Students will:
 
  in  the  forms  of  learning  involving  film  and  media,  establish  links  between  the  newly  acquired knowledge and the pre-existing experience and knowledge
 
- acquire a positive and independent attitude to film and media art and express it .
+ acquire a positive and independent attitude to film and media art and express it.
 
 ###### 2. Acquiring knowledge of elements of film language and media activities
 
@@ -9975,7 +9980,7 @@ Students will:
 
  in the forms of learning involving theatre, establish links between the newly acquired knowledge and the pre-existing experience and knowledge
 
- express a positive attitude to theatre .
+ express a positive attitude to theatre.
 
 170
 
@@ -10011,7 +10016,7 @@ Students will:
 
  confidently explore everyday themes and issues, interpersonal relationships, and the personal process of growing up, and shape them into drama expressions
 
- learn  how  to  respect  and  appreciate  differences  among  people  and  through  dramatic techniques  (forum  -  theatre  etc.)  become  familiar  with  models  of  positive  interpersonal relationships and amicable conflict resolution, especially among peers.
+ learn how to respect and appreciate differences among people and through dramatic techniques (forum – theatre etc.) become familiar with models of positive interpersonal relationships and amicable conflict resolution, especially among peers.
 
 ###### 5. Understanding and appreciating theatre
 
@@ -10071,7 +10076,7 @@ Students will:
 
  demonstrate the ability to deliberately integrate expressive qualities of movements
 
- expand their dance 'vocabulary' by exploring and selecting dance materials and making a short dance composition
+ expand their dance “vocabulary” by exploring and selecting dance materials and making a short dance composition
 
  memorise and perform a sequence of movements using previously acquired knowledge
 
@@ -10195,9 +10200,9 @@ Students will:
 
 Students will:
 
- draw  simple  visual  art  elements  and  compositional  relations  found  in  stylistically  typical  twodimensional and three-dimensional artworks
+ draw simple visual art elements and compositional relations found in stylistically typical two-dimensional and three-dimensional artworks
 
- use and develop newly acquired skills and visual art techniques to present their ideas in twodimensional visual art techniques, including computer graphics
+ use and develop newly acquired skills and visual art techniques to present their ideas in two-dimensional visual art techniques, including computer graphics
 
  use and develop newly acquired skills and visual art techniques to express their ideas, attitudes and personality in two-dimensional visual art techniques, including computer graphics.
 
@@ -10897,7 +10902,7 @@ Students will:
 
  find connections between works and elements of dramatic culture and art and the respective historical and social context
 
- demonstrate knowledge of the importance of Croatian dramatic heritage in the context of the global dramatic culture and universal values .7
+ demonstrate knowledge of the importance of Croatian dramatic heritage in the context of the global dramatic culture and universal values.7
 
 ##### VI. ART OF MOVEMENT AND DANCE
 
@@ -11237,7 +11242,7 @@ Students will:
 
  learn to apply the acquired theoretical knowledge of selected sports activities
 
- learn how to apply the skills acquired through physical exercise in difficult conditions
+ learn how to apply the skills acquired through physical exercise in difficult conditions.
 
 ##### V. PREVENTION OF DISEASES AND PROMOTION OF HEALTH
 
@@ -11247,7 +11252,7 @@ Students will:
 
  identify their qualities that lead to a sense of self-esteem
 
- become  aware  of  their  strengths  and  weaknesses  and  how  they  affect  their  sense  of  selfrespect
+ become  aware  of  their  strengths  and  weaknesses  and  how  they  affect  their  sense  of  self-respect
 
  explain how different feelings, beliefs and activities affect self-respect
 
@@ -11259,8 +11264,6 @@ Students will:
 
 190
 
-.
-
 [[END OF PAGE 190]]
 
 [[START OF PAGE 191]]
@@ -11271,7 +11274,7 @@ Students will:
 
  describe the impact of their peers, the media and the social environment on their attitudes to substance abuse
 
- learn about the correlation between alcohol and drug consumption and an impaired decisionmaking ability
+ learn about the correlation between alcohol and drug consumption and an impaired decision-making ability
 
  learn  how  to  react  in  risky  situations  involving  substance  abuse  (alcohol  intoxication,  being offered intoxicants)
 
@@ -11383,9 +11386,7 @@ Students will:
 
  learn to apply the acquired theoretical knowledge in their sports and recreational activities
 
- learn to react in emergency situations
-
-.
+ learn to react in emergency situations.
 
 ##### V. PREVENTION OF DISEASES AND PROMOTION OF HEALTH
 
@@ -11815,7 +11816,7 @@ Art education is regulated under special regulations.
 
 The National Curriculum Framework creates conditions for the education of children and students with special educational needs in accordance with their abilities and needs.
 
-In  the  strategic  developmental  documents  on  education  The  Education  Sector  Development  Plan 2005 - 2010 and the Primary and Secondary Education Act (2008) - students with special educational needs are defined as  students  with  a  range  of  disabilities  and  degrees  of  disability  as  well  as  gifted students.  It  is  a  very  diverse  group  of  children  and  students  for  which  different  goals  and  expected achievements  must  be  set,  to  which  different  contents  must  be  taught  and  with  which  different methods of learning and teaching must be employed, in accordance with their  specific needs and competences. The National Curriculum Framework also sets out conditions for including students who cannot regularly attend school due to an illness in the process of education.
+In  the  strategic  developmental  documents  on  education  –  The  Education  Sector  Development  Plan 2005  –  2010 and the Primary and Secondary Education Act (2008) – students with special educational needs are defined as  students  with  a  range  of  disabilities  and  degrees  of  disability  as  well  as  gifted students.  It  is  a  very  diverse  group  of  children  and  students  for  which  different  goals  and  expected achievements  must  be  set,  to  which  different  contents  must  be  taught  and  with  which  different methods of learning and teaching must be employed, in accordance with their  specific needs and competences. The National Curriculum Framework also sets out conditions for including students who cannot regularly attend school due to an illness in the process of education.
 
 All special need groups require certain adjustments in the process of education as well as different kinds and levels  of  support.  One  of  the  requirements  for  the  realisation  of  the  curriculum  for  children  with special  educational  needs  are continual  and  high-quality  professional  development  programmes  for the  staff,  and  a  high  level  of  cooperation  among  all  implementers  of  the  process  of  education:  the education  policy  makers,  the  staff  in  educational  institutions,  expert  associates,  intergovernmental institutions, families and the local community
 
@@ -11862,17 +11863,17 @@ In  the  process  of  the  assessment  of  student's  potential  in  terms  of  
 
 Participation  of  students  with  disabilities  in  higher  classes  of  regular  primary  education  is  facilitated through the introduction of the possibility for  students with disabilities to focus on the subjects and/or module(s) which match their affinities and aptitudes and withdraw from subjects and contents that do not match their affinities and aptitudes. The objective is to allow students to acquire knowledge and skills that will prepare them for vocational education and introduce them to the labour market.
 
-The  children  and  students  who  cannot  successfully  participate  in  the  regular  education,  despite  the provided  support,  are  included  in  special  education  institutions.  The  objective  of  both  regular  and special curricula taught in those institutions is to equip students with skills and knowledge necessary for the inclusion in everyday activities in accordance with students' age. Educational areas covered by the special programme are as follows:
+The  children  and  students  who  cannot  successfully  participate  in  the  regular  education,  despite  the provided  support,  are  included  in  special  education  institutions.  The  objective  of  both  regular  and
 
 200
 
 [[END OF PAGE 200]]
 
 [[START OF PAGE 201]]
-
+special curricula taught in those institutions is to equip students with skills and knowledge necessary for the inclusion in everyday activities in accordance with students’ age. Educational areas covered by the special programme are as follows:
  Practical skills area :  personal care, domestic activities: acquire positive social habits, hygiene, healthy eating habits, recognise hazards, individually or with support carry out simple housework chores and participate in the activities that help them improve the quality of life.
 
- Social life area : spatial orientation, communication skills and numeric/mathematical literacy: be able  to  find  their  way,  learn  how  to  use  public  transportation,  as  well  as  the  emergency, entertainment, cultural and public services, differentiate between basic time elements, acquire basic  mother  tongue  literacy  and  numeric/mathematical  literacy;  express  verbally,  nonverbally and in writing; express  themselves using symbols, words, sentences,  numbers, colours and signs.
+ Social life area: spatial orientation, communication skills and numeric/mathematical literacy: be able to find their way, learn how to use public transportation, as well as the emergency, entertainment, cultural and public services, differentiate between basic time elements, acquire basic mother tongue literacy and numeric/mathematical literacy; express verbally, non-verbally and in writing; express themselves using symbols, words, sentences, numbers, colours and signs.
 
  Leisure  time  and  creativity  area :  social,  entertainment  and  creative  activities:  participate  in social  and  entertainment  activities  and  events  in  their  immediate  and  wider  community; choose free time activities; learn how to aesthetically shape various materials using a range of techniques.
 
@@ -11890,13 +11891,15 @@ The  National  Curriculum  Framework creates  conditions  in  which  gifted  and
 
 Although  there  are  significant  differences  among  gifted  and  talented  children  and  students,  the overarching  definition  encompasses  children  and  students  with  exceptional  intellectual  capabilities, developed  ability to quickly  grasp  complex  ideas  and  concepts, acquire more  quickly  and comprehend more deeply educational contents than their peers, they show exceptional curiosity for a specific area, demonstrate outstanding creative capabilities, resourcefulness and prolificacy as well as the ability to look at a situation or a problem from different standpoints. Gifted and talented children and students may have disabilities that interfere with the recognition of their talents or gifts and their development. Such disabilities may be encountered on the motor, sensory and emotional levels, i.e., they  can  be  reflected  in  learning  and  behaviour.  They  might  underperform,  fail  to  complete assignments,  behave  restlessly  etc.  Due  to  those  problems  they  might  come  across  as  average  or below-the-average students and they achieve results which are below their possibilities. These children and students require a special diagnostic examination and carefully developed support.
 
-Individualised curricula for gifted students are developed, reflecting in their contents and scope specific needs of the individual or the group for whom they are developed. The curricula should focus on an advanced  level  of  opinion  formation  and  problem-solving  and  include  contents  of  the  depth  and complexity  that  present  an  appropriate  challenge  and  opportunity  for  creative  expression.  An individualised  curriculum  empowers  the  student  and  includes  the  forms  of  support  that  eliminate  or reduce barriers for the achievement of set objectives.
+Individualised curricula for gifted students are developed, reflecting in their contents and scope specific needs of the individual or the group for whom they are developed. The curricula should focus on an advanced level of opinion formation and problem-solving and include contents of the depth and
 
 201
 
 [[END OF PAGE 201]]
 
 [[START OF PAGE 202]]
+
+complexity that present an appropriate challenge and opportunity for creative expression. An individualised curriculum empowers the student and includes the forms of support that eliminate or reduce barriers for the achievement of set objectives.
 
 ### Organisation of educational work and programmes for gifted students
 
@@ -11925,13 +11928,15 @@ Acceleration  means  inclusion  of  students  in  the  regular  primary  educati
 
 #### Mentoring
 
-Mentors in particular areas are experts who, besides their role as teachers and trainers, have the role of leaders, role models and friends of gifted students. Gifted students may suffer from disabilities as a result of a discord between their intellectual, social and emotional maturity. This is why their mentors should, in addition  to  academic  support,  also  provide  them  with  social  and  emotional  support.  Consequently, mentoring involves assistance in  the  development of students'  talents  or  gifts  and  emotional  support through  binding  and  relating.  Mentors  may  be  teachers,  associates,  senior  students,  volunteers  and visiting experts.
+Mentors in particular areas are experts who, besides their role as teachers and trainers, have the role of leaders, role models and friends of gifted students. Gifted students may suffer from disabilities as a result of a discord between their intellectual, social and emotional maturity. This is why their mentors should, in addition to academic support, also provide them with social and emotional support. Consequently, mentoring involves assistance in the development of students’ talents or gifts and emotional support
 
 202
 
 [[END OF PAGE 202]]
 
 [[START OF PAGE 203]]
+
+through binding and relating. Mentors may be teachers, associates, senior students, volunteers and visiting experts.
 
 #### Competitions
 
@@ -12031,11 +12036,10 @@ Assessment  has  to  be  based  on  students'  development  and  the  process  o
 
 Therefore,  students  whom  professional  committees  have  recognised  as  students  with  difficulties  and learning disabilities cannot be graded with a negative mark, irrespective of which year of compulsory schooling they are in. Classroom and homework assignments and activities need to be adapted to their abilities so as to encourage their maximum development; in other words, to eliminate any obstacles to their  development  (stigmatising,  overemphasising  their  disability,  failing  to  take  recognize  progress made etc.).
 
-Students  with  special  educational  needs  are  assessed  in  a  monitoring  process  aimed  at  assessing student's psychological and physical status  (with the  focus on his or her competences and abilities), identifying  potential  for  the  development  of  skills  and  competences  that  can  compensate  for  the segment of functions that are fully or partially lost, and identifying permanent disabilities and problems. Further, this means that the focus should be placed on identifying abilities to learn and acquire new knowledge and skills and to use them in everyday life (the levels of intellectual development, the voiceand-speech development and communication skills, the attention and concentration span, motivation, willingness, affinities, goals, other aspects of social and emotional development).
+Students with special educational needs are assessed in a monitoring process aimed at assessing student’s psychological and physical status (with the focus on his or her competences and abilities), identifying potential for the development of skills and competences that can compensate for the segment of functions that are fully or partially lost, and identifying permanent disabilities and problems. Further, this means that the focus should be placed on identifying abilities to learn and acquire new knowledge and skills and to use them in everyday life (the levels of intellectual development, the voice-and-speech development and communication skills, the attention and concentration span, motivation, willingness, affinities, goals, other aspects of social and emotional development).
 
 Criteria  for  monitoring  and  assessing  student  achievements  will  be  prescribed  per  subjects  and/or modules, and per key competences.
 
-209
 
 206
 
@@ -12053,7 +12057,7 @@ External evaluation implies the involvement of all implementers of the education
 
 The quality of the implementation of the National Curriculum Framework depends on standardised and systematic  training  and  education  of  all  implementers  of  education  in  pre-school  institutions  and primary and secondary schools, which begins with an improved quality of initial education at institutions of  higher  education. This  prerequisite  will  be  met  by  the introduction  of  a  licensing  system,  which  will require a systematic, regular and  continual professional  development  of  educators,  teachers, associates and principals.
 
-The  State  Matura  -  the  secondary  school  leaving  examination  -  puts  into  place  a  standardised instrument for measuring and evaluating students' knowledge and competences upon completion of the  four-year  secondary  education.  For  students  of  grammar  school  programmes  passing  this examination is a prerequisite for the completion of their secondary education, whereas students of fouryear vocational schools take State Matura examination if they decide to continue their education at institutions of higher education or schools of higher professional education
+The State Matura - the secondary school leaving examination - puts into place a standardised instrument for measuring and evaluating students’ knowledge and competences upon completion of the four-year secondary education. For students of grammar school programmes passing this examination is a prerequisite for the completion of their secondary education, whereas students of four-year vocational schools take State Matura examination if they decide to continue their education at institutions of higher education or schools of higher professional education
 
 The introduction of the State Matura, as a form of external evaluation of education, puts into place a permanent system of external monitoring of the implementation of educational goals. The objective of the State Matura examination is to make the knowledge, skills, competences, attitudes and values that the student has acquired in the course of schooling, measurable and comparable. The State Matura, as a form of external evaluation, is the same for all students; all students take it at the exact same time and in the same conditions. It therefore yields comparable indicators of student knowledge at the national level.  The  National  Centre  for  External  Evaluation  of  Education  is  the  competent  body  in  the implementation of State Matura in accordance with the Ordinance on the State Matura Examination .
 
@@ -12079,7 +12083,7 @@ Details regarding external evaluation and the use of the results of evaluation o
 
 ## 2. Self-Evaluation of Educational Work
 
-Self-evaluation  is  a  process  of  permanent  monitoring,  analysing  and assessing  of  the  work  of educational institutions and all its contributing factors. It is implemented by schools. The concept of selfevaluation  is  based  in  the  idea  that  implementers  of  educational  work  in  pre-school  institutions  and schools  are  most  familiar  with  the  specific  circumstances  in  those  institutions,  and  are  therefore  best equipped to identify the strengths of their institutions and possible weaknesses. What is also implied is that,  by  working  together,  they  can  set,  and  then  also  implement,  objectives  contributing  to  the enhancement of the quality of educational work. The self-evaluation process should involve, in addition to  the  employees of pre-school and school institutions,  students, parents, representatives of the local community,  administrative  and  professional  services  and  others.  Their  opinion  will  offer  a  wider perspective on the education provided by those institutions and facilitate better development of those institutions.
+Self-evaluation is a process of permanent monitoring, analysing and assessing of the work of educational institutions and all its contributing factors. It is implemented by schools. The concept of self-evaluation is based in the idea that implementers of educational work in pre-school institutions and schools are most familiar with the specific circumstances in those institutions, and are therefore best equipped to identify the strengths of their institutions and possible weaknesses. What is also implied is that, by working together, they can set, and then also implement, objectives contributing to the enhancement of the quality of educational work. The self-evaluation process should involve, in addition to the employees of pre-school and school institutions, students, parents, representatives of the local community, administrative and professional services and others. Their opinion will offer a wider perspective on the education provided by those institutions and facilitate better development of those institutions.
 
 Self-evaluation is a mechanism for the development of education and the enhancement of the quality of the education system.
 
@@ -12106,6 +12110,8 @@ External evaluation and self-evaluation will give better insight into the existi
 [[END OF PAGE 209]]
 
 [[START OF PAGE 210]]
+
+www.mzos.hr
 
 210
 
