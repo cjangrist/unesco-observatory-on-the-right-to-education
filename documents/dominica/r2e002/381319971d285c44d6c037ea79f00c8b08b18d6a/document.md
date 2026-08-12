@@ -10,43 +10,43 @@ SECTION
 
 ## PART I PRELIMINARY
 
-- Short title.
+- 1. Short title.
 
-- Interpretation.
+- 2. Interpretation.
 
-- Application.
+- 3. Application.
 
 ## PART II SCHOOL YEAR SCHOOL HOLIDAYS AND HOURS OF SCHOOL
 
-- School year.
+- 4. School year.
 
-- School day.
+- 5. School day.
 
-- Hours of instruction for secondary schools.
+- 6. Hours of instruction for secondary schools.
 
-- Hours of instruction for primary schools.
+- 7. Hours of instruction for primary schools.
 
-- Roll call and collective worship.
+- 8. Roll call and collective worship.
 
-- School vacations.
+- 9. School vacations.
 
 ## PART III
 
 ### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND  PARENTS
 
-- Information on curriculum.
+- 10. Information on curriculum.
 
-- Written reports.
+- 11. Written reports.
 
-- Access to school policies.
+- 12. Access to school policies.
 
-- Examination of student records.
+- 13. Examination of student records.
 
-- Display of school calender.
+- 14. Display of school calender.
 
-- Communication between parents and teachers.
+- 15. Communication between parents and teachers.
 
-- Non disclosure of student information.
+- 16. Non disclosure of student information.
 
 [[END OF PAGE 1]]
 
@@ -56,59 +56,59 @@ SECTION
 
 ## PART IV STUDENT COUNCILS, AND PARENT TEACHER ASSOCIATIONS
 
-- Student Council.
+- 17. Student Council.
 
-- National Student Council.
+- 18. National Student Council.
 
-- Parent Teacher's Association.
+- 19. Parent Teacher's Association.
 
 ## PART V ENFORCEMENT  OF  COMPULSORY  SCHOOL ATTENDANCE
 
-- Enrollment and registration.
+- 20. Enrollment and registration.
 
-- Particulars  to  be  provided  with  application  for  enrollment.
+- 21. Particulars  to  be  provided  with  application  for  enrollment.
 
-- Limitations on  admission.
+- 22. Limitations on  admission.
 
-- Admission of students.
+- 23. Admission of students.
 
-- Dates and times for enrollment and registration.
+- 24. Dates and times for enrollment and registration.
 
-- Attendance.
+- 25. Attendance.
 
-- Attendance registers.
+- 26. Attendance registers.
 
-- Marking of attendance register.
+- 27. Marking of attendance register.
 
-- Principal's duties upon student failure to attend school.
+- 28. Principal's duties upon student failure to attend school.
 
-- Time-table.
+- 29. Time-table.
 
-- Transfers.
+- 30. Transfers.
 
-- Children requiring special education.
+- 31. Children requiring special education.
 
 ## PART VI
 
 ### DISCIPLINE,  SUSPENSION  AND  EXPULSION OF STUDENTS
 
-- Duty of school respecting discipline.
+- 32. Duty of school respecting discipline.
 
-- Student disciplinary  policy.
+- 33. Student disciplinary  policy.
 
-- Corporal punishment.
+- 34. Corporal punishment.
 
-- Action in relation to students involved with drugs.
+- 35. Action in relation to students involved with drugs.
 
-- Patrols and professional counselling.
+- 36. Patrols and professional counselling.
 
-- Possession of weapons in schools.
+- 37. Possession of weapons in schools.
 
-- Parents responsible for behaviour of student.
+- 38. Parents responsible for behaviour of student.
 
-- Permitted action by principal respecting gangs.
+- 39. Permitted action by principal respecting gangs.
 
-- Investigation  and  notification.
+- 40. Investigation  and  notification.
 
 [[END OF PAGE 2]]
 
@@ -116,51 +116,51 @@ SECTION
 
 2011                         EDUCATION                             S.R.O. 7
 
-- Withdrawal or expulsion for misbehaviour.
+- 41. Withdrawal or expulsion for misbehaviour.
 
-- Re-admission of a student.
+- 42. Re-admission of a student.
 
-- CXC and other External Examinations.
+- 43. CXC and other External Examinations.
 
 ## PART VII ADMINISTRATION  AND  OPERATIONS  OF SCHOOLS
 
-- Management of school.
+- 44. Management of school.
 
-- Board of Management.
+- 45. Board of Management.
 
-- Records to be kept.
+- 46. Records to be kept.
 
-- Custody and inspection of records.
+- 47. Custody and inspection of records.
 
-- Register of students.
+- 48. Register of students.
 
-- Guidance counsellors.
+- 49. Guidance counsellors.
 
-- Assessment and evaluation.
+- 50. Assessment and evaluation.
 
 ## PART VIII CLOSURE AND DISCONTINUANCE OF SCHOOLS
 
-- Minister may request closure.
+- 51. Minister may request closure.
 
-- Notice of intention to discontinue private and assisted private schools
+- 52. Notice of intention to discontinue private and assisted private schools
 
-- Grants to assisted private schools.
+- 53. Grants to assisted private schools.
 
-- Withdrawal of grants.
+- 54. Withdrawal of grants.
 
 ## PART IX
 
 ### SCHOOL BUILDING  AND OTHER RELATED ENVIRONMENTAL  STANDARDS  AND REQUIREMENTS
 
-- Standards respecting buildings and facilities.
+- 55. Standards respecting buildings and facilities.
 
-- School premises maintenance manual.
+- 56. School premises maintenance manual.
 
-- Inspection of school for defects.
+- 57. Inspection of school for defects.
 
-- Use of public school buildings.
+- 58. Use of public school buildings.
 
-- Use of open flames prohibited.
+- 59. Use of open flames prohibited.
 
 [[END OF PAGE 3]]
 
@@ -170,59 +170,59 @@ SECTION
 
 ## PART X PRIVATE  SHCOOLS
 
-- Registration.
+- 60. Registration.
 
-- Consultation.
+- 61. Consultation.
 
-- Display of permit.
+- 62. Display of permit.
 
-- Renewal of permit.
+- 63. Renewal of permit.
 
-- Revocation of permit.
+- 64. Revocation of permit.
 
-- Private schools register.
+- 65. Private schools register.
 
 ## PART XI
 
 ### PROFESSIONAL  DUTIES  AND RESPONSIBLILITIES  OF  TEACHERS  AND PRINCIPALS
 
-- Professional duties.
+- 66. Professional duties.
 
-- School trips.
+- 67. School trips.
 
-- Development of policy guidelines.
+- 68. Development of policy guidelines.
 
-- Learning outcomes.
+- 69. Learning outcomes.
 
-- Preparation of school calendar.
+- 70. Preparation of school calendar.
 
-- Teaching and class plans.
+- 71. Teaching and class plans.
 
-- Annual Reports.
+- 72. Annual Reports.
 
-- Conflict of interests.
+- 73. Conflict of interests.
 
-- Dress code for teachers and principals.
+- 74. Dress code for teachers and principals.
 
-- Duties of deputy principal
+- 75. Duties of deputy principal
 
-- Duties of Heads of departments.
+- 76. Duties of Heads of departments.
 
 ## PART XII
 
 ### GENERAL
 
-- Mode of dress of students.
+- 77. Mode of dress of students.
 
-- Student records.
+- 78. Student records.
 
-- Awards and graduations.
+- 79. Awards and graduations.
 
-- Books, teaching aids and materials.
+- 80. Books, teaching aids and materials.
 
-- Organization of fund-raising acitvities.
+- 81. Organization of fund-raising acitvities.
 
-- Sale of alcoholic beverage, and other items prohibited.
+- 82. Sale of alcoholic beverage, and other items prohibited.
 
 [[END OF PAGE 4]]
 
@@ -230,11 +230,11 @@ SECTION
 
 2011                         EDUCATION                             S.R.O. 7
 
-- Fees.
+- 83. Fees.
 
-- Complaints and investigations.
+- 84. Complaints and investigations.
 
-- Commencement.
+- 85. Commencement.
 ## FIRST SCHEDULE
 ## SECOND  SCHEDULE
 ## THIRD  SCHEDULE
@@ -259,31 +259,31 @@ STATUTORY RULES AND ORDERS No. 7 OF  2011
 
 MADE by the Minister under section 160 of the Education Act 1997, No. 11 of 1997.
 
-(Gazetted 31 st   March, 2011).
+(Gazetted 31st March, 2011).
 
 ## PART I PRELIMINARY
 
-- These Regulations may be cited as the Short  title.
+Short title.
 
-- 1.
+1. These Regulations may be cited as the -
 
-EDUCATION  REGULATIONS  2011
+EDUCATION REGULATIONS 2011
 
-(1) In these Regulations unless the context otherwise requires -
+Interpretation.
 
-'Act' means the Education Act 1997 ;
+2. (1) In these Regulations unless the context otherwise requires -
 
-'attainment targets' in relation to a subject area means a statement that describes the intent of what a student is expected to achieve by the end of schooling for a particular subject area and includes what the student should know and be able to do and the desirable attitude that the student should display;
+“Act” means the Education Act 1997;
 
-'authority' means -
+Act No. 11 of 1997.
+
+“attainment targets” in relation to a subject area means a statement that describes the intent of what a student is expected to achieve by the end of schooling for a particular subject area and includes what the student should know and be able to do and the desirable attitude that the student should display;
+
+“authority” means -
 
 (a) in  the  case  of  public  school,  the  Chief  Education Officer;
 
 (b) in the case of a private shcool, the proprietor;
-
-- Interpretation.
-
-Act No. 11  0f  1997.
 
 [[END OF PAGE 7]]
 
@@ -293,25 +293,27 @@ Act No. 11  0f  1997.
 
 (c) in  the  case of an assisted private school, the Board of Management;
 
-'Board  of  Management'  means  a  Board  of  Management appointed under section 56, 63, 69, 70 or 72 of the Act;
+“Board  of  Management”  means  a  Board  of  Management appointed under section 56, 63, 69, 70 or 72 of the Act;
 
-'Chief Education Officer' means the person appointed as such by the Public Service Commission;
+“Chief Education Officer” means the person appointed as such by the Public Service Commission;
 
-'controlled drug' has the meaning assigned to it in the Drugs (Prevention of Misuse) Act ; Chap. 40:07.
+“controlled drug” has the meaning assigned to it in the Drugs (Prevention of Misuse) Act;
 
-'core  subject'  means  a  subject  that  is  taught  throughout  a student's expected tenure at school, that is to say from Grade K to Form 5;
+Chap. 40:07.
 
-'Curriculum Measurement and Evaluation Unit' means the Unit established  by  the  Ministry  of  Education  to  deal  with matters  pertaining  to  curriculum  measurement  and evaluation;
+“core  subject”  means  a  subject  that  is  taught  throughout  a student's expected tenure at school, that is to say from Grade K to Form 5;
 
-'CXC' means the Caribbean Examinations Council;
+“Curriculum Measurement and Evaluation Unit” means the Unit established  by  the  Ministry  of  Education  to  deal  with matters  pertaining  to  curriculum  measurement  and evaluation;
 
-'CXC Regulations' means the Caribbean Examination Council Secondary School Certificate Regulations 1991;
+“CXC” means the Caribbean Examinations Council;
 
-'directory information' in relation to a student means the name, religious  persuasion,  telephone  number    or  residence  of  the student and his parent;
+“CXC Regulations” means the Caribbean Examination Council Secondary School Certificate Regulations 1991;
 
-'education district' means a group of public and assisted private primary  and  secondary  schools  within  a  particular geographic area;
+“directory information” in relation to a student means the name, religious  persuasion,  telephone  number or residence of the student and his parent;
 
-'education  officer'  means  a  person  appointed  by  the  Public Service  Commission  with  the  responsibility  for  supervising and providing support to schools;
+“education district” means a group of public and assisted private primary  and  secondary  schools  within  a  particular geographic area;
+
+“education  officer”  means  a  person  appointed  by  the  Public Service  Commission  with  the  responsibility  for  supervising and providing support to schools;
 
 [[END OF PAGE 8]]
 
@@ -319,27 +321,27 @@ Act No. 11  0f  1997.
 
 2011                         EDUCATION                             S.R.O. 7
 
-'foundation subject' means a subject which is taught from Grade K to Form 3;
+“foundation subject” means a subject which is taught from Grade K to Form 3;
 
-'gang' means any unit consisting of two or more persons and having identifiable leadership which on an ongoing basis regularly conspires and act  concert    for  criminal,  antisocial and disruptive purposes;
+“gang” means any unit consisting of two or more persons and having identifiable leadership which on an ongoing basis regularly conspires and act concert for criminal, antisocial and disruptive purposes;
 
-'guidance counsellor' means the support and supervision section of  the  Ministry  of  Education  or  a  qualified  teacher  in guidance counselling appointed counsellor at a school;
+“guidance counsellor” means the support and supervision section of  the  Ministry  of  Education  or  a  qualified  teacher  in guidance counselling appointed counsellor at a school;
 
-'instructional time' means t he time during which students are under  instruction  or  otherwise  under  the  control  or supervision of a teacher; and
+“instructional time” means the time during which students are under  instruction  or  otherwise  under  the  control  or supervision of a teacher; and
 
 (a) includes recess;
 
 (b) does not include time spent by the teacher in marking tests or examination papers, for grading and classifying students, when no students are present or under the supervision or control of the teacher.
 
-'learning outcomes' has  the  meaning  assigned  to  it  in  the  National Curriculum;
+“learning outcomes” has  the  meaning  assigned  to  it  in  the  National Curriculum;
 
-'National Curriculum' means the curriculum established under section 137 of the Act;
+“National Curriculum” means the curriculum established under section 137 of the Act;
 
-'Registrar' means the local registrar of CXC Examinations;
+“Registrar” means the local registrar of CXC Examinations;
 
-'school day' means any day other than a Saturday, a Sunday or a  public  holiday  which  is  within  the  school  year  or  a working day which is within a  school vacation;
+“school day” means any day other than a Saturday, a Sunday or a  public  holiday  which  is  within  the  school  year  or  a working day which is within a school vacation;
 
-'school  hours'  means  the  period  during  which  attendance  is required  at  school  under  regulation  6  and  7  of  these Regulations;
+“school  hours”  means  the  period  during  which  attendance  is required  at  school  under  regulation  6  and  7  of  these Regulations;
 
 [[END OF PAGE 9]]
 
@@ -347,17 +349,15 @@ Act No. 11  0f  1997.
 
 2011                         EDUCATION                             S.R.O. 7
 
+“specific  learning  outcomes”  means  the  desired  knowledge,  skills, attitudes and values that all students have to demonstrate that they have achieved in every subject in each grade;
+
+“teacher”  means  a  person  employed  by  the  Government  of Dominica or the Board of Management or Principal of a school for the purpose of instructing students.
+
+(2) For the purposes of these Regulations “undesirable conduct or behaviour patterns which may reasonably be associated with a gang” includes habitual use of offensive language, consumption of alcoholic beverage, involvement in the use of a controlled drug, disrespect for authority and involvement in criminal activity in or outside the school premises.
+
 Application.
 
-School year.
-
-'specific  learning  outcomes'  means  the  desired  knowledge,  skills, attitudes and values that all students have to demonstrate that they have achieved in every subject in each grade;
-
-'teacher'  means  a  person  employed  by  the  Government  of Dominica or the Board of Management or Principal of a school for the purpose of instructing students.
-
-(2)  For the purposes of these Regulations  'undesirable conduct or behaviour patterns which may reasonably be associated with a  gang'  includes  habitual  use  of  offensive  language,  consumption of  alcoholic  beverage,  involvement  in  the  use  of  a  controlled  drug, disrespect for authority and involvement in criminal activity in or outside the school premises.
-
-- Except as provided otherwise, these Regulations  apply to -
+3. Except as provided otherwise, these Regulations apply to -
 
 (a) the conduct, operations and management of every school;
 
@@ -369,7 +369,9 @@ School year.
 
 ### SCHOOL YEAR, SCHOOL HOLIDAYS AND HOURS OF SCHOOL
 
-(1) The school year shall -
+School year.
+
+4. (1) The school year shall -
 
 (a) commence on the first day of September of one year and end on the thirty-first day of August of the following year; and
 
@@ -385,6 +387,8 @@ School year.
 
 (3) The principal shall ensure that instructional classes for  the  school    in  any  school  year  commence  not  later  than  the  date of the second Monday in the month of September in a calendar year;    and  unless  otherwise  specified  by  the  Minister,  shall  end  not later than the date of the first Monday in July in the following calendar year.
 
+School day.
+
 5. (1) Every school shall be in session every school day except during an interruption approved -
 
 (a) by the Minister; or
@@ -395,13 +399,11 @@ School year.
 
 (3) Where the school day for a school consists of one instructional  session  which  goes  beyond  the  noon  hour,  there  shall be a break of no less than twenty minutes within that session.
 
+Hours of instructions for primary schools.
+
 6. (1) The sessions and hours of instruction in the case of public or assisted private secondary schools shall commence at 8am and end at 1pm.
 
 (2) Notwithstanding sub-regulation (1),  the  Minister  may direct  that  the  aggregate  scheduled  instructional  time  in  each  class during a school day shall not be less than six hours.
-
-School day.
-
-Hours of instructions for primary schools.
 
 [[END OF PAGE 11]]
 
@@ -413,15 +415,15 @@ Hours of instructions for primary schools.
 
 7. (1) Unless otherwise specified by  the  Minister,  the  school day at a primary school shall -
 
-(a) comprise two instructional sessions (hereinafter referred to as 'the morning session' and 'the afternoon  session'  respectively)  with  a  lunch period  of  one  and  a  half  hours  between  the morning and afternoon sessions; and
+(a) comprise two instructional sessions (hereinafter referred to as “the morning session” and “the afternoon  session”  respectively)  with  a  lunch period  of  one  and  a  half  hours  between  the morning and afternoon sessions; and
 
-(b) end at 3:30 pm .
+(b) end at 3:30 pm.
 
-(2) Subject to this regulation, the morning session in a primary  school  shall  commence  at  9:00  am  and  shall  end  at  12:00  pm and the afternoon session shall commence at 1:30 pm .
+(2) Subject to this regulation, the morning session in a primary  school  shall  commence  at  9:00  am  and  shall  end  at  12:00  pm and the afternoon session shall commence at 1:30 pm.
 
 (3) Notwithstanding sub-regulation (1) a principal  may, prior to the commencement of the school year and subject to approval by the Minister, determine the commencement and end of the morning and afternoon sessions in a school day in respect of the school.
 
-- A principal shall ensure that there is -
+(4) A principal shall ensure that there is -
 
 (a) scheduled instructional time of not less than five hours  in each class on a school day; and
 
@@ -439,7 +441,11 @@ Hours of instructions for primary schools.
 
 (7) The application referred to in sub-regulation (6) shall be addressed to the Chief Education Officer and shall contain such information as may be required by the Chief Education Officer.
 
+Roll call and collective worship.
+
 8. A principal shall ensure that morning assembly, roll call and collective worship are conducted within a period of not more than  thirty  minutes  before  the  commencement  of  the  first instructional  session  of  any  school  day  unless  otherwise  specified by the Chief Education Officer.
+
+School vacations.
 
 9. (1) There shall be in every school year three school terms and one school vacation at  the  end  of  each  school  term  (hereinafter referred to as the Christmas, Easter and end of year vacation respectively).
 
@@ -449,11 +455,7 @@ Hours of instructions for primary schools.
 
 (4) Unless otherwise provided, the summer vacation in any school year shall commence not later than the first week  in July and end on the thirty-first day of August in that year.
 
-(5) Notwithstanding  sub-regulation  (4),  the  Chief Edcuation Officer  may direct that principals or teachers attend workshops or staff  development sessions  as  considered    necessary by  the  Chief  Education  Officer  within  the  first  two  weeks following the closure of schools.
-
-Roll call and collective worship.
-
-School  vacations.
+(5) Notwithstanding  sub-regulation  (4),  the  Chief Edcuation Officer  may direct that principals or teachers attend workshops or staff  development sessions  as  considered necessary by  the  Chief  Education  Officer  within  the  first  two  weeks following the closure of schools.
 
 [[END OF PAGE 13]]
 
@@ -461,37 +463,39 @@ School  vacations.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Information on curriculum.
-
-First Schedule.
-
-First Schedule.
-
-Written  reports.
-
 ## PART III
 
 ### RIGHTS AND RESPONSIBILITIES OF STUDENTS AND  PARENTS
+
+Information on curriculum.
 
 10. (1) A principal shall at the beginning of a school year exhibit the curriculum for each class on the school notice board.
 
 (2) The principal  shall  on  request  provide  a  parent  with  the curriculum applicable to the particular form or grade on payment of the form or grade curriculum fee set out in the First Schedule.
 
+First Schedule.
+
 (3) Where an alternate area of study is introduced for an area prescribed in a school curriculum or a change or addition is made or introduced in accordance with the Act, the principal  of  the school shall inform the parents of the students affected of such alternative area of study, change or addition.
 
 (4) The National Curriculum shall be made available to the public on the Ministry's website and in hard copy at  the Curriculum  Measurement  and  Evaluation  Unit  Office  on  the payment  of  the  national  curriculum  fee  set  out  in  the  First Schedule.
+
+First Schedule.
+
+Written reports.
 
 11. (1) A teacher shall, at least once every term,  prepare a written progress report in respect of each of his students and the report  shall be signed by the class teacher and the principal or other teacher as the principal may authorize.
 
 (2) The progress report referred to in sub-regulation (1) shall contain an assessment of the achievement of the student in each subject or area of the curriculum, leadership skills, initiative and industry of the student, a record of attendance and tardiness or lateness and on the overall academic performance, ability or personal quality of the student as the teacher or principal considers noteworthy.
 
-(3) A principal shall make available to the parent of a student  a  written  summary  report  on  the  performance  of  the student for the school year signed by the class teacher and the principal or such other teacher as the principal may authorize.
+(3) A principal shall make available to the parent of a student  a  written  summary  report  on  the  performance  of  the
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
 2011                         EDUCATION                             S.R.O. 7
+
+student for the school year signed by the class teacher and the principal or such other teacher as the principal may authorize.
 
 (4) Every parent shall collect the report referred to in sub-regulations (1) and (2) from the principal personally or if the parent is  unable  to  do  so,  through  an  adult  authorised  in  writing  by the parent to collect the report.
 
@@ -507,11 +511,13 @@ Written  reports.
 
 (6)  A  principal  shall  issue  a  student  who  transfers, migrates or otherwise ends his schooling at the principal's school with a record of achievement in Form A set out in the Second Schedule.
 
-12. A principal or person authorised by the principal shall, on the registration of a student at a school, make available to the parent  of  the  student  the  policies  of  the  school  respecting  promotion, school safety, fund raising, student discipline and rewards, the system  of  education and other measures for assessment and evaluation of the achievement of students as determined by the Chief Education Officer.
+Form A.
 
-Form A. Second schedule.
+Second schedule.
 
 Access to school policies.
+
+12. A principal or person authorised by the principal shall, on the registration of a student at a school, make available to the parent  of  the  student  the  policies  of  the  school  respecting  promotion, school safety, fund raising, student discipline and rewards, the system  of  education and other measures for assessment and evaluation of the achievement of students as determined by the Chief Education Officer.
 
 [[END OF PAGE 15]]
 
@@ -521,9 +527,9 @@ Access to school policies.
 
 Examination of students records.
 
-First Schedule.
-
 13. (1) A principal shall permit a parent of a student, upon the parents'  written  request  and  payment  of  the  examination  of educational records fee set out in the First Schedule, to examine the education records of his child or ward required to be kept by the school.
+
+First Schedule.
 
 (2) A principal shall comply with a request for access to records within a reasonable time but no more than thirty days after it has received the request.
 
@@ -535,7 +541,7 @@ First Schedule.
 
 (6) Where the parent believes that the education records relating  to  the  student  contains  information  that  is  incorrect, misleading or in violation of the right of privacy of the student, the parent may ask the principal  to amend and correct the education records.
 
-(7) A parent who wishes to make a request under subregulation (6) shall submit the grounds upon which the request is being made and any evidence in support of the grounds.
+(7) A parent who wishes to make a request under sub-regulation (6) shall submit the grounds upon which the request is being made and any evidence in support of the grounds.
 
 [[END OF PAGE 16]]
 
@@ -545,31 +551,31 @@ First Schedule.
 
 (8) Where a request is  made under sub-regulation (6) the principal  shall,  in  writing,  inform  the  parent  of  its  decision  respecting the request.
 
+Display of school calendar.
+
 14. (1) Every  principal  shall  at  the  commencement  of  the school year  display  the  school  calendar  on  the  school  notice  board.
 
-(2)   At the commencement of the school year or at such reasonable time, where practicable the principal or other person authorised by the principal may provide a parent of a student enrolled at the school with a copy of the school calendar prepared in accordance with regulation 71 (2).
+(2) At the commencement of the school year or at such reasonable time, where practicable the principal or other person authorised by the principal may provide a parent of a student enrolled at the school with a copy of the school calendar prepared in accordance with regulation 71 (2).
+
+Communication between parents and teachers.
 
 15. (1) Notwithstanding the provisions of these Regulations, a  parent  of  a  student  enrolled  at  a  school  shall  use  his  best endeavours to maintain frequent communication with the school in relation to the academic progress and behaviour of the student.
 
 (2) Without limiting the generality of sub-regulation (1), parents are encouraged to meet teachers at such times as the school may arrange and make available for such purposes.
 
+Non disclosure of student  information.
+
 16. (1) Subject to this  regulation,  a  principal,  teacher  or  other person having access to the education records of a student shall not disclose information from the education records of a student without the consent of the parent.
 
 (2) Subject to sub-regulation (4), where a parent requires information  from  the  education  records  of  the  student  to  be disclosed to another person, the parent shall provide a signed and dated written consent in that regard.
 
-- The written consent shall -
+(3) The written consent shall -
 
 (a) specify the information that may be disclosed;
 
 (b) state the purpose for the disclosure; and
 
 (c) identify  the  person  or  category  of  persons  to whom the disclosure can be made.
-
-Display of school calendar.
-
-Communication between parents and teachers.
-
-Non disclosure of student  information.
 
 [[END OF PAGE 17]]
 
@@ -617,6 +623,8 @@ Non disclosure of student  information.
 
 ### STUDENT COUNCILS AND PARENT TEACHER ASSOCIATIONS
 
+Student Council.
+
 17. (1) Every secondary school shall and primary schools may,   have  a  Student  Council  whose  constitution  shall  be  determined by the specific requirements and circumstances of the school.
 
 (2) A person who is not enrolled or admitted as a student of a school is not eligible to membership in the Student Council of the school.
@@ -627,17 +635,11 @@ Non disclosure of student  information.
 
 (5) There shall be, in respect of the Student Council of a school, a student liaison officer who shall be a member of the staff of the school.
 
-Student  Council.
-
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
 2011                         EDUCATION                             S.R.O. 7
-
-National  Student Council.
-
-Parent Teachers Associations.
 
 (6) The meetings of the Student Council may be scheduled on the school timetable.
 
@@ -653,11 +655,15 @@ Parent Teachers Associations.
 
 (12) Subject to this regulation a student council shall determine its rules of procedures.
 
+National Student Council.
+
 18. (1) There shall be a National Student Council made up of two delegates from every Student Council in Dominica.
 
 (2) The Minister shall appoint two education officers to represent the Ministry on the National Students Council.
 
 (3) The National Students Council shall represent the views and interests of its member Student Councils to the Chief Education Officer.
+
+Parent Teachers Associations.
 
 19. (1) Every school, or group of schools  shall have a Parent Teachers Association which shall comprise parents of students currently registered  at  the  school,    the  principal  and  teachers  of  the school and parents of past students with particular expertise who are willing to serve the Parents Teachers Association.
 
@@ -673,6 +679,8 @@ Parent Teachers Associations.
 
 ## PART V ENFORCEMENT  OF  COMPULSORY  SCHOOL ATTENDANCE
 
+Enrollment and registration.
+
 20. (1) A child who attains the age of five years on or before December 31 of the school year in which enrollment is requested shall be eligible to be enrolled in and admitted to a primary school for that school year.
 
 (2) Notwithstanding sub-regulation (1), a child who attains the age of five years by December 31 of the school year in which  enrollment  is  requested  and  who  has  previously  been enrolled in  a  school  having  an  education  programme  equivalent  to a  primary grade in the  education programme of Dominica and has received regular assessment from the school, shall be admitted to the appropriate grade as determined by the principal.
@@ -681,13 +689,13 @@ Parent Teachers Associations.
 
 (a) parent shall  make  an  application  in  Form  B  set  out in  the  Second  Schedule  for  enrollment  and  admission to the school; and
 
-(b) student  shall  not  be  refused  admission  to  the school except on the grounds that accommodation for  that  student  in  that  school  is  not  available  or  on such other ground as the Minister may approve.
-
-(4) A  principal or such teacher as the principal may authorize shall discuss with parents of students to be enrolled at Enrollment and registration.
-
 Form B.
 
 Second Schedule.
+
+(b) student  shall  not  be  refused  admission  to  the school except on the grounds that accommodation for  that  student  in  that  school  is  not  available  or  on such other ground as the Minister may approve.
+
+(4) A  principal or such teacher as the principal may authorize shall discuss with parents of students to be enrolled at
 
 [[END OF PAGE 21]]
 
@@ -723,6 +731,8 @@ the  school  the  provisions  of  the  Act  and  these  Regulations respecting s
 
 2011                         EDUCATION                             S.R.O. 7
 
+Particulars  to  be provided  with applications  for enrollment.
+
 21. (1) During the enrollment of a student to a school, the parent of the student or other responsible person, as the case may be, shall furnish the school with the following particulars:
 
 (a) the name of the student;
@@ -749,21 +759,15 @@ the  school  the  provisions  of  the  Act  and  these  Regulations respecting s
 
 (2) Notwithstanding sub-regulation (1)(g), a child in respect of whom admission is sought to a primary school without immunization records may be considered for admission if the parent presents a medical certificate indicating that the child has suffered or  is  suffering  from  a  disease  which  makes  immunization inadvisable or detrimental.
 
-Particulars  to  be provided  with applications  for enrollment.
-
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
 2011                         EDUCATION                             S.R.O. 7
 
-Limitations  on admission.
-
-Third Schedule.
-
-Admission of students.
-
 (3) Where there is a change in the information submitted upon enrollment, the  parent  or  the  student  shall  promptly  notify  the principal of that change.
+
+Limitations  on admission.
 
 22. (1) The Grade Six National Assessment Examination, or such other equivalent examination as the Minister may approve, shall be the qualifying examination for admission to a secondary school.
 
@@ -773,11 +777,15 @@ Admission of students.
 
 (4) Subject to the directions of the Minister, a principal shall in considering applications for admission of children to a public or assisted secondary school, as far as is practicable, give priority to children of persons resident in the school catchment area set out in the Third Schedule.
 
+Third Schedule.
+
 (5) The principal of a primary school shall not admit a child to the school unless the principal -
 
 (a) verifies  the  age  of  the  child    by  reference  to  the  birth certificate of the child bearing the name of the child;  and
 
 (b) is satisfied on the evidence of the immunization records referred to  in  regulation  21  (1)  (g)  that  the child is immunized against Diptheria, Pertusis, Tetanus, Polio, Measles, Mumps and Rubella.
+
+Admission of students.
 
 23. (1) Subject to these Regulations, a person is entitled to be admitted as a student of a school, if the person is a -
 
@@ -801,7 +809,11 @@ Admission of students.
 
 (2) Subject  to  these  Regulations,  a  person  who  is aggrieved by the decision of a principal to refuse admission to a child may, in writing to the Education Appeal Tribunal, appeal against that decision and it shall be the duty of the Tribunal to dispose of the appeal within seven days of the date of the hearing.
 
+Dates and times for enrollment and registration.
+
 24. A  principal  shall, not less than one month prior to the end of the school year,  inform the public of the dates for registration and enrollment respecting new admissions to the school.
+
+Certificate of exemptions.
 
 25. (1) Subject to the Act and this regulation, every child of compulsory school age shall on every day in which school is in session attend the school in which the child is enrolled and the parent shall ensure that the student attends such sessions.
 
@@ -810,10 +822,6 @@ Admission of students.
 (a) any of the exemptions mentioned in sub-section (1) of section 37 of the Act apply; or
 
 (b) the student is temporarily unable to attend school
-
-Dates and times for enrollment and registration.
-
-Certificate of exemptions.
 
 [[END OF PAGE 25]]
 
@@ -845,13 +853,17 @@ by reason of an unavoidable cause, and evidence of that fact is provided by the 
 
 2011                         EDUCATION                             S.R.O. 7
 
-26. (1) A principal  shall ensure that separate attendance registers are kept in respect of teachers and students and the  principal  shall  make  these  registers  available  for  inspection  by  an education officer, any member of the Board of Management of the school, the Chief Education Officer or such other person entitled to inspect them.
+Attendance
+
+26. (1) A principal shall ensure that separate attendance registers are kept in respect of teachers and students and the principal shall make these registers available for inspection by an education officer, any member of the Board of Management of the school, the Chief Education Officer or such other person entitled to inspect them.
 
 (2) At the commencement of each school year, the name of every student on the roll of the school shall be entered in the attendance register in alphabetical order of surnames according to gender
 
-27. (1) The roll  shall  be  called  at  the  beginning  of  each  session and the grade, class or form teacher shall place a tick next to the students name in blue or black ink to mark that the student is present and an X to mark that the student is absent.
+Marking of attendance register.
 
-(2) Where the school day is  divided  into  two  instructional sessions, there shall be two markings of the registers to be done in blue or black ink as follows:
+27. (1) The roll shall be called at the beginning of each session and the grade, class or form teacher shall place a tick next to the students name in blue or black ink to mark that the student is present and an X to mark that the student is absent.
+
+(2) Where the school day is divided into two instructional sessions, there shall be two markings of the registers to be done in blue or black ink as follows:
 
 (a) a first marking, at the commencement of the morning session; and
 
@@ -859,15 +871,11 @@ by reason of an unavoidable cause, and evidence of that fact is provided by the 
 
 (3) Attendance shall not be recorded for any student until his attendance has been duly entered in the attendance register.
 
+Principal's duties upon student failure to attend school.
+
 28. (1) Where a student fails to attend school without a valid justification, the principal of the school in which the student is enrolled shall in the case of -
 
 (a) one unexcused absence within one month during the current school year, inform the parent of the student in writing or by telephone of the unexcused absence and of the potential consequences of additional unexcused absences;
-
-Attendance
-
-Marking of attendance register.
-
-Principal's  duties  upon student failure to attend school.
 
 [[END OF PAGE 27]]
 
@@ -903,27 +911,27 @@ Principal's  duties  upon student failure to attend school.
 
 2011                         EDUCATION                             S.R.O. 7
 
-(1) A principal shall -
+Time-table.
+
+29. (1) A principal shall -
 
 (a) ensure that a school master time-table and time table for each class in the school are prepared and ready for implementation from the first day of school in every school year;
 
-(b) ensure that the time-tables referred to in paragraph (a) are arranged with due regard to the necessity  for  recreation  or  intra-curricula  activities;
+(b) ensure that the time-tables referred to in paragraph (a) are arranged with due regard to the necessity for recreation or intra-curricula activities;
 
-(c) not later than thirty days after the first day of the school  year furnish the Chief Education Officer with a copy of the time-tables for approval.
+(c) not later than thirty days after the first day of the school year furnish the Chief Education Officer with a copy of the time-tables for approval.
 
-(2) Subject to these Regulations, the Chief Education Officer,  an Education Officer or any other officer designated by the  Chief  Education  Officer  shall  approve  the    time  tables referred  to  in  sub-regulation  (1)  with  such  modifications  or recommendations as may be necessary.
+(2) Subject to these Regulations, the Chief Education Officer, an Education Officer or any other officer designated by the Chief Education Officer shall approve the time tables referred to in sub-regulation (1) with such modifications or recommendations as may be necessary.
 
-- Except as otherwise provided, the Chief Education Officer  shall  ensure  that  the  instructional  time  allotted  on  the  timetable of a secondary school to a core subject is not less than the time prescribed under the National Curriculum.
+(3) Except as otherwise provided, the Chief Education Officer shall ensure that the instructional time allotted on the time-table of a secondary school to a core subject is not less than the time prescribed under the National Curriculum.
 
-- Where it is found that the time scheduled for a subject in  a  time-table  is  inconsistent  with  these  Regulations  or  the recommendations of the National Curriculum, the Chief Education Officer or an Education Officer designated by him shall -
+(4) Where it is found that the time scheduled for a subject in a time-table is inconsistent with these Regulations or the recommendations of the National Curriculum, the Chief Education Officer or an Education Officer designated by him shall -
 
-(a) in  writing  inform the principal of the relevant school of the inconsistency; and
+(a) in writing inform the principal of the relevant school of the inconsistency; and
 
-(b) take steps  to address the inconsistency.
+(b) take steps to address the inconsistency.
 
-- The principal shall cause the approved time-table to be posted prominently and conspicuously on the premises of the school.
-
-Time-table.
+(5) The principal shall cause the approved time-table to be posted prominently and conspicuously on the premises of the school.
 
 [[END OF PAGE 29]]
 
@@ -931,31 +939,31 @@ Time-table.
 
 2011                         EDUCATION                             S.R.O. 7
 
+(6) Notwithstanding the provisions of this regulation, the Minister may approve instructional time of such duration for students receiving special education as the Minister may consider necessary in the circumstances.
+
 Transfers.
 
-Form C.
-
-Second Schedule.
-
-(6) Notwithstanding the provisions of this  regulation,  the Minister may approve instructional time of such duration for students receiving special  education  as  the  Minister  may  consider necessary in the circumstances.
-
-30. (1) After the  commencement of these Regulations, every school shall with the approval of the Minister and subject to section 31 of the Act adopt a policy establishing rational, fair and equitable standards for acceptance and rejection of applications for transfer to the school.
+30. (1) After the commencement of these Regulations, every school shall with the approval of the Minister and subject to section 31 of the Act adopt a policy establishing rational, fair and equitable standards for acceptance and rejection of applications for transfer to the school.
 
 (2) Without prejudice to the generality of sub-regulation (1), a school shall on an application for transfer release a student to another school that agrees to accept the student where -
 
-(a) a  financial,  educational,  safety,  or  health  condition affecting the student would likely be reasonably improved as a result of the transfer;
+(a) a financial, educational, safety, or health condition affecting the student would likely be reasonably improved as a result of the transfer;
 
 (b) attendance at the other school is more accessible to the parent's place of work or to the location of child care; or
 
-(c) t here is a special hardship or detrimental condition affecting the student.
+(c) there is a special hardship or detrimental condition affecting the student.
 
-(3) A parent of a student or a student who is 18 years or older  may  request or apply for a transfer in Form C set out in the Second Schedule  -
+Second Schedule.
+
+Form C.
+
+(3) A parent of a student or a student who is 18 years or older may request or apply for a transfer in Form C set out in the Second Schedule -
 
 (a) from the school where the student is enrolled to another school; or
 
-(b) to  a  school  from  a  home-based  education programme.
+(b) to a school from a home-based education programme.
 
-(4) An applicant for a  transfer  from  a  school  shall  include in  his  application  the  following  information-
+(4) An applicant for a transfer from a school shall include in his application the following information-
 
 [[END OF PAGE 30]]
 
@@ -997,27 +1005,29 @@ Second Schedule.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Children  requiring special  education.
+(8) A principal may reject an application by a student for transfer if the -
 
-(8) A principal  may reject an application by a student for transfer if the -
+(a) disciplinary records of the student indicate a history of disruptive or violent behaviour, gang membership or crimes; or
 
-(a) disciplinary  records  of  the  student  indicate  a history of disruptive or violent behaviour, gang membership or crimes; or
-
-(b) student  has  been  expelled  from  school  or suspended  from  school  for  more  than  ten consecutive days.
+(b) student has been expelled from school or suspended from school for more than ten consecutive days.
 
 (9) Where the school rejects an application for a transfer, the school shall provide the applicant with the reason for the rejection.
 
-31. (1) When a child attains the compulsory school age and there are  reasonable grounds to believe that the child is mentally or  otherwise  challenged  and  is  in  need  of  special  education pursuant to  section  81  of  the  Act,  the  parent  shall  in  writing  inform the Chief Education Officer of that need.
+Children requiring special education.
 
-(2) Where a student during attendance at a  school  develops the need for special education, the principal of the school shall in writing inform the Chief Education Officer and the parent of that need.
+31. (1) When a child attains the compulsory school age and there are reasonable grounds to believe that the child is mentally or otherwise challenged and is in need of special education pursuant to section 81 of the Act, the parent shall in writing inform the Chief Education Officer of that need.
 
-(3) The  Chief  Education  Officer  shall  ensure  that  a student in need of special education is provided with education in accordance with the provisions of Part IV of the Act.
+(2) Where a student during attendance at a school develops the need for special education, the principal of the school shall in writing inform the Chief Education Officer and the parent of that need.
+
+(3) The Chief Education Officer shall ensure that a student in need of special education is provided with education in accordance with the provisions of Part IV of the Act.
 
 ## PART VI
 
 ### DISCIPLINE,  SUSPENSION  AND  EXPULSION OF STUDENTS
 
-32. (1) Every principal and teacher employed at a school shall Duties of principals and teachers  respecting discipline.
+Duties of principals and teachers respecting discipline.
+
+32. (1) Every principal and teacher employed at a school shall -
 
 [[END OF PAGE 32]]
 
@@ -1037,17 +1047,17 @@ Children  requiring special  education.
 
 (3) In  the  exercise  of  discipline  or  administration  of punishment, principals and teachers shall respect the rights of students  to  be  heard  in  their  defence  and  to  be  treated  with impartiality.
 
+Student disciplinary policy.
+
 33. The student disciplinary policy of a school shall contain guidelines based on-
 
-(a) such administrative guidelines and procedures as the Chief  Education  Officer  may  issue  and  establish pursuant to sections 48(5) and 49(2) of the Act; and
+(a) such administrative guidelines and procedures as the Chief Education Officer may issue and establish pursuant to sections 48(5) and 49(2) of the Act; and
 
-(b) the  following  principles:
+(b) the following principles:
 
 (i) that discipline is an integral part of education and teaches and promotes the development of integrity, accountability, personal ethics and self-management;
 
-(ii) that  discipline  must  be  fair,  equitable  and consistent with the goals of education;
-
-Student  disciplinary policy.
+(ii) that discipline must be fair, equitable and consistent with the goals of education;
 
 [[END OF PAGE 33]]
 
@@ -1055,15 +1065,15 @@ Student  disciplinary policy.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Corporal  punishment.
+(iii) that corporal punishment, suspension and expulsion are acceptable components of discipline administered in the school;
 
-(iii) that  corporal  punishment,  suspension  and expulsion  are  acceptable  components  of discipline administered in the school;
+(iv) the disciplinary policy must be established or formulated with the participation of the Parent Teacher Association and student Council of the school;
 
-(iv) the disciplinary policy must be established or formulated  with  the  participation  of  the Parent  Teacher  Association  and  student Council of the school;
+(v) the disciplinary policy must outline appropriate procedures and responses to be made applicable to students;
 
-(v) the  disciplinary  policy  must  outline  appropriate procedures  and  responses  to  be  made applicable to students;
+(vi) the disciplinary policy must be consistently enforced; but must be flexible enough to provide for reasonable adjustment in variable circumstances.
 
-(vi) the disciplinary policy must be consistently enforced;  but  must  be  flexible  enough  to provide for  reasonable  adjustment  in  variable circumstances.
+Corporal punishment.
 
 34. (1) Except as otherwise provided, corporal punishment shall be administered on the palms of the hands of a student.
 
@@ -1093,15 +1103,17 @@ if such punishment is being administered, at the same time, for more than one of
 
 (b) the punishment is administered in the presence of a  member  of  staff  of  the  same  gender  as  the student.
 
-35. (1) The  principal  may  suspend  or  recommend  the expulsion of a student for the use of a controlled drug or the control, custody or possession of or dealing with such drug on the school premises.
+Actions in relation to students involved with drugs.
 
-(2) Where a principal has evidence that a student is a drug user  or  dealer  the  principal  shall,  subject  to  these  Regulations, take  measures to ensure that the student is punished and receives professional  counselling.
+35. (1) The principal may suspend or recommend the expulsion of a student for the use of a controlled drug or the control, custody or possession of or dealing with such drug on the school premises.
 
-(3) Where a student has been suspended pursuant to subregulation (1), the principal shall, subject to these Regulations, take  measures to ensure that the student receives professional counselling.
+(2) Where a principal has evidence that a student is a drug user or dealer the principal shall, subject to these Regulations, take measures to ensure that the student is punished and receives professional counselling.
 
-(4) Where a principal reasonably suspects  that a student is a repeat drug user or is a drug dealer or pusher on the school premises, the principal shall report that information to the police and recommend the expulsion of that student from the school.
+(3) Where a student has been suspended pursuant to sub-regulation (1), the principal shall, subject to these Regulations, take measures to ensure that the student receives professional counselling.
 
-(5) A  principal  shall  not  transfer  from  his  school  to another school a student who has been disciplined for an offence related to the possession of a controlled drug unless - Actions  in  relation  to students  involved  with drugs.
+(4) Where a principal reasonably suspects that a student is a repeat drug user or is a drug dealer or pusher on the school premises, the principal shall report that information to the police and recommend the expulsion of that student from the school.
+
+(5) A principal shall not transfer from his school to another school a student who has been disciplined for an offence related to the possession of a controlled drug unless -
 
 [[END OF PAGE 35]]
 
@@ -1109,27 +1121,27 @@ if such punishment is being administered, at the same time, for more than one of
 
 2011                         EDUCATION                             S.R.O. 7
 
-Patrols  and  professional counselling.
+(a) the principal has received professional advice respecting the transfer; and
 
-Possession of  weapons in  schools.
+(b) the principals of both schools agree that the student should be transferred.
 
-(a) the  principal  has  received  professional  advice respecting the transfer; and
-
-(b) the  principals  of  both  schools  agree  that  the student should be transferred.
+Patrols and professional counselling.
 
 36. (1) The Chief Education Officer shall, in collaboration with the police service, ensure that -
 
-(a) regular patrols  of  school  premises  are  conducted; and
+(a) regular patrols of school premises are conducted; and
 
-(b) the relevant school is immediately provided with copies  of  any  report  made,  or  is  otherwise informed of any action taken in respect of the patrols.
+(b) the relevant school is immediately provided with copies of any report made, or is otherwise informed of any action taken in respect of the patrols.
 
-(2) The Chief Education Officer may in collaboration with the  Ministry  of  Health  provide  professional  counselling  for  a student who breaches the provisions of Part V and this Part of these Regulations.
+(2) The Chief Education Officer may in collaboration with the Ministry of Health provide professional counselling for a student who breaches the provisions of Part V and this Part of these Regulations.
 
-(3) Where a principal has reasonable grounds to suspect a  student  enrolled  in  the  school  of  being  in  possession  of,  or  dealing with  illicit  drugs,  the  principal  shall  immediately  communicate  that information to the police, the parent of the student and the Chief Education Officer.
+(3) Where a principal has reasonable grounds to suspect a student enrolled in the school of being in possession of, or dealing with illicit drugs, the principal shall immediately communicate that information to the police, the parent of the student and the Chief Education Officer.
 
-(4) Where communication referred to in sub-regulation (3)  is  not  done  in  writing,  the  principal  shall  as  soon  as  practicable after the occurrence of the event resulting in the communication submit the communication in writing.
+(4) Where communication referred to in sub-regulation (3) is not done in writing, the principal shall as soon as practicable after the occurrence of the event resulting in the communication submit the communication in writing.
 
-37. (1) Except  as  otherwise  permitted,  a  person  on  the premises of a school or  in a school building shall not have in his control, possession or custody any firearm, knife, cutlass or other weapon.
+Possession of weapons in schools.
+
+37. (1) Except as otherwise permitted, a person on the premises of a school or in a school building shall not have in his control, possession or custody any firearm, knife, cutlass or other weapon.
 
 [[END OF PAGE 36]]
 
@@ -1141,21 +1153,21 @@ Possession of  weapons in  schools.
 
 (3) Where a principal has credible information that a student has in  his  possession  or  has  had  in  his  possession  a  firearm or  other  weapon, the principal shall recommend to the Chief Education Officer, that the student be expelled.
 
-38. Subject to  the  provisions  of  the  Act  and  these  Regulations, the parents of a student enrolled at a school shall be responsible for the conduct of the student and shall co-operate with the school in promoting and maintaining discipline in and out of school.
+Parents responsible for behaviour of student.
 
-39. (1) A student shall  not  display  or  participate  in  the  display of  undesirable  conduct  or  behaviour  patterns  which  may  reasonably be associated with a gang.
+38. Subject to the provisions of the Act and these Regulations, the parents of a student enrolled at a school shall be responsible for the conduct of the student and shall co-operate with the school in promoting and maintaining discipline in and out of school.
 
-(2) Subject to  these  Regulations,  the  principal  may  refuse admission  to  a  student,  or  may  suspend  or  recommend  the expulsion of a student -
+Permitted action by principal respecting gangs.
 
-(a) whose  conduct, mode of dress, symbols or other undesirable conduct or behaviour pattern may reasonably be associated with a gang; or
+39. (1) A student shall not display or participate in the display of undesirable conduct or behaviour patterns which may reasonably be associated with a gang.
 
-(b) where the undesirable conduct or behaviour patterns referred to in paragraph (a) give rise to a  reasonable  suspicion  that  the  student  belongs  to a gang or is involved in gang  related activities.
+(2) Subject to these Regulations, the principal may refuse admission to a student, or may suspend or recommend the expulsion of a student -
 
-(3) The principal shall, before taking any  action  in subregulation  (2),  discuss  the  undesirable  conduct  or  behaviour pattern necessitating the action with the student and the parent of the student.
+(a) whose conduct, mode of dress, symbols or other undesirable conduct or behaviour pattern may reasonably be associated with a gang; or
 
-Parents  responsible  for behaviour of student.
+(b) where the undesirable conduct or behaviour patterns referred to in paragraph (a) give rise to a reasonable suspicion that the student belongs to a gang or is involved in gang related activities.
 
-Permitted action by principal  respecting gangs.
+(3) The principal shall, before taking any action in sub-regulation (2), discuss the undesirable conduct or behaviour pattern necessitating the action with the student and the parent of the student.
 
 [[END OF PAGE 37]]
 
@@ -1163,27 +1175,27 @@ Permitted action by principal  respecting gangs.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Investigation  and notification.
+(4) Where a student after repeated counselling and warnings continues to display such undesirable conduct or behaviour patterns, the principal may suspend the student from the school.
 
-(4) Where  a  student  after  repeated  counselling  and warnings  continues  to  display  such  undesirable  conduct  or  behaviour patterns, the principal may suspend the student from the school.
+(5) Where there is no change in behaviour at the end of the period of suspension the parent shall, on request for withdrawal of the student made pursuant to these Regulations, withdraw the student from the school.
 
-(5) Where there is no change in behaviour at the end of the period of suspension the parent shall, on request for withdrawal  of  the  student  made  pursuant  to  these  Regulations, withdraw the student from the school.
+(6) Where a parent fails or refuses to withdraw a student after a request for withdrawal has been made pursuant to sub-regulation (5), the principal shall recommend the expulsion of the student.
 
-(6) Where a parent fails or refuses to withdraw a student after a request for withdrawal has been made pursuant to subregulation (5),  the  principal  shall  recommend  the  expulsion  of  the student.
+Investigation and notification.
 
-40. (1) A principal  shall -
+40. (1) A principal shall -
 
-(a) thoroughly  research  and  investigate  the circumstances surrounding any misconduct that would  result  in  suspension  or  expulsion  of  a student  from  school  before  suspending  or recommending the expulsion of the student; and
+(a) thoroughly research and investigate the circumstances surrounding any misconduct that would result in suspension or expulsion of a student from school before suspending or recommending the expulsion of the student; and
 
-(b) facilitate  any  investigation  respecting  the misconduct referred to in paragraph (a) that the Chief Education Officer may direct.
+(b) facilitate any investigation respecting the misconduct referred to in paragraph (a) that the Chief Education Officer may direct.
 
-(2)  Where  a  student  has  been  suspended  or  recommended for expulsion, the principal shall within two days of the suspension or expulsion forward a full written report respecting the  suspension  or  expulsion  to  the  Chief  Education  Officer  and  the parent of the student clearly outlining the -
+(2) Where a student has been suspended or recommended for expulsion, the principal shall within two days of the suspension or expulsion forward a full written report respecting the suspension or expulsion to the Chief Education Officer and the parent of the student clearly outlining the -
 
 (a) reason for the suspension or recommendation for the expulsion; and
 
-(b) results  of  any  investigation  conducted  pursuant  to this  regulation.
+(b) results of any investigation conducted pursuant to this regulation.
 
-(3) Where a student is on suspension and an external examination in  relation  to  the  student  is  scheduled  to  be  held  during the period of suspension, the principal shall  permit the student on the school premises only for the purpose of taking the external examination.
+(3) Where a student is on suspension and an external examination in relation to the student is scheduled to be held during
 
 [[END OF PAGE 38]]
 
@@ -1191,27 +1203,29 @@ Investigation  and notification.
 
 2011                         EDUCATION                             S.R.O. 7
 
-41. (1) Subject to these Regulations, a principal, a teacher or a parent of a student  shall take such action as may be necessary to  ensure  that  the  student  completes  primary  and  secondary education without interruption.
+the period of suspension, the principal shall permit the student on the school premises only for the purpose of taking the external examination.
 
-- The principal of a school may in writing -
+Withdrawal or expulsion for misbehaviour.
 
-(a) request  a  parent  of  a  student  to  withdraw  the student from the school; or
+41. (1) Subject to these Regulations, a principal, a teacher or a parent of a student shall take such action as may be necessary to ensure that the student completes primary and secondary education without interruption.
+
+(2) The principal of a school may in writing -
+
+(a) request a parent of a student to withdraw the student from the school; or
 
 (b) recommend to the Chief Education Officer the expulsion of a student from the school
 
-- for  reasons  of  misbehaviour  or  undesireable  conduct  or  behaviour patterns  which  may  reasonably  be  associated with a gang.
+for reasons of misbehaviour or undesireable conduct or behaviour patterns which may reasonably be associated with a gang.
 
-(3) A principal  shall,  when  making  a  request  for  withdrawal or recommendation for expulsion of a student from the school, ensure that he satisfies the requirements of the Act and these regulations  and  the  school's  rules  and  policy  respecting  withdrawal and in particular a principal shall ensure that-
+(3) A principal shall, when making a request for withdrawal or recommendation for expulsion of a student from the school, ensure that he satisfies the requirements of the Act and these regulations and the school's rules and policy respecting withdrawal and in particular a principal shall ensure that-
 
-(a) he    is  entitled  to  make  the  request  or recommendation;
+(a) he is entitled to make the request or recommendation;
 
-(b) the name and age of the student  and the nature of the  problem  which  has  given  rise  to  the  request  for withdrawal or expulsion is clearly stated;
+(b) the name and age of the student and the nature of the problem which has given rise to the request for withdrawal or expulsion is clearly stated;
 
 (c) the student who is the subject of the request for withdrawal or recommendation for expulsion and the parent of the student are given adequate warning of the behaviour of the student before a request is made for withdrawal or expulsion; and warning shall be evidenced in writing
 
 (d) he has discussed the withdrawal or expulsion of the student with the parent and student;
-
-Withdrawal  or  expulsion for misbehaviour.
 
 [[END OF PAGE 39]]
 
@@ -1219,29 +1233,29 @@ Withdrawal  or  expulsion for misbehaviour.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Re-admission of a student.
-
-CXC  and other Examinations
-
 (e) the student who is the subject of the request for withdrawal or recommendation of expulsion has been given an opportunity to be heard;
 
-(e) he  has  secured  the  approval  of  the  Chief  Education Officer before withdrawal of the student;and
+(e) he has secured the approval of the Chief Education Officer before withdrawal of the student;and
 
-(g) he  has  complied  with  the  recommendation  or advice, if any, of the Minister.
+(g) he has complied with the recommendation or advice, if any, of the Minister.
 
 (4) A parent or student aggrieved by a decision made under this regulation may, subject to Part X of the Act appeal against the decision to the Education Appeal Tribunal.
 
+Re-admission of a student.
+
 42. A student who has been expelled or withdrawn from a public or assisted private school shall not be re-admitted to that school or admitted to any other public or assisted private school without the approval of the Chief Education Officer.
 
-43. (1) A  principal  shall  furnish  the  Registrar  or  other appropriate registration body with information required for the registration of the students enrolled at the school for the CXC or other external examinations.
+CXC and other Examinations
+
+43. (1) A principal shall furnish the Registrar or other appropriate registration body with information required for the registration of the students enrolled at the school for the CXC or other external examinations.
 
 (2) The principal of a secondary school shall not later than the eighth week of the first term in a school year -
 
-(a) inform the students preparing to write CXC or other external examinations during the school year  and  the  parent  of  such  students  of  the regulations in respect  of  the  administration  of  the CXC examinations; and
+(a) inform the students preparing to write CXC or other external examinations during the school year and the parent of such students of the regulations in respect of the administration of the CXC examinations; and
 
 (b) convene a meeting with the parents and students referred to in paragraph (a) to discuss the regulations referred to in paragraph (a).
 
-(3) Where a student registered to write CXC or other external  examinations  is  expelled  from  a  school  immediately  prior to the date of the commencement of the examinations, the CXC
+(3) Where a student registered to write CXC or other external examinations is expelled from a school immediately prior to the date of the commencement of the examinations, the CXC
 
 [[END OF PAGE 40]]
 
@@ -1255,17 +1269,19 @@ regulations or regulations governing the external examination shall apply respec
 
 ### ADMINISTRATION  AND  OPERATIONS OF  SCHOOLS
 
-44. (1) The  authority  of  a  school  is  accountable  and      responsible to the Minister.
+Management of school.
 
-- The authority of a school shall ensure that -
+44. (1) The authority of a school is accountable and responsible to the Minister.
 
-(a) the  school  buildings  and  classrooms  are  of  a standard satisfactory to the Chief Education Officer;
+(2) The authority of a school shall ensure that -
 
-(b) the grounds of the school premises are suitable for  the  purpose  of  recreation  for  the  students attending the school;
+(a) the school buildings and classrooms are of a standard satisfactory to the Chief Education Officer;
 
-(c) a sufficient supply of drinking water is provided with  suitable  arrangements  for  the  use  of  the water by students and teachers;
+(b) the grounds of the school premises are suitable for the purpose of recreation for the students attending the school;
 
-(d) the  school  is  provided  with  toilets  for  use  by teachers and students;
+(c) a sufficient supply of drinking water is provided with suitable arrangements for the use of the water by students and teachers;
+
+(d) the school is provided with toilets for use by teachers and students;
 
 (e) there are separate toilets for male and female members of the school community;
 
@@ -1273,9 +1289,7 @@ regulations or regulations governing the external examination shall apply respec
 
 (g) the school is provided with all the requisite furniture and apparatus;
 
-(h) the  school  building  is  kept  in  a  state  of  good  repair and proper sanitation condition in accordance with the guidelines set out in the maintenance manual, referred to in regulation 56;
-
-Management of school.
+(h) the school building is kept in a state of good repair and proper sanitation condition in accordance with the guidelines set out in the maintenance manual, referred to in regulation 56;
 
 [[END OF PAGE 41]]
 
@@ -1283,25 +1297,25 @@ Management of school.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Subsidiary Chap. 1:01.
-
-Board of management.
-
 (i) provision is made for repair and inspection of the school premises;
 
 (j) provision is made for inspection and verification of all records and registers required to be kept by the principal; and
 
 (k) the school complies with any other requirements which the Chief Education Officer with the approval of the Minister may from time to time direct.
 
-(4) Where recommendations in respect of the management and operations of a private or assisted private school are required to be made under the Act and these Regulations, the authority of  the  school  shall  in  writing  address  such  recommendations to the Chief Education Officer.
+(4) Where recommendations in respect of the management and operations of a private or assisted private school are required to be made under the Act and these Regulations, the authority of the school shall in writing address such recommendations to the Chief Education Officer.
 
 (5) The authority shall not discriminate against persons with regard to appointment, training, deployment or discipline on grounds of religion, politics or any other belief that does not adversely affect the rights of other persons in the school.
 
-(6) The  authority  shall  recognize  the  rights  of  the representative  body  of  teachers  to  represent  their  respective members at the school.
+(6) The authority shall recognize the rights of the representative body of teachers to represent their respective members at the school.
 
 (7) In discharging its responsibilities, the authority shall take into consideration the various documents used in the governance of the teaching service including the collective agreement with the representative bodies of the teachers and where applicable, the Public Service Commission Regulations.
 
-45. (1) Where  a  Board  of  Management  is  appointed  in respect  of  a  public  or  assisted  private  school,    the  Board  of Management shall be published in the Gazette.
+Subsidiary Chap. 1:01.
+
+Board of management.
+
+45. (1) Where a Board of Management is appointed in respect of a public or assisted private school, the Board of Management shall be published in the Gazette.
 
 (2) The Board of Management shall -
 
@@ -1367,11 +1381,11 @@ Records to be kept.
 
 (l) such  other  records  as  the  Chief  Education Officer may require to be kept.
 
-- The principal shall -
+(2) The principal shall -
 
 (a) keep separate the record of a teacher from the record of every other teacher required to be kept in sub-regulation (1)(a); and
 
-(b) record  in  the  log  book  referred  to  in  sub-regulation
+(b) record in the log book referred to in sub-regulation
 
 [[END OF PAGE 44]]
 
@@ -1391,11 +1405,13 @@ Records to be kept.
 
 (d) year in which the student graduated or otherwise exited the school.
 
-47. Every register, book or other official document or record required to be kept by a school under the Act and these Regulations  shall-
+Custody and inspection of records.
+
+47. Every register, book or other official document or record required to be kept by a school under the Act and these Regulations shall-
 
 (a) be kept in a secure place on the premises of the school; and
 
-(b) be  open  to  inspection  at  all  reasonable  times during school hours by -
+(b) be open to inspection at all reasonable times during school hours by -
 
 (i) any member of the Board of Management;
 
@@ -1405,9 +1421,9 @@ Records to be kept.
 
 (iv) such other person acting under the written authority of the Permanent Secretary or the Chief Education Officer.
 
-48. (1) A  principal  shall, as regards each student enrolled and admitted in the school, cause to be entered in the register of students the following particulars - Custody  and  inspection of  records.
-
 Register of students.
+
+48. (1) A principal shall, as regards each student enrolled and admitted in the school, cause to be entered in the register of students the following particulars -
 
 [[END OF PAGE 45]]
 
@@ -1415,35 +1431,35 @@ Register of students.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Guidance  counsellors.
-
-Assessment and evaluation.
-
 (a) the index number, full name, date of birth of the student;
 
 (b) the date of admission of the student at the school;
 
 (c) the name and address of the parent;
 
-(d) the  name  of  the  last  educational  institution,  if  any, that  the  student  attended  and  the  last  date  of attendance at that institution;
+(d) the name of the last educational institution, if any, that the student attended and the last date of attendance at that institution;
 
-(e) the  date  on  which  the  student  ceased  to  be  a student  at  the  school  in  respect  of  which  the record is kept; and
+(e) the date on which the student ceased to be a student at the school in respect of which the record is kept; and
 
 (f) the particulars mentioned in subsections (2) and (3) of section 30 of the Act.
 
-- The record or information of the students shall be kept -
+(2) The record or information of the students shall be kept -
 
 (a) in a paper form; and
 
-(b) where  an  electronic  management  information system has been introduced, in electronic form, supported  by a paper format.
+(b) where an electronic management information system has been introduced, in electronic form, supported by a paper format.
 
-49. (1) Every school shall have a qualified teacher responsible for  guidance  and  counselling  to  ensure  that  every  student registered at  the  school  is  provided  with  guidance  and  counselling as may be required.
+Guidance counsellors.
 
-(2) Where a principal determines that a student needs guidance and counselling , that principal shall refer  that  student  to a guidance counsellor.
+49. (1) Every school shall have a qualified teacher responsible for guidance and counselling to ensure that every student registered at the school is provided with guidance and counselling as may be required.
 
-50. (1) The  Chief  Education  Officer  shall  ensure  that arrangements are made for key stages of assessment in accordance with the provisions of the Act.
+(2) Where a principal determines that a student needs guidance and counselling , that principal shall refer that student to a guidance counsellor.
 
-(2) A principal  shall -
+Assessment and evaluation.
+
+50. (1) The Chief Education Officer shall ensure that arrangements are made for key stages of assessment in accordance with the provisions of the Act.
+
+(2) A principal shall -
 
 [[END OF PAGE 46]]
 
@@ -1457,7 +1473,7 @@ Assessment and evaluation.
 
 (c) subject to sub-regulation (3), conduct an annual examination for students enrolled at the school towards the end of the third term in every school year or at such other times in that term as may be determined  after  consultation  with  the  Chief Education Officer.
 
-(3) Except as otherwise approved in writing by the Chief Education Officer, the annual examinations referred to in subregulation (2)(c)  shall  be  administered  during  a  period  of  not  more than-
+(3) Except as otherwise approved in writing by the Chief Education Officer, the annual examinations referred to in sub-regulation (2)(c) shall be administered during a period of not more than-
 
 (a) five  consecutive  school  days  in  the  case  of  a primary school;
 
@@ -1473,11 +1489,11 @@ Assessment and evaluation.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Minister may request closure.
-
 ## PART VIII
 
 ### CLOSURE AND DISCONTINUANCE OF SCHOOLS
+
+Minister may request closure.
 
 51. (1) The Minister may direct the temporary or permanent closure of a school if any of the conditions set out in section 34 of the Act have occurred and in the case of:
 
@@ -1511,19 +1527,19 @@ Minister may request closure.
 
 (4) Where a private or assisted private school is closed temporarily  or  permanently  pursuant  to  this  regulation,  the    authority and principal of the school shall deliver to the Minister or to the Chief Education Officer copies of such records of the institution as the Minister or the Chief Education Officer may require.
 
-52. (1) Except  as  otherwise  provided  in  the  Act  or  these Regulations, the proprietor or authority of a private school or an assisted private school shall  not discontinue such a school unless the proprietor or authority of the school gives the Minister six months notice in  writing,  of  the  intention  to  discontinue  the  school.
+Notice of intention to discontinue private and assisted private schools.
 
-(2) Where notice of intention to discontinue a school under this regulation is given to the Minister in accordance with sub-regulation (1),  or  where  such  intention  otherwise  comes  to  the knowledge of the Minister, the Minister may take such steps as he considers necessary for the continuance of the education of the students in the event of the discontinuance of the school.
+52. (1) Except as otherwise provided in the Act or these Regulations, the proprietor or authority of a private school or an assisted private school shall not discontinue such a school unless the proprietor or authority of the school gives the Minister six months notice in writing, of the intention to discontinue the school.
 
-53 . (1) The Minister may grant annually to an assisted  private school such sums of money as circumstances permit.
+(2) Where notice of intention to discontinue a school under this regulation is given to the Minister in accordance with sub-regulation (1), or where such intention otherwise comes to the knowledge of the Minister, the Minister may take such steps as he considers necessary for the continuance of the education of the students in the event of the discontinuance of the school.
 
-- Money granted pursuant to sub-regulation (1) shall -
+Grants to assisted schools.
 
-(a) not  be  disbursed  without  the  authorization  in  writing of the Permanent Secretary; and
+53. (1) The Minister may grant annually to an assisted private school such sums of money as circumstances permit.
 
-Notice of intention to discontinue  private  and assisted  private  schools.
+(2) Money granted pursuant to sub-regulation (1) shall -
 
-Grants  to  assisted schools.
+(a) not be disbursed without the authorization in writing of the Permanent Secretary; and
 
 [[END OF PAGE 49]]
 
@@ -1531,17 +1547,17 @@ Grants  to  assisted schools.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Withdrawal of grants.
-
 (b) be used by the assisted private school exclusively for the purpose for which it is granted.
 
 (3) Where money granted to an assisted private school is misappropriated, the Minister may -
 
 (a) discontinue future grants to the school; or
 
-(b) reduce by the amount misappropriated, any future grants made to the  school.
+(b) reduce by the amount misappropriated, any future grants made to the school.
 
-54. (1) The Permanent Secretary may, on the advice of the Chief Education Officer, after consultation with the authority of an assisted  private  school  withdraw  public  funds  from  the  assisted private school if-
+Withdrawal of grants.
+
+54. (1) The Permanent Secretary may, on the advice of the Chief Education Officer, after consultation with the authority of an assisted private school withdraw public funds from the assisted private school if-
 
 (a) the assisted private school fails to comply with any  of  the  provisions  of  the  Act  or  of  these Regulations;
 
@@ -1574,11 +1590,13 @@ Withdrawal of grants.
 ## PART  IX
 ### SCHOOL BUILDINGS AND OTHER RELATED ENVIRONMENTAL  STANDARDS  AND REQUIREMENTS
 
+Standards respecting buildings and facilities.
+
 55. (1) The authority of a school shall ensure that at all times the necessary facilities are provided for the school.
 
-(2) The school buildings, premises and facilities  of  every school  shall  conform  to  standards  and  satisfy  the  conditions determined by the Minister and the laws relating to standards of buildings for  public  use.
+(2) The school buildings, premises and facilities of every school shall conform to standards and satisfy the conditions determined by the Minister and the laws relating to standards of buildings for public use.
 
-(3) The  Minister,  subject  to  the  advice  of  the  Chief Medical Officer, the Chief Technical Officer of the Ministry of Public Works and the Chief Physical Planner, may from time to time make such decisions relating to specifications, plans, sites, and methods of construction and equipment of school buildings as may, in the opinion of the Minister be appropriate to the require- Standards  respecting buildings  and  facilities.
+(3) The Minister, subject to the advice of the Chief Medical Officer, the Chief Technical Officer of the Ministry of Public Works and the Chief Physical Planner, may from time to time make such decisions relating to specifications, plans, sites, and methods of construction and equipment of school buildings as may, in the opinion of the Minister be appropriate to the require-
 
 [[END OF PAGE 51]]
 
@@ -1586,25 +1604,25 @@ Withdrawal of grants.
 
 2011                         EDUCATION                             S.R.O. 7
 
-School premises maintenance manual.
-
 ments of the level of education which the buildings are intended to support.
 
-(4) The  authority  of  a  school  shall  ensure  that  every school building in use constructed before, on or after the date of commencement of these Regulations is-
+(4) The authority of a school shall ensure that every school building in use constructed before, on or after the date of commencement of these Regulations is-
 
-(a) at  all    times  maintained  in  proper  sanitary  conditions and  repair  in  accordance  with  the  approved standards referred to in these Regulations; and
+(a) at all times maintained in proper sanitary conditions and repair in accordance with the approved standards referred to in these Regulations; and
 
-(b) in  all  respects,  fit  for  the  purpose  of  a  school  to  the satisfaction of the Minister.
+(b) in all respects, fit for the purpose of a school to the satisfaction of the Minister.
 
 (5) Where the premises of a school is not maintained in a sanitary condition and repair or does not fit the purpose to the satisfaction of the Minister, the Minister may, after consultation with the authority of the school, order the school to be closed.
 
-56. (1) The Chief Education Officer  shall,    not  later  than  twelve months after the  commencement of these Regulations,  cause to be prepared and issued to  schools a maintenance manual in respect of  school premises.
+School premises maintenance manual.
 
-(2) The  maintenance  manual  shall  contain  and  list separately the maintenance activities which must be performed daily,  weekly,  monthly,  quarterly  or  annually.
+56. (1) The Chief Education Officer shall, not later than twelve months after the commencement of these Regulations, cause to be prepared and issued to schools a maintenance manual in respect of school premises.
 
-(3) The principal and authority of a school shall ensure that  school  premises  are  maintained  in  accordance  with  the maintenance manual.
+(2) The maintenance manual shall contain and list separately the maintenance activities which must be performed daily, weekly, monthly, quarterly or annually.
 
-(4) A principal may,  with the  approval  of  the  authority  of the school,  designate qualified persons to inspect the school premises or any part thereof  from  time  to  time  in  order  that  defects in the premises may be detected at an early stage.
+(3) The principal and authority of a school shall ensure that school premises are maintained in accordance with the maintenance manual.
+
+(4) A principal may, with the approval of the authority of the school, designate qualified persons to inspect the school premises or any part thereof from time to time in order that defects in the premises may be detected at an early stage.
 
 [[END OF PAGE 52]]
 
@@ -1614,23 +1632,23 @@ ments of the level of education which the buildings are intended to support.
 
 (5) Where a teacher employed at a school or a student of the school detects any noticeable defect in the school premises or part thereof, the teacher or student as the case may be shall report such defect to the principal of the school.
 
-57. (1) The authority of a school shall, for the purpose of detecting structural, electrical or other defects, cause an inspection of  the  school  premises  to  be  made  annually  or  at  such  times  as  may be specified in the school premises maintenance manual or from time to time as circumstances may require.
+Inspection of school for defects.
 
-(2) Every inspection referred  to  in  sub-regulation  (1) shall be made by a qualified person and every school shall be kept open  at  all  times  during  school  hours  for  carrying  out  such inspection.
+57. (1) The authority of a school shall, for the purpose of detecting structural, electrical or other defects, cause an inspection of the school premises to be made annually or at such times as may be specified in the school premises maintenance manual or from time to time as circumstances may require.
 
-(3) Where  an  inspection  is  carried  out  under  subregulation (1), the person conducting the inspection shall within fifteen working days of the conduct of the inspection prepare a report of the inspection and submit a copy thereof -
+(2) Every inspection referred to in sub-regulation (1) shall be made by a qualified person and every school shall be kept open at all times during school hours for carrying out such inspection.
 
-(a) in  the  case  of  a  public  school,  to  the  Chief Education  Officer  and  the  principal  of  the relevant school;
+(3) Where an inspection is carried out under sub-regulation (1), the person conducting the inspection shall within fifteen working days of the conduct of the inspection prepare a report of the inspection and submit a copy thereof -
+
+(a) in the case of a public school, to the Chief Education Officer and the principal of the relevant school;
 
 (b) in the case of any other school, to the authority, the proprietor, the Chief Education Officer and the principal of the relevant school.
 
-(4) The  report  referred  to  in  sub-regulation  (2)  shall specify the defects if any observed and such recommendations and actions as may be necessary to remedy those defects.
-
-58. (1) The Chief Education Officer shall, not later than six months after the commencement of these Regulations, cause to be prepared guidelines respecting the use of school buildings, premises and facilities of public schools for purposes other than the purposes of the public school.
-
-Inspection of school for defects.
+(4) The report referred to in sub-regulation (2) shall specify the defects if any observed and such recommendations and actions as may be necessary to remedy those defects.
 
 Use of public school buildings.
+
+58. (1) The Chief Education Officer shall, not later than six months after the commencement of these Regulations, cause to be prepared guidelines respecting the use of school buildings, premises and facilities of public schools for purposes other than the purposes of the public school.
 
 [[END OF PAGE 53]]
 
@@ -1638,17 +1656,17 @@ Use of public school buildings.
 
 2011                         EDUCATION                             S.R.O. 7
 
-First Schedule.
-
 (2) The guidelines referred to in sub-regulation (1) shall contain a statement setting out the mandatory conditions which must be satisfied.
 
-- Without  prejudice  to  the  generality  of  sub-regulation  (2),
+(3) Without prejudice to the generality of sub-regulation (2),
 
-(a) a  person  may  make  an  application  to  the  Chief Education Officer through the principal of a public school for use of the school building , premises or facilities;
+(a) a person may make an application to the Chief Education Officer through the principal of a public school for use of the school building, premises or facilities;
 
-(b) the authority of the public school may charge the fee for use of school buildings for purposes other than the purposes of a public school set out in the First Schedule,  but no fees may be charged for the use of the school by any  department of the Government;
+(b) the authority of the public school may charge the fee for use of school buildings for purposes other than the purposes of a public school set out in the First Schedule, but no fees may be charged for the use of the school by any department of the Government;
 
-(c) the applicant shall pay the expenses arising from any  loss  or  damage  caused  to  the  building  ,premises or  facilities,  the  furniture  and  fixtures  in  connection with  the  use  of  the  premises  and  where  a deposit  was  requested,  that  deposit  may  be forfeited;
+First Schedule.
+
+(c) the applicant shall pay the expenses arising from any loss or damage caused to the building, premises or facilities, the furniture and fixtures in connection with the use of the premises and where a deposit was requested, that deposit may be forfeited;
 
 (d) fees under paragraph (b) do not include expenses under paragraph (c);
 
@@ -1656,11 +1674,11 @@ First Schedule.
 
 (i) be responsible for the cleaning of the school buildings, premises and facilities; and shall
 
-(ii) ensure that the school building is ready for school use before thenext school day;
+(ii) ensure that the school building is ready for school use before the next school day;
 
-(iii) comply  with  such  other  conditions  as  the Chief Education Officer considers necessary.
+(iii) comply with such other conditions as the Chief Education Officer considers necessary.
 
-(4) The Chief Education Officer shall, within ten days of the preparation of the guidelines referred to in sub-regulation (1), furnish every principal of a public school with a copy of those guidelines.
+(4) The Chief Education Officer shall, within ten days of the preparation of the guidelines referred to in sub-regulation (1),
 
 [[END OF PAGE 54]]
 
@@ -1668,27 +1686,29 @@ First Schedule.
 
 2011                         EDUCATION                             S.R.O. 7
 
-(5) Except with the written approval of the Chief Education Officer, a building of a public school shall  not be used for any purpose other than a purpose of the school.
+furnish every principal of a public school with a copy of those guidelines.
+
+(5) Except with the written approval of the Chief Education Officer, a building of a public school shall not be used for any purpose other than a purpose of the school.
 
 (6) Subject to these Regulations, the Government may use a public school building or its premises for such purposes as may be required by the Government.
 
-(7) A person who is desirous of using the school building, premises  or  facilities  for  an  event  or  purpose  shall  make  an application in writing not later than thirty days prior to the date of the holding of the event to the Chief Education Officer for the use of the school building, premises or facilities.
+(7) A person who is desirous of using the school building, premises or facilities for an event or purpose shall make an application in writing not later than thirty days prior to the date of the holding of the event to the Chief Education Officer for the use of the school building, premises or facilities.
 
-(8) Subject to sub-regulation (9), the Chief Education Officer may on a written application issue a permit in Form D set out  in  the  Second  Schedule  to  an  applicant  to  use  the  school buildings or premises of a public school for -
+(8) Subject to sub-regulation (9), the Chief Education Officer may on a written application issue a permit in Form D set out in the Second Schedule to an applicant to use the school buildings or premises of a public school for -
 
-(a) any religious,  charitable,  educational,  recreational, social or civic purpose; or
+(a) any religious, charitable, educational, recreational, social or civic purpose; or
 
 (b) the purpose of a political meeting.
-
-(9) Where  the  Chief  Education  Officer  approves  an application for a permit to use a school building, premises or facilities under this regulation, the Chief Education Officer shall indicate the permission in writing and shall as soon as practicable forward a copy of the permission to the principal of the public school.
-
-59. (1) A   principal  shall  not  allow  any  fire  or  open  flame  inside a school building except a fire or open flame emitted by a Bunsen burner, an alcohol lamp, a stove or other like device required to be used in instructional classes.
 
 Form D.
 
 Second Schedule.
 
+(9) Where the Chief Education Officer approves an application for a permit to use a school building, premises or facilities under this regulation, the Chief Education Officer shall indicate the permission in writing and shall as soon as practicable forward a copy of the permission to the principal of the public school.
+
 Use of open flames prohibited.
+
+59. (1) A principal shall not allow any fire or open flame inside a school building except a fire or open flame emitted by a Bunsen burner, an alcohol lamp, a stove or other like device required to be used in instructional classes.
 
 [[END OF PAGE 55]]
 
@@ -1696,35 +1716,35 @@ Use of open flames prohibited.
 
 2011                         EDUCATION                             S.R.O. 7
 
+(2) Where a barbecue grill or fire is to be used on the premises of the school, the principal shall ensure that the barbecue grill or fire be kept at a reasonable distance from the school building and outside the reach of students.
+
+(3) The principal shall ensure that electrical connections and extensions and the installation of electrical equipment at and for the school shall be done by a certified electrician.
+
+(4) Except as provided under these Regulations, a person shall not on the premises of the school use or possess match bombs or other like incendiary devices which pose a threat to the safety, security and discipline of the students and other persons in the school.
+
+(5) The principal may, where he considers it appropriate, seek the assistance of the police in relation to the holding of activities involving members of the public.
+
+## PART X
+
+### PRIVATE  SCHOOLS
+
 Registration.
 
 Form E.
 
 Second Schedule.
 
-(2) Where a barbecue grill or fire is to be used on the premises of the  school,  the  principal  shall  ensure  that  the  barbecue grill  or  fire  be  kept  at  a  reasonable  distance  from  the  school building and outside the reach of students.
-
-(3) The principal shall ensure that electrical connections and extensions and the installation of electrical equipment at and for the school shall be done by a certified electrician.
-
-(4) Except as provided under these Regulations, a person shall not on the premises of the school use or possess match bombs or other like incendiary devices which pose a threat to the safety, security and discipline of the students and other persons in the school.
-
-(5) The principal   may,  where  he  considers  it  appropriate, seek the assistance of the police in relation to the holding of activities involving members of the public.
-
-## PART X
-
-### PRIVATE  SCHOOLS
-
 60. (1) An application made under section 95 (1) of the Act for a permit to establish a private school or under section 93 of the Act to register an existing private school shall be made in Form E set out in the Second Schedule and shall contain -
 
 (a) the name and address of -
 
-(i) the  school  and  of  the  applicant,  if  the  applicant is not the school;
+(i) the school and of the applicant, if the applicant is not the school;
 
 (ii) the proprietor;
 
-(iii) the  principal;
+(iii) the principal;
 
-(iv) the  person  to  whom  correspondence  on  matters
+(iv) the person to whom correspondence on matters
 
 [[END OF PAGE 56]]
 
@@ -1768,35 +1788,35 @@ relating to the school is to be sent;
 
 2011                         EDUCATION                             S.R.O. 7
 
+(o) a description of the accommodation provided, including the number of classrooms, recreation rooms, and separate lavatories for male and female teachers and male and female students, water supply, canteen facilities, and safety measures.
+
+(2) The application shall be accompanied by a non-refundable fee of five hundred dollars.
+
 Consultation.
-
-Display of permit.
-
-Renewal of permit.
-
-(o) a  description  of  the  accommodation provided, including the number of classrooms, recreation rooms,  and  separate  lavatories  for  male  and female teachers and male and female students, water supply, canteen facilities, and safety measures.
-
-(2) The  application  shall  be  accompanied  by  a  nonrefundable fee of five hundred dollars.
 
 61. The Minister shall, in considering an application referred to in regulation 60, consult the Chief Education Officer -
 
-(a) in  satisfying  himself  whether the requirements specified under section 96 of the Act have been met;
+(a) in satisfying himself whether the requirements specified under section 96 of the Act have been met;
 
-(b) in  deciding  on  the  conditions  subject  to  which  a  permit may be granted under the Act to a school;
+(b) in deciding on the conditions subject to which a permit may be granted under the Act to a school;
 
-(c) in  determining  the  maximum  number of  students  who can be admitted to a school under section 99 of the Act; and
+(c) in determining the maximum number of students who can be admitted to a school under section 99 of the Act; and
 
 (d) in deciding any other matter that he considers necessary respecting private schools.
+
+Display of permit.
 
 62. (1) Where a permit is issued to an applicant to operate a private school under section 96 of the Act, the permit holder shall administer and operate the private school in accordance with the Act, these Regulations and such conditions as the Minister may stipulate in the permit.
 
 (2) The holder of a permit issued under this Part shall -
 
-(a) ensure that the permit is prominently and conspicuously displayed  at  all  times  at  the  school;  and
+(a) ensure that the permit is prominently and conspicuously displayed at all times at the school; and
 
 (b) keep available at the private school, a copy of these Regulations and a copy of the permit.
 
-63. (1) For  the  purposes  of  section  102  (2)  of  the  Act,  a permit  holder  who  wishes  to  renew  his  permit  shall  apply  in  writing to the Minister for such renewal not less than six months before the expiry date of his permit and such applicant shall furnish the information required pursuant to regulation 60.
+Renewal of permit.
+
+63. (1) For the purposes of section 102 (2) of the Act, a permit holder who wishes to renew his permit shall apply in writing to the Minister for such renewal not less than six months before
 
 [[END OF PAGE 58]]
 
@@ -1804,27 +1824,29 @@ Renewal of permit.
 
 2011                         EDUCATION                             S.R.O. 7
 
-(2) The Minister may in  writing  request  any  permit  holder who is seeking a renewal under sub-regulation (1) to furnish him with any register, record, book or relevant document and the permit holder shall furnish the documents within the time stipulated in the written request.
+the expiry date of his permit and such applicant shall furnish the information required pursuant to regulation 60.
+
+(2) The Minister may in writing request any permit holder who is seeking a renewal under sub-regulation (1) to furnish him with any register, record, book or relevant document and the permit holder shall furnish the documents within the time stipulated in the written request.
+
+Revocation of permit.
 
 64. (1) Where the Minister has reasonable grounds to believe that a permit holder fails to operate or manage a private school in accordance with the provisions of the Act and these Regulations, the Minister may give the permit holder notice of such failures in such reasonable time as the Minister thinks necessary to remedy the failures.
 
-(2) Where after expiry of the time referred to in subregulation (1) the permit holder fails or is unable to remedy the failures  within  the  time,  the  Minister  may  subject  to  sub-regulation (3) revoke or cancel the permit.
+(2) Where after expiry of the time referred to in sub-regulation (1) the permit holder fails or is unable to remedy the failures within the time, the Minister may subject to sub-regulation (3) revoke or cancel the permit.
 
 (3) The Minister shall not revoke or cancel a permit to operate a private school unless he gives a reasonable time to the permit holder to explain why the permit should not be revoked or cancelled.
 
-65. The Chief Education Officer shall enter in the Private School Register referred to under section 94 (1) of the Act the following  particulars  as  regards  each  private  school  issued  a permit and registered:-
+Private schools register.
+
+65. The Chief Education Officer shall enter in the Private School Register referred to under section 94 (1) of the Act the following particulars as regards each private school issued a permit and registered:-
 
 (a) the particulars required to be mentioned in a permit under section 100 of the Act;
 
-(b) the  name  and  particulars  of  the  principal  of  the  private school;
+(b) the name and particulars of the principal of the private school;
 
 (c) the day the permit is issued;
 
 (d) the particulars of any notice served on the proprietor
-
-Revocation of permit.
-
-Private  schools  register.
 
 [[END OF PAGE 59]]
 
@@ -1832,31 +1854,31 @@ Private  schools  register.
 
 2011                         EDUCATION                             S.R.O. 7
 
-- Professional  duties.
-
-School  trips.
-
-Development of policy guidelines.
-
 of the private school under section 107 of the Act;
 
 (e) the particulars of any modification, transfer or revocation of the permit or cancellation of the registration of the private school;
 
-(f) the  particulars  of  any  conviction  of  a  permit  holder  for breach of the Act or these Regulations.
+(f) the particulars of any conviction of a permit holder for breach of the Act or these Regulations.
 
 ## PART XI
 
 ### PROFESSIONAL  DUTIES  AND  RESPONSIBILITIES OF TEACHERS AND PRINCIPALS
 
+Professional duties.
+
 66. (1) As regards the exercise of the professional duties set out in section 134 of the Act, it is the duty of a teacher employed at a school to -
 
-(a) report to the principal, or in the absence of the principal, the deputy principal or the teacher in charge,  any  unauthorized  activity  such  as  the unauthorized presence of persons on the  premises of the school which appears likely to disrupt or threaten the safety or security of school personnel or property; and
+(a) report to the principal, or in the absence of the principal, the deputy principal or the teacher in charge, any unauthorized activity such as the unauthorized presence of persons on the premises of the school which appears likely to disrupt or threaten the safety or security of school personnel or property; and
 
-(b) attend instructional planning sessions or other school related activities as may be determined by the principal, the Chief Education Officer or any person authorized  by  the  Chief  Education  Officer.
+(b) attend instructional planning sessions or other school related activities as may be determined by the principal, the Chief Education Officer or any person authorized by the Chief Education Officer.
 
-67. It   is    the  duty  of  a  teacher  employed at a school to comply with the policy guidelines referred to in regulation 68 and the guidelines respecting school trips.
+School trips.
 
-68. (1) A  principal shall prepare and adhere to a written statement  of  the  policies  and  procedures  to  be  used  by  the principal  and  staff  in  relation  to  disciplining  students  enrolled  at  the school, promotion, graduation, school safety and fund raising.
+67. It is the duty of a teacher employed at a school to comply with the policy guidelines referred to in regulation 68 and the guidelines respecting school trips.
+
+Development of policy guidelines.
+
+68. (1) A principal shall prepare and adhere to a written statement of the policies and procedures to be used by the principal and staff in relation to disciplining students enrolled at the school, promotion, graduation, school safety and fund raising.
 
 [[END OF PAGE 60]]
 
@@ -1870,27 +1892,25 @@ of the private school under section 107 of the Act;
 
 (4) A written statement of the policies and procedures referred to in this regulation and the school rules made under the Act shall not come into effect unless approved in writing by the Chief Education Officer.
 
-69. (1) A principal shall make available to the parent of a student at his school the expected learning outcomes to be met at the end of a grade, class or division in the school  by the end of the first term of the new school year.
+Learning outcomes.
 
-(2) A principal  of  a    school  shall  develop  special  assistance programmes for  students  who  do  not  or  who  the  school  has reasons to believe would not meet some of the expected learning outcomes at the end of a grade, class or division in the school.
+69. (1) A principal shall make available to the parent of a student at his school the expected learning outcomes to be met at the end of a grade, class or division in the school by the end of the first term of the new school year.
+
+(2) A principal of a school shall develop special assistance programmes for students who do not or who the school has reasons to believe would not meet some of the expected learning outcomes at the end of a grade, class or division in the school.
 
 (3) Where a principal determines that a student has not or would not be able to meet the expected learning outcomes of his grade, class or division, the school shall recommend to the parent that the student undergoes relevant remedial work in a special assistance programme referred to in sub-regulation (2).
 
+Preparation of school calendar.
+
 70. (1) The Ministry of Education shall circulate an annual Calendar of Activities at the beginning of the school year shall indicate the dates of the beginning and ending of instructional sessions for each year, and the dates for school vacations and school holidays.
 
-(2) A principal shall,  before  the  commencement of a school year, develop and prepare a calendar for the school year Learning outcomes.
-
-Preparation of school calendar.
+(2) A principal shall, before the commencement of a school year, develop and prepare a calendar for the school year
 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
 
 2011                         EDUCATION                             S.R.O. 7
-
-Teaching and class plants.
-
-Annual  Reports.
 
 on which shall indicate-
 
@@ -1902,19 +1922,23 @@ on which shall indicate-
 
 (d) the proposed dates for the commencement and ending of external examinations;
 
-(e) the dates for the school's  annual graduation and other major ceremonies;
+(e) the dates for the school’s annual graduation and other major ceremonies;
 
 (f) the dates for the submission of applications for admission to the school;
 
-(g) the  dates  for  activities  respecting  the  professional development of members of staff; and
+(g) the dates for activities respecting the professional development of members of staff; and
 
 (h) any other academic and non-academic activities for the school year.
 
 (3) The principal of every school shall not later than the last day of the sixth week of the first term of every school year forward a copy of the school calendar to the Chief Education Officer.
 
+Teaching and class plans.
+
 71. (1) Every teacher shall develop and prepare teaching and class plans for each subject and class assigned to him to teach in any school year.
 
-(2) Except as otherwise provided, every teacher shall present  the  teaching  and  class  plans  developed  and  prepared pursuant to  this  regulation  to  the  principal  at    times  as  the  principal or the persons delegated by the principal consider necessary.
+(2) Except as otherwise provided, every teacher shall present the teaching and class plans developed and prepared pursuant to this regulation to the principal at times as the principal or the persons delegated by the principal consider necessary.
+
+Annual Reports.
 
 72. (1) Every class teacher shall prepare and submit to the principal of the school an annual report in respect of each student in his class during the school year as regards the promotion and entitlement of the student to awards and receipts of rewards.
 
@@ -1924,11 +1948,11 @@ on which shall indicate-
 
 2011                         EDUCATION                             S.R.O. 7
 
-(2) A class teacher shall in the preparation of the annual report  consult  with  members  of  the  staff  as  he  considers  necessary and  information  received  during  such  consultations  shall  be confidential.
+(2) A class teacher shall in the preparation of the annual report consult with members of the staff as he considers necessary and information received during such consultations shall be confidential.
 
-- The principal of a public school shall -
+(3) The principal of a public school shall -
 
-(a) prepare  an  annual  report  in  respect  of  the management and operations of the school for each school year outlining the following:
+(a) prepare an annual report in respect of the management and operations of the school for each school year outlining the following:
 
 (i) major activities for the school year;
 
@@ -1938,21 +1962,21 @@ on which shall indicate-
 
 (iv) future plans and programmes,
 
-(b) not later than the last day of the sixth week of the first  term  of  the  school  year  immediately  following the  school  year  referred  to  in  paragraph (a) , forward a copy of the annual report to the Chief Education Officer; and
+(b) not later than the last day of the sixth week of the first term of the school year immediately following the school year referred to in paragraph (a), forward a copy of the annual report to the Chief Education Officer; and
 
 (c) submit an updated financial statement.
+
+Conflict of interests.
 
 73. (1) Every teacher shall arrange his private interests in a manner that will prevent a conflict of interest in the discharge of his professional duties.
 
 (2) Without prejudice to the generality of sub-regulation (1), a teacher in the discharge of his professional duties -
 
-(a) shall  perform  his  duties  and  functions  impartially, responsibly,  diligently,  efficiently  and  with  integrity;
+(a) shall perform his duties and functions impartially, responsibly, diligently, efficiently and with integrity;
 
-(b) shall not for his personal use solicit or accept directly or indirectly a fee, gift or professional benefit  from  a  person  or  organization  that  is associated with the school;
+(b) shall not for his personal use solicit or accept directly or indirectly a fee, gift or professional benefit from a person or organization that is associated with the school;
 
-(c) shall use or benefit from his school and schoolbased programmes, services and initiatives only
-
-Conflict of interests.
+(c) shall use or benefit from his school and school-based programmes, services and initiatives only
 
 [[END OF PAGE 63]]
 
@@ -1960,15 +1984,15 @@ Conflict of interests.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Dress code for teachers and  principals.
-
 to the extent that a member of the public benefits from such programmes, services or initiatives;
 
-(d) may use  or  benefit  from  information  that  is  obtained in the course of employment only to the extent that a member of the public may benefit from such information; and
+(d) may use or benefit from information that is obtained in the course of employment only to the extent that a member of the public may benefit from such information; and
 
-(e) shall  not  use  or  benefit  from  the  use  of  the property or services of the school except in the course  of  the  performance  of  his  duties  and functions and otherwise only to the extent that a member of the public may use or benefit from such property or services.
+(e) shall not use or benefit from the use of the property or services of the school except in the course of the performance of his duties and functions and otherwise only to the extent that a member of the public may use or benefit from such property or services.
 
-74. (1) Every teacher and principal shall, in relation to dress  -
+Dress code for teachers and principals.
+
+74. (1) Every teacher and principal shall, in relation to dress -
 
 (a) wear business attire; and
 
@@ -1976,15 +2000,15 @@ to the extent that a member of the public benefits from such programmes, service
 
 (c) not wear garments that allow undue exposure or distraction.
 
-- The principal shall -
+(2) The principal shall -
 
 (a) ensure that every teacher employed at the school respects the standard in relation to dress code; and
 
-(b) a  teacher  shall  not    while  at  work  during  the  school hours wear head covering, except on religious grounds.
+(b) a teacher shall not while at work during the school hours wear head covering, except on religious grounds.
 
-(3) Where a teacher reports to work dressed in a manner contrary  to  this  regulation,  the  principal  shall  not  permit  the teacher to teach and that teacher shall be permitted to return home for a change of dress.
+(3) Where a teacher reports to work dressed in a manner contrary to this regulation, the principal shall not permit the teacher to teach and that teacher shall be permitted to return home for a change of dress.
 
-(4) Where a teacher persists in disregarding the acceptable dress code, the principal shall in writing report the matter to the Chief Education Officer who may refer the matter to the Public Service Commission for disciplinary action.
+(4) Where a teacher persists in disregarding the acceptable dress code, the principal shall in writing report the matter to
 
 [[END OF PAGE 64]]
 
@@ -1992,9 +2016,13 @@ to the extent that a member of the public benefits from such programmes, service
 
 2011                         EDUCATION                             S.R.O. 7
 
+the Chief Education Officer who may refer the matter to the Public Service Commission for disciplinary action.
+
 (5) Where a principal of a school makes a report under sub-regulation (4), the principal shall not later than twenty four hours after the making of the report deliver or cause a copy of such report to be delivered to the concerned teacher.
 
-(6) Notwithstanding sub-regulations (1) and (2),  the  principal may allow the wearing of jeans, head coverings or T-shirts in  special  circumstances  or  for  specific  school  activities,  events  or functions.
+(6) Notwithstanding sub-regulations (1) and (2), the principal may allow the wearing of jeans, head coverings or T-shirts in special circumstances or for specific school activities, events or functions.
+
+Duties of deputy principal.
 
 75. A deputy principal of a secondary school shall -
 
@@ -2006,15 +2034,13 @@ to the extent that a member of the public benefits from such programmes, service
 
 (ii) in the administration and organization of the school and the activities of the school; and
 
-(iii) in preparing a roster for the supervision of students when a teacher is absent or the timetable is interrupted for any reason;
+(iii) in preparing a roster for the supervision of students when a teacher is absent or the time-table is interrupted for any reason;
 
 (c) advise the principal of the school on academic policies and discipline of students;
 
 (d) prepare the staff duty list as may be required;
 
-(e) oversee the arrangements required to be made in respect  of  internal  and  external  examinations arrangements  as  regards  the  time-table,  preparation  of facilities,  inspection  and  storage  of  internal papers, invigilation, delivery of answer papers to the appropriate persons, and such other related activities;
-
-Duties of deputy principal.
+(e) oversee the arrangements required to be made in respect of internal and external examinations arrangements as regards the time-table, preparation of facilities, inspection and storage of internal papers, invigilation, delivery of answer papers to the appropriate persons, and such other related activities;
 
 [[END OF PAGE 65]]
 
@@ -2022,34 +2048,34 @@ Duties of deputy principal.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Duties of  heads of departments.
-
-Mode of dress of students.
-
 (f) teach such classes and subjects and undertake such other duties as the principal of the school may assign to him.
 
-76. A head of  department  of  a  secondary  school  shall  in addition to his other teaching duties -
+Duties of heads of departments.
 
-(a) develop  or  assist  in  developing  the  curriculum  in respect  of  the  subject  falling  within  the  portfolio  of  his department;
+76. A head of department of a secondary school shall in addition to his other teaching duties -
+
+(a) develop or assist in developing the curriculum in respect of the subject falling within the portfolio of his department;
 
 (b) advise the principal of the school on the choice of textbooks and other educational or instructional material and equipment;
 
-(c) arrange and conduct departmental meetings as may be  necessary;
+(c) arrange and conduct departmental meetings as may be necessary;
 
-(d) advise the  members of his  department on  the  methods of  teaching  in  relation  to  a  subject  within  the  department;
+(d) advise the members of his department on the methods of teaching in relation to a subject within the department;
 
-(e) assist  the  principal  of  the  school  on  matters  relating  to recruitment and training of staff for the department;
+(e) assist the principal of the school on matters relating to recruitment and training of staff for the department;
 
-(f) conduct  staff  development  activities  as  may  be required; and
+(f) conduct staff development activities as may be required; and
 
 (g) prepare and submit departmental plans in a timely fashion.
 
 ## PART XII
 ### GENERAL
 
-77. (1) Every  principal of a public or private assisted school shall consult with the Chief Education Officer in determining the uniforms to be used by students at the school.
+Mode of dress of students.
 
-(2) Subject to these Regulations, the mode of dress in relation to the school attendance of students enrolled in a school shall  be  determined  by  the  school  and  shall  be  set    out  in  the  school rules of the school.
+77. (1) Every principal of a public or private assisted school shall consult with the Chief Education Officer in determining the uniforms to be used by students at the school.
+
+(2) Subject to these Regulations, the mode of dress in relation to the school attendance of students enrolled in a school shall be determined by the school and shall be set out in the school rules of the school.
 
 [[END OF PAGE 66]]
 
@@ -2057,13 +2083,15 @@ Mode of dress of students.
 
 2011                         EDUCATION                             S.R.O. 7
 
-(3) Where a student enrolled in a school who is pregnant is  permitted  to  attend  school  for  the  duration  of  the  pregnancy,  the principal of the school may exempt the student from wearing the school uniform.
+(3) Where a student enrolled in a school who is pregnant is permitted to attend school for the duration of the pregnancy, the principal of the school may exempt the student from wearing the school uniform.
 
-78. (1) A principal shall in respect of students at the school keep for  inspection  by  the  Minister  or  the  Chief  Education  Officer, or any other person authorized in writing by the Minister or the Chief Education Officer, the following records:
+Student records.
+
+78. (1) A principal shall in respect of students at the school keep for inspection by the Minister or the Chief Education Officer, or any other person authorized in writing by the Minister or the Chief Education Officer, the following records:
 
 (a) the admission register of students;
 
-(b) the  attendance register of students;
+(b) the attendance register of students;
 
 (c) term and annual progress reports respecting students;
 
@@ -2071,23 +2099,21 @@ Mode of dress of students.
 
 (e) the permanent record card of each student;
 
-(f) a  visitors'  book  for  the  recording  of  visits  made  on behalf of a student;
+(f) a visitors’ book for the recording of visits made on behalf of a student;
 
 (g) subject syllabuses;
 
 (h) schemes of work books;
 
-(i) an  inventory  book  in  which  shall  be  recorded school books and other school material supplied to a student; and
+(i) an inventory book in which shall be recorded school books and other school material supplied to a student; and
 
 (j) a punishment book.
 
-(2) For the  purposes  of  this  regulation  'punishment  book' means a book for recording actions taken by the school against students for misconduct.
+(2) For the purposes of this regulation “punishment book” means a book for recording actions taken by the school against students for misconduct.
 
-79. A principal      may    hold  an  annual  prize-giving  or  graduation ceremony, the date of which shall be determined by the principal after consultation with the Chief Education Officer or, where applicable, the Board of Management of the school.
+Awards and graduations.
 
-Student  records.
-
-Awards  and  graduations.
+79. A principal may hold an annual prize-giving or graduation ceremony, the date of which shall be determined by the principal after consultation with the Chief Education Officer or, where applicable, the Board of Management of the school.
 
 [[END OF PAGE 67]]
 
@@ -2097,8 +2123,6 @@ Awards  and  graduations.
 
 Books, teaching aids and materials.
 
-Organization of fundraising  activities.
-
 80. (1) The Minister shall, utilizing a participatory approach involving teachers, curriculum officers and subject specialists at all levels, prescribe the text books to be used during a four year period.
 
 (2) Subject to the provisions of the Act, the Minister or Chief Education Officer shall from time to time -
@@ -2107,13 +2131,15 @@ Organization of fundraising  activities.
 
 (b) provide to each public school teaching aids, materials, supplies and other equipment; and
 
-(c) supply,  repair  and  maintain  equipment  as    required, to conduct the prescribed school programme in classrooms,  school  libraries,  laboratories  and  such other area in which the school programme or  a portion of the programme is conducted.
+(c) supply, repair and maintain equipment as required, to conduct the prescribed school programme in classrooms, school libraries, laboratories and such other area in which the school programme or a portion of the programme is conducted.
 
-(3) The teaching aids, materials, supplies and equipment referred  to  in  sub-regulation  (2)  shall  be  the  property  of  the Ministry and shall be for the use of the students enrolled in the school.
+(3) The teaching aids, materials, supplies and equipment referred to in sub-regulation (2) shall be the property of the Ministry and shall be for the use of the students enrolled in the school.
 
-(4) A  person shall not sell, buy, rent, trade in or destroy in  any  way  whatsoever  any  book,  teaching  aid,  supplies  or materials provided under this regulation.
+(4) A person shall not sell, buy, rent, trade in or destroy in any way whatsoever any book, teaching aid, supplies or materials provided under this regulation.
 
-(5) A person who contravenes the provisions of subregulation (4) commits  an offence and is liable on summary conviction to a fine of one thousand dollars.
+(5) A person who contravenes the provisions of sub-regulation (4) commits an offence and is liable on summary conviction to a fine of one thousand dollars.
+
+Organization of fundraising activities.
 
 81. (1) Except as approved in writing by the Chief Education Officer or as may be otherwise provided, every school activity in which students of the school are required to participate shall -
 
@@ -2131,9 +2157,9 @@ Organization of fundraising  activities.
 
 (3) A  principal  shall,  not  less  than  one  month  prior  to  the submission of the proposals respecting a fund-raising activity for approval by the authority of the school, discuss such proposals with  the  Education  Officer  assigned  to  the  district  where  applicable, with the Board of Management of the school.
 
-(4) The principal shall ensure that invitations to a fundraising activity to be held pursuant to these Regulations are by tickets or by means of such other form of document so as not to exceed the permitted capacity of the venue to be used for the holding of the activity, function or event.
+(4) The principal shall ensure that invitations to a fund-raising activity to be held pursuant to these Regulations are by tickets or by means of such other form of document so as not to exceed the permitted capacity of the venue to be used for the holding of the activity, function or event.
 
-- Where a fund raising activity involves the -
+(5) Where a fund raising activity involves the -
 
 (a) entire student body of the school, the teachers employed at that school shall attend in order to assist in the supervision of the students;
 
@@ -2153,13 +2179,11 @@ Sale of  alcoholic beverage  and other items prohibited.
 
 Books, teaching aids and materials.
 
-Fees.
+(8) The principal shall ensure that, not later than one month after the holding of a fund raising activity by the school, a financial statement in respect of the fund-raising activity is presented, in such form as the authority may require to the staff and Parent Teachers Association of the school.
 
-(8) The principal shall ensure that, not later than one month after the holding of a fund raising activity by the school, a financial  statement  in  respect  of  the  fund-raising  activity  is presented, in such form as the authority may require to the staff and Parent Teachers Association of the school.
+82. (1) A person shall not, at a venue where a fund-raising activity is held under these Regulations, sell or serve any drinks in a glass container or bottle.
 
-82. (1) A person shall not, at a venue where a fund-raising activity  is  held  under  these  Regulations,  sell  or  serve  any  drinks  in a glass container or bottle.
-
-(2) A principal    shall  seek  to  ensure  that  alcoholic  beverages are not sold, bought, served or consumed on the school premises during the staging of any function organized for and on behalf of the school by the staff, Parent Teachers Association or such other group affiliated to or associated with the school.
+(2) A principal shall seek to ensure that alcoholic beverages are not sold, bought, served or consumed on the school premises during the staging of any function organized for and on behalf of the school by the staff, Parent Teachers Association or such other group affiliated to or associated with the school.
 
 (3) A teacher who participates in any school activity involving students shall for the duration of that activity and while in the presence of the students refrain from -
 
@@ -2167,13 +2191,15 @@ Fees.
 
 (b) drinking any alcoholic beverage.
 
-(4) Teachers  and  students  shall  not,  while  on  school premises, sell their personal items.
+(4) Teachers and students shall not, while on school premises, sell their personal items.
 
-(5) The principal of a school shall discourage teachers and students  from  selling  their  personal  items  during  school  hours.
+(5) The principal of a school shall discourage teachers and students from selling their personal items during school hours.
 
-(6) Where a  teacher referred to in sub-regulation (4) is a public officer, the teacher is liable to disciplinary action in accordance with the regulations respecting discipline of public officers.
+(6) Where a teacher referred to in sub-regulation (4) is a public officer, the teacher is liable to disciplinary action in accordance with the regulations respecting discipline of public officers.
 
-83. (1) Subject to sub-regulation (2), a school may, with the approval  of  the  Minister,  charge  and  collect  fees  to  cover expenses incurred in the administration of the school.
+Fees.
+
+83. (1) Subject to sub-regulation (2), a school may, with the approval of the Minister, charge and collect fees to cover expenses incurred in the administration of the school.
 
 [[END OF PAGE 70]]
 
@@ -2181,21 +2207,21 @@ Fees.
 
 2011                         EDUCATION                             S.R.O. 7
 
-(2) The proprietor  or  the  Board  of  Management  of  a private or assisted private school shall not increase fees or charge new fees without the approval of the Minister.
+(2) The proprietor or the Board of Management of a private or assisted private school shall not increase fees or charge new fees without the approval of the Minister.
 
-(3) Where a proprietor or the Board of Management of a private or assisted private school intends to increase the fees at the school, the proprietor or the Board of Management of the school  shall  give  at  least  one  term's  notice  in  writing  to  the Minister and to the parents of the students of the intention to increase the fees.
+(3) Where a proprietor or the Board of Management of a private or assisted private school intends to increase the fees at the school, the proprietor or the Board of Management of the school shall give at least one term’s notice in writing to the Minister and to the parents of the students of the intention to increase the fees.
 
-(4) The  authority  or  proprietor  of  a  school  shall,  in establishing the quantum of any fee to be charged or collected, adopt rules for waiving and reducing the fee in cases of a student whose parents by reason of their low income or financial status would have difficulty in paying the entire amount of the fee.
+(4) The authority or proprietor of a school shall, in establishing the quantum of any fee to be charged or collected, adopt rules for waiving and reducing the fee in cases of a student whose parents by reason of their low income or financial status would have difficulty in paying the entire amount of the fee.
 
-- Notwithstanding the provisions of this regulation -
+(5) Notwithstanding the provisions of this regulation -
 
-(a) where a student or parent of the student requires a copy of a document in the control and possession of the school, the principal of the school shall where practicable furnish a copy of the  document at a cost not greater than the cost of printing the copy of the document;
+(a) where a student or parent of the student requires a copy of a document in the control and possession of the school, the principal of the school shall where practicable furnish a copy of the document at a cost not greater than the cost of printing the copy of the document;
 
 (b) the principal of a public school may, on the basis of a resolution adopted at a General Meeting of the Parent Teachers Association called for the purpose of increasing fees charged and collected by the school and support by a majority vote of members present and voting, increase such fees.
 
-84. (1) Where a teacher, principal, education officer, parent or adult student has reason  to believe that a person other than the Chief Education Officer has acted in a manner contrary to the Act or these Regulations, the teacher, principal, education officer, parent or adult  student  may  file  a  written  complaint  with  the  Chief Education Officer regarding the act.
-
 Complaints and investigations.
+
+84. (1) Where a teacher, principal, education officer, parent or adult student has reason to believe that a person other than the Chief Education Officer has acted in a manner contrary to the Act or these Regulations, the teacher, principal, education officer, parent or adult student may file a written complaint with the Chief Education Officer regarding the act.
 
 [[END OF PAGE 71]]
 
@@ -2203,11 +2229,9 @@ Complaints and investigations.
 
 2011                         EDUCATION                             S.R.O. 7
 
-Subsidiary Chap. 1:01.
+(2) The complaint filed shall contain the reasons that caused the complainant to believe that the contravention complained of under sub-regulation (1) has occurred.
 
-(2) The complaint filed shall contain the reasons that caused  the  complainant  to  believe  that  the  contravention complained of under sub-regulation (1) has occurred.
-
-(3) Subject  to  sub-regulations  (5)  and  (6),  the  Chief Education Officer shall,  within  two  weeks  from  the  date  of  receipt of the complaint and upon giving notice in writing to the-
+(3) Subject to sub-regulations (5) and (6), the Chief Education Officer shall, within two weeks from the date of receipt of the complaint and upon giving notice in writing to the-
 
 (a) competent principal and the education officer; and
 
@@ -2215,17 +2239,19 @@ Subsidiary Chap. 1:01.
 
 cause an investigation to be conducted of the alleged violation which is the subject of the complaint.
 
-(4) The  notice  referred  to  in  sub-regulation  (3)  shall contain the substance of the alleged violation and a request to the person referred to in paragraph (a) of that sub-regulation for a written response to the complaint.
+(4) The notice referred to in sub-regulation (3) shall contain the substance of the alleged violation and a request to the person referred to in paragraph (a) of that sub-regulation for a written response to the complaint.
 
-(5) The  Chief  Education  Officer  shall  not  initiate  an investigation under this regulation -
+(5) The Chief Education Officer shall not initiate an investigation under this regulation -
 
 (a) where the complaint is not in writing;
 
-(b) where the complaint is filed  any  time  within  thirty days immediately after the date of the alleged violation  or  of  the  date  that  the  complainant  knew or reasonably should have known of the alleged violation;  and
+(b) where the complaint is filed any time within thirty days immediately after the date of the alleged violation or of the date that the complainant knew or reasonably should have known of the alleged violation; and
 
 (c) unless he is satisfied that the complainant has made the necessary efforts to have the matter which is the subject of the complaint resolved by the relevant school or Education Officer as the case may be.
 
-(6) The procedure set out in the Public Service Commission Regulations for the conduct of an investigation respecting misconduct by public officers shall apply mutatis mutandis in  the case of an investigation under these Regulations.
+(6) The procedure set out in the Public Service Commission Regulations for the conduct of an investigation respecting misconduct by public officers shall apply mutatis mutandis in the case of an investigation under these Regulations.
+
+Subsidiary Chap. 1:01.
 
 [[END OF PAGE 72]]
 
@@ -2233,7 +2259,10 @@ cause an investigation to be conducted of the alleged violation which is the sub
 
 2011                         EDUCATION                             S.R.O. 7
 
-85. These Regulations shall  come into force on the      day of                             2011. Commencement.
+Commencement.
+
+85. These Regulations shall come into force on the       day
+of                             2011.
 
 [[END OF PAGE 73]]
 
@@ -2248,10 +2277,15 @@ Regulations  (10(2), 10(4), 13(1), 58(3) (b).
 
 $
 
-Form/grade curriculum fee National curriculum fee Key stage  1 10.00 Key stage  2 10.00 Key stage  3 10.00
+Form/grade curriculum fee
+National curriculum fee
+Key stage 1 10.00
+Key stage 2 10.00
+Key stage 3 10.00
 
-Examination of educational record fee 20.00 Use of school fee
+Examination of educational record fee 20.00
 
+Use of school fee
 Wedding receptions 100.00
 
 ## SECOND  SCHEDULE
@@ -2266,11 +2300,9 @@ Regulations 21 (3), 30 (3), 58(8), 60.
 -----------------------  to  -----------------------
 
 -------------------------------------------------
-
 student
 
 --------------------------------------------------
-
 school
 
 [[END OF PAGE 74]]
@@ -2281,36 +2313,31 @@ school
 
 ##### PERSONAL  INFORMATION
 
-Full  Name:  ............................................ Date  of  Birth:  ........................................ Date of Entry to School: ......................... Date of Leaving School: .........................
+Full Name: ............................................
+Date of Birth: ........................................
+Date of Entry to School: .........................
+Date of Leaving School: .........................
 
-Courses followed Years of  study Certification
+Courses followed Years of study Certification
 
-English Language Mathematics
-
+English Language
+Mathematics
 (Other subjects listed)
 
 ##### SKILLS  PROFILE
 
 ###### ORAL COMMUNICATIONS
 
-A.
-
-Can engage in critical discourse
-
-B.
-
-C.
-
-Can deliver a clear and accurate report
-
-Can describe events orally
-
-- Can communicate adequately at conversation level
+A. Can engage in critical discourse
+B. Can deliver a clear and accurate report
+C. Can describe events orally
+D. Can communicate adequately at conversation level
 
 ###### WRITTEN COMMUNICATION
 
-A. Can argue a point of view in writing B. Can write a clear and accurate report C. Can write a simple account or letter
-
+A. Can argue a point of view in writing
+B. Can write a clear and accurate report
+C. Can write a simple account or letter
 D. Can write simple messages and instructions
 
 [[END OF PAGE 75]]
@@ -2579,9 +2606,9 @@ Morne Jaune
 Salybia
 San Sauveur
 Sineku
-Belles | Isaiah Thomas Secondary School Nehemiah Comprehensive
-Campbell
-Colihaut | School
+Belles | Isaiah Thomas Secondary School
+Campbell | Nehemiah Comprehensive School
+Colihaut
 Coulibistrie
 Dublanc
 Mahaut
@@ -2594,9 +2621,9 @@ Grand Bay
 Petite Savanne
 Pichelin
 Tete Morne
-Bense | Portsmouth Secondary School Dominica Seventh Day Adventist
-Clifton
-Dos D'An | Secondary School
+Bense | Portsmouth Secondary School
+Clifton | Dominica Seventh Day Adventist Secondary School
+Dos D’An
 Paix Bouche
 Penville
 Portsmouth
@@ -2610,9 +2637,9 @@ Savanne Paille
 
 Atkinson Calibishie Concord Marigot Wesley Woodford Hill | North East Comprehensive School
 --- | ---
-Boetica Delices Giraudel Goodwill La Plaine Laudat Massacre Morne Prosper Newtown | Dominica Grammar School Goodwill Secondary School Convent High School Dominica Community High School St. Martin's Secondary School St. Mary's Academy Wesley High School Orion Academy
+Boetica Delices Giraudel Goodwill La Plaine Laudat Massacre Morne Prosper Newtown Roseau Scotts Head Soufriere Pointe Michel Trafalgar Wotten Waven | Dominica Grammar School Goodwill Secondary School Convent High School Dominica Community High School St. Martin’s Secondary School St. Mary’s Academy Wesley High School Orion Academy
 
-Made by the Minister this 15 th day of March, 2011.
+Made by the Minister this 15th day of March, 2011.
 
 PETTER SAINT- JEAN
 
