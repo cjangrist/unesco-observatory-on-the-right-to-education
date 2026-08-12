@@ -80,7 +80,9 @@ Capítulo 4: Metas priorizadas
 
 Capítulo 5: Sistema de gestión: ¿Cómo se implementa el PENJ: Rumbo al Bicentenario?
 
-Capítulo 6: Sistema de monitoreo y evaluación: ¿Cómo se asegura el cumplimiento del PENJ: Rumbo al Bicentenario?
+Capítulo 6: Sistema de monitoreo y evaluación: ¿Cómo se asegura el cumplimiento del
+
+PENJ: Rumbo al Bicentenario?
 
 Anexos
 
@@ -126,8 +128,7 @@ implementación  de  un  Sistema  de  Monitoreo  que  cuente  con  la  participa
 
 René Galarreta
 
-SECRETARIO NACIONAL
-SECRETARÍA NACIONAL DE LA JUVENTUD
+SECRETARIO NACIONAL SECRETARÍA NACIONAL DE LA JUVENTUD
 
 5
 
@@ -258,11 +259,12 @@ Según lo señalado en el estudio 'El  Bono  demográfico Regional en el Perú' 
 Para tomar ventaja de esta oportunidad, un aspecto importante a analizar en relación a la implementación de políticas económicas y sociales en el marco del bono demográfico es la inversión  pública  y  las  transferencias  públicas  hacia  los  individuos  u  hogares.  Esto  último comprende 'toda la provisión de bienes y servicios que benefician a la población de manera
 
 > 4 INEI, UNFPA. Perú: Estimaciones y Proyecciones de la Población Total, por Años Calendario y Edades Simples, 1950-
+
 > 2050. Lima, 2009.
 
-> 5 Fondo de Población de las Naciones Unidas-Perú. “El Bono Demográfico Regional en el Perú”. 2012. Pp. 17.
+> 5 Fondo de Población de las Naciones Unidas-Perú. 'El Bono Demográfico Regional en el Perú'. 2012. Pp. 17.
 
-> 6 Fondo de Población de las Naciones Unidas-Perú. “El Bono Demográfico Regional en el Perú”. 2012. Pp. 21.
+> 6 Fondo de Población de las Naciones Unidas-Perú. 'El Bono Demográfico Regional en el Perú'. 2012. Pp. 21.
 
 9
 
@@ -282,7 +284,7 @@ Cuadro Nro. 1  9
 
 PERÙ, 2009. IMPORTANCIA DEL GASTO PÚBLICO Y PRIVADO PARA FINANCIAR EL DÉFICIT DE LOS GRUPOS DEPENDIENTES
 --- | --- | --- | --- | ---
- | 0-18 años | 0-26 años | 56 y más años | Total
+0-18 años | 0-26 años | 56 y más años | Total
 Educación | 13,59 | 10,31 | 0,01 | 7,89
 Salud | 3,74 | 3,15 | 4,70 | 3,52
 Otros | 12,65 | 11,37 | 9,83 | 11,01
@@ -290,15 +292,16 @@ Total público | 29,99 | 24,84 | 14,54 | 22.41
 Privado | 70,01 | 75,16 | 85,46 | 77,59
 Total déficit | 100 | 100 | 100 | 100
 
-Fuente: elaboración propia basada en la ENAHO 2009
+Fuente:
+elaboración propia basada en la ENAHO 2009
 
 ### 1.2. Marco internacional
 
-> 7 Fondo de Población de las Naciones Unidas-Perú. “El Bono Demográfico Regional en el Perú”. 2012. Pp. 77.
+> 7 Fondo de Población de las Naciones Unidas-Perú. 'El Bono Demográfico Regional en el Perú'. 2012. Pp. 77.
 
-> 8 Fondo de Población de las Naciones Unidas-Perú. “El Bono Demográfico Regional en el Perú”. 2012. Pp. 78.
+> 8 Fondo de Población de las Naciones Unidas-Perú. 'El Bono Demográfico Regional en el Perú'. 2012. Pp. 78.
 
-> 9 Fondo de Población de las Naciones Unidas-Perú. “El Bono Demográfico Regional en el Perú”. 2012. 2012.
+> 9 Fondo de Población de las Naciones Unidas-Perú. 'El Bono Demográfico Regional en el Perú'. 2012. 2012.
 
 10
 
@@ -316,7 +319,7 @@ DECLARACIÓN/CONFERENCIA/CONVENIO/TRATADO | DESCRIPCIÓN
 2) Convención de Derechos del Niño | Adoptada y abierta a la firma y ratificación por la Asamblea General en su resolución 44/25, de 20 de noviembre del 1989. Impacta en los y las jóvenes en la medida que considera a menores de 18 años de edad, para efectos de nuestra legislatura se refiere a los y las adolescentes entre 15 y 19 años de edad. Artículo 4: “Los Estados Partes adoptarán todas las medidas administrativas, legislativas y de otra índole para dar efectividad a los derechos reconocidos en la presente Convención. En lo que respecta a los derechos económicos, sociales y culturales, los Estados Partes adoptarán esas medidas hasta el máximo de los recursos de que dispongan y, cuando sea necesario, dentro del marco de la cooperación internacional”.
 3) Convención Iberoamericana de Derechos de los Jóvenes, | Impulsado por la OIJ, es un Tratado Internacional de derechos humanos, firmado el 11 de octubre del 2005 en la ciudad española de Badajoz y vigente desde el 1 de marzo del 2008. Su aplicación está circunscrito a los 21 países que conforman la Comunidad Iberoamericana de Naciones. No obstante, que el Estado peruano suscribió la Convención, aún no es de aplicación interna, pues al 2013, no ha ratificado dicho instrumento internacional
 4) Convención Internacional sobre la Eliminación de Todas las Formas de Discriminación Racial, | Adoptada y abierta a la firma y ratificación por la Asamblea General en su resolución 2106 A (XX), de 21 de diciembre de 1965. Entrada en vigor: 4 de enero de 1969, de conformidad con el artículo 19 Los Estados partes condenan la discriminación racial y se comprometen a seguir, por todos los medios apropiados y sin dilaciones, una política encaminada a eliminar la discriminación racial en todas sus formas y a promover el entendimiento entre todas las razas
-5) Conferencia Internacional de Población y el Desarrollo – El Cairo | El Cairo (Egipto), 5 al 13 de septiembre de 1994. Los países, entre ellos Perú, se comprometen a asignar alta prioridad y atención a los aspectos de protección, supervivencia y desarrollo de los y las jóvenes, con la finalidad de proporcionar igualdad de oportunidades eduacionales a todos lo niveles,
+5) Conferencia Internacional de Población y el Desarrollo - El Cairo | El Cairo (Egipto), 5 al 13 de septiembre de 1994. Los países, entre ellos Perú, se comprometen a asignar alta prioridad y atención a los aspectos de protección, supervivencia y desarrollo de los y las jóvenes, con la finalidad de proporcionar igualdad de oportunidades eduacionales a todos lo niveles,
 
 11
 
@@ -325,6 +328,7 @@ DECLARACIÓN/CONFERENCIA/CONVENIO/TRATADO | DESCRIPCIÓN
 [[START OF PAGE 12]]
 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
+--- | ---
  | incluyendo desarrollar acciones para prevenir el embarazo adolescente, la mortalidad materna, reducir el VIH y SIDA, en el marco de sus derechos sexuales y derechos reproductivos
 6) Cuarta Conferencia Mundial sobre la Mujer | Beijing. 1995. Los y las representantes de 189 gobiernos, entre ellos el Perú, adoptaron la Declaración y Plataforma de Beijing, que está encaminada a eliminar obstáculos a la participación de la mujer en todas las esferas de la vida pública y privada, define un conjunto de objetivos estratégicos y explica las medidas que deben adopta los gobiernos, la comunidad internacional, las organizaciones no gubernamentales y el sector privado para eliminar los obstáculos que entorpecen el adelanto de la mujer.
 7) Convenio N° 138 de la OIT | Establece tres categorías para la edad mínima para la admisión laboral: (regla general: 14 para países en desarrollo, Perú se acogió a esto) (15 para trabajo peligroso) y (12-13 para trabajo ligero
@@ -397,7 +401,7 @@ DS 061-2005-PCM | Estado: 1. Promover la participación de las y los jóvenes en
 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 --- | ---
-jóvenes que se encuentran en situaciones de vulnerabilidad, atendiendo su heterogeneidad, en el marco de una cultura de paz, tolerancia y seguridad ciudadana. 7. Fortalecer las capacidades de los jóvenes rurales e indígenas en sus espacios sociales y políticos locales, así como su proyección hacia los ámbitos regional y nacional, reconociendo y promoviendo sus culturas e identidades. 8. Gestionar la asistencia técnica y económica ante las instituciones públicas y privadas nacionales e internacionales, para la ejecución de planes, programas y proyectos dirigidos al desarrollo integral de la juventud. La supervisión del cumplimiento de estas políticas corresponde al Ministerio de Educación, a través de la Dirección Nacional de la Juventud (actual Secretaría Nacional de la Juventud – SENAJU).
+jóvenes que se encuentran en situaciones de vulnerabilidad, atendiendo su heterogeneidad, en el marco de una cultura de paz, tolerancia y seguridad ciudadana. 7. Fortalecer las capacidades de los jóvenes rurales e indígenas en sus espacios sociales y políticos locales, así como su proyección hacia los ámbitos regional y nacional, reconociendo y promoviendo sus culturas e identidades. 8. Gestionar la asistencia técnica y económica ante las instituciones públicas y privadas nacionales e internacionales, para la ejecución de planes, programas y proyectos dirigidos al desarrollo integral de la juventud. La supervisión del cumplimiento de estas políticas corresponde al Ministerio de Educación, a través de la Dirección Nacional de la Juventud (actual Secretaría Nacional de la Juventud - SENAJU).
 9. Plan Bicentenario - Año 2010 | Considera seis objetivos estratégicos nacionales: 1. Un Estado basado en la plena vigencia de los derechos fundamentales y el respeto a la dignidad de las personas. 2. Una economía competitiva basada en la generación masiva de empleos con alta productividad. 3. Una economía que ofrezca igualdad de oportunidades y acceso irrestricto a los servicios. 4. Un crecimiento económico basado en el aprovechamiento sostenible de los recursos naturales 5. Desarrollo de una infraestructura adecuada y distribuida adecuadamente entre las regiones.. 6. Lograr desde el Estado una gestión pública eficiente que facilite la gobernabilidad y llegue a todos los sectores de la sociedad y rincones del país. El Plan Bicentenario presenta 6 ejes estratégicos: 1. Derechos fundamentales y dignidad de las personas 2. Oportunidades y acceso a los servicios 3. Estado y gobernabilidad 4. Competitividad y empleo 5. Desarrollo regional e infraestructura 6. Recursos naturales y ambiente
 10. Plan Nacional de Población - Año 2010 | El Plan Nacional de Población 2010-2014 busca analizar e incorporar los cambios y características de las tendencias demográficas a las políticas públicas, contribuyendo así con el desarrollo sostenible. Propone acciones para analizar la manera de capitalizar el Bono Demográfico, y de acciones que ayuden a las mujeres jóvenes a enfrentar su transición hacia la maternidad sin que ello afecte su desarrollo y desempeño educativo o laboral. Principales desafíos en materia de población para el 2010 - 2014: 1. Población y bono demográfico 2. Población y embarazo adolescente 3. Crecimiento de la población y congestión
 
@@ -410,8 +414,6 @@ jóvenes que se encuentran en situaciones de vulnerabilidad, atendiendo su heter
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 ---
 urbana 4. Dispersión poblacional y migración interna 5. Envejecimiento de la población
-
-
 
 17
 
@@ -456,10 +458,15 @@ a) Promover, sin exclusión alguna, mecanismos de participación efectiva de la 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 b) Alcanzar una gestión descentralizada, eficiente y articulada, con funcionalidad claramente definida.
+
 c) Lograr la articulación y coordinación sectorial, regional y local de las políticas, planes programas y proyectos en materia de juventud, tanto en entidades públicas como privadas.
+
 d) Poseer recursos humanos suficientes, con carácter multidisciplinario y fortaleciendo sus capacidades de acuerdo a las funciones específicas a desempeñar.
+
 e) Fortalecer la identificación y aceptación de la población juvenil en el Perú.
+
 f) Incrementar la participación juvenil en todos los espacios y niveles en relación a sus derechos, deberes y creación de oportunidades. Producir contenidos en materia de juventud.
+
 g) Contar con un sistema de información pública y especializada en materia de juventud.
 
 En la etapa de elaboración del PENJ, ha correspondido a la SENAJU la realización de una triple labor: (a) un trabajo técnico de diagnóstico situacional, revisión de antecedentes y análisis de políticas públicas nacionales y sectoriales sobre juventud; (b) un amplio proceso participativo de consulta  con  jóvenes  organizados/as  en  todo  el  país,  especialmente  a  través  de  Congresos Nacionales  y  eventos  enfocados  en  temas  y  problemas  específicos  de  diversos  grupos  de jóvenes; y (c) una síntesis de los resultados de ambos procesos para obtener una propuesta de PENJ de carácter integral, que incluye las acciones de política formuladas desde las diferentes instituciones del Estado (ministerios, gobiernos regionales, etc.), articuladas con las perspectivas y demandas de las y los propios/as jóvenes.
@@ -553,11 +560,17 @@ Luego de las consultas a jóvenes y especialistas en materia de juventud, ademá
 Los ejes estratégicos son:
 
 1) Participación juvenil y Gobernabilidad
+
 2) Educación inclusiva y de calidad
+
 3) Salud y Estilo de Vida Saludables
+
 4) Trabajo Decente, Emprendimiento y Empleabilidad
+
 5) Cultura de Paz y Prevención de la Violencia
+
 6) Ambiente y Desarrollo Sostenible
+
 7) Cultura, Identidad e Integración Nacional
 
 ### 2.4. PENJ: Rumbo al Bicentenario, la respuesta del Estado a las juventudes
@@ -711,7 +724,7 @@ Realización de talleres de planificación macro regionales.
 
 PRODUCTOS
 
-Diagnósticos participativos VISION Y MISION, objetivos y lineamientos de las juventudes del Perú.
+Diagnósticos participativos VISIÓN Y MISIÓN, objetivos y lineamientos de las juventudes del Perú.
 
 Sistematización, priorización de la problemática identificada y redacción del documento final (trabajo equipo multidisciplinario – SENAJU)
 
@@ -785,7 +798,7 @@ Al  2021  el Plan  Estratégico  Nacional  de  Juventudes:  Rumbo  al  Bicentena
 
 Incrementar  y  fortalecer  la  capacidad  y  competencia  del  Estado  peruano  para  articular políticas  públicas  en  materia  de  juventudes,  brindando  igualdad  de  oportunidades  a  las  y  los jóvenes peruanas/os, incrementando la inversión pública para promover el acceso a los servicios
 
-> 12 MINISTERIO EDUCACIÓN BILINGÛE INTERCULTURAL /UNICEF. “La Interculturalidad en la educación”. Pág. 17. Lima-Perú
+> 12 MINISTERIO EDUCACIÓN BILINGÜE INTERCULTURAL /UNICEF. “La Interculturalidad en la educación”. Pág. 17. Lima-Perú
 
 28
 
@@ -1573,7 +1586,7 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 moral sexual y las nociones de género terminan interviniendo en la generación de conflictos y violencia entre mujeres jóvenes (León, 2013).
 
-Así también, se habla mucho de la violencia que ejercen los miembros de pandillas juveniles, ya sea  en  agresiones  entre ellos  mismos,  o  en  situaciones  que  afectan  a  otras  personas involucrando delitos de diversa índole. Aquí la violencia puede estar asociada, en parte, a los mismos  mandatos  de  masculinidad  mencionados  en  el  párrafo  previo,  pero  también  puede aparecer como  una  reacción frente a otras formas de violencia -que trataremos a continuación-  que  sufren  los  jóvenes  provenientes  de  los  sectores  menos  favorecidos  de  la sociedad, como sugiere un interesante trabajo de investigación sobre jóvenes 'mancheros' de Ayacucho,  el  cual  enfatiza  además  que  estos  grupos  no  son  inherentemente  violentos  ni  se forman con miras a cometer delitos (Strocka, 2008). En realidad, se trata de un tema sobre el que no se ha investigado aún lo suficiente; y a veces incluso se tiende a emplear el calificativo de 'pandilla', otorgándole una connotación negativa, para designar a cualquier grupo juvenil de pares.
+Así también, se habla mucho de la violencia que ejercen los miembros de pandillas juveniles, ya sea en agresiones entre ellos mismos, o en situaciones que afectan a otras personas involucrando delitos de diversa índole. Aquí la violencia puede estar asociada, en parte, a los mismos mandatos de masculinidad mencionados en el párrafo previo, pero también puede aparecer como una reacción frente a otras formas de violencia –que trataremos a continuación- que sufren los jóvenes provenientes de los sectores menos favorecidos de la sociedad, como sugiere un interesante trabajo de investigación sobre jóvenes “mancheros” de Ayacucho, el cual enfatiza además que estos grupos no son inherentemente violentos ni se forman con miras a cometer delitos (Strocka, 2008). En realidad, se trata de un tema sobre el que no se ha investigado aún lo suficiente; y a veces incluso se tiende a emplear el calificativo de “pandilla”, otorgándole una connotación negativa, para designar a cualquier grupo juvenil de pares.
 
 51
 
@@ -1652,29 +1665,55 @@ Cada uno de estos espacios cumplirá el papel de representación, y son a la vez
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 Plan Estratégico Nacional de Juventud PENJ
+
 SENAJU
+
 Sistema Nacional de Monitoreo y Evaluación
+
 Gestión Territorial
+
 Sistema Nacional
+
 Ministerios (programas sectoriales), Cooperación Internacional y ONGs
+
 Consejo Participativo Nacional
+
 Sub sistemas Regionales y Locales
+
 COREJU
+
 CPJ/CDJ
+
 INSTRUCTIVO PARA LA IMPLEMENTACIÓN DE ESPACIOS DE PARTICIPACIÓN JUVENIL
+
 Gestión Representación Nacional
+
 Instancias Regionales de Juventudes
+
 Gerencias y Sub-Gerencias
+
 Mesas y Espacios Consultivos
+
 Jóvenes de Partidos Políticos, Universidades, TLGBI, Afroperuanos, Rurales Indígenas, Universidades, etc.
+
 SENAJU
 Dirección de Asistencia Integral y Monitoreo
+
 CONIPENJ
-Comité Nacional Implementación del PENJ
-Matriz de planificación | Monitoreo
-Por resultados | Evaluación
-Histórico | Sistematización
-Ley general de las Juventudes que crea el Sistema Nacional de las Juventudes
+Comisión Nacional
+Implementación del PENJ
+
+Matriz de planificación
+Monitoreo
+
+Por resultados
+Evaluación
+
+Histórico
+Sistematización
+
+Ley General de las Juventudes que crea el Sistema Nacional de las Juventudes
+
 54
 
 [[END OF PAGE 54]]
@@ -1698,28 +1737,51 @@ Constituye en una de las herramientas más importantes para la gestión de un Pl
  Aplicar  un  procedimiento  adecuado  y  una  metodología  común  de  monitoreo  y evaluación que permita medir los logros e impactos de los procesos generados en materia de juventudes.
 
 SISTEMA DE GESTION DE JUVENTUDES
+
 SISTEMA NACIONAL DE MONITOREO Y EVALUACION
+
 COMITE TECNICO
+
 A
+
 Marco Lógico
+
 Por resultados
+
 Histórico territorial
+
 COMPONENTE MONITOREO
+
 COMPONENTE EVALUACION
+
 COMPONENTE INFORMACION/SISTEMATIZACION
+
 1
+
 CONIPENJ
+
 COREJU CPJ/CDJ
+
 Entidades del gobierno nacional
+
 Organismos Autónomos
-PUBLICO
+
 +
+
+PUBLICO
+
 2
+
 Sociedad Civil
+
 Empresa Privada
+
 Mesas Consultivas
+
 PRIVADO
+
 A
+
 El Sistema Nacional de Monitoreo y Evaluación se estructura en torno a tres componentes que la componen y complementan: Monitoreo, Evaluación e Información.
 
 ### 6.1. Monitoreo
@@ -1830,18 +1892,19 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 Elecciones Regionales, provinciales y distritales,  según número de autoridades juveniles  por organización política
 
-0 | 200 | 400 | 600 | 800 | 1000 | 1200
-Partido Aprista Peruano | 127
-Alianza para el Progreso | 88
-Acción Popular | 69
-Partido Democrático Somos Perú | 60
-Fuerza 2011 | 54
-Unión por el Perú | 42
-Restauración Nacional | 39
-Partido Popular Cristiano - PPC - Unidad Nacional | 33
-Perú Posible | 26
-Partido Humanista Peruano | 11
-Otros partidos y movimientos políticos | 1116
+0 200 400 600 800 1000 1200
+
+PARTIDO APRISTA PERUANO | 127
+ALIANZA PARA EL PROGRESO | 88
+ACCIÓN POPULAR | 69
+PARTIDO DEMOCRÁTICO SOMOS PERÚ | 60
+FUERZA 2011 | 54
+UNIÓN POR EL PERÚ | 42
+RESTAURACIÓN NACIONAL | 39
+PARTIDO POPULAR CRISTIANO - PPC - UNIDAD NACIONAL | 33
+PERÚ POSIBLE | 26
+PARTIDO HUMANISTA PERUANO | 11
+OTROS PARTIDOS Y MOVIMIENTOS POLÍTICOS | 1116
 
 ###### Población electoral joven
 
@@ -1877,7 +1940,8 @@ Estas cifras evidencian las distancias que los ciudadanos han ido tomando respec
 
 Percepción de la política
 
-A Ud. la política | % | Total | 16 a 19: % | 16 a 19: Sub total | 20 a 24: % | 20 a 24: Sub total | 25 a 29: % | 25 a 29: Sub total
+A Ud. la política | % | Total | 16 a 19 | | 20 a 24 | | 25 a 29 |
+ | | | % | Sub total | % | Sub total | % | Sub total
 --- | --- | --- | --- | --- | --- | --- | --- | ---
 Le interesa y es simpatizante de un partido | 4,85 | 268282 | 4,97 | 55215 | 5,58 | 136237 | 3,88 | 76830
 Le interesa y es independiente | 41,72 | 2306545 | 45,93 | 509801 | 40,42 | 986360 | 40,95 | 810384
@@ -1890,7 +1954,7 @@ Elaboración Propia
 
 ##### b) Participación Social
 
-###### Consejos Regionales de la Juventud - COREJU`s
+###### Consejos Regionales de la Juventud - COREJU´s
 
 La generación de espacios institucionalizados de toma de decisiones y empoderamiento de las y los jóvenes es prioritaria. En esa línea los Consejos Regionales y Locales de Participación Juvenil (COREJU, CPJ, CLJ), son espacios clave de coordinación, consulta y concertación de políticas y lineamientos regionales y locales de las juventudes, donde interactúan instituciones del Estado, del sector privado y las organizaciones juveniles del ámbito regional.
 
@@ -1906,7 +1970,8 @@ La constitución de espacios institucionalizados de participación juvenil está
 
 Estado situacional de los Espacios de Participación Regional de Juventudes
 
-Región | COREJUS: Ordenanza | COREJUS: Implementado
+Región | COREJUS |
+ | Ordenanza | Implementado
 --- | --- | ---
 Amazonas | X |
 Ancash | X | X
@@ -1939,7 +2004,8 @@ San Martin | X | X
 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
-Región | COREJUS: Ordenanza | COREJUS: Implementado
+Región | COREJUS |
+ | Ordenanza | Implementado
 --- | --- | ---
 Tacna | |
 Tumbes | X |
@@ -1995,7 +2061,7 @@ El objetivo que plantea el Consejo Nacional de Educación respecto a la educaci�
 
 Otro  de  los  problemas  detectados  respecto  de  la  educación  superior  tiene  que  ver  con  la pertinencia.    La  distribución  de  profesionales  por  ocupación  principal  en  las  últimas  décadas
 
-> 26 El estado actual de la educación en el Perú: ¿signos de mejora?: http://blog.pucp.edu.pe/item/12291/el-estado-actual-de-la-educacion-en-el-peru-signos-de-mejora
+> 26 El estado actual de la educación en el Perú: ¿signos de mejora?: http://blog.pucp.edu.pe/item/12291/el-estado-actual-de-la-educacion-en-elperu-signos-de-mejora
 
 > 27 Consejo Nacional de Educación: Proyecto Educativo Nacional al 2021. La educación que queremos para el Perú . Lima, 2006.
 
@@ -2015,11 +2081,9 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 permanece concentrada en las profesiones de Derecho, Ciencias Sociales y Humanidades, las que a pesar de encontrarse saturadas siguen siendo las más demandadas y ofertadas 31 .
 
-Con la  finalidad  de  promover  la  inclusión  en educación  superior en carreras de  pre y posgrado y constituirla en una política prioritaria  del  Gobierno,  se  creó  el  Programa Nacional de Becas y Crédito Educativo mediante la Ley Nº 29837 del 12 de febrero del 2012.  Este  programa  ,  a  través  de  Beca  18, integra conceptos concretos, otrora inconexos,  tales como:  movilización  social; lucha  contra  la  pobreza;  descentralización;
+Con la finalidad de promover la inclusión en educación superior en carreras de pre y posgrado y constituirla en una política prioritaria del Gobierno, se creó el Programa Nacional de Becas y Crédito Educativo mediante la Ley Nº 29837 del 12 de febrero del 2012. Este programa , a través de Beca 18, integra conceptos concretos, otrora inconexos, tales como: movilización social; lucha contra la pobreza; descentralización; acceso, mantenimiento y culminación en una educación superior de calidad y desarrollar, entre otras cosas, una gestión eficiente de los recursos públicos en beneficio de la formación de capital humano. Todo ello bajo un enfoque de inclusión social. En ese sentido En el Perú, la formación técnica y la superior no universitaria presentan diversos problemas. Muchos de los institutos superiores tecnológicos (IST) no cuentan con docentes capacitados con título pedagógico o actualización en su especialidad, y los alumnos desarrollan sus prácticas con equipos obsoletos y en mal estado 32 . Según el Ministerio de Educación, las actividades productivas en agricultura, construcción, energía, industria alimentaria, mecánica, minería y pesquería tienen una demanda insatisfecha de técnicos y no existe suficiente oferta de calidad en estas especialidades 33 .
 
-Beca 18 se constituye en una propuesta innovadora y transformadora del sistema educativo en general, y del sistema de educación superior  en  particular,  que  busca  garantizar  la justicia  social  en  materia  educativa,  y  con  ello contribuir  a  la  gesta  de  un  modelo  productivo nacional  acorde  a  las  demandas  de  un  mundo cada vez más competitivo y globalizado.
-
-acceso, mantenimiento y culminación en una educación superior de calidad y desarrollar, entre otras  cosas,  una  gestión  eficiente  de  los  recursos  públicos  en  beneficio  de  la  formación  de capital  humano.  Todo  ello  bajo  un  enfoque  de  inclusión  social.  En  ese  sentido  En  el  Perú,  la formación  técnica  y  la  superior  no  universitaria  presentan  diversos  problemas.  Muchos  de  los institutos superiores tecnológicos (IST)  no  cuentan  con  docentes  capacitados  con  título pedagógico  o  actualización  en  su  especialidad,  y  los  alumnos  desarrollan  sus  prácticas  con equipos  obsoletos  y  en  mal  estado 32 .  Según  el  Ministerio  de  Educación,  las  actividades productivas  en  agricultura,  construcción,  energía,  industria  alimentaria,  mecánica,  minería    y pesquería tienen una demanda insatisfecha de técnicos y no existe suficiente oferta de calidad en estas especialidades 33 .
+Beca 18 se constituye en una propuesta innovadora y transformadora del sistema educativo en general, y del sistema de educación superior en particular, que busca garantizar la justicia social en materia educativa, y con ello contribuir a la gesta de un modelo productivo nacional acorde a las demandas de un mundo cada vez más competitivo y globalizado.
 
 Es preciso articular la educación superior con la realidad económica y cultural, así como formar profesionales altamente competentes frente a demandas del entorno económico productivo y laboral nacional e internacional 34 . En tal sentido, surge la necesidad de renovar la estructura del sistema de educación superior universitaria y técnico-profesional y dar funcionamiento al Sistema Nacional de Acreditación y Certificación de la Calidad de la Educación Superior. El Perú tiene una  posición  rezagada  con  respecto  a  otros  países  en  cuanto  al  nivel  promedio  de  las instituciones  educativas  y  al  gasto  destinado  a  desarrollar  la  educación,  la  ciencia  y  la tecnología.
 
@@ -2146,7 +2210,7 @@ Mortalidad en jóvenes
 Causas de mortalidad | Total | %
 --- | --- | ---
 
-distribución, la vivienda, el desarrollo infantil, la seguridad alimentaria y la nutrición, la raza, el género y el estrés. Se ha demostrado que dichos factores tienen asociaciones marcadas con los riesgos para diferentes enfermedades, la esperanza de vida y la morbilidad de por vida.
+> distribución, la vivienda, el desarrollo infantil, la seguridad alimentaria y la nutrición, la raza, el género y el estrés. Se ha demostrado que dichos factores tienen asociaciones marcadas con los riesgos para diferentes enfermedades, la esperanza de vida y la morbilidad de por vida.
 
 > 44
 
@@ -2195,7 +2259,7 @@ El ejercicio de la salud sexual y salud reproductiva en la adolescencia de una m
 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
-N° | Objetivos | Total en S/.
+Nº | Objetivos | Total en S/.
 --- | --- | ---
 1 | Postergar el inicio de la actividad sexual en la adolescencia. | 121,658,226
 2 | Incrementar el porcentaje de adolescentes que concluyen la educación secundaria. | 13,016,025
@@ -2220,7 +2284,7 @@ Sin  embargo, se reconoce a la etapa de la edad  adulta joven, como el momento d
 
 > 50 MINISTERIO DE SALUD. ESTRATEGIA NACIONAL DE SALUD SEXUAL Y REPRODUCTIVA. Plan Multisectorial para la prevención del embarazo en adolescentes 2012-2021, pp13
 
-> 51 MARTÍNEZ, Ciro. Fondo de Población de las Naciones Unidas. 'El Bono Demográfico Regional en el Perú'. 2012. Pp. 48
+> 51 MARTÍNEZ, Ciro. Fondo de Población de las Naciones Unidas. “El Bono Demográfico Regional en el Perú”. 2012. Pp. 48
 
 70
 
@@ -2232,21 +2296,21 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 ###### Mortalidad materna en jóvenes
 
-El estudio “La Mortalidad Materna en el Perú 2002-2011 del MINSA, reporta que agrupando las edades para establecer alguna relación con el riesgo de morir, se evidencia que ha aumentado la proporción de muertes maternas en la etapa de vida adolescente y joven, de 6.0 % a 6.6 % en la etapa de vida adolescente ( < 18 años ) y de 42.9 % a 44.6 % en la tapa de vida joven (18-29 años).
+El  estudio 'La Mortalidad Materna en el Perú 2002-2011 del MINSA, reporta que agrupando las edades para establecer alguna relación con el riesgo de morir, se evidencia que ha aumentado la proporción de muertes maternas en la etapa de vida adolescente y joven, de 6.0 % a 6.6 % en la etapa de vida adolescente ( < 18 años ) y de 42.9 % a 44.6 % en la tapa de vida joven (18-29 años).
 
 PORCENTAJE DE MUERTES MATERNAS SEGUN ETAPAS DEL CICLO DE VIDA.
 PERÚ 2002-2011
 
-Etapa de vida | Indicador | Intervalo de confianza | Periodo de análisis: 2002-2011 | Periodo de análisis: 2002-2006 | Periodo de análisis: 2007-2011
+Etapa de vida | Indicador | Intervalo de confianza | 2002-2011 | 2002-2006 | 2007-2011
 --- | --- | --- | --- | --- | ---
 Adolescente (<17 años) | Estimación (%) | | 6.3 | 6.0 | 6.6
  | Error típico | | 0.3 | 0.5 | 0.5
- | Intervalo de confianza al 95% | Inferior | 5.8 | 5.1 | 5.7
+ | Intervalo de confianza al 95% | Inferior | 5.6 | 5.1 | 5.7
  | | Superior | 7.0 | 7.0 | 7.7
 Joven (18-29 años) | Estimación (%) | | 43.7 | 42.9 | 44.6
  | Error típico | | 0.9 | 1.3 | 1.1
  | Intervalo de confianza al 95% | Inferior | 42.0 | 40.4 | 42.5
- | | Superior | 45.4 | 45.4 | 48.8
+ | | Superior | 45.4 | 45.4 | 46.8
 Adulta (de 30 años a más) | Estimación (%) | | 50.0 | 51.1 | 48.8
  | Error típico | | 0.9 | 1.3 | 1.1
  | Intervalo de confianza al 95% | Inferior | 48.3 | 48.5 | 46.6
@@ -2263,12 +2327,15 @@ En la zona urbana, el grupo etario de 15 a 19 años presenta la mayor RMM y su t
 TENDENCIA DE LAS MUERTES MATERNAS SEGÚN ETAPAS DEL CICLO DE VIDA Y PERIODO.
 PERÚ 2002 – 2011
 
-2002-2006 | 2007-2011
-Porcentaje | 0.0 | 10.0 | 20.0 | 30.0 | 40.0 | 50.0 | 60.0 | 70.0 | 80.0
+Porcentaje
+
+0.0 10.0 20.0 30.0 40.0 50.0 60.0 70.0 80.0
+
+Etapa de Vida | 2002-2006 | 2007-2011
+--- | --- | ---
 Adolescente (<=17a) | 6.0 | 6.6
 Joven (18-29a) | 42.9 | 44.6
 Adulta (30 a +) | 51.1 | 48.8
-Etapa de Vida
 
 Fuente: Elaboración propia
 
@@ -2309,9 +2376,13 @@ Las ITS constituyen un 7.2% del total del índice de morbilidad en jóvenes  y e
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 Gráfico 21
+
 Casos identificados de VIH en jóvenes de 18 a 29 años desde 1986 a septiembre del 2010
 
-Nº de casos | 0 | 200 | 400 | 600 | 800 | 1000 | 1200
+Nº de casos
+
+0 200 400 600 800 1000 1200
+
 Año | Casos de mujeres con VIH | Casos de hombres con VIH
 --- | --- | ---
 1986 | 1 | 0
@@ -2325,7 +2396,7 @@ Año | Casos de mujeres con VIH | Casos de hombres con VIH
 1994 | 81 | 235
 1995 | 100 | 269
 1996 | 218 | 389
-1997 | 222 | 362
+1997 | 222 | 361
 1998 | 270 | 425
 1999 | 258 | 420
 2000 | 298 | 581
@@ -2361,12 +2432,12 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 sobre todo porque son predominantemente menores de 25 años. Por otro lado son las mujeres las que en mayor porcentaje no estudian ni trabajan lo cual podría deberse a una situación de ocupación  doméstica.  Se  observa  que  es  principalmente  en  la  zona  urbana  donde  se encuentra la mayor concentración de jóvenes que solo trabajan'.
 
 CUADRO Nº01
+
 Perú: Porcentaje de la Población joven por sexo, grupo de edad y ámbito geográfico
 según condición de estudios, 2009
 
-Sexo | Grupo de edad | Ambito Geográfico
-
-Condición | Total | Hombres | Mujeres | 15 a 19 años | 20 a 25 años | 25 a 29 años | Lima Metropolitana 1/ | Resto Urbano | Rural
+Condición | Total | Sexo | | Grupo de edad | | | Ambito Geográfico | |
+ | | Hombres | Mujeres | 15 a 19 años | 20 a 25 años | 25 a 29 años | Lima Metropolitana 1/ | Resto Urbano | Rural
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Total (Absoluto miles) | 7,800 | 3,948 | 3,851 | 3,113 | 2,515 | 2,171 | 2,356 | 3,023 | 2,421
 Sólo Estudia | 18.0 | 18.0 | 18.0 | 33.1 | 11.9 | 3.4 | 18.7 | 21.8 | 12.4
@@ -2395,9 +2466,11 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 Perú: Porcentaje de la PEA y NO PEA según grupo de edad, 2007
 
 GRAFICO N°
+
 POBLACIÓN DE 15 A 29 AÑOS POR CONDICIÓN DE ACTIVIDAD, 2007
 
-0 | 500000 | 1000000 | 1500000 | 2000000 | 2500000 | 3000000 | 3500000 | 4000000
+0 500000 1000000 1500000 2000000 2500000 3000000 3500000 4000000
+
 Grupo de edad | PEA Ocupado | PEA Desocupado | No PEA
 --- | --- | --- | ---
 15 a 29 años | 46% | 3% | 51%
@@ -2428,32 +2501,117 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 Perú: Porcentaje de la PEA y NO PEA, según nivel de educación, 2007
 
+0
+
+500000
+
+1000000
+
+1500000
+
+2000000
+
+2500000
+
+Sin nivel
+
+Educación
+
+inicial
+
+Primaria
+
+Secundaria
+
+Superior no
+
+univ.
+
+incompleta
+
+Superior no
+
+univ.
+
+completa
+
+Superior univ.
+
+incompleta
+
+Superior univ.
+
+completa
+
+34%
+
+35%
+
+47%
+
+42%
+
+47%
+
+68%
+
+34%
+
+71%
+
+3%
+
+3%
+
+3%
+
+3%
+
+3%
+
+5%
+
+3%
+
+5%
+
+64%
+
+62%
+
+50%
+
+55%
+
+50%
+
+27%
+
+63%
+
+24%
+
 GRAFICO N°
+
 POBLACIÓN DE 15 A 29 AÑOS POR CONDICIÓN DE ACTIVIDAD
+
 SEGÚN NIVEL DE EDUCACIÓN, 2007
 
-0 | 500000 | 1000000 | 1500000 | 2000000 | 2500000
+PEA Ocupado
 
- | PEA Ocupado | PEA Desocupado | NO PEA
-Sin nivel | 34% | 3% | 64%
-Educación inicial | 35% | 3% | 62%
-Primaria | 47% | 3% | 50%
-Secundaria | 42% | 3% | 55%
-Superior no univ. incompleta | 47% | 3% | 50%
-Superior no univ. completa | 68% | 5% | 27%
-Superior univ. incompleta | 34% | 3% | 63%
-Superior univ. completa | 71% | 5% | 24%
+PEA Desocupado
+
+NO PEA
 
 Fuente: INEI - Censos Nacionales 2007: XI de Población y VI de Vivienda Elaboración: Secretaria Nacional de la Juventud
 
-###### 3). Condición de actividad según área de residencia:
+###### 3). Condición de actividad según área de residencia :
 
 La PET joven se concentra principalmente en el área urbana 78.2% y su condición de NO PEA es principalmente entre los 15 y 19 años. Mientras que la PEA ocupada destacan las y los jóvenes cuya edad fluctúa  entre los 20 y 29 años. En el área rural cuenta con menor población pero la distribución  entre  los  grupos  de  edad  y  condición  de  actividad  son  similares  a  los  del  área urbana.
 
 La concentración de la población juvenil principalmente en el área urbana nos indica que los jóvenes  ven  en  las  ciudades  una  oportunidad  ya  sea  para  trabajar  o  para  estudiar,  lo  cual denota un desequilibrio en las oportunidades que deberían generarse tanto en el ámbito urbano como rural.
 
-Perú: Porcentaje de la Población joven por según grupo de edad
-y área de residencia, 2007
+Perú: Porcentaje de la Población joven por según grupo de edad y área de residencia, 2007
 
  | 15 A 29 años |  | De 15 a 19 años | De 20 a 24 años | De 25 a 29 años
 --- | --- | --- | --- | --- | ---
@@ -2495,19 +2653,29 @@ En  el  sector  terciario  el  comercio  y  servicios  concentran  el  59%  de  
 
 En  el  comercio  menor  son  principalmente  las  MYPES  menores  de  10  a  50  trabajadores,  la dedicación es hacia la comercialización lo cual está en relación a la tendencia del mercado. En los  últimos  años  que  bajo  la  influencia  de  la  globalización  las  sociedades  se  van  volviendo sociedades consumistas y requieren de la comercialización.
 
-GRÁFICO Nº 08
+GRÁFICO N° 08
 Perú: Porcentaje de la PEA ocupada de 15 a 29 años
 Según sector económico, 2007
 
+PRIMARIO1/
+
+24%
+
+SECUNDARIO 2/
+
+17%
+
+TERCIARIO 3/
+
+59%
+
 GRAFICO N°
+
 PEA OCUPADA DE15 A 29 AÑOS POR SECTOR DE ACTIVIDAD, 2007
 
-PRIMARIO1/ | 24%
-SECUNDARIO 2/ | 17%
-TERCIARIO 3/ | 59%
+- 1/ Sector Primario: Agricultura, Ganadería, Caza, Pesca, Silvicultura y Mineria.
 
-1/ Sector Primario: Agricultura, Ganadería, Caza, Pesca, Silvicultura y Mineria.
-2/ Sector Secundario: Industria, Manufacturera y Construcción
+- 2/ Sector Secundario: Industria, Manufacturera y Construcción
 
 77
 
@@ -2573,8 +2741,13 @@ Hogares privados y servicios domésticos | 160 971 | 5% | 1.7% | 1.8% | 1.2%
 Organiz.y organos extraterritoriales | 96 | 0% | 0.0% | 0.0% | 0.0%
 Actividad económica no especificada | 128 021 | 4% | 0.6% | 1.5% | 1.5%
 
-Fuente: INEI - Censos Nacionales 2007: XI de Población y VI de Vivienda
-Elaboración: Secretaria Nacional de la Juventud
+Fuente:
+
+INEI - Censos Nacionales 2007: XI de Población y VI de Vivienda
+
+Elaboración:
+
+Secretaria Nacional de la Juventud
 
 ###### c). PEA ocupada según ocupación principal:
 
@@ -2596,8 +2769,8 @@ Estos datos dan cuenta que aun hay desigualdades en la inserción laboral de los
 
 Total 4 ciudades: Principal ocupación de PEA de 15 a 29 años, 2007
 
-PERU | 15 a 29 Años | URBANA |  |  |  | RURAL |  |  |
- |  | Hombres |  | Mujeres |  | Hombres |  | Mujeres |
+PERU |  | URBANA |  |  |  | RURAL |  |  |
+ | 15 a 29 Años | Hombres |  | Mujeres |  | Hombres |  | Mujeres |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 TOTAL | 3 441 418 | 1 649 931 | 48% | 1087900 | 32% | 534477 | 15% | 169110 | 5%
 Miembros p.ejec.y leg. direct., adm. pub.y emp. | 2007 | 1041 | 52% | 708 | 35% | 162 | 8% | 96 | 5%
@@ -2632,10 +2805,6 @@ El sector público habría logrado la inserción laboral de un 6.8% lo cual repr
 
 Una de las principales preocupaciones en términos económicos-laborales debe ser la inserción al mercado laboral del valioso potencial de recursos humanos que posee el Perú. De acuerdo a los informes de la ENAHO, del año 2004 al año 2008 la tasa de desempleo juvenil descendió en 1.8% pero  aún  se  sigue  manteniendo  alta  pues  hay  un  13.5%  de  los  jóvenes  que  no  ha  logrado insertarse en el mercado. La tasa de desempleo es mayor en las zonas de la costa urbana y Lima metropolitana,  ello  pueda  deberse  que  son  las  zonas  donde  hay  mayor  concentración  de jóvenes. Este dato nos muestra que en el Perú la oferta laboral juvenil es mayor a la demanda laboral.
 
-CUADRO Nº 05
-PERÚ URBANO: Tasa de desempleo de los jóvenes de 14 a 24 años de edad
-por dominio geográfico, 2004 – 2008
-
 Dominio geográfico | 2004 | 2005 | 2006 | 2007 | 2008
 --- | --- | --- | --- | --- | ---
 Total | 15.3 | 16.3 | 13.9 | 15.0 | 13.5
@@ -2643,6 +2812,8 @@ Costa urbana | 14.1 | 15.6 | 14.9 | 15.0 | 13.4
 Sierra urbana | 14.9 | 14.2 | 12.9 | 17.2 | 13.6
 Selva urbana | 8.1 | 11.2 | 10.8 | 11.5 | 10.0
 Lima Metropolitana | 17.9 | 19.4 | 14.5 | 14.8 | 14.4
+
+CUADRO Nº 05 PERÚ URBANO: Tasa de desempleo de los jóvenes de 14 a 24 años de edad por dominio geográfico, 2004 - 2008
 
 Fuente:
 
@@ -2664,9 +2835,6 @@ De acuerdo a la información de la ENAHO las estrategias que realizan los jóven
 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
-PERÚ URBANO: ¿Qué hizo para buscar empleo?
-De 14 a 24 años de edad (porcentaje)
-
 Para buscar empleo | 1998 | 2002 | 2008
 --- | --- | --- | ---
 Consultó a patrono/ empleador | 45.14 | 27.98 | 45.8
@@ -2675,6 +2843,8 @@ Consultó a amigos/parientes | 14.89 | 21.9 | 29.7
 Solo leyó avisos | 24.3 |  | 11.6
 Otro | 2.6 | 1.9 | 8.0
 N.E. | 4.3 | 0.9 | -
+
+PERÚ URBANO: ¿Qué hizo para buscar empleo? De 14 a 24 años de edad (porcentaje)
 
 Fuente:
 
@@ -2690,14 +2860,14 @@ El tipo de inserción en el mercado de trabajo tiene implicancias sobre las cond
 
 Los puestos de trabajo de buena calidad deberían tener atributos tales como la existencia de un contrato  de  trabajo,  la  provisión  de  beneficios  en  materia  de  seguridad  social  (salud  y pensiones), entre otros.
 
-CUADRO Nº 07
+CUADRO N° 07
 PEA ocupada de 15 a 29 años
 Características de empleo decente, 2006 - 2008
 (En porcentaje)
 
 15 a 29 años | Protección Social (1) |  | Ingresos promedio por trabajo (2) | Horas Trabajadas (semanas) (3) | Duración de empleo (meses) (3) | Con Contrato (4) |
- | Afiliación a un seguro de salud | Afiliación a un sistema de pensiones |  |  |  | Empresa de 2 a 9 trabajadores | Empresa de 10 a más trabajadores
 --- | --- | --- | --- | --- | --- | --- | ---
+ | Afiliación a un seguro de salud | Afiliación a un sistema de pensiones |  |  |  | Empresa de 2 a 9 trabajadores | Empresa de 10 a más trabajadores
 Total | 23.2 | 19.8 | 577.5 | 48.2 | 24.2 | 7.3 | 55.8
 Hombres | 25.9 | 22.2 | 649.5 | - | - | - | -
 Mujeres | 20.0 | 17.1 | 487.1 | - | - | - | -
@@ -2744,7 +2914,7 @@ Chacaltana (2006) señala que la visión de los empresarios respecto a la demand
 
 Una segunda razón se debe a las flexibilidades laborales, es decir que observan en los jóvenes una mayor adaptación a los cambios que puedan darse, los jóvenes son menos exigentes con los derechos laborales. Así un 14% de los empresarios señaló que contratar jóvenes cuesta menos, ya  que  al  no  exigir  sus  derechos  laborales  y  tener  una  alta  flexibilidad,  demandan  menores gastos a las empresas. En menor porcentaje otras razones de la que podemos destacar el hecho que reconozcan la existencia  de  una  legislación  laboral  que  exhorta  a  las  empresas  a  incluir personal joven.
 
-CUADRO Nº 08
+CUADRO N° 08
 ¿Porqué las empresas contratan jóvenes?
 (En porcentaje)
 
@@ -2877,7 +3047,7 @@ PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
 país, y el lugar que actualmente ocupan el autoritarismo y la violencia en la cultura política de los jóvenes. En relación con estos temas, podemos citar aquí un estudio conducido por la SENAJU en la Universidad Nacional Mayor de San Marcos (UNMSM) en el año 2012 (Nureña et al., 2013), según el cual el 37% de los estudiantes se declaraba poco o nada informado sobre cómo se vio afectada su Universidad por la violencia política en los años ochenta y noventa, y alrededor de la mitad no conocía o tenía solo una idea vaga de qué es el “pensamiento Gonzalo”. Aun así, era mayoritario el rechazo a la ideología de Sendero Luminoso y a las propuestas de los grupos pro-senderistas con presencia en esa Universidad. Por otro lado, en relación con la cultura política de los estudiantes, un 18% opinó que en algunas circunstancias un gobierno autoritario sería preferible a uno democrático, mientras que a un 7% le daba lo mismo que el gobierno sea democrático o autoritario. Y así también, el 17% consideró que “a veces la política implica el uso de la fuerza”, y un 5% opinó que “el uso de la fuerza es un medio legítimo de lucha política”.
 
-Todo lo señalado hasta aquí nos lleva a reiterar que el problema de la relación entre juventud y violencia es bastante complejo y abarca múltiples dimensiones. Por eso mismo, en su abordaje es necesario considerar una amplia variedad de enfoques y acciones. Así, una estrategia integral de  prevención  de  la  violencia  y  promoción  de  una  cultura  de  paz  entre  los  jóvenes  debe considerar:
+Todo lo señalado hasta aquí nos lleva a reiterar que el problema de la relación entre juventud y violencia es bastante complejo y abarca múltiples dimensiones. Por eso mismo, en su abordaje es necesario considerar una amplia variedad de enfoques y acciones. Así, una estrategia integral de prevención de la violencia y promoción de una cultura de paz entre los jóvenes debe considerar:
 
  La promoción de prácticas y valores democráticos, especialmente en el entorno educativo, enfatizando  aspectos  como  la  tolerancia,  la  convivencia  pacífica  y  el  respeto  por  las diferencias.
 
@@ -2943,7 +3113,7 @@ reconozcan que no están solos que hay muchos más jóvenes que como ellos quier
 
 ##### Participación de los/las jóvenes en temas ambientales:
 
-En el año 2010 el Ministerio del Ambiente desarrollo una línea base sobre la participación de los/las jóvenes organizados y no organizados en la gestión ambiental, estudio que permitió identificar a 256 organizaciones, grupos y redes juveniles a nivel nacional que tienen como enfoque de trabajo el tema ambiental, las principales problemáticas que ellos/as perciben en nacional y las posibles acciones que se pueden desarrollar por parte de los/las jóvenes para contribuir con el ambiente a nivel local, regional y nacional. Este estudio fue valioso para que el estado a través del Ministerio del Ambiente impulsara la formación de la Red de Voluntariado Ambiental Juvenil el cual es un espacio congreso a organizaciones, grupos y redes juveniles con la finalidad de poder generar agendas compartidas de trabajo Estado – Sociedad Civil en materia ambiental
+En  el  año  2010  el  Ministerio  del  Ambiente  desarrollo  una  línea  base  sobre  la  participación  de los/las  jóvenes  organizados  y  no  organizados  en  la  gestión  ambiental,  estudio  que  permitió identificar  a  256  organizaciones,  grupos  y  redes  juveniles  a  nivel  nacional  que  tienen  como enfoque de trabajo el tema ambiental, las principales problemáticas que ellos/as perciben en nacional  y  las  posibles  acciones  que  se  pueden  desarrollar  por  parte  de  los/las  jóvenes  para contribuir con el ambiente a nivel local, regional y nacional. Este estudio fue valioso para que el estado a través del Ministerio del Ambiente impulsara la formación de la Red de Voluntariado Ambiental Juvenil el cual es un espacio congreso a organizaciones, grupos y redes juveniles con la  finalidad  de  poder  generar  agendas  compartidas  de  trabajo  Estado  -  Sociedad  Civil  en materia ambiental
 
 #### 7. CULTURA, IDENTIDAD E INTEGRACIÓN NACIONAL
 
@@ -2953,7 +3123,7 @@ Según la Encuesta Nacional de la Juventud (ENAJUV), el 45,4 % de los jóvenes s
 
 Sin  embargo, es preciso señalar que existen limitaciones para registrar la presencia de jóvenes afroperuanos,  por  lo  que  desde  las  organizaciones  juveniles  afrodescendientes  se  impulsan campañas para  promover  la  autoadscripción  e  identificación  de  quienes  pertenecen  a  esta etnia.
 
-A pesar de las cifras,  la  marginación  y  exclusión  a  los  pueblos  indígenas  originarios,  andinos  y amazónicos, además de la población afroperuana, es parte de la realidad nacional. Si a esto sumamos  que  en  nuestro  país  la  interculturalidad  guarda  relación  con  los  problemas  de  la desigualdad, falta de participación y discriminación entonces se tendrá clara la necesidad de promover el respeto a las diferencias culturales a través de políticas públicas y proyectos dirigidos a construir una relación armónica entre las distintas etnias y culturas en el Perú. Los estereotipos difundidos por los medios de comunicación contribuyen al no entendimiento que  ser diferentes en  algunas  cosas  no  nos  hace  diferentes  en  todas  las  demás,  especialmente  no  nos  hace diferentes  en  nuestras  necesidades,  sentimientos  y  aspiraciones como personas.  La  educación intercultural (EI) en todo el sistema educativo, y la educación intercultural bilingüe (EIB), para los pueblos  originarios,  son  las  principales  respuestas  como  políticas  públicas  a  la  discriminación basada en las diferencias étnico-culturales.
+A pesar de las cifras, la marginación y exclusión a los pueblos indígenas originarios, andinos y amazónicos, además de la población afroperuana, es parte de la realidad nacional. Si a esto sumamos que en nuestro país la interculturalidad guarda relación con los problemas de la desigualdad, falta de participación y discriminación entonces se tendrá clara la necesidad de promover el respeto a las diferencias culturales a través de políticas públicas y proyectos dirigidos a construir una relación armónica entre las distintas etnias y culturas en el Perú. Los estereotipos difundidos por los medios de comunicación contribuyen al no entendimiento que ser diferentes en algunas cosas no nos hace diferentes en todas las demás, especialmente no nos hace diferentes en nuestras necesidades, sentimientos y aspiraciones como personas. La educación intercultural (EI) en todo el sistema educativo, y la educación intercultural bilingüe (EIB), para los
 
 91
 
@@ -2963,7 +3133,9 @@ A pesar de las cifras,  la  marginación  y  exclusión  a  los  pueblos  indíg
 
 PLAN ESTRATÉGICO NACIONAL DE JUVENTUDES: RUMBO AL BICENTENARIO
 
-Pero todo esto, que de hecho se presenta en la vida cotidiana de mucha gente, afecta también a las relaciones sociales y políticas intergrupales a mayor escala, comprometiendo la cohesión social  y  las  posibilidades  de  integración  nacional,  por  la  persistencia  de  relaciones  de  poder jerárquicas  y  desiguales  entre  grupos  sociales  y  culturales  (Degregori,  1999)  y  por  visiones  que históricamente  han  relegado  a  la  'cultura'  y  a  lo  'indígena'  a  lugares  subordinados  de  una jerarquía  que  los  representa  y  literalmente  sitúa  en  los  márgenes  (físicos  y  simbólicos)  de  la sociedad.
+pueblos originarios, son las principales respuestas como políticas públicas a la discriminación basada en las diferencias étnico-culturales.
+
+Pero todo esto, que de hecho se presenta en la vida cotidiana de mucha gente, afecta también a las relaciones sociales y políticas intergrupales a mayor escala, comprometiendo la cohesión social y las posibilidades de integración nacional, por la persistencia de relaciones de poder jerárquicas y desiguales entre grupos sociales y culturales (Degregori, 1999) y por visiones que históricamente han relegado a la “cultura” y a lo “indígena” a lugares subordinados de una jerarquía que los representa y literalmente sitúa en los márgenes (físicos y simbólicos) de la sociedad.
 
 El  gran  desafío  que  tienen  tanto  la  Educación  Intercultural  como  la  Educación  Intercultural Bilingüe,  es  contribuir  a  romper  las  relaciones  asimétricas  de  poder  que  existen  en  el  país,  y buscar  la  construcción  de  una  sociedad  más  equitativa  y  justa,  donde  todos  y  todas  nos reconozcamos  igualmente  valiosos  e  importantes,  y  tengamos  las  mismas  oportunidades  de desarrollo personal y colectivo al ser parte de una misma sociedad 60 .
 
