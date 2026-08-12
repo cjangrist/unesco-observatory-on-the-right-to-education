@@ -78,6 +78,16 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 ## PRESIDENCE DE LA REPUBLIQUE
 
+2011 – 20 janvier	Page
+
+• Constitution de la République Démocratique du Congo telle que révisée par la Loi n° 11/002 du 20 janvier 2011 portant révision de la Constitution de la République Démocratique du Congo du 18 février 2006……..	7
+
+• APPENDICE :
+
+- Exposé des motifs de la Constitution de la République Démocratique du Congo du 18 février 2006……………………..………..………………….…………………….	81
+
+- Exposé des motifs de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo...	85
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
@@ -92,17 +102,19 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 Journal Officiel - Constitution de la République Démocratique du Congo
 
-Le Sénat a proposé ; L'Assemblée Nationale a adopté ; approuvé ;
-
 7
 
-Le  peuple  congolais,  lors  du  référendum  organisé  du  18  au  19  décembre  2005,  a
+Le Sénat a proposé ;
+
+L'Assemblée Nationale a adopté ;
+
+Le peuple congolais, lors du référendum organisé du 18 au 19 décembre 2005, a approuvé ;
 
 Le Président de la République promulgue la Constitution dont la teneur suit :
 
 # PREAMBULE
 
-Nous, Peuple congolais, Uni  par  le  destin  et  par  l'histoire  autour  de  nobles  idéaux  de  liberté,  de  fraternité,  de solidarité, de justice, de paix et de travail ; Animé par notre volonté commune de bâtir, au cœur de l'Afrique, un Etat de droit et une Nation puissante et prospère, fondée sur une véritable démocratie politique, économique, sociale et culturelle ; Considérant que l'injustice avec ses corollaires, l'impunité, le népotisme, le régionalisme, le tribalisme, le clanisme et le clientélisme, par leurs multiples vicissitudes, sont à l'origine de l'inversion générale des valeurs et de la ruine du pays ; Affirmant  notre  détermination  à  sauvegarder  et  à  consolider  l'indépendance  et  l'unité nationales dans le respect de nos diversités et de nos particularités positives ; Réaffirmant notre adhésion et notre attachement à la Déclaration Universelle des Droits de l'Homme, à la Charte Africaine des Droits de l'Homme et des Peuples, aux Conventions des Nations Unies sur les Droits de l'Enfant et sur les Droits de la Femme, particulièrement à l'objectif de la parité de représentation homme-femme au sein des institutions du pays ainsi qu'aux  instruments  internationaux  relatifs  à  la  protection  et  à  la  promotion  des  droits humains ; Mû par la volonté de voir tous les Etats Africains s'unir et travailler de concert en vue de promouvoir  et  de  consolider  l'unité  africaine  à  travers  les  organisations  continentales, régionales ou sous-régionales pour offrir de meilleurs perspectives de développement et de progrès socio-économique aux Peuples d'Afrique ; Attaché  à  la  promotion  d'une  coopération  internationale  mutuellement  avantageuse  et  au rapprochement des peuples du monde, dans le respect de leurs identités respectives et des principes de la souveraineté et de l'intégrité territoriale de chaque Etat ; Réaffirmant  notre  doit  inaliénable  et  imprescriptible  de  nos  organiser  librement  et  de développer notre vie politique, économique, sociale et culturelle, selon notre génie propre ; Conscients de nos responsabilités devant Dieu, la Nation, l'Afrique et le Monde ;
+Nous, Peuple congolais, Uni  par  le  destin  et  par  l'histoire  autour  de  nobles  idéaux  de  liberté,  de  fraternité,  de solidarité, de justice, de paix et de travail ; Animé par notre volonté commune de bâtir, au cœur de l'Afrique, un Etat de droit et une Nation puissante et prospère, fondée sur une véritable démocratie politique, économique, sociale et culturelle ; Considérant que l'injustice avec ses corollaires, l'impunité, le népotisme, le régionalisme, le tribalisme, le clanisme et le clientélisme, par leurs multiples vicissitudes, sont à l'origine de l'inversion générale des valeurs et de la ruine du pays ; Affirmant  notre  détermination  à  sauvegarder  et  à  consolider  l'indépendance  et  l'unité nationales dans le respect de nos diversités et de nos particularités positives ; Réaffirmant notre adhésion et notre attachement à la Déclaration Universelle des Droits de l'Homme, à la Charte Africaine des Droits de l'Homme et des Peuples, aux Conventions des Nations Unies sur les Droits de l'Enfant et sur les Droits de la Femme, particulièrement à l'objectif de la parité de représentation homme-femme au sein des institutions du pays ainsi qu'aux  instruments  internationaux  relatifs  à  la  protection  et  à  la  promotion  des  droits humains ; Mû par la volonté de voir tous les Etats Africains s'unir et travailler de concert en vue de promouvoir  et  de  consolider  l'unité  africaine  à  travers  les  organisations  continentales, régionales ou sous-régionales pour offrir de meilleures perspectives de développement et de progrès socio-économique aux Peuples d'Afrique ; Attaché  à  la  promotion  d'une  coopération  internationale  mutuellement  avantageuse  et  au rapprochement des peuples du monde, dans le respect de leurs identités respectives et des principes de la souveraineté et de l'intégrité territoriale de chaque Etat ; Réaffirmant  notre  droit  inaliénable  et  imprescriptible  de  nous  organiser  librement  et  de développer notre vie politique, économique, sociale et culturelle, selon notre génie propre ; Conscients de nos responsabilités devant Dieu, la Nation, l'Afrique et le Monde ;
 
 Déclarons solennellement adopter la présente Constitution.
 
@@ -144,7 +156,7 @@ Les autres langues du pays font partie du patrimoine culturel congolais dont l'E
 
 La République Démocratique du Congo est composée de la ville de Kinshasa et de 25 provinces dotées de la personnalité juridique.
 
-Ces  provinces  sont :  Bas-Uele,  Equateur,  Haut-Lomami,  Haut-Katanga,  HautUele,  Ituri,  Kasaï,  Kasaï  Oriental,  Kongo  Central,  Kwango,  Kwilu,  Lomami, Lualaba,  Kasaï  Central,      Mai-Ndombe,  Maniema,  Mongala,  Nord-Kivu,  NordUbangi, Sankuru, Sud-Kivu, Sud-Ubangi, Tanganyika, Tshopo, Tshuapa.
+Ces  provinces  sont :  Bas-Uele,  Equateur,  Haut-Lomami,  Haut-Katanga,  Haut-Uele,  Ituri,  Kasaï,  Kasaï  Oriental,  Kongo  Central,  Kwango,  Kwilu,  Lomami, Lualaba,  Kasaï  Central,      Mai-Ndombe,  Maniema,  Mongala,  Nord-Kivu,  Nord-Ubangi, Sankuru, Sud-Kivu, Sud-Ubangi, Tanganyika, Tshopo, Tshuapa.
 
 Kinshasa est la capitale du pays et le siège des institutions nationales. Elle a le statut de Province. La capitale ne peut être transférée dans un autre lieu du pays que par voie de référendum .
 
@@ -324,9 +336,9 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 La peine cesse d'être exécutée lorsqu'en vertu d'une loi postérieure au jugement :
 
-- elle est supprimée ;
+1. elle est supprimée ;
 
-- le fait pour lequel elle était prononcée, n'a plus le caractère infractionnel.
+2. le fait pour lequel elle était prononcée, n'a plus le caractère infractionnel.
 
 En  cas  de  réduction  de  la  peine  en  vertu  d'une  loi  postérieure  au  jugement,  la peine est exécutée conformément à la nouvelle loi.
 
@@ -756,19 +768,19 @@ Le respect des droits de l'homme et des libertés fondamentales consacrés dans 
 
 En  aucun  cas,  et  même  lorsque  l'état  de  siège  ou  l'état  d'urgence  aura  été proclamé conformément aux articles 85 et 86 de la présente Constitution, il ne peut être dérogé aux droits et principes fondamentaux énumérés ci-après :
 
-- le droit à la vie ;
+1. le droit à la vie ;
 
-- l'interdiction de la torture et des peines ou traitements cruels, inhumains ou dégradants ;
+2. l'interdiction de la torture et des peines ou traitements cruels, inhumains ou dégradants ;
 
-- l'interdiction de l'esclavage et de la servitude ;
+3. l'interdiction de l'esclavage et de la servitude ;
 
-- le principe de la légalité des infractions et des peines ;
+4. le principe de la légalité des infractions et des peines ;
 
-- les droits de la défense et le droit de recours ;
+5. les droits de la défense et le droit de recours ;
 
-- l'interdiction de l'emprisonnement pour dettes ;
+6. l'interdiction de l'emprisonnement pour dettes ;
 
-- la liberté de pensée, de conscience et de religion.
+7. la liberté de pensée, de conscience et de religion.
 
 ## Chapitre 4 : Des devoirs du citoyen
 
@@ -830,13 +842,13 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 Les institutions de la République sont :
 
-- le Président de la République ;
+1. le Président de la République ;
 
-- le Parlement ;
+2. le Parlement ;
 
-- le Gouvernement ;
+3. le Gouvernement ;
 
-- les Cours et Tribunaux .
+4. les Cours et Tribunaux.
 
 ### Section 1 ère  : Du  pouvoir  exécutif
 
@@ -1048,7 +1060,7 @@ Les émoluments et la liste civile du Président de la République sont fixés p
 
 ##### Article  90
 
-Le  Gouvernement  est  composé  du  Premier    ministre,  de  ministres,  de  Viceministres et, le  cas  échéant,  de  Vice-premier ministres, de ministres d'Etat et de ministres délégués.
+Le  Gouvernement  est  composé  du  Premier    ministre,  de  ministres,  de  Vice-ministres et, le  cas  échéant,  de  Vice-premier ministres, de ministres d'Etat et de ministres délégués.
 
 Il est dirigé par le Premier ministre, chef du Gouvernement. En cas d'empêchement, son intérim est assuré par le membre du Gouvernement qui a la préséance.
 
@@ -1166,7 +1178,7 @@ Sans préjudice des autres dispositions de la présente Constitution, le Parleme
 
 Chacune  des  Chambres  jouit  de  l'autonomie  administrative  et  financière  et dispose d'une dotation propre.
 
-#### Paragraphe 1 er  : De l'Assemblée nationale
+#### Paragraphe 1er : De l'Assemblée nationale
 
 ##### Article 101
 
@@ -1184,7 +1196,7 @@ Le  nombre  de  députés  nationaux ainsi  que  les  conditions  de  leur  éle
 
 ##### Article 102
 
-Nul ne peut être candidat aux élections législatives s'il ne remplit les conditions ciaprès :
+Nul ne peut être candidat aux élections législatives s'il ne remplit les conditions ci-après :
 
 - être Congolais ;
 
@@ -1199,6 +1211,8 @@ Nul ne peut être candidat aux élections législatives s'il ne remplit les cond
 [[START OF PAGE 34]]
 
 Journal Officiel - Constitution de la République Démocratique du Congo
+
+34
 
 ##### Article 103
 
@@ -1244,7 +1258,6 @@ Nul ne peut être candidat membre du sénat s'il ne remplit les conditions ci-ap
 
 - ne  pas  se  trouver  dans  un  des  cas  d'exclusion  prévus  par  la  loi électorale.
 
-34
 
 [[END OF PAGE 34]]
 
@@ -1314,7 +1327,7 @@ Les  modalités  d'application  de  l'alinéa  précédent  ainsi  que  les  aut
 
 #### Paragraphe 5 : De la fin et de la suspension du mandat de député national ou de sénateur ( modifié par l'article 2 de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo)
 
-##### Article 110 (modifié par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
+##### Article 110 (modifié par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
 
 Le mandat de député national ou de sénateur prend fin par :
 
@@ -1624,7 +1637,7 @@ Si un projet ou une proposition de loi est déclaré urgent par le Gouvernement,
 
 La procédure normale est appliquée aux propositions ou aux projets de loi portant amendement  de  la  Constitution  ou  modifiant  les  lois  organiques  ainsi  qu'aux projets de loi d'habilitation prévue à l'article 129.
 
-##### Article 126 (modifié par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
+##### Article 126 (modifié par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
 
 Les Lois de finances déterminent les ressources et les charges de l'Etat.
 
@@ -1830,6 +1843,8 @@ L'Assemblée nationale et le Sénat peuvent, par une loi, mettre fin à tout mom
 
 Journal Officiel - Constitution de la République Démocratique du Congo
 
+49
+
 ##### Article 145
 
 En cas d'état d'urgence ou d'état de siège, le Président de la République prend, par  ordonnances  délibérées  en  Conseil  des  ministres,  les  mesures  nécessaires pour faire face à la situation.
@@ -1854,7 +1869,6 @@ Lorsque l'Assemblée nationale adopte une motion de censure, le Gouvernement est
 
 Lorsqu'une motion de défiance contre un membre du Gouvernement est adoptée, celui-ci est réputé démissionnaire.
 
-49
 
 [[END OF PAGE 49]]
 
@@ -1876,7 +1890,7 @@ A  la  suite  d'une  dissolution  de  l'Assemblée  nationale,  la  Commission  
 
 #### Paragraphe 1 : Dispositions générales
 
-##### Article 149 (modifié par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
+##### Article 149 (modifié par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
 
 Le pouvoir judiciaire est indépendant du pouvoir législatif et du pouvoir exécutif.
 
@@ -1924,27 +1938,27 @@ Le  Conseil  supérieur  de  la  magistrature  est  l'organe  de  gestion  du  p
 
 Le Conseil supérieur de la magistrature est composé  de :
 
-- Président de la Cour constitutionnelle ;
+1. Président de la Cour constitutionnelle ;
 
-- Procureur  général près la Cour constitutionnelle ;
+2. Procureur général près la Cour constitutionnelle ;
 
-- Premier Président de la Cour de cassation ;
+3. Premier Président de la Cour de cassation ;
 
-- Procureur général près la Cour de cassation ;
+4. Procureur général près la Cour de cassation ;
 
-- Premier Président du Conseil d'Etat ;
+5. Premier Président du Conseil d'Etat ;
 
-- Procureur général près le Conseil d'Etat ;
+6. Procureur général près le Conseil d'Etat ;
 
-- Premier Président de la Haute Cour militaire;
+7. Premier Président de la Haute Cour militaire;
 
-- l'Auditeur général près la Haute Cour militaire ;
+8. l'Auditeur général près la Haute Cour militaire ;
 
-- Premiers  Présidents des Cours d'Appel ;
+9. Premiers Présidents des Cours d'Appel ;
 
-- Procureurs Généraux près les Cours d'Appel ;
+10. Procureurs Généraux près les Cours d'Appel ;
 
-- Premiers Présidents des Cours administratives d'Appel ;
+11. Premiers Présidents des Cours administratives d'Appel ;
 
 [[END OF PAGE 51]]
 
@@ -1954,19 +1968,19 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 52
 
-- Procureurs Généraux près les Cours administratives d'Appel ;
+12. Procureurs Généraux près les Cours administratives d'Appel ;
 
-- Premiers Présidents des Cours militaires ;
+13. Premiers Présidents des Cours militaires ;
 
-- Auditeurs  militaires supérieurs ;
+14. Auditeurs militaires supérieurs ;
 
-- deux  magistrats  de  siège  par ressort de  Cour  d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans ;
+15. deux magistrats de siège par ressort de Cour d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans ;
 
-- deux  magistrats  du  parquet  par  ressort  de  Cour  d'Appel,  élus  par l'ensemble des magistrats du ressort pour un mandat de trois ans ;
+16. deux magistrats du parquet par ressort de Cour d'Appel, élus par l'ensemble des magistrats du ressort pour un mandat de trois ans ;
 
-- un magistrat de siège par ressort de Cour militaire ;
+17. un magistrat de siège par ressort de Cour militaire ;
 
-- un magistrat de parquet par ressort de Cour militaire.
+18. un magistrat de parquet par ressort de Cour militaire.
 
 Il  élabore  les  propositions  de  nomination,  de  promotion  et  de  révocation  des magistrats.
 
@@ -1986,15 +2000,15 @@ Sans  préjudice  des  autres  compétences  qui  lui  sont  reconnues  par  la 
 
 Dans les conditions fixées par la Constitution et les lois de la République, la Cour de cassation connaît en premier et dernier ressort des infractions commises  par :
 
-- les membres de l'Assemblée nationale et du Sénat ;
+1. les membres de l'Assemblée nationale et du Sénat ;
 
-- les membres du Gouvernement autres que le Premier ministre ;
+2. les membres du Gouvernement autres que le Premier ministre ;
 
-- les membres de la Cour constitutionnelle ;
+3. les membres de la Cour constitutionnelle ;
 
-- les  magistrats  de  la  Cour  de  cassation  ainsi  que  du  parquet  près  cette Cour ;
+4. les magistrats de la Cour de cassation ainsi que du parquet près cette Cour ;
 
-- les  membres  du  Conseil  d'Etat  et  les  membres  du  Parquet  près  ce Conseil ;
+5. les membres du Conseil d'Etat et les membres du Parquet près ce Conseil ;
 
 [[END OF PAGE 52]]
 
@@ -2004,15 +2018,15 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 53
 
-- les  membres  de  la  Cour  des  Comptes  et  les  membres  du  parquet  près cette Cour ;
+6. les membres de la Cour des Comptes et les membres du parquet près cette Cour ;
 
-- les  premiers  Présidents  des  Cours  d'appel  ainsi  que  les  Procureurs généraux près ces cours ;
+7. les premiers Présidents des Cours d'appel ainsi que les Procureurs généraux près ces cours ;
 
-- les  premiers  Présidents  des  Cours  administratives  d'appel  et  les  Procureurs près ces cours ;
+8. les premiers Présidents des Cours administratives d'appel et les Procureurs près ces cours ;
 
-- les Gouverneurs, les Vice-gouverneurs de province et les ministres provinciaux ;
+9. les Gouverneurs, les Vice-gouverneurs de province et les ministres provinciaux ;
 
-- les Présidents des Assemblées provinciales.
+10. les Présidents des Assemblées provinciales.
 
 Les  Cours  et  Tribunaux,  civils  et  militaires,  appliquent  les  traités  internationaux dûment  ratifiés, les lois, les actes réglementaires pour autant qu'ils soient conformes  aux  lois  ainsi  que  la  coutume  pour  autant  que  celle-ci  ne  soit  pas contraire  à l'ordre public ou aux bonnes mœurs.
 
@@ -2082,9 +2096,9 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 Nul ne peut être nommé membre de la Cour constitutionnelle :
 
-- s'il n'est congolais
+1. s'il n'est congolais
 
-- s'il ne justifie d'une expérience éprouvée de quinze ans dans les domaines juridique ou politique.
+2. s'il ne justifie d'une expérience éprouvée de quinze ans dans les domaines juridique ou politique.
 
 ##### Article 160
 
@@ -2136,7 +2150,7 @@ La  Cour  constitutionnelle  est  le  juge  pénal  du  Président  de  la  Rép
 
 ##### Article 165
 
-Sans  préjudice  des  autres  dispositions  de  la  présente  Constitution,  il y  a  haute trahison  lorsque  le    Président  de  la  République  a  violé  intentionnellement  la Constitution  ou  lorsque  lui  ou  le  Premier  ministre  sont  reconnus  auteurs,  coauteurs  ou  complices  de  violations  graves et caractérisées  des Droits  de l'Homme, de cession d'une partie du territoire national.
+Sans préjudice des autres dispositions de la présente Constitution, il y a haute trahison lorsque le Président de la République a violé intentionnellement la Constitution ou lorsque lui ou le Premier ministre sont reconnus auteurs, co-auteurs ou complices de violations graves et caractérisées des Droits de l'Homme, de cession d'une partie du territoire national.
 
 Il  y  a  atteinte  à  l'honneur  ou  à  la  probité  notamment  lorsque  le  comportement personnel  du  Président de  la  République ou  du  Premier  ministre  est  contraire aux  bonnes  mœurs  ou  qu'ils  sont  reconnus  auteurs,  co-auteurs  ou  complices de malversations, de corruption ou d'enrichissement illicite.
 
@@ -2238,15 +2252,15 @@ La Banque centrale du Congo est l'institut d'émission de la République Démocr
 
 A ce titre, elle a pour mission :
 
-- la garde des fonds publics ;
+1. la garde des fonds publics ;
 
-- la sauvegarde et la stabilité monétaire ;
+2. la sauvegarde et la stabilité monétaire ;
 
-- la définition et la mise en œuvre de la politique monétaire ;
+3. la définition et la mise en œuvre de la politique monétaire ;
 
-- le contrôle de l'ensemble de l'activité bancaire ;
+4. le contrôle de l'ensemble de l'activité bancaire ;
 
-- de conseil économique et financier du Gouvernement.
+5. de conseil économique et financier du Gouvernement.
 
 Dans la réalisation de ces missions et attributions, la Banque Centrale du Congo est indépendante et jouit de l'autonomie de gestion.
 
@@ -2398,9 +2412,9 @@ Une loi organique fixe l'organisation et le fonctionnement des services publics 
 
 Les institutions provinciales sont :
 
-- l'Assemblée provinciale ;
+1. l'Assemblée provinciale ;
 
-- le Gouvernement provincial.
+2. le Gouvernement provincial.
 
 [[END OF PAGE 62]]
 
@@ -2416,7 +2430,7 @@ Les provinces sont organisées conformément aux principes énoncés à l'articl
 
 Les  subdivisions  territoriales  à  l'intérieur  des  Provinces  sont  fixées  par  une  loi organique.
 
-##### Article 197 (modifi é par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo )
+##### Article 197 (modifié par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo)
 
 L'Assemblée provinciale est l'organe délibérant de la province. Elle délibère dans le domaine des compétences réservées à la province et contrôle le Gouvernement provincial ainsi que les services publics provinciaux et locaux.
 
@@ -2434,7 +2448,7 @@ Lorsqu'une crise politique grave et persistante menace d'interrompre le fonction
 
 En cas de force majeure, ce délai peut être prolongé à cent vingt jours au plus, par la Cour constitutionnelle saisie par la Commission électorale nationale indépendante.
 
-##### Articles 198 (modifié par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
+##### Articles 198 (modifié par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo)
 
 Le Gouvernement provincial est composé d'un Gouverneur, d'un Vice-Gouverneur et des ministres provinciaux.
 
@@ -2504,25 +2518,25 @@ Les matières sont, soit  de la  compétence  exclusive  du  pouvoir  central,  
 
 Sans  préjudice  des  autres  dispositions  de la  présente  Constitution,  les  matières suivantes sont de la compétence exclusive du pouvoir central :
 
-- les  affaires  étrangères  comprenant  les  relations  diplomatiques  ainsi  que  les traités et accords internationaux ;
+1. les affaires étrangères comprenant les relations diplomatiques ainsi que les traités et accords internationaux ;
 
-- la réglementation du commerce extérieur ;
+2. la réglementation du commerce extérieur ;
 
-- la nationalité, le statut et la police des étrangers ;
+3. la nationalité, le statut et la police des étrangers ;
 
-- l'extradition,  l'immigration,  l'émigration et  la  délivrance  des  passeports  et  des visas ;
+4. l'extradition, l'immigration, l'émigration et la délivrance des passeports et des visas ;
 
-- la sûreté extérieure ;
+5. la sûreté extérieure ;
 
-- la défense nationale ;
+6. la défense nationale ;
 
-- la police nationale ;
+7. la police nationale ;
 
-- la fonction publique nationale ;
+8. la fonction publique nationale ;
 
-- les finances publiques de la République ;
+9. les finances publiques de la République ;
 
-- l'établissement des impôts sur le revenu, des impôts sur les sociétés et des impôts personnels conformément à  l'article 174 ;
+10. l'établissement des impôts sur le revenu, des impôts sur les sociétés et des impôts personnels conformément à l'article 174 ;
 
 [[END OF PAGE 65]]
 
@@ -2532,43 +2546,43 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 66
 
-- la dette publique de la République ;
+11. la dette publique de la République ;
 
-- les emprunts extérieurs pour les besoins de la République ou des provinces ;
+12. les emprunts extérieurs pour les besoins de la République ou des provinces ;
 
-- les emprunts intérieurs pour les besoins de la République ;
+13. les emprunts intérieurs pour les besoins de la République ;
 
-- la monnaie, l'émission de la monnaie et le pouvoir libératoire de la monnaie ;
+14. la monnaie, l'émission de la monnaie et le pouvoir libératoire de la monnaie ;
 
-- les poids, mesures et informatique ;
+15. les poids, mesures et informatique ;
 
-- les douanes et les droits d'importation et d'exportation ;
+16. les douanes et les droits d'importation et d'exportation ;
 
-- la  réglementation  concernant  les  banques  et  les  opérations  bancaires  et boursières ;
+17. la réglementation concernant les banques et les opérations bancaires et boursières ;
 
-- la réglementation des changes ;
+18. la réglementation des changes ;
 
-- la propriété littéraire, artistique et industrielle et les brevets.
+19. la propriété littéraire, artistique et industrielle et les brevets.
 
-- les postes et les télécommunications, y compris les téléphones et télégraphes, la radiodiffusion, la télévision et les satellites;
+20. les postes et les télécommunications, y compris les téléphones et télégraphes, la radiodiffusion, la télévision et les satellites;
 
-- la  navigation  maritime  et  intérieure,  les  lignes  aériennes,  les  chemins  de  fer, les  routes  et  autres  voies  de  communication,  naturelles  ou  artificielles  qui relient  deux  ou  plusieurs  provinces  ou  le  territoire  de  la  République  à  un territoire  étranger  ou  qu'une  loi  nationale  a  déclarée  d'intérêt  national  bien qu'elles soient entièrement situées sur le territoire d'une province ;
+21. la navigation maritime et intérieure, les lignes aériennes, les chemins de fer, les routes et autres voies de communication, naturelles ou artificielles qui relient deux ou plusieurs provinces ou le territoire de la République à un territoire étranger ou qu'une loi nationale a déclarée d'intérêt national bien qu'elles soient entièrement situées sur le territoire d'une province ;
 
-- les universités et autres établissements d'enseignement scientifique, technique ou professionnel supérieur créés ou subventionnés par le Gouvernement  central  ou  par  les  gouvernements  provinciaux  et  qu'une  loi nationale a déclarés d'intérêt national ;
+22. les universités et autres établissements d'enseignement scientifique, technique ou professionnel supérieur créés ou subventionnés par le Gouvernement central ou par les gouvernements provinciaux et qu'une loi nationale a déclarés d'intérêt national ;
 
-- l'établissement des normes d'enseignement applicables dans tous les territoires de la République ;
+23. l'établissement des normes d'enseignement applicables dans tous les territoires de la République ;
 
-- l'acquisition des biens pour les besoins de la République, sans préjudice des dispositions de l'article 34 ;
+24. l'acquisition des biens pour les besoins de la République, sans préjudice des dispositions de l'article 34 ;
 
-- l'élaboration  des  programmes  agricoles,  forestiers  et  énergétique   d'intérêt national et la coordination des programmes d'intérêt  provincial ;
+25. l'élaboration des programmes agricoles, forestiers et énergétique d'intérêt national et la coordination des programmes d'intérêt provincial ;
 
-Les  offices  des  produits  agricoles  et  les  organismes  assimilés  ainsi  que  la répartition  des  cadres  conformément  au  statut  des  agents  de  carrière  des services publics de l'Etat ;
+Les offices des produits agricoles et les organismes assimilés ainsi que la répartition des cadres conformément au statut des agents de carrière des services publics de l'Etat ;
 
 Les régimes énergétiques, agricoles et forestiers sur la chasse et la pêche, sur la conservation de la nature (flore et faune), sur la capture, sur l'élevage, sur les denrées alimentaires d'origine animale et l'art vétérinaire.
 
-- la  protection  contre  les  dangers  occasionnés  par  l'énergie  ou  par  les radiations et l'élimination des substances radioactives ;
+26. la protection contre les dangers occasionnés par l'énergie ou par les radiations et l'élimination des substances radioactives ;
 
-- la prévention des abus des puissances économiques ;
+27. la prévention des abus des puissances économiques ;
 
 [[END OF PAGE 66]]
 
@@ -2578,91 +2592,93 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 67
 
-- le patrimoine historique, les monuments publics et les parcs déclarés d'intérêt national ;
+28. le patrimoine historique, les monuments publics et les parcs déclarés d'intérêt national ;
 
-- les services de la météorologie et la coordination technique des services de la géodésie, de la cartographie et de l'hydrographie ;
+29. les services de la météorologie et la coordination technique des services de la géodésie, de la cartographie et de l'hydrographie ;
 
-- la  nomination  et  l'affectation  des  inspecteurs  provinciaux  de  l'enseignement primaire, secondaire, professionnel et spécial ;
+30. la nomination et l'affectation des inspecteurs provinciaux de l'enseignement primaire, secondaire, professionnel et spécial ;
 
-- les statistiques et le recensement d'intérêt national ;
+31. les statistiques et le recensement d'intérêt national ;
 
-- la planification nationale ;
+32. la planification nationale ;
 
-- la recherche scientifique et technologique ;
+33. la recherche scientifique et technologique ;
 
-- les  plans  directeurs  nationaux  de  développement des infrastructures de base notamment les ports, les aéroports, les gares ;
+34. les plans directeurs nationaux de développement des infrastructures de base notamment les ports, les aéroports, les gares ;
 
-- l'assistance aux anciens combattants et les handicapés de guerre ;
+35. l'assistance aux anciens combattants et les handicapés de guerre ;
 
-- la législation notamment concernant :
+36. la législation notamment concernant :
 
-- le  code  de  commerce,  y  compris  les  assurances,  la  constitution  et l'agrément des sociétés ;
+a) le code de commerce, y compris les assurances, la constitution et l'agrément des sociétés ;
 
-- le code pénal, le régime pénitentiaire ;
+b) le code pénal, le régime pénitentiaire ;
 
-- le code d'organisation et de compétence judiciaires et le code  judiciaire ;
+c) le code d'organisation et de compétence judiciaires et le code judiciaire ;
 
-- la législation pour les professions libérales ;
+d) la législation pour les professions libérales ;
 
-- la  législation  du  travail  comprenant  notamment  les  lois  régissant  les relations  entre  employeurs  et  travailleurs,  la  sécurité  des  travailleurs,  les règles relatives à la sécurité sociale et, en particulier, les règles relatives aux assurances sociales et au chômage involontaire ;
+e) la législation du travail comprenant notamment les lois régissant les relations entre employeurs et travailleurs, la sécurité des travailleurs, les règles relatives à la sécurité sociale et, en particulier, les règles relatives aux assurances sociales et au chômage involontaire ;
 
-- la  législation  économique  comprenant  les  lois  concernant  les  mines, minéraux  et  huiles  minérales,  l'industrie, les  sources  d'énergie  et  la conservation des ressources  naturelles ;
+f) la législation économique comprenant les lois concernant les mines, minéraux et huiles minérales, l'industrie, les sources d'énergie et la conservation des ressources naturelles ;
 
-- la législation sur les arts et métiers ;
+g) la législation sur les arts et métiers ;
 
-- la législation médicale et l'art de guérir, la médecine  préventive, notamment  l'hygiène,  la  salubrité  publique  et  la  protection  maternelle  et infantile,  la  législation  sur  la  profession  de  pharmacien,  sur  le  commerce pharmaceutique,  sur  l'immigration  et  le  transit,  les  règlements  sanitaires bilatéraux et internationaux, la législation sur l'hygiène du  travail, la coordination  technique  des  laboratoires  médicaux  et  la  répartition  des médecins ;
+h) la législation médicale et l'art de guérir, la médecine préventive, notamment l'hygiène, la salubrité publique et la protection maternelle et infantile, la législation sur la profession de pharmacien, sur le commerce pharmaceutique, sur l'immigration et le transit, les règlements sanitaires bilatéraux et internationaux, la législation sur l'hygiène du travail, la coordination technique des laboratoires médicaux et la répartition des médecins ;
 
-- la loi électorale ;
+i) la loi électorale ;
 
-- la  législation  sur  la    fabrication,  la  rectification,  l'importation,  l'exportation et la vente de l'alcool obtenu par la distillation ;
+j) la législation sur la fabrication, la rectification, l'importation, l'exportation et la vente de l'alcool obtenu par la distillation ;
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
 
-Journal Officiel - Constitution de la République Démocratique du Congo 68
+Journal Officiel - Constitution de la République Démocratique du Congo
 
-- la législation sur la fabrication, l'importation et exportation, et la vente des boissons alcoolisées et non alcoolisées ;
+68
 
-- la législation sur la fabrication, l'importation et l'exportation et le transit des matériels de guerre ;
+k) la législation sur la fabrication, l'importation et exportation, et la vente des boissons alcoolisées et non alcoolisées ;
 
-- la législation  sur  la  fécondation  artificielle  chez  l'être  humain,  sur  la manipulation des informations génétiques et sur les transplantations d'organes et des tissus humains ;
+l) la législation sur la fabrication, l'importation et l'exportation et le transit des matériels de guerre ;
 
-- la législation sur les réfugiés, les expulsés et les personnes déplacées ;
+m) la législation sur la fécondation artificielle chez l'être humain, sur la manipulation des informations génétiques et sur les transplantations d'organes et des tissus humains ;
 
-- la  législation  sur  l'admission  aux  professions  médicales  et  aux  autres professions et activités.
+n) la législation sur les réfugiés, les expulsés et les personnes déplacées ;
+
+o) la législation sur l'admission aux professions médicales et aux autres professions et activités.
 
 ##### Article 203
 
 Sans préjudice  des  autres  dispositions  de  la  présente  Constitution,  les    matières suivantes sont de la compétence concurrente du pouvoir central et des provinces :
 
-- la mise en œuvre des mécanismes de promotion et de sauvegarde des droits humains et des libertés fondamentales consacrés dans la présente Constitution;
+1. la mise en œuvre des mécanismes de promotion et de sauvegarde des droits humains et des libertés fondamentales consacrés dans la présente Constitution;
 
-- les droits civils et coutumiers ;
+2. les droits civils et coutumiers ;
 
-- les statistiques et les recensements ;
+3. les statistiques et les recensements ;
 
-- la sûreté intérieure ;
+4. la sûreté intérieure ;
 
-- l'administration des cours et tribunaux, des maisons d'arrêt et de correction et des prisons;
+5. l'administration des cours et tribunaux, des maisons d'arrêt et de correction et des prisons;
 
-- la vie culturelle et sportive ;
+6. la vie culturelle et sportive ;
 
-- l'établissement des impôts, y compris les droits d'accise et de consommation, à l'exclusion des impôts visés à l'article 174 ;
+7. l'établissement des impôts, y compris les droits d'accise et de consommation, à l'exclusion des impôts visés à l'article 174 ;
 
-- l'exécution des mesures sur la police des étrangers ;
+8. l'exécution des mesures sur la police des étrangers ;
 
-- la  recherche  scientifique  et  technologique  ainsi  que  les  bourses  d'études,  de perfectionnement et d'encouragement à la recherche ;
+9. la recherche scientifique et technologique ainsi que les bourses d'études, de perfectionnement et d'encouragement à la recherche ;
 
-- les  institutions  médicales  et  philanthropiques,  l'engagement  du  personnel médical et agricole de commandement ;
+10. les institutions médicales et philanthropiques, l'engagement du personnel médical et agricole de commandement ;
 
-- la  mise  en  œuvre  des  programmes  de  la  météorologie,  de  la  géologie, de  la cartographie et de l'hydrologie ;
+11. la mise en œuvre des programmes de la météorologie, de la géologie, de la cartographie et de l'hydrologie ;
 
-- les calamités naturelles ;
+12. les calamités naturelles ;
 
-- la presse, la radio, la télévision, l'industrie cinématographique ;
+13. la presse, la radio, la télévision, l'industrie cinématographique ;
 
-- la protection civile ;
+14. la protection civile ;
 
 [[END OF PAGE 68]]
 
@@ -2670,54 +2686,53 @@ Sans préjudice  des  autres  dispositions  de  la  présente  Constitution,  le
 
 Journal Officiel - Constitution de la République Démocratique du Congo
 
-- le tourisme ;
+69
 
-- les droits fonciers et miniers, l'aménagement du territoire, le régime des eaux et forêts ;
+15. le tourisme ;
 
-- la prévention des épidémies et épizooties dangereuses pour la collectivité ;
+16. les droits fonciers et miniers, l'aménagement du territoire, le régime des eaux et forêts ;
 
-- la  protection  de  l'environnement,  des  sites  naturels,  des  paysages  et  la conservation des sites ;
+17. la prévention des épidémies et épizooties dangereuses pour la collectivité ;
 
-- la réglementation sur les régimes énergétiques, agricoles et forestiers, l'élevage, les denrées alimentaires d'origine animale et végétale ;
+18. la protection de l'environnement, des sites naturels, des paysages et la conservation des sites ;
 
-- la création des établissements primaires, secondaires, supérieurs et universitaires ;
+19. la réglementation sur les régimes énergétiques, agricoles et forestiers, l'élevage, les denrées alimentaires d'origine animale et végétale ;
 
-- le  trafic  routier,  la  circulation  automobile,  la  construction  et  l'entretien  des routes  d'intérêt  national,  la  perception  et  la  répartition  des  péages  pour l'utilisation des routes construites par le pouvoir central et/ou par la province ;
+20. la création des établissements primaires, secondaires, supérieurs et universitaires ;
 
-- les institutions médicales et philanthropiques ;
+21. le trafic routier, la circulation automobile, la construction et l'entretien des routes d'intérêt national, la perception et la répartition des péages pour l'utilisation des routes construites par le pouvoir central et/ou par la province ;
 
-- l'initiative  des  projets,  programmes  et  accords  de  coopération  économique, culturelle, scientifique et sociale internationale ;
+22. les institutions médicales et philanthropiques ;
 
-- la production, le transport, l'utilisation et l'exploitation de l'énergie ;
+23. l'initiative des projets, programmes et accords de coopération économique, culturelle, scientifique et sociale internationale ;
 
-- la protection des groupes des personnes vulnérables.
+24. la production, le transport, l'utilisation et l'exploitation de l'énergie ;
+
+25. la protection des groupes des personnes vulnérables.
 
 ##### Article 204
 
 Sans préjudice  des  autres  dispositions  de  la  présente  Constitution,  les    matières suivantes sont de la compétence exclusive des Provinces :
 
-- le plan d'aménagement de la Province ;
+1. le plan d'aménagement de la Province ;
 
-- la coopération inter provinciale ;
+2. la coopération inter provinciale ;
 
-- la fonction publique provinciale et locale ;
+3. la fonction publique provinciale et locale ;
 
-- l'application des normes régissant l'état civil ;
+4. l'application des normes régissant l'état civil ;
 
-- les finances publiques provinciales ;
+5. les finances publiques provinciales ;
 
-- la dette publique provinciale ;
+6. la dette publique provinciale ;
 
-- les emprunts intérieurs pour les besoins des provinces ;
+7. les emprunts intérieurs pour les besoins des provinces ;
 
-- la  délivrance  et  la  conservation  des  titres  immobiliers  dans  le  respect  de  la législation nationale ;
+8. la délivrance et la conservation des titres immobiliers dans le respect de la législation nationale ;
 
-- l'organisation du petit commerce frontalier ;
+9. l'organisation du petit commerce frontalier ;
 
-- l'organisation  et  le  fonctionnement  des  services  publics,  établissements  et entreprises publiques provinciaux dans le respect de la législation nationale ;
-
-69
-
+10. l'organisation et le fonctionnement des services publics, établissements et entreprises publiques provinciaux dans le respect de la législation nationale ;
 [[END OF PAGE 69]]
 
 [[START OF PAGE 70]]
@@ -2726,27 +2741,27 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 70
 
-- les travaux et marchés publics d'intérêt provincial et local ;
+11. les travaux et marchés publics d'intérêt provincial et local ;
 
-- l'acquisition des biens pour les besoins de la province ;
+12. l'acquisition des biens pour les besoins de la province ;
 
-- l'enseignement  maternel,  primaire,  secondaire,  professionnel  et  spécial  ainsi que  l'alphabétisation des citoyens conformément aux normes établies par le pouvoir central ;
+13. l'enseignement maternel, primaire, secondaire, professionnel et spécial ainsi que l'alphabétisation des citoyens conformément aux normes établies par le pouvoir central ;
 
-- l'établissement des peines d'amende ou de prison pour assurer le  respect des édits en conformité avec la législation nationale ;
+14. l'établissement des peines d'amende ou de prison pour assurer le respect des édits en conformité avec la législation nationale ;
 
-- les communications intérieures des provinces ;
+15. les communications intérieures des provinces ;
 
-- les  impôts,  les  taxes  et  les  droits  provinciaux  et  locaux  notamment  l'impôt foncier, l'impôt sur les revenus locatifs et l'impôt sur les véhicules automoteurs ;
+16. les impôts, les taxes et les droits provinciaux et locaux notamment l'impôt foncier, l'impôt sur les revenus locatifs et l'impôt sur les véhicules automoteurs ;
 
-- la  fixation  des  salaires  minima  provinciaux  conformément  à  la    législation nationale ;
+17. la fixation des salaires minima provinciaux conformément à la législation nationale ;
 
-- l'affectation  du  personnel  médical  conformément  au  statut  des  agents  de carrière des services publics de l'Etat, l'élaboration des programmes d'assainissement  et  de  campagne  de  lutte  contre  les  maladies  endémoépidémiques   conformément  au plan national : l'organisation des services d'hygiène  et  de  prophylaxie  provinciale,  l'application  et  le  contrôle  de  la législation  médicale et pharmaceutique nationale ainsi que l'organisation des services de la médecine curative, des services philanthropiques et missionnaires,  des  laboratoires  médicaux  et  des  services  pharmaceutiques, l'organisation et la promotion des soins de santé primaires ;
+18. l'affectation du personnel médical conformément au statut des agents de carrière des services publics de l'Etat, l'élaboration des programmes d'assainissement et de campagne de lutte contre les maladies endémo-épidémiques conformément au plan national : l'organisation des services d'hygiène et de prophylaxie provinciale, l'application et le contrôle de la législation médicale et pharmaceutique nationale ainsi que l'organisation des services de la médecine curative, des services philanthropiques et missionnaires, des laboratoires médicaux et des services pharmaceutiques, l'organisation et la promotion des soins de santé primaires ;
 
-- l'élaboration des programmes miniers, minéralogiques, industriels, énergétique  d'intérêt  provincial  et  leur  exécution  conformément  aux  normes générales du planning national ;
+19. l'élaboration des programmes miniers, minéralogiques, industriels, énergétique d'intérêt provincial et leur exécution conformément aux normes générales du planning national ;
 
-- l'élaboration des programmes agricoles et forestiers et leur exécution conformément  aux  normes  du  planning  national,  l'affectation  du  personnel agricole,  des  cadres  conformément aux dispositions du statut des agents de carrière des services publics de l'Etat, l'application de la  législation nationale concernant l'agriculture, la forêt, la chasse et la pêche ainsi que l'environnement,  la  conservation  de  la  nature  et  la  capture  des  animaux sauvages,  l'organisation  et  le  contrôle  des  campagnes  agricoles,  la    fixation des prix des produits agricoles ;
+20. l'élaboration des programmes agricoles et forestiers et leur exécution conformément aux normes du planning national, l'affectation du personnel agricole, des cadres conformément aux dispositions du statut des agents de carrière des services publics de l'Etat, l'application de la législation nationale concernant l'agriculture, la forêt, la chasse et la pêche ainsi que l'environnement, la conservation de la nature et la capture des animaux sauvages, l'organisation et le contrôle des campagnes agricoles, la fixation des prix des produits agricoles ;
 
-- l'affectation en province du personnel vétérinaire conformément au statut des agents de carrière des services publics de l'Etat; l'élaboration des programmes de campagne de santé animale et l'application des mesures de police  sanitaire  vétérinaire  notamment  en  ce  qui  concerne  les  postes frontaliers et de quarantaine ;
+21. l'affectation en province du personnel vétérinaire conformément au statut des agents de carrière des services publics de l'Etat; l'élaboration des programmes de campagne de santé animale et l'application des mesures de police sanitaire vétérinaire notamment en ce qui concerne les postes frontaliers et de quarantaine ;
 
 [[END OF PAGE 70]]
 
@@ -2756,21 +2771,21 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 71
 
-- l'organisation des campagnes de vaccination contre les maladies enzootiques,  l'organisation  des  laboratoires,  cliniques  et  dispensaires  de  la provenderie  ainsi  que  l'application  de  la  législation  nationale  en  matière vétérinaire, l'organisation de la promotion de  santé de base ;
+22. l'organisation des campagnes de vaccination contre les maladies enzootiques, l'organisation des laboratoires, cliniques et dispensaires de la provenderie ainsi que l'application de la législation nationale en matière vétérinaire, l'organisation de la promotion de santé de base ;
 
-- le  tourisme,  le  patrimoine  historique,  les  monuments  publics  et  les  parcs d'intérêt provincial et local ;
+23. le tourisme, le patrimoine historique, les monuments publics et les parcs d'intérêt provincial et local ;
 
-- l'habitat  urbain  et  rural,  la  voirie  et  les  équipements  collectifs  provinciaux  et locaux ;
+24. l'habitat urbain et rural, la voirie et les équipements collectifs provinciaux et locaux ;
 
-- l'inspection des activités culturelles et sportives provinciales ;
+25. l'inspection des activités culturelles et sportives provinciales ;
 
-- l'exploitation  des  sources  d'énergie  non  nucléaire  et  la  production  de  l'eau pour les besoins de la province ;
+26. l'exploitation des sources d'énergie non nucléaire et la production de l'eau pour les besoins de la province ;
 
-- l'exécution des mesures  du droit de résidence et d'établissement des étrangers, conformément à la loi ;
+27. l'exécution des mesures du droit de résidence et d'établissement des étrangers, conformément à la loi ;
 
-- l'exécution du droit coutumier ;
+28. l'exécution du droit coutumier ;
 
-- la planification provinciale.
+29. la planification provinciale.
 
 ##### Article 205
 
@@ -2902,17 +2917,17 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 # TITRE VII : DE LA REVISION CONSTITUTIONNELLE
 
-##### Article 218 (modifié par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
+##### Article 218 (modifié par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo)
 
 L'initiative de la révision constitutionnelle appartient concurremment :
 
-- au Président de la République;
+1. au Président de la République;
 
-- au Gouvernement après délibération en Conseil des ministres;
+2. au Gouvernement après délibération en Conseil des ministres;
 
-- à chacune des Chambres du Parlement à l'initiative de la moitié de ses membres ;
+3. à chacune des Chambres du Parlement à l'initiative de la moitié de ses membres ;
 
-- à une fraction du peuple congolais, en l'occurrence 100.000 personnes, s'exprimant par une pétition adressée à l'une des deux Chambres.
+4. à une fraction du peuple congolais, en l'occurrence 100.000 personnes, s'exprimant par une pétition adressée à l'une des deux Chambres.
 
 Chacune de ces initiatives  est  soumise  à  l'Assemblée  nationale  et  au  Sénat  qui décident, à la majorité absolue de chaque Chambre, du bien fondé du projet, de la proposition ou de la pétition de révision.
 
@@ -2964,7 +2979,7 @@ En  attendant  l'installation  des  juridictions  de  l'ordre  administratif,  l
 
 La  Cour  de  sûreté  de  l'Etat  est  dissoute  dès  l'entrée  en  vigueur  de  la  présente Constitution.
 
-##### Article 226 (Révisé par l'article 1 er  de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
+##### Article 226 (Révisé par l'article 1er de la Loi n° 11/002 du 20 janvier 2011 portant révision  de  certains  articles  de  la  Constitution  de  la  République Démocratique du Congo)
 
 Une  loi  de  programmation  détermine  les  modalités  d'installation  de  nouvelles provinces citées à l'article 2 de la présente Constitution.
 
@@ -3090,21 +3105,19 @@ Les nouvelles Institutions de la République Démocratique du Congo sont :
 
 Les préoccupations majeures qui président à l'organisation de ces Institutions sont les suivantes :
 
-- assurer le fonctionnement harmonieux des Institutions de l'Etat ;
+1. assurer le fonctionnement harmonieux des Institutions de l'Etat ;
 
-- éviter les conflits ;
+2. éviter les conflits ;
 
-- instaurer un Etat de droit ;
+3. instaurer un Etat de droit ;
 
-- contrer toute tentative de dérive dictatoriale ;
+4. contrer toute tentative de dérive dictatoriale ;
 
-- garantir la bonne gouvernance ;
+5. garantir la bonne gouvernance ;
 
-- lutter contre l'impunité ;
+6. lutter contre l'impunité ;
 
-- 7.
-
-- assurer l'alternance démocratique.
+7. assurer l'alternance démocratique.
 
 C'est  pourquoi,  non  seulement  le  mandat  du  Président  de  la  République  n'est renouvelable  qu'une  seule  fois,  mais  aussi  il  exerce  ses  prérogatives  de  garant  de  la Constitution, de  l'indépendance  nationale, de  l'intégrité territoriale, de  la souveraineté nationale, du respect des accords et traités internationaux ainsi que celles de régulateur et d'arbitre  du  fonctionnement normal des Institutions de la République avec l'implication du
 
@@ -3172,17 +3185,25 @@ Journal Officiel - Constitution de la République Démocratique du Congo 85
 
 ## EXPOSE DES MOTIFS DE LA LOI N° 11/002 DU 20 JANVIER 2011 PORTANT REVISION DE CERTAINS ARTICLES DE LA CONSTITUTION DE LA REPUBLIQUE DEMOCRATIQUE DU CONGO DU 18 FEVRIER 2006
 
-Depuis l'entrée en vigueur, le 18 février 2006, de la Constitution de la République Démocratique  du  Congo,  le  fonctionnement  des  institutions  politiques  tant  centrales  que provinciales a fait apparaître des situations concrètes, des contraintes et des problèmes non prévus par le constituant originaire. En  effet,  d'une  part,  certaines  dispositions  se  sont  révélées  handicapantes  et inadaptées aux réalités politiques et socio-économiques de la République Démocratique du Congo.  D'autre  part,  des  dysfonctionnements  imprévus  par  le  constituant  originaire  sont apparus dans la vie des institutions de la République tant au niveau national que provincial. La présente loi a pour finalité de donner des réponses adéquates aux problèmes posés aux institutions de la République depuis le début de la première législature de la III ème République  afin  d'assurer  le  fonctionnement  régulier  de  l'Etat  et  de  la  jeune  démocratie congolaise. Dès lors, il ne s'agit pas de procéder à un ajustement constitutionnel qui remettrait en  cause  les  options  fondamentales  levées  par  le  constituant  originaire,  notamment  en matière  d'organisation du  pouvoir  d'Etat et de  l'espace  territorial  de  la  République Démocratique du Congo. Dans cette perspective, la présente révision concerne les huit articles indiqués ciaprès sur les 229 que compte la Constitution :
+Depuis l'entrée en vigueur, le 18 février 2006, de la Constitution de la République Démocratique du Congo, le fonctionnement des institutions politiques tant centrales que provinciales a fait apparaître des situations concrètes, des contraintes et des problèmes non prévus par le constituant originaire.
 
-- L'article  71  organise  l'élection  du  Président  de  la  République  à  la  majorité simple des suffrages exprimés.
+En effet, d'une part, certaines dispositions se sont révélées handicapantes et inadaptées aux réalités politiques et socio-économiques de la République Démocratique du Congo. D'autre part, des dysfonctionnements imprévus par le constituant originaire sont apparus dans la vie des institutions de la République tant au niveau national que provincial.
 
-- L'article 110 institue le droit du Député national ou du Sénateur de retrouver son mandat après l'exercice d'une fonction politique incompatible.
+La présente loi a pour finalité de donner des réponses adéquates aux problèmes posés aux institutions de la République depuis le début de la première législature de la IIIème République afin d'assurer le fonctionnement régulier de l'Etat et de la jeune démocratie congolaise.
 
-- L'article 126 prévoit l'ouverture des crédits provisoires dans le cas du renvoi au  Parlement, par le Président de la République,  pour une  nouvelle délibération du projet de loi de finances voté en temps utile et transmis pour promulgation avant l'ouverture du nouvel exercice budgétaire.
+Dès lors, il ne s'agit pas de procéder à un ajustement constitutionnel qui remettrait en cause les options fondamentales levées par le constituant originaire, notamment en matière d'organisation du pouvoir d'Etat et de l'espace territorial de la République Démocratique du Congo.
 
-- L'article 149. L'amendement introduit à cet article consiste en la suppression du Parquet dans l'énumération des titulaires du pouvoir judiciaire. Celui-ci est dévolu  aux  seuls  cours  et  tribunaux.  Cet  amendement  remet  ainsi  en harmonie l'article 149 avec les articles 150 et 151 qui proclament l'indépendance du seul magistrat du siège dans sa mission de dire le droit ainsi que son inamovibilité.
+Dans cette perspective, la présente révision concerne les huit articles indiqués ci-après sur les 229 que compte la Constitution :
 
-- Les articles  197  et  198 reconnaissent au  Président de  la  République,  sans restreindre les prérogatives des provinces, en concertation avec les Bureaux de l'Assemblée nationale et du Sénat, le pouvoir de dissoudre une
+1. L'article 71 organise l'élection du Président de la République à la majorité simple des suffrages exprimés.
+
+2. L'article 110 institue le droit du Député national ou du Sénateur de retrouver son mandat après l'exercice d'une fonction politique incompatible.
+
+3. L'article 126 prévoit l'ouverture des crédits provisoires dans le cas du renvoi au Parlement, par le Président de la République, pour une nouvelle délibération du projet de loi de finances voté en temps utile et transmis pour promulgation avant l'ouverture du nouvel exercice budgétaire.
+
+4. L'article 149. L'amendement introduit à cet article consiste en la suppression du Parquet dans l'énumération des titulaires du pouvoir judiciaire. Celui-ci est dévolu aux seuls cours et tribunaux. Cet amendement remet ainsi en harmonie l'article 149 avec les articles 150 et 151 qui proclament l'indépendance du seul magistrat du siège dans sa mission de dire le droit ainsi que son inamovibilité.
+
+5. Les articles 197 et 198 reconnaissent au Président de la République, sans restreindre les prérogatives des provinces, en concertation avec les Bureaux de l'Assemblée nationale et du Sénat, le pouvoir de dissoudre une
 
 [[END OF PAGE 85]]
 
@@ -3192,11 +3213,11 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 86
 
-- Assemblée  provinciale  ou  relever  de  ses  fonctions  un  Gouverneur  de province  en  cas  de  crise  grave  et  persistante  menaçant  le  fonctionnement régulier des institutions provinciales.
+Assemblée provinciale ou relever de ses fonctions un Gouverneur de province en cas de crise grave et persistante menaçant le fonctionnement régulier des institutions provinciales.
 
-- L'article 218 reconnaît au Président de la République le pouvoir de convoquer le référendum prévu audit article pour  l'approbation d'une révision constitutionnelle.
+6. L'article 218 reconnaît au Président de la République le pouvoir de convoquer le référendum prévu audit article pour l'approbation d'une révision constitutionnelle.
 
-- L'article 226  transfère à la loi la compétence  de  fixer les modalités d'installation de nouvelles provinces citées à l'article 2 de la Constitution
+7. L'article 226 transfère à la loi la compétence de fixer les modalités d'installation de nouvelles provinces citées à l'article 2 de la Constitution
 
 Telle  est  la  quintessence  de  la  présente  loi  portant    révision  de  certaines dispositions de la Constitution du 18 février 2006.
 
@@ -3212,11 +3233,68 @@ Journal Officiel - Constitution de la République Démocratique du Congo
 
 # TABLE DES MATIERES
 
+PREAMBULE .......................................................................................................................... 7
+TITRE Ier : DES DISPOSITIONS GENERALES ......................................................................... 8
+Chapitre 1er : De l'Etat et de la Souveraineté .............................................................................. 8
+Section 1ère : De l'Etat ..................................................................................................... 8
+Section 2 : De la Souveraineté ........................................................................................... 9
+Chapitre 2 : De la Nationalité ................................................................................................... 10
+TITRE II : DES DROITS HUMAINS, DES LIBERTES FONDAMENTALES ET DES DEVOIRS DU CITOYEN ET DE L'ETAT ....................................................................................................... 11
+Chapitre 1er : Des Droits civils et politiques .............................................................................. 11
+Chapitre 2 : Des droits économiques, sociaux et culturels. ........................................................ 16
+Chapitre 3 : Des droits collectifs .............................................................................................. 21
+Chapitre 4 : Des devoirs du citoyen .......................................................................................... 23
+TITRE III. : DE L'ORGANISATION ET DE L'EXERCICE DU POUVOIR .................................... 25
+Chapitre Ier : Des institutions de la République. ....................................................................... 25
+Section 1ère : Du pouvoir exécutif .................................................................................... 25
+Paragraphe Ier : Du Président de la République. ....................................................... 25
+Paragraphe 2 : Du Gouvernement ........................................................................... 30
+Paragraphe 3 : Des dispositions communes au Président de la République et au Gouvernement. ....................................................................................................... 31
+Section 2 : Du pouvoir législatif ........................................................................................ 33
+Paragraphe 1er : De l'Assemblée nationale ................................................................ 33
+Paragraphe 2 : Du Sénat ......................................................................................... 34
+Paragraphe 3 : Des immunités et des incompatibilités ................................................ 35
+Paragraphe 4 : Des droits des députés nationaux ou des sénateurs ........................... 36
+Paragraphe 5 : De la fin et de la suspension du mandat de député national ou de sénateur (Révisé par l'article 2 de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo) .................................................................. 36
+Paragraphe 6 : Du fonctionnement de l'Assemblée nationale et du Sénat ................... 37
+Section 3 : Des rapports entre le pouvoir exécutif et le pouvoir législatif. ............................. 41
+Section 4 : Du Pouvoir judiciaire ....................................................................................... 50
+Paragraphe 1 : Dispositions générales ...................................................................... 50
+Paragraphe 2 : Des juridictions de l'ordre judiciaire .................................................... 52
+Paragraphe 3 : Des juridictions de l'ordre administratif ............................................... 53
+Paragraphe 4 : Des juridictions militaires ................................................................... 54
+
 [[END OF PAGE 87]]
 
 [[START OF PAGE 88]]
 
 Journal Officiel - Constitution de la République Démocratique du Congo 88
+
+Paragraphe 5 : De la Cour constitutionnelle ............................................................... 54
+Section 5 : Des Finances publiques .................................................................................. 58
+Paragraphe 1er : Des dispositions générales ............................................................. 58
+Paragraphe 2 : De la Banque Centrale ........................................................................... 59
+Paragraphe 3 : De la Cour des comptes .......................................................................... 59
+Paragraphe 4 : De la Caisse nationale de péréquation .................................................... 60
+Section 6 : De la Police nationale et des Forces armées .................................................... 60
+Paragraphe 1er : De la Police nationale ........................................................................... 60
+Paragraphe 2 : Des Forces armées ................................................................................. 61
+Section 7 : De l'Administration publique ............................................................................ 62
+Chapitre 2 : Des Provinces ...................................................................................................... 62
+Section 1 : Des Institutions politiques provinciales ................................................................... 62
+Section 2 : De la répartition des compétences entre le pouvoir central et les provinces ....... 65
+Section 3 : De l'autorité coutumière .......................................................................................... 72
+TITRE IV : DU CONSEIL ECONOMIQUE ET SOCIAL .............................................................. 72
+TITRE V : DES INSTITUTIONS D'APPUI A LA DEMOCRATIE ................................................. 73
+Chapitre 1er : De la Commission électorale nationale indépendante .......................................... 73
+Chapitre 2 : Du conseil supérieur de l'audiovisuel et de la communication .................................. 73
+TITRE VI : DES TRAITES ET ACCORDS INTERNATIONAUX .................................................. 74
+TITRE VII : DE LA REVISION CONSTITUTIONNELLE ............................................................. 75
+TITRE VIII : DES DISPOSITIONS TRANSITOIRES ET FINALES .............................................. 76
+A P P E N D I C E .................................................................................................................. 79
+Exposé des motifs de la Constitution du 18 février 2006 ............................................................ 81
+Exposé des motifs de la Loi n° 11/002 du 20 janvier 2011 portant révision de certains articles de la Constitution de la République Démocratique du Congo du 18 février 2006 .................................. 85
+TABLE DES MATIERES ........................................................................................................ 87
 
 [[END OF PAGE 88]]
 
