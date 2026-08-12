@@ -6,13 +6,13 @@ MINISTRY OF EDUCATION AND VOCATIONAL TRAINING
 
 # TECHNICAL AND VOCATIONAL EDUCATION AND TRAINING DEVELOPMENT PROGRAMME (TVETDP)
 
-2013/2014 - 2017/2018
+2013/2014 – 2017/2018
 
 Incorporated inputs by Stakeholders and TVET-TWG
 
 Dar es Salaam
 
-16 th February 2013
+16th February 2013
 
 [[END OF PAGE 1]]
 
@@ -20,11 +20,77 @@ Dar es Salaam
 
 # CONTENTS
 
+FOREWORD iv
+EXECUTIVE SUMMARY vi
+GLOSSARY xi
+ABBREVIATIONS AND ACRONYMS xiii
+1.0 INTRODUCTION 1
+1.1 Background on the Education Sector and TVET Sub-sector in Tanzania 1
+1.1.1 Formal Education and Training 1
+1.1.2 Non Formal Education and Training 1
+1.1.3 Folk Education 2
+1.1.4 Technical and Vocational Education and Training 2
+1.2 Rationale of TVETDP 2
+1.3 Methodology used in Programme development 3
+1.4 Overview of the TVETDP Document 4
+2.0 STRATEGIC CONTEXT 5
+2.1 Highlights of the Situation Analysis 5
+2.1.1 Scope and approach 5
+2.1.2 Major findings 5
+2.1.3 TVET Opportunities and key drivers 8
+2.1.4 Major challenges 8
+2.1.5 Strengths of the TVET system 9
+2.1.6 Weaknesses of the TVET system 10
+2.2 Strategic Direction 11
+2.2.1 Clarification of the skills gap 11
+2.2.2 Projection of learners’ enrolment for addressing the skills gap 15
+2.2.3 Projection of staff requirements for realising the enrolment targets 16
+2.2.4 Projection of physical resources requirements 16
+2.2.5 Strategic interventions 17
+3.0 PROGRAMME DESCRIPTION 21
+3.1 Vision and Mission 21
+3.2 Priority Areas 21
+3.3 Improving Access and Equity 21
+
 ii
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
+
+3.4 Improving the Quality of Outputs 23
+3.5 Improving the Capacity to provide Quality TVET 24
+3.6 Improving Monitoring and Evaluation of TVET Subsector 28
+3.7 Major Activities and Key Inputs 28
+4.0 PROGRAMME IMPLEMENTATION 29
+4.1 Overall Management Structure of the Programme 29
+4.2 Institutional Arrangements 30
+4.2.1 Education Sector Dialogue Structure 30
+4.2.2 Stakeholders Annual Forum 30
+4.2.3 Ministerial level 30
+4.2.4 TVET Implementation Coordinating Team 31
+4.2.5 TVET Quality Assurance agencies 31
+4.2.6 Private sector and other employers 32
+4.2.7 TVET providing institutions 33
+4.2.8 Other agencies supporting TVET 33
+4.2.9 Development Partners in TVET 34
+4.2.10 Workers, graduates and learners 34
+4.2.11 Other stakeholders 34
+4.3 Monitoring and Evaluation Framework 34
+4.4 TVETDP Budget 35
+4.4.1 Financial implications 35
+4.4.2 Programme Financing 36
+4.5 Sustainability and Risks 41
+BIBLIOGRAPHY 43
+ANNEX 1: Skills Gap for attaining MIC Status and corresponding enrolment of learners 44
+ANNEX 2: Projection of TVET Learners according to Study Levels 52
+ANNEX 3: Projection of required number of Staff for meeting Enrolment Targets 56
+ANNEX 4: Projection of Space Requirements for meeting Enrolment Targets 58
+ANNEX 5: Major Activities of the Programme 59
+ANNEX 6: Key Inputs/Minor Activities for Costing 91
+ANNEX 7: Logical Framework Matrix for Monitoring and Evaluation of TVETDP 97
+ANNEX 8: Indicative Cost Implications 101
+ANNEX 9: TVETDP Financing Sources and Gaps 108
 
 iii
 
@@ -118,15 +184,17 @@ With the traditional residential teaching and learning methods under prevailing 
 
 ## Strategic Interventions
 
-Some strategic decisions have been adopted to reduce the implications on resources for attaining the projected expansion of learners' enrolment to manageable levels without compromising on quality  of  outputs.  These  include  widening  of  the  catchment  for  recruitment  of  facilitators, improving  the  capacity  of  TVET  teacher  training  institutions  to  be  able  to  train  an  increased number of new recruits without pedagogical skills, enhancing cooperation with the private sector (industry/major  employers)  towards  enhancing  the  practical  skills  of  those  recruited  with deficiencies, and availing conducive working environment and incentive mechanisms to ensure retention of staff. ICT mediated teaching and learning will also be key ingredient in reducing the magnitude of staff requirements, where applicable. It is also strategized to identify few strategic investments  which  are  realistic  over  the  five  years  period,  while  putting  more  emphasis  on strategic  partnerships  with  industry  to  introduce  complimenting  apprenticeship  and  other  nonresidential/part-time modes of training and their combinations.
+Some strategic decisions have been adopted to reduce the implications on resources for attaining the projected expansion of learners’ enrolment to manageable levels without compromising on quality of outputs. These include widening of the catchment for recruitment of facilitators, improving the capacity of TVET teacher training institutions to be able to train an increased number of new recruits without pedagogical skills, enhancing cooperation with the private sector (industry/major employers) towards enhancing the practical skills of those recruited with deficiencies, and availing conducive working environment and incentive mechanisms to ensure retention of staff. ICT mediated teaching and learning will also be key ingredient in reducing the magnitude of staff requirements, where applicable. It is also strategized to identify few strategic investments which are realistic over the five years period, while putting more emphasis on strategic partnerships with industry to introduce complimenting apprenticeship and other non-residential/part-time modes of training and their combinations.
 
-Specifically,  it  is  strategized  that  30%  of  the  projected  enrolment  be  realized  through  ICT mediated teaching and learning, 10%  through flexible training programmes (i.e. parttime/evening  courses  and  the  likes),  25%  through  short  courses  and  RPL,  30%  through conventional full-time residential training programmes, 5% through tailored skills enhancement programmes  for  employees  in  industry,  and  1%  through  piloting  apprenticeship/work  based training.  The  contribution  of  the  apprenticeship  programmes  is  strategized  to  increase  after piloting and with the expansion of the industrial base. With such arrangement, 56 new DVTCs, 10 new specialized TET institutions and 4 new institutions for training of TVET facilitators will be constructed to collectively absorb 42,000 full time equivalent learners (at least 500 in each) in addition  to  350,000  to  be  enrolled  under  other  non-residential/part-time  modes  of  training.  A further 300 existing institutions will be upgraded, to collectively enroll at least 300,000 full time equivalent learners. All these institutions and others will also have provisions for offering other modes of teaching and learning so as to allow enrolment of at least additional 438,272 learners under flexible training programmes, short courses for continuing education and  towards RPL. It will be conditional for institutions covered under the above arrangements to focus in the training of  learners  towards  critical  occupations  for  realization  of  FYDP  and  eventually  Tanzania Development Vision 2025.
+Specifically, it is strategized that 30% of the projected enrolment be realized through ICT mediated teaching and learning, 10% through flexible training programmes (i.e. part-time/evening courses and the likes), 25% through short courses and RPL, 30% through conventional full-time residential training programmes, 5% through tailored skills enhancement programmes for employees in industry, and 1% through piloting apprenticeship/work based training. The contribution of the apprenticeship programmes is strategized to increase after piloting and with the expansion of the industrial base. With such arrangement, 56 new DVTCs, 10 new specialized TET institutions and 4 new institutions for training of TVET facilitators will be constructed to collectively absorb 42,000 full time equivalent learners (at least 500 in each) in addition to 350,000 to be enrolled under other non-residential/part-time modes of training. A further 300 existing institutions will be upgraded, to collectively enroll at least 300,000 full time equivalent learners. All these institutions and others will also have provisions for offering other modes of teaching and learning so as to allow enrolment of at least additional 438,272 learners
 
 viii
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
+
+under flexible training programmes, short courses for continuing education and towards RPL. It will be conditional for institutions covered under the above arrangements to focus in the training of learners towards critical occupations for realization of FYDP and eventually Tanzania Development Vision 2025.
 
 ## Project Description and Implementation
 
@@ -198,7 +266,7 @@ Vocational Education and Training (VET): A system which aims at providing learne
 
 Technical Education and Training (TET): The education designed at post secondary level to prepare middle-level personnel (associate professionals and technicians) and at tertiary level, to prepare professionals for higher management positions.
 
-Technical and Vocational Education and Training (TVET ) : Aspects of educational process involving - in addition to general education - the study of technologies and related sciences and the acquisition of practical skills, attitudes, understanding and knowledge relating to occupations in various sectors of economic life.
+Technical and Vocational Education and Training (TVET): Aspects of educational process involving - in addition to general education - the study of technologies and related sciences and the acquisition of practical skills, attitudes, understanding and knowledge relating to occupations in various sectors of economic life.
 
 Accreditation: The  act  of  granting  credit  or  recognition  of  a  TVET  institution  or  training programme that such institution/programme complies with the prescribed quality standards and institutional quality assurance system exists to guarantee sustainability of the same.
 
@@ -344,7 +412,7 @@ xiv
 
 ### 1.1.1 Formal Education and Training
 
-In  Tanzania,  Education  in  overall  is  broadly  divided  into  formal  and  non  formal  components.  The formal education component has a 2 - 7 - 4 - 2 - 3+ structure. This entails starting with 2 years of Preprimary education, for children aged 5-6 years with no examinations for promotion purpose, followed by 7 years of primary education (STD I-VII), which is universal and compulsory to all children aged 713 years.  There is STD VII examination which marks the completion of Primary Education and results are used to guide selection into the subsequent level of formal education - secondary education. The formal  secondary  education  consists  of  two  subsequent  cycles.  The  first  is  a  4  year  programme  of Ordinary Level (O-Level) secondary education (Form I-IV) covering the official school attending age range of 14-17 years, and the subsequent 2 years of Advanced Level (A-Level) secondary education (Form  V-VI)  mainly  for  youths  of  18-19  years  of  age.  Form  IV  and  Form  VI  examinations  mark completion of secondary education cycles and the results are used for selection of students for further formal education as well as non formal education and training. The selection and enrolment into ALevel secondary education is based on prescribed performance in relevant A-Level subject combinations  after  attainment  of  appropriate  credits  in  the  Certificate  of  Secondary  Education Examination.
+In Tanzania, Education in overall is broadly divided into formal and non formal components. The formal education component has a 2 – 7 – 4 – 2 – 3+ structure. This entails starting with 2 years of Pre-primary education, for children aged 5-6 years with no examinations for promotion purpose, followed by 7 years of primary education (STD I-VII), which is universal and compulsory to all children aged 7-13 years. There is STD VII examination which marks the completion of Primary Education and results are used to guide selection into the subsequent level of formal education - secondary education. The formal secondary education consists of two subsequent cycles. The first is a 4 year programme of Ordinary Level (O-Level) secondary education (Form I-IV) covering the official school attending age range of 14-17 years, and the subsequent 2 years of Advanced Level (A-Level) secondary education (Form V-VI) mainly for youths of 18-19 years of age. Form IV and Form VI examinations mark completion of secondary education cycles and the results are used for selection of students for further formal education as well as non formal education and training. The selection and enrolment into A-Level secondary education is based on prescribed performance in relevant A-Level subject combinations after attainment of appropriate credits in the Certificate of Secondary Education Examination.
 
 University education is part of higher education and is provided after completion of A-Level secondary and  attainment  of  appropriate  principals  in  the  Advanced  Certificate  of  Secondary  Education Examination. Candidates with equivalent qualifications are also eligible for admission into university education.  The  official  attending  age  for  undergraduate  degree  programmes  in  universities  is  20-24 years.
 
@@ -408,7 +476,7 @@ Industry/Employers; Private Sector umbrella organizations; Quality assurance and
 
 (vi) Pegging of activities to the formulated strategies and identification of inputs for costing;
 
-(vii) Formulation of the framework for monitoring and evaluation of the TVETDP and the subsector in general;
+(vii) Formulation of the framework for monitoring and evaluation of the TVETDP and the sub-sector in general;
 
 (viii) Clarification of institutional arrangements, financial implication and Programme financing for the first 5 years, and issues on sustainability and risks.
 
@@ -430,7 +498,7 @@ TVETDP document comprises of four chapters, namely: Introduction; Strategic Cont
 
 The analysis of the TVET sub-sector involved the scanning of the external environment surrounding TVET and preparedness of the TVET system in aligning to the same. The external environment scan included clarification  of  the  place  of  TVET  in  the  national  macro-level  development  frameworks  as well as sectoral policies/strategies and major international perspectives. Effectiveness of the national QA system for TVET was also assessed including M&E framework at national level. Assessment of the  supply  to  and  demand  of  TVET  was  critical  undertaking  in  the  scanning  of  the  external environment scan. The supply side was gauged by touching base with the achievements recorded with the various development programmes within the Education sector, including PEDP, SEDP, ANFEDP, FEDP and HEDP. This clarified the catchment of potential candidates for TVET. On the other hand, critical  skills  (type  and  levels)  required  for  realization  of  FYDP  and  hence  Tanzania  Development Vision 2025 and employers' opinion on TVET graduates were used to clarify the demand side. Major issues influencing the supply to and demand of TVET were also evaluated. These included the extent and effectiveness of involvement of employers and other external stakeholders in the affairs of TVET, perceptions on TVET, and the level and trends of TVET financing.
 
-Having clarified the major external issues that affect or could affect TVET, the capacity of the TVET sub-sector was assessed to gauge its coping ability and identify gaps. The internal analysis of the subsector  clarified  the  extent  and  effectiveness  of  TVET  regulation  and  coordination,  the  quality  and relevance of education and training programmes provided. The trends in the enrolment of learners were also  assessed  to  compare  with  the  developments  in  PEDP,  SEDP  and  HEDP.  The  extent  on  how enrolments are aligned towards achieving the required human capital balance for optimum productivity in the labour market, and towards addressing the needs of vulnerable and under-represented groups of the community were also clarified. Research and innovation as well as consultancy and services are also major functions of TVET institutions. The ability of the TVET sub-sector to take full advantage of the opportunities and address the challenges observed from the analysis of the external environment is dictated  by  its  capacity  in  terms  of  human,  physical  and  financial  resources,  as  well  as  quality management systems. These were critically  analysed.  The  details  of  the  analysis  of  the  TVET  subsector, findings and strategic recommendations are included in the TVETDP Situation Analysis Report, which  form  part  of  this  Programme  Document.  Major  findings  are  however  summarized  in  the subsequent Sections to complement the strategic context.
+Having clarified the major external issues that affect or could affect TVET, the capacity of the TVET sub-sector was assessed to gauge its coping ability and identify gaps. The internal analysis of the sub-sector clarified the extent and effectiveness of TVET regulation and coordination, the quality and relevance of education and training programmes provided. The trends in the enrolment of learners were also assessed to compare with the developments in PEDP, SEDP and HEDP. The extent on how enrolments are aligned towards achieving the required human capital balance for optimum productivity in the labour market, and towards addressing the needs of vulnerable and under-represented groups of the community were also clarified. Research and innovation as well as consultancy and services are also major functions of TVET institutions. The ability of the TVET sub-sector to take full advantage of the opportunities and address the challenges observed from the analysis of the external environment is dictated by its capacity in terms of human, physical and financial resources, as well as quality management systems. These were critically analysed. The details of the analysis of the TVET sub-sector, findings and strategic recommendations are included in the TVETDP Situation Analysis Report, which form part of this Programme Document. Major findings are however summarized in the subsequent Sections to complement the strategic context.
 
 ### 2.1.2 Major findings
 
@@ -624,6 +692,8 @@ The following weaknesses however, need to be addressed to maximize the preparedn
 
 The main aspiration in Tanzania Development Vision is to transform towards a middle income country by 2025. Based on the results of the Integrated Labour Force Survey (ILFS), 2007, FYDP has indicated significant skills gap that need to be filled by Tanzania in order to attain the middle income status. The gaps have been identified by the President's Office, Planning Commission (POPC) through a detailed study jointly executed with the International Growth Centre (IGC) of the London School of Economics in  2011.  The  study  benchmarked  14  selected  middle  income  countries  ( China,  India,  Indonesia,  Sri Lanka,  Egypt,  Malaysia,  South  Korea,  Thailand,  Philippines,  Morocco,  Jordan,  Syria,  Tunisia,  and Cote d'Ivoire ) as well as Vietnam because it shares important characteristics with Tanzania. To allow comparison, the average data from the benchmarked countries was used to represent what is referred to as the Model Medium Income Country (MMIC) as shown in Table 1.
 
+Table 1: Benchmarking of the skill profiles in Tanzania and MMIC
+
 Level of skills of workers | Major group of occupations | Proportion out of the working population [%] | Skill Gap (Required increase in % of the working population by 2025)
 --- | --- | --- | --- | --- | ---
 Tanzania | MMIC
@@ -638,15 +708,13 @@ Low | Plant and machine operators/assemblers | 1.3 | 5.66 | 4 times | 0.6 times
 Others including elementary workers | 82.4 | 48.14 | 0.6 times
 Indicative overall balance of skilled workers | 1:2:17 | 1:0.6:5
 
-Table 1: Benchmarking of the skill profiles in Tanzania and MMIC
-
 Source:
 
 POPC-IGC, ILFS, 2007 with further analysis by the Author
 
 Legend:
 
-n.a. - not available
+n.a. – not available
 
 While Table 1 indicates the skill gaps that need to be gradually filled within 13 years, the realisation cannot  be  achieved  linearly.  As  it  has  already  been  observed,  the  desired  development  in  Tanzania during the period is envisaged to come from growth in manufacturing, mining, tourism and agriculture sectors, which have to be well supported with improvements in the physical infrastructure for energy, transport, water, as well as science, technology and innovation. Like with any other major undertaking, the realisation in all these sectors follows a particular sequence of four broad stages once the idea has been adopted, namely:
 
@@ -665,6 +733,7 @@ While Table 1 indicates the skill gaps that need to be gradually filled within 1
 (iv) End  of  life  activities for  environmental  sustainability  (which  may  include  rehabilitation, recycling, safe disposal, etc)
 
 At every stage, all major groups of occupations, i.e. managers, professionals, associate professionals, skilled workers and elementary workers are required, though to a different levels, The indicative extent of  requirements  of  key  skills  for  the  various  priority  areas  of  FYDP  as  per  the  author's  opinion  are shown in Table 2, where '1' implies high, '2' intermediate, and '3' low requirement, in relative terms.
+Table 2: Indicative extent of requirements in key skills at different stages of realisation
 
 FYDP 2011/12-2015/16 PRIORITY | BROAD PHASE/STAGE OF UNDERTAKING
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -686,7 +755,7 @@ STI | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3
 Human capital development | Education | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3
 Health/welfare | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3 | 1 | 2 | 3
 
-Table 2: Indicative extent of requirements in key skills at different stages of realisation
+
 
 Legend:
 
@@ -698,7 +767,7 @@ SW - Skilled worker
 
 From  the  above,  it  is  apparent  that  generally,  the  requirements  for  professionals  dominate  during planning  and  development  stage,  as  well  as  for  guiding  the  end  of  life  activities.  Associate professionals  or  technicians  on  the  other  hand  are  most  critical  during  preparation  stage  and  to  a significant extent in actual realisation of the sector undertakings, while skilled workers have greatest roles during actual realisation and to significant extents during construction phase and in end of life activities which are often labour intensive.
 
-The distribution  of  the  skills  gap  over  the  next  13  years  and  strategies  for  redressing  will  therefore touch  base  with  this  fact.  For  example,  although  the  shortfall  in  Associate  Professionals  and Technicians is three folds compared to the need by 2025, the realistic gap is much higher during the first five or so years in which most major undertakings will be in planning and preparation stages. The gap in the requirement of technicians will also be much higher taking into consideration the significant imbalance observed in students enrolment trends over the last few years, inclining to programmes for professionals  than  for  associate  professionals.  This  fact  is  liable  to  further  distort  the  human  capital balance during the first 5 or so years, if deliberate efforts to compensate are not taken.
+The distribution of the skills gap over the next 13 years and strategies for redressing will therefore touch base with this fact. For example, although the shortfall in Associate Professionals and Technicians is three folds compared to the need by 2025, the realistic gap is much higher during the
 
 12
 
@@ -706,7 +775,11 @@ The distribution  of  the  skills  gap  over  the  next  13  years  and  strateg
 
 [[START OF PAGE 27]]
 
+first five or so years in which most major undertakings will be in planning and preparation stages. The gap in the requirement of technicians will also be much higher taking into consideration the significant imbalance observed in students enrolment trends over the last few years, inclining to programmes for professionals than for associate professionals. This fact is liable to further distort the human capital balance during the first 5 or so years, if deliberate efforts to compensate are not taken.
+
 The intermediate targets for 2015/16 set in FYDP for high skilled workers are shown in Table 3.
+
+Table 3: Targets for high skilled workers according to FYDP, 2015/16
 
 Broad Study Group | Occupation | FYDP Target | TDV Target
 --- | --- | --- | --- | --- | ---
@@ -726,7 +799,7 @@ Government executive officials | 84,000 | 278,000
 Education | Teachers | 320,000 | 320,000 | 1,061,000 | 1,061,000
 Total | 932,000 | 2,030,400
 
-Table 3: Targets for high skilled workers according to FYDP, 2015/16
+
 
 Source:
 
@@ -739,6 +812,8 @@ Based on the intermediate targets shown in Table 3 and earlier observations rega
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
+
+Table 4: Skills gaps during the short, medium and long terms in summary
 
 Broad field of study | Major Group of Occupation | Present status (2012/13) | Short term target (2015/16) | Medium term target (2017/18) | Long term target (2024/25)
 --- | --- | --- | --- | --- | ---
@@ -781,7 +856,7 @@ Medium skilled workers | 997,800 | 1,241,400 | 1,442,040 | 2,035,260
 Low skilled workers | 67,784 | 106,200 | 135,000 | 316,480
 Total | 19,965,648 | 20,940,177 | 22,097,429 | 27,748,888
 
-Table 4: Skills gaps during the short, medium and long terms in summary
+
 
 Legend:  n.a. - not available
 
@@ -797,6 +872,8 @@ In  filling  the  gaps  in  terms  of  coverage,  TVETDP  needs  also  to  consi
 
 The learners' enrolment for 2012/13 is derived from existing data for 2011/12 with an annual growth rate at 10% for all cases in TET. In VET, the assumed growth rates are 10% for EMC, Science and HAW, 33% for Agriculture, and 50% for Services,  SBL,  TVET Methodology,  and  Humanities and Arts, which are in line with the average rates over the period 2007/08-2011/12. Subsequent enrolment data for the Programme Period (2013/14 to 2017/18) are derived from a 10% increase of the annual graduate deficits (skills gaps per annum) shown in Annex 1 (summarized in Table 4) to take care of potential drop-outs. The current average drop-out rate in TVET is about 5-7%. It is important to note however, that Professionals are trained in TET as well as the higher education system in universities. Hence, the skills gaps at that level are distributed between the two systems, aiming to reach the ratio of 60:40  between  TET  and  Universities  graduates  in  EMC  by  2017/18;  50:50  in  Agriculture;  30:70  in Science, HAW, and SBL; 50:50 in Services; and 75:25 in TVET methodology training. The prediction of learners' enrolment in the various levels of study for the 8 broad fields is shown in Annex 2 and summarized in Table 5.
 
+Table 5: Projections of learners' enrolment at different study levels
+
 MAJOR STUDY LEVELS | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 Postgraduate students | 3,250 | 3,605 | 4,040 | 4,625 | 5,640 | 6,995
@@ -809,7 +886,7 @@ Short courses | 32,646 | 77,232 | 121,826 | 179,474 | 238,205 | 351,774
 Total students in VET | 186,749 | 442,461 | 541,358 | 685,677 | 812,690 | 1,012,967
 Grand Total students in TVET | 290,142 | 574,992 | 734,273 | 918,581 | 1,134,155 | 1,413,916
 
-Table 5:  Projections of learners' enrolment at different study levels
+
 
 Note: Total learners in 2011/12 were 233,795 including 112,447 in TET and 121,348 in VET (BEST, 2012)
 
@@ -825,6 +902,8 @@ It  is  observed that for the five years period of the first phase of TVETDP (20
 
 In order to maintain quality of TVET provision and hence output graduates, the TVET system needs to have adequate and appropriate staff for facilitation and support. Current academic quality standards by NACTE specify students to staff (learner to facilitator) ratio of 8:1 for TET institutions, and by VETA a  ratio  of  16:1  for  VET  institutions.  Norms  for  other  supporting  staff  are  missing  but  for  planning purposes  it  is  recommended  to  at  least  have  one  technical  staff  (e.g.  laboratory  and  workshop technicians  and  artisans,  studio  attendants,  and  other  associate  professionals  and  skilled  workers directly supporting the teaching staff) for every 4 teaching staff and one administrative staff for every 12 teaching staff. The detailed cumulative requirements of TVET teaching staff (facilitators) computed based on the above norms and recommendations are shown in Annex 3 and summarised in Table 6.
 
+Table 6: Summary of cumulative requirements of TVET staff with conventional training methods
+
 STAFF CATEGORY | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 TET Facilitators (teaching staff) | 12,924 | 16,566 | 24,114 | 29,113 | 40,183 | 50,119
@@ -834,22 +913,24 @@ Total technical staff in TVET | 7,518 | 13,131 | 16,778 | 20,250 | 25,362 | 30,4
 Total administrative staff in TVET | 1,879 | 3,283 | 4,195 | 5,063 | 6,341 | 7,620
 Grand Total staff | 31,952 | 55,807 | 71,308 | 86,064 | 107,791 | 129,545
 
-Table 6:   Summary of cumulative requirements of TVET staff with conventional training methods
+
 
 Note : In 2011/12 TVET system had 7,600 facilitators including 4,590 in TET and 3,010 in VET (BEST, 2012)
 
-As it is apparent in Table 6, the number of facilitators in 2011/12 stood at 7,600 in total. Compared to the requirements of 91,444 facilitators within the first five years period of the Programme (2013/142017/18), there is need to avail  additional 83,844 such staff. This is a major investment in terms of recruitment, staff development and retention.
+As it is apparent in Table 6, the number of facilitators in 2011/12 stood at 7,600 in total. Compared to the requirements of 91,444 facilitators within the first five years period of the Programme (2013/14-2017/18), there is need to avail additional 83,844 such staff. This is a major investment in terms of recruitment, staff development and retention.
 
 ### 2.2.4 Projection of physical resources requirements
 
 Quality of TVET provision is also highly influenced by the status of physical infrastructure including space  (buildings  and  related  infrastructure)  for  academic  and  welfare  of  staff  and  learners.  The planning norm for TVET institutions offering variety of courses specifies 7.5 to 10 square metres per each full time equivalent learner. In addition to employing the traditional modes of classroom training, the envisaged expansion of enrolment is however to be achieved with various other modes of training including formal and informal apprenticeship with/by industry, evening classes, ODL and RPL, as well as combinations thereof. This leads to the assumption to use the reduced limit of 5.0-7.5 square metres per learner in TET and VET, respectively. The projected space requirements are obtained by applying these to the learners' enrolment figures as presented in Annex 4 and the total highlighted in Table 7.
+
+Table 7: Cumulative space requirements (Square metres)
 
 SPACE CATEGORY | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 Space requirements in TET | 775,448 | 993,983 | 1,446,863 | 1,746,780 | 2,410,988 | 3,007,118
 Space requirements in VET | 933,745 | 2,212,305 | 2,706,790 | 3,428,385 | 4,063,450 | 5,064,835
 
-Table 7: Cumulative space requirements (Square metres)
+
 
 16
 
@@ -868,6 +949,8 @@ A decision should therefore be made to identify a few manageable strategic inves
 
 Considering the extent of investments in terms of human and physical resources required for meeting the  enrolment  targets,  it  is  crucial  to  consider  some  interventions  that  will  reduce  the  pressure  on resources  to  manageable  levels  without  compromising  on  quality  of  outputs.  Based  on  the  existing quality  standards,  it  is  difficult  to  realise  the  planned  increase  in  enrolment  of  learners  with conventional training programmes and methods. It is therefore of strategic importance to aggressively employ a combination of teaching and learning arrangements. Specifically, it is planned to distribute the load as shown in Table 8:
 
+Table 8: Distribution of additional learners in various teaching and learning modes
+
 TEACHING AND LEARNING MODE/STRATEGY | DISTRIBUTION OF LEARNERS
 --- | --- | ---
 Number | Percent
@@ -881,7 +964,7 @@ Various modes of Apprenticeship/work based training programmes | 11,238 | 1
 Tailored skills enhancement progammes for employees in industry | 44,950 | 4
 ICT mediated teaching and learning/ODL | 337,132 | 30
 
-Table 8:  Distribution of additional learners in various teaching and learning modes
+
 
 For absorbing learners under the full-time residential training programmes, 70 new TVET institutions will be constructed to collectively absorb 42,000 full time equivalent learners (at least 500 in each VET
 
@@ -895,7 +978,7 @@ and  1,000  in  TET  institutions).  The  new  institutions  will  include  56  
 
 A further  300  existing  institutions  will  be  upgraded,  to  collectively  enroll  at  least  300,000  full  time equivalent  learners  (each  to  enroll  at  least  1,000).  All  these  institutions  and  others  will  also  have provisions  for  offering  other  modes  of  teaching  and  learning  so  as  to  allow  enrolment  of  at  least additional 438,272 learners under flexible training programmes, short courses for continuing education and  towards RPL.
 
-ICT  mediated  teaching  and  learning  including  ODL  will  have  a  great  role  to  play  in  minimizing investments in physical infrastructure and human resources, at least for training in certain trades and occupations.  In  this  endeavour,  40  existing  institutions  will  also  be  upgraded  to  improve  respective capacities  to  employ  ICT  mediated  teaching  and  learning,  both  in  terms  of  preparation  of  contents, teaching  selection  of  strategies  and  hardware.  Integrating  ICT  in  learning  can  mean  anything  from complete online training, with specific learning platforms using virtual microworlds and laboratories, to online access to/and control of/ distant physical set-ups such as cyber-kiosks, or telecenters, or physics laboratory.  Critical  in  this  undertaking  will  therefore  be  the  development  of  facilitator  awareness  of pedagogical  principals  in  the  design  and  development  of  ICT  mediated  learning  materials  teaching, including conversion of existing resources, and their assessment and application in the media, which may  vary from intranet, Internet, multimedia, email, interactive TV,  teleconferencing, videoconferencing or other computer mediated learning methods. Adequate funding also need be set aside for content preparation, as well as specification and procurement of the appropriate software packages and hardware for ICT mediated teaching and learning, including realization of the last file connectivity in  the  selected  institutions  and  LAN,  as  well  as  procurement  of  computers  and  subscriptions  for bandwidth.  The Programme aspiration is to have at least 337,132 learners acquiring TVET qualifications through ICT mediated teaching and learning by 2017/18.
+ICT mediated teaching and learning including ODL will have a great role to play in minimizing investments in physical infrastructure and human resources, at least for training in certain trades and occupations. In this endeavour, 40 existing institutions will also be upgraded to improve respective capacities to employ ICT mediated teaching and learning, both in terms of preparation of contents, teaching selection of strategies and hardware. Integrating ICT in learning can mean anything from complete online training, with specific learning platforms using virtual microworlds and laboratories, to online access to/and control of/ distant physical set-ups such as cyber-kiosks, or telecenters, or physics laboratory. Critical in this undertaking will therefore be the development of facilitator awareness of pedagogical principals in the design and development of ICT mediated learning materials teaching, including conversion of existing resources, and their assessment and application in the media, which may vary from intranet, Internet, multimedia, email, interactive TV, teleconferencing, video-conferencing or other computer mediated learning methods. Adequate funding also need be set aside for content preparation, as well as specification and procurement of the appropriate software packages and hardware for ICT mediated teaching and learning, including realization of the last mile connectivity in the selected institutions and LAN, as well as procurement of computers and subscriptions for bandwidth. The Programme aspiration is to have at least 337,132 learners acquiring TVET qualifications through ICT mediated teaching and learning by 2017/18.
 
 Apprenticeship programme expected also to contribute in this strategic endeavour, is a type of training, whereby learner's competencies are acquired either in real work environment, or in combination with training  institutions.  Apprenticeship  training  allows  graduates  to  readily  integrate  in  workplaces  and perform all work tasks properly. It is an important way of acquiring transferable and job specific skills. Various  modes  of  apprenticeship  training  are  being  practiced.  The  dual  education  system  combines apprenticeship in a company and vocational education at a VET training institution. This arrangement in  its  different  versions  is  practiced  in  Germany,  Austria,  Denmark,  Switzerland,  France,  the Netherlands, all countries that constituted the former Yugoslavia, Republic of South Africa, Botswana, Zimbabwe,  Namibia,  Malaysia,  Philippines,  among  others.  Kenya,  Congo  and  Togo  and  VETA  in Tanzania are developing dual apprenticeship programmes, Tanzania is in fact re-introducing the system as it was practiced in the 1990s but could not be sustained due to the then prevailing environment.
 
@@ -907,18 +990,20 @@ In  West  Africa,  traditional  apprenticeship  offers  the  largest  opportunit
 
 [[START OF PAGE 33]]
 
-The  main  challenge  with  apprenticeship  training  programmes  however,  is  obtaining  and  sustaining willingness of companies to take apprentices on voluntary basis, and consider the arrangement a long term investment in human resources development. This fact is more significant in countries with weak industrial  base,  and  hence  will  require  adequate  preparation  to  re-introduce  the  dual  training  system fully in Tanzania. VETA is finalising arrangements to pilot the re-introduction of formal apprenticeship training based on the German mode, starting with 10 companies in Dar es Salaam, 5 in Moshi and one in  Arusha.  The  pilot  training  phase  is  expected  to  start  in  March  2013  and  will  take  three  years  to complete. The pilot project will cover about 90 trainees in 3 trades, namely: automotive (21 trainees); electrical (23 trainees); and hospitality (about 45 trainees). TVETDP will support these efforts and upscaling of the pilot phase so that by the end of the first 5 years of TVETDP, this mode of training is able  to  absorb  the  planned  numbers,  with  potential  for  further  major  contribution  in  the  subsequent phases.
+The main challenge with apprenticeship training programmes however, is obtaining and sustaining willingness of companies to take apprentices on voluntary basis, and consider the arrangement a long term investment in human resources development. This fact is more significant in countries with weak industrial base, and hence will require adequate preparation to re-introduce the dual training system fully in Tanzania. VETA is finalising arrangements to pilot the re-introduction of formal apprenticeship training based on the German mode, starting with 10 companies in Dar es Salaam, 5 in Moshi and one in Arusha. The pilot training phase is expected to start in March 2013 and will take three years to complete. The pilot project will cover about 90 trainees in 3 trades, namely: automotive (21 trainees); electrical (23 trainees); and hospitality (about 45 trainees). TVETDP will support these efforts and up-scaling of the pilot phase so that by the end of the first 5 years of TVETDP, this mode of training is able to absorb the planned numbers, with potential for further major contribution in the subsequent phases.
 
 It will be conditional for institutions covered under the above arrangements to focus in the training of learners  towards  critical  occupations  for  realization  of  FYDP  and  eventually  Tanzania  Development Vision  2025.  SITAN  observed  that  some  of  such  critical  areas  are  being  covered  but  will  need consolidation  and/or  improvements  in  terms  of  capacity  for  quality  provision.  Major  gaps  were observed  particularly for technicians and  associate professionals due  to  the  absence  of  TET programmes  for  preparing  metallurgical  technicians,  metal  production  process  controllers,  chemical engineering  technicians,  chemical  process  plant  controllers,  ICT  user  support  technicians,  interior design and decorator associate professionals, among others. The same is apparent with the craft and related trade workers/plant and machine operators, etc. In the same vein, VET programmes are missing to prepare learners to become skilled mineral processing plant operators or chemical/glass ceramics//rubber/plastic/textile  fur/leather  products  plant/machine  operators,  or  glass  makers,  cutters, grinders  and  finishers,  or  insulation  workers,  glaziers,  riggers  and  cable  splicers,  or  wood  treaters, among others to be specified.
 
 If  the  proposed distribution of additional learners (Table 8) will be realized, the  physical and human resources  requirements  will  be  reduced  significantly,  compared  to  the  provisions  in  Tables  5  and  6. Essentially, the critical requirement will be to avail the teaching and learning space for accommodating learners in conventional full-time residential programmes, which the assumption that the same will also be used by other learners with appropriate timetabling. Under such scenario, the cumulative building space requirement will be reduced from 8,071,953 square metres to about 3,181,312 square metres by 2017/18. The modified distribution of space requirements when combinations of different teaching and learning strategies are employed is shown in Table 9.
+
+Table 9: Cumulative space requirements (Square metres) with combinations of training strategies
 
 REQUIREMENT CATEGORY | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 Space requirements in TET | 232,634 | 298,195 | 434,034 | 524,034 | 723,296 | 902,135
 Space requirements in VET | 420,185 | 995,537 | 1,218,056 | 1,542,773 | 1,828,553 | 2,279,176
 
-Table 9:  Cumulative space requirements (Square metres) with combinations of training strategies
+
 
 19
 
@@ -931,6 +1016,8 @@ Total requirement in TVET | 646,820 | 1,293,732 | 1,652,114 | 2,066,807 | 2,551,
 
 On the other hand, cumulative human resources requirement will be reduced for teaching staff from the original 91,444 to 36,578, while supporting technical staff will reduce from the original 30,481 to 9,145 members. The modified distribution of staff requirements is shown in Table 10.
 
+Table 10: Cumulative requirements of TVET staff with a combination of training modes
+
 STAFF CATEGORY | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 TET Facilitators (teaching staff) | 5,170 | 6,626 | 9,646 | 11,645 | 16,073 | 20,048
@@ -940,7 +1027,7 @@ Total technical staff in TVET | 2,256 | 3,939 | 5,034 | 6,075 | 7,609 | 9,145
 Total administrative staff in TVET | 1,879 | 3,283 | 4,195 | 5,063 | 6,341 | 7,620
 Grand Total staff | 13,157 | 22,979 | 29,363 | 35,438 | 44,385 | 53,343
 
-Table 10:   Cumulative requirements of TVET staff with a combination of training modes
+
 
 Note : In 2011/12 TVET system had 7,600 facilitators including 4,590 in TET and 3,010 in VET (BEST, 2012)
 
@@ -999,14 +1086,16 @@ Strategies for realization of Goal 1:
 
 ### 3.3.2 Key Result Area 2
 
-Access  to  TVET  for  students  from  disadvantaged  groups  significantly  improved  in  line  with  the catchment.
+Access to TVET for students from disadvantaged groups significantly improved in line with the catchment.
+
+Goal 2: To increase the overall enrolment of female learners from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases.
 
 Percentage of females | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | ---
 TET overall | 48 | 49 | 50 | 50 | 50
 VET overall | 47 | 48 | 49 | 50 | 50
 
-Goal 2: To increase the overall enrolment of female learners from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases.
+
 
 Strategies for realization of Goals 2:
 
@@ -1062,6 +1151,8 @@ Strategies for realization of Goal 4:
 
 Impact of the increased access and equity assured and evident in the realization of FYDP and hence, Tanzania Development Vision, 2025
 
+Goal 5: To enroll learners in TVET that will contribute towards attaining the recommended human capital balance of professionals, associate professionals and skilled workers.
+
 Study Levels | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
 NTA 9-10 | 3,250 | 3,605 | 4,040 | 4,625 | 5,640 | 6,995
@@ -1071,7 +1162,7 @@ NVA I-III | 154,103 | 365,229 | 419,532 | 506,203 | 574,485 | 661,193
 Short courses | 32,646 | 77,232 | 121,826 | 179,474 | 238,205 | 351,774
 Total | 290,142 | 574,992 | 734,273 | 918,581 | 1,134,155 | 1,413,916
 
-Goal 5: To enroll learners in TVET that will contribute towards attaining the recommended human capital balance of professionals, associate professionals and skilled workers.
+
 
 Strategies for realization of Goal 5:
 
@@ -1082,6 +1173,8 @@ Strategies for realization of Goal 5:
 (c) Ensure TVET is more responsive to the dynamic needs of the labour market and society;
 
 (d) Sustain/safeguard the implemented measures for achieving human capital balance.
+
+Goal 6: To enroll learners in the occupation fields supporting the FYDP core priority areas.
 
 Field of Study | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | ---
@@ -1095,7 +1188,7 @@ Humanities and Arts | 1,420 | 3,265 | 6,100 | 9,815 | 15,235
 TVET Facilitation | 42,246 | 54,484 | 65,876 | 83,166 | 100,578
 Total | 574,992 | 734,273 | 918,581 | 1,134,155 | 1,413,916
 
-Goal 6: To enroll learners in the occupation fields supporting the FYDP core priority areas.
+
 
 23
 
@@ -1371,75 +1464,39 @@ The major activities that need to be undertaken towards realising the Key Result
 
 In  order  to  ensure  efficiency  and  effectiveness  in  TVETDP  implementation  while  maintaining transparency and accountability, the organisation and overall management of TVETDP implementation will follow the logic as presented in Fig. 1.
 
-Figure 1: Organisational structure of TVETDP
-
-Other Task
-
-Teams
+EDUCATION SECTOR DIALOGUE STRUCTURE
 
 STAKEHOLDERS ANNUAL FORUM
 
-Permanent Secretary
+Ministry of Education and Vocational Education
 
-MoEVT
-
-TVET providing
-
-Institutions
-
-TVET Quality
-
-Assurance Agencies
-
-(NACTE, VETA)
-
-Private Sector and
-
-other employers
-
-Other
-
-Stakeholders
-
-including CSOs
-
-Development
-
-Partners
-
-TVETDP
-
-Implementation
-
-Coordinating Team
-
-Other Agencies
-
-supporting TVET
-
-(TEA, HESLB,
-
-TCU, TRA, etc)
+Permanent Secretary MoEVT
 
 M&E Teams
 
-Workers,
+Other Task Teams
 
-graduates and
+Other Agencies supporting TVET (TEA, HESLB, TCU, TRA, etc)
 
-learners
+TVET Quality Assurance Agencies (NACTE, VETA)
 
-Feedback
+TVETDP Implementation Coordinating Team
 
-mechanism
+TVET providing Institutions
 
-Feedback
+Development Partners
 
-mechanism
+Other Stakeholders including CSOs
 
-EDUCATION SECTOR DIALOGUE STRUCTURE
+Workers, graduates and learners
 
-Ministry of Education and Vocational Education
+Private Sector and other employers
+
+Feedback mechanism
+
+Feedback mechanism
+
+Figure 1: Organisational structure of TVETDP
 
 29
 
@@ -1523,9 +1580,9 @@ Other MDAs and LGAs owning TVET institutions will do the following:
 
 ### 4.2.4 TVET Implementation Coordinating Team
 
-There will be a Implementation Coordinating Team under the Chairmanship of the Director of TVET, MoEVT.  Other  members  include  the  Commissioner  for  Labour,  MoLE;  Director  of  Policy  and Planning,  MCDGC;  Commissioner  for  Local  Government  PMO-RALG;  Director  of  Policy  and Planning, MoEVT; Director of Science and Technology, MCT; Director of Policy and Planning, POPC; Executive Secretary of NACTE; Director General of VETA; representatives of the Development Partners. The Coordinating Team will be responsible for the following undertakings:
+There will be a Implementation Coordinating Team under the Chairmanship of the Director of TVET, MoEVT. Other members include the Commissioner for Labour, MoLE; Director of Policy and Planning, MCDGC; Commissioner for Local Government PMO-RALG; Director of Policy and Planning, MoEVT; Director of Science and Technology, MCT; Director of Policy and Planning, PO-PC; Executive Secretary of NACTE; Director General of VETA; representatives of the Development Partners. The Coordinating Team will be responsible for the following undertakings:
 
-(i) S trengthening partnerships,  consultation  and  information  sharing  within  the  subsector and enhancing mutual accountability;
+(i) Strengthening partnerships, consultation and information sharing within the sub-sector and enhancing mutual accountability;
 
 (ii) Recommending special task teams and ToR to PS-MoEVT for appointment;
 
@@ -1783,6 +1840,8 @@ All beneficiaries will be required to develop respective more detailed log-frame
 
 Major financial implications for implementing TVETDP  have  been  computed  based  on the assumptions  and  unit  costs  highlighted  in  Section  2.2  of  this  document.  Implementation  of  the Programme for the first 5 years shall require availability  of  about  Tshs.  2.195  trillion  distributed  as detailed in Annex 8 and summarized in Table 11.
 
+Table 11: Overall TVETDP budget for the period 2013/14-2017/18
+
 Priority Area | Cost implication (in Million Tshs.)
 --- | --- | --- | --- | --- | --- | --- | ---
 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total | [%]
@@ -1794,11 +1853,11 @@ Subtotal | 372,612 | 472,788 | 448,949 | 363,825 | 433,011 | 2,091,185 | 95
 Contingencies at 5% | 18,631 | 23,639 | 22,447 | 18,191 | 21,651 | 104,559 | 5
 Grand Total | 391,243 | 496,427 | 471,396 | 382,016 | 454,662 | 2,195,744 | 100
 
-Table 11:  Overall TVETDP budget for the period 2013/14-2017/18
+
 
 It is observed from Table 11 that significant proportion of the total financial implication is intended to improve capacity of the TVET subsector to provide quality TVET. The elements of costs under this expenditure centre are clustered into four groups covering improvements in human resources; physical resources; the capacity to attract more financial resources; and the governance and management of the subsector  more  efficiently  and  effectively.  The  allocations  to  such  groups  (with  physical  resources further split into buildings and equipment) are shown in absolute values in Annex 8 and summarized in Fig. 2 in terms of percentage of the total amount budgeted for improvement of capacities.
 
-Figure 2: Distribution of cost implications for improving capacity
+
 
 Human
 
@@ -1826,6 +1885,8 @@ Resources
 
 1%
 
+Figure 2: Distribution of cost implications for improving capacity
+
 35
 
 [[END OF PAGE 49]]
@@ -1833,6 +1894,23 @@ Resources
 [[START OF PAGE 50]]
 
 In terms of specific activities, the largest cost implication is for civil works in constructing the 70 new TVET  institutions  and  upgrading  300  existing  institutions.  Out  of  the  total  cost  implication  for implementing  TVETDP, about  31%  will  be  spent  for  such  disbursements,  as  it  is  shown  in  Fig.  3. Other  major  expenditures  will  be  in  the  provision  of  loans,  grants  and  scholarships  to  learners  in programmes that are critical for supporting the realization of FYDP and/or from under-represented and disadvantaged  groups.  (25%),  procurement  of  equipment,  other  facilities  and  furniture  (17.6%), rehabilitation  and  maintenance  and  rehabilitation/repair  of  buildings  and  equipment  (9.0%),  staff development (7.2%) and strategic interventions towards institutional reforms.
+
+Percent
+35
+30
+25
+20
+15
+10
+5
+0
+Staff development | 7.2%
+Coordination | 1.4%
+Loans and grants | 25.1%
+Acquire equipment | 17.6%
+Civil works | 31%
+Rehabilitation and.. | 9%
+Institutional reforms | 8.7%
 
 Figure 3: Distribution of the overall cost implications among the major activities of TVETDP
 
@@ -1898,24 +1976,24 @@ In order to ensure effective participation by all stakeholders in financing TVET
 
 Based on these assumptions and fixing the existing 2012/13 data on TVET financing as baseline, the potential contributions by various sources to TVET have been projected. These are shown in Annex 9 and summarized in Table 12.
 
-2012/13 (Baseline) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
+Table 12: TVETDP financing sources and gaps (in million Tanzanian shillings)
+
+ | 2012/13 (Baseline) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 --- | --- | --- | --- | --- | --- | --- | ---
 Government: (Recurrent) | 118,893 | 148,616 | 185,770 | 232,213 | 278,655 | 320,454 | 1,165,708
 Government: (Capital) | 33,385 | 41,731 | 52,164 | 65,205 | 78,246 | 89,983 | 327,329
 SDL | 45,600 | 136,800 | 171,000 | 213,750 | 267,188 | 333,984 | 1,122,722
 Development Partners | 17,241 | 18,965 | 20,862 | 22,948 | 25,243 | 27,767 | 115,785
 Total funds available | 215,119 | 343,112 | 429,796 | 534,116 | 649,332 | 772,188 | 2,728,544
-TVETDP Cost | 391,243 | 496,427 | 471,396 | 382,016 | 454,662 | 2,195,744
-Total budget required | 606,352 | 839,539 | 901,192 | 916,132 | 1,103,994 | 4,367,209
-Financing Gap
-Basic Scenario | 263,240 | 409,743 | 367,076 | 266,800 | 331,806 | 1,638,665
-Alternative Scenario 1 | 282,205 | 430,605 | 390,024 | 292,043 | 359,573 | 1,754,450
-Alternative Scenario 2 | 220,040 | 341,343 | 285,258 | 266,800 | 331,806 | 1,466,847
-Alternative Scenario 3 | 257,220 | 397,723 | 349,056 | 245,780 | 307,786 | 1,557,565
-Alternative Scenario 4 | 210,740 | 342,243 | 269,576 | 139,300 | 151,806 | 1,113,665
-Alternative Scenario 5 | 161,520 | 261,823 | 169,738 | 118,280 | 127,786 | 839,147
-
-Table 12: TVETDP financing sources and gaps (in million Tanzanian shillings)
+TVETDP Cost |  | 391,243 | 496,427 | 471,396 | 382,016 | 454,662 | 2,195,744
+Total budget required |  | 606,352 | 839,539 | 901,192 | 916,132 | 1,103,994 | 4,367,209
+Financing Gap |  |  |  |  |  |  | 
+Basic Scenario |  | 263,240 | 409,743 | 367,076 | 266,800 | 331,806 | 1,638,665
+Alternative Scenario 1 |  | 282,205 | 430,605 | 390,024 | 292,043 | 359,573 | 1,754,450
+Alternative Scenario 2 |  | 220,040 | 341,343 | 285,258 | 266,800 | 331,806 | 1,466,847
+Alternative Scenario 3 |  | 257,220 | 397,723 | 349,056 | 245,780 | 307,786 | 1,557,565
+Alternative Scenario 4 |  | 210,740 | 342,243 | 269,576 | 139,300 | 151,806 | 1,113,665
+Alternative Scenario 5 |  | 161,520 | 261,823 | 169,738 | 118,280 | 127,786 | 839,147
 
 LEGEND:   Basic Scenario:
 
@@ -1971,6 +2049,8 @@ It is apparent that if the earlier assumed highly subsidized tuition fees are at
 
 In  the  case  the  prevailing  situation  affects  the  realization  of  the  basic  assumptions  made  in  Section 4.4.2.2, such that the Government and DPs are not able to contribute as planned, it is still critical to ensure  that  some  minimum  expansion  in  the  enrolment  of  learners  in  TVET  is  realized  to  allow catching up when the situation improves. For that, it is recommended to avail at least contribute Tshs. 550 billion in five years (Tshs. 110 billion annually) covering the following priority cost centres.
 
+Table 13: Minimum funding proposal under resources constraints in million Tshs.
+
 SN | Priority cost centre | Total contribution
 --- | --- | ---
 1 | Rehabilitation and new buildings and infrastructure | 75,000
@@ -1979,9 +2059,7 @@ SN | Priority cost centre | Total contribution
 4 | Generation and applying LMI | 3,000
 5 | Staff development | 50,000
 6 | Monitoring and evaluation | 2,000
-Total | 190,000
-
-Table 13:  Minimum funding proposal under resources constraints in million Tshs.
+ | Total | 190,000
 
 40
 
@@ -2031,43 +2109,43 @@ The  government  recognizes  the  need  for  collaboration  with  DPs  and  othe
 
 # BIBLIOGRAPHY
 
-- United  Republic  of  Tanzania  (URT),  President's  Office,  Planning  Commission,  (1999), Tanzania Development Vision 2025, Dar es Salaam, p19.
+1. United Republic of Tanzania (URT), President’s Office, Planning Commission, (1999), Tanzania Development Vision 2025, Dar es Salaam, p19.
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Finance  and  Economic  Affairs,  (2010), National Strategy for Growth and Reduction of Poverty II, (NSGRP II) 2010/11-2014/15, Dar es Salaam, p184.
+2. United Republic of Tanzania (URT), Ministry of Finance and Economic Affairs, (2010), National Strategy for Growth and Reduction of Poverty II, (NSGRP II) 2010/11-2014/15, Dar es Salaam, p184.
 
-- United  Republic  of  Tanzania  (URT),  President's  Office,  Planning  Commission,  (2011),  The Tanzania Five Year Development Plan, Dar es Salaam, p152.
+3. United Republic of Tanzania (URT), President’s Office, Planning Commission, (2011), The Tanzania Five Year Development Plan, Dar es Salaam, p152.
 
-- United  Republic  of  Tanzania  (URT),  National  Bureau  of  Statistics,  (2007),  The  Integrated Labour Force Survey, 2006, Analytical Report, p123.
+4. United Republic of Tanzania (URT), National Bureau of Statistics, (2007), The Integrated Labour Force Survey, 2006, Analytical Report, p123.
 
-- POPC-IGC,  (2011),  Attaining  Middle  Income  Status  -  Tanzania:  Growth  and  Structural Transformation required to reach Middle Income Status by 2025, Dar es Salaam, p44.
+5. POPC-IGC, (2011), Attaining Middle Income Status – Tanzania: Growth and Structural Transformation required to reach Middle Income Status by 2025, Dar es Salaam, p44.
 
-- Ministry of Education and Vocational Training, (2011), Basic Education Statistics in Tanzania (BEST), 2007-2011, National Data, Dar es Salaam, p167.
+6. Ministry of Education and Vocational Training, (2011), Basic Education Statistics in Tanzania (BEST), 2007-2011, National Data, Dar es Salaam, p167.
 
-- United Republic of Tanzania (URT), Ministry of Science, Technology and Higher Education, (1996), The Technical Education and Training Policy in Tanzania, Dar es Salaam, p35.
+7. United Republic of Tanzania (URT), Ministry of Science, Technology and Higher Education, (1996), The Technical Education and Training Policy in Tanzania, Dar es Salaam, p35.
 
-- United  Republic  of  Tanzania  (URT),  (1997),  The  National  Council  for  Technical  Education Act, 1997, Dar es Salaam, p13.
+8. United Republic of Tanzania (URT), (1997), The National Council for Technical Education Act, 1997, Dar es Salaam, p13.
 
-- United Republic of Tanzania (URT), (1994), The Vocational Education and Training Act, p16.
+9. United Republic of Tanzania (URT), (1994), The Vocational Education and Training Act, p16.
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Education  and  Vocational  Training,  The Technical and Vocational Education and Training Policy (Draft 27 th June 2012), Dar es Salaam, p29.
+10. United Republic of Tanzania (URT), Ministry of Education and Vocational Training, The Technical and Vocational Education and Training Policy (Draft 27th June 2012), Dar es Salaam, p29.
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Labour  and  Youth  Development,  (1996), National Youth Development Policy, Dar es Salaam, p34
+11. United Republic of Tanzania (URT), Ministry of Labour and Youth Development, (1996), National Youth Development Policy, Dar es Salaam, p34
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Labour  and  Youth  Development,  (1997), National Employment Policy, Dar es Salaam, p19
+12. United Republic of Tanzania (URT), Ministry of Labour and Youth Development, (1997), National Employment Policy, Dar es Salaam, p19
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Community  Development,  Woman  Affairs and Children, (1996), Community Development Policy, Dar es Salaam, p55
+13. United Republic of Tanzania (URT), Ministry of Community Development, Woman Affairs and Children, (1996), Community Development Policy, Dar es Salaam, p55
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Industry  and  Trade,  (1996),  Sustainable Industries Development Policy SIDP: 1995-2020, Dar es Salaam, p44
+14. United Republic of Tanzania (URT), Ministry of Industry and Trade, (1996), Sustainable Industries Development Policy SIDP: 1995-2020, Dar es Salaam, p44
 
-- United  Republic  of  Tanzania  (URT),  Ministry  of  Industry  and  Trade,  (2003),  Small  and Medium Enterprises Development Policy,  Dar es Salaam, p44
+15. United Republic of Tanzania (URT), Ministry of Industry and Trade, (2003), Small and Medium Enterprises Development Policy, Dar es Salaam, p44
 
-- United Republic of Tanzania (URT), (1994), The Vocational Education and Training Act, Dar es Salaam, p16.
+16. United Republic of Tanzania (URT), (1994), The Vocational Education and Training Act, Dar es Salaam, p16.
 
-- United Republic of Tanzania (URT), Ministry of Education and Culture, (1995), Education and Training Policy, Dar es Salaam, p117
+17. United Republic of Tanzania (URT), Ministry of Education and Culture, (1995), Education and Training Policy, Dar es Salaam, p117
 
-- African Union, (2007), Strategy to Revitalize Technical and Vocational Education and Training (TVET) in Africa, Paper presented in the Meeting of the Bureau of the Conference of Ministers of Education of the African Union (COMEDAF II+), 29-31 May 2007, Addis Ababa, Ethiopia, p54
+18. African Union, (2007), Strategy to Revitalize Technical and Vocational Education and Training (TVET) in Africa, Paper presented in the Meeting of the Bureau of the Conference of Ministers of Education of the African Union (COMEDAF II+), 29-31 May 2007, Addis Ababa, Ethiopia, p54
 
-- UNESCO/ILO (2002), Technical and Vocational Education and Training for the 21 st Century, UNESCO and ILO Recommendations, Paris/Geneva, p68.
+19. UNESCO/ILO (2002), Technical and Vocational Education and Training for the 21st Century, UNESCO and ILO Recommendations, Paris/Geneva, p68.
 
 43
 
@@ -2099,7 +2177,7 @@ Study Level | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 2. NTA Levels 4-6 | 5,460 | 9,346 | 12,870 | 15,070 | 23,540 | 35,420
 3. NVA Levels I-III | 71,229 | 97,750 | 127,600 | 157,300 | 182,600 | 198,000
  Crafts and EMC related trades | 71,229 | 47,150 | 72,600 | 96,800 | 105,600 | 110,000
- Plant and machine operator/assembler | 50,600 | 55,000 | 60,500 | 77,000 | 88,000
+ Plant and machine operator/assembler |  | 50,600 | 55,000 | 60,500 | 77,000 | 88,000
 4. VET short courses targeting EMC related elementary occupation | 1,110 | 1,450 | 1,650 | 2,200 | 2,750 | 3,300
 
 Note: 2012/13 enrolment derived from 2011/12 data in BEST, 2012 with annual growth rate at 10%. Subsequent enrolment data are derived from graduate deficits and equal drop-out rates at 10% at all levels.
@@ -2291,25 +2369,25 @@ Note: 2012/13 enrolment derived from 2011/12 data in BEST, 2012 with annual grow
 
 #### A1.8.1 Workforce demands to attain MIC status
 
-Occupation | 06-2012 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22 | 2022/23 | 2023/24 | 2024/25
+Occupation |  | 06-2012 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2019/20 | 2020/21 | 2021/22 | 2022/23 | 2023/24 | 2024/25
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Professionals | TET | 4,036 | 3,197 | 3,503 | 4,122 | 5,477 | 7,908 | 11.920 | 19,270 | 23.095 | 34,335 | 45,610 | 56,822 | 68,890
-VET | 99 | 79 | 86 | 101 | 135 | 194 | 293 | 474 | 568 | 844 | 1,122 | 1,397 | 1,695
+ | VET | 99 | 79 | 86 | 101 | 135 | 194 | 293 | 474 | 568 | 844 | 1,122 | 1,397 | 1,695
 Associate Professionals | TET | 719 | 6,448 | 10,162 | 12,351 | 17,224 | 20,832 | 24,600 | 29,354 | 33,652 | 39,103 | 46,867 | 57,729 | 69,280
-VET | 496 | 4,444 | 7,004 | 8,512 | 11,870 | 14,358 | 16,954 | 20,230 | 23,193 | 26,949 | 32,300 | 39,786 | 47,747
-TET | 294 | 822 | 1,204 | 1,455 | 2,013 | 2,511 | 2,978 | 3,463 | 3,945 | 4,494 | 5,029 | 5,511 | 6,022
-VET | 4,733 | 13,346 | 19,551 | 23,631 | 32,693 | 40,781 | 48,366 | 56,252 | 64,080 | 72,989 | 81,677 | 89,503 | 97,800
+ | VET | 496 | 4,444 | 7,004 | 8,512 | 11,870 | 14,358 | 16,954 | 20,230 | 23,193 | 26,949 | 32,300 | 39,786 | 47,747
+Skilled workers | TET | 294 | 822 | 1,204 | 1,455 | 2,013 | 2,511 | 2,978 | 3,463 | 3,945 | 4,494 | 5,029 | 5,511 | 6,022
+ | VET | 4,733 | 13,346 | 19,551 | 23,631 | 32,693 | 40,781 | 48,366 | 56,252 | 64,080 | 72,989 | 81,677 | 89,503 | 97,800
 
 #### A1.8.2 Students enrolment projection for attaining MIC status
 
-Study Level | 06-2012 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
+Study Level |  | 06-2012 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | --- | ---
 Professionals | TET | 286 | 3,517 | 3,853 | 4,534 | 6,025 | 8,699
-VET | 7 | 87 | 95 | 111 | 149 | 213
+ | VET | 7 | 87 | 95 | 111 | 149 | 213
 Associate Professionals | TET | 1,136 | 7,093 | 11,178 | 13,586 | 18,946 | 22,915
-VET | 1,648 | 4,888 | 7,704 | 9,363 | 13,057 | 15,794
+ | VET | 1,648 | 4,888 | 7,704 | 9,363 | 13,057 | 15,794
 Skilled workers | TET | 267 | 904 | 1,324 | 1,601 | 2,214 | 2,762
-VET | 4,336 | 14,681 | 21,506 | 25,994 | 35,962 | 44,859
+ | VET | 4,336 | 14,681 | 21,506 | 25,994 | 35,962 | 44,859
 Short courses (10%) | TVET | 768 | 3,117 | 4,566 | 5,519 | 7,635 | 9,524
 
 51
@@ -2530,7 +2608,7 @@ Grand Total | 13,157 | 22,979 | 29,363 | 35,438 | 44,385 | 53,343
 
 ## PROJECTION OF SPACE REQUIREMENTS FOR MEETING ENROLMENT TARGETS
 
-### A4.1 CUMULATIVE REQUIREMENTS OF SPACE IN TET (Square metres)
+### A4.1 CUMULATIVE REQUIREMENTS OF SPACE INTET (Square metres)
 
 Major Study Fields | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18
 --- | --- | --- | --- | --- | --- | ---
@@ -2572,13 +2650,14 @@ Total requirement in TVET | 1,709,192.5 | 3,206,287.5 | 4,153,652.5 | 5,175,165.
 
 [[START OF PAGE 73]]
 
+# ANNEX 5
+
+## MAJOR ACTIVITIES OF THE PROGRAMME
+
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
 1.0 Improving Access and Equity in TVET | 1.1 STD VII, Form IV and Form VI leavers provided with more parallel opportunities for respective further education and/or effective integration into the labour market. | 1.1.1 To increase the overall enrolment of learners from 112,447 in TET and 121,348 in VET in 2011/12 to 400,946 and 1,413,916 in 2017/18, respectively. | (a) Achieve the planned increase in enrolment using a combination of teaching and learning arrangements. | (i) With the support of MoEVT, VETA and NACTE, TVET institutions will introduce formal apprenticeship programmes. (ii) TVET institutions will provide opportunities for tailored skills enhancement of employees in industry. (iii) MoEVT, NACTE, VETA and TVET institutions will operationalise ICT mediated teaching and learning including ODL for improving access. (iv) TVET institutions will introduce flexible training programmes , i.e. evening/weekend courses, and/or with multiple entries and exits, etc. (v) TVET institutions will offer regular and tailored short courses for upgrading skills for elementary occupations and the informal sector. (vi) With the support of NACTE and VETA, TVET institutions will introduce RPL to include assessment, recognition and certification of skills gained through work, society or other forms of training. (vii) TVET institutions will cooperate with other local and international institutions to run joint programmes.
-(b) Invest more in interventions that have significant potentials for increasing TVET opportunities. | (i) MoEVT will construct 56 DVTCs, 10 specialised TET institutions and 4 TTCs with collective capacity to enroll at least 42,000 learners. (ii) MoEVT will upgrade 300 existing institutions to collectively enroll at least 300,000 learners. (iii) MoEVT will assist NACTE, VETA and selected 40 TVET institutions to design and develop ICT mediated teaching and learning materials (iv) MoEVT will assist NACTE, VETA and selected 40 TVET institutions to improve ICT connectivity. (v) MoEVT in collaboration with other stakeholders will provide loans, grants and scholarships to learners in priority fields of study. (vi) MoEVT and other stakeholders will expand TVET opportunities in rural areas and/or where there are no or limited such opportunities.
-
-# ANNEX 5
-## MAJOR ACTIVITIES OF THE PROGRAMME
+ |  |  | (b) Invest more in interventions that have significant potentials for increasing TVET opportunities. | (i) MoEVT will construct 56 DVTCs, 10 specialised TET institutions and 4 TTCs with collective capacity to enroll at least 42,000 learners. (ii) MoEVT will upgrade 300 existing institutions to collectively enroll at least 300,000 learners. (iii) MoEVT will assist NACTE, VETA and selected 40 TVET institutions to design and develop ICT mediated teaching and learning materials (iv) MoEVT will assist NACTE, VETA and selected 40 TVET institutions to improve ICT connectivity. (v) MoEVT in collaboration with other stakeholders will provide loans, grants and scholarships to learners in priority fields of study. (vi) MoEVT and other stakeholders will expand TVET opportunities in rural areas and/or where there are no or limited such opportunities.
 
 59
 
@@ -2589,8 +2668,8 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
 1.0 Improving Access and Equity in TVET | 1.1 STD VII, Form IV and Form VI leavers provided with more parallel opportunities for respective further education and/or effective integration into the labour market. | 1.1.1 To increase the overall enrolment of learners from 112,447 in TET and 121,348 in VET in 2011/12 to 400,946 and 1,413,916 in 2017/18, respectively. | (c) Sustain/safeguard the realized increase in TVET opportunities. | (i) MoEVT in collaboration with other stakeholders will provide loans, grants and scholarships in fields of study targeting priority occupations. (ii) TVET institutions will promote the welfare of learners and staff at institutions (provision of student and staff accommodation, facilities for sports and other extramural affairs, health services, etc). (iii) TVET institutions will provide VCT, care and support services for learners/staff affected with HIV/AIDS and non-communicable diseases. (iv) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with other organizations. (v) With the support of NACTE and VETA, TVET institutions will cooperate with other local and international institutions/organizations.
-(d) Introduce measures to mainstream TVET in the national education system in line with the policy framework. | (i) MoEVT, VETA and NACTE in collaboration with other stakeholders will operationalise an articulation mechanism for TVET learners. (ii) MoEVT will harmonise curricula of Bias Secondary Schools and VET as well as oversight/regulation. (iii) MoEVT will harmonise curricula of post primary/post secondary education and VET, as well as oversight/regulation. (iv) VETA and NACTE will assist FDCs in VET needs assessment, curricula development and training of staff.
-(e) Support strategic sensitization of the public towards improving the perception on TVET. | (i) MoEVT, NACTE, VETA and TVET institutions will regularly conduct focused sensitisation of the various groups of the community towards improving perception on TVET. (ii) MoEVT, NACTE, VETA and TVET institutions will enhance sensitisation of the public towards promoting interests in TVET. (iii) MoEVT, NACTE, VETA and TVET institutions will enhance career guidance and counseling of learners to promote interests success rates. (iv) MoEVT, MoLE and PO-PSM will operationalise the difference of roles and benefits between TVET graduates and others. (v) MoEVT will identify, designate and support few VET and TET institutions to produce exemplary products to demonstrate excellence and the impact of TVET towards changing the perception of TVET.
+ |  |  | (d) Introduce measures to mainstream TVET in the national education system in line with the policy framework. | (i) MoEVT, VETA and NACTE in collaboration with other stakeholders will operationalise an articulation mechanism for TVET learners. (ii) MoEVT will harmonise curricula of Bias Secondary Schools and VET as well as oversight/regulation. (iii) MoEVT will harmonise curricula of post primary/post secondary education and VET, as well as oversight/regulation. (iv) VETA and NACTE will assist FDCs in VET needs assessment, curricula development and training of staff.
+ |  |  | (e) Support strategic sensitization of the public towards improving the perception on TVET. | (i) MoEVT, NACTE, VETA and TVET institutions will regularly conduct focused sensitisation of the various groups of the community towards improving perception on TVET. (ii) MoEVT, NACTE, VETA and TVET institutions will enhance sensitisation of the public towards promoting interests in TVET. (iii) MoEVT, NACTE, VETA and TVET institutions will enhance career guidance and counseling of learners to promote interests success rates. (iv) MoEVT, MoLE and PO-PSM will operationalise the difference of roles and benefits between TVET graduates and others. (v) MoEVT will identify, designate and support few VET and TET institutions to produce exemplary products to demonstrate excellence and the impact of TVET towards changing the perception of TVET.
 
 60
 
@@ -2600,8 +2679,8 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under- represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.1 To increase the overall enrolment of female learners from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases. | (a) Engage in interventions that have significant potentials for increasing the opportunities for females to enroll in TVET. | (i) MoEVT will evaluate regular reports from TVET institutions on their implementation of gender related policies and guide improvements. (ii) With the support of NACTE and VETA, TVET institutions will operationalise open and distance learning and other patterns of individual learning, for females with domestic commitments, focusing on fields of studies that are particularly attractive for females (iii) With the support of NACTE and VETA, TVET institutions will enhance flexibility in training programmes in order to accommodate domestic responsibilities and facilitate periods of flexible self-study (iv) With the support of NACTE and VETA, TVET institutions will introduce arrangements for recognition of prior learning in areas of work that are typically dominated by females, e.g. domestic activities, voluntary social work, etc. (v) MoEVT, NACTE and VETA in collaboration with MoCDGC will guide education and training institutions to identify and to remove gender stereotypes from programmes (vi) With the support of NACTE and VETA, TVET institutions will integrate entrepreneurship training into all relevant TVET programmes to enhance attraction to female learners
-(b) Enhance guidance, counseling and employment services for female learners. | (i) NACTE, VETA, and TVET institutions will link with TAESA to obtain regular updates of trends in employment opportunities and provide feedback, as appropriate. (ii) NACTE, VETA and TVET institutions will enhance direct contacts with employers towards promotion of graduate employment opportunities. (iii) TVET institutions will establish dedicated offices to provide guidance and counseling services to learners, including on family planning. (iv) TVET institutions will assign all female learners with proper individual academic advisers. (v) TVET institutions will regularly invite female role models to talk with female learners.
+1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under-represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.1 To increase the overall enrolment of female learners from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases. | (a) Engage in interventions that have significant potentials for increasing the opportunities for females to enroll in TVET. | (i) MoEVT will evaluate regular reports from TVET institutions on their implementation of gender related policies and guide improvements. (ii) With the support of NACTE and VETA, TVET institutions will operationalise open and distance learning and other patterns of individual learning, for females with domestic commitments, focusing on fields of studies that are particularly attractive for females (iii) With the support of NACTE and VETA, TVET institutions will enhance flexibility in training programmes in order to accommodate domestic responsibilities and facilitate periods of flexible self-study (iv) With the support of NACTE and VETA, TVET institutions will introduce arrangements for recognition of prior learning in areas of work that are typically dominated by females, e.g. domestic activities, voluntary social work, etc. (v) MoEVT, NACTE and VETA in collaboration with MoCDGC will guide education and training institutions to identify and to remove gender stereotypes from programmes (vi) With the support of NACTE and VETA, TVET institutions will integrate entrepreneurship training into all relevant TVET programmes to enhance attraction to female learners
+ |  |  | (b) Enhance guidance, counseling and employment services for female learners. | (i) NACTE, VETA, and TVET institutions will link with TAESA to obtain regular updates of trends in employment opportunities and provide feedback, as appropriate. (ii) NACTE, VETA and TVET institutions will enhance direct contacts with employers towards promotion of graduate employment opportunities. (iii) TVET institutions will establish dedicated offices to provide guidance and counseling services to learners, including on family planning. (iv) TVET institutions will assign all female learners with proper individual academic advisers. (v) TVET institutions will regularly invite female role models to talk with female learners.
 
 61
 
@@ -2611,8 +2690,8 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under- represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.1 To increase the overall enrolment of female learners from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases. | (c) Sustain/safeguard the realized increase in the enrolment of female learners. | (i) MoEVT, NACTE and VETA will regularly monitor and evaluate trends in female enrolments, and accordingly adjust interventions. (ii) TVET institutions will promote the welfare of female learners, including giving priority in the provision of student accommodation. (iii) TVET institutions will provide VCT, care and support services for female learners affected with HIV/AIDS and non-communicable diseases. (iv) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with other organizations. (v) With the support of NACTE and VETA, TVET institutions will cooperate with other local and international institutions/organizations.
-1.2.2 To increase the enrolment of female learners in Science and Technology programmes in both VET and TET from about 11-19 % in 2011/12 to at least 35% by 2017/18 | (a) Provide special incentives to promote increased enrolment of S&T programs in TVET, focusing on areas where female participation is particularly low. | (i) MoEVT in collaboration with MoCDGC and other stakeholders will provide preferential loans, grants and scholarships to applicants for TVET to compensate for gender based inequities and inequalities in S&T programmes. (ii) VETA will ensure that the Manual for Life Skills is available to VET facilitators in all fields and is used in initial training as well as for in- service training of VET facilitators. (iii) TVET institutions will enhance guidance, counseling and employment services for female learners.
+1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under-represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.1 To increase the overall enrolment of female learners from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases. | (c) Sustain/safeguard the realized increase in the enrolment of female learners. | (i) MoEVT, NACTE and VETA will regularly monitor and evaluate trends in female enrolments, and accordingly adjust interventions. (ii) TVET institutions will promote the welfare of female learners, including giving priority in the provision of student accommodation. (iii) TVET institutions will provide VCT, care and support services for female learners affected with HIV/AIDS and non-communicable diseases. (iv) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with other organizations. (v) With the support of NACTE and VETA, TVET institutions will cooperate with other local and international institutions/organizations.
+1.2.2 To increase the enrolment of female learners in Science and Technology programmes in both VET and TET from about 11-19 % in 2011/12 to at least 35% by 2017/18 | (a) Provide special incentives to promote increased enrolment of S&T programs in TVET, focusing on areas where female participation is particularly low. | (i) MoEVT in collaboration with MoCDGC and other stakeholders will provide preferential loans, grants and scholarships to applicants for TVET to compensate for gender based inequities and inequalities in S&T programmes. (ii) VETA will ensure that the Manual for Life Skills is available to VET facilitators in all fields and is used in initial training as well as for in-service training of VET facilitators. (iii) TVET institutions will enhance guidance, counseling and employment services for female learners.
 (b) Introduce other special measures to enhance the completion rates of female learners in S&T programs, focusing on areas where female participation is particularly low. | (i) TVET institutions will closely follow up performances of female learners and provide additional support in areas (course modules/subjects) of major deficiencies. (ii) MoEVT, TEA and TVET institutions will facilitate provision of hostel accommodation to female learners in S&T programmes. (iii) TVET institutions will provide family planning services as well as VCT, care and support services for female learners affected with HIV/AIDS and non-communicable diseases.
 
 62
@@ -2623,7 +2702,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under- represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.2 To increase the enrolment of female learners in Science and Technology programmes in both VET and TET from about 11-19 % in 2011/12 to at least 35% by 2017/18. | (c) Enhance guidance, counseling and employment services for female learners. | (i) NACTE, VETA, and TVET institutions will link with TAESA to obtain regular updates of trends in S&T related employment opportunities and provide feedback, as appropriate. (ii) NACTE, VETA and TVET institutions will enhance direct contacts with employers towards promotion of graduate employment opportunities. (iii) TVET institutions will establish dedicated offices to provide guidance and counseling services to learners, including on family planning. (iv) TVET institutions will assign all female learners with proper individual academic advisers. (v) TVET institutions will regularly invite female role models to talk with female learners.
+1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under-represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.2 To increase the enrolment of female learners in Science and Technology programmes in both VET and TET from about 1-19 % in 2011/12 to at least 35% by 2017/18. | (c) Enhance guidance, counseling and employment services for female learners. | (i) NACTE, VETA, and TVET institutions will link with TAESA to obtain regular updates of trends in S&T related employment opportunities and provide feedback, as appropriate. (ii) NACTE, VETA and TVET institutions will enhance direct contacts with employers towards promotion of graduate employment opportunities. (iii) TVET institutions will establish dedicated offices to provide guidance and counseling services to learners, including on family planning. (iv) TVET institutions will assign all female learners with proper individual academic advisers. (v) TVET institutions will regularly invite female role models to talk with female learners.
 (d) Sustain/safeguard the realized increase in the enrolment of female learners. | (i) MoEVT, NACTE and VETA will regularly monitor and evaluate trends in female enrolments in S&T programmes, and accordingly adjust interventions. (ii) TVET institutions will provide VCT, care and support services for female learners affected with HIV/AIDS and non-communicable diseases. (iii) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with other organizations. (iv) With the support of NACTE and VETA, TVET institutions will cooperate with other local and international institutions/organizations.
 1.2.3 To increase the opportunities for access of learners with disabilities from about 20% in VET and 3% in TET in 2011/12 to at least 50% in VET and 35% in TET by 2017/18. | (a) Support interventions that have significant potentials for increasing opportunities for learners with disabilities to join TVET. | (i) MoEVT in collaboration with MoHSW and other stakeholders will provide preferential loans, grants and scholarships to learners with disabilities. (ii) MoEVT, NACTE and VETA will guide and support TVET institutions to give more consideration of the interests of people with disabilities in TVET. (iii) TVET institutions will improve the training environment to enhance accessibility by learners with disabilities. (iv) TVET institutions will as much as possible integrate the non disabled learners in skills training for people with disabilities.
 
@@ -2635,10 +2714,10 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under- represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.3 To increase the opportunities for access of learners with disabilities from about 20% in VET and 3% in TET in 2011/12 to at least 50% in VET and 35% in TET by 2017/18. | (b) Introduce special measures to enhance the completion rates of learners with disabilities in TVET programmes. | (i) TVET institutions will closely follow up performances of learners with disabilities and provide additional support in areas (course modules/subjects) of major deficiencies. (ii) MoEVT, TEA and TVET institutions will facilitate provision of hostel accommodation to learners with disabilities. (iii) MoEVT, NACTE, VETA and TVET institutions will put in place special programmes that will identify and develop talented people with disabilities.
+1.0 Improving Access and Equity in TVET | 1.2 Access to TVET for learners from under-represented and disadvantaged groups significantly improved in line with the catchment. | 1.2.3 To increase the opportunities for access of learners with disabilities from about 20% in VET and 3% in TET in 2011/12 to at least 50% in VET and 35% in TET by 2017/18. | (b) Introduce special measures to enhance the completion rates of learners with disabilities in TVET programmes. | (i) TVET institutions will closely follow up performances of learners with disabilities and provide additional support in areas (course modules/subjects) of major deficiencies. (ii) MoEVT, TEA and TVET institutions will facilitate provision of hostel accommodation to learners with disabilities. (iii) MoEVT, NACTE, VETA and TVET institutions will put in place special programmes that will identify and develop talented people with disabilities.
 (c) Demonstrate impact of the realized increase access for learners with disabilities. | (i) MoEVT in collaboration with MoHSW and other stakeholders will devise mechanism to ensure TVET graduates with disabilities are availed with work tools and seed money, as appropriate, to enable them establish or improve income generating projects. (ii) MoEVT in collaboration with MoHSW will periodically trace the supported graduates with disabilities, evaluate performances, gauge impact of the support and provide feedback to stakeholders.
 (d) Sustain the realized increase in capacity to enroll learners with disabilities in line with catchment. | (i) TVET institutions will promote the welfare of learners with disabilities, including giving priority in the provision of accommodation. (ii) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with other organizations. (iii) With the support of NACTE and VETA, TVET institutions will cooperate with other local and international institutions/organizations.
-2.0 Improving the Quality of Outputs | 2.1 Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025. | 2.1.1 To enroll learners in TVET that will contribute towards attaining human capital balance that is proper for realization of FYDP 2011/12- 2015/16 and eventually Vision 2025. | (a) Enhance the coordination of TVET at national level. | (i) MoEVT in collaboration with MoLE and POPC will operationalise a clear mechanism for generating and updating labour market information and linking the same to training programmes. (ii) MoEVT will ensure TVET supply data in ESMIS is linked with labour market information to allow analysis of progress and impact of training activities according to approved plans across TVET levels. (iii) MoEVT will improve the capacity of the TVET Department to plan coordinate and harmonise VET and TET, as one TVET sub-sector with common/complimenting skills development strategies. (iv) MoEVT will harmonise enrolments in TET and Higher Education offered by universities with a view to assuring human capital balance.
+2.0 Improving the Quality of Outputs | 2.1 Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025. | 2.1.1 To enroll learners in TVET that will contribute towards attaining human capital balance that is proper for realization of FYDP 2011/12-2015/16 and eventually Vision 2025. | (a) Enhance the coordination of TVET at national level. | (i) MoEVT in collaboration with MoLE and POPC will operationalise a clear mechanism for generating and updating labour market information and linking the same to training programmes. (ii) MoEVT will ensure TVET supply data in ESMIS is linked with labour market information to allow analysis of progress and impact of training activities according to approved plans across TVET levels. (iii) MoEVT will improve the capacity of the TVET Department to plan coordinate and harmonise VET and TET, as one TVET sub-sector with common/complimenting skills development strategies. (iv) MoEVT will harmonise enrolments in TET and Higher Education offered by universities with a view to assuring human capital balance.
 
 64
 
@@ -2661,8 +2740,8 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-2.0 Improving the Quality of Outputs | 2.1 Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025. | 2.1.2 To focus the enrolment of learners in the occupation fields supporting the core priority areas for realization of FYDP and eventually the Tanzania Development Vision 2025. | (b) Improve the coverage of TVET programmes in line with the labour market demands. | (i) MoEVT in collaboration with MoLE and POPC will operationalise a clear mechanism for generating and updating labour market information and linking the same to training programmes and implementation strategies. (ii) MoEVT, NACTE, VETA and TVET institutions will ensure introduction of training programmes covering all core priority areas for realization of FYDP and ultimately Tanzania Development Vision 2025, as well as for meeting the major regional and global skills needs. (iii) NACTE, VETA and TVET institutions will ensure that TVET is addressing the new and emerging technologies and processes for more impact. (iv) NACTE, VETA and TVET institutions will also introduce training programmes for meeting the other major regional and global skills needs. (v) MoEVT, VETA, NACTE and TVET institutions will provide career guidance and counseling of learners to promote interests and success rates in the study fields supporting the core priority areas. (vi) MoEVT, VETA, NACTE and TVET institutions will provide incentives
-(c) Improve relevance of TVET programmes in line with the core priority areas. | (i) MoEVT in collaboration with MoLE and POPC will operationalise a clear mechanism for generating and updating labour market information and linking the same to training programmes and implementation strategies. (ii) TVET institutions will periodically and regularly review curricula for taking on board the major requirements of the labour market towards supporting the core priority areas for realization of FYDP 2011/12- 2015/16. (iii) TVET institutions will enhance involvement of employers in TVET affairs. (iv) NACTE, VETA and TVET institutions will promote research, creativity and innovations in respective undertakings for supporting the realization FYDP 2011/12-2015/26 and the Tanzania Development Vision 2025.
+2.0 Improving the Quality of Outputs | 2.1 Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025. | 2.1.2 To focus the enrolment of learners in the occupation fields supporting the core priority areas for realization of FYDP and eventually the Tanzania Development Vision 2025. | (b) Improve the coverage of TVET programmes in line with the labour market demands. | (i) MoEVT in collaboration with MoLE and POPC will operationalise a clear mechanism for generating and updating labour market information and linking the same to training programmes and implementation strategies. (ii) MoEVT, NACTE, VETA and TVET institutions will ensure introduction of training programmes covering all core priority areas for realization of FYDP and ultimately Tanzania Development Vision 2025, as well as for meeting the major regional and global skills needs. (iii) NACTE, VETA and TVET institutions will ensure that TVET is addressing the new and emerging technologies and processes for more impact. (iv) NACTE, VETA and TVET institutions will also introduce training programmes for meeting the other major regional and global skills needs. (v) MoEVT, VETA, NACTE and TVET institutions will provide career guidance and counseling of learners to promote interests and success rates in the study fields supporting the core priority areas. (vi) MoEVT, VETA, NACTE and TVET institutions will provide incentives to learners in the study fields supporting the core priority areas.
+(c) Improve relevance of TVET programmes in line with the core priority areas. | (i) MoEVT in collaboration with MoLE and POPC will operationalise a clear mechanism for generating and updating labour market information and linking the same to training programmes and implementation strategies. (ii) TVET institutions will periodically and regularly review curricula for taking on board the major requirements of the labour market towards supporting the core priority areas for realization of FYDP 2011/12-2015/16. (iii) TVET institutions will enhance involvement of employers in TVET affairs. (iv) NACTE, VETA and TVET institutions will promote research, creativity and innovations in respective undertakings for supporting the realization FYDP 2011/12-2015/26 and the Tanzania Development Vision 2025.
 
 66
 
@@ -2696,7 +2775,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-2.0 Improving the Quality of Outputs | 2.1 Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025. | 2.1.3 To increase the competence of graduates so that are able to carry out all the basic work tasks properly within 3 months and one year after graduation for at least 75% of fresh graduates by 2017/18. | (d) Ensure that TVET is more responsive to the dynamic needs of the market and society. | (i) TVET institutions will embed entrepreneurship training in all programmes to promote self employment and realise the special requirements of the formal and informal sectors. (ii) MoEVT in collaboration with MoLE and MoIT will support measures towards establishing centres for career counseling and guidance on self- employment opportunities for the informal sector. (iii) MoEVT will provide incentives to TVET learners with unique talents with a view to encouraging and stimulating the same. (iv) MoEVT in collaboration with pertinent stakeholders will designate a few VET and TET institutions and direct support to produce exemplary products at their respective levels with a view to demonstrating excellence and the potential/impact of TVET for supporting Vision 2025, for eventual possible up-scaling to other institutions.
+2.0 Improving the Quality of Outputs | 2.1 Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025. | 2.1.3 To increase the competence of graduates so that are able to carry out all the basic work tasks properly within 3 months and one year after graduation for at least 75% of fresh graduates by 2017/18. | (d) Ensure that TVET is more responsive to the dynamic needs of the market and society. | (i) TVET institutions will embed entrepreneurship training in all programmes to promote self employment and realise the special requirements of the formal and informal sectors. (ii) MoEVT in collaboration with MoLE and MoIT will support measures towards establishing centres for career counseling and guidance on self-employment opportunities for the informal sector. (iii) MoEVT will provide incentives to TVET learners with unique talents with a view to encouraging and stimulating the same. (iv) MoEVT in collaboration with pertinent stakeholders will designate a few VET and TET institutions and direct support to produce exemplary products at their respective levels with a view to demonstrating excellence and the potential/impact of TVET for supporting Vision 2025, for eventual possible up-scaling to other institutions.
 (e) Sustain/safeguard the realized measures for improving competencies of graduates. | (i) MoEVT, NACTE, VETA and TVET institutions will periodically conduct tracer studies/graduate and employer surveys to obtain feedback from employers and graduates on the quality of TVET outputs. (ii) TVET institutions will review respective training programmes taking on board inputs from tracer studies/graduate and employer surveys. (iii) TVET institutions will enhance collaboration with industry in the provision of practical training of staff of TVET institutions at work places for upgrading of skills in line with technological advancements. (iv) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with employers and other organizations.
 
 69
@@ -2720,8 +2799,8 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
 3.0 Improving the Capacity to provide quality TVET | 3.1 Adequate and appropriate human resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond. | 3.1.1 To attain the ratio of learners to teaching staff in conventional full time residential programmes at 8:1 in TET and 16:1 in VET by 2015/16 and the same maintained afterwards. | (d) Sustain and safeguard the realized achievement in enhancing the recruitment of teaching staff. | (i) MoEVT and NACTE will regularly monitor and evaluate trends in teaching staff recruitments and accordingly adjust interventions. (ii) TVET institutions will ensure existence of conducive working environment to attract significant new recruitments and retention of those already in TVET facilitation (iii) TVET institutions will introduce and support various interventions towards promotion of the welfare of staff at institutions (iv) TVET institutions in collaboration with other stakeholders will provide care and support services for staff affected with HIV/AIDS and non-communicable diseases.
-3.1.2 To ensure that at least 75% of all teaching staff in TET and VET have the requisite qualifications and experiences, and delivers to expectations by 2015/16 and 100% by 2017/18 and the same | (a) Implement effective modalities for staff recruitment. | (i) PO-PSM will enhance flexibility in the recruitment process of TVET teaching staff in public institutions without negatively affecting the principles of equal opportunity in employment. (ii) MoEVT and MoF will devise effective mechanism for allocation of adequate funding for recruitment of TVET teaching staff in public institutions in line with requirements. (iii) MoEVT and MoF will devise effective mechanism for timely availability of adequate funding for recruitment of TVET teaching staff in public institutions in line with requirements.
-maintained afterwards. | (b) Increase the opportunities for staff training in VET and TET facilitation in line with the requirements. | (i) MoEVT will construct 4 new TTCs (2 for VET and 2 for TET), with collective capacity to enroll 2,000 full time equivalent trainees to complement the outputs from existing TTCs. (ii) MoEVT will upgrade the existing TTCs each to enroll at least 1,000 trainees in TVET facilitation. (iii) MoEVT will recruit adequate number of tutors for the new and existing TTCs. (iv) MoEVT, NACTE, VETA will assist TTCs to design and develop ICT mediated teachers training materials. (v) MoEVT will assist TTCs to improve ICT connectivity (within the selected 40 TVET institutions). (vi) MoEVT in collaboration with other stakeholders will provide grants
+3.1.2 To ensure that at least 75% of all teaching staff in TET and VET have the requisite qualifications and experiences, and delivers to expectations by 2015/16 and 100% by 2017/18 and the same maintained afterwards. | (a) Implement effective modalities for staff recruitment. | (i) PO-PSM will enhance flexibility in the recruitment process of TVET teaching staff in public institutions without negatively affecting the principles of equal opportunity in employment. (ii) MoEVT and MoF will devise effective mechanism for allocation of adequate funding for recruitment of TVET teaching staff in public institutions in line with requirements. (iii) MoEVT and MoF will devise effective mechanism for timely availability of adequate funding for recruitment of TVET teaching staff in public institutions in line with requirements.
+(b) Increase the opportunities for staff training in VET and TET facilitation in line with the requirements. | (i) MoEVT will construct 4 new TTCs (2 for VET and 2 for TET), with collective capacity to enroll 2,000 full time equivalent trainees to complement the outputs from existing TTCs. (ii) MoEVT will upgrade the existing TTCs each to enroll at least 1,000 trainees in TVET facilitation. (iii) MoEVT will recruit adequate number of tutors for the new and existing TTCs. (iv) MoEVT, NACTE, VETA will assist TTCs to design and develop ICT mediated teachers training materials. (v) MoEVT will assist TTCs to improve ICT connectivity (within the selected 40 TVET institutions). (vi) MoEVT in collaboration with other stakeholders will provide grants and scholarships to trainee-facilitators in priority fields of study.
 
 71
 
@@ -2731,8 +2810,8 @@ maintained afterwards. | (b) Increase the opportunities for staff training in VE
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-3.0 Improving the Capacity to provide quality TVET | 3.1 Adequate and appropriate human resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond. | 3.1.2 To ensure that at least 75% of all teaching staff in TET and VET have the requisite qualifications and experiences, and delivers to expectations by 2015/16 and 100% by 2017/18 and the same maintained | (b) Increase the opportunities for staff training in VET and TET facilitation in line with the requirements. | (vii) MoEVT will support other existing TVET institutions to introduce training programmes for TVET facilitation and assist in the recruitment of adequate number of tutors for the institutions. (viii) MoEVT, NACTE, VETA and TVET institutions in collaboration with other stakeholders will devise and introduce remuneration and performance based incentives scheme for attracting significant new recruitments in TVET facilitation. (ix) MoEVT and NACTE will regulate training of TVET facilitators and devise mechanism for their registration to ensure recognition.
-afterwards. | (c) Systematically develop capacity of staff in line with respective work requirements. | (i) TVET institutions shall implement staff development plans for continuously developing the qualifications of staff in line with the requirements for meeting planned undertakings. (ii) TVET institutions will enhance the attachment of existing teaching staff in industry to acquire or upgrade relevant practical skills. (iii) TVET institutions will target to recruit experienced qualified staff from industry and provide them with pedagogical skills. (iv) TVET institutions will enhance collaboration with industry in the provision of in - house training of employees at work places. (v) TVET institutions will promote expertise/experience of staff in ICT mediated classroom learning and open and distant learning. (vi) TVET institutions will recruit and train staff to facilitate learners with special learning needs.
+3.0 Improving the Capacity to provide quality TVET | 3.1 Adequate and appropriate human resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond. | 3.1.2 To ensure that at least 75% of all teaching staff in TET and VET have the requisite qualifications and experiences, and delivers to expectations by 2015/16 and 100% by 2017/18 and the same maintained afterwards. | (b) Increase the opportunities for staff training in VET and TET facilitation in line with the requirements. | (vii) MoEVT will support other existing TVET institutions to introduce training programmes for TVET facilitation and assist in the recruitment of adequate number of tutors for the institutions. (viii) MoEVT, NACTE, VETA and TVET institutions in collaboration with other stakeholders will devise and introduce remuneration and performance based incentives scheme for attracting significant new recruitments in TVET facilitation. (ix) MoEVT and NACTE will regulate training of TVET facilitators and devise mechanism for their registration to ensure recognition.
+(c) Systematically develop capacity of staff in line with respective work requirements. | (i) TVET institutions shall implement staff development plans for continuously developing the qualifications of staff in line with the requirements for meeting planned undertakings. (ii) TVET institutions will enhance the attachment of existing teaching staff in industry to acquire or upgrade relevant practical skills. (iii) TVET institutions will target to recruit experienced qualified staff from industry and provide them with pedagogical skills. (iv) TVET institutions will enhance collaboration with industry in the provision of in-house training of employees at work places. (v) TVET institutions will promote expertise/experience of staff in ICT mediated classroom learning and open and distant learning. (vi) TVET institutions will recruit and train staff to facilitate learners with special learning needs.
 (d) Operationalise effective retention schemes for teaching staff. | (i) MoEVT, NACTE, VETA and TVET institutions will devise and introduce attractive remuneration and performance based incentives. (ii) TVET institutions will ensure existence of conducive working environment to ensure retention of staff in TVET facilitation. (iii) TVET institutions will introduce and support various interventions towards promotion of the welfare of staff at institutions. (iv) TVET institutions in collaboration with other stakeholders will provide care and support services for staff affected with HIV/AIDS and non-communicable diseases.
 
 72
@@ -2757,7 +2836,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 --- | --- | --- | --- | ---
 3.0 Improving the Capacity to provide quality TVET | 3.1 Adequate and appropriate human resources available in line with the needs for improving access, equity and quality. | 3.1.3 To increase the percentage of female teaching staff from 26% in TET and 29% in VET in 2011/12 to at least 40% in both cases by 2017/18. | (c) Introduce special measures to enhance the retention of female teaching staff, focusing on areas where female staff members are particularly few. | (i) TVET institutions will provide family planning services as well as VCT, care and support services for female staff affected with HIV/AIDS and non-communicable diseases. (ii) TVET institutions will devise mechanism for gauging the work satisfaction of female staff and provide support in areas of major deficiencies. (iii) MoEVT, NACTE, VETA and TVET institutions will promote/enhance networking and collaboration with other organizations for interventions towards improving retention of female.
 (d) Enhance guidance and counseling services for female staff | (i) TVET institutions will assign all new female staff with individual senior staff to serve as adviser. (ii) TVET institutions will establish dedicated offices to provide guidance and counseling services to female staff, including on family planning. (iii) TVET institutions will regularly invite female role models to talk with and encourage female staff members.
-(e) Sustain/safeguard the realized increase in the recruitment of female teaching staff. | (i) MoEVT will regularly update quota and benchmarks for female to male ratios in fields of education and training where gender equity and equality has not yet been attained. (ii) MoEVT will request regular reports from TVET institutions on their implementation of gender related policies. (iii) MoEVT in collaboration with MoCDGC strengthen the role of the Gender task in Desk in coordination of gender issues within the TVET sub-sector and across the portfolios of other the relevant MDAs. (iv) TVET institutions will ensure existence of conducive working environment to attract significant new recruitments of female teaching staff and retention of those already in TVET facilitation. (v) TVET institutions in collaboration with other stakeholders will provide care and support services for staff affected with HIV/AIDS and non- communicable diseases.
+(e) Sustain/safeguard the realized increase in the recruitment of female teaching staff. | (i) MoEVT will regularly update quota and benchmarks for female to male ratios in fields of education and training where gender equity and equality has not yet been attained. (ii) MoEVT will request regular reports from TVET institutions on their implementation of gender related policies. (iii) MoEVT in collaboration with MoCDGC strengthen the role of the Gender task in Desk in coordination of gender issues within the TVET sub-sector and across the portfolios of other the relevant MDAs. (iv) TVET institutions will ensure existence of conducive working environment to attract significant new recruitments of female teaching staff and retention of those already in TVET facilitation. (v) TVET institutions in collaboration with other stakeholders will provide care and support services for staff affected with HIV/AIDS and non-communicable diseases.
 
 74
 
@@ -2770,7 +2849,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 3.0 Improving the Capacity to provide quality TVET | 3.1 Adequate and appropriate human resources available within the core priority areas and beyond. | 3.1.4 To attain the NACTE/VETA norm of the ratio of technical and administration staff to teaching staff by 2017/18 and maintain. | (a) Operationalise effective human resources management policies and plans in TVET covering all staff. | (i) MoEVT, NACTE, VETA and TVET institutions will formulate and implement effective recruitment, deployment and retention policies and plan for technical and administrative staff. (ii) MoEVT, NACTE, VETA and TVET institutions will formulate and implement effective policies and plans for development of technical and administrative staff, as appropriate (iii) MoEVT, NACTE, VETA and TVET institutions will formulate and implement effective performance appraisal mechanism for staff.
 (b) Introduce and implement effective modalities for recruitment of supporting staff. | (iv) PO-PSM will enhance flexibility in the recruitment process of staff in TVET without negatively affecting the principles of equal opportunity. (v) MoEVT and MoF will devise effective mechanism for allocation of adequate funding for recruitment of TVET staff as per requirements. (vi) MoEVT and MoF will devise effective mechanism for timely availability of adequate funding for recruitment of staff in public institutions in line with requirements.
 (c) Systematically develop capacity of supporting staff in line with respective work requirement. | (i) TVET institutions will implement staff development plans for continuously developing the qualifications of staff in line with the requirements for meeting planned undertakings. (ii) TVET institutions will promote expertise/experience of technical staff in ICT mediated classroom learning and open and distant learning. (iii) TVET institutions will recruit and train supporting staff to facilitate learners with special learning needs.
-(d) Operationalise effective retention schemes for supporting staff. | (i) MoEVT, NACTE, VETA and TVET institutions will devise and introduce attractive remuneration and performance based incentives. (ii) TVET institutions will ensure existence of conducive working environment to ensure retention of supporting staff. (iii) TVET institutions will introduce and support various interventions towards promotion of the welfare of staff at institutions. (iv) TVET institutions in collaboration with other stakeholders will provide care and support services for staff affected with HIV/AIDS and non- communicable diseases.
+(d) Operationalise effective retention schemes for supporting staff. | (i) MoEVT, NACTE, VETA and TVET institutions will devise and introduce attractive remuneration and performance based incentives. (ii) TVET institutions will ensure existence of conducive working environment to ensure retention of supporting staff. (iii) TVET institutions will introduce and support various interventions towards promotion of the welfare of staff at institutions. (iv) TVET institutions in collaboration with other stakeholders will provide care and support services for staff affected with HIV/AIDS and non-communicable diseases.
 
 75
 
@@ -2801,8 +2880,8 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-3.0 Improving the Capacity to provide quality TVET | 3.2 Adequate and appropriate physical resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond. | 3.2.1 To ensure adequacy of buildings and related physical infrastructure for meeting the enrolment targets and adopted training strategies by 2017/18 and maintain in line with the norms of NACTE/VETA. | (c) Improve maintenance and rehabilitation of buildings and infrastructure in institutions, to ensure their appropriateness for quality TVET. (d) Sustain/safeguard the realized achievement in improving TVET physical infrastructure. | (i) MoEVT, MDAs, LGAs and other owners of TVET institutions will avail to respective institutions adequate funds to maintain and rehabilitate respective buildings and infrastructure according to norm, with a view to ensuring occupational safety and appropriateness for quality TVET undertakings. (ii) TVET institutions will regularly maintain respective buildings and infrastructure according to schedule and other norms. (iii) TVET institutions will rehabilitate buildings and infrastructure to ensure their appropriateness for quality TVET undertakings. (i) MDAs, LGAs, NACTE, VETA and TVET institutions will subscribe to the culture of continuous maintenance and rehabilitation of buildings and related infrastructure in institutions. (ii) MDAs, LGAs, NACTE, VETA and TVET institutions, as appropriate, will enhance involvement and partnership with the Private sector in TVET affairs.
-(iii) MDAs, LGAs, NACTE, VETA and TVET institutions will promote networking and collaboration with other organizations.
+3.0 Improving the Capacity to provide quality TVET | 3.2 Adequate and appropriate physical resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond. | 3.2.1 To ensure adequacy of buildings and related physical infrastructure for meeting the enrolment targets and adopted training strategies by 2017/18 and maintain in line with the norms of NACTE/VETA. | (c) Improve maintenance and rehabilitation of buildings and infrastructure in institutions, to ensure their appropriateness for quality TVET. | (i) MoEVT, MDAs, LGAs and other owners of TVET institutions will avail to respective institutions adequate funds to maintain and rehabilitate respective buildings and infrastructure according to norm, with a view to ensuring occupational safety and appropriateness for quality TVET undertakings. (ii) TVET institutions will regularly maintain respective buildings and infrastructure according to schedule and other norms. (iii) TVET institutions will rehabilitate buildings and infrastructure to ensure their appropriateness for quality TVET undertakings.
+(d) Sustain/safeguard the realized achievement in improving TVET physical infrastructure. | (i) MDAs, LGAs, NACTE, VETA and TVET institutions will subscribe to the culture of continuous maintenance and rehabilitation of buildings and related infrastructure in institutions. (ii) MDAs, LGAs, NACTE, VETA and TVET institutions, as appropriate, will enhance involvement and partnership with the Private sector in TVET affairs. (iii) MDAs, LGAs, NACTE, VETA and TVET institutions will promote networking and collaboration with other organizations.
 3.2.1 To ensure adequacy and appropriateness of equipment and facilities for meeting the enrolment targets and programmes by 2017/18. | (a) Operationalise strategic mechanisms for improving the adequacy of equipment and facilities towards assuring quality of TVET. | (i) MoEVT, NACTE and VETA in collaboration with MoCDGC will assist the 25 FDCs selected to serve as DVTCs to identify the required equipment and facilities and support their operationalisation. (ii) MoEVT in collaboration with other stakeholders will procure appropriate equipment and facilities for the new 70 TVET institutions. (iii) MoEVT in collaboration with other stakeholders will procure the required equipment in the upgraded existing 300 TVET institutions. (iv) MoEVT in collaboration with other stakeholders will procure equipment and facilities in TVET institutions to cater for learners with special learning needs. (v) MoEVT and other stakeholders will replace equipment and other facilities which are obsolete or outdated in 50 institutions. (vi) MoEVT and other stakeholders will acquire adequate ICT equipment to operationalise ICT mediated learning/ODL in 40 institutions.
 
 78
@@ -2839,7 +2918,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 --- | --- | --- | --- | ---
 3.0 Improving the Capacity to provide quality TVET | 3.3 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond. | 3.3.1 To devise and implement a strategic and sustainable TVET funding mechanism for meeting the implication of expanded enrolment and other major undertakings in line with the norms of NACTE/VETA by 2014/15. | (b) Implement strategies for increased financial contribution from all possible sources. | (vi) TVET institutions will introduce training programmes in the priority areas for realization of MKUKUTA II and FYDP to be able to access more funding from Government and Development Partners. (vii) TVET institutions will enhance research, and especially contracted applied research and innovations. (viii) TVET institutions with possible support by NACTE and VETA will devise and operationalise formal frameworks for guiding IPR to facilitate commercialization of research results and innovations. (ix) TVET institutions will audit their usage of resources and identify uses that can be minimized without compromising quality. (x) TVET institutions will implement cost reduction and unnecessary cost avoidance measures.
 (c) Advocate and operationalise more effective planning and prioritization of undertakings. | (i) MoEVT, NACTE and VETA will build capacities of TVET institutions in strategic planning and prioritisation of undertakings. (ii) MoEVT, NACTE and VETA will build capacities of TVET institutions in budgeting according to plans. (iii) MoEVT, NACTE and VETA will build capacities of TVET institutions in operationalisation of internal control mechanisms. (iv) MoEVT will enhance the oversight capacities of the Councils and Boards of NACTE, VETA and TVET institutions for corporate good governance of the institutions.
-3.3.2 To increase the contribution of local non- governmental sources of funding TVET from about 11% in 2011/12 to at least 33% of requirements by 2015/16. | (a) Identify and implement strategies for attracting the private sector to invest more in TVET. | (i) MoEVT, NACTE and VETA will ensure that TVET is more responsive to the dynamic needs of the labour market. (ii) MoEVT in collaboration with MoLE and employers will regularly generate and update information on the specific needs of major occupations and trades. (iii) TVET institutions will periodically and regularly review curricula for taking on board the major requirements of the labour market. (iv) MoEVT, NACTE, VETA and TVET institutions will ensure that TVET is addressing the new and emerging technologies and processes.
+3.3.2 To increase the contribution of local non-governmental sources of funding TVET from about 11% in 2011/12 to at least 33% of requirements by 2015/16. | (a) Identify and implement strategies for attracting the private sector to invest more in TVET. | (i) MoEVT, NACTE and VETA will ensure that TVET is more responsive to the dynamic needs of the labour market. (ii) MoEVT in collaboration with MoLE and employers will regularly generate and update information on the specific needs of major occupations and trades. (iii) TVET institutions will periodically and regularly review curricula for taking on board the major requirements of the labour market. (iv) MoEVT, NACTE, VETA and TVET institutions will ensure that TVET is addressing the new and emerging technologies and processes.
 
 81
 
@@ -2849,7 +2928,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-3.0 Improving the Capacity to provide quality TVET | 3.3 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond. | 3.3.1 To increase the contribution of local non- governmental sources of funding TVET from about 11% in 2011/12 to at least 33% of requirements by 2015/16. | (a) Identify and implement strategies for attracting the private sector to invest more in TVET. | (v) NACTE, VETA and TVET institutions in collaboration with employers will introduce more work-based training programmes, such as apprenticeship programmes, and tailored courses for enhancement of the required specific skills of employees in industry. (vi) MoEVT will devise and operationalise an incentive mechanism for increased participation of the Private Sector in the direct financing of TVET and/or PPP arrangements.
+3.0 Improving the Capacity to provide quality TVET | 3.3 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond. | 3.3.1 To increase the contribution of local non-governmental sources of funding TVET from about 11% in 2011/12 to at least 33% of requirements by 2015/16. | (a) Identify and implement strategies for attracting the private sector to invest more in TVET. | (v) NACTE, VETA and TVET institutions in collaboration with employers will introduce more work-based training programmes, such as apprenticeship programmes, and tailored courses for enhancement of the required specific skills of employees in industry. (vi) MoEVT will devise and operationalise an incentive mechanism for increased participation of the Private Sector in the direct financing of TVET and/or PPP arrangements.
 (b) Identify and implement strategies for attracting the local community to contribute towards TVET. | (i) MoEVT, NACTE, VETA and TVET institutions will regularly conduct focused sensitisation of the various groups of the community towards improving perception on TVET. (ii) TVET institutions will cooperate with other local and international institutions engaged in community based undertakings. (iii) TVET institutions will introduce special programmes/tailored short courses targeting to support the various major community based interventions in localities. (iv) TVET institutions will offer regular and tailored short courses for upgrading skills for elementary occupations and the informal sector. (v) With the support of NACTE and VETA, TVET institutions will enhance RPL to include assessment, recognition and certification of skills gained through work, society or other forms of training. (vi) With the support of NACTE and VETA, TVET institutions will enhance flexibility in training programmes in order to accommodate domestic responsibilities and facilitate periods of flexible self-study. (vii) VETA and NACTE will assist FDCs in VET needs assessment, curricula development and training of staff to enhance their contribution.
 
 82
@@ -2860,7 +2939,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-3.0 Improving the Capacity to provide quality TVET | 3.3 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond. | 3.3.1 To increase the contribution of local non- governmental sources of funding TVET from about 11% in 2011/12 to at least 33% of requirements by 2015/16. | (c) Devise and implement innovative ways of generating internal revenue in institutions without affecting execution of respective core functions. | (i) TVET institutions will charge economic tuition fees and hence offset increased operational costs. (ii) Without affecting teaching (and research), TVET institutions will enhance the provision of consultancy and expert services to the public for complimenting the disbursements by owners of the institutions. (iii) TVET institutions will enhance research, and especially contracted applied research and innovations. (iv) TVET institutions with possible support by NACTE and VETA will devise and operationalise formal frameworks for guiding IPR to facilitate commercialization of research results and innovations. (v) TVET institutions will devise and implement other innovative ways of generating internal revenue.
+3.0 Improving the Capacity to provide quality TVET | 3.3 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond. | 3.3.1 To increase the contribution of local non-governmental sources of funding TVET from about 11% in 2011/12 to at least 33% of requirements by 2015/16. | (c) Devise and implement innovative ways of generating internal revenue in institutions without affecting execution of respective core functions. | (i) TVET institutions will charge economic tuition fees and hence offset increased operational costs. (ii) Without affecting teaching (and research), TVET institutions will enhance the provision of consultancy and expert services to the public for complimenting the disbursements by owners of the institutions. (iii) TVET institutions will enhance research, and especially contracted applied research and innovations. (iv) TVET institutions with possible support by NACTE and VETA will devise and operationalise formal frameworks for guiding IPR to facilitate commercialization of research results and innovations. (v) TVET institutions will devise and implement other innovative ways of generating internal revenue.
 (d) Identify and implement cost reduction and unnecessary cost avoidance measures. | (i) TVET institutions will audit their usage of energy resources and identify uses that can be minimized without compromising quality and intervene. (ii) TVET institutions will audit their usage of water usages and identify uses that can be minimized without compromising quality and intervene. (iii) TVET institutions will audit their usage of paper and identify uses that can be minimized without compromising quality and intervene. (iv) TVET institutions will audit their usage of other materials and identify uses that can be minimized without compromising quality and intervene.
 3.0 Improving the Capacity to provide quality TVET | 3.4 Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured. | 3.4.1 To increase the number of TVET institutions attaining full registration, within three years after getting provisional registration, from 25% in 2011/12 to at least 75% in 2017/18. | (a) Enhance the capacities of key players to govern and manage the academic function more effectively. | (i) MoEVT, NACTE and VETA will support TVET institutions to achieve good governance and institutional effectiveness in academic matters. (ii) MoEVT will guide institutional arrangements for the academic function towards a more effective and efficient TVET sub-sector. (iii) MoEVT will build capacity of the Directorate of TVET to more effectively coordinate, harmonise, monitor and evaluate the academic function across the TVET sub-sector. (iv) Other relevant MDAs will build capacities of respective units in MDAs established for coordination, monitoring and evaluation of TVET for more effectiveness.
 
@@ -2885,7 +2964,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
 3.0 Improving the Capacity to provide quality TVET | 3.4 Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured. | 3.4.1 To increase the number of TVET institutions attaining full registration, within three years after getting provisional registration, from 25% in 2011/12 to at least 75% in 2017/18. | (d) Strengthen the quality assurance roles of NACTE and VETA for their more efficiency and effectiveness. | (i) MoEVT will establish the major gaps/constraints within NACTE and VETA in performing respective regulatory roles and provide the required support to the quality assurance agencies to redress the situation, for their more efficiency and effectiveness. (ii) MoEVT will establish the major gaps/constraints within NACTE and VETA in performing respective coordination roles and provide the required support to the quality assurance agencies to redress the situation, for their more efficiency and effectiveness. (iii) MoEVT will establish the major gaps/constraints within NACTE and VETA in performing respective promotion roles and provide the required support to the quality assurance agencies to redress the situation, for their more efficiency and effectiveness. (iv) MoEVT will establish the major gaps/constraints within VETA in performing its role to manage the VET Fund and provide the required support for their more efficiency and effectiveness.
-3.4.2 To increase the number of TVET institutions/ programmes attaining full accreditation, within three years after getting full registration, from about 10% in 2011/12 to at least 75% in 2017/18. | (a) Enhance the capacities of key players to govern and manage the academic function more effectively. | (i) MoEVT, NACTE and VETA will support TVET institutions to achieve good governance and institutional effectiveness in academic matters. (ii) MoEVT will guide institutional arrangements for the academic function towards a more effective and efficient TVET sub-sector. (iii) MoEVT will build capacity of the Directorate of TVET to more effectively coordinate, harmonise, monitor and evaluate the academic function across the TVET sub-sector. (iv) Other relevant MDAs will build capacities of respective units in MDAs established for coordination, monitoring and evaluation of TVET for more effectiveness. (v) MoEVT will enhance the oversight capacities of the Councils and Boards of NACTE, VETA and TVET institutions for corporate good governance of the institutions. (vi) MoEVT will enhance the leadership and management capacities of NACTE and VETA for more effective and efficient implementation of respective roles.
+3.4.2 To increase the number of TVET institutions/programmes attaining full accreditation, within three years after getting full registration, from about 10% in 2011/12 to at least 75% in 2017/18. | (a) Enhance the capacities of key players to govern and manage the academic function more effectively. | (i) MoEVT, NACTE and VETA will support TVET institutions to achieve good governance and institutional effectiveness in academic matters. (ii) MoEVT will guide institutional arrangements for the academic function towards a more effective and efficient TVET sub-sector. (iii) MoEVT will build capacity of the Directorate of TVET to more effectively coordinate, harmonise, monitor and evaluate the academic function across the TVET sub-sector. (iv) Other relevant MDAs will build capacities of respective units in MDAs established for coordination, monitoring and evaluation of TVET for more effectiveness. (v) MoEVT will enhance the oversight capacities of the Councils and Boards of NACTE, VETA and TVET institutions for corporate good governance of the institutions. (vi) MoEVT will enhance the leadership and management capacities of NACTE and VETA for more effective and efficient implementation of respective roles.
 
 85
 
@@ -2895,7 +2974,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-3.0 Improving the Capacity to provide quality TVET | 3.4 Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured. | 3.4.1 To increase the number of TVET institutions/ programmes attaining full accreditation, within three years after getting full registration, from about 10% in 2011/12 to at least 75% in 2017/18. | (b) Enhance the capacities of key players to govern and manage the administration function more effectively. | (i) MoEVT, NACTE and VETA will support TVET institutions to achieve good governance and institutional effectiveness. (ii) MoEVT will guide institutional arrangements for the administration function towards a more effective and efficient TVET sub-sector. (iii) MoEVT will build capacity of the Directorate of TVET to more effectively coordinate, harmonise, monitor and evaluate the administration function of the TVET sub-sector. (iv) Other relevant MDAs will build capacities of respective units in MDAs established for coordination, monitoring and evaluation of TVET. (v) MoEVT will enhance the oversight capacities of the Councils and Boards of NACTE, VETA and TVET institutions for corporate good governance of the institutions. (vi) MoEVT will enhance the leadership and management capacities of NACTE and VETA for more effectiveness and efficiency.
+3.0 Improving the Capacity to provide quality TVET | 3.4 Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured. | 3.4.1 To increase the number of TVET institutions/programmes attaining full accreditation, within three years after getting full registration, from about 10% in 2011/12 to at least 75% in 2017/18. | (b) Enhance the capacities of key players to govern and manage the administration function more effectively. | (i) MoEVT, NACTE and VETA will support TVET institutions to achieve good governance and institutional effectiveness. (ii) MoEVT will guide institutional arrangements for the administration function towards a more effective and efficient TVET sub-sector. (iii) MoEVT will build capacity of the Directorate of TVET to more effectively coordinate, harmonise, monitor and evaluate the administration function of the TVET sub-sector. (iv) Other relevant MDAs will build capacities of respective units in MDAs established for coordination, monitoring and evaluation of TVET. (v) MoEVT will enhance the oversight capacities of the Councils and Boards of NACTE, VETA and TVET institutions for corporate good governance of the institutions. (vi) MoEVT will enhance the leadership and management capacities of NACTE and VETA for more effectiveness and efficiency.
 (c) Enhance the capacities of institutions in terms of human, physical and financial resources. | (i) NACTE, VETA and other owners of TVET institutions will implement effective human resources management policies and plans in TVET. (ii) NACTE, VETA and other owners of TVET institutions will implement strategic mechanisms for improving the adequacy of buildings and infrastructure towards assuring quality of TVET provision. (iii) NACTE, VETA and other owners of TVET institutions will implement strategic mechanisms for improving the adequacy of equipment and facilities towards assuring quality of TVET. (iv) NACTE, VETA and other owners of TVET institutions will implement the identified strategies for increased financial contribution from all possible sources.
 (d) Strengthen the quality assurance roles of NACTE and VETA for their more efficiency and effectiveness. | (i) MoEVT will establish the major gaps/constraints within NACTE and VETA in performing respective regulatory roles and provide the required support to the quality assurance agencies to redress the situation, for their more efficiency and effectiveness. (ii) MoEVT will establish the major gaps/constraints within NACTE and VETA in performing respective coordination roles and provide the required support to the quality assurance agencies to redress the situation, for their more efficiency and effectiveness.
 
@@ -2920,7 +2999,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
 3.0 Improving the Capacity to provide quality TVET | 3.4 Effective and efficient governance and management of TVET exist at all levels of the sub-sector. | 3.4.1 To ensure that at least 50% of TVET providing and regulating institutions are meeting respective minimum performance targets by 2014/15 and 75% institutions by 2017/18. | (c) Enhance the capacities of key players to govern and manage the administration function more effectively. | (i) MoEVT, NACTE and VETA will support TVET institutions to achieve good governance and institutional effectiveness. (ii) MoEVT will guide institutional arrangements for the administration function towards a more effective and efficient TVET sub-sector. (iii) MoEVT will build capacity of the Directorate of TVET to more effectively coordinate, harmonise, monitor and evaluate the administration function of the TVET sub-sector. (iv) Other relevant MDAs will build capacities of respective units in MDAs established for coordination, monitoring and evaluation of TVET. (v) MoEVT will enhance the oversight capacities of the Councils and Boards of NACTE, VETA and TVET institutions for corporate good governance of the institutions. (vi) MoEVT will enhance the leadership and management capacities of NACTE and VETA for more effectiveness and efficiency.
-4.0 Improving Monitoring and Evaluation of the TVET sub- sector | 4.1 TVET sub- sector is monitored and evaluated regularly and feedback provided for timely and effective improvements. | 4.1.1 To ensure that progress in TVET implementation is effectively monitored and evaluated at all levels from June 2014 onwards. | (a) Enhance the ability to generate and use TVET information more effectively. | (i) MoEVT will enhance capacity of TVET institutions, QA agencies and TVET Directorate and its other staff in collection and analysis of LMI. (ii) MoEVT in collaboration with MoLE will ensure that the existing various LMI systems are effectively integrated and coordinated to eliminate duplication of efforts, and promote sharing of information. (iii) MoEVT will improve TVET-MIS and its linkage with ESMIS, with a view to capturing and harmonious reporting of VET and TET data in ESMIS. (iv) MoEVT EMIS Unit will link TVET supply data with labour market information to allow proper analysis of the progress and impact of training activities according to approved plans across the respective TVET levels. (v) MoEVT EMIS Unit will include projection data in TVET-MIS to allow realistic forecasting. (vi) MoEVT will support the piloting and improvements of the developed draft KPIs for eventual full operationalisation to support effective monitoring and evaluation of TVET at national and other levels.
+4.0 Improving Monitoring and Evaluation of the TVET sub-sector | 4.1 TVET sub-sector is monitored and evaluated regularly and feedback provided for timely and effective improvements. | 4.1.1 To ensure that progress in TVET implementation is effectively monitored and evaluated at all levels from June 2014 onwards. | (a) Enhance the ability to generate and use TVET information more effectively. | (i) MoEVT will enhance capacity of TVET institutions, QA agencies and TVET Directorate and its other staff in collection and analysis of LMI. (ii) MoEVT in collaboration with MoLE will ensure that the existing various LMI systems are effectively integrated and coordinated to eliminate duplication of efforts, and promote sharing of information. (iii) MoEVT will improve TVET-MIS and its linkage with ESMIS, with a view to capturing and harmonious reporting of VET and TET data in ESMIS. (iv) MoEVT EMIS Unit will link TVET supply data with labour market information to allow proper analysis of the progress and impact of training activities according to approved plans across the respective TVET levels. (v) MoEVT EMIS Unit will include projection data in TVET-MIS to allow realistic forecasting. (vi) MoEVT will support the piloting and improvements of the developed draft KPIs for eventual full operationalisation to support effective monitoring and evaluation of TVET at national and other levels.
 
 88
 
@@ -2930,7 +3009,7 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-4.0 Improving Monitoring and Evaluation of the TVET sub- sector | 4.1 TVET sub- sector is monitored and evaluated regularly and feedback provided for timely and effective improvements. | 4.1.2 To ensure that progress in TVET implementation is effectively monitored and evaluated at all levels from June 2014 onwards. | (b) Formulate monitoring and evaluation framework for the sub-sector. | (i) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically locating and providing feedback on the impact of the TVET subsector within the national socioeconomic context and vice versa. (ii) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging the extent of progress of improvements in access and equity to TVET. (iii) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging and providing feedback on the extent of the progress of improvement in the quality of TVET. (iv) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging and providing feedback on the adequacy and appropriateness of resources and other inputs required for providing quality TVET. (v) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging and providing feedback on the extent on how TVET sub-sector is monitored and evaluated to allow timely interventions for improvements.
+4.0 Improving Monitoring and Evaluation of the TVET sub-sector | 4.1 TVET sub-sector is monitored and evaluated regularly and feedback provided for timely and effective improvements. | 4.1.2 To ensure that progress in TVET implementation is effectively monitored and evaluated at all levels from June 2014 onwards. | (b) Formulate monitoring and evaluation framework for the sub-sector. | (i) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically locating and providing feedback on the impact of the TVET subsector within the national socioeconomic context and vice versa. (ii) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging the extent of progress of improvements in access and equity to TVET. (iii) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging and providing feedback on the extent of the progress of improvement in the quality of TVET. (iv) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging and providing feedback on the adequacy and appropriateness of resources and other inputs required for providing quality TVET. (v) MoEVT in collaboration with stakeholders will devise a mechanism for regularly and periodically gauging and providing feedback on the extent on how TVET sub-sector is monitored and evaluated to allow timely interventions for improvements.
 (c) Perform M&E of the TVET sub-sector for improvements, in line with the framework. | (i) MoEVT will systematically and continuously collect and analyse information about the progress of training activities nationally, in accordance with the performance indicators and measures specified in the M&E Framework for the sub-sector. (ii) MoEVT will regularly conduct an objective assessment of inputs, processes, outputs and outcomes for gauging relevance, effectiveness and impact of TVET in the light of corresponding key result areas.
 (d) Promote monitoring and evaluation of undertakings at institutional levels. | (i) TVET institutions will prepare institutional M&E frameworks which are consistent with the Sub-sector framework. (ii) TVET institutions will continuously monitor and evaluate progress of implementation of TVETin line with institutional framework. (iii) MoEVT, NACTE and VETA will ensure that TVET is regularly evaluated in institutions in line with institutional framework. (iv) MoEVT will ensure consistency of institutional frameworks with Programme goals and implementation schedules.
 
@@ -2942,9 +3021,9 @@ Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activit
 
 Priority Area | Key Result Areas | Goals/Indicators | Strategies | Major Activities of the Programme
 --- | --- | --- | --- | ---
-4.0 Improving Monitoring and Evaluation of the TVET sub- sector | 4.1 TVET sub- sector is monitored and evaluated regularly and feedback provided for timely and effective improvements. | 4.1.3 To ensure that progress in TVET implementation is effectively monitored and evaluated at all levels from June 2014 onwards. | (e) Improve reporting and feedback mechanism at all levels. | (i) MoEVT will regularly provide feedback to stakeholders about the progress of training activities nationally in line with the M&E Framework for the sub-sector. (ii) NACTE and VETA will regularly provide feedback to stakeholders about the progress of implementation respective roles in line with the respective M&E Framework. (iii) TVET institutions will regularly provide feedback to stakeholders about the progress of implementation respective roles in line with the respective M&E Framework.
+4.0 Improving Monitoring and Evaluation of the TVET sub-sector | 4.1 TVET sub-sector is monitored and evaluated regularly and feedback provided for timely and effective improvements. | 4.1.3 To ensure that progress in TVET implementation is effectively monitored and evaluated at all levels from June 2014 onwards. | (e) Improve reporting and feedback mechanism at all levels. | (i) MoEVT will regularly provide feedback to stakeholders about the progress of training activities nationally in line with the M&E Framework for the sub-sector. (ii) NACTE and VETA will regularly provide feedback to stakeholders about the progress of implementation respective roles in line with the respective M&E Framework. (iii) TVET institutions will regularly provide feedback to stakeholders about the progress of implementation respective roles in line with the respective M&E Framework.
 4.1.4 To ensure that TVET is taken on board in the overarching national monitoring framework for growth and poverty reduction and impact gauged by 2014/15 and maintained. | (a) Enhance the involvement of the Planning Commission in the review of TVET affairs. | (i) MoEVT in collaboration with MoLE and POPC will regularly generate and update information on core priority areas for supporting the key sectors of the economy and provide inputs to TVET institutions for operationalisation in curricula. (ii) MoEVT will proactively ensure that the outcomes of TVET monitoring and evaluation at national level is regularly shared with POPC and the Research and Analysis Working Group of MKUKUTA Monitoring System. (iii) MoEVT will proactively ensure POPC is adequately represented in all major deliberations on TVET at ministerial level.
-(b) Adopt effective performance indicators in the TVET sub- sector M&E Framework. | (i) MoEVT will ensure that the developed KPIs are in harmony with the modalities used by POPC and the Research and Analysis Working Group of MKUKUTA Monitoring System. (ii) MoEVT will ensure that TVET data in ESMIS is accessed by POPC and the Research and Analysis Working Group of MKUKUTA Monitoring System.
+(b) Adopt effective performance indicators in the TVET sub-sector M&E Framework. | (i) MoEVT will ensure that the developed KPIs are in harmony with the modalities used by POPC and the Research and Analysis Working Group of MKUKUTA Monitoring System. (ii) MoEVT will ensure that TVET data in ESMIS is accessed by POPC and the Research and Analysis Working Group of MKUKUTA Monitoring System.
 (c) Proactively facilitate the recognition of the role and impact of TVET. | (i) MoEVT will benchmark performance of TVET sub-sector in Tanzania with good practices in the world. (ii) MoEVT in collaboration with NACTE and VETA will devise a mechanism to benchmark TVET implementation by individual institutions in the country and rewarding excellence to stimulate improvements.
 
 90
@@ -3207,7 +3286,7 @@ Development Objective Contribution to the realisation of the Education Sector De
 Priority Area | Key Result Area | Indicators/Operational Targets | Means of Verification | Major Assumptions
 --- | --- | --- | --- | ---
 Access and Equity in TVET improved | STD VII, Form IV and Form VI leavers provided with more parallel opportunities for respective further education and/or effective integration into the labour market | Overall enrolment of learners increased from 112,447 learners in TET and 121,348 in VET in 2011/12 to 400,946 and 1,012,967 in 2017/18, respectively  At least 5% of the planned enrolment realized with apprenticeship/work based programmes  At least 30% of the planned enrolment realized through ICT-mediated programmes  At least 30% of the planned enrolment realized with fulltime residential courses  At least 10% of the planned enrolment realized with flexible programmes  At least 25% of the planned enrolment realized with short courses and RPL |  Sub-sector progress reports  Institutional progress reports  Enrolment data  New/reviewed curricula  MoUs with industry  Number of active links  Annual progress reports | Continued support from Government Continued support from development partners Increased involvement of industry/private sector Changed perception on TVET
-Access to TVET for learners from under- represented and disadvantaged groups significantly improved in line with the catchment | Overall enrolment of female learners increased from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases Enrolment of female learners in Science and Technology programmes increased in both VET and TET from about 11-19 % in 2011/12 to at least 35% for all such programmes by 2017/18 |  Enrolment data  Loans, grants and scholarships  Annual progress reports | Increased catchment from lower education levels Will and commitment to support affirmative actions
+Access to TVET for learners from under-represented and disadvantaged groups significantly improved in line with the catchment | Overall enrolment of female learners increased from 46.8% in VET and 47.9% in TET in 2011/12 to at least 50% in 2017/18 for both cases Enrolment of female learners in Science and Technology programmes increased in both VET and TET from about 11-19 % in 2011/12 to at least 35% for all such programmes by 2017/18 |  Enrolment data  Loans, grants and scholarships  Annual progress reports | Increased catchment from lower education levels Will and commitment to support affirmative actions
 Access of learners with disabilities increased from about 20% in VET in 2011/12 to at least 50% of all such potential candidates by 2017/18 Access of learners with disabilities increased from about 3% in TET in 2011/12 to at least 35% of all such potential candidates in TET by 2017/18 | Will and commitment to support affirmative actions
 
 98
@@ -3218,10 +3297,10 @@ Access of learners with disabilities increased from about 20% in VET in 2011/12 
 
 Priority Area | Key Result Area | Indicators/Operational Targets | Means of Verification | Major Assumptions
 --- | --- | --- | --- | ---
-Quality of Outputs improved | Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025 | Enrolment of learners in TVET contribute towards attaining human capital balance in the labour force that is proper for realization of FYDP 2011/12- 2015/16 and eventually Vision 2025 |  Enrolment data  Loans, grants and scholarships  Annual progress reports | Existence of will and commitment to invest in the TVET sub-sector
+Quality of Outputs improved | Impact of the increased access and equity assured and evident in the realization of FYDP and hence Tanzania Development Vision 2025 | Enrolment of learners in TVET contribute towards attaining human capital balance in the labour force that is proper for realization of FYDP 2011/12-2015/16 and eventually Vision 2025 |  Enrolment data  Loans, grants and scholarships  Annual progress reports | Existence of will and commitment to invest in the TVET sub-sector
 Enrolment of learners directed to the occupation fields supporting the core priority areas for realization of FYDP 2011/12-2015/16 and ultimately the Tanzania Development Vision 2025
 Competence of TVET graduates increased so that are able to carry out all the required work tasks properly within 3 months and one year after graduation for at least 50% of fresh graduates from VET and TET respectively by 2015/16 and increased to at least 75% by 2017/18 |  Employer satisfaction reports  Tracer study/graduate survey reports | Increased and sustained investments to facilitate CBET
-Capacity to provide quality TVET improved | Adequate and appropriate human resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond | Students to staff ratio maintained in line with NACTE/VETA norms for all programmes ( Number of teaching staff increased from 4,590 in TET and 3,010 in VET in 2011/12 to 43,300 in TET and 39,000 in VET by 2017/18 ) |  Progress reports  Decrease in staff turnover  Information on registration of institutions  Information on accreditation of institutions | Enhanced flexibility in recruitment procedures Increased autonomy of institutions in managing human resources
+Capacity to provide quality TVET improved | Adequate and appropriate human resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond | Students to staff ratio maintained in line with NACTE/VETA norms for all programmes (Number of teaching staff increased from 4,590 in TET and 3,010 in VET in 2011/12 to 43,300 in TET and 39,000 in VET by 2017/18) |  Progress reports  Decrease in staff turnover  Information on registration of institutions  Information on accreditation of institutions | Enhanced flexibility in recruitment procedures Increased autonomy of institutions in managing human resources
 The proportion of female teaching staff increased from 26% in TET and 29% in VET in 2011/12 to at least 40% in both cases by 2017/18
 At least 75% of all teaching staff in TET and VET have the requisite qualifications and experiences and delivers to expectations by 2015/16 and 100% by 2017/18
 The ratio of technical and administration staff to teaching staff maintained in line with the NACTE/VETA norm by 2017/18 and maintained
@@ -3234,11 +3313,11 @@ The ratio of technical and administration staff to teaching staff maintained in 
 
 Priority Area | Key Result Area | Indicators/Operational Targets | Means of Verification | Major Assumptions
 --- | --- | --- | --- | ---
-Capacity to provide quality TVET improved | Adequate and appropriate physical resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond | Adequacy and appropriateness of buildings and related physical infrastructure for meeting the enrolment targets and programmes achieved by 2017/18 and maintained in line with the norms of NACTE/VETA |  Progress reports  Information on registration of institutions  Information on accreditation of institutions  Budget speeches  Annual reports of institutions  Report of special task teams | Sustained commitment by Government, development partners and other stakeholders to invest in the TVET sub- sector Increased involvement of industry/private sector in the affairs of TVET including realisation of PPP Maintenance and increased contribution of SDL
+Capacity to provide quality TVET improved | Adequate and appropriate physical resources available in line with the needs for improving access, equity and quality in teaching, research and innovation as well as public service within the core priority areas and beyond | Adequacy and appropriateness of buildings and related physical infrastructure for meeting the enrolment targets and programmes achieved by 2017/18 and maintained in line with the norms of NACTE/VETA |  Progress reports  Information on registration of institutions  Information on accreditation of institutions  Budget speeches  Annual reports of institutions  Report of special task teams | Sustained commitment by Government, development partners and other stakeholders to invest in the TVET sub-sector Increased involvement of industry/private sector in the affairs of TVET including realisation of PPP Maintenance and increased contribution of SDL
 Adequacy and appropriateness of equipment and other teaching and learning facilities for meeting the enrolment targets and programmes achieved by 2017/18 and maintain in line with the norms of NACTE/VETA
 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond | A strategic and sustainable TVET funding mechanism for meeting the implication of expanded enrolment and other major undertakings implemented in line with the norms of NACTE/VETA
 Adequate financial resources timely available to support the planned improvements in access, equity and quality in TVET within the core priority areas and beyond
-Effective and efficient governance and management of TVET exist at all levels of the sub- sector and realisation of the desired impact assured | Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured
+Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured | Effective and efficient governance and management of TVET exist at all levels of the sub-sector and realisation of the desired impact assured
 Monitoring and Evaluation of the TVET sub-sector improved | TVET sub-sector is monitored and evaluated regularly and feedback provided for timely and effective improvements | Progress in TVET implementation is monitored and evaluated at all levels from June 2014 onwards and feedback provided |  Annual and bi-annual progress reports  Poverty and Human Development Report  Budget speeches | Effective coordination of the TVET sub-sector and linkage with frameworks for monitoring of progress of national development
 TVET is taken on board in the overarching national monitoring framework for growth and poverty reduction and impact gauged by 2014/15 and maintained
 
@@ -3332,8 +3411,7 @@ SN | Major Activities | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 24 | Enhancing the involvement of employers in curricula implementation at institutions | 100 | 150 | 200 | 250 | 300 | 1,000
 25 | Enhancing collaboration with industry in the provision of practical training of learners | 50 | 60 | 70 | 80 | 90 | 350
 26 | Enhancing collaboration with industry in upgrading of skills of staff at workplaces | 80 | 100 | 120 | 140 | 160 | 600
-Total | 9,655 | 24,510 | 28,937.5 | 33,385 | 113,570
-17,082.5
+Total | 9,655 | 17,082.5 | 24,510 | 28,937.5 | 33,385 | 113,570
 
 102
 
@@ -3379,6 +3457,8 @@ Total | 25,045 | 30,980 | 36,630 | 42,740 | 48,925 | 184,320
 
 [[START OF PAGE 118]]
 
+#### A8.3.2 Building and Infrastructure
+
 SN | Major Activities | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 --- | --- | --- | --- | --- | --- | --- | ---
 1 | Construction of 31 DVTCs before 2015/16 and additional 25 by 2017/18 | 43,200 | 68,400 | 30,000 | 30,000 | 30,000 | 201,600
@@ -3397,8 +3477,6 @@ SN | Major Activities | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 14 | Carrying out maintenance/rehabilitation of buildings infrastructure according to norm | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 50,000
 15 | Promoting the culture of continuous maintenance of physical infrastructure | 2,000 | 1,000 | 1,000 | 1,000 | 1,000 | 6,000
 Total | 172,745 | 198,140 | 135,865 | 97,950 | 98,200 | 702,900
-
-#### A8.3.2 Building and Infrastructure
 
 #### A8.3.3 Equipment and other Facilities
 
@@ -3426,6 +3504,8 @@ Total | 89,500 | 133,750 | 129,950 | 39,100 | 40,550 | 432,850
 
 [[START OF PAGE 119]]
 
+#### A8.3.4 Financial Resources
+
 SN | Major Activities | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 --- | --- | --- | --- | --- | --- | --- | ---
 1 | Assessing how TVET funding ensures links to national priorities and feedback | 30 | 40 | 50 | 60 | 70 | 250
@@ -3441,8 +3521,6 @@ SN | Major Activities | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 11 | Auditing the usage of various resources* and identification of cost reduction measures | 100 | 200 | 300 | 400 | 500 | 1,500
 12 | Implementing cost reduction and unnecessary cost avoidance measures | 150 | 125 | 100 | 75 | 50 | 500
 Total | 1,335 | 1,585 | 1,930 | 2,350 | 2,770 | 9,970
-
-#### A8.3.4 Financial Resources
 
 *including energy, water, paper and other major resources being used
 
@@ -3541,16 +3619,16 @@ Total | 2,091,185 | 100
 
 2012/13 (Baseline) | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | Total
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Government: | VET | 13,043 | 16,304 | 20,380 | 25,475 | 30,570 | 35,155 | 127,882
- Recurrent | TET | 105,850 | 132,313 | 165,391 | 206,738 | 248,086 | 285,299 | 1,037,826
-Expenditure | Total | 118,893 | 148,616 | 185,770 | 232,213 | 278,655 | 320,454 | 1,165,708
-Government: | VET | 16,153 | 20,191 | 25,239 | 31,549 | 37,859 | 43,537 | 158,375
- Capital | TET | 17,232 | 21,540 | 26,925 | 33,656 | 40,388 | 46,446 | 168,954
-Expenditure | Total | 33,385 | 41,731 | 52,164 | 65,205 | 78,246 | 89,983 | 327,329
+Government:  Recurrent Expenditure | VET | 13,043 | 16,304 | 20,380 | 25,475 | 30,570 | 35,155 | 127,882
+|  | TET | 105,850 | 132,313 | 165,391 | 206,738 | 248,086 | 285,299 | 1,037,826
+|  | Total | 118,893 | 148,616 | 185,770 | 232,213 | 278,655 | 320,454 | 1,165,708
+Government:  Capital Expenditure | VET | 16,153 | 20,191 | 25,239 | 31,549 | 37,859 | 43,537 | 158,375
+|  | TET | 17,232 | 21,540 | 26,925 | 33,656 | 40,388 | 46,446 | 168,954
+|  | Total | 33,385 | 41,731 | 52,164 | 65,205 | 78,246 | 89,983 | 327,329
 SDL | 45,600 | 136,800 | 171,000 | 213,750 | 267,188 | 333,984 | 1,122,722
-VET | 338 | 372 | 409 | 450 | 495 | 544 | 2,270
-Development Partners ( in addition to GBS ) | TET | 16,903 | 18,593 | 20,453 | 22,498 | 24,748 | 27,222 | 113,515
-Total | 17,241 | 18,965 | 20,862 | 22,948 | 25,243 | 27,767 | 115,785
+Development Partners (in addition to GBS) | VET | 338 | 372 | 409 | 450 | 495 | 544 | 2,270
+|  | TET | 16,903 | 18,593 | 20,453 | 22,498 | 24,748 | 27,222 | 113,515
+|  | Total | 17,241 | 18,965 | 20,862 | 22,948 | 25,243 | 27,767 | 115,785
 Total Funds available | 215,119 | 343,112 | 429,796 | 534,116 | 649,332 | 772,188 | 2,728,544
 TVETDP Cost | 391,243 | 496,427 | 471,396 | 382,016 | 454,662 | 2,195,744
 Total Budget required | 606,352 | 839,539 | 901,192 | 916,132 | 1,103,994 | 4,367,209
