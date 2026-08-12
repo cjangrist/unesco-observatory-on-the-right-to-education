@@ -14,7 +14,7 @@
 
 ## 1. Introducción
 
-La Convención contra la Discriminación en la Educación ('la Convención') y la Recomendación contra la Discriminación en la Educación ('la Recomendación'), adoptadas por la Conferencia General de la UNESCO en 1960, están alineadas con el mandato constitucio nal de la UNESCO de 'promover el ideal de igualdad de oportunidades educativas'. sin distinción de raza, sexo o distinciones económicas o sociales'. La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la educación y el único dedicado exclusivamente a él.
+La Convención contra la Discriminación en la Educación ('la Convención') y la Recomendación contra la Discriminación en la Educación ('la Recomendación'), adoptadas por la Conferencia General de la UNESCO en 1960, están alineadas con el mandato constitucional de la UNESCO de 'promover el ideal de igualdad de oportunidades educativas'. sin distinción de raza, sexo o distinciones económicas o sociales'. La Convención es el primer instrumento internacional jurídicamente vinculante centrado en el derecho a la educación y el único dedicado exclusivamente a él.
 
 El derecho a la educación es uno de los principios clave que sustentan la agenda Educación 2030 y el Objetivo de Desarrollo Sostenible 4 (ODS4) adoptado por la comunidad internacional en 2015. El ODS 4  busca  garantizar  el  pleno  disfrute  del  derecho  a  la  educación  como  fundamental  para  lograr  el desarrollo sostenible. . Su alcance capta la naturaleza multidimensional del derecho a la educación.
 
@@ -26,11 +26,13 @@ Las presentes Directrices tienen como objetivo ayudar a los Estados Miembros en 
 
 Teniendo en cuenta la agenda Educación 2030, el seguimiento del Convenio y la Recomendación es de crucial importancia para garantizar una educación que sea verdaderamente inclusiva para todos y contrarrestar  las  desigualdades  persistentes  en  el  acceso,  la  participación  y  los  resultados  del aprendizaje  en  todos  los  niveles,  en  particular  para  los  grupos  más  vulnerables.  .  Esto  es particularmente  cierto  en  el  contexto  actual  en  el  que  los  países  están  haciendo  esfuerzos  para recuperarse de la interrupción del aprendizaje causada por la pandemia de COVID-19. Las medidas concretas adoptadas por los países de conformidad con sus obligaciones legales en virtud de estos instrumentos contribuyen a implementar la agenda Educación 2030.
 
-Dado que el alcance y el contenido de las obligaciones legales en virtud del derecho a la educación están alineados con las 10 metas del ODS 4, se están realizando esfuerzos para garantizar que los componentes de las metas se incluyan en las directrices y que estas sirvan como una contribución valiosa. para monitorear el progreso hacia las metas del ODS 4.
+Dado que el alcance y el contenido de las obligaciones legales en virtud del derecho a la educación están alineados con las 10 metas del ODS 4, se están realizando esfuerzos para garantizar que los
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
+
+componentes de las metas se incluyan en las directrices y que estas sirvan como una contribución valiosa. para monitorear el progreso hacia las metas del ODS 4.
 
 Más allá del ODS 4, la Convención también está estrechamente alineada con el contenido normativo sobre el derecho a la educación de otros instrumentos internacionales de derechos humanos como el Pacto Internacional de Derechos Económicos, Sociales y Culturales (1966), la Convención sobre la Eliminación de Todas las Formas de Discriminación. contra la Mujer (1979), la Convención sobre los Derechos del Niño (1989) y la Convención sobre los Derechos de las Personas con Discapacidad (2006).
 
@@ -60,7 +62,7 @@ Hay diferencias en la naturaleza jurídica de las obligaciones en virtud del Con
 
 Teniendo  en  cuenta  las  diferencias  de  alcance  jurídico  inherentes  a  la  naturaleza  de  estas  dos categorías de instrumentos, el contenido de la Recomendación es idéntico al del Convenio. Se espera que los Estados miembros le den efecto en la legislación y las políticas educativas nacionales.
 
-La obligación de presentar informes conforme a las disposiciones del artículo VII del Convenio y de la Recomendación es la misma. El Artículo VIII de la Constitución de la UNESCO establece que 'Cada Estado  Miembro  presentará  a  la  Organización,  en  el  momento  y  en  la  forma  que  determine  la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativas a sus instituciones educativas, científicas y culturales. y actividades, y sobre las medidas adoptadas en cumplimiento de las recomendacion es y convenciones a que se refiere el párrafo 4 del artículo IV'. Por lo tanto, incluso si un país no es Estado Parte en la Convención, debe presentar un informe sobre la implementación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la implementación de estos instrumentos en el contexto de las consultas de seguimiento.
+La obligación de presentar informes conforme a las disposiciones del artículo VII del Convenio y de la Recomendación es la misma. El Artículo VIII de la Constitución de la UNESCO establece que 'Cada Estado Miembro presentará a la Organización, en el momento y en la forma que determine la Conferencia General, informes sobre las leyes, reglamentos y estadísticas relativas a sus instituciones educativas, científicas y culturales. y actividades, y sobre las medidas adoptadas en cumplimiento de las recomendaciones y convenciones a que se refiere el párrafo 4 del artículo IV'. Por lo tanto, incluso si un país no es Estado Parte en la Convención, debe presentar un informe sobre la implementación de la Recomendación, lo que significa que se espera que todos los Estados Miembros de la UNESCO presenten un informe nacional sobre la implementación de estos instrumentos en el contexto de las consultas de seguimiento.
 
 ## 4. Participación en consultas.
 
@@ -74,7 +76,7 @@ Al preparar los informes, se alienta a los Estados miembros a proporcionar infor
 
 La  información  relevante  proporcionada  para  otras  instancias  de  presentación  de  informes  podrá reproducirse o hacer referencia a ella con indicación precisa sobre su recuperación. De manera similar, los hipervínculos a cualquier documento útil o texto legal y político relevante son bienvenidos y también se pueden agregar textos en el anexo.
 
-Los informes de los países presentados para consultas previas se pueden encontrar en el Observatorio del derecho a la educación 7 en la sección de seguimiento del perfil del país. La información aportada en los informes es valiosa tanto para el Observatorio del derecho a la educación como para HerAtlas 8 , la herramienta de seguimiento en línea del derecho a la educación de niñas y mujeres. La información y los datos sobre los sistemas educativos de los países también están disponibles a través de la base de datos  del  Instituto  de  Estadística  de  la  UNESCO. 9 .  Más  allá  de  los  propósitos  de  seguimiento,  los resultados y los informes de las consultas informan un trabajo más amplio, sirviendo para la generación de conocimientos, la promoción y la cooperación técnica.
+Los informes de los países presentados para consultas previas se pueden encontrar en el Observatorio del derecho a la educación 7 en la sección de seguimiento del perfil del país. La información aportada en los informes es valiosa tanto para el Observatorio del derecho a la educación como para HerAtlas 8 , la herramienta de seguimiento en línea del derecho a la educación de niñas y mujeres. La información y los datos sobre los sistemas educativos de los países también están disponibles a través de la base de
 
 > 7 http://www.unesco.org/education/edurights/index.php?action=home&lng=en
 
@@ -83,6 +85,8 @@ Los informes de los países presentados para consultas previas se pueden encontr
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+datos del Instituto de Estadística de la UNESCO. 9 . Más allá de los propósitos de seguimiento, los resultados y los informes de las consultas informan un trabajo más amplio, sirviendo para la generación de conocimientos, la promoción y la cooperación técnica.
 
 ## 5. Modalidades y estructura
 
@@ -96,9 +100,9 @@ Las Directrices se estructuran en torno a tres capítulos:
 
 Con  miras  a  simplificar  las  Directrices  y  al  mismo  tiempo  proporcionar  la  información  sustantiva necesaria para ayudar a los Estados Miembros en la preparación de respuestas, a través de un proceso participativo, se proporcionan dos tipos de orientación:
 
-- Preguntas abiertas y cerradas que deberán responder directamente los Estados miembros. Tenga en cuenta que se pueden proporcionar varias respuestas cuando sea relevante.
+(1) Preguntas abiertas y cerradas que deberán responder directamente los Estados miembros. Tenga en cuenta que se pueden proporcionar varias respuestas cuando sea relevante.
 
-- Información  adicional  destinada  a  orientar  a  los  Estados  miembros  para  estructurar  y detallar  sus  respuestas  a  las  preguntas  abiertas  (incluidas  observaciones  sobre  cómo responder eficientemente a las preguntas planteadas). Estos elementos se presentan en cursiva.
+(2) Información adicional destinada a orientar a los Estados miembros para estructurar y detallar sus respuestas a las preguntas abiertas (incluidas observaciones sobre cómo responder eficientemente a las preguntas planteadas). Estos elementos se presentan en cursiva.
 
 > 9 Estadísticas del UIS (unesco.org)
 
@@ -136,7 +140,7 @@ Correo electrónico y número de teléfono de la persona de contacto: alana.domi
 
 - Por  favor  explique  brevemente  los  pasos  que  se  han  tomado  y  el  cronograma cuando sea relevante , cualquier dificultad encontrada (legal, institucional, política o práctica)  para  completar  el  proceso  de  ratificación. Y  como  puede  ayudar  la UNESCO:
 
-La Convención resulta particularmente pertinente para superar los obstáculos al derecho a la educación. Antes de la COVID -19 el mundo ya no iba por buen camino en cuanto al cumplimiento de los compromisos internacionales en materia de educación y la pandem ia ha exacerbado las desigualdades, y los alumnos  vulnerables,  generalmente  los  que  corren  más  riesgo  de  ser discriminados, corren también mayor riesgo de quedar rezagados.
+La Convención resulta particularmente pertinente para superar los obstáculos al derecho a la educación. Antes de la COVID-19 el mundo ya no iba por buen camino en cuanto al cumplimiento de los compromisos internacionales en materia de educación y la pandemia ha exacerbado las desigualdades, y los alumnos vulnerables, generalmente los que corren más riesgo de ser discriminados, corren también mayor riesgo de quedar rezagados.
 
 Esta convención , que expresa los principios fundamentales de no discriminación e igualdad de oportunidades educativas, abarca el derecho a la educación de manera integral y es reconocida por la UNESCO como pilar de la Agenda de Educación 2030 .
 
@@ -246,7 +250,7 @@ El Convenio y la Recomendación contra la Discriminación en la Educación de 19
 
 ### Convenio contra la Discriminación en la Educación (1960)
 
-> 12 Que insta a los estados a ' eliminar las disparidades de género en la educación y garantizar la igualdad de acceso a todos los  niveles  de  educación  y  formación profesional  para  las  personas  vulnerables,  incluidas las  personas con discapacidad, los pueblos indígenas y los niños en sit uaciones vulnerables'.
+> 12 Que insta a los estados a ' eliminar las disparidades de género en la educación y garantizar la igualdad de acceso a todos los niveles de educación y formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones vulnerables'.
 
 [[END OF PAGE 8]]
 
@@ -258,11 +262,11 @@ El Convenio y la Recomendación contra la Discriminación en la Educación de 19
 
 #### Impacto en el marco jurídico y político :
 
-- Principios de Igualdad y No Discriminación : Este Convenio establece principios clave sobre la igualdad de oportunidades y la no discriminación en la educación, que han sido incorporados en los marcos jurídicos de muchos países. Las leyes y políticas educativas a menudo reflejan estos principios para garantizar que todos los individuos tengan acceso equitativo a la educación.
+1. Principios de Igualdad y No Discriminación : Este Convenio establece principios clave sobre la igualdad de oportunidades y la no discriminación en la educación, que han sido incorporados en los marcos jurídicos de muchos países. Las leyes y políticas educativas a menudo reflejan estos principios para garantizar que todos los individuos tengan acceso equitativo a la educación.
 
-- Reformas en Políticas Educativas : Los países que ratifican el Convenio tienden a revisar y reformar sus políticas educativas para alinearse con los principios establecidos. Esto puede incluir la implementación de políticas que aseguren el acceso igualitario a la educación para todos los grupos sociales y la eliminación de barreras que perpetúan la discriminación.
+2. Reformas en Políticas Educativas : Los países que ratifican el Convenio tienden a revisar y reformar sus políticas educativas para alinearse con los principios establecidos. Esto puede incluir la implementación de políticas que aseguren el acceso igualitario a la educación para todos los grupos sociales y la eliminación de barreras que perpetúan la discriminación.
 
-- Desarrollo de Normativas Nacionales : Las normativas nacionales y las leyes educativas a menudo incorporan las disposiciones del Convenio para garantizar que se respete el derecho a una educación sin discriminación. Esto se refleja en las constituciones, leyes de educación y otras legislaciones relevantes.
+3. Desarrollo de Normativas Nacionales : Las normativas nacionales y las leyes educativas a menudo incorporan las disposiciones del Convenio para garantizar que se respete el derecho a una educación sin discriminación. Esto se refleja en las constituciones, leyes de educación y otras legislaciones relevantes.
 
 ### Recomendación contra la Discriminación en la Educación (1960)
 
@@ -272,25 +276,25 @@ El Convenio y la Recomendación contra la Discriminación en la Educación de 19
 
 #### Impacto en el marco jurídico y político :
 
-- Guías para la Implementación : La Recomendación proporciona directrices sobre cómo implementar los principios del Convenio, incluyendo medidas para promover la igualdad de oportunidades y eliminar prácticas discriminatorias en el sistema educativo.
+1. Guías para la Implementación : La Recomendación proporciona directrices sobre cómo implementar los principios del Convenio, incluyendo medidas para promover la igualdad de oportunidades y eliminar prácticas discriminatorias en el sistema educativo.
 
-- Políticas Inclusivas : Influye en la formulación de políticas que promuevan la inclusión y la diversidad en el ámbito educativo. Esto puede incluir programas de apoyo para educandos de grupos desfavorecidos y la promoción de una cultura escolar inclusiva.
+2. Políticas Inclusivas : Influye en la formulación de políticas que promuevan la inclusión y la diversidad en el ámbito educativo. Esto puede incluir programas de apoyo para educandos de grupos desfavorecidos y la promoción de una cultura escolar inclusiva.
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-- Supervisión y Evaluación : Las recomendaciones también alientan a los países a establecer mecanismos para supervisar y evaluar la implementación de políticas educativas inclusivas y a tomar medidas correctivas cuando sea necesario.
+3. Supervisión y Evaluación : Las recomendaciones también alientan a los países a establecer mecanismos para supervisar y evaluar la implementación de políticas educativas inclusivas y a tomar medidas correctivas cuando sea necesario.
 
 ### Influencia en el Marco Jurídico y Político en Honduras
 
 En el contexto de Honduras, los principios establecidos en estos documentos internacionales han influido en el desarrollo del marco jurídico y político en materia de educación de la siguiente manera:
 
-- Incorporación en la Constitución y Leyes Nacionales : Honduras ha integrado los principios de igualdad y no discriminación en su Constitución y leyes educativas. La Ley Fundamental de Educación y otros documentos normativos reflejan estos principios, asegurando que la educación sea accesible y equitativa para todos.
+1. Incorporación en la Constitución y Leyes Nacionales : Honduras ha integrado los principios de igualdad y no discriminación en su Constitución y leyes educativas. La Ley Fundamental de Educación y otros documentos normativos reflejan estos principios, asegurando que la educación sea accesible y equitativa para todos.
 
-- Políticas Educativas Inclusivas : Las políticas educativas en Honduras han sido diseñadas para promover la igualdad de oportunidades y la inclusión, en línea con los principios establecidos en el Convenio y la Recomendación. Esto incluye la creación de programas y estrategias para atender a grupos desfavorecidos y garantizar el acceso equitativo a la educación.
+2. Políticas Educativas Inclusivas : Las políticas educativas en Honduras han sido diseñadas para promover la igualdad de oportunidades y la inclusión, en línea con los principios establecidos en el Convenio y la Recomendación. Esto incluye la creación de programas y estrategias para atender a grupos desfavorecidos y garantizar el acceso equitativo a la educación.
 
-- Reformas y Vigilancia : Las reformas educativas en Honduras han estado guiadas por el compromiso de cumplir con los estándares internacionales, y las autoridades educativas supervisan la implementación de políticas para asegurar que se respeten los derechos educativos y se combata la discriminación.
+3. Reformas y Vigilancia : Las reformas educativas en Honduras han estado guiadas por el compromiso de cumplir con los estándares internacionales, y las autoridades educativas supervisan la implementación de políticas para asegurar que se respeten los derechos educativos y se combata la discriminación.
 
 ### 1.1 No discriminación e igualdad en la educación
 
@@ -310,7 +314,7 @@ Como referencia: esto se cubre en particular en la meta 4.1 de los ODS y en part
 
 > 13 Ver:Artículo/Párrafo 1(1).
 
-> 14 Que llama a los  estados a  'ampliar sustancialmente  a nivel  mundial  el  número  de  becas  disponibles  […]  para  la inscripción  en  la  educación  superior,  incluida  la  formación  profesional  y  los  programas  técnicos,  científicos,  de ingeniería y de tecnología de l a información y las comunicaciones'.
+> 14 Que llama a los estados a 'ampliar sustancialmente a nivel mundial el número de becas disponibles […] para la inscripción en la educación superior, incluida la formación profesional y los programas técnicos, científicos, de ingeniería y de tecnología de la información y las comunicaciones'.
 
 > 15 Constitución, leyes, decretos, reglamentos, circulares, etc.
 
@@ -360,25 +364,25 @@ En Honduras, la legislación establece varios motivos prohibidos de discriminaci
 
 [[START OF PAGE 12]]
 
-- Raza : La discriminación por motivos raciales está prohibida, protegiendo a las personas de ser tratadas de manera desigual debido a su origen étnico o racial.
+1. Raza : La discriminación por motivos raciales está prohibida, protegiendo a las personas de ser tratadas de manera desigual debido a su origen étnico o racial.
 
-- Género :  La legislación prohíbe la discriminación basada en el género, promoviendo  la  igualdad  entre  hombres  y  mujeres  en  el  acceso  y permanencia en el sistema educativo.
+2. Género : La legislación prohíbe la discriminación basada en el género, promoviendo la igualdad entre hombres y mujeres en el acceso y permanencia en el sistema educativo.
 
-- Orientación  Sexual :  Se  prohíbe  la  discriminación  por  orientación sexual, garantizando que todas las personas tengan derecho a acceder a la educación sin ser objeto de prejuicios o violencia.
+3. Orientación Sexual : Se prohíbe la discriminación por orientación sexual, garantizando que todas las personas tengan derecho a acceder a la educación sin ser objeto de prejuicios o violencia.
 
-- Identidad  de  Género :  La  discriminación  por  identidad  de  género también está prohibida, lo que incluye el reconocimiento y respeto por las identidades transgénero y no binarias.
+4. Identidad de Género : La discriminación por identidad de género también está prohibida, lo que incluye el reconocimiento y respeto por las identidades transgénero y no binarias.
 
-- Discapacidad :  Las personas con discapacidad tienen derecho a recibir una educación inclusiva y no deben ser discriminadas por su condición.
+5. Discapacidad : Las personas con discapacidad tienen derecho a recibir una educación inclusiva y no deben ser discriminadas por su condición.
 
-- Religión : La discriminación basada en creencias religiosas está prohibida,  asegurando  que  todos  los  educandos  puedan  ejercer  su libertad religiosa sin temor a represalias.
+6. Religión : La discriminación basada en creencias religiosas está prohibida, asegurando que todos los educandos puedan ejercer su libertad religiosa sin temor a represalias.
 
-- Condición Socioeconómica : La legislación busca prevenir la discriminación  por  razones  económicas,  garantizando  que  todos  los estudiantes tengan acceso a oportunidades educativas independientemente de su situación financiera.
+7. Condición Socioeconómica : La legislación busca prevenir la discriminación por razones económicas, garantizando que todos los estudiantes tengan acceso a oportunidades educativas independientemente de su situación financiera.
 
-- Edad : La edad no debe ser un motivo para discriminar en el acceso a la educación,  permitiendo  que  personas  de  diferentes  edades  puedan participar en el sistema educativo.
+8. Edad : La edad no debe ser un motivo para discriminar en el acceso a la educación, permitiendo que personas de diferentes edades puedan participar en el sistema educativo.
 
-- Origen Nacional o Étnico :  Se  prohíbe la discriminación basada en el origen  nacional  o  étnico,  protegiendo  así  los  derechos  de  grupos indígenas y afrodescendientes.
+9. Origen Nacional o Étnico : Se prohíbe la discriminación basada en el origen nacional o étnico, protegiendo así los derechos de grupos indígenas y afrodescendientes.
 
-- Estado Civil : La legislación también protege contra la discriminación por estado civil, asegurando que todas las personas tengan igualdad de oportunidades educativas sin importar su situación marital.
+10. Estado Civil : La legislación también protege contra la discriminación por estado civil, asegurando que todas las personas tengan igualdad de oportunidades educativas sin importar su situación marital.
 
 Estos  principios  están  alineados  con  compromisos  internacionales  como  la Convención sobre los Derechos del Niño y otros tratados que promueven la igualdad y no discriminación en el acceso a la educación. Es fundamental que estas  disposiciones  sean  efectivamente  implementadas  para  garantizar  un entorno educativo inclusivo.
 
@@ -608,7 +612,7 @@ Las medidas legales y políticas adoptadas en respuesta al Convenio y Recomendac
 
 - o Ejemplo en Honduras : La Ley Fundamental de Educación de Honduras establece normas para garantizar el acceso y la igualdad en el sistema educativo. Incluye disposiciones para eliminar la discriminación y promover la inclusión.
 
-###### Normativas y Regulaciones Específicas
+###### 3. Normativas y Regulaciones Específicas
 
 - o Descripción : Se elaboran regulaciones y directrices específicas para implementar las leyes y asegurar el cumplimiento de los principios de igualdad y no discriminación.
 
@@ -658,11 +662,11 @@ Las medidas legales y políticas adoptadas en respuesta al Convenio y Recomendac
 
 ##### Ejemplos de Implementación
 
-- Reformas Educativas : Los países que han ratificado el Convenio han llevado a cabo reformas educativas para garantizar la igualdad en el acceso a la educación, como la mejora de infraestructuras escolares y la inclusión de materias sobre derechos humanos y diversidad en los currículos.
+1. Reformas Educativas : Los países que han ratificado el Convenio han llevado a cabo reformas educativas para garantizar la igualdad en el acceso a la educación, como la mejora de infraestructuras escolares y la inclusión de materias sobre derechos humanos y diversidad en los currículos.
 
-- Programas Internacionales : Participación en programas internacionales apoyados por la UNESCO y otras organizaciones que promueven la educación inclusiva y equitativa, como el Programa de Educación para Todos (EPT) y la Agenda de Educación 2030.
+2. Programas Internacionales : Participación en programas internacionales apoyados por la UNESCO y otras organizaciones que promueven la educación inclusiva y equitativa, como el Programa de Educación para Todos (EPT) y la Agenda de Educación 2030.
 
-- Informe y Monitoreo : Preparación de informes periódicos sobre el estado de la educación y la implementación de políticas, con el objetivo de cumplir con los estándares internacionales y ajustar las estrategias según sea necesario.
+3. Informe y Monitoreo : Preparación de informes periódicos sobre el estado de la educación y la implementación de políticas, con el objetivo de cumplir con los estándares internacionales y ajustar las estrategias según sea necesario.
 
 Estas medidas buscan asegurar que todos los individuos tengan acceso a una educación de calidad sin discriminación y con igualdad de oportunidades, en consonancia con los principios establecidos por el Convenio y la Recomendación de 1960.
 
@@ -798,7 +802,7 @@ Las medidas legales y políticas adoptadas para promover la igualdad de género 
 
 - o Ejemplo en Honduras : Programas de becas dirigidos a mujeres para fomentar su participación en carreras técnicas y científicas, tradicionalmente dominadas por hombres.
 
-###### Capacitación y Sensibilización
+###### 2. Capacitación y Sensibilización
 
 [[END OF PAGE 24]]
 
@@ -828,11 +832,11 @@ Las medidas legales y políticas adoptadas para promover la igualdad de género 
 
 ##### Ejemplos Internacionales
 
-- Convenio sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW) : Este tratado internacional de la ONU establece la igualdad de derechos para las mujeres y niñas, incluyendo el acceso a la educación. Los países que ratifican el CEDAW deben implementar medidas para garantizar que la educación sea accesible para todos, sin discriminación de género.
+1. Convenio sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW) : Este tratado internacional de la ONU establece la igualdad de derechos para las mujeres y niñas, incluyendo el acceso a la educación. Los países que ratifican el CEDAW deben implementar medidas para garantizar que la educación sea accesible para todos, sin discriminación de género.
 
-- Objetivos de Desarrollo Sostenible (ODS) : El ODS 4 busca asegurar una educación inclusiva, equitativa y de calidad para todos. Parte de este objetivo es promover la igualdad de género en la educación, lo que impulsa a los países a adoptar políticas y programas que favorezcan la igualdad de género en el sistema educativo.
+2. Objetivos de Desarrollo Sostenible (ODS) : El ODS 4 busca asegurar una educación inclusiva, equitativa y de calidad para todos. Parte de este objetivo es promover la igualdad de género en la educación, lo que impulsa a los países a adoptar políticas y programas que favorezcan la igualdad de género en el sistema educativo.
 
-- Declaración y Plataforma de Acción de Pekín : Adoptada en 1995, esta plataforma de acción promueve la igualdad de género y empoderamiento de las mujeres en diversas áreas, incluyendo la educación. Los países se
+3. Declaración y Plataforma de Acción de Pekín : Adoptada en 1995, esta plataforma de acción promueve la igualdad de género y empoderamiento de las mujeres en diversas áreas, incluyendo la educación. Los países se
 
 [[END OF PAGE 25]]
 
@@ -920,7 +924,7 @@ Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria ya q
 
 - Sírvanse hacer referencia a las leyes y disposiciones pertinentes e indicar las excepciones a la edad legal para contraer matrimonio, así como a la edad mínima absoluta:
 
-> 22 Tenga en cuenta que de acuerdo con la Recomendación general conjunta No. 31 del Comité para la Eliminación de la Discriminación  contra  la  Mujer/observación  general  No.  18  del  Comité  de  los  Derechos  del  Niño  sobre  prácticas nocivas, párr. 20: 'el matrimoni o de un niño maduro y capaz menor de 18 años puede permitirse en circunstancias excepcionales,  siempre  que  el  niño  tenga  al  menos  16  años  y  que  tales  decisiones  sean  tomadas  por  un  juez basándose en motivos excepcionales legítimos definidos por ley y sobre la evidencia de madurez, sin deferencia a la cultura y la tradición'.
+> 22 Tenga en cuenta que de acuerdo con la Recomendación general conjunta No. 31 del Comité para la Eliminación de la Discriminación contra la Mujer/observación general No. 18 del Comité de los Derechos del Niño sobre prácticas nocivas, párr. 20: “el matrimonio de un niño maduro y capaz menor de 18 años puede permitirse en circunstancias excepcionales, siempre que el niño tenga al menos 16 años y que tales decisiones sean tomadas por un juez basándose en motivos excepcionales legítimos definidos por ley y sobre la evidencia de madurez, sin deferencia a la cultura y la tradición”.
 
 [[END OF PAGE 28]]
 
@@ -1032,13 +1036,13 @@ Las medidas legales y políticas adoptadas para proteger los derechos de las min
 
 - o Ejemplo en Honduras : En el marco del sistema electoral hondureño, se han implementado mecanismos para asegurar la representación de los pueblos indígenas en el Congreso Nacional.
 
-###### Iniciativas para la Protección de Derechos Humanos
+###### 4. Iniciativas para la Protección de Derechos Humanos
 
 - o Descripción : Se desarrollan iniciativas y programas para proteger los derechos humanos de las minorías, incluyendo la creación de organismos de monitoreo y defensorías especializadas.
 
 - o Ejemplo en Honduras : La Comisión Nacional de los Derechos Humanos en Honduras trabaja para proteger los derechos de las minorías y promover la igualdad de trato.
 
-###### Promoción de la Cultura y Identidad
+###### 5. Promoción de la Cultura y Identidad
 
 [[END OF PAGE 31]]
 
@@ -1150,11 +1154,9 @@ Abordar estos desafíos requiere una combinación de políticas gubernamentales 
 
 -Por favor explique y, en su caso, indique las medidas legales y políticas adoptadas:
 
-26
+26 Supra nota 15.
 
-> 27 Supra nota 16.
-
-Supra nota 15.
+27 Supra nota 16.
 
 [[END OF PAGE 34]]
 
@@ -1170,7 +1172,7 @@ En Honduras, el derecho a la educación de las minorías, incluyendo los pueblos
 
 - o Artículo relevante : El Artículo 346 de la Constitución establece que el Estado debe garantizar el respeto y la promoción de los derechos culturales de los pueblos indígenas y afrodescendientes.
 
-###### Ley de Autonomía de los Pueblos Indígenas y Afrodescendientes
+###### 2. Ley de Autonomía de los Pueblos Indígenas y Afrodescendientes
 
 - o Descripción : Esta ley promueve el reconocimiento y la autonomía de los pueblos indígenas y afrodescendientes, incluyendo aspectos relacionados con su educación y cultura.
 
@@ -1356,19 +1358,19 @@ En Honduras, las medidas legales y políticas para abordar los derechos y necesi
 
 ###### Leyes y Normativas Nacionales
 
-###### Ley de Migración y Extranjería (Decreto No. 119-2005)
+###### 1. Ley de Migración y Extranjería (Decreto No. 119-2005)
 
 - o Descripción :  Esta  ley  regula  la  entrada,  permanencia  y  salida  de extranjeros en Honduras, incluyendo a migrantes y solicitantes de asilo. Establece los procedimientos para la regularización de su estatus, así como las condiciones de su estancia.
 
 - o Aspectos  clave :  Establece  mecanismos  para  la  regularización  de  la estancia de migrantes y proporciona directrices sobre el trato justo y humano de los extranjeros.
 
-###### Ley de Asilo y Refugio (Decreto No. 36-2001)
+###### 2. Ley de Asilo y Refugio (Decreto No. 36-2001)
 
 - o Descripción : Regula el procedimiento para la solicitud de asilo y el reconocimiento del estatus de refugiado. Esta ley está alineada con los principios internacionales para la protección de refugiados.
 
 - o Aspectos clave : Define los derechos de los solicitantes de asilo y refugiados, y establece el proceso para su evaluación y protección.
 
-###### Ley para la Protección de los Derechos Humanos de las Personas en Movimiento (En desarrollo)
+###### 3. Ley para la Protección de los Derechos Humanos de las Personas en Movimiento (En desarrollo)
 
 - o Descripción : En proceso de desarrollo, esta ley busca consolidar y mejorar la protección de los derechos humanos de migrantes, refugiados, solicitantes de asilo, apátridas y desplazados internos.
 
@@ -1382,13 +1384,13 @@ En Honduras, las medidas legales y políticas para abordar los derechos y necesi
 
 ###### Tratados Internacionales Ratificados
 
-###### Convenio sobre el Estatuto de los Refugiados (1951) y Protocolo de 1967
+###### 1. Convenio sobre el Estatuto de los Refugiados (1951) y Protocolo de 1967
 
 - o Descripción : Honduras es parte de estos instrumentos internacionales, que establecen los derechos y la protección para los refugiados y solicitantes de asilo.
 
 - o Aspectos clave : Establece principios de protección como el de no devolución y el acceso a servicios básicos.
 
-###### Convenio Internacional sobre la Protección de los Derechos de Todos los Trabajadores Migratorios y de sus Familiares (1990)
+###### 2. Convenio Internacional sobre la Protección de los Derechos de Todos los Trabajadores Migratorios y de sus Familiares (1990)
 
 [[END OF PAGE 40]]
 
@@ -1470,7 +1472,7 @@ Estas medidas legales y políticas están diseñadas para abordar los desafíos 
 
 En Honduras, el tema de los desplazados climáticos es especialmente relevante dado el  contexto  del  país,  que  enfrenta  frecuentes  fenómenos  climáticos  extremos  como huracanes,  inundaciones  y  sequías.  Sin  embargo,  las  medidas  específicas  para  los desplazados climáticos aún están en desarrollo y presentan ciertos desafíos. Aquí se detallan algunas de las acciones y medidas que se han adoptado o que están en proceso, así como los desafíos asociados:
 
-##### Marco Legal y Políticas Públicas
+##### 1. Marco Legal y Políticas Públicas
 
 [[END OF PAGE 42]]
 
@@ -1504,7 +1506,7 @@ Datos y Monitoreo: La falta de datos precisos sobre la magnitud y las necesidade
 
 Coordinación  Interinstitucional: La  coordinación  entre  diferentes  instituciones gubernamentales, ONGs y organismos internacionales es crucial para una respuesta efectiva, pero a menudo enfrenta desafíos debido a la falta de coordinación y recursos.
 
-##### Colaboración Internacional
+##### 4. Colaboración Internacional
 
 Apoyo  de Organismos  Internacionales: Honduras colabora con organismos internacionales como la ONU, el Banco Mundial y la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) para implementar programas y proyectos que apoyen a las comunidades afectadas por desastres climáticos.
 
@@ -1594,13 +1596,13 @@ En resumen, la legislación hondureña garantiza el derecho a la educación para
 
  Se proporcionan incentivos financieros y becas.
 
+ Otro
+
  Se adaptan los planes de estudio y los métodos de enseñanza y aprendizaje .
 
  Los planes de estudios se deshacen de todos los estereotipos. 34 y prejuicio
 
  Se adaptan la infraestructura educativa y los materiales de aprendizaje.
-
- Otro
 
 -Por favor explique y, en su caso, indique las medidas legales y políticas adoptadas:
 
@@ -1770,10 +1772,6 @@ La realización del derecho a la educación de las personas con discapacidad enf
 
 [[START OF PAGE 52]]
 
-35
-
-36
-
 - Desafío: La falta de datos precisos sobre el número y las necesidades específicas de los estudiantes con discapacidad puede dificultar la planificación y la asignación de recursos adecuados.
 
 - Información  Cuantitativa: Menos  del  30%  de  los  países  tienen  sistemas  de recolección de datos robustos sobre educandos con discapacidad, lo que limita la capacidad para monitorear y mejorar la implementación de políticas.
@@ -1800,9 +1798,9 @@ La realización del derecho a la educación de las personas con discapacidad enf
 
 En Honduras, se han adoptado varias medidas legales y políticas para asegurar el derecho a la educación de los educandos provenientes de hogares pobres. Estas medidas buscan abordar las barreras económicas y facilitar el acceso a una educación de calidad para todos los educandos, independientemente de su situación socioeconómica. A continuación, se detallan las principales medidas y políticas adoptadas, junto con información cuantitativa relevante:
 
-> Supra nota 15.
+35 Supra nota 15.
 
-Supra nota 16.
+36 Supra nota 16.
 
 [[END OF PAGE 52]]
 
@@ -2166,17 +2164,13 @@ En Honduras, la educación Prebásica está diseñada para ser accesible, pero s
 
 - Niveles:
 
-- Duración Total: La educación Prebásica en Honduras abarca tres años en total, con los grados correspondientes para los rangos de edad mencionados.
-
 - o Primer Grado: Para niños de 3 a 4 años.
 
 - o Segundo Grado: Para niños de 4 a 5 años.
 
-- o
+- o Tercer Grado: Para niños de 5 a 6 años.
 
-- Tercer Grado:
-
-Para niños de 5 a 6 años.
+- Duración Total: La educación Prebásica en Honduras abarca tres años en total, con los grados correspondientes para los rangos de edad mencionados.
 
 ##### Gratuidad de la Educación Prebásica
 
@@ -2206,13 +2200,13 @@ algunas zonas remotas puede haber desafíos relacionados con la provisión compl
 
 La educación Prebásica en Honduras tiene una duración de tres años, con tres grados educativos para niños de 3 a 6 años. En los centros educativos gubernamentales, la educación Prebásica está destinada a ser gratuita, cubriendo matrícula y, en general, servicios básicos. Sin embargo, en los centros educativos no gubernamentales, se pueden aplicar costos de matrícula y otros gastos. Se implementan diversas medidas para apoyar a las familias de bajos ingresos y asegurar el acceso a la educación Prebásica gratuita en la medida de lo posible.
 
--Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, útiles escolares, uniformes, transporte y gravámenes obliga torios para los padres). Se podrá añadir breve información cuantitativa.
+- Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, útiles escolares, uniformes, transporte y gravámenes obligatorios para los padres). Se podrá añadir breve información cuantitativa.
 
 En Honduras, varias leyes y políticas relevantes buscan regular y apoyar la educación Prebásica, aunque la gratuidad puede variar. A continuación, se enumeran las leyes y políticas pertinentes, junto con información sobre costos directos e indirectos asociados con la educación Prebásica:
 
 ##### Leyes y Políticas Pertinentes
 
-- Ley Fundamental de Educación (2011)
+1. Ley Fundamental de Educación (2011)
 
 [[END OF PAGE 63]]
 
@@ -2222,19 +2216,19 @@ En Honduras, varias leyes y políticas relevantes buscan regular y apoyar la edu
 
 - o Información Relevante: Establece directrices para la inclusión y el acceso a la educación, pero no define explícitamente la gratuidad de la educación Prebásica.
 
-- Ley de Protección Integral de la Niñez y Adolescencia (2015)
+2. Ley de Protección Integral de la Niñez y Adolescencia (2015)
 
 - o Descripción: Protege los derechos de los niños y adolescentes, incluyendo el acceso a la educación. Promueve la importancia de la educación temprana.
 
 - o Información Relevante: Proporciona un marco para la protección y el desarrollo infantil, aunque no aborda específicamente la gratuidad de la educación Prebásica.
 
-- Política Nacional de Primera Infancia
+3. Política Nacional de Primera Infancia
 
 - o Descripción: Coordina acciones para la atención integral de los niños de 0 a 6 años, incluyendo educación, salud y nutrición.
 
 - o Información Relevante: Orienta sobre la provisión de servicios de educación Prebásica, aunque no garantiza explícitamente la gratuidad.
 
-- Política Nacional de Educación (actualizaciones periódicas)
+4. Política Nacional de Educación (actualizaciones periódicas)
 
 - o Descripción: Define directrices y objetivos para la educación en Honduras, incluyendo la educación Prebásica.
 
@@ -2252,9 +2246,7 @@ En Honduras, varias leyes y políticas relevantes buscan regular y apoyar la edu
 
 - o Educación Prebásica No gubernamental: Generalmente, las instituciones no gubernamentales cobran matrícula y otros costos relacionados con la inscripción.
 
-- Información Cuantitativa: Los costos de matrícula en centros educativos no gubernamentales pueden variar significativamente, desde aproximadamente L 3,000 a L 10,000
-
-- anuales, dependiendo de la institución.
+- Información Cuantitativa: Los costos de matrícula en centros educativos no gubernamentales pueden variar significativamente, desde aproximadamente L 3,000 a L 10,000 anuales, dependiendo de la institución.
 
 [[END OF PAGE 64]]
 
@@ -2304,8 +2296,6 @@ En Honduras, varias leyes y políticas relevantes buscan regular y apoyar la edu
 
 [[START OF PAGE 66]]
 
--Por favor elabora. Se podrá añadir breve información cuantitativa.
-
 - Información Cuantitativa: Los costos adicionales pueden variar, pero pueden alcanzar entre L 1,000 a L 3,000 anuales.
 
 ##### Conclusión
@@ -2328,17 +2318,19 @@ En Honduras, la educación Prebásica está promovida a nivel nacional y se espe
 
  Falta de apoyo a las familias.
 
+- Por favor elabora. Se podrá añadir breve información cuantitativa.
+
 Breve descripción cuantitativa de algunos desafíos asociados con la educación preescolar en Honduras:
 
 ##### Desafíos en la Educación Prebásica y su Información Cuantitativa
 
-###### Acceso a la Educación Prebásica
+###### 1. Acceso a la Educación Prebásica
 
 - o Cobertura Nacional: En Honduras, la cobertura de educación Prebásica aún es limitada, aproximadamente el 60% de los niños en edad para Prebásica (4 a 6 años) están matriculados en programas de educación inicial, lo que deja a cerca del 40% sin acceso a servicios formales.
 
 - o Zonas Rurales: La cobertura en áreas rurales es significativamente menor, con solo un 40% de los niños en estas zonas que tienen acceso a educación Prebásica comparado con el 70% en áreas urbanas.
 
-###### Calidad de la Educación
+###### 2. Calidad de la Educación
 
 - o Infraestructura y Recursos: Muchos centros educativos de Prebásica, especialmente en áreas rurales, carecen de infraestructura
 
@@ -2362,13 +2354,13 @@ Breve descripción cuantitativa de algunos desafíos asociados con la educación
 
 - o Acceso a Servicios Básicos: Solo el 50% de los centros educativos en áreas rurales tienen acceso a servicios básicos como agua potable y electricidad, lo que afecta la calidad de la educación.
 
-###### Inclusión de Niños con Necesidades Especiales
+###### 5. Inclusión de Niños con Necesidades Especiales
 
 - o Acceso a Servicios Especializados: Menos del 20% de los niños con discapacidades tienen acceso a programas de educación Prebasica especializados, lo que indica una brecha significativa en la inclusión educativa.
 
 - o Capacitación del Personal: Solo el 25% de los educadores están capacitados en educación inclusiva, lo que limita la calidad de la educación para niños con necesidades especiales.
 
-###### Barreras Económicas para Familias de Bajos Recursos
+###### 6. Barreras Económicas para Familias de Bajos Recursos
 
 - o Aporte Familiar: Las familias de bajos recursos enfrentan dificultades para cubrir los costos indirectos de educación. Un estudio revela que el 40% de las familias en situación de pobreza no puede asumir costos adicionales como útiles escolares y transporte.
 
@@ -2422,19 +2414,15 @@ Como referencia: El artículo/párrafo 4(a) del Convenio/Recomendación establec
 
 - Duración: 6 años (primer a sexto grado).
 
-.
-
 [[END OF PAGE 68]]
 
 [[START OF PAGE 69]]
 
 Este marco temporal asegura que los educandos tengan una base educativa sólida antes de pasar al III ciclo de educación básica, que comienza normalmente a los 12 años de edad.
 
--¿La educación primaria es obligatoria y gratuita?
+- ¿La educación primaria es obligatoria y gratuita?
 
-- Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos  (por  ejemplo,  tasas  de  inscripción  y  matrícula)  y  costos  indirectos  (por  ejemplo,  tasas  de exámenes, útiles escolares, uniformes, transporte y gravámenes obligatorios para los padres). Se podrá añadir breve information cuantitativa.
-
- La educación primaria es obligatoria .
+ La educación primaria es obligatoria.
 
  La educación primaria no es obligatoria.
 
@@ -2442,23 +2430,25 @@ Este marco temporal asegura que los educandos tengan una base educativa sólida 
 
  La educación primaria no es gratuita.
 
+- Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, tasas de exámenes, útiles escolares, uniformes, transporte y gravámenes obligatorios para los padres). Se podrá añadir breve information cuantitativa.
+
 En Honduras, la legislación y las políticas educativas establecen el marco para la educación básica. A continuación, se enumeran las leyes y políticas pertinentes, junto con información sobre los costos directos e indirectos asociados con la educación primaria:
 
 ###### Leyes y Políticas Pertinentes
 
-- Ley Fundamental de Educación (2011)
+1. Ley Fundamental de Educación (2011)
 
 - o Descripción: Esta ley establece que la educación básica (I, II y III ciclo) debe ser gratuita y obligatoria. Promueve el acceso universal a la educación y establece directrices para la calidad educativa.
 
 - o Información Relevante: Define la educación básica (I , II y III ciclo) como obligatoria y gratuita, aunque la implementación práctica puede variar.
 
-- Ley de Protección Integral de la Niñez y Adolescencia (2015)
+2. Ley de Protección Integral de la Niñez y Adolescencia (2015)
 
 - o Descripción: Garantiza el derecho a la educación para todos los niños y adolescentes y establece un marco para proteger sus derechos en el ámbito educativo.
 
 - o Información Relevante: Asegura que los derechos educativos de los niños sean respetados, apoyando el acceso a la educación básica (I , II y III ciclo).
 
-- Política Nacional de Educación
+3. Política Nacional de Educación
 
 - o Descripción: Define las directrices para el sistema educativo en Honduras, incluyendo objetivos, estrategias y planes para mejorar la calidad de la educación básica.
 
@@ -2532,19 +2522,13 @@ En Honduras, la legislación y las políticas educativas establecen el marco par
 
 - Educación Básica Gubernamental:
 
-- o Tasas Directas:
-
-L 0 a L 300 anuales.
+- o Tasas Directas: L 0 a L 300 anuales.
 
 - o Costos Indirectos:
 
-- Útiles escolares: L 500 a L 1,500
+- Útiles escolares: L 500 a L 1,500.
 
-- Uniformes:
-
-.
-
-L 800 a L 2,000 .
+- Uniformes: L 800 a L 2,000.
 
 - Transporte: L 500 a L 1,500 mensuales.
 
@@ -2552,27 +2536,19 @@ L 800 a L 2,000 .
 
 - Educación Básica No gubernamental:
 
-- o Tasas Directas: L 2,000 a L 8,000
+- o Tasas Directas: L 2,000 a L 8,000 anuales.
 
 - o Costos Indirectos:
 
-- Útiles escolares: L 700 a L 2,000
+- Útiles escolares: L 700 a L 2,000.
 
-.
-
-- Uniformes:
-
-L 1,500 a L 3,000 .
+- Uniformes: L 1,500 a L 3,000.
 
 - Transporte: L 500 a L 1,500 mensuales.
 
-- Contribuciones adicionales:
-
-L 500 a L 2,000 anuales.
+- Contribuciones adicionales: L 500 a L 2,000 anuales.
 
 Estos costos pueden variar dependiendo de la ubicación, el tipo de centro educativo y la situación económica de las familias.
-
-anuales.
 
 [[END OF PAGE 71]]
 
@@ -2610,19 +2586,19 @@ Breve descripción cuantitativa de los desafíos que se encuentran en la realiza
 
 ###### Desafíos en la Educación Básica (I , II y III ciclo) y su Información Cuantitativa
 
-###### Acceso a la Educación
+###### 1. Acceso a la Educación
 
 - o Cobertura Nacional: Aunque la educación básica es obligatoria y gratuita, el 14% de los niños en edad escolar básica no están matriculados en el sistema educativo, principalmente debido a barreras económicas y geográficas.
 
 - o Zonas Rurales: En áreas rurales, la cobertura es considerablemente menor, con solo el 80% de los niños en edad escolar matriculados en comparación con el 95% en áreas urbanas.
 
-###### Calidad de la Educación
+###### 2. Calidad de la Educación
 
 - o Infraestructura Escolar: Aproximadamente el 25% de Los centros educativos gubernamentales carecen de infraestructura adecuada, incluyendo acceso a agua potable, instalaciones sanitarias y recursos educativos básicos.
 
 - o Materiales Educativos: Alrededor del 30% de los centros educativos de educacion básica reportan una falta significativa de materiales educativos, como libros y recursos didácticos.
 
-###### Desigualdades Regionales
+###### 3. Desigualdades Regionales
 
 - o Disparidades en Recursos: Los centros educativos en áreas urbanas reciben hasta un 40% más de inversión en recursos educativos en comparación con las rurales. Esto afecta la calidad y la equidad en el acceso a la educación.
 
@@ -2706,7 +2682,7 @@ Este  nivel  de  educación  formal  parte  de  la  educación  media  obligator
 
 ¿La educación secundaria inferior y superior es obligatoria y gratuita?
 
- L a educación secundaria es obligatoria.
+ La educación secundaria es obligatoria.
 
  La educación secundaria inferior no es obligatoria.
 
@@ -2726,23 +2702,23 @@ Este  nivel  de  educación  formal  parte  de  la  educación  media  obligator
 
  La educación secundaria superior no es gratuita.
 
--Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, tasas de exámenes, útiles escolares, uniformes, transporte y gravámenes obligatorios para los padres). Se podrìa añadir breve informació n cuantitativa.
+- Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, tasas de exámenes, útiles escolares, uniformes, transporte y gravámenes obligatorios para los padres). Se podrìa añadir breve información cuantitativa.
 
 En Honduras, la educación secundaria equivale al nivel de Educación Media y está regida por diversas leyes y políticas que buscan asegurar el acceso y la calidad en este nivel educativo. A continuación, se enumeran las leyes y políticas pertinentes, junto con información sobre los costos directos e indirectos asociados con la Educación Media:
 
 ###### Leyes y Políticas Pertinentes
 
-- Ley Fundamental de Educación (2011)
+1. Ley Fundamental de Educación (2011)
 
 - o Descripción: Establece que la educación media es gratuita y obligatoria.
 
-- Ley de Protección Integral de la Niñez y Adolescencia (2015)
+2. Ley de Protección Integral de la Niñez y Adolescencia (2015)
 
 - o Descripción: Garantiza el derecho a la educación para todos los niños y adolescentes, incluyendo la educación básica y media, y protege sus derechos en el ámbito educativo.
 
 - o Información Relevante: Asegura la protección de los derechos educativos y fomenta la inclusión y el acceso a la educación.
 
-- Política Nacional de Educación
+3. Política Nacional de Educación
 
 - o Descripción: Define las estrategias y objetivos para el sistema educativo, incluyendo la Educacion Básica y media, con el fin de mejorar la calidad y la cobertura.
 
@@ -2816,49 +2792,31 @@ En Honduras, la educación secundaria equivale al nivel de Educación Media y es
 
 - Educación Secundaria Inferior gubernamental (I y II ciclo):
 
-- o Tasas Directas:
-
-- L 0 a L 300 anuales.
+- o Tasas Directas: L 0 a L 300 anuales.
 
 - o Costos Indirectos:
 
-- Útiles escolares: L 700 a L 1,500
+- Útiles escolares: L 700 a L 1,500.
 
-- Uniformes:
-
-.
-
-L 1,000 a L 2,500 .
+- Uniformes: L 1,000 a L 2,500.
 
 - Transporte: L 600 a L 1,800 mensuales.
 
-- Contribuciones adicionales:
-
-L 200 a L 600 anuales.
+- Contribuciones adicionales: L 200 a L 600 anuales.
 
 - Educación Secundaria Inferior No gubernamental (I y II ciclo):
 
-- o Tasas Directas: L 3,000 a L 12,000
-
-anuales.
+- o Tasas Directas: L 3,000 a L 12,000 anuales.
 
 - o Costos Indirectos:
 
-▪
+- Útiles escolares: L 1,000 a L 2,500.
 
-- Contribuciones adicionales:
-
-- Útiles escolares: L 1,000 a L 2,500
-
-.
-
-- Uniformes: L 1,500 a L 3,500 .
-
-▪
+- Uniformes: L 1,500 a L 3,500.
 
 - Transporte: L 600 a L 1,800 mensuales.
 
-L 500 a L 2,000 anuales.
+- Contribuciones adicionales: L 500 a L 2,000 anuales.
 
 Estos costos pueden variar dependiendo de la ubicación, el tipo de institución y la situación económica de las familias.
 
@@ -2868,7 +2826,7 @@ Como referencia: Las leyes laborales y las relacionadas con la educación obliga
 
  Sí
 
-No
+ No
 
 [[END OF PAGE 77]]
 
@@ -2930,19 +2888,19 @@ Breve descripción cuantitativa de los desafíos que se encuentran en la realiza
 
 ###### Desafíos de la Educación Básica y su Información Cuantitativa
 
-###### Acceso y Cobertura
+###### 1. Acceso y Cobertura
 
 - o Tasa de Matrícula: Aunque la Educación Básica es obligatoria, aproximadamente el 10% de los adolescentes en edad escolar no están matriculados en la Educacion Básica. Esto se debe a factores como barreras económicas y falta de infraestructura en áreas rurales.
 
 - o Zonas Rurales vs. Urbanas: La cobertura en áreas rurales es significativamente menor, con solo el 70% de los adolescentes en edad escolar matriculados, en comparación con el 85% en áreas urbanas.
 
-###### Calidad Educativa
+###### 2. Calidad Educativa
 
 - o Infraestructura Escolar: Alrededor del 30% de los centros educativos gubernamentales de Educacion Básica tienen problemas graves de infraestructura, como falta de aulas adecuadas, acceso a agua potable y servicios sanitarios.
 
 - o Recursos Educativos: El 25% de los centros educativos gubernamentales de Educacion Básica reportan una falta importante de materiales educativos, como libros de texto y recursos digitales.
 
-###### Desigualdades Regionales
+###### 3. Desigualdades Regionales
 
 - o Inversión por Educandos: los centros educativos gubernamentales en áreas urbanas reciben aproximadamente un 40% más de inversión en recursos educativos que las rurales, afectando la calidad de la educación y la equidad.
 
@@ -3002,8 +2960,6 @@ Como  referencia:  El  artículo/párrafo  4(a)  del  Convenio/Recomendación  p
 
 - Indique los esfuerzos realizados para garantizar que la Educación Superior, incluida la educación y la formación técnica y profesional, sea igualmente accesible para todos en función de la capacidad individual y/o esté disponible de forma gratuita (se pueden marcar varios elementos):
 
--Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, tasas de  exámenes,  útiles  universitarios,  transporte,  alojami ento). Se  podrá  añadir  breve  información cuantitativa.
-
  La educación superior es gratuita.
 
  La educación superior es accesible sobre la base de la capacidad individual (evaluada en referencia a las calificaciones y la experiencia pertinentes)
@@ -3018,11 +2974,13 @@ Como  referencia:  El  artículo/párrafo  4(a)  del  Convenio/Recomendación  p
 
  Otro:
 
+- Enumere las leyes y políticas pertinentes. Cuando corresponda, proporcione información sobre los costos directos (por ejemplo, tasas de inscripción y matrícula) y costos indirectos (por ejemplo, tasas de exámenes, útiles universitarios, transporte, alojamiento). Se podrá añadir breve información cuantitativa.
+
 En Honduras, varias leyes y políticas abordan el acceso a la Educación Superior, incluyendo la educación técnica y profesional. A continuación, se enumeran las leyes y políticas pertinentes, junto con información sobre los costos directos e indirectos asociados con la educación superior:
 
 ##### Leyes y Políticas Pertinentes
 
-- Ley Fundamental de Educación (2011)
+1. Ley Fundamental de Educación (2011)
 
 > 39 Que pide a los estados "garantizar el acceso igualitario de todas las mujeres y hombres a una educación técnica, profesional y terciaria asequible y de calidad, incluida la universitaria".
 
@@ -3036,19 +2994,19 @@ En Honduras, varias leyes y políticas abordan el acceso a la Educación Superio
 
 - o Información Relevante: Establece el principio de educación gratuita en el nivel de básica y Media, pero para la Educación Superior, las universidades públicas y privadas establecen sus propios costos.
 
-- Ley de Universidades (1984)
+2. Ley de Universidades (1984)
 
 - o Descripción: Regula el funcionamiento de las universidades en Honduras, incluyendo la Universidad Nacional Autónoma de Honduras (UNAH) y otras instituciones públicas. Establece el acceso gratuito o a bajo costo en las universidades públicas.
 
 - o Información Relevante: Define que las universidades públicas deben ofrecer educación a precios accesibles, aunque pueden aplicar costos mínimos para cubrir gastos operativos.
 
-- Ley de Educación Técnica y Formación Profesional (2017)
+3. Ley de Educación Técnica y Formación Profesional (2017)
 
 - o Descripción: Regula la educación técnica y profesional en Honduras, enfocándose en la formación de habilidades y competencias para el mercado laboral.
 
 - o Información Relevante: Busca aumentar el acceso a la formación técnica y profesional mediante subsidios y programas de becas.
 
-- Política Nacional de Educación
+4. Política Nacional de Educación
 
 - o Descripción: Define los objetivos y estrategias para el Sistema Educativo Nacional, incluyendo la Educación Superior. Se enfoca en mejorar la calidad y el acceso a la educación.
 
@@ -3128,7 +3086,7 @@ Estos costos reflejan la realidad económica que enfrentan los estudiantes en Ho
 
 [[START OF PAGE 84]]
 
--¿Qué desafíos se encontraron en la realización de la Educación S uperior?
+- ¿Qué desafíos se encontraron en la realización de la Educación Superior?
 
  Acceso limitado
 
@@ -3150,25 +3108,25 @@ Breve descripción cuantitativa de los desafíos que se encuentran en la realiza
 
 ##### Desafíos en la Educación Superior y su Información Cuantitativa
 
-###### Acceso y Cobertura
+###### 1. Acceso y Cobertura
 
 - o Tasa de Matrícula en Educación Superior: Aproximadamente el 30% de los jóvenes en edad de acceder a la educación superior no están matriculados en ninguna institución de educación superior. Esto se debe a factores económicos, falta de oferta académica en áreas rurales y barreras de acceso.
 
 - o Cobertura Regional: En áreas rurales y regiones menos desarrolladas, solo alrededor del 15% de los jóvenes tiene acceso a educación superior, comparado con el 40% en áreas urbanas.
 
-###### Calidad de la Educación
+###### 2. Calidad de la Educación
 
 - o Infraestructura y Recursos: Cerca del 40% de las universidades públicas reportan problemas significativos de infraestructura, como falta de equipos modernos y mantenimiento de edificios.
 
 - o Materiales Educativos: Aproximadamente el 35% de las universidades públicas carecen de recursos educativos actualizados, afectando la calidad de la enseñanza.
 
-###### Costos Asociados
+###### 3. Costos Asociados
 
 - o Costos de Matrícula: Aunque las universidades públicas tienen costos bajos, los costos asociados (tasa de inscripción, exámenes) en universidades privadas pueden ser altos. La matrícula en universidades privadas puede variar entre L 10,000 a L 40,000 anuales.
 
 - o Costos Indirectos: Los costos indirectos, como transporte y alojamiento, representan una carga significativa. En promedio, los estudiantes enfrentan costos adicionales de entre L 3,000 a L 8,000 mensuales, dependiendo de su ubicación y necesidades.
 
-###### Desigualdades en el Acceso
+###### 4. Desigualdades en el Acceso
 
 - o Acceso para Grupos Vulnerables: Menos del 20% de los estudiantes con discapacidad tienen acceso a programas educativos
 
@@ -3224,9 +3182,9 @@ Estos datos reflejan los principales desafíos en la Educación Superior en Hond
 
 #### 2.4 Educación de adultos y aprendizaje alternativo
 
-Como referencia: El artículo/párrafo 4(c) del Convenio/Recomendación prevé la educación de adultos y el aprendizaje alternativo. Si bien el ODS 4 pretende 'garantizar una educación inclusiva, equitativa y de calidad y promover  oportunidades  de  aprendizaje permanente  para  todos', la meta  4.6 insta específicamente a los estados a 'garantizar que todos los jóvenes y una proporción sustancial de adultos, tanto hombres como mujeres, alcancen la alfabetización y la aritmética'. Además, en virtud de la meta 4.4, l os Estados están llamados a 'aumentar y diversificar las oportunidades de aprendizaje, utilizando una amplia  gama  de  modalidades  de  educación  y  formación,  de  modo  que  todos  los  jóvenes  y  adultos, especialmente  las  niñas  y  las  mujeres,  puedan  adquirir  conoc imientos,  habilidades  y  competencias pertinentes para el trabajo decente. y vida."
+Como referencia: El artículo/párrafo 4(c) del Convenio/Recomendación prevé la educación de adultos y el aprendizaje alternativo. Si bien el ODS 4 pretende 'garantizar una educación inclusiva, equitativa y de calidad y promover oportunidades de aprendizaje permanente para todos', la meta 4.6 insta específicamente a los estados a 'garantizar que todos los jóvenes y una proporción sustancial de adultos, tanto hombres como mujeres, alcancen la alfabetización y la aritmética'. Además, en virtud de la meta 4.4, los Estados están llamados a 'aumentar y diversificar las oportunidades de aprendizaje, utilizando una amplia gama de modalidades de educación y formación, de modo que todos los jóvenes y adultos, especialmente las niñas y las mujeres, puedan adquirir conocimientos, habilidades y competencias pertinentes para el trabajo decente. y vida."
 
-- Indique las medidas adopta das para establecer un Sistema de Educación C ontinua y de acceso equitativo a las oportunidades de aprendizaje y formación (se pueden marcar varios puntos):
+- Indique las medidas adoptadas para establecer un Sistema de Educación Continua y de acceso equitativo a las oportunidades de aprendizaje y formación (se pueden marcar varios puntos):
 
  Provisión  de  educación  para  personas  que  no  han  recibido  o  completado  todo  el  período  de  su educación primaria.
 
@@ -3254,7 +3212,7 @@ En Honduras, se han implementado varias medidas para establecer un Sistema de Ed
 
 ##### Medidas Adoptadas para la Educación Continua y Acceso Equitativo
 
-###### Programas de Educación para Adultos y Formación Continua:
+###### 1. Programas de Educación para Adultos y Formación Continua:
 
 - o Programas de Alfabetización y Educación para Adultos: El gobierno y organizaciones no gubernamentales ofrecen programas de alfabetización y educación básica para adultos que han tenido oportunidades educativas limitadas. Estos programas buscan mejorar las habilidades básicas de lectura, escritura y cálculo.
 
@@ -3276,7 +3234,7 @@ En Honduras, se han implementado varias medidas para establecer un Sistema de Ed
 
 - Ejemplo: Becas y subsidios otorgados por el gobierno y organizaciones no gubernamentales para programas de educación técnica y profesional.
 
-###### Capacitación y Desarrollo Profesional:
+###### 4. Capacitación y Desarrollo Profesional:
 
 - o Programas de Capacitación para Trabajadores: Se han establecido programas de capacitación y desarrollo profesional para mejorar las habilidades de los trabajadores y fomentar el aprendizaje continuo.
 
@@ -3284,7 +3242,7 @@ En Honduras, se han implementado varias medidas para establecer un Sistema de Ed
 
 - o Programas de Desarrollo de Habilidades: Diversas instituciones privadas y públicas ofrecen cursos de capacitación en áreas específicas como tecnología, gestión empresarial y otros campos.
 
-###### Redes de Apoyo y Recursos Educativos:
+###### 5. Redes de Apoyo y Recursos Educativos:
 
 [[END OF PAGE 87]]
 
@@ -3428,21 +3386,17 @@ Como referencia: Los artículos/párrafos 2, 4(b) y 5(b) del Convenio/Recomendac
 
 -Indique  si  el  marco  legal  o  regulatorio  establece  las  condiciones  y  estándares  educativos  mínimos  para  el establecimiento y funcionamiento de las instituciones de educación pública en materia de:
 
-
-
-
-
-Vigilancia e inspecciones estatales
+ Vigilancia e inspecciones estatales
 
  Salud y saneamiento
 
- Seguridad (los niños aprenden en un ambiente seguro libre de violencia o acoso, incluida la  violencia  de  género  relacionada  con  la  escuela  (dentro  de  las  escuelas  y  sus alrededores))
+ Seguridad (los niños aprenden en un ambiente seguro libre de violencia o acoso, incluida la violencia de género relacionada con la escuela (dentro de las escuelas y sus alrededores))
 
  Infraestructura
 
  Plan de estudios
 
-Reación alumnos-maestro
+ Reación alumnos-maestro
 
  Matrículas escolares (si corresponde)
 
@@ -3550,13 +3504,13 @@ En Honduras existen varias políticas, protocolos y códigos de conducta que reg
 
 ##### Protocolos
 
-###### Protocolo para la Protección Integral de Niñas, Niños y Adolescentes en el Ámbito Escolar
+###### 1. Protocolo para la Protección Integral de Niñas, Niños y Adolescentes en el Ámbito Escolar
 
 - o Objetivo : Prevenir y responder a casos de abuso, violencia y maltrato en el entorno escolar.
 
 - o Contenido : Establece procedimientos para la denuncia y manejo de casos de violencia, protocolos de intervención, y medidas de protección para las víctimas. Incluye formación para el personal educativo en la identificación y manejo de situaciones de riesgo.
 
-###### Protocolo de Manejo de Emergencias en Instituciones Educativas
+###### 2. Protocolo de Manejo de Emergencias en Instituciones Educativas
 
 - o Objetivo : Preparar a las instituciones para responder adecuadamente a situaciones de emergencia, como desastres naturales o emergencias médicas.
 
@@ -3564,19 +3518,19 @@ En Honduras existen varias políticas, protocolos y códigos de conducta que reg
 
 ##### Códigos de Conducta
 
-###### Código de Ética del Personal Educativo
+###### 1. Código de Ética del Personal Educativo
 
 - o Objetivo : Regular el comportamiento y las prácticas del personal docente y administrativo dentro de las instituciones educativas.
 
 - o Contenido : Incluye principios de conducta profesional, confidencialidad, y respeto hacia los educandos y colegas. Define las normas para la interacción con los educandos y las familias.
 
-###### Código de Conducta para Estudiantes
+###### 2. Código de Conducta para Estudiantes
 
 - o Objetivo : Establecer las normas de comportamiento esperado de los educandos dentro del entorno escolar.
 
 - o Contenido : Define las reglas sobre el respeto hacia los compañeros y el personal, el cumplimiento de las normativas escolares, y las consecuencias por comportamientos inapropiados. Promueve un ambiente de respeto y disciplina en el aula.
 
-###### Reglamento Interno de las Instituciones Educativas
+###### 3. Reglamento Interno de las Instituciones Educativas
 
 - o Objetivo : Proporcionar directrices específicas para el funcionamiento diario de cada institución educativa.
 
@@ -3584,7 +3538,7 @@ En Honduras existen varias políticas, protocolos y códigos de conducta que reg
 
 ##### Otras Medidas Regulatorias
 
-###### Normas de Calidad Educativa
+###### 1. Normas de Calidad Educativa
 
 - o Decreto No. 01-2015 : Establece criterios para la evaluación y acreditación de las instituciones educativas, incluyendo requisitos para
 
@@ -3746,7 +3700,7 @@ En Honduras, se han implementado varias medidas para mejorar las condiciones doc
 
 - o Implementación : A través del Instituto Hondureño de Seguridad Social (IHSS) y otros mecanismos de seguro.
 
-###### Condiciones de Trabajo
+###### 3. Condiciones de Trabajo
 
 [[END OF PAGE 99]]
 
@@ -3828,6 +3782,10 @@ Estas medidas están diseñadas para mejorar tanto la calidad de la educación p
 
  Otro:
 
+ Infraestructura y materiales educativos de baja calidad.
+
+ Alta proporción de alumnos por docente
+
 - Por favor elabora. Se podrá añadir breve información cuantitativa.
 
 Breve información cuantitativa sobre los desafíos que enfrenta el personal educativo en Honduras:
@@ -3835,10 +3793,6 @@ Breve información cuantitativa sobre los desafíos que enfrenta el personal edu
 ##### 1. Formación y Capacitación Docente
 
 - Desafío : La formación continua y la actualización profesional del personal docente son insuficientes.
-
- Infraestructura y materiales educativos de baja calidad.
-
- Alta proporción de alumnos por docente
 
 [[END OF PAGE 101]]
 
@@ -3904,7 +3858,7 @@ Como  referencia:  El  artículo/párrafo  5(1)(a)  del  Convenio/Recomendación
 
 - Por favor detalle cada una de las medidas tomadas:
 
-> 41 El  cual  llama  a  los  estados  a  'garantizar  que  todos  los  estudiantes  adquieran  los  conocimientos  y  habilidades necesarios para promover el desarrollo sostenible, incluyendo, entre otras cosas, a través de la educación para el desarrollo sostenible y estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura  de  paz  y  no  discriminación'.  violencia,  ciudadanía  global  y  valoración  de  la  diversidad  cultural  y  de  la contribución de la cultura al desarrollo sostenible'.
+> 41 El cual llama a los estados a “garantizar que todos los estudiantes adquieran los conocimientos y habilidades necesarios para promover el desarrollo sostenible, incluyendo, entre otras cosas, a través de la educación para el desarrollo sostenible y estilos de vida sostenibles, los derechos humanos, la igualdad de género, la promoción de una cultura de paz y no discriminación”. violencia, ciudadanía global y valoración de la diversidad cultural y de la contribución de la cultura al desarrollo sostenible”.
 
 [[END OF PAGE 103]]
 
@@ -4126,7 +4080,7 @@ Resumen con información cuantitativa sobre los desafíos que se han encontrado 
 
 ##### Desafíos en la Provisión de Educación No Estatal en Honduras
 
-###### Acceso y Equidad
+###### 1. Acceso y Equidad
 
 - o Desafío : A pesar de que las instituciones educativas no gubernamentales ofrecen opciones adicionales, existe una disparidad significativa en el acceso a la educación de calidad entre las zonas urbanas y rurales.
 
@@ -4184,7 +4138,7 @@ Resumen con información cuantitativa sobre los desafíos que se han encontrado 
 
 Estos desafíos reflejan la complejidad de garantizar una educación no gubernamnetal equitativa y de calidad en Honduras, y subrayan la necesidad de una regulación más efectiva y de esfuerzos adicionales para abordar las disparidades en el acceso y la calidad educativa.
 
-#### 3.5 E ducación digital
+#### 3.5 Educación digital
 
 La educación digital es a la vez una oportunidad para mejorar el acceso, pero también puede generar desafíos en términos de educación de calidad e inclusión. 44 .
 
@@ -4296,7 +4250,7 @@ Estas disposiciones y medidas reflejan el compromiso de Honduras para integrar e
 
 educandos y docentes estén equipados con las herramientas y habilidades necesarias para enfrentar los desafíos del siglo XXI.
 
- Legislaciones, políticas, estrategias o planes básicos para la gestión, la privacidad, la seguridad, el almacenamiento, la transferencia, el uso y el intercambio de datos educativos interna y externamente para garantizar el derecho a la privacidad de los e studiantes y las partes interesadas en la educación (por ejemplo, consentimiento informado, políticas de uso transparentes). , etc.)
+ Legislaciones, políticas, estrategias o planes básicos para la gestión, la privacidad, la seguridad, el almacenamiento, la transferencia, el uso y el intercambio de datos educativos interna y externamente para garantizar el derecho a la privacidad de los estudiantes y las partes interesadas en la educación (por ejemplo, consentimiento informado, políticas de uso transparentes). , etc.)
 
  El marco regulatorio establece estándares educativos mínimos para la educación digital que todos los actores de la educación deben cumplir.
 
@@ -4370,7 +4324,7 @@ Resumen con información cuantitativa sobre los desafíos encontrados en la prov
 
 - Competencias : Un estudio del Banco Mundial (2023) reveló que el 35% de los docentes no se sienten seguros en el uso de plataformas digitales y herramientas educativas.
 
-###### Infraestructura y Recursos
+###### 3. Infraestructura y Recursos
 
 [[END OF PAGE 115]]
 
@@ -4384,7 +4338,7 @@ Resumen con información cuantitativa sobre los desafíos encontrados en la prov
 
 - Mantenimiento : Un estudio de la Organización de Estados Iberoamericanos (OEI) (2022) reveló que el 20% de las instalaciones tecnológicas en los centros educativos están desactualizadas o requieren mantenimiento urgente.
 
-###### Brecha Digital entre Zonas Urbanas y Rurales
+###### 4. Brecha Digital entre Zonas Urbanas y Rurales
 
 - o Desafío : Existen diferencias marcadas en el acceso a la educación digital entre zonas urbanas y rurales.
 
@@ -4402,7 +4356,7 @@ Resumen con información cuantitativa sobre los desafíos encontrados en la prov
 
 - Gastos : Un estudio del Centro de Estudios Educativos (CEE) (2022) encontró que el 50% de los centros educativos no gubernamentales también enfrentan dificultades para cubrir los costos de actualización y mantenimiento de tecnología.
 
-###### Desigualdad en el Acceso a Recursos Digitales
+###### 6. Desigualdad en el Acceso a Recursos Digitales
 
 - o Desafío : No todos los educandos tienen igual acceso a recursos digitales fuera del entorno escolar, lo que agrava la brecha educativa.
 
@@ -4410,7 +4364,7 @@ Resumen con información cuantitativa sobre los desafíos encontrados en la prov
 
 - Acceso en el Hogar : De acuerdo con el Informe de Desarrollo Humano de la ONU (2023), solo el 55% de los hogares en áreas rurales tienen acceso a dispositivos digitales, en comparación con el 80% en zonas urbanas.
 
-###### Seguridad y Privacidad en el Uso de Tecnologías
+###### 7. Seguridad y Privacidad en el Uso de Tecnologías
 
 - o Desafío : La protección de datos y la seguridad en el uso de plataformas digitales es una preocupación creciente.
 
@@ -4428,7 +4382,7 @@ Estos desafíos resaltan las barreras significativas que enfrenta Honduras en la
 
 ### 4 Fortalecimiento de los sistemas de gobernanza
 
-Como referencia: El Marco de Acción de Educación 2030 establece que "para garantizar una educación de calidad y  condiciones  para  resultados  educativos  efectivos,  los  gobiernos  deben  fortalecer  los  sistemas  educativos instituyendo y mejorando mecanismos de gobernanza y rendición de cuentas apropiados, eficaces e inclusivos; garantía  de  calidad;  sistemas  de  información  de  gestión;  transparencia  y  procedimientos  y  mecanismos  de financiación  eficaces  y  disposiciones  de  gestión  institucional,  así  como  garantizar que  se  disponga  de  datos sólidos, oportunos y accesibles' (párr. 18).
+Como referencia: El Marco de Acción de Educación 2030 establece que "para garantizar una educación de calidad y condiciones para resultados educativos efectivos, los gobiernos deben fortalecer los sistemas educativos instituyendo y mejorando mecanismos de gobernanza y rendición de cuentas apropiados, eficaces e inclusivos; garantía de calidad; sistemas de información de gestión; transparencia y procedimientos y mecanismos de financiación eficaces y disposiciones de gestión institucional, así como garantizar que se disponga de datos sólidos, oportunos y accesibles” (párr. 18).
 
 - Indique las medidas adoptadas en materia de gobernanza (se pueden marcar varios puntos):
 
@@ -4438,23 +4392,23 @@ Como referencia: El Marco de Acción de Educación 2030 establece que "para gara
 
 En Honduras, el Marco de Acción de Educación 2030 se enmarca dentro de los Objetivos de Desarrollo Sostenible (ODS), específicamente el ODS 4, que busca garantizar una educación inclusiva, equitativa y de calidad. Algunas de las medidas adoptadas en materia de gobernanza en este contexto incluyen:
 
-- Fortalecimiento de Políticas Educativas : Se han desarrollado políticas que buscan mejorar la calidad de la educación y garantizar el acceso a todos los niveles educativos, priorizando a grupos vulnerables.
+- 1. Fortalecimiento de Políticas Educativas : Se han desarrollado políticas que buscan mejorar la calidad de la educación y garantizar el acceso a todos los niveles educativos, priorizando a grupos vulnerables.
 
-- Participación de la Comunidad : Se ha promovido la participación activa de padres de familia, educandos y comunidades en la toma de decisiones educativas, fomentando un enfoque más inclusivo y colaborativo.
+- 2. Participación de la Comunidad : Se ha promovido la participación activa de padres de familia, educandos y comunidades en la toma de decisiones educativas, fomentando un enfoque más inclusivo y colaborativo.
 
-- Descentralización de la Gestión Educativa : Se han implementado estrategias para descentralizar la gestión educativa, permitiendo que las autoridades locales tengan mayor autonomía y responsabilidad en la administración de los recursos y en la toma de decisiones.
+- 3. Descentralización de la Gestión Educativa : Se han implementado estrategias para descentralizar la gestión educativa, permitiendo que las autoridades locales tengan mayor autonomía y responsabilidad en la administración de los recursos y en la toma de decisiones.
 
-- Capacitación y Desarrollo Profesional : Se han llevado a cabo programas de capacitación para docentes y administrativos, con el fin de mejorar sus competencias y habilidades en la gestión educativa.
+- 4. Capacitación y Desarrollo Profesional : Se han llevado a cabo programas de capacitación para docentes y administrativos, con el fin de mejorar sus competencias y habilidades en la gestión educativa.
 
 [[END OF PAGE 117]]
 
 [[START OF PAGE 118]]
 
-- Monitoreo y Evaluación : Se han establecido mecanismos de monitoreo y evaluación para medir el progreso en la implementación de políticas educativas y el logro de objetivos, asegurando la rendición de cuentas.
+- 5. Monitoreo y Evaluación : Se han establecido mecanismos de monitoreo y evaluación para medir el progreso en la implementación de políticas educativas y el logro de objetivos, asegurando la rendición de cuentas.
 
-- Alianzas Estratégicas : Se han formado alianzas con organizaciones internacionales, ONG y el sector privado para fortalecer la educación y movilizar recursos que apoyen la implementación de las políticas educativas.
+- 6. Alianzas Estratégicas : Se han formado alianzas con organizaciones internacionales, ONG y el sector privado para fortalecer la educación y movilizar recursos que apoyen la implementación de las políticas educativas.
 
-- Inclusión y Equidad : Se han diseñado programas específicos para atender las necesidades de grupos desfavorecidos, como niñas, niños con discapacidad y comunidades indígenas, buscando garantizar su acceso y permanencia en el sistema educativo.
+- 7. Inclusión y Equidad : Se han diseñado programas específicos para atender las necesidades de grupos desfavorecidos, como niñas, niños con discapacidad y comunidades indígenas, buscando garantizar su acceso y permanencia en el sistema educativo.
 
 - 8 . Desarrollo de Currículos Inclusivos : Se han realizado esfuerzos para revisar y actualizar los currículos escolares, asegurando que sean inclusivos y reflejen la diversidad cultural del país. Esto incluye la incorporación de contenidos que promuevan la igualdad de género y el respeto por los derechos humanos.
 
@@ -4494,31 +4448,29 @@ Estas medidas reflejan un enfoque integral hacia la gobernanza educativa en Hond
 
 El  Marco de Acción en Educación 2030, que se deriva del Objetivo de Desarrollo Sostenible 4 (ODS 4), busca garantizar una educación inclusiva, equitativa y de calidad para todos. En el contexto de Honduras, las medidas tomadas en materia de gobernanza para implementar  este  marco  han  incluido  diversas  estrategias  y  políticas.  A continuación, se detallan algunas de estas medidas:
 
-- Fortalecimiento  de  Políticas  Educativas : Honduras  ha  trabajado en la formulación  y  revisión  de  políticas  educativas  que  alineen  los  objetivos nacionales con los ODS. Esto incluye la creación de planes estratégicos que aborden la calidad educativa, el acceso y la equidad.
+- 1. Fortalecimiento de Políticas Educativas : Honduras ha trabajado en la formulación y revisión de políticas educativas que alineen los objetivos nacionales con los ODS. Esto incluye la creación de planes estratégicos que aborden la calidad educativa, el acceso y la equidad.
 
-- Creación de Espacios de Participación : Se han establecido mecanismos para involucrar a diferentes actores en el proceso educativo, incluyendo a comunidades, padres de familia, docentes y educandos. Esto busca fomentar un enfoque participativo en la toma de decisiones.
+- 2. Creación de Espacios de Participación : Se han establecido mecanismos para involucrar a diferentes actores en el proceso educativo, incluyendo a comunidades, padres de familia, docentes y educandos. Esto busca fomentar un enfoque participativo en la toma de decisiones.
 
-- Desarrollo Profesional Docente : Se han implementado programas de capacitación y desarrollo profesional para docentes, con el fin de mejorar la calidad  de  la  enseñanza  y  asegurar  que  los  docentes  estén  preparados  para enfrentar los desafíos actuales.
+- 3. Desarrollo Profesional Docente : Se han implementado programas de capacitación y desarrollo profesional para docentes, con el fin de mejorar la calidad de la enseñanza y asegurar que los docentes estén preparados para enfrentar los desafíos actuales.
 
-- Inversión  en  Infraestructura  Educativa :  Se  han  realizado  esfuerzos  para mejorar  la  infraestructura  escolar,  asegurando  que  las  escuelas  cuenten  con condiciones adecuadas para el aprendizaje y que sean accesibles para todos los educandos.
+- 4. Inversión en Infraestructura Educativa : Se han realizado esfuerzos para mejorar la infraestructura escolar, asegurando que las escuelas cuenten con condiciones adecuadas para el aprendizaje y que sean accesibles para todos los educandos.
 
-- Monitoreo  y  Evaluación : Se han establecido sistemas de monitoreo  y evaluación para medir el progreso hacia los objetivos educativos establecidos
+- 5. Monitoreo y Evaluación : Se han establecido sistemas de monitoreo y evaluación para medir el progreso hacia los objetivos educativos establecidos
 
 [[END OF PAGE 119]]
 
 [[START OF PAGE 120]]
 
-- en el marco del ODS 4. Esto incluye la recolección y análisis de datos sobre matrícula, deserción escolar y rendimiento académico.
+en el marco del ODS 4. Esto incluye la recolección y análisis de datos sobre matrícula, deserción escolar y rendimiento académico.
 
-- Inclusión  y  Equidad :  Se  han  diseñado  programas  específicos  para  atender  a poblaciones vulnerables, como niñas, niños indígenas y aquellos en situaciones de pobreza extrema, garantizando su acceso a una educación de calidad.
+- 6. Inclusión y Equidad : Se han diseñado programas específicos para atender a poblaciones vulnerables, como niñas, niños indígenas y aquellos en situaciones de pobreza extrema, garantizando su acceso a una educación de calidad.
 
-- Colaboración Internacional :  Honduras  ha  buscado  alianzas  con  organismos internacionales  y  ONGs  para  recibir  apoyo  técnico  y  financiero  en  la implementación del Marco de Acción en Educación 2030.
+- 7. Colaboración Internacional : Honduras ha buscado alianzas con organismos internacionales y ONGs para recibir apoyo técnico y financiero en la implementación del Marco de Acción en Educación 2030.
 
-- Promoción  de  la  Educación  Técnica  y  Vocacional :  Se  ha  fomentado  el desarrollo de programas educativos que preparen a los jóvenes para el mercado laboral, contribuyendo así al desarrollo económico del país.
+- 8. Promoción de la Educación Técnica y Vocacional : Se ha fomentado el desarrollo de programas educativos que preparen a los jóvenes para el mercado laboral, contribuyendo así al desarrollo económico del país.
 
-- Uso  de  Tecnología  Educativa :  Se  han  promovido  iniciativas  para  integrar tecnologías digitales en el aula.
-
--Por favor elabora. Se podrá añadir breve información cuantitativa.
+- 9. Uso de Tecnología Educativa : Se han promovido iniciativas para integrar tecnologías digitales en el aula.
 
 ¿Qué desafíos se encontraron en términos de gobernanza?
 
@@ -4534,45 +4486,47 @@ El  Marco de Acción en Educación 2030, que se deriva del Objetivo de Desarroll
 
  Falta o debilidad de los sistemas de seguimiento, incluida la falta de datos fiables.
 
-Honduras  ha  enfrentado  varios desafíos en términos de gobernanza  en  la implementación  del  Marco  de  Acción  en  Educación  2030.  A  continuación,  se detallan algunos de estos desafíos junto con información cuantitativa relevante:
+-Por favor elabora. Se podrá añadir breve información cuantitativa.
 
-- Financiamiento Insuficiente :  Uno  de  los  principales  retos  ha  sido  la  falta  de recursos financieros adecuados para el sector educativo. Según datos del Banco Mundial, Honduras destina aproximadamente el 3.5% de su PIB a la educación, que está por debajo del  promedio regional y no  es  suficiente para cubrir las necesidades básicas del sistema educativo.
+Honduras ha enfrentado varios desafíos en términos de gobernanza en la implementación del Marco de Acción en Educación 2030. A continuación, se detallan algunos de estos desafíos junto con información cuantitativa relevante:
 
-- Desigualdad en el Acceso a la Educación : A pesar de los esfuerzos por mejorar la  equidad,  persisten  grandes  disparidades.  Según  la  Encuesta  Nacional  de
+- 1. Financiamiento Insuficiente : Uno de los principales retos ha sido la falta de recursos financieros adecuados para el sector educativo. Según datos del Banco Mundial, Honduras destina aproximadamente el 3.5% de su PIB a la educación, que está por debajo del promedio regional y no es suficiente para cubrir las necesidades básicas del sistema educativo.
+
+- 2. Desigualdad en el Acceso a la Educación : A pesar de los esfuerzos por mejorar la equidad, persisten grandes disparidades. Según la Encuesta Nacional de
 
 [[END OF PAGE 120]]
 
 [[START OF PAGE 121]]
 
-- Hogares, en 2021, solo  el  60%  de  los  niños  en  áreas  rurales  completaron  la educación primaria, en comparación con más del 80% en áreas urbanas.
+Hogares, en 2021, solo el 60% de los niños en áreas rurales completaron la educación primaria, en comparación con más del 80% en áreas urbanas.
 
-- Calidad  Educativa :  La  calidad  de  la  educación  sigue  siendo  un  desafío significativo. En evaluaciones estandarizadas como las pruebas PISA (Programa para  la  Evaluación  Internacional  de  Estudiantes),  Honduras  ha  obtenido resultados por debajo del promedio regional en matemáticas y lectura, lo que indica problemas en la calidad educativa.
+- 3. Calidad Educativa : La calidad de la educación sigue siendo un desafío significativo. En evaluaciones estandarizadas como las pruebas PISA (Programa para la Evaluación Internacional de Estudiantes), Honduras ha obtenido resultados por debajo del promedio regional en matemáticas y lectura, lo que indica problemas en la calidad educativa.
 
-- Deserción Escolar : La tasa de deserción escolar es alarmante, especialmente en niveles secundarios. Según datos de la Secretaria de Educación, alrededor del 30% de los educandos que ingresan a la educación secundaria no completan sus estudios.
+- 4. Deserción Escolar : La tasa de deserción escolar es alarmante, especialmente en niveles secundarios. Según datos de la Secretaria de Educación, alrededor del 30% de los educandos que ingresan a la educación secundaria no completan sus estudios.
 
-- Corrupción  y  Falta  de  Transparencia :  La  corrupción  ha  sido  un  obstáculo importante  para  una  gobernanza  efectiva  en  el  sector  educativo.  Informes indican que una parte significativa del presupuesto destinado a educación se pierde  debido  a  prácticas  corruptas,  lo  que  afecta  directamente  la  calidad  y disponibilidad de recursos educativos.
+- 5. Corrupción y Falta de Transparencia : La corrupción ha sido un obstáculo importante para una gobernanza efectiva en el sector educativo. Informes indican que una parte significativa del presupuesto destinado a educación se pierde debido a prácticas corruptas, lo que afecta directamente la calidad y disponibilidad de recursos educativos.
 
-- Inestabilidad Política : La inestabilidad política y social también ha impactado negativamente  en  la  implementación  de  políticas  educativas  sostenibles.  Las crisis  políticas  han  llevado  a  cambios  frecuentes  en  las  administraciones gubernamentales,  lo  que  dificulta  la  continuidad  y  ejecución  efectiva  de programas educativos.
+- 6. Inestabilidad Política : La inestabilidad política y social también ha impactado negativamente en la implementación de políticas educativas sostenibles. Las crisis políticas han llevado a cambios frecuentes en las administraciones gubernamentales, lo que dificulta la continuidad y ejecución efectiva de programas educativos.
 
-- Impacto de Crisis Externas : Situaciones como desastres naturales (huracanes) y crisis sanitarias (como la pandemia de COVID-19) han interrumpido gravemente el acceso a la educación. Durante la pandemia, se estimó que más del 70% de los educandos en Honduras no tuvieron acceso a educación remota efectiva, lo que exacerbó las brechas existentes en el sistema educativo.
+- 7. Impacto de Crisis Externas : Situaciones como desastres naturales (huracanes) y crisis sanitarias (como la pandemia de COVID-19) han interrumpido gravemente el acceso a la educación. Durante la pandemia, se estimó que más del 70% de los educandos en Honduras no tuvieron acceso a educación remota efectiva, lo que exacerbó las brechas existentes en el sistema educativo.
 
-- Falta de Infraestructura Adecuada : Muchas escuelas carecen de infraestructura básica  y  recursos  adecuados.  Según  datos  de  la  Secretaria  de  Educación, aproximadamente el 40% de los centros educativos en áreas rurales no cuentan con  servicios  básicos  como  agua  potable  y  saneamiento,  lo  que  afecta  el ambiente de aprendizaje.
+- 8. Falta de Infraestructura Adecuada : Muchas escuelas carecen de infraestructura básica y recursos adecuados. Según datos de la Secretaria de Educación, aproximadamente el 40% de los centros educativos en áreas rurales no cuentan con servicios básicos como agua potable y saneamiento, lo que afecta el ambiente de aprendizaje.
 
-- Capacitación  Docente  Insuficiente :  A  pesar  de  los  esfuerzos  por  mejorar  la formación docente, un alto porcentaje de docentes no cuenta con la capacitación adecuada para enseñar eficazmente. Se estima que alrededor del 50% de los docentes en educación primaria no tienen formación profesional específica en pedagogía.
+- 9. Capacitación Docente Insuficiente : A pesar de los esfuerzos por mejorar la formación docente, un alto porcentaje de docentes no cuenta con la capacitación adecuada para enseñar eficazmente. Se estima que alrededor del 50% de los docentes en educación primaria no tienen formación profesional específica en pedagogía.
 
-- Estos desafíos reflejan la complejidad del panorama educativo en Honduras y subrayan la necesidad urgente de implementar reformas efectivas y sostenibles para lograr los objetivos establecidos en el Marco de Acción en Educación 2030.
+- 10. Estos desafíos reflejan la complejidad del panorama educativo en Honduras y subrayan la necesidad urgente de implementar reformas efectivas y sostenibles para lograr los objetivos establecidos en el Marco de Acción en Educación 2030.
 
 [[END OF PAGE 121]]
 
 [[START OF PAGE 122]]
 
-- La  superación  de  estos  obstáculos  es  crucial  para  garantizar  una  educación inclusiva y equitativa para todos los hondureños.
+- 11. La superación de estos obstáculos es crucial para garantizar una educación inclusiva y equitativa para todos los hondureños.
 
 # III. Métodos utilizados para llamar la atención de las distintas autoridades del país sobre los instrumentos
 
-Como referencia: los órganos rectores de la UNESCO han subrayado la necesidad de crear conciencia. Dada la  importancia  de  la  acción  normativa  a  nivel  nacional,  se  debe  garantizar  una  amplia  difusión  de  la Convención, con el apoyo de las Comisiones Nacional es para la UNESCO.
+Como referencia: los órganos rectores de la UNESCO han subrayado la necesidad de crear conciencia. Dada la importancia de la acción normativa a nivel nacional, se debe garantizar una amplia difusión de la Convención, con el apoyo de las Comisiones Nacionales para la UNESCO.
 
--¿Se  han  realizado  actividades  para  llamar  la  atención  de  las  distintas  autoridades  del  país  sobre  el Convenio/Recomendación y sus disposiciones sobre el derecho a la educación y para sensibilizar sobre los principios  de  no  discriminación  e  igualdad  de  op ortunidades  educativas?  (Se  pueden  marcar  varios elementos)
+-¿Se han realizado actividades para llamar la atención de las distintas autoridades del país sobre el Convenio/Recomendación y sus disposiciones sobre el derecho a la educación y para sensibilizar sobre los principios de no discriminación e igualdad de oportunidades educativas? (Se pueden marcar varios elementos)
 
  Traducción del Convenio/Recomendación a los idiomas nacionales y posiblemente locales
 
