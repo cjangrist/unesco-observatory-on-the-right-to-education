@@ -1,10 +1,12 @@
 [[START OF PAGE 1]]
 
-PUBLIC LAW 110–315—AUG. 14, 2008
-
-# HIGHER EDUCATION OPPORTUNITY ACT
+dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
+
+PUBLIC LAW 110-315-AUG. 14, 2008
+
+# HIGHER EDUCATION OPPORTUNITY ACT
 
 11:23 Aug 27, 2008
 
@@ -23,8 +25,6 @@ E:\PUBLAW\PUBL315.110
 APPS10
 
 PsN: PUBL315
-
-dkrause on GSDDPC44 with PUBLIC LAWS
 
 [[END OF PAGE 1]]
 
@@ -548,8 +548,7 @@ Except  as  otherwise  provided  in  this  Act  or  the  amendments made  by  th
 
 ##### SEC.  101.  GENERAL  DEFINITION  OF  INSTITUTION  OF  HIGHER  EDUCATION.
 
-(a) AMENDMENTS.—Section 101 (20 U.S.C. 1001) is amended—
-(1) in subsection (a)—
+(a)  AMENDMENTS.-Section 101 (20 U.S.C. 1001) is amended-(1) in subsection (a)-
 
 (A) in paragraph (1), by inserting before the semicolon the  following:  '',  or  persons  who  meet  the  requirements of section 484(d)(3)''; and
 
@@ -571,8 +570,7 @@ or
 
 ##### SEC.  102.  DEFINITION  OF  INSTITUTION  OF  HIGHER  EDUCATION  FOR PURPOSES OF TITLE IV PROGRAMS.
 
-(a) INTERNATIONAL MEDICAL SCHOOLS AND NURSING SCHOOLS.—Section 102(a)(2) (20 U.S.C. 1002(a)(2)) is amended—
-(1) in subparagraph (A)—
+(a) INTERNATIONAL MEDICAL SCHOOLS AND NURSING SCHOOLS.-Section  102(a)(2)  (20  U.S.C.  1002(a)(2))  is  amended-(1) in subparagraph (A)-
 
 (A) in the first sentence of the matter preceding clause (i),  by  inserting  ''nursing  school,''  after  ''graduate  medical school,'';
 
@@ -866,9 +864,7 @@ T.  Stafford  Elementary  and  Secondary  School  Improvement Amendments of 1988
 
 ''(A)  a  Head  Start  program  or  an  Early  Head  Start program carried out under the Head Start Act (42 U.S.C. 9831 et seq.),  including  a  migrant  or  seasonal  Head  Start program, an Indian Head Start program, or a Head Start program or an Early Head Start program that also receives State funding;
 
-''(B)  a  State  licensed  or  regulated  child  care  program;
-
-or
+''(B)  a  State  licensed  or  regulated  child  care  program; or
 
 11:23 Aug 27, 2008
 
@@ -1324,8 +1320,7 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
-Web site.
-20 USC 1011l.
+Web site. 20 USC 1011l.
 
 17:59 Sep 16, 2008
 
@@ -1575,11 +1570,13 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
+20 USC 1015a.
+
 update,  all  of  the  information  required  to  be  maintained on the STEM Database.
 
 ''(5)  DISSEMINATION OF INFORMATION.-The Secretary shall take  such  actions,  on  an  ongoing  basis,  as  may  be  necessary to disseminate information under this subsection and to encourage the use of the information by interested parties, including sending notices to secondary schools and institutions of higher education.''.
 
-(c) NO USER FEES FOR DEPARTMENT FINANCIAL AID WEBSITES.—Section  131  (as  amended  by  subsection  (b))  (20  U.S.C.  1015)  is further amended by adding at the end the following:
+(c) NO USER FEES FOR DEPARTMENT FINANCIAL AID WEBSITES.-Section  131  (as  amended  by  subsection  (b))  (20  U.S.C.  1015)  is further amended by adding at the end the following:
 
 ''(h) NO USER FEES FOR DEPARTMENT FINANCIAL AID WEBSITES.-No  fee  shall  be  charged  to  any  individual  to  access-
 
@@ -1592,7 +1589,6 @@ update,  all  of  the  information  required  to  be  maintained on the STEM Dat
 Part  C  of  title  I  (20  U.S.C.  1015)  is  amended  by  adding  at the end the following:
 
 ###### ''SEC.  132.  TRANSPARENCY  IN  COLLEGE  TUITION  FOR  CONSUMERS.
-20 USC 1015a.
 
 ''(a) DEFINITIONS.-In this section:
 
@@ -1796,7 +1792,7 @@ VerDate Aug 31 2005
 
 ''(2) CALCULATION OF INDIVIDUAL NET PRICE.-For purposes of  this  subsection,  an  individual  net  price  of  an  institution of  higher  education  shall  be  calculated  in  the  same  manner as  the  net  price  of  such  institution  is  calculated  under  subsection (a)(3), except that the cost of attendance and the amount of need-based and merit-based aid available shall be calculated for the individual student as much as practicable.
 
-''(3)  USE OF NET PRICE CALCULATOR BY INSTITUTIONS.—Not later than two years after the date on which the Secretary makes the calculator  developed  under  paragraph  (1)  available to  institutions  of  higher  education,  each  institution  of  higher education that receives Federal funds under title IV shall make publicly available on the institution's website a net price calculator  to  help  current  and  prospective  students,  families,  and other  consumers  estimate  a  student's  individual  net  price  at such  institution  of  higher  education.  Such  calculator  may  be a net price calculator developed—
+''(3)  USE OF NET PRICE CALCULATOR BY INSTITUTIONS.-Not later than two years after the date on which the Secretary makes the calculator  developed  under  paragraph  (1)  available to  institutions  of  higher  education,  each  institution  of  higher education that receives Federal funds under title IV shall make publicly available on the institution's website a net price calculator  to  help  current  and  prospective  students,  families,  and other  consumers  estimate  a  student's  individual  net  price  at such  institution  of  higher  education.  Such  calculator  may  be a net price calculator developed-
 
 ''(A)  by  the  Department  pursuant  to  paragraph  (1); or
 
@@ -3173,9 +3169,7 @@ VerDate Aug 31 2005
 
 at or prior to the time the lender disburses such loan, the  lender  shall  provide  the  prospective  borrower  or borrower, in writing (including through electronic means),  with  the  disclosures  described  in  subsections (a) and (c) of section 433.
 
-''(ii)  PRIVATE EDUCATION LOANS.-For  each  of  a lender's private education loans, the lender shall comply with the disclosure requirements under section 128(e) of the Truth in Lending Act (15 U.S.C. 1638(e)).
-
-''(B) DISCLOSURES TO THE SECRETARY.-
+''(ii)  PRIVATE EDUCATION LOANS.-For  each  of  a lender's private education loans, the lender shall comply with the disclosure requirements under section 128(e) of the Truth in Lending Act (15 U.S.C. 1638(e)). ''(B) DISCLOSURES TO THE SECRETARY.-
 
 ''(i)  IN GENERAL.-Each  lender  of  a  loan  made, insured,  or  guaranteed  under  part  B  of  title  IV  shall, on an annual basis, report to the Secretary-
 
@@ -4025,7 +4019,7 @@ E:\PUBLAW\PUBL315.110
 
 APPS10
 
-20 USC 1021 et seq .
+20 USC 1021 et seq.
 
 20 USC 1022.
 
@@ -6407,7 +6401,7 @@ Jkt 069139
 
 ''(D) are first-generation college students and a majority  of  such  first-generation  college  students  are  low-income individuals.
 
-''(3) FIRST-GENERATION COLLEGE STUDENT.-The term 'first-generation college student' has the meaning given the term in section 402A(h).
+''(3) FIRST-GENERATION COLLEGE STUDENT.-The term 'first-generation  college  student'  has  the  meaning  given  the  term in section 402A(h).
 
 ''(4)  LOW-INCOME INDIVIDUAL.-The  term  'low-income  individual'  has  the  meaning  given  such  term  in  section  402A(h).
 
@@ -6528,6 +6522,7 @@ Jkt 069139
 ''(4)  LIMITATION.-Not  more  than  50  percent  of  the  grant funds  provided  to  a  Predominantly  Black  Institution  under this  section  may  be  available  for  the  purpose  of  constructing or maintaining a classroom, library, laboratory, or other instructional facility.
 
 ''(e)  ALLOTMENTS TO PREDOMINANTLY BLACK INSTITUTIONS.-
+
 ''(1) FEDERAL PELL GRANT BASIS.-From the amounts appropriated  to  carry  out  this  section  for  any  fiscal  year,  the  Secretary  shall  allot  to  each  Predominantly  Black  Institution having  an  application  approved  under  subsection  (f)  a  sum that  bears  the  same  ratio  to  one-half  of  that  amount  as  the number of Federal Pell Grant recipients in attendance at such institution at the end of the academic year preceding the beginning  of  that  fiscal  year,  bears  to  the  total  number  of  Federal Pell  Grant  recipients  at  all  such  institutions  at  the  end  of such academic year.
 
 ''(2)  GRADUATES BASIS.-From  the  amounts  appropriated to  carry  out  this  section  for  any  fiscal  year,  the  Secretary shall  allot  to  each  Predominantly  Black  Institution  having  an application  approved  under  subsection  (f)  a  sum  that  bears the  same  ratio  to  one-fourth  of  that  amount  as  the  number of  graduates  for  such  academic  year  at  such  institution,  bears to  the  total  number  of  graduates  for  such  academic  year  at all such institutions.
@@ -6800,7 +6795,11 @@ institutions to plan, develop, undertake, and carry out activities to  improve  
 
 ''(J)  establishing  or  improving  an  endowment  fund;
 
-''(K) academic instruction in disciplines in which Asian Americans and Native American Pacific Islanders are underrepresented;
+''(K) academic instruction in disciplines in which Asian
+
+Americans  and  Native  American  Pacific  Islanders  are
+
+underrepresented;
 
 ''(L)  conducting  research  and  data  collection  for  Asian American  and  Native  American  Pacific  Islander  populations and subpopulations;
 
@@ -7216,6 +7215,8 @@ Deadline. Reports.
 
 PUBL315
 
+
+
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
@@ -7244,7 +7245,9 @@ improving the Historically Black College and Universities Capital Financing Prog
 
 (2) by adding at the end the following:
 
-''(c)  ADDITIONAL RECOMMENDATIONS FROM ADVISORY BOARD.-''(1)  IN GENERAL.-In  addition  to  the  responsibilities  of the  Advisory  Board  described  in  subsection  (a),  the  Advisory Board shall advise the Secretary and the authorizing committees regarding-
+''(c)  ADDITIONAL RECOMMENDATIONS FROM ADVISORY BOARD.-
+
+''(1)  IN GENERAL.-In  addition  to  the  responsibilities  of the  Advisory  Board  described  in  subsection  (a),  the  Advisory Board shall advise the Secretary and the authorizing committees regarding-
 
 ''(A)  the  fiscal  status  and  strategic  financial  condition of not less than ten historically Black colleges and universities that have-
 
@@ -8702,7 +8705,7 @@ VerDate Aug 31 2005
 
 ''(C)  Native  American  Pacific  Islanders,  as  defined  in section 320.'';
 
-(5)  in  the  matter  preceding  paragraph  (1)  of  subsection (f)  (as  redesignated  by  paragraph  (2)),  by  striking ''postbaccalaureate achievement project'' and inserting ''project under this section''; and
+(5)  in  the  matter  preceding  paragraph  (1)  of  subsection (f)  (as  redesignated  by  paragraph  (2)),  by  striking ''postbaccalaureate  achievement project''  and  inserting  ''project under this section''; and
 
 (6)  in  subsection  (g)  (as  redesignated  by  paragraph  (2))-
 
@@ -10594,7 +10597,7 @@ Servicemembers Civil Relief Act (50 U.S.C. App. 527), the applicable interest  r
 
 (j)  AUTHORITY TO REQUIRE INCOME-BASED REPAYMENT.-Section 428(m) (20 U.S.C. 1078(m)) is amended-
 
-(1)  in  the  subsection  heading,  by  inserting  ''AND INCOME-BASED'' after ''INCOME CONTINGENT'';
+(1)  in  the  subsection  heading,  by  inserting  ''AND INCOMEBASED'' after ''INCOME CONTINGENT'';
 
 (2) in paragraph (1)-
 
@@ -10722,7 +10725,7 @@ VerDate Aug 31 2005
 
 ''(II)  if  the  parent  borrower  is  also  a  student,  the day  after  the  date  such  parent  borrower  ceases  to carry at least one-half such a workload; and
 
-''(ii)  in  the  case  of  a  graduate  or  professional  student borrower, during the 6-month period beginning on the day after  the  date  such  student  ceases  to  carry  at  least  one-half the normal full-time academic workload (as determined by the institution).
+''(ii)  in  the  case  of  a  graduate  or  professional  student borrower, during the 6-month period beginning on the day after  the  date  such  student  ceases  to  carry  at  least  onehalf the normal full-time academic workload (as determined by the institution).
 
 ''(2) CAPITALIZATION OF INTEREST.-
 
@@ -10752,7 +10755,7 @@ VerDate Aug 31 2005
 
 (b) CONSOLIDATION LOAN LENDER AGREEMENTS.-
 
-(1)  IN GENERAL.-Section  428C(b)(1)  (20 U.S.C.  1078-3(b)(1)) is amended-
+(1)  IN GENERAL.-Section  428C(b)(1)  (20 U.S.C.  10783(b)(1)) is amended-
 
 (A)  in  subparagraph  (E),  by  striking  ''and''  after  the semicolon;
 
@@ -10878,9 +10881,9 @@ VerDate Aug 31 2005
 
 (iii) by adding at the end the following:
 
-''(C)  an  income-based  repayment  schedule  under  section  493C  shall  not  be  available  to  a  consolidation  loan borrower  who  used  the  proceeds  of  the  loan  to  discharge the  liability  on  a  loan  under  section  428B,  or  a  Federal Direct PLUS loan, made on behalf of a dependent student.''.
+''(C)  an  income-based  repayment  schedule  under  section  493C  shall  not  be  available  to  a  consolidation  loan borrower  who  used  the  proceeds  of  the  loan  to  discharge the  liability  on  a  loan  under  section  428B,  or  a  Federal Direct PLUS loan, made on behalf of a dependent student.''. (2)  EFFECTIVE DATE.-The amendments made by this sub-
 
-(2)  EFFECTIVE DATE.-The amendments made by this subsection shall take effect on July 1, 2009.
+section shall take effect on July 1, 2009.
 
 (e)  EXTENSION OF CONSOLIDATION LOAN AUTHORITY.-Section 428C(e)  (20  U.S.C.  1078-3(e))  is  amended  by  striking  ''2012''  and inserting ''2014''.
 
@@ -10908,7 +10911,7 @@ Section 428F (20 U.S.C. 1078-6) is amended-
 
 (b)  REQUIREMENTS FOR DISBURSEMENTS TO FIRST YEAR STUDENTS.-Section  428G(b)  (20  U.S.C.  1078-7(b))  is  amended  by adding at the end the following:
 
-''(3)  AMENDMENT TO COHORT DEFAULT RATE EXEMPTION.-Beginning  on  October  1,  2011,  the  exemption  to  the  requirements  of  paragraph  (1)  in  the  second  sentence  of  such  paragraph shall be applied by substituting '15 percent' for '10 percent'.''.
+''(3)  AMENDMENT TO COHORT DEFAULT RATE EXEMPTION.Beginning  on  October  1,  2011,  the  exemption  to  the  requirements  of  paragraph  (1)  in  the  second  sentence  of  such  paragraph shall be applied by substituting '15 percent' for '10 percent'.''.
 
 ##### SEC. 428. UNSUBSIDIZED STAFFORD LOAN LIMITS.
 
@@ -11130,13 +11133,13 @@ Jkt 069139
 
 ''(B)  is  employed  full-time  in  public  or  private  child welfare services.
 
-''(7) SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS.-The individual-
+''(7) SPEECH-LANGUAGE PATHOLOGISTS AND AUDIOLOGISTS.The individual-
 
 ''(A) is employed full-time as a speech-language pathologist or audiologist in an eligible preschool program or  a  school  that  qualifies  under  section  465(a)(2)(A)  for loan  cancellation  for  Perkins  loan  recipients  who  teach in such a school; and
 
-''(B)  has,  at  a  minimum, a graduate degree in speech-language  pathology,  audiology,  or  communication  sciences and disorders.
+''(B)  has,  at  a  minimum, a graduate degree in speechlanguage  pathology,  audiology,  or  communication  sciences and disorders.
 
-''(8) SCHOOL COUNSELORS.-The individual is employed full-time  as  a  school  counselor  (as  such  term  is  defined  in  section 5421(e)  of  the  Elementary  and  Secondary  Education  Act  of 1965),  in  a  school  that  qualifies  under  section  465(a)(2)(A)  for loan cancellation for Perkins loan recipients who teach in such a school.
+''(8) SCHOOL COUNSELORS.-The individual is employed fulltime  as  a  school  counselor  (as  such  term  is  defined  in  section 5421(e)  of  the  Elementary  and  Secondary  Education  Act  of 1965),  in  a  school  that  qualifies  under  section  465(a)(2)(A)  for loan cancellation for Perkins loan recipients who teach in such a school.
 
 ''(9) PUBLIC SECTOR EMPLOYEES.-The individual is employed full-time in-
 
@@ -11204,7 +11207,7 @@ VerDate Aug 31 2005
 
 ''(B)  is  employed  full-time  as  a  member  of  the  faculty at  a  program  or  school  accredited  by  the  Commission  on Dental Accreditation.
 
-''(14)  STEM  EMPLOYEES.-The individual is employed full-time  in  applied  sciences,  technology,  engineering,  or  mathematics.
+''(14)  STEM  EMPLOYEES.-The individual is employed fulltime  in  applied  sciences,  technology,  engineering,  or  mathematics.
 
 ''(15) PHYSICAL THERAPISTS.-The individual-
 
@@ -11278,7 +11281,11 @@ that  is  outstanding  after  the  completion  of  each  such  school, academic,
 
 ''(B)  is  involved  directly  in  the  care,  development, and education  of  infants,  toddlers,  or  young  children  age  five and under; and
 
-''(C) has completed a baccalaureate or advanced degree in early childhood development or early childhood education, or in a field related to early childhood education.
+''(C) has completed a baccalaureate or advanced degree
+
+in  early  childhood  development  or  early  childhood  edu-
+
+cation,  or  in  a  field  related  to  early  childhood  education.
 
 ''(3) ELIGIBLE PRESCHOOL PROGRAM.-The term 'eligible preschool program' means a program that-
 
@@ -11320,7 +11327,7 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
-''(4)  ELIGIBLE EARLY CHILDHOOD EDUCATION PROGRAM.-The term 'eligible early childhood education program' means-
+''(4)  ELIGIBLE EARLY CHILDHOOD EDUCATION PROGRAM.The term 'eligible early childhood education program' means-
 
 ''(A)  a  family  child  care  program,  center-based  child care  program,  State  prekindergarten  program,  school  program,  or  other  out-of-home  early  childhood  development care program, that-
 
@@ -11410,7 +11417,7 @@ Jkt 069139
 
 ''(ii)  meets  or  exceeds the qualifications for a qualified physical therapist, as determined by State law.
 
-''(9)  SPEECH-LANGUAGE PATHOLOGIST.-The  term  'speech-language  pathologist' means  a  speech-language  pathologist who-
+''(9)  SPEECH-LANGUAGE PATHOLOGIST.-The  term  'speechlanguage  pathologist' means  a  speech-language  pathologist who-
 
 ''(A)  has  received,  at  a  minimum,  a  graduate  degree in  speech-language  pathology  or  communication  sciences and  disorders  from  an  institution of  higher  education accredited  by  an  agency  or  association  recognized  by  the Secretary pursuant to section 496(a); and
 
@@ -11580,7 +11587,7 @@ Jkt 069139
 
 ''(f) AWARD BASIS; PRIORITY.-
 
-''(1) AWARD BASIS.-Subject to paragraph (2), the Secretary shall provide repayment benefits under this section on a first-come, first-served basis, and subject to the availability of appropriations.
+''(1) AWARD BASIS.-Subject to paragraph (2), the Secretary shall provide repayment benefits under this section on a firstcome, first-served basis, and subject to the availability of appropriations.
 
 ''(2)  PRIORITY.-The  Secretary  shall  give  priority  in  providing repayment benefits under this section in any fiscal year to a borrower who-
 
@@ -11856,7 +11863,7 @@ Deadlines.
 
 ''(B)  if  the  parent  does  not  pay  the  interest  on  the loan  while  the  student  is  enrolled  in  an  institution,  when and  how  often  interest  on  the  loan  will  be  capitalized; and
 
-''(C)  that  the  parent  may  be  eligible  for  a  deferment on  the  loan  if  the  parent  is  enrolled  on  at  least  a  half-time basis in an institution of higher education;
+''(C)  that  the  parent  may  be  eligible  for  a  deferment on  the  loan  if  the  parent  is  enrolled  on  at  least  a  halftime basis in an institution of higher education;
 
 ''(8)  the  yearly  and  cumulative  maximum  amounts  that may be borrowed;
 
@@ -11928,9 +11935,7 @@ VerDate Aug 31 2005
 
 ''(iii)  other  loan  repayment  benefits  for  which  the borrower could be eligible that would  reduce the amount of  repayment  or  the  length  of  the  repayment period;
 
-''(B)  if  the  lender  provides  a  loan  repayment benefit-
-
-''(i) any limitations on such benefit;
+''(B)  if  the  lender  provides  a  loan  repayment benefit''(i) any limitations on such benefit;
 
 ''(ii) explicit information on the reasons a borrower may lose eligibility for such benefit;
 
@@ -12048,7 +12053,7 @@ VerDate Aug 31 2005
 
 ''(G)  the  date  by  which  the  borrower  needs  to  make a payment in order to avoid additional fees and the amount of such payment and the amount of such fees;
 
-''(H)  the  lender's  or  loan  servicer's  address  and  toll-free phone number for payment and billing error purposes; and
+''(H)  the  lender's  or  loan  servicer's  address  and  tollfree phone number for payment and billing error purposes; and
 
 ''(I)  a  reminder  that  the  borrower  has  the  option  to change repayment plans, a list of the names of the repayment plans available to the borrower, a link to the appropriate  page  of  the  Department's  website  to  obtain  a  more detailed description of the repayment plans, and directions for  the  borrower  to  request  a  change  in  repayment  plan.
 
@@ -12380,7 +12385,7 @@ Publications. Deadline. Reports.
 
 (C) in paragraph (4)-
 
-(i)  by  amending  the  paragraph  heading  to  read as  follows:  ''COLLECTION AND REPORTING OF COHORT DEFAULT RATES AND LIFE OF COHORT DEFAULT RATES.-''; and
+(i)  by  amending  the  paragraph  heading  to  read as  follows:  ''COLLECTION AND REPORTING OF COHORT DEFAULT RATES AND LIFE OF COHORT DEFAULT RATES.''; and
 
 (ii)  by  amending  subparagraph  (A)  to  read  as  follows:
 
@@ -12951,7 +12956,6 @@ VerDate Aug 31 2005
 (a)  IN GENERAL.-Section 460 (20  U.S.C.  1087j)  is  amended-
 
 (1) in subsection (b)(1)(A)(i)-
-
 (A) by inserting ''or location'' after ''a school''; and
 
 (B) by inserting ''or locations'' after ''schools''; and
@@ -14369,6 +14373,7 @@ VerDate Aug 31 2005
 ##### SEC. 485. STUDENT ELIGIBILITY.
 
 (a)  AMENDMENTS.-Section 484 (20 U.S.C. 1091) is amended-
+
 (1) in subsection (a)-
 
 (A)  in  paragraph  (4)(B),  by  striking  ''number,''  and all that follows through the semicolon and inserting ''number;''; and
@@ -15167,7 +15172,7 @@ Records.
 
 Deadline. Reports.
 
-Public. information.
+Public information.
 
 21:01 Sep 10, 2008
 
@@ -15366,7 +15371,6 @@ VerDate Aug 31 2005
 ''(F)  An  explanation  of  the  importance  of  contacting the appropriate offices at the institution of higher education if  the  borrower  withdraws  prior  to  completing  the  borrower's program of study so that the institution can provide exit  counseling,  including  information  regarding  the  borrower's repayment options and loan consolidation.
 
 ''(G)  Sample  monthly  repayment  amounts  based  on-
-
 ''(i) a range of levels of indebtedness of-
 
 ''(I)  borrowers  of  loans  under  section  428  or 428H; and
@@ -15455,7 +15459,8 @@ Jkt 069139
 
 ''(A) submitted to the data system; and
 
-''(B)  accessible  to  guaranty  agencies,  eligible  lenders, and  eligible  institutions  of  higher  education  determined by the Secretary to be authorized users of the data system; ''(5) regularly reviewing the data system to-
+''(B)  accessible  to  guaranty  agencies,  eligible  lenders, and  eligible  institutions  of  higher  education  determined by the Secretary to be authorized users of the data system;
+''(5) regularly reviewing the data system to-
 
 ''(A) delete inactive users from the data system;
 
@@ -15507,7 +15512,8 @@ VerDate Aug 31 2005
 
 ''(C)  the  ability  of  the  Secretary  to  monitor  how  the system  is  being  used,  relative  to  the  intended  purposes of the data system; and
 
-''(D)  any  protocols  developed  under  subsection  (d)(6) during the preceding fiscal year. ''(2) STUDY.-
+''(D)  any  protocols  developed  under  subsection  (d)(6) during the preceding fiscal year.
+''(2) STUDY.-
 
 ''(A) IN GENERAL.-The Secretary shall conduct a study regarding-
 
@@ -16357,7 +16363,8 @@ VerDate Aug 31 2005
 
 Section 488 (20 U.S.C. 1095) is amended in the first sentence-
 
-(1) in paragraph (1), by striking ''and'' after the semicolon; (2)  in  paragraph  (2),  by  striking  ''413D.''  and  inserting ''413D or 462 (or both); and''; and
+(1) in paragraph (1), by striking ''and'' after the semicolon;
+(2)  in  paragraph  (2),  by  striking  ''413D.''  and  inserting ''413D or 462 (or both); and''; and
 
 (3)  by  adding  at  the  end  ''(3)  transfer  25  percent  of  the institution's  allotment  under  section  413D  to  the  institution's allotment under section 442.''.
 
@@ -16368,7 +16375,6 @@ Section 489(b)(1) (20 U.S.C. 1096(b)(1)) is amended by striking ''offsetting the
 ##### SEC.  494C.  ADVISORY  COMMITTEE  ON  STUDENT  FINANCIAL  ASSISTANCE.
 
 (a)  AMENDMENTS.-Section 491 (20 U.S.C. 1098) is amended-
-
 (1) in subsection (a)(2)-
 
 (A)  in  subparagraph  (B),  by  striking  ''and''  after  the semicolon;
@@ -16573,7 +16579,8 @@ Jkt 069139
 
 ''(B)  REVIEW PANELS.-The  Advisory  Committee  shall convene not less than two review panels of representatives of the groups involved in higher education, including individuals  involved  in  student  financial  assistance  programs under this title, who have experience and expertise in  the  regulations  issued  by  the  Federal  Government that affect  all  sectors  of  higher  education,  in  order  to  review the  regulations  and  to  provide  recommendations  to  the Advisory Committee with respect to the review and analysis under  paragraph  (2).  The  panels  shall  be  made  up  of experts  in  areas  such  as  the  operations  of  the  financial assistance  programs,  the  institutional  eligibility  requirements  for  the  financial  assistance  programs,  regulations not  directly  related  to  the  operations  or  the  institutional eligibility  requirements  of  the  financial  assistance  programs,  and  regulations  for  dissemination  of  information to students about the financial assistance programs.
 
-''(4) PERIODIC UPDATES TO THE AUTHORIZING COMMITTEES.-The Advisory Committee shall-
+''(4) PERIODIC UPDATES TO THE AUTHORIZING COMMITTEES.-
+The Advisory Committee shall-
 
 ''(A) submit, not later than two years after the completion  of  the  negotiated  rulemaking  process  required  under section  492  resulting  from  the  amendments  to  this  Act made  by  the  Higher  Education  Opportunity  Act,  a  report to  the  authorizing  committees  and  the  Secretary  detailing the  review  panels'  findings  and  recommendations  with respect to the review of regulations; and
 
@@ -18397,7 +18404,7 @@ VerDate Aug 31 2005
 
 (d) AUTHORIZATION OF APPROPRIATIONS.-Section 716 (20 U.S.C. 1135e) is amended by striking ''fiscal year 1999'' and all that follows through  the  period  at  the  end  and  inserting  ''fiscal  year  2009 and  each  of  the  five  succeeding  fiscal  years  to  carry  out  this  subpart.''.
 
-(e)  TECHNICAL AMENDMENTS.-Subpart  2  of  part  A  of  title VII (as amended by this section) (20 U.S.C. 1135 et seq.) is further amended-
+(e)  TECHNICAL AMENDMENTS.-Subpart  2  of  part  A  of  title VII (as amended by this section) (20 U.S.C. 113 et seq.) is further amended-
 
 (1)  in  section  711(a)(1)  (20  U.S.C.  1135(a)(1)),  by  inserting '',  including  a  master's  or  doctoral  degree,''  after  ''leading  to a graduate degree'';
 
@@ -18647,7 +18654,7 @@ with the matching requirements of this paragraph) among the institutions  that  
 
 ''(O) Virginia State University.
 
-''(P) West Virginia State University.
+''(P) West Virginia Sate University.
 
 ''(Q) Wilberforce University.
 
@@ -22113,7 +22120,7 @@ Jkt 069139
 
 ''(iv)  assist  with  placement of interns and apprentices.
 
-''(3) INSTITUTION OF HIGHER EDUCATION.-The term 'institution  of  higher  education'  has  the  meaning  given  such  term in section 101(a)
+''(3) INSTITUTION OF HIGHER EDUCATION.-The term 'institution  of  higher  education'  has  the  meaning  given  such  term in section 101(a).
 
 PO 00315
 
@@ -22723,9 +22730,7 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
-Records.
-
-20 USC 1161l-4.
+Records. 20 USC 1161l-4.
 
 Deadline.
 
@@ -25049,7 +25054,9 @@ VerDate Aug 31 2005
 
 (4)  COMPENSATION.-Members  of  the  Board  shall  serve without  compensation  but  may  be  reimbursed  for  reasonable expenses for transportation, lodging, and other expenses directly related to their duties as members of the Board.
 
-(5) ORGANIZATION AND OPERATION.-The Board shall incorporate  and  operate  the  Center  in  accordance  with  the  laws governing tax exempt organizations in the District of Columbia. (e) DIRECTOR AND STAFF.-
+(5) ORGANIZATION AND OPERATION.-The Board shall incorporate  and  operate  the  Center  in  accordance  with  the  laws governing tax exempt organizations in the District of Columbia.
+
+(e) DIRECTOR AND STAFF.-
 
 (1)  DIRECTOR.-The  Board  shall  appoint  a  Director  of  the Center  after  conducting  a  national,  competitive  search  to  find an  individual  with  the  appropriate  expertise,  experience,  and knowledge to oversee the operations of the Center.
 
@@ -27129,15 +27136,15 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
-Private Student Loan
+Private Student Loan Transparency and Improvement Act of 2008.
 
-Transparency and Improvement
+15 USC 1601 note.
 
-15 USC 1601 note. Act of 2008.
+Deadlines.
 
-15 USC 1638
+15 USC 1638 note.
 
-Deadlines. Effective date. note.
+Effective date.
 
 15 USC 1638 note.
 
@@ -27333,7 +27340,7 @@ VerDate Aug 31 2005
 
 ''(C)  the  private  educational  lender  pays  a  fee  or  provides  other  material  benefits,  including  profit  sharing,  to the  covered  educational  institution  in  connection  with  the private education loans provided to students attending the covered  educational  institution  or  a  borrower  acting  on behalf of a student.
 
-''(b)  PROHIBITION ON CERTAIN GIFTS AND ARRANGEMENTS.A private educational lender may not, directly or indirectly-
+''(b)  PROHIBITION ON CERTAIN GIFTS AND ARRANGEMENTS.-A private educational lender may not, directly or indirectly-
 
 ''(1)  offer  or  provide  any  gift  to  a  covered  educational institution in exchange for any advantage or consideration provided  to  such  private  educational  lender  related  to  its  private education loan activities; or
 
@@ -27345,7 +27352,7 @@ VerDate Aug 31 2005
 
 ''(e) PROHIBITION ON PREPAYMENT OR REPAYMENT FEES OR PENALTY.-It  shall  be  unlawful  for  any  private  educational  lender  to impose  a  fee  or  penalty  on  a  borrower  for  early  repayment  or prepayment of any private education loan.''.
 
-(b)  CONFORMING AMENDMENT TO TRUTH IN LENDING ACT.Section  103(f)  of  the  Truth  in  Lending  Act  (15  U.S.C.  1602(f)) is amended by adding at the end the following: ''The term 'creditor' includes  a  private  educational  lender  (as  that  term  is  defined  in section 140) for purposes of this title.''.
+(b)  CONFORMING AMENDMENT TO TRUTH IN LENDING ACT.-Section  103(f)  of  the  Truth  in  Lending  Act  (15  U.S.C.  1602(f)) is amended by adding at the end the following: ''The term 'creditor' includes  a  private  educational  lender  (as  that  term  is  defined  in section 140) for purposes of this title.''.
 
 21:01 Sep 10, 2008
 
@@ -27791,7 +27798,9 @@ this  Act,  or  State  or  institutional  student  financial  assistance,  in  p
 
 ''(C) a private education loan may affect the applicant's eligibility for free or low-cost Federal, State or institutional student financial assistance; and
 
-''(D)  the  information  that  the  applicant  is  required to  provide  on  the  form  is  available  from  officials  at  the financial  aid  office  of  the  institution  of  higher  education; ''(4) include a place to provide information on-
+''(D)  the  information  that  the  applicant  is  required to  provide  on  the  form  is  available  from  officials  at  the financial  aid  office  of  the  institution  of  higher  education;
+
+''(4) include a place to provide information on-
 
 ''(A) the applicant's cost of attendance at the institution of higher education, as determined by the institution under Part F of title IV;
 
@@ -27863,7 +27872,7 @@ As used in this subtitle-
 
 ##### SEC. 1042. COORDINATED EDUCATION EFFORTS.
 
-(a) IN GENERAL.-The Secretary of the Treasury (in this section referred  to  as  the  ''Secretary''),  in  coordination  with  the  Secretary of  Education,  the  Secretary  of  Agriculture  (with  respect  to  landgrant colleges and universities), and any other appropriate agency that is a member of the Financial Literacy and Education Commission established under the Financial Literacy and Education Improvement  Act  (20  U.S.C.  9701  et  seq.),  shall  seek  to  enhance financial literacy among students at covered educational institutions through-
+(a) IN GENERAL.-The Secretary of the Treasury (in this section referred  to  as  the  ''Secretary''),  in  coordination  with  the  Secretary of  Education,  the  Secretary  of  Agriculture  (with  respect  to  land-grant colleges and universities), and any other appropriate agency that is a member of the Financial Literacy and Education Commission established under the Financial Literacy and Education Improvement  Act  (20  U.S.C.  9701  et  seq.),  shall  seek  to  enhance financial literacy among students at covered educational institutions through-
 
 (1) the development of initiatives, programs, and curricula that  improve  student  awareness  of  the  short-  and  long-term costs  associated  with  education  loans  and  other  debt  assumed while  in  college,  their  repayment  obligations,  and  their  rights as borrowers; and
 
@@ -27917,7 +27926,9 @@ Recommendations.
 
 Jkt 069139
 
-(4) encourage covered educational institutions to implement financial education programs for their students, including those that have the highest evaluations. (c) REPORT.-
+(4) encourage covered educational institutions to implement financial education programs for their students, including those that have the highest evaluations.
+
+(c) REPORT.-
 
 (1)  IN GENERAL.-Not  later  than  2  years  after  the  date of enactment of this Act, the Financial Literacy and Education Commission shall submit a report to the Committee on Banking,  Housing,  and  Urban  Affairs  and  the  Committee  on Health Education, Labor, and Pensions of the Senate and the Committee  on  Financial  Services  and  the  Committee  on  Education and Labor of the House of Representatives on the state of  financial  education  among  students  at  covered  educational institutions.
 
@@ -28063,9 +28074,9 @@ Jkt 069139
 
 (G) whether the request for such information is duplicative  of  information  that  is  already  being  collected;  and
 
-(H)  whether  the  National  Postsecondary  Student  Aid Survey  conducted  by  the  National  Center  for  Education
+(H)  whether  the  National  Postsecondary  Student  Aid Survey  conducted  by  the  National  Center  for  Education Statistics  could  be  amended  to  collect  such  information.
 
-Statistics  could  be  amended  to  collect  such  information. (b) REPORTS.-
+(b) REPORTS.-
 
 (1)  PRELIMINARY REPORT.-Not  later  than  one  year  after the  date  of  enactment  of  this  Act,  the  Comptroller  General of the United States shall submit to the authorizing committees a  preliminary  report  regarding  the  study,  assessments,  and recommendations described in subsection (a).
 
@@ -28243,7 +28254,7 @@ VerDate Aug 31 2005
 
 students  (including  classification  of  types  of  students  by  age category)  by  assessing  access,  job  placement  rates,  graduation rates, and other factors related to persistence, completion, and cost; and
 
-(4)  identification  and  analysis  of  factors  that  may  make direct comparisons of distance education programs and campusbased education programs difficult.
+(4)  identification  and  analysis  of  factors  that  may  make direct comparisons of distance education programs and campus-based education programs difficult.
 
 (b)  SCOPE.-The  National  Research  Council  shall  select  for participation in the evaluation under subsection (a) a diverse group of  institutions  of  higher  education  with  respect  to  size,  mission, and geographic distribution.
 
@@ -28413,7 +28424,7 @@ VerDate Aug 31 2005
 
 (b)  SUBJECTS FOR STUDY.-The  study  required  by  this  section shall, at a minimum, examine the following:
 
-(1)  The  existing  sources  of  Federal  aid  for  less-than-halftime students seeking a college degree or certificate.
+(1)  The  existing  sources  of  Federal  aid  for  less-than-half-time students seeking a college degree or certificate.
 
 (2) The demand for Federal aid for less-than-half-time students and whether the demand is satisfied by existing sources of  Federal  aid,  taking  into  consideration  not  only  the  number of less-than-half-time students currently seeking a college
 
@@ -28457,7 +28468,7 @@ degree  or  certificate,  but  also  any  increase  in  the  number of less-than
 
 (3)  The  potential  costs  to  the  Federal  Government  and the potential benefits that could be received by students resulting  from  expanding  Federal  aid  for  less-than-half-time students seeking a college degree or certificate.
 
-(4)  The  barriers  to  expanding  Federal  aid  for  less-thanhalf-time students, including identifying-
+(4)  The  barriers  to  expanding  Federal  aid  for  less-than-half-time students, including identifying-
 
 (A) statutory and regulatory barriers, such as student eligibility, institutional eligibility, needs analysis, program integrity, and award amounts; and
 
@@ -28693,7 +28704,7 @@ Deadline.
 
 122 STAT. 3502
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 dkrause on GSDDPC44 with PUBLIC LAWS
 
@@ -28709,7 +28720,7 @@ Jkt 069139
 
 (C)  determining  the  extent  to  which  the  Department of  Education  ensures  timely  submission  of  required  financial  and  compliance  audits  and  reviews  and  compliance with statutory and regulatory requirements.
 
-(2) ADDITIONAL CONTENT OF STUDY.-The study under subsection (a) shall-
+(2) ADDITIONAL CONTENT OF STUDY.—The study under subsection (a) shall—
 
 (A) provide a list of the financial and compliance audits and  reviews  required  or  conducted  as  part  of  the  proper management of  the  Federal  student  loan  programs  under parts  B  and  D  of  title  IV  of  the  Higher  Education  Act of 1965 (20 U.S.C. 1071 et seq. and 1087a et seq.);
 
@@ -28719,17 +28730,17 @@ Jkt 069139
 
 (D)  determine  the  degree  of  individual  borrower  level reconciliation  required  under  Federal  student  loan  programs under such parts B and D of title IV;
 
-(E) make recommendations with respect to such audits and reviews to ensure-
+(E) make recommendations with respect to such audits and reviews to ensure—
 
 (i) such audits and reviews are comparable among Federal  student  loan  programs  under  such  parts  B and D of title IV; and
 
 (ii)  a  level  of  protection  of  borrower  interests  and of  Federal  fiscal  interests  that  is  comparable  for  Federal  student  loan  programs  under  such  parts  B  and D  of  title  IV,  to  the  extent  such  comparability  does not exist; and
 
-(F) assess the extent to which the Department of Education makes appropriate use of such financial and compliance  audits  and  reviews  in  the  Department's  administration  and  oversight  of  the  Federal  student  loan  programs under such parts B and D of title IV.
+(F) assess the extent to which the Department of Education makes appropriate use of such financial and compliance  audits  and  reviews  in  the  Department’s  administration  and  oversight  of  the  Federal  student  loan  programs under such parts B and D of title IV.
 
 ##### SEC. 1120. SUMMIT ON SUSTAINABILITY.
 
-Not later than September 30, 2010, the Secretary of Education, in consultation with the Administrator of the Environmental Protection  Agency,  shall  convene  a  summit  of  higher  education  experts working  in  the  area  of  sustainable  operations  and  programs,  representatives from agencies of the Federal Government, and business and  industry  leaders  to  focus  on  efforts  of  national  distinction that-
+Not later than September 30, 2010, the Secretary of Education, in consultation with the Administrator of the Environmental Protection  Agency,  shall  convene  a  summit  of  higher  education  experts working  in  the  area  of  sustainable  operations  and  programs,  representatives from agencies of the Federal Government, and business and  industry  leaders  to  focus  on  efforts  of  national  distinction that—
 
 (1)  encourage  faculty,  staff,  and  students  at  institutions of  higher  education  to  establish  administrative  and  academic sustainability programs on campus;
 
@@ -28751,7 +28762,7 @@ PUBL315
 
 [[START OF PAGE 427]]
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 122 STAT. 3503
 
@@ -28767,7 +28778,7 @@ VerDate Aug 31 2005
 
 ##### SEC. 1121. NURSING SCHOOL CAPACITY.
 
-(a) FINDINGS.-Congress finds the following:
+(a) FINDINGS.—Congress finds the following:
 
 (1) Researchers in the field of public health have identified the need for a national study to identify constraints encountered by  schools  of  nursing  in  graduating  the  number  of  nurses sufficient  to  meet  the  health  care  needs  of  the  United  States.
 
@@ -28781,15 +28792,15 @@ VerDate Aug 31 2005
 
 (6)  In  2004, an estimated 125,000 applications from qualified  applicants  were  rejected  by  schools  of  nursing,  due  to a  shortage  of  faculty  and  a  lack  of  capacity  for  additional students.
 
-(b)  STUDY WITH RESPECT TO CONSTRAINTS WITH RESPECT TO SCHOOLS OF NURSING.-
+(b)  STUDY WITH RESPECT TO CONSTRAINTS WITH RESPECT TO SCHOOLS OF NURSING.—
 
-(1)  IN GENERAL.-The Secretary shall enter into an agreement with  the  Institute  of  Medicine  of  the  National  Academy of Sciences to conduct a study for the purpose of-
+(1)  IN GENERAL.—The Secretary shall enter into an agreement with  the  Institute  of  Medicine  of  the  National  Academy of Sciences to conduct a study for the purpose of—
 
 (A)  identifying  constraints  encountered  by  schools  of nursing  in  admitting  and  graduating  the  number  of  registered nurses necessary to ensure patient safety and meet the  need  for  quality  assurance  in  the  provision  of  health care; and
 
 (B)  developing  recommendations  to  alleviate  the  constraints on a short-term and long-term basis.
 
-(2) CERTAIN COMPONENTS.-The Secretary shall ensure that the  agreement  under  paragraph  (1)  provides  that  the  study under such paragraph will include information on the following:
+(2) CERTAIN COMPONENTS.—The Secretary shall ensure that the  agreement  under  paragraph  (1)  provides  that  the  study under such paragraph will include information on the following:
 
 (A) The trends in applications for attendance at schools of  nursing  that  are  relevant  to  the  purpose  of  the  study, including  trends  regarding  applicants  who  are  accepted for enrollment and applicants who are not accepted, particularly qualified applicants who are not accepted.
 
@@ -28819,7 +28830,7 @@ Contracts.
 
 122 STAT. 3504
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 dkrause on GSDDPC44 with PUBLIC LAWS
 
@@ -28833,7 +28844,7 @@ the  number of  recent  graduates  from  the  schools,  as  compared to previous
 
 (C)  The  number  and  demographic  characteristics  of nurses who pursue graduate education in nursing and nonnursing  programs  but  do  not  pursue  faculty  positions  in schools  of  nursing,  the  reasons  for  not  pursuing  faculty positions,  including  any  regulatory  barriers  to  choosing to  pursue  such  positions,  and  the  effect  of  such  decisions on  the  ability  of  the  schools  to  obtain  adequate  numbers of faculty members.
 
-(D) The extent to which-
+(D) The extent to which—
 
 (i)  entry-level  graduates  of  the  schools  of  nursing are satisfied with their educational preparation, including their participation in nurse externships, internships, and residency programs; and
 
@@ -28845,7 +28856,7 @@ the  number of  recent  graduates  from  the  schools,  as  compared to previous
 
 (G)  The  extent  to  which  the  use  of  innovative  technologies  for  didactic  and  clinical  nursing  education  might provide for an increase in the ability of schools of nursing to train qualified nurses.
 
-(3)  RECOMMENDATIONS.-The  Institute  of  Medicine  may include  in  the  recommendations  developed  under  paragraph (1)(B) recommendations for legislative or administrative changes  at  the  Federal  or  State  level,  and  measures  that  can be taken in the private sector-
+(3)  RECOMMENDATIONS.—The  Institute  of  Medicine  may include  in  the  recommendations  developed  under  paragraph (1)(B) recommendations for legislative or administrative changes  at  the  Federal  or  State  level,  and  measures  that  can be taken in the private sector—
 
 (A)  to  facilitate  the  recruitment  of  students  into  the nursing profession;
 
@@ -28853,9 +28864,9 @@ the  number of  recent  graduates  from  the  schools,  as  compared to previous
 
 (C)  to  improve  the  resources  and  ability  of  the  education  and  health  care  systems  to  prepare  a  sufficient number of qualified registered nurses.
 
-(4) METHODOLOGY OF STUDY.-
+(4) METHODOLOGY OF STUDY.—
 
-(A) SCOPE.-The Secretary shall ensure that the agreement  under  paragraph  (1)  provides  that  the  study  under such paragraph will consider the perspectives of-
+(A) SCOPE.—The Secretary shall ensure that the agreement  under  paragraph  (1)  provides  that  the  study  under such paragraph will consider the perspectives of—
 
 (i)  nurses  and  physicians  in  each  of  the  various types of inpatient, outpatient, and residential facilities in the health care delivery system;
 
@@ -28881,7 +28892,7 @@ PUBL315
 
 [[START OF PAGE 429]]
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 122 STAT. 3505
 
@@ -28889,7 +28900,7 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
-(B)  CONSULTATION WITH RELEVANT ORGANIZATION.The Secretary shall ensure that the agreement under paragraph (1) provides that relevant agencies and organizations with  expertise  on  the  nursing  shortage  will  be  consulted with respect to the study under such paragraph, including the following:
+(B)  CONSULTATION WITH RELEVANT ORGANIZATION.—The Secretary shall ensure that the agreement under paragraph (1) provides that relevant agencies and organizations with  expertise  on  the  nursing  shortage  will  be  consulted with respect to the study under such paragraph, including the following:
 
 (i) The Agency for Healthcare Research and Quality.
 
@@ -28911,27 +28922,27 @@ Degree Nursing.
 
 (ix) The National Student Nurses Association.
 
-(5)  REPORT.-The  Secretary  shall  ensure  that  the  agreement  under  paragraph  (1)  provides  that,  not  later  than  18 months after the date of enactment of this section, the Institute of  Medicine  shall  submit  a  report  providing  the  findings  and recommendations made in the study under this section to the Secretary and the authorizing committees.
+(5)  REPORT.—The  Secretary  shall  ensure  that  the  agreement  under  paragraph  (1)  provides  that,  not  later  than  18 months after the date of enactment of this section, the Institute of  Medicine  shall  submit  a  report  providing  the  findings  and recommendations made in the study under this section to the Secretary and the authorizing committees.
 
-(6)  OTHER ORGANIZATION.-If  the  Institute  of  Medicine declines to conduct the study under paragraph (1), the Secretary may enter into an agreement with another appropriate private entity to conduct the study.
+(6)  OTHER ORGANIZATION.—If  the  Institute  of  Medicine declines to conduct the study under paragraph (1), the Secretary may enter into an agreement with another appropriate private entity to conduct the study.
 
-(c) DEFINITIONS.-In this section:
+(c) DEFINITIONS.—In this section:
 
-(1)  TERMS IN PUBLIC HEALTH SERVICE ACT.-The  terms ''collegiate school of nursing'', ''associate degree school of nursing'',  and  ''diploma  school  of  nursing''  have  the  meanings given to such terms in section 801 of the Public Health Service Act (42 U.S.C. 296).
+(1)  TERMS IN PUBLIC HEALTH SERVICE ACT.—The  terms ‘‘collegiate school of nursing’’, ‘‘associate degree school of nursing’’,  and  ‘‘diploma  school  of  nursing’’  have  the  meanings given to such terms in section 801 of the Public Health Service Act (42 U.S.C. 296).
 
-(2)  SCHOOL OF NURSING.-The  term  ''school  of  nursing'' means a collegiate school of nursing, an associate degree school of nursing, or a diploma school of nursing in a State.
+(2)  SCHOOL OF NURSING.—The  term  ‘‘school  of  nursing’’ means a collegiate school of nursing, an associate degree school of nursing, or a diploma school of nursing in a State.
 
-(3) SECRETARY.-The term ''Secretary'' means the Secretary of Education.
+(3) SECRETARY.—The term ‘‘Secretary’’ means the Secretary of Education.
 
 ##### SEC.  1122.  STUDY  AND  REPORT  ON  NONINDIVIDUAL  INFORMATION.
 
-(a) DEFINITIONS.-In this section:
+(a) DEFINITIONS.—In this section:
 
-(1)  HISTORICALLY BLACK COLLEGE OR UNIVERSITY.-The term ''historically Black college or university'' has the meaning given the term ''part B institution'' in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+(1)  HISTORICALLY BLACK COLLEGE OR UNIVERSITY.—The term ‘‘historically Black college or university’’ has the meaning given the term ‘‘part B institution’’ in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
 
-(2)  TRUTH IN LENDING ACT.-The  terms  ''covered  educational  institution''  and  ''private  education  loan''  have  the meanings given the terms in section 140 of the Truth in Lending Act, as added by title X.
+(2)  TRUTH IN LENDING ACT.—The  terms  ‘‘covered  educational  institution’’  and  ‘‘private  education  loan’’  have  the meanings given the terms in section 140 of the Truth in Lending Act, as added by title X.
 
-(b) STUDY.-The Comptroller General of the United States shall conduct a study-
+(b) STUDY.—The Comptroller General of the United States shall conduct a study—
 
 (1)  on  the  impact  on  and  benefits  to  borrowers  of  the inclusion of nonindividual factors, including cohort default rate, accreditation,  and  graduation  rate  at  institutions  of  higher
 
@@ -28959,7 +28970,7 @@ Deadline.
 
 122 STAT. 3506
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 dkrause on GSDDPC44 with PUBLIC LAWS
 
@@ -28975,11 +28986,11 @@ Jkt 069139
 
 education,  used  in  the  underwriting  criteria  to  determine  the pricing of private education loans;
 
-(2)  to  examine  whether  and  to  what  extent  the  inclusion of such nonindividual factors-
+(2)  to  examine  whether  and  to  what  extent  the  inclusion of such nonindividual factors—
 
 (A) increases access to private education loans for borrowers who lack credit history or results in less favorable rates for such borrowers; and
 
-(B) affects the types of private education loan products and  rates  available  at  certain  institutions  of  higher  education, including a comparison of such impact-
+(B) affects the types of private education loan products and  rates  available  at  certain  institutions  of  higher  education, including a comparison of such impact—
 
 (i) on private and public institutions; and
 
@@ -28987,15 +28998,15 @@ education,  used  in  the  underwriting  criteria  to  determine  the pricing of
 
 (3)  to  assess  the  extent  to  which  the  use  of  such  nonindividual  factors  in  underwriting  may  have  a  disparate  impact on  the  pricing  of  private  education  loans,  based  on  gender, race, income level, and covered educational institution.
 
-(c)  REPORT.-Not  later  than  one  year  after  the  date  of  enactment  of  this  Act,  the  Comptroller  General  of  the  United  States shall  submit a report to the Committee on Banking, Housing, and Urban  Affairs  and  the  Committee  on  Health,  Education,  Labor, and Pensions of the Senate and the Committee on Financial Services of the House of Representatives on the results of the study required by this section.
+(c)  REPORT.—Not  later  than  one  year  after  the  date  of  enactment  of  this  Act,  the  Comptroller  General  of  the  United  States shall  submit a report to the Committee on Banking, Housing, and Urban  Affairs  and  the  Committee  on  Health,  Education,  Labor, and Pensions of the Senate and the Committee on Financial Services of the House of Representatives on the results of the study required by this section.
 
 ##### SEC. 1123. FEASIBILITY STUDY FOR STUDENT LOAN CLEARINGHOUSE.
 
-(a)  IN GENERAL.-Not  later  than  18  months  after  the  date of  enactment  of  this  Act,  the  Comptroller  General  of  the  United States  shall  conduct  a  study  of  the  feasibility  of  developing  a national  student  loan  clearinghouse  on  the  website  of  the  Department  of  Education  that  would  provide  for  one  or  more  of  the following:
+(a)  IN GENERAL.—Not  later  than  18  months  after  the  date of  enactment  of  this  Act,  the  Comptroller  General  of  the  United States  shall  conduct  a  study  of  the  feasibility  of  developing  a national  student  loan  clearinghouse  on  the  website  of  the  Department  of  Education  that  would  provide  for  one  or  more  of  the following:
 
 (1)  A  registry  of  real-time  information  on  Federal  student loans  (including  loans  under  parts  B  and  D  of  title  IV  of the  Higher  Education  Act  of  1965  (20  U.S.C.  1071  et  seq. and  1087a  et  seq.)  and  private  education  loans  (as  defined in  section  140  of  the  Truth  in  Lending  Act)),  for  both  undergraduate  and  graduate  students,  and  parents  of  students,  for use by prospective borrowers or any person desiring information regarding  available  interest  rates,  fees,  and  other  terms  from lenders.
 
-(2)  A  mechanism  whereby  prospective  borrowers  could  be matched  with  lenders  that  offer  highly  competitive  products and loan servicing quality, including any procedures and safeguards  necessary  to  minimize  potentially  adverse  effects  of multiple inquiries into participating borrowers' credit histories recorded by consumer reporting agencies.
+(2)  A  mechanism  whereby  prospective  borrowers  could  be matched  with  lenders  that  offer  highly  competitive  products and loan servicing quality, including any procedures and safeguards  necessary  to  minimize  potentially  adverse  effects  of multiple inquiries into participating borrowers’ credit histories recorded by consumer reporting agencies.
 
 (3)  Options  concerning  the  establishment  and  ongoing maintenance of such a system, including whether such a system should  be  operated  by  one  or  more  entities,  and  methods  to finance  such  a  system  at  no  or  minimal  cost  to  consumers and the Government.
 
@@ -29017,7 +29028,7 @@ PUBL315
 
 [[START OF PAGE 431]]
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 122 STAT. 3507
 
@@ -29025,7 +29036,7 @@ dkrause on GSDDPC44 with PUBLIC LAWS
 
 VerDate Aug 31 2005
 
-(b)  CONSULTATION.-In conducting the study under subsection (a),  the  Comptroller  General  of  the  United  States  shall  consult with-
+(b)  CONSULTATION.—In conducting the study under subsection (a),  the  Comptroller  General  of  the  United  States  shall  consult with—
 
 (1) the Secretary of Education;
 
@@ -29039,23 +29050,23 @@ VerDate Aug 31 2005
 
 (6) other appropriate entities with relevant experience.
 
-(c)  REPORT.-Not later than two years after the date of enactment  of  this  Act,  the  Comptroller  General  of  the  United  States shall  submit  to  the  authorizing  committees  a  report  on  the  study conducted under subsection (a).
+(c)  REPORT.—Not later than two years after the date of enactment  of  this  Act,  the  Comptroller  General  of  the  United  States shall  submit  to  the  authorizing  committees  a  report  on  the  study conducted under subsection (a).
 
 ##### SEC.  1124.  STUDY  ON  DEPARTMENT  OF  EDUCATION  OVERSIGHT  OF INCENTIVE COMPENSATION BAN.
 
-(a)  IN GENERAL.-Not  later  than  18  months  after  the  date of  enactment  of  this  Act,  the  Comptroller  General  of  the  United States shall-
+(a)  IN GENERAL.—Not  later  than  18  months  after  the  date of  enactment  of  this  Act,  the  Comptroller  General  of  the  United States shall—
 
 (1) conduct a study of efforts by the Secretary of Education to  enforce  the  provisions  of  section  487(a)(20)  of  the  Higher Education Act of 1965 (20 U.S.C. 1094(a)(20)); and
 
 (2)  submit  to  the  authorizing  committees  a  report  that provides the results of such study.
 
-(b)  CONTENT OF REPORT.-The  report  submitted  under  subsection (a) shall include-
+(b)  CONTENT OF REPORT.—The  report  submitted  under  subsection (a) shall include—
 
-(1)  an  analysis  of  the  nature,  extent,  and  effectiveness of  the  Secretary  of  Education's  activities  to  enforce  the  provisions of section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20));
+(1)  an  analysis  of  the  nature,  extent,  and  effectiveness of  the  Secretary  of  Education’s  activities  to  enforce  the  provisions of section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20));
 
 (2) the number of institutions of higher education for which investigations were initiated by the Secretary for potential violations of such section since 1998;
 
-(3) in cases where violations of such section by institutions of higher education were substantiated by the Secretary-
+(3) in cases where violations of such section by institutions of higher education were substantiated by the Secretary—
 
 (A) the names of such institutions;
 
@@ -29063,7 +29074,7 @@ VerDate Aug 31 2005
 
 (C)  the  penalty,  if  any,  imposed  by  the  Secretary  for such violations;
 
-(4) an analysis of the impact of the ''safe harbor'' regulations under  section  668.14(b)(22)(ii)(A)  through  (L)  of  title  34,  Code of Federal Regulations, promulgated under such section 487(a)(20),  on  the  number  and  nature  of  cases  examined  by the Secretary for potential violations of such section 487(a)(20), including  whether  the  number  of  cases  examined  by  the  Secretary has increased or decreased since such regulations went into effect;
+(4) an analysis of the impact of the ‘‘safe harbor’’ regulations under  section  668.14(b)(22)(ii)(A)  through  (L)  of  title  34,  Code of Federal Regulations, promulgated under such section 487(a)(20),  on  the  number  and  nature  of  cases  examined  by the Secretary for potential violations of such section 487(a)(20), including  whether  the  number  of  cases  examined  by  the  Secretary has increased or decreased since such regulations went into effect;
 
 (5)  information  on  the  extent  to  which  the  Secretary  has considered  efforts  by  States  to  examine  unethical  or  unlawful student  recruitment  or  admissions  practices  by  institutions  of higher education, including practices that violate the provisions of such section 487(a)(20); and
 
@@ -29093,7 +29104,7 @@ Reports.
 
 122 STAT. 3508
 
-PUBLIC LAW 110-315-AUG. 14, 2008
+PUBLIC LAW 110–315—AUG. 14, 2008
 
 dkrause on GSDDPC44 with PUBLIC LAWS
 
@@ -29107,13 +29118,13 @@ Jkt 069139
 
 ##### SEC. 1125. DEFINITION OF AUTHORIZING COMMITTEES.
 
-For  purposes  of  this  title,  the  term  ''authorizing  committees'' has  the  meaning  given  such  term  in  section  103  of  the  Higher Education Act of 1965, as amended by this Act.
+For  purposes  of  this  title,  the  term  ‘‘authorizing  committees’’ has  the  meaning  given  such  term  in  section  103  of  the  Higher Education Act of 1965, as amended by this Act.
 
 Approved August 14, 2008.
 
-> LEGISLATIVE HISTORY-H.R. 4137:
+> LEGISLATIVE HISTORY—H.R. 4137:
 
-> HOUSE  REPORTS:  Nos.  110-500,  Pt.  1  (Comm.  on  Education  and  Labor)  and 110-803 (Comm. of Conference).
+> HOUSE  REPORTS:  Nos.  110–500,  Pt.  1  (Comm.  on  Education  and  Labor)  and 110–803 (Comm. of Conference).
 
 > CONGRESSIONAL RECORD, Vol. 154 (2008):
 
