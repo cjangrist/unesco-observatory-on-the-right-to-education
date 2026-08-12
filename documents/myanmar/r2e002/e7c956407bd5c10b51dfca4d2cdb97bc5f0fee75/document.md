@@ -1,6 +1,12 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+# Constitution of the Republic of the Union of Myanmar (2008)
+
+# jynfaxmifpkor®wjrefrmEdkifiHawmf
+
+# zGJUpnf;ykHtajccHOya'
+
+# (2008 ckESpf)
 
 [[END OF PAGE 1]]
 
@@ -46,11 +52,51 @@ jyefMum;a&;0efBuD;Xme? yHkEdSyfa&;ESifhpmtkyfxkwfa0a&;vkyfief;wGif yHkEdSyfonf/
 
 ## CONTENTS
 
+CHAPTER PAGE
+
+- Preamble . . . 1
+1. Basic Principles of the Union . . . 3
+2. State Structure . . . 13
+3. Head of State . . . 19
+4. Legislature . . . 27
+5. Executive . . . 75
+6. Judiciary . . . 125
+7. Defence Services . . . 148
+8. Citizen, Fundamental Rights and Duties of the Citizens . . . 149
+9. Election . . . 157
+10. Political Parties . . . 163
+11. Provisions on State of Emergency . . . 165
+12. Amendment of the Constitution . . . 173
+13. State Flag, State Seal, National Anthem and the Capital . . . 175
+14. Transitory Provisions . . . 177
+15. General Provisions . . . 179
+
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-## rmwdum rmwdum rmwdum rmwdum
+## rmwdum
+
+pOf taMumif;t&m pmrsufESm
+
+- ed'gef; ... 1
+1/ tcef; (1) EdkifiHawmftajccHrlrsm; ... 3
+2/ tcef; (2) EdkifiHawmfzGJUpnf;wnfaqmufykH ... 13
+3/ tcef; (3) EdkifiHawmftBuD;tuJ ... 19
+4/ tcef; (4) Oya'jyKa&; ... 27
+5/ tcef; (5) tkyfcsKyfa&; ... 75
+6/ tcef; (6) w&m;pD&ifa&; ... 125
+7/ tcef; (7) wyfrawmf ... 148
+8/ tcef; (8) EkdifiHom;? EkdifiHom;rsm;\
+rlvtcGifhta&;ESifhwm0efrsm; ... 149
+9/ tcef; (9) a&G;aumufwifajr§mufjcif; ... 157
+10/ tcef; (10) EdkifiHa&;ygwDrsm; ... 163
+11/ tcef; (11) ta&;ay:umvqdkif&mjy|mef;csufrsm; ... 165
+12/ tcef; (12) zGJUpnf;ykHtajccHOya'jyifqifjcif; ... 173
+13/ tcef; (13) EdkifiHawmftvH? txdrf;trSwfwHqdyf
+oDcsif;ESifhNrdKUawmf ... 175
+14/ tcef; (14) ul;ajymif;a&;umvjy|mef;csufrsm; ... 177
+15/ tcef; (15) taxGaxGjy|mef;csufrsm; ... 179
 
 [[END OF PAGE 6]]
 
@@ -58,11 +104,11 @@ jyefMum;a&;0efBuD;Xme? yHkEdSyfa&;ESifhpmtkyfxkwfa0a&;vkyfief;wGif yHkEdSyfonf/
 
 ## Preamble
 
-Myanmar is a Nation with magnificent historical traditions. W e, the National people, have been living in unity and oneness, setting up an independent sovereign State and standing tall with pride.
+Myanmar is a Nation with magnificent historical traditions. We, the National people, have been living in unity and oneness, setting up an independent sovereign State and standing tall with pride.
 
-Due to colonial intrusion, the Nation lost her sovereign power in 1885. The National people launched anti-colonialist struggles and National liberation struggles, with unity in strength, sacrificing lives and hence the Nation became an independent sovereign State again on 4 th January 1948.
+Due to colonial intrusion, the Nation lost her sovereign power in 1885. The National people launched anti-colonialist struggles and National liberation struggles, with unity in strength, sacrificing lives and hence the Nation became an independent sovereign State again on 4th January 1948.
 
-In order to gain independence speedily, the Constitution was hastily drafted, and it was adopted by the Constitutent Assembly on 24 th September 1947. After attaining independence, Parliamentary Democracy System was practised in the State in accord with the Constitution of the Union of Myanmar. However, as democratic system could not be effectively materialized, the new Constitution of the Socialist Republic of the Union of Myanmar was drafted based on the single party system, and after holding a National Referendum, a socialist democratic State was set up in 1974. The Constitution came to an end because of the general situation occurred in 1988.
+In order to gain independence speedily, the Constitution was hastily drafted, and it was adopted by the Constitutent Assembly on 24th September 1947. After attaining independence, Parliamentary Democracy System was practised in the State in accord with the Constitution of the Union of Myanmar. However, as democratic system could not be effectively materialized, the new Constitution of the Socialist Republic of the Union of Myanmar was drafted based on the single party system, and after holding a National Referendum, a socialist democratic State was set up in 1974. The Constitution came to an end because of the general situation occurred in 1988.
 
 Later, due to public aspirations, the State Peace and Development Council made efforts to adopt multi-party democratic system and market economy in accord with the National situation.
 
@@ -74,7 +120,7 @@ Persons who are well experienced in various aspects of politics, security, admin
 
 [[START OF PAGE 8]]
 
-## ed'gef; ed'gef; ed'gef; ed'gef;
+## ed'gef;
 
 jrefrmEdkifiHawmfonf ordkif;tpOftvmBuD;rm;aom EdkifiHawmfjzpfayonf/ uREkfyfwdkY  wdkif;&if;om;jynfoltaygif;wdkYonf  pnf;vHk;nDñGwfpGm  wpfom;wnf; aexdkifvmcJhMuNyD;  tcsKyftjcmtmPmydkif  vGwfvyfaomEdkifiHtjzpf  xlaxmifum xnf0gpGm &yfwnfcJhMuayonf/ udkvdkeDe,fcsJUwdkY\usL;ausmfrIaMumifh  1885  ckESpfwGif  EdkifiHawmftmPm vHk;0vufvGwfqHk;½HI;cJh&ayonf/ wdkif;&if;om;jynfoltaygif;wdkYonf pnf;vHk;nDñGwfrI pGrf;tm;jzifh    e,fcsJUqefYusifa&;ESifh  trsKd;om;vGwfajrmufa&;wdkufyGJrsm;udk  toufaygif; rsm;pGmpaw;í  qifETJcJhMuaomaMumifh  1948  ckESpf  Zefe0g&Dv  4  &ufaeYwGif tcsKyftjcmtmPmydkif vGwfvyfaomEdkifiHawmftjzpf jyefvnf&yfwnfEdkifcJhayonf/ vGwfvyfa&;tjref&&Sd&eftwGuf zGJUpnf;tkyfcsKyfyHktajccHOya'udk tvsiftjref a&;qGJum  1947  ckESpf  pufwifbmv  24  &ufaeYwGif  wdkif;jynfjyKvTwfawmfu twnfjyKjy|mef;cJhNyD;    vGwfvyfa&;&&Sdaomtcg  EdkifiHawmfwGif  tqdkyg  zGJUpnf;yHk tajccHOya'jzifh ygvDref'Drdkua&pDpepfudk azmfaqmifusifhoHk;cJhMuayonf/ odkY&mwGif EdkifiHawmfü  'Drdkua&pDpepfudk  yDjyifpGm  usifhoHk;EdkifrIr&Sdojzifh  1974  ckESpfwGif wpfygwDyHkpHudktajccHvsuf zGJUpnf;yHktajccHOya'wpf&yfudk a&;qGJNyD; jynfvHk;uRwf qE´cH,lyGJusif;yí  twnfjyKjy|mef;um  qdk&S,fvpf'Drdkua&pD  EdkifiHawmftjzpf BudK;yrf;wnfaxmifcJhjyefayonf/  1988  ckESpfwGif  EdkifiHawmfü  jzpfay:vmonfh tajctaet&yf&yfaMumifh tqdkygzGJUpnf;yHktajccHOya'rSmvnf; &yfqdkif;oGm;cJh&onf/ xYdkaemuf EdkifiHawmfat;csrf;om,ma&;ESifh zGHUNzdK;a&;aumifpDu jynfolrsm;\ vdktifqE´ESifhtnD ygwDpkH'Drdkua&pDpepfESifh aps;uGufpD;yGm;a&;pepfwdkYudk rdrdEdkifiHESifh vdkufavsmnDaxGpGm xlaxmifEdkif&eftwGuf  BudK;yrf;wnfaqmufay;cJhayonf/ tem*wfEdkifiHawmfwGif a&&SnftusKd;&SdNyD; cdkifrmonfh zGJUpnf;yHktajccHOya' wpf&yf r&SdrjzpfvdktyfonfhtwGuf EdkifiHawmfat;csrf;om,ma&;ESifh zGHUNzdK;a&;aumifpD onf 1993 ckESpfrSpí trsKd;om;nDvmcHudk ac:,lusif;yay;cJhonf/ trsKd;om;nDvmcHwGif EdkifiHa&;? vkHNcHKa&;? tkyfcsKyfa&;? pD;yGm;a&;? vlrIa&;ESifh Oya'a&;&mponfh ½IaxmifhrsKd;pHkrS tawGUtMuHK<u,f0onfh yk*¾dKvfrsm;yg0ifouJhodkY EdkifiHawmftwGif;wnf&Sdonfh  NrdKUe,ftm;vHk;rS  wdkif;&if;om;udk,fpm;vS,frsm;vnf; yg0ifcJhMuayonf/
 
@@ -84,19 +130,19 @@ jrefrmEdkifiHawmfonf ordkif;tpOftvmBuD;rm;aom EdkifiHawmfjzpfayonf/ uREkfyfwdkY 
 
 2
 
-Despite many difficulties and disturbances encountered the National Convention, it  was  unwaveringly   reconvened  in  2004  in  accord  with  the seven-step Roadmap adopted in 2003.  As the National Convention was able to adopt the Basic Principles and Detailed Basic Principles for formulating a Constitution, it successfully concluded on 3 rd September 2007.
+Despite many difficulties and disturbances encountered the National Convention, it was unwaveringly reconvened in 2004 in accord with the seven-step Roadmap adopted in 2003. As the National Convention was able to adopt the Basic Principles and Detailed Basic Principles for formulating a Constitution, it successfully concluded on 3rd September 2007.
 
 We, the National people, drafted this Constitution of the Republic of the Union of Myanmar in accord with the Basic Principles and Detailed Basic Principles laid down by the National Convention.
 
 We, the National people, firmly resolve that we shall :
 
--steadfastly adhere to the objectives of non-disintegration of  the  Union, nondisintegration of  National solidarity, and perpetuation of  sovereignty;
+- steadfastly adhere to the objectives of non-disintegration of the Union, non-disintegration of National solidarity, and perpetuation of sovereignty;
 
--stalwartly strive for further burgeoning the eternal principles namely justice, liberty, equality and perpetuation of peace and prosperity of the National people;
+- stalwartly strive for further burgeoning the eternal principles namely justice, liberty, equality and perpetuation of peace and prosperity of the National people;
 
--uphold racial equality, living eternally in unity fostering the firm Union Spirit of true patriotism;
+- uphold racial equality, living eternally in unity fostering the firm Union Spirit of true patriotism;
 
--constantly   endeavour   to uphold    the principles  of  peaceful co-existence among nations with a view to having world peace and friendly relations among nations.
+- constantly endeavour to uphold the principles of peaceful co-existence among nations with a view to having world peace and friendly relations among nations.
 
 DO HEREBY ADOPT this Constitution of the Republic of the Union of Myanmar through a nation-wide referendum on the Tenth day of Kasone Waning, 1370 M.E. (The Twenty-Ninth day of May, 2008 A.D.)
 
@@ -121,25 +167,9 @@ jynfvHk;uRwf qE´cH,lyGJBuD;jzifh twnfjyKjy|mef;vdkufMuonf/
 
 [[START OF PAGE 12]]
 
-## tcef;  (1)
-
-tcef;  (1)
-
-tcef;  (1)
-
-tcef;  (1)
-
-tcef;  (1)
+## tcef; (1)
 
 ### EdkifiHawmftajccHrlrsm;
-
-EdkifiHawmftajccHrlrsm;
-
-EdkifiHawmftajccHrlrsm;
-
-EdkifiHawmftajccHrlrsm;
-
-EdkifiHawmftajccHrlrsm;
 
 [[END OF PAGE 12]]
 
@@ -151,23 +181,23 @@ EdkifiHawmftajccHrlrsm;
 
 #### The Republic of the Union of Myanmar
 
-- Myanmar is an independent sovereign Nation.
+1. Myanmar is an independent sovereign Nation.
 
-- The State shall be known as the Republic of the Union of Myanmar.
+2. The State shall be known as the Republic of the Union of Myanmar.
 
-- The State is where multi-National races collectively reside.
+3. The State is where multi-National races collectively reside.
 
-- The Sovereign power of the Union is derived from the citizens and is in force in the entire country.
+4. The Sovereign power of the Union is derived from the citizens and is in force in the entire country.
 
-- The territory of the State shall be the land, sea, and airspace which constitutes its territory on the day this Constitution is adopted.
+5. The territory of the State shall be the land, sea, and airspace which constitutes its territory on the day this Constitution is adopted.
 
 #### Basic Principles
 
-- The Union's consistent objectives are :
+6. The Union’s consistent objectives are :
 
 (a) non-disintegration of the Union;
 
-(b) non-disintegration of  National solidarity;
+(b) non-disintegration of National solidarity;
 
 (c) perpetuation of sovereignty;
 
@@ -177,41 +207,47 @@ EdkifiHawmftajccHrlrsm;
 
 (f) enabling the Defence Services to be able to participate in the National political leadership role of the State.
 
-- The Union practises genuine, disciplined multi-party democratic system.
+7. The Union practises genuine, disciplined multi-party democratic system.
 
-- The Union is constituted by the Union system.
+8. The Union is constituted by the Union system.
 
 [[END OF PAGE 13]]
 
 [[START OF PAGE 14]]
 
-#### EdkifiHawmf EdkifiHawmf
+## tcef; (1)
 
-5/ tajccHOya' twnfjzpfonhfaeYwGif wnf&Sdonfhtwdkif;jzpfonf/
+### EdkifiHawmftajccHrlrsm;
 
-## tcef;  (1) tcef;  (1) tcef;  (1) tcef;  (1)
+#### EdkifiHawmf
 
-### EdkifiHawmftajccHrlrsm; EdkifiHawmftajccHrlrsm; EdkifiHawmftajccHrlrsm; EdkifiHawmftajccHrlrsm;
+1/ jrefrmEdkifiHonf tcsKyftjcmtmPmydkif vGwfvyfonfhEdkifiHjzpfonf/
 
-1/ jrefrmEdkifiHonf tcsKyftjcmtmPmydkif vGwfvyfonfhEdkifiHjzpfonf/ 2/ EdkifiHawmfudk jynfaxmifpkor®wjrefrmEdkifiHawmf[k ac:wGif&rnf/ 3/ EkdifiHawmfonf  wkdif;&if;om;vlrsKd;aygif;pkHwkdY  pkaygif;aexdkifMuaom  EkdifiH  jzpfonf/ 4/ EdkifiHawmf\ tcsKyftjcmtmPmonf EdkifiHom;rsm;xHrS qif;oufNyD; EdkifiHawmf wpf0ef;vkH;ü wnfonf/ EdkifiHawmf\ajrxk? a&xkESifh avxkwdkYyg0ifaom e,fedrdwfonf þzGJUpnf;ykH
+2/ EdkifiHawmfudk jynfaxmifpkor®wjrefrmEdkifiHawmf[k ac:wGif&rnf/
 
-#### tajccHrlrsm; tajccHrlrsm;
+3/ EkdifiHawmfonf wkdif;&if;om;vlrsKd;aygif;pkHwkdY pkaygif;aexdkifMuaom EkdifiH jzpfonf/
 
-(u) jynfaxmifpkrNydKuGJa&;?
+4/ EdkifiHawmf\ tcsKyftjcmtmPmonf EdkifiHom;rsm;xHrS qif;oufNyD; EdkifiHawmf wpf0ef;vkH;ü wnfonf/
+
+5/ EdkifiHawmf\ajrxk? a&xkESifh avxkwdkYyg0ifaom e,fedrdwfonf þzGJUpnf;ykHtajccHOya' twnfjzpfonhfaeYwGif wnf&Sdonfhtwdkif;jzpfonf/
+
+#### tajccHrlrsm;
 
 6/ EdkifiHawmfonf -
 
-( c ) wdkif;&if;om;pnf;vkH;nDñGwfrIrNydKuGJa&;?
+(u) jynfaxmifpkrNydKuGJa&;?
+
+(c) wdkif;&if;om;pnf;vkH;nDñGwfrIrNydKuGJa&;?
+
+(*) tcsKyftjcmtmPmwnfwHhcdkifNrJa&;?
 
 (C) ppfrSefí pnf;urf;jynfh0aom ygwDpHk'Drdkua&pDpepf xGef;um;a&;?
 
-( * ) tcsKyftjcmtmPmwnfwHhcdkifNrJa&;?
+(i) EdkifiHawmfü w&m;rQwjcif;? vGwfvyfjcif;ESihf nDrQjcif;wnf;[laom avmuygvw&m;rsm; ydkrdkxGef;um;a&;ESifh
 
-( i ) EdkifiHawmfü  w&m;rQwjcif;?  vGwfvyfjcif;ESihf  nDrQjcif;wnf;[laom avmuygvw&m;rsm; ydkrdkxGef;um;a&;ESifh
+(p) EdkifiHawmf\ trsKd;om;EdkifiHa&;OD;aqmifrItcef;u@wGif wyfrawmfu yg0ifxrf;aqmifEdkifa&;wdkYudk tpOfwpdkufOD;wnfonf/
 
-( p ) EdkifiHawmf\ trsKd;om;EdkifiHa&;OD;aqmifrItcef;u@wGif wyfrawmfu yg0ifxrf;aqmifEdkifa&;wdkYudk tpOfwpdkufOD;wnfonf/
-
-7/ EdkifiHawmfonf ppfrSefípnf;urf;jynfh0aom ygwDpHk'Drkdua&pDpepfudk usihfokH; onf/
+7/ EdkifiHawmfonf ppfrSefípnf;urf;jynfh0aom ygwDpHk'Drkdua&pDpepfudk usihfokH;onf/
 
 8/ EdkifiHawmfudk jynfaxmifpkpepfjzihf zGJUpnf;wnfaqmufonf/
 
@@ -221,19 +257,19 @@ EdkifiHawmftajccHrlrsm;
 
 4
 
-(a) The existing seven Divisions are designated as seven Regions and the existing seven States are designated as seven States. Those seven Regions and seven States are of equal status.
+9. (a) The existing seven Divisions are designated as seven Regions and the existing seven States are designated as seven States. Those seven Regions and seven States are of equal status.
 
 (b) The names of those seven Regions and seven States are retained as they exist.
 
 (c) If it is desired to change the name of a Region or a State, it shall be done so with the enactment of a law after ascertaining the desire of citizens residing in the Region or State concerned.
 
-- No part of the territory constituted in the Union such as Regions, States, Union Territories and Self-Administered  Areas shall ever secede from the Union.
+10. No part of the territory constituted in the Union such as Regions, States, Union Territories and Self-Administered Areas shall ever secede from the Union.
 
-(a) The three branches of sovereign power namely, legislative power, executive power and judicial power are separated, to the extent possible,  and exert reciprocal control, check and balance among themselves.
+11. (a) The three branches of sovereign power namely, legislative power, executive power and judicial power are separated, to the extent possible, and exert reciprocal control, check and balance among themselves.
 
-(b) The three branches of sovereign power, so separated are shared among the Union, Regions, States and Self-Administered  Areas.
+(b) The three branches of sovereign power, so separated are shared among the Union, Regions, States and Self-Administered Areas.
 
-(a) The legislative power of the Union is shared among the Pyidaungsu Hluttaw, Region Hluttaws and State Hluttaws. Legislative power stipulated by this Constitution shall be shared to the Self-Administered  Areas.
+12. (a) The legislative power of the Union is shared among the Pyidaungsu Hluttaw, Region Hluttaws and State Hluttaws. Legislative power stipulated by this Constitution shall be shared to the Self-Administered Areas.
 
 (b) The Pyidaungsu Hluttaw consisting of two Hluttaws, one Hluttaw elected on the basis of township as well as population, and the other on an equal number of representatives elected from Regions and States.
 
@@ -249,29 +285,9 @@ EdkifiHawmftajccHrlrsm;
 
 11/ (u) EdkifiHawmftcsKyftjcmtmPm\  cufrokH;jzmjzpfonfh  Oya'jyKa&; tmPm? tkyfcsKyfa&;tmPmESihf w&m;pD&ifa&;tmPmwdkYudk wwfEdkiforQ ydkif;jcm;okH;pGJjcif;ESihf  tcsif;csif;tjyeftvSefxdef;ausmif;jcif;wdkYjyKonf? ( c ) xkdodkYydkif;jcm;xm;onfh  EdkifiHawmftmPmokH;&yfudk  jynfaxmifpk? wdkif;a'oBuD;rsm;? jynfe,frsm;ESifh udk,fydkiftkyfcsKyfcGihf&pD&ifpkrsm;tm; cGJa0tyfESif;onf/
 
-12/
+12/ (u) EdkifiHawmf\ Oya'jyKa&;tmPmudk jynfaxmifpkvTwfawmf? wdkif;a'oBuD;vTwfawmfESihf jynfe,fvTwfawmfrsm;tm; cGJa0tyfESif;onf/ udk,fydkiftkyfcsKyfcGihf&pD&ifpkrsm;tm; þzGJUpnf;ykHtajccHOya'u owfrSwfaom Oya'jyKa&;tmPmudk cGJa0tyfESif;onf?
 
-(u)
-
-( c )
-
-EdkifiHawmf\  Oya'jyKa&;tmPmudk  jynfaxmifpkvTwfawmf?  wdkif;
-
-a'oBuD;vTwfawmfESihf jynfe,fvTwfawmfrsm;tm; cGJa0tyfESif;onf/
-
-udk,fydkiftkyfcsKyfcGihf&pD&ifpkrsm;tm;  þzGJUpnf;ykHtajccHOya'u
-
-owfrSwfaom Oya'jyKa&;tmPmudk cGJa0tyfESif;onf?
-
-jynfaxmifpkvTwfawmfwGif NrdKUe,fukdtajccHívnf;aumif;? vlOD;a&ukd
-
-tajccHívnf;aumif;? a&G;aumufwifajr§mufonfh vTwfawmfwpf&yf?
-
-wdkif;a'oBuD;rsm;ESifh  jynfe,frsm;rS  ukd,fpm;vS,fOD;a&  wlnDpGm
-
-a&G;aumufwifajr§mufonfh vTwfawmfwpf&yf[lí vTwfawmfESpf&yf
-
-yg&Sdonf/
+(c) jynfaxmifpkvTwfawmfwGif NrdKUe,fukdtajccHívnf;aumif;? vlOD;a&ukd tajccHívnf;aumif;? a&G;aumufwifajr§mufonfh vTwfawmfwpf&yf? wdkif;a'oBuD;rsm;ESifh jynfe,frsm;rS ukd,fpm;vS,fOD;a& wlnDpGm a&G;aumufwifajr§mufonfh vTwfawmfwpf&yf[lí vTwfawmfESpf&yf yg&Sdonf/
 
 [[END OF PAGE 16]]
 
@@ -281,17 +297,17 @@ yg&Sdonf/
 
 13. There shall be a Region Hluttaw in each of the seven Regions, and a State Hluttaw in each of the seven States.
 
-14. The Pyidaungsu Hluttaw, the Region Hluttaws and the State Hluttaws include the Defence Services personnel as Hluttaw representatives nominated by the Commander-inChief of the Defence Services in numbers stipulated by this Constitution.
+14. The Pyidaungsu Hluttaw, the Region Hluttaws and the State Hluttaws include the Defence Services personnel as Hluttaw representatives nominated by the Commander-in-Chief of the Defence Services in numbers stipulated by this Constitution.
 
 15. For National races with suitable population, National races representatives are entitled to participate in legislature of Regions or States and Self-Administered Areas concerned.
 
-- The Head of  the Union and the Head of Executive of the Union is the President.
+16. The Head of the Union and the Head of Executive of the Union is the President.
 
-(a) The executive power of the Union is shared among the Pyidaungsu, Regions and States; Self-Administrative power shall be shared between SelfAdministered Areas as prescribed by this Constitution.
+17. (a) The executive power of the Union is shared among the Pyidaungsu, Regions and States; Self-Administrative power shall be shared between Self-Administered Areas as prescribed by this Constitution.
 
-(b) In the executive of the Union, Regions, States, Union Territory, SelfAdministered Areas and districts, Defence Services personnel, nominated by the Commander-in-Chief of the Defence Services to undertake responsibilities of the defence, security, border administration, so forth, shall be included.
+(b) In the executive of the Union, Regions, States, Union Territory, Self-Administered Areas and districts, Defence Services personnel, nominated by the Commander-in-Chief of the Defence Services to undertake responsibilities of the defence, security, border administration, so forth, shall be included.
 
-(c) For National races of which representatives are so permitted to participate in legislature of Regions, States or Self-Administered  Areas in accord with Section 15, such representatives are to be permitted to participate, mainly, to undertake their National races affairs.
+(c) For National races of which representatives are so permitted to participate in legislature of Regions, States or Self-Administered Areas in accord with Section 15, such representatives are to be permitted to participate, mainly, to undertake their National races affairs.
 
 [[END OF PAGE 17]]
 
@@ -307,11 +323,11 @@ yg&Sdonf/
 
 16/ EdkifiHawmftMuD;tuJESifh EdkifiHawmftkyfcsKyfa&;tBuD;tuJonf EkdifiHawmfor®w jzpfonf/
 
-- 17/ (u) EdkifiHawmftkyfcsKyfa&;tmPmudk  jynfaxmifpk?  wdkif;a'oBuD;ESihf jynfe,frsm;tm; cGJa0tyfESif;onf/ udk,fydkiftkyfcsKyfcGihf&pD&ifpkrsm;tm; udk,fydkiftkyfcsKyfa&;tmPmudk þzGJUpnf;ykHtajccHOya't& owfrSwf ay;onfhtwdkif; cGJa0tyfESif;onf?
+17/ (u) EdkifiHawmftkyfcsKyfa&;tmPmudk jynfaxmifpk? wdkif;a'oBuD;ESihf jynfe,frsm;tm; cGJa0tyfESif;onf/ udk,fydkiftkyfcsKyfcGihf&pD&ifpkrsm;tm; udk,fydkiftkyfcsKyfa&;tmPmudk þzGJUpnf;ykHtajccHOya't& owfrSwfay;onfhtwdkif; cGJa0tyfESif;onf?
 
-( c ) jynfaxmifpk? wdkif;a'oBuD;ESifh jynfe,f? jynfaxmifpke,fajr? ukd,fydkif tkyfcsKyfcGihf& pD&ifpkESihf c½dkiftkyfcsKyfa&;wdkYwGif umuG,fa&;? vkHjcHKa&;? e,fpyftkyfcsKyfa&;ponfh  wm0efrsm;xrf;aqmif&ef  wyfrawmf umuG,fa&;OD;pD;csKyfu trnfpm&if;wifoGif;onfh wyfrawmfom;rsm; yg0ifonf?
+(c) jynfaxmifpk? wdkif;a'oBuD;ESifh jynfe,f? jynfaxmifpke,fajr? ukd,fydkiftkyfcsKyfcGihf& pD&ifpkESihf c½dkiftkyfcsKyfa&;wdkYwGif umuG,fa&;? vkHjcHKa&;? e,fpyftkyfcsKyfa&;ponfh wm0efrsm;xrf;aqmif&ef wyfrawmfumuG,fa&;OD;pD;csKyfu trnfpm&if;wifoGif;onfh wyfrawmfom;rsm; yg0ifonf?
 
-( * ) yk'fr  15  t&  oufqdkif&m  wdkif;a'oBuD;  odkYr[kwf  jynfe,fESihf udk,fydkiftkyfcsKyfcGihf&pD&ifpkOya'jyKa&;wGif  udk,fpm;vS,f  yg0ifcGifh  &&Sdonhf wdkif;&if;om;vlrsKd;jzpfvQif  xdkwdkif;a'oBuD;  odkYr[kwf  jynfe,fESihf udk,fydkiftkyfcsKyfcGihf&pD&ifpk  tkyfcsKyfa&;wGif  t"dutm;jzihf  xkdwkdif;&if;om; vlrsKd;rsm;a&;&mudk  aqmif&GufEdkifa&;twGuf  wdkif;&if;om;vlrsKd; udk,fpm;vS,frsm; yg0ifcGihfjyK&rnf/
+(*) yk'fr 15 t& oufqdkif&m wdkif;a'oBuD; odkYr[kwf jynfe,fESihf udk,fydkiftkyfcsKyfcGihf&pD&ifpkOya'jyKa&;wGif udk,fpm;vS,f yg0ifcGifh &&Sdonhf wdkif;&if;om;vlrsKd;jzpfvQif xdkwdkif;a'oBuD; odkYr[kwf jynfe,fESihf udk,fydkiftkyfcsKyfcGihf&pD&ifpk tkyfcsKyfa&;wGif t"dutm;jzihf xkdwkdif;&if;om;vlrsKd;rsm;a&;&mudk aqmif&GufEdkifa&;twGuf wdkif;&if;om;vlrsKd;udk,fpm;vS,frsm; yg0ifcGihfjyK&rnf/
 
 [[END OF PAGE 18]]
 
@@ -319,7 +335,7 @@ yg&Sdonf/
 
 6
 
-(a) The judicial power of the Union is shared among the Supreme Court of the Union, High Courts of the Regions, High Courts of the States and Courts of different levels including Courts of Self-Administered  Areas.
+18. (a) The judicial power of the Union is shared among the Supreme Court of the Union, High Courts of the Regions, High Courts of the States and Courts of different levels including Courts of Self-Administered Areas.
 
 (b) There shall be one Supreme Court of the Union. The Supreme Court of the Union is the highest Court of the Republic.
 
@@ -327,7 +343,7 @@ yg&Sdonf/
 
 (d) A High Court of the Region or State is constituted in each Region or State.
 
-- The following are prescribed as judicial principles :
+19. The following are prescribed as judicial principles :
 
 (a) to administer justice independently according to law;
 
@@ -335,7 +351,7 @@ yg&Sdonf/
 
 (c) to guarantee in all cases the right of defence and the right of appeal under law.
 
-(a) The Defence Services is the sole patriotic defence force which is strong, competent and modern.
+20. (a) The Defence Services is the sole patriotic defence force which is strong, competent and modern.
 
 (b) The Defence Services has the right to independently administer and adjudicate all affairs of the armed forces.
 
@@ -343,7 +359,7 @@ yg&Sdonf/
 
 (d) The Defence Services has the right to administer for participation of the entire people in Union security and defence.
 
-(e) The Defence Services is mainly responsible for safeguarding the nondisintegration of the Union, the non-disintegration of National solidarity and the perpetuation of sovereignty.
+(e) The Defence Services is mainly responsible for safeguarding the non-disintegration of the Union, the non-disintegration of National solidarity and the perpetuation of sovereignty.
 
 (f) The Defence Services is mainly responsible for safeguarding the Constitution.
 
@@ -353,9 +369,33 @@ yg&Sdonf/
 
 6
 
-18/ (u) EdkifiHawmf\w&m;pD&ifa&;tmPmudk jynfaxmifpkw&m;vTwfawmfcsKyf? wdkif;a'oBuD;w&m;vTwfawmfrsm;?  jynfe,fw&m;vTwfawmfrsm;ESihf udk,fydkiftkyfcsKyfcGihf&pD&ifpkw&m;½kH;rsm;  tygt0if  tqifhqihfaom w&m;½kH;rsm;tm; cGJa0tyfESif;onf? ( c ) jynfaxmifpkwGif jynfaxmifpkw&m;vTwfawmfcsKyfwpf&yf xm;&Sdonf/ jynfaxmifpkw&m;vTwfawmfcsKyfonf EdkifiHawmf\tjrihfqkH; w&m;½kH; jzpfonf? ( * ) jynfaxmifpkw&m;vTwfawmfcsKyfwGif pmcRefawmftrdefYrsm; xkwfydkifcGihf tmPmrsm;&Sdonf? (C) wdkif;a'oBuD;wdkif;wGif  wdkif;a'oBuD;w&m;vTwfawmf  wpf&yfpD vnf;aumif;?  jynfe,fwdkif;wGif  jynfe,fw&m;vTwfawmf  wpf&yfpD vnf;aumif; xm;&Sdonf/
+18/ (u) EdkifiHawmf\w&m;pD&ifa&;tmPmudk jynfaxmifpkw&m;vTwfawmfcsKyf? wdkif;a'oBuD;w&m;vTwfawmfrsm;? jynfe,fw&m;vTwfawmfrsm;ESihf udk,fydkiftkyfcsKyfcGihf&pD&ifpkw&m;½kH;rsm; tygt0if tqifhqihfaom w&m;½kH;rsm;tm; cGJa0tyfESif;onf?
 
-19/ atmufygwdkYudk w&m;pD&ifa&;rlrsm;tjzpf owfrSwfonf (u) Oya'ESihftnD vGwfvyfpGmw&m;pD&ifa&;? ( c ) Oya't&uefYowfcsufrsm;rSty jynfolYa&SUarSmufwGif w&m;pD&ifa&;? ( * ) trIrsm;wGif Oya't& ckcHacsycGifhESifh t,lcHykdifcGifh&&Sda&;/ 20/ (u) wyfrawmfonf tiftm;awmifhwif;NyD; pGrf;&nfxufjrufaom acwfrD onfh wpfckwnf;aom rsKd;cspfwyfrawmf jzpfonf? ( c ) wyfrawmfonf  wyfydkif;qdkif&mudpötm;vHk;udk  vGwfvyfpGmpDrHcefYcGJ pD&ifaqmif&GufydkifcGifh &Sdonf? ( * ) wyfrawmfumuG,fa&;OD;pD;csKyfonf  vufeufudkifwyfzGJUtm;vHk;\ tBuD;tuJ jzpfonf? (C) wyfrawmfonf EdkifiHawmfvHkjcHKa&;ESifhumuG,fa&;wGif jynfol wpf&yfvHk; yg0ifa&;twGuf pDrHaqmif&GufcGifh &Sdonf? ( i ) jynfaxmifpkrNydKuGJa&;?  wkdif;&if;om;pnf;vHk;nDñGwfrIrNydKuGJa&;ESifh tcsKyftjcmtmPmwnfwHhcdkifNrJa&;wdkYudk  umuG,fapmifha&Smuf&ef wyfrawmfwGif t"duwm0ef &Sdonf? ( p ) wyfrawmfonf  EdkifiHawmfzGJUpnf;yHktajccHOya'udk  umuG,f apmifha&Smuf&ef t"duwm0ef &Sdonf/
+(c) jynfaxmifpkwGif jynfaxmifpkw&m;vTwfawmfcsKyfwpf&yf xm;&Sdonf/ jynfaxmifpkw&m;vTwfawmfcsKyfonf EdkifiHawmf\tjrihfqkH; w&m;½kH;jzpfonf?
+
+(*) jynfaxmifpkw&m;vTwfawmfcsKyfwGif pmcRefawmftrdefYrsm; xkwfydkifcGihf tmPmrsm;&Sdonf?
+
+(C) wdkif;a'oBuD;wdkif;wGif wdkif;a'oBuD;w&m;vTwfawmf wpf&yfpD vnf;aumif;? jynfe,fwdkif;wGif jynfe,fw&m;vTwfawmf wpf&yfpD vnf;aumif; xm;&Sdonf/
+
+19/ atmufygwdkYudk w&m;pD&ifa&;rlrsm;tjzpf owfrSwfonf –
+
+(u) Oya'ESihftnD vGwfvyfpGmw&m;pD&ifa&;?
+
+(c) Oya't&uefYowfcsufrsm;rSty jynfolYa&SUarSmufwGif w&m;pD&ifa&;?
+
+(*) trIrsm;wGif Oya't& ckcHacsycGifhESifh t,lcHykdifcGifh&&Sda&;/
+
+20/ (u) wyfrawmfonf tiftm;awmifhwif;NyD; pGrf;&nfxufjrufaom acwfrDonfh wpfckwnf;aom rsKd;cspfwyfrawmf jzpfonf?
+
+(c) wyfrawmfonf wyfydkif;qdkif&mudpötm;vHk;udk vGwfvyfpGmpDrHcefYcGJ pD&ifaqmif&GufydkifcGifh &Sdonf?
+
+(*) wyfrawmfumuG,fa&;OD;pD;csKyfonf vufeufudkifwyfzGJUtm;vHk;\ tBuD;tuJ jzpfonf?
+
+(C) wyfrawmfonf EdkifiHawmfvHkjcHKa&;ESifhumuG,fa&;wGif jynfol wpf&yfvHk; yg0ifa&;twGuf pDrHaqmif&GufcGifh &Sdonf?
+
+(i) jynfaxmifpkrNydKuGJa&;? wkdif;&if;om;pnf;vHk;nDñGwfrIrNydKuGJa&;ESifh tcsKyftjcmtmPmwnfwHhcdkifNrJa&;wdkYudk umuG,fapmifha&Smuf&ef wyfrawmfwGif t"duwm0ef &Sdonf?
+
+(p) wyfrawmfonf EdkifiHawmfzGJUpnf;yHktajccHOya'udk umuG,fapmifha&Smuf&ef t"duwm0ef &Sdonf/
 
 [[END OF PAGE 20]]
 
@@ -363,31 +403,31 @@ yg&Sdonf/
 
 7
 
-(a) Every citizen shall enjoy the right of equality, the right of liberty and the right of justice, as prescribed in this Constitution.
+21. (a) Every citizen shall enjoy the right of equality, the right of liberty and the right of justice, as prescribed in this Constitution.
 
 (b) No citizen shall be placed in custody for more than 24 hours without the permission of a Court.
 
 (c) Every citizen is responsible for public peace and tranquility and prevalence of law and order.
 
-(d) Necessary law shall be enacted to make citizens' freedoms, rights, benefits, responsibilities and restrictions effective, steadfast and complete.
+(d) Necessary law shall be enacted to make citizens’ freedoms, rights, benefits, responsibilities and restrictions effective, steadfast and complete.
 
-22. The Union shall  assist :
+22. The Union shall assist :
 
 (a) to develop language, literature, fine arts and culture of the National races;
 
 (b) to promote solidarity, mutual amity and respect and mutual assistance among the National races;
 
-(c) to promote socio-economic development including education, health, economy, transport and communication, so forth, of    less-developed National races.
+(c) to promote socio-economic development including education, health, economy, transport and communication, so forth, of less-developed National races.
 
-23. The Union shall  :
+23. The Union shall :
 
 (a) enact necessary laws to protect the rights of the peasants;
 
 (b) assist peasants to obtain equitable value of their agricultural produce.
 
-- The Union shall enact necessary laws to protect the rights of workers.
+24. The Union shall enact necessary laws to protect the rights of workers.
 
-- The Union shall assist to promote the interests of the intellectuals and intelligentsia.
+25. The Union shall assist to promote the interests of the intellectuals and intelligentsia.
 
 [[END OF PAGE 21]]
 
@@ -395,19 +435,31 @@ yg&Sdonf/
 
 7
 
-21/ (u) EdkifiHom;wdkif;onf þzGJUpnf;yHktajccHOya'wGif owfrSwfjy|mef;xm; onfh wef;wlnDrQrItcGifhta&;? vGwfvyfrItcGifhta&;? w&m;rQwrI tcGifhta&;wdkY cHpm;cGifh &Sdonf? ( c ) w&m;½Hk;\ cGifhjyKcsufr&&Sdu  EdkifiHom;wpfOD;udk  24  em&Dxuf  ausmfvGefí csKyfaESmifxm;cGifh r&Sdap&? ( * ) jynfolwkdY\  at;csrf;om,ma&;ESifh  w&m;Oya'pdk;rdk;a&;wkdYonf EdkifiHom;wdkif;\wm0ef jzpfonf? (C)
+21/ (u) EdkifiHom;wdkif;onf þzGJUpnf;yHktajccHOya'wGif owfrSwfjy|mef;xm;onfh wef;wlnDrQrItcGifhta&;? vGwfvyfrItcGifhta&;? w&m;rQwrItcGifhta&;wdkY cHpm;cGifh &Sdonf?
 
-- EdkifiHom;rsm;\  vGwfvyfcGifh?  vkyfydkifcGifh?  cHpm;cGifh?  wm0efESifh wm;jrpfcsufrsm; xda&mufcdkifrmjynfhpHkap&ef vdktyfaomOya' jy|mef; &rnf/
+(c) w&m;½Hk;\ cGifhjyKcsufr&&Sdu EdkifiHom;wpfOD;udk 24 em&Dxuf ausmfvGefí csKyfaESmifxm;cGifh r&Sdap&?
 
-22/ EdkifiHawmfonf (u) wkdif;&if;om;rsm;\  pum;?  pmay?  tEkynm?  ,Ofaus;rIwdkYudk zGHUNzdK;wkd;wufap&ef ulnDaqmif&Gufrnf? ( c ) wkdif;&if;om;tcsif;csif; pnf;vHk;nDñGwfa&;? cspfMunfav;pm;a&;ESifh ½dkif;yif;ulnDa&;wdkY wdk;wufjzpfxGef;ap&ef ulnDaqmif&Gufrnf? ( * )
+(*) jynfolwkdY\ at;csrf;om,ma&;ESifh w&m;Oya'pdk;rdk;a&;wkdYonf EdkifiHom;wdkif;\wm0ef jzpfonf?
 
-- wdk;wufzGHUNzdK;rIenf;yg;aeonfh  wkdif;&if;om;rsm;\  ynma&;?  usef;rma&;? pD;yGm;a&;? vrf;yef;qufoG,fa&; ponfwkdYyg0ifaom vlrIpD;yGm;a&; wdk;wufzGHUNzdK;a&;twGuf ulnDaqmif&Gufrnf/
+(C) EdkifiHom;rsm;\ vGwfvyfcGifh? vkyfydkifcGifh? cHpm;cGifh? wm0efESifh wm;jrpfcsufrsm; xda&mufcdkifrmjynfhpHkap&ef vdktyfaomOya' jy|mef;&rnf/
 
-23/ EdkifiHawmfonf awmifolv,form;rsm;\ (u) tcGifhta&;rsm; umuG,fapmifha&Smuf&ef vdktyfonfhOya'rsm; jy|mef; aqmif&Gufrnf? ( c ) pdkufysKd;xkwfvkyfonfh aumufyJoD;ESHrsm; oifhwifhrQwonfh wefzdk;&&Sd&ef ulnDaqmif&Gufrnf/
+22/ EdkifiHawmfonf —
+
+(u) wdkif;&if;om;rsm;\ pum;? pmay? tEkynm? ,Ofaus;rIwdkYudk zGHUNzdK;wkd;wufap&ef ulnDaqmif&Gufrnf?
+
+(c) wdkif;&if;om;tcsif;csif; pnf;vHk;nDñGwfa&;? cspfMunfav;pm;a&;ESifh ½dkif;yif;ulnDa&;wdkY wdk;wufjzpfxGef;ap&ef ulnDaqmif&Gufrnf?
+
+(*) wdk;wufzGHUNzdK;rIenf;yg;aeonfh wdkif;&if;om;rsm;\ ynma&;? usef;rma&;? pD;yGm;a&;? vrf;yef;qufoG,fa&; ponfwkdYyg0ifaom vlrIpD;yGm;a&; wdk;wufzGHUNzdK;a&;twGuf ulnDaqmif&Gufrnf/
+
+23/ EdkifiHawmfonf awmifolv,form;rsm;\ -
+
+(u) tcGifhta&;rsm; umuG,fapmifha&Smuf&ef vdktyfonfhOya'rsm; jy|mef;aqmif&Gufrnf?
+
+(c) pdkufysKd;xkwfvkyfonfh aumufyJoD;ESHrsm; oifhwifhrQwonfh wefzdk;&&Sd&ef ulnDaqmif&Gufrnf/
 
 24/ EdkifiHawmfonf tvkyform;rsm;\ tcGifhta&;rsm; umuG,fapmifha&Smuf&ef vdktyfonfhOya'rsm; jy|mef;aqmif&Gufrnf/
 
-25/ EdkifiHawmfonf todynm&Sif? twwfynm&Sifrsm;\tusKd;udk ulnDaqmif&Guf rnf/
+25/ EdkifiHawmfonf todynm&Sif? twwfynm&Sifrsm;\tusKd;udk ulnDaqmif&Gufrnf/
 
 [[END OF PAGE 22]]
 
@@ -415,13 +467,13 @@ yg&Sdonf/
 
 8
 
-(a) Civil Services personnel shall be free from party politics.
+26. (a) Civil Services personnel shall be free from party politics.
 
 (b) The Union shall enact necessary laws for Civil Services personnel to have security and sufficiency of food, clothing and shelter, to get maternity benefits for married women in service, and to ease livelihood for welfare of retired Service personnel.
 
-- The Union shall assist development, consolidation and preservation of National culture.
+27. The Union shall assist development, consolidation and preservation of National culture.
 
-- The Union shall :
+28. The Union shall :
 
 (a) earnestly strive to improve education and health of the people;
 
@@ -431,11 +483,11 @@ yg&Sdonf/
 
 (d) implement a modern education system that will promote all-around correct thinking and a good moral character contributing towards the building of the Nation.
 
-- The Union shall provide inputs, such as technology, investments, machinery, raw materials, so forth, to the extent possible for changeover from manual to mechanized agriculture.
+29. The Union shall provide inputs, such as technology, investments, machinery, raw materials, so forth, to the extent possible for changeover from manual to mechanized agriculture.
 
-- The Union shall provide inputs, such as technology, investments, machinery, raw materials, so forth, to the extent possible, for development of industries.
+30. The Union shall provide inputs, such as technology, investments, machinery, raw materials, so forth, to the extent possible, for development of industries.
 
-- The Union shall, to the extent possible, assist to reduce unemployment among the people.
+31. The Union shall, to the extent possible, assist to reduce unemployment among the people.
 
 [[END OF PAGE 23]]
 
@@ -475,19 +527,19 @@ yg&Sdonf/
 
 32. The Union shall :
 
-(a) care for mothers and children, orphans, fallen Defence Services personnel's children, the aged and the disabled;
+(a) care for mothers and children, orphans, fallen Defence Services personnel’s children, the aged and the disabled;
 
 (b) ensure disabled ex-Defence Services personnel a decent living and free vocational training.
 
-- The Union shall strive for youth to have strong and dynamic patriotic spirit, the correct way of thinking and to develop the five noble strengths.
+33. The Union shall strive for youth to have strong and dynamic patriotic spirit, the correct way of thinking and to develop the five noble strengths.
 
 34. Every citizen is equally entitled to freedom of conscience and the right to freely profess and practise religion subject to public order, morality or health and to the other provisions of this Constitution.
 
-- The economic system of the Union is market economy system.
+35. The economic system of the Union is market economy system.
 
 36. The Union shall :
 
-(a) permit all economic forces such as the State, regional organizations, cooperatives, joint-ventures, private individual, so forth, to take part in economic activities for the development of National economy;
+(a) permit all economic forces such as the State, regional organizations, co-operatives, joint-ventures, private individual, so forth, to take part in economic activities for the development of National economy;
 
 (b) protect and prevent acts that injure public interests through monopolization or manipulation of prices by an individual or group with intent to endanger fair competition in economic activities;
 
@@ -525,17 +577,17 @@ yg&Sdonf/
 
 (a) is the ultimate owner of all lands and all natural resources above and below the ground, above and beneath the water and in the atmosphere in the Union;
 
-(b) shall enact necessary law to supervise extraction and utilization of Stateowned natural resources by economic forces;
+(b) shall enact necessary law to supervise extraction and utilization of State-owned natural resources by economic forces;
 
 (c) shall permit citizens right of private property, right of inheritance, right of private initiative and patent in accord with the law.
 
-(a) Every citizen shall have the right to elect and be elected in accord with the law.
+38. (a) Every citizen shall have the right to elect and be elected in accord with the law.
 
-(b) Electorate concerned shall have the right to recall elected people's representatives in accord with the provisions of this Constitution.
+(b) Electorate concerned shall have the right to recall elected people’s representatives in accord with the provisions of this Constitution.
 
-- The Union shall enact necessary law to systematically form political parties for flourishing of a genuine, disciplined multi-party democratic system.
+39. The Union shall enact necessary law to systematically form political parties for flourishing of a genuine, disciplined multi-party democratic system.
 
-(a) If there arises a state of emergency characterized by inability to perform executive functions in accord with the provisions of the Constitution in a Region or a State or a Self-Administered  Area, the President is empowered to exercise executive power in that Region, State or Self-Administered Area and, if necessary in doing so, the President is empowered to exercise
+40. (a) If there arises a state of emergency characterized by inability to perform executive functions in accord with the provisions of the Constitution in a Region or a State or a Self-Administered  Area, the President is empowered to exercise executive power in that Region, State or Self-Administered Area and, if necessary in doing so, the President is empowered to exercise
 
 [[END OF PAGE 27]]
 
@@ -569,23 +621,23 @@ yg&Sdonf/
 
 11
 
-- legislative powers concerning that Region, State or Self-Administered  Area in accord with the provisions of this Constitution.
+legislative powers concerning that Region, State or Self-Administered  Area in accord with the provisions of this Constitution.
 
-(b) If there arises or there is sufficient reason to arise a state of emergency endangering life and property of the people in a Region, State or SelfAdministered  Area, the Defence Services has the right, in accord with the provisions of this Constitution, to prevent that danger and provide protection.
+(b) If there arises or there is sufficient reason to arise a state of emergency endangering life and property of the people in a Region, State or Self-Administered  Area, the Defence Services has the right, in accord with the provisions of this Constitution, to prevent that danger and provide protection.
 
 (c) If there arises a state of emergency that could cause disintegration of the Union, disintegration of national solidarity and loss of sovereign power or attempts therefore by wrongful forcible means such as insurgency or violence, the Commander-in-Chief of the Defence Services has the right to take over and exercise State sovereign power in accord with the provisions of this Constitution.
 
-41. The Union practises independent, active and non-aligned foreign policy aimed at world peace and friendly relations with nations and upholds the principles of peaceful coexistence among nations.
+41. The Union practises independent, active and non-aligned foreign policy aimed at world peace and friendly relations with nations and upholds the principles of peaceful co-existence among nations.
 
-(a) The Union shall not commence aggression against any nation.
+42. (a) The Union shall not commence aggression against any nation.
 
 (b) No foreign troops shall be permitted to be deployed in the territory of the Union.
 
-- No Penal law shall be enacted to provide retrospective effect.
+43. No Penal law shall be enacted to provide retrospective effect.
 
-- No penalty shall be prescribed that violates human dignity.
+44. No penalty shall be prescribed that violates human dignity.
 
-- The Union shall protect and conserve natural environment.
+45. The Union shall protect and conserve natural environment.
 
 [[END OF PAGE 29]]
 
@@ -603,9 +655,9 @@ yg&Sdonf/
 
 12
 
-46. A Constitutional  Tribunal shall be set up to interpret the provisions of the Constitution, to scrutinize whether or not laws enacted by the Pyidaungsu Hluttaw, the Region Hluttaws and the State Hluttaws and functions of executive authorities of Pyidaungsu, Regions, States and Self-Administered  Areas are in conformity with the Constitution, to decide on disputes relating to the Constitution between Pyidaungsu and Regions, between Pyidaungsu and States,  among Regions, among States, and between Regions or States and SelfAdministered  Areas and among Self-Administered  Areas themselves, and to perform other duties prescribed in this Constitution.
+46. A Constitutional  Tribunal shall be set up to interpret the provisions of the Constitution, to scrutinize whether or not laws enacted by the Pyidaungsu Hluttaw, the Region Hluttaws and the State Hluttaws and functions of executive authorities of Pyidaungsu, Regions, States and Self-Administered  Areas are in conformity with the Constitution, to decide on disputes relating to the Constitution between Pyidaungsu and Regions, between Pyidaungsu and States,  among Regions, among States, and between Regions or States and Self-Administered  Areas and among Self-Administered  Areas themselves, and to perform other duties prescribed in this Constitution.
 
-47. The Basic Principles set forth in this Chapter, and Chapter 8, Citizen, Fundamental Rights, and Duties of the Citizen, the term 'Union' means person or body exercising the legislative or executive authority of the Union under this Constitution according as the context may require.
+47. The Basic Principles set forth in this Chapter, and Chapter 8, Citizen, Fundamental Rights, and Duties of the Citizen, the term “Union” means person or body exercising the legislative or executive authority of the Union under this Constitution according as the context may require.
 
 48. The Basic Principles of the Union shall be the guidance in enacting laws by legislature and in interpreting the provisions of this Constitution and other laws.
 
@@ -628,8 +680,8 @@ yg&Sdonf/
 
 [[START OF PAGE 34]]
 
-## tcef;  (2) tcef;  (2) tcef;  (2) tcef;  (2) tcef;  (2)
-### EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH
+## tcef; (2)
+### EdkifiHawmfzGJUpnf;wnfaqmufykH
 
 [[END OF PAGE 34]]
 
@@ -638,7 +690,7 @@ yg&Sdonf/
 ## Chapter II
 ### State Structure
 
-- The Union is delineated and constituted by seven Regions, seven States and the Union territories as follows :
+49. The Union is delineated and constituted by seven Regions, seven States and the Union territories as follows :
 
 (a) Kachin State;
 
@@ -670,15 +722,15 @@ yg&Sdonf/
 
 (o) Union territories.
 
-(a) Nay Pyi Taw, the capital of the Union, prescribed as Union territory, shall be under the direct administration of the President.
+50. (a) Nay Pyi Taw, the capital of the Union, prescribed as Union territory, shall be under the direct administration of the President.
 
 [[END OF PAGE 35]]
 
 [[START OF PAGE 36]]
 
-## tcef;  (2) tcef;  (2) tcef;  (2) tcef;  (2)
+## tcef; (2)
 
-### EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH EdkifiHawmfzGJUpnf;wnfaqmufykH
+### EdkifiHawmfzGJUpnf;wnfaqmufykH
 
 49/ EdkifiHawmfudk  atmufygwdkif;a'oBuD;(7)ck? jynfe,f(7)jynfe,fESihf jynfaxmifpk e,fajrrsm;jzihf ydkif;jcm;owfrSwfonf -
 
@@ -742,7 +794,7 @@ yg&Sdonf/
 
 (i) Regions, States and Union territories are organized as the Republic.
 
-(a) If there arises a need to re-delineate the territorial boundary of the Union, the President shall firstly intimate the Head of the Pyidaungsu Hluttaw to ask for the opinion of the Pyidaungsu Hluttaw.
+52. (a) If there arises a need to re-delineate the territorial boundary of the Union, the President shall firstly intimate the Head of the Pyidaungsu Hluttaw to ask for the opinion of the Pyidaungsu Hluttaw.
 
 [[END OF PAGE 37]]
 
@@ -800,11 +852,11 @@ yg&Sdonf/
 
 ( c ) EdkifiHawmfe,fedrdwf jyifqifowfrSwfa&;twGuf EdkifiHawmfor®w\ taMumif;Mum;pm &&Sdonfhtcg jynfaxmifpkvTwfawmftBuD;trSL;onf atmufygtwdkif; vTwfawmfudk,fpm;vS,frsm;\qE´udk &,l&rnf -
 
-- wdkif;a'oBuD;rsm;ESihfjynfe,frsm;rS udk,fpm;vS,fOD;a&wlnDpGm a&G;aumufwifajr§mufxm;onhf  vTwfawmfwGif  yg&Sdaom vTwfawmfudk,fpm;vS,frsm;\ xuf0ufausmf axmufcHqE´rJ?
+(1) wdkif;a'oBuD;rsm;ESihfjynfe,frsm;rS udk,fpm;vS,fOD;a&wlnDpGm a&G;aumufwifajr§mufxm;onhf  vTwfawmfwGif  yg&Sdaom vTwfawmfudk,fpm;vS,frsm;\ xuf0ufausmf axmufcHqE´rJ?
 
-- NrdKUe,fudk  tajccHívnf;aumif;?  vlOD;a&udk  tajccHí vnf;aumif; a&G;aumufwifajr§mufxm;onhf vTwfawmfwGif yg&Sdaom udk,fpm;vS,frsm;\ xuf0ufausmf axmufcHqE´rJ?
+(2) NrdKUe,fudk  tajccHívnf;aumif;?  vlOD;a&udk  tajccHí vnf;aumif; a&G;aumufwifajr§mufxm;onhf vTwfawmfwGif yg&Sdaom udk,fpm;vS,frsm;\ xuf0ufausmf axmufcHqE´rJ?
 
-- xdkvTwfawmfESpf&yf&Sd oufqdkif&m e,fedrdwfESihftusKH;0ifaom wdkif;a'oBuD; odkYr[kwf  jynfe,frS  vTwfawmfudk,fpm;vS,frsm;\ xuf0ufausmf axmufcHqE´rJ/
+(3) xdkvTwfawmfESpf&yf&Sd oufqdkif&m e,fedrdwfESihftusKH;0ifaom wdkif;a'oBuD; odkYr[kwf  jynfe,frS  vTwfawmfudk,fpm;vS,frsm;\ xuf0ufausmf axmufcHqE´rJ/
 
 ( * ) txufygtwdkif; axmufcHqE´rJ toD;oD;&&SdvQif EdkifiHawmf e,fedrdwfudk vdktyfovdk jyifqifowfrSwfay;&ef jynfaxmifpkvTwfawmftBuD;trSL; u EdkifiHawmfor®wxH taMumif;Mum;&rnf?
 
@@ -818,7 +870,7 @@ yg&Sdonf/
 
 (e) The President  shall  take necessary measures for re-delineation of the territorial boundary of the Union, as necessary, after obtaining the opinion of the Pyidaungsu Hluttaw.
 
-(a) If there arises a cause to re-delineate the territorial boundary of a Region or a State, the prior consent of the electorate residing within the township concerned shall be obtained.
+53. (a) If there arises a cause to re-delineate the territorial boundary of a Region or a State, the prior consent of the electorate residing within the township concerned shall be obtained.
 
 (b) In obtaining consent, re-delineation of the territorial boundary shall not be executed at all in the absence of assenting votes of more than half of the total number of the electorate residing within the township concerned.
 
@@ -858,19 +910,19 @@ yg&Sdonf/
 
 54. Where there arises a situation to alter or form the territorial boundary or change the name of a village, village-tract, ward, town, township or district of a Region, State, Self-Administered Division or Self-Administered Zone concerned, the President shall act, as necessary, upon the recommendation of the Chief Minister of the Region or State concerned.
 
-55. If it is desired to change the name of a Self-Administered Division or SelfAdministered Zone, the same procedure shall be applied as in the case of changing the name of a Region or State.
+55. If it is desired to change the name of a Self-Administered Division or Self-Administered Zone, the same procedure shall be applied as in the case of changing the name of a Region or State.
 
 56. The Self-Administered Divisions and Self-Administered Zones are delineated as follows :
 
 (a) grouping Leshi, Lahe and Namyun townships in Sagaing Division as Naga Self-Administered Zone;
 
-(b) grouping Ywangan and Pindaya townships in Shan State as Danu SelfAdministered Zone;
+(b) grouping Ywangan and Pindaya townships in Shan State as Danu Self-Administered Zone;
 
 (c) grouping HoPong, HsiHseng and Pinlaung townships in Shan State as Pa-O Self-Administered Zone;
 
-(d) grouping Namhsan and Manton townships in Shan State as Pa Laung SelfAdministered Zone;
+(d) grouping Namhsan and Manton townships in Shan State as Pa Laung Self-Administered Zone;
 
-(e) grouping Konkyan and Laukkai townships in Shan State as Kokang SelfAdministered Zone;
+(e) grouping Konkyan and Laukkai townships in Shan State as Kokang Self-Administered Zone;
 
 [[END OF PAGE 43]]
 
@@ -900,7 +952,7 @@ yg&Sdonf/
 
 18
 
-(f) grouping six townships - Hopang, Mongma, Panwai, Nahpan, Metman and Pangsang (Pankham) townships in Shan State as two districts which are forged into 'Wa' Self-Administered Division.
+(f) grouping six townships – Hopang, Mongma, Panwai, Nahpan, Metman and Pangsang (Pankham) townships in Shan State as two districts which are forged into ‘Wa’ Self-Administered Division.
 
 [[END OF PAGE 45]]
 
@@ -922,31 +974,13 @@ ESpfc½dkifzGJUNyD;  ]]0}}  udk,fydkiftkyfcsKyfcGihf&wdkif;/
 
 ## Chapter III
 ### Head of State
----
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-## tcef;  (3)
-
-## tcef;  (3)
-
-## tcef;  (3)
-
-## tcef;  (3)
-
-## tcef;  (3)
-
-### EdkifiHawmf  tBuD;tuJ
-
-### EdkifiHawmf  tBuD;tuJ
-
-### EdkifiHawmf  tBuD;tuJ
-
-### EdkifiHawmf  tBuD;tuJ
-
-### EdkifiHawmf  tBuD;tuJ
+## tcef; (3)
+### EdkifiHawmf tBuD;tuJ
 
 [[END OF PAGE 48]]
 
@@ -955,11 +989,11 @@ ESpfc½dkifzGJUNyD;  ]]0}}  udk,fydkiftkyfcsKyfcGihf&wdkif;/
 ## Chapter III
 #### The President and  Vice-Presidents
 
-- The President and Vice-Presidents represent the Union.
+57. The President and Vice-Presidents represent the Union.
 
-- The President of the Republic of the Union of Myanmar  takes precedence over all other persons throughout the Republic of the Union of Myanmar.
+58. The President of the Republic of the Union of Myanmar  takes precedence over all other persons throughout the Republic of the Union of Myanmar.
 
-- Qualifications of the President and Vice-Presidents are as follows :
+59. Qualifications of the President and Vice-Presidents are as follows :
 
 (a) shall be loyal to the Union and its citizens;
 
@@ -971,7 +1005,7 @@ ESpfc½dkifzGJUNyD;  ]]0}}  udk,fydkiftkyfcsKyfcGihf&wdkif;/
 
 (e) shall be a person who has resided continuously in the Union for at least 20 years up to the time of his election as President;
 
-- Proviso:  An official period of stay in a foreign country with the permission of the  Union  shall be counted as a residing period in the Union;
+Proviso: An official period of stay in a foreign country with the permission of the Union shall be counted as a residing period in the Union;
 
 (f) shall he himself, one of the parents, the spouse, one of the legitimate children or their spouses not owe allegiance to a foreign power, not be subject of a
 
@@ -979,8 +1013,8 @@ ESpfc½dkifzGJUNyD;  ]]0}}  udk,fydkiftkyfcsKyfcGihf&wdkif;/
 
 [[START OF PAGE 50]]
 
-## tcef;  (3) tcef;  (3) tcef;  (3) tcef;  (3)
-#### EdkifiHawmfor®wESifh  'kwd,or®wrsm; EdkifiHawmfor®wESifh  'kwd,or®wrsm; EdkifiHawmfor®wESifh  'kwd,or®wrsm; EdkifiHawmfor®wESifh  'kwd,or®wrsm;
+## tcef; (3)
+#### EdkifiHawmfor®wESifh 'kwd,or®wrsm;
 
 57/ EdkifiHawmfor®wESifh 'kwd,or®wrsm;onf EdkifiHawmfudk udk,fpm;jyKonf/
 
@@ -1010,7 +1044,7 @@ foreign power or citizen of a foreign country. They shall not be persons entitle
 
 (g) shall possess prescribed qualifications of the President, in addition to qualifications prescribed to stand  for election to the Hluttaw.
 
-(a) The President shall be elected by the Presidential Electoral College.
+60. (a) The President shall be elected by the Presidential Electoral College.
 
 (b) The Presidential Electoral College shall be formed with three groups of the Pyidaungsu Hluttaw representatives as follows :
 
@@ -1032,17 +1066,17 @@ odkYr[kwf cifyGef;aomfvnf;aumif; EdkifiHjcm;tpdk;&\ aus;Zl;opömawmf udk  cH,lap
 
 (q) vTwfawmfa&G;aumufyGJü  a&G;aumufwifajr§muf  cHydkifcGihftwGuf owfrSwfxm;onhf  t&nftcsif;rsm;tjyif  EdkifiHawmfor®wtwGuf oD;jcm;owfrSwfxm;aom t&nftcsif;rsm;ESihfvnf; jynfhpkH&rnf/
 
-- 60/ (u) EdkifiHawmfor®wudk  or®wa&G;cs,fwifajr§mufa&;tzGJUjzihf  a&G;cs,f wifajr§muf&rnf?
+60/ (u) EdkifiHawmfor®wudk or®wa&G;cs,fwifajr§mufa&;tzGJUjzihf a&G;cs,f wifajr§muf&rnf?
 
-( c ) or®wa&G;cs,fwifajr§mufa&;tzGJUudk jynfaxmifpkvTwfawmfudk,fpm; vS,ftpktzGJUoHk;zGJUjzifh atmufygtwdkif; zGJUpnf;&rnf -
+(c) or®wa&G;cs,fwifajr§mufa&;tzGJUudk jynfaxmifpkvTwfawmfudk,fpm;vS,ftpktzGJUoHk;zGJUjzifh atmufygtwdkif; zGJUpnf;&rnf -
 
-- wdkif;a'oBuD;rsm;ESihf jynfe,frsm;rS udk,fpm;vS,fOD;a& wlnDpGm a&G;aumufwifajr§mufonhf vTwfawmf&Sd a&G;aumufwifajr§muf jcif;cH&aom vTwfawmfudk,fpm;vS,frsm;tpktzGJU?
+(1) wdkif;a'oBuD;rsm;ESihf jynfe,frsm;rS udk,fpm;vS,fOD;a& wlnDpGm a&G;aumufwifajr§mufonhf vTwfawmf&Sd a&G;aumufwifajr§mufjcif;cH&aom vTwfawmfudk,fpm;vS,frsm;tpktzGJU?
 
-- NrdKUe,fudktajccHívnf;aumif;?  vlOD;a&udktajccHí  vnf; aumif; a&G;aumufwifajr§mufonhfvTwfawmf&Sd a&G;aumuf wifajr§mufjcif;cH&onhf vTwfawmfudk,fpm;vS,frsm;tpktzGJU?
+(2) NrdKUe,fudktajccHívnf;aumif;? vlOD;a&udktajccHí vnf;aumif; a&G;aumufwifajr§mufonhfvTwfawmf&Sd a&G;aumufwifajr§mufjcif;cH&onhf vTwfawmfudk,fpm;vS,frsm;tpktzGJU?
 
-- azmfjyygvTwfawmfESpf&yftwGuf wyfrawmfumuG,fa&;OD;pD;csKyf utrnfpm&if;wifoGif;onhf  wyfrawmfom;vTwfawmf udk,fpm;vS,frsm;tpktzGJU/
+(3) azmfjyygvTwfawmfESpf&yftwGuf wyfrawmfumuG,fa&;OD;pD;csKyf utrnfpm&if;wifoGif;onhf wyfrawmfom;vTwfawmf udk,fpm;vS,frsm;tpktzGJU/
 
-( * ) ,if;tpktzGJUwpfzGJUpDu'kwd,or®wwpfOD;pDudk vTwfawmfudk,fpm;vS,f rsm;xJrSjzpfap?  vTwfawmfudk,fpm;vS,fr[kwfolrsm;xJrS  jzpfap a&G;cs,fwifajr§muf&rnf?
+(*) ,if;tpktzGJUwpfzGJUpDu'kwd,or®wwpfOD;pDudk vTwfawmfudk,fpm;vS,f rsm;xJrSjzpfap? vTwfawmfudk,fpm;vS,fr[kwfolrsm;xJrS jzpfap a&G;cs,fwifajr§muf&rnf?
 
 [[END OF PAGE 52]]
 
@@ -1054,9 +1088,9 @@ odkYr[kwf cifyGef;aomfvnf;aumif; EdkifiHjcm;tpdk;&\ aus;Zl;opömawmf udk  cH,lap
 
 (e) The Presidential Electoral College comprising all the Pyidaungsu Hluttaw representatives shall elect by vote one of the three  Vice-Presidents who are Presidential candidates, as the President.
 
-(f) Necessary law shall be enacted for the election of President and VicePresidents.
+(f) Necessary law shall be enacted for the election of President and Vice-Presidents.
 
-(a) The term of office of the President or the Vice-Presidents is five years.
+61. (a) The term of office of the President or the Vice-Presidents is five years.
 
 (b) After the expiry of the incumbent term, the President and the Vice-Presidents shall continue their duties until the time the new President is duly elected.
 
@@ -1066,9 +1100,9 @@ odkYr[kwf cifyGef;aomfvnf;aumif; EdkifiHjcm;tpdk;&\ aus;Zl;opömawmf udk  cH,lap
 
 (e) If a vacancy is filled for the President or the Vice-President for any reason, the term of office of the new President or the new Vice-President shall be up to the expiry of the original term of office.
 
-- The President or the Vice-Presidents shall not be representative of any Hluttaw.
+62. The President or the Vice-Presidents shall not be representative of any Hluttaw.
 
-- If the President or the Vice-Presidents are Hluttaw representatives, they shall be deemed to have resigned from their seats in that Hluttaw, and if the President or the Vice-
+63. If the President or the Vice-Presidents are Hluttaw representatives, they shall be deemed to have resigned from their seats in that Hluttaw, and if the President or the Vice-
 
 [[END OF PAGE 53]]
 
@@ -1082,7 +1116,7 @@ odkYr[kwf cifyGef;aomfvnf;aumif; EdkifiHjcm;tpdk;&\ aus;Zl;opömawmf udk  cH,lap
 
 ( p ) xdkodkY  EdkifiHawmfor®wESifh 'kwd,or®wrsm; a&G;cs,fwifajr§mufEdkif&ef vdktyfonhfOya'udk jy|mef;ay;&rnf/
 
-- 61/ (u) EdkifiHawmfor®w odkYr[kwf 'kwd,or®wwdkY\ &mxl;oufwrf;onf ig;ESpf jzpfonf?
+61/ (u) EdkifiHawmfor®w odkYr[kwf 'kwd,or®wwdkY\ &mxl;oufwrf;onf ig;ESpf jzpfonf?
 
 ( c ) ,if;&mxl;oufwrf; ukefqkH;onhftcg EdkifiHawmfor®wtopf a&G;cs,f wifajr§mufNyD;onhf tcsdeftxd EdkifiHawmfor®wESihf 'kwd,or®wrsm; onf rdrdwdkY\vkyfief;wm0efrsm;udk qufvufxrf;aqmif&rnf?
 
@@ -1094,7 +1128,7 @@ odkYr[kwf cifyGef;aomfvnf;aumif; EdkifiHjcm;tpdk;&\ aus;Zl;opömawmf udk  cH,lap
 
 62/ EdkifiHawmfor®w  odkYr[kwf  'kwd,or®wrsm;onf  rnfonhfvTwfawmf ukd,fpm;vS,frQ rjzpfap&/
 
-63/ EdkifiHawmfor®w  odkYr[kwf  'kwd,or®wrsm;onf  vTwfawmfudk,fpm;vS,f jzpfvQif  vTwfawmfudk,fpm;vS,ftjzpfrSvnf;aumif;?  EdkifiHh0efxrf;jzpfvQif  EdkifiHh Presidents are the Civil Services personnel, they shall be deemed to have resigned or retired from their offices from the day of their election.
+63/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf vTwfawmfudk,fpm;vS,f jzpfvQif vTwfawmfudk,fpm;vS,ftjzpfrSvnf;aumif;? EdkifiHh0efxrf;jzpfvQif EdkifiHh
 
 [[END OF PAGE 54]]
 
@@ -1102,13 +1136,15 @@ odkYr[kwf cifyGef;aomfvnf;aumif; EdkifiHjcm;tpdk;&\ aus;Zl;opömawmf udk  cH,lap
 
 22
 
+Presidents are the Civil Services personnel, they shall be deemed to have resigned or retired from their offices from the day of their election.
+
 64. If the President or the Vice-Presidents are members of a political party, they shall not take part in its party activities during their term of office from the day of their election.
 
 65. The President and the Vice-Presidents shall make an affirmation as follows:
 
-'I ...........  do  solemnly and sincerely promise and declare that I will be loyal to the Republic of the Union of Myanmar and the citizens and hold always in esteem non-disintegration of the Union, non-disintegration of national solidarity and perpetuation of sovereignty.
+“I ........... do solemnly and sincerely promise and declare that I will be loyal to the Republic of the Union of Myanmar and the citizens and hold always in esteem non-disintegration of the Union, non-disintegration of national solidarity and perpetuation of sovereignty.
 
-I will uphold and abide by the Constitution and its Laws. I will carry out the responsibilities uprightly to the best of my ability and strive for further flourishing the eternal principles of  justice, liberty and equality. I will dedicate myself to the service of the Republic of the Union of Myanmar.'
+I will uphold and abide by the Constitution and its Laws. I will carry out the responsibilities uprightly to the best of my ability and strive for further flourishing the eternal principles of justice, liberty and equality. I will dedicate myself to the service of the Republic of the Union of Myanmar.”
 
 66. The President or the Vice-Presidents shall exercise duties and powers vested by this Constitution and other laws.
 
@@ -1140,13 +1176,13 @@ rSwf,l&rnf/ 64/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf EdkifiHa&;ygwDwpfck
 
 70. Except in the case of removal from office following impeachment, the President and the Vice-Presidents shall enjoy pension and suitable allowances on retirement in accord with the law after the expiry of the term of office.
 
-(a) The President or any Vice-President may be impeached for one of the following reasons :
+71. (a) The President or any Vice-President may be impeached for one of the following reasons :
 
 (i) high treason;
 
 (ii) breach of the provisions of this Constitution;
 
-(iii ) misconduct;
+(iii) misconduct;
 
 (iv) being disqualified for the President or Vice-President under provisions as prescribed in this Constitution;
 
@@ -1170,7 +1206,7 @@ rSwf,l&rnf/ 64/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf EdkifiHa&;ygwDwpfck
 
 71/ (u) EdkifiHawmfor®wudkjzpfap? 'kwd,or®wwpfOD;OD;udkjzpfap atmufyg taMumif;wpf&yf&yfjzihf pGyfpJGjypfwifEdkifonf (1) EdkifiHawmf\aus;Zl;opömawmfudk azmufzsufjcif;? (2) þzGJUpnf;ykHtajccHOya'yg  jy|mef;csufrsm;udk  azmufzsuf usL;vGefjcif;? (3) tusihfodu©mysufjym;jcif;? (4) þzGJUpnf;ykHtajccHOya'wGif jy|mef;xm;aom EdkifiHawmfor®w odkYr[kwf 'kwd,or®w\t&nftcsif; ysuf,Gif;jcif;? (5) Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/ ( c ) EdkifiHawmfor®w odkYr[kwf 'kwd,or®wwpfOD;OD;udk pGyfpGJjypfwifvdkygu jynfaxmifpkvTwfawmfwGifyg0ifaom  vTwfawmfESpf&yfrS  vTwfawmf wpf&yf&yf\ vTwfawmfudk,fpm;vS,f pkpkaygif;OD;a&teuf tenf;qkH; av;ykHwpfykHu  vufrSwfa&;xdk;NyD;  rdrdwdkY\pGyfpJGcsufudk  oufqdkif&m vTwfawmftBuD;trSL;xH wifjy&rnf? ( * ) ,if;pGyfpGJcsufudk  oufqdkif&mvTwfawmf\  vTwfawmfudk,fpm;vS,f
 
-- pkpkaygif;OD;a&teuf tenf;qkH; okH;yHkESpfykHuaxmufcHrSom qufvuf ta&;,laqmif&Guf&rnf?
+pkpkaygif;OD;a&teuf tenf;qkH; okH;yHkESpfykHuaxmufcHrSom qufvuf ta&;,laqmif&Guf&rnf?
 
 [[END OF PAGE 58]]
 
@@ -1188,7 +1224,7 @@ rSwf,l&rnf/ 64/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf EdkifiHa&;ygwDwpfck
 
 72. The President or any of the Vice-Presidents shall be allowed to resign from office of his own volition before the expiry of the term of office.
 
-(a) One of the two Vice-Presidents who has won the second highest votes in the Presidential election shall serve as  Acting President if the office of the President falls vacant due to his resignation, death, permanent disability or any other cause.
+73. (a) One of the two Vice-Presidents who has won the second highest votes in the Presidential election shall serve as Acting President if the office of the President falls vacant due to his resignation, death, permanent disability or any other cause.
 
 [[END OF PAGE 59]]
 
@@ -1206,7 +1242,7 @@ rSwf,l&rnf/ 64/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf EdkifiHa&;ygwDwpfck
 
 72/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®w wpfOD;OD;onf rdrd\&mxl;oufwrf; rukefqkH;rD qE´tavsmufEkwfxGufvdkvQif EkwfxGufcGihfjyK&rnf/
 
-- 73/ (u) EdkifiHawmfor®wonf &mxl;oufwrf; rukefqkH;rDEkwfxGufaomaMumihf jzpfap?  uG,fvGefaomaMumihfjzpfap?  xm0pOfrpGrf;aqmifEdkifaom aMumihfjzpfap?  wpfpkHwpfckaom  taMumif;aMumihfjzpfap  EdkifiHawmf or®w&mxl;ae&m vpfvyfvQif 'kwd,or®wESpfOD;teuf EdkifiHawmf or®w a&G;cs,fwifajr§mufpOftcgu 'kwd,qE´rJtrsm;qkH; &&Sdonhf 'kwd,or®wu ,m,Dor®wtjzpf xrf;aqmif&rnf?
+73/ (u) EdkifiHawmfor®wonf &mxl;oufwrf; rukefqkH;rDEkwfxGufaomaMumihf jzpfap? uG,fvGefaomaMumihfjzpfap? xm0pOfrpGrf;aqmifEdkifaom aMumihfjzpfap? wpfpkHwpfckaom taMumif;aMumihfjzpfap EdkifiHawmf or®w&mxl;ae&m vpfvyfvQif 'kwd,or®wESpfOD;teuf EdkifiHawmf or®w a&G;cs,fwifajr§mufpOftcgu 'kwd,qE´rJtrsm;qkH; &&Sdonhf 'kwd,or®wu ,m,Dor®wtjzpf xrf;aqmif&rnf?
 
 [[END OF PAGE 60]]
 
@@ -1218,7 +1254,7 @@ rSwf,l&rnf/ 64/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf EdkifiHa&;ygwDwpfck
 
 (c) On receipt of the intimation from the Acting President, the Head of the Pyidaungsu Hluttaw shall proceed to elect a Vice-President by the group of Hluttaw representatives concerned that initially elected the Vice-President who subsequently got elected President, the office now being vacant.
 
-(d) After the group of Hluttaw representatives concerned has elected a VicePresident, the Electoral College comprising all the Pyidaungsu Hluttaw representatives shall elect the President from among the three VicePresidents.
+(d) After the group of Hluttaw representatives concerned has elected a Vice-President, the Electoral College comprising all the Pyidaungsu Hluttaw representatives shall elect the President from among the three Vice-Presidents.
 
 (e) If the office of the President becomes vacant when the Pyidaungsu Hluttaw is not in session, the Head of the Pyidaungsu Hluttaw shall summon the Pyidaungsu Hluttaw within 21 days from the day of receipt of the intimation from the Acting President and proceed to hold election to fill the vacant office of the President in accord with the above procedure.
 
@@ -1267,25 +1303,8 @@ rSwf,l&rnf/ 64/ EdkifiHawmfor®w odkYr[kwf 'kwd,or®wrsm;onf EdkifiHa&;ygwDwpfck
 
 [[START OF PAGE 66]]
 
-tcef;  (4)
-
-tcef;  (4)
-
-tcef;  (4)
-
-tcef;  (4)
-
-tcef;  (4)
-
-Oya'jyKa&;
-
-Oya'jyKa&;
-
-Oya'jyKa&;
-
-Oya'jyKa&;
-
-Oya'jyKa&;
+## tcef; (4)
+### Oya'jyKa&;
 
 [[END OF PAGE 66]]
 
@@ -1298,7 +1317,7 @@ Oya'jyKa&;
 
 ##### Formation of the Pyidaungsu Hluttaw
 
-- The Pyidaungsu Hluttaw comprises of the following two Hluttaws :
+74. The Pyidaungsu Hluttaw comprises of the following two Hluttaws :
 
 (a) in accord with the provisions of Section 109, the Pyithu Hluttaw formed with Hluttaw representatives elected on the basis of township as well as population and Hluttaw representatives being the Defence Services Personnel nominated by the Commander-in-Chief of the Defence Services;
 
@@ -1306,26 +1325,27 @@ Oya'jyKa&;
 
 ##### The Head and the Deputy Heads of the respective Hluttaws
 
-- On the day of commencement of the first Hluttaw session for each term of the Hluttaw concerned, the person who is to conduct and supervise the Hluttaw session held for the taking of affirmation of office by Hluttaw representatives and for electing the Hluttaw Speaker and Deputy Speaker shall be called the Chairperson, the Head and the Deputy Head of the Pyidaungsu Hluttaw shall be called the Speaker and the Deputy Speaker, the Head and the Deputy Head of the Pyithu Hluttaw, the  Amyotha Hluttaw, the Region Hluttaw or the State Hluttaw shall be called the Speaker and the Deputy Speaker.
+75. On the day of commencement of the first Hluttaw session for each term of the Hluttaw concerned, the person who is to conduct and supervise the Hluttaw session held for the taking of affirmation of office by Hluttaw representatives and for electing the Hluttaw Speaker and Deputy Speaker shall be called the Chairperson, the Head and the Deputy Head of the Pyidaungsu Hluttaw shall be called the Speaker and the Deputy Speaker, the Head and the Deputy Head of the Pyithu Hluttaw, the Amyotha Hluttaw, the Region Hluttaw or the State Hluttaw shall be called the Speaker and the Deputy Speaker.
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
 
-## tcef;  (4) tcef;  (4) tcef;  (4) tcef;  (4)
+## tcef; (4)
+### Oya'jyKa&;
+#### jynfaxmifpkvTwfawmf
 
-### Oya'jyKa&; Oya'jyKa&; Oya'jyKa&; Oya'jyKa&;
-#### jynfaxmifpkvTwfawmf jynfaxmifpkvTwfawmf
+##### jynfaxmifpkvTwfawmf zGJUpnf;jcif;
 
-##### jynfaxmifpkvTwfawmf  zGJUpnf;jcif; jynfaxmifpkvTwfawmf  zGJUpnf;jcif;
+74/ jynfaxmifpkvTwfawmfwGif atmufyg vTwfawmfESpf&yfyg0ifonf –
 
-- 74/ jynfaxmifpkvTwfawmfwGif atmufyg vTwfawmfESpf&yfyg0ifonf (u) yk'fr 109 yg jy|mef;csufrsm;ESifhtnD NrdKUe,fudk tajccHívnf;aumif;? vlOD;a&udk  tajccHívnf;aumif;  a&G;aumufwifajr§mufonhf vTwfawmfudk,fpm;vS,frsm;ESihf wyfrawmfumuG,fa&;OD;pD;csKyfu trnf pm&if;wifoGif;aom wyfrawmfom; vTwfawmfudk,fpm;vS,frsm;jzihf zGJUpnf;onhf jynfolYvTwfawmf? yk'fr 141 yg jy|mef;csufrsm;ESifhtnD  wdkif;a'oBuD;rsm;ESifh  jynfe,f rsm;rSOD;a&wlnDpGm a&G;aumufwifajr§mufonhf vTwfawmfudk,fpm;vS,f rsm;ESihf  wyfrawmfumuG,fa&;OD;pD;csKyfu trnfpm&if; wifoGif;aom wyfrawmfom; vTwfawmfudk,fpm;vS,frsm;jzihf zGJUpnf;onhf trsKd;om;
+(u) yk'fr 109 yg jy|mef;csufrsm;ESifhtnD NrdKUe,fudk tajccHívnf;aumif;? vlOD;a&udk tajccHívnf;aumif; a&G;aumufwifajr§mufonhf vTwfawmfudk,fpm;vS,frsm;ESihf wyfrawmfumuG,fa&;OD;pD;csKyfu trnfpm&if;wifoGif;aom wyfrawmfom; vTwfawmfudk,fpm;vS,frsm;jzihf zGJUpnf;onhf jynfolYvTwfawmf?
 
-( c ) vTwfawmf/
+(c) yk'fr 141 yg jy|mef;csufrsm;ESifhtnD wdkif;a'oBuD;rsm;ESifh jynfe,frsm;rSOD;a&wlnDpGm a&G;aumufwifajr§mufonhf vTwfawmfudk,fpm;vS,frsm;ESihf wyfrawmfumuG,fa&;OD;pD;csKyfu trnfpm&if; wifoGif;aom wyfrawmfom; vTwfawmfudk,fpm;vS,frsm;jzihf zGJUpnf;onhf trsKd;om;vTwfawmf/
 
-##### vTwfawmftoD;oD;\  tBuD;trSL;ESifh  'kwd,tBuD;trSL;rsm; vTwfawmftoD;oD;\  tBuD;trSL;ESifh  'kwd,tBuD;trSL;rsm;
+##### vTwfawmftoD;oD;\ tBuD;trSL;ESifh 'kwd,tBuD;trSL;rsm;
 
-75/ vTwfawmftoD;oD;\  tBuD;trSL;?  'kwd,tBuD;trSL;rsm;ESihf  ywfoufNyD; oufqdkif&m vTwfawmfoufwrf;wpfckpDtwGuf vTwfawmfyxrtpnf;ta0; pwif usif;yonhfaeYwGif vTwfawmfudk,fpm;vS,frsm; uwdopömjyKEdkif&efESihf vTwfawmfOuú|? 'kwd,Ouú| a&G;aumufwifajr§mufay;&ef  usif;yaom  vTwfawmftpnf;ta0;udk BuD;rSL;BuD;Muyfay;&rnhf  tBuD;trSL;tm;  obmywd[kvnf;aumif;?  jynfaxmifpk vTwfawmftBuD;trSL;ESihf  'kwd,tBuD;trSL;udk  em,uESifh  'kwd,em,u[k vnf;aumif;? jynfolYvTwfawmf? trsKd;om;vTwfawmf? wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmf  tBuD;trSL;ESihf  'kwd,tBuD;trSL;udk  Ouú|ESihf  'kwd,Ouú|[k vnf;aumif; ac:a0:okH;pGJ&rnf/
+75/ vTwfawmftoD;oD;\ tBuD;trSL;? 'kwd,tBuD;trSL;rsm;ESihf ywfoufNyD; oufqdkif&m vTwfawmfoufwrf;wpfckpDtwGuf vTwfawmfyxrtpnf;ta0; pwif usif;yonhfaeYwGif vTwfawmfudk,fpm;vS,frsm; uwdopömjyKEdkif&efESihf vTwfawmfOuú|? 'kwd,Ouú| a&G;aumufwifajr§mufay;&ef usif;yaom vTwfawmftpnf;ta0;udk BuD;rSL;BuD;Muyfay;&rnhf tBuD;trSL;tm; obmywd[kvnf;aumif;? jynfaxmifpkvTwfawmftBuD;trSL;ESihf 'kwd,tBuD;trSL;udk em,uESifh 'kwd,em,u[k vnf;aumif;? jynfolYvTwfawmf? trsKd;om;vTwfawmf? wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmf tBuD;trSL;ESihf 'kwd,tBuD;trSL;udk Ouú|ESihf 'kwd,Ouú|[k vnf;aumif; ac:a0:okH;pGJ&rnf/
 
 [[END OF PAGE 68]]
 
@@ -1335,13 +1355,13 @@ Oya'jyKa&;
 
 ##### Performance of duties by the Speaker and the Deputy Speaker of the Pyidaungsu Hluttaw
 
-(a) The Speaker and the Deputy Speaker of the  Amyotha Hluttaw shall also serve as the Speaker and the Deputy Speaker of the Pyidaungsu Hluttaw from the day of term of the Pyithu Hluttaw commences up to the end of 30 months and the Speaker and the Deputy Speaker of the Pyithu Hluttaw shall also serve as the Speaker and the Deputy Speaker of the Pyidaungsu Hluttaw for the remaining term.
+76. (a) The Speaker and the Deputy Speaker of the Amyotha Hluttaw shall also serve as the Speaker and the Deputy Speaker of the Pyidaungsu Hluttaw from the day of term of the Pyithu Hluttaw commences up to the end of 30 months and the Speaker and the Deputy Speaker of the Pyithu Hluttaw shall also serve as the Speaker and the Deputy Speaker of the Pyidaungsu Hluttaw for the remaining term.
 
 (b) When the Speaker of the Pyidaungsu Hluttaw is unable to perform the duties of the Speaker, the Deputy Speaker shall temporarily perform the duties of the Speaker.
 
 ##### Functions of the Speaker of the Pyidaungsu Hluttaw
 
-- The Speaker of the Pyidaungsu Hluttaw shall :
+77. The Speaker of the Pyidaungsu Hluttaw shall :
 
 (a) supervise the Pyidaungsu Hluttaw sessions;
 
@@ -1353,7 +1373,7 @@ Oya'jyKa&;
 
 ##### Convening the Sessions of the Pyidaungsu Hluttaw
 
-- The first regular session of the Pyidaungsu Hluttaw shall be held within 15 days from the first day of the commencement of the first session of the Pyithu Hluttaw. The Speaker of the Pyidaungsu Hluttaw shall convene the Pyidaungsu Hluttaw.
+78. The first regular session of the Pyidaungsu Hluttaw shall be held within 15 days from the first day of the commencement of the first session of the Pyithu Hluttaw. The Speaker of the Pyidaungsu Hluttaw shall convene the Pyidaungsu Hluttaw.
 
 [[END OF PAGE 69]]
 
@@ -1361,17 +1381,27 @@ Oya'jyKa&;
 
 28
 
-##### jynfaxmifpkvTwfawmf  em,uESihf  'kwd,em,ursm;\  wm0efxrf;aqmifjcif; jynfaxmifpkvTwfawmf  em,uESihf  'kwd,em,ursm;\  wm0efxrf;aqmifjcif;
+##### jynfaxmifpkvTwfawmf em,uESihf 'kwd,em,ursm;\ wm0efxrf;aqmifjcif;
 
-76/ (u) jynfolYvTwfawmf oufwrf;wpfck pwifonhf aeY&ufrS vaygif; 30 jynfhajrmufonhf  aeY&uftxd  trsKd;om;vTwfawmfOuú|ESihf  'kwd, Ouú|wdkYonf  jynfaxmifpkvTwfawmfem,uESihf  'kwd,em,u wm0efudkyg xrf;aqmif&rnf/ usefoufwrf;umvtwGuf jynfolY vTwfawmfOuú|ESihf  'kwd,Ouú|wdkYonf  jynfaxmifpkvTwfawmf em,uESihf 'kwd,em,u wm0efudkyg xrf;aqmif&rnf? ( c ) jynfaxmifpkvTwfawmfem,uonf  em,uwm0efudk  xrf;aqmif EdkifpGrf;r&Sdonhftcg  'kwd,em,uonf  em,uwm0efudk  ,m,D xrf;aqmif&rnf/
+76/ (u) jynfolYvTwfawmf oufwrf;wpfck pwifonhf aeY&ufrS vaygif; 30 jynfhajrmufonhf aeY&uftxd trsKd;om;vTwfawmfOuú|ESihf 'kwd,Ouú|wdkYonf jynfaxmifpkvTwfawmfem,uESihf 'kwd,em,u wm0efudkyg xrf;aqmif&rnf/ usefoufwrf;umvtwGuf jynfolYvTwfawmfOuú|ESihf 'kwd,Ouú|wdkYonf jynfaxmifpkvTwfawmf em,uESihf 'kwd,em,u wm0efudkyg xrf;aqmif&rnf?
 
-##### jynfaxmifpkvTwfawmfem,u\  vkyfief;wm0ef jynfaxmifpkvTwfawmfem,u\  vkyfief;wm0ef
+(c) jynfaxmifpkvTwfawmfem,uonf em,uwm0efudk xrf;aqmifEdkifpGrf;r&Sdonhftcg 'kwd,em,uonf em,uwm0efudk ,m,D xrf;aqmif&rnf/
 
-77/ jynfaxmifpkvTwfawmfem,uonf (u) jynfaxmifpkvTwfawmf  tpnf;ta0;rsm;udk BuD;MuyfuGyfuJ&rnf? ( c ) jynfaxmifpkvTwfawmf tpnf;ta0;odkY wufa&mufí rdefYcGef;ajymMum; vkdaMumif; EdkifiHawmfor®wu taMumif;Mum;vQif EdkifiHawmfor®wtm; zdwfMum;&rnf? ( * ) j ynfaxmifpkvTwfawmf  tpnf;ta0;ü  aqG;aEG;aqmif&GufqJ taMumif;t&m wpf&yf&yfESihfpyfvsOf;í vdktyfvQif zJGUpnf;yHktajccH Oya't& zJGUpnf;onhf jynfaxmifpktqifh tzJGUtpnf;wpf&yf&yfudk udk,fpm;jyKaom tzJGUtpnf;rsm; odkYr[kwf yk*d¾Kvfrsm;udk jynfaxmifpk vTwfawmfodkY wufa&muf&Sif;vif; wifjyap&ef zdwfMum;cGifh&dSonf? (C) zJGUpnf;yHktajccHOya't&aomfvnf;aumif;? Oya'wpf&yf&yft&aomf vnf;aumif; owfrSwfxm;onhf tjcm;wm0efESihf vkyfydkifcGifhrsm;udk aqmif&Guf&rnf/
+##### jynfaxmifpkvTwfawmfem,u\ vkyfief;wm0ef
 
-##### jynfaxmifpkvTwfawmf  tpnf;ta0;  usif;yjcif; jynfaxmifpkvTwfawmf  tpnf;ta0;  usif;yjcif;
+77/ jynfaxmifpkvTwfawmfem,uonf -
 
-78/ jynfaxmifpkvTwfawmf\ yxrtBudrf ykHrSeftpnf;ta0;udk jynfolYvTwfawmf\ yxrtpnf;ta0;  pwifonfhaeYrS  15  &uftwGif;usif;y&rnf/  jynfaxmifpk vTwfawmftpnf;ta0;rsm;udk jynfaxmifpkvTwfawmf em,uu ac:,lusif;y&rnf/
+(u) jynfaxmifpkvTwfawmf tpnf;ta0;rsm;udk BuD;MuyfuGyfuJ&rnf?
+
+(c) jynfaxmifpkvTwfawmf tpnf;ta0;odkY wufa&mufí rdefYcGef;ajymMum;vkdaMumif; EdkifiHawmfor®wu taMumif;Mum;vQif EdkifiHawmfor®wtm; zdwfMum;&rnf?
+
+(*) jynfaxmifpkvTwfawmf tpnf;ta0;ü aqG;aEG;aqmif&GufqJ taMumif;t&m wpf&yf&yfESihfpyfvsOf;í vdktyfvQif zJGUpnf;yHktajccHOya't& zJGUpnf;onhf jynfaxmifpktqifh tzJGUtpnf;wpf&yf&yfudk udk,fpm;jyKaom tzJGUtpnf;rsm; odkYr[kwf yk*d¾Kvfrsm;udk jynfaxmifpkvTwfawmfodkY wufa&muf&Sif;vif; wifjyap&ef zdwfMum;cGifh&dSonf?
+
+(C) zJGUpnf;yHktajccHOya't&aomfvnf;aumif;? Oya'wpf&yf&yft&aomfvnf;aumif; owfrSwfxm;onhf tjcm;wm0efESihf vkyfydkifcGifhrsm;udk aqmif&Guf&rnf/
+
+##### jynfaxmifpkvTwfawmf tpnf;ta0; usif;yjcif;
+
+78/ jynfaxmifpkvTwfawmf\ yxrtBudrf ykHrSeftpnf;ta0;udk jynfolYvTwfawmf\ yxrtpnf;ta0; pwifonfhaeYrS 15 &uftwGif;usif;y&rnf/ jynfaxmifpkvTwfawmftpnf;ta0;rsm;udk jynfaxmifpkvTwfawmf em,uu ac:,lusif;y&rnf/
 
 [[END OF PAGE 70]]
 
@@ -1415,17 +1445,31 @@ Oya'jyKa&;
 
 79/ jynfaxmifpkvTwfawmf ykHrSeftpnf;ta0;udk jynfaxmifpkvTwfawmf em,uu wpfESpfvQif tenf;qkH;wpfBudrf ac:,lusif;y&rnf/ ykHrSeftpnf;ta0; wpfBudrfESifh wpfBudrftMum; t&SnfMumqkH; umvonf 12 vxufrydkap&/
 
-80/ jynfaxmifpkvTwfawmftpnf;ta0;ü  atmufygudpö&yfrsm;udkaqmif&Guf onf (u) EkdifiHawmfor®w ajymMum;onfh rdefYcGef;udk rSwfwrf;wifjcif;? ( c ) EdkifiHawmfor®wuay;ydkYaom  o0PfvTmESihf  em,uu  cGihfjyKaom tjcm;o0PfvTmrsm;udk zwfMum;jcif;? rSwfwrf;wifjcif;? ( * ) Oya'Murf; wifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? (C) jynfaxmifpkvTwfawmfu twnfjyKxm;onfh Oya'Murf; wpf&yf&yfESihf pyfvsOf;í EdkifiHawmfor®w\ oabmxm;rSwfcsufrsm;udk aqG;aEG;jcif;? qkH;jzwfjcif;? ( i ) zGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;t& jynfaxmifpkvTwfawmfu aqmif&Guf&rnfh udpö&yfrsm;ESifh pyfvsOf;í aqG;aEG;jcif;? qkH;jzwfjcif;? ( p ) jynfaxmifpkvTwfawmfodkY wifoGif;onfhtpD&ifcHpmrsm;udk aqG;aEG;jcif;? qkH;jzwfjcif;? rSwfwrf;wifjcif;? (q) tqdkwifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? ( Z ) ar;cGef;ar;jref;jcif;?  ajzMum;jcif;? jynfaxmifpkvTwfawmf   em,uu cGifhjyKonfhudpö&yfrsm;ESihf pyfvsOf;í
+80/ jynfaxmifpkvTwfawmftpnf;ta0;ü atmufygudpö&yfrsm;udkaqmif&Gufonf -
 
-(ps) aqmif&Gufjcif;/
+(u) EkdifiHawmfor®w ajymMum;onfh rdefYcGef;udk rSwfwrf;wifjcif;?
 
-jynfaxmifpkvTwfawmf\ tqkH;tjzwf &,lrnfhudpö&yfrsm;? oabmwlnDcsuf &,lrnfhudpö&yfrsm;? twnfjyKcsuf&,lrnfh udpö&yfrsm;udk atmufygtwdkif; aqmif&Guf
+(c) EdkifiHawmfor®wuay;ydkYaom o0PfvTmESihf em,uu cGihfjyKaom tjcm;o0PfvTmrsm;udk zwfMum;jcif;? rSwfwrf;wifjcif;?
 
-- jynfaxmifpkvTwfawmf tpnf;ta0; usif;yqJumvjzpfvQif ,if;
+(*) Oya'Murf; wifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;?
 
-- jynfaxmifpkvTwfawmf  tpnf;ta0;  usif;yqJumv  r[kwfvQif teD;uyfqkH; jynfaxmifpkvTwfawmf tpnf;ta0;ü aqG;aEG;qkH;jzwf &rnf?
+(C) jynfaxmifpkvTwfawmfu twnfjyKxm;onfh Oya'Murf; wpf&yf&yfESihf pyfvsOf;í EdkifiHawmfor®w\ oabmxm;rSwfcsufrsm;udk aqG;aEG;jcif;? qkH;jzwfjcif;?
 
-81/ &rnf (u) tpnf;ta0;ü aqG;aEG;qkH;jzwf&rnf? ( c )
+(i) zGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;t& jynfaxmifpkvTwfawmfu aqmif&Guf&rnfh udpö&yfrsm;ESifh pyfvsOf;í aqG;aEG;jcif;? qkH;jzwfjcif;?
+
+(p) jynfaxmifpkvTwfawmfodkY wifoGif;onfhtpD&ifcHpmrsm;udk aqG;aEG;jcif;? qkH;jzwfjcif;? rSwfwrf;wifjcif;?
+
+(q) tqdkwifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;?
+
+(Z) ar;cGef;ar;jref;jcif;? ajzMum;jcif;?
+
+(ps) jynfaxmifpkvTwfawmf em,uu cGifhjyKonfhudpö&yfrsm;ESihf pyfvsOf;í aqmif&Gufjcif;/
+
+81/ jynfaxmifpkvTwfawmf\ tqkH;tjzwf &,lrnfhudpö&yfrsm;? oabmwlnDcsuf &,lrnfhudpö&yfrsm;? twnfjyKcsuf&,lrnfh udpö&yfrsm;udk atmufygtwdkif; aqmif&Guf&rnf –
+
+(u) jynfaxmifpkvTwfawmf tpnf;ta0; usif;yqJumvjzpfvQif ,if;tpnf;ta0;ü aqG;aEG;qkH;jzwf&rnf?
+
+(c) jynfaxmifpkvTwfawmf tpnf;ta0; usif;yqJumv r[kwfvQif teD;uyfqkH; jynfaxmifpkvTwfawmf tpnf;ta0;ü aqG;aEG;qkH;jzwf&rnf?
 
 [[END OF PAGE 72]]
 
@@ -1441,11 +1485,11 @@ jynfaxmifpkvTwfawmf\ tqkH;tjzwf &,lrnfhudpö&yfrsm;? oabmwlnDcsuf &,lrnfhudpö&y
 
 84. The Speaker of the Pyidaungsu Hluttaw shall convene a special session  as soon as possible, if at least one-fourth of the total number of the representatives so require.
 
-(a) The first day session of the Pyidaungsu Hluttaw shall be valid if more than half of the total number, who have the right to attend the session, are present. The session, if invalid, shall be adjourned.
+85. (a) The first day session of the Pyidaungsu Hluttaw shall be valid if more than half of the total number, who have the right to attend the session, are present. The session, if invalid, shall be adjourned.
 
-(b) The sessions that are adjourned due to invalidity in accord with the SubSection (a) as well as the valid sessions that are extented shall be valid if at least one-third of the Hluttaw representatives are present.
+(b) The sessions that are adjourned due to invalidity in accord with the Sub-Section (a) as well as the valid sessions that are extented shall be valid if at least one-third of the Hluttaw representatives are present.
 
-(a) A matter that shall be resolved in the Pyidaungsu Hluttaw, save as otherwise provided by the Constitution, shall be determined by a majority of votes
+86. (a) A matter that shall be resolved in the Pyidaungsu Hluttaw, save as otherwise provided by the Constitution, shall be determined by a majority of votes
 
 [[END OF PAGE 73]]
 
@@ -1559,7 +1603,7 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 91. The Union level organizations formed under the Constitution may submit the general situation in connection with the respective organization, which should be submitted to the Pyidaungsu Hluttaw with the permission of the Speaker.
 
-(a) Subject to the provisions of the Constitution and the provisions of the law relating to the Pyidaungsu Hluttaw, the representatives of the Pyidaungsu Hluttaw shall have freedom of speech and voting at the Pyidaungsu Hluttaw and the Pyidaungsu Hluttaw Joint Committee. Concerning the submitting, discussing and performing at the Pyidaungsu Hluttaw and the Joint Committee, no action shall be taken against, a representative of the Pyidaungsu Hluttaw, except under its law.
+92. (a) Subject to the provisions of the Constitution and the provisions of the law relating to the Pyidaungsu Hluttaw, the representatives of the Pyidaungsu Hluttaw shall have freedom of speech and voting at the Pyidaungsu Hluttaw and the Pyidaungsu Hluttaw Joint Committee. Concerning the submitting, discussing and performing at the Pyidaungsu Hluttaw and the Joint Committee, no action shall be taken against, a representative of the Pyidaungsu Hluttaw, except under its law.
 
 (b) Subject to the provisions of the Constitution and the provisions of the law relating to the Pyidaungsu Hluttaw, members of the organizations or persons representing any of the Union level organizations formed under the Constitution who are invited to attend the Pyidaungsu Hluttaw session have the freedom of speech. No action shall be taken against such members or persons for their submission and speeches in Pyidaungsu Hluttaw by other law except under its law.
 
@@ -1585,19 +1629,19 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 33
 
-- If there is a need to arrest a Pyidaungsu Hluttaw representative attending the Pyidaungsu Hluttaw session or a person attending the Pyidaungsu Hluttaw session with the permission or invitation of the Speaker of the Pyidaungsu Hluttaw, credible evidence shall be submitted to the Speaker of the Pyidaungsu Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Pyidaungsu Hluttaw.
+93. If there is a need to arrest a Pyidaungsu Hluttaw representative attending the Pyidaungsu Hluttaw session or a person attending the Pyidaungsu Hluttaw session with the permission or invitation of the Speaker of the Pyidaungsu Hluttaw, credible evidence shall be submitted to the Speaker of the Pyidaungsu Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Pyidaungsu Hluttaw.
 
-- No action shall be instituted relating to the reports, documents, and Hluttaw records published by the Pyidaungsu Hluttaw or under its authority.
+94. No action shall be instituted relating to the reports, documents, and Hluttaw records published by the Pyidaungsu Hluttaw or under its authority.
 
 ##### Legislation
 
-(a) If  a  Bill  initiated  in  the  Pyithu  Hluttaw  or  the  Amyotha Hluttaw is approved by both Hluttaws, it shall be deemed that the Bill is approved by the Pyidaungsu Hluttaw.
+95. (a) If a Bill initiated in the Pyithu Hluttaw or the Amyotha Hluttaw is approved by both Hluttaws, it shall be deemed that the Bill is approved by the Pyidaungsu Hluttaw.
 
-(b) If there is a disagreement between the Pyithu Hluttaw and the  Amyotha Hluttaw concerning a Bill, the Bill shall be discussed and resolved in the Pyidaungsu Hluttaw.
+(b) If there is a disagreement between the Pyithu Hluttaw and the Amyotha Hluttaw concerning a Bill, the Bill shall be discussed and resolved in the Pyidaungsu Hluttaw.
 
-- The Pyidaungsu Hluttaw shall have the right to enact laws for the entire or any part of the Union related to matters prescribed in Schedule One of the Union Legislative List.
+96. The Pyidaungsu Hluttaw shall have the right to enact laws for the entire or any part of the Union related to matters prescribed in Schedule One of the Union Legislative List.
 
-(a) When the Pyidaungsu Hluttaw enacts a law, it may :
+97. (a) When the Pyidaungsu Hluttaw enacts a law, it may :
 
 (i) authorize to issue rules, regulations and by-laws concerning that law to any Union level organization formed under the Constitution;
 
@@ -1613,7 +1657,7 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 94/ jynfaxmifpkvTwfawmfuaomfvnf;aumif;? ,if;vTwfawmf\ tcGifhtmPm t&aomfvnf;aumif; jzefYcsdxkwfa0onfh tpD&ifcHpmrsm;? pm&Gufpmwrf;rsm;? vTwfawmf rSwfwrf;rsm;ESifh pyfvsOf;í w&m;pGJqdkydkifcGifh r&dSap&/
 
-##### Oya'jyKjcif; Oya'jyKjcif;
+##### Oya'jyKjcif;
 
 95/ (u) jynfolYvTwfawmfwGifjzpfap?  trsKd;om;vTwfawmfwGifjzpfap  pwif wifoGif;onfh Oya'Murf;udk vTwfawmfESpf&yfvHk;u twnfjyKvQif ,if; Oya'Murf;udk jynfaxmifpkvTwfawmfu twnfjyKonf[k rSwf,l&rnf? ( c ) Oya'Murf;wpf&yfESifhpyfvsOf;í  jynfolYvTwfawmfESifh  trsKd;om; vTwfawmfwdkY oabmuGJvGJygu jynfaxmifpkvTwfawmfwGif aqG;aEG; qkH;jzwf&rnf/
 
@@ -1641,7 +1685,7 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 ##### Legislation relating to Union Territories
 
-- The Pyidaungsu Hluttaw shall enact the required laws if the need arises to do so for the Union territories relating to matters for which legislative powers are vested to the
+99. The Pyidaungsu Hluttaw shall enact the required laws if the need arises to do so for the Union territories relating to matters for which legislative powers are vested to the
 
 [[END OF PAGE 81]]
 
@@ -1653,13 +1697,13 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 - r&Sdap&/
 
-##### tjcm;udpö&yfrsm;ESifY  pyfvsOf;í  Oya'jyKjcif; tjcm;udpö&yfrsm;ESifY  pyfvsOf;í  Oya'jyKjcif;
+##### tjcm;udpö&yfrsm;ESifY pyfvsOf;í Oya'jyKjcif;
 
 98/ jynfaxmifpk? wdkif;a'oBuD; odkYr[kwf jynfe,fESihf udk,fydkiftkyfcsKyfcGihf&wdkif; odkYr[kwf udk,fykdiftkyfcsKyfcGihf&a'oOD;pD;tzGJU  Oya'jyKpm&if;rsm;wGif  azmfjyrxm;aom tjcm;udpö&yfrsm;ESihfpyfvsOf;onfh Oya'jyKydkifcGihftmPmudk jynfaxmifpkvTwfawmfodkY tyfESif;onf/
 
-##### jynfaxmifpke,fajrrsm;twGuf  Oya'jyKjcif; jynfaxmifpke,fajrrsm;twGuf  Oya'jyKjcif;
+##### jynfaxmifpke,fajrrsm;twGuf Oya'jyKjcif;
 
-99/ wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmfudkjzpfap? udk,fydkiftkyfcsKyf cGifh&wdkif;OD;pD;tzGJU  odkYr[kwf udk,fydkiftkyfcsKyfcGifh&a'oOD;pD;tzGJUudkjzpfap Oya'jyKcGifh Region Hluttaw or the State Hluttaw, or Self-Administered Division Leading Body or Self-Administered Zone Leading Body.
+99/ wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmfudkjzpfap? udk,fydkiftkyfcsKyf cGifh&wdkif;OD;pD;tzGJU odkYr[kwf udk,fydkiftkyfcsKyfcGifh&a'oOD;pD;tzGJUudkjzpfap Oya'jyKcGifh
 
 [[END OF PAGE 82]]
 
@@ -1667,19 +1711,22 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 35
 
+Region Hluttaw or the State Hluttaw, or Self-Administered Division Leading Body or
+Self-Administered Zone Leading Body.
+
 ##### Submission of Bill
 
-(a) The Union level organizations formed under the Constitution shall have the right to submit the Bills relating to matters they administered among the matters included in the Union Legislative List to the Pyidaungsu Hluttaw in accord with the prescribed procedures.
+100. (a) The Union level organizations formed under the Constitution shall have the right to submit the Bills relating to matters they administered among the matters included in the Union Legislative List to the Pyidaungsu Hluttaw in accord with the prescribed procedures.
 
 (b) Bills relating to national plans, annual budgets and taxation, which are to be submitted exclusively by the Union Government shall be discussed and resolved at the Pyidaungsu Hluttaw in accord with the prescribed procedures.
 
-- The Bills submitted to the Pyidaungsu Hluttaw by the Union level organizations formed under the Constitution, except the Bills that are prescribed in the Constitution to be discussed and resolved exclusively at the Pyidaungsu Hluttaw, are entitled to initiate and discuss at either the Pyithu Hluttaw or the  Amyotha Hluttaw in accord with the prescribed procedures.
+101. The Bills submitted to the Pyidaungsu Hluttaw by the Union level organizations formed under the Constitution, except the Bills that are prescribed in the Constitution to be discussed and resolved exclusively at the Pyidaungsu Hluttaw, are entitled to initiate and discuss at either the Pyithu Hluttaw or the Amyotha Hluttaw in accord with the prescribed procedures.
 
-- The Bills, which are to be discussed and resolved exclusively at the Pyidaungsu Hluttaw need to be vetted before being discussed at the Pyidaungsu Hluttaw, those Bills shall be vetted jointly by the Pyithu Hluttaw Bill Committee and the  Amyotha Hluttaw Bill Committee, and the findings and remarks of the Joint Committee together with the Bill may be submitted to the Pyidaungsu Hluttaw session in accord with the prescribed procedures.
+102. The Bills, which are to be discussed and resolved exclusively at the Pyidaungsu Hluttaw need to be vetted before being discussed at the Pyidaungsu Hluttaw, those Bills shall be vetted jointly by the Pyithu Hluttaw Bill Committee and the Amyotha Hluttaw Bill Committee, and the findings and remarks of the Joint Committee together with the Bill may be submitted to the Pyidaungsu Hluttaw session in accord with the prescribed procedures.
 
 ##### Submission of  the Union Budget Bill
 
-(a) The President or the person assigned by him, on behalf of the Union Government, shall submit the Union Budget Bill to the Pyidaungsu Hluttaw.
+103. (a) The President or the person assigned by him, on behalf of the Union Government, shall submit the Union Budget Bill to the Pyidaungsu Hluttaw.
 
 [[END OF PAGE 83]]
 
@@ -1689,15 +1736,15 @@ jynfaxmifpkvTwfawmf udk,fpm;vS,frsm;\ rsm;&mqE´rJjzihf qkH;jzwf &rnf? ( c ) jyn
 
 tyfESif;xm;aom  udpörsm;ESifh  pyfvsOf;í  jynfaxmifpke,fajrrsm;twGuf  Oya' jy|mef;ay;&ef  vdktyfygu  jynfaxmifpkvTwfawmfu  vdktyfaomOya'ukd  jy|mef; ay;&rnf/
 
-##### Oya'Murf;wifoGif;jcif; Oya'Murf;wifoGif;jcif;
+##### Oya'Murf;wifoGif;jcif;
 
 100/ (u) zGJUpnf;ykHtajccHOya't&  zGJUpnf;onfh jynfaxmifpktqifh tzGJUtpnf; rsm;onf jynfaxmifpkOya'jyKpm&if;wGif yg&dSaomudpö&yfrsm;teuf rdrdwdkY pDrHcefYcGJonfh udpö&yfrsm;ESifh pyfvsOf;onfh Oya' Murf;rsm;udk owfrSwfxm;onfh enf;vrf;rsm;ESifhtnD jynfaxmifpk vTwfawmfodkY wifoGif;cGifh&dSonf? ( c ) jynfaxmifpktpdk;&tzGJUuom wifoGif;cGifh&dSaom EdkifiHawmf\ trsKd;om; pDrHudef;?  ESpfpOft&tokH;cefYrSef;ajcaiGpm&if;ESifh  tcGef  taumufqkdif&m Oya'Murf;rsm;udk owfrSwfxm;onfh enf;vrf;rsm;ESihftnD jynfaxmifpk vTwfawmfü aqG;aEG;qkH;jzwf&rnf/
 
-101/ jynfaxmifpkvTwfawmfüom aqG;aEG;qkH;jzwf&rnf[k zGJUpnf;ykHtajccHOya'ü owfrSwfaom Oya'Murf;rsm;rSty zGJUpnf;ykHtajccHOya't& zGJUpnf;onfh jynfaxmifpk tqifh tzGJUtpnf;rsm;u jynfaxmifpkvTwfawmfodkY wifoGif;aom Oya'Murf;rsm;udk owfrSwfxm;onhf  enf;vrf;rsm;ESihftnD  jynfolYvTwfawmfwGifjzpfap?  trßKd;om; vTwfawmfwGifjzpfap pwifaqG;aEG;aqmif&GufcGifh&dSonf/
+101/ jynfaxmifpkvTwfawmfüom aqG;aEG;qkH;jzwf&rnf[k zGJUpnf;ykHtajccHOya'ü owfrSwfaom Oya'Murf;rsm;rSty zGJUpnf;ykHtajccHOya't& zGJUpnf;onfh jynfaxmifpk tqifh tzGJUtpnf;rsm;u jynfaxmifpkvTwfawmfodkY wifoGif;aom Oya'Murf;rsm;udk owfrSwfxm;onhf enf;vrf;rsm;ESihftnD jynfolYvTwfawmfwGifjzpfap? trsKd;om; vTwfawmfwGifjzpfap pwifaqG;aEG;aqmif&GufcGifh&dSonf/
 
 102/ jynfaxmifpkvTwfawmfüom aqG;aEG;qkH;jzwf&rnfh Oya'Murf;rsm;ESifh pyfvsOf;í jynfaxmifpkvTwfawmf tpnf;ta0;ü aqG;aEG;jcif;rjyKrD tao;pdwf avhvmpdppf&ef vdktyfygu jynfolYvTwfawmf Oya'Murf;aumfrwDESifh trsKd;om;vTwfawmf Oya'Murf; aumfrwDwdkYtm; yl;aygif;avhvmpdppfapjcif;? ,if;yl;aygif;aumfrwD\ avhvmawGU&dScsuf ESifh  oabmxm;rSwfcsufrsm;udk owfrSwfxm;onfh enf;vrf;rsm;ESifhtnD Oya'Murf; ESifhtwl jynfaxmifpkvTwfawmf tpnf;ta0;odkY wifjyaqmif&Gufapjcif;wdkYudk jyKEdkif onf/
 
-##### jynfaxmifpk\b@maiG  t&toHk;qdkif&m  Oya'Murf;wifoGif;jcif; jynfaxmifpk\b@maiG  t&toHk;qdkif&m  Oya'Murf;wifoGif;jcif;
+##### jynfaxmifpk\b@maiG t&toHk;qdkif&m Oya'Murf;wifoGif;jcif;
 
 103/ (u) jynfaxmifpktpdk;&tzGJUudk,fpm; EdkifiHawmfor®w odkYr[kwf ,if;u wm0efay;tyfonfh yk*¾dKvfonf jynfaxmifpk\ b@maiGt&toHk; qdkif&m Oya'Murf;udk jynfaxmifpkvTwfawmfodkY wifjy&rnf?
 
@@ -1733,13 +1780,13 @@ tyfESif;xm;aom  udpörsm;ESifh  pyfvsOf;í  jynfaxmifpke,fajrrsm;twGuf  Oya' jy|
 
 ( c ) jynfaxmifpk\ b@maiGt&toHk;qdkif&m Oya'Murf;wGifyg&Sdaom -
 
-- zGJUpnf;yHktajccHOya't& zGJUpnf;xm;aom jynfaxmifpktqifh tzGJUtpnf;rsm;\ tBuD;trSL;rsm;ESifh  tzJGUtpnf;0ifrsm;\  vpm? p&dwfESifh ,if;tzGJUtpnf;rsm;\ toHk;p&dwfrsm;?
+(1) zGJUpnf;yHktajccHOya't& zGJUpnf;xm;aom jynfaxmifpktqifh tzGJUtpnf;rsm;\ tBuD;trSL;rsm;ESifh tzJGUtpnf;0ifrsm;\ vpm? p&dwfESifh ,if;tzGJUtpnf;rsm;\ toHk;p&dwfrsm;?
 
-- jynfaxmifpku ay;qyf&ef wm0ef&Sdaom a<u;NrDrsm;? ,if;a<u;NrD rsm;ESifh  qufET,faom  ukefusp&dwfrsm;?  jynfaxmifpku  acs;,laiG rsm;ESifh  qufET,faom tjcm;ukefusp&dwfrsm;?
+(2) jynfaxmifpku ay;qyf&ef wm0ef&Sdaom a<u;NrDrsm;? ,if;a<u;NrD rsm;ESifh qufET,faom ukefusp&dwfrsm;? jynfaxmifpku acs;,laiG rsm;ESifh qufET,faom tjcm;ukefusp&dwfrsm;?
 
-- w&m;½Hk; odkYr[kwf cHk½Hk; wpf½kH;½Hk;\ pD&ifcsuf? trdefY? 'Du&Dt& ay;aqmif&ef&Sdaom toHk;p&dwfrsm;?
+(3) w&m;½Hk; odkYr[kwf cHk½Hk; wpf½kH;½Hk;\ pD&ifcsuf? trdefY? 'Du&Dt& ay;aqmif&ef&Sdaom toHk;p&dwfrsm;?
 
-- wnfqJOya' wpf&yf&yft&jzpfap? tjynfjynfqdkif&m pmcsKyf wpfckckt& jzpfapuscH&rnfh tjcm;toHk;p&dwfrsm;ESifh pyfvsOf;í jynfaxmifpkvTwfawmfwGif  aqG;aEG;ydkifcGifh&Sdonf/  odkYaomf jiif;y,fjcif;? avQmhícGihfjyKjcif; rjyK&/
+(4) wnfqJOya' wpf&yf&yft&jzpfap? tjynfjynfqdkif&m pmcsKyf wpfckckt& jzpfapuscH&rnfh tjcm;toHk;p&dwfrsm;ESifh pyfvsOf;í jynfaxmifpkvTwfawmfwGif aqG;aEG;ydkifcGifh&Sdonf/ odkYaomf jiif;y,fjcif;? avQmhícGihfjyKjcif; rjyK&/
 
 ( * ) yk'frcGJ  (c)  yg  toHk;p&dwfrsm;rSty tjcm;toHk;p&dwfrsm; twGufudkrl jynfaxmifpkvTwfawmfu oabmwl twnfjyKjcif;? jiif;y,fjcif;? avQmh í cGifhjyKjcif;wdkYudk  trsm;qE´ESifhtnD aqmif&Guf&rnf?
 
@@ -1767,13 +1814,13 @@ tyfESif;xm;aom  udpörsm;ESifh  pyfvsOf;í  jynfaxmifpke,fajrrsm;twGuf  Oya' jy|
 
 ##### Promulgation as Law
 
-(a) The President shall sign the Bills approved or the Bills deemed to be approved by the Pyidaungsu Hluttaw, within 14 days after the day of receipt, and shall promulgate it as Law.
+105. (a) The President shall sign the Bills approved or the Bills deemed to be approved by the Pyidaungsu Hluttaw, within 14 days after the day of receipt, and shall promulgate it as Law.
 
 (b) The President, within the prescribed period, may send the Bill back to the Pyidaungsu Hluttaw together with his comments.
 
 (c) If the President does not send the Bill back to the Pyidaungsu Hluttaw together with his signature and comments within the prescribed period, or if  the  President does not sign to promulgate, on the day after the completion of that period, the Bill shall become a law as if he had signed it.
 
-(a) If the President sends the Bill back to the Pyidaungsu Hluttaw together with his comments within the prescribed period, the Pyidaungsu Hluttaw, after discussion of the President's comments, may accept his comment
+106. (a) If the President sends the Bill back to the Pyidaungsu Hluttaw together with his comments within the prescribed period, the Pyidaungsu Hluttaw, after discussion of the President's comments, may accept his comment
 
 [[END OF PAGE 87]]
 
@@ -1781,7 +1828,7 @@ tyfESif;xm;aom  udpörsm;ESifh  pyfvsOf;í  jynfaxmifpke,fajrrsm;twGuf  Oya' jy|
 
 37
 
-##### Oya'uJYodkYtmPmwnfaomtrdefY Oya'uJYodkYtmPmwnfaomtrdefY
+##### Oya'uJYodkYtmPmwnfaomtrdefY
 
 104/ jynfaxmifpkvTwfawmfonf EkdifiHawmfor®wu Oya'uJhodkY tmPmwnfaom trdefYwpf&yfukd xkwfjyefNyD; ,if;trdefYudk twnfjyKay;&ef jynfaxmifpkvTwfawmfodkY
 
@@ -1789,7 +1836,7 @@ tyfESif;xm;aom  udpörsm;ESifh  pyfvsOf;í  jynfaxmifpke,fajrrsm;twGuf  Oya' jy|
 
 ( * ) twnfjyKcsufr&&SdvQif  Oya'uJhodkY  tmPmwnfaomtrdefYonf twnfrjyKonfhaeYrSpí tmPmwnfjcif;rS &yfpJ&rnf/
 
-##### Oya'tjzpf  xkwfjyefaMunmjcif; Oya'tjzpf  xkwfjyefaMunmjcif;
+##### Oya'tjzpf xkwfjyefaMunmjcif;
 
 - 105/ (u) EdkifiHawmfor®wonf  jynfaxmifpkvTwfawmfrS  ay;ydkYvmonfh jynfaxmifpkvTwfawmfu  twnfjyKaom  odkYr[kwf  jynfaxmifpk vTwfawmfu twnfjyKonf[k rSwf,l&rnfjzpfaom Oya'Murf;rsm;udk vufcH&&dSonfhaeY\ aemufwpfaeYrS 14 &uftwGif; vufrSwfa&;xdk;í Oya'tjzpf xkwfjyefaMunm&rnf?
 
@@ -1843,15 +1890,15 @@ onf EkdifiHawmfor®w\ oabmxm;rSwfcsufrsm;ukd aqG;aEG;okH;oyf NyD;aemuf  EkdifiHa
 
 ##### Formation of the Pyithu Hluttaw
 
-- The Pyithu Hluttaw shall be formed with a maximum of 440 Hluttaw representatives as follows :
+109. The Pyithu Hluttaw shall be formed with a maximum of 440 Hluttaw representatives as follows :
 
-(a) not more than 330 Pyithu Hluttaw representatives elected prescribing electorate in accord with law on the basis of township as well as population or combining with an appropriate township which is contagious to the newly-formed township if it is more than 330 townships;
+(a) not more than 330 Pyithu Hluttaw representatives elected prescribing electorate in accord with law on the basis of township as well as population or combining with an appropriate township which is contiguous to the newly-formed township if it is more than 330 townships;
 
-(b) not  more  than  110  Pyithu Hluttaw representatives who are the  Defence Services personnel nominated by the Commander-in-Chief of the Defence Services in accord with the law.
+(b) not more than 110 Pyithu Hluttaw representatives who are the Defence Services personnel nominated by the Commander-in-Chief of the Defence Services in accord with the law.
 
 ##### Election of the Pyithu Hluttaw Chairperson
 
-(a) A Pyithu Hluttaw representative shall be elected as the Chairperson at the commencement of the first session of the Pyithu Hluttaw for its term.
+110. (a) A Pyithu Hluttaw representative shall be elected as the Chairperson at the commencement of the first session of the Pyithu Hluttaw for its term.
 
 (b) The Chairperson shall take an affirmation of office before the Pyithu Hluttaw;
 
@@ -1859,9 +1906,7 @@ onf EkdifiHawmfor®w\ oabmxm;rSwfcsufrsm;ukd aqG;aEG;okH;oyf NyD;aemuf  EkdifiHa
 
 ##### Election of the Speaker and the Deputy Speaker of the Pyithu Hluttaw
 
-(a) (i)
-
-The Pyithu Hluttaw representatives shall elect a Speaker and a Deputy Speaker from among the Pyithu Hluttaw representatives.
+111. (a) (i) The Pyithu Hluttaw representatives shall elect a Speaker and a Deputy Speaker from among the Pyithu Hluttaw representatives.
 
 [[END OF PAGE 91]]
 
@@ -1869,9 +1914,9 @@ The Pyithu Hluttaw representatives shall elect a Speaker and a Deputy Speaker fr
 
 39
 
-#### jynfolYvTwfawmf jynfolYvTwfawmf
+#### jynfolYvTwfawmf
 
-##### jynfolYvTwfawmfzGJUpnf;jcif; G jynfolYvTwfawmfzGJUpnf;jcif;
+##### jynfolYvTwfawmfzGJUpnf;jcif;
 
 109/ jynfolYvTwfawmfukd  vTwfawmfukd,fpm;vS,fOD;a&  trsm;qHk;  440  OD;jzihf atmufygtwkdif; zJGUpnf;&rnf -
 
@@ -1879,7 +1924,7 @@ The Pyithu Hluttaw representatives shall elect a Speaker and a Deputy Speaker fr
 
 ( c ) wyfrawmfumuG,fa&;OD;pD;csKyfu Oya'ESihftnD trnfpm&if; wifoGif; onhf  110  OD;xufrykdaom  wyfrawmfom;  jynfolYvTwfawmf udk,fpm;vS,frsm;/
 
-##### jynfolYvTwfawmf  obmywd  wifajr§mufjcif; jynfolYvTwfawmf  obmywd  wifajr§mufjcif;
+##### jynfolYvTwfawmf obmywd wifajr§mufjcif;
 
 - 110/ (u) jynfolYvTwfawmf oufwrf;wpf&yf\ yxrtBudrf jynfolYvTwfawmf tpnf;ta0; pwifusif;yonhftcg jynfolYvTwfawmfudk,fpm;vS,f wpfOD;tm; obmywdtjzpf wifajr§muf&rnf?
 
@@ -1887,7 +1932,7 @@ The Pyithu Hluttaw representatives shall elect a Speaker and a Deputy Speaker fr
 
 ( * ) obmywdonf jynfolYvTwfawmfOuú|ESihf 'kwd,Ouú| a&G;aumuf wifajr§mufNyD;onftxd  jynfolYvTwfawmftpnf;ta0;udk  BuD;Muyf uGyfuJ&rnf/
 
-##### jynfolYvTwfawmfOuú|ESihf  'kwd,Ouú|  a&G;aumufwifajr§mufjcif; jynfolYvTwfawmfOuú|ESihf  'kwd,Ouú|  a&G;aumufwifajr§mufjcif;
+##### jynfolYvTwfawmfOuú|ESihf 'kwd,Ouú| a&G;aumufwifajr§mufjcif;
 
 111/
 
@@ -1911,7 +1956,7 @@ jynfolYvTwfawmf  udk,fpm;vS,frsm;onf  jynfolYvTwfawmf Ouú|wpfOD;ESihf  'kwd,Ou�
 
 ##### Functions of the Speaker of the Pyithu Hluttaw
 
-- The Speaker of the Pyithu Hluttaw shall :
+112. The Speaker of the Pyithu Hluttaw shall :
 
 (a) supervise the Pyithu Hluttaw sessions;
 
@@ -1923,7 +1968,7 @@ jynfolYvTwfawmf  udk,fpm;vS,frsm;onf  jynfolYvTwfawmf Ouú|wpfOD;ESihf  'kwd,Ou�
 
 ##### Performance and termination of duties of the Speaker and   the Deputy Speaker of the Pyithu Hluttaw
 
-(a) The Speaker and the Deputy Speaker of the Pyithu Hluttaw shall perform their duties until the first session of the next term of the Pyithu Hluttaw is held.
+113. (a) The Speaker and the Deputy Speaker of the Pyithu Hluttaw shall perform their duties until the first session of the next term of the Pyithu Hluttaw is held.
 
 [[END OF PAGE 93]]
 
@@ -1931,13 +1976,13 @@ jynfolYvTwfawmf  udk,fpm;vS,frsm;onf  jynfolYvTwfawmf Ouú|wpfOD;ESihf  'kwd,Ou�
 
 40
 
-- jynfolYvTwfawmfOuú| odkYr[kwf 'kwd,Ouú|ae&m vpfvyfvQif teD;uyfqkH;usif;yaom jynfolYvTwfawmf tpnf;ta0;wGif tpm;xkd;a&G;aumufwifajr§muf&rnf?
+(2) jynfolYvTwfawmfOuú| odkYr[kwf 'kwd,Ouú|ae&m vpfvyfvQif teD;uyfqkH;usif;yaom jynfolYvTwfawmf tpnf;ta0;wGif tpm;xkd;a&G;aumufwifajr§muf&rnf?
 
-- jynfolYvTwfawmfOuú|onf Ouú|wm0efudk xrf;aqmifEdkifpGrf; r&Sdonhftcg  'kwd,Ouú|onf  Ouú|wm0efudk  ,m,D xrf;aqmif&rnf/
+(3) jynfolYvTwfawmfOuú|onf Ouú|wm0efudk xrf;aqmifEdkifpGrf; r&Sdonhftcg 'kwd,Ouú|onf Ouú|wm0efudk ,m,D xrf;aqmif&rnf/
 
 ( c ) jynfolYvTwfawmfOuú|ESihf  'kwd,Ouú|  a&G;aumufwifajr§muf&ef enf;vrf;rsm;udk Oya'jy|mef;owfrSwf&rnf/
 
-##### jynfolYvTwfawmfOuú|\  vkyfief;wm0ef jynfolYvTwfawmfOuú|\  vkyfief;wm0ef
+##### jynfolYvTwfawmfOuú|\ vkyfief;wm0ef
 
 112/ jynfolYvTwfawmfOuú|onf -
 
@@ -1949,7 +1994,7 @@ jynfolYvTwfawmf  udk,fpm;vS,frsm;onf  jynfolYvTwfawmf Ouú|wpfOD;ESihf  'kwd,Ou�
 
 (C) zJGUpnf;yHktajccHOya't&aomfvnf;aumif;? Oya'wpf&yf&yft&aomf vnf;aumif;  owfrSwfxm;onhf  tjcm;wm0efESihf  vkyfydkifcGifhrsm; aqmif&Guf&rnf/
 
-##### jynfolYvTwfawmfOuú|ESihf  'kwd,Ouú|  wdkY\  wm0efxrf;aqmifjcif;ESifh  &yfpJjcif; jynfolYvTwfawmfOuú|ESihf  'kwd,Ouú|  wdkY\  wm0efxrf;aqmifjcif;ESifh  &yfpJjcif;
+##### jynfolYvTwfawmfOuú|ESihf 'kwd,Ouú| wdkY\ wm0efxrf;aqmifjcif;ESifh &yfpJjcif;
 
 113/ (u) jynfolYvTwfawmfOuú|ESihf 'kwd,Ouú|wdkYonf aemufwpfBudrf jynfolY vTwfawmfoufwrf; yxrtpnf;ta0; pwifrusif;yrD tcsdeftxd Ouú|ESihf 'kwd,Ouú|wm0efudk xrf;aqmif&rnf?
 
@@ -1961,11 +2006,11 @@ jynfolYvTwfawmf  udk,fpm;vS,frsm;onf  jynfolYvTwfawmf Ouú|wpfOD;ESihf  'kwd,Ou�
 
 (b) If the Speaker or the Deputy Speaker resigns or has ceased to be a Pyithu Hluttaw representative, or has no right to continue to stand as a Pyithu Hluttaw representative, or is suspended from his position as  the Speaker or the Deputy Speaker by the Pyithu Hluttaw, or has passed away, he shall have ceased from his position.
 
-- Duties, powers and rights of the Speaker and the Deputy Speaker of the Pyithu Hluttaw shall be prescribed by law.
+114. Duties, powers and rights of the Speaker and the Deputy Speaker of the Pyithu Hluttaw shall be prescribed by law.
 
 ##### Formation of the Pyithu Hluttaw Committee, Commission and Bodies
 
-(a) The Pyithu Hluttaw shall form Bill Committee, Public  Accounts Committee, Hluttaw Rights Committee, and Government's Guarantees, Pledges and Undertakings V etting Committee with the Pyithu Hluttaw representatives.
+115. (a) The Pyithu Hluttaw shall form Bill Committee, Public Accounts Committee, Hluttaw Rights Committee, and Government's Guarantees, Pledges and Undertakings Vetting Committee with the Pyithu Hluttaw representatives.
 
 (b) When the occasion arises to have studies made and submitted on defence and security matters or Military affairs, the Pyithu Hluttaw shall form the Defence and Security Committee with the Pyithu Hluttaw representatives who are the Defence Services Personnel, for a limited time. The Defence and Security Committee so formed may, if necessary, be included suitable Pyithu Hluttaw representatives who are not the Defence Services Personnel in accord with the volume of work.
 
@@ -1983,13 +2028,11 @@ jynfolYvTwfawmf  udk,fpm;vS,frsm;onf  jynfolYvTwfawmf Ouú|wpfOD;ESihf  'kwd,Ou�
 
 114/ jynfolYvTwfawmfOuú|ESihf 'kwd,Ouú|wdkY\wm0ef? vkyfydkifcGihfESihf &ydkifcGihfrsm; udk Oya'jy|mef;owfrSwf&rnf/
 
-##### jynfolYvTwfawmfaumfrwD?  aumfr&SifESihf  tzGJUrsm; jynfolYvTwfawmfaumfrwD?  aumfr&SifESihf  tzGJUrsm;  zGJUpnf;jcif; zGJUpnf;jcif;
+##### jynfolYvTwfawmfaumfrwD? aumfr&SifESihf tzGJUrsm; zGJUpnf;jcif;
 
-- 115/ (u) jynfolYvTwfawmfonf Oya'Murf;aumfrwD? jynfolYaiGpm&if;aumfrwD? vTwfawmftcGifhta&;aumfrwD? tpdk;&\ tmrcHcsufrsm;? uwdrsm;ESihf wm0efcHcsufrsm; pdppfa&;aumfrwDwdkYudk jynfolYvTwfawmf udk,fpm;vS,f
+115/ (u) jynfolYvTwfawmfonf Oya'Murf;aumfrwD? jynfolYaiGpm&if;aumfrwD? vTwfawmftcGifhta&;aumfrwD? tpdk;&\ tmrcHcsufrsm;? uwdrsm;ESihf wm0efcHcsufrsm; pdppfa&;aumfrwDwdkYudk jynfolYvTwfawmf udk,fpm;vS,frsm;jzihf zGJUpnf;&rnf?
 
-( c ) umuG,fa&;ESihf vkHNcKHa&;qdkif&m udpörsm;udkvnf;aumif;? wyfrawmf qdkif&m  udpörsm;udkvnf;aumif;  avhvmwifjyap&ef  taMumif; ay:aygufygu  jynfolYvTwfawmfonf   umuG,fa&;ESihf  vkHNcKHa&; aumfrwDudk wyfrawmfom; jynfolYvTwfawmf udk,fpm;vS,frsm;jzihf umvowfrSwfí zGJUpnf;&rnf/  xdkodkYzGJUpnf;onhf  umuG,fa&;ESihf vkHNcKHa&;aumfrwDonf  vkyfief;vdktyfcsuft&  wyfrawmfom; r[kwfaom oihfavsmfonhf jynfolYvTwfawmf udk,fpm;vS,frsm;udkvnf;
-
-rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
+(c) umuG,fa&;ESihf vkHNcKHa&;qdkif&m udpörsm;udkvnf;aumif;? wyfrawmf qdkif&m udpörsm;udkvnf;aumif; avhvmwifjyap&ef taMumif; ay:aygufygu jynfolYvTwfawmfonf umuG,fa&;ESihf vkHNcKHa&; aumfrwDudk wyfrawmfom; jynfolYvTwfawmf udk,fpm;vS,frsm;jzihf umvowfrSwfí zGJUpnf;&rnf/ xdkodkYzGJUpnf;onhf umuG,fa&;ESihf vkHNcKHa&;aumfrwDonf vkyfief;vdktyfcsuft& wyfrawmfom; r[kwfaom oihfavsmfonhf jynfolYvTwfawmf udk,fpm;vS,frsm;udkvnf; xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 ( * ) jynfolYvTwfawmfonf Oya'jyKa&;? tkyfcsKyfa&;? wdkif;&if;om;vlrsKd;rsm; ta&;? pD;yGm;a&;? b@ma&;? vlrIa&;? EdkifiHjcm;a&;wdkYtjyif tjcm;a&;&m udpörsm;udk avhvmwifjyap&ef vdktyfygu vTwfawmf aumfrwDrsm;udk jynfolYvTwfawmfudk,fpm;vS,frsm;jzihf umvowfrSwfí zGJUpnf;Edkifonf? (C) jynfolYvTwfawmfonf jynfolYvTwfawmf aumfrwDrsm;\ tzGJU0ifOD;a&?
 
@@ -2003,15 +2046,15 @@ rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 116. If there arises a certain matter to co-ordinate with the  Amyotha Hluttaw, the Pyithu Hluttaw may elect and assign its representatives who will serve with the Joint Committee comprising an equal number of representatives from the Pyithu Hluttaw and the  Amyotha Hluttaw to form that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
 
-117. When both the Pyithu Hluttaw and the  Amyotha Hluttaw have certain matters to study, apart from matters to be performed by the Committees as prescribed in SubSections (a) and (b) of Section 115, the Speakers of these Hluttaws may co-ordinate among themselves and form a Joint Committee comprising an equal number of representatives from the Pyithu Hluttaw and the  Amyotha Hluttaw. The Pyithu Hluttaw may elect and assign the Pyithu Hluttaw representatives included in that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
+117. When both the Pyithu Hluttaw and the Amyotha Hluttaw have certain matters to study, apart from matters to be performed by the Committees as prescribed in Sub-Sections (a) and (b) of Section 115, the Speakers of these Hluttaws may co-ordinate among themselves and form a Joint Committee comprising an equal number of representatives from the Pyithu Hluttaw and the Amyotha Hluttaw. The Pyithu Hluttaw may elect and assign the Pyithu Hluttaw representatives included in that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
 
-(a) If there arises a need to study the remaining matters other than those studied by the Pyithu Hluttaw Committees, the Pyithu Hluttaw may form Commissions and Bodies with the Pyithu Hluttaw representatives or including suitable citizens.
+118. (a) If there arises a need to study the remaining matters other than those studied by the Pyithu Hluttaw Committees, the Pyithu Hluttaw may form Commissions and Bodies with the Pyithu Hluttaw representatives or including suitable citizens.
 
 (b) In forming the above Commissions and Bodies, the Pyithu Hluttaw shall determine the number of members, duties, powers, rights, and the terms of the said Commissions and Bodies.
 
 ##### Term of the Pyithu Hluttaw
 
-- The term of the Pyithu Hluttaw is five years from the day of its first session.
+119. The term of the Pyithu Hluttaw is five years from the day of its first session.
 
 [[END OF PAGE 97]]
 
@@ -2023,7 +2066,7 @@ rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 ( c ) jynfolYvTwfawmfonf txufygaumfr&SifESihf tzGJUrsm;udk zGJUpnf;onhf tcg ,if;aumfr&Sif odkYr[kwf tzGJUrsm;\  tzGJU0ifOD;a&?  wm0ef?  vkyfydkifcGihf? &ydkifcGihfESihfoufwrf;udkyg owfrSwfay;&rnf/
 
-##### jynfolYvTwfawmf\  oufwrf; jynfolYvTwfawmf\  oufwrf;
+##### jynfolYvTwfawmf\ oufwrf;
 
 119/ jynfolYvTwfawmf\oufwrf;onf ,if;vTwfawmf\ yxrtBudrf tpnf;ta0; pwifusif;yonhf aeY&ufrSpí ig;ESpf jzpfonf/
 
@@ -2035,7 +2078,7 @@ rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 ##### Qualification of the Pyithu Hluttaw representatives
 
-- Persons who possess the following qualifications shall be entitled to be elected as the  Pyithu Hluttaw representatives :
+120. Persons who possess the following qualifications shall be entitled to be elected as the Pyithu Hluttaw representatives :
 
 (a) person who has attained the age of 25 years;
 
@@ -2049,7 +2092,7 @@ rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 ##### Disqualification for the Pyithu Hluttaw Representatives
 
-- The following persons shall not be entitled to be elected as the Pyithu Hluttaw representatives :
+121. The following persons shall not be entitled to be elected as the Pyithu Hluttaw representatives :
 
 (a) a person serving prison term, having been convicted by the Court concerned for having committed an offence;
 
@@ -2067,7 +2110,7 @@ rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 43
 
-##### jynfolYvTwfawmfudk,fpm;vS,frsm;\  t&nftcsif; jynfolYvTwfawmfudk,fpm;vS,frsm;\  t&nftcsif;
+##### jynfolYvTwfawmfudk,fpm;vS,frsm;\ t&nftcsif;
 
 120/ atmufygt&nftcsif;rsm;ESihf jynfhpHkolonf jynfolYvTwfawmfodkY vTwfawmf udk,fpm;vS,ftjzpf a&G;aumufwifajr§mufcHydkifcGihf&Sdonf -
 
@@ -2081,11 +2124,14 @@ rsm;jzihf  zGJUpnf;&rnf? xnhfoGif;zGJUpnf;&ef vdktyfygu zGJUpnf;Edkifonf?
 
 (C) a&G;aumufwifajr§mufjcif;qdkif&m Oya'wGif owfrSwfxm;onhf t&nf tcsif;rsm;ESihf jynhfpHkol/
 
-##### jynfolYvTwfawmf  udk,fpm;vS,ftjzpf  a&G;aumufwifajr§mufcHykdifcGihf  r&Sdjcif; jynfolYvTwfawmf  udk,fpm;vS,ftjzpf  a&G;aumufwifajr§mufcHykdifcGihf  r&Sdjcif;
+##### jynfolYvTwfawmf udk,fpm;vS,ftjzpf a&G;aumufwifajr§mufcHykdifcGihf r&Sdjcif;
 
-121/ atmufygyk*d¾Kvfrsm;onf jynfolYvTwfawmf udk,fpm;vS,ftjzpf a&G;aumuf wifajr§mufcHykdifcGifhr&Sdap& (u) jypfrIwpfckckudk  usL;vGefojzihf  oufqdkif&mw&m;½Hk;\  jypfrIxif&Sm; pD&ifjcif;cH&í axmif'PfuscHae&ol? (  c  ) zJGUpnf;yHktajccHOya'tmPm rwnfrDujzpfap? tmPmwnfNyD;rS jzpfap jynfolYvTwfawmf udk,fpm;vS,ft&nftcsif; ysuf,Gif;aponhf jypfrIjzihf jypf'PfcsrSwfcH&jcif;twGuf  jynfolYvTwfawmfudk,fpm;vS,ftjzpf a&G;aumufwifajr§muf cHydkifcGihfr&SdaMumif;  oufqkdif&mu owfrSwfonhf umv ukefqHk;jcif; r&Sdao;ol? ( * ) pdwfayghoGyfonf[k  oufqdkif&mOya'u  jy|mef;xm;onhftwdkif; owfrSwfjcif;cH&ol? (C) vlrJGtjzpf oufqkdif&mw&m;½Hk;\ aMunmcHxm;&jcif;rS vGwfajrmufcGihf r&ao;ol? EdkifiHjcm;tpdk;&\  aus;Zl;opömudk cH,lapmihfa&Smuf½dkaool  odkYr[kwf EdkifiHjcm;tpdk;&\vufatmufcHjzpfol odkYr[kwf wdkif;wpfyg;\ EkdifiHom;
-
-( i ) jzpfol?
+121/ atmufygyk*d¾Kvfrsm;onf jynfolYvTwfawmf udk,fpm;vS,ftjzpf a&G;aumuf wifajr§mufcHykdifcGifhr&Sdap& -
+(u) jypfrIwpfckckudk usL;vGefojzihf oufqdkif&mw&m;½Hk;\ jypfrIxif&Sm; pD&ifjcif;cH&í axmif'PfuscHae&ol?
+(c) zJGUpnf;yHktajccHOya'tmPm rwnfrDujzpfap? tmPmwnfNyD;rS jzpfap jynfolYvTwfawmf udk,fpm;vS,ft&nftcsif; ysuf,Gif;aponhf jypfrIjzihf jypf'PfcsrSwfcH&jcif;twGuf jynfolYvTwfawmfudk,fpm;vS,ftjzpf a&G;aumufwifajr§muf cHydkifcGihfr&SdaMumif; oufqkdif&mu owfrSwfonhf umv ukefqHk;jcif; r&Sdao;ol?
+(*) pdwfayghoGyfonf[k oufqdkif&mOya'u jy|mef;xm;onhftwdkif; owfrSwfjcif;cH&ol?
+(C) vlrJGtjzpf oufqdkif&mw&m;½Hk;\ aMunmcHxm;&jcif;rS vGwfajrmufcGihf r&ao;ol?
+(i) EdkifiHjcm;tpdk;&\ aus;Zl;opömudk cH,lapmihfa&Smuf½dkaool odkYr[kwf EdkifiHjcm;tpdk;&\vufatmufcHjzpfol odkYr[kwf wdkif;wpfyg;\ EkdifiHom; jzpfol?
 
 [[END OF PAGE 100]]
 
@@ -2163,7 +2209,7 @@ axmufyHhcsD;jr§ihfxm;aom vpm? p&dwf? aiGaMu;aomf
 
 vnf;aumif; ryg0if?
 
-- EdkifiHawmfydkifajr?  tdrf?  taqmufttHk?  ,mOf? ypönf;[laompum;&yfwGif Oya'wpf&yf&yft&aomf vnf;aumif;? wm0eft&aomfvnf;aumif; EkdifiHawmf
+(2) EdkifiHawmfydkifajr? tdrf? taqmufttHk? ,mOf? ypönf;[laompum;&yfwGif Oya'wpf&yf&yft&aomf vnf;aumif;? wm0eft&aomfvnf;aumif; EkdifiHawmf
 
 [[END OF PAGE 102]]
 
@@ -2177,13 +2223,13 @@ apartments, State-owned aircraft, trains, vessels and motor vehicles and propert
 
 ##### Qualifications of the Pyithu Hluttaw representatives who are the Defence Services personnel
 
-- The Defence Services personnel, nominated by the Commander-in-Chief of the Defence Services as Pyithu Hluttaw representatives who are the Defence Services personnel in accord with the law, shall possess the prescribed qualifications for the Pyithu Hluttaw representatives.
+122. The Defence Services personnel, nominated by the Commander-in-Chief of the Defence Services as Pyithu Hluttaw representatives who are the Defence Services personnel in accord with the law, shall possess the prescribed qualifications for the Pyithu Hluttaw representatives.
 
 ##### Convening the Pyithu Hluttaw Session
 
-- The first regular session of a term of the Pyithu Hluttaw shall be held within 90 days after the commencement of the general election.
+123. The first regular session of a term of the Pyithu Hluttaw shall be held within 90 days after the commencement of the general election.
 
-(a) The first regular session of the Pyithu Hluttaw shall be held by the State Peace and Development Council after the Constitution comes into operation.
+124. (a) The first regular session of the Pyithu Hluttaw shall be held by the State Peace and Development Council after the Constitution comes into operation.
 
 (b) The first regular sessions for the forthcoming terms of the Pyithu Hluttaw shall be held by the Speaker of the Pyithu Hluttaw who continues to perform his duties in accord with the provisions of the Constitution.
 
@@ -2209,13 +2255,13 @@ u oHk;pJGcGihfjyKxm;aom  odkYr[kwf  EdkifiHawmfxHrS tcaMu;aiGjzihf iSm;&rf;oHk;p
 
 46
 
-(a) The representatives of the Pyithu Hluttaw shall take an affirmation of office as mentioned in Schedule Four before the Chairperson of the Pyithu Hluttaw at the first regular session of the Pyithu Hluttaw.
+125. (a) The representatives of the Pyithu Hluttaw shall take an affirmation of office as mentioned in Schedule Four before the Chairperson of the Pyithu Hluttaw at the first regular session of the Pyithu Hluttaw.
 
 (b) The representatives of the Pyithu Hluttaw who have not taken  an affirmation of office shall do so before the Speaker of the Hluttaw at the session of the Pyithu Hluttaw at which they first attend.
 
 126. The Speaker of the Pyithu Hluttaw shall convene the regular session  at least once a year. The maximum interval between regular sessions shall not exceed 12 months.
 
-- The following functions  shall be carried out at the Pyithu Hluttaw session :
+127. The following functions shall be carried out at the Pyithu Hluttaw session :
 
 (a) recording the address delivered by the President;
 
@@ -2233,7 +2279,7 @@ u oHk;pJGcGihfjyKxm;aom  odkYr[kwf  EdkifiHawmfxHrS tcaMu;aiGjzihf iSm;&rf;oHk;p
 
 (h) performing matters approved by the Speaker of the Pyithu Hluttaw.
 
-(a) The first day session of the Pyithu Hluttaw shall be valid if more than half of the total number of the Hluttaw representatives, who have the right to attend the session, are present. The session, if invalid, shall be adjourned.
+128. (a) The first day session of the Pyithu Hluttaw shall be valid if more than half of the total number of the Hluttaw representatives, who have the right to attend the session, are present. The session, if invalid, shall be adjourned.
 
 [[END OF PAGE 105]]
 
@@ -2247,9 +2293,19 @@ u oHk;pJGcGihfjyKxm;aom  odkYr[kwf  EdkifiHawmfxHrS tcaMu;aiGjzihf iSm;&rf;oHk;p
 
 126/ jynfolYvTwfawmfykHrSeftpnf;ta0;ukd jynfolYvTwfawmfOuú|u wpfESpfvQif tenf;qkH;wpfBudrf ac:,lusif;y&rnf/ ykHrSeftpnf;ta0;wpfBudrfESifh wpfBudrftMum; t&SnfMumqkH;umvonf 12 v xuf rykdap&/
 
-127/ jynfolYvTwfawmf tpnf;ta0;ü atmufygudpö&yfrsm;udk aqmif&Gufonf (u) EkdifiHawmfor®w ajymMum;onfhrdefYcGef;ukd rSwfwrf;wifjcif;? ( c ) EkdifiHawmfor®wu ay;ykdYaomo0PfvTmESifh Ouú|u cGifhjyKaom tjcm; o0PfvTmrsm;ukd zwfMum;jcif;? rSwfwrf;wifjcif;? ( * ) Oya'Murf;wifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? (C) zGJUpnf;ykHtajccHOya'yg  jy|mef;csufrsm;t&  jynfolYvTwfawmfu aqmif&Guf&rnfh udpö&yfrsm;ESifh pyfvsOf;í aqG;aEG;jcif;? qkH;jzwfjcif;? ( i ) jynfolYvTwfawmfokdY  wifoGif;onfh  tpD&ifcHpmrsm;ukd  aqG;aEG;jcif;? qkH;jzwfjcif;? rSwfwrf;wifjcif;? ( p ) tqkdwifoGif;jcif;? aqG;aEG;jcif;?  qkH;jzwfjcif;? (q) ar;cGef;ar;jref;jcif;?  ajzMum;jcif;? jynfolYvTwfawmfOuú|u  cGifhjyKonfh  udpö&yfrsm;ESifh  pyfvsOf;í
-
-( Z ) aqmif&Gufjcif;/
+127/ jynfolYvTwfawmf tpnf;ta0;ü atmufygudpö&yfrsm;udk aqmif&Gufonf –
+(u) EkdifiHawmfor®w ajymMum;onfhrdefYcGef;ukd rSwfwrf;wifjcif;?
+(c) EkdifiHawmfor®wu ay;ykdYaomo0PfvTmESifh Ouú|u cGifhjyKaom tjcm;
+o0PfvTmrsm;ukd zwfMum;jcif;? rSwfwrf;wifjcif;?
+(*) Oya'Murf;wifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;?
+(C) zGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;t& jynfolYvTwfawmfu
+aqmif&Guf&rnfh udpö&yfrsm;ESifh pyfvsOf;í aqG;aEG;jcif;? qkH;jzwfjcif;?
+(i) jynfolYvTwfawmfokdY wifoGif;onfh tpD&ifcHpmrsm;udk aqG;aEG;jcif;?
+qkH;jzwfjcif;? rSwfwrf;wifjcif;?
+(p) tqkdwifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;?
+(q) ar;cGef;ar;jref;jcif;? ajzMum;jcif;?
+(Z) jynfolYvTwfawmfOuú|u cGifhjyKonfh udpö&yfrsm;ESifh pyfvsOf;í
+aqmif&Gufjcif;/
 
 128/ (u) jynfolYvTwfawmf tpnf;ta0;wpf&yf\ yxraeYwGif jynfolYvTwfawmf tpnf;ta0;okdY  wufa&mufcGihf&Sdonfh  vTwfawmfukd,fpm;vS,f pkpkaygif;OD;a&\  xuf0ufausmfOD;a& wufa&mufvQif ,if;tpnf; ta0; txajrmufonf/ tu,fí txrajrmufygu tpnf;ta0;udk a&TUqdkif;usif;y&rnf?
 
@@ -2259,13 +2315,13 @@ u oHk;pJGcGihfjyKxm;aom  odkYr[kwf  EdkifiHawmfxHrS tcaMu;aiGjzihf iSm;&rf;oHk;p
 
 47
 
-(b) The sessions that are adjourned due to invalidity in accord with the Sub-Section (a) as well as the valid sessions that are extended will be valid if at least one-third of the Hluttaw representatives are present.
+128. (b) The sessions that are adjourned due to invalidity in accord with the Sub-Section (a) as well as the valid sessions that are extended will be valid if at least one-third of the Hluttaw representatives are present.
 
-(a) A matter that shall be resolved in the Pyithu Hluttaw, save as otherwise provided by the Constitution, shall be determined by a majority of votes of the Pyithu Hluttaw representatives who are present and voting.
+129. (a) A matter that shall be resolved in the Pyithu Hluttaw, save as otherwise provided by the Constitution, shall be determined by a majority of votes of the Pyithu Hluttaw representatives who are present and voting.
 
 (b) The Speaker of the Pyithu Hluttaw or the Deputy Speaker discharging duties as the Speaker at the Pyithu Hluttaw shall not vote in the first instance in the sessions of the Pyithu Hluttaw, but shall have and exercise a casting vote in the matter of an equality of votes.
 
-(a) If a Pyithu Hluttaw representative is, without permission of the Pyithu Hluttaw, absent from a Pyithu Hluttaw session for a period of at least 15 consecutive days, the Pyithu Hluttaw may declare his seat vacant. In computing the said period of 15 days, no account shall be taken of any period during which the session is adjourned.
+130. (a) If a Pyithu Hluttaw representative is, without permission of the Pyithu Hluttaw, absent from a Pyithu Hluttaw session for a period of at least 15 consecutive days, the Pyithu Hluttaw may declare his seat vacant. In computing the said period of 15 days, no account shall be taken of any period during which the session is adjourned.
 
 (b) If the Speaker of the Pyidaungsu Hluttaw informed  the Pyithu Hluttaw that a Pyithu Hluttaw representative is absent from a Pyidaungsu Hluttaw session for a period of 15 consecutive days without permission, the Pyithu Hluttaw shall take action against the said representative in accord with the prescribed procedures.
 
@@ -2331,7 +2387,7 @@ umvudk xnfhoGif;a&wGufjcif; rjyK&?
 
 132. The proceedings and the records of the Pyithu Hluttaw shall be published. However, the proceedings and the records prohibited by any law or the resolution of the Pyithu Hluttaw shall not be published.
 
-(a) Subject to the provisions of the Constitution and the law relating to the Pyithu Hluttaw, the Pyithu Hluttaw representatives shall have freedom of speech and voting at the Pyithu Hluttaw and the Pyithu Hluttaw Committee. Concerning the discussing, submitting and performing at the Pyithu Hluttaw and the Pyithu Hluttaw Committees, no action shall be taken against a Pyithu Hluttaw representative except under its law.
+133. (a) Subject to the provisions of the Constitution and the law relating to the Pyithu Hluttaw, the Pyithu Hluttaw representatives shall have freedom of speech and voting at the Pyithu Hluttaw and the Pyithu Hluttaw Committee. Concerning the discussing, submitting and performing at the Pyithu Hluttaw and the Pyithu Hluttaw Committees, no action shall be taken against a Pyithu Hluttaw representative except under its law.
 
 (b) Subject to the provisions of the Constitution and the provisions of the law relating to the Pyithu Hluttaw, members of the organizations or persons representing any of the Union level organizations formed under the Constitution who are permitted or invited to attend the session of the Pyithu Hluttaw or any committee of the Pyithu Hluttaw have the freedom of speech at the Pyithu Hluttaw and the Pyithu Hluttaw Committees. No action shall be taken against such members or persons for their submissions and speeches in the Pyithu Hluttaw and the Pyithu Hluttaw Committees by other law except under its law.
 
@@ -2347,9 +2403,9 @@ umvudk xnfhoGif;a&wGufjcif; rjyK&?
 
 49
 
-(c) If the persons mentioned in Sub-Sections (a) and (b) committed assault in exercising the said privileges, they shall be liable to punishment under the regulations, by-laws, procedures of the Pyithu Hluttaw or the existing laws.
+133. (c) If the persons mentioned in Sub-Sections (a) and (b) committed assault in exercising the said privileges, they shall be liable to punishment under the regulations, by-laws, procedures of the Pyithu Hluttaw or the existing laws.
 
-(a) If there is a need to arrest a Pyithu Hluttaw representative attending the session or a person attending the Pyithu Hluttaw session with the permission or invitation of the Speaker of the Pyithu Hluttaw, the credible evidence shall be submitted to the Speaker of the Pyithu Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Pyithu Hluttaw.
+134. (a) If there is a need to arrest a Pyithu Hluttaw representative attending the session or a person attending the Pyithu Hluttaw session with the permission or invitation of the Speaker of the Pyithu Hluttaw, the credible evidence shall be submitted to the Speaker of the Pyithu Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Pyithu Hluttaw.
 
 (b) If there is a need to arrest a member of a Committee or Commission or the Body of the Pyithu Hluttaw attending session of any Committee or session of Commission or the Body formed by the Pyithu Hluttaw, the credible evidence shall be submitted to the Speaker of the Pyithu Hluttaw through the Head of the Committee or Commission or Body concerned. He shall not be arrested without the prior permission of the Speaker of the Pyithu Hluttaw.
 
@@ -2383,13 +2439,13 @@ umvudk xnfhoGif;a&wGufjcif; rjyK&?
 
 136. Bills relating to other matters , except the matters prescribed in the Constitution that the Bill shall be submitted and passed exclusively by the Pyidaungsu Hluttaw stated in the Schedule One of Union Legislative List, shall be initiated in the Pyithu Hluttaw in accord with the prescribed procedures.
 
-(a) After issuing any rule, regulation or by-law in accord with the law enacted by the Pyidaungsu Hluttaw, the Body concerned shall distribute and submit the said rule, regulation or by-law to its representatives at the nearest regular session of the Pyithu Hluttaw with the permitted arrangement of the Speaker of the Hluttaw.
+137. (a) After issuing any rule, regulation or by-law in accord with the law enacted by the Pyidaungsu Hluttaw, the Body concerned shall distribute and submit the said rule, regulation or by-law to its representatives at the nearest regular session of the Pyithu Hluttaw with the permitted arrangement of the Speaker of the Hluttaw.
 
-(b) If it is found that a rule, regulation or by-law is in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the Pyithu Hluttaw within 90 days from the day that rule, regulation or by-law is submitted and distributed.
+(b) If it is found that a rule, regulation or by-law is not in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the Pyithu Hluttaw within 90 days from the day that rule, regulation or by-law is submitted and distributed.
 
 (c) If there is a disagreement between the Pyithu Hluttaw and the  Amyotha Hluttaw to annul or amend any rule, regulation or by-law, it shall be submitted to the Pyidaungsu Hluttaw.
 
-(a) If Bills submitted by any Union level organization formed under the Constitution are sent in accord with the prescribed procedures of the Pyidaungsu Hluttaw, it shall be deemed that such Bills are initiated in the Pyithu Hluttaw, and shall be discussed and resolved in the Pyithu Hluttaw.
+138. (a) If Bills submitted by any Union level organization formed under the Constitution are sent in accord with the prescribed procedures of the Pyidaungsu Hluttaw, it shall be deemed that such Bills are initiated in the Pyithu Hluttaw, and shall be discussed and resolved in the Pyithu Hluttaw.
 
 (b) Bills relating to other matters , except the matters prescribed in the Constitution that the Bill shall be submitted and passed exclusively by the
 
@@ -2471,13 +2527,13 @@ Pyidaungsu Hluttaw stated in the Union Legislative List, shall be initiated in t
 
 (c) The Bills passed by the Pyithu Hluttaw shall be sent to the  Amyotha Hluttaw to continue to discuss and resolve.
 
-(a) After receiving a Bill sent by the  Amyotha Hluttaw, the Pyithu Hluttaw may resolve to agree or disagree, or agree with amendments in accord with the resolution of the  Amyotha Hluttaw. The Bill shall be sent back to the  Amyotha Hluttaw together with the resolution of the Pyithu Hluttaw.
+139. (a) After receiving a Bill sent by the Amyotha Hluttaw, the Pyithu Hluttaw may resolve to agree or disagree, or agree with amendments in accord with the resolution of the Amyotha Hluttaw. The Bill shall be sent back to the Amyotha Hluttaw together with the resolution of the Pyithu Hluttaw.
 
 (b) When the Pyithu Hluttaw recieves the Bill with amendments from the Amyotha Hluttaw it shall, if it accepts the Bill with amendments of the Amyotha Hluttaw, send to the Speaker of the Pyidaungsu Hluttaw.
 
 (c) If there is a disagreement between the Pyithu Hluttaw and the  Amyotha Hluttaw relating to the Bill sent to the  Amyotha Hluttaw, the Pyithu Hluttaw shall take the resolution of the Pyidaungsu Hluttaw.
 
-- Members of the organization representing any Union level Body formed under the Constitution are entitled :
+140. Members of the organization representing any Union level Body formed under the Constitution are entitled :
 
 (a) to explain, converse and discuss Bills or matters relating to their Bodies when they are attending  the Pyithu Hluttaw session with the permission of the Speaker of the Pyithu Hluttaw;
 
@@ -2487,59 +2543,37 @@ Pyidaungsu Hluttaw stated in the Union Legislative List, shall be initiated in t
 
 [[START OF PAGE 116]]
 
-139/
-
-( * )
-
-(u)
-
-( c )
-
-( * )
-
-51
-
 wifoGif;qHk;jzwf&rnf[k zGJUpnf;yHktajccHOya'ü owfrSwfjy|mef;xm;
-
+onhf udpö&yfrsm;rSty usefudpö&yfrsm;ESihf pyfvsOf;aom Oya'Murf;rsm;udk
 Oya'ESihftnD jynfolYvTwfawmfodkY pwifwifoGif;cGihf&Sdonf/ ,if;Oya'
-
-onhf udpö&yfrsm;rSty usefudpö&yfrsm;ESihf  pyfvsOf;aom  Oya'Murf;rsm;udk
-
-Murf;rsm;udk  owfrSwfxm;onhf  enf;vrf;rsm;ESihftnD  jynfolY
-
-jynfolYvTwfawmfu  twnfjyKonhf  Oya'Murf;rsm;udk  qufvuf
-
+Murf;rsm;udk owfrSwfxm;onhf enf;vrf;rsm;ESihftnD jynfolY
 vTwfawmfü aqG;aEG;qHk;jzwf&rnf?
-
+(*) jynfolYvTwfawmfu twnfjyKonhf Oya'Murf;rsm;udk qufvuf
 aqG;aEG;qHk;jzwfEdkif&ef trsKd;om;vTwfawmfodkY ay;ydkY&rnf/
-
-jynfolYvTwfawmfonf trsKd;om;vTwfawmfu ay;ydkYaom Oya'Murf;
-
+139/ (u) jynfolYvTwfawmfonf trsKd;om;vTwfawmfu ay;ydkYaom Oya'Murf;
+wpf&yfudk vufcH&&Sdonhftcg trsKd;om;vTwfawmfu qHk;jzwfonfh
 twdkif; oabmwlaMumif; odkYr[kwf oabmrwlaMumif; odkYr[kwf
-
-wpf&yfudk  vufcH&&Sdonhftcg trsKd;om;vTwfawmfu qHk;jzwfonfh
-
 jyifqifcsufrsm;jzifh oabmwlaMumif; qHk;jzwfEdkifonf/ xdkOya'Murf;
-
-jyefvnfay;ydkY&rnf?
-
 udk jynfolYvTwfawmf\ qHk;jzwfcsufESifhtwl trsKd;om;vTwfawmfodkY
-
-jynfolYvTwfawmfu ay;ydkYcJhonhfOya'Murf;udk trsKd;om;vTwfawmfu
-
+jyefvnfay;ydkY&rnf?
+(c) jynfolYvTwfawmfu ay;ydkYcJhonhfOya'Murf;udk trsKd;om;vTwfawmfu
+jyifqifcsufrsm;jzifh jyefvnfay;ydkYvmvQif jynfolYvTwfawmfonf
 trsKd;om;vTwfawmf\ jyifqifcsufudk vufcHygu ,if;Oya'Murf;udk
-
-jyifqifcsufrsm;jzifh  jyefvnfay;ydkYvmvQif  jynfolYvTwfawmfonf
-
 jynfaxmifpkvTwfawmfem,uxH ay;ydkY&rnf?
-
-wpf&yfESifhpyfvsOf;í  trsKd;om;vTwfawmfESihf  oabmuJGvJGvQif
-
-jynfolYvTwfawmfonf trsKd;om;vTwfawmfodkY ay;ydkYcJhaom Oya'Murf;
-
+(*) jynfolYvTwfawmfonf trsKd;om;vTwfawmfodkY ay;ydkYcJhaom Oya'Murf;
+wpf&yfESifhpyfvsOf;í trsKd;om;vTwfawmfESihf oabmuJGvJGvQif
 jynfaxmifpkvTwfawmf\ tqHk;tjzwf &,l&rnf/
-
-140/ zJGUpnf;yHktajccHOya't&    zJGUpnf;onhf  jynfaxmifpktqifh  tzJGUtpnf; wpf&yf&yfudk udk,fpm;jyKaom tzJGUtpnf;0ifrsm;onf (u) jynfolYvTwfawmfOuú|\ cGifhjyKcsufjzifh jynfolYvTwfawmf tpnf;ta0; odkY  wufa&mufonhftcg rdrdtzJGUtpnf;ESihf oufqdkifaom Oya'Murf; rsm;  okdYr[kwf  udpö&yfrsm;ESihfpyfvsOf;í  &Sif;vif;ajymqdkaqG;aEG;cGifh  &dSonf? ( c ) jynfolYvTwfawmfaumfrwDrsm;? aumfr&Sifrsm;ESihf tzJGUrsm;\ tpnf; ta0;rsm;odkY ,if;aumfrwD? aumfr&Sif odkYr[kwf tzJGUtBuD;trSL;\ cGifhjyKcsufjzihf  wufa&mufonhftcg rdrdtzJGUtpnf;ESihf oufqdkifaom Oya'Murf;rsm;  okdYr[kwf  udpö&yfrsm;ESihfpyfvsOf;í  &Sif;vif;ajymqdk aqG;aEG;cGifh&Sdonf/
+140/ zGJUpnf;yHktajccHOya't& zGJUpnf;onhf jynfaxmifpktqifh tzJGUtpnf;
+wpf&yf&yfudk udk,fpm;jyKaom tzJGUtpnf;0ifrsm;onf –
+(u) jynfolYvTwfawmfOuú|\ cGifhjyKcsufjzifh jynfolYvTwfawmf tpnf;ta0;
+odkY wufa&mufonhftcg rdrdtzJGUtpnf;ESihf oufqdkifaom Oya'Murf;
+rsm; okdYr[kwf udpö&yfrsm;ESihfpyfvsOf;í &Sif;vif;ajymqdkaqG;aEG;cGifh &dSonf?
+(c) jynfolYvTwfawmfaumfrwDrsm;? aumfr&Sifrsm;ESihf tzJGUrsm;\ tpnf;
+ta0;rsm;odkY ,if;aumfrwD? aumfr&Sif odkYr[kwf tzJGUtBuD;trSL;\
+cGifhjyKcsufjzihf wufa&mufonhftcg rdrdtzJGUtpnf;ESihf oufqdkifaom
+Oya'Murf;rsm; okdYr[kwf udpö&yfrsm;ESihfpyfvsOf;í &Sif;vif;ajymqdk
+aqG;aEG;cGifh&Sdonf/
+51
 
 [[END OF PAGE 116]]
 
@@ -2551,7 +2585,7 @@ jynfaxmifpkvTwfawmf\ tqHk;tjzwf &,l&rnf/
 
 ##### Formation of the  Amyotha Hluttaw
 
-- The Amyotha Hluttaw shall be formed with a maximum of 224 Hluttaw representatives as follows :
+141. The Amyotha Hluttaw shall be formed with a maximum of 224 Hluttaw representatives as follows :
 
 (a) 168 Amyotha Hluttaw  representatives elected in an equal number of 12 representatives from each Region or State inclusive of relevant Union territories and including one representative from each Self-Administered Division or Self-Administered Zone;
 
@@ -2561,7 +2595,7 @@ jynfaxmifpkvTwfawmf\ tqHk;tjzwf &,l&rnf/
 
 ##### Election of Chairperson of the   Amyotha Hluttaw
 
-- Election of Chairperson of the  Amyotha Hluttaw shall be carried out subject to the provisions relating to the election of Chairperson of the Pyithu Hluttaw under Section 110.
+142. Election of Chairperson of the Amyotha Hluttaw shall be carried out subject to the provisions relating to the election of Chairperson of the Pyithu Hluttaw under Section 110.
 
 [[END OF PAGE 117]]
 
@@ -2593,21 +2627,21 @@ jynfaxmifpkvTwfawmf\ tqHk;tjzwf &,l&rnf/
 
 ##### Election of the Speaker and the Deputy Speaker of the  Amyotha Hluttaw
 
-- Election of the Speaker and the Deputy Speaker of the  Amyotha Hluttaw shall be carried out subject to the provisions relating to the election of the Speaker and the Deputy Speaker of the Pyithu Hluttaw under Section 111.
+143. Election of the Speaker and the Deputy Speaker of the Amyotha Hluttaw shall be carried out subject to the provisions relating to the election of the Speaker and the Deputy Speaker of the Pyithu Hluttaw under Section 111.
 
 ##### Duties of the Speaker of the  Amyotha Hluttaw
 
-- The duties of the Speaker of the  Amyotha Hluttaw shall be subject to the provisions relating to the duties of the Speaker of the Pyithu Hluttaw under Section 112.
+144. The duties of the Speaker of the Amyotha Hluttaw shall be subject to the provisions relating to the duties of the Speaker of the Pyithu Hluttaw under Section 112.
 
 ##### Performance and termination of duties of the Speaker and the Deputy Speaker of the  Amyotha Hluttaw
 
-- Performance and termination of duties of the Speaker and the Deputy Speaker of the  Amyotha Hluttaw shall be subject to the provisions relating to the performance and termination of duties of the Speaker and the Deputy Speaker of the Pyithu Hluttaw under Section 113.
+145. Performance and termination of duties of the Speaker and the Deputy Speaker of the Amyotha Hluttaw shall be subject to the provisions relating to the performance and termination of duties of the Speaker and the Deputy Speaker of the Pyithu Hluttaw under Section 113.
 
-- Duties, powers and rights of the Speaker and the Deputy Speaker of the   Amyotha Hluttaw shall be prescribed by law.
+146. Duties, powers and rights of the Speaker and the Deputy Speaker of the Amyotha Hluttaw shall be prescribed by law.
 
 ##### Formation of the  Amyotha Hluttaw Committees, Commissions and Bodies
 
-(a) The Amyotha Hluttaw shall form Bill Committee, Public Accounts Committee, Hluttaw Rights Committee, and Government's Guarantees, Pledges and Undertakings V etting Committee with the   Amyotha Hluttaw representatives.
+147. (a) The Amyotha Hluttaw shall form Bill Committee, Public Accounts Committee, Hluttaw Rights Committee, and Government's Guarantees, Pledges and Undertakings Vetting Committee with the Amyotha Hluttaw representatives.
 
 (b) When the occasion arises to have studies made and submitted on defence and security matters or Military affairs, the   Amyotha Hluttaw shall form the  Defence and Security Committee with the Amyotha Hluttaw representatives who are the Defence Services personnel, for a limited
 
@@ -2633,7 +2667,16 @@ jynfaxmifpkvTwfawmf\ tqHk;tjzwf &,l&rnf/
 
 ##### trsKd;om;vTwfawmfaumfrwD?  aumfr&SifESifh  tzGJUrsm;  zGJUpnf;jcif; trsKd;om;vTwfawmfaumfrwD?  aumfr&SifESifh  tzGJUrsm;  zGJUpnf;jcif;
 
-147/ (u) trsKd;om;vTwfawmfonf  Oya'Murf;aumfrwD?  jynfolYaiGpm&if; aumfrwD?  vTwfawmftcGifhta&;aumfrwD?  tpdk;&\tmrcHcsufrsm;? uwdrsm;ESihf  wm0efcHcsufrsm;  pdppfa&;aumfrwDwdkYudk  trsKd;om; vTwfawmfudk,fpm;vS,frsm;jzihf zGJUpnf;&rnf? ( c ) umuG,fa&;ESihf vkHNcKHa&;qdkif&m udpörsm;udkvnf;aumif;? wyfrawmf qdkif&m  udpörsm;udkvnf;aumif;  avhvmwifjyap&ef  taMumif; ay:aygufygu  trsKd;om;vTwfawmfonf  umuG,fa&;ESihf  vkHNcKHa&; aumfrwDudk wyfrawmfom; trsKd;om;vTwfawmfudk,fpm;vS,frsm;jzihf umvowfrSwfí zGJUpnf;&rnf/  xdkodkYzGJUpnf;onhf  umuG,fa&;ESihf vkHNcKHa&;aumfrwDonf vkyfief;vdktyfcsuft& wyfrawmfom; r[kwf time. The Defence and Security Committee so formed may, if necessary, be included suitable   Amyotha Hluttaw representatives who are not the Defence Services personnel in accord with the volume of work.
+147/ (u) trsKd;om;vTwfawmfonf Oya'Murf;aumfrwD? jynfolYaiGpm&if;
+aumfrwD? vTwfawmftcGifhta&;aumfrwD? tpdk;&\tmrcHcsufrsm;?
+uwdrsm;ESihf wm0efcHcsufrsm; pdppfa&;aumfrwDwdkYudk trsKd;om;
+vTwfawmfudk,fpm;vS,frsm;jzihf zGJUpnf;&rnf?
+(c) umuG,fa&;ESihf vkHNcKHa&;qdkif&m udpörsm;udkvnf;aumif;? wyfrawmf
+qdkif&m udpörsm;udkvnf;aumif; avhvmwifjyap&ef taMumif;
+ay:aygufygu trsKd;om;vTwfawmfonf umuG,fa&;ESihf vkHNcKHa&;
+aumfrwDudk wyfrawmfom; trsKd;om;vTwfawmfudk,fpm;vS,frsm;jzihf
+umvowfrSwfí zGJUpnf;&rnf/ xdkodkYzGJUpnf;onhf umuG,fa&;ESihf
+vkHNcKHa&;aumfrwDonf vkyfief;vdktyfcsuft& wyfrawmfom; r[kwf
 
 [[END OF PAGE 120]]
 
@@ -2641,13 +2684,15 @@ jynfaxmifpkvTwfawmf\ tqHk;tjzwf &,l&rnf/
 
 54
 
-(c) If there arises a need to study and submit on other affairs, in addition to legislature, executive, national races affairs, economics, finance, social and foreign affairs, the Hluttaw Committees may be formed with the  Amyotha Hluttaw representatives for a limited time.
+time. The Defence and Security Committee so formed may, if necessary, be included suitable Amyotha Hluttaw representatives who are not the Defence Services personnel in accord with the volume of work.
+
+(c) If there arises a need to study and submit on other affairs, in addition to legislature, executive, national races affairs, economics, finance, social and foreign affairs, the Hluttaw Committees may be formed with the Amyotha Hluttaw representatives for a limited time.
 
 (d) The Amyotha Hluttaw shall determine the number of members, duties, powers, rights, and term of the   Amyotha Hluttaw Committees.
 
 148. If there arises a certain matter to co-ordinate with the Pyithu Hluttaw, the   Amyotha Hluttaw may elect and assign its representatives who will serve with the Joint Committee comprising an equal number of representatives from the   Amyotha Hluttaw and the Pyithu Hluttaw to form that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
 
-149. When both the  Amyotha Hluttaw and the Pyithu Hluttaw have certain matters to study, apart from matters to be performed by the Committees as prescribed in SubSections (a) and (b) of Section 147, the Speakers of these Hluttaws may co-ordinate among themselves and form a Joint Committee comprising an equal number of representatives from the   Amyotha Hluttaw and the Pyithu Hluttaw. The   Amyotha Hluttaw may elect and assign the   Amyotha Hluttaw representatives included in that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
+149. When both the Amyotha Hluttaw and the Pyithu Hluttaw have certain matters to study, apart from matters to be performed by the Committees as prescribed in Sub-Sections (a) and (b) of Section 147, the Speakers of these Hluttaws may co-ordinate among themselves and form a Joint Committee comprising an equal number of representatives from the Amyotha Hluttaw and the Pyithu Hluttaw. The Amyotha Hluttaw may elect and assign the Amyotha Hluttaw representatives included in that Committee. The term of the Joint Committee shall be until the time they have submitted the report to the Hluttaw concerned.
 
 150. Formation of the Amyotha Hluttaw Commissions and Bodies of the Amyotha Hluttaw shall be carried out subject to the provisions relating to the formation of  Commission and Bodies of the Pyithu Hluttaw under Section 118.
 
@@ -2667,11 +2712,11 @@ aom oihfavsmfonfh trsKd;om;vTwfawmf udk,fpm;vS,frsm;udkvnf; xnhfoGif;zGJUpnf;&ef
 
 ##### Term of the   Amyotha Hluttaw
 
-- The term of the   Amyotha Hluttaw is the same as the term of the Pyithu Hluttaw. The term of the  Amyotha Hluttaw expires on the day of the expiry of the Pyithu Hluttaw.
+151. The term of the Amyotha Hluttaw is the same as the term of the Pyithu Hluttaw. The term of the Amyotha Hluttaw expires on the day of the expiry of the Pyithu Hluttaw.
 
 ##### Qualifications of the  Amyotha Hluttaw representatives
 
-- The Amyotha Hluttaw representatives shall be :
+152. The Amyotha Hluttaw representatives shall be :
 
 (a) persons who have attained the age of 30 years;
 
@@ -2681,15 +2726,15 @@ aom oihfavsmfonfh trsKd;om;vTwfawmf udk,fpm;vS,frsm;udkvnf; xnhfoGif;zGJUpnf;&ef
 
 ##### Qualifications of the Amyotha Hluttaw representatives who are the Defence Services personnel
 
-- The Defence Services personnel, nominated by the Commander-in-Chief of the Defence Services as the  Amyotha Hluttaw representatives who are the Defence Services personnel in accord with the law, shall possess the prescribed qualifications for the  Amyotha Hluttaw representatives.
+153. The Defence Services personnel, nominated by the Commander-in-Chief of the Defence Services as the Amyotha Hluttaw representatives who are the Defence Services personnel in accord with the law, shall possess the prescribed qualifications for the Amyotha Hluttaw representatives.
 
 ##### Convening  of the Amyotha Hluttaw Session
 
-(a) The commencement of the term of the  Amyotha Hluttaw is the day of the commencement of the term of the Pyithu Hluttaw.
+154. (a) The commencement of the term of the Amyotha Hluttaw is the day of the commencement of the term of the Pyithu Hluttaw.
 
 (b) The first regular session of the  Amyotha Hluttaw shall be held within seven days after the commencement of the term of that Hluttaw.
 
-- Convening the  Amyotha Hluttaw session shall be carried out subject to the provisions relating to convening of the Pyithu Hluttaw sessions under Sections 124 to 135.
+155. Convening the Amyotha Hluttaw session shall be carried out subject to the provisions relating to convening of the Pyithu Hluttaw sessions under Sections 124 to 135.
 
 [[END OF PAGE 123]]
 
@@ -2729,13 +2774,13 @@ trsKd;om;vTwfawmf udk,fpm;vS,frsm;onf (u) touf 30 ESpf jynfhNyD;olrsm; jzpf&rnf?
 
 156. Bills relating to other matters, except the matters prescribed in the Constitution that the Bill was submitted and passed exclusively by the Pyidaungsu Hluttaw stated in Union Legislative List, shall be initiated in the  Amyotha Hluttaw in accord with the prescribed procedures.
 
-(a) After issuing a rule, regulation or by-law in accord with the law enacted by the Pyidaungsu Hluttaw, the Body concerned shall distribute and submit the said rule, regulation or by-law to its representatives at the nearest regular session of the  Amyotha Hluttaw with the permitted arrangement of the Speaker of the Hluttaw.
+157. (a) After issuing a rule, regulation or by-law in accord with the law enacted by the Pyidaungsu Hluttaw, the Body concerned shall distribute and submit the said rule, regulation or by-law to its representatives at the nearest regular session of the Amyotha Hluttaw with the permitted arrangement of the Speaker of the Hluttaw.
 
-(b) If it is found that a rule, regulation or by-law is in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the  Amyotha Hluttaw within 90 days from the day that rule, regulation or  by-law is submitted and distributed.
+(b) If it is found that a rule, regulation or by-law is not in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the Amyotha Hluttaw within 90 days from the day that rule, regulation or by-law is submitted and distributed.
 
 (c) If there is a disagreement between the  Amyotha Hluttaw and the Pyithu Hluttaw to annul or amend any rule, regulation or by-law, it shall be submitted to the Pyidaungsu Hluttaw.
 
-(a) If Bills submitted by any Union level organization formed under the Constitution are sent in accord with prescribed procedures of the Pyidaungsu Hluttaw, it shall be deemed that such Bills are initiated in the Amyotha Hluttaw, and shall be discussed and resolved in the Amyotha Hluttaw.
+158. (a) If Bills submitted by any Union level organization formed under the Constitution are sent in accord with prescribed procedures of the Pyidaungsu Hluttaw, it shall be deemed that such Bills are initiated in the Amyotha Hluttaw, and shall be discussed and resolved in the Amyotha Hluttaw.
 
 (b) Bills relating to other matters, except the matters prescribed in the Constitution that the Bill was submitted and passed exclusively by the Pyidaungsu Hluttaw stated in the Union Legislative List shall be initiated in
 
@@ -2821,7 +2866,7 @@ the  Amyotha Hluttaw in accord with the law. Such Bills shall be discussed and r
 
 (c) The Bills passed by the  Amyotha Hluttaw shall be sent to the Pyithu Hluttaw to continue to discuss and to resolve.
 
-(a) After receiving a Bill sent by the Pyithu Hluttaw, the  Amyotha Hluttaw may resolve to agree or disagree, or agree with amendments in accord with the resolution of the Pyithu Hluttaw. The Bill shall be sent back to the Pyithu Hluttaw together with the resolution of the  Amyotha Hluttaw.
+159. (a) After receiving a Bill sent by the Pyithu Hluttaw, the  Amyotha Hluttaw may resolve to agree or disagree, or agree with amendments in accord with the resolution of the Pyithu Hluttaw. The Bill shall be sent back to the Pyithu Hluttaw together with the resolution of the  Amyotha Hluttaw.
 
 (b) When the Amyotha Hluttaw recieves the Bill with amendments from the Pyithu Hluttaw it shall, if it accepts the Bill with amendments of the Pyithu Hluttaw, send to the Speaker of the Pyidaungsu Hluttaw.
 
@@ -2923,7 +2968,7 @@ aqG;aEG;cGifh&Sdonf/
 
 ##### Formation of the Region Hluttaw or the State Hluttaw
 
-- The Region or State Hluttaw shall be formed with the following persons :
+161. The Region or State Hluttaw shall be formed with the following persons :
 
 (a) representatives of the Region or State Hluttaw, two of each are elected from each township in the Regions or the States;
 
@@ -2969,7 +3014,7 @@ aqG;aEG;cGifh&Sdonf/
 
 ##### Duties of the Speaker of the Region Hluttaw or the State Hluttaw
 
-- The Speaker of the Region Hluttaw or the State Hluttaw shall :
+164. The Speaker of the Region Hluttaw or the State Hluttaw shall :
 
 (a) supervise the Region Hluttaw or the State Hluttaw sessions;
 
@@ -3013,7 +3058,7 @@ aqG;aEG;cGifh&Sdonf/
 
 ##### Formation of the Region Hluttaw or the State Hluttaw Committee and Bodies
 
-(a) The Region Hluttaw or the State Hluttaw may, if necessary, form Committee and Bodies with the Region or State Hluttaw representatives concerned to study and submit legislation, national races affairs vested by the Constitution.
+167. (a) The Region Hluttaw or the State Hluttaw may, if necessary, form Committee and Bodies with the Region or State Hluttaw representatives concerned to study and submit legislation, national races affairs vested by the Constitution.
 
 (b) The Region Hluttaw or the State Hluttaw may form above Committees and Bodies including suitable citizens.
 
@@ -3057,7 +3102,7 @@ wm0efxrf;aqmifjcif;ESifh &yfpJjcif;qdkif&m jy|mef;csufrsm;twdkif; aqmif&Guf&rnf/
 
 ##### Qualifications of the Region Hluttaw or the State Hluttaw representatives
 
-- The Region or State Hluttaw representatives shall :
+169. The Region or State Hluttaw representatives shall :
 
 (a) have qualifications  entitled  to  be  elected  as  the  Pyithu  Hluttaw representatives under Section 120;
 
@@ -3065,15 +3110,15 @@ wm0efxrf;aqmifjcif;ESifh &yfpJjcif;qdkif&m jy|mef;csufrsm;twdkif; aqmif&Guf&rnf/
 
 ##### Qualifications of the Region or State Hluttaw representatives who are Defence Services personnel
 
-- The Defence Services personnel , nominated by the Commander-in-Chief of the Defence Services as the Region or State Hluttaw representatives who are the Defence Services personnel in accord with the law, shall possess the prescribed qualifications for the Region or State Hluttaw representatives.
+170. The Defence Services personnel , nominated by the Commander-in-Chief of the Defence Services as the Region or State Hluttaw representatives who are the Defence Services personnel in accord with the law, shall possess the prescribed qualifications for the Region or State Hluttaw representatives.
 
 ##### Convening the Region or State Hluttaw Sessions
 
-(a) The commencement of the term of the Region or State Hluttaw is the day of the commencement of the term of the Pyithu Hluttaw.
+171. (a) The commencement of the term of the Region or State Hluttaw is the day of the commencement of the term of the Pyithu Hluttaw.
 
 (b) The first regular session of the Region or State Hluttaw shall be held within 15 days after the commencement of the term of the Hluttaw.
 
-(a) The first regular session of the Region or State Hluttaw shall be convened by the State Peace and Development Council after the Constitution comes into operation.
+172. (a) The first regular session of the Region or State Hluttaw shall be convened by the State Peace and Development Council after the Constitution comes into operation.
 
 (b) The first regular sessions for the forthcoming terms of the Region or State Hluttaw shall be held by the Speaker of the Region or State  Hluttaw who
 
@@ -3113,13 +3158,13 @@ wm0efxrf;aqmifjcif;ESifh &yfpJjcif;qdkif&m jy|mef;csufrsm;twdkif; aqmif&Guf&rnf/
 
 - continues to perform his duties in accord with the provisions of the Constitution.
 
-(a) The representatives of the Region or State  Hluttaw shall take an affirmation of office as mentioned in Schedule Four before the Chairperson of the Region or State Hluttaw at the first regular session of the Region or State Hluttaw.
+173. (a) The representatives of the Region or State  Hluttaw shall take an affirmation of office as mentioned in Schedule Four before the Chairperson of the Region or State Hluttaw at the first regular session of the Region or State Hluttaw.
 
 (b) The representatives of the Region or State Hluttaw who have not taken an affirmation of office shall do so before the Speaker of the Hluttaw at the session of the Region or State Hluttaw at which they first attend.
 
 174. The Speaker of the Region or State Hluttaw shall convene the regular session at least once a year. The maximum interval between regular sessions shall not exceed 12 months.
 
-- The following functions shall be carried out at the Region or State Hluttaw session:
+175. The following functions shall be carried out at the Region or State Hluttaw session:
 
 (a) recording the addresses delivered by the President;
 
@@ -3145,9 +3190,9 @@ jy|mef;csufESifhtnD  wm0efqufvuf  xrf;aqmifvsuf&Sdaom wkdif;a'oBuD; odkYr[kwf jy
 
 174/ wkdif;a'oBuD; odkYr[kwf jynfe,fvTwfawmf ykHrSeftpnf;ta0;ukd wkdif;a'oBuD; odkYr[kwf  jynfe,fvTwfawmfOuú|u wpfESpfvQif tenf;qkH; wpfBudrfac:,l usif;y&rnf/ ykHrSeftpnf;ta0; wpfBudrfESifhwpfBudrftMum; t&SnfMumqkH;umvonf 12 v xuf rykdap&/
 
-175/ wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmftpnf;ta0;ü atmufygudpö&yfrsm; aqmif&Gufonf (u) EdkifiHawmfor®wajymMum;onhf rdefYcGef;udk rSwfwrf;wifjcif;? ( c ) EdkifiHawmfor®wu  ay;ydkYaom  o0PfvTmESihf  Ouú|u  cGihfjyKaom tjcm;o0PfvTmrsm;udk zwfMum;jcif;? rSwfwrf;wifjcif;? ( * ) wdkif;a'oBuD; odkYr[kwf jynfe,f0efBuD;csKyfajymMum;onhf rdefYcGef;udk rSwfwrf;wifjcif;? (C) Oya'Murf;wifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? zGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;t&vnf;aumif;? wnfqJ Oya' wpf&yf&yfyg jy|mef;csufrsm;t&vnf;aumif;? wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfu  aqmif&Guf&rnhf  udpö&yfrsm;ESifh  pyfvsOf;í
+175/ wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmftpnf;ta0;ü atmufygudpö&yfrsm; aqmif&Gufonf (u) EdkifiHawmfor®wajymMum;onhf rdefYcGef;udk rSwfwrf;wifjcif;? ( c ) EdkifiHawmfor®wu  ay;ydkYaom  o0PfvTmESihf  Ouú|u  cGihfjyKaom tjcm;o0PfvTmrsm;udk zwfMum;jcif;? rSwfwrf;wifjcif;? ( * ) wdkif;a'oBuD; odkYr[kwf jynfe,f0efBuD;csKyfajymMum;onhf rdefYcGef;udk rSwfwrf;wifjcif;? (C) Oya'Murf;wifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? ( i ) zGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;t&vnf;aumif;? wnfqJ Oya' wpf&yf&yfyg jy|mef;csufrsm;t&vnf;aumif;? wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfu  aqmif&Guf&rnhf  udpö&yfrsm;ESifh  pyfvsOf;í
 
-( i ) aqG;aEG;jcif;? qkH;jzwfjcif;?
+aqG;aEG;jcif;? qkH;jzwfjcif;?
 
 [[END OF PAGE 138]]
 
@@ -3181,11 +3226,13 @@ jy|mef;csufESifhtnD  wm0efqufvuf  xrf;aqmifvsuf&Sdaom wkdif;a'oBuD; odkYr[kwf jy
 
 [[START OF PAGE 140]]
 
-( p ) wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfodkY wifoGif;onhf tpD&if cHpmrsm;udk aqG;aEG;jcif;? qkH;jzwfjcif;? rSwfwrf;wifjcif;? (q) tqdkwifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? ( Z ) ar;cGef;ar;jref;jcif;?  ajzMum;jcif;? (ps) wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfOuú|u cGihfjyKonhfudpö&yf rsm;ESifhpyfvsOf;í aqmif&Gufjcif;/ 63
+( p ) wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfodkY wifoGif;onhf tpD&if cHpmrsm;udk aqG;aEG;jcif;? qkH;jzwfjcif;? rSwfwrf;wifjcif;? (q) tqdkwifoGif;jcif;? aqG;aEG;jcif;? qkH;jzwfjcif;? ( Z ) ar;cGef;ar;jref;jcif;?  ajzMum;jcif;? (ps) wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfOuú|u cGihfjyKonhfudpö&yf rsm;ESifhpyfvsOf;í aqmif&Gufjcif;/
 
 176/ wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmf\ tqHk;tjzwf&,lrnhf udpö&yfrsm;? oabmwlnDcsuf&,lrnhf udpö&yfrsm;? twnfjyKcsuf &,lrnfhudpö&yfrsm;udk atmufyg twdkif;aqmif&Guf&rnf (u) wdkif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmf  tpnf;ta0;usif;yqJ umvjzpfvQif ,if;tpnf;ta0;ü aqG;aEG;qHk;jzwf&rnf? ( c ) wdkif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmf  tpnf;ta0;usif;yqJ umvr[kwfvQif  teD;uyfqHk;  wdkif;a'oBuD;  odkYr[kwf  jynfe,f vTwfawmftpnf;ta0;ü aqG;aEG;qHk;jzwf&rnf? ( * ) trsm;jynfoltusKd;iSm  tvsiftjrefaqmif&Guf&rnfh  udpö&yfrsm;udk txl;tpnf;ta0; odkYr[kwf ta&;ay:tpnf;ta0; ac:,lusif;yí aqG;aEG;qHk;jzwf&rnf/
 
 177/ wdkif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmf  txl;tpnf;ta0;udkjzpfap? ta&;ay:tpnf;ta0;udkjzpfap usif;y&efvdktyfvQif oufqdkif&mwdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfOuú|u ac:,lusif;yEdkifonf/ 178/ wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmftpnf;ta0;udk ac:,lusif;yay;&ef wdkif;a'oBuD;  odkYr[kwf  jynfe,f0efBuD;csKyfu  taMumif;Mum;vQif  wdkif;a'oBuD; odkYr[kwf  jynfe,fvTwfawmfOuú|onf  vTwfawmftxl;tpnf;ta0;udkjzpfap? ta&;ay:tpnf;ta0;udkjzpfap tjrefqkH; ac:,lusif;y&rnf/ 179/ wdkif;a'oBuD; odkYr[kwf  jynfe,fvTwfawmf tpnf;ta0;udk ac:,lusif;yay;&ef wkdif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmfudk,fpm;vS,f  pkpkaygif;OD;a&teuf tenf;qkH;av;ykHwpfykHu awmif;qdkvQif wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmf Ouú|u txl;tpnf;ta0;udk tjrefqkH; ac:,lusif;y&rnf/
+
+63
 
 [[END OF PAGE 140]]
 
@@ -3193,15 +3240,15 @@ jy|mef;csufESifhtnD  wm0efqufvuf  xrf;aqmifvsuf&Sdaom wkdif;a'oBuD; odkYr[kwf jy
 
 64
 
-(a) The first day session of the Region or State Hluttaw shall be valid if more than half of the total number of Hluttaw representatives, who have the right to attend the Region or State Hluttaw session, are present. The session, if invalid, shall be adjourned.
+180. (a) The first day session of the Region or State Hluttaw shall be valid if more than half of the total number of Hluttaw representatives, who have the right to attend the Region or State Hluttaw session, are present. The session, if invalid, shall be adjourned.
 
 (b) The sessions that are adjourned due to invalidity in accord with the Sub-Section (a) as well as the valid session that are extended will be valid if at least one-third of the Hluttaw representatives are present.
 
-(a) A matter that shall be resolved in the Region or State Hluttaw, save as otherwise provided by the Constitution, shall be determined by a majority of votes of the Region or State Hluttaw representatives who are present and voting.
+181. (a) A matter that shall be resolved in the Region or State Hluttaw, save as otherwise provided by the Constitution, shall be determined by a majority of votes of the Region or State Hluttaw representatives who are present and voting.
 
 (b) The Speaker of the Region or State Hluttaw discharging duties as the Speaker at the Region or State Hluttaw shall not voted in the first instance in the sessions of the Region or State Hluttaw, but shall have and exercise a casting vote in the matter of an equality of votes.
 
-182. If the Region or State Hluttaw representative is, without permission of the Region or State Hluttaw, absent from a Region or a State Hluttaw session for a period of at least 15 consecutive days, the Region or State Hluttaw may declare his seat vacant. In computing the said period of 15 days, it shall not be counted of any period during which the session is adjourned.
+182. If the Region or State Hluttaw representative is, without permission of the Region or State Hluttaw, absent from a Region or a State Hluttaw session for a period of at least 15 consecutive days, the Region or State Hluttaw may declare his seat vacant. In computing
 
 [[END OF PAGE 141]]
 
@@ -3273,11 +3320,13 @@ aeonhf udpö&yfwGifom tEdkifrJay;&rnf/
 
 65
 
+the said period of 15 days, it shall not be counted of any period during which the session is adjourned.
+
 183. Although there are vacant seats, the Region or State Hluttaw shall have the right to carry out its functions. Moreover, the resolutions and proceedings of the Region or State Hluttaw shall not be annulled, notwithstanding the acts of some person who was not entitled to do so sat or voted or took part in the proceedings are later discovered.
 
 184. The proceedings and the records of the Region or State Hluttaw shall be published. However, the proceedings and the records prohibited by any law or the resolution of the Region or State Hluttaw shall not be published.
 
-(a) Subject to the provisions of the Constitution and the provisions of the law relating to the Region or State Hluttaw, the Region or State Hluttaw representatives shall have freedom of speech and voting at the Region or State Hluttaw and the Committee and Body formed by  the Region or State Hluttaw. Concerning the discussing, submitting and performing at the Region or State Hluttaw and the Region or State Hluttaw Committees and Bodies, no action shall be taken against a Region or a State Hluttaw representative except under its laws.
+185. (a) Subject to the provisions of the Constitution and the provisions of the law relating to the Region or State Hluttaw, the Region or State Hluttaw representatives shall have freedom of speech and voting at the Region or State Hluttaw and the Committee and Body formed by  the Region or State Hluttaw. Concerning the discussing, submitting and performing at the Region or State Hluttaw and the Region or State Hluttaw Committees and Bodies, no action shall be taken against a Region or a State Hluttaw representative except under its laws.
 
 [[END OF PAGE 143]]
 
@@ -3303,7 +3352,7 @@ jynfe,fvTwfawmf  tpnf;ta0;wufa&muf&ef  cGihfrJhysufuGufonfh  &ufaygif; 15 &ufudk
 
 (c) If the persons mentioned in Sub-Sections (a) and (b) committed assault in exercising the said privileges, they shall be liable to punishment under the regulations, by-laws, procedures of the Region or State Hluttaw or the existing laws.
 
-(a) If there is a need to arrest a Region or a State Hluttaw representative attending the Region or State Hluttaw session or a person attending the Region or State Hluttaw session with the permission or invitation of the Speaker of the Hluttaw, the credible evidence shall be submitted to the Speaker of the Region or State Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Region or State Hluttaw.
+186. (a) If there is a need to arrest a Region or a State Hluttaw representative attending the Region or State Hluttaw session or a person attending the Region or State Hluttaw session with the permission or invitation of the Speaker of the Hluttaw, the credible evidence shall be submitted to the Speaker of the Region or State Hluttaw. He shall not be arrested without the prior permission of the Speaker of the Region or State Hluttaw.
 
 [[END OF PAGE 145]]
 
@@ -3355,7 +3404,7 @@ jynfe,fvTwfawmf  tpnf;ta0;wufa&muf&ef  cGihfrJhysufuGufonfh  &ufaygif; 15 &ufudk
 
 - 189/ (u) wkdif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmfonf  Oya'wpf&yf jy|mef;onfhtcg -
 
-- zJGUpnf;ykHtajccHOya't& zJGUpnf;onfh wkdif;a'oBuD; odkYr[kwf jynfe,ftqifh  tzJGUtpnf;wpf&yf&yftm;  ,if;Oya'ESifh oufqkdifonfh  enf;Oya'?  pnf;rsOf;ESifh  pnf;urf;rsm; xkwfjyefcGifhukd tyfESif;Ekdifonf?
+(1) zGJUpnf;ykHtajccHOya't& zGJUpnf;onfh wdkif;a'oBuD; odkYr[kwf jynfe,ftqifh  tzJGUtpnf;wpf&yf&yftm;  ,if;Oya'ESifh oufqkdifonfh  enf;Oya'?  pnf;rsOf;ESifh  pnf;urf;rsm; xkwfjyefcGifhukd tyfESif;Ekdifonf?
 
 [[END OF PAGE 148]]
 
@@ -3369,7 +3418,7 @@ jynfe,fvTwfawmf  tpnf;ta0;wufa&muf&ef  cGihfrJhysufuGufonfh  &ufaygif; 15 &ufudk
 
 (c) After issuing any rule, regulation or by-law in accord with the law enacted by the Region or State Hluttaw, the Body concerned shall distribute and submit the said rule, regulation or  by-law to its representatives at the nearest regular session of the Region or State Hluttaw under the permitted arrangement of the Speaker of the Hluttaw.
 
-(d) If it is found that a rule, regulation or by-law is in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the Region or State Hluttaw within 90 days from the day that rule, regulation or by-law is submitted and distributed.
+(d) If it is found that a rule, regulation or by-law is not in conformity with the provisions of relevant law, Hluttaw representatives may move to annul or amend the rule, regulation or by-law to the Region or State Hluttaw within 90 days from the day that rule, regulation or by-law is submitted and distributed.
 
 (e) If the Region or State Hluttaw passes a resolution to annul or amend any rule, regulation or by-law, the resolution shall be without prejudice to the validity of any action previously taken under the relevant rules, regulations or by-laws.
 
@@ -3425,13 +3474,13 @@ wkdif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfwGif tqkdwifoGif;Edkifonf?
 
 ##### Submission of Bill
 
-(a) The Region or State level organizations formed under the Constitution shall have the right to submit the Bills relating to matters they administered among the matters included in the Schedule Two of the Region or State Legislative List to the Region or State Hluttaw in accord with the prescribed procedures.
+190. (a) The Region or State level organizations formed under the Constitution shall have the right to submit the Bills relating to matters they administered among the matters included in the Schedule Two of the Region or State Legislative List to the Region or State Hluttaw in accord with the prescribed procedures.
 
 (b) Bills relating to regional plans, annual budgets and taxation of the Region or State, which are to be submitted exclusively by the Region or State government, shall be submitted to the Region or State Hluttaw in accord with the prescribed procedures.
 
 191. Representatives of the Region or State Hluttaw shall submit the Bills relating to other matters, except the matters prescribed in the Constitution that the Bill was submitted exclusively by the Region or State Hluttaw stated in the Schedule Two of the Region or State Legislative List, to the Region or State Hluttaw in accord with the prescribed procedures.
 
-(a) Members, who are representatives of the Region or State Hluttaw among members representing any Region or State level organization formed under the Constitution, are entitled to explain, converse, discuss and vote Bills or matters relating to their organizations at the Hluttaw sessions.
+192. (a) Members, who are representatives of the Region or State Hluttaw among members representing any Region or State level organization formed under the Constitution, are entitled to explain, converse, discuss and vote Bills or matters relating to their organizations at the Hluttaw sessions.
 
 (b) Members, who are not representatives of the Region or State Hluttaw among members representing any Region or State level organization formed under the Constitution, when they are attending Hluttaw session with the
 
@@ -3465,7 +3514,7 @@ permission of the Speaker of the Hluttaw, are entitled to explain, converse and 
 
 ##### Submission of Region and State Budget Bill
 
-(a) The Region or State  Annual Budget Bill to which only by the Region or State Government has the right to be submitted only to the Region or State Hluttaw in accord with the prescribed procedures.
+193. (a) The Region or State  Annual Budget Bill to which only by the Region or State Government has the right to be submitted only to the Region or State Hluttaw in accord with the prescribed procedures.
 
 (b) Relating to the Bill in Sub-Section (a), the Region or State Budget including finance received from the Union Fund of the Region or State under the Union Budget Law or the Supplementary Appropriation Law with the recommendation of the Chief Minister concerned shall be discussed, as may be necessary by the Region or State Hluttaw concerned and shall be carried out and approved, refused, curtailed with the majority consent. In doing so, the following matters may be discussed at the Region Hluttaw or the State Hluttaw, but not refused or curtailed :
 
@@ -3485,7 +3534,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 ( c ) yk'frcGJ(u)yg  Oya'Murf;ESifh  pyfvsOf;í  jynfaxmifpk\  b@maiG t&toHk;qdkif&mOya' odkYr[kwf aemufxyf b@maiGcGJa0oHk;pGJa&; Oya't& wdkif;a'oBuD;  odkYr[kwf  jynfe,ftvdkuf  jynfaxmifpk b@m&efyHkaiGrS&&Sdonfh b@maiGrsm; tygt0if wdkif;a'oBuD; odkYr[kwf jynfe,f  t&toHk;cefYrSef;ajcaiGpm&if;udk  oufqdkif&m0efBuD;csKyf\ axmufcHwifjycsuftay:  oufqdkif&m  wdkif;a'oBuD;  odkYr[kwf jynfe,fvTwfawmfu vdktyfovdkaqG;aEG;í oabmwl twnfjyKjcif;? jiif;y,fjcif;?  avQmhícGifhjyKjcif;wdkYudk  trsm;qE´ESifhtnD  aqmif&Guf&rnf/ ,if;odkUaqmif&Guf&mwGif -
 
-- zGJUpnf;yHktajccHOya't&  zGJUpnf;xm;aom  wdkif;a'oBuD; odkYr[kwf jynfe,ftqifh tzGJUtpnf;rsm;\ tBuD;trSL;rsm;ESifh tzGJUtpnf;0ifrsm;\ vpm? p&dwfESifh ,if;tzGJUtpnf;rsm;\ toHk;p&dwfrsm;?
+(1) zGJUpnf;yHktajccHOya't&  zGJUpnf;xm;aom  wdkif;a'oBuD; odkYr[kwf jynfe,ftqifh tzGJUtpnf;rsm;\ tBuD;trSL;rsm;ESifh tzGJUtpnf;0ifrsm;\ vpm? p&dwfESifh ,if;tzGJUtpnf;rsm;\ toHk;p&dwfrsm;?
 
 [[END OF PAGE 154]]
 
@@ -3505,7 +3554,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 ##### Promulgation of Law
 
-(a) The Chief Minister of the Region or State shall :
+195. (a) The Chief Minister of the Region or State shall :
 
 (i) sign and promulgate the Bills approved by the Region or State Hluttaw as law within seven days after the day of receipt in accord with the prescribed procedures;
 
@@ -3515,13 +3564,13 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 71
 
-- zGJUpnf;yHktajccHOya't& zGJUpnf;xm;aom udk,fykdiftkyfcsKyfcGifh& pD&ifpkOD;pD;tzGJU tBuD;trSL;rsm;ESifh tzGJUtpnf;0ifrsm;\vpm? p&dwfESifh ,if;tzGJUtpnf;rsm;\ toHk;p&dwfrsm;?
+(2) zGJUpnf;yHktajccHOya't& zGJUpnf;xm;aom udk,fykdiftkyfcsKyfcGifh& pD&ifpkOD;pD;tzGJU tBuD;trSL;rsm;ESifh tzGJUtpnf;0ifrsm;\vpm? p&dwfESifh ,if;tzGJUtpnf;rsm;\ toHk;p&dwfrsm;?
 
-- wdkif;a'oBuD; odkYr[kwf jynfe,fu ay;qyf&ef wm0ef&Sdaom a<u;NrDrsm;? ,if;a<u;NrDrsm;ESifh qufET,faom ukefusp&dwfrsm;? wdkif;a'oBuD;  odkYr[kwf  jynfe,fuacs;,laiGrsm;ESifh  quf ET,faomukefusp&dwfrsm;?
+(3) wdkif;a'oBuD; odkYr[kwf jynfe,fu ay;qyf&ef wm0ef&Sdaom a<u;NrDrsm;? ,if;a<u;NrDrsm;ESifh qufET,faom ukefusp&dwfrsm;? wdkif;a'oBuD;  odkYr[kwf  jynfe,fuacs;,laiGrsm;ESifh  quf ET,faomukefusp&dwfrsm;?
 
-- w&m;½Hk; odkYr[kwf cHk½Hk;wpfckck\ pD&ifcsuf? trdefY? 'Du&Dt& ay;aqmif&ef&Sdaom toHk;p&dwfrsm;?
+(4) w&m;½Hk; odkYr[kwf cHk½Hk;wpfckck\ pD&ifcsuf? trdefY? 'Du&Dt& ay;aqmif&ef&Sdaom toHk;p&dwfrsm;?
 
-- wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmfu jy|mef; onfh Oya'wpf&yf&yft& uscH&rnfh tjcm;toHk;p&dwfrsm;ESifh pyfvsOf;í  wdkif;a'oBuD;vTwfawmf  odkUr[kwf  jynfe,f vTwfawmfwGif aqG;aEG;ydkifcGifh&Sdonf/  odkYaomf  jiif;y,fjcif;? avQmhícGifhjyKjcif; rjyK&/
+(5) wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmfu jy|mef; onfh Oya'wpf&yf&yft& uscH&rnfh tjcm;toHk;p&dwfrsm;ESifh pyfvsOf;í  wdkif;a'oBuD;vTwfawmf  odkUr[kwf  jynfe,f vTwfawmfwGif aqG;aEG;ydkifcGifh&Sdonf/  odkYaomf  jiif;y,fjcif;? avQmhícGifhjyKjcif; rjyK&/
 
 194/ wdkif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmfonf  wdkif;a'oBuD;  odkYr[kwf jynfe,ftpdk;&u  wdkif;a'oBuD;  odkYr[kwf  jynfe,f\  &aiGoHk;aiGvsmxm;csufudk owfrSwfxm;onhf enf;vrf;rsm;ESihftnD wifoGif;vmvQif tqkH;tjzwfay;&rnf/
 
@@ -3529,7 +3578,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 195/ (u) wdkif;a'oBuD; odkYr[kwf jynfe,f0efBuD;csKyfonf -
 
-- wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfu twnfjyKaom Oya'Murf;rsm;udk vufcH&&SdonfhaeY\ aemufwpfaeYrS ckepf&uf twGif;  owfrSwfxm;aom  enf;vrf;rsm;ESifhtnD  vufrSwf a&;xdk;í Oya'tjzpf xkwfjyefaMunm&rnf?
+(1) wdkif;a'oBuD; odkYr[kwf jynfe,fvTwfawmfu twnfjyKaom Oya'Murf;rsm;udk vufcH&&SdonfhaeY\ aemufwpfaeYrS ckepf&uf twGif;  owfrSwfxm;aom  enf;vrf;rsm;ESifhtnD  vufrSwf a&;xdk;í Oya'tjzpf xkwfjyefaMunm&rnf?
 
 [[END OF PAGE 156]]
 
@@ -3545,7 +3594,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 #### Self-Administered Division and Self-Administered Zone Leading Bodies
 
-196. The legislative power relating to the matters listed in the Schedule Three for respective Divisions or Zones are allotted to the Self-Administered Division or the SelfAdministered Zone Leading Bodies.
+196. The legislative power relating to the matters listed in the Schedule Three for respective Divisions or Zones are allotted to the Self-Administered Division or the Self-Administered Zone Leading Bodies.
 
 [[END OF PAGE 157]]
 
@@ -3553,7 +3602,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 72
 
-- udk,fydkiftkyfcsKyfcGifh&wdkif;  odkYr[kwf udk,fydkiftkyfcsKyfcGifh&a'o OD;pD;tzJGUu twnfjyKaom Oya'Murf;rsm;udk vufcH&&Sdonfh aeY\  aemufwpfaeYrS  14  &uf  twGif;  vufrSwfa&;xdk;í Oya'tjzpf xkwfjyefaMunm&rnf/
+(2) udk,fydkiftkyfcsKyfcGifh&wdkif;  odkYr[kwf udk,fydkiftkyfcsKyfcGifh&a'o OD;pD;tzJGUu twnfjyKaom Oya'Murf;rsm;udk vufcH&&Sdonfh aeY\  aemufwpfaeYrS  14  &uf  twGif;  vufrSwfa&;xdk;í Oya'tjzpf xkwfjyefaMunm&rnf/
 
 ( c ) wdkif;a'oBuD;  odkYr[kwf  jynfe,f0efBuD;csKyfu  vufrSwfa&;xdk;í Oya'tjzpf  xkwfjyefaMunm&ef  owfrSwfxm;onhf  umvtwGif; Oya'Murf;udk 0efBuD;csKyfu vufrSwfa&;xdk;í Oya'tjzpf xkwfjyef aMunmjcif;rjyKvQif  owfrSwfumv  jynfhajrmufonfhaeY&ufwGif Oya'Murf;onf 0efBuD;csKyf\ vufrSwfa&;xdk;csufudk &&SdNyD;ouJhodkY Oya'jzpfvm&rnf?
 
@@ -3571,7 +3620,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 #### Duties, powers and rights of the representatives of the Pyithu Hluttaw, the  Amyotha Hluttaw and the Region or State Hluttaw
 
-- Duties, powers and rights of the representatives of the Pyithu Hluttaw, the  Amyotha Hluttaw and the Region or State Hluttaw shall be prescribed by law.
+197. Duties, powers and rights of the representatives of the Pyithu Hluttaw, the  Amyotha Hluttaw and the Region or State Hluttaw shall be prescribed by law.
 
 #### Effect of Laws
 
@@ -3581,7 +3630,7 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 (b) if any provision of the law enacted by the Region Hluttaw or the State Hluttaw is inconsistent with any provision of the law enacted by the Pyidaungsu Hluttaw, the law enacted by the Pyidaungsu Hluttaw shall prevail;
 
-(c) if any provision of the law enacted by the Leading Body of the SelfAdministered Division or the Self-Administered Zone is inconsistent with
+(c) if any provision of the law enacted by the Leading Body of the Self-Administered Division or the Self-Administered Zone is inconsistent with
 
 [[END OF PAGE 159]]
 
@@ -3611,13 +3660,15 @@ r[kwfaom tzGJUtpnf;0ifrsm;onf vTwfawmfOuú|\ cGihfjyKcsufjzihf vTwfawmftpnf;ta0;
 
 any provision of the law enacted by the Pyidaungsu Hluttaw, the law enacted by the Pyidaungsu Hluttaw shall prevail;
 
-(d) if any provision of the law enacted by the Leading Body of the SelfAdministered Division or the Self-Administered Zone is inconsistent with any provision of the law enacted by the Region Hluttaw or the State Hluttaw concerned, the law enacted by the Region Hluttaw or the State Hluttaw concerned shall prevail.
+(d) if any provision of the law enacted by the Leading Body of the Self-Administered Division or the Self-Administered Zone is inconsistent with any provision of the law enacted by the Region Hluttaw or the State Hluttaw concerned, the law enacted by the Region Hluttaw or the State Hluttaw concerned shall prevail.
 
 [[END OF PAGE 161]]
 
 [[START OF PAGE 162]]
 
-qefYusifaevQif jynfaxmifpkvTwfawmfu jy|mef;onfh Oya'ygtwdkif; vkdufemusifhoHk;&rnf? 74
+74
+
+qefYusifaevQif jynfaxmifpkvTwfawmfu jy|mef;onfh Oya'ygtwdkif; vkdufemusifhoHk;&rnf?
 
 (C) udk,fydkiftkyfcsKyfcGifh&  wdkif;OD;pD;tzGJU  odkYr[kwf  udk,fydkiftkyfcsKyfcGifh& a'oOD;pD;tzGJUu jy|mef;vdkufonfh Oya'ygjy|mef;csufwpf&yf&yfonf oufqdkif&m wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmfu jy|mef;onfhOya'yg  jy|mef;csufwpf&yf&yfESifh  qefYusifaevQif oufqdkif&m wdkif;a'oBuD;vTwfawmf odkYr[kwf jynfe,fvTwfawmfu jy|mef;onfhOya'ygtwdkif; vdkufemusifhoHk;&rnf/
 
@@ -3661,7 +3712,7 @@ tkyfcsKyfa&;
 Executive
 #### The Union Government
 
-(a) The Executive Head of the Union is the President.
+199. (a) The Executive Head of the Union is the President.
 
 (b) (i) The executive power of the Union is distributed among the Union, Regions and States.
 
@@ -3669,7 +3720,7 @@ Executive
 
 ##### Formation of the Union Government
 
-- The Union Government shall comprise  the following persons :
+200. The Union Government shall comprise  the following persons :
 
 (a) The President;
 
@@ -3681,7 +3732,7 @@ Executive
 
 ##### Formation of the National Defence and Security Council
 
-- The National Defence and Security Council led by the President, to enable it to discharge the duties assigned by the Constitution or any law, shall be formed with the following persons :
+201. The National Defence and Security Council led by the President, to enable it to discharge the duties assigned by the Constitution or any law, shall be formed with the following persons :
 
 (a) The President;
 
@@ -3713,9 +3764,9 @@ Executive
 
 ##### trsKd;om;umuG,fa&;ESihfvHkNcHKa&;aumifpD  zGJUpnf;jcif; trsKd;om;umuG,fa&;ESihfvHkNcHKa&;aumifpD  zGJUpnf;jcif;
 
-trsKd;om;umuG,fa&;ESihfvHkNcHKa&;aumifpDudk atmufygyk*¾dKvfrsm;jzihf zGJUpnf;onf (u) EdkifiHawmfor®w? ( c ) 'kwd,or®w? ( * ) 'kwd,or®w? (C) jynfolUvTwfawmfOuú|? ( i ) trsKd;om;vTwfawmfOuú|? ( p ) wyfrawmfumuG,fa&;OD;pD;csKyf? (q) 'kwd,wyfrawmfumuG,fa&;OD;pD;csKyf?
-
 201/ zGJUpnf;yHktajccHOya't&aomfvnf;aumif;?  Oya'wpf&yf&yft&aomfvnf; aumif; ay;tyfvmonfhwm0efrsm;udkxrf;aqmifEdkif&ef EdkifiHawmfor®w OD;aqmifonhf
+trsKd;om;umuG,fa&;ESihfvHkNcHKa&;aumifpDudk atmufygyk*¾dKvfrsm;jzihf zGJUpnf;onf -
+(u) EdkifiHawmfor®w? ( c ) 'kwd,or®w? ( * ) 'kwd,or®w? (C) jynfolUvTwfawmfOuú|? ( i ) trsKd;om;vTwfawmfOuú|? ( p ) wyfrawmfumuG,fa&;OD;pD;csKyf? (q) 'kwd,wyfrawmfumuG,fa&;OD;pD;csKyf?
 
 [[END OF PAGE 166]]
 
@@ -3741,13 +3792,13 @@ trsKd;om;umuG,fa&;ESihfvHkNcHKa&;aumifpDudk atmufygyk*¾dKvfrsm;jzihf zGJUpnf;on
 
 203. The President shall be responsible to the Pyidaungsu Hluttaw. The Vice-Presidents shall be responsible to the President and also to the Pyidaungsu Hluttaw through the President.
 
-- The President has :
+204. The President has :
 
 (a) the power to grant a pardon;
 
 (b) the power to grant amnesty in accord with the recommendation of the National Defence and Security Council.
 
-- The President may, in accord with the law, have :
+205. The President may, in accord with the law, have :
 
 (a) the power to confer honorary titles  and awards; and
 
@@ -3853,9 +3904,9 @@ EdkifiHawmfor®wonf  trsKd;om;umuG,fa&;ESihf  vHkNcHKa&;aumifpDESihfn§dEdIif;vs
 
 211. The President may intimate the Speaker of the Pyidaungsu Hluttaw to summon an emergency or special session of the Pyidaungsu Hluttaw, if necessary.
 
-(a) Except Union budget matters, the President shall have the right to promulgate an ordinance for administrative matters that need immediate action during the interval between sessions of the Pyidaungsu Hluttaw.
+212. (a) Except Union budget matters, the President shall have the right to promulgate an ordinance for administrative matters that need immediate action during the interval between sessions of the Pyidaungsu Hluttaw.
 
-(b) If the President has not revoked the ordinance promulgated under SubSection (a), he shall submit the ordinance for approval to the nearest session of the Pyidaungsu Hluttaw within 60 days after the promulgation of the ordinance. If the Pyidaungsu Hluttaw is not in session, the President shall, within 60 days after the promulgation of such ordinance, summon a special session of the Pyidaungsu Hluttaw for approval.
+(b) If the President has not revoked the ordinance promulgated under Sub-Section (a), he shall submit the ordinance for approval to the nearest session of the Pyidaungsu Hluttaw within 60 days after the promulgation of the ordinance. If the Pyidaungsu Hluttaw is not in session, the President shall, within 60 days after the promulgation of such ordinance, summon a special session of the Pyidaungsu Hluttaw for approval.
 
 (c) The ordinance shall cease to have effect from the day on which it is not approved by the Pyidaungsu Hluttaw.
 
@@ -3937,7 +3988,7 @@ EdkifiHawmfor®wonf  trsKd;om;umuG,fa&;ESihf  vHkNcHKa&;aumifpDESihfn§dEdIif;vs
 
 217. Subject to the provisions of the Constitution, the executive power of the Union shall be vested in the President. Nothing in this Section shall prevent the Pyidaungsu Hluttaw from conferring functions and powers upon any authoritative body or person, or be deemed to transfer to the President functions and powers vested in any administrative body or person concerned under the existing laws.
 
-(a) All executive actions of the Union Government shall be taken as action in the name of the President.
+218. (a) All executive actions of the Union Government shall be taken as action in the name of the President.
 
 (b) The President shall, except in matters conferred on him by the Constitution to perform in his own discretion, have the right to issue necessary rules on matters to be performed by the Union Government, on allocation of the said matters to the Ministries of the Union Government, and on allocation to the person responsible to act under any law.
 
@@ -3975,7 +4026,7 @@ EdkifiHawmfor®wonf  trsKd;om;umuG,fa&;ESihf  vHkNcHKa&;aumifpDESihfn§dEdIif;vs
 
 221. The Union Government shall draft the Union Budget Bill based on the annual Union budget, after coordinating with the Financial Commission, and submit it for approval to the Pyidaungsu Hluttaw in accord with the provisions of the Constitution.
 
-222. The Union Government shall, if the Pyidaungsu Hluttaw is unable to promulgate the Union Budget Bill before the end of the Budget Y ear, expend within the framework of the general expenditure included in the last-enacted Budget Law of the Pyidaungsu Hluttaw.
+222. The Union Government shall, if the Pyidaungsu Hluttaw is unable to promulgate the Union Budget Bill before the end of the Budget Year, expend within the framework of the general expenditure included in the last-enacted Budget Law of the Pyidaungsu Hluttaw.
 
 223. The Union Government may, relating to the matters which may be enacted into law by the Pyidaungsu Hluttaw in accord with the provisions of the Constitution, submit the Bill to the Pyidaungsu Hluttaw.
 
@@ -3999,39 +4050,23 @@ xda&mufatmifjrifrI&Sdapa&;twGuf aygif;pyfnd§EdIif;ay;onf/
 
 82
 
-- The Union Government, with the exception of Constitutional disputes and the disputes over territorial re-delineation shall :
-
-(a) mediate and if necessary, decide, on disputes over administration between the Region and  State, among  Regions, among  States, between  Region or State and Self-Administered  Area, among  Self-Administered   Areas; and
-
-(b) mediate and if necessary, decide, on disputes over administration between the Region or State and Union territory, between  Self-Administered   Area and Union territory.
-
-- The Union Government, in accord with the law :
-
+226. The Union Government, with the exception of Constitutional disputes and the disputes over territorial re-delineation shall :
+(a) mediate and if necessary, decide, on disputes over administration between the Region and State, among Regions, among States, between Region or State and Self-Administered Area, among Self-Administered Areas; and
+(b) mediate and if necessary, decide, on disputes over administration between the Region or State and Union territory, between Self-Administered Area and Union territory.
+227. The Union Government, in accord with the law :
 (a) may form Civil Services organizations relating to the Union as necessary. In so forming, the functions and powers shall be prescribed;
-
 (b) may appoint the required civil service personnel.
-
-- The Union Government shall :
-
+228. The Union Government shall :
 (a) implement the administrative resolutions passed occasionally by the Pyidaungsu Hluttaw and report back the actions which have been taken to the Pyidaungsu Hluttaw;
-
 (b) submit occasionally matters relating to the general situation of the Union to the Pyidaungsu Hluttaw.
 
 ##### Formation of the Financial Commission
 
-(a) The Financial Commission shall be formed with the following persons:
-
-(i) The President
-
-(ii) Vice-Presidents
-
-(iii ) The  Attorney-General of the Union
-
-Chairperson
-
-Vice-Chairpersons
-
-Member
+229. (a) The Financial Commission shall be formed with the following persons:
+(i) The President                                      Chairperson
+(ii) Vice-Presidents                                   Vice-Chairpersons
+(iii) The Attorney-General
+of the Union                                           Member
 
 [[END OF PAGE 179]]
 
@@ -4039,21 +4074,22 @@ Member
 
 82
 
-226/ jynfaxmifpktpkd;&onf zJGUpnf;ykHtajccHOya'qkdif&m tjiif;yGm;rIrsm;ESifh e,fedrdwf jyifqifowfrSwfa&;qkdif&m tjiif;yGm;rIrsm;rSty (u) wkdif;a'oBuD;ESifh  jynfe,ftMum;?  wkdif;a'oBuD;tcsif;csif;?  jynfe,ftcsif;csif;? wkdif;a'oBuD; okdYr[kwf jynfe,fESifh ukd,fykdiftkyfcsKyfcGifh&  pD&ifpktMum;? ukd,fykdiftkyfcsKyfcGifh&pD&ifpk  tcsif;csif;jzpfyGm;onfh        tkyfcsKyfrIqkdif&m  tjiif; yGm;rIrsm;ESifhpyfvsOf;í  aygif;pyfnd§EIdif;ajz&Sif;ay;jcif;?  vkdtyfvQif tqkH;tjzwfay;jcif;jyKonf? ( c ) wdkif;a'oBuD;  odkYr[kwf  jynfe,fESifh  jynfaxmifpke,fajrtMum;?
-
-- udk,fydkiftkyfcsKyfcGifh&pD&ifpkESifh  jynfaxmifpke,fajrtMum;  jzpfyGm;onfh tkyfcsKyfa&;qdkif&m tjiif;yGm;rIrsm;ESifhpyfvsOf;í aygif;pyfnd§EdIif;ajz½Sif; ay;jcif;?  vdktyfvQiftqkH;tjzwfay;jcif;jyKonf/
-
-- jynfaxmifpkqkdif&m  0efxrf;tzJGUtpnf;rsm;ukd  vkdtyfovkd  zJGUpnf; Ekdifonf/  ,if;okdYzJGUpnf;&mwGif  vkyfief;wm0efESifh  vkyfykdifcGifhrsm;ukd
-
-227/ jynfaxmifpktpkd;&onf Oya'ESifhtnD (u) owfrSwfay;&rnf? ( c ) vkdtyfaom0efxrf;rsm;ukd cefYtyfEkdifonf/
-
-228/ jynfaxmifpktpkd;&onf (u) jynfaxmifpkvTwfawmfu tcgtm;avsmfpGm csrSwfonfhtkyfcsKyfa&;qkdif&m qkH;jzwfcsufrsm;ukd  taumiftxnfazmfaqmif&Guf&rnf/  rdrd\ ta&;,laqmif&Gufcsufrsm;ukd  jynfaxmifpkvTwfawmfokdY  jyefvnf tpD&ifcH&rnf? ( c ) EdkifiHawmf\  tajctaet&yf&yfESifhpyfvsOf;í jynfaxmifpkvTwfawmfokdY
-
-- tcgtm;avsmfpGm wifjy&rnf/
+226/ jynfaxmifpktpkd;&onf zJGUpnf;ykHtajccHOya'qkdif&m tjiif;yGm;rIrsm;ESifh e,fedrdwf jyifqifowfrSwfa&;qkdif&m tjiif;yGm;rIrsm;rSty –
+(u) wkdif;a'oBuD;ESifh jynfe,ftMum;? wkdif;a'oBuD;tcsif;csif;? jynfe,ftcsif;csif;? wkdif;a'oBuD; okdYr[kwf jynfe,fESifh ukd,fykdiftkyfcsKyfcGifh& pD&ifpktMum;? ukd,fykdiftkyfcsKyfcGifh&pD&ifpk tcsif;csif;jzpfyGm;onfh tkyfcsKyfrIqkdif&m tjiif;yGm;rIrsm;ESifhpyfvsOf;í aygif;pyfnd§EIdif;ajz&Sif;ay;jcif;? vkdtyfvQif tqkH;tjzwfay;jcif;jyKonf?
+(c) wdkif;a'oBuD; odkYr[kwf jynfe,fESifh jynfaxmifpke,fajrtMum;? udkd,fydkiftkyfcsKyfcGifh&pD&ifpkESifh jynfaxmifpke,fajrtMum; jzpfyGm;onfh tkyfcsKyfa&;qdkif&m tjiif;yGm;rIrsm;ESifhpyfvsOf;í aygif;pyfnd§EdIif;ajz½Sif;ay;jcif;? vdktyfvQiftqkH;tjzwfay;jcif;jyKonf/
+227/ jynfaxmifpktpkd;&onf Oya'ESifhtnD -
+(u) jynfaxmifpkqkdif&m 0efxrf;tzJGUtpnf;rsm;ukd vkdtyfovkd zJGUpnf;Ekdifonf/ ,if;okdYzJGUpnf;&mwGif vkyfief;wm0efESifh vkyfykdifcGifhrsm;ukd owfrSwfay;&rnf?
+(c) vkdtyfaom0efxrf;rsm;ukd cefYtyfEkdifonf/
+228/ jynfaxmifpktpkd;&onf –
+(u) jynfaxmifpkvTwfawmfu tcgtm;avsmfpGm csrSwfonfhtkyfcsKyfa&;qkdif&m qkH;jzwfcsufrsm;ukd taumiftxnfazmfaqmif&Guf&rnf/ rdrd\ta&;,laqmif&Gufcsufrsm;ukd jynfaxmifpkvTwfawmfokdY jyefvnf tpD&ifcH&rnf?
+(c) EdkifiHawmf\ tajctaet&yf&yfESifhpyfvsOf;í jynfaxmifpkvTwfawmfokdY tcgtm;avsmfpGm wifjy&rnf/
 
 ##### b@ma&;aumfr&SifzJGUpnf;jcif; b@ma&;aumfr&SifzJGUpnf;jcif;
 
-229/ (u) b@ma&;aumfr&Sifudk atmufygyk*¾dKvfrsm;jzifh zGJUpnf;&rnf (1) EdkifiHawmfor®w -  Ouú| (2) 'kwd,or®wrsm; -  'kwd,Ouú|rsm; (3) jynfaxmifpka&SUaecsKyf -  tzJGU0if
+229/ (u) b@ma&;aumfr&Sifudk atmufygyk*¾dKvfrsm;jzifh zGJUpnf;&rnf –
+(1) EdkifiHawmfor®w - Ouú|
+(2) 'kwd,or®wrsm; - 'kwd,Ouú|rsm;
+(3) jynfaxmifpka&SUaecsKyf - tzJGU0if
 
 [[END OF PAGE 180]]
 
@@ -4061,35 +4097,21 @@ Member
 
 83
 
-(iv) The  Auditor-General of the Union
-
+(iv) The Auditor-General
+of the Union                                           Member
 (v) Chief Ministers
-
-of the Regions and States
-
-(vi)
-
-- The Nay Pyi Taw Council Chairperson
-
-(vii) The Minister of Finance of the Union
-
-Member
-
-Members
-
-Member
-
-Secretary
-
+of the Regions and States                              Members
+(vi) The Nay Pyi Taw
+Council Chairperson                                    Member
+(vii) The Minister of Finance
+of the Union                                           Secretary
 (b) (i) In forming the Financial Commission, the President may appoint a suitable person as a temporary member if there is vacancy for any reason.
-
 (ii) The President shall promulgate the formation of the Financial Commission. Moreover, necessary orders or directives, so forth, for the Financial Commission may be promulgated either by the President or the person assigned by him.
 
 ##### Duties and Functions of the Financial Commission
 
-(a) The budgets of the Union Ministries and Union level organizations are to be vetted by a Vice-President assigned by the President, and the estimated budgets of the Union level organizations including the Union Ministries are to be submitted to the Financial Commission.
-
-(b) The budgets of the Region or State are to be vetted by the other VicePresident assigned by the President, and the estimated budgets of the Region or State are to be submitted to the Financial Commission.
+230. (a) The budgets of the Union Ministries and Union level organizations are to be vetted by a Vice-President assigned by the President, and the estimated budgets of the Union level organizations including the Union Ministries are to be submitted to the Financial Commission.
+(b) The budgets of the Region or State are to be vetted by the other Vice-President assigned by the President, and the estimated budgets of the Region or State are to be submitted to the Financial Commission.
 
 [[END OF PAGE 181]]
 
@@ -4097,17 +4119,14 @@ Secretary
 
 83
 
-- jynfaxmifpkpm&if;ppfcsKyf -  tzJGU0if
+(4) jynfaxmifpkpm&if;ppfcsKyf - tzJGU0if
+(5) wdkif;a'oBuD;0efBuD;csKyfrsm;ESifh - tzJGU0ifrsm;
+jynfe,f0efBuD;csKyfrsm;
+(6) aejynfawmfaumifpDOuú| - tzJGU0if
+(7) jynfaxmifpkb@ma&;0efBuD; - twGif;a&;rSL;
 
-- wdkif;a'oBuD;0efBuD;csKyfrsm;ESifh -  tzJGU0ifrsm; jynfe,f0efBuD;csKyfrsm;
-
-- aejynfawmfaumifpDOuú| -  tzJGU0if
-
-- jynfaxmifpkb@ma&;0efBuD; -  twGif;a&;rSL;
-
-( c ) (1) b@ma&;aumfr&Sifudk  zJGUpnf;onfhtcg  tzJGU0iftjzpf xrf;aqmif&rnfh&mxl;ae&mwGif taMumif;wpfpHkwpf&maMumifh wm0efay;tyfjcif;cH&ol  r&Sdao;ygu  EdkifiHawmfor®wonf xdkae&mtwGuf oifhavsmfonfhyk*d¾KvfwpfOD;OD;tm; ,m,DtzJGU0if tjzpf wm0efay;tyfEdkifonf?
-
-- b@ma&;aumfr&SifzGJUpnf;jcif;udk EdkifiHawmfor®wu xkwfjyef aMunm&rnf/ xdkYjyif b@ma&;aumfr&SiftwGuf vdktyfaom trdefY?  ñTefMum;csuf  ponfrsm;udkvnf;  EdkifiHawmfor®w  odkYr[kwf EkdifiHawmfor®wu  wm0efay;tyfonfh  yk*¾dKvfu  xkwfjyef aMunmEdkifonf/
+(c) (1) b@ma&;aumfr&Sifudk zJGUpnf;onfhtcg tzJGU0iftjzpf xrf;aqmif&rnfh&mxl;ae&mwGif taMumif;wpfpHkwpf&maMumifh wm0efay;tyfjcif;cH&ol r&Sdao;ygu EdkifiHawmfor®wonf xdkae&mtwGuf oifhavsmfonfhyk*d¾KvfwpfOD;OD;tm; ,m,DtzJGU0if tjzpf wm0efay;tyfEdkifonf?
+(2) b@ma&;aumfr&SifzGJUpnf;jcif;udk EdkifiHawmfor®wu xkwfjyef aMunm&rnf/ xdkYjyif b@ma&;aumfr&SiftwGuf vdktyfaom trdefY? ñTefMum;csuf ponfrsm;udkvnf; EdkifiHawmfor®w odkYr[kwf EdkifiHawmfor®wu wm0efay;tyfonfh yk*¾dKvfu xkwfjyef aMunmEdkifonf/
 
 ##### b@ma&;aumfr&Sif\  wm0efESifh  vkyfydkifcGifh b@ma&;aumfr&Sif\  wm0efESifh  vkyfydkifcGifh
 
@@ -4141,11 +4160,9 @@ Secretary
 
 ( * ) b@ma&;aumfr&Sifonf -
 
-- jynfaxmifpke,fajr  toHk;p&dwfrsm;yg&Sdaom  jynfaxmifpk\ t&toHk; cefYrSef;ajcaiGpm&if;? wdkif;a'oBuD; odkYr[kwf jynfe,f rsm;twGuf  jynfaxmifpkb@m&efyHkaiGrS  b@maiGrsm;udk oifhavsmfovdk  jznfhqnf;ay;jcif;?  txl;udpöwpf&yftaejzifh axmufyHhjcif;? acs;aiGrsm; cGifhjyKjcif;tygt0if jynfaxmifpk\ b@maiG t&toHk;qdkif&m  Oya'Murf;  odkUr[kwf  aemufxyf b@maiGcJGa0oHk;pGJa&; Oya'Murf;udk jynfaxmifpk vTwfawmfodkY axmufcHwifjy&rnf?
-
-- b@ma&;qdkif&m aqmif&Gufoifhonfhudpörsm;udk tBuHjyKEdkifa&; twGuf aqmif&Guf&rnf?
-
-- cdkifrmaomb@ma&;pepf jzpfay:apa&;twGuf jynfaxmifpk vTwfawmfu Oya'jy|mef;í  wm0efay;tyfonfh  udpö&yfrsm;udk aqmif&Guf&rnf/
+(1) jynfaxmifpke,fajr toHk;p&dwfrsm;yg&Sdaom jynfaxmifpk\ t&toHk; cefYrSef;ajcaiGpm&if;? wdkif;a'oBuD; odkYr[kwf jynfe,frsm;twGuf jynfaxmifpkb@m&efyHkaiGrS b@maiGrsm;ukd oifhavsmfovdk jznfhqnf;ay;jcif;? txl;udpöwpf&yftaejzifh axmufyHhjcif;? acs;aiGrsm; cGifhjyKjcif;tygt0if jynfaxmifpk\ b@maiG t&toHk;qdkif&m Oya'Murf; odkUr[kwf aemufxyf b@maiGcJGa0oHk;pGJa&; Oya'Murf;ukd jynfaxmifpk vTwfawmfodkY axmufcHwifjy&rnf?
+(2) b@ma&;qdkif&m aqmif&Gufoifhonfhudpörsm;udk tBuHjyKEdkifa&;twGuf aqmif&Guf&rnf?
+(3) cdkifrmaomb@ma&;pepf jzpfay:apa&;twGuf jynfaxmifpk vTwfawmfu Oya'jy|mef;í wm0efay;tyfonfh udpö&yfrsm;udk aqmif&Guf&rnf/
 
 (C) b@ma&;aumfr&Sifonf  jynfaxmifpk\  t&toHk;cefYrSef;ajcaiGpm&if;? wdkif;a'oBuD; odkYr[kwf jynfe,frsm;tm; jynfaxmifpkb@m&efyHkaiGrS b@maiGrsm;udk  oifhwifhavsmufywfpGmjznfhqnf;ay;jcif;?  txl;udpö wpf&yftaejzifh  axmufyHhjcif;?  vdktyfrnfhacs;aiGrsm;  xkwfacs;jcif;wdkY yg0ifonfh  jynfaxmifpk\b@maiGt&toHk;qdkif&m  Oya'Murf;udk jynfaxmifpkvTwfawmfokdY  wifjyEdkifa&;twGuf  EdkifiHawmfor®wxHodkY axmufcHwifjy&rnf?
 
@@ -4159,7 +4176,7 @@ Secretary
 
 ##### Taxes and revenues to be paid to the Union Fund
 
-(a) The Union shall, with the exception of the taxes and revenues listed in Schedule Five to be collected by Regions or States, collect all other taxes and revenues in accord with the law and deposit them in the Union Fund.
+231. (a) The Union shall, with the exception of the taxes and revenues listed in Schedule Five to be collected by Regions or States, collect all other taxes and revenues in accord with the law and deposit them in the Union Fund.
 
 (b) If it is necessary to collect designated receipts or incomes and taxes and revenues to be collected by the Regions or States for the Union territories, the Union shall collect them in accord with the law and deposit them in the Union Fund.
 
@@ -4169,7 +4186,7 @@ Secretary
 
 ##### Appointment of the Union Ministers
 
-(a) The President shall appoint the Union Ministers who possess the following qualifications :
+232. (a) The President shall appoint the Union Ministers who possess the following qualifications :
 
 (i) person who has attained the age of 40 years;
 
@@ -4181,7 +4198,7 @@ Secretary
 
 (b) In order to appoint the Union Ministers, the President shall :
 
-(i) select suitable persons who have qualifications prescribed in SubSection (a) from among the Hluttaw representatives or persons who are not Hluttaw representatives;
+(i) select suitable persons who have qualifications prescribed in Sub-Section (a) from among the Hluttaw representatives or persons who are not Hluttaw representatives;
 
 [[END OF PAGE 185]]
 
@@ -4229,9 +4246,9 @@ Secretary
 
 86
 
-- umuG,fa&;0efBuD;Xme? jynfxJa&;0efBuD;XmeESifh e,fpyfa&;&m 0efBuD;Xmersm;twGuf  wyfrawmfumuG,fa&;OD;pD;csKyfxHrS oifhavsmfonfh  wyfrawmfom;rsm;\trnfpm&if;ukd &,l&rnf?
+(2) umuG,fa&;0efBuD;Xme? jynfxJa&;0efBuD;XmeESifh e,fpyfa&;&m 0efBuD;Xmersm;twGuf wyfrawmfumuG,fa&;OD;pD;csKyfxHrS oifhavsmfonfh wyfrawmfom;rsm;\trnfpm&if;ukd &,l&rnf?
 
-- umuG,fa&;0efBuD;Xme? jynfxJa&;0efBuD;XmeESifh e,fpyfa&;&m 0efBuD;Xmersm;tjyif tjcm;0efBuD;Xmersm;wGif wyfrawmfom; rsm;tm; jynfaxmifpk0efBuD;rsm;tjzpf cefYtyfwm0efay;vkdvQif wyfrawmfumuG,fa&;OD;pD;csKyfESifh n§dEdIif;aqmif&Guf&rnf/
+(3) umuG,fa&;0efBuD;Xme? jynfxJa&;0efBuD;XmeESifh e,fpyfa&;&m 0efBuD;Xmersm;tjyif tjcm;0efBuD;Xmersm;wGif wyfrawmfom;rsm;tm; jynfaxmifpk0efBuD;rsm;tjzpf cefYtyfwm0efay;vkdvQif wyfrawmfumuG,fa&;OD;pD;csKyfESifh n§dEdIif;aqmif&Guf&rnf/
 
 ( * ) EkdifiHawmfor®wonf rdrda&G;cs,fxm;onfh yk*d¾Kvfrsm;\ trnfpm&if; ESifh wyfrawmfumuG,fa&;OD;pD;csKyfxHrS&&Sdonfh wyfrawmfom;rsm;\ trnfpm&if;wdkYukdpkpnf;í  jynfaxmifpkvTwfawmfokdY  wifoGif;vsuf oabmwlnDcsuf &,l&rnf?
 
@@ -4263,7 +4280,7 @@ jynfaxmifpk0efBuD;rsm;onf EkdifiHawmfor®wtm; wm0efcH&rnf?
 
 ##### Impeachment of the Union Minister
 
-(a) Any Union Minister may be impeached on any of the following reasons :
+233. (a) Any Union Minister may be impeached on any of the following reasons :
 
 (i) high treason;
 
@@ -4287,23 +4304,18 @@ jynfaxmifpk0efBuD;rsm;onf EkdifiHawmfor®wtm; wm0efcH&rnf?
 
 (n) (1) jynfaxmifpk0efBuD;onf  EkdifiHh0efxrf;jzpfvQif  jynfaxmifpk 0efBuD;tjzpf  cefYtyfwm0efay;jcif;cH&onfhaeYrSpí  wnfqJ 0efxrf;pnf;rsOf;pnf;urf;rsm;ESifhtnD    EkdifiHh0efxrf;tjzpfrS tNidrf;pm;,lNyD;jzpfonf [krSwf,l&rnf?
 
-- umuG,fa&;0efBuD;Xme? jynfxJa&;0efBuD;XmeESifY e,fpyfa&;&m 0efBuD;Xmersm;twGuf  jynfaxmifpk0efBuD;rsm;tjzpf  cefYtyf xm;jcif;cH&aom wyfrawmfom;rsm;onf wyfrawmfrS tNidrf;pm; ,l&ef odkYr[kwf EkwfxGuf&efrvkd/
+(2) umuG,fa&;0efBuD;Xme? jynfxJa&;0efBuD;XmeESifY e,fpyfa&;&m 0efBuD;Xmersm;twGuf jynfaxmifpk0efBuD;rsm;tjzpf cefYtyfxm;jcif;cH&aom wyfrawmfom;rsm;onf wyfrawmfrS tNidrf;pm;,l&ef odkYr[kwf EkwfxGuf&efrvkd/
 
 ( # ) jynfaxmifpk0efBuD;onf  EkdifiHa&;ygwDwpfckck\  tzGJU0ifjzpfvQif jynfaxmifpk0efBuD;tjzpf  cefYtyfwm0efay;jcif;cH&onfhaeYrSpí  rdrd &mxl;oufwrf;twGif;  ,if;ygwDtzGJUtpnf;\  ygwDvkyfief;rsm;wGif yg0ifaqmif&Gufjcif;rjyK&/
 
 ##### jynfaxmifpk0efBuD;wpfOD;OD;tm;  pGyfpGJjypfwifjcif; jynfaxmifpk0efBuD;wpfOD;OD;tm;  pGyfpGJjypfwifjcif;
 
-- 233/ (u) jynfaxmifpk0efBuD;wpfOD;OD;tm; atmufygtaMumif;wpf&yf&yfjzifh pGyfpGJ jypfwifEkdifonf -
-
-- EkdifiHawmf\aus;Zl;opömawmfukd azmufzsufjcif;?
-
-- zGJUpnf;ykHtajccHOya'yg  jy|mef;csufwpf&yf&yfukd  azmufzsuf usL;vGefjcif;?
-
-- tusifhodu©mysufjym;jcif;?
-
-- zGJUpnf;ykHtajccHOya'wGif  owfrSwfxm;onfh  jynfaxmifpk 0efBuD;\ t&nftcsif;ysuf,Gif;jcif;?
-
-- Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/
+233/ (u) jynfaxmifpk0efBuD;wpfOD;OD;tm; atmufygtaMumif;wpf&yf&yfjzifh pGyfpGJjypfwifEkdifonf -
+(1) EkdifiHawmf\aus;Zl;opömawmfukd azmufzsufjcif;?
+(2) zGJUpnf;ykHtajccHOya'yg jy|mef;csufwpf&yf&yfukd azmufzsufusL;vGefjcif;?
+(3) tusifhodu©mysufjym;jcif;?
+(4) zGJUpnf;ykHtajccHOya'wGif owfrSwfxm;onfh jynfaxmifpk0efBuD;\ t&nftcsif;ysuf,Gif;jcif;?
+(5) Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/
 
 ( c ) jynfaxmifpk0efBuD; wpfOD;OD;tay:pGyfpGJjypfwifvkdygu EkdifiHawmfor®w odkYr[kwf 'kwd,or®wukd pGyfpGJjypfwifjcif;qdkif&m yk'fr 71 yg jy|mef; csufrsm;ESifhtnD aqmif&Guf&rnf?
 
@@ -4315,13 +4327,13 @@ jynfaxmifpk0efBuD;rsm;onf EkdifiHawmfor®wtm; wm0efcH&rnf?
 
 88
 
-- submitted to the President that the charge has been substantiated and  the Union Minister  is unfit to continue in office.
+submitted to the President that the charge has been substantiated and the Union Minister is unfit to continue in office.
 
 (d) If the Hluttaw concerned resolves that the charge has failed, the Speaker of the Hluttaw shall report the resolution to the President.
 
 ##### Appointment of Deputy Ministers
 
-(a) The President  shall  appoint  the  persons,  from  among  Hluttaw representatives or from those who are not Hluttaw representatives, possessing the following qualifications, as Deputy Ministers to assist the Union Ministers :
+234. (a) The President shall appoint the persons, from among Hluttaw representatives or from those who are not Hluttaw representatives, possessing the following qualifications, as Deputy Ministers to assist the Union Ministers :
 
 (i) persons  who have attained the age of  35 years;
 
@@ -4343,23 +4355,16 @@ jynfaxmifpk0efBuD;rsm;onf EkdifiHawmfor®wtm; wm0efcH&rnf?
 
 88
 
-(C)
-
-- EkdifiHawmfor®wu  pGyfpGJjypfwifjcif;cH&onfh  jynfaxmifpk0efBuD;tm; wm0efrS&yfpJ&rnf?
-
-- pGyfpGJjypfwifrIonf rrSefuefaMumif; pkHprf;ppfaq;onfh vTwfawmfu qkH;jzwfygu  xkdokdYqkH;jzwfaMumif;  oufqkdif&mvTwfawmfOuú|onf EkdifiHawmfor®wxH wifjytpD&ifcH&rnf/
+EkdifiHawmfor®wu pGyfpGJjypfwifjcif;cH&onfh jynfaxmifpk0efBuD;tm; wm0efrS&yfpJ&rnf?
+(C) pGyfpGJjypfwifrIonf rrSefuefaMumif; pkHprf;ppfaq;onfh vTwfawmfu qkH;jzwfygu xkdokdYqkH;jzwfaMumif; oufqkdif&mvTwfawmfOuú|onf EdkifiHawmfor®wxH wifjytpD&ifcH&rnf/
 
 ##### 'kwd,0efBuD;rsm;  cefYtyfwm0efay;jcif; 'kwd,0efBuD;rsm;  cefYtyfwm0efay;jcif;
 
-- 234/ (u) EkdifiHawmfor®wonf jynfaxmifpk0efBuD;rsm;tm; taxmuftuljyK&ef vTwfawmfukd,fpm;vS,frsm;xJujzpfap? vTwfawmfukd,fpm;vS,fr[kwfol rsm;xJujzpfap  atmufazmfjyygt&nftcsif;rsm;ESihf  jynfhpkHolrsm;ukd 'kwd,0efBuD;rsm;tjzpf cefYtyfwm0efay;Ekdifonf -
-
-- touf 35 ESpf jynfhNyD;ol?
-
-- toufuefYowfcsufrSty  yk'fr  120  wGif  azmfjyxm;aom jynfolYvTwfawmfudk,fpm;vS,frsm;twGuf owfrSwfxm;onfh t&nftcsif;rsm;ESifhjynfhpkHol?
-
-- yk'fr 121 wGif azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,f rsm;tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csuf rsm;ESifhvnf;  NidpGef;jcif;r&Sdol?
-
-- EkdifiHawmfESifh  EkdifiHom;rsm;tay:opöm&Sdol/
+234/ (u) EkdifiHawmfor®wonf jynfaxmifpk0efBuD;rsm;tm; taxmuftuljyK&ef vTwfawmfukd,fpm;vS,frsm;xJujzpfap? vTwfawmfukd,fpm;vS,fr[kwfolrsm;xJujzpfap atmufazmfjyygt&nftcsif;rsm;ESihf jynfhpkHolrsm;ukd 'kwd,0efBuD;rsm;tjzpf cefYtyfwm0efay;Ekdifonf –
+(1) touf 35 ESpf jynfhNyD;ol?
+(2) toufuefYowfcsufrSty yk'fr 120 wGif azmfjyxm;aom jynfolYvTwfawmfudk,fpm;vS,frsm;twGuf owfrSwfxm;onfh t&nftcsif;rsm;ESifhjynfhpkHol?
+(3) yk'fr 121 wGif azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,f rsm;tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csufrsm;ESifhvnf; NidpGef;jcif;r&Sdol?
+(4) EkdifiHawmfESifh EkdifiHom;rsm;tay:opöm&Sdol/
 
 ( c ) EkdifiHawmfor®wonf  'kwd,0efBuD;rsm;  cefYtyfwm0efay;&mwGif umuG,fa&;? jynfxJa&;ESifh e,fpyfa&;&mwm0efrsm; ay;tyf&efjzpfygu wyfrawmfumuG,fa&;OD;pD;csKyfxHrS oihfavsmfonfhwyfrawmfom;rsm;\ trnfpm&if;ukd &,l&rnf?
 
@@ -4379,7 +4384,7 @@ jynfaxmifpk0efBuD;rsm;onf EkdifiHawmfor®wtm; wm0efcH&rnf?
 
 ##### Term of office, resignation, termination of duties and filling vacancy of the Union Ministers and  Deputy Ministers
 
-(a) The term of the Union Minister and Deputy Minister is the same as that of the President.
+235. (a) The term of the Union Minister and Deputy Minister is the same as that of the President.
 
 (b) The Union Minister or Deputy Minister may resign from office on his own volition due to a certain reason before the expiry of his term of office, after submitting his written resignation to the President.
 
@@ -4409,13 +4414,9 @@ vnf;aumif; wm0efcH&rnf?
 
 ( c ) jynfaxmifpk0efBuD;  odkYr[kwf  'kwd,0efBuD;onf  &mxl;oufwrf; rukefqkH;rD taMumif;wpfckckaMumihf rdrdoabmqE´tavsmuf &mxl;rS EkwfxGufvkdvQif  xkdokdYEkwfxGufvkdaMumif;  EkdifiHawmfor®wxH  pmjzihf wifjyNyD; &mxl;rS EkwfxGufEkdifonf?
 
-( * )
-
-EkdifiHawmfor®wonf -
-
-- ay;tyfonfhwm0efukd  ausyGefpGm  rxrf;aqmifEkdifaom jynfaxmifpk0efBuD; odkYr[kwf 'kwd,0efBuD;wpfOD;OD;tm; &mxl; rSEkwfxGuf&ef ñTefMum;Ekdifonf/ ñTefMum;onfhtwdkif; vkdufem jcif;rjyKvQif  wm0efrS&yfpJ&rnf?
-
-&mxl;rSEkwfxGuf&rnfh  odkYr[kwf  wm0efrS&yfpJcH&rnfh wyfrawmfom; jynfaxmifpk0efBuD; odkYr[kwf 'kwd,0efBuD;ESifY ywfoufvQif  wyfrawmfumuG,fa&;OD;pD;csKyfESifh  n§dEdIif; aqmif&Guf&rnf/
+(*) EkdifiHawmfor®wonf –
+(1) ay;tyfonfhwm0efukd ausyGefpGm rxrf;aqmifEkdifaom jynfaxmifpk0efBuD; odkYr[kwf 'kwd,0efBuD;wpfOD;OD;tm; &mxl;rSEkwfxGuf&ef ñTefMum;Ekdifonf/ ñTefMum;onfhtwdkif; vkdufemjcif;rjyKvQif wm0efrS&yfpJ&rnf?
+(2) &mxl;rSEkwfxGuf&rnfh odkYr[kwf wm0efrS&yfpJcH&rnfh wyfrawmfom; jynfaxmifpk0efBuD; odkYr[kwf 'kwd,0efBuD;ESifY ywfoufvQif wyfrawmfumuG,fa&;OD;pD;csKyfESifh n§dEdIif;aqmif&Guf&rnf/
 
 (C) &mxl;rSEkwfxGufjcif;aMumifhjzpfap?  wm0efrS&yfpJcH&jcif;aMumifhjzpfap? uG,fvGefjcif;aMumifhjzpfap?  tjcm;taMumif;wpfckckaMumifhjzpfap? jynfaxmifpk0efBuD;  odkYr[kwf  'kwd,0efBuD;&mxl;ae&m  vpfvyfvQif
 
@@ -4435,11 +4436,11 @@ Deputy Minister in accord with the provisions of the Constitution relating to th
 
 #### The Attorney General of the Union and the Deputy Attorney General
 
-- The Attorney General of the Union shall be called the Attorney General of the Union.
+236. The Attorney General of the Union shall be called the Attorney General of the Union.
 
 ##### The appointment of the Attorney General of the Union
 
-(a) The President, with the approval of the Pyidaungsu Hluttaw, shall  appoint a person, from among Hluttaw  representatives or persons who are not
+237. (a) The President, with the approval of the Pyidaungsu Hluttaw, shall appoint a person, from among Hluttaw representatives or persons who are not
 
 [[END OF PAGE 195]]
 
@@ -4451,11 +4452,11 @@ EkdifiHawmfor®wonf  zGJUpnf;ykHtajccHOya'yg  jynfaxmifpk0efBuD; odkYr[kwf  'kwd
 
 ( i ) (1) jynfaxmifpk0efBuD;  odkYr[kwf  'kwd,0efBuD;rsm;tm;  cefYtyf wm0efay;onfh EkdifiHawmfor®wonf &mxl;oufwrf;rukefqkH;rD EkwfxGufaomaMumihfjzpfap?  uG,fvGefaomaMumifhjzpfap?  wpfpkH wpfckaom  taMumif;aMumihfjzpfap  EkdifiHawmfor®w  &mxl; vpfvyfygu tpm;xkd;a&G;cs,f wifajr§mufvkdufonfh EkdifiHawmf or®wtopfu  jynfaxmifpk0efBuD;topfrsm;  odkYr[kwf 'kwd,0efBuD;topfrsm;ukd  cefYtyfwm0efay;NyD;onfh  tcsdeftxd jynfaxmifpk0efBuD;rsm;ESifY  'kwd,0efBuD;rsm;onf  rdrdwkdY\ vkyfief;wm0efrsm;ukd  qufvufxrf;aqmif&rnf?
 
-- tpm;xkd;cefYtyf  wm0efay;jcif;cH&onfh  jynfaxmifpk0efBuD; topfrsm;ESifY 'kwd,0efBuD;topfrsm;\ &mxl;oufwrf;onf EkdifiHawmfor®wtopf\  usef&Sdonfh  &mxl;oufwrf; ukefqkH;onftxdom jzpf&rnf/
+(2) tpm;xkd;cefYtyf wm0efay;jcif;cH&onfh jynfaxmifpk0efBuD;topfrsm;ESifY 'kwd,0efBuD;topfrsm;\ &mxl;oufwrf;onf EkdifiHawmfor®wtopf\ usef&Sdonfh &mxl;oufwrf;ukefqkH;onftxdom jzpf&rnf/
 
 ( p ) jynfaxmifpk0efBuD;ESifh 'kwd,0efBuD;rsm;\ wm0efrsm;? vkyfykdifcGifhrsm;ESifh &ykdifcGifhrsm;ukd  Oya'jy|mef;owfrSwf&rnf/
 
-#### jynfaxmifpka&SUaecsKyfESifh  'kwd,a&SUaecsKyf k jynfaxmifpka&SUaecsKyfESifh  'kwd,a&SUaecsKyf
+#### jynfaxmifpka&SUaecsKyfESifh  'kwd,a&SUaecsKyf jynfaxmifpka&SUaecsKyfESifh  'kwd,a&SUaecsKyf
 
 236/ jynfaxmifpk\a&SUaecsKyfudk jynfaxmifpka&SUaecsKyf[k ac:a0:&rnf/
 
@@ -4469,7 +4470,7 @@ EkdifiHawmfor®wonf  zGJUpnf;ykHtajccHOya'yg  jynfaxmifpk0efBuD; odkYr[kwf  'kwd
 
 91
 
-Hluttaw representatives having the following qualifications as the  AttorneyGeneral of the Union to obtain legal advice and assign duties on legal matters :
+Hluttaw representatives having the following qualifications as the Attorney-General of the Union to obtain legal advice and assign duties on legal matters :
 
 (i) person who has attained the age of 45 years;
 
@@ -4517,11 +4518,11 @@ vTwfawmfukd,fpm;vS,f  r[kwfolrsm;xJujzpfap  atmufazmfjyyg t&nftcsif;rsm;ESifhjyn
 
 ##### Impeachment of the Attorney General of the Union
 
-- If  there  is  a  need  to  impeach  the  Attorney General of the Union, the same procedure for the impeachment of the Union Minister under Section 233 shall be applied.
+238. If there is a need to impeach the Attorney General of the Union, the same procedure for the impeachment of the Union Minister under Section 233 shall be applied.
 
 ##### Appointment of the Deputy Attorney General
 
-(a) The President shall appoint, in his own volition, the persons from among the Hluttaw representatives or from among those who are not Hluttaw representatives who have the following qualifications, as Deputy  Attorney General to assist the  Attorney General of the Union :
+239. (a) The President shall appoint, in his own volition, the persons from among the Hluttaw representatives or from among those who are not Hluttaw representatives who have the following qualifications, as Deputy Attorney General to assist the Attorney General of the Union :
 
 (i) person who has attained the age of 40 years;
 
@@ -4535,9 +4536,10 @@ vTwfawmfukd,fpm;vS,f  r[kwfolrsm;xJujzpfap  atmufazmfjyyg t&nftcsif;rsm;ESifhjyn
 
 92
 
-( i ) jynfaxmifpka&SUaecsKyfonf EkdifiHawmfor®wtm; wm0efcH&rnf? ( p ) jynfaxmifpka&SUaecsKyfonf vTwfawmfwpf&yf&yf\ ukd,fpm;vS,fjzpfvQif jynfaxmifpka&SUaecsKyftjzpf  cefYtyfwm0efay;jcif;cH&onfhaeYrSpí vTwfawmfukd,fpm;vS,ftjzpfrS EkwfxGufNyD;jzpfonf[k rSwf,l&rnf? (q) jynfaxmifpka&SUaecsKyfonf  EkdifiHh0efxrf;jzpfvQif  jynfaxmifpk a&SUaecsKyftjzpf cefYtyfwm0efay;jcif;cH&onfhaeYrSpí wnfqJ0efxrf; pnf;rsOf;pnf;urf;rsm;ESifhtnD  EkdifiHh0efxrf;tjzpfrS  tNidrf;pm;,lNyD; jzpfonf[k rSwf,l&rnf? jynfaxmifpka&SUaecsKyfonf  EkdifiHa&;ygwDwpfckck\  tzGJU0ifjzpfvQif jynfaxmifpka&SUaecsKyftjzpf  cefYtyfwm0efay;jcif;cH&onfh  aeYrSpí rdrd&mxl;oufwrf;twGif; ,if;ygwDtzJGUtpnf;\  ygwDvkyfief;rsm;wGif
-
-( Z ) yg0ifaqmif&Gufjcif;rjyK&/
+(i) jynfaxmifpka&SUaecsKyfonf EkdifiHawmfor®wtm; wm0efcH&rnf?
+(p) jynfaxmifpka&SUaecsKyfonf vTwfawmfwpf&yf&yf\ ukd,fpm;vS,fjzpfvQif jynfaxmifpka&SUaecsKyftjzpf cefYtyfwm0efay;jcif;cH&onfhaeYrSpí vTwfawmfukd,fpm;vS,ftjzpfrS EkwfxGufNyD;jzpfonf[k rSwf,l&rnf?
+(q) jynfaxmifpka&SUaecsKyfonf EkdifiHh0efxrf;jzpfvQif jynfaxmifpka&SUaecsKyftjzpf cefYtyfwm0efay;jcif;cH&onfhaeYrSpí wnfqJ0efxrf;pnf;rsOf;pnf;urf;rsm;ESifhtnD EkdifiHh0efxrf;tjzpfrS tNidrf;pm;,lNyD;jzpfonf[k rSwf,l&rnf?
+(Z) jynfaxmifpka&SUaecsKyfonf EkdifiHa&;ygwDwpfckck\ tzGJU0ifjzpfvQif jynfaxmifpka&SUaecsKyftjzpf cefYtyfwm0efay;jcif;cH&onfh aeYrSpí rdrd&mxl;oufwrf;twGif; ,if;ygwDtzJGUtpnf;\ ygwDvkyfief;rsm;wGif yg0ifaqmif&Gufjcif;rjyK&/
 
 ##### jynfaxmifpka&SUaecsKyftm;  pGyfpJGjypfwifjcif; jynfaxmifpka&SUaecsKyftm;  pGyfpJGjypfwifjcif;
 
@@ -4545,11 +4547,10 @@ vTwfawmfukd,fpm;vS,f  r[kwfolrsm;xJujzpfap  atmufazmfjyyg t&nftcsif;rsm;ESifhjyn
 
 ##### 'kwd,a&SUaecsKyf  cefYtyfwm0efay;jcif; 'kwd,a&SUaecsKyf  cefYtyfwm0efay;jcif;
 
-239/ (u) EkdifiHawmfor®wonf jynfaxmifpka&SUaecsKyftm; taxmuftuljyK&ef vTwfawmfukd,fpm;vS,frsm;xJujzpfap?  vTwfawmfukd,fpm;vS,f r[kwfolrsm;xJujzpfap atmufazmfjyygt&nftcsif;rsm;ESifh jynfhpkHonfh yk*d¾KvfwpfOD;OD;tm;  rdrdoabmqE´tavsmuf  'kwd,a&SUaecsKyftjzpf
-
-- cefYtyfwm0efay;&rnf (1) touf 40 ESpf jynfhNyD;ol? (2) toufuefYowfcsufrSty  yk'fr  120  wGif  azmfjyxm;aom jynfolYvTwfawmfukd,fpm;vS,frsm;twGuf owfrSwfxm;onfh t&nftcsif;rsm;ESihf jynfhpkHol? yk'fr 121 wGif azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,f
-
-- rsm;tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csuf rsm;ESifhvnf;  NidpGef;jcif;r&Sdol?
+239/ (u) EkdifiHawmfor®wonf jynfaxmifpka&SUaecsKyftm; taxmuftuljyK&ef vTwfawmfukd,fpm;vS,frsm;xJujzpfap? vTwfawmfukd,fpm;vS,f r[kwfolrsm;xJujzpfap atmufazmfjyygt&nftcsif;rsm;ESifh jynfhpkHonfh yk*d¾KvfwpfOD;OD;tm; rdrdoabmqE´tavsmuf 'kwd,a&SUaecsKyftjzpf cefYtyfwm0efay;&rnf –
+(1) touf 40 ESpf jynfhNyD;ol?
+(2) toufuefYowfcsufrSty yk'fr 120 wGif azmfjyxm;aom jynfolYvTwfawmfukd,fpm;vS,frsm;twGuf owfrSwfxm;onfh t&nftcsif;rsm;ESihf jynfhpkHol?
+(3) yk'fr 121 wGif azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,f rsm;tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csufrsm;ESifhvnf; NidpGef;jcif;r&Sdol?
 
 [[END OF PAGE 200]]
 
@@ -5148,13 +5149,13 @@ tokH;p&dwf cGifhjyKcsufabmiftwGif; okH;pJGcGifh&Sdonf/
 ##### wkdif;a'oBuD;0efBuD;rsm;  okdYr[kwf  jynfe,f0efBuD;rsm;  cefYtyfwm0efay;jcif; wkdif;a'oBuD;0efBuD;rsm;  okdYr[kwf  jynfe,f0efBuD;rsm;  cefYtyfwm0efay;jcif;
 262/ (u) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf -
 
-- oufqkdif&mwkdif;a'oBuD;  okdYr[kwf  jynfe,fvTwfawmf udk,fpm;vS,frsm;xJujzpfap? vTwfawmfukd,fpm;vS,fr[kwfol rsm;xJujzpfap  yk'fr  261?  yk'frcGJ  (u)  yg  jy|mef;csufwGif owfrSwfxm;onfh t&nftcsif;rsm;ESihfjynfhpkHaom  oifhavsmfonfh yk*d¾Kvfrsm;ukd  a&G;cs,f&rnf?
+(1) oufqkdif&mwkdif;a'oBuD;  okdYr[kwf  jynfe,fvTwfawmf udk,fpm;vS,frsm;xJujzpfap? vTwfawmfukd,fpm;vS,fr[kwfol rsm;xJujzpfap  yk'fr  261?  yk'frcGJ  (u)  yg  jy|mef;csufwGif owfrSwfxm;onfh t&nftcsif;rsm;ESihfjynfhpkHaom  oifhavsmfonfh yk*d¾Kvfrsm;ukd  a&G;cs,f&rnf?
 
-- vkHNcKHa&;ESihfe,fpyfa&;&m  wm0efay;tyfEkdif&ef  wyfrawmf umuG,fa&;OD;pD;csKyfxHrS  oihfavsmfonfh  wyfrawmfom;rsm;\ trnfpm&if;ukd  awmif;cH&rnf?
+(2) vkHNcKHa&;ESihfe,fpyfa&;&m  wm0efay;tyfEkdif&ef  wyfrawmf umuG,fa&;OD;pD;csKyfxHrS  oihfavsmfonfh  wyfrawmfom;rsm;\ trnfpm&if;ukd  awmif;cH&rnf?
 
-- oufqkdif&m  wkdif;a'oBuD;  okdYr[kwf  jynfe,ftwGif;&Sd  ukd,fykdif tkyfcsKyfcGifh&wkdif;OD;pD;tzGJU  odkYr[kwf  ukd,fykdiftkyfcsKyfcGifh&a'o OD;pD;tzGJUxHrS  ,if;wdkY\Ouú|trnfpm&if;ukd  &,l&rnf?
+(3) oufqkdif&m  wkdif;a'oBuD;  okdYr[kwf  jynfe,ftwGif;&Sd  ukd,fykdif tkyfcsKyfcGifh&wkdif;OD;pD;tzGJU  odkYr[kwf  ukd,fykdiftkyfcsKyfcGifh&a'o OD;pD;tzGJUxHrS  ,if;wdkY\Ouú|trnfpm&if;ukd  &,l&rnf?
 
-- oufqkdif&m wkdif;a'oBuD;  okdYr[kwf  jynfe,ftwGif;&Sd  wkdif;&if; om;vlrsKd;a&;&m  aqmif&Guf&eftwGuf  a&G;aumufwifajr§muf xm;onfh  vTwfawmfukd,fpm;vS,frsm;\  trnfpm&if;ukd oufqkdif&m a&G;aumufyGJ  aumfr&SifxHrS  &,l&rnf/
+(4) oufqkdif&m wkdif;a'oBuD;  okdYr[kwf  jynfe,ftwGif;&Sd  wkdif;&if; om;vlrsKd;a&;&m  aqmif&Guf&eftwGuf  a&G;aumufwifajr§muf xm;onfh  vTwfawmfukd,fpm;vS,frsm;\  trnfpm&if;ukd oufqkdif&m a&G;aumufyGJ  aumfr&SifxHrS  &,l&rnf/
 
 ( c ) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf rdrda&G;cs,fxm;onfh yk*d¾Kvfrsm;ESifhwyfrawmfumuG,fa&;OD;pD;csKyfxHrS&&Sdonfhwyfrawmfom; rsm;\  trnfpm&if;ukdpkpnf;NyD;  oufqkdif&mwkdif;a'oBuD;  okdYr[kwf jynfe,fvTwfawmfodkYwifoGif;vsuf oabmwlnDcsuf&,l&rnf?
 
@@ -5204,7 +5205,7 @@ oufqkdif&mukd,fykdiftkyfcsKyfcGihf&wkdif;  odkYr[kwf  ukd,fykdif
 
 tkyfcsKyfcGihf&  a'oa&;&mrsm;ukd  aqmif&Guf&efwm0efay;tyf&rnf?
 
-- wkdif;a'oBuD; okdYr[kwf  jynfe,f0efBuD;rsm;jzpfonfh  wkdif;&if;om; vlrsKd;a&;&maqmif&Guf&ef  a&G;aumufwifajr§mufxm;onfh vTwfawmfukd,fpm;vS,frsm;tm;  oufqkdif&m  wkdif;&if;om; vlrsKd;a&;&mrsm;ukdaqmif&Guf&ef wm0efay;tyf&rnf/
+(2) wkdif;a'oBuD; okdYr[kwf  jynfe,f0efBuD;rsm;jzpfonfh  wkdif;&if;om; vlrsKd;a&;&maqmif&Guf&ef  a&G;aumufwifajr§mufxm;onfh vTwfawmfukd,fpm;vS,frsm;tm;  oufqkdif&m  wkdif;&if;om; vlrsKd;a&;&mrsm;ukdaqmif&Guf&ef wm0efay;tyf&rnf/
 
 [[END OF PAGE 228]]
 
@@ -5278,7 +5279,7 @@ EkdifiHawmfor®wonf wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfESifh
 
 okdYr[kwf
 
-j ynfe,fvTwfawmfokdYvnf;aumif;?  jynfaxmifpkvTwfawmfodkY
+jynfe,fvTwfawmfokdYvnf;aumif;?  jynfaxmifpkvTwfawmfodkY
 
 vnf;aumif; taMumif;Mum;&rnf?
 
@@ -5316,7 +5317,7 @@ EkdifiHawmfor®wtm;vnf;aumif; wm0efcH&rnf/
 
 ##### Impeachment of the Chief Minister of the Region or State or any Minister
 
-(a) The Chief Minister of the Region or State or any Minister, may be impeached for one of the following reasons :
+263. (a) The Chief Minister of the Region or State or any Minister, may be impeached for one of the following reasons :
 
 (i) high treason;
 
@@ -5340,7 +5341,7 @@ EkdifiHawmfor®wtm;vnf;aumif; wm0efcH&rnf/
 
 ( ¡ ) (1) wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;onf  EkdifiHh0efxrf;jzpfvQif wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;tjzpf  cefYtyfjcif; cH&onfhaeYrSpí wnfqJ 0efxrf;  pnf;rsOf;pnf;urf;rsm;ESihftnD EkdifiHh0efxrf;tjzpfrS tNidrf;pm;,lNyD;jzpfonf[k rSwf,l&rnf?
 
-- wkdif;a'oBuD; okdYr[kwf jynfe,ftpkd;&tzGJUrsm;\ vkHNcKHa&;ESihf e,fpyfa&;&m0efBuD;Xmersm;wGif  wkdif;a'oBuD;  okdYr[kwf j ynfe,f0efBuD;tjzpf  cefYxm;jcif;cH&aom  wyfrawmfom;rsm;onf wyfrawmfrStNidrf;pm;,l&ef okdYr[kwf EkwfxGuf&efrvkd/
+(2) wkdif;a'oBuD; okdYr[kwf jynfe,ftpkd;&tzGJUrsm;\ vkHNcKHa&;ESihf e,fpyfa&;&m0efBuD;Xmersm;wGif  wkdif;a'oBuD;  okdYr[kwf jynfe,f0efBuD;tjzpf  cefYxm;jcif;cH&aom  wyfrawmfom;rsm;onf wyfrawmfrStNidrf;pm;,l&ef okdYr[kwf EkwfxGuf&efrvkd/
 
 ##### wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;wpfOD;OD;tay:  pGyfpGJ wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;wpfOD;OD;tay:  pGyfpGJ jypfwifjcif; jypfwifjcif;
 
@@ -5348,15 +5349,15 @@ EkdifiHawmfor®wtm;vnf;aumif; wm0efcH&rnf/
 
 wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyf  okdYr[kwf  0efBuD;wpfOD;OD;  tm; atmufygtaMumif;wpf&yf&yfaMumifh pGyfpGJjypfwifEkdifonf -
 
-- EkdifiHawmf\aus;Zl;opömawmfukd azmufzsufjcif;?
+(1) EkdifiHawmf\aus;Zl;opömawmfukd azmufzsufjcif;?
 
-- zGJUpnf;ykHtajccHOya'yg  jy|mef;csufwpf&yf&yfukd  azmufzsuf usL;vGefjcif;?
+(2) zGJUpnf;ykHtajccHOya'yg  jy|mef;csufwpf&yf&yfukd  azmufzsuf usL;vGefjcif;?
 
-- tusihfodu©m ysufjym;jcif;?
+(3) tusihfodu©m ysufjym;jcif;?
 
-- zGJUpnf;ykHtajccHOya'wGif  jy|mef;xm;onfh  wkdif;a'oBuD;  okdYr[kwf jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;\t&nftcsif;  ysuf,Gif;jcif;?
+(4) zGJUpnf;ykHtajccHOya'wGif  jy|mef;xm;onfh  wkdif;a'oBuD;  okdYr[kwf jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;\t&nftcsif;  ysuf,Gif;jcif;?
 
-- Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/
+(5) Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/
 
 ( c ) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyf odkYr[kwf 0efBuD;wpfOD;OD; tay:azmfjyygtaMumif;wpf&yf&yfjzifh pGyfpGJjypfwifvkdygu oufqkdif&m wkdif;a'oBuD;vTwfawmf  okdYr[kwf  jynfe,fvTwfawmfukd,fpm;vS,f pkpkaygif;OD;a&teuf  tenf;qkH;av;ykHwpfykHu  vufrSwfa&;xkd;NyD; rdrdwdkY\pGyfpGJcsufudk  oufqkdif&mvTwfawmfOuú|xH wifjy&rnf?
 
@@ -5380,7 +5381,7 @@ If, after the investigation, on submitting the findings of the charge has been s
 
 ##### Resignation, termination of office, filling the vacancy of the Chief Minister or Minister of the Region or State
 
-(a) The Chief Minister or any Minister of the Region or State may resign from office on his own volition due to a certain reason before expiry of the term of office, after submitting his written resignation to the President.
+264. (a) The Chief Minister or any Minister of the Region or State may resign from office on his own volition due to a certain reason before expiry of the term of office, after submitting his written resignation to the President.
 
 [[END OF PAGE 233]]
 
@@ -5392,9 +5393,9 @@ If, after the investigation, on submitting the findings of the charge has been s
 
 ( i ) (1) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyf odkYr[kwf 0efBuD; wpfOD;OD;tay: oufqkdif&mwkdif;a'oBuD;vTwfawmf okdYr[kwf jynfe,fvTwfawmf\ pGyfpGJjypfwifrIESihfpyfvsOf;í pkHprf;ppfaq; a&;tzGJUu pkHprf;ppfaq;awGU&Sdcsufrsm;ukd  wifjyvmvQif  vTwfawmf Ouú|onf  oufqkdif&mwkdif;a'oBuD;  vTwfawmf  okdYr[kwf jynfe,fvTwfawmfodkY  wifjy&rnf/  oufqkdif&m  vTwfawmf ukd,fpm;vS,fpkpkaygif;OD;a& tenf;qkH;okH;ykHESpfykHu  pGyfpGJjypfwifrI onfrSefuefí pGyfpGJcH&olonf wkdif;a'oBuD; okdYr[kwf jynfe,f 0efBuD;csKyf  okdYr[kwf  0efBuD;&mxl;wGif  qufvufxrf;&Gufap&ef roifhaMumif;qkH;jzwfvQif Ouú|onf xkdqkH;jzwfcsufudk EkdifiHawmf or®wxH wifjytpD&ifcH&rnf?
 
-- EkdifiHawmfor®wonf wifjycsuf&&SdvQif pGyfpGJjypfwifjcif;cH&onfh wkdif;a'oBuD; okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;tm; &mxl;rS&yfpJ&rnf?
+(2) EkdifiHawmfor®wonf wifjycsuf&&SdvQif pGyfpGJjypfwifjcif;cH&onfh wkdif;a'oBuD; okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;tm; &mxl;rS&yfpJ&rnf?
 
-- pGyfpGJjypfwifrIonf rrSefuefaMumif; oufqkdif&mvTwfawmfu qkH;jzwfvQif  xkdokdYqkH;jzwfaMumif;ukd  vTwfawmfOuú|onf EkdifiHawmfor®wxH wifjytpD&ifcH&rnf/
+(3) pGyfpGJjypfwifrIonf rrSefuefaMumif; oufqkdif&mvTwfawmfu qkH;jzwfvQif  xkdokdYqkH;jzwfaMumif;ukd  vTwfawmfOuú|onf EkdifiHawmfor®wxH wifjytpD&ifcH&rnf/
 
 ##### wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;wpfOD;OD;  EkwfxGufjcif;? wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;wpfOD;OD;  EkwfxGufjcif;? wm0efrS&yfpJjcif;ESifY  vpfvyf&mxl;ae&m  jznfhpGufcefYxm;jcif; wm0efrS&yfpJjcif;ESifY  vpfvyf&mxl;ae&m  jznfhpGufcefYxm;jcif;
 
@@ -5418,11 +5419,11 @@ If, after the investigation, on submitting the findings of the charge has been s
 
 #### Advocate-General of the Region or Advocate-General of the State
 
-- The Advocate-General of the Region or the  Advocate-General of the State shall be called the  Advocate-General of the Region or the  Advocate-General of the State.
+265. The Advocate-General of the Region or the Advocate-General of the State shall be called the Advocate-General of the Region or the Advocate-General of the State.
 
 ##### The Appointment of the Advocate-General of the Region or State
 
-(a) The Chief Minister of the Region or State shall, with the approval of the Region or State Hluttaw concerned, appoint a person from among the Region or State Hluttaw representatives or from those who are not the
+266. (a) The Chief Minister of the Region or State shall, with the approval of the Region or State Hluttaw concerned, appoint a person from among the Region or State Hluttaw representatives or from those who are not the
 
 [[END OF PAGE 235]]
 
@@ -5438,13 +5439,17 @@ If, after the investigation, on submitting the findings of the charge has been s
 
 ##### wkdif;a'oBuD;Oya'csKyf  okdYr[kwf  jynfe,fOya'csKyf  cefYtyfwm0efay;jcif; wkdif;a'oBuD;Oya'csKyf  okdYr[kwf  jynfe,fOya'csKyf  cefYtyfwm0efay;jcif;
 
-266/ (u) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf Oya'tBuHÓPfrsm; &,lEkdif&efESihf  Oya'qkdif&mwm0efrsm;ay;Ekdif&ef  vTwfawmfukd,fpm;vS,f rsm;xJujzpfap?  vTwfawmfukd,fpm;vS,fr[kwfolrsm;xJujzpfap Hluttaw representatives having the following qualifications as the Advocate General of the Region or State to obtain legal advice and assign duties on legal matters :
+266/ (u) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf Oya'tBuHÓPfrsm; &,lEkdif&efESihf Oya'qkdif&mwm0efrsm;ay;Ekdif&ef vTwfawmfukd,fpm;vS,frsm;xJujzpfap? vTwfawmfukd,fpm;vS,fr[kwfolrsm;xJujzpfap
 
 [[END OF PAGE 236]]
 
 [[START OF PAGE 237]]
 
 111
+
+Hluttaw representatives having the following qualifications as the
+Advocate General of the Region or State to obtain legal advice and assign
+duties on legal matters :
 
 (i) person who has attained the age of 40 years;
 
@@ -5534,7 +5539,7 @@ cefYtyfwm0efay;&rnf?
 
 112
 
-- proved that the person concerned does not meet the qualifications of the Advocate-General of the Region or State.
+proved that the person concerned does not meet the qualifications of the Advocate-General of the Region or State.
 
 (d) The Chief Minister of the Region or State has the right to submit again the list  for  the  appointment of a person as the  Advocate-General of the Region or State to the Region or State Hluttaw concerned instead of the one who has not been approved by the Region or State Hluttaw.
 
@@ -5560,7 +5565,7 @@ cefYtyfwm0efay;&rnf?
 
 112
 
-yk*d¾Kvftm;  wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyftjzpf cefYtyf wm0efay;&ef jiif;y,fcGifhr&Sdap&? (C) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf wkdif;a'oBuD; okdYr[kwf jynfe,fOya'csKyftjzpf cefYtyfwm0efay;&ef wkdif;a'oBuD; okdYr[kwf jynfe,fvTwfawmf\oabmwlnDcsufr&&Sdonfh  yk*d¾Kvftpm;  trnf pm&if;opfukd oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f vTGwfawmfodkY xyfrHwifoGif;cGihf&Sdonf? ( i ) wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyfonf  oufqkdif&m  wkdif;a'oBuD; okdYr[kwf jynfe,ftpkd;&tzGJU0if jzpfonf? ( p ) wkdif;a'oBuD; okdYr[kwf jynfe,fOya'csKyfonf (1) oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfrSwpfqifh EkdifiHawmfor®wtm; wm0efcH&rnf? (2) j ynfaxmifpka&SUaecsKyftm;vnf;aumif;?  oufqkdif&m wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyftm;vnf;aumif; wm0efcH&rnf/
+yk*d¾Kvftm;  wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyftjzpf cefYtyf wm0efay;&ef jiif;y,fcGifhr&Sdap&? (C) wkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf wkdif;a'oBuD; okdYr[kwf jynfe,fOya'csKyftjzpf cefYtyfwm0efay;&ef wkdif;a'oBuD; okdYr[kwf jynfe,fvTwfawmf\oabmwlnDcsufr&&Sdonfh  yk*d¾Kvftpm;  trnf pm&if;opfukd oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f vTGwfawmfodkY xyfrHwifoGif;cGihf&Sdonf? ( i ) wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyfonf  oufqkdif&m  wkdif;a'oBuD; okdYr[kwf jynfe,ftpkd;&tzGJU0if jzpfonf? ( p ) wkdif;a'oBuD; okdYr[kwf jynfe,fOya'csKyfonf (1) oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfrSwpfqifh EkdifiHawmfor®wtm; wm0efcH&rnf? (2) jynfaxmifpka&SUaecsKyftm;vnf;aumif;?  oufqkdif&m wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyftm;vnf;aumif; wm0efcH&rnf/
 
 ##### wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyftm;  pGyfpGJjypfwifjcif; wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyftm;  pGyfpGJjypfwifjcif;
 
@@ -5576,15 +5581,15 @@ yk*d¾Kvftm;  wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyftjzpf cefYtyf wm0efay;&e
 
 113
 
-- Duties, powers and rights of the  Advocate-General of the Region or State shall be prescribed by law.
+269. Duties, powers and rights of the Advocate-General of the Region or State shall be prescribed by law.
 
 #### Auditor-General of the Region or Auditor-General of the State
 
-- The Auditor-General of the Region or State shall be called the  Auditor-General of the Region or  Auditor-General of the State.
+270. The Auditor-General of the Region or State shall be called the Auditor-General of the Region or Auditor-General of the State.
 
 ##### Appointment of the Auditor-General of the Region or the Auditor-General of the State
 
-(a) The Chief Minister of the Region or State shall appoint a person from Hluttaw representatives or from those who are not Hluttaw representatives, who has the following qualifications, with the approval of the relevant Region or State Hluttaw as the  Auditor-General of the Region or State so as to audit the Region or State budget and report it:
+271. (a) The Chief Minister of the Region or State shall appoint a person from Hluttaw representatives or from those who are not Hluttaw representatives, who has the following qualifications, with the approval of the relevant Region or State Hluttaw as the Auditor-General of the Region or State so as to audit the Region or State budget and report it:
 
 (i) person who has attained the age of 40 years;
 
@@ -5652,9 +5657,9 @@ yk*d¾Kvftm;  wkdif;a'oBuD;  okdYr[kwf  jynfe,fOya'csKyftjzpf cefYtyf wm0efay;&e
 
 wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
-- oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfrSwpfqifh EkdifiHawmfor®wtm; wm0efcH&rnf?
+(1) oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfrSwpfqifh EkdifiHawmfor®wtm; wm0efcH&rnf?
 
-- jynfaxmifpkpm&if;ppfcsKyftm;  vnf;aumif;?  oufqkdif&m wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyftm;  vnf;aumif; wm0efcH&rnf/
+(2) jynfaxmifpkpm&if;ppfcsKyftm;  vnf;aumif;?  oufqkdif&m wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyftm;  vnf;aumif; wm0efcH&rnf/
 
 ##### wkdif;a'oBuD;  pm&if;ppfcsKyf  okdYr[kwf  jynfe,fpm&if;ppfcsKyftm;  pGyfpGJjypfwifjcif; wkdif;a'oBuD;  pm&if;ppfcsKyf  okdYr[kwf  jynfe,fpm&if;ppfcsKyftm;  pGyfpGJjypfwifjcif;
 272/ wkdif;a'oBuD; okdYr[kwf  jynfe,fpm&if;ppfcsKyftm;  pGyfpGJjypfwif&ef  udpöay:ayguf vQif  wkdif;a'oBuD;  okdYr[kwf  jynfe,f0efBuD;csKyf  odkYr[kwf  0efBuD;wpfOD;OD;tm; pGyfpGJjypfwifjcif;qdkif&m  yk'fr  263  yg    jy|mef;csufrsm;ESifhtnD  aqmif&Guf&rnf/
@@ -5667,19 +5672,19 @@ wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
 ##### Resignation, termination of office, filling the vacancy of the Auditor-General of the Region or the Auditor-General of the State
 
-- The Auditor-General of the Region or State is, subject to provisions of Section 264 prescribed for the Chief Minister or Ministers of the Region or State concerning resignation, termination of office, filling the vacancy and deeming as the person to have retired in case he is a Civil Services personnel.
+273. The Auditor-General of the Region or State is, subject to provisions of Section 264 prescribed for the Chief Minister or Ministers of the Region or State concerning resignation, termination of office, filling the vacancy and deeming as the person to have retired in case he is a Civil Services personnel.
 
-- Duties, powers and rights of the  Auditor-General of the Region or  State shall be prescribed by law.
+274. Duties, powers and rights of the Auditor-General of the Region or State shall be prescribed by law.
 
 #### Administrative Body of the Self-Administered Division or Self-Administered Zone
 
-- The  Administrative Body of Self-Administered Division or Self-Administered Zone shall be called the leading body of the Self-Administered Division or leading body of the Self-Administered Zone.
+275. The Administrative Body of Self-Administered Division or Self-Administered Zone shall be called the leading body of the Self-Administered Division or leading body of the Self-Administered Zone.
 
-##### Formation of Leading Bodies of the Self-Administered Division and the SelfAdministered Zone
+##### Formation of Leading Bodies of the Self-Administered Division and the Self-Administered Zone
 
-(a) Being Self-Administered  Areas, the Self-Administered Division and the Self-Administered Zones are of equal status.
+276. (a) Being Self-Administered Areas, the Self-Administered Division and the Self-Administered Zones are of equal status.
 
-(b) Leading Bodies of the Self-Administered Division and the SelfAdministered Zone are formed respectively in each and every SelfAdministered Division and the Self-Administered Zone. Such Leading Bodies exercise legislative power vested under the Schedule Three of the Constitution.
+(b) Leading Bodies of the Self-Administered Division and the Self-Administered Zone are formed respectively in each and every Self-Administered Division and the Self-Administered Zone. Such Leading Bodies exercise legislative power vested under the Schedule Three of the Constitution.
 
 (c) Leading Bodies of the Self-Administered Division or the Self-Administered Zone shall consist of at least 10 members.
 
@@ -5715,13 +5720,13 @@ wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
 (ii) the Defence Services personnel representatives nominated by the Commander-in-Chief of the Defence Services to assign duties relating to Security or Border  Affairs;
 
-(iii ) Additional representatives selected by persons stated in   SubSection (d) (i) and (ii).
+(iii) Additional representatives selected by persons stated in Sub-Section (d) (i) and (ii).
 
 (e) Members of the Leading Bodies of the Self-Administered Division or the Self-Administered Zone stated in above Sub-Section (d)(i) and (ii) shall, after co-ordinating among themselves, select  a suitable person as the Chairperson of the Self-Administered Division or the Self-Administered Zone from the Region or State Hluttaw representatives elected from the townships in the Self-Administered Division or the Self-Administered Zone. The name of the person so elected shall be submitted to the President through the Chief Minister of the Region or State concerned.
 
 (f) The President shall appoint the person who is nominated as the Chairperson of the Self-Administered  Division or the Self-Administered  Zone concerned.
 
-(g) The Chairperson of the Self-Administered Division or the SelfAdministered Zone is the ex-officio Minister in the Region or State concerned. Except for the method of the appointment of the Minister of the Region or State, the other provisions of the Constitution shall be applied to the Chairperson of the Self-Administered Division or Self-Administered Zone.
+(g) The Chairperson of the Self-Administered Division or the Self-Administered Zone is the ex-officio Minister in the Region or State concerned. Except for the method of the appointment of the Minister of the Region or State, the other provisions of the Constitution shall be applied to the Chairperson of the Self-Administered Division or Self-Administered Zone.
 
 [[END OF PAGE 247]]
 
@@ -5731,13 +5736,13 @@ wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
 (C) ukd,fykdiftkyfcsKyfcGihf&wkdif;OD;pD;tzGJU  okdYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o OD;pD;tzGJUukd  atmufygyk*d¾Kvfrsm;jzifh  zJGUpnf;&rnf  -
 
-- ukd,fykdiftkyfcsKyfcGihf&wkdif;  okdYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o twGif;&Sd  NrdKUe,frsm;rS    a&G;aumufwifajr§mufxm;aom wkdif;a'oBuD;  okdYr[kwf jynfe,fvTwfawmfukd,fpm;vS,frsm;?
+(1) ukd,fykdiftkyfcsKyfcGihf&wkdif;  okdYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o twGif;&Sd  NrdKUe,frsm;rS    a&G;aumufwifajr§mufxm;aom wkdif;a'oBuD;  okdYr[kwf jynfe,fvTwfawmfukd,fpm;vS,frsm;?
 
-- vkHNcKHa&;wm0efjzpfap?  e,fpyfa&;&mwm0efjzpfap ay;tyfEkdif&ef wyfrawmfumuG,fa&;OD;pD;csKyfu Oya'ESifhtnD trnfpm&if; wifoGif;onfh wyfrawmfom;ukd,fpm;vS,frsm;?
+(2) vkHNcKHa&;wm0efjzpfap?  e,fpyfa&;&mwm0efjzpfap ay;tyfEkdif&ef wyfrawmfumuG,fa&;OD;pD;csKyfu Oya'ESifhtnD trnfpm&if; wifoGif;onfh wyfrawmfom;ukd,fpm;vS,frsm;?
 
-- yk'frcGJi,f  (1)  ESifh  (2)  yg  yk*d¾Kvfrsm;u  a&G;cs,fjznfhpGuf cefYxm;onfh ukd,fpm;vS,frsm;/
+(3) yk'frcGJi,f  (1)  ESifh  (2)  yg  yk*d¾Kvfrsm;u  a&G;cs,fjznfhpGuf cefYxm;onfh ukd,fpm;vS,frsm;/
 
-( i ) yk'frcGJ  (C)  yk'frcGJi,f  (1)  ESifh  (2)  yg  ukd,fykdiftkyfcsKyfcGifh&wkdif;  odkYr[kwf ukd,fykdiftkyfcsKyfcGihf&a'o  OD;pD;tzGJU0ifrsm;onf  rdrdwdkYtcsif;csif; n§d EdIif;vsuf ukd,fykdiftkyfcsKyfcGifh&wkdif;  okdYr[kwf ukd,fykdiftkyfcsKyfcGihf& a'otwGif;&Sd NrdKUe,frsm;rS a&G;aumufwifajr§mufxm;aom vTwfawmf ukd,fpm;vS,frsm;teuf  oifhavsmfolwpfOD;tm;  ukd,fykdiftkyfcsKyf cGihf&wkdif;  Ouú|  okdYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o  Ouú|tjzpf a&G;cs,f&rnf/ xkdokdY  a&G;cs,fonfh  yk*d¾Kvf\trnfpm&if;ukd oufqkdif&m wkdif;a'oBuD; okdYr[kwf  jynfe,f0efBuD;csKyfrSwpfqifh  EdkifiHawmfor®wxH wifjy&rnf?
+( i ) yk'frcGJ  (C)  yk'frcGJi,f  (1)  ESifh  (2)  yg  ukd,fykdiftkyfcsKyfcGifh&wkdif;  odkYr[kwf ukd,fykdiftkyfcsKyfcGihf&a'o  OD;pD;tzGJU0ifrsm;onf  rdrdwdkYtcsif;csif; n§dEdIif;vsuf ukd,fykdiftkyfcsKyfcGifh&wkdif;  okdYr[kwf ukd,fykdiftkyfcsKyfcGihf& a'otwGif;&Sd NrdKUe,frsm;rS a&G;aumufwifajr§mufxm;aom vTwfawmf ukd,fpm;vS,frsm;teuf  oifhavsmfolwpfOD;tm;  ukd,fykdiftkyfcsKyf cGihf&wkdif;  Ouú|  okdYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o  Ouú|tjzpf a&G;cs,f&rnf/ xkdokdY  a&G;cs,fonfh  yk*d¾Kvf\trnfpm&if;ukd oufqkdif&m wkdif;a'oBuD; okdYr[kwf  jynfe,f0efBuD;csKyfrSwpfqifh  EdkifiHawmfor®wxH wifjy&rnf?
 
 ( p ) EkdifiHawmfor®wonf  trnfpm&if;wifoGif;vmonfh  yk*d¾Kvftm; oufqkdif&mukd,fykdiftkyfcsKyfcGihf&wkdif;Ouú| odkYr[kwf ukd,fykdiftkyfcsKyf cGihf&a'oOuú|tjzpf cefYtyfwm0efay;&rnf?
 
@@ -5751,9 +5756,9 @@ wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
 (h) The Chairperson of the Self-Administered Division or Self-Administered Zone and members of the Leading Body concerned shall:
 
-(i) except the National races who have already obtained the SelfAdministered Division or Self-Administered Zone concerned residing in the Self-Administered Division or Self-Administered Zone concerned, if they are National races that are deemed by the authority concerned to have a population of over 10,000, from the remaining National races, each representative of the said National races shall be elected and appointed as a member of the Leading Body. The elected member of the Leading Body shall have the prescribed qualifications of Hluttaw representatives of the Region or State  under Section 169;
+(i) except the National races who have already obtained the Self-Administered Division or Self-Administered Zone concerned residing in the Self-Administered Division or Self-Administered Zone concerned, if they are National races that are deemed by the authority concerned to have a population of over 10,000, from the remaining National races, each representative of the said National races shall be elected and appointed as a member of the Leading Body. The elected member of the Leading Body shall have the prescribed qualifications of Hluttaw representatives of the Region or State under Section 169;
 
-(ii) if the number of members of the Leading Body of the SelfAdministered Division or Self-Administered Zone is less than 10 members, the required number of members from those residing in the Self-Administered Division or Self-Administered Zone concerned and who have qualifications prescribed for the Region or State Hluttaw representatives shall be elected and appointed to fill up 10 members as they desire.
+(ii) if the number of members of the Leading Body of the Self-Administered Division or Self-Administered Zone is less than 10 members, the required number of members from those residing in the Self-Administered Division or Self-Administered Zone concerned and who have qualifications prescribed for the Region or State Hluttaw representatives shall be elected and appointed to fill up 10 members as they desire.
 
 (i) The Commander-in-Chief of the Defence Services shall assign the duties to the one-fourth of the total number of members with the Defence Services personnels in the Leading Bodies of the Self-Administered Division or Self-Administered Zone, as necessary.
 
@@ -5767,9 +5772,9 @@ wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
 ( Z ) oufqkdif&m ukd,fykdiftkyfcsKyfcGihf&wkdif;Ouú| odkYr[kwf ukd,fykdiftkyfcsKyf cGihf&a'oOuú|ESifh OD;pD;tzGJU0ifrsm;onf -
 
-- oufqkdif&mukd,fykdiftkyfcsKyfcGihf&wkdif;  odkYr[kwf  ukd,fykdiftkyfcsKyf cGihf&a'otwGif;aexkdifMuonfh oufqkdif&m ukd,fykdiftkyfcsKyf cGihf&wkdif;  odkYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o  &&SdNyD;aom wkdif;&if;om;vlrsKd;rsm;rSty  usefwkdif;&if;om;vlrsKd;rsm;teuf avsmfuefoihfjrwfaomvlOD;a&jzpfonfh  vlOD;a&tenf;qkH; 10000  ESihftxuf&SdaMumif;  oufqkdif&mu  owfrSwfonfh wkdif;&if;om;vlrsKd;rsm;&SdvQif ,if;wdkif;&if;om;vlrsKd;ukd,fpm;vS,f wpfOD;uspDukd OD;pD;tzJGU0iftjzpf a&G;cs,fcefYxm;&rnf/ ,if;okdY a&G;cs,fcefYxm;jcif;cH&aom  OD;pD;tzJGU0ifonf  yk'fr  169  yg wkdif;a'oBuD;  okdYr[kwf  jynfe,fvTwfawmfukd,fpm;vS,frsm;
+(1) oufqkdif&mukd,fykdiftkyfcsKyfcGihf&wkdif;  odkYr[kwf  ukd,fykdiftkyfcsKyf cGihf&a'otwGif;aexkdifMuonfh oufqkdif&m ukd,fykdiftkyfcsKyf cGihf&wkdif;  odkYr[kwf  ukd,fykdiftkyfcsKyfcGihf&a'o  &&SdNyD;aom wkdif;&if;om;vlrsKd;rsm;rSty  usefwkdif;&if;om;vlrsKd;rsm;teuf avsmfuefoihfjrwfaomvlOD;a&jzpfonfh  vlOD;a&tenf;qkH; 10000  ESihftxuf&SdaMumif;  oufqkdif&mu  owfrSwfonfh wkdif;&if;om;vlrsKd;rsm;&SdvQif ,if;wdkif;&if;om;vlrsKd;ukd,fpm;vS,f wpfOD;uspDukd OD;pD;tzJGU0iftjzpf a&G;cs,fcefYxm;&rnf/ ,if;okdY a&G;cs,fcefYxm;jcif;cH&aom  OD;pD;tzJGU0ifonf  yk'fr  169  yg wkdif;a'oBuD;  okdYr[kwf  jynfe,fvTwfawmfukd,fpm;vS,frsm; twGuf owfrSwfxm;onfh t&nftcsif;rsm;ESifh jynfhpkH&rnf?
 
-- twGuf owfrSwfxm;onfh t&nftcsif;rsm;ESifh jynfhpkH&rnf? (2) ukd,fykdiftkyfcsKyfcGihf&wkdif;OD;pD;tzGJU  odkYr[kwf  ukd,fykdiftkyfcsKyf cGihf&a'oOD;pD;tzGJUwGif  tzGJU0ifOD;a&  10  OD;  rjynfhao;ygu tzGJU0ifOD;a& tenf;qkH; 10 OD; jynfhap&ef vkdtyfonfhtzGJU0if OD;a&ukd  oufqkdif&m  ukd,fykdiftkyfcsKyfcGihf&wkdif;  odkYr[kwf ukd,fykdiftkyfcsKyfcGihf&a'otwGif; aexkdifolrsm;xJrS yk'fr169yg wkdif;a'oBuD; odkYr[kwf jynfe,fvTwfawmf ukd,fpm;vS,frsm; twGuf  owfrSwfxm;onhf  t&nftcsif;rsm;ESifhjynfhpkHaom oihfavsmfonfh  yk*d¾Kvfrsm;tm;  rdrdwkdYoabmqE´tavsmuf a&G;cs,f jznfhpGufcefYxm;&rnf/
+(2) ukd,fykdiftkyfcsKyfcGihf&wkdif;OD;pD;tzGJU  odkYr[kwf  ukd,fykdiftkyfcsKyf cGihf&a'oOD;pD;tzGJUwGif  tzGJU0ifOD;a&  10  OD;  rjynfhao;ygu tzGJU0ifOD;a& tenf;qkH; 10 OD; jynfhap&ef vkdtyfonfhtzGJU0if OD;a&ukd  oufqkdif&m  ukd,fykdiftkyfcsKyfcGihf&wkdif;  odkYr[kwf ukd,fykdiftkyfcsKyfcGihf&a'otwGif; aexkdifolrsm;xJrS yk'fr169yg wkdif;a'oBuD; odkYr[kwf jynfe,fvTwfawmf ukd,fpm;vS,frsm; twGuf  owfrSwfxm;onhf  t&nftcsif;rsm;ESifhjynfhpkHaom oihfavsmfonfh  yk*d¾Kvfrsm;tm;  rdrdwkdYoabmqE´tavsmuf a&G;cs,f jznfhpGufcefYxm;&rnf/
 
 (ps) wyfrawmfumuG,fa&;OD;pD;csKyfonf ukd,fykdiftkyfcsKyfcGihf& wkdif;OD;pD; tzJGUESifh  ukd,fykdiftkyfcsKyfcGihf&a'oOD;pD;tzGJUwkdYwGif  OD;pD;tzGJU0ifpkpkaygif;\ av;ykHwpfykHjzpfonfh  OD;pD;tzJGU0ifOD;a&ukd  wyfrawmfom;rsm;jzifh vkdtyfovkdjznfhpGufwm0efay;Ekdifonf?
 
@@ -5783,13 +5788,13 @@ wkdif;a'oBuD; okdYr[kwf jynfe,fpm&if;ppfcsKyfonf -
 
 Self-Administered Zone shall have qualifications of the Region or State Hluttaw representatives.
 
-(k) (i) The Chairperson of the Leading Bodies of the Self-Administered Division or Self-Administered Zone concerned shall declare the name of the members of the Leading Bodies of the SelfAdministered  Division  or  Self-  Administered  Zone.
+(k) (i) The Chairperson of the Leading Bodies of the Self-Administered Division or Self-Administered Zone concerned shall declare the name of the members of the Leading Bodies of the Self-Administered Division or Self-Administered Zone.
 
-(ii) The Chairperson of the Leading Bodies of the Self-Administered Division  or Self-  Administered  Zone shall be responsible to the Region or State Chief Minister concerned, and to the President through the Chief Minister concerned.
+(ii) The Chairperson of the Leading Bodies of the Self-Administered Division or Self-Administered Zone shall be responsible to the Region or State Chief Minister concerned, and to the President through the Chief Minister concerned.
 
-(iii ) Members of Leading Bodies of the Self-Administered Division or Self-Administered Zone shall be responsible to their Chairperson.
+(iii) Members of Leading Bodies of the Self-Administered Division or Self-Administered Zone shall be responsible to their Chairperson.
 
-(iv) The term of office, taking action, resignation, termination of duty and filling the vacancy of the Chairperson of the Leading Bodies of the Self-Administered Division  or Self-Administered  Zone shall be prescribed by law.
+(iv) The term of office, taking action, resignation, termination of duty and filling the vacancy of the Chairperson of the Leading Bodies of the Self-Administered Division or Self-Administered Zone shall be prescribed by law.
 
 (l) Duties, powers and rights of the Chairperson and members of the Leading Bodies of the Self-Administered Division or Self-Administered Zone shall be perscribed by law.
 
@@ -5797,9 +5802,9 @@ Self-Administered Zone shall have qualifications of the Region or State Hluttaw 
 
 277. Subject to provisions of the Constitution, the Self- executive power of  the Leading Bodies of the Self-Administered Division or Self-Administered Zone extend to the following matters :
 
-(a) on which the Leading Bodies of the Self-Administered  Division or SelfAdministered Zone has power to make law under Schedule Three;
+(a) on which the Leading Bodies of the Self-Administered Division or Self-Administered Zone has power to make law under Schedule Three;
 
-(b) on which the Leading Bodies of the Self-Administered  Division or SelfAdministered  Zone  has power to implement in accord with any law enacted by the Pyidaungsu Hluttaw;
+(b) on which the Leading Bodies of the Self-Administered Division or Self-Administered Zone has power to implement in accord with any law enacted by the Pyidaungsu Hluttaw;
 
 [[END OF PAGE 251]]
 
@@ -5819,7 +5824,7 @@ wkdif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmfukd,fpm;vS,frsm;\ t&nftcsif;rsm;ESifh j
 
 119
 
-(c) on which the Leading Bodies of the Self-Administered Division or SelfAdministered Zone has power to implement in accord with any law enacted by the Region or State Hluttaw concerned.
+(c) on which the Leading Bodies of the Self-Administered Division or Self-Administered Zone has power to implement in accord with any law enacted by the Region or State Hluttaw concerned.
 
 278. The Leading Bodies of the Self-Administered Division or Self-Administered Zone shall be responsible to assist the Union Government in preserving stability of the Union, community peace and tranquillity and prevalence of law and order.
 
@@ -5859,19 +5864,19 @@ wkdif;a'oBuD;  odkYr[kwf  jynfe,fvTwfawmfukd,fpm;vS,frsm;\ t&nftcsif;rsm;ESifh j
 
 120
 
-- The Leading Bodies of the Self-Administered Division or Self-Administered Zone may, in accord with the law, supervise, co-operate and      co-ordinate the functions of the Civil Services organizations which are performing the duties within their territory.
+280. The Leading Bodies of the Self-Administered Division or Self-Administered Zone may, in accord with the law, supervise, co-operate and co-ordinate the functions of the Civil Services organizations which are performing the duties within their territory.
 
-- The Leading Bodies of the Self-Administered Division or Self-Administered Zone shall submit reports of the general situations of their territory to the Union Government and the Region or State Government concerned.
+281. The Leading Bodies of the Self-Administered Division or Self-Administered Zone shall submit reports of the general situations of their territory to the Union Government and the Region or State Government concerned.
 
-- The Leading Bodies of the Self-Administered Division or Self-Administered Zone shall perform the functions which are occasionally assigned by the Union Government and the Region or State Government concerned.
+282. The Leading Bodies of the Self-Administered Division or Self-Administered Zone shall perform the functions which are occasionally assigned by the Union Government and the Region or State Government concerned.
 
-##### Office of the Leading  Bodies of  the Self-Administered  Division or SelfAdministered  Zone
+##### Office of the Leading Bodies of the Self-Administered Division or Self-Administered Zone
 
-- The Head of General Administration Department of the Leading Bodies of the Self-Administered Division or Self-Administered Zone  shall serve as the Secretary of the Leading Bodies of the Self-Administered Division or Self-Administered Zone. Moreover, the General Administration Department of the Self-Administered Division or SelfAdministered Zone is also the Office of the Leading Bodies of the Self-Administered Division or Self-Administered  Zone.
+283. The Head of General Administration Department of the Leading Bodies of the Self-Administered Division or Self-Administered Zone shall serve as the Secretary of the Leading Bodies of the Self-Administered Division or Self-Administered Zone. Moreover, the General Administration Department of the Self-Administered Division or Self-Administered Zone is also the Office of the Leading Bodies of the Self-Administered Division or Self-Administered Zone.
 
 #### Administration of Nay Pyi Taw , the Union Territory
 
-(a) Nay Pyi Taw which is the Union Territory, shall consist of all districts and townships that are Nay Pyi Taw development territory, on the day the Constitution come into operation.
+284. (a) Nay Pyi Taw which is the Union Territory, shall consist of all districts and townships that are Nay Pyi Taw development territory, on the day the Constitution come into operation.
 
 (b) The President may change, if necessary, the demarcation of districts and townships in Nay Pyi Taw which is the Union Territory.
 
@@ -5907,13 +5912,13 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 ##### Formation of the Nay Pyi Taw Council
 
-(a) The Chairperson and members of the Nay Pyi Taw Council shall have the following qualifications :
+285. (a) The Chairperson and members of the Nay Pyi Taw Council shall have the following qualifications :
 
 (i) person who has attained the age of 35 years ;
 
 (ii) person who has qualifications, with the exception of age limit, entitled to be elected as Pyithu Hluttaw representatives prescribed in Section 120;
 
-(iii ) persons whose qualifications does not breach the provisions under Section 121 which disqualify a person from standing for election as Pyithu Hluttaw representatives;
+(iii) persons whose qualifications does not breach the provisions under Section 121 which disqualify a person from standing for election as Pyithu Hluttaw representatives;
 
 (iv) who have other qualifications prescribed by the President.
 
@@ -5923,7 +5928,7 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 (ii) shall appoint persons who have the prescribed qualifications as Chairperson and members of Nay Pyi Taw Council;
 
-(iii ) shall obtain the nomination  of suitable Defence Services personnel who have prescribed qualifications for appointment as Council member or members from the Commander-in-Chief of the Defence Services for co-ordination of Security matters of Nay Pyi Taw which is the Union Territory;
+(iii) shall obtain the nomination of suitable Defence Services personnel who have prescribed qualifications for appointment as Council member or members from the Commander-in-Chief of the Defence Services for co-ordination of Security matters of Nay Pyi Taw which is the Union Territory;
 
 (iv) may prescribe the number of members, including the Chairperson, to serve in Nay Pyi Taw Council in accord with the law as necessary.
 
@@ -5939,23 +5944,23 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 - 285/ (u) aejynfawmfaumifpDOuú|ESifh  aumifpD0ifrsm;onf  atmufazmfjyyg t&nftcsif;rsm;ESifh jynfhpHk&rnf -
 
-- touf 35 ESpf jynfhNyD;ol?
+(1) touf 35 ESpf jynfhNyD;ol?
 
-- toufuefYowfcsufrSty  yk'fr  120  wGif  azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,frsm;twGuf owfrSwfxm;aom t&nftcsif;rsm;ESifh jynfhpkHol?
+(2) toufuefYowfcsufrSty  yk'fr  120  wGif  azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,frsm;twGuf owfrSwfxm;aom t&nftcsif;rsm;ESifh jynfhpkHol?
 
-- yk'fr 121 wGif azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,f rsm;tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csuf rsm;ESifhvnf;  NidpGef;jcif;r&Sdol?
+(3) yk'fr 121 wGif azmfjyxm;onfh jynfolYvTwfawmfukd,fpm;vS,f rsm;tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csuf rsm;ESifhvnf;  NidpGef;jcif;r&Sdol?
 
-- EdkifiHawmfor®wu owfrSwfaom tjcm;t&nftcsif;rsm;ESifh vnf; jynfhpHkol/
+(4) EdkifiHawmfor®wu owfrSwfaom tjcm;t&nftcsif;rsm;ESifh vnf; jynfhpHkol/
 
 ( c ) EdkifiHawmfor®wonf -
 
-- aejynfawmfaumifpDwpf&yfukd zJGUpnf;xm;&Sd&rnf?
+(1) aejynfawmfaumifpDwpf&yfukd zJGUpnf;xm;&Sd&rnf?
 
-- yk'frcGJ  (u)  wGif  azmfjyowfrSwfxm;aom t&nftcsif;rsm;ESifh jynfhpHkonfhyk*¾Kdvfrsm;ukd  aejynfawmfaumifpDOuú|ESifh  aumifpD0if rsm;tjzpf  cefYtyfwm0efay;&rnf?
+(2) yk'frcGJ  (u)  wGif  azmfjyowfrSwfxm;aom t&nftcsif;rsm;ESifh jynfhpHkonfhyk*¾Kdvfrsm;ukd  aejynfawmfaumifpDOuú|ESifh  aumifpD0if rsm;tjzpf  cefYtyfwm0efay;&rnf?
 
-- jynfaxmifpke,fajrjzpfonfh  aejynfawmf\  vHkNcHKa&;qkdif&m udpö&yfrsm;ukd  nd§EIdif;aygif;pyfay;Edkifa&;twGuf  aumifpD0if okdYr[kwf  aumifpD0ifrsm;tjzpf wm0efay;tyfEdkif&ef wyfrawmf umuG,fa&;OD;pD;csKyfxHrS  owfrSwft&nftcsif;ESifh  jynfhpkHonhf oihfavsmfaom wyfrawmfom; okdYr[kwf wyfrawmfom;rsm;\ trnfpm&if;ukd &,l&rnf?
+(3) jynfaxmifpke,fajrjzpfonfh  aejynfawmf\  vHkNcHKa&;qkdif&m udpö&yfrsm;ukd  nd§EIdif;aygif;pyfay;Edkifa&;twGuf  aumifpD0if okdYr[kwf  aumifpD0ifrsm;tjzpf wm0efay;tyfEdkif&ef wyfrawmf umuG,fa&;OD;pD;csKyfxHrS  owfrSwft&nftcsif;ESifh  jynfhpkHonhf oihfavsmfaom wyfrawmfom; okdYr[kwf wyfrawmfom;rsm;\ trnfpm&if;ukd &,l&rnf?
 
-- aejynfawmfaumifpDwGif  Ouú|tygt0if  tzJGU0ifOD;a&ukd Oya'ESifhtnD vkdtyfovkdowfrSwfEdkifonf/
+(4) aejynfawmfaumifpDwGif  Ouú|tygt0if  tzJGU0ifOD;a&ukd Oya'ESifhtnD vkdtyfovkdowfrSwfEdkifonf/
 
 ( * ) aejynfawmfaumifpDOuú|onf  EdkifiHawmfor®wtm;  vnf;aumif;? aumifpD0ifrsm;onf aejynfawmfaumifpDOuú|ESifh aejynfawmfaumifpD Ouú|rSwpfqifh EdkifiHawmfor®wtm;vnf;aumif; wm0efcH&rnf?
 
@@ -5975,7 +5980,7 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 ##### Resignation, termination of office, filling the vacancy of the Chairperson and members of the Nay Pyi Taw Council
 
-(a) (i) The term of the Chairperson and members of the Nay Pyi Taw Council is the same as that of the President.
+286. (a) (i) The term of the Chairperson and members of the Nay Pyi Taw Council is the same as that of the President.
 
 (ii) The Chairperson and any member of the Nay Pyi Taw Council may resign from office on his own volition due to a certain reason before expiry of the term of office, after submitting his written resignation to the President.
 
@@ -5997,7 +6002,7 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 286/ (u) (1) aejynfawmfaumifpDOuú|ESifh aumifpD0ifwkdY\ &mxl;oufwrf; onf omreftm;jzifh EdkifiHawmfor®w\ &mxl;oufwrf; twkdif; jzpfonf?
 
-- aejynfawmfaumifpDOuú|ESifh aumifpD0ifwpfOD;OD;onf &mxl; oufwrf;rukefqHk;rD  taMumif;wpfckckaMumifh  rdrdoabmqE´ tavsmuf &mxl;rSEkwfxGufvkdvQif  xdkokdYEkwfxGufvkdaMumif; EdkifiHawmfor®wxH pmjzifhwifjyNyD; &mxl;rSEkwfxGufEdkifonf?
+(2) aejynfawmfaumifpDOuú|ESifh aumifpD0ifwpfOD;OD;onf &mxl; oufwrf;rukefqHk;rD  taMumif;wpfckckaMumifh  rdrdoabmqE´ tavsmuf &mxl;rSEkwfxGufvkdvQif  xdkokdYEkwfxGufvkdaMumif; EdkifiHawmfor®wxH pmjzifhwifjyNyD; &mxl;rSEkwfxGufEdkifonf?
 
 [[END OF PAGE 260]]
 
@@ -6005,7 +6010,7 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 123
 
-(iii ) The President may :
+(iii) The President may :
 
 (aa) direct the Chairperson and any member of the Nay Pyi Taw Council to resign if he cannot discharge his duties efficiently. If he fails to comply, he shall be terminated from his office;
 
@@ -6026,10 +6031,11 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 [[END OF PAGE 261]]
 
 [[START OF PAGE 262]]
+123
 
-(3) EdkifiHawmfor®wonf (uu) ay;tyfonfhwm0efukd ausyGefpGmrxrf;aqmifEdkifaom aejynfawmfaumifpDOuú|  okdYr[kwf  aumifpD0if wpfOD;OD;tm;  &mxl;rSEkwfxGuf&ef  ñTefMum;Edkifonf/ ñTefMum;onhftwdkif;  vdkufemjcif;rjyKvQif  wm0efrS &yfpJ&rnf? ( c c ) &mxl;rSEkwfxGuf&rnfh okdYr[kwf wm0efrS&yfpJcH&rnhf wyfrawmfom;aejynfawmfaumifpD0ifESifh ywfoufvQif wyfrawmfumuG,fa&;OD;pD;csKyfESifh  nd§EIdif;aqmif&Guf &rnf/ (4) &mxl;rSEkwfxGufjcif;aMumifhjzpfap? wm0efrS&yfpJcH&jcif;aMumifh jzpfap?  uG,fvGefjcif;aMumifhjzpfap?  tjcm;taMumif;  wpfckck aMumifhjzpfap  aejynfawmfaumifpDOuú|  okdYr[kwf  aumifpD0if &mxl;ae&mvpfvyfygu EdkifiHawmfor®wonf zJGUpnf;yHktajccH Oya'ygjy|mef;csufrsm;ESifhtnD aejynfawmfaumifpDOuú|topf okdYr[kwf  aumifpD0iftopftm;  cefYtyfwm0efay;Edkifonf/ xkdokdY cefYtyfwm0efay;jcif;cH&onfh aejynfawmfaumifpDOuú| topf okdYr[kwf  aumifpD0iftopf\  &mxl;oufwrf;onf EdkifiHawmfor®w\ usef&Sdonfh&mxl;oufwrf;twGufom jzpfap &rnf/ aejynfawmfaumifpD zJGUpnf;jcif;? Ouú|ESifhaumifpD0ifrsm;\ wm0efrsm;? 123
+(3) EdkifiHawmfor®wonf (uu) ay;tyfonfhwm0efukd ausyGefpGmrxrf;aqmifEdkifaom aejynfawmfaumifpDOuú|  okdYr[kwf  aumifpD0if wpfOD;OD;tm;  &mxl;rSEkwfxGuf&ef  ñTefMum;Edkifonf/ ñTefMum;onhftwdkif;  vdkufemjcif;rjyKvQif  wm0efrS &yfpJ&rnf? ( c c ) &mxl;rSEkwfxGuf&rnfh okdYr[kwf wm0efrS&yfpJcH&rnhf wyfrawmfom;aejynfawmfaumifpD0ifESifh ywfoufvQif wyfrawmfumuG,fa&;OD;pD;csKyfESifh  nd§EIdif;aqmif&Guf &rnf/ (4) &mxl;rSEkwfxGufjcif;aMumifhjzpfap? wm0efrS&yfpJcH&jcif;aMumifh jzpfap?  uG,fvGefjcif;aMumifhjzpfap?  tjcm;taMumif;  wpfckck aMumifhjzpfap  aejynfawmfaumifpDOuú|  okdYr[kwf  aumifpD0if &mxl;ae&mvpfvyfygu EdkifiHawmfor®wonf zJGUpnf;yHktajccH Oya'ygjy|mef;csufrsm;ESifhtnD aejynfawmfaumifpDOuú|topf okdYr[kwf  aumifpD0iftopftm;  cefYtyfwm0efay;Edkifonf/ xkdokdY cefYtyfwm0efay;jcif;cH&onfh aejynfawmfaumifpDOuú| topf okdYr[kwf  aumifpD0iftopf\  &mxl;oufwrf;onf EdkifiHawmfor®w\ usef&Sdonfh&mxl;oufwrf;twGufom jzpfap &rnf/
 
-( c ) vkyfykdifcGifhrsm;ESifh  &ykdifcGifhrsm;ukd  Oya'jy|mef;owfrSwf&rnf/
+( c ) aejynfawmfaumifpD zJGUpnf;jcif;? Ouú|ESifhaumifpD0ifrsm;\ wm0efrsm;? vkyfykdifcGifhrsm;ESifh  &ykdifcGifhrsm;ukd  Oya'jy|mef;owfrSwf&rnf/
 
 ##### aejynfawmfaumifpD½Hk; aejynfawmfaumifpD½Hk;
 
@@ -6051,11 +6057,11 @@ jynfaxmifpke,fajrjzpfonfh  aejynfawmfwGif  zJGUpnf;yHktajccHOya' tmPmoufa&mufonf
 
 #### Civil Services Personnel
 
-- Matters relating to the appointment, promotion, retirement, enforcement of rules and regulations and taking action on the Civil services personnel shall be exercised in accord with the law.
+290. Matters relating to the appointment, promotion, retirement, enforcement of rules and regulations and taking action on the Civil services personnel shall be exercised in accord with the law.
 
-- With respect to the Defence Services personnel who are also Civil Services personnel whose nature of work, is of special significant, they shall be given by the relevant Military laws.
+291. With respect to the Defence Services personnel who are also Civil Services personnel whose nature of work, is of special significant, they shall be given by the relevant Military laws.
 
-- With respect to members of Myanmar Police Force who are also Civil Services personnel whose nature of work, is of special significant, they shall be given by the specified law which shall be enacted.
+292. With respect to members of Myanmar Police Force who are also Civil Services personnel whose nature of work, is of special significant, they shall be given by the specified law which shall be enacted.
 
 [[END OF PAGE 263]]
 
@@ -6106,11 +6112,15 @@ w&m;pD&ifa&;
 
 [[START OF PAGE 267]]
 
+125
+
+## Chapter VI Judiciary
+
 ##### Formation of Courts
 
-- Courts of the Union are formed as follows :
+293. Courts of the Union are formed as follows :
 
-(a) Supreme Court of the Union, High Courts of the Region, High Courts of the State, Courts of the Self-Administered Division, Courts of the SelfAdministered Zone, District Courts, Township Courts and the other Courts constituted by law;
+(a) Supreme Court of the Union, High Courts of the Region, High Courts of the State, Courts of the Self-Administered Division, Courts of the Self-Administered Zone, District Courts, Township Courts and the other Courts constituted by law;
 
 (b) Courts-Martial;
 
@@ -6120,21 +6130,25 @@ w&m;pD&ifa&;
 
 ##### Constitution of the Supreme Court of the Union
 
-- In the Union, there shall be a Supreme Court of the Union. Without affecting the powers of the Constitutional Tribunal and the Courts-Martial, the Superme Court of the Union is the highest Court of the Union.
+294. In the Union, there shall be a Supreme Court of the Union. Without affecting the powers of the Constitutional Tribunal and the Courts-Martial, the Superme Court of the Union is the highest Court of the Union.
 
 ##### Original Jurisdiction of the Supreme Court of the Union
 
-(a) Only the Supreme Court of the Union has the following original jurisdiction :
+295. (a) Only the Supreme Court of the Union has the following original jurisdiction :
 
 (i) in matters arising out of bilateral treaties concluded by the Union;
 
 (ii) in other disputes, except the Constitutional problems, between the Union Government and the Region or State Governments;
 
-## Chapter VI Judiciary
-
 [[END OF PAGE 267]]
 
 [[START OF PAGE 268]]
+
+125
+
+## tcef;(6)
+
+## w&m;pD&ifa&;
 
 ##### w&m;½kH;rsm;zGJUpnf;jcif;
 
@@ -6156,13 +6170,9 @@ w&m;pD&ifa&;
 
 295/ (u) jynfaxmifpkw&m;vTwfawmfcsKyfüom  atmufygudpö&yfrsm;twGuf rlvrIpD&ifydkifcGifhtmPmrsm;&Sdonf
 
-- jynfaxmifpkEdkifiHawmfu csKyfqdkaom jynfaxmiftcsif;csif; qdkif&m pmcsKyfrsm;ESifh  pyfvsOf;íS  ay:aygufvmaomudpö&yfrsm;?
+(1) jynfaxmifpkEdkifiHawmfu csKyfqdkaom jynfaxmiftcsif;csif; qdkif&m pmcsKyfrsm;ESifh  pyfvsOf;íS  ay:aygufvmaomudpö&yfrsm;?
 
-- jynfaxmifpktpkd;&ESifh wdkif;a'oBuD; odkYr[kwf jynfe,ftpkd;& wdkYtMum; jzpfyGm;onfh zGJUpnf;ykHtajccHOya'qdkif&m jyóemrsm; rSty tjcm;tjiif;yGm;rIrsm;?
-
-## tcef;(6)
-
-## w&m;pD&ifa&;
+(2) jynfaxmifpktpkd;&ESifh wdkif;a'oBuD; odkYr[kwf jynfe,ftpkd;& wdkYtMum; jzpfyGm;onfh zGJUpnf;ykHtajccHOya'qdkif&m jyóemrsm; rSty tjcm;tjiif;yGm;rIrsm;?
 
 [[END OF PAGE 268]]
 
@@ -6170,7 +6180,7 @@ w&m;pD&ifa&;
 
 126
 
-(iii ) in other disputes, except the Constitutional  problems,  among  the Regions, among the States, between the Region and the State and between the Union Territory and the Region or the State;
+(iii) in other disputes, except the Constitutional  problems,  among  the Regions, among the States, between the Region and the State and between the Union Territory and the Region or the State;
 
 (iv) other matters as prescribed by any law.
 
@@ -6202,13 +6212,11 @@ w&m;pD&ifa&;
 
 [[START OF PAGE 270]]
 
-296/
-
 126
 
-- wdkif;a'oBuD;tcsif;csif;? jynfe,ftcsif;csif;? wdkif;a'oBuD;ESifh jynfe,ftcsif;csif;?  jynfaxmifpke,fajrESifh  wdkif;a'oBuD;  odkYr[kwf jynfe,ftcsif;csif;wdkYtMum;  jzpfyGm;onfh  zGJUpnf;ykHtajccH Oya'qdkif&m jyóemrsm;rSty tjcm;tjiif;yGm;rIrsm;?
+(3) wdkif;a'oBuD;tcsif;csif;? jynfe,ftcsif;csif;? wdkif;a'oBuD;ESifh jynfe,ftcsif;csif;?  jynfaxmifpke,fajrESifh  wdkif;a'oBuD;  odkYr[kwf jynfe,ftcsif;csif;wdkYtMum;  jzpfyGm;onfh  zGJUpnf;ykHtajccH Oya'qdkif&m jyóemrsm;rSty tjcm;tjiif;yGm;rIrsm;?
 
-- Oya'wpf&yf&yft& owfrSwfxm;aom tjcm;udpö&yfrsm;/
+(4) Oya'wpf&yf&yft& owfrSwfxm;aom tjcm;udpö&yfrsm;/
 
 ( c ) jynfaxmifpkw&m;vTwfawmfcsKyfonf EdkifiHawmf\ tjrifhqkH;w&m;½kH; jzpfonfhtm;avsmfpGm aemufqkH;tNyD;tjywf t,lcH0if&m w&m;½kH;jzpf onf?
 
@@ -6218,19 +6226,19 @@ w&m;pD&ifa&;
 
 ( i ) jynfaxmifpkw&m;vTwfawmfcsKyfonf  Oya'ESifhtnD  jyifqifrIpD&if ydkifcGifhtmPm&Sdonf/
 
-jynfaxmifpkw&m;vTwfawmfcsKyfonf
+296/ jynfaxmifpkw&m;vTwfawmfcsKyfonf
 
 (u) atmufygpmcRefawmftrdefYrsm;udk xkwfydkifcGifhtmPm&Sdonf
 
-- a&SUawmfoGif;pmcRefawmftrdefY?
+(1) a&SUawmfoGif;pmcRefawmftrdefY?
 
-- tmPmay;pmcRefawmftrdefY?
+(2) tmPmay;pmcRefawmftrdefY?
 
-- wm;jrpfappmcRefawmftrdefY?
+(3) wm;jrpfappmcRefawmftrdefY?
 
-- tmPmydkifar;pmcRefawmftrdefY?
+(4) tmPmydkifar;pmcRefawmftrdefY?
 
-- trIac:pmcRefawmftrdefY/
+(5) trIac:pmcRefawmftrdefY/
 
 ( c ) EdkifiHawmftwGif; ta&;ay:tajctaersm;ay:aygufaMumif; aMunm onfha'owGif pmcRefawmftrdefY xkwfqifhay;&ef avQmufxm;csufrsm; udk  &yfqdkif;xm;&rnf/
 
@@ -6250,7 +6258,7 @@ jynfaxmifpkw&m;vTwfawmfcsKyfonf
 
 ##### Appointment of the Chief Justice of the Union and the Judges of the Supreme Court of the Union
 
-(a) The Head of the Supreme Court of the Union shall be called the Chief  Justice of the Union.
+299. (a) The Head of the Supreme Court of the Union shall be called the Chief Justice of the Union.
 
 (b) Judges of the Supreme Court of the Union including the Chief Justice of the Union may be appointed in the Supreme Court from a minimum of seven and a maximum of 11 in number.
 
@@ -6281,7 +6289,7 @@ jynfaxmifpkw&m;vTwfawmfcsKyfonf
 
 128
 
-(iii ) The President has the right to submit again the list furnished with a new name replacing the one who has not been approved by the Pyidaungsu Hluttaw for the appointment of the Chief Justice of the Union.
+(iii) The President has the right to submit again the list furnished with a new name replacing the one who has not been approved by the Pyidaungsu Hluttaw for the appointment of the Chief Justice of the Union.
 
 (iv) The President shall appoint the person who has been approved by the Pyidaungsu Hluttaw as the Chief Justice of the Union.
 
@@ -6289,11 +6297,11 @@ jynfaxmifpkw&m;vTwfawmfcsKyfonf
 
 (ii) The Pyidaungsu Hluttaw has no right to refuse the persons nominated by the President for the appointment of the Chief Justice of the Union and Judges of the Supreme Court of the Union unless it can clearly be proved the persons concerned do not possess the qualifications prescribed for Judges of Supreme Court of the Union. in Section 301.
 
-(iii ) The President has the right to submit again the list furnished with a new name replacing the one who has not been approved by Pyidaungsu Hluttaw for the appointment of  a Judge of the Supreme Court of the Union.
+(iii) The President has the right to submit again the list furnished with a new name replacing the one who has not been approved by Pyidaungsu Hluttaw for the appointment of a Judge of the Supreme Court of the Union.
 
 (iv) The President shall appoint the persons approved by Pyidaungsu Hluttaw as Judges of the Supreme Court of the Union.
 
-(a) The Chief Justice of the Union or Judges of the Supreme Court of the Union must be free from party politics.
+300. (a) The Chief Justice of the Union or Judges of the Supreme Court of the Union must be free from party politics.
 
 [[END OF PAGE 273]]
 
@@ -6301,9 +6309,9 @@ jynfaxmifpkw&m;vTwfawmfcsKyfonf
 
 128
 
-- EkdifiHawmfor®wonf  jynfaxmifpkw&m;olBuD;csKyftjzpf cefYtyfwm0efay;&ef jynfaxmifpkvTwfawmf\oabmwlnDcsuf r&&Sdonfh  yk*d¾Kvftpm;  trnfpm&if;opfukd  jynfaxmifpk vTwfawmfokdY xyfrHwifoGif;cGifh&Sdonf?
+(3) EkdifiHawmfor®wonf  jynfaxmifpkw&m;olBuD;csKyftjzpf cefYtyfwm0efay;&ef jynfaxmifpkvTwfawmf\oabmwlnDcsuf r&&Sdonfh  yk*d¾Kvftpm;  trnfpm&if;opfukd  jynfaxmifpk vTwfawmfokdY xyfrHwifoGif;cGifh&Sdonf?
 
-- EkdifiHawmfor®wonf jynfaxmifpkvTwfawmf\ oabmwlnD csuf&&Sdonfh  yk*d¾Kvftm;  jynfaxmifpkw&m;olBuD;csKyftjzpf cefYtyf&rnf/
+(4) EkdifiHawmfor®wonf jynfaxmifpkvTwfawmf\ oabmwlnD csuf&&Sdonfh  yk*d¾Kvftm;  jynfaxmifpkw&m;olBuD;csKyftjzpf cefYtyf&rnf/
 
 (C)
 
@@ -6317,11 +6325,11 @@ cefYtyfoifhaom  yk*d¾Kvfrsm;\  trnfpm&if;ukd  jynfaxmifpk
 
 vTwfawmfokdY wifoGif;oabmwlnDcsuf &,l&rnf?
 
-- yk'fr 301 wGif owfrSwfxm;aom jynfaxmifpkw&m;olBuD;csKyf ESifh  jynfaxmifpkw&m;vTwfawmfcsKyf  w&m;olBuD;rsm;\ t&nftcsif;rsm;ESifh  rjynfhpkHaMumif;  txift&Sm;rjyEkdifygu jynfaxmifpkvTwfawmfonf EkdifiHawmfor®wu jynfaxmifpk w&m;vTwfawmfcsKyf  w&m;olBuD;rsm;tjzpfcefYtyf&ef  trnf pm&if;wifoGif;olrsm;ukd jiif;y,fcGihfr&Sdap&?
+(2) yk'fr 301 wGif owfrSwfxm;aom jynfaxmifpkw&m;olBuD;csKyf ESifh  jynfaxmifpkw&m;vTwfawmfcsKyf  w&m;olBuD;rsm;\ t&nftcsif;rsm;ESifh  rjynfhpkHaMumif;  txift&Sm;rjyEkdifygu jynfaxmifpkvTwfawmfonf EkdifiHawmfor®wu jynfaxmifpk w&m;vTwfawmfcsKyf  w&m;olBuD;rsm;tjzpfcefYtyf&ef  trnf pm&if;wifoGif;olrsm;ukd jiif;y,fcGihfr&Sdap&?
 
-- EkdifiHawmfor®wonf jynfaxmifpkw&m;vTGwfawmfcsKyf w&m; olBuD;tjzpf  cefYtyfwm0efay;&ef  jynfaxmifpkvTwfawmf\ oabmwlnDcsufr&&Sdonfh  yk*d¾Kvftpm;  trnfpm&if;opfukd jynfaxmifpkvTwfawmfokdY xyfrHwifoGif;cGifh&Sdonf?
+(3) EkdifiHawmfor®wonf jynfaxmifpkw&m;vTGwfawmfcsKyf w&m; olBuD;tjzpf  cefYtyfwm0efay;&ef  jynfaxmifpkvTwfawmf\ oabmwlnDcsufr&&Sdonfh  yk*d¾Kvftpm;  trnfpm&if;opfukd jynfaxmifpkvTwfawmfokdY xyfrHwifoGif;cGifh&Sdonf?
 
-- EkdifiHawmfor®wonf jynfaxmifpkvTwfawmf\ oabmwlnD csuf&&Sdonfh yk*d¾Kvfrsm;tm; jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;rsm;tjzpf cefYtyf&rnf/
+(4) EkdifiHawmfor®wonf jynfaxmifpkvTwfawmf\ oabmwlnD csuf&&Sdonfh yk*d¾Kvfrsm;tm; jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;rsm;tjzpf cefYtyf&rnf/
 
 300/ (u) jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;rsm;onf ygwDEkdifiHa&;ESifh uif;&Sif;&rnf?
 
@@ -6347,7 +6355,7 @@ vTwfawmfokdY wifoGif;oabmwlnDcsuf &,l&rnf?
 
 (ii) who has served as a Judicial Officer or a Law Officer at least 10 years not lower than that of the Region or State level; or
 
-(iii ) who has practised as an Advocate for at least 20 years; or
+(iii) who has practised as an Advocate for at least 20 years; or
 
 (iv) who is, in the opinion of the President, an eminent jurist;
 
@@ -6371,11 +6379,11 @@ vTwfawmfokdY wifoGif;oabmwlnDcsuf &,l&rnf?
 
 (C) (1) wkdif;a'oBuD; okdYr[kwf jynfe,fw&m;vTwfawmf w&m;olBuD; tjzpf tenf;qkH; ig;ESpf aqmif&GufcJhol okdYr[kwf
 
-- wkdif;a'oBuD;  okdYr[kwf  jynfe,ftqifhxufredrfhaom w&m;a&;t&m&Sd okdYr[kwf Oya't&m&Sd&mxl;wGif tenf;qkH; 10 ESpf  wm0efxrf;aqmifcJhol okdYr[kwf
+(2) wkdif;a'oBuD;  okdYr[kwf  jynfe,ftqifhxufredrfhaom w&m;a&;t&m&Sd okdYr[kwf Oya't&m&Sd&mxl;wGif tenf;qkH; 10 ESpf  wm0efxrf;aqmifcJhol okdYr[kwf
 
-- w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 20 ESpf trIvkdufyg aqmif&GufcJhol okdYr[kwf
+(3) w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 20 ESpf trIvkdufyg aqmif&GufcJhol okdYr[kwf
 
-- xifay:ausmfMum;onfh *kPfowif;&Sdaom Oya'ynm&Siftjzpf EkdifiHawmfor®wu ,lqol/
+(4) xifay:ausmfMum;onfh *kPfowif;&Sdaom Oya'ynm&Siftjzpf EkdifiHawmfor®wu ,lqol/
 
 [[END OF PAGE 276]]
 
@@ -6391,7 +6399,7 @@ vTwfawmfokdY wifoGif;oabmwlnDcsuf &,l&rnf?
 
 ##### Impeachment of the Chief Justice of the Union and Judges of the Supreme Court of the Union
 
-(a) The President or the representatives of the Pyithu Hluttaw or  Amyotha Hluttaw may impeach the Chief Justice of the Union or any Judge of  the Supreme Court of the Union for any of the following reasons :
+302. (a) The President or the representatives of the Pyithu Hluttaw or Amyotha Hluttaw may impeach the Chief Justice of the Union or any Judge of the Supreme Court of the Union for any of the following reasons :
 
 (i) high treason;
 
@@ -6427,25 +6435,27 @@ vTwfawmfokdY wifoGif;oabmwlnDcsuf &,l&rnf?
 
 ##### jynfaxmifpkw&m;olBuD;csKyfESifh  jynfaxmifpkw&m;vTwfawmfcsKyf  w&m;olBuD; rsm;tm;  pGyfpJGjypfwifjcif;
 
-- 302/ (u) EkdifiHawmfor®w  odYkr[kwf  jynfolYvTwfawmf  odkYr[kwf  trsKd;om; vTwfawmfudk,fpm;vS,frsm;onf jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;wpfOD;OD;tm; atmufyg taMumif;wpf&yf&yfjzifh pGyfpJGjypfwifEkdifonf -
+302/ (u) EkdifiHawmfor®w odYkr[kwf jynfolYvTwfawmf odkYr[kwf trsKd;om; vTwfawmfudk,fpm;vS,frsm;onf jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;wpfOD;OD;tm; atmufyg taMumif;wpf&yf&yfjzifh pGyfpJGjypfwifEkdifonf -
 
-- EkdifiHawmf\aus;Zl;opömawmfukdazmufzsufjcif;?
+(1) EkdifiHawmf\aus;Zl;opömawmfukdazmufzsufjcif;?
 
-- zGJUpnf;ykHtajccHOya'yg  jy|mef;csufwpf&yf&yfukd  azmufzsuf usL;vGefjcif;?
+(2) zGJUpnf;ykHtajccHOya'yg jy|mef;csufwpf&yf&yfukd azmufzsuf usL;vGefjcif;?
 
-- tusifhodu©mysufjym;jcif;?
+(3) tusifhodu©mysufjym;jcif;?
 
-- yk'fr 301 wGif jy|mef;xm;aom jynfaxmifpkw&m;olBuD;csKyf ESifh  jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;rsm;\ t&nf tcsif; ysuf,Gif;jcif;?
+(4) yk'fr 301 wGif jy|mef;xm;aom jynfaxmifpkw&m;olBuD;csKyf ESifh jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;rsm;\ t&nf tcsif; ysuf,Gif;jcif;?
 
-- Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/ ( c ) EkdifiHawmfor®wu pGyfpGJjypfwif&efvkdtyfygu-
+(5) Oya't&ay;tyfaomwm0efrsm;ukd ausyGefpGmraqmif&Gufjcif;/
 
-- rdrd\pGyfpGJcsufudk  jynfaxmifpkvTwfawmfem,uxHwifjy&rnf?
+(c) EkdifiHawmfor®wu pGyfpGJjypfwif&efvkdtyfygu-
 
-- jynfaxmifpkvTwfawmfem,uonf  pkHprf;ppfaq;a&;tzGJUudk zGJUpnf;í Oya'ESifhtnD pkHprf;ppfaq;ap&rnf?
+(1) rdrd\pGyfpGJcsufudk jynfaxmifpkvTwfawmfem,uxHwifjy&rnf?
 
-- pkHprf;ppfaq;a&;tzGJUukd  zGJUpnf;&mwGif  jynfolYvTwfawmfESifh trsKd;om;vTwfawmfukd,fpm;vS,fOD;a&  wlnDpGmyg0ifapNyD; ,if;tzGJU0ifrsm;xJrS oifhavsmfolwpfOD;OD;ukd pkHprf;ppfaq;a&; tzGJUOuú|tjzpf wm0efay;&rnf?
+(2) jynfaxmifpkvTwfawmfem,uonf pkHprf;ppfaq;a&;tzGJUudk zGJUpnf;í Oya'ESifhtnD pkHprf;ppfaq;ap&rnf?
 
-- pkHprf;ppfaq;&rnfh vkyfief;yrmPukd axmuf½Ií pkHprf;ppfaq;rI NyD;pD;&rnfh  tcsdefumvukdvnf; owfrSwfay;&rnf?
+(3) pkHprf;ppfaq;a&;tzGJUukd zGJUpnf;&mwGif jynfolYvTwfawmfESifh trsKd;om;vTwfawmfukd,fpm;vS,fOD;a& wlnDpGmyg0ifapNyD; ,if;tzGJU0ifrsm;xJrS oifhavsmfolwpfOD;OD;ukd pkHprf;ppfaq;a&; tzGJUOuú|tjzpf wm0efay;&rnf?
+
+(4) pkHprf;ppfaq;&rnfh vkyfief;yrmPukd axmuf½Ií pkHprf;ppfaq;rI NyD;pD;&rnfh tcsdefumvukdvnf; owfrSwfay;&rnf?
 
 [[END OF PAGE 278]]
 
@@ -6467,7 +6477,7 @@ vTwfawmfokdY wifoGif;oabmwlnDcsuf &,l&rnf?
 
 (c) if the representatives of the Pyithu Hluttaw or the  Amyotha Hluttaw wish to impeach :
 
-(i) the provisions for the impeachment of the President or the VicePresident under Section 71 shall be applied;
+(i) the provisions for the impeachment of the President or the Vice-President under Section 71 shall be applied;
 
 [[END OF PAGE 279]]
 
@@ -6559,7 +6569,7 @@ pyfvsOf;í yk'fr  71  yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf?
 
 ##### Term of the Chief Justice of the Union and Judges of the Supreme Court of the Union
 
-- The Chief Justice of the Union and Judges of the Supreme Court of the Union shall hold office up to the age of 70 years unless one of the following occurs :
+303. The Chief Justice of the Union and Judges of the Supreme Court of the Union shall hold office up to the age of 70 years unless one of the following occurs :
 
 (a) resignation on his own volition;
 
@@ -6577,9 +6587,9 @@ pyfvsOf;í yk'fr  71  yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf?
 
 132
 
-- jynfaxmifpkw&m;olBuD;csKyf  okdYr[kwf  jynfaxmifpkw&m; vTwfawmfcsKyf w&m;olBuD;wpfOD;OD;tay: pGyfpGJjypfwifrIonf rSefuefí pGyfpGJcH&olonf jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf  w&m;olBuD;&mxl;wGif qufvufxrf;&Gufap&efroifhaMumif;  pkHprf;ppfaq;onfh vTwfawmfu  qkH;jzwfwifjyvQif  EkdifiHawmfor®wonf  pGyfpGJ jypfwifjcif;cH&onfh  jynfaxmifpkw&m;olBuD;csKyf  okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;tm; &mxl;rS&yfpJ &rnf?
+(2) jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m; vTwfawmfcsKyf w&m;olBuD;wpfOD;OD;tay: pGyfpGJjypfwifrIonf rSefuefí pGyfpGJcH&olonf jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;&mxl;wGif qufvufxrf;&Gufap&efroifhaMumif; pkHprf;ppfaq;onfh vTwfawmfu qkH;jzwfwifjyvQif EkdifiHawmfor®wonf pGyfpGJ jypfwifjcif;cH&onfh jynfaxmifpkw&m;olBuD;csKyf okdYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;tm; &mxl;rS&yfpJ &rnf?
 
-- pGyfpGJjypfwifrIonf  rrSefuefaMumif;  pkHprf;ppfaq;onfh vTwfawmfu  qkH;jzwfygu  xkdokdYqkH;jzwfaMumif;  oufqkdif&m vTwfawmfOuú|onf EkdifiHawmfor®wxH wifjytpD&ifcH&rnf/
+(3) pGyfpGJjypfwifrIonf rrSefuefaMumif; pkHprf;ppfaq;onfh vTwfawmfu qkH;jzwfygu xkdokdYqkH;jzwfaMumif; oufqkdif&m vTwfawmfOuú|onf EkdifiHawmfor®wxH wifjytpD&ifcH&rnf/
 
 ##### jynfaxmifpkw&m;olBuD;csKyfESihf  jynfaxmifpkw&m;vTwfawmfcsKyf  w&m;olBuD;rsm;\ &mxl;oufwrf;
 
@@ -6611,11 +6621,11 @@ qufvufxrf;aqmifEkdifpGrf;r&SdaMumif; awGU&Sd&jcif;?
 
 ##### Formation of High Courts of the Region or High Courts of the State
 
-- There is the High Court of the Region in the Region and the High Court of the State in the State.
+305. There is the High Court of the Region in the Region and the High Court of the State in the State.
 
 ##### Jurisdictions of High Courts of the Region or High Courts of the State
 
-- High Courts of the Region or State shall have the following jurisdictions in accord with the law :
+306. High Courts of the Region or State shall have the following jurisdictions in accord with the law :
 
 (a) adjudicating on original case;
 
@@ -6625,7 +6635,7 @@ qufvufxrf;aqmifEkdifpGrf;r&SdaMumif; awGU&Sd&jcif;?
 
 (d) adjudicating on matters prescribed by any law.
 
-(a) For the purpose of  judicial administration, the High Court of Mandalay Region is the High Court of the Courts situated in Nay Pyi Taw.
+307. (a) For the purpose of judicial administration, the High Court of Mandalay Region is the High Court of the Courts situated in Nay Pyi Taw.
 
 (b) For the purpose of judicial administration, where any area located in the Region or State is designated as a Union Territory, the High Court of the Region or State concerned is the High Court of the Courts situated in the said Union Territory.
 
@@ -6674,7 +6684,7 @@ qufvufxrf;aqmifEkdifpGrf;r&SdaMumif; awGU&Sd&jcif;?
 
 (b) (i) The President, in co-ordination with the Chief Justice of the Union and the Chief Minister of the Region or State concerned, shall prepare the nomination for the appointment of the Chief Justice of the High Court of the Region or State concerned and the Chief Minister of the Region or State concerned, in co-ordination with the Chief Justice of the Union, shall prepare the nomination for the appointment of the Judges of the High Court of the Region or State concerned, and the said nomination shall be sent to the Region or State Hluttaw concerned.
 
-(ii) The Region or State Hluttaw concerned shall have no right to refuse the person or persons nominated by the President, in coordination with the Chief Justice of the Union and the Chief Minister of the Region or State concerned, for the appointment of the Chief Justice of the High Court of the Region or State concerned, or the person or persons nominated by the Chief Minister of the Region or State concerned, in co-ordination with the Chief Justice of the Union, for the appointment of Judges of the High Court of the Region or State concerned unless it can clearly be proved that the person does not meet the qualifications prescribed under Section 310 for the Chief Justice of the High Court of the Region or State and the Judge of the High Court of the Region or State.
+(ii) The Region or State Hluttaw concerned shall have no right to refuse the person or persons nominated by the President, in co-ordination with the Chief Justice of the Union and the Chief Minister of the Region or State concerned, for the appointment of the Chief Justice of the High Court of the Region or State concerned, or the person or persons nominated by the Chief Minister of the Region or State concerned, in co-ordination with the Chief Justice of the Union, for the appointment of Judges of the High Court of the Region or State concerned unless it can clearly be proved that the person does not meet the qualifications prescribed under Section 310 for the Chief Justice of the High Court of the Region or State and the Judge of the High Court of the Region or State.
 
 [[END OF PAGE 285]]
 
@@ -6758,13 +6768,13 @@ trnfpm&if; ay;ydkYolrsm;ukd jiif;y,fcGihfr&Sdap&?
 
 (iv) The President shall appoint persons approved by the Region or State Hluttaw as the Chief Justice of the High Court of the Region or State concerned and Judges of the High Court of the Region or State concerned.
 
-(a) The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State must be free from party politics.
+309. (a) The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State must be free from party politics.
 
 (b) The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State, if they are civil service personnel, shall be deemed to have retired from the civil service in accord with the existing Civil Service Regulations commencing from the day they have been appointed as the Chief Justice of the High Court of the Region or State and the Judge of the High Court of the Region or State.
 
 ##### Qualification of the Chief Justice of the High Court of the Region or the High Court of the State and Judges of the High Court of the Region or the High Court of the State
 
-- The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State shall be a person of the following qualifications :
+310. The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State shall be a person of the following qualifications :
 
 (a) not younger than 45 years and not older than 65 years of age;
 
@@ -6860,7 +6870,7 @@ touf 45 ESpfxufri,f? touf 65 ESpfxufrBuD;ol?
 
 ##### Impeachment of the Chief Justice of the High Court of the Region or the High Court of the State and Judges of the High Court of the Region or the High Court of the State
 
-(a) The Chief Justice of the High Court of the Region or State or Judges of the High Court of the Region or State may be impeached on any of the following reasons :
+311. (a) The Chief Justice of the High Court of the Region or State or Judges of the High Court of the Region or State may be impeached on any of the following reasons :
 
 (i) high treason;
 
@@ -6878,9 +6888,9 @@ touf 45 ESpfxufri,f? touf 65 ESpfxufrBuD;ol?
 
 (C) (1) wkdif;a'oBuD; okdYr[kwf jynfe,ftqifhxufredrfhaom w&m;a&; t&m&Sd  okdYr[kwf  Oya't&m&Sd&mxl;wGif  tenf;qkH;  ig;ESpf wm0efxrf;aqmifcJhol  okdYr[kwf  c½kdiftqifhxufredrfhaom w&m;a&;t&m&Sd odkYr[kwf Oya't&m&Sd&mxl;wGif tenf;qkH; 10 ESpf wm0efxrf;aqmifcJhol okdYr[kwf
 
-- w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 15 ESpf trIvkdufyg aqmif&GufcJhol okdYr[kwf
+(2) w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 15 ESpf trIvkdufyg aqmif&GufcJhol okdYr[kwf
 
-- xifay:ausmfMum;onfh *kPfowif;&Sdaom Oya'ynm&Siftjzpf EkdifiHawmfor®wu ,lqol/
+(3) xifay:ausmfMum;onfh *kPfowif;&Sdaom Oya'ynm&Siftjzpf EkdifiHawmfor®wu ,lqol/
 
 ( i ) EkdifiHawmfESifh  EkdifiHom;rsm;tay:opöm&Sdol?
 
@@ -6890,13 +6900,13 @@ touf 45 ESpfxufri,f? touf 65 ESpfxufrBuD;ol?
 
 ##### wkdif;a'oBuD;w&m;vTwfawmf  okdYr[kwf  jynfe,fw&m;vTwfawmf  w&m;olBuD;csKyf ESifh  wdkif;a'oBuD;w&m;vTwfawmf  okdYr[kwf  jynfe,fw&m;vTwfawmf w&m;olBuD;rsm;tm;  pGyfpJGjypfwifjcif;
 
-- 311/ (u) wdkif;a'oBuD;  odkYr[kwf  jynfe,fw&m;vTwfawmf  w&m;olBuD;csKyfudk vnf;aumif;?  wdkif;a'oBuD;  odkYr[kwf  jynfe,fw&m;vTwfawmf w&m;olBuD;udkvnf;aumif;  atmufygtaMumif;wpf&yf&yfjzifh  pGyfpGJ jypfwifEkdifonf -
+311/ (u) wkdif;a'oBuD; odkYr[kwf jynfe,fw&m;vTwfawmf w&m;olBuD;csKyfudk vnf;aumif;? wkdif;a'oBuD; odkYr[kwf jynfe,fw&m;vTwfawmf w&m;olBuD;udkvnf;aumif; atmufygtaMumif;wpf&yf&yfjzifh pGyfpGJ jypfwifEkdifonf -
 
-- EkdifiHawmf\aus;Zl;opömawmfudkazmufzsufjcif;?
+(1) EkdifiHawmf\aus;Zl;opömawmfudkazmufzsufjcif;?
 
-- zGJUpnf;ykHtajccHOya'yg  jy|mef;csufwpf&yf&yfudk  azmufzsuf usL;vGefjcif;?
+(2) zGJUpnf;ykHtajccHOya'yg jy|mef;csufwpf&yf&yfudk azmufzsuf usL;vGefjcif;?
 
-- tusifhodu©mysufjym;jcif;?
+(3) tusifhodu©mysufjym;jcif;?
 
 [[END OF PAGE 290]]
 
@@ -7002,7 +7012,7 @@ udkvnf; owfrSwfay;&rnf?
 
 138
 
-- EkdifiHawmfor®w okdYr[kwf oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf  rdrd\pGyfpGJcsufESifhpyfvsOf;í  rdrd ukd,fwkdifaomfvnf;aumif;? udk,fpm;vS,fapvTwfíaomfvnf; aumif;  pkHprf;ppfaq;a&;tzGJU  a&SUarSmufwGif  &Sif;vif;wifjy Ekdifonf/ oufqkdif&m taxmuftxm;rsm;ESifh oufaorsm;ukd vnf; wifjyEkdifcGifh&Sdonf/
+(2) EkdifiHawmfor®w okdYr[kwf oufqkdif&mwkdif;a'oBuD; okdYr[kwf jynfe,f0efBuD;csKyfonf rdrd\pGyfpGJcsufESifhpyfvsOf;í rdrd ukd,fwkdifaomfvnf;aumif;? udk,fpm;vS,fapvTwfíaomfvnf; aumif; pkHprf;ppfaq;a&;tzGJU a&SUarSmufwGif &Sif;vif;wifjy Ekdifonf/ oufqkdif&m taxmuftxm;rsm;ESifh oufaorsm;ukd vnf; wifjyEkdifcGifh&Sdonf/
 
 ( p ) pGyfpGJcsufukd  pkHprf;ppfaq;onfhtcg pGyfpGJjypfwifjcif;cH&oltm; ukd,fwkdif aomfvnf;aumif;? ukd,fpm;vS,fjzifhaomfvnf;aumif; acsycGifhay;&rnf?
 
@@ -7022,7 +7032,7 @@ udkvnf; owfrSwfay;&rnf?
 
 ##### Term of the Chief Justice of the High Court of the Region or the High Court of the State and Judges of the High Court of the Region or High Court of the State
 
-- The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State shall hold office up to the age of 65 years unless any of the following occurs :
+312. The Chief Justice of the High Court of the Region or State and Judges of the High Court of the Region or State shall hold office up to the age of 65 years unless any of the following occurs :
 
 (a) resignation on his own volition;
 
@@ -7032,7 +7042,7 @@ udkvnf; owfrSwfay;&rnf?
 
 (d) death.
 
-- Duties, powers and rights of the Chief Justice of the High Court of the Region or State and the Judges of the High Court of the Region or State shall be prescribed by law.
+313. Duties, powers and rights of the Chief Justice of the High Court of the Region or State and the Judges of the High Court of the Region or State shall be prescribed by law.
 
 [[END OF PAGE 295]]
 
@@ -7064,7 +7074,7 @@ udkvnf; owfrSwfay;&rnf?
 
 ##### Courts under the Supervision of the High Court of the Region or the High Court of the State
 
-- The following levels of Courts are under the supervision of the High Court of the Region or State :
+314. The following levels of Courts are under the supervision of the High Court of the Region or State :
 
 (a) if there is no Self-Administered  Areas in the Region or State :
 
@@ -7102,7 +7112,7 @@ udkvnf; owfrSwfay;&rnf?
 
 ##### Jurisdiction of the District Courts and Township Courts
 
-- District Courts, Courts of the Self-Administered Division, and Courts of the SelfAdministered Zone, in accord with the law, have the jurisdiction relating to original criminal cases, original civil cases, appeal cases, revision cases or matters prescribed by any law.
+315. District Courts, Courts of the Self-Administered Division, and Courts of the Self-Administered Zone, in accord with the law, have the jurisdiction relating to original criminal cases, original civil cases, appeal cases, revision cases or matters prescribed by any law.
 
 [[END OF PAGE 297]]
 
@@ -7114,31 +7124,37 @@ udkvnf; owfrSwfay;&rnf?
 
 314/ wdkif;a'oBuD;  odkYr[kwf  jynfe,fw&m;vTwfawmf  BuD;MuyfrIatmufü atmufygtwdkif; w&m;½kH;tqifhqifh&dSonf
 
-(u)
+(u) wkdif;a'oBuD; odkYr[kwf jynfe,ftwGif; udk,fydkiftkyfcsKyfcGifh& pD&ifpkr&dSvQif
 
-- wdkif;a'oBuD;  odkYr[kwf  jynfe,ftwGif;  udk,fydkiftkyfcsKyfcGifh&  pD&ifpkr&dSvQif (1) c½dkifw&m;½kH;rsm;?
+(1) c½dkifw&m;½kH;rsm;?
 
-- NrdKUe,fw&m;½kH;rsm;/
+(2) NrdKUe,fw&m;½kH;rsm;/
 
-( c ) wdkif;a'oBuD;  odkYr[kwf  jynfe,ftwGif;  udk,fydkiftkyfcsKyfcGifh&  pD&ifpk&dSvQif
+(c) wkdif;a'oBuD; odkYr[kwf jynfe,ftwGif; udk,fydkiftkyfcsKyfcGifh& pD&ifpk&dSvQif
 
-(1)
+(1) udk,fydkiftkyfcsKyfcGifh&wdkif;ü
 
-(2)
+(uu) udk,fydkiftkyfcsKyfcGifh&wdkif;w&m;½Hk;?
 
-- udk,fydkiftkyfcsKyfcGifh&wdkif;ü (uu) udk,fydkiftkyfcsKyfcGifh&wdkif;w&m;½Hk;? ( c c ) NrdKUe,fw&m;½kH;rsm;/
+( c c ) NrdKUe,fw&m;½kH;rsm;/
 
-- udk,fydkiftkyfcsKyfcGifh&a'oü (uu) udk,fydkiftkyfcsKyfcGifh&a'ow&m;½kH;? ( c c ) NrdKUe,fw&m;½kH;rsm;/
+(2) udk,fydkiftkyfcsKyfcGifh&a'oü
 
-(3)
+(uu) udk,fydkiftkyfcsKyfcGifh&a'ow&m;½kH;?
 
-- usefa'orsm;ü (uu) c½dkifw&m;½kH;rsm;? ( c c ) NrdKUe,fw&m;½kH;rsm;/
+( c c ) NrdKUe,fw&m;½kH;rsm;/
 
-( * ) jynfaxmifpke,fajrü
+(3) usefa'orsm;ü
 
-- c½dkifw&m;½kH;rsm;?
+(uu) c½dkifw&m;½kH;rsm;?
 
-- NrdKUe,fw&m;½kH;rsm;/
+( c c ) NrdKUe,fw&m;½kH;rsm;/
+
+(*) jynfaxmifpke,fajrü
+
+(1) c½dkifw&m;½kH;rsm;?
+
+(2) NrdKUe,fw&m;½kH;rsm;/
 
 (C) Oya't&wnfaxmifxm;aom tjcm;w&m;½kH;rsm;/
 
@@ -7152,23 +7168,23 @@ udkvnf; owfrSwfay;&rnf?
 
 141
 
-- Township Courts, in accord with the law, have the jurisdiction relating to original criminal cases, original civil cases or matters prescribed by any law.
+316. Township Courts, in accord with the law, have the jurisdiction relating to original criminal cases, original civil cases or matters prescribed by any law.
 
-- The Judges appointed in accord with the law at the Courts formed by the Constitution or any other law shall administer all judicial affairs in the entire Union.
+317. The Judges appointed in accord with the law at the Courts formed by the Constitution or any other law shall administer all judicial affairs in the entire Union.
 
-(a) Appointment of Judges at various levels of Courts under the supervision of the High Court of the Region or State, conferring judicial powers, prescribing the duties, powers and rights shall be in accord with the law.
+318. (a) Appointment of Judges at various levels of Courts under the supervision of the High Court of the Region or State, conferring judicial powers, prescribing the duties, powers and rights shall be in accord with the law.
 
 (b) Formation of staff organizations, comprising of officers and other ranks at the Supreme Court of the Union, the High Courts of the Region or State and  other Courts, and prescribing duties, powers and rights shall be in accord with the law.
 
 #### Courts-Martial
 
-- According to Sub-Section (b) of Section 293, the Courts-Martial shall be constituted in accord with the Constitution and the other law and shall adjudicate Defence Services personnel.
+319. According to Sub-Section (b) of Section 293, the Courts-Martial shall be constituted in accord with the Constitution and the other law and shall adjudicate Defence Services personnel.
 
 #### The Constitutional Tribunal of the Union
 
 ##### Formation of the Constitutional Tribunal of the Union
 
-- The Constitutional  Tribunal of  the  Union  shall  be  formed  with  nine  members  including the Chairperson.
+320. The Constitutional Tribunal of the Union shall be formed with nine members including the Chairperson.
 
 [[END OF PAGE 299]]
 
@@ -7216,7 +7232,9 @@ udkvnf; owfrSwfay;&rnf?
 
 [[START OF PAGE 302]]
 
-321/ EdkifiHawmfor®wonf rdrda&G;cs,fxm;onfh tzGJU0if okH;OD;? jynfolYvTwfawmf Ouú|u a&G;cs,fxm;onfh tzGJU0ifokH;OD;ESifh  trsKd;om;vTwfawmfOuú|u  a&G;cs,f xm;onfh tzGJU0if okH;OD; pkpkaygif; udk;OD;\ trnfpm&if;ukdvnf;aumif;? ,if;wkdYteuf EdkifiHawmfzGJUpnf;yHktajccHOya'qdkif&mcHk½Hk;Ouú|tjzpf  wm0efay;tyf&ef  tzJGU0ifwpfOD;\ trnfukdvnf;aumif;? jynfaxmifpkvTwfawmfodkY wifoGif;vsuf oabmwlnDcsuf &,l&rnf/ 142
+142
+
+321/ EdkifiHawmfor®wonf rdrda&G;cs,fxm;onfh tzGJU0if okH;OD;? jynfolYvTwfawmf Ouú|u a&G;cs,fxm;onfh tzGJU0ifokH;OD;ESifh trsKd;om;vTwfawmfOuú|u a&G;cs,f xm;onfh tzGJU0if okH;OD; pkpkaygif; udk;OD;\ trnfpm&if;ukdvnf;aumif;? ,if;wkdYteuf EdkifiHawmfzGJUpnf;yHktajccHOya'qdkif&mcHk½Hk;Ouú|tjzpf wm0efay;tyf&ef tzJGU0ifwpfOD;\ trnfukdvnf;aumif;? jynfaxmifpkvTwfawmfodkY wifoGif;vsuf oabmwlnDcsuf &,l&rnf/
 
 ##### EdkifiHawmfzGJUpnf;yHktajccHOya'qdkif&mcHk½Hk;\  vkyfief;wm0ef
 
@@ -7234,13 +7252,13 @@ udkvnf; owfrSwfay;&rnf?
 
 ##### Effect of the Resolution of the Constitutional Tribunal of the Union
 
-- In hearing a case by a Court, if there arises a dispute whether the provisions contained in any law contradict or conform to the Constitution, and if no resolution has been made by the Constitutional Tribunal of the Union on the said dispute, the said Court shall stay the trial and submit its opinion to  the Constitutional Tribunal of the Union in accord with the prescribed procedures and shall obtain a resolution. In respect of the said dispute, the resolution of the Constitutional Tribunal of the Union shall be applied to all cases.
+323. In hearing a case by a Court, if there arises a dispute whether the provisions contained in any law contradict or conform to the Constitution, and if no resolution has been made by the Constitutional Tribunal of the Union on the said dispute, the said Court shall stay the trial and submit its opinion to the Constitutional Tribunal of the Union in accord with the prescribed procedures and shall obtain a resolution. In respect of the said dispute, the resolution of the Constitutional Tribunal of the Union shall be applied to all cases.
 
-- The resolution of the Constitutional Tribunal of the Union shall be final and conclusive.
+324. The resolution of the Constitutional Tribunal of the Union shall be final and conclusive.
 
 ##### Submission to obtain the interpretation, resolution and opinion of the Constitutional Tribunal of the Union
 
-- The following persons and organizations shall have the right to submit matters directly to obtain the interpretation, resolution and opinion of the Constitutional Tribunal of the Union :
+325. The following persons and organizations shall have the right to submit matters directly to obtain the interpretation, resolution and opinion of the Constitutional Tribunal of the Union :
 
 (a) the President;
 
@@ -7258,20 +7276,21 @@ udkvnf; owfrSwfay;&rnf?
 
 [[START OF PAGE 304]]
 
-- jynfaxmifpke,fajrrsm;ESifhpyfvsOf;í EkdifiHawmfor®wutaMumif;Mum;
+143
 
-- jynfaxmifpkvTwfawmfu  jy|mef;onfhOya'rsm;u  ay;tyfonfh vkyfief;wm0efrsm;/
+(p) jynfaxmifpke,fajrrsm;ESifhpyfvsOf;í EkdifiHawmfor®wutaMumif;Mum; vmonfh udpö&yfrsm;ukd pdppfqkH;jzwfjcif;?
 
-( p ) vmonfh udpö&yfrsm;ukd pdppfqkH;jzwfjcif;? (q) 143
+(q) jynfaxmifpkvTwfawmfu jy|mef;onfhOya'rsm;u ay;tyfonfh vkyfief;wm0efrsm;/
 
-##### EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&mckH½kH;  qkH;jzwfcsuf\  tusKd;oufa&mufrI
-323/ w&m;½kH;wpf½kH;onf trIwpfrIudk ppfaq;pD&if&mwGif Oya'wpf&yf&yfyg jy|mef; csufonf  zGJUpnf;ykHtajccHOya'ESifh  qefYusifrI&Sd-r&Sd?  nDñGwfrI&Sd-r&Sd  tjiif;yGm;rI ay:aygufygu xdktjiif;yGm;rIESifh pyfvsOf;í EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;uvnf; wpfpkHwpf&mqkH;jzwfcsuf csrSwfxm;jcif;r&Sdao;vQif tqdkygw&m;½kH;onf trIppfaq;pD&ifjcif;udk&yfqdkif;xm;NyD;  rdrd\xifjrifcsufudk  owfrSwfxm;onfh enf;vrf;rsm;ESifhtnD EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m  ckH½kH;odkYwifjyí  tqkH;tjzwf &,l&rnf/ ,if;tjiif;yGm;rIESifhpyfvsOf;í EdkifiHawmfzGJUpnf;ykH tajccHOya'qdkif&mckH½kH;\ qkH;jzwfcsufonf trItm;vkH;ESifh oufqkdifap&rnf/ EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&mckH½kH;\  qkH;jzwfcsufonf  tNyD;tjywf
+##### EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&mckH½kH; qkH;jzwfcsuf\ tusKd;oufa&mufrI
 
-324/ twnfjzpfonf/
+323/ w&m;½kH;wpf½kH;onf trIwpfrIudk ppfaq;pD&if&mwGif Oya'wpf&yf&yfyg jy|mef; csufonf zGJUpnf;ykHtajccHOya'ESifh qefYusifrI&Sd-r&Sd? nDñGwfrI&Sd-r&Sd tjiif;yGm;rI ay:aygufygu xdktjiif;yGm;rIESifh pyfvsOf;í EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;uvnf; wpfpkHwpf&mqkH;jzwfcsuf csrSwfxm;jcif;r&Sdao;vQif tqdkygw&m;½kH;onf trIppfaq;pD&ifjcif;udk&yfqdkif;xm;NyD; rdrd\xifjrifcsufudk owfrSwfxm;onfh enf;vrf;rsm;ESifhtnD EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;odkYwifjyí tqkH;tjzwf &,l&rnf/ ,if;tjiif;yGm;rIESifhpyfvsOf;í EdkifiHawmfzGJUpnf;ykH tajccHOya'qdkif&mckH½kH;\ qkH;jzwfcsufonf trItm;vkH;ESifh oufqkdifap&rnf/
 
-##### EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&mckH½kH;\  t"dyÜm,fzGifhqdkcsuf?  qkH;jzwfcsufESifh oabmxm;&,l&ef  wifoGif;jcif;
+324/ EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&mckH½kH;\ qkH;jzwfcsufonf tNyD;tjywf twnfjzpfonf/
 
-325/ zGJUpnf;ykHtajccHOya'qdkif&mckH½kH;\  t"dyÜm,fzGifhqdkcsuf?  qkH;jzwfcsuf?  oabmxm; &,l&efudpörsm;udk  atmufazmfjyygyk*¾dKvfrsm;onf  EdkifiHawmfzGJUpnf;ykHtajccHOya' qdkif&mckH½kH;odkY  wdkuf½dkufwifoGif;cGifh&Sdonf (u) EdkifiHawmfor®w? ( c ) jynfaxmifpkvTwfawmfem,u? ( * ) jynfolUvTwfawmfOuú|? (C) trsKd;om;vTwfawmfOuú|? ( i ) jynfaxmifpkw&m;olBuD;csKyf? ( p ) jynfaxmifpka&G;aumufyGJaumfr&SifOuú|/
+##### EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&mckH½kH;\ t"dyÜm,fzGifhqdkcsuf? qkH;jzwfcsufESifh oabmxm;&,l&ef wifoGif;jcif;
+
+325/ zGJUpnf;ykHtajccHOya'qdkif&mckH½kH;\ t"dyÜm,fzGifhqdkcsuf? qkH;jzwfcsuf? oabmxm; &,l&efudpörsm;udk atmufazmfjyygyk*¾dKvfrsm;onf EdkifiHawmfzGJUpnf;ykHtajccHOya' qdkif&mckH½kH;odkY wdkuf½dkufwifoGif;cGifh&Sdonf (u) EdkifiHawmfor®w? (c) jynfaxmifpkvTwfawmfem,u? (*) jynfolUvTwfawmfOuú|? (C) trsKd;om;vTwfawmfOuú|? (i) jynfaxmifpkw&m;olBuD;csKyf? (p) jynfaxmifpka&G;aumufyGJaumfr&SifOuú|/
 
 [[END OF PAGE 304]]
 
@@ -7291,13 +7310,13 @@ udkvnf; owfrSwfay;&rnf?
 
 ##### Appointment of the Chairperson and members of the Constitutional Tribunal of the Union
 
-- The President shall appoint the Chairperson and members of the Constitutional Tribunal of the Union approved by the Pyidaungsu Hluttaw .
+327. The President shall appoint the Chairperson and members of the Constitutional Tribunal of the Union approved by the Pyidaungsu Hluttaw .
 
-- The Pyidaungsu Hluttaw shall have no right to refuse the persons nominated for members of the Constitutional Tribunal of the Union by the President unless it can clearly be proved that they are disqualified.
+328. The Pyidaungsu Hluttaw shall have no right to refuse the persons nominated for members of the Constitutional Tribunal of the Union by the President unless it can clearly be proved that they are disqualified.
 
-- The President has the right to submit again, in accord with the provisions of the Constitution, the new nomination list to replace the person who has not been approved by the Pyidaungsu Hluttaw for appointment as member of the Constitutional Tribunal of the Union.
+329. The President has the right to submit again, in accord with the provisions of the Constitution, the new nomination list to replace the person who has not been approved by the Pyidaungsu Hluttaw for appointment as member of the Constitutional Tribunal of the Union.
 
-- A member of the Constitutional Tribunal of the Union shall :
+330. A member of the Constitutional Tribunal of the Union shall :
 
 (a) if he is a representative of any Hluttaw, be deemed to have resigned as representative of the Hluttaw commencing from the day he has been appointed as a member of the Constitutional Tribunal of the Union;
 
@@ -7325,13 +7344,13 @@ udkvnf; owfrSwfay;&rnf?
 
 (c) if he is a member of any political party, he shall not take part in its party activities during his term, commencing from the day he has been appointed a member of the Constitutional Tribunal of the Union.
 
-- If  a  member of the Constitutional  Tribunal of the Union wishes to resign on his own volition from office before the expiry of his term due to any reason, he may do so, after submitting his resignation in writing to the President.
+331. If a member of the Constitutional Tribunal of the Union wishes to resign on his own volition from office before the expiry of his term due to any reason, he may do so, after submitting his resignation in writing to the President.
 
-- If the position of a member of the Constitutional Tribunal of the Union is vacant for any reason, the President may appoint a new member of the Constitutional Tribunal of the Union in accord with the provisions under the Constitution.
+332. If the position of a member of the Constitutional Tribunal of the Union is vacant for any reason, the President may appoint a new member of the Constitutional Tribunal of the Union in accord with the provisions under the Constitution.
 
 ##### Qualifications of the Member of the Constitutional Tribunal of the Union
 
-- The President, the Speaker of the Pyithu Hluttaw and the Speaker of the  Amyotha Hluttaw shall select from among the Hluttaw representatives or among those who are not Hluttaw representatives with three members each who has the following qualifications :
+333. The President, the Speaker of the Pyithu Hluttaw and the Speaker of the Amyotha Hluttaw shall select from among the Hluttaw representatives or among those who are not Hluttaw representatives with three members each who has the following qualifications :
 
 (a) person who has attained the age of 50 years;
 
@@ -7341,11 +7360,11 @@ udkvnf; owfrSwfay;&rnf?
 
 [[START OF PAGE 308]]
 
-( * ) aqmif&Gufjcif;rjyK&/
-
 145
 
-( c ) EdkifiHh0efxrf;jzpfvQif  EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;tzGJU0if tjzpf cefYtyfwm0efay;jcif;cH&onfhaeYrSpí wnfqJ0efxrf;pnf;rsOf; pnf;urf;rsm;ESifhtnD  0efxrf;tjzpfrS  tNidrf;pm;,lNyD;jzpfonf[k rSwf,l&rnf? EdkifiHa&;ygwDwpfckckü tzGJU0ifjzpfvQif EdkifiHawmfzGJUpnf;ykHtajccHOya' qdkif&m ckH½kH;tzGJU0iftjzpf wm0efay;tyfjcif;cH&onfhaeYrSpí rdrd&mxl; oufwrf;twGif; ,if;ygwDtzGJUtpnf;\ ygwDvkyfief;rsm;wGif yg0if
+(c) EdkifiHh0efxrf;jzpfvQif EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;tzGJU0if tjzpf cefYtyfwm0efay;jcif;cH&onfhaeYrSpí wnfqJ0efxrf;pnf;rsOf; pnf;urf;rsm;ESifhtnD 0efxrf;tjzpfrS tNidrf;pm;,lNyD;jzpfonf[k rSwf,l&rnf?
+
+(*) EdkifiHa&;ygwDwpfckckü tzGJU0ifjzpfvQif EdkifiHawmfzGJUpnf;ykHtajccHOya' qdkif&m ckH½kH;tzGJU0iftjzpf wm0efay;tyfjcif;cH&onfhaeYrSpí rdrd&mxl; oufwrf;twGif; ,if;ygwDtzGJUtpnf;\ ygwDvkyfief;rsm;wGif yg0if aqmif&Gufjcif;rjyK&/
 
 331/ EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m  ckH½kH;tzGJU0ifwpfOD;OD;onf  &mxl; oufwrf;rukefqkH;rD  taMumif;wpfckckaMumifh  rdrdoabmqE´tavsmuf  &mxl;rS EkwfxGufvdkvQif xdkodkYEkwfxGufvdkaMumif; EdkifiHawmfor®wxH pmjzifhwifjyNyD; &mxl;rS EkwfxGufEdkifonf/
 
@@ -7381,7 +7400,7 @@ udkvnf; owfrSwfay;&rnf?
 
 ##### Impeachment of the Chairperson and the Members of the Constitutional Tribunal of the Union
 
-(a) The Chairperson and members of the Constitutional Tribunal of the Union may be impeached on any of the following reasons :
+334. (a) The Chairperson and members of the Constitutional Tribunal of the Union may be impeached on any of the following reasons :
 
 (i) high treason;
 
@@ -7399,37 +7418,37 @@ udkvnf; owfrSwfay;&rnf?
 
 146
 
-( * ) yk'fr 121 wGif azmfjyxm;onfY jynfolYvTwfawmf ukd,fpm;vS,frsm; tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csufrsm;ESifhvnf; NidpGef;jcif;r&Sdol?
+(*) yk'fr 121 wGif azmfjyxm;onfY jynfolYvTwfawmf ukd,fpm;vS,frsm; tjzpf a&G;aumufwifajr§mufcHydkifcGifhr&Sdapaom jy|mef;csufrsm;ESifhvnf; NidpGef;jcif;r&Sdol?
 
 (C) (1) wkdif;a'oBuD; okdYr[kwf jynfe,fw&m;vTwfawmf w&m;olBuD; tjzpf tenf;qkH; ig;ESpf aqmif&GufcJhol okdYr[kwf
 
-- wkdif;a'oBuD;  okdYr[kwf  jynfe,ftqifhxufredrfhaom w&m;a&;t&m&Sd okdYr[kwf Oya't&m&Sd&mxl;wGif tenf;qkH; 10 ESpf  wm0efxrf;aqmifcJhol okdYr[kwf
+(2) wkdif;a'oBuD; okdYr[kwf jynfe,ftqifhxufredrfhaom w&m;a&;t&m&Sd okdYr[kwf Oya't&m&Sd&mxl;wGif tenf;qkH; 10 ESpf wm0efxrf;aqmifcJhol okdYr[kwf
 
-- w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 20 ESpf trIvkdufyg aqmif&GufcJhol okdYr[kwf
+(3) w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 20 ESpf trIvkdufyg aqmif&GufcJhol okdYr[kwf
 
-- xifay:ausmfMum;onfh *kPfowif;&Sdaom Oya'ynm&Siftjzpf EkdifiHawmfor®wu ,lqol/
+(4) xifay:ausmfMum;onfh *kPfowif;&Sdaom Oya'ynm&Siftjzpf EdkifiHawmfor®wu ,lqol/
 
-( i ) EkdifiHa&;ygwD0ifr[kwfol?
+(i) EkdifiHa&;ygwD0ifr[kwfol?
 
-( p ) vTwfawmfukd,fpm;vS,fr[kwfol?
+(p) vTwfawmfukd,fpm;vS,fr[kwfol?
 
-(q) EdkifiHa&;?  tkyfcsKyfa&;?  pD;yGm;a&;?  vHkNcHKa&;tjrif&Sdol?
+(q) EdkifiHa&;? tkyfcsKyfa&;? pD;yGm;a&;? vHkNcHKa&;tjrif&Sdol?
 
-( Z ) EdkifiHawmfESifh  EdkifiHom;rsm;tay:  opöm&Sdol/
+(Z) EdkifiHawmfESifh EdkifiHom;rsm;tay: opöm&Sdol/
 
-##### EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m  ckH½kH;Ouú|ESifh  tzGJU0ifrsm;tm;  pGyfpJG jypfwifjcif;
+##### EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;Ouú|ESifh tzGJU0ifrsm;tm; pGyfpJG jypfwifjcif;
 
-- 334/ (u) EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m  ckH½kH;Ouú|ESifh  tzGJU0ifwpfOD;OD;tm; atmufygtaMumif;wpf&yf&yfjzifh pGyfpGJjypfwifEdkifonf
+334/ (u) EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;Ouú|ESifh tzGJU0ifwpfOD;OD;tm; atmufygtaMumif;wpf&yf&yfjzifh pGyfpGJjypfwifEdkifonf
 
-- EdkifiHawmf\ aus;Zl;opömawmfudk azmufzsufjcif;?
+(1) EdkifiHawmf\ aus;Zl;opömawmfudk azmufzsufjcif;?
 
-- zGJUpnf;ykHtajccHOya'yg  jy|mef;csufwpf&yf&yfudk  azmufzsuf usL;vGefjcif;?
+(2) zGJUpnf;ykHtajccHOya'yg jy|mef;csufwpf&yf&yfudk azmufzsuf usL;vGefjcif;?
 
-- tusifhodu©mysufjym;jcif;?
+(3) tusifhodu©mysufjym;jcif;?
 
-- yk'fr 333 wGif owfrSwfxm;onfh EdkifiHawmfzGJUpnf;ykHtajccH Oya'qdkif&m ckH½kH;tzGJU0if\ t&nftcsif;ysuf,Gif;jcif;?
+(4) yk'fr 333 wGif owfrSwfxm;onfh EdkifiHawmfzGJUpnf;ykHtajccH Oya'qdkif&m ckH½kH;tzGJU0if\ t&nftcsif;ysuf,Gif;jcif;?
 
-- Oya't& ay;tyfaom wm0efrsm;ukd ausyGefpGm raqmif&Gufjcif;/
+(5) Oya't& ay;tyfaom wm0efrsm;udk ausyGefpGm raqmif&Gufjcif;/
 
 [[END OF PAGE 310]]
 
@@ -7449,17 +7468,9 @@ udkvnf; owfrSwfay;&rnf?
 
 [[START OF PAGE 312]]
 
-( c )
-
 147
 
-EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m  ckH½kH;Ouú|ESifh  tzGJU0ifwpfOD;OD;tay:
-
-pGyfpGJjypfwifvdkygu jynfaxmifpkw&m;olBuD;csKyf odkYr[kwf jynfaxmifpk
-
-w&m;vTwfawmfcsKyf  w&m;olBuD;wpfOD;OD;tm;  pGyfpGJjypfwifjcif;ESifh
-
-pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
+(c) EdkifiHawmfzGJUpnf;ykHtajccHOya'qdkif&m ckH½kH;Ouú|ESifh tzGJU0ifwpfOD;OD;tay: pGyfpGJjypfwifvdkygu jynfaxmifpkw&m;olBuD;csKyf odkYr[kwf jynfaxmifpk w&m;vTwfawmfcsKyf w&m;olBuD;wpfOD;OD;tm; pGyfpGJjypfwifjcif;ESifh pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 ##### EdkifiHawmfzGJUpnf;yHktajccHOya'qdkif&mcHk½Hk;\  oufwrf;
 
@@ -7475,23 +7486,7 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 [[START OF PAGE 314]]
 
-## tcef;  (7)
-
-## tcef;  (7)
-
-## tcef;  (7)
-
-## tcef;  (7)
-
-## tcef;  (7)
-
-## wyfrawmf
-
-## wyfrawmf
-
-## wyfrawmf
-
-## wyfrawmf
+## tcef; (7)
 
 ## wyfrawmf
 
@@ -7501,12 +7496,32 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 ## Chapter VII Defence Services
 
+337. The main armed force for the Defence of the Union is the Defence Services.
+
+338. All the armed forces in the Union shall be under the command of the Defence Services.
+
+339. The Defence Services shall lead in safeguarding the Union against all internal and external dangers.
+
+340. With the approval of the National Defence and Security Council, the Defence Services has the authority to administer the participation of the entire people in the Security and Defence of the Union. The strategy of the people’s militia shall be carried out under the leadership of the Defence Services.
+
+341. The Defence Services shall render assistance when calamities that affects the Union and its citizens occur in the Union.
+
+342. The President shall appoint the Commander-in-Chief of the Defence Services with the proposal and approval of the National Defence and Security Council.
+
+343. In the adjudication of Military justice :
+
+(a) the Defence Services personnel may be administered in accord with law collectively or singly;
+
+(b) the decision of the Commander-in-Chief of the Defence Services is final and conclusive.
+
+344. A law shall be enacted to provide assistance and care for disabled Defence Services personnel and the families of deceased or fallen Defence Services personnel.
+
 [[END OF PAGE 315]]
 
 [[START OF PAGE 316]]
 
-## tcef;(7) tcef;(7) tcef;(7) tcef;(7)
-## wyfrawmf wyfrawmf wyfrawmf wyfrawmf
+## tcef;(7)
+## wyfrawmf
 
 337/ wyfrawmfonf  EdkifiHawmfumuG,fa&;twGuf  t"dutusqHk;aom vufeufudkifwyfzJGU jzpfonf/ 338/ EdkifiHawmftwGif;&Sd  vufeufudkiftzJGUtpnf;tm;vHk;onf wyfrawmf\uGyfuJrI atmufwGif&Sd&rnf/ 339/ EdkifiHawmftm;jynfwGif;? jynfytEÅ&m,frsm;rSumuG,fa&;twGuf wyfrawmfu OD;aqmif&rnf/ 340/ wyfrawmfonf trsKd;om;umuG,fa&;ESihf vHkNcHKa&;aumifpD\ oabmwlnDcsuf jzihf  EkdifiHawmfvHkNcHKa&;ESihf  umuG,fa&;wGif  jynfolwpf&yfvHk;yg0ifa&;twGuf  pDrH aqmif&GufcGifh&Sdonf/ wyfrawmf\OD;aqmifrIjzihf jynfolYppfr[mAsL[mudk azmfaqmif &rnf/ 341/ EdkifiHawmfwGif EdkifiHawmfESihf EdkifiHom;rsm;twGuf ab;tEÅ&m,frsm;usa&muf vmvQif wyfrawmfuulnDaqmif&Guf&rnf/ 342/ EdkifiHawmfor®wonf  trsKd;om;umuG,fa&;ESihf  vHkNcHKa&;aumifpD\  tqdkjyK axmufcHcsufjzihf wyfrawmfumuG,fa&;OD;pD;csKyfudk cefYtyfwm0efay;&rnf/ 343/ ppfbufw&m;pD&if&mwGif (u) wyfrawmfom;rsm;twGuf tzJGUjzihfjzpfap? wpfOD;wnf;jzpfap Oya'ESihf tnD pD&ifEdkifonf? ( c ) wyfrawmfumuG,fa&;OD;pD;csKyf\  tqHk;tjzwfonf  tNyD;tjywf jzpfonf/ 344/ roefrpGrf;jzpfoGm;aom wyfrawmfom;rsm;ESifh aoqHk;aom odkYr[kwf usqHk;aom wyfrawmfom;rsm;\rdom;pkrsm;tm; axmufyHhapmihfa&Smufa&;wdkYtwGuf Oya'jy|mef;
 
@@ -7517,14 +7532,14 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 [[START OF PAGE 317]]
 
 ## Chapter VIII Citizen, Fundamental Rights and  Duties of the Citizens
-## tcef;  (8) tcef;  (8) tcef;  (8) tcef;  (8) tcef;  (8)
-## EkdifiHom;?  EkdifiHom;rsm;\ EkdifiHom;?  EkdifiHom;rsm;\ EkdifiHom;?  EkdifiHom;rsm;\ EkdifiHom;?  EkdifiHom;rsm;\ EkdifiHom;?  EkdifiHom;rsm;\ rlvtcGifhta&;ESifh  wm0efrsm; rlvtcGifhta&;ESifh  wm0efrsm; rlvtcGifhta&;ESifh  wm0efrsm; rlvtcGifhta&;ESifh  wm0efrsm; rlvtcGifhta&;ESifh  wm0efrsm;
 
 [[END OF PAGE 317]]
 
 [[START OF PAGE 318]]
 
-(this page came through the extractor with no text)
+## tcef; (8)
+
+## EkdifiHom;? EdkifiHom;rsm;\ rlvtcGifhta&;ESifh wm0efrsm;
 
 [[END OF PAGE 318]]
 
@@ -7534,19 +7549,19 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 ## Citizen, Fundamental Rights and Duties of the Citizens
 
-- All persons who have either one of the following qualifications are citizens of the Republic of the Union of Myanmar:
+345. All persons who have either one of the following qualifications are citizens of the Republic of the Union of Myanmar:
 
 (a) person born of parents both of whom are nationals of the Republic of the Union of Myanmar;
 
 (b) person who is already a citizen according to law on the day this Constitution comes into operation.
 
-- Citizenship, naturalization and revocation of citizenship shall be as prescribed by law.
+346. Citizenship, naturalization and revocation of citizenship shall be as prescribed by law.
 
-- The Union shall guarantee any person to enjoy equal rights before the law and shall equally provide legal protection.
+347. The Union shall guarantee any person to enjoy equal rights before the law and shall equally provide legal protection.
 
-- The Union shall not discriminate any citizen of the Republic of the Union of Myanmar, based on race, birth, religion, official position, status, culture, sex and wealth.
+348. The Union shall not discriminate any citizen of the Republic of the Union of Myanmar, based on race, birth, religion, official position, status, culture, sex and wealth.
 
-- Citizens shall enjoy equal opportunity in carrying out the following functions :
+349. Citizens shall enjoy equal opportunity in carrying out the following functions :
 
 (a) public employment;
 
@@ -7564,8 +7579,8 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 [[START OF PAGE 320]]
 
-## tcef;(8) tcef;(8) tcef;(8) tcef;(8)
-## EdkfifiHom;?  EdkifiHom;rsm;\  rlvtcGifhta&;ESifh  wm0efrsm; EdkfifiHom;?  EdkifiHom;rsm;\  rlvtcGifhta&;ESifh  wm0efrsm; EdkfifiHom;?  EdkifiHom;rsm;\  rlvtcGifhta&;ESifh  wm0efrsm; EdkfifiHom;?  EdkifiHom;rsm;\  rlvtcGifhta&;ESifh  wm0efrsm;
+## tcef;(8)
+## EkdifiHom;? EdkifiHom;rsm;\ rlvtcGifhta&;ESifh wm0efrsm;
 
 345/ atmufazmfjyygt&nftcsif;wpf&yf&yfESifhjynfhpHkolrsm;onf jynfaxmifpkor®w jrefrmEdkifiHawmf\ EdkifiHom;rsm;jzpfMuonf -
 
@@ -7599,25 +7614,25 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 150
 
-- Women shall be entitled to the same rights and salaries as that received by men in respect of similar work.
+350. Women shall be entitled to the same rights and salaries as that received by men in respect of similar work.
 
-- Mothers, children and expectant women shall enjoy equal rights as prescribed by law.
+351. Mothers, children and expectant women shall enjoy equal rights as prescribed by law.
 
-- The Union shall, upon specified qualifications  being  fulfilled,  in  appointing  or  assigning duties to civil service personnel, not discriminate for or against any citizen of the Republic of the Union of Myanmar, based on race, birth, religion, and sex. However, nothing in this Section shall prevent appointment of men to the positions that are suitable for men only.
+352. The Union shall, upon specified qualifications being fulfilled, in appointing or assigning duties to civil service personnel, not discriminate for or against any citizen of the Republic of the Union of Myanmar, based on race, birth, religion, and sex. However, nothing in this Section shall prevent appointment of men to the positions that are suitable for men only.
 
-- Nothing shall, except in accord with existing laws, be detrimental to the life and personal freedom of any person.
+353. Nothing shall, except in accord with existing laws, be detrimental to the life and personal freedom of any person.
 
-- Every citizen shall be at liberty in the exercise of the following rights, if not contrary to the laws, enacted for Union security, prevalence of law and order, community peace and tranquility or public order and morality:
+354. Every citizen shall be at liberty in the exercise of the following rights, if not contrary to the laws, enacted for Union security, prevalence of law and order, community peace and tranquility or public order and morality:
 
 (a) to express and publish freely their convictions and opinions;
 
-(b) to assemble peacefully without arms and holding  procession;
+(b) to assemble peacefully without arms and holding procession;
 
 (c) to form associations and organizations;
 
-(d) to develop their language, literature, culture they cherish, religion they profess, and  customs without   prejudice   to the   relations  between one national race and another or among national races and  to other faiths.
+(d) to develop their language, literature, culture they cherish, religion they profess, and customs without prejudice to the relations between one national race and another or among national races and to other faiths.
 
-- Every citizen shall have the right to settle and reside in any place within the Republic of the Union of Myanmar  according to law.
+355. Every citizen shall have the right to settle and reside in any place within the Republic of the Union of Myanmar according to law.
 
 [[END OF PAGE 321]]
 
@@ -7635,23 +7650,23 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 151
 
-- The Union shall protect according to law movable and immovable properties of every citizen that are lawfully acquired.
+356. The Union shall protect according to law movable and immovable properties of every citizen that are lawfully acquired.
 
-- The Union shall protect the privacy and security of home, property, correspondence and other communications of citizens under the law subject to the provisions of this Constitution.
+357. The Union shall protect the privacy and security of home, property, correspondence and other communications of citizens under the law subject to the provisions of this Constitution.
 
-- The Union prohibits the enslaving and trafficking in persons.
+358. The Union prohibits the enslaving and trafficking in persons.
 
-- The Union prohibits forced labor except hard labor as a punishment for crime duly convicted and duties assigned by the Union in accord with the law in the interest of the public.
+359. The Union prohibits forced labor except hard labor as a punishment for crime duly convicted and duties assigned by the Union in accord with the law in the interest of the public.
 
-(a) The freedom of religious right given in Section 34 shall not include any economic, financial, political or other secular activities that may be associated with religious practice.
+360. (a) The freedom of religious right given in Section 34 shall not include any economic, financial, political or other secular activities that may be associated with religious practice.
 
 (b) The freedom of religious practice so guaranteed shall not debar the Union from enacting law for the purpose of public welfare and reform.
 
-- The Union recognizes special position of Buddhism as the faith professed by the great majority of the citizens of the Union.
+361. The Union recognizes special position of Buddhism as the faith professed by the great majority of the citizens of the Union.
 
-- The Union also recognizes Christianity , Islam, Hinduism and  Animism as the religions existing in the Union at the day of the coming into operation of this Constitution.
+362. The Union also recognizes Christianity, Islam, Hinduism and Animism as the religions existing in the Union at the day of the coming into operation of this Constitution.
 
-- The Union may assist and protect the religions it recognizes to its utmost.
+363. The Union may assist and protect the religions it recognizes to its utmost.
 
 [[END OF PAGE 323]]
 
@@ -7669,7 +7684,7 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 364. The abuse of religion for political purposes is forbidden. Moreover, any act which is intended or is likely to promote feelings of hatred, enmity or discord between racial or religious communities or sects is contrary to this Constitution.  A law may be promulgated to punish such activity.
 
-365. Every citizen shall, in accord with the law, have the right to freely develop literature, culture, arts, customs and traditions they cherish. In the process, they shall avoid any act detrimental to national solidarity. Moreover, any particular action which might adversely affect the interests of one or several other national races shall be taken only after coordinating with and obtaining the settlement of those affected.
+365. Every citizen shall, in accord with the law, have the right to freely develop literature, culture, arts, customs and traditions they cherish. In the process, they shall avoid any act detrimental to national solidarity. Moreover, any particular action which might adversely affect the interests of one or several other national races shall be taken only after co-ordinating with and obtaining the settlement of those affected.
 
 366. Every citizen, in accord with the educational policy laid down by the Union :
 
@@ -7711,6 +7726,21 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 153
 
+369. (a) Subject to this Constitution and relevant laws, every citizen has the right to elect and right to be elected to the Pyithu Hluttaw, the Amyotha Hluttaw, and the Region or State Hluttaw.
+(b) Relevant electorate has the right to recall a Hluttaw representative in accord with the law.
+
+370. Every citizen has, in accord with the law, the right to conduct business freely in the Union, for national economic development.
+
+371. The Union may assist the access to technology, investment, machinery, raw material, so forth, for national economic development.
+
+372. The Union guarantees the right to ownership, the use of property and the right to private invention and patent in the conducting of business if it is not contrary to the provisions of this Constitution and the existing laws.
+
+373. Any person who committed a crime, shall be convicted only in accord with the relevant law then in operation. Moreover, he shall not be penalized to a penalty greater than that is applicable under that law.
+
+374. Any person convicted or acquitted by a competent court for an offence shall not be retried unless a superior court annuls the judgment and orders the retrial.
+
+375. An accused shall have the right of defence in accord with the law.
+
 [[END OF PAGE 327]]
 
 [[START OF PAGE 328]]
@@ -7729,17 +7759,17 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 377. In order to obtain a right given by this Chapter, application shall be made in accord with the stipulations, to the Supreme Court of the Union.
 
-378. (a) In connection with the filing of application for rights granted under  this Chapter, the Supreme Court of the Union shall have the power  to issue the following writs as suitable :
+378. (a) In connection with the filing of application for rights granted under this Chapter, the Supreme Court of the Union shall have the power to issue the following writs as suitable :
 
-- Writ of   Habeas Corpus;
+(1) Writ of Habeas Corpus;
 
-- Writ of   Mandamus;
+(2) Writ of Mandamus;
 
-- Writ of   Prohibition;
+(3) Writ of Prohibition;
 
-- Writ of  Quo Warranto;
+(4) Writ of Quo Warranto;
 
-- Writ of   Certiorari.
+(5) Writ of Certiorari.
 
 (b) The right to issue writs by the Supreme Court of the Union shall not affect the power of other courts to issue order that has the nature of writs according to the existing laws.
 
@@ -7761,19 +7791,19 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 377/ þtcef;ü  ay;tyfxm;aom  tcGifhta&;wpf&yf&yfudk  &,lvdkygvQif owfrSwfcsufrsm;ESifhtnD jynfaxmifpkw&m;vTwfawmfcsKyfodkY avQmufxm;ydkifcGifh &Sd&rnf/
 
-- 378/ (u) þtcef;ü ay;tyfxm;aomtcGifhta&;rsm;ESifhpyfvsOf;í avQmufxm; vmonfhudpö&yfrsm;wGif jynfaxmifpkw&m;vTwfawmfcsKyfonf atmuf azmfjyyg pmcRefawmftrdefYwpf&yf&yfudk oifhavsmfonfhtwkdif; xkwfqifh ay;cGifhtmPm&Sd&rnf -
+378/ (u) þtcef;ü ay;tyfxm;aomtcGifhta&;rsm;ESifhpyfvsOf;í avQmufxm; vmonfhudpö&yfrsm;wGif jynfaxmifpkw&m;vTwfawmfcsKyfonf atmuf azmfjyyg pmcRefawmftrdefYwpf&yf&yfudk oifhavsmfonfhtwkdif; xkwfqifh ay;cGifhtmPm&Sd&rnf -
 
-- a&SUawmfoGif;pmcRefawmftrdefY?
+(1) a&SUawmfoGif;pmcRefawmftrdefY?
 
-- tmPmay;pmcRefawmftrdefY?
+(2) tmPmay;pmcRefawmftrdefY?
 
-- wm;jrpfappmcRefawmftrdefY?
+(3) wm;jrpfappmcRefawmftrdefY?
 
-- tmPmydkifar;pmcRefawmftrdefY?
+(4) tmPmydkifar;pmcRefawmftrdefY?
 
-- trIac:pmcRefawmftrdefY/
+(5) trIac:pmcRefawmftrdefY/
 
-( c ) jynfaxmifpkw&m;vTwfawmfcsKyfodkY tyfESif;onfhpmcRefawmftrdefYrsm; xkwfqifhcGifhtmPmonf  tjcm;w&m;½kH;rsm;tm;  wnfqJOya'rsm; t& tyfESif;xm;onfh pmcRefawmftrdefYoabmrsKd;oufa&mufonfh trdefYxkwfqifhydkifcGifhtmPmudk rxdcdkufap&/
+(c) jynfaxmifpkw&m;vTwfawmfcsKyfodkY tyfESif;onfhpmcRefawmftrdefYrsm; xkwfqifhcGifhtmPmonf tjcm;w&m;½kH;rsm;tm; wnfqJOya'rsm; t& tyfESif;xm;onfh pmcRefawmftrdefYoabmrsKd;oufa&mufonfh trdefYxkwfqifhydkifcGifhtmPmudk rxdcdkufap&/
 
 379/ atmufazmfjyyg tajctaewpf&yf&yfay:aygufcsdefwGif trsm;jynfolvHkjcHKa&; twGuf  vdktyfonfhudpörSwpfyg;  yk'fr  377  yg  tcGifhta&;rsm;awmif;cHydkifcGifhudk &yfqdkif;xm;jcif;rjyK&  -
 
@@ -7801,7 +7831,7 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 382. In order to carry out their duties fully and to maintain the discipline by the Defence Forces personnel or members of the armed forces responsible to carry out peace and security, the rights given in this Chapter shall be restricted or revoked through enactment to law.
 
-- Every citizen has the duty to uphold :
+383. Every citizen has the duty to uphold :
 
 (a) non-disintegration of the Union;
 
@@ -7809,7 +7839,7 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 (c) perpetuation of sovereignty.
 
-- Every citizen has duty to abide by the provisions of this Constitution.
+384. Every citizen has duty to abide by the provisions of this Constitution.
 
 385. Every citizen has the duty to safeguard independence, sovereignty and territorial integrity of the Republic of the Union of Myanmar.
 
@@ -7853,13 +7883,13 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 156
 
-- Every citizen, with the Union Spirit, has the duty to enhance unity among national races and to ensure public peace and stability.
+387. Every citizen, with the Union Spirit, has the duty to enhance unity among national races and to ensure public peace and stability.
 
-- Every citizen has the duty for the emergence of a modern developed Nation.
+388. Every citizen has the duty for the emergence of a modern developed Nation.
 
-- Every citizen has the duty to pay taxes to be levied according to the law.
+389. Every citizen has the duty to pay taxes to be levied according to the law.
 
-- Every citizen has the duty to assist the Union in carrying out the following matters :
+390. Every citizen has the duty to assist the Union in carrying out the following matters :
 
 (a) preservation and safeguarding of cultural heritage;
 
@@ -7873,9 +7903,23 @@ pyfvsOf;í yk'fr 302 yg jy|mef;csufrsm;ESifhtnD aqmif&Guf&rnf/
 
 [[START OF PAGE 334]]
 
-387/ 156
+156
 
-EdkifiHom;wkdif;onf  jynfaxmifpkpdwf"mwfudktajccHí  wdkif;&if;om;vlrsKd; tcsif;csif;  pnf;vHk;nDñGwfa&;ESifh  jynfolwpf&yfvHk;at;csrf;om,ma&;wdkYtwGuf BudK;yrf;tm;xkwfaqmif&Guf&ef wm0ef&Sdonf/ 388/ acwfrDzGHUNzdK;wdk;wufaom EdkifiHawmfBuD;ay:xGef;apa&;onf EdkifiHom;wdkif;\ wm0efjzpfonf/ 389/ EdkifiHom;wdkif;onf  Oya't&  ay;aqmif&rnfhtcGeftaumufrsm;udk ay;aqmif&ef wm0ef&Sdonf/ 390/ EkdifiHom;wkdif;onf  atmufazmfjyygudpö&yfrsm;wGif  EkdifiHawmftm;  ulnD&ef wm0ef&Sdonf (u) trsKd;om;,Ofaus;rItarGtESpfudk xdef;odrf;apmihfa&Smufjcif;? ( c ) obm0ywf0ef;usifudk xdef;odrf;apmifha&Smufjcif;? ( * ) vlYpGrf;tm;t&if;tjrpfzHGUNzdK;wdk;wufa&; jrifhrm;vmap&ef BudK;yrf;jcif;? (C) trsm;jynfolydkifypönf;rsm;ukd xdef;odrf;apmihfa&Smufjcif;/
+387/ EdkifiHom;wdkif;onf jynfaxmifpkpdwf"mwfudktajccHí wdkif;&if;om;vlrsKd; tcsif;csif; pnf;vHk;nDñGwfa&;ESifh jynfolwpf&yfvHk;at;csrf;om,ma&;wdkYtwGuf BudK;yrf;tm;xkwfaqmif&Guf&ef wm0ef&Sdonf/
+
+388/ acwfrDzGHUNzdK;wdk;wufaom EdkifiHawmfBuD;ay:xGef;apa&;onf EdkifiHom;wdkif;\ wm0efjzpfonf/
+
+389/ EdkifiHom;wdkif;onf Oya't& ay;aqmif&rnfhtcGeftaumufrsm;udk ay;aqmif&ef wm0ef&Sdonf/
+
+390/ EkdifiHom;wkdif;onf atmufazmfjyygudpö&yfrsm;wGif EkdifiHawmftm; ulnD&ef wm0ef&Sdonf -
+
+(u) trsKd;om;,Ofaus;rItarGtESpfudk xdef;odrf;apmihfa&Smufjcif;?
+
+(c) obm0ywf0ef;usifudk xdef;odrf;apmifha&Smufjcif;?
+
+(*) vlYpGrf;tm;t&if;tjrpfzHGUNzdK;wdk;wufa&; jrifhrm;vmap&ef BudK;yrf;jcif;?
+
+(C) trsm;jynfolydkifypönf;rsm;ukd xdef;odrf;apmihfa&Smufjcif;/
 
 [[END OF PAGE 334]]
 
@@ -7915,9 +7959,9 @@ EdkifiHom;wkdif;onf  jynfaxmifpkpdwf"mwfudktajccHí  wdkif;&if;om;vlrsKd; tcsif;
 ## Chapter IX
 ## ELECTION
 
-##### Election of People's Representatives to the Hluttaws
+##### Election of People’s Representatives to the Hluttaws
 
-- In electing people's representatives to the Hluttaws :
+391. In electing people’s representatives to the Hluttaws :
 
 (a) every citizen who has attained 18 years of age on the day on which the election commences, who is not disqualified by law, who is eligible to vote, and person who has the right to vote under the law, shall have the right to vote;
 
@@ -7927,7 +7971,7 @@ EdkifiHom;wkdif;onf  jynfaxmifpkpdwf"mwfudktajccHí  wdkif;&if;om;vlrsKd; tcsif;
 
 (d) secret balloting system shall be practised.
 
-- The following persons shall have no right to vote :
+392. The following persons shall have no right to vote :
 
 (a) members of religious orders;
 
@@ -7939,7 +7983,7 @@ EdkifiHom;wkdif;onf  jynfaxmifpkpdwf"mwfudktajccHí  wdkif;&if;om;vlrsKd; tcsif;
 
 (e) persons disqualified by election law.
 
-- A Hluttaw candidate has, in an election :
+393. A Hluttaw candidate has, in an election :
 
 (a) the right to be elected to one Hluttaw only;
 
@@ -7989,25 +8033,25 @@ vTwfawmfrsm;odkY  jynfolYudk,fpm;vS,frsm;udk  a&G;aumufwifajr§muf&mwGif  -
 
 158
 
-(a) The electorate residing in the Union Territory or Union Territories designated by enactment of Pyidaungsu Hluttaw law have the right to elect the Pyithu Hluttaw and  Amyotha Hluttaw representatives only.
+394. (a) The electorate residing in the Union Territory or Union Territories designated by enactment of Pyidaungsu Hluttaw law have the right to elect the Pyithu Hluttaw and Amyotha Hluttaw representatives only.
 
 (b) A Region or State Hluttaw representative elected from a territory designated as a Union Territory through enactment of a Pyidaungsu Hluttaw law, save as otherwise provided by the law, shall not continue to stand as a representative of the said Hluttaw.
 
-- Every citizen who is not disqualified by the provisions under this Constitution or the provisions of the election law shall have the right to stand for election to any Hluttaw.
+395. Every citizen who is not disqualified by the provisions under this Constitution or the provisions of the election law shall have the right to stand for election to any Hluttaw.
 
 ##### Recalling a representative of the Hluttaw
 
-(a) A representative of the Hluttaw may be recalled on any of the following reasons :
+396. (a) A representative of the Hluttaw may be recalled on any of the following reasons :
 
-- high treason;
+(1) high treason;
 
-- breach of any provision of this Constitution;
+(2) breach of any provision of this Constitution;
 
-- misbehavior;
+(3) misbehavior;
 
-- disqualification prescribed in this Constitution for the Hluttaw representative;
+(4) disqualification prescribed in this Constitution for the Hluttaw representative;
 
-- inefficient discharge of duties assigned to.
+(5) inefficient discharge of duties assigned to.
 
 (b) A minimum of one percent out of the original voters of the electorate of the constituency concerned shall submit the complaint to the Union Election Commission against the Hluttaw representative on whom it wishes to recall.
 
@@ -8043,15 +8087,15 @@ vTwfawmfrsm;odkY  jynfolYudk,fpm;vS,frsm;udk  a&G;aumufwifajr§muf&mwGif  -
 
 ##### Formation of the Union Election Commission
 
-(a) The President shall constitute a Union Election Commission. In constituting the Commission, he may appoint a minimum of five members including the chairman of the Union Election Commission in accord with the provisions on appointment of the Union Minister prescribed in this Constitution.
+398. (a) The President shall constitute a Union Election Commission. In constituting the Commission, he may appoint a minimum of five members including the chairman of the Union Election Commission in accord with the provisions on appointment of the Union Minister prescribed in this Constitution.
 
 (b) The chairman and members of the Union Election Commission shall be persons who :
 
-- have attained 50 years of age;
+(1) have attained 50 years of age;
 
-- with the exception of the age limit, shall have the qualifications prescribed for the Pyithu Hluttaw representatives;
+(2) with the exception of the age limit, shall have the qualifications prescribed for the Pyithu Hluttaw representatives;
 
-(aa) have served in the position of the Chief Justice of the Union or Judge of the Supreme Court of the Union or Judge of the High Court of the Region or State or a similar position for a minimum of five years; or
+(3) (aa) have served in the position of the Chief Justice of the Union or Judge of the Supreme Court of the Union or Judge of the High Court of the Region or State or a similar position for a minimum of five years; or
 
 [[END OF PAGE 341]]
 
@@ -8059,21 +8103,25 @@ vTwfawmfrsm;odkY  jynfolYudk,fpm;vS,frsm;udk  a&G;aumufwifajr§muf&mwGif  -
 
 159
 
-( * ) jynfaxmifpka&G;aumufyGJaumfr&Sifu Oya'ESihftnDpkHprf;ppfaq;&rnf? (C) pGyfpGJcsufudkpkHprf;ppfaq;onhftcg oufqdkif&mvTwfawmfudk,fpm;vS,f udk,fwdkifaomfvnf;aumif;?  udk,fpm;vS,fjzihf  aomfvnf;aumif;
+(*) jynfaxmifpka&G;aumufyGJaumfr&Sifu Oya'ESihftnDpkHprf;ppfaq;&rnf?
 
-acsycGihfay;&rnf? jynfaxmifpka&G;aumufyGJaumfr&Sifu xdkpGyfpGJcsufonfrSefuefNyD; pGyfpGJcH roihfaMumif; oabm&&SdvQif jynfaxmifpka&G;aumufyGJaumfr&Sifonf
+(C) pGyfpGJcsufudkpkHprf;ppfaq;onhftcg oufqdkif&mvTwfawmfudk,fpm;vS,f udk,fwdkifaomfvnf;aumif;? udk,fpm;vS,fjzihf aomfvnf;aumif; acsycGihfay;&rnf?
 
-( i ) &olonf  vTwfawmfudk,fpm;vS,ftjzpf  qufvufxrf;&Gufap&ef Oya'ESihftnD aqmif&Guf&rnf/
+(i) jynfaxmifpka&G;aumufyGJaumfr&Sifu xdkpGyfpGJcsufonfrSefuefNyD; pGyfpGJcH&olonf vTwfawmfudk,fpm;vS,ftjzpf qufvufxrf;&Gufap&ef roihfaMumif; oabm&&SdvQif jynfaxmifpka&G;aumufyGJaumfr&Sifonf Oya'ESihftnD aqmif&Guf&rnf/
 
 397/ jynfaxmifpkvTwfawmfonf  a&G;aumufwifajr§mufjcif;qdkif&m  udpörsm;ESihf pyfvsOf;ívnf;aumif;?  wm0efrSjyefvnf½kyfodrf;jcif;qdkif&m  udpörsm;ESihfpyfvsOf;í vnf;aumif; vkdtyfaomOya'rsm;udk jy|mef;&rnf/
 
 ##### jynfaxmifpka&G;aumufyGJaumfr&Sif  zJGUpnf;jcif; jynfaxmifpka&G;aumufyGJaumfr&Sif  zJGUpnf;jcif;
 
-398/ (u) EdkifiHawmfor®wonf  jynfaxmifpka&G;aumufyGJaumfr&Sif  wpf&yfudk zGJUpnf;&rnf/  ,if;odkYzGJUpnf;&mwGif  þzGJUpnf;ykHtajccHOya'yg jynfaxmifpk0efBuD;cefYxm;jcif;ESihfpyfvsOf;onhf jy|mef;csufrsm;ESihftnD jynfaxmifpka&G;aumufyGJaumfr&SifOuú|tygt0if tzGJU0if tenf;qkH; ig;OD;udk  cefYtyfwm0efay;Edkifonf?
+398/ (u) EdkifiHawmfor®wonf jynfaxmifpka&G;aumufyGJaumfr&Sif wpf&yfudk zGJUpnf;&rnf/ ,if;odkYzGJUpnf;&mwGif þzGJUpnf;ykHtajccHOya'yg jynfaxmifpk0efBuD;cefYxm;jcif;ESihfpyfvsOf;onhf jy|mef;csufrsm;ESihftnD jynfaxmifpka&G;aumufyGJaumfr&SifOuú|tygt0if tzGJU0if tenf;qkH; ig;OD;udk cefYtyfwm0efay;Edkifonf?
 
-( c ) j ynfaxmifpka&G;aumufyGJaumfr&SifOuú|ESihf  tzGJU0ifrsm;onf  (1) touf 50 ESpf jynfhNyD;oljzpf&rnf? (2) toufuefYowfcsufrSty  jynfolYvTwfawmfudk,fpm;vS,frsm; twGuf owfrSwfxm;onhft&nftcsif;rsm;ESihf jynfhpkHoljzpf&rnf?
+(c) jynfaxmifpka&G;aumufyGJaumfr&SifOuú|ESihf tzGJU0ifrsm;onf -
 
-(uu) jynfaxmifpkw&m;olBuD;csKyf  odkYr[kwf  jynfaxmifpk w&m;vTwfawmfcsKyf w&m;olBuD;tjzpfjzpfap? wdkif;a'o BuD;  odkYr[kwf  jynfe,fw&m;vTwfawmfw&m;olBuD; tjzpf jzpfap? tvm;wl&mxl;wm0ef wpfckckwGifjzpfap tenf;qkH;  ig;ESpf  aqmif&GufcJholjzpf&rnf  odkYr[kwf
+(1) touf 50 ESpf jynfhNyD;oljzpf&rnf?
+
+(2) toufuefYowfcsufrSty jynfolYvTwfawmfudk,fpm;vS,frsm; twGuf owfrSwfxm;onhft&nftcsif;rsm;ESihf jynfhpkHoljzpf&rnf?
+
+(3) (uu) jynfaxmifpkw&m;olBuD;csKyf odkYr[kwf jynfaxmifpk w&m;vTwfawmfcsKyf w&m;olBuD;tjzpfjzpfap? wdkif;a'o BuD; odkYr[kwf jynfe,fw&m;vTwfawmfw&m;olBuD; tjzpf jzpfap? tvm;wl&mxl;wm0ef wpfckckwGifjzpfap tenf;qkH; ig;ESpf aqmif&GufcJholjzpf&rnf odkYr[kwf
 
 [[END OF PAGE 342]]
 
@@ -8083,29 +8131,29 @@ acsycGihfay;&rnf? jynfaxmifpka&G;aumufyGJaumfr&Sifu xdkpGyfpGJcsufonfrSefuefNyD;
 
 (bb) have served in the position of the judicial officer or the law officer not lower than the rank of the Region or State level for a period of 10 years; or
 
-(cc) have served as a practising lawyer for a minimum of 20 years as an  Advocate; or
+(cc) have served in the position of a practising lawyer for a minimum of 20 years as an Advocate; or
 
 (dd) shall be deemed by the President to be an eminent person.
 
-- shall have integrity and experience;
+(4) shall have integrity and experience;
 
-- shall be not relevant with the provisions for disqualification of election as the Pyithu Hluttaw representative;
+(5) shall be not relevant with the provisions for disqualification of election as the Pyithu Hluttaw representative;
 
-- shall be loyal to the State and its citizens;
+(6) shall be loyal to the State and its citizens;
 
-- shall not be a member of a political party;
+(7) shall not be a member of a political party;
 
-- shall not be a Hluttaw representative;
+(8) shall not be a Hluttaw representative;
 
-- shall not be a person who accepts the position that entitles salary, allowance or money.
+(9) shall not be a person who accepts the position that entitles salary, allowance or money.
 
 ##### Duties of the Union Election Commission
 
-- The duties of the Union Election Commission are as follows :
+399. The duties of the Union Election Commission are as follows :
 
 (a) holding Hluttaw elections;
 
-(b) supervising Hluttaw elections; forming different levels of  sub-commissions and supervising thereof;
+(b) supervising Hluttaw elections; forming different levels of sub-commissions and supervising thereof;
 
 (c) designating and amending the constituencies;
 
@@ -8119,39 +8167,37 @@ acsycGihfay;&rnf? jynfaxmifpka&G;aumufyGJaumfr&Sifu xdkpGyfpGJcsufonfrSefuefNyD;
 
 160
 
-( c c ) wdkif;a'oBuD; odkYr[kwf jynfe,ftqifhxufredrfhaom w&m;a&;t&m&Sd  odkYr[kwf  Oya't&m&Sd&mxl;wGif tenf;qkH;  10  ESpf  wm0efxrf;aqmifcJholjzpf&rnf odkYr[kwf
+(cc) wdkif;a'oBuD; odkYr[kwf jynfe,ftqifhxufredrfhaom w&m;a&;t&m&Sd odkYr[kwf Oya't&m&Sd&mxl;wGif tenf;qkH; 10 ESpf wm0efxrf;aqmifcJholjzpf&rnf odkYr[kwf
 
-( * * ) w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 20 ESpf trI vkdufygaqmif&GufcJholjzpf&rnf odkYr[kwf
+(**) w&m;vTwfawmfa&SUaetjzpf tenf;qkH; 20 ESpf trI vkdufygaqmif&GufcJholjzpf&rnf odkYr[kwf
 
 (CC) xifay:ausmfMum;onhf *kPfowif;&Sdaom yk*d¾Kvftjzpf EdkifiHawmfor®wu ,lqoljzpf&rnf/
 
-- odu©morm"dESihfjynfhpkHNyD; tawGUtBuKH&ihfusufol jzpf&rnf?
+(4) odu©morm"dESihfjynfhpkHNyD; tawGUtBuKH&ihfusufol jzpf&rnf?
 
-- jynfolYvTwfawmf udk,fpm;vS,ftjzpf a&G;aumufwifajr§muf cHykdifcGihfr&Sdapaom  jy|mef;csufrsm;ESihf  NidpGef;jcif;r&Sdol  jzpf&rnf?
+(5) jynfolYvTwfawmf udk,fpm;vS,ftjzpf a&G;aumufwifajr§muf cHykdifcGihfr&Sdapaom jy|mef;csufrsm;ESihf NidpGef;jcif;r&Sdol jzpf&rnf?
 
-- EdkifiHawmfESihf  EdkifiHom;rsm;tay:opöm&Sdoljzpf&rnf?
+(6) EdkifiHawmfESihf EdkifiHom;rsm;tay:opöm&Sdoljzpf&rnf?
 
-- EdkifiHa&;ygwD0ifr[kwfoljzpf&rnf?
+(7) EdkifiHa&;ygwD0ifr[kwfoljzpf&rnf?
 
-(8)
+(8) vTwfawmfudk,fpm;vS,fr[kwfoljzpf&rnf?
 
-vTwfawmfudk,fpm;vS,fr[kwfoljzpf&rnf?
+(9) vpm? p&dwf? aMu;aiG&aomtjcm;rnfonfh&mxl;udkrQ vufcHjcif;rjyKol jzpf&rnf/
 
-- vpm?  p&dwf?  aMu;aiG&aomtjcm;rnfonfh&mxl;udkrQ vufcHjcif;rjyKol jzpf&rnf/
+##### jynfaxmifpka&G;aumufyGJaumfr&Sif\ wm0efrsm; jynfaxmifpka&G;aumufyGJaumfr&Sif\ wm0efrsm;
 
-##### jynfaxmifpka&G;aumufyGJaumfr&Sif\  wm0efrsm; jynfaxmifpka&G;aumufyGJaumfr&Sif\  wm0efrsm;
-
-- 399/ jynfaxmifpka&G;aumufyGJaumfr&Sif\  wm0efrsm;rSmatmufygtwdkif;jzpfonf  -
+399/ jynfaxmifpka&G;aumufyGJaumfr&Sif\ wm0efrsm;rSmatmufygtwdkif;jzpfonf -
 
 (u) vTwfawmfa&G;aumufyGJrsm; usif;yjcif;?
 
-( c ) vTwfawmfa&G;aumufyGJrsm;udk BuD;Muyfjcif;? aumfr&SiftzGJUcGJtqifhqifhudk zGJUpnf;jcif;ESifh  BuD;Muyfapjcif;?
+(c) vTwfawmfa&G;aumufyGJrsm;udk BuD;Muyfjcif;? aumfr&SiftzGJUcGJtqifhqifhudk zGJUpnf;jcif;ESifh BuD;Muyfapjcif;?
 
-( * ) rJqE´e,frsm;owfrSwfjcif;ESifh jyifqifowfrSwfjcif;?
+(*) rJqE´e,frsm;owfrSwfjcif;ESifh jyifqifowfrSwfjcif;?
 
-(C) rJpm&if;rsm;jyKpkjcif;ESifh  jyifqifjcif;?
+(C) rJpm&if;rsm;jyKpkjcif;ESifh jyifqifjcif;?
 
-( i ) obm0ab;tEÅ&m,faMumifh  aomfvnf;aumif;?  e,fajrvHkjcHKa&; tajctaet&  aomfvnf;aumif;  vGwfvyfNyD;w&m;rQwaom a&G;aumufyGJ usif;yEdkifjcif;r&Sdonfh  rJqE´e,frsm;\ a&G;aumufyGJrsm;udk a&TUqdkif;jcif;?
+(i) obm0ab;tEÅ&m,faMumifh aomfvnf;aumif;? e,fajrvHkjcHKa&; tajctaet& aomfvnf;aumif; vGwfvyfNyD;w&m;rQwaom a&G;aumufyGJ usif;yEdkifjcif;r&Sdonfh rJqE´e,frsm;\ a&G;aumufyGJrsm;udk a&TUqdkif;jcif;?
 
 [[END OF PAGE 344]]
 
@@ -8165,25 +8211,25 @@ vTwfawmfudk,fpm;vS,fr[kwfoljzpf&rnf?
 
 (h) performing duties assigned under a law.
 
-##### Impeachment  of the Chairman or the members of the Union Election Commission
+##### Impeachment of the Chairman or the members of the Union Election Commission
 
-(a) The President may impeach the Chairman or the members of the Union Election Commission for one of the following reasons :
+400. (a) The President may impeach the Chairman or the members of the Union Election Commission for one of the following reasons :
 
-- high treason;
+(1) high treason;
 
-- breach of any provision of this Constitution;
+(2) breach of any provision of this Constitution;
 
-- misconduct;
+(3) misconduct;
 
-- disqualification on conditions prescribed for the representative concerned prescribe in this Constitution;
+(4) disqualification on conditions prescribed for the representative concerned prescribe in this Constitution;
 
-- inefficient discharge of duties assigned to.
+(5) inefficient discharge of duties assigned to.
 
 (b) Impeachment shall be conducted in accord with the procedure laid down in this Constitution relating to the impeachment of the Chief Justice of the Union or a Judge of the Supreme Court of the Union.
 
-(a) If the Chairman or a member of the Union Election Commission during this term of  service wishes to resign on his own accord due to any reason, he may submit his resignation in writing to the President.
+401. (a) If the Chairman or a member of the Union Election Commission during this term of service wishes to resign on his own accord due to any reason, he may submit his resignation in writing to the President.
 
-(b) If  the  seat  of  the  Chairman  or  the  member  of  the  Union  Election  Commission is  vacant due to resignation, termination of duties, death or any other reason,
+(b) If the seat of the Chairman or the member of the Union Election Commission is vacant due to resignation, termination of duties, death or any other reason,
 
 [[END OF PAGE 345]]
 
@@ -8191,33 +8237,29 @@ vTwfawmfudk,fpm;vS,fr[kwfoljzpf&rnf?
 
 161
 
-( p ) a&G;aumufyGJqdkif&m odkYr[kwf EdkifiHa&;ygwDrsm;qdkif&m enf;Oya'rsm;udk þzGJUpnf;ykHtajccHOya'yg  jy|mef;csufrsm;ESifhtnD  vnf;aumif;? vkyfxHk;vkyfenf;rsm;? ñTefMum;csufponfrsm;udk oufqdkif&mOya'rsm;
+(p) a&G;aumufyGJqdkif&m odkYr[kwf EdkifiHa&;ygwDrsm;qdkif&m enf;Oya'rsm;udk þzGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;ESifhtnD vnf;aumif;? vkyfxHk;vkyfenf;rsm;? ñTefMum;csufponfrsm;udk oufqdkif&mOya'rsm; ESifhtnDvnf;aumif; xkwfjyefjcif;?
 
-(q)
+(q) a&G;aumufyGJqdkif&m tjiif;yGm;rIrsm;udk ppfaq;Edkifa&;twGuf Oya'ESifh tnD a&G;aumufyGJcHktzGJUrsm; zGJUpnf;jcif;?
 
-ESifhtnDvnf;aumif; xkwfjyefjcif;? a&G;aumufyGJqdkif&m tjiif;yGm;rIrsm;udk ppfaq;Edkifa&;twGuf Oya'ESifh tnD a&G;aumufyGJcHktzGJUrsm; zGJUpnf;jcif;?
-
-( Z ) Oya'wpf&yf&yft& ay;tyfonfhwm0efrsm;udk xrf;aqmifjcif;/
+(Z) Oya'wpf&yf&yft& ay;tyfonfhwm0efrsm;udk xrf;aqmifjcif;/
 
 ##### jynfaxmifpka&G;aumufyGJaumfr&SifOuú| odkYr[kwf tzGJU0ifrsm;tm; pGyfpJGjypfwifjcif; jynfaxmifpka&G;aumufyGJaumfr&SifOuú| odkYr[kwf tzGJU0ifrsm;tm; pGyfpJGjypfwifjcif;
 
-400/ (u) EdkifiHawmfor®wonf jynfaxmifpka&G;aumufyGJaumfr&SifOuú| odkYr[kwf tzGJU0ifwpfOD;OD;tm;  atmufygtaMumif;wpf&yf&yfjzihf  pGyfpGJ jypfwifEdkifonf -
+400/ (u) EdkifiHawmfor®wonf jynfaxmifpka&G;aumufyGJaumfr&SifOuú| odkYr[kwf tzGJU0ifwpfOD;OD;tm; atmufygtaMumif;wpf&yf&yfjzihf pGyfpGJ jypfwifEdkifonf –
 
-- EdkifiHawmf\ aus;Zl;opömawmfudk azmufzsufjcif;?
+(1) EdkifiHawmf\ aus;Zl;opömawmfudk azmufzsufjcif;?
 
-- þzGJUpnf;ykHtajccHOya'yg jy|mef;csufwpf&yf&yfudk azmufzsuf usL;vGefjcif;?
+(2) þzGJUpnf;ykHtajccHOya'yg jy|mef;csufwpf&yf&yfudk azmufzsuf usL;vGefjcif;?
 
-- tusifhodu©mysufjym;jcif;?
+(3) tusifhodu©mysufjym;jcif;?
 
-- þzGJUpnf;ykHtajccHOya'wGif oufqdkif&myk*¾dKvftwGuf owfrSwf xm;onfh t&nftcsif;ysuf,Gif;jcif;?
+(4) þzGJUpnf;ykHtajccHOya'wGif oufqdkif&myk*¾dKvftwGuf owfrSwf xm;onfh t&nftcsif;ysuf,Gif;jcif;?
 
-(5)
-
-Oya't& ay;tyfaomwm0efrsm;udk ausyGefpGmraqmif&Gufjcif;/
+(5) Oya't& ay;tyfaomwm0efrsm;udk ausyGefpGmraqmif&Gufjcif;/
 
 ( c ) jynfaxmifpkw&m;olBuD;csKyf odkYr[kwf jynfaxmifpkw&m;vTwfawmfcsKyf w&m;olBuD;wpfOD;OD;udk pGyfpGJjypfwifjcif;ESihf pyfvsOf;onhf þzGJUpnf;ykH tajccHOya'yg jy|mef;xm;onhfenf;vrf;rsm;ESihftnD aqmif&Guf&rnf/
 
-- 401/ (u) jynfaxmifpka&G;aumufyGJaumfr&Sif  Ouú|  odkYr[kwf  tzGJU0ifonf &mxl;wm0efxrf;aqmifaepOf taMumif;wpfckckaMumifh rdrdoabmqE´ tavsmuf &mxl;rSEkwfxGufvdkvQif xdkodkYEkwfxGufvdkaMumif; EdkifiHawmf or®wxH pmjzifhwifjyNyD; &mxl;rSEkwfxGufEdkifonf?
+401/ (u) jynfaxmifpka&G;aumufyGJaumfr&Sif Ouú| odkYr[kwf tzGJU0ifonf &mxl;wm0efxrf;aqmifaepOf taMumif;wpfckckaMumifh rdrdoabmqE´ tavsmuf &mxl;rSEkwfxGufvdkvQif xdkodkYEkwfxGufvdkaMumif; EdkifiHawmf or®wxH pmjzifhwifjyNyD; &mxl;rSEkwfxGufEdkifonf?
 
 ( c ) &mxl;rSEkwfxGufjcif;aMumifhjzpfap?  wm0efrS&yfpJcH&jcif;aMumifhjzpfap? uG,fvGefjcif;aMumifhjzpfap?  tjcm;taMumif;wpfckckaMumifhjzpfap
 
@@ -8227,13 +8269,13 @@ Oya't& ay;tyfaomwm0efrsm;udk ausyGefpGmraqmif&Gufjcif;/
 
 162
 
-- the President may appoint a new Chairman, or a member of the Union Election Commission in accord with the provisions of appointment of a Union Minister prescribed in this Constitution.
+the President may appoint a new Chairman, or a member of the Union Election Commission in accord with the provisions of appointment of a Union Minister prescribed in this Constitution.
 
 (c) If the Chairman or member of the Union Election Commission is a Civil Services Personnel it shall be deemed that he has been retired from service in accord with the existing service regulations from the day of appointment of the Chairman or member of the Union Election Commission.
 
 ##### Resolutions and Functions of the Union Election Commission
 
-- The resolutions and functions made  by the Union Election Commission on the following matters shall be final and conclusive :
+402. The resolutions and functions made by the Union Election Commission on the following matters shall be final and conclusive :
 
 (a) election functions;
 
@@ -8241,7 +8283,7 @@ Oya't& ay;tyfaomwm0efrsm;udk ausyGefpGmraqmif&Gufjcif;/
 
 (c) matters taken under the law relating to political party.
 
-- Duties, powers and privileges of the Chairman and members of the Union Election Commission shall be prescribed by law.
+403. Duties, powers and privileges of the Chairman and members of the Union Election Commission shall be prescribed by law.
 
 [[END OF PAGE 347]]
 
@@ -8306,13 +8348,13 @@ cefYtyfwm0efay;Edkifonf?
 
 ##### Formation of the Political Parties
 
-- A political party shall :
+404. A political party shall :
 
 (a) set the objective of non-disintegration of the Union, non-disintegration of national solidarity and perpetuation of sovereignty;
 
 (b) be loyal to the State.
 
-- A political party shall :
+405. A political party shall :
 
 (a) accept and practise a genuine and discipline-flourishing multi-party democratic system;
 
@@ -8320,15 +8362,15 @@ cefYtyfwm0efay;Edkifonf?
 
 (c) form and register as a political party in accord with the law.
 
-- A political party shall, in accord with the law, have the right in the Union to :
+406. A political party shall, in accord with the law, have the right in the Union to :
 
 (a) organize freely;
 
 (b) participate and compete in the elections.
 
-##### The right of Non -Existence of Political Parties
+##### The right of Non-Existence of Political Parties
 
-- If a political party infringe one of the following stipulations, it shall have no right of continued existence :
+407. If a political party infringe one of the following stipulations, it shall have no right of continued existence :
 
 (a) having been declared an unlawful association under the existing law;
 
@@ -8338,57 +8380,67 @@ cefYtyfwm0efay;Edkifonf?
 
 [[START OF PAGE 352]]
 
-## tcef;(10) tcef;(10) tcef;(10) tcef;(10) EdkifiHa&;ygwDrsm; EdkifiHa&;ygwDrsm; EdkifiHa&;ygwDrsm; EdkifiHa&;ygwDrsm;
+## tcef;(10) tcef;(10) tcef;(10)
 
-##### EkdifiHa&;ygw EkdifiHa&;ygwDrsm;zJGUpnf;jcif; Drsm;zJGUpnf;jcif;
+## EdkifiHa&;ygwDrsm; EdkifiHa&;ygwDrsm; EdkifiHa&;ygwDrsm;
 
-404/ EdkifiHa&;ygwDwpf&yfonf -
+##### EkdifiHa&;ygwDrsm;zJGUpnf;jcif; Drsm;zJGUpnf;jcif; Drsm;zJGUpnf;jcif;
 
-(u) jynfaxmifpkrNydKuGJa&;?  wdkif;&if;om;pnf;vHk;nDñGwfrIrNydKuGJa&;ESifh tcsKyftjcmtmPmwnfwHhcdkifNrJa&;wdkYudk OD;wnfcsufxm;&Sd&rnf?
+404/ EdkifiHa&;ygwDwpf&yfonf –
 
-( c ) EdkifiHawmf\aus;Zl;opömudk apmihfod½dkao&rnf/
+(u) jynfaxmifpkrNydKuGJa&;? wdkif;&if;om;pnf;vHk;nDñGwfrIrNydKuGJa&;ESifh tcsKyftjcmtmPmwnfwHhcdkifNrJa&;wdkYudk OD;wnfcsufxm;&Sd&rnf?
 
-405/ EdkifiHa&;ygwDwpf&yfonf -
+(c) EdkifiHawmf\aus;Zl;opömudk apmihfod½dkao&rnf/
 
-(u) ppfrSefípnf;urf;jynfh0aom ygwDpHk'Drdkua&pDpepfudk  vufcHusifhoHk;&rnf?
+405/ EdkifiHa&;ygwDwpf&yfonf –
 
-( c ) þzGJUpnf;yHktajccHOya'ESifh wnfqJOya'rsm;udk av;pm;vdkufem&rnf?
+(u) ppfrSefípnf;urf;jynfh0aom ygwDpHk'Drdkua&pDpepfudk vufcHusifhoHk;&rnf?
 
-( * ) EdkifiHa&;ygwDtjzpf Oya'ESifhtnD zGJUpnf;rSwfyHkwifxm;&rnf/
+(c) þzGJUpnf;yHktajccHOya'ESifh wnfqJOya'rsm;udk av;pm;vdkufem&rnf?
+
+(*) EdkifiHa&;ygwDtjzpf Oya'ESifhtnD zGJUpnf;rSwfyHkwifxm;&rnf/
 
 406/ EdkifiHa&;ygwDwpf&yfonf EdkifiHawmftwGif; Oya'ESifhtnD -
 
 (u) vGwfvyfpGmpnf;½Hk;cGihf&Sdonf?
 
-( c ) a&G;aumufyGJrsm;wGif yg0if,SOfNydKifcGifh&Sdonf/
+(c) a&G;aumufyGJrsm;wGif yg0if,SOfNydKifcGifh&Sdonf/
 
-##### EdkifiHa&;ygwDrsm;  qufvuf&yfwnfykdifcGifhr&Sdjcif; EdkifiHa&;ygwDrsm;  qufvuf&yfwnfykdifcGifhr&Sdjcif;
+##### EdkifiHa&;ygwDrsm; qufvuf&yfwnfykdifcGifhr&Sdjcif; EdkifiHa&;ygwDrsm; qufvuf&yfwnfykdifcGifhr&Sdjcif; EdkifiHa&;ygwDrsm; qufvuf&yfwnfykdifcGifhr&Sdjcif;
 
-407/ EdkifiHa&;ygwDwpf&yf&yfonf atmufygtaMumif;wpfckckESifh NidpGef;vQif qufvuf &yfwnfydkifcGifhr&Sdap&  -
+407/ EdkifiHa&;ygwDwpf&yf&yfonf atmufygtaMumif;wpfckckESifh NidpGef;vQif qufvuf &yfwnfydkifcGifhr&Sdap& -
 
 (u) wnfqJOya't& rw&m;toif;tjzpf aMunmcH&jcif;?
 
-( c ) EdkifiHawmftm;  vufeufpGJudkifí  awmfvSefykefuefaeaom aomif;usef;ol tzGJUtpnf;  odkYr[kwf  tMurf;zufvkyf&yfrsm;ukd  usL;vGefonf[k EkdifiHawmfu  owfrSwfaomtzJGUtpnf;ESifh  yk*¾dKvfrsm;  okdYr[kwf rw&m;toif;tjzpf aMunmcHxm;&aom tzJGUtpnf;ESifh  wdkuf½dkuf jzpfap? oG,f0dkufíjzpfap qufoG,fjcif; okdYr[kwf tm;ay;ulnDjcif;?
+(c) EdkifiHawmftm; vufeufpGJudkifí awmfvSefykefuefaeaom aomif;usef;ol tzGJUtpnf; odkYr[kwf tMurf;zufvkyf&yfrsm;ukd usL;vGefonf[k EkdifiHawmfu owfrSwfaomtzJGUtpnf;ESifh yk*¾dKvfrsm; odkYr[kwf rw&m;toif;tjzpf aMunmcHxm;&aom tzJGUtpnf;ESifh wdkuf½dkuf jzpfap? oG,f0dkufíjzpfap qufoG,fjcif; odkYr[kwf tm;ay;ulnDjcif;?
 
 [[END OF PAGE 352]]
 
 [[START OF PAGE 353]]
 
-164
-
 (c) directly or indirectly receiving and expending financial, material and other assistance from a foreign government, a religious association, other association or a person from a foreign country;
 
 (d) abusing religion for political purpose.
 
-408. If the body having authority to register political parties finds that a political party infringes one of the stipulations contained in Section 407, the party's registration shall be revoked.
+408. If the body having authority to register political parties finds that a political party infringes one of the stipulations contained in Section 407, the party’s registration shall be revoked.
 
-- The Pyidaungsu Hluttaw shall enact necessary laws concerning political parties.
+409. The Pyidaungsu Hluttaw shall enact necessary laws concerning political parties.
+
+164
 
 [[END OF PAGE 353]]
 
 [[START OF PAGE 354]]
 
-( * ) EdkifiHjcm;wdkif;jynfwpfckckrS  tpdk;&  odkYr[kwf  bmoma&;tzGJUtpnf; odkYr[kwf  tjcm;tzGJUtpnf;wpfckck odkYr[kwf  yk*¾dKvfwpfOD;OD;xHrS  aiGaMu;? ypönf;?  tjcm;taxmuftyHhudk  wdkuf½dkufjzpfap?  oG,f0dkufí  jzpfap &,loHk;pGJjcif;? (C) bmoma&;udk EdkifiHa&;twGuf tvGJoHk;pm;jyKjcif;/ 408/ EdkifiHa&;ygwDwpf&yf&yfonf yk'fr 407 yg jy|mef;csufwpf&yf&yfESifh NidpGef;aMumif; rSwfyHkwifcGifhay;Edkifaom  tzGJUtpnf;uawGU&SdvQif  EdkifiHa&;ygwDtjzpf  rSwfyHk wifxm;jcif;udky,fzsuf&rnf/ 409/ jynfaxmifpkvTwfawmfonf  EdkifiHa&;ygwDrsm;ESifhpyfvsOf;onfh  vdktyfaom Oya'rsm;udk jy|mef;&rnf/ 164
+(*) EdkifiHjcm;wdkif;jynfwpfckckrS tpdk;& odkYr[kwf bmoma&;tzGJUtpnf; odkYr[kwf tjcm;tzGJUtpnf;wpfckck odkYr[kwf yk*¾dKvfwpfOD;OD;xHrS aiGaMu;? ypönf;? tjcm;taxmuftyHhudk wdkuf½dkufjzpfap? oG,f0dkufí jzpfap &,loHk;pGJjcif;?
+
+(C) bmoma&;udk EdkifiHa&;twGuf tvGJoHk;pm;jyKjcif;/
+
+408/ EdkifiHa&;ygwDwpf&yf&yfonf yk'fr 407 yg jy|mef;csufwpf&yf&yfESifh NidpGef;aMumif; rSwfyHkwifcGifhay;Edkifaom tzGJUtpnf;uawGU&SdvQif EdkifiHa&;ygwDtjzpf rSwfyHk wifxm;jcif;udky,fzsuf&rnf/
+
+409/ jynfaxmifpkvTwfawmfonf EdkifiHa&;ygwDrsm;ESifhpyfvsOf;onfh vdktyfaom Oya'rsm;udk jy|mef;&rnf/
+
+164
 
 [[END OF PAGE 354]]
 
@@ -8400,7 +8452,9 @@ cefYtyfwm0efay;Edkifonf?
 
 [[START OF PAGE 356]]
 
-## tcef;  (11) tcef;  (11) tcef;  (11) tcef;  (11) tcef;  (11) ta&;ay:umvqdkif&m  jy|mef;csufrsm; ta&;ay:umvqdkif&m  jy|mef;csufrsm; ta&;ay:umvqdkif&m  jy|mef;csufrsm; ta&;ay:umvqdkif&m  jy|mef;csufrsm; ta&;ay:umvqdkif&m  jy|mef;csufrsm;
+## tcef; (11) tcef; (11) tcef; (11)
+
+## ta&;ay:umvqdkif&m jy|mef;csufrsm; ta&;ay:umvqdkif&m jy|mef;csufrsm; ta&;ay:umvqdkif&m jy|mef;csufrsm;
 
 [[END OF PAGE 356]]
 
@@ -8410,73 +8464,73 @@ cefYtyfwm0efay;Edkifonf?
 
 ## Provisions on State of Emergency
 
-410. If the President learns that or if the respective local administrative body submits that  the  administrative  functions cannot  be  carried  out  in   accord  with   the Constitution in    a  Region   or   a    State      or    a  Union      territory    or    a  Self-Administered  Area,  he  may ,  after coordinating with the National Defence and Security Council, promulgate an ordinance and declare a state of emergency.
+410. If the President learns that or if the respective local administrative body submits that the administrative functions cannot be carried out in accord with the Constitution in a Region or a State or a Union territory or a Self-Administered Area, he may, after coordinating with the National Defence and Security Council, promulgate an ordinance and declare a state of emergency.
 
 411. In the matter concerning the declaration of a state of emergency in accord with Section 410, the President :
 
-(a) may exercise the executive  power of a Region or a State or a SelfAdministered Area concerned. Moreover, he may form an appropriate body or a suitable person and entrust the said executive power;
+(a) may exercise the executive power of a Region or a State or a Self-Administered Area concerned. Moreover, he may form an appropriate body or a suitable person and entrust the said executive power;
 
-(b) in doing so, if necessary, has the right to exercise the legislative power only for executive matters from among the matters that may be legislated by the respective Region, State or Self-Administered  Areas. However, the legislative power shall not be empowered on any body or any person.
+(b) in doing so, if necessary, has the right to exercise the legislative power only for executive matters from among the matters that may be legislated by the respective Region, State or Self-Administered Areas. However, the legislative power shall not be empowered on any body or any person.
 
-(a) If the President, learns that or  if the respective local administrative body submits that there arises or is sufficient reason to arise  a state of emergency endangering the lives, shelter and property of the public in a Region or a
+412. (a) If the President, learns that or if the respective local administrative body submits that there arises or is sufficient reason to arise a state of emergency endangering the lives, shelter and property of the public in a Region or a
 
 [[END OF PAGE 357]]
 
 [[START OF PAGE 358]]
 
-## tcef;(11) tcef;(11) tcef;(11) tcef;(11) ta&;ay:umvqdkif&mjy|mef;csufrsm; ta&;ay:umvqdkif&mjy|mef;csufrsm; ta&;ay:umvqdkif&mjy|mef;csufrsm; ta&;ay:umvqdkif&mjy|mef;csufrsm;
+## tcef;(11) tcef;(11) tcef;(11)
 
-410/ wdkif;a'oBuD;wpfckwGifjzpfap? jynfe,fwpfe,fwGifjzpfap? jynfaxmifpke,fajr wpfckwGifjzpfap?  udk,fydkiftkyfcsKyfcGifh&  pD&ifpkwpfpkwGifjzpfap  tkyfcsKyfa&;qkdif&m vkyfief;rsm;udk  zGJUpnf;yHktajccHOya'yg  jy|mef;csufrsm;ESihftnD  aqmif&GufEdkifpGrf; r&SdaMumif;  od&SdvQifaomfvnf;aumif;?  oufqdkif&ma'otmPmydkiftzGJUtpnf;u wifjyvQifaomfvnf;aumif; EdkifiHawmfor®wonf trsKd;om;umuG,fa&;ESihfvHkNcHKa&; aumifpDESihfn§dEdIif;NyD;  Oya'uJhodkY  tmPmwnfonfhtrdefYxkwfjyefí  ta&;ay: tajctae aMunmEkdifonf/
+## ta&;ay:umvqdkif&mjy|mef;csufrsm; ta&;ay:umvqdkif&mjy|mef;csufrsm; ta&;ay:umvqdkif&mjy|mef;csufrsm;
 
-411/ yk'fr  410  t&  ta&;ay:tajctae  aMunmonfhudpö&yfwGif  EkdifiHawmf or®wonf -
+410/ wdkif;a'oBuD;wpfckwGifjzpfap? jynfe,fwpfe,fwGifjzpfap? jynfaxmifpke,fajr wpfckwGifjzpfap? udk,fydkiftkyfcsKyfcGifh& pD&ifpkwpfpkwGifjzpfap tkyfcsKyfa&;qkdif&m vkyfief;rsm;udk zGJUpnf;yHktajccHOya'yg jy|mef;csufrsm;ESihftnD aqmif&GufEdkifpGrf; r&SdaMumif; od&SdvQifaomfvnf;aumif;? oufqdkif&ma'otmPmydkiftzGJUtpnf;u wifjyvQifaomfvnf;aumif; EdkifiHawmfor®wonf trsKd;om;umuG,fa&;ESihfvHkNcHKa&; aumifpDESihfn§dEdIif;NyD; Oya'uJhodkY tmPmwnfonfhtrdefYxkwfjyefí ta&;ay: tajctae aMunmEkdifonf/
 
-(u) oufqdkif&mwdkif;a'oBuD;?  jynfe,f  odkYr[kwf  udk,fydkiftkyfcsKyfcGifh& pD&ifpk\  tkyfcsKyfa&;tmPmudk  &,loHk;pJGcGifh&Sdonf/  xdkYjyif  ,if; tkyfcsKyfa&;tmPmudk oihfavsmfonfh tzJGUtpnf;wpf&yf&yf zGJUpnf;í jzpfap? oihfavsmfonfh yk*¾dKvfwpfOD;OD;tm;jzpfap tyfESif;aqmif&Gufap Ekdifonf?
+411/ yk'fr 410 t& ta&;ay:tajctae aMunmonfhudpö&yfwGif EkdifiHawmf or®wonf -
 
-(c) ,if;odkYaqmif&Guf&mwGif vdktyfygu oufqdkif&mwdkif;a'oBuD;? jynfe,f odkYr[kwf  udk,fydkiftkyfcsKyfcGifh&pD&ifpkrsm;u  Oya'jyKydkifcGihf&Sdaomudpö&yfrsm; teuf tkyfcsKyfa&;qdkif&mudpö&yfrsm;twGuf Oya'jyKcGihftmPmudkom usihfoHk;cGifh&Sdonf/  odkY&mwGif  Oya'jyKcGihftmPmudkrl  rnfonfhtzJGU tpnf; odkYr[kwf rnfonfhyk*d¾KvfudkrQ tyfESif;aqmif&Gufapjcif;rjyK&/
+(u) oufqdkif&mwdkif;a'oBuD;? jynfe,f odkYr[kwf udk,fydkiftkyfcsKyfcGifh& pD&ifpk\ tkyfcsKyfa&;tmPmudk &,loHk;pJGcGifh&Sdonf/ xdkYjyif ,if; tkyfcsKyfa&;tmPmudk oihfavsmfonfh tzJGUtpnf;wpf&yf&yf zGJUpnf;í jzpfap? oihfavsmfonfh yk*¾dKvfwpfOD;OD;tm;jzpfap tyfESif;aqmif&Gufap Ekdifonf?
 
-- 412/ (u) wdkif;a'oBuD;wpfckwGifjzpfap? jynfe,fwpfe,fwGifjzpfap? jynfaxmifpk e,fajrwpfckwGifjzpfap? udk,fydkiftkyfcsKyfcGifh& pD&ifpkwpfpkwGifjzpfap? ,if;wdkY\  wpfpdwfwpfa'owGifjzpfap  jynfolrsm;\touftdk;tdrf
+(c) ,if;odkYaqmif&Guf&mwGif vdktyfygu oufqdkif&mwdkif;a'oBuD;? jynfe,f odkYr[kwf udk,fydkiftkyfcsKyfcGifh&pD&ifpkrsm;u Oya'jyKydkifcGihf&Sdaomudpö&yfrsm; teuf tkyfcsKyfa&;qdkif&mudpö&yfrsm;twGuf Oya'jyKcGihftmPmudkom usihfoHk;cGifh&Sdonf/ odkY&mwGif Oya'jyKcGihftmPmudkrl rnfonfhtzJGU tpnf; odkYr[kwf rnfonfhyk*d¾KvfudkrQ tyfESif;aqmif&Gufapjcif;rjyK&/
+
+412/ (u) wdkif;a'oBuD;wpfckwGifjzpfap? jynfe,fwpfe,fwGifjzpfap? jynfaxmifpk e,fajrwpfckwGifjzpfap? udk,fydkiftkyfcsKyfcGifh& pD&ifpkwpfpkwGifjzpfap? ,if;wdkY\ wpfpdwfwpfa'owGifjzpfap jynfolrsm;\touftdk;tdrf
 
 [[END OF PAGE 358]]
 
 [[START OF PAGE 359]]
 
-166
+state or a Union Territory or a Self-Administered Area, after co-ordinating with the National Defence and Security Council, may promulgate an ordinance and declare a state of emergency.
 
-state or a Union Territory or a Self-Administered  Area, after co-ordinating with the National Defence and Security Council, may promulgate an ordinance and declare  a  state  of  emergency.
+(b) If all the members are unable to attend the meeting held by the President to co-ordinate with the National Defence and Security Council under Sub-Section (a), the President may declare in time a state of emergency after co-ordinating with the Commander-in-Chief of the Defence Services, the Deputy Commander-in-Chief of the Defence Services, the Minister for Defence, and the Minister for Home Affairs who are members. The said declaration shall be submitted to the National Defence and Security Council for approval as soon as possible.
 
-(b) If all the members are unable to attend the meeting held by the President to co-ordinate with the National Defence and Security Council under SubSection (a), the President may declare in time   a state of emergency after co-ordinating with the Commander-in-Chief of the Defence Services, the Deputy Commander-in-Chief of the Defence Services, the Minister for Defence, and the Minister for Home  Affairs who are members. The said declaration shall be submitted to the National Defence and Security Council for approval as soon as possible.
+413. According to Section 412, concerning the declaration of a state of emergency :
 
-- According to Section 412, concerning the declaration of a state of emergency :
-
-(a) the local administrative bodies and their members and the Civil Services organizations and their members may obtain the assistance of the Defence Services to effectively carry out their duties in accord with the existing laws in order to quickly restore to its original situation in an area where the declaration of   a state of emergency has been in operation;
+(a) the local administrative bodies and their members and the Civil Services organizations and their members may obtain the assistance of the Defence Services to effectively carry out their duties in accord with the existing laws in order to quickly restore to its original situation in an area where the declaration of a state of emergency has been in operation;
 
 (b) the President may, if necessary, declare a military administrative order. In the said order, the executive powers and duties and the judicial powers and duties concerning community peace and tranquillity and prevalence of law and order shall be conferred on the Commander-in-Chief of the Defence Services. The Commander-in-Chief of the Defence Services may
+
+166
 
 [[END OF PAGE 359]]
 
 [[START OF PAGE 360]]
 
+pnf;pdrfudk xdyg;tEÅ&m,fjyKrnfh ta&;ay:tajctaeay:aygufvQif odkYr[kwf xdkodkYay:ayguf&ef vHkavmufaomtaMumif;&SdaMumif; od&SdvQifaomfvnf;aumif;? xdkodkYay:ayguf&ef vkHavmufaom taMumif;&SdaMumif; oufqdkif&ma'o tmPmydkiftzGJUtpnf;u wifjyvQifaomfvnf;aumif; EdkifiHawmfor®wonf trsKd;om; umuG,fa&;ESihf vHkNcHKa&;aumifpDESihf n§dEIdif;NyD; Oya'uJhodkY tmPm wnfonfh trdefYxkwfjyefí ta&;ay:tajctae aMunmEkdifonf?
+
+(c) yk'frcGJ (u) t& EdkifiHawmfor®wonf trsKd;om;umuG,fa&;ESihf vkHNcKHa&; aumifpDESihf n§dEIdif;&mwGif tzGJU0ifrsm;pkHnDpGm wufa&mufEdkifjcif;r&Sdygu tzGJU0ifrsm;jzpfaom wyfrawmfumuG,fa&;OD;pD;csKyf? 'kwd,wyfrawmf umuG,fa&;OD;pD;csKyf? umuG,fa&;0efBuD;Xme 0efBuD;? jynfxJa&; 0efBuD;Xme 0efBuD;wdkYESihf n§dEIdif;NyD; ta&;ay:tajctaeudk tcsdefrD xkwfjyefaMunmEdkifonf/ ,if;odkY xkwfjyefaMunmcsufudk trsKd;om; umuG,fa&;ESihf vkHNcKHa&;aumifpDodkY tjrefqkH;wifjy twnfjyKcsuf &,l&rnf/
+
+413/ yk'fr 412 t& ta&;ay:tajctae aMunmonfh udpö&yfwGif -
+
+(u) ta&;ay:tajctaeaMunmcsuf tusKd;oufa&mufonfhe,fajra'o twGif; rlvtajctaeodkY tjrefjyefvnfa&muf&Sdapjcif;iSm a'oqdkif&m tmPmydkiftzGJUtpnf;rsm;? ,if;tzJGUtpnf;0ifrsm;? e,fbufqdkif&m 0efxrf;tzJGUtpnf;rsm;? ,if;tzGJUtpnf;0ifrsm;u wnfqJOya'rsm;ESihf tnD wm0efxrf;aqmif&mwGif xda&mufrI&Sdap&ef wyfrawmf\ tultnDudk &,laqmif&GufEdkifonf?
+
+(c) EdkifiHawmfor®wonf vdktyfygu ppftkyfcsKyfa&;trdefYwpf&yf xkwfjyef Edkifonf/ ,if;ppftkyfcsKyfa&;trdefYwGif wyfrawmfumuG,fa&;OD;pD;csKyf tm; tkyfcsKyfa&;qdkif&m vkyfydkifcGihfESihf wm0efrsm;udkvnf;aumif;? &yf&Gm at;csrf;om,ma&;ESihf w&m;Oya'pdk;rdk;a&;ESihf oufqdkifonfh w&m; pD&ifa&;qdkif&m vkyfydkifcGifhESihf wm0efrsm;udkvnf;aumif; owfrSwfay;& rnf/ wyfrawmfumuG,fa&;OD;pD;csKyfonf ,if;vkyfydkifcGihfESihf wm0efrsm;udk
+
 166
-
-pnf;pdrfudk xdyg;tEÅ&m,fjyKrnfh ta&;ay:tajctaeay:aygufvQif odkYr[kwf  xdkodkYay:ayguf&ef  vHkavmufaomtaMumif;&SdaMumif; od&SdvQifaomfvnf;aumif;?  xdkodkYay:ayguf&ef  vkHavmufaom taMumif;&SdaMumif;  oufqdkif&ma'o  tmPmydkiftzGJUtpnf;u wifjyvQifaomfvnf;aumif;  EdkifiHawmfor®wonf  trsKd;om; umuG,fa&;ESihf vHkNcHKa&;aumifpDESihf  n§dEIdif;NyD;  Oya'uJhodkY  tmPm wnfonfh trdefYxkwfjyefí ta&;ay:tajctae aMunmEkdifonf? (c) yk'frcGJ  (u)  t&  EdkifiHawmfor®wonf  trsKd;om;umuG,fa&;ESihf  vkHNcKHa&; aumifpDESihf n§dEIdif;&mwGif  tzGJU0ifrsm;pkHnDpGm  wufa&mufEdkifjcif;r&Sdygu tzGJU0ifrsm;jzpfaom wyfrawmfumuG,fa&;OD;pD;csKyf? 'kwd,wyfrawmf umuG,fa&;OD;pD;csKyf?  umuG,fa&;0efBuD;Xme  0efBuD;?  jynfxJa&; 0efBuD;Xme 0efBuD;wdkYESihf n§dEIdif;NyD; ta&;ay:tajctaeudk tcsdefrD xkwfjyefaMunmEdkifonf/ ,if;odkY xkwfjyefaMunmcsufudk trsKd;om; umuG,fa&;ESihf  vkHNcKHa&;aumifpDodkY  tjrefqkH;wifjy  twnfjyKcsuf
-
-&,l&rnf/
-
-(u) ta&;ay:tajctaeaMunmcsuf tusKd;oufa&mufonfhe,fajra'o twGif; rlvtajctaeodkY tjrefjyefvnfa&muf&Sdapjcif;iSm a'oqdkif&m tmPmydkiftzGJUtpnf;rsm;? ,if;tzJGUtpnf;0ifrsm;? e,fbufqdkif&m 0efxrf;tzJGUtpnf;rsm;? ,if;tzGJUtpnf;0ifrsm;u wnfqJOya'rsm;ESihf tnD  wm0efxrf;aqmif&mwGif  xda&mufrI&Sdap&ef  wyfrawmf\
-
-413/ yk'fr  412  t&  ta&;ay:tajctae aMunmonfh udpö&yfwGif tultnDudk &,laqmif&GufEdkifonf?
-
-( c ) EdkifiHawmfor®wonf vdktyfygu ppftkyfcsKyfa&;trdefYwpf&yf xkwfjyef Edkifonf/ ,if;ppftkyfcsKyfa&;trdefYwGif wyfrawmfumuG,fa&;OD;pD;csKyf tm; tkyfcsKyfa&;qdkif&m vkyfydkifcGihfESihf  wm0efrsm;udkvnf;aumif;? &yf&Gm at;csrf;om,ma&;ESihf w&m;Oya'pdk;rdk;a&;ESihf oufqdkifonfh w&m; pD&ifa&;qdkif&m vkyfydkifcGifhESihf  wm0efrsm;udkvnf;aumif; owfrSwfay;& rnf/ wyfrawmfumuG,fa&;OD;pD;csKyfonf ,if;vkyfydkifcGihfESihf  wm0efrsm;udk
 
 [[END OF PAGE 360]]
 
 [[START OF PAGE 361]]
 
-167
-
 exercise the said powers and duties himself or empower on any suitable military authority to exercise thereof.
 
-- The President, in promulgating an ordinance and declaring a state of emergency :
+414. The President, in promulgating an ordinance and declaring a state of emergency :
 
 (a) shall specify in the said ordinance the areas and the duration that the state of emergency is in operation;
 
@@ -8484,147 +8538,165 @@ exercise the said powers and duties himself or empower on any suitable military 
 
 415. The President shall, relating to the measures taken under Sections 410 and 411, and relating to the measures taken under Sections 412 and 413 in declaring a state of emergency, carry out such measures in accord with Section 212 (b), (c) and (e).
 
-416. If  the  Pyidaungsu Hluttaw session besides approving the submission of the President under Section 415 also extends the duration of the ordinance, it shall remain in operation up to the expiry of the extended duration.
+416. If the Pyidaungsu Hluttaw session besides approving the submission of the President under Section 415 also extends the duration of the ordinance, it shall remain in operation up to the expiry of the extended duration.
 
-417. If there arises or if there is sufficient reason for a state of emergency to arise that may disintegrate the Union or disintegrate national solidarity or that may cause the loss of sovereignty, due to acts or attempts to take over the sovereignty of the Union by insurgency, violence and wrongful forcible means, the President may, after co-ordinating with the National Defence and Security Council, promulgate an ordinance and declare a state of emergency. In the said ordinance, it shall be stated that the area where the state of rdrdudk,fwdkif usihfoHk;aqmif&Gufjcif; odkYr[kwf oihfavsmfonfh ppfbuf tmPmydkif wpfOD;OD;udk usifhoHk;aqmif&Gufapjcif;jyKEdkifonf/ 167
+417. If there arises or if there is sufficient reason for a state of emergency to arise that may disintegrate the Union or disintegrate national solidarity or that may cause the loss of sovereignty, due to acts or attempts to take over the sovereignty of the Union by insurgency, violence and wrongful forcible means, the President may, after co-ordinating with the National Defence and Security Council, promulgate an ordinance and declare a state of emergency. In the said ordinance, it shall be stated that the area where the state of
+
+167
 
 [[END OF PAGE 361]]
 
 [[START OF PAGE 362]]
 
+rdrdudk,fwdkif usihfoHk;aqmif&Gufjcif; odkYr[kwf oihfavsmfonfh ppfbuf tmPmydkif wpfOD;OD;udk usifhoHk;aqmif&Gufapjcif;jyKEdkifonf/
+
 414/ EkdifiHawmfor®wonf Oya'uJhodkYtmPmwnfonfh trdefYxkwfjyefí ta&;ay: tajctae aMunmonfhtcg -
 
-(u) ,if;trdefYwGif ta&;ay:tajctae  tusKd;oufa&mufonfh e,fajr a'oESihf tcsdefumvwdkYudk owfrSwfazmfjy&rnf?
+(u) ,if;trdefYwGif ta&;ay:tajctae tusKd;oufa&mufonfh e,fajr a'oESihf tcsdefumvwdkYudk owfrSwfazmfjy&rnf?
 
-( c ) vdktyfygu  ta&;ay:tajctae  tusKd;oufa&mufonfh  e,fajr a'otwGif;aexdkifMuaom EkdifiHom;rsm;\ rlvtcGifhta&;wpf&yf&yf udkjzpfap?  wpf&yfxufydkíjzpfap vdktyfovdk uefYowfEkdifonf odkYr[kwf &yfqdkif;xm;Edkifonf/
+(c) vdktyfygu ta&;ay:tajctae tusKd;oufa&mufonfh e,fajr a'otwGif;aexdkifMuaom EkdifiHom;rsm;\ rlvtcGifhta&;wpf&yf&yf udkjzpfap? wpf&yfxufydkíjzpfap vdktyfovdk uefYowfEkdifonf odkYr[kwf &yfqdkif;xm;Edkifonf/
 
-415/ EkdifiHawmfor®wonf ta&;ay:tajctaeaMunmí yk'fr 410 ESihf  411 t&   ta&;,laqmif&Gufcsufrsm;udkvnf;aumif;?   yk'fr 412 ESifh 413 t&   ta&;,l aqmif&Gufcsufrsm;udk vnf;aumif;   yk'fr 212 ( c )  ? ( * )  ESifh ( i )  wdkYESifhtnD aqmif&Guf&rnf/
+415/ EkdifiHawmfor®wonf ta&;ay:tajctaeaMunmí yk'fr 410 ESihf 411 t& ta&;,laqmif&Gufcsufrsm;udkvnf;aumif;? yk'fr 412 ESifh 413 t& ta&;,l aqmif&Gufcsufrsm;udk vnf;aumif; yk'fr 212 (c) ? (*) ESifh (i) wdkYESifhtnD aqmif&Guf&rnf/
 
-416/ yk'fr  415  t&  EkdifiHawmfor®w\wifjycsufudk  jynfaxmifpkvTwfawmf tpnf;ta0;u twnfjyKonfhtjyif tcsdefumv xyfrHwdk;jr§ifhowfrSwfvQif  xkdOya'uJhokdY tmPmwnfaomtrdefYonf  wdk;jr§ifhowfrSwfonfhtcsdefumvukefqHk;onftxd tmPmwnf&rnf/
+416/ yk'fr 415 t& EkdifiHawmfor®w\wifjycsufudk jynfaxmifpkvTwfawmf tpnf;ta0;u twnfjyKonfhtjyif tcsdefumv xyfrHwdk;jr§ifhowfrSwfvQif xkdOya'uJhokdY tmPmwnfaomtrdefYonf wdk;jr§ifhowfrSwfonfhtcsdefumvukefqHk;onftxd tmPmwnf&rnf/
 
-417/ EkdifiHawmf\tcsKyftjcmtmPmudk qlylaomif;usef;rI? tMurf;zufrIESifh t"r® enf;rsm;jzihf  &,l&efaqmif&Gufjcif; odkYr[kwf BudK;yrf;tm;xkwfjcif;aMumihf jynfaxmifpk NydKuJGaprnfh?  wdkif;&if;om;pnf;vHk;nDñGwfrI NydKuJGaprnfh odkYr[kwf tcsKyftjcmtmPm vufvGwfqHk;½HI;aprnfh ta&;ay:tajctae ay:aygufvQif odkYr[kwf ay:ayguf&ef vHkavmufaomtaMumif;awGU&SdvQif EkdifiHawmfor®wonf trsKd;om;umuG,fa&;ESihf vHkNcHKa&;aumifpDESifh  n§dEIdif;NyD;  Oya'uJhokdYtmPmwnfonfh  trdefYxkwfjyefí ta&;ay:
+417/ EkdifiHawmf\tcsKyftjcmtmPmudk qlylaomif;usef;rI? tMurf;zufrIESifh t"r® enf;rsm;jzihf &,l&efaqmif&Gufjcif; odkYr[kwf BudK;yrf;tm;xkwfjcif;aMumihf jynfaxmifpk NydKuJGaprnfh? wdkif;&if;om;pnf;vHk;nDñGwfrI NydKuJGaprnfh odkYr[kwf tcsKyftjcmtmPm vufvGwfqHk;½HI;aprnfh ta&;ay:tajctae ay:aygufvQif odkYr[kwf ay:ayguf&ef vHkavmufaomtaMumif;awGU&SdvQif EkdifiHawmfor®wonf trsKd;om;umuG,fa&;ESihf vHkNcHKa&;aumifpDESifh n§dEIdif;NyD; Oya'uJhokdYtmPmwnfonfh trdefYxkwfjyefí ta&;ay:
+
+167
 
 [[END OF PAGE 362]]
 
 [[START OF PAGE 363]]
 
-168
-
 emergency in operation is the entire Nation and the specified duration is one year from the day of promulgation.
 
-(a) In the matter concerning the declaration of the state of emergency according to Section 417, the President shall declare the transferring of legislative, executive and judicial powers of the Union to the Commander-in-Chief of the Defence Services to enable him to carry out necessary measures to speedily restore its original situation in the Union. It shall be deemed that the legislative  functions  of  all  Hluttaws  and  leading  bodies  shall  be  suspended from the day of declaration. It shall also be deemed that on the expiry of the term of the said Hluttaws, the relevant Hluttaws have been dissolved automatically.
+418. (a) In the matter concerning the declaration of the state of emergency according to Section 417, the President shall declare the transferring of legislative, executive and judicial powers of the Union to the Commander-in-Chief of the Defence Services to enable him to carry out necessary measures to speedily restore its original situation in the Union. It shall be deemed that the legislative functions of all Hluttaws and leading bodies shall be suspended from the day of declaration. It shall also be deemed that on the expiry of the term of the said Hluttaws, the relevant Hluttaws have been dissolved automatically.
 
 (b) Notwithstanding anything contained in the Constitution, commencing from the day of transfer of the sovereign power to the Commander-in-Chief of the Defence Services, it shall be deemed that the members appointed and assigned duties by approval of the relevant Hluttaws in accord with the Constitution, Self-Administered Division Leading Bodies or the members of Self-Administered Zone Leading Bodies, with the exception of the President and the Vice-Presidents, have been terminated from duty.
 
-419. The Commander-in-Chief of the Defence Services to whom the sovereign power has been transferred shall have the right to exercise the powers of legislature, executive and judiciary.  The Commander-in-Chief of the Defence Services may exercise the legislative power either by himself or by a body including him. The executive power and the judicial power may be transferred to and exercised by an appropriate body that has been formed or a suitable person.
+419. The Commander-in-Chief of the Defence Services to whom the sovereign power has been transferred shall have the right to exercise the powers of legislature, executive and judiciary. The Commander-in-Chief of the Defence Services may exercise the legislative power either by himself or by a body including him. The executive power and the judicial power may be transferred to and exercised by an appropriate body that has been formed or a suitable person.
+
+168
 
 [[END OF PAGE 363]]
 
 [[START OF PAGE 364]]
 
-168
-
 tajctae aMunmEkdifonf/ ,if;trdefYwGif ta&;ay:tajctae tusKd;oufa&muf onfhe,fajronf EkdifiHwpf0ef;vHk;jzpfaMumif;ESihf tcsdefumv owfrSwfcsufonf trdefY xkwfjyefonfhaeYrS wpfESpftxd jzpfaMumif;azmfjy&rnf/
 
-- 418/ (u) yk'fr  417  t&  ta&;ay:tajctae aMunmonhfudpö&yfwGif EkdifiHawmf or®wonf EkdifiHawmftwGif; rlvtajctaeokdY tjrefjyefvnfa&muf&Sd apjcif;iSm vkdtyfonhf ta&;,laqmif&GufrIrsm;jyKEkdif&ef wyfrawmf umuG,fa&;OD;pD;csKyftm; EkdifiHawmf\ Oya'jyKa&;? tkyfcsKyfa&;ESihf  w&m; pD&ifa&;tmPmrsm;ukd vJTtyfaMumif; aMunm&rnf/ ,if;okdYaMunm onhfaeYrSpí vTwfawmftm;vHk;ESihf OD;pD;tzJGUrsm;\ Oya'jyKa&;qkdif&m vkyfief;rsm;ukd &yfqkdif;xm;onf[k rSwf,l&rnf/ ,if;vTwfawmfrsm;\ oufwrf;ukefqHk;onhftcg  oufqkdif&mvTwfawmfrsm;onf
+418/ (u) yk'fr 417 t& ta&;ay:tajctae aMunmonhfudpö&yfwGif EkdifiHawmf or®wonf EkdifiHawmftwGif; rlvtajctaeokdY tjrefjyefvnfa&muf&Sd apjcif;iSm vkdtyfonhf ta&;,laqmif&GufrIrsm;jyKEkdif&ef wyfrawmf umuG,fa&;OD;pD;csKyftm; EkdifiHawmf\ Oya'jyKa&;? tkyfcsKyfa&;ESihf w&m; pD&ifa&;tmPmrsm;ukd vJTtyfaMumif; aMunm&rnf/ ,if;okdYaMunm onhfaeYrSpí vTwfawmftm;vHk;ESihf OD;pD;tzJGUrsm;\ Oya'jyKa&;qkdif&m vkyfief;rsm;ukd &yfqkdif;xm;onf[k rSwf,l&rnf/ ,if;vTwfawmfrsm;\ oufwrf;ukefqHk;onhftcg oufqkdif&mvTwfawmfrsm;onf tvkdtavsmuf zsufodrf;NyD;jzpfonf[k rSwf,l&rnf?
 
-tvkdtavsmuf zsufodrf;NyD;jzpfonf[k rSwf,l&rnf?
+(c) xkdokdYwyfrawmfumuG,fa&;OD;pD;csKyftm; EkdifiHawmf\tmPmukd vJTtyf aqmif&GufaponfhaeY&ufrSpí zJGUpnf;yHktajccHOya'wGif rnfokdYyif jy|mef;yg&Sdapumrl EkdifiHawmfor®wESihf 'kwd,or®wrsm;rSty zJGUpnf;yHk tajccHOya'ESihftnD oufqkdif&mvTwfawmfrsm;\ oabmwlnDcsufjzihf cefYtyfwm0efay;xm;aom tzGJUtpnf;0ifrsm;? ukd,fykdiftkyfcsKyfcGifh&wkdif; OD;pD;tzJGU okdYr[kwf ukd,fykdiftkyfcsKyfcGifh&a'o OD;pD;tzJGU0ifrsm;tm; wm0efrS&yfpJNyD; jzpfonf[krSwf,l&rnf/
 
-( c ) xkdokdYwyfrawmfumuG,fa&;OD;pD;csKyftm; EkdifiHawmf\tmPmukd vJTtyf aqmif&GufaponfhaeY&ufrSpí zJGUpnf;yHktajccHOya'wGif rnfokdYyif jy|mef;yg&Sdapumrl EkdifiHawmfor®wESihf 'kwd,or®wrsm;rSty zJGUpnf;yHk tajccHOya'ESihftnD oufqkdif&mvTwfawmfrsm;\ oabmwlnDcsufjzihf cefYtyfwm0efay;xm;aom tzGJUtpnf;0ifrsm;? ukd,fykdiftkyfcsKyfcGifh&wkdif; OD;pD;tzJGU  okdYr[kwf  ukd,fykdiftkyfcsKyfcGifh&a'o  OD;pD;tzJGU0ifrsm;tm; wm0efrS&yfpJNyD; jzpfonf[krSwf,l&rnf/
+419/ EkdifiHawmftmPmvJTtyfjcif;cH&onhf wyfrawmfumuG,fa&;OD;pD;csKyfonf Oya' jyKa&;tmPm? tkyfcsKyfa&;tmPmESihf w&m;pD&ifa&;tmPmwkdYukd usihfoHk;aqmif&GufcGihf &Sdonf/ wyfrawmfumuG,fa&;OD;pD;csKyfonf Oya'jyKa&;tmPmukd rdrdukd,fwkdifjzpfap? rdrdukd,fwkdifyg0ifonhf tzJGUtpnf;wpf&yf zJGUpnf;íjzpfap usifhoHk;aqmif&GufEkdifonf/ tkyfcsKyfa&;tmPmESihf w&m;pD&ifa&;tmPmrsm;ukd oihfavsmfonhf tzJGUtpnf; wpf&yf&yfukd zJGUpnf;íjzpfap? oifhavsmfonhf yk*¾dKvfwpfOD;OD;tm;jzpfap vJTtyfusihfoHk; aqmif&GufapEkdifonf/
 
-419/ EkdifiHawmftmPmvJTtyfjcif;cH&onhf wyfrawmfumuG,fa&;OD;pD;csKyfonf Oya' jyKa&;tmPm? tkyfcsKyfa&;tmPmESihf w&m;pD&ifa&;tmPmwkdYukd usihfoHk;aqmif&GufcGihf &Sdonf/ wyfrawmfumuG,fa&;OD;pD;csKyfonf Oya'jyKa&;tmPmukd rdrdukd,fwkdifjzpfap? rdrdukd,fwkdifyg0ifonhf tzJGUtpnf;wpf&yf zJGUpnf;íjzpfap usifhoHk;aqmif&GufEkdifonf/ tkyfcsKyfa&;tmPmESihf  w&m;pD&ifa&;tmPmrsm;ukd  oihfavsmfonhf  tzJGUtpnf; wpf&yf&yfukd zJGUpnf;íjzpfap? oifhavsmfonhf yk*¾dKvfwpfOD;OD;tm;jzpfap vJTtyfusihfoHk; aqmif&GufapEkdifonf/
+168
 
 [[END OF PAGE 364]]
 
 [[START OF PAGE 365]]
 
-169
-
 420. The Commander-in-Chief of the Defence Services may, during the duration of the declaration of a state of emergency, restrict or suspend as required, one or more fundamental rights of the citizens in the required area.
 
 421. The President :
 
-(a) shall submit the matter of transferring the sovereign power to the Commander-in-Chief of the Defence Services, after declaring   a state of emergency under Sections 417 and 418, to a regular session of the Pyidaungsu Hluttaw if it is in session, or to an emergency session of the Pyidaungsu Hluttaw by summoning it,   if it is not in regular session;
+(a) shall submit the matter of transferring the sovereign power to the Commander-in-Chief of the Defence Services, after declaring a state of emergency under Sections 417 and 418, to a regular session of the Pyidaungsu Hluttaw if it is in session, or to an emergency session of the Pyidaungsu Hluttaw by summoning it, if it is not in regular session;
 
 (b) may, if the Commander-in-Chief of the Defence Services submits the extension of the prescribed duration by giving reasons why he has not yet been able to accomplish the duties assigned to him, and after co-ordinating with the National Defence and Security Council, normally permit two extensions of the prescribed duration for a term of six months for each extension. The matter relating to the extension shall be reported to the emergency session of the Pyidaungsu Hluttaw by summoning it.
 
 422. The President shall, on submission of a report that the Commander-in-Chief of the Defence Services has accomplished the duties assigned, declare the annulment of the ordinance transferring the sovereign power to the Commander-in-Chief of the Defence Services under Section 418, after co-ordinating with the National Defence and Security Council, on the day of submission of the report by convening an emergency session of the Pyidaungsu Hluttaw if the term of the Pyidaungsu Hluttaw has not expired, or on the day that the submission of the report of the Commander-in-Chief of the Defence Services is received if that term of the Pyidaungsu Hluttaw has expired.
 
+169
+
 [[END OF PAGE 365]]
 
 [[START OF PAGE 366]]
 
-169
-
 420/ wyfrawmfumuG,fa&;OD;pD;csKyfonf ta&;ay:tajctae aMunmxm;pOf umvtwGif; vkdtyfonhfe,fajra'owGif EkdifiHom;rsm;\ rlvtcGihfta&;wpf&yf&yfukd jzpfap? wpf&yfxufykdíjzpfap vkdtyfovkduefYowfEkdifonf okdYr[kwf &yfqkdif;xm; Ekdifonf/
 
-(u) yk'fr 417 ESifh 418 t& ta&;ay:tajctaeaMunmí wyfrawmf umuG,fa&;OD;pD;csKyftm; EkdifiHawmftmPm vJTtyfaqmif&Gufaponhf udpöukd jynfaxmifpkvTwfawmf yHkrSeftpnf;ta0; usif;ycsdefjzpfvQif ,if;tpnf;ta0;odkYjzpfap? jynfaxmifpkvTwfawmf yHkrSeftpnf;ta0; usif;ycsdefr[kwfvQif jynfaxmifpkvTwfawmf ta&;ay:tpnf;ta0;
+421/ EkdifiHawmfor®wonf -
 
-421/ EkdifiHawmfor®wonf ac:,lapíjzpfap tpD&ifcHwifjy&rnf?
+(u) yk'fr 417 ESifh 418 t& ta&;ay:tajctaeaMunmí wyfrawmf umuG,fa&;OD;pD;csKyftm; EkdifiHawmftmPm vJTtyfaqmif&Gufaponhf udpöukd jynfaxmifpkvTwfawmf yHkrSeftpnf;ta0; usif;ycsdefjzpfvQif ,if;tpnf;ta0;odkYjzpfap? jynfaxmifpkvTwfawmf yHkrSeftpnf;ta0; usif;ycsdefr[kwfvQif jynfaxmifpkvTwfawmf ta&;ay:tpnf;ta0; ac:,lapíjzpfap tpD&ifcHwifjy&rnf?
 
-(c) wyfrawmfumuG,fa&;OD;pD;csKyfu ¤if;tm;ay;tyfxm;onfhwm0efukd NyD;ajrmufatmif aqmif&Gufjcif;rjyKEkdifao;ojzifh owfrSwftcsdefumv wkd;jr§ihfay;&ef tusKd;taMumif;azmfjyvsuf wifjyvmygu trsKd;om; umuG,fa&;ESihf  vkHNcKHa&;aumifpDESihf  n§dEIdif;NyD;  omreftm;jzifh wpfBudrfvQif  ajcmufvtxd  ESpfBudrfwkd;jr§ihfay;Ekdifonf/  ,if;okdY wkd;jr§ihfay;onfhudpöukd jynfaxmifpkvTwfawmf ta&;ay:tpnf;ta0; ac:,lapí tpD&ifcH wifjy&rnf/
+(c) wyfrawmfumuG,fa&;OD;pD;csKyfu ¤if;tm;ay;tyfxm;onfhwm0efukd NyD;ajrmufatmif aqmif&Gufjcif;rjyKEdkifao;ojzifh owfrSwftcsdefumv wkd;jr§ihfay;&ef tusKd;taMumif;azmfjyvsuf wifjyvmygu trsKd;om; umuG,fa&;ESihf vkHNcKHa&;aumifpDESihf n§dEIdif;NyD; omreftm;jzifh wpfBudrfvQif ajcmufvtxd ESpfBudrfwkd;jr§ihfay;Ekdifonf/ ,if;okdY wkd;jr§ihfay;onfhudpöukd jynfaxmifpkvTwfawmf ta&;ay:tpnf;ta0; ac:,lapí tpD&ifcH wifjy&rnf/
 
-422/ EkdifiHawmfor®wonf wyfrawmfumuG,fa&;OD;pD;csKyfu ¤if;tm;ay;tyfxm; onhfwm0efukd NyD;ajrmufatmifaqmif&GufNyD;pD;aMumif; wifjyvmonhftcg jynfaxmifpk vTwfawmf oufwrf;rukefqHk;ao;ygu jynfaxmifpkvTwfawmf ta&;ay:tpnf;ta0; ac:,lapí tpD&ifcHwifjyNyD;onhfaeYrSpíjzpfap? jynfaxmifpkvTwfawmfoufwrf; ukefqHk;NyD;jzpfygu  wyfrawmfumuG,fa&;OD;pD;csKyfxHrS  wifjycsufvufcH&&Sdonhf aeYrSpí jzpfap yk'fr 418 t& wyfrawmfumuG,fa&;OD;pD;csKyftm; EkdifiHawmftmPm vJTtyf aqmif&GufapcJhonhftrdefYukd trsKd;om;umuG,fa&;ESihfvkHNcKHa&;aumifpDESihfn§dEIdif;NyD; y,fzsufaMumif; aMunm&rnf/
+422/ EkdifiHawmfor®wonf wyfrawmfumuG,fa&;OD;pD;csKyfu ¤if;tm;ay;tyfxm; onhfwm0efukd NyD;ajrmufatmifaqmif&GufNyD;pD;aMumif; wifjyvmonhftcg jynfaxmifpk vTwfawmf oufwrf;rukefqHk;ao;ygu jynfaxmifpkvTwfawmf ta&;ay:tpnf;ta0; ac:,lapí tpD&ifcHwifjyNyD;onhfaeYrSpíjzpfap? jynfaxmifpkvTwfawmfoufwrf; ukefqHk;NyD;jzpfygu wyfrawmfumuG,fa&;OD;pD;csKyfxHrS wifjycsufvufcH&&Sdonhf aeYrSpí jzpfap yk'fr 418 t& wyfrawmfumuG,fa&;OD;pD;csKyftm; EkdifiHawmftmPm vJTtyf aqmif&GufapcJhonhftrdefYukd trsKd;om;umuG,fa&;ESihfvkHNcKHa&;aumifpDESihfn§dEIdif;NyD; y,fzsufaMumif; aMunm&rnf/
+
+169
 
 [[END OF PAGE 366]]
 
 [[START OF PAGE 367]]
 
-170
-
 423. The President shall, on receiving the report of the Commander-in-Chief of the Defence Services under Section 422, revoke the temporary suspension of the legislative functions of all Hluttaws and Leading Bodies if the term of the Pyidaungsu Hluttaw has not expired. The New executive and judicial bodies prescribed in the Constitution shall then be formed and assigned duties in accord with the Constitution. Such bodies shall only carry out the duties for the remaining term of the Hluttaw.
 
-424. Notwithstanding that the term of the Pyidaungsu Hluttaw has expired, the President and the Vice-Presidents, or the Speaker of the Pyithu Hluttaw and the Speaker of the Amyotha Hluttaw shall remain in their office until the new President and the new VicePresidents, or the new Speaker of the Pyithu Hluttaw and the new Speaker of the  Amyotha Hluttaw have been elected in accord with the Constitution.
+424. Notwithstanding that the term of the Pyidaungsu Hluttaw has expired, the President and the Vice-Presidents, or the Speaker of the Pyithu Hluttaw and the Speaker of the Amyotha Hluttaw shall remain in their office until the new President and the new Vice-Presidents, or the new Speaker of the Pyithu Hluttaw and the new Speaker of the Amyotha Hluttaw have been elected in accord with the Constitution.
 
 425. The National Defence and Security Council may, if the Commander-in-Chief of the Defence Services submits the extension of the prescribed duration by giving reasons why he has not been able to accomplish the assigned duties, on the expiry of the term of the Pyidaungsu Hluttaw, normally permit two extensions of the prescribed duration for a term of six months for each extension.
 
 426. The National Defence and Security Council shall, concerning the matter of transferring of sovereign power by the President to the Commander-in-Chief of the Defence Services by declaring a state of emergency under Sections 417 and 418, declare the annulment of the ordinance transferring the sovereign power to him under Section 418 on receiving the report that the Commander-in-Chief of the Defence Services has accomplished the duties assigned to him.
 
+170
+
 [[END OF PAGE 367]]
 
 [[START OF PAGE 368]]
 
-170
+423/ EkdifiHawmfor®wonf yk'fr 422 t& wyfrawmfumuG,fa&;OD;pD;csKyfxHrS tpD&ifcHpmukd &&Sdonhftcg jynfaxmifpkvTwfawmfoufwrf; rukefqHk;ao;ygu vTwfawmf tm;vHk;ESihf OD;pD;tzJGUrsm;\ Oya'jyKa&;qkdif&mvkyfief;rsm;tm; ,m,D &yfqkdif;xm;jcif;ukd y,fzsuf&rnf/ xkdYaemuf zJGUpnf;yHktajccHOya'yg tkyfcsKyfa&;ESihf w&m;pD&ifa&;qkdif&m tzJGUtpnf;topfrsm;ukd zJGUpnf;yHktajccHOya'ESihftnD zJGUpnf; wm0efay;tyf&rnf/ ,if;tzJGUtpnf;rsm;onf usef&Sdaom vTwfawmfoufwrf; twGufom wm0efxrf;aqmif&rnf/
 
-423/ EkdifiHawmfor®wonf  yk'fr  422  t&  wyfrawmfumuG,fa&;OD;pD;csKyfxHrS tpD&ifcHpmukd  &&Sdonhftcg  jynfaxmifpkvTwfawmfoufwrf;  rukefqHk;ao;ygu vTwfawmf  tm;vHk;ESihf  OD;pD;tzJGUrsm;\  Oya'jyKa&;qkdif&mvkyfief;rsm;tm;  ,m,D &yfqkdif;xm;jcif;ukd y,fzsuf&rnf/ xkdYaemuf zJGUpnf;yHktajccHOya'yg tkyfcsKyfa&;ESihf w&m;pD&ifa&;qkdif&m tzJGUtpnf;topfrsm;ukd zJGUpnf;yHktajccHOya'ESihftnD zJGUpnf; wm0efay;tyf&rnf/  ,if;tzJGUtpnf;rsm;onf  usef&Sdaom  vTwfawmfoufwrf; twGufom wm0efxrf;aqmif&rnf/ 424/ EkdifiHawmfor®wESifh 'kwd,or®wrsm;onfvnf;aumif;? jynfolYvTwfawmfOuú| ESifh  trsKd;om;vTwfawmfOuú| wkdYonfvnf;aumif; jynfaxmifpkvTwfawmf oufwrf; ukefqkH;apumrl zJGUpnf;ykHtajccHOya'ESifhtnD EkdifiHawmfor®wtopfESifh 'kwd,or®w topfwkdYukdvnf;aumif;? jynfolYvTwfawmfOuú|topfESifh trsKd;om;vTwfawmfOuú| topfwkdYukdvnf;aumif; a&G;cs,fwifajr§mufNyD;onftxd qufvufwnf&Sdonf/ 425/ trsKd;om;umuG,fa&;ESifhvkHNcKHa&;aumifpDonf  jynfaxmifpkvTwfawmf oufwrf;ukefqkH;oGm;csdefwGif  wyfrawmfumuG,fa&;OD;pD;csKyfu  ¤if;tm;ay;tyf xm;onfhwm0efudk NyD;ajrmufatmifaqmif&Gufjcif;rjyKEdkifao;ojzifh owfrSwftcsdef umv wdk;jr§ifhay;&ef  tusKd;taMumif;azmfjyvsuf  wifjyvmygu  omreftm;jzifh wpfBudrfvQif ajcmufvtxd ESpfBudrfwdk;jr§ifhay;Edkifonf/ 426/ trsKd;om;umuG,fa&;ESifhvkHNcKHa&;aumifpDonf EkdifiHawmfor®wu yk'fr 417 ESifh 418 t& ta&;ay:tajctaeaMunmí wyfrawmfumuG,fa&;OD;pD;csKyftm; EkdifiHawmftmPmudk vTJtyfaqmif&GufaponfhudpöESifhpyfvsOf;í wyfrawmfumuG,fa&; OD;pD;csKyfu ¤if;tm;ay;tyfxm;onfh wm0efNyD;ajrmufatmif aqmif&GufNyD;aMumif; wifjyonfhtpD&ifcHpmudk vufcH&&Sdonfhtcg yk'fr 418 t& wyfrawmfumuG,fa&; OD;pD;csKyftm; EdkifiHawmftmPm vTJtyfaqmif&GufapcJhonfhtrdefYudk y,fzsufaMumif; aMunm&rnf/
+424/ EkdifiHawmfor®wESifh 'kwd,or®wrsm;onfvnf;aumif;? jynfolYvTwfawmfOuú| ESifh trsKd;om;vTwfawmfOuú| wkdYonfvnf;aumif; jynfaxmifpkvTwfawmf oufwrf; ukefqkH;apumrl zJGUpnf;ykHtajccHOya'ESifhtnD EkdifiHawmfor®wtopfESifh 'kwd,or®w topfwkdYukdvnf;aumif;? jynfolYvTwfawmfOuú|topfESifh trsKd;om;vTwfawmfOuú| topfwkdYukdvnf;aumif; a&G;cs,fwifajr§mufNyD;onftxd qufvufwnf&Sdonf/
+
+425/ trsKd;om;umuG,fa&;ESifhvkHNcKHa&;aumifpDonf jynfaxmifpkvTwfawmf oufwrf;ukefqkH;oGm;csdefwGif wyfrawmfumuG,fa&;OD;pD;csKyfu ¤if;tm;ay;tyf xm;onfhwm0efudk NyD;ajrmufatmifaqmif&Gufjcif;rjyKEdkifao;ojzifh owfrSwftcsdef umv wdk;jr§ifhay;&ef tusKd;taMumif;azmfjyvsuf wifjyvmygu omreftm;jzifh wpfBudrfvQif ajcmufvtxd ESpfBudrfwdk;jr§ifhay;Edkifonf/
+
+426/ trsKd;om;umuG,fa&;ESifhvkHNcKHa&;aumifpDonf EkdifiHawmfor®wu yk'fr 417 ESifh 418 t& ta&;ay:tajctaeaMunmí wyfrawmfumuG,fa&;OD;pD;csKyftm; EkdifiHawmftmPmudk vTJtyfaqmif&GufaponfhudpöESifhpyfvsOf;í wyfrawmfumuG,fa&; OD;pD;csKyfu ¤if;tm;ay;tyfxm;onfh wm0efNyD;ajrmufatmif aqmif&GufNyD;aMumif; wifjyonfhtpD&ifcHpmudk vufcH&&Sdonfhtcg yk'fr 418 t& wyfrawmfumuG,fa&; OD;pD;csKyftm; EdkifiHawmftmPm vTJtyfaqmif&GufapcJhonfhtrdefYudk y,fzsufaMumif; aMunm&rnf/
+
+170
 
 [[END OF PAGE 368]]
 
 [[START OF PAGE 369]]
 
-171
-
 427. The National Defence and Security Council :
 
 (a) exercises the powers of the legislature, executive and judiciary before the Hluttaws are formed in accord with the Constitution;
 
-(b) has the right to exercise the sovereign power until the new President   has been elected and the Union level administrative bodies have been formed in accord with the provisions in this Constitution. In exercising thereof, the legislative power shall be exercised by itself. The executive power and the judicial power may be transferred to and exercised by the appropriate Bodies that have been formed or a suitable person at the Union, Region or State and Self-Administered  Area levels.
+(b) has the right to exercise the sovereign power until the new President has been elected and the Union level administrative bodies have been formed in accord with the provisions in this Constitution. In exercising thereof, the legislative power shall be exercised by itself. The executive power and the judicial power may be transferred to and exercised by the appropriate Bodies that have been formed or a suitable person at the Union, Region or State and Self-Administered Area levels.
 
-- The National Defence and Security Council shall form and assign duties to different levels of administrative bodies, the Self-Administered Division Leading Body, or the SelfAdministered Zone Leading Bodies and Election Commission prescribed in the Constitution with persons who meet the relevant qualifications prescribed in the Constitution.
+428. The National Defence and Security Council shall form and assign duties to different levels of administrative bodies, the Self-Administered Division Leading Body, or the Self-Administered Zone Leading Bodies and Election Commission prescribed in the Constitution with persons who meet the relevant qualifications prescribed in the Constitution.
 
-- The National Defence and Security Council shall hold the general election in accord with the provisions of the Constitution within a duration of six months commencing from the day on which the ordinance is annulled under  Section 426.
+429. The National Defence and Security Council shall hold the general election in accord with the provisions of the Constitution within a duration of six months commencing from the day on which the ordinance is annulled under Section 426.
 
-- The bodies formed under Section 428 shall continue to perform their functions and duties until legislative, executive and judicial bodies have been formed in accord with the Constitution after holding the general election.
+430. The bodies formed under Section 428 shall continue to perform their functions and duties until legislative, executive and judicial bodies have been formed in accord with the Constitution after holding the general election.
+
+171
 
 [[END OF PAGE 369]]
 
 [[START OF PAGE 370]]
 
+427/ trsKd;om;umuG,fa&;ESifhvkHNcKHa&;aumifpDonf -
+
+(u) zGJUpnf;ykHtajccHOya'ESifhtnD vTwfawmfrsm;zGJUpnf;jcif; rjyKEkdifao;rD Oya' jyKa&;? tkyfcsKyfa&;ESifh w&m;pD&ifa&;tmPmwkdYukd usifhokH; aqmif&Gufonf?
+
+(c) þzGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;ESihftnD EkdifiHawmfor®w topf a&G;cs,fwifajr§mufNyD; jynfaxmifpktqifh tmPmykdif tzGJUtpnf;rsm;ukd zGJUpnf;NyD;onfhtcsdefxd EkdifiHawmftmPmukd usifhokH; aqmif&GufcGihf&Sdonf/ xkdokdYusihfokH;aqmif&Guf&mwGif Oya'jyKa&;tmPm ukd udk,fwkdifusihfokH;aqmif&Guf&rnf/ tkyfcsKyfa&;tmPmESifh w&m;pD&ifa&;tmPmrsm;ukd jynfaxmifpktqifh? wkdif;a'oBuD; okdYr[kwf jynfe,ftqifhESihf ukd,fykdiftkyfcsKyfcGihf& pD&ifpktqifhrsm;twGuf oihfavsmf onfh tzGJUtpnf;rsm; zGJUpnf;íjzpfap? oihfavsmfonfhyk*d¾Kvf wpfOD;OD;tm;jzpfap vTJtyfusifhokH; aqmif&GufapEkdifonf/
+
+428/ trsKd;om;umuG,fa&;ESifh vkHNcKHa&;aumifpDonf zGJUpnf;ykHtajccHOya'yg tqifh qifhaom tmPmykdiftzGJUtpnf;rsm;? ukd,fykdiftkyfcsKyfcGifh&wkdif; OD;pD;tzGJU okdYr[kwf ukd,fykdiftkyfcsKyfcGifh&a'o OD;pD;tzGJUrsm;ESifh a&G;aumufyGJaumfr&SifwkdYukd zGJUpnf;ykHtajccH Oya'wGif jy|mef;xm;aom oufqkdif&mt&nftcsif;ESifh nDñGwfonfhyk*d¾Kvfrsm;jzifh zGJUpnf;wm0efay;tyf&rnf/
+
+429/ trsKd;om;umuG,fa&;ESifh vkHNcKHa&;aumifpDonf yk'fr 426 t& trdefYukd y,fzsufaMumif; aMunmonhfaeYrSpí ajcmufvtwGif; zJGUpnf;yHktajccHOya'yg jy|mef; csufrsm;ESihftnD taxGaxGa&G;aumufyJG usif;yay;&rnf/
+
+430/ yk'fr 428 t& zJGUpnf;xm;onhftzJGUtpnf;rsm;onf taxGaxGa&G;aumufyJGrsm; usif;yNyD; zJGUpnf;yHktajccHOya'ESihftnD zJGUpnf;onfh Oya'jyKa&;? tkyfcsKyfa&;ESihf w&m; pD&ifa&;qkdif&m tzJGUtpnf;rsm; zJGUpnf;NyD;onftxd rdrdwkdY\ vkyfief;wm0efrsm;ukd qufvufaqmif&Guf&rnf/
+
 171
-
-427/ trsKd;om;umuG,fa&;ESifhvkHNcKHa&;aumifpDonf (u) zGJUpnf;ykHtajccHOya'ESifhtnD vTwfawmfrsm;zGJUpnf;jcif; rjyKEkdifao;rD Oya'  jyKa&;?  tkyfcsKyfa&;ESifh  w&m;pD&ifa&;tmPmwkdYukd  usifhokH; aqmif&Gufonf? ( c ) þzGJUpnf;ykHtajccHOya'yg jy|mef;csufrsm;ESihftnD EkdifiHawmfor®w topf  a&G;cs,fwifajr§mufNyD;  jynfaxmifpktqifh  tmPmykdif tzGJUtpnf;rsm;ukd zGJUpnf;NyD;onfhtcsdefxd EkdifiHawmftmPmukd usifhokH; aqmif&GufcGihf&Sdonf/  xkdokdYusihfokH;aqmif&Guf&mwGif  Oya'jyKa&;tmPm ukd  udk,fwkdifusihfokH;aqmif&Guf&rnf/  tkyfcsKyfa&;tmPmESifh w&m;pD&ifa&;tmPmrsm;ukd jynfaxmifpktqifh? wkdif;a'oBuD; okdYr[kwf jynfe,ftqifhESihf  ukd,fykdiftkyfcsKyfcGihf&  pD&ifpktqifhrsm;twGuf  oihfavsmf onfh  tzGJUtpnf;rsm;  zGJUpnf;íjzpfap?  oihfavsmfonfhyk*d¾Kvf
-
-wpfOD;OD;tm;jzpfap vTJtyfusifhokH; aqmif&GufapEkdifonf/ 428/ trsKd;om;umuG,fa&;ESifh vkHNcKHa&;aumifpDonf zGJUpnf;ykHtajccHOya'yg tqifh qifhaom tmPmykdiftzGJUtpnf;rsm;? ukd,fykdiftkyfcsKyfcGifh&wkdif; OD;pD;tzGJU okdYr[kwf ukd,fykdiftkyfcsKyfcGifh&a'o  OD;pD;tzGJUrsm;ESifh  a&G;aumufyGJaumfr&SifwkdYukd  zGJUpnf;ykHtajccH Oya'wGif jy|mef;xm;aom oufqkdif&mt&nftcsif;ESifh nDñGwfonfhyk*d¾Kvfrsm;jzifh zGJUpnf;wm0efay;tyf&rnf/ 429/ trsKd;om;umuG,fa&;ESifh  vkHNcKHa&;aumifpDonf  yk'fr  426  t&  trdefYukd y,fzsufaMumif; aMunmonhfaeYrSpí ajcmufvtwGif; zJGUpnf;yHktajccHOya'yg jy|mef; csufrsm;ESihftnD taxGaxGa&G;aumufyJG usif;yay;&rnf/ 430/ yk'fr 428 t& zJGUpnf;xm;onhftzJGUtpnf;rsm;onf taxGaxGa&G;aumufyJGrsm; usif;yNyD;  zJGUpnf;yHktajccHOya'ESihftnD  zJGUpnf;onfh  Oya'jyKa&;?  tkyfcsKyfa&;ESihf  w&m; pD&ifa&;qkdif&m  tzJGUtpnf;rsm;  zJGUpnf;NyD;onftxd  rdrdwkdY\  vkyfief;wm0efrsm;ukd qufvufaqmif&Guf&rnf/
 
 [[END OF PAGE 370]]
 
 [[START OF PAGE 371]]
 
-172
-
 431. The National Defence and Security Council shall exercise the sovereign power in the name of the President.
 
 432. The legitimate measures of any administrative body or any of its members, any Civil Services body or any of its members, and any military body or any of its members assigned powers and duties to take measures as required in order to speedily restore the security, stability, community peace and tranquility and prevalence of law and order to its original state on behalf of the President while a declaration of emergency is in operation or during the duration the sovereign power is being exercised by the Commander-in-Chief of the Defence Services or during the duration the sovereign power is being exercised by the National Defence and Security Council, shall be valid. No legal action shall be taken on such legitimate measures.
+
+172
 
 [[END OF PAGE 371]]
 
@@ -8642,7 +8714,9 @@ wpfOD;OD;tm;jzpfap vTJtyfusifhokH; aqmif&GufapEkdifonf/ 428/ trsKd;om;umuG,fa&;E
 
 [[START OF PAGE 374]]
 
-## tcef;  (12) tcef;  (12) tcef;  (12) tcef;  (12) tcef;  (12) zGJUpnf;ykHtajccHOya'  jyifqifjcif; zGJUpnf;ykHtajccHOya'  jyifqifjcif; zGJUpnf;ykHtajccHOya'  jyifqifjcif; zGJUpnf;ykHtajccHOya'  jyifqifjcif; zGJUpnf;ykHtajccHOya'  jyifqifjcif;
+## tcef; (12) tcef; (12) tcef; (12)
+
+## zGJUpnf;ykHtajccHOya' jyifqifjcif; zGJUpnf;ykHtajccHOya' jyifqifjcif; zGJUpnf;ykHtajccHOya' jyifqifjcif;
 
 [[END OF PAGE 374]]
 
@@ -8652,17 +8726,17 @@ wpfOD;OD;tm;jzpfap vTJtyfusifhokH; aqmif&GufapEkdifonf/ 428/ trsKd;om;umuG,fa&;E
 
 ## AMENDMENT OF THE CONSTITUTION
 
-- Any provision of this Constitution may be amended in the manner herein after provided :
+433. Any provision of this Constitution may be amended in the manner herein after provided :
 
 (a) the proposal to amend the Constitution shall be submitted in the form of a Bill;
 
 (b) the Bill to amend the Constitution shall not contain other proposals.
 
-- The Bill to amend the Constitution shall be submitted to the Pyidaungsu Hluttaw.
+434. The Bill to amend the Constitution shall be submitted to the Pyidaungsu Hluttaw.
 
-- If twenty percent of the total number of the Pyidaungsu Hluttaw representatives submit the Bill to amend the Constitution, it shall be considered by the Pyidaungsu Hluttaw.
+435. If twenty percent of the total number of the Pyidaungsu Hluttaw representatives submit the Bill to amend the Constitution, it shall be considered by the Pyidaungsu Hluttaw.
 
-(a) If  it  is  necessary  to  amend  the  provisions  of  Sections  1  to  48  in Chapter I, Sections 49 to 56 in Chapter II, Sections 59 and 60 in Chapter III, Sections 74, 109, 141 and 161 in Chapter IV, Sections 200, 201, 248 and 276 in Chapter V, Sections 293, 294, 305, 314 and 320 in Chapter VI, Sections 410 to 432 in Chapter XI and Sections 436  in Chapter XII of this Constitution, it shall be amended with the prior approval of more than seventy-five  percent of all the representatives of the Pyidaungsu Hluttaw, after which in a nation-wide referendum only with the votes of more than half of those who are eligible to vote.
+436. (a) If it is necessary to amend the provisions of Sections 1 to 48 in Chapter I, Sections 49 to 56 in Chapter II, Sections 59 and 60 in Chapter III, Sections 74, 109, 141 and 161 in Chapter IV, Sections 200, 201, 248 and 276 in Chapter V, Sections 293, 294, 305, 314 and 320 in Chapter VI, Sections 410 to 432 in Chapter XI and Sections 436 in Chapter XII of this Constitution, it shall be amended with the prior approval of more than seventy-five percent of all the representatives of the Pyidaungsu Hluttaw, after which in a nation-wide referendum only with the votes of more than half of those who are eligible to vote.
 
 [[END OF PAGE 375]]
 
