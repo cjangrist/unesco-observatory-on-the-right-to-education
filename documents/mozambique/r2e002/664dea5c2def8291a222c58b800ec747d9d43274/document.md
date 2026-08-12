@@ -1,6 +1,16 @@
 [[START OF PAGE 1]]
 
-(this page came through the extractor with no text)
+# Education Strategic Plan
+
+2012-2016
+
+let’s learn!
+
+Building competencies for Mozambique in development!
+
+Republic of Mozambique
+
+Ministry of Education
 
 [[END OF PAGE 1]]
 
@@ -20,7 +30,10 @@ Nº de copies:
 
 1.000 (1ste edition english)
 
-Ministry of Education Avenida 24 de Julho n o  167 Caixa Postal 34 Maputo
+Ministry of Education
+Avenida 24 de Julho nº 167
+Caixa Postal 34
+Maputo
 
 Mozambique
 
@@ -56,11 +69,85 @@ Académica Lda
 
 # Index
 
-iii
+List of Tables vii
+List of Graphs viii
+List of Abbreviations ix
+Preface 1
+Summary 3
+Contextualisation of the Education Strategic Plan 3
+Rationale of the priorities and approaches for the coming years 3
+Main implications for implementation 6
+Financing 7
+1. Context 9
+1.1 Education: a critical factor in reducing poverty and developing the country 9
+1.2 Framework of the strategic plan in the National Planning System 10
+1.3 Economic and social context of the country 11
+1.4 The Education System 12
+1.4.1 General Education 12
+1.4.2 Technical and Vocational Education 13
+1.4.3 Higher Education 14
+1.4.4 Teaching Modalities 14
+1.4.5 Administration of the Sector 14
+2. Vision and Mission 15
+2.1 Long-term vision 15
+2.2 Mission 16
+2.3 International and regional agendas 16
+2.3.1 Education for All 16
+2.3.2 Regional integration 16
+2.3.3 Effectiveness of international aid 17
+2.4 Partnerships 17
+2.4.1 Participation of families and communities 17
+2.4.2 Dialogue with international partners 18
+2.4.3 Civil society and private sector involvement 19
+3. Implementation of the Strategic Plan for Education and Culture 2006-2010/11 21
+3.1 History 21
+3.2 Strategies of the 2006-2010/11 PEEC 22
+3.3 Results Achieved 23
 
+iii
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+3.3.1 An expanded system 24
+3.3.2 A more balanced system 25
+3.3.3 Increase in human and financial resources 26
+3.3.4 A more educated population 28
+3.4 Major Challenges 29
+3.4.1 Access: out-of-school children and youth 29
+3.4.2 Quality: concern with the effectiveness of teaching-learning 30
+3.4.3 Institutional development: weaknesses in implementing the plans 31
+3.5 Evaluation of the Strategic Plan 31
+4. Priorities and focus for the Education Sector (2012-2016) 33
+4.1 Priorities for 2012-2016 33
+4.2 Linkage with the Government’s plans for the Country’s development 34
+4.3 Primary focuses for the coming years 34
+4.3.1 Inclusion and equity in access and retention 34
+4.3.2 Student learning 35
+4.3.3 Good Governance 37
+5. Structure of the Strategic Plan 39
+5.1 Programming per level of education 39
+5.2 Treatment of cross-cutting issues 40
+5.2.1 An integrated approach 40
+5.2.2 Gender issues 41
+5.2.3 Children, youth and adults with special educational needs 42
+5.2.4 HIV and AIDS prevention and mitigation 43
+5.2.5 Healthy and safe school environment 44
+5.3 Specific programmes 45
+5.3.1 School production 45
+5.3.2 School feeding and nutrition 45
+5.3.3 School Sports 46
+5.4 Programmatic areas 46
+5.4.1 Teacher training, capacity building and motivation 46
+5.4.2 Information and Communication Technologies (ICT) 47
+5.4.3 Open and Distance Learning 49
+6. Sector programmes 51
+6.1 (Pre) Primary Education 53
+6.1.1 Vision 54
+6.1.2 Current state 59
+6.1.3 Priorities for the coming years 59
+6.1.4 Special Focus: Early Childhood Development 61
+6.1.5 Primary Education’s main strategies 64
 
 iv
 
@@ -68,13 +155,80 @@ iv
 
 [[START OF PAGE 5]]
 
-7.
+6.1.6 Priority actions 65
+6.2 Adult Literacy and Education 69
+6.2.1 Vision 69
+6.2.2 Current state 70
+6.2.3 Priorities for the coming years 71
+6.2.4 Main Strategies 72
+6.2.5 Priority actions 73
+6.3 General Secondary Education 75
+6.3.1 Vision 75
+6.3.2 Current state 76
+6.3.3 Priorities for the coming years 79
+6.3.4 Main Strategies 80
+6.3.5 Priority Actions 81
+6.4 Technical and Vocational Education 85
+6.4.1 Vision 85
+6.4.2 Current state 86
+6.4.3 Priorities for the coming years 88
+6.4.4 Main strategies 89
+6.4.5 Priority actions 90
+6.5 Higher Education 93
+6.5.1 Vision 93
+6.5.2 Current state 93
+6.5.3 Priorities for the coming years 95
+6.5.4 Main Strategies 95
+6.5.5 Priority actions 97
+6.6 Administrative and Institutional Development 101
+6.6.1 Vision 101
+6.6.2 Current state 101
+6.6.3 Priorities for the coming years 102
+6.6.4 Main strategies 103
+6.6.5 Priority actions 105
+7. Institutional arrangement for the implementation of the Education Strategic Plan 111
+7.1 Plan and annual budget 111
+7.2 Education sector’s mandate 112
+7.2.1 Ministry of Education (MINED) 112
+7.2.2 Local bodies 113
+7.3 Financing Modalities 114
+7.3.1 Internal funding 115
+7.3.2 External funding 115
+7.3.3 Own revenue (monetary or in-kind) 115
 
 v
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
+
+7.3.4 Private sector contribution 116
+7.4 Monitoring and evaluation 116
+7.4.1 Oversight and monitoring of the implementation of the sector’s interventions 116
+7.4.2 Monitoring and evaluation of the sector’s performance 117
+7.4.3 Involvement of sub-national levels 118
+7.4.4 Monitoring the implementation of the FASE Memorandum of Understanding 123
+7.5 Anti-Corruption Action Plan 118
+7.6 Communication and information strategy 119
+8. Implementation costs 120
+8.1 Costing Model 121
+8.2 Medium term financial forecasts 121
+8.3 Assumptions 121
+8.3.1 Number of students and teachers 123
+8.3.2 Unit costs of the sector’s priority actions 125
+8.4 Expenditure foreseen per sector programme and type of expenditure 128
+9. Assumptions, opportunities and risks 131
+9.1 Assumptions 131
+9.2 Opportunities 131
+9.3 Risks 132
+Reference documentation 135
+Annex: Strategic Matrix 139
+(Pre-) Primary Education 139
+Adult Literacy and Education 141
+General Secondary Education 142
+Technical and Vocational Education 144
+Higher Education 146
+Administrative and Institutional Development 148
 
 vi
 
@@ -84,6 +238,25 @@ vi
 
 # List of Tables
 
+Table 1: Policy, Strategy and Operational Instruments for Planning, Budgeting and Monitoring 10
+Table 2: School network per level of education taught, 2004, 2007 and 2011 (public, private and community education) 24
+Table 3: Number of students and percentage of girls per level of education, 2004, 2007 and 2011 (daytime and evening classes, public, community and private education) 25
+Table 4: Evolution in the number of teachers recruited and in the pupil/teacher ratio 2006-2011 (public Primary Education) 27
+Table 5: Total number of teachers and percentage of female teachers in EP1, EP2 and ESG1, 2004-2011 (daytime classes, public and community education) 27
+Table 6: Total teachers and percentage of teachers without pedagogical training in EP1, EP2 and ESG1, 2004-2011 (daytime classes, public and community education) 27
+Table 7: Evolution in the number of graduates, per level of education and sex, 2004-2011 (daytime and evening classes, public, community and private education) 29
+Table 8: School enrolment rates per sex and age group, 2007-2011 (daytime and evening classes, public, community and private education) 29
+Table 9: Sector programmes, strategic objectives and priority actions 40
+Table 10: General objectives, indicators and targets of the sector for the years 2012-2016, per sector programme 51
+Table 11: Financial forecasts for the period 2012-2016, based on the 2010 execution and 2011 budget (in millions of MT, 2010) 122
+Table 12: Main indicators with a direct impact on the number of students and teachers in the system 123
+Table 13: Gross enrolment rates, 2010 (values observed) and projections per scenario 125
+Table 14: Cost determinants of the sector’s main interventions 126
+Table 15: Expected costs per level of education and for the sector’s main interventions (values in millions of MT, 2010) 128
+Table 16: Cost per student per level of education (in Meticais) 129
+Table 17: Pupil/cost ratio per levels of education, in relation to the cost per student in EP1 (Ep1 = 1) 129
+Table 18: Number of students and teachers, 2004 & 2010 and forecasts for 2016 (per scenario) 130
+
 vii
 
 [[END OF PAGE 7]]
@@ -91,6 +264,18 @@ vii
 [[START OF PAGE 8]]
 
 # List of Graphs
+
+Graph 1: Evolution of the Education System, 1974/5 -2011, public Primary Education, (daytime and evening classes) 22
+Graph 2: Evolution in the percentage of girls enrolled in Primary and Secondary Education (1st and 2nd cycles), 2004-2011 (daytime classes, public, private and community education) 26
+Graph 3: Percentage of girls enrolled in Primary Education, 2004 and 2011 (daytime and evening classes, public, private and community education) 26
+Graph 4: Evolution of the Education sector’s budget and its execution, 2005-2010 28
+Graph 5: 6- and 7-year-old children in grade 1, 2007 and 2011, and enrolment rates at age 6 and 7 years, 2011 (public, private and community education) 55
+Graph 6: Number of students in grade 1 (total and aged 9 or older), and percentage of students aged 9 or older (2011, public, community and private education) 56
+Graph 7: Dropout rates in grades 2, 5 and 7, 2007 and 2011 (public, community and private education, daytime and evening classes) 57
+Graph 8: Reading tests results: averages and percentage (SACMEQ III) 57
+Graph 9: Number of teachers in ESG1 and in ESG2 and percentage of teachers with appropriate pedagogical training, 2004-2011 (daytime classes, public education) 76
+Graph 10: Graduates from ESG1 and ESG2 and academic attainment rates, per shifts, 2004-2010 (public education) 77
+Graph 11: Number of students in ESG 1 and 2, and pupil/class ratios, 2004-2011 (daytime classes, public education) 78
 
 viii
 
@@ -147,22 +332,25 @@ EB | Bilingual Education
 EP | Primary Education
 EP1 | Lower Primary Education (grades 1 to 5)
 EP2 | Upper Primary Education (grades 6 and 7)
-E-PAF/ | Education Sector Performance Assessment Framework
-EPC EPT/EFA | Comprehensive Primary Education (grades 1 to 7) Education For All
+E-PAF/E-QAD | Education Sector Performance Assessment Framework
+EPC | Comprehensive Primary Education (grades 1 to 7)
+EPT/EFA | Education For All
 ESG | General Secondary Education
 ESG1 | General Secondary Education (1st cycle (lower), grades 8 to 10)
 ESG2 | General Secondary Education (2nd cycle (upper), grades 11 and 12)
+F | Female
 FAO | Food and Agriculture Organization of the United Nations
 FASE/ESSP | Education Sector Support Fund
 FC/CF | Catalytic Fund (FTI)
-FNUAP/ UNFPA | United Nations Population Fund
+FNUAP/UNFPA | United Nations Population Fund
 FTI | Fast Track Initiative
-FUNDEC GBS | Skills Development Fund General Budget Support
+FUNDEC | Skills Development Fund
+GBS | General Budget Support
 GCC | Joint Coordination Committee
 GoM | Government of Mozambique
 GPE | Global Partnership for Education (previously FTI)
-GTPGF/ WGPFM | Planning and Financial Management Working Group
-GTZ/GIZ | Deutsche Gesellschaft für Internationale (Technische) Zusammenarbeit) German (Technical) International Cooperation
+GTPGF/WGPFM | Planning and Financial Management Working Group
+GTZ/GIZ | Deutsche Gesellschaft für Internationale (Technische) Zusammenarbeit) / German (Technical) International Cooperation
 HE | Higher Education
 HEIs | Higher Education Institutes
 HIV and AIDS | Human Immunodeficiency Virus (HIV) Acquired Immunodeficiency Syndrome (AIDS)
@@ -184,7 +372,7 @@ INEFP | National Employment and Vocational Training Institute
 --- | ---
 INSIDA | National Survey on Prevalence, Behavioural Risks and Information about HIV and AIDS
 IOF | Household Survey
-KFW | Kreditanstaltfür Wiederaufbau / German Development Bank
+KFW | Kreditanstalt für Wiederaufbau / German Development Bank
 MDGs | Millennium Development Goals
 MEC | Ministry of Education and Culture
 MEPT | Education for All Movement
@@ -227,33 +415,38 @@ PIREP | Integrated Technical and Vocational Education Programme
 --- | ---
 PMA/WFP | World Food Programme
 POEMA | Planning, Budgeting, Execution, Monitoring and Evaluation
-PQG | Government's Five-Year Plan
+PQG | Government’s Five-Year Plan
 QAD/PAF | Performance Evaluation Framework
 QIF | Quality Enhancement and Innovation Fund
 QNQP | National Vocational Qualifications Framework
-QUANQES RAR | National Higher Education Qualifications Framework Annual Review Meeting
+QUANQES | National Higher Education Qualifications Framework
+RAR | Annual Review Meeting
 REO/BER | Budget Execution Report
 REP | Vocational Education Reform
 RET | Technical Education Division
-SACMEQ | Southern and Eastern Africa Consortium for Monitoring Educational Quality Southern African Development Community
-SADC SAQEM | System of Education Quality Assessment in Mozambique
+SACMEQ | Southern and Eastern Africa Consortium for Monitoring Educational Quality
+SADC | Southern African Development Community
+SAQEM | System of Education Quality Assessment in Mozambique
 SDEJTs | District Services for Education, Youth and Technology
-SIGE SIGEDAP | Integrated Education Management System Public Administration Performance Management System
+SIGE | Integrated Education Management System
+SIGEDAP | Public Administration Performance Management System
 SINAQES | National System for Higher Education Evaluation, Accreditation and Quality Assurance
 SNATCA | National Academic Credits Accumulation and Transfer System
 SNE | National Education System
 STD | Sexually Transmitted Diseases
 SWAp | Sector Wide Approach
-TARV TICs/ICTs | Anti-Retroviral Treatment Information and Communication Technologies
+TARV | Anti-Retroviral Treatment
+TICs/ICTs | Information and Communication Technologies
 ToR | Terms of Reference
 TT | Teacher Training
 TVE(T) | Technical and Vocational Education (and Training)
 UGB | Beneficiary Management Unit
-UN | United Nations Entity for Gender Equality and the Empowerment of
-WOMEN
+UGE | Execution Management Unit
+UN WOMEN | United Nations Entity for Gender Equality and the Empowerment of Women
+UNAIDS | Joint United Nations Programme on HIV and AIDS
 UNDP | United Nations Development Programme
 UNESCO | United Nations Educational, Scientific and Cultural Organisation
-UNICEF | United Nations Children's Fund
+UNICEF | United Nations Children’s Fund
 
 xii
 
@@ -261,7 +454,10 @@ xii
 
 [[START OF PAGE 13]]
 
-UP Pedagogic University USAID United States Agency for International Development USD United States Dollar ZIP Pedagogic Influence Area (School Clusters)
+UP | Pedagogic University
+USAID | United States Agency for International Development
+USD | United States Dollar
+ZIP | Pedagogic Influence Area (School Clusters)
 
 xiii
 
@@ -285,19 +481,21 @@ Since the advent of Peace in 1992, every year more children are going to school 
 
 The success we have achieved to date is to a large extent the result of reforms introduced in our education system, particularly in Primary Education where an emphasis was placed on the: provision of free textbooks; elimination of school fees; introduction of a new curriculum; accelerated construction of classrooms; reform of the teacher training programme; and, the introduction of the Direct Support to Schools programme.
 
-However, there are still significant challenges to overcome. There is still a considerable number of children not enrolled in school, and there are many chil dren who, having entered into grade one, do not complete the full seven years of Primary Education. The teacher-student ratio is still very high. The fact that a significant number of children reach the end of the first cycle of their Primary Education without having developed the reading and writing skills set out in the curriculum raises concerns regarding the quality of education provided. Additionally, educational attainment or pass rates, particularly in grades 10 and 12 of Secondary Education, represent a source of concern.
+However, there are still significant challenges to overcome. There is still a considerable number of children not enrolled in school, and there are many children who, having entered into grade one, do not complete the full seven years of Primary Education. The teacher-student ratio is still very high. The fact that a significant number of children reach the end of the first cycle of their Primary Education without having developed the reading and writing skills set out in the curriculum raises concerns regarding the quality of education provided. Additionally, educational attainment or pass rates, particularly in grades 10 and 12 of Secondary Education, represent a source of concern.
 
 Looking ahead, the sector's concern lies with the need to improve linkages between graduates from the different levels of the National Education System and the labour market, particularly in the field of Technical and Vocational Education and Training. The reform programme in this sector focuses on the preparation of qualified graduates capable of responding to the demands of the private sector. The introduction of vocational subjects in secondary schools and in adult literacy education (AEA) centres is also part of this package of initiatives, which aims to prepare youth and adults for life.
 
 Let's learn
 
-Preface Let's learn Preface This 2012-2016 Education Strategic Plan, which I am honoured to preface, was prepared based on a self-assessment of the sector as well as of an external and independent evaluation, and takes into consideration the Government's priorities as well as its long-term strategic vision.
+Preface
 
 Preface |1
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+This 2012-2016 Education Strategic Plan, which I am honoured to preface, was prepared based on a self-assessment of the sector as well as of an external and independent evaluation, and takes into consideration the Government's priorities as well as its long-term strategic vision.
 
 The new 2012-2016 Strategic Plan focuses on the continued expansion of the Education System, within the possible limits to guarantee the quality of the educational services offered, through exploring several delivery modalities, including distance learning and benefitting from the potential of new technologies. In this context, special attention is paid to early childhood development as being crucial for our children's academic and social success and to the development of competencies to guarantee a qualified human resources base capable of innovating the production and delivery of goods and services.
 
@@ -307,9 +505,13 @@ Thank You Very Much To All!
 
 The implementation of the 2012-2016 Education Strategic Plan will require all stakeholders and members segments of society to unite. Since quality education is a task for each and every one of us: We are counting on you. Unconditionally.
 
-Augusto Jone Luis
+Augusto Jone Luís
 
 Minister of Education
+
+Let's learn
+
+Preface
 
 2| Preface
 
@@ -339,11 +541,17 @@ The Programme Document for the funding proposal to the Education for All-Fast Tr
 
 Increasing the provision of a quality education for all is one of the Government's main strategies for the reduction of poverty and the development of the Country.
 
-Although not all relevant to the Mozambican context, evidence from international studies has shown multiple benefits stemming from increased schooling for in- Let's learn Preface Summary
+Although not all relevant to the Mozambican context, evidence from international studies has shown multiple benefits stemming from increased schooling for in-
 
 > 1 The current name of this initiative is 'Global Partnership for Education'.
 
 > 2 USD 90 million financing from the international partnership through the Catalytic Fund and USD 71 million IDA from the World Bank.
+
+Let's learn
+
+Preface
+
+Summary
 
 Summary |3
 
@@ -351,11 +559,7 @@ Summary |3
 
 [[START OF PAGE 18]]
 
-Let's learn
-
-Preface
-
-Summary dividuals and society in general. It is estimated that just one additional year of schooling may result in a return of approximately 10% in terms of GDP3. Additionally, a better education of mothers is linked to a 50% of the reduction in under-5 child mortality4 rate indicating that a mother's education is an important factor in her children's educational potential.
+dividuals and society in general. It is estimated that just one additional year of schooling may result in a return of approximately 10% in terms of GDP3. Additionally, a better education of mothers is linked to a 50% of the reduction in under-5 child mortality4 rate indicating that a mother's education is an important factor in her children's educational potential.
 
 A study conducted by the World Bank5, comparing income levels and wealth between 2003 and 2008 showed that for Mozambique education is key to reducing families' dependence on subsistence agricultural production, and raising incomes6. The impact is more significant and direct for those who have completed Primary Education than for other levels of education.
 
@@ -381,6 +585,12 @@ In order to guarantee an effective and efficient implementation, it is also nece
 
 > 6 A study conducted by the World Bank in 2003 shows that the conclusion of some grades of primary education contributed to a 6% increase in per capita consumption levels in rural areas and 12% in urban areas, while the completion of EP1 doubled this effect.
 
+Let's learn
+
+Preface
+
+Summary
+
 4| Summary
 
 [[END OF PAGE 18]]
@@ -405,7 +615,7 @@ At the same time, the need to have a holistic vision on the further development 
 
 The sector's  commitment to preparing students for employment will be achieved through: i) increasing the number of graduates from General Secondary Education with both general and vocational competencies to facilitate their transition to employment and adulthood;  ii)  expanding  quality  competency-based Technical and Vocational Education that is responsive to the demands of the formal labour market, focusing on priority sectors and on emerging industries; and iii)    creating  short-term  training  opportunities  that respond  effectively  and  promptly  to  the  diversified demands for qualified human power.
 
-At the same time, the expansion of literacy and nonformal  education  programmes  focused  on  the  acquisition of life skills, should reduce illiteracy and increase the capacity of these students to take control of their personal and family lives.
+At the same time, the expansion of literacy and non-formal education programmes focused on the acquisition of life skills, should reduce illiteracy and increase the capacity of these students to take control of their personal and family lives.
 
 The consolidation of the reforms initiated in Higher Education should secure  a strengthening of the intellectual, scientific, technological and cultural capacity required  for  the  Country's  socioeconomic  development.
 
@@ -413,7 +623,7 @@ Let's learn
 
 Preface
 
-Summary Let's learn Preface Summary
+Summary
 
 Summary |5
 
@@ -439,7 +649,13 @@ An increase to financial, material and human resources directly benefiting schoo
 
 In addition to increasing the financial resources, it is crucial to have teachers that are better prepared, motivated and supported in order to ensure that their students are learning. This highlights the need for investments aimed at improving teacher training, on-going assessments of student learning, and incentives to encourage better performance.
 
-In order for the financial and human resources to have the desired impact on students' performance, focus will be on improving  school  management  through,  amongst  other things:  greater attention to the selection, placement and capacity  building  of  school  managers;  school  supervision and  monitoring;  capacity  building  of  school  councils  to contribute more effectively to school management and accountability.
+In order for the financial and human resources to have the desired impact on students' performance, focus will be on improving school management through, amongst other things: greater attention to the selection, placement and capacity building of school managers; school supervision and monitoring; capacity building of school councils to contribute more effectively to school management and accountability.
+
+Let's learn
+
+Preface
+
+Summary
 
 6| Summary
 
@@ -499,11 +715,11 @@ Through its National Development Plans the Government continues to prioritise in
 
 > 8 Source: Poverty and Well-being in Mozambique: Third National Evaluation - MPD/DNEAP, Mozambique, September, 2010.
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -513,11 +729,11 @@ Context |9
 
 [[START OF PAGE 24]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -537,11 +753,11 @@ Poverty Reduction Strategy Paper (PRSP/PARP): presents the Government's medium-t
 
 Medium Term Fiscal Framework (CFMP): defines the limits for the medium term implementation of the PARP (three years).
 
-Sector and Provincial Strategic Plans: present the Government's main ob- jectives (in the PQG) to be achieved by the ministries and provinces in the medium-term and the specific strategies for their execution.
+Sector and Provincial Strategic Plans: present the Government's main objectives (in the PQG) to be achieved by the ministries and provinces in the medium-term and the specific strategies for their execution.
 
-Social and Economic Plan (Report) ((Bd)PES): operationalizes the general lines of the PQG and the PARP, translating sector or provincial strategies into concrete actions to be implemented in the current year.  Their implementa- tion is evaluated on a half-yearly basis through the BdPES.
+Social and Economic Plan (Report) ((Bd)PES): operationalizes the general lines of the PQG and the PARP, translating sector or provincial strategies into concrete actions to be implemented in the current year. Their implementation is evaluated on a half-yearly basis through the BdPES.
 
-State Budget (Execution Report) (BER/(R)OE): defines the funds made avail- able to implementation of the actions specified in the PES. Their execution is monitored on a quarterly basis through the Budget Execution Report.
+State Budget (Execution Report) (BER/(R)OE): defines the funds made available to implementation of the actions specified in the PES. Their execution is monitored on a quarterly basis through the Budget Execution Report.
 
 Programme of Activities (PdA): translates the actions identified in the PES into concrete activities linking them  to the budget made available for their implementation (through the State Budget or other known contributions, but not included in the budget).
 
@@ -563,7 +779,7 @@ The Strategic Matrix, summarizing the sector´s strategic objectives and priorit
 
 Mozambique has 11 provinces with a population of 20.6 million (2007) who share a vast sociocultural, linguistic and geographic diversity. There are 18 national languages and many more dialects. Approximately 70% of the population live in the rural areas. The nation's capital, Maputo City, is home to approximately 5.3% of the population. The two most populated provinces Nampula and Zambézia, are home to approximately 40% of the nation's population.  According to the 2007 Census, more than half the population (51.8%) is female ranging from 55% in the provinces of Gaza and Inhambane, to 50.5% in the provinces of Nampula and Niassa. The annual population growth rate is 2.6%.
 
-More than half the population (52%) falls within the ages of 0-18. Specifically, 20% of the population is between the ages of 6 and 12. This large base of nonproductive youth place a great strain on the country's economy which must strive to deliver basic social and economic services to this large group of consumers This situation is further exacerbated by the high HIV prevalence rates (see 5.2.4, page 45).
+More than half the population (52%) falls within the ages of 0-18. Specifically, 20% of the population is between the ages of 6 and 12. This large base of non-productive youth place a great strain on the country's economy which must strive to deliver basic social and economic services to this large group of consumers This situation is further exacerbated by the high HIV prevalence rates (see 5.2.4, page 45).
 
 Reconstruction of the country, after a civil war that lasted 16 years, began with the signing of the National Peace Agreement in 1992. Since then, the country's economy has been growing steadily at approximately 7-8% per year (GDP). Inflation is approximately 10%. State expenditure represents approximately 30% of the GDP and expenditures financed by external resources through grants and credits represent around 45% of the State Budget (SB/OE).
 
@@ -573,11 +789,11 @@ Economic growth over the last few years has facilitated the expansion of basic s
 
 > 10 Source: Multiple Indicator Cluster Survey (MICS), INE, Mozambique, 2008.
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -615,7 +831,7 @@ Non-school based education covers literacy activities, cultural and scientific c
 
 Public Primary Education is free and is divided into two levels: Lower Primary Education (EP1, from grade 1 to 5) and Upper Primary Education (EP2, grades 6 and 7). With the introduction of the new curriculum in 2004, this level of education was restructured to 3 learning cycles aimed at offering seven years of basic education to all: 1st cycle (grades 1 and 2), 2nd cycle (grades 3 to 5) and 3rd cycle (grades 6 and 7). The official age for entering grade 1 is six years of age.
 
-Primary schools normally operate in two shifts of 6 classes (45 minutes per class), one in the morning and the other in the afternoon. In order to accommodate the expansion of the system, some primary schools, particularly in the cities, operate in 3 shifts of 5 classes (40 minutes each). Some schools also offer EP2 in evening classes, but this is on the decline. Less than 2% of students are enrolled in private community-led primary schools.
+Primary schools normally operate in two shifts of 6 classes (45 minutes per class), one in the morning and the other in the afternoon. In order to accommodate the expansion of the system, some primary schools, particularly in the cities, operate
 
 > 11 Law 6/92, published in the BR, no. 19 (1st series), 6th May, 1992. It must be noted that in some aspects the Law is outdated, particularly in that which concerns vocational and technical education. It is expected that the Law will be revisited after the Plan is approved.
 
@@ -624,6 +840,8 @@ Primary schools normally operate in two shifts of 6 classes (45 minutes per clas
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+in 3 shifts of 5 classes (40 minutes each). Some schools also offer EP2 in evening classes, but this is on the decline. Less than 2% of students are enrolled in private community-led primary schools.
 
 After completing their Primary Education, students may continue their studies in General Secondary Education or in basic level Technical and Vocational Education facilities.
 
@@ -825,7 +1043,7 @@ Vision
 
 For many years, the sector has benefited from technical and financial support from several international partners. There are different formats of dialogue between the Ministry and its partners.
 
-Dialogue with the group of cooperation partners (CPs) subscribing to the international agenda on aid effectiveness (see 2.3.3, page 19) is based on the Terms of Ref erence (TOR). These TORs define the dialogue between the Ministry and its partners in terms of a sector approach. This implies channelling their financial and technical support to implement a Plan with a single budget, designed, managed and implemented by the Government.
+Dialogue with the group of cooperation partners (CPs) subscribing to the international agenda on aid effectiveness (see 2.3.3, page 19) is based on the Terms of Reference (TOR). These TORs define the dialogue between the Ministry and its partners in terms of a sector approach. This implies channelling their financial and technical support to implement a Plan with a single budget, designed, managed and implemented by the Government.
 
 The present arrangement14 between the Ministry and the CPs was established with the preparation of the first Sector Strategic Plan in 1998. Over the years, cooperation has strengthened and evolved into an open, transparent and frank dialogue at political and technical levels.
 
@@ -967,7 +1185,7 @@ teacher training system, and the annual increase in the recruitment of newly tra
 
 Special attention was paid to improving the planning, financial management and monitoring system to implement the sector's programmes through the decentralization of responsibilities and financial resources to the school level.
 
-In a perspective of providing equitable, quality education, the sector's main inter ventions included specific actions and cross-cutting issues aimed at guaranteeing that every person was given the opportunity to benefit from educational services, irrespective of sex, religion, economic and social situation or other particularities 18 .
+In a perspective of providing equitable, quality education, the sector's main interventions included specific actions and cross-cutting issues aimed at guaranteeing that every person was given the opportunity to benefit from educational services, irrespective of sex, religion, economic and social situation or other particularities18.
 
 18 Including people with disabilities, HIV status, etc.
 
@@ -1011,22 +1229,22 @@ The Government's efforts in recent years have resulted in the development of an 
 
 Between 2004 and 2011, the number of students enrolled in upper Primary Education (EP2) almost doubled, while the number of students enrolled in Secondary Education almost tripled in the first cycle and increased almost fourfold in the second cycle.
 
-Level | Schools | Number of
---- | --- | --- | --- | --- | ---
-2007 | 2011 | 2004 ∆2004/ 2011
-Primary EP1 | 9,522 | 10,988 | 28% | 8,603 EP2
-Education | 1,203 | 1,948 | 3,656 | 204% | EP2/EP1
-14% | 20% 372 | 33% | ESG1 226
-Secondary | 561 | 148% | ESG2 | 70
-Education | 120 | 228 | 226% | ESG2/ESG1 | 31%
-32% | 41% 59 | Elementary/Basic | 46
-Technical cational | 98 | 113% | Medium | 9 | 14
-Education | 47 | 422% | Medium/ Basic | 20% | 24%
-48% 17 | Public | 9
-Higher Education* | 89% | Private | 8 | 21
-163%
-
 Table 2: School network per level of education taught, 2004, 2007 and 2011 (public, private and community education)
+
+Level |  | Number of Schools |  |  | Growth
+--- | --- | --- | --- | --- | ---
+ |  | 2004 | 2007 | 2011 | ∆2004/2011
+Primary Education | EP1 | 8,603 | 9,522 | 10,988 | 28%
+ | EP2 | 1,203 | 1,948 | 3,656 | 204%
+ | EP2/EP1 | 14% | 20% | 33% |
+Secondary Education | ESG1 | 226 | 372 | 561 | 148%
+ | ESG2 | 70 | 120 | 228 | 226%
+ | ESG2/ESG1 | 31% | 32% | 41% |
+Technical and Vocational Education | Elementary/Basic | 46 | 59 | 98 | 113%
+ | Medium | 9 | 14 | 47 | 422%
+ | Medium/ Basic | 20% | 24% | 48% |
+Higher Education* | Public | 9 |  | 17 | 89%
+ | Private | 8 |  | 21 | 163%
 
 (*) For Higher Education, the data cover the years 2004 and 2010.
 
@@ -1038,25 +1256,27 @@ Table 2: School network per level of education taught, 2004, 2007 and 2011 (publ
 
 [[START OF PAGE 39]]
 
-2004 | 2007 | 2011 | Growth
---- | --- | --- | --- | --- | --- | --- | ---
-Level | MF | %F | MF | %F | MF | %F | 2004/ 2011
-EP1 | 3,138,576 | 45.9% | 3,932,006 | 47.0% | 4,442,260 | 47.7% | 42%
-EP2 | 491,402 | 41.3% | 712,370 | 43.6% | 871,733 | 46.3% | 77%
-Total | 3,629,978 | 45.3% | 4,644,376 | 46.4% | 5,313,993 | 47.5% | 46%
-ESG1 | 286,185 | 40.9% | 519,236 | 43.2% | 761,589 | 47.3% | 166%
-ESG2 | 45,685 | 39.2% | 95,779 | 40.7% | 191,320 | 45.7% | 319%
-Total | 331,870 | 40.7% | 615,015 | 42.8% | 952,909 | 47.0% | 187%
-Basic | 27,609 | 30.4% | 33,709 | 31.1% | 30,021 | 32.6% | 9%
-Me- dium | 4,616 | 28.9% | 6,505 | 22.9% | 14,655 | 36.4% | 217%
-Total | 32,225 | 30.2% | 40,214 | 29.8% | 44,676 | 33.9% | 39%
-Public | 15,113 | 51,001 | 72,636 | 381%
-Private | 7,143 | 12,475 | 28,726 | 302%
-Total | 22,256 | 31.6% | 63,476 | 38.1% | 101,362 | 38.3% | 355%
-
 Table 3: Number of students and percentage of girls per level of education, 2004, 2007 and 2011 (daytime and evening classes, public, community and private education)
 
-MF: Total students (both sexes). %F: Percentage of female students. (*) For Technical and Vocational Education, the information provided is limited to the information available in MINED's database, which does not reflect all institutions offering this type of training. (**) Data refer to the year 2010.
+Level |  | 2004 |  | 2007 |  | 2011 |  | Growth
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | MF | %F | MF | %F | MF | %F | 2004/2011
+Primary Education | EP1 | 3,138,576 | 45.9% | 3,932,006 | 47.0% | 4,442,260 | 47.7% | 42%
+ | EP2 | 491,402 | 41.3% | 712,370 | 43.6% | 871,733 | 46.3% | 77%
+ | Total | 3,629,978 | 45.3% | 4,644,376 | 46.4% | 5,313,993 | 47.5% | 46%
+Secondary Education | ESG1 | 286,185 | 40.9% | 519,236 | 43.2% | 761,589 | 47.3% | 166%
+ | ESG2 | 45,685 | 39.2% | 95,779 | 40.7% | 191,320 | 45.7% | 319%
+ | Total | 331,870 | 40.7% | 615,015 | 42.8% | 952,909 | 47.0% | 187%
+Technical Vocational Education* | Basic | 27,609 | 30.4% | 33,709 | 31.1% | 30,021 | 32.6% | 9%
+ | Medium | 4,616 | 28.9% | 6,505 | 22.9% | 14,655 | 36.4% | 217%
+ | Total | 32,225 | 30.2% | 40,214 | 29.8% | 44,676 | 33.9% | 39%
+Higher Education** | Public | 15,113 |  | 51,001 |  | 72,636 |  | 381%
+ | Private | 7,143 |  | 12,475 |  | 28,726 |  | 302%
+ | Total | 22,256 | 31.6% | 63,476 | 38.1% | 101,362 | 38.3% | 355%
+
+MF: Total students (both sexes). %F: Percentage of female students.
+(*) For Technical and Vocational Education, the information provided is limited to the information available in MINED's database, which does not reflect all institutions offering this type of training.
+(**) Data refer to the year 2010.
 
 ### 3.3.2 A more balanced system
 
@@ -1081,6 +1301,7 @@ The Implementation of the Strategic Plan for Education and Culture 2006-2010/11 
 [[START OF PAGE 40]]
 
 Graph 2: Evolution in the percentage of girls enrolled in Primary and Secondary Education (1st and 2nd cycle), 2004-2011
+(daytime classes, public, private and community education)
 
 Summary
 
@@ -1093,8 +1314,6 @@ Context
 Vision
 
 PEEC 06-11
-
-(daytime classes, public, private and community education)
 
 As is shown in Graph 2, in recent years the proportion of girls enrolled in Primary Education and in the 1st cycle of Secondary Education has increased steadily. Most progress can be observed for the 1st cycle of Secondary Education where the percentage of girls increased from 41% to 47%.
 
@@ -1112,12 +1331,12 @@ Graph 3: Percentage of girls enrolled in Primary Education, 2004 and 2011 (dayti
 
 Expansion of Primary Education was accompanied by a quantitative and qualitative increase in financial and human resources.
 
-2006 | 2008 | 2009 | 2010 | 2011
+Table 4: Evolution in the number of teachers recruited and in the pupil/teacher ratio 2006-2011 (public Primary Education)
+
+ | 2006 | 2008 | 2009 | 2010 | 2011
 --- | --- | --- | --- | --- | ---
 Number of new teachers employed, EP | 4,000 | 7,717 | 9,400 | 9,800 | 8,500
 Pupil-Teacher Ratio, EP1 | 75 | 72 | 69 | 66 | 63
-
-Table 4: Evolution in the number of teachers recruited and in the pupil/ teacher ratio 2006-2011 (public Primary Education)
 
 Increases in the number of new teachers employed contributed to a reduction in the pupil/teacher ratio in EP1.
 
@@ -1259,6 +1478,8 @@ Total
 
 Table 5 shows a significant increase in the percentage of female teachers, particularly in Primary Education, demonstrating the priority placed upon the initial training of teachers as well as the employment of female teachers.
 
+Table 6: Total teachers and percentage of teachers without pedagogical training in EP1, EP2 and ESG1, 2004-2011 (daytime classes, public and community education)
+
 Year | EP1 | EP2 | ES1
 --- | --- | --- | --- | --- | --- | ---
 Total | %W/T | Total | %W/T | Total | %W/T
@@ -1270,8 +1491,6 @@ Total | %W/T | Total | %W/T | Total | %W/T
 2009 | 62,174 | 32% | 19,688 | 21% | 10,611 | 30%
 2010 | 67,121 | 26% | 22,084 | 19% | 11,978 | 25%
 2011 | 70,448 | 21% | 23,149 | 17% | 12,776 | 21%
-
-Table 6: Total teachers and percentage of teachers without pedagogical training in EP1, EP2 and ESG1, 2004-2011 (daytime classes, public and community education)
 
 %W/T: Percentage of teachers without pedagogical training.
 
@@ -1309,7 +1528,7 @@ As from 2008, the proportion of teachers without pedagogical training (Table 6) 
 
 The Education sector's budget, and its execution, increased considerably over recent years (see Graph 4).
 
-Graph 4: Evolution of the Education sector's budget and its execution, 20052010
+Graph 4: Evolution of the Education sector's budget and its execution, 2005-2010
 
 (Source: CGE 2004-2009, REO 2010).
 
@@ -1335,19 +1554,19 @@ This progress has contributed to an increasingly educated population. The propor
 
 Despite a significant increase in the number of graduates since 2004, from 2008 the sector has noted a problematic drop in academic attainment (pass rate) at all levels.
 
-2004 | 2007 | 2011 | Variation in number of students 2004/11
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Sex | No. of students | Attain- ment % | No. of students | Attain- ment %. | No. of students | Attain- ment %
-Grade 5 | F | 98.632 | 68% | 169.071 | 72% | 184.462 | 65% | 87%
-MF | 240.354 | 69% | 377.905 | 71% | 393.262 | 64% | 64%
-Grade 7 | F | 66.658 | 73% | 97.736 | 72% | 127.680 | 63% | 92%
-MF | 165.174 | 75% | 228.824 | 73% | 275.727 | 63% | 67%
-Grade 10 | F | 12.219 | 39% | 30.486 | 60% | 46.404 | 42% | 280%
-MF | 32.728 | 44% | 74.674 | 64% | 101.872 | 44% | 211%
-Grade 12 | F | 2.877 | 37% | 6.817 | 47% | 16.953 | 47% | 489%
-MF | 7.917 | 41% | 17.861 | 50% | 38.651 | 49% | 388%
-
 Table 7: Evolution in the number of graduates, per level of education and sex, 2004-2011 (daytime and evening classes, public, community and private education)
+
+Grade | Sex | 2004 |  | 2007 |  | 2011 |  | Variation in number of students 2004/11
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | No. of students | Attainment % | No. of students | Attainment %. | No. of students | Attainment % |
+Grade 5 | F | 98.632 | 68% | 169.071 | 72% | 184.462 | 65% | 87%
+ | MF | 240.354 | 69% | 377.905 | 71% | 393.262 | 64% | 64%
+Grade 7 | F | 66.658 | 73% | 97.736 | 72% | 127.680 | 63% | 92%
+ | MF | 165.174 | 75% | 228.824 | 73% | 275.727 | 63% | 67%
+Grade 10 | F | 12.219 | 39% | 30.486 | 60% | 46.404 | 42% | 280%
+ | MF | 32.728 | 44% | 74.674 | 64% | 101.872 | 44% | 211%
+Grade 12 | F | 2.877 | 37% | 6.817 | 47% | 16.953 | 47% | 489%
+ | MF | 7.917 | 41% | 17.861 | 50% | 38.651 | 49% | 388%
 
 ## 3.4 Major Challenges
 
@@ -1495,7 +1714,7 @@ The need to steer teacher training toward a more practical Primary Education, fo
 
 In the coming years, the sector will continue with its efforts directed at creating the necessary conditions to transform the current system into an Education System as reflected in point 2, page 17 23 .
 
-Considering the current state of the Education sector (see chapter 3, from page 23 on), the Government will continue to prioritize the provision of a seven-year Primary Education for all children, giving them the opportunity to enrol in and complete  seven  years  of  quality  Primary  Education.  Primary  Education  should guarantee that all children acquire basic skills in reading, writing, mathematics, natural and social sciences, as well as in physical, aesthetic and cultural education, preparing them to pursue their studies at the next level. Also from the perspective of the right to basic education, the sector will continue its efforts to expand literacy programmes, mobilising different partners at both Government and nonGovernment level.
+Considering the current state of the Education sector (see chapter 3, from page 23 on), the Government will continue to prioritize the provision of a seven-year Primary Education for all children, giving them the opportunity to enrol in and complete seven years of quality Primary Education. Primary Education should guarantee that all children acquire basic skills in reading, writing, mathematics, natural and social sciences, as well as in physical, aesthetic and cultural education, preparing them to pursue their studies at the next level. Also from the perspective of the right to basic education, the sector will continue its efforts to expand literacy programmes, mobilising different partners at both Government and non-Government level.
 
 Considering that the quality of learning, particularly in Primary Education, is directly linked to children's physical and cognitive development at the time of entering school, greater attention will be given to early childhood development, from the perspective of integrating pre-Primary Education in the National Education System and encouraging a holistic and integrated approach at Government level, aimed at the development of children in the pre-school age (0-5 years).
 
@@ -1541,11 +1760,11 @@ Priority will continue to be given to improving institutional capacity, particul
 
 ## 4.2 Linkage with the Government's plans for the Country's development
 
-The priorities set out in the Strategic Plan are in line with the Government's FiveYear Plan (PQG 2010-2014), which prioritises quality Primary Education for all and promotes a more relevant Education to stimulate and sustain the country's development.
+The priorities set out in the Strategic Plan are in line with the Government's Five-Year Plan (PQG 2010-2014), which prioritises quality Primary Education for all and promotes a more relevant Education to stimulate and sustain the country's development.
 
-The Plan has been aligned with the Poverty Reduction Strategy Paper (PARP 20112015), which indicates the need to improve and expand Education and vocational training opportunities, in order to have educated citizens that can contribute to '…increasing agricultural production and productivity and job creation' (self-employment) and, at the same time, '… addressing the needs of emerging industries in the strategic sectors'.
+The Plan has been aligned with the Poverty Reduction Strategy Paper (PARP 2011-2015), which indicates the need to improve and expand Education and vocational training opportunities, in order to have educated citizens that can contribute to '…increasing agricultural production and productivity and job creation' (self-employment) and, at the same time, '… addressing the needs of emerging industries in the strategic sectors'.
 
-Acknowledging that the Mozambican economy is essentially agricultural, with still a very small formal sector and informal economic activity concentrated in smallscale trade, acquiring basic skills on a large scale by universalising Primary Education will be fundamental to increase the country's productivity 24 in the short- and medium-term.
+Acknowledging that the Mozambican economy is essentially agricultural, with still a very small formal sector and informal economic activity concentrated in small-scale trade, acquiring basic skills on a large scale by universalising Primary Education will be fundamental to increase the country's productivity24 in the short- and medium-term.
 
 At the same time, it is important to create a pool of well-trained specialists to serve and develop the formal sector through good quality Technical and Vocational Education and Training, and Higher Education.
 
@@ -1577,7 +1796,7 @@ Furthermore, the sector will promote the diversification of education modalities
 
 At the core of this strategic plan is the critical concern for  the  quality  of  education,  in  particular,    student performance.
 
-Improving the quality of education is a complex matter. The outcome of the educational process does not depend solely on the resources made available, but rather on a set of internal factors, including physical, psychological and sociocultural factors, in which education  plays  a  part,  as  does  the  classroom  teaching and learning process. It also includes external factors such  as  families'  socioeconomic  conditions,  home/ school distance, commitment of parents and guardians, among others, which contribute not only to an exclusion from participating, but also from learning.
+Improving the quality of education is a complex matter. The outcome of the educational process does not depend solely on the resources made available, but rather on a set of internal factors, including physical, psychological and sociocultural factors, in which education plays a part, as does the classroom teaching and learning process. It also includes external factors such as families' socioeconomic conditions, home/school distance, commitment of parents and guardians, among others, which contribute not only to an exclusion from participating, but also from learning.
 
 Let's learn
 
@@ -1683,25 +1902,25 @@ The Strategic Plan reflects the new programming approach prepared by the Ministr
 
 This new approach is based on a three-dimensional structure (Table 9, page 41), which defines as sector programmes the levels of education and administrative and institutional development, namely:
 
-- Pre-Primary and Primary Education;
+1. Pre-Primary and Primary Education;
 
-- Adult Literacy and Education;
+2. Adult Literacy and Education;
 
-- General Secondary Education;
+3. General Secondary Education;
 
-- Technical and Vocational Education;
+4. Technical and Vocational Education;
 
-- Higher Education;
+5. Higher Education;
 
-- Administrative and Institutional Development.
+6. Administrative and Institutional Development.
 
 For each of the six sector programmes one general objective 27 and three strategic objectives have been defined reflecting the primary focuses of the sector for the coming years in terms of (see 4.3, page 37):
 
-- Access and retention: guarantee inclusion and equity;
+i) Access and retention: guarantee inclusion and equity;
 
-- ii) Quality: improve student learning;
+ii) Quality: improve student learning;
 
-- iii)	 Institutional development: promote good governance.
+iii) Institutional development: promote good governance.
 
 Targets, priorities and main strategies are defined for each of the strategic objectives in order to guarantee their realisation.
 
@@ -1715,7 +1934,7 @@ This  programming per level  of  education,  organised  into  three  strategic  
 
 Let's learn
 
-Peface
+Preface
 
 Summary
 
@@ -1727,9 +1946,9 @@ PEEC 06-11
 
 Priorities
 
-Struture This approach was introduced with the objective of better reflecting the sector's main mission: to improve the supply of quality educational services for all citizens, at each level of education.
+Structure
 
-Struture and cross-cutting issues |39
+Structure and cross-cutting issues |39
 
 [[END OF PAGE 53]]
 
@@ -1749,9 +1968,27 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
 
 Table 9: Sector programmes, strategic objectives and priority actions
+
+Strategic Objectives
+
+Pre and Primary Education
+
+Literacy and Adult Education
+
+General Secondary Education
+
+Vocational and Technical Education
+
+Higher Education
+
+Institutional and Admin. Development
+
+Access
+
+Inclusion at entry and retention
 
 Improvement of the physical school infrastructure and conditions
 
@@ -1760,6 +1997,10 @@ Advocacy and communication on the importance of education, avoiding exclusion
 Diversification and flexibility of the supply through different modalities (ODL, NFE…)
 
 Social support and protection, targeting the most vulnerable
+
+Quality
+
+Student Learning
 
 Provision of text books and teaching materials
 
@@ -1771,7 +2012,11 @@ Strengthening of school management
 
 Compliance with quality standards in education
 
-Development and professional management of the resources  (human, material and financial)
+Institutional Development
+
+Good Governance
+
+Development and professional management of the resources (human, material and financial)
 
 Dissemination of information and internal and external communication
 
@@ -1779,73 +2024,7 @@ Improvement of planning, budgeting, execution, monitoring and evaluation systems
 
 Integration of cross-cutting issues in the sector programmes, safe-guarding human rights
 
-Inclusion at
-
-entry
-
-and
-
-retention
-
-Student
-
-Learning
-
-Good
-
-Governance
-
-Strategic
-
-Objectives
-
-Access
-
-Quality
-
-Institutional
-
-Development
-
-Institutional
-
-and
-
-Admin.
-
-Development
-
-Higher
-
-Education
-
-Vocational
-
-and
-
-Technical
-
-Education
-
-General
-
-Secondary
-
-Education
-
-Literacy
-
-and
-
-Adult
-
-Education
-
-Pre and
-
-Primary
-
-Education
+This approach was introduced with the objective of better reflecting the sector's main mission: to improve the supply of quality educational services for all citizens, at each level of education.
 
 ## 5.2 Treatment of cross-cutting issues
 
@@ -1853,13 +2032,13 @@ Education
 
 The Government's 2010-2014 Five-Year Programme calls the sectors' attention to the need to comply with the integration of cross-cutting issues in sector policies and programmes. The same principle was promoted in the 2006-2010/11 PEEC, with a view to ensuring greater coherence at sector level and guarantee national coverage through sustainable interventions.
 
-This coherence should be guaranteed through an effective integration of crosscutting issues (Gender equality and equity, School Health, HIV and AIDS, School Sports and School Production and Feeding) in all of the sector's programmes and in the planning, budgeting and monitoring processes.
+This coherence should be guaranteed through an effective integration of cross-cutting issues (Gender equality and equity, School Health, HIV and AIDS, School Sports and School Production and Feeding) in all of the sector's programmes and in the planning, budgeting and monitoring processes.
 
 Some progress was made in terms of integrating cross-cutting issues, particularly in terms of gender equality and equity; however, the issue of HIV and AIDS prevention and mitigation still remains a challenge. This topic continued to be addressed through specific interventions (basic life skills package, Geração Biz programme, workplace HIV and AIDS programme), with an added organisational and financial structure to guide its implementation and monitoring.
 
 In  this  strategic  plan,  and  in  accordance  with  the  new  programming approach, cross-cutting issues are dealt with by the different sector programmes through three strands, namely:
 
-40| Struture and cross-cutting issues
+40| Structure and cross-cutting issues
 
 [[END OF PAGE 54]]
 
@@ -1883,11 +2062,11 @@ At an institutional level, gender balance was promoted in the planning and manag
 
 All of these policies contributed to a reduction in gender disparities, as already mentioned in 3.3.2, page 27, not only in terms of access, but also in terms of retention in the system, as is shown in Graph 2, page 27. Despite the progress made, there are still significant challenges in reducing gender disparities. The solution depends on several factors, both internal and external to the sector, relating to the demand for and supply of educational opportunities, which are strongly influenced by the country's socioeconomic and cultural situation.
 
-> 28 We refer to the Gender Integration Action Plan (PAIG), which was implemented with the 19992005 PEE. A Strategic Plan for the period 2012-2016 is currently being prepared.
+> 28 We refer to the Gender Integration Action Plan (PAIG), which was implemented with the 1999-2005 PEE. A Strategic Plan for the period 2012-2016 is currently being prepared.
 
 Let's learn
 
-Peface
+Preface
 
 Summary
 
@@ -1899,9 +2078,9 @@ PEEC 06-11
 
 Priorities
 
-Struture Also, it is still necessary to review the curricula, particularly in relation to teaching materials, in terms of their sensitivity to gender issues. The PEEC evaluation noted that '….Globally, gender issues are not enhanced in the Primary Education curriculum and teaching materials (including those for teacher training).'
+Structure
 
-Struture and cross-cutting issues |41
+Structure and cross-cutting issues |41
 
 [[END OF PAGE 55]]
 
@@ -1921,7 +2100,9 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
+
+Also, it is still necessary to review the curricula, particularly in relation to teaching materials, in terms of their sensitivity to gender issues. The PEEC evaluation noted that “….Globally, gender issues are not enhanced in the Primary Education curriculum and teaching materials (including those for teacher training).”
 
 The gender strategy (under preparation) defines the actions through three main focusses of the sector for the coming years, namely:
 
@@ -1943,7 +2124,7 @@ Implementing the concept of inclusive schools is complex and requires teachers t
 
 > 29 Schooling rates at six years of age seems to have stagnated at 70% (see 6.1.2, under 'Enrolment at the right age', page 56).
 
-42| Struture and cross-cutting issues
+42| Structure and cross-cutting issues
 
 [[END OF PAGE 56]]
 
@@ -1965,13 +2146,13 @@ The Education sector established four levels of action in the fight against HIV 
 
 - As a system: developing an institutional framework that allows the sector to respond appropriately to the HIV and AIDS pandemic, so that the Education sector's main missions are not placed at risk;
 
-- As  part  of  the  national  response:  developing  relationships  with  government  and  nongovernment partners for effective support in combating the propagation of HIV and AIDS.
+- As part of the national response: developing relationships with government and non-government partners for effective support in combating the propagation of HIV and AIDS.
 
 > 30 Refers to the total number of deceased, without specifying the cause of death.
 
 Let's learn
 
-Peface
+Preface
 
 Summary
 
@@ -1983,9 +2164,9 @@ PEEC 06-11
 
 Priorities
 
-Struture Although that the sector considers HIV and AIDS to be a cross-cutting issue, the sector's interventions in this area were initially designed as specific projects, with their own budgets and with specific implementation models. The greatest challenges for the future are to:
+Structure
 
-Struture and cross-cutting issues |43
+Structure and cross-cutting issues |43
 
 [[END OF PAGE 57]]
 
@@ -2005,11 +2186,13 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
 
-- Guarantee that HIV and AIDS prevention and mitigation interventions have national coverage;
+Although that the sector considers HIV and AIDS to be a cross-cutting issue, the sector's interventions in this area were initially designed as specific projects, with their own budgets and with specific implementation models. The greatest challenges for the future are to:
 
-- ii) Guarantee the development of institutional capacity (human and financial) to enable the implementation and sustainability of medium- and long-term interventions.
+i) Guarantee that HIV and AIDS prevention and mitigation interventions have national coverage;
+
+ii) Guarantee the development of institutional capacity (human and financial) to enable the implementation and sustainability of medium- and long-term interventions.
 
 These priorities can only be achieved by integrating and effectively including HIV and AIDS prevention and mitigation contents in the education system, in the different subsystems and levels of education, in text books and in other pertinent manners. Direct and permanent support also needs to be provided to schools and to the management of human resources in the Education sector.
 
@@ -2027,7 +2210,7 @@ A healthy and safe school environment is not only the responsibility of the Educ
 
 - Continuing to strengthen partnerships with the Ministries of: Health, to prioritise  vaccination  campaigns,  de-worming,  iron  administration,  etc.;
 
-44| Struture and cross-cutting issues
+44| Structure and cross-cutting issues
 
 [[END OF PAGE 58]]
 
@@ -2053,7 +2236,7 @@ Special attention is given to technical and vocational schools/institutions, whe
 
 ### 5.3.2 School feeding and nutrition
 
-The importance of a balanced and adequate diet to retain students in the system and ensure their academic performance is unquestionable. There is a high percent age of chronic malnutrition (approximately 44% in children up to the age of 5), with a negative impact on the cognitive development of these children and which is dif ficult to recover from. According to data from the World Food Programme (WFP), it is estimated that close to 100,000 children of school-going age live in areas of ex treme food insecurity. Many children begin their day without a meal, which makes concentrating at school difficult. Furthermore, 15% of children in the 6-12 age group has physical signs of iodine deficiency, which may contribute to serious physical or mental problems. The nutritional status of a child is linked, on the one hand, directly to the poverty of the family and, on the other, to the knowledge of what constitutes a good diet and its value.
+The importance of a balanced and adequate diet to retain students in the system and ensure their academic performance is unquestionable. There is a high percentage of chronic malnutrition (approximately 44% in children up to the age of 5), with a negative impact on the cognitive development of these children and which is difficult to recover from. According to data from the World Food Programme (WFP), it is estimated that close to 100,000 children of school-going age live in areas of extreme food insecurity. Many children begin their day without a meal, which makes concentrating at school difficult. Furthermore, 15% of children in the 6-12 age group has physical signs of iodine deficiency, which may contribute to serious physical or mental problems. The nutritional status of a child is linked, on the one hand, directly to the poverty of the family and, on the other, to the knowledge of what constitutes a good diet and its value.
 
 Improving the nutritional status of children requires a multi-sector approach. Recent studies show that the Education sector in Mozambique would need 25% 31  of its annual budget to guarantee school feeding for approximately six million children enrolled in all primary schools in the country.
 
@@ -2061,7 +2244,7 @@ Improving the nutritional status of children requires a multi-sector approach. R
 
 Let's learn
 
-Peface
+Preface
 
 Summary
 
@@ -2073,9 +2256,9 @@ PEEC 06-11
 
 Priorities
 
-Struture In order to guarantee the sustainability of the interventions, the focus of this sector will be on:
+Structure
 
-Struture and cross-cutting issues |45
+Structure and cross-cutting issues |45
 
 [[END OF PAGE 59]]
 
@@ -2095,7 +2278,9 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
+
+In order to guarantee the sustainability of the interventions, the focus of this sector will be on:
 
 - Integrating contents on nutrition in the curricula of the different levels of education and in parental education programmes (see 5.2.5, page 46), as a complement to the programmes developed by the Health sector;
 
@@ -2105,7 +2290,7 @@ Struture
 
 ### 5.3.3 School Sports
 
-The development of psychomotor skills is  of  vital  importance  to  the  teachinglearning process. The practice of sport and physical education in learning establishments, as well as the overall widespread participation in sports, has increased throughout the country over the last few years.
+The development of psychomotor skills is of vital importance to the teaching-learning process. The practice of sport and physical education in learning establishments, as well as the overall widespread participation in sports, has increased throughout the country over the last few years.
 
 The approach of the PEE 2012-2016 in this area will be to strengthen the process of training teachers and sports agents, to build and rehabilitate sports infrastructures and provide basic sports equipment to the school community.
 
@@ -2117,11 +2302,11 @@ A motivated, well-prepared and supported teacher is crucial to ensure that stude
 
 Training should be considered within the context of professionalization of teachers. This implies greater focus on in-service training and monitoring at school and classroom level, in addition to the attention given to pre-service training. This requires curricular guidance centred on the teacher's competencies and a greater link between a teacher's performance in the classroom and his/her career development (see 6.6.4, page 107).
 
-More coordination is needed between the different stakeholders in this area trainers (in public and private training institutions at each level of education), and managers (human resources directorates in the districts and provinces and school directors, etc.) and those responsible for the school curriculum.
+More coordination is needed between the different stakeholders in this area – trainers (in public and private training institutions at each level of education), and managers (human resources directorates in the districts and provinces and school directors, etc.) and those responsible for the school curriculum.
 
 Acknowledging the complexity and importance of the matter, a National Directorate for Teacher Training (DNFP) was created with the main mandate of improving the performance of teachers through, among other actions, ensuring a better integration of training with professional development and promoting better cooperation between the different stakeholders within and outside the Government.
 
-46| Struture and cross-cutting issues
+46| Structure and cross-cutting issues
 
 [[END OF PAGE 60]]
 
@@ -2147,7 +2332,7 @@ Strengthen the presence of ICTs in three major areas of intervention:
 
 Let's learn
 
-Peface
+Preface
 
 Summary
 
@@ -2159,9 +2344,9 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
 
-Struture and cross-cutting issues |47
+Structure and cross-cutting issues |47
 
 [[END OF PAGE 61]]
 
@@ -2181,13 +2366,13 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
 
 - Classroom - introducing ICTs in classrooms, as a learning tool to improving the quality of education and inducing a gradual transformation of the learning paradigm. Over the coming years, the challenge lies not only in teaching ICT as a subject but, above all, in gradually introducing ICTs as a tool for learning different subjects, making the learning process richer and more complete. It is planned that there will be a significant increase in equipped classrooms (PCs, video projectors, wireless points) with internet access,  as  well  an  adaptation  of  the  curriculum  and  the  introduction  of interactive contents to provide students with a richer educational experience,  capable  of  preparing  them  for  the  challenges  of  the  Mozambican economy.
 
 The long-term strategy aims to move toward a technology-supported interactive education (e-learning). This requires the updating and adoption of existing curricula  and  materials,  of  teacher  training,  and  of  the  equipment  in  schools  and in education institutes which places a significant weight on the system's existing capacity.
 
-48| Struture and cross-cutting issues
+48| Structure and cross-cutting issues
 
 [[END OF PAGE 62]]
 
@@ -2209,7 +2394,7 @@ Priority will be given to expanding the post-primary and teacher training levels
 
 Let's learn
 
-Peface
+Preface
 
 Summary
 
@@ -2221,9 +2406,9 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
 
-Struture and cross-cutting issues |49
+Structure and cross-cutting issues |49
 
 [[END OF PAGE 63]]
 
@@ -2241,19 +2426,19 @@ As already mentioned in 5.1, page 40, the Strategic Plan is addressed through th
 
 Table 10 reflects the general objective, per sector programme, and its indicator and target to assess the impact of the implementation of these programmes over the next five years.
 
-Sector programme | General Objective | Main Result Indicator | Basis 2011 | Target 2016
---- | --- | --- | --- | --- | ---
-(Pre) Primary Education | Guarantee that all children have the opportunity to complete a ba- sic quality education of 7 years | 1. Gross completion rate 1 | Total | 49% (2010) | 54% (2015)
-Girls | 45% (2010) | 51% (2015)
-Adult Literacy and Education | Increase opportunities so that more youth and adults become literate, with special attention to women and girls, | 2. Literacy rate | Total | 48,1% (2008) | 30%
-Women | 62,7% (2008) | 45%
-Secondary Education | Expand access to y Secondary Edu- cation in a controlled, equitable and sustainable manner, focusing on its quality and relevance | 3. Gross enrolment rate (ESG1) | Total | 46% | 50%
-Women | 43% | 47%
-Technical and Vocational Education | Improve access, relevance, ef- ficiency, efficacy and quality of Technical and Vocational Educa- tion, with a view to developing the Country | 4. % of graduates ab- sorbed by the labour market according to their training (PIREP | 27% (2007) | 60%
-Higher Education | Promote participation in and ac- cess to Higher Education that meets the country's socioeco- nomic development needs, guar- anteeing its efficacy, balance and sustainability | 5. Number of students in Higher Education institutions per 1.000 inhabitants | 3 (2009) | 5
-Administrative and Institutional Development | Strengthen the professional man- agement of the Education System at the different levels, particu- larly in the districts, with a view to improving the quality of equi- table educational service provision throughout the country | 6. Index of public sat- isfaction with the quality of education services | n/a | Satis- factory
+Table 10: General objectives, indicators and targets of the sector for the years 2012-2016, per sector programme
 
-Table 10:	 General objectives, indicators and targets of the sector for the years 2012-2016, per sector programme
+Sector programme | General Objective | Main Result Indicator |  | Basis 2011 | Target 2016
+--- | --- | --- | --- | --- | ---
+(Pre) Primary Education | Guarantee that all children have the opportunity to complete a basic quality education of 7 years | 1. Gross completion rate 1 | Total | 49% (2010) | 54% (2015)
+ |  |  | Girls | 45% (2010) | 51% (2015)
+Adult Literacy and Education | Increase opportunities so that more youth and adults become literate, with special attention to women and girls, | 2. Literacy rate | Total | 48,1% (2008) | 30%
+ |  |  | Women | 62,7% (2008) | 45%
+Secondary Education | Expand access to y Secondary Education in a controlled, equitable and sustainable manner, focusing on its quality and relevance | 3. Gross enrolment rate (ESG1) | Total | 46% | 50%
+ |  |  | Women | 43% | 47%
+Technical and Vocational Education | Improve access, relevance, efficiency, efficacy and quality of Technical and Vocational Education, with a view to developing the Country | 4. % of graduates absorbed by the labour market according to their training (PIREP programme) |  | 27% (2007) | 60%
+Higher Education | Promote participation in and access to Higher Education that meets the country's socioeconomic development needs, guaranteeing its efficacy, balance and sustainability | 5. Number of students in Higher Education institutions per 1.000 inhabitants |  | 3 (2009) | 5
+Administrative and Institutional Development | Strengthen the professional management of the Education System at the different levels, particularly in the districts, with a view to improving the quality of equitable educational service provision throughout the country | 6. Index of public satisfaction with the quality of education services |  | n/a | Satisfactory
 
 > 1 This indicator relates to the number of children completing Primary Education (grade 7, daytime and evening classes, public, private and community education), irrespective of their age (nominator), with a 12-year-old population (denominator).
 
@@ -2271,7 +2456,7 @@ PEEC 06-11
 
 Priorities
 
-Struture
+Structure
 
 Programmes
 
@@ -2301,13 +2486,13 @@ Programmes
 
 These six sector programmes are prepared and presented in two parts:
 
-- This chapter presents a discussion on the progress made during the implementation of the PEEC and the main challenges being faced in the relevant programme, as well as the strategic objectives and main strategies and priority actions for the coming years;
+i) This chapter presents a discussion on the progress made during the implementation of the PEEC and the main challenges being faced in the relevant programme, as well as the strategic objectives and main strategies and priority actions for the coming years;
 
-- ii) The second part consists of the implementation plan matrixes (annexed):
+ii) The second part consists of the implementation plan matrixes (annexed):
 
 - The first matrix (strategic matrix) provides a summary of the strategic plan per sector programme in terms of general and strategic objectives, as well as the priority actions that were identified to meet the objectives. The strategic matrix also defines the result indicators and respective targets to guide a annual monitoring of the implementation of the strategic plan;
 
-- The second matrix (operational matrix) defines the main activities, expected results, physical targets 32 , cost determinants, persons responsible and implementation schedule, per each priority action as specified in the strategic matrix. This operational plan is the basis for the sector's Medium Term Fiscal Framework (CFMP) and the guideline for preparing  the  annual  plans  and  budgets.  This  operational  plan  reflects  the integrated approach to mainstreaming cross-cutting issues and specific programmes and programme intervention as described in chapter 5 for each of the six sector programmes (see Table 9).
+- The second matrix (operational matrix) defines the main activities, expected results, physical targets 32, cost determinants, persons responsible and implementation schedule, per each priority action as specified in the strategic matrix. This operational plan is the basis for the sector's Medium Term Fiscal Framework (CFMP) and the guideline for preparing the annual plans and budgets. This operational plan reflects the integrated approach to mainstreaming cross-cutting issues and specific programmes and programme intervention as described in chapter 5 for each of the six sector programmes (see Table 9).
 
 > 32 Refers to targets that influence the budgeting of activities (i.e. input indicators) such as the number of classrooms to be built, the number of teachers to train, etc.
 
@@ -2320,13 +2505,16 @@ These six sector programmes are prepared and presented in two parts:
 ## 6.1 (Pre) Primary Education
 
 ### General Objective:
-Guarantee that all
----
-children have the opportunity to conclude a quality basic education of 7 grades.
+
+Guarantee that all children have the opportunity to conclude a quality basic education of 7 grades.
+
 ### Strategic Objectives:
-• Guarantee that all children are enrolled in school at the right age (6 or 7 years old) and that they remain in school until completing grade seven;
-• Improve students' academic performance, particularly in that which concerns core critical skills in reading, writing, and numeracy as well as life skills;
-• Improve efficiency and efficacy in the use of the resources made available to Primary Education.
+
+- Guarantee that all children are enrolled in school at the right age (6 or 7 years old) and that they remain in school until completing grade seven;
+
+- Improve students' academic performance, particularly in that which concerns core critical skills in reading, writing, and numeracy as well as life skills;
+
+- Improve efficiency and efficacy in the use of the resources made available to Primary Education.
 
 ### 6.1.1 Vision
 
@@ -2380,7 +2568,9 @@ Priorities
 
 Structure
 
-Programmes Primary school, as a centre for the development of children, should cultivate values of citizenship in general, 'Mozambicanity' and respect for culture(s).
+Programmes
+
+Primary school, as a centre for the development of children, should cultivate values of citizenship in general, “Mozambicanity” and respect for culture(s).
 
 ### 6.1.2 Current state
 
@@ -2424,6 +2614,48 @@ Although significant advances have been made in this area, not all children are 
 
 Graph 5: 6- and 7-year-old children in grade 1, 2007 and 2011, and enrolment rates at age 6 and 7 years, 2011 (public, private and community education)
 
+Pupils aged 6 and 7, EP, 2007
+
+Pupils aged 6 and 7, EP, 2011
+
+School.Rate aged 6, 2011
+
+School.Rate aged 7, 2011
+
+Pupils (in thousand pupils)
+
+300
+250
+200
+150
+100
+50
+0
+
+Niassa
+Cabo Delgado
+Nampula
+Zambézia
+Tete
+Manica
+Inhambane
+Sofala
+Gaza
+Maputo
+Cidade de Maputo
+
+Enrolment rates
+
+120%
+110%
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+
 Graph 5 shows that there are significant differences between provinces. Thus, in the province of Maputo enrolment of 6 year olds is almost 100%, while in the province of Nampula it is only 48.4%.
 
 Let's learn
@@ -2442,7 +2674,7 @@ Priorities
 
 Structure
 
-Programmes Studies  indicate  that  an  important  reason  for  non-participation  of  six-year-old children, particularly in rural areas, has to do with the fact that many parents feel that the children are still too young to go to school and, therefore, postpone their enrolment in school.
+Programmes
 
 Sector Programmes  - (Pre) Primary Education |55
 
@@ -2468,9 +2700,48 @@ Structure
 
 Programmes
 
+Studies indicate that an important reason for non-participation of six-year-old children, particularly in rural areas, has to do with the fact that many parents feel that the children are still too young to go to school and, therefore, postpone their enrolment in school.
+
 Approximately 200,000 of the students (16% of students) in grade 1 are 9 years of age or older. There is a big difference between the provinces of Nampula (25%) and Maputo (7%) (2011).
 
 Graph 6: Number of students in grade 1 (total and aged 9 or older), and percentage of students aged 9 or older (2011, public, community and private education)
+
+Grade 1 pupils
+
+Pupils aged ≥ 9 years
+
+In one thousand pupils
+
+350
+300
+250
+200
+150
+100
+50
+0
+
+Maputo
+Cidade de Maputo
+Gaza
+Inhambane
+Tete
+Niassa
+Sofala
+Manica
+Cabo Delgado
+Zambézia
+Nampula
+
+percentage of 9-year-old pupils
+
+30%
+25%
+20%
+15%
+10%
+5%
+0%
 
 ##### Retention until grade 7
 
@@ -2490,25 +2761,80 @@ Dropout rates continue to be high, with a tendency to increase in recent years, 
 
 Graph 7: Dropout rates (annual) in grades 2, 5 and 7, 2007 and 2011 (public, community and private education, daytime and evening classes)
 
-Summary
-
-Preface
-
-Let's learn
-
-Context
-
-Vision
-
-PEE 06-11
-
-Priorities
-
 Grade 2
+
+Grade 2, 2007
+
+Grade 2, 2011
+
+25%
+20%
+15%
+10%
+5%
+0%
+
+Cidade de Maputo
+Maputo
+Inhambane
+Gaza
+Manica
+Sofala
+Tete
+Nampula
+Cabo Delgado
+Zambézia
+Niassa
 
 Grade 5
 
+Grade 5, 2007
+
+Grade 5, 2011
+
+25%
+20%
+15%
+10%
+5%
+0%
+
+Cidade de Maputo
+Maputo
+Inhambane
+Gaza
+Manica
+Sofala
+Tete
+Nampula
+Cabo Delgado
+Zambézia
+Niassa
+
 Grade 7
+
+Grade 7, 2007
+
+Grade 7, 2011
+
+25%
+20%
+15%
+10%
+5%
+0%
+
+Cidade de Maputo
+Maputo
+Inhambane
+Gaza
+Manica
+Sofala
+Tete
+Nampula
+Cabo Delgado
+Zambézia
+Niassa
 
 Notwithstanding the decrease in high repetition rates (of over 20% in the period up to 2004 to 5%-7% as from 2005) with the introduction of the new curriculum, in 2010, the average dropout rate increased to values of over 10%.
 
@@ -2517,6 +2843,43 @@ Notwithstanding the decrease in high repetition rates (of over 20% in the period
 The drop in academic performance rates seen since 2008 for all grades, and in grade 5 since 2006, sends a worrying signal about the learning process at the classroom level.
 
 Graph 8: Reading tests results: averages and percentage (SACMEQ III)
+
+Percentage
+
+120
+70
+20
+-30
+-80
+-130
+
+Average
+
+1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+0
+
+ | CAB | GAZ | INH | MAC | MAN | MAP | NAM | NIA | SOF | TET | ZAM | MOÇ
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+8. Critical | 0 | 0,3 | 0,8 | 1,2 | 0,3 | 0,2 | 0 | 0 | 0 | 0 | 0,1 | 0,3
+7. Analytical | 0,8 | 2,8 | 3,3 | 13,1 | 3,1 | 3,3 | 0,5 | 0 | 0,6 | 0 | 1 | 2,7
+6. Inferential | 5,2 | 11,1 | 11,9 | 26,6 | 6,1 | 21,1 | 8,9 | 2,6 | 7 | 1,7 | 7,7 | 10,7
+5. Interpretive | 12,1 | 22,3 | 25,1 | 24,1 | 17,6 | 28,7 | 14,7 | 6,4 | 13,3 | 5,2 | 17,2 | 17,9
+4. Meaning | 23,3 | 26,6 | 30,5 | 19,6 | 21,1 | 23,5 | 28,4 | 27,1 | 26,1 | 18,1 | 27 | 25
+3. Basic | -28,5 | -22,4 | -16 | -10,6 | -23,2 | -16,1 | -20,8 | -27,3 | -24,1 | -30,4 | -27,7 | -22
+2. Emergent | -19,7 | -11,3 | -10,4 | -4,3 | -22,6 | -4,7 | -17 | -27,2 | -17,1 | -27,2 | -14,1 | -14,8
+1. Pre | -10,3 | -3,2 | -2 | -0,4 | -6 | -2,4 | -9,7 | -9,4 | -11,9 | -17,4 | -5,2 | -6,7
+Average | 447,8 | 487,1 | 498,3 | 540,2 | 465,8 | 511,1 | 461 | 440,7 | 454,2 | 426,9 | 469,6 | 476
+
+Provinces
 
 Summary
 
@@ -2614,7 +2977,7 @@ The importance of the first years of life is recognised internationally 36 as  b
 
 > 35 According to the international definition, Early Childhood covers the time from the moment of conception to the age of 8. The focus in the Government's plans is on the pre-school age group (0-5), because the interventions directed at this age group are still very limited. The Ministry of Education's focus in this strategic plan, in the first grades of Primary Education, shows that the Ministry has assumed the broader definition of early childhood.
 
-> 36 Engle PL, Fernald LCH, Alderman H, et al, and the Global Child Development Steering Group. Strategies for reducing inequalities and improving developmental outcomes for young children in lowincome and middle-income countries. Lancet series, 2011.
+> 36 Engle PL, Fernald LCH, Alderman H, et al, and the Global Child Development Steering Group. Strategies for reducing inequalities and improving developmental outcomes for young children in low-income and middle-income countries. Lancet series, 2011.
 
 Summary
 
@@ -2666,7 +3029,7 @@ The sector already acknowledged, in its 2006-2010/11 PEEC, the importance of giv
 
 However, due to the many other priorities, no significant advances have been made in this area over the last few years. For the coming years, the Ministry has assumed a stronger responsibility in this area, through the following actions:
 
-- The Ministry assumes a more active role in preparing a strategy for early childhood development as well as in coordinating and monitoring its implementation, together with the main stakeholders. To this end, a multisector commission was created to prepare, under the leadership of the Ministry  of  Education,  an  Early  Childhood  Development  Strategy,  focussing on children in the pre-school age (0-5). This strategy defines the responsibilities of each of the stakeholders, with the main objective being to guarantee an integrated and holistic approach to child development and greater efficiency and efficacy in the use of the country's scarce resources.
+- The Ministry assumes a more active role in preparing a strategy for early childhood development as well as in coordinating and monitoring its implementation, together with the main stakeholders. To this end, a multi-sector commission was created to prepare, under the leadership of the Ministry of Education, an Early Childhood Development Strategy, focussing on children in the pre-school age (0-5). This strategy defines the responsibilities of each of the stakeholders, with the main objective being to guarantee an integrated and holistic approach to child development and greater efficiency and efficacy in the use of the country's scarce resources.
 
 - At the same time, given the urgent need for children to be better prepared for the learning process, the Ministry also considers it equally important to expand access to pre-Primary Education.  Considering the financial and institutional  limitations,  introducing  a  pre-primary  year  as  part  of  basic education is still premature. The focus in the coming years will be on testing the different intervention modalities with the objective of preparing for  the  future expansion of sustainable access to pre-Primary Education (fourth/fifth year of life) as part of the education system. Priority will be given to the most vulnerable children, guaranteeing their inclusion and retention in the system 38 . At the same time, considering the importance of
 
@@ -2716,7 +3079,7 @@ Priorities
 
 Structure
 
-Programmes Let's learn Preface Summary Context Vision PEE 06-11
+Programmes
 
 Sector Programmes  - (Pre) Primary Education |61
 
@@ -2724,11 +3087,25 @@ Sector Programmes  - (Pre) Primary Education |61
 
 [[START OF PAGE 76]]
 
+Let's learn
+
+Preface
+
+Summary
+
+Context
+
+Vision
+
+PEE 06-11
+
 Priorities
 
 Structure
 
-Programmes established, and strictly complying with the existing rules and norms in terms of managing this programme.
+Programmes
+
+established, and strictly complying with the existing rules and norms in terms of managing this programme.
 
 The sector will continue its inclusion policy, which will imply building and equipping classrooms that facilitate the participation of children with special educational needs.
 
@@ -2760,7 +3137,7 @@ Special attention will be given to compliance with the norms established in the 
 
 #### Integrated teacher training and capacity building strategy
 
-The sector will continue to refine the strategy for teacher training aimed at ensuring  a  integrated  approach to professional development of the teacher through linking pre- and in-service training with adequate supervision and guidance onthe-job, according to the new paradigm: competency-based training that should prepare teachers better to, among other aspects:
+The sector will continue to refine the strategy for teacher training aimed at ensuring a integrated approach to professional development of the teacher through linking pre- and in-service training with adequate supervision and guidance on-the-job, according to the new paradigm: competency-based training that should prepare teachers better to, among other aspects:
 
 - Meet the needs of students with learning difficulties;
 
@@ -2776,7 +3153,7 @@ The sector will continue to refine the strategy for teacher training aimed at en
 
 - Work with parents and guardians, promoting the school and its values.
 
-In  this  perspective,  in  addition  to  strengthening  the  implementation  of  the  inservice  training  programme, a new modular-based pre-service teacher training programme will  be  introduced.  The  new  programme  is  organised  into  flexible learning blocks, aimed at promoting continued development of reflective competencies within the workplace, oriented toward problem-solving and covering  a range of learning experiences.
+In this perspective, in addition to strengthening the implementation of the in-service training programme, a new modular-based pre-service teacher training programme will be introduced. The new programme is organised into flexible learning blocks, aimed at promoting continued development of reflective competencies within the workplace, oriented toward problem-solving and covering a range of learning experiences.
 
 The new model enables graduates to develop capacity in handling all grades (1-7) of Primary Education (Grades 1-7), focusing on literacy (teaching and learning of spoken language, reading and writing), and on numeracy (counting, calculation and problem solving). Initial training covers a two-year course, fulltime and residential, which includes an internship of 300 teaching hours in the 2nd quarter of the 2nd year.
 
@@ -2844,9 +3221,9 @@ Furthermore, better control of the investment of available resources is at the c
 
 #### Early childhood development
 
-- Promote  the  expansion  of  access  to  educational  opportunities  at  preschool age by:
+- Promote the expansion of access to educational opportunities at pre-school age by:
 
-- o Implementing and/or encouraging pilot-projects (communitybased and institutionally-based mixed services), with the objective of identifying the best means to expand national coverage of preschool and pre-Primary Education;
+- o Implementing and/or encouraging pilot-projects (community-based and institutionally-based mixed services), with the objective of identifying the best means to expand national coverage of pre-school and pre-Primary Education;
 
 - o Benefiting from the experiences gained through pilot-projects, prepare the inclusion of one year pre-primary into Primary Education from 2015/2016;
 
@@ -2928,11 +3305,11 @@ Sector Programmes  - (Pre) Primary Education |65
 
 [[START OF PAGE 80]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -3006,21 +3383,13 @@ Priorities
 
 Structure
 
-Programmes Let's learn Preface Summary Context Vision PEE 06-11
+Programmes
 
 Sector Programmes  - (Pre) Primary Education |67
 
 [[END OF PAGE 81]]
 
 [[START OF PAGE 82]]
-
-Priorities
-
-Structure
-
-Programmes
-
-68| Sector Programmes - Literacy and Adult Education
 
 [[END OF PAGE 82]]
 
@@ -3084,11 +3453,11 @@ Literacy and Adult Education - Sector Programmes |69
 
 [[START OF PAGE 84]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -3186,13 +3555,25 @@ Priorities
 
 Structure
 
-Programmes Let's learn Preface Summary Context Vision PEE 06-11
+Programmes
 
 Literacy and Adult Education - Sector Programmes |71
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
+
+Let's learn
+
+Preface
+
+Summary
+
+Context
+
+Vision
+
+PEE 06-11
 
 Priorities
 
@@ -3204,77 +3585,27 @@ Programmes
 
 #### Access and retention
 
-Efforts will be made to create conditions for non-literate youth (from the age of
+Efforts will be made to create conditions for non-literate youth (from the age of 15) and adults to be sufficiently motivated to attend the courses until they achieve the level of literacy required to benefit from the written information made available through different sources and/or pursue other types of capacity building and/or formal education.
 
-15) and adults to be sufficiently motivated to attend the courses until they achieve
+This will imply mobilising and sensitising all players, at all levels, as well as coordinating actions between the different (possible) stakeholders (within and outside Government) to increase and diversify the provision of literacy programmes and non-formal Education, and also to encourage retention of participants.
 
-the level of literacy required to benefit from the written information made availa-
+At sector level, greater involvement of cluster schools (ZIPs) and primary schools (as epicentres), as well as of the respective school directors, in providing and managing Adult Education, will be promoted. Pre-primary and post-primary students will also be motivated to participate in and help with literacy activities for their relatives.
 
-ble through different sources and/or pursue other types of capacity building and/
-
-or formal education.
-
-This will imply mobilising and sensitising all players, at all levels, as well as coordi-
-
-nating actions between the different (possible) stakeholders (within and outside
-
-Government) to increase and diversify the provision of literacy programmes and
-
-non-formal Education, and also to encourage retention of participants.
-
-At sector level, greater involvement of cluster schools (ZIPs) and primary schools
-
-(as epicentres), as well as of the respective school directors, in providing and man-
-
-aging Adult Education, will be promoted. Pre-primary and post-primary students
-
-will also be motivated to participate in and help with literacy activities for their
-
-relatives.
-
-Avoiding a relapse into illiteracy means that larger investments need to be made
-
-to create literacy environments to encourage personal development at the AEA
-
-centres, in schools and in the community. Thus, provinces with high illiteracy rates
-
-will be prioritised. The potential of new technologies and means of communica-
-
-tion will be used to guarantee the e-inclusion of adults.
+Avoiding a relapse into illiteracy means that larger investments need to be made to create literacy environments to encourage personal development at the AEA centres, in schools and in the community. Thus, provinces with high illiteracy rates will be prioritised. The potential of new technologies and means of communication will be used to guarantee the e-inclusion of adults.
 
 #### Quality and relevance
 
-Quality standards will be prepared, to be applied in the different basic literacy
+Quality standards will be prepared, to be applied in the different basic literacy and post-literacy teaching-learning programmes (including curriculum-related aspects, materials, profile and training of literacy teachers).
 
-and post-literacy teaching-learning programmes (including curriculum-related as-
+The review and delivery of the curriculum, teaching and reading materials will focus on diversifying the programme content, linking literacy activities to other initiatives promoting community development.
 
-pects, materials, profile and training of literacy teachers).
+Several information channels (television, radio, mobile telephones, newspapers, internet) will be used to explore the different topics addressed in AEA programmes.
 
-The review and delivery of the curriculum, teaching and reading materials will
-
-focus on diversifying the programme content, linking literacy activities to other
-
-initiatives promoting community development.
-
-Several  information  channels  (television,  radio,  mobile  telephones,  newspa-
-
-pers, internet) will be used to explore the different topics addressed in AEA pro-
-
-grammes.
-
-The role of Adult Education Training Institutes (IFEAs) in training and monitor-
-
-ing volunteer literacy teachers will be strengthened, benefiting from professional
-
-educators trained by these institutes46.
+The role of Adult Education Training Institutes (IFEAs) in training and monitoring volunteer literacy teachers will be strengthened, benefiting from professional educators trained by these institutes46.
 
 #### Institutional Development
 
-Interconnecting the different initiatives on the one hand, and at the same time
-
-ensuring that the different stakeholders comply with the standards, will require
-
-the Ministry to play a strong role in coordinating and interlinking the different adult literacy and education programmes. This implies the need for better vertical and horizontal alignment, and an inter-sectoral coordination of efforts between the Adult Literacy and Education, Primary and Secondary Education and Technical and Vocational Education subsectors.
+Interconnecting the different initiatives on the one hand, and at the same time ensuring that the different stakeholders comply with the standards, will require the Ministry to play a strong role in coordinating and interlinking the different
 
 > 46 The IFEAs are meant to train post-literacy professional educators. This will imply avoiding placing IFEA graduates in primary schools.
 
@@ -3283,6 +3614,8 @@ the Ministry to play a strong role in coordinating and interlinking the differen
 [[END OF PAGE 86]]
 
 [[START OF PAGE 87]]
+
+adult literacy and education programmes. This implies the need for better vertical and horizontal alignment, and an inter-sectoral coordination of efforts between the Adult Literacy and Education, Primary and Secondary Education and Technical and Vocational Education subsectors.
 
 Coordination mechanisms will be established at central and local levels between the different governmental and non-governmental players, with a view to improving the provision, quality and relevance of (post-)literacy programmes.
 
@@ -3334,11 +3667,11 @@ Literacy and Adult Education - Sector Programmes |73
 
 [[START OF PAGE 88]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -3356,7 +3689,7 @@ Programmes
 
 - Prepare competency-based standards to guarantee the quality of the different programmes offered by the different stakeholders (in terms of curricula, materials and literacy teachers);
 
-- Review and harmonise the Literacy and Post-Literacy programmes currently offered by the Ministry of Education, with the aim to develop a single curriculum, based on principles of Integrated Literacy (literacy, numeracy and life skills).  This  will  require  adapting  and  aligning  Literacy  and  PostLiteracy programmes to the new curriculum;
+- Review and harmonise the Literacy and Post-Literacy programmes currently offered by the Ministry of Education, with the aim to develop a single curriculum, based on principles of Integrated Literacy (literacy, numeracy and life skills). This will require adapting and aligning Literacy and Post-Literacy programmes to the new curriculum;
 
 - In  partnership  with  other  relevant  stakeholders,  design  and  implement life skills programmes (parental education, HIV and AIDS prevention and mitigation, mother and child health, promotion of equity/human rights/ democracy, etc.);
 
@@ -3370,7 +3703,7 @@ Programmes
 
 - o Annual collection and processing of data on literacy and non-formal education through the sector's statistical information system;
 
-- Develop  policies  and  coordination  mechanisms  between  public,  private and civil society entities involved in Adult Literacy and Education and NonFormal Education, to guarantee better coordination and national coverage, making use of existing structures (educational and others) in the country, for the benefit of  this subsector, including:
+- Develop policies and coordination mechanisms between public, private and civil society entities involved in Adult Literacy and Education and Non-Formal Education, to guarantee better coordination and national coverage, making use of existing structures (educational and others) in the country, for the benefit of this subsector, including:
 
 - o The establishment of partnership agreements between the Ministry and the different partners (at central, provincial and local level) with regard to the provision of Adult Literacy and Education-related activities;
 
@@ -3387,10 +3720,16 @@ Programmes
 ## 6.3 General Secondary Education
 
 ### General Objective:
-Expand General Secondary Education in an equitable and accessible man- ner, guaranteeing its quality and relevance.
----
+
+Expand General Secondary Education in an equitable and accessible manner, guaranteeing its quality and relevance.
+
 ### Strategic Objectives:
-• Diversify Secondary Education modalities, guaranteeing equitable access, with special attention to girls and youth with special educa- tional needs; • Improve the quality and relevance of General Secondary Education by developing and implementing a vocational curriculum; • Improve school management.
+
+- Diversify Secondary Education modalities, guaranteeing equitable access, with special attention to girls and youth with special educational needs;
+
+- Improve the quality and relevance of General Secondary Education by developing and implementing a vocational curriculum;
+
+- Improve school management.
 
 ### 6.3.1 Vision
 
@@ -3452,9 +3791,34 @@ The number of students in ESG1 increased from approximately 286 thousand in 2004
 
 Likewise, significant progress was also made in terms of gender equity in both levels of Secondary Education. The percentage of girls increased from 41% in 2004 to 47% in 2011 (ESG1), and from 39% in 2004 to 46% in 2011 in ESG2, as can be seen in Graph 2 (page 27). In 2011, every district in the country had a 1st cycle secondary school (in 2004 ESG1 was taught in 106 districts).
 
-Number of teachers in ESG1 and in ESG2 and percentage of teachers
+Graph 9: Number of teachers in ESG1 and in ESG2 and percentage of teachers with appropriate pedagogical training, 2004–2011
+(daytime classes, public education)
 
-Graph 9: with appropriate pedagogical training, 2004-2011 (daytime classes, public education)
+Number of teachers
+
+No. teachers ESG1
+No. teachers ESG2
+% teachers with training (ESG1)
+
+12,000
+10,000
+8,000
+6,000
+4,000
+2,000
+0
+
+2004 2005 2006 2007 2008 2009 2010 2011
+
+% of teachers with training
+
+60%
+50%
+40%
+30%
+20%
+10%
+0%
 
 Despite the considerable increase in the number of grade 7 graduates, the transition rate 47  between grades 7 and 8 have remained at 70-80% since 2004 (daytime classes). If we include evening classes, the transition rate increases to approximately 93% (2011). These data show that the expansion of General Secondary Education  made  it  possible  to  absorb  almost  all  Primary  Education  graduates. In 2010, approximately 97,000 students completed grade 10 and almost 32,000 completed grade 12, compared to only 32,000 and 7,600 in 2004, respectively.
 
@@ -3474,11 +3838,31 @@ Graph 9 shows that, every year, more teachers were placed in ESG1 and in ESG2, a
 
 It is noted that, with the expansion of the system, quality indicators have failed to accompany the rhythm of expansion.
 
-Graph 10:	Graduates from ESG1 and ESG248 and academic attainment rates, per shifts, 2004-2010 (public education)
+Graph 10: Graduates from ESG1 and ESG2 48 and academic attainment rates, per shifts, 2004-2010 (public education)
 
 Grade 10
 
+Pupils, evening
+Pupils, daytime
+Attainment, daytime
+Attainment, evening
+Thousand pupils
+0 50 100 150 200 250
+% academic attainment
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+2004 2005 2006 2007 2008 2009 2010
+
 Grade 12
+
+Pupils, evening
+Pupils, daytime
+Attainment, daytime
+Attainment, evening
+Thousand pupils
+0 10 20 30 40 50 60 70 80
+% academic attainment
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+2004 2005 2006 2007 2008 2009 2010
 
 As can be seen in Graph 10, the academic attainment rate is still low and, after initial improvements, is now dropping back to 2004 levels. Dropout and repetition rates are high, with 8% and 31.4% dropouts in 2010 in ESG1 and ESG2, respectively, and 28.2% and 15.5% repetition rates for the same levels.
 
@@ -3512,11 +3896,11 @@ General Secondary Education - Sector Programmes |77
 
 [[START OF PAGE 92]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -3538,7 +3922,22 @@ This increase in the provision of education, delivered by the education system f
 
 This has been further exacerbated by high failure rates in ESG, with these students occupying the space needed for new entries.
 
-Graph 11:	Number of students in ESG 1 and 2, and pupil/class ratios, 2004-2011 (daytime classes, public education)
+Graph 11: Number of students in ESG 1 and 2, and pupil/class ratios, 2004-2011 (daytime classes, public education)
+
+Pupils
+
+No. pupils ESG1
+No. pupils ESG2
+P/C Ratio ESG1
+P/C Ratio ESG2
+
+0 100,000 200,000 300,000 400,000 500,000 600,000
+
+2004 2005 2006 2007 2008 2009 2010 2011
+
+Pupil/class ratio
+
+45 47 49 51 53 55 57 59 61 63 65
 
 ##### Investments
 
@@ -3664,11 +4063,11 @@ The following actions will be prioritised in order to expand access to a quality
 
 - o Including students, combining:
 
-- Younger age;
+1. Younger age;
 
-- Better educational attainment in grades 7 and 10;
+2. Better educational attainment in grades 7 and 10;
 
-- Female;
+3. Female;
 
 - o Redirecting students with persistently below-average performance;
 
@@ -3698,11 +4097,11 @@ General Secondary Education - Sector Programmes |81
 
 [[START OF PAGE 96]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -3800,21 +4199,13 @@ Priorities
 
 Structure
 
-Programmes Let's learn Preface Summary Context Vision PEE 06-11
+Programmes
 
 General Secondary Education - Sector Programmes |83
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
-
-Priorities
-
-Structure
-
-Programmes
-
-84| Sector Programmes - Tecnival and Vocational Education
 
 [[END OF PAGE 98]]
 
@@ -3823,10 +4214,16 @@ Programmes
 ## 6.4 Technical and Vocational Education
 
 ### General Objective:
+
 Improve access to, and the relevance, efficiency, effectiveness and quality of Technical and Vocational Education (TVE), geared to contribute towards the country's development.
----
+
 ### Strategic Objectives:
-• Increase access to and retention in TVE, paying particular attention to geographic and gender disparities; • Guarantee that TVE graduates acquire relevant and quality training, meeting the labour market's requirements (formal and informal); • Improve the system's management and coordination, actively involv- ing the productive sector.
+
+- Increase access to and retention in TVE, paying particular attention to geographic and gender disparities;
+
+- Guarantee that TVE graduates acquire relevant and quality training, meeting the labour market's requirements (formal and informal);
+
+- Improve the system's management and coordination, actively involving the productive sector.
 
 ### 6.4.1 Vision
 
@@ -3836,11 +4233,11 @@ This subsystem is part of the response to Government's priority to ensure that n
 
 The  sector's  commitment  to  preparing  students  for  their  working  life  will  be achieved through the following strands, which touch on the various levels of education:
 
-- Expansion of Technical and Vocational Education, guaranteeing the desired quality and skills development needed for and required by the labour market, with greater emphasis on priority sectors and the emerging industries;
+1. Expansion of Technical and Vocational Education, guaranteeing the desired quality and skills development needed for and required by the labour market, with greater emphasis on priority sectors and the emerging industries;
 
-- Increased access to relevant General Secondary Education of better quality (see 6.3.1, page 79);
+2. Increased access to relevant General Secondary Education of better quality (see 6.3.1, page 79);
 
-- Creation of vocational training opportunities through short courses (formal or non-formal).
+3. Creation of vocational training opportunities through short courses (formal or non-formal).
 
 This sector programme is centred essentially, on the first strand as referred above (Technical and Vocational Education), and partly includes the third strand (short vocational training courses).
 
@@ -3862,7 +4259,7 @@ Priorities
 
 Structure
 
-Programmes Due to its nature and approach, TVE falls into the broader concept of Technical and Vocational Education and Training (TVET), which involves the government and other partners as providers.
+Programmes
 
 Technical and vocational education - Sector Programmes |85
 
@@ -3870,11 +4267,11 @@ Technical and vocational education - Sector Programmes |85
 
 [[START OF PAGE 100]]
 
-Summary
+Let's learn
 
 Preface
 
-Let's learn
+Summary
 
 Context
 
@@ -3887,6 +4284,8 @@ Priorities
 Structure
 
 Programmes
+
+Due to its nature and approach, TVE falls into the broader concept of Technical and Vocational Education and Training (TVET), which involves the government and other partners as providers.
 
 TVET includes the TVE subsector that is led by DINET under the aegis of MINED, and covers the basic 50 (after grade 7) and medium (after grade 10) levels. Providers of this kind of education are public and private. The broader TVET sector also includes short-term vocational training, primarily under the responsibility of the Ministry of Labour and led by the National Employment and Professional Training Institute (INEFP). Its providers are also public and private.
 
@@ -4172,21 +4571,13 @@ Priorities
 
 Structure
 
-Programmes Let's learn Preface Summary Context Vision PEE 06-11
+Programmes
 
 Technical and vocational education - Sector Programmes |91
 
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
-
-Priorities
-
-Structure
-
-Programmes
-
-92| Sector Programmes - Tecnival and Vocational Education
 
 [[END OF PAGE 106]]
 
@@ -4195,12 +4586,14 @@ Programmes
 ## 6.5 Higher Education
 
 ### General Objective:
----
+
 Promote the expansion of and equitable access to Higher Education with international quality standards.
+
 ### Strategic Objectives:
-• Consolidate the existing subsystem through improved internal effi- ciency;
-• Improve the quality of the teaching-learning process;
-• Strengthen the subsystem's governance, financing, administration and monitoring capacity, at all levels.
+
+- Consolidate the existing subsystem through improved internal efficiency;
+- Improve the quality of the teaching-learning process;
+- Strengthen the subsystem's governance, financing, administration and monitoring capacity, at all levels.
 
 ### 6.5.1 Vision
 
@@ -4208,7 +4601,7 @@ Higher Education (HE) is crucial in strengthening the intellectual, scientific, 
 
 The role awarded to HE shall be pursued through the education and training of qualified higher-level technicians and through scientific research, leading to an increase in productivity in the country. HE also has an important role in improving the institutional capacity of the education system, through a series of activities that include training of teachers and system managers (particularly for post-Primary Education and education research), promoting an improvement in the quality and relevance of education at all levels.
 
-The  perspectives  for  HE  development  in  Mozambique  fall  within  the  vision  of 'quality Higher Education that is balanced and expanding, guided by the principles of  democracy,  promoting  nationally  and  internationally  recognised  knowledgeproducing activities'. 53
+The perspectives for HE development in Mozambique fall within the vision of “quality Higher Education that is balanced and expanding, guided by the principles of democracy, promoting nationally and internationally recognised knowledge-producing activities”. 53
 
 ### 6.5.2 Current state
 
@@ -4234,7 +4627,7 @@ Priorities
 
 Structure
 
-Programmes public education and from 7,143 to 28,726 in private education. The percentage of girls increased from 31.6% in 2004 to 39% in 2011. Overall, in 2010, students enrolled in private education represented approximately 29% of the total student population in this level of education. Opportunities for access to public institutions outside of Maputo increased, improving geographic equity.
+Programmes
 
 Higher Education - Sector Programmes |93
 
@@ -4259,6 +4652,8 @@ Priorities
 Structure
 
 Programmes
+
+public education and from 7,143 to 28,726 in private education. The percentage of girls increased from 31.6% in 2004 to 39% in 2011. Overall, in 2010, students enrolled in private education represented approximately 29% of the total student population in this level of education. Opportunities for access to public institutions outside of Maputo increased, improving geographic equity.
 
 As more institutions have been established at this level, and more students attending Higher Education, the number of HE graduates has been increasing, going from 2,878 in 2004 to approximately 8,600 in 2010, corresponding to a growth in the order of 205%.
 
@@ -4352,7 +4747,9 @@ Priorities
 
 Structure
 
-Programmes Increase  in  access  to  courses  in  priority  areas,  such  as  engineering,  exact  and natural sciences, health and agriculture is expected. Equity in access will be guaranteed by introducing a financial reform, with an increase in the number of scholarships for students with good academic attainment levels, and who come from low-income families (PEES Strategic Objective 3).
+Programmes
+
+Increase in access to courses in priority areas, such as engineering, exact and natural sciences, health and agriculture is expected. Equity in access will be guaranteed by introducing a financial reform, with an increase in the number of scholarships for students with good academic attainment levels, and who come from low-income families (PEES Strategic Objective 3).
 
 #### Improve the quality and relevance of the teaching-learning process
 
@@ -4508,21 +4905,13 @@ Priorities
 
 Structure
 
-Programmes Let's learn Preface Summary Context Vision PEE 06-11
+Programmes
 
 Higher Education - Sector Programmes |99
 
 [[END OF PAGE 113]]
 
 [[START OF PAGE 114]]
-
-Priorities
-
-Structure
-
-Programmes
-
-100| Sector Programmes - Administrative and Institutional development
 
 [[END OF PAGE 114]]
 
@@ -4531,12 +4920,14 @@ Programmes
 ## 6.6 Administrative and Institutional Development
 
 ### General Objective:
----
-Strengthen the management and governance of the education system's ad- ministration at different levels, particularly in the districts, with a view to improving the quality of service provision throughout the country.
+
+Strengthen the management and governance of the education system's administration at different levels, particularly in the districts, with a view to improving the quality of service provision throughout the country.
+
 ### Strategic Objectives:
-• Stimulate human resources development and management;
-• Guarantee compliance with norms and standards, and quality indica- tors in education;
-• Harmonise and strengthen the system's planning, budgeting, execu- tion, monitoring and evaluation processes and instruments.
+
+- Stimulate human resources development and management;
+- Guarantee compliance with norms and standards, and quality indicators in education;
+- Harmonise and strengthen the system's planning, budgeting, execution, monitoring and evaluation processes and instruments.
 
 ### 6.6.1 Vision
 
@@ -4574,7 +4965,7 @@ Structure
 
 Programmes
 
-Adminsistrative and Instiutional development - Sector Programmes |101
+Administrative and Institutional Development - Sector Programmes |101
 
 [[END OF PAGE 115]]
 
@@ -4674,7 +5065,7 @@ Structure
 
 Programmes
 
-Adminsistrative and Instiutional development - Sector Programmes |103
+Administrative and Institutional Development - Sector Programmes |103
 
 [[END OF PAGE 117]]
 
@@ -4696,13 +5087,15 @@ Priorities
 
 Structure
 
-Programmes There are already several documents directed at improving quality education services, such as, for example, the National Education Policy, (sub-) sector strategic plans, curricular plans, Mandatory School Guidelines and Tasks (OTEO) and the education regulations. There are also several sources of information (statistical data, financial and human resources information, information on exams, sample surveys, etc.) that feed the different monitoring and evaluation processes, namely integrated supervision, inspection and internal control and evaluation processes.
+Programmes
+
+There are already several documents directed at improving quality education services, such as, for example, the National Education Policy, (sub-) sector strategic plans, curricular plans, Mandatory School Guidelines and Tasks (OTEO) and the education regulations. There are also several sources of information (statistical data, financial and human resources information, information on exams, sample surveys, etc.) that feed the different monitoring and evaluation processes, namely integrated supervision, inspection and internal control and evaluation processes.
 
 The aim of SAQEM is to integrate, consolidate and refine these different existing instruments, processes and information and transform them into a comprehensive and coherent whole.
 
 The SAQEM will produce diagnostics-based information, to monitor the implementation of education activities and inform corrective measures at sector, institution and/or student levels. The availability of this information will facilitate the accountability of players involved in implementing the system.
 
-The conceptualisation and development of an integrated system to evaluate and monitor the quality of education is a process that will be developed in the longterm. Thus, for the coming years, emphasis will be placed on the following aspects:
+The conceptualisation and development of an integrated system to evaluate and monitor the quality of education is a process that will be developed in the long-term. Thus, for the coming years, emphasis will be placed on the following aspects:
 
 - The gradual establishment of quality standards and indicators for all levels of operation in the sector, beginning with primary schools (in progress);
 
@@ -4778,7 +5171,7 @@ Structure
 
 Programmes
 
-Adminsistrative and Instiutional development - Sector Programmes |105
+Administrative and Institutional Development - Sector Programmes |105
 
 [[END OF PAGE 119]]
 
@@ -4802,24 +5195,23 @@ Structure
 
 Programmes
 
-o | Implementation of standard operating processes for the recruit- ment, selection, employment, remuneration, promotion and main- tenance of teaching and non-teaching staff;
---- | ---
-o | Development of an IT programme which covers all human resources management operating processes, to complement the one already existing in the public sector;
-o | Introduction of qualifications-based tenders, for selecting and em- ploying school directors;
-o | Implementation of the competencies- and performance-based hu- man resources evaluation system (teaching and non-teaching), in accordance with the Public Administration Performance Manage- ment System (SIGEDAP);
-o | Monitoring of staff timetables to ensure a rationalisation of teach- ers' and managers' work time (including monitoring overtime);
-o | Implementation of teacher work schedules at school level as part of the integrated monitoring system;
-• Ensure training, capacity building and motivation of human capital, through:
-o | Preparing multi-annual training plans and the development of means to access knowledge, with particular attention to capacity building in POEMA;
-o | Prioritising school directors' capacity building in school manage- ment;
-o | Guaranteeing the linkage between training/capacity building and career development, based on the sector's needs;
-o | Developing the training for directors, educational experts, human resources experts, financial experts and educators;
-o | Developing and implementing a procurement and technical assis- tance plan, with a view to complementing the institution's current capacity;
-• | Guarantee the means, including communications, and the conditions to promote efficiency, effectiveness and well-being in the workplace, which entails:
-o | Building, rehabilitating, equipping and maintaining the sector's ad- ministrative infrastructures, prioritising the SDEJTs;
-o | Expanding electronic communications networks and systems to dif- ferent units in the sector, with priority to the DPECs and the SDEJTs, at post-Primary Education levels, focusing on improving the sys- tem's management and the teaching-learning process;
-o | Introducing a systematic and transparent process to reward em- ployees' performance;
-• Implement a Social Support Policy that prioritises HIV and AIDS mitigation and support, enabling:
+  - Implementation of standard operating processes for the recruitment, selection, employment, remuneration, promotion and maintenance of teaching and non-teaching staff;
+  - Development of an IT programme which covers all human resources management operating processes, to complement the one already existing in the public sector;
+  - Introduction of qualifications-based tenders, for selecting and employing school directors;
+  - Implementation of the competencies- and performance-based human resources evaluation system (teaching and non-teaching), in accordance with the Public Administration Performance Management System (SIGEDAP);
+  - Monitoring of staff timetables to ensure a rationalisation of teachers' and managers' work time (including monitoring overtime);
+  - Implementation of teacher work schedules at school level as part of the integrated monitoring system;
+- Ensure training, capacity building and motivation of human capital, through:
+  - Preparing multi-annual training plans and the development of means to access knowledge, with particular attention to capacity building in POEMA;
+  - Prioritising school directors' capacity building in school management;
+  - Guaranteeing the linkage between training/capacity building and career development, based on the sector's needs;
+  - Developing the training for directors, educational experts, human resources experts, financial experts and educators;
+  - Developing and implementing a procurement and technical assistance plan, with a view to complementing the institution's current capacity;
+- Guarantee the means, including communications, and the conditions to promote efficiency, effectiveness and well-being in the workplace, which entails:
+  - Building, rehabilitating, equipping and maintaining the sector's administrative infrastructures, prioritising the SDEJTs;
+  - Expanding electronic communications networks and systems to different units in the sector, with priority to the DPECs and the SDEJTs, at post-Primary Education levels, focusing on improving the system's management and the teaching-learning process;
+  - Introducing a systematic and transparent process to reward employees' performance;
+- Implement a Social Support Policy that prioritises HIV and AIDS mitigation and support, enabling:
 
 106| Sector Programmes - Administrative and Institutional development
 
@@ -4887,7 +5279,7 @@ Structure
 
 Programmes
 
-Adminsistrative and Instiutional development - Sector Programmes |107
+Administrative and Institutional Development - Sector Programmes |107
 
 [[END OF PAGE 121]]
 
@@ -5109,13 +5501,24 @@ Structure
 
 Programmes
 
-Institutional Let's learn Preface Summary Context Vision PEEC 06-11
+Institutional
 
 Institutional Arrangement for the Implementation of the Education Strategic Plan |111
 
 [[END OF PAGE 125]]
 
 [[START OF PAGE 126]]
+Let's learn
+
+Preface
+
+Summary
+
+Context
+
+Vision
+
+PEEC 06-11
 
 Priorities
 
@@ -5123,7 +5526,9 @@ Structure
 
 Programmes
 
-Institutional The transfer of powers for the management of primary schools to the Municipality of the City of Maputo, was initiated in 2011. This process will be extended to other Municipalities in the country over the coming years.
+Institutional
+
+The transfer of powers for the management of primary schools to the Municipality of the City of Maputo, was initiated in 2011. This process will be extended to other Municipalities in the country over the coming years.
 
 Although there is no direct action in terms of MINED's monitoring and supervision of municipalities, the municipalities have obligations in relation to implementing and monitoring the Government's Plans. A Memorandum of Understanding will be established between MINED and the various municipalities to guarantee compliance with rules guiding the application of funds, in cases where (external) funds are made available to the sector and allocated to the Municipalities.
 
@@ -5155,7 +5560,7 @@ Internal funding sources finance the majority of education sector's expenditures
 
 #### 7.3.2 External funding
 
-The contribution from external funding sources is estimated at approximately 2025%61 of the sector's expenditures for the coming years. Approximately 75% of external funding come from 12 bilateral and multilateral partners (2011) and are channelled through the Education Sector Support Fund (FASE).
+The contribution from external funding sources is estimated at approximately 20-25%61 of the sector's expenditures for the coming years. Approximately 75% of external funding come from 12 bilateral and multilateral partners (2011) and are channelled through the Education Sector Support Fund (FASE).
 
 The increase in external funding channelled through FASE, during the PEEC period, contributed to the predictability of external financing for the sector. It also contributed to increasing the sector's internal capacity related to financial management, including the procurement and preparation of annual plans and budgets.
 
@@ -5287,7 +5692,7 @@ Structure
 
 Programmes
 
-Institutional These annual appraisals will be the basis for discussions64 between MINED and its partners, through:
+Institutional
 
 Institutional Arrangement for the Implementation of the Education Strategic Plan |115
 
@@ -5315,9 +5720,11 @@ Programmes
 
 Institutional
 
+These annual appraisals will be the basis for discussions64 between MINED and its partners, through:
+
 - The Annual Review Meeting (RAR) (March/April), where sector progress and challenges are discussed with the main objective of establishing a dialogue agenda for the following years;
 
-(Thematic) Working Groups, where specific areas are discussed, with the objective of: i) reaching consensus on the main strategies to improve sector performance; and, ii) increasing the Ministry's strategic capacity;
+- (Thematic) Working Groups, where specific areas are discussed, with the objective of: i) reaching consensus on the main strategies to improve sector performance; and, ii) increasing the Ministry's strategic capacity;
 
 - Joint Coordination Committee (GCC), with the objective of facilitating the coordination between MINED and its cooperation partners, and monitoring of recommendations produced at the Annual Review Meeting;
 
@@ -5537,29 +5944,28 @@ Financing  an  expanding  system  requires  additional  resources  each  year  f
 
 Establishing new partnerships as well as economic development and the potential of emerging industries may, in the medium- and long-term, contribute to an increase in State revenue and, consequently, the Education sector.
 
-Macroeconomic Parameters | Expen- diture 1 | Budget 2 | Projections 3
+Table 11: Financial forecasts for the period 2012-2016, based on the 2010 execution and 2011 budget (in millions of MT, 2010)
+
+Macroeconomic Parameters | Expenditure1 (2010) | Budget2 (2011) | Projections3 (2012) | 2013 | 2014 | 2015 | 2016
 --- | --- | --- | --- | --- | --- | --- | ---
-2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016
-GDP Deflator | 12.7% | 9.5% | 7.2% | 5.6% | 5.6%
+GDP Deflator | 12.7% | 9.5% | 7.2% | 5.6% | 5.6% | |
 GDP Growth (in %) | 7.2% | 7.5% | 7.9% | 7.8% | 7.8% | 7.8% | 7.8%
 MT/USD Exchange rate | 33 | 32 | 30 | 30 | 30 | 30 | 30
-% of public expendi- ture relative to GDP | 31.8% | 33.0% | 32.8% | 32.8% | 32.8% | 32.8% | 32.8%
+% of public expenditure relative to GDP | 31.8% | 33.0% | 32.8% | 32.8% | 32.8% | 32.8% | 32.8%
 GDP | 323,585 | 346,883 | 372,899 | 402,476 | 434,001 | 468,070 | 504,812
 Public resources | 99,364 | 110,482 | 123,011 | 131,819 | 142,144 | 153,302 | 165,336
 Resources for Education (Scen. 1) | 20,908 | 23,239 | 25,866 | 27,709 | 29,870 | 32,204 | 34,721
 % for education in public expenditure | 21.0% | 21.0% | 21.0% | 21.0% | 21.0% | 21.0% | 21.0%
-Internal Source | 16,584 | 18,347 | 20,496 | 22,493 | 25,200
-External Source | 4,324 | 4,892 | 5,371 | 5,216 | 4,670
-Percentage from External Source | 26.1% | 26.7% | 26.2% | 23.2% | 18.5%
-Resources for Education (Scen. 2) | 27,506 | 30,346 | 33,660 | 37,314 | 41,334
-% for education in public expenditure | 22,4% | 23,0% | 23,7% | 24,3% | 25,0%
-Internal Source | 22,135 | 25,130 | 28,990
-External Source | 5,371 | 5,216 | 4,670
-Percentage from External Source | 20% | 17% | 14%
-Difference Scenario 1 and 2 | In MT | 1,640 | 2,637 | 3,790 | 5,110 | 6,613
-In USD (exchange rate: 30 MT/USD) | 55 | 88 | 126 | 170 | 220
-
-Table 11:	 Financial forecasts for the period 2012-2016, based on the 2010 execution and 2011 budget (in millions of MT, 2010)
+Internal Source | 16,584 | 18,347 | 20,496 | 22,493 | 25,200 | |
+External Source | 4,324 | 4,892 | 5,371 | 5,216 | 4,670 | |
+Percentage from External Source | 26.1% | 26.7% | 26.2% | 23.2% | 18.5% | |
+Resources for Education (Scen. 2) | | | 27,506 | 30,346 | 33,660 | 37,314 | 41,334
+% for education in public expenditure | | | 22,4% | 23,0% | 23,7% | 24,3% | 25,0%
+Internal Source | | | 22,135 | 25,130 | 28,990 | |
+External Source | | | 5,371 | 5,216 | 4,670 | |
+Percentage from External Source | | | 20% | 17% | 14% | |
+Difference Scenario 1 and 2 — In MT | | | 1,640 | 2,637 | 3,790 | 5,110 | 6,613
+In USD (exchange rate: 30 MT/USD) | | | 55 | 88 | 126 | 170 | 220
 
 > 1 Source: REO, 2010, MINED.
 
@@ -5579,26 +5985,25 @@ Education sector expenditure is determined mainly by the number of students in  
 
 #### 8.3.1 Number of students and teachers
 
-Assumptions | 2016
---- | --- | --- | --- | ---
-2010 | Scen.1 | Scen.2
-Admission | Grade 1 | 6/7 years old | 70% | 85%
-Total | 175% | 125%
-Transition grade 5/6 | 65% | 75%
-Transition grade 7/8 | 69% | 69% | 75%
-Transition grade 10/11 | 59% | 54% | 65%
-Average academic attainment rate | EP1 | 85% | 90%
-EP2 | 87% | 89%
-ESG1 | 73% | 78%
-ESG2 | 74% | 80%
-Internal | % of graduates relative to | TVE-medium | 18% | 25%
-Efficiency | total pupils (annual) | Higher Education (public) | 13% | 15%
-Average repetition rate | EP1 | 8% | 6%
-EP2 | 6% | 6%
-ESG1 | 22% | 10%
-ESG2 | 17% | 10%
+Table 12: Main indicators with a direct impact on the number of students and teachers in the system70
 
-Table 12:	 Main indicators with a direct impact on the number of students and teachers in the system 70
+Assumptions | Detail | Level/indicator | 2010 | 2016 Scen.1 | 2016 Scen.2
+--- | --- | --- | --- | --- | ---
+Admission | Grade 1 | 6/7 years old | 70% | 85% |
+Admission | Grade 1 | Total | 175% | 125% |
+Admission | Transition grade 5/6 | | 65% | 75% |
+Admission | Transition grade 7/8 | | 69% | 69% | 75%
+Admission | Transition grade 10/11 | | 59% | 54% | 65%
+Internal Efficiency | Average academic attainment rate | EP1 | 85% | 90% |
+Internal Efficiency | Average academic attainment rate | EP2 | 87% | 89% |
+Internal Efficiency | Average academic attainment rate | ESG1 | 73% | 78% |
+Internal Efficiency | Average academic attainment rate | ESG2 | 74% | 80% |
+Internal Efficiency | % of graduates relative to total pupils (annual) | TVE-medium | 18% | 25% |
+Internal Efficiency | % of graduates relative to total pupils (annual) | Higher Education (public) | 13% | 15% |
+Internal Efficiency | Average repetition rate | EP1 | 8% | 6% |
+Internal Efficiency | Average repetition rate | EP2 | 6% | 6% |
+Internal Efficiency | Average repetition rate | ESG1 | 22% | 10% |
+Internal Efficiency | Average repetition rate | ESG2 | 17% | 10% |
 
 > 70 Source: Education sector costing model, MINED, version June 2012.
 
@@ -5622,7 +6027,7 @@ Programmes
 
 Institutional
 
-Costs The targets reflected in Table 12 determine the number of students in the system. As can be seen in Table 18 (on page 135), the sector will continue to grow at all levels of education over the coming years, in both scenarios, but more slowly than in previous years, with the exception of upper Primary Education (EP2), and nonformal adult literacy and education programmes.
+Costs
 
 Costs |121
 
@@ -5652,40 +6057,41 @@ Institutional
 
 Costs
 
-Assumptions | 2010 | 2016
---- | --- | --- | --- | ---
-Scen.1 | Scen.2
-Percentage | Public, daytime classes | 98% | 98%
-Public, evening classes | 1% | 0%
-Private | 1% | 1%
-Community | 1% | 2%
-Public, daytime classes | 65% | 65%
-Public, evening classes | 24% | 10%
-Public, distance learn- ing | 1% | 10%
-Private | 3% | 5%
-of pupils | Community | 7% | 10%
-by different | Public, daytime classes | 51% | 50%
-education modalities | Public, evening classes | 36% | 22%
-Public, distance learn- ing | 0% | 10%
-Private | 5% | 10%
-Community | 8% | 8%
-Public | 38% | 65% | 60%
-Community | 49% | 25% | 30%
-Private | 13% | 10% | 10%
-Public | 72% | 68% | 71%
-Private | 28% | 32% | 29%
-Efficiency in use of teach- | EP1 | 63 | 56
-EP2 | 35 | 56
-AEA/ALE | 15 | 30
-EP1 | 50 | 48
-EP2 | 52 | 48
-ESG1 | 64 | 55 | 50
-and commu- | ESG2 | 61 | 55 | 50
-nity schools) | TVE - basic | 35 | 30
-TVE - medium | 35 | 30
-EP2 | 21 | 24
-ESG1 | 21 | 24
-ESG2 | 15 | 20
+Assumptions | Education level/ratio | Modality/indicator | 2010 | 2016 Scen.1 | 2016 Scen.2
+--- | --- | --- | --- | --- | ---
+Percentage of pupils absorbed by different education modalities | Primary Education | Public, daytime classes | 98% | 98% |
+Percentage of pupils absorbed by different education modalities | Primary Education | Public, evening classes | 1% | 0% |
+Percentage of pupils absorbed by different education modalities | Primary Education | Private | 1% | 1% |
+Percentage of pupils absorbed by different education modalities | Primary Education | Community | 1% | 2% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 1 | Public, daytime classes | 65% | 65% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 1 | Public, evening classes | 24% | 10% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 1 | Public, distance learning | 1% | 10% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 1 | Private | 3% | 5% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 1 | Community | 7% | 10% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 2 | Public, daytime classes | 51% | 50% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 2 | Public, evening classes | 36% | 22% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 2 | Public, distance learning | 0% | 10% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 2 | Private | 5% | 10% |
+Percentage of pupils absorbed by different education modalities | General Secondary Education 2 | Community | 8% | 8% |
+Percentage of pupils absorbed by different education modalities | Technical and Vocational Education | Public | 38% | 65% | 60%
+Percentage of pupils absorbed by different education modalities | Technical and Vocational Education | Community | 49% | 25% | 30%
+Percentage of pupils absorbed by different education modalities | Technical and Vocational Education | Private | 13% | 10% | 10%
+Percentage of pupils absorbed by different education modalities | Higher Education | Public | 72% | 68% | 71%
+Percentage of pupils absorbed by different education modalities | Higher Education | Private | 28% | 32% | 29%
+Efficiency in use of teachers (public and community schools) | Pupil/teacher ratio | EP1 | 63 | 56 |
+Efficiency in use of teachers (public and community schools) | Pupil/teacher ratio | EP2 | 35 | 56 |
+Efficiency in use of teachers (public and community schools) | Pupil/teacher ratio | AEA/ALE | 15 | 30 |
+Efficiency in use of teachers (public and community schools) | Pupil/class ratio | EP1 | 50 | 48 |
+Efficiency in use of teachers (public and community schools) | Pupil/class ratio | EP2 | 52 | 48 |
+Efficiency in use of teachers (public and community schools) | Pupil/class ratio | ESG1 | 64 | 55 | 50
+Efficiency in use of teachers (public and community schools) | Pupil/class ratio | ESG2 | 61 | 55 | 50
+Efficiency in use of teachers (public and community schools) | Pupil/class ratio | TVE – basic | 35 | 30 |
+Efficiency in use of teachers (public and community schools) | Pupil/class ratio | TVE – medium | 35 | 30 |
+Efficiency in use of teachers (public and community schools) | Average weekly workload per teacher | EP2 | 21 | 24 |
+Efficiency in use of teachers (public and community schools) | Average weekly workload per teacher | ESG1 | 21 | 24 |
+Efficiency in use of teachers (public and community schools) | Average weekly workload per teacher | ESG2 | 15 | 20 |
+
+The targets reflected in Table 12 determine the number of students in the system. As can be seen in Table 18 (on page 135), the sector will continue to grow at all levels of education over the coming years, in both scenarios, but more slowly than in previous years, with the exception of upper Primary Education (EP2), and non-formal adult literacy and education programmes.
 
 122| Costs
 
@@ -5693,9 +6099,11 @@ ESG2 | 15 | 20
 
 [[START OF PAGE 137]]
 
-Compared to the first scenario, the second forecasts more rapid growth in preprimary and post-Primary Education, and in adult literacy and education.
+Compared to the first scenario, the second forecasts more rapid growth in pre-primary and post-Primary Education, and in adult literacy and education.
 
 The proposed targets reflect the increase in gross enrolment rates, as can be seen in Table 13. These rates confirm the increase in participation, particularly in upper Primary Education.
+
+Table 13: Gross enrolment rates, 2010 (values observed) and projections per scenario
 
 Reference Age Group | Levels | 2010 | Scen.1 | Scen.2
 --- | --- | --- | --- | ---
@@ -5705,8 +6113,6 @@ Reference Age Group | Levels | 2010 | Scen.1 | Scen.2
 16-17 years old | ESG2 | 19% | 25% | 30%
 16-17 years old | TVE - Medium | 1% | 2% | 2%
 Number of pupils per 1000 inhabitants | Higher Education | 3 (2009) | 4,4 | 5
-
-Table 13:	 Gross enrolment rates, 2010 (values observed) and projections per scenario
 
 Growth over the coming years, in terms of the number of students, is expected to  result  mainly  from  the  system's  increased internal efficiency. More students are expected to progress to the next grade every year as a result of a decrease in failure and drop-out rates. Scenario 1 forecasts a maintenance of transition rates between the different levels of education (with the exception of ESG2), while Scenario 2 foresees an increase in transition rates between grades 7 and 8, as well as between grades 10 and 11 (see Table 12).
 
@@ -5766,315 +6172,47 @@ Programmes
 
 Institutional
 
-Costs An increase in direct financing to schools is foreseen through the Direct Support to Schools programme. The increase for Primary Education will include a support component for the more vulnerable children. In the case of Secondary and Technical and Vocational Education, this amount compensates for the low investment in books and teaching materials.
-
-Table 14:	 Cost determinants of the sector's main interventions
-
-Main programmes
-
-Targets
-
-Unit costs (in MT)
-
-Scen.1
-
-Scen.2
-
-Scen.1
-
-Scen.2
-
-2010
-
-2016
-
-2016
-
-2010
-
-2016
-
-2016
-
-Teachers
-
-EP1
-
-N5
-
-8%
-
-0%
-
-N4
-
-61%
-
-70%
-
-N3
-
-31%
-
-30%
-
-EP2
-
-N5
-
-3%
-
-0%
-
-N4
-
-33%
-
-40%
-
-N3
-
-64%
-
-60%
-
-ESG1
-
-N3
-
-72%
-
-60%
-
-53%
-
-N2
-
-14%
-
-30%
-
-37%
-
-N1
-
-14%
-
-10%
-
-10%
-
-ESG2
-
-N3
-
-25%
-
-15%
-
-0%
-
-N2
-
-26%
-
-35%
-
-45%
-
-N1
-
-49%
-
-50%
-
-55%
-
-Books and equipment
-
-Per pupil
-
-EP1
-
-No. of titles
-
-33
-
-36
-
-93
-
-72
-
-EP2
-
-No. of titles
-
-32
-
-28
-
-271
-
-192
-
-ESG1
-
-Others
-
-12
-
-17
-
-14
-
-ESG2
-
-Others
-
-12
-
-17
-
-14
-
-TVE
-
-Others
-
-18
-
-41
-
-27
-
-School Financing (DSS/ADE)
-
-Per pupil
-
-EP
-
-106
-
-129
-
-150
-
-ESG
-
-73
-
-75
-
-90
-
-TVE
-
-405
-
-450
-
-600
-
-Scholarships
-
-Per scholarship
-
-ESG1
-
-10%
-
-20%
-
-662
-
-662
-
-ESG2
-
-10%
-
-20%
-
-860
-
-860
-
-TVE
-
-10%
-
-20%
-
-1,290
-
-1,290
-
-School snack
-
-Per snack
-
-EP1
-
-4%
-
-5%
-
-10%
-
-12
-
-Construction (accelerated)
-
-Per classroom
-
-EP
-
-880
-
-1,400
-
-3,000
-
-601,977
-
-662,859
-
-662,859
-
-ESG
-
-157
-
-200
-
-400
-
-850,200
-
-901,104
-
-901,104
-
-TVE
-
-50
-
-50
-
-50
-
-1,046,400
-
-852,801
-
-852,801
+Costs
+
+Table 14: Cost determinants of the sector's main interventions
+
+Main programmes | Detail | Target 2010 | Target Scen.1 2016 | Target Scen.2 2016 | Unit cost 2010 | Unit cost Scen.1 2016 | Unit cost Scen.2 2016
+--- | --- | --- | --- | --- | --- | --- | ---
+Teachers — EP1 | N5 | 8% | 0% | | | |
+Teachers — EP1 | N4 | 61% | 70% | | | |
+Teachers — EP1 | N3 | 31% | 30% | | | |
+Teachers — EP2 | N5 | 3% | 0% | | | |
+Teachers — EP2 | N4 | 33% | 40% | | | |
+Teachers — EP2 | N3 | 64% | 60% | | | |
+Teachers — ESG1 | N3 | 72% | 60% | 53% | | |
+Teachers — ESG1 | N2 | 14% | 30% | 37% | | |
+Teachers — ESG1 | N1 | 14% | 10% | 10% | | |
+Teachers — ESG2 | N3 | 25% | 15% | 0% | | |
+Teachers — ESG2 | N2 | 26% | 35% | 45% | | |
+Teachers — ESG2 | N1 | 49% | 50% | 55% | | |
+Books and equipment — EP1 | No. of titles | 33 | 36 | | 93 | 72 |
+Books and equipment — EP2 | No. of titles | 32 | 28 | | 271 | 192 |
+Books and equipment — ESG1 | Others | | | | 12 | 17 | 14
+Books and equipment — ESG2 | Others | | | | 12 | 17 | 14
+Books and equipment — TVE | Others | | | | 18 | 41 | 27
+School Financing (DSS/ADE) — EP | Per pupil | | | | 106 | 129 | 150
+School Financing (DSS/ADE) — ESG | Per pupil | | | | 73 | 75 | 90
+School Financing (DSS/ADE) — TVE | Per pupil | | | | 405 | 450 | 600
+Scholarships — ESG1 | Per scholarship | | 10% | 20% | 662 | 662 |
+Scholarships — ESG2 | Per scholarship | | 10% | 20% | 860 | 860 |
+Scholarships — TVE | Per scholarship | | 10% | 20% | 1,290 | 1,290 |
+School snack — EP1 | Per snack | 4% | 5% | 10% | 12 | |
+Construction (accelerated) — EP | Per classroom | 880 | 1,400 | 3,000 | 601,977 | 662,859 | 662,859
+Construction (accelerated) — ESG | Per classroom | 157 | 200 | 400 | 850,200 | 901,104 | 901,104
+Construction (accelerated) — TVE | Per classroom | 50 | 50 | 50 | 1,046,400 | 852,801 | 852,801
 
 124| Costs
 
 [[END OF PAGE 138]]
 
 [[START OF PAGE 139]]
+
+An increase in direct financing to schools is foreseen through the Direct Support to Schools programme. The increase for Primary Education will include a support component for the more vulnerable children. In the case of Secondary and Technical and Vocational Education, this amount compensates for the low investment in books and teaching materials.
 
 An increase in the target for the construction of classrooms, compared to current numbers, is also forecast. The reduction in the unit cost for technical education is linked to the focus on the decentralised construction of community centres.
 
@@ -6134,9 +6272,10 @@ Costs
 
 Table 15 presents the budget per level of education, and for the sector's main interventions. As can be seen, Primary Education continues to be the priority in terms of resource allocation, despite a slight drop compared to other levels of education, particularly Technical and Vocational Education.
 
-Expenditure per level of education | 2010 5 | 2016 | Diff. Scen. 2/1
+Table 15: Expected costs per level of education and for the sector's main interventions71 (values in millions of MT, 2010)
+
+Expenditure per level of education | 20105 Value | In % | 2016 Scen. 1 | In % | 2016 Scen. 2 | In % | Diff. Scen. 2/1
 --- | --- | --- | --- | --- | --- | --- | ---
-Value | In % | Scen. 1 | In % | Scen. 2 | In %
 (Pre-) Primary Education | 12,944 | 56.7% | 18,394 | 52.8% | 20,498 | 49.1% | 11.4%
 Adult Literacy and Education | 321 | 1.4% | 393 | 1.1% | 519 | 1.2% | 32.1%
 Secondary Education | 4,064 | 17.8% | 7,223 | 20.7% | 9,127 | 21.9% | 26.4%
@@ -6145,17 +6284,15 @@ Higher Education | 3,112 | 13.6% | 4,999 | 14.3% | 6,274 | 15.0% | 25.5%
 Administrative and Institutional Development | 1,611 | 7.1% | 1,796 | 5.2% | 2,169 | 5.2% | 20.7%
 Totals | 22,839 | 100.0% | 34,836 | 100% | 41,745 | 100.0% | 19.8%
 
-Table 15:	 Expected costs per level of education and for the sector's main interventions 71 (values in millions of MT, 2010)
-
-Type of expenditure
+Type of expenditure | 2010 Value | In % | 2016 Scen. 1 | In % | 2016 Scen. 2 | In % | Diff. Scen. 2/1
 --- | --- | --- | --- | --- | --- | --- | ---
 Salaries and Remunerations | 16,232 | 71.1% | 24,999 | 71.8% | 27,990 | 67.1% | 12.0%
-Construction, rehabili- tation and equipment | 1,791 | 7.8% | 1,746 | 5.0% | 3,168 | 7.6% | 81.5%
-Distance Learning 2 | 51 | 0.2% | 222 | 0.6% | 225 | 0.5% | 1.3%
-HIV/AIDS Prevention/ social protection 3 | 793 | 3.5% | 1,309 | 3.8% | 2,181 | 5.2% | 66.6%
-DSS/ADE, Institutional financing, books and teaching materials 4 | 3,856 | 16.9% | 6,412 | 18.4% | 8,023 | 19.2% | 25.1%
+Construction, rehabilitation and equipment | 1,791 | 7.8% | 1,746 | 5.0% | 3,168 | 7.6% | 81.5%
+Distance Learning2 | 51 | 0.2% | 222 | 0.6% | 225 | 0.5% | 1.3%
+HIV/AIDS Prevention/social protection3 | 793 | 3.5% | 1,309 | 3.8% | 2,181 | 5.2% | 66.6%
+DSS/ADE, Institutional financing, books and teaching materials4 | 3,856 | 16.9% | 6,412 | 18.4% | 8,023 | 19.2% | 25.1%
 Teacher Training (initial) | 54 | 0.2% | 69 | 0.2% | 69 | 0.2% | 0.0%
-Institutional and Human Resources Development 5 | 62 | 0.3% | 79 | 0.2% | 89 | 0.2% | 12.7%
+Institutional and Human Resources Development5 | 62 | 0.3% | 79 | 0.2% | 89 | 0.2% | 12.7%
 Totals | 22,839 | 100.0% | 34,836 | 100.0% | 41,745 | 100.0% | 19.8%
 
 > 71 The observed and projected values are indicative. Some caution is needed when interpreting the information per programme, since the financial system (e-SISTAFE) does not yet provide for programme budgeting for the sector's operating budget (more than 50% of the budget).
@@ -6168,29 +6305,28 @@ Totals | 22,839 | 100.0% | 34,836 | 100.0% | 41,745 | 100.0% | 19.8%
 
 It  is  also  possible  to  see  in  Table  16  and Table 17 that the cost per student increases for all levels of education with greater emphasis on TVE, while the cost per student for distance learning, has decreased as a result of economies of scale.
 
-2010 | 2016 | Differences
+Table 16: Cost per student per level of education (in Meticais)
+
+Level of education | Cost per student | 2010 | 2016 Scen. 1 | 2016 Scen. 2 | Differences 2010/Scen. 1 | Differences Scen. 1/Scen. 2
 --- | --- | --- | --- | --- | --- | ---
-Cost per student | Scen. 1 | Scen. 2 | 2010/ Scen. 1 | Scen. 1/ Scen. 2
-Pre-Primary | 121 | 225 | 86%
+Primary Education | Pre-Primary | | 121 | 225 | | 86%
 Primary Education | EP1 | 1,969 | 2,484 | 2,796 | 26% | 13%
-EP2 | 3,840 | 4,064 | 4,400 | 6% | 8%
-TT | 14,793 | 21,509 | 21,509 | 45% | 0%
-ESG1 | 4,097 | 5,715 | 6,735 | 39% | 18%
-ESG2 | 7,507 | 8,726 | 9,448 | 16% | 8%
-Distance Learning 6 | 16,427 | 6,834 | 6,880 | -58% | 1%
-Technical and Vocational Education | 17,218 | 40,553 | 40,902 | 136% | 1%
-Higher Education 7 | 42,846 | 51,161 | 57,362 | 19% | 12%
-AEA/ALE | 542 | 494 | 494 | -9% | 0%
+Primary Education | EP2 | 3,840 | 4,064 | 4,400 | 6% | 8%
+Primary Education | TT | 14,793 | 21,509 | 21,509 | 45% | 0%
+Secondary Education | ESG1 | 4,097 | 5,715 | 6,735 | 39% | 18%
+Secondary Education | ESG2 | 7,507 | 8,726 | 9,448 | 16% | 8%
+Secondary Education | Distance Learning6 | 16,427 | 6,834 | 6,880 | -58% | 1%
+Technical and Vocational Education | | 17,218 | 40,553 | 40,902 | 136% | 1%
+Higher Education7 | | 42,846 | 51,161 | 57,362 | 19% | 12%
+AEA/ALE | | 542 | 494 | 494 | -9% | 0%
 
-Table 16:	 Cost per student per level of education (in Meticais)
+Table 17: Pupil/cost ratio per levels of education, in relation to the cost per student in EP1 (Ep1 = 1)
 
-DPI | AEA/ ALE | EP 1 | EP 2 | ESG 1 | ESG 2 | TVE | TT | HE
+Year | Scenario | DPI | AEA/ALE | EP1 | EP2 | ESG1 | ESG2 | TVE | TT | HE
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2010 | 0.3 | 1.0 | 2.0 | 2.1 | 3.8 | 8.7 | 7.5 | 21.8
+2010 | | | 0.3 | 1.0 | 2.0 | 2.1 | 3.8 | 8.7 | 7.5 | 21.8
 2016 | Scenario 1 | 0.0 | 0.2 | 1.0 | 1.6 | 2.3 | 3.5 | 16.3 | 8.7 | 20.6
-Scenario 2 | 0.1 | 0.2 | 1.0 | 1.6 | 2.4 | 3.4 | 14.6 | 7.7 | 20.5
-
-Table 17:	 Pupil/cost ratio per levels of education, in relation to the cost per student in EP1 (Ep1 = 1)
+2016 | Scenario 2 | 0.1 | 0.2 | 1.0 | 1.6 | 2.4 | 3.4 | 14.6 | 7.7 | 20.5
 
 #### Notes table 15 and 16
 
@@ -6258,38 +6394,37 @@ Institutional
 
 Costs
 
-Table 18:	 Number of students and teachers, 2004 & 2010 and forecasts for 2016 (per scenario) 72
+Table 18: Number of students and teachers, 2004 & 2010 and forecasts for 2016 (per scenario)72
 
-2016 | Average annual growth
+Numbers | Level/type | 2004 | 2010 | 2016 Scen. 1 | 2016 Scen. 2 | Average annual growth 2004/2010 | Average annual growth 2010/2016 Sc.1 | Average annual growth 2010/2016 Sc.2
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Numbers | 2004 | 2010 | Scen. 1 | Scen. 2 | 2004/ 2010 | 2010/ 2016 Sc.1 | 2010/ 2016 Sc.2
-Pupils (public, private, community education, daytime and evening classes)
-Pre- Primary Education | Public - MINED | 0 | 43,630
-Public - MMAS | 3,750 | 4,250 | 4,786 | 4,786 | 2% | 2% | 2%
-Others | 94,100 | 110,600 | 148,213 | 148,213 | 2% | 6% | 6%
-Totals | 97,850 | 114,850 | 152,999 | 196,629 | 2% | 6% | 11%
-Primary | EP1 | 3,106,556 | 4,454,358 | 4,991,330 | 4,991,330 | 5% | 2% | 2%
-Education | EP2 | 501,447 | 897,704 | 1,386,528 | 1,386,528 | 9% | 9% | 9%
+Pupils (public, private, community education, daytime and evening classes) | | | | | | | |
+Pre-Primary Education | Public – MINED | | 0 | | 43,630 | | |
+Pre-Primary Education | Public – MMAS | 3,750 | 4,250 | 4,786 | 4,786 | 2% | 2% | 2%
+Pre-Primary Education | Others | 94,100 | 110,600 | 148,213 | 148,213 | 2% | 6% | 6%
+Pre-Primary Education | Totals | 97,850 | 114,850 | 152,999 | 196,629 | 2% | 6% | 11%
+Primary Education | EP1 | 3,106,556 | 4,454,358 | 4,991,330 | 4,991,330 | 5% | 2% | 2%
+Primary Education | EP2 | 501,447 | 897,704 | 1,386,528 | 1,386,528 | 9% | 9% | 9%
 General Secondary Education | ESG1 | 287,016 | 728,497 | 958,283 | 1,047,487 | 14% | 6% | 8%
-ESG2 | 45,685 | 179,608 | 290,239 | 342,660 | 22% | 10% | 14%
+General Secondary Education | ESG2 | 45,685 | 179,608 | 290,239 | 342,660 | 22% | 10% | 14%
 Technical and Vocational Education | Voc. Schools | 978 | 4,748 | 32,058 | 54,086 | 25% | 47% | 63%
-Basic level | 26,631 | 27,893 | 0 | 0 | 1% | -100% | -100%
-Medium Level Institutes | 2,459 | 13,038 | 18,390 | 23,098 | 27% | 7% | 12%
+Technical and Vocational Education | Basic level | 26,631 | 27,893 | 0 | 0 | 1% | -100% | -100%
+Technical and Vocational Education | Medium Level Institutes | 2,459 | 13,038 | 18,390 | 23,098 | 27% | 7% | 12%
 Higher Education | Public | 15,113 | 72,636 | 80,841 | 93,510 | 25% | 2% | 5%
-Private | 7,143 | 28,726 | 38,496 | 38,496 | 22% | 6% | 6%
-Total | 22,256 | 101,362 | 119,337 | 132,006 | 24% | 3% | 5%
-AEA/ALE | 1 st year | 277,204 | 237,340 | 318,058 | 420,462 | -2% | 6% | 12%
-2 nd year | 268,814 | 247,345 | 331,467 | 438,188 | -1% | 6% | 12%
-3 rd year | 128,916 | 108,230 | 145,040 | 191,736 | -2% | 6% | 12%
-N-formal | 0 | 6,000 | 10,000
-Teachers (public, daytime classes)
+Higher Education | Private | 7,143 | 28,726 | 38,496 | 38,496 | 22% | 6% | 6%
+Higher Education | Total | 22,256 | 101,362 | 119,337 | 132,006 | 24% | 3% | 5%
+AEA/ALE | 1st year | 277,204 | 237,340 | 318,058 | 420,462 | -2% | 6% | 12%
+AEA/ALE | 2nd year | 268,814 | 247,345 | 331,467 | 438,188 | -1% | 6% | 12%
+AEA/ALE | 3rd year | 128,916 | 108,230 | 145,040 | 191,736 | -2% | 6% | 12%
+AEA/ALE | N-formal | | 0 | 6,000 | 10,000 | | |
+Teachers (public, daytime classes) | | | | | | | |
 Primary Education | EP1 | 46,708 | 66,160 | 84,489 | 84,489 | 5% | 5% | 5%
-EP2 | 10,331 | 21,590 | 34,239 | 34,239 | 11% | 10% | 10%
+Primary Education | EP2 | 10,331 | 21,590 | 34,239 | 34,239 | 11% | 10% | 10%
 Gen. Sec. Education | ESG1 | 4,359 | 10,454 | 16,053 | 20,684 | 13% | 9% | 15%
-ESG2 | 759 | 2,890 | 4,527 | 6,654 | 21% | 9% | 18%
-Technical and Vocational | Voc. Schools | 574 | 575 | 2,475 | 3,861 | 26% | 34% | 46%
-Basic Level | 941 | 0 | 0 | 7% | -100% | -100%
-Education | Med. Level | 128 | 416 | 625 | 684 | 18% | 8% | 10%
+Gen. Sec. Education | ESG2 | 759 | 2,890 | 4,527 | 6,654 | 21% | 9% | 18%
+Technical and Vocational Education | Voc. Schools | 574 | 575 | 2,475 | 3,861 | 26% | 34% | 46%
+Technical and Vocational Education | Basic Level | | 941 | 0 | 0 | 7% | -100% | -100%
+Technical and Vocational Education | Med. Level | 128 | 416 | 625 | 684 | 18% | 8% | 10%
 AEA/ALE | Total | 21,191 | 21,135 | 26,486 | 35,013 | 0% | 5% | 11%
 
 > 72 Source: Education sector costing model, MINED, version June 2012.
@@ -6456,7 +6591,7 @@ Child Poverty and Disparities in Mozambique, UNICEF, Maputo, 2011.
 
 Uma análise sobre a evolução do sector da Educação 2004-2010, MINED/DIPLAC, Julho de 2010.
 
-Relatório  de  Avaliação  do  Plano  Estratégico  para  a  Educação  e  Cultura  20062010/11, CESO, Julho 2011 (volumes I, IIa, b, c, III, IV e V).
+Relatório de Avaliação do Plano Estratégico para a Educação e Cultura 2006-2010/11, CESO, Julho 2011 (volumes I, IIa, b, c, III, IV e V).
 
 Alguns  indicadores  sobre  educação:  Ensino  primário,  Ensino  Secundário  Geral: evolução 2004-2010, DIPLAC, Agosto de 2010.
 
@@ -6483,6 +6618,7 @@ Appraisal  of  Mozambique's  Education  Strategic  Plan  III  (2012-2016),  2nd 
 [[END OF PAGE 146]]
 
 [[START OF PAGE 147]]
+Presupostos
 
 'The Promise of Preschool in Africa: A Randomized Impact Evaluation of Early Childhood Development in Rural Mozambique', WB, February 2012.
 
@@ -6522,13 +6658,16 @@ Estratégia de Género do sector da educação, 2011-2015, da equidade para a ig
 
 Plano Tecnológico da Educação - As Tecnologias de Informação e Comunicação a potenciar o ensino em Moçambique, MINED, 2011 (com apoio de Leadership Business Consulting).
 
-Resposta do sector ao HIV e SIDA em Moçambique, Proposta para o Financiamen- Presupostos Presupostos to pela DANIDA através do Fundo Comum - FASE, MEC, Dezembro, 2009.
+Resposta do sector ao HIV e SIDA em Moçambique, Proposta para o Financiamen-
 
 Documentation |133
 
 [[END OF PAGE 147]]
 
 [[START OF PAGE 148]]
+Presupostos
+
+to pela DANIDA através do Fundo Comum - FASE, MEC, Dezembro, 2009.
 
 Programa de Ensino Secundário à Distância, Avaliação e Estratégia, Leadership Business Consulting, 2011.
 
@@ -6562,18 +6701,49 @@ Strategic matrix |135
 
 [[START OF PAGE 150]]
 
-Base (2011) Target | (2016) | 54% (2015) | 51% (2015) | to educational opportunities for pre- | Promote the expansion of access schoolers | Monitor the implementation of the strategy for the development of pre- school children | 3. Promote school enrolment at the right age (6 or 7 years old) construction programme | 5. Ensure that schools are safe and healthy places 6. Prepare strategies to reduce regional, age and gender disparities | Harmonise social protection programmes | 8. Expand provision of assistance to children with special educational needs (SEN) | 9. Continue to produce and distribute free school books, including those for Bilingual Education | Develop and implement the action plan for Reading, Writing and Numeracy | Ensure the expansion of Bilingual Education, guaranteeing its quality Reform primary teacher training and capacity building | 13. Improve the Primary Education curriculum | 14. Improve monitoring and follow-up of students' and teachers' academic performance | 15. Improve school management 16. Rationalise the use of human resources (teachers and managers) in Pri- mary Education | Continue reforms in procurement
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-49% (2010) | 45% (2010) | of the accelerated
-Primary Education Guarantee that all children have | Gross Primary Education | Total (HM) | 2016 Priority Action | 84,000 1. | 42,000 2. | 83% | 4. Improve the | 82% | Reading and numeracy: tbc 58
-2015 | 49,000 | 24,500 | 80% | Data collection: competencies: reading and numeracy (tbc) | 59
-2014 | 21,000 | 10,500 | 77% | report (baseline) end of October | 60
-2013 | 0 | 0 | 74% | Data collection: competency: reading
-2012 | 73% | Item bank developed, instruments and items tested | 62
-Completion Rate | Base 2011 | 69.7% | tion of basic competencies devel- oped and approved, instruments pre-tested
-MF | F | MF | in grade 1 | 3rd grade have reached and numeracy of the 1st cycle Education | (EP1)
-Raparigas (M) Result Indicator | Participation rate | Net enrolment rate | at age 6 | Percentage students basic literacy competencies of Primary | 1.c Student/teacher
-1.d | 1.a | enter right | Objective | students' perfor- particularly writing, calcula- skills 1.b | Improve the efficiency and efficacy of the use resources made available for Pri- Education.
+Programme | Primary Education
+General Objective | Guarantee that all children have the opportunity to complete 7 years quality basic education
+Impact Indicator 1 | Gross Primary Education Completion Rate | Base (2011) | Target (2016)
+ | Total (HM) | 49% (2010) | 54% (2015)
+ | Raparigas (M) | 45% (2010) | 51% (2015)
+
+Strategic Objectives | Result Indicator | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Priority Action
+
+Special focus: Early Childhood
+1.d Participation rate | MF | | | 0 | 21,000 | 49,000 | 84,000
+1.d Participation rate | F | | | 0 | 10,500 | 24,500 | 42,000
+Priority Actions:
+1. Promote the expansion of access to educational opportunities for pre-schoolers
+2. Monitor the implementation of the strategy for the development of pre-school children
+
+Guarantee that all children enter school at the right age (6 or 7 years old) and remain in school until they complete grade 7
+1.a Net enrolment rate at age 6 in grade 1 | MF | 69.7% | 73% | 74% | 77% | 80% | 83%
+1.a Net enrolment rate at age 6 in grade 1 | F | 68.5% | 71% | 73% | 76% | 79% | 82%
+Priority Actions:
+3. Promote school enrolment at the right age (6 or 7 years old)
+4. Improve the implementation of the accelerated construction programme
+5. Ensure that schools are safe and healthy places
+6. Prepare strategies to reduce regional, age and gender disparities
+7. Harmonise social protection programmes
+8. Expand provision of assistance to children with special educational needs (SEN)
+
+Improve students' academic performance, particularly in reading, writing, numeric calculation and life skills
+1.b Percentage of 3rd grade students that have reached basic literacy and numeracy competencies of the 1st cycle of Primary Education | Concept of system for the evaluation of basic competencies developed and approved, instruments pre-tested | Item bank developed, instruments and items tested | Data collection: competency: reading | Preliminary report till end of April, final report (baseline) end of October | Data collection: competencies: reading and numeracy (tbc) | Reading and numeracy: tbc
+Priority Actions:
+9. Continue to produce and distribute free school books, including those for Bilingual Education
+10. Develop and implement the action plan for Reading, Writing and Numeracy
+11. Ensure the expansion of Bilingual Education, guaranteeing its quality
+12. Reform primary teacher training and capacity building
+13. Improve the Primary Education curriculum
+14. Improve monitoring and follow-up of students' and teachers' academic performance
+
+Improve the efficiency and efficacy of the use of resources made available for Primary Education.
+1.c Student/teacher ratio (EP1) | 63 | 62 | 61 | 60 | 59 | 58
+Priority Actions:
+15. Improve school management
+16. Rationalise the use of human resources (teachers and managers) in Primary Education
+17. Continue reforms in procurement
+18. Increase transparency in school management
 
 136| Strategic Matrix
 
@@ -6583,18 +6753,36 @@ Raparigas (M) Result Indicator | Participation rate | Net enrolment rate | at ag
 
 [[START OF PAGE 151]]
 
-Adult Literacy and Education | Target (2016) | 30% | 45% | Mobilise and sensitise all players on the importance of having a literate population | 2. Encourage the increase in the supply of different (types of) programmes in non-formal literacy and education | Create reading and information usage environments at community level to ensure there is no reversal into il- literacy | Prepare competency standards to guarantee the quality and relevance of the programmes | Revisit and harmonise current Literacy and Post-Litera- cy programmes offered by the Ministry of Education | Design and implement actions within the context of Life Skills, in partnership with other stakeholders | Revisit and implement the educator and literacy teacher training curriculum, taking into consideration cross- cutting issues | Strengthen institutional and organisational capacity | Develop policies and mechanisms for coordination be- tween Government institutions and their Partners | Secure the diversification of financing
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Base (2011) | 48% (2008) | 63% (2008)
-2016 | 1 million | 70% | 100%
-2015 | 1 million | 70%
-2014 | 1 million | 70%
-2013 | 1 million | 70%
-2012 | 1 million | 70%
-Base 2011 | 474 mil | 315 mil | women
-Female (F) | MF | F | Reduce illiteracy, with particular focus on Illiteracy rate Total (FM) | Non-Formal Education data con- solidated in relation to the different programmes
-Result Indicator | 2.a | 2.b | 2.c
-Programme | General Objective | Impact Indicator 2 | Strategic Objectives | Guarantee access and retention of learners in Adult Literacy and Educa- programmes | Improve the qual- ity and relevance of Adult Literacy and Education and Non- Formal Education programmes | Strengthen institution- al and organisational capacity
+Programme | Adult Literacy and Education
+General Objective | Reduce illiteracy, with particular focus on women
+Impact Indicator 2 | Illiteracy rate | Base (2011) | Target (2016)
+Total (FM) | 48% (2008) | 30%
+Female (F) | 63% (2008) | 45%
+
+Strategic Objectives | Result Indicator | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Priority Action
+
+Guarantee access to and retention of learners in Adult Literacy and Education programmes
+2.a No. of youth and adults participating in different literacy programmes | MF | 474 mil | 1 million | 1 million | 1 million | 1 million | 1 million
+| F | 315 mil | 70% | 70% | 70% | 70% | 70%
+Priority Actions:
+1. Mobilise and sensitise all players on the importance of having a literate population
+2. Encourage the increase in the supply of different (types of) programmes in non-formal literacy and education
+3. Create reading and information usage environments at community level to ensure there is no reversal into illiteracy
+
+Improve the quality and relevance of Adult Literacy and Education and Non-Formal Education programmes
+2.b No. of literacy programmes based on established standards | Not harmonized | Not harmonized | Standards developed | 30% of other providers’ programmes harmonised | 40% of other providers’ programmes harmonised | 50% of other providers’ programmes harmonised
+Priority Actions:
+4. Prepare competency standards to guarantee the quality and relevance of the programmes
+5. Revisit and harmonise current Literacy and Post-Literacy programmes offered by the Ministry of Education
+6. Design and implement actions within the context of Life Skills, in partnership with other stakeholders
+7. Revisit and implement the educator and literacy teacher training curriculum, taking into consideration cross-cutting issues
+
+Strengthen institutional and organisational capacity
+2.c % Non-Formal Education data consolidated in relation to the different programmes | 0% | 0% | 30% | 50% | 75% | 100%
+Priority Actions:
+8. Strengthen institutional and organisational capacity
+9. Develop policies and mechanisms for coordination between Government institutions and their Partners
+10. Secure the diversification of financing
 
 Literacy and Adult Education
 
@@ -6604,18 +6792,47 @@ Strategic Matrix |137
 
 [[START OF PAGE 152]]
 
-(2011) Target (2016) | Base | 46% 50% | 43% 47% Action | 1. Comply with the established targets for school admissions | 2. Continue to build and equip secondary schools, prioritising rural areas | 3. Expand distance learning in a sustainable manner 4. Promote private sector and community participation in the provision of ESG | 5. Update and implement a scholarship/school fee exemption system Promote, regulate and oversee self-directed learning | 6. 7. Adopt a more relevant and sustainable curriculum that includes cross-cutting issues | 8. Increase the curriculum time from 33 to 40 weeks | 9. Establish a continued vocational training and development system for teachers, in- cluding cross-cutting issues | 10. Guarantee access to school books, teaching materials and other materials containing topics on cross-cutting issues | 11. Define and implement quality standards and indicators in teaching-learning by families | 12. Create a training and capacity building strategy for managers, covering planning, management and school administration 13. Develop a sustainable financing system for ESG, co-participated by the sector and | 14. Consolidate the exams reform 15. Adapt/adjust and apply ESG normative instruments | 16. Promote the concept of safe and healthy schools
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-General Secondary Education in a controlled, equitable and sustainable manner, guaranteeing its quality and relevance | Gross | (MF) | 2016 Priority | 49% | 55% | 52% | 59% | 57% | 115
-24% 26% | 53% | 50% | 57% | 55% | 115
-2014 2015 | 46% 47% | 23% | 51% | 48% | 55% | 53% | 140
-2013 | 44% | 21% | 49% | 46% | 53% | 51% | 140
-2012 | 48% | 45% | 21% | 19% | 47% | 44% | 51% | 49% | 0
-Base 2011 | 46% | 43% | 20% | 18% | 51% | 49% | 48% | 46%
-MF | F | MF | F | MF | F | MF | F
-Expand | Enrolment Rate (ESG1) | Total | (F) Indicator | Grade 8 Grade 11 | Admission | ESG 1 ESG | rate in 10 12 | 2 | trained | directors
-Girls Result | 3.a | Gross | Rate | 3.b | Pass grades and | 3.c | %
-General Objective | Impact Indicator 3 | Strategic Objectives | Expand controlled guaranteeing access, with attention to girls with special needs | access, equitable | special | and youth educational | Improve the quality and relevance of General Secondary Education by developing and imple- menting a vocational- oriented curriculum | Improve school manage- ment
+Programme | General Secondary Education
+General Objective | Expand General Secondary Education in a controlled, equitable and sustainable manner, guaranteeing its quality and relevance
+Impact Indicator 3 | Gross Enrolment Rate (ESG1) | Base (2011) | Target (2016)
+Total (MF) | 46% | 50%
+Girls (F) | 43% | 47%
+
+Strategic Objectives | Result Indicator | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Priority Action
+
+Expand controlled access, guaranteeing equitable access, with special attention to girls and youth with special educational needs
+3.a Gross Admission Rate | Grade 8 | MF | 46% | 48% | 44% | 46% | 47% | 49%
+| Grade 8 | F | 43% | 45% |  |  |  |
+| Grade 11 | MF | 20% | 21% | 21% | 23% | 24% | 26%
+| Grade 11 | F | 18% | 19% |  |  |  |
+Priority Actions:
+1. Comply with the established targets for school admissions
+2. Continue to build and equip secondary schools, prioritising rural areas
+3. Expand distance learning in a sustainable manner
+4. Promote private sector and community participation in the provision of ESG
+5. Update and implement a scholarship/school fee exemption system
+6. Promote, regulate and oversee self-directed learning
+
+Improve the quality and relevance of General Secondary Education by developing and implementing a vocational-oriented curriculum
+3.b Pass rate in grades 10 and 12 | ESG 1 | MF | 51% | 47% | 49% | 51% | 53% | 55%
+| ESG 1 | F | 49% | 44% | 46% | 48% | 50% | 52%
+| ESG 2 | MF | 48% | 51% | 53% | 55% | 57% | 59%
+| ESG 2 | F | 46% | 49% | 51% | 53% | 55% | 57%
+Priority Actions:
+7. Adopt a more relevant and sustainable curriculum that includes cross-cutting issues
+8. Increase the curriculum time from 33 to 40 weeks
+9. Establish a continued vocational training and development system for teachers, including cross-cutting issues
+10. Guarantee access to school books, teaching materials and other materials containing topics on cross-cutting issues
+11. Define and implement quality standards and indicators in teaching-learning
+
+Improve school management
+3.c % directors trained |  | 0 | 140 | 140 | 115 | 115
+Priority Actions:
+12. Create a training and capacity building strategy for managers, covering planning, management and school administration
+13. Develop a sustainable financing system for ESG, co-participated by the sector and by families
+14. Consolidate the exams reform
+15. Adapt/adjust and apply ESG normative instruments
+16. Promote the concept of safe and healthy schools
 
 138| Strategic Matrix
 
@@ -6625,16 +6842,51 @@ General Secondary Education
 
 [[START OF PAGE 153]]
 
-Vocational and Technical Education | Target (2016) | 60% | 2016 Priority Action | 10,000 1. Rehabilitate and equip 29 existing medium level institutes exclusion organise internships Technical and Voca- | 6,000 2. Build/create Vocational Schools, particularly in rural areas | 4. Implement short courses in close collaboration and coordination with DINAEA and INEFP 5. Rationalise the courses offered | 6. Explore possibilities for using distance learning | 13. Expand exams reform to institutions using the former curriculum 14. Consolidate and expand the National Professional Qualifications Framework and the Accreditation and Certification System | Improve the management of safe and healthy schools Guarantee better linkages with the productive sector, through its participation in school management
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Base (2007)
-according to their | 2013 | 79% 67% 77% | 2,600 | 19
-(esti- 1,200 | 14
-relevance | the labour market | Base 2011 | 7,662 2011) 75.7% 63.3% 73.2% | 22,364 | 13,913 | 1,000 mate | 5
-access, quality and | absorbed by | Vocational Schools Vocational Schools Basic Level Medium Level Institutes schools imple- management | Basic Schools | Medium Level Insti- tutes | Short non-formal courses
-Improve the | % of graduates | Indicator | Number of youth and adults in the rate level and of quality | system
-Result | 4.a 4.b Pass per education system 4.c Number menting instruments
-Programme | General Objective | Impact Indicator 4 | Strategic Objectives | Increase access to and Guarantee that TVET graduates receive quality training relevant to the formal and informal labour markets Improve the manage- ment and coordination of the system, involving the productive sector, | retention in TVET, paying particular attention to geographic and gender disparities | particular
+Programme | Vocational and Technical Education
+General Objective | Improve the access, quality and relevance of TVE
+Impact Indicator 4 | % of graduates absorbed by the labour market according to their training | Base (2007) | Target (2016)
+Graduates from the new qualification system | 27% | 60%
+Graduates from the former system |  |
+
+Strategic Objectives | Result Indicator | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Priority Action
+
+Increase access to and retention in TVET, paying particular attention to geographic and gender disparities
+4.a Number of youth and adults in the system | Vocational Schools | 7,662 |  |  |  |  | 10,000
+| Basic Schools | 22,364 |  |  |  |  | 6,000
+| Medium Level Institutes | 13,913 |  |  |  |  | 25,000
+| Short non-formal courses | 1,000 (estimate 2011) | 1,200 | 2,600 | 3,300 | 4,100 | 5,000
+Priority Actions:
+1. Rehabilitate and equip 29 existing medium level institutes
+2. Build/create Vocational Schools, particularly in rural areas
+3. Create 40 CCDCs
+4. Implement short courses in close collaboration and coordination with DINAEA and INEFP
+5. Rationalise the courses offered
+6. Explore possibilities for using distance learning
+7. Encourage the opening of private institutions
+8. Apply an incentives system aimed at achieving a better gender balance and avoiding exclusion
+
+Guarantee that TVET graduates receive quality training relevant to the formal and informal labour markets
+4.b Pass rate per level and education system | Vocational Schools | 75.7% | 77% | 79% | 81% | 83% | 85%
+| Basic Level | 63.3% | 65% | 67% | 69% | 69% | 70%
+| Medium Level Institutes | 73.2% | 75% | 77% | 79% | 85% | 88%
+Priority Actions:
+9. Implement the TVE teacher recruitment, training and capacity building strategy
+10. Introduce competency standards-based curricula (modular system – medium level)
+11. Guarantee financial, human and material resources to ensure quality TVE
+12. Plan and introduce short courses
+13. Expand exams reform to institutions using the former curriculum
+14. Consolidate and expand the National Professional Qualifications Framework and the Accreditation and Certification System
+15. Ensure the creation of professional and vocational guidance units in schools and organise internships
+
+Improve the management and coordination of the system, involving the productive sector, in particular
+4.c Number of schools implementing quality management instruments | 5 | 14 | 19 | 22 | 25 | 27
+Priority Actions:
+16. Create a body responsible for the policies, regulation and quality assurance of Technical and Vocational Education and Training
+17. Award greater autonomy to medium level institutes
+18. Improve the management of safe and healthy schools
+19. Guarantee better linkages with the productive sector, through its participation in school management
+20. Guarantee financing for TVET
+21. Strengthen school production in all institutes
 
 Technical and Vocational Education
 
@@ -6644,16 +6896,42 @@ Strategic Matrix |139
 
 [[START OF PAGE 154]]
 
-Promote participation in and access to Higher Education that meets the country's socioeconomic development needs, guaranteeing its effectiveness, balance and sustainability | Target (2016) 3 5 | 15% 1. Mobilise HEIs to introduce distance learning (ODL) | (2020) 2. Align HE expansion with the country's development programmes | 3. Increase the number of scholarships 4. Guarantee minimum conditions for institutions to operate better | with quality, ensuring internal efficiency | 5. Improve the provision of pedagogical services 6. Promote the use of student-centred competency- and requirements-based learning methodologies, including incentives for the development of pedagogical innovation projects | 7. Implement SNATCA and QUANQES | 8. Hold HEIs accountable for technical and scientific specialisation of their teaching staff, by developing and implementing a practicable and monitored training plan | 9. Ensure that HEIs comply with the minimum standards for its teachers' working condi- tions | 10. Promote a culture of research | 12. Ensure inspection and regulation of HEIs 13. Implement the regulation for the creation and operation of HEIs and the Inspection regulations | 14. Implement Inspection System for Higher Education | 15. Guarantee financing for HEIs
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Base (2009) | 2016 Priority Action | 25% | 12% | All 11. Improve governance
-in Higher Education per 1.000 inhabitants | 2014
-2013
-2012
-Base 2011 | 13% (2010) | 21% | 8.5%
-MF | F | Master's degree | Doctorate degree | with the 48/2010
-Nº of students Total | Indicator | 5.a Proportion of graduates rela- tive to enrolled students | No. of HEI teachers per academic degree | 5.b | % of HEIs compliant provisions of Decree
-Impact Indicator | Strategic Objectives Result | Consolidate the existing subsys- tem with a view to improving its internal efficiency | Improve the quality of the teaching-learning process | Strengthen governance, financ- ing, administration and monitor- 5.c | ing capacity of the subsystem at all levels
+Programme | Higher Education
+General Objective | Promote participation in and access to Higher Education that meets the country’s socioeconomic development needs, guaranteeing its effectiveness, balance and sustainability
+Impact Indicator | Nº of students in Higher Education per 1.000 inhabitants | Base (2009) | Target (2016)
+Total | 3 | 5
+
+Strategic Objectives | Result Indicator | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Priority Action
+
+Consolidate the existing subsystem with a view to improving its internal efficiency
+5.a Proportion of graduates relative to enrolled students | MF | 13% (2010) |  |  |  |  | 15% (2020)
+| F |  |  |  |  |  |
+Priority Actions:
+1. Mobilise HEIs to introduce distance learning (ODL)
+2. Align HE expansion with the country’s development programmes
+3. Increase the number of scholarships
+4. Guarantee minimum conditions for institutions to operate with quality, ensuring better internal efficiency
+
+Improve the quality of the teaching-learning process
+5.b No. of HEI teachers per academic degree | Master’s degree | 21% |  |  |  |  | 25%
+| Doctorate degree | 8.5% |  |  |  |  | 12%
+Priority Actions:
+5. Improve the provision of pedagogical services
+6. Promote the use of student-centred competency- and requirements-based learning methodologies, including incentives for the development of pedagogical innovation projects
+7. Implement SNATCA and QUANQES
+8. Hold HEIs accountable for technical and scientific specialisation of their teaching staff, by developing and implementing a practicable and monitored training plan
+9. Ensure that HEIs comply with the minimum standards for its teachers’ working conditions
+10. Promote a culture of research
+
+Strengthen governance, financing, administration and monitoring capacity of the subsystem at all levels
+5.c % of HEIs compliant with the provisions of Decree 48/2010 |  |  |  |  |  | All
+Priority Actions:
+11. Improve governance
+12. Ensure inspection and regulation of HEIs
+13. Implement the regulation for the creation and operation of HEIs and the Inspection regulations
+14. Implement Inspection System for Higher Education
+15. Guarantee financing for HEIs
+16. Strengthen the IBE and guarantee the CNAQ’s operation
 
 140| Strategic Matrix
 
@@ -6663,18 +6941,47 @@ Higher Education
 
 [[START OF PAGE 155]]
 
-Strengthen the management and governance of the education system's administration at the different levels, particularly in the districts, with a view to improving the quality of service provision throughout the country | Base (2011) Target (2016) be established (2012) Satisfactory | Priority Action 1. Implement human resources | management routines 2. Restructure and develop instruments for an integrated human resources man- agement system | 3. Prepare and implement a competency-and performance-based human sources evaluation system | 4. Increase social support measures | 5. Train and build capacity of the sector's human capital 6. Improve workplace conditions | 7. Introduce motivation and awards measures for better retention | 8. Conceptualise and institutionalise the National System for Education Quality Assessment in Mozambique | 9. Develop quality standards and indicators | 10. Develop/ consolidate accreditation, qualification and certification systems | 11. Strengthen internal control at district level | 12. Prepare student performance monitoring instruments 13. Consolidate the exams reform | 14. Integrate cross-cutting issues in the different sector programmes | 15. Improve the quality of the information collected from the sector 16. Encourage better use of information in the POEMA cycle | 17. Encourage a culture of research 18. Prepare and apply equity and transparency criteria in the allocation of the sector's funds | 19. Align POEMA processes at sector level with national and territorial processes 20. Improve information communication and dissemination
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2016 | 10.000 | 50% | 500 | To be defined | ≥ 95 - ≤ 100% | 95%
-2015 | 9.500 | 50% | 500 | To be defined | ≥ 95 - ≤ 100% | 95%
-2014 | 9.000 | 50% | 500 | To be defined | ≥ 95 - ≤ 100% | 80%
-2013 | 8.500 | 40% | 500 | Baseline established (260 schools) | ≥ 95 - ≤ 100% | 74%
-2012 | 8.500 | 50% | 0 | Established standards (EP) | ≥ previous year | 69%
-Base 2011 | 9.700 | 68,5% | n/a | ≥ 90% | 69%
-Development | MF | F | Non-teachers | monitored schools minimum standards | i. Total | ii. FASE
-No. of staff employed | achieve | Number of that | Budget execution (operation and invest- ment)
-6.a | 6.b | 6.c
-Programme | General Objective | Strategic Objectives | Encourage human resources development and management | Guarantee compliance with standards and education | quality indicators for | Harmonise and strengthen the system's POEMA processes and instruments
+Programme | Administrative and Institutional Development
+General Objective | Strengthen the management and governance of the education system’s administration at the different levels, particularly in the districts, with a view to improving the quality of service provision throughout the country
+Impact Indicator | Population satisfaction index in terms of quality of education services | Base (2011) | Target (2016)
+| To be established (2012) | Satisfactory
+
+Strategic Objectives | Result Indicator | Base 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | Priority Action
+
+Encourage human resources development and management
+6.a No. of staff employed | Teachers | MF | 9.700 | 8.500 | 8.500 | 9.000 | 9.500 | 10.000
+| Teachers | F | 68,5% | 50% | 40% | 50% | 50% | 50%
+| Non-teachers |  | 0 | 500 | 500 | 500 | 500
+Priority Actions:
+1. Implement human resources management routines
+2. Restructure and develop instruments for an integrated human resources management system
+3. Prepare and implement a competency-and performance-based human resources evaluation system
+4. Increase social support measures
+5. Train and build capacity of the sector’s human capital
+6. Improve workplace conditions
+7. Introduce motivation and awards measures for better retention
+
+Guarantee compliance with quality standards and indicators for education
+6.b Number of monitored schools that achieve minimum standards | n/a | Established standards (EP) | Baseline established (260 schools) | To be defined | To be defined | To be defined
+Priority Actions:
+8. Conceptualise and institutionalise the National System for Education Quality Assessment in Mozambique
+9. Develop quality standards and indicators
+10. Develop/ consolidate accreditation, qualification and certification systems
+11. Strengthen internal control at district level
+12. Prepare student performance monitoring instruments
+13. Consolidate the exams reform
+
+Harmonise and strengthen the system’s POEMA processes and instruments
+6.c Budget execution (operation and investment) | i. Total | ≥ 90% | ≥ previous year | ≥ 95 – ≤ 100% | ≥ 95 – ≤ 100% | ≥ 95 – ≤ 100% | ≥ 95 – ≤ 100%
+| ii. FASE | 69% | 69% | 74% | 80% | 95% | 95%
+Priority Actions:
+14. Integrate cross-cutting issues in the different sector programmes
+15. Improve the quality of the information collected from the sector
+16. Encourage better use of information in the POEMA cycle
+17. Encourage a culture of research
+18. Prepare and apply equity and transparency criteria in the allocation of the sector’s funds
+19. Align POEMA processes at sector level with national and territorial processes
+20. Improve information communication and dissemination
 
 Institutional and Administrative Development
 
