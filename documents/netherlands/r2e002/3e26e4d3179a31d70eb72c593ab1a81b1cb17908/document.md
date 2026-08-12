@@ -191,7 +191,7 @@ Het onderwijs wordt zodanig ingericht dat daarbij op structurele en herkenbare w
 
 ###### Artikel 6d. Onderwijs in lichamelijke opvoeding
 
-Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactiviteiten, wordt gespreid verzorgd over alle leerjaren van het voortgezet onderwijs. Dit onderwijs vindt plaats gespreid over de schoolweken, en in zodanige substantiële omvang en schooltijd dat wordt voldaan aan de eisen op het gebied van kwaliteit, intensiteit en variëteit van de bewegingsactiviteiten neergelegd in kerndoelen en examenprogramma's. Daarbij wordt uitgegaan van de situatie zoals die op 1 augustus 2005 voor het bewegingsonderwijs gold. In afwijking van de tweede volzin geldt voor het laatste leerjaar het voorschrift, dat het onderwijs in het eindexamenvak lichamelijke opvoeding niet eerder mag worden afgesloten dan in de maand december.
+Onderwijs in lichamelijke opvoeding, bestaande uit praktische bewegingsactiviteiten, wordt gespreid verzorgd over alle leerjaren van het voortgezet onderwijs. Dit onderwijs vindt plaats gespreid over de schoolweken, en in zodanige substantiële omvang en schooltijd dat wordt voldaan aan de eisen op het gebied van kwaliteit, intensiteit en variëteit van de bewegingsactiviteiten neergelegd in kerndoelen en examenprogramma’s. Daarbij wordt uitgegaan van de situatie zoals die op 1 augustus 2005 voor het bewegingsonderwijs gold. In afwijking van de tweede volzin geldt voor het laatste leerjaar het voorschrift, dat het onderwijs in het eindexamenvak lichamelijke opvoeding niet eerder mag worden afgesloten dan in de maand december.
 
 ###### Artikel 6e. Beschikbaarstelling lesmateriaal aan leerlingen
 
@@ -535,7 +535,7 @@ een agrarisch opleidingscentrum voor zover aan die instelling een basisberoepsop
 
 - Het bevoegd gezag kan bij de school ingeschreven leerlingen die daarbij naar zijn oordeel gebaat zijn, in de gelegenheid stellen om geheel of gedeeltelijk in plaats van de basisberoepsgerichte leerweg, bedoeld in artikel 10b, eerste lid, een entreeopleiding te volgen als bedoeld in artikel 7.2.2, eerste lid, onder a, van de Wet educatie en beroepsonderwijs, met inachtneming van de artikelen 7.2.7 en 8.1.1, vijfde lid, van laatstgenoemde wet.
 
-- De entreeopleiding stemt overeen met het programma-aanbod van de beroepsgerichte programma's van de basisberoepsgerichte leerweg die aan de school wordt verzorgd.
+- De entreeopleiding stemt overeen met het programma-aanbod van de beroepsgerichte programma’s van de basisberoepsgerichte leerweg die aan de school wordt verzorgd.
 
 - Het bevoegd gezag is niet gehouden, leerlingen die een entreeopleiding volgen als bedoeld in het eerste lid, gelegenheid te geven om aan de school een eindexamen in de basisberoepsgerichte leerweg af te leggen als bedoeld in artikel 29, eerste lid.
 
@@ -1593,7 +1593,7 @@ de expertisecentra of een instelling als bedoeld in artikel 1, onder c, van de L
 
 - indien het bevoegd gezag de ouders bij de aanmelding verzoekt te verklaren dat zij de grondslag van het onderwijs op de school zullen respecteren dan wel te verklaren dat zij de grondslag van het onderwijs op de school zullen onderschrijven, en de ouders dit weigeren te
 
-- verklaren, of
+verklaren, of
 
 - indien de leerling niet voldoet aan de voorwaarden voor toelating gesteld bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid.
 
@@ -1679,7 +1679,7 @@ opgenomen.
 
 [[START OF PAGE 38]]
 
-- diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs, en
+diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs, en
 
 - die van de school wordt verwijderd.
 
@@ -1691,7 +1691,7 @@ opgenomen.
 
 - Onze Minister neemt de op grond van dit artikel door het bevoegd gezag verstrekte gegevens op in het meldingsregister relatief verzuim.
 
-- Onze Minister bericht burgemeester en wethouders van de gemeente waar de betrokkene woonof verblijfplaats heeft onverwijld na ontvangst van de opgave, bedoeld in het eerste lid, dat een zodanige opgave heeft plaatsgevonden.
+- Onze Minister bericht burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft onverwijld na ontvangst van de opgave, bedoeld in het eerste lid, dat een zodanige opgave heeft plaatsgevonden.
 
 - Onze Minister verstrekt uit het meldingsregister relatief verzuim aan het betrokken bevoegd gezag en aan burgemeester en wethouders van de gemeente waar de betrokkene woon- of verblijfplaats heeft de ter zake van die betrokkene geregistreerde gegevens.
 
@@ -1743,7 +1743,7 @@ Bij of krachtens algemene maatregel van bestuur wordt bepaald door wie en op wel
 
 [[START OF PAGE 40]]
 
-- onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften omtrent deze toets vastgesteld.
+onderdeel c, van de Wet referentieniveaus Nederlandse taal en rekenen. Bij of krachtens algemene maatregel van bestuur worden nadere voorschriften omtrent deze toets vastgesteld.
 
 - Voor examens, die niet vanwege de school worden afgenomen, kunnen bij algemene maatregel van bestuur voorschriften worden gegeven.
 
@@ -1899,7 +1899,7 @@ De eerste en tweede volzin zijn niet van toepassing op benoeming of tewerkstelli
 
 [[START OF PAGE 44]]
 
-- van een getuigschrift als bedoeld in het eerste lid, onderdeel b, onder 1°, niet rechtstreeks kan of kon worden vastgesteld dat wordt voldaan aan de voor die vakken of programmaonderdelen geldende bekwaamheidseisen, een overzicht gegeven van getuigschriften waarmee wordt voldaan aan de bekwaamheidseisen die gelden voor het geven van voortgezet onderwijs in die vakken of programmaonderdelen. In het overzicht kunnen eisen worden opgenomen omtrent bij- of nascholing.
+van een getuigschrift als bedoeld in het eerste lid, onderdeel b, onder 1°, niet rechtstreeks kan of kon worden vastgesteld dat wordt voldaan aan de voor die vakken of programmaonderdelen geldende bekwaamheidseisen, een overzicht gegeven van getuigschriften waarmee wordt voldaan aan de bekwaamheidseisen die gelden voor het geven van voortgezet onderwijs in die vakken of programmaonderdelen. In het overzicht kunnen eisen worden opgenomen omtrent bij- of nascholing.
 
 - In bijzondere gevallen kan Onze minister aan personen, die in een bepaald vak of onderdeel van een vak door buitengewone bekwaamheid uitmunten, ten aanzien van dit vak of dit onderdeel ontheffing verlenen van de in het eerste lid onder b gestelde eisen.
 
@@ -2108,7 +2108,7 @@ Het bevoegd gezag benoemt, schorst en ontslaat de rector, de directeur, de conre
 
 ###### Artikel 39b. Nascholingsplan
 
-[Vervallen per 01-08-1998 01-08-1998]
+[Vervallen per 01-08-1998]
 
 ###### Artikel 39c
 
@@ -2764,7 +2764,7 @@ Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan 
 
 ###### Artikel 59a. Aanwijzing scholen voortgezet speciaal onderwijs
 
-- De artikelen 56 tot en met 59, met uitzondering van artikel 57, onderdeel c, en artikel 58, zevende en achtste lid, en artikel 58a, zijn van overeenkomstige toepassing op scholen als bedoeld in artikel 1 van de Wet op de expertisecentra waar voortgezet speciaal onderwijs wordt verzorgd. Ten aanzien van scholen waar toepassing is gegegeven aan de eerste volzin, zijn de voorschriften gegeven bij of krachtens de artikelen 6f, 22 en 28b van overeenkomstige toepassing.
+- De artikelen 56 tot en met 59, met uitzondering van artikel 57, onderdeel c, en artikel 58, zevende en achtste lid, en artikel 58a, zijn van overeenkomstige toepassing op scholen als bedoeld in artikel 1 van de Wet op de expertisecentra waar voortgezet speciaal onderwijs wordt verzorgd. Ten aanzien van scholen waar toepassing is gegeven aan de eerste volzin, zijn de voorschriften gegeven bij of krachtens de artikelen 6f, 22 en 28b van overeenkomstige toepassing.
 
 - Ten aanzien van scholen waar toepassing is gegeven aan het eerste lid, zijn de artikelen 10b1 tot en met 10b8 en 10b9, eerste en tweede lid, van overeenkomstige toepassing voor zover het betreft de basisberoepsgerichte leerweg van het voorbereidend beroepsonderwijs.
 
@@ -2923,7 +2923,7 @@ beroepsonderwijs, als bedoeld in artikel 29, derde lid.
 
 - een scholengemeenschap die is ontstaan door samenvoeging van een scholengemeenschap als bedoeld in artikel 2.6 van de Wet educatie en beroepsonderwijs waarvan een regionaal opleidingencentrum deel uitmaakt, met een school voor middelbaar algemeen voortgezet onderwijs of een school voor voorbereidend beroepsonderwijs, indien ten minste een bij ministeriële regeling vast te stellen percentage van de leerlingen van een vestiging van laatstgenoemde scholengemeenschap en van de leerlingen van een vestiging van een bij de samenvoeging betrokken school voor middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs, afkomstig is uit dezelfde postcodegebieden.
 
-- Het tweede lid, aanhef en onderdeel b, is van overeenkomstige toepassing op een scholengemeenschap als bedoeld in artikel 2.6 van de Wet educatie en beroepsonderwijs waarvan een agrarisch opleidingscentrum deel uitmaakt, die wordt samengevoegd met een school voor middelbaar algemeen voorgezet onderwijs, een school voor voorbereidend beroepsonderwijs waarin slechts onderwijs wordt verzorgd als bedoeld in artikel 10b, derde lid, onderdeel i, of een school voor praktijkonderwijs.
+- Het tweede lid, aanhef en onderdeel b, is van overeenkomstige toepassing op een scholengemeenschap als bedoeld in artikel 2.6 van de Wet educatie en beroepsonderwijs waarvan een agrarisch opleidingscentrum deel uitmaakt, die wordt samengevoegd met een school voor middelbaar algemeen voortgezet onderwijs, een school voor voorbereidend beroepsonderwijs waarin slechts onderwijs wordt verzorgd als bedoeld in artikel 10b, derde lid, onderdeel i, of een school voor praktijkonderwijs.
 
 - Na een samenvoeging wordt op een vestiging onderwijs verzorgd in dezelfde schoolsoorten als bedoeld in artikel 5, in dezelfde profielen als bedoeld in de artikelen 10b en 10d, en in dezelfde leerjaren als op de desbetreffende vestiging voor de samenvoeging, behoudens wijzigingen in het onderwijsaanbod op grond van artikel 68 of artikel 72.
 
@@ -3061,7 +3061,7 @@ De artikelen 76b tot en met 76w zijn slechts van toepassing op scholen voor voor
 
 ###### Artikel 76d. Vaststelling door burgemeester en wethouders van bekostigingsplafond voor nieuwe voorzieningen in de huisvesting
 
-- Burgemeester en wethouders stellen jaarlijks ten behoeve van het eerstvolgende jaar voor een door hem te bepalen tijdstip een bekostigingsplafond vast voor de bekostiging van de voorzieningen in de huisvesting voor:
+- Burgemeester en wethouders stellen jaarlijks ten behoeve van het eerstvolgende jaar voor een door hen te bepalen tijdstip een bekostigingsplafond vast voor de bekostiging van de voorzieningen in de huisvesting voor:
 
 - basisscholen als bedoeld in de Wet op het primair onderwijs,
 
@@ -4449,7 +4449,7 @@ Bij algemene maatregel van bestuur worden voorschriften gegeven omtrent de uitvo
 
 ###### Artikel 118a. Overleg onderwijsachterstandenbeleid
 
-- Burgemeester en wethouders, de bevoegde gezagsorganen van de scholen in de gemeente, en de bevoegde gezagsorganen van de in de gemeente gelegen agrarische opleidingscentra, voor zover het betreft het daarin verzorgde voorbereidend beroepsonderwijs, voeren tenminste jaarlijks overleg over het voorkomen van segregatie, het bevorderen van integratie en het bestrijden van onderwijsachterstanden, de afstemming over inschrijvings- en toelatingsprocedures en het uit het overleg voortvloeiende voorstel van het bevoegd gezag van in de gemeente gevestigde scholen om tot een evenwichtige verdeling van leerlingen met een onderwijsachterstand over de scholen te komen. Het overleg is gericht op het maken van afspraken over de in de eerste volzin bedoelde onderwerpen. Deze afspraken hebben zoveel mogelijk het karakter van meetbare doelen. De inspectie rapporteert jaarlijks over de mate waarin die doelen worden bereikt. Burgemeester en wethouders kunnen de uitkomsten van het verplichte op overeenstemming gerichte overleg omzetten in bindende afspraken over onder andere de te realiseren prestaties en inspanningen, die - alvorens de afspraken tot stand komen - aan alle partijen worden voorgelegd. Indien het overleg over de voorgenomen bindende afspraken niet tot overeenstemming leidt, schrijven burgemeester en wethouders een nieuw overleg uit, waarbij zij initiatieven nemen tot het bereiken van een zo groot mogelijke consensus. Indien ook dit overleg niet tot overeenstemming leidt, vragen burgemeester en wethouders of een van de bevoegde gezagsorganen aan de geschillencommissie, bedoeld in het tweede lid, om een bindend advies. De geschillencommissie brengt binnen 4 weken aan burgemeester en wethouders dan wel aan het bevoegd gezag dat om het advies heeft verzocht, een bindend advies uit. Burgemeester en wethouders maken dit advies bekend aan de bevoegde gezagsorganen van de scholen in de gemeente.
+- Burgemeester en wethouders, de bevoegde gezagsorganen van de scholen in de gemeente, en de bevoegde gezagsorganen van de in de gemeente gelegen agrarische opleidingscentra, voor zover het betreft het daarin verzorgde voorbereidend beroepsonderwijs, voeren tenminste jaarlijks overleg over het voorkomen van segregatie, het bevorderen van integratie en het bestrijden van onderwijsachterstanden, de afstemming over inschrijvings- en toelatingsprocedures en het uit het overleg voortvloeiende voorstel van het bevoegd gezag van in de gemeente gevestigde scholen om tot een evenwichtige verdeling van leerlingen met een onderwijsachterstand over de scholen te komen. Het overleg is gericht op het maken van afspraken over de in de eerste volzin bedoelde onderwerpen. Deze afspraken hebben zoveel mogelijk het karakter van meetbare doelen. De inspectie rapporteert jaarlijks over de mate waarin die doelen worden bereikt. Burgemeester en wethouders kunnen de uitkomsten van het verplichte op overeenstemming gerichte overleg omzetten in bindende afspraken over onder andere de te realiseren prestaties en inspanningen, die – alvorens de afspraken tot stand komen – aan alle partijen worden voorgelegd. Indien het overleg over de voorgenomen bindende afspraken niet tot overeenstemming leidt, schrijven burgemeester en wethouders een nieuw overleg uit, waarbij zij initiatieven nemen tot het bereiken van een zo groot mogelijke consensus. Indien ook dit overleg niet tot overeenstemming leidt, vragen burgemeester en wethouders of een van de bevoegde gezagsorganen aan de geschillencommissie, bedoeld in het tweede lid, om een bindend advies. De geschillencommissie brengt binnen 4 weken aan burgemeester en wethouders dan wel aan het bevoegd gezag dat om het advies heeft verzocht, een bindend advies uit. Burgemeester en wethouders maken dit advies bekend aan de bevoegde gezagsorganen van de scholen in de gemeente.
 
 - Onze minister stelt een geschillencommissie in.
 
@@ -4699,7 +4699,7 @@ Het in artikel 118n en het in artikel 118p bedoelde bestuur verstrekken aan Onze
 
 [[START OF PAGE 114]]
 
-- tweede graad in het vak omgangskunde aan de Fontys Hogeschool Tilburg, de NHL Hogeschool, de Hogeschool Leiden of de Hogeschool Utrecht; en
+tweede graad in het vak omgangskunde aan de Fontys Hogeschool Tilburg, de NHL Hogeschool, de Hogeschool Leiden of de Hogeschool Utrecht; en
 
 - uiterlijk op 31 augustus 2016 met goed gevolg de aanvullende opleiding «Leergang omgangskunde in praktijkonderwijs en leerwegondersteunend onderwijs» met een omvang van ten minste 420 uren studie hebben afgerond aan een van de in onderdeel b genoemde hogescholen.
 
@@ -4737,23 +4737,23 @@ Voor scholen die leerwegondersteunend onderwijs aanbieden, is artikel 86, derde 
 
 - In afwijking van het eerste lid, geldt de indicatie van de in het eerste lid bedoelde leerlingen die voor het eerst met ingang van het eerstvolgende schooljaar na inwerkingtreding van de Wet tot wijziging van de Wet op het voortgezet onderwijs in verband met de integratie van het leerwegondersteunend onderwijs en praktijkonderwijs in het systeem van passend onderwijs (Integratie lwoo en pro in passend onderwijs) (Stb. XXX, XXX) gebruik maken van de indicatie, tot de datum van inwerkingtreding van artikel I, onderdelen C en D, van die wet.
 
-### Afdeling III. Overgangsrecht Wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma's in het voorbereidend beroepsonderwijs (Stb. 2016, 88)
+### Afdeling III. Overgangsrecht Wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma’s in het voorbereidend beroepsonderwijs (Stb. 2016, 88)
 
 ###### Artikel 118z. Overgangsrecht invoering profielen vmbo
 
-- De artikelen 10, 10b en 10d, zoals luidend ingevolge de Wet van 10 februari 2016 tot wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma's in het voorbereidend beroepsonderwijs (Stb. 2016, 88) zijn voor alle scholen, bedoeld in de artikelen 9 en 10a van toepassing:
+- De artikelen 10, 10b en 10d, zoals luidend ingevolge de Wet van 10 februari 2016 tot wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma’s in het voorbereidend beroepsonderwijs (Stb. 2016, 88) zijn voor alle scholen, bedoeld in de artikelen 9 en 10a van toepassing:
 
 - met ingang van 1 augustus 2016 op het derde leerjaar, en
 
 - met ingang van 1 augustus 2017 op het vierde leerjaar.
 
-- Met betrekking tot het vierde leerjaar waarop de artikelen 10, 10b en 10d, zoals luidend ingevolge de Wet van 10 februari 2016 tot wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma's in het voorbereidend beroepsonderwijs (Stb. 2016, 88) nog niet van toepassing zijn, blijven van toepassing de bij en krachtens deze wet gegeven voorschriften zoals luidend op 31 juli 2016.
+- Met betrekking tot het vierde leerjaar waarop de artikelen 10, 10b en 10d, zoals luidend ingevolge de Wet van 10 februari 2016 tot wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma’s in het voorbereidend beroepsonderwijs (Stb. 2016, 88) nog niet van toepassing zijn, blijven van toepassing de bij en krachtens deze wet gegeven voorschriften zoals luidend op 31 juli 2016.
 
-- In het schooljaar 2016-2017 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het eindexamen voorbereidend middelbaar beroepsonderwijs volgens de op 31 juli 2016 bij of krachtens deze wet vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2016 zijn toegelaten tot het vierde leerjaar.
+- In het schooljaar 2016–2017 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het eindexamen voorbereidend middelbaar beroepsonderwijs volgens de op 31 juli 2016 bij of krachtens deze wet vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2016 zijn toegelaten tot het vierde leerjaar.
 
-- In afwijking van het derde lid, stelt het bevoegd gezag in het schooljaar 2017-2018 een eerder afgewezen leerling nogmaals in de gelegenheid het in dat lid bedoelde examen af te leggen.
+- In afwijking van het derde lid, stelt het bevoegd gezag in het schooljaar 2017–2018 een eerder afgewezen leerling nogmaals in de gelegenheid het in dat lid bedoelde examen af te leggen.
 
-- In het studiejaar 2018-2019 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het examen van een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs, voor zover gericht op het behalen van het diploma middelbaar algemeen voortgezet onderwijs, volgens de op 31 juli 2016 geldende bij en krachtens de Wet educatie en beroepsonderwijs vastgestelde voorschriften.
+- In het studiejaar 2018–2019 wordt voor de laatste maal gelegenheid gegeven tot het afleggen van het examen van een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs, voor zover gericht op het behalen van het diploma middelbaar algemeen voortgezet onderwijs, volgens de op 31 juli 2016 geldende bij en krachtens de Wet educatie en beroepsonderwijs vastgestelde voorschriften.
 
 [[END OF PAGE 115]]
 
@@ -4765,13 +4765,13 @@ Voor scholen die leerwegondersteunend onderwijs aanbieden, is artikel 86, derde 
 
 ###### Artikel 118aa. Invoering profielen vmbo per 1 augustus 2017 voor het derde leerjaar
 
-- Het bevoegd gezag van een school als bedoeld in artikel 9 of 10a, kan besluiten, in afwijking van artikel 118z, eerste lid, met ingang van 1 augustus 2017 ten aanzien van het derde leerjaar van die school toepassing te geven aan het bepaalde bij of krachtens de artikelen 10, 10b, en 10d, zoals luidend ingevolge de Wet van 10 februari 2016 tot wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma's in het voorbereidend beroepsonderwijs (Stb. 2016, 88). Bij toepassing van de eerste volzin zijn de in die volzin genoemde artikelen ten aanzien van de school met ingang van 1 augustus 2018 van toepassing op het vierde leerjaar.
+- Het bevoegd gezag van een school als bedoeld in artikel 9 of 10a, kan besluiten, in afwijking van artikel 118z, eerste lid, met ingang van 1 augustus 2017 ten aanzien van het derde leerjaar van die school toepassing te geven aan het bepaalde bij of krachtens de artikelen 10, 10b, en 10d, zoals luidend ingevolge de Wet van 10 februari 2016 tot wijziging van de Wet op het voortgezet onderwijs, de Wet voortgezet onderwijs BES en enkele aanverwante wetten in verband met het invoeren van profielen in het voorbereidend beroepsonderwijs en het middelbaar algemeen voortgezet onderwijs, alsmede de actualisatie en flexibilisering van het beroepsgerichte deel van de examenprogramma’s in het voorbereidend beroepsonderwijs (Stb. 2016, 88). Bij toepassing van de eerste volzin zijn de in die volzin genoemde artikelen ten aanzien van de school met ingang van 1 augustus 2018 van toepassing op het vierde leerjaar.
 
 - Artikel 118z, tweede lid, is van overeenkomstige toepassing op scholen waarvan het bevoegd gezag een besluit als bedoeld in het eerste lid heeft genomen.
 
-- In afwijking van artikel 118z, derde lid, geldt voor scholen waarvan het bevoegd gezag een besluit als bedoeld in het eerste lid heeft genomen dat in het schooljaar 2017-2018 voor de laatste maal gelegenheid wordt gegeven tot het afleggen van het eindexamen voorbereidend middelbaar beroepsonderwijs volgens de op 31 juli 2016 bij of krachtens deze wet vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2017 zijn toegelaten tot het vierde leerjaar.
+- In afwijking van artikel 118z, derde lid, geldt voor scholen waarvan het bevoegd gezag een besluit als bedoeld in het eerste lid heeft genomen dat in het schooljaar 2017–2018 voor de laatste maal gelegenheid wordt gegeven tot het afleggen van het eindexamen voorbereidend middelbaar beroepsonderwijs volgens de op 31 juli 2016 bij of krachtens deze wet vastgestelde voorschriften, voor de leerlingen die voor 1 augustus 2017 zijn toegelaten tot het vierde leerjaar.
 
-- In afwijking van het derde lid, geldt voor scholen waarvan het bevoegd gezag een besluit als bedoeld in het eerste lid heeft genomen dat het bevoegd gezag in het schooljaar 2018-2019 een eerder afgewezen leerling nogmaals in de gelegenheid stelt het in het derde lid bedoelde examen af te leggen.
+- In afwijking van het derde lid, geldt voor scholen waarvan het bevoegd gezag een besluit als bedoeld in het eerste lid heeft genomen dat het bevoegd gezag in het schooljaar 2018–2019 een eerder afgewezen leerling nogmaals in de gelegenheid stelt het in het derde lid bedoelde examen af te leggen.
 
 - Dit artikel vervalt met ingang van 1 augustus 2021.
 
@@ -4779,7 +4779,7 @@ Voor scholen die leerwegondersteunend onderwijs aanbieden, is artikel 86, derde 
 
 - Een school voor voorbereidend beroepsonderwijs als bedoeld in artikel 10a, die voor 1 augustus 2016 in aanmerking is gebracht voor bekostiging van een of meer bij regeling van Onze Minister aan te wijzen afdelingen als bedoeld in artikel 10c, zoals dat artikel luidde op 31 juli 2016, komt met ingang van 1 augustus 2016 in aanmerking voor bekostiging van een of meer bij die regeling aan te wijzen profielen als bedoeld in artikel 10b, derde lid, en 10d, derde lid.
 
-- In de regeling, bedoeld in het eerste lid, kunnen tevens voorwaarden worden gesteld waaronder een school, die in schooljaar 2015-2016 een intrasectoraal of intersectoraal programma als bedoeld in artikel 10b, zevende lid, onderdeel a, of artikel 10d, zevende lid, onderdeel b, zoals die artikelen luidden op 31 juli 2016, verzorgde en die tot het verzorgen van dat programma gerechtigd was, met ingang van 1 augustus 2016 in aanmerking komt voor bekostiging van een of meer bij die regeling aan te wijzen profielen als bedoeld in de artikelen 10b, derde lid, en 10d, derde lid.
+- In de regeling, bedoeld in het eerste lid, kunnen tevens voorwaarden worden gesteld waaronder een school, die in schooljaar 2015–2016 een intrasectoraal of intersectoraal programma als bedoeld in artikel 10b, zevende lid, onderdeel a, of artikel 10d, zevende lid, onderdeel b, zoals die artikelen luidden op 31 juli 2016, verzorgde en die tot het verzorgen van dat programma gerechtigd was, met ingang van 1 augustus 2016 in aanmerking komt voor bekostiging van een of meer bij die regeling aan te wijzen profielen als bedoeld in de artikelen 10b, derde lid, en 10d, derde lid.
 
 - Dit artikel vervalt met ingang van 1 augustus 2021.
 
@@ -4857,15 +4857,19 @@ Lasten en bevelen, dat deze in het Staatsblad zal worden geplaatst, en dat alle 
 
 Gegeven te Lech, 14 februari 1963
 
-De Minister van Onderwijs, Kunsten en Wetenschappen, J. CALS.
+JULIANA.
 
-De Minister van Landbouw en Visserij, V. G. M. MARIJNEN.
+De Minister van Onderwijs, Kunsten en Wetenschappen,
+
+J. CALS.
+
+De Minister van Landbouw en Visserij,
+
+V. G. M. MARIJNEN.
 
 Uitgegeven de zesentwintigste februari 1963.
 
 De Minister van Justitie,
-
-JULIANA.
 
 [[END OF PAGE 118]]
 
