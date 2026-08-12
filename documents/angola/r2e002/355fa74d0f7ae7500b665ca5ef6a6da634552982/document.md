@@ -83,21 +83,21 @@ Angola shall be a sovereign and independent Republic, based on the dignity of th
 
 (Democratic state based on the rule of law)
 
-- The Republic of Angola shall be a democratic state based on the rule of law and on the sovereignty of the people, the primacy of the Constitution and the law, the separation of powers and the interdependence of functions, national unity,  pluralism  of  political  expression  and  organisation,  and  representative and participatory democracy.
+1. The Republic of Angola shall be a democratic state based on the rule of law and on the sovereignty of the people, the primacy of the Constitution and the law, the separation of powers and the interdependence of functions, national unity,  pluralism  of  political  expression  and  organisation,  and  representative and participatory democracy.
 
-- The Republic of Angola shall promote and defend the basic human rights and freedoms  of  individuals  and  members  of  organised  social  groups  and  shall ensure  respect  for  them  and  guarantee  their  implementation  through  the legislative,  executive and judicial powers, their organs and institutions, and on the part of all individuals and corporate bodies.
+2. The Republic of Angola shall promote and defend the basic human rights and freedoms  of  individuals  and  members  of  organised  social  groups  and  shall ensure  respect  for  them  and  guarantee  their  implementation  through  the legislative,  executive and judicial powers, their organs and institutions, and on the part of all individuals and corporate bodies.
 
 #### Article 3 (Sovereignty)
 
-- Single  and  indivisible  sovereignty  shall  lie  with  the  people, who  shall exercise it through universal, free, equal, direct, secret and periodic suffrage in  the  various  forms  established  in  the  Constitution,  namely  in  order  to choose their representatives.
+1. Single  and  indivisible  sovereignty  shall  lie  with  the  people, who  shall exercise it through universal, free, equal, direct, secret and periodic suffrage in  the  various  forms  established  in  the  Constitution,  namely  in  order  to choose their representatives.
 
-- The  state  shall  exercise  its  sovereignty  over  all  Angolan  territory  which, under the terms of this Constitution, the law and international law, includes its  land,  interior  and  territorial  waters,  air  space,  soil  and  sub-soil,  seafloor and associated sea beds.
+2. The  state  shall  exercise  its  sovereignty  over  all  Angolan  territory  which, under the terms of this Constitution, the law and international law, includes its  land,  interior  and  territorial  waters,  air  space,  soil  and  sub-soil,  seafloor and associated sea beds.
 
-- The  state shall  exercise  jurisdiction  and  rights  of  sovereignty  over  the conservation, development and use of natural, biological and non-biological resources  in  the  contiguous  zone,  the  exclusive  economic  area  and  on  the continental shelf, under the terms of the law and international law.
+3. The  state shall  exercise  jurisdiction  and  rights  of  sovereignty  over  the conservation, development and use of natural, biological and non-biological resources  in  the  contiguous  zone,  the  exclusive  economic  area  and  on  the continental shelf, under the terms of the law and international law.
 
 #### Article 4 (Exercise of political power)
 
-- Political power shall be exercised by whoever legally obtains it through free democratic elections, under the terms of the Constitution and the law.
+1. Political power shall be exercised by whoever legally obtains it through free democratic elections, under the terms of the Constitution and the law.
 
 4/93
 
@@ -107,29 +107,29 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 5]]
 
-- The appropriation and exercise of political power by violent means or by any other  means  not  stipulated  in,  or  conforming  to,  the  Constitution  shall  be illegal and punishable as a crime.
+2. The appropriation and exercise of political power by violent means or by any other  means  not  stipulated  in,  or  conforming  to,  the  Constitution  shall  be illegal and punishable as a crime.
 
 #### Article 5 (Territorial organisation)
 
-- The territory of the Republic of Angola shall be as historically defined by the geographical borders of Angola on 11 November 1975, the date of National Independence.
+1. The territory of the Republic of Angola shall be as historically defined by the geographical borders of Angola on 11 November 1975, the date of National Independence.
 
-- The  provision  contained  in  the  previous  point  shall  not  compromise  any additions that have been, or may come to be, established through international treaties.
+2. The  provision  contained  in  the  previous  point  shall  not  compromise  any additions that have been, or may come to be, established through international treaties.
 
-- For  political  and  administrative  purposes  the  Republic  of  Angola  shall  be organised  territorially  into  provinces  and,  subsequently,  municipalities.  It may  additionally  be  structured  into  communes  and  equivalent  territorial divisions, under the terms of the Constitution and the law.
+3. For  political  and  administrative  purposes  the  Republic  of  Angola  shall  be organised  territorially  into  provinces  and,  subsequently,  municipalities.  It may  additionally  be  structured  into  communes  and  equivalent  territorial divisions, under the terms of the Constitution and the law.
 
-- The definition of the limits and characteristics of territorial scales and their creation, modification  or abolition within the context of political  and administrative  organisation,  in  addition  to  the  organisation  of  territory  for special purposes such as economic, military, statistical, ecological or similar purposes, shall be established by law.
+4. The definition of the limits and characteristics of territorial scales and their creation, modification  or abolition within the context of political  and administrative  organisation,  in  addition  to  the  organisation  of  territory  for special purposes such as economic, military, statistical, ecological or similar purposes, shall be established by law.
 
-- The law shall establish the structure, designation and development of urban units and agglomerations.
+5. The law shall establish the structure, designation and development of urban units and agglomerations.
 
-- Angolan  territory  shall  be  indivisible,  inviolable  and  inalienable,  and  any action involving the breaking up or separation of its component parts shall be energetically resisted. No part of national territory or the rights of sovereignty which the state exerts over it may be transferred.
+6. Angolan  territory  shall  be  indivisible,  inviolable  and  inalienable,  and  any action involving the breaking up or separation of its component parts shall be energetically resisted. No part of national territory or the rights of sovereignty which the state exerts over it may be transferred.
 
 #### Article 6 (Supremacy of the Constitution and legality)
 
-- The Constitution shall be the supreme law of the Republic of Angola.
+1. The Constitution shall be the supreme law of the Republic of Angola.
 
-- The state shall be subject to the Constitution and shall be based on the rule of law, respecting the law and ensuring that the law is respected.
+2. The state shall be subject to the Constitution and shall be based on the rule of law, respecting the law and ensuring that the law is respected.
 
-- Laws, treaties and other acts of the state, local government bodies and public bodies in general shall only be valid if they conform to the Constitution.
+3. Laws, treaties and other acts of the state, local government bodies and public bodies in general shall only be valid if they conform to the Constitution.
 
 #### Article 7 (Custom)
 
@@ -149,31 +149,31 @@ The Republic of Angola shall be a unitary state whose organisation shall respect
 
 #### Article 9 (Nationality)
 
-- Angolan nationality may be held by origin or acquired.
+1. Angolan nationality may be held by origin or acquired.
 
-- The child of a father or mother with Angolan nationality, born in Angola or abroad, shall be an Angolan citizen by origin.
+2. The child of a father or mother with Angolan nationality, born in Angola or abroad, shall be an Angolan citizen by origin.
 
-- A newborn child found in Angolan territory shall be presumed an Angolan citizen by origin.
+3. A newborn child found in Angolan territory shall be presumed an Angolan citizen by origin.
 
-- No Angolan citizen by origin may be deprived of their original nationality.
+4. No Angolan citizen by origin may be deprived of their original nationality.
 
-- The  requirements  for  the  acquisition,  loss or  re-acquisition  of  Angolan nationality shall be established by law.
+5. The  requirements  for  the  acquisition,  loss or  re-acquisition  of  Angolan nationality shall be established by law.
 
 #### Article 10
 
 (Secular state)
 
-- The Republic of Angola shall be a secular state and there shall be separation between state and church, under the terms of the law.
+1. The Republic of Angola shall be a secular state and there shall be separation between state and church, under the terms of the law.
 
-- The state shall recognise and respect the different religious faiths, which shall be free to organise and exercise their activities, provided that they abide by the Constitution and the laws of the Republic of Angola.
+2. The state shall recognise and respect the different religious faiths, which shall be free to organise and exercise their activities, provided that they abide by the Constitution and the laws of the Republic of Angola.
 
-- The  state  shall  protect  churches  and  faiths  and  their  places  and  objects  of worship, provided that they do not threaten the Constitution and public order and abide by the Constitution and the law.
+3. The  state  shall  protect  churches  and  faiths  and  their  places  and  objects  of worship, provided that they do not threaten the Constitution and public order and abide by the Constitution and the law.
 
 #### Article 11 (Peace and national security)
 
-- The Republic of Angola shall be a nation dedicated to peace and progress and it  shall  be  the  duty  of  the  state  and  the  right  and  responsibility  of  all  to guarantee  peace  and  national  security,  respecting  the  Constitution  and  the law, in addition to international conventions.
+1. The Republic of Angola shall be a nation dedicated to peace and progress and it  shall  be  the  duty  of  the  state  and  the  right  and  responsibility  of  all  to guarantee  peace  and  national  security,  respecting  the  Constitution  and  the law, in addition to international conventions.
 
-- Peace shall be based on the supremacy of the rule of law and legislation, with
+2. Peace shall be based on the supremacy of the rule of law and legislation, with
 
 6/93
 
@@ -183,43 +183,43 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 7]]
 
-- a  view  to  ensuring  the  necessary  conditions  required  for  the  stability  and development of the country.
+a  view  to  ensuring  the  necessary  conditions  required  for  the  stability  and development of the country.
 
-- National  security  shall  be  based  on  the  supremacy  of  the  rule  of  law  and legislation, development of the national security system and the strengthening of national will and shall guarantee to safeguard the state and ensure stability and development in the face of any threats or risks.
+3. National  security  shall  be  based  on  the  supremacy  of  the  rule  of  law  and legislation, development of the national security system and the strengthening of national will and shall guarantee to safeguard the state and ensure stability and development in the face of any threats or risks.
 
 #### Article 12 (International relations)
 
-- The  Republic  of  Angola  shall  respect  and  implement  the  principles  of  the United Nations Charter and the Charter of the Organisation of African Unity and  shall  establish  friendly  and  cooperative  relations  with  all  states  and peoples on the basis of the following principles:
+1. The  Republic  of  Angola  shall  respect  and  implement  the  principles  of  the United Nations Charter and the Charter of the Organisation of African Unity and  shall  establish  friendly  and  cooperative  relations  with  all  states  and peoples on the basis of the following principles:
 
-- Respect for sovereignty and national independence;
+a) Respect for sovereignty and national independence;
 
-- Equality amongst states;
+b) Equality amongst states;
 
-- The rights of peoples to self-determination and independence;
+c) The rights of peoples to self-determination and independence;
 
-- Peaceful solutions to conflicts;
+d) Peaceful solutions to conflicts;
 
-- Respect for human rights;
+e) Respect for human rights;
 
-- Non-interference in the affairs of other states;
+f) Non-interference in the affairs of other states;
 
-- Reciprocal advantages;
+g) Reciprocal advantages;
 
-- Repudiating and combating terrorism, drugs trafficking, racism, corruption and people and human organ trafficking;
+h) Repudiating and combating terrorism, drugs trafficking, racism, corruption and people and human organ trafficking;
 
-- Cooperation with all peoples for peace, justice and progress.
+i) Cooperation with all peoples for peace, justice and progress.
 
-- The Republic of Angola shall defend the abolition of all forms of colonialism, aggression, oppression, domination and exploitation in relations between peoples.
+2. The Republic of Angola shall defend the abolition of all forms of colonialism, aggression, oppression, domination and exploitation in relations between peoples.
 
-- The  Republic  of  Angola  shall  strive  to  reinforce  African  identity  and strengthen the work of the African states in enhancing the cultural heritage of the African peoples.
+3. The  Republic  of  Angola  shall  strive  to  reinforce  African  identity  and strengthen the work of the African states in enhancing the cultural heritage of the African peoples.
 
-- The Angolan state shall not permit foreign military bases to be established in its  territory,  notwithstanding its involvement, within the context of regional or international organisations, in peace-keeping forces and military cooperation and collective security systems.
+4. The Angolan state shall not permit foreign military bases to be established in its  territory,  notwithstanding its involvement, within the context of regional or international organisations, in peace-keeping forces and military cooperation and collective security systems.
 
 #### Article 13 (International law)
 
-- General  or common  international  law  received  under  the  terms  of  this Constitution shall form an integral part of the Angolan legal system.
+1. General  or common  international  law  received  under  the  terms  of  this Constitution shall form an integral part of the Angolan legal system.
 
-- Duly  approved  or  ratified  international  treaties  and  agreements  shall  come into  force  in  the  Angolan  legal  system  after  they  have  been  officially
+2. Duly  approved  or  ratified  international  treaties  and  agreements  shall  come into  force  in  the  Angolan  legal  system  after  they  have  been  officially
 
 7/93
 
@@ -237,11 +237,11 @@ The state shall respect and protect the private property of individuals and corp
 
 #### Article 15 (Land)
 
-- Land,  which  is  by  origin  the  property  of  the  state,  may  be  transferred  to individuals or corporate bodies, with a view to its rational and full use, under the terms of the Constitution and the law.
+1. Land,  which  is  by  origin  the  property  of  the  state,  may  be  transferred  to individuals or corporate bodies, with a view to its rational and full use, under the terms of the Constitution and the law.
 
-- Access to and use of land by local communities shall be recognised by law.
+2. Access to and use of land by local communities shall be recognised by law.
 
-- The  provisions contained  in  the  previous  points  do  not  compromise  the possibility of expropriation for public use, with just compensation, under the terms of the law.
+3. The  provisions contained  in  the  previous  points  do  not  compromise  the possibility of expropriation for public use, with just compensation, under the terms of the law.
 
 #### Article 16
 
@@ -251,11 +251,11 @@ The solid, liquid and gaseous natural resources existing in the soil and subsoil
 
 #### Article 17 (Political parties)
 
-- Within the framework of the Constitution and the law, political parties shall compete on the basis of a project for society and a political programme for the  organisation  and  expression  of  the  will  of  citizens,  participating  in political  life  and  universal  suffrage  by  democratic  and  peaceful  means  and respecting the principles of national independence,  national unity and political democracy.
+1. Within the framework of the Constitution and the law, political parties shall compete on the basis of a project for society and a political programme for the  organisation  and  expression  of  the  will  of  citizens,  participating  in political  life  and  universal  suffrage  by  democratic  and  peaceful  means  and respecting the principles of national independence,  national unity and political democracy.
 
-- The constitution and functioning of political parties must, in accordance with law,  respect the following fundamental principles:
+2. The constitution and functioning of political parties must, in accordance with law,  respect the following fundamental principles:
 
-- National character and scope;
+a) National character and scope;
 
 8/93
 
@@ -265,49 +265,49 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 9]]
 
-- Free constitution;
+b) Free constitution;
 
-- The public pursuance of aims;
+c) The public pursuance of aims;
 
-- Freedom of affiliation and single affiliation;
+d) Freedom of affiliation and single affiliation;
 
-- The use of peaceful means only to pursue aims and a ban on the creation or use of military, paramilitary or militarised organisations;
+e) The use of peaceful means only to pursue aims and a ban on the creation or use of military, paramilitary or militarised organisations;
 
-- Democratic organization and functioning;
+f) Democratic organization and functioning;
 
-- Minimum representation, as established by law;
+g) Minimum representation, as established by law;
 
-- A  ban  on  receiving  monetary  and  economic  contributions  from  foreign governments and government institutions;
+h) A  ban  on  receiving  monetary  and  economic  contributions  from  foreign governments and government institutions;
 
-- The rendering of accounts for the use of public funds.
+i) The rendering of accounts for the use of public funds.
 
-- Through  their  objectives,  programmes  and  activities,  political  parties  must contribute towards:
+3. Through  their  objectives,  programmes  and  activities,  political  parties  must contribute towards:
 
-- The consolidation of the Angolan nation and national independence;
+a) The consolidation of the Angolan nation and national independence;
 
-- Safeguarding territorial integrity;
+b) Safeguarding territorial integrity;
 
-- Reinforcing national unity;
+c) Reinforcing national unity;
 
-- The defence of national sovereignty and democracy;
+d) The defence of national sovereignty and democracy;
 
-- The protection of fundamental freedoms and human rights;
+e) The protection of fundamental freedoms and human rights;
 
-- The defence of the republican nature of the government and the secular nature of the state.
+f) The defence of the republican nature of the government and the secular nature of the state.
 
-- Political  parties  shall  be  entitled  to  equal  treatment  by  entities  exercising political power, impartial treatment by the state press and the right to exercise democratic opposition, under the terms of the Constitution and the law.
+4. Political  parties  shall  be  entitled  to  equal  treatment  by  entities  exercising political power, impartial treatment by the state press and the right to exercise democratic opposition, under the terms of the Constitution and the law.
 
 #### Article 18 (National symbols)
 
-- The national symbols of the Republic of Angola shall be the national flag, the national insignia and the national anthem.
+1. The national symbols of the Republic of Angola shall be the national flag, the national insignia and the national anthem.
 
-- The national flag, national insignia and national anthem, symbols of national sovereignty and independence and of the unity and integrity of the Republic of  Angola,  are  those  adopted  at  the  time  of  the  proclamation  of  national independence on 11 November 1975 and are as described in Annexes I, II and III of this Constitution.
+2. The national flag, national insignia and national anthem, symbols of national sovereignty and independence and of the unity and integrity of the Republic of  Angola,  are  those  adopted  at  the  time  of  the  proclamation  of  national independence on 11 November 1975 and are as described in Annexes I, II and III of this Constitution.
 
-- The technical specifications and provisions concerning deference and the use of the national flag, national insignia and national anthem shall be established by law.
+3. The technical specifications and provisions concerning deference and the use of the national flag, national insignia and national anthem shall be established by law.
 
 #### Article 19 (Languages)
 
-- The official language of the Republic of Angola is Portuguese.
+1. The official language of the Republic of Angola is Portuguese.
 
 9/93
 
@@ -317,7 +317,7 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 10]]
 
-- The  state  shall  value  and  promote  the  study,  teaching  and  use of  other Angolan  languages,  in  addition  to  the  main  international  languages  of communication.
+2. The  state  shall  value  and  promote  the  study,  teaching  and  use of  other Angolan  languages,  in  addition  to  the  main  international  languages  of communication.
 
 #### Article 20 (Capital of the Republic of Angola)
 
@@ -327,33 +327,33 @@ The capital of the Republic of Angola is Luanda.
 
 The fundamental tasks of the Angolan state shall be:
 
-- To guarantee national independence, territorial integrity and national sovereignty;
+a) To guarantee national independence, territorial integrity and national sovereignty;
 
-- To ensure fundamental rights, freedoms and guarantees;
+b) To ensure fundamental rights, freedoms and guarantees;
 
-- To gradually create the necessary conditions required to effectively implement the economic, social and cultural rights of citizens;
+c) To gradually create the necessary conditions required to effectively implement the economic, social and cultural rights of citizens;
 
-- To promote the well-being, social solidarity and improved quality of life for the people of Angola, specifically amongst the most deprived groups of the population;
+d) To promote the well-being, social solidarity and improved quality of life for the people of Angola, specifically amongst the most deprived groups of the population;
 
-- To promote the eradication of poverty;
+e) To promote the eradication of poverty;
 
-- To promote policies that will make primary health care universal and free;
+f) To promote policies that will make primary health care universal and free;
 
-- To  promote  policies  that  will  ensure  universal  access  to  compulsory  free education under the terms defined by law;
+g) To  promote  policies  that  will  ensure  universal  access  to  compulsory  free education under the terms defined by law;
 
-- To promote equal rights and opportunities between Angolans, regardless of origins,  race,  party  affiliations,  sex,  colour,  age  or  any  other  form  of discrimination;
+h) To promote equal rights and opportunities between Angolans, regardless of origins,  race,  party  affiliations,  sex,  colour,  age  or  any  other  form  of discrimination;
 
-- To make strategic, large-scale, permanent investments in human capital, with particular emphasis on the full development of children and young people, as well  as  in  education,  health  care,  the  primary  and  secondary  economy  and other sectors that structure self-sustainable development;
+i) To make strategic, large-scale, permanent investments in human capital, with particular emphasis on the full development of children and young people, as well  as  in  education,  health  care,  the  primary  and  secondary  economy  and other sectors that structure self-sustainable development;
 
-- To ensure peace and national security;
+j) To ensure peace and national security;
 
-- To promote equality between men and women;
+k) To promote equality between men and women;
 
-- To defend democracy and ensure and foster the democratic participation of citizens and civil society in the resolution of national problems;
+l) To defend democracy and ensure and foster the democratic participation of citizens and civil society in the resolution of national problems;
 
-- To  promote  harmonious  and  sustainable  development  throughout  national territory,  protecting  the  environment,  natural  resources  and  the  historic, cultural and artistic  heritage of the nation;
+m) To  promote  harmonious  and  sustainable  development  throughout  national territory,  protecting  the  environment,  natural  resources  and  the  historic, cultural and artistic  heritage of the nation;
 
-- To protect, value and dignify Angolan languages of African origin, as part of the cultural heritage, and to promote their development, as living languages which reflect national identity;
+n) To protect, value and dignify Angolan languages of African origin, as part of the cultural heritage, and to promote their development, as living languages which reflect national identity;
 
 10/93
 
@@ -363,11 +363,11 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 11]]
 
-- To promote sustained improvements to Angolan human  development indexes;
+o) To promote sustained improvements to Angolan human  development indexes;
 
-- To  promote  excellence,  quality,  innovation,  entrepreneurialism,  efficiency and  modernity  in  the  performance  of  citizens,  institutions,  companies  and services in various aspects of their lives and in the various sectors of activity;
+p) To  promote  excellence,  quality,  innovation,  entrepreneurialism,  efficiency and  modernity  in  the  performance  of  citizens,  institutions,  companies  and services in various aspects of their lives and in the various sectors of activity;
 
-- Other tasks as prescribed in the Constitution and by law.
+q) Other tasks as prescribed in the Constitution and by law.
 
 # TITLE II FUNDAMENTAL RIGHTS AND DUTIES
 
@@ -375,21 +375,21 @@ www.comissaoconstitucional.ao
 
 #### Article 22 (Principle of universality)
 
-- Everyone  shall  enjoy  the  rights,  freedoms  and  guarantees  enshrined  in  the Constitution and shall be subject to the duties established in the Constitution and the law.
+1. Everyone  shall  enjoy  the  rights,  freedoms  and  guarantees  enshrined  in  the Constitution and shall be subject to the duties established in the Constitution and the law.
 
-- Angolan citizens residing or finding themselves abroad shall enjoy the rights, freedoms and guarantees and the protection of the state and shall be subject to the duties established in the Constitution and the law.
+2. Angolan citizens residing or finding themselves abroad shall enjoy the rights, freedoms and guarantees and the protection of the state and shall be subject to the duties established in the Constitution and the law.
 
-- Everyone shall have duties with regard to the family, society, the state and other legally recognised institutions, in particular:
+3. Everyone shall have duties with regard to the family, society, the state and other legally recognised institutions, in particular:
 
-- To  respect  the  rights,  freedoms  and  property  of  others,  morals,  acceptable behaviour and the common good;
+a) To  respect  the  rights,  freedoms  and  property  of  others,  morals,  acceptable behaviour and the common good;
 
-- To respect and be considerate of others without discrimination of any kind and  to  maintain  relations  that  promote,  safeguard  and  reinforce  mutual respect and tolerance.
+b) To respect and be considerate of others without discrimination of any kind and  to  maintain  relations  that  promote,  safeguard  and  reinforce  mutual respect and tolerance.
 
 #### Article 23 (Principle of equality)
 
-- Everyone shall be equal under the Constitution and by law.
+1. Everyone shall be equal under the Constitution and by law.
 
-- No-one  may  be  discriminated  against,  privileged,  deprived  of  any  right  or exempted from any duty on the basis of ancestry, sex, race, ethnicity, colour, disability, language, place of birth, religion, political, ideological or philosophical beliefs, level of education or economic, social or professional status.
+2. No-one  may  be  discriminated  against,  privileged,  deprived  of  any  right  or exempted from any duty on the basis of ancestry, sex, race, ethnicity, colour, disability, language, place of birth, religion, political, ideological or philosophical beliefs, level of education or economic, social or professional status.
 
 #### Article 24 (Age of majority)
 
@@ -405,35 +405,35 @@ The age of majority shall be 18.
 
 #### Article 25 (Foreigners and stateless persons)
 
-- Foreigners and stateless persons shall enjoy fundamental rights, freedoms and guarantees and the protection of the state.
+1. Foreigners and stateless persons shall enjoy fundamental rights, freedoms and guarantees and the protection of the state.
 
-- The following are forbidden to foreigners and stateless persons:
+2. The following are forbidden to foreigners and stateless persons:
 
-- Holding office in bodies that exercise sovereign power;
+a) Holding office in bodies that exercise sovereign power;
 
-- Electoral rights, under the terms of the law;
+b) Electoral rights, under the terms of the law;
 
-- Founding or serving in political parties;
+c) Founding or serving in political parties;
 
-- Entitlements to participation in politics, as stipulated by law;
+d) Entitlements to participation in politics, as stipulated by law;
 
-- Access to a diplomatic career;
+e) Access to a diplomatic career;
 
-- Entry into the armed forces, the national police force and the intelligence and security organisations;
+f) Entry into the armed forces, the national police force and the intelligence and security organisations;
 
-- Direct state administrative functions, under the terms of the law;
+g) Direct state administrative functions, under the terms of the law;
 
-- Any  other  rights  and  duties  reserved  exclusively  for  Angolan  citizens under the Constitution and the law.
+h) Any  other  rights  and  duties  reserved  exclusively  for  Angolan  citizens under the Constitution and the law.
 
-- Rights not conferred on foreigners may be granted to citizens of regional or cultural  communities  to  which  Angola  may  belong  or  be  associated  with, through  international  conventions  and  on  the  basis  of  reciprocity,  with  the exception of the right to vote and stand for election to bodies that exercise sovereign power.
+3. Rights not conferred on foreigners may be granted to citizens of regional or cultural  communities  to  which  Angola  may  belong  or  be  associated  with, through  international  conventions  and  on  the  basis  of  reciprocity,  with  the exception of the right to vote and stand for election to bodies that exercise sovereign power.
 
 #### Article 26 (Scope of fundamental rights)
 
-- The  fundamental  rights  established  in  this  Constitution  shall  not  exclude others contained in the laws and applicable rules of international law.
+1. The  fundamental  rights  established  in  this  Constitution  shall  not  exclude others contained in the laws and applicable rules of international law.
 
-- Constitutional  and  legal  precepts  relating  to  fundamental  rights must  be interpreted and incorporated in accordance with the Universal Declaration of the Rights of Man, the African Charter on the Rights of Man and Peoples and international treaties on the subject ratified by the Republic of Angola.
+2. Constitutional  and  legal  precepts  relating  to  fundamental  rights must  be interpreted and incorporated in accordance with the Universal Declaration of the Rights of Man, the African Charter on the Rights of Man and Peoples and international treaties on the subject ratified by the Republic of Angola.
 
-- In any consideration by the Angolan courts of disputes concerning fundamental rights , the international instruments referred to in the previous point shall be applied, even if not invoked by the parties concerned.
+3. In any consideration by the Angolan courts of disputes concerning fundamental rights , the international instruments referred to in the previous point shall be applied, even if not invoked by the parties concerned.
 
 #### Article 27
 
@@ -451,21 +451,21 @@ The principles set out in this chapter shall apply to the rights, freedoms and g
 
 #### Article 28 (Legal force)
 
-- The  constitutional  principles  regarding  fundamental  rights,  freedoms  and guarantees are directly applicable to, and binding upon, all public and private entities.
+1. The  constitutional  principles  regarding  fundamental  rights,  freedoms  and guarantees are directly applicable to, and binding upon, all public and private entities.
 
-- The state must adopt legislative initiatives and other appropriate measures to ensure the gradual and effective realisation of economic, social and cultural rights, in accordance with the available resources.
+2. The state must adopt legislative initiatives and other appropriate measures to ensure the gradual and effective realisation of economic, social and cultural rights, in accordance with the available resources.
 
 #### Article 29 (Access to law and effective judicial protection)
 
-- Everyone shall be ensured access to the law and the courts in order to defend their legally protected rights and interests, and justice shall not be denied to anyone due to a lack of financial means.
+1. Everyone shall be ensured access to the law and the courts in order to defend their legally protected rights and interests, and justice shall not be denied to anyone due to a lack of financial means.
 
-- Under  the  terms  of  the  law, everyone  shall  possess  the  right  to  legal information and advice, to legal counsel and to be accompanied by a lawyer before any authority.
+2. Under  the  terms  of  the  law, everyone  shall  possess  the  right  to  legal information and advice, to legal counsel and to be accompanied by a lawyer before any authority.
 
-- The law shall define and ensure adequate protection for the secrecy of legal proceedings.
+3. The law shall define and ensure adequate protection for the secrecy of legal proceedings.
 
-- Everyone shall have the right to secure a ruling in any suit to which he is a party within a reasonable period of time and by means of a fair process.
+4. Everyone shall have the right to secure a ruling in any suit to which he is a party within a reasonable period of time and by means of a fair process.
 
-- For the purpose of safeguarding personal rights, freedoms and guarantees, the law  shall  ensure  citizens  judicial  proceedings  that  are  characterised  by swiftness and given priority, in order to secure effective and timely judicial protection against any threats or violations of these rights.
+5. For the purpose of safeguarding personal rights, freedoms and guarantees, the law  shall  ensure  citizens  judicial  proceedings  that  are  characterised  by swiftness and given priority, in order to secure effective and timely judicial protection against any threats or violations of these rights.
 
 ## CHAPTER II FUNDAMENTAL RIGHTS, FREEDOMS AND GUARANTEES
 
@@ -489,29 +489,29 @@ www.comissaoconstitucional.ao
 
 #### Article 31 (Right to personal integrity)
 
-- The moral, intellectual and physical integrity of individuals shall be inviolable.
+1. The moral, intellectual and physical integrity of individuals shall be inviolable.
 
-- The state shall respect and protect the human person and human dignity.
+2. The state shall respect and protect the human person and human dignity.
 
 #### Article 32 (Right to identity and privacy)
 
-- The right  to  personal  identity,  civil  capacity,  nationality,  a  good  name  and reputation, likeness, free speech, and privacy in personal and family life shall be recognised for all.
+1. The right  to  personal  identity,  civil  capacity,  nationality,  a  good  name  and reputation, likeness, free speech, and privacy in personal and family life shall be recognised for all.
 
-- The law shall establish effective guarantees against the procurement and use of  information  relating  to  individuals  and  families  in  a  manner  which  is abusive or offends against human dignity.
+2. The law shall establish effective guarantees against the procurement and use of  information  relating  to  individuals  and  families  in  a  manner  which  is abusive or offends against human dignity.
 
 #### Article 33 (Inviolability of the home)
 
-- The home shall be inviolable.
+1. The home shall be inviolable.
 
-- No-one may  enter  or  carry  out  a  search  or  seizure  in  the  home  of  any individual  without  their  consent,  except  in  situations  prescribed  under  the Constitution  and  in  law  and  when  provided  with  a  warrant  from  the appropriate  authority  issued  for  legally  prescribed  cases  in  the  legally prescribed manner, in the case of flagrante delito or in emergency situations in order to provide assistance.
+2. No-one may  enter  or  carry  out  a  search  or  seizure  in  the  home  of  any individual  without  their  consent,  except  in  situations  prescribed  under  the Constitution  and  in  law  and  when  provided  with  a  warrant  from  the appropriate  authority  issued  for  legally  prescribed  cases  in  the  legally prescribed manner, in the case of flagrante delito or in emergency situations in order to provide assistance.
 
-- The law shall establish the cases in which the appropriate authority may order the entry, search and seizure of property, documents or other objects in the home.
+3. The law shall establish the cases in which the appropriate authority may order the entry, search and seizure of property, documents or other objects in the home.
 
 #### Article 34 (Inviolability of correspondence and communications)
 
-- The secrecy of correspondence and other means of private communication, namely postal, telegraphic, telephone and telematic communications, shall be inviolable.
+1. The secrecy of correspondence and other means of private communication, namely postal, telegraphic, telephone and telematic communications, shall be inviolable.
 
-- Interference  by  the  public  authorities  in  private  correspondence  and  other means of private communication shall only be permitted by means of a ruling by the appropriate judicial authority under the terms of the law.
+2. Interference  by  the  public  authorities  in  private  correspondence  and  other means of private communication shall only be permitted by means of a ruling by the appropriate judicial authority under the terms of the law.
 
 14/93
 
@@ -523,37 +523,37 @@ www.comissaoconstitucional.ao
 
 #### Article 35 (Family, marriage and filiation)
 
-- The family is the basic nucleus of social organisation and shall be the object of special protection by the state, whether based on marriage or on a de facto union between a man and a woman.
+1. The family is the basic nucleus of social organisation and shall be the object of special protection by the state, whether based on marriage or on a de facto union between a man and a woman.
 
-- Everyone shall have the right to freely found a family under the terms of the Constitution and the law.
+2. Everyone shall have the right to freely found a family under the terms of the Constitution and the law.
 
-- Men and women shall be equal within the family, in society and before the state, enjoying the same rights and being responsible for the same duties.
+3. Men and women shall be equal within the family, in society and before the state, enjoying the same rights and being responsible for the same duties.
 
-- The law shall regulate the requirements for, and the effects of, marriage and de facto union, as well their dissolution.
+4. The law shall regulate the requirements for, and the effects of, marriage and de facto union, as well their dissolution.
 
-- Children shall be equal before the law and any discrimination or the use of any discriminatory nomenclature with regard to filiation shall be prohibited.
+5. Children shall be equal before the law and any discrimination or the use of any discriminatory nomenclature with regard to filiation shall be prohibited.
 
-- It shall be an absolute priority of the family, the state and society to protect the rights of the child, namely their full and balanced upbringing, health care, education and living conditions .
+6. It shall be an absolute priority of the family, the state and society to protect the rights of the child, namely their full and balanced upbringing, health care, education and living conditions .
 
-- The state, in collaboration with the family and society, shall promote the full and balanced development of young people and adolescents, and the creation of  conditions  for  the  fulfilment  of  their  political,  economic,  social  and cultural rights and shall foster youth organizations established for economic, cultural, artistic, recreational, sporting, environmental, scientific, educational, patriotic and international youth exchange purposes.
+7. The state, in collaboration with the family and society, shall promote the full and balanced development of young people and adolescents, and the creation of  conditions  for  the  fulfilment  of  their  political,  economic,  social  and cultural rights and shall foster youth organizations established for economic, cultural, artistic, recreational, sporting, environmental, scientific, educational, patriotic and international youth exchange purposes.
 
 #### Article 36 (Right to physical freedom and personal security)
 
-- Everyone shall have the right to physical freedom and individual security.
+1. Everyone shall have the right to physical freedom and individual security.
 
-- No-one may be deprived of their freedom, except in cases prescribed by the Constitution and the law.
+2. No-one may be deprived of their freedom, except in cases prescribed by the Constitution and the law.
 
-- The right to physical freedom and individual security shall also involve:
+3. The right to physical freedom and individual security shall also involve:
 
-- The right not to be subjected to any form of violence by public or private entities;
+a) The right not to be subjected to any form of violence by public or private entities;
 
-- The right not to be tortured or treated or punished in a cruel, inhumane or degrading manner;
+b) The right not to be tortured or treated or punished in a cruel, inhumane or degrading manner;
 
-- The right to fully enjoy physical and mental integrity;
+c) The right to fully enjoy physical and mental integrity;
 
-- The right to protection and control over one's own body;
+d) The right to protection and control over one's own body;
 
-- The right not to be submitted to medical or scientific experiments without prior informed and duly justified consent.
+e) The right not to be submitted to medical or scientific experiments without prior informed and duly justified consent.
 
 #### Article 37
 
@@ -567,27 +567,27 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 16]]
 
-- Everyone  shall  be  guaranteed  the  right  to private  property  and  to  its transmission, under the terms of the Constitution and the law.
+1. Everyone  shall  be  guaranteed  the  right  to private  property  and  to  its transmission, under the terms of the Constitution and the law.
 
-- The state shall respect and protect the property and any other rights in rem of private individuals, corporate bodies and local communities, and temporary civil requisition and expropriation for public use shall only be permitted upon prompt payment of just compensation under the terms of the Constitution and the law.
+2. The state shall respect and protect the property and any other rights in rem of private individuals, corporate bodies and local communities, and temporary civil requisition and expropriation for public use shall only be permitted upon prompt payment of just compensation under the terms of the Constitution and the law.
 
-- The payment of the compensation referred to in the previous point shall be a condition of expropriation.
+3. The payment of the compensation referred to in the previous point shall be a condition of expropriation.
 
 #### Article 38 (Right to free economic initiative)
 
-- Private enterprise  shall  be  freely  undertaken  and  exercised  with  respect  for the Constitution and the law.
+1. Private enterprise  shall  be  freely  undertaken  and  exercised  with  respect  for the Constitution and the law.
 
-- Everyone  shall  have  the  right  to  engage  in  free  business  and  cooperative initiatives, to be exercised under the terms of the law.
+2. Everyone  shall  have  the  right  to  engage  in  free  business  and  cooperative initiatives, to be exercised under the terms of the law.
 
-- The  law  shall  promote,  regulate  and  protect  the  economic  activities  and investments of private, national or foreign individuals and corporate bodies in  order  to  guarantee  their  contribution  to  the  development  of  the  country, defending  the  economic  and  technological  emancipation  of  the  Angolan people and the interests of workers.
+3. The  law  shall  promote,  regulate  and  protect  the  economic  activities  and investments of private, national or foreign individuals and corporate bodies in  order  to  guarantee  their  contribution  to  the  development  of  the  country, defending  the  economic  and  technological  emancipation  of  the  Angolan people and the interests of workers.
 
 #### Article 39 (Environmental rights)
 
-- Everyone has the right to live in a healthy and unpolluted environment and the duty to defend and preserve it.
+1. Everyone has the right to live in a healthy and unpolluted environment and the duty to defend and preserve it.
 
-- The  state  shall  take  the  requisite  measures  to  protect  the  environment  and species of flora and fauna throughout national territory, maintain the ecological balance, ensure the correct location of economic activities and the rational development and use of all natural resources, within the context of sustainable development, respect for the rights of future generations and the preservation of species.
+2. The  state  shall  take  the  requisite  measures  to  protect  the  environment  and species of flora and fauna throughout national territory, maintain the ecological balance, ensure the correct location of economic activities and the rational development and use of all natural resources, within the context of sustainable development, respect for the rights of future generations and the preservation of species.
 
-- Acts  that  endanger  or  damage  conservation  of  the  environment  shall  be punishable by law.
+3. Acts  that  endanger  or  damage  conservation  of  the  environment  shall  be punishable by law.
 
 #### Article 40
 
@@ -601,33 +601,33 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 17]]
 
-- Everyone shall have the right to freely express, publicise and share their ideas and opinions through words, images or any other medium, as well as the right and the freedom to inform others, to inform themselves and to be informed, without hindrance or discrimination.
+1. Everyone shall have the right to freely express, publicise and share their ideas and opinions through words, images or any other medium, as well as the right and the freedom to inform others, to inform themselves and to be informed, without hindrance or discrimination.
 
-- The exercise of the rights and freedoms described in the previous point may not be obstructed or limited by any type or form of censorship.
+2. The exercise of the rights and freedoms described in the previous point may not be obstructed or limited by any type or form of censorship.
 
-- Freedom  of  expression  and  information  shall  be  restricted  by  the  rights enjoyed  by  all  to  their  good  name,  honour,  reputation  and  likeness,  the privacy of personal and family life, the protection afforded to children and young people, state secrecy, legal secrecy, professional secrecy and any other guarantees of these rights, under the terms regulated by law.
+3. Freedom  of  expression  and  information  shall  be  restricted  by  the  rights enjoyed  by  all  to  their  good  name,  honour,  reputation  and  likeness,  the privacy of personal and family life, the protection afforded to children and young people, state secrecy, legal secrecy, professional secrecy and any other guarantees of these rights, under the terms regulated by law.
 
-- Anyone committing an infraction during the course of exercising freedom of expression and information shall be held liable for their actions, in disciplinary, civil and criminal terms, under the terms of the law.
+4. Anyone committing an infraction during the course of exercising freedom of expression and information shall be held liable for their actions, in disciplinary, civil and criminal terms, under the terms of the law.
 
-- Under  the  terms  of  the  law,  every  individual  and  corporate  body  shall  be assured the equal and effective right of reply, the right to make corrections, and the right to compensation for damages suffered.
+5. Under  the  terms  of  the  law,  every  individual  and  corporate  body  shall  be assured the equal and effective right of reply, the right to make corrections, and the right to compensation for damages suffered.
 
 #### Article 41 (Freedom of conscience, religion and worship)
 
-- Freedom of conscience, religion and worship shall be inviolable.
+1. Freedom of conscience, religion and worship shall be inviolable.
 
-- No-one  shall  be  deprived  of  their  rights,  persecuted or  exempted  from obligations due to their religious beliefs or philosophical or political convictions.
+2. No-one  shall  be  deprived  of  their  rights,  persecuted or  exempted  from obligations due to their religious beliefs or philosophical or political convictions.
 
-- Under the terms of the law, the right to be a conscientious objector shall be guaranteed.
+3. Under the terms of the law, the right to be a conscientious objector shall be guaranteed.
 
-- No  authority  shall  question  anyone  with  regard  to  their  convictions or religious  practices,  except  in  order  to  gather  statistical  data  that  cannot  be individually identified.
+4. No  authority  shall  question  anyone  with  regard  to  their  convictions or religious  practices,  except  in  order  to  gather  statistical  data  that  cannot  be individually identified.
 
 #### Article 42 (Intellectual property)
 
-- Intellectual,  artistic,  political,  scientific  and  communications  activities  shall be freely expressed, independently of any censorship or licence.
+1. Intellectual,  artistic,  political,  scientific  and  communications  activities  shall be freely expressed, independently of any censorship or licence.
 
-- Authors  shall  have  the  exclusive  right  to  use,  publish  and  reproduce  their work,  which  can  be  transmitted  to  their  heirs  for  the  period  of  time established by law.
+2. Authors  shall  have  the  exclusive  right  to  use,  publish  and  reproduce  their work,  which  can  be  transmitted  to  their  heirs  for  the  period  of  time established by law.
 
-- Under the terms of the law the following shall be ensured:
+3. Under the terms of the law the following shall be ensured:
 
 17/93
 
@@ -637,31 +637,31 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 18]]
 
-- Protection  for  individual  involvement  in  collective  work  and  in  the reproduction  of  the  human  image  and  voice,  including  cultural, educational, political and sporting activities;
+a) Protection  for  individual  involvement  in  collective  work  and  in  the reproduction  of  the  human  image  and  voice,  including  cultural, educational, political and sporting activities;
 
-- The  right  of  creators,  performers  and  the  respective  trade  union  and supervisory  associations  to  benefit  financially  from  works  they  have created or taken part in.
+b) The  right  of  creators,  performers  and  the  respective  trade  union  and supervisory  associations  to  benefit  financially  from  works  they  have created or taken part in.
 
-- The  law  shall  ensure the authors of industrial inventions, patents for inventions and technological process the temporary privilege of using them, in  addition  to  ensuring  protection  for  industrial  creations,  ownership  of brands, company names and other distinctive trademarks, with a view to the interests of society and the technological and economic development of the country.
+4. The  law  shall  ensure the authors of industrial inventions, patents for inventions and technological process the temporary privilege of using them, in  addition  to  ensuring  protection  for  industrial  creations,  ownership  of brands, company names and other distinctive trademarks, with a view to the interests of society and the technological and economic development of the country.
 
 #### Article 43 (Freedom of cultural and scientific creation)
 
-- Intellectual, artistic and scientific creation shall not be restricted.
+1. Intellectual, artistic and scientific creation shall not be restricted.
 
-- The  freedom  referred  to  in  the  previous  point  shall  comprise  the  right  to invent, produce and publicise scientific, literary and artistic works and shall include the protection of copyright by law.
+2. The  freedom  referred  to  in  the  previous  point  shall  comprise  the  right  to invent, produce and publicise scientific, literary and artistic works and shall include the protection of copyright by law.
 
 #### Article 44 (Freedom of the press)
 
-- Freedom of the press  shall  be  guaranteed,  and  may  not  be  subject  to  prior censorship, namely of a political, ideological or artistic nature.
+1. Freedom of the press  shall  be  guaranteed,  and  may  not  be  subject  to  prior censorship, namely of a political, ideological or artistic nature.
 
-- The state shall ensure plural expression, imposing different ownerships and editorial diversity in the media.
+2. The state shall ensure plural expression, imposing different ownerships and editorial diversity in the media.
 
-- The  state  shall  ensure  the  existence  and  the  independent  and  qualitatively competitive functioning of a public radio and television service.
+3. The  state  shall  ensure  the  existence  and  the  independent  and  qualitatively competitive functioning of a public radio and television service.
 
-- The  law  shall  establish  the  forms  by  which  freedom  of  the  press  shall  be exercised.
+4. The  law  shall  establish  the  forms  by  which  freedom  of  the  press  shall  be exercised.
 
 #### Article 45 (Right to broadcasting time, right of reply and of political response)
 
-- During general and local elections and referendums, candidates shall have the right to broadcasting time on state radio and television stations in accordance with  the  scope  of  the  election  or  referendum,  under  the  terms  of  the Constitution and the law.
+1. During general and local elections and referendums, candidates shall have the right to broadcasting time on state radio and television stations in accordance with  the  scope  of  the  election  or  referendum,  under  the  terms  of  the Constitution and the law.
 
 18/93
 
@@ -671,29 +671,29 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 19]]
 
-- Political parties with seats in the National Assembly have the right of reply and  political  response  to  statements  by  the  Executive,  under  the  terms regulated by law.
+2. Political parties with seats in the National Assembly have the right of reply and  political  response  to  statements  by  the  Executive,  under  the  terms regulated by law.
 
 #### Article 46 (Freedom of residence, movement and emigration)
 
-- Any citizen legally residing in Angola may freely establish their residence, move and settle anywhere in national territory, except in cases prescribed in the Constitution and when the law establishes restrictions, namely regarding entry and residence, protection of the environment or vital national interests.
+1. Any citizen legally residing in Angola may freely establish their residence, move and settle anywhere in national territory, except in cases prescribed in the Constitution and when the law establishes restrictions, namely regarding entry and residence, protection of the environment or vital national interests.
 
-- Every  citizen  shall  be  free  to  emigrate  and  leave  national  territory  and  to return to it, without prejudice to any restrictions arising out of the fulfilment of legally established duties.
+2. Every  citizen  shall  be  free  to  emigrate  and  leave  national  territory  and  to return to it, without prejudice to any restrictions arising out of the fulfilment of legally established duties.
 
 #### Article 47 (Freedom to meet and demonstrate)
 
-- Freedom of assembly and peaceful, unarmed demonstration shall be guaranteed to all citizens, without the need for any authorisation and under the terms of the law.
+1. Freedom of assembly and peaceful, unarmed demonstration shall be guaranteed to all citizens, without the need for any authorisation and under the terms of the law.
 
-- The appropriate authorities must be given advance notification of meetings and  demonstrations  held  in  public  places,  under  the  terms  and  for  the purposes established in law.
+2. The appropriate authorities must be given advance notification of meetings and  demonstrations  held  in  public  places,  under  the  terms  and  for  the purposes established in law.
 
 #### Article 48 (Freedom of association)
 
-- All citizens shall have the right to freely associate with one another without requiring any administrative authorisation, on condition that such associations  are  organised  on  the  basis  of  democratic  principles,  under  the terms of the law.
+1. All citizens shall have the right to freely associate with one another without requiring any administrative authorisation, on condition that such associations  are  organised  on  the  basis  of  democratic  principles,  under  the terms of the law.
 
-- Associations shall pursue their purposes freely and without interference from the  public  authorities  and  may  not  be  dissolved  or  have  their  activities suspended, except in cases prescribed by law
+2. Associations shall pursue their purposes freely and without interference from the  public  authorities  and  may  not  be  dissolved  or  have  their  activities suspended, except in cases prescribed by law
 
-- No-one shall  be  obliged  to  belong  to  an  association,  or  be  coerced  by  any means to remain a member of one.
+3. No-one shall  be  obliged  to  belong  to  an  association,  or  be  coerced  by  any means to remain a member of one.
 
-- Any associations  or  groupings  whose  purposes  or  activities  are  contrary  to the  constitutional  order,  or  which  incite  and  practice  violence,  promote tribalism,  racism,  dictatorship,  fascism  or  xenophobia,  in  addition  to  any military, militarised or paramilitary-type associations, shall be prohibited.
+4. Any associations  or  groupings  whose  purposes  or  activities  are  contrary  to the  constitutional  order,  or  which  incite  and  practice  violence,  promote tribalism,  racism,  dictatorship,  fascism  or  xenophobia,  in  addition  to  any military, militarised or paramilitary-type associations, shall be prohibited.
 
 19/93
 
@@ -707,27 +707,27 @@ www.comissaoconstitucional.ao
 
 (Freedom of professional and business association)
 
-- All  members  of  the  liberal  or  independent  professions  and,  in  general,  all self-employed workers shall be guaranteed freedom of professional association  in  order  to  defend  their  rights  and  interests  and  to  regulate  the ethics of each profession.
+1. All  members  of  the  liberal  or  independent  professions  and,  in  general,  all self-employed workers shall be guaranteed freedom of professional association  in  order  to  defend  their  rights  and  interests  and  to  regulate  the ethics of each profession.
 
-- Associations for members of the liberal or independent professions shall be governed  by  the  principles  of  democratic  organisation  and  functioning  and independence from the state, under the terms of the law.
+2. Associations for members of the liberal or independent professions shall be governed  by  the  principles  of  democratic  organisation  and  functioning  and independence from the state, under the terms of the law.
 
-- The ethical standards of the professional associations may not contradict the constitutional order, fundamental human rights or the law.
+3. The ethical standards of the professional associations may not contradict the constitutional order, fundamental human rights or the law.
 
 #### Article 50 (Trade union freedoms)
 
-- It shall be recognised that all workers have the freedom to create trade union organisations to defend their collective and individual interests.
+1. It shall be recognised that all workers have the freedom to create trade union organisations to defend their collective and individual interests.
 
-- It  shall  be  recognised that trade union associations have the right to defend the  rights  and  interests  of  workers  and  to  exercise  the  right  to  social dialogue, which must duly take into account the fundamental human rights of individuals and communities and the actual capacity of the economy, under the terms of the law.
+2. It  shall  be  recognised that trade union associations have the right to defend the  rights  and  interests  of  workers  and  to  exercise  the  right  to  social dialogue, which must duly take into account the fundamental human rights of individuals and communities and the actual capacity of the economy, under the terms of the law.
 
-- The law shall regulate the founding, affiliation, federation, organisation and closure  of  trade  union  associations  and  shall  guarantee  their  autonomy  and independence from employers and the state.
+3. The law shall regulate the founding, affiliation, federation, organisation and closure  of  trade  union  associations  and  shall  guarantee  their  autonomy  and independence from employers and the state.
 
 #### Article 51 (Right to strike and prohibition of lock-outs)
 
-- Workers shall have the right to strike.
+1. Workers shall have the right to strike.
 
-- Lock-outs shall be prohibited and employers may not bring a company totally or  partially  to  standstill  by  forbidding  workers  access  to  workplaces  or similar as a means of influencing the outcome of labour conflicts.
+2. Lock-outs shall be prohibited and employers may not bring a company totally or  partially  to  standstill  by  forbidding  workers  access  to  workplaces  or similar as a means of influencing the outcome of labour conflicts.
 
-- The law shall regulate the exercise of the right to strike and shall establish limitations  on  the  services  and  activities  considered  essential  and  urgent  in terms of meeting vital social needs.
+3. The law shall regulate the exercise of the right to strike and shall establish limitations  on  the  services  and  activities  considered  essential  and  urgent  in terms of meeting vital social needs.
 
 #### Article 52 (Participation in public life)
 
@@ -739,33 +739,33 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 21]]
 
-- Every citizen shall have the right to take part in political life and the direction of public affairs, either directly or via freely elected representatives, and to be informed  of  the  actions  of  the  state  and  the  management  of  public  affairs, under the terms of the Constitution and by law.
+1. Every citizen shall have the right to take part in political life and the direction of public affairs, either directly or via freely elected representatives, and to be informed  of  the  actions  of  the  state  and  the  management  of  public  affairs, under the terms of the Constitution and by law.
 
-- It shall be the duty of every citizen to comply with and respect the law and obey  the  orders  of  the  legitimate  authorities  issued  under  the  terms  of  the Constitution  and  the  law,  respecting  fundamental  rights,  freedoms  and guarantees.
+2. It shall be the duty of every citizen to comply with and respect the law and obey  the  orders  of  the  legitimate  authorities  issued  under  the  terms  of  the Constitution  and  the  law,  respecting  fundamental  rights,  freedoms  and guarantees.
 
 #### Article 53 (Standing for public office)
 
-- Every citizen shall  have  the  free  and  equal  right  to  stand  for  public  office, under the terms of the Constitution and the law.
+1. Every citizen shall  have  the  free  and  equal  right  to  stand  for  public  office, under the terms of the Constitution and the law.
 
-- No-one shall be prejudiced in terms of their appointment, job or professional career, or the social benefits to which they are entitled, due to the exercise of political  rights  or  the  holding  of  public  office,  under  the  terms  of  the Constitution and by law.
+2. No-one shall be prejudiced in terms of their appointment, job or professional career, or the social benefits to which they are entitled, due to the exercise of political  rights  or  the  holding  of  public  office,  under  the  terms  of  the Constitution and by law.
 
-- In governing the right to stand for elected office, the law shall only determine the ineligibilities required to guarantee electors freedom of choice and ensure independence and lack of bias in the exercise of the offices in question.
+3. In governing the right to stand for elected office, the law shall only determine the ineligibilities required to guarantee electors freedom of choice and ensure independence and lack of bias in the exercise of the offices in question.
 
 #### Article 54
 
 (Right to vote)
 
-- Every citizen who has attained the age of eighteen years shall have the right to  vote  and  stand  for  election  for  any  state  or  local  authority  body  and  to serve their terms of office or mandates, under the terms of the Constitution and the law.
+1. Every citizen who has attained the age of eighteen years shall have the right to  vote  and  stand  for  election  for  any  state  or  local  authority  body  and  to serve their terms of office or mandates, under the terms of the Constitution and the law.
 
-- The right to vote may not be restricted except with regard to the incapacities and ineligibilities prescribed in the Constitution.
+2. The right to vote may not be restricted except with regard to the incapacities and ineligibilities prescribed in the Constitution.
 
-- The exercise of the right to vote shall be personal and non-transferable and shall be a civic duty.
+3. The exercise of the right to vote shall be personal and non-transferable and shall be a civic duty.
 
 #### Article 55 (Freedom to form political associations and political parties)
 
-- There shall be freedom to create political associations  and  political  parties, under the terms of the Constitution and the law.
+1. There shall be freedom to create political associations  and  political  parties, under the terms of the Constitution and the law.
 
-- Every citizen shall have the right to participate in political associations and political parties, under the terms of the Constitution and the law.
+2. Every citizen shall have the right to participate in political associations and political parties, under the terms of the Constitution and the law.
 
 21/93
 
@@ -781,23 +781,23 @@ GUARANTEE OF FUNDAMENTAL RIGHTS AND FREEDOMS
 
 #### Article 56 (General guarantee of the state)
 
-- The state shall recognise as inviolable the fundamental rights and freedoms enshrined in the Constitution and shall create the political, economic, social and cultural conditions and conditions of peace and stability that guarantee their effective realisation and protection, under the terms of the Constitution and the law.
+1. The state shall recognise as inviolable the fundamental rights and freedoms enshrined in the Constitution and shall create the political, economic, social and cultural conditions and conditions of peace and stability that guarantee their effective realisation and protection, under the terms of the Constitution and the law.
 
-- It shall be the duty of all public authorities to respect and guarantee the free exercise of fundamental rights and freedoms and the fulfilment of constitutional and legal duties.
+2. It shall be the duty of all public authorities to respect and guarantee the free exercise of fundamental rights and freedoms and the fulfilment of constitutional and legal duties.
 
 #### Article 57 (Restriction of rights, freedoms and guarantees)
 
-- The law may only restrict rights, freedoms and guarantees in cases expressly prescribed in the Constitution and these restrictions must be limited to what is necessary,  proportional  and  reasonable  in  a  free  and  democratic  society  in order to safeguard other constitutionally protected rights and interests.
+1. The law may only restrict rights, freedoms and guarantees in cases expressly prescribed in the Constitution and these restrictions must be limited to what is necessary,  proportional  and  reasonable  in  a  free  and  democratic  society  in order to safeguard other constitutionally protected rights and interests.
 
-- Laws restricting  rights,  freedoms  and  guarantees  must  be  of  a  general  and abstract nature and may not have a retroactive effect nor reduce the extent or scope of the essential content of constitutional precepts.
+2. Laws restricting  rights,  freedoms  and  guarantees  must  be  of  a  general  and abstract nature and may not have a retroactive effect nor reduce the extent or scope of the essential content of constitutional precepts.
 
 #### Article 58 (Limitation or suspension of rights, freedoms and guarantees)
 
-- The exercise of the rights, freedoms and guarantees of citizens may only be limited or suspended in the event of a state of war, siege or emergency, under the terms of the Constitution and the law.
+1. The exercise of the rights, freedoms and guarantees of citizens may only be limited or suspended in the event of a state of war, siege or emergency, under the terms of the Constitution and the law.
 
-- A state  of  war,  siege  or  emergency  may  only  be  declared  in  part  or  all  of national territory in cases of actual or imminent aggression by foreign forces, serious  threat  to,  or  disturbance  of,  the  constitutional  democratic  order,  or public disaster.
+2. A state  of  war,  siege  or  emergency  may  only  be  declared  in  part  or  all  of national territory in cases of actual or imminent aggression by foreign forces, serious  threat  to,  or  disturbance  of,  the  constitutional  democratic  order,  or public disaster.
 
-- The decision to opt for a state of war, siege or emergency, in addition to its declaration and implementation must always be limited to the necessary and appropriate  actions  required  to  maintain  public  order  and  protect  general interests, observing  the principle of proportionality and  being  limited, particularly  with  regard to extent and duration and the means employed, to that which is strictly necessary to promptly restore constitutional normality.
+3. The decision to opt for a state of war, siege or emergency, in addition to its declaration and implementation must always be limited to the necessary and appropriate  actions  required  to  maintain  public  order  and  protect  general interests, observing  the principle of proportionality and  being  limited, particularly  with  regard to extent and duration and the means employed, to that which is strictly necessary to promptly restore constitutional normality.
 
 22/93
 
@@ -807,25 +807,25 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 23]]
 
-- The  declaration  of  a  state  of  war,  siege  or  emergency  shall  confer  on  the public authorities the power and responsibility to take the appropriate steps needed to restore constitutional normality.
+4. The  declaration  of  a  state  of  war,  siege  or  emergency  shall  confer  on  the public authorities the power and responsibility to take the appropriate steps needed to restore constitutional normality.
 
-- Under  no  circumstances  may  the  declaration  of  a  state  of  war,  siege  or emergency effect:
+5. Under  no  circumstances  may  the  declaration  of  a  state  of  war,  siege  or emergency effect:
 
-- The application  of  constitutional  rules  concerning  the  responsibilities  and functioning of the bodies that exercise sovereign power;
+a) The application  of  constitutional  rules  concerning  the  responsibilities  and functioning of the bodies that exercise sovereign power;
 
-- The rights and immunities of the members of bodies that exercise sovereign power;
+b) The rights and immunities of the members of bodies that exercise sovereign power;
 
-- The right to life, personal integrity and personal identity;
+c) The right to life, personal integrity and personal identity;
 
-- Civil capacity and citizenship;
+d) Civil capacity and citizenship;
 
-- The non-retroactive nature of criminal law;
+e) The non-retroactive nature of criminal law;
 
-- The right to a defence;
+f) The right to a defence;
 
-- Freedom of conscience and religion.
+g) Freedom of conscience and religion.
 
-- Special law shall regulate the state of war, siege or emergency.
+6. Special law shall regulate the state of war, siege or emergency.
 
 #### Article 59 (Ban on the death penalty)
 
@@ -839,9 +839,9 @@ No-one shall be subjected to torture, forced labour or cruel, degrading or inhum
 
 The  following  shall  be  imprescriptible  and  ineligible  for  amnesty  or  provisional release, through the application of coercive measures:
 
-- Genocide and crimes against humanity, as stipulated in law;
+a) Genocide and crimes against humanity, as stipulated in law;
 
-- Crimes stipulated as such in law.
+b) Crimes stipulated as such in law.
 
 #### Article 62 (Irreversibility of amnesty)
 
@@ -861,39 +861,39 @@ www.comissaoconstitucional.ao
 
 Any  person  deprived  of  their  liberty  must  be  informed  at  the  time  of  their imprisonment or detention of the respective reasons and their rights, namely:
 
-- To be shown the warrant for their imprisonment or detention issued by the appropriate authority, under the terms of the law;
+a) To be shown the warrant for their imprisonment or detention issued by the appropriate authority, under the terms of the law;
 
-- To be informed of the place where they will be taken;
+b) To be informed of the place where they will be taken;
 
-- To  have  their  family  and  lawyer  informed  of  their  imprisonment  or detention and the place where they will be taken;
+c) To  have  their  family  and  lawyer  informed  of  their  imprisonment  or detention and the place where they will be taken;
 
-- To choose a lawyer or counsel whom they trust to accompany police and legal inquiries;
+d) To choose a lawyer or counsel whom they trust to accompany police and legal inquiries;
 
-- To consult a lawyer before making a statement;
+e) To consult a lawyer before making a statement;
 
-- To remain silent and not make a statement or to do so only in the presence of a lawyer of their choice;
+f) To remain silent and not make a statement or to do so only in the presence of a lawyer of their choice;
 
-- Not to make confessions and statements that incriminate them;
+g) Not to make confessions and statements that incriminate them;
 
-- To  be  brought  before  an  appropriate  magistrate  for  confirmation  or otherwise  of  their  imprisonment  and  to  be  tried  within  the  legally established limit of time or released;
+h) To  be  brought  before  an  appropriate  magistrate  for  confirmation  or otherwise  of  their  imprisonment  and  to  be  tried  within  the  legally established limit of time or released;
 
-- To communicate in a language they understand or through an interpreter.
+i) To communicate in a language they understand or through an interpreter.
 
 #### Article 64 (Deprivation of freedom )
 
-- Deprivation  of  freedom  shall  only  be  permitted  in  cases  and  under  the conditions determined by law.
+1. Deprivation  of  freedom  shall  only  be  permitted  in  cases  and  under  the conditions determined by law.
 
-- The  police  or  any  other  entity  may  only  detain  or  make  an  arrest  in  cases prescribed  in  the  Constitution  and  in  law,  in flagrante  delito or  when  in possession of a warrant issued by the appropriate authority.
+2. The  police  or  any  other  entity  may  only  detain  or  make  an  arrest  in  cases prescribed  in  the  Constitution  and  in  law,  in flagrante  delito or  when  in possession of a warrant issued by the appropriate authority.
 
 #### Article 65 (Application of criminal law)
 
-- Criminal liability shall be personal and non-transferable.
+1. Criminal liability shall be personal and non-transferable.
 
-- No-one shall be sentenced under criminal law unless the act or omission in question  is  punishable  under  the  terms  of  a  pre-existing  law,  nor  shall  any person be the object of a security measure unless the prerequisites are laid down in a pre-existing law.
+2. No-one shall be sentenced under criminal law unless the act or omission in question  is  punishable  under  the  terms  of  a  pre-existing  law,  nor  shall  any person be the object of a security measure unless the prerequisites are laid down in a pre-existing law.
 
-- No sentence  or  security  measure  shall  be  applied  unless  it  is  expressly sanctioned in a pre-existing law.
+3. No sentence  or  security  measure  shall  be  applied  unless  it  is  expressly sanctioned in a pre-existing law.
 
-- No-one  shall  be  the  object  of  a  sentence  or  security  measure  that  is  more severe than those provided for at the moment of the conduct in question or
+4. No-one  shall  be  the  object  of  a  sentence  or  security  measure  that  is  more severe than those provided for at the moment of the conduct in question or
 
 24/93
 
@@ -903,31 +903,31 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 25]]
 
-- verification of the respective prerequisites, and criminal laws with a content more favourable to the defendant shall be applied retroactively.
+verification of the respective prerequisites, and criminal laws with a content more favourable to the defendant shall be applied retroactively.
 
-- No-one shall be tried more than once for the same matter.
+5. No-one shall be tried more than once for the same matter.
 
-- Citizens  who  are  unjustly  convicted  shall  have  the  right  to  have their sentences reviewed and to receive compensation for any damages they have suffered, as prescribed by law.
+6. Citizens  who  are  unjustly  convicted  shall  have  the  right  to  have their sentences reviewed and to receive compensation for any damages they have suffered, as prescribed by law.
 
 #### Article 66 (Limits on sentences and security measures)
 
-- No sentence or security measure that  deprives or restricts freedom shall be perpetual in nature or of an unlimited or undefined duration.
+1. No sentence or security measure that  deprives or restricts freedom shall be perpetual in nature or of an unlimited or undefined duration.
 
-- Convicted persons who are the object of a sentence or security measure that deprives them of their freedom shall retain their fundamental rights, subject only  to  the  limitations  inherent  to  their  convictions  and  to  the  specific requirements imposed by the execution of the respective sentences.
+2. Convicted persons who are the object of a sentence or security measure that deprives them of their freedom shall retain their fundamental rights, subject only  to  the  limitations  inherent  to  their  convictions  and  to  the  specific requirements imposed by the execution of the respective sentences.
 
 #### Article 67 (Guarantees in criminal proceedings)
 
-- No-one  may  be  detained,  imprisoned  or  brought  to  trial  unless  under  the terms of the law, and all defendants or prisoners shall be guaranteed the right to a defence, appeal and legal counsel.
+1. No-one  may  be  detained,  imprisoned  or  brought  to  trial  unless  under  the terms of the law, and all defendants or prisoners shall be guaranteed the right to a defence, appeal and legal counsel.
 
-- All citizens shall be presumed innocent until their sentence has become res judicata.
+2. All citizens shall be presumed innocent until their sentence has become res judicata.
 
-- The defendant shall have the right to choose a lawyer or counsel and to be assisted by them throughout the legal proceedings, and the cases and phases in which legal assistance is obligatory shall be specified by law.
+3. The defendant shall have the right to choose a lawyer or counsel and to be assisted by them throughout the legal proceedings, and the cases and phases in which legal assistance is obligatory shall be specified by law.
 
-- Defendants  and  prisoners  shall  have  the  right  to  receive  visits  from  their lawyer, family, friends and religious counsellor and to correspond with them, without  prejudice  to  the  provisions  contained  in  Article  63(e)    and  Article 194(3) .
+4. Defendants  and  prisoners  shall  have  the  right  to  receive  visits  from  their lawyer, family, friends and religious counsellor and to correspond with them, without  prejudice  to  the  provisions  contained  in  Article  63(e)    and  Article 194(3) .
 
-- Defendants  or  prisoners  who  are  unable  to  appoint  a  lawyer  for  financial reasons must, under the terms of the law, be ensured adequate legal aid.
+5. Defendants  or  prisoners  who  are  unable  to  appoint  a  lawyer  for  financial reasons must, under the terms of the law, be ensured adequate legal aid.
 
-- Any individual who is sentenced shall have the right to lodge an appeal or extraordinary review procedure with the appropriate court against their penal sentence, under the terms of the law.
+6. Any individual who is sentenced shall have the right to lodge an appeal or extraordinary review procedure with the appropriate court against their penal sentence, under the terms of the law.
 
 #### Article 68
 
@@ -1707,9 +1707,9 @@ www.comissaoconstitucional.ao
 
 - The acts of the President of the Republic referred to Article 120(e) shall take the form of Presidential legislative decrees;
 
-- The acts of the President of the Republic referred to Article 1190(a),(b),(e),(f),(g),(h),)i),(j),(k),(l),(m),(n),(o),(p),(q),(r),(u) and (v), Article 120(g) and (l), Article 121(d), and Article 122(c),(d),(e),(f),(g),(h),(i) and j), all of the Constitution, shall take the form of Presidential decrees.
+- The acts of the President of the Republic referred to Article 119.º(a),(b),(e),(f),(g),(h),(i),(j),(k),(l),(m),(n),(o),(p),(q),(r),(u) and (v), Article 120(g) and (l), Article 121(d), and Article 122(c),(d),(e),(f),(g),(h),(i) and (j), all of the Constitution, shall take the form of Presidential decrees.
 
-- Acts of the President of the Republic arising out of his duties as Commander­ in-Chief of the Armed Forces and not prescribed in the previous points shall take the form  of  Directives, Briefings, Orders  and  Dispatches  of  the Commander-in-Chief.
+- Acts of the President of the Republic arising out of his duties as Commander-in-Chief of the Armed Forces and not prescribed in the previous points shall take the form of Directives, Briefings, Orders and Dispatches of the Commander-in-Chief.
 
 - Administrative acts  of  the  President  of  the  Republic  shall  take  the  form  of Presidential dispatches.
 
@@ -1795,7 +1795,7 @@ www.comissaoconstitucional.ao
 
 - The  Supreme  Court  shall  be  responsible  for  hearing  and  ruling  on  the criminal procedures referred to in Point 1(a), (b) and (e) of this Article which are instigated against the President of the Republic.
 
-- The Constitutional Court shall be responsible for hearing and ruling on the procedures for the removal of a President of the Republic from office which are referred to in Point 1(c) and d) and Point 2 of this Article.
+- The Constitutional Court shall be responsible for hearing and ruling on the procedures for the removal of a President of the Republic from office which are referred to in Point 1(c) and (d) and Point 2 of this Article.
 
 - The  procedures  for  criminal  liability and  removal  of  a  President  of  the Republic  from  office  referred  to  in  the  previous  points  shall  observe  the following:
 
@@ -1855,7 +1855,7 @@ www.comissaoconstitucional.ao
 
 - Should  both  the  President  of  the  Republic  and  the  Vice-President  become permanently and simultaneously unable to perform their duties, the President of  the  National  Assembly  shall  assume  the  duties  of  the  President  of  the Republic until new general elections are held, which must happen within one hundred and twenty days of verification of their inability to serve.
 
-- Should  the  President  of  the  Republic  elect  become  permanently  unable  to perform his duties before his inauguration, he shall be replaced by the VicePresident elect, and a substitute Vice-President shall be appointed under the terms of point 2 of this Article.
+- Should the President of the Republic elect become permanently unable to perform his duties before his inauguration, he shall be replaced by the Vice-President elect, and a substitute Vice-President shall be appointed under the terms of point 2 of this Article.
 
 - Should both the President of the Republic elect and the Vice-President elect become permanently and simultaneously unable to perform their duties prior to taking up office, the political party or coalition of political parties whose list elected the President and Vice-President so impeded shall be responsible for  appointing  their  substitutes  from  among  Members  elected  by  the  same list, to take up office
 
@@ -1979,7 +1979,7 @@ In  exercising  the  powers  delegated  to  them  by  the  President  of  the  R
 
 #### Article 138 (Incompatibilities)
 
-- The  offices  of  Minister  of  State,  Minister,  Secretary  of  State  and  ViceMinister  shall  be  incompatible  with  the  office  of  member  of  the  National Assembly and with serving as a judge or public prosecutor.
+- The  offices  of  Minister  of  State,  Minister,  Secretary  of  State  and  Vice-Minister  shall  be  incompatible  with  the  office  of  member  of  the  National Assembly and with serving as a judge or public prosecutor.
 
 51/93
 
@@ -1989,7 +1989,7 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 52]]
 
-- The  offices  of  Minister  of  State,  Minister,  Secretary  of  State  and  ViceMinister shall also be incompatible with any of the following:
+- The  offices  of  Minister  of  State,  Minister,  Secretary  of  State  and  Vice-Minister shall also be incompatible with any of the following:
 
 - Paid  employment  in  any  public  or  private  institution,  except  those dedicated to teaching or academic research;
 
@@ -2559,7 +2559,7 @@ www.comissaoconstitucional.ao
 
 #### Article 171 (Parliamentary consideration of Executive legislation)
 
-- Authorised Presidential legislative decrees may be subject to consideration by parliament, on the basis of a motion signed by at least ten Members in full exercise of their office within thirty f«days of their publication in the Diário da República (Official Gazette).
+- Authorised Presidential legislative decrees may be subject to consideration by parliament, on the basis of a motion signed by at least ten Members in full exercise of their office within thirty days of their publication in the Diário da República (Official Gazette).
 
 - Authorised  Presidential  legislative  decrees  shall  be  subject  to  consideration with a view to amending or ending their force.
 
@@ -2807,7 +2807,7 @@ PUBLIC PROSECUTORS' OFFICE
 
 #### Article 185 (Institutional autonomy)
 
-- The Public Prosecutor's Office shall be the essential body of the Attorney­ General's Office in terms of the judicial function of the state and shall enjoy autonomy and its own status.
+- The Public Prosecutor's Office shall be the essential body of the Attorney-General's Office in terms of the judicial function of the state and shall enjoy autonomy and its own status.
 
 - The autonomy of the Prosecutor's Office shall be characterised by the fact that it is bound by the criteria of legality and objectivity.
 
@@ -3003,7 +3003,7 @@ www.comissaoconstitucional.ao
 
 - Citizens shall have the right to be informed by the public administration of administrative processes that are liable to affect their legally protected rights and interests.
 
-- Citizens  shall  have  he  right  to  be  informed  by  the  administration  of  the progress  of  proceedings  in  which  they  have  a  direct  interest,  and  learn  of decisions that are taken with regard to them.
+- Citizens shall have the right to be informed by the administration of the progress of proceedings in which they have a direct interest, and learn of decisions that are taken with regard to them.
 
 - The interested individuals must be notified, in the form prescribed by law, of administrative acts, which shall require express justification when they affect legally protected rights and interests.
 
@@ -3023,7 +3023,7 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 77]]
 
-- governing  the  province  and  ensuring  the  normal  functioning  of  the  local administration.
+governing the province and ensuring the normal functioning of the local administration.
 
 - The Provincial Governor shall be appointed by the President of the Republic, to whom he shall be politically and institutionally accountable.
 
@@ -3105,7 +3105,7 @@ www.comissaoconstitucional.ao
 
 #### Article 210 (National Police Force)
 
-- The National Police Force shall be the national, permanent, regular and non­ partisan police institution, organised on a hierarchical basis and in terms of the  discipline  required  for  the  protection  and  safety  of  the  country  by  the police  force,  with  strict  respect  for  the  Constitution,  the  laws  and  any international conventions to which Angola may be a party.
+- The National Police Force shall be the national, permanent, regular and non-partisan police institution, organised on a hierarchical basis and in terms of the discipline required for the protection and safety of the country by the police force, with strict respect for the Constitution, the laws and any international conventions to which Angola may be a party.
 
 - The National Police Force shall be composed exclusively of Angolan citizens and shall possess a single organisational structure for the whole of national territory.
 
@@ -3115,7 +3115,7 @@ www.comissaoconstitucional.ao
 
 #### Article 211 (Preserving the security of the state)
 
-- The objective of preserving the security of the estate shall be to safeguard the
+- The objective of preserving the security of the state shall be to safeguard the
 
 79/93
 
@@ -3125,7 +3125,7 @@ www.comissaoconstitucional.ao
 
 [[START OF PAGE 80]]
 
-- democratic state based on the rule of law against violent or organised crime and other types of threats or risks, with respect for the Constitution, the laws and any international conventions to which Angola may be a party..
+democratic state based on the rule of law against violent or organised crime and other types of threats or risks, with respect for the Constitution, the laws and any international conventions to which Angola may be a party.
 
 - The preservation of state security shall include the institutional elements of the state intelligence and security bodies.
 
@@ -3205,15 +3205,15 @@ Under the terms of the law, local authorities shall have responsibilities in the
 
 #### Article 220 (Local authority bodies)
 
-- Local  authority  organisations  shall  comprise  an  Assembly  with  decisionmaking powers, a collegiate executive body and a President.
+- Local authority organisations shall comprise an Assembly with decision-making powers, a collegiate executive body and a President.
 
-- The  Assembly  shall  be  composted  of  local  representatives  elected  by  the universal, equal, free, direct, secret and periodic suffrage of the citizens who comprise the electorate in the respective local authority area, in accordance with the system of proportional representation.
+- The Assembly shall be composed of local representatives elected by the universal, equal, free, direct, secret and periodic suffrage of the citizens who comprise the electorate in the respective local authority area, in accordance with the system of proportional representation.
 
 - The  collegiate  executive  body  shall  be  composed  of  a  President  and  the secretaries  he  appoints,  all  of  whom  shall  be  accountable  to  the  local government Assembly.
 
 - The Chair of the local authority executive body shall be the first candidate on the list that received the most votes for the Assembly.
 
-- Nominations  for  election  to  local  authority  bodies  may  be  submitted  by political parties, either individually or as coalitions, or by groups of registered electors,  under  the  terms  of  the  law.  (Projects  B  and  C  -  approved  by consensus)
+- Nominations for election to local authority bodies may be submitted by political parties, either individually or as coalitions, or by groups of registered electors, under the terms of the law. (Projects B and C – approved by consensus)
 
 #### Article 221 (Administrative supervision)
 
@@ -3273,11 +3273,9 @@ The attributions, responsibilities, organisation, system of control, liability a
 
 #### Article 226 (Constitutionality)
 
-- The validity of laws and the various acts of the state, the public administration and the local authorities shall depend on their compliance with
+- The validity of laws and the various acts of the state, the public administration and the local authorities shall depend on their compliance with the Constitution.
 
-- the Constitution.
-
-- Laws or  acts  which  violate  the  principles  and  norms  enshrined  in  this Constitution shall be unconstitutional.
+- Laws or acts which violate the principles and norms enshrined in this Constitution shall be unconstitutional.
 
 #### Article 227 (Objective of review)
 
@@ -3437,9 +3435,9 @@ No  alterations  may  be  made  to  the  Constitution  during  a  state  of  war
 
 # TITLE VIII FINAL AND TRANSITIONAL PROVISIONS
 
-#### Article 238 (Entry onto force)
+#### Article 238 (Entry into force)
 
-The Constitution of the Republic of Angola shall come into force on the date of its publication  in  the Diário  da  Republic (Official  Gazette),  without  prejudice  to  the provisions contained in the Articles which follow.
+The Constitution of the Republic of Angola shall come into force on the date of its publication in the Diário da República (Official Gazette), without prejudice to the provisions contained in the Articles which follow.
 
 #### Article 239 (Force of previous laws)
 
@@ -3501,7 +3499,7 @@ THE PRESIDENT OF THE REPUBLIC
 
 JOSÉ EDUARDO DOS SANTOS
 
-# ANNEX I - THE NATIONAL FLAG
+# ANNEX I – THE NATIONAL FLAG
 
 The National Flag shall display two colours in horizontal bands. The upper band shall be bright red and the lower one black and they shall represent:
 
@@ -3527,7 +3525,7 @@ The  President  of  the  National  and  Constituent  Assembly,  FERNANDO  DA PIE
 
 The President of the Republic, JOSÉ EDUARDO DOS SANTOS
 
-# ANNEX II - THE NATIONAL INSIGNIA
+# ANNEX II – THE NATIONAL INSIGNIA
 
 The insignia of the Republic of Angola shall be composed of a segment of a cog wheel and sheaves of maize, coffee and cotton, representing the workers and industrial production, the peasants and agricultural production, respectively .
 
@@ -3549,24 +3547,27 @@ The  President  of  the  National  and  Constituent  Assembly,  FERNANDO  DA PIE
 
 The President of the Republic, JOSÉ EDUARDO DOS SANTOS
 
-# ANNEX III - THE NATIONAL ANTHEM
+# ANNEX III – THE NATIONAL ANTHEM
 
 ## National Anthem of the Republic of Angola
 
-'Forward, Angola'
+“Forward, Angola”
 
-As by our work we create the new man
-
-O Fatherland, we shall never forget The heroes of the Fourth of February O Fatherland, we salute your sons Who died for our independence We honour the past and our history As by our work we create the new man We honour the past and our history
+O Fatherland, we shall never forget
+The heroes of the Fourth of February
+O Fatherland, we salute your sons
+Who died for our independence
+We honour the past and our history
+As by our work we create the new
+man
+We honour the past and our history
+As by our work we create the new
+man
 
 Forward, Angola,
-
 Revolution through the power of the
-
 people
-
 A united country, freedom
-
 One people, one nation
 
 92/93
@@ -3597,11 +3598,11 @@ In solidarity with the oppressed
 
 Fighting proudly for peace
 
-With the world's progressive forces
+With the world’s progressive forces
 
 Fighting proudly for peace
 
-With the world's progressive forces
+With the world’s progressive forces
 
 Forward, Angola,
 
@@ -3629,7 +3630,7 @@ The  President  of  the  National  and  Constituent  Assembly,  FERNANDO  DA PIE
 
 The President of the Republic, JOSÉ EDUARDO DOS SANTOS
 
-2/93
+93/93
 
 www.comissaoconstitucional.ao
 
