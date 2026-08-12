@@ -1,12 +1,12 @@
 [[START OF PAGE 1]]
 
+Final Draft
+
 # PERSPECTIVE PLAN OF BANGLADESH 2010-2021
 
 ## ____________________________ MAKING VISION 2021 A REALITY
 
 General Economics Division Planning Commission Government of the People's Republic of Bangladesh April 2012
-
-Final Draft
 
 [[END OF PAGE 1]]
 
@@ -20,17 +20,116 @@ Final Draft
 
 # Contents
 
+ABBREVIATIONS ............................................................................................................................... v
+PREAMBLE of the Perspective Plan (2010-2021) ............................................................................ 1
+I. Context of the Perspective Plan .................................................................................................. 1
+II. Current state and Development Perspective ............................................................................. 1
+EXECUTIVE SUMMARY .................................................................................................................... 2
+CHAPTER 1: VISION FOR A PROSPEROUS FUTURE ........................................................................ 10
+1.1 The Vision .......................................................................................................................................... 10
+1.2 A Promoting Democratic Institutions ............................................................................................... 10
+1.3 Promoting Gender Balance ............................................................................................................... 11
+1.4 Technical Framework for Achieving Middle Income Country Status ................................................ 11
+1.5 Development Priorities ..................................................................................................................... 11
+1.6 Making Vision 2021 a Reality ............................................................................................................ 14
+CHAPTER 2: INSTITUTIONAL FOUNDATIONS OF STABILITY AND PROSPERITY ............................. 15
+2.1 Institutional Foundations of Governance ......................................................................................... 15
+2.2 Development Governance ................................................................................................................ 15
+2.3 The Civil Service ................................................................................................................................ 16
+2.4 Local Governance .............................................................................................................................. 16
+2.5 The Private Sector and Civil Society .................................................................................................. 17
+2.6 Anti -Corruption Movement ............................................................................................................. 17
+2.7 Towards Fast-Track Governance ....................................................................................................... 18
+CHAPTER 3: TOWARDS MIDDLE INCOME ECONOMY ................................................................... 18
+3.1 Strategic Goals .................................................................................................................................. 19
+3.2 Macroeconomic Framework ............................................................................................................. 19
+3.3 Public Revenue and Expenditure strategy ........................................................................................ 21
+3.4 Inflation control ................................................................................................................................ 21
+3.5 Monetary Management for growth and stability ............................................................................. 21
+3.6 Exchange rate policy for external stability ........................................................................................ 22
+3.7 Investment to boost productivity and growth .................................................................................. 23
+3.8 Savings mobilization for higher investment...................................................................................... 24
+3.9 Reducing Poverty and Inequality ...................................................................................................... 24
+CHAPTER 4: STRATEGY FOR FOOD SECURITY: AGRICULTURE AND RURAL DEVELOPMENT ........ 27
+4.1 Strategic goals ................................................................................................................................... 27
+
 i
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
+4.2 Crop Sector ........................................................................................................................................ 27
+4.3 Fisheries ............................................................................................................................................ 29
+4.4 Livestock and Poultry ........................................................................................................................ 30
+4.5 Forestry ............................................................................................................................................. 31
+4.6 Rural Development and Institutions ................................................................................................. 32
+4.7 Water Resource Management .......................................................................................................... 34
+CHAPTER 5: INDUSTRIALIZATION IN A COMPETITIVE WORLD ..................................................... 36
+5.1 The Challenges .................................................................................................................................. 36
+5.2 Targets, Strategies and Policies for the Manufacturing Sector ........................................................ 36
+5.3 Strategic Policies for the Manufacturing Sector ............................................................................... 37
+5.4 Exports – the driver of manufacturing growth ................................................................................. 39
+5.5 Challenges and Future Direction of Trade Policy Reforms ............................................................... 43
+CHAPTER 6: OPPORTUNITIES FROM GLOBALIZATION AND REGIONAL COOPERATION ............... 47
+6.1 Globalization and Bangladesh ........................................................................................................... 47
+6.2 Remittance Inflows ........................................................................................................................... 47
+6.3 Foreign Direct Investment ................................................................................................................ 48
+6.4 Addressing the Multilateral Trading Regime .................................................................................... 49
+6.5 Strengthening Regional Cooperation ................................................................................................ 51
+CHAPTER 7: TOWARDS A DIGITAL BANGLADESH BY 2021 ........................................................... 54
+7.1 Knowledge Economy ......................................................................................................................... 54
+7.2 ICT and Science and Technology for National Development ............................................................ 54
+7.3 Constraints to ICT related activity and priorities: ............................................................................ 55
+7.4 Issues Relating to ICT and Digital Bangladesh ................................................................................... 56
+7.5 E-governance .................................................................................................................................... 56
+7.6 Strategic goals for the long-term ...................................................................................................... 57
+CHAPTER 8: ENERGY SECURITY FOR DEVELOPMENT.................................................................... 58
+8.1 Energy Strategy for the long-term .................................................................................................... 58
+8.2 The Present Electricity Situation ....................................................................................................... 58
+8.3 Energy Security and Electricity for all by 2021 .................................................................................. 59
+8.4 Demand for Electricity ...................................................................................................................... 60
+8.5 Supply of Electricity ........................................................................................................................... 61
+8.6 Contribution of the Private Sector to Power Generation ................................................................. 61
+8.7 Energy Mix for the long-term............................................................................................................ 62
+8.8 Non-traditional/Renewable Energy .................................................................................................. 63
+8.9 Fuel: Oil, Gas, and Coal ..................................................................................................................... 63
+
 ii
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+8.10 Long-term Strategies ....................................................................................................................... 65
+CHAPTER 9: TRANSPORT AND COMMUNICATION FOR THE FUTURE .......................................... 66
+9.1 Transport ........................................................................................................................................... 66
+9.2 Policy Objectives ............................................................................................................................... 66
+9.3 Sub-Sectoral Goals, Objectives and Strategies ................................................................................. 67
+9.4 Multi-Modal Transport ..................................................................................................................... 70
+9.5 Communication ................................................................................................................................. 71
+CHAPTER 10: ADDRESSING THE URBAN CHALLENGE ................................................................... 73
+10.1 Trends and Patterns of Urbanization .............................................................................................. 73
+10.2 Urban Sector and the Emerging Challenges ................................................................................... 74
+10.3 Policies and Strategies .................................................................................................................... 75
+10.4 Long-term perspective .................................................................................................................... 76
+CHAPTER 11: PROMOTING HUMAN DEVELOPMENT ................................................................... 77
+11.1 Population Planning & Generating Human Capital ......................................................................... 77
+11.2 Promoting and Sustaining Health ................................................................................................... 78
+11.3 Promoting Improved Nutrition ....................................................................................................... 80
+11.4 Education, Training, and Skills Development for Human Capital Formation ................................. 82
+CHAPTER 12: ADDRESSING CHALLENGE OF POVERTY ERADICATION .......................................... 88
+12.1 Notable record of poverty reduction .............................................................................................. 88
+12.2 Strategies for accelerated poverty reduction ................................................................................. 89
+12.3 Challenge of addressing income inequality .................................................................................... 90
+12.4 Human development and sustainable environment ...................................................................... 90
+12.5 Addressing poverty through social protection ............................................................................... 91
+CHAPTER 13: ENVIRONMENTALLY SUSTAINABLE DEVELOPMENT ............................................... 94
+13.1 The State of Bangladesh’s Environment ......................................................................................... 94
+13.2 Global Climate Change and Bangladesh ......................................................................................... 94
+13.3 Responses to Environmental Challenges, Climate Change Impacts and Disaster Risks ................. 95
+13.4 Environmental, Climate Change and Disaster Management Strategies ......................................... 95
+CHAPTER 14 : CONCLUDING REMARKS ........................................................................................ 98
 
 iii
 
@@ -39,6 +138,25 @@ iii
 [[START OF PAGE 6]]
 
 # List of Tables
+
+Table 3.1: Key Macroeconomic Indicators.................................................................................... 20
+Table 4.1: Production and Demand Projection of Rice (million tonnes) ...................................... 28
+Table 4.3: Projection of Fisheries Production ............................................................................... 30
+Table 5.1: Projection of Sectoral Growth and shares in GDP ....................................................... 37
+Table 5.2 Projections of Structural change to 2021 ..................................................................... 37
+Table 5.3: External sector targets (% of GDP) ............................................................................... 39
+Table 5.4: Current Trade Regimes in South Asian Countries ........................................................ 44
+Table 5.5: Trade Regimes in comparator countries ...................................................................... 44
+Table 8.1: Energy Mix in Bangladesh Compared to Global Position ............................................ 62
+Table 8.2: Demand for Natural Gas, 1991-2007 ........................................................................... 64
+Table 10.1: Growth of Urban Population in Bangladesh .............................................................. 73
+Table 11.1: Key HNP targets for SFYP and Perspective Plan......................................................... 82
+
+# List of Figures
+
+Figure 5.1: Average Nominal Protection and Para-tariffs............................................................. 45
+Figure 8.1: Growth (%) of Power Consumption by Sector, 2000-07 ............................................ 60
+Figure 12.1 Long-term poverty trends .......................................................................................... 88
 
 iv
 
@@ -519,7 +637,7 @@ viii
 
 ## I. Context of the Perspective Plan
 
-A  nation  without  vision  is  a  nation  gone  astray.  Such  is  not  the  case  for  Bangladesh  whose independence in 1971 was the culmination of a people's struggle, as much for political freedom as it was for their economic emancipation. In keeping with those aspirations, the Government's Vision 2021 is an articulation of where this nation needs to be in 2021 - the year which marks the 50 th anniversary of Bangladesh's independence.  That milestone, ten years away from 2011, will be a high point in Bangladesh's war against chronic poverty and the struggle to attain middle income country status, from its beginning as a low income country. This 'Perspective Plan of Bangladesh  (2010-2021):  Making  Vision  2021  a  Reality'  is  a  strategic  articulation  of  the development vision, mission, and goals of the Government in achieving a prosperous Bangladesh grounded in political and economic freedoms a reality in 2021.
+A nation without vision is a nation gone astray. Such is not the case for Bangladesh whose independence in 1971 was the culmination of a people's struggle, as much for political freedom as it was for their economic emancipation. In keeping with those aspirations, the Government's Vision 2021 is an articulation of where this nation needs to be in 2021 - the year which marks the 50th anniversary of Bangladesh's independence. That milestone, ten years away from 2011, will be a high point in Bangladesh's war against chronic poverty and the struggle to attain middle income country status, from its beginning as a low income country. This 'Perspective Plan of Bangladesh (2010-2021): Making Vision 2021 a Reality' is a strategic articulation of the development vision, mission, and goals of the Government in achieving a prosperous Bangladesh grounded in political and economic freedoms a reality in 2021.
 
 The  Perspective  Plan  provides  the  road  map  for  accelerated  growth  and  lays  down  broad approaches for eradication of poverty, inequality, and human deprivation. Specific strategies and the task of implementation will be articulated through the two five-year plans: Sixth Five Year Plan (2011-2015) and the Seventh Five Year Plan (2016-2020). The expectation is that by 2021, the war against poverty will have been won, the country will have crossed the middle income threshold,  with  the  basic  needs  of  the  population  ensured,  their  basic  rights  respected,  when everyone is adequately fed, clothed and housed, and have access to health care. And all this is achieved on a sustainable basis without damaging the environment. Furthermore, this progress will be ensured in an environment where every citizen has the opportunity fully and positively to contribute to the economy and society and equitably share the benefits from progress achieved.
 
@@ -536,7 +654,7 @@ Bangladesh's progress is a mosaic of solid achievements with some disappointment
 # EXECUTIVE SUMMARY
 
 ## The Vision .
-Bangladesh is a nation endowed with enormous potential that is yet to be realized. The  year  2021  marks  the  50 th anniversary  of  independence.  In  recognition  of  the  long  -term development challenges, the Government under the leadership of Prime Minister Sheikh Hasina adopted the Vision 2021. The Vision 2021 and the associated Perspective Plan 2010-2021 have set solid development targets for Bangladesh by the end of 2021. Those targets if achieved will transform the socio-economic environment of Bangladesh from a low income economy to the first stages of a middle income economy. Along with higher per capita income, Vision 2021 lays down a development scenario where citizens will have a higher standard of living, will be better educated, will face better social justice, will have a more equitable socio-economic environment, and  the  sustainability  of  development  will  be  ensured  through  better  protection  from  climate change and natural disasters. The associated political environment will be based on democratic principles  with  emphasis  on  human  rights,  freedom  of  expression,  rule  of  law,  equality  of citizens irrespective of race, religion and creed, and equality of opportunities. The Bangladesh economy  will  be  managed  within  the  framework  of  a  market  economy  with  appropriate government interventions to correct market distortions, to ensure equality of opportunities, and to ensure equity and social justice for all.
+Bangladesh is a nation endowed with enormous potential that is yet to be realized. The year 2021 marks the 50th anniversary of independence. In recognition of the long-term development challenges, the Government under the leadership of Prime Minister Sheikh Hasina adopted the Vision 2021. The Vision 2021 and the associated Perspective Plan 2010-2021 have set solid development targets for Bangladesh by the end of 2021. Those targets if achieved will transform the socio-economic environment of Bangladesh from a low income economy to the first stages of a middle income economy. Along with higher per capita income, Vision 2021 lays down a development scenario where citizens will have a higher standard of living, will be better educated, will face better social justice, will have a more equitable socio-economic environment, and the sustainability of development will be ensured through better protection from climate change and natural disasters. The associated political environment will be based on democratic principles with emphasis on human rights, freedom of expression, rule of law, equality of citizens irrespective of race, religion and creed, and equality of opportunities. The Bangladesh economy will be managed within the framework of a market economy with appropriate government interventions to correct market distortions, to ensure equality of opportunities, and to ensure equity and social justice for all.
 
 Development priorities of the Perspective Plan are distilled from the vision statement formulated to take Bangladesh to where it ought to be in the year 2021, given its human potential and natural resource  endowments.  Those  development  priorities  include  ensuring  broad-based  growth  and reducing  poverty;  ensuring  effective  governance  and  sound  institutions  but  creating  a  caring society;  addressing  globalization  and  regional  cooperation;  providing  energy  security  for development  and  welfare;  building  a  sound  infrastructure  and  managing  the  urban  challenge; mitigating  the  impacts  of  climate  change;  and  promoting  innovation  in  a  knowledge-based society. These thematic approaches will shape and form the foundation on which specific strategies are developed over the period of two five-year plans (Sixth and Seventh Five Year Plans).
 
@@ -559,7 +677,7 @@ Among others, a prudent macroeconomic policy will be required to ensure internal
 Acceleration  of  economic  growth  and  reduction  of  poverty  -  two  principal  goals  of  the Perspective Plan - will come about through the dynamism and inter-linkages among the three broad  sectors  of  the  economy:  agriculture,  industry,  and  services.  A  vibrant  and  highly productive agricultural sector is a prerequisite for the kind of growth acceleration envisaged in the Perspective Plan. Provision of food security is also a constitutional obligation.
 
 ## Agriculture  and  rural  development .
-With  a  view  to  enhancing  agricultural  production  and ensuring food security, the target of agriculture sector is that, by 2021, food deficiency will be eliminated  and  the  country  will  attain  self-sufficiency  in  food  production  enabling  to  meet nutritional  requirement  of  the  population.  In  this  context,  the  key  targets  are  to  achieve  selfsufficiency in rice production, to diversify agricultural crops, to form production and marketing cooperatives, to encourage R&D for increasing productivity etc. In addition, for fisheries sector, the  plan  prioritizes  on  closed  water  fisheries  production,  promotion  of  technical  knowledge among  the  educated  youth  in  closed  water  cultivation  as  well  as  on  the  adoption  and implementation of fishermen cooperatives. To promote development of livestock sector, the plan argues that, it is imperative to develop breed, to increase production and supply of feed and to extend  veterinary  services.  For  ensuring  sustainability  in  development  process,  the  plan  will adopt strategies to increase productivity, to strengthen the Sundarbans and to promote agro and social forestry. In the context of rural development, the key strategies taken under the perspective plan are to establish a powerful autonomous local government body for providing coordination among  private  and  public  rural  development  institutes  and  to  consider  reviving  the  local government commission.
+With a view to enhancing agricultural production and ensuring food security, the target of agriculture sector is that, by 2021, food deficiency will be eliminated and the country will attain self-sufficiency in food production enabling to meet nutritional requirement of the population. In this context, the key targets are to achieve self-sufficiency in rice production, to diversify agricultural crops, to form production and marketing cooperatives, to encourage R&D for increasing productivity etc. In addition, for fisheries sector, the plan prioritizes on closed water fisheries production, promotion of technical knowledge among the educated youth in closed water cultivation as well as on the adoption and implementation of fishermen cooperatives. To promote development of livestock sector, the plan argues that, it is imperative to develop breed, to increase production and supply of feed and to extend veterinary services. For ensuring sustainability in development process, the plan will adopt strategies to increase productivity, to strengthen the Sundarbans and to promote agro and social forestry. In the context of rural development, the key strategies taken under the perspective plan are to establish a powerful autonomous local government body for providing coordination among private and public rural development institutes and to consider reviving the local government commission.
 
 ## Industrial development .
 The Perspective Plan target of reaching 10 percent annual GDP growth by  2021  is  premised  on  a  prolific  and  competitive  manufacturing  sector  growing  at  or  near double digits during the 2010-21 decade. Consequently, the broad industrial sector will continue to  account  for  a  much  larger  share  of  GDP,  approaching  37%  by  2021,  compensating  for  the secular decline in the share of agricultural sector, which falls to 15%. This trend is consistent with  the  stylized  facts  of  structural  change  in  the  process  of  development.  For  Bangladesh  to reach  middle  income  threshold  by  2021,  industrial  expansion  must  accompany  hand-in-hand with  highly  productive  farm  and  non-farm  agriculture.  Furthermore,  a  strong  and  competitive manufacturing sector is especially important for generating productive high income jobs.
@@ -575,14 +693,14 @@ Manufacturing is the predominant and leading sector within broad industry which 
 Accelerated pace of industrialization will be necessary to address the increasingly diminishing capacity of agriculture to absorb the incremental labour force, strengthen backward and forward linkages  with  agriculture  and  services  sectors,  cater  to  the  growing  domestic  demand  for industrial goods, and take advantage of emerging opportunities in the global market.
 
 ## Manufacturing exports .
-The main driver of manufacturing growth will be the export markets, although growing domestic demand from higher income generation will also provide impetus to import  substitute  production.  Low-cost  labor  with  growing  skills  gives  Bangladesh  potential competitive advantage in most labor-intensive activities which will continue to drive manufacturing  growth  for  at  least  another  decade.  It  is  projected  that  the  share  of  exports  in relation  to  GDP  will  rise  to  about  25%  of  GDP  by  2021  reflecting  a  leading  role  that  export sector is envisaged to play in the economy. The target with regard to the external sector is to ensure strengthened global integration of the Bangladesh economy by building necessary traderelated  supply  side  capacities.  This  will  be  realized  through  raising  the  competitiveness  of Bangladesh's exports, ensuring a larger share for the country in the global trade in goods and services,  and  by  encouraging  both  product  and  market  diversification.  This  will  be  done  by renewing efforts at moving up market and by raising the efficacy of trade facilitation measures. Bangladesh's  strong  performance  in  the  global  labour  services  market  will  be  continued  and further consolidated. The overarching goal here will be to ensure that trade-GDP ratio rises to nearly 60% of GDP with export of goods and remittance earnings approaching 40 per cent by 2021.
+The main driver of manufacturing growth will be the export markets, although growing domestic demand from higher income generation will also provide impetus to import substitute production. Low-cost labor with growing skills gives Bangladesh potential competitive advantage in most labor-intensive activities which will continue to drive manufacturing growth for at least another decade. It is projected that the share of exports in relation to GDP will rise to about 25% of GDP by 2021 reflecting a leading role that export sector is envisaged to play in the economy. The target with regard to the external sector is to ensure strengthened global integration of the Bangladesh economy by building necessary trade-related supply side capacities. This will be realized through raising the competitiveness of Bangladesh's exports, ensuring a larger share for the country in the global trade in goods and services, and by encouraging both product and market diversification. This will be done by renewing efforts at moving up market and by raising the efficacy of trade facilitation measures. Bangladesh's strong performance in the global labour services market will be continued and further consolidated. The overarching goal here will be to ensure that trade-GDP ratio rises to nearly 60% of GDP with export of goods and remittance earnings approaching 40 per cent by 2021.
 
 In order to get the maximum leverage out of manufacturing sector and its competitiveness in the global  marketplace,  the  government  will  focus  on  four  strategic approaches:  (a) export diversification, involving product and market diversification; (b) seizing opportunities in export markets created by eroding competitiveness of China in low cost labor intensive products; (c) restructuring export production by seizing opportunities from globalized production chains and forging intra-industry linkages in a globalized economy; and (d) working on market access issues in multilateral, bilateral and regional fora
 
 ## Trade  policy  regime .
 Trade  liberalization  enacted  thus  far  has  improved  manufacturing efficiency  and  competitiveness.  Tariff  reductions  and  QR  removal  introduced  a  substantial degree of import competition in the local manufacturing sector, forcing enterprises to restructure and raise  productive  efficiency.  On  balance,  output  and  employment  growth  in  manufacturing was robust in the post-liberalization period. Over the next decade, trade openness will deepen further  so  that  only  those  manufacturing  enterprises  that  remain  globally  competitive  are expected to survive and prosper.
 
-It is critical that the trade policy regime  is geared to ensure productivity and  export competitiveness  while  facilitating  emergence  and  expansion  of  new  export  products.  Such  a trade  policy  regime  is  the  backbone  of  a  high-performing  manufacturing  sector.  To  cross  the middle income threshold by 2021, Bangladesh will need to transform its trade regime to the kind seen in high-performing emerging market economies. To that end, Bangladesh will need, among other things, to reduce average tariffs to levels already  reached by countries such as Vietnam, Malaysia, India and China. This has to happen ideally by the close of the Sixth Plan in 2015, well before 2021.
+It is critical that the trade policy regime is geared to ensure productivity and export competitiveness while facilitating emergence and expansion of new export products. Such a trade policy regime is the backbone of a high-performing manufacturing sector. To cross the middle income threshold by 2021, Bangladesh will need to transform its trade regime to the kind seen in high-performing emerging market economies. To that end, Bangladesh will need, among other things, to reduce average tariffs to levels already reached by countries such as Vietnam,
 
 4
 
@@ -590,7 +708,9 @@ It is critical that the trade policy regime  is geared to ensure productivity an
 
 [[START OF PAGE 15]]
 
-## Opportunities from globalization .
+Malaysia, India and China. This has to happen ideally by the close of the Sixth Plan in 2015, well before 2021.
+
+## Opportunities from globalization.
 Globalization presents opportunities as well as challenges for Bangladesh. What is clear is that missed opportunities in an age of globalization could be costly. The Bangladesh economy is more integrated with the global market today than ever before. This is largely due to rapid growth in trade, massive out-migration of labor and remittance inflows, liberalization of foreign exchange regime, financial sector reforms, and creation of a favorable FDI regime. Bangladesh having embraced globalization, the right policy framework and infrastructure will have to be put in place to seize opportunities coming its way and to address challenges.
 
 Besides strengthening our balance of payments position, remittance inflows have had significant impact on poverty reduction. Remittance inflows in 2011, at $11.5 billion, were about 10 per cent of GDP. Sustaining the growth of remittance inflows could be a major source of external finance in the  march  up  to  the  country's  middle  income  threshold  by  2021.  Strategic  actions  to  ensure continued flow of remittances include (a) close monitoring and supervision of the activities and practices of recruitment agencies, (b) moving to technology-based system of effective practices for remitting money, (c) training workers in the vocations and skills that have a high future demand in global markets, and (d) making the Overseas Employment Policy more comprehensive so that it covers multiple aspects of migration, including workers' and employers' documentation, employment contracts, their implementation, and settlement of workers welfare.
@@ -599,7 +719,7 @@ Besides strengthening our balance of payments position, remittance inflows have 
 Bangladesh's  projected  needs  for  investment  in  infrastructure  for  an expanding  transport  network  and  burgeoning  urban  centres  cannot  and  need  not  be  met  from domestic  resources  alone.  With  improved  economic  management  and  a  highly  liberalized investment regime, and with strategic locational shifts in labor-intensive industries, Bangladesh could  become  an  attractive  destination  for  private  capital  flows  over  the  next  decade.  The Perspective  Plan  will  consider  the  following  strategic  actions  to  stimulate  inflow  of  FDI:  (a) improve the investment climate by giving high priority to constraints in infrastructure, regulatory framework,  and  policy  environment,  (b)  the  general  governance  situation  (and  related  high transactions costs) will be addressed to improve the country's image, (c) special effort will be made  to  encourage  regional  investment  in  emerging  and  potentially  high  return  sectors  (e.g. software  development  and  IT  from  India,  electronics  from  China),  (d)  a  string  of  Special Economic Zones (SEZs) will be established along international borders to stimulate cross-border investments and trade, in line with the successful examples of China and Vietnam, and (e) the private  sector  will  be  encouraged  to  enter  joint  ventures  and  other  forms  of  collaborative investment with NRBs and foreign partners in areas of high potential.
 
 ## Multilateralism .
-Addressing the multilateral trading regime will mean  coping  with the challenges of asymmetric and inequitable trading rules that are prejudicial to the trading interests and  performance  of  LDCs,  including  Bangladesh.  Strategic  actions  to  be  pursued  during  the Perspective Plan will include (a) support negotiations for reduction and elimination of export and domestic subsidies and in favor of agricultural trade liberalization; (b) mainstreaming trade in the country's national development agenda, and should particularly incorporate Aid for Trade; (c) enhance Duty-Free Quota-Free access under provisions of NAMA;  (d)  as Bangladesh approaches middle income status, more effort should be focused on enhancing competitiveness of  Bangladesh's  exports;  (e)  regarding  trade  in  services,  try  to  secure  'permanent,  nonreciprocal,  special  priority',  notwithstanding  any  provisions  of  the  GATS;  (f)  negotiate  for establishing simple, transparent, and preferential Rules of Origin; and (g) consolidate and expand capacity for trade negotiations.
+Addressing the multilateral trading regime will mean coping with the challenges of asymmetric and inequitable trading rules that are prejudicial to the trading interests and performance of LDCs, including Bangladesh. Strategic actions to be pursued during the Perspective Plan will include (a) support negotiations for reduction and elimination of export and domestic subsidies and in favor of agricultural trade liberalization; (b) mainstreaming trade in the country's national development agenda, and should particularly incorporate Aid for Trade; (c) enhance Duty-Free Quota-Free access under provisions of NAMA; (d) as Bangladesh approaches middle income status, more effort should be focused on enhancing competitiveness of Bangladesh's exports; (e) regarding trade in services, try to secure “permanent, non-reciprocal, special priority”, notwithstanding any provisions of the GATS; (f) negotiate for establishing simple, transparent, and preferential Rules of Origin; and (g) consolidate and expand capacity for trade negotiations.
 
 5
 
@@ -615,10 +735,10 @@ Much of the impetus to higher growth will come from additional private and publi
 
 The  'Vision  2021'  aims  at  developing  Bangladesh  into  a  resourceful  and  modern  economy through  efficient  use  of  information  and  communication  technology.  This  goal  has  eloquently been  described  by  the  Prime  Minister  as  'Digital  Bangladesh'.  It  is  believed  that  through  the successful implementation of the ICT policy and its principles it would be possible to create a Digital Bangladesh by 2021 as promised by the government.
 
-With the onset of globalization the international environment for trade, business and investment, has  become  far  more  competitive  than  any  time  in  the  past  and  there  is  no  option  but  for Bangladesh  to  be  transformed  into  a  knowledge-driven  economy  to  survive  in  this  fierce competition. Natural physical endowment and history will play a limited role; human ingenuity, ideas  and  skill  will  play  the  principal  role  in  the  creation  of  future  wealth.  Information  and communication technologies (ICT) have greatly reduced the cost and increased the capacity of organizations  to  codify  knowledge,  process  and  communicate  information.  The  national  ICT Policy 2009 has expressed its vision which will assist Bangladesh to move towards a povertyfree  middle  income  prosperous  country  by  2021.  Its  vision  includes  plans  to  expand  the information  and  communication  technology,  and  then  take  advantage  of  this  to  establish  a transparent, committed and accountable government, develop skilled manpower, improve social justice and manage public services.
+With the onset of globalization the international environment for trade, business and investment, has become far more competitive than any time in the past and there is no option but for Bangladesh to be transformed into a knowledge-driven economy to survive in this fierce competition. Natural physical endowment and history will play a limited role; human ingenuity, ideas and skill will play the principal role in the creation of future wealth. Information and communication technologies (ICT) have greatly reduced the cost and increased the capacity of organizations to codify knowledge, process and communicate information. The national ICT Policy 2009 has expressed its vision which will assist Bangladesh to move towards a poverty-free middle income prosperous country by 2021. Its vision includes plans to expand the information and communication technology, and then take advantage of this to establish a transparent, committed and accountable government, develop skilled manpower, improve social justice and manage public services.
 
 ## Energy security .
-Bangladesh is coping with a serious energy crisis which is the result of sluggish growth in energy supplies while the demand for energy has grown by leaps and bound attendant with higher economic growth. The situation calls for an urgent but well-crafted sustainable longterm strategy to address the energy crisis and increase the energy supply to support Bangladesh's development. Accordingly, the Government has adopted a comprehensive energy development strategy.  The  strategy  provides  a  balanced  approach  that  looks  at  both  supply  increases  and demand management aspects of the energy market in a long-term horizon.  Energy options from domestic sources needs to be complemented with possible options for energy trade. Specifically, the  strategy  will  address  what  the  government  can  do  about  gas  and  power,  and  will  look  at options  for  diversification  of  fuels  for  generation.  The  strategy  also  involves  exploring  of alternative solutions such as increased electricity imports from neighboring countries and LNG trade. Furthermore exploration of domestically available resources, such as coal, oil and gas from offshore drilling will be intensified. The supply side options will be balanced with policies for demand management that conserve energy and discourage inefficient use of electricity.
+Bangladesh is coping with a serious energy crisis which is the result of sluggish growth in energy supplies while the demand for energy has grown by leaps and bound attendant with higher economic growth. The situation calls for an urgent but well-crafted sustainable long-term strategy to address the energy crisis and increase the energy supply to support Bangladesh's development. Accordingly, the Government has adopted a comprehensive energy development strategy. The strategy provides a balanced approach that looks at both supply increases and demand management aspects of the energy market in a long-term horizon. Energy options from domestic sources needs to be complemented with possible options for energy trade. Specifically, the strategy will address what the government can do about gas and power, and will look at options for diversification of fuels for generation. The strategy also involves exploring of alternative solutions such as increased electricity imports from neighboring countries and LNG trade. Furthermore exploration of domestically available resources, such as coal, oil and gas from offshore drilling will be intensified. The supply side options will be balanced with policies for demand management that conserve energy and discourage inefficient use of electricity.
 
 6
 
@@ -716,7 +836,7 @@ A  centerpiece  of  the  Perspective  Plan  is  the  delineation  of  the  count
 
 (i) A  macroeconomic  framework  containing  five  accounts  delineating  the  economy  to generate consistent macroeconomic outlook over 2003 to 2021 period.
 
-(ii) A dynamic computable general equilibrium (DCGE) model based on an updated inputoutput  table  and  a  social  accounting  matrix  for  Bangladesh  for  FY07.  The  key outcomes of the macroeconomic framework are fed into the DCGE model to derive the sectoral implications over the perspective plan period.
+(ii) A dynamic computable general equilibrium (DCGE) model based on an updated input-output table and a social accounting matrix for Bangladesh for FY07. The key outcomes of the macroeconomic framework are fed into the DCGE model to derive the sectoral implications over the perspective plan period.
 
 (iii) An  Employment  Satellite  Matrix  (ESM),  constructed  for  FY07.  The  sectoral  value additions  and  outputs  are  linked  with  the  ESM  to  calculate  sectoral  employment impacts under perspective plan period.
 
@@ -776,7 +896,7 @@ Mitigating the impacts of climate change is crucial for sustainable development.
 
 A caring society as envisaged in 2021 will nurture the seeds of progress and patriotism. It will compel  individuals,  communities,  and  institutions  to  work  towards  stamping  out  poverty, discrimination, economic and social marginalization, disease and poor health, and sub-standard living conditions. This will create new possibilities and take advantage of existing ones for the communities to work collaboratively with trust, goodwill, integrity, and civic pride so that none is left behind. Nurturing such a society requires actions in the related areas of health, housing, labour  and  social  security,  gender  and  development,  youth  and  culture,  sports  and  recreation, sustainable communities, and social services.
 
-An innovative people will be the backbone of the envisioned society in 2021. These individuals will  acquire  appropriate  knowledge,  skills,  and  abilities  through  a  strong  learning  system consisting of pre-primary, primary, secondary, and tertiary education; and through the application  of  research,  science,  technology,  and  innovation.  Innovation  will  be  fostered  in education and at work. Creative citizens will be the driver of Bangladesh's journey to middle income and high HDI country status by 2021. The creation of this innovative people will demand vast information technology efforts during the Perspective Plan period. ICT will be the vehicle through which a Digital Bangladesh will be created. This will raise efficiency and productivity across  all  sectors  of  the  economy,  including  agriculture,  health,  education,  training,  and  egovernance, and will help to bring greater transparency in governance.
+An innovative people will be the backbone of the envisioned society in 2021. These individuals will acquire appropriate knowledge, skills, and abilities through a strong learning system consisting of pre-primary, primary, secondary, and tertiary education; and through the application of research, science, technology, and innovation. Innovation will be fostered in education and at work. Creative citizens will be the driver of Bangladesh's journey to middle income and high HDI country status by 2021. The creation of this innovative people will demand vast information technology efforts during the Perspective Plan period. ICT will be the vehicle through which a Digital Bangladesh will be created. This will raise efficiency and productivity across all sectors of the economy, including agriculture, health, education, training, and e-governance, and will help to bring greater transparency in governance.
 
 13
 
@@ -868,13 +988,15 @@ Vision 2021 on good governance enjoins that institutions of the State and Admini
 
 ## 2.5 Local Governance
 
-According  to  Vision  2021,  local  government  will  be  given  due  importance  with  a  view  to effecting radical change of the political system. Local government institutions will play a critical role in governance as well as in development programmes. Vision 2021 envisages devolution of power,  function,  and  fiscal  authority  to  local  government  in  accordance  with  constitutional provision  for  elected  bodies  at  each  level  of  administration.  However,  in  devolving  fiscal authority due consideration will have to be made of the scope for resource mobilization at the local level as well as the capacity of local bodies to manage expenditures. Clearly, large national projects involving power generation, bridges, national highways, irrigation and water management, will have to be left with national level institutions.
+According to Vision 2021, local government will be given due importance with a view to effecting radical change of the political system. Local government institutions will play a critical role in governance as well as in development programmes. Vision 2021 envisages devolution of power, function, and fiscal authority to local government in accordance with constitutional provision for elected bodies at each level of administration. However, in devolving fiscal authority due consideration will have to be made of the scope for resource mobilization at the local level as well as the capacity of local bodies to manage expenditures. Clearly, large national
 
 16
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+projects involving power generation, bridges, national highways, irrigation and water management, will have to be left with national level institutions.
 
 ## 2.6 The Private Sector
 
@@ -962,11 +1084,13 @@ Trends  of  all  the  key  domestic  and  external  sector  indicators  such  as
 
 The higher growth rate in the Perspective Plan is predicated upon a substantial increase in the investment rate in the economy from the current level of 24.7% of GDP to 38% by the end of the Plan,  averaging  32.7%  of  GDP  per  year  during  the  Plan  period.  Much  of  the  increase  in investment could be financed through national savings, and foreign direct investment (FDI). The incremental Capital Output Ratio (ICOR) is expected to improve due to increased competitiveness and productivity engendered through expected improvements in infrastructure and  greater  economic  openness  as  well  as  through  technological  progress  resulting  from partnership with foreign investors in strategic areas and the implementation of the ICT strategy (digital Bangladesh).
 
-Benchmark FY10 | Target FY15 | Target FY21
+Table 3.1: Key Macroeconomic Indicators¹
+
+ | Benchmark FY10 | Target FY15 | Target FY21
 --- | --- | --- | ---
 Real GDP Growth (%) | 6.1 | 8.0 | 10.0
 CPI inflation (%) | 7.5 | 6.0 | 5.2
-As per cent of GDP
+As per cent of GDP | | |
 Gross Investment (%) | 24.4 | 32.5 | 38.0
 Gross National Savings (%) | 30.0 | 32.1 | 39.1
 Total government revenue (%) | 10.9 | 14.6 | 20.0
@@ -977,13 +1101,11 @@ Remittances (billion US$) | 10.9 | 17.8 | 38.5
 Unemployment rate (%) | 30.0 | 20.0 | 15.0
 Poverty (head count, %) | 31.5 | 22.5 | 13.5
 
-Table 3.1: Key Macroeconomic Indicators 1
-
 Source: Perspective Plan projections
 
 Growth  in  real  GDP  will  rise  to  8.0  per  cent  in  2015,  and  then  to  10.0  per  cent  in  2021,  to provide  the  required  reduction  in  unemployment  and  poverty  and  improve  people's  living standards. While factor accumulation, especially capital, will act as the major stimulus to growth, for  which  gross  investment  rate  will  rise  to  about  38  per  cent  of  GDP  in  2021,  productivity growth will begin to play an increasing role and is expected to contribute about 20 per cent of economic growth by 2021. The new initiatives proposed in the areas of education, IT, R&D and science and technology will be key to this outcome.
 
-Along with pursuing a high growth strategy, measures will be taken to ensure that fast growth does not lead to serious imbalances in fiscal operations, inflation, or balance of payments. The private sector will be the leading agent in raising economic growth, and public investment will be restructured to become more effective in promoting growth and development. Although the domestic savings rate has improved, it needs to be further geared up for which several strategies will be adopted, e.g. reforms in the financial system to provide easy access of rural population and small savers to formal financial institutions; and low inflation to facilitate more savings.
+Along with pursuing a high growth strategy, measures will be taken to ensure that fast growth does not lead to serious imbalances in fiscal operations, inflation, or balance of payments. The private sector will be the leading agent in raising economic growth, and public investment will be restructured to become more effective in promoting growth and development. Although the
 
 > 1 Annex A to this chapter gives projections of various macroeconomic indicators beyond SFYP targets and up to 2021.
 
@@ -992,6 +1114,8 @@ Along with pursuing a high growth strategy, measures will be taken to ensure tha
 [[END OF PAGE 30]]
 
 [[START OF PAGE 31]]
+
+domestic savings rate has improved, it needs to be further geared up for which several strategies will be adopted, e.g. reforms in the financial system to provide easy access of rural population and small savers to formal financial institutions; and low inflation to facilitate more savings.
 
 Above all, high growth will have to be inclusive and pro-poor so that its benefits reach all sections of the population. The thrust on employment generation, promotion of human resource development, and wider network of safety nets for the poor, elderly and disabled population will address this objective.
 
@@ -1059,13 +1183,15 @@ One  of  the  major  problems  Bangladesh  economy  is  facing  today  is  the s
 - In addition to launching a bigger ADP in relation to GDP during the plan period, the Plan also  envisages  bigger  public  sector  investment  in  infrastructure  programs  under  the  newly approved  PPP  framework.  The  Government  has  also  announced  a  major  initiative  for boosting power generation and expand power distribution network to alleviate the ongoing energy crisis in the country.
 
 ### Private Investment:
-As in the past, much of the additional increase in the growth of investment is  projected  to  come  from  the  private  sector.  The  growing  share  of  private  sector  investment during the last two decades reflects favorable private sector response to the improved investment climate. However, the rate of growth of private sector growth in investment has slowed down in recent years due to infrastructure constraints which tended to intensify on account of declining public investment and the inability of the public sector to undertake large infrastructure projects. Against  this  backdrop,  public  investments  and  policies  outlined  above  would  create  the necessary investment climate and heighten investors' (both national and foreign) confidence to undertake  the  required  investments.  Some  key  areas  of  improvement  in  this  respect  are:  (i) energy supply including electricity and gas; (ii) infrastructure including roads, railways, bridges, embankments  and  dykes;  (iii)  telecommunications;  (iv)  ports;  (v)  legal  and  administrative systems  including  property  rights  issues;  (vi)  socioeconomic  environment  including  law  and order situation; and (vii) sound monetary policy and sustainable management of public finances.
+As in the past, much of the additional increase in the growth of investment is projected to come from the private sector. The growing share of private sector investment during the last two decades reflects favorable private sector response to the improved investment climate. However, the rate of growth of private sector growth in investment has slowed down in
 
 23
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+recent years due to infrastructure constraints which tended to intensify on account of declining public investment and the inability of the public sector to undertake large infrastructure projects. Against this backdrop, public investments and policies outlined above would create the necessary investment climate and heighten investors' (both national and foreign) confidence to undertake the required investments. Some key areas of improvement in this respect are: (i) energy supply including electricity and gas; (ii) infrastructure including roads, railways, bridges, embankments and dykes; (iii) telecommunications; (iv) ports; (v) legal and administrative systems including property rights issues; (vi) socioeconomic environment including law and order situation; and (vii) sound monetary policy and sustainable management of public finances.
 
 ## 3.8 Savings mobilization for higher investment
 
@@ -1075,7 +1201,7 @@ The increase in national savings projected under the Plan will depend on the con
 
 ## 3.9 Reducing Poverty and Inequality
 
-The  poverty  profile  measured  by  head  count  ratio  using  the  cost  of  basic  needs  approach revealed that 31.5 per cent of the 2010 population, lived below the poverty line. It also indicated a 1.8 per cent annual poverty decline between 2005 and 2010. At this rate, the head count ratio of national poverty will stand at 22.5 per cent of the population in 2015, thereby achieving one of the major MDGs. The projected higher growth of around 9.2 percent during FY16 and FY21 is expected  to  reduce  head  count  poverty  rate  to  about  13.5  percent  of  2021  population.    Antipoverty, anti-inequality measures  need  to  target  removal  or  reduction  of  inequalities in advancing  opportunities  for  people  in  different  income  brackets.  This  particularly  includes targeting the opening of blocked advancement opportunities for disadvantaged rural and urban poor  people.  These  cross  sectoral  issues  and  measures  are  dealt  within  the  various  relevant chapters of this Plan document.
+The poverty profile measured by head count ratio using the cost of basic needs approach revealed that 31.5 per cent of the 2010 population, lived below the poverty line. It also indicated a 1.8 per cent annual poverty decline between 2005 and 2010. At this rate, the head count ratio of national poverty will stand at 22.5 per cent of the population in 2015, thereby achieving one of the major MDGs. The projected higher growth of around 9.2 percent during FY16 and FY21 is expected to reduce head count poverty rate to about 13.5 percent of 2021 population. Anti-poverty, anti-inequality measures need to target removal or reduction of inequalities in advancing opportunities for people in different income brackets. This particularly includes targeting the opening of blocked advancement opportunities for disadvantaged rural and urban poor people. These cross sectoral issues and measures are dealt within the various relevant chapters of this Plan document.
 
 _____________
 
@@ -1086,6 +1212,8 @@ _____________
 [[END OF PAGE 34]]
 
 [[START OF PAGE 35]]
+
+## Annex A
 
 Bangladesh: Key Economic Indicators (From FY09 to FY21)
 
@@ -1116,8 +1244,6 @@ External | 0.8 | 1.5 | 1.2 | 2.0 | 1.9 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0 | 2.0
 Domestic | 3.1 | 2.2 | 3.1 | 3.0 | 3.0 | 3.0 | 3.0 | 3.0 | 3.0 | 3.0 | 3.0 | 3.0 | 3.0
 Total debt | 42.2 | 40.0 | 39.7 | 39.8 | 40.0 | 40.1 | 40.1 | 40.1 | 39.9 | 39.6 | 39.3 | 38.9 | 38.5
 External | 23.8 | 20.3 | 19.2 | 18.9 | 18.6 | 18.3 | 18.1 | 17.8 | 17.4 | 17.1 | 16.7 | 16.4 | 16.0
-
-## Annex A
 
 25
 
@@ -1195,7 +1321,6 @@ The crop sector accounts for 12 per cent of GDP, 60 per cent of the agricultural
 
 [[START OF PAGE 38]]
 
-
 
 - With the decline in soil fertility and loss of land and water resources as well as a spread in the contamination by arsenic of drinking water, agronomic techniques should be used to increase water efficiency towards a System of Rice Intensification.
 
@@ -1205,25 +1330,25 @@ The crop sector accounts for 12 per cent of GDP, 60 per cent of the agricultural
 
 - Pragmatic and proactive policy measures such as input subsidies and price support, provision of electricity for rural irrigation, availability of highly concessional agricultural credit mainly through the public sector banks, have all helped to bring the country to attain self-sufficiency in  rice.  Most other  food  items such as wheat, pulses, edible oils, onions and sugar, which account for nearly 10 per cent of the imports bill, will have to be imported.
 
-2007/08 | 2015 | 2021
+Table 4.1: Production and Demand Projection of Rice (million tonnes)
+
+Rice | 2007/08 | 2015 | 2021
 --- | --- | --- | ---
-Rice | 60% | 60% | 60%
-YGM 2 | YGM | YGM
+ | 60% | 60% | 60%
+ | YGM² | YGM | YGM
 Total Production | 30.7 | 35.39 | 36.81
 Total Demand | - | 28.8 | 32.8
 
-Table 4.1: Production and Demand Projection of Rice (million tonnes)
+Table 4.2: Production Projection of Some Crops
 
-Crop | Production Projection (in million tonnes ) | Minimization of yield gap (per cent)
+Crop | Production Projection (in million tonnes) | | | Minimization of yield gap (per cent)
 --- | --- | --- | --- | ---
-2007 | 2015 | 2021
+ | 2007 | 2015 | 2021 |
 Wheat | 0.84 | 1.16 | 1.4 | 50
 Potato | 6.65 | 8.76 | 10.34 | 80
 Oilseeds | 0.36 | 0.45 | 0.52 | 70
 Pulses | 0.20 | 0.26 | 0.31 | 25
 Maize | 1.35 | 1.63 | 1.85 | 70
-
-Table 4.2: Production Projection of Some Crops
 
 ### Strategies
 
@@ -1243,7 +1368,7 @@ ______________________
 
 [[START OF PAGE 39]]
 
-- Ecologically favorable , months November - February maybe devoted for growing highprofit  non-rice  crops  leaving  the  remaining  eight  months  for  growing  two  rice  crops, Aman in particular.
+- Ecologically favorable, months November - February maybe devoted for growing high-profit non-rice crops leaving the remaining eight months for growing two rice crops, Aman in particular.
 
 - Motivate farmers to use recommended/balanced doses of chemical fertilizers, extensive production  and  use  of  organic  fertilizer,  and  proper  utilization  of  soil  guide  and  soil testing facilities to enhance soil fertility.
 
@@ -1279,16 +1404,16 @@ Fisheries  products  have  high  income  elasticity  of  demand.  The  Report  o
 
 [[START OF PAGE 40]]
 
-Area (thousand ha) | Production (thousand tonnes)
+Table 4.3: Projection of Fisheries Production
+
+ | Area (thousand ha) | Production (thousand tonnes) | |
 --- | --- | --- | --- | ---
-FY08 | FY15 | FY 21
+ | | FY08 | FY15 | FY 21
 Inland open water | 4,237 | 1,060 | 1,690 | 1,764
 Closed water bodies | 528 | 1,006 | 1,409 | 1,761
 Marine | - | 498 | 566 | 614
 Total fish production | - | 2563 | 3,665 | 4,139
-Total demand | - | 3540 | 3,910
-
-Table 4.3: Projection of Fisheries Production
+Total demand | - | | 3540 | 3,910
 
 ### Strategies
 
@@ -1296,7 +1421,6 @@ Table 4.3: Projection of Fisheries Production
 
 - Increasing fresh water, (rather than brackish water) golda production in coastal areas.
 
-
 
 - Potential use of cage culture in flood plains, with individual ownership.
 
@@ -1363,13 +1487,15 @@ Productivity  per  unit  of  time  or  area  is  unacceptably  low.  This  is  l
 
 The target is to raise productive forest coverage to 15% from 13% by 2021.
 
-Increasing the tree coverage on 2.84 million hectares designated for forest, diversification of tree species  to  sustain  ecological  balance,  increasing  employment  from  forestry  (particularly  for women) under expanded social- and agro-forestry, reverting cow dung to use as organic fertilizer and obtaining fuel wood from forests, giving priority to the creation of a coastal green belt and increasing accountability and transparency in public forest management.
+Increasing the tree coverage on 2.84 million hectares designated for forest, diversification of tree species to sustain ecological balance, increasing employment from forestry (particularly for women) under expanded social- and agro-forestry, reverting cow dung to use as organic fertilizer
 
 31
 
 [[END OF PAGE 41]]
 
 [[START OF PAGE 42]]
+
+and obtaining fuel wood from forests, giving priority to the creation of a coastal green belt and increasing accountability and transparency in public forest management.
 
 Strategies under the perspective plan is increasing productivity; higher efficiency; a bias towards agro and social-forestry; sustaining ecological balances; and strengthening the Sundarbans as a barrier between the sea and the South Asian landmass.
 
@@ -1429,13 +1555,15 @@ The Microcredit Regulatory Authority may have to be made independent of the gove
 
 ### Cooperatives
 
-Cooperatives in Bangladesh have pioneered the introduction and administration of rural credit programmes  involving  farmers.  Initially,  three  tier  and  subsequently  both  three  and  two  tier cooperatives were formed to channel government-financed rural credit, which played a vital role in  increasing  agricultural  production,  especially  of  winter  crops.  Considering  the  increasing importance  of  rural  institutions  as  viable  platforms  for  service  delivery  of,  for  example, subsidies,  agricultural  input  support,  credit  support,  technology  transfer  and  marketing  of agricultural  products,  the  formation  of  restructured  multipurpose  cooperatives  may  be  a  good option.  Therefore,  the  aim  of  the  policy  shall  be  to  streamline  cooperatives  to  achieve  an effective rural financing and support service delivery system, especially in agricultural marketing, production and storage of fruits and vegetables, milk and SME based products.
+Cooperatives in Bangladesh have pioneered the introduction and administration of rural credit programmes involving farmers. Initially, three tier and subsequently both three and two tier cooperatives were formed to channel government-financed rural credit, which played a vital role in increasing agricultural production, especially of winter crops. Considering the increasing importance of rural institutions as viable platforms for service delivery of, for example, subsidies, agricultural input support, credit support, technology transfer and marketing of agricultural products, the formation of restructured multipurpose cooperatives may be a good option. Therefore, the aim of the policy shall be to streamline cooperatives to achieve an
 
 33
 
 [[END OF PAGE 43]]
 
 [[START OF PAGE 44]]
+
+effective rural financing and support service delivery system, especially in agricultural marketing, production and storage of fruits and vegetables, milk and SME based products.
 
 ## 4.7 Water Resource Management
 
@@ -1445,7 +1573,7 @@ Although  agriculture  is  the  foremost  user  of  the  country's  water  resou
 
 ### Water Management for Irrigation
 
-Bangladesh's water sector is characterized by abundance of water during the rainy season (JuneOctober) and scarcity of water during the dry season (January-May, particularly March-April). The point to note is that Bangladesh has little control over the annual run-off flowing through the country into the Bay of Bengal, as over 92 per cent enters the country from beyond its borders. Bangladesh is the lower riparian in all the country's 57 trans-boundary rivers (54 coming from India, and 3 from Myanmar) so that cooperative regional water management becomes crucial for Bangladesh. A Water Sharing Treaty exists only in respect of the Ganges but progressive treaties on other rivers, though contemplated, have not come about. The Government is taking initiative to reach such agreements on Teesta and other rivers.
+Bangladesh's water sector is characterized by abundance of water during the rainy season (June-October) and scarcity of water during the dry season (January-May, particularly March-April). The point to note is that Bangladesh has little control over the annual run-off flowing through the country into the Bay of Bengal, as over 92 per cent enters the country from beyond its borders. Bangladesh is the lower riparian in all the country's 57 trans-boundary rivers (54 coming from India, and 3 from Myanmar) so that cooperative regional water management becomes crucial for Bangladesh. A Water Sharing Treaty exists only in respect of the Ganges but progressive treaties on other rivers, though contemplated, have not come about. The Government is taking initiative to reach such agreements on Teesta and other rivers.
 
 Innovations  in  mechanical  irrigation  have  led  to  a  rapid  expansion  of  irrigated  agriculture  in Bangladesh. The demand for water for irrigation is the greatest and the fastest growing. Water holds the key to agricultural development, especially for food crops such as rice. According to the  NWMP,  demand  for  irrigation  is  expected  to  increase  by  25  per  cent  to  about  20  BCM between 2000 and 2025 - and that under a best case scenario for irrigation efficiency. The goals for the irrigation sector include:
 
@@ -1509,7 +1637,7 @@ Given the characteristics of Bangladesh's water sector, water demand, and the li
 
 # CHAPTER 5: INDUSTRIALIZATION IN A COMPETITIVE WORLD
 
-These  are  times  of  intense  global  competition  for  business  and  industry.  Being  globally competitive will be the  only mantra for  survival  and  progress.  The  Perspective  Plan  target  of reaching 10 percent annual GDP growth by 2021 is premised on a competitive manufacturing sector  growing  at  or  near  double  digits  during  the  2011-21  decade.  Consequently,  the  broad industrial  sector  will  continue  to  account  for  a  larger  share  of  GDP  -  37%  by  2021  compensating for the secular decline in the share of agricultural sector, which falls to 15%. This trend  is  consistent  with  the  stylized  facts  of  structural  change  in  the  process  of  development articulated by development economists. Thus the strategy for achieving the high growth target under  the  Perspective  Plan  includes  further  industrial  deepening  supported  by  a  highlyproductive  agriculture  sector.  This  was  the  basic  thrust  of  the  high-performing  East  Asian economies in the 1970s and 1980s. For Bangladesh to reach middle income threshold by 2021, industrial expansion must accompany hand-in-hand with highly productive farm and non-farm agriculture. Furthermore, a strong and competitive manufacturing sector is especially important for generating productive high income jobs.
+These are times of intense global competition for business and industry. Being globally competitive will be the only mantra for survival and progress. The Perspective Plan target of reaching 10 percent annual GDP growth by 2021 is premised on a competitive manufacturing sector growing at or near double digits during the 2011-21 decade. Consequently, the broad industrial sector will continue to account for a larger share of GDP - 37% by 2021 - compensating for the secular decline in the share of agricultural sector, which falls to 15%. This trend is consistent with the stylized facts of structural change in the process of development articulated by development economists. Thus the strategy for achieving the high growth target under the Perspective Plan includes further industrial deepening supported by a highly-productive agriculture sector. This was the basic thrust of the high-performing East Asian economies in the 1970s and 1980s. For Bangladesh to reach middle income threshold by 2021, industrial expansion must accompany hand-in-hand with highly productive farm and non-farm agriculture. Furthermore, a strong and competitive manufacturing sector is especially important for generating productive high income jobs.
 
 ## 5.1 The Challenges
 
@@ -1529,7 +1657,9 @@ A possible growth path that is consistent with this target is presented in Table
 
 [[START OF PAGE 47]]
 
-FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2021
+Table 5.1: Projection of Sectoral Growth and shares in GDP
+
+ | FY2011 | FY2012 | FY2013 | FY2014 | FY2015 | FY2021
 --- | --- | --- | --- | --- | --- | ---
 Growth Rate (%)
 Agriculture | 5.0 | 4.5 | 4.4 | 4.3 | 4.3 | 4.5
@@ -1542,8 +1672,6 @@ Agriculture | 18.4 | 17.7 | 16.9 | 16.2 | 15.5 | 15.0
 Industry | 28.7 | 28.9 | 30.4 | 31.3 | 32.0 | 37.0
 of which Manufacturing | 18.2 | 18.7 | 19.6 | 20.4 | 21.1 | 28.0
 Services | 52.9 | 52.9 | 52.7 | 52.5 | 52.5 | 48.0
-
-Table 5.1: Projection of Sectoral Growth and shares in GDP
 
 Source: BBS and PP Projections
 
@@ -1582,7 +1710,7 @@ taken to  ensure  competitiveness  of  potential  labour-intensive  manufactures
 
 - FDI will be encouraged through various policy incentives to stimulate access to technology and  frontier  knowhow,  to  access  global  market  opportunities  and  take  advantage  of  the growing regional market.
 
-- Developing  Bangladesh  as  an  exotic  tourist  destination  in  Asia  and  increase  tourism's contribution to GDP from 0.70 to 2 per cent by 2015 and then to 5 per cent by 2021. ·
+- Developing Bangladesh as an exotic tourist destination in Asia and increase tourism's contribution to GDP from 0.70 to 2 per cent by 2015 and then to 5 per cent by 2021.
 
 - The capital market will be further liberalized, reformed and deepened to create opportunities for raising equity capital to support industrial sector growth. Appropriate mechanisms will be put in place to stimulate, and promote mobilization of resources from small domestic savers in the country's capital markets and to attract portfolio investment from foreign investors.
 
@@ -1606,15 +1734,15 @@ The  main  driver  of  manufacturing  growth  will  be  the  export  markets.  T
 
 The target with regard to the external sector is to ensure strengthened global integration of the Bangladesh  economy  by  building  necessary  trade-related  supply  side  capacities.  This  will  be realized through raising the competitiveness of Bangladesh's exports, ensuring a larger share for the  country  in  the  global  trade  in  goods  and  services,  and  by  encouraging  both  product  and market diversification. This will be done by renewing efforts at moving up market and by raising the efficacy of trade facilitation measures. Bangladesh's strong performance in the global labour services market will be continued and further consolidated. The overarching goal here will be to ensure that  trade-GDP ratio rises to nearly 60% of GDP with export of goods and remittance earnings approaching 40 per cent by 2021 (Table 5.3).
 
+Table 5.3: External sector targets (% of GDP)
+
 Activities | Average (FY05-10) | Target 2015 | Target 2021
 --- | --- | --- | ---
-Exports | 22.0 | 26.0
-Imports | 30.0 | 32.0
-Trade balance | -8.0 | -6.0
-Remittance | 8.0 | 12.0
-Current account balance | -0.7 | -1.0
-
-Table 5.3: External sector targets (% of GDP)
+Exports | | 22.0 | 26.0
+Imports | | 30.0 | 32.0
+Trade balance | | -8.0 | -6.0
+Remittance | | 8.0 | 12.0
+Current account balance | | -0.7 | -1.0
 
 Source: Perspective Plan projections
 
@@ -1623,7 +1751,7 @@ Source: Perspective Plan projections
 In order to get the maximum leverage out of manufacturing sector and its competitiveness in the global marketplace, the government will focus on four strategic approaches.
 
 #### Export  diversification .
-Bangladesh  experienced  double  digit  export  growth  over  the  past  two decades. Yet this superior performance masks the fact that the surge was limited to one product group - readymade garments - aided not least by the MFA regime. With over two million jobs and 77% of export earnings from the RMG sector, too much of the nation's fortune is riding on this  one  sector.  Export  concentration  in  readymade  garments  makes  the  economy,  jobs  and income,  extremely  vulnerable  to  external  shocks  arising  from  changes  in  global  demand  for RMG. The government's focus on export diversification as a cornerstone of its export policy will continue  and  intensify  during  the  Sixth  Plan  period  and  beyond.  While  RMG  exports  would continue to dominate the export outlook, some important non-traditional exports like footwear and  leather  products,  light  engineering  products  (bicycle  and  electronics),  pharmaceuticals, ceramics, jute goods, ocean-going ships, and some labor-intensive products not yet on the export radar, are likely to grow at a much faster rate. This diversification is a key objective underlying the strategy for manufacturing growth.
+Bangladesh experienced double digit export growth over the past two decades. Yet this superior performance masks the fact that the surge was limited to one product group - readymade garments - aided not least by the MFA regime. With over two million jobs
 
 39
 
@@ -1631,7 +1759,9 @@ Bangladesh  experienced  double  digit  export  growth  over  the  past  two dec
 
 [[START OF PAGE 50]]
 
-Export concentration is not a new phenomenon for Bangladesh.  For many decades prior to the emergence  of  RMG  exports,  jute  and  jute  goods  dominated  the  export  sector  making  up  70 percent  of  exports  until  1981.  The  shift  into  manufactured  exports  materialized  for  the Bangladesh  economy  thanks  largely  due  to  an  external  event  -  the  multi-fiber  arrangement (MFA) of  1974  -  that  offered  a  lifeline  for  the  emergence  and  rapid  expansion  of  the  RMG industry.  By  1990,  RMG  exports  had  overtaken  Bangladesh's  traditional  exports  and,  by  the close of the 1990s, export concentration emerged afresh, with RMG exports reaching a share of 77  percent.  While  Bangladesh's  export  growth  for  the  last  decade  and  a  half  could  be characterized as robust,  a  sudden  decline  in  demand  for  Bangladeshi  RMG  would  send  shock waves  throughout  the  economy.  Such  a  prospect  can  be  avoided  through  the  creation  of  a diversified export basket. Herein  lies the rationale for an effective strategy for export diversification.
+and 77% of export earnings from the RMG sector, too much of the nation's fortune is riding on this one sector. Export concentration in readymade garments makes the economy, jobs and income, extremely vulnerable to external shocks arising from changes in global demand for RMG. The government's focus on export diversification as a cornerstone of its export policy will continue and intensify during the Sixth Plan period and beyond. While RMG exports would continue to dominate the export outlook, some important non-traditional exports like footwear and leather products, light engineering products (bicycle and electronics), pharmaceuticals, ceramics, jute goods, ocean-going ships, and some labor-intensive products not yet on the export radar, are likely to grow at a much faster rate. This diversification is a key objective underlying the strategy for manufacturing growth.
+
+Export concentration is not a new phenomenon for Bangladesh. For many decades prior to the emergence of RMG exports, jute and jute goods dominated the export sector making up 70 percent of exports until 1981. The shift into manufactured exports materialized for the Bangladesh economy thanks largely due to an external event - the multi-fiber arrangement (MFA) of 1974 - that offered a lifeline for the emergence and rapid expansion of the RMG industry. By 1990, RMG exports had overtaken Bangladesh's traditional exports and, by the close of the 1990s, export concentration emerged afresh, with RMG exports reaching a share of 77 percent. While Bangladesh's export growth for the last decade and a half could be characterized as robust, a sudden decline in demand for Bangladeshi RMG would send shock waves throughout the economy. Such a prospect can be avoided through the creation of a diversified export basket. Herein lies the rationale for an effective strategy for export diversification.
 
 But  the  strategy  of  export  diversification  will  not  be  limited  to  product  diversification  in  the export basket. Rather, the strategy will embrace many different facets, each of which addresses the vulnerability aspect of export concentration, as summarized below:
 
@@ -1645,7 +1775,7 @@ But  the  strategy  of  export  diversification  will  not  be  limited  to  pro
 
 - Intermediate goods diversification - product diversification need not imply adding only final consumer goods in the export basket - as is popularly understood in Bangladesh. There are global  opportunities  for  plugging  into  the  supply  chain  of  export  powerhouses  like  China, something that East Asian economies have done successfully. That requires Bangladesh to diversify its manufacturing base into backward linkage industries producing a wide range of intermediate goods for exports within the globalized production chain.
 
-Finally, it is critical that the trade policy regime is geared to ensure export competitiveness in general while facilitating emergence and expansion of new export products. Bangladesh's labor cost  advantage  remains  strong  though  productivity  is  a  question  mark.  Yet  this  advantage, properly  harnessed,  could  yield  surprising  rewards  within  the  current  scheme  of  globalized production and supply chains, provided the trade regime is right. The success of RMG is clear evidence of this phenomenon.
+Finally, it is critical that the trade policy regime is geared to ensure export competitiveness in general while facilitating emergence and expansion of new export products. Bangladesh's labor cost advantage remains strong though productivity is a question mark. Yet this advantage, properly harnessed, could yield surprising rewards within the current scheme of globalized
 
 40
 
@@ -1653,20 +1783,22 @@ Finally, it is critical that the trade policy regime is geared to ensure export 
 
 [[START OF PAGE 51]]
 
+production and supply chains, provided the trade regime is right. The success of RMG is clear evidence of this phenomenon.
+
 If export diversification is to be the cornerstone of an export strategy, at least three aspects of the trade policy regime will deserve close attention:
 
 - Ensuring export competitiveness in general - by addressing border barriers (e.g. tariffs) and beyond-the  border  constraints  (e.g.  trade  infrastructure,  energy  and  telecommunications, regulations, finance).
 
-- Reducing anti-export bias of the trade regime - several researches provided ample evidence of  anti-export  bias  of  the  current  import,  tariff  and  subsidy  regime  that  favors  importsubstituting  production  over  exports.  The  duty-drawback  scheme  to  provide  world-priced inputs for export production has proved inadequate. Eliminating or reducing the built-in antiexport bias that still remain will be key to switching the incentive regime in favor of exports.
+- Reducing anti-export bias of the trade regime - several researches provided ample evidence of anti-export bias of the current import, tariff and subsidy regime that favors import-substituting production over exports. The duty-drawback scheme to provide world-priced inputs for export production has proved inadequate. Eliminating or reducing the built-in anti-export bias that still remain will be key to switching the incentive regime in favor of exports.
 
 - Reducing  anti-diversification  bias  -  because  of  the  stellar  success  of  RMG  exports,  trade policy and incentive regime have a clear focus on this sector which is provided a free trade channel  plus  logistic  support  (duty  free  import  of  inputs,  bonded  warehousing  facilities, back-to-back  LC,  rapid  custom  clearance).  While  such  a  policy  is  appropriate  for  making RMG exports competitive on a global scale, attention needs to be focused on similar policy environment for emerging and potential exports without which they face formidable barriers in  the  context  of  a  high-tariff  and  restrictive  import  regime  in  Bangladesh.  This  particular feature  of  anti-diversification  bias  could  be  unique  to  Bangladesh  and  will  be  addressed during the Sixth Plan.
 
 #### The China opportunity:
 A window of opportunity that beckons Bangladesh has its roots in what is  going  on  in  China  known  to  the  world  as  the  export  powerhouse,  as  the  biggest  source  of cheap  exports  of  all  manner  of  goods,  from  clothing  and  toys  to  consumer  electronics  and durable goods like air conditioners and refrigerators.
 
-Abundant,  cheap,  and  productive  labor  was  the  main  strengths  of  China's  global  competitive advantage. As a natural consequence of industrial success, that advantage is fast eroding; wages are fast rising in China to the advantage of countries like Bangladesh. In addition, acute labor shortages have appeared in key economic zones. This is particularly true for the labor intensive commodities like readymade garments, shoes, electrical goods, car parts, toys, kitchenware, and multifarious  consumer  goods    whose  fabrication  is  less  complex  and  demands  relatively  lowskilled workers. This opens up Bangladesh's opportunity to increase export volume as well as diversify of export basket.
+Abundant, cheap, and productive labor was the main strengths of China's global competitive advantage. As a natural consequence of industrial success, that advantage is fast eroding; wages are fast rising in China to the advantage of countries like Bangladesh. In addition, acute labor shortages have appeared in key economic zones. This is particularly true for the labor intensive commodities like readymade garments, shoes, electrical goods, car parts, toys, kitchenware, and multifarious consumer goods whose fabrication is less complex and demands relatively low-skilled workers. This opens up Bangladesh's opportunity to increase export volume as well as diversify of export basket.
 
-That is not all. Pressure is mounting on China to revalue the Yuan - a measure that will make its exports  less  competitive.  Though  China  has  not  wilted  under  this  pressure,  analysts  believe gradual Yuan appreciation is a very real possibility. This adds the third element in the erosion of Chinese cost competitiveness. In the current scheme of global competition, the loss in competitive advantage  of  one  country  creates  opportunity  for  one  or  more  countries  which  can  be  realized through overcoming the internal weaknesses and enhancing competitiveness of the latter group of countries. Those ready to gain from China's falling competitive edge in labor-intensive products are countries like Bangladesh, Vietnam, Cambodia, Indonesia, Philippines, and to some extent India.
+That is not all. Pressure is mounting on China to revalue the Yuan - a measure that will make its exports less competitive. Though China has not wilted under this pressure, analysts believe gradual Yuan appreciation is a very real possibility. This adds the third element in the erosion of Chinese cost competitiveness. In the current scheme of global competition, the loss in competitive advantage of one country creates opportunity for one or more countries which can be realized through overcoming the internal weaknesses and enhancing competitiveness of the latter group of
 
 41
 
@@ -1674,9 +1806,11 @@ That is not all. Pressure is mounting on China to revalue the Yuan - a measure t
 
 [[START OF PAGE 52]]
 
-What is notable is that developments in China have set in motion some dynamic adjustments in global  sourcing  pattern.  Investors  are  scurrying  for  the  next  best  location  for  manufacturing clothing,  shoes,  toys  and  other  labor-intensive  manufactures.  Labor  costs,  investment  climate, and  trade  policy  will  be  the  critical  factors  in  determining  location  and  source.  Here  lies  the advantage of Bangladesh.
+countries. Those ready to gain from China's falling competitive edge in labor-intensive products are countries like Bangladesh, Vietnam, Cambodia, Indonesia, Philippines, and to some extent India.
 
-During  the  Sixth  and  Seventh  Plan  period,  Bangladesh  will  position  itself  comprehensively  with supportive incentive schemes, investment incentives, and liberal import regime- for a solid berth  in  the  new  alignment  of  exporters.  In  terms  of  attractive  trade  and  investment  policies, Bangladesh will match countries like Vietnam and Indonesia which are vying to take a bigger chunk of the Chinese pie. This once-in-a-lifetime window of opportunity may not last for long. Success in this effort will ensure Bangladesh's claim for middle income status by 2021.
+What is notable is that developments in China have set in motion some dynamic adjustments in global sourcing pattern. Investors are scurrying for the next best location for manufacturing clothing, shoes, toys and other labor-intensive manufactures. Labor costs, investment climate, and trade policy will be the critical factors in determining location and source. Here lies the advantage of Bangladesh.
+
+During the Sixth and Seventh Plan period, Bangladesh will position itself comprehensively - with supportive incentive schemes, investment incentives, and liberal import regime- for a solid berth in the new alignment of exporters. In terms of attractive trade and investment policies, Bangladesh will match countries like Vietnam and Indonesia which are vying to take a bigger chunk of the Chinese pie. This once-in-a-lifetime window of opportunity may not last for long. Success in this effort will ensure Bangladesh's claim for middle income status by 2021.
 
 #### Export restructuring in a globalized economy:
 Global production sharing has been a striking feature  of  world  trade  in  recent  years.  It  generally  entails  the  breaking  up  of  the  production process  into  vertically  separate  stages  carried  out  in  more  than  one  country,  involving  both backward and forward linkages from the production stage in the commodity chain. Analysts have pointed out that the superior export performance of East Asian countries can be partly attributed to  their  strategic  use  of  cross-national  production  networks  within  a  globalized  production system.  Bangladesh  manufacturing  exports  could  also  get  a  strong  boost  if  it  positions  itself suitably within the global production and supply chain.
@@ -1684,16 +1818,20 @@ Global production sharing has been a striking feature  of  world  trade  in  rec
 Two types of commodity chains have been identified:
 
 ##### Producer-driven commodity chains (PDCC):
-PDCC tends to be characterized in capital and technology intensive industries (e.g. automobiles, computers, semiconductors, and heavy machinery). Transnational corporations play a central role in coordinating production networks. International subcontracting of components is common for most labor-intensive production processes. The main barrier to entry for this type of production network is capital and propriety know-how. Moreover out sourced production is controlled by TNC mainly through equity investment.
+PDCC tends to be characterized in capital and technology intensive industries (e.g. automobiles, computers, semiconductors, and heavy machinery). Transnational corporations play a central role in coordinating production networks. International sub-contracting of components is common for most labor-intensive production processes. The main barrier to entry for this type of production network is capital and propriety know-how. Moreover out sourced production is controlled by TNC mainly through equity investment.
 
 ##### Buyer-driven  commodity  chains  (BDCC):
-These  types  of  chains  are  most  prevalent  in industries which are characterized by large retailers, branded marketers and trading companies. The  large  retailers  usually  set  up  decentralized  production  networks  in  a  variety  of  exporting countries. The branded companies usually provide the design and order the goods and supply the specification. This pattern is common in labor-intensive consumer goods such as garments, toys, footwear  etc  as  well.  Control  of  production  is  ensured  through  non-equity  arrangements  with local  firms  through  sub  contracting.  The  world  largest  retailers  like  Wal  Marts  and  Nikes  are sourcing product under this type of arrangement. Indeed the new aspect of globalization is the ability of producers to slice up the value chain by breaking up the production process into many geographically separated steps such that a good is produced in a number of stages in a variety of locations,  adding  value  at  each  stage.  The  assembly  stage  is  a  labor  intensive  activity  using unskilled labor in which countries like Bangladesh have a comparative advantage. In readymade garment exports, Bangladesh has already taken advantage of the BDCC system, but could reap similar benefits in other products such as toys, footwear, auto parts, TV parts and components. Trade in parts and components in the machinery sector are also fastest growing segment of world trade. During 2005-06 components manufacturing trade in Asia were above the world average by 15  percent  and  made  up  almost  75%  of  East  Asian  trade.  During  the  Sixth  and  Seventh  Plan period Bangladesh will have to position itself as a player in the global production chain based on its  comparative advantage within a market niche. Its long experience with garment production chain gives it a competitive edge over newcomers.
+These types of chains are most prevalent in industries which are characterized by large retailers, branded marketers and trading companies. The large retailers usually set up decentralized production networks in a variety of exporting countries. The branded companies usually provide the design and order the goods and supply the specification. This pattern is common in labor-intensive consumer goods such as garments, toys, footwear etc as well. Control of production is ensured through non-equity arrangements with local firms through sub contracting. The world largest retailers like Wal Marts and Nikes are sourcing product under this type of arrangement. Indeed the new aspect of globalization is the ability of producers to slice up the value chain by breaking up the production process into many geographically separated steps such that a good is produced in a number of stages in a variety of locations, adding value at each stage. The assembly stage is a labor intensive activity using unskilled labor in which countries like Bangladesh have a comparative advantage. In readymade
 
 42
 
 [[END OF PAGE 52]]
 
 [[START OF PAGE 53]]
+
+garment exports, Bangladesh has already taken advantage of the BDCC system, but could reap similar benefits in other products such as toys, footwear, auto parts, TV parts and components.
+
+Trade in parts and components in the machinery sector are also fastest growing segment of world trade. During 2005-06 components manufacturing trade in Asia were above the world average by 15 percent and made up almost 75% of East Asian trade. During the Sixth and Seventh Plan period Bangladesh will have to position itself as a player in the global production chain based on its comparative advantage within a market niche. Its long experience with garment production chain gives it a competitive edge over newcomers.
 
 #### Working on market access issues:
 Producing products of export interest and in accordance with Bangladesh's comparative advantage based on its factor endowments is only the first albeit the key step for export growth. Yet being competitive in exports is only a necessary condition for export  success.  Global  trade  is  subject  to  various  tariff  and  non-tariff  measures  that  serve  as barriers  to  market  access,  particularly  for  an  LDC  like  Bangladesh  seeking  new  export destinations and trying to open existing markets wider. For export success to be ensured on a sustainable basis, the government will be playing a proactive role in continuing efforts under the bilateral  and  multilateral  umbrella  to  obtain  Bangladesh's  rightful  claim  to  market  access  for diversified products and destinations.
@@ -1712,7 +1850,9 @@ It is critical that the trade policy regime  is geared to ensure productivity an
 
 [[START OF PAGE 54]]
 
-The trade regime in Bangladesh also went through a series of reforms during the 1990s, resulting in  a  shift  of  regime  from  an  inward-looking  import-substituting  bias  to  an  outward-looking export-orientation bias with higher integration of  the  economy  in  the  global  economy. Bangladesh made significant progress in reforming the foreign trade regime to reduce importsubstitution bias and make it pro-export. This is reflected in the simplification of trade licensing, removal  of  quantitative  restrictions,  reduction  in  custom  duties,  and  the  implementation  of  a flexible exchange rate policy. As a result the trade to GDP ratio has more than doubled since FY91, reaching 40 percent of GDP in FY10.  This progress with trade liberalization has served Bangladesh  well  in  terms  of  growth  and  poverty  reduction.  Nevertheless,  the  average  tariff protection in Bangladesh is still very high (Table 5.4) as compared to most other South Asian countries, and even in comparison to regional comparators and high-performing economies like China, Vietnam and Malaysia (Table 5.5).
+The trade regime in Bangladesh also went through a series of reforms during the 1990s, resulting in a shift of regime from an inward-looking import-substituting bias to an outward-looking export-orientation bias with higher integration of the economy in the global economy. Bangladesh made significant progress in reforming the foreign trade regime to reduce import-substitution bias and make it pro-export. This is reflected in the simplification of trade licensing, removal of quantitative restrictions, reduction in custom duties, and the implementation of a flexible exchange rate policy. As a result the trade to GDP ratio has more than doubled since FY91, reaching 40 percent of GDP in FY10. This progress with trade liberalization has served Bangladesh well in terms of growth and poverty reduction. Nevertheless, the average tariff protection in Bangladesh is still very high (Table 5.4) as compared to most other South Asian countries, and even in comparison to regional comparators and high-performing economies like China, Vietnam and Malaysia (Table 5.5).
+
+Table 5.4: Current Trade Regimes in South Asian Countries
 
 Trade Policies | India (FY09) | Pakistan (FY08) | Bangladesh (FY11) | Sri Lanka (FY09) | Nepal (FY08)
 --- | --- | --- | --- | --- | ---
@@ -1721,11 +1861,11 @@ Some direct export subsidies | Yes | No | Yes | Yes | No
 Indirect exports subsidies | Yes | Yes | Yes | Yes | Yes
 Trade/GDP (%) | 33.4 | 28.1 | 41.9 | 40.9 | 32.5
 Avg. Custom duty | 10 | n.a | 13.6 | n.a | n.a
-Customs duty+ Other Para- tariffs | 10 | 16 | 22.1 | 27 | 12.5
-
-Table 5.4: Current Trade Regimes in South Asian Countries
+Customs duty+ Other Para-tariffs | 10 | 16 | 22.1 | 27 | 12.5
 
 Source: Policy Research Institute.
+
+Table 5.5: Trade Regimes in comparator countries
 
 Trade Policies | China (2009) | Malaysia (2009) | Vietnam (2009)
 --- | --- | --- | ---
@@ -1735,11 +1875,9 @@ Indirect exports subsidies | Yes | Yes | Yes
 Trade/GDP (%) | 49.1 | 171.3 | 147.0
 Avg. Custom duty | 8.6* | 5.9** | 11.7**
 
-Table 5.5: Trade Regimes in comparator countries
-
 Source: World Bank; Policy Research Institute; Google
 
-One worrisome development in Bangladesh budgetary management is the growing importance of a  range  of  supplementary  duties  (para-tarrifs)  that  have  grown  in  significance  and  are  almost inversely  correlated  with  the  reduction  in  custom  duties  (Figure  5.1).  These  para-tariffs  have tended to offset much of the gains intended for productivity enhancement and export promotion through the impact of lower customs duties on protection.  Importantly, the current tariff regime undermines export competitiveness and impedes growth of new exports, thus restraining export diversification. These tariff anomalies have to be removed sooner rather than later in order for Bangladesh to attain its vision of a high-performing export-oriented economy. Next, Bangladesh must, among other things, reduce average tariffs to levels already reached by countries such as Vietnam, Malaysia and China. This has to happen ideally by the close of the Sixth Plan in 2015, well before 2021.
+One worrisome development in Bangladesh budgetary management is the growing importance of a range of supplementary duties (para-tarrifs) that have grown in significance and are almost inversely correlated with the reduction in custom duties (Figure 5.1). These para-tariffs have tended to offset much of the gains intended for productivity enhancement and export promotion through the impact of lower customs duties on protection. Importantly, the current tariff regime undermines export competitiveness and impedes growth of new exports, thus restraining export
 
 44
 
@@ -1747,16 +1885,30 @@ One worrisome development in Bangladesh budgetary management is the growing impo
 
 [[START OF PAGE 55]]
 
+diversification. These tariff anomalies have to be removed sooner rather than later in order for Bangladesh to attain its vision of a high-performing export-oriented economy. Next, Bangladesh must, among other things, reduce average tariffs to levels already reached by countries such as Vietnam, Malaysia and China. This has to happen ideally by the close of the Sixth Plan in 2015, well before 2021.
+
 Figure 5.1: Average Nominal Protection and Para-tariffs
+Percent
+35
+30
+25
+20
+15
+10
+5
+0
+FY01 | FY02 | FY03 | FY04 | FY05 | FY06 | FY07 | FY08 | FY09 | FY10 | FY11
+Avg. Customs duty
+Avg. Para-tariff
 
 Source: National Board of Revenue
 
 Over time the Government  has employed different measures to provide incentives to manufactured exports. As indicated earlier the reforms of the trade regime initiated in the early eighties continued to be undertaken by successive governments for greater outward-orientation. However,  although  the  export  sector  has  flourished,  the  momentum  in  export  has  been dominated  by  Ready  Made  Garments  (RMG).  Other  export  items  failed  to  replicate  the impressive success of this sector, primarily because the tariff and import regime precluded the absorption  of  world  priced  inputs.  Exclusive  facilities  enjoyed  by  the  RMG  sector  essentially allowed it  to  exploit  Bangladesh's  labor  cost  advantage  to  the  fullest.  Recently,  footwear  and ship-building  have  been  given  the  RMG  treatment  and  they  are  booming.  Other  non-RMG exports still face an adverse policy environment which will have to be addressed early on during the SYFP in order to achieve the export and growth targets over the long haul.
 
-### Trade  liberalization  has  improved  manufacturing  efficiency  and  competitiveness .
+### Trade liberalization has improved manufacturing efficiency and competitiveness.
 Tariff reductions and QR removal introduced a substantial degree of import competition in the local manufacturing sector, forcing enterprises to restructure and raise productive efficiency.  Many did, such as ceramics, textiles (new spinning capacities), RMG accessories, electrical goods, etc. Those that failed to adjust including many public and private firms had to close down and lay off workers.  Over  the  next  decade,  trade  openness  will  deepen  further  so  that  only  those manufacturing enterprises that remain globally competitive will survive and prosper.
 
-The  change  in  trade  regime  and  opportunities  created  in  the  world  market  as  part  of  these developments have been possible also because of the dynamism of the entrepreneurs who could exploit the opportunities in the international market and deal with the risks. The trade regime of Bangladesh  has  also  contributed  greatly  towards  efficient  operation  of  the  industry.  Import liberalization  and  the  abolition  of  import  licensing  improved  access  of  small  enterprises  to capital machinery, raw materials and implements that could now be purchased readily and at low cost. Though manufacturing growth averaged 7% per annum during the past two decades, this average masks the fact that it was the RMG enterprises that grew by over 20 percent per year and drove manufacturing growth.
+The change in trade regime and opportunities created in the world market as part of these developments have been possible also because of the dynamism of the entrepreneurs who could exploit the opportunities in the international market and deal with the risks. The trade regime of Bangladesh has also contributed greatly towards efficient operation of the industry. Import
 
 45
 
@@ -1764,7 +1916,9 @@ The  change  in  trade  regime  and  opportunities  created  in  the  world  mar
 
 [[START OF PAGE 56]]
 
-The  most  remarkable  feature  of  the  export  basket  is  the  emergence  of  readymade  garment (RMG)  in  the  late  70s  as  export  and  its  increasing  dominance  in  the  basket  over  the  years. Readymade garment has replaced jute and jute goods in importance. Thus while the contribution of  jute  and  jute  goods  declined  from  about  69  percent  in  FY81  to  about  3  percent  in  FY09, readymade garment constitutes more than 75 percent of total exports in  recent  years.  Equally striking is the fact that by the turn of the century, manufactured goods made up over 90% of our exports. While the predominance of manufactures is a positive development which needs to be sustained, export concentration in RMG imparts vulnerability to future export performance and has to be minimized through the emergence of new products and new export markets. The kind of free trade channel (duty-free imported inputs) provided to RMG would have to be extended to new and potential export products of the future. Ideally, a low duty and seamless import regime is the best compliment for export diversification. To cross the middle income threshold by 2021, Bangladesh will be transforming its trade regime to the kind we see in high-performing emerging market economies.
+liberalization and the abolition of import licensing improved access of small enterprises to capital machinery, raw materials and implements that could now be purchased readily and at low cost. Though manufacturing growth averaged 7% per annum during the past two decades, this average masks the fact that it was the RMG enterprises that grew by over 20 percent per year and drove manufacturing growth.
+
+The most remarkable feature of the export basket is the emergence of readymade garment (RMG) in the late 70s as export and its increasing dominance in the basket over the years. Readymade garment has replaced jute and jute goods in importance. Thus while the contribution of jute and jute goods declined from about 69 percent in FY81 to about 3 percent in FY09, readymade garment constitutes more than 75 percent of total exports in recent years. Equally striking is the fact that by the turn of the century, manufactured goods made up over 90% of our exports. While the predominance of manufactures is a positive development which needs to be sustained, export concentration in RMG imparts vulnerability to future export performance and has to be minimized through the emergence of new products and new export markets. The kind of free trade channel (duty-free imported inputs) provided to RMG would have to be extended to new and potential export products of the future. Ideally, a low duty and seamless import regime is the best compliment for export diversification. To cross the middle income threshold by 2021, Bangladesh will be transforming its trade regime to the kind we see in high-performing emerging market economies.
 
 46
 
@@ -1776,7 +1930,7 @@ The  most  remarkable  feature  of  the  export  basket  is  the  emergence  of 
 
 ## 6.1 Globalization and Bangladesh
 
-Globalization  embraces  diverse  forms  of  international  integration,  including  foreign  trade, multinational direct foreign investment, movements of short-term portfolio funds, technological diffusion,  and  cross-border  migration.  The  Bangladesh  economy  is  more  integrated  with  the global market today than ever before. This is largely due to rapid growth in trade, massive outmigration of labor and remittance inflows, liberalization of foreign exchange regime, financial sector reforms, and creation of a favorable FDI regime. In terms of real trade growth, Bangladesh has done well (13th of 130 countries) with trade-GDP ratio rising from 20 percent in 1990 to around 42 percent in 2011. Yet Bangladesh is regarded as a 'least liberalized' country ranking 140 out of 152, suggesting a large unfinished agenda. Its capital account, for example, remains restricted  with  complex  capital  controls  and  no  convertibility;  and  there  is  widespread  and arbitrary use of supplementary duties, taxes and other levies on imports, while both domestic and foreign investors find the cost of doing business very high.
+Globalization embraces diverse forms of international integration, including foreign trade, multinational direct foreign investment, movements of short-term portfolio funds, technological diffusion, and cross-border migration. The Bangladesh economy is more integrated with the global market today than ever before. This is largely due to rapid growth in trade, massive out-migration of labor and remittance inflows, liberalization of foreign exchange regime, financial sector reforms, and creation of a favorable FDI regime. In terms of real trade growth, Bangladesh has done well (13th of 130 countries) with trade-GDP ratio rising from 20 percent in 1990 to around 42 percent in 2011. Yet Bangladesh is regarded as a 'least liberalized' country ranking 140 out of 152, suggesting a large unfinished agenda. Its capital account, for example, remains restricted with complex capital controls and no convertibility; and there is widespread and arbitrary use of supplementary duties, taxes and other levies on imports, while both domestic and foreign investors find the cost of doing business very high.
 
 Globalization presents opportunities as well as challenges for Bangladesh. Through expanding access  to  ideas,  technology,  goods,  services  and  capital,  globalization  certainly  creates  the conditions for faster growth. Managed wisely, the new wealth generated by globalization creates the scope to lift millions of Bangladeshis out of poverty. Managed badly, it could lead to their further marginalization and impoverishment. What is clear is that missed opportunities in an age of  globalization  could  be  costly.  Bangladesh  having  embraced  globalization,  the  right  policy framework and infrastructure will be put in place to seize opportunities coming its way and to address challenges.
 
@@ -1786,13 +1940,15 @@ Besides strengthening our balance of payments position, remittance inflows have 
 
 ### The Challenges
 
-Three  issues  are  involved  in  expanding  remittances:  training  and  recruitment  of  labor  for overseas  employment,  ensuring  rightful  earnings,  job  security  and  wellbeing  at  workplace abroad, and speedy facilities for sending home remittances. A number of incentive measures has helped to accelerate the  inflow  of  remittances:  quicker  delivery  process,  rapid  transmission  of messages, enactment of the Money Laundering Prevention Act 2002 (to be amended over time to meet emerging needs), exemption of remittance and return thereon from taxes, 10 per cent quota in  initial  public  offers  of  local  companies  to  non-resident  Bangladeshis  and  allowing  interestbearing  foreign  currency  accounts  in  major  currencies  in  Bangladesh,  offering  priority  in industrial facilities - land, electricity, and import of machine and materials. Some more issues will be addressed during the Sixth Five Year Plan - regulation of private manpower agencies, evaluation  and  review  of  the  system  of  licensing  of  the  manpower  recruiting  agencies, strengthening  management  of  the  wage  earners'  fund  at  important  overseas  workplaces  and simplification  of  immigration  procedures.  A  major  challenge  that  will  have  to  be  addressed relates to the channeling of remittance into productive investment. To this end, migrants' access to  bank  credit  will  be  enhanced  through  appropriate  institutional  mechanisms  such  as  the establishment of banks catering to the specific needs of NRBs.
+Three issues are involved in expanding remittances: training and recruitment of labor for overseas employment, ensuring rightful earnings, job security and wellbeing at workplace abroad, and speedy facilities for sending home remittances. A number of incentive measures has helped to accelerate the inflow of remittances: quicker delivery process, rapid transmission of messages, enactment of the Money Laundering Prevention Act 2002 (to be amended over time to meet emerging needs), exemption of remittance and return thereon from taxes, 10 per cent quota in initial public offers of local companies to non-resident Bangladeshis and allowing interest-
 
 47
 
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
+bearing foreign currency accounts in major currencies in Bangladesh, offering priority in industrial facilities – land, electricity, and import of machine and materials. Some more issues will be addressed during the Sixth Five Year Plan – regulation of private manpower agencies, evaluation and review of the system of licensing of the manpower recruiting agencies, strengthening management of the wage earners' fund at important overseas workplaces and simplification of immigration procedures. A major challenge that will have to be addressed relates to the channeling of remittance into productive investment. To this end, migrants' access to bank credit will be enhanced through appropriate institutional mechanisms such as the establishment of banks catering to the specific needs of NRBs.
 
 ### Strategic Actions
 
@@ -1856,7 +2012,7 @@ Under  Rules  of  Origin,  Bangladesh  is  often  unable  to  fully  utilize  pr
 
 [[START OF PAGE 60]]
 
-The use of simple and transparent Rules of Origin criteria would undoubtedly enhance market access for Bangladeshi exports, as evidenced by the 25% value addition criteria set by Canada and  the  new  one-stage  fabrication  requirement  implemented  by  EU.  The  imposition  of  antidumping  measures  creates  hurdles  to  achieving  better  market  access.  Developing  countries, including Bangladesh, have not received the special consideration mandated by the ADA, and this has undermined their potential to benefit from trade liberalization. The WTO anti-dumping rules therefore need to be amended. The benefits of Aid for trade, which was incorporated in the Hong Kong Ministerial Declaration for the first time as a special and committed assistance, are yet  to  accrue  to  LDCs  including  Bangladesh  due  to  the  lack  of  trade-related  infrastructure facilities and deficiency of knowledge on market access possibilities.
+The use of simple and transparent Rules of Origin criteria would undoubtedly enhance market access for Bangladeshi exports, as evidenced by the 25% value addition criteria set by Canada and the new one-stage fabrication requirement implemented by EU. The imposition of anti-dumping measures creates hurdles to achieving better market access. Developing countries, including Bangladesh, have not received the special consideration mandated by the ADA, and this has undermined their potential to benefit from trade liberalization. The WTO anti-dumping rules therefore need to be amended. The benefits of Aid for trade, which was incorporated in the Hong Kong Ministerial Declaration for the first time as a special and committed assistance, are yet to accrue to LDCs including Bangladesh due to the lack of trade-related infrastructure facilities and deficiency of knowledge on market access possibilities.
 
 ### Strategic Actions
 
@@ -1920,13 +2076,15 @@ In  recent  years,  proposals  for  sub-regional  cooperation  between  Banglade
 Presently,  Bangladesh annually exports goods worth only $350 million  approximately  through  official  channels  to  Bhutan,  India,  Myanmar  and  Nepal.    The potential is much larger.  A major constraint is non-tariff barriers (NTBs) in terms of negative lists,  quality controls, customs procedures, border facilities, transport and transit arrangements, and the like.  Removal of these restrictions and upgrading of border facilities will likely facilitate trade substantially in the sub-region and help boost Bangladeshi exports.
 
 #### Regional transport:
-A major constraint on trade and exports is transport costs due to primitive and  restrictive  transport  arrangements  within  the  sub-region  as  well  as  poor  infrastructure. Bangladesh has limited natural resources, but one major asset is its access to sea.  It has two sea ports (Chittagong and Mongla) that are not used to their true potential.  Examples of countries that have successfully converted such assets to substantial development gains include Rotterdam port in the Netherlands, Singapore port, and the Hongkong port. Bangladesh can also strive to convert  this  advantage  into  national  economic  gains  by  modernizing  and  upgrading  these  sea ports to serve as international ports with traffic open to all including the regional neighbors of Bhutan, Nepal and India. Even Western China stands to benefit from an opening to the Bay of Bengal. Additionally, investments will be needed to modernize and upgrade related rail, road and inland waterway linkages.  The benefits for Bangladesh in terms of investment, trade, transit fees and port charges can be enormous.
+A major constraint on trade and exports is transport costs due to primitive and restrictive transport arrangements within the sub-region as well as poor infrastructure. Bangladesh has limited natural resources, but one major asset is its access to sea. It has two sea ports (Chittagong and Mongla) that are not used to their true potential. Examples of countries that have successfully converted such assets to substantial development gains include Rotterdam port in the Netherlands, Singapore port, and the Hongkong port. Bangladesh can also strive to convert this advantage into national economic gains by modernizing and upgrading these sea ports to serve as international ports with traffic open to all including the regional neighbors of Bhutan, Nepal and India. Even Western China stands to benefit from an opening to the Bay of Bengal. Additionally, investments will be needed to modernize and upgrade related rail, road and
 
 51
 
 [[END OF PAGE 61]]
 
 [[START OF PAGE 62]]
+
+inland waterway linkages. The benefits for Bangladesh in terms of investment, trade, transit fees and port charges can be enormous.
 
 #### Energy trade:
 With higher growth in South Asia, demand for energy has grown tremendously. In the North East sub-region, both India and Bangladesh are energy deficit.  On the other hand, Bhutan and Nepal have tremendous hydro-power potential.  Bhutan is already engaged in very successful hydro-power exports to India.  Nepal's hydro-power potential is estimated at around 80,000 MW and of this some 40,000 MW is believed to be economically viable.  As compared to this,  Nepal  has  developed less than  a 1000 MW of power so far.  Parts of India's North East along the Brahmaputra and Meghna River Basins also have hydro-power potential.   Given the outlook for international oil prices and the adverse effects of fossil fuel use on climate change, a sustainable long-term solution to power needs in the North East sub-region including Bangladesh will  require  development  of  hydro-power  in  Nepal  and  Bhutan  as  well  as  parts  of  North  East India for exports to Bangladesh and India.  Other sources of clean energy, such as gas, need also to be developed for conversion to power with possibility for trade. Yet another possibility is regional power trade based on varying patterns of demand and capacities.  This requires compatible grid interconnections  between  Bhutan,  Bangladesh,  India  and  Nepal  along  the  bordering  areas. Preliminary technical analysis suggests considerable potential here and a win-win for all.
@@ -1938,13 +2096,15 @@ The biggest potential gains are in water management, particularly for the poor. 
 Foreign  Direct  Investment  in  Bangladesh  has  been  less  than  the potential in relation to the South Asian region. There are some Indian investments in Bangladesh, but their volume is not substantial. The main constraints to FDI are inadequate and inefficient infrastructure facilities, such as power, transport and communications, and port facilities. Even if these were to be addressed, substantial challenges would remain that need to be handled at the political and diplomatic arena. Potentially promising areas of investment cooperation include gas exploration, petrochemicals, textile machinery, electrical,  electronic and leather  goods. Health, education and tourism also offer potential. Existing cooperation in jointly combating terrorism, militancy and illegal drugs/arms trafficking can be strengthened to every country's benefit.
 
 #### Cooperation on Road and Highway Projects:
-The idea of greater transport connectivity among the  Ganges-  Brhamaputra  -  Meghna  basin  countries  -  Bangladesh,  Nepal,  Bhutan  and  northeastern  India  was  conceptualized  as  early  as  1959  but  gained  traction  under  UN-ESCAP sponsored proposal of the Asian Highway System in the 1960s. In the late 1990s, the Bangladesh government  endorsed  the  following  objectives  of  the  Ganges-Brhamaputra-Meghna  triangle: joint  development  and  management  of  water  and  other  resources,  development  of  physical infrastructure  such  as  roads,  railways  and  ports,  and  cooperation  in  other  areas  such  as environment protection and tourism. It was clearly felt that Bangladesh should not be left out of the opportunity of developing links with other parts of the region and beyond. Hence, the support for the grand Asian Highway System (which is a roadmap for further regional, sub-regional and bilateral  cooperation)  gained  momentum.  The  system  is  expected  to  open  the  gateway  to domestic  investments  and  FDI  in  Bangladesh.  A  very  specific  benefit  relates  to  Bangladesh's strategic location for use as valuable route for trade and commerce of India, Nepal and Bhutan.
+The idea of greater transport connectivity among the Ganges- Brhamaputra - Meghna basin countries - Bangladesh, Nepal, Bhutan and north-eastern India was conceptualized as early as 1959 but gained traction under UN-ESCAP sponsored proposal of the Asian Highway System in the 1960s. In the late 1990s, the Bangladesh government endorsed the following objectives of the Ganges-Brhamaputra-Meghna triangle: joint development and management of water and other resources, development of physical
 
 52
 
 [[END OF PAGE 62]]
 
 [[START OF PAGE 63]]
+
+infrastructure such as roads, railways and ports, and cooperation in other areas such as environment protection and tourism. It was clearly felt that Bangladesh should not be left out of the opportunity of developing links with other parts of the region and beyond. Hence, the support for the grand Asian Highway System (which is a roadmap for further regional, sub-regional and bilateral cooperation) gained momentum. The system is expected to open the gateway to domestic investments and FDI in Bangladesh. A very specific benefit relates to Bangladesh's strategic location for use as valuable route for trade and commerce of India, Nepal and Bhutan.
 
 ### Strategic Actions
 
@@ -1979,9 +2139,9 @@ The IT revolution has intensified the move towards knowledge codification, and i
 ## 7.2 ICT and Science and Technology for National Development
 
 ### Science and Technology .
-World  over,  science  and  technology  (S&T)  has  become  not  only  a way of life, but has been identified as an instrument of change, in the globalized world. Floodresistant crops are a must for the country with chronic floods, dwindling arable land and rapidly growing  population;  all  these  plays  a  determining  role  in  economic  development  as  well  as sustainable development - all these cannot happen without S&T.
+World over, science and technology (S&T) has become not only a way of life, but has been identified as an instrument of change, in the globalized world. Flood-resistant crops are a must for the country with chronic floods, dwindling arable land and rapidly growing population; all these plays a determining role in economic development as well as sustainable development - all these cannot happen without S&T.
 
-The  new  Science  and  Technology  Policy  focuses  on  scientific  research  and  production  using indigenous  resources  as  much  as  possible.  It  focuses  on  finding  solutions  to  the  emerging problems  in  agriculture,  health,  environment  and  climate  change.  The  new  Policy  suggested access to quality educational materials for studying science, mathematics, engineering and other subjects  requiring  instruments.  At  the  same  time  provision  may  be  made  for  attracting Bangladeshi  researchers  living  abroad.  To  encourage  innovation  and  production  of  new technology a proper institutional system of copyright and patent should be established. In view of the expanded agenda for research in science and technology, a higher share of GDP will be allocated for research and development.
+The new Science and Technology Policy focuses on scientific research and production using indigenous resources as much as possible. It focuses on finding solutions to the emerging problems in agriculture, health, environment and climate change. The new Policy suggested access to quality educational materials for studying science, mathematics, engineering and other subjects requiring instruments. At the same time provision may be made for attracting Bangladeshi researchers living abroad. To encourage innovation and production of new technology a proper institutional system of copyright and patent should be established. In view
 
 54
 
@@ -1989,7 +2149,9 @@ The  new  Science  and  Technology  Policy  focuses  on  scientific  research  a
 
 [[START OF PAGE 65]]
 
-It  is  crucial to strike the right balance between science and technology.  In fact, to reverse the trend  that  science  education  has  been  attracting  less  number  of  students  in  secondary,  higher secondary and higher education, an overemphasis may be necessary for a limited period of time in the form of special incentives, recognition, further education and employment opportunities for students choosing this stream of the education system.
+of the expanded agenda for research in science and technology, a higher share of GDP will be allocated for research and development.
+
+It is crucial to strike the right balance between science and technology. In fact, to reverse the trend that science education has been attracting less number of students in secondary, higher secondary and higher education, an overemphasis may be necessary for a limited period of time in the form of special incentives, recognition, further education and employment opportunities for students choosing this stream of the education system.
 
 ### ICT  in  Bangladesh.
 The  importance  of  science  and  technology  in  general,  and  of  ICT  in particular, has led the Government to formulate the National Science and Technology Policy and National ICT Policy 2009.
@@ -2058,7 +2220,7 @@ While acknowledging the many contributions that ICT can make to development in B
 Large  infrastructures  are  also necessary  along  with  ICT  and  knowledge  based  strategy  for  growth.  The  productivity  of agricultural labor accelerated with the use of industrial and biological innovations. Knowledge helps an economy through technological innovations and their application to different sectors of economy-  in  our  case  particularly  to  agriculture  and  industry.  Bangladesh  could  pursue manufacturing and agro-based industries more aggressively to build a robust industrial economy that could be made more efficient with ICT.
 
 ### Software  market:
-There  is  much  enthusiasm  among  educated  people  in  Bangladesh  for  the software market in the United States and Europe. Indian software successes are attributed to indepth  IT  training  in  India  with  the  US  Silicon  Valley,  and  to  some  extent  on  the  standard  of English  language  in  the  Indian  IT  community.  With  the  necessary  support  and  training, Bangladesh can position itself as outsourcing supplier.
+There is much enthusiasm among educated people in Bangladesh for the software market in the United States and Europe. Indian software successes are attributed to in-depth IT training in India with the US Silicon Valley, and to some extent on the standard of English language in the Indian IT community. With the necessary support and training, Bangladesh can position itself as outsourcing supplier.
 
 The rapid growth of IT will likely lead to a digital divide in the short term, where the rich and educated are empowered and enriched by IT, while the poor do not benefit. The challenge for government is to create access across social divides.
 
@@ -2100,7 +2262,7 @@ ICT will contribute to the improvement of E-agriculture, E-medicine, E-learning,
 
 - Expansion of broadband to 30 per cent in 2015 and to 40 per cent in 2021.
 
-- Introduction of wireless broadband (Woman) across the country by 2015.
+- Introduction of wireless broadband (Wimax) across the country by 2015.
 
 It is hoped that by implementing plans set out in the Digital Bangladesh policy, the country will move towards the status of a poverty- free middle income prosperous country by 2021.
 
@@ -2114,7 +2276,7 @@ It is hoped that by implementing plans set out in the Digital Bangladesh policy,
 
 ## 8.1 Energy Strategy for the long-term
 
-Per  capita  consumption  of  energy  in  Bangladesh  is  on  an  average  160  kgoe  (kilogram  oil equivalent) compared with 640 kgoe in Asia and far less than 530 kgoe in India, 510 kgoe in Pakistan,  470  kgoe  in  Sri  Lanka  and  340  kgoe  in  Nepal.It  is  evident  that  per  capita  average consumption of energy in Bangladesh is significantly lower than the average for Asia, and it is even lower than those of South Asian countries. On top of this low level of consumption, there is already a serious energy crisis which is the result of sluggish growth in energy supplies while the demand for energy has grown by leaps and bound attendant with higher economic growth.
+Per capita consumption of energy in Bangladesh is on an average 160 kgoe (kilogram oil equivalent) compared with 640 kgoe in Asia and far less than 530 kgoe in India, 510 kgoe in Pakistan, 470 kgoe in Sri Lanka and 340 kgoe in Nepal. It is evident that per capita average consumption of energy in Bangladesh is significantly lower than the average for Asia, and it is even lower than those of South Asian countries. On top of this low level of consumption, there is already a serious energy crisis which is the result of sluggish growth in energy supplies while the demand for energy has grown by leaps and bound attendant with higher economic growth.
 
 Clearly,  the  situation  calls  for  an  urgent  but  well-crafted  sustainable  long-term  strategy  to address the energy crisis and increase the energy supply to support Bangladesh's development. Accordingly, the Government has adopted a comprehensive energy development strategy 2 .  The strategy  provides  a  balanced  approach  that  looks  at  both  supply  increases  and  demand management aspects of the energy market in a long-term horizon.  Energy options from domestic sources  needs  to  be  complemented  with  possible  options  for  energy  trade.  Specifically,  the strategy will address what the government can do about gas and power, and will look at options for  diversification  of  fuels  for  generation.    The  strategy  will  also  explore  alternative  solutions such  as  increased  electricity  imports  from  neighboring  countries  and  LNG  trade.  Furthermore exploration  of  domestically  available  resources,  such  as  coal  and  oil  and  gas  from  offshore drilling will be intensified. The supply side options will be balanced with policies for demand management that conserve energy and discourage inefficient use of electricity.
 
@@ -2239,13 +2401,24 @@ The following objectives for the sector have been envisioned:
 
 - Ensuring a reasonable and affordable price for electricity by pursuing least cost options;
 
-- Promoting competition among public -private entities.
+- Promoting competition among public –private entities.
 
 ## 8.4 Demand for Electricity
 
 Electricity is the cleanest source of energy. Demand for electricity rises as income rises and as people desire a better quality of life. During 2000 and 2007, the overall demand for electricity has risen by about 10 per cent annually. Demands from residential and commercial consumption have risen more rapidly than those from industrial and other sectors. (Figure 8.1).
 
 Figure 8.1: Growth (%) of Power Consumption by Sector, 2000-07
+
+14
+12
+10
+8
+6
+4
+2
+0
+11.23 | 8.5 | 11.5 | 8.41 | 9.77
+Domestic | Industrial | Commercial | Others | Total
 
 The intensity of use of electricity has risen tremendously over time. In the early 1980s, it stood at about 30 GWH per thousand crore taka of GDP. This increased to over 80 GWH by 2002. The change  in  the  structure  of  GDP  in  favour  of  manufacturing  and  services,  as  well  as  rapid urbanization and wasteful consumption, are among the major reasons for the increase.
 
@@ -2262,7 +2435,7 @@ Energy  saving  bulbs  are  already  in  the  market.  Future  energy  saving ho
 
 ## 8.5 Supply of Electricity
 
-In  order  to  achieve  these  goals  in  the  Vision  2021  period,  governance  of  the  sector  has  to  be strengthened, keeping efficiency and integrity at a very high level. The sector is highly importdependent for its machinery and maintenance equipment. They are expensive and demand much high-technical  inputs  in  an  oligopoly  market  situation,  which  distorts  price  and  complicates procurement processes.
+In order to achieve these goals in the Vision 2021 period, governance of the sector has to be strengthened, keeping efficiency and integrity at a very high level. The sector is highly import-dependent for its machinery and maintenance equipment. They are expensive and demand much high-technical inputs in an oligopoly market situation, which distorts price and complicates procurement processes.
 
 Power supply has consistently lagged behind demand in recent decades. This cannot be allowed to persist if the economy's goal of reaching middle income status by 2021 is to be attained. Bold decisions  have  to  be  made  on  procurement  of  power  plants.  Principles  on  the  pricing  of electricity  have  to  be  based  on  the  true  alternative  cost  of  gas,  the  main  input  for  electricity generation  today.  Maintenance  and  depreciation  of  the  plants  and  machinery  must  also  be factored  in.  System  loss  in  distribution  must  be  addressed.  In  seeking  to  achieve  double-digit GDP growth, private investment including FDI  has to be depended on. The availability of an even flow of electricity at competitive price must be ensured.
 
@@ -2278,13 +2451,15 @@ Within the purview of the Private Power Generation Policy, independent power pro
 
 Power  sector  policy  has  been  revamped  to  encourage  private  investors  to  take  a  lead  role  in power  generation.  Presently  the  private  sector  accounts  for  almost  one-third  of  the  country's power generation.  However by 2021, it is estimated that the private sector will be in a position to account for two-third of the total power generation.
 
-Public private partnership is another option that is being encouraged. This could help to keep private sector price increases within reasonable limits, assuming that public sector efficiency and integrity can be ensured. Its best contribution could be initiatives jointly led by the public and private  sector  to  predict  power  demand  and  plan  generation  accordingly,  thereby  helping  to ensure energy security. This will also reduce pressure on the government budget.
+Public private partnership is another option that is being encouraged. This could help to keep private sector price increases within reasonable limits, assuming that public sector efficiency and integrity can be ensured. Its best contribution could be initiatives jointly led by the public and
 
 61
 
 [[END OF PAGE 71]]
 
 [[START OF PAGE 72]]
+
+private sector to predict power demand and plan generation accordingly, thereby helping to ensure energy security. This will also reduce pressure on the government budget.
 
 ### System Loss
 
@@ -2300,17 +2475,17 @@ Much of the PDB's loss is attributable  to  rental power,  in  addition  to  its
 
 The present energy mix in Bangladesh compared to global position is shown in Table 9.1.
 
-Energy | Bangladesh | Global
+Table 8.1: Energy Mix in Bangladesh Compared to Global Position
+
+Energy | Bangladesh |  | Global |
 --- | --- | --- | --- | ---
-Current | 2021 | Current | 2030
+ | Current | 2021 | Current | 2030
 Gas | 87.5% | 30% | 18% | 28%
 Oil | 6% | 3% | 10% | 5%
 Coal | 3.7% | 53% | 37% | 38%
 Hydro | 2.7% | 1% | 17% | 4%
 Nuclear | 0% | 10% | 17% | 19%
 Renewable | 0.5% | 3% | 1% | 6%
-
-Table 8.1: Energy Mix in Bangladesh Compared to Global Position
 
 About 88 per cent of the country's power is currently generated from gas and about 50 per cent of  the  consumed  commercial  energy  is  used  for  power  generation.  A  more  balanced  fuel-mix will be needed to ensure energy security by 2021.
 
@@ -2320,13 +2495,15 @@ Although 37 per cent of global power is currently generated from coal, the contr
 The country's coal reserves remain largely unexploited. Power generating capacity should reach 20,000  MW by 2021 to meet the projected  power  demand.  Presently,  gas  can  contribute  just 3115 MW to power generation. Bangladesh can easily meet its energy demands until 2021 from coal reserves. The estimated coal reserve for Bangladesh is 3300 million tonnes in Barapukuria, Khalashpir, Phulbari, Jamalgonj and Dighipara fields.
 
 ### Carbon-trading :
-In  line  with  the  Kyoto  Protocol,  there  are  procedures  for  reducing  carbon emissions through carbon-trading. Countries that emit more carbon dioxide than agreed have an opportunity to compensate for that extra use. This involves financial transactions that emit more than the agreed amount of carbon dioxide and those that use less. Reports suggest that, in 2008, this type of carbon trading was worth US$ 92 billion. Bangladesh's carbon trading projects may result in an annual reduction of about 300,859 tonnes of carbon emission. Therefore Bangladesh could potentially earn US$ 5,415 million per year through carbon trading.
+In line with the Kyoto Protocol, there are procedures for reducing carbon emissions through carbon-trading. Countries that emit more carbon dioxide than agreed have an opportunity to compensate for that extra use. This involves financial transactions that emit more than the agreed amount of carbon dioxide and those that use less. Reports suggest that, in 2008, this type of carbon trading was worth US$ 92 billion. Bangladesh's carbon trading projects may
 
 62
 
 [[END OF PAGE 72]]
 
 [[START OF PAGE 73]]
+
+result in an annual reduction of about 300,859 tonnes of carbon emission. Therefore Bangladesh could potentially earn US$ 5,415 million per year through carbon trading.
 
 ### Gas:
 There has been both optimism and pessimism over Bangladesh's gas resources. There had been an impression that Bangladesh was floating on natural gas, but it is now understood that Bangladesh's known gas reserves are sufficient to meet national demands until 2019.
@@ -2335,7 +2512,7 @@ It is widely felt that Bangladesh's gas resources should first be used for domes
 
 ## 8.8 Non-traditional/Renewable Energy
 
-The power generated from renewable sources is now 1 per cent of total power generation in the world.  This  it  may  reach  3  per  cent  in  2021.  The  power  now  generated  in  Bangladesh  from renewable sources is only about 20 MW, which is some 0.5 per cent of the total energy mix. Provided that foreign investment becomes available to implement a renewable 500 MW power generation project by 2021, its share in power generation may then reach 3 per cent. Bangladesh is currently negotiating with the Russian Federation to set up a nuclear based energy plant. The outcome, in terms of production would be 2000 MW, which is expected to come on stream by 2021. Solar energy, hydroelectricity, bio-gas, et hanol from zatropa seeds, windmills, and other sources of renewable energy will be explored as the use of hydro-carbon based fuels reduces.
+The power generated from renewable sources is now 1 per cent of total power generation in the world. This it may reach 3 per cent in 2021. The power now generated in Bangladesh from renewable sources is only about 20 MW, which is some 0.5 per cent of the total energy mix. Provided that foreign investment becomes available to implement a renewable 500 MW power generation project by 2021, its share in power generation may then reach 3 per cent. Bangladesh is currently negotiating with the Russian Federation to set up a nuclear based energy plant. The outcome, in terms of production would be 2000 MW, which is expected to come on stream by 2021. Solar energy, hydroelectricity, bio-gas, ethanol from zatropa seeds, windmills, and other sources of renewable energy will be explored as the use of hydro-carbon based fuels reduces.
 
 The prospects for hydroelectric power generation in co-operation with Nepal, Bhutan and India deserve  to  be  explored  further.  A  20-year  hydro-power  development  plan  is  planned  for  the Himalayan  region.  This  plan  will  be  implemented  by  the  year  2027.  It  is  thought  that  through regional  cooperation  this  hydro-power  will  be  the  prime  regulator  in  meeting  the  regional  power deficit. But there is little possibility of this power contributing to the regional grid by the year 2021.
 
@@ -2393,13 +2570,15 @@ The  country  has  22  gas  fields,  of  which  13  have  producing  wells  and 
 
 While sustained energy supply is a prerequisite for economic development, estimates indicate a gap in demand and supply of gas. As the current reserve (11.77 Tcf) is not sufficient to meet the increasing demand,  strengthening of exploration,  development  and  transmission  network expansion is necessary.
 
-There are prospects of discovering more gas in the country. Some reports suggest a 95 per cent probability  of  finding  at  least  8.43  Tcf  of  new  gas  discoveries.  The  maximum  that  may  be discovered are respectively 65.7 Tcf (with 5 per cent probability) and 64 Tcf (with 10 per cent probability).  The  mean  expected  discovery  level  (with  50  per  cent  probability)  is  32  Tcf. Overpressure  has  been  observed  in  many  gas  wells,  which  may  be  indicative  of  further  large hydrocarbon pools in Bangladesh.
+There are prospects of discovering more gas in the country. Some reports suggest a 95 per cent probability of finding at least 8.43 Tcf of new gas discoveries. The maximum that may be
 
 64
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
+
+discovered are respectively 65.7 Tcf (with 5 per cent probability) and 64 Tcf (with 10 per cent probability). The mean expected discovery level (with 50 per cent probability) is 32 Tcf. Overpressure has been observed in many gas wells, which may be indicative of further large hydrocarbon pools in Bangladesh.
 
 ### Energy Conservation
 
@@ -2475,7 +2654,7 @@ The  main  objective  of  the  perspective  plan  with  respect  to  transportat
 
 ### Roads
 
-The  primary  road  network  consists  of  national  highways,  regional  highways  and  zila  roads (former Feeder Road Type A). The network is constructed and maintained by RHD. The length of this network is 21,571 km. The other roads - upazila roads, union roads and village roads serve  mainly  rural  areas,  and  are  constructed  and  maintained  by  the  Local  Government Engineering Department (LGED).
+The primary road network consists of national highways, regional highways and zila roads (former Feeder Road Type A). The network is constructed and maintained by RHD. The length of this network is 21,571 km. The other roads – upazila roads, union roads and village roads – serve mainly rural areas, and are constructed and maintained by the Local Government Engineering Department (LGED).
 
 The  long-term  goal  of  the  perspective  plan  is  to  develop  a  safe,  cost  effective,  efficient  and sustainable system of land transport that facilitates economic  development  through  the movement of people, goods and services throughout the country.
 
@@ -2509,7 +2688,7 @@ Bangladesh Railway (BR) is the thrust sector of transport infrastructure in the 
 
 - Augmentation of line capacity along selected corridors, acquiring modern locomotives, coaches and wagons.
 
-- Increasing  market  share  in  freight  transport,  in  container  transport  between  DhakaChittagong Port and in passenger transport.
+- Increasing market share in freight transport, in container transport between Dhaka-Chittagong Port and in passenger transport.
 
 - Organizational  reforms  introducing  a  modern  financial  management  system,  improved maintenance and operational system and human resource development.
 
@@ -2521,7 +2700,7 @@ Bangladesh Railway (BR) is the thrust sector of transport infrastructure in the 
 
 ### Inland Waterways
 
-The country possesses a navigable waterways network, which varies from 3,865 km during the dry season to 5968 km during the monsoon season. Potential exists for a virtually stagnant Inland Water Transport to play a significant role in the movement of people and freight. About oneeighth  of  the  rural  population  has  access  to  the  transport  system  only  through  IWT.  That compares  favorably  with  access  to  road  transport,  as  only  37  per  cent  of  the  rural  population lives within two kilometers of an all-weather road.
+The country possesses a navigable waterways network, which varies from 3,865 km during the dry season to 5968 km during the monsoon season. Potential exists for a virtually stagnant Inland Water Transport to play a significant role in the movement of people and freight. About one-eighth of the rural population has access to the transport system only through IWT. That compares favorably with access to road transport, as only 37 per cent of the rural population lives within two kilometers of an all-weather road.
 
 #### Objectives
 
@@ -2599,17 +2778,17 @@ The  Maritime  transport  sector  is  critical  to  the  economic  development  
 
 The pressure on urban transport systems in the country has been increasing as a consequence of rapid urban growth. Transport interventions in urban areas should aim at improving transport and traffic infrastructure so as to meet existing and potential demands, and developing an integrated and balanced system in which all modes (motorized and non-motorized) can perform efficiently and  each  mode  can  fulfill  its  appropriate  role  in  the  system.  The  main  objective  of  urban transport policies should be to support sustainable urban development.
 
-Reducing  congestion  in  city  roads,  especially  in  Dhaka  Metropolitan  Area,  would  require considerable reduction of dependency on private automobiles, taxi cabs, baby taxies, and nonmotorized transport modes such as rickshaws. Steps, therefore, should be taken to increase the number of large-size buses including double-decker buses on truck routes and buses of optimum sizes  on  other  routes.  Introduction  of  Rapid  Bus  Transit  through  the  use  of  high  capacity dedicated bus lanes should be given due consideration. Rail-based mass transit systems should also be considered as parts of a long-term integrated transport strategy for Dhaka Metropolitan Area.  Other  options  may  include  Construction  of  an  overhead  monorail  system,  elevated expressway and Circular waterways around Dhaka city.
+Reducing congestion in city roads, especially in Dhaka Metropolitan Area, would require considerable reduction of dependency on private automobiles, taxi cabs, baby taxies, and non-motorized transport modes such as rickshaws. Steps, therefore, should be taken to increase the number of large-size buses including double-decker buses on truck routes and buses of optimum sizes on other routes. Introduction of Rapid Bus Transit through the use of high capacity dedicated bus lanes should be given due consideration. Rail-based mass transit systems should also be considered as parts of a long-term integrated transport strategy for Dhaka Metropolitan Area. Other options may include Construction of an overhead monorail system, elevated expressway and Circular waterways around Dhaka city.
 
 ### Rural Transport
 
 It  is  important  to  give  attention  to  ways  that  the  rural  transport  infrastructure,  particularly  the physical infrastructure, can support rural economies.  Roads, waterways, or both serve most of rural markets and growth centres. Upazila roads (formerly, Feeder Road Type B) connect growth centres to the RHD road network or to the upazila headquarters or connect one growth centre with another. Union roads connect union headquarters with the upazila headquarters, and local markets with each other, while village roads connect villages and farms to local markets and union headquarters. All these roads, along with waterways, are important for the efficient functioning of rural markets. Access to markets will encourage improvements in market facilities.
 
-The long-term  goals  of  the  perspective  plan  with  respect  to  rural  roads  are  (i)  to  provide  allweather access to all growth centres, all union parishad complexes, most rural markets and other rural  service  delivery  centres,  and  (ii)  to  improve  rural  accessibility  to  facilitate  agricultural production  and  marketing.    The  strategies  may  be  adoption  of  a  Rural  Road  Master  Plan  and Maintenance  Plan  with  priority  accorded  on  maintenance  over  new  construction,  and  more involvement of LGIs in ensuring utilization and maintenance of constructed facilities.
+The long-term goals of the perspective plan with respect to rural roads are (i) to provide all-weather access to all growth centres, all union parishad complexes, most rural markets and other rural service delivery centres, and (ii) to improve rural accessibility to facilitate agricultural production and marketing. The strategies may be adoption of a Rural Road Master Plan and Maintenance Plan with priority accorded on maintenance over new construction, and more involvement of LGIs in ensuring utilization and maintenance of constructed facilities.
 
 ## 9.4 Multi-Modal Transport
 
-Multi-modal  transport  has  the  potential  to  reduce  transport  expenditure  and  time.  The  modes should be integrated and the communication system should be improved to facilitate tracing the vehicles and sharing information among different stakeholders, such as importers/exporters, port authority and shippers. Computerised connectivity will improve communication, and adoption of the  Digital  Bangladesh  policy  will  help  further.  Transport  corridors,  especially  the  DhakaChittagong Highway, should be upgraded to facilitate the movement of container lorries. In the long term, another ICD should be constructed in the periphery of Dhaka, at major river and road junctions. This ICD can assist in distributing freight to all parts of the country and be the focal point  for  multi-modal  transport.  Long  distance,  international  transhipment  of  goods  will  take place automatically.
+Multi-modal transport has the potential to reduce transport expenditure and time. The modes should be integrated and the communication system should be improved to facilitate tracing the vehicles and sharing information among different stakeholders, such as importers/exporters, port authority and shippers. Computerised connectivity will improve communication, and adoption of the Digital Bangladesh policy will help further. Transport corridors, especially the Dhaka-Chittagong Highway, should be upgraded to facilitate the movement of container lorries. In the long term, another ICD should be constructed in the periphery of Dhaka, at major river and road junctions. This ICD can assist in distributing freight to all parts of the country and be the focal point for multi-modal transport. Long distance, international transhipment of goods will take place automatically.
 
 70
 
@@ -2683,14 +2862,14 @@ Bangladesh  has  been  experiencing  rapid  increase  in  its  urban  population
 
 The agrarian economy of Bangladesh having an area of only 147,750 km with acute problem of allocation of land to agriculture, industry, and human settlement is experiencing a very high rate of urbanization. In 1974 people living in urban areas accounted for only 8.8% of the population (Table 1), which rose to 23.1% by 2001.
 
-1974 | 1981 | 1991 | 2001
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Number | % | Number | % | Number | % | Number | %
-Urban | 6273603 | 8.78 | 13535963 | 15.05 | 20872204 | 18.73 | 28605200 | 23.1
-Rural | 70124397 | 91.79 | 76376037 | 84.95 | 90582981 | 81.27 | 101424549 | 76.9
-Total | 76398000 | 100 | 89912000 | 100 | 111455185 | 100 | 130029749 | 100
-
 Table 10.1: Growth of Urban Population in Bangladesh
+
+| | 1974 | | 1981 | | 1991 | | 2001 | |
+|---|---|---|---|---|---|---|---|---|
+| | Number | % | Number | % | Number | % | Number | % |
+| Urban | 6273603 | 8.78 | 13535963 | 15.05 | 20872204 | 18.73 | 28605200 | 23.1 |
+| Rural | 70124397 | 91.79 | 76376037 | 84.95 | 90582981 | 81.27 | 101424549 | 76.9 |
+| Total | 76398000 | 100 | 89912000 | 100 | 111455185 | 100 | 130029749 | 100 |
 
 Source: Bangladesh Bureau of Statistics
 
@@ -2742,7 +2921,7 @@ Policies  and  strategies  in  this  area  seek  to  promote cleaner  environmen
 Access to affordable urban housing is an increasing problem in the country as population pressure increases and prices of land and construction costs rise. The policy in this respect is  to bring about improvement in the housing situation in terms of quality and quantity of housing units, housing tenure and housing accessibility.
 
 ### Urban Transportation:
-Policies  and  strategies  in  this  area  focus  on  developing  an  integrated and balanced transportation system taking into consideration the needs of the road system, nonmotorized transport, public passenger transport and mass transit. Issues such as a city's balance in the locations of employment and housing, demand management and the roles for the public and private sectors will also be given due emphasis.
+Policies and strategies in this area focus on developing an integrated and balanced transportation system taking into consideration the needs of the road system, non-motorized transport, public passenger transport and mass transit. Issues such as a city's balance in the locations of employment and housing, demand management and the roles for the public and private sectors will also be given due emphasis.
 
 75
 
@@ -2874,7 +3053,7 @@ The  quality  of  medical  education  must  be  improved significantly.  The  mo
 [[START OF PAGE 90]]
 
 #### Public  Health  Facilities:
-In  addition  to  medicare,  public  health  services  require  considerable improvement. Access to clean water and sanitation could be envisioned for 2021 through, for example,  access  to  piped  water,  well  maintained  sewerage  systems,  environmentally  sound hospital  and  industrial  waste  disposal.  Arsenic  problem  in  groundwater  has  put  a  damper  on clean rural water supply. Measures will be necessary for mitigation through provision of userfriendly affordable household water filter systems and for piped water supply through deep tube wells  by  communities  and  government.  Research  on  arsenic  mitigation  should  continue.  Safe disposal  of  waste  material,  monitoring  water  quality,  ongoing  education  on  good  hygiene practices and other measures to promote safe water will be strengthened.
+In addition to medicare, public health services require considerable improvement. Access to clean water and sanitation could be envisioned for 2021 through, for example, access to piped water, well maintained sewerage systems, environmentally sound hospital and industrial waste disposal. Arsenic problem in groundwater has put a damper on clean rural water supply. Measures will be necessary for mitigation through provision of user-friendly affordable household water filter systems and for piped water supply through deep tube wells by communities and government. Research on arsenic mitigation should continue. Safe disposal of waste material, monitoring water quality, ongoing education on good hygiene practices and other measures to promote safe water will be strengthened.
 
 ### Policies and Strategies
 
@@ -2952,19 +3131,19 @@ The following strategies are being emphasized in improving nutritional status ov
 
 [[START OF PAGE 92]]
 
-Indicators | Value with Year | 2015 | 2021
---- | --- | --- | --- | ---
-Impact/Outcome
-1 | Life Expectancy | 66.6 (SVRS 2007 ) | 68 | 70
-2 | Population Growth Rate | 1.40 (SVRS 2007) | 1.3 | 1.0
-3 | Maternal Mortality Ratio (MMR) (per 100,000 live births) | 320 (BM MS 2001) | 143 | 57
-4 | Infant Mortality Rate (per 1000 live births) | 52 (BDHS 2007) | 32 | 15
-5 | Underweight of Under 5 children (6-59 months) | 41% (BDHS 2007) | 33% | 29%
-6 | Total Fertility Rate (TFR) | 2.7 (BDHS 2007) | 2.4% | 2.1
-7 | Use of birth control Methods | 74% | 80%
-8 | Poverty rate (Head count ratio, %) | 31.5(HIES 2010) | 22.5 | 15.0%
-
 Table 11.1: Key HNP targets for SFYP and Perspective Plan
+
+| | Indicators | Value with Year | 2015 | 2021 |
+|---|---|---|---|---|
+| | Impact/Outcome | | | |
+| 1 | Life Expectancy | 66.6 (SVRS 2007 ) | 68 | 70 |
+| 2 | Population Growth Rate | 1.40 (SVRS 2007) | 1.3 | 1.0 |
+| 3 | Maternal Mortality Ratio (MMR) (per 100,000 live births) | 320 (BM MS 2001) | 143 | 57 |
+| 4 | Infant Mortality Rate (per 1000 live births) | 52 (BDHS 2007) | 32 | 15 |
+| 5 | Underweight of Under 5 children (6-59 months) | 41% (BDHS 2007) | 33% | 29% |
+| 6 | Total Fertility Rate (TFR) | 2.7 (BDHS 2007) | 2.4% | 2.1 |
+| 7 | Use of birth control Methods | | 74% | 80% |
+| 8 | Poverty rate (Head count ratio, %) | 31.5(HIES 2010) | 22.5 | 15.0% |
 
 Source: Perspective Plan projections
 
@@ -2974,11 +3153,11 @@ Education directly contributes to building a dynamic  economy,  an  efficient sy
 
 ### Outcomes Visualized for 2021:
 
-- An informed, knowledge-based, technologically-oriented, gender equitable learning system for  all  will  be  established.  Every  school  age  boy  and  girl  has  access  to  primary  level institutions with the necessary facilities; they will also continue in school to receive quality education. All opportunities are provided to pre-primary children, young person; and adults to  meet their learning needs in  a competitive world, both in formal and non-formal subsectors  of  education,  without  any  discrimination  based  on  gender,  income,  ethnicity, livelihood, geographical location, disability, and autism.
+- An informed, knowledge-based, technologically-oriented, gender equitable learning system for all will be established. Every school age boy and girl has access to primary level institutions with the necessary facilities; they will also continue in school to receive quality education. All opportunities are provided to pre-primary children, young person; and adults to meet their learning needs in a competitive world, both in formal and non-formal sub-sectors of education, without any discrimination based on gender, income, ethnicity, livelihood, geographical location, disability, and autism.
 
 - Gender equality at all levels of education will be ensured.
 
-- All students enrolled in primary, secondary, and tertiary levels will have access to genderresponsive  health,  nutrition,  water  and  sanitation,  socio-cultural  development,  greater participation in sports and ensuring a fruitful learning and living environment.
+- All students enrolled in primary, secondary, and tertiary levels will have access to gender-responsive health, nutrition, water and sanitation, socio-cultural development, greater participation in sports and ensuring a fruitful learning and living environment.
 
 - The  government,  civil  society,  the  community,  and  other  stakeholders  equitably  share responsibilities  in  ensuring  quality  education  for  all  at  different  branches  and  stages  of education and training.
 
@@ -3126,7 +3305,7 @@ A strategy to achieve nearly full employment by 2021 must ensure that all new en
 
 Both  the  private  and  public  sectors  should  expand  the  network  of  quality  vocational  training institutes. The private sector which came forward to train people in computer technology as well as in many of the trades and skills related to vocational training needs of different fields. These institutes can be developed in such a manner that promotes the role of women in nontraditional
 
-skills (i.e. scientific services, trades, technical areas, finance, nursing, ICT, management, etc.). In addition, strategy to promote and increase women in TVET is essential. The great surge in 15 35  age  group  requires  creation  of  employment  opportunities  through  provision  of  training  for self-employment  and/or  employment  in  SMEs.  However,  strict  monitoring  and  regulation  of these training activities for purposefulness and quality will need to be put in place.
+skills (i.e. scientific services, trades, technical areas, finance, nursing, ICT, management, etc.). In addition, strategy to promote and increase women in TVET is essential. The great surge in 15 - 35 age group requires creation of employment opportunities through provision of training for self-employment and/or employment in SMEs. However, strict monitoring and regulation of these training activities for purposefulness and quality will need to be put in place.
 
 Different types of vocational training could be planned, including those in the emerging trades such us accounting and financial services, graphics and textile design, computer animation, etc. Management and engineering positions in commercial and services sectors will need newer type of skills. Industry can have a greater role in setting the standards for TVET and skills training and to assist government identify the skill needs of the economy in coming years. Income and remittances  will  increase  substantially  if  we  can  send  abroad  workers  with  appropriate  skills. New destinations for workers also will be explored such as Europe and East Asia. In addition to traditional  job  markets  in  the  Middle  East,  future  job  openings  are  also  widely  expected  in European and East Asian countries where unskilled hands will not be needed much.
 
@@ -3145,6 +3324,14 @@ While the Perspective Plan stipulates acceleration of economic growth, the under
 Bangladesh  has  been  successful  in  achieving  significant  reduction  in  poverty  since  1990. National poverty headcount declined from 58.8 percent in 1991-92 to 31.5 percent in 2010, while extreme poverty rate declined from 41 to 17.6 percent over the same period.  Other measures of poverty, such as poverty gap and squared poverty gap show long-term trends similar to those for headcount  rates.  Assuming  these  trends  to  prevail  with  some  improvement  in  the  income inequality  situation,  headcount  poverty  rate  is  expected  to  decline  to  22.5%  by  2015  and  to 13.5% by 2021 (Figure 12.1).
 
 Figure 12.1 Long-term poverty trends
+
+Head Count rate(%)
+
+| | 1991-92 | 2000 | 2005 | 2010 | 2015 | 2021 |
+|---|---|---|---|---|---|---|
+| National | 58.8 | 48.9 | 40 | 31.5 | 22.5 | 13.5 |
+| Urban | 44.9 | 35.2 | 28.4 | 21.3 | 14.5 | 8.1 |
+| Rural | 61.2 | 55.3 | 43.8 | 35.2 | 26.3 | 17.3 |
 
 Source: Bangladesh Bureau of Statistics; various HIES
 
@@ -3238,7 +3425,7 @@ The diverse underlying causes of poverty in Bangladesh include vulnerability, so
 
 There are four major concerns that the current rate of progress in reducing extreme poverty may not  be  maintained:  (1)  slowdown  in  the  global  economy  together  with  domestic  factors;  (2) growing  population  density  is  likely  to  force  more  of  the  poorest  people  to  live  in  the  most vulnerable  areas;  (3)  climate  change  will  exacerbate  the  vulnerability  of  poor  people  to environmental shocks, with the predicted increase in extreme climate events; and (4) demographic and social changes may further increase vulnerability and social exclusion.
 
-Risks and vulnerability are mainstream problems in the lives of the average Bangladeshi and are recognized  as  such  by  governments,  individuals  and  communities.  Safety  Net  Programs  to address  risk  and  vulnerability  have  been  an  integral  part  of  the  anti-poverty  strategy  of  the governments  and  will  remain  so  for  the  next  decade.    However,  with  informal  safety  nets eroding,  newer  risks  emerging  from  rapid  processes  of  urbanization  and  global  economic integration, and, stronger assertion of mitigation demands from a democratizing polity, a holistic re-thinking  on  the  direction,  scope  and  design  of  safety  net  policies  in  particular  and  social protection  policy  in  general  has  become  necessary.    Social  protection  includes  safety  nets, various forms of social insurance, labor market policies as well as processes of self-help existing or  emerging  within  society.    Risk  reduction  and  social  protection  are  important  not  only  in themselves  but  also  because  an  unaddressed  risk  atmosphere  carry  negative  psychological consequences  for  the  livelihood  initiatives  of  the  poor  and  for  community  efforts  at  social cohesion.
+Risks and vulnerability are mainstream problems in the lives of the average Bangladeshi and are recognized as such by governments, individuals and communities. Safety Net Programs to
 
 91
 
@@ -3246,13 +3433,15 @@ Risks and vulnerability are mainstream problems in the lives of the average Bang
 
 [[START OF PAGE 102]]
 
-Effective policy initiative based on a holistic approach to social protection will require a sharper profiling  of  risks,  old  and  new.    These  include  disasters,  anticipated  risks  such  as  monga  and seasonal poverty, public health risks associated with the urbanization process, social ills such as dowry, erosion of family-based safety nets and emergence of new vulnerable groups such as the elderly  and  the  disabled,  and,  the  uneven  globalization  process  which  may  give  rise  to  new categories  of  poor  whether  in  terms  of  worker  displacement,  livelihood  losses  or  victims  of environmental disasters. An important corollary of moving towards a comprehensive approach to social protection programs is the need to streamline the institutional strategy for implementation. The  potential  of  local  government  bodies,  particularly  the  Union  Parishad,  to  coordinate  a streamlined institutional strategy needs to be actively explored.
+address risk and vulnerability have been an integral part of the anti-poverty strategy of the governments and will remain so for the next decade. However, with informal safety nets eroding, newer risks emerging from rapid processes of urbanization and global economic integration, and, stronger assertion of mitigation demands from a democratizing polity, a holistic re-thinking on the direction, scope and design of safety net policies in particular and social protection policy in general has become necessary. Social protection includes safety nets, various forms of social insurance, labor market policies as well as processes of self-help existing or emerging within society. Risk reduction and social protection are important not only in themselves but also because an unaddressed risk atmosphere carry negative psychological consequences for the livelihood initiatives of the poor and for community efforts at social cohesion.
+
+Effective policy initiative based on a holistic approach to social protection will require a sharper profiling of risks, old and new. These include disasters, anticipated risks such as monga and seasonal poverty, public health risks associated with the urbanization process, social ills such as dowry, erosion of family-based safety nets and emergence of new vulnerable groups such as the elderly and the disabled, and, the uneven globalization process which may give rise to new categories of poor whether in terms of worker displacement, livelihood losses or victims of environmental disasters. An important corollary of moving towards a comprehensive approach to social protection programs is the need to streamline the institutional strategy for implementation. The potential of local government bodies, particularly the Union Parishad, to coordinate a streamlined institutional strategy needs to be actively explored.
 
 The main challenges of implementing social protection programs are coverage issues, targeting beneficiaries,  leakages,  and  disparity  in  regional  distribution.  There  is  a  need  to  address  these problems  with  the  aim  of  using  resources  effectively  for  poverty  eradication.  Given  the  large demand for social protection support and the present low coverage, public expenditures on social protection  programs  will  be  increased  during  the  period  of  the  Perspective  Plan.  At  the  same time,  efforts  will  be  made  to  make  the  existing  and  new  programs  much  better  focused  on reaching  the  intended  beneficiaries  and  serving  the  needs  of  long  term  poverty  reduction strategy.
 
 Over  the  years,  social  protection  programs  in  Bangladesh  have  been  substantially  expanded. While the Government will continue to give priority to core social protection programs, in the long-term  efforts  will  also  be  made  to  find  ways  to  move  to  contributory  social  protection programs  as  in  advanced  countries.    This  is  important  to  ensure  the  sustainability  of  an expanding social protection program. Also, the possibility of introducing a National Pension Plan will be explored. These schemes and possible options will draw on good international practices.
 
-A coherent and integrated national social protection strategy based on a comprehensive mapping of existing and emerging vulnerabilities will be developed. This strategy will also draw on good international practices. The strategy will be to formulate a variety of social assistance and social insurance  programs  to  be  undertaken  during  the  Perspective  Plan  period.  The  coverage  of existing  programs  which  have  proven  track  records  will  be  expanded.    The  labor  laws  of  the country that already have provisions for several types of social insurance related to employment will  be  reviewed, further strengthened  as needed, and implemented.  A rigorous evaluation of current programs will be done to identify weaknesses and improve their effectiveness.  Programs which address emerging vulnerabilities such as urban poverty, livelihood loss due to economic integration and policy reforms, and disadvantaged groups not covered by existing programs will be  developed.  At  the  same  time,  holistic  strategy  will  be  developed  to  provide  long-term solutions to entrenched problems such as seasonal poverty in northern districts and other affected areas.  Targeted  programs  in  health  and  nutrition  aimed  at  reducing  maternal  mortality  and improving child nutrition will be given priority. The strategy will also facilitate the growth of insurance  programs  targeted  to  the  poor  and  vulnerable  groups  as  viable  alternatives  for  their social protection needs. In addressing all of the above, gender concerns will be accommodated as a matter of priority.
+A coherent and integrated national social protection strategy based on a comprehensive mapping of existing and emerging vulnerabilities will be developed. This strategy will also draw on good international practices. The strategy will be to formulate a variety of social assistance and social insurance programs to be undertaken during the Perspective Plan period. The coverage of existing programs which have proven track records will be expanded. The labor laws of the country that already have provisions for several types of social insurance related to employment
 
 92
 
@@ -3260,7 +3449,9 @@ A coherent and integrated national social protection strategy based on a compreh
 
 [[START OF PAGE 103]]
 
-Finally,  during  the  Perspective  Plan  period,  there  will  be  strong  emphasis  on  monitoring  and coordination  of  social  protection  programs.  As  such  consideration  would  be  given  to  (i) establishing  a  clearing  and  designing  house  for  keeping  track  and  coordinating  optimal utilization  of  scarce  resources  by  avoiding  duplication  and  dovetailing  programs  so  that  the needs of the special groups may be catered to; (ii) minimizing the number and improving the accountability of intermediaries who are involved in administering social protection programs; (iii)  establishing  a  standing  arrangement  for  monitoring  and  overseeing  the  development  and implementation  of  policies  and  programs;  (iv)  coordinating  the  views  and  activities  of  the government  and  non-government  organizations  involved  in  this  area;  (v)  assigning  greater responsibility for implementing programs to the local government level; (vi) introducing periodic evaluation of programs to throw light on what is working and what is not; and (vii) allowing for reform and consolidation of programs where needed.
+will be reviewed, further strengthened as needed, and implemented. A rigorous evaluation of current programs will be done to identify weaknesses and improve their effectiveness. Programs which address emerging vulnerabilities such as urban poverty, livelihood loss due to economic integration and policy reforms, and disadvantaged groups not covered by existing programs will be developed. At the same time, holistic strategy will be developed to provide long-term solutions to entrenched problems such as seasonal poverty in northern districts and other affected areas. Targeted programs in health and nutrition aimed at reducing maternal mortality and improving child nutrition will be given priority. The strategy will also facilitate the growth of insurance programs targeted to the poor and vulnerable groups as viable alternatives for their social protection needs. In addressing all of the above, gender concerns will be accommodated as a matter of priority.
+
+Finally, during the Perspective Plan period, there will be strong emphasis on monitoring and coordination of social protection programs. As such consideration would be given to (i) establishing a clearing and designing house for keeping track and coordinating optimal utilization of scarce resources by avoiding duplication and dovetailing programs so that the needs of the special groups may be catered to; (ii) minimizing the number and improving the accountability of intermediaries who are involved in administering social protection programs; (iii) establishing a standing arrangement for monitoring and overseeing the development and implementation of policies and programs; (iv) coordinating the views and activities of the government and non-government organizations involved in this area; (v) assigning greater responsibility for implementing programs to the local government level; (vi) introducing periodic evaluation of programs to throw light on what is working and what is not; and (vii) allowing for reform and consolidation of programs where needed.
 
 93
 
@@ -3284,7 +3475,7 @@ Bangladesh's  environment  is  under  threat  from  natural  causes  compounded 
 
 ## 13.2 Global Climate Change and Bangladesh
 
-The greatest environmental risks now arise from the intensifying global climate change which is adversely impacting both human and natural systems. Human systems include river and other water  bodies,  agriculture  and  forestry,  coastal  zones  and  marine  systems  including  fisheries, human  settlements,  energy,  and  industry,  insurance  and  other  financial  services,  and  human health. Natural systems include rainfall, glaciers, coral reefs and atolls, mangroves, boreal and tropical forests, polar and alpine ecosystems, prairie wetlands, and remnant native grasslands. The degradation  of  the  environment  in  Bangladesh  from  human  encroachment  makes  the  impacts  of climate  change  even  more  severe.  Natural  disasters  such  as  floods,  cyclones,  and  drought  are becoming  more  frequent  and  devastating  in  terms  of  economic  and  infrastructural  losses  and damages and health hazards (outbreak vector- and water-borne diseases). As a result of rising sea levels, a significant part of the coastal areas may be permanently inundated, displacing large numbers of people; and salinity will spread deeper and wider. Low rainfall will continue to cause drought, desertification  in  Barindra  areas  and  inadequate  groundwater  replenishment  in  drier  parts  of  the country.  Large  parts  of  the  rural  economy,  including  the  coastal  areas,  are  threatened  by  natural disasters which destroy crops, infrastructure, livestock, and economic activities. As a result, poverty may widen and deepen. There is a direct linkage between poverty and intensifying climate change.
+The greatest environmental risks now arise from the intensifying global climate change which is adversely impacting both human and natural systems. Human systems include river and other water bodies, agriculture and forestry, coastal zones and marine systems including fisheries, human settlements, energy, and industry, insurance and other financial services, and human health. Natural systems include rainfall, glaciers, coral reefs and atolls, mangroves, boreal and
 
 94
 
@@ -3292,11 +3483,13 @@ The greatest environmental risks now arise from the intensifying global climate 
 
 [[START OF PAGE 105]]
 
-It is now recognized internationally that Bangladesh is at the forefront of adverse climate change impacts. One key reason is the disadvantaged geographical location of Bangladesh at the bottom of the three mighty river systems-the Ganges, the Brahmaputra, and the Meghna, with a long coastal  belt  with  much  of  the  country  low-lying  and  flat.  The  country  has  no  control  over  its water resources as over 92 per cent of the annual run-off that flows through Bangladesh on to the Bay  of  Bengal  enters  the  country  from  the  upper  riparian  country.  Another  key  reason  is  the extremely high population density. Thus, as a result of climate change, Bangladeshis are likely to face increasing risks to their security in terms of food, energy, water, livelihood, health, and habitat.
+tropical forests, polar and alpine ecosystems, prairie wetlands, and remnant native grasslands. The degradation of the environment in Bangladesh from human encroachment makes the impacts of climate change even more severe. Natural disasters such as floods, cyclones, and drought are becoming more frequent and devastating in terms of economic and infrastructural losses and damages and health hazards (outbreak vector- and water-borne diseases). As a result of rising sea levels, a significant part of the coastal areas may be permanently inundated, displacing large numbers of people; and salinity will spread deeper and wider. Low rainfall will continue to cause drought, desertification in Barindra areas and inadequate groundwater replenishment in drier parts of the country. Large parts of the rural economy, including the coastal areas, are threatened by natural disasters which destroy crops, infrastructure, livestock, and economic activities. As a result, poverty may widen and deepen. There is a direct linkage between poverty and intensifying climate change.
+
+It is now recognized internationally that Bangladesh is at the forefront of adverse climate change impacts. One key reason is the disadvantaged geographical location of Bangladesh at the bottom of the three mighty river systems—the Ganges, the Brahmaputra, and the Meghna, with a long coastal belt with much of the country low-lying and flat. The country has no control over its water resources as over 92 per cent of the annual run-off that flows through Bangladesh on to the Bay of Bengal enters the country from the upper riparian country. Another key reason is the extremely high population density. Thus, as a result of climate change, Bangladeshis are likely to face increasing risks to their security in terms of food, energy, water, livelihood, health, and habitat.
 
 ## 13.3 Responses to Environmental Challenges, Climate Change Impacts and Disaster Risks
 
-The government has developed Bangladesh Climate Change  Strategy and Action Plan (BCCSAP)  and  National  Adaptation  Programme  of  Action  (NAPA)  in  2009  to  respond  to climate change induced development risks and National Plan for Disaster Management (NPDM) in 2010 to respond to disaster risks. GoB has also developed National Environment Policy (NEP) in  1992,  National  Forest  Policy  (NFP)  1995,  National  Sustainable  Development  Strategy (NSDS) and other relevant  policies  for  environmental  conservations.  The  basic  approaches  in BCCSAP, NAPA, NPDM, NEP, NFP and NSDS are to wise use of natural resources, disaster and climate resilient development initiative, pro-poor adaptation and mitigation strategies, green growth,  eco-system  based  disaster  risk  reduction,  all  risk  resilient  urban  development  and pollution  management.  Although  not  required  to  reduce  greenhouse  gas  emissions  given  its status  as  a  least  developed  country,  Bangladesh  is  committed  to  following  a  low  carbon  path, success of which would depend on provision of resources by the international community. But Bangladesh  will  not  compromise  on  the  need  for  accelerated  economic  growth  and  poverty reduction.  Planning  Commission  has  taken  an  initiative  to  mainstream  poverty-environmentclimate change and disaster issues into development planning and budgetary process.
+The government has developed Bangladesh Climate Change Strategy and Action Plan (BCCSAP) and National Adaptation Programme of Action (NAPA) in 2009 to respond to climate change induced development risks and National Plan for Disaster Management (NPDM) in 2010 to respond to disaster risks. GoB has also developed National Environment Policy (NEP) in 1992, National Forest Policy (NFP) 1995, National Sustainable Development Strategy (NSDS) and other relevant policies for environmental conservations. The basic approaches in BCCSAP, NAPA, NPDM, NEP, NFP and NSDS are to wise use of natural resources, disaster and climate resilient development initiative, pro-poor adaptation and mitigation strategies, green growth, eco-system based disaster risk reduction, all risk resilient urban development and pollution management. Although not required to reduce greenhouse gas emissions given its status as a least developed country, Bangladesh is committed to following a low carbon path, success of which would depend on provision of resources by the international community. But Bangladesh will not compromise on the need for accelerated economic growth and poverty reduction. Planning Commission has taken an initiative to mainstream poverty-environment-climate change and disaster issues into development planning and budgetary process.
 
 ## 13.4 Environmental, Climate Change and Disaster Management Strategies
 
@@ -3368,13 +3561,13 @@ Bangladesh urges, in association with the international community, that global w
 
 ### Perspective Plan of Bangladesh 2010-2021
 
-The Perspective Plan of Bangladesh 2010-2021 has provided the road map for materialization of  the  national  goals  enshrined  in The  Vision  2021 .  That Vision embodies  a  dream  that Bangladesh,  on  the  eve  of  its  50 th anniversary  of  independence,  will  cross  into  the  middleincome  country  threshold,  its  citizens  will  enjoy  a  higher  standard  of  living,  will  have  better access to education, will benefit from improved social justice, and will live in a more equitable socio-economic environment. These milestones will be achieved in a political climate that is in line  with  core  democratic  principles  of  human  rights,  freedom  of  expression,  the  rule  of  law, equality of citizens irrespective of race, religion and creed, and equality in opportunities.
+The Perspective Plan of Bangladesh 2010-2021 has provided the road map for materialization of the national goals enshrined in The Vision 2021. That Vision embodies a dream that Bangladesh, on the eve of its 50th anniversary of independence, will cross into the middle-income country threshold, its citizens will enjoy a higher standard of living, will have better access to education, will benefit from improved social justice, and will live in a more equitable socio-economic environment. These milestones will be achieved in a political climate that is in line with core democratic principles of human rights, freedom of expression, the rule of law, equality of citizens irrespective of race, religion and creed, and equality in opportunities.
 
 To start with, the Perspective Plan acknowledges that in order to meet the desired outcomes by 2021,  the  country  needs  a  better  governance  scenario  that  provides  improved  incentive mechanisms for the public sector to deliver results. This improvement requires enhanced public administration  capacity,  lower  levels  of  corruption  from  increased  transparency  and  stronger prevalence of the rule of law. On overall macroeconomic management, and for Bangladesh to qualify  as  middle  income  country,  the  government  must  adopt  a  prudent  macroeconomic framework  that  ensures  macroeconomic  stability  for  the  long  term.  This  necessitates  that macroeconomic policy ensures external and internal stability through an effective exchange rate policy, low inflation, and adequate resource mobilization to generate optimal level of public and private investment. The goal is to accelerate real GDP growth to 10% by 2021, and reduce head count poverty rate to about 14% of 2021 population.
 
 A number of key sectors will play a pivotal role in materializing the Vision 2021. It begins with a focus on explicit goals, challenges, and strategies for the agricultural and rural sectors which account for a significant proportion of the country's GDP and employment. The primary goal is to  eliminate  food  deficiency  by  improving  production  that  will  enable  citizens  to  meet  their nutritional  requirement.  More  specifically,  for  ensuring  food  security  by  2021,  strategic  goals need to be addressed in the crop sector, fisheries, livestock and poultry, and forestry. In order to enhance employment generation and rural development, adequate policy attention must be given to  rural-non-farm  activities.  The  government  must  also  help  farmers  in  marketing  agricultural products and accessing rural credit by pursuing policies that establish powerful autonomous local government bodies for coordinating public and private development initiatives.
 
-Next, industrialization process must play a central role in accelerating growth and achieving real GDP growth of 10% by 2021. This means that in an era of increasing globalization, the only mantra for survival and progress is to facilitate the competitive strength of our industrial sector. In terms of broader goal, the industrial sector will continue to account for a much larger share of GDP - reaching 37% in 2021. This dominant performance of the industrial sector is necessary for it  to  address the increasingly diminishing capacity of agriculture to absorb the incremental labour  force.  However,  industrial  expansion  must  simultaneously  be  matched  with  a  highly productive farm and non-farm agricultural sector. Within industry, the manufacturing sector is to display  superior  double  digit  performance  for  the  period  2011-21.  This  can  be  realized  by increasing  the  competitiveness  of  Bangladesh's  export,  and  ensuring  a  larger  share  for  the country  in  global  trade.  With  this  objective,  policy  makers  can  target  product  and  market diversification  with  an  effective  trade  policy  regime  that  is  geared  to  ensure  productivity  and export competitiveness while aiding the emergence and expansion of new product markets.
+Next, industrialization process must play a central role in accelerating growth and achieving real GDP growth of 10% by 2021. This means that in an era of increasing globalization, the only mantra for survival and progress is to facilitate the competitive strength of our industrial sector. In terms of broader goal, the industrial sector will continue to account for a much larger share of GDP – reaching 37% in 2021. This dominant performance of the industrial sector is necessary for it to address the increasingly diminishing capacity of agriculture to absorb the incremental labour force. However, industrial expansion must simultaneously be matched with a highly productive farm and non-farm agricultural sector. Within industry, the manufacturing sector is to display superior double digit performance for the period 2011-21. This can be realized by
 
 98
 
@@ -3382,11 +3575,13 @@ Next, industrialization process must play a central role in accelerating growth 
 
 [[START OF PAGE 109]]
 
-The current wave of globalization holds both opportunities and challenges for Bangladesh. The Bangladesh economy today is more integrated with the global market - largely due to the rapid growth  in  trade,  substantial  out-migration  of  labour  and  remittance  inflows,  financial  sector reform, and creation of favorable FDI regimes. The Perspective Plan emphasizes that it is very important  for  Bangladesh  to  make-use  of  the  complementary  resources,  which  it  shares  with countries  like  India,  Nepal,  Bhutan  and  Myanmar.  This  makes  a  case  for  greater  regional cooperation on trade and trade facilitation, regional transport, energy trade and water management, FDI and joint ventures, cooperation on rail and road projects.
+increasing the competitiveness of Bangladesh's export, and ensuring a larger share for the country in global trade. With this objective, policy makers can target product and market diversification with an effective trade policy regime that is geared to ensure productivity and export competitiveness while aiding the emergence and expansion of new product markets.
+
+The current wave of globalization holds both opportunities and challenges for Bangladesh. The Bangladesh economy today is more integrated with the global market – largely due to the rapid growth in trade, substantial out-migration of labour and remittance inflows, financial sector reform, and creation of favorable FDI regimes. The Perspective Plan emphasizes that it is very important for Bangladesh to make-use of the complementary resources, which it shares with countries like India, Nepal, Bhutan and Myanmar. This makes a case for greater regional cooperation on trade and trade facilitation, regional transport, energy trade and water management, FDI and joint ventures, cooperation on rail and road projects.
 
 The Vision 2021 also  constitutes  a  goal  that  is  eloquently  described  by  the  Prime  Minister  as 'Digital Bangladesh' to rapidly address the lack of capacity to generate productivity improvements  from  technological  progress,  which  has  long  been  undermining  Bangladesh's growth potential. To minimize such constraints, the government has implemented the national ICT Policy 2009 in order to enhance the usage of information communication technologies in both private and public sector. On the whole, the 'Digital Bangladesh' agenda is likely to aid the creation  of  a  knowledge-based  society,  which  is  necessary  for  Bangladesh  to  move  up  in  the development ladder.
 
-The Perspective Plan underscores that at present Bangladesh is coping with a grave energy crisis which  is  a  product  of  growing  deficit  in  the  supply  of  energy  against  current  and  potential demand. The circumstances call for a prompt but well crafted sustainable long-term strategy for a balanced growth in resource exploration, energy generation, transmission and distribution. The goal  for  the  power  sector  is  to  have  electricity  for  all  by  2021.  The  goal  necessitates  that policymakers  complement  energy  options  from  domestic  sources  with  possible  options  for energy trade. Emphasis has been placed on the need to identify and reach the optimal fuel mix for  energy  generation.  While  the  present  scenario  exemplify  our  over-dependence  on  gas  for performing generation activities, the sector must gradually accelerate the usage of other fuels especially coal- to maintain the desired growth in energy generation. This also demands that the government speed up exploration of domestically available resources, such as coal, oil and gas from  offshore  sources.  Lastly,  the  supply  side  options  need  to  be  balanced  with  policies  for demand management that conserve energy and discourage inefficient use of electricity.
+The Perspective Plan underscores that at present Bangladesh is coping with a grave energy crisis which is a product of growing deficit in the supply of energy against current and potential demand. The circumstances call for a prompt but well crafted sustainable long-term strategy for a balanced growth in resource exploration, energy generation, transmission and distribution. The goal for the power sector is to have electricity for all by 2021. The goal necessitates that policymakers complement energy options from domestic sources with possible options for energy trade. Emphasis has been placed on the need to identify and reach the optimal fuel mix for energy generation. While the present scenario exemplify our over-dependence on gas for performing generation activities, the sector must gradually accelerate the usage of other fuels – especially coal- to maintain the desired growth in energy generation. This also demands that the government speed up exploration of domestically available resources, such as coal, oil and gas from offshore sources. Lastly, the supply side options need to be balanced with policies for demand management that conserve energy and discourage inefficient use of electricity.
 
 For  Bangladesh  to  emerge  as  a  'middle  income  country',  we  need  a  vibrant  and  effective transport and communication network. The strategy is to develop an efficient, sustainable, safe, and regionally balanced transportation system in which various modes - roads, railways, inland waterways, air transport, ports and shipping, urban and rural transport - complement each other, interface  appropriately,  and  (when  possible)  provide  effective  competition  to  each  other.  The progress in the telecommunication network and digital media are also noted to be fundamental in advancing economic growth. This is because these sectors play a fundamental role in facilitating the diffusion of information, which in turn reduces associated transaction costs in the economy.
 
@@ -3402,7 +3597,7 @@ Economic development to be meaningful must be associated with human development.
 
 Lastly,  the  Perspective  Plan  reiterates  that  accelerating  economic  growth  without  paying attention to the concepts of 'inclusiveness' and 'sustainability' holds no meaning for a country. As  a  result,  the  Plan  intends  to  achieve  pro-poor  growth  with  adequate  attention  to  social protection that promotes participation of the excluded groups -such as poor women, people from ethnic  groups,  and  socially  excluded  groups  -  in  the  process  of  development.  The  growth experience, so far, has also brought chronic environmental degradation. Consequently, the plan document accepts that the present decade holds a 'window of opportunity' for halting the process of environmental degradation through pursuing strategic actions that generate green growth, and also minimize the adverse effects of climate change.
 
-In sum, the Perspective Plan of Bangladesh 2010-2021, articulates the 'means' and 'ends' that Bangladesh  wants  to  adopt  and  reach  on  the  eve  of  its  50 th anniversary  of  independence.  It highlights a pragmatic multidimensional approach in producing an economy that is innovative and competitive, and the opportunities it creates allows us to achieve a socially just society.
+In sum, the Perspective Plan of Bangladesh 2010-2021, articulates the 'means' and 'ends' that Bangladesh wants to adopt and reach on the eve of its 50th anniversary of independence. It highlights a pragmatic multidimensional approach in producing an economy that is innovative and competitive, and the opportunities it creates allows us to achieve a socially just society.
 
 100
 
