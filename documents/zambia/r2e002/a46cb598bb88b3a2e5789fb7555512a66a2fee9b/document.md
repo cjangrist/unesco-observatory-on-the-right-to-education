@@ -13,98 +13,373 @@ This  complete  constitution  has  been  generated  from  excerpts  of  texts  f
 [[START OF PAGE 2]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
-# Table of contents
-
 Zambia 1991 (rev. 2016)
-
 Page 2
+# Table of contents
+Preamble . . . 11
+PART I: SUPREMACY OF CONSTITUTION . . . 11
+Article 1: Supremacy of Constitution . . . 11
+Article 2: Defence of Constitution . . . 11
+Article 3: Continuous effect of Constitution . . . 12
+Article 4: Republic of Zambia . . . 12
+Article 5: Sovereign authority . . . 12
+Article 6: National symbols . . . 12
+Article 7: Laws of Zambia . . . 12
+PART II: NATIONAL VALUES, PRINCIPLES AND ECONOMIC POLICIES . . . 13
+Article 8: National values and principles . . . 13
+Article 9: Application of national values and principles . . . 13
+Article 10: Basis of economic policies . . . 13
+PART III: PROTECTION OF FUNDAMENTAL RIGHTS AND FREEDOMS OF THE INDIVIDUAL . . . 14
+Article 11: Fundamental Rights and Freedoms . . . 14
+Article 12: Protection of Right to Life . . . 14
+Article 13: Protection of Right to Personal Liberty . . . 15
+Article 14: Protection from Slavery and Forced Labour . . . 16
+Article 15: Protection from Inhuman Treatment . . . 17
+Article 16: Protection from Deprivation of Property . . . 17
+Article 17: Protection for Privacy of Home and Other Property . . . 20
+Article 18: Provisions to Secure Protection of Law . . . 20
+Article 19: Protection of Freedom of Conscience . . . 23
+Article 20: Protection of Freedom of Expression . . . 24
+Article 21: Protection of Freedom of Assembly and Association . . . 24
+Article 22: Protection of Freedom of Movement . . . 25
+Article 23: Protection from Discrimination on the Ground of Race, etc . . . 25
+Article 24: Protection of Young Persons from Exploitation . . . 27
+Article 25: Derogation from Fundamental Rights and Detention . . . 27
+Article 26: Provisions Relating to Restriction and Detention . . . 27
+Article 27: Reference of Certain Matters to Special Tribunal . . . 28
+Article 28: Enforcement of Protective Provisions . . . 30
+Article 29: Declaration of War . . . 31
+Article 30: Declaration of Public Emergency . . . 31
+Article 31: Declaration Relating to Threatened Emergency . . . 31
+Article 32: Interpretation and Savings . . . 32
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 3
+PART IV: CITIZENSHIP . . . 33
+Article 33: Existing citizenship . . . 33
+Article 34: Categories of citizenship . . . 33
+Article 35: Citizenship by birth . . . 33
+Article 36: Citizenship by descent . . . 33
+Article 37: Citizenship by registration . . . 33
+Article 38: Citizenship by adoption . . . 34
+Article 39: Dual citizenship . . . 34
+Article 40: Renunciation and deprivation of citizenship . . . 34
+Article 41: Citizenship Board of Zambia . . . 34
+Article 42: Entitlements of citizen . . . 34
+Article 43: Responsibilities of citizen . . . 35
+Article 44: Reference to citizenship of parent . . . 35
+PART V: REPRESENTATION OF THE PEOPLE . . . 36
+Article 45: Principles of electoral systems and process . . . 36
+Article 46: Franchise . . . 36
+Article 47: Electoral systems . . . 36
+Article 48: Electoral process . . . 37
+Article 49: System for administering elections . . . 37
+Article 50: Access to media . . . 37
+Article 51: Independent candidates . . . 37
+Article 52: Nominations . . . 37
+Article 53: Unopposed candidates . . . 38
+Article 54: Electoral code of conduct . . . 38
+Article 55: Losing candidate not eligible for certain appointments . . . 38
+Article 56: Election date for general elections . . . 38
+Article 57: By-elections . . . 38
+Article 58: Constituencies, wards and delimitation . . . 38
+Article 59: Matters to take into account when delimiting constituencies and wards . . . 39
+Article 60: Political parties . . . 39
+PART VI: LEGISLATURE . . . 41
+Article 61: Principles of legislative authority . . . 41
+Article 62: Parliament, vesting of legislative authority and Members of Parliament . . . 41
+Article 63: Functions of Parliament and National Assembly . . . 41
+Article 64: Introduction of Bills in National Assembly . . . 41
+Article 65: Money Bills . . . 42
+Article 66: Presidential assent and referral . . . 42
+Article 67: Statutory instruments . . . 43
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 4
+Article 68: Election and composition of National Assembly . . . 43
+Article 69: Nominated Members of Parliament . . . 44
+Article 70: Qualifications and disqualifications of Members of Parliament . . . 44
+Article 71: Nominations for election to National Assembly . . . 45
+Article 72: Vacation of office as Member of Parliament and dissolution of political party . . . 45
+Article 73: Petition of election of Member of Parliament . . . 46
+Article 74: Leader of Government Business and Leader of Opposition . . . 46
+Article 75: Sittings of National Assembly . . . 47
+Article 76: Freedom of speech, powers, privileges and immunities . . . 47
+Article 77: Procedure of National Assembly . . . 47
+Article 78: Voting in National Assembly . . . 48
+Article 79: Alteration of Constitution . . . 48
+Article 80: Committees of National Assembly . . . 48
+Article 81: Term and prorogation of Parliament . . . 49
+Article 82: Speaker and Deputy Speakers of National Assembly . . . 50
+Article 83: Removal of Speaker on specified grounds . . . 51
+Article 84: Clerk of National Assembly . . . 52
+Article 85: Officers of National Assembly . . . 52
+Article 86: Presidential address to National Assembly and presidential messages . . . 52
+Article 87: Vote of censure . . . 52
+Article 88: Right to petition and make comments . . . 53
+Article 89: Public access and participation . . . 53
+PART VII: EXECUTIVE . . . 53
+Article 90: Principles of executive authority . . . 53
+Article 91: Presidency and vesting of executive authority . . . 53
+Article 92: Executive functions of President . . . 54
+Article 93: Confirmation of presidential decisions and instructions . . . 54
+Article 94: Approval of appointments and measures by National Assembly . . . 55
+Article 95: Ratification of appointments and measures by National Assembly . . . 55
+Article 96: Advisory Committee on prerogative of mercy . . . 55
+Article 97: Prerogative of mercy . . . 56
+Article 98: Protection of President from legal proceedings . . . 56
+Article 99: Returning officer for presidential elections . . . 57
+Article 100: Qualifications and disqualifications for nomination as presidential candidate . . . 57
+Article 101: Election of President . . . 58
+Article 102: Disqualification for run-off . . . 59
+Article 103: Election petition . . . 60
+Article 104: Transition period before assuming office . . . 60
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 5
+Article 105: Assumption of office . . . 61
+Article 106: Tenure of office of President and vacancy . . . 61
+Article 107: Removal of President on grounds of incapacity . . . 62
+Article 108: Impeachment of President . . . 63
+Article 109: Performance of executive functions during absence of President . . . 65
+Article 110: Vice-President, election to office and swearing in . . . 65
+Article 111: Tenure of office of Vice-President and vacancy . . . 65
+Article 112: Functions of Vice-President . . . 66
+Article 113: Cabinet . . . 67
+Article 114: Functions of Cabinet . . . 67
+Article 115: Proceedings of Cabinet meetings . . . 67
+Article 116: Ministers . . . 68
+Article 117: Provincial Minister . . . 68
+PART VIII: JUDICIARY . . . 69
+Article 118: Principles of judicial authority . . . 69
+Article 119: Vesting of judicial authority and performance of judicial function . . . 70
+Article 120: System of courts . . . 70
+Article 121: Ranking of Supreme and Constitutional Courts . . . 71
+Article 122: Functional independence of Judiciary . . . 71
+Article 123: Financial independence of Judiciary . . . 71
+Article 124: Establishment and composition of Supreme Court . . . 71
+Article 125: Jurisdiction of Supreme Court . . . 71
+Article 126: Sittings of Supreme Court . . . 72
+Article 127: Establishment and composition of Constitutional Court . . . 72
+Article 128: Jurisdiction of Constitutional Court . . . 72
+Article 129: Sittings of Constitutional Court . . . 73
+Article 130: Establishment and composition of Court of Appeal . . . 73
+Article 131: Jurisdiction of Court of Appeal . . . 73
+Article 132: Sittings of Court of Appeal . . . 74
+Article 133: Establishment and composition of High Court . . . 74
+Article 134: Jurisdiction of High Court . . . 74
+Article 135: Sittings of High Court . . . 74
+Article 136: Chief Justice . . . 74
+Article 137: Deputy Chief Justice . . . 75
+Article 138: President of Constitutional Court . . . 75
+Article 139: Deputy President of Constitutional Court . . . 75
+Article 140: Appointment of judges . . . 76
+Article 141: Qualification for appointment as judge . . . 76
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 6
+Article 142: Tenure of office of judge . . . 76
+Article 143: Removal of judge from office . . . 77
+Article 144: Procedure for removal of judge . . . 77
+Article 145: Appointment and retirement of judicial officers . . . 78
+Article 146: Chief Administrator of Judiciary . . . 78
+PART IX: GENERAL PRINCIPLES OF DEVOLVED GOVERNANCE . . . 79
+Article 147: System of devolved governance . . . 79
+Article 148: Sub-structures of local government . . . 79
+PART X: PROVINCES, DISTRICTS, WARDS AND PROVINCIAL ADMINISTRATION . . . 79
+Article 149: Provinces, districts and wards . . . 79
+Article 150: Provincial administration . . . 80
+PART XI: LOCAL GOVERNMENT . . . 80
+Article 151: System of local government . . . 80
+Article 152: Local authorities . . . 81
+Article 153: Election of councillors, composition of councils and tenure . . . 82
+Article 154: Mayor, deputy mayor, council chairperson and deputy council chairperson . . . 82
+Article 155: Conduct of councillor . . . 83
+Article 156: Accountability of councillors . . . 83
+Article 157: Vacation of office of councillor and vacancies . . . 83
+Article 158: By-election for council . . . 83
+Article 159: Local government elections tribunals and petitions . . . 84
+Article 160: Enforcement of judgment against local authority . . . 84
+Article 161: Revenue of local authorities . . . 84
+Article 162: Constituency Development Fund . . . 84
+Article 163: Local Government Equalisation Fund and funds for local authorities . . . 85
+Article 164: Legislation on local authorities . . . 85
+PART XII: CHIEFTAINCY AND HOUSE OF CHIEFS . . . 85
+Article 165: Institution of chieftaincy and traditional institutions . . . 85
+Article 166: Status of institution of chieftaincy . . . 86
+Article 167: Rights and privileges of chiefs . . . 86
+Article 168: Participation of chiefs in public affairs . . . 86
+Article 169: House of Chiefs and functions . . . 86
+Article 170: Tenure of office and vacancy . . . 87
+Article 171: Staff of House of Chiefs . . . 87
+Article 172: Legislation on House of Chiefs . . . 87
+PART XIII: PUBLIC SERVICE . . . 88
+Article 173: Values and principles of public service . . . 88
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 7
+Article 174: Constituting offices for public service . . . 89
+Article 175: Holding of office in public service . . . 89
+Article 176: Secretary to Cabinet . . . 89
+Article 177: Attorney-General . . . 90
+Article 178: Vacancy in office of Attorney-General . . . 90
+Article 179: Solicitor-General . . . 91
+Article 180: Director of Public Prosecutions . . . 91
+Article 181: Performance of functions of Director of Public Prosecutions during absence, illness or other cause . . . 92
+Article 182: Tenure of office of Director of Public Prosecutions . . . 92
+Article 183: Secretary to Treasury . . . 92
+Article 184: Permanent Secretaries . . . 93
+Article 185: Appointment of public officers . . . 94
+Article 186: Participation in politics . . . 94
+PART XIV: PENSION BENEFIT . . . 94
+Article 187: Pension benefit . . . 94
+Article 188: Review of pension benefit and tax exemption . . . 94
+Article 189: Payment of pension benefits . . . 95
+PART XV: DEFENCE AND NATIONAL SECURITY . . . 95
+Article 190: Principles relating to Defence Force and national security services . . . 95
+Article 191: Status of Defence Force and national security services . . . 95
+Article 192: Establishment of Defence Force and functions . . . 95
+Article 193: Establishment of national security services and functions . . . 96
+Article 194: Qualification to serve in Defence Force and national security service . . . 97
+Article 195: Deployment outside Republic . . . 97
+Article 196: Prohibition of activities relating to defence and national security . . . 97
+Article 197: Legislation on Defence Force and national security services . . . 97
+PART XVI: PUBLIC FINANCE AND BUDGET . . . 98
+Article 198: Principles relating to public finance . . . 98
+Article 199: Imposition of tax . . . 98
+Article 200: Consolidated Fund . . . 99
+Article 201: Withdrawal from Consolidated Fund . . . 99
+Article 202: Annual financial estimates of revenue and expenditure . . . 99
+Article 203: Appropriation Act, Supplementary Appropriation Act and Excess Expenditure Appropriation Act . . . 100
+Article 204: Limitation and conditions of warrant . . . 100
+Article 205: Budget and planning legislation . . . 100
+Article 206: Investment of public funds . . . 101
+Article 207: Borrowing and lending by Government . . . 101
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 8
+Article 208: Public debt . . . 101
+Article 209: Compensation Fund . . . 102
+Article 210: Public procurement and disposal of State assets . . . 102
+Article 211: Financial report of Republic . . . 102
+Article 212: Auditor-General's report . . . 102
+PART XVII: CENTRAL BANK . . . 103
+Article 213: Bank of Zambia . . . 103
+Article 214: Governor of Bank of Zambia . . . 103
+Article 215: Legislation on Bank of Zambia . . . 103
+PART XVIII: SERVICES, COMMISSIONS AND OTHER INDEPENDENT OFFICES . . . 104
+Article 216: Principles relating to commissions . . . 104
+Article 217: Parliamentary Service . . . 104
+Article 218: Parliamentary Service Commission . . . 104
+Article 219: Judicial Service . . . 105
+Article 220: Judicial Service Commission . . . 105
+Article 221: Civil Service . . . 105
+Article 222: Civil Service Commission . . . 105
+Article 223: Teaching Service . . . 106
+Article 224: Teaching Service Commission . . . 106
+Article 225: Zambia Correctional Service Commission . . . 106
+Article 226: Zambia Police Service Commission . . . 107
+Article 227: Local Government Service . . . 107
+Article 228: Local Government Service Commission . . . 107
+Electoral Commission of Zambia: Electoral Commission of Zambia . . . 108
+Article 229: Electoral Commission of Zambia . . . 108
+Article 230: Human Rights Commission . . . 108
+Article 231: Gender Equity and Equality Commission . . . 109
+Article 232: Emoluments Commission . . . 109
+Article 233: Lands Commission . . . 109
+Article 234: State Audit Commission . . . 109
+Article 235: Investigative Commissions . . . 110
+Article 236: Judicial Complaints Commission . . . 110
+Article 237: Police Public Complaints Commission . . . 110
+Article 238: Financial independence of commissions . . . 111
+Article 239: Expenses of commissions . . . 111
+Article 240: Qualifications of members of commissions . . . 111
+Article 241: General powers of commissions . . . 112
+Article 242: Legislation on commissions . . . 112
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
 constituteproject.org
-
 PDF generated: 31 Jul 2018, 01:32
-
 Zambia 1991 (rev. 2016)
-
 Page 9
+Article 243: Public Protector . . . 112
+Article 244: Functions of Public Protector . . . 112
+Article 245: Limitation of powers of Public Protector . . . 113
+Article 246: Performance of functions of Public Protector during absence, illness or other cause . . . 114
+Article 247: Tenure of office of Public Protector . . . 114
+Article 248: Report to National Assembly . . . 114
+Article 249: Auditor-General . . . 114
+Article 250: Functions of Auditor-General . . . 115
+Article 251: Performance of functions of Auditor-General during absence, illness or other cause . . . 115
+Article 252: Tenure of office of Auditor-General . . . 115
+PART XIX: LAND, ENVIRONMENT AND NATURAL RESOURCES . . . 116
+Article 253: Principles of land policy . . . 116
+Article 254: Classification and alienation of land and land tenure . . . 116
+Article 255: Principles of environmental and natural resources management and development . . . 117
+Article 256: Protection of environment and natural resources . . . 118
+Article 257: Utilisation of natural resources and management of environment . . . 118
+PART XX: GENERAL PROVISIONS . . . 118
+Article 258: Official language and use and status of local languages . . . 118
+Article 259: Nominations and appointments . . . 119
+Article 260: Oath of office and prescribed oaths . . . 119
+Article 261: Code of conduct and ethics . . . 119
+Article 262: Conflict of interest . . . 119
+Article 263: Declaration of assets . . . 119
+Article 264: Emoluments payable under Constitution . . . 119
+Article 265: Funding, expenses and emoluments charge on Consolidated Fund . . . 120
+Article 266: Definitions . . . 120
+Article 267: Interpretation of Constitution . . . 125
+Article 268: Grammatical variation . . . 125
+Article 269: Computation of time . . . 126
+Article 270: Power to appoint includes power to remove . . . 126
+Article 271: Implied power . . . 126
+Article 272: Legislation to give effect to Constitution . . . 126
+Article 273: Power to make statutory instrument, resolution or direction . . . 127
+Article 274: Time for performance of function . . . 127
+Article 275: Exercise of power between publication and commencement of Acts . . . 127
+ANNEX: FUNCTIONS OF NATIONAL, PROVINCIAL AND LOCAL LEVELS OF DEVOLVED GOVERNMENT (Article 147(2)) . . . 127
+A. Exclusive national functions . . . 127
+B. Concurrent national and provincial functions . . . 128
 
 [[END OF PAGE 9]]
 
@@ -420,7 +695,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - No person shall be deprived of his personal liberty except as may be authorised by law in any of the following cases:
 
-- in  execution  of  a  sentence  or  order  of  a  court,  whether  established  for Zambia or some other country, in respect of a criminal offence or which he has been convicted;
+- in  execution  of  a  sentence  or  order  of  a  court,  whether  established  for Zambia or some other country, in respect of a criminal offence of which he has been convicted;
 
 - in execution of an order of a court of record punishing him for contempt of that court or of a court inferior to it;
 
@@ -434,7 +709,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - for  the  purpose  of  preventing  the  spread  of  an  infectious  or  contagious disease;
 
-- in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of this care or treatment or the protection of the community;
+- in the case of a person who is, or is reasonably suspected to be, of unsound mind, addicted to drugs or alcohol, or a vagrant, for the purpose of his care or treatment or the protection of the community;
 
 Zambia 1991 (rev. 2016)
 
@@ -584,7 +859,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - for the purpose of or in connection with the prospecting for or exploitation of,  minerals  belonging  to  the  Republic  on  terms  which  provide  for  the respective interests of the persons affected;
 
-- in pursuance of a provision of the marketing of property of that description in  the  common  interests  of  the  various  persons  otherwise  entitled  to dispose of that property;
+- in pursuance of a provision for the marketing of property of that description in  the  common  interests  of  the  various  persons  otherwise  entitled  to dispose of that property;
 
 - by way of the taking of a sample for the purposes of any law;
 
@@ -610,7 +885,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - for  so  long  as  may  be  necessary  for  the  purpose  of  any  examination, investigation,  trial  or  inquiry  or,  in  the  case  of  the  land,  the  carrying  out thereon-
 
-- of work for the purpose of the conservation of natural resources or any description; or
+- of work for the purpose of the conservation of natural resources of any description; or
 
 - of  agricultural  development  or  improvement  which  the  owner  or occupier  of  the  land  has  been  required,  and  has  without  reasonable and lawful excuse refused or failed, to carry out;
 
@@ -626,7 +901,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - in  terms  of  any  law  vesting  any  such  property  or  rights  in  the President;
 
-- for  the  purpose  of  the  administration  or  disposition  of  such  property  or interest  or  right  by  the  President  in  implementation  of  a  comprehensive land  policy  or  of  a  policy  designed  to  ensure  that  the  statute  law,  the Common  Law  and  the  doctrines  of  equity  relating  to  or  affecting  the interest  in  or  rights  over  land,  or  any  other  interests  or  right  enjoyed  by Chiefs  and  persons  claiming  through  and  under  them,  shall  apply  with substantial uniformity throughout Zambia;
+- for  the  purpose  of  the  administration  or  disposition  of  such  property  or interest  or  right  by  the  President  in  implementation  of  a  comprehensive land  policy  or  of  a  policy  designed  to  ensure  that  the  statute  law,  the Common  Law  and  the  doctrines  of  equity  relating  to  or  affecting  the interest  in  or  rights  over  land,  or  any  other  interest  or  right  enjoyed  by Chiefs  and  persons  claiming  through  and  under  them,  shall  apply  with substantial uniformity throughout Zambia;
 
 - in  terms  of  any  law  providing  for  the  conversion  of  titles  to  land  from freehold to leasehold and the imposition of any restriction on subdivision, assignment or sub-letting;
 
@@ -660,7 +935,7 @@ Presumption of innocence in trials
 
 Trial in native language of accused
 
-- the  imposition  of  a  fine  on,  and  the  forfeiture  or  confiscation  of  the property of, a person who admits a contravention of any law relating to the imposition or collection of any duty or tax or to the prohibition or control of dealing or transactions in gold, currencies, or securities.
+- the  imposition  of  a  fine  on,  and  the  forfeiture  or  confiscation  of  the property of, a person who admits a contravention of any law relating to the imposition or collection of any duty or tax or to the prohibition or control of dealings or transactions in gold, currencies, or securities.
 
 - An  Act  of  Parliament  such  as  is  referred  to  in  clause  (1)  shall  provide  that  in default  of  agreement,  the  amount  of  compensation  shall  be  determined  by  a court of competent jurisdiction.
 
@@ -674,7 +949,7 @@ Trial in native language of accused
 
 - that  is  reasonably  required  for  the  purpose  of  protecting  the  rights  or freedoms of other persons;
 
-- that authorises an officer or agent of the Government, a local government authority  or  a  body  corporate  established  by  law  for  a  public  purpose  to enter on the premises or anything thereon for the purpose of any tax, rate or  due or in order to carry out work connected with any property that is lawfully on those premises and that belongs to that Government, authority, or body corporate, as the case may be; or
+- that authorises an officer or agent of the Government, a local government authority  or  a  body  corporate  established  by  law  for  a  public  purpose  to enter on the premises of any person in order to inspect those premises or anything thereon for the purpose of any tax, rate or due or in order to carry out work connected with any property that is lawfully on those premises and that belongs to that Government, authority, or body corporate, as the case may be; or
 
 - that authorises, for the purpose of enforcing the judgement or order of a court  in  any  civil  proceedings,  the  search  of  any  person  or  property  by order of a court or entry upon any premises by such order;
 
@@ -732,7 +1007,7 @@ and  except  with  his  own  consent  the  trial  shall  not  take  place  in  h
 
 - When  a  person  is  tried  for  any  criminal  offence,  the  accused  person  or  any person authorized by him in that behalf shall, if  he  so  requires  and  subject  to payment of such reasonable fee as may be prescribed by law, be given within a reasonable time after judgment a copy for the use of the accused person of any record of the proceedings made by or on behalf of the court.
 
-- No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description that the maximum penalty that might have been imposed for that offence at the time it was committed.
+- No person shall be held to be guilty of a criminal offence on account of any act or omission that did not, at the time it took place, constitute such an offence, and no penalty shall be imposed for any criminal offence that is severer in degree or description than the maximum penalty that might have been imposed for that offence at the time it was committed.
 
 - No person who shows that he has been tried by a competent court for a criminal offence and either convicted or acquitted shall again be tried for that offence or for any other criminal offence of which he could have been convicted at the trial for  that  offence,  except  upon  the  order  of  a  superior  court  in  the  course  of appeal or review proceedings relating to the conviction or acquittal.
 
@@ -742,7 +1017,7 @@ and  except  with  his  own  consent  the  trial  shall  not  take  place  in  h
 
 - No person shall be convicted of a criminal offence unless that offence is defined and the penalty is prescribed in a written law:
 
-Provided  that  nothing  in  this  clause  shall  prevent  a  court  of  record  from punishing  any  person  for  contempt  of  itself  notwithstanding  that  the  act  or omission constituting the contempt is not defined in written law and the penalty therefore is not so prescribed.
+Provided  that  nothing  in  this  clause  shall  prevent  a  court  of  record  from punishing  any  person  for  contempt  of  itself  notwithstanding  that  the  act  or omission constituting the contempt is not defined in written law and the penalty therefor is not so prescribed.
 
 - Any court or other adjudicating authority prescribed by law for the determination of the existence or extent of any civil right or obligation shall be established by law and shall be independent and impartial;  and  where proceedings for such a determination are instituted by any person before such a court or other adjudicating authority, the case shall be given a fair hearing within a reasonable time.
 
@@ -764,9 +1039,9 @@ PDF generated: 31 Jul 2018, 01:32
 
 - Nothing in  clause  (10)  shall  prevent  the  court  or  other  adjudicating  authority from excluding from the proceedings persons other than the parties thereto and their legal representatives to such extent as the court or other authority-
 
-- may  consider  necessary  or  expedient  in  circumstances  where  publicity would prejudice the interest of justice or in interlocutory proceedings; or
+- may  consider  necessary  or  expedient  in  circumstances  where  publicity would prejudice the interests of justice or in interlocutory proceedings; or
 
-- may be empowered by law to do in the interest of defence, public safety, public  order,  public  morality,  the  welfare  of  persons  under  the  age  of eighteen years or the protection of the private lives of persons concerned in the proceedings.
+- may be empowered by law to do in the interests of defence, public safety, public  order,  public  morality,  the  welfare  of  persons  under  the  age  of eighteen years or the protection of the private lives of persons concerned in the proceedings.
 
 - Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of-
 
@@ -774,7 +1049,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - paragraph  (d)  of  clause  (2)  to  the  extent  that  it  is  shown  that  the  law  in question  prohibits  legal  representation  before  a  subordinate  court  in proceedings for an offence under Zambian customary law, being proceedings against any person who, under that law, is subject to that law;
 
-- paragraph  (c)  of  clause  (2)  to  the  extent  that  it  is  shown  that  the  law  in question imposes reasonable conditions that must be satisfied if witnesses called  to  testify  on  behalf  of  an  accused  person  are  to  be  paid  their expenses out of public funds;
+- paragraph  (e)  of  clause  (2)  to  the  extent  that  it  is  shown  that  the  law  in question imposes reasonable conditions that must be satisfied if witnesses called  to  testify  on  behalf  of  an  accused  person  are  to  be  paid  their expenses out of public funds;
 
 - clause (2) to the extent that it is shown that the law provides that-
 
@@ -926,7 +1201,7 @@ and except so far as that provision or, the thing done under the authority there
 
 ### Article 22: Protection of Freedom of Movement
 
-- Subject to the other provision of this Article and except in accordance with any other written law, no citizen shall be deprived of his freedom of movement, and for the purposes of this Article freedom of movement means-
+- Subject to the other provisions of this Article and except in accordance with any other written law, no citizen shall be deprived of his freedom of movement, and for the purposes of this Article freedom of movement means-
 
 - the right to move freely throughout Zambia;
 
@@ -938,7 +1213,7 @@ and except so far as that provision or, the thing done under the authority there
 
 - Nothing contained in or done under the authority of any law shall be held to be inconsistent with or in contravention of this Article to the extent that it is shown that the law in question makes provision-
 
-- for  the  imposition  of  restrictions  that  are  reasonably  required  in  the interests  of  defence,  public  safety,  public  order,  public  morality  or  public health  or  the  imposition  or  restrictions  on  the  acquisition  or  use  by  any person  of  land  or  other  property  in  Zambia,  and  except  so  far  as  that provision or, the thing done under the authority thereof, as the case may be, is shown not be reasonably justifiable in a democratic society;
+- for  the  imposition  of  restrictions  that  are  reasonably  required  in  the interests  of  defence,  public  safety,  public  order,  public  morality  or  public health  or  the  imposition  of  restrictions  on  the  acquisition  or  use  by  any person  of  land  or  other  property  in  Zambia,  and  except  so  far  as  that provision or, the thing done under the authority thereof, as the case may be, is shown not to be reasonably justifiable in a democratic society;
 
 - for  the  imposition  of  restrictions  on  the  freedom  of  movement  of  any person who is not a citizen of Zambia;
 
@@ -1152,6 +1427,8 @@ PDF generated: 31 Jul 2018, 01:32
 
 and which may, make such order, issue such writs and give such directions as it may  consider  appropriate  for  the purpose  of  enforcing, or  securing  the enforcement of, any of the provisions of Articles 11 to 26 inclusive.
 
+2.
+
 - If in any proceedings in any subordinate court any question arises as to the contravention  of  any  of  the  provisions  of  Articles  11  to  26  inclusive,  the person presiding in that court may, and shall if any party to the proceedings so requests, refer the question to the High Court unless, in his opinion the raising of the question is merely frivolous or vexatious.
 
 - Any person aggrieved by any determination of the High Court under this Article may appeal therefrom to the Supreme Court:
@@ -1161,8 +1438,6 @@ Provided that no appeal shall lie from a determination of the High Court under t
 - No  application  shall  be  brought  under  clause  (1)  on  the  grounds  that  the provisions of Articles 11 to 26 (inclusive) are likely to be contravened by reason of proposals contained in any bill which, at the date of the application, has not become a law.
 
 - Parliament may confer upon the Supreme Court or High Court such jurisdiction or  powers  in  addition  to  those  conferred  by  this  Article  as  may  appear  to  be necessary or desirable of the purpose of enabling that Court more effectively to exercise  the  jurisdiction  conferred  upon  it  by  this  Article  or  of  enabling  any application for redress to be more speedily determined.
-
-2.
 
 Zambia 1991 (rev. 2016)
 
@@ -4150,7 +4425,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - A mayor and council chairperson shall be elected-
 
-- directly, in accordance withArticle 47 (3) during elections for councillors, as prescribed; and
+- directly, in accordance with Article 47 (3) during elections for councillors, as prescribed; and
 
 Zambia 1991 (rev. 2016)
 
@@ -4196,7 +4471,7 @@ Councillors shall be collectively and  individually accountable  to the national
 
 - the councillor dies.
 
-- Where a councillor resigns in accordance with clause (2) (b), (c), (d) and (e)the councillor shall not be eligible for re-election as councillor for the duration of the term of that council.
+- Where a councillor resigns in accordance with clause (2) (b), (c), (d) and (e) the councillor shall not be eligible for re-election as councillor for the duration of the term of that council.
 
 ### Article 158: By-election for council
 
@@ -4638,7 +4913,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - the  Solicitor-General  has  a  mental  or  physical  disability  that  makes  the Solicitor-General incapable of performing the functions of that office.
 
-- The Solicitor-General  shall  assist  the  Attorney-General  in  the  performance  of the Attorney- General's functions.
+- The Solicitor-General  shall  assist  the  Attorney-General  in  the  performance  of the Attorney-General's functions.
 
 - A function conferred on the Attorney-General by this Constitution or other law shall  be  performed  by  the  Solicitor-General  when  the  Attorney-General  is unable to act owing to illness or absence from office for a reason.
 
@@ -4832,7 +5107,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 ### Article 189: Payment of pension benefits
 
-- Apension benefit shall be paid promptly and regularly.
+- A pension benefit shall be paid promptly and regularly.
 
 - Where a pension benefit is not paid on a person's last working day, that person shall  stop  work  but  the  person's  name  shall  be  retained  on  the  payroll,  until payment of the pension benefit based on the last salary received by that person while on the payroll.
 
@@ -4858,7 +5133,7 @@ The Defence Force and national security services shall be-
 
 - subordinate to civilian authority, as vested in the State organs; and
 
-- adequately and properly equipped to enable themeffectively perform their functions.
+- adequately and properly equipped to enable them effectively perform their functions.
 
 ### Article 192: Establishment of Defence Force and functions
 
@@ -5104,7 +5379,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - Where  estimates  of  revenue  and  expenditure  have  been  approved  by  the National Assembly in accordance with Article 202, the Minister responsible for finance shall lay, before the National Assembly for enactment, an Appropriation Bill in respect of the approved estimates of expenditure.
 
-- The Minister responsible for finance shall, where the amount appropriated in an AppropriationAct for a financial year is insufficient to meet expenditure in that financial year, lay before the National Assembly for approval, in accordance with Article 202 (5), a supplementary estimate of expenditure.
+- The Minister responsible for finance shall, where the amount appropriated in an Appropriation Act for a financial year is insufficient to meet expenditure in that financial year, lay before the National Assembly for approval, in accordance with Article 202 (5), a supplementary estimate of expenditure.
 
 - Where  a  supplementary  estimate  of  expenditure  has  been  approved  by  the National  Assembly,  the  Minister  responsible  for  finance  shall  lay,  before  the National Assembly for enactment, a Supplementary Appropriation Bill in respect of the approved supplementary estimate of expenditure.
 
@@ -5144,8 +5419,6 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
-· Finance bills
-
 - the budget preparation process;
 
 - public  participation,  at  all  levels  of  government,  in  the  formulation  of financing  frameworks,  development  plans  and  preparation  of  annual budgets;
@@ -5159,6 +5432,8 @@ PDF generated: 31 Jul 2018, 01:32
 - Monies  forming  part  of  the  Consolidated  Fund  may  be  invested  into  readily marketable securities and deposits or other secure investments, with a financial institution approved by the Minister responsible for finance.
 
 - The  investment  of  monies  made  in  accordance  with  clause  (1)  shall  be prescribed.
+
+· Finance bills
 
 ### Article 207: Borrowing and lending by Government
 
@@ -5246,9 +5521,9 @@ Page 102
 
 constituteproject.org
 
-· Central bank
-
 # PART XVII: CENTRAL BANK
+
+· Central bank
 
 ### Article 213: Bank of Zambia
 (1) There is established the Bank of Zambia which shall be the central bank of the Republic
@@ -5357,8 +5632,6 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
-- Establishment of judicial council
-
 - appoint, confirm, promote and hear appeals from officers of the Parliamentary Service;
 
 - ensure efficient and effective functioning of the National Assembly;
@@ -5374,6 +5647,8 @@ PDF generated: 31 Jul 2018, 01:32
 - There is established the Judicial Service.
 
 - The office of judge, judicial officer, the members of staff of the Judicial Service Commission  and  such  other  officers  as  prescribed,  are  offices  in  the  Judicial Service.
+
+- Establishment of judicial council
 
 ### Article 220: Judicial Service Commission
 
@@ -5481,7 +5756,7 @@ constituteproject.org
 
 - appoint,  confirm,  promote  and  hear  appeals  from  officers  of  the  Zambia Police Service; and
 
-- perform such other functions as prescribed. Local Government Service Commission
+- perform such other functions as prescribed.
 
 ## Local Government Service Commission
 
@@ -5519,17 +5794,11 @@ Page 107
 
 constituteproject.org
 
-· Electoral commission
-
-· Referenda
-
-- Electoral districts
-
-· Human rights commission
-
 PDF generated: 31 Jul 2018, 01:32
 
-## Electoral Commission of Zambia: Electoral Commission of Zambia
+## Electoral Commission of Zambia
+
+· Electoral commission
 
 ### Article 229: Electoral Commission of Zambia
 
@@ -5541,6 +5810,8 @@ PDF generated: 31 Jul 2018, 01:32
 
 - conduct elections and referenda;
 
+· Referenda
+
 - register voters;
 
 - settle minor electoral disputes, as prescribed;
@@ -5551,7 +5822,11 @@ PDF generated: 31 Jul 2018, 01:32
 
 - delimit electoral boundaries; and
 
+- Electoral districts
+
 - perform such other functions as prescribed.
+
+· Human rights commission
 
 ## Human Rights Commission
 
@@ -5639,8 +5914,6 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
-· Counter corruption commission
-
 - The State Audit Commission shall-
 
 - subject  to  Article  249  (2)  oversee  the  operations  of  the  office  of  the Auditor-General, as prescribed;
@@ -5656,6 +5929,8 @@ PDF generated: 31 Jul 2018, 01:32
 There is established the following investigative commissions:
 
 - the Anti-Corruption Commission;
+
+· Counter corruption commission
 
 - the Drug Enforcement Commission; and
 
@@ -5751,8 +6026,6 @@ Page 111
 
 constituteproject.org
 
-· Ombudsman
-
 ### Article 241: General powers of commissions
 
 A commission-
@@ -5772,6 +6045,8 @@ A commission-
 The functions, composition, appointment of members, tenure of office of members, processes  and  procedures,  operations,  administration,  structures,  finances  and financial management of a commission shall be prescribed.
 
 ## Other Independent Offices
+
+· Ombudsman
 
 ## Public Protector
 
@@ -5804,8 +6079,6 @@ Page 112
 [[START OF PAGE 113]]
 
 constituteproject.org
-
-· International organizations
 
 PDF generated: 31 Jul 2018, 01:32
 
@@ -5850,6 +6123,8 @@ The Public Protector shall not investigate a matter which-
 - relates to an officer in the Parliamentary Service or Judicial Service;
 
 - involves  the  relations  or  dealings  between  the  Government  and  foreign government or an international organisation;
+
+· International organizations
 
 Zambia 1991 (rev. 2016)
 
@@ -5941,7 +6216,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - The Auditor-General shall not be subject to the direction or control of a person or an authority in the performance of the functions of office.
 
-### Article 251 Performance  of  functions  of  Auditor-General  during  absence,  illness  or  other cause<title.
+### Article 251: Performance of functions of Auditor-General during absence, illness or other cause
 
 Where  the  Auditor-General  is  absent  from  Zambia  or  is  unable  to  perform  the functions of office due to illness or other cause, the President shall appoint a person qualified to perform the functions of the Auditor-General until that appointment is revoked or until the Auditor-General returns to office.
 
@@ -5963,13 +6238,9 @@ Page 115
 
 constituteproject.org
 
-- Protection of environment
-
-- Ownership of natural resources
+PDF generated: 31 Jul 2018, 01:32
 
 - The Auditor-General may resign from office by three months' notice, in writing, to the President.
-
-PDF generated: 31 Jul 2018, 01:32
 
 # PART XIX: LAND, ENVIRONMENT AND NATURAL RESOURCES
 
@@ -5999,11 +6270,15 @@ PDF generated: 31 Jul 2018, 01:32
 
 - to be maintained and used for conservation and preservation activities;
 
+- Protection of environment
+
 - investments in land to also benefit local communities and their economy; and
 
 - plans for land use to be done in a consultative and participatory manner.
 
-### Article 254: Classification and alientation of land and land tenure
+### Article 254: Classification and alienation of land and land tenure
+
+- Ownership of natural resources
 
 - Land  shall  be  delimited  and  classified  as  State  land,  customary  land  and  such other classification, as prescribed.
 
@@ -6017,10 +6292,6 @@ Page 116
 
 constituteproject.org
 
-· Protection of environment
-
-· Reference to science
-
 PDF generated: 31 Jul 2018, 01:32
 
 - The President may, through the Lands Commission, alienate land to citizens and non-citizens, as prescribed.
@@ -6031,6 +6302,8 @@ PDF generated: 31 Jul 2018, 01:32
 
 ### Article 255: Principles of environmental and natural resources management and development
 
+· Protection of environment
+
 The management and development of Zambia's environment and natural resources shall be governed by the following principles:
 
 - natural  resources  have  an  environmental,  economic,  social  and  cultural value and this shall be reflected in their use;
@@ -6038,6 +6311,8 @@ The management and development of Zambia's environment and natural resources sha
 - the  person  responsible  for  polluting  or  degrading  the  environment  is responsible for paying for the damage done to the environment;
 
 - where there are threats of serious or irreversible damage  to the environment, lack of full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent environmental degradation;
+
+· Reference to science
 
 - the  conservation  and  protection  of  ecologically  sensitive  areas,  habitats, species and other environment shall be done in a sustainable manner;
 
@@ -6069,17 +6344,11 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
-· Protection of environment
-
-· Protection of environment
-
-Provisions for intellectual property
-
-· Official or national languages
-
 - access  to  environmental  information  to  enable  people  preserve,  protect and conserve the environment.
 
 ### Article 256: Protection of environment and natural resources
+
+· Protection of environment
 
 A  person  has  a  duty  to  co-operate  with  State  organs,  State  institutions  and  other persons to-
 
@@ -6093,6 +6362,8 @@ A  person  has  a  duty  to  co-operate  with  State  organs,  State  institutio
 
 ### Article 257: Utilisation of natural resources and management of environment
 
+· Protection of environment
+
 The  State  shall,  in  the  utilisation  of  natural  resources  and  management  of  the environment-
 
 - protect genetic resources and biological diversity;
@@ -6105,15 +6376,19 @@ The  State  shall,  in  the  utilisation  of  natural  resources  and  managemen
 
 - protect and enhance the intellectual property in, and indigenous knowledge of, biodiversity and genetic resources of local communities;
 
+· Provisions for intellectual property
+
 - ensure  that  the  environmental  standards  enforced  in  Zambia  are  of essential benefit to citizens; and
 
 - establish and implement mechanisms that address climate change.
 
 # PART XX: GENERAL PROVISIONS
 
-### Article 258: Official language and use and satus of local languages
+### Article 258: Official language and use and status of local languages
 
 - The official language of Zambia is English.
+
+· Official or national languages
 
 Zambia 1991 (rev. 2016)
 
@@ -6125,15 +6400,13 @@ Page 118
 
 constituteproject.org
 
-· Protection of language use
-
-· Earnings disclosure requirement
-
 PDF generated: 31 Jul 2018, 01:32
 
 - A  language,  other  than  English,  may  be  used  as  a  medium  of  instruction  in educational institutions or for legislative, administrative or judicial purposes, as prescribed.
 
 - The State shall respect, promote and protect the diversity of the languages of the people of Zambia.
+
+· Protection of language use
 
 ### Article 259: Nominations and appointments
 
@@ -6158,6 +6431,8 @@ A person holding a public office shall act in accordance with a code of conduct 
 ### Article 262: Conflict of interest
 
 A person holding a public office shall not act in a manner, or be in a position, where the  personal  interest  of  that  person  conflicts,  or  is  likely  to  conflict,  with  the performance of the functions of office.
+
+· Earnings disclosure requirement
 
 ### Article 263: Declaration of assets
 
@@ -6251,13 +6526,13 @@ PDF generated: 31 Jul 2018, 01:32
 
 'Court of Appeal' means the Court of Appeal established in this Constitution;
 
-'devolution' means a form of decentralisation where there is a transfer of rights,  functions  and  powers  or  an  office  from  the  central  government  or State institution to a sub-national authority or the bringing of a service that is  provided  at  central  government  level  to,  or  opening  of  a  branch  of  a public office or institution at, a sub- national level, and the word 'devolved' shall be construed accordingly;
+'devolution' means a form of decentralisation where there is a transfer of rights,  functions  and  powers  or  an  office  from  the  central  government  or State institution to a sub-national authority or the bringing of a service that is  provided  at  central  government  level  to,  or  opening  of  a  branch  of  a public office or institution at, a sub-national level, and the word 'devolved' shall be construed accordingly;
 
 'disability'  means  a  permanent  physical,  mental,  intellectual  or  sensory impairment  that  alone,  or  in  combination  with  social  or  environmental barriers, hinders the ability of a person to fully or effectively participate in an  activity  or  perform  a  function  as  specified  in  this  Constitution  or  as prescribed;
 
 'discrimination'  means  directly  or  indirectly  treating  a  person  differently on the basis of that person's birth, race, sex, origin, colour, age, disability, religion,  conscience,  belief,  culture,  language,  tribe,  pregnancy,  health,  or marital, ethnic, social or economic status;
 
-'district' means an administrative unit of a Province as provided inArticle 149;
+'district' means an administrative unit of a Province as provided in Article 149;
 
 'election' means an election to the office of President, National Assembly or a council;
 
@@ -6359,8 +6634,6 @@ Page 122
 
 constituteproject.org
 
-· Provisions for intellectual property
-
 PDF generated: 31 Jul 2018, 01:32
 
 'pension  benefit'  includes  a  pension,  compensation,  gratuity  or  similar allowance in respect of a person's service;
@@ -6389,6 +6662,8 @@ PDF generated: 31 Jul 2018, 01:32
 
 - intellectual property; or
 
+· Provisions for intellectual property
+
 - money, choses in action or negotiable instruments;
 
 'provincial administration' means the administrative secretariat established in accordance with Article 150;
@@ -6401,7 +6676,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 'public officer' means a person holding or acting in a public office, but does not include a State officer, councillor, a Constitutional office holder, a judge and a judicial officer;
 
-'public  service'  means  service  in  the  Civil  Service,  the  Teaching  Service, Defence  Force  and  National  Security  Service,  the  Zambia  Correctional Service,  the  Zambia  Police  Service,  Emoluments  Commission,  State  Audit Commission,  Lands  Commission,  Electoral  Commission,  Human  Rights Commission, Gender Equity and Equality Commission, the Anti-Corruption Commission, Drug EnforcementCommission, theAnti-Financial and Economic Crimes Commission, the Police and Public Complaints Commission, and service as a constitutional office holder, service in other offices, as prescribed;
+'public  service'  means  service  in  the  Civil  Service,  the  Teaching  Service, Defence  Force  and  National  Security  Service,  the  Zambia  Correctional Service,  the  Zambia  Police  Service,  Emoluments  Commission,  State  Audit Commission,  Lands  Commission,  Electoral  Commission,  Human  Rights Commission, Gender Equity and Equality Commission, the Anti-Corruption Commission, Drug Enforcement Commission, the Anti-Financial and Economic Crimes Commission, the Police and Public Complaints Commission, and service as a constitutional office holder, service in other offices, as prescribed;
 
 'rights and freedoms' means the human rights and fundamental freedoms provided for in the Bill of Rights;
 
@@ -6575,7 +6850,7 @@ PDF generated: 31 Jul 2018, 01:32
 
 - generally requires something to be prescribed.
 
-### Article 273: Power to make statutory instrument, resolutio nor direction
+### Article 273: Power to make statutory instrument, resolution or direction
 
 In  this  Constitution,  a  power  conferred  on  a  person  or  an  authority  to  make  a statutory  instrument,  a  resolution  or  direction,  includes  the  power  to  amend  or revoke the statutory instrument, resolution or direction.
 
@@ -6627,13 +6902,81 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
-· Census
+passports and National Registration
 
-· Protection of environment passports and National Registration Prisons Refugees Registration of Births and Deaths Wildlife Water resources management Energy and hydro electricity Petroleum and lubricants Public roads Defence, security, maintenance of law and order Citizenship and immigration Public enterprises Regulation of commerce and manufacturing Road traffic regulation Land, mines, minerals and natural resources Census and statistics Traditional leadership National archives National libraries National museums Tertiary Education
+Prisons
+
+Refugees
+
+Registration of Births and Deaths
+
+Wildlife
+
+Water resources management
+
+Energy and hydro electricity
+
+Petroleum and lubricants
+
+Public roads
+
+Defence, security, maintenance of law and order
+
+Citizenship and immigration
+
+Public enterprises
+
+Regulation of commerce and manufacturing
+
+Road traffic regulation
+
+Land, mines, minerals and natural resources
+
+Census and statistics • Census
+
+Traditional leadership
+
+National archives
+
+National libraries
+
+National museums
+
+Tertiary Education
 
 ## B. Concurrent national and provincial functions
 
-administration of justice legal affairs Administration of forests Agriculture Animal control and diseases Consumer protection Cultural matters Customary law Education at all levels, excluding tertiary education Environmental management Health services Housing Industrial promotion Language policy and the regulation of official languages Nature conservation Parliamentary Business
+administration of justice
+
+legal affairs
+
+Administration of forests
+
+Agriculture
+
+Animal control and diseases
+
+Consumer protection
+
+Cultural matters
+
+Customary law
+
+Education at all levels, excluding tertiary education
+
+Environmental management
+
+Health services
+
+Housing
+
+Industrial promotion
+
+Language policy and the regulation of official languages
+
+Nature conservation • Protection of environment
+
+Parliamentary Business
 
 Zambia 1991 (rev. 2016)
 
@@ -6643,29 +6986,41 @@ Page 128
 
 [[START OF PAGE 129]]
 
-PDF generated: 31 Jul 2018, 01:32
-
 constituteproject.org
 
-legislative procedures and processess
---- | ---
-• Protection of environment | Pollution control
-Population development
-Property transfer tax
-Public procurement
-Public transport
-Public works only in respect of the needs of provincial administration
-Provincial spatial planning and development
-• Protection of environment | Soil conservation
-Tourism, trade and commerce
-Urban and rural development
-Welfare services
-Industrial and labour relations
-Resettlement
-Investment
-• Telecommunications
+PDF generated: 31 Jul 2018, 01:32
 
-Telecommunication
+legislative procedures and processess
+
+Pollution control • Protection of environment
+
+Population development
+
+Property transfer tax
+
+Public procurement
+
+Public transport
+
+Public works only in respect of the needs of provincial administration
+
+Provincial spatial planning and development
+
+Soil conservation • Protection of environment
+
+Tourism, trade and commerce
+
+Urban and rural development
+
+Welfare services
+
+Industrial and labour relations
+
+Resettlement
+
+Investment
+
+Telecommunication • Telecommunications
 
 ## C. Local Authorities exclusive functions
 
@@ -6719,9 +7074,73 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
-·
+Abattoirs
 
-Protection of environment Abattoirs Ambulance services Archives Libraries Liquor licencing Museums Local spatial planning Cultural matters Recreation and amenities Sport Roads and traffic automation and maintenance Amusement facilities Billboards and the display of advertisements in public places Cemeteries, funeral parlours and crematoria Local cleansing Control of public nuisances Control of undertakings that sell liquor to the public Facilities for the accommodation, care and burial of animals Fencing and fences Licensing of dogs Licensing and control of undertakings that sell food to the public Local amenities Local sport facilities Markets Local parks and recreation Local roads Noise pollution Pounds Public places Refuse removal, refuse dumps and solid waste disposal Street trading Street lighting Traffic and parking Gardens and landscaping
+Ambulance services
+
+Archives
+
+Libraries
+
+Liquor licencing
+
+Museums
+
+Local spatial planning
+
+Cultural matters
+
+Recreation and amenities
+
+Sport
+
+Roads and traffic automation and maintenance
+
+Amusement facilities
+
+Billboards and the display of advertisements in public places
+
+Cemeteries, funeral parlours and crematoria
+
+Local cleansing
+
+Control of public nuisances
+
+Control of undertakings that sell liquor to the public
+
+Facilities for the accommodation, care and burial of animals
+
+Fencing and fences
+
+Licensing of dogs
+
+Licensing and control of undertakings that sell food to the public
+
+Local amenities
+
+Local sport facilities
+
+Markets
+
+Local parks and recreation
+
+Local roads
+
+Noise pollution • Protection of environment
+
+Pounds
+
+Public places
+
+Refuse removal, refuse dumps and solid waste disposal
+
+Street trading
+
+Street lighting
+
+Traffic and parking
+
+Gardens and landscaping
 
 Zambia 1991 (rev. 2016)
 
@@ -6737,6 +7156,82 @@ PDF generated: 31 Jul 2018, 01:32
 
 # Topic index
 
+A
+
+Advisory bodies to the head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55, 56
+
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90, 91
+
+B
+
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67, 93, 99
+
+C
+
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 68
+
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+
+Campaign financing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+Census . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 128
+
+Central bank . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+
+Civil service recruitment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 88
+
+Claim of universal suffrage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48
+
+Constitutional court powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 45, 49, 55, 58, 60, 61, 72, 84
+
+Constitutional court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Constitutional court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29, 43, 72
+
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 28, 73
+
+Counter corruption commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 110
+
+D
+
+Deputy executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+
+Designation of commander in chief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+Duty to obey the constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11, 53
+
+Duty to pay taxes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+Duty to serve in the military . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+E
+
+Earnings disclosure requirement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44, 119
+
+Economic plans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93, 98
+
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80, 108
+
+Electoral districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 108
+
+Eligibility for const court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37, 44
+
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+Eligibility for ordinary court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
 Zambia 1991 (rev. 2016)
 
 Page 131
@@ -6748,6 +7243,88 @@ Page 131
 constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
+
+Eligibility for supreme court judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 27, 31, 49
+
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Equality regardless of tribe or clan . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+Establishment of constitutional court . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 64, 75, 76, 78, 105
+
+Establishment of labor courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70, 74
+
+Establishment of military courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 25
+
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+F
+
+Finance bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42, 67, 101
+
+First chamber representation quotas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36, 38, 43, 44
+
+Foreign affairs representative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 24
+
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 24
+
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 24
+
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 25
+
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 23
+
+Freedom of press . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+G
+
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+
+God or other deities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+H
+
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54, 79, 89, 94
+
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49, 62, 63
+
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49, 62
+
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36, 38, 58, 59
+
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62
+
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+Human rights commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 108
 
 Zambia 1991 (rev. 2016)
 
@@ -6761,6 +7338,84 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
+I
+
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+Indigenous right to self governance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+
+Initiation of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41, 54, 67
+
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 41, 54, 67, 90
+
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 54, 113
+
+J
+
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20, 71
+
+L
+
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47, 50
+
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48, 51, 53, 100
+
+Legislative initiatives by citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53, 79
+
+Legislative oversight of the executive . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13, 52
+
+Limits on employment of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+M
+
+Mandatory retirement age for judges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+Municipal government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36, 70, 80, 98
+
+N
+
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+National anthem . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+National flag . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+National motto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+O
+
+Official or national languages . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118
+
+Official religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 112
+
+Ordinary court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Outside professions of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+
+Ownership of natural resources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18, 19, 116
+
+P
+
+Power to declare/approve war . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 67
+
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
 Zambia 1991 (rev. 2016)
 
 Page 133
@@ -6773,6 +7428,90 @@ constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
 
+Prison registry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+
+Prohibited political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 17
+
+Protection from false imprisonment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 30
+
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Protection of environment . . . . . . . . . . . . . . . . . . . . . . . . 18, 19, 35, 116, 117, 118, 128, 129, 130
+
+Protection of language use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 119
+
+Provisions for intellectual property . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 118, 123
+
+Public or private sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+
+Q
+
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+
+R
+
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+Reference to country's history . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+Reference to science . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 117
+
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 35, 48, 108
+
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38, 46, 49
+
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33, 34
+
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 25
+
+Restrictions on political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39, 40
+
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 71, 73, 74
+
+Right to conscientious objection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Right to culture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Right to form political parties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
+Right to pre-trial release . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 20
+
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
 Zambia 1991 (rev. 2016)
 
 Page 134
@@ -6784,6 +7523,62 @@ Page 134
 constituteproject.org
 
 PDF generated: 31 Jul 2018, 01:32
+
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+
+Right to renounce citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+
+Right to speedy trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+Rights of children . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14, 27
+
+S
+
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+Spending bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42, 100
+
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70, 71, 73, 74
+
+Subsidiary unit government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52, 68, 80, 98
+
+Supreme court selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+Supreme court term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+
+Supreme/ordinary court judge removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+
+T
+
+Tax bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 129
+
+Television . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+
+Treaty ratification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41, 54, 67, 90
+
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16, 20, 21
+
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+
+U
+
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 73
+
+V
+
+Veto override procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
 
 Zambia 1991 (rev. 2016)
 
