@@ -12,45 +12,43 @@ BBK 74.04 C 75
 
 C 75 Education for All Mid-Decade Assessment: Reaching the Un-Reached. – Almaty, 2008. – 248 p.
 
-ISBN 9965–32–615–0
+ISBN 9965-32-615-0
 
-The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries.
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of UNESCO concerning the legal status of any country, territory, city or area, or of its authorities, or concerning the delimitation of its frontiers or boundaries .
 
 BBK 74.04
 
-ISBN 9965–32–615–0
+ISBN 9965-32-615-0
 
-© Ministry of education and science of the Republic of Kazakhstan, 2008
-© Agency of the Republic of Kazakhstan for statistics, 2008
-© Association “Education for All in Kazakhstan”, 2008
+©  Ministry  of  education  and  science  of  the  Republic  of Kazakhstan,  2008 ©    Agency  of  the  Republic of Kazakhstan for statistics, 2008 ©    Association  'Education for  All in Kazakhstan', 2008
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-## KAZAKHSTAN – 2008
+## KAZAKHSTAN - 2008
 
-National Report on EFA Mid-Decade Assessment “Reaching the Un-Reached” has been developed by a team of representatives of the Ministry of Education and Science of the Republic of Kazakhstan, Agency for Statistics of the Republic of Kazakhstan, and Association “Education for All in Kazakhstan” under the support of UNESCO Almaty Cluster Office and UNESCO Bangkok.
+National Report on EFA Mid-Decade Assessment 'Reaching the Un-Reached' has been developed by a team of representatives of the Ministry of Education and Science of the Republic of Kazakhstan, Agency for Statistics of the Republic of Kazakhstan, and Association 'Education for All in Kazakhstan' under the support of UNESCO Almaty Cluster Office and UNESCO Bangkok.
 
-### Working Group members and their contribution to the Report development:
+### Working  Group  members  and  their  contribution  to  the  Report  development:
 
-- Shamshidinova Kulyash Nogataevna, Vice-minister of Education, National EFA Coordinator – overall supervision and coordination of theworking group activities.
+- Shamshidinova Kulyash Nogataevna, Vice-minister of Education, National EFA Coordinator – overall supervision and coordination of the working group activities.
 
-- Ischanova Mayrash Abishevna, chief expert of Pre-school and Secondary Education Department of MES RK – data search coordination, development of sections on EFA Goals 3 and 4.
+- Ischanova Mayrash Abishevna, chief expert of Pre-school and Secondary Education Department  of  MES  RK -data search coordination, development of sections on EFA Goals 3 and 4 .
 
-- Saymasaeva Gaukhar Aytzhanovna, chief expert of Pre-school and Secondary Education Department of MES RK – development of Section on EFA Goal 1.
+- Saymasaeva Gaukhar Aytzhanovna, chief expert of Pre-school and Secondary Education Department of MES RK -development of Section on EFA Goal 1 .
 
-- Aliakbarova Gulbaram Kasembaevna, chief expert of Pre-school and Secondary Education Department of MES RK – development of Section on EFA Goal 5.
+- Aliakbarova Gulbaram Kasembaevna, chief expert of Pre-school and Secondary Education Department of MES RK -development of Section on EFA Goal 5.
 
-- Shokamanov Yuriy Kamirovich, Deputy Chairman of Agency for Statistics of the Republic of Kazakhstan, Doctor, Professor – development of Introduction to the Report, collection, presentation and review of statistical data, development of Tables of Key indicators.
+- Shokamanov Yuriy Kamirovich, Deputy Chairman of Agency for Statistics of the Republic of  Kazakhstan,  Doctor,  Professor -development of Introduction to the Report,  collection,  presentation  and  review of statistical data, development of Tables of Key indicators.
 
-- Mityanina Yuliya Sergeevna, chief expert of Social and Gender Statistics Department of Agency for Statistics of the Republic of Kazakhstan – collection and summary of statistical data, development of Tables of Key indicators.
+- Mityanina Yuliya Sergeevna, chief expert of Social and Gender Statistics Department of Agency  for  Statistics  of  the  Republic  of  Kazakhstan -collection and summary of statistical data, development of Tables of Key indicators.
 
-- Tasbulatova Shaizada Umurzakovna, Candidate of Pedagogic Sciences, Docent, Director of Association “Education for All in Kazakhstan” – supervision of data collection and processing; development of Introduction to the National System of Education, Sections on EFA Goals 2 and 6, and Sections on “EFA Strategies and Guidelines, aimed at EFA Goals Achievement”and “System of Cooperation and Coordination of International Support in EFA Goals Achievement”; scientific editing of the Report.
+- Tasbulatova Shaizada Umurzakovna, Candidate of Pedagogic Sciences, Docent, Director of Association “Education for All in Kazakhstan” – supervision of data collection and processing; development of Introduction to the National System of Education, Sections on EFA Goals 2 and 6, and Sections on “EFA Strategies and Guidelines, aimed at EFA Goals Achievement” and “System of Cooperation and Coordination of International Support in EFA Goals Achievement”; scientific editing of the Report.
 
 - Beloslyudtseva Valentina Nikolaevna, Candidate of Pedagogic Sciences, Docent, expert of Association “Education for All in Kazakhstan” – development of sections on EFA Goals 3 and 4, summing up the six EFA Goals, development of recommendations on EFA Goals Achievement to 2015, scientific editing of the Report.
 
-- Begalinova Natalia Valerievna, expert of Association “Education for All in Kazakhstan” – technical editing of the Report.
+- Begalinova Natalia Valerievna, expert of Association 'Education for All in Kazakhstan' - technical editing of the Report.
 
 ### An important contribution to the Report was made by:
 
@@ -68,11 +66,11 @@ National Report
 
 - Zhukenov Zhumazhan Kamkenovich, head of Administration of Pre-school and Secondary Education Department of MES RK
 
-- Murzagaliyeva Bakhit Kenzhegalievna, chief expert of Pre-school andSecondary Education Department of MES RK
+- Murzagaliyeva Bakhit Kenzhegalievna, chief expert of Pre-school and Secondary Education Department of MES RK
 
 ### Assistance in selection of information resources for the Report was provided by:
 
-- UNICEF Country Office in Kazakhstan and personally Ms. Violetta Krasnikova,assistant on Children rights/education Programmes.
+- UNICEF Country Office in Kazakhstan and personally Ms. Violetta Krasnikova, assistant on Children rights/education Programmes.
 
 - Murzakhanova Karlygash Ibraykhanovna, ex-head, Unit of Pre-school and Secondary Education Department of MES RK
 
@@ -108,6 +106,7 @@ I believe that the present report will help to identify further perspectives and
 
 Minister of education and science
 of the Republic of Kazakhstan
+
 Zh. Tuimebaev
 
 5
@@ -120,53 +119,53 @@ National Report
 
 ## Contents
 
-Welcome speech of Minister . . . 5
-Abbreviations . . . 9
-Preface . . . 10
-1. INTRODUCTION . . . 11
+Welcome speech of Minister ........................................................ 5
+Abbreviations ........................................................................ 9
+Preface .................................................................................. 10
+1. INTRODUCTION ................................................................ 11
 1.1. Political, Economical, Social/Cultural Country Background on the base
 of appropriate indicators (GDP, income minimum, human development
-index, etc.) . . . 11
+index, etc.) ........................................................................... 11
 1.2. The Role of Education in the Context of National Development (highlighting
 linkages between education and MDGs and national priorities
-and strategies) . . . 14
+and strategies) ...................................................................... 14
 1.3. Statistic Data collection and information sources.
-2. INTRODUCTION TO THE NATIONAL EDUCATION SYSTEM . . . 19
-2.1. Education Policy . . . 19
+2. INTRODUCTION TO THE NATIONAL EDUCATION SYSTEM ............ 19
+2.1. Education Policy ............................................................... 19
 2.1.1. Constitution, education legislation with a stress on obligatory
 and free education. Status of EFA National Programme and National
-Plan of Actions. Country devotion to international education laws. . . . 19
-2.2. Education Structure: . . . 21
-2.2.1. Formation and development of current structure of education system. . . . 21
+Plan of Actions. Country devotion to international education laws. ........ 19
+2.2. Education Structure: ........................................................ 21
+2.2.1. Formation and development of current structure of education system. ... 21
 2.2.2. Education system description, including data base on quantity and
 enrolment (on levels, division into private and public (if any), on formal and
-non-formal forms of education. . . . 22
+non-formal forms of education. .................................................. 22
 2.2.3. Officials, responsible for education management and monitoring on
-different levels. . . . 23
-2.3. Education Financing . . . 23
+different levels. .................................................................... 23
+2.3. Education Financing .......................................................... 23
 2.3.1. Structure of financing of education with source indication (national, local
-government, etc). Financing decentralization. . . . 23
-2.3.2. Education percentage of GDP or GNP. . . . 24
-2.3.3. Percentage of education financing in local government . . . 25
+government, etc). Financing decentralization. ................................. 23
+2.3.2. Education percentage of GDP or GNP. ................................... 24
+2.3.3. Percentage of education financing in local government ................ 25
 2.3.4. Percentage from government, private sectors, donors. Donor’s investment
-into government financing (if any) . . . 26
+into government financing (if any) .............................................. 26
 2.3.5. Financing for disadvantaged groups (grants, scholarships, incentives,
-special programmes as inclusive education) . . . 26
+special programmes as inclusive education) ................................... 26
 2.4. Education development modern trends, including information-
 communication technologies (ICT) in education and innovation
-teaching methods. . . . 26
-2.5. Un-reached education groups and attendance problems . . . 31
-3. PROGRESS IN ACHIEVING EFA GOALS . . . 47
-3.1. Assessment of EFA Coordination . . . 47
+teaching methods. .................................................................. 26
+2.5. Un-reached education groups and attendance problems ................ 31
+3. PROGRESS IN ACHIEVING EFA GOALS ................................. 47
+3.1. Assessment of EFA Coordination ............................................ 47
 3.1.1. Existence of a functioning National EFA Forum with mandate and
-authority . . . 47
-3.1.2. Presence of an EFA National Coordinator with mandate and authority . . . 47
-3.1.3. Approval, publication, status of an EFA National Action Plan. . . . 48
+authority ............................................................................... 47
+3.1.2. Presence of an EFA National Coordinator with mandate and authority ... 47
+3.1.3. Approval, publication, status of an EFA National Action Plan. ............ 48
 3.1.4. Integration of an EFA National Action Plan in National Education
 Development Strategy and National Development planning framework
-and process . . . 49
-3.1.5. External and Internal funding support for EFA Programme . . . 49
-3.1.6. System of EFA assessment and monitoring. . . . 50
+and process ............................................................................ 49
+3.1.5. External and Internal funding support for EFA Programme ............... 49
+3.1.6. System of EFA assessment and monitoring. ............................... 50
 
 6
 
@@ -176,62 +175,62 @@ and process . . . 49
 
 Contents
 
-3.2. Implementation of EFA Goal . . . 51
-3.2.1. Implementation of EFA Goal 1 . . . 51
-3.2.1.1 Strategy of achieving EFA Goal 1: . . . 51
-3.2.1.1.1 Description of EFA goal and concrete national issues. . . . 51
+3.2. Implementation of EFA Goal .................................................. 51
+3.2.1. Implementation of EFA Goal 1 ............................................. 51
+3.2.1.1 Strategy of achieving EFA Goal 1: ........................................ 51
+3.2.1.1.1 Description of EFA goal and concrete national issues. ............... 51
 3.2.1.1.2 General policy: legislation and legal framework, programmes,
-including disabled groups. . . . 52
+including disabled groups. ....................................................... 52
 3.2.1.1.3 Responsible agencies for management, monitoring and EFA
-goal implementation. . . . 55
-3.2.1.1.4 EFA goal monitoring and assessment. . . . 57
-3.2.1.1.5 Source of budgeting and financing for goals implementation. . . . 60
-3.2.1.2 Progress in achieving EFA Goal 1 ( using indicators) . . . 62
-3.2.1.3. Recommendations for adjustment . . . 67
-3.2.2 Implementation of EFA Goal 2 . . . 68
-3.2.2.1 Strategy of achieving EFA Goal 2 . . . 69
-3.2.2.1.1 Description of EFA goal and concrete national issues. . . . 69
+goal implementation. .............................................................. 55
+3.2.1.1.4 EFA goal monitoring and assessment. ................................ 57
+3.2.1.1.5 Source of budgeting and financing for goals implementation. ....... 60
+3.2.1.2 Progress in achieving EFA Goal 1 ( using indicators) ................... 62
+3.2.1.3. Recommendations for adjustment ...................................... 67
+3.2.2 Implementation of EFA Goal 2 .............................................. 68
+3.2.2.1 Strategy of achieving EFA Goal 2 ......................................... 69
+3.2.2.1.1 Description of EFA goal and concrete national issues. ............... 69
 3.2.2.1.2 General policy: legislation and legal framework, programmes,
-including disabled groups. . . . 69
+including disabled groups. ....................................................... 69
 3.2.2.1.3 Responsible agencies for management, monitoring and EFA
-goal implementation. . . . 71
-3.2.2.1.4 EFA goal monitoring and assessment. . . . 71
-3.2.2.1.5 Source of budgeting and financing for goal implementation. . . . 72
-3.2.2.2 Progress in achieving EFA Goal 2 (using indicators) . . . 72
-3.2.2.3 Recommendations for adjustment . . . 90
-3.2.3. Implementation of EFA Goal 3 . . . 90
-3.2.3.1. Strategy of achieving EFA Goal 3: . . . 90
-3.2.3.1.1. Description of EFA goal and concrete national issues. . . . 90
+goal implementation. .............................................................. 71
+3.2.2.1.4 EFA goal monitoring and assessment. ................................ 71
+3.2.2.1.5 Source of budgeting and financing for goal implementation. ........ 72
+3.2.2.2 Progress in achieving EFA Goal 2 (using indicators) .................... 72
+3.2.2.3 Recommendations for adjustment ....................................... 90
+3.2.3. Implementation of EFA Goal 3 ............................................. 90
+3.2.3.1. Strategy of achieving EFA Goal 3: ........................................ 90
+3.2.3.1.1. Description of EFA goal and concrete national issues. .............. 90
 3.2.3.1.2. General policy: legislation and legal framework,
-programmes, including disabled groups. . . . 92
+programmes, including disabled groups. ........................................ 92
 3.2.3.1.3 Responsible agencies for management, monitoring and EFA
-goal implementation. . . . 101
-3.2.3.1.4 EFA goal monitoring and assessment. . . . 102
-3.2.3.1.5 Source of budgeting and financing for goals implementation. . . . 104
-3.2.3.2. Progress in achieving EFA Goal 3 ( using indicators) . . . 105
-3.2.3.3 Recommendations for adjustment . . . 105
-3.2.4. Implementation of EFA Goal 4 . . . 106
-3.2.4.1. Strategy of achieving EFA Goal 4: . . . 106
-3.2.4.1.1. Description of EFA goal and concrete national issues. . . . 106
+goal implementation. ............................................................. 101
+3.2.3.1.4 EFA goal monitoring and assessment. ............................... 102
+3.2.3.1.5 Source of budgeting and financing for goals implementation. ...... 104
+3.2.3.2. Progress in achieving EFA Goal 3 ( using indicators) ................. 105
+3.2.3.3 Recommendations for adjustment ...................................... 105
+3.2.4. Implementation of EFA Goal 4 ............................................ 106
+3.2.4.1. Strategy of achieving EFA Goal 4: ....................................... 106
+3.2.4.1.1. Description of EFA goal and concrete national issues. ............. 106
 3.2.4.1.2. General policy: legislation and legal framework,
-programmes, including disabled groups. . . . 109
+programmes, including disabled groups. ....................................... 109
 3.2.4.1.3 Responsible agencies for management, monitoring
-and EFA goal implementation. . . . 111
-3.2.4.1.4 EFA goal monitoring and assessment. . . . 113
-3.2.4.1.5 Source of budgeting and financing for goals implementation. . . . 113
-3.2.4.2 Progress in achieving EFA Goal 4 (using indicators) . . . 113
-3.2.4.3 Recommendations for adjustment . . . 114
-3.2.5. Implementation of EFA Goal 5 . . . 115
-3.2.5.1. Strategy of achieving EFA Goal 5: . . . 115
-3.2.5.1.1. Description of EFA goal and concrete national issues. . . . 115
+and EFA goal implementation. ................................................... 111
+3.2.4.1.4 EFA goal monitoring and assessment. ............................... 113
+3.2.4.1.5 Source of budgeting and financing for goals implementation. ...... 113
+3.2.4.2 Progress in achieving EFA Goal 4 (using indicators) ................... 113
+3.2.4.3 Recommendations for adjustment ...................................... 114
+3.2.5. Implementation of EFA Goal 5 ............................................ 115
+3.2.5.1. Strategy of achieving EFA Goal 5: ....................................... 115
+3.2.5.1.1. Description of EFA goal and concrete national issues. ............. 115
 3.2.5.1.2. General policy: legislation and legal framework,
-programmes, including disabled groups. . . . 115
+programmes, including disabled groups. ....................................... 115
 3.2.5.1.3 Responsible agencies for management, monitoring
-and EFA goal implementation. . . . 116
-3.2.5.1.4 EFA goal monitoring and assessment. . . . 117
-3.2.5.1.5 Source of budgeting and financing for goals implementation. . . . 124
-3.2.6. Implementation of EFA Goal 6 . . . 125
-3.2.6.1. Strategy of achieving EFA Goal 6: . . . 125
+and EFA goal implementation. ................................................... 116
+3.2.5.1.4 EFA goal monitoring and assessment. ............................... 117
+3.2.5.1.5 Source of budgeting and financing for goals implementation. ...... 124
+3.2.6. Implementation of EFA Goal 6 ............................................ 125
+3.2.6.1. Strategy of achieving EFA Goal 6: ....................................... 125
 
 7
 
@@ -241,24 +240,24 @@ and EFA goal implementation. . . . 116
 
 National Report
 
-3.2.6.1.1. Description of EFA goals and concrete national issues. . . . 125
+3.2.6.1.1. Description of EFA goals and concrete national issues. ............ 125
 3.2.6.1.2. General policy: legislation and legal framework, programmes,
-including disabled groups. . . . 125
-3.2.6.2 Progress in achieving EFA Goal 6 ( using indicators) . . . 126
-3.2.6.3 Recommendations for adjustment . . . 145
+including disabled groups. ...................................................... 125
+3.2.6.2 Progress in achieving EFA Goal 6 ( using indicators) ................. 126
+3.2.6.3 Recommendations for adjustment ...................................... 145
 4. SUMMARIZE FOR ALL SIX GOALS: EDUCATION RISK FACTORS
 policy and budget, economical factors, social and cultural factors,legal factors,
 geographic factors, language, education facilities technical equipment, staff capacity of education system, political unrest and conflicts, risk factors HIV/AIDS -
-drugs, prostitution, etc., natural disasters, chid labour, slaves-trade, migration, etc. . . . 146
+drugs, prostitution, etc., natural disasters, chid labour, slaves-trade, migration, etc. ... 146
 5. EFA STRATEGIES AND LEADING ISSUES (EFA FLAGSHIP ISSUES),
-DIRECTED ON EFA GOALS ACHIEVEMENT . . . 151
+DIRECTED ON EFA GOALS ACHIEVEMENT ................................. 151
 6.MANAGING INTERNATIONAL SUPPORT AND COORDINATION ON
-EFA GOALS ACHIEVEMENT . . . 158
+EFA GOALS ACHIEVEMENT ...................................................... 158
 7.OVERALL CONCLUSIONS AND POLICY RECOMMENDATIONS ON
-EFA GOALS ACHIEVEMENT UNTIL 2015 . . . 160
-References . . . 162
-Annex A . . . 165
-Annex B. Statistical annex . . . 183
+EFA GOALS ACHIEVEMENT UNTIL 2015 ..................................... 160
+References ............................................................................. 162
+Annex A .................................................................................. 165
+Annex B. Statistical annex ........................................................ 183
 
 8
 
@@ -268,42 +267,7 @@ Annex B. Statistical annex . . . 183
 
 ## Abbreviations
 
-GDP – Gross Domestic Product
-HIV – Human Immunodeficiency Virus
-SMSE – State Mandatory Standard of Education
-DFA – Dakar Framework for Action
-UNT – Unified National Testing
-UNTC – Unified National Testing Centre
-ETF – European Training Foundation
-ICT – Information and Communication Technologies
-IUQ – Institute for Upgrading Qualifications
-HDI – Human Development Index
-KAE – Kazakh Academy of Education
-CTE – Complex Testing of Entrants
-MES – Ministry of Education and Science of RK
-MLSP – Ministry of Labour and Social Protection of RK
-NSC – National Supervisory Centre
-NGO – Non-governmental organization
-PSVET – Primary and Secondary Vocational Education
-NCSSET – National Centre for State Standards in Education and Testing
-NCAQE – National Centre for Assessment of Quality of Education
-EFA – Education for All
-LE – Life Expectancy
-ISC – Interim State Control
-PISA – Programme for International Student Assessment
-PMPC – Psychological, Medical and Pedagogical Consultation
-PPP – Purchasing Power Parity
-UNDP – United Nations Development Programme
-RIUQAASE – Republican Institute for up-grading qualification of administrative and academic
-staff of education
-SVET – Secondary Vocational Education and Training
-AIDS – Acquired Immune Deficiency Syndrome
-TIMSS – Trends in International Mathematics and Science Study
-CARK – Central Asia and Republic of Kazakhstan
-SALPR Centre – Social Adaptation and Labor-Professional Rehabilitation Centre for children
-and teenagers with development issues
-CLC – Community Learning Centre
-MDG – Millennium Development Goals
+GDP - Gross Domestic Product HIV - Human Immunodeficiency Virus SMSE - State Mandatory Standard of Education DFA - Dakar Framework for Action UNT - Unified National Testing UNTC - Unified National Testing Centre ETF - European Training Foundation ICT - Information and Communication Technologies IUQ - Institute for Upgrading Qualifications HDI - Human Development Index KAE - Kazakh Academy of Education CTE - Complex Testing of Entrants MES - Ministry of Education and Science of RK MLSP - Ministry of Labour and Social Protection of RK NSC - National Supervisory Centre NGO - Non-governmental organization PSVET - Primary and Secondary Vocational Education NCSSET - National Centre for State Standards in Education and Testing NCAQE - National Centre for Assessment of Quality of Education EFA - Education for All LE - Life Expectancy ISC - Interim State Control PISA - Programme for International Student Assessment PMPC - Psychological, Medical and Pedagogical Consultation PPP - Purchasing Power Parity UNDP - United Nations Development Programme RIUQAASE - Republican Institute for up-grading qualification of administrative and academic staff of education SVET - Secondary Vocational Education and Training AIDS - Acquired Immune Deficiency Syndrome TIMSS - Trends in International Mathematics and Science Study CARK - Central Asia and Republic of Kazakhstan SALPR Centre - Social Adaptation and Labor-Professional Rehabilitation Centre for children and teenagers with development issues CLC - Community Learning Centre MDG - Millennium Development Goals
 
 9
 
@@ -315,7 +279,7 @@ National Report
 
 ## Preface
 
-Dakar Framework for Action, adopted at the World Education Forum (Dakar, Senegal, 2000), views Education for All as a unique opportunity for lifelong learning in the spirit of an “extended perspective”. DFA provided for regular monitoring and reporting on progress made and flaws in the EFA programme implementation through sustainable review of the national policy and international support to assurance of quality education for all.
+Dakar Framework for Action, adopted at the World Education Forum (Dakar, Senegal, 2000), views Education for All as a unique opportunity for lifelong learning in the spirit of an 'extended perspective'. DFA provided for regular monitoring and reporting on progress made and flaws in the EFA programme implementation through sustainable review of the national policy and international support to assurance of quality education for all.
 
 The present Report contains Mid-Decade Assessment of development and implementation of Educational Programmes in Kazakhstan, i.e. national and special educational programmes and projects, activities and services, aimed to meet basic needs in child, young people and adult education.
 
@@ -327,7 +291,7 @@ The document is composed of a review of political, economic, social and cultural
 
 The Report has two annexes, A and B. Annex A provides diverse information, supplementing/itemizing regulations and conclusions of relevant sections of the Report. Annex B is a statistical annex, which includes tables of key indicators, recommended by UNESCO Bangkok Office.
 
-The Report was being developed, based on a review of strategic documents of Kazakhstan, through analysis and synthesis of national and foreign statistical data in the field of economy and social sector, education, healthcare, labour and employment, other related sectors; the authors used many scientific, official and other sources of information and materials.
+The Report was being developed, based on a review of strategic documents of Kazakhstan, through analysis and synthesis of national and foreign statistical data in the field of economy  and  social  sector,  education,  healthcare,  labour  and  employment,  other  related  sectors;  the  authors  used  many  scientific,  official  and  other  sources  of  information  and  materials.
 
 While developing the Report, we took into consideration recommendations of Guidelines developed jointly by expert group of UNESCO, UNICEF and UNESCO Institute for Statistics, for a more quality description of successes and weaknesses in EFA Goals achievement.
 
@@ -463,7 +427,7 @@ The Law of the Republic of Kazakhstan 'On social, medical and educational correc
 
 A network of a new type of institutions is being developed for the children who require psychological and pedagogical as well as medical and social assistance. Activities are underway to create a state system, aimed to early reveal deviations in the development of children and provide them with special assistance.
 
-Additional steps are being taken to develop profile teacher-training higher institutions, to increase
+Additional steps are being taken to develop profile teacher-training higher institutions, to increase the State Order for teachers training, allocate significant budgetary funds on retraining and professional development of staff, salary increase, increase the social status of a teacher. Kazakhstan tends to improve material well-being of teachers, enhance teaching activities, support teachers-innovators who are actively involved not only in educational, but also in research activities. Activities are underway to reform, improve and develop a network of the system of professional development of teaching staff.
 
 14
 
@@ -472,8 +436,6 @@ Additional steps are being taken to develop profile teacher-training higher inst
 [[START OF PAGE 15]]
 
 Introduction
-
-the State Order for teachers training, allocate significant budgetary funds on retraining and professional development of staff, salary increase, increase the social status of a teacher. Kazakhstan tends to improve material well-being of teachers, enhance teaching activities, support teachers-innovators who are actively involved not only in educational, but also in research activities. Activities are underway to reform, improve and develop a network of the system of professional development of teaching staff.
 
 In the process of ensuring quality of education, a significant role is played by the National Centre for Assessment of Quality of Education (NCAQE), a working body of the national system for assessment of quality of education (NSAQE), established in accordance with the State Programme «Education» (2000). Its goal is to achieve the quality of education that would guarantee competitiveness of the national system of education and citizens of the Republic of Kazakhstan at international educational arena and labour market. Basic NSAQE principles are objectivity, publicity, transparency, equity, periodicity, continuity, accountability, and sustainability of development.
 
@@ -492,7 +454,7 @@ This refers, in particular, to such programmes as Strategy «Kazakhstan-2030» a
 
 This approach can be demonstrated by Millennium Development Goals (2005), where MDG 2 - «to ensure universal primary education» - is adopted as one of the key factors to achieve objectives of human and social development in connection with poverty reduction (MDG 1), extended rights and opportunities of women (MDG 3), improved maternal health (MDG 5), and environmental sustainability (MDG 7).
 
-Millennium Development Goals state that, on the whole, Goal 2 - 'To ensure universal primary education', is not relevant for Kazakhstan. At the moment, the objective is much wider, i.e. to ensure access to quality secondary education for all children of the country, irrelevant of their domicile and social status of their families. And along with great achievements in this field, there are still difficulties and unaddressed issues. First of all, they concern access to quality secondary education for children from rural areas, representatives of vulnerable groups, children with special needs. Information and communication technologies (ICT) in educational process are not utilized to their full capacity. There's still a lot to be done to develop complementary/ non-formal education in the context of access assurance to the lifelong leaning and life skills development, especially for adults and people from rural areas and remote oblasts.
+Millennium Development Goals state that, on the whole, Goal 2 - 'To ensure universal primary education', is not relevant for Kazakhstan. At the moment, the objective is much wider, i.e. to ensure access to quality secondary education for all children of the country, irrelevant of their domicile and social status of their
 
 15
 
@@ -501,6 +463,8 @@ Millennium Development Goals state that, on the whole, Goal 2 - 'To ensure unive
 [[START OF PAGE 16]]
 
 National Report
+
+families. And along with great achievements in this field, there are still difficulties and unaddressed issues. First of all, they concern access to quality secondary education for children from rural areas, representatives of vulnerable groups, children with special needs. Information and communication technologies (ICT) in educational process are not utilized to their full capacity. There’s still a lot to be done to develop complementary/non-formal education in the context of access assurance to the lifelong leaning and life skills development, especially for adults and people from rural areas and remote oblasts.
 
 #### Trends in education development prior to and after Dakar Forum.
 The opportunity to execute the right for education in many respects depends on social, economic and demographic conditions of the country.
@@ -622,23 +586,14 @@ Thus, the group of citizens, whose right to free-of-charge education is guarante
 The main principles of the state policy in the field of education defined by the Law are:
 
 - equality of the rights of all citizens of the Republic of Kazakhstan to education;
-
 - availability of education of all levels to the population in view of their intellectual develoment, psycho-physiological and individual qualities of each citizen;
-
 - secular nature of education;
-
 - stimulation of erudition of a person and development of endowments;
-
 - continuity of the educational process through providing the coherence of its steps; unity of education and up-bringing;
-
 - a variety of education institutions in the form of ownership, the form of training and education, the bias of education;
-
 - humanistic and developing character of education;
-
 - integration of education, science and production;
-
 - vocational counselling of the students;
-
 - informatization of the system of education.
 
 The model of the national system of education defined by the Law is focused, first of all, on ensuring a high quality of training and education, development of highly professional personnel with a new way of thinking and a higher level of civic consciousness which adequately meets changing social and economic conditions of the country.
@@ -666,11 +621,8 @@ Kazakhstan shows adherence to the international legislation in the field  of  ed
 In conformity with Clause 22 of the Law On Education, the following 4 educational levels have been established in Kazakhstan.
 
 - Early childhood care and education.
-
 - Secondary education.
-
 - Higher education
-
 - Post-higher education
 
 1.  According to the character of educational programmes, education is subdivided into general education and professional education.
@@ -737,20 +689,16 @@ The three-year programme of equipping schools with multimedia classrooms, in whi
 
 #### 2.2.2.  Education system description, including data base on quantity and enrolment (on levels, division into private and official property (if any), on formal and non-formal forms of education.
 
-In order to prevent duplication of information on this item, there are given references to materials (text and statistical) reflecting the above-stated issue 2 .
+In order to prevent duplication of information on this item, there are given references to materials (text and statistical) reflecting the above-stated issue².
 
 Educational system, including levels and form of ownership - item 2.2.
 
 Basic statistics by number and coverage:
 
-- Early childhood care and education - EFA Goal 1, item 3.2.1.1.1., Fig. 1, 2;Appendix A 7.
-
+- Early childhood care and education - EFA Goal 1, item 3.2.1.1.1., Fig. 1, 2; Appendix A 7.
 - Secondary education - EFA Goal 2, item 3.2.2.2., Fig. 22-24, tables 3.1., 3.3., 3.4; EFA Goal 3, item 3.2.3.1.2., Fig.26; item 3.2.3.1.4., table 3.21.
-
 - Higher education - Task 3, item 3.2.3.1.2., table 3.17.
-
 - Post-higher education - Section on EFA Goal , item 3.2.4.1.2
-
 - Non-formal sector of education - Section on EFA Goal 2, item 3.2.2.2; Section on EFA Goal, item 3.2.4.1.2
 
 > 2 Beside the data specified in references, detailed statistical materials can be found in Appendix B.
@@ -785,7 +733,7 @@ The law 'On education' in detail defines the functions and distribution of dutie
 
 Clause 43 of the Law On education about financing of learning institutions specifies that the basis of state guarantees for citizens of the Republic of Kazakhstan of: 1) secondary general and primary vocational training is budgetary financing of state-owned learning institutions; 2) secondary vocational training - budgetary financing per one student for the period of training under the general educational programme of 10-11 (12) years; 3) secondary vocational, higher and post-higher education - the state educational order. The government annually allocates budgetary funds for education in view of priority.
 
-Financing of the state-owned learning institutions is carried out from budgetary funds with observance of the requirements established by the state mandatory standards of educational levels, and in view of monetary
+Financing of the state-owned learning institutions is carried out from budgetary funds with observance of the requirements established by the state mandatory standards of educational levels, and in view of monetary and natural norms, and payment norms defined by the legislation of the Republic of Kazakhstan. Financing of multi-grade schools should account for expenses that are not dependent on the number of students.
 
 23
 
@@ -794,8 +742,6 @@ Financing of the state-owned learning institutions is carried out from budgetary
 [[START OF PAGE 24]]
 
 National Report
-
-and natural norms, and payment norms defined by the legislation of the Republic of Kazakhstan. Financing of multi-grade schools should account for expenses that are not dependent on the number of students.
 
 Other financial and material intakes, including foreign currency, are used by official educational bodies in accordance with the procedures established by the Government of the Republic of Kazakhstan.
 
@@ -807,22 +753,22 @@ Table 2.1 presents data on financing of various educational levels, including da
 
 Table 2.1. Dynamics of expenses, allocated to education, by organizations of Ministry of Education and Science (with the account of ADB loans), (in million tenge)
 
-| Educational Level | 2001 (report) | 2002 (report) | 2003 (report) | 2004 (report) | 2005 (report) | 2006 (plan) |
-| --- | --- | --- | --- | --- | --- | --- |
-| Pre-school education | 3 322 | 3 880 | 4 553 | 6 542 | 9 589 | 12 700 |
-| as % to GDP | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 |
-| Secondary general education | 67 224 | 81 744 | 98 906 | 127 432 | 157 369 | 195 465 |
-| as % to GDP | 2.0 | 2.2 | 2.2 | 2.3 | 2.1 | 2.0 |
-| Primary vocational education | 3 018 | 3 910 | 5 299 | 6 714 | 9 076 | 10 421 |
-| as % to GDP | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 |
-| Secondary vocational education | 2 528 | 2 989 | 3 502 | 5 160 | 7 351 | 10 158 |
-| as % to GDP | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 |
-| Higher education | 9 344 | 11 783 | 12 763 | 15 423 | 24 956 | 37 800 |
-| as % to GDP | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.4 |
-| Other educational programmes | 17 640 | 14 671 | 24 526 | 34 303 | 53 395 | 66 140 |
-| as % to GDP | 0.5 | 0.4 | 0.6 | 0.6 | 0.7 | 0.7 |
-| Total | 103 076 | 118 977 | 149 549 | 195 574 | 261 736 | 332 684 |
-| as % to GDP | 3.1 | 3.2 | 3.4 | 3.5 | 3.5 | 3.4 |
+Educational Level | 2001 (report) | 2002 (report) | 2003 (report) | 2004 (report) | 2005 (report) | 2006 (plan)
+--- | --- | --- | --- | --- | --- | ---
+Pre-school education | 3 322 | 3 880 | 4 553 | 6 542 | 9 589 | 12 700
+as % to GDP | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1
+Secondary general education | 67 224 | 81 744 | 98 906 | 127 432 | 157 369 | 195 465
+as % to GDP | 2.0 | 2.2 | 2.2 | 2.3 | 2.1 | 2.0
+Primary vocational education | 3 018 | 3 910 | 5 299 | 6 714 | 9 076 | 10 421
+as % to GDP | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1
+Secondary vocational education | 2 528 | 2 989 | 3 502 | 5 160 | 7 351 | 10 158
+as % to GDP | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.1
+Higher education | 9 344 | 11 783 | 12 763 | 15 423 | 24 956 | 37 800
+as % to GDP | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 | 0.4
+Other educational programmes | 17 640 | 14 671 | 24 526 | 34 303 | 53 395 | 66 140
+as % to GDP | 0.5 | 0.4 | 0.6 | 0.6 | 0.7 | 0.7
+Total | 103 076 | 118 977 | 149 549 | 195 574 | 261 736 | 332 684
+as % to GDP | 3.1 | 3.2 | 3.4 | 3.5 | 3.5 | 3.4
 
 Source: Statistical data of MES RK
 
@@ -856,14 +802,14 @@ The issue of decentralization of management, including financing, seems to be mo
 
 Table 2.2. Share of expenditure for education in state budget expenditures (million tenge) and gross domestic product (GDP)
 
-|  | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 (plan) |
-| --- | --- | --- | --- | --- | --- | --- |
-| State budget | 17 234 | 14 290 | 21 059 | 31 032 | 57 506 | 84 733 |
-|  | 16.72% | 12.01% | 14.08% | 15.87% | 21.97% | 25.47% |
-| Local budget | 85 842 | 104 687 | 128 490 | 164 542 | 204 230 | 247 951 |
-|  | 83.28% | 87.99% | 85.92% | 84.13 % | 78.03% | 74.53% |
-| Total | 103 076 | 118 977 | 149 549 | 195 574 | 261 736 | 332 684 |
-| as % to GDP | 3.1 | 3.4 | 3.4 | 3.5 | 3.5 | 3.4 |
+ | 2001 | 2002 | 2003 | 2004 | 2005 | 2006 (plan)
+--- | --- | --- | --- | --- | --- | ---
+State budget | 17 234 | 14 290 | 21 059 | 31 032 | 57 506 | 84 733
+ | 16.72% | 12.01% | 14.08% | 15.87% | 21.97% | 25.47%
+Local budget | 85 842 | 104 687 | 128 490 | 164 542 | 204 230 | 247 951
+ | 83.28% | 87.99% | 85.92% | 84.13 % | 78.03% | 74.53%
+Total | 103 076 | 118 977 | 149 549 | 195 574 | 261 736 | 332 684
+as % to GDP | 3.1 | 3.4 | 3.4 | 3.5 | 3.5 | 3.4
 
 Source: Statistical data of MES RK
 
@@ -952,7 +898,9 @@ National Report
 
 Table 2.4. Data on informatization of institutions of secondary general education (as of July 25, 2006)
 
-Oblast | Total | Primary schools | Basic schools | Secondary schools | Rural areas: Total | Rural areas: PS | Rural areas: BS | Rural areas: SS | City: Total | City: PS | City: BS | City: SS
+Oblast | Total | including: |  |  | of which |  |  |  |  |  |  |
+ |  | Primary schools | Basic schools | Secondary schools | Rural areas |  |  |  | City |  |  |
+ |  |  |  |  | Total | PS | BS | SS | Total | PS | BS | SS
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Akmola | 686 | 102 | 152 | 432 | 571 | 82 | 147 | 342 | 115 | 20 | 5 | 90
 Aktobe | 474 | 80 | 99 | 295 | 379 | 74 | 93 | 212 | 95 | 6 | 6 | 83
@@ -988,7 +936,7 @@ One of the basic directions of activities in the Ministry of Education and Scien
 
 Introduction to the National Education System
 
-ated for institutions of secondary education, of which 49 – in the Kazakh language. All of them were replicated and gratuitously handed over to learning institutions for use in the educational process.
+ated for institutions of secondary education, of which 49 - in the Kazakh language. All of them were replicated and gratuitously handed over to learning institutions for use in the educational process.
 
 In order to develop distance education it was planned to begin introduction of a pilot project 'On-line training system', including creation of electronic courses, textbooks and complexes of teaching aids, and development of pedagogical technologies of the organizing the educational process in electronic networks.
 
@@ -1018,7 +966,7 @@ Within the framework of creating the programme of 'e-government' Governmental or
 
 Now the index of computer literacy of the population makes 4.3%, users of the Internet - 2.8%. Item 8.1.9 of the Programme stipulates creation of the Kazakhstan educational portal in 2007. The ministry carries out spade-work on organizing a contest on creating the portal. 15,584,676,000 tenge is allocated for implementation of this Programme.
 
-ICT are applied in practically all fields of life – from teaching using them in the pre-school institutions
+ICT are applied in practically all fields of life - from teaching using them in the pre-school institutions
 
 29
 
@@ -1032,7 +980,7 @@ to creation of the electronic government. In the system of education of the last
 
 In the system of higher education all institutions were equipped with sophisticated computer equipment; they all have access to the global network of Internet.
 
-According to the governmental order of the Republic of Kazakhstan of March 9, 2005 # 216 the Kazakhstan-Singapore project, 2005-2010 is being executed on equipping Kazakhstan schools with up-to-date multimedia equipment. During the project execution schools of the Republic receive multimedia computer classrooms with applied software in network technologies CRMS, LMS, Courseware in the Kazakh, English and Russian languages. In 2005 multimedia classrooms with the software were delivered to 797 schools, in 2006 – 900 classrooms were installed.
+According to the governmental order of the Republic of Kazakhstan of March 9, 2005 # 216 the Kazakhstan-Singapore project, 2005-2010 is being executed on equipping Kazakhstan schools with up-to-date multimedia equipment. During the project execution schools of the Republic receive multimedia computer classrooms with applied software in network technologies CRMS, LMS, Courseware in the Kazakh, English and Russian languages. In 2005 multimedia classrooms with the software were delivered to 797 schools, in 2006 - 900 classrooms were installed.
 
 In order to coordinate scientific-methodical, design-implementation, teaching, industrial and teaching-consulting activities on realization of the strategic goals and state programmes in the field of informatization of education, the governmental order of the Republic of Kazakhstan of March 24, 1998 #256 at the Ministry of Education and Science of the Republic of Kazakhstan created the State science-methodical centre of informatization of education (SCIE) and 16 regional centres of new technologies in education.
 
@@ -1088,7 +1036,7 @@ In accordance with this law the comprehensive support system has the following s
 - staff recruitment;
 - scientific and methodical backing.
 
-A special place in support of children with limited abilities is allocated to duly revealing, diagnostics and consultation of children. With this purpose in 2002 there was created in the Republic the diagnostic-advisory service consisting of two consecutive stages: Screening children with the risk of deviations in development in organizations of obstetric aid and first medical and sanitary aid (FMSA); comprehensive profound diagnostics of mental development in psychological and medical and pedagogical consultations (PMPC³). For the period from 2000 to 2006 the number of PMPC increased from 14 to 56.
+A special place in support of children with limited abilities is allocated to duly revealing, diagnostics and consultation of children. With this purpose in 2002 there was created in the Republic the diagnostic-advisory service consisting of two consecutive stages: Screening children with the risk of deviations in development in organizations of obstetric aid and first medical and sanitary aid (FMSA); comprehensive profound diagnostics
 
 31
 
@@ -1097,6 +1045,8 @@ A special place in support of children with limited abilities is allocated to du
 [[START OF PAGE 32]]
 
 National Report
+
+of mental development in psychological and medical and pedagogical consultations (PMPC³). For the period from 2000 to 2006 the number of PMPC increased from 14 to 56.
 
 In order to develop PMPC activity there were developed normative legal documents, i.e. Rules about the order of organizing activities of psychological and medical and pedagogical consultations, over 20 instructive and methodological, teaching and methodological manuals on psychological and medical and pedagogical diagnostics under PMPC; forms of statistical departmental reporting of PMPC and a number of others.
 
@@ -1112,19 +1062,16 @@ Within the framework of the State programme of development of education in the R
 
 Due to transition of secondary schools to 12-year training there were prepared and directed for discussion to the interested ministries and departments:
 
-draft state standards of special education - 'Conditions of development of State mandatory standard of education (SMSE) for students with limited development abilities'; 
-
-methodical recommendations on organizing the activity of a psychological and medical and pedagogical consultation in the pre-school, general educational and special correctional learning institutions; 
-
-draft teaching programmes for disabled children 'correctional and educational programmes for children with heavy abnormalities of intelligence' which were directed to medical and social institutions of the system of social protection for approbation; 
-
-a draft experimental programme of including children with limited abilities in educational environment. 
+- draft state standards of special education - 'Conditions of development of State mandatory standard of education (SMSE) for students with limited development abilities';
+- methodical recommendations on organizing the activity of a psychological and medical and pedagogical consultation in the pre-school, general educational and special correctional learning institutions;
+- draft teaching programmes for disabled children 'correctional and educational programmes for children with heavy abnormalities of intelligence' which were directed to medical and social institutions of the system of social protection for approbation;
+- a draft experimental programme of including children with limited abilities in educational environment.
 
 Thus, it is possible to ascertain that normative and legislative framework for securing rights of children with special needs in training was established in the Republic.
 
 Research is being carried out to identify the content of special education for all categories of children with various deviations in development. Training seminars, scientific and practical conferences are held in
 
-> ³ Psychological, medical and pedagogical consultation (PMPC) is a state-owned learning institution carrying out diagnostics, Psychological, medical and educational testing and consulting of children and teenagers with an aim of prescribing social and medical and educational correctional support, type and form of education, creating an individual rehabilitation programme. PMPC is a primary stage of the special system of education, which are created – one PMPC per 60 thousand children.
+> 3 	 Psychological, medical and pedagogical consultation (PMPC) is a state-owned learning institution carrying out diagnostics, Psychological, medical and educational testing and consulting of children and teenagers with an aim of prescribing social and medical and educational correctional support, type and form of education, creating an individual rehabilitation programme. PMPC is a primary stage of the special system of education, which are created - one PMPC per 60 thousand children.
 
 32
 
@@ -1151,21 +1098,14 @@ A pilot research in 9 pre-school institutions of general purpose in Almaty showe
 #### School education.
 There has historically developed and exists a differentiated network of special correctional schools and boarding schools for children with limited abilities in the development, consisting of 8 basic types for children:
 
-- with oligophrenia (mental abnormalities) (auxiliary school);
-
-- who cannot hear (the deaf);
-
-- who cannot hear well and became deaf later in childhood;
-
-- who cannot see (the blind);
-
-- visually impaired;
-
-- with abnormalities of locomotorium;
-
-- with heavy dysphasia;
-
-- with delay of mental development.
+1) with oligophrenia (mental abnormalities) (auxiliary school);
+2) who cannot hear (the deaf);
+3) who cannot hear well and became deaf later in childhood;
+4) who cannot see (the blind);
+5) visually impaired;
+6) with abnormalities of locomotorium;
+7) with heavy dysphasia;
+8) with delay of mental development.
 
 Today 17030 children with limited development abilities are trained in 101 correctional institutions by
 
@@ -1199,7 +1139,7 @@ By the level of health certain categories of children with disabilities cannot v
 
 Training of children with disabilities in-home and on the basis of a hospital is carried out according to Rules about the order of organizing the educational process for children with disabilities who are having treatment in stationary treatment-and-prophylactic, rehabilitation and other organizations of public health services, rendering assistance to parents in in-home training children with disabilities by teaching and learning institutions approved by order of the Minister of Education and Science of November 26, 2004 № 974, coordinated with the Ministry of Health of RK and registered in the Ministry of Justice of RK of December 23, 2004 № 3303.
 
-#### Inclusive education (Inclusion of children with limited abilities in general education) .
+#### Inclusive education (Inclusion of children with limited abilities in general education).
 Under modern sociopolitical conditions the issues of building new relations between the person, the society and the state became priority in Kazakhstan. Since 2000 a new educational policy for children with limited abilities has been developed, and there goes search for optimal ways of socialization, education, social support and adaptation
 
 34
@@ -1259,7 +1199,7 @@ North-Kazakhstan | 3 | 0 | 7 | 5
 South-Kazakhstan | 2 | 1 | 16 | 0
 City of Astana | 3 | 2 | 2 | 4
 City of Almaty | 2 | 1 | 3 | 0
-State-owned institutions | 1 |  |  |
+State-owned institutions | 1 |  |  | 
 TOTAL: | 56 | 13 | 112 | 223
 
 Source: Statistical data of MES of RK
@@ -1291,7 +1231,7 @@ In 2006 within the framework of the campaign 'Let us protect each child', Astana
 According to the Agreement about cooperation between the Public Association 'Kazakhstan Special Olympics' and the Ministry of Education and Science sporting activities are being held among children with mental abnormalities and children with disabilities according to the annual schedule of athletic activities for the masses. A combined team of Kazakhstan Special Olympics annually wins prizes in the World Winter and Summer Special Olympic Games.
 
 #### Material resources and teaching and methodological framework of education for children with special needs in education.
-Since 2004 with the financial resources allocated from the state budget through the transfers the correctional learning institutions have been annually provided with special equipment, auxiliary technical and compensatory training aids: classroom amplification equipment (wireless and wire educational classrooms, audio aids), tiflo devices (reading machines, tiflo technical material); relaxation rooms, logopaedic and medical training equipment. In 2004 112.2 million tenge was allocated for these purposes, in 2005 – 202.8 million tenge, in 2006 – 118.2 million tenge.
+Since 2004 with the financial resources allocated from the state budget through the transfers the correctional learning institutions have been annually provided with special equipment, auxiliary technical and compensatory training aids: classroom amplification equipment (wireless and wire educational classrooms, audio aids), tiflo devices (reading machines, tiflo technical material); relaxation rooms, logopaedic and medical training equipment. In 2004 112.2 million tenge was allocated for these purposes, in 2005 - 202.8 million tenge, in 2006 - 118.2 million tenge.
 
 Today 28 special learning institutions for hearing and visually impaired children are equipped with computers and modern information technologies, which promote social adaptation and rehabilitation of children with limited development abilities, children with disabilities, increase the qualification level of teachers, and enhance creative development of individual rehabilitation programmes for each child.
 
@@ -1323,7 +1263,8 @@ Available correctional schools do not satisfy the need for training children wit
 
 Table 2.6. Network and student body of special correctional learning institutions for children with limited development abilities (according to data of regional departments of education as of October, 2006)
 
-Oblast | Revealed children at the age of 7-18 | Special schools: Network | Special schools: Contingent | Special Grades: Network | Special Grades: Contingent | % coverage
+Oblast | Revealed children at the age of 7-18 | Of them covered by: Special schools |  | Special Grades |  | % coverage
+ |  | Network | Contingent | Network | Contingent |
 --- | --- | --- | --- | --- | --- | ---
 TOTAL: | 102427 | 101 | 17030 | 766 | 6883 | 23,3
 Akmola | 3904 | 6 | 1002 | 58 | 392 | 35,7
@@ -1405,7 +1346,7 @@ One of the main duties of the state is care for children requiring constant supp
 
 The full state care is provided for children-orphans, children without parental care, children with limited abilities. In 159 learning institutions there are brought up over 14 thousand children-orphans and children without parental care, of them 147 are state organizations with the contingent of  14234 children, 12 - private with the contingent of 565 children. Of the total number of such organizations 75 are children's homes and boarding schools, 23 - young people houses, 19 orphanages.
 
-The state takes steps on creating the necessary conditions for training and education of children of this category. Programmes of creating conditions approached to family ones are more widely applied (allocation of brothers and sisters, their friends to one 'family', assigning one block for the 'family'). Thus, within the framework of the Law of the Republic of Kazakhstan 'Children's family-type villages and young people houses' (December 13, 2000 № 113-II) there were opened children's family-type vil -lages in six oblasts. Each village like a small children's town consists of several families, where live from seven to ten children-orphans at the age of <18 and education is carried out by a mother-teacher.
+The state takes steps on creating the necessary conditions for training and education of children of this category. Programmes of creating conditions approached to family ones are more widely applied (allocation of brothers and sisters, their friends to one 'family', assigning one block for the 'family'). Thus, within the framework of the Law of the Republic of Kazakhstan 'Children's family-type villages and young people houses' (December 13, 2000 № 113-II) there were opened children's family-type villages in six oblasts. Each village like a small children's town consists of several families, where live from seven to ten children-orphans at the age of <18 and education is carried out by a mother-teacher.
 
 23 Young people Houses function for the graduates from among children-orphans where they live until
 
@@ -1419,7 +1360,7 @@ Introduction to the National Education System
 
 they reach the age of 23.
 
-Beside this, in accordance with the Law of the Republic of Kazakhstan (November, 2004) 'Ratification of the Contract between the Government of the Republic of Kazakhstan and the International Society on creation of SOS children's villages 'SOS KINDERDORF INTERNATIONAL' there were created and successfully operate in the cities of  Almaty,  Astana and Temirtau, Karaganda oblast, 'SOS- KINDERDORF villages' where 305 children live.
+Beside this, in accordance with the Law of the Republic of Kazakhstan (November, 2004) 'Ratification of the Contract between the Government of the Republic of Kazakhstan and the International Society on creation of SOS children's villages 'SOS KINDERDORF INTERNATIONAL' there were created and successfully operate in the cities of Almaty, Astana and Temirtau, Karaganda oblast, 'SOS- KINDERDORF villages' where 305 children live.
 
 There proceeds work on deinstitualization of children's homes and boarding establishments. Since 2003 there has been carried out a reorganization of the existing system of placing up children without parental care through introduction of new forms of family education. According to the Law of the Republic of Kazakhstan 'Of marriage and family' (December 17, 1998) in order to develop a patronage form of education by governmental order of March 11, 2003 № 306 there were adopted the Rules of money resources payments for keeping a child assigned to a patronage tutor. Today more than two thousand children-orphans live in patronage families.
 
@@ -1448,8 +1389,8 @@ National Report
 
 to families with children' was adopted on June 28, 2005 according to which along with a lumpsum birth grant (at the amount of 15-fold monthly settlement parameter), paid since 2003 irrespective of family incomes, there was stipulated introduction of two complementary types of children's grants:
 
-- from January 2006 – children's allowances until the age 18 which are paid to families with an average per capita income below the cost of a food basket (the size of children's allowances makes 1 monthly settlement parameter per month per each child (1030 tenge in 2006);
-- from July 2006 – child care grants until the age of 1 paid monthly irrespective of the family income.
+- from January 2006 - children's allowances until the age 18 which are paid to families with an average per capita income below the cost of a food basket (the size of children's allowances makes 1 monthly settlement parameter per month per each child (1030 tenge in 2006);
+- from July 2006 - child care grants until the age of 1 paid monthly irrespective of the family income.
 
 A new quality break-through is to be made in strengthening the social orientation of reforms. In the Address of the President to the people 'New Kazakhstan in the new world', 2007 it is emphasized 'The main thing for us is to create for the Kazakhstan citizens all the necessary conditions for realization of important and clear vital principles: provision for the family, accommodation possession, education for children, health improvement, and pension savings'. Over 108 billion tenge will be allocated for increasing social payments in 2008, which is sure to promote further decrease in poverty level in the country.
 
@@ -1485,6 +1426,7 @@ Year | Amount
 Introduction to the National Education System
 
 2006 | 1600 million tenge
+--- | ---
 2007 | 1900 million tenge
 
 Source: Statistical data of MES RK
@@ -1508,7 +1450,7 @@ Unfortunately, regional disproportions are observed in implementation of governm
 A certain share of children requiring material aid does not receive any social help. Lack of financial means of their families does not allow the children to conduct the lifestyle which could be any similar to the lifestyle of the other part of the society. It limits their access to quality education, negatively affects their future life, can lead to reproduction or inheritance of poverty.
 
 #### Attendance problems.
-Coverage of this issue represents a certain difficulty caused by difference in approaches of responsible authorities to accounting attendance of children and teenagers in learning institutions. According to the Report on human development 'Education for all: the basic goal of a new millennium', 2005 and the Report of the educational centre 'Bilim – Central Asia', 'Children at school, but out of training',
+Coverage of this issue represents a certain difficulty caused by difference in approaches of responsible authorities to accounting attendance of children and teenagers in learning institutions. According to the Report on human development 'Education for all: the basic goal of a new millennium', 2005 and the Report of the educational centre 'Bilim - Central Asia', 'Children at school, but out of training',
 
 43
 
@@ -1531,7 +1473,7 @@ Among other reasons of evading studies and absence from lessons the official str
 
 In addition to it, the results of the pilot anonymous questioning held by the Association 'Education for all in Kazakhstan' also specified such reasons of absence from schools as lack of motivation, spiteful attitude, in some cases even psychological pressure and violence that teenagers experience from their coevals and senior children. E.g., 12% of the interrogated students marked that the reason of their absence from schools is difficulties in relations with coevals, 5% - issues in relations with teachers. The social reasons were also mentioned: unemployment, drunkenness, lack of parental control, parasitical attitudes, and immoral behaviour of parents.
 
-It should be stated that the official data do not reflect reasons specified by the international organizations, such as absenteeism and being late for lessons due to other difficulties – undeveloped public transport infrastructure, irregular transport at rural areas, temporary closure of schools due to issues with central heating, etc. These reasons affect the quality of the education, in remote areas in particular.
+It should be stated that the official data do not reflect reasons specified by the international organizations, such as absenteeism and being late for lessons due to other difficulties - undeveloped public transport infrastructure, irregular transport at rural areas, temporary closure of schools due to issues with central heating, etc. These reasons affect the quality of the education, in remote areas in particular.
 
 The existing mechanism of providing access to education is directed mainly at registration of children at residence and coverage in school education. However, it is not efficient enough for tracking absenteeism, analysis of reasons for absenteeism. As a consequence, it is difficult to draw objective conclusions on a real situation with absence from school, and, finally, on provision of access to quality education. There are divergences between statistics of educational authorities and other departments. E.g., data of law enforcement bodies who find children who were not simply missing more than 10 school days a year, but did not attend school for a long time, sometimes for years, involuntarily suggest that the departmental statistics reflect desire to make-believe. E.g., in 2000 according to the Ministry of Internal Affairs 7600 children did not attend school, while according to MES the number of such children did not exceed 300. Without objective analysis and comparison of data from various departments and NGOs the issue of fair and overall coverage of all children of school age will not be solved by any educational programmes.
 
@@ -1590,7 +1532,7 @@ In Kazakhstan about half of children with issues in development are trained in s
 
 A political resolution should be made on Kazakhstan model of correctional help and effective integration of children with limited abilities into society. At present Kazakhstan has a system of separate training of children having special needs in education. In expert opinion, the society and the state are not ready to execute inclusive education. Adopted legislative and normative documents poorly reflect the issues of children with special needs in development, and the allocated scarce budgetary funds do not permit to solve an issue of integrating these children into society.
 
-To execute equal rights of children with limited abilities to acquire education, not only their physical access to the general learning institutions is required, but also creation of conditions that are adequate to special needs of these children. It is attainable only with the help of the state policy of inclusive education of children with limited abilities. Transition to inclusive education demands undertaking comprehensive steps – starting with development of curricula, programmes and teaching materials, formation and professional development of teachers, creation of relevant educational environment and finishing with change in the attitude of the society to such children.
+To execute equal rights of children with limited abilities to acquire education, not only their physical access to the general learning institutions is required, but also creation of conditions that are adequate to special needs of these children. It is attainable only with the help of the state policy of inclusive education of children with limited abilities. Transition to inclusive education demands undertaking comprehensive steps - starting with development of curricula, programmes and teaching materials, formation and professional development of teachers, creation of relevant educational environment and finishing with change in the attitude of the society to such children.
 
 46
 
@@ -1607,9 +1549,7 @@ Progress in Achieving EFA Goals
 #### 3.1.1. Existence of a functioning National EFA Forum with mandate and authority.
 Government of RK takes steps directed at realization of substantive provisions of the Dakar Framework for Action - the basic document reflecting the world community commitment to provision for the right to quality education for all. With the support of UNESCO Kazakhstan became the first country in the oblast hosting the Central Asia and Kazakhstan (CARK) Education Forum, 2002, having become a unique mechanism of regional cooperation, exchange of experience and innovative ideas, and an opportunity to compare its rate with the world trends in the field of education. The First Forum gave the regional community an opportunity to define the degree of conformity of the national system of education with or its discrepancy to tendencies and dynamics within the world processes.
 
-In 2006 considering importance of implementation of the Dakar Framework for Action EFA Resource Centre was created as a working body of EFA National Forum within Republican Institute for up-grading qualification of administrative and academic staff of education (RIUQAASE). It has been assigned to create and implement a mechanism of their achievement monitoring, synthesizing and exchanging successful experience
-
-and innovative methodology. In view of the RIUQAASE status and credentials the Resource Centre can become an effective tool of EFA partner network development and coordination of activity in various oblasts of the country on EFA goals achievement.
+In 2006 considering importance of implementation of the Dakar Framework for Action EFA Resource Centre was created as a working body of EFA National Forum within Republican Institute for up-grading qualification of administrative and academic staff of education (RIUQAASE). It has been assigned to create and implement a mechanism of their achievement monitoring, synthesizing and exchanging successful experience and innovative methodology. In view of the RIUQAASE status and credentials the Resource Centre can become an effective tool of EFA partner network development and coordination of activity in various oblasts of the country on EFA goals achievement.
 
 In commemoration of Dakar World Education Forum Kazakhstan participates in annual EFA Week. It has become a tradition to hold target courses in EFA issues, UN Flagship programmes, and mechanisms of their implementation. The main feature of the Dakar Framework for Action in Kazakhstan is that work is carried out not only at the national level, but also at the level of oblasts, areas and learning institutions operating in close cooperation with NGOs. In all the oblasts of the country there were created groups of 'change agents' which carry on task-oriented work at place with the support of local educational authorities and coordination from the Ministry of Education and Science.
 
@@ -1636,9 +1576,7 @@ It should be stated that each TWG contributed to EFA advocacy and development in
 
 National TWG on girls' education developed a system of gender sensitive indicators which allow monitoring and analyzing the national system of education, and held gender analysis of high school curricula and textbooks.
 
-With the methodical and financial support of UNESCO Cluster Office within the framework of CARK Education Forum, Kazakhstan has become the leading country in the oblast on the issues of life skills development among the young people and adults. The purpose of the sub-regional thematic working group 'Life skills based education (STWG/LS)' lies in assisting development and realization of life skills among children and teenagers through the system of formal and non-formal education by means of updating the content, process and conditions of education in order to increase the quality of life and decrease poverty. The group has begun its work with defining and structuring life skills, which has been coordinated by all the countries of the oblast. TWG members have worked out the system of life skills development based on their integration into the content and methodology of the personality-focused education. In this system the teacher/trainer changes the approach to the
-
-educational process, his/her attitude to the schoolchild, when the central figure in the pedagogical process is the schoolchild himself. The main types of activity in the educational process become acquiring knowledge, training and dialogue, instead of «teaching». The role of the teacher changes, i.e. he becomes the organizer and educational process facilitator. STWG/LS experience is recognized successful and recommended for dissemination. Spreading of the proposed STWG/LS methodology is provided through the system of courses by the State institute of professional development for supervising and scientific and pedagogical personnel of the system of education (SSPW ES). In nine oblasts of the country there were created and successfully operate groups of “change agents”, functioning as pilot STWG/LS sites on applying the proposed methodology.
+With the methodical and financial support of UNESCO Cluster Office within the framework of CARK Education Forum, Kazakhstan has become the leading country in the oblast on the issues of life skills development among the young people and adults. The purpose of the sub-regional thematic working group 'Life skills based education (STWG/LS)' lies in assisting development and realization of life skills among children and teenagers through the system of formal and non-formal education by means of updating the content, process and conditions of education in order to increase the quality of life and decrease poverty. The group has begun its work with defining and structuring life skills, which has been coordinated by all the countries of the oblast. TWG members have worked out the system of life skills development based on their integration into the content and methodology of the personality-focused education. In this system the teacher/trainer changes the approach to the educational process, his/her attitude to the schoolchild, when the central figure in the pedagogical process is the schoolchild himself. The main types of activity in the educational process become acquiring knowledge, training and dialogue, instead of «teaching». The role of the teacher changes, i.e. he becomes the organizer and educational process facilitator. STWG/LS experience is recognized successful and recommended for dissemination. Spreading of the proposed STWG/LS methodology is provided through the system of courses by the State institute of professional development for supervising and scientific and pedagogical personnel of the system of education (SSPW ES). In nine oblasts of the country there were created and successfully operate groups of change agents', functioning as pilot STWG/LS sites on applying the proposed methodology.
 
 Within the framework of EFA NAP implementation proceeds research on individual  issues, such as life skills development, HIV prevention, girls' education, early childhood care and development, etc.
 
@@ -1646,9 +1584,7 @@ Within the framework of EFA NAP implementation proceeds research on individual  
 
 Education policy in Kazakhstan and involvement of the country in the Dakar Forum became the basis for the development in 2002 of a comprehensive National Action Plan (NPA) on EFA till 2015. In its development the Group consisting of representatives of formal and non-formal sectors of education followed the UNESCO Guiding principles and methodical recommendations.
 
-The Kazakhstan NAP peculiarity lies in the fact that it is not a separate, newly-created document, programme or strategy. It represents a summary and selection of the strategic resolutions and steps approved by the country which
-
-also correlate with EFA goals. Made on account and basis of the state plans and programmes on education, it is a kind of selection of joint activities of different governmental bodies and the civil society on securing the right of each member of the Kazakhstan society to receive education of quality.
+The Kazakhstan NAP peculiarity lies in the fact that it is not a separate, newly-created document, programme or strategy. It represents a summary and selection of the strategic resolutions and steps approved by the country which also correlate with EFA goals. Made on account and basis of the state plans and programmes on education, it is a kind of selection of joint activities of different governmental bodies and the civil society on securing the right of each member of the Kazakhstan society to receive education of quality.
 
 In order to develop the National Action Plan each of the six EFA goals was analyzed as for its urgency for the development of the state system of education, and there were defined our own priorities, purposes, intermediate issues and terms. The key purpose of Kazakhstan NAP is directed at creation of sustainable conditions for effective development of the national model of the system of education providing a wide access of the population to education of quality at all education levels and stages.
 
@@ -1660,16 +1596,14 @@ In order to develop the National Action Plan each of the six EFA goals was analy
 
 Progress in Achieving EFA Goals
 
-Draft National Action Plan on EFA was coordinated with all the involved ministries, in December 2002 it was discussed at the round table with the involvement of the representatives of the Ministries for Foreign Affairs, Finance, Labour and Social Protection of the Population, Internal Affairs, Economy and Budgetary Planning, of the Centre of System Research of the Administration of the President of the Republic of Kazakhstan, UNESCO, UNICEF, and non-governmental organizations. In June 2003 the National Action Plan was approved by the order of the Ministry of Education and Science (MES), then published in the Kazakh, Russian and English languages and forwarded to all the regional/city departments of education as guidance, and also to all the other interested persons and organizations. Under the SSPW ES initiative and its EFA Resource centre was developed the plan of steps on securing and supervising the EFA goals achievement in Kazakhstan. In March 2007 there was held a regular scheduled workshop for the regional EFA coordinators where there were discussed issues of involvement in the EFA Week, the International Literacy Day, resource availability for “change agents’ groups” in the oblasts, and other issues. EFA implementation reports of regional departments have also been planned.
+Draft National Action Plan on EFA was coordinated with all the involved ministries, in December 2002 it was discussed at the round table with the involvement of the representatives of the Ministries for Foreign Affairs, Finance, Labour and Social Protection of the Population, Internal Affairs, Economy and Budgetary Planning, of the Centre of System Research of the Administration of the President of the Republic of Kazakhstan, UNESCO, UNICEF, and non-governmental organizations. In June 2003 the National Action Plan was approved by the order of the Ministry of Education and Science (MES), then published in the Kazakh, Russian and English languages and forwarded to all the regional/city departments of education as guidance, and also to all the other interested persons and organizations. Under the SSPW ES initiative and its EFA Resource centre was developed the plan of steps on securing and supervising the EFA goals achievement in Kazakhstan. In March 2007 there was held a regular scheduled workshop for the regional EFA coordinators where there were discussed issues of involvement in the EFA Week, the International Literacy Day, resource availability for 'change agents' groups' in the oblasts, and other issues. EFA implementation reports of regional departments have also been planned.
 
 The plan defines the basic strategies in attaining the six EFA goals till 2015 and relevant steps on their realization till 2005 (the activity list for 2002-2005 reflects the content of the Education for all goals).
 
 Steps implementation monitoring will enhance efficiency and concretize the content of the activity for the next five years.
 
 #### 3.1.4. Integration of an EFA National Action Plan in National Education Development Strategy and National Development planning framework and process.
-As it has been mentioned creation of the National Action Plan in education for all and the Action Plan on its stage-by-stage realization was done with
-
-the involvement of all the concerned ministries, departments, and representatives of the civil society. It was drawn up on the basis of previously adopted programmes, strategies and plans providing integration of the EFA National Action Plan with other national plans and programmes in the field of education. These are the State Development Strategy till 2030, the State Education Development Programme for 2005-2010, the Programme 'Rural School', Strategy of industrially-innovative development of the country and others. Thus, the National plan is not only a part of a general strategy of education development, but also a part of a general strategy of human resources development and improvement in the social and economic situation.
+As it has been mentioned creation of the National Action Plan in education for all and the Action Plan on its stage-by-stage realization was done with the involvement of all the concerned ministries, departments, and representatives of the civil society. It was drawn up on the basis of previously adopted programmes, strategies and plans providing integration of the EFA National Action Plan with other national plans and programmes in the field of education. These are the State Development Strategy till 2030, the State Education Development Programme for 2005-2010, the Programme 'Rural School', Strategy of industrially-innovative development of the country and others. Thus, the National plan is not only a part of a general strategy of education development, but also a part of a general strategy of human resources development and improvement in the social and economic situation.
 
 In close cooperation with other educational state, private and non-governmental organizations MES of RK continues consistent work on implementation of the National Action Plan with its main focus on increase in the quality of training and development of competitive experts. The state programme of education development for 2005-2010 stipulates realization of the majority of the strategic tasks corresponding to EFA goals. One of major principles of this Programme is 'lifelong learning for all'.
 
@@ -1695,9 +1629,7 @@ The specified document contains items directed at protection of interests of chi
 
 Issues of realization of the State programme 'Education' including tasks similar to EFA goals, are regularly considered at the sessions of Board and Council of Departments of the Ministry of Education and Science, regional departments of education, and regional Akim's offices.
 
-Various aspects of education development were repeatedly discussed at session of the Chamber (Mazhilis) of the Parliament in 2003, 2005 and 2007, and sessions of the Government. Issues of provision of secondary education and its quality are analyzed and summarized via development and adoption of important state documents. E.g., issues of the state of secondary education, its strong and weak points underwent detailed analysis during creation of the State programme 'Education', 2000, the State education development programme for 2005-2010, 2004; Programme 'Rural School' for 2003-2005, 2003; Concept of education development in RK till 2015,
-
-2004; the State programme of informatization of the secondary education, 1997; Messages of the President to the people of Kazakhstan, 2005, 2006, 2007; Governmental orders of RK. Thus, just in 2000-2003 there were adopted over 20 Governmental orders on reforming and modernization of various aspects of secondary education. Among them are the Rules and Regulations for licensing of the educational activity, 2000; the Plan of steps on realization of the State programme 'Education', 2001; the Concept of informatization of the system of education in RK for 2002-2004, 2001; On employment and accommodation provision for the graduates of learning institutions from among children-orphans and children without parental care, 2000; Regulations about a family in a children's village, 2001; etc.
+Various aspects of education development were repeatedly discussed at session of the Chamber (Mazhilis) of the Parliament in 2003, 2005 and 2007, and sessions of the Government. Issues of provision of secondary education and its quality are analyzed and summarized via development and adoption of important state documents. E.g., issues of the state of secondary education, its strong and weak points underwent detailed analysis during creation of the State programme 'Education', 2000, the State education development programme for 2005-2010, 2004; Programme 'Rural School' for 2003-2005, 2003; Concept of education development in RK till 2015, 2004; the State programme of informatization of the secondary education, 1997; Messages of the President to the people of Kazakhstan, 2005, 2006, 2007; Governmental orders of RK. Thus, just in 2000-2003 there were adopted over 20 Governmental orders on reforming and modernization of various aspects of secondary education. Among them are the Rules and Regulations for licensing of the educational activity, 2000; the Plan of steps on realization of the State programme 'Education', 2001; the Concept of informatization of the system of education in RK for 2002-2004, 2001; On employment and accommodation provision for the graduates of learning institutions from among children-orphans and children without parental care, 2000; Regulations about a family in a children's village, 2001; etc.
 
 The serious analysis of the state of the system of education was carried out with the support of the international organizations. Thus, development of the Report 'Assistance to mandatory education of children with special needs' went with the support of UNESCO, 2000; the Report 'UN Millennium Development Goals in Kazakhstan', 2002; the Report on Human Development 'Education for all: a key goal for the new millennium' with the support of UNDP, 2004; the Report 'UN Millennium Development Goals in Kazakhstan', 2005. Positioning of the Central Asia countries in the international context in the field of education was promoted by the reports at the regional sessions of the Education Forum where there was done a comparative analysis of the secondary education development, of achievements and non-realized capacity of the countries in EFA goals realization. For the first time, there was organized a deep analysis of EFA goals realization during development of the National Report 'Education for all' which found its further continuation in the development of the National Action Plan in education for all in the Republic of Kazakhstan, 2003.
 
@@ -3769,14 +3701,14 @@ Fig. 23.  Number of schoolchildren 6 in 2003-2006. ary education in 2006. Astana
 
 National Report
 
-Table 3.4. Number of schoolchildren7 in 2005-2006 with differentiation by rural and urban areas
+Table 3.4. Number of schoolchildren 7 in 2005-2006 with differentiation by rural and urban areas
 
-Oblast | Total | of them |
+Oblast | Total | of them
 --- | --- | --- | ---
- | | Rural areas | Urban areas
+ |  | Rural areas | Urban areas
 Akmola | 131634 | 73162 | 58472
 Aktobe | 137193 | 62256 | 74937
-Almaty | 31599 | 218876 | 97063
+Almaty | 315939 | 218876 | 97063
 Atyrau | 104456 | 45577 | 58879
 East-Kazakhstan | 224137 | 101913 | 122224
 Zhambyl | 202893 | 123406 | 79487
@@ -3797,7 +3729,7 @@ Source: Statistics of the Ministry of Education and Science of the Republic of K
 
 The inequality in urban and rural school parity index is also explained by decrease in rural population caused decrease in number of schoolchildren in Grades of rural schools. E.g., if in towns an average number of schoolchildren in secondary schools made 22.4 children, in villages - 15.8.
 
-The state guarantees functioning of multi-grade schools and boarding institutions in order to secure the right for secondary education of children living in sparsely populated settlements. The Law on Education in RK (1999)
+The state guarantees functioning of milti-grade schools and boarding institutions in order to secure the right for secondary education of children living in sparsely populated settlements. The Law on Education in RK (1999)
 
 The overwhelming majority of schools are multi-grade schools. Of 8067 schools in academic year 2006-2007 the state ones made 7.934. Of them, 4.431 - schools with a low number of schoolchildren. Of 2.411 secondary multi-grade schools, about 22% (533 schools) had 100 and fewer schoolchildren. Of 965 basic multi-grade schools, 65% had fewer than 100 schoolchildren, and 35% - 40 and fewer schoolchildren. Of 1055 primary multi-grade schools, 45% (492 schools) had fewer than 10 schoolchildren. It is obvious that the maintenance of such schools demands greater expenses. However, the state bears such expenses as, firstly, in view of vast territories of Kazakhstan a multi-grade school enables provision of the right of children to education as close to their residing place as possible. Secondly, a multi-grade school in Kazakhstan is more than just a school. It is a welfare phenomenon, social and cultural centre. Closing of such a school entails move of capable population, and as a consequence, dying of the village.
 
@@ -3811,7 +3743,7 @@ The overwhelming majority of schools are multi-grade schools. Of 8067 schools in
 
 Progress in Achieving EFA Goals
 
-Fig. 24.  Data on multi-grade schools in academic year 2006-2007.
+Fig. 24. Data on multi-grade schools in academic year 2006-2007.
 
 0 | 100 | 200 | 300 | 400 | 500 | 600 | 700
 Akmola | Aktobe | Almaty | Atyrau | East-Kazakhstan | Zhambyl | West-Kazakhstan | Karaganda | Kyzylorda | Kostanai | Mangistau | Pavlodar | North-Kazakhstan | South-Kazakhstan | City of Astana | City of Almaty
@@ -3826,9 +3758,9 @@ The  state  creates  conditions  for  securing  access  to  secondary  education
 
 Table 3.5. Data on school transportation
 
-Aca- demic year | Number of schools educat- ing children living 3+ km far from school | Number of children living 3+ km far from school | Number of children provid- ed with transport to school
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Total | City | Village | Total | City | Village | Total | City | Village
+Academic year | Number of schools educating children living 3+ km far from school | Number of children living 3+ km far from school | Number of children provided with transport to school
+--- | --- | --- | ---
+ | Total | City | Village | Total | City | Village | Total | City | Village
 2005-06 | 1011 | 90 | 921 | 49404 | 14342 | 35062 | 40564 | 10475 | 30089
 2006-07 | 1019 | 124 | 895 | 49102 | 15400 | 33702 | 37904 | 12136 | 25768
 
@@ -3851,19 +3783,19 @@ In order to ensure equal access to appropriate learning of children with limited
 
 National Report
 
-Table 3.6. Network and student body of special correctional learning institutions for children with limited development abilities (October 2006)
+Table 3.6. Network and student body of special correctional learning institutions for children with limited development abilities
+(October 2006)
 
- | Revealed children, aged 7-18 | No of them covered by: | | | | % of coverage
+ | Revealed children, aged 7-18 | No of them covered by: special schools | No of them covered by: special Grades | % of coverage
 --- | --- | --- | --- | --- | --- | ---
- | | special schools | | special Grades | |
- | | Network | Community | Network | Community |
+ |  | Network | Community | Network | Community |
 TOTAL: | 102427 | 101 | 17030 | 766 | 6883 | 23.3
 
 Source: Statistics of MES
 
 Table 3.7. Number of special learning institutions
 
- | PMPC network | Rehabilitation cen- tres network | Psycho-peda- gogical correction Grades network | Logaoedic Grades network
+ | PMPC network | Rehabilitation centres network | Psycho-pedagogical correction Grades network | Logaoedic Grades network
 --- | --- | --- | --- | ---
 TOTAL: | 56 | 13 | 112 | 223
 
@@ -3877,7 +3809,7 @@ In 2006, 7.855 children were trained in-home by an individual curriculum. At sch
 
 Table 3.8. Data on children acquiring in-home education
 
-Oblast | Number of children educated in-home by an individual curriculum, 2005 | | | Number of children educated in-home by an individual curriculum, 2006 | |
+Oblast | Number of children educated in-home by an individual curriculum 2005 | Number of children educated in-home by an individual curriculum 2006
 --- | --- | --- | --- | --- | --- | ---
  | Total | City | Village | Total | City | Village
 Akmola | 275 | 162 | 113 | 293 | 162 | 131
@@ -3888,7 +3820,7 @@ East-Kazakhstan | 1100 | 607 | 493 | 833 | 422 | 411
 Zhambyl | 1016 | 357 | 659 | 842 | 111 | 731
 West-Kazakhstan | 495 | 168 | 327 | 459 | 175 | 284
 Karaganda | 530 | 452 | 78 | 516 | 428 | 88
-Kyzylorda | 371 | 215 | 156 | 407 | 25 | 157
+Kyzylorda | 371 | 215 | 156 | 407 | 250 | 157
 Kostanai | 274 | 154 | 120 | 341 | 227 | 114
 Mangistau | 141 | 106 | 35 | 144 | 102 | 42
 Pavlodar | 519 | 308 | 211 | 511 | 336 | 175
@@ -3905,7 +3837,7 @@ Progress in Achieving EFA Goals
 South-Kazakhstan | 739 | 264 | 475 | 1435 | 434 | 1001
 --- | --- | --- | --- | --- | --- | ---
 City of Astana | 57 | 57 | 0 | 195 | 195 | 0
-City of Almaty | 202 | 202 | 0 | 137 | 37 | 0
+City of Almaty | 202 | 202 | 0 | 137 | 137 | 0
 Republican institutions | 0 | 0 | 0 | 0 | 0 | 0
 Total: | 7220 | 3639 | 3581 | 7855 | 3674 | 4181
 
@@ -3917,8 +3849,6 @@ Kazakhstan is a multinational country. Representatives of over 100 nations and n
 
 Fig. 25. Data on national structure of schoolchildren in secondary schools in academic year 2006-2007
 
-Source: Statistics of MES. Key indicators of the system of secondary education in 2005 and 2006.
-
 Kazakhs | 1891415
 Russians | 412809
 Ukrainians | 43753
@@ -3929,8 +3859,10 @@ Kyrgyzs | 3670
 Tajiks | 8075
 Uyghurs | 40757
 Koreans | 13799
-Tatars | 26637
+Tartars | 26637
 Other nationalities | 143637
+
+Source: Statistics of MES. Key indicators of the system of secondary education in 2005 and 2006.
 
 In view of ethnic needs of the population, training at schools is provided in 8 languages. According to MES, at the beginning of academic year 2006-2007, there functioned 3.747 schools with the Kazakh, 1.898 - with the Russian, 72 - with the Uzbek, 14 - with the Uighur, 3 - with the Tajik, 1 - with the Ukrainian language of instruction. In addition, at 2.067 schools training is conducted in a mixed (in two and more languages) manner. In places of compact residence of small nationalities, learning of 14 native languages has been ensured. Thus, the state makes its best efforts to ensure the right of all the ethnic groups residing in Kazakhstan for education in their native language.
 
@@ -4012,9 +3944,9 @@ Source: Statistics of MES. Data and key indicators on Department of complementar
 
 A significant number of children are engaged in various kinds of complementary education during their free from studies time. These are training in hobby groups, complementary study groups, special courses, etc.
 
-Table 3.9.  Share of those engaged in complementary education on the basis of secondary basic learning institutions (Number of those engaged in complementary education on the basis of secondary basic learning institutions in percent of the total number of those engaged in complementary education)
+Table 3.9. Share of those engaged in complementary education on the basis of secondary basic learning institutions (Number of those engaged in complementary education on the basis of secondary basic learning institutions in percent of the total number of those engaged in complementary education)
 
-2001 | 2002 | 2003 | 2004
+ | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | ---
 Kazakhstan | 69.5 | 75.2 | 76.2 | 74.1
 Akmola | 78.2 | 79.4 | 82.0 | 80.6
@@ -4047,12 +3979,11 @@ City of Almaty | 62.1 | 66.9 | 65.7 | 67.3
 Source: National  report  on  the  development  of  education.  National  Centre  for  Assessment  of  Quality  of  education,  Astana,  2006.
 
 Table 3.10. Coverage of schoolchildren by school hobby groups, engaged in groups on the basis of basic learning institutions
-
 (in percent to the total number of schoolchildren)
 
-Coverage of schoolchildren by hobby groups | No of them, in rural areas
+ | Coverage of schoolchildren by hobby groups | No of them, in rural areas
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-2000 | 2001 | 2002 | 2003 | 2004 | 2000 | 2001 | 2002 | 2003 | 2004
+ | 2000 | 2001 | 2002 | 2003 | 2004 | 2000 | 2001 | 2002 | 2003 | 2004
 Kazakhstan | 25.0 | 25.9 | 27.7 | 29.1 | 31.5 | 12.8 | 12.2 | 12.6 | 13.3 | 14.6
 Akmola | 46.8 | 43.6 | 53.5 | 57.6 | 62.4 | 29.5 | 26.8 | 30.4 | 33.1 | 36.3
 Aktobe | 24.2 | 22.1 | 25.3 | 26.5 | 29.1 | 15.7 | 14.4 | 15.3 | 15.8 | 16.7
@@ -4114,31 +4045,30 @@ As education is being modernized, the system of work with gifted children and yo
 
 Table 3.11. Number of learning institutions for gifted children
 
- | 2000 | | | | 2001 | | | | 2002 | | | | 2003 | | | | 2004 | | | |
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
- | Total # of organizations | # of schools | # of lyceums | # of gymnasia | Total # of organizations | # of schools | # of lyceums | # of gymnasia | Total # of organizations | # of schools | # of lyceums | # of gymnasia | Total # of organizations | # of schools | # of lyceums | # of gymnasia | Total # of organizations | # of schools | # of lyceums | # of gymnasia
-Kazakhstan | 22 | 13 | 7 | 2 | 22 | 13 | 7 | 2 | 23 | 14 | 7 | 2 | 23 | 12 | 7 | 2 | 64 | 26 | 31 | 7
-Akmola | | | | | | | | | | | | | | | | | 1 | | 1 |
-Aktobe | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 3 | 2 | 1 |
-Almaty | | | | | | | | | | | | | | | | | 4 | 1 | 3 |
-Atyrau | 4 | 1 | 2 | 1 | 4 | 1 | 2 | 1 | 4 | 1 | 2 | 1 | 4 | 1 | 2 | 1 | 5 | 1 | 3 | 1
-East-Kazakhstan | 2 | | 2 | | 2 | | 2 | | 2 | | 2 | | 2 | | 2 | | 5 | 1 | 4 |
-Zhambyl | | | | | | | | | 1 | 1 | | | 1 | 1 | | | 3 | 1 | 2 |
-West-Kazakhstan | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 2 | 2 | |
-Karaganda | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 4 | 2 | 2 |
-Kyzylorda | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 5 | 2 | 1 | 2
-Kostanai | | | | | | | | | | | | | | | | | 2 | | 2 |
-Mangistau | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | |
-Pavlodar | 3 | 1 | 2 | | 3 | 1 | 2 | | 3 | 1 | 2 | | 3 | 1 | 2 | | 8 | 1 | 4 | 3
-North-Kazakhstan | 2 | | 1 | 1 | 2 | | 1 | 1 | 2 | | 1 | 1 | 2 | | 1 | 1 | 4 | 2 | 1 | 1
-South-Kazakhstan | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 10 | 6 | 4 |
-City of Astana | | | | | | | | | | | | | | | | | 2 | | 2 |
-City of Almaty | | | | | | | | | | | | | | | | | 1 | | 1 |
-State-owned learning institutions | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 2 | 2 | | | 4 | 4 | |
-Special mathematics boarding school after Zhautykov | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | |
-Special boarding-school with a profound learning of the Kazakh language and literature | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | | | 1 | 1 | |
-Special music boarding-school after Bayseitova | | | | | | | | | | | | | | | | | 1 | 1 | |
-Music boarding-school after Zhubanov | | | | | | | | | | | | | | | | | 1 | 1 | |
+Institution | 2000 (Total # of organizations / # of schools / # of lyceums / # of gymnasia) | 2001 (Total # of organizations / # of schools / # of lyceums / # of gymnasia) | 2002 (Total # of organizations / # of schools / # of lyceums / # of gymnasia) | 2003 (Total # of organizations / # of schools / # of lyceums / # of gymnasia) | 2004 (Total # of organizations / # of schools / # of lyceums / # of gymnasia)
+--- | --- | --- | --- | --- | ---
+Kazakhstan | 22 / 13 / 7 / 2 | 22 / 13 / 7 / 2 | 23 / 14 / 7 / 2 | 23 / 12 / 7 / 2 | 64 / 26 / 31 / 7
+Akmola |  |  |  |  | 1 /  / 1 /
+Aktobe | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 3 / 2 / 1 /
+Almaty |  |  |  |  | 4 / 1 / 3 /
+Atyrau | 4 / 1 / 2 / 1 | 4 / 1 / 2 / 1 | 4 / 1 / 2 / 1 | 4 / 1 / 2 / 1 | 5 / 1 / 3 / 1
+East-Kazakhstan | 2 /  / 2 / | 2 /  / 2 / | 2 /  / 2 / | 2 /  / 2 / | 5 / 1 / 4 /
+Zhambyl |  |  | 1 / 1 /  / | 1 / 1 /  / | 3 / 1 / 2 /
+West-Kazakhstan | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 2 / 2 /  /
+Karaganda | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 4 / 2 / 2 /
+Kyzylorda | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 5 / 2 / 1 / 2
+Kostanai |  |  |  |  | 2 /  / 2 /
+Mangistau | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  /
+Pavlodar | 3 / 1 / 2 / | 3 / 1 / 2 / | 3 / 1 / 2 / | 3 / 1 / 2 / | 8 / 1 / 4 / 3
+North-Kazakhstan | 2 /  / 1 / 1 | 2 /  / 1 / 1 | 2 /  / 1 / 1 | 2 /  / 1 / 1 | 4 / 2 / 1 / 1
+South-Kazakhstan | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 10 / 6 / 4 /
+City of Astana |  |  |  |  | 2 /  / 2 /
+City of Almaty |  |  |  |  | 1 /  / 1 /
+State-owned learning institutions | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 2 / 2 /  / | 4 / 4 /  /
+Special mathematics boarding school after Zhautykov | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  /
+Special boarding-school with a profound learning of the Kazakh language and literature | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  / | 1 / 1 /  /
+Special music boarding-school after Bayseitova |  |  |  |  | 1 / 1 /  /
+Music boarding-school after Zhubanov |  |  |  |  | 1 / 1 /  /
 
 Source: MES data
 
@@ -4150,32 +4080,32 @@ Source: MES data
 
 National Report
 
-Table 3.12.  Number of children acquiring secondary basic education under profound curricula in learning institutions for gifted children
+Table 3.12. Number of children acquiring secondary basic education under profound curricula in learning institutions for gifted children
 
  | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | ---
 Kazakhstan | 9368 | 8785 | 9357 | 9523 | 20455
-Akmola | | | | | 204
+Akmola |  |  |  |  | 204
 Aktobe | 476 | 501 | 518 | 507 | 826
-Almaty | | | | | 826
+Almaty |  |  |  |  | 826
 Atyrau | 1383 | 1403 | 1368 | 1281 | 1534
 East-Kazakhstan | 968 | 1001 | 933 | 993 | 1577
-Zhambyl | | | 220 | 256 | 778
+Zhambyl |  |  | 220 | 256 | 778
 West-Kazakhstan | 945 | 927 | 1012 | 904 | 971
 Karaganda | 543 | 427 | 616 | 849 | 965
 Kyzylorda | 376 | 618 | 595 | 601 | 1381
-Kostanai | | | | | 446
+Kostanai |  |  |  |  | 446
 Mangistau | 315 | 316 | 333 | 284 | 262
 Pavlodar | 1923 | 988 | 1099 | 1193 | 3142
 North-Kazakhstan | 116 | 760 | 787 | 794 | 1358
 South-Kazakhstan | 319 | 490 | 501 | 535 | 3276
-City of Astana | | | | | 430
-City of Almaty | | | | | 321
+City of Astana |  |  |  |  | 430
+City of Almaty |  |  |  |  | 321
 State-owned learning institutions | 1344 | 1354 | 1375 | 1326 | 2158
 Special mathematics boarding school after Zhautykov | 976 | 976 | 984 | 961 | 961
 Special boarding-school with profound learning of the Kazakh language and literature | 368 | 378 | 391 | 365 | 384
-Special music boarding-school after Bayseitova | | | | | 358
-Music boarding-school after Zhubanov | | | | | 455
+Special music boarding-school after Bayseitova |  |  |  |  | 358
+Music boarding-school after Zhubanov |  |  |  |  | 455
 
 Source: Statistics of MES
 
@@ -4183,13 +4113,12 @@ The conceptual and normative and legal framework of work with gifted children an
 
 The achieved results are obvious - today Kazakhstan students have become strong contenders in the international Olympiads on basic educational subjects and in scientific competitions. The combined Kazakh -stan team wins more and more medals. In 2005 the command won 151 medals, of them 22 - gold medals, silver - 48, and 81 bronze. In 2006 - 121 medals, of them gold - 19, silver - 51, and bronze - 51.
 
-Table 3.13.  Number of winners of state Olympiads
+Table 3.13. Number of winners of state Olympiads
 
- | 2000 | | | 2001 | | | 2002 | | | 2003 | | | 2004 | | |
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
- | Olympiad | Scientific Contests | Total | Olympiad | Scientific Contests | Total | Olympiad | Scientific Contests | Total | Olympiad | Scientific Contests | Total | Olympiad | Scientific Contests | Total
-Kazakhstan | 189 | 64 | 253 | 194 | 73 | 267 | 187 | 113 | 300 | 211 | 111 | 322 | 239 | 126 | 365
-Akmola | 11 | 2 | 13 | 6 | 3 | 9 | 6 | 2 | 8 | 4 | 3 | 7 | 7 | 4 | 11
+Oblast | 2000 (Olympiad / Scientific Contests / Total) | 2001 (Olympiad / Scientific Contests / Total) | 2002 (Olympiad / Scientific Contests / Total) | 2003 (Olympiad / Scientific Contests / Total) | 2004 (Olympiad / Scientific Contests / Total)
+--- | --- | --- | --- | --- | ---
+Kazakhstan | 189 / 64 / 253 | 194 / 73 / 267 | 187 / 113 / 300 | 211 / 111 / 322 | 239 / 126 / 365
+Akmola | 11 / 2 / 13 | 6 / 3 / 9 | 6 / 2 / 8 | 4 / 3 / 7 | 7 / 4 / 11
 
 84
 
@@ -4199,23 +4128,22 @@ Akmola | 11 | 2 | 13 | 6 | 3 | 9 | 6 | 2 | 8 | 4 | 3 | 7 | 7 | 4 | 11
 
 Progress in Achieving EFA Goals
 
-Aktobe | 13 | 7 | 20 | 14 | 10 | 24 | 16 | 12 | 28 | 25 | 7 | 32 | 28 | 6 | 34
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Almaty | 15 | 5 | 20 | 21 | 4 | 25 | 21 | 17 | 38 | 26 | 8 | 34 | 29 | 24 | 53
-Atyrau | 2 | 1 | 3 | 6 | | 6 | 4 | 2 | 6 | 9 | 1 | 10 | 10 | 6 | 16
-East-Kazakhstan | 13 | 8 | 21 | 10 | 2 | 12 | 10 | 2 | 12 | 19 | 9 | 28 | 20 | 10 | 30
-Zhambyl | 10 | 1 | 21 | 10 | 2 | 12 | 10 | 2 | 12 | 14 | 3 | 17 | 15 | 4 | 19
-West-Kazakhstan | 1 | 2 | 11 | 10 | 6 | 16 | 12 | 8 | 20 | 5 | 3 | 8 | 2 | 1 | 3
-Karaganda | 18 | 5 | 23 | 18 | 2 | 20 | 14 | 3 | 16 | 20 | 1 | 21 | 21 | 8 | 29
-Kyzylorda | 10 | 2 | 12 | 7 | 2 | 9 | 9 | 4 | 13 | 6 | 2 | 8 | 14 | 3 | 17
-Kostanai | 4 | 2 | 6 | 2 | 2 | 4 | 4 | 5 | 9 | 5 | 9 | 14 | 2 | 6 | 8
-Mangistau | 4 | | 4 | 5 | 3 | 8 | 5 | 2 | 7 | 1 | | 1 | 1 | 1 | 2
-Pavlodar | 12 | 4 | 16 | 20 | 4 | 24 | 5 | 12 | 17 | 16 | 11 | 27 | 14 | 8 | 22
-North-Kazakhstan | 5 | | 5 | 10 | | 10 | 4 | 3 | 7 | 6 | 5 | 11 | 3 | 7 | 10
-South-Kazakhstan | 4 | 2 | 6 | 6 | 7 | 13 | 10 | 8 | 18 | 8 | 4 | 12 | 5 | 6 | 11
-City of Astana | 12 | 8 | 20 | 13 | 15 | 28 | 17 | 16 | 33 | 13 | 16 | 29 | 15 | 5 | 20
-City of Almaty | 41 | 15 | 56 | 36 | 7 | 43 | 29 | 13 | 42 | 28 | 23 | 51 | 34 | 20 | 54
-Special maths boarding school after Zhautykov | 14 | | 14 | 7 | 2 | 9 | 7 | 4 | 11 | 6 | 6 | 12 | 19 | 7 | 26
+Aktobe | 13 / 7 / 20 | 14 / 10 / 24 | 16 / 12 / 28 | 25 / 7 / 32 | 28 / 6 / 34
+Almaty | 15 / 5 / 20 | 21 / 4 / 25 | 21 / 17 / 38 | 26 / 8 / 34 | 29 / 24 / 53
+Atyrau | 2 / 1 / 3 | 6 /  / 6 | 4 / 2 / 6 | 9 / 1 / 10 | 10 / 6 / 16
+East-Kazakhstan | 13 / 8 / 21 | 10 / 2 / 12 | 10 / 2 / 12 | 19 / 9 / 28 | 20 / 10 / 30
+Zhambyl | 10 / 1 / 21 | 10 / 2 / 12 | 10 / 2 / 12 | 14 / 3 / 17 | 15 / 4 / 19
+West-Kazakhstan | 1 / 2 / 11 | 10 / 6 / 16 | 12 / 8 / 20 | 5 / 3 / 8 | 2 / 1 / 3
+Karaganda | 18 / 5 / 23 | 18 / 2 / 20 | 14 / 3 / 16 | 20 / 1 / 21 | 21 / 8 / 29
+Kyzylorda | 10 / 2 / 12 | 7 / 2 / 9 | 9 / 4 / 13 | 6 / 2 / 8 | 14 / 3 / 17
+Kostanai | 4 / 2 / 6 | 2 / 2 / 4 | 4 / 5 / 9 | 5 / 9 / 14 | 2 / 6 / 8
+Mangistau | 4 /  / 4 | 5 / 3 / 8 | 5 / 2 / 7 | 1 /  / 1 | 1 / 1 / 2
+Pavlodar | 12 / 4 / 16 | 20 / 4 / 24 | 5 / 12 / 17 | 16 / 11 / 27 | 14 / 8 / 22
+North-Kazakhstan | 5 /  / 5 | 10 /  / 10 | 4 / 3 / 7 | 6 / 5 / 11 | 3 / 7 / 10
+South-Kazakhstan | 4 / 2 / 6 | 6 / 7 / 13 | 10 / 8 / 18 | 8 / 4 / 12 | 5 / 6 / 11
+City of Astana | 12 / 8 / 20 | 13 / 15 / 28 | 17 / 16 / 33 | 13 / 16 / 29 | 15 / 5 / 20
+City of Almaty | 41 / 15 / 56 | 36 / 7 / 43 | 29 / 13 / 42 | 28 / 23 / 51 | 34 / 20 / 54
+Special maths boarding school after Zhautykov | 14 /  / 14 | 7 / 2 / 9 | 7 / 4 / 11 | 6 / 6 / 12 | 19 / 7 / 26
 
 Source: Statistics of MES
 
@@ -4309,7 +4237,7 @@ Over 2000-2004, there was a trend to increase planned and actual share of teache
 
 Table 3.15. Data on professional development of teachers (in percent)
 
- | 2000 | | 2001 | | 2002 | | 2003 | | 2004 |
+ | 2000 | 2001 | 2002 | 2003 | 2004
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
  | plan | fact | plan | fact | plan | fact | plan | fact | plan | fact
 Kazkhstan | 13.8 | 17.2 | 15 | 15.6 | 18.9 | 19.1 | 15 | 20 | 15.9 | 18.6
@@ -4317,9 +4245,9 @@ Akmola | 13 | 15.5 | 16.1 | 16.1 | 15.5 | 15.4 | 16 | 17.4 | 15.4 | 17.03
 Aktobe | 15.1 | 23.9 | 14.8 | 14.8 | 14.4 | 13.4 | 11.9 | 17 | 11.9 | 21.9
 Almaty | 15.03 | 15.6 | 14.7 | 14.6 | 14.8 | 12.6 | 14.1 | 25.6 | 13.9 | 22.1
 Atyrau | 12.3 | 12.9 | 13 | 13.4 | 10.9 | 9.9 | 23.3 | 23.7 | 22.5 | 27.6
-East-Kazakh- stan | 6.3 | 12.5 | 2.7 | 4.3 | 4.2 | 4.2 | 4.2 | 14.3 | 4.2 | 5.8
+East-Kazakhstan | 6.3 | 12.5 | 2.7 | 4.3 | 4.2 | 4.2 | 4.2 | 14.3 | 4.2 | 5.8
 Zhambyl | 12.3 | * | 15.6 | 15.6 | 16.5 | 15.04 | 16.1 | 14.9 | 15.4 | 15.4
-West-Kazakh- stan | 10.3 | 15.03 | 17.6 | 15.2 | 18.4 | 17.1 | 20.6 | 20.7 | 19 | 18.3
+West-Kazakhstan | 10.3 | 15.03 | 17.6 | 15.2 | 18.4 | 17.1 | 20.6 | 20.7 | 19 | 18.3
 Karaganda | 15.3 | 23.9 | 8.04 | 9.5 | 9.4 | 10.4 | 10.3 | 12.6 | 10.4 | 11.5
 Kyzylorda | 22.8 | 35.6 | 11.7 | 13.8 | 13.5 | 14.9 | 14.4 | 17.6 | 14.1 | 15.6
 Kostanai | 8.5 | 10.6 | 10.9 | 10.9 | 14.9 | 22.3 | 12.4 | 27.2 | 9.7 | 11.9
@@ -4351,14 +4279,14 @@ According to the President's award, such grants are annually awarded to 200 best
 
 For the last five years there was marked a distinct upward tendency in the size of average wages in the system of education.
 
-Table  3.16. Average salary parity for Education and Economy, and GDP per capita
+Table 3.16. Average salary parity for Education and Economy, and GDP per capita
 
-Average salary parity for Education and Economy, % | Average salary parity for Education and GDP per capita
+ | Average salary parity for Education and Economy, % | Average salary parity for Education and GDP per capita
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Kazakhstan | 2000 | 2001 | 2002 | 2003 | 2004 | 2000 | 2001 | 2002 | 2003 | 2004
  | 0.59 | 57.4 | 63.3 | 62.3 | 63.4 | 0.58 | 0.54 | 0.61 | 0.56 | 0.58
 
-Source: National report  on  the  development  of  education.  National  Centre  for  Assessment  of  Quality  of  education,  Astana,  2006
+Source: National report on the development of education. National Centre for Assessment of Quality of education, Astana, 2006
 
 The average salary of teachers in the system of education in 2004 made 17964 tenge, in October 2006 - 25 thousand tenge, in January 2007 - 29 thousand tenge. Teachers of rural areas receive extra 25% pay to their salary. Despite regular rise in average salary in the sector of education, it makes 64% of average salary in the Republic.
 
@@ -4369,7 +4297,7 @@ It clearly shows that the prestige of the teacher's trade in OECD countries and 
 The teacher's salary is calculated in view of his/her work experience and qualifying category. Neither number of schoolchildren in the Grade, nor a schoolchild/teacher ratio, or real results of work affect the size of salary.
 
 ###### Activities are carried out to construct and reconstruct objects of secondary basic education.
-In 2006 there was planned construction of 21 objects of education for 18375 students with total state budget expenditure 6010.6 million tenge; 66 secondary schools for 17441 students with the resources from the local budget; 8 pre-school establishments for 1675 children with the resources from the local budget; 4 pre-school establishments for 790 children with the resources from the local budget and 8 other objects of education for 2046 students.
+In 2006 there was planned construction of 21 objects of education for 18375 students with total state budget expenditure 6010.6 million tenge; 66 secondary schools for 17441 students with the resources from the local
 
 88
 
@@ -4378,6 +4306,8 @@ In 2006 there was planned construction of 21 objects of education for 18375 stud
 [[START OF PAGE 89]]
 
 Progress in Achieving EFA Goals
+
+budget; 8 pre-school establishments for 1675 children with the resources from the local budget; 4 pre-school establishments for 790 children with the resources from the local budget and 8 other objects of education for 2046 students.
 
 Thus, 29 objects of education were under construction for 20050 children with total state budget expenditure 7010.626 million tenge; 78 objects of education for 20277 children with total local budget expenditure 5071.3 million tenge.
 
@@ -4389,7 +4319,7 @@ According to Address of the President (2007) there is planned a complete updatin
 
 Thus, in the field of primary and secondary education in Kazakhstan there are certain positive system changes. According to the legislation it is ensured that all children of school age get access to free-of-charge mandatory education and complete it. Coverage of children in mandatory education is practically universal.
 
-The material base of secondary schools becomes stronger. Much attention is given to improving maintenance of rural school. Schoolchildren of secondary schools have an opportunity to study by new generation textbooks. E-textbooks and teaching and methodical complexes are published. There were developed new mandatory state competence-based standards of the basic secondary education. The state programme of informatization of education is being successfully executed. Great changes took place in the field of improve -ment of work with children having special needs for education. There are being taken steps on health protection of schoolchildren. The education-for-all Fund supports children from families having many children, and children from less-privileged families. In most oblasts free-of-charge meals are organized for all schoolchildren of primary school. Application of ICT in teaching and educational process is extending. Much attention is given to creating conditions for representatives of the national minorities living in Kazakhstan to learn in their native languages. Coverage of girls in secondary education is practically universal. Kazakhstan is among the 52 countries (128 countries participated in the comparative analysis), where the gender parity in the secondary education was attained. At the beginning of 2005-2006 48.9% of 1-4 Grade students were girls, 51% - boys. The parity of coverage in education reflects the parity in the number of girls and boys in the population of this age.
+The material base of secondary schools becomes stronger. Much attention is given to improving maintenance of rural school. Schoolchildren of secondary schools have an opportunity to study by new generation textbooks. E-textbooks and teaching and methodical complexes are published. There were developed new mandatory state competence-based standards of the basic secondary education. The state programme of informatization of education is being successfully executed. Great changes took place in the field of improvement of work with children having special needs for education. There are being taken steps on health protection of schoolchildren. The education-for-all Fund supports children from families having many children, and children from less-privileged families. In most oblasts free-of-charge meals are organized for all schoolchildren of primary school. Application of ICT in teaching and educational process is extending. Much attention is given to creating conditions for representatives of the national minorities living in Kazakhstan to learn in their native languages. Coverage of girls in secondary education is practically universal. Kazakhstan is among the 52 countries (128 countries participated in the comparative analysis), where the gender parity in the secondary education was attained. At the beginning of 2005-2006 48.9% of 1-4 Grade students were girls, 51% - boys. The parity of coverage in education reflects the parity in the number of girls and boys in the population of this age.
 
 ###### Unresolved issues.
 The work demands further continuation. First of all, it concerns an urgently required updating of an obsolete base of visual-methodical support of the educational process. Till 2008 it is planned to get away with the three-shift system and to construct new buildings for 216 schools that are in an accident-sensitive condition. However, there is still an issue of constructing new modern buildings for learning institutions whose material base does not meet any present-day requirements. 455 schools have no hot water supply. In 268 schools there are only outdoor toilets. In 210 schools there is no water supply at all, 1568 - demand major repairs, and 43% are located in converted buildings.
@@ -4414,7 +4344,7 @@ Financing  of  education  does  not  exceed  3.4-3.5%  of  GDP .  Of  this  amou
 
 ##### 3.2.2.3 Recommendations for adjustment
 
-- To increase the volume of financing of the system to the level of not less than 4% of GDP in order to improve access of children having special needs and other specific groups to quality education.
+To increase the volume of financing of the system to the level of not less than 4% of GDP in order to improve access of children having special needs and other specific groups to quality education.
 
 - To improve efficiency control over the use of finances allocated to educational needs.
 
@@ -4497,11 +4427,11 @@ Perspectives of the non-formal sector of vocational education have not been spec
 
 A newly-edited Law of the Republic of Kazakhstan On Education has for the first time defined vocational education of adults, including:
 
-- training of adult labour and specialists; 
+- training of adult labour and specialists;
 
-- retraining of adults; 
+- retraining of adults;
 
-- professional development of labour and technical and maintenance specialists. 
+- professional development of labour and technical and maintenance specialists.
 
 As it has already been pointed out in Section on EFA Goal 2, to ensure full and quality complementary general education for children and teenagers, it is planned to enhance the network and improve activities of extracurricular institutions: Palaces, Houses, Centres, Clubs for children  and young people, stations of young technicians, tourists, naturalists, children's music and sports schools, arts schools, sports, recreational, tourist camps, etc.
 
@@ -4516,7 +4446,7 @@ Legislative framework for the policy in the field of education for young people 
 
 - On State young policy in Kazakh SSR (1991).
 
-- On public associations  (2001)
+- On public associations (2001)
 
 - On non-profit organizations (2002)
 
@@ -4596,11 +4526,11 @@ Currently, qualified technical and maintenance staff and medium-level specialist
 
 Figure 27. Technical and vocational education. Dynamics of the number of technical and vocational learning institutions and students for 1991-2006.
 
-Number of TVGT schools and colleges
+Number of TVGT schools and colledges
 Number of students
-Number of TVGT schools and colleges | 400 | 450 | 500 | 550 | 600 | 650 | 700 | 750 | 800 | 850
-1991 | 1995 | 1998 | 2000 | 2004 | 2005 | 2006
+Number of TVGT schools and colledges | 400 | 450 | 500 | 550 | 600 | 650 | 700 | 750 | 800 | 850
 Number of students (thousands of students) | 150 | 200 | 250 | 300 | 350 | 400 | 450 | 500 | 550 | 600
+1991 | 1995 | 1998 | 2000 | 2004 | 2005 | 2006
 
 Source: Statistics of the Ministry of Education and Science
 
@@ -4620,13 +4550,13 @@ Table 3.17. Major indicators of operations of higher institutions in 2004-2007
  | 2004/05 Academic year | 2005/06 Academic year | 2006/07 Academic year
 --- | --- | --- | ---
 Number of higher institutions | 181 | 181 | 176
-Including: | | |
+Including: |  |  |
 State-owned | 51 | 51 | 53
 Private | 130 | 128 | 121
 Property of other states | - | 2 | 2
 Number of branches of higher institutions of other countries, their legal entities and citizens | 7 | 6 | 7
 Number of students, total, thousand of people | 747,1 | 775,8 | 768,4
-Including those financed by: | | |
+Including those financed by: |  |  |
 Governmental educational grants, thousand of people | 55,5 | 91,9 | 119,5
 Other forms of financing of state contract, thousand of people | 10,8 | 10,5 | 10,4
 Number of students, paying tuition fee, thousand of people | 627,5 | 652,4 | 638,5
@@ -4635,7 +4565,7 @@ Number of students, studying at private higher institutions, thousand of people 
 Number of students, studying at higher institutions, belonging to other countries, their legal entities, citizens, thousand of people | 2,9 | 7,1 | 9,0
 Number of faculty, thousand of people | 50,6 | 52,4 | 50,2
 Including full-time faculty | 42,3 | 43,4 | 42,8
-including: | | |
+including: |  |  |
 Candidates of science | 12,3 | 12,8 | 13,1
 PhD | 2,7 | 2,9 | 3,0
 Professors | 2,8 | 2,9 | 2,9
@@ -4662,17 +4592,17 @@ Upon graduation from vocational learning institutions, most graduates launch the
 
 According to the Agency for Statistics of the Republic of Kazakhstan, the overall rate of youth employment at the age of 15-24 in 2001-2005 clearly demonstrated an increase in the number of employed, especially as hired labour (29,5% increase) (Table 3.18.).
 
-Table 3.18. Level of employment of population at the age of 15-24 (thousand people)
-
 Status | 2001 | 2002 | 2003 | 2004 | 2005 | in % compared to 2001
 --- | --- | --- | --- | --- | --- | ---
 Employed young people (total) | 1016,1 | 920,8 | 1109,8 | 1150,9 | 1189,1 | 17
 Hired labour | 446,3 | 431,4 | 512,3 | 570,7 | 577,8 | 29,5
 Self-employed | 569,8 | 489,7 | 597,5 | 580,2 | 611,4 | 7,3
 
+Table 3.18. Level of employment of population at the age of 15-24 (thousand people)
+
 Source: Agency for Statistics
 
-Another trend, reflecting direct dependence of increased employment on employers' need in young workers with a higher education/incomplete higher education and especially in qualified labour, is as obvious (Table 3.19). A relatively insignificant increase in demand for young workers with secondary vocational educa -tion can be explained by market supersaturation with law and economics specialists, increasingly trained by colleges back in those years. The labour market demand in labour with a general and especially with basic and primary education is clearly going down as most of them have no certain profession/qualification.
+Another trend, reflecting direct dependence of increased employment on employers' need in young workers with a higher education/incomplete higher education and especially in qualified labour, is as obvious (Table 3.19). A relatively insignificant increase in demand for young workers with secondary vocational education can be explained by market supersaturation with law and economics specialists, increasingly trained by colleges back in those years. The labour market demand in labour with a general and especially with basic and primary education is clearly going down as most of them have no certain profession/qualification.
 
 Table 3.19. Level of education of those employed at the age of 15-24
 
@@ -4680,7 +4610,8 @@ Table 3.19. Level of education of those employed at the age of 15-24
 
 Level of education | 2001 | 2002 | 2003 | 2004 | in % compared to 2001
 --- | --- | --- | --- | --- | ---
-Employed population (total), with a share of those having: | 1016,1 | 920,8 | 1109,8 | 1150,9 | 13,2
+Employed population (total),
+with a share of those having: | 1016,1 | 920,8 | 1109,8 | 1150,9 | 13,2
 Higher education | 86,5 | 77,8 | 108,3 | 124,5 | 43,9
 Incomplete higher education | 60,4 | 56,1 | 86,2 | 88,1 | 45,8
 Secondary vocational | 165,8 | 143,4 | 165,5 | 177,8 | 7,2
@@ -4748,7 +4679,8 @@ Centre | Activities
 
 National Report
 
-PITC - Petroleum Industry Training Centre | Is authorized to provide vocational training to oil&gas personnel in Kazakhstan for successful activities under market economy conditions. Delivers training and a significant number of training programmes for many national and international oil companies on the territory of Kazakhstan, including field trips. Ensures training of Kazakhstan students in foreign Universities and provides assistance in subsequent employment.
+PITC - Petroleum Industry Training Centre | Is authorized to provide vocational training to oil&gas personnel in Kazakhstan for successful activities under market economy conditions. Delivers training and a significant number of training programmes for many national and international oil companies on the territory of Kazakhstan, including field trips. Ensures training of Kazakhstan students in foreign Universities and provides assistance in subsequent employment
+--- | ---
 Kazakhstan-Japanese Centre | Centre is open for a broad range of visitors, including students, teachers, businessmen and all those willing to know more about Japan and take part in the development of cultural links between the two countries. Trainees can acquire fundamental knowledge and practical skills of business management in a competitive environment and apply them in real situations. They also have an opportunity to learn of successes and failures of management in Japanese companies.
 ANEK Logistics Centre | As of today, the Logistics Centre is the only specialized training centre in the Republic of Kazakhstan, training specialists in the field of transport expedition and logistics. The main discipline is an International Freight Expeditor, developed in compliance with FIATA requirements.
 NLP Almaty Centre | Centre objective is to introduce and develop NLP (neuro-linguistic programming) in Kazakhstan in various sectors - business, politics, education, etc.
@@ -4757,12 +4689,11 @@ Since state licensing has not been provided for such institutions, their graduat
 
 Table 3.21. Description of students in non-formal sector of education
 
- | Number of students | | Distribution of students, based on their basic training: | | |
+Age | Number of students: total | Number of students: Including women | Distribution based on basic training: Below basic education | Distribution based on basic training: Basic education | Distribution based on basic training: Secondary (and above) education
 --- | --- | --- | --- | --- | ---
- | total | Including women | Below basic education | Basic education | Secondary (and above) education
 total | 19294 | 5404 | 175 | 4095 | 15024
 15 years of age | 28 | 11 | 3 | 25 | ...
-16 | 144 | 44 | | 136 | 8
+16 | 144 | 44 |  | 136 | 8
 17 | 890 | 225 | 29 | 423 | 438
 18 | 2282 | 603 | 18 | 719 | 1545
 19 | 2102 | 617 | 24 | 442 | 1636
@@ -4961,7 +4892,7 @@ Study of replies of students and parents, related to skills of critical thinking
 
 The study revealed a low level of skills of situational behaviour and personal safety assurance (quick reaction; ability to manage emotions; mobilization and resistance to violence). The vast majority of respondents said that they will refuse if offered drugs, but additional questions showed inability of most students to resist insistent requests. Many students do not understand why it is important to refrain from early sexual relations and are not aware of the culture of sex on the whole.
 
-Positive trends have been revealed in the process of review of social and civil skills . Extended international communication in polycultural Kazakhstan ensured cultivation of relevant skills with a vast majority of students. The poll also revealed a high level of development of team work skills and increased literacy in gender equality issues. Altogether, about a half of responding children are quite passive about offences, fights. This can be explained by stable positions of legal nihilism in students' mentality. Many respondents cannot constructively tackle conflicts, listen to another party, try to stay away from community activities.
+Positive trends have been revealed in the process of review of social and civil skills. Extended international communication in polycultural Kazakhstan ensured cultivation of relevant skills with a vast majority of students. The poll also revealed a high level of development of team work skills and increased literacy in gender equality issues. Altogether, about a half of responding children are quite passive about offences, fights. This can be explained by stable positions of legal nihilism in students' mentality. Many respondents cannot constructively tackle conflicts, listen to another party, try to stay away from community activities.
 
 When specifying conditions for employment, many respondents were not able to identify sources of information on vacancies at the labour market, behave at interview, make a resume, etc.
 
@@ -5125,7 +5056,7 @@ UN, UNESCO and other well-known international organizations pay special attentio
 ###### Contemporary understanding of literacy.
 Obviously, to develop and introduce Literacy Assurance Programmes, we would need, at least, appropriate notion of the term of 'literacy' and description of links between these and other adult training  programmes, aimed to ensure social and economic development.
 
-Understanding that it is not within the scope of the present Report to research the notion of literacy, we, however, believe we should briefly specify the contemporary notion of literacy, given evolution of its defi -nition. This is the only way to justify whether current adult programmes are relevant or irrelevant to literacy assurance objectives.
+Understanding that it is not within the scope of the present Report to research the notion of literacy, we, however, believe we should briefly specify the contemporary notion of literacy, given evolution of its definition. This is the only way to justify whether current adult programmes are relevant or irrelevant to literacy assurance objectives.
 
 In mass media today, we come across a whole number of notions, related to the term of literacy: traditional, or elementary, basic, minimal literacy; functional adult literacy; survival literacy; marginal literacy; cultural literacy, information literacy, etc. Despite different viewpoints, most researchers are based upon definition, provided by UNESCO in 1950s, defining literacy as a combination of skills, including reading and writing, applied in the social context, while the notion of literacy was based upon the process of use, application of knowledge, i.e., 'procedural knowledge', or competencies, different from 'declaratory knowledge' (i.e. knowledge of something). In 1957, UNESCO suggested defining the notion of a minimal literacy and functional literacy, where the former stands for the ability to read and write simple messages, and the latter stands for the level of literacy, allowing an individual to run a full-fledged life in a social environment. Based on this position and to collect statistical data, UNESCO suggested considering literate those people who have a minimum level of both elementary (basic/minimal) literacy and functional literacy
 
@@ -5197,7 +5128,7 @@ One of the first attempts to draw attention of stakeholders to international deb
 
 Unfortunately, two years after the publication and public discussions of the Report we may say that there was no significant feedback to recommendation from the wider community and professional communities.
 
-However, in our opinion, lack of direct references to the significance of a new vision of the issue of adult literacy within strategic documents cannot mean that political criteria and practical actions in the field
+However, in our opinion, lack of direct references to the significance of a new vision of the issue of adult literacy within strategic documents cannot mean that political criteria and practical actions in the field of formal and non-formal adult education do not take into account new global trends in enhancing the role of training of functionally literate people through creation of conditions for sustainable education (including the sector of complementary vocational education).
 
 > 10 Strategic Plan of Development of the Republic of Kazakhstan to 2010, 2001; Law of the Republic of Kazakhstan 'On Education', 1999; Strategy of Industrial and Innovation Development of the Republic of Kazakhstan, 2003;  State Programme of Education Development in the Republic of Kazakhstan to 2010, 2006.
 
@@ -5208,8 +5139,6 @@ However, in our opinion, lack of direct references to the significance of a new 
 [[START OF PAGE 110]]
 
 National Report
-
-of formal and non-formal adult education do not take into account new global trends in enhancing the role of training of functionally literate people through creation of conditions for sustainable education (including the sector of complementary vocational education).
 
 To acknowledge and explain the significance of this issue, a different terminology and a slightly different approach are applied.
 
@@ -5285,9 +5214,9 @@ In 2002, Ministry of Labour and Social Protection, based on lessons learnt, reco
 
 - To develop mechanism of forecasting, monitoring and governmental regulation of training of labour and specialists in compliance with labour market requirements 
 
-To take steps, aimed to extend the network of vocational schools, lyceums, to use vocational schools/lyceums, colleges as regional centres to train unemployed and engineer and teaching staff 
+- To take steps, aimed to extend the network of vocational schools, lyceums, to use vocational schools/lyceums, colleges as regional centres to train unemployed and engineer and teaching staff 
 
-To improve regulations in the field of organization and financing of vocational training and professional development of unemployed. 
+- To improve regulations in the field of organization and financing of vocational training and professional development of unemployed. 
 
 However, upon implementation of this Programme, it became clear that because of lack of relevant normative and legislative framework and sufficient funding some of planned objectives have not been achieved. Vocational training and retraining of young people from vulnerable groups remains the weakest link in poverty-reduction programmes.
 
@@ -5472,7 +5401,7 @@ Authorities of the National Commission have been expanded. It has been renamed i
 
 National Commission has its own Secretariat, forming a part of the Chancellery of Prime-Minister of the Republic of Kazakhstan.
 
-On site there are Commissions for family issues and gender policies, functioning under Akims of oblasts, cities of Astana, Almaty (hereinafter referred to as the Commission), as well as those of regions and cities,
+On site there are Commissions for family issues and gender policies, functioning under Akims of oblasts, cities of Astana, Almaty (hereinafter referred to as the Commission), as well as those of regions and cities, headed by deputies Akims. Commission is an advisory-consultative body under Akims of oblasts, cities of Almaty, Astana (hereinafter referred to as Akim).
 
 116
 
@@ -5481,8 +5410,6 @@ On site there are Commissions for family issues and gender policies, functioning
 [[START OF PAGE 117]]
 
 Progress in Achieving EFA Goals
-
-headed by deputies Akims. Commission is an advisory-consultative body under Akims of oblasts, cities of Almaty, Astana (hereinafter referred to as Akim).
 
 A legal framework of activities of the Commission comprises Constitution and Laws of the Republic of Kazakhstan, Acts of President of the Republic of Kazakhstan, other normative legal acts of the Republic of Kazakhstan, Resolutions of Akims, Typical Provisions on commission for family issues and gender policy under Akims of oblasts, cities of Astana, Almaty (Provisions have been approved by the Governmental Decree of 28.02. 20006 № 138).
 
@@ -5517,7 +5444,7 @@ A Scientific-Research Institutes, Centres have been established to achieve gende
 ###### 3.2.5.1.4. EFA Goal monitoring and assessment.
 To implement principles of gender equality in all sectors of life, including education, in compliance with Clause 3 of Presidential Decree 'On approval of Strategy of gender equality in the Republic of Kazakhstan 2006-2016' of 29.11.2005 № 1677, Ministry of Education and Science of the Republic of Kazakhstan (hereinafter referred to as the Ministry) annually, by 20 January, provides National Commission for family issues and gender policy with information on progress in Strategy implementation.
 
-To implement Presidential Decree 'On approval of Strategy of gender equality in the Republic of Kazakhstan 2006-2016' of 29.11.2005 № 1677, the Ministry annually, on 20 January, provides the National
+To implement Presidential Decree 'On approval of Strategy of gender equality in the Republic of Kazakhstan 2006-2016' of 29.11.2005 № 1677, the Ministry annually, on 20 January, provides the National Commission for family issues and gender equality with information on accomplishment of planned activities for the past year.
 
 117
 
@@ -5526,8 +5453,6 @@ To implement Presidential Decree 'On approval of Strategy of gender equality in 
 [[START OF PAGE 118]]
 
 National Report
-
-Commission for family issues and gender equality with information on accomplishment of planned activities for the past year.
 
 Departments of Education of oblasts, cities of Astana, Almaty annually (as of 1 October) provide the Ministry with a report, developed in compliance with form № 76-RIK.
 
@@ -5557,7 +5482,7 @@ All respondents noted that in their schools both girls and boys have equal acces
 
 The study showed manifestation of gender inequality in terms of distribution of professions, depending on sex. Key features of men's professions are as follows: courage, ability to overcome physical and moral difficulties, will-power, lack of patience. Key features of women's professions have been named the following: cleanliness, sophisticated taste, natural sleight of hand, tidiness, 'they are more sensitive to parents' model, notice minor things'.
 
-As it is known, it's mainly women who are employed at schools of the Republic and on the whole the system of education is feminized in the country, educational organizations are dominated by female teachers (80,6%). According to the Ministry, the total number of teachers of daytime secondary schools in academic
+As it is known, it's mainly women who are employed at schools of the Republic and on the whole the system of education is feminized in the country, educational organizations are dominated by female teachers (80,6%). According to the Ministry, the total number of teachers of daytime secondary schools in academic year 2005 - 2006 made 276.272, 222.964 of them were women; in academic year 2006-2007, relatively, the figure was 272.098, with 219.247 being women.
 
 118
 
@@ -5566,8 +5491,6 @@ As it is known, it's mainly women who are employed at schools of the Republic an
 [[START OF PAGE 119]]
 
 Progress in Achieving EFA Goals
-
-year 2005 - 2006 made 276.272, 222.964 of them were women; in academic year 2006-2007, relatively, the figure was 272.098, with 219.247 being women.
 
 According to outcomes of study of reasons for feminization in the framework of SFAC project 'Feminization of educational sector of the Republic of Kazakhstan: ways out and issues' (SRI of Kazakh State Female Teacher-Training Institute, Head of study Candidate of Sciences Tanirbergenova), the reason for current situation is, above all, low remuneration, low status of a teacher, 'men have no patience to work with children'.
 
@@ -5611,7 +5534,7 @@ Major general educational programmes are developed, based upon relevant state ma
 
 The government sets mandatory educational standards. Activities of any learning institutions should comply with these standards (Clause 4, Article 30 of Constitution of the Republic of Kazakhstan).
 
-The model of national system of education, specified by the above Law, is oriented, first of all, at assurance of high quality of education and cultivation, training of highly professional personnel with a new way of thinking and a higher level of civil consciousness, which would appropriately comply with modified social and economic conditions in the country.
+The model of national system of education, specified by the above Law, is oriented, first of all, at assurance of high quality of education and cultivation, training of highly professional personnel with a new way of thinking and a higher level of civil consciousness, which would appropriately comply with modified social and economic conditions in  the country.
 
 According to the official statistics (Agency for Statistics of the Republic of Kazakhstan), in Kazakhstan almost all girls are covered by primary education.
 
@@ -5637,11 +5560,11 @@ The total number of students in Grades 1-11 made 2.668.452, with 1.321.201 of th
 
 Acting legislation in the field of education ensures equal access to education of all citizens, irrelevant of their sex. The Concept of gender equality is followed at all levels of education.
 
-To ensure equal opportunities in the field of vocational education for girls, there are targeted career-guidance activities carried out among students of secondary schools, which enhances positive dynamics of growth of the number of girls, entering primary and secondary vocational institutions (PSVI). In particular, in academic year 2005-2006, the number of students in PSVI made 104.184 persons, with 33.991 of them being girls (32,6%), secondary vocational (colleges) - 397.631 students, with 210.566 of them being girls (53%).
+To ensure equal opportunities in the field of vocational education for girls, there are targeted career-guidance activities carried out among students of secondary schools, which enhances positive dynamics of growth of the number of girls, entering primary and secondary vocational institutions (PSVI). In particular, in academic year 2005-2006, the number of students in PSVI made 104.184 persons, with 33.991 of them being girls (32,6%),  secondary vocational (colleges) - 397.631 students, with 210.566 of them being girls (53%).
 
 In all higher institutions girls enjoy the same rights as young men for acquisition of higher education, scholarships and other legislative bonuses and benefits. Students are enrolled to higher institutions through complex testing, ensuring equal opportunities for acquisition of higher education. E.g., as of the beginning of academic year 2005-2006, out of the total number of students, studying at higher institutions at the expense of governmental educational grants, 56,8% were women.
 
-In the Republic of Kazakhstan there is a system of state educational grants for training of specialists with higher education. The main criterion for award of educational grants is the level of academic knowledge of entrants. There are also state scholarships for some categories of those studying at daytime divisions of state-owned learning institutions. In addition, orphaned students, students from families, enjoying targeted
+In the Republic of Kazakhstan there is a system of state educational grants for training of specialists with higher education. The main criterion for award of educational grants is the level of academic knowledge of entrants. There are also state scholarships for some categories of those studying at daytime divisions of state-owned learning institutions. In addition, orphaned students, students from families, enjoying targeted social aid, and students with a high level of academic knowledge as per results of tests, are provided with state student credits for partial coverage of expenses, incurred in food, accommodation and purchase of textbooks. The above grants and scholarships are awarded equally to men and women.
 
 120
 
@@ -5651,11 +5574,11 @@ In the Republic of Kazakhstan there is a system of state educational grants for 
 
 Progress in Achieving EFA Goals
 
-social aid, and students with a high level of academic knowledge as per results of tests, are provided with state student credits for partial coverage of expenses, incurred in food, accommodation and purchase of textbooks. The above grants and scholarships are awarded equally to men and women.
-
 In compliance with the Decree of the Government of the Republic of Kazakhstan of 31 May 2006 # 485 'On approval of State Order for training of specialists with higher education in organizations, funded by the Republican budget, specialists with higher education, with postgraduate education and graduates of higher institutions and scientific organizations for academic year 2006/2007', 29.470 grants have been awarded to train specialists with higher education.
 
-Out of 29.470 grants awarded, 18.382 have been provided to girls, including 9.542 to girls from rural areas. Kazakhstan has taken a lot of steps to accelerate actual equality of men and women, especially in the field of maternity. Young women who have to suspend their training because of pregnancy or child care, are provided with academic leaves, after which they are able to continue their studies.
+Out of 29.470 grants awarded, 18.382 have been provided to girls, including 9.542 to girls from rural areas.
+
+Kazakhstan has taken a lot of steps to accelerate actual equality of men and women, especially in the field of maternity. Young women who have to suspend their training because of pregnancy or child care, are provided with academic leaves, after which they are able to continue their studies.
 
 Table 3.24. Share of women with an academic degree
 
@@ -5667,7 +5590,7 @@ PhD | 2728 | 585 | 2869 | 605
 Candidates of Sciences | 12350 | 6085 | 12773 | 6470
 Professors | 2801 | 592 | 2884 | 603
 
-According to the National Centre for Scientific and Technical Information of the Republic of Kazakhstan, the number of theses, defended by women in 2005, makes 60,7% of the total. Share of women among competitors for Candidate's degree is 64,6%, their average age is 35,0. Weight of defense of PhD theses by women in 2005 made 41,6%.
+According to the National Centre for Scientific and Technical Information of the Republic of Kazakhstan, the number of theses, defended by women in 2005, makes 60,7% of the total. Share of women among competitors for Candidate's degree is 64,6%, their average age is 35,0.  Weight of defense of PhD theses by women in 2005 made 41,6%.
 
 Students are enrolled to scientific and research institutions to acquire postgraduate education, based on their applications and on a competitive basis in the sequence, established by the central executive body of the Republic of Kazakhstan in the field of education. All citizens of the Republic of Kazakhstan, irrelevant of their sex, have the right to be involved in scientific activities.
 
@@ -5727,7 +5650,7 @@ At the Republican Institute of professional development there are special course
 
 At the Kazakh State Women Teacher-training Institute there is a Gender discipline taught. This discipline studies the issue of sexes, encourages students to get a new vision of social and cultural and historical realties, establishes gender self-consciousness.
 
-Gender disciplines are taught at other higher institutions of the Republic as well: Kazakh National University after Al-Farabi, Kazakh National Academy of Arts after Zhurgenov, Kazakh National Conservatory
+Gender disciplines are taught at other higher institutions of the Republic as well: Kazakh National University after Al-Farabi, Kazakh National Academy of Arts after Zhurgenov, Kazakh National Conservatory after Kurmangazy, Zhetysu State University after Zhansugurov. Other higher institutions of the Republic are also launching these activities.
 
 122
 
@@ -5736,8 +5659,6 @@ Gender disciplines are taught at other higher institutions of the Republic as we
 [[START OF PAGE 123]]
 
 Progress in Achieving EFA Goals
-
-after Kurmangazy, Zhetysu State University after Zhansugurov. Other higher institutions of the Republic are also launching these activities.
 
 To support women education, a Kazakh State Women Teacher-training Institute (ZhenPI) was established in 1944. There are only women from rural areas studying here. Students include representatives of Kazakh Diasporas from various countries, oralmans. The Institute trains Physics, Math, Geography, Biology, Kazakh, Russian and Foreign Languages, History Teachers, Primary School Teachers and KG tutors.
 
@@ -5898,13 +5819,13 @@ In absence of such indicators, we may use some indirect indicators to masses qua
 
 Report on Global EFA Monitoring has four indicators:
 
-- Teacher – student ratio,
+- Teacher - student ratio, 
 
-- Teacher's qualification,
+- Teacher's qualification, 
 
-- Education financing,
+- Education financing, 
 
-- Academic proficiency of students.
+- Academic proficiency of students. 
 
 The following indicators are common for these two approaches - MDG Report and EFA Report: staff and financing of education .  At the same time, we find it illogical to underestimate such indicator in MDG Report as academic proficiency of students. As for such indicator as ' teacher -student ratio' , according to many experts, comparison upon such an indicator is not reliable enough for Kazakhstan, and results are not comparable. A small number of students per one teacher due to a great number of multi-grade schools in our country is rather an enforced need, and can be explained by low density of population and size of territory. For this reason, conclusions, based on comparison upon such an indicator, may be not objective enough in conditions of Kazakhstan.
 
@@ -5934,9 +5855,9 @@ In terms of Group 2 (Success and Transition) and 4 (Resources and Structures), a
 
 Thus, given the fact that presently in Kazakhstan there are no national criteria of quality assessment, we shall be guided by two groups of criteria:
 
-- Contributions to the system of education - (1) staff training and professional development, (2) material resources (or learning environment), (3) financing, including expenses per one student, and number of computers per one student. It is widely recognized that this group of indicators affects the quality of education.
+- Contributions to the system of education - (1) staff training and professional development, (2) material resources (or learning environment), (3) financing, including expenses per one student, and number of computers per one student. It is widely recognized that this group of indicators affects the quality of education. 
 
-- Assessment of academic proficiency of graduates and interim national monitoring (INM) of Primary school. These include: completion of secondary education, access to different levels of education, including higher education, and remuneration in the sector of education.
+- Assessment of academic proficiency of graduates and interim national monitoring (INM) of Primary school. These include: completion of secondary education, access to different levels of education, including higher education, and remuneration in the sector of education. 
 
 In addition, we also take into consideration that such factors as content of education, teaching and learning methodologies, health of students significantly affect the quality of education.
 
@@ -5982,11 +5903,11 @@ Thus, we can observe a clearly positive trend in computerization of education in
 ###### Financing or amount of state expenses.
 As it has already been noted in other Sections of the Report, state-owned education institutions of Kazakhstan are financed by republican and local budgets. A major share of financing of the system of education is covered by local budgets (over 80% of all expenses for the system of education) (Table 2.2., Clause 2.3.3. of the present Report).
 
-In the most difficult years the government was doing its best to protect key economic indicators - remuneration and facilities. Over the period from 1996 to 2000, investments in education in percentage ratio to GDP was being gradually reduced and somewhat stabilized in 2000. Starting from 2002, Kazakhstan witnessed growth of funding, allocated to the system of education in absolute value of the state budget. If in 2000, expenses for education amounted to 81,4 billion tenge, in 2004 they amounted to 195,6 billion tenge, and in 2006 - 331,5  billion tenge. I.e., expenses for education for 6 years have increased more than 4-fold. At the same years, a share of expenses for education, covered by the state budget, has been insignificantly but sustainably growing in percentage ratio to GDP. And this trend is being enhanced in the framework of a long-term educational policy of the country.
+In the most difficult years the government was doing its best to protect key economic indicators - remuneration and facilities. Over the period from 1996 to 2000, investments in education in percentage ratio to GDP was being gradually reduced and somewhat stabilized in 2000. Starting from 2002, Kazakhstan witnessed growth of funding, allocated to the system of education in absolute value of the state budget. If in 2000, expenses for education amounted to 81,4 billion tenge, in 2004 they amounted to 195,6 billion tenge, and in 2006 - 331,5 billion tenge. I.e., expenses for education for 6 years have increased more than 4-fold. At the same years, a share of expenses for education, covered by the state budget, has been insignificantly but sustainably growing in percentage ratio to GDP. And this trend is being enhanced in the framework of a long-term educational policy of the country.
 
 From 2003, the Republican budget for the first time started planning special budget programmes, aimed to allocate target transfers to local executive bodies for construction and maintenance of educational objects, ensure professional development of staff. E.g., for three years (2004-06) there have been 147 secondary schools constructed with a capacity of 55.702 students, including 51 schools, constructed by the Republican budget and 96 by local budgets. More detailed information has been specified in Section 'Learning environment'. The amount of national funds, aimed to ensure minor repairs of schools, classrooms and studies, purchase of visual aids, accessories, etc. is being increased.
 
-In 2006, state investments in education by organizations of Ministry of Education and Science amounted to 322,9 billion tenge (27,6 billion tenge more than in 2005), including investments from local budgets in the amount of 238,2 billion tenge. In 2006, there was 84,7 billion tenge allocated to the Ministry from the Republican budget. Compared to 2005, expenses for education in 2006 grew by 27.6 billion tenge or 48,3%. Republican budget allocates funds to 30 budget programmes, 15 of them provide for target transfers for the amount of 33,3 billion
+In 2006, state investments in education by organizations of Ministry of Education and Science amounted to 322,9 billion tenge (27,6 billion tenge more than in 2005), including investments from local budgets in the amount of 238,2 billion tenge. In 2006, there was 84,7 billion tenge allocated to the Ministry from the Republican budget. Compared to 2005, expenses for education in 2006 grew by 27.6 billion tenge or 48,3%. Republican budget allocates funds to 30 budget programmes, 15 of them provide for target transfers for the amount of 33,3 billion tenge to local budgets, aimed to carry out activities of state programmes (39,3% of the total budget, allocated for education), including 2.5 billion tenge, allocated for equipment of Physics, Chemistry and Biology classrooms.
 
 > 12 ICT issues have been described in detail in Section 2.4. We only provide some figures in this Section.
 
@@ -5998,15 +5919,13 @@ In 2006, state investments in education by organizations of Ministry of Educatio
 
 Progress in Achieving EFA Goals
 
-tenge to local budgets, aimed to carry out activities of state programmes (39,3% of the total budget, allocated for education), including 2.5 billion tenge, allocated for equipment of Physics, Chemistry and Biology classrooms.
-
-Given the fact that Kazakhstan is an average-income country, we find it reasonable to compare its expenses for education to those in OECD countries. In these countries, in 1999, they amounted to 5,2% of GDP, while being lower in Kazakhstan (3,1% of GDP in 2000 and 3,5% of GDP in 2005).
+Given the fact that Kazakhstan is an average-income country, we find it reasonable to compare its  expenses for education to those in OECD countries. In these countries, in 1999, they amounted to 5,2% of GDP, while being lower in Kazakhstan (3,1% of GDP in 2000 and 3,5% of GDP in 2005).
 
 The structure of expenses of local budgets, allocated for secondary education, remains rather stable and amounts to over 65% of all expenses for education, i.e. most expenses for education, though the amount of annual allocations varies from year to year.
 
 Table 3.25. Financing by levels of education (in million tenge)
 
-Year | Total | Pre-school education |  | Secondary general |  | Primary vocational |  | Secondary vocational |  | Higher |  | Other expenses | 
+Year | Total | Pre-school education | | Secondary general | | Primary vocational | | Secondary vocational | | Higher | | Other expenses |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2000 | 81416 | 3,65% | 2975 | 73,70% | 60007 | 3,31% | 2693 | 3,27% | 2662 | 9,97% | 8120 | 6,09% | 4959
 2001 | 103076 | 3,22% | 3322 | 65,22% | 67224 | 2,93% | 3018 | 2,45% | 2528 | 9,07% | 9344 | 17,11% | 17640
@@ -6020,9 +5939,9 @@ According to Table 3.26 below, general budget expenses per each student are grow
 
 Table 3.26. Expenses per student in pre-school education and secondary education, thousand tenge.
 
- | Pre-school education |  |  |  |  | Secondary education |  |  |  | 
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ | Pre-school education | | | | | Secondary education | | | |
  | 2000 | 2001 | 2002 | 2003 | 2004 | 2000 | 2001 | 2002 | 2003 | 2004
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Republic of Kazakhstan | 22,7 | 23,9 | 29,7 | 29,3 | 38,9 | 18,20 | 20,5 | 23,6 | 30,7 | 39,4
 Akmola | 2,3 | 2,7 | 4,2 | 9,1 | 14,1 | 19,4 | 22,6 | 28,7 | 36,4 | 50,8
 Aktobe | 25,2 | 12,8 | 18,9 | 24,2 | 33,0 | 22,2 | 22,7 | 26,1 | 36,0 | 45,1
@@ -6089,7 +6008,9 @@ In 1995-98, optimization of network of educational organizations brought to clos
 
 Table 3.27 Information on material and technical resources of secondary schools (2005-06).
 
-Oblast | Total number of schools | Technical description of school buildings: Requiring major repairs | % | Emergency conditions | % | Located in: Typical buildings | % | Adapted buildings | %
+Oblast | Total number of schools | Technical description of school buildings
+ | | Requiring major repairs | % | Emergency conditions | % | Located in
+ | | | | | | Typical buildings | % | Adapted buildings | %
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Akmola | 699 | 150 | 21,5 | 7 | 1,0 | 494 | 70,7 | 205 | 29,3
 Aktobe | 479 | 137 | 28,6 | 17 | 3,5 | 221 | 46,1 | 258 | 53,9
@@ -6127,7 +6048,8 @@ Construction and reconstruction of buildings of secondary education institutions
 
 Table 3.28. Number of constructed schools
 
-Year | Number of constructed schools | Number of seats at schools | Including those constructed at the expense of Republican budget | Including those constructed at the expense of local budgets
+Year | Number of constructed schools | Number of seats at schools | Including those constructed at the expense
+ | | | Of Republican budget | Of local budgets
 --- | --- | --- | --- | ---
 2004 | 42 | 17961 | 13 | 29
 2005 | 62 | 24462 | 27 | 35
@@ -6163,9 +6085,9 @@ According to Presidential Decree № 123 of 24 May 2006, by 2010 it is planned t
 
 In 2006, there were plans for construction as follows:
 
-- funded by the Republican budget - in total 92 education institutions with a capacity of 49.000 students for the amount of 14,5 billion tenge, including 84 schools (21 - city, 63 - village), 8 pre-school institutions
+funded by the Republican budget - in total 92 education institutions with a capacity of 49.000 students for the amount of 14,5 billion tenge, including 84 schools (21 - city, 63 - village), 8 pre-school institutions 
 
-- funded by local budgets - 78 education institutions are under construction with a capacity of 20.277 students for the amount over 5 billion tenge, including 66 schools, 4 pre-school institutions and 8 other education institutions.
+funded by local budgets - 78 education institutions are under construction with a capacity of 20.277 students for the amount over 5 billion tenge, including 66 schools, 4 pre-school institutions and 8 other education institutions. 
 
 In 2006, major repairs of 1.020 education institutions were planned; as of 1 September, major repairs have been accomplished in 731 learning institutions for the amount of 2,9 billion tenge, including 526 schools.
 
@@ -6227,7 +6149,7 @@ Source: Statistics of MES RK
 
 At first glance, there is no reason to be worried. But we can see that the issue becomes obvious as we transfer from one level of education to the next one. E.g., there is no specific picture in terms of 8,1% of pre-school children. This may mean that upon completion of the main stage some students do not continue their studies. These data are indirectly supported by poll 1999, which show that there is an increased share of people, not acquiring secondary general education. 18.9% of young people at the age of 18 did not have secondary general education, 12.9% - at the age of 20-24.
 
-According to the same data, 10.8% of teenagers at the age of 16 did not study anywhere and had no secondary general education. Even though estimates, based on information for academic year 2003/2004,
+According to the same data, 10.8% of teenagers at the age of 16 did not study anywhere and had no secondary general education. Even though estimates, based on information for academic year 2003/2004, show that as of beginning of the academic year there was a serious shift emerging in the field of acquisition of secondary general education, the issue has not been tackled in full.
 
 > 13  As we have already noted before, sex does not make a significant affect on coverage (access to) by secondary education.
 
@@ -6238,8 +6160,6 @@ According to the same data, 10.8% of teenagers at the age of 16 did not study an
 [[START OF PAGE 135]]
 
 Progress in Achieving EFA Goals
-
-show that as of beginning of the academic year there was a serious shift emerging in the field of acquisition of secondary general education, the issue has not been tackled in full.
 
 Thus, we still have an outstanding capacity in ensuring coverage of all school-age children with complete secondary education.
 
@@ -6289,7 +6209,7 @@ We may make a conclusion that the right of repatriate children for education is 
 To ensure access to quality education of repatriate children, experts believe it necessary to take steps, aimed at their integration into the community.
 
 ###### Repetition of the year.
-Efficiency of the system of education is assessed not only based on academic achieve -ments of students, but also based on such indicators as the number of students, repeating the year. In 2004 it made 0,14% or 4.131 students. Given the fact that repetition of the year may entail loss of motivation to study and work and, finally, result in child homelessness, delinquency and other unfavourable consequences, this figure should make us contemplate. According to NCAQE, the ratio of students, repeating the year, has been decreasing in the last 5 years.
+Efficiency of the system of education is assessed not only based on academic achievements of students, but also based on such indicators as the number of students, repeating the year. In 2004 it made 0,14% or 4.131 students. Given the fact that repetition of the year may entail loss of motivation to study and work and, finally, result in child homelessness, delinquency and other unfavourable consequences, this figure should make us contemplate. According to NCAQE, the ratio of students, repeating the year, has been decreasing in the last 5 years.
 
 Withdrawal of students within the system of secondary general education (Table 3.30) makes 0.02% and does not change significantly in the course of time.
 
@@ -6314,7 +6234,6 @@ Zhambyl | 0,01 | 0,02 | 0,01 | 0,01
 Progress in Achieving EFA Goals
 
 West Kazakhstan | 0,05 | 0,04 | 0,05 | 0,03
---- | --- | --- | --- | ---
 Karaganda | 0,02 | 0,01 | 0,02 | 0,02
 Kostanai | 0,00 | 0,01 | 0,00 | 0,01
 Kyzylorda | 0,04 | 0,02 | 0,04 | 0,01
@@ -6362,7 +6281,7 @@ Compared to 2000, coverage ratio in the field of higher education in 2004 has gr
 
 Almaty remains to be the Centre of student life, where 101% coverage of the population of typical age by higher education has been ensured due to the fact that the number of students is higher than the number of officially registered population of typical age in the city. It is followed by Astana (40,38%), Karaganda (38,21%), Atyrau (34,97%), West-Kazakhstan (34,46%) oblasts. The lowest coverage ratio is in North-Kazakhstan oblast (17,65%) and Almaty oblast (5,37%), in Almaty oblast this can be explained by the fact that a significant number of young people study in the city of Almaty, and graduates of North-Kazakhstan schools study in neighbouring oblasts of Russia.
 
-In 2004, the number of students, acquiring higher education under State Order (grants and credits), made 14,55%, on a chargeable basis - 84% and under other forms of financing - 1,45% only. Thusly, a high cover -age ratio on the whole is ensured due to the chargeable form of education (Tables 3.33, 3.34 and 3.35).
+In 2004, the number of students, acquiring higher education under State Order (grants and credits), made 14,55%, on a chargeable basis - 84% and under other forms of financing - 1,45% only. Thusly, a high coverage ratio on the whole is ensured due to the chargeable form of education (Tables 3.33, 3.34 and 3.35).
 
 Table 3.31. Coverage ratio by higher education in percentage (number of students, acquiring higher education under State Order, in percent of the total number of students
 
@@ -6390,7 +6309,6 @@ Mangistau | 26,94 | 7,70 | 10,31 | 7,17 | 6,71
 Progress in Achieving EFA Goals
 
 Pavlodar | 25,61 | 17,23 | 21,62 | 24,95 | 21,52
---- | --- | --- | --- | --- | ---
 North Kazakhstan | 29,82 | 16,95 | 21,39 | 23,40 | 21,38
 South Kazakhstan | 23,51 | 10,43 | 9,43 | 9,00 | 8,10
 Astana | 38,36 | 19,31 | 22,14 | 24,61 | 24,17
@@ -6447,7 +6365,6 @@ Kyzylorda | 0,00 | 12,35 | 3,53 | 0,38 | 0,02
 National Report
 
 Mangistau | 0,00 | 7,13 | 2,06 | 0,31 | 0,36
---- | --- | --- | --- | --- | ---
 Pavlodar | 0,00 | 4,80 | 2,24 | 0,07 | 0,20
 North Kazakhstan | 0,00 | 11,61 | 7,34 | 5,17 | 4,25
 South Kazakhstan | 0,00 | 6,94 | 1,63 | 0,61 | 0,19
@@ -6466,17 +6383,17 @@ According to the National Centre for Assessment of Quality of Education, in 2005
 Table 3.34. Coverage ratio in the field of primary and secondary vocational education (PSVET) in percentage (number of students, acquiring primary and secondary education and trainin, in percent of the total number of population of typical age)
 
 Primary technical and vocational education and trainin and trainin | Secondary technical and vocational education and trainin
---- | ---
+--- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 2000 | 2001 | 2002 | 2003 | 2004 | 2000 | 2001 | 2002 | 2003 | 2004
 5,01 | 4,94 | 4,98 | 5,27 | 5,44 | 6,32 | 7,26 | 7,66 | 8,84 | 11,58
 
 For the beginning of academic year 2006-07, the number of students, studying in PSVET institutions made over 559,6 thousand of people, which is 122,8 thousand people more than in 2005.
 
-A Governmental Decree #485 of 31 May 2006 'On approval of State Order for training of specialists with secondary vocational education in education institutions, being funded by the Republican budget, with higher education, with post-higher education in higher education institutions and scientific organizations for academic year 2006/2007' has been adopted. It specifies that to ensure training of specialists with higher qualifications in technical trades, ensuring implementation of Strategy of Industrial and Innovation Development of the Republic of Kazakhstan 2003-2015, the State Educational Order is increasing on an annual basis and is aimed to fund training of such specialists from the Republican budget. E.g., for academic year 2006/2007, the State Order covered 2.436 people, including 379 people to be trained In technical trades. Compared to previous year, it was a 87-people or 3% increase.
+A Governmental Decree #485 of 31 May 2006 'On approval of State Order for training of specialists with secondary vocational education in education institutions, being funded by the Republican budget, with higher education, with post-higher education in higher education  institutions and scientific  organizations for academic year 2006/2007' has been adopted. It specifies that to ensure training of specialists with higher qualifications in technical trades, ensuring implementation of Strategy of In -dustrial and Innovation Development of the Republic of Kazakhstan 2003-2015, the State Educational Order is increasing on an annual basis and is aimed to fund training of such specialists from the Republican budget. E.g., for academic year 2006/2007, the State Order covered 2.436 people, including 379 people to be trained In technical trades. Compared to previous year, it was a 87-people or 3% increase.
 
 According to MES, demand for programmes of this level of education is growing. An increasing number of middle school graduates make a decision to study in vocational schools and colleges, which in some cases even brings to excessive competition of 2-3 persons per one position. In addition, transfer to a 12-year education provides for increase in the number of students in vocational schools up to 30% of the total number of graduates of middle school, while currently the system of vocational education covers 10.5% graduates only.
 
-However, steps to increase coverage by vocational education are not sufficient. PSVET institutions are located, mainly, in oblast centres. As it has already been noted in Section on EFA Goal 3, there are no
+However, steps to increase coverage by vocational education are not sufficient. PSVET institutions are located, mainly, in oblast centres. As it has already been noted in Section on EFA Goal 3, there are no vocational schools/lyceums in 43 regions. Coverage by vocational education is particularly complicated in terms of children with special needs.
 
 140
 
@@ -6485,8 +6402,6 @@ However, steps to increase coverage by vocational education are not sufficient. 
 [[START OF PAGE 141]]
 
 Progress in Achieving EFA Goals
-
-vocational schools/lyceums in 43 regions. Coverage by vocational education is particularly complicated in terms of children with special needs.
 
 Thusly, uneven concentration of TVET institutions in cities and practical lack in many rural areas as well as non-chargeable nature of a limited number of educational programmes makes us make a not very comforting conclusions on limited accessibility of TVET and SVET. So-called 'prestigious' directions of education are not always accessible for children from less-privileged groups of population, in particular, for children with special needs in education and graduates of orphan asylums.
 
@@ -6499,14 +6414,14 @@ When entering higher institutions on a competitive basis, in compliance with Art
 
 To hold UNT, in 2004, 134 UNT Sites (SNTS) were established, in 2006 their number grew up to 155. They were established in 33 cities of Republican status and 96 regional centres. They were established because of the need to hold exams as close to the location of school-leavers as possible. The Government allocates funds to ensure meals, accommodation and transportation of children to testing sites on an annual basis. In 2006, 102.1 million tenge was allocated for these needs in 2006, 440.2 million tenge was allocated to maintain testing sites and hold UNT. In 2006, the Republican budget financed establishment of another 20 testing sites in regional centres and cities, which allowed reducing the distance for transportation of 13.641 school-leavers.
 
-According to 2006 UNT, an average point in the Republic made  63,29 (in 2005 - 60,4). 39.478 school-leavers or 24,75% of the total number of UNT holders were awarded 0-49 points, i.e. demonstrated the level of knowledge which is lower than the threshold one. Due to the fact that in 2005, the threshold level was 39 points (13,5% UNT holders failed to reach it), it is hard to make conclusions on whether academic proficiency improved or aggravated. However, if 2006 outcomes only serve as a basis, we may state that a quarter of school-leavers, who were involved in UNT in 2006, showed the level of their academic proficiency less than the threshold one  (Table 3.36.). 65.04% of school-leavers were awarded 71-100 points, in 2005 - 25,4%, which showed a two-fold improvement. 6.555 school-leavers were awarded more than 100 points which is 4,11% of the total number (last year - 2,84%). This shows improved academic proficiency of students.
+According to 2006 UNT, an average point in the Republic made 63,29 (in 2005 - 60,4). 39.478 school-leavers or 24,75% of the total number of UNT holders were awarded 0-49 points, i.e. demonstrated the level of knowledge which is lower than the threshold one. Due to the fact that in 2005, the threshold level was 39 points (13,5% UNT holders failed to reach it), it is hard to make conclusions on whether academic proficiency improved or aggravated. However, if 2006 outcomes only serve as a basis, we may state that a quarter of school-leavers, who were involved in UNT in 2006, showed the level of their academic proficiency less than the threshold one (Table 3.36.). 65.04% of school-leavers were awarded 71-100 points, in 2005 - 25,4%, which showed a two-fold improvement. 6.555 school-leavers were awarded more than 100 points which is 4,11% of the total number (last year - 2,84%). This shows improved academic proficiency of students.
 
 Table 3.35. UNT results
 
 Year | UNT Results
---- | --- | --- | --- | --- | ---
  | Average point | Less than threshold | 50-70 16 | 71-100 | 101-120
-2003 |  | 28,1% | 58,7% | 12,3% | 0,61%
+--- | --- | --- | --- | --- | ---
+2003 | | 28,1% | 58,7% | 12,3% | 0,61%
 2004 | 53,32% | 24,19% | 61,08% | 14,04% | 0,69%
 2005 | 60,36% | 13,45% | 58,31% | 25,39% | 2,84%
 2006 | 63,29% | 24,75% | 42,77% | 65,04% | 4,11%
@@ -6567,9 +6482,9 @@ We can make an overall conclusion that external assessment of students' learning
 
 At present it is hard to objectively assess how efficient the system of national education is functioning compared to other countries. When talking about the quality of education, as a rule, they provide information on the number of people, who won at Olympiads, entered higher institutions, were awarded School-leaving Certificates with Honors. But these do not reflect the quality of system on the whole. Besides, some of above indicators are not objective enough and to a certain degree depend both on efficient organization of monitoring and tools, applied for monitoring. Obviously, we should start with results, which schoolchildren showed at school, first of all, their academic achievements, acquisition of basic skills at key stages of their development, as well as understanding of factors, enhancing efficient training and efficient self-training. This, in its turn, raises the issue of availability of comparative data or, as they also call them, benchmark 17.
 
-No doubt, it is necessary to further improve the very assessment system, based on the best international practices. The content of standards, curricula, programmes and educational materials, not aimed to develop practical and generic skills, and limit the developments of such skills. They are prevailed by factual  knowledge which, accordingly, does not allow assessing the development of such skills.
+No doubt, it is necessary to further improve the very assessment system, based on the best international practices. The content of standards, curricula, programmes and educational materials, not aimed to develop practical and generic skills, and limit the developments of such skills. They are prevailed by factual knowledge which, accordingly, does not allow assessing the development of such skills.
 
-> 17  Вenchmark (English) - milestone, border. Benchmarks are a new way of perception of national situation, local and regional efficiency and quality of performance of individual schools. Benchmarks are sometimes used as means of diagnostics and means to inform politicians and practitioners, and are based on the need to study both internal developments and situations in neighboring countries. (European Report on Quality of School Education, Brussels, 2000).
+> 17  Benchmark (English) - milestone, border. Benchmarks are a new way of perception of national situation, local and regional efficiency and quality of performance of individual schools. Benchmarks are sometimes used as means of diagnostics and means to inform politicians and practitioners, and are based on the need to study both internal developments and situations in neighboring countries. (European Report on Quality of School Education, Brussels, 2000).
 
 143
 
@@ -6594,13 +6509,13 @@ Activities are carried out to ensure access to education, social support and ada
 
 Altogether, review of implementation of EFA Goal 6 shows that its capacity has not been exhausted yet. Key issues in this field are as follows:
 
-- Steps, which are being taken, have a 'global', overall nature, do not always take into account the needs of specific target groups - children from less-privileged groups of population, for these or other reasons not covered by education, as well as children with special needs. Less than 30% of children with special needs are provided with educational services, based on their needs. Mechanism of involvement of children from less-privileged families, orphans with behavioural issues in a regular educational process and graduation is not always efficient. In this context, we may say that steps taken to ensure access to education for all mainly protect the right of well-standing citizens and insufficiently take into consideration the needs of marginal groups of population.
+Steps, which are being taken, have a 'global', overall nature, do not always take into account the needs of specific target groups - children from less-privileged groups of population, for these or other reasons not covered by education, as well as children with special needs. Less than 30% of children with special needs are provided with educational services, based on their needs. Mechanism of involvement of children from less-privileged families, orphans with behavioural issues in a regular educational process and graduation is not always efficient. In this context, we may say that steps taken to ensure access to education for all mainly protect the right of well-standing citizens and insufficiently take into consideration the needs of marginal groups of population. 
 
-- As a result, about 8% of children do not execute the right for secondary general education, guaranteed by Constitution of the Republic of Kazakhstan. A number of people, especially from less-privileged families, find themselves outside the school before the term of their mandatory education is over. Because some children are not motivated to acquire education, and in some cases it's for economic reasons that the level of absenteeism among schoolchildren is quite high. An objective methodology of registration of absenteeism and proper mechanism of return of such children to school has not been developed yet. Unfortunately, a certain number of ethnic Kazakhs, in particular those residing in remote regions of the country, do not have enough opportunities to acquire quality education.
+As a result, about 8% of children do not execute the right for secondary general education, guaranteed by Constitution of the Republic of Kazakhstan. A number of people, especially from less-privileged families, find themselves outside the school before the term of their mandatory education is over. Because some children are not motivated to acquire education, and in some cases it's for economic reasons that the level of absenteeism among schoolchildren is quite high. An objective methodology of registration of absenteeism and proper mechanism of return of such children to school has not been developed yet. Unfortunately, a certain number of ethnic Kazakhs, in particular those residing in remote regions of the country, do not have enough opportunities to acquire quality education. 
 
-- Only a small number of our small citizens can be covered by pre-school education. Children from most vulnerable groups of population have no this opportunity, which means weak preparedness of most children for school and, as a result, unequal start opportunities for many children yet at pre-school age.
+Only a small number of our small citizens can be covered by pre-school education. Children from most vulnerable groups of population have no this opportunity, which means weak preparedness of most children for school and, as a result, unequal start opportunities for many children yet at pre-school age. 
 
-- Regional disparity in quality of education is maintained between oblasts. It is not incidental that all analytical materials on problematic regions often mention Mangistau, Atyrau, Kyzylorda, South-Kazakhstan, Almaty and Zhambyl oblasts, where, along with high salaries of some part of population and
+Regional disparity in quality of education is maintained between oblasts. It is not incidental that all analytical materials on problematic regions often mention Mangistau, Atyrau, Kyzylorda, South-Kazakhstan, Almaty and Zhambyl oblasts, where, along with high salaries of some part of population and 
 
 144
 
@@ -6612,19 +6527,19 @@ Progress in Achieving EFA Goals
 
 guest specialists, there are 'poverty isles'. Severe differences in the level of development of regions of the Republic of Kazakhstan definitely cause inequality in budget allocations to the system of education, which affects accessibility of education and its quality.
 
-- Access to quality education in Kazakhstan to a certain extent is still limited by location and to a large degree remains a prerogative of urban population. Rural children also have less opportunities to acquire additional educational information and services because of underdeveloped social and cultural infrastructure. The structure of network of learning institutions, organization of educational process and teaching technologies in regional system of education are uniform and do not take into account differences of regions, their budget possibilities.
+Access to quality education in Kazakhstan to a certain extent is still limited by location and to a large degree remains a prerogative of urban population. Rural children also have less opportunities to acquire additional educational information and services because of underdeveloped social and cultural infrastructure. The structure of network of learning institutions, organization of educational process and teaching technologies in regional system of education are uniform and do not take into account differences of regions, their budget possibilities. 
 
 Important steps, planned by the Government, in  particular, aimed to increase investments in the field of education, improve the system of training and retraining, establish proper infrastructure, will allow creating conditions, needed to fulfill commitments in the field of real execution of rights for quality education as 'an irreplaceable means of disclosure and protection of other human rights through creation of conditions, needed for full-fledged health, freedom, safety, economic well-being as well as involvement in social and political life of the country'.
 
 ##### 3.2.6.3 Recommendations for adjustment
 
-- To pay more attention to assurance of equal access to quality education for children with special needs in education as well as repatriate children.
+To pay more attention to assurance of equal access to quality education for children with special needs in education as well as repatriate children. 
 
-- To take target steps to ensure quality education for children from less-privileged families. To increase resources of Universal Schooling Foundation, target support to their families, provide such children with vouchers so that they could continue their education (on a competitive basis)…..
+To take target steps to ensure quality education for children from less-privileged families. To increase resources of Universal Schooling Foundation, target support to their families, provide such children with vouchers so that they could continue their education (on a competitive basis)….. 
 
-- To thoroughly study and identify reasons of low results of academic proficiency of students of those regions, showing differences in quality of education, compared to average Republican indicators.
+To thoroughly study and identify reasons of low results of academic proficiency of students of those regions, showing differences in quality of education, compared to average Republican indicators. 
 
-- To acquire an objective picture of quality of education, to develop the system of indicators, comparable to international, first of all, European indicators. To expand involvement of Kazakhstan students in comparative international assessments (surveys).
+To acquire an objective picture of quality of education, to develop the system of indicators, comparable to international, first of all, European indicators. To expand involvement of Kazakhstan students in comparative international assessments (surveys). 
 
 145
 
@@ -6665,7 +6580,7 @@ State expenses for education in the last five years have been growing along with
 ##### Unresolved issues.
 One of such issues is to increase the quality of education at all levels. Despite the fact that most strategic documents of the last decade specify that it needs to be addressed, none of them has a justified or at least approximate definition of the 'quality of education' and reliable indicators of its measurement.
 
-Policy of establishment of a single state system in the field of assessment of efficiency of education, level of knowledge and skills, so that this indicator could be compared to similar international practices, is under development. Involvement of Kazakhstan in international comparatory studies of real achievements of students in the framework of ТIMMS and PIZA   programmes would enhance speedy resolution of this essential issue.
+Policy of establishment of a single state system in the field of assessment of efficiency of education, level of knowledge and skills, so that this indicator could be compared to similar international practices, is under development. Involvement of Kazakhstan in international comparatory studies of real achievements of students in the framework of TIMMS and PIZA programmes would enhance speedy resolution of this essential issue.
 
 The procedure of development and implementation of educational policy, management of all levels of education are still predominated by 'upside-down' approach; attempts to democratize this process have been insufficiently maintained by relevant legislative framework and resources.
 
@@ -6843,23 +6758,23 @@ Education and health are interrelated. Key issue of the system of education is, 
 
 Given the importance and capacity of a healthy school environment, international organizations launched a number of Flagship programmes in the field of education, including:
 
-1. Extended access to early childhood programmes
+- Extended access to early childhood programmes
 
-2. Literacy for all: revised perspective of a global Action Plan
+- Literacy for all: revised perspective of a global Action Plan
 
-3. UN initiative in the field of extended access to education for girls
+- UN initiative in the field of extended access to education for girls
 
-4. Assurance of education in emergency and crisis situations
+- Assurance of education in emergency and crisis situations
 
-5. Teachers and quality of education
+- Teachers and quality of education
 
-6. Education for people with limited abilities
+- Education for people with limited abilities
 
-7. Extended access to education for rural communities
+- Extended access to education for rural communities
 
-8. AIDS prevention initiative
+- AIDS prevention initiative
 
-9. FRESH: focusing resourses for effective school hygiene
+- FRESH: focusing resourses for effective school hygiene
 
 There are two programmes of nine implemented in Kazakhstan - FRESH and HIV/AIDS prevention. UNESCO, UNICEF, World Labour Organization, World Bank provide support in FRESH introduction: 'Focusing resources for efficient school health', aimed to improve sanitation enlightenment in secondary schools. As it is known, this Framework Programme has four key components:
 
@@ -6873,10 +6788,10 @@ There are two programmes of nine implemented in Kazakhstan - FRESH and HIV/AIDS 
 
 Programme implementation provides for close cooperation and partnership between educational and healthcare sectors, teachers, medical staff and communities, overall awareness-raising and involvement of students in the establishment of a safe, healthy, inclusive educational environment.
 
-##### FRESH in Kazakhstan.
-A pilot project was implemented by UNESCO Associated Schools and covered 6 schools in 5 regions of Kazakhstan. Because of limited funds, the project was mainly focused on study of issues, related to life skills development, including healthcare skills, as well as supply of equipment to these schools. In particular, BEST School, Almaty, was supplied with a water filter; School № 5, Almaty, was provided with equipment for medical office. As we have already noted, particular focus was aimed to educate coordinators and students (4 students per each school), to ensure life skills development, preventive education, balanced nutrition, healthy lifestyle.
+##### FRESH in Kazakhstan .
+A pilot project was implemented by UNESCO Associated Schools and covered 6 schools in 5 regions of Kazakhstan. Because of limited funds, the project was mainly focused on study of issues, related to life skills development, including healthcare skills, as well as supply of equipment to these schools. In particular, BEST School, Almaty, was supplied with a water filter; School № 5, Almaty, was pro -vided with equipment for medical office. As we have already noted, particular focus was aimed to educate coordinators and students (4 students per each school), to ensure life skills development, preventive education, balanced nutrition, healthy lifestyle.
 
-Special emphasis was made on sanitation awareness-raising and trainers training. An important conclusion was made that development of healthy life style skills is not only an educational but first of all a social issue. It cannot be tackled through efforts of school and teachers only. Changes in youth behaviour - healthy lifestyle - cannot be made in an isolated manner, in one narrow field. Behavioural changes require a comprehensive approach, i.e., along with healthcare skills they should be taught more comprehensive skills - tackle issues, make informed decisions, be able to efficiently communicate with others, to think critically and creatively, etc. Proper educational environment plays an important role, being a crucial factor and prerequisite for psycho-emotional and intellectual development of children. Students' health, quality of their nutrition directly affects their academic proficiency and, finally, success in life. And, vice versa, bad nutrition, diseases prevent their full-fledged physical and intellectual development, lead to absenteeism and low academic proficiency.
+Special emphasis was made on sanitation awareness-raising and trainers training. An important conclusion was made that development of healthy life style skills is not only an educational but first of all a social issue. It cannot be tackled through efforts of school and teachers only. Changes in youth behaviour - healthy lifestyle - cannot be made in an isolated manner, in one narrow field. Behavioural changes require a comprehensive approach, i.e., along with healthcare skills they should be taught more comprehensive skills - tackle issues, make informed decisions, be able to efficiently communicate with others, to think critically and creatively, etc. Proper educational environment plays an important role, being a crucial factor and prerequisite for psychoemotional and intellectual development of children. Students' health, quality of their nutrition directly affects their academic proficiency and, finally, success in life. And, vice versa, bad nutrition, diseases prevent their full-fledged physical and intellectual development, lead to absenteeism and low academic proficiency.
 
 151
 
@@ -6889,7 +6804,7 @@ National Report
 Comprehensive programmes in the field of healthcare, hygiene and nutrition for schools are efficient means to improve students' health, academic proficiency and, finally, society on the whole. In this context, we face the need to involve into FRESH Programme other educational institutions of the Republic. This need is confirmed by conclusions of almost all Sections of Report, devoted to description of ways to achieve all Six EFA Goals.
 
 ##### HIV prevention.
-UNESCO and UNICEF put special emphasis on HIV/AIDS and drug-addiction prevention, including among young people. It is widely-recognized that so far there is no vaccine for this infection, prevention through education is the most efficient means to prevent this epidemic. In this context, the key objective of Flagship programme is to raise awareness of teachers in the field of HIV prevention, to arm them with skills of system preventive activities with students and their parents, to cultivate behaviours, reducing the risk of infection and personal vulnerability to this disease.
+UNESCO and UNICEF put special emphasis on HIV/AIDS and drug-addiction preven -tion, including among young people. It is widely-recognized that so far there is no vaccine for this infection, prevention through education is the most efficient means to prevent this epidemic. In this context, the key objective of Flagship programme is to raise awareness of teachers in the field of HIV prevention, to arm them with skills of system preventive activities with students and their parents, to cultivate behaviours, reducing the risk of infection and personal vulnerability to this disease.
 
 In the Programme framework, in compliance with the Agreement, signed between Ministry of Education of the Republic of Kazakhstan and UNESCO Cluster Office, Almaty, in November 2003, Kazakhstan hosted a two-day workshop on Adaptation of Guidelines on HIV/AIDS prevention at schools. Attendees of the workshop, held under methodological and financial support of UNESCO, comprised heads and teachers of secondary schools from all 16 regions of Kazakhstan, representatives of regional professional development institutions, non-governmental and international organizations.
 
@@ -6899,10 +6814,10 @@ In May 2004, similar activities were held to adjust an awareness-raising package
 
 Ignorance and concealment of this issue are key reasons for its rapid dissemination. Therefore, the above workshops and materials have become a significant support and some kind of discovery for many educators. It's for the first time in the sector of education that numbers of those infected have been displayed. It's for the first time that educators talked about stigma and discrimination of infected people, reasons of HIV infection, its social aspects.
 
-###### Measures taken in Kazakhstan.
+###### Measures  taken in Kazakhstan.
 Efforts of international organizations, aimed to prevent HIV/AIDS, have become some kind of a catalyst for steps, taken by the government in this field.
 
-The first HIV-infected person was registered in the Republic in 1987. According to statistics, based on registration of discovered cases, as of 1 January 2007, a cumulative number of registered HIV-infected people made 7.402. These people include 75.5% of regular injection drug-addicts, 76% are men, 72% are unemployed, 62% are people at the age of 15-29. In the last years, an increasing number of people are becoming infected through sexual transmission, in 2005 there were 25% of such cases (in 2001 - 5%); at the same time the number of HIV-positive women in the structure of newly-registered cases has increased (from 19% in 2001 up to 28% in 2005). Compared to 1987, when the first HIV-infected person was registered, in January 2007, there were 49 HIV-infected people per each 100.000 people. In January 2005, the number of HIV-infected people totaled to 31 per each 100.000 (Source: MDG 2005, p. 83). In some regions, ratio of registered HIV-infected significantly exceeds an average Republican indicator. E.g., in Pavlodar oblast there are 1.083 infected, in Karaganda - 1.796, in Almaty - 1.483. There were cases when children and adults were infected by medical staff. According to the Ministry of Healthcare of the Republic of Kazakhstan, out of those HIV-infected, registered as of 01.01.2007, 201 are AIDS-infected (as of 01.05.2007 - 543 people). 65,7% of the total number of HIV-infected are young people at the age of 15-29.
+The first HIV-infected person was registered in the Republic in 1987. According to statistics, based on registration of discovered cases, as of 1 January 2007, a cumulative number of registered HIV-infected people made 7.402. These people include 75.5% of regular injection drug-addicts, 76% are men, 72% are unemployed, 62% are people at the age of 15-29. In the last years, an increasing number of people are becoming infected through sexual transmission, in 2005 there were 25% of such cases (in 2001 - 5%); at the same time the number of HIV-positive women in the structure of newly-registered cases has increased (from 19% in 2001 up to 28% in 2005). Compared to 1987, when the first HIV-infected person was registered, in January 2007, there were 49 HIV-infected people per each 100.000 people.  In January 2005, the number of HIV-infected people totaled to 31 per each 100.000 (Source: MDG 2005, p. 83). In some regions, ratio of registered HIV-infected significantly exceeds an average Republican indicator. E.g., in Pavlodar oblast there are 1.083 infected, in Karaganda - 1.796, in Almaty - 1.483. There were cases when children and adults were infected by medical staff. According to the Ministry of Healthcare of the Republic of Kazakhstan, out of those HIV-infected, registered as of 01.01.2007, 201 are AIDS-infected (as of 01.05.2007 - 543 people). 65,7% of the total number of HIV-infected are young people at the age of 15-29.
 
 152
 
@@ -6912,11 +6827,9 @@ The first HIV-infected person was registered in the Republic in 1987. According 
 
 EFA Strategies and LEADING ISSUES (EFA FLAGSHIP ISSUES) directed on EFA Goals achievement
 
-Table 5.1. Cumulative data of registered HIV-infected as of 01.01.2007.
-
-Oblast | Absolute value | Absolute value | As per 100.000 people 2003 | As per 100.000 people 2003
+Absolute value | As per 100.000 people 2003
 --- | --- | --- | --- | ---
- | Total | Including children under 14 years of age | Total | Including children under 14 years of age
+Oblast | Total | Including chil- dren under 14 years of age | Total | Including chil- dren under 14 years of age
 Republic of Kazakhstan | 7402 | 134 | 49,0 | 3,1
 Akmola | 129 | 1 | 16,9 | 0,5
 Aktobe | 130 | 1 | 18,9 | 0,5
@@ -6935,7 +6848,9 @@ South Kazakhstan | 919 | 85 | 44,0 | 11,6
 Astana | 99 | 0 | 22,8 | 0,0
 Almaty | 1483 | 6 | 128,7 | 2,3
 
-Source: Republican AIDS Prevention Centre. Information 'HIV/AIDS-related epidemiological situation for December, 12 months of 2006 and as of 1 January 2007'
+Table 5.1. Cumulative data of registered HIV-infected as of 01.01.2007.
+
+Source: Republican AIDS Prevention Centre. Information 'HIV/AIDS-related epidemiological situation for December, 12 months of 2006 and as of 1 January 2007 '
 
 Given the rate of HIV/AIDS dissemination in the world, Kazakhstan has relatively low indicators. However, the speed of dissemination of this dangerous infection is becoming too large-scaled. As of 1 January 2006, HIV/AIDS dissemination in Kazakhstan, according to the number of people who contacted medical organizations, made 37,7 per 100.000 citizens. In 2007, out of 688 HIV-infected children 574 were children of school-age.
 
@@ -6943,7 +6858,7 @@ Kazakhstan recognizes HIV/AIDS to be a development issue. The country has accede
 
 The last years have seen an increase in understanding of the role of education, enlightenment of population in the field of HIV/AIDS containment and prevention. It is not incidental that experts make a conclusion that success or failure of HIV/AIDS prevention steps to a large extent depend upon whether the government will be able to develop and carry out efficient enlightenment activities, aimed to prevent this infection, to inform every member of society of ways to protect him-/herself from it.
 
-Given the fact that since 2001 rates of HIV/AIDS expansion in the country have been some of the largest in the world, the government takes steps to reduce risks of infection and dissemination of this disease. The following legislative framework has been established in the Republic:
+Given the fact that since 2001 rates of HIV/AIDS expansion in the country have been some of the larg -est in the world, the government takes steps to reduce risks of infection and dissemination of this disease. The following legislative framework has been established in the Republic:
 
 - 1994 - the Law On AIDS Prevention adopted; 
 
@@ -6961,45 +6876,45 @@ Given the fact that since 2001 rates of HIV/AIDS expansion in the country have b
 
 National Report
 
-- 2001 - Strategic HIV/AIDS Prevention Programme 2002-2005 approved within the system of the Ministry of Education and Science of the Republic of Kazakhstan. It is a follow-up of AIDS Prevention Programme 2001-05, adopted by the Governmental Decree №1207 of 14 September 2001, and covers some points of the Programme of urgent steps of CIS countries in the field of HIV/AIDS prevention (2002),
+- 2001 - Strategic HIV/AIDS Prevention Programme 2002-2005 approved within the system of the Ministry of Education and Science of the Republic of Kazakhstan. It is a follow-up of AIDS Prevention Programme 2001-05, adopted by the Governmental Decree №1207 of 14 September 2001, and cov -ers some points of the Programme of urgent steps of CIS countries in the field of HIV/AIDS prevention (2002), 
 
-- 2004 - Law of the Republic of Kazakhstan 'On amendments to the Law of the Republic of Kazakhstan 'On AIDS Prevention' of 1994;
+- 2004 - Law of the Republic of Kazakhstan 'On amendments to the Law of the Republic of Kazakhstan 'On AIDS Prevention' of 1994; 
 
-- 2006 - AIDS Prevention Programme 2006 -2010 adopted. Its objective is to stabilize AIDS expansion at a concentrated stage, without allowing it to transfer to a generalized stage.
+- 2006 - AIDS Prevention Programme 2006 -2010 adopted. Its objective is to stabilize AIDS expansion at a concentrated stage, without allowing it to transfer to a generalized stage. 
 
 The most efficient means to combat and prevent HIV/AIDS in the world is preventive education. In this respect, Ministry of Education and Science of the Republic of Kazakhstan has also adopted a number of important documents. These include:
 
-- The Order of the Ministry of Education and Science of the Republic of Kazakhstan № 12 of 31 January 1999 On HIV/AIDS prevention classes at learning institutions of the Republic of Kazakhstan;
+- The Order of the Ministry of Education and Science of the Republic of Kazakhstan № 12 of 31 Janu -ary 1999 On HIV/AIDS prevention classes at learning institutions of the Republic of Kazakhstan; 
 
-- State Standard of education in Valeology, integrating the issues of HIV/AIDS prevention, studied as an optional class, special class, Club activity;
+- State Standard of education in Valeology, integrating the issues of HIV/AIDS prevention, studied as an optional class, special class, Club activity; 
 
-- Typical syllabi for professional development classes, covering HIV/AIDS prevention as a mandatory course, developed and approved;
+- Typical syllabi for professional development classes, covering HIV/AIDS prevention as a mandatory course, developed and approved; 
 
-- Methodological HIV/AIDS Prevention Guidelines developed and published for teachers of schools, colleges, extracurricular learning institutions to ensure increased efficiency of preventive activities, carried out with students;
+- Methodological HIV/AIDS Prevention Guidelines developed and published for teachers of schools, colleges, extracurricular learning institutions to ensure increased efficiency of preventive activities, carried out with students; 
 
-- Trade 050905 Social Activities has been complemented with activities for vulnerable groups of population and support to HIV-infected people;
+- Trade 050905 Social Activities has been complemented with activities for vulnerable groups of population and support to HIV-infected people; 
 
-- Self-learning discipline has been introduced into school curricula as a mandatory subject;
+- Self-learning discipline has been introduced into school curricula as a mandatory subject; 
 
-- Awareness-raising activities have become more active among students in the field of healthy lifestyle promotion, involving narcological services, law-enforcement bodies, AIDS Centres and Healthy Lifestyle Centres;
+- Awareness-raising activities have become more active among students in the field of healthy life -style promotion, involving narcological services, law-enforcement bodies, AIDS Centres and Healthy Lifestyle Centres; 
 
-- Large-scaled campaigns like Young people against drugs, HIV/AIDS, alcohol and tobacco addiction; creative contests and posters with the subject of Life cannot be reversed, Watch out for AIDS, etc. are being held on a frequent basis;
+- Large-scaled campaigns like Young people against drugs, HIV/AIDS, alcohol and tobacco addiction; creative contests and posters with the subject of Life cannot be reversed, Watch out for AIDS, etc. are being held on a frequent basis; 
 
-- In the framework of Equal to Equal volunteer movement, 3-day training workshops are held for volunteering students in the field of HIV/AIDS prevention;
+- In  the framework of Equal to Equal volunteer movement, 3-day training workshops are held for volunteering students in the field of HIV/AIDS prevention; 
 
-- In the last two years, in the framework of Strategic HIV/AIDS Prevention Programme, over 60 thousand educators have been re-trained;
+- In the last two years, in the framework of Strategic HIV/AIDS Prevention Programme, over 60 thou -sand educators have been re-trained; 
 
-- Ministry of Education and Science holds national and regional scientific and practical workshops for some categories of teachers, including those on HIV/AIDS prevention. All professional development courses for educators cover HIV/AIDS, drugs and tobacco addiction prevention components;
+- Ministry of Education and Science holds national and regional scientific and practical workshops for some categories of teachers, including those on HIV/AIDS prevention. All professional development courses for educators cover HIV/AIDS, drugs and tobacco addiction prevention components; 
 
-- Various methodological aids, recommendations, programmes, educational materials (about 10 in the last two years) have been developed and published in the state and Russian languages for heads of learning institutions;
+- Various methodological aids, recommendations, programmes, educational materials (about 10 in the last two years) have been developed and published in the state and Russian languages for heads of learning institutions; 
 
-- Public awareness-raising activities and campaigns 'Beauty and Health', Republican children's festival 'My health is my future', devoted to health protection of children and young people, are held in all regions on a regular basis; Festivals and Health Days, presidential tests are hosted; presidential mile 'Way to Health' was attended by about 2.5 million children and teenagers;
+- Public awareness-raising activities and campaigns 'Beauty and Health', Republican children's festival 'My health is my future', devoted to health protection of children and young people, are held in all regions on a regular basis; Festivals and Health Days, presidential tests are hosted; presidential mile 'Way to Health' was attended by about 2.5 million children and teenagers; 
 
-- In November-December 2006, a month of Universal AIDS Prevention was held. On 1 December all learning institutions held activities under the slogan 'Stop AIDS. Keep your promise', 'Lesson of life', etc.;
+- In November-December 2006, a month of Universal AIDS Prevention was held. On 1 December all learning institutions held activities under the slogan 'Stop AIDS. Keep your promise', 'Lesson of life', etc.; 
 
-- Thematical corners 'Everything about AIDS' have been arranged in libraries of learning institutions, a list of recommended references developed on HIV/AIDS and drug-addiction;
+- Thematical corners 'Everything about AIDS' have been arranged in libraries of learning institutions, a list of recommended references developed on HIV/AIDS and drug-addiction; 
 
-- Under the support of UNESCO Cluster Office, methodological recommendations have been developed in the field of integrated development of HIV prevention skills through school disciplines.
+- Under the support of UNESCO Cluster Office, methodological recommendations have been devel -oped in the field of integrated development of HIV prevention skills through school disciplines. 
 
 The amount of funds, allocated to these or those programmes from the Republic budget is a significant indicator. Therefore, we can't ignore such a positive factor of all adopted documents as allocation of funds for activities, provided for by the Government in the framework of AIDS Prevention Programme 2006 -2010. Its crucial component is implementation of preventive programmes. Given basic funding, provided to state institutions and organizations of various sectors to implement the Programme (for 5 years), 6.708.930.000 tenge have been allocated. Grants of international organizations amounted to 3.922.670.000 tenge.
 
@@ -7021,7 +6936,7 @@ In December 2006, AIDS Combating Programme 2006-2010 was approved in December 20
 
 Ministry of Education and Science plays an important role in implementation of the governmental Decree #1216 of 15 December 2006 'On approval of AIDS Combating Proigramme 2006-2010 in the Republic of Kazakhstan' in terms of awareness-raising of children and young people on HIV/AIDS prevention.
 
-Training of social workers in terms of implementation of preventive programmes among vulnerable groups of population and support to HIV-infected people is studied under Trade 050905-'Social Activities'. In addition, at present higher institutions are introducing a Self-Learning discipline, making an important component of the cycle of mandatory disciplines. HIV/AIDS prevention is going to be studied in the framework of this discipline.
+Training of social workers in terms of implementation of preventive programmes among vulnerable groups of population and support to HIV-infected people is studied under Trade 050905-'Social Activities'. In addition, at present higher institutions are introducing a Self-Learning discipline, making an important component of the cycle of mandatory disciplines. HIV/AIDS prevention is going to be studied in the frame -work of this discipline.
 
 According to heads of higher institutions, awareness-raising activities have become more active among students in the field of healthy lifestyle promotion, involving narcological services, law-enforcement bodies, AIDS Centres and Healthy Lifestyle Centres. Relevant activities are underway among children and young people.
 
@@ -7031,9 +6946,9 @@ Based on students' replies the following conclusions could be made: vast majorit
 
 Most students showed good answers to questions like 'Can HIV be transmitted when you shake hands?', 'Can it be transmitted when someone sneezes or coughs?', 'In a sauna, bath, swimming pool?'. However, questions like 'Can it be transmitted with a mosquito bite?' or 'Should AIDS-infected be isolated from the community?' were hard to answer. If we believe answers of respondents, over half of our students do not care about the drug-addiction issue.
 
-Testing of students of primary and secondary vocational learning institutions (1.035 students) covered such questions as 'Sources of HIV/AIDS-related information', 'Students' awareness of HIV/AIDS', 'Preventive steps', 'Sexual relations and AIDS'.
+Testing of students of primary and secondary vocational learning institutions (1.035 students) covered such questions as 'Sources of HIV/AIDS-related information', 'Students' awareness of HIV/AIDS', 'Preven -tive steps', 'Sexual relations and AIDS'.
 
-Questioning showed that awareness of students of primary and secondary vocational institutions in the field of HIV/AIDS may be regarded as satisfactory. Students of such oblasts as Pavlodar, North-Kazakhstan, Akmola, Almaty are well informed of ways of HIV/AIDS transmission: parenteral (blood to blood), sexual, vertical (from Mother to child). But most respondents of such oblasts as East-Kazakhstan, Aktobe, South-Kazakhstan are wrong thinking that they can get infected through insects bites, when they use the same sauna, are afraid of respiratory transmission.
+Questioning showed that awareness of students of primary and secondary vocational institutions in the field of HIV/AIDS may be regarded as satisfactory. Students of such oblasts as Pavlodar, North-Kazakhstan, Akmola, Al -maty are well informed of ways of HIV/AIDS transmission: parenteral (blood to blood), sexual, vertical (from Mother to child). But most respondents of such oblasts as East-Kazakhstan, Aktobe, South-Kazakhstan are wrong thinking that they can get infected through insects bites, when they use the same sauna, are afraid of respiratory transmission.
 
 155
 
@@ -7049,11 +6964,11 @@ Non-governmental organizations of Kazakhstan also make their own contribution to
 
 The Board of MES RK discussed the issue 'On situation in the field of HIV/AIDS prevention at learning institutions of the Republic of Kazakhstan' (in December 2002 and November 2005).
 
-Data show that preventive activities in the field of HIV and drug-addiction have been enhanced significantly. However, it is also obvious that steps underway are of a comprehensive nature and not targeted at vulnerable groups of young people and adults. Preventive activities do not sufficiently involve students of remote regions of the country.
+Data show that preventive activities in the field of HIV and drug-addiction have been enhanced sig -nificantly. However, it is also obvious that steps underway are of a comprehensive nature and not targeted at vulnerable groups of young people and adults. Preventive activities do not sufficiently involve students of remote regions of the country.
 
 HIV prevention issues are mainly covered by the Ministry of Healthcare. Efforts of various agencies and organizations are not coordinated enough at national and regional levels in terms of development and implementation of national strategies and programmes. An analytical database is underdeveloped. Access to information of some target groups, in particular, from remote/rural areas, is limited. Educational and methodological materials are of a common nature, they are not differentiated by age groups. There are not enough aids which could be used by educators in the learning process.
 
-HIV-related documents do not sufficiently cover educational activities. Monitoring of programmes implementation is not efficient. HIV/AIDS prevention and sanitation enlightenment activities are not integrated into the content and methodology of syllabi and are studied as optional courses in the framework of Valeology. Vocational training of teachers in this issue is not sufficient.
+HIV-related documents do not sufficiently cover educational activities. Monitoring of programmes imple -mentation is not efficient. HIV/AIDS prevention and sanitation enlightenment activities are not integrated into the content and methodology of syllabi and are studied as optional courses in the framework of Valeology. Vocational training of teachers in this issue is not sufficient.
 
 HIV/AIDS preventive activities are mainly aimed at sanitation enlightenment, cultivation of skills, which is good in itself. However, there are no analytical data on their efficiency and targeted nature. There is an impression that the main objective for organizers is to carry out activities just for the sake of activities and not for the sake of results.
 
@@ -7086,17 +7001,17 @@ Despite steps taken and being taken by the Government of the Republic of Kazakhs
 
 In this context, educational bodies and organizations of various levels of types of education could significantly build their capacity in the field of preventive activities, including the following steps:
 
-- regular awareness-raising of young people on available steps to prevent HIV, preventive enlightenment should be comprehensive, multi-sectoral, flexible and open; it should be targeted at all factors, increasing vulnerability to HIV: sexual behaviour, gender issues, family and community circumstances, education, poverty, discrimination, drug and alcohol-addiction, peer influence, etc.;
+regular awareness-raising of young people on available steps to prevent HIV, preventive enlighten -ment should be comprehensive, multi-sectoral, flexible and open; it should be targeted at all factors, increasing vulnerability to HIV: sexual behaviour, gender issues, family and community circumstances, education, poverty, discrimination, drug and alcohol-addiction, peer influence, etc.; 
 
-- thematical issues of moral and sexual education should be introduced into curricula of secondary and higher institutions;
+thematical issues of moral and sexual education should be introduced into curricula of secondary and higher institutions; 
 
-- HIV-infected citizens of the Republic of Kazakhstan should be provided support through education, retraining and employment;
+HIV-infected citizens of the Republic of Kazakhstan should be provided support through education, retraining and employment; 
 
-- specialists should be trained to take HIV preventive steps, communication skills of teachers should be improved (they should be psychologically prepared to professionally discuss sensitive matters);
+specialists should be trained to take HIV preventive steps, communication skills of teachers should be improved (they should be psychologically prepared to professionally discuss sensitive matters); 
 
-- international cooperation and regular information exchange should be maintained in the framework of international HIV preventive programmes;
+international cooperation and regular information exchange should be maintained in the framework of international HIV preventive programmes; 
 
-- best national practices (unique ethnical and cultural context of Kazakhstan), efficient practices of other countries should be applied and adjusted.
+best national practices (unique ethnical and cultural context of Kazakhstan), efficient practices of other countries should be applied and adjusted. 
 
 157
 
@@ -7118,7 +7033,7 @@ We may point out three key stages of external cooperation development in the fie
 
 - second half of 90s - optimization period. 
 
-The first Kazakhstan experience in the field of external cooperation development in the field of education in 70s-80s was strictly regulated by Soviet normative acts, aimed to achieve ideological and political goals of former super-power. The overall context external cooperation development in the field of education at that period would meet requirements of Communist ideological expansion and application of the Russian language worldwide. The system of education for foreign citizens provided for one-year learning of the Russian language as a foreign one at preparatory faculties.
+The first Kazakhstan experience in the field of external cooperation development in the field of edu -cation in 70s-80s was strictly regulated by Soviet normative acts, aimed to achieve ideological and political goals of former super-power. The overall context external cooperation development in the field of education at that period would meet requirements of Communist ideological expansion and application of the Russian language worldwide. The system of education for foreign citizens provided for one-year learning of the Russian language as a foreign one at preparatory faculties.
 
 On the whole, summarizing description of the 'pre-independence' Kazakhstan experience of external cooperation in the field of education, we should point out the following:
 
@@ -7128,13 +7043,13 @@ On the whole, summarizing description of the 'pre-independence' Kazakhstan exper
 
 - activities, aimed to develop external cooperation in the field of education, enhanced development of international cooperation in humanitarian sector, but contradicted declared objectives, providing for expansion of Communist ideas. 
 
-External cooperation development in the field of education, development of cooperation with foreign partners have become possible after Kazakhstan gained independence. In the first half of the 90s, Kazakhstan signed the first Agreements on Educational Cooperation. Mainly, they related to cooperation in the field of higher education.
+External cooperation development in the field of education, development of cooperation with foreign partners have become possible after Kazakhstan gained independence. In the first half of the 90s, Kazakh -stan signed the first Agreements on Educational Cooperation. Mainly, they related to cooperation in the field of higher education.
 
 In early 90s it became obvious that governmental objectives in the field of political, social and economic reforms could not be achieved by available specialists and staff. In his Decree of 3 November 1993, President of the Republic of Kazakhstan introduced Bolashak international scholarships to train specialists abroad. For the first time in the history of CIS countries talented young people have been provided with an opportunity to acquire education in leading countries of the world at the country expense. It should be noted that in the subsequent years this practice was introduced by Presidents of other CIS countries.
 
 Establishment of a new (for the young country) type of international relations in the field of education was a pre-requisite to ensure Republic's equal joining the global community. Therefore, by mid-90s, over 40 intergovernmental and interdepartmental Agreements have been signed. In addition, learning institutions of Kazakhstan signed over 70 direct Cooperation Agreements with foreign partners.
 
-The third stage of external cooperation development in the field of education starts from comprehension of the importance and place of international cooperation in the field of reform of Kazakhstan system of education, its goals and objectives. At present, we may state that in the field of international cooperation in the field of education we have achieved such a degree of freedom of choice and activities of learning institutions that allows expanding external links in compliance with the initiative.
+The third stage of external cooperation development in the field of education starts from comprehen -sion of the importance and place of international cooperation in the field of reform of Kazakhstan system of education, its goals and objectives. At present, we may state that in the field of international cooperation in the field of education we have achieved such a degree of freedom of choice and activities of learning institu -tions that allows expanding external links in compliance with the initiative.
 
 Lessons learnt in the first half of the 90s (both positive and negative) allowed in the future to more thoroughly address the issues of cooperation establishment and development, including that in the field of education. Currently, the key objective of international cooperation is to optimize organizational and technical activities, to study capacity of foreign partners and ensure practical fusion of internal needs with real external opportunities.
 
@@ -7148,35 +7063,35 @@ Managing international support and coordination on EFA goals achievement
 
 Development of international cooperation in the process of reform of the system of education is a priority since it:
 
-1. enhances identification of final goals and objectives of reforms through account of universal global trends in the field of education, including EFA Strategies, life-long education, standards of education, etc.;
+1. enhances identification of final goals and objectives of reforms through account of universal global trends in the field of education, including EFA Strategies, life-long education, standards of educa -tion, etc.;
 
 2. is a pre-requisite for Kazakhstan's equal joining the global community and an intellectual framework for cooperation in other fields of international relations;
 
 3. identifies ways of integration with national systems of education of developed countries, ensures mutual recognition of achievements in the field of education;
 
-4. attracts significant additional funds in the form of loans, grants, technical and charitable support.
+- attracts significant additional funds in the form of loans, grants, technical and charitable support.
 
 In the last decade Kazakhstan has signed and is successfully implementing about 50 intergovernmental and interministerial agreements. Most higher institutions of Kazakhstan have direct Cooperation Agreements with foreign partners. Annually more than 4.000 Kazakhstan schoolchildren, students, postgraduate students and teachers acquire complete or affiliate education in leading countries. About 3.000 foreign citizens study at learning institutions of Kazakhstan. Assistance is provided in meeting of educational needs of representatives of foreign Kazakh Diaspora. Many activities are carried out to preserve and develop a single educational space in the framework of CIS, Eurasian Economic Community, Union of Central Asian Republics and Kazakhstan. Gratuitous contribution to the development of system of education, made by foreign partners, amounts to USD25 million annually in the form of scholarships, grants, joint projects, etc.
 
-As it has already been noted in Section 3.1., in the field of EFA Goals achievement MES RK most closely cooperates with UNESCO and UNICEF 21. In addition to joint activities, described in this Section, Ministry of Education and Science of the Republic of Kazakhstan maintains cooperation with these organizations in a number of other fields, directly related to achievement of 6 Goals of Education for All in Kazakhstan, including the following projects:
+As it has already been noted in Section 3.1., in the field of EFA Goals achievement MES RK most closely cooperates with UNESCO and UNICEF  21.  In addition to joint activities, described in this Section, Ministry of Education and Science of the Republic of Kazakhstan maintains cooperation with these organizations in a number of other fields, directly related to achievement of 6 Goals of Education for All in Kazakhstan, includ -ing the following projects:
 
-- In cooperation with Early Education Department of UNESCO HQ in Paris, activities have been carried out to implement the Virtual interactive course in planning and management of upbringing and education of pre-school children. The programme has been implemented in 15 towns of all oblasts and large cities of Almaty and Astana. The project has covered 184 specialists of educational bodies, Directors, tutors of pre-school Grades.
+In  cooperation with Early Education Department of UNESCO HQ in Paris, activities have been carried out to implement the Virtual interactive course in planning and management of upbringing and education of pre-school children. The programme has been implemented in 15 towns of all oblasts and large cities of Almaty and Astana. The project has covered 184 specialists of educational bodies, Directors, tutors of pre-school Grades. 
 
-- To implement Presidential Order on rehabilitation of network of pre-school institutions and development of full-fledged pre-school education, MES RK in cooperation with UNESCO Cluster Office in Almaty assessed the quality of the system of pre-school education in the framework of a global project of Early Childhood Department of UNESCO HQ in Paris and OECD 'Policy review in the field of pre-school education'. Two Reports have been developed, providing analytical review of five issues of policy in the field of pre-school education: access, quality, resources, interdepartmental coordination and statistics development.
+To implement Presidential Order on rehabilitation of network of pre-school institutions and development of full-fledged pre-school education, MES RK in cooperation with UNESCO Cluster Office in Almaty assessed the quality of the system of pre-school education in the framework of a global project of Early Childhood Department of UNESCO HQ in Paris and OECD 'Policy review in the field of preschool education'. Two Reports have been developed, providing analytical review of five issues of policy in the field of pre-school education: access, quality, resources, interdepartmental coordination and statistics development. 
 
 #### Cooperation with UNICEF:
 
-- Signing of Basic Cooperation Agreement in 1994 with the Government of the Republic of Kazakhstan and signing of Basic Country Programme Plan 2005-2009 in the field of protection of children's rights for development, protection and involvement.
+Signing of Basic Cooperation Agreement in 1994 with the Government of the Republic of Kazakhstan and signing of Basic Country Programme Plan 2005-2009 in the field of protection of children's rights for development, protection and involvement. 
 
-- Interaction in the framework of jointly established Committee for Protection of Children's Rights under MES RK (2006) to prevent children from being placed in boarding schools, to integrate children in academic processes (inclusive education), to ensure structured approach to protection of childhood in the Republic of Kazakhstan, to ensure development of social activities.
+Interaction in the framework of jointly established Committee for Protection of Children's Rights under MES RK (2006) to prevent children from being placed in boarding schools, to integrate children in academic processes (inclusive education), to ensure structured approach to protection of childhood in the Republic of Kazakhstan, to ensure development of social activities. 
 
-- 2005 - assessment of project in the field of de-institualization and development of alternative forms of children placement, which needs to be improved through further development of standards and provision of social services both for guardianship and patronage.
+2005 - assessment of project in the field of de-institualization and development of alternative forms of children placement, which needs to be improved through further development of standards and provision of social services both for guardianship and patronage. 
 
-- 2006 - planning of activities in the field of de-institualization strategy and National Action Plan development, hosting of Forum on protection of CARK children's rights.
+- 2006 - planning of activities in the field of de-institualization strategy and National Action Plan de -velopment, hosting of Forum on protection of CARK children's rights. 
 
-- Cooperation between the Committee for Assessment of Quality of Education and UNICEF in the field of development of indicators of child-friendly schools.
+- Cooperation between the Committee for Assessment of Quality of Education and UNICEF in the field of development of indicators of child-friendly schools. 
 
-- Joint development of integrated life skills course, etc.
+- Joint development of integrated life skills course, etc. 
 
 > 21  Please find detailed information on cooperation between Kazakhstan and international organizations and foreign countries in Annex А-1.
 
@@ -7190,29 +7105,29 @@ National Report
 
 ### 7. Overall conclusions and policy recommendations on EFA Goals achievements until 2015
 
-Challenges of globalization naturally bring many countries to the need to introduce profound reforms within their educational systems - this takes place in such countries as USA and China, Pacific countries and UK, Eastern European and South American countries, etc. In a contemporary world education becomes one of the crucial factors of establishment of a new quality of economy. Its role is constantly growing along with the growing impact of human resources. In a social life of market economies education restricts class stratification of the society, ensuring 'an equal start' for groups of population with different incomes and locations. A national policy in the field of education development is able to consolidate different social groups.
+Challenges of globalization naturally bring many countries to the need to introduce profound reforms within their educational systems - this takes place in such countries as USA and China, Pacific countries and UK, Eastern European and South American countries, etc. In a contemporary world education becomes one of the crucial factors of establishment of a new quality of economy. Its role is constantly growing along with the growing impact of human resources. In a social life of market economies education restricts class stratification of the society, ensuring 'an equal start' for groups of population with different incomes and loca -tions. A national policy in the field of education development is able to consolidate different social groups.
 
 Universal trends in creation of conditions for life-long education stand for the need to modernize the system of education both for children, teenagers, young people and adults.
 
 Kazakhstan stays involved in global trends. In the framework of governmental strategies and educational policy, steps are taken to ensure equal opportunities for access of children and young people to full-fledged education, irrelevant of financial situation of the family, location, nationality and health, to use opportunities for social protection of children and teenagers, left without proper parental care. As important attention is paid to discovery and target support of the most gifted, talented children and young people.
 
-Given limited financial possibilities of the government, steps are taken to ensure more efficient consumption of human, information, material, financial resources of private businesses.
+Given limited financial possibilities of the government, steps are taken to ensure more efficient con -sumption of human, information, material, financial resources of private businesses.
 
 To ensure further implementation of EFA Goals, to create conditions for life-long education, to increase the economic and social role of the system of education, it is needed to continue programme activities, aimed to:
 
-- ensure up-to-date quality of education: education should be targeted not only and not as much at mastering of a certain amount of knowledge by students, but at the development of independence, personal responsibility, creative capabilities and properties of a personality, including the skill and aspiration to study, act, learn; to improve the quality of learning process, based on application of modern technologies, including through expanded inclusion of learning institutions into modern information networks;
+ensure up-to-date quality of education: education should be targeted not only and not as much at mastering of a certain amount of knowledge by students, but at the development  of independence, personal responsibility, creative capabilities and properties of a personality, including the skill and aspiration to study, act, learn; to improve the quality of learning process, based on application of modern technologies, including through expanded inclusion of learning institutions into modern information networks; 
 
-- tackle the issue of insufficient access to pre-school education: capacity of KGs is five-fold less than the number of pre-school children in the country. It is required to take steps in the field of stage-by-stage increase of funding of pre-school education by 2010 more than 10-fold compared to 2007 and make it 1% of GDP, which will allow ensuring accessible pre-school education;
+tackle the issue of insufficient access to pre-school education: capacity of KGs is five-fold less than the number of pre-school children in the country. It is required to take steps in the field of stage-by-stage increase of funding of pre-school education by 2010 more than 10-fold compared to 2007 and make it 1% of GDP, which will allow ensuring accessible pre-school education; 
 
-- expand accessibility of education, ensure equal opportunities for acquisition of full-fledged education, establish a sustainable education system through integration of sectors of formal and non-formal education;
+expand accessibility of education, ensure equal opportunities for acquisition of full-fledged educa -tion, establish a sustainable education system through integration of sectors of formal and non-formal education; 
 
-- ensure expanded accessibility of technical and vocational education for young people and adults, in particular, for teenagers with special needs in education and graduates of children's asylums, as well as those residing in rural areas;
+ensure expanded accessibility of technical and vocational education for young people and adults, in particular, for teenagers with special needs in education and graduates of children's asylums, as well as those residing in rural areas; 
 
-- take steps, aimed at preservation and enhancement of students' health, including through monitoring of health of children and young people, improved quality of nutrition in learning institutions;
+take steps, aimed at preservation and enhancement of students' health, including through monitoring of health of children and young people, improved quality of nutrition in learning institutions; 
 
-- improve public and state status of an educator;
+- improve public and state status of an educator; 
 
-- enhance interaction between learning institutions with labour markets, employers and business circles, enterprises and organizations of various forms of ownership.
+enhance interaction between learning institutions with labour markets, employers and business circles, enterprises and organizations of various forms of ownership. 
 
 Associations of citizens, employers, parents, authorities and local self-governance bodies, specific agencies (of defense, healthcare, labour, etc.), all those interested in further education development should be actively involved in educational policy.
 
@@ -7248,85 +7163,89 @@ National Report
 
 #### National Documents
 
-1. National Action Plan of the Republic of Kazakhstan 'Education for All'. Astana: Ministry of Education and Science of the Republic of Kazakhstan, 2003.
+- National Action Plan of the Republic of Kazakhstan 'Education for All'. Astana: Ministry of Education and Science of the Republic of Kazakhstan, 2003.
 
-2. Constitution of the Republic of Kazakhstan. Almaty, 1995.
+- Constitution of the Republic of Kazakhstan. Almaty, 1995.
 
-3. Concept of state support to non-governmental organizations of the Republic of Kazakhstan - Astana, 2002.
+- Concept  of  state  support  to  non-governmental  organizations  of  the  Republic  of  Kazakhstan  -  Astana,  2002.
 
-4. Concept of Education Development in the Republic of Kazakhstan to 2015, 2004.
+- Concept of Education Development in the Republic of Kazakhstan to 2015, 2004.
 
-5. Message of President to the People of Kazakhstan 'Kazakhstan-2030: Prosperity, safety and improved well-being of all Kazakhstan citizens'. October 1997.
+- Message of President to the People of Kazakhstan 'Kazakhstan-2030: Prosperity, safety and improved well-being of all Kazakhstan citizens'. October 1997.
 
-6. Message of President to the People of Kazakhstan 'Towards competitive Kazakhstan, competitive economy, competitive nation'. Astana, 2004.
+- Message of President to the People of Kazakhstan 'Towards competitive Kazakhstan, competitive economy, competitive nation'.  Astana, 2004.
 
-7. Message of President to the People of Kazakhstan 'Kazakhstan on the way to accelerated economic, social and political modernization'. Astana, 2005.
+- Message of President to the People of Kazakhstan 'Kazakhstan on the way to accelerated economic, social and political modernization'. Astana, 2005.
 
-8. Message of President to the People of Kazakhstan 'Strategy of Kazakhstan's joining 50 most competitive countries of the world. Kazakhstan on the threshold of a new spurt in its development'. Astana, 2006
+- Message of President to the People of Kazakhstan 'Strategy of Kazakhstan's joining 50 most competitive countries of the world. Kazakhstan on the threshold of a new spurt in its development'. Astana, 2006
 
-9. Message of President to the People of Kazakhstan 'New Kazakhstan in the new world'. Astana, 2007.
+- Message of President to the People of Kazakhstan 'New Kazakhstan in the new world'.  Astana, 2007.
 
-10. Strategic Plan of Development of the Republic of Kazakhstan to 2010. Astana: Yelorda, 2002.
+- Strategic Plan of Development of the Republic of Kazakhstan to 2010. Astana: Yelorda, 2002.
 
-11. Strategy 'Kazakhstan-2030. Prosperity, safety and improved well-being of all Kazakhstan citizens'. Almaty, 1997.
+- Strategy 'Kazakhstan-2030. Prosperity, safety and improved well-being of all Kazakhstan citizens'. Almaty, 1997.
 
-12. Strategy of Reforms in Education. Astana, 2001.
+- Strategy of Reforms in Education. Astana, 2001.
 
-13. On Budget System, 1999 (with additions made in 2003).
+#### Laws of the Republic of Kazakhstan
 
-14. On Children Family-Type Villages and Youth Houses, 2000.
+- On Budget System, 1999 (with additions made in 2003).
 
-15. On Local State Governance in the Republic of Kazakhstan, 2001.
+- On Children Family-Type Villages and Youth Houses, 2000.
 
-16. On non-profit organizations of the Republic of Kazakhstan, 2002.
+- On Local State Governance in the Republic of Kazakhstan, 2001.
 
-17. On Education, 1999.
+- On non-profit organizations of the Republic of Kazakhstan, 2002.
 
-18. On Public Associations in the Republic of Kazakhstan, 2001.
+- On Education, 1999.
 
-19. On Social Partnership, 2001.
+- On Public Associations in the Republic of Kazakhstan, 2001.
 
-20. On Languages in the Republic of Kazakhstan,1997.
+- On Social Partnership, 2001.
 
-21. On Child's Rights in the Republic of Kazakhstan, 2002.
+- On Languages in the Republic of Kazakhstan,1997.
 
-22. On Matrimony and Family, 1998.
+- On Child's Rights in the Republic of Kazakhstan, 2002.
 
-23. On Protection of Health of Citizens of the Republic of Kazakhstan, 1997.
+- On Matrimony and Family, 1998.
 
-24. On Social, Medical, Pedagogical and Correction Support to Children with Limited Abilities, 2002.
+- On Protection of Health of Citizens of the Republic of Kazakhstan, 1997.
 
-25. State Programme 'Aul Mektebi' 2003-2005, 2003.
+- On Social, Medical, Pedagogical and Correction Support to Children with Limited Abilities, 2002.
 
-26. State Programme of Informatization of Secondary Education, 1997.
+#### State Programmes
 
-27. State Programme 'Education', 2000.
+- State Programme 'Aul Mektebi' 2003-2005, 2003.
 
-28. State Programme of Education Development in the Republic of Kazakhstan 2005 -2010, 2004.
+- State Programme of Informatization of Secondary Education, 1997.
 
-29. State Programme on Poverty and Unemployment Reduction 2000-2002, 2000.
+- State Programme 'Education', 2000.
 
-30. State Poverty Reduction Programme 2003-2005, 2002.
+- State Programme of Education Development in the Republic of Kazakhstan 2005 -2010, 2004.
 
-31. State Information Inequality Reduction Programme, 2006.
+- State Programme on Poverty and Unemployment Reduction 2000-2002, 2000.
 
-32. Programme of establishment of interactive information and learning environment in schools of the Republic of Kazakhstan 2007-2008, 2006.
+- State Poverty Reduction Programme 2003-2005, 2002.
+
+- State Information Inequality Reduction Programme, 2006.
+
+- Programme of establishment of interactive information and learning environment in schools of the Republic of Kazakhstan 2007-2008, 2006.
 
 #### Decrees of President of the Republic of Kazakhstan, Decrees of the Government of the Republic of Kazakhstan
 
-33. On introduction of Unified National Testing, 2004.
+- On introduction of Unified National Testing, 2004.
 
-34. On mandatory pre-school training, 1999.
+- On mandatory pre-school training, 1999.
 
-35. On State Programme of languages functioning and development 2001-2010, 2001.
+- On State Programme of languages functioning and development 2001-2010, 2001.
 
-36. On Concept of governmental support to non-governmental organizations of the Republic of Kazakhstan, 2002.
+- On Concept of governmental support to non-governmental organizations of the Republic of Kazakhstan, 2002.
 
-37. On steps to further reform secondary education in the Republic of Kazakhstan, 1998.
+- On steps to further reform secondary education in the Republic of Kazakhstan, 1998.
 
-38. On the amount and sources of social aid to citizens as they acquire education, 2000; 2001.
+- On the amount and sources of social aid to citizens as they acquire education, 2000; 2001.
 
-39. On employment and accommodation of orphan graduates of learning institutions, 2000.
+- On employment and accommodation of orphan graduates of learning institutions, 2000.
 
 162
 
@@ -7336,77 +7255,79 @@ National Report
 
 References
 
-40. On approval of Provisions on activities of extracurricular institutions, 2001.
+- On approval of Provisions on activities of extracurricular institutions, 2001.
 
-41. On approval of Provisions on family in children's villages, 2001.
+- On approval of Provisions on family in children's villages, 2001.
 
-42. On approval of 'Aul Mektebi' Programme 2003-2005, 2003 .
+- On approval of 'Aul Mektebi' Programme 2003-2005, 2003 .
 
-43. On approval of 'Anti-AIDS' Programme in the Republic of Kazakhstan 2006-2010, 2006.
+- On approval of 'Anti-AIDS' Programme in the Republic of Kazakhstan 2006-2010, 2006.
 
-44. On Concept of Gender Policy in the Republic of Kazakhstan, 2003.
+- On Concept of Gender Policy in the Republic of Kazakhstan, 2003.
 
 #### Reports
 
-45. World Education Forum. Final Report. - UNESCO, 2000.
+- World Education Forum. Final Report. - UNESCO, 2000.
 
-46. Higher education in the Republic of Kazakhstan. Overview of national policy in the field of education. - OECD and IBRD/World Bank, 2007.
+- Higher education in the Republic of Kazakhstan. Overview of national policy in the field of education. - OECD and IBRD/World Bank, 2007.
 
-47. Dakar Framework for Action 'Education for All: meeting our collective commitments'. - UNESCO, 2000.
+- Dakar Framework for Action 'Education for All: meeting our collective commitments'. - UNESCO, 2000.
 
-48. Children at school but out of studies.-Bilim-Central Asia Educational Centre. Almaty, 2006.
+- Children at school but out of studies.-Bilim-Central Asia Educational Centre. Almaty, 2006.
 
-49. European Report on quality of school education. Sixteen quality indicators. - European Commission. Directorate General for Education and Culture, Brussels, 2000.
+- European Report on quality of school education. Sixteen quality indicators. - European Commission. Directorate General for Education and Culture, Brussels, 2000.
 
-50. To know in order to manage: issues of information assurance of education development in the Republic of Kazakhstan. - World Bank, Ministry of Education and Science of the Republic of Kazakhstan. Washington, 2006.
+50.  To know in order to manage: issues of information assurance of education development in the Republic of Kazakhstan. - World Bank, Ministry of Education and Science of the Republic of Kazakhstan. Washington, 2006.
 
-51. S.Irssaliyev. Current situation, issues and ways of development of international cooperation in the field of education. International humanitarian cooperation as a factor, identifying direction and content of further improvement of the system of education in the Republic of Kazakhstan. Astana, 2003.
+51.  S.Irssaliyev. Current situation, issues and ways of development of international cooperation in the field of education. International humanitarian cooperation as a factor, identifying direction and content of further improvement of the system of education in the Republic of Kazakhstan.  Astana, 2003.
 
-52. Kazakhstan: overview of state expenses in the field of education and healthcare. - Asian Bank of Development, 2003.
+52.  Kazakhstan: overview of state expenses in the field of education and healthcare. - Asian Bank of Development, 2003.
 
-53. Kazakhstan, 2006. Monitoring of situation of children and women. Outputs of Multi-indicator examination. Preliminary report. - Agency for Statistics of the Republic of Kazakhstan, 2007 (manuscript).
+53.  Kazakhstan, 2006. Monitoring of situation of children and women. Outputs of Multi-indicator examination. Preliminary report. - Agency for Statistics of the Republic of Kazakhstan, 2007 (manuscript).
 
-54. Kazakhstan: Human Development Report 2003. - UNDP, 2003.
+- Kazakhstan: Human Development Report 2003. - UNDP, 2003.
 
-55. I.Kolesnikova. Basics of Andragogics. М.: Academia, 2003.
+- I.Kolesnikova. Basics of Andragogics. М.: Academia, 2003.
 
-56. Concentration of resources for efficient school hygiene (FRESH). Fresh (FRESH) approach to ensure education for all. - UNESCO, Almaty, 2002.
+- Concentration of resources for efficient school hygiene (FRESH). Fresh (FRESH) approach to ensure education for all. - UNESCO, Almaty, 2002.
 
-57. Materials of Agency for Statistics of the Republic of Kazakhstan. Series 'Social sector'. Almaty, 1998-2004.
+- Materials of Agency for Statistics of the Republic of Kazakhstan. Series 'Social sector'. Almaty, 1998-2004.
 
-58. National Report on current situation and development of education. - Ministry of Education and Science of the Republic of Kazakhstan, National Centre for education quality assessment, Astana, 2006.
+58.  National Report on current situation and development of education. - Ministry of Education and Science of the Republic of Kazakhstan, National Centre for education quality assessment, Astana, 2006.
 
-59. National Human Development Report 2004. Education for All: major goal of the new millennium. - UNDP, 2004.
+- National Human Development Report 2004. Education for All: major goal of the new millennium. - UNDP, 2004.
 
-60. National Action Plan in Education for All of the Republic of Kazakhstan. - Ministry of Education and Science of the Republic of Kazakhstan, Almaty, 2002.
+- National Action Plan in Education for All of the Republic of Kazakhstan. - Ministry of Education and Science of the Republic of Kazakhstan, Almaty, 2002.
 
-61. Non-governmental organizations of Kazakhstan: yesterday, today, tomorrow. - UNDP, Almaty, 2002.
+- Non-governmental organizations of Kazakhstan: yesterday, today, tomorrow.  - UNDP, Almaty, 2002.
 
-62. NGOs: addressing poverty. - UNDP, Almaty, 2004.
+- NGOs: addressing poverty. -  UNDP, Almaty, 2004.
 
-63. Education in the Republic of Kazakhstan. Statistical compilation. Edited by B.Sultanov. - Agency for Statistics of the Republic of Kazakhstan, Almaty, 2006 - 108.
+- Education in the Republic of Kazakhstan. Statistical compilation. Edited by B.Sultanov. - Agency for Statistics of the Republic of Kazakhstan, Almaty, 2006 - 108.
 
-64. Education for All. Literacy: life necessity. World EFA Monitoring Report. - UNESCO, 2006.
+- Education for All. Literacy: life necessity. World EFA Monitoring Report. - UNESCO, 2006.
 
-65. Statistical compilation of MES RK 'On the current situation in the field of pre-school education in the Republic of Kazakhstan in academic year 2006-2007', 2006.
+- Statistical compilation of MES RK 'On the current situation in the field of pre-school educa -
 
-66. Education for All. Quality Imperative. World EFA Monitoring Report. - UNESCO, 2005.
+tion in the Republic of Kazakhstan in academic year 2006-2007', 2006.
 
-67. Education for All: through children's voices. - UNESCO, 2003.
+- Education for All. Quality Imperative. World EFA Monitoring Report. -  UNESCO, 2005.
 
-68. Education for All-2000. Country Report. Ministry of Health, Education and Sports. Astana, 2000.
+- Education for All: through children's voices. - UNESCO, 2003.
 
-69. Education: hidden treasure. Report of international commission on Education for XXI. - UNESCO, 1997.
+- Education for All-2000. Country Report. Ministry of Health, Education and Sports. Astana, 2000.
 
-70. United Nations. Millennium Declaration. Millennium Summit. New-York, 2000.
+- Education: hidden treasure. Report of international commission on Education for XXI. - UNESCO, 1997.
 
-71. Major indicators of the system of secondary education in 2005. - Ministry of Education and Science of the Republic of Kazakhstan, Pre-school and Secondary Education Department. Astana 2005.
+- United Nations. Millennium Declaration. Millennium Summit. New-York, 2000.
 
-72. Major indicators of the system of secondary education in 2006. - Ministry of Education and Science of the Republic of Kazakhstan, Pre-school and Secondary Education Department. Astana 2006.
+71.  Major indicators of the system of secondary education in 2005. - Ministry of Education and Science of the Republic of Kazakhstan, Pre-school and Secondary Education Department. Astana 2005.
 
-73. World Bank Report 'Education in transit economies: development objectives', 2000.
+72.  Major indicators of the system of secondary education in 2006. - Ministry of Education and Science of the Republic of Kazakhstan, Pre-school and Secondary Education Department. Astana 2006.
 
-74. Report on joint project implementation between the Ministry of Education and Science of
+- World Bank Report 'Education in transit economies: development objectives', 2000.
+
+- Report on joint project implementation between the Ministry of Education and Science of
 
 163
 
@@ -7418,75 +7339,79 @@ National Report
 
 the Republic of Kazakhstan and UNESCO 'Assistance in acquisition of basic education for children with special needs'. Almaty, 2000.
 
-75. Human Development Report. Rural development in Kazakhstan: issues and perspectives. - UNDP. Almaty, 2002.
+- Human Development 	 Report. Rural development in Kazakhstan: issues and perspectives. -  UNDP. Almaty, 2002.
 
-76. UNDP Report 'Poverty in Kazakhstan: reasons and ways to overcome them', Almaty, 2004.
+- UNDP Report 'Poverty in Kazakhstan: reasons and ways to overcome them', Almaty, 2004.
 
-77. Official summary 'Situation of children in the world'. UNICEF, 2002.
+- Official summary 'Situation of children in the world'. UNICEF, 2002.
 
-78. Assessment of non-formal education to mitigate affect of economic transit. Project report. Almaty, 1999.
+- Assessment of non-formal education to mitigate affect of economic transit. Project report. Almaty, 1999.
 
-79. Situation of children in the world. - UNICEF, 2002.
+- Situation of children in the world. -  UNICEF, 2002.
 
-80. The right for quality education: child-friendly schools. - UNICEF, Almaty, 2002.
+- The right for quality education: child-friendly schools.  - UNICEF, Almaty, 2002.
 
-81. Project 'Global Education'. Final Assessment Report. - UNICEF, 2006.
+- Project 'Global Education'. Final Assessment Report. - UNICEF, 2006.
 
-82. Regional Technical Assistance Project of Asian Bank of Development. Progress of educational reforms in the Republic of Kazakhstan. Almaty, 2002.
+- Regional Technical Assistance Project of Asian Bank of Development. Progress of educational reforms in the Republic of Kazakhstan. Almaty, 2002.
 
-83. Resolution of UN General Assembly 56/116 'UN Literacy Decade: Education for All'. - UNESCO, 2002.
+- Resolution of UN General Assembly 56/116 'UN Literacy Decade: Education for All'. - UNESCO, 2002.
 
-84. Results of monitoring and assessment of HIV/AIDS and drug-addiction preventive activities at learning institutions in the Republic of Kazakhstan. - Ministry of Education and Science of the Republic of Kazakhstan, Kazakh Academy of Education after I.Altynsarin, Institute of Personality Socialization, Almaty, 2005.
+84.  Results of monitoring and assessment of HIV/AIDS and drug-addiction preventive activities at learning institutions in the Republic of Kazakhstan. - Ministry of Education and Science of the Republic of Kazakhstan, Kazakh Academy of Education after I.Altynsarin, Institute of Personality Socialization, Almaty, 2005.
 
-85. Information and major indicators on Complementary Education Department 2006. - Ministry of Education and Science of the Republic of Kazakhstan, Astana, 2006.
+85.  Information and major indicators on Complementary Education Department 2006. - Ministry of Education and Science of the Republic of Kazakhstan, Astana, 2006.
 
-86. Current situation in the field of pre-school education and upbringing in the Republic of Kazakhstan. Preliminary Report. - Ministry of Education and Science of the Republic of Kazakhstan, Astana 2004 (manuscript).
+86.  Current situation in the field of pre-school education and upbringing in the Republic of Kazakhstan. Preliminary Report. - Ministry of Education and Science of the Republic of Kazakhstan, Astana 2004 (manuscript).
 
-87. Statistical Yearbook of Kazakhstan: Statistical compilation. Edited by K.Abdiyev. - Agency for Statistics of the Republic of Kazakhstan. Almaty, 2004. - 598 pages - in Russian and English.
+- Statistical Yearbook of Kazakhstan: Statistical compilation. Edited by K.Abdiyev. - Agency for Statistics of the Republic of Kazakhstan. Almaty, 2004. - 598 pages - in Russian and English.
 
-88. Strategy of Education Development. - Ministry of Education and Science of the Republic of Kazakhstan and Asian Development Bank, Astana, 2004.
+- Strategy of Education Development. - Ministry of Education and Science of the Republic of Kazakhstan and Asian Development Bank, Astana, 2004.
 
-89. T.Tasbulatov. Managing student body formation worldwide. Almaty, 2003.
+- T.Tasbulatov. Managing student body formation worldwide. Almaty, 2003.
 
-90. Living conditions of the population. Statistical compilation. - Agency for Statistics of the Republic of Kazakhstan, Almaty, 2004
+- Living conditions of the population. Statistical compilation. - Agency for Statistics of the Republic of Kazakhstan, Almaty, 2004
 
-91. UN Millennium Development Goals in Kazakhstan. - UNDP, 2002.
+- UN Millennium Development Goals in Kazakhstan. - UNDP, 2002.
 
-92. Millennium Development Goals in Kazakhstan. - UNDP, 2005.
+- Millennium Development Goals in Kazakhstan. - UNDP, 2005.
 
-93. Community Learning Centres in Kazakhstan: best international practices and local context. - Association 'Education for All in Kazakhstan', Almaty, 2002.
+- Community Learning Centres in Kazakhstan: best international practices and local context. - Association 'Education for All in Kazakhstan', Almaty, 2002.
 
-94. S.Shishov, V.Kalney. School: Education Quality Monitoring. М.: Pedagogical community of Russia, 2000.
+- S.Shishov ,  V .Kalney .  School:  Education  Quality  Monitoring.  М.:  Pedagogical  community  of  Russia,  2000.
 
-95. Yu.Shokamanov. Human development in Kazakhstan: measurement methodology and analysis. - Agency for Statistics of the Republic of Kazakhstan, Almaty, 2003.
+- Yu.Shokamanov. Human development in Kazakhstan: measurement methodology and analysis. - Agency for Statistics of the Republic of Kazakhstan, Almaty, 2003.
 
-96. Report on policy overview: Pre-school upbringing and education in Kazakhstan, Su-Hiang Choi, Head of pre-school and inclusive education section. Basic Education Department. Sector of Education, UNESCO, Paris
+- Report on policy overview: Pre-school upbringing and education in Kazakhstan, Su-Hiang Choi, Head of pre-school and inclusive education section. Basic Education Department. Sector of Education, UNESCO, Paris
 
 #### Internet sites
 
-97. S.Abdymanapov. Bologna process and perspectives of higher education in Kazakhstan. Reports at academic readings of Higher School of Academy of Sciences, 2004 - at www.emu.kz
+97.  S.Abdymanapov. Bologna process and perspectives of higher education in Kazakhstan.
 
-98. Agency for Statistics of the Republic of Kazakhstan - www.stat.kz
+Reports at academic readings of Higher School of Academy of Sciences, 2004 - at www.emu.kz
 
-99. Kazakhstan Information Agency - www.kazinform.kz
+- Agency for Statistics of the Republic of Kazakhstan - www.stat.kz
 
-100. Ministry of Education and Science of the Republic of Kazakhstan- www.edu.gov.kz
+- Kazakhstan Information Agency  - www.kazinform.kz
 
-101. Parliament of Kazakhstan - www.parlam.kz
+- Ministry of Education and Science of the Republic of Kazakhstan- www.еdu.gov.kz
 
-102. Soros-Kazakhstan Foundation - www.bilim.kz
+- Parliament of Kazakhstan -  www.parlam.kz
 
-103. Education for All in Kazakhstan - www.efa.kz
+- Soros-Kazakhstan Foundation  - www.bilim.kz
+
+- Education for All in Kazakhstan - www.efa.kz
 
 #### Other Sources
 
-104. EFA Global Monitoring report 'Education for All. Is the world on track? - UNESCO, 2002.
+- EFA Global Monitoring report 'Education for All. Is the world on track? - UNESCO, 2002.
 
-105. EFA Global Monitoring report 'Gender and Education for All. The Leap to Equality' UNESCO, 2003/4.
+105.   EFA  Global  Monitoring  report  'Gender  and  Education  for  All.  The  Leap  to  Equality'  UNESCO,  2003/4.
 
-106. «Human development report 2004: Cultural liberty in today's diverse world» - UNDP, 2004.
+106.  «Human development report 2004: Cultural liberty in today's diverse world» - UNDP, 2004.
 
-107. Lifelong Learning in the global knowledge economy: Challenges for developing countries. - World Bank report. Washington, 2003 - www.worldbank.org
+- Lifelong Learning in the global knowledge economy: Сhallenges for developing countries.
+
+- World Bank report. Washington, 2003 - www.worldbank.org
 
 164
 
@@ -7494,21 +7419,17 @@ the Republic of Kazakhstan and UNESCO 'Assistance in acquisition of basic educat
 
 [[START OF PAGE 165]]
 
-Annex A
-
-### ANNEX A
-
-#### Annex 1
+Annex А
 
 ##### International cooperation in the field of education
 
 ###### Cooperation with USA in the field of secondary education
 
-Bilateral Kazakhstan-American cooperation in the field of education is maintained in the framework of American Councils for International Education (ACTR/ACCELS), Peace Corps in Kazakhstan. ACCELS activities in Kazakhstan are regulated by Cooperation Agreement, signed between Ministry of Education of the Republic of Kazakhstan and ACCELS on 11.04.1996. ACCELS Programmes are financed by the US Government and administered by ACCELS under the support of Ministry of Education and Science of the Republic of Kazakhstan. ACTR/ACCELS is implementing a number of educational programmes in Kazakhstan.
+Bilateral Kazakhstan-American cooperation in the field of education is maintained in the framework of American Councils for International Education (ACTR/ACCELS), Peace Corps in Kazakhstan. ACCELS activities in Kazakhstan are regulated by Cooperation Agreement, signed between Ministry of Education of the Republic of Kazakhstan and ACCELS on 11.04.1996. ACCELS Programmes are financed by the US Govern -ment and administered by ACCELS under the support of Ministry of Education and Science of the Republic of Kazakhstan. ACTR/ACCELS is implementing a number of educational programmes in Kazakhstan.
 
 1. Since 1997, schools of Kazakhstan have been hosting an open American-Kazakhstan Contest of English Teachers and USA country studies, with the first prize going to 244 regional prize-winners and 70 national prize-winners. They had an opportunity to take part in a seven-week professional development workshop in the USA. In the framework of this programme, over the period from 1997 till present, 292 secondary schools of Kazakhstan have been provided with school equipment and educational materials for the amount of more than USD600.000.
 
-In 2006, the content of this programme has been expanded and modified into the Teaching Excellence and Achievement Program, which, in addition to English teachers, will be participated by Social Sciences teachers.
+In 2006, the content of this programme has been expanded and modified into the Teaching Excellence and Achievement Program , which, in addition to English teachers, will be participated by Social Sciences teachers.
 
 2. Since 1992, a FLEX exchange programme is being implemented in High Schools of Kazakhstan (Future Leaders Exchange). Within the period of FLEX implementation in Kazakhstan, over 700 schoolchildren have become the Programme winners. The contest is open and free of charge. Prize-winners are able to spend one academic year in the USA and live in an American family. The contest comprises three tours and is held by ACCELS in all cities and oblasts of the Republic of Kazakhstan.
 
@@ -7516,13 +7437,17 @@ Since the current year, the contest may be participated by first-year students o
 
 In addition to those mentioned above, JFDP (Junior Faculty Development Program) is operating for faculty of higher institutions, the following tests, provided by American Councils, are administered: SAT, GMAT, GRE, TOEFL, TSE, LSAT.
 
-Based on the Agreement, signed between Ministry of Education and Science of the Republic of Kazakhstan and US Peace Corps, since 1993, Peace Corps volunteers have been working at schools of the Republic. Over the last three years, volunteering native-speakers teach English in rural secondary schools of Kazakhstan in the framework of Auyl mektebi State Programme. In academic year 2005-2006, 72 American volunteers have been teaching English to over 8.000 students of rural schools, (6.500 - students of rural schools), 1.500 students of colleges and Universities. Volunteers organized school English Clubs for over 1.000 students, arranged computer English classes for 814 students of rural schools, providing computer, e-mail and Internet skills. In summer they work in language camps, carry out environmental (Environmental Clubs) and health activities (AIDS preventive trainings), regularly visit elderly houses, provide charitable aid to libraries (over 500 books in the English language have been supplied), work extra hours in Centres for children with limited abilities.
+Based on the Agreement, signed between Ministry of Education and Science of the Republic of Kazakhstan and US Peace Corps, since 1993, Peace Corps volunteers have been working at schools of the Republic. Over the last three years, volunteering native-speakers teach English in rural secondary schools of Kazakhstan in the framework of Auyl mektebi State Programme. In academic year 2005-2006, 72 American volunteers have been teaching English to over 8.000 students of rural schools, (6.500 - students of rural schools), 1.500 students of colleges and Universities. Volunteers organized school English Clubs for over 1.000 students, arranged computer English classes for 814 students of rural schools, providing computer, e-mail and Internet  skills. In summer they work in language camps, carry out environmental (Environmental Clubs) and health activities (AIDS preventive trainings), regularly visit elderly houses, provide charitable aid to libraries (over 500 books in the English language have been supplied), work extra hours in Centres for children with limited abilities.
 
 ###### Cooperation with the Turkish Republic
 
 Kazakhstan has been cooperating with the Turkish Republic in the field of education since 1992. To ensure more efficient interaction, a representative office of Ministry of National Education of the Turkish Republic (hereinafter referred to as the MNE) has been established in Almaty, a representative of MSE RK Bolat Atybay is working in Ankara.
 
 There are 24 Kazakh-Turkish lyceums with a capacity of over 5.000 students are operating in Kazakhstan, as well as two joint Kazakh-Turkish Universities - International Kazakh-Turkish University after
+
+### ANNEX А
+
+#### Annex  1
 
 165
 
@@ -7550,7 +7475,7 @@ Sustainable cooperation is maintained between the Republic of Kazakhstan and Rus
 
 Affiliates of a number of Russian higher institutions provide educational services in Kazakhstan, activities are being carried out to establish joint international learning institutions and Centres. Efficient cooperation and real integration in the field of higher education can be illustrated by establishment of an Affiliate of Moscow State University after Lomonosov in the city of Astana. 125 educational state grants have been allocated to students to study in the Affiliate in academic year 2006/2007. Specialists are trained for space sector at Baikonur cosmodrome, Voskhod Affiliate of Moscow Aviation Institute. In 2006, the State Order for this Affili -ate increased to 45 students. Based on direct Agreements, successful cooperation is maintained between higher institutions of the Republic of Kazakhstan and Tomsk State University in the field of development and improvement of distance education. This cooperation allows establishing a single educational network between Russia and Kazakhstan, exchanging achievements in the field of new information technologies.
 
-In the framework of Caspian Universities Association, Atyrau State University after Dosmukhamedov and Astrakhan Technical State University have been successfully exchanging best practices in the field of technical trades. E.g., there were two general technical chairs established in these two Universities for faculty of both Universities to deliver lectures and practical classes, to ensure postgraduate training through mutual exchange of
+In the framework of Caspian Universities Association, Atyrau State University after Dosmukhamedov and Astrakhan Technical State University have been successfully exchanging best practices in the field of technical trades. E.g., there were two general technical chairs established in these two Universities for faculty of both Universities to deliver lectures and practical classes, to ensure postgraduate training through mutual exchange of postgraduate students and students working for PhD. This Kazakhstan higher institution, based on direct contract, cooperates with Ekaterinburg State University in the field of training of Economy specialists for small enterprises.
 
 166
 
@@ -7558,11 +7483,9 @@ In the framework of Caspian Universities Association, Atyrau State University af
 
 [[START OF PAGE 167]]
 
-Annex A
+Annex А
 
-postgraduate students and students working for PhD. This Kazakhstan higher institution, based on direct contract, cooperates with Ekaterinburg State University in the field of training of Economy specialists for small enterprises.
-
-A number of higher institutions of the Republic of Kazakhstan (Kazakh National University after Al-Farabi, Adilet Higher School, Kazakh Economic University after Ryskulov), a number of higher institutions of the Russian Federation, Uzbekistan, Republic of Kyrgyzstan and Tajikistan have already established an International Virtual University of Europe and Central Asia, which shall apply new training know-how, based on information and communication technologies (ICT). These best practices should be further distributed to address the issues of mobility, convertibility and demand for specialists in CIS countries.
+A number of higher institutions of the Republic of Kazakhstan (Kazakh National University after AlFarabi, Adilet Higher School, Kazakh Economic University after Ryskulov), a number of higher institutions of the Russian Federation, Uzbekistan, Republic of Kyrgyzstan and Tajikistan have already established an International Virtual University of Europe and Central Asia, which shall apply new training know-how, based on information and communication technologies (ICT). These best practices should be further distributed to address the issues of mobility, convertibility and demand for specialists in CIS countries.
 
 Fruitful cooperation in the field of higher vocational education between Kazakhstan and Russia can be illustrated by activities of Kazakhstan-Russian University, established, based on Modern Humanities University (Moscow), Kazakhstan-Russian International University (Almaty), Kazakhstan-Russian International University (Aktobe).
 
@@ -7580,17 +7503,17 @@ Secondary schools of the Republic of Kazakhstan, based on State mandatory standa
 
 As of today, there 6 special schools with advanced study of German:
 
-1. German school-complex № 46, Astana.
+- German school-complex № 46, Astana.
 
-2. Secondary special school (SSS) № 18 of Almaty.
+- Secondary special school (SSS) № 18 of Almaty.
 
-3. School-gymnasium №10 with advanced study of foreign languages of Ust-Kamenogorsk.
+- School-gymnasium №10 with advanced study of foreign languages of Ust-Kamenogorsk.
 
-4. Linguistic gymnasium № 68 of Almaty.
+- Linguistic gymnasium № 68 of Almaty.
 
-5. Secondary special school (SSS) № 11 of Aktobe.
+- Secondary special school (SSS) № 11 of Aktobe.
 
-6. German gymnasium after Alexander Gumboldt № 12 of Ust-Kamenogorsk.
+- German gymnasium after Alexander Gumboldt № 12 of Ust-Kamenogorsk.
 
 167
 
@@ -7610,11 +7533,11 @@ In 89 gymnasiums and lyceums of Kazakhstan German is studied in an advanced way 
 
 In the Republic of Kazakhstan one of the forms of training German to children is Sunday schools, established under German National and Cultural Centres, where 921 students are studying German as a native language this current academic year.
 
-Based on an intergovernmental Agreement between the Republic of Kazakhstan and Federal Republic of Germany 'On cooperation in the field of training and professional development of specialists and top-managers in the field of Economy and State Economy Management Bodies' of 3 September 1992, a Kazakhstan-German project 'Assistance in the development of vocational education in Kazakhstan' has been launched. The project was developed by German Centre for technical cooperation in Kazakhstan (GTZ) and Centre for training and consultations in the field of market economy and vocational education (BBZ) of FRG.
+Based on an intergovernmental Agreement between the Republic of Kazakhstan and Federal Republic of Germany 'On cooperation in the field of training and professional development of specialists and top-manag -ers in the field of Economy and State Economy Management Bodies' of 3 September 1992 , a KazakhstanGerman project 'Assistance in the development of vocational education in Kazakhstan' has been launched. The project was developed by German Centre for technical cooperation in Kazakhstan (GTZ) and Centre for training and consultations in the field of market economy and vocational education (BBZ) of FRG.
 
 Project Objective: to assist in the development of a new system of primary vocational education in conditions of a market economy.
 
-In 1995-1998, the project was implemented in three vocational schools of the Republic: Vocational Lyceum № 1 of Almaty, vocational school #3 of the village of Krasny Yarof Akmola oblast and Business-College of the town of Pavlodar, which were identified as experimental sites. German stakeholders allocated USD1.913 million for the Project implementation.
+In 1995-1998, the project was implemented in three vocational schools of the Republic: Vocational Lyceum № 1 of Almaty, vocational school #3 of the village of Krasny Yarof Akmola oblast and Business-Col -lege of the town of Pavlodar, which were identified as experimental sites. German stakeholders allocated USD1.913 million for the Project implementation.
 
 In the framework of Kazakhstan-German intergovernmental Agreement, since 2003 the Ministry of Education and Science of the Republic of Kazakhstan has been involved in a new project of Interregional cooperation in the field of vocational education of Central Asia and Caucasus 'Professional development of teachers of special disciplines and masters of industrial training of the system of primary vocational education', being implemented by 7 countries: Uzbekistan, Tajikistan, Kazakhstan, Kyrgyzstan, Armenia, Georgia, Azerbaijan. The Project objective is to ensure professional development of teachers and masters of industrial training, based on contemporary methodology of vocational pedagogics and materials, developed by German specialists.
 
@@ -7624,11 +7547,11 @@ In 2006, Ministry of Education and Science of the Republic of Kazakhstan submitt
 
 In  the  framework of visit of Head of State to FRG, MES RK finds it reasonable to discuss development and implementation of a joint Kazakhstan-German project 'Assistance in the development of quality training of staff in technical and vocational learning institutions of Kazakhstan'.
 
-Cooperation in the field of education and science, maintained in the framework of Kazakhstan membership with international organizations and communities, as well as international organizations, accredited in the Republic of Kazakhstan
+Cooperation in the field of education and science, maintained in the framework of Kazakhstan mem -bership with international organizations and communities, as well as international organizations, accredited in the Republic of Kazakhstan
 
 ###### Shanghai Cooperation Organization (SCO)
 
-On 15 June 2006, in the city of Shanghai (People's Republic of China), in the framework of 6th Coun-
+On 15 June 2006, in the city of Shanghai (People's Republic of China), in the framework of 6th Coun cil of Heads of SCO member states, an Agreement was signed on cooperation in the field of education. On 18 October 2006, in the framework of the first Meeting of SCO Ministries of Education, specific steps were discussed in the field of Agreement implementation.
 
 168
 
@@ -7636,9 +7559,7 @@ On 15 June 2006, in the city of Shanghai (People's Republic of China), in the fr
 
 [[START OF PAGE 169]]
 
-Annex A
-
-cil of Heads of SCO member states, an Agreement was signed on cooperation in the field of education. On 18 October 2006, in the framework of the first Meeting of SCO Ministries of Education, specific steps were discussed in the field of Agreement implementation.
+Annex А
 
 ###### Eurasian Economic Community (EurAsEc)
 
@@ -7646,7 +7567,7 @@ Secretariat of EEC Integration Committee, under active support of hosting Minist
 
 The Council was attended by members and experts of the Parties - representatives of all EEC member states: Republic of Belarus, Republic of Kazakhstan, Kyrgyz Republic, Russian Federation, Republic of Tajikistan and Republic of Uzbekistan. Guests included representatives of EEC InterParliamentary Assembly, leaders of the system of education and Rectors of higher institutions of the Republic of Kazakhstan, representatives of the Government of the Republic of Kazakhstan.
 
-Council Agenda covered the issues of integration of educational systems of member countries, aimed to establish a single educational community, ensure improved quality of education and competitiveness of graduates at a developing EEC labour market. Attendees discussed issues, related to review of the situation in general and vocational education of EEC countries, a number of draft documents in the field of unification of legislative acts in the field of education, development of concepts of interstate programmes, aimed to support academic mobility in the field of provision of educational services to people with limited abilities, professional development of educators, distance education development. Attendees also considered a possibility to enhance primary and secondary vocational education and life-long vocational education, based on needs of developing EEC labour market.
+Council Agenda covered the issues of integration of educational systems of member countries, aimed to establish a single educational community, ensure improved quality of education and competitiveness of graduates at a developing EEC labour market. Attendees discussed issues, related to review of the situation in general and vocational education of EEC countries, a number of draft documents in the field of unification of legislative acts in the field of education, development of concepts of interstate programmes, aimed to sup -port academic mobility in the field of provision of educational services to people with limited abilities, profes -sional development of educators, distance education development. Attendees also considered a possibility to enhance primary and secondary vocational education and life-long vocational education, based on needs of developing EEC labour market.
 
 The goal is to find specific integration mechanisms and develop perspective international documents, aimed to ensure activities in priority fields of cooperation in educational sector of the Community.
 
@@ -7704,7 +7625,7 @@ In the framework of English for Military Men, draft reform in teaching of the En
 
 Annually 15 Institutes of Ministries of Defense of Kazakhstan and Kyrgyzstan, in compliance with NATO standards, hold two-level English exams under STANAG (Standardisation Agreement) system.
 
-British Council provides information on the latest achievements in the field of science, culture, education and other aspects of UK life.
+British Council provides information on the latest achievements in the field of science, culture, educa -tion and other aspects of UK life.
 
 Library and Information Centre of the British Council provides various services as well.
 
@@ -7768,7 +7689,7 @@ KOICA and Kazakhstan representatives considered an opportunity to implement a jo
 
 ###### IFES
 
-IFES is a non-governmental, non-profit and independent organization, operating in Kazakhstan under the support of US Agency for International Development (USAID) since 1994. Since 1998, IFES has been implementing programmes, assisting in the development of a civil society. IFES optional course is a key link of the Project. It was for the first time developed by IFES in 1999 as a textbook 'Introduction to civil education' for High School students. In 2001, IFES launched a programme, aimed to establish a Student Action Committees (SAC) network to help Middle School students, in cooperation with teachers and partners from local community associations, tackle issues of their communities. IFES has for the first time in Kazakhstan developed and implemented the programme of 'Day of schoolchildren involvement in activities of local state governance bodies'.
+IFES is a non-governmental, non-profit and independent organization, operating in Kazakhstan under the support of US Agency for International Development (USAID) since 1994. Since 1998, IFES has been implementing programmes, assisting in the development of a civil society. IFES optional course is a key link of the Project. It was for the first time developed by IFES in 1999 as a textbook 'Introduction to civil educa -tion' for High School students. In 2001, IFES launched a programme, aimed to establish a Student Action Committees (SAC) network to help Middle School students, in cooperation with teachers and partners from local community associations, tackle issues of their communities. IFES has for the first time in Kazakhstan developed and implemented the programme of 'Day of schoolchildren involvement in activities of local state governance bodies'.
 
 #### Annex 2
 
@@ -7782,7 +7703,7 @@ develops state programmes of education development and takes steps to implement 
 
 ensures involvement of employers and other social partners in tackling of issues of vocational education and approves of the State Order for training of specialists with higher vocational and postgraduate vocational education, as well as those with secondary vocational education in budget-financed organizations; 
 
-upon recommendation of central executive educational bodies, approves of normative and legal acts, regulating activities within the system of education in compliance with the present Law; approves of regulations on state educational grant, state educational and state student credits; identifies the correct sequence of development, approval and validity of state mandatory educational standards; approves of Regulations of state certification of learning institutions and accreditation of learning institutions; approves of qualification requirements and correct sequence of licensing of educational activities; identifies types and forms of state educational documents and way of their provision; approves of guaranteed state normative of learning institutions framework, depending on density of population and remoteness of settlements; identifies typical lists of members of staff of state-owned learning institutions, as well as the list of positions of teachers and equated staff; makes decisions on award of a special status to state-owned learning institutions, making an outstanding contribution upbringing, education and professional development, as well as submits recommendations to the President of the Republic of Kazakhstan on award of a special status to some state-owned learning institutions; 
+upon recommendation of central executive educational bodies, approves of normative and legal acts, regulating activities within the system of education in compliance with the present Law; approves of regulations on state educational grant, state educational and state student credits; identifies the correct sequence of development, approval and validity of state mandatory educational standards; approves of Regulations of state certification of learning institutions and accreditation of learning institutions; ap -proves of qualification requirements and correct sequence of licensing of educational activities; identifies types and forms of state educational documents and way of their provision; approves of guaranteed state normative of learning institutions framework, depending on density of population and remoteness of settlements; identifies typical lists of members of staff of state-owned learning institutions, as well as the list of positions of teachers and equated staff; makes decisions on award of a special status to state-owned learning institutions, making an outstanding contribution upbringing, education and professional development, as well as submits recommendations to the President of the Republic of Kazakhstan on award of a special status to some state-owned learning institutions; 
 
 upon recommendation of central executive educational bodies, establishes, reorganizes and liquidates state-owned budget-financed learning institutions; 
 
@@ -7810,7 +7731,7 @@ curricula and syllabi of all levels of education; sets the list of trades and oc
 
 approves of state mandatory educational standards; approves of Regulations on interim state monitoring; 
 
-develops and implements target and international programmes in the field of education and science; 
+develops and implements target and international programmes in the field of education and sci -ence; 
 
 sets the time of beginning and completion of an academic year at learning institutions, irrelevant of forms of ownership and subordination; 
 
@@ -7818,7 +7739,7 @@ identifies the capacity of Grades (groups) in compliance with sanitation regulat
 
 in cooperation with involved Ministries, other central executive bodies, employers and other social partners, identifies lists of trades and occupations; develops and approves of the forms and correct sequence of current monitoring of academic proficiency;  interim and final certification of students; develops and approves of regulations and technology of the Unified National Testing and Complex Testing; approves of the maximum number of students, who have not passed an interim state monitoring, whose outnumbering leads to an extraordinary state certification; develops and approves of the correct sequence of approval of vocational training and qualifications award by technical and service trades (occupations); 
 
-provides educational licenses to legal entities, offering: (i) basic and complementary educational programmes of higher vocational and postgraduate vocational education; (ii) special educational programmes and educational programmes of secondary vocational education, financed from the Republican budget; (iii) educational programmes (spiritual learning institutions); as well as international and foreign legal entities; approves of the correct sequence of organization of educational and methodological activities; ensures state certification of learning institutions, offering programmes of higher vocational and postgraduate vocational education; ensures state certification of learning institutions irrelevant of forms of ownership and subordination (except for medical and pharmaceutical learning institutions), offering higher vocational and postgraduate vocational education, as well as dependent learning institutions, offering educational programmes of secondary vocational education and special educational programmes; 
+provides educational licenses to legal entities, offering: (i) basic and complementary educational programmes of higher vocational and postgraduate vocational education; (ii) special educational programmes and educational programmes of secondary vocational education, financed from the Re -publican budget; (iii) educational programmes (spiritual learning institutions); as well as international and foreign legal entities; approves of the correct sequence of organization of educational and methodological activities; ensures state certification of learning institutions, offering programmes of higher vocational and postgraduate vocational education; ensures state certification of learning institutions irrelevant of forms of ownership and subordination (except for medical and pharmaceutical learning institutions), offering higher vocational and postgraduate vocational education, as well as dependent learning institutions, offering educational programmes of secondary vocational education and special educational programmes; 
 
 supplies textbooks and educational and methodological sets to Republican learning institutions, offering secondary general education, as well as to countrymen, studying in foreign schools, in compliance with international agreements; develops and publishes textbooks, educational and methodological sets, based on creative competitiveness, and establishes a mechanism of selection of educational materials; supplies textbooks and educational and methodological sets to Republican learning institutions, offering secondary general education, as well as to countrymen, studying in foreign schools, in compliance with international agreements; etc. 
 
@@ -7854,15 +7775,13 @@ National Report
 
 - establishes the correct sequence of nostrification of educational documents. 
 
-#### Annex 3
+Network of ECCE (early childhood care and education institutions)
+--- | --- | --- | ---
+ECCE - 1.391 | Orphanages under Ministry of Health- care and oblast healthcare depart- ments
+Day Nursery (1-3) | KG (3-6+) | Pre-school training (5-6)
+Day Nursery (1-3) (10 hours) | KG (3-6+) (10 hours) Day Nursery - KG (1-6+) (10 hours) KG - School Complex (1-10) (10 hours) Early childhood care and education centers 22 (mini-KG, in-house KG - forms of mini pre-school centres) (3-5) ●Part-time (2 hours) /flexible mode ●Group of children of different ages (flexible programme) ●Based in KG, secondary school, teacher's home Early childhood care and education groups in orphan asylums (4-7) (24 hours) | Pre-schools Grades at secondary schools (5- 6+) (4 hours, meals not included) Pre-school groups in ECCE (5-6+) (10 hours) | Orphanages (0-4) (24 часа)
 
 ##### Table 1. Structure of pre-school education in Kazakhstan
-
-Network of ECCE (early childhood care and education institutions) |  |  | 
---- | --- | --- | ---
-ECCE - 1.391 |  |  | Orphanages under Ministry of Healthcare and oblast healthcare departments
-Day Nursery (1-3) | KG (3-6+) | Pre-school training (5-6) | 
-Day Nursery (1-3) (10 hours) | KG (3-6+) (10 hours) Day Nursery - KG (1-6+) (10 hours) KG - School Complex (1-10) (10 hours) Early childhood care and education centers 22 (mini-KG, in-house KG - forms of mini pre-school centres) (3-5) ●Part-time (2 hours) /flexible mode ●Group of children of different ages (flexible programme) ●Based in KG, secondary school, teacher's home Early childhood care and education groups in orphan asylums (4-7) (24 hours) | Pre-schools Grades at secondary schools (5-6+) (4 hours, meals not included) Pre-school groups in ECCE (5-6+) (10 hours) | Orphanages (0-4) (24 часа)
 
 #### Annex 4
 
@@ -7886,11 +7805,13 @@ Day Nursery (1-3) (10 hours) | KG (3-6+) (10 hours) Day Nursery - KG (1-6+) (10 
 
 - from the oblast level original information is supplied to the Agency for Statistics of the Republic of Kazakhstan via Internet and pre-school specialists of oblast educational bodies supply it directly to the Ministry of Education and Science of the Republic of Kazakhstan; 
 
-- based on this original information, Agency for Statistics of the Republic of Kazakhstan, MES RK, Ministry of Healthcare of the Republic of Kazakhstan, Ministry of Labour and Social Protection develop combined reports. In 2000, a database of statistical reports on pre-school education was established in the Republic; 
+- based on this original information,  Agency for Statistics of the Republic of Kazakhstan, MES RK, Ministry of Healthcare of the Republic of Kazakhstan, Ministry of Labour and Social Protection develop combined reports. In 2000, a database of statistical reports on pre-school education was established in the Republic; 
 
 - Statistical bulletins are developed, based on these reports, and supplied to all governmental bodies. 
 
-> 22 Educational programmes for early childhood care and education mini-centres are different from KG programmes, because KGs have a full-time schedule and groups of children of the same age. Pre-school mini-centres have a flexible schedule and children of different ages.
+> 22   Educational programmes for early childhood care and education mini-centres are different from KG programmes, because KGs have a full-time schedule and groups of children of the same age. Pre-school mini-centres have a flexible schedule and children of different ages.
+
+#### Annex  3
 
 174
 
@@ -7902,30 +7823,32 @@ Annex А
 
 #### Annex 5
 
-##### Table 2. Local budget expenses (tenge) for pre-school organizations, composition of pre-school organizations by oblasts, expenses per child on average in oblast, 2001- 2006.
+##### Table 2. Local budget expenses (tenge) for pre-school organizations, composition of pre-school
 
-Oblast | 2001 |  |  |  | 2002 |  |  |  | 2006 |  |  | 
+Oblast | 2001 | 2002 | 2006
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
- | Expenses (in million tenge) | State-owned PSO | Number of children | Expenses per child | Expenses (in million tenge) | State-owned PSO | Number of children | Expenses per child | Expenses (in million tenge) | State-owned PSO | Number of children | Expenses per child
+Expenses (in million tenge) | State-owned PSO | Number of children | Expenses per child | Expenses (in million tenge) | State-owned PSO | Number of children | Expenses per child | Expenses (in million tenge) | State-owned PSO | Number of children | Expenses per child
 Akmola | 14 302 | 59 | 5 557 | 2,57 | 50 007 | 59 | 6 158 | 8,12 | 294 591 | 74 | 8769 | 31, 3
 Aktobe | 105 010 | 59 | 6 861 | 15,31 | 210 851 | 62 | 7 758 | 27,18 | 825 922 | 92 | 11410 | 67,4
 Almaty | 77 114 | 35 | 3 312 | 23,28 | 139 417 | 30 | 3 763 | 37,05 | 466 843 | 38 | 5907 | 65,1
 Atyrau | 322 388 | 80 | 6 927 | 46,54 | 397 305 | 80 | 8 033 | 49,46 | 1 051 704 | 85 | 10241 | 97,6
-East Kazakhstan | 148 508 | 51 | 6 401 | 23,20 | 186 481 | 56 | 9 560 | 19,51 | 389 230 | 72 | 12879 | 25, 5
+East Kazakh- stan | 148 508 | 51 | 6 401 | 23,20 | 186 481 | 56 | 9 560 | 19,51 | 389 230 | 72 | 12879 | 25, 5
 Zhambyl | 186 952 | 41 | 6 508 | 28,73 | 318 186 | 47 | 8 168 | 38,96 | 795 903 | 61 | 10894 | 72, 0
-Western Kazakhstan | 199 974 | 60 | 7 588 | 26,35 | 254 525 | 62 | 8 508 | 29,92 | 808 402 | 81 | 10958 | 73,6
+Western Ka- zakhstan | 199 974 | 60 | 7 588 | 26,35 | 254 525 | 62 | 8 508 | 29,92 | 808 402 | 81 | 10958 | 73,6
 Karaganda | 266 697 | 81 | 12 348 | 21,60 | 459 001 | 83 | 13 960 | 32,88 | 1 250 664 | 99 | 18075 | 51, 3
 Kyzylorda | 80 877 | 56 | 3 250 | 24,89 | 93 454 | 63 | 4 111 | 22,73 | 239 613 | 89 | 7093 | 31,7
 Kostanai | 116 175 | 41 | 5 639 | 20,60 | 167 603 | 43 | 6 949 | 24,12 | 858 610 | 63 | 11682 | 65, 9
 Mangistau | 253 810 | 28 | 6 246 | 40,64 | 291 105 | 29 | 6 311 | 46,13 | 637 628 | 38 | 8195 | 74, 7
 Pavlodar | 253 818 | 62 | 10 795 | 23,51 | 354 493 | 69 | 10 719 | 33,07 | 1 035 357 | 84 | 14898 | 68, 4
-North Kazakhstan | 48 847 | 12 | 1 578 | 30,96 | 78 426 | 15 | 2 094 | 37,45 | 465 858 | 36 | 4965 | 78, 8
-South Kazakhstan | 286 296 | 93 | 12 705 | 22,53 | 477 638 | 94 | 13 344 | 35,79 | 1 250 117 | 128 | 19608 | 60, 0
+North Kazakh- stan | 48 847 | 12 | 1 578 | 30,96 | 78 426 | 15 | 2 094 | 37,45 | 465 858 | 36 | 4965 | 78, 8
+South Kazakh- stan | 286 296 | 93 | 12 705 | 22,53 | 477 638 | 94 | 13 344 | 35,79 | 1 250 117 | 128 | 19608 | 60, 0
 Almaty | 568 501 | 127 | 20 166 | 28,19 | 728 650 | 126 | 22 053 | 33,04 | 1 654 315 | 130 | 27259 | 53, 9
 Astana | 393 020 | 40 | 9 058 | 43,39 | 384 080 | 40 | 9 798 | 39,20 | 912 833 | 42 | 12445 | 70, 8
 Total | 3 322 289 | 925 | 124 939 | 26,59 | 4 591 222 | 958 | 141 287 | 32,50 | 12 937 591 | 1212 | 195278 | 59, 9
-In USD | 22,6 млн. |  |  | 181,2 | 30,7 млн. |  |  | 217,2 | 104,3 млн. |  |  | 483,2
-Exchange rate | 146,74 |  |  |  | 149,58 |  |  |  | 124 |  |  | 
+In USD | 22,6 млн. | 181,2 | 30,7 млн. | 217,2 | 104,3 млн. | 483,2
+Exchange rate | 146,74 | 149,58 | 124
+
+organizations by oblasts, expenses per child on average in oblast, 2001- 2006.
 
 Source: Statistics of MES RK
 
@@ -7943,27 +7866,27 @@ National Report
 
 ###### Table 3. Indicator 1.2.1. Gross enrolment ratio (GER) in early childhood educational programmes in the Republic of Kazakhstan (information of MES RK as of 1.10.2006)
 
-Oblast | In oblast on the whole |  |  | including |  |  |  |  |
+Oblast | In oblast on the whole | including
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
- | Number of PS Organizations | Number of children | % of coverage of children of 1-6 years of age | cities |  |  | rural areas |  |
- |  |  |  | Number of PS Organizations | Number of children | % of coverage of children of 1-6 years of age | Number of PS Organizations | Number of children | % of coverage of children of 1-6 years of age
+Num- ber of PS Or- ganiza- tions | Num- ber of chil- dren | % of cover- age of chil- dren of 1-6 years of age | cities | rural areas
+Num- ber of PS Or- ganiza- tions | Num- ber of chil- dren | % of cover- age of chil- dren of 1-6 years of age | Num- ber of PS Or- ganiza- tions | Num- ber of chil- dren | % of cover- age of chil- dren of 1-6 years of age
 Akmola | 96 | 9529 | 26,3 | 44 | 7227 | 41,4 | 52 | 2302 | 12,3
 Aktobe | 144 | 12963 | 35,1 | 48 | 9414 | 41,0 | 96 | 3549 | 25,5
 Almaty | 53 | 7174 | 7,1 | 40 | 5772 | 13,8 | 13 | 1402 | 2,4
 Atyrau | 123 | 11343 | 36,5 | 46 | 7043 | 40,0 | 77 | 4300 | 31,9
 East Kazakhstan | 246 | 18296 | 32,9 | 98 | 14846 | 45,3 | 148 | 3450 | 15,1
 Zhambyl | 62 | 11052 | 18,9 | 28 | 7544 | 31,0 | 34 | 3508 | 10,3
-Western Kazakhstan | 82 | 11126 | 36,7 | 36 | 7745 | 59,2 | 46 | 3381 | 19,6
+Western Kazakh- stan | 82 | 11126 | 36,7 | 36 | 7745 | 59,2 | 46 | 3381 | 19,6
 Karaganda | 159 | 24375 | 46,5 | 140 | 24225 | 56,4 | 19 | 150 | 5,3
 Kyzylorda | 96 | 7774 | 19,9 | 46 | 4954 | 18,0 | 50 | 2820 | 24,7
 Kostanai | 482 | 22241 | 57,9 | 96 | 12646 | 60,5 | 386 | 9595 | 54,8
 Mangistau | 46 | 8546 | 33,3 | 35 | 7896 | 43,3 | 11 | 650 | 8,8
 Pavlodar | 88 | 15141 | 38,7 | 64 | 13767 | 52,8 | 24 | 1374 | 10,5
-North Kazakhstan | 80 | 6450 | 25,1 | 20 | 4359 | 43,9 | 60 | 2091 | 13,3
-South Kazakhstan | 139 | 20828 | 13,4 | 90 | 16026 | 26,8 | 49 | 4802 | 5,0
+North Kazakh- stan | 80 | 6450 | 25,1 | 20 | 4359 | 43,9 | 60 | 2091 | 13,3
+South Kazakh- stan | 139 | 20828 | 13,4 | 90 | 16026 | 26,8 | 49 | 4802 | 5,0
 Almaty | 162 | 30924 | 37,9 | 162 | 30924 | 37,9 | 0 | 0 | 0
 Astana | 57 | 13109 | 47,3 | 57 | 13109 | 47,3 | 0 | 0 | 0
-Total in the Republic | 2115 | 230871 | 27,6 | 1050 | 187497 | 38,7 | 1065 | 43374 | 12,4
+Total in the Re- public | 2115 | 230871 | 27,6 | 1050 | 187497 | 38,7 | 1065 | 43374 | 12,4
 2000 | 1114 | 135287 | 12,3 | 897 | 124465 | 17 | 247 | 10822 | 2,1
 Dynamics | + 1001 | + 95584 | + 15,3 | + 153 | +63032 | + 21,7 | +818 | + 32552 | + 10,3
 
@@ -7973,7 +7896,7 @@ Dynamics | + 1001 | + 95584 | + 15,3 | + 153 | +63032 | + 21,7 | +818 | + 32552 
 
 [[START OF PAGE 177]]
 
-Annex A
+Annex А
 
 ###### Table 4. Indicator 1.2.2. Share of new Grade 1 entrants upon completion of early childhood educational programmes (information of MES RK as of 1.10.2006)
 
@@ -8012,7 +7935,7 @@ National Report
 
 (information of MES RK as of 1.10.2006)
 
-Oblast | Total of children in pre-school organizations | Including private PS organizations | % of the total number of children, studying at PS organizations
+Oblast | Total of children in pre- school organizations | Including private PS organizations | % of the total number of children, studying at PS organizations
 --- | --- | --- | ---
 Akmola | 9529 | 633 | 6,6
 Aktobe | 12963 | 171 | 1,3
@@ -8040,7 +7963,7 @@ Dynamics | +95584 | +5559 | +0,1
 
 [[START OF PAGE 179]]
 
-Annex A
+Annex А
 
 ###### Technical Notes
 
@@ -8048,16 +7971,16 @@ Age | Age groups of children: children under 1 year of age have been indicated a
 --- | ---
 Akim’s Office | Local executive bodies, execute and distribute local budgets. Akim’s structure includes educational, healthcare, financial bodies, etc.
 Pre-school education | In the present Report this term serves to identify educational services and care-giving services for children at the age from 1 to 7.
-Pre-school educational services | In the present Report this term serves to identify services of all types of formal and non-formal pre-school education, provided to children from 0+ to 8.
+Pre-school educational ser- vices | In the present Report this term serves to identify services of all types of formal and non-formal pre-school education, provided to children from 0+ to 8.
 Coverage | Coverage stands for general coverage if not specified otherwise.
 Kazakhstan tenge | Kazakhstan tenge or KZT is a national currency of Kazakhstan. According to exchange rate of the National Bank of the Republic of Kazakhstan, USD1 was equal to 123 tenge in January 2007.
 Pre-school mini-Centre | Pre-school educational services, provided by secondary general school, KG or at tutor’s house. It’s a flexible and inexpensive form of services for children of 3+-5+/6+ in combined part-time groups (e.g., 2 hours).
 Oblast | An administrative and territorial unit of Kazakhstan. Kazakhstan comprises 14 oblasts and 2 cities of Republican status (Astana and Almaty).
 Oblasts L-5 | Oblasts with low coverage of children with pre-school programmes (Almaty, Zhambyl, Kyzylorda, NKO and SKO).
 Oblasts H-5 | Oblasts with high coverage of children with pre-school programmes (Kostanai, Karaganda, Pavlodar, cities of Astana and Almaty).
-Pre-School Grade (PS Grade) | Grades for children of 5+–6+ within secondary schools, providing mandatory annual free pre-school training for children, who would not attend other pre-school institutions.
+Pre-School Grade (PS Grade) | Grades for children of 5+–6+ within secondary schools, providing manda- tory annual free pre-school training for children, who would not attend other pre-school institutions.
 Pre-School Group (PS Group) | PS Groups within pre-school day-time institutions for –re-school training of children of 6 and above years of age. These are chargeable groups, though in some oblasts they provide non-chargeable services.
-Early childhood care and education | The first stage of education and upbringing of children of 1+-6+(7+). Pre-school educational services enhance physical and psychic health of children.
+Early childhood care and edu- cation | The first stage of education and upbringing of children of 1+–6+(7+). Pre-school educational services enhance physical and psychic health of children.
 Pre-school organization | Pre-school organization provides education and upbringing to children of pre-school age from 1 to 6 (7) years of age. Pre-school organizations include Day Nursery, KG-Day Nursery, KG, mini pre-school Centres, pre-school Grade and “School – KG” complex (Table 1).
 Region | Region is an administrative and territorial unit within an oblast. There are 14 oblasts, 160 regions, 39 cities of oblast status, 45 cities of regional status, 7.862 rural settlements.
 
@@ -8074,10 +7997,10 @@ National Report
 ##### Table 6. Quality composition of teachers at day-time secondary schools for academic year 2004–2005
 
 Oblasts | Number of teachers |  | Of the total number of employees |  |  |  |  |  |  |  |  |  | With a category |  |  |
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
  | Total | Including women | With education |  |  |  |  | Pedagogical background |  |  |  |  | Higher | 1st | 2nd | No category
  |  |  | higher | Incomplete higher | Secondary vocational |  | Secondary | Less than 3 years | 3-8 years | 9-16 years | 17-20 years | Over 20 years |  |  |  |
  |  |  |  |  | Total | Including pedagogical |  |  |  |  |  |  |  |  |  |
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17
 Akmola | 14428 | 11899 | 9432 | 417 | 4203 | 3914 | 376 | 1634 | 2563 | 3401 | 2244 | 4586 | 1642 | 3897 | 3961 | 4928
 Aktobe | 14516 | 11789 | 10411 | 719 | 3031 | 2850 | 355 | 2271 | 2859 | 3471 | 1749 | 4166 | 1571 | 3038 | 3534 | 6373
@@ -8106,44 +8029,54 @@ Source: MES RK
 
 [[START OF PAGE 181]]
 
-Annex A
+Annex А
 
 ##### System of Education of the Republic of Kazakhstan
 
-Levels of education in line with ISEC
-6
-5
-4
-3
-2
-1
-0
-
-AGE
-22
-20
-18
-16
-10
-5
+Levels of education in line with ISEC | A G E
+--- | ---
+6 |
+5 | 22
+4 | 20
+3 | 18
+2 | 16
+1 | 10
+0 | 5
 
 Ph.D
 
-A Scientific and Research Activities
-B Profile Training
-Master's
-Bachelor's
-Bachelor's (Unified training) (2 years)
-Vocational courses
+A
+Scientific and Research Activities
+
+B
+Profile Training
+
+Master’s
+
+Bachelor’s
+
+Bachelor’s
+(Unified training) (2 years)
+
 Post-secondary vocational education (2 years)
+
 Secondary education
-Secondary education (profile training) (11-12 Grades)
+
 Technical and vocational education (2+1 year)
+
+Secondary education
+(profile training)
+(11-12 Grades)
+
 Basic education (5-10 Grades)
+
 Primary education (1-4 Grades)
+
 Early childhood care and education. Predshkola
 
-Labour Market
+Vocational courses
+
+L a b o u r M a r k e t
 
 Source: MES RK
 
