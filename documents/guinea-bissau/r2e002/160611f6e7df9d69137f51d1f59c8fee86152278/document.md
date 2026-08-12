@@ -1,18 +1,8 @@
 [[START OF PAGE 1]]
 
-© 2011  International Monetary Fund
-
-June 31, 2011
-
-January 29, 2001
-
-December 2011 IMF Country Report No. 11/353
-
-January 29, 2001
-
-January 29, 2001
-
-January 29, 2001
+© 2011 International Monetary Fund
+December 2011
+IMF Country Report No. 11/353
 
 # Guinea-Bissau: Second Poverty Reduction Strategy Paper
 
@@ -20,27 +10,26 @@ This poverty reduction strategy paper on Guinea-Bissau was prepared in broad con
 
 Copies of this report are available to the public from
 
-International Monetary Fund  Publication Services 700 19 th Street, N.W.  Washington, D.C. 20431
+International Monetary Fund  Publication Services
+700 19th Street, N.W.  Washington, D.C. 20431
 
-Telephone: (202) 623-7430
-
-
-
-Telefax: (202) 623-7201
+Telephone: (202) 623-7430  Telefax: (202) 623-7201
 
 E-mail: publications@imf.org  Internet: http://www.imf.org
 
-International Monetary Fund Washington, D.C.
+International Monetary Fund
+Washington, D.C.
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-REPUBLIC OF GUI N EA-BISSAU MI N ISTRY OF ECO N OMY, PLA NN I N G, A N D REGIO N AL I N TEGRATIO N
+REPUBLIC OF GUINEA-BISSAU
+MINISTRY OF ECONOMY, PLANNING, AND REGIONAL INTEGRATION
 
-# SECO N D N ATIO N AL POVERTY REDUCTIO N STRATEGY PAPER
+# SECOND NATIONAL POVERTY REDUCTION STRATEGY PAPER
 
-DE N ARP/PRSP II (2011-2015)
+DENARP/PRSP II (2011–2015)
 
 Bissau, June 2011
 
@@ -48,13 +37,106 @@ Bissau, June 2011
 
 [[START OF PAGE 3]]
 
-# CO N TE N TS
+# CONTENTS
+
+Acronyms and Abbreviations 4
+Executive Summary 6
+1. Progress made and new challenges 6
+2. Main Strategic Guidelines of the PRSP II 7
+Introduction 12
+I. POLITICAL, ECONOMIC, AND SOCIAL CONTEXT 13
+1.1 Environment for Politics, Governance, and Security 13
+1.2. Economic Performance 15
+1.3 Profile of Human Development 17
+1.3.1 Overall situation: Limited and precarious human development 17
+1.3.2 Access to basic services: progress made and challenges to be overcome 19
+1.3.3 HIV/AIDS: modest gains to be consolidated and expanded 22
+1.3.4 Human rights: difficult to implement and to exercise 23
+1.3.5 Gender inequality: structural inequalities and setbacks in the progress towards equality between men and women 25
+1.4. Economic development and infrastructure 26
+1.4.1 Main findings and challenges facing the primary sector: little development of potential 26
+1.4.2 Level of infrastructure development: lags in energy and transport 28
+Energy Sector 28
+1.4.3 Situation of the private sector: a developing sector in need of support 30
+1.5 Analysis of poverty and MDG trends 30
+1.5.1 Profile of monetary poverty: worsening poverty 30
+1.5.2 Profile of nonmonetary poverty: precarious living conditions of the population 32
+1.5.3 MDG status and trends: sectoral comparison 36
+II. GUIDELINES AND STRATEGIC CORE AREAS OF THE SECOND PRSP 38
+2.1 Main lessons from the first PRSP 38
+2.2. Guinea-Bissau’s Forward-Looking View 42
+2.2.1. Guinea-Bissau 2025 42
+2.2.2. MDGs, 2020 Horizon 43
+2.2.3. Methodology and PRSP preparation process 44
+2.3. Strategic guidelines 46
+2.3.1. Baseline for development and programming 46
+2.3.2. Objectives 47
+2.3.3. Strategic guidelines 49
+2.3.4. Guiding principles 52
+1. Adopting a stance geared toward development under the rule of law 52
+2. Respect for and promotion of human rights 52
+4. Considering the issue of capacity building 53
+5. Promoting sustainable development that is more resilient to climate change 54
+6. Promoting a new partnership with technical and financial partners 54
+2.4. The four strategic core areas of the second PRSP 55
+2.4.1. Core area I: Strengthen the rule of law and republican institutions 55
+1. Reform of the defense and security sector 55
+2. Combating the proliferation of small arms and light weapons and of drug trafficking 58
+3. Promoting human rights 58
+4. Strengthening justice and the rule of law 59
+5. Capacity building at the People’s National Assembly 61
+6. Civic participation, national dialogue and reconciliation 61
+7. Public administration reform and modernization 62
+8. Decentralization and Local Development 63
 
 2
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+9. Natural disaster risk prevention and management 64
+2.4.2 Core area II: Ensure a stable, stimulating macroeconomic environment 66
+1. Stabilization of the macroeconomic framework and capacity building for strategic development management 66
+2. Public financial management reforms 67
+3. Improving the business climate and promoting the private sector 68
+2.4.3. Core area III: Promote inclusive, sustainable economic development 71
+1. Support for growth-generating sectors 71
+2. Develop basic economic infrastructure 79
+3. Improve governance in the emerging sectors of mining and oil 83
+4. Develop the processing industry 84
+5. Improve and develop the job market 84
+6. Environmental management and protection 85
+2.4.4. Core area IV: Raise the level of human capital development 87
+1. Develop and improve the quality of the education system 87
+2. Develop the health sector and upgrade the quality of services 91
+3. Intensify and expand HIV/AIDS programs 96
+4. Improve access to water and sanitation services 98
+5. Improve and expand social protection 99
+6. Develop advocacy actions for gender equality and justice 100
+2.5. Macroeconomic framework, PRSP II financing, and key risks 101
+2.5.1. Key trends and lessons from macroeconomic developments 2006-2010 101
+1. Economic growth 101
+2. Government finance 102
+3. External payments and debt 103
+[Legend:] Non- Paris Club 30 percent 104
+2.5.2. Macroeconomic outlook 2011-2015 104
+1. Baseline scenario 105
+2. Alternative scenarios 108
+3. Optimistic scenario 110
+2.5.3. PRSP II financing risks 111
+III. Institutional mechanism for PRSP II implementation, monitoring, and evaluation 112
+3.1. Assessment and lessons from PRSP I monitoring and evaluation 112
+3.1.1. Assessment of PRSP I monitoring and evaluation 112
+3.1.2 Main advantages of an operational monitoring and evaluation system 113
+3.2. PRSP II monitoring and evaluation system 115
+3.2.1. Institutional framework for implementation, and monitoring and evaluation 115
+3.2.2. PRSP II monitoring and evaluation system 117
+1. Organization of the Information System 117
+2. Minimum system (2011-2012) 118
+3. Reinforced system (2013-2015) 119
+4. System of indicators 119
+IV. Annexes 121
 
 3
 
@@ -68,26 +150,26 @@ ACHPR | African Commission on Human and People's Rights
 --- | ---
 AfDB | African Development Bank
 AGECF | African Guarantee and Economic Cooperation Fund
-A N P | People's National Assembly
+ANP | People's National Assembly
 ARV | Anti-retroviral drugs
 BCEAO | Central Bank of West African States
 BOAD | West African Development Bank
 CCIAS | Chamber of Commerce, Industry, Agriculture, and Services
 CEDAW | Convention on the Elimination of All Forms of Discrimination against Women
-CE N FA | Administrative Training Center
+CENFA | Administrative Training Center
 CFA | African Financial Community
 CIR | Integrated Trade Program Initiative
 CISD | DENARP/PRSP Implementation and Monitoring Unit
-CIS N PC | Commission to Establish the National Civil Protection Service
+CISNPC | Commission to Establish the National Civil Protection Service
 CPLP | Community of Portuguese Language Countries
 CSO | Civil Society Organization
-DE N ARP | National Poverty Reduction Strategy Paper (PRSP)
+DENARP | National Poverty Reduction Strategy Paper (PRSP)
 EBE | Basic Elementary Education
 ECOWAS | Economic Community of West African States
 EDF | European Development Fund
 EDIC | Diagnostic Study on Trade Integration
 EFA | Education for All
-E N A | National School of Administration
+ENA | National School of Administration
 EPA | Economic Partnership Agreement
 EU | European Union
 FGT | Foster, Greer, Thorbecke measure of poverty within an economy
@@ -100,12 +182,12 @@ HIV | Human Immunodeficiency Virus
 IBAP | Institute for Biodiversity and Protected Areas
 IDS | Demographic and Health Survey
 IDSR | Demographic and Reproductive Health Survey
-IGV | General Sales Tax ( Imposto Geral sobre Vendas )
+IGV | General Sales Tax (Imposto Geral sobre Vendas)
 ILAP | Rapid Poverty Assessment Survey
 IMC | Mother and Child Institute
 IMF | International Monetary Fund
-I N E | National Statistics Institute
-I N PA | National Agricultural Research Institute
+INE | National Statistics Institute
+INPA | National Agricultural Research Institute
 MDGs | Millennium Development Goals
 MDRI | new Multilateral Debt Relief Initiative
 
@@ -120,11 +202,11 @@ MEPIR | Ministry of Economy, Planning, and Regional Integration
 MICS | Multiple Indicator Cluster Survey
 MIGA | Multilateral Investment Guarantee Agency
 MTEF | Medium-term Expenditure Framework
-N ER | Net Enrolment Rate
-N GO | Nongovernmental Organization
+NER | Net Enrolment Rate
+NGO | Nongovernmental Organization
 OGE | General State Budget
-OHADA | Organization for the Harmonization of Trade Legislation in Africa African Party for the Independence of Guinea-Bissau and Cape
-PAIGC | Verde
+OHADA | Organization for the Harmonization of Trade Legislation in Africa
+PAIGC | African Party for the Independence of Guinea-Bissau and Cape Verde
 PCAP | Post-Conflict Assistance Program
 PIP | Public Investment Program
 PMTCT | Prevention of Mother-to-Child Transmission
@@ -140,8 +222,8 @@ SRHR Action Plan | Action Plan for Sexual and Reproductive Health and Rights
 SYSCOA | West African Accounting System
 TFPs | Technical and Financial Partners
 TOFE | Government Financial Operations Table
-U N DP | United Nations Development Program
-U N FPA | United Nations Population Fund
+UNDP | United Nations Development Program
+UNFPA | United Nations Population Fund
 USD | United States Dollar
 VAT | Value Added Tax
 WAEMU | West African Economic and Monetary Union
@@ -172,7 +254,7 @@ However, owing to constraints and difficulties related to the availability of fi
 
 ### Weak and precarious human development
 
-Human development in Guinea-Bissau continues to be weak and precarious. The constant political instability made it impossible to create conditions conducive to the implementation of ambitious and sustainable public policies. According to the UNDP World Development Report, Guinea-Bissau, with a human development index (HDI) of 0.289, is ranked number 164 of a total of 169 countries.  Between 2000 and 2010, Guinea-Bissau had an average annual HDI growth rate of 0.9 percent, as opposed to 2.1 percent for sub-Saharan Africa and 1.68 percent for the low-HDI countries. The two factors that contributed to the low HDI in Guinea-Bissau are: widespread poverty, with very low monetary incomes and a life expectancy of 48.6 years owing to problems with access to good quality health services. This situation correlates with a population growth rate of 2.5 percent and an economic growth rate that rarely exceeded a 3-percent average between 2000 and 2010. These poor indicators, with the exception of life expectancy, affect women in particular. As a result, the gender inequality gap continues to be very wide in Guinea-Bissau (0.381 in 2007) placing the country 148 th of the 155 countries considered.
+Human development in Guinea-Bissau continues to be weak and precarious. The constant political instability made it impossible to create conditions conducive to the implementation of ambitious and sustainable public policies. According to the UNDP World Development Report, Guinea-Bissau, with a human development index (HDI) of 0.289, is ranked number 164 of a total of 169 countries. Between 2000 and 2010, Guinea-Bissau had an average annual HDI growth rate of 0.9 percent, as opposed to 2.1 percent for sub-Saharan Africa and 1.68 percent for the low-HDI countries. The two factors that contributed to the low HDI in Guinea-Bissau are: widespread poverty, with very low monetary incomes and a life expectancy of 48.6 years owing to problems with access to good quality health services. This situation correlates with a population growth rate of 2.5 percent and an economic growth rate that rarely exceeded a 3-percent average between 2000 and 2010. These poor indicators, with the exception of life expectancy, affect women in particular. As a result, the gender inequality gap continues to be very wide in Guinea-Bissau (0.381 in 2007) placing the country 148th of the 155 countries considered.
 
 6
 
@@ -210,7 +292,7 @@ The PRSP II will take into account the lessons learned in the following areas:
 
 [[START OF PAGE 9]]
 
-- improving the quality of basic social services, namely MDGs, CEDAW, ACHPR additional protocol on women's rights, and Action Plan for Sexual and Reproductive Health Rights;
+improving the quality of basic social services, namely MDGs, CEDAW, ACHPR additional protocol on women's rights, and Action Plan for Sexual and Reproductive Health Rights;
 
 -Recovery of pro-poor economic growth and diversification of productive bases through a combination of measures in the areas of agriculture and livestock, fisheries, and development of processing activities and marketing;
 
@@ -232,15 +314,15 @@ The main objective of the PRSP II is to significantly reduce poverty in all its 
 
 #### The specific objectives of the PRSP II include:
 
-- Reduction in the incidence of poverty at the national level from 69.3 percent in 2010 to 59 percent in 2015 and of extreme poverty from 33 percent to 20 percent during the same period, taking into account the disparity between men and women;
+i. Reduction in the incidence of poverty at the national level from 69.3 percent in 2010 to 59 percent in 2015 and of extreme poverty from 33 percent to 20 percent during the same period, taking into account the disparity between men and women;
 
-- Reduction in the food insecurity index from 32 percent to 16 percent in 2015;
+ii. Reduction in the food insecurity index from 32 percent to 16 percent in 2015;
 
-- An economic growth rate that averages 5 percent per annum between 2011 and 2015;
+iii. An economic growth rate that averages 5 percent per annum between 2011 and 2015;
 
-- Stabilization of security in the country through the harmonized reform of the defense and security forces;
+iv. Stabilization of security in the country through the harmonized reform of the defense and security forces;
 
-- Minimization of structural inequalities between men and women.
+v. Minimization of structural inequalities between men and women.
 
 8
 
@@ -308,13 +390,13 @@ The information system for monitoring will be based on two main components: (i) 
 
  Component for monitoring poverty, living conditions, aggregates, gender disparities, inequities, and inequalities: this component is based on the following activities:
 
-- Planning the production of research data (planning surveys, mobilizing financial resources, preparing terms of reference, etc.);
+1. Planning the production of research data (planning surveys, mobilizing financial resources, preparing terms of reference, etc.);
 
-- Systematic breakdown by sex and age of all information provided;
+2. Systematic breakdown by sex and age of all information provided;
 
-- Development of routine information systems to produce annual administrative data (focusing on the production of data on agriculture, education, health, water and sanitation, infrastructure, social solidarity, employment, and the security and justice sectors) and promotion of projects to support these systems that target primary data producers/gatherers (school directors, health center directors, etc.);
+3. Development of routine information systems to produce annual administrative data (focusing on the production of data on agriculture, education, health, water and sanitation, infrastructure, social solidarity, employment, and the security and justice sectors) and promotion of projects to support these systems that target primary data producers/gatherers (school directors, health center directors, etc.);
 
-- Promotion of quantitative and qualitative sectoral studies on gender.
+4. Promotion of quantitative and qualitative sectoral studies on gender.
 
  Component for monitoring implementation: This component is coordinated by the Directorate-General of Planning and is based on the following activities:
 
@@ -324,13 +406,13 @@ The information system for monitoring will be based on two main components: (i) 
 
 [[START OF PAGE 12]]
 
-- Production of reports on budget execution based on the SIGFIP (the organic, functional, and economic classification of expenditure);
+1. Production of reports on budget execution based on the SIGFIP (the organic, functional, and economic classification of expenditure);
 
-- Production of an annual report on PIP execution based on the transmission of GEP information, information on monitoring external assistance, and collecting specific data on pre-selected strategic projects;
+2. Production of an annual report on PIP execution based on the transmission of GEP information, information on monitoring external assistance, and collecting specific data on pre-selected strategic projects;
 
-- Production of a mid-term and a final progress report on gender disparities, inequities, and inequalities;
+3. Production of a mid-term and a final progress report on gender disparities, inequities, and inequalities;
 
-- Implementation of an external assistance management platform.
+4. Implementation of an external assistance management platform.
 
 11
 
@@ -358,11 +440,11 @@ The PRSP II is divided into three parts. The first part presents recent developm
 
 [[START OF PAGE 14]]
 
-# I. POLITICAL, ECO N OMIC, A N D SOCIAL CO N TEXT
+# I. POLITICAL, ECONOMIC, AND SOCIAL CONTEXT
 
 ## 1.1 Environment for Politics, Governance, and Security
 
-In the 2000s, public life in Guinea-Bissau was marked mainly by persistent political instability, a weak state, and the failure to respect the foundations of a democratic state, particularly as regards the submission of the military branch to civilian authority. The country was not able to overcome the political, economic, and social consequences of the politicalmilitary conflict of 1998-1999. The persistent political instability as demonstrated by the fact that (i) the average term of the successive governments between 2004-2009 did not exceed six months; (ii) the military continually interfered in political affairs and governance, undermining efforts to consolidate democracy and the rule of law; and (iii) the international community imposed conditionalities and development partners subsequently deferred their assistance.
+In the 2000s, public life in Guinea-Bissau was marked mainly by persistent political instability, a weak state, and the failure to respect the foundations of a democratic state, particularly as regards the submission of the military branch to civilian authority. The country was not able to overcome the political, economic, and social consequences of the political-military conflict of 1998-1999. The persistent political instability as demonstrated by the fact that (i) the average term of the successive governments between 2004-2009 did not exceed six months; (ii) the military continually interfered in political affairs and governance, undermining efforts to consolidate democracy and the rule of law; and (iii) the international community imposed conditionalities and development partners subsequently deferred their assistance.
 
 In seeking an escape from this critical situation, the government made efforts to provide the country with a strategic framework for achieving the objectives of better governance and to create income generating opportunities for the population. These efforts resulted in the preparation of the first National Poverty Reduction Strategy Paper (PRSP) and the scheduling of an international donor conference to mobilize the resources for its implementation.
 
@@ -386,7 +468,7 @@ The legislative elections of November 2008 resulted in a parliamentary majority 
 
 Only in January 2009 did Guinea-Bissau enter a new cycle of governance mainly by implementing a fiscal consolidation program, creating better conditions for implementing reforms in the defense and security sectors, the civil service, and the justice system. The election of the President of the Republic that year further reinforced this new cycle of governance.
 
-In August 2010, the ANP launched a national reconciliation program sponsored by the President of the Republic and having the support of all the civic forces ( forças vivas da N ação ). All parties have very high expectations for economic recovery and consolidation of governmental power.
+In August 2010, the ANP launched a national reconciliation program sponsored by the President of the Republic and having the support of all the civic forces (forças vivas da Nação). All parties have very high expectations for economic recovery and consolidation of governmental power.
 
 The relationship between the government and its development partners has begun to show positive signs in the new context of governance with a view to fully restoring a climate of trust and more solid frameworks for partnership. The good outcomes of macroeconomic management, which resulted in reaching completion point under the HIPC Initiative, strengthened the government's credibility with its development partners.
 
@@ -418,7 +500,9 @@ The balance of payments, which recorded a deficit of 5.1 percent of GDP in 2005,
 
 [[START OF PAGE 17]]
 
-2005 | 2006 | 2007 | 2008 | 2009
+Table 1: Key Indicators
+
+ | 2005 | 2006 | 2007 | 2008 | 2009
 --- | --- | --- | --- | --- | ---
 GDP growth rate ( percent) | 4.3 | 1.8 | 3.2 | 3.2 | 3.0
 Per capita GDP growth rate ( percent) | 0.3 | -1.1 | -0.3 | 1.3 | 0.8
@@ -427,11 +511,9 @@ Budget balance, including grants (in percent of GDP) | -11.9 | -8.3 | -10.9 | -3
 Balance of payments current account, including transfers (in percent of GDP) | -5.1 | -10.2 | -9.4 | -2.8 | 1.6
 Gross domestic saving (in percent of GDP) | 9.5 | -0.3 | 16.5 | 8.9 | 10.0
 
-Table 1: Key Indicators
-
 Source: Consultant's Mission Report, IMF
 
-Structural reforms were also implemented in recent years to modernize public administration (biometric census of civil servants-with the identification of 4,000 fictitious workers-, adoption of a budget nomenclature that is harmonized with WAEMU directives, introduction of an Integrated Public Financial Management System-SIGFIP) and to improve the business climate (adoption of a new investment code and OHADA regulations, establishment of a onestop-shop to facilitate the establishment of businesses, creation of a Commercial Court, etc.).
+Structural reforms were also implemented in recent years to modernize public administration (biometric census of civil servants—with the identification of 4,000 fictitious workers—, adoption of a budget nomenclature that is harmonized with WAEMU directives, introduction of an Integrated Public Financial Management System—SIGFIP) and to improve the business climate (adoption of a new investment code and OHADA regulations, establishment of a one-stop-shop to facilitate the establishment of businesses, creation of a Commercial Court, etc.).
 
 Despite these advances, the economy of Guinea-Bissau continues to face serious structural constraints, as pointed out in the PRSP I. The country's diligence and efficiency in overcoming these drawbacks will determine its economic and social future. These include:
 
@@ -439,7 +521,7 @@ Despite these advances, the economy of Guinea-Bissau continues to face serious s
 
  Limited access to banking and financial services, which is restricted to 2-3 percent of the population.
 
- As a result of deficiencies in the business sphere, including those related to the serious shortage of basic infrastructure (energy, transport) and limited capacity of the public sector to provide support, Guinea-Bissau is ranked 181 st of 183 countries on the World Bank's 2010 Doing Business list.
+ As a result of deficiencies in the business sphere, including those related to the serious shortage of basic infrastructure (energy, transport) and limited capacity of the public sector to provide support, Guinea-Bissau is ranked 181st of 183 countries on the World Bank's 2010 Doing Business list.
 
  The lack of visibility of women's contributions to the economic sector, particularly in the informal urban business sector and in the home, is a structural constraint in itself. This contribution is not recognized and, as a result, is not counted in the computation of GDP.
 
@@ -459,13 +541,13 @@ in the armed conflict of 1998-1999, to strengthen and modernize the production a
 
 In the PRSP I implementation table, several initiatives to remedy this situation were taken. In addition to the reforms mentioned above, the work on rehabilitating and extending the power grid was completed, work on construction and rehabilitation of some major arteries in the city of Bissau was started, the studies for building 500 km of roads linking Guinea-Bissau to its neighboring countries-Guinea and Senegal-were completed; 180 km of roadways in the national network were rehabilitated; and routine maintenance was performed on 400 km of dirt roads.
 
-However, owing to constraints related to the availability of the necessary financing, politicalinstitutional instability, and the country's limited institutional capacity to implement development projects on schedule, performance fell far short of the set objectives.
+However, owing to constraints related to the availability of the necessary financing, political-institutional instability, and the country's limited institutional capacity to implement development projects on schedule, performance fell far short of the set objectives.
 
 ## 1.3 Profile of Human Development
 
 ### 1.3.1 Overall situation: Limited and precarious human development
 
-The level of human development in Guinea-Bissau continues to be limited and precarious. Political instability over several decades made it impossible to create better conditions for implementing ambitious and sustainable public policies. According to the UNDP World Development Report, Guinea-Bissau ranked 164 th of 169 countries with an HDI of 0.289. Between 2000 and 2010, Guinea-Bissau's average annual HDI growth rate was 0.9 percent as opposed to 2.1 percent for sub-Saharan Africa and 1.68 percent for the countries with a very low HDI. The two factors that contributed to Guinea-Bissau's low HDI are: widespread poverty with very low monetary income and limited life expectancy (48.6 years old) resulting from the lack of income generating opportunities and access to quality health care. This situation is correlated with a population growth rate of 2.5 percent and an economic growth rate of little more than 3 percent on average between 2000 and 2010. These weak indicators affect women in particular, with a gender inequality index of 0.381 in 2007, placing the country 148 th of the 155 countries considered.
+The level of human development in Guinea-Bissau continues to be limited and precarious. Political instability over several decades made it impossible to create better conditions for implementing ambitious and sustainable public policies. According to the UNDP World Development Report, Guinea-Bissau ranked 164th of 169 countries with an HDI of 0.289. Between 2000 and 2010, Guinea-Bissau's average annual HDI growth rate was 0.9 percent as opposed to 2.1 percent for sub-Saharan Africa and 1.68 percent for the countries with a very low HDI. The two factors that contributed to Guinea-Bissau's low HDI are: widespread poverty with very low monetary income and limited life expectancy (48.6 years old) resulting from the lack of income generating opportunities and access to quality health care. This situation is correlated with a population growth rate of 2.5 percent and an economic growth rate of little more than 3 percent on average between 2000 and 2010. These weak indicators affect women in particular, with a gender inequality index of 0.381 in 2007, placing the country 148th of the 155 countries considered.
 
 The employment situation, especially among the youth has not improved much. The 2009 RGPH indicates that the potential labor force (15 years and older) is 37.7 percent of the total population of Guinea-Bissau and almost 61 percent of this age group. Women working for 6 years or more comprise more than 65 percent of the resident female population with less than 2 percent of this population considered to be nonworking.
 
@@ -489,17 +571,31 @@ Despite constraints of various kinds, significant progress was made in improving
 
 -an increase in life expectancy from 43 years in 1989 to 48.6 years in 2009.
 
-2000-2003 | 2005-2007 | 2009-2010
---- | --- | --- | ---
-Incidence of poverty: Incidence of absolute poverty (in percent) Incidence of extreme poverty (in percent) | 64.7 (2002) 20.8 (2002) | - - | 69.3 (2010) 33.0 (2010)
-Education: GER at the primary level (in percent) NER at the primary level (in percent) GER at the secondary level (in percent) | 70.0 45.3 19.0 | 101.0 56.9 30.0 | 107.8 67.4 46.6
-Health: Infant mortality rate ( 0 / 000 ) Infant-juvenile mortality rate ( 0 / 000 ) Assisted delivery rate (in percent) Maternal mortality rate ( 0 / 00.000 ) | 122 205 … 822 | 138 223 38.8 (2006) 800 | 104 155 43.0 (2010) …
-Safe drinking water: Rate of access to safe drinking water (in percent) | - | 35 | 40
-Life expectancy at birth (years) | - | - | 48.6
-Human development: HDI HDI ranking | - | 0.278 | 0.289 (2010) 164 th of 169
-Gender inequality Gender inequality index (GII) GII rank | - | 0.381 (2007) 148 th of 155 | -
-
 Table 2: Changes in the main social indicators
+
+ | 2000-2003 | 2005-2007 | 2009-2010
+--- | --- | --- | ---
+Incidence of poverty: | | |
+Incidence of absolute poverty (in percent) | 64.7 (2002) | - | 69.3 (2010)
+Incidence of extreme poverty (in percent) | 20.8 (2002) | - | 33.0 (2010)
+Education: | | |
+GER at the primary level (in percent) | 70.0 | 101.0 | 107.8
+NER at the primary level (in percent) | 45.3 | 56.9 | 67.4
+GER at the secondary level (in percent) | 19.0 | 30.0 | 46.6
+Health: | | |
+Infant mortality rate (0/000) | 122 | 138 | 104
+Infant-juvenile mortality rate (0/000) | 205 | 223 | 155
+Assisted delivery rate (in percent) | … | 38.8 (2006) | 43.0 (2010)
+Maternal mortality rate (0/00.000) | 822 | 800 | …
+Safe drinking water: | | |
+Rate of access to safe drinking water (in percent) | - | 35 | 40
+Life expectancy at birth (years) | - | - | 48.6
+Human development: | | |
+HDI | - | 0.278 | 0.289 (2010)
+HDI ranking | | | 164th of 169
+Gender inequality | | |
+Gender inequality index (GII) | - | 0.381 (2007) | -
+GII rank | | 148th of 155 |
 
 18
 
@@ -515,7 +611,7 @@ This progress is partly the result of the following actions:
 
 -Water and Sanitation: construction of public water fountains and institutionalization of training for members of the committees that manage those fountains; construction of more than 3,000 latrines and water distribution networks in the main urban centers; etc.
 
-Nonetheless, as in other areas, the social sectors continue to face serious budgetary constraints, exacerbated by the lack of institutional and human capacity and staff motivation. As a result of the limited budget for overall government expenses (22 percent of GDP according to estimates-IMF report of May 2010), the share allocated to basic social services is among the lowest in the subregion. In 2006, for example, no more than 4 percent of government spending was allocated to education (US$10 per capita) as opposed to 6.7 percent (US$14) in Niger. In 2007, public expense on health was estimated at US$4 in GuineaBissau, compared with an average of US$11 for low-income countries and US$34 for the African region. 2 In 2011, the budget allocated to education and health is a mere 20.7 percent of the total, as opposed to the international recommendation of 40 percent.
+Nonetheless, as in other areas, the social sectors continue to face serious budgetary constraints, exacerbated by the lack of institutional and human capacity and staff motivation. As a result of the limited budget for overall government expenses (22 percent of GDP according to estimates—IMF report of May 2010), the share allocated to basic social services is among the lowest in the subregion. In 2006, for example, no more than 4 percent of government spending was allocated to education (US$10 per capita) as opposed to 6.7 percent (US$14) in Niger. In 2007, public expense on health was estimated at US$4 in Guinea-Bissau, compared with an average of US$11 for low-income countries and US$34 for the African region.² In 2011, the budget allocated to education and health is a mere 20.7 percent of the total, as opposed to the international recommendation of 40 percent.
 
 ### 1.3.2 Access to basic services: progress made and challenges to be overcome
 
@@ -525,9 +621,9 @@ Generally speaking, access to basic social services, as reflected in the availab
 
 However, these advances are insufficient to meet the expectations of the population and the commitments assumed by the government in pursuit of the Millennium Development Goals. Almost one in three children (32.6 percent) of school age have no access to primary education; one in every 10 children (104 per mil) dies before his/her first birthday; maternal mortality continues to be one of the highest rates in the region (818 per 100,000 births in comparison with 556 in Gambia, 980 in Guinea-Conakry, 648 in Niger, 800 in Nigeria, and 401 in Senegal); 3 and, approximately half of the population does not have access to safe drinking water.
 
-> 2 World health statistics , WHO 2010.
+2 World health statistics, WHO 2010.
 
-> 3 World health statistics , WHO 2010.
+3 World health statistics, WHO 2010.
 
 19
 
@@ -547,7 +643,7 @@ The corollary is a fertility rate that remains high for all women of childbearin
 
 However, considerable resources have been disbursed in recent years, particularly during the implementation of the PNDS. These resources have been used to improve the health status of the population to some extent.
 
-Mother and child health has been the subject of special attention by the government and its main development partners. The reproductive health support programs are beginning to have an effect. Indeed, 93 percent of women between the ages of 15 and 49 years old had a live birth during the two years preceding the survey and received prenatal care at least once from qualified personnel-70 percent received prenatal care at least four times from qualified personnel. With respect to deliveries, 44 percent of pregnant women were assisted by qualified personnel (doctor, nurse, or midwife) and 42 percent of deliveries took place in health care establishments.
+Mother and child health has been the subject of special attention by the government and its main development partners. The reproductive health support programs are beginning to have an effect. Indeed, 93 percent of women between the ages of 15 and 49 years old had a live birth during the two years preceding the survey and received prenatal care at least once from qualified personnel—70 percent received prenatal care at least four times from qualified personnel. With respect to deliveries, 44 percent of pregnant women were assisted by qualified personnel (doctor, nurse, or midwife) and 42 percent of deliveries took place in health care establishments.
 
 Annual immunization campaigns are conducted regularly. The rates of vaccination coverage of children range from 49 to 93 percent depending on the type of vaccine. According to data from the MICS-4/IDS-2010, 93 percent of children received the BCG vaccine, 76 percent the three DTP doses, 73 percent the three doses of the poliomyelitis vaccine, 61 percent of children were vaccinated against measles, while 49 percent received the yellow fever vaccine.
 
@@ -595,57 +691,43 @@ In 2010 and according to the MICS-4/IDSR-2010, more than half (two-thirds) of th
 
 The sanitation indicators in 2010 show up the disparities in terms of availability and use of improved infrastructures between urban and rural areas: at least 5 percent of households that live in rural areas use improved sanitation facilities, while 35 percent of households in urban areas use such facilities.
 
+Percentage of household members
+using improved drinking water
+sources in 2010
+Guinea-Bissau
+
 84
-
 53
-
 66
-
 urbano
-
 Rural
-
 Total
 
 Percentage of household members
-
-using improved drinking water
-
-sources in 2010
-
+using improved sanitation
+facilities in 2010
 Guinea-Bissau
 
 35
-
 5
-
 18
-
 Urbano
-
 Rural
-
 Total
-
-Percentage of household members
-
-using improved sanitation
-
-facilities in 2010
-
-Guinea-Bissau
 
 Therefore, in addition to improving the availability of basic infrastructure, there is still the issue of working women and children, their hours of work and the distances they must travel, particularly in the rural areas. These activities have a direct impact on the school enrolment rate of girls, the literacy of women, their health status, and their productive capacity.
 
 ### 1.3.3 HIV/AIDS: modest gains to be consolidated and expanded
 
-The prevalence of HIV/AIDS was estimated at 3.6 percent in 2010 based on sentinel operations, with a higher rate for pregnant women (5 percent). HIV/AIDS infection is characterized by two types of viruses-HIV-1 and HIV-2-whose circulation is inversely proportional. It has been observed that the type 1 virus is increasing while the type 2 virus is trending downwards. PMTCT(PVT) activities have come to a standstill and the efforts made in 2009 have not had time to bear fruit: 16 percent of pregnant women were tested for HIV during prenatal visits in 2008 and this proportion remained unchanged in the first half of 2009 even though the number of PMTCT/PVT centers increased from 18 in 2008 to 55 in 2009.
+The prevalence of HIV/AIDS was estimated at 3.6 percent in 2010 based on sentinel operations, with a higher rate for pregnant women (5 percent). HIV/AIDS infection is characterized by two types of viruses—HIV-1 and HIV-2—whose circulation is inversely proportional. It has been observed that the type 1 virus is increasing while the type 2 virus is trending downwards. PMTCT(PVT) activities have come to a standstill and the efforts made
 
 22
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+in 2009 have not had time to bear fruit: 16 percent of pregnant women were tested for HIV during prenatal visits in 2008 and this proportion remained unchanged in the first half of 2009 even though the number of PMTCT/PVT centers increased from 18 in 2008 to 55 in 2009.
 
 As in the majority of African countries, the epidemic is becoming feminized, which affects young girls in the 15-18 age group. This feminization has had dramatic repercussions on children, namely those that will be born to HIV/AIDS-positive mothers, those that cannot attend school because their mothers are unable to pay for their education, and those that are orphaned or abandoned to the care of a grandparent.
 
@@ -655,9 +737,9 @@ In terms of sexual behavior, the MICS-4/IDSR-2010 shows that 80 percent of young
 
 ### 1.3.4 Human rights: difficult to implement and to exercise
 
-The critical situation of human rights in Guinea-Bissau is the reflection of the political, social, economic, and cultural path the country has followed since independence, making GuineaBissau one of the countries that need to make progress in this area. Guinea-Bissau has not yet ratified several of the international instruments and conventions that promote and protect human rights, including the International Convention on the Elimination of All Forms of Racial Discrimination, Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, and the Convention on the Rights of Persons with Disabilities, which applies to 13.5 percent of the Guinean population (RGPH/2009).
+The critical situation of human rights in Guinea-Bissau is the reflection of the political, social, economic, and cultural path the country has followed since independence, making Guinea-Bissau one of the countries that need to make progress in this area. Guinea-Bissau has not yet ratified several of the international instruments and conventions that promote and protect human rights, including the International Convention on the Elimination of All Forms of Racial Discrimination, Convention against Torture and Other Cruel, Inhuman, or Degrading Treatment or Punishment, and the Convention on the Rights of Persons with Disabilities, which applies to 13.5 percent of the Guinean population (RGPH/2009).
 
-Despite the government's efforts in the area of human rights, the weakness of the judicial and security systems encourages some dangerous sociocultural practices, in particular genderbased violence and female genital mutilation. The most recent survey in 2010 (MICS4/IDSR) indicates that 44.5 percent of women in the 15-49 age group were subject to the practice of excision. Early and forced marriages were also one of the most frequent forms of denial of the rights of women, with a national average of 27 percent of girls under 18 years of age.
+Despite the government's efforts in the area of human rights, the weakness of the judicial and security systems encourages some dangerous sociocultural practices, in particular gender-based violence and female genital mutilation. The most recent survey in 2010 (MICS-4/IDSR) indicates that 44.5 percent of women in the 15-49 age group were subject to the practice of excision. Early and forced marriages were also one of the most frequent forms of denial of the rights of women, with a national average of 27 percent of girls under 18 years of age.
 
 Dysfunctional judicial institutions also seriously affect access to justice and undermine its credibility, giving rise to vigilantism and the risk of social conflict. This situation is compounded by the fact that the prison system is not designed with the reintegration of inmates in mind, as recommended by international standards, and, generally speaking, there is no effective criminal policy to end official lawlessness and guarantee the public's safety.
 
@@ -673,7 +755,7 @@ The political instability that resulted in incessant changes in government and o
 
 Similarly, the People's National Assembly (ANP) has not been able to exercise genuine parliamentary control over the government to consolidate the rule of law and political accountability regarding issues of human rights violations, including the ratification of international treaties, the adoption of mechanisms against official lawlessness (impunity), and proposed legislation against acts that violate human dignity.
 
-The exercise of women's rights is in jeopardy owing to persistent legal loopholes-the laws on early and forced marriage, domestic violence, the inaccessibility of the judicial system, the lack of structures to accommodate and protect at-risk women, stereotypical attitudes and behaviors, and violence. According to the survey conducted in 2010 by the Mother and Child Institute (IMC) and the Interior Ministry, cases of gender-based violence (GBV) totaled 22,598 nationwide, of which 40 percent involved physical violence and 60 percent involved sexual violence.
+The exercise of women's rights is in jeopardy owing to persistent legal loopholes—the laws on early and forced marriage, domestic violence, the inaccessibility of the judicial system, the lack of structures to accommodate and protect at-risk women, stereotypical attitudes and behaviors, and violence. According to the survey conducted in 2010 by the Mother and Child Institute (IMC) and the Interior Ministry, cases of gender-based violence (GBV) totaled 22,598 nationwide, of which 40 percent involved physical violence and 60 percent involved sexual violence.
 
 In spite of this critical situation and numerous challenges, the country made significant progress in ratifying certain international conventions. A large number of international and continental texts on the rights of women and the preservation of their physical and mental integrity were ratified: CEDAW on the elimination of discrimination against women (1979), Resolutions 1325 (2000) and 1820 on the participation of women and their protection in conflict and post-conflict situations, and the Additional Protocol to the African Charter on Human and People's Rights on the Rights of Women in Africa (Maputo, 2003). However, the women are still waiting for these documents to become national standards that can be effectively applied at the local level for the benefit of women.
 
@@ -703,13 +785,15 @@ The disparities and lack of opportunities for women can be seen in all areas and
 
 Disparities in opportunity and discrimination are the result of the uneven social status of women and men caused by the dominant social system. Any reduction in gender disparity must involve action to correct structural inequality.
 
-However, there is a willingness to seek the advancement of women in Guinea-Bissau. The government ratified most of the declarations, conventions, and international resolutions on the advancement and protection of women. Furthermore, the National Policy on Gender Equality and Equity (PNIEG) that is being finalized will be used as the framework for promoting, coordinating, and following up on all actions in this area.
+However, there is a willingness to seek the advancement of women in Guinea-Bissau. The government ratified most of the declarations, conventions, and international resolutions on the
 
 25
 
 [[END OF PAGE 26]]
 
 [[START OF PAGE 27]]
+
+advancement and protection of women. Furthermore, the National Policy on Gender Equality and Equity (PNIEG) that is being finalized will be used as the framework for promoting, coordinating, and following up on all actions in this area.
 
 ## 1.4. Economic development and infrastructure
 
@@ -801,9 +885,7 @@ Fruits
 
 Livestock
 
-Source: I
-
-N E and World Bank
+Source: INE and World Bank
 
 In the fisheries sector , Guinea-Bissau has good natural conditions for developing fishing resources. The fish production potential in the Exclusive Economic Zone (EEZ) is estimated at 250,000 metric tons per year. Guinea-Bissau does not have a long fishing tradition like Senegal and Guinea-Conakry. Even in the coastal areas, such as the Bijagós islands, the local population is general a farming population and fishing is merely a secondary activity. This explains the development of different types of fishing by foreigners (artisanal and industrial) resulting in serious coastal surveillance problems. The economic and financial impact of fishing is still limited. Guinea-Bissau issued fishing licenses to about 200 industrial fishing vessels for periods ranging from 3 to 12 months in 2004-2006. The total value of the licenses in 2010 was about US$4.2 million. In addition, the European Union paid the government annual compensation of about US$9.5 million for access to fisheries. As a result, in 2010, the sector generated no less than US$14 million in revenue for the government of Guinea-Bissau, paid mainly by foreign fleets for fishing rights. Over the years this amount has declined (under previous agreements, the EU had paid US$15 million per year). However, the sector contributes 25-40 percent of the government's annual revenue. Processing activities are virtually nonexistent. To increase the fishery sector's contribution to poverty reduction and economic diversification, action is needed in the following areas in particular:
 
@@ -917,6 +999,21 @@ X axis = Very poor         Poor            Average        Wealthy        Wealthi
 
 [[START OF PAGE 33]]
 
+Taux d'alphabétisation chez les jeunes femmes âgées de
+15-24 ans, selon les quintiles de bien-être économique, la
+Guinée-Bissau, 2010
+
+Porcento
+100
+80
+60
+40
+20
+0
+
+Muito Pobre | Pobre | Médio | Rico | Mais Rico | Total
+12 | 19 | 28 | 56 | 73 | 40
+
 ### 1.5.2 Profile of nonmonetary poverty: precarious living conditions of the population
 
 After the results of the General Population and Housing Census (RGPH) of Guinea-Bissau in 2009, a study on the profile of nonmonetary poverty was conducted in 2010. This study analyzed the relationship between poverty and its sociodemographic characteristics. According to the results of the 2009 RGPH, nonmonetary poverty affected 40 percent of the population of Guinea-Bissau. Broken down by residential area, nonmonetary poverty affects 60.3 percent of the rural population and 8.4 percent of the urban population. 7 The depth of poverty 8 is 5.7 percent nationally, 8.8 percent in rural areas, and 0.9 percent in urban areas. This low level of this indicator reflects the relative proximity of a large number of poor people to the poverty line.  The result indicates that even limited improvement in housing conditions, sanitation, access to safe drinking water, and the possession of durable goods can cause a significant shift in the incidence of poverty.
@@ -931,59 +1028,28 @@ Nonmonetary poverty is predominantly rural in terms of depth, incidence, and sev
 
 [[START OF PAGE 34]]
 
-8.4%
-
-60.3%
-
-39.9%
-
-0.9%
-
-8.8%
-
-5.7%
-
-0.1%
-
-1.7%
-
-1.1%
-
-0.0%
-
-10.0%
-
-20.0%
-
-30.0%
-
-40.0%
-
-50.0%
-
-60.0%
-
-70.0%
-
-Urban
-
-Rural
-
-Guinea-Bissau
+Graphic 1: Incidence, depth, and severity (%) of nonmonetary poverty in
+2009 in Guinea-Bissau
 
 Poverty Indices (%)
 
-Graphic 1: Incidence, depth, and severity (%) of nonmonetary poverty in
+ | Urban | Rural | Guinea-Bissau
+Incidence | 8.4% | 60.3% | 39.9%
+Depth | 0.9% | 8.8% | 5.7%
+Severity | 0.1% | 1.7% | 1.1%
 
-2009 in Guinea-Bissau
+0.0%
+10.0%
+20.0%
+30.0%
+40.0%
+50.0%
+60.0%
+70.0%
 
-Incidence
+Source: Analysis of nonmonetary poverty, MEPIR/UNDP- Feb-2011
 
-Depth
-
-Severity
-
-Source: Analysis of nonmonetary poverty, MEPIR/U N DP- Feb-2011
+Table 3: Incidence, Depth, and Severity of Poverty (percent) in Guinea-Bissau
 
 Incidence | Depth | Severity
 --- | --- | --- | ---
@@ -991,9 +1057,9 @@ Urban | 8.4 | 0.9 | 0.1
 Rural | 60.3 | 8.8 | 1.7
 Guinea-Bissau | 39.9 | 5.7 | 1.1
 
-Table 3: Incidence, Depth, and Severity of Poverty (percent) in Guinea-Bissau
-
 Source: Analysis of nonmonetary poverty, Ministry of Economy, Planning, and Regional Integration/UNDP, February 2011
+
+Table 4: Incidence, Depth, and Severity of Poverty (percent) in the Regions of Guinea-Bissau
 
 Incidence | Depth | Severity
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1002,8 +1068,6 @@ Tombali | 41.3 | 73.4 | 68.9 | 3.9 | 11.3 | 10.2 | 0.5 | 2.2 | 2.0
 Quinara | 12.8 | 61.5 | 51.6 | 1.2 | 9.6 | 7.9 | 0.2 | 1.9 | 1.6
 Oio | 24.8 | 76.0 | 68.2 | 2.3 | 11.8 | 10.3 | 0.3 | 2.3 | 2.0
 Biombo | 43.9 | 62.0 | 59.9 | 6.1 | 9.9 | 9.5 | 1.2 | 2.0 | 1.9
-
-Table 4: Incidence, Depth, and Severity of Poverty (percent) in the Regions of Guinea-Bissau
 
 33
 
@@ -1016,66 +1080,33 @@ B. Bijagós | 18.9 | 84.0 | 65.9 | 1.7 | 17.3 | 12.9 | 0.2 | 4.0 | 3.0
 Bafatá | 13.6 | 42.8 | 37.2 | 1.4 | 5.1 | 4.4 | 0.2 | 0.9 | 0.7
 Gabú | 12.6 | 47.8 | 39.0 | 1.2 | 6.1 | 4.9 | 0.2 | 1.1 | 0.8
 Cacheu | 13.2 | 61.1 | 50.7 | 1.2 | 8.7 | 7.1 | 0.2 | 1.7 | 1.4
-SAB | 2.6 | 2.6 | 0.3 | . | 0.3 | 0.0 | . | 0.0
+SAB | 2.6 | . | 2.6 | 0.3 | . | 0.3 | 0.0 | . | 0.0
 Guinea- Bissau | 8.4 | 60.3 | 39.9 | 0.9 | 8.8 | 5.7 | 0.1 | 1.7 | 1.1
 
 Source: Analysis of nonmonetary poverty, Ministry of Economy, Planning, and Regional Integration/UNDP, February 2011
 
 The country can be divided into three groups of regions, namely: (1) the Tombali, Oio, and Bolama-Bijagós regions, which are most affected by poverty with an incidence of more than 60 percent; (2) the Biombo, Quinara, and Cacheu regions, with an incidence of nonmonetary poverty ranging from 50-60 percent; and lastly (3) the Gabú, Bafatá, and SAB regions, where the incidence was below the national average of 39.9 percent.
 
-2.6%
+Graphic: Incidence of poverty (%) in the regions
 
-37.2%
-
-39.0%
-
-39.9%
-
-50.7%
-
-51.6%
-
-59.9%
-
-65.9%
-
-68.2%
-
-68.9%
+Tombali | 68.9%
+Oio | 68.2%
+B. Bijagos | 65.9%
+Biombo | 59.9%
+Quinara | 51.6%
+Cacheu | 50.7%
+Guinée Bissau | 39.9%
+Gabú | 39.0%
+Bafatá | 37.2%
+SAB | 2.6%
 
 0.0%
-
 20.0%
-
 40.0%
-
 60.0%
-
 80.0%
 
-SAB
-
-Bafatá
-
-Gabú
-
-Guinée Bissau
-
-Cacheu
-
-Quinara
-
-Biombo
-
-B. Bijagos
-
-Oio
-
-Tombali
-
 FGT0
-
-Graphic: Incidence of poverty (%) in the regions
 
 34
 
@@ -1119,13 +1150,13 @@ Guinea-Bissau is committed to improving the level of its basic social services. 
 
 Overall, the MDGs for poverty, infant health, maternal mortality, and access to safe drinking water will not be achieved by 2015. As regards the other MDGs, Guinea-Bissau is committed to coming close to the set target.
 
+Table 5: Trend towards achieving the MDGs in Guinea-Bissau
+
 Objectives | Indicators | 1990 | 2000 | 2010 | 2015
 --- | --- | --- | --- | --- | ---
-1. Reduce poverty and extreme poverty Half the proportion of people whose income is less than US$1 or less than US$2 a day. |  Absolute poverty ratio ( percent)  Extreme poverty ratio ( percent) | 49 26 | 64.7 (1) 20.8 (1) | 69. 3 33.0 | 24.5 13
+1. Reduce poverty and extreme poverty Half the proportion of people whose income is less than US$1 or less than US$2 a day. |  Absolute poverty ratio ( percent)  Extreme poverty ratio ( percent) | 49 26 | 64.7 (1) 20.8 (1) | 69.3 33.0 | 24.5 13
 2. Achieve universal primary education Ensure that children everywhere, will be able to complete a full course of primary schooling |  Net enrolment rate | 23 | 45.3 | 67.4 | 100
 3. Promote gender equality and empower women Eliminate gender disparity in primary education |  Ratio of girls to boys in primary education | 0.56 | 0.67 | 0.93 | 100
-
-Table 5: Trend towards achieving the MDGs in Guinea-Bissau
 
 36
 
@@ -1137,13 +1168,13 @@ Table 5: Trend towards achieving the MDGs in Guinea-Bissau
 --- | --- | --- | --- | --- | ---
 5. Improve maternal health Reduce by three-quarters the maternal mortality ratio |  Maternal mortality rate (per 100,000 women) | 914 | 822 | 800 | 229
 6. Combat HIV/AIDS, malaria, and other diseases Halt and begin to reverse the spread of HIV/AIDS |  AIDS prevalence rate | 5.9 | 7.8 | 3.4 | 2.0
-7. Ensure environmental sustainability Halve the proportion of the population without sustainable access to safe drinking water. |  Percentage of the population with sustainable access to safe drinking water | 29 (1) | 40 | 65
+7. Ensure environmental sustainability Halve the proportion of the population without sustainable access to safe drinking water. |  Percentage of the population with sustainable access to safe drinking water |  | 29 (1) | 40 | 65
 
-Sources: 2004 Report on the MDGs, 2009 population census, and 2010 ILAP, 2010 MDGWSSD plan.
+Sources: 2004 Report on the MDGs, 2009 population census, and 2010 ILAP, 2010 MDG-WSSD plan.
 
-- Data for 2002
+(1) Data for 2002
 
-- Data for 1990
+(2) Data for 1990
 
 The  analyses  and  diagnostic  assessment  for  certain  sectors  with  respect  to  accelerating progress towards the MDGs showed that there were problems complying with certain targets. The areas of concern included literacy, education, health, and water and sanitation.
 
@@ -1223,7 +1254,7 @@ The following actions are needed to implement these programs:
 
 -consolidation of the services offered by antiretroviral treatment centers.
 
-# II. GUIDELI N ES A N D STRATEGIC CORE AREAS OF THE SECO N D PRSP
+# II. GUIDELINES AND STRATEGIC CORE AREAS OF THE SECOND PRSP
 
 ## 2.1 Main lessons from the first PRSP
 
@@ -1429,7 +1460,7 @@ Chaired by the Prime Minister, the Steering Committee is the highest level body 
 
 On the other hand, the second PRSP preparation process was based on the analysis, consideration and summary (and sometimes harmonization) of various official documents, surveys, and studies, including:
 
-- Sectoral Plans (Health, Education, Planning, MDGs/WSDD 2010, etc.) adopted or in the process of being adopted by the government, with key aspects being reflected in the second PRSP;
+a. Sectoral Plans (Health, Education, Planning, MDGs/WSDD 2010, etc.) adopted or in the process of being adopted by the government, with key aspects being reflected in the second PRSP;
 
 45
 
@@ -1437,9 +1468,9 @@ On the other hand, the second PRSP preparation process was based on the analysis
 
 [[START OF PAGE 47]]
 
-- Three major statistical operations recently conducted: (i) General Population and Housing Census - RGPH (2009); (ii) Multiple Indicator Cluster Survey, including the demographic aspects of reproductive health MICS4/IDS (2010); and (iii) the second Rapid Poverty Assessment Survey - ILAP II (2010); (iv) an analysis of national institutional capacities in the area of gender - IMC (2008); and (v) an investigation of the fairness and equality in gender - INEP (2010).
+b. Three major statistical operations recently conducted: (i) General Population and Housing Census - RGPH (2009); (ii) Multiple Indicator Cluster Survey, including the demographic aspects of reproductive health MICS4/IDS (2010); and (iii) the second Rapid Poverty Assessment Survey - ILAP II (2010); (iv) an analysis of national institutional capacities in the area of gender - IMC (2008); and (v) an investigation of the fairness and equality in gender - INEP (2010).
 
-- Studies conducted particularly due to the need to prepare the second PRSP: (i) a study on the origins of economic growth; (ii) a study on non-monetary poverty; and (iii) an assessment of needs and costs involved in achieving the MDGs. Added to these were other relevant studies already officially validated, such as the Diagnostic Trade Integration Study - DTIS (2009) and the National Agriculture Investment Plan - NAIP (2010).
+c. Studies conducted particularly due to the need to prepare the second PRSP: (i) a study on the origins of economic growth; (ii) a study on non-monetary poverty; and (iii) an assessment of needs and costs involved in achieving the MDGs. Added to these were other relevant studies already officially validated, such as the Diagnostic Trade Integration Study - DTIS (2009) and the National Agriculture Investment Plan - NAIP (2010).
 
 Another important element of the process was the coordination of the second PRSP with the subregional policy orientation tables and other framework documents agreed on with development partners.
 
@@ -1489,37 +1520,37 @@ The main objective of the second PRSP is to achieve significant reductions in po
 
 The main objectives include:
 
-- Reducing the incidence of poverty at the national level from 69.3 percent in 2010 to 59 percent by 2015 and extreme poverty from 33 percent to 20 percent over the same period, taking into account the disparities between men and women;
+i. Reducing the incidence of poverty at the national level from 69.3 percent in 2010 to 59 percent by 2015 and extreme poverty from 33 percent to 20 percent over the same period, taking into account the disparities between men and women;
 
-- Reducing the rate of food insecurity from 32 percent to 16 percent by 2015;
+ii. Reducing the rate of food insecurity from 32 percent to 16 percent by 2015;
 
-- Attaining an annual economic growth rate of 4.3 percent in 2011, 4.5 percent in 2012, and 5 percent on average between 2013 and 2015;
+iii. Attaining an annual economic growth rate of 4.3 percent in 2011, 4.5 percent in 2012, and 5 percent on average between 2013 and 2015;
 
-- Stabilizing the country's security by implementing a harmonized reform of Defense and Security Forces, reducing their workforce to (3,430), improving their intervention capacity, supporting the reassignment and reintegration of separated staff (2,300 on their way to retirement) and about 1000 [ineligible] individuals, and demobilizing and reintegrated personnel into civilian life;
+iv. Stabilizing the country's security by implementing a harmonized reform of Defense and Security Forces, reducing their workforce to (3,430), improving their intervention capacity, supporting the reassignment and reintegration of separated staff (2,300 on their way to retirement) and about 1000 [ineligible] individuals, and demobilizing and reintegrated personnel into civilian life;
 
-- Reducing the wage bill vis-à-vis fiscal revenues from 63 percent in 2010 to 59 percent by 2015;
+v. Reducing the wage bill vis-à-vis fiscal revenues from 63 percent in 2010 to 59 percent by 2015;
 
-- Reducing public service costs by restructuring and modernizing public institutions, including those related to Defense and Security Forces;
+vi. Reducing public service costs by restructuring and modernizing public institutions, including those related to Defense and Security Forces;
 
-- Eliminating structural inequalities between men and women;
+vii. Eliminating structural inequalities between men and women;
 
-- Achieving universal primary education by 2015;
+viii. Achieving universal primary education by 2015;
 
-- Reducing the rate of infant and child mortality, respectively, from 113 and 158 per thousand live births in 2010 to 90 and 120 per thousand births by 2015;
+ix. Reducing the rate of infant and child mortality, respectively, from 113 and 158 per thousand live births in 2010 to 90 and 120 per thousand births by 2015;
 
-- Reducing the maternal mortality ratio from 800 to 600 per 100 thousand births between 2010 and 2015;
+x. Reducing the maternal mortality ratio from 800 to 600 per 100 thousand births between 2010 and 2015;
 
-- Reducing the prevalence of HIV/AIDS from 7.8 percent to 5.9 percent between 2010 and 2015;
+xi. Reducing the prevalence of HIV/AIDS from 7.8 percent to 5.9 percent between 2010 and 2015;
 
-- Expanding access to safe drinking water, attaining an access rate of 65 percent by 2015 compared to 40 percent in 2010;
+xii. Expanding access to safe drinking water, attaining an access rate of 65 percent by 2015 compared to 40 percent in 2010;
 
-- Providing the country with operational legal and judicial institutions, accessible to the public at central and regional level;
+xiii. Providing the country with operational legal and judicial institutions, accessible to the public at central and regional level;
 
-- Transforming international and continental commitments ratified by Guinea-Bissau into national law with a view to their enforcement;
+xiv. Transforming international and continental commitments ratified by Guinea-Bissau into national law with a view to their enforcement;
 
-- Ensuring 60-percent country-wide electricity coverage and 80-percent coverage in urban areas;
+xv. Ensuring 60-percent country-wide electricity coverage and 80-percent coverage in urban areas;
 
-- Providing the country with programs and projects to enhance ecosystem services in local communities and strengthen their ability to adapt to the effects of climate change;
+xvi. Providing the country with programs and projects to enhance ecosystem services in local communities and strengthen their ability to adapt to the effects of climate change;
 
 47
 
@@ -1527,42 +1558,48 @@ The main objectives include:
 
 [[START OF PAGE 49]]
 
-- Providing the country with an effective Territorial Management Plan in line with WAEMU's requirements and an operational national geographical information system;
+xvii. Providing the country with an effective Territorial Management Plan in line with WAEMU's requirements and an operational national geographical information system;
 
-- Increasing investment in sustainable land management by adopting a Strategic Investment Plan for the sector, aimed at addressing the increasing degradation of land, including flora, fauna and water resources;
+xviii. Increasing investment in sustainable land management by adopting a Strategic Investment Plan for the sector, aimed at addressing the increasing degradation of land, including flora, fauna and water resources;
 
-- Diversifying exports with a view to reducing vulnerability and improving food security;
+xix. Diversifying exports with a view to reducing vulnerability and improving food security;
 
-- Increase the coverage of protected areas under improved management.
+xx. Increase the coverage of protected areas under improved management.
 
 The main objectives of the strategy, as baselines for the second PRSP, reflect the 'Djitu ten' vision, the MDGs, the specific commitments at international and continental level, and strategy to improve governance.
 
+Table 6: Baselines for the Second PRSP Objectives
+
 Area | Indicators | Status in 2010 | Status in 2015
 --- | --- | --- | ---
-Monetary poverty and food security |  Incidence of monetary poverty (%) Of which: rural areas | 69.3 79.5 | 59.0 68.0
- Malnutrition rate | 32% | 16%
- Real GDP growth rate (%, 2011-2015 average) | 3.5 | 5
-Growth |  GDP per capita growth rate (%) | 1 | 2.7
- Rate of public investment (% of GDP) | … | …
-Macroeconomic Stabilization |  Fiscal burden (%, 2011-2015 average) | 6.7 | 10
- Inflation rate (%, 2011-2015 average) | 2.3 | 3
- Fiscal balance, including grants (% of GDP) | -2.9 | 0
- Wage bill/fiscal revenues | 63.2 | 40
- Current account deficit (% of GDP) | … | …
+Monetary poverty and food security |  Incidence of monetary poverty (%) | 69.3 | 59.0
+ | Of which: rural areas | 79.5 | 68.0
+ |  Malnutrition rate | 32% | 16%
+Growth |  Real GDP growth rate (%, 2011–2015 average) | 3.5 | 5
+ |  GDP per capita growth rate (%) | 1 | 2.7
+ |  Rate of public investment (% of GDP) | … | …
+Macroeconomic Stabilization |  Fiscal burden (%, 2011–2015 average) | 6.7 | 10
+ |  Inflation rate (%, 2011–2015 average) | 2.3 | 3
+ |  Fiscal balance, including grants (% of GDP) | -2.9 | 0
+ |  Wage bill/fiscal revenues | 63.2 | 40
+ |  Current account deficit (% of GDP) | … | …
 Education |  Net primary-education enrollment rate (%) | 67.4 | 100
- Primary-education retention rate (%) | … | …
- Net secondary-education enrollment rate (%) | 23.5 | 40
- Adult illiteracy rate (> 15 year-olds) (%)  Women  Men | 56 64.1 47.9 | 35 43 27
+ |  Primary-education retention rate (%) | … | …
+ |  Net secondary-education enrollment rate (%) | 23.5 | 40
+ |  Adult illiteracy rate (> 15 year-olds) (%) | 56 | 35
+ |  Women | 64.1 | 43
+ |  Men | 47.9 | 27
 Gender |  Ratio of girls to boys in primary education | 0.93 | 0.98
- Ratio of girls to boys in secondary education  Ratio of girls to boys in vocational training  Proportion of seats held by women in national parliament  Proportion of girls victims of gender-based violence (all types), who filed a complaint with a competent authority | 0.73 … 10 | 0.95 … 30
-28.6 | 50
+ |  Ratio of girls to boys in secondary education | 0.73 | 0.95
+ |  Ratio of girls to boys in vocational training | … | …
+ |  Proportion of seats held by women in national parliament | 10 | 30
+ |  Proportion of girls victims of gender-based violence (all types), who filed a complaint with a competent authority | 28.6 | 50
 Health |  Infant mortality rate (%) | 103 | 80
- Infant and child mortality rate (%) | 158 | 110
- Maternal mortality rate (%) | 800 | 600
- Malnutrition rate (%)  Female genital mutilation rate (0-14 years of age) | … 38.7 | … 28
+ |  Infant and child mortality rate (%) | 158 | 110
+ |  Maternal mortality rate (%) | 800 | 600
+ |  Malnutrition rate (%) | … | …
+ |  Female genital mutilation rate (0–14 years of age) | 38.7 | 28
 Drinking water and sanitation |  Access to drinking water at the national level (%) | 40 | 65
-
-Table 6: Baselines for the Second PRSP Objectives
 
 48
 
@@ -1575,10 +1612,10 @@ Area | Indicators | Status in 2010 | Status in 2015
  Access to drinking water in urban areas (%) | 53 | 75
  Access to drinking water in rural areas (%) | 40 | 55
  Percentage of households with toilet facilities in urban areas  Households with a female head of household  Households with a male head of the household | 35 … … | 50 … …
- Percentage of households with toilet facilities in rural areas  Households with a female head of household  Households with a male head of the household | 5 … | 25 …
-HIV/AIDS |  HIV prevalence rate, 15-44 years of age (%)  Women  Men  Proportion of orphans and vulnerable children identified and under a program | … 2.6 … … … | … 1.0 … … 60
- Ratio of patients receiving ARV treatment (%)  Women  Men | … … | … …
-Environment |  Ration of protected areas (%) | … | …
+ Percentage of households with toilet facilities in rural areas  Households with a female head of household  Households with a male head of the household | 5 … … | 25 … …
+HIV/AIDS |  HIV prevalence rate, 15–44 years of age (%)  Women  Men  Proportion of orphans and vulnerable children identified and under a program | 2.6 … … … | 1.0 … … 60
+ Ratio of patients receiving ARV treatment (%)  Women  Men | … … … | … … …
+Environment |  Ratio of protected areas (%) | … | …
 
 ### 2.3.3. Strategic guidelines
 
@@ -1666,7 +1703,7 @@ Peace, development and the law are the cornerstones of the second PRSP. The goal
 
 The first PRSP placed much emphasis on the issue of governance and security to the detriment of development priorities. The ILAP/2010 found that poverty had worsened, affecting two thirds of the population, particularly the female population. To significantly reduce this widespread poverty, actions called for in the second PRSP are set in a development perspective, in which support to productive sectors and infrastructure will be provided in the context of sustainability and peace, security and legal rights are preconditions.
 
-As poverty is a multifaceted phenomenon, the fight against poverty calls for a forwardlooking approach. In other words, the government must have adequate knowledge of the future and the aspirations of the country and develop the ability to plan ahead by adopting best practices in terms of governance and security. Guinea-Bissau's 2025 Forward-Looking View and its programming tools under development (sectoral plans and MTEF) provide a coherent framework of decline of the priorities in the short, medium and long term of povertyreducing policies and programs. This means that the guidelines of the second PRSP should reflect an ambitious vision of high impact growth to create jobs and a community of small and medium enterprises.
+As poverty is a multifaceted phenomenon, the fight against poverty calls for a forward-looking approach. In other words, the government must have adequate knowledge of the future and the aspirations of the country and develop the ability to plan ahead by adopting best practices in terms of governance and security. Guinea-Bissau's 2025 Forward-Looking View and its programming tools under development (sectoral plans and MTEF) provide a coherent framework of decline of the priorities in the short, medium and long term of poverty-reducing policies and programs. This means that the guidelines of the second PRSP should reflect an ambitious vision of high impact growth to create jobs and a community of small and medium enterprises.
 
 #### 2. Respect for and promotion of human rights
 
@@ -1764,17 +1801,17 @@ In this context, the government has initiated, with the support of partners, an 
 
 The program is structured around seven lines of action:
 
-- Implementation of a regulatory framework for the Defense and Security Forces;
+1. Implementation of a regulatory framework for the Defense and Security Forces;
 
-- Implementation of the new legal framework to make operational the laws adopted by the People's National Assembly: (i) Law on Compulsory Military Service; (ii) Basic Organic Law of the Organization of the Armed Forces; (iii) Law on National Defense and the Armed Forces; (iv) Law on the Right to National Defense and Armed Forces; and (iv) Statutory Regime of the Armed Forces.
+2. Implementation of the new legal framework to make operational the laws adopted by the People's National Assembly: (i) Law on Compulsory Military Service; (ii) Basic Organic Law of the Organization of the Armed Forces; (iii) Law on National Defense and the Armed Forces; (iv) Law on the Right to National Defense and Armed Forces; and (iv) Statutory Regime of the Armed Forces.
 
-- Demobilization and recruitment in order to downsize the armed forces based on its actual capabilities and national development challenges;
+3. Demobilization and recruitment in order to downsize the armed forces based on its actual capabilities and national development challenges;
 
-- Professionalization of the Defense and Security Forces, by increasing the levels of education and training offered to personnel (continued education, requirement for higher education for new recruits), particularly to ensure public order, the security of people and goods, and the fight against drug trafficking and organized crime across the country;
+4. Professionalization of the Defense and Security Forces, by increasing the levels of education and training offered to personnel (continued education, requirement for higher education for new recruits), particularly to ensure public order, the security of people and goods, and the fight against drug trafficking and organized crime across the country;
 
-- Improving the living conditions of soldiers in the barracks and modernizing infrastructure and equipment needed to perform new tasks and functions of the armed forces. For paramilitaries, the goal is rehabilitating and equipping police stations and security forces buildings;
+5. Improving the living conditions of soldiers in the barracks and modernizing infrastructure and equipment needed to perform new tasks and functions of the armed forces. For paramilitaries, the goal is rehabilitating and equipping police stations and security forces buildings;
 
-- Implementing options for following the military, demobilized agents (men and women) separated the Defense and Security Forces (access to the Pension Fund; establishment and operation of a pension fund for the Defense and Security Forces, rehabilitation and
+6. Implementing options for following the military, demobilized agents (men and women) separated the Defense and Security Forces (access to the Pension Fund; establishment and operation of a pension fund for the Defense and Security Forces, rehabilitation and
 
 56
 
@@ -1784,25 +1821,25 @@ The program is structured around seven lines of action:
 
 socioeconomic reintegration of demobilized personnel and of those who are yet to reach retirement age);
 
-- Improving living conditions and status of military women and of those integrated in the police force, so that they may in practice enjoy the same rights as men to protection against gender-based violence at work;
+7. Improving living conditions and status of military women and of those integrated in the police force, so that they may in practice enjoy the same rights as men to protection against gender-based violence at work;
 
 Implementation of this program has already started, with the completion of: a biometric census of the military in 2008, a census of homeland freedom fighters and of security forces in 2009, and an assessment of the needs for rehabilitation of 33 barracks in 11 military installations. In the coming years, implementation of said program will be pursued and expedited.
 
 With regards to respect for the dignity of homeland freedom fighters (HFF), the government envisages the following actions:
 
-- Improving the living conditions of the HFF by better matching services to the economic and social situation.
+1) Improving the living conditions of the HFF by better matching services to the economic and social situation.
 
-- Adopting a new pension scale to put an end to the precarious material condition of the HFF, honor their service to the country, and contribute to social justice. 10
+2) Adopting a new pension scale to put an end to the precarious material condition of the HFF, honor their service to the country, and contribute to social justice. 10
 
-- Implementing a comprehensive and realistic program of rehabilitation of HFF through the engagement and accountability of beneficiaries and the allocation of a sufficiently attractive and compensatory allowance to ensure successful economic and social reintegration. Additionally, taking into account the issue of capacity building of former fighters.
+3) Implementing a comprehensive and realistic program of rehabilitation of HFF through the engagement and accountability of beneficiaries and the allocation of a sufficiently attractive and compensatory allowance to ensure successful economic and social reintegration. Additionally, taking into account the issue of capacity building of former fighters.
 
 This new strategy will be part of the implementation of:
 
-- An operating plan for the reform of the defense and security sector, whose activities are closely coordinated with the strategic orientations and priority actions of the roadmap of Heads of the General Staffs of ECOWAS and CPLP nations, enacted by national and community authorities;
+1. An operating plan for the reform of the defense and security sector, whose activities are closely coordinated with the strategic orientations and priority actions of the roadmap of Heads of the General Staffs of ECOWAS and CPLP nations, enacted by national and community authorities;
 
-- A revised regulatory framework for the Defense and Security Forces;
+2. A revised regulatory framework for the Defense and Security Forces;
 
-- Choices, such as retirement/pension fund necessarily consistent with retirement under the public administration regime, or economic reintegration, which will be coordinated with the country's economic development objectives.
+3. Choices, such as retirement/pension fund necessarily consistent with retirement under the public administration regime, or economic reintegration, which will be coordinated with the country's economic development objectives.
 
 As for the participation in the consolidation of security and stability in the subregion, the focus will be on supporting peacekeeping efforts (creation of a peacekeeping battalion), including the promotion of exchanges between the security and defense forces under UN Security Council Resolution 1325.
 
@@ -1840,25 +1877,25 @@ To expand human rights opportunities and ensure the dignity of every citizen acc
 
 [[START OF PAGE 60]]
 
-- Revising the By-laws of the National Commission on Human Rights, adapting them to the Paris Principles, which serve as guidelines for the implementation and operation of the national human rights body as the office for monitoring, early warning, counseling, research, advocacy and promotion of human rights;
+(1) Revising the By-laws of the National Commission on Human Rights, adapting them to the Paris Principles, which serve as guidelines for the implementation and operation of the national human rights body as the office for monitoring, early warning, counseling, research, advocacy and promotion of human rights;
 
-- Introducing a national policy for the promotion and protection of human rights and citizenship as an essential instrument for the harmonization of public policies geared toward: (i) developing integrated strategies and sectoral plans to promote human rights; and (ii) promoting the fundamental rights of vulnerable groups, women, children and people with disabilities;
+(2) Introducing a national policy for the promotion and protection of human rights and citizenship as an essential instrument for the harmonization of public policies geared toward: (i) developing integrated strategies and sectoral plans to promote human rights; and (ii) promoting the fundamental rights of vulnerable groups, women, children and people with disabilities;
 
-- Implementing measures to fight official lawlessness and promote a culture of dialogue and tolerance through the introduction of human rights in the national educational system;
+(3) Implementing measures to fight official lawlessness and promote a culture of dialogue and tolerance through the introduction of human rights in the national educational system;
 
-- Reforming the welfare and social security system in order to direct greater attention to the most vulnerable, including by providing social support, assistance and protection, and monitoring populations and their efforts to reduce poverty and social exclusion;
+(4) Reforming the welfare and social security system in order to direct greater attention to the most vulnerable, including by providing social support, assistance and protection, and monitoring populations and their efforts to reduce poverty and social exclusion;
 
-- Ratifying international conventions related to human rights, including the Rome Statute, which governs the International Criminal Court, and a specific piece of legislation to protect human rights in accordance with Resolution No. 53/144 of December 9, 1998 of the UN General Assembly;
+(5) Ratifying international conventions related to human rights, including the Rome Statute, which governs the International Criminal Court, and a specific piece of legislation to protect human rights in accordance with Resolution No. 53/144 of December 9, 1998 of the UN General Assembly;
 
-- Reaffirming and aligning with international human rights instruments through their implementation or incorporation into national legislation, as well as intensifying efforts to submit overdue reports to specialized agencies;
+(6) Reaffirming and aligning with international human rights instruments through their implementation or incorporation into national legislation, as well as intensifying efforts to submit overdue reports to specialized agencies;
 
-- Designing a strategy to eliminate discriminatory practices and cultural stereotypes and to repeal all discriminatory laws against women, and introducing a law to penalize female genital mutilation and trafficking in persons, particularly women and children;
+(7) Designing a strategy to eliminate discriminatory practices and cultural stereotypes and to repeal all discriminatory laws against women, and introducing a law to penalize female genital mutilation and trafficking in persons, particularly women and children;
 
-- Intensifying efforts to reform the justice sector, with a particular focus on the humanization of the prison system, the separation of prisoners and the introduction of legislation requiring full implementation of the infrastructure and justice system for minors, in accordance with the provisions of the Convention on the Rights of the Child;
+(8) Intensifying efforts to reform the justice sector, with a particular focus on the humanization of the prison system, the separation of prisoners and the introduction of legislation requiring full implementation of the infrastructure and justice system for minors, in accordance with the provisions of the Convention on the Rights of the Child;
 
-- Revising national legislation to harmonize national legal standards with international standards on human rights, particularly the Constitution.
+(9) Revising national legislation to harmonize national legal standards with international standards on human rights, particularly the Constitution.
 
-#### Strengthening justice and the rule of law
+#### 4. Strengthening justice and the rule of law
 
 The justice sector faces enormous problems, such as the precarious living and working conditions of judges, the high costs of access to justice for the poor, and the lack of respect for professional ethics, which explain why recourse to courts to settle disputes is uncommon. Challenges against decisions of the Judiciary gives rise to a sense of impunity and disrespect for justice and generates distrust in the system's decisions.
 
@@ -1878,27 +1915,27 @@ For the next five years, the justice sector seeks to create adequate infrastruct
 
 The recommended strategies are:
 
-- Establishing an adequate infrastructure to perform institutional functions;
+1. Establishing an adequate infrastructure to perform institutional functions;
 
-- Conducting a coherent legislative reform and enacting legislation;
+2. Conducting a coherent legislative reform and enacting legislation;
 
-- Professional training of all participants in the judicial system;
+3. Professional training of all participants in the judicial system;
 
-- Promoting access to justice and citizenship.
+4. Promoting access to justice and citizenship.
 
 In this sense, the reform will focus on:
 
-- Revising the legal and institutional framework of the sector to further clarify the roles and responsibilities of different participants
+i) Revising the legal and institutional framework of the sector to further clarify the roles and responsibilities of different participants
 
-- ii) Rehabilitating and building adequate infrastructure and providing courts with the necessary human resources to turn them into a modern judicial system accessible to the population;
+ii) Rehabilitating and building adequate infrastructure and providing courts with the necessary human resources to turn them into a modern judicial system accessible to the population;
 
-- iii) Establishing an adequate prison system, by introducing an appropriate legislative and institutional framework, including infrastructure and personnel needed for its effective operation;
+iii) Establishing an adequate prison system, by introducing an appropriate legislative and institutional framework, including infrastructure and personnel needed for its effective operation;
 
-- iv) Revising the different codes (criminal, civil, etc.) in order to adapt them to ratified conventions, charters and resolutions;
+iv) Revising the different codes (criminal, civil, etc.) in order to adapt them to ratified conventions, charters and resolutions;
 
-- Developing skills of justice personnel to ensure proper administration of justice. To this end, participants in the judicial system will receive training on national, regional, and international legal instruments, including those related to human rights;
+v) Developing skills of justice personnel to ensure proper administration of justice. To this end, participants in the judicial system will receive training on national, regional, and international legal instruments, including those related to human rights;
 
-- vi) Adapting the judicial system to the national context, particularly by taking into account the traditional system of conflict resolution, the population's low level of education, and the difficulties vulnerable people face to have access to justice. In the same vein, there will be a need to adapt the judicial system to meet the current challenges, namely, the fight against corruption, drug trafficking and organized crime;
+vi) Adapting the judicial system to the national context, particularly by taking into account the traditional system of conflict resolution, the population's low level of education, and the difficulties vulnerable people face to have access to justice. In the same vein, there will be a need to adapt the judicial system to meet the current challenges, namely, the fight against corruption, drug trafficking and organized crime;
 
 60
 
@@ -1906,9 +1943,9 @@ In this sense, the reform will focus on:
 
 [[START OF PAGE 62]]
 
-- vii) Developing a training partnership with national and international institutions to train future judges, prosecutors, lawyers and other legal professionals.
+vii) Developing a training partnership with national and international institutions to train future judges, prosecutors, lawyers and other legal professionals.
 
-#### 5. Capacity building at the People's N ational Assembly
+#### 5. Capacity building at the People's National Assembly
 
 The People's National Assembly, as the highest sovereign body in the nation, is faced with a set of undermining problems, which prevent it from effectively exercising legislative power (legislating and controlling government actions). The problems identified include: (i) the meager qualifications of member of the National Assembly, including in specialized committees, and (ii) insufficient financial and material resources.
 
@@ -1986,7 +2023,7 @@ In this respect, the following actions are envisaged:
 
 -Promoting local residents' reserved right of access to natural resources.
 
-#### 9. N atural disaster risk prevention and management
+#### 9. Natural disaster risk prevention and management
 
 Guinea-Bissau is vulnerable to various types of disasters, namely: tropical storms, floods, locust attacks, droughts, coastal erosion, fires, etc. In this case, between 1987 and 2009, droughts affected 132,000 people, floods affected 1,750 and tropical cyclones caused 2,712 casualties. As for epidemics, they affected 105,380 people, causing 3,032 deaths, while man-made accidents led to 7,000 casualties (OFDA/CRED).
 
@@ -2032,11 +2069,7 @@ In this connection, it will be necessary to adopt a stance of prevention and act
 
 ### 2.4.2 Core area II: Ensure a stable, stimulating macroeconomic environment
 
-The evaluation of the implementation of the first PRSP found that: (i) the political and First-tier criteria: (i) basic budget balance to GDP ratio ≥ 0 percent; (ii) inflation below 3 percent; (iii) nonaccumulation of domestic and external arrears by the government in the current period; and (iv) internal and external debt to GDP ratio ≤ 70 percent.
-
-Second-tier criteria: (i) wage bill ≤ 35 percent of fiscal revenues; (ii) public investment financed by own resources ≥ 20 percent of fiscal revenues; (iii) current external deficit (excluding grants) to GDP ratio ≤ 5 percent; and (iv) tax burden reaches at least 17 percent of GDP.
-
-security climate was not conducive to reform implementation; (ii) economic performance has been limited (average annual growth of about 3 percent compared to a target of 5 percent) and largely dependent on the cashew sector, itself highly dependent on the international market situation; (iv) and the country is far from reaching the MDGs in 2015.
+The evaluation of the implementation of the first PRSP found that: (i) the political and security climate was not conducive to reform implementation; (ii) economic performance has been limited (average annual growth of about 3 percent compared to a target of 5 percent) and largely dependent on the cashew sector, itself highly dependent on the international market situation; (iv) and the country is far from reaching the MDGs in 2015.
 
 With a view to reducing poverty and accelerating the achievement of the MDGs in Guinea-Bissau, one of the main aspirations of the second PRSP will be the revival of growth and diversification of the economy, including a reduction of its heavy dependency on cashews.
 
@@ -2044,13 +2077,19 @@ To that end, the government intends to consolidate the gains made with the first
 
 #### 1. Stabilization of the macroeconomic framework and capacity building for strategic development management
 
-Significant progress has been made in this area over the past three years. In public financial management, for example, improved revenue mobilization and expenditure control allowed for a reduction of the budget deficit and accumulated arrears. However, major limitations remain, because tax revenues are below the target of 17 percent of GDP set in the context of the WAEMU convergence criteria. The National Budget is heavily dependent on foreign aid. Although the wage bill to own revenues ratio has declined, standing at 75.6 percent in 2009 vis-à-vis 90.3 percent in 2006, it still remains well above the standard ( ≤ 35 percent) set by the WAEMU. Moreover, this is compounded by the pressing needs related to financing strategic priorities to promote economic growth and reduce poverty in the country, including the reform of Defense and Security Forces.
+Significant progress has been made in this area over the past three years. In public financial management, for example, improved revenue mobilization and expenditure control allowed for a reduction of the budget deficit and accumulated arrears. However, major limitations remain, because tax revenues are below the target of 17 percent of GDP set in the context of the WAEMU convergence criteria. The National Budget is heavily dependent on foreign aid. Although the wage bill to own revenues ratio has declined, standing at 75.6 percent in 2009 vis-à-vis 90.3 percent in 2006, it still remains well above the standard (≤ 35 percent) set by the WAEMU. Moreover, this is compounded by the pressing needs related to financing
+
+First-tier criteria: (i) basic budget balance to GDP ratio ≥ 0 percent; (ii) inflation below 3 percent; (iii) nonaccumulation of domestic and external arrears by the government in the current period; and (iv) internal and external debt to GDP ratio ≤ 70 percent.
+
+Second-tier criteria: (i) wage bill ≤ 35 percent of fiscal revenues; (ii) public investment financed by own resources ≥ 20 percent of fiscal revenues; (iii) current external deficit (excluding grants) to GDP ratio ≤ 5 percent; and (iv) tax burden reaches at least 17 percent of GDP.
 
 66
 
 [[END OF PAGE 67]]
 
 [[START OF PAGE 68]]
+
+strategic priorities to promote economic growth and reduce poverty in the country, including the reform of Defense and Security Forces.
 
 In accordance with the commitments made under the WAEMU, the government intends to keep the budget deficit below 3 percent of GDP, the balance of payments current account deficit below 5 percent of GDP, and annual inflation below 3 percent.
 
@@ -2064,7 +2103,7 @@ Over the next year, in addition to the implementation of consistent internationa
 
 #### 2. Public financial management reforms
 
-The government launched a process of structural reforms in the area of public finance with a view to consolidating fiscal stability and improving the quality, transparency and efficiency of public spending. These reforms, undertaken with the support of partners, resulted in the implementation of a modern legal and accounting framework to manage the government's finances, the strengthening of the control system, and improvements in the operational management of the budget, including the rollout of the integrated Government Finance Management System (SIGFIP) in ministries to improve efficiency and transparency in budget execution. Concurrently, there was a reduction in the budget deficit, despite the difficult situation associated with the significant decline in the price of cashew in 2009 and the fact that international assistance is still limited.
+The government launched a process of structural reforms in the area of public finance with a view to consolidating fiscal stability and improving the quality, transparency and efficiency of public spending. These reforms, undertaken with the support of partners, resulted in the implementation of a modern legal and accounting framework to manage the government's
 
 > 11 The structure of the national economy has not changed fundamentally since independence, as the primary sector, largely dominated by traditional and family farming, still accounts for about 40% of GDP. With the exception of cashews, no other sector has proved buoyant enough to possibly accelerate growth and economic transformation.
 
@@ -2074,9 +2113,11 @@ The government launched a process of structural reforms in the area of public fi
 
 [[START OF PAGE 69]]
 
+finances, the strengthening of the control system, and improvements in the operational management of the budget, including the rollout of the integrated Government Finance Management System (SIGFIP) in ministries to improve efficiency and transparency in budget execution. Concurrently, there was a reduction in the budget deficit, despite the difficult situation associated with the significant decline in the price of cashew in 2009 and the fact that international assistance is still limited.
+
 To consolidate the gains noted above, the government introduced in the short run the following strategies: (i) merging the database produced from the biometric census of the Ministry of Civil Service with that of the Ministry of Finance; (ii) payment of public servants' salaries in person in some ministries; (iii) implementing the public accounting system in accordance with the provisions of the SIGFIP. Additionally, the government will further pursue the following:
 
- Strengthening revenue mobilization through: (i) strict enforcement of the tax and customs regime; (ii) broadening the tax base, including by integrating the real estate and property assessments (or expanding the tax base by assigning to the DGCI the role of registering property titles); (iii) streamlining and tracking of tax and customs exemptions; (iv) controlling revenue by centralizing collection at the DGCI; (v) developing mechanisms and procedures to expedite general sales tax (IGV)/valueadded tax and ACI refunds; and vi) including the tax issue in the agenda for the dialogue between the government and the private sector;
+ Strengthening revenue mobilization through: (i) strict enforcement of the tax and customs regime; (ii) broadening the tax base, including by integrating the real estate and property assessments (or expanding the tax base by assigning to the DGCI the role of registering property titles); (iii) streamlining and tracking of tax and customs exemptions; (iv) controlling revenue by centralizing collection at the DGCI; (v) developing mechanisms and procedures to expedite general sales tax (IGV)/value-added tax and ACI refunds; and vi) including the tax issue in the agenda for the dialogue between the government and the private sector;
 
  Improving the quality of public spending. To this effect, the measures below are already being implemented by the government: (i) unification of the balance file in the Ministry of Finance, including that for the public service stemming from the biometric census of public servants; (ii) payment of wages in person in certain ministries; and (iii) implementation of the public accounting system in accordance with the SIGFIP.
 
@@ -2100,13 +2141,15 @@ Under the second PRSP, the government will continue its efforts to promote inves
 
 In parallel to these different measures, sustained efforts will be made to the build the skills of human resources, both in terms of technical and vocational training and in the development of entrepreneurship. An improved business climate will also require good governance, through the development of training programs and information about the business climate, as well as through the intensification of the fight against corruption (information, awareness, reduction of the opportunities for corruption, legal action).
 
-In Guinea-Bissau, as in most developing countries, there is a strong current of emigration, which reached a new level in recent years. To improve its contribution to national development, the government created the Institute for Supporting Emigrants (IAE), in order to encourage and facilitate the entry of emigrants' remittances 12 and investments in the country. The measures to achieve these objectives involve establishing a legal framework to regulate the transfer of funds from migrants, streamlining access to land, facilitating building materials import, and simplifying the administrative procedures for registering businesses.
+In Guinea-Bissau, as in most developing countries, there is a strong current of emigration, which reached a new level in recent years. To improve its contribution to national development, the government created the Institute for Supporting Emigrants (IAE), in order to
 
 69
 
 [[END OF PAGE 70]]
 
 [[START OF PAGE 71]]
+
+encourage and facilitate the entry of emigrants' remittances 12 and investments in the country. The measures to achieve these objectives involve establishing a legal framework to regulate the transfer of funds from migrants, streamlining access to land, facilitating building materials import, and simplifying the administrative procedures for registering businesses.
 
 Guinea-Bissau ranks among the twenty countries with the highest corruption perception index (CPI)-154th place, with 2.1 points, according to the latest report by Transparency International, an NGO. Compared to 2009, there was a slight improvement (158th place, 1.9 points). However, as this situation remains a concern, the government has been assigning particular importance to this issue in the public service as it helps to deepen poverty and undermines the country's prospects for economic and social development. Indeed, corruption manifests itself mainly in the workings of public services, in the awarding of government contracts, or when the systems for monitoring the use of public finances can be bypassed.
 
@@ -2118,19 +2161,19 @@ On the other hand, the factors that are behind the fragile governance will be pa
 
 The envisaged measures will target both the effectiveness in public management and citizen participation. Therefore, the actions below should be carried out:
 
-- Strengthening of policymaking and strategic planning;
+i) Strengthening of policymaking and strategic planning;
 
-- ii) Reform of the legal and institutional framework of the planning system;
+ii) Reform of the legal and institutional framework of the planning system;
 
-- iii) Introduction of an ongoing mechanism of collaboration with development partners to improve management and coordination of international aid;
+iii) Introduction of an ongoing mechanism of collaboration with development partners to improve management and coordination of international aid;
 
-- iv) Reorganization and strengthening of the national statistical system;
+iv) Reorganization and strengthening of the national statistical system;
 
-- Reorganization and strengthening of the Court of Auditors and the Office for the Fight against Corruption;
+v) Reorganization and strengthening of the Court of Auditors and the Office for the Fight against Corruption;
 
-- vi) Training of members of the People's National Assembly in the field of public finance management
+vi) Training of members of the People's National Assembly in the field of public finance management
 
-- vii) Improvement of the economic and financial management mechanisms across all public administration institutions.
+vii) Improvement of the economic and financial management mechanisms across all public administration institutions.
 
 > 12 According to Balance of Payments data, remittances to the country stood at around CFAF 15 billion or 4% of GDP in 2008.
 
@@ -2166,9 +2209,9 @@ To address the economic problem of the poor and very poor, the government will d
 
 Five strategic areas will be developed:
 
-- Ensuring food security: The food security policy includes (i) an offensive aspect that consists of increasing as much as possible the production of strategic foods, such as rice, cassava, maize, and 'bacil' maize; and (ii) a defensive aspect, which is to acquire a certain resilience to shocks (climatic, economic), by means of rapid post-disaster response;
+1. Ensuring food security: The food security policy includes (i) an offensive aspect that consists of increasing as much as possible the production of strategic foods, such as rice, cassava, maize, and 'bacil' maize; and (ii) a defensive aspect, which is to acquire a certain resilience to shocks (climatic, economic), by means of rapid post-disaster response;
 
-- Improving farmers' incomes: Attaining this goal requires sound market information, a high degree of organization of the agricultural economy (involving collaboration
+2. Improving farmers' incomes: Attaining this goal requires sound market information, a high degree of organization of the agricultural economy (involving collaboration
 
 72
 
@@ -2178,19 +2221,19 @@ Five strategic areas will be developed:
 
 between stakeholders in the production chain) and an opening to exports. The agro-industry helps the country to obtain foreign currency when its products are exportable. This track is very demanding and requires a special effort to organize the different product segments. A quality set of policies should be designed and implemented, and effective control services should be in place.
 
-- Develop activities to promote local products: Such activities are sources of development of the productive fabric (both at local and regional levels), driven by small and medium enterprises, which will be supported under the private sector development framework. Priority products to be developed are: cashew nuts, rice, animal products, and fish as well as some tourism-oriented products;
+3. Develop activities to promote local products: Such activities are sources of development of the productive fabric (both at local and regional levels), driven by small and medium enterprises, which will be supported under the private sector development framework. Priority products to be developed are: cashew nuts, rice, animal products, and fish as well as some tourism-oriented products;
 
-- Promote some regional growth centers in order to enhance the value of regional resources aimed at the development of regional economies, including by:
+4. Promote some regional growth centers in order to enhance the value of regional resources aimed at the development of regional economies, including by:
 
--Managing agricultural activity areas and improving road and communication infrastructure in tourist areas;
+- Managing agricultural activity areas and improving road and communication infrastructure in tourist areas;
 
--Developing a new development partnership between the state and the private sector;
+- Developing a new development partnership between the state and the private sector;
 
--Expediting the implementation of electrification projects in certain regions with a view to attracting more investors to sectors such as agricultural product processing and tourism;
+- Expediting the implementation of electrification projects in certain regions with a view to attracting more investors to sectors such as agricultural product processing and tourism;
 
--Implementing specific programs for the development of local economies through local development funds and regional funds for economic development.
+- Implementing specific programs for the development of local economies through local development funds and regional funds for economic development.
 
-- Integrating climate change into policy, planning and investment decisions in growth-generating sectors to increase their resilience to climate change. Taking climate risks into account will allow for the development of agriculture, housing, tourism and coastal areas and the designing of road and communication infrastructure that is able to face climate-related disasters. The integration of climate change will also cover aspects related to reducing greenhouse gas emissions, thus allowing, among other things, greater attention to energy efficiency and renewable energy sources in all policy and investment decisions, as well as in strategies on the energy issue. Therefore, development strategies for the various growth sectors should become development strategies with low-carbon emissions and resilient to climate change in order to promote sustainable development.
+5. Integrating climate change into policy, planning and investment decisions in growth-generating sectors to increase their resilience to climate change. Taking climate risks into account will allow for the development of agriculture, housing, tourism and coastal areas and the designing of road and communication infrastructure that is able to face climate-related disasters. The integration of climate change will also cover aspects related to reducing greenhouse gas emissions, thus allowing, among other things, greater attention to energy efficiency and renewable energy sources in all policy and investment decisions, as well as in strategies on the energy issue. Therefore, development strategies for the various growth sectors should become development strategies with low-carbon emissions and resilient to climate change in order to promote sustainable development.
 
 ##### a. Development and enhancement of the cashew sector
 
@@ -2204,29 +2247,30 @@ The production of cashew nuts in recent years experienced a spectacular growth. 
 
 [[START OF PAGE 75]]
 
-Changes in Cashew Exports (2000-2010) (Million of tons)
-
-Source: Directorate-General for the Economy (MEPIR)
-
-0.0
-
-20.0
-
-40.0
-
-60.0
-
-80.0
-
-100.0
-
-120.0
-
-140.0
+Changes in Cashew Exports (2000–2010)
+(Million of tons)
 
 160.0
 
+140.0
+
+120.0
+
+100.0
+
+80.0
+
+60.0
+
+40.0
+
+20.0
+
+0.0
+
 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010
+
+Source: Directorate-General for the Economy (MEPIR)
 
 This sector employs more than 85 percent of households in the country, and it is rare to find a farmer who does not cultivate at least a few cashew trees. Its receipts play an important role in poverty reduction. It is estimated that a 15-percent increase in producer prices would increase the consumption level of the 'extremely poor' and 'the poor' by, respectively, 9.5 percent and 3.3 percent.
 
@@ -2282,13 +2326,15 @@ As for other agricultural products, the country also has favorable natural condi
 
 ##### d. Fisheries
 
-The abundant aquatic flora and an extended continental shelf (45,000 km 2 ), combined with its geography (islands and mainland, with many rivers and mangrove areas), make Guinea-Bissau a country rich in fishery resources. Its sea area is among the richest in fish in the region, with an annual catch of 250-350 thousand tons (including shrimp). If well managed and better promoted, the sector could be an important source of economic growth, creating jobs, improving the food diet, and increasing and diversifying exports and tax receipts.
+The abundant aquatic flora and an extended continental shelf (45,000 km 2 ), combined with its geography (islands and mainland, with many rivers and mangrove areas), make Guinea-Bissau a country rich in fishery resources. Its sea area is among the richest in fish in the region, with an annual catch of 250-350 thousand tons (including shrimp). If well managed and better promoted, the sector could be an important source of economic growth,
 
 76
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
+
+creating jobs, improving the food diet, and increasing and diversifying exports and tax receipts.
 
 However, development of this sector is subject to various constraints, including: (i) the absence of a clear, effective policy to boost the sector; (ii) insufficient knowledge of fishery resources exploited and marine ecosystems; (iii) poor institutional and human capacity to meet the challenges linked to the development of the sector, particularly in terms of planning, monitoring and control of the exploitation of fishery resources and promotion of private investment; (iv) insufficient infrastructure to support conservation and processing of fisheries products; (v) weak organizational capacity of the country's entrepreneurial fabric; (vi) absence of an economic environment that attracts private investment, particularly foreign capital; (vii) financing gap of the sector; (viii) weak institutional cooperation between stakeholders (fisheries, finance, and navy); and (ix) insufficient means to supervise and control fishing vessels and combat illegal activities in the EEZ.
 
@@ -2334,13 +2380,15 @@ The main interventions proposed include:
 
 The involvement of grassroots communities in running tourism businesses will allow for the feasible use of natural resources, the non-trivialization of cultural aspects, poverty reduction, and environment protection.
 
-In parallel with said preparatory activities, efforts will be made to develop the tourism market by creating lodging and hosting facilities; conserving historical sites and better equipping areas of great tourism potential (Bijagós Islands, Boé, Cantanhez, Varela, etc.); and increasing their accessibility. Special attention will also be given to organizing tours and promoting diversified products. Moreover, existing institutions that promote the private sector, investment funding, and tourism projects will be particularly encouraged.
+In parallel with said preparatory activities, efforts will be made to develop the tourism market by creating lodging and hosting facilities; conserving historical sites and better equipping areas of great tourism potential (Bijagós Islands, Boé, Cantanhez, Varela, etc.); and increasing
 
 78
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
+
+their accessibility. Special attention will also be given to organizing tours and promoting diversified products. Moreover, existing institutions that promote the private sector, investment funding, and tourism projects will be particularly encouraged.
 
 #### 2. Develop basic economic infrastructure
 
@@ -2366,9 +2414,9 @@ Major reforms were approved in 2010 as part of the implementation of the Sector 
 
  Carry out an institutional and legal restructuring of the sector;
 
- Create an entity to regulate the electricity and water sector;
-
  Liquidate the EAGB and create a new entity for providing energy supply services;
+
+ Create an entity to regulate the electricity and water sector;
 
 79
 
@@ -2378,7 +2426,7 @@ Major reforms were approved in 2010 as part of the implementation of the Sector 
 
  Adopt a strategy to optimize the various initiatives in progress in the sector, such as the PMRI, White Paper, OMVG, make feasible the project to build the Saltinho Dam, etc.).
 
-For the medium and long term: i) continue to develop the country's energy capacities, including as part of sub-regional initiatives that will foster access to more low-cost hydropower; ii) encourage alternative energy sources as a means of reducing dependence on petroleum products; and iii) promote access to modern energy services in the rural and semiurban areas.
+For the medium and long term: i) continue to develop the country's energy capacities, including as part of sub-regional initiatives that will foster access to more low-cost hydropower; ii) encourage alternative energy sources as a means of reducing dependence on petroleum products; and iii) promote access to modern energy services in the rural and semi-urban areas.
 
 In 2020, it is expected that the power grid will cover 80 percent of urban centers, as opposed to current 60 percent coverage in the country. For 2015, the targets are 60 percent and 35 percent respectively.
 
@@ -2400,12 +2448,11 @@ To remedy this situation, the government will focus its efforts as follows:
 
 - Implement a strategy for supplying family units with fuel to safeguard forestry resources as well as public finances and the country's balance of payments.
 
-2010 | 2015
+Table 7: Electricity Sector Performance Indicators (2010-2015)
+ | 2010 | 2015
 --- | --- | ---
 Power generation (MW) | 5.5 | 15.5
 Percentage of generation invoiced and actually paid | 40 | 70
-
-Table 7: Electricity Sector Performance Indicators (2010-2015)
 
 Wood-based fuel accounts for roughly 90 percent of domestic energy consumption and meets practically all the needs in the rural areas. Women play an important role in this activity, not just in production, but in marketing and rural and urban consumption as well. Furthermore, all of the activities carried out at this level under PRSP II will take this role of women into account. The demand probably outstrips the 550,000 tons of wood per year
 
@@ -2431,7 +2478,7 @@ However, obstacles remain: (i) the deterioration of the road network, 14 which l
 
 To mitigate these constraints, the following priority actions are planned in the road sector: i) upgrade access to the country's production areas by implementing the program to rehabilitate rural trails, with special emphasis on the regions of the South; ii) maintain and expand the national road network by establishing programs to maintain, rehabilitate and/or build streets and crossings; and iii) pursue the efforts to permanently interlink Senegal, Guinea-Bissau and the Republic of Guinea with Transwest African and interconnection roads (intercommunity corridor under the Regional Economic Program (PER).
 
-For maritime and river transport, the rehabilitation and expansion of the Port of Bissau is a priority given its strategic importance for the national economy, including imports and exports of cashew nuts. 15 Along the same lines, the following should be considered: i) improving security conditions at sea by: providing support equipment for ships, such as beacons, buoys and other equipment; ii) hydrographic surveys to update small-scale nautical maps; iii) building a second deepwater port at the Port of Buba as part of the development of the country's integrated agricultural and mineral potential following the environmental impact study; iv) supporting the revitalization of river and maritime transport, in particular to bring the islands in the South of the country out of isolation (prepare and implement a plan to restructure the river and maritime transport system: establish a river fleet, dredge navigable waterways, acquire communication and safety equipment, etc.).
+For maritime and river transport, the rehabilitation and expansion of the Port of Bissau is a priority given its strategic importance for the national economy, including imports and
 
 > 14 According to DGEP data (see the MDG costing report, September 2010) the country has 2,755 km of roads, and only 770 km are paved. In total, more than 75 percent of national and regional roads are in poor condition, while 45 percent of local streets are paved and 75 percent are unpaved.
 
@@ -2441,9 +2488,11 @@ For maritime and river transport, the rehabilitation and expansion of the Port o
 
 [[START OF PAGE 83]]
 
+exports of cashew nuts. 15 Along the same lines, the following should be considered: i) improving security conditions at sea by: providing support equipment for ships, such as beacons, buoys and other equipment; ii) hydrographic surveys to update small-scale nautical maps; iii) building a second deepwater port at the Port of Buba as part of the development of the country's integrated agricultural and mineral potential following the environmental impact study; iv) supporting the revitalization of river and maritime transport, in particular to bring the islands in the South of the country out of isolation (prepare and implement a plan to restructure the river and maritime transport system: establish a river fleet, dredge navigable waterways, acquire communication and safety equipment, etc.).
+
 This way, the government focuses on updating the technical studies and creating the mechanisms necessary for promoting and supporting private investment. To support this dynamic, and to foster the successful implementation of this program, it will be necessary to strengthen the applicable institutional capacities, in particular for the Merchant Marine General Directorate, which is tasked with regulating, supervising and setting up a maritime transport meteorological center.
 
-For air transport, the primary requirement will be to upgrade Osvaldo Vieira International Purpose to meet the standards of the International Civil Aviation Organization (ICAO) and to standardize the air navigation system.
+For air transport, the primary requirement will be to upgrade Osvaldo Vieira International Airport to meet the standards of the International Civil Aviation Organization (ICAO) and to standardize the air navigation system.
 
 ##### c. Telecommunications:
 
@@ -2453,7 +2502,7 @@ For the coming years, the main challenges will be to : i) extend the coverage of
 
 To this end, the government policy will address: i) strengthening the legal framework to promote private investment, strengthen free competition and improve service quality for the people; ii) strengthening the capacities of the Guinea-Bissau Communication Institute (ICGB) as regulating entity; iii) preparing and implementing a plan for the government divestiture of Guiné-Telecom; and iv) promoting the development of rural telephony, in particular the creation of a universal access fund for telecommunications services.
 
-In addition, the development of landlines is still problematic. The switch by customers to mobile telephones contributed to the development of this service, which is essential for highspeed data transfer. To remedy this situation, developing a national fiber optic network would be beneficial. To do so, given the volume of investment required, the government will promote private investment.
+In addition, the development of landlines is still problematic. The switch by customers to mobile telephones contributed to the development of this service, which is essential for high-speed data transfer. To remedy this situation, developing a national fiber optic network would
 
 > 15 Currently, more than 85 percent of imports and 95 percent of Guinea-Bissau's exports go through the Port of Bissau.
 
@@ -2462,6 +2511,8 @@ In addition, the development of landlines is still problematic. The switch by cu
 [[END OF PAGE 83]]
 
 [[START OF PAGE 84]]
+
+be beneficial. To do so, given the volume of investment required, the government will promote private investment.
 
 ##### d. Urban development, housing, mapping and regional planning
 
@@ -2475,7 +2526,7 @@ In addition to the social status of women for owning real estate and accessing f
 
 The country has mineral resources , and developing them could be used to advantage to accelerate economic growth, providing major resources for the government budget to finance the provision of basic social services and to alleviate poverty. Development work has identified considerable deposits of bauxite, phosphate and, as well as other minerals of economic interest.
 
-N onetheless, there are major challenges for developing this sector, such as : i) the difficulty of mobilizing the necessary investments; ii) poor national capacities for negotiating and monitoring legal instruments to protect the country's interests, and; iii) controlling the impact of mining activities on the environment.
+Nonetheless, there are major challenges for developing this sector, such as: i) the difficulty of mobilizing the necessary investments; ii) poor national capacities for negotiating and monitoring legal instruments to protect the country's interests, and; iii) controlling the impact of mining activities on the environment.
 
 To address these challenges, the government recommends the following core areas of intervention:
 
@@ -2489,7 +2540,7 @@ To address these challenges, the government recommends the following core areas 
 
 [[START OF PAGE 85]]
 
-- equipment; and improve the transparency of the agreement negotiating and approval process;
+equipment; and improve the transparency of the agreement negotiating and approval process;
 
 - Plan measures to optimize the fluctuations in mining resources for the country: revise and adjust mining and oil taxation to make it compliant with international standards; involve mining companies more in local development; and join the Extractive Industries Transparency Initiative (EITI + +) in 2011;
 
@@ -2501,7 +2552,7 @@ Pending the implementation of this institutional framework, the government will 
 
 #### 4. Develop the processing industry
 
-Faced with many constraints, beginning with the supply and high cost of electricity, the industrial sector is in an embryonic state and has been somewhat sluggish in the recent past. Studies and consultations have been performed, including preparing the PRSP, and they do not consider this sector a vehicle for growth in the next five years. Consequently, as was the case for PRSP I, a specific program for this sector was not proposed. The existing potential for processing cashew nuts and fish products was addressed and authorized for the corresponding industries. The existing potential for agro-industry (fruit juice, for example), will be taken into account, as well as general measures for improving the business environment. However, the government will begin a detailed study of the type of industrialization that Guinea-Bissau can implement in the medium and long run based on its comparative advantages, and taking into account competition from the countries of the subregion as well as environmental impact studies.
+Faced with many constraints, beginning with the supply and high cost of electricity, the industrial sector is in an embryonic state and has been somewhat sluggish in the recent past. Studies and consultations have been performed, including preparing the PRSP, and they do not consider this sector a vehicle for growth in the next five years. Consequently, as was the case for PRSP I, a specific program for this sector was not proposed. The existing potential for processing cashew nuts and fish products was addressed and authorized for the corresponding industries. The existing potential for agro-industry (fruit juice, for example), will be taken into account, as well as general measures for improving the business environment. However, the government will begin a detailed study of the type of industrialization that Guinea-Bissau can implement in the medium and long run based on its comparative advantages, and taking into account competition from the countries of the sub-region as well as environmental impact studies.
 
 #### 5. Improve and develop the job market
 
@@ -2541,7 +2592,7 @@ In comparison with other countries in the sub-region, Guinea-Bissau seems to hav
 
 Several practices that involve developing soil resources, water and the forests are among the main causes of the increase in types of soil deterioration, the fragmentation of habitats, soil erosion, fewer available water resources, a loss of ecosystem services, and the rapid drop-off in biological diversity. Among these threats, the following can be mentioned: slash-and-burn agriculture practices, subsistence hunting, charcoal and small livestock production, general herding of livestock, the indiscriminate cutting of forestry resources in order to extract the last cuttings of wood, and the rapid expansion of cashew nut plantations, as well as unsustainable hunting and burning (fire is often used as a hunting technique). This trend is of particular concern in the context of climate change, whose impacts may gradually exacerbate the negative effects of forest losses in terms of biodiversity and jeopardize the subsistence and survival capacity of rural communities.
 
-The solutions adopted by the national natural resource management papers (NBSAP, NAPA, PAN, LCD, national messages, etc.), are based on five pillars: (a) building institutional, technical and financial capacities to manage natural resources; (b) strengthening the regulatory framework; (c) incorporating environmental and natural resource management into economic development policies; d) making people in rural areas aware of the role of ecosystem development services; and e) engaging the interested parties, including communities, in ecosystem management.
+The solutions adopted by the national natural resource management papers (NBSAP, NAPA, PAN, LCD, national messages, etc.), are based on five pillars: (a) building institutional, technical and financial capacities to manage natural resources; (b) strengthening the regulatory framework; (c) incorporating environmental and natural resource management into
 
 85
 
@@ -2549,7 +2600,9 @@ The solutions adopted by the national natural resource management papers (NBSAP,
 
 [[START OF PAGE 87]]
 
-To achieve the objectives of the PNGA, the following steps should be taken:  i) revise the PNGA; ii) develop consistent instruments for managing national physical spaces and natural resources (National Regional Planning); iii) design a national strategy to properly manage water resources and ensure rational access for all users; iv) encourage renewable energy to ensure that energy requirements can be met sustainably, thereby reducing pressure on forestry resources (firewood); v) establish a reliable information system accessible to all users for better environmental management; vi) develop environmental research; vii) implement a reforestation program to curb or reverse the deterioration of natural resources; viii) implement conventions and protocols that are directly or indirectly related to the environment and sign others considered relevant; ix) modernize economic activities, in particular by intensifying agriculture for food security through sustainable natural resources development; x) develop the national plan to mitigate greenhouse gases (NAMA), the National Zero Carbon Development Strategy in the Strategy Investment Plan for the Sustainable Management of Land; xi) strengthen the operational capacities of institutions in charge of monitoring, evaluating and protecting the environment; and xii) mobilize financial resources to implement the aforementioned strategy plans.
+economic development policies; d) making people in rural areas aware of the role of ecosystem development services; and e) engaging the interested parties, including communities, in ecosystem management.
+
+To achieve the objectives of the PNGA, the following steps should be taken: i) revise the PNGA; ii) develop consistent instruments for managing national physical spaces and natural resources (National Regional Planning); iii) design a national strategy to properly manage water resources and ensure rational access for all users; iv) encourage renewable energy to ensure that energy requirements can be met sustainably, thereby reducing pressure on forestry resources (firewood); v) establish a reliable information system accessible to all users for better environmental management; vi) develop environmental research; vii) implement a reforestation program to curb or reverse the deterioration of natural resources; viii) implement conventions and protocols that are directly or indirectly related to the environment and sign others considered relevant; ix) modernize economic activities, in particular by intensifying agriculture for food security through sustainable natural resources development; x) develop the national plan to mitigate greenhouse gases (NAMA), the National Zero Carbon Development Strategy in the Strategy Investment Plan for the Sustainable Management of Land; xi) strengthen the operational capacities of institutions in charge of monitoring, evaluating and protecting the environment; and xii) mobilize financial resources to implement the aforementioned strategy plans.
 
 86
 
@@ -2603,12 +2656,11 @@ As for supporting vulnerable groups, under PRSP II the government also plans to 
 
 Achieving this objective requires implementing the following measures : i) lower the failure rate to 10 percent starting in 2015 versus 14.8 percent in 2010; ii) gradually have the government take over the community and madrassa schools; iii) promote the supply of private schools through incentives (10 percent of the unit cost of a public sector student for each private sector student); iv) eliminate disparities in access to education; v) with community support, establish school cafeterias, with priority given to areas with low demand for education and high dropout rates to make education universal; vi) systematically use classes with more than one grade in areas with low school enrollment; vii) build and renovate an average of 365 classrooms per year; and viii) hire an average of roughly 635 teachers per year. If these planned measures are implemented, it will be possible to educate 546,000 children by 2020, as opposed to 362,000 in 2010.
 
-2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015
+Table 8: Primary level targets and indicators
+ | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015
 --- | --- | --- | --- | --- | ---
 Number of textbooks to be distributed | 941,727 | 969,234 | 997,578 | 1,026,786 | 1,056,294
 Course completion rate | 66.8% | 70.5% | 74.2% | 77.9% | 81.6%
-
-Table 8: Primary level targets and indicators
 
 Ministry of Education/Education System Statistics and Planning Office, simulation model, June 2009 edition
 
@@ -2624,12 +2676,12 @@ Secondary schools: The goal is to improve access to quality education. To this e
 
 Table 9: Primary school targets and indicators
 
-Ministry  of  Education/Education  System  Statistics  and  Planning  Office,  simulation  model, June 2009 edition
-
 Indicators | 2010-2011 | 2011-2012 | 2012-2013 | 2013-2014 | 2014-2015
 --- | --- | --- | --- | --- | ---
 Enrollment capacity | 17,303 | 18,033 | 18,701 | 19,301 | 19,825
-Retention rate in the 10 th and 11 th grades | 89.5% | 90.1% | 90.7% | 91.3% | 91.9%
+Retention rate in the 10th and 11th grades | 89.5% | 90.1% | 90.7% | 91.3% | 91.9%
+
+Ministry of Education/Education System Statistics and Planning Office, simulation model, June 2009 edition
 
 89
 
@@ -2662,15 +2714,17 @@ Secondary 2 | 97 | 115 | 175 | 42 | 67 | 99
 
 For technical education and vocational training (ETFP), the proposal is to: i) increase access to technical and vocational training; ii) improve the quality of and diversify training programs; and iii) improve the monitoring of technical and vocational training.
 
-To achieve these outcomes, various measures will be implemented, including: i) building the capacities of the Technical and Vocational Training Institute; ii) restructuring the management system as a framework for dialogue and cooperation between training institutions and responsible companies; ii) institutionalizing a management system based on the permanent revision of matching training with jobs; iv) requiring initial and continuing training of trainers; v) preparing and implementing suitable training programs, including entrepreneurship; vi) rehabilitating teaching equipment and materials; vii) promoting worklinked training; viii) strengthening monitoring-evaluation and quality control; and ix) implementing systems to support the socio-occupational integration of trained youths, in particular through facilities for accessing basic equipment as well as initial coaching.
+To achieve these outcomes, various measures will be implemented, including: i) building the capacities of the Technical and Vocational Training Institute; ii) restructuring the management system as a framework for dialogue and cooperation between training institutions and responsible companies; ii) institutionalizing a management system based on the permanent revision of matching training with jobs; iv) requiring initial and continuing training of trainers; v) preparing and implementing suitable training programs, including entrepreneurship; vi) rehabilitating teaching equipment and materials; vii) promoting work-linked training; viii) strengthening monitoring-evaluation and quality control; and ix) implementing systems to support the socio-occupational integration of trained youths, in particular through facilities for accessing basic equipment as well as initial coaching.
 
-In addition, ETFP capacities will be developed so that by 2020, the vocational training schools will be able to accommodate 15 percent of the youths who complete the primary and secondary courses and the traditional ETFP can be expanded. To this end, the requirements are as follows: i) strengthen the enrollment capacities of existing establishments and create new facilities based on need, as well as on national capacities, to accommodate 447 students in 2010 and 604 in 2020; ii) pay some of the costs of vocational education and integration to make it accessible to the largest possible number of youths; iii) diversify the specializations directed to the priority sectors of the economy; and iv) hire trainers.
+In addition, ETFP capacities will be developed so that by 2020, the vocational training schools will be able to accommodate 15 percent of the youths who complete the primary and secondary courses and the traditional ETFP can be expanded. To this end, the requirements are as follows: i) strengthen the enrollment capacities of existing establishments and create new facilities based on need, as well as on national capacities, to accommodate 447 students in 2010 and 604 in 2020; ii) pay some of the costs of vocational education and integration to
 
 90
 
 [[END OF PAGE 91]]
 
 [[START OF PAGE 92]]
+
+make it accessible to the largest possible number of youths; iii) diversify the specializations directed to the priority sectors of the economy; and iv) hire trainers.
 
 For higher education and scientific research: The main goal is to improve system effectiveness to meet the needs for high-level national managers for the country's economic and social development. To this end, the priorities will focus on the following: i) diversification and professionalization of training; ii) implementation of an observation and job market search system; iii) promotion of private education and distance learning to enhance the public sector's weak capacities in this area; iv); continuing education for teachers; v) improvements in teaching resources, such as laboratories, libraries, electronic networks, NICT, etc.); and vi) develop partnerships between the Public University and foreign universities.
 
@@ -2684,13 +2738,15 @@ With regard to gender issues specifically, PRSP II will intervene through seven 
 
 The country's health situation is characterized by the low level of use of health services and the people's vulnerability in terms of health. More particularly, this affects children under five and mothers. There are fewer than 0.4 visits to health facilities per inhabitant per year, despite the improvement in the geographical coverage of health facilities in the country. The use of health services by women continues to be very low because of their own status, primarily in rural areas. The status of the people's health continues to be cause for concern. Despite progress, one in ten children (104 per thousand) dies before the age of one and the maternal mortality rate remains one of the highest in the sub-region. It was found that the risk of a woman of childbearing age dying in Guinea-Bissau is 184 times greater than the risk of women who live in developed countries.
 
-The level of national coverage of health services remains low, especially in rural areas. Health requirements are on the rise for the following reasons: i) demographic growth (2.47 percent according to the results of the 2009 census of the population); ii) the people's demands in terms of the coverage, availability and quality of health services; and iii) the need to improve the people's rate of health coverage.
+The level of national coverage of health services remains low, especially in rural areas. Health requirements are on the rise for the following reasons: i) demographic growth (2.47 percent according to the results of the 2009 census of the population); ii) the people's demands in
 
 91
 
 [[END OF PAGE 92]]
 
 [[START OF PAGE 93]]
+
+terms of the coverage, availability and quality of health services; and iii) the need to improve the people's rate of health coverage.
 
 The main causes of morbidity and mortality among the population are communicable diseases, including HIV/AIDS, 17 and obstetrical and neonatal complications. Thus, despite the progress made in primary health care, malaria continues to be an endemic disease with a stable transmission rate and high prevalence. The groups most vulnerable to malaria are children under five and pregnant women.
 
@@ -2736,7 +2792,7 @@ The main recommended strategies are: subsidize certain drugs, vaccines and consu
 
 ###### Infrastructures to be renovated
 
-2011 | 2012 | 2013 | 2014 | 2015
+ | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | ---
 Community health units | 60 | 60 | 60 | 60 | 61
 "C" health center | 17 | 17 | 17 | 17 | 17
@@ -2748,7 +2804,7 @@ National hospital | 0 | 0 | 0 | 0 | 0
 
 ###### Human resources requirements
 
-2011 | 2012 | 2013 | 2014 | 2015
+ | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | ---
 General clinic physician | 68 | 68 | 68 | 68 | 68
 General Practitioner [Médico integrado] | 8 | 8 | 8 | 8 | 8
@@ -2804,15 +2860,15 @@ Community health workers (CHW) | 4,206 | 4,206 | 4,206 | 4,206 | 4,206
 
 #### 3. Intensify and expand HIV/AIDS programs
 
-According to UNAIDS SPECTRUM in 2009 the total prevalence of HIV/AIDS in GuineaBissau is 2.6 percent. The epidemiological profile is characterized by the coexistence of two types of viruses, HIV1 and HIV2. Nevertheless, a reversal of the epidemiological profile of the infection is occurring. Dominated by HIV1 up to the beginning of the 1990s, HIV2 became more frequent, especially among young pregnant women under 25 years old. The results of the sentinel study on HIV/AIDS in pregnant women show that the rates in young women were twice as high as the prevalence of HIV1 compared to the rates of women over 30 years old. In the regional capitals of Guinea-Bissau, they have the higher prevalence of the infection. The INASA and IHM study found that the average prevalence rate is 5.8 percent.
+According to UNAIDS SPECTRUM in 2009 the total prevalence of HIV/AIDS in Guinea-Bissau is 2.6 percent. The epidemiological profile is characterized by the coexistence of two types of viruses, HIV1 and HIV2. Nevertheless, a reversal of the epidemiological profile of the infection is occurring. Dominated by HIV1 up to the beginning of the 1990s, HIV2 became more frequent, especially among young pregnant women under 25 years old. The results of the sentinel study on HIV/AIDS in pregnant women show that the rates in young women were twice as high as the prevalence of HIV1 compared to the rates of women over 30 years old. In the regional capitals of Guinea-Bissau, they have the higher prevalence of the infection. The INASA and IHM study found that the average prevalence rate is 5.8 percent.
 
 As a result, the government will implement an ambitious program that focuses on: i) information, education and communication (IEC) for a better understanding of HIV/AIDS and how it is transmitted; ii) behavior change awareness; iii) expanding access to antiretrovirals (ARVs) as well as psycho-social support; iv) assistance for PLWHIV and their families, including AIDS orphans; and v) strengthening national capacities to provide a response to fight HIV/AIDS. To address this challenge, the strategy will concentrate on deconcentrating and decentralizing interventions and on the involvement of PLWHIV in information and awareness campaigns. However, partner support will be necessary, and the government, despite its financial limitations, will contribute substantial resources to fight HIV/AIDS.
 
-Women are faced with a special situation since their physiological frailty and their social conditions make them more likely to fall victim of the HIV/AIDS pandemic. In GuineaBissau, as in most countries of Africa, the epidemic is affecting women more and more, and is particularly striking young girls between 15 and 24 years old. The social status of women, deprived of any power over their bodies and decision-making, makes them-in the marital context and otherwise-disadvantaged and vulnerable, so that this situation needs to be addressed in a special way.
+Women are faced with a special situation since their physiological frailty and their social conditions make them more likely to fall victim of the HIV/AIDS pandemic. In Guinea-Bissau, as in most countries of Africa, the epidemic is affecting women more and more, and is particularly striking young girls between 15 and 24 years old. The social status of women, deprived of any power over their bodies and decision-making, makes them—in the marital context and otherwise—disadvantaged and vulnerable, so that this situation needs to be addressed in a special way.
 
 To effectively control HIV/AIDS, the government, in the National Strategy Plan (PEN), focused its activities for 2011 to 2013 on the following four goals and five intermediate objectives:
 
-- Lower HIV infection trends in the population in general by: strengthening counseling and voluntary screening capacities and behavior change communication capacities for the vast majority of the sexually active population and make them aware of HIV status; provide an integrated PMTCT prevention package to 50 percent of women who use antenatal care; and ensure 100 percent safety for blood or its derivatives in the blood transfusion facilities;
+1. Lower HIV infection trends in the population in general by: strengthening counseling and voluntary screening capacities and behavior change communication capacities for the vast majority of the sexually active population and make them aware of HIV status; provide an integrated PMTCT prevention package to 50 percent of women who use antenatal care; and ensure 100 percent safety for blood or its derivatives in the blood transfusion facilities;
 
 96
 
@@ -2820,11 +2876,11 @@ To effectively control HIV/AIDS, the government, in the National Strategy Plan (
 
 [[START OF PAGE 98]]
 
-- Improve living conditions for people living with HIV/AIDS by improving the quality of life for more than 80 percent of PLWHIV eligible for ARV and OI treatment, including orphans and children vulnerable to HIV/AIDS;
+2. Improve living conditions for people living with HIV/AIDS by improving the quality of life for more than 80 percent of PLWHIV eligible for ARV and OI treatment, including orphans and children vulnerable to HIV/AIDS;
 
-- Provide complete and reliable information on strategic trends in the epidemic for decision-making and allocating the necessary resources;
+3. Provide complete and reliable information on strategic trends in the epidemic for decision-making and allocating the necessary resources;
 
-- Involve all the actors/partners in the fight against AIDS in the country to obtain an appropriate national response to the epidemic, and to strengthen the capacity of the entities that provide institutional and program coordination for the fight against HIV/AIDS at the local, regional and central levels.
+4. Involve all the actors/partners in the fight against AIDS in the country to obtain an appropriate national response to the epidemic, and to strengthen the capacity of the entities that provide institutional and program coordination for the fight against HIV/AIDS at the local, regional and central levels.
 
 To reverse the infection trend, PEN II (2007-2011) recommends the following objectives grouped into four areas of interventions:
 
@@ -2866,7 +2922,7 @@ To reverse the infection trend, PEN II (2007-2011) recommends the following obje
 
 [[START OF PAGE 99]]
 
--Put into practice the national unified monitoring and evaluation of AIDS in GuineaBissau;
+-Put into practice the national unified monitoring and evaluation of AIDS in Guinea-Bissau;
 
 -Strengthen national operational research capacities;
 
@@ -2900,7 +2956,7 @@ To achieve this, the priority actions are to: i) approve the policy paper and th
 
 #### 5. Improve and expand social protection
 
-N otwithstanding the solidarity principle being strongly affirmed in the various laws that govern national life, such as the Constitution of the Republic and ratified international conventions, access to a social protection system is quite limited and reserved for a minority of the population (about 2 percent), consisting of civil servants and a few private sector employees in banks, insurance companies, etc.
+Notwithstanding the solidarity principle being strongly affirmed in the various laws that govern national life, such as the Constitution of the Republic and ratified international conventions, access to a social protection system is quite limited and reserved for a minority of the population (about 2 percent), consisting of civil servants and a few private sector employees in banks, insurance companies, etc.
 
 In general, much of the population is faced with danger and vulnerability. This situation is explained by a combination of several factors, including the level of poverty in the country and the lack of formal protection mechanisms accessible to the majority of the population. In addition, there is the status of the vulnerable groups, including disabled persons, the elderly without resources, youths of school age looking for jobs, children, 18 etc. Many people, including pregnant women, die from a lack of access to quality social services.
 
@@ -2908,36 +2964,36 @@ Under PRSP II, the challenge is to contribute to fairness and to human developme
 
 To this end, the government is stressing the following strategic priorities: i) create viable and reliable mechanisms to define, structure and implement a more just and real social protection system; ii) standardize the different social protection systems and lessen inequalities to guarantee that the civil servants have these rights; iii) prevent social marginalization through efforts to promote a sense of collective responsibility and to ensure that the social protection system can truly adapt to the new realities (including poverty, drug dependence, gender, HIV/AIDS, major vulnerabilities, etc.); iv) set up improved pension funds for civil servants and give them medical care and better treatment; v) determine and implement appropriate legislation and inclusive social policies for children in vulnerable situations (for inclusion in the general government budget of funds channeled into the implementation of policies and action plans to support vulnerable groups, and especially women, children and the disabled); vi) promote supporting the implementation of programs to strengthen community involvement to protect children and to provide access to basic social services; vii) strengthen institutional mechanisms for protecting women and children at risk of violence and abuse, including child labor, and create a response coordination and management system; viii) improve access to basic social services for children, the elderly, and people with special needs and or in vulnerable or at-risk situations; and ix) improve nutrition assistance for children.
 
-In addition, regarding certain practices in given formal private sector entities, it will be necessary to strengthen the capacities and the effectiveness of the labor agency, proposing strict enforcement of the statutory provisions on labor rights, including hiring, purchasing insurance under the system, etc. Along the same lines, there are plans to: i) promote education, literacy and vocational training for women and youth and their income-generating activities; and ii) provide legal assistance for women to fight violence and demeaning treatment.
+In addition, regarding certain practices in given formal private sector entities, it will be necessary to strengthen the capacities and the effectiveness of the labor agency, proposing strict enforcement of the statutory provisions on labor rights, including hiring, purchasing insurance under the system, etc. Along the same lines, there are plans to: i) promote education, literacy and vocational training for women and youth and their income-generating
 
-> 18 According to the 2010 MICS, 57 percent of children from 5 to 14 years old are subjected to child labor (655 in the rural areas versus 455 in urban areas).
+> 18 According to the 2010 MICS, 57 percent of children from 5 to 14 years old are subjected to child labor (65% in the rural areas versus 45% in urban areas).
 
 99
 
 [[END OF PAGE 100]]
 
 [[START OF PAGE 101]]
-
+activities; and ii) provide legal assistance for women to fight violence and demeaning treatment.
 #### 6.  Develop advocacy actions for gender equality and justice
 
 Since the first days after independence, Guinea-Bissau has always placed importance on the advancement of women. This led the government to ratify all the conventions, treaties, protocols and recommendations at the international, continental and regional levels that promote their rights and improve their living conditions. Efforts have been made to translate the commitments into national laws and specific action plans, primarily by performing a series of studies [institutional analysis of national gender capacities, surveys on GBV, living conditions for women and men], a proposal for a draft law on female genital mutilation (FGM), creating a group of activists with an action plan to implement Resolution 1325 and to draft the cumulative report on the implementation of the Committee on the Elimination of Discrimination Against Women (CEDAW). Moreover, the government has a ministry in charge of women's issues that deals with matters of family, social cohesion and poverty alleviation. This ministry and the entity that oversees the Women's and Children's Institute (IMC) are responsible for the government's activities and approaches in the specific area of gender and the advancement of women. Moreover, civil society has many associations and NGOs that are involved in this specific area and that specialize in various areas, such as microcredit, GBV, mutual health systems, education, and HIV/AIDS.
 
-Today, the country is finalizing the National Equality and Gender Equity Policy (PNIEG). Once this document is finalized, the country will have a framework for orientation, dialogue and coordination for gender issues. This framework, which will put an end to the poorly coordinated efforts in this area as well as pluralistic approaches that are not always wellsuited to social and cultural conditions, will enhance the effectiveness of the activities carried out and will make the resulting outcomes truly sustainable for all the interventions, including the actions associated with PRSP II.
+Today, the country is finalizing the National Equality and Gender Equity Policy (PNIEG). Once this document is finalized, the country will have a framework for orientation, dialogue and coordination for gender issues. This framework, which will put an end to the poorly coordinated efforts in this area as well as pluralistic approaches that are not always well-suited to social and cultural conditions, will enhance the effectiveness of the activities carried out and will make the resulting outcomes truly sustainable for all the interventions, including the actions associated with PRSP II.
 
-N onetheless, efforts remain below expectations . The data from many statistical tables is seldom disaggregated by sex, a 'women and development' approach persists, gender skills are in short supply, actions are sometimes poorly coordinated, and the parties involved have no resources to carry out or monitor activities.
+Nonetheless, efforts remain below expectations. The data from many statistical tables is seldom disaggregated by sex, a “women and development” approach persists, gender skills are in short supply, actions are sometimes poorly coordinated, and the parties involved have no resources to carry out or monitor activities.
 
 The challenge of PRSP II in this specific area is fourfold: (i) ensure that the contribution of women is used to advantage in activities carried out in each sector and in the areas under consideration, keeping in mind their efficiency and their effectiveness; (ii) ensure that women and men alike enjoy the expected benefits in order to pull them out of poverty and consequently to pull the country out of poverty en masse; (iii) allow parents to fulfill their commitments regarding women's rights; and finally, (iv) forge ahead in the next five years to achieve all the MDGs.
 
-To meet this challenge , two objectives must be achieved to contribute to: i) curbing economic and social disparities between men and women; and ii) eliminating the inequalities and injustices that women face.
+To meet this challenge, two objectives must be achieved to contribute to: i) curbing economic and social disparities between men and women; and ii) eliminating the inequalities and injustices that women face.
 
-A cross-cutting approach for gender issues was chosen, taking gender into consideration as a cross-cutting dimension for the design, budget, institutional framework and management of its implementation, as well as the subsequent monitoring and evaluation. Likewise, the two objectives will be met through a cross-cutting analysis in every sector and area through gender activities that will be proposed. The purpose of this approach is to ensure that specifying gender activities in a complementary program does not lead to a situation in which such activities are quietly forgotten during implementation, resource allocation, or monitoring. The involvement of the national public and nongovernmental entities that operate in the area of promoting gender equality and justice (GEJ) in this process is essential, with women on an equal footing with men, and national gender competencies. Thus, this is also a challenge to ensure this cross-cutting integration and to achieve outcomes in alleviating poverty that should benefit women and men alike.
+A cross-cutting approach for gender issues was chosen, taking gender into consideration as a cross-cutting dimension for the design, budget, institutional framework and management of
 
 100
 
 [[END OF PAGE 101]]
 
 [[START OF PAGE 102]]
-
+its implementation, as well as the subsequent monitoring and evaluation. Likewise, the two objectives will be met through a cross-cutting analysis in every sector and area through gender activities that will be proposed. The purpose of this approach is to ensure that specifying gender activities in a complementary program does not lead to a situation in which such activities are quietly forgotten during implementation, resource allocation, or monitoring. The involvement of the national public and nongovernmental entities that operate in the area of promoting gender equality and justice (GEJ) in this process is essential, with women on an equal footing with men, and national gender competencies. Thus, this is also a challenge to ensure this cross-cutting integration and to achieve outcomes in alleviating poverty that should benefit women and men alike.
 ## 2.5. Macroeconomic framework, PRSP II financing, and key risks
 
 In May 2010, Guinea-Bissau signed a medium-term program with the International Monetary Fund for the period 2010-2012, supported with the Extended Credit Facility (ECF), and reached the Heavily Indebted Poor Countries (HIPC) Initiative completion point in December 2010. These two events reflect the government's efforts to implement the reforms required for fiscal rehabilitation, to make the country's economy more attractive, to move forward in government operations, and to solve defense and security problems. Security policy under the second Poverty Reduction Strategy Paper (PRSP II) will be implemented in this economic, political, and security context. The macroeconomic outlook for PRSP II will be more favorable owing to the consolidation of the country's progress and the expansion of its economic and financial reforms.
@@ -2966,9 +3022,15 @@ Growth in the tertiary sector contributed to Guinea Bissau's sound economic perf
 
 Trends in Real GDP by Sector
 
-[legend:]
+Evolução do PIB real por sector
+Primaire
+Secondaire
+Tertiaire
 
-Primary Secondary Tertiary
+[legend:]
+Primary
+Secondary
+Tertiary
 
 Growth during the period 2006-2010 was supported by investment, which increased an average of 24.6 percent under the impetus of public investment (35.9 percent), particularly in connection with major works. Nominal domestic demand grew 5.7 percent during the period analyzed. Exports increased 7.45 percent, although they reflected a sharp decline in the cashew prices, particularly in 2006 and 2009, while imports increased 7.5 percent. Average inflation was 4 percent during the same period, marked by a year of inflationary pressure accentuated in 2008 with price increases for imported cereals and petroleum products.
 
@@ -2988,7 +3050,7 @@ Total expenditure registered a steady increase from 58.7 billion in 2006 to 97.1
 
 Analysis of changes in the external accounts showed an average overall balance of payments surplus of CFAF 9.5 billion during the period 2006-2010, with a substantial decline in the overall surplus in 2010 (CFAF 5 billion as against CFAF 12-14 billion in previous years). This factor was attributed primarily to performance of the capital account (an average of 23.7 billion during the period) and financial transactions (5.8 billion), despite the deterioration in the current account (an average of -19.6 billion) with a persistent trade deficit at the level of (-32.2 billion) and deterioration in the services balance (-18.5 billion), while the balance of transfers was positive at an average of 36.9 billion.
 
-Guinea-Bissau is highly dependent on debt 19 to finance its budget, and particularly investments. At end-2009, public debt amounted to US$1[,]65.1 million, of which US$427.5 million in arrears. Multilateral debt represented US$528.3 million, corresponding to 49.6 percent of the total debt stock, while bilateral debt represented 5.4 percent, including 30.11 percent with Paris Club creditors. Commercial debt represented 0.02 percent of the total debt stock. Guinea-Bissau's key multilateral donors are: IDA, IMF, AfDB, ABEDA, IsDB, ECOWAS, EIB, OFAD, and OPEC. IDA continues to be the largest donor, with 57.49 percent of total multilateral debt, followed by the AfDB, with 29.05 percent. GuineaBissau has no debts in arrears with the IDA, AfDB, or the IMF.
+Guinea-Bissau is highly dependent on debt 19 to finance its budget, and particularly investments. At end-2009, public debt amounted to US$1,065.1 million, of which US$427.5 million in arrears. Multilateral debt represented US$528.3 million, corresponding to 49.6 percent of the total debt stock, while bilateral debt represented 50.4 percent, including 30.11 percent with non-Paris Club creditors. Commercial debt represented 0.02 percent of the total debt stock. Guinea-Bissau's key multilateral donors are: IDA, IMF, AfDB, ABEDA, IsDB, ECOWAS, EIB, OFAD, and OPEC. IDA continues to be the largest donor, with 57.49 percent of total multilateral debt, followed by the AfDB, with 29.05 percent. Guinea-Bissau has no debts in arrears with the IDA, AfDB, or the IMF.
 
 The fact that Guinea-Bissau reached the completion point in connection with the HIPC Initiative in December 2010, which entailed forgiveness of more than 86.5 percent of its debt, should bring the level to just under CFAF 120 billion in 2015.
 
@@ -3002,24 +3064,40 @@ Debt Trends 2008-2015
 
 [[START OF PAGE 105]]
 
+Evolução da dívida 2008-2015
+2008; 550,8
+2009; 549,6
+2010; 159,0
+2011; 150,0
+2012; 143,0
+2013; 136,0
+2014; 122,0
+2015; 114,2
+
 Distribution of Total Debt by Percentage
 
-[Legend:] | N on- Paris Club Commercial | 30 percent
---- | --- | ---
-Paris Club | 0 percent
-20 percent
+Repartição em percentagem da dívida total
+Non Club de Paris 30%
+Commerciale 0%
+Paris Club 20%
+Multilatérale 50%
+
+[Legend:]
+Non- Paris Club | 30 percent
+Commercial | 0 percent
+Paris Club | 20 percent
 Multilateral | 50 percent
 
 ### 2.5.2.   Macroeconomic outlook 2011-2015
 
-The macroeconomic forecasts are based on a set of assumptions reflecting the country's economic development in recent years, all reforms, and the policy and economic measures in progress or planned in the medium term. In addition, the Extended Credit Facility agreed with the IMF and the strategic objectives under PRSP II constitute the reference framework for defining the assumptions to guide the medium-term macroeconomic projections to ensure that the adopted strategy is generally consistent. These assumptions entail the following: (i) strengthening sociopolitical stability with tangible results from reforms in government, defense, and security; (ii) continuation of efforts to modernize government finance management, and specifically improving revenue collection capacities and generating more tax revenue (increase in the benchmark price of cashews from US$600 to US$750 per ton, increase in benchmark prices used by customs administrations to calculate import duties on rice, sugar, and wheat flour; reintroduction of taxes on alcoholic beverages; implementation of the Automated System for Customs Data (ASYCUDA ++) and its harmonization with tax return systems for large importers) and containment of expenditure (specifically wages); (iii) strengthening the contribution of growth sectors (agriculture, agro-industry, fishery, and tourism) where Guinea-Bissau enjoys comparative advantages based on the diversification of products (in addition to cashews, rice, and cereals); (iv) the increase in public and private investment, with the increase in public development assistance, foreign direct investment flows, and additional resources expected from debt cancellation and the improved business environment with the opening of the Business Procedures Center (one-stop window) and the simplification of enterprise creation procedures; and (v) enhanced electricity production and distribution.
+The macroeconomic forecasts are based on a set of assumptions reflecting the country's economic development in recent years, all reforms, and the policy and economic measures in progress or planned in the medium term. In addition, the Extended Credit Facility agreed with the IMF and the strategic objectives under PRSP II constitute the reference framework for defining the assumptions to guide the medium-term macroeconomic projections to ensure that the adopted strategy is generally consistent. These assumptions entail the following: (i) strengthening sociopolitical stability with tangible results from reforms in government, defense, and security; (ii) continuation of efforts to modernize government finance management, and specifically improving revenue collection capacities and generating more tax revenue (increase in the benchmark price of cashews from US$600 to US$750 per ton, increase in benchmark prices used by customs administrations to calculate import duties on rice, sugar, and wheat flour; reintroduction of taxes on alcoholic beverages; implementation
 
 104
 
 [[END OF PAGE 105]]
 
 [[START OF PAGE 106]]
-
+of the Automated System for Customs Data (ASYCUDA ++) and its harmonization with tax return systems for large importers) and containment of expenditure (specifically wages); (iii) strengthening the contribution of growth sectors (agriculture, agro-industry, fishery, and tourism) where Guinea-Bissau enjoys comparative advantages based on the diversification of products (in addition to cashews, rice, and cereals); (iv) the increase in public and private investment, with the increase in public development assistance, foreign direct investment flows, and additional resources expected from debt cancellation and the improved business environment with the opening of the Business Procedures Center (one-stop window) and the simplification of enterprise creation procedures; and (v) enhanced electricity production and distribution.
 Forecasts for the key parameters in the macroeconomic framework were designed to maintain macroeconomic and budget equilibria based on the economy's real potential and the overall and sectoral objectives under PRSP II. To that end, three forecast scenarios were considered:
 
 -A baseline (trend) scenario with the assumption that additional capital resources provided under PRSP II will not be mobilized or absorbed. Accordingly, real growth would be expected to remain at of 5.3 percent per year during the period 2011-2015.
@@ -3032,7 +3110,7 @@ Forecasts for the key parameters in the macroeconomic framework were designed to
 
 The growth objective for the period 2011-2015 will be to achieve an average annual rate of 5 percent. Trends in different economic sectors in respect of this benchmark scenario are as follows in terms of reaching the macroeconomic stability and growth objectives:
 
-In the primary sector , the average growth rate should increase by approximately 4.4 percent influenced by 4.4 percent growth in the agriculture subsector, with the implementation of programs designed to diversify agricultural production and to improve cashew production. Growth in the cattle breeding and fishery subsectors should reach 5.2 percent and 2.7 percent, respectively, as against an average annual rate of 4.6 percent and -0.3 percent during 20062010. The fishery subsector should benefit from construction works on the Port of Alto Bandim. An average growth rate of 3.5 percent per annum should be expected in the forestry subsector.
+In the primary sector, the average growth rate should increase by approximately 4.4 percent influenced by 4.4 percent growth in the agriculture subsector, with the implementation of programs designed to diversify agricultural production and to improve cashew production. Growth in the cattle breeding and fishery subsectors should reach 5.2 percent and 2.7 percent, respectively, as against an average annual rate of 4.6 percent and -0.3 percent during 2006-2010. The fishery subsector should benefit from construction works on the Port of Alto Bandim. An average growth rate of 3.5 percent per annum should be expected in the forestry subsector.
 
 The secondary sector should rebound as compared with the previous period with an average growth rate of 4 percent, as against -0.4 percent during 2006-2010. This upturn would be driven by growth in the agrofood subsector, which accounts for 75 percent of production in the sector. The contribution of the subsectors of construction (6.1 percent) and water and electricity (5.2 percent) could be expected to strengthen these dynamics with the continued efforts to improve the electricity distribution system and major public works policy, particularly in construction. Further support could be expected from a shift in public investment through the elimination of productivity barriers associated with insufficient energy production.
 
@@ -3044,7 +3122,9 @@ The secondary sector should rebound as compared with the previous period with an
 
 The tertiary sector should continue to expand with an average growth rate of approximately 6.4 percent during the period 2011-2015, primarily in connection with sound performance in the transportation and telecommunications, and trade sectors, registering average annual growth levels of 11.2 percent and 8.1 percent, respectively. The recovery of the financial services subsector observed in 2010 should continue with average growth of 2.1 percent throughout the period, while implementation of government reforms should lead to enhanced execution of public administration services.
 
-2011 | 2012 | 2013 | 2014 | 2015
+Table 10: Real growth rate in the sectors during the period 2011-2015
+
+ | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | ---
 Primary sector | 3.8% | 4.1% | 4.4% | 4.6% | 4.9%
 Agriculture | 4.0% | 4.3% | 4.5% | 4.8% | 5.1%
@@ -3064,11 +3144,9 @@ Financial services | 1.3% | 1.6% | 2.1% | 2.4% | 2.8%
 Public administration services | -2.1% | -1.8% | -1.5% | -1.4% | -1.3%
 Other services | 4.1% | 4.2% | 4.5% | 4.7% | 4.9%
 
-Table 10: Real growth rate in the sectors during the period 2011-2015
-
 In terms of GDP applications, investment is expected to remain dynamic on average (9.3 percent), despite a correction in the trend as against the period 2006-2010, reflecting the conclusion of the rehabilitation of some roads and the construction of bridges, the military hospital, and the government palace. Final consumption will register a slight increase (4 percent) as a result of public expenditure containment. Net external demand should improve with average growth in exports of goods and services of 6.1 percent in real terms, dominated by cashew exports (90 percent), while goods and imports could be expected to grow to 4.5 percent in real terms. The general price level is projected at an average of 3 percent during this period, as a result of inflationary pressures in connection with the increase in petroleum prices registered in recent years on the international market.
 
-Where the balance of payments is concerned , the balance of current account transactions is expected to improve from -4.6 percent of GDP in 2011 to -1.9 percent of GDP in 2015. This performance will result from an improved balance of transfers (average growth of 9.8 percent) and balance of trade (-8 percent of GDP in 2011 as against 6 percent in 2015), as a result of a sustained increase in exports of an average of 6 percent (with increased performance in cashew production), as compared with an average of 3.5 percent for imports. The overall balance will improve during this period from 2.7 percent of GDP in 2011 to 4.6 percent of GDP in 2015, owing to sound performance of the capital account and financial operations with direct investments increasing from 5 billion in 2011 to 9 billion in 2015.
+Where the balance of payments is concerned, the balance of current account transactions is expected to improve from -4.6 percent of GDP in 2011 to -1.9 percent of GDP in 2015. This performance will result from an improved balance of transfers (average growth of 9.8 percent) and balance of trade (-8 percent of GDP in 2011 as against 6 percent in 2015), as a result of a sustained increase in exports of an average of 6 percent (with increased performance in cashew production), as compared with an average of 3.5 percent for imports. The overall balance will improve during this period from 2.7 percent of GDP in 2011 to 4.6 percent of GDP in 2015, owing to sound performance of the capital account and financial operations with direct investments increasing from 5 billion in 2011 to 9 billion in 2015.
 
 106
 
@@ -3077,6 +3155,8 @@ Where the balance of payments is concerned , the balance of current account tran
 [[START OF PAGE 108]]
 
 Where government finance is concerned, total revenue can be expected to increase from 83.9 billion in 2011 to 120.7 billion in 2015, equivalent to an average increase of 5.3 percent during the period. The average tax burden should remain at 8.3 percent throughout the period based on a moderate expansionary trend in the tax base.
+
+Table 11: Projected Revenue 2011-2015 (in billions of CFA francs)
 
 ITEMS | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | ---
@@ -3088,13 +3168,12 @@ Grants | 36.9 | 50.3 | 54.1 | 56.8 | 59.6
 Project | 25.7 | 32.7 | 34.9 | 37.2 | 39.7
 Program | 11.2 | 17.6 | 19.2 | 19.5 | 19.8
 
-Table 11: Projected Revenue 2011-2015 (in billions of CFA francs)
-
 Total expenditure can be expected to increase from CFAF 92.8 billion in 2011 to CFAF 123 billion in 2015. Capital expenditure will grow steadily under the impetus of investment financed with external resources. Wage expenditure should develop consistently with the aim of controlling trends as stated in the government reform program, while the social sectors (education and health) will remain protected.
 
 Table 12: Projected Revenue 2011-2015 (in billions of CFA francs)
---- | --- | --- | --- | --- | ---
+
 ITEMS | 2011 | 2012 | 2013 | 2014 | 2015
+--- | --- | --- | --- | --- | ---
 Total expenditure and net borrowing | 92.8 | 99.5 | 106.3 | 115.2 | 123.0
 Current expenditure | 52.2 | 58.6 | 61.4 | 66.6 | 70.4
 Debt expenditure | 2.2 | 2.0 | 2.0 | 1.8 | 1.7
@@ -3104,26 +3183,25 @@ Externally financed | 35.1 | 37.5 | 40.0 | 42.7 | 45.6
 
 In general, the primary balance will continue to register a deficit, which will widen from the level of -3 billion in 2011 to -7.5 billion in 2015, while the overall balance, including grants, will continue to improve from -9 billion in 2011 to -2.3 billion in 2015. The overall balance, excluding grants and loans, will remain negative and relatively substantial as a share of GDP, increasing from -10.5 percent in 2011 to -11.3 percent in 2015.
 
+Table 13: Budget Balances 2011-2015
+
 ITEMS | 2011 | 2012 | 2013 | 2014 | 2015
 --- | --- | --- | --- | --- | ---
 Primary balances | -3.0 | -6.8 | -6.1 | -7.7 | -7.5
 Overall balance (commitment basis)
 Including grants | -9.0 | 0.6 | 1.1 | -1.3 | -2.3
-Not including net borrowing | -45.9 | -49.7 | -53.0 | -58.0 | -61.9
-and grants
+Not including net borrowing and grants | -45.9 | -49.7 | -53.0 | -58.0 | -61.9
 Excluding grants | -45.9 | -49.7 | -53.0 | -58.0 | -61.9
 Overall balance (cash basis) | -9.0 | 0.6 | 1.1 | -1.3 | -2.3
 
-Table 13: Budget Balances 2011-2015
-
-In terms of the WAEMU convergence criteria, we observe a slight improvement in GuineaBissau's economic performance, although there is scope for further efforts in connection with the second-order criteria. Where the first-order criteria are concerned, only one criterion involving the basic budget balance in respect of GDP will not be reached, registering an average of -2.65 percent. The debt-to-GDP ratio will be reached as the country has achieved the HIPC Initiative completion point. Where the second-order criteria are concerned, while we observe some improvement in performance, none of the criteria will be achieved. Substantial progress will be possible in terms of investment financed with domestic resources with relation to tax revenue, from 9.2 percent in 2011 to 15.3 percent in 2015. The current account deficit, excluding grants as a share of GDP, is estimated at 5 percent, the maximum authorized level, in 2011, and -5.5 percent in 2015. Accordingly, the tax burden will fall short of the minimum of 17 percent required by the WAEMU, at an average of 8 percent during 2011-2015.
+In terms of the WAEMU convergence criteria, we observe a slight improvement in Guinea-Bissau's economic performance, although there is scope for further efforts in connection with
 
 107
 
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
-
+the second-order criteria. Where the first-order criteria are concerned, only one criterion involving the basic budget balance in respect of GDP will not be reached, registering an average of -2.65 percent. The debt-to-GDP ratio will be reached as the country has achieved the HIPC Initiative completion point. Where the second-order criteria are concerned, while we observe some improvement in performance, none of the criteria will be achieved. Substantial progress will be possible in terms of investment financed with domestic resources with relation to tax revenue, from 9.2 percent in 2011 to 15.3 percent in 2015. The current account deficit, excluding grants as a share of GDP, is estimated at 5 percent, the maximum authorized level, in 2011, and -5.5 percent in 2015. Accordingly, the tax burden will fall short of the minimum of 17 percent required by the WAEMU, at an average of 8 percent during 2011-2015.
 Table 14: WAEMU Convergence Criteria
 --- | --- | --- | --- | --- | ---
 ITEMS | 2011 | 2012 | 2013 | 2014 | 2015
@@ -3148,6 +3226,8 @@ Under the intermediate scenario, only 50 percent of the additional capital resou
 
 [[START OF PAGE 110]]
 
+Table 15: Macroeconomic Framework of PRSP II
+
 ITEMS | 2011 | 2012 | 2013 | 2014 | 2015 | Average 2011-2015
 --- | --- | --- | --- | --- | --- | ---
 Tax burden | 8.56 | 9.2 | 10.0 | 10.6 | 11.2 | 9.91
@@ -3162,11 +3242,9 @@ Basic budget balance as a share of nominal GDP | -4.73% | -5.55% | -4.59% | -4.4
 Overall balance (commitment basis) Including grants | -21.3 | -12.8 | -8.6 | -9.5 | -12.4 | -12.92
 Not including net borrowing and grants | -63.4 | -67.8 | -71.9 | -74.5 | -90.0 | -73.51
 
-Table 15: Macroeconomic Framework of PRSP II
-
 ##### PRSP II financing in the context of the intermediate scenario
 
-Based on the assumptions on the macroeconomic and budget framework in connection with the growth rate, the tax burden, and the sustainable budget deficit, we can prepare a forwardlooking PRSP II financing plan reflecting the estimated overall cost of the strategy. The costs adopted in the current version are derived from PRSP I. The table below was prepared on the basis of programming for the period 2011-2015. With only 50 percent of the costs being mobilized, the overall cost of implementing the strategy for the intermediate scenario is estimated at CFAF 113,610 billion, as against a total financing capacity of CFAF 62.62 billion, reflecting an average basic budget deficit to GDP ratio of 4.7 percent.
+Based on the assumptions on the macroeconomic and budget framework in connection with the growth rate, the tax burden, and the sustainable budget deficit, we can prepare a forward-looking PRSP II financing plan reflecting the estimated overall cost of the strategy. The costs adopted in the current version are derived from PRSP I. The table below was prepared on the basis of programming for the period 2011-2015. With only 50 percent of the costs being mobilized, the overall cost of implementing the strategy for the intermediate scenario is estimated at CFAF 113,610 billion, as against a total financing capacity of CFAF 62.62 billion, reflecting an average basic budget deficit to GDP ratio of 4.7 percent.
 
 The total cost of investments is CFAF 107.93 billion, as against additional operating expenditure in connection with the PRSP (CFAF 5.68 billion) for the period 2011-2015. Financing for the strategy will be covered 55.11 percent with own budget resources and 44.89 percent with external resources to be mobilized, constituting the financing gap. The financing deficit will therefore be proportional to the deficit of additional resources not mobilized.
 
@@ -3195,7 +3273,9 @@ Gap (C+D) | 0 | 0 | 0 | 0 | 0 | 0
 
 #### 3. Optimistic scenario
 
-The optimistic scenario is based on assumptions of substantial growth in the promising sectors and more sustained fiscal performance, combined with the mobilization of all additional capital resources provided in PRSP II (100 percent). This scenario is realistic, albeit optimistic. Accordingly, considering Guinea-Bissau's fiscal potential, the increase in tax burden, projected at an average of approximately 10.5 percent during the period, will be driven by revenue collection efforts by revenue agencies and expansion of the tax base. The growth rate is expected to average 7.5 percent throughout the period 2011-2015. In the primary sector, the subsectors of agriculture (7.6 percent), livestock (8.3 percent), and fishery (3.5 percent) will drive the growth dynamics; the secondary sector will be supported with the dynamic performance in the construction sector with an average of 18.8 percent, and water and electricity with an average of 10.6 percent. The tertiary sector will be driven by improved performance in the public administration (3.8 percent) and trade (10.7 percent) sectors. Additional capital expenditure in connection with PRSP II should average 8.3 percent as a share of GDP in this scenario. The basic budget deficit will be established at around 6.4 percent of GDP, enabling substantial financing with domestic resources for strategy expenditure.
+The optimistic scenario is based on assumptions of substantial growth in the promising sectors and more sustained fiscal performance, combined with the mobilization of all additional capital resources provided in PRSP II (100 percent). This scenario is realistic, albeit optimistic. Accordingly, considering Guinea-Bissau's fiscal potential, the increase in tax burden, projected at an average of approximately 10.5 percent during the period, will be driven by revenue collection efforts by revenue agencies and expansion of the tax base. The growth rate is expected to average 7.5 percent throughout the period 2011-2015. In the primary sector, the subsectors of agriculture (7.6 percent), livestock (8.3 percent), and fishery (3.5 percent) will drive the growth dynamics; the secondary sector will be supported with the dynamic performance in the construction sector with an average of 18.8 percent, and water and electricity with an average of 10.6 percent. The tertiary sector will be driven by improved performance in the public administration (3.8 percent) and trade (10.7 percent) sectors. Additional capital expenditure in connection with PRSP II should average 8.3 percent as a share of GDP in this scenario. The basic budget deficit will be established at around -6.4 percent of GDP, enabling substantial financing with domestic resources for strategy expenditure.
+
+Table 17: Macroeconomic Framework for PRSP II - Optimistic Scenario
 
 ITEMS | 2011 | 2012 | 2013 | 2014 | 2015 | Average 2011-2015
 --- | --- | --- | --- | --- | --- | ---
@@ -3212,21 +3292,21 @@ Overall balance (commitment basis)
 Including grants | -31.0 | -20.0 | -19.3 | -19.8 | -18.4 | -21.7
 Not including net borrowing and grants | -78.2 | -79.3 | -91.3 | -92.2 | -112.6 | -90.7
 
-Table 17: Macroeconomic Framework for PRSP II - Optimistic Scenario
-
 ##### PRSP II financing in the optimistic scenario
 
-The assumptions in connection with this scenario involve an assessment of the overall cost of the strategy at more than CFAF 227 billion for the period 2011-2015. Financing for this amount will be distributed on an increasing basis during the period with the assumption of a gradual improvement of sociopolitical conditions and absorption capacities, allowing more external resources to be mobilized. Expenditure will be distributed as follows: 15 percent per annum during the first two years, 20 percent per annum during 2013 and 2014, and 30 percent in 2015. The overall investment cost will amount to CFAF 216 billion during the same period, while the additional operating expenditure in connection with PRSP II is estimated at CFAF 11 billion.
+The assumptions in connection with this scenario involve an assessment of the overall cost of the strategy at more than CFAF 227 billion for the period 2011-2015. Financing for this amount will be distributed on an increasing basis during the period with the assumption of a gradual improvement of sociopolitical conditions and absorption capacities, allowing more external resources to be mobilized. Expenditure will be distributed as follows: 15 percent per annum during the first two years, 20 percent per annum during 2013 and 2014, and 30 percent in 2015. The overall investment cost will amount to CFAF 216 billion during the same period,
 
 110
 
 [[END OF PAGE 111]]
 
 [[START OF PAGE 112]]
-
+while the additional operating expenditure in connection with PRSP II is estimated at CFAF 11 billion.
 The strategy will be financed 56.5 percent with own resources and 43.5 percent with external resources. The financing deficit is theoretically zero owing to the assumption that 100 percent of the requirements will be financed through mobilization of external financing. In fact, the financing deficit will be proportional to the absence of external resources mobilized. Accordingly, excluding external support provided in the baseline scenario, and if no further external resources are mobilized, the deficit will exceed CFAF 98 billion during this period.
 
-ITEMS | 2011 | 2012 | 2013 | 2014 | 2015 | TOTA L
+Table 18: Financing for the Optimistic Scenario (in billions of CFA francs)
+
+ITEMS | 2011 | 2012 | 2013 | 2014 | 2015 | TOTAL
 --- | --- | --- | --- | --- | --- | ---
 Overall cost of PRSP II (A) | 34.08 | 34.08 | 45.44 | 45.44 | 68.17 | 227.22
 Operating expenditure | 1.70 | 1.70 | 2.27 | 2.27 | 3.41 | 11.36
@@ -3237,15 +3317,13 @@ External financing (D) | 12.03 | 10.68 | 20.17 | 17.88 | 38.02 | 98.79
 Investments (project loans and grants) | 40.36 | 46.94 | 50.02 | 54.25 | 61.80 | 253.37
 Additional gap (C+D) | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00
 
-Table 18: Financing for the Optimistic Scenario (in billions of CFA francs)
-
 ### 2.5.3.   PRSP II financing risks
 
 The risks of the strategy are related to changes in the political situation that ensures a stable operating framework for the partners, as well as exogenous shocks potentially compromising the country's macroeconomic objectives.
 
 Political and institutional risks affecting the capacity to mobilize external resources have been incorporated into the various scenarios discussed. These risks are primarily connected with the process of reform in the defense and security sector, and may directly affect implementation of investments provided throughout the PRSP II execution period. The insufficient level of capital expenditure may significantly affect growth and in this case compromise the achievement of the goals set for 2015.
 
-N atural risks include rainfall, which continues to be the key factor affecting agricultural production. Developments in the agriculture subsector may be affected by insufficient rainfall, leading to poor cashew production and seriously reducing the country's external revenue.
+Natural risks include rainfall, which continues to be the key factor affecting agricultural production. Developments in the agriculture subsector may be affected by insufficient rainfall, leading to poor cashew production and seriously reducing the country's external revenue.
 
 On the economic front, the main risks are related to price trends on the international markets in general, and more specifically, the prices of cashews and crude oil. The energy subsector is also highly vulnerable to price fluctuations on the international oil market.
 
@@ -3275,15 +3353,15 @@ A monitoring and evaluation framework was proposed in connection with PRSP I, ba
 
 Six years after the first PRSP was adopted, however, the monitoring and evaluation system has not met the established objectives, and it has yet to become operational:
 
-#### Institutional framework:
-The institutional framework for monitoring and evaluation substantially has not become operational. The Steering Committee, intended to meet on a semiannual basis, has met only once. The PRSP implementation and monitoring unit (CISD), the centerpiece of the entire system, has yet to become operational. Linkages at the sectoral (GEP) and regional levels, when active, carry out monitoring activities that are typically not included in the general framework of PRSP monitoring. This problem is attributable to technical factors (failure to define missions and tasks of the various monitoring and evaluation units), institutional factors (absence of a monitoring and evaluation culture, intraministerial instability, insufficient engagement among the ministries), and a shortage of human resources (shortage of qualified personnel) and financial incentives (motivation of professional staff, financing for follow-up missions, etc.).
+#### 1. Institutional framework:
+The institutional framework for monitoring and evaluation substantially has not become operational. The Steering Committee, intended to meet on a semiannual basis, has met only once. The PRSP implementation and monitoring unit (CISD), the centerpiece of the entire system, has yet to become operational. Linkages at the sectoral (GEP) and regional levels, when active, carry out monitoring activities that are typically not included in the general framework of PRSP monitoring. This problem is attributable to technical factors (failure to define missions and tasks of the various monitoring and evaluation units), institutional factors (absence of a monitoring and evaluation culture, intra-ministerial instability, insufficient engagement among the ministries), and a shortage of human resources (shortage of qualified personnel) and financial incentives (motivation of professional staff, financing for follow-up missions, etc.).
 
 The process of participation and ownership in connection with PRSP execution has failed to materialize as there is no specific, operational institutional framework.
 
-#### Operational programming framework
-The pluriannual action plan-PAP (20062008) was adopted with delays and could not be used as a reference, as it was insufficiently realistic and failed to effectively prioritize its activities and financing (available financing only represented approximately 20 percent of the total). By contrast, the PAP did not identify indicators to be used for its monitoring.
+#### 2. Operational programming framework
+The pluriannual action plan—PAP (2006-2008) was adopted with delays and could not be used as a reference, as it was insufficiently realistic and failed to effectively prioritize its activities and financing (available financing only represented approximately 20 percent of the total). By contrast, the PAP did not identify indicators to be used for its monitoring.
 
-#### Statistical information and database:
+#### 3. Statistical information and database:
 The fragility of the national statistics system is also a tremendous constraint: availability of statistics data is generally limited, particularly in the area of government statistics, and the reliability of the data is often questionable in the absence of capacities to verify and control the quality of data collection, and as a result of the lack of adequate training for the primary data production personnel. These weaknesses involve product, performance, and impact indicators, as well as the data describing the human and financial resources mobilized in connection with public policies. Staff and their
 
 112
@@ -3294,10 +3372,10 @@ The fragility of the national statistics system is also a tremendous constraint:
 
 distribution by region and subarea are often ineffectively managed (absence of reconciliation between the data from the Ministry of Finance, the Ministry of Civil Service, and the sectoral ministries). Expenditure monitoring entails a threefold problem: comprehensiveness, reliability, and alignment with the PRSP objectives, primarily where external assistance is concerned. Similarly, the project to establish a database for public investment projects has not produced tangible results.
 
-#### Monitoring information system:
+#### 4. Monitoring information system:
 the government has produced two outturn reports: the first final report on PRSP assessment and monitoring (adopted in August 2009) and a second report on the 2009 fiscal year (August 2010). However, ownership of these activities continues to be limited, the midterm reports (sectoral and regional research offices) were not produced, nor has any permanent information system been implemented.
 
-#### Monitoring and evaluation indicators:
+#### 5. Monitoring and evaluation indicators:
 efforts to build monitoring and evaluation indicators into the PRSP process were made with delays (with the 2010 Priority Action Plan). Further, production of the identified performance and impact indicators was largely dependent on surveys that were not conducted until 2010. Last, neither the Ministry of Economic Planning and Regional Integration (MEPIR) nor the sectoral ministries were able to identify the appropriate intermediate indicators to constitute the base for annual sectoral monitoring.
 
 In the framework of PRSP II, solutions must be found for the constraints identified, and an approach must be adopted based simultaneously on pragmatism (preferably to address the operational monitoring and evaluation indicators), accuracy (to define the terms of reference for monitoring and evaluation players, to agree on a stable set of indicators, and to identify clear targets for 2015), and realism, reflecting the structural constraints and focusing on simple, low-cost mechanisms and tools. Accordingly, it should be possible for the monitoring and evaluation system under PRSP II to benefit from the most recent progress.
@@ -3308,7 +3386,7 @@ As a result of numerous actions, recent or in progress, we can expect PRSP II mo
 
 A renewable statistical base on the population living conditions: A current, broad base of information should be made available from the beginning, deriving from data from the 2009 general population census, MICS4 20 and ILAP 2 21 . Further completed studies (nutritional survey, survey on border flows, topical studies, etc.) can be used to establish a solid base for the PRSP II benchmark scenario. For all of these information sources, it is expected that the data in the statistical tables will be broken down by gender and age categories to permit adequate, more detailed analyses.
 
- Adoption of sectoral strategies and action plans : These reference frameworks are essential to define priorities and the goals to be reached in the context of the PRSP. In 20092010, a number of reports were adopted or are in the preparation phases:
+ Adoption of sectoral strategies and action plans: These reference frameworks are essential to define priorities and the goals to be reached in the context of the PRSP. In 2009-2010, a number of reports were adopted or are in the preparation phases:
 
 > 20 The Multiple Indicator Cluster Survey is carried out with support from UNICEF, now with a quarterly periodicity.
 
@@ -3337,7 +3415,7 @@ Gender |  National policy on gender equality and equity (PNIEG)
 
  Coordination of budget support : In February 2009, a Joint Framework for Aid Coordination (QCAO) was signed by the Ministry of Finance and six of its technical and financial partners (Spain, France, Portugal, the European Union, IMF, and World Bank). The QCAO offers a joint forum for sharing information, dialog, and coordination, confirmed with quarterly meetings (in April, July, October, and January).
 
- Planning for the development of the national statistics system: When the June 2010 inventory was completed, with financial and technical support from the AfDB and UNDP, a national statistical development strategy (ENDE) was prepared to cover the period 20112015. This strategy should lead to an operational action plan and budget for priority actions.
+ Planning for the development of the national statistics system: When the June 2010 inventory was completed, with financial and technical support from the AfDB and UNDP, a national statistical development strategy (ENDE) was prepared to cover the period 2011-2015. This strategy should lead to an operational action plan and budget for priority actions.
 
  Adoption of the WAEMU harmonized framework for public financial management: The new March and June 2009 directives applicable to all eight WAEMU countries have been transposed to Guinea-Bissau's legislation. A new organic law on finance laws was adopted in
 
@@ -3365,14 +3443,14 @@ The reformulated institutional framework is organized on the basis of a simplifi
 
 The Steering Committee (CP) is a structure for guidance, dialog, and policy decisions, that executes the following functions: (i) provides major thrusts for PRSP implementation; (ii) approves priority action plans (PAP) and any revisions of such plans; (iii) validates annual PRSP progress reports and any monitoring and evaluation reports that may be required; and (iv) makes recommendations to improve the process of implementation, monitoring, and assessment of the strategy. The presence of representatives from bilateral and multilateral donors within the CP also enables it to function as a forum for high-level cooperation between the government and its development partners. The Steering Committee is chaired by the Prime Minister and includes all representatives from the parties connected with the strategy (government, People's National Assembly, private sector, civil society, and development partners).
 
-Proper functioning of the Steering Committee will be essential to the extent that its functions include: (i) providing impetus for technical structures; (ii) ensuring ownership of the strategy and its performance at the policy level; and (iii) promoting a high-level dialog between the government and the country's bilateral and multilateral partners. The Steering Committee holds regular semiannual meetings, and extraordinary meetings may be organized when justified in connection with the detailed PRSP implementation report. An end-of-year meeting will take stock of activities and performance during 12 months of execution. These meetings will be essential in cooperation between the government and its partners, and these issues will also be covered in other meetings in more specialized settings such as the Joint Framework for Budget Aid Coordination (QCAO) or annual sectoral policy reviews. On the other hand, the Steering Committee is also required to address issues strictly related to the PRSP, such as monitoring of the Millennium Development Goals (MDGs), or aid efficiency. On the latter issue, the twofold representation of the Ministry of Economy, Planning, and Regional Integration (MEPIR) and the Ministry of Foreign Business on the Technical Committee should facilitate joint monitoring of the PRSP and development assistance, with the resolute aim of improving alignment of aid with national strategies. By contrast, baseline information for monitoring the Paris Declaration may be produced by a different unit created especially for that purpose. In keeping with its function, it must be ensured that the Commission comprises women and organizations operating in the area of gender and promotion of women's issues, as well as in other areas to ensure that cross-cutting issues that are important, although not reflected in the core areas of the PRSP, are monitored.
+Proper functioning of the Steering Committee will be essential to the extent that its functions include: (i) providing impetus for technical structures; (ii) ensuring ownership of the strategy and its performance at the policy level; and (iii) promoting a high-level dialog between the government and the country's bilateral and multilateral partners. The Steering Committee holds regular semiannual meetings, and extraordinary meetings may be organized when justified in connection with the detailed PRSP implementation report. An end-of-year meeting will take stock of activities and performance during 12 months of execution. These meetings will be essential in cooperation between the government and its partners, and these issues will also be covered in other meetings in more specialized settings such as the Joint Framework for Budget Aid Coordination (QCAO) or annual sectoral policy reviews. On the other hand, the Steering Committee is also required to address issues strictly related to the PRSP, such as monitoring of the Millennium Development Goals (MDGs), or aid efficiency. On the latter issue, the twofold representation of the Ministry of Economy, Planning, and Regional
 
 115
 
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
-
+Integration (MEPIR) and the Ministry of Foreign Business on the Technical Committee should facilitate joint monitoring of the PRSP and development assistance, with the resolute aim of improving alignment of aid with national strategies. By contrast, baseline information for monitoring the Paris Declaration may be produced by a different unit created especially for that purpose. In keeping with its function, it must be ensured that the Commission comprises women and organizations operating in the area of gender and promotion of women's issues, as well as in other areas to ensure that cross-cutting issues that are important, although not reflected in the core areas of the PRSP, are monitored.
 The Technical Committee is the operational structure that provides technical coordination for the overall process of PRSP implementation, monitoring, and evaluation, oversees proper operation of the system, and ensures technical validation of programming and monitoring documentation before they are submitted at the policy level. The Technical Committee meets quarterly and is chaired by the minister responsible for planning. It will be comprised of the strategic MEPIR directorates (Planning and National Statistics Institute), the Ministry of Finance (Budget), the Ministry responsible for poverty reduction, and representatives from the ministries involved in implementation of the strategy.
 
 The Sectoral Programming and Monitoring Committees (CSPS) constitute the monitoring and evaluation center for sectoral programs, policies, and strategies. These committees should serve as points to centralize information on the monitoring of each sector and region, and, accordingly, they represent the benchmark structures for the Technical Committee and its secretariat. Configuration, representation, and assignment of steering functions to sectoral committees are under consideration by the relevant sectoral ministries or regional governors. However, Sectoral Programming and Monitoring Committees should be established by the Research and Planning Offices as well as by the Administrative and Financial Directorate of the ministries involved and their key technical directorates. A pragmatic approach should be used with simple mechanisms designed to optimize existing resources.
@@ -3381,14 +3459,14 @@ Owing to the lack of gender issue skills in most public structures, state instit
 
 The architecture proposed in this connection meets five requirements : (i) to simplify the institutional framework (essential from the standpoint of available capacities and difficulties in organizing coordination); (ii) to avoid dispersion of monitoring and evaluation responsibilities for the national strategy at the central level; (iii) to strengthen the responsibilities of the sectoral ministries in implementing PRSP monitoring and evaluation; (iv) to involve the technical and financial partners in the high-level dialog framework; and (v) to ensure that the PRSP Implementation and Monitoring Unit (CISD) is effectively operational within the MEPIR.
 
-This framework constitutes the generic system which is supported on a de facto basis by the various other cooperation or operational management organizations outside of the PRSP implementation framework. This specifically applies to: (i) the QCAO, which should be considered an absolutely essential framework for coordination between the government and donors to monitor certain PRSP components; and (ii) structures substantially prepared to stimulate regional and municipal development.
+This framework constitutes the generic system which is supported on a de facto basis by the various other cooperation or operational management organizations outside of the PRSP implementation framework. This specifically applies to: (i) the QCAO, which should be considered an absolutely essential framework for coordination between the government and
 
 116
 
 [[END OF PAGE 117]]
 
 [[START OF PAGE 118]]
-
+donors to monitor certain PRSP components; and (ii) structures substantially prepared to stimulate regional and municipal development.
 ### 3.2.2.   PRSP II monitoring and evaluation system
 
 #### 1. Organization of the Information System
@@ -3402,22 +3480,14 @@ The information system for monitoring will be structured on the basis of two mai
 The first component as indicated above will be coordinated by the INE, and will be based on the following activities:
 
 1. Production planning for data from surveys (planning of surveys, mobilization of financial resources, and preparation of specifications);
-
-- Systematic breakdown of all data and information provided by age and gender;
-
-- Development of routine information systems to produce annual administrative data (with the aim of producing data related to agriculture, education, health, water and sanitation, social solidarity infrastructures, employment, and security and justice sectors) and promotion of projects to support these systems focusing on primary data collectors and producers (directors of schools, health center managers, etc.);
-
-- Quantitative and qualitative sectoral studies on gender;
-
+2. Systematic breakdown of all data and information provided by age and gender;
+3. Development of routine information systems to produce annual administrative data (with the aim of producing data related to agriculture, education, health, water and sanitation, social solidarity infrastructures, employment, and security and justice sectors) and promotion of projects to support these systems focusing on primary data collectors and producers (directors of schools, health center managers, etc.);
+4. Quantitative and qualitative sectoral studies on gender;
 5. Consolidation of the DevInfo database, a central storage instrument for social statistics;
-
 6. Production of an annual monitoring framework for indicators (key impact and performance indicators);
-
-- Impetus for mechanisms to check the reliability of information;
-
+7. Impetus for mechanisms to check the reliability of information;
 8. Reorganization and development of institutional capacities of services in the national statistics system;
-
-- Continuing education of statistics services professionals.
+9. Continuing education of statistics services professionals.
 
 > 23 These two components correspond to the first two subsystems of the Economic and Statistical Observatory for sub-Saharan Africa of the United Nations (CRESMIC).
 
@@ -3429,19 +3499,13 @@ The first component as indicated above will be coordinated by the INE, and will 
 
 The second component, coordinated by the Directorate-General of Planning, entails the following key activities:
 
-- Production of quarterly budget outturn statements based on Integrated Public Finance Management System (administrative, functional, and economic classification of expenditure);
-
-- Production of an annual report on PIP execution based on information from the research and planning offices, information on external aid, and specific data collected in connection with a selection of strategic projects;
-
-- Production of a midterm and final report on gender disparities, inequalities, and disparities in trends;
-
-- Establishment of a management platform for external aid;
-
-- Gradual introduction of program budgets (pluriannual expenditure programming documents) based on a roadmap covering the period 2011-2017;
-
-- Development of a management system of ministerial program budgets, to provide a model instrument for processing information on budget programs (2012/2013);
-
-- Accompanying activities in connection with management training, restructuring of services in departments related to the implementation of WAEMU directives, availability of information and equipment, etc.
+1. Production of quarterly budget outturn statements based on Integrated Public Finance Management System (administrative, functional, and economic classification of expenditure);
+2. Production of an annual report on PIP execution based on information from the research and planning offices, information on external aid, and specific data collected in connection with a selection of strategic projects;
+3. Production of a midterm and final report on gender disparities, inequalities, and disparities in trends;
+4. Establishment of a management platform for external aid;
+5. Gradual introduction of program budgets (pluriannual expenditure programming documents) based on a roadmap covering the period 2011-2017;
+6. Development of a management system of ministerial program budgets, to provide a model instrument for processing information on budget programs (2012/2013);
+7. Accompanying activities in connection with management training, restructuring of services in departments related to the implementation of WAEMU directives, availability of information and equipment, etc.
 
 Considering the time required for the external aid management platform to become fully operational, a provisional database will be fed with data collected quarterly from the state institutions (MEPIR, Ministry of Finance, National Election Commission, etc.) and the development partners (including the key international NGOs).
 
@@ -3497,6 +3561,8 @@ The  MPEIR  has  established  a  website  (www.mepir-gov.org),  where  documents
 
  PAP/program budgets for the sectoral ministries.
 
+Table 19: List of PRSP Impact Indicators
+
 Indicators | Source of verification | Periodicity | Manager | CRESMIC Code | MDG Code
 --- | --- | --- | --- | --- | ---
 Human development
@@ -3510,8 +3576,6 @@ Proportion of the population living on less than one PPA dollar per day | ILAP |
 Poverty deviation index | ILAP | 3 years | INS | 14 | 2
 Share of the poorest quintile in national consumption | ILAP | 3 years | INS | 15 | 3
 Gini index | ILAP | 3 years | INS | 16
-
-Table 19: List of PRSP Impact Indicators
 
 These indicators are supplemented with a further list of indicators that can be easily calculated, according to the four PRSP II core areas.
 
@@ -3527,27 +3591,39 @@ These indicators are supplemented with a further list of indicators that can be 
 
 Sectors | Strategic and programming frameworks
 --- | ---
-Defense and Security | Strategy for restructuring and modernization of the defense and security sector (2006) Priority plan for defense and security sector reform-PPRSDS (approved in January 2010)
-Justice | National justice policy (March 2010) Plan to fight drug trafficking in Guinea-Bissau (adopted in 2007)
-Agriculture Fishery | National program for agricultural investment (PNIA) 2011-2015 (prepared in 2010) 25 Strategic plan 2011-2015 for the fishery sector (prepared in 2009) Sectoral electricity policy (March 2010)
-Electricity / water | Water and electricity reform program (March 2010)
-Education | Policy charter for the education sector, 2010-2010 Three-year development plan for the education sector 2011-2013 (June 2010)
-Health | Second National Health Development Plan-PNDS 2011-2017 (approved in May 2010)
-Gender | National policy on gender equality and equity General Population and Housing Census (conducted in 2009)
-Statistics | Multiple Indicator Cluster Survey-MICS-4 survey (conducted in 2010) Second Rapid Poverty Assessment Survey (ILAP) (conducted in 2010) Study on non-monetary poverty (conducted in 2010) Nutritional survey (conducted in 2010) Survey on border flows (conducted in .....) Assessment of requirements and costs involved in achieving the MDGs (carried
-Research | out in 2010) Study to identify sources of economic growth (carried out in 2010) Thematic studies (carried out in 2010)
+Defense and Security | Strategy for restructuring and modernization of the defense and security sector (2006)
+ | Priority plan for defense and security sector reform—PPRSDS (approved in January 2010)
+Justice | National justice policy (March 2010)
+ | Plan to fight drug trafficking in Guinea-Bissau (adopted in 2007)
+Agriculture | National program for agricultural investment (PNIA) 2011-2015 (prepared in 2010) 25
+Fishery | Strategic plan 2011-2015 for the fishery sector (prepared in 2009)
+Electricity / water | Sectoral electricity policy (March 2010)
+ | Water and electricity reform program (March 2010)
+Education | Policy charter for the education sector, 2010-2010
+ | Three-year development plan for the education sector 2011-2013 (June 2010)
+Health | Second National Health Development Plan—PNDS 2011-2017 (approved in May 2010)
+Gender | National policy on gender equality and equity
+Statistics | General Population and Housing Census (conducted in 2009)
+ | Multiple Indicator Cluster Survey—MICS-4 survey (conducted in 2010)
+ | Second Rapid Poverty Assessment Survey (ILAP) (conducted in 2010)
+ | Study on non-monetary poverty (conducted in 2010)
+ | Nutritional survey (conducted in 2010)
+ | Survey on border flows (conducted in .....)
+Research | Assessment of requirements and costs involved in achieving the MDGs (carried out in 2010)
+ | Study to identify sources of economic growth (carried out in 2010)
+ | Thematic studies (carried out in 2010)
 
 ## 4.1. List of key PRSP II monitoring indicators
 
 ### Poverty indicators
 
-Benchmark situation | Target | Source of | Responsible | CRESMIC | MDG Code
+Indicators | Benchmark situation |  | Target |  | Source of information | Periodicity | Responsible agency | CRESMIC Code | MDG Code
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Indicators | Year | Value | 2013 | 2015 | information | Periodicity | agency | Code
-Poverty incidence (a) | 2010 | 69.3% | 52.0% | 34.6% | ILAP | 3 years | INE | 10
-Cut the proportion of people living on | 2010 | 33% | 24.75% | 16.5% | ILAP | 3 years | INE | 13 | 1
-Poverty deviation index | AR | ILAP | 3 years | INE | 14 | 2
-Share of the poorest quintile in national consumption | AR | ILAP | 3 years | INE | 15 | 3
+ | Year | Value | 2013 | 2015 |  |  |  |  | 
+Poverty incidence (a) | 2010 | 69.3% | 52.0% | 34.6% | ILAP | 3 years | INE | 10 | 
+Cut the proportion of people living on less than one PPA dollar per day in half | 2010 | 33% | 24.75% | 16.5% | ILAP | 3 years | INE | 13 | 1
+Poverty deviation index |  | AR |  |  | ILAP | 3 years | INE | 14 | 2
+Share of the poorest quintile in national consumption |  | AR |  |  | ILAP | 3 years | INE | 15 | 3
 
 > 25 There is an agricultural policy charter but it is not current (prepared in 1997 and revised in 2002).
 
@@ -3559,18 +3635,17 @@ Share of the poorest quintile in national consumption | AR | ILAP | 3 years | IN
 
 ### Indicators by core area and subarea
 
-Subarea | Benchmark situation | Target | Information source | Respon- sible agency/ | Per- iodicity | CRES MIC | MDG Code
---- | --- | --- | --- | --- | --- | --- | ---
-Indicator | Year | Value | 2013 | 2015 | producer | Code
-1.1. Defense and security sector reform (RSDS) | Political stability and absence of violence | 2009 | - 0.49 | World Governance Indicators (WGI) http://info.worldb ank.org/governan ce/wgi/sc_countr y.asp | World Bank | Annual
-1.2. Fight the proliferation of light and small caliber weapons and drug trafficking | Percentage of weapons held by the security forces registered and stored under internationally recognized standards | ND | Administrative registers | Ministry of Defense | Annual
-1.3. Strengthen justice and the rule of law | Index of public satisfaction with the legal system | ND | Specific survey or satisfaction survey/public services or Standardized Questionnaire on Basic Well-Being Indicators | INE, Min. of Justice | 3 years | 57 26
-Percentage of cases tried on maters filed with the regional courts | AR | Judiciary statistics | Min. Justice | Annual | 60
-1.4. Civic participation, dialog, and national reconciliation | Rate of participation in elections Legislative 2008 Presidential 2009 | 2008 2009 | 82% 60% | Electoral statistics | Electoral com- mission Min. of Interior | Each election
-Percentage of women deputies | 2008 | 10% | Parliamentary statistics | National Assembly | Annual | 56 | 12
-1.5. Decen- tralization and local development | Percentage of public resources allocated to local governments | AR | Budget statistics | Min. Finance | Annual | 61
-
 #### CORE AREA 1: Strengthening the rule of law and republican institutions
+
+Subarea | Indicator | Benchmark year | Benchmark value | Target 2013 | Target 2015 | Information source | Responsible agency/producer | Periodicity | CRESMIC Code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+1.1. Defense and security sector reform (RSDS) | Political stability and absence of violence | 2009 | - 0.49 |  |  | World Governance Indicators (WGI), http://info.worldbank.org/governance/wgi/sc_country.asp | World Bank | Annual |  | 
+1.2. Fight the proliferation of light and small caliber weapons and drug trafficking | Percentage of weapons held by the security forces registered and stored under internationally recognized standards |  | ND |  |  | Administrative registers | Ministry of Defense | Annual |  | 
+1.3. Strengthen justice and the rule of law | Index of public satisfaction with the legal system |  | ND |  |  | Specific survey or satisfaction survey/public services or Standardized Questionnaire on Basic Well-Being Indicators (QUIBB) module | INE, Min. of Justice | 3 years | 57 26 | 
+ | Percentage of cases tried on maters filed with the regional courts |  | AR |  |  | Judiciary statistics | Min. Justice | Annual | 60 | 
+1.4. Civic participation, dialog, and national reconciliation | Rate of participation in elections: Legislative 2008; Presidential 2009 | 2008; 2009 | 82%; 60% |  |  | Electoral statistics | Electoral commission; Min. of Interior | Each election |  | 
+ | Percentage of women deputies | 2008 | 10% |  |  | Parliamentary statistics | National Assembly | Annual | 56 | 12
+1.5. Decentralization and local development | Percentage of public resources allocated to local governments |  | AR |  |  | Budget statistics | Min. Finance | Annual | 61 |
 
 > 26 CRESMIC Indicator 57: Satisfaction index for administrative persons.
 
@@ -3580,28 +3655,25 @@ Percentage of women deputies | 2008 | 10% | Parliamentary statistics | National 
 
 [[START OF PAGE 124]]
 
-Subarea | Indicator | Benchmark situation | Target | Source of information | Respon- sible agency/ | Per- iodi- city | CRES MIC | MDG Code
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | Value | 2015 | producer | code
-Wage bill/budget revenue (percent) | 2009 | 75.6% | 35% | State budget outturn statement | Ministry of Finance | Annual
-2.1. Reform of public administration and capacity building in public management | Proportion of public administration recruitment carried out by competitive examination | Administrative registers | Adminis- trative Reform, Civil Service, and Labor (MRAFPT), Sectoral ministries | Annual
-2.2. Government finance management reforms | Overall budget execution rate | AR | Government finance statistics | Ministry of Finance | Annual
-Non-accumulation of domestic payment arrears (in thousand million CFA francs) | 2008 | 11 | Government finance statistics | Ministry of Finance | Annual
-Tax burden as a percentage of GDP (WAEMU convergence criterion) | 2010 | 7% | Government finance statistics National Accounts | Ministry of Finance INE | Annual | 7
-Current expenditure as a percentage of GDP | 2009 | 23.04% | Government finance statistics | Ministry of Finance | Annual
-
 #### CORE AREA 2: Streamlining and improvement of government finance management
 
-Subarea | Indicator | Benchmark situation | Target | Source of information | Respon- sible agency/ | Per- iodi- city 27 | CRESMIC Code | MDG Code
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | Value | 2013 | 2015 | producer
-3.1. Stabilization of the macroeconomic framework
-3.1.3. [sic] Macroeconomic | Real GDP growth rate | 2010 | 3.5% | 4.7% | 5.5% | National Accounts | INE | An- nual | 3
-Inflation rate (WAEMU convergence criterion) | 2010 | 2.3% | Price statistics (Harmonized consumer price index-- IHPC) | INE | An- nual | 1
-3.1.2. [sic] Financial stability | Basic budget balance as a percentage of GDP (WAEMU convergence criterion) | 2009 | - 10.66 % | Government finance statistics | Ministry of Finance | An- nual | 9
-3.2 Development of basic economic infrastructures | Kilometers of asphalt roads | 2010 | 770 km | Infrastruc- ture statistics | Ministry of Infrastruc- ture | An- nual | 49
+Subarea | Indicator | Benchmark year | Benchmark value | Target 2013 | Target 2015 | Source of information | Responsible agency/producer | Periodicity | CRESMIC code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+2.1. Reform of public administration and capacity building in public management | Wage bill/budget revenue (percent) | 2009 | 75.6% |  | 35% | State budget outturn statement | Ministry of Finance | Annual |  | 
+ | Proportion of public administration recruitment carried out by competitive examination |  | ND |  |  | Administrative registers | Ministry of Administrative Reform, Civil Service, and Labor (MRAFPT), Sectoral ministries | Annual |  | 
+2.2. Government finance management reforms | Overall budget execution rate |  | AR |  |  | Government finance statistics | Ministry of Finance | Annual |  | 
+ | Non-accumulation of domestic payment arrears (in thousand million CFA francs) | 2008 | 11 |  |  | Government finance statistics | Ministry of Finance | Annual |  | 
+ | Tax burden as a percentage of GDP (WAEMU convergence criterion) | 2010 | 7% |  |  | Government finance statistics; National Accounts | Ministry of Finance; INE | Annual | 7 | 
+ | Current expenditure as a percentage of GDP | 2009 | 23.04% |  |  | Government finance statistics | Ministry of Finance | Annual |  | 
 
-#### CORE AREA 3: PROMOTE SUSTAI N ABLE ECO N OMIC DEVELOPME N T
+#### CORE AREA 3: PROMOTE SUSTAINABLE ECONOMIC DEVELOPMENT
+
+Subarea | Indicator | Benchmark year | Benchmark value | Target 2013 | Target 2015 | Source of information | Responsible agency/producer | Periodicity 27 | CRESMIC Code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+3.1. Stabilization of the macroeconomic framework; 3.1.3. [sic] Macroeconomic | Real GDP growth rate | 2010 | 3.5% | 4.7% | 5.5% | National Accounts | INE | Annual | 3 | 
+ | Inflation rate (WAEMU convergence criterion) | 2010 | 2.3% |  |  | Price statistics (Harmonized consumer price index--IHPC) | INE | Annual | 1 | 
+3.1.2. [sic] Financial stability | Basic budget balance as a percentage of GDP (WAEMU convergence criterion) | 2009 | -10.66% |  |  | Government finance statistics | Ministry of Finance | Annual | 9 | 
+3.2 Development of basic economic infrastructures | Kilometers of asphalt roads | 2010 | 770 km |  |  | Infrastructure statistics | Ministry of Infrastructure | Annual | 49 |
 
 > 27 While major statistical operations (MICS, IDS, ICVM) are normally carried out with five-year periodicities, we observe that an indicator may be produced with a shorter frequency as the baseline data can be calculated from a number of different statistical operations.
 
@@ -3611,27 +3683,26 @@ Inflation rate (WAEMU convergence criterion) | 2010 | 2.3% | Price statistics (H
 
 [[START OF PAGE 125]]
 
-Subarea | Indicator | Benchmark situation | Target | Source of information | Respon- sible agency/ producer | Per- iodi- city 27 | CRESMIC Code | MDG Code
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | Value | 2013 | 2015
-3.2.1. Transportation | Kilometers of rehabilitated or repaired roads | 2009 | 400 km | Infrastruc- ture statistics | General of State Assets (DGPE) Ministry of Infrastruc- ture (DGPE) | An- nual | 50
-3.2.2. Energy | Electricity coverage ratio | 2010 | 16% | General Population and Housing Census (RGPH); ILAP/ QUIBB | INE | 3 years | 38 28 | 27 29
-3.2.3. Telecommunica- tions | Number of fixed and mobile telephone clients per population of 1,000 Time required to | AD | Administra- tive excerpts | Telephone operators | An- nual | 43.44 | 47 30
-3.3. Improve the climate for business and | establish an enterprise (in days) | 2010 | 213 | Doing Business | World Bank | An- nual
-private sector promotion | Number of private enterprises created and registered with the one- stop window | 2010 | 144 | Administra- tive registers | Enterprise Formation Center (One-stop window) | An- nual
-3.4. Support for growth sectors 3.4.1. Productivity | Production | An- nual
-increase in the agriculture sector | - Maize - Rice - Cassava | 2010 2010 2010 | 10,540 154,240 75,326 | National Accounts | INE, Min. Agriculture | 45, 46, 47 31
-3.4.2. Diversification of the agricultural sector | Share of the subsectors of agriculture, livestock, and fishery in GDP | 2010 | 39.8% | 33.9 % | 30.2% | National Accounts | INE | An- nual | 48
-3.4.4. Promote tourism | percentage of total: -Cashews (processed and unprocessed) - Other agricultural products - Mining products Number of incoming | 2010 2010 2010 | 32,085 407 54 ND | Foreign trade statistics Policy | INE Min. | An- nual An-
-tourists Unemployment rate Men Women Total | 2009 | 18.12% 4.62% 10.54% | registers RGPH; ILAP; Survey; QUIBB; | Interior | nual
-3.4.5. Employment | 1-2 MICS | INE | 3 years | 32
-Percentage of nonagricultural women employees; | ND | RGPH; ILAP; 1-2 Survey; QUIBB; MICS | INE | 3 years | 36 | 11
+Subarea | Indicator | Benchmark year | Benchmark value | Target 2013 | Target 2015 | Source of information | Responsible agency/producer | Periodicity 27 | CRESMIC Code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  |  |  |  |  |  | Directorate-General of State Assets (DGPE) |  |  | 
+3.2.1. Transportation | Kilometers of rehabilitated or repaired roads | 2009 | 400 km |  |  | Infrastructure statistics | Ministry of Infrastructure (DGPE) | Annual | 50 | 
+3.2.2. Energy | Electricity coverage ratio | 2010 | 16% |  |  | General Population and Housing Census (RGPH); ILAP/QUIBB | INE | 3 years | 38 28 | 27 29
+3.2.3. Telecommunications | Number of fixed and mobile telephone clients per population of 1,000 |  | AD |  |  | Administrative excerpts | Telephone operators | Annual | 43.44 | 47 30
+3.3. Improve the climate for business and private sector promotion | Time required to establish an enterprise (in days) | 2010 | 213 |  |  | Doing Business | World Bank | Annual |  | 
+ | Number of private enterprises created and registered with the one-stop window | 2010 | 144 |  |  | Administrative registers | Enterprise Formation Center (One-stop window) | Annual |  | 
+3.4. Support for growth sectors; 3.4.1. Productivity increase in the agriculture sector | Production: - Maize; - Rice; - Cassava; - Cashews | 2010; 2010; 2010; 2010 | 10,540; 154,240; 75,326; 135,275 |  |  | National Accounts | INE, Min. Agriculture | Annual | 45, 46, 47 31 | 
+3.4.2. Diversification of the agricultural sector | Share of the subsectors of agriculture, livestock, and fishery in GDP | 2010 | 39.8% | 33.9% | 30.2% | National Accounts | INE | Annual | 48 | 
+3.4.3. Promote agricultural exports | Changes in exports in value terms (millions of CFAF) and in percentage of total: - Cashews (processed and unprocessed); - Other agricultural products; - Mining products | 2010; 2010; 2010 | 32,085; 407; 54 |  |  | Foreign trade statistics | INE | Annual |  | 
+3.4.4. Promote tourism | Number of incoming tourists |  | ND |  |  | Policy registers | Min. Interior | Annual |  | 
+3.4.5. Employment | Unemployment rate: Men; Women; Total | 2009 | 18.12%; 4.62%; 10.54% |  |  | RGPH; ILAP; 1-2 Survey; QUIBB; MICS | INE | 3 years | 32 | 
+ | Percentage of nonagricultural women employees; |  | ND |  |  | RGPH; ILAP; 1-2 Survey; QUIBB; MICS | INE | 3 years | 36 | 11
 
 > 28 CRESMIC Indicator 38: Proportion of the population with access to electricity.
 
-> 30 Number of telephone lines and mobile telephones per 100 inhabitants.
-
 > 29 MDG Indicator 27: GDP per unit of energy consumed (income and energy).
+
+> 30 Number of telephone lines and mobile telephones per 100 inhabitants.
 
 > 31 The three production indicators.
 
@@ -3641,29 +3712,24 @@ Percentage of nonagricultural women employees; | ND | RGPH; ILAP; 1-2 Survey; QU
 
 [[START OF PAGE 126]]
 
-Subarea | Indicator | Benchmark situation | Target | Source of | Respon- sible agency/ | Per- iodi- city 27 | CRESMIC Code | MDG Code
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Year | Value | 2013 | 2015 | information | producer
-Percentage of households that use solid fuel (firewood, wood-based charcoal) | 2006 | 98.4% | RGPH; ILAP; 1-2 Survey; QUIBB; MICS | INE | 3 years | 55 | 29
-3.5. Preserving the environment and natural resources | Proportion of areas protected to preserve biodiversity ND | Environ- mental stat. | Awareness and Edu- cation for the Environ- ment and Develop- ment (SEEDD) | Annu al | 54 | 26
+Subarea | Indicator | Benchmark situation |  | Target |  | Source of information | Responsible agency/producer | Periodicity 27 | CRESMIC Code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Year | Value | 2013 | 2015 |  |  |  |  | 
+3.5. Preserving the environment and natural resources | Percentage of households that use solid fuel (firewood, wood-based charcoal) | 2006 | 98.4% |  |  | RGPH; ILAP; 1-2 Survey; QUIBB; MICS | INE | 3 years | 55 | 29
+ | Proportion of areas protected to preserve biodiversity |  | ND |  |  | Environmental stat. | Awareness and Education for the Environment and Development (SEEDD) | Annual | 54 | 26
 
 #### CORE AREA 4: Improve quality of services in the social sectors
 
-Benchmark situation | Target | Source of information | Respon- sible agency/ | Per- iodicity 32 | CRES | MDG
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Subarea | Indicator | Year | Value | Year | 2015 | Producer | MIC Code | Code
-4.1. Education | 2009 | 67% (MICS) | 100 % | Min.
-Net primary school enrollment rate | RGPH, ILAP, MICS | National Education, INE | 3 years | 27 | 6
-Primary school completion rate | 2006 | 4.1% | Scholastic statistics | Min. National Education, INE | Annual | 28 | 7
-Literacy rate for persons 15 years of age and over Men | 2009 | 52.04% | RGPH, ILAP, MICS | Min. National Education, | 3 years | 10
-Total Percentage of births attended by qualified health personnel | 2009 | 43.72% 44% (MICS) | MICS, ILAP, QUIBB, Health and reproduction survey | Ministry of Health, INE | 3 years | 22 | 17
-Infant-juvenile mortality rate | 2009 | 158‰ | RGPH, MICS, ILAP/QUIBB, Health and reproduction survey | Ministry of Health, INE | 3 years | 19 | 13
-4.2. Health and nutrition | Infant mortality rate | 2009 | 103‰ | RGPH, MICS, ILAP/QUIBB, Health and reproduction | Ministry of Health, INE | 3 years | 18 | 14
-Antigen vaccine coverage ratio: BCG | survey MICS, Health and reproduction | Ministry of
-Measles | 2009 | 93% 61% | survey, health | Health, | 15 33
-DTC3 | 76% | statistics | INE | 3 years | 17
-Polio | 73%
-Yellow fever | 49%
+Subarea | Indicator | Benchmark situation |  | Target |  | Source of information | Responsible agency/Producer | Periodicity 32 | CRESMIC Code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Year | Value | Year | 2015 |  |  |  |  | 
+4.1. Education | Net primary school enrollment rate | 2009 | 67% (MICS) |  | 100% | RGPH, ILAP, MICS | Min. National Education, INE | 3 years | 27 | 6
+ | Primary school completion rate | 2006 | 4.1% |  |  | Scholastic statistics | Min. National Education, INE | Annual | 28 | 7
+ | Literacy rate for persons 15 years of age and over: Men; Women; Total | 2009 | 52.04%; 35.88%; 43.72% |  |  | RGPH, ILAP, MICS | Min. National Education, INE | 3 years |  | 10
+4.2. Health and nutrition | Percentage of births attended by qualified health personnel | 2009 | 44% (MICS) |  |  | MICS, ILAP, QUIBB, Health and reproduction survey | Ministry of Health, INE | 3 years | 22 | 17
+ | Infant-juvenile mortality rate | 2009 | 158‰ |  |  | RGPH, MICS, ILAP/QUIBB, Health and reproduction survey | Ministry of Health, INE | 3 years | 19 | 13
+ | Infant mortality rate | 2009 | 103‰ |  |  | RGPH, MICS, ILAP/QUIBB, Health and reproduction survey | Ministry of Health, INE | 3 years | 18 | 14
+ | Antigen vaccine coverage ratio: BCG; Measles; DTC3; Polio; Yellow fever | 2009 | 93%; 61%; 76%; 73%; 49% |  |  | MICS, Health and reproduction survey, health statistics | Ministry of Health, INE | 3 years | 17 | 15 33
 
 > 32 Forecast.
 
@@ -3675,15 +3741,15 @@ Yellow fever | 49%
 
 [[START OF PAGE 127]]
 
-Benchmark situation | Target | Source of | Respon- sible agency/ | Per- iodicity 32 | CRES MIC | MDG
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Subarea | Indicator | Year | Value | information | Producer | Code | Code
-Number of orphans with HIV/AIDS | 2009 | 9,700 (UN- AIDS est.) | MICS, Health and reproduction surveys | Ministry of Health, INE | 3 years | 20
-Rate of HIV prevalence among pregnant women 15- 24 years of age | 2010 | 3.2% | Centennial study | Ministry of Health National Institute of Public Health | Annual | 18
-Percentage of underweight children under five years of age | 2006 | 19.4% | RGPH, MICS, ILAP/QUIBB, Health and reproduction survey, food survey | INE | 3 years | 25 | 4
-4.3. Water and sanitation | Proportion of the population with access to drinking water | 2009 | 66% (MICS) | RGPH, MICS, ILAP, EDS, Survey 1-2 | INE | 3 years | 37 | 30
-Proportion of the population with access to an improved sanitation system | 2009 | 16% (MICS) | RGPH, MICS, ILAP, EDS, Survey 1-2 | INE | 3 years | 39 | 31
-4.5. [sic] Social security and housing | Proportion of the population with access to home occupancy security | 2009 | 73.1% (RGPH) | RGPH, MICS, ILAP, EDS, Survey 1-2 | INE | 3 years | 40 | 32
+Subarea | Indicator | Benchmark situation |  | Target |  | Source of information | Responsible agency/Producer | Periodicity 32 | CRESMIC Code | MDG Code
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+ |  | Year | Value | Year | 2015 |  |  |  |  | 
+ | Number of orphans with HIV/AIDS | 2009 | 9,700 (UN-AIDS est.) |  |  | MICS, Health and reproduction surveys | Ministry of Health, INE | 3 years |  | 20
+ | Rate of HIV prevalence among pregnant women 15-24 years of age | 2010 | 3.2% |  |  | Centennial study | Ministry of Health National Institute of Public Health | Annual |  | 18
+ | Percentage of underweight children under five years of age | 2006 | 19.4% |  |  | RGPH, MICS, ILAP/QUIBB, Health and reproduction survey, food survey | INE | 3 years | 25 | 4
+4.3. Water and sanitation | Proportion of the population with access to drinking water | 2009 | 66% (MICS) |  |  | RGPH, MICS, ILAP, EDS, Survey 1-2 | INE | 3 years | 37 | 30
+ | Proportion of the population with access to an improved sanitation system | 2009 | 16% (MICS) |  |  | RGPH, MICS, ILAP, EDS, Survey 1-2 | INE | 3 years | 39 | 31
+4.5. [sic] Social security and housing | Proportion of the population with access to home occupancy security | 2009 | 73.1% (RGPH) |  |  | RGPH, MICS, ILAP, EDS, Survey 1-2 | INE | 3 years | 40 | 32
 
 126
 
