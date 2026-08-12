@@ -14,7 +14,7 @@ Nombre de la persona de contacto: Olga Acosta Amel
 
 Correo electrónico y número de teléfono de la persona de contacto: oacosta@mineducacion.gov.co
 
-## Ratificación  y  aplicación  de  la  Convención  relativa  a  la  Lucha  contra  las Discriminaciones en la Esfera de la Enseñanza [1]
+## I. Ratificación  y  aplicación  de  la  Convención  relativa  a  la  Lucha  contra  las Discriminaciones en la Esfera de la Enseñanza [1]
 
 [1] https://www.unesco.org/es/legal-affairs/convention-against-discrimination-education
 
@@ -22,37 +22,37 @@ Correo electrónico y número de teléfono de la persona de contacto: oacosta@mi
 
 Seleccione una de las siguientes opciones
 
-Sí
+○ Sí
 
-No
+◉ No
 
-Sin respuesta
+○ Sin respuesta
 
 ¿Tiene previsto su país ratificar este instrumento?
 
 Seleccione una de las siguientes opciones
 
-Sí
+◉ Sí
 
-No, no se tiene prevista una ratificación
+○ No, no se tiene prevista una ratificación
 
-Sin respuesta
+○ Sin respuesta
 
 - Indique en qué estado del proceso de ratificación se encuentra su país y si necesita asistencia:
 
 Seleccione una de las siguientes opciones
 
-• Hay interés, pero no se han tomado medidas concretas
+• ○ Hay interés, pero no se han tomado medidas concretas
 
 [[END OF PAGE 1]]
 
 [[START OF PAGE 2]]
 
-- Se ha iniciado el proceso de ratificación
+- ◉ Se ha iniciado el proceso de ratificación
 
-- El proceso de ratificación está a punto de concluir
+- ○ El proceso de ratificación está a punto de concluir
 
-- Sin respuesta
+- ○ Sin respuesta
 
 - Explique  brevemente,  cuando  proceda,  las  medidas  que  se  han  tomado  y  el calendario,  así  como  las  dificultades  con  las  que  se  ha  tropezado  (jurídicas, institucionales,  políticas  o  prácticas)  en  el  proceso  de  ratificación.  Indique  en  que puede ayudarle la UNESCO.
 
@@ -62,11 +62,11 @@ Colombia ha iniciado el proceso de ratificación de la Convención para lo cual,
 
 Seleccione una de las siguientes opciones
 
-Sí
+◉ Sí
 
-No
+○ No
 
-Sin respuesta
+○ Sin respuesta
 
 ¿Se han pronunciado los juzgados, tribunales o autoridades administrativas sobre cuestiones o violaciones relativas al derecho a la educación [1]?
 
@@ -74,25 +74,25 @@ Sin respuesta
 
 Seleccione una de las siguientes opciones
 
-Sí
+◉ Sí
 
-No
+○ No
 
-Sin respuesta
+○ Sin respuesta
 
 ¿Se han invocado las disposiciones de la Convención?
 
 Seleccione una de las siguientes opciones
 
-Sí
+○ Sí
 
-No
+○ No
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Sin respuesta
+◉ Sin respuesta
 
 - Cite ejemplos de precedentes o jurisprudencia.
 
@@ -102,19 +102,21 @@ La Constitución Política de Colombia, desde su preámbulo, reconoce la plurali
 
 A su vez, el artículo 1º de la Constitución Política consagra que Colombia es un Estado Social de Derecho de carácter pluralista, lo que va de la mano con el artículo 7 de la Carta Fundamental que, no sólo reconoce, sino que, también, estipula la protección de la diversidad étnica y cultural de la nación colombiana.
 
-Por otro lado, el artículo 13 Superior establece que: ' Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y  gozarán  de  los  mismos  derechos,  libertades  y  oportunidades  sin  ninguna discriminación  por  razones  de  sexo,  raza,  origen  nacional  o  familiar,  lengua, religión, opinión política o filos ófica'. Esta norma constitucional, adicionalmente, consagra expreso mandato para que el Estado promueva las condiciones para que la  igualdad  sea  real  y  efectiva,  y  ordena  adoptar ' medidas en favor de grupos discriminados o marginados '.
+Por otro lado, el artículo 13 Superior establece que: “Todas las personas nacen libres e iguales ante la ley, recibirán la misma protección y trato de las autoridades y gozarán de los mismos derechos, libertades y oportunidades sin ninguna discriminación por razones de sexo, raza, origen nacional o familiar, lengua, religión, opinión política o filosófica”. Esta norma constitucional, adicionalmente, consagra expreso mandato para que el Estado promueva las condiciones para que la igualdad sea real y efectiva, y ordena adoptar “medidas en favor de grupos discriminados o marginados”.
 
 Colombia suscribió la Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial, Ley 22 de 1981; igualmente, mediante la Ley 21 de 1991, aprobó el Convenio número 169 sobre pueblos indígenas y tribales para el goce pleno de sus derechos humanos y libertades fundamentales, sin obstáculos de discriminación; así mismo, aprobó la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer, Ley 51 de 1981; y la Convención sobre  los  Derechos  de  las  Personas  con  Discapacidad,  Ley  1346  de  2009,  que prohíben la discriminación por motivos de discapacidad.
 
 Por  su  parte,  la  Corte  Constitucional,  en  su  jurisprudencia  ha  sancionado  toda expresión de discriminación, a la que ha definido, según la Sentencia T-1090 de 2005, como: 'un acto arbitrario dirigido a perjudicar a una persona o grupo de personas  con  base  principalmente  en  estereotipos  o  perjuicios  sociales,  por  lo general ajenos a la voluntad del individuo, como son el sexo, la raza, el origen nacional  o  familiar,  o  por  razones  irrelevantes  para  hacerse  acreedor  de  un perjuicio o beneficio como la lengua, la religión o la opinión política o filosófica'.
 
-Agrega la Corte en el mismo fallo, 'que el acto discriminatorio es la conducta, actitud o trato que pretende consciente o inconscientemente anular, dominar o ignorar  a  una  persona  o  grupo  de  personas,  con  frecuencia  apelando  a preconcepciones o prejuicios sociales o personales, y que trae como resultado la violación de sus derechos fundamentales '. 1
+Agrega la Corte en el mismo fallo, “que el acto discriminatorio es la conducta, actitud o trato que pretende consciente o inconscientemente anular, dominar o ignorar a una persona o grupo de personas, con frecuencia apelando a
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-La Constitución Política de Colombia establece la educación como un derecho 'Artículo 67. Artículo 67. La educación es un derecho de la persona y un servicio público que tiene una función social; con ella se busca el acceso al conocimiento, a la ciencia, a la técnica, y a los demás bienes y valores de la cultura.' De igual manera, el país promueve desde el Código de Infancia y Adolescencia en su artículo 28 que: 'Derecho a la educación. Los niños, las niñas y los adolescentes tienen derecho a una educación de calidad. Esta será obligatoria por parte del Estado en un año de preescolar y nueve de educación básica. De esta manera, corresponde al Estado garantizar el adecuado cubrimiento del servicio y asegurar a los niños, niñas, adolescentes, jóvenes y adultos las condiciones necesarias para su acceso y permanencia en el sistema educativo.
+preconcepciones o prejuicios sociales o personales, y que trae como resultado la violación de sus derechos fundamentales”.1
+
+La Constitución Política de Colombia establece la educación como un derecho “Artículo 67. Artículo 67. La educación es un derecho de la persona y un servicio público que tiene una función social; con ella se busca el acceso al conocimiento, a la ciencia, a la técnica, y a los demás bienes y valores de la cultura.” De igual manera, el país promueve desde el Código de Infancia y Adolescencia en su artículo 28 que: “Derecho a la educación. Los niños, las niñas y los adolescentes tienen derecho a una educación de calidad. Esta será obligatoria por parte del Estado en un año de preescolar y nueve de educación básica. De esta manera, corresponde al Estado garantizar el adecuado cubrimiento del servicio y asegurar a los niños, niñas, adolescentes, jóvenes y adultos las condiciones necesarias para su acceso y permanencia en el sistema educativo.
 
 En  ese  sentido,  el Ministerio  de  Educación  Nacional ,  en  el  marco  de  sus competencias referidas en el Decreto 5012 de 2009, a través de sus programas y acciones, avanza en la garantía del derecho a la educación y da cumplimiento a la Ley 1752 de 2015 , que tiene por objeto garantizar la protección de los derechos de una persona, grupo de personas, comunidad o pueblo, que son vulnerados a través  de  actos  de  discriminación  por  razones  de  etnia,  religión,  nacionalidad, ideología  política  o  filosófica,  sexo  u  orientación  sexual,  discapacidad  y  demás razones  de  discriminación.  Ahora  bien,  el  Ministerio  de  Educación  Nacional, contribuye  a  través  de  procesos  de  inclusión  y  equidad  en  la  educación,  al reconocimiento de manera pertinente de la diversidad de características, intereses, posibilidades y expectativas de los niñas, niños, adolescentes, jóvenes y personas adultas  y  mayores.  Esta  pertinencia  se  centra  en  el  desarrollo  integral  y participación de toda la población, en un ambiente pedagógico y de aprendizaje sin discriminación o exclusión alguna, garantizando, en el marco de los derechos humanos, los apoyos y los ajustes razonables requeridos, reduciendo las brechas, a través de prácticas, políticas y culturas que eliminen las barreras existentes en el contexto educativo. En ese sentido, la inclusión y la equidad en la educación se convierte en la posibilidad de impulsar la transformación de la sociedad hacia la garantía del desarrollo humano, integral y sostenido que contribuya a la equidad para generar igualdad de oportunidades, como lo establece el Plan Decenal de Educación 2016-2026 .
 
@@ -122,13 +124,15 @@ Es en ese contexto que debe ser garantizado el derecho a la educación consagrad
 
 'Artículo 67. La educación es un derecho de la persona y un servicio público que tiene una función social; con ella se busca el acceso al conocimiento, a la ciencia, a la técnica, y a los demás bienes y valores de la cultura.
 
-La educación formará al colombiano en el respeto a los derechos humanos, a la paz y a la democracia; y en la práctica del trabajo y la recreación, para el mejoramiento  cultural,  científico,  tecnológico  y  para  la  protección  del ambiente.
+La educación formará al colombiano en el respeto a los derechos humanos, a la paz y a la democracia; y en la práctica del trabajo y la recreación, para el
 
-> 1 Tomado de: https://www.asuntoslegales.com.co/actualidad/ley-antidiscriminacion-encolombia-2021916
+> 1 Tomado de: https://www.asuntoslegales.com.co/actualidad/ley-antidiscriminacion-en-colombia-2021916
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+mejoramiento cultural, científico, tecnológico y para la protección del ambiente.
 
 El Estado, la sociedad y la familia son responsables de la educación, que será obligatoria entre los cinco y los quince años y que comprenderá como mínimo, un año de preescolar y nueve de educación básica.
 
@@ -145,7 +149,7 @@ En esos términos, sobre el presupuesto del reconocimiento constitucional de la 
 ## II. Información sobre la aplicación de la Convención y la Recomendación en el contexto del Objetivo de Desarrollo Sostenible 4 (ODS 4)
 ### 1. Hacia un sistema educativo inclusivo y no discriminatorio
 
-A  título  de  referencia,  esta  parte  se  refiere  al  objetivo  principal  de  la  Convención  y  la Recomendación,  a  saber,  subrayar  la  obligación  de  los  Estados  de  prohibir  toda  forma  de discriminación en la enseñanza y promover al mismo tiempo la igualdad de oportunidades educativas como lo estipulan los artículos/párrafos 1.1, 2 y 3 de la Convención/Recomendación.
+A título de referencia, esta parte se refiere al objetivo principal de la Convención y la Recomendación, a saber, subrayar la obligación de los Estados de prohibir toda forma de
 
 > 2 Véase sentencia T-743 de 2013.
 
@@ -153,7 +157,9 @@ A  título  de  referencia,  esta  parte  se  refiere  al  objetivo  principal  
 
 [[START OF PAGE 6]]
 
-Este  aspecto  corresponde  además  a  la  aspiración  general  del  ODS 4,  que  tiene  por  objeto 'garantizar  una  educación  inclusiva  y  equitativa  de  calidad  y  promover  oportunidades  de aprendizaje permanente para todos' de aquí a 2030. Por tanto, abarca todas las m etas del ODS 4, pero especialmente la meta 4.5 [1].
+discriminación en la enseñanza y promover al mismo tiempo la igualdad de oportunidades educativas como lo estipulan los artículos/párrafos 1.1, 2 y 3 de la Convención/Recomendación.
+
+Este aspecto corresponde además a la aspiración general del ODS 4, que tiene por objeto “garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos” de aquí a 2030. Por tanto, abarca todas las metas del ODS 4, pero especialmente la meta 4.5 [1].
 
 [1] En la que se insta a los Estados a 'eliminar las disparidades de género en la educación y asegurar el acceso igualitario a todos los niveles de la enseñanza y la formación profesional para las personas vulnerables, incluidas las personas con discapacidad, los pueblos indígenas y los niños en situaciones de vulnerabilidad'.
 
@@ -161,21 +167,23 @@ Este  aspecto  corresponde  además  a  la  aspiración  general  del  ODS 4,  q
 
 Seleccione una de las siguientes opciones
 
-Sí
+◉ Sí
 
-No
+○ No
 
-Sin respuesta
+○ Sin respuesta
 
 - En caso afirmativo, indique las referencias.
 
 La Agenda 2030 para el Desarrollo Sostenible, con la atención puesta en no dejar a  nadie  atrás,  brinda  una  oportunidad  única  para  construir  sociedades  más inclusivas, justas y equitativas. La cuestión de cómo encontrar condiciones para llegar a todas las personas y ofrecerles las mismas oportunidades de progreso educativo sigue siendo un reto importante en todo el mundo. Este reto incluye, aunque  no  se  limita  a,  superar  las  dificultades  para  atender  la  gran  riqueza poblacional que existe en los países en términos de sexo, edad, origen étnico, estatus migratorio, capacidad, ubicación geográfica, entre otros. Bajo esta mirada, la inclusión y la equidad en la educación son apuestas globales que trascienden lo poblacional. Por lo tanto, si bien es cierto, la inclusión ha sido pieza clave en el cumplimiento de los derechos de las personas con discapacidad, otras poblaciones y grupos históricamente excluidos, también son parte importante en este proceso enmarcado en el ODS4.
 
-Esta alineación entre el enfoque del Plan de Desarrollo 2022 -2026 ' Colombia, potencia mundial por la vida ' con la Agenda 2030 en general y la Declaración de Incheon  en  particular,  ha  hecho  que  Colombia  sea  líder  en  el  desarrollo  de estrategias  para  el  cumplimiento  de  los  Objetivos  de  Desarrollo  Sostenible, priorizando en dicho Plan una proporción importante de las metas de los ODS. Para lo anterior, el país ha decidido contemplar cuatro (4) pilares para el cumplimiento de  los  ODS:  un  esquema  de  seguimiento  y  reporte,  una  estrategia  territorial, fortalecimiento de alianzas con actores no gubernamentales y el acceso a datos abiertos para el seguimiento oportuno y pertinente, ubicando a Colombia como uno de los países pioneros en garantizar acciones para avanzar en el cumplimiento de la agenda 2030.
+Esta alineación entre el enfoque del Plan de Desarrollo 2022 -2026 “Colombia, potencia mundial por la vida” con la Agenda 2030 en general y la Declaración de Incheon en particular, ha hecho que Colombia sea líder en el desarrollo de estrategias para el cumplimiento de los Objetivos de Desarrollo Sostenible, priorizando en dicho Plan una proporción importante de las metas de los ODS. Para lo anterior, el país ha decidido contemplar cuatro (4) pilares para el cumplimiento
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
+
+de los ODS: un esquema de seguimiento y reporte, una estrategia territorial, fortalecimiento de alianzas con actores no gubernamentales y el acceso a datos abiertos para el seguimiento oportuno y pertinente, ubicando a Colombia como uno de los países pioneros en garantizar acciones para avanzar en el cumplimiento de la agenda 2030.
 
 Para avanzar en el ARTÍCULO 5 de la Convención, Colombia desde 1994 estableció en su Ley General de Educación. ... La formación en el respeto a la vida y a los demás derechos humanos, a la paz, a los principios democráticos, de convivencia, pluralismo, justicia, solidaridad y equidad, así como en el ejercicio de  la  tolerancia  y  de  la  libertad.  Por  tanto,  todas  las  políticas,  programas  y proyectos dan cumplimiento al mandato constitucional y a lo establecido en la ley 115 de1994 'Ley General de Educación' Adicionalmente, las leyes 1620 de 2013 'por  medio  de  la  cual  se  creó  el  Sistema  Nacional  de Convivencia  Escolar  y Formación  para  el  ejercicio  de  los  Derechos  Humanos,  la  educación  para  la sexualidad  y  la  prevención  y  mitigación  de  la  violencia escolar' que  lidera  el Ministerio de Educación y la Ley 1752 de 2015, por medio de la cual se modifica la  Ley  1482  de  2011,  para sancionar  penalmente  la  discriminación  contra  las personas con discapacidad , y que también son base para el diseño e implementación de programas para la promoción del desarrollo de competencias ciudadanas y socioemocionales.
 
@@ -183,29 +191,35 @@ Acorde con la Constitución de 1991 y la Ley General de Educación (Ley 115/94),
 
 Las competencias ciudadanas establecidas en los estándares, se complementan con las exigencias de la Ley 115 de 1994 en su artículo 14 y por ello entre los años 2004 y 2010, con la participación de instituciones, docentes, estudiantes, investigadores y familias de todo el país, se estructuraron, a través de varios pilotajes, los Programas Pedagógicos Transversales de (i) Educación Ambiental, (ii) Educación para la Sexualidad y Construcción de Ciudadanía, (iii) Educación para el Ejercicio de los Derechos Humanos y (iv) Estilos de Vida Saludables.
 
-Entre el 2019 y 2022, se implementa la línea estratégica de 'Entornos escolares para  la  vida,  la  convivencia  y  la ciudadanía' ,  que  se  enfocó  en  el  desarrollo socioemocional  de  niñas,  niños,  adolescentes  y  jóvenes  de  Colombia  y  se desarrolló en 4 componentes: 1) Emociones para la Vida: promovió en el aula el reconocimiento y manejo de emociones, la convivencia y la ciudadanía 2) Sistema Nacional de Convivencia Escolar: Consolidó  la participación de los estudiantes en los procesos de convivencia, creó e implementó el Sistema Único de Información de Convivencia Escolar -SIUCE, para el reporte y seguimiento a casos que afectan la convivencia pacífica y estructuró y socializó protocolos para la prevención de situaciones que vulneran la integridad de niñas, niños y adolescentes: Abordaje pedagógico del Racismo y la Discriminación Étnico-Racial y, de la Xenofobia, en entornos escolares,  el consumo de sustancias psicoactivas, las violencias basadas en género, suicidio y, uno especial para intervención adecuada de la policía en entornos escolares. 3) Fortalecimiento de la alianza familia - escuela: Las familias son el primer referente para la niñez. Las interacciones que suceden en su entorno familiar desde la primera infancia son determinantes para los demás ciclos de vida y por ello, lo que sucede con las familias decididamente, incide en la forma como los niños, niñas y adolescentes se relacionan consigo mismos, con los demás y con el entorno, y a partir de allí construyen y consolidan sus proyectos de vida. Dada la  importancia  de  esta  estrategia  fue  oficialmente  creada,  mediante  Decreto Presidencial N°459 del 10 de abril de 2024 ' Por medio del cual se reglamenta la participación de las familias en los procesos educativos de los establecimientos educativos oficiales y no oficiales, de educación preescolar, básica y media para promover el desarrollo integral de niñas, niños y adolescentes ' . 4) Promoción de una  educación  para  la  Historia,  la  Ética  y  la  Ciudadanía:  en  el  marco  de  este componente  el  Ministerio  adelantó  acciones  específicas  que  contribuyeron  al reconocimiento y fortalecimiento de estrategias para la democracia, los comportamientos cívicos y el desarrollo del pensamiento crítico e histórico en los estudiantes en Colombia; los conceptos de equidad, inclusión y diversidad en la educación se han concebido desde la capacidad que tiene el sistema educativo de responder de manera pertinente y oportuna a las diferentes culturas que atiende, reconociendo y enalteciendo la diferencia, y aceptando la pluralidad, multiculturalidad y demás características diversas en cada contexto. Es decir, la valoración de la diferencia, impactando en la generación de políticas y estrategias para que todas las personas participen de manera plena y efectiva en la sociedad. Esta diversidad responde a particularidades de toda la población, transformando prácticas, políticas y culturas institucionales. Una de las principales apuestas es la generación  de  condiciones  que  aseguren,  de  manera  progresiva,  un  servicio educativo de calidad, en el marco de una atención integral, que impacte de manera positiva la consolidación y seguimiento de trayectorias educativas completas de todos y todas.
+Entre el 2019 y 2022, se implementa la línea estratégica de “Entornos escolares para la vida, la convivencia y la ciudadanía”, que se enfocó en el desarrollo socioemocional de niñas, niños, adolescentes y jóvenes de Colombia y se desarrolló en 4 componentes: 1) Emociones para la Vida: promovió en el aula el reconocimiento y manejo de emociones, la convivencia y la ciudadanía 2) Sistema Nacional de Convivencia Escolar: Consolidó la participación de los estudiantes en los procesos de convivencia, creó e implementó el Sistema Único de Información de Convivencia Escolar -SIUCE, para el reporte y seguimiento a casos que afectan la convivencia pacífica y estructuró y socializó protocolos para la prevención de
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
+situaciones que vulneran la integridad de niñas, niños y adolescentes: Abordaje pedagógico del Racismo y la Discriminación Étnico-Racial y, de la Xenofobia, en entornos escolares, el consumo de sustancias psicoactivas, las violencias basadas en género, suicidio y, uno especial para intervención adecuada de la policía en entornos escolares. 3) Fortalecimiento de la alianza familia - escuela: Las familias son el primer referente para la niñez. Las interacciones que suceden en su entorno familiar desde la primera infancia son determinantes para los demás ciclos de vida y por ello, lo que sucede con las familias decididamente, incide en la forma como los niños, niñas y adolescentes se relacionan consigo mismos, con los demás y con el entorno, y a partir de allí construyen y consolidan sus proyectos de vida. Dada la importancia de esta estrategia fue oficialmente creada, mediante Decreto Presidencial N°459 del 10 de abril de 2024 “Por medio del cual se reglamenta la participación de las familias en los procesos educativos de los establecimientos educativos oficiales y no oficiales, de educación preescolar, básica y media para promover el desarrollo integral de niñas, niños y adolescentes”. 4) Promoción de una educación para la Historia, la Ética y la Ciudadanía: en el marco de este componente el Ministerio adelantó acciones específicas que contribuyeron al reconocimiento y fortalecimiento de estrategias para la democracia, los comportamientos cívicos y el desarrollo del pensamiento crítico e histórico en los estudiantes en Colombia; los conceptos de equidad, inclusión y diversidad en la educación se han concebido desde la capacidad que tiene el sistema educativo de responder de manera pertinente y oportuna a las diferentes culturas que atiende, reconociendo y enalteciendo la diferencia, y aceptando la pluralidad, multiculturalidad y demás características diversas en cada contexto. Es decir, la valoración de la diferencia, impactando en la generación de políticas y estrategias para que todas las personas participen de manera plena y efectiva en la sociedad. Esta diversidad responde a particularidades de toda la población, transformando prácticas, políticas y culturas institucionales. Una de las principales apuestas es la generación de condiciones que aseguren, de manera progresiva, un servicio educativo de calidad, en el marco de una atención integral, que impacte de manera positiva la consolidación y seguimiento de trayectorias educativas completas de todos y todas.
+
 Desde la Constitución Política de Colombia en sus artículos 7 y 10 se reconoce y protege a los grupos étnicos, igualmente mediante la Ley 21 de 1991 el país aprobó el Convenio número 169 sobre pueblos indígenas y tribales en países independientes,  adoptado  por  la  76a.  reunión  de  la  Conferencia  General  de  la O.I.T., Ginebra 1989.
 
-En el contexto educativo, estas garantías se ven reflejadas en la Ley General de Educación  115  de  1994  y  concretamente  en  los  principios  establecidos  en  el Decreto 804 de 1995 en el cual se establece que la educación para grupos étnicos hace  parte  del  servicio  público  educativo  y  se  sustenta  en  un  compromiso  de elaboración colectiva, donde los distintos miembros de la comunidad en general, intercambian saberes y vivencias con miras a mantener, recrear y desarrollar un proyecto global de vida de acuerdo con su cultura, su lengua, sus tradiciones y sus fueros propios y autóctonos. Sus principios son: a) Integralidad, entendida como la concepción global que cada pueblo posee y que posibilita una relación armónica y recíproca entre los hombres, su realidad social y la naturaleza; b) Diversidad lingüística, entendida como las formas de ver, concebir y construir el mundo que tienen los grupos étnicos, expresadas a través de las lenguas que hacen parte de la realidad nacional en igualdad de condiciones; c) Autonomía, entendida como el derecho de los grupos étnicos para desarrollar sus procesos etnoeducativos; d) Participación comunitaria, entendida como la capacidad de los grupos étnicos para orientar,  desarrollar  y  evaluar  sus  procesos  etnoeducativos,  ejerciendo  su autonomía; e) Interculturalidad, entendida como la capacidad de conocer la cultura propia y otras culturas que interactúan y se enriquecen de manera dinámica y recíproca,  contribuyendo  a  plasmar  en  la  realidad  social,  una  coexistencia  en igualdad  de  condiciones  y  respeto  mutuo;  f)  Flexibilidad,  entendida  como  la construcción permanente de los procesos etnoeducativos, acordes con los valores culturales, necesidades y particularidades de los grupos étnicos; g) Progresividad, entendida  como  la  dinámica  de  los  procesos  etnoeducativos  generada  por  la investigación,  que  articulados  coherentemente  se  consolidan  y  contribuyen  al desarrollo  del  conocimiento,  y  h)  Solidaridad,  entendida  como  la  cohesión  del grupo  alrededor  de  sus  vivencias  que  le  permite  fortalecerse  y  mantener  su existencia, en relación con los demás grupos sociales.
+En el contexto educativo, estas garantías se ven reflejadas en la Ley General de Educación 115 de 1994 y concretamente en los principios establecidos en el Decreto 804 de 1995 en el cual se establece que la educación para grupos étnicos hace parte del servicio público educativo y se sustenta en un compromiso de elaboración colectiva, donde los distintos miembros de la comunidad en general, intercambian saberes y vivencias con miras a mantener, recrear y desarrollar un proyecto global de vida de acuerdo con su cultura, su lengua, sus tradiciones y sus fueros propios y autóctonos. Sus principios son: a) Integralidad, entendida como la concepción global que cada pueblo posee y que posibilita una relación armónica y recíproca entre los hombres, su realidad social y la naturaleza; b) Diversidad lingüística, entendida como las formas de ver, concebir y construir el mundo que tienen los grupos étnicos, expresadas a través de las lenguas que hacen parte de la realidad nacional en igualdad de condiciones; c) Autonomía, entendida como el
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
+derecho de los grupos étnicos para desarrollar sus procesos etnoeducativos; d) Participación comunitaria, entendida como la capacidad de los grupos étnicos para orientar, desarrollar y evaluar sus procesos etnoeducativos, ejerciendo su autonomía; e) Interculturalidad, entendida como la capacidad de conocer la cultura propia y otras culturas que interactúan y se enriquecen de manera dinámica y recíproca, contribuyendo a plasmar en la realidad social, una coexistencia en igualdad de condiciones y respeto mutuo; f) Flexibilidad, entendida como la construcción permanente de los procesos etnoeducativos, acordes con los valores culturales, necesidades y particularidades de los grupos étnicos; g) Progresividad, entendida como la dinámica de los procesos etnoeducativos generada por la investigación, que articulados coherentemente se consolidan y contribuyen al desarrollo del conocimiento, y h) Solidaridad, entendida como la cohesión del grupo alrededor de sus vivencias que le permite fortalecerse y mantener su existencia, en relación con los demás grupos sociales.
+
 El Sistema Nacional de Convivencia Escolar establecido mediante la Ley 1620 de 2013, cuenta con la Ruta de Atención Integral para la Convivencia Escolar, que busca apoyar al sector educativo en el fortalecimiento del ejercicio de los derechos humanos,  sexuales  y  reproductivos,  la  mitigación  de  riesgos,  el  manejo  de situaciones que afectan la convivencia escolar, y el seguimiento a las situaciones que afectan la convivencia escolar . Un componente importante de esta Ruta, son los  protocolos  para  la  convivencia  escolar,  donde  el  Ministerio  de  Educación Nacional avanzó diseñando y socializando el protocolo para el abordaje pedagógico del  racismo  y  la  discriminación  étnico  racial  en  entornos  escolares  y,  para  el abordaje  de  la  xenofobia,  teniendo  en  cuenta  los  efectos  de  la  migración  de venezolanos en Colombia. Estos protocolos son una hoja de ruta para que los establecimientos educativos puedan responder de manera integral ante situaciones de discriminación por razones de raza, étnica o procedencia territorial (específicamente migrantes), que generan prácticas de exclusión y estigmatización contra niños, niñas y adolescentes.
 
 Colombia cuenta con la  Ley  1482  de  2011,  que  tiene  por  objeto  garantizar  la protección  de  los  derechos  de  una  persona,  grupo  de  personas,  comunidad  o pueblo, que sean vulnerados a través de actos de racismo o discriminación. De esta manera, se da desarrollo al Estado Social de Derecho, con el cual pretendemos identificarnos en medio de la diferencia, a través de los principios constitucionales fundamentales  del  pluralismo,  artículo  1,  el  principio  de  la  diversidad  étnica artículo  7  y  el  multiculturalismo  del  artículo  70  de  la  Constitución  Nacional. Además, la Ley 1482 de 2011, incorpora el artículo 102 del Código Penal sobre la apología  del  genocidio,  estableciendo  que  'El  que  por  cualquier  medio  difunda ideas o doctrinas que propicien, promuevan, el genocidio o el antisemitismo o de alguna  forma  lo  justifiquen  o  pretendan  la  rehabilitación  de  regímenes  o instituciones  que  amparen  prácticas  generadoras  de  las  mismas,  incurrirá  en prisión  de  96  a  180  meses,  multa  de  666.66  a  1500  salarios  mínimos  legales mensuales  vigentes,  e  inhabilitación  para  el  ejercicio  de  derechos  y  funciones públicas de 80 a 180 meses'.
 
-Por su parte, La Corte Constitucional en la Sentencia T-1090 de 2005, ha definido la discriminación como: 'un acto arbitrario dirigido a perjudicar a una persona o grupo de personas con base principalmente en estereotipos o perjuicios sociales, por lo general ajenos a la voluntad del individuo, como son el sexo, la raza, el origen nacional o familiar, o por razones irrelevantes para hacerse acreedor de un perjuicio o beneficio como la lengua, la religión o la opinión política o filosófica' . Agrega la Corte en el mismo fallo, 'que el acto discriminatorio es la conducta, actitud o trato que pretende consciente o inconscientemente anular, dominar o ignorar  a  una  persona  o  grupo  de  personas,  con  frecuencia  apelando  a preconcepciones o prejuicios sociales o personales, y que trae como resultado la violación de sus derechos fundamen tales'.
+Por su parte, La Corte Constitucional en la Sentencia T-1090 de 2005, ha definido la discriminación como: “un acto arbitrario dirigido a perjudicar a una persona o grupo de personas con base principalmente en estereotipos o perjuicios sociales, por lo general ajenos a la voluntad del individuo, como son el sexo, la raza, el
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
+
+origen nacional o familiar, o por razones irrelevantes para hacerse acreedor de un perjuicio o beneficio como la lengua, la religión o la opinión política o filosófica”. Agrega la Corte en el mismo fallo, “que el acto discriminatorio es la conducta, actitud o trato que pretende consciente o inconscientemente anular, dominar o ignorar a una persona o grupo de personas, con frecuencia apelando a preconcepciones o prejuicios sociales o personales, y que trae como resultado la violación de sus derechos fundamentales”.
 
 En  el  actual Plan  Nacional  de  Desarrollo  2022-2026 'Colombia,  potencia mundial de la vida', se incluyó la Transformación Número 2. ' Seguridad humana y justicia social' , del cual hace parte el ' Pilar Superación de Privaciones', como fundamento de la dignidad humana y condiciones básicas para el bienestar; así mismo, en este pilar se incluye el catalizador Número 3. ' Educación de Calidad para Reducir la Desigualdad' , en el que se incluyen los siguientes componentes:
 
@@ -245,7 +259,7 @@ En ese mismo sentido, para la concreción de los compromisos del Plan Nacional d
 
 - Capacidades territoriales
 
-- Plan nacional de espacios educativos como centros de la vida comunitariaInfraestructura educativa
+- Plan nacional de espacios educativos como centros de la vida comunitaria-Infraestructura educativa
 
 - Gratuidad  de  la  matrícula  de  educación  superior  de  calidad,  equidad  y pertinencia territorial, hasta lograr su universalización.
 
@@ -255,7 +269,7 @@ En ese mismo sentido, para la concreción de los compromisos del Plan Nacional d
 
 [[START OF PAGE 11]]
 
-Es  importante  considerar  que,  a  pesar  de  que  la  Convención  solo  refiere  a  la educación primaria hasta la educación superior, la evolución normativa de la educación inicial acoge los principios de igualdad, no discriminación, prevalencia de derechos de las niñas y los niños sobre los demás, garantía de s acceso y permanencia sin importar su origen étnico, género, capacidad, orientación sexual, religión o cualquier otra característica personal, garantía de la educación inclusiva y de calidad : Constitución Política de 1991; Ley 115 de 1994, que establece como primer nivel del sistema educativo formal al preescolar de 3 grados;  Ley 715 de 2001.  Competencias  de  la  Nación  y  las  Entidades  Territoriales  en  el  sector educativodistribución de recursos Sistema General de Participaciones; Ley 1098 de 2006, que reconoce como uno de los derechos impostergables de la primera infancia a la educación inicial; Ley 1804 de 2016, Política de Estado, que define a la educación inicial en el marco de la atención integral; Decreto 1411 de 2022, que reglamenta la educación inicial en el país, organizando la prestación del servicio en dos ciclos, los prestadores, aspectos técnicos, pedagógicos entre otros.
+Es importante considerar que, a pesar de que la Convención solo refiere a la educación primaria hasta la educación superior, la evolución normativa de la educación inicial acoge los principios de igualdad, no discriminación, prevalencia de derechos de las niñas y los niños sobre los demás, garantía de s acceso y permanencia sin importar su origen étnico, género, capacidad, orientación sexual, religión o cualquier otra característica personal, garantía de la educación inclusiva y de calidad : Constitución Política de 1991; Ley 115 de 1994, que establece como primer nivel del sistema educativo formal al preescolar de 3 grados; Ley 715 de 2001. Competencias de la Nación y las Entidades Territoriales en el sector educativo- distribución de recursos Sistema General de Participaciones; Ley 1098 de 2006, que reconoce como uno de los derechos impostergables de la primera infancia a la educación inicial; Ley 1804 de 2016, Política de Estado, que define a la educación inicial en el marco de la atención integral; Decreto 1411 de 2022, que reglamenta la educación inicial en el país, organizando la prestación del servicio en dos ciclos, los prestadores, aspectos técnicos, pedagógicos entre otros.
 
 #### 1.1 No discriminación e igualdad en la enseñanza
 
@@ -269,11 +283,11 @@ A título de referencia, este aspecto se abarca principalmente en la meta 4.1 de
 
 Seleccione todos los correspondientes
 
-- Los  textos  jurídicos  (Constitución,  leyes,  decretos,  reglamentos,  circulares,  etc.) prohíben la discriminación y garantizan la igualdad de acceso a la enseñanza
+- ☒ Los textos jurídicos (Constitución, leyes, decretos, reglamentos, circulares, etc.) prohíben la discriminación y garantizan la igualdad de acceso a la enseñanza
 
-- Políticas, programas e iniciativas que tienen como objetivo prohibir y prevenir la discriminación y garantizar la igualdad de acceso a la enseñanza
+- ☒ Políticas, programas e iniciativas que tienen como objetivo prohibir y prevenir la discriminación y garantizar la igualdad de acceso a la enseñanza
 
-- La lucha contra la discriminación se extiende a los planes de estudio
+- ☒ La lucha contra la discriminación se extiende a los planes de estudio
 
 Otras medidas adoptadas para prevenir y eliminar la discriminación en la enseñanza y para garantizar la igualdad de acceso a todos los niveles y tipos de educación:
 
@@ -303,28 +317,28 @@ La educación CRESE es la propuesta de política pública para enfrentar el cont
 
 La propuesta frente a la educación CRESE, tiene como objetivo general, fortalecer las capacidades de los equipos técnicos de las entidades territoriales certificadas y de los docentes y directivos de establecimientos educativos, para que las políticas educativas, prácticas pedagógicas y la cultura institucional  promuevan  la educación CRESE; así mismo, los objetivos específicos, son:
 
-- Desarrollar  capacidades  y  competencias  ciudadanas  y  socioemocionales  en niñas, niños, adolescentes y jóvenes para que promuevan la agencia ciudadana, así como la promoción de culturas de paz y de sus proyectos de vida.
+1. Desarrollar capacidades y competencias ciudadanas y socioemocionales en niñas, niños, adolescentes y jóvenes para que promuevan la agencia ciudadana, así como la promoción de culturas de paz y de sus proyectos de vida.
 
-- Promover en y con las familias el fortalecimiento de sus capacidades para la crianza amorosa, el acompañamiento y el involucramiento en los aprendizajes y participación de niños, niñas, adolescentes y jóvenes.
+2. Promover en y con las familias el fortalecimiento de sus capacidades para la crianza amorosa, el acompañamiento y el involucramiento en los aprendizajes y participación de niños, niñas, adolescentes y jóvenes.
 
-- Fortalecer la construcción de saber pedagógico  y la consolidación de comunidades de práctica mediante la identificación e intercambio de experiencias basadas  en  la  convivencia  pacífica,  la  no  discriminación,  el  antirracismo,  la reconciliación y los derechos humanos, sexuales y reproductivos y la educación ambiental, así como el reconocimiento, valoración y respuestas pertinentes ante la diversidad.
+3. Fortalecer la construcción de saber pedagógico y la consolidación de comunidades de práctica mediante la identificación e intercambio de experiencias basadas en la convivencia pacífica, la no discriminación, el antirracismo, la reconciliación y los derechos humanos, sexuales y reproductivos y la educación ambiental, así como el reconocimiento, valoración y respuestas pertinentes ante la diversidad.
 
-- Fortalecer la capacidad de gestión intersectorial de los comités territoriales de convivencia  escolar  en  articulación  con  otras  instancias  para  la  garantía  de derechos de niñas, niños, adolescentes y jóvenes.
+4. Fortalecer la capacidad de gestión intersectorial de los comités territoriales de convivencia escolar en articulación con otras instancias para la garantía de derechos de niñas, niños, adolescentes y jóvenes.
 
-- Actualizar los referentes curriculares de competencias ciudadanas y de Ciencias Sociales integrando la enseñanza de la Historia.
+5. Actualizar los referentes curriculares de competencias ciudadanas y de Ciencias Sociales integrando la enseñanza de la Historia.
 
-- Formación de equipos técnicos y de docentes para responder a las demandas de la formación integral.
+6. Formación de equipos técnicos y de docentes para responder a las demandas de la formación integral.
 
 La  educación  CRESE,  está  orientada  por  los  enfoques  de  Derechos  Humanos, interseccional, género, competencias, justicia restaurativa, y, sus ejes de acción, son:
 
-##### Convivencia  pacífica:
-se  enfoca  en  fortalecer  relaciones  basadas  en  el respeto, la empatía, la resolución pacífica de conflictos, la deslegitimación de las violencias como formas de resolverlos y hacer de los establecimientos educativos ambientes seguros, donde los conflictos puedan ser manejados de forma asertiva a partir de la reparación, y los niños, niñas, adolescentes y jóvenes sean protegidos de la vulneración de sus derechos.
+##### 1. Convivencia pacífica:
+se enfoca en fortalecer relaciones basadas en el respeto, la empatía, la resolución pacífica de conflictos, la deslegitimación de las violencias como formas de resolverlos y hacer de los establecimientos educativos ambientes seguros, donde los conflictos puedan ser manejados de forma asertiva a partir de la reparación, y los niños, niñas, adolescentes y jóvenes sean protegidos de la vulneración de sus derechos.
 
-##### Identidad, diversidad y antirracismo:
-parte del reconocimiento y el disfrute de la enorme diversidad humana, del pleno goce de los derechos humanos en condiciones de equidad e igualdad y de valoración de la diversidad étnica, cultural, política,  religiosa,  de  género  y  de  capacidades.  Así  mismo,  reconoce  que  en Colombia históricamente personas, grupos y comunidades étnicas han vivido las mayores violencias que han afectado sus modos y formas de vida, razón por la cual el antirracismo es una prioridad.
+##### 2. Identidad, diversidad y antirracismo:
+parte del reconocimiento y el disfrute de la enorme diversidad humana, del pleno goce de los derechos humanos en condiciones de equidad e igualdad y de valoración de la diversidad étnica, cultural, política, religiosa, de género y de capacidades. Así mismo, reconoce que en Colombia históricamente personas, grupos y comunidades étnicas han vivido las mayores violencias que han afectado sus modos y formas de vida, razón por la cual el antirracismo es una prioridad.
 
-##### Participación  democrática:
-se  orientan  hacia  la  toma  de  decisiones  en diversos  contextos,  teniendo  en  cuenta  que  dichas  decisiones  deben  respetar, tanto los derechos fundamentales de los individuos como los acuerdos, las normas, las  leyes  y  la  Constitución  que  rigen  la  vida  en  comunidad.  Se  enfoca  en  la
+##### 3. Participación democrática:
+se orientan hacia la toma de decisiones en diversos contextos, teniendo en cuenta que dichas decisiones deben respetar, tanto los derechos fundamentales de los individuos como los acuerdos, las normas, las leyes y la Constitución que rigen la vida en comunidad. Se enfoca en la
 
 [[END OF PAGE 13]]
 
@@ -334,23 +348,23 @@ formación  del  pensamiento  crítico  y  en  la  transformación  colectiva  d
 
 ##### 4. Educación ambiental para la acción climática:
 se trata de proponer una mirada diferente sobre la relación que hemos construido con el ambiente y nuestro rol dentro de este. Es ubicarnos de manera intencionada como parte del sistema, comprendiéndonos como sujetos diversos y ponernos en relación con los otros, lo otro, con lo vivo y lo no vivo, para darle un nuevo sentido y significado a nuestra comprensión sobre la naturaleza, el ambiente, la vida, y con ello, replantear la mirada antropocéntrica dando paso a la diversidad y posibilidad de otros mundos.
-##### 5. Paz, reconciliación  y  memoria  histórica:
-se trata de promover
-
-- la reconstrucción  de  los  vínculos  entre  los  miembros  de  una  comunidad;  proceso sustentado en la búsqueda de la verdad sobre el conflicto armado interno y la resignificación de la historia del pasado reciente, evitando discursos de odio que tienen como objetivo detener ciclos de venganza, retaliación y resentimiento, y así, promover la reparación, tanto en las relaciones entre personas como en las relaciones entre la comunidad y el Estado. Todo esto, teniendo como centro el reconocimiento y la dignificación de las víctimas.
+##### 5. Paz, reconciliación y memoria histórica:
+se trata de promover la reconstrucción de los vínculos entre los miembros de una comunidad; proceso sustentado en la búsqueda de la verdad sobre el conflicto armado interno y la resignificación de la historia del pasado reciente, evitando discursos de odio que tienen como objetivo detener ciclos de venganza, retaliación y resentimiento, y así, promover la reparación, tanto en las relaciones entre personas como en las relaciones entre la comunidad y el Estado. Todo esto, teniendo como centro el reconocimiento y la dignificación de las víctimas.
 
 ##### 6. Derechos humanos, sexuales y reproductivos:
 los derechos humanos se basan en la dignidad, la ética y la igualdad entre todos los seres humanos, lo que significa que nadie es más o menos digno que otra persona. Esto requiere que tanto  los  individuos  como  las  comunidades  estén  dispuestos  a  reconocer, comprender, valorar y defender esta dignidad y la igualdad entre las personas. Por su  parte,  la  educación  sexual  integral  es  aquella  en  el  cual  se  adquieren  y transforman conocimientos, actitudes y valores relacionados con la sexualidad en todas  sus  manifestaciones:  tanto  aspectos  biológicos  y  reproductivos  como aquellos vinculados al erotismo, la identidad sexual y las representaciones sociales asociadas a la sexualidad.
 
 Así mismo, el Ministerio de Educación Nacional junto a las entidades territoriales e instituciones educativas, avanza en: el fortalecimiento de la implementación de la Cátedra de Estudios Afrocolombianos -CEA; la aplicación de los Lineamientos de Política para la Inclusión y la Equidad en Educación , se avanza significativamente en el Sistema de Educación Propia para los Pueblo Indígenas -en  proceso  de construcción con pueblos y autoridades indígenas; el fortalecimiento de estrategias para la implementación del Protocolo para el Abordaje Pedagógico de Racismo y la Discriminación  Étnico-Racial  en  Entornos  Escolares  y,    del  Protocolo  para  el Abordaje Pedagógico de la Xenofobia en Entornos Escolares, en sus componentes de promoción y prevención, atención y seguimiento, como importantes estrategias de las políticas educativas, que promueven en los establecimientos educativos el derecho a la educación para todas y todos sin discriminación alguna. Los protocolos e infografías que promueven convivencia escolar basada en derechos se pueden ver en:
 
-https://www.colombiaaprende.edu.co/contenidos/coleccion/kit-deherramientas-para-la-convivencia-escolar
+https://www.colombiaaprende.edu.co/contenidos/coleccion/kit-de-herramientas-para-la-convivencia-escolar
 
-Por su parte, y dando cumplimiento de los artículos 7, 8, 10 y 70 de la Constitución Política de Colombia, y los artículos 4, 5 y 28 de la Ley 21 de 1991, el país cuenta con  la Ley  1381  de  2010 por  medio  de  la  cual  se  dictan  normas  sobre  el reconocimiento, fomento, uso, protección y preservación y fortalecimiento de las lenguas de los grupos étnicos de Colombia y sobre sus derechos lingüísticos y los de sus hablantes. Colombia cuenta con 68 lenguas (65 lenguas nativas, 2 lenguas criollas y una romaní) y la Lengua de Señas Colombianas para la población sorda. En este sentido, concretamente el Ministerio de Educación Nacional en concertación con los pueblos y comunidades impulsa las iniciativas de los pueblos y  comunidades  étnicas  para  la  creación  de  materiales  en  su  lengua  nativa  y otorgará preferencia para su publicación y difusión. Igualmente se garantiza la enseñanza  en  lengua  materna  e  igual  creará  un  programa  de  formación  para intérpretes y traductores, proceso que se ha venido trabajando en la última década con la Organización Indígena de la Amazonía de Colombia -OPIAC.
+Por su parte, y dando cumplimiento de los artículos 7, 8, 10 y 70 de la Constitución Política de Colombia, y los artículos 4, 5 y 28 de la Ley 21 de 1991, el país cuenta con la Ley 1381 de 2010 por medio de la cual se dictan normas sobre el reconocimiento, fomento, uso, protección y preservación y fortalecimiento de las lenguas de los grupos étnicos de Colombia y sobre sus derechos lingüísticos y los de sus hablantes. Colombia cuenta con 68 lenguas (65 lenguas nativas, 2 lenguas
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
+
+criollas y una romaní) y la Lengua de Señas Colombianas para la población sorda. En este sentido, concretamente el Ministerio de Educación Nacional en concertación con los pueblos y comunidades impulsa las iniciativas de los pueblos y comunidades étnicas para la creación de materiales en su lengua nativa y otorgará preferencia para su publicación y difusión. Igualmente se garantiza la enseñanza en lengua materna e igual creará un programa de formación para intérpretes y traductores, proceso que se ha venido trabajando en la última década con la Organización Indígena de la Amazonía de Colombia -OPIAC.
 
 La  Convención  omite  el  reconocimiento  de  la  educación  inicial  y  su  marco normativo dispuesto en la Ley 115 de 1994, 1098 de 2006, 1804 de 2016, y en la reglamentación  expedida  mediante  el  Decreto  1411  de  2022  compilado  en  el Decreto 1075 de 2015 Único Reglamentario del Sector Educativo.
 
@@ -368,9 +382,9 @@ Se fundamenta en la Doctrina de la Protección Integral como marco de acción, e
 
 [[START OF PAGE 16]]
 
-P or su parte, en el marco de la Educación Superior, se encuentra desde el marco normativo la Ley 2307 de 2023, por la cual POR LA CUAL SE ESTABLECE LA GRATUIDAD EN LOS PROGRAMAS DE PREGRADO EN LAS INSTITUCIONES DE  EDUCACIÓN  SUPERIOR  PÚBLICAS  DEL  PAÍS  Y  SE  DICTAN  OTRAS DISPOSICIONES"
+Por su parte, en el marco de la Educación Superior, se encuentra desde el marco normativo la Ley 2307 de 2023, por la cual POR LA CUAL SE ESTABLECE LA GRATUIDAD EN LOS PROGRAMAS DE PREGRADO EN LAS INSTITUCIONES DE EDUCACIÓN SUPERIOR PÚBLICAS DEL PAÍS Y SE DICTAN OTRAS DISPOSICIONES"
 
-(https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=21519 0)
+(https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=215190)
 
 La Política de Gratuidad tiene por objeto reglamentar la implementación en los programas de pregrado de las Instituciones de Educación Superior Públicas, con el fin de eliminar las barreras de acceso y garantizar la permanencia educativa, bajo criterios de equidad poblacional y territorial.
 
@@ -382,31 +396,29 @@ El  Ministerio  de  Educación  Nacional,  en  cabeza  del  Viceministerio  de  
 
 Hemos  reconocido  la  Educación  Inclusiva  e  intercultural  como  una  estrategia central  para  la  inclusión  social,  una  inclusión  que  trasciende  la  dicotomía  de  o tradicional  asociado  al  concepto  de  exclusión  que  permite  pensar  un  modelo educativo abierto y generoso que atiende la diversidad como una característica inherente  no  solo  al  ser  humano  sino  a  la  vida.  Con  esta  apuesta  se  propone avanzar  en  el  cierre  de  brechas  de  inequidad,  mediante  el  pleno  ejercicio  de derechos y el acceso a las oportunidades a través de medidas estructurales de política  púbica  que  contribuyan  a  la  consolidación  de  una  país  equitativo  e incluyente.
 
-Es por ello que los Lineamientos de educación Inclusiva, entregados al país en marzo de 2014 han sido que recogió el interés demostrado por las instituciones de educación superior de nuestro país de desarrollar este modelo educativo. En él se abrió el camino para lograr que la educación superior de Colombia 'potencie y valore la diversidad (entendiendo y protegiendo las particularidades), promueva el respeto a ser diferente y facilite la participación de la comunidad dentro de una estructura intercultural'.
+Es por ello que los Lineamientos de educación Inclusiva, entregados al país en marzo de 2014 han sido que recogió el interés demostrado por las instituciones de educación superior de nuestro país de desarrollar este modelo educativo. En él se abrió el camino para lograr que la educación superior de Colombia “potencie y valore la diversidad (entendiendo y protegiendo las particularidades), promueva
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
+el respeto a ser diferente y facilite la participación de la comunidad dentro de una estructura intercultural”.
+
 Han pasado 10 años, y dichos lineamientos requieren incorporar elementos que den cuenta de una mayor visbilización de los procesos de educación intercultural, así como de las diversidades y la consolidación de acción para prevenir y generar la apuesta por una política antirracista. Antes de pasar a los retos que esto nos implica, revisemos un poco los logros a la fecha:
 
 - Construcción  de  orientación  para  la  promoción  de  la  educación  superior inclusiva e intercultural
 
-(https://www.mineducacion.gov.co/portal/micrositios-superior/PublicacionesEducacion-Superior/357277:Lineamientos-de-politica-de-educacion-
+(https://www.mineducacion.gov.co/portal/micrositios-superior/Publicaciones-Educacion-Superior/357277:Lineamientos-de-politica-de-educacion-superior-inclusiva):
 
-superior-inclusiva ):
+- Lineamientos de política de educación superior inclusiva. (https://www.mineducacion.gov.co/1780/articles-357277_recurso_0.pdf)
 
-- o Lineamientos de política de educación superior inclusiva. (https://www.mineducacion.gov.co/1780/articles-357277_recurso_0.pdf)
+- Índice de Inclusión para Educación superior (https://www.mineducacion.gov.co/1780/articles-357277_recurso_1.pdf)
 
-- o Índice de Inclusión para Educación superior (https://www.mineducacion.gov.co/1780/articles-357277_recurso_1.pdf)
+- Documento de enfoque e Identidades de género para los lineamientos de educación superior inclusiva.
 
-- o Documento de enfoque e Identidades de género para los lineamientos de educación superior inclusiva.
+- Así mismo ante el compromiso del MEN con la creación de espacios seguros y libres de violencias, se expidieron: https://www.mineducacion.gov.co/portal/salaprensa/Noticias/411492:El-Ministerio-de-Educacion-Nacional-ratifica-su-compromiso-de-cero-tolerancias-con-todas-las-formas-de-violencia-y-cualquier-tipo-de-discriminacion-basada-en-genero-y-expide-la-resolucion-que-emite-los-lineamientos-de-prevencion-deteccion-y-atencion-para-las-Instituciones-de-Educacion-Superior#:~:text=014466%20del%2025%20julio%20de,de%20Educaci%C3%B3n%20Superior%20Inclusiva%20e
 
-- Así mismo ante el compromiso del MEN con la creación de espacios seguros y libres de violencias, se expidieron: https://www.mineducacion.gov.co/portal/salaprensa/Noticias/411492:ElMinisterio-de-Educacion-Nacional-ratifica-su-compromiso-de-cerotolerancias-con-todas-las-formas-de-violencia-y-cualquier-tipo-dediscriminacion-basada-en-genero-y-expide-la-resolucion-que-emite-loslineamientos-de-prevencion-deteccion-y-atencion-para-las-Institucionesde-Educacion-
-
-Superior#:~:text=014466%20del%2025%20julio%20de,de%20Educaci% C3%B3n%20Superior%20Inclusiva%20e
-
-- o La  resolución  14466  de  2022  y  los  Lineamientos  de  prevención, detección y atención a las VBG en IES.
+- La resolución 14466 de 2022 y los Lineamientos de prevención, detección y atención a las VBG en IES.
 
 #### 1.2.  Igualdad de oportunidades e inclusión en la enseñanza
 
@@ -428,31 +440,33 @@ Superior#:~:text=014466%20del%2025%20julio%20de,de%20Educaci% C3%B3n%20Superior%
 
 Seleccione todos los correspondientes
 
-- La legislación contempla la educación inclusiva para todos
+- ☒ La legislación contempla la educación inclusiva para todos
 
-- Las medidas de política están orientadas a fortalecer una educación inclusiva para todos
+- ☒ Las medidas de política están orientadas a fortalecer una educación inclusiva para todos
 
-- Los docentes reciben formación sobre la educación inclusiva y aprenden a valorar la diversidad
+- ☒ Los docentes reciben formación sobre la educación inclusiva y aprenden a valorar la diversidad
 
-- Iniciativas que abordan la discriminación y promueven la diversidad cultural y la aceptación mutua
+- ☒ Iniciativas que abordan la discriminación y promueven la diversidad cultural y la aceptación mutua
 
-- Se ofrecen vías de aprendizaje múltiples y flexibles
+- ☒ Se ofrecen vías de aprendizaje múltiples y flexibles
 
-- Los planes de estudio y los métodos pedagógicos están elaborados con un enfoque inclusivo
+- ☒ Los planes de estudio y los métodos pedagógicos están elaborados con un enfoque inclusivo
 
-- Se favorece la educación multilingüe e intercultural
+- ☒ Se favorece la educación multilingüe e intercultural
 
-- Otro:
+- ☐ Otro:
 
 Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas
 
 adoptadas:
 
-En Colombia desde el Ministerio de Educación se ha avanzado, aunque paulatinamente, desde la fundamentación normativa, los referentes conceptuales y pedagógicos que permiten asumir la educación como un derecho y la eliminación de la discriminación en la educación para la atención de niñas, niños, adolescentes, jóvenes  y  adultos  con  discapacidad  o  por  su  diversidad,  en  el  contexto  de  la educación inclusiva a partir de la apropiación y transformación de las políticas, las culturas  y  las  prácticas  tal  como  lo  promulga  la  Convención  de  1960  de  la UNESCO.
+En Colombia desde el Ministerio de Educación se ha avanzado, aunque paulatinamente, desde la fundamentación normativa, los referentes conceptuales y pedagógicos que permiten asumir la educación como un derecho y la eliminación de la discriminación en la educación para la atención de niñas, niños, adolescentes, jóvenes y adultos con discapacidad o por su diversidad, en el contexto de la educación inclusiva a partir de la apropiación y transformación de las políticas, las
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+culturas y las prácticas tal como lo promulga la Convención de 1960 de la UNESCO.
 
 El  Estado  Colombiano  consolida  los  procesos  con  los  cuales  se  garantizan  los derechos de las personas con discapacidad, dando cumplimiento a los mandatos constitucionales los tratados internacionales y la legislación nacional, en particular las leyes: Ley 361 de 1997, Ley 762 de 2002, Ley 1098 de 2006, Ley 1145 de 2007, Ley 1346 de 2009, Ley 1616 de 2013 y Ley 1618 de 2013, que imponen de manera imprescindible la corresponsabilidad de las autoridades, las instituciones educativas y, primordialmente, la familia.
 
@@ -512,11 +526,13 @@ Las tres dimensiones para la inclusión y la equidad en educación tienen en com
 
 Se  cuenta  con  avances  importantes  en  relación  con  las  apuestas  curriculares, donde tiene sentido la flexibilidad curricular para realizar los ajustes necesarios, que  se  estipula  a  lo  largo  de  la  normativa  educativa  en  el  contexto  nacional. También  los  planes  de  estudio  y  de  aula,  precisan  aún  más  las  apuestas pedagógicas en cuanto a inclusión y equidad en educación, cuando se contemplan: contenidos,  actividades  y  experiencias  pedagógicas,  rutinas,  distribución  del tiempo  y  las  secuencias  del  proceso  educativo,  los  logros,  competencias  y conocimientos, la metodología, indicadores de desempeño y metas de calidad.
 
-Una forma que se ha apostado para lograr traducir la flexibilidad curricular son los ajustes  razonables  que  permitan  dar  cabida  a  la  diversidad  de  cosmogonías  y cosmovisiones  y  a  la  diferencia  de  los  contextos,  también  en  situaciones  de vulnerabilidad para las personas con discapacidad.
+Una forma que se ha apostado para lograr traducir la flexibilidad curricular son los ajustes razonables que permitan dar cabida a la diversidad de cosmogonías y
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
+
+cosmovisiones y a la diferencia de los contextos, también en situaciones de vulnerabilidad para las personas con discapacidad.
 
 Al respecto también se ha logrado avanzar en la definición de un sistema de apoyos para los equipos docentes, las niñas, niños, adolescentes, jóvenes y adultos con discapacidad  y  las  familias,  que  permiten  el  acceso  a  las  oportunidades  y ambientes de aprendizaje,  para  participar  y  aprender  de  acuerdo  con  el  nivel, metas  de  aprendizaje  y  entorno  educativo,  entre  otros.  Además,  posibilitan  la independencia y autonomía y la integración a la comunidad de las personas con discapacidad.
 
@@ -530,7 +546,7 @@ Una de las principales estrategias del MEN en los últimos años, es la organiza
 
 La experiencia nacional ha  avanzado  en  reconocer  que  las  niñas,  niños, adolescentes y jóvenes con discapacidad requieren ser el centro y la razón de ser del  sistema  educativo,  y  por  este  motivo  se  toma  como  punto  de  partida  las condiciones históricas que han permitido la configuración de sistemas educativos excluyentes.
 
-En Colombia se cuenta con construcciones sobre la gestión educativa con miradas y  avances  centrados  en  los  niveles  territoriales  (nacional,  regional  y  localinstitucional). Cada nivel tiene responsabilidades pertinentes y precisas para un cambio que parte de una visión compartida con los diferentes actores involucrados en el proceso, el liderazgo participativo y la participación social responsable.
+En Colombia se cuenta con construcciones sobre la gestión educativa con miradas y avances centrados en los niveles territoriales (nacional, regional y local-institucional). Cada nivel tiene responsabilidades pertinentes y precisas para un cambio que parte de una visión compartida con los diferentes actores involucrados en el proceso, el liderazgo participativo y la participación social responsable.
 
 [[END OF PAGE 22]]
 
@@ -544,13 +560,15 @@ Por su parte, actualmente el gobierno nacional persiste en la necesidad de avanz
 
 ##### 1) Consideraciones  especiales  en  materia  de  accesibilidad  al  sistema educativo .
 
-Desde la sentencia T -743 de 2013 la Corte constitucional adoptó las categorías conceptuales utilizadas por Katarina Tomasevski y por la Observación General No 13 del Comité de Derechos Económicos Sociales y Culturales, en los siguientes términos:
+Desde la sentencia T – 743 de 2013 la Corte constitucional adoptó las categorías conceptuales utilizadas por Katarina Tomasevski y por la Observación General No 13 del Comité de Derechos Económicos Sociales y Culturales, en los siguientes términos:
 
-3.4.  Esta  corporación  reconoció  desde  sus  primeros  fallos  el  carácter complejo  del  que  reviste  la  educación  en  su  doble  condición  de  servicio público y derecho. Pese a ello, consideró, a partir de una lectura exegética del artículo 67 superior, que solo el acceso y la permanencia en el sistema educativo hacían parte de su núcleo esencial (Sentencias T-612 de 1992; T329 de 1997, T-571 de 1999 y T-202 de 2000), y que, tras haber sido calificada  por  la  Carta  como  un  derecho  fundamental  de  los  niños,  su prestación solo era obligatoria hasta los 18 años de edad.
+3.4. Esta corporación reconoció desde sus primeros fallos el carácter complejo del que reviste la educación en su doble condición de servicio público y derecho. Pese a ello, consideró, a partir de una lectura exegética del artículo 67 superior, que solo el acceso y la permanencia en el sistema educativo hacían parte de su núcleo esencial (Sentencias T-612 de 1992; T-329 de 1997, T-571 de 1999 y T-202 de 2000), y que, tras haber sido
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
+
+calificada por la Carta como un derecho fundamental de los niños, su prestación solo era obligatoria hasta los 18 años de edad.
 
 Los parámetros establecidos por el Comité intérprete autorizado del Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC) en la Observación General Número 13, relativa al contenido normativo del artículo 13  del  Pacto,  sobre  los  propósitos  de  la  educación,  transformó  esa concepción diametralmente.
 
@@ -668,7 +686,7 @@ En la sentencia T -612 de 2006, la Corte puso de presente que la edad no debe se
 
 En la sentencia T -428 de 2012 advirtió que, para los adultos, el acceso a la educación básica primaria es de aplicación inmediata, mientras que el acceso a niveles  superiores  se  debe  abordar  de  manera  progresiva.  Esto  no  descarta  la obligación estatal de gratuidad en la educación, sino que reconoce la implementación gradual de esta obligación.
 
-En la sentencia T -458 de 2013, la Corte también se ha pronunciado sobre la admisión  de  menores  en  programas  de  educación  para  adultos.  En  casos  de menores que necesitan trabajar, se debe considerar su situación individual para determinar si pueden acceder a estos programas48. La norma que establece una edad mínima (15 años) para acceder a ciertos programas no vulnera los derechos a la educación y la igualdad de los menores.
+En la sentencia T -458 de 2013, la Corte también se ha pronunciado sobre la admisión de menores en programas de educación para adultos. En casos de menores que necesitan trabajar, se debe considerar su situación individual para determinar si pueden acceder a estos programas⁴⁸. La norma que establece una edad mínima (15 años) para acceder a ciertos programas no vulnera los derechos a la educación y la igualdad de los menores.
 
 En las sentencias T -323 de 1994 y T -787 de 2006, en cuanto a los grados de educación que el Estado debe garantizar, la Corte ha afirmado que los nueve años de educación básica son el mínimo que se debe ofrecer. No obstante, se enfatiza que este contenido mínimo debe ser ampliado de manera progresiva, extendiendo la cobertura a nuevos grados en preescolar, secundaria y educación superior.
 
@@ -692,7 +710,7 @@ En  cuanto  a  los  costos  académicos,  la  Corte  Constitucional  emitió  un
 
 Esta se logra a través de la presencia de instituciones educativas con ubicaciones razonables  y  herramientas  tecnológicas  modernas  que  permitan  un  acceso práctico. Dicho componente esencial de la educación se refiere a la necesidad de que esta sea accesible tanto en términos geográficos como a través de tecnologías modernas.
 
-La falta de transporte no debe ser un impedimento para acceder a la educación. Por lo tanto, existe la responsabilidad de proveer transporte para niños que viven en áreas rurales distantes de las instituciones educativas, en situaciones geográficas o de seguridad complicadas54, o cuando otros factores limitan su
+La falta de transporte no debe ser un impedimento para acceder a la educación. Por lo tanto, existe la responsabilidad de proveer transporte para niños que viven en áreas rurales distantes de las instituciones educativas, en situaciones geográficas o de seguridad complicadas⁵⁴, o cuando otros factores limitan su
 
 [[END OF PAGE 30]]
 
@@ -774,9 +792,9 @@ Es  así  que  en  la  última  década  se  ha  logrado  la  formulación,  dis
 
 [[START OF PAGE 35]]
 
-Actualmente el gobierno colombiano y las siete organizaciones indígenas del país, que conforman el CONTSEPI -Comisión Nacional de Trabajo y Concertación de la Educación para los Pueblos Indígenas -están  concertando  la  protocolización  y expedición  de  la  norma SEIP -Sistema  de  Educación  Indígena  Propia . Paralelamente, algunos  pueblos indígenas vienen asumiendo la administración educativa en el marco de la implementación del Sistema Educativo Indígena Propio (SEIP),  a  través  de  la  ,contratación  en  el  marco  del  Decreto  2500  del  20103, posibilitando la incorporación de las autoridades tradicionales y maestros de la cultura  y  lengua  en  los  espacios  educativos,  brindándose  una  educación  que respete  y  fortalezca  su  identidad,  convirtiéndose  en  factores  que  fomentan  la permanencia de los estudiantes en el sistema educativo y previenen la deserción escolar.
+Actualmente el gobierno colombiano y las siete organizaciones indígenas del país, que conforman el CONTSEPI -Comisión Nacional de Trabajo y Concertación de la Educación para los Pueblos Indígenas -están concertando la protocolización y expedición de la norma SEIP -Sistema de Educación Indígena Propia. Paralelamente, algunos pueblos indígenas vienen asumiendo la administración educativa en el marco de la implementación del Sistema Educativo Indígena Propio (SEIP), a través de la ,contratación en el marco del Decreto 2500 del 2010³, posibilitando la incorporación de las autoridades tradicionales y maestros de la cultura y lengua en los espacios educativos, brindándose una educación que respete y fortalezca su identidad, convirtiéndose en factores que fomentan la permanencia de los estudiantes en el sistema educativo y previenen la deserción escolar.
 
-En 2007, el Decreto 2406 reglamentó la creación y funcionamiento de la Comisión Nacional de Trabajo y Concertación de Educación para los Pueblos Indígenas de Colombia-CONTCEPI, como el espacio para propiciar la construcción de políticas públicas en materia educativa de y para los pueblos indígenas. En este espacio surgió el concepto de Sistema Educativo Indígena Propio -SEIP4 como mecanismo de concreción de la educación propia que ha de contribuir a asegurar la pervivencia física y cultural de los 102 pueblos indígenas de Colombia. Durante once años de construcción colectiva se han desarrollado 38 sesiones de trabajo de la CONTCEPI, con avances significativos en el documento SEIP, en los componentes Político -Organizativo, Pedagógico y de Gestión:
+En 2007, el Decreto 2406 reglamentó la creación y funcionamiento de la Comisión Nacional de Trabajo y Concertación de Educación para los Pueblos Indígenas de Colombia-CONTCEPI, como el espacio para propiciar la construcción de políticas públicas en materia educativa de y para los pueblos indígenas. En este espacio surgió el concepto de Sistema Educativo Indígena Propio -SEIP⁴ como mecanismo de concreción de la educación propia que ha de contribuir a asegurar la pervivencia física y cultural de los 102 pueblos indígenas de Colombia. Durante once años de construcción colectiva se han desarrollado 38 sesiones de trabajo de la CONTCEPI, con avances significativos en el documento SEIP, en los componentes Político -Organizativo, Pedagógico y de Gestión:
 
 - Político-organizativo. Se refiere a los fundamentos históricos, territoriales, culturales, políticos, organizativos, ley de origen/derecho mayor, articulaciones externas y sus efectos.
 
@@ -836,7 +854,7 @@ Así mismo, a propósito de los estudios de Heckman (2008)[5], la evidencia rati
 
 expuesto por UNESCO (2007)[6]. Por otra parte, se han evidenciado los impactos positivos de la educación inicial en el desempeño social en la vida adulta, la autonomía de las mujeres, la adopción de ciudadanías críticas contribuyendo en la reducción de las desigualdades sociales y económicas, entre otros.
 
-Por lo anterior, lograr la universalización de la educación para la primera infancia es un compromiso político internacional asumido por los gobiernos de la región en el Marco de Acción de la Declaración de Dakar acerca de la Educación para Todos7 implica aumentar la oferta de educación inicial (de 0 a 6 años) y potenciar su carácter educativo constituye la tercera meta general que se han propuesto los gobiernos de la región a 2021, máxime si se tiene en cuenta que la oportunidad del ingreso de niñas y niños en educación inicial favorece la permanencia, logros de aprendizaje y transitar armónicamente en niveles educativos establecidos.
+Por lo anterior, lograr la universalización de la educación para la primera infancia es un compromiso político internacional asumido por los gobiernos de la región en el Marco de Acción de la Declaración de Dakar acerca de la Educación para Todos⁷ implica aumentar la oferta de educación inicial (de 0 a 6 años) y potenciar su carácter educativo constituye la tercera meta general que se han propuesto los gobiernos de la región a 2021, máxime si se tiene en cuenta que la oportunidad del ingreso de niñas y niños en educación inicial favorece la permanencia, logros de aprendizaje y transitar armónicamente en niveles educativos establecidos.
 
 Bajo ese contexto, es importante resaltar que el total de matrícula de preescolar registrada en el Sistema Integrado de Matrícula -SIMAT a 31 de julio de 2023 es de 912.383, en donde el 65% corresponde al sector oficial (593.169) y el 35% restante al no oficial (319.214) y su ubicación por zona está distribuida en un 23% rural  y  77%  urbano.  De  dicha  matrícula,  un  6%  corresponde  a  la  atención  de grupos étnicos (58.301), en donde un 60% es población indígena (34.972), 40% población Negra, Afrocolombiana, Raizal y Palenquera -NARP (23.311) y el 0,03% de niños y niñas pertenecen a otras etnias (18).
 
@@ -874,7 +892,7 @@ resaltado la importancia de promover y garantizar el derecho a la educación ini
 
 Basados en el Plan Nacional de Desarrollo 2022 - 2026, en lo que refiere a la Primera Infancia, nuestro país ha venido cumpliendo de manera progresiva y sistemática con sus compromisos internacionales, y se muestra como vanguardia y garante de derechos a pesar de las enormes brechas de desigualdad registradas, no obstante y en clave de perspectivas del nuevo gobierno, la educación es un medio fundamental para reducir y superar la mencionada y amplia desigualdad, en cuyo campo que compete a nuestro sector la apuesta es '…garantizar el derecho a la educación y al desarrollo integral de las niñas, los niños, los adolescentes, los jóvenes y adultos, desde la educación inicial hasta la posmedia, a través de estrategias de acceso y permanencia', cuyo objetivo fundamental responde de manera medular a los postulados de la Convención en cuestión, al propender por una educación humanista, incluyente, antirracista e intercultural, cuya visión permitirá hacer de la escuela, más que un lugar físico un escenario alrededor del cual se organizan las comunidades contando además con un enfoque poblacional, regional, de género, territorial, étnico, que atienda especialmente a la ruralidad. (Gobierno de Colombia, 2022, p.87)
 
-Así pues, la voluntad y los esfuerzos en favor de garantizar una educación sin barreras ni discriminación de cualquier índole, cuya área de primera infancia tiene ambiciosas y pretendidas metas donde 'Las niñas y niños con discapacidad estén en  la  educación  inicial  desde  los  primeros  años,  contando  con  modelos  de educación inicial en situación de emergencia y riesgo; y donde se pasará de 1,9 millones de niñas y niños de 0 a 5 años atendidos con educación inicial en el marco de  la  atención  integral  a  2,7  millones  en  articulación  del  Sistema  Nacional  de Cuidado, junto a un seguimiento longitudinal y atención integral de calidad de la educación de las próximas generaciones y las que ya avanzan en sus trayectorias educativas y ciclos de vida, sumado a las acciones proyectadas en clave de Plan de  Desarrollo  para  la  primera  infancia,  ofrecen  un  horizonte  en  el  cual  los compromisos  que  asumiría  nuestro  país  pueden  y  deberán  ser  cumplidos  de manera progresiva ' .8
+Así pues, la voluntad y los esfuerzos en favor de garantizar una educación sin barreras ni discriminación de cualquier índole, cuya área de primera infancia tiene ambiciosas y pretendidas metas donde “Las niñas y niños con discapacidad estén en la educación inicial desde los primeros años, contando con modelos de educación inicial en situación de emergencia y riesgo; y donde se pasará de 1,9 millones de niñas y niños de 0 a 5 años atendidos con educación inicial en el marco de la atención integral a 2,7 millones en articulación del Sistema Nacional de Cuidado, junto a un seguimiento longitudinal y atención integral de calidad de la educación de las próximas generaciones y las que ya avanzan en sus trayectorias educativas y ciclos de vida, sumado a las acciones proyectadas en clave de Plan de Desarrollo para la primera infancia, ofrecen un horizonte en el cual los compromisos que asumiría nuestro país pueden y deberán ser cumplidos de manera progresiva”.⁸
 
 > 8 En el marco de las Bases del Plan Nacional de Desarrollo 2022 -2026 referente a la Primera infancia feliz y protegida refiere que: 'Se avanzará de manera progresiva en la universalización de la atención integral, con prioridad en las comunidades rurales y territorios mayormente afectados por la violencia. En el próximo cuatrienio se pasará de 1,9 millones de niñas y niños de 0 a 5 años atendidos con educación inicial en el marco de la atención integral a 2,7 millones, en articulación con el Sistema Nacional del Cuidado. La primera infancia debe desarrollarse integralmente y crecer en condiciones de amor, juego y protección. Los proyectos pedagógicos de calidad girarán en torno a la música, el arte y la oralidad. Se realizará por primera vez en el país un seguimiento longitudinal y atención integral de calidad a una cohorte de niños nacidos a partir del 7 de agosto de 2022, la 'Generación de la Paz', acompañando su trayectoria educativa, garantizando tránsitos armónicos, pertinentes y de calidad. En un esfuerzo conjunto con las entidades territoriales se priorizarán recursos desde distintas fuentes de financiación, como el Sistema General de Regalías, para el mejoramiento y dotación de ambientes de aprendizaje para la primera infancia.' (Gobierno de Colombia, 2022a, p.88)
 
@@ -1057,7 +1075,7 @@ El Ministerio de Educación Nacional concibe que la diversidad, en el marco del 
 
 La Agenda mundial Educación 2030 reconoce que, en términos de la igualdad de género, se requiere de un enfoque que "garantice no sólo que las niñas y los niños, las mujeres y los hombres obtengan acceso a los distintos niveles de enseñanza y los cursen con éxito, sino que adquieran las mismas competencias en la educación y mediante ella". Es así́como, en el marco de la inclusión y equidad en la educación, la Agenda de Educación 2030, establece que en el derecho de todos y todas a recibir una educación que promueva el aprendizaje durante toda la vida, haciendo especial énfasis en la eliminación de las inequidades de género y en el acceso igualitario a todos los niveles de enseñanza, se debe garantizar un sistema educativo de calidad, que preste especial atención a los grupos marginados y vulnerables para el desarrollo de su potencial.
 
-Actualmente, el país cuenta con una participación del 49% de mujeres vinculadas al sistema educativo. En este orden de ideas, el Ministerio de Educación Nacional, a través del documento 'Enfoque e identidades de género para los lineamientos política de educación superior inclusiva', establece que el género será entendido 'como una construcción cultural, social, histórica, política y económica que establece relaciones jerárquicas entre mujeres y hombres.
+Actualmente, el país cuenta con una participación del 49% de mujeres vinculadas al sistema educativo. En este orden de ideas, el Ministerio de Educación Nacional, a través del documento 'Enfoque e identidades de género para los lineamientos política de educación superior inclusiva', establece que el género será́ entendido 'como una construcción cultural, social, histórica, política y económica que establece relaciones jerárquicas entre mujeres y hombres.
 
 Como categoría multidimensional, da cuenta de los distintos procesos sociales, simbólicos y subjetivos que contribuyen a producir lo femenino y lo masculino en tanto representaciones sociales, normas e identidades. Asimismo, el género da cuenta de las relaciones de poder y dominación entre hombres y mujeres. Está asociado con la categoría de heterosexualidad normativa y se articula con otros procesos sociales de opresión como la clase, etnias, la edad, la discapacidad o la sexualidad. El Plan Nacional de Desarrollo tiene compromisos para avanzar en la igualdad para la mujer, y en concordancia, el Ministerio de Educación trabaja en dos
 
@@ -1080,6 +1098,7 @@ En  el  marco  de  la  descentralización,  la  competencia  del  Ministerio  es
 [[END OF PAGE 50]]
 
 [[START OF PAGE 51]]
+
 sexual y reproductiva, es decir, los temas propios de la Educación Integral en Sexualidad que previenen el embarazo entre otras situaciones.
 
 De igual manera, como parte de la orientación socio ocupacional en el nivel de la educación media, se promueve la formación de mujeres en el enfoque STEM (por su sigla en inglés Ciencia, Tecnologías, Ingenierías, Matemáticas), y sigue avanzando en la promoción de mujeres y niñas en la ciencia y en el acceso a la educación posmedia.
@@ -1122,7 +1141,7 @@ Tenga en cuenta que el matrimonio infantil es una práctica discriminatoria, ya 
 
 Si bien en Colombia está  prohibido el matrimonio con menores de 14 años  el Código Civil Colombiano abre la posibilidad de contraer matrimonio con persona menor de 18 años con el permiso de un pariente, por lo cual, mediante  el Proyecto de Ley 155-23 C 'por medio del cual se elimina el matrimonio infantil, las uniones maritales de hecho y las uniones tempranas (MIUT) en las cuales uno o ambos de los contrayentes o compañeros permanentes sean personas menores de edad, y se  dictan  otras  disposiciones' ,  acumulado  con  Proyecto  de  Ley  164-23  C. 'por medio de la cual se modifica el artículo 116, el numeral 2 del artículo 140, se deroga el artículo 117 del Código Civil y se dictan otras disposiciones', el cual cursa en  el  Senado,  se  pretende  modificar  el  artículo  del  Código  Civil  para  que  en Colombia quede prohibido el matrimonio a todos las personas menores de 18 años. Cabe resaltar que este ya es el cuarto intento de trabajar un proyecto de Ley en el Senado en este sentido, pero ya los anteriores han sido anulados.
 
-Frente a lo anterior, el Ministerio de Educación reconoce la importancia de la iniciativa, y la gravedad de los argumentos que se exponen así como el impacto positivo que tiene la educación en el abordaje de estas inequidades y violencias, pues es necesaria la acción educativa para prevenir las violencias sexuales que incluyen el matrimonio infantil y las uniones tempranas, con el fin de garantizar la formación integral de niños, niñas adolescentes y jóvenes y sus trayectorias educativas completas, como también las acciones legislativas que pongan un obstáculo a este tipo de prácticas culturales. De igual forma, el Ministerio participó de una mesa técnica con UNICEF y otras entidades de gobierno y organizaciones de sociedad civil donde se realizó una investigación para el análisis de la situación del matrimonio y uniones infantiles, tempranas y forzadas en Colombia (2010-2019). Esto produjo un documento final de informe y recomendaciones y una Nota sobre Matrimonio Infantil y Uniones Tempranas –MIUT– de Unicef, que se puede ver en: https://www.unicef.org/colombia/informes/resumen-miut y una nota técnica: https://www.unicef.org/lac/media/17561/file/nota-tecnica-miut-esp.pdf
+Frente a lo anterior, el Ministerio de Educación reconoce la importancia de la iniciativa, y la gravedad de los argumentos que se exponen así como el impacto positivo que tiene la educación en el abordaje de estas inequidades y violencias, pues es necesaria la acción educativa para prevenir las violencias sexuales que incluyen el matrimonio infantil y las uniones tempranas, con el fin de garantizar la formación integral de niños, niñas adolescentes y jóvenes y sus trayectorias educativas completas, como también las acciones legislativas que pongan un obstáculo a este tipo de prácticas culturales. De igual forma, el Ministerio participó de una mesa técnica con UNICEF y otras entidades de gobierno y organizaciones de sociedad civil donde se realizó una investigación para el análisis de la situación del matrimonio y uniones infantiles, tempranas y forzadas en Colombia (2010-2019). Esto produjo un documento final de informe y recomendaciones y una Nota sobre Matrimonio Infantil y Uniones Tempranas -MIUT- de Unicef, que se puede ver en: https://www.unicef.org/colombia/informes/resumen-miut y una nota técnica: https://www.unicef.org/lac/media/17561/file/nota-tecnica-miut-esp.pdf
 
 Actualmente, el Ministerio adelanta en el marco del PND 2022 – 2026 “Colombia Potencia Mundial de la Vida”, en el artículo 125 de “Estrategias de Resignificación del Tiempo Escolar para el Desarrollo Integral y La Protección de Trayectorias de Vida y Educativas”, las acciones sectoriales con una oferta educativa ampliada y el fortalecimiento de la educación para la ciudadanía.
 
@@ -1133,6 +1152,7 @@ La estrategia de formación y acompañamiento CRESE apuntará al desarrollo a la
 [[END OF PAGE 53]]
 
 [[START OF PAGE 54]]
+
 procesos que hoy conforman los ejes CRESE: Derechos Humanos, sexuales y reproductivos, ciudadanía pacífica y democrática, socioemocional, reconciliación, memoria histórica y paz, antirracismo, identidad y diversidad y educación ambiental para la acción climática, algunos de los cuales de una u otra manera vienen siendo importantes en la formación y con enfoques de derechos, de género, interseccional, restaurativo y sistémico.
 
 ###### Seleccione una de las siguientes opciones
@@ -1191,11 +1211,12 @@ En este orden de ideas, el Ministerio de Educación Nacional viene formulando e 
 
 - Cumplimiento a la sentencia T-025 de 2004, los Auto 004 y 005 de 2009 y sus autos específicos, el Programa de Garantías de Derechos (PGD) y el Decreto  Ley  de  Victimas  1448  de  2011,  en  lo  referente  al  componente educativo.
 
-Por medio de la formulación, diseño e implementación de los Proyectos Educativos Comunitarios - PEC los diferentes pueblos desarrollan su Plan de Vida en su dimensión formativa y educativa y recoge los elementos conceptuales, pedagógicos, metodológicos y operativos, concertados y decididos participativamente por un grupo étnico con el fin de orientar la formación de sus miembros, de acuerdo con sus intereses, propósitos culturales, contextos históricos y territoriales. Los proyectos educativos comunitarios -PEC - tienen un componente de autodiagnóstico (contexto geográfico, económico, social, cultural y educativo), principios de la cosmovisión de cada pueblo, (espiritualidad, ley de origen, gobierno propio, la tradición, los conocimientos, la ciencia, la tecnología y
+Por medio de la formulación, diseño e implementación de los Proyectos Educativos Comunitarios - PEC los diferentes pueblos desarrollan su Plan de Vida en su dimensión formativa y educativa y recoge los elementos conceptuales, pedagógicos, metodológicos y operativos, concertados y decididos participativamente por un grupo étnico con el fin de orientar la formación de sus miembros, de acuerdo con sus intereses, propósitos culturales, contextos históricos y territoriales. Los proyectos educativos comunitarios - PEC - tienen un componente de autodiagnóstico (contexto geográfico, económico, social, cultural y educativo), principios de la cosmovisión de cada pueblo, (espiritualidad, ley de origen, gobierno propio, la tradición, los conocimientos, la ciencia, la tecnología y
 
 [[END OF PAGE 55]]
 
 [[START OF PAGE 56]]
+
 la cultura del grupo étnico), componente pedagógico (los aspectos interculturales que se consideran relevantes para el desarrollo de su proceso educativo, organización de contenidos, prácticas pedagógicas propias, plan de estudios, formas de evaluación) y componente comunitario. A partir de los fundamentos y principios de cada PEC se desarrolla la atención educativa a la población desplazada, reconociendo la cosmovisión y conocimientos ancestrales de cada pueblo, los cuales están consignados en el PEC de cada uno de ellos.
 
 Entre las acciones afirmativas adelantadas con los pueblos indígenas se encuentran:
@@ -1231,6 +1252,7 @@ En 2007, el Decreto 2406 reglamentó la creación y funcionamiento de la Comisi�
 [[END OF PAGE 57]]
 
 [[START OF PAGE 58]]
+
 construcción colectiva se han desarrollado 38 sesiones de trabajo de la CONTCEPI, con avances significativos en el documento SEIP, en los componentes Político–Organizativo, Pedagógico y de Gestión:
 
 - Político-organizativo. Se refiere a los fundamentos históricos, territoriales, culturales, políticos, organizativos, ley de origen/derecho mayor, articulaciones externas y sus efectos.
@@ -1281,7 +1303,7 @@ Han pasado 10 años, y dichos lineamientos requieren incorporar elementos que de
 
 - Construcción  de  orientación  para  la  promoción  de  la  educación  superior incluisva,
 
-intercultural (https://www.mineducacion.gov.co/portal/micrositios-superior/Publicaciones-Educacion-Superior/357277:Lineamientos-de-politica-de-educacion-superior-inclusiva):
+intercultural(https://www.mineducacion.gov.co/portal/micrositios-superior/Publicaciones-Educacion-Superior/357277:Lineamientos-de-politica-de-educacion-superior-inclusiva ):
 
 - o Lineamientos de política de educación superior inclusiva. (https://www.mineducacion.gov.co/1780/articles-357277_recurso_0.pdf)
 
@@ -1409,7 +1431,7 @@ Han pasado 10 años, y dichos lineamientos requieren incorporar elementos que de
 
 - Construcción  de  orientación  para  la  promoción  de  la  educación  superior incluisva,
 
-intercultural (https://www.mineducacion.gov.co/portal/micrositios-superior/Publicaciones-Educacion-Superior/357277:Lineamientos-de-politica-de-educacion-superior-inclusiva):
+intercultural(https://www.mineducacion.gov.co/portal/micrositios-superior/Publicaciones-Educacion-Superior/357277:Lineamientos-de-politica-de-educacion-superior-inclusiva ):
 
 - o Lineamientos de política de educación superior inclusiva. (https://www.mineducacion.gov.co/1780/articles-357277_recurso_0.pdf)
 
@@ -1466,7 +1488,7 @@ Se requiere fortalecer la etnoeducación y la educación propia, con fuerte inco
 Es la principal barrera para la garantía de la educación propia de los pueblos y comunidades étnicas.
 
 ###### 4. Personas en movimiento (migrantes, refugiados, solicitantes de asilo, apátridas y desplazados internos) y poblaciones atrapadas
-4.  El  panorama  de  la  creciente migración de población venezolana ha implicado importantes desafíos para Colombia, por lo que el Gobierno Nacional, en conjunto con los gobiernos territoriales,  ha  implementado  una  política  clara  y  solidaria  en  la  que  el sector educativo ha realizado las adaptaciones necesarias para garantizar la atención e integración de niñas, niños, adolescentes y jóvenes migrantes. Sin embargo, la velocidad y magnitud del fenómeno migratorio, la confluencia de situaciones de emergencia social, sanitaria y económica que el país ha enfrentado en los últimos años, sumado a algunos rezagos estructurales del sistema educativo, conducen a reflexionar acerca de la necesidad de profundizar en acciones estratégicas para sortear los retos y dificultades que  significa  la  garantía  de  las  trayectorias  educativas  para  todos  los  niños,  niñas  y adolescentes migrantes que provienen de Venezuela. A continuación, se presentan algunos de los principales desafíos que subsisten para asegurar el derecho a la educación para esta población.
+4. El panorama de la creciente migración de población venezolana ha implicado importantes desafíos para Colombia, por lo que el Gobierno Nacional, en conjunto con los gobiernos territoriales, ha implementado una política clara y solidaria en la que el sector educativo ha realizado las adaptaciones necesarias para garantizar la atención e integración de niñas, niños, adolescentes y jóvenes migrantes. Sin embargo, la velocidad y magnitud del fenómeno migratorio, la confluencia de situaciones de emergencia social, sanitaria y económica que el país ha enfrentado en los últimos años, sumado a algunos rezagos estructurales del sistema educativo, conducen a reflexionar acerca de la necesidad de profundizar en acciones estratégicas para sortear los retos y dificultades que significa la garantía de las trayectorias educativas para todos los niños, niñas y adolescentes migrantes que provienen de Venezuela. A continuación, se presentan algunos de los principales desafíos que subsisten para asegurar el derecho a la educación para esta población.
 
 [[END OF PAGE 68]]
 
@@ -1510,18 +1532,37 @@ Es la principal barrera para la garantía de la educación propia de los pueblos
 ✓ Las medidas de política tienen como objetivo mejorar su derecho a la educación
 ✓ Se garantiza la inclusión en las escuelas ordinarias
 ✓ Existen medidas de acción positiva o afirmativa
+
 - Se eliminan todas las barreras administrativas para acceder a la educación
+
 - Existen procedimientos administrativos alternativos (pruebas de nivel, justificantes, etc.) para superar las barreras administrativas
+
 ✓ Los docentes reciben formación específica para garantizar su inclusión
+
 - Los docentes reciben formación para luchar contra la estigmatización
+
 - Existen incentivos financieros y becas
+
 - Se proporciona asistencia auxiliar
+
 - Existen vías de aprendizaje múltiples y flexibles
+
 - Los planes de estudio están libres de estereotipos y prejuicios
+
 - Existen programas de aprendizaje acelerado
-- Se imparten programas de educación no formal o alternativa
-- Se imparten clases de idiomas a los recién llegados
-- Se promueve la educación multilingüe e intercultural
+
+•
+
+Se imparten programas de educación no formal o alternativa
+
+•
+
+Se imparten clases de idiomas a los recién llegados
+
+•
+
+Se promueve la educación multilingüe e intercultural
+
 - Otro:
 
 ###### Explique  con  más  detalles  y,  cuando  proceda,  indique  las  medidas  jurídicas  y  políticas adoptadas: COBERTURA
@@ -1536,7 +1577,9 @@ En  noviembre  del  2023  se  emitió  la  circular  038,  en  ejercicio  de  la
 
 ###### Seleccione una de las siguientes opciones
 
-✓ Sí
+✓
+
+Sí
 
 No
 
@@ -1613,7 +1656,7 @@ para  gestionar  la  cobertura  adicional  que  se  está  presentando  por  efe
 
 ###### Explique con más detalles y, cuando proceda, indique las medidas jurídicas y políticas adoptadas.
 
-En las sentencias T – 620 de 1999, SU – 1149 de 2000, T – 826 de 2004, T- 1269 de 2005, T – 022 de 2009, T- 571 de 2013, T - 791 de 2014 y T – 020 de 2019 la Corte ha precisado que la permanencia en el sistema educativo adquiere especial relevancia cuando se trata de personas con limitaciones físicas o mentales. Así, las personas con discapacidad no pueden ser discriminadas para que accedan y permanezcan en el sistema educativo. Las autoridades deben tomar medidas específicas para asegurar el goce efectivo de este derecho.
+En las sentencias T -620 de 1999, SU -1149 de 2000, T -826 de 2004, T- 1269 de 2005, T -022 de 2009, T- 571 de 2013, T - 791 de 2014 y T -020 de 2019 la Corte ha precisado que la permanencia en el sistema educativo adquiere especial relevancia cuando se trata de personas con limitaciones físicas o mentales. Así, las personas con discapacidad no pueden ser discriminadas para que accedan y permanezcan en el sistema educativo. Las autoridades deben tomar medidas específicas para asegurar el goce efectivo de este derecho.
 
 Las reglas jurisprudenciales sobre el tema son las siguientes:
 
@@ -1680,7 +1723,9 @@ Los planes de estudio están libres de estereotipos y prejuicios
 Otro:
 
 ###### Explique  con  más  detalles  y,  cuando  proceda,  indique  las  medidas  jurídicas  y políticas adoptadas.
+
 Es importante señalar que el carácter de derecho fundamental que le otorga la Constitución Política a la educación implica que el Estado debe garantizar su ejercicio por parte de todas las personas sin ningún tipo de discriminación, e igualmente en condiciones de gratuidad de manera que no se impida su ejercicio por obstáculos o condiciones de tipo económico. En consecuencia, la garantía de los derechos implica su prestación de forma gratuita, por lo cual no puede ser considerada como un subsidio, lo cual se asocia a una “ayuda” o asistencia especial por parte del Estado.
+
 En virtud de ello, se informa que con la expedición del Decreto 4807 de 2011, compilado en el Decreto 1075 de 2015, Decreto Único Reglamentario del Sector Educación, se reglamentó la gratuidad educativa para todos los estudiantes de los establecimientos educativos estatales matriculados entre los grados de transición a undécimo. Así mismo, el artículo 2.3.1.6.4.2 del Decreto 1075 de 2015 establece: 'La  gratuidad  educativa  se  entiende  como  la  exención  del  pago  de  derechos académicos  y  servicios  complementarios.  En  consecuencia,  las  instituciones educativas estatales no podrán realizar ningún cobro por derechos académicos o servicios complementarios'.
 
 Debido a la gratuidad educativa, los estudiantes que están vinculados a través de la matricula oficial, no están obligados a asumir ningún costo para el desarrollo de sus actividades académicas u otros cargos relacionados en la educación preescolar, básica y media. Adicionalmente, se cuenta con estrategias de permanencia como alimentación  escolar,  transporte  escolar,  jornadas  escolares  complementarias, entre otras, cuya implementación es definida desde los establecimientos educativos  oficiales  en  articulación  con  las  secretarías  de  educación  de  las entidades  territoriales    certificadas,  las  cuales  son  financiadas  por  diferentes fuentes como son el Sistema General de Participación (SGP), recursos propios de los  territorios,  Sistema  General  de  Regalías,  aportes  de  empresa  privada  o cooperación  internacional  y  en  casos  especiales,  aportes  de  la  Nación,  lo  que apunta a garantizar el acceso y la permanencia de los estudiantes en el sistema educativo.
@@ -1701,13 +1746,11 @@ En  el  artículo  2.3.3.5.2.2.2. Líneas  de  inversión. De  conformidad  con 
 
 Para la educación inicial, básica y media en general, no existen incentivos ni becas, por la misma naturaleza de la oferta gratuita, no obstante, para las familias más pobres, desde el 2000 se desarrolla el Programa Familias en Acción, el cual ha desarrollado cuatro fases (Fase 1: 2000 -2006, Fase 2: 2007 -2012, Fase 3: 2013 -2021, Fase 4: 2022 -actual), con familias pobres y en extrema pobreza con  niñas,  niños  adolescentes  y  jóvenes  a  quienes  entregan  un  incentivo económico condicionado.
 
-Desde marzo 2023 inició la cuarta fase de operación de Familias en Acción -Tránsito a Renta Ciudadana a través de la Resolución No. 00542 de 2023. Este programa  tiene  como  objetivo  'Contribuir  a  la  superación  y  prevención  de  la pobreza,  la  formación  de  capital  humano,  a  la  formación  de  competencias
+Desde marzo 2023 inició la cuarta fase de operación de Familias en Acción -Tránsito a Renta Ciudadana a través de la Resolución No. 00542 de 2023. Este programa  tiene  como  objetivo  'Contribuir  a  la  superación  y  prevención  de  la pobreza,  la  formación  de  capital  humano,  a  la  formación  de  competencias ciudadanas  y  comunitarias,  mediante  el  apoyo  monetario  directo  y  acceso preferencial a programas complementarios a las familias participantes y titulares del Programa Familias en Acción.'
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
-
-ciudadanas y comunitarias, mediante el apoyo monetario directo y acceso preferencial a programas complementarios a las familias participantes y titulares del Programa Familias en Acción.'
 
 ###### Programa Renta Ciudadana:
 Es el programa central del sistema de transferencias, con el que el gobierno actual busca contribuir a la superación de la pobreza, fomentar la movilidad social  y  apoyar  la  economía  local,  mediante  la entrega de Transferencias Monetarias Condicionadas y No Condicionadas, siguiendo los principios de integralidad, efectividad y eficiencia.
@@ -1756,13 +1799,11 @@ A fines de referencia, la atención y educación de la primera infancia (AEPI) n
 
 Las acciones que ha venido desarrollando el Ministerio de Educación Nacional para la educación inicial a lo largo de los años, se cimientan en la Política de Estado de Estado para el Desarrollo Integral a la Primera Infancia que se armoniza con el marco normativo antes referido.
 
-Esta política representa la postura y comprensión que tiene el Estado colombiano sobre la primera infancia, el conjunto de normas asociadas a esta población, los
+Esta política representa la postura y comprensión que tiene el Estado colombiano sobre la primera infancia, el conjunto de normas asociadas a esta población, los procesos,  los  valores,  las  estructuras  y  los  roles  institucionales  y  las  acciones estratégicas lideradas por el Gobierno, que en corresponsabilidad con las familias y la sociedad, aseguran la protección integral y la garantía del goce efectivo de los derechos de la mujer en estado de embarazo y de los niños y niñas desde los cero (0) hasta los seis (6) años de edad.
 
 [[END OF PAGE 79]]
 
 [[START OF PAGE 80]]
-
-procesos,  los  valores,  las  estructuras  y  los  roles  institucionales  y  las  acciones estratégicas lideradas por el Gobierno, que en corresponsabilidad con las familias y la sociedad, aseguran la protección integral y la garantía del goce efectivo de los derechos de la mujer en estado de embarazo y de los niños y niñas desde los cero (0) hasta los seis (6) años de edad.
 
 Se  desarrolla  a  través  de  un  trabajo  articulado  e  intersectorial  que  desde  la perspectiva de derechos y  con  un enfoque de gestión basado en resultados, articula y promueve el conjunto de acciones intencionadas y efectivas encaminadas a asegurar que en cada uno de los entornos en los que transcurre la vida de las niñas y los niños existan las condiciones humanas, sociales y materiales para garantizar la promoción y potenciación de su desarrollo. Lo anterior a través de la atención integral que debe asegurarse a cada individuo de acuerdo con su edad, contexto y condición.
 
@@ -1806,13 +1847,11 @@ Por otra parte, el género y el desarrollo de la equidad de género, hace parte 
 
 A partir de allí, este mismo decreto establece que dentro de los objetivos de la educación inicial se encuentra el generar ambientes y experiencias pedagógicas que potencien el desarrollo y el aprendizaje de las niñas y los niños de acuerdo con sus características, en condiciones de equidad , contribuyendo a compensar las desigualdades de origen familiar, social, cultural, de género y/o económico, reconociéndolos como sujetos de derechos, actores sociales que inciden sobre el mundo  que  les  rodea,  protagonistas  de  su  propio  proceso  de  desarrollo,  y miembros activos de una familia y de una comunidad.
 
-Por tanto, el abordaje de la equidad de género es aspecto fundamental en clave del desarrollo integral y es una parte constitutiva de todos los procesos, acciones
+Por tanto, el abordaje de la equidad de género es aspecto fundamental en clave del desarrollo integral y es una parte constitutiva de todos los procesos, acciones y  las orientaciones que se dan para alcanzar los objetivos de la educación inicial en Colombia, a través de las condiciones de calidad y se plantearan un conjunto de orientaciones para fomentar la equidad de género en el marco de la importancia del cuidado y la promoción de la salud mental y el desarrollo socioemocional en la educación inicial.
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
-
-y  las orientaciones que se dan para alcanzar los objetivos de la educación inicial en Colombia, a través de las condiciones de calidad y se plantearan un conjunto de orientaciones para fomentar la equidad de género en el marco de la importancia del cuidado y la promoción de la salud mental y el desarrollo socioemocional en la educación inicial.
 
 La apuesta del Ministerio de Educación Nacional es lograr una Primera infancia feliz y protegida para que las niñas y los niños se desarrollen integralmente y crezcan en condiciones de amor, juego y protección, por lo que se está gestionando en  los  territorios  y  la  nación  acciones  para lograr  la  universalización  de  la atención integral con calidad de forma territorial y progresiva, en los municipios con condiciones de mayor riesgo de vulneraciones para la niñez y para el resto del país se hará énfasis territorios rurales y rurales dispersos, comunidades étnicas, campesinas, en vulnerabilidad y en municipios afectados por la violencia. Para el logro de estos propósitos se plantean acciones para fomentar estrategias de acceso y permanencia de las mujeres en el sistema educativo y para el cierre de brechas en calidad educativa combatiendo los estereotipos de género. En cumplimiento de esta meta se tienen 323.687 niñas y niños con Educación inicial en el marco de la atención integral.
 
@@ -2152,7 +2191,7 @@ Cafetero -Antioquia y Pacífico con un 9% cada una y en último lugar se ubica l
 
 76 ETC QUE REPORTAN ESTUDIANTES BENEFICIARIOS DE LA ESTRATEGIA DE TRANSPORTE ESCOLAR EN ESTABLECIMIENTOS EDUCATIVOS DE ZONA URBANA Y RURAL:
 
-No | ETC | Reporte de Beneficiarios en EE Rurales | Reporte de Beneficiarios en EE Urbanos | Total Beneficiarios
+N o | ETC | Reporte de Beneficiarios en EE Rurales | Reporte de Beneficiarios en EE Urbanos | Total Beneficiarios
 --- | --- | --- | --- | ---
 1 | AMAZONAS | 2.259 | 763 | 3.022
 2 | ANTIOQUIA | 10.130 | 6.447 | 16.577
@@ -2290,13 +2329,11 @@ A partir del reconocimiento y retos que conlleva la contratación de medios de t
 
 Desde el año 2020, el Ministerio de Educación en articulación con el Ministerio de Transporte, ha  llevado  a  cabo  mesas  de  trabajo  con  las  97  Entidades  Territoriales  Certificadas  en educación  y  las  administraciones  municipales;  para  acompañar  la  postulación  de  las entidades a la creación de Zonas Diferenciales para el Transporte y el Tránsito como una excepción normativa que posibilite la contratación de la estrategia de transporte escolar.
 
-Es así que el Ministerio de Educación acoge y expide la Resolución 012880 del 2020, 'Por la cual  se  adopta  el  procedimiento  interno  para  acreditar  las  condiciones  de  las  zonas
+Es así que el Ministerio de Educación acoge y expide la Resolución 012880 del 2020, 'Por la cual  se  adopta  el  procedimiento  interno  para  acreditar  las  condiciones  de  las  zonas diferenciales de transporte escolar y la expedición del documento que refiere el numeral 2 del artículo 2.2.8.5 del Decreto 746 de 2020'.
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
-
-diferenciales de transporte escolar y la expedición del documento que refiere el numeral 2 del artículo 2.2.8.5 del Decreto 746 de 2020'.
 
 A  la  fecha  se  tienen  93  municipios  postulados,  de  los  que  28  tienen  acto  administrativo expedido por el Ministerio de Transporte, y los demás tienen requerimiento de complemento de información por parte del Ministerio de Transporte, tal como lo establece el Decreto 746 de 2020.
 
@@ -2310,13 +2347,11 @@ En  lo  que  respecta  a  la  vigencia  2024,  el  Ministerio  de  Educación  h
 
 ###### Construcción de Planes de Permanencia y caracterización de la población en los Sistemas de Información
 
-El  Ministerio  de  Educación  Nacional  orienta  y  acompaña  a  las  secretarías  de educación para la construcción e implementación del plan de permanencia, el cual es un  instrumento  orientador  propuesto,  para  que  cada  ETC  y  los  establecimientos educativos  definan  estrategias  para  el  acceso  y  la  permanencia  educativa  de  los niños, niñas y adolescentes de su territorio, e identifiquen las principales causas de deserción;  buscando  definir  acciones  y  estrategias  pertinentes  y  oportunas  que permitan  mitigar  el  riesgo  de  deserción  identificado.      Es  así  como,  el  plan  de permanencia  se  convierte  en  un  instrumento  orientador  propuesto  para  que  las
+El  Ministerio  de  Educación  Nacional  orienta  y  acompaña  a  las  secretarías  de educación para la construcción e implementación del plan de permanencia, el cual es un  instrumento  orientador  propuesto,  para  que  cada  ETC  y  los  establecimientos educativos  definan  estrategias  para  el  acceso  y  la  permanencia  educativa  de  los niños, niñas y adolescentes de su territorio, e identifiquen las principales causas de deserción;  buscando  definir  acciones  y  estrategias  pertinentes  y  oportunas  que permitan  mitigar  el  riesgo  de  deserción  identificado.      Es  así  como,  el  plan  de permanencia  se  convierte  en  un  instrumento  orientador  propuesto  para  que  las Entidades Territoriales Certificadas y los establecimientos educativos, haciendo uso de  los  recursos  disponibles  y  las  posibles  alianzas  tanto  públicas  como  privadas, puedan definir estrategias, proyectos o acciones encaminados tanto a la prevención de los riesgos de deserción como a la definición de estrategias educativas pertinentes y flexibles para para favorecer la permanencia en el sistema educativo de todos los estudiantes.
 
 [[END OF PAGE 98]]
 
 [[START OF PAGE 99]]
-
-Entidades Territoriales Certificadas y los establecimientos educativos, haciendo uso de  los  recursos  disponibles  y  las  posibles  alianzas  tanto  públicas  como  privadas, puedan definir estrategias, proyectos o acciones encaminados tanto a la prevención de los riesgos de deserción como a la definición de estrategias educativas pertinentes y flexibles para para favorecer la permanencia en el sistema educativo de todos los estudiantes.
 
 Para la construcción de estos planes de permanencia, las secretarías de educación cuentan con las herramientas como el Sistema de Información para el Monitoreo, la prevención y el análisis de la deserción escolar SIMPADE, el módulo (Anexo 13A) sobre  estrategias  de  permanencia  que  se  registran  en  el  Sistema  Integrado  de Matrícula -SIMAT y los análisis propios adelantados por estas.
 
@@ -2329,12 +2364,11 @@ Igualmente, el SIMPADE facilita el monitoreo continuo del progreso de los estudi
 Finalmente, el SIMPADE promueve la participación activa de todos los actores de la comunidad  educativa,  incluyendo  estudiantes,  padres,  maestros  y  autoridades escolares. Este enfoque colaborativo asegura que todos estén alineados y trabajen juntos para apoyar a los estudiantes en riesgo de deserción.
 
 ###### Implementación  de  ruta  para  la  prevención  de  la  deserción  escolar  y  la revinculación  al  sistema  educativo  en  el  marco  del  Sistema  Nacional  de Bienestar Familiar
+De manera conjunta con el Instituto Colombiano de Bienestar Familiar (ICBF), durante el  año  2023  se  dio  inicio  al  pilotaje  de  la  ruta  para  la  Prevención  de  la  Deserción Escolar y la Revinculación al Sistema Educativo, en el Marco del Sistema Nacional de Bienestar Familiar (SNBF), la cual contiene propuestas de acciones articuladas de caracterización de riesgos de deserción, búsqueda activa e incorporación al sistema educativo  de  los  niños,  niñas  y  adolescentes  que  se  encuentran  fuera  de  este. Igualmente, a través de dicha ruta se busca que las Entidades Territoriales puedan generar  las  articulaciones  necesarias  con  las  Instancias  del  Sistema  Nacional  De Bienestar  Familiar  (SNBF)  que  hacen  presencia  en  el  territorio,  promoviendo  la articulación de los agentes y actores para el desarrollo de acciones de prevención, mitigación y atención de los diversos riesgos de deserción escolar.
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
-
-De manera conjunta con el Instituto Colombiano de Bienestar Familiar (ICBF), durante el  año  2023  se  dio  inicio  al  pilotaje  de  la  ruta  para  la  Prevención  de  la  Deserción Escolar y la Revinculación al Sistema Educativo, en el Marco del Sistema Nacional de Bienestar Familiar (SNBF), la cual contiene propuestas de acciones articuladas de caracterización de riesgos de deserción, búsqueda activa e incorporación al sistema educativo  de  los  niños,  niñas  y  adolescentes  que  se  encuentran  fuera  de  este. Igualmente, a través de dicha ruta se busca que las Entidades Territoriales puedan generar  las  articulaciones  necesarias  con  las  Instancias  del  Sistema  Nacional  De Bienestar  Familiar  (SNBF)  que  hacen  presencia  en  el  territorio,  promoviendo  la articulación de los agentes y actores para el desarrollo de acciones de prevención, mitigación y atención de los diversos riesgos de deserción escolar.
 
 Durante el año 2024, de manera conjunta entre el Ministerio de Educación Nacional y el ICBF, se ha dado continuidad al pilotaje de dicha ruta invitando a participar en el proceso a 21 ETC focalizadas.
 
@@ -2412,7 +2446,7 @@ Sí
 
 No
 
-✓ Sin respuesta
+◉ Sin respuesta
 
 ###### Mencione  las  leyes  y  disposiciones  pertinentes  e  indique  cómo  se  aplican  esas disposiciones:
 
@@ -2459,7 +2493,7 @@ A  fines  de  referencia,  en  el  artículo/párrafo  4.a  de  la  Convención 
 
 ###### Seleccione todos los correspondientes
 
-• La educación superior es gratuita
+- La educación superior es gratuita
 
 ✓ La educación superior es accesible sobre la base de la capacidad de cada uno (evaluada en función de las cualificaciones y la experiencia pertinentes)
 
@@ -2467,11 +2501,11 @@ A  fines  de  referencia,  en  el  artículo/párrafo  4.a  de  la  Convención 
 
 ✓ La educación superior se hace accesible aplicando medidas de acción positiva o afirmativa
 
-• La educación superior se hace accesible a través de un sistema de transferencia de créditos entre Estados
+- La educación superior se hace accesible a través de un sistema de transferencia de créditos entre Estados
 
-• La educación superior ofrece vías de aprendizaje múltiples y flexibles (inscripción y reinscripción flexibles, y reconocimiento, validación y acreditación de los conocimientos y competencias adquiridos a través de la educación no formal e informal)
+- La educación superior ofrece vías de aprendizaje múltiples y flexibles (inscripción y reinscripción flexibles, y reconocimiento, validación y acreditación de los conocimientos  y  competencias  adquiridos  a  través  de  la  educación  no  formal  e informal)
 
-• Otro:
+- Otro:
 
 ##### Enumere las leyes y políticas pertinentes. Si procede, facilite información sobre los costos  directos  (por  ejemplo,  tasas  de  matrícula  y  académicas)  e  indirectos  (por ejemplo, derechos de examen, material universitario, transporte y alojamiento). Se pueden añadir breves datos cuantitativos.
 
@@ -2530,7 +2564,7 @@ Fuente: MEN -SNIES -SIMAT
 
 Con respecto a la distribución de la matrícula en educación superior desagregada por sexo y nivel de formación para el año 2022, se observa que, el nivel universitario, que tiene el mayor número de estudiantes dentro del total, la participación de las mujeres allí es del 54,89%. En el caso de la formación técnica profesional y tecnológica, la participación de las mujeres es del 50,9% y 49,4% respectivamente.
 
-Para el nivel académico de posgrado, en los niveles formación de especialización universitaria, especialización médico-quirúrgica y maestría, las mujeres tienen una participación mayor que los hombres. En la tabla a continuación se presenta la información de matrícula por nivel y sexo.
+Para  el  nivel  académico  de  posgrado,  en  los  niveles  formación  de  especialización universitaria, especialización médico-quirúrgica  y  maestría, las  mujeres  tienen  una participación mayor que los hombres. En la tabla a continuación se presenta la información de matrícula por nivel y sexo.
 
 Tabla 3. Matrícula en educación superior desagregada por sexo y nivel de formación 2022
 
@@ -2549,7 +2583,7 @@ Total general | 1.318.019 | 53,44% | 1.148.209 | 46,56% | 2.466.228
 
 Fuente: MEN-SNIES. Fecha de corte junio de 2023
 
-Al analizar la composición de la matrícula de pregrado por Núcleo Básico de Conocimiento se evidencia que en algunos de ellos se cuenta con baja participación de las mujeres (carreras menos tradicionales para las mujeres).
+Al analizar la composición de la matrícula de pregrado por Núcleo Básico de Conocimiento se  evidencia  que  en  algunos  de  ellos  se  cuenta  con  baja  participación  de  las  mujeres (carreras menos tradicionales para las mujeres).
 
 Tabla 5. Núcleos de conocimiento que registran una menor participación de mujeres en el total de la matrícula de pregrado
 
@@ -2564,7 +2598,6 @@ Ingeniería electrónica, telecomunicaciones y afines | 6.819 | 43.077 | 49.896 
 [[START OF PAGE 107]]
 
 Formación relacionada con el campo militar o policial | 2.513 | 9.818 | 12.331 | 20,38% | 79,62%
---- | --- | --- | --- | --- | ---
 Deportes, educación física y recreación | 3.676 | 14.135 | 17.811 | 20,64% | 79,36%
 Ingeniería de sistemas, telemática y afines | 38.964 | 130.058 | 169.022 | 23,05% | 76,95%
 Física | 1.100 | 3.192 | 4.292 | 25,63% | 74,37%
@@ -2612,19 +2645,19 @@ Fuente: MEN-SNIES
 
 ✓ Problemas de equidad e inclusión
 
-• Programas de baja calidad
+- Programas de baja calidad
 
 [[END OF PAGE 108]]
 
 [[START OF PAGE 109]]
 
-• Resultados del aprendizaje mediocres
+- Resultados del aprendizaje mediocres
 
-• Escaso número de profesores que han recibido formación profesional
+· Escaso número de profesores que han recibido formación profesional
 
 ✓ Falta de mecanismos para garantizar una transición fluida de la educación secundaria a la superior
 
-• Otro:
+- Otro:
 
 ###### Explique. Se pueden añadir breves datos cuantitativos.
 
@@ -2682,13 +2715,13 @@ A fines de referencia, en el artículo/párrafo 4.c de la Convención y la Recom
 
 ### 3. Educación de calidad y entorno de aprendizaje
 
-A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados “construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y
+A fines de referencia, en los artículos/párrafos 2, 4.b y 5.b de la Convención y la Recomendación se establece el derecho a una educación de calidad. La educación de calidad es fundamental para alcanzar todas las metas del ODS 4. Esto también se destaca particularmente en la meta 4.a de los ODS, en la que se recomienda a los Estados 'construir y adecuar instalaciones educativas que tengan en cuenta las necesidades de los niños y las personas con discapacidad y las diferencias de género, y
 
 [[END OF PAGE 110]]
 
 [[START OF PAGE 111]]
 
-que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos”.
+que ofrezcan entornos de aprendizaje seguros, no violentos, inclusivos y eficaces para todos'.
 
 #### 3.1    Medidas generales DIRECCION DE COBERTURA
 
@@ -2758,7 +2791,7 @@ de los docentes y directivos de establecimientos educativos, para que las polít
 
 2. Promover en y con las familias el fortalecimiento de sus capacidades para la crianza amorosa, el acompañamiento y el involucramiento en los aprendizajes y participación de niños, niñas, adolescentes y jóvenes.
 
-Identificación e intercambio de experiencias basadas en la convivencia pacífica, la no discriminación, el antirracismo, la reconciliación y los derechos humanos, sexuales y reproductivos y la educación ambiental, así como el reconocimiento, valoración y respuestas pertinentes ante la diversidad.
+3. Fortalecer la construcción de saber pedagógico y la consolidación de comunidades de práctica mediante la identificación e intercambio de experiencias basadas en la convivencia pacífica, la no discriminación, el antirracismo, la reconciliación y los derechos humanos, sexuales y reproductivos y la educación ambiental, así como el reconocimiento, valoración y respuestas pertinentes ante la diversidad.
 
 4. Fortalecer la capacidad de gestión intersectorial de los comités territoriales de convivencia escolar en articulación con otras instancias para la garantía de derechos de niñas, niños, adolescentes y jóvenes.
 
@@ -2774,7 +2807,7 @@ La educación CRESE, está orientada por los enfoques de Derechos Humanos, inter
 
 3. Participación democrática: se orienta hacia la toma de decisiones en diversos contextos, teniendo en cuenta que dichas decisiones deben respetar, tanto los derechos fundamentales de los individuos como los acuerdos, las normas, las leyes y la Constitución que rigen la vida en comunidad. Se enfoca en la formación del pensamiento crítico y en la transformación colectiva de los problemas del contexto.
 
-4. Educación ambiental para la acción climática: se trata de proponer una mirada diferente 3. Fortalecer la construcción de saber pedagógico y la consolidación de comunidades de práctica mediante la iden sobre la relación que
+4. Educación ambiental para la acción climática: se trata de proponer una mirada diferente sobre la relación que
 
 [[END OF PAGE 113]]
 
@@ -2873,7 +2906,7 @@ Es  importante  resaltar  que  entre  2014  y  2024  el  Ministerio  de Educaci�
 
 ✓ Violencia en las escuelas
 
-• Costo de la educación
+- Costo de la educación
 
 ✓ Conflictos o crisis
 
@@ -2901,7 +2934,7 @@ Aunque en Colombia se ha avanzado en términos de cobertura, al menos hasta el 2
 
 Otro de los puntos que preocupa es la calidad de la educación:
 
-“En las pruebas PISA de 2018, Colombia presentó una reducción de su desempeño con respecto a 2015 y una diferencia entre 80 y 100 puntos con respecto al promedio de la OCDE. Esto implica que un estudiante de 15 años en el país cuenta con 2,5 años menos de escolaridad con respecto a un estudiante promedio de la OCDE. Más de la mitad de los estudiantes en grado noveno no entienden bien lo que leen, y dos terceras partes obtienen el nivel más bajo de desempeño en matemáticas. En educación superior, la acreditación de alta calidad se concentra solo en la oferta universitaria, con un 82% de la oferta acreditada. Además, no hay mediciones de la calidad de los técnicos laborales, cursos cortos y diplomados de la formación para el trabajo”, esto evidencia las principales
+'En las pruebas PISA de 2018, Colombia presentó una reducción de su desempeño con respecto a 2015 y una diferencia entre 80 y 100 puntos con respecto al promedio de la OCDE. Esto implica que un estudiante de 15 años en el país cuenta con 2,5 años menos de escolaridad con respecto a un estudiante promedio de la OCDE. Más de la mitad de los estudiantes en grado noveno no entienden bien lo que leen, y dos terceras partes obtienen el nivel más bajo de desempeño en matemáticas. En educación superior, la acreditación de alta calidad se concentra solo en la oferta universitaria, con un 82% de la oferta acreditada. Además, no hay mediciones de la calidad de los técnicos laborales, cursos cortos y diplomados de la formación para el trabajo', esto evidencia las principales
 
 [[END OF PAGE 117]]
 
@@ -2913,7 +2946,7 @@ Si bien la cobertura en el nivel de escolaridad media, bachillerato, es de las m
 
 Las cifras dicen que el problema central del sistema educativo colombiano es la deserción, por cada 100 niños que entran a primero de primaria, solo 44 se gradúan como bachiller, de hecho, en el trance entre la secundaria y los programas técnicos o profesionales es cuando más se nota el abandono, de esos 44 graduados solo el 38,7 % acceden a la educación superior.
 
-Por esto, se plantea una “universalización de la educación inicial”, con el fin de suplir los 850 mil cupos que hacen falta para garantizar la educación a los dos millones de niños entre 3 y 5 años, lo que significaría una inversión entre 1,7 billones y 2,7 billones de pesos. Otra de las propuestas es hacer un seguimiento, a partir de inteligencia artificial, para detectar a esos menores que tienen la intención de desertar o que ya desertaron para incentivarlos a culminar sus estudios.
+Por esto, se plantea una 'universalización de la educación inicial', con el fin de suplir los 850 mil cupos que hacen falta para garantizar la educación a los dos millones de niños entre 3 y 5 años, lo que significaría una inversión entre 1,7 billones y 2,7 billones de pesos. Otra de las propuestas es hacer un seguimiento, a partir de inteligencia artificial, para detectar a esos menores que tienen la intención de desertar o que ya desertaron para incentivarlos a culminar sus estudios.
 
 También piden rediseñar el modelo financiero del ICETEX para que sea valorado desde una perspectiva de servicio social, garantizado por el Estado. Además, generar currículos para entender las necesidades competitivas del país y formar a los jóvenes para suplir esos espacios; incluso regular los sistemas de evaluación, tanto para el sistema de educación en general como para los alumnos, logrando mejorar las calificaciones a nivel internacional.
 
@@ -2933,7 +2966,7 @@ A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recom
 
 ✓ La formación de docentes se imparte sin discriminación
 
-• Los salarios medios de los docentes son competitivos o al menos comparables a los de otras profesiones que requieren cualificaciones similares o equivalentes (en todos los niveles)
+- Los salarios medios de los docentes son competitivos o al menos comparables a los de otras profesiones que requieren cualificaciones similares o equivalentes (en todos los niveles)
 
 ✓ Se ofrece formación inicial y desarrollo profesional continuo
 
@@ -2941,25 +2974,25 @@ A fines de referencia, en el artículo/párrafo 4.d de la Convención y la Recom
 
 ✓ Se han adoptado medidas para mejorar el prestigio social y el atractivo de la profesión docente
 
-• Se han adoptado medidas para promover la diversidad entre el personal docente, incluida la corrección de los desequilibrios de género en los distintos niveles de educación
+- Se han adoptado medidas para promover la diversidad entre el personal docente, incluida la corrección de los desequilibrios de género en los distintos niveles de educación
 
 ✓ Se han establecido sistemas de supervisión del desempeño
 
-• Se han adoptado medidas para aumentar el número de mujeres en puestos directivos en la educación
+- Se  han  adoptado  medidas  para  aumentar  el  número  de  mujeres  en  puestos directivos en la educación
 
-• Otro:
+- Otro:
 
 ##### Proporcione detalles sobre cada una de las medidas adoptadas:
 
 ###### 25.000 créditos educativos condonables ofrecidos, para financiar el acceso de docentes del sector oficial a programas de formación y cualificación pedagógica .
 
-En el marco de la Estrategia de Poder Pedagógico Popular, orientados por el desafío planteado en el PND 2022 - 2026 de “Fortalecer la formación de docentes, directivos docentes, orientadores escolares con el objetivo de tener una educación más contextualizada que responda a las necesidades de los estudiantes e impacte
+En el marco de la Estrategia de Poder Pedagógico Popular, orientados por el desafío planteado en el PND 2022 - 2026 de 'Fortalecer la formación de docentes, directivos docentes, orientadores escolares con el objetivo de tener una educación más contextualizada que responda a las necesidades de los estudiantes e impacte
 
 [[END OF PAGE 119]]
 
 [[START OF PAGE 120]]
 
-positivamente en sus proyectos de vida”, El Viceministerio de Educación Preescolar, Básica y Media, la Asociación Colombiana de Facultades de Educación (ASCOFADE) y la Asociación Nacional de Escuelas Normales (ASONEN) han aunado esfuerzos para avanzar en el reconocimiento, dignificación y desarrollo de la profesión docente, con la puesta en marcha del componente de Territorialización de la Formación de Educadores (TFE). Dicho componente estableció una ruta para el desarrollo profesional docente que comprende dos etapas estratégicas: 1) Encuentros Territoriales de Poder Pedagógico: Formación Docente, 2) Convocatorias para otorgar créditos educativos condonables a docentes oficiales en servicio, diseñadas a partir de los portafolios territoriales de oferta académica. Los componentes se aplican a formación inicial, formación avanzada y formación continua.
+positivamente en sus proyectos de vida', El Viceministerio de Educación Preescolar, Básica y Media, la Asociación Colombiana de Facultades de Educación (ASCOFADE) y la Asociación Nacional de Escuelas Normales (ASONEN) han aunado esfuerzos para avanzar en el reconocimiento, dignificación y desarrollo de la profesión docente, con la puesta en marcha del componente de Territorialización de la Formación de Educadores (TFE). Dicho componente estableció una ruta para el desarrollo profesional docente que comprende dos etapas estratégicas: 1) Encuentros Territoriales de Poder Pedagógico: Formación Docente, 2) Convocatorias para otorgar créditos educativos condonables a docentes oficiales en servicio, diseñadas a partir de los portafolios territoriales de oferta académica. Los componentes se aplican a formación inicial, formación avanzada y formación continua.
 
 ###### Formación Inicial:
 atendiendo al desafío de reducir la desigualdad y convertir a Colombia en una sociedad del conocimiento y de los saberes propios, que define para  la  educación  del  país,  la  estrategia  de  poder  pedagógico  popular  para formación docente inicial traza la  meta de otorgar 5.000 cupos para créditos educativos condonables, que se adjudican mediante convocatorias realizadas con el ICETEX en el marco del 'FONDO FORMACIÓN EN PROGRAMAS DE PREGRADO Y POSGRADO PARA EDUCADORES DEL SECTOR OFICIAL, MEDIANTE EL OTORGAMIENTO DE CRÉDITOS EDUCATIVOS CONDONABLES' CONTRATO INTERADMINISTRATIVO 261 DE 2019 (MEN) -2019-0510 (ICETEX).
@@ -2996,9 +3029,9 @@ Con el objetivo de actualizar y transformar las prácticas pedagógicas de 5.106
 
 ✓ Falta de personal docente cualificado, capacitado y motivado
 
-• Falta de centros de formación
+- Falta de centros de formación
 
-• Mala calidad de la infraestructura escolar y el material pedagógico
+- Mala calidad de la infraestructura escolar y el material pedagógico
 
 ✓ Elevado número de alumnos por docente
 
@@ -3022,7 +3055,7 @@ A fines de referencia, en el artículo/párrafo 5.1.a de la Convención y la Rec
 
 ✓ Se organizan actividades educativas o extracurriculares relacionadas con la educación en materia de derechos humanos
 
-• Otro
+- Otro
 
 ##### Proporcione detalles sobre cada una de las medidas adoptadas:
 
@@ -3042,15 +3075,15 @@ Entre los fines de la educación, la Ley plantea los siguientes:
 
 Según el artículo 14 del decreto 1860 de 1994, toda institución educativa debe elaborar y poner en práctica con la participación de la comunidad educativa, un Proyecto Educativo Institucional -PEI- que exprese la forma como se ha decidido alcanzar  los  fines  de  la  educación  definidos  por  la  ley,  teniendo  en  cuenta  las condiciones sociales, económicas y culturales de su medio.
 
-Además, en reglamentación de la Ley General de Educación, el Decreto 1860 de 1994, establece en el Artículo 36 que los proyectos pedagógicos se entienden como: “... una actividad dentro del plan de estudios que de manera planificada ejercita al educando en la solución de problemas cotidianos, seleccionados por tener relación directa con el entorno social, cultural, científico y tecnológico del alumno. Cumplen la función de correlacionar, integrar y hacer activos los conocimientos, habilidades, destrezas, actitudes y valores logrados en el desarrollo
+Además, en reglamentación de la Ley General de Educación, el Decreto 1860 de 1994, establece en el Artículo 36 que los proyectos pedagógicos se entienden como: '… una actividad dentro del plan de estudios que de manera planificada ejercita al educando en la solución de problemas cotidianos, seleccionados por tener relación directa con el entorno social, cultural, científico y tecnológico del alumno. Cumplen la función de correlacionar, integrar y hacer activos los conocimientos, habilidades, destrezas, actitudes y valores logrados en el desarrollo
 
 [[END OF PAGE 123]]
 
 [[START OF PAGE 124]]
 
-de diversas áreas, así como de la experiencia acumulada. La enseñanza prevista en el artículo 14 de la ley 115 de 1994, se cumplirá bajo la modalidad de proyectos pedagógicos”.
+de diversas áreas, así como de la experiencia acumulada. La enseñanza prevista en el artículo 14 de la ley 115 de 1994, se cumplirá bajo la modalidad de proyectos pedagógicos'.
 
-En este sentido, el Ministerio de Educación Nacional estructuró estándares de competencias básicas y estándares de competencias ciudadanas, especialmente, los Estándares Básicos de Competencias Ciudadanas, están basados en una idea de ciudadanía que abarca tanto las relaciones privadas y cotidianas como la participación en las decisiones públicas. Con ellos se busca contribuir al desarrollo de competencias propicias “para ejercer su derecho a actuar como agentes activos y de manera constructiva en la sociedad: para participar activa y responsablemente en las decisiones colectivas de manera democrática, para resolver los conflictos en forma pacífica y para respetar la diversidad humana, entre otros importantes, como proteger el ambiente. En otras palabras, formar de manera reflexiva y deliberada para proteger y promover los Derechos Humanos y hacer realidad la sociedad que soñamos.
+En este sentido, el Ministerio de Educación Nacional estructuró estándares de competencias básicas y estándares de competencias ciudadanas, especialmente, los Estándares Básicos de Competencias Ciudadanas, están basados en una idea de ciudadanía que abarca tanto las relaciones privadas y cotidianas como la participación en las decisiones públicas. Con ellos se busca contribuir al desarrollo de competencias propicias 'para ejercer su derecho a actuar como agentes activos y de manera constructiva en la sociedad: para participar activa y responsablemente en las decisiones colectivas de manera democrática, para resolver los conflictos en forma pacífica y para respetar la diversidad humana, entre otros importantes, como proteger el ambiente. En otras palabras, formar de manera reflexiva y deliberada para proteger y promover los Derechos Humanos y hacer realidad la sociedad que soñamos.
 
 Así mismo, desde 2011 el sector educativo colombiano cuenta con orientaciones pedagógicas para la implementación de proyectos pedagógicos transversales en Educación para el Ejercicio de los Derechos Humanos, los cuales buscan incidir en las áreas de gestión institucional, incluyendo la gestión académica y curricular.
 
@@ -3070,7 +3103,7 @@ El desarrollo de la educación CRESE implica transversalizar a partir del contex
 
 docentes y orientadores escolares, así como en la interacción con la comunidad en el territorio y con la naturaleza. Es una apuesta por un cambio en la acción.
 
-El propósito no es desarrollar temas, sino identificar a partir del contexto, la cotidianidad y de las características, los intereses y de las necesidades de las comunidades educativas, cuál es el eje que permite fortalecer los procesos pedagógicos, no solo en competencias básicas, sino en la capacidad para leer la realidad, en el desarrollo de competencias ciudadanas y socioemocionales. La educación CRESE implica no limitar el desarrollo de competencias ciudadanas y socioemocionales a “una asignatura aislada, sino afrontar una responsabilidad compartida que atraviesa todas las áreas e instancias de la institución escolar y toda la comunidad educativa (directivas, docentes, estudiantes, familias, personal administrativo y las demás personas que interactúan en ella” Ministerio de Educación Nacional, 2004).
+El propósito no es desarrollar temas, sino identificar a partir del contexto, la cotidianidad y de las características, los intereses y de las necesidades de las comunidades educativas, cuál es el eje que permite fortalecer los procesos pedagógicos, no solo en competencias básicas, sino en la capacidad para leer la realidad, en el desarrollo de competencias ciudadanas y socioemocionales. La educación CRESE implica no limitar el desarrollo de competencias ciudadanas y socioemocionales a 'una asignatura aislada, sino afrontar una responsabilidad compartida que atraviesa todas las áreas e instancias de la institución escolar y toda la comunidad educativa (directivas, docentes, estudiantes, familias, personal administrativo y las demás personas que interactúan en ella' Ministerio de Educación Nacional, 2004).
 
 ###### EJES PARA LA ACCIÓN
 
@@ -3093,7 +3126,6 @@ se trata de promover la reconstrucción de los vínculos entre los miembros de u
 
 [[START OF PAGE 126]]
 tienen como objetivo detener ciclos de venganza, retaliación y resentimiento, y así, promover la reparación, tanto en las relaciones entre personas como en las relaciones entre la comunidad y el Estado. Todo esto, teniendo como centro el reconocimiento y la dignificación de las víctimas.
-
 ###### Derechos  humanos,  sexuales  y  reproductivos:
 los  derechos  humanos  se basan en la dignidad, la ética y la igualdad entre todos los seres humanos, lo que significa que nadie es más o menos digno que otra persona. Esto requiere que tanto  los  individuos  como  las  comunidades  estén  dispuestos  a  reconocer, comprender, valorar y defender esta dignidad y la igualdad entre las personas. Por su  parte,  la  educación  sexual  integral  es  aquella  en  el  cual  se  adquieren  y transforman conocimientos, actitudes y valores relacionados con la sexualidad en todas  sus  manifestaciones:  tanto  aspectos  biológicos  y  reproductivos  como aquellos vinculados al erotismo, la identidad sexual y las representaciones sociales asociadas a la sexualidad.
 
@@ -3135,15 +3167,13 @@ Estas ideas serán socializadas con autoridades nacionales, locales y los aliado
 
 El MEN como líder del Sistema Nacional de Convivencia Escolar construyó con las demás entidades del Comité Nacional, el Plan Nacional 2023-2026. A partir de este plan se implementan procesos de asistencia técnica y transferencia de metodologías a los equipos de las Secretarías de Educación que acompañan a los establecimientos educativos en la implementación de la educación CRESE como parte de las acciones de prevención y promoción.
 
-A su vez, se fortalece el diseño de planes territoriales de convivencia escolar, así como la implementación de los protocolos nacionales para el abordaje pedagógico de situaciones de riesgo en el marco de la ruta de atención integral para la convivencia escolar en relación con la conducta suicida, el consumo de sustancias psicoactivas, el antirracismo, la xenofobia, las violencias basadas en género y el ciberacoso. En el mismo sentido, fortalece las capacidades de las familias frente a sus prácticas de crianza para una formación afectiva, de contención y
+A su vez, se fortalece el diseño de planes territoriales de convivencia escolar, así como la implementación de los protocolos nacionales para el abordaje pedagógico de  situaciones  de  riesgo  en  el  marco  de  la  ruta  de  atención  integral  para  la convivencia escolar en relación con la conducta suicida, el consumo de sustancias psicoactivas, el antirracismo, la xenofobia, las violencias basadas en género y el ciberacoso. En el mismo sentido, fortalece las capacidades de las familias frente a sus prácticas de crianza para una formación afectiva, de contención y acompañamiento y de involucramiento en su educación, como factores protectores de estas conductas de riesgo.
 
 [[END OF PAGE 127]]
 
 [[START OF PAGE 128]]
 
-acompañamiento y de involucramiento en su educación, como factores protectores de estas conductas de riesgo.
-
-De igual forma, la educación CRESE servirá para movilizar la apropiación, el fortalecimiento y el desarrollo de los Comités Técnicos Interinstitucionales de Educación Ambiental (CIDEA), que son instancias de multiactores a nivel departamental, municipal y distrital, cuya función es la coordinación de procesos de educación ambiental en el territorio, que promuevan la conformación de alianzas y redes de actores bajo el liderazgo de las Secretarías de Educación y las autoridades ambientales para potenciar estrategias que respondan a las características del contexto. Así, el propósito es promover sentidos compartidos, alianzas y apuestas que fortalezcan las iniciativas escolares CRESE.
+De  igual  forma,  la  educación  CRESE  servirá  para  movilizar  la  apropiación,  el fortalecimiento  y  el  desarrollo  de  los  Comités  Técnicos  Interinstitucionales  de Educación  Ambiental  (CIDEA),  que  son  instancias  de  multiactores  a  nivel departamental, municipal y distrital, cuya función es la coordinación de procesos de  educación  ambiental  en  el  territorio,  que  promuevan  la  conformación  de alianzas y redes de actores bajo el liderazgo de las Secretarías de Educación y las autoridades ambientales para potenciar estrategias que respondan a las características del contexto. Así, el propósito es promover sentidos compartidos, alianzas y apuestas que fortalezcan las iniciativas escolares CRESE.
 
 #### 3.4    Agentes no estatales en la educación
 
@@ -3211,89 +3241,31 @@ La  educación  digital  permite  mejorar  el  acceso,  pero  también  puede  p
 
 [[START OF PAGE 130]]
 
-•
-
-Las disposiciones legislativas, políticas, estrategias o planes básicos para la gestión,
-
-la privacidad, la seguridad, el almacenamiento, la transferencia, el uso y el intercambio
-
-de datos sobre educación a nivel interno y externo tienen por objeto garantizar el
-
-derecho a la privacidad de los alumnos y las partes interesadas en la educación (por
-
-ejemplo, consentimiento informado, políticas de uso transparentes, etc.)
-
-•
-
-El marco regulatorio establece normas mínimas para la educación digital que deben
-
-cumplir todos los agentes de la educación x
-
-•
-
-Se han adoptado medidas para eliminar las barreras para acceder a los contenidos
-
-digitales,  en  especial  garantizando el  acceso  a  contenidos  digitales adaptados a  los
-
-planes  de  estudio  y  disponibles  en  plataformas  nacionales  gratuitas,  públicas  y
-
-multimodales; se elaboran contenidos de alta calidad, disponibles en las asignaturas
-
-troncales, en la lengua o lenguas nacionales oficiales y con características inclusivas
-
-para ayudar a los alumnos con discapacidades x
-
-•
-
-Se  han  incorporado  las  competencias  digitales  en  los  planes  de  formación  de
-
-docentes, antes del empleo y en el empleo, y en los planes de formación en liderazgo
-
-a fin de crear una cultura de innovación digital y crecimiento basada en la equidad y la
-
-inclusión  que  favorezca  el  perfeccionamiento  profesional  continuo  del  personal  ya
-
-existente y que se está contratando x
-
-•
-
-Se han integrado las competencias necesarias para adaptarse al futuro (incluidas
-
-competencias digitales, competencias en materia de datos e IA, pensamiento crítico,
-
-etc.) en los planes de estudio oficiales de todos los niveles de enseñanza
-
-•
-
-Se han adoptado medidas para reducir la brecha digital, en especial garantizando
-
-un suministro de electricidad fiable, una buena conectividad a Internet en la escuela y
-
-en casa, y el acceso a dispositivos adecuados para el aprendizaje y la enseñanza, a
-
-software seguro y sostenible, a plataformas seguras y a sistemas integrados de datos
-
-sobre la educación x
-
-•
-
-Se  ha  preparado  un  presupuesto  bien  establecido,  sostenible  y  costoeficaz
-
-financiado  por  diversas  fuentes  y  la  cooperación  intersectorial,  y  respaldado  por
-
-informes centrados en el impacto y vinculados a los objetivos estratégicos regionales x
-
-##### Proporcione detalles sobre cada una de las medidas adoptadas.
-
-RESPONDER AQUÍ
-
-En el marco de la Ley 1581 de 2012 y el Decreto Reglamentario 1377 de 2013, compilado en el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo 1074 de 2015, Capítulo 25, este ministerio ha adoptado los lineamientos definidos en la Ley para el uso de datos personales privados y sensibles, tales como la firma de los formatos de Acuerdo de Colaboración para el Intercambio de Información.
+• Las disposiciones legislativas, políticas, estrategias o planes básicos para la gestión, la privacidad, la seguridad, el almacenamiento, la transferencia, el uso y el intercambio de datos sobre educación a nivel interno y externo tienen por objeto garantizar el derecho a la privacidad de los alumnos y las partes interesadas en la educación (por ejemplo, consentimiento informado, políticas de uso transparentes, etc.)
 
 Commented [BR1]: @Elsa Nelly Velasco Pulido para tu revisión
 
 Commented [EP2R1]: Aquí cabe los aportes que desde la OTSI puedan dar, dado la Política de Seguridad de la Información en el marco de la ISO 27001
 
 Commented [EP3R1]: Particularmente en la Guía- Política de transferencia de información ST-GU-15
+
+• El marco regulatorio establece normas mínimas para la educación digital que deben cumplir todos los agentes de la educación x
+
+• Se han adoptado medidas para eliminar las barreras para acceder a los contenidos digitales, en especial garantizando el acceso a contenidos digitales adaptados a los planes de estudio y disponibles en plataformas nacionales gratuitas, públicas y multimodales; se elaboran contenidos de alta calidad, disponibles en las asignaturas troncales, en la lengua o lenguas nacionales oficiales y con características inclusivas para ayudar a los alumnos con discapacidades x
+
+• Se han incorporado las competencias digitales en los planes de formación de docentes, antes del empleo y en el empleo, y en los planes de formación en liderazgo a fin de crear una cultura de innovación digital y crecimiento basada en la equidad y la inclusión que favorezca el perfeccionamiento profesional continuo del personal ya existente y que se está contratando x
+
+• Se han integrado las competencias necesarias para adaptarse al futuro (incluidas competencias digitales, competencias en materia de datos e IA, pensamiento crítico, etc.) en los planes de estudio oficiales de todos los niveles de enseñanza
+
+• Se han adoptado medidas para reducir la brecha digital, en especial garantizando un suministro de electricidad fiable, una buena conectividad a Internet en la escuela y en casa, y el acceso a dispositivos adecuados para el aprendizaje y la enseñanza, a software seguro y sostenible, a plataformas seguras y a sistemas integrados de datos sobre la educación x
+
+• Se ha preparado un presupuesto bien establecido, sostenible y costoeficaz financiado por diversas fuentes y la cooperación intersectorial, y respaldado por informes centrados en el impacto y vinculados a los objetivos estratégicos regionales x
+
+##### Proporcione detalles sobre cada una de las medidas adoptadas.
+
+RESPONDER AQUÍ
+
+En el marco de la Ley 1581 de 2012 y el Decreto Reglamentario 1377 de 2013, compilado en el Decreto Único Reglamentario del Sector Comercio, Industria y Turismo 1074 de 2015, Capítulo 25, este ministerio ha adoptado los lineamientos definidos en la Ley para el uso de datos personales privados y sensibles, tales como la firma de los formatos de Acuerdo de Colaboración para el Intercambio de Información.
 
 [[END OF PAGE 130]]
 
@@ -3337,13 +3309,11 @@ Es así como el Ministerio de Educación Nacional implementa la estrategia pedag
 
 Con esta estrategia se busca desarrollar habilidades como el pensamiento crítico, resolución de problemas, colaboración, comunicación, creatividad e innovación, alfabetización de datos, pensamiento computacional, con el fin de mejorar la calidad y pertinencia de la educación en estos campos, en el marco de los procesos de resignificación del tiempo escolar, asimismo como una estrategia efectiva de recuperación de los aprendizajes en matemáticas y lenguaje.
 
-La implementación de la estrategia de Centros de Interés en CTI se adelantarán procesos de: 1) Formación a 1,400 docentes en metodologías de aprendizaje activo que integren el enfoque STEM, la alfabetización mediática e informacional y el enfoque de género; 2) Capacitar a 1,200 formadores del programa de Tutorías para el Aprendizaje y Formación Integral (PTAFI 3.0) recibirán formación en pensamiento computacional, para fortalecer el proceso de acompañamiento a los maestros y maestras y mejorar sus prácticas pedagógicas que favorezcan el desarrollo del ser de los niños, niñas y jóvenes; y 3) Estimular el desarrollo de las vocaciones, habilidades y competencias en Ciencia, Tecnología e Innovación (CTI) en el marco de la formación integral de alrededor de 22,000 niñas, niños, adolescentes y jóvenes, en línea con los esfuerzos de resignificación del tiempo escolar. Se propenderá por el desarrollo de las
+La implementación de la estrategia de Centros de Interés en CTI se adelantarán procesos de: 1) Formación a 1,400 docentes en metodologías de aprendizaje activo que integren el enfoque STEM, la alfabetización mediática e informacional y el enfoque de género; 2) Capacitar a 1,200 formadores del programa de Tutorías para el Aprendizaje y Formación Integral (PTAFI 3.0) recibirán formación en pensamiento computacional, para fortalecer el proceso de acompañamiento  a  los  maestros  y  maestras  y  mejorar  sus  prácticas  pedagógicas  que favorezcan el desarrollo del ser de los niños, niñas y jóvenes; y 3) Estimular el desarrollo de las vocaciones, habilidades y competencias en Ciencia, Tecnología e Innovación (CTI) en el marco de la formación integral de alrededor de 22,000 niñas, niños, adolescentes y jóvenes, en línea con los esfuerzos de resignificación del tiempo escolar. Se propenderá por el desarrollo de las habilidades  del  siglo  XXI  en  los  estudiantes,  por  medio  de  las  temáticas,  la  didáctica  y  la metodología  de  aprendizaje  activo  que  sea  seleccionada  para  el  desarrollo  de  la  ruta  de trabajo con los estudiantes.
 
 [[END OF PAGE 133]]
 
 [[START OF PAGE 134]]
-
-habilidades del siglo XXI en los estudiantes, por medio de las temáticas, la didáctica y la metodología de aprendizaje activo que sea seleccionada para el desarrollo de la ruta de trabajo con los estudiantes.
 
 ###### Formación docente
 
@@ -3373,15 +3343,13 @@ https://sisconpes.dnp.gov.co/SisCONPESWeb//AccesoPublico/DocumentosElaboracion
 
 ###### Brecha digital
 
-Uno de los propósitos del Gobierno Nacional en materia TIC es que el país esté conectado al 85%[1], cerrar la brecha digital, mejorar la participación en los estratos de menor ingreso y llevar conectividad a las comunidades a la mayor velocidad posible, en especial con conectividad digital para la superación de privaciones como fundamento de la dignidad
+Uno de los propósitos del Gobierno Nacional en materia TIC es que el país esté conectado al 85% [1] ,  cerrar la brecha digital, mejorar la participación en los estratos de menor ingreso y llevar  conectividad  a  las  comunidades  a  la  mayor  velocidad  posible,  en  especial  con conectividad  digital  para  la  superación  de  privaciones  como  fundamento  de  la  dignidad humana y condiciones básicas para el bienestar mediante estrategias de conectividad nacional y regional focalizadas [2] .
 
 [[END OF PAGE 135]]
 
 [[START OF PAGE 136]]
 
-humana y condiciones básicas para el bienestar mediante estrategias de conectividad nacional y regional focalizadas[2].
-
-Garantizar conectividad y acceso a Internet para los estudiantes de preescolar, básica y media en Colombia ofrece beneficios significativos que contribuyen al desarrollo educativo y social del país. El acceso a Internet en las escuelas es crucial para la integración efectiva y el aprovechamiento de las oportunidades educativas que ofrecen las TIC, permitiendo mejorar la calidad y la equidad educativa y contribuye al desarrollo integral de los estudiantes, promoviendo la igualdad de oportunidades y preparándolos para los desafíos del futuro.
+Garantizar conectividad y acceso a Internet para los estudiantes de preescolar, básica y media en Colombia ofrece beneficios significativos que contribuyen al desarrollo educativo y social del  país.  El  acceso  a  Internet  en  las  escuelas  es  crucial  para  la  integración  efectiva  y  el aprovechamiento de las oportunidades educativas que ofrecen las TIC, permitiendo mejorar la  calidad  y  la  equidad  educativa  y  contribuye  al  desarrollo  integral  de  los  estudiantes, promoviendo la igualdad de oportunidades y preparándolos para los desafíos del futuro.
 
 No  es  función  del  Ministerio  de  Educación  Nacional  el  despliegue  de  infraestructura  de telecomunicaciones,  sin  embargo,  con  el  fin  de  contar  con  estrategias  y  programas  que beneficien al sector educativo se cuenta con la estrategia de conectividad escolar, la cual hace equipo con las Entidades Nacionales y Territoriales, mediante la asistencia técnica que permite identificar y garantizar la conectividad y acceso a Internet en los establecimientos educativos oficiales, así como la articulación institucional tanto desde el nivel central como el territorial, incorporando de manera integral elementos para impulsar la innovación educativa a través de las tecnologías digitales.
 
@@ -3415,7 +3383,7 @@ B bases del plan nacional de desarrollo, Colombia potencia mundial de la vida 20
 
 - Falta de contenidos digitales de enseñanza y aprendizaje de calidad y adaptados a los planes de estudio que respalden vías de aprendizaje y enseñanza flexibles
 
-- Falta de equidad e inclusión en las soluciones de aprendizaje digital
+- Falta de equidad e inclusión en las soluciones de aprendizaje digital x
 
 - Medidas  de  seguridad  y  apoyo  informático  inadecuados  para  hacer  frente  a problemas de seguridad infantil en línea o reducir los riesgos de ciberseguridad x
 
