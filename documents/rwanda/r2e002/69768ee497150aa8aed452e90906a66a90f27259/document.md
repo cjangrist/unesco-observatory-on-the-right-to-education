@@ -6,11 +6,17 @@ Official Gazette n° Special of 18/02/2021
 
 Year 60 Official Gazette n° Special of 18/02/2021
 
-60 ème  Année Journal Officiel n° Spécial du 18/02/2021
+60ème Année Journal Officiel n° Spécial du 18/02/2021
 
 # Ibirimo/Summary/Sommaire          page/urup.
 
 ## Itegeko / Law / Loi
+N° 010/2021 ryo ku wa 16/02/2021
+Itegeko rigena imitunganyirize y'uburezi ........................................................................ 2
+N° 010/2021 of 16/02/2021
+Law determining the organisation of education ............................................................ 2
+N° 010/2021 du 16/02/2021
+Loi régissant l'organisation de l'enseignement ............................................................. 2
 
 1
 
@@ -20,7 +26,7 @@ Year 60 Official Gazette n° Special of 18/02/2021
 
 Official Gazette n° Special of 18/02/2021
 
-# ITEGEKO N° 010/2021 RYO KU 16/02/2021 RIGENA IMITUNGANYIRIZE Y'UBUREZI
+# ITEGEKO N° 010/2021 RYO KU WA 16/02/2021 RIGENA IMITUNGANYIRIZE Y'UBUREZI
 ## ISHAKIRO
 ## INTERURO YA MBERE: INGINGO RUSANGE
 ### UMUTWE WA MBERE: ICYO ITEGEKO RIGAMIJE, IBISOBANURO BY'AMAGAMBO, INTEGO N'INSHINGANO MU BUREZI
@@ -29,7 +35,7 @@ Official Gazette n° Special of 18/02/2021
 ###### Ingingo ya 3: Intego y'uburezi
 ###### Ingingo ya 4: Intego zihariye z'uburezi
 ###### Ingingo ya 5: Inshingano za Leta mu burezi
-###### Ingingo ya 6: Inshingano z'umubyeyi cyangwa ufite ububasha bwa kibyeyi
+###### Ingingo ya 6: Inshingano z'umubyeyi cyangwa ufite ububasha bwa kibyeyi mu guteza imbere ireme ry'uburezi
 |
 # LAW N° 010/2021 OF 16/02/2021 DETERMINING THE ORGANISATION OF EDUCATION
 ## TABLE OF CONTENTS
@@ -41,18 +47,17 @@ Official Gazette n° Special of 18/02/2021
 ###### Article 4: Specific objectives of education
 ###### Article 5: Responsibilities of government in education
 ###### Article 6: Responsibilities of a parent or a person having parental authority in the development of quality of education
-# LOI N° 010/2021 RÉGISSANT L'ORGANISATION L'ENSEIGNEMENT
-## TABLE DES
-## TITRE PREMIER: GÉNÉRALES
-### CHAPITRE PREMIER: DÉFINITIONS, RESPONSABILITÉS D'ÉDUCATION
-###### Article premier: Objet
+|
+# LOI N° 010/2021 DU 16/02/2021 RÉGISSANT L'ORGANISATION DE L'ENSEIGNEMENT
+## TABLE DES MATIÈRES
+## TITRE PREMIER: DISPOSITIONS GÉNÉRALES
+### CHAPITRE PREMIER: OBJET DE LA LOI, DÉFINITIONS, MISSION ET RESPONSABILITÉS EN MATIÈRE D'ÉDUCATION
+###### Article premier: Objet de la présente loi
 ###### Article 2: Définitions
 ###### Article 3: Mission de l'éducation
-###### Article 4: Objectifs spécifiques
-###### Article 5: Responsabilités l'éducation
-###### Article 6: Responsabilités d'une personne ayant dans le développement
-|
-guteza imbere ireme ry'uburezi
+###### Article 4: Objectifs spécifiques de l'éducation
+###### Article 5: Responsabilités de l'État dans l'éducation
+###### Article 6: Responsabilités d'un parent ou d'une personne ayant l'autorité parentale dans le développement de la qualité d'éducation
 --- | --- | ---
 
 2
@@ -67,11 +72,12 @@ Official Gazette n° Special of 18/02/2021
 ### UMUTWE WA II: UBWOKO BW'AMASHURI, IBICE N'IBYICIRO BY'UBUREZI
 ###### Ingingo ya 8: Ubwoko bw'amashuri
 ###### Ingingo ya 9: Ishuri rya Leta
-###### Ingingo ya 10: Ishuri ry'abafatanya ku bw'amasezerano
+###### Ingingo ya 10: Ishuri ry'abafatanya na Leta ku bw'amasezerano
 ###### Ingingo ya 11: Ishuri ryigenga
-###### Ingingo ya 12: Ibice by'uburezi bwo mashuri
-###### Ingingo ya 13: Ibyiciro muri buri cy'uburezi
+###### Ingingo ya 12: Ibice by'uburezi bwo mu mashuri
+###### Ingingo ya 13: Ibyiciro muri buri gice cy'uburezi
 ### UMUTWE WA III: ISHINGWA RY'ISHURI N'IMICUNGIRE YARYO
+###### Ingingo ya 14: Ishingwa ry'ishuri
 |
 ###### Article 7: Responsibilities of stakeholders in education
 ### CHAPTER II: TYPES OF EDUCATION INSTITUTIONS, PARTS AND CATEGORIES OF EDUCATION
@@ -141,7 +147,7 @@ d'enseignement
 ###### Article 21: Évaluation de connaissances et de compétences d'un apprenant
 ###### Article 22: Promotion d'un apprenant
 ###### Article 23: Avantages d'un apprenant
-###### Article 24 : S tage
+###### Article 24: Stage
 ###### Article 25: Former un apprenant pour devenir un enseignant professionnel
 ###### Article 26: Enseignant débutant
 --- | --- | ---
@@ -194,7 +200,23 @@ burezi bw'ibanze bw'inyigisho z'imyuga n'ubumenyingiro
 ###### Ingingo ya 33: Ifungwa ry'ishuri ry'uburezi bw'ibanze bw'inyigisho rusange cyangwa ubw'inyigisho z'imyuga n'ubumenyingiro
 ### UMUTWE WA II: IMITERERE N'IMIKORERE BY'AMASHURI Y'UBUREZI BW'IBANZE BW'INYIGISHO RUSANGE N'UBW'INYIGISHO Z'IMYUGA N'UBUMENYINGIRO
 #### Icyiciro cya mbere: Imiterere y'amashuri y'uburezi bw'ibanze bw'inyigisho rusange n'ubw'inyigisho z'imyuga n'ubumenyingiro
----
+|
+vocational basic education institutions
+#### Section 2: Establishment, registration and closure of a general or technical and vocational basic education institution
+###### Article 31: Establishment of a general or technical and vocational basic education institution
+###### Article 32: Registration of a general or technical and vocational basic education institution
+###### Article 33: Closure of a general or technical and vocational basic education institution
+### CHAPTER II: ORGANISATION AND FUNCTIONING OF GENERAL, TECHNICAL AND VOCATIONAL BASIC EDUCATION INSTITUTIONS
+#### Section One: Organization of general, technical and vocational basic education institutions
+|
+formation technique et professionnelle de base
+#### Section 2 : Création, inscription et fermeture d'un établissement d'enseignement général ou de formation technique et professionnelle de base
+###### Article 31: Création d'un établissement d'enseignement général ou de formation technique et professionnelle de base
+###### Article 32: Inscription d'un établissement d'enseignement général ou de formation technique et professionnelle de base
+###### Article 33: Fermeture d'un établissement d'enseignement général ou de formation technique et professionnelle de base
+### CHAPITRE II: ORGANISATION ET FONCTIONNEMENT DES ÉTABLISSEMENTS D'ENSEIGNEMENT GÉNÉRAL, DE FORMATION TECHNIQUE ET PROFESSIONNELLE DE BASE
+#### Section première : Organisation des établissements d'enseignement général, de formation technique et professionnelle de base
+--- | --- | ---
 
 6
 
@@ -254,8 +276,8 @@ Official Gazette n° Special of 18/02/2021
 ###### Ingingo ya 45: Abagize Inama y'Abanyeshuri n'inshingano zayo
 ###### Ingingo ya 46: Abagize Inama y'Abarimu n'inshingano zayo
 #### Icyiciro cya 2: Imikorere y'amashuri y'uburezi bw'ibanze bw'inyigisho rusange cyangwa ubw'inyigisho z'imyuga n'ubumenyingiro
-###### Ingingo ya 47: Isuzumabumenyi n'isuzumabushobozi rusange mu ry'uburezi bw'ibanze bw'inyigisho rusange n'ubw'inyigisho z'imyuga n'ubumenyingiro
-###### Ingingo ya 48: Iyimurwa ry'umunyeshuri ishuri ry'uburezi bw'ibanze bw'inyigisho rusange cyangwa ubw'inyigisho z'imyuga n'ubumenyingiro
+###### Ingingo ya 47: Isuzumabumenyi n'isuzumabushobozi rusange mu ishuri ry'uburezi bw'ibanze bw'inyigisho rusange n'ubw'inyigisho z'imyuga n'ubumenyingiro
+###### Ingingo ya 48: Iyimurwa ry'umunyeshuri mu ishuri ry'uburezi bw'ibanze bw'inyigisho rusange cyangwa ubw'inyigisho z'imyuga n'ubumenyingiro
 ###### Ingingo 49: Iyakirwa ry'umunyeshuri wakurikiye integanyanyigisho mpuzamahanga cyangwa mvamahanga
 |
 ###### Article 43: Responsibilities of the management of an education institution
@@ -327,16 +349,16 @@ Official Gazette n° Special of 18/02/2021
 
 Official Gazette n° Special of 18/02/2021
 
-###### Ingingo ya 57: Uburenganzira bwo amashuri abanza
-#### Icyiciro cya 3: Uburezi bwo mu yisumbuye
-###### Ingingo ya 58: Uburezi mu yisumbuye
+###### Ingingo ya 57: Uburenganzira bwo kwiga amashuri abanza
+#### Icyiciro cya 3: Uburezi bwo mu mashuri yisumbuye
+###### Ingingo ya 58: Uburezi mu mashuri yisumbuye
 ###### Ingingo ya 59: Imyaka yo gutangira amashuri yisumbuye
 ###### Ingingo ya 60: Gutangiza inyigisho nshya
-## INTERURO YA III: UBUREZI BWO MASHURI MAKURU
+## INTERURO YA III: UBUREZI BWO MU MASHURI MAKURU
 ### UMUTWE WA MBERE: IBYICIRO, UBWOKO, ISHYIRWAHO, ISHINGWA N'IMICUNGIRE BY'AMASHURI MAKURU
-#### Icyiciro cya mbere: Ibyiciro by'uburezi mu mashuri makuru
-###### Ingingo ya 61: Ibyiciro by'uburezi mashuri makuru
-###### Ingingo ya 62: Icyiciro cya
+#### Icyiciro cya mbere: Ibyiciro by'uburezi bwo mu mashuri makuru
+###### Ingingo ya 61: Ibyiciro by'uburezi bwo mu mashuri makuru
+###### Ingingo ya 62: Icyiciro cya mbere cy'amashuri makuru
 |
 ###### Article 57: Right to primary education
 #### Section 3: Secondary education
@@ -387,7 +409,7 @@ Official Gazette n° Special of 18/02/2021
 ###### Article 66: Types of institutions of higher learning
 #### Section 3 : Establishment or foundation of an institution of higher learning
 ###### Article 67: Establishment of a public institution of higher learning
-###### Article 68: Foundation of a Government- subsidized institution of higher learning
+###### Article 68: Foundation of a Government-subsidized institution of higher learning
 ###### Article 69: Foundation of a private institution of higher learning
 ###### Article 70: Requirements for accreditation of a private institution of higher learning
 |
@@ -527,7 +549,7 @@ Official Gazette n° Special of 18/02/2021
 ###### Article 87: Reasons for permanent closure of an institution of higher learning or its faculty
 ###### Article 88: Decision to permanently close an institution of higher learning
 ###### Article 89: Resolution of issues arising from permanent closure of a public institution of higher learning
-###### Article 90: Resolution of issues arising from permanent closure of a Government- subsidized institution of higher learning
+###### Article 90: Resolution of issues arising from permanent closure of a Government-subsidized institution of higher learning
 ###### Article 91: Resolution of issues arising from permanent closure of a private institution of higher learning
 ###### Article 92: Effect of permanent closure of an institution of higher learning
 ### CHAPTER IV: MANAGEMENT AND FUNCTIONING OF AN INSTITUTION OF HIGHER LEARNING
@@ -559,10 +581,10 @@ bw'ishuri rikuru n'inyito zazo
 ###### Ingingo ya 95: Ubuyobozi bw'Icyubahiro n'uko bushyirwaho
 ###### Ingingo ya 96: Inshingano z'Umuyobozi w'Icyubahiro
 #### Icyiciro cya 3: Inama Nkuru y'Ubuyobozi
-###### Ingingo ya 97: Abagize Inama y'Ubuyobozi
-###### Ingingo ya 98: Ishyirwaho ry'abagize Nkuru y'Ubuyobozi
-###### Ingingo ya 99: Inshingano z'Inama y'Ubuyobozi
-###### Ingingo ya 100: Ububasha bw'Inama y'Ubuyobozi
+###### Ingingo ya 97: Abagize Inama Nkuru y'Ubuyobozi
+###### Ingingo ya 98: Ishyirwaho ry'abagize Inama Nkuru y'Ubuyobozi
+###### Ingingo ya 99: Inshingano z'Inama Nkuru y'Ubuyobozi
+###### Ingingo ya 100: Ububasha bw'Inama Nkuru y'Ubuyobozi
 |
 institution of higher learning and their designation
 ###### Article 93: Management organs of an institution of higher learning
@@ -597,7 +619,7 @@ institution d'enseignement supérieur et leur appellation
 
 Official Gazette n° Special of 18/02/2021
 
-###### Ingingo ya 101: Ibigenerwa abagize Nkuru y'Ubuyobozi bitabiriye y'Inama Nkuru y'Ubuyobozi
+###### Ingingo ya 101: Ibigenerwa abagize Inama Nkuru y'Ubuyobozi bitabiriye inama y'Inama Nkuru y'Ubuyobozi
 #### Icyiciro cya 4: Urwego Nshingwabikorwa
 ###### Ingingo ya 102: Abagize Urwego Nshingwabikorwa
 ###### Ingingo ya 103: Ishyirwaho ry'abagize Urwego Nshingwabikorwa
@@ -606,8 +628,8 @@ Official Gazette n° Special of 18/02/2021
 ###### Ingingo ya 105: Abagize Urwego rushinzwe imyigire n'imyigishirize
 ###### Ingingo ya 106: Ububasha n'inshingano z'Urwego rushinzwe imyigire n'imyigishirize
 #### Icyiciro cya 6: Komite Nkuru y'Ubuyobozi
-###### Ingingo ya 107: Abagize Komite y'ubuyobozi
-###### Ingingo ya 108: Ububasha n'inshingano Komite Nkuru y'Ubuyobozi
+###### Ingingo ya 107: Abagize Komite Nkuru y'ubuyobozi
+###### Ingingo ya 108: Ububasha n'inshingano bya Komite Nkuru y'Ubuyobozi
 |
 ###### Article 101: Sitting allowances for members of the Senior Management Council
 #### Section 4: Executive Organ
@@ -620,7 +642,19 @@ Official Gazette n° Special of 18/02/2021
 #### Section 6 : Senior Management Committee
 ###### Article 107: Members of the Senior Management Committee
 ###### Article 108: Powers and responsibilities of Senior Management Committee
---- | ---
+|
+###### Article 101: Jetons de présence des membres du Conseil supérieur de direction
+#### Section 4: Organe exécutif
+###### Article 102: Membres de l'Organe exécutif
+###### Article 103: Nomination des membres de l'Organe exécutif
+###### Article 104: Attributions de l'Organe exécutif
+#### Section 5: Sénat académique
+###### Article 105: Membres du Sénat académique
+###### Article 106: Pouvoirs du Sénat académique
+#### Section 6: Comité supérieur de direction
+###### Article 107: Membres du Comité supérieur de direction
+###### Article 108: Pouvoirs et attributions du Comité supérieur de direction
+--- | --- | ---
 
 17
 
@@ -630,12 +664,12 @@ Official Gazette n° Special of 18/02/2021
 
 Official Gazette n° Special of 18/02/2021
 
-#### Icyiciro cya 7: Ububasha n'inshingano by'abayobozi n'abayobozi bungirije rwego rw'ubuyobozi rw'ishuri rikuru
-###### Ingingo ya 109: Ububasha n'inshingano by'abayobozi n'abayobozi bungirije rwego rw'ubuyobozi rw'ishuri rikuru
-#### Icyiciro cya 8: Imiterere, imikorere n'inshingano by'inzego z'imirimo rikuru
+#### Icyiciro cya 7: Ububasha n'inshingano by'abayobozi n'abayobozi bungirije ba buri rwego rw'ubuyobozi rw'ishuri rikuru
+###### Ingingo ya 109: Ububasha n'inshingano by'abayobozi n'abayobozi bungirije ba buri rwego rw'ubuyobozi rw'ishuri rikuru
+#### Icyiciro cya 8: Imiterere, imikorere n'inshingano by'inzego z'imirimo z'ishuri rikuru
 ###### Ingingo ya 110: Imiterere, imikorere n'inshingano by'inzego z'imirimo z'ishuri rikuru
 ### UMUTWE WA V: UMUTUNGO N'IMARI BY'ISHURI RIKURU
-###### Ingingo ya 111: Umutungo w'ishuri n'inkomoko yawo
+###### Ingingo ya 111: Umutungo w'ishuri rikuru n'inkomoko yawo
 ###### Ingingo ya 112: Imikoreshereze, imicungire n'imigenzurire by'umutungo w'ishuri rikuru
 ###### Ingingo ya 113: Iyemeza n'imicungire by'ingengo y'imari y'ishuri rikuru
 ###### Ingingo ya 114: Raporo y'umwaka
@@ -674,7 +708,7 @@ w'ibaruramari
 ### UMUTWE WA MBERE: INGINGO ZINYURANYE
 ###### Ingingo ya 115: Kwemererwa gutanga inyigisho z'imyuga n'ubumenyingiro ahokorerwa umwuga
 ###### Ingingo ya 116: Inyigisho z'imyuga n'ubumenyingiro zitangirwa ahakorerwa umwuga
-###### Ingingo ya 117: Uburenganzira kugurisha ibyakozwe mu myitozongiro
+###### Ingingo ya 117: Uburenganzira bwo kugurisha ibyakozwe mu myitozongiro
 ###### Ingingo ya 118: Ishyirwaho ry'amashuri atanga uburezi n'inyigisho byihariye
 ###### Ingingo ya 119: Umunyeshuri uhabwa uburezi bwihariye
 ###### Ingingo ya 120: Integanyanyigisho z'uburezi bwihariye
@@ -689,7 +723,18 @@ w'ibaruramari
 ###### Article 119: Learner who benefits from special education
 ###### Article 120: Special education curricula
 ###### Article 121: Adult education
---- | ---
+|
+financiers
+## TITRE VI: DISPOSITIONS DIVERSES, FAUTES ET SANCTIONS ADMINISTRATIVES ET FINALES
+### CHAPITRE PREMIER: DISPOSITIONS DIVERSES
+###### Article 115: Formation technique et professionnelle dispensée au lieu de travail
+###### Article 116: Formation technique et professionnelle dispensé sur le lieu du travail
+###### Article 117: Droit de vendre les objets produits lors de la formation
+###### Article 118: Création des établissements d'enseignement spécial
+###### Article 119: Apprenant bénéficiaire de l'enseignement spécial
+###### Article 120: Programmes d'enseignement spécial
+###### Article 121: Éducation des adultes
+--- | --- | ---
 
 19
 
@@ -703,15 +748,38 @@ Official Gazette n° Special of 18/02/2021
 ###### Ingingo ya 123: Uburezi nkangurambaga
 ###### Ingingo ya 124: Inama y'Uburezi
 ### UMUTWE WA II: AMAKOSA N'IBIHANO BYO MU RWEGO RW'UBUTEGETSI
-#### Icyiciro cya mbere: Amakosa n'ibihano mu rwego rw'ubutegetsi mu mashuri y'uburezi bw'ibanze
+#### Icyiciro cya mbere: Amakosa n'ibihano byo mu rwego rw'ubutegetsi mu mashuri y'uburezi bw'ibanze
 ###### Ingingo ya 125: Kuvutsa umwana uburenganzira bwo kwiga amashuri y'uburezi bw'ibanze
-###### Ingingo ya 126: Gutuma umwana ata
+###### Ingingo ya 126: Gutuma umwana ata ishuri
 ###### Ingingo ya 127: Gukopera cyangwa gukopeza mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi mu mashuri y'uburezi bw'ibanze
 ###### Ingingo ya 128: Ibikorwa binyuranyije n'amategeko mu burezi bw'ibanze
-#### Icyiciro cya 2: Amakosa n'ibihano byo rwego rw'ubutegetsi mu mashuri makuru
-|
+#### Icyiciro cya 2: Amakosa n'ibihano byo mu rwego rw'ubutegetsi mu mashuri makuru
 ###### Ingingo ya 129: Gukopera cyangwa gukopeza
---- | ---
+|
+###### Article 122: Education within the family
+###### Article 123: Informal Education
+###### Article 124: Education Council
+### CHAPTER II: ADMINISTRATIVE FAULTS AND SANCTIONS
+#### Section one: Administrative faults and sanctions in basic education institutions
+###### Article 125: Depriving a child of the right to study in basic education institutions
+###### Article 126: Causing a child to drop out school
+###### Article 127: Cheating or causing cheating during assessment of knowledge and skills in basic education institutions
+###### Article 128: Illegal activities in basic education
+#### Section 2: Administrative fault and sanctions at higher learning education
+###### Article 129: Cheating or causing cheating
+|
+###### Article 122: Éducation en famille
+###### Article 123: Éducation informelle
+###### Article 124: Conseil d'éducation
+### CHAPITRE II: FAUTE ET SANCTIONS ADMINISTRATIVE
+#### Section première: Fautes et sanctions administratives dans des établissements d'enseignement de base
+###### Article 125: Priver un enfant de son droit d'étudier dans des établissements d'enseignement de base
+###### Article 126: Contribuer à l'abandon scolaire d'un enfant
+###### Article 127: Tricher ou aider quelqu'un à tricher pendant l'évaluation des connaissances et des compétences dans des établissements d'enseignement de base
+###### Article 128: Activités illégales dans l'enseignement de base
+#### Section 2: Fautes et sanctions administratives dans l'enseignement supérieur
+###### Article 129: Tricher ou aider quelqu'un à
+--- | --- | ---
 
 20
 
@@ -724,16 +792,16 @@ Official Gazette n° Special of 18/02/2021
 mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi mu mashuri makuru
 ###### Ingingo ya 130: Ibikorwa binyuranyije n'amategeko mu mashuri makuru
 ###### Ingingo ya 131: Gukoresha nabi umutungo w'ishuri mu mu byiciro by'uburezi bitandukanye
-#### Icyiciro cya 3: Itangwa ry'ibihano byo rwego rw'ubutegetsi n'uburyo bwo kujurira
+#### Icyiciro cya 3: Itangwa ry'ibihano byo mu rwego rw'ubutegetsi n'uburyo bwo kujurira
 ###### Ingingo ya 132: Ububasha bwo gutanga ibihano byo mu rwego rw'ubutegetsi
 ###### Ingingo ya 133: Ahashyirwa ihazabu
-###### Ingingo ya 134: Ubujurire ku bihano byo rwego rw'ubutegetsi
+###### Ingingo ya 134: Ubujurire ku bihano byo mu rwego rw'ubutegetsi
 ### UMUTWE WA III: INGINGO Y'INZIBACYUHO N'IZISOZA
 ###### Ingingo ya 135: Igihe cy'inzibacyuho
 ###### Ingingo ya 136: Itegurwa, isuzumwa n'itorwa by'iri tegeko
 ###### Ingingo ya 137: Ivanwaho ry'amategeko
 |
-mu mu during assessment of knowledge and skills at the higher learning education
+during assessment of knowledge and skills at the higher learning education
 ###### Article 130 : Illegal activities at higher learning education
 ###### Article 131 : Misuse of the property of an education institution in various education categories
 #### Section 3: Imposition of administrative sanctions and appeal
@@ -854,7 +922,7 @@ zitangwa mu mashuri makuru; | learning institution; | supérieur;
 7º impamyabushobozi: inyandiko yemeza ko uwayihawe yakurikiranye gahunda z'inyigisho rusange cyangwa iz'imyuga n'ubumenyingiro zimara igihe cyagenwe mu nteganyanyigisho. Ni inyandiko kandi ihabwa urangije inyigisho z'igihe gito zitangwa n'ishuri rikuru; | 7º certificate: a document attesting that the holder completed a general or technical and vocational education program whose period is determined by a curriculum. It is also a document awarded to an individual who completes a training course in an institution of higher learning; | 7º certificat: document attestant que son titulaire a terminé un programme de formation générale ou technique et professionnelle d'une durée défini par le programme d'enseignement. Il est aussi un document décerné à une personne qui a terminé une formation de courte durée dans une institution d'enseignement supérieur;
 8º inguzanyo: amafaranga Leta iguriza umunyeshuri, kugira ngo yishyure ikiguzi cy'uburezi mu mashuri makuru yo mu Rwanda cyangwa mu mahanga; | 8º study loan: funds a State gives as a loan to a learner to meet the cost of higher education in Rwanda or abroad; | 8º prêt bourse: prêt accordé par l'État à l'apprenant en vue de payer le coût de l'éducation au niveau de l'enseignement supérieur au Rwanda ou à l'étranger;
 9º integanyanyigisho: inyandiko igena inyigisho zitangwa, uburyo bw'imyigishirize, ubw'isuzumabumenyi n'isuzumabushobozi, amasaha ya buri nyigisho n'ibyo ushoje buri cyiciro agomba kuba azi kandi ashoboye; | 9º curriculum: a document that determines subjects to teach, teaching method, knowledge and skills assessment mode, teaching hours and exit profile; | 9º programme d'enseignement: un document qui détermine les cours à enseigner, le mode d'enseignement, les méthodes d'évaluation de connaissances et de compétences, la charge horaire et le profil de sortie;
-10º inyigisho mbonezamwuga: ubumenyi buhabwa umunyeshuri kugira ngo abashe kubaka no guteza imbere ubunyamwuga; | 10º professional education: training provided to a learner for self- development and professional development; | 10º enseignement de profession: formation donnée à un apprenant en vue d'auto- développement et de progrès professionnel;
+10º inyigisho mbonezamwuga: ubumenyi buhabwa umunyeshuri kugira ngo abashe kubaka no guteza imbere ubunyamwuga; | 10º professional education: training provided to a learner for self-development and professional development; | 10º enseignement de profession: formation donnée à un apprenant en vue d'auto-développement et de progrès professionnel;
 11º ireme ry'uburezi: urwunge rugizwe n'inyigisho, uburere, ubumenyi n'ubumenyingiro bihabwa umunyeshuri, ubushobozi bw'umwarimu, igipimo | 11º education quality: a combination of courses, education, knowledge and know-how offered to a learner, the capacity of a teacher, the quantity of | 11º qualité de l'éducation: combinaison d'enseignements, d'éducation, du savoir et du savoir-faire donnés à un apprenant, la capacité d'enseignant, la quantité des
 
 26
@@ -865,7 +933,11 @@ zitangwa mu mashuri makuru; | learning institution; | supérieur;
 
 Official Gazette n° Special of 18/02/2021
 
-cy'ibishorwa mu burezi, aho uburyo n'isuzumabushobozi n'umusaruro burezi bifasha uwo munyeshuri imbere no guteza imbere Igihugu; 12º ishami: urwego rw'ishuri n'udushami dutandukanye ubumenyi rusange cyangwa n'ubumenyingiro; 13º ishuri rikuru rifite inshingano ishuri rikuru ritanga inyigisho byiciro bitandukanye; 14º ishuri rikuru: urwego inyigisho z'ubumenyi rusange, n'ubumenyingiro, inyigisho cyangwa n'ubushakashatsi nyuma zitangirwa mu mashuri y'inyigisho rusange cyangwa n'ubumenyingiro; 15º ishuri: ahantu hemewe hatangirwa inyigisho mu | inputs in education, the environment of education, mode of knowledge and skills assessment and the outcome of education that enable the learner to develop himself or herself and develop the country; 12º faculty or school: an organ within an institution of higher learning or a college composed of various departments that offer general or professional and technical education programmes; 13º specialized higher institute: an institution of higher learning that offers specialized educational programmes in different fields of study; 14º institution of higher learning: an education institution that offers general, technical and vocational, professional courses or technological and research training programmes at the post- secondary education level of general or technical and vocational education; 15º education institution: an officially recognized educational place where training is provided at different levels of education; | butangirwa, bw'isuzumabumenyi rikuru ubw'imyuga zihariye: zihariye rw'uburezi iz'imyuga mbonezamwuga iz'ikoranabuhanga y'inyigisho yisumbuye ay'iz'imyuga n'amategeko bitandukanye by'uburezi;
+cy'ibishorwa mu burezi, aho butangirwa, uburyo bw'isuzumabumenyi n'isuzumabushobozi n'umusaruro uva mu burezi bifasha uwo munyeshuri kwiteza imbere no guteza imbere Igihugu; | inputs in education, the environment of education, mode of knowledge and skills assessment and the outcome of education that enable the learner to develop himself or herself and develop the country; | investissements dans l'éducation, le lieu d'enseignement, les méthodes d'évaluation de connaissances et de compétences et le résultat de l'éducation qui permet à un apprenant de se développer et de développer le pays;
+12º ishami: urwego rw'ishuri rikuru rugizwe n'udushami dutandukanye dutanga ubumenyi rusange cyangwa ubw'imyuga n'ubumenyingiro; | 12º faculty or school: an organ within an institution of higher learning or a college composed of various departments that offer general or professional and technical education programmes; | 12º faculté: organe au sein d'une institution d'enseignement supérieur ou d'un collège composé de différents départements dispensant des programmes d'enseignement général ou professionnel et technique;
+13º ishuri rikuru rifite inshingano zihariye: ishuri rikuru ritanga inyigisho zihariye mu byiciro bitandukanye; | 13º specialized higher institute: an institution of higher learning that offers specialized educational programmes in different fields of study; | 13º institut supérieur spécialisé: institution d'enseignement supérieur qui dispense des programmes d'enseignement spécialisés dans divers domaines d'études;
+14º ishuri rikuru: urwego rw'uburezi rutanga inyigisho z'ubumenyi rusange, iz'imyuga n'ubumenyingiro, inyigisho mbonezamwuga cyangwa iz'ikoranabuhanga n'ubushakashatsi nyuma y'inyigisho zitangirwa mu mashuri yisumbuye y'inyigisho rusange cyangwa ay'iz'imyuga n'ubumenyingiro; | 14º institution of higher learning: an education institution that offers general, technical and vocational, professional courses or technological and research training programmes at the post-secondary education level of general or technical and vocational education; | 14º institution d'enseignement supérieur: institution d'enseignement offrant des programmes de formation générale, technique et professionnelle, de profession ou technologique et de recherche au niveau post-secondaire de l'éducation générale ou technique et professionnelle;
+15º ishuri: ahantu hemewe n'amategeko hatangirwa inyigisho mu byiciro bitandukanye by'uburezi; | 15º education institution: an officially recognized educational place where training is provided at different levels of education; | 15º établissement d'enseignement: lieu officiellement reconnu où est dispensée la formation dans différents niveaux de l'éducation;
 --- | --- | ---
 
 27
@@ -904,14 +976,15 @@ Official Gazette n° Special of 18/02/2021
 
 Official Gazette n° Special of 18/02/2021
 
-ubifitiye ubumenyi ukora akazi ko kwigisha, ak'ubushakashatsi, ak'ubuyobozi bw'ishuri, ako kuyobora amasomo, cyangwa gukurikirana imyifatire n'imyitwarire by'abanyeshuri.
-###### Ingingo ya 3: Intego y'uburezi
-Intego y'uburezi mu Rwanda ni ugutanga uburezi kuri bose, budaheza, bufite ireme bufasha mu gukemura ibibazo hagamijwe iterambere rirambye.
-###### Ingingo ya 4: Intego zihariye z'uburezi
-Intego zihariye z'uburezi ni izi zikurikira: 1° guha Abanyarwanda inyigisho zikenewe byiciro byose by'uburezi; 2° gutanga inyigisho n'uburere bifite ireme nzego zose; 3° guteza imbere ubumenyi, ikoranabuhanga, ubushakashatsi, imyuga n'ubumenyingiro iterambere
-|
-hagamijwe kwihutisha ry'Igihugu;
---- | ---
+ubifitiye ubumenyi ukora akazi ko kwigisha, ak'ubushakashatsi, ak'ubuyobozi bw'ishuri, ako kuyobora amasomo, cyangwa ako gukurikirana imyifatire n'imyitwarire by'abanyeshuri. | education institution who teaches, conducts research, heads an education institution, directs studies or who monitors learners' discipline and good conduct. | établissement d'enseignement qui fait le travail d'enseignement, de recherche, de direction de l'établissement d'enseignement, de direction d'études ou de contrôle de la discipline et de la bonne conduite des apprenants.
+###### Ingingo ya 3: Intego y'uburezi | ###### Article 3: Mission of education | ###### Article 3: Mission de l'éducation
+Intego y'uburezi mu Rwanda ni ugutanga uburezi kuri bose, budaheza, bufite ireme kandi bufasha mu gukemura ibibazo hagamijwe iterambere rirambye. | The mission of education in Rwanda is to provide all and in an inclusive manner with quality education to solve problems in order to achieve sustainable development. | La mission de l'éducation au Rwanda est de dispenser à tous et de manière inclusive une éducation de qualité pour la recherche des solutions aux problèmes en vue du développement durable.
+###### Ingingo ya 4: Intego zihariye z'uburezi | ###### Article 4: Specific objectives of education | ###### Article 4: Objectifs spécifiques de l'éducation
+Intego zihariye z'uburezi ni izi zikurikira: | Specific objectives of education are as follows: | Les objectifs spécifiques de l'éducation sont les suivants:
+1° guha Abanyarwanda inyigisho zikenewe mu byiciro byose by'uburezi; | 1º to provide Rwandans with adequate skills at all levels of education; | 1º dispenser aux Rwandais des connaissances appropriées à tous les niveaux de l'éducation;
+2° gutanga inyigisho n'uburere bifite ireme ku nzego zose; | 2º to offer quality courses and education at all levels; | 2º dispenser des cours et une éducation de qualité à tous les niveaux;
+3° guteza imbere ubumenyi, ikoranabuhanga, ubushakashatsi, imyuga n'ubumenyingiro hagamijwe kwihutisha iterambere ry'Igihugu; | 3º to promote science, technology, research, technical and vocational skills in order to speed up national development; | 3º promouvoir la science, la technologie, la recherche ainsi que les compétences techniques et professionnelles; afin d'accélérer le développement du pays;
+--- | --- | ---
 
 30
 
@@ -921,7 +994,11 @@ hagamijwe kwihutisha ry'Igihugu;
 
 Official Gazette n° Special of 18/02/2021
 
-4° kwigisha abanyeshuri indangagaciro na kirazira by'umuco nyarwanda harimo umuco wo gukunda Igihugu, uw'ubumwe, uw'amahoro, uw'ubworoherane, uw'ubutabera, uwo kubahiriza uburenganzira bwa muntu, uw'ubufatanye, uwa demokarasi, uwo kwirinda ivangura cyangwa itonesha iryo ari ryo ryose n'uwo kurengera ibidukikije; 5° guha buri munyarwanda uburere bushingiye ku muco mbonezabupfura, ku bumenyi n'ubushobozi, ku mibereho myiza y'abaturage no kubaka Igihugu kugira ngo kigere ku iterambere rirambye; 6° gutoza umunyeshuri gukora, gukunda umurimo, kugira umurava, kubahiriza igihe no gushyira imbere ubushobozi; 7° gutoza umunyeshuri gutekereza no gusesengura, guhanga, kwakira ibitekerezo by'abandi no kumenya ibibera ahandi; 8° gukuraho impamvu n'inzitizi zose n'uburere | 4º to educate learners about values and prohibitions of Rwandan culture including the culture of patriotism, peace, tolerance, justice, respect for human rights, solidarity, democracy, avoidance of any form of discrimination or favouritism and that of environment protection; 5º to provide each Rwandan with education based on ethical values, science and skills, social welfare and directed towards building a nation to ensure its sustainable development; 6º to train the learner to work, to love the work, to take their work seriously, to be punctual and to promote competence; 7º to train the learner in thinking and analytical skills, being innovative, accept divergent opinion and to know what prevails elsewhere; 8º to eliminate all grounds and obstacles that hinder the development of girls and women education as well as of any other | zibangamira iterambere ry'uburezi bw'ab'igitsina gore n'ubw'abandi bigaragara
+4° kwigisha abanyeshuri indangagaciro na kirazira by'umuco nyarwanda harimo umuco wo gukunda Igihugu, uw'ubumwe, uw'amahoro, uw'ubworoherane, uw'ubutabera, uwo kubahiriza uburenganzira bwa muntu, uw'ubufatanye, uwa demokarasi, uwo kwirinda ivangura cyangwa itonesha iryo ari ryo ryose n'uwo kurengera ibidukikije; | 4º to educate learners about values and prohibitions of Rwandan culture including the culture of patriotism, peace, tolerance, justice, respect for human rights, solidarity, democracy, avoidance of any form of discrimination or favouritism and that of environment protection; | 4º éduquer les apprenants aux valeurs et aux interdits de la culture rwandaise y compris la culture du patriotisme, de la paix, de la tolérance, de la justice, du respect des droits de la personne, de la solidarité, de la démocratie, la culture d'éviter toute forme de discrimination et de favoritisme ainsi que celle de la protection de l'environnement;
+5° guha buri munyarwanda uburere bushingiye ku muco mbonezabupfura, ku bumenyi n'ubushobozi, ku mibereho myiza y'abaturage no kubaka Igihugu kugira ngo kigere ku iterambere rirambye; | 5º to provide each Rwandan with education based on ethical values, science and skills, social welfare and directed towards building a nation to ensure its sustainable development; | 5º dispenser à tout Rwandais une éducation basée sur des valeurs éthiques, la science et compétences, le bien-être social et orientée vers l'édification d'une nation en vue de son développement durable;
+6° gutoza umunyeshuri gukora, gukunda umurimo, kugira umurava, kubahiriza igihe no gushyira imbere ubushobozi; | 6º to train the learner to work, to love the work, to take their work seriously, to be punctual and to promote competence; | 6º apprendre à l'apprenant à travailler, à aimer le travail, à prendre son travail au sérieux, à être ponctuel et à promouvoir la compétence;
+7° gutoza umunyeshuri gutekereza no gusesengura, guhanga, kwakira ibitekerezo by'abandi no kumenya ibibera ahandi; | 7º to train the learner in thinking and analytical skills, being innovative, accept divergent opinion and to know what prevails elsewhere; | 7º développer chez l'apprenant les aptitudes de penser, de faire des analyses, d'être innovants, d'accepter les opinions des autres et de s'ouvrir sur le monde;
+8° gukuraho impamvu n'inzitizi zose zibangamira iterambere ry'uburezi n'uburere bw'ab'igitsina gore n'ubw'abandi bigaragara ko bakeneye kwitabwaho by'umwihariko. | 8º to eliminate all grounds and obstacles that hinder the development of girls and women education as well as of any other groups that need special attention. | 8º éliminer toutes les causes et tous les obstacles qui handicapent l'éducation de la femme et des autres groupes humains nécessitant une attention particulière.
 --- | --- | ---
 
 31
@@ -932,13 +1009,14 @@ Official Gazette n° Special of 18/02/2021
 
 Official Gazette n° Special of 18/02/2021
 
-###### Ingingo ya 5: Inshingano za Leta
-Leta ibinyujije muri Minisiteri ifite nshingano, ishinzwe iterambere ry'uburezi, kubungabunga no ireme ryabwo. By'umwihariko, bikurikira: 1° gushyiraho politiki riboneye by'uburezi no byubahirizwa; 2° gushyiraho amategeko agenga gukurikirana ishyirwa mu
-###### Ingingo ya 6: Inshingano cyangwa ufite ububasha bwa guteza imbere ireme ry'uburezi
-Mu guteza imbere ireme ry'uburezi, cyangwa ufite ububasha bwa inshingano zikurikira: 1º guha umwana uburere bwiza no mikurire myiza ye;
-|
-mu uburezi guteza yita n'igenamigambi kugenzura uburezi bikorwa z'umubyeyi kibyeyi umubyeyi kibyeyi
---- | ---
+###### Ingingo ya 5: Inshingano za Leta mu burezi | ###### Article 5: Responsibilities of government in education | ###### Article 5: Responsabilités de l'État dans l'éducation
+Leta ibinyujije muri Minisiteri ifite uburezi mu nshingano, ishinzwe iterambere rusange ry'uburezi, kubungabunga no guteza imbere ireme ryabwo. By'umwihariko, yita kuri ibi bikurikira: | The Government, through the Ministry in charge of education, is responsible for general development of education as well as preserving and developing quality of education. Particularly, the Government emphasizes on: | L'État, à travers le ministère ayant l'éduction dans ses attributions, est chargé du développement général de l'éducation ainsi que d'assurer la sauvegarde et le développement de sa qualité. L'État s'occupe particulièrement de ce qui suit:
+1° gushyiraho politiki n'igenamigambi riboneye by'uburezi no kugenzura ko byubahirizwa; | 1º designing policy and appropriate planning for education and monitoring their implementation; | 1º élaborer une politique et établir une planification appropriée en matière d'éducation et faire le suivi de leur mise en œuvre;
+2° gushyiraho amategeko agenga uburezi no gukurikirana ishyirwa mu bikorwa ryayo. | 2º putting in place legislation governing education and ensuring its implementation. | 2º mettre en place la législation régissant l'éducation et faire le suivi de leur mise en œuvre.
+###### Ingingo ya 6: Inshingano z'umubyeyi cyangwa ufite ububasha bwa kibyeyi mu guteza imbere ireme ry'uburezi | ###### Article 6: Responsibilities of a parent or a person with parental authority in the development of quality of education | ###### Article 6: Responsabilités d'un parent ou d'une personne ayant l'autorité parentale dans le développement de la qualité d'éducation
+Mu guteza imbere ireme ry'uburezi, umubyeyi cyangwa ufite ububasha bwa kibyeyi afite inshingano zikurikira: | For purposes of developing the quality of education, a parent or a person with parental authority has the following responsibilities: | Dans le but du développement de la qualité d'éducation, un parent ou une personne ayant l'autorité parentale a les responsabilités suivantes:
+1º guha umwana uburere bwiza no kwita ku mikurire myiza ye; | 1º to provide the child with quality education and ensure his or her development; | 1º fournir à l'enfant une bonne éducation et veiller à son développement;
+--- | --- | ---
 
 32
 
@@ -958,7 +1036,7 @@ Education stakeholders assume their responsibilities in developing the quality o
 |
 2º veiller à ce que l'enfant commence l'école à l'âge requis; 3º veiller à la discipline et à l'apprentissage de l'enfant; 4º donner à l'enfant les moyens nécessaires à son éducation; 5º assister l'enfant dans le choix d'un établissement d'enseignement répondant à ses aspirations et à ses aptitudes; 6º donner sa contribution dans le programme d'alimentation scolaire.
 ###### Article 7: Responsabilités des partenaires en éducation
-Les partenaires en éducation assument leurs responsabilités dans le développement de la qualité de l'éducation en conformité avec la convention qu'ils concluent avec le
+Les partenaires en éducation assument leurs responsabilités dans le développement de la qualité de l'éducation en conformité avec la convention qu'ils concluent avec le Gouvernement.
 --- | --- | ---
 
 33
@@ -969,29 +1047,18 @@ Les partenaires en éducation assument leurs responsabilités dans le développe
 
 Official Gazette n° Special of 18/02/2021
 
-### UMUTWE WA II: UBWOKO BW'AMASHURI, IBICE N'IBYICIRO BY'UBUREZI
-###### Ingingo ya 8: Ubwoko bw'amashuri
-Amashuri ari mu bwoko butatu (3) bukurikira: 1° ishuri rya Leta; 2° ishuri ry'abafatanya na Leta ku bw'amasezerano; 3° ishuri ryigenga.
-###### Ingingo ya 9: Ishuri rya Leta
-Ishuri rya Leta ni: 1º ishuri rishingwa na Leta; 2º ishuri ryigenga ryegurirwa Leta na nyiraryo mu nyandiko ikorwa n'impande zombi; 3º ishuri ry'abafatanya na Leta ku bw'amasezerano rihinduka irya Leta mu
-|
-### CHAPTER II: TYPES OF EDUCATION
-|
-### CHAPITRE II: TYPES
+### UMUTWE WA II: UBWOKO BW'AMASHURI, IBICE N'IBYICIRO BY'UBUREZI | ### CHAPTER II: TYPES OF EDUCATION INSTITUTIONS, PARTS AND CATEGORIES OF EDUCATION | ### CHAPITRE II: TYPES D'ÉTABLISSEMENTS D'ENSEIGNEMENT, PARTIES ET CATÉGORIES D'ÉDUCATION
+###### Ingingo ya 8: Ubwoko bw'amashuri | ###### Article 8: Types of education institutions | ###### Article 8: Types d'établissements d'enseignement
+Amashuri ari mu bwoko butatu (3) bukurikira: | Education institutions are divided into three (3) types: | Les établissements d'enseignement sont répartis en trois (3) types:
+1° ishuri rya Leta; | 1º a public education institution; | 1º un établissement d'enseignement public;
+2° ishuri ry'abafatanya na Leta ku bw'amasezerano; | 2º a government-subsidised education institution; | 2º un établissement conventionné d'enseignement;
+3° ishuri ryigenga. | 3º a private education institution. | 3º un établissement d'enseignement privé.
+###### Ingingo ya 9: Ishuri rya Leta | ###### Article 9: Public education institution | ###### Article 9: Établissement d'enseignement public
+Ishuri rya Leta ni: | A public education institution is: | Un établissement d'enseignement public est:
+1º ishuri rishingwa na Leta; | 1º an education institution established by the Government; | 1º un établissement d'enseignement créé par l'État;
+2º ishuri ryigenga ryegurirwa Leta na nyiraryo mu nyandiko ikorwa n'impande zombi; | 2º a private education institution handed over to the Government by its owner via a written document by both parties; | 2º un établissement d'enseignement privé cédé à l'État par son propriétaire par le biais d'un écrit de deux parties;
+3º ishuri ry'abafatanya na Leta ku bw'amasezerano rihinduka irya Leta mu buryo buteganywa n'ayo masezerano. | 3º a Government-subsidised education institution that turns into a public education institution in accordance with procedures specified in the agreement. | 3º un établissement conventionné d'enseignement devenu établissement public d'enseignement selon les modalités stipulées dans la convention.
 --- | --- | ---
-buryo buteganywa n'ayo masezerano.
-|
-INSTITUTIONS, PARTS AND CATEGORIES OF EDUCATION
-###### Article 8: Types of education institutions
-Education institutions are divided into three (3) types: 1º a public education institution; 2º a government-subsidised education institution; 3º a private education institution.
-###### Article 9: Public education institution
-A public education institution is: 1º an education institution established by the Government; 2º a private education institution handed over to the Government by its owner via a written document by both parties; 3º a Government-subsidised education institution that turns into a public education institution in accordance with procedures specified in the agreement.
-|
-D'ÉTABLISSEMENTS D'ENSEIGNEMENT, PARTIES ET CATÉGORIES D'ÉDUCATION
-###### Article 8: Types d'établissements d'enseignement
-Les établissements d'enseignement sont répartis en trois (3) types: 1º un établissement d'enseignement public; 2º un établissement conventionné d'enseignement; 3º un établissement d'enseignement privé.
-###### Article 9: Établissement d'enseignement public
-Un établissement d'enseignement public est: 1º un établissement d'enseignement créé par l'État; 2º un établissement d'enseignement privé cédé à l'État par son propriétaire par le biais d'un écrit de deux parties; 3º un établissement conventionné d'enseignement devenu établissement public d'enseignement selon les modalités stipulées dans la convention.
 
 34
 
@@ -1001,16 +1068,12 @@ Un établissement d'enseignement public est: 1º un établissement d'enseignemen
 
 Official Gazette n° Special of 18/02/2021
 
-###### Ingingo ya 10: Ishuri ry'abafatanya na Leta
-|
-###### Article 10: Government-subsidised education
-|
-###### Article 10: Établissement conventionné
+###### Ingingo ya 10: Ishuri ry'abafatanya na Leta ku bw'amasezerano | ###### Article 10: Government-subsidised education institution | ###### Article 10: Établissement conventionné d'enseignement
 --- | --- | ---
 Ishuri ry'abafatanya na Leta ku bw'amasezerano ni: | A Government-subsidised education institution is: | Un établissement conventionné d'enseignement est:
-1º ishuri ryubatswe na Leta ku butaka bw'umuntu ku giti cye, ubw'umuryango ushingiye ku myemerere, ubw'umuryango nyarwanda utari uwa Leta cyangwa ubw'umuryango mvamahanga utari uwa Leta batunze ku buryo bwemewe n'amategeko; | 1º an education institution built by the Government on a plot legally owned by an individual, a faith-based organisation, a national non-governmental organisation or an international non- governmental organisation; | 1º un établissement d'enseignement construit par l'État sur un terrain légalement acquis par un individu, une organisation fondée sur la foi, une organisation nationale non- gouvernementale ou une organisation internationale non-gouvernementale;
-2º ishuri Leta yubatse ifatanyije n'umuryango ushingiye ku myemerere, umuryango nyarwanda utari uwa Leta cyangwa umuryango mvamahanga utari uwa Leta ku butaka uwo muryango utunze ku buryo bwemewe n'amategeko; | 2º an education institution built by the Government in collaboration with a faith- based organisation, a national non- governmental organization or an international non-governmental organisation on a plot legally owned by that organisation; | 2º un établissement d'enseignement construit par l'État en collaboration avec une organisation fondée sur la foi, une organisation nationale non-gouvernementale ou une organisation internationale non- gouvernementale sur un terrain légalement acquis par cette organisation;
-3º ishuri ryubatswe n'umuryango ushingiye ku myemerere, umuryango nyarwanda utari uwa Leta cyangwa umuryango mvamahanga utari uwa Leta ku butaka utunze ku buryo bwemewe n'amategeko, Leta ikagira uruhare mu kurisana, kuryagura, guhemba abarimu n'abandi bakozi cyangwa kuriha ibikoresho uretse mu gihe Leta yabitanze nk'impano mu | 3º an education institution built by a faith- based organisation, a national non- governmental organisation or international non-governmental organisation on a plot legally owned to it which the Government contributed to its rehabilitation, extension, salary payment of the teaching staff and other staff or to equipment except if the Government | 3º un établissement d'enseignement construit par une organisation fondée sur la foi, une organisation nationale non-gouvernementale ou une organisation internationale non- gouvernementale sur un terrain légalement acquis auxquelles l'État a participé à sa réhabilitation, extension, au paiement du salaire du personnel enseignant et d'autre personnel ou à son équipement sauf dans le
+1º ishuri ryubatswe na Leta ku butaka bw'umuntu ku giti cye, ubw'umuryango ushingiye ku myemerere, ubw'umuryango nyarwanda utari uwa Leta cyangwa ubw'umuryango mvamahanga utari uwa Leta batunze ku buryo bwemewe n'amategeko; | 1º an education institution built by the Government on a plot legally owned by an individual, a faith-based organisation, a national non-governmental organisation or an international non-governmental organisation; | 1º un établissement d'enseignement construit par l'État sur un terrain légalement acquis par un individu, une organisation fondée sur la foi, une organisation nationale non-gouvernementale ou une organisation internationale non-gouvernementale;
+2º ishuri Leta yubatse ifatanyije n'umuryango ushingiye ku myemerere, umuryango nyarwanda utari uwa Leta cyangwa umuryango mvamahanga utari uwa Leta ku butaka uwo muryango utunze ku buryo bwemewe n'amategeko; | 2º an education institution built by the Government in collaboration with a faith-based organisation, a national non-governmental organization or an international non-governmental organisation on a plot legally owned by that organisation; | 2º un établissement d'enseignement construit par l'État en collaboration avec une organisation fondée sur la foi, une organisation nationale non-gouvernementale ou une organisation internationale non-gouvernementale sur un terrain légalement acquis par cette organisation;
+3º ishuri ryubatswe n'umuryango ushingiye ku myemerere, umuryango nyarwanda utari uwa Leta cyangwa umuryango mvamahanga utari uwa Leta ku butaka utunze ku buryo bwemewe n'amategeko, Leta ikagira uruhare mu kurisana, kuryagura, guhemba abarimu n'abandi bakozi cyangwa kuriha ibikoresho uretse mu gihe Leta yabitanze nk'impano mu | 3º an education institution built by a faith-based organisation, a national non-governmental organisation or international non-governmental organisation on a plot legally owned to it which the Government contributed to its rehabilitation, extension, salary payment of the teaching staff and other staff or to equipment except if the Government | 3º un établissement d'enseignement construit par une organisation fondée sur la foi, une organisation nationale non-gouvernementale ou une organisation internationale non-gouvernementale sur un terrain légalement acquis auxquelles l'État a participé à sa réhabilitation, extension, au paiement du salaire du personnel enseignant et d'autre personnel ou à son équipement sauf dans le
 
 35
 
@@ -1030,7 +1093,7 @@ A private education institution is: 1º an education institution established by 
 |
 cas d'une donation écrite de l'État. Pour les établissements d'enseignement mentionnés dans le présent article, l'État et ses partenaires concluent un accord de fonctionnement qui définit le rôle et les responsabilités de chaque partie.
 ###### Article 11: Établissement d'enseignement privé
-Un établissement d'enseignement privé est: 1º un établissement d'enseignement créé par une personne physique, les personnes légalement associées, une organisation fondée sur la foi, une organisation nationale non-gouvernementale, une organisation internationale non- gouvernementale reconnue au Rwanda ou une école internationale privée; 2º un établissement d'enseignement établi au Rwanda par un autre pays. Un établissement d'enseignement privé respecte les normes en éducation au Rwanda et est soumis à une inspection régulière effectuée par l'agence nationale ayant dans ses attributions l'inspection des établissements d'enseignement pour la catégorie dans laquelle rentre cet établissement d'enseignement.
+Un établissement d'enseignement privé est: 1º un établissement d'enseignement créé par une personne physique, les personnes légalement associées, une organisation fondée sur la foi, une organisation nationale non-gouvernementale, une organisation internationale non-gouvernementale reconnue au Rwanda ou une école internationale privée; 2º un établissement d'enseignement établi au Rwanda par un autre pays. Un établissement d'enseignement privé respecte les normes en éducation au Rwanda et est soumis à une inspection régulière effectuée par l'agence nationale ayant dans ses attributions l'inspection des établissements d'enseignement pour la catégorie dans laquelle rentre cet établissement d'enseignement.
 --- | --- | ---
 
 36
@@ -1041,16 +1104,15 @@ Un établissement d'enseignement privé est: 1º un établissement d'enseignemen
 
 Official Gazette n° Special of 18/02/2021
 
-###### Ingingo ya 12: Ibice by'uburezi bwo mashuri
-Uburezi bwo mu mashuri butangirwa bitatu (3) bikurikira: 1º uburezi bw'inyigisho rusange; 2º uburezi bw'inyigisho z'imyuga n'ubumenyingiro; 3º uburezi bw'inyigisho mbonezamwuga. Iteka rya Minisitiri rigena ibishingirwaho ngo hatangwe cyangwa hemerwe impamyabumenyi cyangwa impamyabushobozi ihabwa urangije icyiciro cy'amashuri muri gice cy'uburezi n'uburyo umunyeshuri ashobora kuva mu gice kimwe cy'uburezi ajya mu Rigena kandi ibyerekeye igereranya n'iyemerwa by'impamyabumenyi cyangwa impamyabushobozi yatanzwe n'ishuri mahanga.
-###### Ingingo ya 13: Ibyiciro muri buri cy'uburezi
-Mu gice cy'uburezi bw'inyigisho harimo ibyiciro bikurikira:
-|
-###### Article 12: Categories of formal education
-Formal education is offered through
-|
-###### Article 12: Catégories d'éducation formelle
-L'éducation formelle est dispensée à travers trois
+###### Ingingo ya 12: Ibice by'uburezi bwo mu mashuri | ###### Article 12: Categories of formal education | ###### Article 12: Catégories d'éducation formelle
+Uburezi bwo mu mashuri butangirwa mu bice bitatu (3) bikurikira: | Formal education is offered through the following three (3) categories: | L'éducation formelle est dispensée à travers trois (3) catégories suivantes:
+1º uburezi bw'inyigisho rusange; | 1º general education; | 1º l'enseignement général;
+2º uburezi bw'inyigisho z'imyuga n'ubumenyingiro; | 2º technical and vocational education and training; | 2º l'enseignement technique et professionnel;
+3º uburezi bw'inyigisho mbonezamwuga. | 3º professional education. | 3º l'enseignement de profession.
+Iteka rya Minisitiri rigena ibishingirwaho kugira ngo hatangwe cyangwa hemerwe impamyabumenyi cyangwa impamyabushobozi ihabwa urangije icyiciro cy'amashuri muri buri gice cy'uburezi n'uburyo umunyeshuri ashobora kuva mu gice kimwe cy'uburezi ajya mu kindi. Rigena kandi ibyerekeye igereranya n'iyemerwa by'impamyabumenyi cyangwa impamyabushobozi yatanzwe n'ishuri ryo mu mahanga. | An Order of the Minister determines criteria for granting or approving a degree or a certificate of a learner who completes a cycle of education in each category as well as modalities in which a learner can move from one category to another. It also determines equivalence and authentication of degrees or certificates issued abroad and those issued in Rwanda. | Un Arrêté du Ministre détermine les critères d'octroi ou de reconnaissance d'un diplôme ou d'un certificat a un apprenant qui termine un cycle d'enseignement dans chaque catégorie ainsi que les modalités de transfert d'un apprenant d'une catégorie à une autre. Il détermine également le régime des équivalences et authentification des diplômes ou des certificats délivrés à l'étranger et ceux délivrés au Rwanda.
+###### Ingingo ya 13: Ibyiciro muri buri gice cy'uburezi | ###### Article 13: Cycles in each category of education | ###### Article 13: Cycles composant chaque catégorie de l'éducation
+Mu gice cy'uburezi bw'inyigisho rusange harimo ibyiciro bikurikira: | The general education is comprised of the following cycles: | L'éducation générale comprend les cycles suivants:
+1º icyiciro cy'amashuri y'incuke; | 1º cycle of pre-primary education; | 1º le cycle d'enseignement préscolaire;
 --- | --- | ---
 
 37
@@ -1061,7 +1123,7 @@ L'éducation formelle est dispensée à travers trois
 
 Official Gazette n° Special of 18/02/2021
 
-2º icyiciro cy'amashuri abanza; 3º icyiciro cya mbere (1) n'icya kabiri (2) by'amashuri yisumbuye; 4º icyiciro cya mbere (1), icya kabiri (2) n'icya gatatu (3) by'amashuri makuru. Mu gice cy'uburezi bw'inyisho z'imyuga n'ubumenyingiro harimo ibyiciro bikurikira: 1º amashuri y'imyuga n'ubumenyingiro yo ku rwego rwa mbere (1) n'urwa kabiri (2); 2º amashuri yisumbuye y'imyuga n'ubumenyingiro yo kuva ku rwego rwa gatatu (3) kugeza ku rwa gatanu (5); 3º amashuri makuru y'imyuga n'ubumenyingiro. Igice cy'uburezi bw'inyigisho mbonezamwuga kigizwe n'icyiciro kimwe gitangirwamo inyigisho mbonezamwuga. | 2º cycle of primary education; 3º first (1 st ) and second (2 nd ) cycles of secondary education; 4º first cycle (1 st ), second (2 nd ) and third (3 rd ) cycles of higher education. The category of technical and vocational education is comprised of the following cycles: 1º Technical and Vocational Schools at level one (1) and level two (2); 2º Technical and vocational schools from level three (3) to level five (5). 3º Technical and vocational institutions of higher learning. The category of professional education comprises a single cycle which offers professional education. | 2º le cycle d'enseignement primaire; 3º le premier (1 er ) et le deuxième (2 ème ) cycle d'enseignement secondaire; 4º le premier (1 er ) cycle, le deuxième (2 ème ) cycle et le troisième (3 ème ) cycle d'enseignement supérieur. La catégorie de formation technique et professionnelle comprend les cycles suivants: 1º les écoles de formation technique et professionnelle au premier (1 er ) et au deuxième (2 ème ) niveau; 2º les écoles secondaires de formation technique et professionnelle du troisième (3 ème ) au cinquième (5 ème ) niveau; 3º les institutions supérieures de formation technique et professionnelle. La catégorie d'enseignement de profession comprend un unique cycle qui dispense le programme d'enseignement de profession.
+2º icyiciro cy'amashuri abanza; 3º icyiciro cya mbere (1) n'icya kabiri (2) by'amashuri yisumbuye; 4º icyiciro cya mbere (1), icya kabiri (2) n'icya gatatu (3) by'amashuri makuru. Mu gice cy'uburezi bw'inyisho z'imyuga n'ubumenyingiro harimo ibyiciro bikurikira: 1º amashuri y'imyuga n'ubumenyingiro yo ku rwego rwa mbere (1) n'urwa kabiri (2); 2º amashuri yisumbuye y'imyuga n'ubumenyingiro yo kuva ku rwego rwa gatatu (3) kugeza ku rwa gatanu (5); 3º amashuri makuru y'imyuga n'ubumenyingiro. Igice cy'uburezi bw'inyigisho mbonezamwuga kigizwe n'icyiciro kimwe gitangirwamo inyigisho mbonezamwuga. | 2º cycle of primary education; 3º first (1st) and second (2nd) cycles of secondary education; 4º first cycle (1st), second (2nd) and third (3rd) cycles of higher education. The category of technical and vocational education is comprised of the following cycles: 1º Technical and Vocational Schools at level one (1) and level two (2); 2º Technical and vocational schools from level three (3) to level five (5). 3º Technical and vocational institutions of higher learning. The category of professional education comprises a single cycle which offers professional education. | 2º le cycle d'enseignement primaire; 3º le premier (1er) et le deuxième (2ème) cycle d'enseignement secondaire; 4º le premier (1er) cycle, le deuxième (2ème) cycle et le troisième (3ème) cycle d'enseignement supérieur. La catégorie de formation technique et professionnelle comprend les cycles suivants: 1º les écoles de formation technique et professionnelle au premier (1er) et au deuxième (2ème) niveau; 2º les écoles secondaires de formation technique et professionnelle du troisième (3ème) au cinquième (5ème) niveau; 3º les institutions supérieures de formation technique et professionnelle. La catégorie d'enseignement de profession comprend un unique cycle qui dispense le programme d'enseignement de profession.
 --- | --- | ---
 
 38
@@ -1072,22 +1134,13 @@ Official Gazette n° Special of 18/02/2021
 
 Official Gazette n° Special of 18/02/2021
 
-### UMUTWE WA III: ISHINGWA RY'ISHURI N'IMICUNGIRE YARYO
-###### Ingingo ya 14: Ishingwa ry'ishuri
-Gushinga ishuri bikorwa hagamijwe iterambere ry'uburezi hibandwa ku nyigisho zikenewe gihugu no ku isoko ry'umurimo. Ishuri rya Leta, iry'abafatanya na bw'amasezerano cyangwa iryigenga rishingwa hakurikijwe ibiteganywa n'iri tegeko kuri cyiciro cy'amashuri hashingiwe ku igaragaza aho amashuri aherereye ateganywa kubakwa ishyirwaho na Minisiteri ifite uburezi mu nshingano. Ikarita igaragaza aho amashuri aherereye ateganywa kubakwa ikorwa hubahirijwe igishushanyombonera cy'imikoreshereze n'imitunganyirize y'ubutaka ku rw'igihugu.
-###### Ingingo ya 15: Imicungire y'ishuri
-|
-### CHAPTER III: ESTABLISHMENT AND MANAGEMENT OF AN EDUCATION INSTITUTION
-###### Article 14: Establishment of an education institution
-The establishment of an education institution is undertaken for education development with a focus on courses needed in the country and on the labour market. A public education institution, a Government- subsidised education institution or a private education institution is established in accordance with the provisions of this Law for each category of education institutions on the basis of the school map established by the Ministry in charge of education. Establishing the school map respects the national land use and development master plan.
-###### Article 15: Management of an education institution
-A public education institution is managed by the
-|
-### CHAPITRE III: CRÉATION ET GESTION D'UN ÉTABLISSEMENT D'ENSEIGNEMENT
-###### Article 14: Création d'un établissement d'enseignement
-La création d'un établissement d'enseignement se fait dans le but du développement de l'éducation en mettant l'accent sur les cours répondant aux besoins du pays et du marché de travail. Un établissement d'enseignement public, un établissement d'enseignement conventionné ou un établissement d'enseignement privé est créé conformément aux dispositions de la présente loi pour chaque catégorie d'établissements d'enseignement sur la base de la carte scolaire établie par le Ministère ayant l'éducation dans ses attributions. L'établissement de la carte scolaire respecte le schéma directeur national d'utilisation et d'aménagement des terres.
-###### Article 15: Gestion d'un établissement d'enseignement
-Un établissement d'enseignement public est géré
+### UMUTWE WA III: ISHINGWA RY'ISHURI N'IMICUNGIRE YARYO | ### CHAPTER III: ESTABLISHMENT AND MANAGEMENT OF AN EDUCATION INSTITUTION | ### CHAPITRE III: CRÉATION ET GESTION D'UN ÉTABLISSEMENT D'ENSEIGNEMENT
+###### Ingingo ya 14: Ishingwa ry'ishuri | ###### Article 14: Establishment of an education institution | ###### Article 14: Création d'un établissement d'enseignement
+Gushinga ishuri bikorwa hagamijwe iterambere ry'uburezi hibandwa ku nyigisho zikenewe mu gihugu no ku isoko ry'umurimo. | The establishment of an education institution is undertaken for education development with a focus on courses needed in the country and on the labour market. | La création d'un établissement d'enseignement se fait dans le but du développement de l'éducation en mettant l'accent sur les cours répondant aux besoins du pays et du marché de travail.
+Ishuri rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga rishingwa hakurikijwe ibiteganywa n'iri tegeko kuri buri cyiciro cy'amashuri hashingiwe ku ikarita igaragaza aho amashuri aherereye n'aho ateganywa kubakwa ishyirwaho na Minisiteri ifite uburezi mu nshingano. | A public education institution, a Government-subsidised education institution or a private education institution is established in accordance with the provisions of this Law for each category of education institutions on the basis of the school map established by the Ministry in charge of education. | Un établissement d'enseignement public, un établissement d'enseignement conventionné ou un établissement d'enseignement privé est créé conformément aux dispositions de la présente loi pour chaque catégorie d'établissements d'enseignement sur la base de la carte scolaire établie par le Ministère ayant l'éducation dans ses attributions.
+Ikarita igaragaza aho amashuri aherereye n'aho ateganywa kubakwa ikorwa hubahirijwe igishushanyombonera cy'imikoreshereze n'imitunganyirize y'ubutaka ku rwego rw'igihugu. | Establishing the school map respects the national land use and development master plan. | L'établissement de la carte scolaire respecte le schéma directeur national d'utilisation et d'aménagement des terres.
+###### Ingingo ya 15: Imicungire y'ishuri | ###### Article 15: Management of an education institution | ###### Article 15: Gestion d'un établissement d'enseignement
+Ishuri rya Leta ricungwa na Leta hakurikijwe | A public education institution is managed by the | Un établissement d'enseignement public est géré
 --- | --- | ---
 
 39
@@ -1102,13 +1155,14 @@ amategeko abigenga. Icyakora, ishuri rya Leta rishobora gucungwa n'umuntu ku git
 ###### Ingingo ya 16: Umutungo w'ishuri n'imicungire yawo
 Umutungo w'ishuri ugizwe n'ibintu byimukanwa n'ibitimukanwa. Umutungo w'ishuri rya Leta ucungwa hakurikijwe amategeko agenga imicungire y'imari n'umutungo bya Leta.
 |
-Government in accordance with relevant laws. However, a public education institution may be managed by an individual or legal entity in accordance with the agreement signed between them. A Government-subsidised education institution is managed in accordance with the signed agreement and other relevant laws. A private education institution is managed by the owner in accordance with relevant laws. A public education institution, a Government- subsidised education institution or a private education institution is managed without prejudice to the interests of education.
+Government in accordance with relevant laws. However, a public education institution may be managed by an individual or legal entity in accordance with the agreement signed between them. A Government-subsidised education institution is managed in accordance with the signed agreement and other relevant laws. A private education institution is managed by the owner in accordance with relevant laws. A public education institution, a Government-subsidised education institution or a private education institution is managed without prejudice to the interests of education.
 ###### Article 16: Property of an education institution and its management
 The property of an education institution comprises movable and immovable assets. The property of a public education institution is managed in accordance with laws governing the management of State finances and property.
 |
 par l'État conformément à la législation en la matière. Toutefois, un établissement d'enseignement public peut être géré par une personne physique ou morale conformément à la convention signée entre eux. Un établissement d'enseignement conventionné est géré conformément à la convention et à la législation en la matière. Un établissement d'enseignement privé est géré par son propriétaire conformément à la législation en la matière. Un établissement d'enseignement public, un établissement d'enseignement conventionné ou un établissement d'enseignement privé est géré sans préjudice aux intérêts de l'éducation.
 ###### Article 16: Patrimoine d'un établissement d'enseignement et sa gestion
 Le patrimoine d'un établissement d'enseignement comprend les biens meubles et immeubles. Le patrimoine d'un établissement d'enseignement public est géré conformément à la législation régissant la gestion du patrimoine et des finances de l'État.
+Umutungo Leta ishyira mu ishuri ry'abafatanya | The property invested by the Government in a | Le patrimoine investi par l'État dans un
 --- | --- | ---
 
 40
@@ -1119,7 +1173,13 @@ Le patrimoine d'un établissement d'enseignement comprend les biens meubles et i
 
 Official Gazette n° Special of 18/02/2021
 
-na Leta ku bw'amasezerano ubarwa nk'umutungo bwite wa Leta kandi ucungwa hakurikijwe amategeko agenga umutungo wa Leta. Umutungo ufatanya na Leta ku bw'amasezerano ashyira mu ishuri ucungwa hakurikijwe amasezerano yagiranye na Leta. Umutungo w'ishuri ryigenga ucungwa na nyiraryo. Umutungo w'ishuri ucungwa hatabangamiwe inyungu z'uburezi. | Government-subsidised education institution is considered as State private assets and is managed in accordance with laws governing the management of State finances and property. The property invested by a partner in a Government-subsidised education institution is managed in accordance with the agreement signed with the Government. The property of a private education institution is managed by the owner of such education institution. The property of an education institution is managed without prejudice to the interests of education. | établissement d'enseignement conventionné est considéré comme le patrimoine du domaine privé de l'État et est géré conformément à la législation régissant la gestion du patrimoine et des finances de l'État. Le patrimoine investi par le partenaire dans un établissement d'enseignement conventionné est géré conformément à la convention signée avec l'État. Le patrimoine d'un établissement d'enseignement privé est géré par le propriétaire de cet établissement d'enseignement. Le patrimoine d'un établissement d'enseignement est géré sans porter préjudice aux intérêts de l'éducation.
+na Leta ku bw'amasezerano ubarwa nk'umutungo bwite wa Leta kandi ucungwa hakurikijwe amategeko agenga umutungo wa Leta. | Government-subsidised education institution is considered as State private assets and is managed in accordance with laws governing the management of State finances and property. | établissement d'enseignement conventionné est considéré comme le patrimoine du domaine privé de l'État et est géré conformément à la législation régissant la gestion du patrimoine et des finances de l'État.
+Umutungo ufatanya na Leta ku bw'amasezerano ashyira mu ishuri ucungwa hakurikijwe amasezerano yagiranye na Leta. | The property invested by a partner in a Government-subsidised education institution is managed in accordance with the agreement signed with the Government. | Le patrimoine investi par le partenaire dans un établissement d'enseignement conventionné est géré conformément à la convention signée avec l'État.
+Umutungo w'ishuri ryigenga ucungwa na nyiraryo. | The property of a private education institution is managed by the owner of such education institution. | Le patrimoine d'un établissement d'enseignement privé est géré par le propriétaire de cet établissement d'enseignement.
+Umutungo w'ishuri ucungwa hatabangamiwe inyungu z'uburezi. | The property of an education institution is managed without prejudice to the interests of education. | Le patrimoine d'un établissement d'enseignement est géré sans porter préjudice aux intérêts de l'éducation.
+###### Ingingo ya 17: Abakozi bo mu mashuri | ###### Article 17: Staff in education institutions | ###### Article 17: Personnel des établissements d'enseignement
+Iteka rya Minisitiri w'Intebe rishyiraho sitati yihariye igenga abarimu bo mu mashuri y'uburezi bw'ibanze, ay'imyuga n'ubumenyingiro n'abarimu n'abashakashatsi bo mu mashuri makuru ya Leta n'ay'abafatanya na Leta ku bw'amasezerano. | A Prime Minister's Order establishes a special statute governing teacher in basic, technical and vocational education institutions as well as the academic and research staff in public and Government-subsidised institutions of higher learning. | Un arrêté du Premier Ministre établit un statut particulier régissant les enseignants dans des établissements d'enseignement de base, de formation technique et professionnelle de base ainsi que le personnel académique et de recherche des institutions publiques et conventionnées d'enseignement supérieur.
+Abakozi bunganira bo mu mashuri avugwa mu gika cya mbere cy'iyi ngingo bagengwa na sitati | Support staff of education institutions mentioned in Paragraph One of this Article are governed by | Le personnel d'appui des établissements d'enseignement visés à l'alinéa premier du
 --- | --- | ---
 
 41
@@ -1130,11 +1190,11 @@ na Leta ku bw'amasezerano ubarwa nk'umutungo bwite wa Leta kandi ucungwa hakurik
 
 Official Gazette n° Special of 18/02/2021
 
-rusange igenga abakozi ba Leta. Abarimu, abashakashatsi n'abandi bunganira bo mu mashuri yigenga mu byose by'uburezi bagengwa n'itegeko umurimo mu Rwanda n'amasezerano y'umurimo.
+rusange igenga abakozi ba Leta. Abarimu, abashakashatsi n'abandi bakozi bunganira bo mu mashuri yigenga mu byiciro byose by'uburezi bagengwa n'itegeko rigenga umurimo mu Rwanda n'amasezerano y'umurimo.
 ###### Ingingo ya 18: Imyitwarire mu mashuri
-Umwarimu, umunyeshuri n'undi w'ishuri bagomba kurangwa n'imyitwarire myiza. Iteka rya Minisitiri rigena ibyerekeye imyitwarire myiza iranga abavugwa mu mbere cy'iyi ngingo.
+Umwarimu, umunyeshuri n'undi mukozi w'ishuri bagomba kurangwa n'imyitwarire myiza. Iteka rya Minisitiri rigena ibyerekeye imyitwarire myiza iranga abavugwa mu gika cya mbere cy'iyi ngingo.
 ###### Ingingo ya 19: Integanyanyigisho
-Buri cyiciro cy'uburezi integanyanyigisho. Integanyanyigisho zo mu mashuri y'incuke, abanza, ayisumbuye n'ay'imyuga n'ubumenyingiro yo kuva ku rwego rwa (1) kugeza ku rwego rwa gatanu (5) zitegurwa n'ikigo gifite mu nshingano integanyanyigisho muri ayo mashuri zigashyirwaho n'iteka Minisitiri.
+Buri cyiciro cy'uburezi kigira integanyanyigisho. Integanyanyigisho zo mu mashuri y'incuke, abanza, ayisumbuye n'ay'imyuga n'ubumenyingiro yo kuva ku rwego rwa mbere (1) kugeza ku rwego rwa gatanu (5) zitegurwa n'ikigo gifite mu nshingano integanyanyigisho muri ayo mashuri zigashyirwaho n'iteka rya Minisitiri.
 |
 the general statute governing public servants. Teachers, researchers and other support staff of private education institutions in all categories of education are governed by the law regulating labour in Rwanda and employment contracts.
 ###### Article 18: Code of conduct in education institutions
@@ -1176,53 +1236,16 @@ L'anglais est la langue d'enseignement. Toutefois, les établissements d'enseign
 
 [[START OF PAGE 44]]
 
-###### Ingingo ya 21: Isuzumabumenyi n'isuzumabushobozi rikorerwa umunyeshuri
-
-Umunyeshuri wo muri buri cyiciro cy'inyigisho akorerwa isuzumabumenyi n'isuzumabushobozi hagamijwe kumenya ko ibyo yize abyumva.
-
-###### Ingingo ya 22: Kwimuka k'umunyeshuri
-
-Umunyeshuri yimuka ava mu mwaka umwe ajya mu  wundi  cyangwa  mu  cyiciro  ajya  mu  kindi yatsinze isuzumabumenyi cyangwa isuzumabushobozi rishingiye ku bipimo by'integanyanyigisho yemewe.
-
-###### Ingingo ya 23: Ibigenerwa umunyeshuri
-
-Leta igira uruhare mu kwishyura ikiguzi cy'uburezi  no  kugaburirira  umunyeshuri  mu mashuri y'incuke, abanza, ayisumbuye y'inyigisho rusange n'ay'imyuga n'ubumenyingiro  ya  Leta  n'ay'abafatanya  na Leta ku bw'amasezerano.
-
-Leta igira kandi uruhare mu gufasha umunyeshuri wujuje ibisabwa kubona inguzanyo cyangwa buruse yo kwiga mu mashuri makuru ya Leta, ay'abafatanya na Leta k'ubw'amasezerano cyangwa ayo mu mahanga. Iteka rya Minisitiri rigena ibirebana
-
 Official Gazette n° Special of 18/02/2021
 
-###### Article 21: Assessment of learner's knowledge and skills
-
-Every  learner  in  every  cycle  is  subject  to  the assessment of knowledge and skills with the aim of ensuring that he or she understands what he or she learned.
-
-###### Article 22: Learner's promotion
-
-A learner is promoted from one level to another or  from  one  cycle  to  another  upon  successful completion of the assessment of knowledge and skills based on standards of the approved curriculum.
-
-###### Article 23: Benefits for a learner
-
-The Government contributes in covering the cost of education and feeding for a learner in public and Government-subsidised pre-primary, primary,  general  or  technical  and  vocational secondary schools.
-
-The  Government  also  contributes  in  helping  a learner  who  meets  the  requirements  access  a study loan or bursary to study in public, Government-subsidised or foreign institutions of higher learning.
-
-An Order of the Minister determines the benefits
-
-###### Article 21: Évaluation de connaissances et de compétences d'un apprenant
-
-Chaque  apprenant  de  chaque  cycle  subit  une évaluation de connaissances et de compétences dans le but de s'assurer qu'il comprend ce qu'il a appris.
-
-###### Article 22: Promotion d'un apprenant
-
-Un apprenant est promu d'un niveau a un autre ou  d'un  cycle  a  un  autre  lorsqu'il  a  réussi l'évaluation de connaissances et de compétences basée sur les normes du programme d'enseignement approuvé.
-
-###### Article 23: Avantages d'un apprenant
-
-L'État  apporte  une  contribution  au  coût  de l'éducation  et  à  l'alimentation  de  l'apprenant dans les écoles préscolaires, primaires, secondaires d'enseignement général ou de formation technique et professionnelle publiques et conventionnées.
-
-L'État  contribue  également  à  aider  l'apprenant remplissant les conditions requises à obtenir un prêt ou une bourse pour étudier dans des institutions d'enseignement supérieur publiques, conventionnées ou à l'étranger.
-
-Un  arrêté  du  ministre  détermine  les  avantages
+###### Ingingo ya 21: Isuzumabumenyi n'isuzumabushobozi rikorerwa umunyeshuri | ###### Article 21: Assessment of learner's knowledge and skills | ###### Article 21: Évaluation de connaissances et de compétences d'un apprenant
+Umunyeshuri wo muri buri cyiciro cy'inyigisho akorerwa isuzumabumenyi n'isuzumabushobozi hagamijwe kumenya ko ibyo yize abyumva. | Every learner in every cycle is subject to the assessment of knowledge and skills with the aim of ensuring that he or she understands what he or she learned. | Chaque apprenant de chaque cycle subit une évaluation de connaissances et de compétences dans le but de s'assurer qu'il comprend ce qu'il a appris.
+###### Ingingo ya 22: Kwimuka k'umunyeshuri | ###### Article 22: Learner's promotion | ###### Article 22: Promotion d'un apprenant
+Umunyeshuri yimuka ava mu mwaka umwe ajya mu wundi cyangwa mu cyiciro ajya mu kindi yatsinze isuzumabumenyi cyangwa isuzumabushobozi rishingiye ku bipimo by'integanyanyigisho yemewe. | A learner is promoted from one level to another or from one cycle to another upon successful completion of the assessment of knowledge and skills based on standards of the approved curriculum. | Un apprenant est promu d'un niveau a un autre ou d'un cycle a un autre lorsqu'il a réussi l'évaluation de connaissances et de compétences basée sur les normes du programme d'enseignement approuvé.
+###### Ingingo ya 23: Ibigenerwa umunyeshuri | ###### Article 23: Benefits for a learner | ###### Article 23: Avantages d'un apprenant
+Leta igira uruhare mu kwishyura ikiguzi cy'uburezi no kugaburirira umunyeshuri mu mashuri y'incuke, abanza, ayisumbuye y'inyigisho rusange n'ay'imyuga n'ubumenyingiro ya Leta n'ay'abafatanya na Leta ku bw'amasezerano. | The Government contributes in covering the cost of education and feeding for a learner in public and Government-subsidised pre-primary, primary, general or technical and vocational secondary schools. | L'État apporte une contribution au coût de l'éducation et à l'alimentation de l'apprenant dans les écoles préscolaires, primaires, secondaires d'enseignement général ou de formation technique et professionnelle publiques et conventionnées.
+Leta igira kandi uruhare mu gufasha umunyeshuri wujuje ibisabwa kubona inguzanyo cyangwa buruse yo kwiga mu mashuri makuru ya Leta, ay'abafatanya na Leta k'ubw'amasezerano cyangwa ayo mu mahanga. | The Government also contributes in helping a learner who meets the requirements access a study loan or bursary to study in public, Government-subsidised or foreign institutions of higher learning. | L'État contribue également à aider l'apprenant remplissant les conditions requises à obtenir un prêt ou une bourse pour étudier dans des institutions d'enseignement supérieur publiques, conventionnées ou à l'étranger.
+Iteka rya Minisitiri rigena ibirebana | An Order of the Minister determines the benefits | Un arrêté du ministre détermine les avantages
 
 44
 
@@ -1232,29 +1255,15 @@ Un  arrêté  du  ministre  détermine  les  avantages
 
 Official Gazette n° Special of 18/02/2021
 
-n'ibigenerwa umunyeshuri muri buri cyiciro.
-###### Ingingo ya 24: Kumenyereza umunyeshuri umwuga w'ibyo yiga
-Ishuri ryishingira kubona aho umunyeshuri yimenyerereza umwuga w'ibyo yiga biteganywa n'integanyanyigisho. Inzego za Leta, abikorera bafatanyabikorwa bafasha ishuri kubona umunyeshuri yimenyerereza umwuga yiga.
-###### Ingingo ya 25: Gutegura umunyeshuri umwarimu w'umunyamwuga
-Umunyeshuri utegurwa kuba umwarimu w'umunyamwuga mu mashuri y'inyigisho rusange cyangwa ay'imyuga n'ubumenyingiro, atoranywa mu banyeshuri babisabye agomba kuba yatsinze neza ikizamini cya gisoza icyiciro cy'inyigisho rusange cyangwa cy'amashuri yisumbuye y'inyigisho rusange. Iteka rya Minisitiri rigena ibigenerwa umunyeshuri wemerewe gutegurirwa umwarimu w'umunyamwuga.
-###### Ingingo ya 26: Umwarimu utangiye umwuga
-Umwarimu utangiye umwuga wo kwigisha
-|
-for a learner in each cycle.
-###### Article 24: Internship
-An education institution is responsible for getting a place where a learner carries out his or her internship as required by the curriculum. Government institutions, the private sector and other stakeholders help an education institution find a place for a learner to carry out his or her internship.
-###### Article 25: Training a learner to become a professional teacher
-A learner who is trained to become a professional teacher in education institutions with general education and those of technical and vocational training is selected from the learners who so requested and must have successfully passed the national examination for ordinary or advanced level of general secondary education. An Order of the Minister determines the benefits granted to a learner admitted to be trained to become a professional teacher.
-###### Article 26: Beginning teacher
-A beginning teacher is assisted in pursuing his or
-|
-accordés à l'apprenant dans chaque catégorie.
-###### Article 24: S tage
-Un établissement d'enseignement se charge de trouver le lieu de stage d'un apprenant tel que prévu par le programme d'enseignement. Les institutions publiques, le secteur privé et les autres partenaires aident l'établissement d'enseignement à trouver un lieu de stage pour l'apprenant.
-###### Article 25: Former un apprenant pour devenir un enseignant professionnel
-Un apprenant qui est formé pour devenir enseignant professionnel dans les établissements d'enseignement général et ceux de formation technique et professionnelle est sélectionné parmi les apprenants qui en ont fait la demande et doit avoir réussi l'examen national du premier ou du deuxième cycle d'enseignement secondaire général. Un arrêté du Ministre détermine les avantages accordés à un apprenant admis à être formé pour devenir enseignant professionnel.
-###### Article 26: Enseignant débutant
-Un enseignant débutant est aidé à poursuivre sa
+n'ibigenerwa umunyeshuri muri buri cyiciro. | for a learner in each cycle. | accordés à l'apprenant dans chaque catégorie.
+###### Ingingo ya 24: Kumenyereza umunyeshuri umwuga w'ibyo yiga | ###### Article 24: Internship | ###### Article 24: Stage
+Ishuri ryishingira kubona aho umunyeshuri yimenyerereza umwuga w'ibyo yiga nk'uko biteganywa n'integanyanyigisho. | An education institution is responsible for getting a place where a learner carries out his or her internship as required by the curriculum. | Un établissement d'enseignement se charge de trouver le lieu de stage d'un apprenant tel que prévu par le programme d'enseignement.
+Inzego za Leta, abikorera n'abandi bafatanyabikorwa bafasha ishuri kubona aho umunyeshuri yimenyerereza umwuga w'ibyo yiga. | Government institutions, the private sector and other stakeholders help an education institution find a place for a learner to carry out his or her internship. | Les institutions publiques, le secteur privé et les autres partenaires aident l'établissement d'enseignement à trouver un lieu de stage pour l'apprenant.
+###### Ingingo ya 25: Gutegura umunyeshuri kuba umwarimu w'umunyamwuga | ###### Article 25: Training a learner to become a professional teacher | ###### Article 25: Former un apprenant pour devenir un enseignant professionnel
+Umunyeshuri utegurwa kuba umwarimu w'umunyamwuga mu mashuri y'inyigisho rusange cyangwa ay'imyuga n'ubumenyingiro, atoranywa mu banyeshuri babisabye kandi agomba kuba yatsinze neza ikizamini cya Leta gisoza icyiciro cy'inyigisho rusange cyangwa cy'amashuri yisumbuye y'inyigisho rusange. | A learner who is trained to become a professional teacher in education institutions with general education and those of technical and vocational training is selected from the learners who so requested and must have successfully passed the national examination for ordinary or advanced level of general secondary education. | Un apprenant qui est formé pour devenir enseignant professionnel dans les établissements d'enseignement général et ceux de formation technique et professionnelle est sélectionné parmi les apprenants qui en ont fait la demande et doit avoir réussi l'examen national du premier ou du deuxième cycle d'enseignement secondaire général.
+Iteka rya Minisitiri rigena ibigenerwa umunyeshuri wemerewe gutegurirwa kuba umwarimu w'umunyamwuga. | An Order of the Minister determines the benefits granted to a learner admitted to be trained to become a professional teacher. | Un arrêté du Ministre détermine les avantages accordés à un apprenant admis à être formé pour devenir enseignant professionnel.
+###### Ingingo ya 26: Umwarimu utangiye umwuga | ###### Article 26: Beginning teacher | ###### Article 26: Enseignant débutant
+Umwarimu utangiye umwuga wo kwigisha | A beginning teacher is assisted in pursuing his or | Un enseignant débutant est aidé à poursuivre sa
 --- | --- | ---
 
 45
@@ -1405,8 +1414,24 @@ Official Gazette n° Special of 18/02/2021
 Inzego z'ubuyobozi bw'ishuri ni izi zikurikira: 1º Inteko Rusange; 2º Ubuyobozi bw'ishuri.
 ##### Akiciro ka mbere: Inteko Rusange
 ###### Ingingo ya 35: Abagize Inteko Rusange
-Inteko Rusange igizwe na: 1° ababyeyi b'abana barererwa muri shuri;
----
+Inteko Rusange igizwe na: 1° ababyeyi b'abana barererwa muri iryo shuri;
+|
+### CHAPTER II: ORGANISATION AND FUNCTIONING OF GENERAL, TECHNICAL AND VOCATIONAL BASIC EDUCATION INSTITUTIONS
+#### Section One: Organization of general, technical and vocational basic education institutions
+###### Article 34: Administrative organs of an education institution
+The administrative organs of an education institution are as follows: 1º the General Assembly; 2º the management of an education institution.
+##### Subsection One: General Assembly
+###### Article 35: Composition of the General Assembly
+The General Assembly is composed of: 1º parents with children enrolled in the education institution;
+|
+### CHAPITRE II: ORGANISATION ET FONCTIONNEMENT DES ÉTABLISSEMENTS D'ENSEIGNEMENT GÉNÉRAL, DE FORMATION TECHNIQUE ET PROFESSIONNELLE DE BASE
+#### Section première: Organisation des établissements d'enseignement général, de formation technique et professionnelle de base
+###### Article 34: Organes administratifs d'un établissement d'enseignement
+Les organes administratifs d'un établissement d'enseignement sont les suivants : 1º l'Assemblée générale; 2º la direction d'un établissement d'enseignement.
+##### Sous-section première: Assemblée générale
+###### Article 35: Composition de l'Assemblée générale
+L'Assemblée générale est composée de: 1º parents ayant les enfants fréquentant cet établissement d'enseignement;
+--- | --- | ---
 
 51
 
@@ -1416,16 +1441,18 @@ Inteko Rusange igizwe na: 1° ababyeyi b'abana barererwa muri shuri;
 
 Official Gazette n° Special of 18/02/2021
 
-2° abagize ubuyobozi bw'ishuri; 3° abarimu b'ishuri; 4° abanyeshuri babiri (2) bahagarariye abandi, barimo umugabo n'umugore, bishoboka, batorwa na bagenzi babo; 5° nyir'ishuri cyangwa umuhagarariye, mashuri y'abafatanya na bw'amasezerano no ku mashuri 6° undi muntu wese wemejwe Rusange. Iteka rya Minisitiri rigena imikorere Rusange.
-###### Ingingo ya 36: Inzego zishamikiye ku Rusange
-Inzego zishamikiye ku Nteko Rusange zikurikira: 1° Komite Nyobozi; 2° Komite Ngenzuzi. Iteka rya Minisitiri rigena imikorere ya Nyobozi na Komite Ngenzuzi.
+2° abagize ubuyobozi bw'ishuri; 3° abarimu b'ishuri; 4° abanyeshuri babiri (2) bahagarariye abandi, barimo umugabo n'umugore, aho bishoboka, batorwa na bagenzi babo; 5° nyir'ishuri cyangwa umuhagarariye, ku mashuri y'abafatanya na Leta ku bw'amasezerano no ku mashuri yigenga; 6° undi muntu wese wemejwe n'Inteko Rusange. Iteka rya Minisitiri rigena imikorere y'Inteko Rusange.
+###### Ingingo ya 36: Inzego zishamikiye ku Nteko Rusange
+Inzego zishamikiye ku Nteko Rusange ni izi zikurikira: 1° Komite Nyobozi; 2° Komite Ngenzuzi. Iteka rya Minisitiri rigena imikorere ya Komite Nyobozi na Komite Ngenzuzi.
 |
-2º members of the management of the education institution; 3º teachers of the education institution; 4º two (2) representatives of learners, including, where possible, a male and a female elected by their peers; 5º the education institution owner or his or her representative, in case of Government- subsidised and private education institutions; 6º any other person approved by the General Assembly. An order of the Minister determines the functioning of the General Assembly.
+2º members of the management of the education institution; 3º teachers of the education institution; 4º two (2) representatives of learners, including, where possible, a male and a female elected by their peers; 5º the education institution owner or his or her representative, in case of Government-subsidised and private education institutions; 6º any other person approved by the General Assembly. An order of the Minister determines the functioning of the General Assembly.
 ###### Article 36: Affiliated organs of the General Assembly
-The affiliated organs of the General Assembly are as follows: 1º the Executive Committee; 2º the Audit Committee. An Order of the Minister determines the 2º membres de d'enseignement; 3º enseignants d'enseignement; 4º deux (2) représentants si possible, un leurs pairs; 5º propriétaire d'enseignement établissements conventionnés 6º toute autre l'Assemblée Un arrêté du fonctionnement
-###### Article 36: Organes générale
-Les organes affiliés les suivants: 1º le Comité 2º le Comité Un arrêté du
---- | ---
+The affiliated organs of the General Assembly are as follows: 1º the Executive Committee; 2º the Audit Committee. An Order of the Minister determines the functioning of the Executive Committee and
+|
+2º membres de la direction d'un établissement d'enseignement; 3º enseignants d'un établissement d'enseignement; 4º deux (2) représentants des apprenants, dont, si possible, un homme et une femme, élus par leurs pairs; 5º propriétaire d'un établissement d'enseignement ou son représentant, pour les établissements d'enseignement conventionnés et privés; 6º toute autre personne approuvée par l'Assemblée générale. Un arrêté du Ministre détermine le fonctionnement de l'Assemblée générale.
+###### Article 36: Organes affiliés à l'Assemblée générale
+Les organes affiliés à l'Assemblée générale sont les suivants: 1º le Comité exécutif; 2º le Comité d'audit. Un arrêté du Ministre détermine le fonctionnement du Comité exécutif et du Comité
+--- | --- | ---
 
 52
 
@@ -1436,21 +1463,34 @@ Les organes affiliés les suivants: 1º le Comité 2º le Comité Un arrêté du
 Official Gazette n° Special of 18/02/2021
 
 ###### Ingingo ya 37: Inshingano z'Inteko Rusange
+Inteko Rusange ni rwo rwego rukuru rw'ishuri mu birebana n'imyigire, imyigishirize n'imibereho myiza y'abanyeshuri n'abarimu. Ikurikirana imikorere rusange y'ishuri kandi igaharanira icyatuma ritera imbere.
+By'umwihariko Inteko Rusange ishinzwe ibi bikurikira:
+1º kwemeza icyerekezo cyihariye cy'ishuri hakurikijwe intego yaryo;
+2º gushyiraho no gukuraho abagize Komite Nyobozi;
+3º gushyiraho no gukuraho abagize Komite Ngenzuzi;
+4º kwemeza amategeko ngengamikorere y'ishuri;
+5º kwemeza ingengo y'imari na gahunda y'ibikorwa by'umwaka by'ishuri;
 |
 Audit Committee.
 ###### Article 37: Responsibilities of the General Assembly
+The General Assembly is the supreme organ of an education institution in terms of learning, teaching and welfare of learners and teachers. It monitors the general functioning of an education institution and ensures its development.
+The General Assembly is particularly responsible for the following:
+1º to adopt the specific vision of the education institution according to its mission;
+2º to appoint and dismiss members of the Executive Committee;
+3º to appoint and dismiss members of the Audit Committee;
+4º to adopt the education institution's internal rules and regulations;
+5º to approve the education institution's annual budget and action plan;
 |
 d'audit.
 ###### Article 37: Attributions de l'Assemblée générale
-L'Assemblée générale est l'organe suprême établissement d'enseignement en matière d'apprentissage, d'enseignement et du des apprenants et des enseignants. Elle assure le suivi du fonctionnement général établissement d'enseignement et veille à son développement. L'Assemblée générale est particulièrement chargée de ce qui suit: 1º adopter la vision spécifique de l'établissement d'enseignement en fonction de sa mission; 2º nommer et révoquer les membres du Comité exécutif; 3º nommer et révoquer les membres du Comité d'audit; 4º adopter le règlement intérieur de l'établissement d'enseignement; 5º approuver le budget et le plan d'action
+L'Assemblée générale est l'organe suprême d'un établissement d'enseignement en matière d'apprentissage, d'enseignement et du bien-être des apprenants et des enseignants. Elle assure le suivi du fonctionnement général d'un établissement d'enseignement et veille à son développement.
+L'Assemblée générale est particulièrement chargée de ce qui suit:
+1º adopter la vision spécifique de l'établissement d'enseignement en fonction de sa mission;
+2º nommer et révoquer les membres du Comité exécutif;
+3º nommer et révoquer les membres du Comité d'audit;
+4º adopter le règlement intérieur de l'établissement d'enseignement;
+5º approuver le budget et le plan d'action annuels de l'établissement d'enseignement;
 --- | --- | ---
-Inteko Rusange ni rwo rwego rukuru rw'ishuri mu birebana n'imyigire, imyigishirize n'imibereho myiza y'abanyeshuri n'abarimu. Ikurikirana imikorere rusange y'ishuri kandi igaharanira icyatuma ritera imbere. | The General Assembly is the supreme organ of an education institution in terms of learning, teaching and welfare of learners and teachers. It monitors the general functioning of an education institution and ensures its development. | d'un bien-être d'un
-By'umwihariko Inteko Rusange ishinzwe ibi bikurikira: | The General Assembly is particularly responsible for the following:
-1º kwemeza icyerekezo cyihariye cy'ishuri hakurikijwe intego yaryo; | 1º to adopt the specific vision of the education institution according to its mission;
-gushyiraho no gukuraho abagize Komite Nyobozi; | 2º to appoint and dismiss members of the Executive Committee;
-2º
-4º kwemeza amategeko ngengamikorere y'ishuri; | 4º to adopt the education institution's internal rules and regulations;
-5º kwemeza ingengo y'imari na gahunda y'ibikorwa by'umwaka by'ishuri; | 5º to approve the education institution's annual budget and action plan; | annuels de l'établissement d'enseignement;
 
 53
 
@@ -1466,7 +1506,7 @@ Komite Nyobozi igizwe n'aba bakurikira: 1º ababyeyi batanu (5) batorwa na bagen
 |
 6º to approve the annual financial and activity report; 7º approve bonus for teachers, parents' contribution to the feeding of children at the education institution or to the rehabilitation of the education institution in the case of public and Government-subsidised education institutions; 8º to approve school fees and the parents' contribution to the feeding of children at the education institution in private education institutions.
 ###### Article 38: Members of the Executive Committee
-The Executive Committee consists of the following members: 1º five (5) parents elected by peers including chairperson and a deputy chairperson; 2º the head of the education institution, who also acts as rapporteur; 3º the owner of the education institution or his or her representative in case of Government subsidised or private education institution;
+The Executive Committee consists of the following members: 1º five (5) parents elected by peers including a chairperson and a deputy chairperson; 2º the head of the education institution, who also acts as rapporteur; 3º the owner of the education institution or his or her representative in case of Government subsidised or private education institution;
 |
 6º approuver le rapport annuel financier et d'activités; 7º approuver le prime de l'enseignant, la contribution des parents à l'alimentation des enfants à l'établissement d'enseignement ou à la réhabilitation de ce dernier dans le cas des établissements d'enseignement publics et conventionnés; 8º approuver les frais de scolarité et la contribution des parents à l'alimentation des enfants à l'établissement d'enseignement au sein des établissements d'enseignement privés.
 ###### Article 38: Membres du comité exécutif
@@ -1485,15 +1525,15 @@ conventionné ou privé;
 --- | --- | ---
 4º abarimu babiri (2) bahagarariye bagenzi babo, harimo umugabo n'umugore batorwa na bagenzi babo; 5º abanyeshuri babiri (2) bahagarariye bagenzi babo harimo umugabo n'umugore aho bishoboka, batorwa na bagenzi babo.
 ###### Ingingo ya 39: Inshingano za Komite Nyobozi
-Komite Nyobozi ifite inshingano zikurikira: 1º gukurikirana iyubahirizwa ry'amategeko n'amabwiriza agenga ishuri no gutanga inama ku mategeko ngengamikorere y'ishuri; 2º gukurikirana imicungire y'umutungo w'ishuri n'imibereho myiza y'abanyeshuri; 3º gusuzuma ibibazo by'ishuri no gutanga inama y'uko byakemurwa; 4º gutanga inama ku cyerekezo,
+Komite Nyobozi ifite inshingano zikurikira: 1º gukurikirana iyubahirizwa ry'amategeko n'amabwiriza agenga ishuri no gutanga inama ku mategeko ngengamikorere y'ishuri; 2º gukurikirana imicungire y'umutungo w'ishuri n'imibereho myiza y'abanyeshuri; 3º gusuzuma ibibazo by'ishuri no gutanga inama y'uko byakemurwa; 4º gutanga inama ku cyerekezo, igenamigambi n'ingamba by'ishuri;
 |
 4º two (2) teachers representing their peers, including a male and a female elected by their peers; 5º two (2) learners representing their peers, including a male and a female where possible elected by their peers;
 ###### Article 39: Responsibilities of the Executive Committee
-The Executive Committee has the following responsibilities: 1º to monitor compliance with laws and regulations governing the education institution and advise on the internal rules and regulations of the education institution; 2º to monitor the management of the education institution's property and welfare of learners; 3º to examine problems faced by the education institution and advise on how to address them; 4º to advise on the education institution's
+The Executive Committee has the following responsibilities: 1º to monitor compliance with laws and regulations governing the education institution and advise on the internal rules and regulations of the education institution; 2º to monitor the management of the education institution's property and welfare of learners; 3º to examine problems faced by the education institution and advise on how to address them; 4º to advise on the education institution's vision, planning and strategy;
 |
 4º deux (2) enseignants représentant leurs pairs, dont un homme et une femme élus par leurs pairs; 5º deux (2) apprenants représentant leurs pairs, dont, si possible, un homme et une femme élus par leurs pairs.
 ###### Article 39: Attributions du Comité exécutif
-Le Comité exécutif a les attributions suivantes: 1º assurer le suivi du respect des lois et règlements régissant l'établissement d'enseignement et donner des conseils concernant le règlement intérieur d'un établissement d'enseignement; 2º faire le suivi de la gestion du patrimoine d'un établissement d'enseignement et du bien-être des apprenants; 3º examiner les problèmes de l'établissement d'enseignement et donner des conseils sur la façon de les résoudre; 4º donner des conseils sur la vision, la
+Le Comité exécutif a les attributions suivantes: 1º assurer le suivi du respect des lois et règlements régissant l'établissement d'enseignement et donner des conseils concernant le règlement intérieur d'un établissement d'enseignement; 2º faire le suivi de la gestion du patrimoine d'un établissement d'enseignement et du bien-être des apprenants; 3º examiner les problèmes de l'établissement d'enseignement et donner des conseils sur la façon de les résoudre; 4º donner des conseils sur la vision, la planification et la stratégie d'un
 
 55
 
@@ -1505,15 +1545,15 @@ Official Gazette n° Special of 18/02/2021
 
 5º gutanga inama ku ngengo y'imari y'ishuri no ku misanzu itangwa n'ababyeyi; 6º gushyikiriza raporo Inteko Rusange; 7º gushyikiriza ubuyobozi bw'Umurenge raporo z'inama, Umunyamabanga Nshingwabikorwa w'Akagari ishuri riherereyemo akagenerwa kopi; 8º gushyira mu bikorwa indi nshingano yahabwa n'Inteko Rusange.
 ###### Ingingo ya 40: Abagize Komite Ngenzuzi
-Komite Ngenzuzi igizwe n'aba bakurikira: 1º Perezida na Visi-Perezida batorwa mu babyeyi batari muri Komite Nyobozi; 2º umwarimu utorwa na bagenzi be, ari na we mwanditsi wayo; 3º umunyeshuri utorwa na bagenzi be;
+Komite Ngenzuzi igizwe n'aba bakurikira: 1º Perezida na Visi-Perezida batorwa mu babyeyi batari muri Komite Nyobozi; 2º umwarimu utorwa na bagenzi be, ari na we mwanditsi wayo; 3º umunyeshuri utorwa na bagenzi be; 4º ushinzwe Uburezi mu Murenge; 5º Umunyamabanga Nshingwabikorwa
 |
 5º to advise on the education institution's budget and parents' contributions; 6º to submit a report to the General Assembly; 7º to submit meeting reports to Sector authorities, with a copy to the executive secretary of the Cell where the education institution is located; 8º to perform such other responsibility as may be assigned by the General Assembly.
 ###### Article 40: Members of the Audit Committee
-The Audit Committee consists of the following: 1º a chairperson and deputy chairperson elected from among parents who are not members of the Executive Committee; 2º a teacher elected by his or her peers, who also acts as rapporteur; 3º a learner elected by his or her peers;
+The Audit Committee consists of the following: 1º a chairperson and deputy chairperson elected from among parents who are not members of the Executive Committee; 2º a teacher elected by his or her peers, who also acts as rapporteur; 3º a learner elected by his or her peers; 4º the Sector education officer; 5º the Executive Secretary of the Cell where
 |
 établissement d'enseignement; 5º donner des conseils sur le budget d'un établissement d'enseignement et les contributions parentales; 6º soumettre un rapport à l'Assemblée générale; 7º soumettre aux autorités du Secteur les rapports de réunions et réserver copie au secrétaire exécutif de la cellule où est situé l'établissement d'enseignement; 8º s'acquitter de toute autre tâche pouvant lui être assignée par l'Assemblée générale.
 ###### Article 40: Membres du Comité d'audit
-Le Comité d'audit est composé comme suit: 1º un président et un vice-président élus parmi les parents qui ne sont pas membres du Comité exécutif; 2º un enseignant élu par ses pairs, qui fait également fonction de rapporteur; 3º un apprenant élu par ses pairs;
+Le Comité d'audit est composé comme suit: 1º un président et un vice-président élus parmi les parents qui ne sont pas membres du Comité exécutif; 2º un enseignant élu par ses pairs, qui fait également fonction de rapporteur; 3º un apprenant élu par ses pairs; 4º le chargé de l'éducation dans le Secteur; 5º le Secrétaire exécutif de la Cellule où est situé
 --- | --- | ---
 
 56
@@ -1524,11 +1564,12 @@ Le Comité d'audit est composé comme suit: 1º un président et un vice-présid
 
 Official Gazette n° Special of 18/02/2021
 
-w'Akagari ishuri
-###### Ingingo ya 41: Inshingano Ngenzuzi
-Komite Ngenzuzi ifite inshingano 1º kugenzura imicungire by'imari n'umutungo 2º kugenzura niba ngengamikorere y'ishuri 3º kugenzura ibyerekeye abanyeshuri ku ishuri; 4º kugeza ku Nteko y'igenzura; 5º kugenzura imikorere Nyobozi.
-##### Akiciro ka 2: Ubuyobozi
-###### Ingingo ya 42: Abagize ubuyobozi
+w'Akagari ishuri riherereyemo.
+###### Ingingo ya 41: Inshingano za Komite Ngenzuzi
+Komite Ngenzuzi ifite inshingano zikurikira: 1º kugenzura imicungire n'imikoreshereze by'imari n'umutungo by'ishuri; 2º kugenzura niba amategeko ngengamikorere y'ishuri yubahirizwa; 3º kugenzura ibyerekeye kugaburira abanyeshuri ku ishuri; 4º kugeza ku Nteko Rusange raporo y'igenzura; 5º kugenzura imikorere ya Komite Nyobozi.
+##### Akiciro ka 2: Ubuyobozi bw'ishuri
+###### Ingingo ya 42: Abagize ubuyobozi bw'ishuri
+Ubuyobozi bw'ishuri bugizwe n'aba bakurikira:
 |
 the education institution is located.
 ###### Article 41: Responsibilities of the Audit Committee
@@ -1537,7 +1578,12 @@ The Audit Committee has the following responsibilities: 1º to monitor the manag
 ###### Article 42: Members of the management of an education institution
 The management of an education institution
 |
-riherereyemo. za zikurikira: n'imikoreshereze by'ishuri; amategeko yubahirizwa; kugaburira Rusange ya bw'ishuri bw'ishuri Ubuyobozi bw'ishuri bugizwe n'aba bakurikira:
+l'établissement d'enseignement.
+###### Article 41: Attributions du Comité d'audit
+Le Comité d'audit a les attributions suivantes: 1º assurer le suivi de la gestion et de l'utilisation des finances et du patrimoine d'un établissement d'enseignement; 2º assurer le suivi du respect du règlement d'ordre intérieur d'un établissement d'enseignement; 3º contrôler l'alimentation des apprenants à l'établissement d'enseignement; 4º soumettre à l'Assemblée générale le rapport d'audit; 5º contrôler le fonctionnement du Comité exécutif.
+##### Sous-section 2: Direction d'un établissement d'enseignement
+###### Article 42: Membres de la direction d'un établissement d'enseignement
+La direction d'un établissement d'enseignement
 --- | --- | ---
 
 57
@@ -1625,7 +1671,7 @@ Le Conseil des enseignants est composé de tous les enseignants de l'établissem
 
 Official Gazette n° Special of 18/02/2021
 
-3º gutora ababahagararira muri Komite Nyobozi no muri Komite Ngenzuzi; 4º kugira uruhare mu myitwarire n'imyifatire by'abarimu n'iby'abanyeshuri no ku bindi bibazo bigaragazwa n'ishuri; 5º guteza imbere ikoreshwa ry'ikoranabuhanga, indimi zigishwa mu mashuri n'ururimi rwigishwamo by'umwihariko; 6º kugira uruhare mu kurwanya ihohoterwa iryo ari ryo ryose; 7º gukumira no kurwanya ingengabitekerezo ya jenoside, amacakubiri, ivangura n'itonesha iryo ari ryo ryose; 8º gutoza abanyeshuri indangagaciro nyarwanda; 9º guharanira ubutarushwa no guhanga | 3º to elect their representatives to the Executive Committee and Audit Committee; 4º to contribute to the monitoring of the behaviour and discipline of teachers and learners and other problems identified by the education institution; 5º to promote the use of technology, languages taught in education institutions and especially of the medium of instruction; 6º to participate in the fight against all forms of violence; 7º to prevent and fight the ideology of genocide, sectarianism, discrimination and all forms of favouritism; 8º to teach learners the Rwandan values; 9º to strive for excellence and innovation. | 3º élire leurs représentants au Comité exécutif et au Comité d'audit; 4º contribuer au suivi du comportement et de la discipline des enseignants et des apprenants et d'autres problèmes identifiés par l'établissement d'enseignement; 5º promouvoir l'utilisation de la technologie, des langues enseignées aux établissements d'enseignement et surtout celle de la langue d'enseignement; 6º participer à la lutte contre toutes les formes de violence; 7º prévenir et lutter contre l'idéologie du génocide, le sectarisme, la discrimination et toute forme de favoritisme; 8º apprendre aux apprenants les valeurs rwandaises; 9º rechercher l'excellence et l'innovation.
+3º gutora ababahagararira muri Komite Nyobozi no muri Komite Ngenzuzi; 4º kugira uruhare mu myitwarire n'imyifatire by'abarimu n'iby'abanyeshuri no ku bindi bibazo bigaragazwa n'ishuri; 5º guteza imbere ikoreshwa ry'ikoranabuhanga, indimi zigishwa mu mashuri n'ururimi rwigishwamo by'umwihariko; 6º kugira uruhare mu kurwanya ihohoterwa iryo ari ryo ryose; 7º gukumira no kurwanya ingengabitekerezo ya jenoside, amacakubiri, ivangura n'itonesha iryo ari ryo ryose; 8º gutoza abanyeshuri indangagaciro nyarwanda; 9º guharanira ubutarushwa no guhanga udushya. | 3º to elect their representatives to the Executive Committee and Audit Committee; 4º to contribute to the monitoring of the behaviour and discipline of teachers and learners and other problems identified by the education institution; 5º to promote the use of technology, languages taught in education institutions and especially of the medium of instruction; 6º to participate in the fight against all forms of violence; 7º to prevent and fight the ideology of genocide, sectarianism, discrimination and all forms of favouritism; 8º to teach learners the Rwandan values; 9º to strive for excellence and innovation. | 3º élire leurs représentants au Comité exécutif et au Comité d'audit; 4º contribuer au suivi du comportement et de la discipline des enseignants et des apprenants et d'autres problèmes identifiés par l'établissement d'enseignement; 5º promouvoir l'utilisation de la technologie, des langues enseignées aux établissements d'enseignement et surtout celle de la langue d'enseignement; 6º participer à la lutte contre toutes les formes de violence; 7º prévenir et lutter contre l'idéologie du génocide, le sectarisme, la discrimination et toute forme de favoritisme; 8º apprendre aux apprenants les valeurs rwandaises; 9º rechercher l'excellence et l'innovation.
 --- | --- | ---
 
 62
@@ -1641,10 +1687,9 @@ Official Gazette n° Special of 18/02/2021
 Isuzumabumenyi n'isuzumabushobozi rusange mu ishuri ry'uburezi bw'ibanze bw'inyigisho rusange n'ubw'inyigisho z'imyuga n'ubumenyingiro rikubiyemo: 1° isuzumabumenyi n'isuzumabushobozi rihoraho ritegurwa na mwarimu; 2° isuzumabumenyi n'isuzumabushobozi rikorwa ku rwego rw'ishuri, Akarere n'iryo ku rwego rw'Igihugu. Iteka rya Minisitiri rigena uburyo hakorwa isuzumabumenyi n'isuzumabushobozi rusange ry'abanyeshuri ku nzego zose z'uburezi mu mashuri y'uburezi bw'ibanze bw'inyigisho rusange n'ubw'inyigisho z'imyuga n'ubumenyingiro.
 |
 #### Section 2: Functioning of general or technical and vocational basic education institutions
-###### Article 47: General assessment of and skills in a general and technical vocational basic education institution
-The general assessment of knowledge and in a general, technical and vocational education institution includes: 1º the regular assessment of knowledge skills prepared by the teacher; 2º the assessment of knowledge and carried out at the education District and national levels. An Order of the Minister determines for the organization of general assessment knowledge and skills of learners at the level all cycles in the general, technical and basic education institutions.
+###### Article 47: General assessment of knowledge and skills in a general and technical and vocational basic education institution
+The general assessment of knowledge and skills in a general, technical and vocational basic education institution includes: 1º the regular assessment of knowledge and skills prepared by the teacher; 2º the assessment of knowledge and skills carried out at the education institution, District and national levels. An Order of the Minister determines modalities for the organization of general assessment of knowledge and skills of learners at the level of all cycles in the general, technical and vocational basic education institutions.
 |
-knowledge and skills basic and skills institution, modalities of of vocational
 #### Section 2: Fonctionnement des établissements d'enseignement général ou de formation technique et professionnelle de base
 ###### Article 47: Évaluation générale des connaissances et des compétences dans un établissement d'enseignement général et de formation technique et professionnelle de base
 L'évaluation générale des connaissances et des compétences dans un établissement d'enseignement général, de formation technique et professionnelle de base comprend: 1º une évaluation régulière des connaissances et des compétences préparée par l'enseignant; 2º une évaluation des connaissances et des compétences effectuée par l'établissement d'enseignement, le District et celle du niveau national. Un arrêté du Ministre détermine les modalités d'organisation d'une évaluation générale des connaissances et des compétences des apprenants au niveau de tous les cycles dans les établissements d'enseignement général, de formation technique et professionnelle de base.
@@ -1670,7 +1715,7 @@ Umunyeshuri urangije icyiciro cy'inyigisho mu ishuri ryo mu mahanga cyangwa ishu
 
 ###### Article 48: Promotion of a learner in a general or  technical  and  vocational  basic  education institution
 
-With  the  exception  of  a  learner  in  the  preprimary education cycle, a learner in the general or technical and vocational basic education institution is promoted after he or she has passed the general assessment of knowledge and skills referred to in Article 47 of this Law.
+With the exception of a learner in the pre-primary education cycle, a learner in the general or technical and vocational basic education institution is promoted after he or she has passed the general assessment of knowledge and skills referred to in Article 47 of this Law.
 
 An Order of the Minister determines modalities for the promotion of a learner from one year or cycle to another on the basis of the results of a general assessment of knowledge and skills.
 
@@ -1699,18 +1744,18 @@ Official Gazette n° Special of 18/02/2021
 ###### Ingingo ya 50: Uburyo bwo gucumbikira abanyeshuri ku ishuri
 Abanyeshuri biga mu mashuri yisumbuye y'uburezi bw'ibanze bw'inyigisho rusange n'ubw'inyigisho z'imyuga n'ubumenyingiro biga bacumbikiwe iyo ishuri ryabiherewe uburenganzira n'ikigo cy'Igihugu gifite ubugenzuzi bw'amashuri y'uburezi bw'ibanze mu nshingano, hashingiwe ku bipimo ngenderwaho bishyirwaho n'iteka rya Minisitiri. Abanyeshuri mu mashuri y'incuke n'abanza biga bataha. Icyakora, abanyeshuri bafite ubumuga butuma batabasha kwiga bataha mu miryango yabo, bashobora kwiga bacumbikiwe mu bigo bibaha uburezi bwihariye. Amategeko ngengamikorere y'ishuri agena ibyerekeye imicungire y'amacumbi mu ishuri.
 ###### Ingingo ya 51: Kugaburira abanyeshuri ku ishuri
-Umunyeshuri wo mu ishuri ry'uburezi
+Umunyeshuri wo mu ishuri ry'uburezi bw'ibanze bw'inyigisho rusange
 |
 ###### Article 50: Boarding system in an education institution
 Learners in general, technical and vocational basic secondary education become boarders when the education institution is authorized for this purpose by the national agency in charge of inspection of basic education institutions on the basis of the standards established by an Order of the Minister. Learners in pre-primary and primary education institutions are day learners. However, learners with disabilities that cannot allow them to be day learners may be placed in boarding education institutions of special education. The education institution's internal rules and regulations determine the management of the dormitories in the education institution.
 ###### Article 51: Feeding learners at the education institution
-A day learner in a public, Government-
+A day learner in a public, Government-subsidized and private institution of general,
 |
 examens nationaux dans ses attributions.
 ###### Article 50: Système d'internat dans un établissement d'enseignement
 Les apprenants dans les établissements d'enseignement secondaire général, de formation technique et professionnelle de base vivent en internat lorsque l'établissement d'enseignement est autorisé à cet effet par l'agence nationale ayant l'inspection des établissements d'enseignement de base dans ses attributions sur base des normes établies par arrêté du Ministre. Les apprenants des établissements d'enseignement préscolaire et primaire sont externes. Toutefois, les apprenants ayant un handicap qui ne leur permet pas d'être externes peuvent être internes dans des établissements d'enseignement à éducation spéciale. Le règlement d'ordre intérieur d'un établissement d'enseignement détermine la gestion des dortoirs dans l'établissement d'enseignement.
 ###### Article 51: Nourrir les apprenants à l'établissement d'enseignement
-Un apprenant externe dans un établissement
+Un apprenant externe dans un établissement public, conventionné et privé d'enseignement
 --- | --- | ---
 
 65
@@ -1719,37 +1764,26 @@ Un apprenant externe dans un établissement
 
 [[START OF PAGE 66]]
 
-n'ubw'inyigisho z'imyuga n'ubumenyingiro rya Leta, iry'abafatanya na Leta ku bw'amasezerano n'iryigenga wiga ataha, afatira ifunguro rya ku manywa ku ishuri.
-
-Iteka  rya  Minisitiri  rigena  ibishingirwaho  mu kugena  uruhare  rw'umubyeyi  n'urwa  Leta  mu kugaburira umunyeshuri ku ishuri rya Leta n'iry'abafatanya na Leta ku bw'amasezerano.
-
-###### Ingingo ya 52: Icyumba cyihariye
-
-Ishuri ry'uburezi bw'ibanze bw'inyigisho rusange n'iry'inyigisho z'imyuga n'ubumenyingiro rigomba kugira icyumba cyihariye  kirimo  ibyangombwa  by'ibanze  mu rwego rwo kwita ku mwana w'umukobwa.
-
-Rigira  kandi  icyumba  cyihariye  gitangirwamo ubutabazi bw'ibanze ku munyeshuri, umwarimu, umukozi cyangwa undi muntu ugiriye ikibazo ku ishuri.
-
 Official Gazette n° Special of 18/02/2021
 
-technical  and  vocational  basic  education  takes the meal of the day at the education institution.
-
-An Order of the Minister determine criteria for determining the contribution of a parent and the Government  in  the  feeding  of  a  learner  in  a public  and  Government-subsidized  education institution.
-
+n'ubw'inyigisho z'imyuga n'ubumenyingiro rya Leta, iry'abafatanya na Leta ku bw'amasezerano n'iryigenga wiga ataha, afatira ifunguro rya ku manywa ku ishuri.
+Iteka rya Minisitiri rigena ibishingirwaho mu kugena uruhare rw'umubyeyi n'urwa Leta mu kugaburira umunyeshuri ku ishuri rya Leta n'iry'abafatanya na Leta ku bw'amasezerano.
+###### Ingingo ya 52: Icyumba cyihariye
+Ishuri ry'uburezi bw'ibanze bw'inyigisho rusange n'iry'inyigisho z'imyuga n'ubumenyingiro rigomba kugira icyumba cyihariye kirimo ibyangombwa by'ibanze mu rwego rwo kwita ku mwana w'umukobwa.
+Rigira kandi icyumba cyihariye gitangirwamo ubutabazi bw'ibanze ku munyeshuri, umwarimu, umukozi cyangwa undi muntu ugiriye ikibazo ku ishuri.
+|
+technical and vocational basic education takes the meal of the day at the education institution.
+An Order of the Minister determine criteria for determining the contribution of a parent and the Government in the feeding of a learner in a public and Government-subsidized education institution.
 ###### Article 52: Special room
-
 An institution of general, technical and vocational basic education must have a special room equipped with basic items in the context of caring for the girl child.
-
-Also, the education institution has a special room equipped with first-aid equipment for the learner, teacher, staff member or any other person who may  have  a  problem  while  at  the  education institution.
-
+Also, the education institution has a special room equipped with first-aid equipment for the learner, teacher, staff member or any other person who may have a problem while at the education institution.
+|
 général, de formation technique et professionnel de base prend le repas de la journée à l'établissement d'enseignement.
-
 Un arrêté du Ministre détermine les critères de détermination de la contribution d'un parent et de l'État dans l'alimentation d'un apprenant dans un établissement d'enseignement public et conventionné.
-
 ###### Article 52: Chambre spéciale
-
-Un  établissement  d'enseignement  général,  de formation  technique  et  professionnelle  de  base doit  disposer  d'une  chambre  spéciale  équipée d'articles  de  base  dans  le  cadre  de  la  prise  en charge de l'enfant de sexe féminin.
-
-L'établissement d'enseignement dispose également d'une chambre spéciale équipée d'un matériel  de  premiers  soins  pour  l'apprenant, l'enseignant, le personnel ou toute autre personne pouvant avoir un quelconque problème à l'établissement d'enseignement.
+Un établissement d'enseignement général, de formation technique et professionnelle de base doit disposer d'une chambre spéciale équipée d'articles de base dans le cadre de la prise en charge de l'enfant de sexe féminin.
+L'établissement d'enseignement dispose également d'une chambre spéciale équipée d'un matériel de premiers soins pour l'apprenant, l'enseignant, le personnel ou toute autre personne pouvant avoir un quelconque problème à l'établissement d'enseignement.
+--- | --- | ---
 
 66
 
@@ -1861,19 +1895,19 @@ yisumbuye y'inyigisho rusange.
 ###### Ingingo ya 56: Imyaka yo gutangira amashuri abanza
 Umwana atangira kwiga amashuri abanza afite nibura imyaka itandatu (6) y'amavuko.
 ###### Ingingo ya 57: Uburenganzira bwo kwiga amashuri abanza
-Kwiga amashuri abanza ni itegeko kandi ni ubuntu mu mashuri ya Leta n'ay'abafatanya na Leta ku bw'amasezerano. Muri aya mashuri, ikiguzi cy'uburezi cyishingirwa na Leta. Umubyeyi cyangwa undi muntu ufite ububasha bwa kibyeyi ku mwana ategetswe kumutangiza ishuri igihe yujuje imyaka yo gatangira amashuri abanza. Umwana ntashobora kuvutswa uburenganzira bwo kwiga amashuri abanza. Umubyeyi cyangwa undi muntu ufite ububasha bwa kibyeyi ku mwana amurinda impamvu izo ari zo zose
+Kwiga amashuri abanza ni itegeko kandi ni ubuntu mu mashuri ya Leta n'ay'abafatanya na Leta ku bw'amasezerano. Muri aya mashuri, ikiguzi cy'uburezi cyishingirwa na Leta. Umubyeyi cyangwa undi muntu ufite ububasha bwa kibyeyi ku mwana ategetswe kumutangiza ishuri igihe yujuje imyaka yo gatangira amashuri abanza. Umwana ntashobora kuvutswa uburenganzira bwo kwiga amashuri abanza. Umubyeyi cyangwa undi muntu ufite ububasha bwa kibyeyi ku mwana amurinda impamvu izo ari zo zose zatuma ata ishuri.
 |
 of general secondary education.
 ###### Article 56: Age of entry into primary school
 A child starts primary school at the age of at least six (6) years old.
 ###### Article 57: Right to primary education
-Primary education is compulsory and free both in public and Government-subsidised schools. In these schools, the cost of education is covered by the government. A parent or any other person with parental authority over the child is obliged to cause admission of the child to school if the child attains the age of commencing primary education. No child may be deprived of the right to attend primary school. A parent or any other person with parental authority over the child prevents the child from any reason that may cause school
+Primary education is compulsory and free both in public and Government-subsidised schools. In these schools, the cost of education is covered by the government. A parent or any other person with parental authority over the child is obliged to cause admission of the child to school if the child attains the age of commencing primary education. No child may be deprived of the right to attend primary school. A parent or any other person with parental authority over the child prevents the child from any reason that may cause school dropout.
 |
 du premier cycle de l'enseignement secondaire général.
 ###### Article 56: Âge d'entrée à l'école primaire
 Un enfant commence l'enseignement primaire à l'âge de six (6) ans au moins.
 ###### Article 57: Droit à l'enseignement primaire
-L'enseignement primaire est obligatoire et gratuit dans les écoles publiques et conventionnées. Dans lesdites écoles, le coût de l'éducation est couvert par l'État. Un parent ou une autre personne ayant l'autorité parentale sur l'enfant est tenu de le faire inscrire à l'école lorsque l'enfant atteint l'âge de commencer l'école primaire. Aucun enfant ne peut être privé du droit de fréquenter l'école primaire. Un parent ou une autre personne avec l'autorité parentale sur l'enfant protège l'enfant contre toute cause
+L'enseignement primaire est obligatoire et gratuit dans les écoles publiques et conventionnées. Dans lesdites écoles, le coût de l'éducation est couvert par l'État. Un parent ou une autre personne ayant l'autorité parentale sur l'enfant est tenu de le faire inscrire à l'école lorsque l'enfant atteint l'âge de commencer l'école primaire. Aucun enfant ne peut être privé du droit de fréquenter l'école primaire. Un parent ou une autre personne avec l'autorité parentale sur l'enfant protège l'enfant contre toute cause pouvant entraîner l'enfant à abandonner l'école.
 --- | --- | ---
 
 69
@@ -1885,23 +1919,31 @@ L'enseignement primaire est obligatoire et gratuit dans les écoles publiques et
 Official Gazette n° Special of 18/02/2021
 
 #### Icyiciro cya 3: Uburezi bwo mu mashuri yisumbuye
+###### Ingingo ya 58: Uburezi mu mashuri yisumbuye
+Uburezi mu mashuri yisumbuye butangirwa mu byiciro bibiri (2) bikurikira:
+1° icyiciro cya mbere cy'amashuri yisumbuye cy'inyigisho rusange kimara imyaka itatu (3) gisozwa n'ikizamini cya Leta gitangirwa impamyabushobozi. Umunyeshuri ugitsinze akomeza mu cyiciro cya kabiri (2) cy'amashuri yisumbuye y'inyigisho rusange cyangwa ay'inyigisho z'imyuga n'ubumenyingiro;
+2° icyiciro cya kabiri (2) cy'amashuri yisumbuye gikubiyemo amatsinda atatu (3) y'inyigisho. Umunyeshuri urangije icyiciro cya mbere (1) cy'inyigisho rusange ashobora guhitamo:
+a) urwunge rw'amasomo anyuranye ya siyansi, ubumenyamuntu n'indimi;
+b) urwunge rw'amasomo mbonezamwuga;
+c) inyigisho z'imyuga n'ubumenyingiro zo kuva ku rwego rwa gatatu (3) kugeza ku
 |
 #### Section 3: Secondary education
+###### Article 58: Secondary education
+Secondary education is provided through the following two (2) cycles:
+1º the first cycle of ordinary level of education which lasts for three (3) years and is completed by the national examination with the award of a certificate. The successful learner continues with the second (2) cycle of general or technical and vocational secondary education;
+2º the second cycle of secondary education is comprised of three (3) fields of study. A learner who completes the first cycle of ordinary level of education may choose:
+a) a combination of various courses of science, humanities and languages;
+b) a combination of professional courses
+c) technical and vocational education from level three (3) to level five (5).
 |
 #### Section 3: Enseignement secondaire
---- | --- | ---
-###### Ingingo ya 58: Uburezi mu mashuri yisumbuye
-Uburezi mu mashuri yisumbuye butangirwa mu byiciro bibiri (2) bikurikira: 1° icyiciro cya mbere cy'amashuri yisumbuye cy'inyigisho rusange kimara imyaka itatu (3) gisozwa n'ikizamini cya Leta gitangirwa impamyabushobozi. Umunyeshuri ugitsinze akomeza mu cyiciro cya kabiri (2) cy'amashuri yisumbuye y'inyigisho rusange cyangwa ay'inyigisho z'imyuga n'ubumenyingiro; 2° icyiciro cya kabiri (2) cy'amashuri yisumbuye gikubiyemo amatsinda atatu (3)
-|
-###### Article 58: Secondary education
-|
 ###### Article 58: Enseignement secondaire
-Secondary education is provided through the following two (2) cycles: 1º the first cycle of ordinary level of education which lasts for three (3) years and is completed by the national examination with the award of a certificate. The successful learner continues with the second (2) cycle of general or technical and | L'enseignement secondaire est dispensé dans deux (2) cycles suivants: 1º le premier cycle de tronc commun d'une durée de trois (3) ans sanctionné par examen national avec l'octroi d'un et l'apprenant qui réussit poursuit deuxième cycle de
-y'inyigisho. Umunyeshuri urangije icyiciro cya mbere (1) cy'inyigisho rusange ashobora guhitamo: | vocational secondary education; 2º the second cycle of secondary education is comprised of three (3) fields of study. A learner who completes the first cycle of ordinary level of education may choose: | un certificat le l'enseignement secondaire général ou technique et professionnelle;
+L'enseignement secondaire est dispensé dans deux (2) cycles suivants:
+1º le premier cycle de tronc commun d'une durée de trois (3) ans sanctionné par un examen national avec l'octroi d'un certificat et l'apprenant qui réussit poursuit le deuxième cycle de l'enseignement secondaire général ou technique et professionnelle;
 2º le deuxième cycle d'enseignement secondaire comprend trois (3) domaines d'enseignement. Un apprenant qui termine le premier cycle de tronc commun peut choisir:
-a) urwunge rw'amasomo anyuranye ya siyansi, ubumenyamuntu n'indimi; | a) a combination of various courses of science, humanities and languages; | a) une combinaison de divers cours de sciences, de sciences humaines et de lettres;
-b) urwunge rw'amasomo mbonezamwuga; | b) a combination of professional courses | b) une combinaison de cours de profession;
-c) inyigisho z'imyuga n'ubumenyingiro zo kuva ku rwego rwa gatatu (3) kugeza ku | c) technical and vocational education from level three (3) to level five (5). | c) les sections d'enseignement professionnel et technique de niveau trois
+a) une combinaison de divers cours de sciences, de sciences humaines et de lettres;
+b) une combinaison de cours de profession;
+c) les sections d'enseignement professionnel et technique de niveau trois
 
 70
 
@@ -2029,11 +2071,11 @@ Official Gazette n° Special of 18/02/2021
 
 muri iki cyiciro ariyo ya «Bachelor's Degree».
 ###### Ingingo ya 63: Icyiciro cya kabiri cy'amashuri makuru
-Icyiciro cya kabiri cy'amashuri y'inyigisho rusange cyangwa ay'imyuga n'ubumenyingiro ni icyiciro cy'inyigisho zihabwa umunyeshuri urangije icyiciro mbere cy'amashuri makuru gitangirwamo impamyabumenyi ya «Post Graduate Certificate», iya «Post Graduate Diploma kigasozwa n'impamyabumenyi ihanitse cyiciro ariyo ya «Masters Degree».
-###### Ingingo ya 64: Icyiciro cya cy'amashuri makuru
-Icyiciro cya gatatu cy'amashuri y'inyigisho rusange cyangwa ay'imyuga n'ubumenyingiro ni icyiciro cy'amasomo ahabwa umunyeshuri urangije icyiciro cya cy'amashuri makuru gitangirwamo impamyabumenyi yo ku rwego rw'ikirenga ya 'Doctorate Degree'.
-###### Ingingo ya 65: Ibigenderwaho kugira hatangwe impamyabumenyi cyangwa impamyabushobozi
-Iteka rya Minisitiri rigena ibigenderwaho ngo hatangwe impamyabumenyi cyangwa
+Icyiciro cya kabiri cy'amashuri makuru y'inyigisho rusange cyangwa ay'imyuga n'ubumenyingiro ni icyiciro cy'inyigisho zihabwa umunyeshuri urangije icyiciro cya mbere cy'amashuri makuru gitangirwamo impamyabumenyi ya «Post Graduate Certificate», iya «Post Graduate Diploma » kigasozwa n'impamyabumenyi ihanitse muri iki cyiciro ariyo ya «Masters Degree».
+###### Ingingo ya 64: Icyiciro cya gatatu cy'amashuri makuru
+Icyiciro cya gatatu cy'amashuri makuru y'inyigisho rusange cyangwa ay'imyuga n'ubumenyingiro ni icyiciro cy'amasomo ahabwa umunyeshuri urangije icyiciro cya kabiri cy'amashuri makuru gitangirwamo impamyabumenyi yo ku rwego rw'ikirenga ariyo ya “Doctorate Degree”.
+###### Ingingo ya 65: Ibigenderwaho kugira ngo hatangwe impamyabumenyi cyangwa impamyabushobozi
+Iteka rya Minisitiri rigena ibigenderwaho kugira ngo hatangwe impamyabumenyi cyangwa
 |
 Degree.
 ###### Article 63: Graduate
@@ -2042,7 +2084,15 @@ The graduate cycle of higher education in general education or technical and voc
 The postgraduate cycle of higher education in general education or technical and vocational education is a level of study undertaken by a learner who has completed the graduate level and which leads to the award of a Doctorate Degree.
 ###### Article 65: Criteria for the award of a degree or a certificate
 An Order of the Minister determines criteria for the award of degree or certificate in the
---- | ---
+|
+Degree ».
+###### Article 63: Deuxième cycle d'enseignement supérieur
+Le deuxième cycle de l'enseignement supérieur général ou technique et professionnel est un niveau d'études entrepris par un apprenant qui a terminé le premier cycle d'enseignement supérieur et qui conduit à l'obtention d'un certificat d'études supérieures ou d'un diplôme d'études supérieures et le diplôme le plus élevé de ce cycle est le diplôme de Maîtrise.
+###### Article 64: Troisième cycle d'enseignement supérieur
+Le troisième cycle d'enseignement supérieur général ou technique et professionnel est un niveau d'études entrepris par un apprenant qui a terminé le deuxième cycle d'enseignement supérieur et qui est sanctionné par un diplôme de Doctorat.
+###### Article 65: Critères d'octroi d'un diplôme ou d'un certificat
+Un arrêté du Ministre détermine les critères d'octroi des diplômes ou certificats prévus dans
+--- | --- | ---
 
 73
 
@@ -2055,20 +2105,26 @@ Official Gazette n° Special of 18/02/2021
 impamyabushobozi ziteganyijwe mu cyiciro cya mbere, icya kabiri n'icya gatatu by'amashuri makuru.
 #### Icyiciro cya 2: Ubwoko bw'amashuri makuru
 ###### Ingingo ya 66: Ubwoko bw'amashuri makuru
-Ubwoko bw'amashuri makuru ni ubu bukurikira: 1 º kaminuza; 2 º politekiniki; 3 º ishuri rikuru rifite inshingano zihariye; 4 º koleji; 5 º ishuri rikuru mbonezamwuga. Iteka rya Minisitiri rigena ibisabwa kugira ngo ishuri rikuru ryitwe Kaminuza, Politekiniki, Ishuri rikuru rifite inshingano zihariye, Koleji cyangwa Ishuri rikuru mbonezamwuga.
+Ubwoko bw'amashuri makuru ni ubu bukurikira: 1º kaminuza; 2º politekiniki; 3º ishuri rikuru rifite inshingano zihariye; 4º koleji; 5º ishuri rikuru mbonezamwuga. Iteka rya Minisitiri rigena ibisabwa kugira ngo ishuri rikuru ryitwe Kaminuza, Politekiniki, Ishuri rikuru rifite inshingano zihariye, Koleji cyangwa Ishuri rikuru mbonezamwuga.
 #### Icyiciro cya 3: Ishyirwaho cyangwa Ishingwa ry'ishuri rikuru
 ###### Ingingo ya 67: Ishyirwaho ry'ishuri rikuru rya Leta
-n'itegeko.
+Ishuri rikuru rya Leta rishyirwaho n'itegeko.
 |
 undergraduate, graduate and postgraduate cycles of higher education.
 #### Section 2: Types of institutions of higher learning
 ###### Article 66: Types of institutions of higher learning
-Types of institutions of higher learning are the following: 1° university; 2° polytechnic; 3° specialised institute; 4° college; 5° professional institute. An Order of the Minister determines requirements for an institution of higher learning to be a university, a polytechnic, a specialized institute, a college or a professional institute.
-#### Section 3 : Establishment or foundation of an institution of higher learning
+Types of institutions of higher learning are the following: 1º university; 2º polytechnic; 3º specialised institute; 4º college; 5º professional institute. An Order of the Minister determines requirements for an institution of higher learning to be a university, a polytechnic, a specialized institute, a college or a professional institute.
+#### Section 3: Establishment or foundation of an institution of higher learning
 ###### Article 67: Establishment of a public institution of higher learning
 A public institution of higher learning is
 |
-Ishuri rikuru rya Leta rishyirwaho
+le premier, le deuxième et le troisième cycle d'enseignement supérieur.
+#### Section 2: Types d'établissements d'enseignement supérieur
+###### Article 66: Types d'établissements d'enseignement supérieur
+Les types d'établissements d'enseignement supérieur sont les suivants : 1º l'université; 2º la polytechnique; 3º l'institut spécialisé; 4º le collège; 5º l'institut professionnel; Un arrêté du Ministre détermine les conditions requises pour qu'un établissement d'enseignement supérieur soit une université, une polytechnique, un institut spécialisé, un collège ou un institut professionnel.
+#### Section 3: Création ou fondation d'un établissement d'enseignement supérieur
+###### Article 67: Création d'un établissement d'enseignement supérieur public
+Un établissement d'enseignement supérieur
 --- | --- | ---
 
 74
@@ -2093,7 +2149,7 @@ Kugira  ngo  ishuri  rikuru  ryigenga  ryemererwe gutangira gukora, nyiraryo abi
 
 established by a law.
 
-###### Article  68:  Foundation  of  a  Governmentsubsidized institution of higher learning
+###### Article 68: Foundation of a Government-subsidized institution of higher learning
 
 A Government-subsidized institution of higher learning is founded on the basis of an agreement between the Government and its partner and it is granted accreditation and legal personality by an Order of the Minister upon inspection report of  the  agency  in  charge  of  the  institutions  of higher learning.
 
@@ -2124,6 +2180,7 @@ Pour qu'un établissement d'enseignement supérieur  privé  soit  accrédité, 
 [[END OF PAGE 75]]
 
 [[START OF PAGE 76]]
+Official Gazette n° Special of 18/02/2021
 
 - 1 º umwirondoro  we  n'uw'ishuri  ateganya gutanziza;
 
@@ -2138,8 +2195,6 @@ Iteka rya Minisitiri risobanura ku buryo burambuye ibikubiye mu gika cya mbere c
 ###### Ingingo  ya  71:  Kwemerera  ishuri  rikuru ryigenga gutangira gukora
 
 Iteka  rya  Minisitiri ryemerera  ishuri rikuru ryigenga gutangira gukora kandi rikariha ubuzimagatozi hashingiwe kuri raporo y'ubugenzuzi bw'Ikigo gishinzwe amashuri makuru.  Rigaragaza  kandi  ubwoko  bw'ishuri, ibyiciro by'inyigisho, ishami ryemerewe, inyigisho  ryemerewe,  koleji  cyangwa  ikigo cy'ubushakashatsi birishamikiyeho n'impamyabumenyi cyangwa impamyabushobozi ryemerewe gutanga.
-
-Official Gazette n° Special of 18/02/2021
 
 - 1 º identification of the owner and that of the institution that he or she intends to start;
 
@@ -2179,25 +2234,39 @@ Official Gazette n° Special of 18/02/2021
 
 #### Icyiciro cya 4: Imicungire y'ishuri rikuru
 ###### Ingingo ya 72: Imicungire y'ishuri rikuru
-Ishuri rikuru rya Leta ricungwa na Leta. rishyiraho ishuri rikuru rya Leta rigena rurireberera. Amasezerano ashyiraho ishuri ry'abafatanya na Leta ku bw'amasezerano urwego ruricunga rukanarireberera. Amategeko ngengamikorere y'ishuri ryigenga agena urwego rukanarireberera.
+Ishuri rikuru rya Leta ricungwa na Leta. Itegeko rishyiraho ishuri rikuru rya Leta rigena urwego rurireberera.
+
+Amasezerano ashyiraho ishuri rikuru ry'abafatanya na Leta ku bw'amasezerano agena urwego ruricunga rukanarireberera.
+
+Amategeko ngengamikorere y'ishuri rikuru ryigenga agena urwego ruricunga rukanarireberera.
+
 ### UMUTWE WA II: UBUBASHA N'INSHINGANO BY'ISHURI RIKURU
-###### Ingingo ya 73: Ububasha bw'ishuri
+###### Ingingo ya 73: Ububasha bw'ishuri rikuru
 Ishuri rikuru rifite ububasha bukurikira:
-|
+
 #### Section 4: Management of an institution of higher learning
 ###### Article 72: Management of an institution of higher learning
-A public institution of higher learning is managed by the Government. The Law establishing a public institution of higher learning determines the supervising organ of that institution. The agreement establishing a Government- subsidised institution of higher learning determines the managing and supervising organ of that institution. The internal rules and regulations of a private institution of higher learning determine the managing and supervising organ of that institution.
+A public institution of higher learning is managed by the Government. The Law establishing a public institution of higher learning determines the supervising organ of that institution.
+
+The agreement establishing a Government-subsidised institution of higher learning determines the managing and supervising organ of that institution.
+
+The internal rules and regulations of a private institution of higher learning determine the managing and supervising organ of that institution.
+
 ### CHAPTER II: POWERS AND RESPONSIBILITIES OF AN INSTITUTION OF HIGHER LEARNING
 ###### Article 73: Powers of an institution of higher learning
 An institution of higher learning has the following powers:
-|
+
 #### Section 4: Gestion d'un établissement d'enseignement supérieur
 ###### Article 72: Gestion d'un établissement d'enseignement supérieur
-Un établissement d'enseignement supérieur public est géré par l'État. La loi portant création d'un établissement d'enseignement supérieur public détermine l'organe de supervision de cet établissement. La convention portant création d'un établissement d'enseignement supérieur conventionné détermine l'organe de gestion et de supervision de cet établissement. Le règlement intérieur d'un établissement d'enseignement supérieur privé détermine l'organe de gestion et de supervision de cet établissement.
+Un établissement d'enseignement supérieur public est géré par l'État. La loi portant création d'un établissement d'enseignement supérieur public détermine l'organe de supervision de cet établissement.
+
+La convention portant création d'un établissement d'enseignement supérieur conventionné détermine l'organe de gestion et de supervision de cet établissement.
+
+Le règlement intérieur d'un établissement d'enseignement supérieur privé détermine l'organe de gestion et de supervision de cet établissement.
+
 ### CHAPITRE II: POUVOIRS ET ATTRIBUTIONS D'UNE INSTITUTION D'ENSEIGNEMENT SUPÉRIEUR
 ###### Article 73: Pouvoirs d'une institution d'enseignement supérieur
 Une institution d'enseignement supérieur a les pouvoirs suivants:
---- | --- | ---
 
 77
 
@@ -2270,16 +2339,29 @@ L'ouverture, fermeture ou changement de type d'une institution publique d'enseig
 
 Official Gazette n° Special of 18/02/2021
 
-bwo kuzamura icyiciro cy'inyigisho cy'ishuri rikuru rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga. Ikigo gishinzwe amashuri makuru, kibisabwe n'ishuri rikuru, cyemeza porogaramu z'inyigisho nshya, kuvugurura porogaramu z'inyigisho cyangwa guhindura inzego n'ibyiciro by'ishuri rikuru rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga.
+bwo kuzamura icyiciro cy'inyigisho cy'ishuri rikuru rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga.
+
+Ikigo gishinzwe amashuri makuru, kibisabwe n'ishuri rikuru, cyemeza porogaramu z'inyigisho nshya, kuvugurura porogaramu z'inyigisho cyangwa guhindura inzego n'ibyiciro by'ishuri rikuru rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga.
+
 ###### Ingingo ya 76: Gufungura, gufunga kwimurira ahandi koleji, ishuri, ishami, agashami cyangwa ikigo cy'ubushakashatsi bishamikiye ku ishuri rikuru
-Ikigo gishinzwe amashuri makuru cyemeza gufungura, gufunga, kwimurira ahandi Koleji, ishuri, ishami, agashami cyangwa ikigo cy'ubushakashatsi bishamikiye ku ishuri rikuru Leta ku
-|
-learning determines modalities for upgrading the cycle of a public, government-subsidized or private institution of higher learning. The agency in charge of the institutions of higher learning, upon request by an institution of higher learning, approves new academic programme, review of academic programme or review of level and cycle of education of a public, a government-subsidized or a private institution of higher learning.
+
+Ikigo gishinzwe amashuri makuru cyemeza gufungura, gufunga, kwimurira ahandi Koleji, ishuri, ishami, agashami cyangwa ikigo cy'ubushakashatsi bishamikiye ku ishuri rikuru rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga.
+
+learning determines modalities for upgrading the cycle of a public, government-subsidized or private institution of higher learning.
+
+The agency in charge of the institutions of higher learning, upon request by an institution of higher learning, approves new academic programme, review of academic programme or review of level and cycle of education of a public, a government-subsidized or a private institution of higher learning.
+
 ###### Article 76: Establishment, closure or relocation of a college, a school, a faculty, a department or a research institute affiliated to an institution of higher learning
-The Agency in charge of the institutions of higher learning approves the establishment, closure or relocation of a college, a school, a faculty, a department or a research institute affiliated to a public, a government-subsidized or
-|
-rya Leta, iry'abafatanya na bw'amasezerano cyangwa iryigenga.
---- | --- | ---
+
+The Agency in charge of the institutions of higher learning approves the establishment, closure or relocation of a college, a school, a faculty, a department or a research institute affiliated to a public, a government-subsidized or a private institution of higher learning.
+
+d'enseignement supérieur détermine les modalités de rehaussement du cycle d'une institution d'enseignement supérieur publique, conventionnée ou privée.
+
+L'agence chargée des établissements d'enseignement supérieur, sur demande d'une institution d'enseignement supérieur, approuve les nouveaux programmes académiques, la révision des programmes académiques ou la révision des niveaux et des cycles d'enseignement d'une institution d'enseignement supérieur publique, conventionnée ou privée.
+
+###### Article 76: Ouverture, fermeture ou délocalisation d'un collège, d'une école, d'une faculté, d'un département ou d'un institut de recherche affilié à une institution d'enseignement supérieur
+
+L'Agence chargée des établissements d'enseignement supérieur approuve l'ouverture, la fermeture ou la délocalisation d'un collège, d'une école, d'une faculté, d'un département ou d'un institut de recherche affilié à une institution d'enseignement supérieur publique, conventionnée ou privée.
 
 81
 
@@ -2293,7 +2375,7 @@ Official Gazette n° Special of 18/02/2021
 
 Gusaba  kwemeza  inyigisho  nshya,  kuzamura urwego cyangwa icyiciro by'inyigisho cyangwa guhindura ubwoko bw'ishuri rikuru bisabwa mu nyandiko ikigo gishinzwe amashuri makuru bikozwe n'uhagarariye ishuri rikuru.
 
-Iteka rya Minisitiri rigena ibishingirwaho kugira ngo  ishuri  rikuru  ryemererwe  inyigisho  nshya, kuzamura urwego n'ic y iciro by'inyigisho cyangwa guhindura ubwoko bw'ishuri rikuru.
+Iteka rya Minisitiri rigena ibishingirwaho kugira ngo ishuri rikuru ryemererwe inyigisho nshya, kuzamura urwego n'icyiciro by'inyigisho cyangwa guhindura ubwoko bw'ishuri rikuru.
 
 ###### Ingingo  ya  78:  Ibishingirwaho  kugira  ngo ishuri rikuru ryigenga rifungure Koleji, ishuri ishami, agashami cyangwa ikigo cy'ubushakashatsi birishamikiyeho
 
@@ -2401,19 +2483,48 @@ En  cas  de  fusion  de  deux  (2)  ou  plusieurs institutions d'enseignement su
 Official Gazette n° Special of 18/02/2021
 
 ###### Ingingo ya 83: Ingaruka zo kugabanya cyangwa gukomatanya amashuri makuru y'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga
-Iyo habayeho kugabanyamo ishuri rikuru ry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga andi mashuri makuru, buri shuri rikuru rishya rihabwa ubuzima gatozi n'iteka rya Minisitiri. Iyo habayeho ikomatanya ry'amashuri makuru y'abafatanya na Leta ku bw'amasezerano cyangwa ayigenga abiri (2) cyangwa menshi, buri shuri rikuru riraseswa, rigatakaza ubuzimagatozi. Ishuri rikuru rikomotse kuri iryo komatanya rihabwa ubuzimagatozi n'iteka rya Minisitiri.
+
+Iyo habayeho kugabanyamo ishuri rikuru ry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga andi mashuri makuru, buri shuri rikuru rishya rihabwa ubuzima gatozi n'iteka rya Minisitiri.
+
+Iyo habayeho ikomatanya ry'amashuri makuru y'abafatanya na Leta ku bw'amasezerano cyangwa ayigenga abiri (2) cyangwa menshi, buri shuri rikuru riraseswa, rigatakaza ubuzimagatozi.
+
+Ishuri rikuru rikomotse kuri iryo komatanya rihabwa ubuzimagatozi n'iteka rya Minisitiri.
+
 #### Icyiciro cya 3: Gufunga ishuri rikuru by'agateganyo
+
 ###### Ingingo ya 84: Impamvu zo gufunga ishuri rikuru cyangwa ishami ryaryo by'agateganyo
-Ishuri rikuru cyangwa ishami ryaryo, rishobora mu
-|
+
+Ishuri rikuru cyangwa ishami ryaryo, rishobora gufungwa by'agateganyo kubera imwe mu
+
 ###### Article 83: Effects of splitting or merging Government-subsidized or private institutions of higher learning
-Where a Government-subsidized or private institution of higher learning is split, each new institution of higher learning formed is granted legal personality by an Order of the Minister. Where two (2) or several Government- subsidized or private institutions of higher learning are merged, each of them is dissolved and loses its legal personality. The institution of higher learning formed as a result of the merger is granted legal personality by an Order of the Minister.
+
+Where a Government-subsidized or private institution of higher learning is split, each new institution of higher learning formed is granted legal personality by an Order of the Minister.
+
+Where two (2) or several Government-subsidized or private institutions of higher learning are merged, each of them is dissolved and loses its legal personality.
+
+The institution of higher learning formed as a result of the merger is granted legal personality by an Order of the Minister.
+
 #### Section 3: Temporary closure of an institution of higher learning
+
 ###### Article 84: Reasons for temporary closure of an institution of higher learning or its faculty
+
 An institution of higher learning or its faculty may be temporarily closed for any of the
-|
-gufungwa by'agateganyo kubera imwe
---- | --- | ---
+
+est créée par une loi.
+
+###### Article 83: Effets de la scission ou de la fusion d'institutions d'enseignement supérieur conventionnées ou privées
+
+En cas de scission d'une institution d'enseignement supérieur conventionnée ou privée, chaque nouvelle institution d'enseignement supérieur créée obtient la personnalité juridique par arrêté du Ministre.
+
+En cas de fusion de deux (2) ou plusieurs institutions d'enseignement supérieur conventionnées ou privées, chacune d'entre elles est dissoute et perd sa personnalité juridique.
+
+L'institution d'enseignement supérieur issue de cette fusion obtient la personnalité juridique par arrêté du Ministre.
+
+#### Section 3: Fermeture temporaire d'une institution d'enseignement supérieur
+
+###### Article 84: Motifs de fermeture temporaire d'une institution d'enseignement supérieur ou de sa faculté
+
+Une institution d'enseignement supérieur ou sa faculté peut être temporairement fermée pour
 
 85
 
@@ -2550,9 +2661,9 @@ The Law permanently closing a public institution of  higher  learning  provides 
 
 Issues related to teaching staff, research staff and other  staff  members  are  settled  in  accordance with the Law and contracts they entered into with the institution of higher learning.
 
-###### Article 90: Resolution of issues arising from permanent closure of a Governmentsubsidized institution of higher learning
+###### Article 90: Resolution of issues arising from permanent closure of a Government-subsidized institution of higher learning
 
-In case of permanent closure of a Governmentsubsidized institution of higher learning, a contract related to the use of its property is signed between partners after resolving all issues related to its liabilities and agreements concluded with third parties. The contract also determines modalities  through  which  learners  from  that institution continue their studies.
+In case of permanent closure of a Government-subsidized institution of higher learning, a contract related to the use of its property is signed between partners after resolving all issues related to its liabilities and agreements concluded with third parties. The contract also determines modalities through which learners from that institution continue their studies.
 
 ###### Article 89: Résolution des problèmes dus à la fermeture définitive d'une institution d'enseignement supérieur publique
 
@@ -2592,12 +2703,17 @@ En cas de fermeture définitive d'une institution d'enseignement supérieur priv
 
 Official Gazette n° Special of 18/02/2021
 
-###### Ingingo ya 92: Ingaruka y'ifungwa burundu ry'ishuri rikuru
-Ishuri rikuru rya Leta, iry'abafatanya na bw'amasezerano cyangwa iryigenga ryafunzwe burundu ritakaza ubuzimagatozi. Icyakora, ibikorwa byakozwe n'iryo shuri mu bukurikije amategeko mbere y'uko rifungwa bigumana agaciro kabyo.
+###### Ingingo ya 92: Ingaruka y'ifungwa rya burundu ry'ishuri rikuru
+Ishuri rikuru rya Leta, iry'abafatanya na Leta ku bw'amasezerano cyangwa iryigenga ryafunzwe burundu ritakaza ubuzimagatozi. Icyakora, ibikorwa byakozwe n'iryo shuri mu buryo bukurikije amategeko mbere y'uko rifungwa bigumana agaciro kabyo.
 ### UMUTWE WA IV: IMIYOBORERE N'IMIKORERE BY'ISHURI RIKURU
 #### Icyiciro cya mbere: Inzego z'ubuyobozi bw'ishuri rikuru n'inyito zazo
 ###### Ingingo ya 93: Inzego z'ubuyobozi bw'ishuri rikuru
-Inzego z'ubuyobozi bw'ishuri rikuru zikurikira: 1º Ubuyobozi bw'Icyubahiro; 2º Inama Nkuru y'Ubuyobozi; 3º Urwego Nshingwabikorwa;
+Inzego z'ubuyobozi bw'ishuri rikuru ni izi zikurikira:
+
+1º Ubuyobozi bw'Icyubahiro;
+2º Inama Nkuru y'Ubuyobozi;
+3º Urwego Nshingwabikorwa;
+4º Urwego rushinzwe imyigire n'imyigishirize;
 |
 ###### Article 92: Effect of permanent closure of an institution of higher learning
 A public, Government-subsidized or private institution of higher learning which is permanently closed loses its legal personality. However, lawful acts accomplished by that institution of higher learning before its closure remain valid.
@@ -2733,16 +2849,44 @@ by'ishuri rikuru; | learning; | d'enseignement supérieur;
 
 Official Gazette n° Special of 18/02/2021
 
-Nshingwabikorwa kugira ngo n'urwego rubifitiye ububasha; 11º kwemeza ishyirwaho ry'abayobozi b'amashami mu 12º gushyiraho, kuzamura mu gukuraho abarimu 13º kwemeza abahabwa impamyabushobozi, bihembo bitangwa n'ishuri 14º gushyikiriza ikigo gishinzwe makuru porogaramu z'inyigisho bwo kwigisha kugira ngo 15º gushyikiriza Minisitiri raporo
-###### Ingingo ya 100: Ububasha y'Ubuyobozi
-Inama Nkuru y'Ubuyobozi ni ruriyobora kandi rufata ibyemezo. Inama Nkuru y'Ubuyobozi ifite
-|
-order to be approved by the relevant organ; 11 º to approve the appointment and removal of deans of faculties in the institution of higher learning; 12 º to appoint, promote and remove the teaching staff and researchers; 13 º to approve candidates for the award of degrees, certificates, certificates of merit and other awards granted by an institution of higher learning; 14 º to submit academic programmes and teaching methodology to the agency in charge of the institutions of higher learning for approval; 15 º to submit to the Minister the annual activity report.
+Nshingwabikorwa kugira ngo bemezwe n'urwego rubifitiye ububasha;
+11º kwemeza ishyirwaho n'ikurwaho ry'abayobozi b'amashami mu ishuri rikuru;
+12º gushyiraho, kuzamura mu ntera no gukuraho abarimu n'abashakashatsi;
+13º kwemeza abahabwa impamyabumenyi, impamyabushobozi, amashimwe n'ibindi bihembo bitangwa n'ishuri rikuru;
+14º gushyikiriza ikigo gishinzwe amashuri makuru porogaramu z'inyigisho n'uburyo bwo kwigisha kugira ngo kibyemeze;
+15º gushyikiriza Minisitiri raporo y'umwaka.
+
+###### Ingingo ya 100: Ububasha bw'Inama Nkuru y'Ubuyobozi
+
+Inama Nkuru y'Ubuyobozi ni rwo rwego ruriyobora kandi rufata ibyemezo.
+
+Inama Nkuru y'Ubuyobozi ifite ububasha busesuye bwo gufata ibyemezo mu byerekeye
+
+order to be approved by the relevant organ;
+11 º to approve the appointment and removal of deans of faculties in the institution of higher learning;
+12 º to appoint, promote and remove the teaching staff and researchers;
+13 º to approve candidates for the award of degrees, certificates, certificates of merit and other awards granted by an institution of higher learning;
+14 º to submit academic programmes and teaching methodology to the agency in charge of the institutions of higher learning for approval;
+15 º to submit to the Minister the annual activity report.
+
 ###### Article 100: Powers of the Governing Body
-The Governing Body is the managing and decision making organ. The Governing Body has absolute powers regarding governance and leadership, human
-|
-bemezwe n'ikurwaho ishuri ntera n'abashakashatsi; impamyabumenyi, amashimwe rikuru; amashuri n'uburyo kibyemeze; y'umwaka. bw'Inama rwo ububasha busesuye bwo gufata ibyemezo mu byerekeye
---- | --- | ---
+
+The Governing Body is the managing and decision making organ.
+
+The Governing Body has absolute powers regarding governance and leadership, human
+
+pour être approuvé par l'organe compétent;
+11 º approuver la nomination et la révocation des doyens de facultés dans une institution d'enseignement supérieur;
+12 º nommer, promouvoir et révoquer le personnel enseignant et les chercheurs;
+13 º approuver les lauréats pour l'obtention des diplômes, certificats, certificats de mérite et autres récompenses accordées par une institution d'enseignement supérieur;
+14 º soumettre à l'agence chargée des établissements d'enseignement supérieur les programmes académiques et la méthodologie d'enseignement pour approbation;
+15 º transmettre au Ministre le rapport d'activités annuel.
+
+###### Article 100: Pouvoirs du Conseil supérieur de direction
+
+Le Conseil supérieur de direction est l'organe qui assure la gestion et la prise des décisions.
+
+Le Conseil supérieur de direction a le pouvoir absolue concernant la gouvernance et
 
 97
 
@@ -2782,18 +2926,53 @@ L'Organe exécutif est composé du vice-
 
 Official Gazette n° Special of 18/02/2021
 
-n'Umuyobozi Mukuru w'ishuri n'Abayobozi Bakuru Bungirije.
+n'Umuyobozi Mukuru w'ishuri rikuru n'Abayobozi Bakuru Bungirije.
+
 ###### Ingingo ya 103: Ishyirwaho ry'abagize Urwego Nshingwabikorwa
-Iteka rya Perezida rishyiraho abagize Nshingwabikorwa rw'ishuri rikuru rya bisabwe n'Inama Nkuru y'Ubuyobozi rikuru rya Leta. Abagize Urwego Nshingwabikorwa rw'ishuri rikuru ry'abafatanya na Leta ku bw'amasezerano bashyirwaho hakurikijwe amasezerano y'impande zombi. Nyir'ishuri rikuru ryigenga ashyiraho Urwego Nshingwabikorwa rw'ishuri bisabwe n'Inama Nkuru y'Ubuyobozi y'iryo shuri. Nibura mirongo itatu ku ijana (30%) by'abagize Urwego Nshingwabikorwa rw'ishuri bagomba kuba ari abagore.
+
+Iteka rya Perezida rishyiraho abagize Urwego Nshingwabikorwa rw'ishuri rikuru rya Leta bisabwe n'Inama Nkuru y'Ubuyobozi y'ishuri rikuru rya Leta.
+
+Abagize Urwego Nshingwabikorwa rw'ishuri rikuru ry'abafatanya na Leta ku bw'amasezerano bashyirwaho hakurikijwe amasezerano y'impande zombi.
+
+Nyir'ishuri rikuru ryigenga ashyiraho abagize Urwego Nshingwabikorwa rw'ishuri bisabwe n'Inama Nkuru y'Ubuyobozi y'iryo shuri.
+
+Nibura mirongo itatu ku ijana (30%) by'abagize Urwego Nshingwabikorwa rw'ishuri rikuru bagomba kuba ari abagore.
+
 ###### Ingingo ya 104: Inshingano z'Urwego Nshingwabikorwa
+
 Inshingano z'Urwego Nshingwabikorwa rw'ishuri rikuru ni izi zikurikira:
-|
+
 Chancellor and Deputy Vice Chancellors.
+
 ###### Article 103: Appointment of members of the Executive Organ
-A Presidential Order appoints members of the Executive Organ of a public institution of higher learning on request by the Governing Body of a public institution of higher learning. Members of the Executive Organ of a government-subsidised institution of higher learning are appointed in accordance with agreement of both parties. The owner of a private institution of higher learning appoints members of the Executive Organ upon request by the Governing Body of the institution. At least thirty percent (30%) of members Executive Organ of an institution of higher learning must be women.
+
+A Presidential Order appoints members of the Executive Organ of a public institution of higher learning on request by the Governing Body of a public institution of higher learning.
+
+Members of the Executive Organ of a government-subsidised institution of higher learning are appointed in accordance with agreement of both parties.
+
+The owner of a private institution of higher learning appoints members of the Executive Organ upon request by the Governing Body of the institution.
+
+At least thirty percent (30%) of members Executive Organ of an institution of higher learning must be women.
+
 ###### Article 104: Responsibilities of the Executive Organ
+
 Responsibilities of the Executive Organ of an institution of higher learning are the following:
---- | ---
+
+chancelier et vice-chanceliers adjoints.
+
+###### Article 103: Nomination des membres de l'Organe exécutif
+
+Un arrêté présidentiel nomme les membres de l'Organe exécutif de l'institution d'enseignement supérieur publique sur demande du Conseil supérieur de direction d'une institution d'enseignement supérieur publique.
+
+Les membres de l'Organe exécutif d'une institution d'enseignement supérieur conventionnée sont nommés conformément à la convention de deux parties.
+
+Le propriétaire d'une institution d'enseignement supérieur privée nomme les membres de l'Organe exécutif à la demande du Conseil supérieur de direction de cette institution.
+
+Au moins trente pourcent (30%) des membres de l'Organe exécutif d'une institution d'enseignement supérieur doivent être des femmes.
+
+###### Article 104: Attributions de l'Organe exécutif
+
+Les attributions de l'Organe exécutif d'une institution d'enseignement supérieur sont les
 
 99
 
@@ -2866,20 +3045,16 @@ Official Gazette n° Special of 18/02/2021
 
 #### Icyiciro cya 6: Komite Nkuru y'Ubuyobozi
 ###### Ingingo ya 107: Abagize Komite Nkuru y'ubuyobozi
-Komite Nkuru y'ubuyobozi igizwe bakurikira: 1 º Umuyobozi Mukuru w'ishuri rikuru, nawe Perezida wa Komite; 2 º Abayobozi bakuru bungirije; 3 º Umuyobozi wa Koleji ku ishuri rigizwe na Koleji; 4 º Umuyobozi w'ishami ku ishuri ritagizwe na Koleji; 5 º Ushinzwe iyandikwa ry'abanyeshuri. Umuyobozi Mukuru Wungirije imiyoborere n'imari ni we Visi-Perezida Komite.
+Komite Nkuru y'ubuyobozi igizwe n'aba bakurikira: 1 º Umuyobozi Mukuru w'ishuri rikuru, ari nawe Perezida wa Komite; 2 º Abayobozi bakuru bungirije; 3 º Umuyobozi wa Koleji ku ishuri rikuru rigizwe na Koleji; 4 º Umuyobozi w'ishami ku ishuri rikuru ritagizwe na Koleji; 5 º Ushinzwe iyandikwa ry'abanyeshuri. Umuyobozi Mukuru Wungirije ushinzwe imiyoborere n'imari ni we Visi-Perezida wa Komite.
 |
 #### Section 6: Senior Management Committee
-###### Article 107: Members of the Management Committee
-The Senior Management Committee composed of the following persons: 1° Vice-Chancellor who is also Chairperson of the Committee; 2° Deputy Vice-Chancellors; 3° Principal of College for an institution higher learning made of colleges; 4° Dean of the faculty in an institution higher learning with no college; 5° Registrar.
+###### Article 107: Members of the Senior Management Committee
+The Senior Management Committee is composed of the following persons: 1° Vice-Chancellor who is also the Chairperson of the Committee; 2° Deputy Vice-Chancellors; 3° Principal of College for an institution of higher learning made of colleges; 4° Dean of the faculty in an institution of higher learning with no affiliated college; 5° Registrar. The Deputy Vice-Chancellor in charge of Administrative and finance is the Deputy-Chairperson of the Committee.
 |
 supérieur.
 #### Section 6: Comité Supérieur de Direction
 ###### Article 107: Membres du Comité Supérieur de Direction
-Le Comité Supérieur de Direction est composé de personnes suivantes: 1° Vice-Chancelier d'une institution d'enseignement supérieur qui en est également le président du Comité; 2° vice-chanceliers Adjoints; 3° Directeur de Collège pour une institution d'enseignement supérieur composée de collèges; 4° Doyen de la faculté d'une institution d'enseignement supérieur qui n'a pas de collège affilié; 5° Registraire. Le Vice-Chancelier Adjoint en charge des affaires administratives et financiers est le Vice- président du Comité.
---- | --- | ---
-Senior
-n'aba ari rikuru rikuru ushinzwe wa | is the of of affiliated The Deputy Vice-Chancellor in charge of Administrative and finance is the Deputy-
-Chairperson of the Committee.
+Le Comité Supérieur de Direction est composé de personnes suivantes: 1° Vice-Chancelier d'une institution d'enseignement supérieur qui en est également le président du Comité; 2° vice-chanceliers Adjoints; 3° Directeur de Collège pour une institution d'enseignement supérieur composée de collèges; 4° Doyen de la faculté d'une institution d'enseignement supérieur qui n'a pas de collège affilié; 5° Registraire. Le Vice-Chancelier Adjoint en charge des affaires administratives et financiers est le Vice-président du Comité.
 
 104
 
@@ -2939,10 +3114,10 @@ Un arrêté du Premier Ministre détermine l'organisation, le fonctionnement et 
 Official Gazette n° Special of 18/02/2021
 
 ### UMUTWE WA V: UMUTUNGO N'IMARI BY'ISHURI RIKURU
-###### Ingingo ya 111: Umutungo w'ishuri n'inkomoko yawo
-Umutungo w'ishuri rikuru ugizwe byimukanwa n'ibitimukanwa. Itegeko rishyiraho ishuri rikuru rya Leta inkomoko y'umutungo w'iryo shuri. Inkomoko y'umutungo w'ishuri ry'abafatanya na Leta ku bw'amasezerano iteganywa n'amasezerano impande zagiranye. Amategeko ngengamikorere y'ishuri ryigenga agena inkomoko y'umutungo shuri.
+###### Ingingo ya 111: Umutungo w'ishuri rikuru n'inkomoko yawo
+Umutungo w'ishuri rikuru ugizwe n'ibintu byimukanwa n'ibitimukanwa. Itegeko rishyiraho ishuri rikuru rya Leta rigena inkomoko y'umutungo w'iryo shuri. Inkomoko y'umutungo w'ishuri rikuru ry'abafatanya na Leta ku bw'amasezerano iteganywa n'amasezerano impande zombi zagiranye. Amategeko ngengamikorere y'ishuri rikuru ryigenga agena inkomoko y'umutungo w'iryo shuri.
 ###### Ingingo ya 112: Imikoreshereze, imicungire n'imigenzurire by'umutungo w'ishuri rikuru
-Imikoreshereze, imicungire n'imigenzurire by'umutungo w'ishuri rikuru rya Leta hakurikijwe amategeko abigenga.
+Imikoreshereze, imicungire n'imigenzurire by'umutungo w'ishuri rikuru rya Leta bikorwa hakurikijwe amategeko abigenga.
 |
 ### CHAPTER V: PROPERTY AND FINANCE OF AN INSTITUTION OF HIGHER LEARNING
 ###### Article 111: Property of an institution of higher learning and its source
@@ -3036,13 +3211,13 @@ Une personne qui souhaite dispenser la formation technique et professionnelle au
 
 Official Gazette n° Special of 18/02/2021
 
-z'imyuga n'ubumenyingiro zo ku rwego mbere (1) n'urwa kabiri (2).
+z'imyuga n'ubumenyingiro zo ku rwego rwa mbere (1) n'urwa kabiri (2).
 ###### Ingingo ya 116: Inyigisho z'imyuga n'ubumenyingiro zitangirwa ahakorerwa umwuga
-Inyigisho z'imyuga n'ubumenyingiro zishobora gutangirwa ahakorerwa umwuga nyuma kubyemererwa n'urwego rubifitiye ububasha hashingiwe ku bipimo ngenderwaho biriho.
-###### Ingingo ya 117: Uburenganzira kugurisha ibyakozwe mu myitozo ngiro
-Ishuri ry'imyuga n'ubumenyingiro uburenganzira bwo kugurisha ibyakozwe n'abanyeshuri mu myitozongiro. Umunyeshuri ahabwa agahimbazamusyi yakoze mu myitozo ngiro byagurishijwe kagenwa n'amategeko ngengamikorere y'ishuri.
+Inyigisho z'imyuga n'ubumenyingiro zishobora gutangirwa ahakorerwa umwuga nyuma yo kubyemererwa n'urwego rubifitiye ububasha hashingiwe ku bipimo ngenderwaho biriho.
+###### Ingingo ya 117: Uburenganzira bwo kugurisha ibyakozwe mu myitozo ngiro
+Ishuri ry'imyuga n'ubumenyingiro rifite uburenganzira bwo kugurisha ibyakozwe n'abanyeshuri mu myitozongiro. Umunyeshuri ahabwa agahimbazamusyi ku byo yakoze mu myitozo ngiro byagurishijwe kagenwa n'amategeko ngengamikorere y'ishuri.
 ###### Ingingo ya 118: Ishyirwaho ry'amashuri atanga uburezi n'inyigisho byihariye
-Amashuri atanga uburezi n'inyigisho byihariye ashyirwaho hakurikijwe imiterere y'ubumuga, impano cyangwa ubwenge budasanzwe hagenwa inyigisho zihariye.
+Amashuri atanga uburezi n'inyigisho byihariye ashyirwaho hakurikijwe imiterere y'ubumuga, impano cyangwa ubwenge budasanzwe bituma hagenwa inyigisho zihariye.
 |
 ###### Article 116: Technical and vocational education and training provided at the workplace
 A technical and vocational education and training may be provided at the workplace after authorization by a competent organ based on standards in place.
@@ -3050,7 +3225,14 @@ A technical and vocational education and training may be provided at the workpla
 A school of technical and vocational education and training has the right to sell items produced by learners during training. A learner is entitled to an allowance on sold items produced by him or her during training determined by internal rules of an education institution.
 ###### Article 118: Establishment of specialized education institutions
 Education institutions that offer special education are established based on the nature of disability, talent or unusual intellectual ability that require special education.
---- | ---
+|
+le lieu de travail.
+###### Article 116: Formation technique et professionnelle dispensé sur le lieu du travail
+Une formation technique et professionnelle peut être dispensée sur le lieu du travail sur autorisation l'organe compétent sur base des normes en vigueur.
+###### Article 117: Droit de vendre les objets produits lors de la formation
+Une école de formation technique et professionnelle a le droit de vendre les objets produits par les apprenants lors de la formation. L'apprenant obtient une prime déterminée par le règlement intérieur d'un établissement d'enseignement sur les objets vendus qu'il a produit.
+###### Article 118: Création des établissements d'enseignement spécial
+Les établissements d'enseignement spécial sont créés en fonction de la nature du handicap, talent ou capacité intellectuelle exceptionnelle nécessitant une éducation spéciale.
 
 111
 
@@ -3065,7 +3247,7 @@ Official Gazette n° Special of 18/02/2021
 Umunyeshuri uhabwa uburezi bwihariye ni: | A learner who benefits from special education is: | Un apprenant bénéficiaire de l'enseignement spécial est:
 1º ufite ubumuga butuma abanza guhabwa inyigisho zihariye mbere y'uko yigana n'abandi; | 1º a learner with disability that require to first receive special education before studying with others learners; | 1º un apprenant ayant un handicap qui nécessite une éducation spéciale avant d'étudier avec les autres;
 2º ufite ubumuga bwihariye butuma yiga ukwe; | 2º a learner with disability which oblige them to study alone; | 2º un apprenant ayant un handicap qui les oblige à étudier seul;
-3º ufite impano cyangwa ubwenge budasanzwe bituma y iga hadakurikijwe ibyiciro bisanzwe by'inyigisho. | 3º a learner with talent, and unusual intellectual ability which oblige them to study without compliance with ordinary cycles of study. | 3º un apprenant ayant un talent ou une capacité intellectuelle exceptionnelle qui les oblige à étudier sans respecter les cycles ordinaires d'enseignement.
+3º ufite impano cyangwa ubwenge budasanzwe bituma yiga hadakurikijwe ibyiciro bisanzwe by'inyigisho. | 3º a learner with talent, and unusual intellectual ability which oblige them to study without compliance with ordinary cycles of study. | 3º un apprenant ayant un talent ou une capacité intellectuelle exceptionnelle qui les oblige à étudier sans respecter les cycles ordinaires d'enseignement.
 Iteka rya Minisitiri rigena uburyo umunyeshuri uvugwa mu gika cya mbere cy'iyi ngingo ahabwa uburezi bwihariye. | An Order of the Minister determines modalities under which a learner referred to in paragraph one of this Article benefits from special education. | Un arrêté du Ministre détermine les modalités selon lesquelles un apprenant visé à l'alinéa premier du présent article bénéficie de l'éducation spéciale.
 Iyo impamvu zituma umunyeshuri yiga mu ishuri ritanga uburezi bwihariye zitakiriho, umunyeshuri ajya kwiga mu ishuri risanzwe. | When circumstances that make a learner attend an education institution of special education no longer exist, the learner is transferred to an ordinary education institution. | Lorsque les motifs de fréquenter un établissement d'enseignement à éducation spéciale n'existent plus, l'apprenant est admis dans un établissement d'enseignement ordinaire.
 ###### Ingingo ya 120: Integanyanyigisho z'uburezi bwihariye | ###### Article 120: Special education curricula | ###### Article 120: Programmes d'enseignement spécial
@@ -3079,49 +3261,53 @@ Integanyanyigisho z'uburezi bwihariye | The Curricula of special education are d
 
 Official Gazette n° Special of 18/02/2021
 
-zishyirwaho  hakurikijwe  imiterere  y'ubumuga, impano,  ubwenge  budasanzwe  cyangwa  indi mpamvu yihariye abo zigenewe bafite.
+zishyirwaho hakurikijwe imiterere y'ubumuga, impano, ubwenge budasanzwe cyangwa indi mpamvu yihariye abo zigenewe bafite.
 
 Integanyanyigisho z'uburezi bwihariye zitegurwa kandi zikemezwa mu buryo bumwe n'integanyanyigisho zikoreshwa mu bindi byiciro by'amashuri.
 
 ###### Ingingo ya 121: Uburezi bw'abantu bakuru
 
-Uburezi  bw'abantu  bakuru  bugenewe  umuntu mukuru utazi gusoma, kwandika no kubara kandi udashobora gukurikira umunsi ku wundi uburezi bwo mu cyiciro cy'amashuri abanza.
+Uburezi bw'abantu bakuru bugenewe umuntu mukuru utazi gusoma, kwandika no kubara kandi udashobora gukurikira umunsi ku wundi uburezi bwo mu cyiciro cy'amashuri abanza.
 
-Uburezi bw'abantu bakuru bugamije guha umuntu  mukuru  ubumenyi  bw'ibanze  burimo gusoma,  kwandika,  kubara  n'ubundi  bumenyi bumuha  ubushobozi  bwo  kwiteza  imbere  no kugira  uruhare  mu  guteza  imbere  ubukungu, imibereho myiza n'umuco by'Igihugu.
+Uburezi bw'abantu bakuru bugamije guha umuntu mukuru ubumenyi bw'ibanze burimo gusoma, kwandika, kubara n'ubundi bumenyi bumuha ubushobozi bwo kwiteza imbere no kugira uruhare mu guteza imbere ubukungu, imibereho myiza n'umuco by'Igihugu.
 
 Iteka rya Minisitiri rigena imiterere n'imikorere by'uburezi bw'abantu bakuru.
 
 ###### Ingingo ya 122: Uburezi bwo mu muryango
 
-Uburezi bwo mu muryango butangwa n'ababyeyi b'umwana, ufite ububasha bwa kibyeyi n'abandi bose babana na we. Bugamije based on the nature of disability, talent, unusual intellectual ability or any other special reason of beneficiaries.
+Uburezi bwo mu muryango butangwa n'ababyeyi b'umwana, ufite ububasha bwa kibyeyi n'abandi bose babana na we. Bugamije
+|
+based on the nature of disability, talent, unusual intellectual ability or any other special reason of beneficiaries.
 
 The Curricula of special education are designed and adopted in the same way with curricula used by any other special category.
 
 ###### Article 121: Adult education
 
-Adult  education  is  intended  to  an  adult  person who did not have access to literacy and numeracy and who are unable to attend primary education on a daily basis to.
+Adult education is intended to an adult person who did not have access to literacy and numeracy and who are unable to attend primary education on a daily basis to.
 
-Adult  education  aims  at  equipping  adults  with basic  skills  including  literacy  and  numeracy  as well as other skills enabling them to participate in economic, social and cultural development of the country.
+Adult education aims at equipping adults with basic skills including literacy and numeracy as well as other skills enabling them to participate in economic, social and cultural development of the country.
 
 An order of the Minister determines the organisation and functioning of adult education.
 
 ###### Article 122: Education within the family
 
-Education  within  the  family  is  provided  by parents, guardian and people who stay with the child. Its aim  is to provide  the child  with élaborés  en  fonction  de  la  nature  d'handicap, talent,  capacité  intellectuelle  exceptionnelle  ou de tout autre motif spécial des bénéficiaires.
+Education within the family is provided by parents, guardian and people who stay with the child. Its aim is to provide the child with
+|
+élaborés en fonction de la nature d'handicap, talent, capacité intellectuelle exceptionnelle ou de tout autre motif spécial des bénéficiaires.
 
-Les  programmes  d'enseignement  spécial  sont élaborés et adoptés comme d'autres programmes utilisés dans les catégories différentes.
+Les programmes d'enseignement spécial sont élaborés et adoptés comme d'autres programmes utilisés dans les catégories différentes.
 
 ###### Article 121: Éducation des adultes
 
-- L'éducation des adultes est destinée à une personne adulte qui n'a pas eu accès à l'alphabétisation et au calcul et qui ne peut pas participer de façon quotidienne à l'enseignement primaire.
+L'éducation des adultes est destinée à une personne adulte qui n'a pas eu accès à l'alphabétisation et au calcul et qui ne peut pas participer de façon quotidienne à l'enseignement primaire.
 
-- L'éducation  des  adultes  vise  à  leur  permettre d'acquérir  des  compétences  de  base  telles  que l'alphabétisation, le calcul et d'autres connaissances  leur  permettant  de  participer  au développement économique, social et culturel du pays.
+L'éducation des adultes vise à leur permettre d'acquérir des compétences de base telles que l'alphabétisation, le calcul et d'autres connaissances leur permettant de participer au développement économique, social et culturel du pays.
 
 Un arrêté du Ministre détermine l'organisation et fonctionnement de l'éducation des adultes.
 
 ###### Article 122: Éducation en famille
 
-- L'éducation  en  famille  est  dispensée  par  les parents  de  l'enfant,  tuteur  ainsi  que  par  son entourage.  Elle  vise  à  assurer  à  l'enfant  une
+L'éducation en famille est dispensée par les parents de l'enfant, tuteur ainsi que par son entourage. Elle vise à assurer à l'enfant une
 
 113
 
@@ -3143,7 +3329,7 @@ Informal education is intended for community members in general with the objecti
 ###### Article 124: Education Council
 An education Council at Sector level and the District level to support the basic education development is hereby established. An Order of the Minister determines the organization, functioning and responsibility of education Council at Sector and District level.
 |
-connaissance et les valeurs éthiques .
+connaissance et les valeurs éthiques.
 ###### Article 123: Éducation informelle
 L'éducation informelle est destinée aux membres de la communauté en général dans le but de les former et d'accroître leurs connaissances et compétences pour leur permettre de s'engager dans diverses activités nécessaires au développement national.
 ###### Article 124: Conseil d'éducation
@@ -3177,33 +3363,35 @@ Haseguriwe ibiteganywa n'andi mategeko ahana, umubyeyi cyangwa undi muntu ufite 
 
 Official Gazette n° Special of 18/02/2021
 
-Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi  bitanu  (5.000  Frw)  ariko  atarenze ibihumbi  icumi  (10.000  Frw)  kandi  umwana agasubizwa uburenganzira yavukijwe.
+Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi bitanu (5.000 Frw) ariko atarenze ibihumbi icumi (10.000 Frw) kandi umwana agasubizwa uburenganzira yavukijwe.
 
 ###### Ingingo ya 126: Gutuma umwana ata ishuri
 
-Haseguriwe ibiteganywa n'andi mategeko ahana, umuntu wese ukoresha umwana bigatuma atiga  mu  mashuri  y'uburezi  bw'ibanze,  aba akoze ikosa.  Ahanishwa ihazabu  yo  mu  rwego rw'ubutegetsi  y'amafaranga  y'u  Rwanda  atari munsi  y'ibihumbi  magana  abiri  (200.000  Frw) ariko atarenze ibihumbi magana atanu (500.000 Frw) kandi umwana agasubizwa mu ishuri.
+Haseguriwe ibiteganywa n'andi mategeko ahana, umuntu wese ukoresha umwana bigatuma atiga mu mashuri y'uburezi bw'ibanze, aba akoze ikosa. Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi magana abiri (200.000 Frw) ariko atarenze ibihumbi magana atanu (500.000 Frw) kandi umwana agasubizwa mu ishuri.
 
 ###### Ingingo ya 127: Gukopera cyangwa gukopeza mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi mu mashuri y'uburezi bw'ibanze
 
-Umunyeshuri  ugaragaweho  gukopera  cyangwa gukopeza mu isuzumabumenyi cyangwa isuzumabushobozi ritegurirwa ku rwego rw'ishuri cyangwa urw'Akarere, ahanwa hakurikijwe amategeko ngengamikorere y'ishuri. Iyo ari isuzumabumenyi cyangwa isuzumabushobozi riteguriwe ku rwego rw'Igihugu, ahanwa  hakurikijwe amabwiriza He or she is liable to an administrative fine of at least five thousand Rwandan  francs  (FRW 5,000)  but  not  exceeding  ten  thousand  (FRW 10,000) and the child is reinstated in his or her rights.
+Umunyeshuri ugaragaweho gukopera cyangwa gukopeza mu isuzumabumenyi cyangwa isuzumabushobozi ritegurirwa ku rwego rw'ishuri cyangwa urw'Akarere, ahanwa hakurikijwe amategeko ngengamikorere y'ishuri. Iyo ari isuzumabumenyi cyangwa isuzumabushobozi riteguriwe ku rwego rw'Igihugu, ahanwa hakurikijwe amabwiriza
+|
+He or she is liable to an administrative fine of at least five thousand Rwandan francs (FRW 5,000) but not exceeding ten thousand (FRW 10,000) and the child is reinstated in his or her rights.
 
 ###### Article 126: Causing school drop-out
 
-Subject to the provisions of other penal laws, any person who employs a child and thus prevents the child from  studying in basic education institutions, commits a fault. He or she is liable to an administrative fine of at least two hundred thousand  Rwandan  francs  (FRW  200,000)  but not  exceeding  five  hundred  thousand  (FRW 500,000)  and  the  child  is  sent  back  to  the education institution.
+Subject to the provisions of other penal laws, any person who employs a child and thus prevents the child from studying in basic education institutions, commits a fault. He or she is liable to an administrative fine of at least two hundred thousand Rwandan francs (FRW 200,000) but not exceeding five hundred thousand (FRW 500,000) and the child is sent back to the education institution.
 
-###### Article  127:  Cheating  or  causing  cheating during assessment of knowledge and skills in basic education institutions
+###### Article 127: Cheating or causing cheating during assessment of knowledge and skills in basic education institutions
 
-A  learner  who  is  found  cheating  or  causes cheating during assessment knowledge and skills prepared at the school or district level, is punished in accordance with the internal rules of an education institution. In the case of a national assessment, he or she is punished in accordance with  regulations  established  by  the  agency  in charge of national exams.
-
+A learner who is found cheating or causes cheating during assessment knowledge and skills prepared at the school or district level, is punished in accordance with the internal rules of an education institution. In the case of a national assessment, he or she is punished in accordance with regulations established by the agency in charge of national exams.
+|
 Il est passible d'une amende administrative d'au moins cinq mille francs rwandais (5.000 FRW) mais n'excédant pas dix mille (10.000 FRW) et l'enfant est réhabilité dans ses droits.
 
 ###### Article 126: Provoquer l'abandon scolaire
 
-Sous réserve des dispositions d'autres législations pénales, toute personne qui emploie l'enfant et que cela l'empêche d'étudier dans des établissements d'enseignement de base commet une faute. Elle est passible d'une amende administrative d'au moins deux cent mille francs rwandais  (200.000  FRW)  mais  n'excédant  pas cinq cent mille (500.000 FRW)  et  l'enfant regagne l'établissement d'enseignement.
+Sous réserve des dispositions d'autres législations pénales, toute personne qui emploie l'enfant et que cela l'empêche d'étudier dans des établissements d'enseignement de base commet une faute. Elle est passible d'une amende administrative d'au moins deux cent mille francs rwandais (200.000 FRW) mais n'excédant pas cinq cent mille (500.000 FRW) et l'enfant regagne l'établissement d'enseignement.
 
-###### Article  127: Tricher  ou  aider  quelqu'un  à tricher pendant l'évaluation des connaissances  et  des  compétences  dans  des établissements d'enseignement de base
+###### Article 127: Tricher ou aider quelqu'un à tricher pendant l'évaluation des connaissances et des compétences dans des établissements d'enseignement de base
 
-Un apprenant qui triche ou aide à tricher lors de l'évaluation des connaissances et des compétences préparées au niveau de l'école ou du district est puni conformément au règlement intérieur d'un établissement d'enseignement. Dans  le cas d'une évaluation nationale des connaissances  et  des  compétences,  il  est  puni conformément aux règlements établis par ashyirwaho n'Ikigo gifite ibizamini bya Leta mu nshingano.
+Un apprenant qui triche ou aide à tricher lors de l'évaluation des connaissances et des compétences préparées au niveau de l'école ou du district est puni conformément au règlement intérieur d'un établissement d'enseignement. Dans le cas d'une évaluation nationale des connaissances et des compétences, il est puni conformément aux règlements établis par
 
 116
 
@@ -3211,33 +3399,35 @@ Un apprenant qui triche ou aide à tricher lors de l'évaluation des connaissanc
 
 [[START OF PAGE 117]]
 
-Umwarimu cyangwa umukozi wunganira wo mu ishuri ugaragaweho kugira uruhare mu gukopeza umunyeshuri mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi riteguriwe ku rwego urwo ari rwo rwose, aba akoze ikosa. Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi  mirongo  itanu  (50.000  Frw)  ariko atarenze ibihumbi ijana (100.000 Frw) kuri buri munyeshuri  yakopeje  kandi  agahita  yirukanwa burundu.
+Official Gazette n° Special of 18/02/2021
 
-Undi muntu wese ugaragaweho kugira uruhare mu gukopeza umunyeshuri mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi riteguriwe ku rwego urwo ari rwo rwose aba akoze ikosa. Ahanishwa ihazabu yo  mu  rwego  rw'ubutegetsi  y'amafaranga  y'u Rwanda  atari  munsi  y'ibihumbi  mirongo  itanu (50.000 Frw)  ariko atarenze ibihumbi ijana (100.000 Frw) kuri buri munyeshuri yakopeje.
+ashyirwaho n'Ikigo gifite ibizamini bya Leta mu nshingano.
+
+Umwarimu cyangwa umukozi wunganira wo mu ishuri ugaragaweho kugira uruhare mu gukopeza umunyeshuri mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi riteguriwe ku rwego urwo ari rwo rwose, aba akoze ikosa. Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi mirongo itanu (50.000 Frw) ariko atarenze ibihumbi ijana (100.000 Frw) kuri buri munyeshuri yakopeje kandi agahita yirukanwa burundu.
+
+Undi muntu wese ugaragaweho kugira uruhare mu gukopeza umunyeshuri mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi riteguriwe ku rwego urwo ari rwo rwose aba akoze ikosa. Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi mirongo itanu (50.000 Frw) ariko atarenze ibihumbi ijana (100.000 Frw) kuri buri munyeshuri yakopeje.
 
 ###### Ingingo ya 128: Ibikorwa binyuranyije n'amategeko mu burezi bw'ibanze
 
 Haseguriwe ibiteganywa n'andi mategeko ahana, umuntu wese, utabiherewe uburenganzira mu nyandiko n'Ikigo cy'Igihugu gifite ubugenzuzi bw'amashuri yo mu burezi
+|
+A teacher or a support staff member of an education institution who is involved in causing cheating a learner cheat during an assessment of knowledge and skills scheduled at any level, commits a fault. He or she is liable to an administrative fine of at least fifty thousand (FRW 50,000) but not exceeding one hundred thousand (FRW 100,000) for each learner who caused cheating and is immediately expelled.
 
-Official Gazette n° Special of 18/02/2021
-
-A  teacher  or  a  support  staff  member  of  an education institution who is involved in causing cheating a learner cheat during an assessment of knowledge  and  skills  scheduled  at  any  level, commits  a  fault.  He  or  she  is  liable  to  an administrative  fine  of  at  least  fifty  thousand (FRW 50,000)  but  not  exceeding  one  hundred thousand (FRW 100,000) for each learner who caused cheating and is immediately expelled.
-
-Any other person involved in helping a learner cheat  during  an  assessment  of  knowledge  and skills  or  preparedness  assessment  at  any  level commits  a  fault.  He  or  she  is  liable  to  an administrative  fine  of  at  least  fifty  thousand (FRW 50,000)  but  not  exceeding  one  hundred thousand (FRW 100,000) per learner whom he or she helped cheat.
+Any other person involved in helping a learner cheat during an assessment of knowledge and skills or preparedness assessment at any level commits a fault. He or she is liable to an administrative fine of at least fifty thousand (FRW 50,000) but not exceeding one hundred thousand (FRW 100,000) per learner whom he or she helped cheat.
 
 ###### Article 128: Illegal activities in basic education
 
-Subject to the provisions of other penal laws, any person  who  is  not  authorized  in  writing  by  a national  agency  in  charge  of  the  inspection  of basic education institutions:
-
+Subject to the provisions of other penal laws, any person who is not authorized in writing by a national agency in charge of the inspection of basic education institutions:
+|
 l'agence ayant les examens nationaux dans ses attributions.
 
-Un  enseignant  ou  un  membre  du  personnel d'appui d'un établissement d'enseignement qui est impliqué dans la tricherie d'un apprenant lors d'une évaluation des connaissances et des compétences préparées à n'importe quel niveau, commet une faute. Il est passible d'une amende d'au moins cinquante mille (50.000 FRW) mais n'excédant pas cent mille (100.000 FRW) pour chaque  apprenant  qu'il  a  aidé  à  tricher  et  est immédiatement démis d'office.
+Un enseignant ou un membre du personnel d'appui d'un établissement d'enseignement qui est impliqué dans la tricherie d'un apprenant lors d'une évaluation des connaissances et des compétences préparées à n'importe quel niveau, commet une faute. Il est passible d'une amende d'au moins cinquante mille (50.000 FRW) mais n'excédant pas cent mille (100.000 FRW) pour chaque apprenant qu'il a aidé à tricher et est immédiatement démis d'office.
 
-Toute  autre  personne  qui  aide  un  apprenant  à tricher lors d'une évaluation des connaissances et des compétences préparées à quelque niveau que ce soit commet une faute. Elle est passible d'une amende  administrative  d'au  moins  cinquante mille (50.000) FRW) mais n'excédant pas cent mille  (100.000  FRW)  pour  chaque  apprenant qu'il a aidé à tricher.
+Toute autre personne qui aide un apprenant à tricher lors d'une évaluation des connaissances et des compétences préparées à quelque niveau que ce soit commet une faute. Elle est passible d'une amende administrative d'au moins cinquante mille (50.000) FRW) mais n'excédant pas cent mille (100.000 FRW) pour chaque apprenant qu'il a aidé à tricher.
 
 ###### Article 128: Activités illégales dans l'enseignement de base
 
-Sous réserve des dispositions d'autres législations pénales, toute personne qui n'est pas autorisée  par  écrit  par  l'agence  nationale  ayant l'inspection  des  établissements  d'enseignement
+Sous réserve des dispositions d'autres législations pénales, toute personne qui n'est pas autorisée par écrit par l'agence nationale ayant l'inspection des établissements d'enseignement
 
 117
 
@@ -3247,8 +3437,8 @@ Sous réserve des dispositions d'autres législations pénales, toute personne q
 
 Official Gazette n° Special of 18/02/2021
 
-bw'ibanze mu nshingano: 1º ushinga, ufungura, ufunga, uhindura izina, cyangwa wimurira ahandi ryo mu burezi bw'ibanze; 2º utangiza inyigisho nshya, integanyanyigisho atemerewe, umunyeshuri utujuje ibyangombwa bisabwa; 3º utubahiriza ibipimo ngenderwaho mashuri y'uburezi bw'ibanze; aba ikosa. Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari y'ibihumbi magana atanu (500.000 Frw) atarenze miliyoni imwe (1.000.000 Frw) igikorwa cyakozwe kigahagarikwa.
-#### Icyiciro cya 2: Amakosa n'ibihano byo rwego rw'ubutegetsi mu mashuri makuru
+bw'ibanze mu nshingano: 1º ushinga, ufungura, ufunga, uhindura izina, cyangwa wimurira ahandi ishuri ryo mu burezi bw'ibanze; 2º utangiza inyigisho nshya, wigisha integanyanyigisho atemerewe, wakira umunyeshuri utujuje ibyangombwa bisabwa; 3º utubahiriza ibipimo ngenderwaho mu mashuri y'uburezi bw'ibanze; aba akoze ikosa. Ahanishwa ihazabu yo mu rwego rw'ubutegetsi y'amafaranga y'u Rwanda atari munsi y'ibihumbi magana atanu (500.000 Frw) ariko atarenze miliyoni imwe (1.000.000 Frw) kandi igikorwa cyakozwe kigahagarikwa.
+#### Icyiciro cya 2: Amakosa n'ibihano byo mu rwego rw'ubutegetsi mu mashuri makuru
 ###### Ingingo ya 129: Gukopera cyangwa gukopeza mu gihe cy'isuzumabumenyi cyangwa isuzumabushobozi mu mashuri makuru
 Umunyeshuri ugaragaweho gukopera cyangwa gukopeza mu isuzumabumenyi cyangwa isuzumabushobozi ahanwa hakurikijwe
 |
@@ -3343,45 +3533,45 @@ Le pouvoir d'imposer des sanctions administratives prévues par la présente loi
 
 [[START OF PAGE 122]]
 
+Official Gazette n° Special of 18/02/2021
+
 Nshingwabikorwa w'Akagari;
 
-- 2º Ikigo cy'Igihugu gifite ubugenzuzi bw'amashuri  yo  mu  burezi  bw'ibanze  mu nshingano, ku makosa ateganywa mu ngingo ya 127 y'iri tegeko mu gika cyayo cya  2  n'icya  3,  hashingiwe  kuri  raporo y'ishuri no ku makosa ateganywa mu ngingo ya 128 y'iri tegeko hashingiwe kuri raporo y'ubugenzuzi bwakorewe iryo shuri;
+2º Ikigo cy'Igihugu gifite ubugenzuzi bw'amashuri yo mu burezi bw'ibanze mu nshingano, ku makosa ateganywa mu ngingo ya 127 y'iri tegeko mu gika cyayo cya 2 n'icya 3, hashingiwe kuri raporo y'ishuri no ku makosa ateganywa mu ngingo ya 128 y'iri tegeko hashingiwe kuri raporo y'ubugenzuzi bwakorewe iryo shuri;
 
-- 3º Ikigo cy'Igihugu gishinzwe amashuri makuru, ku makosa ateganywa mu ngingo ya  129  y'iri  tegeko  mu  gika  cyayo  cya  2 n'icya  3  hashingiwe  kuri  raporo  y'ishuri rikuru no ku makosa ateganywa mu ngingo ya 130 y'iri tegeko hashingiwe kuri raporo y'ubungenzuzi bwakorewe iryo shuri rikuru.
+3º Ikigo cy'Igihugu gishinzwe amashuri makuru, ku makosa ateganywa mu ngingo ya 129 y'iri tegeko mu gika cyayo cya 2 n'icya 3 hashingiwe kuri raporo y'ishuri rikuru no ku makosa ateganywa mu ngingo ya 130 y'iri tegeko hashingiwe kuri raporo y'ubungenzuzi bwakorewe iryo shuri rikuru.
 
 ###### Ingingo ya 133: Ahashyirwa ihazabu
 
-Ihazabu  yose  ikomotse  ku  bihano  biteganywa n'iri tegeko ishyirwa mu isanduku ya Leta.
+Ihazabu yose ikomotse ku bihano biteganywa n'iri tegeko ishyirwa mu isanduku ya Leta.
 
 ###### Ingingo ya 134: Ubujurire ku bihano byo mu rwego rw'ubutegetsi
 
 Umuntu wese utishimiye igihano cyo mu rwego
+|
+2º the national agency in charge of the inspection of basic education institutions, for the faults provided for in article 127 of this Law in its paragraphs 2 and 3, on the basis of the school report and for the faults provided for in article 128 of this law based on the inspection report made to the education institution;
 
-Official Gazette n° Special of 18/02/2021
-
-- 2º the  national  agency  in  charge  of  the inspection of basic education institutions, for the faults provided for in article 127 of this Law in its paragraphs 2 and 3, on the basis of the school report and for the faults provided for in article 128 of this law based on the inspection report made to the education institution;
-
-- 3º the  national  Agency  in  charge  of  the institutions  of  higher  learning,  for  the faults provided for in article 129 of this Law in its paragraphs 2 and 3 based on the  report  of  the  university  and  on  the faults provided for in article 130 of this Law  based  on  an  audit  report  of  the institution of higher learning.
+3º the national Agency in charge of the institutions of higher learning, for the faults provided for in article 129 of this Law in its paragraphs 2 and 3 based on the report of the university and on the faults provided for in article 130 of this Law based on an audit report of the institution of higher learning.
 
 ###### Article 133: Place of payment of fines
 
 All fines arising from the sanctions provided for in this Law are deposited in public coffers.
 
-###### Article  134: Appeal  against  administrative sanctions
+###### Article 134: Appeal against administrative sanctions
 
 Any person dissatisfied with the administrative
+|
+2º à l'agence nationale ayant l'inspection des établissements d'enseignement de base dans ses attributions pour les fautes prévues à l'article 127 de la présente loi dans ses alinéas 2 et 3, sur la base du bulletin scolaire et pour les fautes prévues à l'article 128 de la présente loi sur la base du rapport d'inspection de l'école;
 
-- 2º à  l'agence  nationale  ayant  l'inspection des  établissements  d'enseignement  de base dans ses attributions pour les fautes prévues à l'article 127 de la présente loi dans  ses  alinéas  2  et  3,  sur  la  base  du bulletin scolaire et pour les fautes prévues à l'article 128 de la présente loi sur  la  base  du  rapport  d'inspection  de l'école;
-
-- 3º à l'agence nationale chargée des établissements d'enseignement supérieur, pour les fautes prévues à l'article 129 de cette loi dans ses alinéas 2 et 3 basés sur le rapport de l'université et sur les fautes prévues à l'article 130 de la présente loi fondées sur un rapport d'audit de l'institution d'enseignement supérieur.
+3º à l'agence nationale chargée des établissements d'enseignement supérieur, pour les fautes prévues à l'article 129 de cette loi dans ses alinéas 2 et 3 basés sur le rapport de l'université et sur les fautes prévues à l'article 130 de la présente loi fondées sur un rapport d'audit de l'institution d'enseignement supérieur.
 
 ###### Article 133: Lieu de versement des amendes
 
 Toutes les amendes résultant des sanctions prévues par la présente loi sont versées au trésor public.
 
-###### Article  134:  Recours  contre  les  sanctions administratives
+###### Article 134: Recours contre les sanctions administratives
 
-Toute  personne  non  satisfaite  de  la  sanction rw'ubutegetsi  yahawe  giteganwa  n'iri  tegeko ashobora kujuririra aba bakurikira:
+Toute personne non satisfaite de la sanction
 
 122
 
@@ -3391,35 +3581,41 @@ Toute  personne  non  satisfaite  de  la  sanction rw'ubutegetsi  yahawe  gitega
 
 Official Gazette n° Special of 18/02/2021
 
-- 1º Umuyobozi w'Akarere ku gihano cyatanzwe n'Umunyamabanga Nshingwabikorwa w'Umurenge;
+rw'ubutegetsi yahawe giteganwa n'iri tegeko ashobora kujuririra aba bakurikira:
 
-- 2º Minisitiri  ku  bihano  byatanzwe  n'Ikigo cy'Igihugu gifite ubugenzuzi bw'amashuri yo mu burezi bw'ibanze mu nshingano cyangwa Ikigo cy'Igihugu gishinzwe amashuri makuru.
+1º Umuyobozi w'Akarere ku gihano cyatanzwe n'Umunyamabanga Nshingwabikorwa w'Umurenge;
 
-Umuntu  utishimiye  icyemezo  yafatiwe,  ajurira mu  gihe  kitarenze  iminsi  mirongo  itatu  (30) y'akazi  uhereye  ku  munsi  yamenyesherejwe icyemezo. Urwego rwajuririwe rutanga igisubizo ku  bujurire  mu  gihe  kitarenze  iminsi  mirongo itatu (30) y'akazi uhereye igihe ubujurire bwakiriwe.
+2º Minisitiri ku bihano byatanzwe n'Ikigo cy'Igihugu gifite ubugenzuzi bw'amashuri yo mu burezi bw'ibanze mu nshingano cyangwa Ikigo cy'Igihugu gishinzwe amashuri makuru.
+
+Umuntu utishimiye icyemezo yafatiwe, ajurira mu gihe kitarenze iminsi mirongo itatu (30) y'akazi uhereye ku munsi yamenyesherejwe icyemezo. Urwego rwajuririwe rutanga igisubizo ku bujurire mu gihe kitarenze iminsi mirongo itatu (30) y'akazi uhereye igihe ubujurire bwakiriwe.
 
 ### UMUTWE WA III: INGINGO Y'INZIBACYUHO N'IZISOZA
 
 ###### Ingingo ya 135: Igihe cy'inzibacyuho
 
-Hashyizweho  igihe cy'inzibacyuho kitarenze imyaka  ibiri (2)  uhereye  umunsi  iri  tegeko ritangarijwe  mu  Igazeti  ya  Leta  ya  Repubulika y'u Rwanda, kugira ngo inzego zose bireba zibe zahuje imitunganyirize y'uburezi n'ibiteganywa sanction provided for in this Law may appeal to the following:
+Hashyizweho igihe cy'inzibacyuho kitarenze imyaka ibiri (2) uhereye umunsi iri tegeko ritangarijwe mu Igazeti ya Leta ya Repubulika y'u Rwanda, kugira ngo inzego zose bireba zibe zahuje imitunganyirize y'uburezi n'ibiteganywa
+|
+sanction provided for in this Law may appeal to the following:
 
-- 1° the mayor of the district on the sanction imposed by the executive secretary of the sector;
+1° the mayor of the district on the sanction imposed by the executive secretary of the sector;
 
-- 2° Minister on the sanctions imposed by the national agency in charge of the inspection of basic education institutions or  the  national  agency  in  charge  of  the institutions of higher learning.
+2° Minister on the sanctions imposed by the national agency in charge of the inspection of basic education institutions or the national agency in charge of the institutions of higher learning.
 
-A person dissatisfied with the decision appeals within a period not exceeding thirty (30) working days from the date of notification of the decision. The  appellate  authority  responds  to  the  appeal within a period not exceeding thirty (30) working days from the date of receipt of the appeal.
+A person dissatisfied with the decision appeals within a period not exceeding thirty (30) working days from the date of notification of the decision. The appellate authority responds to the appeal within a period not exceeding thirty (30) working days from the date of receipt of the appeal.
 
-## TITLE  III:  TRANSITIONAL  AND  FINAL PROVISIONS
+## TITLE III: TRANSITIONAL AND FINAL PROVISIONS
 
 ###### Article 135: Transitional period
 
-A transitional  period  of  not  more  than  two  (2) years  from  the  publication  of  this  Law  in  the Official  Gazette  of  the  Republic  of  Rwanda  is established so that all relevant organs bring the organisation of education into compliance with administrative  prévue  par  la  présente  loi  peut faire recours auprès des personnes suivantes:
+A transitional period of not more than two (2) years from the publication of this Law in the Official Gazette of the Republic of Rwanda is established so that all relevant organs bring the organisation of education into compliance with
+|
+administrative prévue par la présente loi peut faire recours auprès des personnes suivantes:
 
-- 1° le maire du District sur la sanction prononcée  par  le  secrétaire  exécutif  du Secteur;
+1° le maire du District sur la sanction prononcée par le secrétaire exécutif du Secteur;
 
-- 2° le  Ministre  sur  des  sanctions  prononcées par  l'agence  nationale  ayant  l'inspection des établissements d'enseignement de base  dans  ses  attributions  ou  l'agence nationale chargée des établissements d'enseignement supérieur.
+2° le Ministre sur des sanctions prononcées par l'agence nationale ayant l'inspection des établissements d'enseignement de base dans ses attributions ou l'agence nationale chargée des établissements d'enseignement supérieur.
 
-Une  personne  insatisfaite  de  la  décision  peut faire appel dans un délai ne dépassant pas trente (30)  jours  ouvrables  à  compter  de  la  date  de notification  de  la  décision.  L'autorité  d'appel répondra à l'appel dans un délai ne dépassant pas trente  (30)  jours  ouvrables  à  compter  de  la réception de l'appel.
+Une personne insatisfaite de la décision peut faire appel dans un délai ne dépassant pas trente (30) jours ouvrables à compter de la date de notification de la décision. L'autorité d'appel répondra à l'appel dans un délai ne dépassant pas trente (30) jours ouvrables à compter de la réception de l'appel.
 
 ## TITRE III: DISPOSITIONS TRANSITOIRE ET FINALES
 
@@ -3437,23 +3633,27 @@ Official Gazette n° Special of 18/02/2021
 
 n'iri tegeko.
 ###### Ingingo ya 136: Itegurwa, isuzumwa n'itorwa by'iri tegeko
-Iri tegeko ryateguwe, risuzumwa kandi mu rurimi rw'Ikinyarwanda.
-###### Ingingo ya 137: Ivanwaho ry'amategeko n'ingingo z'amategeko binyuranyije tegeko
-Itegeko n° 23/2012 ryo ku wa 15/06/2012 rigena imitunganyirize n'imikorere by'Amashuri y'Incuke, Abanza n'Ayisumbuye, Itegeko n° 44/2015 ryo ku wa 14/09/2015 rigenga inguzanyo na buruse bihabwa abanyeshuri, Itegeko n° 01/2017 ryo 31/01/2017 rigena imiterere, imitunganyirize n'imikorere by'Amashuri Makuru n'Itegeko 36/2018 ryo ku wa 29/06/2018 imitunganyirize y'uburezi n'ingingo z'amategeko abanziriza iri kandi zinyuranyije na ryo bivanyweho.
+Iri tegeko ryateguwe, risuzumwa kandi ritorwa mu rurimi rw'Ikinyarwanda.
+###### Ingingo ya 137: Ivanwaho ry'amategeko n'ingingo z'amategeko binyuranyije n'iri tegeko
+Itegeko n° 23/2012 ryo ku wa 15/06/2012 rigena imitunganyirize n'imikorere by'Amashuri y'Incuke, Abanza n'Ayisumbuye, Itegeko n° 44/2015 ryo ku wa 14/09/2015 rigenga inguzanyo na buruse bihabwa abanyeshuri, Itegeko n° 01/2017 ryo ku wa 31/01/2017 rigena imiterere, imitunganyirize n'imikorere by'Amashuri Makuru n'Itegeko n° 36/2018 ryo ku wa 29/06/2018 rigena imitunganyirize y'uburezi n'ingingo zose z'amategeko abanziriza iri kandi zinyuranyije na ryo bivanyweho.
 ###### Ingingo ya 138: Igihe iri tegeko ritangira gukurikizwa
-Iri tegeko ritangira gukurikizwa ku ritangarijweho mu Igazeti ya Leta ya Repubulika y'u Rwanda. | the provisions of this Law.
+Iri tegeko ritangira gukurikizwa ku munsi ritangarijweho mu Igazeti ya Leta ya Repubulika y'u Rwanda.
+|
+the provisions of this Law.
 ###### Article 136: Drafting, consideration and adoption of this Law
 This Law was drafted, considered and adopted in Ikinyarwanda.
 ###### Article 137: Repealing provision
 Law nº 23/2012 of 15/06/2012 governing the organization and functioning of nursery, primary and secondary education, Law No 44/2015 of 14/09/2015 governing students loans and bursaries, Law n° 01/2017 of 31/01/2017 governing the organisation and functioning of higher education and Law n° 36/2018 of 29/06/2018 governing education as well as all prior and contrary legal provisions are hereby repealed.
 ###### Article 138: Commencement
-This Law comes into force on the day of its publication in the Official Gazette of the Republic of Rwanda. conforme
-###### Article
-la La en
-###### Article
-La organisation préscolaire secondaire, régissant la organisation l'enseignement 29/06/2018 ainsi antérieures abrogées.
-###### Article
-La publication du
+This Law comes into force on the day of its publication in the Official Gazette of the Republic of Rwanda.
+|
+conforme aux dispositions de la présente loi.
+###### Article 136: Initiation, examen et adoption de la présente loi
+La présente loi a été initiée, examinée et adoptée en Ikinyarwanda.
+###### Article 137: Disposition abrogatoire
+La Loi n° 23/2012 du 15/06/2012 portant organisation et fonctionnement de l'éducation préscolaire et de l'enseignement primaire et secondaire, la Loi n° 44/2015 du 14/09/2015 régissant les prêts et les bourses pour étudiants, la Loi n° 01/2017 du 31/01/2017 portant organisation et fonctionnement de l'enseignement supérieur et la Loi n° 36/2018 of 29/06/2018 portant organisation de l'éducation ainsi que toutes les dispositions légales antérieures contraires à la présente loi sont abrogées.
+###### Article 138: Entrée en vigueur
+La présente loi entre en vigueur le jour de sa publication au Journal Officiel de la République du Rwanda.
 --- | ---
 
 124
@@ -3464,13 +3664,32 @@ La publication du
 
 Official Gazette n° Special of 18/02/2021
 
+Kigali, 16/02/2021
+
 (sé)
 
-Kigali, 16/02/2021
----
-(sé) KAGAME Paul Perezida wa Repubulika President of the Republic Président de la République
-(sé) Dr NGIRENTE Edouard Minisitiri w'Intebe Prime Minister Premier Ministre
-Bibonywe kandi bishyizweho Ikirango cya Repubulika: Seen and sealed with the Seal of the Republic: Vu et scellé du Sceau de la République: (sé) BUSINGYE Johnston Minisitiri w'Ubutabera akaba n'Intumwa Nkuru ya Leta Minister of Justice and Attorney General Ministre de la Justice et Garde des Sceaux
+KAGAME Paul
+Perezida wa Repubulika
+President of the Republic
+Président de la République
+
+(sé)
+
+Dr NGIRENTE Edouard
+Minisitiri w'Intebe
+Prime Minister
+Premier Ministre
+
+Bibonywe kandi bishyizweho Ikirango cya Repubulika:
+Seen and sealed with the Seal of the Republic:
+Vu et scellé du Sceau de la République:
+
+(sé)
+
+BUSINGYE Johnston
+Minisitiri w'Ubutabera akaba n'Intumwa Nkuru ya Leta
+Minister of Justice and Attorney General
+Ministre de la Justice et Garde des Sceaux
 
 125
 
