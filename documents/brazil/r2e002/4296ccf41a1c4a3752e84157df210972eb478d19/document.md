@@ -1,43 +1,42 @@
 [[START OF PAGE 1]]
 
-# LEI N o 10.172, DE 9 DE JANEIRO DE 2001
+# LEI Nº 10.172, DE 9 DE JANEIRO DE 2001
 
 Aprova o Plano Nacional de Educação e dá outras providências.
 
 O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-## Art.  1 o
+## Art. 1º
 Fica  aprovado o Plano Nacional de Educação, constante do documento anexo, com duração de dez anos.
 
-## Art.  2 o
+## Art. 2º
 A  partir  da  vigência  desta  Lei,  os  Estados,  o  Distrito  Federal  e  os  Municípios  deverão,  com  base  no Plano Nacional de Educação, elaborar planos decenais correspondentes.
 
-## Art. 3 o
+## Art. 3º
 A União, em articulação com os Estados, o Distrito Federal, os municípios e a sociedade civil, procederá a avaliações periódicas da implementação do Plano Nacional de Educação.
 
-### §  1 o
+### § 1º
 O  Poder  Legislativo,  por  intermédio  das  Comissões  de  Educação,  Cultura  e  Desporto  da  Câmara  dos Deputados e da Comissão de Educação do Senado Federal, acompanhará a execução do Plano Nacional de Educação.
 
-### § 2 o
+### § 2º
 A primeira avaliação realizar-se-á no quarto ano de vigência desta Lei, cabendo ao Congresso Nacional aprovar as medidas legais decorrentes, com vistas à correção de deficiências e distorções.
 
-## Art.  4 o
+## Art. 4º
 A  União  instituirá  o  Sistema  Nacional  de  Avaliação  e  estabelecerá  os  mecanismos  necessários  ao acompanhamento das metas constantes do Plano Nacional de Educação.
 
-## Art. 5 o
+## Art. 5º
 Os planos plurianuais da União, dos Estados, do Distrito Federal e dos Municípios serão elaborados de modo a dar suporte às metas constantes do Plano Nacional de Educação e dos respectivos planos decenais.
 
-## Art. 6 o
+## Art. 6º
 Os Poderes da União, dos Estados, do Distrito Federal e dos Municípios empenhar-se-ão na divulgação deste  Plano  e  da  progressiva  realização  de  seus  objetivos  e  metas,  para  que  a  sociedade  o  conheça amplamente e acompanhe sua implementação.
 
-## Art. 7 o
+## Art. 7º
 Esta Lei entra em vigor na data de sua publicação.
 
-Brasília, 9 de janeiro de 2001; 180 da Independência e 113
+Brasília, 9 de janeiro de 2001; 180º da Independência e 113º da República.
 
-o o da República.
-
-FERNANDO HENRIQUE CARDOSO Paulo Renato Souza
+FERNANDO HENRIQUE CARDOSO
+Paulo Renato Souza
 
 Este texto não substitui o publicado no D.O.U. de 10.01.2001
 
@@ -84,11 +83,13 @@ Por outro lado, a Lei nº 9.394, de 1996 , que "estabelece as Diretrizes e Bases
 
 Em 10 de fevereiro de 1998, o Deputado Ivan Valente apresentou no Plenário da Câmara dos Deputados o  Projeto  de  Lei  nº  4.155,  de  1998  que  "aprova  o  Plano  Nacional  de  Educação".  A  construção  deste  plano atendeu  aos  compromissos  assumidos  pelo  Fórum  Nacional  em  Defesa  da  Escola  Pública,  desde  sua participação nos trabalhos da Assembléia Nacional Constituinte, consolidou os trabalhos do I e do II Congresso Nacional de Educação - CONED e sistematizou contribuições advindas de diferentes segmentos da sociedade civil. Na justificação, destaca o Autor a importância desse documento-referência que "contempla dimensões e problemas sociais, culturais, políticos e educacionais brasileiros, embasado nas lutas e proposições daqueles que defendem uma sociedade mais justa e igualitária".
 
-Em  11  de  fevereiro  de  1998,  o  Poder  Executivo  enviou  ao  Congresso  Nacional  a  Mensagem  180/98, relativa ao projeto de lei que "Institui o Plano Nacional de Educação". Iniciou sua tramitação na Câmara dos Deputados como Projeto de Lei nº 4.173, de 1998, apensado ao PL nº 4.155/98, em 13 de março de 1998. Na Exposição  de  Motivos  destaca  o  Ministro  da  Educação  a  concepção  do  Plano,  que  teve  como  eixos norteadores, do ponto de vista legal, a Constituição Federal de 1988, a Lei de Diretrizes e Bases da Educação Nacional,  de  1996,  e  a  Emenda  Constitucional  nº  14,  de  1995,  que  instituiu  o  Fundo  de  Manutenção  e Desenvolvimento  do  Ensino  Fundamental  e  de  Valorização  do  Magistério.  Considerou  ainda  realizações anteriores,  principalmente  o  Plano  Decenal  de  Educação  para  Todos,  preparado  de  acordo  com  as recomendações da reunião organizada pela UNESCO e realizada em Jomtien, na Tailândia, em 1993. Além deste,  os  documentos  resultantes  de  ampla  mobilização  regional  e  nacional  que  foram  apresentados  pelo Brasil  nas  conferências  da  UNESCO  constituíram  subsídios  igualmente  importantes  para  a  preparação  do documento. Várias entidades foram consultadas pelo MEC, destacando-se o Conselho Nacional de Secretários de Educação - CONSED e a União Nacional dos Dirigentes Municipais de Educação - UNDIME.
+Em 11 de fevereiro de 1998, o Poder Executivo enviou ao Congresso Nacional a Mensagem 180/98, relativa ao projeto de lei que "Institui o Plano Nacional de Educação". Iniciou sua tramitação na Câmara dos Deputados como Projeto de Lei nº 4.173, de 1998, apensado ao PL nº 4.155/98, em 13 de março de 1998. Na Exposição de Motivos destaca o Ministro da Educação a concepção do Plano, que teve como eixos norteadores, do ponto de vista legal, a Constituição Federal de 1988, a Lei de Diretrizes e Bases da Educação Nacional, de 1996, e a Emenda Constitucional nº 14, de 1995, que instituiu o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério. Considerou ainda realizações
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
+
+anteriores, principalmente o Plano Decenal de Educação para Todos, preparado de acordo com as recomendações da reunião organizada pela UNESCO e realizada em Jomtien, na Tailândia, em 1993. Além deste, os documentos resultantes de ampla mobilização regional e nacional que foram apresentados pelo Brasil nas conferências da UNESCO constituíram subsídios igualmente importantes para a preparação do documento. Várias entidades foram consultadas pelo MEC, destacando-se o Conselho Nacional de Secretários de Educação - CONSED e a União Nacional dos Dirigentes Municipais de Educação - UNDIME.
 
 Os projetos foram distribuídos às Comissões de Educação, Cultura e Desporto; de Finanças e Tributação; e de Constituição, Justiça e de Redação. Na primeira, é Relator, o Deputado Nelson Marchezan.
 
@@ -106,15 +107,15 @@ Em síntese, o Plano tem como objetivos:
 
 Considerando  que  os  recursos  financeiros  são  limitados  e  que  a  capacidade  para  responder  ao  desafio  de oferecer  uma  educação  compatível,  na  extensão  e  na  qualidade,  à  dos  países  desenvolvidos  precisa  ser construída  constante  e  progressivamente,  são  estabelecidas  prioridades  neste  plano,  segundo  o  dever constitucional e as necessidades sociais.
 
-- Garantia de ensino fundamental obrigatório de oito anos a todas as crianças de 7 a 14 anos, assegurando o seu ingresso e permanência na escola e a conclusão desse ensino. Essa prioridade inclui o necessário esforço dos sistemas de ensino para que todas obtenham a formação mínima para o exercício da cidadania e para o usufruto  do  patrimônio  cultural  da  sociedade  moderna.  O  processo  pedagógico  deverá  ser  adequado  às necessidades dos alunos e corresponder a um ensino socialmente significativo. Prioridade de tempo integral para as crianças das camadas sociais mais necessitadas.
+1. Garantia de ensino fundamental obrigatório de oito anos a todas as crianças de 7 a 14 anos, assegurando o seu ingresso e permanência na escola e a conclusão desse ensino. Essa prioridade inclui o necessário esforço dos sistemas de ensino para que todas obtenham a formação mínima para o exercício da cidadania e para o usufruto do patrimônio cultural da sociedade moderna. O processo pedagógico deverá ser adequado às necessidades dos alunos e corresponder a um ensino socialmente significativo. Prioridade de tempo integral para as crianças das camadas sociais mais necessitadas.
 
-- Garantia de ensino fundamental a todos os que a ele não tiveram acesso na idade própria ou que não o concluíram .  A  erradicação  do  analfabetismo  faz  parte  dessa  prioridade,  considerando-se  a  alfabetização  de jovens  e  adultos  como  ponto  de  partida  e  parte  intrínseca  desse  nível  de  ensino.  A  alfabetização  dessa população  é  entendida  no  sentido  amplo  de  domínio  dos  instrumentos  básicos  da  cultura  letrada,  das operações matemáticas elementares, da evolução histórica da sociedade humana, da diversidade do espaço físico  e  político  mundial  e  da  constituição  da  sociedade  brasileira.  Envolve,  ainda,  a  formação  do  cidadão responsável e consciente de seus direitos e deveres.
+2. Garantia de ensino fundamental a todos os que a ele não tiveram acesso na idade própria ou que não o concluíram. A erradicação do analfabetismo faz parte dessa prioridade, considerando-se a alfabetização de jovens e adultos como ponto de partida e parte intrínseca desse nível de ensino. A alfabetização dessa população é entendida no sentido amplo de domínio dos instrumentos básicos da cultura letrada, das operações matemáticas elementares, da evolução histórica da sociedade humana, da diversidade do espaço físico e político mundial e da constituição da sociedade brasileira. Envolve, ainda, a formação do cidadão responsável e consciente de seus direitos e deveres.
 
-- Ampliação do atendimento nos demais níveis de ensino - a educação infantil, o ensino médio e a educação superior. Está prevista a extensão da escolaridade obrigatória para crianças de seis anos de idade, quer na educação infantil, quer no ensino fundamental, e a gradual extensão do acesso ao ensino médio para todos os jovens que completam o nível anterior, como também para os jovens e adultos que não cursaram os níveis de ensino nas idades próprias. Para as demais séries e para os outros níveis, são definidas metas de ampliação dos percentuais de atendimento da respectiva faixa etária. A ampliação do atendimento, neste plano, significa maior  acesso,  ou  seja,  garantia  crescente  de  vagas  e,  simultaneamente,  oportunidade  de  formação  que corresponda  às  necessidades  das  diferentes  faixas  etárias,  assim  como,  nos  níveis  mais  elevados,  às necessidades  da  sociedade,  no  que  se  refere  a  lideranças  científicas  e  tecnológicas,  artísticas  e  culturais, políticas e intelectuais, empresariais e sindicais, além das demandas do mercado de trabalho. Faz parte dessa prioridade  a  garantia  de  oportunidades  de  educação  profissional  complementar  à  educação  básica,  que conduza ao permanente desenvolvimento de aptidões para a vida produtiva, integrada às diferentes formas de educação, ao trabalho, à ciência e à tecnologia.
+3. Ampliação do atendimento nos demais níveis de ensino - a educação infantil, o ensino médio e a educação superior. Está prevista a extensão da escolaridade obrigatória para crianças de seis anos de idade, quer na educação infantil, quer no ensino fundamental, e a gradual extensão do acesso ao ensino médio para todos os jovens que completam o nível anterior, como também para os jovens e adultos que não cursaram os níveis de ensino nas idades próprias. Para as demais séries e para os outros níveis, são definidas metas de ampliação dos percentuais de atendimento da respectiva faixa etária. A ampliação do atendimento, neste plano, significa maior acesso, ou seja, garantia crescente de vagas e, simultaneamente, oportunidade de formação que corresponda às necessidades das diferentes faixas etárias, assim como, nos níveis mais elevados, às necessidades da sociedade, no que se refere a lideranças científicas e tecnológicas, artísticas e culturais, políticas e intelectuais, empresariais e sindicais, além das demandas do mercado de trabalho. Faz parte dessa prioridade a garantia de oportunidades de educação profissional complementar à educação básica, que conduza ao permanente desenvolvimento de aptidões para a vida produtiva, integrada às diferentes formas de educação, ao trabalho, à ciência e à tecnologia.
 
-- Valorização  dos  profissionais  da  educação .  Particular  atenção  deverá  ser  dada  à  formação  inicial  e continuada, em especial dos professores. Faz parte dessa valorização a garantia das condições adequadas de trabalho, entre elas o tempo para estudo e preparação das aulas, salário digno, com piso salarial e carreira de magistério.
+4. Valorização dos profissionais da educação. Particular atenção deverá ser dada à formação inicial e continuada, em especial dos professores. Faz parte dessa valorização a garantia das condições adequadas de trabalho, entre elas o tempo para estudo e preparação das aulas, salário digno, com piso salarial e carreira de magistério.
 
-- Desenvolvimento de sistemas de informação e de avaliação em todos os níveis e modalidades de ensino , inclusive educação profissional, contemplando também o aperfeiçoamento dos processos de coleta e difusão dos dados, como instrumentos indispensáveis para a gestão do sistema educacional e melhoria do ensino.
+5. Desenvolvimento de sistemas de informação e de avaliação em todos os níveis e modalidades de ensino, inclusive educação profissional, contemplando também o aperfeiçoamento dos processos de coleta e difusão dos dados, como instrumentos indispensáveis para a gestão do sistema educacional e melhoria do ensino.
 
 Este Plano Nacional de Educação define por conseguinte:
 
@@ -134,19 +135,21 @@ Tratando-se de metas gerais para o conjunto da Nação, será preciso, como desd
 
 ### A - EDUCAÇÃO BÁSICA
 
-#### EDUCAÇÃO INFANTIL
+#### 1. EDUCAÇÃO INFANTIL
 
 ##### 1.1 Diagnóstico
 
 A educação das crianças de zero a seis anos em estabelecimentos específicos de educação infantil vem crescendo no mundo inteiro e de forma bastante acelerada, seja em decorrência da necessidade da família de contar  com  uma  instituição  que  se  encarregue  do  cuidado  e  da  educação  de  seus  filhos  pequenos, principalmente  quando  os  pais  trabalham  fora  de  casa,  seja  pelos  argumentos  advindos  das  ciências  que investigaram o processo de desenvolvimento da criança. Se a inteligência se forma a partir do nascimento e se há  "janelas  de  oportunidade"  na  infância  quando  um  determinado  estímulo  ou  experiência  exerce  maior influência  sobre  a  inteligência  do  que  em  qualquer  outra  época  da  vida,  descuidar  desse  período  significa desperdiçar um imenso potencial humano. Ao contrário, atendê-la com profissionais especializados capazes de fazer a mediação entre o que a criança já conhece e o que pode conhecer significa investir no desenvolvimento humano de forma inusitada. Hoje se sabe que há períodos cruciais no desenvolvimento, durante os quais o ambiente  pode  influenciar  a  maneira  como  o  cérebro  é  ativado  para  exercer  funções  em  áreas  como  a matemática, a linguagem, a música. Se essas oportunidades forem perdidas, será muito mais difícil obter os mesmos resultados mais tarde. À medida que essa ciência da criança se democratiza, a educação infantil ganha prestígio e interessados em investir nela. Não são apenas argumentos econômicos que têm levado governos, sociedade e famílias a investirem na atenção às crianças pequenas. Na base dessa questão está o direito ao cuidado e à  educação a partir do nascimento. A educação é elemento constitutivo da pessoa e, portanto, deve estar presente desde o momento em  que  ela  nasce,  como  meio  e  condição  de  formação,  desenvolvimento,  integração  social  e  realização pessoal.  Além  do  direito  da  criança,  a  Constituição  Federal  estabelece  o  direito  dos  trabalhadores,  pais  e responsáveis, à educação de seus filhos e dependentes de zero a seis anos. Mas o argumento social é o que mais tem pesado na expressão da demanda e no seu atendimento por parte do Poder Público. Ele deriva das condições limitantes das famílias trabalhadoras, monoparentais, nucleares, das de renda familiar insuficiente para prover os meios adequados para o cuidado e educação de seus filhos pequenos e da impossibilidade de a maioria  dos  pais  adquirirem  os  conhecimentos  sobre  o  processo  de  desenvolvimento  da  criança  que  a pedagogia  oferece.  Considerando  que  esses  fatores  continuam  presentes,  e  até  mais  agudos  nesses  anos recentes,  é  de  se  supor  que  a  educação  infantil  continuará  conquistando  espaço  no  cenário  educacional brasileiro como uma necessidade social. Isso, em parte, determinará a prioridade que as crianças das famílias de baixa renda terão na política de expansão da educação infantil. No entanto, é preciso evitar uma educação pobre para crianças pobres e a redução da qualidade à medida que se democratiza o acesso. No Brasil, a educação das crianças menores de 7 anos tem uma história de cento e cinqüenta anos. Seu crescimento,  no  entanto,  deu-se  principalmente  a  partir  dos  anos  70  deste  século  e  foi  mais  acelerado  até 1993. Em 1998, estava presente em 5.320 Municípios, que correspondem a 96,6% do total. A mobilização de organizações da sociedade civil, decisões políticas e programas governamentais têm sido meios eficazes de expansão das matrículas e de aumento da consciência social sobre o direito, a importância e a necessidade da educação infantil. É  preciso  analisar  separadamente  as  faixas  etárias  de  0  a  3  e  de  4  a  6  anos,  porque  foram  grupos tratados diferentemente, quer nos objetivos, quer por instituições que atuaram nesse campo, sejam públicas ou privadas.  A  primeira  faixa  esteve  predominantemente  sob  a  égide  da  assistência  social  e  tinha  uma característica mais assistencial, como cuidados físicos, saúde, alimentação. Atendia principalmente as crianças cujas mães trabalhavam fora de casa. Grande parte era atendida por instituições filantrópicas e associações comunitárias,  que  recebiam  apoio  financeiro  e,  em  alguns  casos,  orientação  pedagógica  de  algum  órgão público, como a antiga LBA. As estatísticas informavam sobre os atendimentos conveniados, não havendo um levantamento completo de quantas crianças estavam freqüentando algum tipo de instituição nessa faixa etária.
 
-Estimativas precárias indicavam, até alguns anos atrás, um número de 1.400.000 crianças atendidas na faixa de 0 a 3 anos. A Sinopse Estatística da Educação Básica reuniu dados de 1998 sobre a creche, indicando um atendimento  de  381.804  crianças,  em  idades  que  variam  de  menos  de  4  a  mais  de  9  anos.  São  dados incompletos, mesmo porque só agora as creches começam a registrar-se nos órgãos de cadastro educacional. Qualquer  número,  no  entanto,  será  uma  quantidade  muito  pequena  diante  da  magnitude  do  segmento populacional de 0 a 3 anos, constituído de 12 milhões de crianças.
+Estimativas precárias indicavam, até alguns anos atrás, um número de 1.400.000 crianças atendidas na faixa
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-A maioria dos ambientes não conta com profissionais qualificados, não desenvolve programa educacional, não  dispõe  de  mobiliário,  brinquedos  e  outros  materiais  pedagógicos  adequados.  Mas  deve-se  registrar, também, que existem creches de boa qualidade, com profissionais com formação e experiência no cuidado e educação de crianças, que desenvolvem proposta pedagógica de alta qualidade educacional. Bons materiais pedagógicos  e  uma  respeitável  literatura  sobre  organização  e  funcionamento  das  instituições  para  esse segmento etário vêm sendo produzidos nos últimos anos no país.
+de 0 a 3 anos. A Sinopse Estatística da Educação Básica reuniu dados de 1998 sobre a creche, indicando um atendimento de 381.804 crianças, em idades que variam de menos de 4 a mais de 9 anos. São dados incompletos, mesmo porque só agora as creches começam a registrar-se nos órgãos de cadastro educacional. Qualquer número, no entanto, será uma quantidade muito pequena diante da magnitude do segmento populacional de 0 a 3 anos, constituído de 12 milhões de crianças.
+
+A maioria dos ambientes não conta com profissionais qualificados, não desenvolve programa educacional, não dispõe de mobiliário, brinquedos e outros materiais pedagógicos adequados. Mas deve-se registrar, também, que existem creches de boa qualidade, com profissionais com formação e experiência no cuidado e educação de crianças, que desenvolvem proposta pedagógica de alta qualidade educacional. Bons materiais pedagógicos e uma respeitável literatura sobre organização e funcionamento das instituições para esse segmento etário vêm sendo produzidos nos últimos anos no país.
 
 Por determinação da LDB, as creches atenderão crianças de zero a três anos, ficando a faixa de 4 a 6 para  a  pré-escola,  e  deverão  adotar  objetivos  educacionais,  transformando-se  em  instituições  de  educação, segundo as diretrizes curriculares nacionais emanadas do Conselho Nacional de Educação. Essa determinação segue a melhor pedagogia, porque é nessa idade, precisamente, que os estímulos educativos têm maior poder de influência sobre a formação da personalidade e o desenvolvimento da criança. Trata-se de um tempo que não pode estar descurado ou mal orientado. Esse é um dos temas importantes para o PNE.
 
@@ -182,13 +185,15 @@ A  educação infantil é a primeira etapa da Educação Básica. Ela estabelece
 
 Essa educação se dá na família, na comunidade e nas instituições. As instituições de educação infantil vêm se tornando cada vez mais necessárias, como complementares à ação da família, o que já foi afirmado pelo mais importante documento internacional de educação deste século, a Declaração Mundial de Educação para Todos (Jomtien, Tailândia, 1990).
 
-Considera-se, no âmbito internacional, que a educação infantil terá um papel cada vez maior na formação integral  da  pessoa,  no  desenvolvimento  de  sua  capacidade  de  aprendizagem  e  na  elevação  do  nível  de inteligência  das  pessoas,  mesmo  porque  inteligência  não  é  herdada  geneticamente  nem  transmitida  pelo ensino,  mas  construída  pela  criança,  a  partir  do  nascimento,  na  interação  social  mediante  a  ação  sobre  os objetos, as circunstâncias e os fatos. Avaliações longitudinais, embora ainda em pequeno número, indicam os efeitos positivos da ação educacional nos primeiros anos de vida, em instituições específicas ou em programas de atenção educativa, quer sobre a vida acadêmica posterior, quer sobre outros aspectos da vida social. Há bastante segurança em afirmar que o investimento em educação infantil obtém uma taxa de retorno econômico superior a qualquer outro.
+Considera-se, no âmbito internacional, que a educação infantil terá um papel cada vez maior na formação integral da pessoa, no desenvolvimento de sua capacidade de aprendizagem e na elevação do nível de inteligência das pessoas, mesmo porque inteligência não é herdada geneticamente nem transmitida pelo
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-As  diretrizes  curriculares  nacionais  para  a  educação  infantil,  definidas  pelo  Conselho  Nacional  de Educação, consoante determina o art. 9 o , IV da LDB, complementadas pelas normas dos sistemas de ensino dos  Estados  e  Municípios,  estabelecem  os  marcos  para  a  elaboração  das  propostas  pedagógicas  para  as crianças de 0 a 6 anos.
+ensino, mas construída pela criança, a partir do nascimento, na interação social mediante a ação sobre os objetos, as circunstâncias e os fatos. Avaliações longitudinais, embora ainda em pequeno número, indicam os efeitos positivos da ação educacional nos primeiros anos de vida, em instituições específicas ou em programas de atenção educativa, quer sobre a vida acadêmica posterior, quer sobre outros aspectos da vida social. Há bastante segurança em afirmar que o investimento em educação infantil obtém uma taxa de retorno econômico superior a qualquer outro.
+
+As diretrizes curriculares nacionais para a educação infantil, definidas pelo Conselho Nacional de Educação, consoante determina o art. 9º, IV da LDB, complementadas pelas normas dos sistemas de ensino dos Estados e Municípios, estabelecem os marcos para a elaboração das propostas pedagógicas para as crianças de 0 a 6 anos.
 
 No horizonte dos dez anos deste Plano Nacional de Educação, a demanda de educação infantil poderá ser  atendida  com  qualidade,  beneficiando  a  toda  criança  que  necessite  e  cuja  família  queira  ter  seus  filhos freqüentando  uma  instituição  educacional.  Para  tanto,  requerem-se,  ademais  de  orientações  pedagógicas  e medidas administrativas conducentes à melhoria da qualidade dos serviços oferecidos, medidas de natureza política, tais como decisões e compromissos políticos dos governantes em relação às crianças
 
@@ -204,83 +209,92 @@ A formação dos profissionais da educação infantil merecerá uma atenção es
 
 Para orientar uma prática pedagógica condizente com os dados das ciências e mais respeitosa possível do processo unitário de desenvolvimento da criança, constitui diretriz importante a superação das dicotomias creche/pré-escola, assistência ou assistencialismo/ educação, atendimento a  carentes/educação  para classe média e outras, que orientações políticas e práticas sociais equivocadas foram produzindo ao longo da história. Educação e cuidados constituem um todo indivisível para crianças indivisíveis, num processo de desenvolvimento  marcado  por  etapas  ou  estágios  em  que  as  rupturas  são  bases  e  possibilidades  para  a seqüência. No período dos dez anos coberto por este plano, o Brasil poderá chegar a uma educação infantil que abarque o segmento etário 0 a 6 anos (ou 0 a 5, na medida em que as crianças de 6 anos ingressem no ensino fundamental) sem os percalços das passagens traumáticas, que exigem "adaptação" entre o que hoje constitui a creche e a pré-escola, como vem ocorrendo entre esta e a primeira série do ensino fundamental.
 
-As medidas propostas por este plano decenal para implementar as diretrizes e os referenciais curriculares nacionais  para  a  educação  infantil  se  enquadram  na  perspectiva  da  melhoria  da  qualidade.  No  entanto,  é preciso sublinhar que é uma diretriz nacional o respeito às diversidades regionais, aos valores e às expressões culturais  das  diferentes  localidades,  que  formam  a  base  sócio-histórica  sobre  a  qual  as  crianças  iniciam  a construção de suas personalidades. A educação infantil é um direito de toda criança e uma obrigação do Estado (art. 208, IV da Constituição Federal). A criança não está obrigada a freqüentar uma instituição de educação infantil, mas sempre que sua família deseje ou necessite, o Poder Público tem o dever de atendê-la. Em vista daquele direito e dos efeitos positivos  da  educação  infantil  sobre  o  desenvolvimento  e  a  aprendizagem  das  crianças,  já  constatado  por muitas pesquisas,  o atendimento de qualquer criança num estabelecimento de educação infantil é uma das mais sábias estratégias  de  desenvolvimento  humano,  de  formação  da  inteligência  e  da  personalidade,  com reflexos positivos sobre todo o processo de aprendizagem posterior. Por isso, no mundo inteiro, esse segmento da  educação  vem  crescendo  significativamente  e  vem  sendo  recomendado  por  organismos  e  conferências internacionais. Considerando, no entanto, as condições concretas de nosso País, sobretudo no que se refere à limitação de meios financeiros e técnicos, este plano propõe que a oferta pública de educação infantil conceda prioridade às  crianças  das  famílias  de  menor  renda,  situando  as  instituições  de  educação  infantil  nas  áreas  de  maior necessidade e nelas concentrando o melhor de seus recursos técnicos e pedagógicos. Deve-se contemplar, também, a necessidade do atendimento em tempo integral para as crianças de idades menores, das famílias de renda mais baixa, quando os pais trabalham fora de casa. Essa prioridade não pode, em hipótese alguma, caracterizar  a  educação  infantil  pública  como  uma  ação  pobre  para  pobres.  O  que  este  plano  recomenda  é uma  educação  de  qualidade  prioritariamente  para  as  crianças  mais  sujeitas  à  exclusão  ou  vítimas  dela.  A expansão que se verifica no atendimento das crianças de 6 e 5 anos de idade, conduzirá invariavelmente à universalização, transcendendo a questão da renda familiar. A norma constitucional de integração das crianças especiais no sistema regular será, na educação infantil, implementada  através  de  programas  específicos  de  orientação  aos  pais,  qualificação  dos  professores, adaptação dos estabelecimentos quanto às condições físicas, mobiliário, equipamentos e materiais pedagógicos.  Quando  a  avaliação  recomendar  atendimento  especializado  em  estabelecimentos  específicos, diretrizes para essa modalidade constarão do capítulo sobre educação especial.
+As medidas propostas por este plano decenal para implementar as diretrizes e os referenciais curriculares nacionais para a educação infantil se enquadram na perspectiva da melhoria da qualidade. No entanto, é preciso sublinhar que é uma diretriz nacional o respeito às diversidades regionais, aos valores e às expressões
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
+culturais das diferentes localidades, que formam a base sócio-histórica sobre a qual as crianças iniciam a construção de suas personalidades.
+
+A educação infantil é um direito de toda criança e uma obrigação do Estado (art. 208, IV da Constituição Federal). A criança não está obrigada a freqüentar uma instituição de educação infantil, mas sempre que sua família deseje ou necessite, o Poder Público tem o dever de atendê-la. Em vista daquele direito e dos efeitos positivos da educação infantil sobre o desenvolvimento e a aprendizagem das crianças, já constatado por muitas pesquisas, o atendimento de qualquer criança num estabelecimento de educação infantil é uma das mais sábias estratégias de desenvolvimento humano, de formação da inteligência e da personalidade, com reflexos positivos sobre todo o processo de aprendizagem posterior. Por isso, no mundo inteiro, esse segmento da educação vem crescendo significativamente e vem sendo recomendado por organismos e conferências internacionais.
+
+Considerando, no entanto, as condições concretas de nosso País, sobretudo no que se refere à limitação de meios financeiros e técnicos, este plano propõe que a oferta pública de educação infantil conceda prioridade às crianças das famílias de menor renda, situando as instituições de educação infantil nas áreas de maior necessidade e nelas concentrando o melhor de seus recursos técnicos e pedagógicos. Deve-se contemplar, também, a necessidade do atendimento em tempo integral para as crianças de idades menores, das famílias de renda mais baixa, quando os pais trabalham fora de casa. Essa prioridade não pode, em hipótese alguma, caracterizar a educação infantil pública como uma ação pobre para pobres. O que este plano recomenda é uma educação de qualidade prioritariamente para as crianças mais sujeitas à exclusão ou vítimas dela. A expansão que se verifica no atendimento das crianças de 6 e 5 anos de idade, conduzirá invariavelmente à universalização, transcendendo a questão da renda familiar.
+
+A norma constitucional de integração das crianças especiais no sistema regular será, na educação infantil, implementada através de programas específicos de orientação aos pais, qualificação dos professores, adaptação dos estabelecimentos quanto às condições físicas, mobiliário, equipamentos e materiais pedagógicos. Quando a avaliação recomendar atendimento especializado em estabelecimentos específicos, diretrizes para essa modalidade constarão do capítulo sobre educação especial.
+
 ##### 1.3 Objetivos e Metas 1
 
-- Ampliar a oferta de educação infantil de forma a atender, em cinco anos, a 30% da população de até 3 anos de idade e 60% da população de 4 e 6 anos (ou 4 e 5 anos) e, até o final da década, alcançar a meta de 50% das crianças de 0 a 3 anos e 80% das de 4 e 5 anos.
+1. Ampliar a oferta de educação infantil de forma a atender, em cinco anos, a 30% da população de até 3 anos de idade e 60% da população de 4 a 6 anos (ou 4 e 5 anos) e, até o final da década, alcançar a meta de 50% das crianças de 0 a 3 anos e 80% das de 4 e 5 anos.
 
-- Elaborar,  no  prazo  de  um  ano,  padrões  mínimos  de  infra-estrutura  para  o  funcionamento  adequado  das instituições de educação infantil (creches e pré-escolas) públicas e privadas, que, respeitando as diversidades regionais,  assegurem  o  atendimento  das  características  das  distintas  faixas  etárias  e  das  necessidades  do processo educativo quanto a:
+2. Elaborar, no prazo de um ano, padrões mínimos de infra-estrutura para o funcionamento adequado das instituições de educação infantil (creches e pré-escolas) públicas e privadas, que, respeitando as diversidades regionais, assegurem o atendimento das características das distintas faixas etárias e das necessidades do processo educativo quanto a:
 
-- espaço  interno,  com  iluminação,  insolação,  ventilação,  visão  para  o  espaço  externo,  rede  elétrica  e segurança, água potável, esgotamento sanitário;
+a) espaço interno, com iluminação, insolação, ventilação, visão para o espaço externo, rede elétrica e segurança, água potável, esgotamento sanitário;
 
-- instalações sanitárias e para a higiene pessoal das crianças;
+b) instalações sanitárias e para a higiene pessoal das crianças;
 
-- instalações para preparo e/ou serviço de alimentação;
+c) instalações para preparo e/ou serviço de alimentação;
 
-- ambiente interno e externo para o desenvolvimento das atividades, conforme as diretrizes curriculares e a metodologia da educação infantil, incluindo o repouso, a expressão livre, o movimento e o brinquedo;
+d) ambiente interno e externo para o desenvolvimento das atividades, conforme as diretrizes curriculares e a metodologia da educação infantil, incluindo o repouso, a expressão livre, o movimento e o brinquedo;
 
-- mobiliário, equipamentos e materiais pedagógicos;
+e) mobiliário, equipamentos e materiais pedagógicos;
 
-- adequação às características das crianças especiais.**
+f) adequação às características das crianças especiais.**
 
-- A  partir  do  segundo  ano  deste  plano,  somente  autorizar  construção  e  funcionamento  de  instituições  de educação  infantil,  públicas  ou  privadas,  que  atendam  aos  requisitos  de  infra-estrutura  definidos  no  item anterior.
+3. A partir do segundo ano deste plano, somente autorizar construção e funcionamento de instituições de educação infantil, públicas ou privadas, que atendam aos requisitos de infra-estrutura definidos no item anterior.
 
-- Adaptar os prédios de educação infantil de sorte que, em cinco anos, todos estejam conformes aos padrões mínimos de infra-estrutura estabelecidos.
+4. Adaptar os prédios de educação infantil de sorte que, em cinco anos, todos estejam conformes aos padrões mínimos de infra-estrutura estabelecidos.
 
-- Estabelecer um Programa Nacional de Formação dos Profissionais de educação infantil, com a colaboração da  União,  Estados  e  Municípios,  inclusive  das  universidades  e institutos  superiores  de  educação  e organizações não-governamentais, que realize as seguintes metas:
+5. Estabelecer um Programa Nacional de Formação dos Profissionais de educação infantil, com a colaboração da União, Estados e Municípios, inclusive das universidades e institutos superiores de educação e organizações não-governamentais, que realize as seguintes metas:
 
-- que, em cinco anos, todos os dirigentes de instituições de educação infantil possuam formação apropriada em nível médio (modalidade Normal) e, em dez anos, formação de nível superior;
+a) que, em cinco anos, todos os dirigentes de instituições de educação infantil possuam formação apropriada em nível médio (modalidade Normal) e, em dez anos, formação de nível superior;
 
-- que, em cinco anos, todos os professores tenham habilitação específica de nível médio e, em dez anos, 70% tenham formação específica de nível superior.**
+b) que, em cinco anos, todos os professores tenham habilitação específica de nível médio e, em dez anos, 70% tenham formação específica de nível superior.**
 
 [[END OF PAGE 10]]
 
 [[START OF PAGE 11]]
 
-- A partir da vigência deste plano, somente admitir novos profissionais na educação infantil que possuam a titulação  mínima  em  nível  médio,  modalidade  normal,  dando-se  preferência  à  admissão  de  profissionais graduados em curso específico de nível superior.
+6. A partir da vigência deste plano, somente admitir novos profissionais na educação infantil que possuam a titulação mínima em nível médio, modalidade normal, dando-se preferência à admissão de profissionais graduados em curso específico de nível superior.
 
-- No prazo máximo de três anos a contar do início deste plano, colocar em execução programa de formação em serviço, em cada município ou por grupos de Município, preferencialmente em articulação com instituições de  ensino  superior,  com  a  cooperação  técnica  e  financeira  da  União  e  dos  Estados,  para  a  atualização permanente e o aprofundamento dos conhecimentos dos profissionais que atuam na educação infantil, bem como para a formação do pessoal auxiliar.**
+7. No prazo máximo de três anos a contar do início deste plano, colocar em execução programa de formação em serviço, em cada município ou por grupos de Município, preferencialmente em articulação com instituições de ensino superior, com a cooperação técnica e financeira da União e dos Estados, para a atualização permanente e o aprofundamento dos conhecimentos dos profissionais que atuam na educação infantil, bem como para a formação do pessoal auxiliar.**
 
-- Assegurar que, em dois anos, todos os Municípios tenham definido sua política para a educação infantil, com base  nas  diretrizes  nacionais,  nas  normas  complementares  estaduais  e  nas  sugestões  dos  referenciais curriculares nacionais.
+8. Assegurar que, em dois anos, todos os Municípios tenham definido sua política para a educação infantil, com base nas diretrizes nacionais, nas normas complementares estaduais e nas sugestões dos referenciais curriculares nacionais.
 
-- Assegurar  que,  em  três  anos,  todas  as  instituições  de  educação  infantil  tenham  formulado,  com  a participação dos profissionais de educação neles envolvidos, seus projetos pedagógicos.**
+9. Assegurar que, em três anos, todas as instituições de educação infantil tenham formulado, com a participação dos profissionais de educação neles envolvidos, seus projetos pedagógicos.**
 
-- Estabelecer em todos os Municípios, no prazo de três anos, sempre que possível em articulação com as instituições de ensino superior que tenham experiência na área, um sistema de acompanhamento, controle e supervisão  da  educação  infantil,  nos  estabelecimentos  públicos  e  privados,  visando  ao  apoio  técnicopedagógico para a melhoria da qualidade e à garantia do cumprimento dos padrões mínimos estabelecidos pelas diretrizes nacionais e estaduais.
+10. Estabelecer em todos os Municípios, no prazo de três anos, sempre que possível em articulação com as instituições de ensino superior que tenham experiência na área, um sistema de acompanhamento, controle e supervisão da educação infantil, nos estabelecimentos públicos e privados, visando ao apoio técnico-pedagógico para a melhoria da qualidade e à garantia do cumprimento dos padrões mínimos estabelecidos pelas diretrizes nacionais e estaduais.
 
-- Instituir mecanismos de colaboração entre os setores da educação, saúde e assistência na manutenção, expansão, administração, controle e avaliação das instituições de atendimento das crianças de 0 a 3 anos de idade.**
+11. Instituir mecanismos de colaboração entre os setores da educação, saúde e assistência na manutenção, expansão, administração, controle e avaliação das instituições de atendimento das crianças de 0 a 3 anos de idade.**
 
-- Garantir  a  alimentação  escolar  para  as  crianças  atendidas  na  educação  infantil,  nos  estabelecimentos públicos e conveniados, através da colaboração financeira da União e dos Estados.**
+12. Garantir a alimentação escolar para as crianças atendidas na educação infantil, nos estabelecimentos públicos e conveniados, através da colaboração financeira da União e dos Estados.**
 
-- Assegurar, em todos os Municípios, o fornecimento de materiais pedagógicos adequados às faixas etárias e  às  necessidades  do  trabalho  educacional,  de  forma  que,  em  cinco  anos,  sejam  atendidos  os  padrões mínimos de infra-estrutura definidos na meta nº 2. **
+13. Assegurar, em todos os Municípios, o fornecimento de materiais pedagógicos adequados às faixas etárias e às necessidades do trabalho educacional, de forma que, em cinco anos, sejam atendidos os padrões mínimos de infra-estrutura definidos na meta nº 2. **
 
-- Incluir as creches ou entidades equivalentes no sistema nacional de estatísticas educacionais, no prazo de três anos.*
+14. Incluir as creches ou entidades equivalentes no sistema nacional de estatísticas educacionais, no prazo de três anos.*
 
-- Extinguir  as  classes  de  alfabetização  incorporando  imediatamente  as  crianças  no  ensino  fundamental  e matricular, também, naquele nível todas as crianças de 7 anos ou mais que se encontrem na educação infantil.
+15. Extinguir as classes de alfabetização incorporando imediatamente as crianças no ensino fundamental e matricular, também, naquele nível todas as crianças de 7 anos ou mais que se encontrem na educação infantil.
 
-- Implantar conselhos escolares e outras formas de participação da comunidade escolar e local na melhoria do funcionamento das instituições de educação infantil e no enriquecimento das oportunidades educativas e dos recursos pedagógicos.
+16. Implantar conselhos escolares e outras formas de participação da comunidade escolar e local na melhoria do funcionamento das instituições de educação infantil e no enriquecimento das oportunidades educativas e dos recursos pedagógicos.
 
-- Estabelecer, até o final da década, em todos os Municípios e com a colaboração dos setores responsáveis pela educação, saúde e assistência social e de organizações não-governamentais, programas de orientação e apoio  aos  pais  com  filhos  entre  0  e  3  anos,  oferecendo,  inclusive,  assistência  financeira,  jurídica  e  de suplementação alimentar nos casos de pobreza, violência doméstica e desagregação familiar extrema.**
+17. Estabelecer, até o final da década, em todos os Municípios e com a colaboração dos setores responsáveis pela educação, saúde e assistência social e de organizações não-governamentais, programas de orientação e apoio aos pais com filhos entre 0 e 3 anos, oferecendo, inclusive, assistência financeira, jurídica e de suplementação alimentar nos casos de pobreza, violência doméstica e desagregação familiar extrema.**
 
-- Adotar progressivamente o atendimento em tempo integral para as crianças de 0 a 6 anos.
+18. Adotar progressivamente o atendimento em tempo integral para as crianças de 0 a 6 anos.
 
-- Estabelecer parâmetros de qualidade dos serviços de educação infantil, como referência para a supervisão, o controle e a avaliação, e como instrumento para a adoção das medidas de melhoria da qualidade.**
+19. Estabelecer parâmetros de qualidade dos serviços de educação infantil, como referência para a supervisão, o controle e a avaliação, e como instrumento para a adoção das medidas de melhoria da qualidade.**
 
-- Promover debates com a sociedade civil sobre o direito dos trabalhadores à assistência gratuita a seus filhos  e  dependentes  em  creches  e  pré-escolas,  estabelecido  no  art.  7 o ,  XXV,  da  Constituição  Federal.  ** Encaminhar ao Congresso Nacional projeto de lei visando à regulamentação daquele dispositivo. *
+20. Promover debates com a sociedade civil sobre o direito dos trabalhadores à assistência gratuita a seus filhos e dependentes em creches e pré-escolas, estabelecido no art. 7º, XXV, da Constituição Federal. **
+Encaminhar ao Congresso Nacional projeto de lei visando à regulamentação daquele dispositivo. *
 
-- Assegurar  que,  em  todos  os  Municípios,  além  de  outros  recursos  municipais  os  10%  dos  recursos  de manutenção e desenvolvimento do ensino não vinculados ao FUNDEF sejam aplicados, prioritariamente, na educação infantil.**
+21. Assegurar que, em todos os Municípios, além de outros recursos municipais os 10% dos recursos de manutenção e desenvolvimento do ensino não vinculados ao FUNDEF sejam aplicados, prioritariamente, na educação infantil.**
 
-(VETADO)
+22. (VETADO)
 
-- Realizar estudos sobre custo da educação infantil com base nos parâmetros de qualidade, com vistas a melhorar a eficiência e garantir a generalização da qualidade do atendimento.**
+23. Realizar estudos sobre custo da educação infantil com base nos parâmetros de qualidade, com vistas a melhorar a eficiência e garantir a generalização da qualidade do atendimento.**
 
-- Ampliar  a  oferta  de  cursos  de  formação  de  professores  de  educação  infantil  de  nível  superior,  com conteúdos específicos, prioritariamente nas regiões onde o déficit de qualificação é maior, de modo a atingir a meta estabelecida pela LDB para a década da educação.**
+24. Ampliar a oferta de cursos de formação de professores de educação infantil de nível superior, com conteúdos específicos, prioritariamente nas regiões onde o déficit de qualificação é maior, de modo a atingir a meta estabelecida pela LDB para a década da educação.**
 
-- Exercer  a  ação  supletiva  da  União  e  do  Estado  junto  aos  Municípios  que  apresentem  maiores necessidades técnicas e financeiras, nos termos dos arts. 30, VI e 211, § 1º, da Constituição Federal.**
+25. Exercer a ação supletiva da União e do Estado junto aos Municípios que apresentem maiores necessidades técnicas e financeiras, nos termos dos arts. 30, VI e 211, § 1º, da Constituição Federal.**
 
 [[END OF PAGE 11]]
 
@@ -310,10 +324,9 @@ Tabela 1 - Matrícula, em 25/3/98, no ensino fundamental, por Faixa Etária e Lo
 
 [[START OF PAGE 13]]
 
-Unidade da Federação | Matrícula por Faixa Etária e Localização
+Matrícula por Faixa Etária e Localização
+Unidade da Federação | Total: Total | Total: Menos de 7 anos | Total: De 7 a 14 anos | Total: De 15 a 19 anos | Total: Mais de 19 anos | Rural: Total | Rural: Menos de 7 anos | Rural: De 7 a 14 anos | Rural: De 15 a 19 anos | Rural: Mais de 19 anos
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Total | Rural
-Total | Menos de 7 anos | De 7 a Anos | 14 De 15 a anos | 19 Mais de 19 anos | Total | Menos anos | 7 De 7 a anos | 14 De 15 a anos | 19 Mais de 19 anos
 Brasil | 35.792.554 | 449.279 | 26.870.018 | 7.097.448 | 1.375.809 | 6.663.506 | 147.566 | 5.156.473 | 1.137.652 | 221.815
 Norte | 3.207.880 | 36.561 | 2.377.054 | 664.080 | 130.185 | 974.716 | 19.782 | 750.146 | 171.836 | 32.952
 Rondônia | 308.992 | 2.050 | 244.847 | 53.991 | 8.104 | 85.331 | 479 | 71.060 | 11.578 | 2.214
@@ -331,7 +344,7 @@ R.G.do Norte | 650.711 | 10.916 | 472.791 | 142.470 | 24.534 | 149.082 | 4.518 |
 Paraíba | 882.868 | 12.103 | 604.904 | 215.175 | 50.686 | 241.278 | 4.616 | 184.815 | 43.558 | 8.289
 Pernambuco | 1.818.479 | 16.780 | 1.297.492 | 412.394 | 91.813 | 464.679 | 7.440 | 364.690 | 80.995 | 11.554
 Alagoas | 688.285 | 10.117 | 485.382 | 159.822 | 32.964 | 242.813 | 6.008 | 185.365 | 44.723 | 6.717
-Sergipe | 436.631 | 2.728 | 296.161 | 11.266 | 264.766 | 117.648 | 1.197 | 91.466 | 20.630 | 4.355
+Sergipe | 436.631 | 2.728 | 296.161 | 111.266 | 26.476 | 117.648 | 1.197 | 91.466 | 20.630 | 4.355
 Bahia | 3.553.446 | 63.948 | 2.251.446 | 951.786 | 286.266 | 1.187.987 | 31.127 | 849.142 | 250.378 | 57.340
 Sudeste | 13.249.814 | 71.441 | 10.431.785 | 2.369.062 | 377.526 | 952.847 | 10.698 | 787.539 | 126.881 | 27.729
 Minas Gerais | 3.857.553 | 28.472 | 2.770.672 | 810.408 | 248.001 | 532.361 | 4.686 | 428.262 | 77.248 | 22.165
@@ -373,14 +386,22 @@ Nordeste
 1996 | 9.180.333 | 10.475.469 | 114,1 | 7.601.089 | 82,8
 Sudeste
 1991 | 10.737.330 | 11.965.480 | 111,4 | 10.185.214 | 94,9
-1Temos, portanto, uma situação de inchaço nas matrículas do ensino fundamental, que decorre basicamente da distorção idade-série, a qual, por sua vez, é conseqüência dos elevados índices de reprovação. De acordo com o censo escolar de 1996, mais de 46% dos alunos do ensino fundamental têm idade superior à faixa etária correspondente a cada série. No Nordeste essa situação é mais dramática, chegando a 64% o índice de distorção. Esse problema dá a exata dimensão do grau de | 11.127.665 | 12.958.674 | 116,5 | 10.558.852 | 94,9
+1996 | 11.127.665 | 12.958.674 | 116,5 | 10.558.852 | 94,9
+Temos, portanto, uma situação de inchaço nas matrículas do ensino fundamental, que decorre basicamente da distorção idade-série, a qual, por sua vez, é conseqüência dos elevados índices de reprovação. De acordo com o censo escolar de 1996, mais de 46% dos alunos do ensino fundamental têm idade superior à faixa etária correspondente a cada série. No Nordeste essa situação é mais dramática, chegando a 64% o índice de distorção. Esse problema dá a exata dimensão do grau de
 
 [[END OF PAGE 14]]
 
 [[START OF PAGE 15]]
 
-ineficiência do sistema educacional do País: os alunos levam em média 10,4 anos para completar as oito séries do ensino fundamental. Tomando como referência apenas as crianças de 14 anos, verificamos que, em 1998, dos 3,5 milhões de adolescentes nessa faixa etária, apenas cerca de 622 mil freqüentavam a 8a série do ensino fundamental. Além de indicar atraso no percurso escolar dos alunos, o que tem sido um dos principais fatores de evasão, a situação de distorção idade- série provoca custos adicionais aos sistemas de ensino, mantendo as crianças por período excessivamente longo no ensino fundamental. A correção dessa distorção abre a perspectiva de, mantendo-se o atual número de vagas, ampliar o ensino obrigatório para nove séries, com início aos seis anos de idade. Esta medida é importante porque, em comparação com os demais países, o ingresso no ensino fundamental é relativamente tardio no Brasil, sendo de seis anos a idade padrão na grande maioria dos sistemas, inclusive nos demais países da América Latina. Corrigir essa situação constitui prioridade da política educacional. Tendo em vista este conjunto de dados e a extensão das matrículas no ensino fundamental, é surpreendente e inaceitável que ainda haja crianças fora da escola. O problema da exclusão ainda é grande no Brasil. De acordo com a contagem da população realizada pelo IBGE em julho de 1996, são cerca de 2,7 milhões de crianças de 7 a 14 anos fora da escola, parte das quais nela já esteve e a abandonou. Uma parcela dessa população pode ser reincorporada à escola regular e outra precisa ser atingida pelos programas de educação de jovens e adultos. A existência de crianças fora da escola e as taxas de analfabetismo estão estreitamente associadas. Trata-se, em ambos os casos, de problemas localizados, concentrando-se em bolsões de pobreza existentes nas periferias urbanas e nas áreas rurais. Na maioria das situações, o fato de ainda haver crianças fora da escola não tem como causa determinante o déficit de vagas, está relacionado à precariedade do ensino e às condições de exclusão e marginalidade social em que vivem segmentos da população brasileira. Não basta, portanto, abrir
----
+ineficiência do sistema educacional do País: os alunos levam em média 10,4 anos para completar as oito séries do ensino fundamental.
+
+Tomando como referência apenas as crianças de 14 anos, verificamos que, em 1998, dos 3,5 milhões de adolescentes nessa faixa etária, apenas cerca de 622 mil freqüentavam a 8ª série do ensino fundamental. Além de indicar atraso no percurso escolar dos alunos, o que tem sido um dos principais fatores de evasão, a situação de distorção idade-série provoca custos adicionais aos sistemas de ensino, mantendo as crianças por período excessivamente longo no ensino fundamental. A correção dessa distorção abre a perspectiva de, mantendo-se o atual número de vagas, ampliar o ensino obrigatório para nove séries, com início aos seis anos de idade. Esta medida é importante porque, em comparação com os demais países, o ingresso no ensino fundamental é relativamente tardio no Brasil, sendo de seis anos a idade padrão na grande maioria dos sistemas, inclusive nos demais países da América Latina. Corrigir essa situação constitui prioridade da política educacional.
+
+Tendo em vista este conjunto de dados e a extensão das matrículas no ensino fundamental, é surpreendente e inaceitável que ainda haja crianças fora da escola. O problema da exclusão ainda é grande no Brasil. De acordo com a contagem da população realizada pelo IBGE em julho de 1996, são cerca de 2,7 milhões de crianças de 7 a 14 anos fora da escola, parte das quais nela já esteve e a abandonou. Uma parcela dessa população pode ser reincorporada à escola regular e outra precisa ser atingida pelos programas de educação de jovens e adultos.
+
+A existência de crianças fora da escola e as taxas de analfabetismo estão estreitamente associadas. Trata-se, em ambos os casos, de problemas localizados, concentrando-se em bolsões de pobreza existentes nas periferias urbanas e nas áreas rurais.
+
+Na maioria das situações, o fato de ainda haver crianças fora da escola não tem como causa determinante o déficit de vagas, está relacionado à precariedade do ensino e às condições de exclusão e marginalidade social em que vivem segmentos da população brasileira. Não basta, portanto, abrir
 
 [[END OF PAGE 15]]
 
@@ -388,145 +409,189 @@ ineficiência do sistema educacional do País: os alunos levam em média 10,4 an
 
 vagas. Programas paralelos de assistência a famílias são fundamentais para o acesso à escola e a permanência nela, da população muito pobre, que depende, para sua subsistência, do trabalho infantil. A desigualdade regional é grave, tanto em termos de cobertura como de sucesso escolar. Apesar do expressivo aumento de 9 pontos percentuais de crescimento entre 1991 e 1998, as regiões Norte e Nordeste continuam apresentando as piores taxas de escolarização do País. O Fundo Nacional de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, assim como o Projeto Nordeste/Fundescola, devem garantir os recursos para a correção dessas desigualdades. É preciso que a União continue atenta a este problema, priorizando o auxílio técnico e financeiro para as regiões que apresentam maiores deficiências.
 ##### 2.2 Diretrizes
-As diretrizes norteadoras da educação fundamental estão contidas na Constituição Federal, na Lei de Diretrizes e Bases da Educação Nacional e nas Diretrizes Curriculares para o ensino fundamental. Nos cinco primeiros anos de vigência deste plano, o ensino fundamental deverá atingir a sua universalização, sob a responsabilidade do Poder Público, considerando a indissociabilidade entre acesso, permanência e qualidade da educação escolar. O direito ao ensino fundamental não se refere apenas à matrícula, mas ao ensino de qualidade, até a conclusão. O atraso no percurso escolar resultante da repetência e da evasão sinaliza para a necessidade de políticas educacionais destinadas à correção das distorções idade-série. A expressiva presença de jovens com mais de 14 anos no ensino fundamental demanda a criação de condições próprias para a aprendizagem dessa faixa etária, adequadas à sua maneira de usar o espaço, o tempo, os recursos didáticos e às formas peculiares com que a juventude tem de conviver. A oferta qualitativa deverá, em decorrência, regularizar os percursos escolares, permitindo que crianças e adolescentes permaneçam na escola o tempo necessário para concluir este nível de ensino,
----
+As diretrizes norteadoras da educação fundamental estão contidas na Constituição Federal, na Lei de Diretrizes e Bases da Educação Nacional e nas Diretrizes Curriculares para o ensino fundamental.
+
+Nos cinco primeiros anos de vigência deste plano, o ensino fundamental deverá atingir a sua universalização, sob a responsabilidade do Poder Público, considerando a indissociabilidade entre acesso, permanência e qualidade da educação escolar. O direito ao ensino fundamental não se refere apenas à matrícula, mas ao ensino de qualidade, até a conclusão.
+
+O atraso no percurso escolar resultante da repetência e da evasão sinaliza para a necessidade de políticas educacionais destinadas à correção das distorções idade-série. A expressiva presença de jovens com mais de 14 anos no ensino fundamental demanda a criação de condições próprias para a aprendizagem dessa faixa etária, adequadas à sua maneira de usar o espaço, o tempo, os recursos didáticos e às formas peculiares com que a juventude tem de conviver.
+
+A oferta qualitativa deverá, em decorrência, regularizar os percursos escolares, permitindo que crianças e adolescentes permaneçam na escola o tempo necessário para concluir este nível de ensino, eliminando mais celeremente o analfabetismo e
 
 [[END OF PAGE 16]]
 
 [[START OF PAGE 17]]
 
-elevando gradativamente a escolaridade da população brasileira. A ampliação da jornada escolar para turno integral tem dado bons resultados. O atendimento em tempo integral, oportunizando orientação no cumprimento dos deveres escolares, prática de esportes, desenvolvimento de atividades artísticas e alimentação adequada, no mínimo em duas refeições, é um avanço significativo para diminuir as desigualdades sociais e ampliar democraticamente as oportunidades de aprendizagem. O turno integral e as classes de aceleração são modalidades inovadoras na tentativa de solucionar a universalização do ensino e minimizar a repetência. A LDB, em seu art. 34, § 2º, preconiza a progressiva implantação do ensino em tempo integral, a critério dos sistemas de ensino, para os alunos do ensino fundamental. À medida que forem sendo implantadas as escolas de tempo integral, mudanças significativas deverão ocorrer quanto à expansão da rede física, atendimento diferenciado da alimentação escolar e disponibilidade de professores, considerando a especificidade de horários. Além do atendimento pedagógico, a escola tem responsabilidades sociais que extrapolam o simples ensinar, especialmente para crianças carentes. Para garantir um melhor equilíbrio e desempenho dos seus alunos, faz-se necessário ampliar o atendimento social, sobretudo nos Municípios de menor renda, com procedimentos como renda mínima associada à educação, alimentação escolar, livro didático e transporte escolar. A escola rural requer um tratamento diferenciado, pois a oferta de ensino fundamental precisa chegar a todos os recantos do País e a ampliação da oferta de quatro séries regulares em substituição às classes isoladas unidocentes é meta a ser perseguida, consideradas as peculiaridades regionais e a sazonalidade. Reforçando o projeto político-pedagógico da escola, como a própria expressão da organização educativa da unidade escolar, surgem os conselhos escolares, que deverão orientar-se pelo princípio democrático da participação. A gestão da educação e a cobrança de resultados, tanto das metas como dos objetivos propostos neste plano, envolverão comunidade, alunos, pais, professores e demais
----
+elevando gradativamente a escolaridade da população brasileira. A ampliação da jornada escolar para turno integral tem dado bons resultados. O atendimento em tempo integral, oportunizando orientação no cumprimento dos deveres escolares, prática de esportes, desenvolvimento de atividades artísticas e alimentação adequada, no mínimo em duas refeições, é um avanço significativo para diminuir as desigualdades sociais e ampliar democraticamente as oportunidades de aprendizagem.
+
+O turno integral e as classes de aceleração são modalidades inovadoras na tentativa de solucionar a universalização do ensino e minimizar a repetência.
+
+A LDB, em seu art. 34, § 2º, preconiza a progressiva implantação do ensino em tempo integral, a critério dos sistemas de ensino, para os alunos do ensino fundamental. À medida que forem sendo implantadas as escolas de tempo integral, mudanças significativas deverão ocorrer quanto à expansão da rede física, atendimento diferenciado da alimentação escolar e disponibilidade de professores, considerando a especificidade de horários.
+
+Além do atendimento pedagógico, a escola tem responsabilidades sociais que extrapolam o simples ensinar, especialmente para crianças carentes. Para garantir um melhor equilíbrio e desempenho dos seus alunos, faz-se necessário ampliar o atendimento social, sobretudo nos Municípios de menor renda, com procedimentos como renda mínima associada à educação, alimentação escolar, livro didático e transporte escolar.
+
+A escola rural requer um tratamento diferenciado, pois a oferta de ensino fundamental precisa chegar a todos os recantos do País e a ampliação da oferta de quatro séries regulares em substituição às classes isoladas unidocentes é meta a ser perseguida, consideradas as peculiaridades regionais e a sazonalidade.
+
+Reforçando o projeto político-pedagógico da escola, como a própria expressão da organização educativa da unidade escolar, surgem os conselhos escolares, que deverão orientar-se pelo princípio democrático da participação. A gestão da educação e a cobrança de resultados, tanto das metas como dos objetivos propostos neste plano, envolverão comunidade, alunos, pais, professores e demais
 
 [[END OF PAGE 17]]
 
 [[START OF PAGE 18]]
 
-trabalhadores da educação. A atualidade do paradigma curricular interdisciplinaridade, abre desenvolvimento de habilidades novo mundo que se desenha. pedagógicas, embasadas sinalizaram a reforma Parâmetros Curriculares como importante proposta os professores. Os temas cotidiano da maioria da composto pelas disciplinas inserção de temas transversais ambiente, pluralidade cultural, entre outros. Esta estrutura sempre em consonância do Conselho Nacional de de educação dos Estados Deve-se assegurar física das escolas, generalizando condições para a utilização educacionais em multimídia, a construção física, com portadores de necessidades espaços especializados culturais, esportivas, recreativas equipamentos. É preciso avançar formação e de qualificação de cursos para a habilitação do magistério deverá ser das instituições de educação de ensino. E, finalmente, aperfeiçoamento do censo Sistema Nacional de Avaliação (SAEB), e a criação de nos Estados e Municípios acompanhamento da podendo dimensionar perspectivas do ensino médio
+trabalhadores da educação.
+
+A atualidade do currículo, valorizando um paradigma curricular que possibilite a interdisciplinaridade, abre novas perspectivas no desenvolvimento de habilidades para dominar esse novo mundo que se desenha. As novas concepções pedagógicas, embasadas na ciência da educação, sinalizaram a reforma curricular expressa nos Parâmetros Curriculares Nacionais, que surgiram como importante proposta e eficiente orientação para os professores. Os temas estão vinculados ao cotidiano da maioria da população. Além do currículo composto pelas disciplinas tradicionais, propõem a inserção de temas transversais como ética, meio ambiente, pluralidade cultural, trabalho e consumo, entre outros. Esta estrutura curricular deverá estar sempre em consonância com as diretrizes emanadas do Conselho Nacional de Educação e dos conselhos de educação dos Estados e Municípios.
+
+Deve-se assegurar a melhoria da infra-estrutura física das escolas, generalizando inclusive as condições para a utilização das tecnologias educacionais em multimídia, contemplando-se desde a construção física, com adaptações adequadas a portadores de necessidades especiais, até os espaços especializados de atividades artístico-culturais, esportivas, recreativas e a adequação de equipamentos.
+
+É preciso avançar mais nos programas de formação e de qualificação de professores. A oferta de cursos para a habilitação de todos os profissionais do magistério deverá ser um compromisso efetivo das instituições de educação superior e dos sistemas de ensino.
+
+E, finalmente, a consolidação e o aperfeiçoamento do censo escolar, assim como do Sistema Nacional de Avaliação da Educação Básica (SAEB), e a criação de sistemas complementares nos Estados e Municípios permitirão um permanente acompanhamento da situação escolar do País, podendo dimensionar as necessidades e perspectivas do ensino médio e superior.
+
 ##### 2.3 Objetivos e Metas 2
-1. Universalizar o atendimento ensino fundamental, no da data de aprovação acesso e a permanência
----
+1. Universalizar o atendimento de toda a clientela do ensino fundamental, no prazo de cinco anos a partir da data de aprovação deste plano, garantindo o acesso e a permanência de todas as crianças na
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
 
-escola, estabelecendo em regiões em que se demonstrar necessário programas específicos, com a colaboração da União, dos Estados e dos Municípios.** 2 . Ampliar para nove anos a duração do ensino fundamental obrigatório com início aos seis anos de idade, à medida que for sendo universalizado o atendimento na faixa de 7 a 14 anos.* 3. Regularizar o fluxo escolar reduzindo em 50%, em cinco anos, as taxas de repetência e evasão, por meio de programas de aceleração da aprendizagem e de recuperação paralela ao longo do curso, garantindo efetiva aprendizagem. 4. Elaborar, no prazo de um ano, padrões mínimos nacionais de infra-estrutura para o ensino fundamental, compatíveis com o tamanho dos estabelecimentos e com as realidades regionais, incluindo:** a) espaço, iluminação, insolação, ventilação, água potável, rede elétrica, segurança e temperatura ambiente; b) instalações sanitárias e para higiene; c) espaços para esporte, recreação, biblioteca e serviço de merenda escolar; d) adaptação dos edifícios escolares para o atendimento dos alunos portadores de necessidades especiais; e) atualização e ampliação do acervo das bibliotecas; f) mobiliário, equipamentos e materiais pedagógicos; g) telefone e serviço de reprodução de textos; h) informática e equipamento multimídia para o ensino. 5. A partir do segundo ano da vigência deste plano, somente autorizar a construção e funcionamento de escolas que atendam aos requisitos de infra-estrutura definidos.** 6. Assegurar que, em cinco anos, todas as escolas atendam os ítens de "a" a "d" e, em dez anos, a totalidade dos ítens.** 7. Estabelecer, em todos os sistemas de ensino e com o apoio da União e da comunidade escolar, programas para equipar todas as escolas, gradualmente, com os equipamentos discriminados nos ítens de "e" a "h".** 8. Assegurar que, em três anos, todas as escolas tenham formulado seus projetos pedagógicos, com observância das Diretrizes Curriculares para o ensino
----
+escola, estabelecendo em regiões em que se demonstrar necessário programas específicos, com a colaboração da União, dos Estados e dos Municípios.**
+
+2. Ampliar para nove anos a duração do ensino fundamental obrigatório com início aos seis anos de idade, à medida que for sendo universalizado o atendimento na faixa de 7 a 14 anos.*
+
+3. Regularizar o fluxo escolar reduzindo em 50%, em cinco anos, as taxas de repetência e evasão, por meio de programas de aceleração da aprendizagem e de recuperação paralela ao longo do curso, garantindo efetiva aprendizagem.
+
+4. Elaborar, no prazo de um ano, padrões mínimos nacionais de infra-estrutura para o ensino fundamental, compatíveis com o tamanho dos estabelecimentos e com as realidades regionais, incluindo:**
+a) espaço, iluminação, insolação, ventilação, água potável, rede elétrica, segurança e temperatura ambiente;
+b) instalações sanitárias e para higiene;
+c) espaços para esporte, recreação, biblioteca e serviço de merenda escolar;
+d) adaptação dos edifícios escolares para o atendimento dos alunos portadores de necessidades especiais;
+e) atualização e ampliação do acervo das bibliotecas;
+f) mobiliário, equipamentos e materiais pedagógicos;
+g) telefone e serviço de reprodução de textos;
+h) informática e equipamento multimídia para o ensino.
+
+5. A partir do segundo ano da vigência deste plano, somente autorizar a construção e funcionamento de escolas que atendam aos requisitos de infra-estrutura definidos.**
+
+6. Assegurar que, em cinco anos, todas as escolas atendam os ítens de "a" a "d" e, em dez anos, a totalidade dos ítens.**
+
+7. Estabelecer, em todos os sistemas de ensino e com o apoio da União e da comunidade escolar, programas para equipar todas as escolas, gradualmente, com os equipamentos discriminados nos ítens de "e" a "h".**
+
+8. Assegurar que, em três anos, todas as escolas tenham formulado seus projetos pedagógicos, com observância das Diretrizes Curriculares para o ensino
 
 [[END OF PAGE 19]]
 
 [[START OF PAGE 20]]
 
-fundamental e dos Nacionais. 9. Promover a participação das escolas, universalizando, instituição de conselhos equivalentes. 10. Integrar recursos do política social, em ações Estados e Municípios, metas, a Renda Mínima educativas para as famílias comprovada.** 11. Manter e consolidar livro didático criado pelo estabelecendo entre seus abordagem das questões eliminação de textos reproduzam estereótipos do negro e do índio.* 12. Elevar de quatro para didáticos oferecidos aos iniciais do ensino fundamental, áreas que compõem as ensino fundamental e Nacionais.** 13. Ampliar progressivamente didáticos a todos os alunos do ensino fundamental, regiões nas quais o acesso escrito seja particularmente 14. Prover de literatura, básicas de referência e de apoio ao professor fundamental.** 15. Transformar progressivamente unidocentes em escolas levando em consideração necessidades pedagógicas alunos. 16. Associar as classes remanescentes a escolas séries completas. 17. Prover de transporte quando necessário, com União, Estados e Municípios, escolarização dos alunos parte do professor.**
----
+fundamental e dos Parâmetros Curriculares Nacionais.
+
+9. Promover a participação da comunidade na gestão das escolas, universalizando, em dois anos, a instituição de conselhos escolares ou órgãos equivalentes.
+
+10. Integrar recursos do Poder Público destinados à política social, em ações conjuntas da União, dos Estados e Municípios, para garantir entre outras metas, a Renda Mínima Associada a Ações Sócio-educativas para as famílias com carência econômica comprovada.**
+
+11. Manter e consolidar o programa de avaliação do livro didático criado pelo Ministério de Educação, estabelecendo entre seus critérios a adequada abordagem das questões de gênero e etnia e a eliminação de textos discriminatórios ou que reproduzam estereótipos acerca do papel da mulher, do negro e do índio.*
+
+12. Elevar de quatro para cinco o número de livros didáticos oferecidos aos alunos das quatro séries iniciais do ensino fundamental, de forma a cobrir as áreas que compõem as Diretrizes Curriculares do ensino fundamental e os Parâmetros Curriculares Nacionais.**
+
+13. Ampliar progressivamente a oferta de livros didáticos a todos os alunos das quatro séries finais do ensino fundamental, com prioridade para as regiões nas quais o acesso dos alunos ao material escrito seja particularmente deficiente.**
+
+14. Prover de literatura, textos científicos, obras básicas de referência e livros didático-pedagógicos de apoio ao professor as escolas do ensino fundamental.**
+
+15. Transformar progressivamente as escolas unidocentes em escolas de mais de um professor, levando em consideração as realidades e as necessidades pedagógicas e de aprendizagem dos alunos.
+
+16. Associar as classes isoladas unidocentes remanescentes a escolas de, pelo menos, quatro séries completas.
+
+17. Prover de transporte escolar as zonas rurais, quando necessário, com colaboração financeira da União, Estados e Municípios, de forma a garantir a escolarização dos alunos e o acesso à escola por parte do professor.**
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
 
-18. Garantir, com a colaboração da União, Estados e Municípios, o provimento da alimentação escolar e o equilíbrio necessário garantindo os níveis calóricos- protéicos por faixa etária.** 19. Assegurar, dentro de três anos, que a carga horária semanal dos cursos diurnos compreenda, pelo menos, 20 horas semanais de efetivo trabalho escolar. 20. Eliminar a existência, nas escolas, de mais de dois turnos diurnos e um turno noturno, sem prejuízo do atendimento da demanda. 21. Ampliar, progressivamente a jornada escolar visando expandir a escola de tempo integral, que abranja um período de pelo menos sete horas diárias, com previsão de professores e funcionários em número suficiente. 22. Prover, nas escolas de tempo integral, preferencialmente para as crianças das famílias de menor renda, no mínimo duas refeições, apoio às tarefas escolares, a prática de esportes e atividades artísticas, nos moldes do Programa de Renda Mínima Associado a Ações Sócio-educativas. 23. Estabelecer, em dois anos, a reorganização curricular dos cursos noturnos, de forma a adequá- los às características da clientela e promover a eliminação gradual da necessidade de sua oferta. 24. Articular as atuais funções de supervisão e inspeção no sistema de avaliação. 25. Prever formas mais flexíveis de organização escolar para a zona rural, bem como a adequada formação profissional dos professores, considerando a especificidade do alunado e as exigências do meio. 26. Assegurar a elevação progressiva do nível de desempenho dos alunos mediante a implantação, em todos os sistemas de ensino, de um programa de monitoramento que utilize os indicadores do Sistema Nacional de Avaliação da Educação Básica e dos sistemas de avaliação dos Estados e Municípios que venham a ser desenvolvidos.** 27. Estimular os Municípios a proceder um mapeamento, por meio de censo educacional, das crianças fora da escola, por bairro ou distrito de residência e/ou locais de trabalho dos pais, visando localizar a demanda e universalizar a oferta de ensino obrigatório. 28. A educação ambiental, tratada como tema transversal, será desenvolvida como uma prática
----
+18. Garantir, com a colaboração da União, Estados e Municípios, o provimento da alimentação escolar e o equilíbrio necessário garantindo os níveis calóricos-protéicos por faixa etária.**
+
+19. Assegurar, dentro de três anos, que a carga horária semanal dos cursos diurnos compreenda, pelo menos, 20 horas semanais de efetivo trabalho escolar.
+
+20. Eliminar a existência, nas escolas, de mais de dois turnos diurnos e um turno noturno, sem prejuízo do atendimento da demanda.
+
+21. Ampliar, progressivamente a jornada escolar visando expandir a escola de tempo integral, que abranja um período de pelo menos sete horas diárias, com previsão de professores e funcionários em número suficiente.
+
+22. Prover, nas escolas de tempo integral, preferencialmente para as crianças das famílias de menor renda, no mínimo duas refeições, apoio às tarefas escolares, a prática de esportes e atividades artísticas, nos moldes do Programa de Renda Mínima Associado a Ações Sócio-educativas.
+
+23. Estabelecer, em dois anos, a reorganização curricular dos cursos noturnos, de forma a adequá-los às características da clientela e promover a eliminação gradual da necessidade de sua oferta.
+
+24. Articular as atuais funções de supervisão e inspeção no sistema de avaliação.
+
+25. Prever formas mais flexíveis de organização escolar para a zona rural, bem como a adequada formação profissional dos professores, considerando a especificidade do alunado e as exigências do meio.
+
+26. Assegurar a elevação progressiva do nível de desempenho dos alunos mediante a implantação, em todos os sistemas de ensino, de um programa de monitoramento que utilize os indicadores do Sistema Nacional de Avaliação da Educação Básica e dos sistemas de avaliação dos Estados e Municípios que venham a ser desenvolvidos.**
+
+27. Estimular os Municípios a proceder um mapeamento, por meio de censo educacional, das crianças fora da escola, por bairro ou distrito de residência e/ou locais de trabalho dos pais, visando localizar a demanda e universalizar a oferta de ensino obrigatório.
+
+28. A educação ambiental, tratada como tema transversal, será desenvolvida como uma prática
 
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
 
-educativa integrada, contínua conformidade com a Lei 29. Apoiar e incentivar como espaço de participação cidadania. 30. Observar as metas referentes à educação professores, educação indígena, financiamento e gestão, relacionadas às previstas
+educativa integrada, contínua e permanente em conformidade com a Lei nº 9.795/99.
+
+29. Apoiar e incentivar as organizações estudantis, como espaço de participação e exercício da cidadania.
+
+30. Observar as metas estabelecidas nos capítulos referentes à educação a distância, formação de professores, educação indígena, educação especial e financiamento e gestão, na medida em que estão relacionadas às previstas neste capítulo.
+
 #### 3. ENSINO MÉDIO
 ##### 3.1 Diagnóstico
-Considerando o processo curso no País, o ensino papel a desempenhar. desenvolvidos quanto nos subdesenvolvimento, a pode ser um poderoso cidadania e de qualificação Justamente em virtude é particularmente preocupante ensino médio, muito menor latino-americanos em desenvolvimento, estatísticas demonstrem ensino fundamental começam etapa da educação básica maior, a cada ano. Esses anuais terão efeito cumulativo. anos, resultarão em uma observada na composição e etária do alunado do ensino A Contagem da População em 1997 acusa uma habitantes na faixa etária matriculados no ensino 5.933.401 estudantes. Significa fluxo escolar fosse comportaria bem menos faixa etária. Isso é muito quando se considera a de escolaridade exigida situação agrava-se quando caso do ensino médio, atendimento dessa faixa por diversas razões. Em virtude das elevadas taxas fundamental, os jovens
----
+Considerando o processo de modernização em curso no País, o ensino médio tem um importante papel a desempenhar. Tanto nos países desenvolvidos quanto nos que lutam para superar o subdesenvolvimento, a expansão do ensino médio pode ser um poderoso fator de formação para a cidadania e de qualificação profissional.
+
+Justamente em virtude disso, no caso brasileiro, é particularmente preocupante o reduzido acesso ao ensino médio, muito menor que nos demais países latino-americanos em desenvolvimento, embora as estatísticas demonstrem que os concluintes do ensino fundamental começam a chegar à terceira etapa da educação básica em número um pouco maior, a cada ano. Esses pequenos incrementos anuais terão efeito cumulativo. Ao final de alguns anos, resultarão em uma mudança nunca antes observada na composição social, econômica, cultural e etária do alunado do ensino médio.
+
+A Contagem da População realizada pelo IBGE em 1997 acusa uma população de 16.580.383 habitantes na faixa etária de 15 a 19 anos. Estavam matriculados no ensino médio, no mesmo ano, 5.933.401 estudantes. Significa que, idealmente, se o fluxo escolar fosse regular, o ensino médio comportaria bem menos que metade de jovens desta faixa etária. Isso é muito pouco, especialmente quando se considera a acelerada elevação do grau de escolaridade exigida pelo mercado de trabalho. A situação agrava-se quando se considera que, no caso do ensino médio, os cálculos das taxas de atendimento dessa faixa etária são pouco confiáveis, por diversas razões. Em primeiro lugar porque, em virtude das elevadas taxas de repetência no ensino fundamental, os jovens chegam ao ensino médio
 
 [[END OF PAGE 22]]
 
 [[START OF PAGE 23]]
 
-bem mais velhos. Em segundo lugar, porque há um grande número de adultos que volta à escola vários anos depois de concluir o ensino fundamental. Em virtude dessas duas condições, o ensino médio atende majoritariamente jovens e adultos com idade acima da prevista para este nível de ensino (Tabela 3), devendo-se supor que já estejam inseridos no mercado de trabalho. De fato os 6.968.531 alunos do ensino médio, em 1998, 54,8% - ou seja 3.817.688 - estudavam à noite. Tabela 3 - Ensino Médio - Matrícula Brasil - 1991 e 1998 Dependência Administrativa 1991 1998 Crescimento Faixa Etária Valor Absoluto % Valor Absoluto % % Total 3.770.230 100,0 6.968.531 100,0 84,8 Dependência Administrativa Federal 103.092 2,7 122.927 1,8 19,2
----
+bem mais velhos. Em segundo lugar, porque há um grande número de adultos que volta à escola vários anos depois de concluir o ensino fundamental.
+
+Em virtude dessas duas condições, o ensino médio atende majoritariamente jovens e adultos com idade acima da prevista para este nível de ensino (Tabela 3), devendo-se supor que já estejam inseridos no mercado de trabalho. De fato, dos 6.968.531 alunos do ensino médio, em 1998, 54,8% - ou seja 3.817.688 - estudavam à noite.
+
+Tabela 3 - Ensino Médio - Matrícula
+Brasil - 1991 e 1998
+
+Dependência Administrativa/Faixa Etária | 1991 Valor Absoluto | 1991 % | 1998 Valor Absoluto | 1998 % | Crescimento %
+--- | --- | --- | --- | --- | ---
+Total | 3.770.230 | 100,0 | 6.968.531 | 100,0 | 84,8
+Dependência Administrativa
+Federal | 103.092 | 2,7 | 122.927 | 1,8 | 19,2
 
 [[END OF PAGE 23]]
 
 [[START OF PAGE 24]]
 
-Estadual
-
-2.472.757
-
-65,6
-
-5.301.475
-
-76,0
-
-114,4
-
-Municipal
-
-176.769
-
-4,7
-
-317.488
-
-4,6
-
-79,6
-
-Particular
-
-1.017.612
-
-27,0
-
-1.226.641
-
-17,6
-
-20,5
-
+Estadual | 2.472.757 | 65,6 | 5.301.475 | 76,0 | 114,4
+Municipal | 176.769 | 4,7 | 317.488 | 4,6 | 79,6
+Particular | 1.017.612 | 27,0 | 1.226.641 | 17,6 | 20,5
 Faixa Etária
-
-Menos de 15 anos
-
-128.804
-
-3,4
-
-96.474
-
-1,4
-
--25,1
-
-15 a 17 anos
-
-1.625.789
-
-43,1
-
-3.120.185
-
-44,8
-
-91,9
-
-Mais de 17 anos
-
-2.015.637
-
-53,5
-
-3.751.872
-
-53,8
+Menos de 15 anos | 128.804 | 3,4 | 96.474 | 1,4 | -25,1
+15 a 17 anos | 1.625.789 | 43,1 | 3.120.185 | 44,8 | 91,9
+Mais de 17 anos | 2.015.637 | 53,5 | 3.751.872 | 53,8
 
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
 
-86,1 Fonte: MEC/INEP/SEEC. Informe Estatístico, 1996 e censo escolar 1998 O número reduzido de matrículas no ensino médio - apenas cerca de 30,8% da população de 15 a 17 anos não se explica, entretanto, por desinteresse do Poder Público em atender à demanda, pois a oferta de vagas na 1ª série do ensino médio tem sido consistentemente superior ao número de egressos da 8ª série do ensino fundamental. A exclusão ao ensino médio deve-se às baixas taxas de conclusão do ensino fundamental, que, por sua vez, estão associadas à baixa qualidade daquele nível de ensino, da qual resultam elevados índices de repetência e evasão. O ensino médio convive, também, com alta seletividade interna. Se os alunos estão chegando em maior número a esse nível de ensino, os índices de conclusão nas últimas décadas sinalizam que há muito a ser feito. Na coorte 1970-73, 74% dos que iniciavam o ensino médio conseguiam concluí-lo na coorte 1977-80, este índice caiu para 50,8%; na de 1991-94, para 43,8%. Causas externas ao sistema educacional contribuem para que adolescentes e jovens se percam pelos caminhos da escolarização, agravadas por dificuldades da própria organização da escola e do processo ensino-aprendizagem. Os números do abandono e da repetência, apesar da melhoria dos últimos anos, ainda são bastante desfavoráveis (Tabela 4). Tabela 4 - Ensino Médio - Taxa de Abandono e Reprovação 1995 e 1997 Regiões 1995 1997 Abandono Reprovação Total Abandono Reprovação Total
----
+86,1
+
+Fonte: MEC/INEP/SEEC. Informe Estatístico, 1996 e censo escolar 1998
+
+O número reduzido de matrículas no ensino médio - apenas cerca de 30,8% da população de 15 a 17 anos não se explica, entretanto, por desinteresse do Poder Público em atender à demanda, pois a oferta de vagas na 1ª série do ensino médio tem sido consistentemente superior ao número de egressos da 8ª série do ensino fundamental. A exclusão ao ensino médio deve-se às baixas taxas de conclusão do ensino fundamental, que, por sua vez, estão associadas à baixa qualidade daquele nível de ensino, da qual resultam elevados índices de repetência e evasão.
+
+O ensino médio convive, também, com alta seletividade interna. Se os alunos estão chegando em maior número a esse nível de ensino, os índices de conclusão nas últimas décadas sinalizam que há muito a ser feito. Na coorte 1970-73, 74% dos que iniciavam o ensino médio conseguiam concluí-lo na coorte 1977-80, este índice caiu para 50,8%; na de 1991-94, para 43,8%.
+
+Causas externas ao sistema educacional contribuem para que adolescentes e jovens se percam pelos caminhos da escolarização, agravadas por dificuldades da própria organização da escola e do processo ensino-aprendizagem. Os números do abandono e da repetência, apesar da melhoria dos últimos anos, ainda são bastante desfavoráveis (Tabela 4).
+
+Tabela 4 - Ensino Médio - Taxa de Abandono e Reprovação
+1995 e 1997
+Regiões | 1995 Abandono | 1995 Reprovação | 1995 Total | 1997 Abandono | 1997 Reprovação | 1997 Total
 
 [[END OF PAGE 25]]
 
@@ -620,8 +685,20 @@ Centro-Oeste
 
 [[START OF PAGE 27]]
 
-Fonte: MEC/INEP/SEEC Nota: Não incluído o não-seriado nas taxas de reprovação Desagregados por regiões, os dados da repetência e abandono, ao lado das taxas de distorção idade-série, permitem visualizar - na falta de políticas específicas - em que região haverá maior percentual de alunos no ensino médio, em idade pedagogicamente adequada (Tabela 5 ). Tabela 5 - Ensino Médio - Taxa de Distorção idade- série 1996-1998 Regiões Total Geral 1ª série 2ª série 3ª série Brasil 1996 1998 55,2 53,9 57,7 56,4 54,6 52,8 51,0 51,3 Norte 1996 1998 74,8 73,2 77,2 75,6 73,2 71,9 71,8 70,0 Nordeste 1996 1998 69,6 69,5 72,6
----
+Fonte: MEC/INEP/SEEC
+Nota: Não incluído o não-seriado nas taxas de reprovação
+
+Desagregados por regiões, os dados da repetência e abandono, ao lado das taxas de distorção idade-série, permitem visualizar – na falta de políticas específicas – em que região haverá maior percentual de alunos no ensino médio, em idade pedagogicamente adequada (Tabela 5 ).
+
+Tabela 5 - Ensino Médio – Taxa de Distorção idade-série
+1996-1998
+Regiões | Total Geral | 1ª série | 2ª série | 3ª série
+Brasil 1996 | 55,2 | 57,7 | 54,6 | 51,0
+Brasil 1998 | 53,9 | 56,4 | 52,8 | 51,3
+Norte 1996 | 74,8 | 77,2 | 73,2 | 71,8
+Norte 1998 | 73,2 | 75,6 | 71,9 | 70,0
+Nordeste 1996 | 69,6 | 72,6
+Nordeste 1998 | 69,5 | 72,3
 
 [[END OF PAGE 27]]
 
@@ -634,15 +711,32 @@ Fonte: MEC/INEP/SEEC Nota: Não incluído o não-seriado nas taxas de reprovaç�
 
 [[START OF PAGE 29]]
 
-taxa de crescimento sistema. Apenas no matrícula evoluiu de alunos, de acordo com claramente associado ensino fundamental e ensino médio, já ocorridas. resultado do esforço que as taxas de conclusão ensino médio deverá conforme estimativas contidas Tabela 6 - Educação Básica - 2010(em mil) Ano Fundamental Médio Total 1ª a 4ª 5ª a 8ª 1995 32.544 20.041 12.503 5.313 1996 33.131 20.027 13.104 5.739 1998 35.488 21.164 14.325 6.962 2000* 35.439
----
+taxa de crescimento nos últimos anos, em todo o sistema. Apenas no período de 1991 a 1998, a matrícula evoluiu de 3.770.230 para 6.968.531 alunos, de acordo com censo escolar, o que está claramente associado a uma recente melhoria do ensino fundamental e à ampliação do acesso ao ensino médio, já ocorridas. Nos próximo anos, como resultado do esforço que está sendo feito para elevar as taxas de conclusão da 8ª série, a demanda por ensino médio deverá se ampliar de forma explosiva, conforme estimativas contidas na Tabela 6.
+
+Tabela 6 - Educação Básica – Matrículas Brasil: 1995 – 2010(em mil)
+Ano | Fundamental | | | Médio
+ | Total | 1ª a 4ª | 5ª a 8ª |
+1995 | 32.544 | 20.041 | 12.503 | 5.313
+1996 | 33.131 | 20.027 | 13.104 | 5.739
+1998 | 35.488 | 21.164 | 14.325 | 6.962
+2000* | 35.439 | 20.151 | 15.288
 
 [[END OF PAGE 29]]
 
 [[START OF PAGE 30]]
 
-8.774 2002* 34.947 19.282 15.666 10.020 2004* 34.253 18.562 15.691 10.297 2005* 33.879 18.255 15.624 10.383 2008* 32.813 17.552 15.261 10.446 2010* 32.225 17.245 14.980 10.369 Fonte: MEC/INEP/SEEC Entretanto, no caso trata apenas de expansão. de ensino, esse foi anos, a maior crise definição dos rumos seus objetivos e em que deverá ser superado Novas Diretrizes Curriculares com programas de sobretudo nas áreas de Quanto ao financiamento Emenda Constitucional Diretrizes e Bases, responsabilidade pela
----
+8.774
+2002* | 34.947 | 19.282 | 15.666 | 10.020
+2004* | 34.253 | 18.562 | 15.691 | 10.297
+2005* | 33.879 | 18.255 | 15.624 | 10.383
+2008* | 32.813 | 17.552 | 15.261 | 10.446
+2010* | 32.225 | 17.245 | 14.980 | 10.369
+
+Fonte: MEC/INEP/SEEC (*) Dados estimados
+
+Entretanto, no caso do ensino médio, não se trata apenas de expansão. Entre os diferentes níveis de ensino, esse foi o que enfrentou, nos últimos anos, a maior crise em termos de ausência de definição dos rumos que deveriam ser seguidos em seus objetivos e em sua organização. Um aspecto que deverá ser superado com a implementação das Novas Diretrizes Curriculares para o ensino médio e com programas de formação de professores, sobretudo nas áreas de Ciências e Matemática.
+
+Quanto ao financiamento do ensino médio, a Emenda Constitucional nº 14, assim como a Lei de Diretrizes e Bases, atribui aos Estados a responsabilidade pela sua manutenção e
 
 [[END OF PAGE 30]]
 
@@ -657,7 +751,17 @@ O aumento lento, mas contínuo, do número dos que conseguem concluir a escola o
 
 [[START OF PAGE 32]]
 
-permitem assimilar e utilizar, produtivamente, recursos tecnológicos novos e em acelerada transformação. Estatísticas recentes confirmam esta tendência. Desde meados dos anos 80, foi no ensino médio que se observou o maior crescimento de matrículas do País. De 1985 a 1994, esse crescimento foi superior a 100%, enquanto no ensino fundamental foi de 30%. Se, no passado mais longínquo, o ponto de ruptura do sistema educacional brasileiro situou-se no acesso à escola, posteriormente na passagem do antigo primário ao ginásio, em seguida pela diferenciação da qualidade do ensino oferecido, hoje ele se dá no limiar e dentro do ensino médio. Pelo caráter que assumiu na história educacional de quase todos os países, a educação média é particularmente vulnerável à desigualdade social. Na disputa permanente entre orientações profissionalizantes ou acadêmicas, entre objetivos humanistas ou econômicos, a tensão expressa nos privilégios e nas exclusões decorre da origem social. Em vista disso, o ensino médio proposto neste plano deverá enfrentar o desafio dessa dualidade com oferta de escola média de qualidade a toda a demanda. Uma educação que propicie aprendizagem de competências de caráter geral, forme pessoas mais aptas a assimilar mudanças, mais autônomas em suas escolhas, que respeitem as diferenças e superem a segmentação social. Preparando jovens e adultos para os desafios da modernidade, o ensino médio deverá permitir aquisição de competências relacionadas ao pleno exercício da cidadania e da inserção produtiva: auto- aprendizagem; percepção da dinâmica social e capacidade para nela intervir; compreensão dos processos produtivos; capacidade de observar, interpretar e tomar decisões; domínio de aptidões básicas de linguagens, comunicação, abstração; habilidades para incorporar valores éticos de solidariedade, cooperação e respeito às individualidades. Ao longo dos dez anos de vigência deste plano, conforme disposto no art. 208, II, da Constituição Federal que prevê como dever do Estado a garantia da progressiva universalização do ensino médio gratuito , a oferta da educação média de qualidade não pode prescindir de definições pedagógicas e
+permitem assimilar e utilizar, produtivamente, recursos tecnológicos novos e em acelerada transformação.
+
+Estatísticas recentes confirmam esta tendência. Desde meados dos anos 80, foi no ensino médio que se observou o maior crescimento de matrículas do País. De 1985 a 1994, esse crescimento foi superior a 100%, enquanto no ensino fundamental foi de 30%.
+
+Se, no passado mais longínquo, o ponto de ruptura do sistema educacional brasileiro situou-se no acesso à escola, posteriormente na passagem do antigo primário ao ginásio, em seguida pela diferenciação da qualidade do ensino oferecido, hoje ele se dá no limiar e dentro do ensino médio.
+
+Pelo caráter que assumiu na história educacional de quase todos os países, a educação média é particularmente vulnerável à desigualdade social. Na disputa permanente entre orientações profissionalizantes ou acadêmicas, entre objetivos humanistas ou econômicos, a tensão expressa nos privilégios e nas exclusões decorre da origem social. Em vista disso, o ensino médio proposto neste plano deverá enfrentar o desafio dessa dualidade com oferta de escola média de qualidade a toda a demanda. Uma educação que propicie aprendizagem de competências de caráter geral, forme pessoas mais aptas a assimilar mudanças, mais autônomas em suas escolhas, que respeitem as diferenças e superem a segmentação social.
+
+Preparando jovens e adultos para os desafios da modernidade, o ensino médio deverá permitir aquisição de competências relacionadas ao pleno exercício da cidadania e da inserção produtiva: auto-aprendizagem; percepção da dinâmica social e capacidade para nela intervir; compreensão dos processos produtivos; capacidade de observar, interpretar e tomar decisões; domínio de aptidões básicas de linguagens, comunicação, abstração; habilidades para incorporar valores éticos de solidariedade, cooperação e respeito às individualidades.
+
+Ao longo dos dez anos de vigência deste plano, conforme disposto no art. 208, II, da Constituição Federal que prevê como dever do Estado a garantia da progressiva universalização do ensino médio gratuito, a oferta da educação média de qualidade não pode prescindir de definições pedagógicas e
 ---
 
 [[END OF PAGE 32]]
@@ -671,10 +775,17 @@ administrativas fundamentais a uma formação geral sólida e medidas econômica
 
 [[START OF PAGE 34]]
 
-professores e da adaptação condições físicas, mobiliário, materiais pedagógicos. atendimento especializado, diretrizes específicas contidas educação especial. Assim, as diretrizes Educação apontam para retirada de todo obstáculo permaneçam no sistema anos de idade, estejam básica com uma sólida formação
+professores e da adaptação das escolas quanto às condições físicas, mobiliário, equipamentos e materiais pedagógicos. Quando necessário atendimento especializado, serão observadas diretrizes específicas contidas no capítulo sobre educação especial.
+
+Assim, as diretrizes do Plano Nacional de Educação apontam para a criação de incentivos e a retirada de todo obstáculo para que os jovens permaneçam no sistema escolar e, aos 17 ou 18 anos de idade, estejam concluindo a educação básica com uma sólida formação geral.
 ##### 3.3 Objetivos e Metas 3
-1. Formular e implementar, política de gestão da educação básica pública, a) o reordenamento, a Plano, da rede de escolas ocupação racional dos estaduais e municipais, de facilitar a delimitação próprias para o ensino médio das quatro primeiras séries da educação infantil; b) a expansão gradual públicas de ensino médio necessidades de infra-estrutura do processo de reordenamento c) no prazo de dois anos, Plano, o atendimento da ensino fundamental e defasagem de idade necessidades especiais d) o oferecimento de vagas anos, correspondam a 50% da demanda de ensino universalização e regularização ensino fundamental. 2. Implantar e consolidar, nova concepção curricular Nacional de Educação. 3. Melhorar o aproveitamento médio, de forma a atingir desempenho definidos Nacional de Avaliação da pelo Exame Nacional do pelos sistemas de avaliação
----
+1. Formular e implementar, progressivamente, uma política de gestão da infra-estrutura física na educação básica pública, que assegure:
+a) o reordenamento, a partir do primeiro ano deste Plano, da rede de escolas públicas que contemple a ocupação racional dos estabelecimentos de ensino estaduais e municipais, com o objetivo, entre outros, de facilitar a delimitação de instalações físicas próprias para o ensino médio separadas, pelo menos, das quatro primeiras séries do ensino fundamental e da educação infantil;
+b) a expansão gradual do número de escolas públicas de ensino médio de acordo com as necessidades de infra-estrutura identificada ao longo do processo de reordenamento da rede física atual;
+c) no prazo de dois anos, a contar da vigência deste Plano, o atendimento da totalidade dos egressos do ensino fundamental e a inclusão dos alunos com defasagem de idade e dos que possuem necessidades especiais de aprendizagem;
+d) o oferecimento de vagas que, no prazo de cinco anos, correspondam a 50% e, em dez anos, a 100% da demanda de ensino médio, em decorrência da universalização e regularização do fluxo de alunos no ensino fundamental.
+2. Implantar e consolidar, no prazo de cinco anos, a nova concepção curricular elaborada pelo Conselho Nacional de Educação.
+3. Melhorar o aproveitamento dos alunos do ensino médio, de forma a atingir níveis satisfatórios de desempenho definidos e avaliados pelo Sistema Nacional de Avaliação da Educação Básica (SAEB), pelo Exame Nacional do Ensino Médio (ENEM) e pelos sistemas de avaliação que venham a ser
 
 [[END OF PAGE 34]]
 
@@ -687,12 +798,24 @@ implantados nos Estados. 4. Reduzir, em 5% ao ano, a repetência e a evasão, de
 
 [[START OF PAGE 36]]
 
-progressiva de todos os década, incentivando próprias para esse nível 13. Criar mecanismos, equivalentes, para incentivar comunidade na gestão, condições de funcionamento 14. Assegurar a autonomia diz respeito ao projeto de gerência de recursos do cotidiano escolar. 15. Adotar medidas para manter a oferta noturna, atendimento dos alunos 16. Proceder, em dois organização didático-pedagógica ensino noturno, de necessidades do aluno-trabalhador, qualidade do ensino. 17. Estabelecer, em um para formação de professores, áreas de Ciências e Matemática.** 18. Apoiar e incentivar como espaço de participação cidadania. 19. A educação ambiental, transversal, será desenvolvida educativa integrada, contínua conformidade com a Lei 20. Observar, no que diz as metas estabelecidas formação de professores, ensino a distância.
+progressiva de todos os padrões mínimos durante a década, incentivando a criação de instalações próprias para esse nível de ensino.
+13. Criar mecanismos, como conselhos ou equivalentes, para incentivar a participação da comunidade na gestão, manutenção e melhoria das condições de funcionamento das escolas.
+14. Assegurar a autonomia das escolas, tanto no que diz respeito ao projeto pedagógico como em termos de gerência de recursos mínimos para a manutenção do cotidiano escolar.
+15. Adotar medidas para ampliar a oferta diurna e manter a oferta noturna, suficiente para garantir o atendimento dos alunos que trabalham.
+16. Proceder, em dois anos, a uma revisão da organização didático-pedagógica e administrativa do ensino noturno, de forma a adequá-lo às necessidades do aluno-trabalhador, sem prejuízo da qualidade do ensino.
+17. Estabelecer, em um ano, programa emergencial para formação de professores, especialmente nas áreas de Ciências e Matemática.**
+18. Apoiar e incentivar as organizações estudantis, como espaço de participação e exercício da cidadania.
+19. A educação ambiental, tratada como tema transversal, será desenvolvida como uma prática educativa integrada, contínua e permanente em conformidade com a Lei nº 9.795/99.
+20. Observar, no que diz respeito ao ensino médio, as metas estabelecidas nos capítulos referentes à formação de professores, financiamento e gestão e ensino a distância.
 ### B- EDUCAÇÃO SUPERIOR
 #### 4. EDUCAÇÃO SUPERIOR
 ##### 4.1 Diagnóstico
-A educação superior problemas, que se agravarão Educação não estabelecer sua renovação e desenvolvimento. Atualmente, os cerca egressos do nível médio número razoável de vagas.(Tabela Tabela 7 - Quadro do 1998 Ensino Superior
----
+A educação superior enfrenta, no Brasil, sérios problemas, que se agravarão se o Plano Nacional de Educação não estabelecer uma política que promova sua renovação e desenvolvimento.
+
+Atualmente, os cerca de 1,5 milhões de jovens egressos do nível médio têm à sua disposição um número razoável de vagas.(Tabela 7).
+
+Tabela 7 - Quadro do Ensino Superior no Brasil – 1998
+Ensino Superior | Total
 
 [[END OF PAGE 36]]
 
@@ -915,17 +1038,15 @@ Considerando-se o número de crianças de 7 a 14 anos matriculadas no ensino fun
 
 líquida passou a 90%, portanto aproximando-se da média nacional. Em 1998, o ensino privado absorvia apenas 9,5% das matrículas, mantendo a tendência decrescente de participação relativa. Se  considerarmos, por outro lado, o número de crianças de 7 a 14 anos efetivamente matriculadas em algum  nível  de  ensino,  o  que  inclui  algumas  que  estão  na  pré-escola,  outras  que  freqüentam  classes  de alfabetização, além de uma parcela muito reduzida que já ingressou no ensino médio, o atendimento é ainda maior  e  o  progresso  igualmente  impressionante:  entre  1991  e  1998,  essa  taxa  de  atendimento  cresceu  de 91,6% para 95%, o que está muito próximo de uma universalização real do atendimento. A participação do ensino privado no nível superior aumentou sobretudo na década de 70, como decorrência de uma pressão de demanda a partir da "questão dos excedentes". Nos últimos vinte anos, o setor privado tem oferecido pouco menos de dois terços das vagas na educação superior (Tabela 8). De 1994 para cá, o número de alunos subiu 36,1% nas instituições privadas, bem acima das públicas. Nestas, o crescimento foi de 12,4% nas federais, 18,5% nas estaduais, e 27,6% nas municipais. A manutenção das atividades típicas das universidades - ensino, pesquisa e extensão - que constituem o suporte necessário para o desenvolvimento científico, tecnológico e cultural do País, não será possível sem o fortalecimento  do  setor  público.  Paralelamente,  a  expansão  do  setor  privado  deve  continuar,  desde  que garantida a qualidade. Como se pode verificar na Tabela 9, registra-se também, no caso da educação superior, uma distribuição de  vagas  muito  desigual  por  região,  o  que  precisará  ser  corrigido.  Deve-se  observar,  entretanto,  que  esta desigualdade resulta da concentração das matrículas em  instituições particulares das regiões mais desenvolvidas.  O  setor  público,  por  outro  lado,  está  mais  bem  distribuído  e  cumpre  assim  uma  função importante de diminuição das desigualdades regionais - função esta que deve ser preservada.
 
+Tabela 9 - Matrícula por Dependência Administrativa – Brasil e Regiões – Nível Superior 1998
 Região | Dependência Administrativa
---- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Total | Federal | % | Estadual | % | Municipal | % | Particular | %
+ | Total | Federal | % | Estadual | % | Municipal | % | Particular | %
 Brasil | 2.125.958 | 408.640 | 19,22 | 274.934 | 12,93 | 121.155 | 5,69 | 1.321.229 | 62,14
 Norte | 85.077 | 45.957 | 54,01 | 9.688 | 11,38 | 952 | 1,11 | 28.480 | 33,47
 Nordeste | 310.159 | 118.455 | 38,19 | 80.702 | 26,01 | 10.681 | 3,44 | 100.321 | 32,34
 Sudeste | 1.148.004 | 127.991 | 11,14 | 114.716 | 9,99 | 43.210 | 3,76 | 862.087 | 75,09
 Sul | 419.133 | 71.960 | 17,16 | 55.543 | 13,25 | 61.264 | 14,61 | 230.366 | 54,96
-Centro- Oeste | 163.585 | 44.277 | 27,06 | 14.285 | 8,73 | 5.048 | 3,08 | 99.975 | 61,11
-
-Tabela 9 - Matrícula por Dependência Administrativa - Brasil e Regiões - Nível Superior 1998
+Centro-Oeste | 163.585 | 44.277 | 27,06 | 14.285 | 8,73 | 5.048 | 3,08 | 99.975 | 61,11
 
 Fonte : MEC/INEP/SEEC
 
@@ -941,9 +1062,10 @@ Observe-se,  ainda  que,  entre  1988  e  1998,  verificou-se  ampliação  expr
 
 14, de 1996, onde o sistema municipal de ensino deve atender prioritariamente à educação infantil e ao ensino fundamental. (Tabela 10).
 
+Tabela 10 - Índice de Crescimento da Matrícula por Dependência Administrativa
+Brasil 1988-1998 1988=100
 Ano | Federal | Estadual | Municipal | Privada
---- | --- | --- | --- | ---
-1998 | 100,0 | 100,0 | 100,0 | 100,0
+1988 | 100,0 | 100,0 | 100,0 | 100,0
 1989 | 99,2 | 101,6 | 98,2 | 101,8
 1990 | 97,2 | 101,9 | 98,1 | 104,7
 1991 | 100,7 | 106,1 | 108,5 | 104,5
@@ -955,8 +1077,6 @@ Ano | Federal | Estadual | Municipal | Privada
 1997 | 124,5 | 133,0 | 142,8 | 129,2
 1998 | 128,6 | 144,1 | 157,8 | 143,9
 Crescimento médio Anual | 2,9 | 4,4 | 5,8 | 4,4
-
-Tabela 10 - Índice de Crescimento da Matrícula por Dependência Administrativa Brasil 1988-19981998=100
 
 Fonte: MEC/INEP/SEEC
 
@@ -985,30 +1105,26 @@ O Tribunal de Contas da União ressalta que, além de significativo, o percentua
 
 [[START OF PAGE 45]]
 
-Exercício | Aposentadorias e Pensões | Outros Custeios e Capital
---- | --- | --- | --- | ---
-R$ 1,00 | % (apos. occ ) | R$ 1,00 | % ( apos. + occ)
+Tabela 12 - IFES – Relação entre Despesas com Aposentadorias e Pensões e com Outros Custeios e Capital
+Exercício | Aposentadorias e Pensões | | Outros Custeios e Capital |
+ | R$ 1,00 | % (apos. + occ) | R$ 1,00 | % (apos. + occ)
 1995 | 859.609.496 | 49,0 | 849.592.914 | 51,0
 1996 | 1.470.679.381 | 50,3 | 1.452.937.403 | 49,7
 1997 | 1.499.419.168 | 51,3 | 1.421.472.930 | 48,7
 1998 | 1.578.478.032 | 53,8 | 1.354.278.172 | 46,2
 
-Tabela 12 - IFES - Relação entre Despesas com Aposentadorias e Pensões e com Outros Custeios e Capital
-
-Fonte : Tribunal de Contas da União - valores constantes de 1998
+Fonte : Tribunal de Contas da União – valores constantes de 1998
 
 Verifica-se,  portanto  que  o  percentual  de  recursos  destinados  à  manutenção  e  investimento  nas  IFES decresce na mesma proporção em que aumentam os gastos com inativos e pensionistas.
 
 É importante observar, ainda o comportamento das despesas com investimentos e inversões financeiras. (Tabela 13).
 
+Tabela 13 - IFES - Despesas com Investimentos e Inversões Financeiras
 Exercício | Total | Índice de Gasto | (%) Em Relação a 1995
---- | --- | --- | ---
 1995 | 260.891.319 | 100,0 | 0,0
 1996 | 172.984.623 | 66,3 | - 33,7
 1997 | 168.287.637 | 64,5 | - 35,5
 1998 | 86.552.016 | 33,2 | - 66,8
-
-Tabela 13 - IFES - Despesas com Investimentos e Inversões Financeiras
 
 Fonte : Tribunal de Contas da União - valores constantes de 1998, exclusive os CEFETs
 
@@ -1034,89 +1150,58 @@ A  diretriz  básica  para  o  bom  desempenho  desse  segmento  é  a  autonomi
 
 ##### 4.3 Objetivos e Metas 4
 
-- Prover, até o final da década, a oferta de educação superior para, pelo menos, 30% da faixa etária de 18 a 24 anos.**
-
-(VETADO)
-
-- Estabelecer uma política de expansão que diminua as desigualdades de oferta existentes entre as diferentes regiões do País.*
-
-- Estabelecer  um  amplo sistema interativo de educação a distância, utilizando-o, inclusive, para ampliar as possibilidades de atendimento nos cursos presenciais, regulares ou de educação continuada.**
-
-- Assegurar efetiva autonomia didática, científica, administrativa e de gestão financeira para as universidades públicas.**
-
-- Institucionalizar  um  amplo  e  diversificado  sistema  de  avaliação  interna  e  externa  que  englobe  os  setores público  e  privado,  e  promova  a  melhoria  da  qualidade  do  ensino,  da  pesquisa,  da  extensão  e  da  gestão acadêmica.*
+1. Prover, até o final da década, a oferta de educação superior para, pelo menos, 30% da faixa etária de 18 a 24 anos.**
+2. (VETADO)
+3. Estabelecer uma política de expansão que diminua as desigualdades de oferta existentes entre as diferentes regiões do País.*
+4. Estabelecer um amplo sistema interativo de educação a distância, utilizando-o, inclusive, para ampliar as possibilidades de atendimento nos cursos presenciais, regulares ou de educação continuada.**
+5. Assegurar efetiva autonomia didática, científica, administrativa e de gestão financeira para as universidades públicas.**
+6. Institucionalizar um amplo e diversificado sistema de avaliação interna e externa que englobe os setores público e privado, e promova a melhoria da qualidade do ensino, da pesquisa, da extensão e da gestão acadêmica.*
 
 [[END OF PAGE 46]]
 
 [[START OF PAGE 47]]
 
-- Instituir programas de fomento para que as instituições de educação superior constituam sistemas próprios e sempre que possível nacionalmente articulados, de avaliação institucional e de cursos, capazes de possibilitar a  elevação  dos  padrões  de  qualidade  do  ensino,  de  extensão  e  no  caso  das  universidades,  também  de pesquisa.*
-
-- Estender,  com  base  no  sistema  de  avaliação,  diferentes  prerrogativas  de  autonomia  às  instituições  nãouniversitárias públicas e privadas.*
-
-- Estabelecer sistema de recredenciamento periódico das instituições e reconhecimento periódicos dos cursos superiores, apoiado no sistema nacional de avaliação.**
-
-- Diversificar o sistema superior de ensino, favorecendo e valorizando estabelecimentos não-universitários que  ofereçam  ensino  de  qualidade  e  que  atendam  clientelas  com  demandas  específicas  de  formação: tecnológica, profissional liberal, em novas profissões, para exercício do magistério ou de formação geral.**
-
-- Estabelecer,  em  nível  nacional,  diretrizes  curriculares  que  assegurem  a  necessária  flexibilidade  e diversidade nos programas de estudos oferecidos pelas diferentes instituições de educação superior, de forma a melhor atender às necessidades diferenciais de suas clientelas e às peculiaridades das regiões nas quais se inserem.*
-
-- Incluir nas diretrizes curriculares dos cursos de formação de docentes temas relacionados às problemáticas tratadas nos temas transversais, especialmente no que se refere à abordagem tais como: gênero, educação sexual, ética (justiça, diálogo, respeito mútuo, solidariedade e tolerância), pluralidade cultural, meio ambiente, saúde e temas locais.
-
-- Diversificar a oferta de ensino, incentivando a criação de cursos noturnos com propostas inovadoras, de cursos seqüenciais e de cursos modulares, com a certificação, permitindo maior flexibilidade na formação e ampliação da oferta de ensino.**
-
-- A partir de padrões mínimos fixados pelo Poder Público, exigir melhoria progressiva da infra-estrutura de laboratórios,  equipamentos  e  bibliotecas,  como  condição  para  o  recredenciamento  das  instituições  de educação superior e renovação do reconhecimento de cursos.*
-
-- Estimular  a  consolidação  e  o  desenvolvimento  da  pós-graduação  e  da  pesquisa  das  universidades, dobrando, em dez anos, o número de pesquisadores qualificados.**
-
-- Promover o aumento anual do número de mestres e de doutores formados no sistema nacional de pósgraduação em, pelo menos, 5%.**
-
-- Promover levantamentos periódicos do êxodo de pesquisadores brasileiros formados, para outros países, investigar suas causas, desenvolver ações imediatas no sentido de impedir que o êxodo continue e planejar estratégias de atração desses pesquisadores, bem como de talentos provenientes de outros países.**
-
-- Incentivar a generalização da prática da pesquisa como elemento integrante e modernizador dos processos de ensino-aprendizagem  em  toda  a educação  superior, inclusive com  a  participação de alunos no desenvolvimento da pesquisa.**
-
-- Criar políticas que facilitem às minorias, vítimas de discriminação, o acesso à educação superior, através de programas de compensação de deficiências de sua formação escolar anterior, permitindo-lhes, desta forma, competir em igualdade de condições nos processos de seleção e admissão a esse nível de ensino.**
-
-- Implantar  planos  de  capacitação  dos  servidores  técnico-administrativos  das  instituições  públicas  de educação superior, sendo de competência da IES definir a forma de utilização dos recursos previstos para esta finalidade.**
-
-- Garantir,  nas  instituições  de  educação  superior,  a  oferta  de  cursos  de  extensão,  para  atender  as necessidades da educação continuada de adultos, com ou sem formação superior, na perspectiva de integrar o necessário esforço nacional de resgate da dívida social e educacional.
-
-- Garantir  a  criação  de  conselhos  com  a  participação  da  comunidade  e  de  entidades  da  sociedade  civil organizada, para acompanhamento e controle social das atividades universitárias, com o objetivo de assegurar o retorno à sociedade dos resultados das pesquisas, do ensino e da extensão.
-
-- Implantar o Programa de Desenvolvimento da Extensão Universitária em todas as Instituições Federais de Ensino Superior no quadriênio 2001-2004 e assegurar que, no mínimo, 10% do total de créditos exigidos para a graduação no ensino superior no País será reservado para a atuação dos alunos em ações extensionistas.
+7. Instituir programas de fomento para que as instituições de educação superior constituam sistemas próprios e sempre que possível nacionalmente articulados, de avaliação institucional e de cursos, capazes de possibilitar a elevação dos padrões de qualidade do ensino, de extensão e no caso das universidades, também de pesquisa.*
+8. Estender, com base no sistema de avaliação, diferentes prerrogativas de autonomia às instituições não-universitárias públicas e privadas.*
+9. Estabelecer sistema de recredenciamento periódico das instituições e reconhecimento periódicos dos cursos superiores, apoiado no sistema nacional de avaliação.**
+10. Diversificar o sistema superior de ensino, favorecendo e valorizando estabelecimentos não-universitários que ofereçam ensino de qualidade e que atendam clientelas com demandas específicas de formação: tecnológica, profissional liberal, em novas profissões, para exercício do magistério ou de formação geral.**
+11. Estabelecer, em nível nacional, diretrizes curriculares que assegurem a necessária flexibilidade e diversidade nos programas de estudos oferecidos pelas diferentes instituições de educação superior, de forma a melhor atender às necessidades diferenciais de suas clientelas e às peculiaridades das regiões nas quais se inserem.*
+12. Incluir nas diretrizes curriculares dos cursos de formação de docentes temas relacionados às problemáticas tratadas nos temas transversais, especialmente no que se refere à abordagem tais como: gênero, educação sexual, ética (justiça, diálogo, respeito mútuo, solidariedade e tolerância), pluralidade cultural, meio ambiente, saúde e temas locais.
+13. Diversificar a oferta de ensino, incentivando a criação de cursos noturnos com propostas inovadoras, de cursos seqüenciais e de cursos modulares, com a certificação, permitindo maior flexibilidade na formação e ampliação da oferta de ensino.**
+14. A partir de padrões mínimos fixados pelo Poder Público, exigir melhoria progressiva da infra-estrutura de laboratórios, equipamentos e bibliotecas, como condição para o recredenciamento das instituições de educação superior e renovação do reconhecimento de cursos.*
+15. Estimular a consolidação e o desenvolvimento da pós-graduação e da pesquisa das universidades, dobrando, em dez anos, o número de pesquisadores qualificados.**
+16. Promover o aumento anual do número de mestres e de doutores formados no sistema nacional de pós-graduação em, pelo menos, 5%.**
+17. Promover levantamentos periódicos do êxodo de pesquisadores brasileiros formados, para outros países, investigar suas causas, desenvolver ações imediatas no sentido de impedir que o êxodo continue e planejar estratégias de atração desses pesquisadores, bem como de talentos provenientes de outros países.**
+18. Incentivar a generalização da prática da pesquisa como elemento integrante e modernizador dos processos de ensino-aprendizagem em toda a educação superior, inclusive com a participação de alunos no desenvolvimento da pesquisa.**
+19. Criar políticas que facilitem às minorias, vítimas de discriminação, o acesso à educação superior, através de programas de compensação de deficiências de sua formação escolar anterior, permitindo-lhes, desta forma, competir em igualdade de condições nos processos de seleção e admissão a esse nível de ensino.**
+20. Implantar planos de capacitação dos servidores técnico-administrativos das instituições públicas de educação superior, sendo de competência da IES definir a forma de utilização dos recursos previstos para esta finalidade.**
+21. Garantir, nas instituições de educação superior, a oferta de cursos de extensão, para atender as necessidades da educação continuada de adultos, com ou sem formação superior, na perspectiva de integrar o necessário esforço nacional de resgate da dívida social e educacional.
+22. Garantir a criação de conselhos com a participação da comunidade e de entidades da sociedade civil organizada, para acompanhamento e controle social das atividades universitárias, com o objetivo de assegurar o retorno à sociedade dos resultados das pesquisas, do ensino e da extensão.
+23. Implantar o Programa de Desenvolvimento da Extensão Universitária em todas as Instituições Federais de Ensino Superior no quadriênio 2001-2004 e assegurar que, no mínimo, 10% do total de créditos exigidos para a graduação no ensino superior no País será reservado para a atuação dos alunos em ações extensionistas.
 
 ##### 4.4 - Financiamento e Gestão da Educação Superior
 
-(VETADO)
-
-- Estabelecer um sistema de financiamento para o setor público, que considere, na distribuição de recursos para  cada  instituição,  além  da  pesquisa,  o  número  de  alunos  atendidos,  resguardada  a  qualidade  dessa oferta.**
-
-(VETADO)
-
-- Oferecer apoio e incentivo governamental  para as instituições comunitárias sem  fins lucrativos, preferencialmente aquelas situadas em  localidades não atendidas pelo Poder Público, levando  em consideração a avaliação do custo e a qualidade do ensino oferecido.
+24. (VETADO)
+25. Estabelecer um sistema de financiamento para o setor público, que considere, na distribuição de recursos para cada instituição, além da pesquisa, o número de alunos atendidos, resguardada a qualidade dessa oferta.**
+26. (VETADO)
+27. Oferecer apoio e incentivo governamental para as instituições comunitárias sem fins lucrativos, preferencialmente aquelas situadas em localidades não atendidas pelo Poder Público, levando em consideração a avaliação do custo e a qualidade do ensino oferecido.
 
 [[END OF PAGE 47]]
 
 [[START OF PAGE 48]]
 
-- Estimular, com recursos públicos federais e estaduais, as instituições de educação superior a constituírem programas especiais de titulação e capacitação de docentes, desenvolvendo e consolidando a pós-graduação no País.**
+28. Estimular, com recursos públicos federais e estaduais, as instituições de educação superior a constituírem programas especiais de titulação e capacitação de docentes, desenvolvendo e consolidando a pós-graduação no País.**
+29. (VETADO)
+30. Utilizar parte dos recursos destinados à ciência e tecnologia, para consolidar o desenvolvimento da pós-graduação e da pesquisa.**
+31. Incluir, nas informações coletadas anualmente através do questionário anexo ao Exame Nacional de Cursos, questões relevantes para a formulação de políticas de gênero, tais como trancamento de matrícula ou abandono temporário dos cursos superiores motivados por gravidez e/ou exercício de funções domésticas relacionadas à guarda e educação dos filhos.*
+32. Estimular a inclusão de representantes da sociedade civil organizada nos Conselhos Universitários.**
+33. Estimular as instituições de ensino superior a identificar, na educação básica, estudantes com altas habilidades intelectuais, nos estratos de renda mais baixa, com vistas a oferecer bolsas de estudo e apoio ao prosseguimento dos estudos.**
+34. Estimular a adoção, pelas instituições públicas, de programas de assistência estudantil, tais como bolsa-trabalho ou outros destinados a apoiar os estudantes carentes que demonstrem bom desempenho acadêmico.**
+35. Observar, no que diz respeito à educação superior, as metas estabelecidas nos capítulos referentes à educação a distância, formação de professores, educação indígena, educação especial e educação de jovens e adultos.
 
-(VETADO)
+## III – MODALIDADES DE ENSINO
 
-- Utilizar parte dos recursos destinados à ciência e tecnologia, para consolidar o desenvolvimento da pósgraduação e da pesquisa.**
-
-- Incluir,  nas  informações  coletadas  anualmente  através  do  questionário  anexo  ao  Exame  Nacional  de Cursos, questões relevantes para a formulação de políticas de gênero, tais como trancamento de matrícula ou abandono  temporário  dos  cursos  superiores  motivados  por  gravidez  e/ou  exercício  de  funções  domésticas relacionadas à guarda e educação dos filhos.*
-
-- Estimular a inclusão de representantes da sociedade civil organizada nos Conselhos Universitários.**
-
-- Estimular  as  instituições  de  ensino  superior  a  identificar,  na  educação  básica,  estudantes  com  altas habilidades intelectuais, nos estratos de renda mais baixa, com vistas a oferecer bolsas de estudo e apoio ao prosseguimento dos estudos.**
-
-- Estimular a adoção, pelas instituições públicas, de programas de assistência estudantil, tais como bolsatrabalho ou outros destinados  a  apoiar  os  estudantes  carentes  que  demonstrem  bom  desempenho acadêmico.**
-
-- Observar,  no  que  diz  respeito  à  educação  superior,  as  metas  estabelecidas  nos  capítulos  referentes  à educação a distância, formação de professores, educação indígena, educação especial e educação de jovens e adultos.
-
-## III - MODALIDADES DE ENSINO
-
-#### EDUCAÇÃO DE JOVENS E ADULTOS
+#### 5. EDUCAÇÃO DE JOVENS E ADULTOS
 
 ##### 5.1 Diagnóstico
 
@@ -1146,33 +1231,29 @@ Fonte : Pesquisa Nacional por Amostra de Domicílios- 1996.Rio de Janeiro. IBGE,
 
 Uma concepção ampliada de alfabetização, abrangendo a formação equivalente às oito séries do ensino fundamental,  aumenta  a  população  a  ser  atingida,  pois,  como  se  verifica  na  Tabela  15,  é  muito  elevado  o número de jovens e adultos que não lograram completar a escolaridade obrigatória.
 
+Tabela 15 - Escolarização da População - 1996
 Grupos de idades | Classes de Anos de Estudo (%)
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Sem Instrução e menos de 1 ano | 1 a 3 anos | 4 anos | 5 a 7 anos | 8 anos | 8 a 11 anos | 12 anos e mais | Não determinados
+ | Sem Instrução e menos de 1 ano | 1 a 3 anos | 4 anos | 5 a 7 anos | 8 anos | 8 a 11 anos | 12 anos e mais | Não determinados
 Total | 13,61 | 21,55 | 16,84 | 18,32 | 8,25 | 14,68 | 5,88 | 0,87
 10 a 14 anos | 10,11 | 42,99 | 18,66 | 26,37 | 0,85 | 0,07 | 0,00 | 0,96
-
-Tabela 15 - Escolarização da População - 1996
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-15 a 19 anos | 5,36 16,29 | 12,75 | 32,15 | 12,46 | 19,20 | 0,76 | 1,03
---- | --- | --- | --- | --- | --- | --- | ---
-20 a 24 anos | 5,75 14,37 | 13,05 22,73 | 10,80 | 25,70 | 6,81 | 0,79
-25 a 29 anos | 7,03 14,86 | 14,80 | 19,87 | 11,18 | 23,10 | 8,44 | 0,71
-30 a 39 anos | 9,10 16,61 | 17,59 | 15,39 | 10,29 | 19,87 | 10,08 | 1,08
-40 a 49 anos | 15,46 20,61 | 19,85 | 11,20 | 8,72 | 13,51 | 10,-4 | 0,60
-50 a 59 anos | 25,53 24,17 | 20,59 | 8,00 | 6,32 | 8,34 | 6,53 | 0,51
-60 anos ou mais | 40,99 22,01 | 17,81 | 5,84 | 4,35 | 5,10 | 3,41 | 0,47
-Idade ignorada | 22,81 20,08 | 11,14 | 11,36 | 5,27 | 8,50 | 3,02 | 17,83
+15 a 19 anos | 5,36 | 16,29 | 12,75 | 32,15 | 12,46 | 19,20 | 0,76 | 1,03
+20 a 24 anos | 5,75 | 14,37 | 13,05 | 22,73 | 10,80 | 25,70 | 6,81 | 0,79
+25 a 29 anos | 7,03 | 14,86 | 14,80 | 19,87 | 11,18 | 23,10 | 8,44 | 0,71
+30 a 39 anos | 9,10 | 16,61 | 17,59 | 15,39 | 10,29 | 19,87 | 10,08 | 1,08
+40 a 49 anos | 15,46 | 20,61 | 19,85 | 11,20 | 8,72 | 13,51 | 10,04 | 0,60
+50 a 59 anos | 25,53 | 24,17 | 20,59 | 8,00 | 6,32 | 8,34 | 6,53 | 0,51
+60 anos ou mais | 40,99 | 22,01 | 17,81 | 5,84 | 4,35 | 5,10 | 3,41 | 0,47
+Idade ignorada | 22,81 | 20,08 | 11,14 | 11,36 | 5,27 | 8,50 | 3,02 | 17,83
 
 Fonte: IBGE. Contagem da População de 1996. Embora o analfabetismo esteja concentrado nas faixas etárias mais avançadas (Tabela 16) e as taxas tenham se  reduzido,  passando  de  20,1%  da  população,  em  1991,  para  15,6  %  em  1995,  há  também  uma  redução insuficiente do analfabetismo ao longo do tempo. As gerações antigas não podem ser consideradas como as únicas responsáveis pelas taxas atuais, pois pessoas entre quinze e trinta anos em 1997 somavam cerca de 21,4 % do analfabetismo total. O problema não se resume a uma questão demográfica. Como há reposição do estoque de analfabetos, além do fenômeno da regressão, é de se esperar que apenas a dinâmica demográfica seja insuficiente para promover a redução em níveis razoáveis nos próximos anos. Por isso, para acelerar a redução do analfabetismo é necessário agir ativamente tanto sobre o estoque existente quanto sobre as futuras gerações. Tabela 16 - População de 15 anos ou mais de idade por situação de alfabetização - 1997 (*)
 
-Sexo Localização do Domicílio | População de 15 anos ou mais por Grupos de Idade
---- | --- | --- | --- | --- | --- | --- | ---
-Total | 15 a 19 anos | 20 a 24 anos | 25 a 29 anos | 30 a 39 anos | 40 a 49 anos | 50 anos ou mais
+Sexo e Localização do Domicílio | População de 15 anos ou mais por Grupos de Idade
+ | Total | 15 a 19 anos | 20 a 24 anos | 25 a 29 anos | 30 a 39 anos | 40 a 49 anos | 50 anos ou mais
 Total | 108.025.650 | 16.580.383 | 13.454.058 | 12.303.375 | 23.245.389 | 17.601.643 | 24.840.802
 Não Alfabetizada | 15.883.372 | 941.773 | 960.560 | 1.058.705 | 2.382.562 | 2.683.390 | 7.856.382
 Analfabetismo % | 14,07 | 5,7 | 7,1 | 8,6 | 10,2 | 15,2 | 31,6
@@ -1201,17 +1282,15 @@ Fonte: IBGE - Censo Demográfico 1991/PNAD 1995/1996/1997
 
 Como se infere da Tabela 15, não se verificam, tomado este indicador, distorções significativas em função do  gênero,  estando  inclusive  as  mulheres  melhor  posicionadas  nos  grupos  etários  abaixo  de  40  anos. Tomando-se o corte regional, as mulheres têm, em todas as regiões, uma maior média de anos de estudo. Entretanto,  quando  o  fator  verificado  é  a  etnia,  nota-se  uma  distorção,  a  indicar  a  necessidade  de  políticas focalizadas. (Tabela 17)
 
+Tabela 17 - Média de anos de estudo das pessoas de 10 anos ou mais de idade por sexo e cor – 1996
 Brasil | Média de anos de estudo
---- | --- | --- | --- | --- | ---
-Total | Homens | Mulheres | Branca | Preta e Parda
+ | Total | Homens | Mulheres | Branca | Preta e Parda
 Total | 5,3 | 5,2 | 5,4 | 6,2 | 4,2
-Região Norte Urbana | 5,2 | 4,9 | 5,4 | 6,3 4,7
+Região Norte Urbana | 5,2 | 4,9 | 5,4 | 6,3 | 4,7
 Região Nordeste | 3,9 | 3,6 | 4,2 | 4,8 | 3,5
 Região Sudeste | 6,0 | 6,0 | 6,0 | 6,6 | 4,9
 Região Sul | 5,8 | 5,8 | 5,8 | 6,0 | 4,3
 Região Centro-Oeste | 5,5 | 5,2 | 5,5 | 6,3 | 4,7
-
-Tabela 17 - Média de anos de estudo das pessoas de 10 anos ou mais de idade por sexo e cor - 1996
 
 Fonte: Pesquisa Nacional por Amostra de Domicílios 1996, (CD-ROM).
 
@@ -1247,7 +1326,7 @@ Cabe,  por  fim,  considerar  que  o  resgate  da  dívida  educacional  não  s
 
 - Estabelecer  programa  nacional,  para  assegurar  que  as  escolas  públicas  de  ensino  fundamental  e  médio localizadas  em  áreas  caracterizadas  por  analfabetismo  e  baixa  escolaridade  ofereçam  programas  de alfabetização e de ensino e exames para jovens e adultos, de acordo com as diretrizes curriculares nacionais.**
 
-- Estabelecer  programa  nacional  de  fornecimento,  pelo  Ministério  da  Educação,  de  material  didáticopedagógico, adequado à clientela, para os cursos em nível de ensino fundamental para jovens e adultos, de forma a incentivar a generalização das iniciativas mencionadas na meta anterior.*
+- Estabelecer programa nacional de fornecimento, pelo Ministério da Educação, de material didático-pedagógico, adequado à clientela, para os cursos em nível de ensino fundamental para jovens e adultos, de forma a incentivar a generalização das iniciativas mencionadas na meta anterior.*
 
 - Realizar, anualmente, levantamento e avaliação de experiências em alfabetização de jovens e adultos, que constituam referência para os agentes integrados ao esforço nacional de erradicação do analfabetismo.**
 
@@ -1295,7 +1374,7 @@ Cabe,  por  fim,  considerar  que  o  resgate  da  dívida  educacional  não  s
 
 - Incluir, a partir da aprovação do Plano Nacional de Educação, a Educação de Jovens e Adultos nas formas de financiamento da Educação Básica.
 
-#### EDUCAÇÃO A DISTÂNCIA E TECNOLOGIAS EDUCACIONAIS
+#### 6. EDUCAÇÃO A DISTÂNCIA E TECNOLOGIAS EDUCACIONAIS
 
 ##### 6.1 Diagnóstico
 
@@ -1323,9 +1402,9 @@ Ao  introduzir  novas  concepções  de  tempo  e  espaço  na  educação,  a  
 
 Ao  estabelecer  que  o  Poder  Público  incentivará  o  desenvolvimento  de  programas  de  educação  a distância,  em  todos  os  níveis  e  modalidades  de  ensino,  a  Lei  de  Diretrizes  e  Bases  da  Educação  Nacional introduziu  uma  abertura  de  grande  alcance  para  a  política  educacional.  É  preciso  ampliar  o  conceito  de educação  a  distância  para  poder  incorporar  todas  as  possibilidades  que  as  tecnologias  de  comunicação possam  propiciar  a  todos  os  níveis  e  modalidades  de  educação,  seja  por  meio  de  correspondência, transmissão  radiofônica  e  televisiva,  programas  de  computador,  internet,  seja  por  meio  dos  mais  recentes
 
-processos de utilização conjugada de meios como a telemática e a multimídia. O  material  escrito,  parte  integrante  e  essencial  para  a  eficácia  desta  modalidade  de  educação,  deverá apresentar a mesma qualidade dos materiais audiovisuais. No  conjunto  da  oferta  de  programas  para  formação  a  distância,  há  certamente  que  permitir-se  a multiplicação  de  iniciativas.  Os  programas  educativos  e  culturais  devem  ser  incentivados  dentro  do  espírito geral da liberdade de imprensa, consagrada pela Constituição Federal, embora sujeitos a padrões de qualidade que  precisam  ser  objeto  de  preocupação  não  só  dos  órgãos  governamentais,  mas  também  dos  próprios produtores, por meio de um sistema de auto-regulamentação. Quando se trata, entretanto, de cursos regulares, que dêem direito a certificados ou diplomas, a regulamentação e o controle de qualidade por parte do Poder Público são indispensáveis e devem ser rigorosos. Há,  portanto,  que  distinguirem-se  claramente  as  políticas  dirigidas  para  o  incentivo  de  programas educativos em geral e aquelas formuladas para controlar e garantir a qualidade dos programas que levam à certificação ou diploma. A  Lei  de  Diretrizes  e  Bases  considera  a  educação  a  distância  como  um  importante  instrumento  de formação e capacitação de professores em serviço. Numa visão prospectiva, de prazo razoavelmente curto, é preciso aproveitar melhor a competência existente no ensino superior presencial para institucionalizar a oferta de cursos de graduação e iniciar um projeto de universidade aberta que dinamize o processo de formação de profissionais qualificados, de forma a atender as demandas da sociedade brasileira. As tecnologias utilizadas na educação a distância não podem, entretanto, ficar restritas a esta finalidade. Elas constituem hoje um instrumento de enorme potencial para o enriquecimento curricular e a melhoria da qualidade  do  ensino  presencial.  Para  isto,  é  fundamental  equipar  as  escolas  com  multimeios,  capacitar  os professores para utilizá-los, especialmente na Escola Normal, nos cursos de Pedagogia e nas Licenciaturas, e integrar a informática na formação regular dos alunos. A televisão, o vídeo, o rádio e o computador constituem importantes instrumentos pedagógicos auxiliares, não devendo substituir, no entanto, as relações de comunicação e interação direta entre educador e educando. Só será permitida a celebração de contratos onerosos para a retransmissão de programa de Educação à Distância com redes de televisão e de rádio quando não houver cobertura da Televisão e de Rádio Educativa, bem  como  a  elaboração  dos  programas  será  realizada  pelas  Secretarias  Estaduais,  Municipais  ou  pelo Ministério da Educação. 6
+processos de utilização conjugada de meios como a telemática e a multimídia. O material escrito, parte integrante e essencial para a eficácia desta modalidade de educação, deverá apresentar a mesma qualidade dos materiais audiovisuais. No conjunto da oferta de programas para formação a distância, há certamente que permitir-se a multiplicação de iniciativas. Os programas educativos e culturais devem ser incentivados dentro do espírito geral da liberdade de imprensa, consagrada pela Constituição Federal, embora sujeitos a padrões de qualidade que precisam ser objeto de preocupação não só dos órgãos governamentais, mas também dos próprios produtores, por meio de um sistema de auto-regulamentação. Quando se trata, entretanto, de cursos regulares, que dêem direito a certificados ou diplomas, a regulamentação e o controle de qualidade por parte do Poder Público são indispensáveis e devem ser rigorosos. Há, portanto, que distinguirem-se claramente as políticas dirigidas para o incentivo de programas educativos em geral e aquelas formuladas para controlar e garantir a qualidade dos programas que levam à certificação ou diploma. A Lei de Diretrizes e Bases considera a educação a distância como um importante instrumento de formação e capacitação de professores em serviço. Numa visão prospectiva, de prazo razoavelmente curto, é preciso aproveitar melhor a competência existente no ensino superior presencial para institucionalizar a oferta de cursos de graduação e iniciar um projeto de universidade aberta que dinamize o processo de formação de profissionais qualificados, de forma a atender as demandas da sociedade brasileira. As tecnologias utilizadas na educação a distância não podem, entretanto, ficar restritas a esta finalidade. Elas constituem hoje um instrumento de enorme potencial para o enriquecimento curricular e a melhoria da qualidade do ensino presencial. Para isto, é fundamental equipar as escolas com multimeios, capacitar os professores para utilizá-los, especialmente na Escola Normal, nos cursos de Pedagogia e nas Licenciaturas, e integrar a informática na formação regular dos alunos. A televisão, o vídeo, o rádio e o computador constituem importantes instrumentos pedagógicos auxiliares, não devendo substituir, no entanto, as relações de comunicação e interação direta entre educador e educando. Só será permitida a celebração de contratos onerosos para a retransmissão de programa de Educação à Distância com redes de televisão e de rádio quando não houver cobertura da Televisão e de Rádio Educativa, bem como a elaboração dos programas será realizada pelas Secretarias Estaduais, Municipais ou pelo Ministério da Educação.
 
-##### 6.3 Objetivos e Metas
+##### 6.3 Objetivos e Metas 6
 
 - A União deverá estabelecer, dentro de um ano, normas para credenciamento das instituições que ministram cursos a distância .
 
@@ -1363,7 +1442,7 @@ processos de utilização conjugada de meios como a telemática e a multimídia.
 
 - Capacitar,  em  cinco  anos,  pelo  menos  500.000  professores  para  a  utilização  plena  da  TV  Escola  e  de outras redes de programação educacional.**
 
-- Instalar, em dez anos, 2.000 núcleos de tecnologia educacional, os quais deverão atuar como centros de orientação para as escolas e para os orgãos administrativos dos sistemas de ensino no acesso aos programas informatizados e aos vídeos educativos.**
+- Instalar, em dez anos, 2.000 núcleos de tecnologia educacional, os quais deverão atuar como centros de orientação para as escolas e para os órgãos administrativos dos sistemas de ensino no acesso aos programas informatizados e aos vídeos educativos.**
 
 - Instalar,  em  cinco  anos,  500.000  computadores  em  30.000  escolas  públicas  de  ensino  fundamental  e médio, promovendo condições de acesso à internet.*
 
@@ -1375,7 +1454,7 @@ processos de utilização conjugada de meios como a telemática e a multimídia.
 
 - Observar,  no  que  diz  respeito  à  educação  a  distância  e  às  novas  tecnologias  educacionais,  as  metas pertinentes incluídas nos capítulos referentes à educação infantil, à formação de professores, à educação de jovens e adultos, à educação indígena e à educação especial.
 
-#### EDUCAÇÃO TECNOLÓGICA E FORMAÇÃO PROFISSIONAL
+#### 7. EDUCAÇÃO TECNOLÓGICA E FORMAÇÃO PROFISSIONAL
 
 ##### 7.1 Diagnóstico
 
@@ -1389,9 +1468,11 @@ No  sistema escolar, a matrícula em 1996 expressa que, em cada dez concluintes 
 
 [[START OF PAGE 55]]
 
-Habitações | Concluintes | Crescimento 1988 - 1996
+Tabela 18 - Habilitações de nível médio com maior número de concluintes - 1988 e 1996
+
+Habitações | Concluintes |  |  |  | Crescimento 1988 - 1996
 --- | --- | --- | --- | --- | ---
-1988 | % | 1996 | %
+ | 1988 | % | 1996 | % |
 Magistério 1º grau | 127.023 | 20,1 | 193.024 | 16,6 | 52,0
 Técnico Contabilidade | 113.548 | 18,0 | 174.186 | 15,0 | 53,4
 Administração | 24.165 | 3,8 | 32.001 | 2,7 | 32,4
@@ -1404,19 +1485,17 @@ Mecânica | 5.789 | 0,9 | 8.451 | 0,7 | 46,0
 Secretariado | 8.811 | 1,4 | 8.389 | 0,7 | -4,8
 Total | 325.513 | 51,6 | 490.005 | 42,1 | 50,0
 
-Tabela 18 - Habilitações de nível médio com maior número de concluintes - 1988 e 1996
-
 Fonte: MEC/INEP/SEEC
 
-Funcionando em escolas onde há carências e improvisações generalizadas, a Educação Profissional tem reafirmado  a  dualidade  propedêutico-profissional  existente  na  maioria  dos  países  ocidentais.  Funcionou sempre  como  mecanismo  de  exclusão  fortemente  associado  à  origem  social  do  estudante.  Embora  não existam estatísticas detalhadas a respeito, sabe-se que a maioria das habilitações de baixo custo e prestígio encontra-se em instituições noturnas estaduais ou municipais. Em apenas 15% delas há bibliotecas, menos de 5% oferecem ambiente adequado para estudo das ciências e nem 2% possuem laboratório de informática indicadores da baixa qualidade do ensino que oferecem às camadas mais desassistidas da população.
+Funcionando em escolas onde há carências e improvisações generalizadas, a Educação Profissional tem reafirmado a dualidade propedêutico-profissional existente na maioria dos países ocidentais. Funcionou sempre como mecanismo de exclusão fortemente associado à origem social do estudante. Embora não existam estatísticas detalhadas a respeito, sabe-se que a maioria das habilitações de baixo custo e prestígio encontra-se em instituições noturnas estaduais ou municipais. Em apenas 15% delas há bibliotecas, menos de 5% oferecem ambiente adequado para estudo das ciências e nem 2% possuem laboratório de informática – indicadores da baixa qualidade do ensino que oferecem às camadas mais desassistidas da população.
 
-Há muito, o País selou a educação profissional de qualquer nível, mas sobretudo o médio, como forma de separar aqueles que não se destinariam às melhores posições na sociedade. Um cenário que as diretrizes da educação profissional propostas neste plano buscam superar, ao prever que o cidadão brasileiro deve galgar com  apoio  do  Poder  Público  -  níveis  altos  de  escolarização,  até  porque  estudos  têm  demonstrado  que  o aumento de um ano na média educacional da população economicamente ativa determina um incremento de 5,5 % do PIB (Produto Interno Bruto). Nesse contexto, a elevação da escolaridade do trabalhador coloca-se como essencial para a inserção competitiva do Brasil no mundo globalizado.
+Há muito, o País selou a educação profissional de qualquer nível, mas sobretudo o médio, como forma de separar aqueles que não se destinariam às melhores posições na sociedade. Um cenário que as diretrizes da educação profissional propostas neste plano buscam superar, ao prever que o cidadão brasileiro deve galgar – com apoio do Poder Público – níveis altos de escolarização, até porque estudos têm demonstrado que o aumento de um ano na média educacional da população economicamente ativa determina um incremento de 5,5 % do PIB (Produto Interno Bruto). Nesse contexto, a elevação da escolaridade do trabalhador coloca-se como essencial para a inserção competitiva do Brasil no mundo globalizado.
 
 ##### 7.2 Diretrizes
 
 Há um consenso nacional: a formação para o trabalho exige hoje níveis cada vez mais altos de educação básica, geral, não podendo esta ficar reduzida à aprendizagem de algumas habilidades técnicas, o que não impede o oferecimento de cursos de curta duração voltados para a adaptação do trabalhador às oportunidades do mercado de trabalho, associados à promoção de níveis crescentes de escolarização regular. Finalmente, entende-se  que  a  educação  profissional  não  pode  ser  concebida  apenas  como  uma  modalidade  de  ensino médio, mas deve constituir educação continuada, que perpassa toda a vida do trabalhador.
 
-Por isso mesmo, estão sendo implantadas novas diretrizes no sistema público de educação profissional, associadas  à  reforma  do  ensino  médio . Prevê-se  que  a  educação  profissional,  sob  o  ponto  de  vista operacional, seja estruturada nos níveis básico - independente do nível de escolarização do aluno, técnico complementar ao ensino médio e tecnológico superior de graduação ou de pós-graduação.
+Por isso mesmo, estão sendo implantadas novas diretrizes no sistema público de educação profissional, associadas à reforma do ensino médio. Prevê-se que a educação profissional, sob o ponto de vista operacional, seja estruturada nos níveis básico – independente do nível de escolarização do aluno, técnico – complementar ao ensino médio e tecnológico – superior de graduação ou de pós-graduação.
 
 Prevê-se,  ainda,  a  integração  desses  dois  tipos  de  formação:  a  formal,  adquirida  em  instituições especializadas, e a não-formal, adquirida por meios diversos, inclusive no trabalho. Estabelece para isso um sistema  flexível  de  reconhecimento  de  créditos  obtidos  em  qualquer  uma  das  modalidades  e  certifica competências  adquiridas  por  meios  não-formais  de  educação  profissional.  É  importante  também  considerar que a oferta de educação profissional é responsabilidade igualmente compartilhada entre o setor educacional, o Ministério do Trabalho, secretarias do trabalho, serviços sociais do comércio, da agricultura e da indústria e os  sistemas  nacionais  de  aprendizagem.  Os  recursos  provêm,  portanto,  de  múltiplas  fontes.  É  necessário também, e cada vez mais, contar com recursos das próprias empresas, as quais devem financiar a qualificação dos seus trabalhadores, como ocorre nos países desenvolvidos. A política de educação profissional é, portanto, tarefa que exige a colaboração de múltiplas instâncias do Poder Público e da sociedade civil.
 
@@ -1599,7 +1678,7 @@ necessidades  educacionais  especiais,  em  instituições  especializadas  ou  
 
 - Observar,  no  que  diz  respeito  a  essa  modalidade  de  ensino,  as  metas  pertinentes  estabelecidas  nos capítulos referentes aos níveis de ensino, à formação de professores e ao financiamento e gestão.
 
-#### EDUCAÇÃO INDÍGENA
+#### 9. EDUCAÇÃO INDÍGENA
 
 ##### 9.1 Diagnóstico
 
@@ -1671,7 +1750,7 @@ A educação bilíngüe, adequada às peculiaridades culturais dos diferentes gr
 
 - Instituir e regulamentar, nos sistemas estaduais de ensino, a profissionalização e reconhecimento público do  magistério  indígena,  com  a  criação  da  categoria  de  professores  indígenas  como  carreira  específica  do magistério,  com  concurso  de  provas  e  títulos  adequados  às  particularidades  lingüísticas  e  culturais  das sociedades indígenas, garantindo a esses professores os mesmos direitos atribuídos aos demais do mesmo sistema de ensino, com níveis de remuneração correspondentes ao seu nível de qualificação profissional.
 
-- Estabelecer  e  assegurar  a  qualidade  de  programas  contínuos  de  formação  sistemática  do  professorado indígena, especialmente no que diz respeito aos conhecimentos relativos aos processos escolares de ensinoaprendizagem,  à  alfabetização,  à  construção  coletiva  de  conhecimentos  na  escola  e  à  valorização  do patrimônio cultural da população atendida.**
+- Estabelecer e assegurar a qualidade de programas contínuos de formação sistemática do professorado indígena, especialmente no que diz respeito aos conhecimentos relativos aos processos escolares de ensino-aprendizagem, à alfabetização, à construção coletiva de conhecimentos na escola e à valorização do patrimônio cultural da população atendida.**
 
 - Formular,  em  dois  anos,  um  plano  para  a  implementação  de  programas  especiais  para  a  formação  de professores indígenas em nível superior, através da colaboração das universidades e de instituições de nível equivalente.
 
@@ -1703,11 +1782,10 @@ A melhoria da qualidade do ensino, que é um dos objetivos centrais do Plano Nac
 
 A  análise  da  distribuição  das  funções  docentes  por  nível  de  formação  e  níveis  escolares  em  que  atuam somente pode ser feita sobre os dados de 1996, os últimos publicados pelo MEC/INEP/SEEC, conforme se vê a seguir:
 
-Tabela 19 - Funções Docentes - distribuição nacional por nível de formação e níveis escolares em que atuam 1998
+Tabela 19 - Funções Docentes - distribuição nacional por nível de formação e níveis escolares em que atuam – 1998
 
-Nível de formação | Total de funções | Níveis e modalidades de atuação
+Nível de formação | Total de funções | Pré-Esc e Alfabetiz. | 1ª à 4ª séries | 5ª à 8ª séries | ensino médio | educação especial | jovens e adultos
 --- | --- | --- | --- | --- | --- | --- | ---
-Pré-Esc e Alfabetiz. | 1ª à séries | 4ª 5ª à séries | 8ª ensino médio | educação especial | jovens e adultos
 Ens.Fund. Incompl. | 65.968 | 20.581 | 44.335 | 712 | 18 | 322 | 567
 Ens.Fund. Completo | 80.119 | 22.043 | 50.641 | 5.913 | 675 | 847 | 1.462
 Ens. Médio Completo | 916.791 | 174.948 | 531.256 | 153.258 | 38.250 | 19.079 | 32.150
@@ -1738,7 +1816,7 @@ Esta exigência, aliás, se aplica também na formação para o magistério na e
 
 Os dados acima apontam somente para a necessidade atual, isto é, para que o magistério brasileiro que está atuando nos sistemas de ensino possua o nível de formação mínimo estabelecido pela lei. Considerando que este  plano  fixa  metas  de  expansão  e  de  melhoria  da  qualidade  do  ensino,  as  necessidades  de  formação crescerão na mesma proporção daquelas metas.
 
-No  campo  da  remuneração,  o  Fundo  de  Manutenção  e  Desenvolvimento  do  Ensino  Fundamental  e  de Valorização do Magistério está fazendo uma extraordinária mudança naqueles Estados e Municípios onde o professor recebia salários muito baixos, inferiores ao salário mínimo. Devem ser aplicados, obrigatoriamente, pelo menos 60% dos recursos do FUNDEF na remuneração do pessoal de magistério em efetivo exercício de suas atividades no ensino fundamental público (Lei 9.429/96, art. 7 o ). Nos Estados e Municípios onde o salário já  era  mais  alto  do  que  o  possibilitado  pelo  FUNDEF,  não  houve  melhoria  para  os  professores,  antes, dificuldades  adicionais  para  certos  Municípios  manter  o  padrão  anterior  de  remuneração.  A  avaliação  do FUNDEF  vem  apontando  as  falhas  e  sugerindo  revisões  com  vistas  a  solucionar  os  problemas  que  vêm ocorrendo. Em alguns lugares, os professores de educação infantil, de jovens e adultos e de ensino médio, ficaram prejudicados. Se os 10% dos mínimos constitucionalmente vinculados à manutenção e desenvolvimento  do  ensino  não  postos  no  FUNDEF  forem  efetivamente  destinados,  nos  Municípios,  à educação infantil e, nos Estados, ao ensino médio, os problemas ficarão em parte minimizados.
+No campo da remuneração, o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério está fazendo uma extraordinária mudança naqueles Estados e Municípios onde o professor recebia salários muito baixos, inferiores ao salário mínimo. Devem ser aplicados, obrigatoriamente, pelo menos 60% dos recursos do FUNDEF na remuneração do pessoal de magistério em efetivo exercício de suas atividades no ensino fundamental público (Lei 9.429/96, art. 7º). Nos Estados e Municípios onde o salário já era mais alto do que o possibilitado pelo FUNDEF, não houve melhoria para os professores, antes, dificuldades adicionais para certos Municípios manter o padrão anterior de remuneração. A avaliação do FUNDEF vem apontando as falhas e sugerindo revisões com vistas a solucionar os problemas que vêm ocorrendo. Em alguns lugares, os professores de educação infantil, de jovens e adultos e de ensino médio, ficaram prejudicados. Se os 10% dos mínimos constitucionalmente vinculados à manutenção e desenvolvimento do ensino não postos no FUNDEF forem efetivamente destinados, nos Municípios, à educação infantil e, nos Estados, ao ensino médio, os problemas ficarão em parte minimizados.
 
 Em cumprimento à Lei 9.424/96, estão sendo elaborados ou reformulados os planos de carreira do magistério. Tratando-se  de  um  processo  em  curso,  este  plano  reforça  o  propósito  através  de  metas  específicas,  na expectativa de que isso constitua um importante passo e instrumento na valorização do magistério.
 
@@ -1846,7 +1924,7 @@ O ensino  fundamental  nas  comunidades  indígenas,  segundo  o  preceito  cons
 
 - Ampliar, a partir da colaboração da União, dos Estados e dos Municípios, os programas de formação em serviço que assegurem a todos os professores a possibilidade de adquirir a qualificação mínima exigida pela Lei de Diretrizes e Bases da Educação Nacional, observando as diretrizes e os parâmetros curriculares.**
 
-- Desenvolver  programas  de  educação  a  distância  que  possam  ser  utilizados  também  em  cursos  semipresenciais modulares, de forma a tornar possível o cumprimento da meta anterior.**
+- Desenvolver programas de educação a distância que possam ser utilizados também em cursos semi-presenciais modulares, de forma a tornar possível o cumprimento da meta anterior.**
 
 - Generalizar, nas instituições de ensino superior públicas, cursos regulares noturnos e cursos modulares de licenciatura plena que facilitem o acesso dos docentes em exercício à formação nesse nível de ensino. **
 
@@ -1882,11 +1960,13 @@ O ensino  fundamental  nas  comunidades  indígenas,  segundo  o  preceito  cons
 
 [[START OF PAGE 70]]
 
-## V FINANCIAMENTO E GESTÃO
+## V - FINANCIAMENTO E GESTÃO
 
 ##### 11.1 Diagnóstico
 
 A  fixação  de  um  plano  de  metas  exige  uma  definição  de  custos  assim  como  a  identificação  dos  recursos atualmente disponíveis e das estratégias para sua ampliação, seja por meio de uma gestão mais eficiente, seja por  meio  de  criação  de  novas  fontes,  a  partir  da  constatação  da  necessidade  de  maior  investimento.  Os percentuais constitucionalmente vinculados à manutenção e ao desenvolvimento do ensino devem representar o ponto de partida para a formulação e implementação de metas educacionais. É preciso, entretanto, desfazer alguns  enganos.  Há  uma  imagem  equivocada  de  que  esta  fonte  representa  valor  elevado.  A  vinculação  é realizada em relação às receitas resultantes de impostos, e não à totalidade dos recursos orçamentários. Os recursos  de  impostos  não  constituem  sequer  a  totalidade  dos  recursos  tributários  (  que  incluem  taxas  e contribuições de melhoria ).O imposto é espécie do gênero tributo. O orçamento fiscal da União de 1998, por exemplo,  equivalia  a  325,6  bilhões,  sendo  o  orçamento  da  seguridade  social  da  ordem  de  105  bilhões.  A receita vinculada à manutenção e desenvolvimento do ensino, no nível federal, não chegou a 4 bilhões, valor que sequer cobre os gastos com instituições de ensino superior (Tabela 20).
+
+Tabela 20 - Ministério da Educação - Despesa por Fonte( R$ milhões)
 
 Fonte | 1995 | % | 1996 | % | 1997 | % | 1998 | % | 1999 | %
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
@@ -1900,8 +1980,6 @@ Recursos Diretamente arrecadados | 575 | 6,3 | 530 | 5,8 | 495 | 5,1 | 518 | 4,8
 Recursos de Concessões e Permissões | 0 | 0 | 0 | 0 | 0 | 0 | 496 | 4,5 | 0 | 0
 Outros | 621 | 6,8 | 671 | 7,4 | 620 | 6,4 | 932 | 13,3 | 1.762 | 15,9
 Total | 9.070 | 100,0 | 9.153 | 100,0 | 9.643 | 100,0 | 10.768 | 100,0 | 11.085 | 100,0
-
-Tabela 20 - Ministério da Educação - Despesa por Fonte( R$ milhões)
 
 Fonte : SIAFI/PRODASEN - Elaboração; COFF/CD
 
@@ -1917,9 +1995,8 @@ Tabela 21 - Gastos Diretos com Educação das Administrações Públicas - 1997
 
 [[START OF PAGE 71]]
 
-Natureza da despesa | Esfera de governo | Todas as esferas- consolidado
+Natureza da despesa | União | Estados | Municípios | Todas as esferas-consolidado
 --- | --- | --- | --- | ---
-União | Estados | Municípios
 Pessoal e encargos sociais | 4.027.842.317 | 12.275.243.303 | 7.214.711.927 | 23.517.797.547
 Transferência de Assistência e Previdência | 2.413.067.152 | 2.983.201.731 | 913.985.248 | 6.310.254.129
 Outras despesas correntes | 2.430.273.641 | 3.067.446.542 | 3.119.763.513 | 8.617.483.696
@@ -1929,13 +2006,13 @@ Total | 9.627.503.814 | 19.256.250.613 | 11.968.474.085 | 40.851.228.512
 
 Fonte : FECAMP - em valores históricos
 
+Tabela 22 - Gastos Com Educação - Esferas Federativas - 1997
+
 Ente federativo | %
 --- | ---
 UNIÃO | 23,6
 ESTADOS | 47,1
 MUNICÍPIOS | 29,3
-
-Tabela 22 - Gastos Com Educação - Esferas Federativas - 1997
 
 Fonte: Fecamp
 
@@ -1945,6 +2022,8 @@ Para corrigir esta situação foi concebido o Fundo de Manutenção e Desenvolvi
 
 Os núcleos da proposta do FUNDEF são: o estabelecimento de um valor mínimo por aluno a ser despendido anualmente  (fixado  em  315  reais  para  os  anos  de  1998  e  1999);  a  redistribuição  dos  recursos  do  fundo, segundo o número de matrículas e a subvinculação de 60% de seu valor para o pagamento de profissionais do magistério em efetivo exercício. Se o fundo, no âmbito de determinado estado não atingir o valor mínimo, a União efetua a complementação. Em 1998 esta foi equivalente a cerca de 435 milhões (Tabela 23). Para o exercício de 1999 a previsão é de que a complementação da União seja de cerca de 610 milhões (Portaria nº 286/99-MF).
 
+Tabela 23 - Origem das Receitas do Fundef - 1998 R$ Mil
+
 Receita | Valor Distribuído | %
 --- | --- | ---
 FPM | 1.838.315 | 13,9
@@ -1952,8 +2031,6 @@ FPE | 1.638.058 | 12,4
 ICMS | 8.759.096 | 66,3
 IPI-Exp. | 237.989 | 1,8
 LC 87/96 | 314.003 | 2,4
-
-Tabela 23 - Origem das Receitas do Fundef - 1998 R$ Mil
 
 [[END OF PAGE 71]]
 
@@ -1976,23 +2053,23 @@ Além  de  promover  a  eqüidade,  o  FUNDEF  foi  o  instrumento  de  uma  pol
 
 - a fixação de um critério objetivo do número de matrículas e a natureza contábil do fundo permitiram colocar os recursos onde estão os alunos e eliminar práticas clientelistas;
 
-- diminuiu  consideravelmente o número de classes de alfabetização e de alunos maiores de 7 anos na préescola, sendo trazidos para o ensino fundamental.
+- diminuiu consideravelmente o número de classes de alfabetização e de alunos maiores de 7 anos na pré-escola, sendo trazidos para o ensino fundamental.
 
 Em  21  dos  26  Estados,  verificou-se  uma  transferência  líquida  de  recursos  das  redes  estaduais  para  as municipais. É inegável o efeito redistributivo do FUNDEF, sobretudo no Nordeste - onde as redes municipais são  responsáveis  por  cerca  de  50%  das  matrículas.  Conforme  indica  a  Tabela  24,  dos  5.506  Municípios brasileiros, cerca de 39% (2.159) contavam com um valor por aluno/ano abaixo do valor mínimo nacional de 315 reais.
 
-Valor por aluno/ano (R$1,00) | Municípios | Alunos/97 | Valor por aluno/ano | Receita Adicional Bruta (R$ Milhões) | Variação
+Tabela 24 - Efeitos Financeiros do FUNDEF, nos Municípios com gasto abaixo do valor mínimo ( R$ 315,00) – 1998
+
+Valor por aluno/ano (R$1,00) | Municípios |  | Alunos/97 |  | Valor por aluno/ano |  | Receita Adicional Bruta (R$ Milhões) | Variação |
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-Número | % | Número | % | Antes do FUNDEF (A) | Com o FUNDEF (B) | Do valor por aluno | % (B/A)
+ | Número | % | Número | % | Antes do FUNDEF (A) | Com o FUNDEF (B) |  | Do valor por aluno | % (B/A)
 Até 100 | 308 | 5,6 | 1.740.209 | 14,0 | 77,8 | 324,9 | 429,9 | 247,0 | 317
 De 100 a 150 | 613 | 11,1 | 2.192.551 | 17,6 | 124,2 | 335,4 | 463,1 | 211,2 | 170
 De 150 a 200 | 474 | 8,6 | 2.006.045 | 16,1 | 178,4 | 437,0 | 518,8 | 258,6 | 145
-De 200 a250 | 370 | 6,7 | 1.193.002 | 9,7 | 225,7 | 389,3 | 195,1 | 163,5 | 72
+De 200 a 250 | 370 | 6,7 | 1.193.002 | 9,7 | 225,7 | 389,3 | 195,1 | 163,5 | 72
 De 250 a 315 | 394 | 7,1 | 1.125.758 | 9,0 | 281,3 | 405,7 | 140,0 | 124,3 | 44
 Subtotal | 2.159 | 39,2 | 8.257.565 | 66,4 | 163,7 | 375,2 | 1.746,9 | 211,5 | 129
 Outros Municípios | 3.347 | 60,8 | 4.178.963 | 33,6
 Total | 5.506 | 100,0 | 12.435.528 | 100,0
-
-Tabela 24 - Efeitos Financeiros do FUNDEF, nos Municípios com gasto abaixo do valor mínimo ( R$ 315,00) 1998
 
 Fonte : MEC/SEADE - Balanço do primeiro ano do FUNDEF
 
@@ -2014,6 +2091,8 @@ Não se devem interpretar estes dados de maneira estática, isto é, os países 
 
 Este dado foi informado à OCDE pelo governo brasileiro. Partindo deste dado oficial, a meta estabelecida pelo PL nº 4.173/98, de atingir 6,5% do PIB, incluindo os gastos do setor privado (que Negri estima em 1% do PIB), afigura-se muito modesta. Por outro lado, a meta contida no PL nº 4.155/98, de atingir, apenas no setor público o equivalente a 10% do PIB é muito elevada. Em valores atuais, cada ponto percentual significa cerca de 10 bilhões de reais. Este plano propõe que num prazo de dez anos atinjamos um gasto público equivalente a 7% do  PIB,  através  de  aumento  contínuo  e  progressivo  de  todas  as  esferas  federativas.  Este  esforço  inicial  é indispensável. Para tanto é necessário o compromisso  do Congresso Nacional, e dos Legislativos subnacionais,  que  elaborarão  os  planos  plurianuais  e  orçamentos  que  vigorarão  no  período.  Com  o  tempo haveria uma estabilização num patamar menor, na medida em que fosse sendo erradicado o analfabetismo, corrigida a distorção idade-série e aperfeiçoada a gestão.
 
+Tabela 25 - Despesas Públicas em Educação, em relação ao PIB - 1995
+
 PAÍS | % do PIB
 --- | ---
 AMÉRICA DO NORTE
@@ -2031,8 +2110,6 @@ Coréia | 3,6
 Malásia* | 4,9
 Tailândia* | 3,6
 EUROPA
-
-Tabela 25 - Despesas Públicas em Educação, em relação ao PIB - 1995
 
 [[END OF PAGE 73]]
 
@@ -2056,6 +2133,8 @@ Conforme dispunha o Plano Nacional de Educação para Todos, "a melhoria dos ní
 
 O governo federal vem atuando de maneira a descentralizar recursos, direcionando-os diretamente às escolas, de modo a fortalecer sua autonomia (Tabela 26). Neste processo foi induzida a formação de Associações de Pais e Mestres ou de Conselhos escolares. Estes aumentaram de 11.643, em 1995, para 54.591 em 1998.
 
+Tabela 26 - Programa Dinheiro na Escola 1995 a 1998 - Atendimento
+
 Ano | Número de escolas* | Número de alunos | Valor em R$ mil
 --- | --- | --- | ---
 1995 | 144.306 | 28.350.229 | 229.348
@@ -2063,9 +2142,7 @@ Ano | Número de escolas* | Número de alunos | Valor em R$ mil
 1997 | 106.711 | 26.672.800 | 279.428
 1998** | 129.632 | 28.857.262 | 304.337
 
-Tabela 26 - Programa Dinheiro na Escola 1995 a 1998 - Atendimento
-
-Fonte:  FNDE  (Relatório  de  Atividades  e  Gerência  do  Programa)-  Mensagem  presidencial  ao  Congresso Nacional/1999
+Fonte: FNDE (Relatório de Atividades e Gerência do Programa)- Mensagem presidencial ao Congresso Nacional/1999
 
 *a partir de 1997, apenas escolas com mais de 20 alunos
 
@@ -2075,13 +2152,29 @@ Fonte:  FNDE  (Relatório  de  Atividades  e  Gerência  do  Programa)-  Mensage
 
 Ao  tratar  do  financiamento  da  Educação,  é  preciso  reconhecê-la  como  um valor  em si ,  requisito  para  o exercício  pleno  da  cidadania,  para  o  desenvolvimento  humano  e  para  a  melhoria  da  qualidade  de  vida  da população. A Constituição de 1988, sintonizada com os valores jurídicos que emanam dos documentos que incorporam  as  conquistas  de  nossa  época  -  tais  como  a  Declaração  Universal  de  Direitos  do  Homem  e  a Convenção Internacional sobre os Direitos  da  Criança  -,  determinou  expressamente  que  a  Educação  é  um direito  de  todos  e  dever  do  Estado  e  da  família  (art.  205,CF),  devendo  ser  assegurada  "com  absoluta prioridade" à criança e ao adolescente (art. 227, caput , CF) pela família, pelo Estado e pela sociedade. Embora a educação tenha outras dimensões relevantes, inclusive a econômica, o fundamento da obrigação do Poder Público  de  financiá-la  é  o  fato  de  constituir  um direito .  Assim,  a  Educação  e  seu  financiamento  não  serão tratados neste PNE como um problema econômico, mas como um uma questão de cidadania.
 
-Partindo deste enfoque, de nada adiantariam as previsões de dever do Estado, acompanhadas de rigorosas sanções aos agentes públicos em caso de desrespeito a este direito, se não fossem dados os instrumentos para  garanti-lo.  Daí  emerge  a  primeira  diretriz  básica  para  o  financiamento  da  Educação  :  a vinculação constitucional  de  recursos  à  manutenção  e  desenvolvimento  do  ensino,  adotada  pela  primeira  vez  pela Constituição de 1934, ressurgindo com a redemocratização em 1946, e, ainda uma vez, no bojo do processo de abertura política, com a aprovação da Emenda Calmon, sendo consolidada pela Constituição de 1988. Nos interregnos em que o princípio da vinculação foi enfraquecido ou suprimido, houve uma drástica redução de gastos na educação - como demonstrou o Senador João Calmon nos debates que precederam a aprovação de sua proposta. O avanço significativo dos indicadores educacionais alcançado na década de 90 apoiou-se na vinculação de recursos, o que permitiu manter níveis razoáveis de investimento na educação pública. Embora encontre  ainda  alguma  resistência  em  alguns  nichos  da  tecnocracia  econômica  mais  avessos  ao  social,  a vinculação de recursos impõe-se não só pela prioridade conferida à Educação, mas também como condição de uma  gestão  mais  eficaz.  Somente  a  garantia  de  recursos  e  seu  fluxo  regular  permitem  o  planejamento educacional. Outra diretriz importante é a gestão de recursos da educação por meio de fundos de natureza contábil e contas específicas. O fundo contábil permite que a vinculação seja efetiva, sendo a base do planejamento, e não se reduza a um jogo ex post de justificação para efeito de prestação de contas. Além disso, permite um controle social mais eficaz e evita a aplicação excessiva de recursos nas atividades-meio e as injunções de natureza política. Com  o  FUNDEF  inaugurou-se  importante  diretriz  de  financiamento: a  alocação  de  recursos  segundo  as necessidades  e  compromissos  de  cada  sistema,  expressos  pelo  número  de  matrículas .  Desta  forma,  há estímulo para a universalização do ensino. O dinheiro é aplicado na atividade-fim: recebe mais quem tem rede, quem  tem  alunos,  dá-se  um  enfoque  positivo  ao  financiamento  da  Educação.  Até  então,  aqueles  que  não cumprissem determinadas disposições eram punidos. Agora, os que cumprem são premiados. Além disso, a diversidade da capacidade de arrecadação de Estados e Municípios, e destes entre si, levava a uma diferença significativa de gasto por aluno, pelo simples fato de estar matriculado numa escola estadual ou municipal. Cumpre consolidar e aperfeiçoar outra diretriz introduzida a partir do FUNDEF, cuja preocupação central foi a eqüidade .  Para tanto, é importante o conceito operacional de valor mínimo gasto por aluno, por ano, definido nacionalmente .  A eqüidade refere-se não só aos sistemas, mas aos alunos em cada escola. Assim, de nada adianta receber dos fundos educacionais um valor por aluno e praticar gastos que privilegiem algumas escolas em detrimento das escolas dos bairros pobres. A LDB preceitua que aos Municípios cabe exercer a função redistributiva com relação a suas escolas. Instaurada a eqüidade, o desafio é obter a adequação da aprendizagem a um padrão mínimo de qualidade (art. 211,§  1º,  CF  e  art.  60,§  4º,  ADCT),  definido  em  termos  precisos  na  LDB  (art.4º,  IX)  como  "a  variedade  e quantidade  mínimas,  por  aluno,  de  insumos  indispensáveis  ao  desenvolvimento  do  processo  ensinoaprendizagem". Aqui o conceito chave já não é mais o de valor mínimo, mas o de custo-aluno-qualidade . Este deve  ser  a  referência  para  a  política  de  financiamento  da  Educação.  Para  enfrentar  esta  necessidade,  os sistemas de ensino devem ajustar suas contribuições financeiras a este padrão desejado, e particularmente à União cabe fortalecer sua função supletiva, através do aumento dos recursos destinados à complementação do FUNDEF. A Constituição Federal preceitua que à União compete exercer as funções redistributiva e supletiva de modo a garantir  a equalização  de  oportunidades  educacionais (art.  211,  §  1º).  Trata-se  de  dar  às  crianças  real possibilidade de acesso e permanência na escola. Há que se combinar , em primeiro lugar, as ações para tanto com  aquelas  dirigidas  ao  combate  do  trabalho  infantil.  É  fundamental  fortalecer  a  educação  como  um  dos alicerces da rede de proteção social. A educação deve ser considerada uma prioridade estratégica para um projeto nacional de desenvolvimento que favoreça a superação das desigualdades na distribuição de renda e a erradicação da pobreza. As políticas que associam a renda mínima à educação , adotadas em alguns Estados e Municípios, por iniciativa própria ou com apoio da União, a partir da Lei nº 9533/97, ou, ainda, diretamente pela União em áreas em que as crianças se encontrem em situação de risco, têm-se revelado instrumentos eficazes de melhoria da qualidade de ensino, reduzindo a repetência e a evasão e envolvendo mais a família com a educação de seus filhos - ingrediente indispensável para o sucesso escolar. Por se tratar não propriamente de um programa educacional, mas de um programa social de amplo alcance, com critérios educacionais, deve ser financiado com recursos oriundos de outras fontes que não as destinadas à educação escolar em senso estrito. Observe-se a propósito que a Educação é uma responsabilidade do Estado e da sociedade e não apenas de um órgão. Evidentemente, o Ministério (ou Secretaria, nos níveis estadual e  municipal) da área  há de ter o papel central no que se refere à educação escolar. Mas há também que se articular com outros ministérios (ou secretarias),  reunindo  competências  seja  em  termos  de  apoio  técnico  ou  recursos  financeiros,  em  áreas  de atuação comum. O  MEC  há  de  ter  uma  atuação  conjunta  com  o  Ministério  do  Trabalho,  para  a  qualificação,  formação  e treinamento  de  trabalhadores,  nos  quais  devem  ser  aplicados,  inclusive,  recursos  do  Fundo  de  Amparo  ao Trabalhador - FAT. O mesmo raciocínio vale para a Assistência Social e para a Saúde, no que se refere à
+Partindo deste enfoque, de nada adiantariam as previsões de dever do Estado, acompanhadas de rigorosas sanções aos agentes públicos em caso de desrespeito a este direito, se não fossem dados os instrumentos
 
 [[END OF PAGE 74]]
 
 [[START OF PAGE 75]]
 
-(this page came through the extractor with no text)
+para garanti-lo. Daí emerge a primeira diretriz básica para o financiamento da Educação : a vinculação constitucional de recursos à manutenção e desenvolvimento do ensino, adotada pela primeira vez pela Constituição de 1934, ressurgindo com a redemocratização em 1946, e, ainda uma vez, no bojo do processo de abertura política, com a aprovação da Emenda Calmon, sendo consolidada pela Constituição de 1988. Nos interregnos em que o princípio da vinculação foi enfraquecido ou suprimido, houve uma drástica redução de gastos na educação – como demonstrou o Senador João Calmon nos debates que precederam a aprovação de sua proposta. O avanço significativo dos indicadores educacionais alcançado na década de 90 apoiou-se na vinculação de recursos, o que permitiu manter níveis razoáveis de investimento na educação pública. Embora encontre ainda alguma resistência em alguns nichos da tecnocracia econômica mais avessos ao social, a vinculação de recursos impõe-se não só pela prioridade conferida à Educação, mas também como condição de uma gestão mais eficaz. Somente a garantia de recursos e seu fluxo regular permitem o planejamento educacional.
+
+Outra diretriz importante é a gestão de recursos da educação por meio de fundos de natureza contábil e contas específicas. O fundo contábil permite que a vinculação seja efetiva, sendo a base do planejamento, e não se reduza a um jogo ex post de justificação para efeito de prestação de contas. Além disso, permite um controle social mais eficaz e evita a aplicação excessiva de recursos nas atividades–meio e as injunções de natureza política.
+
+Com o FUNDEF inaugurou-se importante diretriz de financiamento: a alocação de recursos segundo as necessidades e compromissos de cada sistema, expressos pelo número de matrículas. Desta forma, há estímulo para a universalização do ensino. O dinheiro é aplicado na atividade-fim: recebe mais quem tem rede, quem tem alunos, dá-se um enfoque positivo ao financiamento da Educação. Até então, aqueles que não cumprissem determinadas disposições eram punidos. Agora, os que cumprem são premiados.
+
+Além disso, a diversidade da capacidade de arrecadação de Estados e Municípios, e destes entre si, levava a uma diferença significativa de gasto por aluno, pelo simples fato de estar matriculado numa escola estadual ou municipal.
+
+Cumpre consolidar e aperfeiçoar outra diretriz introduzida a partir do FUNDEF, cuja preocupação central foi a eqüidade. Para tanto, é importante o conceito operacional de valor mínimo gasto por aluno, por ano, definido nacionalmente. A eqüidade refere-se não só aos sistemas, mas aos alunos em cada escola. Assim, de nada adianta receber dos fundos educacionais um valor por aluno e praticar gastos que privilegiem algumas escolas em detrimento das escolas dos bairros pobres. A LDB preceitua que aos Municípios cabe exercer a função redistributiva com relação a suas escolas.
+
+Instaurada a eqüidade, o desafio é obter a adequação da aprendizagem a um padrão mínimo de qualidade (art. 211,§ 1º, CF e art. 60,§ 4º, ADCT), definido em termos precisos na LDB (art.4º, IX) como "a variedade e quantidade mínimas, por aluno, de insumos indispensáveis ao desenvolvimento do processo ensino-aprendizagem". Aqui o conceito chave já não é mais o de valor mínimo, mas o de custo-aluno-qualidade. Este deve ser a referência para a política de financiamento da Educação. Para enfrentar esta necessidade, os sistemas de ensino devem ajustar suas contribuições financeiras a este padrão desejado, e particularmente à União cabe fortalecer sua função supletiva, através do aumento dos recursos destinados à complementação do FUNDEF.
+
+A Constituição Federal preceitua que à União compete exercer as funções redistributiva e supletiva de modo a garantir a equalização de oportunidades educacionais (art. 211, § 1º). Trata-se de dar às crianças real possibilidade de acesso e permanência na escola. Há que se combinar , em primeiro lugar, as ações para tanto com aquelas dirigidas ao combate do trabalho infantil. É fundamental fortalecer a educação como um dos alicerces da rede de proteção social. A educação deve ser considerada uma prioridade estratégica para um projeto nacional de desenvolvimento que favoreça a superação das desigualdades na distribuição de renda e a erradicação da pobreza. As políticas que associam a renda mínima à educação, adotadas em alguns Estados e Municípios, por iniciativa própria ou com apoio da União, a partir da Lei nº 9533/97, ou, ainda, diretamente pela União em áreas em que as crianças se encontrem em situação de risco, têm-se revelado instrumentos eficazes de melhoria da qualidade de ensino, reduzindo a repetência e a evasão e envolvendo mais a família com a educação de seus filhos – ingrediente indispensável para o sucesso escolar. Por se tratar não propriamente de um programa educacional, mas de um programa social de amplo alcance, com critérios educacionais, deve ser financiado com recursos oriundos de outras fontes que não as destinadas à educação escolar em senso estrito.
+
+Observe-se a propósito que a Educação é uma responsabilidade do Estado e da sociedade e não apenas de um órgão. Evidentemente, o Ministério (ou Secretaria, nos níveis estadual e municipal) da área há de ter o papel central no que se refere à educação escolar. Mas há também que se articular com outros ministérios (ou secretarias), reunindo competências seja em termos de apoio técnico ou recursos financeiros, em áreas de atuação comum.
+
+O MEC há de ter uma atuação conjunta com o Ministério do Trabalho, para a qualificação, formação e treinamento de trabalhadores, nos quais devem ser aplicados, inclusive, recursos do Fundo de Amparo ao Trabalhador - FAT. O mesmo raciocínio vale para a Assistência Social e para a Saúde, no que se refere à
 
 [[END OF PAGE 75]]
 
@@ -2101,7 +2194,7 @@ ações . Para que a gestão seja eficiente há que se promover o autêntico fed
 
 2. Implementar mecanismos de fiscalização e controle que assegurem o rigoroso cumprimento do art. 212 da Constituição Federal em  termos  de  aplicação dos percentuais  mínimos  vinculados  à  manutenção  e desenvolvimento  do  ensino.*  Entre  esses  mecanismos  estará  o  demonstrativo  de  gastos  elaborado  pelos poderes  executivos  e  apreciado  pelos  legislativos  com  o  auxílio  dos  tribunais  de  contas  respectivos, discriminando os valores correspondentes a cada uma das alíneas do art. 70 da LDB.
 
-- Criar mecanismos que viabilizem, imediatamente, o cumprimento do § 5º do art. 69 da Lei de Diretrizes e Bases,  que  assegura  o  repasse  automático  dos  recursos  vinculados  à  manutenção  e  desenvolvimento  do ensino  para  o  órgão  responsável  por  este  setor.  Entre  esses  mecanismos  deve  estar  a  aferição  anual  pelo censo escolar da efetiva automaticidade dos repasses.*
+3. Criar mecanismos que viabilizem, imediatamente, o cumprimento do § 5º do art. 69 da Lei de Diretrizes e Bases, que assegura o repasse automático dos recursos vinculados à manutenção e desenvolvimento do ensino para o órgão responsável por este setor. Entre esses mecanismos deve estar a aferição anual pelo censo escolar da efetiva automaticidade dos repasses.*
 
 4.  Estabelecer mecanismos destinados a assegurar o cumprimento dos arts. 70 e 71 da Lei de Diretrizes e Bases, que definem os gastos admitidos como de manutenção e desenvolvimento do ensino e aqueles que não podem ser incluídos nesta rubrica.*
 
@@ -2109,97 +2202,96 @@ ações . Para que a gestão seja eficiente há que se promover o autêntico fed
 
 [[START OF PAGE 77]]
 
-- Mobilizar os Tribunais  de  Contas,  as  Procuradorias  da  União  e  dos  Estados,  os  Conselhos  de Acompanhamento  e  Controle  Social  do  FUNDEF,  os  sindicatos,  as  organizações  não-governamentais  e  a população em geral para exercerem a fiscalização necessária para o cumprimento das metas nº 2, 3 e 4.**
+5. Mobilizar os Tribunais de Contas, as Procuradorias da União e dos Estados, os Conselhos de Acompanhamento e Controle Social do FUNDEF, os sindicatos, as organizações não-governamentais e a população em geral para exercerem a fiscalização necessária para o cumprimento das metas nº 2, 3 e 4.**
 
-- Garantir,  entre  as  metas  dos  planos  plurianuais  vigentes  nos  próximos  dez  anos,  a  previsão  do  suporte financeiro às metas constantes deste PNE.*
+6. Garantir, entre as metas dos planos plurianuais vigentes nos próximos dez anos, a previsão do suporte financeiro às metas constantes deste PNE.*
 
-(VETADO)
+7. (VETADO)
 
-- Estabelecer, nos Municípios, a educação infantil como prioridade para a aplicação dos 10% dos recursos vinculados à manutenção e desenvolvimento do ensino não reservados para o ensino fundamental.
+8. Estabelecer, nos Municípios, a educação infantil como prioridade para a aplicação dos 10% dos recursos vinculados à manutenção e desenvolvimento do ensino não reservados para o ensino fundamental.
 
-- Estabelecer,  nos  Estados,  o  ensino  médio  como  prioridade  para  a  aplicação  dos  10%  dos  recursos vinculados à manutenção e desenvolvimento do ensino não reservados para o ensino fundamental.
+9. Estabelecer, nos Estados, o ensino médio como prioridade para a aplicação dos 10% dos recursos vinculados à manutenção e desenvolvimento do ensino não reservados para o ensino fundamental.
 
-- Estabelecer a utilização prioritária para a educação de jovens e adultos, de 15% dos recursos destinados ao ensino fundamental cujas fontes não integrem o FUNDEF: nos Municípios (IPTU, ISS , ITBI, cota do ITR, do IRRF e do IOF-Ouro,  parcela  da  dívida  ativa  tributária  que  seja  resultante  de  impostos),  nos  Estados  e  no Distrito Federal (IPVA, ITCM, cota do IRRF e do IOF-Ouro, parcela da dívida ativa tributária que seja resultante de impostos).
+10. Estabelecer a utilização prioritária para a educação de jovens e adultos, de 15% dos recursos destinados ao ensino fundamental cujas fontes não integrem o FUNDEF: nos Municípios (IPTU, ISS, ITBI, cota do ITR, do IRRF e do IOF-Ouro, parcela da dívida ativa tributária que seja resultante de impostos), nos Estados e no Distrito Federal (IPVA, ITCM, cota do IRRF e do IOF-Ouro, parcela da dívida ativa tributária que seja resultante de impostos).
 
-- Estabelecer  programa  nacional  de  apoio  financeiro  e  técnico-administrativo  da  União  para  a  oferta, preferencialmente, nos Municípios mais pobres, de educação de jovens e adultos para a população de 15 anos e mais, que não teve acesso ao ensino fundamental.*
+11. Estabelecer programa nacional de apoio financeiro e técnico-administrativo da União para a oferta, preferencialmente, nos Municípios mais pobres, de educação de jovens e adultos para a população de 15 anos e mais, que não teve acesso ao ensino fundamental.*
 
-- Ampliar  o  atendimento  dos  programas  de  renda  mínima  associados  à  educação,  de  sorte  a  garantir  o acesso e permanência na escola a toda população em idade escolar no País.**
+12. Ampliar o atendimento dos programas de renda mínima associados à educação, de sorte a garantir o acesso e permanência na escola a toda população em idade escolar no País.**
 
-(VETADO)
+13. (VETADO)
 
-- Promover a eqüidade entre os alunos dos sistemas de ensino e das escolas pertencentes a um mesmo sistema de ensino.
+14. Promover a eqüidade entre os alunos dos sistemas de ensino e das escolas pertencentes a um mesmo sistema de ensino.
 
-- Promover  a  autonomia  financeira das escolas  mediante  repasses  de  recursos, diretamente aos estabelecimentos públicos de ensino, a partir de critérios objetivos.
+15. Promover a autonomia financeira das escolas mediante repasses de recursos, diretamente aos estabelecimentos públicos de ensino, a partir de critérios objetivos.
 
-- Integrar  ações  e  recursos  técnicos,  administrativos  e  financeiros  do  Ministério  de  Educação  e  de  outros Ministérios nas áreas de atuação comum.*
+16. Integrar ações e recursos técnicos, administrativos e financeiros do Ministério de Educação e de outros Ministérios nas áreas de atuação comum.*
 
-- Assegurar recursos do Tesouro e da Assistência Social para programas de renda mínima associados à educação; recursos da Saúde e Assistência Social para a
+17. Assegurar recursos do Tesouro e da Assistência Social para programas de renda mínima associados à educação; recursos da Saúde e Assistência Social para a educação infantil; recursos destinados à universalização das telecomunicações, à criação de condições de acesso da escola, às redes de comunicação informática; recursos do Trabalho para a qualificação dos trabalhadores; recursos do Fundo Penitenciário para a educação de presos e egressos.*
 
-educação  infantil;  recursos  destinados  à  universalização  das  telecomunicações,  à  criação  de  condições  de acesso  da  escola,  às  redes  de  comunicação  informática;  recursos  do  Trabalho  para  a  qualificação  dos trabalhadores; recursos do Fundo Penitenciário para a educação de presos e egressos.*
-
-- A  União  deverá  calcular  o  valor  mínimo  para  o  custo-aluno  para  efeito  de  suplementação  dos  fundos estaduais rigorosamente de acordo com o estabelecido pela Lei nº 9.424/96.*
+18. A União deverá calcular o valor mínimo para o custo-aluno para efeito de suplementação dos fundos estaduais rigorosamente de acordo com o estabelecido pela Lei nº 9.424/96.*
 
 ###### 11.3.2 Gestão
 
-- Aperfeiçoar o regime de colaboração entre os sistemas de ensino com vistas a uma ação coordenada entre entes federativos, compartilhando responsabilidades, a partir das funções constitucionais próprias e supletivas e das metas deste PNE.**
+19. Aperfeiçoar o regime de colaboração entre os sistemas de ensino com vistas a uma ação coordenada entre entes federativos, compartilhando responsabilidades, a partir das funções constitucionais próprias e supletivas e das metas deste PNE.**
 
-- Estimular  a  colaboração  entre  as  redes  e  sistemas  de  ensino  municipais,  através  de  apoio  técnico  a consórcios intermunicipais e colegiados regionais consultivos, quando necessários.
+20. Estimular a colaboração entre as redes e sistemas de ensino municipais, através de apoio técnico a consórcios intermunicipais e colegiados regionais consultivos, quando necessários.
 
-- Estimular  a  criação  de  Conselhos  Municipais  de  Educação  e  apoiar  tecnicamente  os  Municípios  que optarem por constituir sistemas municipais de ensino.
+21. Estimular a criação de Conselhos Municipais de Educação e apoiar tecnicamente os Municípios que optarem por constituir sistemas municipais de ensino.
 
-- Definir, em cada sistema de ensino, normas de gestão democrática do ensino público, com a participação da comunidade.
+22. Definir, em cada sistema de ensino, normas de gestão democrática do ensino público, com a participação da comunidade.
 
-- Editar pelos sistemas de ensino, normas e diretrizes gerais desburocratizantes e flexíveis, que estimulem a iniciativa e a ação inovadora das instituições escolares.
+23. Editar pelos sistemas de ensino, normas e diretrizes gerais desburocratizantes e flexíveis, que estimulem a iniciativa e a ação inovadora das instituições escolares.
 
-- Desenvolver padrão de gestão que tenha como elementos a destinação de recursos para as atividades-fim, a descentralização, a autonomia da escola, a eqüidade, o foco na aprendizagem dos alunos e a participação da
+24. Desenvolver padrão de gestão que tenha como elementos a destinação de recursos para as atividades-fim, a descentralização, a autonomia da escola, a eqüidade, o foco na aprendizagem dos alunos e a participação da comunidade.
 
-- comunidade.
+25. Elaborar e executar planos estaduais e municipais de educação, em consonância com este PNE.
 
-- Elaborar e executar planos estaduais e municipais de educação, em consonância com este PNE.
+26. Organizar a educação básica no campo, de modo a preservar as escolas rurais no meio rural e imbuídas dos valores rurais.
 
-- Organizar a educação básica no campo, de modo a preservar as escolas rurais no meio rural e imbuídas dos valores rurais.
-
-- Apoiar tecnicamente as escolas na elaboração e execução de sua proposta pedagógica.
+27. Apoiar tecnicamente as escolas na elaboração e execução de sua proposta pedagógica.
 
 [[END OF PAGE 77]]
 
 [[START OF PAGE 78]]
 
-- Assegurar  a  autonomia  administrativa  e  pedagógica  das  escolas  e  ampliar  sua  autonomia  financeira, através  do  repasse  de  recursos  diretamente  às  escolas  para  pequenas  despesas  de  manutenção  e cumprimento de sua proposta pedagógica.
+28. Assegurar a autonomia administrativa e pedagógica das escolas e ampliar sua autonomia financeira, através do repasse de recursos diretamente às escolas para pequenas despesas de manutenção e cumprimento de sua proposta pedagógica.
 
-- Informatizar,  em  três  anos,  com  auxílio  técnico  e  financeiro  da  União,  as  secretarias  estaduais  de educação, integrando-as em rede ao sistema nacional de estatísticas educacionais.**
+29. Informatizar, em três anos, com auxílio técnico e financeiro da União, as secretarias estaduais de educação, integrando-as em rede ao sistema nacional de estatísticas educacionais.**
 
-- Informatizar  progressivamente,  em  dez  anos,  com  auxílio  técnico  e  financeiro  da  União  e  dos  Estados, todas as secretarias municipais de educação, atendendo, em cinco anos pelo menos, a metade dos Municípios com mais de 20.000 habitantes.**
+30. Informatizar progressivamente, em dez anos, com auxílio técnico e financeiro da União e dos Estados, todas as secretarias municipais de educação, atendendo, em cinco anos pelo menos, a metade dos Municípios com mais de 20.000 habitantes.**
 
-- Estabelecer, em todos os Estados, com auxílio técnico e financeiro da União, programas de formação do pessoal  técnico  das  secretarias,  para  suprir,  em  cinco  anos,  pelo  menos,  as  necessidades  dos  setores  de informação e estatísticas educacionais, planejamento e avaliação.**
+31. Estabelecer, em todos os Estados, com auxílio técnico e financeiro da União, programas de formação do pessoal técnico das secretarias, para suprir, em cinco anos, pelo menos, as necessidades dos setores de informação e estatísticas educacionais, planejamento e avaliação.**
 
-- Promover  medidas  administrativas  que  assegurem  a  permanência  dos  técnicos  formados  e  com  bom desempenho nos quadros das secretarias.
+32. Promover medidas administrativas que assegurem a permanência dos técnicos formados e com bom desempenho nos quadros das secretarias.
 
-- Informatizar,  gradualmente, com auxílio técnico e financeiro da União, a administração das escolas com mais de 100 alunos, conectando-as em rede com as secretarias de educação, de tal forma que, em dez anos, todas as escolas estejam no sistema.**
+33. Informatizar, gradualmente, com auxílio técnico e financeiro da União, a administração das escolas com mais de 100 alunos, conectando-as em rede com as secretarias de educação, de tal forma que, em dez anos, todas as escolas estejam no sistema.**
 
-- Estabelecer,  em  todos  os  Estados,  com  a  colaboração  dos  Municípios  e  das  universidades,  programas diversificados  de  formação  continuada  e  atualização  visando  a  melhoria  do  desempenho  no  exercício  da função ou cargo de diretores de escolas.
+34. Estabelecer, em todos os Estados, com a colaboração dos Municípios e das universidades, programas diversificados de formação continuada e atualização visando a melhoria do desempenho no exercício da função ou cargo de diretores de escolas.
 
-- Assegurar  que,  em  cinco  anos,  50%  dos  diretores,  pelo  menos,  possuam  formação  específica  em  nível superior e que, no final da década, todas as escolas contem com diretores adequadamente formados em nível superior, preferencialmente com cursos de especialização.
+35. Assegurar que, em cinco anos, 50% dos diretores, pelo menos, possuam formação específica em nível superior e que, no final da década, todas as escolas contem com diretores adequadamente formados em nível superior, preferencialmente com cursos de especialização.
 
-- Ampliar  a  oferta  de  cursos  de  formação  em  administração  escolar  nas  instituições  públicas  de  nível superior, de forma a permitir o cumprimento da meta anterior.**
+36. Ampliar a oferta de cursos de formação em administração escolar nas instituições públicas de nível superior, de forma a permitir o cumprimento da meta anterior.**
 
-- Estabelecer  políticas  e  critérios  de  alocação  de  recursos  federais,  estaduais  e  municipais,  de  forma  a reduzir desigualdades regionais e desigualdades internas a cada sistema.**
+37. Estabelecer políticas e critérios de alocação de recursos federais, estaduais e municipais, de forma a reduzir desigualdades regionais e desigualdades internas a cada sistema.**
 
-- Consolidar e aperfeiçoar o Sistema Nacional de Avaliação da Educação Básica - SAEB e o censo escolar.*
+38. Consolidar e aperfeiçoar o Sistema Nacional de Avaliação da Educação Básica – SAEB e o censo escolar.*
 
-- Estabelecer, nos Estados, em cinco anos, com a colaboração técnica e financeira da União, um programa de  avaliação  de  desempenho  que  atinja,  pelo  menos,  todas  as  escolas  de  mais  de  50  alunos  do  ensino fundamental e Médio.**
+39. Estabelecer, nos Estados, em cinco anos, com a colaboração técnica e financeira da União, um programa de avaliação de desempenho que atinja, pelo menos, todas as escolas de mais de 50 alunos do ensino fundamental e Médio.**
 
-- Estabelecer, nos Municípios, em  cinco anos, programas de acompanhamento  e  avaliação dos estabelecimentos de educação infantil.
+40. Estabelecer, nos Municípios, em cinco anos, programas de acompanhamento e avaliação dos estabelecimentos de educação infantil.
 
-- Definir padrões mínimos de qualidade da aprendizagem na Educação Básica numa Conferência Nacional de Educação, que envolva a comunidade educacional.**
+41. Definir padrões mínimos de qualidade da aprendizagem na Educação Básica numa Conferência Nacional de Educação, que envolva a comunidade educacional.**
 
-- Instituir em todos os níveis, Conselhos da Acompanhamento e Controle Social dos recursos destinados à Educação  não  incluídos  no  FUNDEF,  qualquer  que  seja  sua  origem,  nos  moldes  dos  Conselhos  de Acompanhamento e Controle Social do FUNDEF.
+42. Instituir em todos os níveis, Conselhos da Acompanhamento e Controle Social dos recursos destinados à Educação não incluídos no FUNDEF, qualquer que seja sua origem, nos moldes dos Conselhos de Acompanhamento e Controle Social do FUNDEF.
 
-- 43.Incluir, nos levantamentos estatísticos e no censo escolar informação acerca do gênero, em cada categoria de dados coletados.*
+43.Incluir, nos levantamentos estatísticos e no censo escolar informação acerca do gênero, em cada categoria de dados coletados.*
 
-- 44.Observar as metas estabelecidas nos demais capítulos referentes a financiamento e gestão.
+44.Observar as metas estabelecidas nos demais capítulos referentes a financiamento e gestão.
 
-## VI - ACOMPANHAMENTO E AVALIAÇÃO DO PLANO
+11 (*) A iniciativa para cumprimento deste Objetivo/Meta depende da iniciativa da União;
+(**) É exigida a colaboração da União.
+
+## VI – ACOMPANHAMENTO E AVALIAÇÃO DO PLANO
 
 Um plano  da  importância  e  da  complexidade  do  PNE  tem  que  prever  mecanismos  de  acompanhamento  e avaliação  que  lhe  dêem  segurança  no  prosseguimento  das  ações  ao  longo  do  tempo  e  nas  diversas circunstâncias em que se desenvolverá. Adaptações e medidas corretivas conforme a realidade for mudando ou  assim  que  novas  exigências  forem  aparecendo  dependerão  de  um  bom  acompanhamento  e  de  uma
 
@@ -2213,7 +2305,7 @@ Ao Ministério da Educação cabe um importante papel indutor e de cooperação 
 
 Desempenharão também um papel essencial nessas funções o Conselho Nacional de Secretários Estaduais de  Educação  -  CONSED  e  a  União  Nacional  de  Dirigentes  Municipais  de  Educação  -  UNDIME,  nos  temas referentes  à  Educação  Básica,  assim  como  o  Conselho  de  Reitores  das  Universidades  Brasileiras  -  CRUB, naqueles  relativos  à  educação  superior.  Considera-se,  igualmente,  muito  importante  a  participação  de entidades da comunidade educacional, dos trabalhadores da educação, dos estudantes e dos pais reunidos
 
-nas suas entidades representativas. É necessário que algumas entidades da sociedade civil diretamente interessadas e responsáveis pelos direitos da criança e do adolescente participem do acompanhamento e da avaliação do Plano Nacional de Educação. O  art.  227,  §  7 o, da  Constituição  Federal  determina  que  no  atendimento  dos  direitos  da  criança  e  do adolescente  (incluídas  nesse  grupo  as  pessoas  de  0  a  18  anos  de  idade)  seja  levado  em  consideração  o disposto  no  art.  204,  que  estabelece  a  diretriz  de  " participação  da  população,  por  meio  de  organizações representativas, na formulação das políticas e no controle das ações em todos os níveis ". Além da ação direta dessas organizações há que se contar com a atuação dos conselhos governamentais com representação da sociedade  civil  como  o  Conselho  Nacional  dos  Direitos  da  Criança  e  do  Adolescente  -  CONANDA,  os Conselhos Estaduais e Municipais dos Direitos da Criança e do Adolescente e os Conselhos Tutelares (Lei n. 8069/90). Os Conselhos de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério -FUNDEF,  organizados  nas três esferas administrativas, deverão ter, igualmente, co-responsabilidade na boa condução deste plano. A  avaliação  do  Plano  Nacional  de  Educação  deve  valer-se  também  dos  dados  e  análises  qualitativas  e quantitativas  fornecidos  pelo  sistema  de  avaliação  já  operado  pelo  Ministério  da  Educação,  nos  diferentes níveis, como os do Sistema de Avaliação do Ensino Básico - SAEB; do Exame Nacional do Ensino Médio ENEM; do Sistema de Avaliação do Ensino Superior (Comissão de Especialistas, Exame Nacional de Cursos, Comissão  de Autorização e Reconhecimento), avaliação conduzida pela  Fundação  Coordenação  de Aperfeiçoamento de Pessoal de Nível Superior - CAPES. Além da avaliação contínua, deverão ser feitas avaliações periódicas, sendo que a primeira será no quarto ano após a implantação do PNE. A  organização  de  um  sistema  de  acompanhamento  e  controle  do  PNE  não  prescinde  das  atribuições específicas do Congresso Nacional, do Tribunal de Contas da União - TCU e dos Tribunais de Contas dos
+nas suas entidades representativas. É necessário que algumas entidades da sociedade civil diretamente interessadas e responsáveis pelos direitos da criança e do adolescente participem do acompanhamento e da avaliação do Plano Nacional de Educação. O art. 227, § 7º, da Constituição Federal determina que no atendimento dos direitos da criança e do adolescente (incluídas nesse grupo as pessoas de 0 a 18 anos de idade) seja levado em consideração o disposto no art. 204, que estabelece a diretriz de "participação da população, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis". Além da ação direta dessas organizações há que se contar com a atuação dos conselhos governamentais com representação da sociedade civil como o Conselho Nacional dos Direitos da Criança e do Adolescente - CONANDA, os Conselhos Estaduais e Municipais dos Direitos da Criança e do Adolescente e os Conselhos Tutelares (Lei n. 8069/90). Os Conselhos de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF, organizados nas três esferas administrativas, deverão ter, igualmente, co-responsabilidade na boa condução deste plano. A avaliação do Plano Nacional de Educação deve valer-se também dos dados e análises qualitativas e quantitativas fornecidos pelo sistema de avaliação já operado pelo Ministério da Educação, nos diferentes níveis, como os do Sistema de Avaliação do Ensino Básico – SAEB; do Exame Nacional do Ensino Médio – ENEM; do Sistema de Avaliação do Ensino Superior (Comissão de Especialistas, Exame Nacional de Cursos, Comissão de Autorização e Reconhecimento), avaliação conduzida pela Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior – CAPES. Além da avaliação contínua, deverão ser feitas avaliações periódicas, sendo que a primeira será no quarto ano após a implantação do PNE. A organização de um sistema de acompanhamento e controle do PNE não prescinde das atribuições específicas do Congresso Nacional, do Tribunal de Contas da União - TCU e dos Tribunais de Contas dos
 
 Estados - TCEs, na fiscalização e controle.
 
@@ -2227,7 +2319,7 @@ Os objetivos e as metas deste plano somente poderão ser alcançados se ele for 
 
 Senhor Presidente do Senado Federal,
 
-Comunico a Vossa Excelência que, nos termos do parágrafo 1 o do  artigo  66 da Constituição Federal, decidi vetar parcialmente o Projeto de Lei n o 42,  de  2000 (n o 4.155/98 na Câmara dos Deputados), que "Aprova o Plano Nacional de Educação e dá outras providências".
+Comunico a Vossa Excelência que, nos termos do parágrafo 1º do artigo 66 da Constituição Federal, decidi vetar parcialmente o Projeto de Lei nº 42, de 2000 (nº 4.155/98 na Câmara dos Deputados), que "Aprova o Plano Nacional de Educação e dá outras providências".
 
 Ouvidos, os Ministérios da Fazenda e do Planejamento, Orçamento e Gestão manifestaram-se pelo veto aos seguintes dispositivos:
 
@@ -2237,7 +2329,7 @@ Ouvidos, os Ministérios da Fazenda e do Planejamento, Orçamento e Gestão mani
 
 ### Razões do veto
 
-"A última revisão do PPA contempla, para 2001, o atendimento de um universo de 4,3 milhões de crianças de 0 a 6 anos beneficiadas pelo Programa de Garantia de Renda Mínima, o que representa considerável incremento em relação ao previsto para 2000, exercício em que foram contempladas em torno de 383,4 mil crianças.'
+"A última revisão do PPA contempla, para 2001, o atendimento de um universo de 4,3 milhões de crianças de 0 a 6 anos beneficiadas pelo Programa de Garantia de Renda Mínima, o que representa considerável incremento em relação ao previsto para 2000, exercício em que foram contempladas em torno de 383,4 mil crianças."
 
 Todavia, as metas propostas de atingimento de 50% da clientela habilitada em 3 anos e de 100%, em 6 anos, implicam  conta  em  aberto  para  o  Tesouro  Nacional,  configurando-se  em  despesa  adicional  de  caráter continuado, sem a correspondente fonte de recurso, o que não se compadece com o quanto estabelecido nos arts. 16 e 17 da Lei de Responsabilidade Fiscal. Assim, por contrariar o interesse público, propõe-se o veto ao texto mencionado."
 
@@ -2249,7 +2341,7 @@ Todavia, as metas propostas de atingimento de 50% da clientela habilitada em 3 a
 
 "A proposição contida nesse subitem, segundo a qual se tenciona assegurar a ampliação da oferta de ensino público,  assim  como  o  estabelecimento  de  parceira  da  União  com  os  Estados  na  criação  de  novos estabelecimentos de educação superior, não guarda consonância com o texto constitucional, razão por que se propõe a oposição de veto.
 
-Com efeito, o art. 165, § 4º da Constituição, dispõe que " os planos e programas nacionais, regionais e setoriais previstos  nesta  Constituição  serão  elaborados  em  consonância  com  o  plano  plurianual  e  apreciados  pelo Congresso Nacional ". Não há, no Plano Plurianual - PPA, sequer na Lei Orçamentária, previsão de ampliação da oferta de ensino público nos níveis propostos, pelo que a disposição, em decorrência do impacto imediato por  ela  causado,  se  mostra  incompatível  com  a  Constituição,  como  também  com  as  disposições  da  Lei  de Responsabilidade Fiscal."
+Com efeito, o art. 165, § 4º da Constituição, dispõe que "os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional". Não há, no Plano Plurianual – PPA, sequer na Lei Orçamentária, previsão de ampliação da oferta de ensino público nos níveis propostos, pelo que a disposição, em decorrência do impacto imediato por ela causado, se mostra incompatível com a Constituição, como também com as disposições da Lei de Responsabilidade Fiscal."
 
 ## Item 4.4, subitem 24
 
@@ -2265,7 +2357,7 @@ Com efeito, o art. 165, § 4º da Constituição, dispõe que " os planos e prog
 
 Cogita-se,  no  item  examinado,  destacar  às  instituições  federais  75%  dos  recursos  da  União  vinculados  à manutenção e desenvolvimento do ensino (destinados, como se sabe, ao atendimento de todos os níveis).
 
-Essa proposição não se mostra compatível com o disposto no art. 165, § 4º da Constituição, segundo o qual "os  planos  e  programas  nacionais,  regionais  e  setoriais  previstos  nesta  Constituição  serão  elaborados  em consonância com o plano plurianual e apreciados pelo Congresso Nacional", uma vez que, diversamente do quanto pretendido, o Plano Plurianual - PPA apresenta hipóteses diferentes de distribuição dos recursos entre os diversos níveis de ensino."
+Essa proposição não se mostra compatível com o disposto no art. 165, § 4º da Constituição, segundo o qual "os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional", uma vez que, diversamente do quanto pretendido, o Plano Plurianual – PPA apresenta hipóteses diferentes de distribuição dos recursos entre os diversos níveis de ensino."
 
 ## Item 4.4, subitem 26.
 
@@ -2273,9 +2365,9 @@ Essa proposição não se mostra compatível com o disposto no art. 165, § 4º 
 
 ### Razões do veto
 
-"A oferta de crédito para os universitários vem sendo efetuada por intermédio do antigo "Programa de Crédito Educativo"  e  pelo  Fundo  de  Financiamento  ao  Estudante  do  Ensino  Superior  -  FIES.  Consoante  previsão incluída no PPA, no período de 2000 a 2003 deverão ser atendidos 160 mil alunos.
+"A oferta de crédito para os universitários vem sendo efetuada por intermédio do antigo "Programa de Crédito Educativo" e pelo Fundo de Financiamento ao Estudante do Ensino Superior – FIES. Consoante previsão incluída no PPA, no período de 2000 a 2003 deverão ser atendidos 160 mil alunos.
 
-A  aprovação  do  texto  conforme  proposto  ensejaria  o  atendimento  de  uma  clientela  de  396  mil  alunos, demandando significativo  acréscimo  de  recursos  sem  a  correspondente  indicação  de  fonte  de  custeio  pelo projeto  de  lei  ou  no  PPA.  Tal  circunstância  caracteriza  descumprimento  do  art.  167,  §  1º,  da  Constituição Federal, além do § 5 o do art. 5 o , da Lei Complementar nº 101, de 4 de maio de 2000, o que recomenda o veto tanto por inconstitucionalidade quanto por contrariedade ao interesse público."
+A aprovação do texto conforme proposto ensejaria o atendimento de uma clientela de 396 mil alunos, demandando significativo acréscimo de recursos sem a correspondente indicação de fonte de custeio pelo projeto de lei ou no PPA. Tal circunstância caracteriza descumprimento do art. 167, § 1º, da Constituição Federal, além do § 5º do art. 5º, da Lei Complementar nº 101, de 4 de maio de 2000, o que recomenda o veto tanto por inconstitucionalidade quanto por contrariedade ao interesse público."
 
 ## Item 4.4, subitem 29.
 
@@ -2305,9 +2397,9 @@ Essa circunstância, pelas razões expostas, recomenda o veto por contrariedade 
 
 ### Razões do veto
 
-"Estabelecer-se,  nos  termos  propostos,  uma  vinculação  entre  despesas  públicas  e  PIB,  a  vigorar  durante exercícios  subseqüentes,  contraria  o  disposto  na  Lei  Complementar  n o 101/2000,  por  não  indicar  fonte  de receita  correspondente  e  não  estar  em  conformidade  com  o  PPA.  Saliente-se  que  a  ampliação  anual  de despesa em meio ponto percentual do PIB, prevista no texto, representaria um acréscimo em torno de R$ 5 bilhões/ano  sem  qualquer  indicação  de  fonte  de  arrecadação  ou  da  forma  como  esse  esforço  seria compartilhado entre União, Estados e Municípios.
+"Estabelecer-se, nos termos propostos, uma vinculação entre despesas públicas e PIB, a vigorar durante exercícios subseqüentes, contraria o disposto na Lei Complementar nº 101/2000, por não indicar fonte de receita correspondente e não estar em conformidade com o PPA. Saliente-se que a ampliação anual de despesa em meio ponto percentual do PIB, prevista no texto, representaria um acréscimo em torno de R$ 5 bilhões/ano sem qualquer indicação de fonte de arrecadação ou da forma como esse esforço seria compartilhado entre União, Estados e Municípios.
 
-Vale  lembrar  que  o  art.  165,  §  4 o ,  da  Constituição  Federal  prevê  que  "os  planos  e  programas  nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional" e que o atual PPA não contempla o acréscimo de recursos proposto, prevendo, em seu anexo "O Cenário, o Plano e os Orçamentos", item Desenvolvimento Social, a utilização, em quatro anos, de R$ 36,2 bilhões. A prevalecer a parte final do dispositivo examinado do Anexo ao projeto de lei, os recursos a serem utilizados para essa finalidade seriam ampliados em aproximadamente R$ 25 bilhões nos quatro primeiros anos, de forma que superariam, indevidamente, a previsão constante do PPA. Dessa forma, estaria  desatendido  o  comando  constitucional  antes  citado  que  determina  a  consonância  entre  os  Planos  e Programas e o próprio PPA. A nosso ver, não obstante sua louvável motivação, até porque a primeira parte do texto  é  meramente  programática,  a  proposição  em  foco  está  a  merecer  a  oposição  de  veto,  por  também contrariar o disposto no art. 165, § 4 o , da Constituição.
+Vale lembrar que o art. 165, § 4º, da Constituição Federal prevê que "os planos e programas nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o plano plurianual e apreciados pelo Congresso Nacional" e que o atual PPA não contempla o acréscimo de recursos proposto, prevendo, em seu anexo "O Cenário, o Plano e os Orçamentos", item Desenvolvimento Social, a utilização, em quatro anos, de R$ 36,2 bilhões. A prevalecer a parte final do dispositivo examinado do Anexo ao projeto de lei, os recursos a serem utilizados para essa finalidade seriam ampliados em aproximadamente R$ 25 bilhões nos quatro primeiros anos, de forma que superariam, indevidamente, a previsão constante do PPA. Dessa forma, estaria desatendido o comando constitucional antes citado que determina a consonância entre os Planos e Programas e o próprio PPA. A nosso ver, não obstante sua louvável motivação, até porque a primeira parte do texto é meramente programática, a proposição em foco está a merecer a oposição de veto, por também contrariar o disposto no art. 165, § 4º, da Constituição.
 
 Além  disso,  a  falta  de  determinação  do  quantum  correspondente,  no  Plano  Nacional  de  Educação,  para  a participação  dos  Estados,  do  Distrito  Federal  e  dos  Municípios  -  o  que  se  justifica  para  não  inquinar  de inconstitucionalidade a proposta por interferência indevida entre as diversas esferas de poder - impossibilitará o encaminhamento, para atendimento às disposições da Lei de Responsabilidade Fiscal, da legislação prevista no  Anexo  ao  projeto,  o  que  recomendaria,  também  pelo  prisma  do  interesse  público,  o  veto  ao  referido dispositivo."
 
