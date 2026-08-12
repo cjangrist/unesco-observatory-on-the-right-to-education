@@ -34,7 +34,7 @@ To  achieve  the  aforementioned,  three  reform  and  developmental  policies  
 
  Strengthening the institutional infrastructure, especially in technical schools, and building the capacity of staff to implement decentralization in a way to ensure good governance.
 
-Consistent with the current government approach, the Ministry of Education developed a 3-years phased plan beginning  in  the  year  2014/2015  as  a  foundation  for  a  strategic  plan  to  end  in  2030.  Such  phased  plan  is designed based on the analysis of multiple data including: evaluation of the previous strategic plan, stakeholders input, international reports and related literature, as well as opinions of specialists from the education sector or not. It has also been guided by the plans of some other countries.
+Consistent with the current government approach, the Ministry of Education developed a 3-years phased plan beginning in the year 2014/2015 as a foundation for a strategic plan to end in 2030. Such phased plan is designed based on the analysis of multiple data including: evaluation of the previous strategic plan, stakeholders
 
 2
 
@@ -44,13 +44,15 @@ Consistent with the current government approach, the Ministry of Education devel
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-A highly experienced locally and internationally trained team of MoE cadres drafted the interim plan, supported by: experts in pedagogical planning, and professionals in various pedagogical and educational disciplines from research centers and colleges of education in Egyptian universities along with a selection of specialists from the National Institute for Planning, the Ministry of Planning and the National Authority for Quality Assurance and Accreditation. This endeavor is part of a continuous participatory process with the student community, teachers, and  pedagogical  cadres  at  various  levels,  in  addition  to  Civil  Society  Organizations  (CSOs).  Moreover, technical  and  material  support  has  been  provided  by  UNICEF,  UNESCO,  and  the  UNESCO  International Institute for Educational Planning, in collaboration with the United States Agency  for International Development, and the British Council.
+input, international reports and related literature, as well as opinions of specialists from the education sector or not. It has also been guided by the plans of some other countries.
+
+A highly experienced locally and internationally trained team of MoE cadres drafted the interim plan, supported by: experts in pedagogical planning, and professionals in various pedagogical and educational disciplines from research centers and colleges of education in Egyptian universities along with a selection of specialists from the National Institute for Planning, the Ministry of Planning and the National Authority for Quality Assurance and Accreditation. This endeavor is part of a continuous participatory process with the student community, teachers, and pedagogical cadres at various levels, in addition to Civil Society Organizations (CSOs). Moreover, technical and material support has been provided by UNICEF, UNESCO, and the UNESCO International Institute for Educational Planning, in collaboration with the United States Agency for International Development, and the British Council.
 
 In designing the plan programs, due consideration was given to the results obtained at the returns level and to incorporate  the  structural  inputs  with  a  matrix  of  financial  and  moral  incentives  within  a  framework  of transparency  and  accountability.  Such  is  to  be  accomplished  via  an  efficient  and  effective  use  of  available material  and  human  resources,  involving  the  private  sector  and  civil  society  as  acting  partners,  in  order  to maximize such resources, together with international institutions and other countries of interest in educational cooperation  and  sharing  of  experiences.  In  addition  to  the  previously  mentioned,  an  ongoing  application  of medium-term  expenditure  framework  was  also  observed,  balancing  the  programs  as  being  a  methodology linking policies to plans and spending and benefiting from the potential availability of finance, especially that MoE  has  assumed  a  leading  position  in  this  regard;  where  it  was  one  of  the  first  sectors  in  which  such methodology  was  tested  moving  towards  decentralization,  to  match  the  scientific  trends  for  improving  and developing the sector.
 
 Recognizing the fact  that education is a national joint responsibility; the success of the strategy depends mainly on the concerted efforts of governmental and non-governmental organizations at all levels on the one side , and the Egyptian family as an inherent stakeholder on the other side, backed by political will to adopt education as a national priority.
 
-'Together we can provide a quality education for every child."
+“Together we can provide a quality education for every child."
 
 Professor / Mahmoud Abul Nasr Minister of Education
 
@@ -61,6 +63,48 @@ Professor / Mahmoud Abul Nasr Minister of Education
 [[START OF PAGE 4]]
 
 Strategic Plan of Pre-University Education 2014 -2030
+
+# Contents
+
+Economic, social, political, and global contexts of education 5
+
+Pre-university education status quo 13
+
+Problems and pressing 43
+
+Strategies governing and directing the activities of the plan 44
+
+Main Pillars of the plan 51
+
+Plan programs 52
+
+Kindergarten stage program 53
+
+Primary education stage program 54
+
+Preparatory education stage program 56
+
+Secondary education stage program 57
+
+General secondary education stage program 57
+
+Technical secondary education stage program 59
+
+Community education program 63
+
+Special education program 64
+
+A- Talented and Excelling students 64
+
+B- Integration of and schools for children with disabilities 66
+
+Developing institutional structure of pr-university education system in a centralized/decentralized framework 68
+
+Cross-programs 79
+
+Estimated scenarios for plan cost 91
+
+Timeframe model for the execution of some pre-university strategic plan activities 97
 
 4
 
@@ -82,7 +126,7 @@ The steady increase in population casts growing burdens on the demand for educat
 
 Out of this, we find that the education system in Egypt is in dire need for building competencies and mobilizing human potentials in order to support development and prepare students for the future. Such system derives its methods and objectives from past experiences with a vision for the future connected with building the human being. Therefore, the outcomes of such kind of education will be reflected in employable and trainable students; reducing unemployment rates, and contributing in raising economic growth and overall development rates; a type of education that eliminates all forms of  illiteracy. As for the technical education, it requires a modernized environment  encompassing  all  disciplines  of  technical  education  and  vocational  training,  through  developed curriculum  and  methods,  being  in  line  with  the  developed  countries  in  this  regard,  resulting  in  outputs compatible with the labor market.
 
-Education policy has been characterized by instability due to successive ministerial changes and  the different people  holding  such  posts.  Adding  to  that  is  the  lack  of  a  clear-cut  pedagogical  theory  underlying  the educational system. Education did not yet recognize the shift to strategic management, characteristics of which are accepting accountability and performance management methodology. Education in Egypt lacks a long-term strategic  vision  that  visualizes  success.  Thus,  leading  to  an  educational  crisis  that  requires  a forward-looking approach crystallized in long- term strategic planning.
+Education policy has been characterized by instability due to successive ministerial changes and the different people holding such posts. Adding to that is the lack of a clear-cut pedagogical theory underlying the educational system. Education did not yet recognize the shift to strategic management, characteristics of which are accepting accountability and performance management methodology. Education in Egypt lacks a long-term
 
 5
 
@@ -91,6 +135,8 @@ Education policy has been characterized by instability due to successive ministe
 [[START OF PAGE 6]]
 
 Strategic Plan of Pre-University Education 2014 -2030
+
+strategic vision that visualizes success. Thus, leading to an educational crisis that requires a forward-looking approach crystallized in long- term strategic planning.
 
 ## First: The Economic Context:
 
@@ -104,7 +150,7 @@ Unemployment constitutes  a  direct  threat  to  social  and  political  stabili
 
 Global  economy  moved  through  different  stages;  from  being  human-capital-intensive  to  knowledge-based economy, so as to achieve competitiveness and develop the ability to change. Such economy depends on the production and use of knowledge as a basic foundation for development. This economy is also characterized by rapid  rate  of  innovation,  diversity  and  deep-rooted  knowledge  and  skills,  in  addition  to  the  dynamics  of interaction and public-private mechanisms of cooperation.
 
-The response to this transition to a knowledge-based economy requires the Egyptian education system to be a source of high skills, which are needed for the workforce, in addition to strengthening the principle of lifelong learning, through the provision of high quality education and training systems that are based on the information ICT.  It  also  requires  revisiting  the  various  educational  materials,  areas  of  study,  as  well  as  reviewing  the curriculum  to  instill  problem-solving  skills,  developing  technical  education,  and  achieving  a  better  match between the outputs of educational institutions and the requirements of the labor market at all levels. This can be done through developing unconventional initiatives, such as the establishment of vocational training centers in collaboration with non-governmental organizations, and the use of a mechanism to monitor and advertise for the needs of the labor market, as well as the development of the Egyptian National Qualifications framework identifying the specifications of graduates completing the secondary and technical education stages.
+The response to this transition to a knowledge-based economy requires the Egyptian education system to be a source of high skills, which are needed for the workforce, in addition to strengthening the principle of lifelong
 
 > 1 49575=id?php.news_default/com.egyptianpeople.www//:http , dated 31/12/2013
 
@@ -115,6 +161,8 @@ The response to this transition to a knowledge-based economy requires the Egypti
 [[START OF PAGE 7]]
 
 The Strategic Plan of Pre-University Education 2014 -2030
+
+learning, through the provision of high quality education and training systems that are based on the information ICT. It also requires revisiting the various educational materials, areas of study, as well as reviewing the curriculum to instill problem-solving skills, developing technical education, and achieving a better match between the outputs of educational institutions and the requirements of the labor market at all levels. This can be done through developing unconventional initiatives, such as the establishment of vocational training centers in collaboration with non-governmental organizations, and the use of a mechanism to monitor and advertise for the needs of the labor market, as well as the development of the Egyptian National Qualifications framework identifying the specifications of graduates completing the secondary and technical education stages.
 
 ## Second: The Social context
 
@@ -128,7 +176,7 @@ The distance between the country north and south parts exceeds 1,000 km, and bet
 
 Such population distribution makes it difficult to provide lands required for construction in general, and to build schools  in  governorates  nearby  the  Nile  in  particular,  where  agricultural  land  and  high  population  density prevails, leading to a deficit in the number of schools and therefore high density classrooms and increase in the double shift schools. In addition to the aforementioned, pitches and areas for activities are lacked as a result of using the land for construction of additional classrooms. On the other hand, in governorates where population density is not observed over large areas as in Sinai, New Valley, and the Red Sea governorates, there emerges the difficulty to access communities which sizes might allow to provide investment and operational efficient educational service. This can be noted in the low rate of learners per class, as well as learners' rate per teacher and the percentage of working teachers as compared to the targeted rates.
 
-The State has been able to absorb more than 90% of the population at the age of basic education; yet, access to the rest of this age group remains a challenge. Quality creative solutions are required to deal with the supply and demand, as the lack of available classrooms is not the main obstacle in many of these cases. Figure (1) shows the Population Pyramid in Egypt 2013, which in turn suggests that there is an estimated population increase of 4% until the year 2017 in the total population.
+The State has been able to absorb more than 90% of the population at the age of basic education; yet, access to the rest of this age group remains a challenge. Quality creative solutions are required to deal with the supply and
 
 > 2 Central Authority for Population, Mobilization and Statistics, CAPMAS, Egypt 2012
 
@@ -139,6 +187,8 @@ The State has been able to absorb more than 90% of the population at the age of 
 [[START OF PAGE 8]]
 
 Strategic Plan of Pre-University Education 2014 -2030
+
+demand, as the lack of available classrooms is not the main obstacle in many of these cases. Figure (1) shows the Population Pyramid in Egypt 2013, which in turn suggests that there is an estimated population increase of 4% until the year 2017 in the total population.
 
 Figure (1): Population Pyramid in Egypt (2013) (Page 6)
 
@@ -350,7 +400,7 @@ The  political  system  in  Egypt  is  now  witnessing  a  state  of  instabilit
 
 Egypt  implements  a  multi-party  system.  The  current  political  conditions  reflect  a  positive  trend  towards  the involvement  of  multiple  parties  in  political  life  in  Egypt.  Therefore,  the  philosophy  of  education  should contribute to developing political awareness and participation of citizens, promoting the values of democracy, freedom, citizenship, tolerance and acceptance of others in order to achieve democratic transition on a sound footing.
 
-All  of  the  aforementioned  inevitable  features  needed  by  citizens  were  lacked.  They  are  lacked  because  the schools  did  not  provide  their  students  with  sound  political  upbringing.  When  the  revolution  came,  it  was misused leading to the increase of protests, sit-ins, and attacks. Individuals were not brought up on the practice of democracy, which indicates the absence of political education where they do not see the other opinion.
+All of the aforementioned inevitable features needed by citizens were lacked. They are lacked because the schools did not provide their students with sound political upbringing. When the revolution came, it was
 
 10
 
@@ -360,6 +410,8 @@ All  of  the  aforementioned  inevitable  features  needed  by  citizens  were  
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
+misused leading to the increase of protests, sit-ins, and attacks. Individuals were not brought up on the practice of democracy, which indicates the absence of political education where they do not see the other opinion.
+
 What should be emphasized in this context is that political parties should pay due concern to educational issues in related programs and should propose strategies and practices bolstering education, with regard to the exercise of rights and duties, citizenship and loyalty to the State. Education is a national and not partial issue not a partial issue of partial; a genuine community concern, not restricted to a specific faction. One of the most important results of the 30 June 2013 revolution is the drafting of a new constitution that defines the legislative framework for education.
 
 ### The Legislative Framework of Education:
@@ -368,7 +420,7 @@ The Constitution of 2014 singled out Education with six articles starting with A
 
 The impacts of all the aforementioned articles are inseparable. These articles clearly indicate that the State pays much concern to education after it has been proven that education is the key pathway to any development, and that  any  economic,  political,  or  social  reform  can  be  attained  only  through  focusing  on  developing  and improving the type of education provided to citizens that is equal to levels of education provided in countries achieving progress and known for their political, economic, and social development.
 
-Moreover, article No. (19) of the 2014 Constitution stipulates that, every citizen has the right to education. The goals of education are to build the Egyptian character, preserve the national identity, consolodate the scientific method  of  thinking,  develop  talents  and  promote  innovation,  establish  cultural  and  spiritual  values,  and  lay foundations of citizenship, tolerance and non-discrimination. The State shall observe the goals of education in the  educational  curricula  and  methods,  and  provide  education  in  accordance  with  international  quality standards. It has been stated as well that compulsory education shall be extended till 12 years, as noted in the article: 'Education is compulsory until the end of the secondary stage or its equivalent. The State shall provide free education in the various stages in the State's educational institutions according to the Law.  The State shall allocate  a  percentage  of  government  spending  to  education  equivalent  to  at  least  4%  of  the  Gross  National Product (GNP), which shall gradually increase to comply with international standards.' It is worth noting that the former is the most important advantage of the new constitution. The article included as well that the State shall  supervise  education  to  ensure  that  all  public  and  private  schools  and  institutes  abide  by  its educational policies.
+Moreover, article No. (19) of the 2014 Constitution stipulates that, every citizen has the right to education. The goals of education are to build the Egyptian character, preserve the national identity, consolodate the scientific method of thinking, develop talents and promote innovation, establish cultural and spiritual values, and lay foundations of citizenship, tolerance and non-discrimination. The State shall observe the goals of education in the educational curricula and methods, and provide education in accordance with international quality standards. It has been stated as well that compulsory education shall be extended till 12 years, as noted in the article: 'Education is compulsory until the end of the secondary stage or its equivalent. The State shall provide free education in the various stages in the State's educational institutions according to the Law. The State shall allocate a percentage of government spending to education equivalent to at least 4% of the Gross National Product (GNP), which shall gradually increase to comply with international standards.' It is worth noting that the former is the most important advantage of the new constitution. The article included as well that the State
 
 11
 
@@ -377,6 +429,8 @@ Moreover, article No. (19) of the 2014 Constitution stipulates that, every citiz
 [[START OF PAGE 12]]
 
 Strategic Plan of Pre-University Education 2014 -2030
+
+shall supervise education to ensure that all public and private schools and institutes abide by its educational policies.
 
 Article No. 20 focuses on technical education which must be given attention due to the fact that such kind of education is in dire need for radical development of all its aspects. The Article stipulates that 'The State shall encourage and develop technical and technological education as well as vocational training, and expand all their types in accordance with international quality standards and labor market needs'
 
@@ -390,7 +444,7 @@ The  constitution  articles  show  the  maximizing  importance  given  for  educ
 
 Education  development  must  be  guided  by  global  trends  and  success  stories,  as  well  as  declarations  and recommendations  issued  by  international  bodies  on  learning,  most  important  of  which  are  the  documents  of UNESCO, and the World Education Forum on Education for All (Dakar, 2000).
 
-### 1The United Nations:
+### 1- The United Nations:
 
 The United Nations emphasizes that the second goal of the Millennium Development Goals is the need to achieve universal primary education by ensuring that, by 2015, children everywhere, boys and girls alike, will be able to complete a full course of primary schooling.
 
@@ -404,7 +458,7 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 It  also  emphasizes  in  the  third  goal  the  promotion  of  gender  equality  and  empowerment  of  women,  eliminating gender disparity in primary education and secondary education, and in all levels of education no later than 2015.
 
-### 2Goals of the World Education Forum: Education for All, Dakar 2000:
+### 2- Goals of the World Education Forum: Education for All, Dakar 2000:
 
  Goal 1: Expanding and improving comprehensive early childhood care and education, especially for the most vulnerable and disadvantaged children.
 
@@ -420,31 +474,25 @@ It  also  emphasizes  in  the  third  goal  the  promotion  of  gender  equality
 
 In  'Learning,  the  treasure  within',  a  report  by  Jacques  Delors  published  by  UNESCO,  the  four  pillars  of education are identified as follows:
 
-
+ Learning to know:
 
-
+Knowledge Production process varies in the information era in, inter alia, how do you learn? What do you learn? and why do you learn? This emphasizes the integration and continuity of knowledge through lifelong learning.
 
-- Learning to know: Knowledge Production process varies in the information era in, inter alia, how do you learn? What do you learn? and why do you learn? This emphasizes the integration and continuity of knowledge through
-
-lifelong learning.
-
-- Learning to do:
+ Learning to do:
 
 A purpose that requires dealing with reality and cyberspace, through distance-work and teamwork.
 
  Learning to be:
 
-This  slogan  means  learn  for  the  physical,  mental,  emotionally  and  spiritual  development  of  the individual.
+This slogan means learn for the physical, mental, emotionally and spiritual development of the individual.
 
-
-
-- Learning to live together:
+ Learning to live together:
 
 means acquisition, production and communication of information and knowledge as well as initiating dialogue with the other.
 
 # Pre-University Education Status quo:
 
-Egyptian Constitution guarantees the right to free and compulsory education to all Egyptian children aged 6 to 15 years.  The  legislation  provides  that  the  «education  aims  to  prepare  the  child  scientifically,  culturally  and spiritually, as well as develop his/her personality, talents, mental and physical abilities to their fullest potential, with a view to produce a human being who believes in his/her country,  the values of goodness, truth and humanity and provide him/ her with the values, theoretical and practical studies, as well as other factors to achieve his/ her humanity,  dignity,  and  self-  actualization  and  contribute  efficiently  in  the  fields  of  production  and services to complete higher education, on the basis of equal opportunity'
+Egyptian Constitution guarantees the right to free and compulsory education to all Egyptian children aged 6 to 15 years. The legislation provides that the «education aims to prepare the child scientifically, culturally and spiritually, as well as develop his/her personality, talents, mental and physical abilities to their fullest potential, with a view to produce a human being who believes in his/her country, the values of goodness, truth and humanity and provide him/ her with the values, theoretical and practical studies, as well as other factors to achieve his/ her
 
 13
 
@@ -454,11 +502,13 @@ Egyptian Constitution guarantees the right to free and compulsory education to a
 
 Strategic Plan of Pre-University Education 2014 -2030
 
+humanity, dignity, and self- actualization and contribute efficiently in the fields of production and services to complete higher education, on the basis of equal opportunity”
+
 ## Egyptian Education Ladder:
 
 The Egyptian Education Ladder is divided into two stages: the basic education stage; comprising the primary and  preparatory  stages,  and  the  secondary  stage.  Basic  education  stage  covers  9  years.  Article  no.60  of  the Education Law states that primary education aims to develop the capacity and preparedness of pupils, satisfy their  interests  and  provide  them  with  the  necessary  values,  attitudes,  knowledge  as  well  as  scientific  and professional skills that are consistent with the circumstances of their different environments, so that those who complete their basic  education can continue their learning in a higher stage  and face life  after obtaining the appropriate  professional  training.  All  of  the  previously  mentioned  aim  at  preparing  the  individual  to  be  a productive citizen in his environment and society. Basic education is divided into two stages: the primary stage for  six-years  which  corresponds  to  (ISCED  -1)  according  to  the  International  Standard  Classification  of Education targeting the age group of 6 to 11 years. The student is enrolled in primary education at the age of 6 to 8 years, since 6 is the official enrollment age. The second stage of basic education is the preparatory stage, the duration which is three years. Such stage corresponds to the age group of 12-14 years and ISCED-2. The preparatory stage prepares the student to enroll in the secondary stage (ISCED - 3) in any of its two branches. The  first  is  the  general  secondary  education,  where  pupils  study  for  three  years  in  order  to  be  prepared  for enrollment at university or post-secondary non-university education (technicians' institutes). The second track of secondary education is known as technical secondary education, from 3 to five years, preparing the student to join the labor market. The acceptance of students in any of the tracks is determined by their performance in the final test of the preparatory stage and the student's desire as well as the available places available in each of the two tracks. It is worth noting that secondary education corresponds to the age group of 15-17 years. The new Constitution  of  2014  added  the  secondary  stage  to  compulsory  education,  hence  compulsory  education  now includes basic education and secondary education with its both branches; the general and technical.
 
-As for the children who are over the age of primary school enrollment (eight years), or have dropped out, they are guided to join the one-class schools or community schools. These are public schools operating under the umbrella of the general education system. They were established in the nineties by UNICEF in collaboration with  MoE and the local community  and  are known as the second  chance schools. Such schools are usually opened in areas of limited population deprived from schools and educational institutions 3 , and are characterized by adopting a flexible system that allows the teaching of more than one level in the same classroom. Different forms of these schools have been developed to respond to the specific needs related to the local community, the social status or geographical location. Community schools in disadvantaged rural areas provide an educational level  equivalent  to  primary  education.  Moreover,  there  are  girl-friendly  schools  which  aim  at  providing appropriate, flexible and quality education. These schools target mainly girls who are not enrolled or did not want to enroll in primary education or who have dropped out of education. These schools adapt with the local necessities and accept girls at the age of 6 to 14 years. The priority is for older children, especially girls, while also allowing the enrollment of males at a rate not exceeding 25% .
+As for the children who are over the age of primary school enrollment (eight years), or have dropped out, they are guided to join the one-class schools or community schools. These are public schools operating under the umbrella of the general education system. They were established in the nineties by UNICEF in collaboration with MoE and the local community and are known as the second chance schools. Such schools are usually opened in areas of limited population deprived from schools and educational institutions 3 , and are characterized by adopting a flexible system that allows the teaching of more than one level in the same classroom. Different forms of these schools have been developed to respond to the specific needs related to the local community, the social status or geographical location. Community schools in disadvantaged rural areas provide an educational level equivalent to primary education. Moreover, there are girl-friendly schools which aim at providing appropriate, flexible and quality education. These schools target mainly girls who are not enrolled or did not want to enroll in primary education or who have dropped out of education. These schools adapt with the local
 
 > 3 Al-Azhar contributes with a similar concept through readings Institutes and  schools for learning Quran which provide the opportunity for those who learns the Quran by heart at the age of 12 and above to enroll in the preparatory stage at Al Azhar institutes after passing a program equivalent to primary stage, which opens the door for drop-outs to return to education.
 
@@ -469,6 +519,8 @@ As for the children who are over the age of primary school enrollment (eight yea
 [[START OF PAGE 15]]
 
 The Strategic Plan of Pre-University Education 2014 -2030
+
+necessities and accept girls at the age of 6 to 14 years. The priority is for older children, especially girls, while also allowing the enrollment of males at a rate not exceeding 25% .
 
 The education sector in Egypt offers a program for kindergarten stage, age 4-5 years that corresponds to ISCED -0 in the International Classification but it is not an essential part of the educational ladder or of the compulsory education, meaning that the regularity at this stage is not a prerequisite for admission to the primary stage.
 
@@ -482,13 +534,13 @@ Availability means the ability of the system to provide equal opportunities to t
 
 The following is a quantitative summary of results achieved by the Egyptian government with regard to availability classified according to educational stages, and measured by accommodation and net enrollment rates as well as the total  numbers  along  with  indicators  (inputs)  as  numbers  of  schools,  classrooms,  teachers  and  non-  teachers  and registered students (outputs).
 
+Table (1) Current availability according to number of schools, classrooms, and registered students by gender
+
 Affiliation | Schools | Classrooms | Boys | Girls | Total
 --- | --- | --- | --- | --- | ---
 Governmental (Public) | 41346 | 4000599 | 8513426 | 8111322 | 16624758
 Private | 6174 | 53120 | 882724 | 791304 | 1674028
 Total | 47520 | 453719 | 9396150 | 8902636 | 18298786
-
-Table (1) Current availability according to number of schools, classrooms, and registered students by gender
 
 Figure No (2) shows the distribution of pupils in different stages according to affiliation. It also notes that the vast majority of enrolled students fall under the umbrella of MoE in 2012/2013.
 
@@ -502,7 +554,31 @@ Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (2) Student distribution according to affiliation, 2012/ 2013
 
-#### 1Availability in Kindergarten
+ما قبل الابتدائي
+70,3%
+23,9%
+5,8%
+
+الاعدادي
+84,2%
+5,8%
+10,0%
+
+الازهر
+الخاص
+الحكومي
+
+الابتدائي
+81,6%
+8,0%
+10,5%
+
+الثانوي
+81,9%
+8,1%
+10,0%
+
+#### 1- Availability in Kindergarten
 
 Kindergarten stage is not in fact a new stage in Egypt. Kuttab (an old traditional educational system based on phonetics in assisting the students with memorizing letters, words and Quran) was the starting point for many scientists, think tanks and writers in the past. Hence, the attention given to kindergarten stage is not a new trend in Egypt. Early of this century, Egypt adopted policies for the development of kindergarten, where that focus was on the provision of health, psychological and educational care for a child as they are basic human rights. The goal to develop early childhood was a priority programs in the previous strategic plan.
 
@@ -516,15 +592,15 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 The number of registered children at enrollment age in kindergartens reached 423 thousand, which represented 22.6 % of the number of children at the age of 5 years in 2012/2013. By calculating the population in kindergarten age children who are enrolled in primary stage, we find that the net modified enrollment rate in kindergarten reaches 30.8 % without any noted difference between boys and girls. These percentages are still far from what the government target, namely to reach an enrollment rate of 50% in the medium term, i.e in the foundation stage of the plan, from 2017 to 2014, at all levels of education combined: public, Azharian, or private education.  Table (2) shows the statistics of kindergarten enrollment.
 
-Girls | Boys | Total
+Table (2) Statistic features of enrollment in Kindergarten stage.
+
+ | Girls | Boys | Total
 --- | --- | --- | ---
 No. of children at the age of and enrolled in Kindergarten | 203034 | 220016 | 423050
 No. of children at the age of kindergarten | 910756 | 963844 | 1874600
 Net enrollment rate in kindergarten | 22.3% | 22.8% | 22.6%
 No. of children at the age of kindergarten and registered in Primary stage | 84222 | 69974 | 154196
 Net modified enrollment rate in kindergarten | 31.5% | 30.1% | 30.8%
-
-Table (2) Statistic features of enrollment in Kindergarten stage.
 
 Figures (4,5) show the development in the kindergarten children community or early childhood in light of the schools numbers and the number of children enrolled in kindergartens. It is noted that there is a continuous growth in the number of enrolled children, where the average growth rate recorded during the past decade (2004-2013) was 8%, exceeding the demographic growth rate (1.6%) registered for the 4 to 5 years age bracket. This was reflected in increase in enrollment rate in pre-primary stage which rose from 16.1 % in 2004 to 28.5 % in 2013.  The distribution of children percentages enrolled in the public, private and Azharian sectors shows that the largest percentage is enrolled in the public governmental representing 69.1%, followed by the private sector reaching 24.2%, and finally the Azharian sector comprising the lowest percentage 6.75 %. It is worth noting that the number of classrooms in kindergarten stage reached 30131 in the academic year 2012/2013, distributed as follows: 20149 classrooms in public education, 8374 in private sector, and 1608 classrooms in Azharian sector. Moreover, the number of schools that contain kindergarten classrooms reached 9634 schools (7446 public schools, 425 Azharian schools, and 1763 private school)
 
@@ -600,8 +676,6 @@ It is worth noting that according to 2012/2013 census, the number of female teac
 
 Figure (4) Pre- primary stage: development of school numbers
 
-Figure (5) Pre- primary stage: development of registered students' numbers
-
 433
 
 1,032
@@ -666,6 +740,8 @@ Figure (5) Pre- primary stage: development of registered students' numbers
 
 )1000 (
 
+Figure (5) Pre- primary stage: development of registered students' numbers
+
 18
 
 [[END OF PAGE 18]]
@@ -674,9 +750,18 @@ Figure (5) Pre- primary stage: development of registered students' numbers
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-19,755
-
 20,913
+20,714
+20,562
+20,210
+20,221
+19,942
+19,755
+19,502
+19,354
+19,060
+18,768
+18,389
 
 0
 
@@ -736,7 +821,7 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 ﺍ ﻝﻡﺝﻡﻭﻉ
 
-#### 2Availability in Primary Education
+#### 2- Availability in Primary Education
 
 In  primary  stage,  children  learn  skills  of  reading,  writing  and  arithmetic  as  a  foundation  to  enable  them  to successfully and efficiently complete their educational stages. Despite the fact that basic education is free and compulsory in Egypt, the Law 139 of 1981 on obliging parents to send their sons or daughters to school was not fully enforced. Although education is free in accordance with the terms of the Constitution of 1953 which states that education in Egypt shall be free from primary education and till university.
 
@@ -802,7 +887,7 @@ Figure (6) Development of primary schools numbers
 
 ﺍﻝﻡﺝﻡﻭﻉ
 
-Figure (6) shows a significant development in the number of primary schools over the previous years. However, the rate of increase decelerated during the previous period as a result of approaching full accommodation of the children at the age of primary education. Table (3) gives a statistical view of the primary education inputs in 2012/2013. It is noted that the number of enrolled children is approaching 11 million pupils, where girls constitute 49% that is their same proportion in population for this age group. Further noted from Table (4) is that the net accommodation rate (public and private education only) has risen to 85.1 % by 7.3% increase when compared to the previous year.
+Figure (6) shows a significant development in the number of primary schools over the previous years. However, the rate of increase decelerated during the previous period as a result of approaching full accommodation of the
 
 19
 
@@ -812,16 +897,18 @@ Figure (6) shows a significant development in the number of primary schools over
 
 Strategic Plan of Pre-University Education 2014 -2030
 
-Affiliation | Schools/ institutes | Classrooms | Teachers
+children at the age of primary education. Table (3) gives a statistical view of the primary education inputs in 2012/2013. It is noted that the number of enrolled children is approaching 11 million pupils, where girls constitute 49% that is their same proportion in population for this age group. Further noted from Table (4) is that the net accommodation rate (public and private education only) has risen to 85.1 % by 7.3% increase when compared to the previous year.
+
+Table (3) total numbers of classrooms, teachers and pupils enrolled in primary education according to administrative affiliation 2012/2013
+
+Affiliation | Schools/ institutes | Classrooms | Teachers | | 
 --- | --- | --- | --- | --- | ---
-Female | Male | Total
+ | | | Female | Male | Total
 Governmental | 15587 | 200340 | 202897 | 153362 | 356259
 Azharian | 3439 | 31804 | 29412 | 36862 | 66274
 Private | 1812 | 26813 | 27315 | 7175 | 34490
 Azharian private | 75 | 1413 | 2122 | 982 | 3105
 Total | 20913 | 258957 | 261747 | 198381 | 460128
-
-Table  (3)  total  numbers  of  classrooms,  teachers  and  pupils  enrolled  in  primary  education  according  to administrative affiliation 2012/2013
 
 Figure (7) Distribution of primary education students, according to boys and girls number and percentage, as per administrative affiliation
 
@@ -1002,11 +1089,11 @@ Figure (8) Distribution percentage of classrooms, teachers and students, accordi
 
 Figure  (8)  shows  that  the  distribution  of  educational  service  including  teachers  and  classrooms  in  rural  and urban areas in the primary stage is different from the distribution in kindergarten, where rural areas are getting higher percentage of classrooms and teachers
 
+Table (5) development of total and net accommodation rates during 2007/2008- 2012/2013
+
 Years | Enrolled in first year | Total accommodation rate | Enrolled in first year 6 years | Net accommodation rate
 --- | --- | --- | --- | ---
 2007/2008 | 1545154 | 92.9% | 1415999 | 85.1%
-
-Table (5) development of total and net accommodation rates during 2007/2008- 2012/2013
 
 21
 
@@ -1017,19 +1104,18 @@ Table (5) development of total and net accommodation rates during 2007/2008- 201
 Strategic Plan of Pre-University Education 2014 -2030
 
 2008/2009 | 1543240 | 95.9% | 1370607 | 85.2%
---- | --- | --- | --- | ---
 2009/2010 | 1561295 | 95.1% | 1335211 | 81.4%
 2010/2011 | 1615374 | 96.8% | 1367945 | 82.0%
 2011/2012 | 1609096 | 92.2% | 1358664 | 77.8%
 2012/2013 | 1679762 | 89.7% | 1594433 | 85.1%
 
-#### 3Availability in Community Education
+#### 3- Availability in Community Education
 
 The number of community education schools that serve disadvantaged areas and offer a second chance to drop outs and those not enrolled in primary education has increased to cover all governorates. The number of such schools  reached  4614  classrooms/  schools,  accommodating  100286  students;  82  964  girls  and  17  312  boys, where the girls percentage reached 82% and an average density of 22 pupils /class. Six models of this type of education have been proven success in Egypt, namely: a - Community Schools supported by UNICEF since its inception in 1992, of total 417 Schools accommodating 4249 boys and 7169 girls with a percentage of  36 % for the  girls  and  class  density  of  27  students  /class, b -  one-class  schools  (3162  schools)  accommodating  61270 students; 6356 boys 54914 girls with a percentage of 90% for girls and average density of 19 pupils / class, c -girls-friendly schools for girls (945 Schools) accommodating 23203 students; 4041 boys and 19162 girls , with a percentage of 83% for girls and an average density of 25 pupils /class , d - Street children schools (34 schools) serving  3299  pupils, e -  small  schools  (from  Community  development  associations)  of  total  46  schools.  In addition to the above, there is an initiative of new schools consisting of 70 schools containing 770 classrooms and 170 multileveled classrooms to serve 30,000 female students
 
 The most notable features of community besides allowing a second chance for education are: existing nearby the target communities, offering suitable opportunities for girls, low density, as well as providing some kind benefits for pupils and their families. Such schools represent an appropriate solution to contain the remaining out-of-school children at the age of basic education. (Table - 3)
 
-#### 4Availability in Preparatory stage:
+#### 4- Availability in Preparatory stage:
 
 Figure (9) Preparatory education stage: development of school numbers, 2012/ 2013
 
@@ -1183,7 +1269,7 @@ Figure (11) shows that the ratios of girls enrolled were comparable with boys at
 
 Figure (11) Distribution of preparatory education students, according to boys and girls number and percentage, as per administrative affiliation
 
-> 24 4 The population of that age group is estimated by 5034345 individuals in 2013
+
 
 44%
 
@@ -1231,6 +1317,10 @@ Figure (11) Distribution of preparatory education students, according to boys an
 
 ﻥﺱ ﺏﺓ  ﺍﻝﺭ ﻱﻑ
 
+> 4 The population of that age group is estimated by 5034345 individuals in 2013
+
+24
+
 [[END OF PAGE 24]]
 
 [[START OF PAGE 25]]
@@ -1239,9 +1329,9 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Table (6) The total of schools, classrooms and teachers registered in preparatory stage, as per administration affiliation, 2012/ 2013
 
-Affiliation | Schools/ | Classrooms | Teachers
+Affiliation | Schools/ Institutes | Classrooms | Teachers | |
 --- | --- | --- | --- | --- | ---
-Institutes | Women | Men | Total
+ | | | Women | Men | Total
 Governmental | 9154 | 95698 | 111626 | 114367 | 225993
 Azharian | 3142 | 14629 | 15543 | 26904 | 42447
 Private | 1454 | 9379 | 7348 | 7052 | 14400
@@ -1250,15 +1340,15 @@ Total | 13809 | 119938 | 135193 | 148886 | 284079
 
 Table (7) Statistical features of preparatory stage registration rates, 2012/ 2013
 
-Girls | Boys | Total
+ | Girls | Boys | Total
 --- | --- | --- | ---
 Number of preparatory age population enrolled in preparatory stage | 2086873 | 2129211 | 4316084
 Number of preparatory age population | 2356003 | 2578241 | 5034345
 Net rate of preparatory education enrollment | 85,0% | 82,6% | 83,7%
 Number of preparatory age population enrolled in primary stage | 175345 | 254054 | 429399
 Number of preparatory age population enrolled in secondary stage | 27174 | 30614 | 57788
-Net rate of total preparatory age enrollment | 93,2% | 93,6% | 93,³%
-Out-of-school children
+Net rate of total preparatory age enrollment | 93,2% | 93,6% | 93,3%
+Out-of-school children | | |
 Percentage of out-of-school children (preparatory) | 6,8% | 6,4% | 6,6%
 Number of out-of-school children (preparatory) | 611166 | 432164 | 074331
 
@@ -1352,23 +1442,11 @@ Figure (13) Secondary stage registration rates, distributed between the general 
 
 70
 
-ﺙﺍ ﻥﻭﻯ ﻉﺍﻡ
-
-ﻑﻥﻱ
-
-ﺙﺍ ﻥﻭﻱ
-
-ﺝﻡ ﻝﺓ
-
-ﻡﺍﻝﻯ
-
-الاج
-
-ﺍﻝﻕﻱﺩ
-
-ﺹﺍﻑﻯ
-
-ﺍﻝﻕﻱﺩ  ﺍﻝ
+ثانوى عام
+ثانوي فني
+جملة
+القيد الاجمالى
+القيد الصافى
 
 Figure  (13)  highlights  that  the  total  registration  rate  in  the  secondary  stage  exceeded  66%,  while  the  net registration rate of the age bracket (15- 17) records a percentage of around 60%, 63% of which is for technical education.  This  difference  between  net  and  total  registration  rates  reveals  the  existence  of  around  6%  of students, who are not affiliated to such an age bracket in this stage. It also pinpoints that the increase in school volume and encompassed students is still far from the targeted population in secondary education age.
 
@@ -1442,29 +1520,12 @@ Strategic Plan of Pre-University Education 2014 -2030
 
 90% 100%
 
-ﺙﺍﻥﻭﻱ ﻉﺍﻡ
-
-ﺍﻝ
-
-ﻝﺹ ﻥﺍﻉﻱ
-
-ﺙﺍﻥﻭﻱ ﺍ
-
-ﺍﻝ
-
-ﺙﺍﻥﻭﻱ  ﺍﻝﺯﺭﺍﻉﻱ
-
-ﺍﻝ
-
-ﻝﺕﺝﺍﺭﻱ
-
-ﺙﺍﻥﻭﻱ ﺍ
-
-ﺍﻝ
-
-ﺏ ﻥﺍﺕ
-
-ﺏ ﻥﻱﻥ
+الثانوي عام
+الثانوي الصناعي
+الثانوي الزراعي
+الثانوي التجاري
+بنات
+بنين
 
 When analyzing the secondary stage registration rate of boys and girls, it is clarified that girls recorded higher percentage than boys in commercial and general secondary education in contrary to industrial and agricultural secondary education (Figure 15).
 
@@ -1512,19 +1573,13 @@ Figure (16) Distribution rate of general secondary education service between rur
 
 100%
 
-ﻑﺹﻭﻝ
-
-ﺏ ﻥ ﻱﻥ
-
-ﺏ ﻥﺍﺕ
-
-ﺝﻡ ﻝﺓ  ﻁﻝ ﺏﺓ
-
-ﺝﻡ ﻝﺓ ﻡﺩ ﺭﺱ ﻱﻥ
-
-ﻥﺱ ﺏﺓ ﺍ ﻝﺡﺽﺭ
-
-ﻥﺱ ﺏﺓ  ﺍﻝﺭ ﻱﻑ
+فصول
+بنين
+بنات
+جملة طلبة
+جملة مدرسين
+نسبة الحضر
+نسبة الريف
 
 Table (8)  shows  that  the  general  secondary  education  is  currently  having  more  than  half  of  secondary  stage teachers and 60% of schools. However, secondary education acquires a lesser percentage of classrooms, as the average  number  of  classrooms  in  general  secondary  schools  (13)  is  lesser  than  in  technical  ones  (24).  The analysis  of  secondary  education  inputs  distribution,  namely  teachers  and  classrooms,  among  rural  and  urban areas,  as  shown  in  Figure  (15),  reveals  a  totally  different  image  compared  to  the  distribution  form  in  basic education. To elaborate, the rural areas reflect a lesser rate of secondary stage classrooms and teachers. This situation requires amendment in a way ensuring fair and availability of equal opportunities for preparatory stage graduates.  Figure  (2)  further  pinpoints  that  secondary  education  comes  under  the  umbrella  of  Ministry  of Education and the remaining rate is distributed among private and Azharian education.
 
@@ -1536,9 +1591,10 @@ Table (8)  shows  that  the  general  secondary  education  is  currently  havin
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-Type of Secondary | % of | Teachers | % of
+Table (8) Distribution of secondary education inputs according to type of education
+
+Type of Secondary Education | Schools | % of Schools | Classrooms | % of Classrooms | Teachers Males | Teachers Females | Teachers Total | % of Teachers
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Education | Schools | % of Schools | Classrooms | Classrooms | Males | Females | Total | Teachers
 General | 2874 | 60% | 36913 | 44% | 56714 | 39728 | 96442 | 52%
 Industrial | 947 | 20% | 24983 | 30% | 8943 | 4932 | 13875 | 8%
 Agricultural | 188 | 4% | 4756 | 6% | 16782 | 20092 | 36874 | 20%
@@ -1546,21 +1602,19 @@ Commercial | 794 | 17% | 17200 | 21% | 16782 | 20092 | 36874 | 20%
 Technical | 1929 | 40% | 46939 | 56% | 43507 | 45116 | 87623 | 48%
 Total | 4803 | 100% | 83852 | 100% | 99221 | 84844 | 184065 | 100%
 
-Table (8) Distribution of secondary education inputs according to type of education
-
 The  internal  distribution  of  registration  in  technical  education  stage  reveals  a  fourth  type  of  such  kind  of education,  i.e.  hotel  secondary  education;  a  type  still  in  a  starting  phase.  It  is  noteworthy  that  technical education  specializations  encompass  two  kinds  of  programs:  a  normal  three-year  program  and  another extending five-year program.
 
 #### 6. Availability for special needs people
 
 Providing special needs people with the opportunity for effective enrollment in and completion of education system is considered an essential dimension for the application of equality from the  availability perspective. Particularly,  it  should  be  noted  that  the  last  population  census  analysis  (2006)  referred  to  nearly  3  million children identified as children with disabilities, by virtue of the related international definition. Children with special needs are not only the disabled children but also the talented and excelling students requiring special care.  Tables  (9  and  10)  present  the  currently  provided  educational  services  for  mathematically  talented  and academically  excelling  students  on  the  preparatory  and  secondary  education  levels.  It  is  clear  that  such  a category of student is limited, whether in quantity or quality of talent requiring special care.
 
+Table (9) Number of classrooms and schools allocated for mathematically talented students, 2012/ 2013
+
 Category | Schools | Classrooms | Boys | Girls
 --- | --- | --- | --- | ---
 Preparatory Stage | 30 | 144 | 2298 | 1212
 Secondary Stage | 35 | 165 | 2353 | 1233
 Total | 65 | 309 | 4651 | 2445
-
-Table (9) Number of classrooms and schools allocated for mathematically talented students, 2012/ 2013
 
 Table (10) Number of classrooms and schools allocated for academically excelling students, 2012/ 2013
 
@@ -1594,135 +1648,40 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (17) Distribution of special education classrooms, teachers and students, according to educational stages, 2012/ 2013
 
-7% - 10% People with disabilities
-
-0%
-
-65%
-
-4%
-
-9%
-
-9%
-
-4%
-
-9%
-
 Teachers
 
-ﺍ ﻕﺏﻝ
-
-ﻡ
-
-ﺏ ﺕﺩﺍ ﺉﻱ
-
-الا
-
-ﺍ ﻝﻡﺭﺡ ﻝﺓ
-
-ﺉ ﻱﺓ
-
-ﺏ ﺕﺩﺍ
-
-الا
-
-ﺍ ﻝﻡﺭﺡ ﻝﺓ
-
-ﻉﺩﺍﺩ ﻱﺓ
-
-الإ
-
-ﺇﻉﺩﺍﺩﻱ ﻡ ﻩ ﻥﻱ
-
-ﺇﻉﺩﺍﺩ ﻡ ﻩ ﻥﻱ
-
-ﺏ ﺕﺩﺍ ﺉﻱ
-
-الا
-
-ﺍ ﻕﺏﻝ
-
-ﻡ
-
-ﺉ ﻱﺓ
-
-ﺏ ﺕﺩﺍ
-
-الا
-
-ﺍ ﻝﻡﺭﺡ ﻝﺓ
-
-ﻉﺩﺍﺩ ﻱﺓ
-
-الإ
-
-ﺍ ﻝﻡﺭﺡ ﻝﺓ
-
-ﺇﻉﺩﺍﺩﻱ ﻡ ﻩ ﻥﻱ
-
-ﺇﻉﺩﺍﺩ ﻡ ﻩ ﻥﻱ
-
-ﺙﺍ ﻥﻭﻱ ﻉﺍﻡ
-
-ﻑ ﻥﻱ
-
-ﺙﺍ ﻥﻭﻱ
-
-Students
-
-ﺏ ﻥ ﻱﻥ
-
-ﺏ ﻥﺍﺕ
-
-1%
-
-71%
-
-2%
-
-7%
-
-11%
-
-2%
-
-6%
+ما قبل الابتدائي | 0%
+المرحلة الابتدائية | 65%
+المرحلة الإعدادية | 4%
+إعدادي مهني | 9%
+إعداد مهني | 9%
+ثانوي عام | 4%
+ثانوي فني | 9%
 
 Classrooms
 
-ﺕﺩﺍﺉﻱ
+ما قبل الابتدائي | 1%
+المرحلة الابتدائية | 71%
+المرحلة الإعدادية | 2%
+إعدادي مهني | 7%
+إعداد مهني | 11%
+ثانوي عام | 2%
+ثانوي فني | 6%
 
-ﺏ
+Students
 
-الا
+ما قبل الابتدائي
+المرحلة الابتدائية
+المرحلة الإعدادية
+إعدادي مهني
+إعداد مهني
+ثانوي عام
+ثانوي فني
+بنين
+بنات
 
-ﻕ ﺏﻝ
-
-ﻡﺍ
-
-ﺉ ﻱﺓ
-
-ﺏ ﺕﺩﺍ
-
-الا
-
-ﺍﻝﻡﺭﺡ ﻝﺓ
-
-ﻱﺓ
-
-الإعداد
-
-ﺍﻝﻡﺭﺡ ﻝﺓ
-
-ﺇﻉﺩﺍﺩﻱ  ﻡﻩﻥﻱ
-
-ﺇﻉﺩﺍﺩ  ﻡﻩﻥﻱ
-
-ﺙﺍﻥﻭﻱ ﻉﺍﻡ
-
-in Society
+7% - 10%
+People with disabilities in Society
 
 Seriously taking care of people with different special needs, in pre-university education sector, requires major inputs,  at  the  top  of  which:  preparing  school  buildings,  supplying  schools  with  sources  room,  training  of teachers  and  specialists,  developing  curricula  and  pedagogical  measurement  tools,  setting  systems  and legislations  enhancing  the  application  of  policies  related  to  catering  for  people  with  special  needs  and effectuating the rewarding incentives for different levels of personnel taking care of people with disabilities.
 
@@ -1746,27 +1705,26 @@ Sources rooms | 70
 
 Table (12) Statistical summary of pedagogical service inputs for students with disabilities, classified by type of disability, 2012/ 2013
 
-Type of Disability | Category | Schools and Divisions | Classrooms | Pedagogical Teacher | Non- pedagogical Teacher | Registered
---- | --- | --- | --- | --- | --- | --- | ---
-Boys | Girls | Total
-Low | Prior to primary stage | 6 | 11 | 8 | 1 | 24 | 20
-Primary education | 31 | 187 | 344 | 32 | 667 | 560
-Visual Disability Blindness/ | Preparatory education | 28 | 87 | 262 | 99 | 355 | 229
-Vision | Secondary education | 26 | 85 | 226 | 97 | 307 | 237
-Total | 91 | 370 | 840 | 229 | 1353 | 1046
-Mute Weak | Prior to primary stage | 9 | 13 | 10 | - | 24 | 17
-and Hearing Impaired Schools | Primary education | 111 | 1006 | 2163 | 145 | 4669 | 3583
-Preparatory education | 88 | 314 | 734 | 153 | 1766 | 1220
-Secondary education | 64 | 278 | 631 | 228 | 1717 | 1238
-Total | 273 | 1611 | 3538 | 536 | 8176 | 6058
-Prior to primary stage | 1 | 2 | 8 | 7 | 7
-Intellectual Pedagogical Schools | Primary education | 363 | 1986 | 3239 | 349 | 10303 | 5027
-Preparatory education | 143 | 496 | 667 | 194 | 3929 | 1608
-Secondary education | 1 | 11 | 19 | 45 | 7
-Total | 508 | 3495 | 3933 | 543 | 14284 | 6649
-Special education primary | 2 | 13 | 20 | 5 | 68 | 55
-Hospital -like Schools | Special education preparatory | 2 | 6 | 13 | 9 | 47 | 19
-Total | 4 | 19 | 33 | 14 | 115 | 74
+Type of Disability | Category | Schools and Divisions | Classrooms | Pedagogical Teacher | Non-pedagogical Teacher | Registered Boys | Registered Girls | Registered Total
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Visual Disability Blindness/ Low Vision | Prior to primary stage | 6 | 11 | 8 | 1 | 24 | 20 |
+ | Primary education | 31 | 187 | 344 | 32 | 667 | 560 |
+ | Preparatory education | 28 | 87 | 262 | 99 | 355 | 229 |
+ | Secondary education | 26 | 85 | 226 | 97 | 307 | 237 |
+ | Total | 91 | 370 | 840 | 229 | 1353 | 1046 |
+Mute and Weak Hearing Impaired Schools | Prior to primary stage | 9 | 13 | 10 | - | 24 | 17 |
+ | Primary education | 111 | 1006 | 2163 | 145 | 4669 | 3583 |
+ | Preparatory education | 88 | 314 | 734 | 153 | 1766 | 1220 |
+ | Secondary education | 64 | 278 | 631 | 228 | 1717 | 1238 |
+ | Total | 273 | 1611 | 3538 | 536 | 8176 | 6058 |
+Intellectual Pedagogical Schools | Prior to primary stage | 1 | 2 | 8 |  | 7 | 7 |
+ | Primary education | 363 | 1986 | 3239 | 349 | 10303 | 5027 |
+ | Preparatory education | 143 | 496 | 667 | 194 | 3929 | 1608 |
+ | Secondary education | 1 | 11 | 19 |  | 45 | 7 |
+ | Total | 508 | 3495 | 3933 | 543 | 14284 | 6649 |
+Hospital-like Schools | Special education primary | 2 | 13 | 20 | 5 | 68 | 55 |
+ | Special education preparatory | 2 | 6 | 13 | 9 | 47 | 19 |
+ | Total | 4 | 19 | 33 | 14 | 115 | 74 |
 
 #### Summary of availability issue:
 
@@ -1786,7 +1744,7 @@ The  aforementioned  analysis  reveals  the  data  and  information  provided  i
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-- taking in consideration the economic and social patterns in addition to the geographical distribution of children targeted groups.
+taking in consideration the economic and social patterns in addition to the geographical distribution of children targeted groups.
 
  Availability  gap  between  rural  and  urban  areas  has  vanished.  It  also  disappeared  between  male  and female, though reflected for girls in the preparatory stage. However, a gap still exist on the economic level,  as  nearly  only  20%  of  the  category  poorest  children  in  society  are  enrolled  in  preparatory education and 80% of rich and middle class families children.
 
@@ -1842,6 +1800,27 @@ The  third  dimension  of  the  density  is  represented  in  categorizing  it. 
 
 Figure (19): Distribution of the average classroom density across educational stages 2012/13
 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+pre elementary
+elementary
+prepratory
+commercial secondary
+agricultural secondary
+technical secondary
+general secondary
+speacial education
+community learning
+total
+
 35
 
 [[END OF PAGE 35]]
@@ -1851,6 +1830,14 @@ Figure (19): Distribution of the average classroom density across educational st
 Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (20): Distribution of density categories in kindergarten classes 2012/13
+
+20 less than | 4.7%
+30 less than 20 | 15.1%
+40 less than 30 | 40.0%
+50 less than 40 | 31.8%
+60 less than 50 | 2.5%
+70 less than 60 | 1.0%
+70 more than | 4.8%
 
 This shows another perspective of the drawback with regards to educational buildings; the multiple educational shifts  and  the  small  number  of  schools  following  the  full-day  system.  This  negatively  impacts  the  effective learning  periods.  The  General  Administration  of  Elementary  Education  report  mentioned  that  the  number  of elementary schools following the full-day system is 6558. The report also shows that the number of morning schools operating without other schools is 423 whereas the number  of morning schools operating simultaneously with other schools, but from other stages like preparatory schools, is 3415. Furthermore, it is shown that the number of schools operating for two ongoing shifts is 982, the number of schools operating for a second shift is 842 and the number of those operating for a third shift is 29. With regards to the preparatory schools only, 36.3% of them follow the full-day system.
 
@@ -1869,6 +1856,19 @@ Figure (21): Distribution of teachers across the educational levels and types ac
 [[START OF PAGE 37]]
 
 The Strategic Plan of Pre-University Education 2014 -2030
+
+Educational level/type | educational percentage | the teacher's share of students
+--- | --- | ---
+pre-elementary | 88% | 31
+elementary | 87% | 23
+preparatory | 78% | 17
+commercial secondary | 51% | 17
+agricultural secondary | 43% | 15
+technical secondary | 79% | 9
+general secondary | 73% | 12
+special education | 90% | 4
+community education | 55% | 13
+total | 72% | 18
 
 Figures (21 and 22) show the percentage of teacher availability. The teacher-to-student ratio is low across all stages except for the kindergarten stage in all the governorates except Matrouh. Such ratio is notably low in different types of the secondary stage. Nevertheless, such teacher availability is not accompanied by educational qualification  as  almost  30%  of  the  total  teachers  are  not  educationally  qualified.  Moreover,  almost  25%  of preparatory and general secondary school teachers are not educationally qualified. This has a direct negative effect  on  the  quality  of  the  educational  process  especially  with  the  weak  professional  development programs and the lack of educational qualification. On the other hand, the percentage of educationally qualified teachers in private schools has increased from 50.2 % to 60% in five years; from 2007/08 to 2011/12. Signs of deficit and increase at the different educational levels indicate that educational degrees and qualification do not cater for the actual teaching needs in addition to the geographical maldistribution of the teaching force as shown in figure (22). Such maldistribution is confirmed by a clear teacher shortage in a number of subjects versus a huge increase in other subjects. Although the number of elementary teachers has reached 390749 in 2012/1013; 87% of  whom  are  educationally  qualified,  there  is  a  shortage  of  elementary  teachers  amounting  to  86116  in  all specializations. The available data also indicate a shortage of teachers in some governorates versus abundance of them in other governorates at the level of all specializations. This may point to that the problem is not only the shortage of teachers but also it is related to teacher maldistribution which is traced back to the inaccurate data and poor planning as well as to political and social reasons.
 
@@ -2076,11 +2076,21 @@ while the average rate of expenditure on pre-university education has exceeded e
 
 Figure (24) The development of expenditure on pre-university education as a percentage of GDP and as a percentage of public expenditure
 
+Chart label | Spending on education/ Public Spending | Spending on education/ GDP
+--- | --- | ---
+13/2014 | 9.10% | 3.0%
+13Dec- | 8.20% | 2.7%
+12Nov- | 9.10% | 2.8%
+11Oct- | 9% | 2.6%
+10Sep- | 9.30% | 2.8%
+09Aug- | 8.50% | 2.9%
+08Jul- | 9% | 2.8%
+
 Overall, we can say that the relative stability of the rates of expenditure over such period, whether compared to GDP or public expenditure indicates that there is no change concerning the relative importance of the education sector among other sectors. In other words, the general fiscal policy considers that the priority of the education sector among other sectors should remain as is in the upcoming five-year plan. This entails that the educational sector should be prioritized within the fiscal policies to provide a better level of education and to achieve real reform in this important sector.
 
 Figure (23) shows that there is a limited improvement in the rate of expenditure on pre-university education for the fiscal year 2009/2010, which amounts to about 9.3%. This could be accounted for by the decline in the rate of increase in public expenditure to about 4% in that year, compared to about 25% in the previous fiscal year which is due to the government's adoption of an expansionary policy, in public expenditure, to face the negative impacts of the global financial crisis in September, 2008.
 
-The final year's estimates 2013/ 2014 , which reflect the budget figures for that year, show the huge increase in public  expenditure  on  public  pre-university  education  to  reach  about  31  %  compared  to  the  previous  year, which exceeds double the average rate of increase in the period between 2007/ 2008 - 2012/2013. This is due to the  huge  increase  in  wages  as  a  result  of  the  government's  policy  to  improve  the  wages  of employees in this important sector. On the other hand, the figures of the general budget for the last year reflect a rate  of  increase  in  public  expenditure  that  amounts  to  17%,  in  comparison  to  13  %  average  increase  in  the previous period. The implementation rates, in the first quarter of this year, indicate that they did not exceed 17% of total public expenditure. It could decrease to 10% and 4 % for purchase of goods, services and investment.
+The final year's estimates 2013/ 2014 , which reflect the budget figures for that year, show the huge increase in public expenditure on public pre-university education to reach about 31 % compared to the previous year, which exceeds double the average rate of increase in the period between 2007/ 2008 - 2012/2013. This is due to
 
 45
 
@@ -2089,6 +2099,10 @@ The final year's estimates 2013/ 2014 , which reflect the budget figures for tha
 [[START OF PAGE 46]]
 
 Strategic Plan of Pre-University Education 2014 -2030
+
+the huge increase in wages as a result of the government's policy to improve the wages of employees in this important sector. On the other hand, the figures of the general budget for the last year reflect a rate of increase in public expenditure that amounts to 17%, in comparison to 13 % average increase in the previous period. The implementation rates, in the first quarter of this year, indicate that they did not exceed 17% of total public expenditure. It could decrease to 10% and 4 % for purchase of goods, services and investment.
+
+Table (13), the final account for the Ministry of Education for the year 2007/2008 - 2012/2013 according to the economic division
 
 The Budget final account chapters | 07/2008 | 08/2009 | 09/ 2010 | 10/ 2011 | 11/ 2012 | 12/ 2013
 --- | --- | --- | --- | --- | --- | ---
@@ -2100,13 +2114,11 @@ Other expenditures | 163 | 156 | 192 | 199 | 139 | 131.3
 Investment | 1190 | 1921 | 1883 | 2038 | 1978 | 2047.9
 Total expenditure | 24520 | 29655 | 33552 | 35837 | 43043 | 48431.1
 
-Table (13), the final account for the Ministry of Education for the year 2007/2008 - 2012/2013 according to the economic division
-
 The historical development of public expenditure on pre-university education (Table 13) indicates that wages have consumed an increasing rate of that expenditure, during the period 07/ 2008 - 11/2012 ; which increased from about 84% : 89 % of the total budget of the sector in the first year, to about 8 % in the final year. This was due the pressure of repeated demands to improve the wages of employees in this sector, which have increased in the final year of the sixth  five-year plan < 2011/ 2012>  and the following year. Consequently, the rest of the elements of the current expenditure, as well as expenditure on projects, have dropped from around 16 % of the total public expenditure on pre-university education to about 11% in the year following the sixth five-year plan. This shows that the fiscal policy did not deal with the different areas of expenditure in the same way it dealt with wages though such areas are of equal importance to work.
 
 On the other hand, the implementation of investments has declined (figure 25) in the general board over the duration of the plan. However, the sharp decline was for the last two years where the rate of implementation did not  exceed  40%  for  the  year  2011/2012  and  was  about  13  %  for  the  last  year  2012/2013.    The  rate  of  the implementation  of  the  investment  in  the  General  Authority  for  Educational  Buildings  reflects  the  limited implementation rates, which fell to 60 % in the fiscal year 2012/2013, compared to 67% in the previous year. Thus,  the  rates  of  implementation  at  the  level  of  pre-university  education  sector  have  increased  where  they exceeded appropriations in the years in which wages were highly increased. This is despite the decline in the rate of the implementation of investments, which fell to its lowest rate in the final year, where it did not exceed 46%.
 
-To compare the expenditure between pre-university education and university education, an example is given. In 2011/  2012,  48  billion  EGP  from  the  state  budget  has  been  allocated  for  education  in  Egypt.    The  share  of university education was 30% in comparison to 70 % for pre-university education, which is equivalent to 13.7 billion EGP. It is clear that this distribution is in favor of the university education, which comprises only 6% of the total number of students in Egypt. The distribution of the amount allocated to the pre-university education, which is equivalent to 34.3 billion EGP, is further divided into 10.2 % for the general secondary education, 15.3 % for  the  technical  and  vocational  secondary  education,  48.7  %  for  the  primary  education,  22.4  %  for  the preparatory education, while the remaining 3.5 % goes to pre-primary education, special education schools and the One Room schools. (The Ministry of Education - 2011 - 2012 budget)
+To compare the expenditure between pre-university education and university education, an example is given. In 2011/ 2012, 48 billion EGP from the state budget has been allocated for education in Egypt. The share of university education was 30% in comparison to 70 % for pre-university education, which is equivalent to 13.7 billion EGP. It is clear that this distribution is in favor of the university education, which comprises only 6% of the total number of students in Egypt. The distribution of the amount allocated to the pre-university education, which is equivalent to 34.3 billion EGP, is further divided into 10.2 % for the general secondary education, 15.3 % for the technical and vocational secondary education, 48.7 % for the primary education, 22.4 % for the
 
 46
 
@@ -2116,7 +2128,30 @@ To compare the expenditure between pre-university education and university educa
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
+preparatory education, while the remaining 3.5 % goes to pre-primary education, special education schools and the One Room schools. (The Ministry of Education – 2011 - 2012 budget)
+
 Figure (25) The implementation rates of the budget appropriations in the pre-university education sector
+
+Year | remaining currently appropriated | remaining currently implemented | implementation
+--- | --- | --- | ---
+2013 | 3917 | 3571 | 91%
+2012 | 3495 | 2882 | 82%
+2011 | 3233 | 2819 | 87%
+2010 | 3139 | 3315 | 106%
+
+Year | appropriated wages | implemented wages | implementation
+--- | --- | --- | ---
+2013 | 41499 | 42812 | 103%
+2012 | 33581 | 38174 | 114%
+2011 | 30815 | 30980 | 100%
+2010 | 26481 | 28354 | 107%
+
+Year | appropriated investment | implemented investment | implementation
+--- | --- | --- | ---
+2013 | 4486 | 2049 | 46%
+2012 | 3182 | 1978 | 62%
+2011 | 2203 | 2038 | 93%
+2010 | 1919 | 1883 | 98%
 
 47
 
@@ -2138,7 +2173,7 @@ Strategic Plan of Pre-University Education 2014 -2030
 
  Limited availability, poor accommodation and difficulty to complete the secondary stage;
 
- The problems of educational buildings and their impact on educational performance (class capacity  studying periods).
+ The problems of educational buildings and their impact on educational performance (class capacity – studying periods).
 
 ## Second: Quality issues
 
@@ -2194,63 +2229,33 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (26), the most important input and output expected from implementing the strategic plan for education
 
-
+Input – output – results
 
-Community schools in all villages
+Quality
 
-
+• Training all the teachers, administrative staff and mentors
+• A factory in every vocational school and a school in every factory
+• Educational technology elements/ learning at each school
+• Math and science curriculum for all stages
+• Disseminating reading programs
+• School activities at all schools
+• Eliminating the over 50 students per class capacity
+• Training for operation
 
-Schools that integrates students with
+The situation at the end of the three years
 
-special needs in all administrations
+• Community schools in all villages
+• Schools that integrates students with special needs in all administrations
+• School meals for all students all year long
 
-
-
-School meals for all students all year
-
-long
-
-
-
-Training all the teachers, administrative staff and mentors
-
-
-
-A factory in every vocational school and a school in every
-
-factory
-
-
-
-Educational technology elements/ learning at each school
-
-
-
-Math and science curriculum for all stages
-
-
-
-Disseminating reading programs
-
-
-
-School activities at all schools
-
-
-
-Eliminating the over 50 students per class capacity
-
-
-
-Training for operation
+The current situation
 
 Progress in accessibility
-
 Low enrollment in KG
-
 Poor quality, low efficiency and lack of effectiveness
-
 11% of the students are dropouts
+
+Accessibility
 
 # Strategies governing and directing the activities of the plan
 
@@ -2264,7 +2269,7 @@ Poor quality, low efficiency and lack of effectiveness
 
 Strategic Plan of Pre-University Education 2014 -2030
 
-- choices for students, develops creativity, helps them acquire the skills needed to master the Arabic language and learn at least one foreign language, and assists the students to acquire the necessary skills to work with others effectively. All this should take place in a framework that emphasizes building the students' characters rather than focusing on simple memorization of information.
+choices for students, develops creativity, helps them acquire the skills needed to master the Arabic language and learn at least one foreign language, and assists the students to acquire the necessary skills to work with others effectively. All this should take place in a framework that emphasizes building the students' characters rather than focusing on simple memorization of information.
 
  Providing full opportunities to accommodate and educate all children (between the ages of 5 to 18) and to improve the school's ability to retain the students and reduce drop-outs.
 
@@ -2308,7 +2313,7 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
  Building an integrated advanced system for accountability based on transparency and a real follow-up and evaluation of the performance which should be based on indicators of performance at all educational levels. This is to emphasize the qualitative and quantitative value of the educational outcomes.
 
- Providing  the  requirements  necessary  for  the  implementation  of  the  plan  and  managing  the  required funding essential to achieve its programs and projects, with an emphasis on optimum use of available resources, and the development of the existing resources. This is in addition to finding effective nontraditional  sources  to  face  the  crisis  of  funding,  lands  and  buildings,  and  providing  the  necessary requirements for the success of the programs and projects.
+ Providing the requirements necessary for the implementation of the plan and managing the required funding essential to achieve its programs and projects, with an emphasis on optimum use of available resources, and the development of the existing resources. This is in addition to finding effective non-traditional sources to face the crisis of funding, lands and buildings, and providing the necessary requirements for the success of the programs and projects.
 
  Developing the working system and strategies in the centers and bodies subsidiary to the Ministry of Education to support development of the real educational work in the classroom and the school through research,  evaluation  process  and  training.  The  results  of  all  this  should  be  used  in  the  process  of decision-making,  setting  educational  policies  and  providing  practical  solutions  for  problems  in  the educational process.
 
@@ -2318,7 +2323,7 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
  Qualifying  all  students  for  higher  education  institutions  and  professional  life  through  improving  the ability of the education system to achieve ongoing outstanding performance in classrooms according to clear academic standards, in order to provide effective support services.
 
- Supporting and assisting the education system to continue to improve through the optimal use of largescale data, research, evaluation, transparency, modernization and technology.
+ Supporting and assisting the education system to continue to improve through the optimal use of large-scale data, research, evaluation, transparency, modernization and technology.
 
 Figures (27- a) The policies governing the strategic plan of pre-university education
 
@@ -2336,9 +2341,7 @@ Plan Policies
 
 - Ensuring the availability of second chance for out-of-education children
 
-- Improving the quality and effectiveness of pedagogical service through the provision of contemporary curriculum for every child in every classroom, and efficient leaderships in every school in addition to high level
-
-preparation, continuous support and Adopting effective non cultural oriented international curricula like math, science, languages and geography Equipping the learner with of knowledgebased community efficiencies  for continuous learning and acquisition of the digital citizenship values
+- Improving the quality and effectiveness of pedagogical service through the provision of contemporary curriculum for every child in every classroom, and efficient leaderships in every school in addition to high level preparation, continuous support and
 
 Figure (27- b) The policies governing the strategic plan of pre-university education
 
@@ -2350,15 +2353,27 @@ Figure (27- b) The policies governing the strategic plan of pre-university educa
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-Figure (27- c) The policies governing the strategic plan of pre-university education
+Joint Community partnership supported by motivating political will
 
-General
+Centralized/ decentralized administration system ensuring good governance
 
-Education
+Trained teaching, administrative and supervisory cadres
 
 Technical
 
-education
+General
+
+ICT for education, learning and management
+
+Curricula, teaching and evaluation methods
+
+Near School
+
+Good Infrastructure
+
+Adequate Density
+
+Figure (27- c) The policies governing the strategic plan of pre-university education
 
 53
 
@@ -2368,15 +2383,19 @@ education
 
 Strategic Plan of Pre-University Education 2014 -2030
 
-الأخذ ذذذذمناهج  ذ ذذذذه  ن اجعهج يةنغيرن المحملة ن ثقهفيذذذذذذذذهن ثذذذذذذذذ ن اجريهضيهت نواجعلذو ن واجلغهتنواججغرافيه.ن
+الأخذ بالمناهج العالمية غير المحملة ثقافياً مثل الرياضيات والعلوم واللغات والجغرافيا.
 
-إكسةل  المةتالا كتليةل مجتمع الماعع  والقلئم لى القورة  لةى الةتالا المسةتمع واكتسةل   ةيا الموا ن  الع مي
+Adopting effective non cultural oriented international curricula like math, science, languages and geography
+
+إتاحة فرص متكافئة لاستيعاب جميع الأطفال من عمر (5-18)، والاحتفاظ بهم والحد من تسربهم.
 
 Offering equal opportunities to accommodate and retain all children in the age group (5-18) as well as reducing the dropout rate
 
-إتهحةنفرصن تكهفئةن لاسذ ذذذتيعهينج يذ ذذذ ن الأطفه ن ذ نم ذرن(ن -5 ن )18 ، نوالاحتفهظن اهذذذ ننواجحذذذ ن ذذذ ن تسراه .
+إكساب المتعلم كفايات مجتمع المعرفة والقائم على القدرة على التعلم المستمر واكتساب قيم المواطنة الرقمية
 
-صيغ لتكنولوجية   عاللة عة ةةر  ةةةعر الماععة ةة وتةةواول ل نةةيط ال ةة والمالميط ومةط يعبة مط أننلء المجتمع
+Equipping the learner with of knowledge-based community efficiencies for continuous learning and acquisition of the digital citizenship values
+
+صيغ تكنولوجية فعالة في عرض المعرفة وتداولها بين الطلاب والمعلمين ومن يرغب من أبناء المجتمع
 
 Using effective technological formulas in demonstrating and sharing knowledge between students, teachers and community individuals.
 
@@ -2390,7 +2409,9 @@ Figure (27- d) The policies governing the strategic plan of pre-university educa
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-Rates of financing, priorities and twining
+Supporting Poor Communities
+
+Enhancing Supply
 
 - Adequate near school
 
@@ -2404,6 +2425,8 @@ Rates of financing, priorities and twining
 
 - Life vocational skills
 
+Enhancing Demand in cooperation with local community
+
 - Sensitizing Campaigns
 
 - Issuance of birth certificates and registration
@@ -2414,21 +2437,15 @@ Rates of financing, priorities and twining
 
 - Stationary and tools
 
-Enhancing Demand in cooperation with local
-
-community
-
-Administration
-
-School
-
-Student
-
-Supporting Poor Communities
+Rates of financing, priorities and twining
 
 Governorate
 
-Enhancing Supply
+Administration
+
+Student
+
+School
 
 55
 
@@ -2472,9 +2489,9 @@ Challenges (risks) facing implementation
 
  Cooperating  with  all  ministries,  agencies,  NGOs  and  donor  bodies  to  narrow  the  gap  of  insufficient  school buildings
 
-- Improving school buildings: to ensure that school buildings, available spaces, furnishings and resources deemed useful in the teaching process are based on national standards
-
 ## Second: Quality:
+
+- Improving school buildings: to ensure that school buildings, available spaces, furnishings and resources deemed useful in the teaching process are based on national standards
 
 56
 
@@ -2524,9 +2541,9 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
  Expanding in the use of ICT applications in planning, follow-up, evaluation and decision-making on all levels
 
-57
-
 Figure (29) Major, Sub and  Crosscutting Programmes  of the Strategic Education Plan
+
+57
 
 [[END OF PAGE 57]]
 
@@ -2534,37 +2551,37 @@ Figure (29) Major, Sub and  Crosscutting Programmes  of the Strategic Education 
 
 Strategic Plan of Pre-University Education 2014 -2030
 
+Information Technology Program
+
+Curricula and Methods Program
+
+School Feeding Program
+
+School Buildings Program
+
 Kindergarten Programmes
 
 Primary Education Programmes
-
-Community Education Programmes
 
 Secondary Education Programmes
 
 (inclusive of the two branches)
 
+Community Education Programmes
+
 Special Pedagogical Programmes
 
-Management
+Management and Decentralization Programme
 
-Management and
+- School-based Reform Program
 
-Decentralization Programme
+- Professional Development and Human Resources Management Program
 
-- Professional Development and Human
-
-Resources Management Program
-
-Structural and legislative Program
-
-Educational and Financial Information Systems
-
-Program
+Educational and Financial Information Systems Program
 
 Evaluation and Follow-up Program
 
-- School-based Reform Program
+Structural and legislative Program
 
 # Kindergarten Stage Program
 
@@ -2648,7 +2665,7 @@ provision of high quality education for all children as of the primary stage unt
 
 ### Introduction:
 
-Egypt has, like most countries, adopted the compulsoriness principle of education in order to give way for equal opportunities among all citizens; to free citizens from ignorance; and to put an end to illiteracy that hinders any progress.  The  Human  Rights  Declaration  has  stated  that,  'every  person  has  the  right  to  education  and  that education in its early and elementary stages at least should be provided for free. Moreover, elementary stage education should be compulsory'. In the same context, the Child Rights Declaration stipulates that: 'the child is entitled to education which should be compulsory and free of tuition fees', during the elementary stage at least. Primary stage education receives children at the age of 6 and children continue in it for 6 grades, where they learn reading, writing and mathematics.
+Egypt has, like most countries, adopted the compulsoriness principle of education in order to give way for equal opportunities among all citizens; to free citizens from ignorance; and to put an end to illiteracy that hinders any progress. The Human Rights Declaration has stated that, “every person has the right to education and that education in its early and elementary stages at least should be provided for free. Moreover, elementary stage education should be compulsory”. In the same context, the Child Rights Declaration stipulates that: “the child is entitled to education which should be compulsory and free of tuition fees”, during the elementary stage at least. Primary stage education receives children at the age of 6 and children continue in it for 6 grades, where they learn reading, writing and mathematics.
 
 ### Strategic Objectives:
 
@@ -2743,7 +2760,7 @@ The preparatory stage comes as the second link in the elementary education. It f
 
 ### Strategic Objectives:
 
- Providing quality education opportunities for all students who have joined the preparatory stage via a learnersupportive  educational  environment,  low-dense  classes  and  equitable  learning  domain  that  considers  the different social, environmental and economic backgrounds of learners.
+ Providing quality education opportunities for all students who have joined the preparatory stage via a learner-supportive educational environment, low-dense classes and equitable learning domain that considers the different social, environmental and economic backgrounds of learners.
 
  Providing a sufficient numbers of professional teachers who are capable of imparting advanced curricula and school  activities  in  a  manner  that  guarantees  comprehensive  development  for  students  over  the  preparatory stage.
 
@@ -2771,7 +2788,9 @@ The preparatory stage comes as the second link in the elementary education. It f
 
 - Providing  a  minimum  level  of  basic  school  facilities  for  teaching  and  learning  processes  at  all  preparatory school stages and to allocate a proportionate amount of funds for maintenance.
 
-- 62 5. Eliminating the cheating phenomenon and to reduce flunking, discontinuation and dropout rates
+- Eliminating the cheating phenomenon and to reduce flunking, discontinuation and dropout rates
+
+62
 
 [[END OF PAGE 62]]
 
@@ -2899,39 +2918,21 @@ Technical education in Egypt is a mainstay to realize comprehensive development 
 
 Figure (30) Outputs of Employment, Training and School Quality Units affiliated to the Egyptian Competitiveness-Support Programs
 
-### Strategic Objectives
+14000
 
-
+12000
 
-Offering  abundant  opportunities  and  to  advance  technical education specializations in Egypt and Egyptian schools in
+10000
 
-
+8000
 
-Training and School Quality Units
+6000
 
-*Training of teachers and Administrators
+4000
 
-
+2000
 
-Training and School Quality Units
-
-*Training of students
-
-
-
-
-
-Employment Units * Employment of
-
-Graduates and Job Seekers
-
-
-
-
-
-Employment Units * Training of
-
-Graduates and Job Seekers
+0
 
 Alexandria Governorate
 
@@ -2939,11 +2940,9 @@ Beni Suef Governorate
 
 Port Said Governorate
 
-Sharqia Governorate te
+Sharqia Governorate
 
-Fayoum
-
-Governora
+Fayoum Governorate
 
 Aswan Governorate
 
@@ -2952,6 +2951,20 @@ Red Sea Governorate
 Luxor Governorate
 
 Total
+
+■ Training and School Quality Units
+*Training of teachers and Administrators
+
+■ Training and School Quality Units
+*Training of students
+
+■ Employment Units * Employment of Graduates and Job Seekers
+
+■ Employment Units * Training of Graduates and Job Seekers
+
+### Strategic Objectives
+
+ Offering abundant opportunities and to advance technical education specializations in Egypt and Egyptian schools in
 
 65
 
@@ -3095,41 +3108,47 @@ Strategic Plan of Pre-University Education 2014 -2030
 
 - Follow-up reports of employment of technical education graduat
 
-Figure (31) Domains of Developing Secondary Technical Education Outputs in the Strategic Plan for PreUniversity Education (pag
+Figure (31) Domains of Developing Secondary Technical Education Outputs in the Strategic Plan for Pre-University Education (pag
 
 Developing Technical Education
 
-Quality and
-
-productivity
-
 Approaching technical education
+
+Maximization
+
+Quality and productivity
 
 Expansion
 
-Maximizati
+Developing curricula
 
-on
+Equipping schools
 
-•
+Training teachers
 
-Tablet
+Training students
 
-•
+Production lines
 
-Power saving
+International cooperation
 
-lanterns
+Employing professions
 
-•
+Specifying needs
 
-Wood/ paper
+Employment Policies
 
-recycling
+Labor
 
-•
+Demand increase
 
-School feeding
+• Tablet
+
+• Power saving lanterns
+
+• Wood/ paper recycling
+
+• School feeding
 
 The State shall encourage technical and technological education, vocational training and related development; it shall further favor expansion in technical education at large, in accordance with international quality standards (2014 Constitution)
 
@@ -3263,6 +3282,26 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (32): Significant Expected Outputs of Educating Talented and Academically Excelling Students in the Egyptian National Education Plan (page84)
 
+System for discovering excellent and talented students in all fields
+
+Developing curricula, teaching methods, technology and evaluation
+
+Setting a manual and training of teachers, specialists and managers
+
+Supporting legislations and community awareness
+
+Supporting talented and excellent students
+
+Specialized centers
+
+Specialized schools
+
+After school meetings
+
+Excellent students classrooms
+
+Inside classrooms
+
 ## b) Inclusion and Schools of Children with Disabilities
 
 ### General  Objective:
@@ -3354,69 +3393,38 @@ Figure (33) Significant Results of Educating Persons of Special Needs in Egypt's
 
 Strategic Plan of Pre-University Education 2014 -2030
 
-school group
+The state shall guarantee the health, educational, economic, social, entertainment and sport rights of persons with special needs and dwarfed
+
+To attend to persons with Special
+
+Raising Awareness regarding the Child's Right to Education and services available
+
+Service Provider
+Ministry of Education
 
 Service Proclaimer
-
 The Family
 
-Early Detection
+Early Detection and Intervention
 
-and Intervention
+Policies of Schools for Persons of Special Needs
+
+Quality Standards
 
 Integration Policies
-
-General Education
-
-/Technical Education
-
-Policies of Schools for
-
-Persons of Special
-
-Needs
-
-Qualit
-
-y
-
-Standa
-
-rds
-
-The state shall guarantee the health, educational, economic, social, entertainment and sport rights of persons with
-
-special needs and dwarfed
-
-To attend to persons with
-
-Special
+General Education /Technical Education
 
 - To build / furnish several schools in every administration consistent with needs
 
-- To secure  means of transportation from and to schools
+- To secure means of transportation from and to schools
 
 - To enrich curricula, teaching methods, evaluations techniques and activities to suit persons with special needs
 
-- To  use suitable ICT
+- To use suitable ICT
 
 -To provide and train teachers, assistants, social workers, directors and inspectors
 
-- To provide resource centers, technical support and evaluation  for every
-
-Service Provider
-
-Ministry of
-
-Education
-
-Raising Awareness
-
-regarding the Child's
-
-Right to Education and
-
-services available
+- To provide resource centers, technical support and evaluation for every school group
 
 74
 
@@ -3644,43 +3652,38 @@ Developing Pedagogical Cadres and Leaderships
 
 The Strategic Plan of Pre-University Education 2014 -2030
 
-Training
-
 Figure (35) Most Important Outcomes of Enhancing Human resources Performance and Professional Development in Egypt Strategic Plan for Education (Page 97)
 
-- Before Service·
+Training
 
-·During Service
-
-·Self/ Individual
+- Before Service
+- During Service
+- Self/ Individual
 
 Distribution efficiency and effectiveness
 
 Regular supervision
 
+- School leadership
+- Experienced teachers
+
 Constructive inspection
 
-·School leadership
-
-·Experienced teachers
-
-- Internal  · inspection
-
-- External  · inspection
+- Internal inspection
+- External inspection
 
 Providing education sources
 
-· Preparing lessons
-
+- Preparing lessons
 - Self development
-
-- Performance-related  · incentives
 
 Appreciation and motivation
 
+- Performance-related incentives
 - Professional competitions
-
 - Participation in curricula preparation and decisions
+
+Knowledge
 
 81
 
@@ -3809,7 +3812,7 @@ The Strategic Plan of Pre-University Education 2014 -2030
 ## a) Curriculum Comprehensive Reform Program
 
 ### General  Objective:
-development  of  pre-university  educational  curriculums  being  in  harmony  with  the requirements  and  skills  of  the  21 st century  taking  in  consideration  local,  regional  and  international  changes, seeking the promotion of the culture of reflection and creativity, maintaining and entrenching the original values of  the  Egyptian society  and emphasizing the digital citizenship; to prepare generations capable of competing internationally to reach advanced levels in the fields of science, mathematics and technologies.
+development  of  pre-university  educational  curriculums  being  in  harmony  with  the requirements  and  skills  of  the  21st century  taking  in  consideration  local,  regional  and  international  changes, seeking the promotion of the culture of reflection and creativity, maintaining and entrenching the original values of  the  Egyptian society  and emphasizing the digital citizenship; to prepare generations capable of competing internationally to reach advanced levels in the fields of science, mathematics and technologies.
 
 ### Introduction:
 
@@ -3869,11 +3872,21 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (36) Weaknesses in Curriculums and Educational Materials System in Egypt Strategic Plan for Education (Page 104)
 
+Good teacher impact on
+
+Values
+
+Teacher
+
+Teachers, and faculty members and their assistants, are the main pillars of education. The State shall guarantee the development of their academic competencies and professional skills and shall care for their financial and
+
+Good teacher impact on student attainment continues for four consecutive years
+
 Curricula Development
 
-87
-
 Figure (37) Pillars of Curriculums and Educational Materials System Development in
+
+87
 
 [[END OF PAGE 87]]
 
@@ -3883,17 +3896,19 @@ Strategic Plan of Pre-University Education 2014 -2030
 
 Egypt Strategic Plan for Education (Page 105)
 
-Poor
+Curriculum content is flexible, practical, realistic and in line with international standards
 
-interactive
+Interactive learning environment leads to learning and team working
 
-learning
+Fro
 
-Curriculum content is flexible,
+Active, cooperative student, responsible for his learning
 
-practical, realistic and in line
+Teacher trained, practitioner
 
-with international standards
+Interactive board
+
+Evaluation leads to more supportive learning
 
 Decreasing density
 
@@ -4137,13 +4152,15 @@ Figure (38) Strategic Options for the Provision of Financial Resources to Financ
 
 Rationalizing education public expenditure
 
-Creativity and problemsolving Developing the self-
+Creativity and problem-solving
 
-E
+Developing the self-resources of
 
-Curricula Development resources of Student is active, cooperating and responsible for The State shall allocate a percentage of government spending to education equivalent to at least 4% of the GDP, which shall gradually increase to comply with international standards (2014 Constitution)
+Curricula Development
 
-In
+Student is active, cooperating and responsible for
+
+The State shall allocate a percentage of government spending to education equivalent to at least 4% of the GDP, which shall gradually increase to comply with international standards (2014 Constitution)
 
 Teacher is a trainer, practitioner and reflective
 
@@ -4188,147 +4205,85 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (39) First Scenario of Expenditure on Programs of Pre-university Education Strategic Plan
 
-72,181
-
-86,617
-
-103,941
-
-0
-
-20,000
-
-40,000
-
-60,000
-
-80,000
-
-100,000
-
-120,000
-
-15 / 14
-
-16 / 15
-
-17 / 16
+Increasing the education percentage of expenditure
 
 Total Cost
 
-ﺍ ﻝﻡﺝﻡﻭﻉ
-
-ﺡ ﺕ ﻱﺍﺝﺍﺕ
-
-لا
-
-ﺫﻭﻯ ﺍ
-
-ﺍ ﻝﺥ ﺍﺹﺓ
-
-ﻱﻡ ﺍ ﻝﻡﺝ ﺕ ﻡﻉﻯ
-
-ﺕﻉ ﻝ
-
-ﺍ ﻝ
-
-ﻁﻑﺍﻝ
-
-لأ
-
-ﺭ ﻱﺍﺽ ﺍ
-
-ﺩﺍﺭﺓ
-
-لا
-
-ﺍ
-
-ﺍ ﻝ ﺙﺍ ﻥﻭﻱ
-
-66,522
-
-79,826
-
-95,791
+72,181
+86,617
+103,941
 
 0
-
 20,000
-
 40,000
-
 60,000
-
 80,000
-
 100,000
+120,000
 
 15 / 14
-
 16 / 15
-
 17 / 16
+
+المجموع
+ذوى الاحتياجات الخاصة
+التعليم المجتمعى
+رياض الأطفال
+الادارة
+الثانوي
 
 Current Cost
 
-Increasing the education percentage of expenditure
-
-5,269
-
-6,323
-
-7,588
+66,522
+79,826
+95,791
 
 0
-
-2,000
-
-4,000
-
-6,000
-
-8,000
-
-10,000
-
-12,000
+20,000
+40,000
+60,000
+80,000
+100,000
 
 15 / 14
-
 16 / 15
-
 17 / 16
 
 Investment Costs
 
-390
+5,269
+6,323
+7,588
 
-468
-
-562
-
--
-
-200
-
-400
-
-600
-
-800
-
-1,000
-
-1,200
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
 
 15 / 14
-
 16 / 15
-
 17 / 16
 
 Other Costs
+
+390
+468
+562
+
+-
+200
+400
+600
+800
+1,000
+1,200
+
+15 / 14
+16 / 15
+17 / 16
 
 97
 
@@ -4365,163 +4320,93 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Figure (40) Second Scenario of Expenditure on Programs of Pre-university Education Strategic Plan (Page 119)
 
+Total Cost
+
 79,013
-
 93,468
-
 106,981
 
 0
-
 20,000
-
 40,000
-
 60,000
-
 80,000
-
 100,000
-
 120,000
 
 15 / 14
-
 16 / 15
-
 17 / 16
 
-Total Cost
-
-ﺍ ﻝﻡﺝﻡﻭﻉ
-
-ﺡ ﺕ ﻱﺍﺝﺍﺕ
-
-لا
-
-ﺫﻭﻯ ﺍ
-
-ﺍ ﻝﺥ ﺍﺹﺓ
-
-ﺩﺍﺭﺓ
-
-لا
-
-ﺍ
-
-ﻁﻑﺍﻝ
-
-لأ
-
-ﺭ ﻱﺍﺽ ﺍ
-
-ﻱﻡ ﺍ ﻝﻡﺝ ﺕ ﻡﻉﻯ
-
-ﺕﻉ ﻝ
-
-ﺍ ﻝ
-
-ﺍ ﻝ ﺙﺍ ﻥﻭﻱ
+المجموع
+ذوى الاحتياجات الخاصة
+الادارة
+رياض الأطفال
+التعليم المجتمعى
+الثانوي
 
 - Expenditure follow up study
-
-- Effectuating decentralizatio
-
-9,045
-
-10,056
-
-11,003
-
-0
-
-2,000
-
-4,000
-
-6,000
-
-8,000
-
-10,000
-
-12,000
-
-15 / 14
-
-16 / 15
-
-17 / 16
+- Effectuating decentralization
 
 Investment Cost
 
-n
-
-69,263
-
-82,546
-
-94,977
+9,045
+10,056
+11,003
 
 0
-
+2,000
+4,000
+6,000
+8,000
 10,000
-
-20,000
-
-30,000
-
-40,000
-
-50,000
-
-60,000
-
-70,000
-
-80,000
-
-90,000
-
-100,000
+12,000
 
 15 / 14
-
 16 / 15
-
 17 / 16
 
 Current Cost
 
-722
-
-867
-
-1,001
+69,263
+82,546
+94,977
 
 0
-
-200
-
-400
-
-600
-
-800
-
-1,000
-
-1,200
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+80,000
+90,000
+100,000
 
 15 / 14
-
 16 / 15
-
 17 / 16
 
 Other Costs
 
-### Third  Scenario  (the  natural  increase  +  an  amount  allowing  the  execution  of  all  the  first  three  years activities of the strategic plan)
+722
+867
+1,001
+
+0
+200
+400
+600
+800
+1,000
+1,200
+
+15 / 14
+16 / 15
+17 / 16
+
+### Third Scenario (the natural increase + an amount allowing the execution of all the first three years activities of the strategic plan)
 
 99
 
@@ -4533,15 +4418,15 @@ Strategic Plan of Pre-University Education 2014 -2030
 
 Main Programs | Kindergarten | Basic | Secondary | Administration | Special Needs | Community Education | Total | %
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Current | 3,597,857,000 | 43,832,730,000 | 15,374,422,000 | 822,570,000 | 538,507,000 | 7,676,688,000 | 71,842,774,000 | 84%
+2014/ 2015 | Current | 3,597,857,000 | 43,832,730,000 | 15,374,422,000 | 822,570,000 | 538,507,000 | 7,676,688,000 | 71,842,774,000 | 84%
 Capital | 830,952,000 | 8,540,731,000 | 1,813,063,000 | 672,984,000 | 214,136,000 | 525,479,000 | 12,597,345,000 | 15%
 Others | 36,091,000 | 447,523,000 | 151,581,000 | 6,497,000 | 5,053,000 | 75,069,000 | 721,814,000 | 1%
 Total | 4,464,900,000 | 52,820,984,000 | 17,339,066,000 | 1,502,051,000 | 757,696,000 | 8,277,236,000 | 85,161,933,000 | 100%
-Current | 4,260,933,000 | 52,067,149,000 | 18,163,450,000 | 942,102,000 | 631,476,000 | 9,057,946,000 | 85,12,056,000 | 85%
+2015/ 2016 | Current | 4,260,933,000 | 52,067,149,000 | 18,163,450,000 | 942,102,000 | 631,476,000 | 9,057,946,000 | 85,12,056,000 | 85%
 Capital | 881,479,000 | 9,167,264,000 | 2,025,275,000 | 682,078,000 | 221,210,000 | 630,575,000 | 13,607,881,000 | 14%
 Others | 43,309,000 | 573,028,000 | 181,697,000 | 7,796,000 | 6,064,000 | 90,083,000 | 901,977,000 | 1%
 Total | 5,185,721,000 | 61,807,441,000 | 20,370,422,000 | 1,631,976,000 | 858,750,000 | 9,778,604,000 | 99,632,914,000 | 100%
-Current | 5,057,802,000 | 61,948,453,000 | 21,510,393,000 | 822,570,000 | 538,507,000 | 7,676,688,000 | 97,554,413,000 | 86%
+2016/ 2017 | Current | 5,057,802,000 | 61,948,453,000 | 21,510,393,000 | 822,570,000 | 538,507,000 | 7,676,688,000 | 97,554,413,000 | 86%
 Capital | 942,111,000 | 9,9191,101,000 | 2,279,930,000 | 672,984,000 | 214,136,000 | 525,479,000 | 14,553,741,000 | 13%
 Others | 51,970,000 | 644,433,000 | 218,276,000 | 6,497,000 | 5,053,000 | 75,069,000 | 1,001,298,000 | 1%
 Total | 6,051,883,000 | 72,511,987,000 | 24,008,599,000 | 1,502,051,000 | 757,696,000 | 8,277,236,000 | 113,109,452,000 | 100%
@@ -4584,35 +4469,12 @@ The Strategic Plan of Pre-University Education 2014 -2030
 
 Total Cost
 
-ﺍ ﻝﻡﺝﻡﻭﻉ
-
-ﺡ ﺕ ﻱﺍﺝﺍﺕ
-
-لا
-
-ﺫﻭﻯ ﺍ
-
-ﺍ ﻝﺥ ﺍﺹﺓ
-
-ﺩﺍﺭﺓ
-
-لا
-
-ﺍ
-
-ﻁﻑﺍﻝ
-
-لأ
-
-ﺭ ﻱﺍﺽ ﺍ
-
-ﻱﻡ ﺍ ﻝﻡﺝ ﺕ ﻡﻉﻯ
-
-ﺕﻉ ﻝ
-
-ﺍ ﻝ
-
-ﺍ ﻝ ﺙﺍ ﻥﻭﻱ
+المجموع
+ذوى الاحتياجات الخاصة
+الادارة
+رياض الأطفال
+التعليم المجتمعى
+الثانوي
 
 71,843
 
@@ -4652,11 +4514,8 @@ Current Cost
 
 Providing financial resources for plan
 
-- Making use of Ministry facilities on all levels
-
-·
-
-Transferring technical schools to
+• Making use of Ministry facilities on all levels
+• Transferring technical schools to
 
 12,597
 
@@ -4729,7 +4588,7 @@ Other Costs
 
 Strategic Plan of Pre-University Education 2014 -2030
 
-Subsidiary Goals | Procedural Goals | 2014/ 2015 | 2015/ 2016 | 2016/ 2017 2018/
+Subsidiary Goals | Procedural Goals | Execution Years | 2014/ 2015 | 2015/ 2016 | 2016/ 2017 | 2018/ 2030
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 1 st Q | 2 nd Q | 3 rd Q | 4 th Q | 1 st Q | 2 nd Q | 3 rd Q | 4 th Q | 1 st Q | 2 nd Q | 3 rd Q | 4 th Q | Extended
 1. Increasing secondary education accommodation level to fulfill obligatory education requirements | 1.1 Assimilating 30% of preparatory stage graduates
@@ -4755,7 +4614,7 @@ The Strategic Plan of Pre-University Education 2014 -2030
 5.2 Bridging the gap between schools in the attainment levels
 6. Preparing, upgrading and completing the information technology infrastructure required for the application of development | 6.1 Providing the technological environment and virtual classrooms required for enhancing the pedagogical practices, applying curriculums together with education and learning methods, ensuring periodical maintenance and current costs for all secondary schools
 6.2 Providing a tablet device for all secondary stage students
-7. Providing creativity models being a foundation for the continuous development of the general secondary education system | 7.1 Evaluating STEM schools and intensive- program school model and adopting the proven effective one
+7. Providing creativity models being a foundation for the continuous development of the general secondary education system | 7.1 Evaluating STEM schools and intensive-program school model and adopting the proven effective one
 
 103
 
