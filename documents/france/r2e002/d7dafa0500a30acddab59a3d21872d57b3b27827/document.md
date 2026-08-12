@@ -86,13 +86,15 @@ Pour satisfaire aux obligations qui lui incombent en application des articles L.
 
 Tout enfant, tout adolescent présentant un handicap ou un trouble invalidant de la santé est inscrit dans l'école ou dans l'un des établissements mentionnés à l'article L. 351-1, le plus proche de son domicile, qui constitue son établissement de référence.
 
-Dans le cadre de son projet personnalisé, si ses besoins nécessitent qu'il reçoive sa formation au sein de dispositifs adaptés, il peut être inscrit dans une autre école ou un autre établissement mentionné à l'article L. 351-1 par l'autorité administrative compétente, sur proposition de son établissement de référence et avec l'accord de ses parents ou de son représentant légal. Cette inscription n'exclut pas son retour à l'établissement de référence.
+Dans le cadre de son projet personnalisé, si ses besoins nécessitent qu'il reçoive sa formation au sein de dispositifs adaptés, il peut être inscrit dans une autre école ou un autre établissement mentionné à l'article L. 351-1 par l'autorité administrative compétente, sur proposition de son établissement de référence et avec l'accord de ses parents ou de son représentant légal. Cette inscription n'exclut pas
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
+
+son retour à l'établissement de référence.
 
 De même, les enfants et les adolescents accueillis dans l'un des établissements ou services mentionnés au 2° du I de l'article L. 312-1 du code de l'action sociale et des familles ou dans l'un des établissements mentionnés au livre Ier de la sixième partie du code de la santé publique peuvent être inscrits dans une école ou dans l'un des établissements mentionnés à l'article L. 351-1 du présent code autre que leur établissement de référence, proche de l'établissement où ils sont accueillis. Les conditions permettant cette inscription et cette fréquentation sont fixées par convention entre les autorités académiques et l'établissement de santé ou médico-social.
 
@@ -200,7 +202,7 @@ Les enseignements scolaires et universitaires ont pour objet de dispenser les co
 
 ###### Article L121-4-1
 
-Au titre de sa mission d'éducation à la citoyenneté, le service public de l'éducation prépare les
+I. ― Au titre de sa mission d'éducation à la citoyenneté, le service public de l'éducation prépare les
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -210,7 +212,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 élèves à vivre en société et à devenir des citoyens responsables et libres, conscients des principes et des règles qui fondent la démocratie. Les enseignements mentionnés à l'article L. 312-15 et les actions engagées dans le cadre du comité prévu à l'article L. 421-8 relèvent de cette mission.
 
-Le champ de la mission de promotion de la santé à l'école comprend :
+II. ― Le champ de la mission de promotion de la santé à l'école comprend :
 
 - 1° La mise en place d'un environnement scolaire favorable à la santé ;
 
@@ -452,13 +454,15 @@ Les établissements qui participent à ce service public peuvent être prestatai
 
 Le service public de l'enseignement supérieur contribue, au sein de la communauté scientifique et culturelle internationale, au débat des idées, au progrès de la recherche et à la rencontre des cultures. Il promeut, aux plans européen et international, un meilleur partage des savoirs et leur diffusion auprès des sociétés civiles. Il encourage les coopérations transfrontalières et incite, à cet effet, les établissements d'enseignement supérieur implantés dans les collectivités relevant de l'article 73 de la Constitution à contribuer au rayonnement international des départements et régions d'outre-mer. Il favorise le développement de parcours comprenant des périodes d'études et d'activités à l'étranger sans porter préjudice au déroulement de carrière ou d'études des personnels et étudiants concernés. Il favorise également l'accueil des personnels de recherche étrangers pour la durée de leurs missions scientifiques. Il assure l'accueil des étudiants étrangers, en lien avec le réseau des œuvres universitaires et scolaires mentionné à l'article L. 822-1 et l'établissement public mentionné à l'article 6 de la loi n° 2010-873 du 27 juillet 2010 relative à l'action extérieure de l'Etat ainsi que leur formation. Il soutient le développement des établissements français et des enseignements en langue française à l'étranger ainsi que le développement de services et ressources pédagogiques numériques favorisant la connaissance et la promotion de la langue française. Il concourt au développement de centres de formation et de recherche dans les pays qui le souhaitent. Il favorise l'orientation vers l'enseignement supérieur français des élèves français scolarisés à l'étranger et des élèves étrangers scolarisés dans des établissements d'enseignement français à l'étranger. Les programmes de coopération qu'il met en oeuvre permettent notamment aux personnels français et étrangers d'acquérir une formation aux technologies nouvelles et à la pratique de la recherche scientifique.
 
-Dans le cadre défini par les pouvoirs publics, les établissements qui participent à ce service public passent des accords avec des institutions étrangères ou internationales, notamment avec les institutions d'enseignement supérieur des différents Etats et nouent des liens particuliers avec celles des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et avec les établissements étrangers qui assurent leurs enseignements partiellement ou entièrement en langue française. Ces accords visent à la délivrance de diplômes nationaux ou d'établissement, conjointement ou non avec des établissements d'enseignement supérieur à l'étranger.
+Dans le cadre défini par les pouvoirs publics, les établissements qui participent à ce service public
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 15]]
 
 [[START OF PAGE 16]]
+
+passent des accords avec des institutions étrangères ou internationales, notamment avec les institutions d'enseignement supérieur des différents Etats et nouent des liens particuliers avec celles des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen et avec les établissements étrangers qui assurent leurs enseignements partiellement ou entièrement en langue française. Ces accords visent à la délivrance de diplômes nationaux ou d'établissement, conjointement ou non avec des établissements d'enseignement supérieur à l'étranger.
 
 ###### Article L123-8
 
@@ -542,13 +546,15 @@ Toutefois, lorsque le ressort des écoles publiques a été déterminé conform�
 
 Lorsque le ressort des écoles publiques a été déterminé conformément aux dispositions de l'article L. 212-7, l'inscription des élèves, dans les écoles publiques ou privées, se fait sur présentation d'un certificat d'inscription sur la liste scolaire prévue à l'article L. 131-6. Ce certificat est délivré par le maire, qui y indique l'école que l'enfant doit fréquenter.
 
-La domiciliation des parents à l'étranger ne peut être une cause de refus d'inscription d'un enfant soumis à l'obligation scolaire. Chaque enfant est inscrit soit dans la commune où ses parents ont une résidence, soit dans celle du domicile de la personne qui en a la garde, soit dans celle où est situé un établissement ou une section d'établissement destinés plus particulièrement aux enfants de Français établis hors de France.
+La domiciliation des parents à l'étranger ne peut être une cause de refus d'inscription d'un enfant
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 18]]
 
 [[START OF PAGE 19]]
+
+soumis à l'obligation scolaire. Chaque enfant est inscrit soit dans la commune où ses parents ont une résidence, soit dans celle du domicile de la personne qui en a la garde, soit dans celle où est situé un établissement ou une section d'établissement destinés plus particulièrement aux enfants de Français établis hors de France.
 
 La conclusion d'un contrat de travail à caractère saisonnier ouvre le droit de faire inscrire ses enfants dans une école de la commune de son lieu de résidence temporaire ou de travail.
 
@@ -600,13 +606,15 @@ L'autorité de l'Etat compétente en matière d'éducation doit au moins une foi
 
 Ce contrôle prescrit par l'autorité de l'Etat compétente en matière d'éducation a lieu notamment au domicile des parents de l'enfant. Il vérifie notamment que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille.
 
-Ce contrôle est effectué sans délai en cas de défaut de déclaration d'instruction par la famille, sans préjudice de l'application des sanctions pénales.
+Ce contrôle est effectué sans délai en cas de défaut de déclaration d'instruction par la famille, sans
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 20]]
 
 [[START OF PAGE 21]]
+
+préjudice de l'application des sanctions pénales.
 
 Le contenu des connaissances requis des élèves est fixé par décret.
 
@@ -758,13 +766,14 @@ Lorsque les compétences relatives au fonctionnement des écoles publiques ainsi
 
 ###### Article L133-11
 
-Un préavis de grève concernant les personnels enseignants des écoles maternelles et élémentaires privées sous contrat ne peut être déposé par une ou plusieurs organisations syndicales représentatives qu'à l'issue d'une négociation préalable entre ces organisations et l'Etat lorsque les revendications professionnelles qui motivent le préavis relèvent du pouvoir de décision de ce dernier. La négociation est soumise aux règles d'organisation et de déroulement fixées au II de l'article L. 133-2.
+Un préavis de grève concernant les personnels enseignants des écoles maternelles et élémentaires privées sous contrat ne peut être déposé par une ou plusieurs organisations syndicales représentatives qu'à l'issue d'une négociation préalable entre ces organisations et l'Etat lorsque les revendications professionnelles qui motivent le préavis relèvent du pouvoir de décision de ce
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 25]]
 
 [[START OF PAGE 26]]
+dernier. La négociation est soumise aux règles d'organisation et de déroulement fixées au II de l'article L. 133-2.
 
 Le III du même article est applicable aux préavis de grève déposés par les organisations syndicales mentionnées à l'alinéa précédent.
 
@@ -1000,13 +1009,15 @@ L'Etat assume, dans le cadre de ses compétences, des missions qui comprennent :
 
 - 5° Le contrôle et l'évaluation des politiques éducatives, en vue d'assurer la cohérence d'ensemble du système éducatif.
 
-Tous les deux ans à compter de l'entrée en vigueur des dispositions de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, le Gouvernement transmet au Parlement un rapport évaluant les effets de l'exercice des compétences décentralisées sur le fonctionnement du système éducatif et sur la qualité du service rendu aux usagers. Le Conseil supérieur de l'éducation, le Conseil territorial de l'éducation nationale et le Conseil national de l'enseignement agricole sont saisis pour avis de ce rapport.
+Tous les deux ans à compter de l'entrée en vigueur des dispositions de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, le Gouvernement transmet au Parlement un rapport évaluant les effets de l'exercice des compétences décentralisées sur le fonctionnement du système éducatif et sur la qualité du service rendu aux usagers. Le Conseil supérieur de l'éducation,
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 33]]
 
 [[START OF PAGE 34]]
+
+le Conseil territorial de l'éducation nationale et le Conseil national de l'enseignement agricole sont saisis pour avis de ce rapport.
 
 ###### Article L211-2
 
@@ -1162,13 +1173,15 @@ Le comité des finances locales procède à un nouveau calcul de cette diminutio
 
 " Art.L. 2334-29.-Les communes perçoivent directement les sommes leur revenant au titre de la première part de la dotation spéciale.
 
-Les sommes afférentes à la seconde part sont attribuées, sous réserve des dispositions de l'alinéa suivant au Centre national de la fonction publique territoriale qui verse, au nom de la commune, dans les conditions fixées par décret en Conseil d'Etat et sans que cela n'entraîne de charges pour cet établissement, l'indemnité communale aux instituteurs ayants droit, sur la base du montant fixé pour chaque commune par le représentant de l'Etat dans le département et dans la limite du montant unitaire fixé sur le plan national à l'article L. 2334-28.
+Les sommes afférentes à la seconde part sont attribuées, sous réserve des dispositions de l'alinéa
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 38]]
 
 [[START OF PAGE 39]]
+
+suivant au Centre national de la fonction publique territoriale qui verse, au nom de la commune, dans les conditions fixées par décret en Conseil d'Etat et sans que cela n'entraîne de charges pour cet établissement, l'indemnité communale aux instituteurs ayants droit, sur la base du montant fixé pour chaque commune par le représentant de l'Etat dans le département et dans la limite du montant unitaire fixé sur le plan national à l'article L. 2334-28.
 
 A compter de 2003, la dotation versée au Centre national de la fonction publique territoriale est minorée du montant du reliquat comptable de la dotation spéciale pour le logement des instituteurs du pénultième exercice ".
 
@@ -1188,13 +1201,15 @@ Lorsque les écoles maternelles, les classes enfantines ou les écoles élément
 
 A défaut d'accord entre les communes intéressées sur la répartition des dépenses, la contribution de chaque commune est fixée par le représentant de l'Etat dans le département après avis du conseil départemental de l'éducation nationale.
 
-Pour le calcul de la contribution de la commune de résidence, il est tenu compte des ressources de cette commune, du nombre d'élèves de cette commune scolarisés dans la commune d'accueil et du coût moyen par élève calculé sur la base des dépenses de l'ensemble des écoles publiques de la commune d'accueil. Les dépenses à prendre en compte à ce titre sont les charges de fonctionnement, à l'exclusion de celles relatives aux activités périscolaires. Un décret en Conseil d'Etat détermine, en tant que de besoin, les dépenses prises en compte pour le calcul du coût moyen par élève ainsi que les éléments de mesure des ressources des communes.
+Pour le calcul de la contribution de la commune de résidence, il est tenu compte des ressources de cette commune, du nombre d'élèves de cette commune scolarisés dans la commune d'accueil et du
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 39]]
 
 [[START OF PAGE 40]]
+
+coût moyen par élève calculé sur la base des dépenses de l'ensemble des écoles publiques de la commune d'accueil. Les dépenses à prendre en compte à ce titre sont les charges de fonctionnement, à l'exclusion de celles relatives aux activités périscolaires. Un décret en Conseil d'Etat détermine, en tant que de besoin, les dépenses prises en compte pour le calcul du coût moyen par élève ainsi que les éléments de mesure des ressources des communes.
 
 Toutefois, les dispositions prévues par les alinéas précédents ne s'appliquent pas à la commune de résidence si la capacité d'accueil de ses établissements scolaires permet la scolarisation des enfants concernés, sauf si le maire de la commune de résidence, consulté par la commune d'accueil, a donné son accord à la scolarisation de ces enfants hors de sa commune. Pour justifier d'une capacité d'accueil au sens du présent alinéa, les établissements scolaires doivent disposer à la fois des postes d'enseignants et des locaux nécessaires à leur fonctionnement.
 
@@ -1362,13 +1377,15 @@ Ce transfert ne donne pas lieu à la perception de droit, taxe ou honoraire.
 
 - III.-Le département est également substitué à l'Etat dans les droits et obligations que celui-ci détenait en tant qu'utilisateur des biens mis à disposition.
 
-Le département est substitué à l'Etat dans les contrats de toute nature que celui-ci avait conclus pour l'aménagement, l'entretien et la conservation des biens ainsi que pour le fonctionnement des services.L'Etat constate cette substitution et la notifie à ses cocontractants.
+Le département est substitué à l'Etat dans les contrats de toute nature que celui-ci avait conclus pour l'aménagement, l'entretien et la conservation des biens ainsi que pour le fonctionnement des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 45]]
 
 [[START OF PAGE 46]]
+
+services.L'Etat constate cette substitution et la notifie à ses cocontractants.
 
 IV.-Lorsqu'un établissement public de coopération intercommunale a reçu compétence au lieu et place de la collectivité territoriale propriétaire, ce groupement exerce les prérogatives dévolues à la collectivité locale propriétaire par les articles L. 213-4 à L. 213-6 du présent code.
 
@@ -1454,13 +1471,15 @@ En cohérence avec les stratégies nationales de l'enseignement supérieur et de
 
 Les collectivités territoriales et les établissements publics de coopération intercommunale qui accueillent des sites universitaires ou des établissements de recherche sont associés à l'élaboration du schéma régional.
 
-La région fixe les objectifs des programmes pluriannuels d'intérêt régional en matière de recherche et détermine les investissements qui y concourent. Les orientations du schéma régional de l'enseignement supérieur, de la recherche et de l'innovation sont prises en compte par les autres schémas établis par la région en matière de formation, d'innovation et de développement économique. La région est consultée sur les aspects régionaux de la carte des formations supérieures et de la recherche.
+La région fixe les objectifs des programmes pluriannuels d'intérêt régional en matière de recherche et détermine les investissements qui y concourent. Les orientations du schéma régional de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
+
+l'enseignement supérieur, de la recherche et de l'innovation sont prises en compte par les autres schémas établis par la région en matière de formation, d'innovation et de développement économique. La région est consultée sur les aspects régionaux de la carte des formations supérieures et de la recherche.
 
 ###### Article L214-3
 
@@ -1484,13 +1503,15 @@ A ce titre, le conseil régional définit la localisation des établissements, l
 
 ###### Article L214-6
 
-La région a la charge des lycées, des établissements d'éducation spéciale et des lycées professionnels maritimes. Elle en assure la construction, la reconstruction, l'extension, les grosses réparations, l'équipement et le fonctionnement. A ce titre, l'acquisition et la maintenance des infrastructures et des équipements, dont les matériels informatiques et les logiciels prévus pour leur mise en service, nécessaires à l'enseignement et aux échanges entre les membres de la communauté éducative sont à la charge de la région. Pour le fonctionnement des établissements publics locaux d'enseignement et de formation professionnelle agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime, la région a la charge du transport pédagogique des élèves assuré dans le cadre des enseignements réguliers.
+La région a la charge des lycées, des établissements d'éducation spéciale et des lycées professionnels maritimes. Elle en assure la construction, la reconstruction, l'extension, les grosses
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 49]]
 
 [[START OF PAGE 50]]
+
+réparations, l'équipement et le fonctionnement. A ce titre, l'acquisition et la maintenance des infrastructures et des équipements, dont les matériels informatiques et les logiciels prévus pour leur mise en service, nécessaires à l'enseignement et aux échanges entre les membres de la communauté éducative sont à la charge de la région. Pour le fonctionnement des établissements publics locaux d'enseignement et de formation professionnelle agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime, la région a la charge du transport pédagogique des élèves assuré dans le cadre des enseignements réguliers.
 
 La région assure l'accueil, la restauration, l'hébergement ainsi que l'entretien général et technique, à l'exception des missions d'encadrement et de surveillance des élèves, dans les établissements dont elle a la charge.
 
@@ -2126,7 +2147,7 @@ Un décret en Conseil d'Etat détermine les formes à suivre pour l'instruction 
 
 ###### Article L233-1
 
-- La Conférence des chefs d'établissements de l'enseignement supérieur est composée des responsables des écoles françaises à l'étranger, des directeurs des instituts et des écoles extérieurs aux universités ainsi que des membres de deux conférences constituées respectivement :
+I. - La Conférence des chefs d'établissements de l'enseignement supérieur est composée des responsables des écoles françaises à l'étranger, des directeurs des instituts et des écoles extérieurs aux universités ainsi que des membres de deux conférences constituées respectivement :
 
 - des présidents d'université, des responsables des grands établissements et des directeurs d'écoles normales supérieures ;
 
@@ -2298,17 +2319,17 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - 1° a) Huit représentants de l'Etat ;
 
-- Trois représentants des régions ;
+- b) Trois représentants des régions ;
 
-- Trois représentants des établissements publics intéressés ;
+- c) Trois représentants des établissements publics intéressés ;
 
-- Six représentants des associations et organismes responsables d'établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat et de leurs fédérations représentatives ;
+- d) Six représentants des associations et organismes responsables d'établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat et de leurs fédérations représentatives ;
 
 - 2° Vingt représentants des organisations syndicales représentatives des personnels des établissements d'enseignement agricole publics et privés, dont cinq au moins représentant les organisations syndicales représentatives des personnels des établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat ;
 
 - 3° a) Dix représentants des organisations représentatives des parents d'élèves de l'enseignement agricole dont deux au moins représentant les organisations représentatives des parents d'élèves des établissements d'enseignement agricole privés ayant passé un contrat avec l'Etat et un représentant des organisations nationales représentatives des associations familiales rurales ;
 
-- Dix représentants des organisations professionnelles et syndicats représentatifs des employeurs, des exploitants et des salariés agricoles ;
+- b) Dix représentants des organisations professionnelles et syndicats représentatifs des employeurs, des exploitants et des salariés agricoles ;
 
 - 4° Quatre représentants des élèves et étudiants.
 
@@ -2432,7 +2453,7 @@ Le fait de faire obstacle, de quelque manière que ce soit, au contrôle de l'in
 
 ###### Article L241-4
 
-- L'inspection des établissements d'enseignement du premier et du second degré publics ou privés est exercée :
+- I. - L'inspection des établissements d'enseignement du premier et du second degré publics ou privés est exercée :
 
 - 1° Par les inspecteurs généraux de l'éducation nationale et les inspecteurs généraux de l'administration de l'éducation nationale et de la recherche ;
 
@@ -2452,7 +2473,7 @@ Toutefois, les établissements d'enseignement privés ne peuvent être inspecté
 
 - 5° Par le maire et les délégués départementaux de l'éducation nationale. Toutefois, lorsqu'ils exercent un mandat municipal, les délégués départementaux de l'éducation nationale ne peuvent intervenir dans les écoles situées sur le territoire de la commune dans laquelle ils sont élus, ni dans les écoles au fonctionnement desquelles cette commune participe.
 
-- L'inspection des établissements d'enseignement privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution des obligations imposées à ces établissements par le présent code. Elle ne peut porter sur l'enseignement que pour vérifier s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment à l'instruction obligatoire.
+- II. - L'inspection des établissements d'enseignement privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution des obligations imposées à ces établissements par le présent code. Elle ne peut porter sur l'enseignement que pour vérifier s'il n'est pas contraire à la morale, à la Constitution, aux lois et notamment à l'instruction obligatoire.
 
 ###### Article L241-5
 
@@ -2468,7 +2489,7 @@ Les cadres et l'organisation de l'inspection, les conditions exigées des candid
 
 ###### Article L241-7
 
-- L'inspection des établissements d'enseignement technique privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution des obligations légales imposées à ces établissements. Elle peut porter sur l'enseignement pour vérifier s'il n'est pas contraire à la morale, à la Constitution et aux lois et s'il est conforme aux programmes présentés par le directeur lors de la déclaration d'ouverture de l'établissement.
+- I. - L'inspection des établissements d'enseignement technique privés porte sur la moralité, l'hygiène, la salubrité et sur l'exécution des obligations légales imposées à ces établissements. Elle peut porter sur l'enseignement pour vérifier s'il n'est pas contraire à la morale, à la Constitution et aux lois et s'il est conforme aux programmes présentés par le directeur lors de la déclaration d'ouverture de l'établissement.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -2478,7 +2499,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Toutefois, dans les établissements d'enseignement technique privés reconnus par l'Etat conformément aux dispositions de l'article L. 443-2, l'inspection de l'enseignement s'exerce dans les mêmes conditions que pour les établissements d'enseignement technique publics.
 
-- Le fait, pour un directeur d'établissement d'enseignement technique privé, de refuser de se soumettre à la surveillance et à l'inspection, dans les conditions établies par le I, est puni de 15000 euros d'amende.
+- II. - Le fait, pour un directeur d'établissement d'enseignement technique privé, de refuser de se soumettre à la surveillance et à l'inspection, dans les conditions établies par le I, est puni de 15000 euros d'amende.
 
 Le tribunal peut prononcer la fermeture de l'établissement.
 
@@ -2632,21 +2653,21 @@ Les articles L. 214-12 à L. 214-16 sont applicables à Mayotte sous réserve de
 
 - 5° A l'article L. 214-13 :
 
-- Au quatrième alinéa du I, les mots : " à l'échelon national ainsi que les organismes mentionnés à l'article L. 5312-1 du code du travail " sont remplacés par les mots : " à Mayotte ainsi que l'organisme mentionné à l'article L. 327-7 du code du travail applicable à Mayotte " ;
+- a) Au quatrième alinéa du I, les mots : " à l'échelon national ainsi que les organismes mentionnés à l'article L. 5312-1 du code du travail " sont remplacés par les mots : " à Mayotte ainsi que l'organisme mentionné à l'article L. 327-7 du code du travail applicable à Mayotte " ;
 
-- Le cinquième alinéa du I est ainsi rédigé :
+- b) Le cinquième alinéa du I est ainsi rédigé :
 
 Il est approuvé par le conseil général après consultation des chambres consulaires de Mayotte, du conseil de l'éducation nationale de Mayotte et du comité de coordination de l'emploi et de la formation professionnelle de Mayotte ;
 
-- Au sixième alinéa du I, la référence à : " l'article L. 214-1 " est remplacée par la référence à : " l'article L. 262-3 " ;
+- c) Au sixième alinéa du I, la référence à : " l'article L. 214-1 " est remplacée par la référence à : " l'article L. 262-3 " ;
 
-- Le troisième alinéa du IV est supprimé ;
+- d) Le troisième alinéa du IV est supprimé ;
 
-- Au premier alinéa du V, les mots : " L'Etat, une ou plusieurs régions, " sont remplacés par les mots : " L'Etat, la collectivité départementale de Mayotte, " et les mots : " mentionnée à l'article L. 311-7 du code du travail " sont remplacés par les mots : " mentionnée à l'article L. 326 du code du travail applicable à Mayotte " ;
+- e) Au premier alinéa du V, les mots : " L'Etat, une ou plusieurs régions, " sont remplacés par les mots : " L'Etat, la collectivité départementale de Mayotte, " et les mots : " mentionnée à l'article L. 311-7 du code du travail " sont remplacés par les mots : " mentionnée à l'article L. 326 du code du travail applicable à Mayotte " ;
 
-- Au quatrième alinéa du V, les mots : " à l'article L. 6211-3 du code du travail " sont remplacés par les mots : " à l'article L. 115-1 du code du travail applicable à Mayotte " ;
+- f) Au quatrième alinéa du V, les mots : " à l'article L. 6211-3 du code du travail " sont remplacés par les mots : " à l'article L. 115-1 du code du travail applicable à Mayotte " ;
 
-- Au deuxième alinéa du VI, les mots : " Les départements " sont supprimés ;
+- g) Au deuxième alinéa du VI, les mots : " Les départements " sont supprimés ;
 
 - 6° L'article L. 214-15 est ainsi rédigé :
 
@@ -3352,7 +3373,7 @@ Le passage des élèves des formations de l'enseignement général et technologi
 
 ###### Article L335-5
 
-- Les diplômes ou les titres à finalité professionnelle sont obtenus par les voies scolaire et universitaire, par l'apprentissage, par la formation professionnelle continue ou, en tout ou en partie, par la validation des acquis de l'expérience.
+I. - Les diplômes ou les titres à finalité professionnelle sont obtenus par les voies scolaire et universitaire, par l'apprentissage, par la formation professionnelle continue ou, en tout ou en partie, par la validation des acquis de l'expérience.
 
 La validation des acquis produit les mêmes effets que les autres modes de contrôle des connaissances et aptitudes.
 
@@ -3374,13 +3395,13 @@ Le jury se prononce au vu d'un dossier constitué par le candidat, à l'issue d'
 
 Un décret en Conseil d'Etat détermine les conditions d'application des dispositions des troisième et cinquième alinéas, notamment les règles selon lesquelles le jury est constitué. Cette composition concourt à une représentation équilibrée entre les femmes et les hommes. Il détermine également les conditions dans lesquelles il peut être dérogé aux dispositions du premier alinéa, pour des raisons tenant à la nature des diplômes ou titres en cause ou aux conditions d'exercice des professions auxquelles ils permettent d'accéder. Le jury fixe les contrôles complémentaires prévus au sixième alinéa.
 
-- Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au nom de l'Etat ou par des établissements publics ayant une mission de formation peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis pour le préparer. Cette dispense doit se fonder sur les compétences professionnelles acquises par le candidat.
+II. - Le jury d'un diplôme ou d'un titre à finalité professionnelle délivré au nom de l'Etat ou par des établissements publics ayant une mission de formation peut dispenser un candidat désirant l'acquérir des titres ou diplômes requis pour le préparer. Cette dispense doit se fonder sur les compétences professionnelles acquises par le candidat.
 
 ###### Article L335-6
 
 - I.-Les diplômes et titres à finalité professionnelle délivrés au nom de l'Etat sont créés par décret et organisés par arrêté des ministres compétents, après avis d'instances consultatives associant les organisations représentatives d'employeurs et de salariés quand elles existent, sans préjudice des dispositions des articles L. 331-1, L. 335-14, L. 613-1, L. 641-4 et L. 641-5 du présent code et L. 811-2 et L. 813-2 du code rural et de la pêche maritime.
 
-- II.-II est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité professionnelle y sont classés par domaine d'activité et par niveau.
+- II.-Il est créé un répertoire national des certifications professionnelles. Les diplômes et les titres à finalité professionnelle y sont classés par domaine d'activité et par niveau.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -3754,7 +3775,7 @@ Le présent article s'applique aux danses classique, contemporaine et jazz.
 
 ###### Article L362-1-1
 
-- Peuvent également s'établir en France pour enseigner la danse contre rétribution ou faire usage du titre de professeur de danse les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui possèdent :
+I. - Peuvent également s'établir en France pour enseigner la danse contre rétribution ou faire usage du titre de professeur de danse les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui possèdent :
 
 - 1° Une attestation de compétence ou un titre de formation délivré par les autorités compétentes d'un Etat membre ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui réglemente l'accès à la profession de professeur de danse ou son exercice, et permettant d'exercer légalement cette profession dans cet Etat ;
 
@@ -4076,23 +4097,23 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Le budget d'un établissement public local d'enseignement est préparé, adopté et devient exécutoire dans les conditions suivantes :
 
-- Avant le 1er novembre de l'année précédant l'exercice, le montant prévisionnel de la participation aux dépenses d'équipement et de fonctionnement incombant à la collectivité territoriale dont dépend l'établissement et les orientations relatives à l'équipement et au fonctionnement matériel de l'établissement, arrêtés par l'assemblée délibérante de cette collectivité, sont notifiés au chef d'établissement. Cette participation ne peut être réduite lors de l'adoption ou de la modification du budget de cette collectivité.
+a) Avant le 1er novembre de l'année précédant l'exercice, le montant prévisionnel de la participation aux dépenses d'équipement et de fonctionnement incombant à la collectivité territoriale dont dépend l'établissement et les orientations relatives à l'équipement et au fonctionnement matériel de l'établissement, arrêtés par l'assemblée délibérante de cette collectivité, sont notifiés au chef d'établissement. Cette participation ne peut être réduite lors de l'adoption ou de la modification du budget de cette collectivité.
 
 La répartition des crédits aux établissements par les collectivités de rattachement se fonde notamment sur des critères tels que le nombre d'élèves, l'importance de l'établissement, le type d'enseignement, les populations scolaires concernées, les indicateurs qualitatifs de la scolarisation ;
 
-- Le chef d'établissement prépare le projet de budget en fonction des orientations fixées et dans la limite de l'ensemble des ressources dont dispose l'établissement. Il le soumet au conseil d'administration ;
+b) Le chef d'établissement prépare le projet de budget en fonction des orientations fixées et dans la limite de l'ensemble des ressources dont dispose l'établissement. Il le soumet au conseil d'administration ;
 
-- Le budget de l'établissement est adopté en équilibre réel dans le délai de trente jours suivant la notification de la participation de la collectivité dont dépend l'établissement ;
+c) Le budget de l'établissement est adopté en équilibre réel dans le délai de trente jours suivant la notification de la participation de la collectivité dont dépend l'établissement ;
 
-- Le budget adopté par le conseil d'administration de l'établissement est transmis au représentant de l'Etat, à la collectivité de rattachement ainsi qu'à l'autorité académique dans les cinq jours suivant le vote.
+d) Le budget adopté par le conseil d'administration de l'établissement est transmis au représentant de l'Etat, à la collectivité de rattachement ainsi qu'à l'autorité académique dans les cinq jours suivant le vote.
 
 Le budget devient exécutoire dans un délai de trente jours à compter de la dernière date de réception par les autorités mentionnées ci-dessus, sauf si, dans ce délai, l'autorité académique ou la collectivité locale de rattachement a fait connaître son désaccord motivé sur le budget ainsi arrêté ;
 
-- En cas de désaccord, le budget est réglé conjointement par la collectivité de rattachement et l'autorité académique. Il est transmis au représentant de l'Etat et devient exécutoire.
+e) En cas de désaccord, le budget est réglé conjointement par la collectivité de rattachement et l'autorité académique. Il est transmis au représentant de l'Etat et devient exécutoire.
 
 A défaut d'accord entre ces deux autorités dans le délai de deux mois à compter de la réception du budget, le budget est réglé par le représentant de l'Etat après avis public de la chambre régionale des comptes. Le représentant de l'Etat ne peut, par rapport à l'exercice antérieur, sauf exceptions liées à l'évolution des effectifs ou à la consistance du parc de matériels ou des locaux, majorer la participation à la charge de la collectivité de rattachement que dans une proportion n'excédant ni l'évolution du produit de la fiscalité directe de cette collectivité ni l'évolution des recettes allouées par l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établissement ;
 
-- Lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité dont dépend l'établissement, il est fait application de la procédure prévue au e. Toutefois, le délai prévu au deuxième alinéa dudit e est d'un mois à compter de la saisine par le représentant de l'Etat de la collectivité de rattachement et de l'autorité académique.
+f) Lorsque le budget n'est pas adopté dans les trente jours suivant la notification de la participation de la collectivité dont dépend l'établissement, il est fait application de la procédure prévue au e. Toutefois, le délai prévu au deuxième alinéa dudit e est d'un mois à compter de la saisine par le représentant de l'Etat de la collectivité de rattachement et de l'autorité académique.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -4106,19 +4127,19 @@ A l'exclusion de la date mentionnée au a de l'article L. 421-11, les dispositio
 
 ###### Article L421-13
 
-- Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de l'article L. 1612-5 du code général des collectivités territoriales et du troisième alinéa de l'article L. 1612-15 du même code, le représentant de l'Etat ne peut, par rapport à l'exercice antérieur, sauf exceptions liées à l'évolution des effectifs ou à la consistance du parc de matériels ou des locaux, majorer la participation de la collectivité de rattachement que dans une proportion n'excédant ni l'évolution du produit de la fiscalité directe de la collectivité de rattachement ni l'évolution des recettes allouées par l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établissement.
+I. - Lorsqu'il règle le budget de l'établissement, en application des dispositions du troisième alinéa de l'article L. 1612-5 du code général des collectivités territoriales et du troisième alinéa de l'article L. 1612-15 du même code, le représentant de l'Etat ne peut, par rapport à l'exercice antérieur, sauf exceptions liées à l'évolution des effectifs ou à la consistance du parc de matériels ou des locaux, majorer la participation de la collectivité de rattachement que dans une proportion n'excédant ni l'évolution du produit de la fiscalité directe de la collectivité de rattachement ni l'évolution des recettes allouées par l'Etat et destinées à pourvoir aux dépenses pédagogiques de cet établissement.
 
-- Pour l'application des dispositions des articles L. 1612-1, L. 1612-5, L. 1612-9, L. 1612-12, premier alinéa, L. 1612-15, L. 1612-16 du code général des collectivités territoriales et L. 242-2 du code des juridictions financières, les prérogatives de l'exécutif et de l'assemblée délibérante sont exercées respectivement par le chef d'établissement et le conseil d'administration.
+II. - Pour l'application des dispositions des articles L. 1612-1, L. 1612-5, L. 1612-9, L. 1612-12, premier alinéa, L. 1612-15, L. 1612-16 du code général des collectivités territoriales et L. 242-2 du code des juridictions financières, les prérogatives de l'exécutif et de l'assemblée délibérante sont exercées respectivement par le chef d'établissement et le conseil d'administration.
 
 Toutefois, lorsque le budget a été arrêté conformément au premier alinéa du e de l'article L. 421-11 du présent code et qu'il n'est pas en équilibre réel, une décision conjointe de la collectivité de rattachement et de l'autorité académique tient lieu de la nouvelle délibération mentionnée au deuxième alinéa de l'article L. 1612-5 du code général des collectivités territoriales.
 
-- Par dérogation aux dispositions du premier alinéa de l'article L. 1612-12 du code général des collectivités territoriales, le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration d'un délai fixé par décret en conseil d'Etat.
+III. - Par dérogation aux dispositions du premier alinéa de l'article L. 1612-12 du code général des collectivités territoriales, le compte financier est soumis par le chef d'établissement au conseil d'administration avant l'expiration d'un délai fixé par décret en conseil d'Etat.
 
 Les autres dispositions de l'article L. 1612-12 du code général des collectivités territoriales et celles de l'article L. 1612-14 du même code ne sont pas applicables.
 
 Le budget de l'établissement est exécuté en équilibre réel.
 
-- Pour l'application des dispositions du présent article et des articles L. 421-11 et L. 421-12 du présent code, le conseil général ou le conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles relatives à la fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 421-11 du présent code.
+IV. - Pour l'application des dispositions du présent article et des articles L. 421-11 et L. 421-12 du présent code, le conseil général ou le conseil régional peut déléguer tout ou partie de ses attributions à son bureau, à l'exception de celles relatives à la fixation du montant de la participation de la collectivité de rattachement prévue au a de l'article L. 421-11 du présent code.
 
 ###### Article L421-14
 
@@ -4128,13 +4149,13 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 137]]
 
-- Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, les actes de l'établissement relatifs à la passation des conventions, et notamment des marchés, et les actes relatifs au fonctionnement de l'établissement et qui n'ont pas trait au contenu ou à l'organisation de l'action éducatrice peuvent, dans les conditions prévues à l'article L. 2131-6 du code général des collectivités territoriales, être déférés au tribunal administratif par le représentant de l'Etat, ou, par délégation de ce dernier, par l'autorité académique.
+I. - Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, les actes de l'établissement relatifs à la passation des conventions, et notamment des marchés, et les actes relatifs au fonctionnement de l'établissement et qui n'ont pas trait au contenu ou à l'organisation de l'action éducatrice peuvent, dans les conditions prévues à l'article L. 2131-6 du code général des collectivités territoriales, être déférés au tribunal administratif par le représentant de l'Etat, ou, par délégation de ce dernier, par l'autorité académique.
 
 Un décret en Conseil d'Etat fixe la liste des actes mentionnés à l'alinéa précédent qui sont transmis au représentant de l'Etat, ou, par délégation de celui-ci, à l'autorité académique. Il précise ceux qui sont exécutoires dès leur transmission et ceux qui sont exécutoires quinze jours après leur transmission.
 
-- Les actes de l'établissement relatifs à l'organisation ou au contenu de l'action éducatrice dont la liste est fixée par décret en Conseil d'Etat sont transmis à l'autorité académique. Ils deviennent exécutoires quinze jours après leur transmission. Dans ce délai, l'autorité académique peut prononcer l'annulation de ces actes lorsqu'ils sont contraires aux lois et règlements ou de nature à porter atteinte au fonctionnement du service public de l'éducation. La décision motivée est communiquée sans délai à l'auteur de l'acte.
+II. - Les actes de l'établissement relatifs à l'organisation ou au contenu de l'action éducatrice dont la liste est fixée par décret en Conseil d'Etat sont transmis à l'autorité académique. Ils deviennent exécutoires quinze jours après leur transmission. Dans ce délai, l'autorité académique peut prononcer l'annulation de ces actes lorsqu'ils sont contraires aux lois et règlements ou de nature à porter atteinte au fonctionnement du service public de l'éducation. La décision motivée est communiquée sans délai à l'auteur de l'acte.
 
-- L'autorité académique et la collectivité de rattachement sont informées régulièrement de la situation financière de l'établissement ainsi que préalablement à la passation de toute convention à incidence financière.
+III. - L'autorité académique et la collectivité de rattachement sont informées régulièrement de la situation financière de l'établissement ainsi que préalablement à la passation de toute convention à incidence financière.
 
 La collectivité territoriale de rattachement demande, en tant que de besoin, à l'autorité académique qu'une enquête soit réalisée par un corps d'inspection de l'Etat sur le fonctionnement de l'établissement.
 
@@ -4276,7 +4297,7 @@ Pour l'application à l'enseignement agricole des dispositions du code de l'édu
 
 ###### Article L421-23
 
-- Par dérogation aux dispositions des lois n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à
+I. - Par dérogation aux dispositions des lois n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -4286,7 +4307,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 la fonction publique territoriale, les agents de l'Etat ou des collectivités territoriales affectés dans un établissement public local d'enseignement conservent leur statut, sont administrés par la collectivité dont ils dépendent statutairement et sont placés sous l'autorité du chef d'établissement.
 
-- Pour l'exercice des compétences incombant à la collectivité de rattachement, le président du conseil général ou régional s'adresse directement au chef d'établissement.
+II. - Pour l'exercice des compétences incombant à la collectivité de rattachement, le président du conseil général ou régional s'adresse directement au chef d'établissement.
 
 Il lui fait connaître les objectifs fixés par la collectivité de rattachement et les moyens que celle-ci alloue à cet effet à l'établissement. Le chef d'établissement est chargé de mettre en oeuvre ces objectifs et de rendre compte de l'utilisation de ces moyens.
 
@@ -4886,13 +4907,13 @@ Les étrangers non ressortissants d'un Etat membre de la Communauté européenne
 
 Sont incapables d'exercer une fonction quelconque de direction et d'être employés à des fonctions didactiques supposant, même occasionnellement, la présence physique du maître dans les lieux où l'enseignement est reçu, dans un organisme privé d'enseignement à distance :
 
-- Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à la probité et aux moeurs ;
+- a) Ceux qui ont subi une condamnation judiciaire pour crime ou délit contraire à la probité et aux moeurs ;
 
-- Ceux qui ont été privés par jugement de tout ou partie des droits civils, civiques et de famille mentionnés à l'article 131-26 du code pénal, ou qui ont été déchus de l'autorité parentale ;
+- b) Ceux qui ont été privés par jugement de tout ou partie des droits civils, civiques et de famille mentionnés à l'article 131-26 du code pénal, ou qui ont été déchus de l'autorité parentale ;
 
-- Ceux qui ont été frappés d'interdiction absolue d'enseigner ;
+- c) Ceux qui ont été frappés d'interdiction absolue d'enseigner ;
 
-- Ceux qui ont été condamnés à une peine d'au moins deux mois d'emprisonnement sans sursis pour les délits prévus à l'article 223-15-2 du code pénal.
+- d) Ceux qui ont été condamnés à une peine d'au moins deux mois d'emprisonnement sans sursis pour les délits prévus à l'article 223-15-2 du code pénal.
 
 ###### Article L444-7
 
@@ -5336,13 +5357,15 @@ Les rythmes scolaires tiennent compte des besoins d'expression physique, d'éduc
 
 ###### Article L521-3
 
-Le maire peut, après avis de l'autorité scolaire responsable, modifier les heures d'entrée et de sortie des établissements d'enseignement en raison des circonstances locales.
+Le maire peut, après avis de l'autorité scolaire responsable, modifier les heures d'entrée et de sortie
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 176]]
 
 [[START OF PAGE 177]]
+
+des établissements d'enseignement en raison des circonstances locales.
 
 ###### Article L521-4
 
@@ -5400,13 +5423,15 @@ Une allocation de rentrée scolaire est versée dans les conditions prévues par
 
 " Art.L. 543-1.-Une allocation de rentrée scolaire est attribuée au ménage ou à la personne dont les ressources ne dépassent pas un plafond variable en fonction du nombre des enfants à charge, pour chaque enfant inscrit en exécution de l'obligation scolaire dans un établissement ou organisme d'enseignement public ou privé.
 
-Elle est également attribuée, pour chaque enfant d'un âge inférieur à un âge déterminé, et dont la rémunération n'excède pas le plafond mentionné au 2° de l'article L. 512-3, qui poursuit des études ou qui est placé en apprentissage.
+Elle est également attribuée, pour chaque enfant d'un âge inférieur à un âge déterminé, et dont la rémunération n'excède pas le plafond mentionné au 2° de l'article L. 512-3, qui poursuit des études
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 178]]
 
 [[START OF PAGE 179]]
+
+ou qui est placé en apprentissage.
 
 Le niveau du plafond de ressources varie conformément à l'évolution des prix à la consommation des ménages hors les prix du tabac, dans des conditions prévues par décret en Conseil d'Etat. Son montant est fixé par décret et revalorisé par arrêté conjoint des ministres chargés de la sécurité sociale, du budget et de l'agriculture.
 
@@ -5464,13 +5489,15 @@ Des examens médicaux périodiques sont également effectués pendant tout le co
 
 ###### Article L541-2
 
-Tous les membres du personnel des établissements d'enseignement et d'éducation, publics ou privés et toutes les personnes se trouvant en contact habituel avec les élèves dans l'enceinte desdits établissements sont obligatoirement soumis, périodiquement, et au moins tous les deux ans, à un examen médical de dépistage des maladies contagieuses.
+Tous les membres du personnel des établissements d'enseignement et d'éducation, publics ou privés
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 180]]
 
 [[START OF PAGE 181]]
+
+et toutes les personnes se trouvant en contact habituel avec les élèves dans l'enceinte desdits établissements sont obligatoirement soumis, périodiquement, et au moins tous les deux ans, à un examen médical de dépistage des maladies contagieuses.
 
 Ils reçoivent à cette occasion par le médecin scolaire une information concernant les causes, les conséquences et les moyens de traitement et de lutte contre le tabagisme, l'alcoolisme et la toxicomanie.
 
@@ -5652,13 +5679,15 @@ Un bureau d'aide à l'insertion professionnelle des étudiants est créé dans c
 
 Il conseille les étudiants sur leurs problématiques liées à l'emploi et à l'insertion professionnelle. Il prépare les étudiants qui en font la demande aux entretiens préalables aux embauches. Il recense les entreprises susceptibles d'offrir aux étudiants une expérience professionnelle en lien avec les grands domaines de formation enseignés dans l'université, en vue de leur proposer la signature de conventions de stage.
 
-Le bureau d'aide à l'insertion professionnelle des étudiants présente un rapport annuel à la commission de la formation et de la vie universitaire du conseil académique sur le nombre et la qualité des stages effectués par les étudiants, ainsi que sur l'insertion professionnelle de ceux-ci dans leur premier emploi. Les statistiques comportant les taux d'insertion professionnelle des étudiants, un et deux ans après l'obtention de leur diplôme, sont rendues publiques. Chaque élève en est obligatoirement informé en amont de son orientation dans un nouveau cycle ou une formation supérieure.
+Le bureau d'aide à l'insertion professionnelle des étudiants présente un rapport annuel à la
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 187]]
 
 [[START OF PAGE 188]]
+
+commission de la formation et de la vie universitaire du conseil académique sur le nombre et la qualité des stages effectués par les étudiants, ainsi que sur l'insertion professionnelle de ceux-ci dans leur premier emploi. Les statistiques comportant les taux d'insertion professionnelle des étudiants, un et deux ans après l'obtention de leur diplôme, sont rendues publiques. Chaque élève en est obligatoirement informé en amont de son orientation dans un nouveau cycle ou une formation supérieure.
 
 ###### Article L611-6
 
@@ -5682,13 +5711,15 @@ Les modalités de mise en œuvre des deux premiers alinéas du présent article 
 
 ###### Article L612-1
 
-Le déroulement des études supérieures est organisé en cycles. Le nombre, la nature et la durée des cycles peuvent varier en fonction des études dispensées. Chaque cycle, selon ses objectifs propres, fait une part à l'orientation des étudiants, à leur formation générale, à l'acquisition d'éléments d'une qualification professionnelle, à la formation à l'entreprenariat, à la recherche, au développement de la personnalité, du sens des responsabilités et de l'aptitude au travail individuel et en équipe.
+Le déroulement des études supérieures est organisé en cycles. Le nombre, la nature et la durée des cycles peuvent varier en fonction des études dispensées. Chaque cycle, selon ses objectifs propres,
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 188]]
 
 [[START OF PAGE 189]]
+
+fait une part à l'orientation des étudiants, à leur formation générale, à l'acquisition d'éléments d'une qualification professionnelle, à la formation à l'entreprenariat, à la recherche, au développement de la personnalité, du sens des responsabilités et de l'aptitude au travail individuel et en équipe.
 
 Au cours de chaque cycle sont délivrés des diplômes nationaux ou des diplômes d'établissement sanctionnant les connaissances, les compétences ou les éléments de qualification professionnelle acquis. Les grades de licence, de master et de doctorat sont conférés respectivement dans le cadre du premier, du deuxième et du troisième cycle.
 
@@ -5710,13 +5741,15 @@ Dans la continuité des enseignements dispensés dans le second cycle de l'ensei
 
 ###### Article L612-3
 
-Le premier cycle est ouvert à tous les titulaires du baccalauréat et à ceux qui ont obtenu l'équivalence ou la dispense de ce grade en justifiant d'une qualification ou d'une expérience jugées suffisantes conformément à l'article L. 613-5.
+Le premier cycle est ouvert à tous les titulaires du baccalauréat et à ceux qui ont obtenu l'équivalence ou la dispense de ce grade en justifiant d'une qualification ou d'une expérience jugées
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 189]]
 
 [[START OF PAGE 190]]
+
+suffisantes conformément à l'article L. 613-5.
 
 Tout candidat est libre de s'inscrire dans l'établissement de son choix, sous réserve d'avoir, au préalable, sollicité une préinscription lui permettant de bénéficier du dispositif d'information et d'orientation dudit établissement, qui doit être établi en concertation avec les lycées. Il doit pouvoir, s'il le désire, être inscrit en fonction des formations existantes lors de cette inscription dans un établissement ayant son siège dans le ressort de l'académie où il a obtenu le baccalauréat ou son équivalent ou dans l'académie où est située sa résidence. Lorsque l'effectif des candidatures excède les capacités d'accueil d'un établissement, constatées par l'autorité administrative, les inscriptions sont prononcées, après avis du président de cet établissement, par le recteur chancelier, selon la réglementation établie par le ministre chargé de l'enseignement supérieur, en fonction du domicile, de la situation de famille du candidat et des préférences exprimées par celui-ci.
 
@@ -5728,13 +5761,15 @@ Chaque lycée public disposant d'au moins une formation d'enseignement supérieu
 
 Les élèves inscrits dans une classe préparatoire aux grandes écoles d'un lycée public sont également inscrits dans une formation proposée par l'un des établissements publics à caractère scientifique, culturel et professionnel ayant conclu une convention avec ce lycée, selon des modalités précisées par décret. Cette inscription emporte paiement des droits d'inscription prévus à l'article L. 719-4.
 
-Conformément à l'objectif de réussite de tous les étudiants, les établissements d'enseignement supérieur peuvent mettre en place des dispositifs d'accompagnement pédagogique qui tiennent compte de la diversité et des spécificités des publics étudiants accueillis, dans des conditions fixées par leur arrêté d'accréditation.
+Conformément à l'objectif de réussite de tous les étudiants, les établissements d'enseignement
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 190]]
 
 [[START OF PAGE 191]]
+
+supérieur peuvent mettre en place des dispositifs d'accompagnement pédagogique qui tiennent compte de la diversité et des spécificités des publics étudiants accueillis, dans des conditions fixées par leur arrêté d'accréditation.
 
 ###### Article L612-3-1
 
@@ -5782,13 +5817,15 @@ Les stages en milieu professionnel ne relevant ni de l'article L. 4153-1 du code
 
 Tout étudiant souhaitant effectuer un stage se voit proposer une convention par l'établissement d'enseignement supérieur.
 
-Les stages sont intégrés à un cursus pédagogique scolaire ou universitaire, selon des modalités déterminées par décret. Un volume pédagogique minimal de formation ainsi que les modalités d'encadrement du stage par l'établissement d'origine et l'organisme d'accueil sont fixés par ce décret et précisés dans la convention de stage.
+Les stages sont intégrés à un cursus pédagogique scolaire ou universitaire, selon des modalités
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 192]]
 
 [[START OF PAGE 193]]
+
+déterminées par décret. Un volume pédagogique minimal de formation ainsi que les modalités d'encadrement du stage par l'établissement d'origine et l'organisme d'accueil sont fixés par ce décret et précisés dans la convention de stage.
 
 Le stage correspond à une période temporaire de mise en situation en milieu professionnel au cours de laquelle l'étudiant acquiert des compétences professionnelles qui mettent en œuvre les acquis de sa formation en vue de l'obtention d'un diplôme ou d'une certification. Le stagiaire se voit confier une ou des missions conformes au projet pédagogique défini par son établissement d'enseignement et approuvées par l'organisme d'accueil.
 
@@ -5842,13 +5879,15 @@ Le contenu et les modalités de l'accréditation des établissements sont fixés
 
 Un établissement est accrédité pour la durée du contrat pluriannuel conclu avec l'Etat. L'accréditation peut, après une évaluation nationale, être renouvelée par arrêté du ministre chargé de l'enseignement supérieur, après avis du Conseil national de l'enseignement supérieur et de la recherche.
 
-Le cadre national des formations, fixé par arrêté du ministre chargé de l'enseignement supérieur, après avis du Conseil national de l'enseignement supérieur et de la recherche, comprend la liste des mentions des diplômes nationaux regroupés par grands domaines ainsi que les règles relatives à l'organisation des formations.
+Le cadre national des formations, fixé par arrêté du ministre chargé de l'enseignement supérieur, après avis du Conseil national de l'enseignement supérieur et de la recherche, comprend la liste des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 194]]
 
 [[START OF PAGE 195]]
+
+mentions des diplômes nationaux regroupés par grands domaines ainsi que les règles relatives à l'organisation des formations.
 
 L'arrêté d'accréditation de l'établissement emporte habilitation de ce dernier à délivrer, dans le respect du cadre national des formations, les diplômes nationaux dont la liste est annexée à l'arrêté.
 
@@ -5924,7 +5963,7 @@ Une large information est organisée dans les établissements, les régions et l
 
 ###### Article L614-2
 
-- Le schéma de services collectifs de l'enseignement supérieur et de la recherche, élaboré conformément aux articles 2 et 10 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, organise le développement et une répartition équilibrée des services d'enseignement supérieur et de recherche sur le territoire national. Il vise à assurer une offre de formation complète, cohérente et de qualité à un niveau régional ou interrégional et définit les moyens à mettre en oeuvre pour favoriser l'accueil et l'insertion professionnelle des étudiants en tenant compte des priorités nationales et régionales en termes de politiques de l'emploi et de développement économique.
+I. - Le schéma de services collectifs de l'enseignement supérieur et de la recherche, élaboré conformément aux articles 2 et 10 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, organise le développement et une répartition équilibrée des services d'enseignement supérieur et de recherche sur le territoire national. Il vise à assurer une offre de formation complète, cohérente et de qualité à un niveau régional ou interrégional et définit les moyens à mettre en oeuvre pour favoriser l'accueil et l'insertion professionnelle des étudiants en tenant compte des priorités nationales et régionales en termes de politiques de l'emploi et de développement économique.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -5944,7 +5983,7 @@ Il organise, au niveau régional ou interrégional, sur des thèmes évalués in
 
 Il valorise la formation continue et favorise la diffusion de l'information et de la culture scientifique et technique.
 
-- La conférence régionale de l'aménagement et du développement du territoire organise la concertation sur l'enseignement supérieur et la recherche afin d'assurer la répartition équilibrée des activités d'enseignement supérieur et de recherche, de promouvoir une meilleure articulation entre recherche publique et recherche privée et de favoriser les synergies avec le monde économique grâce à la formation en alternance, à la formation continue et au soutien de projets porteurs de développement économique.
+II. - La conférence régionale de l'aménagement et du développement du territoire organise la concertation sur l'enseignement supérieur et la recherche afin d'assurer la répartition équilibrée des activités d'enseignement supérieur et de recherche, de promouvoir une meilleure articulation entre recherche publique et recherche privée et de favoriser les synergies avec le monde économique grâce à la formation en alternance, à la formation continue et au soutien de projets porteurs de développement économique.
 
 ###### Article L614-3
 
@@ -6030,7 +6069,7 @@ Les ministres chargés de l'enseignement supérieur et de l'éducation nationale
 
 ###### Article L631-1
 
-- La première année des études de santé est commune aux études médicales, odontologiques, pharmaceutiques et de sage-femme. Les ministres chargés de l'enseignement supérieur et de la santé déterminent par voie réglementaire :
+I. - La première année des études de santé est commune aux études médicales, odontologiques, pharmaceutiques et de sage-femme. Les ministres chargés de l'enseignement supérieur et de la santé déterminent par voie réglementaire :
 
 - 1° L'organisation de cette première année des études de santé ;
 
@@ -6040,9 +6079,9 @@ Les ministres chargés de l'enseignement supérieur et de l'éducation nationale
 
 - 4° Les conditions dans lesquelles les étudiants peuvent être réorientés à l'issue du premier semestre de la première année des études de santé ou au terme de celle-ci ainsi que les modalités de leur réinscription ultérieure éventuelle dans cette année d'études.
 
-- 1. Des candidats, justifiant notamment de certains grades, titres ou diplômes, peuvent être admis en deuxième année ou en troisième année des études médicales, odontologiques, pharmaceutiques ou de sage-femme.
+II. - 1. Des candidats, justifiant notamment de certains grades, titres ou diplômes, peuvent être admis en deuxième année ou en troisième année des études médicales, odontologiques, pharmaceutiques ou de sage-femme.
 
-- Peuvent également être admis en deuxième année des études médicales, odontologiques, pharmaceutiques ou en première année d'école de sage-femme des étudiants engagés dans les études médicales, odontologiques, pharmaceutiques ou de sage-femme et souhaitant se réorienter dans une
+2. Peuvent également être admis en deuxième année des études médicales, odontologiques, pharmaceutiques ou en première année d'école de sage-femme des étudiants engagés dans les études médicales, odontologiques, pharmaceutiques ou de sage-femme et souhaitant se réorienter dans une
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -6804,9 +6843,9 @@ Le nombre de membres du conseil est augmenté d'une unité lorsque le président
 
 - 3° Au plus cinq personnalités désignées après un appel public à candidatures par les membres élus du conseil et les personnalités désignées aux 1° et 2°, dont au moins :
 
-- Une personne assumant des fonctions de direction générale au sein d'une entreprise ;
+a) Une personne assumant des fonctions de direction générale au sein d'une entreprise ;
 
-- Un représentant des organisations représentatives des salariés ;
+b) Un représentant des organisations représentatives des salariés ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -7188,7 +7227,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ###### Article L715-2
 
-Le conseil d'administration, dont l'effectif ne peut dépasser quarante membres, comprend de 30 à 60 %de personnalités extérieures et des représentants élus des personnels et des étudiants. Les enseignants et assimilés doivent être en nombre au moins égal à l'ensemble des autres personnels et des étudiants.
+Le conseil d'administration, dont l'effectif ne peut dépasser quarante membres, comprend de 30 à 60 % de personnalités extérieures et des représentants élus des personnels et des étudiants. Les enseignants et assimilés doivent être en nombre au moins égal à l'ensemble des autres personnels et des étudiants.
 
 Le conseil élit pour un mandat de trois ans, au sein des personnalités extérieures, celui de ses membres qui est appelé à le présider. Le mandat du président est renouvelable.
 
@@ -7284,9 +7323,9 @@ Les statuts de l'établissement résultant de la fusion peuvent se voir applique
 
 - 2° Le regroupement, qui peut prendre la forme :
 
-- De la participation à une communauté d'universités et établissements mentionnée à la section 3 du présent chapitre ;
+a) De la participation à une communauté d'universités et établissements mentionnée à la section 3 du présent chapitre ;
 
-- De l'association d'établissements ou d'organismes publics ou privés concourant aux missions du service public de l'enseignement supérieur ou de la recherche à un établissement public à caractère scientifique, culturel et professionnel.
+b) De l'association d'établissements ou d'organismes publics ou privés concourant aux missions du service public de l'enseignement supérieur ou de la recherche à un établissement public à caractère scientifique, culturel et professionnel.
 
 La coordination territoriale est organisée par un seul établissement d'enseignement supérieur, pour un territoire donné. Cet établissement est soit le nouvel établissement issu d'une fusion, soit la communauté d'universités et établissements lorsqu'il en existe une, soit l'établissement avec lequel les autres établissements ont conclu une convention d'association. Par dérogation, dans les académies de Paris, Créteil et Versailles, plusieurs établissements peuvent assurer la coordination territoriale.
 
@@ -7546,13 +7585,15 @@ La dotation en emplois des établissements publics à caractère scientifique, c
 
 Les décisions des présidents des universités et des présidents ou directeurs des autres établissements publics à caractère scientifique, culturel et professionnel ainsi que les délibérations des conseils entrent en vigueur sans approbation préalable, à l'exception des délibérations relatives aux emprunts, prises de participation et créations de filiales mentionnées à l'article L. 719-5 et sous réserve des dispositions du décret prévu à l'article L. 719-9. Toutefois, les décisions et délibérations qui présentent un caractère réglementaire n'entrent en vigueur qu'après leur transmission au recteur, chancelier des universités.
 
-Le chancelier peut saisir le tribunal administratif d'une demande tendant à l'annulation des décisions ou délibérations des autorités de ces établissements qui lui paraissent entachées d'illégalité. Le tribunal statue d'urgence. Au cas où l'exécution de la mesure attaquée serait de nature à porter gravement atteinte au fonctionnement de l'établissement, le chancelier peut en suspendre l'application pour un délai de trois mois.
+Le chancelier peut saisir le tribunal administratif d'une demande tendant à l'annulation des décisions ou délibérations des autorités de ces établissements qui lui paraissent entachées d'illégalité. Le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 251]]
 
 [[START OF PAGE 252]]
+
+tribunal statue d'urgence. Au cas où l'exécution de la mesure attaquée serait de nature à porter gravement atteinte au fonctionnement de l'établissement, le chancelier peut en suspendre l'application pour un délai de trois mois.
 
 ###### Article L719-8
 
@@ -7600,13 +7641,15 @@ Les fondations partenariales peuvent recevoir, en vue de la réalisation d'une �
 
 En cas de dissolution de la fondation partenariale, les ressources non employées et la dotation, si celle-ci a été constituée et n'a pas fait l'objet de l'affectation prévue à l'article 19-6 de la loi n° 87-571 du 23 juillet 1987 précitée, sont attribuées par le liquidateur à l'une ou à plusieurs de la ou des fondations universitaires ou partenariales créées par l'établissement. Dans le cas où l'établissement ne dispose d'aucune fondation autre que celle en voie de dissolution, les ressources non employées et la dotation lui sont directement attribuées.
 
-Outre les ressources visées à l'article 19-8 de la loi n° 87-571 du 23 juillet 1987 précitée, les ressources de ces fondations comprennent les legs, les donations, le mécénat et les produits de l'appel à la générosité publique.
+Outre les ressources visées à l'article 19-8 de la loi n° 87-571 du 23 juillet 1987 précitée, les ressources de ces fondations comprennent les legs, les donations, le mécénat et les produits de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 253]]
 
 [[START OF PAGE 254]]
+
+l'appel à la générosité publique.
 
 Les statuts des fondations partenariales peuvent prévoir que les établissements publics à caractère scientifique, culturel et professionnel disposent de la majorité des sièges au conseil d'administration.
 
@@ -7630,13 +7673,15 @@ L'école est accréditée pour la durée du contrat pluriannuel liant l'Etat à 
 
 L'accréditation est renouvelée pour la même durée, après une évaluation nationale, par arrêté conjoint des ministres chargés de l'enseignement supérieur et de l'éducation nationale, après avis du Conseil national de l'enseignement supérieur et de la recherche.
 
-L'accréditation de l'école emporte l'habilitation de l'établissement public à caractère scientifique, culturel et professionnel ou des établissements publics d'enseignement supérieur partenaires, mentionnés à l'article L. 721-2, à délivrer le diplôme national de master dans les domaines des métiers de l'enseignement, de l'éducation et de la formation.
+L'accréditation de l'école emporte l'habilitation de l'établissement public à caractère scientifique, culturel et professionnel ou des établissements publics d'enseignement supérieur partenaires, mentionnés à l'article L. 721-2, à délivrer le diplôme national de master dans les domaines des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 254]]
 
 [[START OF PAGE 255]]
+
+métiers de l'enseignement, de l'éducation et de la formation.
 
 Les modalités d'accréditation sont définies par arrêté conjoint des ministres chargés de l'enseignement supérieur et de l'éducation nationale
 
@@ -7760,11 +7805,11 @@ A défaut d'accord entre le représentant de l'Etat dans le département et le p
 
 Pour l'évaluation des dépenses mentionnées à l'article L. 722-6, il est fait application des règles suivantes :
 
-- Le montant des dépenses de fonctionnement est arrêté sur la base du compte administratif du département afférent au dernier exercice précédant l'année de prise en charge par l'Etat ;
+- a) Le montant des dépenses de fonctionnement est arrêté sur la base du compte administratif du département afférent au dernier exercice précédant l'année de prise en charge par l'Etat ;
 
-- Le montant des dépenses ne relevant pas du a est calculé par référence aux dépenses actualisées des exercices antérieurs. A défaut d'accord sur la période de référence, ce montant est égal à la moyenne annuelle des dépenses actualisées des cinq dernières années. Il est pondéré afin de tenir compte de la différence entre la moyenne annuelle départementale et la moyenne annuelle nationale des dépenses engagées à ce titre, au cours des cinq dernières années, par instituteur exerçant dans le département. Un décret fixe les modalités de cette pondération ;
+- b) Le montant des dépenses ne relevant pas du a est calculé par référence aux dépenses actualisées des exercices antérieurs. A défaut d'accord sur la période de référence, ce montant est égal à la moyenne annuelle des dépenses actualisées des cinq dernières années. Il est pondéré afin de tenir compte de la différence entre la moyenne annuelle départementale et la moyenne annuelle nationale des dépenses engagées à ce titre, au cours des cinq dernières années, par instituteur exerçant dans le département. Un décret fixe les modalités de cette pondération ;
 
-- Les dépenses sont évaluées hors taxe sur la valeur ajoutée.
+- c) Les dépenses sont évaluées hors taxe sur la valeur ajoutée.
 
 Le montant des dépenses ainsi déterminé est actualisé par application du taux d'évolution de la dotation globale de fonctionnement des départements pour l'année de prise en charge par l'Etat.
 
@@ -7924,13 +7969,15 @@ Les autres formalités prescrites par l'article L. 731-3 sont applicables à l'o
 
 ###### Article L731-5
 
-Les établissements d'enseignement supérieur ouverts conformément à l'article L. 731-4, et comprenant au moins le même nombre de professeurs pourvus du grade de docteur que les établissements de l'Etat qui comptent le moins d'emplois de professeurs des universités, peuvent prendre le nom de faculté libre, suivi de l'indication de leur spécialité, s'ils appartiennent à des particuliers ou à des associations.
+Les établissements d'enseignement supérieur ouverts conformément à l'article L. 731-4, et comprenant au moins le même nombre de professeurs pourvus du grade de docteur que les établissements de l'Etat qui comptent le moins d'emplois de professeurs des universités, peuvent
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 264]]
 
 [[START OF PAGE 265]]
+
+prendre le nom de faculté libre, suivi de l'indication de leur spécialité, s'ils appartiennent à des particuliers ou à des associations.
 
 Les établissements d'enseignement supérieur privés doivent préciser sur leurs documents d'inscription les formations sanctionnées par un diplôme qui fait l'objet d'une reconnaissance par l'Etat.
 
@@ -8014,11 +8061,11 @@ La poursuite entraîne la suspension provisoire du cours ; l'affaire est portée
 
 ###### Article L731-13
 
-- Les cours ou établissements d'enseignement supérieur privés sont toujours ouverts et accessibles aux délégués du ministre chargé de l'enseignement supérieur.
+- I. - Les cours ou établissements d'enseignement supérieur privés sont toujours ouverts et accessibles aux délégués du ministre chargé de l'enseignement supérieur.
 
 La surveillance ne peut porter sur l'enseignement que pour vérifier s'il n'est pas contraire à la morale, à la Constitution et aux lois.
 
-- Le fait de refuser de se soumettre à la surveillance, telle qu'elle est prescrite au I, est puni de 3750 euros d'amende.
+- II. - Le fait de refuser de se soumettre à la surveillance, telle qu'elle est prescrite au I, est puni de 3750 euros d'amende.
 
 En cas de récidive dans le courant de l'année qui suit la première condamnation, le tribunal peut prononcer la fermeture du cours ou de l'établissement.
 
@@ -8188,7 +8235,7 @@ Les rapports entre l'Etat et les établissements d'enseignement supérieur priv�
 
 " Art.L. 813-10.-1° Peuvent, si leur organisme de gestion a souscrit avec l'Etat un contrat portant sur l'exécution des missions définies au présent paragraphe, concourir au service public dans le cadre des livres Ier, VI, VII et VIII du code de l'éducation et recevoir une aide de l'Etat les établissements d'enseignement supérieur privés relevant du ministre de l'agriculture qui :
 
-- Assurent la formation initiale et continue d'ingénieurs, de paysagistes, d'enseignants, de chercheurs, de responsables d'entreprises et plus généralement de cadres spécialisés dans les matières définies au 1° de l'article L. 812-1 ;
+- a) Assurent la formation initiale et continue d'ingénieurs, de paysagistes, d'enseignants, de chercheurs, de responsables d'entreprises et plus généralement de cadres spécialisés dans les matières définies au 1° de l'article L. 812-1 ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -8196,9 +8243,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 273]]
 
-- Participent à la politique de développement agricole et rural par les activités de recherche fondamentale et appliquée ;
+- b) Participent à la politique de développement agricole et rural par les activités de recherche fondamentale et appliquée ;
 
-- Concourent à la mise en oeuvre de la coopération internationale et technique.
+- c) Concourent à la mise en oeuvre de la coopération internationale et technique.
 
 Les articles L. 813-5 et L. 813-6 leur sont applicables.
 
@@ -8544,11 +8591,13 @@ Sans préjudice des compétences du comité technique prévu par l'article L. 95
 
 Ne sont pas applicables à l'université des Antilles et de la Guyane :
 
-1° Le premier alinéa de l'article L. 712-6-1 ; 2° A l'article L. 719-1 :
+1° Le premier alinéa de l'article L. 712-6-1 ;
 
-- S'agissant des enseignants-chercheurs et personnels assimilés, enseignants et chercheurs en exercice dans l'université, la deuxième phrase du premier alinéa et les trois dernières phrases du cinquième alinéa ;
+2° A l'article L. 719-1 :
 
-- S'agissant de l'élection des représentants des étudiants et des personnes bénéficiant de la formation continue, la première phrase du sixième alinéa.
+a) S'agissant des enseignants-chercheurs et personnels assimilés, enseignants et chercheurs en exercice dans l'université, la deuxième phrase du premier alinéa et les trois dernières phrases du cinquième alinéa ;
+
+b) S'agissant de l'élection des représentants des étudiants et des personnes bénéficiant de la formation continue, la première phrase du sixième alinéa.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -8964,13 +9013,17 @@ Les citoyens andorrans sont considérés comme remplissant la condition prévue 
 
 ###### Article L912-1
 
-Les enseignants sont responsables de l'ensemble des activités scolaires des élèves. Ils travaillent au sein d'équipes pédagogiques ; celles-ci sont constituées des enseignants ayant en charge les mêmes classes ou groupes d'élèves ou exerçant dans le même champ disciplinaire et des personnels spécialisés, notamment les psychologues scolaires dans les écoles. Les personnels d'éducation y sont associés. Le travail transversal et pluridisciplinaire ainsi que l'innovation pédagogique sont encouragés Les enseignants apportent une aide au travail personnel des élèves et en assurent le suivi. Ils procèdent à leur évaluation. Ils les conseillent dans le choix de leur projet d'orientation en collaboration avec les personnels d'éducation et d'orientation qui veillent à favoriser la mixité entre les femmes et les hommes dans l'accès aux filières de formation. Ils participent aux actions de formation continue des adultes et aux formations par apprentissage.
+Les enseignants sont responsables de l'ensemble des activités scolaires des élèves. Ils travaillent au sein d'équipes pédagogiques ; celles-ci sont constituées des enseignants ayant en charge les mêmes classes ou groupes d'élèves ou exerçant dans le même champ disciplinaire et des personnels spécialisés, notamment les psychologues scolaires dans les écoles. Les personnels d'éducation y sont associés. Le travail transversal et pluridisciplinaire ainsi que l'innovation pédagogique sont
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 297]]
 
 [[START OF PAGE 298]]
+
+encouragés.
+
+Les enseignants apportent une aide au travail personnel des élèves et en assurent le suivi. Ils procèdent à leur évaluation. Ils les conseillent dans le choix de leur projet d'orientation en collaboration avec les personnels d'éducation et d'orientation qui veillent à favoriser la mixité entre les femmes et les hommes dans l'accès aux filières de formation. Ils participent aux actions de formation continue des adultes et aux formations par apprentissage.
 
 Les enseignants tiennent informés les parents d'élèves et les aident à suivre la scolarité de leurs enfants.
 
@@ -9052,14 +9105,14 @@ Les maîtres titulaires d'un contrat définitif dont le service est supprimé ou
 
 Les personnels enseignants et de documentation mentionnés à l'article L. 914-1 peuvent bénéficier d'avantages temporaires de retraite dès leur cessation d'activité. Ces avantages, dont la charge financière est intégralement supportée par l'Etat, sont destinés à permettre à ces personnels de cesser leur activité dans les mêmes conditions que les maîtres titulaires de l'enseignement public.
 
-L'ouverture des droits aux avantages temporaires de retraite est subordonnée au respect des conditions suivantes :
+L'ouverture des droits aux avantages temporaires de retraite est subordonnée au respect des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 300]]
 
 [[START OF PAGE 301]]
-
+conditions suivantes :
 - 1° Les bénéficiaires doivent être titulaires d'un contrat définitif ou d'un agrément au moment où ils sollicitent leur admission au régime temporaire de retraite ;
 
 - 2° Les bénéficiaires doivent justifier d'une durée de services en qualité de personnels enseignants et de documentation habilités par agrément ou par contrat à exercer leurs fonctions dans les établissements d'enseignement privés liés par contrat à l'Etat ou reconnus par celui-ci. Les services d'enseignement en tant que maître délégué, les services de direction et de formation exercés concomitamment à une activité d'enseignement, les périodes de formation ainsi que les périodes accomplies au titre du service national actif sont pris en compte dans des conditions déterminées par voie réglementaire. Toutefois, la condition de durée de services n'est pas opposable aux bénéficiaires qui se trouvent dans l'incapacité permanente d'exercer leur fonction ;
@@ -9142,14 +9195,14 @@ Toutefois, les autres ressortissants étrangers remplissant les conditions d'âg
 
 ###### Article L914-6
 
-Toute personne attachée à l'enseignement ou à la surveillance d'un établissement d'enseignement privé du premier ou du second degré ou d'un établissement d'enseignement supérieur privé peut, sur la plainte de l'autorité de l'Etat compétente en matière d'éducation, du représentant de l'Etat dans le département ou du ministère public, être traduit devant le conseil académique de l'éducation nationale pour faute grave dans l'exercice de ses fonctions, inconduite ou immoralité ou lorsque son enseignement est contraire à la morale et aux lois ou, s'agissant d'un professeur d'un établissement d'enseignement supérieur privé, pour désordre grave occasionné ou toléré par lui dans son cours.
+Toute personne attachée à l'enseignement ou à la surveillance d'un établissement d'enseignement privé du premier ou du second degré ou d'un établissement d'enseignement supérieur privé peut, sur la plainte de l'autorité de l'Etat compétente en matière d'éducation, du représentant de l'Etat dans le département ou du ministère public, être traduit devant le conseil académique de l'éducation nationale pour faute grave dans l'exercice de ses fonctions, inconduite ou immoralité ou lorsque son
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 303]]
 
 [[START OF PAGE 304]]
-
+enseignement est contraire à la morale et aux lois ou, s'agissant d'un professeur d'un établissement d'enseignement supérieur privé, pour désordre grave occasionné ou toléré par lui dans son cours.
 Elle peut recevoir un blâme, avec ou sans publicité, ou être interdite de l'exercice de sa profession temporairement ou définitivement, sans préjudice des peines encourues pour crimes ou délits prévus par le code pénal et indépendamment des poursuites pénales prévues aux articles L. 731-11 et L. 731-12 du présent code. L'enseignant du premier degré privé est interdit de l'exercice de sa profession, soit dans la commune où il exerce, soit dans le département, selon la gravité de la faute commise.
 
 Appel de la décision rendue peut toujours avoir lieu devant le Conseil supérieur de l'éducation. Cet appel n'est pas suspensif.
@@ -9172,14 +9225,14 @@ Les assistants d'éducation sont recrutés par des contrats d'une durée maximal
 
 Le dispositif des assistants d'éducation est destiné à bénéficier en priorité à des étudiants boursiers.
 
-Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique ministériel du ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de travail des assistants d'éducation, en particulier pour ceux qui sont astreints à un service de nuit. Il précise également les droits reconnus à ces agents au titre des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la mesure justifiée par la nature de leurs missions, aux dispositions générales prises pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Les conditions d'application du présent article sont fixées par décret pris après avis du comité technique ministériel du ministère chargé de l'éducation. Ce décret précise les conditions dans lesquelles est aménagé le temps de travail des assistants d'éducation, en particulier pour ceux qui
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 304]]
 
 [[START OF PAGE 305]]
-
+sont astreints à un service de nuit. Il précise également les droits reconnus à ces agents au titre des articles L. 970-1 et suivants du code du travail. Il peut déroger, dans la mesure justifiée par la nature de leurs missions, aux dispositions générales prises pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
 ###### Article L916-2
 
 Les assistants d'éducation peuvent être mis à la disposition des collectivités territoriales pour participer aux activités complémentaires prévues à l'article L. 216-1 ou aux activités organisées en dehors du temps scolaire dans les écoles et les établissements d'enseignement conformément à l'article L. 212-15.
@@ -9198,14 +9251,14 @@ Ils peuvent exercer leurs fonctions dans l'établissement qui les a recrutés, d
 
 Ils peuvent être mis à la disposition des collectivités territoriales dans les conditions prévues à l'article L. 916-2 du présent code.
 
-Les accompagnants des élèves en situation de handicap bénéficient d'une formation spécifique pour l'accomplissement de leurs fonctions, mise en œuvre en collaboration avec les associations d'aide aux familles d'enfants en situation de handicap. Ils peuvent demander à faire valider l'expérience acquise dans les conditions définies aux articles L. 2323-33, L. 6111-1, L. 6311-1, L. 6411-1 et L. 6422-1 du code du travail.
+Les accompagnants des élèves en situation de handicap bénéficient d'une formation spécifique pour l'accomplissement de leurs fonctions, mise en œuvre en collaboration avec les associations d'aide aux familles d'enfants en situation de handicap. Ils peuvent demander à faire valider l'expérience acquise dans les conditions définies aux articles L. 2323-33, L. 6111-1, L. 6311-1, L. 6411-1 et L.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 305]]
 
 [[START OF PAGE 306]]
-
+6422-1 du code du travail.
 Ils sont recrutés par contrat d'une durée maximale de trois ans, renouvelable dans la limite maximale de six ans. Lorsque l'Etat conclut un nouveau contrat avec une personne ayant exercé pendant six ans en qualité d'accompagnant des élèves en situation de handicap en vue de poursuivre ces missions le contrat est à durée indéterminée. Pour l'appréciation de la durée des six ans, les services accomplis à temps incomplet et à temps partiel sont assimilés à des services à temps complet. Les services accomplis de manière discontinue sont pris en compte, sous réserve que la durée des interruptions n'excède pas quatre mois.
 
 Les services accomplis en qualité d'assistant d'éducation pour exercer des fonctions d'aide à l'inclusion scolaire des élèves en situation de handicap sont assimilés à des services accomplis en qualité d'accompagnant des élèves en situation de handicap.
@@ -9292,14 +9345,14 @@ Ils sont appelés à accomplir des stages en milieu professionnel.
 
 La mobilité des salariés des entreprises publiques et privées vers les établissements d'enseignement, et des personnels enseignants vers les entreprises, est encouragée.
 
-A cet effet, les personnels enseignants titulaires peuvent, sur leur demande ou avec leur accord, exercer leurs compétences auprès d'entreprises publiques ou privées, dans des conditions fixées par décret en Conseil d'Etat. Une convention doit être conclue entre l'Etat et l'entreprise intéressée.
+A cet effet, les personnels enseignants titulaires peuvent, sur leur demande ou avec leur accord,
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 308]]
 
 [[START OF PAGE 309]]
-
+exercer leurs compétences auprès d'entreprises publiques ou privées, dans des conditions fixées par décret en Conseil d'Etat. Une convention doit être conclue entre l'Etat et l'entreprise intéressée.
 ###### Article L932-5
 
 Des conventions conclues entre l'Etat et les employeurs ou les membres des professions non salariées permettent à toute personne qualifiée d'assurer un enseignement dans les établissements publics d'enseignement technologique.
@@ -9324,14 +9377,14 @@ Les personnels enseignants de l'enseignement technologique bénéficient d'actio
 
 ###### Article L934-1
 
-Lorsqu'un centre facultatif d'orientation scolaire et professionnelle créé avant le 10 octobre 1955 fait l'objet d'une transformation en centre public, les personnels techniques du centre peuvent, dans la limite des emplois vacants, être nommés puis titularisés dans des corps de fonctionnaires relevant de l'autorité du ministre chargé de l'éducation.
+Lorsqu'un centre facultatif d'orientation scolaire et professionnelle créé avant le 10 octobre 1955 fait
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 309]]
 
 [[START OF PAGE 310]]
-
+l'objet d'une transformation en centre public, les personnels techniques du centre peuvent, dans la limite des emplois vacants, être nommés puis titularisés dans des corps de fonctionnaires relevant de l'autorité du ministre chargé de l'éducation.
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article et notamment les conditions auxquelles sont subordonnées les nominations et les intégrations.
 
 #### Chapitre V : Les personnels de surveillance.
@@ -9442,14 +9495,14 @@ Les enseignants-chercheurs, les enseignants et les chercheurs jouissent d'une pl
 
 Les personnels mentionnés à l'article L. 952-1 participent aux missions du service public de l'enseignement supérieur définies à l'article L. 123-3.
 
-Leurs statuts leur permettent d'exercer ces missions simultanément ou successivement. Ils favorisent leur mobilité entre les différents statuts des personnels de l'enseignement supérieur et ceux de la recherche, au sein du même établissement d'enseignement supérieur, entre établissements d'enseignement supérieur, avec les organismes de recherche et les fondations du secteur de la recherche, avec les services publics de toute nature et entre ces services et établissements et les entreprises, en France ou à l'étranger.
+Leurs statuts leur permettent d'exercer ces missions simultanément ou successivement. Ils favorisent leur mobilité entre les différents statuts des personnels de l'enseignement supérieur et ceux de la recherche, au sein du même établissement d'enseignement supérieur, entre établissements d'enseignement supérieur, avec les organismes de recherche et les fondations du secteur de la
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 313]]
 
 [[START OF PAGE 314]]
-
+recherche, avec les services publics de toute nature et entre ces services et établissements et les entreprises, en France ou à l'étranger.
 Ces statuts permettent à ces personnels, tout en poursuivant leurs travaux au sein des établissements d'enseignement supérieur, de collaborer, pour une période déterminée et renouvelable, avec des laboratoires publics ou privés, afin d'y développer des applications spécifiques.
 
 Ces statuts peuvent, en particulier, permettre des adaptations au régime des positions prévues par le statut général de la fonction publique.
@@ -9506,14 +9559,14 @@ De même, des personnalités n'ayant pas la nationalité française peuvent, dan
 
 Sous réserve des dispositions statutaires relatives à la première affectation des personnels recrutés par concours national d'agrégation d'enseignement supérieur et des dérogations prévues par les statuts particuliers des corps d'enseignants-chercheurs ou par les statuts des établissements, lorsqu'un emploi d'enseignant-chercheur est créé ou déclaré vacant, les candidatures des personnes dont la qualification est reconnue par l'instance nationale prévue à l'article L. 952-6 sont soumises à l'examen d'un comité de sélection créé par délibération du conseil académique ou, pour les établissements qui n'en disposent pas, du conseil d'administration, siégeant en formation restreinte aux représentants élus des enseignants-chercheurs, des chercheurs et des personnels assimilés.
 
-Le comité est composé d'enseignants-chercheurs et de personnels assimilés, pour moitié au moins extérieurs à l'établissement, d'un rang au moins égal à celui postulé par l'intéressé. Ses membres sont proposés par le président et nommés par le conseil académique ou, pour les établissements qui n'en disposent pas, par le conseil d'administration, siégeant en formation restreinte aux représentants élus des enseignants-chercheurs et personnels assimilés. Ils sont choisis en raison de leurs compétences, en majorité parmi les spécialistes de la discipline en cause. La composition du comité concourt à une représentation équilibrée entre les femmes et les hommes lorsque la répartition entre les sexes des enseignants de la discipline le permet. Le comité siège valablement si au moins la moitié des membres présents sont extérieurs à l'établissement.
+Le comité est composé d'enseignants-chercheurs et de personnels assimilés, pour moitié au moins extérieurs à l'établissement, d'un rang au moins égal à celui postulé par l'intéressé. Ses membres
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 315]]
 
 [[START OF PAGE 316]]
-
+sont proposés par le président et nommés par le conseil académique ou, pour les établissements qui n'en disposent pas, par le conseil d'administration, siégeant en formation restreinte aux représentants élus des enseignants-chercheurs et personnels assimilés. Ils sont choisis en raison de leurs compétences, en majorité parmi les spécialistes de la discipline en cause. La composition du comité concourt à une représentation équilibrée entre les femmes et les hommes lorsque la répartition entre les sexes des enseignants de la discipline le permet. Le comité siège valablement si au moins la moitié des membres présents sont extérieurs à l'établissement.
 Au vu de son avis motivé, le conseil académique ou, pour les établissements qui n'en disposent pas, le conseil d'administration, siégeant en formation restreinte aux enseignants-chercheurs et personnels assimilés de rang au moins égal à celui postulé, transmet au ministre compétent le nom du candidat dont il propose la nomination ou une liste de candidats classés par ordre de préférence, sous réserve de l'absence d'avis défavorable du président tel que prévu à l'article L. 712-2.
 
 Un comité de sélection commun à plusieurs établissements d'enseignement supérieur peut être mis en place, notamment dans le cadre des regroupements prévus au 2° de l'article L. 718-3.
@@ -9594,14 +9647,14 @@ Les enseignants associés de nationalité étrangère auxquels est reconnue la q
 
 ###### Article L952-14
 
-L'enregistrement automatique de leurs voeux d'affectation et de mutation par les enseignants-chercheurs, par voie télématique, jusqu'à une date limite fixée par arrêté, fait foi, à défaut d'écrit, jusqu'à preuve contraire.
+L'enregistrement automatique de leurs voeux d'affectation et de mutation par les
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 318]]
 
 [[START OF PAGE 319]]
-
+enseignants-chercheurs, par voie télématique, jusqu'à une date limite fixée par arrêté, fait foi, à défaut d'écrit, jusqu'à preuve contraire.
 ###### Article L952-14-1
 
 Dans le respect des dispositions de l'article 432-12 du code pénal, et par dérogation à l'interdiction d'exercer à titre professionnel une activité privée lucrative fixée au premier alinéa de l'article 25 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, les enseignants-chercheurs autorisés à accomplir une période de service à temps partiel peuvent être autorisés à exercer, en sus de leurs fonctions, une activité dans une entreprise exerçant une ou plusieurs des missions définies à l'article L. 952-3.
@@ -9620,14 +9673,14 @@ Les instances de recrutement du Conservatoire national des arts et métiers, lor
 
 Les professeurs du Collège de France issus du corps des professeurs des universités-praticiens hospitaliers peuvent cumuler leurs fonctions avec des fonctions hospitalières. Outre leur rémunération de professeur du Collège de France, ils perçoivent, en ce cas, au titre de leur activité hospitalière, des émoluments non soumis à retenue pour pension fixés conformément à la grille des émoluments hospitaliers applicable aux professeurs des universités-praticiens hospitaliers.
 
-Pour la partie hospitalière de leur activité, ils sont soumis aux mêmes règles et aux mêmes obligations que les professeurs des universités-praticiens hospitaliers et peuvent accéder aux fonctions de chef de service dans les mêmes conditions que les professeurs des universités-praticiens hospitaliers. Lors de leur nomination au Collège de France, ils sont reclassés dans la grille des émoluments hospitaliers au niveau qu'ils avaient atteint comme professeurs des universités-praticiens hospitaliers.
+Pour la partie hospitalière de leur activité, ils sont soumis aux mêmes règles et aux mêmes obligations que les professeurs des universités-praticiens hospitaliers et peuvent accéder aux fonctions de chef de service dans les mêmes conditions que les professeurs des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 319]]
 
 [[START OF PAGE 320]]
-
+universités-praticiens hospitaliers. Lors de leur nomination au Collège de France, ils sont reclassés dans la grille des émoluments hospitaliers au niveau qu'ils avaient atteint comme professeurs des universités-praticiens hospitaliers.
 ###### Article L952-18
 
 Dans les centres hospitaliers régionaux ou les établissements hospitaliers et assimilés, les postes de pharmacien résidents peuvent être pourvus, dans des conditions fixées par décret en Conseil d'Etat, par des enseignants d'une unité de formation et de recherche de pharmacie sous réserve qu'ils respectent les règles de recrutement du corps national des pharmaciens des hôpitaux.
@@ -9674,14 +9727,14 @@ Des décrets en Conseil d'Etat déterminent les modalités d'application de la p
 
 Les membres du personnel enseignant titulaire et non titulaire de médecine générale exercent conjointement les fonctions d'enseignement, de recherche et de soins en médecine générale. Ils consacrent à leurs fonctions de soins en médecine générale, à l'enseignement et à la recherche la totalité de leur activité professionnelle, sous réserve des dérogations qui peuvent être prévues par leur statut. Ils exercent leur activité de soins en médecine générale et ambulatoire. Pour leur activité d'enseignement et de recherche, ils sont soumis à la juridiction disciplinaire mentionnée à l'article L. 952-22.
 
-Un décret en Conseil d'Etat fixe les modalités d'application de la présente section, et notamment le statut des personnels enseignants de médecine générale, les conditions de leur recrutement et d'exercice de leurs fonctions ainsi que les mesures transitoires et les conditions dans lesquelles les enseignants associés de médecine générale peuvent être recrutés ou demander à être intégrés dans les nouveaux corps.
+Un décret en Conseil d'Etat fixe les modalités d'application de la présente section, et notamment le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 321]]
 
 [[START OF PAGE 322]]
-
+statut des personnels enseignants de médecine générale, les conditions de leur recrutement et d'exercice de leurs fonctions ainsi que les mesures transitoires et les conditions dans lesquelles les enseignants associés de médecine générale peuvent être recrutés ou demander à être intégrés dans les nouveaux corps.
 ##### Section 4 : Dispositions propres aux personnels de recherche.
 
 ###### Article L952-24
@@ -9700,14 +9753,14 @@ Les personnels qui concourent aux missions de l'enseignement supérieur et qui a
 
 Le directeur général des services de chaque établissement public à caractère scientifique, culturel et professionnel est nommé par le ministre chargé de l'enseignement supérieur, sur proposition du président ou du directeur de l'établissement. Sous l'autorité du président ou du directeur, il est chargé de la gestion de cet établissement.
 
-L'agent comptable de chaque établissement est nommé, sur proposition du président ou du directeur, par un arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé du budget. Il est choisi sur une liste d'aptitude établie conjointement par ces deux ministres. Il a la qualité de comptable public. Il peut exercer, sur décision du président ou du directeur, les fonctions de chef des services financiers de l'établissement.
+L'agent comptable de chaque établissement est nommé, sur proposition du président ou du directeur, par un arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 322]]
 
 [[START OF PAGE 323]]
-
+chargé du budget. Il est choisi sur une liste d'aptitude établie conjointement par ces deux ministres. Il a la qualité de comptable public. Il peut exercer, sur décision du président ou du directeur, les fonctions de chef des services financiers de l'établissement.
 Le directeur général des services et l'agent comptable participent avec voix consultative au conseil d'administration et aux autres instances administratives de l'établissement.
 
 ###### Article L953-3
@@ -9726,14 +9779,14 @@ Les dispositions des articles 25 et 26 de la loi n° 82-610 du 15 juillet 1982 d
 
 ###### Article L953-6
 
-Il est créé, dans les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur, une commission paritaire d'établissement compétente à l'égard des corps d'ingénieurs et de personnels techniques et administratifs de recherche et de formation. Cette commission comprend un nombre égal de représentants des membres de ces corps affectés dans l'établissement, désignés par catégorie, et de représentants de l'administration. Une commission peut être commune à plusieurs établissements.
+Il est créé, dans les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur, une commission paritaire d'établissement compétente à l'égard des corps d'ingénieurs et de personnels techniques et administratifs de recherche et de formation. Cette commission comprend un nombre égal de représentants des membres de ces corps affectés dans l'établissement, désignés par catégorie, et de représentants de l'administration. Une commission peut
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 323]]
 
 [[START OF PAGE 324]]
-
+être commune à plusieurs établissements.
 Les membres représentant chaque catégorie de fonctionnaires dans les commissions d'établissement sont élus à la représentation proportionnelle. Les listes de candidats sont présentées par les organisations syndicales.
 
 La commission paritaire d'établissement est consultée sur les décisions individuelles concernant les membres des corps mentionnés au premier alinéa affectés à l'établissement et sur les affectations à l'établissement de membres de ces corps ; ne peuvent alors siéger que les membres appartenant à la catégorie à laquelle appartient le fonctionnaire concerné et les membres représentant la ou les catégories supérieures ainsi qu'un nombre égal de représentants de l'administration.
@@ -9806,13 +9859,15 @@ Les personnels enseignants et de documentation de ces établissements sont nomm�
 
 Nonobstant l'absence de contrat de travail avec l'établissement, les personnels enseignants mentionnés à l'alinéa précédent sont, pour l'application des articles L. 236-1, L. 412-5, L. 421-2 et L. 431-2 du code du travail, pris en compte dans le calcul des effectifs de l'établissement, tel que prévu à l'article L. 620-10 du même code. Ils sont électeurs et éligibles pour les élections des délégués du personnel et les élections au comité d'hygiène, de sécurité et des conditions de travail et au comité d'entreprise. Ils bénéficient de ces institutions dans les conditions prévues par le code du travail. Les rémunérations versées par l'Etat à ces personnels sont prises en compte pour le calcul de la masse salariale brute, tel que prévu à l'article L. 434-8 du même code, et la détermination du rapport entre la contribution aux institutions sociales et le montant global des salaires, mentionné à l'article L. 432-9 du même code.
 
-Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner priorité aux candidats qualifiés qui auraient perdu leur emploi par suite de la suppression totale ou partielle d'une filière dans l'établissement même ou dans un autre établissement d'enseignement agricole privé relevant du présent article. Un décret en Conseil d'Etat précise les conditions de recrutement par concours et les garanties d'emploi dont les lauréats bénéficient. Une commission, dont la composition est fixée par décret, peut être saisie des différends concernant l'application du présent alinéa.
+Lorsqu'un emploi est à pourvoir, le chef d'établissement est tenu de donner priorité aux candidats qualifiés qui auraient perdu leur emploi par suite de la suppression totale ou partielle d'une filière dans l'établissement même ou dans un autre établissement d'enseignement agricole privé relevant du présent article. Un décret en Conseil d'Etat précise les conditions de recrutement par concours et les garanties d'emploi dont les lauréats bénéficient. Une commission, dont la composition est fixée par
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 326]]
 
 [[START OF PAGE 327]]
+
+décret, peut être saisie des différends concernant l'application du présent alinéa.
 
 Le contrat type liant le personnel enseignant et de documentation à l'Etat est approuvé par décret en Conseil d'Etat.
 
@@ -9838,13 +9893,15 @@ Par dérogation au statut général des fonctionnaires de l'Etat, des personnali
 
 Des personnalités n'ayant pas la nationalité française peuvent, dans les conditions fixées par décret en Conseil d'Etat, être nommées dans un corps d'enseignants des écoles d'architecture.
 
-Le personnel enseignant des écoles d'architecture peut comprendre des enseignants associés ou invités, recrutés pour une durée limitée dans les conditions fixées par décret en Conseil d'Etat. Ces personnes assurent un service à plein temps ou à temps partiel.
+Le personnel enseignant des écoles d'architecture peut comprendre des enseignants associés ou
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 327]]
 
 [[START OF PAGE 328]]
+
+invités, recrutés pour une durée limitée dans les conditions fixées par décret en Conseil d'Etat. Ces personnes assurent un service à plein temps ou à temps partiel.
 
 #### Chapitre III : Les personnels des enseignements artistiques.
 
@@ -9868,13 +9925,15 @@ Pour l'application de l'article L. 911-4 dans les îles Wallis et Futuna, les mo
 
 ###### Article L971-3
 
-Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues par le présent livre au recteur d'académie, chancelier des universités.
+Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues par le présent livre
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 328]]
 
 [[START OF PAGE 329]]
+
+au recteur d'académie, chancelier des universités.
 
 Les références à des dispositions législatives ne s'appliquant pas dans les îles Wallis et Futuna sont remplacées par les références aux dispositions, ayant le même objet, qui y sont applicables.
 
@@ -9980,13 +10039,15 @@ Dans chaque école et établissement scolaire, un lieu accessible aux parents pe
 
 ###### Article D111-8
 
-Les associations de parents d'élèves peuvent prendre connaissance et obtenir copie de la liste des parents d'élèves de l'école ou de l'établissement scolaire mentionnant leurs noms, adresses postale et électronique, à la condition que ceux-ci aient donné leur accord exprès à cette communication.
+Les associations de parents d'élèves peuvent prendre connaissance et obtenir copie de la liste des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 332]]
 
 [[START OF PAGE 333]]
+
+parents d'élèves de l'école ou de l'établissement scolaire mentionnant leurs noms, adresses postale et électronique, à la condition que ceux-ci aient donné leur accord exprès à cette communication.
 
 Elles doivent bénéficier de moyens matériels d'action, notamment d'une boîte aux lettres et d'un panneau d'affichage situés dans un lieu accessible aux parents.
 
@@ -10300,7 +10361,7 @@ vocabulaire ;
 
 - l'ouverture à la communication, au dialogue, au débat.
 
-###### La pratique d'une langue vivante étrangère
+###### 2. La pratique d'une langue vivante étrangère
 
 Il s'agit soit de la langue apprise depuis l'école primaire, soit d'une langue dont l'étude a commencé au collège.
 
@@ -10370,7 +10431,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - l'ouverture d'esprit et la compréhension d'autres façons de penser et d'agir.
 
-###### Les principaux éléments de mathématiques et la culture scientifique et technologique
+###### 3. Les principaux éléments de mathématiques et la culture scientifique et technologique
 
 Il s'agit de donner aux élèves la culture scientifique nécessaire à une représentation cohérente du monde et à la compréhension de leur environnement quotidien ; ils doivent saisir que la complexité peut être exprimée par des lois fondamentales.
 
@@ -10508,7 +10569,7 @@ L'étude des mathématiques permet aux élèves d'appréhender l'existence de lo
 
 - le goût du raisonnement fondé sur des arguments dont la validité est à prouver.
 
-###### La culture scientifique et technologique
+###### B. - La culture scientifique et technologique
 
 Les sciences expérimentales et les technologies ont pour objectif de comprendre et de décrire le monde réel, celui de la nature, celui construit par l'Homme ainsi que les changements induits par l'activité humaine.
 
@@ -10586,7 +10647,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ###### Capacités
 
-- L'étude des sciences expérimentales développe les capacités inductives et déductives de l'intelligence sous ses différentes formes. L'élève doit être capable :
+L'étude des sciences expérimentales développe les capacités inductives et déductives de l'intelligence sous ses différentes formes. L'élève doit être capable :
 
 - de pratiquer une démarche scientifique :
 
@@ -10650,7 +10711,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - la responsabilité face à l'environnement, au monde vivant, à la santé.
 
-###### La maîtrise des techniques usuelles de l'information et de la communication
+###### 4. La maîtrise des techniques usuelles de l'information et de la communication
 
 La culture numérique implique l'usage sûr et critique des techniques de la société de l'information. Il s'agit de l'informatique, du multimédia et de l'internet, qui désormais irriguent tous les domaines économiques et sociaux.
 
@@ -10890,7 +10951,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ###### B. - Se préparer à sa vie de citoyen
 
-- L'objectif est de favoriser la compréhension des institutions d'une démocratie vivante par l'acquisition des principes et des principales règles qui fondent la République. Il est aussi de permettre aux élèves de devenir des acteurs responsables de notre démocratie.
+L'objectif est de favoriser la compréhension des institutions d'une démocratie vivante par l'acquisition des principes et des principales règles qui fondent la République. Il est aussi de permettre aux élèves de devenir des acteurs responsables de notre démocratie.
 
 ###### Connaissances
 
@@ -10980,7 +11041,7 @@ Au terme de son parcours civique scolaire, l'élève doit avoir conscience de la
 
 - la volonté de participer à des activités civiques.
 
-###### L'autonomie et l'initiative
+###### 7. L'autonomie et l'initiative
 
 ###### A. - L'autonomie
 
@@ -11124,15 +11185,15 @@ La mission de formation continue des adultes s'exerce dans le cadre général fi
 
 Le service public de l'éducation fonde ses interventions dans le domaine de la formation continue des adultes sur les principes suivants :
 
-- Il est conçu dans une logique de réponse à la diversité des besoins de formation des adultes et des jeunes engagés dans la vie active ou qui s'y engagent ;
+a) Il est conçu dans une logique de réponse à la diversité des besoins de formation des adultes et des jeunes engagés dans la vie active ou qui s'y engagent ;
 
-- Il obéit à des règles déontologiques vis-à-vis des prescripteurs et des bénéficiaires, en particulier : neutralité, permanence du service, recherche du dialogue, transparence ;
+b) Il obéit à des règles déontologiques vis-à-vis des prescripteurs et des bénéficiaires, en particulier : neutralité, permanence du service, recherche du dialogue, transparence ;
 
-- Il développe, en particulier avec les établissements publics d'enseignement supérieur et d'autres services publics de formation, des actions en partenariat susceptibles d'aider à la réalisation de projets communs dans le respect de ses objectifs et de ses contraintes ;
+c) Il développe, en particulier avec les établissements publics d'enseignement supérieur et d'autres services publics de formation, des actions en partenariat susceptibles d'aider à la réalisation de projets communs dans le respect de ses objectifs et de ses contraintes ;
 
-- Il définit ses engagements de qualité envers les prescripteurs, les bénéficiaires et les partenaires sous forme d'une charte nationale ;
+d) Il définit ses engagements de qualité envers les prescripteurs, les bénéficiaires et les partenaires sous forme d'une charte nationale ;
 
-- Il participe au développement et à l'adaptation permanente des dispositifs de formation et des méthodes pédagogiques.
+e) Il participe au développement et à l'adaptation permanente des dispositifs de formation et des méthodes pédagogiques.
 
 ###### Article D122-7
 
@@ -11166,9 +11227,9 @@ L'éducation culturelle a pour but d'accroître les connaissances générales ac
 
 L'éducation culturelle est assurée :
 
-- Soit dans des centres spécialisés, gérés ou reconnus par l'Etat ;
+a) Soit dans des centres spécialisés, gérés ou reconnus par l'Etat ;
 
-- Soit dans les divers établissements d'enseignement ;
+b) Soit dans les divers établissements d'enseignement ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -11176,7 +11237,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 366]]
 
-- Soit par des oeuvres privées, dont la création et le fonctionnement bénéficient, en raison de l'objectif poursuivi, de l'aide de l'Etat.
+c) Soit par des oeuvres privées, dont la création et le fonctionnement bénéficient, en raison de l'objectif poursuivi, de l'aide de l'Etat.
 
 #### Chapitre III : Objectifs et missions de l'enseignement supérieur
 
@@ -11196,11 +11257,11 @@ En vue de la valorisation des résultats de la recherche dans leurs domaines d'a
 
 Ces prestations de services revêtent les formes suivantes :
 
-- La mise à disposition de locaux, de matériels et d'équipements ;
+a) La mise à disposition de locaux, de matériels et d'équipements ;
 
-- La prise en charge ou la réalisation d'études de développement, de faisabilité technique, industrielle, commerciale, juridique et financière ;
+b) La prise en charge ou la réalisation d'études de développement, de faisabilité technique, industrielle, commerciale, juridique et financière ;
 
-- Et toute autre prestation de services nécessaire à la création et au développement de l'entreprise.
+c) Et toute autre prestation de services nécessaire à la création et au développement de l'entreprise.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -11284,9 +11345,9 @@ Afin d'assurer, dans le respect des objectifs et missions fixés aux articles L.
 
 L'application nationale aux études supérieures et aux diplômes nationaux de la construction de l'Espace européen de l'enseignement supérieur se caractérise par :
 
-- Une architecture des études fondée principalement sur les trois grades de licence, master et doctorat ;
+a) Une architecture des études fondée principalement sur les trois grades de licence, master et doctorat ;
 
-- Une organisation des formations en semestres et en unités d'enseignement ;
+b) Une organisation des formations en semestres et en unités d'enseignement ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -11294,25 +11355,25 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 370]]
 
-- La mise en oeuvre du système européen d'unités d'enseignement capitalisables et transférables, dit " système européen de crédits-ECTS " ;
+c) La mise en oeuvre du système européen d'unités d'enseignement capitalisables et transférables, dit " système européen de crédits-ECTS " ;
 
-- La délivrance d'une annexe décrivant les connaissances et aptitudes acquises dite " supplément au diplôme " afin d'assurer la lisibilité des diplômes dans le cadre de la mobilité internationale.
+d) La délivrance d'une annexe décrivant les connaissances et aptitudes acquises dite " supplément au diplôme " afin d'assurer la lisibilité des diplômes dans le cadre de la mobilité internationale.
 
 ###### Article D123-14
 
 Pour la mise en oeuvre de l'article D. 123-13, la politique nationale a pour objectifs :
 
-- D'organiser l'offre de formation sous la forme de parcours types de formation préparant à l'ensemble des diplômes nationaux ;
+a) D'organiser l'offre de formation sous la forme de parcours types de formation préparant à l'ensemble des diplômes nationaux ;
 
-- D'intégrer, en tant que de besoin, des approches pluridisciplinaires et de faciliter l'amélioration de la qualité pédagogique, de l'information, de l'orientation et de l'accompagnement de l'étudiant ;
+b) D'intégrer, en tant que de besoin, des approches pluridisciplinaires et de faciliter l'amélioration de la qualité pédagogique, de l'information, de l'orientation et de l'accompagnement de l'étudiant ;
 
-- De développer la professionnalisation des études supérieures, de répondre aux besoins de formation continue diplomante et de favoriser la validation des acquis de l'expérience, en relation avec les milieux économiques et sociaux ;
+c) De développer la professionnalisation des études supérieures, de répondre aux besoins de formation continue diplomante et de favoriser la validation des acquis de l'expérience, en relation avec les milieux économiques et sociaux ;
 
-- D'encourager la mobilité, d'accroître l'attractivité des formations françaises à l'étranger et permettre la prise en compte et la validation des périodes de formation, notamment à l'étranger ;
+d) D'encourager la mobilité, d'accroître l'attractivité des formations françaises à l'étranger et permettre la prise en compte et la validation des périodes de formation, notamment à l'étranger ;
 
-- D'intégrer l'apprentissage de compétences transversales telles que la maîtrise des langues vivantes étrangères et celle des outils informatiques ;
+e) D'intégrer l'apprentissage de compétences transversales telles que la maîtrise des langues vivantes étrangères et celle des outils informatiques ;
 
-- De faciliter la création d'enseignements par des méthodes faisant appel aux technologies de l'information et de la communication et au développement de l'enseignement à distance.
+f) De faciliter la création d'enseignements par des méthodes faisant appel aux technologies de l'information et de la communication et au développement de l'enseignement à distance.
 
 ##### Section 4 : Mission de coopération internationale
 
@@ -11574,9 +11635,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Tout personnel enseignant ou tout directeur d'un établissement d'enseignement privé qui, malgré un avertissement écrit du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou de son délégué, ne s'est pas conformé aux dispositions des articles R. 131-2 à R. 131-9 est, à la diligence du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, déféré au conseil académique de l'éducation nationale qui peut prononcer les peines suivantes :
 
-- Le blâme avec ou sans publicité ;
+a) Le blâme avec ou sans publicité ;
 
-- En cas de récidive dans l'année scolaire, l'interdiction d'exercer sa profession soit temporairement soit définitivement.
+b) En cas de récidive dans l'année scolaire, l'interdiction d'exercer sa profession soit temporairement soit définitivement.
 
 ###### Sous-section 2 : Sanctions pénales.
 
@@ -11834,23 +11895,23 @@ En application de l'article L. 211-4, la liste des établissements d'enseignemen
 
 - 1° Pour les établissements relevant du ministère de l'agriculture :
 
-- Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
+a) Centre d'enseignement zootechnique de Rambouillet (Yvelines) ;
 
-(Abrogé) ;
+b) (Abrogé) ;
 
-(Abrogé).
+c) (Abrogé).
 
 - 2° Pour les établissements relevant du ministère de l'éducation nationale :
 
-(supprimé) ;
+a) (supprimé) ;
 
-- Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye (Yvelines) ;
+b) Lycée d'Etat d'Hennemont à sections internationales de Saint-Germain-en-Laye (Yvelines) ;
 
-- Collège et lycée d'Etat à sections internationales de Ferney-Voltaire (Ain) ;
+c) Collège et lycée d'Etat à sections internationales de Ferney-Voltaire (Ain) ;
 
-- Lycée d'Etat franco-allemand de Buc (Yvelines) ;
+d) Lycée d'Etat franco-allemand de Buc (Yvelines) ;
 
-- Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ;
+e) Collège et lycée à sections internationales de Sèvres (Hauts-de-Seine) ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -11858,19 +11919,19 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 390]]
 
-- Collège et lycée à sections internationales des Pontonniers de Strasbourg (Bas-Rhin) ;
+f) Collège et lycée à sections internationales des Pontonniers de Strasbourg (Bas-Rhin) ;
 
-- Lycée d'Etat Jean Zay internat d'excellence ;
+g) Lycée d'Etat Jean Zay internat d'excellence ;
 
-- Collège et lycée d'Etat à sections internationales de Valbonne (Alpes-Maritimes) ;
+h) Collège et lycée d'Etat à sections internationales de Valbonne (Alpes-Maritimes) ;
 
-- Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
+i) Collège et lycée d'Etat de Font-Romeu (Pyrénées-Orientales) ;
 
-- Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ;
+j) Lycée polyvalent d'Etat et lycée professionnel de Saint-Pierre-et-Miquelon ;
 
-- Lycée-collège d'Etat de Sourdun ;
+k) Lycée-collège d'Etat de Sourdun ;
 
-- Internat d'excellence de Montpellier.
+l) Internat d'excellence de Montpellier.
 
 ###### Article D211-13
 
@@ -11918,31 +11979,31 @@ Les dépenses pédagogiques mentionnées aux articles L. 211-8, L. 213-2 et L. 2
 
 - 1° Pour les collèges, les lycées et les établissements d'éducation spéciale :
 
-- Matériels informatiques, ainsi que leurs logiciels d'accompagnement, systèmes de développement, matériels périphériques, notamment audiovisuels ;
+a) Matériels informatiques, ainsi que leurs logiciels d'accompagnement, systèmes de développement, matériels périphériques, notamment audiovisuels ;
 
-- Matériels de bureautique et de productique ;
+b) Matériels de bureautique et de productique ;
 
-- Equipements spécialisés en électronique du domaine de cette filière ;
+c) Equipements spécialisés en électronique du domaine de cette filière ;
 
-- Equipements technologiques de communication télématique ou audiovisuelle ;
+d) Equipements technologiques de communication télématique ou audiovisuelle ;
 
-- Equipement des ateliers pour l'enseignement de la technologie dans les collèges ;
+e) Equipement des ateliers pour l'enseignement de la technologie dans les collèges ;
 
-- Equipements spécialisés dans les technologies de pointe.
+f) Equipements spécialisés dans les technologies de pointe.
 
 - 2° Pour les établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime :
 
-- Technologies nouvelles : informatique pédagogique ; matériel audiovisuel ;
+a) Technologies nouvelles : informatique pédagogique ; matériel audiovisuel ;
 
-- Equipements expérimentaux dans les exploitations et les ateliers technologiques.
+b) Equipements expérimentaux dans les exploitations et les ateliers technologiques.
 
 - 3° Pour les lycées professionnels maritimes :
 
-- Matériels informatiques destinés à l'assistance, à l'enseignement ainsi que leurs logiciels d'accompagnement, systèmes de développement et matériels périphériques, notamment audiovisuels ;
+a) Matériels informatiques destinés à l'assistance, à l'enseignement ainsi que leurs logiciels d'accompagnement, systèmes de développement et matériels périphériques, notamment audiovisuels ;
 
-- Equipements et simulation destinés à la formation ;
+b) Equipements et simulation destinés à la formation ;
 
-- Equipements spécialisés dans les technologies de pointe.
+c) Equipements spécialisés dans les technologies de pointe.
 
 ###### Article D211-15
 
@@ -11956,27 +12017,27 @@ Les dépenses pédagogiques mentionnées aux articles L. 211-8, L. 213-2 et L. 2
 
 - 1° Pour les collèges, les lycées, les établissements d'éducation spéciale et les lycées professionnels maritimes :
 
-- A la fourniture des manuels scolaires dans les collèges et les établissements d'éducation spéciale et des documents pédagogiques à usage collectif dans les lycées professionnels ainsi que pour les formations initiales des lycées professionnels maritimes, au titre de l'aide apportée aux familles ;
+a) A la fourniture des manuels scolaires dans les collèges et les établissements d'éducation spéciale et des documents pédagogiques à usage collectif dans les lycées professionnels ainsi que pour les formations initiales des lycées professionnels maritimes, au titre de l'aide apportée aux familles ;
 
-- Aux projets d'action éducative ;
+b) Aux projets d'action éducative ;
 
-- A la recherche et à l'expérimentation pédagogiques ;
+c) A la recherche et à l'expérimentation pédagogiques ;
 
-- A la maintenance des matériels acquis par l'Etat en application de l'article D. 211-14.
+d) A la maintenance des matériels acquis par l'Etat en application de l'article D. 211-14.
 
 - 2° Pour les établissements d'enseignement agricole mentionnés à l'article L. 811-8 du code rural et de la pêche maritime :
 
-- A l'affectation de véhicules de transports en commun ;
+a) A l'affectation de véhicules de transports en commun ;
 
-- A la fourniture des manuels scolaires et de documentations pédagogiques à usage collectif au titre de l'aide apportée aux familles ;
+b) A la fourniture des manuels scolaires et de documentations pédagogiques à usage collectif au titre de l'aide apportée aux familles ;
 
-- A la fourniture de logiciels et de productions audiovisuelles destinés à la pédagogie ;
+c) A la fourniture de logiciels et de productions audiovisuelles destinés à la pédagogie ;
 
-- Aux projets d'établissement ou d'actions d'animation relevant d'un programme national ;
+d) Aux projets d'établissement ou d'actions d'animation relevant d'un programme national ;
 
-- A la recherche et à l'expérimentation pédagogiques ;
+e) A la recherche et à l'expérimentation pédagogiques ;
 
-- A la maintenance des matériels acquis par l'Etat en application de l'article D. 211-14.
+f) A la maintenance des matériels acquis par l'Etat en application de l'article D. 211-14.
 
 ###### Article D211-16
 
@@ -12010,11 +12071,11 @@ Le logement convenable doit répondre aux normes minimales d'habitabilité prév
 
 Sont compris au nombre des personnes occupant le logement :
 
-- L'instituteur ;
+a) L'instituteur ;
 
-- Son conjoint ou, dans le cas où l'agent vit en concubinage dans les conditions définies par l'article 515-8 du code civil, son concubin ou la personne liée par un pacte civil de solidarité, conformément aux articles 515-1 à 515-7 du même code ;
+b) Son conjoint ou, dans le cas où l'agent vit en concubinage dans les conditions définies par l'article 515-8 du code civil, son concubin ou la personne liée par un pacte civil de solidarité, conformément aux articles 515-1 à 515-7 du même code ;
 
-- Les enfants à charge.
+c) Les enfants à charge.
 
 ###### Article D212-5
 
@@ -12040,21 +12101,21 @@ Les instituteurs non logés perçoivent l'indemnité représentative de logement
 
 - 1° De la commune où se situe l'école :
 
-- Quand ils occupent l'emploi de directeur d'école ou sont chargés des fonctions de directeur d'école ;
+a) Quand ils occupent l'emploi de directeur d'école ou sont chargés des fonctions de directeur d'école ;
 
-- Quand ils sont chargés des classes des écoles ;
+b) Quand ils sont chargés des classes des écoles ;
 
-- Quand ils exercent dans les écoles annexes aux instituts universitaires de formation des maîtres ;
+c) Quand ils exercent dans les écoles annexes aux instituts universitaires de formation des maîtres ;
 
 - 2° De la commune où se situe leur résidence administrative :
 
-- Quand ils sont chargés des remplacements dans les classes des écoles ;
+a) Quand ils sont chargés des remplacements dans les classes des écoles ;
 
-- Quand ils assurent des fonctions d'aide psychopédagogique auprès des élèves des écoles ;
+b) Quand ils assurent des fonctions d'aide psychopédagogique auprès des élèves des écoles ;
 
-- Quand ils sont chargés de la formation pédagogique dans les écoles ;
+c) Quand ils sont chargés de la formation pédagogique dans les écoles ;
 
-- Quand ils ont un service complet partagé entre plusieurs écoles d'une commune ou entre
+d) Quand ils ont un service complet partagé entre plusieurs écoles d'une commune ou entre
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -12140,9 +12201,9 @@ La commune de résidence est tenue de participer financièrement à la scolarisa
 
 - 3° Frère ou soeur de l'enfant inscrit la même année scolaire dans une école maternelle, une classe enfantine ou une école élémentaire publique de la commune d'accueil, lorsque l'inscription du frère ou de la soeur dans cette commune est justifiée :
 
-- Par l'un des cas mentionnés au 1° ou au 2° ci-dessus ;
+a) Par l'un des cas mentionnés au 1° ou au 2° ci-dessus ;
 
-- Par l'absence de capacité d'accueil dans la commune de résidence ;
+b) Par l'absence de capacité d'accueil dans la commune de résidence ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -12150,7 +12211,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 398]]
 
-- Par l'application des dispositions du dernier alinéa de l'article L. 212-8.
+c) Par l'application des dispositions du dernier alinéa de l'article L. 212-8.
 
 ###### Article R212-22
 
@@ -12174,9 +12235,9 @@ Dans le cas où le montant des subventions accordées par les collectivités pub
 
 Le comité de la caisse comprend pour les caisses des écoles autres que celles qui sont mentionnées aux articles R. 212-27 et R. 212-28 :
 
-- Le maire, président ;
+a) Le maire, président ;
 
-- L'inspecteur de l'éducation nationale chargé de la circonscription ou son représentant ;
+b) L'inspecteur de l'éducation nationale chargé de la circonscription ou son représentant ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -12184,11 +12245,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 399]]
 
-- Un membre désigné par le préfet ;
+c) Un membre désigné par le préfet ;
 
-- Deux conseillers municipaux désignés par le conseil municipal ;
+d) Deux conseillers municipaux désignés par le conseil municipal ;
 
-- Trois membres élus par les sociétaires réunis en assemblée générale ou par correspondance s'ils sont empêchés.
+e) Trois membres élus par les sociétaires réunis en assemblée générale ou par correspondance s'ils sont empêchés.
 
 Le conseil municipal peut, par délibération motivée, porter le nombre de ses représentants à un chiffre plus élevé, sans toutefois excéder le tiers des membres de l'assemblée municipale. Dans ce cas, les sociétaires peuvent désigner autant de représentants supplémentaires que le conseil municipal en désigne en plus de l'effectif normal.
 
@@ -12196,11 +12257,11 @@ Le conseil municipal peut, par délibération motivée, porter le nombre de ses 
 
 A Paris et dans les arrondissements ou groupes d'arrondissements de Lyon et Marseille où est instituée une caisse des écoles, le comité de la caisse comprend, dans chaque arrondissement ou groupe d'arrondissements :
 
-- Des représentants de la commune ;
+a) Des représentants de la commune ;
 
-- Des membres élus par les sociétaires dans les conditions prévues à l'article R. 212-29 ;
+b) Des membres élus par les sociétaires dans les conditions prévues à l'article R. 212-29 ;
 
-- Des membres de droit et des personnalités désignées.
+c) Des membres de droit et des personnalités désignées.
 
 Le nombre des membres de chacune des trois catégories prévues ci-dessus est égal au tiers du nombre des membres du conseil d'arrondissement sans pouvoir excéder douze. Lorsque ce tiers n'est pas un nombre entier, le nombre des membres est porté au nombre entier supérieur.
 
@@ -12220,11 +12281,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Pour les caisses des écoles des communes associées mentionnées aux articles L. 2113-14 et L. 2113-17 à L. 2113-20 du code général des collectivités territoriales, dans leur rédaction antérieure à la loi n° 2010-1563 du 16 décembre 2010 de réforme des collectivités territoriales, et des autres communes associées où le conseil municipal a décidé de faire application des articles L. 2113-26, dans sa rédaction antérieure à la même loi, et L. 2511-29 du même code, ou des communes déléguées mentionnées à l'article L. 2113-10 du même code, dans sa rédaction issue de la même loi, le comité de la caisse comprend, dans chacune de ces communes associées ou déléguées :
 
-- Des représentants de la commune ;
+a) Des représentants de la commune ;
 
-- Des membres élus par les sociétaires dans les conditions prévues à l'article R. 212-29 ;
+b) Des membres élus par les sociétaires dans les conditions prévues à l'article R. 212-29 ;
 
-- Des membres de droit et des personnalités désignées.
+c) Des membres de droit et des personnalités désignées.
 
 Le nombre des membres de chacune des trois catégories prévues ci-dessus est égal au tiers du nombre des membres du conseil consultatif ou de la commission consultative sans toutefois pourvoir excéder dix. Lorsque ce tiers n'est pas un nombre entier, le nombre des membres est porté au nombre entier supérieur.
 
@@ -12414,13 +12475,14 @@ Lorsqu'une demande d'arbitrage lui est présentée, le préfet transmet le dossi
 
 Si les parties peuvent être conciliées, le conseiller désigné en informe le préfet.
 
-A défaut d'accord, et au plus tard dans un délai de quarante-cinq jours à compter de la transmission du dossier, le conseiller adresse au préfet ses propositions accompagnées des observations des parties. Le préfet fixe alors, par arrêté, les conditions de financement des services de transports scolaires concernés.
+A défaut d'accord, et au plus tard dans un délai de quarante-cinq jours à compter de la transmission du dossier, le conseiller adresse au préfet ses propositions accompagnées des observations des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 405]]
 
 [[START OF PAGE 406]]
+parties. Le préfet fixe alors, par arrêté, les conditions de financement des services de transports scolaires concernés.
 
 ###### Paragraphe 2 : Le financement des frais de déplacement des élèves et étudiants handicapés.
 
@@ -12522,9 +12584,9 @@ L'harmonisation géographique des temps scolaires étant un facteur déterminant
 
 - 3° Par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, sur :
 
-- Les projets de création ou de suppression d'écoles, de regroupements pédagogiques intercommunaux ou d'établissements du second degré ;
+a) Les projets de création ou de suppression d'écoles, de regroupements pédagogiques intercommunaux ou d'établissements du second degré ;
 
-- Les projets d'aménagement du temps scolaire ou de modification des horaires d'entrée et de sortie des écoles maternelles et élémentaires ;
+b) Les projets d'aménagement du temps scolaire ou de modification des horaires d'entrée et de sortie des écoles maternelles et élémentaires ;
 
 - 4° Par les chefs d'établissement, sur les projets d'aménagement du temps scolaire relevant de l'autonomie de l'établissement public local d'enseignement qui ont une incidence sur l'organisation des transports scolaires.
 
@@ -12800,13 +12862,14 @@ Sur le rapport du chef d'établissement, le conseil d'administration propose les
 
 Le chef d'établissement, avant de transmettre les propositions du conseil d'administration à la collectivité de rattachement en vue d'attribuer les logements soit par voie de concession, soit par voie de convention d'occupation précaire, recueille l'avis du service des domaines sur leur nature et leurs conditions financières. Il soumet ensuite ces propositions, assorties de l'avis du service des domaines, à la collectivité de rattachement et en informe l'autorité académique ou l'autorité en tenant lieu.
 
-La collectivité de rattachement délibère sur ces propositions. Le président du conseil régional, le président du conseil général, le maire ou le président du groupement de communes compétent accorde, par arrêté, les concessions de logement telles qu'elles ont été fixées par la délibération de la collectivité de rattachement. Il signe également les conventions d'occupation précaire.
+La collectivité de rattachement délibère sur ces propositions. Le président du conseil régional, le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 418]]
 
 [[START OF PAGE 419]]
+président du conseil général, le maire ou le président du groupement de communes compétent accorde, par arrêté, les concessions de logement telles qu'elles ont été fixées par la délibération de la collectivité de rattachement. Il signe également les conventions d'occupation précaire.
 
 Toute modification dans la nature ou la consistance d'une concession fait l'objet d'un arrêté pris dans les mêmes conditions.
 
@@ -13028,13 +13091,15 @@ Les titulaires d'un doctorat acquis sous le régime antérieur au décret n° 73
 
 ###### Article R*222-15
 
-Les recteurs d'académie qui bénéficient d'un recul de la limite d'âge en vertu des textes applicables à l'ensemble des fonctionnaires de l'Etat continuent d'exercer, jusqu'à ce qu'ils atteignent cette limite, les fonctions de directeur et de président du conseil d'administration des établissements publics qui leur sont conférées par les textes régissant ces établissements.
+Les recteurs d'académie qui bénéficient d'un recul de la limite d'âge en vertu des textes applicables à l'ensemble des fonctionnaires de l'Etat continuent d'exercer, jusqu'à ce qu'ils atteignent cette limite, les fonctions de directeur et de président du conseil d'administration des établissements publics qui
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 425]]
 
 [[START OF PAGE 426]]
+
+leur sont conférées par les textes régissant ces établissements.
 
 ###### Article R*222-17
 
@@ -13098,9 +13163,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 428]]
 
-- Aux directeurs académiques adjoints des services de l'éducation nationale, à l'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche chargé des fonctions de secrétaire général du service départemental de l'éducation nationale ou au chef des services administratifs de ce même service ;
+- a) Aux directeurs académiques adjoints des services de l'éducation nationale, à l'administrateur de l'éducation nationale, de l'enseignement supérieur et de la recherche chargé des fonctions de secrétaire général du service départemental de l'éducation nationale ou au chef des services administratifs de ce même service ;
 
-- Aux inspecteurs de l'éducation nationale qui sont leurs adjoints.
+- b) Aux inspecteurs de l'éducation nationale qui sont leurs adjoints.
 
 Les délégations mentionnées aux alinéas précédents fixent les actes pour lesquels elles ont été accordées. Elles entrent en vigueur le lendemain du jour de leur publication au recueil des actes administratifs de la préfecture de région, pour ce qui concerne les délégations consenties par le recteur, ou de la préfecture de département, pour ce qui concerne les délégations consenties par le directeur académique des services de l'éducation nationale, et peuvent être abrogées à tout moment. Elles prennent fin en même temps que les fonctions de celui qui les a données ou en même temps que les fonctions de celui qui les a reçues.
 
@@ -13162,9 +13227,9 @@ Ils sont assistés par les directeurs académiques adjoints des services de l'é
 
 ###### Article R222-24-1
 
-Le directeur académique des services de l'éducation nationale, agissant par délégation du recteur d'académie dans les conditions prévues à l'article R. 222-19-3, est l'autorité compétente de l'Etat en matière d'éducation pour l'application des articles L. 131-5 à L. 131-10, L. 351-3, L. 441-2 et L. 441-3, L. 441-7, L. 442-2 et L. 731-3 du code de l'éducation ainsi que des articles 227-17-1 du code pénal, L. 811-10 du code rural et de la pêche maritime, L. 552-3-1 du code de la sécurité sociale et L. 141-2 et L. 222-4-1 du code de l'action sociale et des familles.
+I. ― Le directeur académique des services de l'éducation nationale, agissant par délégation du recteur d'académie dans les conditions prévues à l'article R. 222-19-3, est l'autorité compétente de l'Etat en matière d'éducation pour l'application des articles L. 131-5 à L. 131-10, L. 351-3, L. 441-2 et L. 441-3, L. 441-7, L. 442-2 et L. 731-3 du code de l'éducation ainsi que des articles 227-17-1 du code pénal, L. 811-10 du code rural et de la pêche maritime, L. 552-3-1 du code de la sécurité sociale et L. 141-2 et L. 222-4-1 du code de l'action sociale et des familles.
 
-Pour l'application de l'article L. 914-6 du code de l'éducation, l'autorité compétente en matière d'éducation est le recteur d'académie ou le directeur académique des services de l'éducation nationale, agissant par délégation du recteur.
+II. ― Pour l'application de l'article L. 914-6 du code de l'éducation, l'autorité compétente en matière d'éducation est le recteur d'académie ou le directeur académique des services de l'éducation nationale, agissant par délégation du recteur.
 
 ##### Section 3 : Compétences
 
@@ -13240,9 +13305,9 @@ Le secrétaire général de l'académie peut recevoir délégation du recteur à
 
 Sont prises par le recteur d'académie :
 
-- Les décisions de règlement amiable des demandes d'indemnité mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence des services déconcentrés et portant sur un montant inférieur à 10 000 euros ;
+- a) Les décisions de règlement amiable des demandes d'indemnité mettant en cause la responsabilité de l'Etat, pour les litiges relevant de la compétence des services déconcentrés et portant sur un montant inférieur à 10 000 euros ;
 
-- Les décisions à caractère financier prises pour l'exécution des décisions de justice portant sur les litiges mettant en cause la responsabilité des services déconcentrés.
+- b) Les décisions à caractère financier prises pour l'exécution des décisions de justice portant sur les litiges mettant en cause la responsabilité des services déconcentrés.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -13380,19 +13445,19 @@ Il se compose de quatre-vingt-dix-sept membres répartis de la manière suivante
 
 - 1° Quarante-huit membres représentant les enseignants, les enseignants-chercheurs et les autres personnels de l'enseignement public ainsi que les établissements d'enseignement privés et leurs personnels, à savoir :
 
-- Vingt membres représentant les personnels enseignants titulaires et auxiliaires de l'enseignement public des premier et second degrés ;
+- a) Vingt membres représentant les personnels enseignants titulaires et auxiliaires de l'enseignement public des premier et second degrés ;
 
-- Trois membres représentant les directeurs de centre d'information et d'orientation, les conseillers d'orientation-psychologues, les conseillers principaux d'éducation, les maîtres d'internat , les surveillants d'externat et les assistants d'éducation ;
+- b) Trois membres représentant les directeurs de centre d'information et d'orientation, les conseillers d'orientation-psychologues, les conseillers principaux d'éducation, les maîtres d'internat , les surveillants d'externat et les assistants d'éducation ;
 
-- Cinq membres représentant les enseignants-chercheurs élus par les représentants des mêmes catégories au Conseil national de l'enseignement supérieur et de la recherche ;
+- c) Cinq membres représentant les enseignants-chercheurs élus par les représentants des mêmes catégories au Conseil national de l'enseignement supérieur et de la recherche ;
 
-- Deux membres représentant les chefs des établissements d'enseignement public ;
+- d) Deux membres représentant les chefs des établissements d'enseignement public ;
 
-- Deux membres représentant les corps d'inspection exerçant au niveau départemental ou académique ;
+- e) Deux membres représentant les corps d'inspection exerçant au niveau départemental ou académique ;
 
-- Neuf membres représentant les personnels administratifs, techniques, ouvriers, de service et de santé relevant du ministère de l'éducation nationale ;
+- f) Neuf membres représentant les personnels administratifs, techniques, ouvriers, de service et de santé relevant du ministère de l'éducation nationale ;
 
-- Sept membres représentant les établissements d'enseignement privés et leurs personnels, à savoir :
+- g) Sept membres représentant les établissements d'enseignement privés et leurs personnels, à savoir :
 
 - ga) Deux membres représentant les chefs d'établissement secondaire ou technique privé sous contrat ;
 
@@ -13412,19 +13477,19 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - 2° Dix-neuf membres représentant les usagers, à savoir :
 
-- Neuf membres représentant les parents d'élèves de l'enseignement public, proposés par les associations de parents d'élèves de l'enseignement public ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système de la plus forte moyenne, proportionnellement aux résultats des élections aux conseils d'administration et aux conseils d'école ;
+- a) Neuf membres représentant les parents d'élèves de l'enseignement public, proposés par les associations de parents d'élèves de l'enseignement public ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système de la plus forte moyenne, proportionnellement aux résultats des élections aux conseils d'administration et aux conseils d'école ;
 
-- Trois membres représentant les parents d'élèves des établissements d'enseignement privés, proposés par les associations de parents d'élèves des établissements d'enseignement privés, choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
+- b) Trois membres représentant les parents d'élèves des établissements d'enseignement privés, proposés par les associations de parents d'élèves des établissements d'enseignement privés, choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
-- Trois membres représentant les étudiants, proposés par les associations d'étudiants ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système du plus fort reste, proportionnellement aux résultats des élections au Conseil national de l'enseignement supérieur et de la recherche ;
+- c) Trois membres représentant les étudiants, proposés par les associations d'étudiants ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système du plus fort reste, proportionnellement aux résultats des élections au Conseil national de l'enseignement supérieur et de la recherche ;
 
-- Un membre représentant les associations familiales, proposé par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
+- d) Un membre représentant les associations familiales, proposé par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
-- Trois membres représentant les élèves des lycées et les élèves des établissements régionaux d'enseignement adapté fréquentant les classes des niveaux correspondant à ceux des lycées, élus en leur sein par les représentants des délégués des élèves des lycées et des établissements régionaux d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne.L'élection a lieu par correspondance ; la répartition des sièges s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
+- e) Trois membres représentant les élèves des lycées et les élèves des établissements régionaux d'enseignement adapté fréquentant les classes des niveaux correspondant à ceux des lycées, élus en leur sein par les représentants des délégués des élèves des lycées et des établissements régionaux d'enseignement adapté siégeant dans les conseils académiques de la vie lycéenne.L'élection a lieu par correspondance ; la répartition des sièges s'effectue selon les systèmes du scrutin majoritaire plurinominal à un tour.
 
 - 3° Trente membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
-- Douze membres représentant les élus des collectivités territoriales, à savoir :
+- a) Douze membres représentant les élus des collectivités territoriales, à savoir :
 
 - aa) Quatre conseillers régionaux, désignés par les présidents de conseils régionaux ;
 
@@ -13432,9 +13497,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - ac) Quatre maires, désignés par l'Association des maires de France ;
 
-- Deux membres représentant les associations périscolaires, proposés par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
+- b) Deux membres représentant les associations périscolaires, proposés par lesdites associations choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
-- Seize membres représentant les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
+- c) Seize membres représentant les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -13480,17 +13545,17 @@ Le Conseil supérieur de l'éducation comprend une section permanente, composée
 
 - 1° Vingt-quatre membres représentant les enseignants, les enseignants-chercheurs et les autres personnels de l'enseignement public ainsi que les établissements d'enseignement privés et leurs personnels, à savoir :
 
-- Vingt et un membres représentant le personnel des établissements d'enseignement public élus par les représentants des catégories mentionnées au 1° (a, b, c, d, e et f) de l'article R. 231-2 ;
+- a) Vingt et un membres représentant le personnel des établissements d'enseignement public élus par les représentants des catégories mentionnées au 1° (a, b, c, d, e et f) de l'article R. 231-2 ;
 
-- Trois membres représentant les établissements d'enseignement privés et leurs personnels, élus par les membres mentionnés au 1° (g) de l'article R. 231-2 ;
+- b) Trois membres représentant les établissements d'enseignement privés et leurs personnels, élus par les membres mentionnés au 1° (g) de l'article R. 231-2 ;
 
 - 2° Dix membres représentant les usagers, élus par les membres mentionnés au 2° de l'article R. 231-2 ;
 
 - 3° Quinze membres représentant les collectivités territoriales, les associations périscolaires et les grands intérêts culturels, éducatifs, sociaux et économiques, à savoir :
 
-- Six membres élus par les membres cités au 3° (a) de l'article R. 231-2 ;
+- a) Six membres élus par les membres cités au 3° (a) de l'article R. 231-2 ;
 
-- Neuf membres représentant les associations périscolaires, les grands intérêts culturels, éducatifs, sociaux et économiques élus par les membres mentionnés au 3° (b) et (c) de l'article R. 231-2.
+- b) Neuf membres représentant les associations périscolaires, les grands intérêts culturels, éducatifs, sociaux et économiques élus par les membres mentionnés au 3° (b) et (c) de l'article R. 231-2.
 
 Chaque siège est occupé par un membre titulaire et deux membres suppléants. Les membres titulaires de la section permanente sont élus parmi les membres titulaires. Les membres suppléants sont élus parmi les membres titulaires ou suppléants du conseil.
 
@@ -13508,11 +13573,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Il est créé trois commissions spécialisées qui préparent les avis du conseil sur les textes concernant les programmes, les horaires et l'organisation des enseignements :
 
-- Une commission des écoles ;
+- a) Une commission des écoles ;
 
-- Une commission des collèges ;
+- b) Une commission des collèges ;
 
-- Une commission des lycées.
+- c) Une commission des lycées.
 
 ###### Article R231-6
 
@@ -13904,9 +13969,9 @@ Elles comprennent en outre :
 
 - 2° Deux personnalités choisies respectivement :
 
-- L'une parmi les membres d'une association représentant les établissements d'enseignement supérieur délivrant un diplôme conférant au moins le grade de master, autre que les conférences mentionnées au I de l'article D. 232-3 ;
+- a) L'une parmi les membres d'une association représentant les établissements d'enseignement supérieur délivrant un diplôme conférant au moins le grade de master, autre que les conférences mentionnées au I de l'article D. 232-3 ;
 
-- L'autre parmi les chefs des établissements d'enseignement public du second degré dispensant des formations d'enseignement supérieur appartenant à l'organisation syndicale la plus représentative aux élections professionnelles.
+- b) L'autre parmi les chefs des établissements d'enseignement public du second degré dispensant des formations d'enseignement supérieur appartenant à l'organisation syndicale la plus représentative aux élections professionnelles.
 
 Pour chacune d'elles, un suppléant est désigné dans les mêmes conditions.
 
@@ -14012,15 +14077,15 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 457]]
 
-- Trois représentants des responsables des établissements publics à caractère scientifique, culturel et professionnel à raison de deux représentants pour la conférence des présidents d'universités et d'un représentant pour la conférence des directeurs des écoles françaises d'ingénieurs désignés par leurs conférences respectives ;
+- a) Trois représentants des responsables des établissements publics à caractère scientifique, culturel et professionnel à raison de deux représentants pour la conférence des présidents d'universités et d'un représentant pour la conférence des directeurs des écoles françaises d'ingénieurs désignés par leurs conférences respectives ;
 
-- Quatre représentants des professeurs, personnels de niveau équivalent et personnels assimilés ;
+- b) Quatre représentants des professeurs, personnels de niveau équivalent et personnels assimilés ;
 
-- Quatre représentants des autres enseignants-chercheurs, enseignants et chercheurs ;
+- c) Quatre représentants des autres enseignants-chercheurs, enseignants et chercheurs ;
 
-- Deux représentants des personnels administratifs, techniques, ouvriers et de service et du corps scientifique des bibliothèques ;
+- d) Deux représentants des personnels administratifs, techniques, ouvriers et de service et du corps scientifique des bibliothèques ;
 
-- Quatre représentants des étudiants ;
+- e) Quatre représentants des étudiants ;
 
 - 2° Six représentants des grands intérêts nationaux.
 
@@ -14466,13 +14531,13 @@ Outre les présidents et les vice-présidents, les conseils comprennent :
 
 - 2° Vingt-quatre membres représentant les personnels titulaires de l'Etat exerçant leurs fonctions dans les services administratifs et les établissements d'enseignement et de formation du premier et du second degré ainsi que les établissements publics d'enseignement supérieur :
 
-- Quinze représentants des personnels des services administratifs et des établissements scolaires dont un représentant au moins des personnels enseignants exerçant ses fonctions dans les classes postbaccalauréat des lycées ;
+- a) Quinze représentants des personnels des services administratifs et des établissements scolaires dont un représentant au moins des personnels enseignants exerçant ses fonctions dans les classes postbaccalauréat des lycées ;
 
-- Quatre représentants des personnels des établissements publics d'enseignement supérieur ;
+- b) Quatre représentants des personnels des établissements publics d'enseignement supérieur ;
 
-- Trois représentants des présidents d'université et directeurs d'établissements publics d'enseignement supérieur ;
+- c) Trois représentants des présidents d'université et directeurs d'établissements publics d'enseignement supérieur ;
 
-- Deux représentants des établissements d'enseignement et de formation agricole siégeant au comité régional de l'enseignement agricole ;
+- d) Deux représentants des établissements d'enseignement et de formation agricole siégeant au comité régional de l'enseignement agricole ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -14582,19 +14647,21 @@ La section comprend, outre son président :
 
 - 3° Cinq membres représentant les activités économiques, de formation et de recherche :
 
-- Deux représentants des organismes nationaux de recherche, dont un représentant du Centre national de la recherche scientifique ;
+- a) Deux représentants des organismes nationaux de recherche, dont un représentant du Centre national de la recherche scientifique ;
 
-- Un représentant des directeurs d'établissements publics d'enseignement supérieur agricole ou vétérinaire ou un représentant d'un organisme national de recherche relevant du ministre chargé de l'agriculture ;
+- b) Un représentant des directeurs d'établissements publics d'enseignement supérieur agricole ou vétérinaire ou un représentant d'un organisme national de recherche relevant du ministre chargé de l'agriculture ;
 
-- Deux personnalités choisies en raison de leurs compétences.
+- c) Deux personnalités choisies en raison de leurs compétences.
 
-Ces cinq membres sont nommés par le préfet de région, sur proposition respectivement du recteur pour les personnalités choisies en raison de leurs compétences et du délégué régional à la recherche et à la technologie pour les représentants des organismes nationaux de recherche.
+Ces cinq membres sont nommés par le préfet de région, sur proposition respectivement du recteur
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 475]]
 
 [[START OF PAGE 476]]
+
+pour les personnalités choisies en raison de leurs compétences et du délégué régional à la recherche et à la technologie pour les représentants des organismes nationaux de recherche.
 
 ###### Article R234-13
 
@@ -14610,17 +14677,17 @@ La section maritime du conseil est composée ainsi qu'il suit :
 
 - 1° Huit membres choisis parmi les membres visés à l'article R. 234-2 :
 
-- Quatre membres représentants des communes, des départements et de la région désignés par les membres du conseil appartenant à cette catégorie ;
+- a) Quatre membres représentants des communes, des départements et de la région désignés par les membres du conseil appartenant à cette catégorie ;
 
-- Deux membres représentant les personnels nommés par le préfet de région sur proposition des organisations syndicales les plus représentatives dans la région transmise par le directeur interrégional de la mer ;
+- b) Deux membres représentant les personnels nommés par le préfet de région sur proposition des organisations syndicales les plus représentatives dans la région transmise par le directeur interrégional de la mer ;
 
-- Deux membres représentants des usagers, dont un représentant des parents d'élèves nommés par le préfet sur proposition du directeur interrégional de la mer et le président du comité économique et social de la région ;
+- c) Deux membres représentants des usagers, dont un représentant des parents d'élèves nommés par le préfet sur proposition du directeur interrégional de la mer et le président du comité économique et social de la région ;
 
 - 2° Huit représentants du secteur maritime :
 
-- Trois membres représentant les personnels des lycées professionnels maritimes et, s'il y a lieu, les personnels des écoles nationales de la marine marchande nommés par le préfet de région sur proposition des organisations syndicales des personnels les plus représentatives dans la région ou pour les professeurs de l'enseignement maritime sur proposition de l'inspecteur général de l'enseignement maritime ;
+- a) Trois membres représentant les personnels des lycées professionnels maritimes et, s'il y a lieu, les personnels des écoles nationales de la marine marchande nommés par le préfet de région sur proposition des organisations syndicales des personnels les plus représentatives dans la région ou pour les professeurs de l'enseignement maritime sur proposition de l'inspecteur général de l'enseignement maritime ;
 
-- Un représentant des parents d'élèves nommé par le préfet de région sur proposition des
+- b) Un représentant des parents d'élèves nommé par le préfet de région sur proposition des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -14630,9 +14697,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 organisations syndicales de marins les plus représentatives dans la région ou un étudiant sur proposition des organisations représentatives des étudiants des écoles nationales de la marine marchande ;
 
-- Deux représentants des organisations syndicales de marins nommés par le préfet de région sur proposition des organisations syndicales les plus représentatives dans la région ;
+- c) Deux représentants des organisations syndicales de marins nommés par le préfet de région sur proposition des organisations syndicales les plus représentatives dans la région ;
 
-- Deux représentants des organisations d'employeurs nommés par le préfet de région sur proposition des organisations d'employeurs représentatives dans la région.
+- d) Deux représentants des organisations d'employeurs nommés par le préfet de région sur proposition des organisations d'employeurs représentatives dans la région.
 
 Le directeur interrégional de la mer reçoit, à cet effet, les propositions et les transmet au préfet de région.
 
@@ -14680,13 +14747,13 @@ Outre les présidents et les vice-présidents, le conseil interacadémique d'Ile
 
 - 2° Vingt-sept membres représentant les personnels titulaires de l'Etat exerçant leurs fonctions dans les services administratifs et les établissements d'enseignement et de formation du premier et du second degré ainsi que les établissements publics d'enseignement supérieur :
 
-- Quinze représentants des personnels des services administratifs et des établissements scolaires, dont au moins un représentant des personnels enseignants exerçant ses fonctions dans les classes postbaccalauréat des lycées ;
+- a) Quinze représentants des personnels des services administratifs et des établissements scolaires, dont au moins un représentant des personnels enseignants exerçant ses fonctions dans les classes postbaccalauréat des lycées ;
 
-- Six représentants des personnels de l'enseignement supérieur ;
+- b) Six représentants des personnels de l'enseignement supérieur ;
 
-- Quatre représentants des présidents d'université et directeurs d'établissements publics d'enseignement supérieur ;
+- c) Quatre représentants des présidents d'université et directeurs d'établissements publics d'enseignement supérieur ;
 
-- Un représentant des services administratifs et des établissements publics d'enseignement et de formation agricole siégeant au comité régional de l'enseignement agricole ;
+- d) Un représentant des services administratifs et des établissements publics d'enseignement et de formation agricole siégeant au comité régional de l'enseignement agricole ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -14694,7 +14761,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 479]]
 
-- Un représentant des personnels des établissements publics d'enseignement supérieur agricole ou vétérinaire ;
+- e) Un représentant des personnels des établissements publics d'enseignement supérieur agricole ou vétérinaire ;
 
 - 3° Huit parents d'élèves et six étudiants, le président du comité économique et social de la région d'Ile-de-France ou son représentant, six représentants des organisations syndicales de salariés et six représentants des organisations syndicales d'employeurs, dont un représentant des exploitants agricoles.
 
@@ -14702,17 +14769,17 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Les membres du conseil interacadémique d'Ile-de-France sont désignés dans les conditions suivantes :
 
-- Les conseillers régionaux sont désignés par le conseil régional ;
+- a) Les conseillers régionaux sont désignés par le conseil régional ;
 
-- Les conseillers généraux des départements autres que celui de Paris sont désignés par leur conseil général. Les conseillers de Paris sont désignés par le conseil de Paris ;
+- b) Les conseillers généraux des départements autres que celui de Paris sont désignés par leur conseil général. Les conseillers de Paris sont désignés par le conseil de Paris ;
 
-- Les maires ou conseillers municipaux sont désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des maires de l'ensemble des départements situés dans le ressort des trois académies dans les conditions fixées au troisième alinéa du 1° de l'article R. 234-3 ;
+- c) Les maires ou conseillers municipaux sont désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des maires de l'ensemble des départements situés dans le ressort des trois académies dans les conditions fixées au troisième alinéa du 1° de l'article R. 234-3 ;
 
-- Les représentants des personnels sont nommés par le préfet de la région d'Ile-de-France.A cet effet, le recteur de l'académie de Paris reçoit les propositions des organisations syndicales représentatives dans les académies de Paris, de Créteil et de Versailles. Il transmet ces propositions au préfet de la région. Le directeur régional de l'alimentation, de l'agriculture et de la forêt reçoit dans les mêmes conditions les propositions des organisations syndicales représentatives des personnels relevant du ministère de l'agriculture dans la région d'Ile-de-France et les transmet au préfet. Les représentants des présidents d'université et directeurs d'établissement public d'enseignement supérieur sont nommés par le préfet de la région sur proposition du recteur de l'académie de Paris ;
+- d) Les représentants des personnels sont nommés par le préfet de la région d'Ile-de-France.A cet effet, le recteur de l'académie de Paris reçoit les propositions des organisations syndicales représentatives dans les académies de Paris, de Créteil et de Versailles. Il transmet ces propositions au préfet de la région. Le directeur régional de l'alimentation, de l'agriculture et de la forêt reçoit dans les mêmes conditions les propositions des organisations syndicales représentatives des personnels relevant du ministère de l'agriculture dans la région d'Ile-de-France et les transmet au préfet. Les représentants des présidents d'université et directeurs d'établissement public d'enseignement supérieur sont nommés par le préfet de la région sur proposition du recteur de l'académie de Paris ;
 
-- Les représentants des parents d'élèves sont nommés par le préfet de la région d'Ile-de-France : sept au titre des établissements scolaires relevant du ministère de l'éducation nationale et un au titre des établissements scolaires relevant du ministère de l'agriculture.A cet effet, le recteur de l'académie de Paris et le directeur régional de l'alimentation, de l'agriculture et de la forêt reçoivent les propositions des associations de parents d'élèves représentatives dans chacune des trois académies et dans la région d'Ile-de-France et les transmettent au préfet de région. La représentativité des associations de parents d'élèves est appréciée en fonction des voix obtenues aux élections aux instances représentatives des établissements d'enseignement agricole de la région d'd'Ile-de-France ;
+- e) Les représentants des parents d'élèves sont nommés par le préfet de la région d'Ile-de-France : sept au titre des établissements scolaires relevant du ministère de l'éducation nationale et un au titre des établissements scolaires relevant du ministère de l'agriculture.A cet effet, le recteur de l'académie de Paris et le directeur régional de l'alimentation, de l'agriculture et de la forêt reçoivent les propositions des associations de parents d'élèves représentatives dans chacune des trois académies et dans la région d'Ile-de-France et les transmettent au préfet de région. La représentativité des associations de parents d'élèves est appréciée en fonction des voix obtenues aux élections aux instances représentatives des établissements d'enseignement agricole de la région d'd'Ile-de-France ;
 
-- Les représentants des étudiants sont nommés par le préfet de la région d'Ile-de-France.A cet effet, le recteur, chancelier des universités de Paris, reçoit les propositions des organisations représentatives des étudiants dans les trois académies. La représentativité de ces organisations est
+- f) Les représentants des étudiants sont nommés par le préfet de la région d'Ile-de-France.A cet effet, le recteur, chancelier des universités de Paris, reçoit les propositions des organisations représentatives des étudiants dans les trois académies. La représentativité de ces organisations est
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -14722,7 +14789,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 appréciée dans les conditions prévues à l'article L. 811-3 ;
 
-- Les représentants des organisations syndicales de salariés et d'employeurs sont nommés par le préfet de la région d'Ile-de-France sur proposition des organisations représentatives des salariés et des employeurs dans la région.
+- g) Les représentants des organisations syndicales de salariés et d'employeurs sont nommés par le préfet de la région d'Ile-de-France sur proposition des organisations représentatives des salariés et des employeurs dans la région.
 
 ###### Article R234-20
 
@@ -14812,13 +14879,13 @@ collège des maires dans les conditions prévues au troisième alinéa du 1° de
 
 - 2° Vingt-deux membres représentant les personnels titulaires de l'Etat exerçant leurs fonctions dans les services administratifs et les établissements d'enseignement et de formation du premier et du second degré ainsi que les établissements publics d'enseignement supérieur :
 
-- Quinze représentants des personnels des services administratifs et des établissements scolaires, dont au moins un représentant des personnels enseignants exerçant ses fonctions dans les classes postbaccalauréat des lycées ;
+- a) Quinze représentants des personnels des services administratifs et des établissements scolaires, dont au moins un représentant des personnels enseignants exerçant ses fonctions dans les classes postbaccalauréat des lycées ;
 
-- Quatre représentants des personnels des établissements publics d'enseignement supérieur ;
+- b) Quatre représentants des personnels des établissements publics d'enseignement supérieur ;
 
-- Un président d'université ou son représentant ;
+- c) Un président d'université ou son représentant ;
 
-- Deux représentants des établissements d'enseignement et de formation agricole siégeant au comité régional de l'enseignement agricole ;
+- d) Deux représentants des établissements d'enseignement et de formation agricole siégeant au comité régional de l'enseignement agricole ;
 
 - 3° Sept parents d'élèves et trois étudiants, le président du comité économique et social de la région ou son représentant, cinq représentants des organisations syndicales de salariés, cinq représentants des organisations syndicales d'employeurs, dont un représentant des exploitants agricoles, ainsi qu'un représentant des associations complémentaires de l'enseignement public.
 
@@ -14916,13 +14983,13 @@ Outre les présidents et les vice-présidents, le conseil comprend :
 
 - 2° Quatorze membres représentant les personnels titulaires de l'Etat exerçant leurs fonctions dans les services administratifs et les établissements d'enseignement et de formation du premier et du second degré ainsi que les établissements publics d'enseignement supérieur :
 
-- Dix représentants des personnels des services administratifs et des établissements scolaires, dont au moins un représentant des personnels exerçant ses fonctions dans les classes post-baccalauréat des lycées ;
+- a) Dix représentants des personnels des services administratifs et des établissements scolaires, dont au moins un représentant des personnels exerçant ses fonctions dans les classes post-baccalauréat des lycées ;
 
-- Deux représentants des personnels du ou des établissements publics d'enseignement supérieur ;
+- b) Deux représentants des personnels du ou des établissements publics d'enseignement supérieur ;
 
-- Un président d'établissement d'enseignement supérieur ou son représentant ;
+- c) Un président d'établissement d'enseignement supérieur ou son représentant ;
 
-- Un représentant des établissements d'enseignement et de formation agricole ;
+- d) Un représentant des établissements d'enseignement et de formation agricole ;
 
 - 3° Six parents d'élèves et deux étudiants, le président du conseil économique et social ou son représentant, deux représentants des organisations syndicales de salariés, deux représentants des organisations syndicales d'employeurs dont un représentant des exploitations agricoles, ainsi qu'un représentant des associations complémentaires de l'enseignement public.
 
@@ -14966,19 +15033,19 @@ Le conseil de l'éducation nationale est notamment consulté :
 
 - 1° Au titre des compétences de l'Etat :
 
-- Sur la répartition entre les communes intéressées, à défaut d'accord entre celles-ci, des charges des écoles maternelles, des classes enfantines et des écoles élémentaires publiques ;
+- a) Sur la répartition entre les communes intéressées, à défaut d'accord entre celles-ci, des charges des écoles maternelles, des classes enfantines et des écoles élémentaires publiques ;
 
-- Sur la répartition des emplois d'enseignant des écoles maternelles et élémentaires publiques ;
+- b) Sur la répartition des emplois d'enseignant des écoles maternelles et élémentaires publiques ;
 
-- Sur le montant de l'indemnité de logement allouée dans chaque commune aux instituteurs ;
+- c) Sur le montant de l'indemnité de logement allouée dans chaque commune aux instituteurs ;
 
-- Sur le règlement type départemental des écoles maternelles et élémentaires ;
+- d) Sur le règlement type départemental des écoles maternelles et élémentaires ;
 
-- Sur la structure pédagogique générale des collèges, des lycées, des établissements d'éducation spéciale et des établissements d'enseignement agricole ;
+- e) Sur la structure pédagogique générale des collèges, des lycées, des établissements d'éducation spéciale et des établissements d'enseignement agricole ;
 
-- Sur la liste annuelle des opérations de construction ou d'extension des collèges, des lycées, des établissements d'éducation spéciale et des établissements d'enseignement agricole ;
+- f) Sur la liste annuelle des opérations de construction ou d'extension des collèges, des lycées, des établissements d'éducation spéciale et des établissements d'enseignement agricole ;
 
-- Sur les modalités générales d'attribution des moyens en emplois et des dotations en crédits ou en nature pour les dépenses pédagogiques des collèges, des lycées, des établissements d'éducation
+- g) Sur les modalités générales d'attribution des moyens en emplois et des dotations en crédits ou en nature pour les dépenses pédagogiques des collèges, des lycées, des établissements d'éducation
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -14988,13 +15055,13 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 spéciale et des établissements d'enseignement agricole ;
 
-- Sur les orientations du programme académique de formation continue des adultes ;
+- h) Sur les orientations du programme académique de formation continue des adultes ;
 
-- Sur le schéma prévisionnel des formations des collèges, des lycées, des établissements d'éducation spéciale et des établissements d'enseignement agricole ;
+- i) Sur le schéma prévisionnel des formations des collèges, des lycées, des établissements d'éducation spéciale et des établissements d'enseignement agricole ;
 
-- Sur le programme prévisionnel des investissements relatifs aux collèges, aux lycées, aux établissements d'éducation spéciale et aux établissements d'enseignement agricole ;
+- j) Sur le programme prévisionnel des investissements relatifs aux collèges, aux lycées, aux établissements d'éducation spéciale et aux établissements d'enseignement agricole ;
 
-- Sur les aspects locaux de la carte des formations supérieures et de la recherche prévue à l'article L. 614-3 du code de l'éducation ;
+- k) Sur les aspects locaux de la carte des formations supérieures et de la recherche prévue à l'article L. 614-3 du code de l'éducation ;
 
 - 2° Au titre des compétences de la collectivité départementale de Mayotte, sur l'organisation et le fonctionnement des transports scolaires.
 
@@ -15208,25 +15275,25 @@ Le conseil départemental de l'éducation est notamment consulté :
 
 - 1° Au titre des compétences de l'Etat ;
 
-- Sur la répartition entre les communes intéressées, à défaut d'accord entre celles-ci, des charges des écoles maternelles, des classes enfantines et des écoles élémentaires publiques ;
+- a) Sur la répartition entre les communes intéressées, à défaut d'accord entre celles-ci, des charges des écoles maternelles, des classes enfantines et des écoles élémentaires publiques ;
 
-- Sur la répartition des emplois d'enseignants des écoles maternelles et élémentaires publiques ;
+- b) Sur la répartition des emplois d'enseignants des écoles maternelles et élémentaires publiques ;
 
-- Sur le règlement type départemental des écoles maternelles et élémentaires ;
+- c) Sur le règlement type départemental des écoles maternelles et élémentaires ;
 
-- Sur la structure pédagogique générale des collèges du département ;
+- d) Sur la structure pédagogique générale des collèges du département ;
 
-- Sur les modalités générales d'attribution des moyens en emplois et des dotations financières, ou en nature, pour les dépenses pédagogiques des collèges du département ;
+- e) Sur les modalités générales d'attribution des moyens en emplois et des dotations financières, ou en nature, pour les dépenses pédagogiques des collèges du département ;
 
-- Sur le montant de l'indemnité de logement allouée dans chaque commune aux instituteurs ;
+- f) Sur le montant de l'indemnité de logement allouée dans chaque commune aux instituteurs ;
 
 - 2° Au titre des compétences du département :
 
-- Sur l'organisation et le fonctionnement des transports scolaires ;
+- a) Sur l'organisation et le fonctionnement des transports scolaires ;
 
-- Sur le programme prévisionnel des investissements relatifs aux collèges ;
+- b) Sur le programme prévisionnel des investissements relatifs aux collèges ;
 
-- Sur les modalités générales d'attribution des subventions allouées aux collèges du département.
+- c) Sur les modalités générales d'attribution des subventions allouées aux collèges du département.
 
 ###### Article R235-11-1
 
@@ -15454,13 +15521,15 @@ La minute des décisions est signée par le président de la formation de jugeme
 
 ###### Article R237-26
 
-Les décisions de la Commission spéciale de la taxe d'apprentissage sont notifiées au redevable, au préfet et au directeur des services fiscaux du domicile de l'intéressé.
+Les décisions de la Commission spéciale de la taxe d'apprentissage sont notifiées au redevable, au
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 502]]
 
 [[START OF PAGE 503]]
+
+préfet et au directeur des services fiscaux du domicile de l'intéressé.
 
 ###### Article R237-27
 
@@ -15654,23 +15723,23 @@ Ils se répartissent de la manière suivante :
 
 1° Collège des élus et des gestionnaires de l'immobilier scolaire et universitaire, composé de dix-sept membres titulaires et de deux suppléants pour chaque membre titulaire :
 
-- Un membre de l'Assemblée nationale ;
+- a) Un membre de l'Assemblée nationale ;
 
-- Un membre du Sénat ;
+- b) Un membre du Sénat ;
 
-- Trois présidents ou vice-présidents de conseil régional ;
+- c) Trois présidents ou vice-présidents de conseil régional ;
 
-- Trois présidents ou vice-présidents de conseil général ;
+- d) Trois présidents ou vice-présidents de conseil général ;
 
-- Sept maires ;
+- e) Sept maires ;
 
-- Un représentant de la Fédération nationale des organismes de gestion de l'enseignement catholique ;
+- f) Un représentant de la Fédération nationale des organismes de gestion de l'enseignement catholique ;
 
-- Un président d'université désigné par la Conférence des présidents d'université.
+- g) Un président d'université désigné par la Conférence des présidents d'université.
 
 - 2° Collège des représentants des personnels et des usagers, composé de dix-sept membres titulaires et de deux membres suppléants pour chaque membre titulaire nommés sur proposition des organisations représentatives :
 
-- Représentants des établissements publics :
+- a) Représentants des établissements publics :
 
 - aa) Trois représentants de la Fédération syndicale unitaire (FSU) ;
 
@@ -15690,7 +15759,7 @@ Ils se répartissent de la manière suivante :
 
 - ai) Un représentant de l'organisation syndicale d'étudiants la plus représentative au Conseil national de l'enseignement supérieur et de la recherche.
 
-- Représentants des établissements privés :
+- b) Représentants des établissements privés :
 
 - ba) Un représentant de la Fédération de l'enseignement privé (FEP-CFDT) ;
 
@@ -15704,7 +15773,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - 3° Collège des représentants de l'Etat, des chefs d'établissement et des personnalités qualifiées nommées par lui, composé ainsi qu'il suit :
 
-- Onze représentants des ministres et deux suppléants pour chaque membre titulaire :
+- a) Onze représentants des ministres et deux suppléants pour chaque membre titulaire :
 
 - aa) Un représentant du ministre chargé de l'éducation ;
 
@@ -15728,13 +15797,13 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - ak) Un représentant du ministre chargé des personnes handicapées.
 
-- Deux membres titulaires représentants des chefs d'établissement et deux suppléants, nommés sur proposition des organisations représentatives :
+- b) Deux membres titulaires représentants des chefs d'établissement et deux suppléants, nommés sur proposition des organisations représentatives :
 
 - ba) Un représentant du Syndicat national des personnels de direction de l'éducation nationale (SNPDEN) ;
 
 - bb) Un représentant du Syndicat national des chefs d'établissement de l'enseignement libre (SNCEEL) ;
 
-- Quatre personnalités qualifiées désignées en fonction de leurs compétences.
+- c) Quatre personnalités qualifiées désignées en fonction de leurs compétences.
 
 ###### Article D239-28
 
@@ -15920,15 +15989,15 @@ Les inspecteurs d'académie-inspecteurs pédagogiques régionaux et les inspecte
 
 Les inspecteurs d'académie-inspecteurs pédagogiques régionaux et les inspecteurs de l'éducation nationale veillent à la mise en oeuvre de la politique éducative arrêtée par le ministre chargé de l'éducation. A cet effet, dans le cadre du programme de travail académique arrêté conjointement par l'inspecteur général de l'éducation nationale correspondant académique et le recteur de l'académie, ils ont vocation à exercer sous l'autorité de ce dernier les missions ci-après :
 
-- Ils évaluent dans l'exercice de leur compétence pédagogique le travail individuel et le travail en équipe des personnels enseignants, d'éducation et d'orientation des écoles, des collèges et des lycées et concourent à l'évaluation de l'enseignement des disciplines, des unités d'enseignement, des procédures et des résultats de la politique éducative. Ils procèdent, notamment, à l'observation directe des actes pédagogiques ;
+- a) Ils évaluent dans l'exercice de leur compétence pédagogique le travail individuel et le travail en équipe des personnels enseignants, d'éducation et d'orientation des écoles, des collèges et des lycées et concourent à l'évaluation de l'enseignement des disciplines, des unités d'enseignement, des procédures et des résultats de la politique éducative. Ils procèdent, notamment, à l'observation directe des actes pédagogiques ;
 
-- Ils inspectent, selon les spécialités qui sont les leurs, les personnels enseignants, d'éducation et d'orientation des écoles, des collèges et des lycées et s'assurent du respect des objectifs et des programmes nationaux de formation, dans le cadre des cycles d'enseignement ; ils sont chargés des missions d'inspection prévues par l'article L. 119-1 du code du travail ;
+- b) Ils inspectent, selon les spécialités qui sont les leurs, les personnels enseignants, d'éducation et d'orientation des écoles, des collèges et des lycées et s'assurent du respect des objectifs et des programmes nationaux de formation, dans le cadre des cycles d'enseignement ; ils sont chargés des missions d'inspection prévues par l'article L. 119-1 du code du travail ;
 
-- Ils participent à l'animation pédagogique dans les formations initiales, continues et par alternance, prêtent leur concours à l'élaboration des projets d'établissement et collaborent avec l'inspection générale de l'éducation nationale pour l'évaluation des expériences pédagogiques et leur généralisation ;
+- c) Ils participent à l'animation pédagogique dans les formations initiales, continues et par alternance, prêtent leur concours à l'élaboration des projets d'établissement et collaborent avec l'inspection générale de l'éducation nationale pour l'évaluation des expériences pédagogiques et leur généralisation ;
 
-- Ils ont vocation à participer au recrutement et à la formation des personnels de l'éducation nationale et à l'organisation des examens ;
+- d) Ils ont vocation à participer au recrutement et à la formation des personnels de l'éducation nationale et à l'organisation des examens ;
 
-- Ils assurent des missions d'expertise dans ces différents domaines ainsi que pour l'orientation des élèves, les examens, la gestion des personnels éducatifs et dans le choix des équipements pédagogiques.
+- e) Ils assurent des missions d'expertise dans ces différents domaines ainsi que pour l'orientation des élèves, les examens, la gestion des personnels éducatifs et dans le choix des équipements pédagogiques.
 
 ###### Article R241-20
 
@@ -17150,19 +17219,19 @@ Le conseil académique des langues régionales est composé pour un tiers des re
 
 1° Pour l'administration :
 
-- Les inspecteurs d'académie-inspecteurs pédagogiques régionaux, directeurs des services départementaux de l'éducation nationale ;
+- a) Les inspecteurs d'académie-inspecteurs pédagogiques régionaux, directeurs des services départementaux de l'éducation nationale ;
 
-- Les chargés de mission, coordonnateurs des enseignements de langues et cultures régionales dans l'académie ;
+- b) Les chargés de mission, coordonnateurs des enseignements de langues et cultures régionales dans l'académie ;
 
-- Le directeur de l'institut universitaire de formation des maîtres ou son représentant ;
+- c) Le directeur de l'institut universitaire de formation des maîtres ou son représentant ;
 
-- Un professeur d'université assurant un enseignement de langue et culture régionales, désigné par le recteur sur avis du président de l'université correspondante ;
+- d) Un professeur d'université assurant un enseignement de langue et culture régionales, désigné par le recteur sur avis du président de l'université correspondante ;
 
-- Le directeur du centre régional de documentation pédagogique ou son représentant ;
+- e) Le directeur du centre régional de documentation pédagogique ou son représentant ;
 
-- Un inspecteur d'académie-inspecteur pédagogique régional, représentant des corps d'inspection pédagogique régionale, désigné par le recteur ;
+- f) Un inspecteur d'académie-inspecteur pédagogique régional, représentant des corps d'inspection pédagogique régionale, désigné par le recteur ;
 
-- Un inspecteur de l'éducation nationale, chargé de circonscription du premier degré, coordonnateur de l'enseignement des langues régionales dans les écoles de son département, désigné par le recteur sur avis des directeurs académiques des services de l'éducation nationale
+- g) Un inspecteur de l'éducation nationale, chargé de circonscription du premier degré, coordonnateur de l'enseignement des langues régionales dans les écoles de son département, désigné par le recteur sur avis des directeurs académiques des services de l'éducation nationale
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -17172,21 +17241,21 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 agissant sur délégation du recteur d'académie ;
 
-- Un représentant des maîtres formateurs délégué auprès d'un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, désigné par le recteur après avis du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie auprès duquel il est affecté ;
+- h) Un représentant des maîtres formateurs délégué auprès d'un directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, désigné par le recteur après avis du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie auprès duquel il est affecté ;
 
-- Le directeur régional des affaires culturelles ou son représentant ;
+- i) Le directeur régional des affaires culturelles ou son représentant ;
 
 - 2° Pour les établissements scolaires et les associations de parents d'élèves, en nombre égal au collège défini au 1° et répartis par moitié :
 
-- D'une part, des représentants des parents d'élèves des écoles ou établissements comportant un enseignement de langue et culture régionales, sur proposition des associations de parents d'élèves représentatives dans l'académie ;
+- a) D'une part, des représentants des parents d'élèves des écoles ou établissements comportant un enseignement de langue et culture régionales, sur proposition des associations de parents d'élèves représentatives dans l'académie ;
 
-- D'autre part, des représentants de personnels enseignants des écoles et des établissements comportant un enseignement de langue et culture régionales, sur proposition des organisations syndicales représentées au conseil académique de l'éducation nationale ;
+- b) D'autre part, des représentants de personnels enseignants des écoles et des établissements comportant un enseignement de langue et culture régionales, sur proposition des organisations syndicales représentées au conseil académique de l'éducation nationale ;
 
 - 3° Pour les collectivités territoriales de rattachement et mouvements associatifs, en nombre égal au collège défini au 1° et répartis par moitié :
 
-- D'une part, des représentants des mouvements associatifs et éducatifs ayant pour objet la promotion de la langue et de la culture régionales, sur proposition de leurs instances dirigeantes ;
+- a) D'une part, des représentants des mouvements associatifs et éducatifs ayant pour objet la promotion de la langue et de la culture régionales, sur proposition de leurs instances dirigeantes ;
 
-- D'autre part, des représentants des maires des communes sièges d'un enseignement de langue et culture régionales, sur proposition de l'association départementale des maires ou, à défaut, par le collège des maires du département, des représentants des conseillers généraux, sur proposition des présidents de conseils généraux, des représentants des conseillers régionaux, sur proposition du président du conseil régional.
+- b) D'autre part, des représentants des maires des communes sièges d'un enseignement de langue et culture régionales, sur proposition de l'association départementale des maires ou, à défaut, par le collège des maires du département, des représentants des conseillers généraux, sur proposition des présidents de conseils généraux, des représentants des conseillers régionaux, sur proposition du président du conseil régional.
 
 ###### Article D312-38
 
@@ -17224,13 +17293,15 @@ La formation aux premiers secours, validée par l'attestation de formation aux p
 
 ###### Article D312-42
 
-Au cours de leur formation initiale et continue, les enseignants sont préparés à dispenser aux élèves des principes simples pour porter secours. Les personnels d'enseignement, d'éducation et les personnels de santé peuvent être formés au brevet national de moniteur des premiers secours.
+Au cours de leur formation initiale et continue, les enseignants sont préparés à dispenser aux élèves des principes simples pour porter secours. Les personnels d'enseignement, d'éducation et les
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 555]]
 
 [[START OF PAGE 556]]
+
+personnels de santé peuvent être formés au brevet national de moniteur des premiers secours.
 
 ###### Sous-section 2 : L'enseignement des règles de sécurité routière.
 
@@ -17370,13 +17441,15 @@ Les recettes de ces centres et notamment les subventions en espèces, souscripti
 
 ###### Article D313-13
 
-En application de l'article L. 313-5, les centres mentionnés à l'article D. 313-10 peuvent être transformés en services d'Etat par arrêté du ministre chargé de l'éducation dans la limite des crédits inscrits aux lois de finances.
+En application de l'article L. 313-5, les centres mentionnés à l'article D. 313-10 peuvent être
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 560]]
 
 [[START OF PAGE 561]]
+
+transformés en services d'Etat par arrêté du ministre chargé de l'éducation dans la limite des crédits inscrits aux lois de finances.
 
 ##### Section 2 : L'Office national d'information sur les enseignements et les professions
 
@@ -17416,29 +17489,29 @@ Le conseil d'administration comprend vingt-six membres :
 
 - 1° Neuf représentants de l'Etat :
 
-- Trois nommés par arrêté du ministre chargé de l'éducation ;
+- a) Trois nommés par arrêté du ministre chargé de l'éducation ;
 
-- Un nommé par arrêté du ministre chargé de l'enseignement supérieur ;
+- b) Un nommé par arrêté du ministre chargé de l'enseignement supérieur ;
 
-- Un nommé par arrêté du ministre chargé du budget ;
+- c) Un nommé par arrêté du ministre chargé du budget ;
 
-- Un nommé par arrêté du ministre chargé de la formation professionnelle ;
+- d) Un nommé par arrêté du ministre chargé de la formation professionnelle ;
 
-- Un nommé par arrêté du ministre chargé de l'agriculture ;
+- e) Un nommé par arrêté du ministre chargé de l'agriculture ;
 
-- Un nommé par arrêté du ministre chargé des petites et moyennes entreprises ;
+- f) Un nommé par arrêté du ministre chargé des petites et moyennes entreprises ;
 
-- Un nommé par arrêté du ministre chargé de la jeunesse ;
+- g) Un nommé par arrêté du ministre chargé de la jeunesse ;
 
 - 2° Quatre membres de droit :
 
-- Le délégué à l'information et à l'orientation ou son représentant ;
+- a) Le délégué à l'information et à l'orientation ou son représentant ;
 
-- Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
+- b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
 
-- Le chef du service des droits des femmes et de l'égalité entre les femmes et les hommes au ministère chargé des droits des femmes ou son représentant ;
+- c) Le chef du service des droits des femmes et de l'égalité entre les femmes et les hommes au ministère chargé des droits des femmes ou son représentant ;
 
-- Le président du conseil prévu à l'article L. 6123-1 du code du travail ou son représentant ;
+- d) Le président du conseil prévu à l'article L. 6123-1 du code du travail ou son représentant ;
 
 - 3° Un représentant de l'Union nationale des associations familiales ;
 
@@ -17454,13 +17527,15 @@ Le conseil d'administration comprend vingt-six membres :
 
 Le directeur, le directeur adjoint, le secrétaire général, l'agent comptable, le contrôleur budgétaire ainsi que toute personne dont la présence est jugée utile par le président assistent aux séances avec voix consultative.
 
-Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté conjoint des ministres chargés de l'éducation et de l'enseignement supérieur.
+Les membres mentionnés aux 3°, 4°, 5°, 6°, 7° et 8° sont nommés par arrêté conjoint des ministres
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 562]]
 
 [[START OF PAGE 563]]
+
+chargés de l'éducation et de l'enseignement supérieur.
 
 Pour chacun des membres mentionnés aux 1°, 3°, 4°, 5°, 6° et 7°, un suppléant est désigné dans les mêmes conditions que le titulaire.
 
@@ -17660,13 +17735,15 @@ La délégation régionale est chargée notamment :
 
 - 4° De participer aux études suscitées par l'office national, en particulier pour l'analyse des fonctions et l'évolution des qualifications professionnelles.
 
-A ces fins, la délégation régionale collabore avec les divers services ou organismes régionaux compétents, et notamment avec le comité de coordination régional de l'emploi et de la formation professionnelle prévu à l'article L. 910-1 du code du travail. Elle passe également, au nom de l'office, avec les universités et les autres établissements à caractère scientifique, culturel et professionnel, les conventions de coopération nécessaires.
+A ces fins, la délégation régionale collabore avec les divers services ou organismes régionaux compétents, et notamment avec le comité de coordination régional de l'emploi et de la formation
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 567]]
 
 [[START OF PAGE 568]]
+
+professionnelle prévu à l'article L. 910-1 du code du travail. Elle passe également, au nom de l'office, avec les universités et les autres établissements à caractère scientifique, culturel et professionnel, les conventions de coopération nécessaires.
 
 Dans le cas où la circonscription académique ne coïncide pas avec celle de la région, les liaisons de la délégation avec les préfets de région, les directions régionales du travail et de l'emploi, les centres régionaux de l' institution mentionnée à l'article L. 5312-1 du code du travail et les comités de coordination régionaux de l'emploi et de la formation professionnelle sont définies par un arrêté des ministres intéressés.
 
@@ -17698,13 +17775,15 @@ Les dépenses de l'Office national d'information sur les enseignements et les pr
 
 ###### Article D313-29
 
-Le directeur de l'Office national d'informations sur les enseignements et les professions engage le personnel dont la nomination n'est pas réservée à une autre autorité.
+Le directeur de l'Office national d'informations sur les enseignements et les professions engage le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 568]]
 
 [[START OF PAGE 569]]
+
+personnel dont la nomination n'est pas réservée à une autre autorité.
 
 Il peut, en outre, être fait appel à des personnels spécialisés, dont le recrutement est assuré par le directeur de l'office.
 
@@ -17760,11 +17839,11 @@ Le conseil d'administration du Centre d'études et de recherches sur les qualifi
 
 - 1° Sept représentants de l'Etat désignés comme suit :
 
-- Deux sur proposition du ministre chargé de l'éducation ;
+- a) Deux sur proposition du ministre chargé de l'éducation ;
 
-- Un sur proposition du ministre chargé de l'enseignement supérieur ;
+- b) Un sur proposition du ministre chargé de l'enseignement supérieur ;
 
-- Deux sur proposition du ministre chargé de l'emploi ;
+- c) Deux sur proposition du ministre chargé de l'emploi ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -17772,41 +17851,41 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 571]]
 
-- Un sur proposition du ministre chargé de la recherche ;
+- d) Un sur proposition du ministre chargé de la recherche ;
 
-- Un sur proposition du ministre chargé de l'industrie.
+- e) Un sur proposition du ministre chargé de l'industrie.
 
 Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions ;
 
 2° Six membres de droit :
 
-- Le directeur général de l'Association nationale pour la formation professionnelle des adultes ou son représentant ;
+- a) Le directeur général de l'Association nationale pour la formation professionnelle des adultes ou son représentant ;
 
-- Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
+- b) Le directeur général de l'institution mentionnée à l'article L. 5312-1 du code du travail ou son représentant ;
 
-- Le Commissaire général à la stratégie et à la prospective ou son représentant ;
+- c) Le Commissaire général à la stratégie et à la prospective ou son représentant ;
 
-- Le directeur de l'Office national d'information sur les enseignements et les professions ou son représentant ;
+- d) Le directeur de l'Office national d'information sur les enseignements et les professions ou son représentant ;
 
-- Le secrétaire général du comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue ou son représentant ;
+- e) Le secrétaire général du comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue ou son représentant ;
 
-- L'administrateur général du Conservatoire national des arts et métiers ou son représentant ;
+- f) L'administrateur général du Conservatoire national des arts et métiers ou son représentant ;
 
 - 3° Treize membres désignés comme suit :
 
-- Deux sur proposition des organisations professionnelles d'employeurs les plus représentatives ;
+- a) Deux sur proposition des organisations professionnelles d'employeurs les plus représentatives ;
 
-- Un sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ;
+- b) Un sur proposition de l'Assemblée des chambres françaises de commerce et d'industrie ;
 
-- Un sur proposition de l'Assemblée permanente des chambres de métiers et de l'artisanat de région ;
+- c) Un sur proposition de l'Assemblée permanente des chambres de métiers et de l'artisanat de région ;
 
-- Cinq sur proposition des organisations syndicales de salariés représentatives ;
+- d) Cinq sur proposition des organisations syndicales de salariés représentatives ;
 
-- Un par chacune des deux organisations les plus représentatives des personnels de l'éducation nationale ;
+- e) Un par chacune des deux organisations les plus représentatives des personnels de l'éducation nationale ;
 
-- Un sur proposition de l'Assemblée permanente des chambres d'agriculture ;
+- f) Un sur proposition de l'Assemblée permanente des chambres d'agriculture ;
 
-- Un sur proposition de l'organisation d'exploitants agricoles la plus représentative ;
+- g) Un sur proposition de l'organisation d'exploitants agricoles la plus représentative ;
 
 - 4° Cinq membres choisis parmi les personnalités particulièrement compétentes dans les domaines qui intéressent le centre ;
 
@@ -17818,13 +17897,15 @@ Le mandat des membres du conseil d'administration, à l'exclusion des membres de
 
 Les membres du conseil d'administration mentionnés au 1° et au 3° ci-dessus sont nommés par arrêté du ministre chargé de l'éducation et du ministre chargé de l'emploi.
 
-Les membres du conseil d'administration mentionnés au 4° ci-dessus sont nommés par arrêté des mêmes ministres, après avis du ministre chargé de la recherche.
+Les membres du conseil d'administration mentionnés au 4° ci-dessus sont nommés par arrêté des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 571]]
 
 [[START OF PAGE 572]]
+
+mêmes ministres, après avis du ministre chargé de la recherche.
 
 En cas de vacance, pour quelque cause que ce soit, il est procédé à une nouvelle désignation, sauf si cette vacance intervient moins de six mois avant la date du renouvellement du conseil.
 
@@ -17896,9 +17977,9 @@ Le directeur du Centre d'études et de recherches sur les qualifications est ass
 
 - 2° Deux membres de droit :
 
-- Le directeur de l'Institut national de la statistique et des études économiques ou son représentant ;
+- a) Le directeur de l'Institut national de la statistique et des études économiques ou son représentant ;
 
-- Le directeur général du Centre national de la recherche scientifique ou son représentant ;
+- b) Le directeur général du Centre national de la recherche scientifique ou son représentant ;
 
 - 3° Quatre membres élus par les personnels scientifiques et techniques du centre selon des modalités fixées par le conseil d'administration sur proposition du directeur.
 
@@ -17952,13 +18033,15 @@ La constitution de groupements d'intérêt public prévus par les articles L. 34
 
 ###### Article R313-51
 
-Une convention passée avec l'Office national d'information sur les enseignements et les professions détermine notamment les conditions dans lesquelles les informations sur les métiers et leur évolution réunies par le Centre d'études et de recherches sur les qualifications, dans le cadre de ses travaux d'études et de recherches, sont mises à la disposition de l'office pour l'exécution de la mission confiée à cet organisme par l'article D. 313-14.
+Une convention passée avec l'Office national d'information sur les enseignements et les professions détermine notamment les conditions dans lesquelles les informations sur les métiers et leur évolution réunies par le Centre d'études et de recherches sur les qualifications, dans le cadre de ses
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 575]]
 
 [[START OF PAGE 576]]
+
+travaux d'études et de recherches, sont mises à la disposition de l'office pour l'exécution de la mission confiée à cet organisme par l'article D. 313-14.
 
 ###### Article R313-52
 
@@ -18508,29 +18591,29 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 593]]
 
-- Quatre par le ministre chargé de l'éducation ;
+- a) Quatre par le ministre chargé de l'éducation ;
 
-- Un par le ministre chargé de la formation professionnelle ;
+- b) Un par le ministre chargé de la formation professionnelle ;
 
-- Un par le ministre chargé de l'agriculture ;
+- c) Un par le ministre chargé de l'agriculture ;
 
 - 2° Trois représentants des collectivités territoriales :
 
-- Un maire ou un conseiller municipal désigné par le président de l'Association des maires de France ;
+- a) Un maire ou un conseiller municipal désigné par le président de l'Association des maires de France ;
 
-- Un président de conseil général ou un conseiller général, désigné par le président de l'Assemblée des départements de France ;
+- b) Un président de conseil général ou un conseiller général, désigné par le président de l'Assemblée des départements de France ;
 
-- Un président de conseil régional ou un conseiller régional, désigné par le président de l'Association des régions de France ;
+- c) Un président de conseil régional ou un conseiller régional, désigné par le président de l'Association des régions de France ;
 
 - 3° Quatre représentants du système éducatif :
 
-- Le doyen de l'inspection générale de l'éducation nationale ou son représentant ;
+- a) Le doyen de l'inspection générale de l'éducation nationale ou son représentant ;
 
-- Un recteur d'académie ;
+- b) Un recteur d'académie ;
 
-- Un directeur d'institut universitaire de formation des maîtres ;
+- c) Un directeur d'institut universitaire de formation des maîtres ;
 
-- Un chef d'établissement ;
+- d) Un chef d'établissement ;
 
 - 4° Cinq personnalités qualifiées dans les domaines de compétence de l'établissement ;
 
@@ -18754,13 +18837,13 @@ Le conseil d'orientation comprend treize membres ainsi répartis :
 
 - 1° Dix membres de droit :
 
-- Le directeur chargé de l'enseignement supérieur ;
+- a) Le directeur chargé de l'enseignement supérieur ;
 
-- Le directeur chargé de la technologie ;
+- b) Le directeur chargé de la technologie ;
 
-- Le directeur chargé de la recherche ;
+- c) Le directeur chargé de la recherche ;
 
-- Le directeur général du Centre national de documentation pédagogique ;
+- d) Le directeur général du Centre national de documentation pédagogique ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -18768,17 +18851,17 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 600]]
 
-- Le recteur d'académie, directeur général du Centre national d'enseignement à distance ;
+- e) Le recteur d'académie, directeur général du Centre national d'enseignement à distance ;
 
-- Le premier vice-président de la conférence des présidents d'universités ;
+- f) Le premier vice-président de la conférence des présidents d'universités ;
 
-- Le premier vice-président de la conférence des directeurs des écoles françaises d'ingénieurs ;
+- g) Le premier vice-président de la conférence des directeurs des écoles françaises d'ingénieurs ;
 
-- Le directeur de l'Institut national de recherche pédagogique ;
+- h) Le directeur de l'Institut national de recherche pédagogique ;
 
-- L'administrateur général du Conservatoire national des arts et métiers ;
+- i) L'administrateur général du Conservatoire national des arts et métiers ;
 
-- Le président de la conférence des directeurs d'instituts universitaires de formation des maîtres.
+- j) Le président de la conférence des directeurs d'instituts universitaires de formation des maîtres.
 
 Chaque membre de droit peut être remplacé par un représentant qu'il désigne ;
 
@@ -18948,11 +19031,11 @@ Le conseil d'administration du centre régional de documentation pédagogique es
 
 - 2° Quatre représentants des collectivités territoriales :
 
-- Un conseiller élu par le conseil régional de la région dans laquelle le centre a son siège et, en Corse, par l'assemblée de Corse ;
+- a) Un conseiller élu par le conseil régional de la région dans laquelle le centre a son siège et, en Corse, par l'assemblée de Corse ;
 
-- Deux conseillers généraux désignés par accord entre les présidents des conseils généraux ou, à défaut, élus par le collège des conseillers généraux de l'ensemble des départements situés dans le ressort du centre régional ;
+- b) Deux conseillers généraux désignés par accord entre les présidents des conseils généraux ou, à défaut, élus par le collège des conseillers généraux de l'ensemble des départements situés dans le ressort du centre régional ;
 
-- Un maire ou un conseiller municipal désigné par accord entre les associations départementales des maires ou, à défaut, élu par le collège des maires de l'ensemble des départements situés dans le ressort du centre régional ;
+- c) Un maire ou un conseiller municipal désigné par accord entre les associations départementales des maires ou, à défaut, élu par le collège des maires de l'ensemble des départements situés dans le ressort du centre régional ;
 
 - 3° Un directeur d'institut universitaire de formation des maîtres désigné par le recteur ;
 
@@ -19638,13 +19721,15 @@ Le certificat attestant l'accomplissement régulier d'un stage de formation alte
 
 ###### Article D331-18
 
-Le certificat d'accomplissement régulier de stage permet également, en tant que de besoin, de bénéficier de dérogations à la réglementation propre à chaque titre ou diplôme de l'enseignement technologique.
+Le certificat d'accomplissement régulier de stage permet également, en tant que de besoin, de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 628]]
 
 [[START OF PAGE 629]]
+
+bénéficier de dérogations à la réglementation propre à chaque titre ou diplôme de l'enseignement technologique.
 
 Ces dérogations peuvent consister en :
 
@@ -19700,13 +19785,15 @@ Ce processus prend appui sur l'observation continue de l'élève, sur l'évaluat
 
 ###### Article D331-24
 
-L'observation de l'élève est réalisée dans l'établissement scolaire par les personnels enseignants, avec le concours des personnels d'éducation et d'orientation qui mettent en oeuvre leurs compétences spécifiques. L'équipe pédagogique, à laquelle peuvent se joindre le conseiller principal d'éducation et le conseiller d'orientation-psychologue, établit la synthèse des observations. Elle propose à l'élève les objectifs pédagogiques et les moyens permettant la réalisation de son projet personnel.
+L'observation de l'élève est réalisée dans l'établissement scolaire par les personnels enseignants, avec le concours des personnels d'éducation et d'orientation qui mettent en oeuvre leurs
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 630]]
 
 [[START OF PAGE 631]]
+
+compétences spécifiques. L'équipe pédagogique, à laquelle peuvent se joindre le conseiller principal d'éducation et le conseiller d'orientation-psychologue, établit la synthèse des observations. Elle propose à l'élève les objectifs pédagogiques et les moyens permettant la réalisation de son projet personnel.
 
 Le professeur principal, ou un membre de l'équipe pédagogique, facilite la synthèse des observations.
 
@@ -19728,13 +19815,15 @@ Le conseil de classe est informé chaque année de la carte des formations.
 
 ###### Article D331-27
 
-Afin de permettre l'élaboration et la réalisation du projet personnel de l'élève, le chef d'établissement facilite le dialogue entre l'élève et ses parents, les enseignants et les personnels d'éducation et d'orientation. Après avoir procédé aux consultations nécessaires, notamment celle des équipes pédagogiques, le chef d'établissement propose, chaque année, à l'approbation du conseil d'administration des orientations relatives au programme des rencontres utiles à la conduite du dialogue.
+Afin de permettre l'élaboration et la réalisation du projet personnel de l'élève, le chef d'établissement facilite le dialogue entre l'élève et ses parents, les enseignants et les personnels d'éducation et d'orientation. Après avoir procédé aux consultations nécessaires, notamment celle des équipes pédagogiques, le chef d'établissement propose, chaque année, à l'approbation du conseil
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 631]]
 
 [[START OF PAGE 632]]
+
+d'administration des orientations relatives au programme des rencontres utiles à la conduite du dialogue.
 
 ###### Article D331-28
 
@@ -19814,13 +19903,15 @@ Lorsque les parents de l'élève ou l'élève majeur n'obtiennent pas satisfacti
 
 ###### Article D331-38
 
-Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux parents de l'élève ou à l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
+Le choix des enseignements optionnels, champs et spécialités d'une voie d'orientation incombe aux
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 634]]
 
 [[START OF PAGE 635]]
+
+parents de l'élève ou à l'élève majeur, éclairés par le dialogue avec les membres de l'équipe éducative et par l'avis du conseil de classe.
 
 La décision d'affectation est signée par le directeur académique des services de l'éducation nationale, délégataire du recteur pour les formations implantées dans le département. L'affectation de l'élève, à l'issue d'un cycle, dans la voie d'orientation du cycle supérieur est réalisée en fonction des décisions d'orientation et des choix des parents de l'élève ou de l'élève majeur.
 
@@ -19842,13 +19933,15 @@ Tout élève admis dans un cycle de formation doit pouvoir parcourir la totalit�
 
 ###### Article D331-42
 
-Tout élève ayant échoué à l'examen du baccalauréat, du brevet de technicien, du brevet de technicien supérieur, du certificat d'aptitude professionnelle ou du brevet d'études professionnelles se voit offrir le droit d'une nouvelle préparation de cet examen, le cas échéant, selon des modalités adaptées au niveau des connaissances qu'il a acquises dans les matières d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées, ce droit s'exerce dans la limite des places demeurées vacantes après l'admission des élèves issus de la classe précédente de l'établissement scolaire et peut entraîner un changement d'établissement après qu'ont été explorées toutes les possibilités d'un maintien sur place de l'élève. Le changement éventuel d'établissement scolaire relève de la compétence du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
+Tout élève ayant échoué à l'examen du baccalauréat, du brevet de technicien, du brevet de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 635]]
 
 [[START OF PAGE 636]]
+
+technicien supérieur, du certificat d'aptitude professionnelle ou du brevet d'études professionnelles se voit offrir le droit d'une nouvelle préparation de cet examen, le cas échéant, selon des modalités adaptées au niveau des connaissances qu'il a acquises dans les matières d'enseignement correspondant aux épreuves de l'examen. Pour la classe terminale des lycées, ce droit s'exerce dans la limite des places demeurées vacantes après l'admission des élèves issus de la classe précédente de l'établissement scolaire et peut entraîner un changement d'établissement après qu'ont été explorées toutes les possibilités d'un maintien sur place de l'élève. Le changement éventuel d'établissement scolaire relève de la compétence du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
 ###### Article D331-43
 
@@ -20002,13 +20095,15 @@ La composition et les règles de fonctionnement de la commission, ainsi que les 
 
 ###### Article D331-58
 
-Lorsque les parents de l'élève ou l'élève majeur n'obtiennent pas satisfaction pour les voies d'orientation demandées, ils peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine pour la durée d'une seule année scolaire.
+Lorsque les parents de l'élève ou l'élève majeur n'obtiennent pas satisfaction pour les voies d'orientation demandées, ils peuvent, de droit, obtenir le maintien de l'élève dans sa classe d'origine
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 640]]
 
 [[START OF PAGE 641]]
+
+pour la durée d'une seule année scolaire.
 
 ###### Article D331-59
 
@@ -20282,15 +20377,15 @@ Trois voies de formation sont organisées dans les lycées :
 
 Les voies générale et technologique se composent :
 
-- D'un cycle de détermination constitué par la classe de seconde générale et technologique et des classes de seconde à régime spécifique ;
+a) D'un cycle de détermination constitué par la classe de seconde générale et technologique et des classes de seconde à régime spécifique ;
 
-- D'un cycle terminal constitué par les classes de première et terminale de la voie générale et les classes de première et terminale de la voie technologique.
+b) D'un cycle terminal constitué par les classes de première et terminale de la voie générale et les classes de première et terminale de la voie technologique.
 
 La voie professionnelle comprend :
 
-- Un cycle de deux ans conduisant à un des diplômes de niveau V dont la liste est fixée par arrêté du ministre chargé de l'éducation ;
+a) Un cycle de deux ans conduisant à un des diplômes de niveau V dont la liste est fixée par arrêté du ministre chargé de l'éducation ;
 
-- Un cycle de référence de trois ans conduisant au diplôme du baccalauréat professionnel constitué par les classes de seconde professionnelle, de première professionnelle et de terminale professionnelle. La classe de seconde professionnelle peut être rattachée, dans les conditions définies par arrêté du ministre chargé de l'éducation, à un des champs professionnels définis par arrêté du ministre chargé de l'éducation. Au cours de ce cycle, les élèves se présentent aux épreuves d'un brevet d'études professionnelles ou d'un certificat d'aptitude professionnelle dans les conditions prévues par arrêté du ministre chargé de l'éducation.
+b) Un cycle de référence de trois ans conduisant au diplôme du baccalauréat professionnel constitué par les classes de seconde professionnelle, de première professionnelle et de terminale professionnelle. La classe de seconde professionnelle peut être rattachée, dans les conditions définies par arrêté du ministre chargé de l'éducation, à un des champs professionnels définis par arrêté du ministre chargé de l'éducation. Au cours de ce cycle, les élèves se présentent aux épreuves d'un brevet d'études professionnelles ou d'un certificat d'aptitude professionnelle dans les conditions prévues par arrêté du ministre chargé de l'éducation.
 
 Des passerelles permettant une adaptation des parcours sont organisées entre les voies générale, technologique et professionnelle ainsi qu'entre les cycles de la voie professionnelle.
 
@@ -20410,13 +20505,14 @@ L'organisation des formations conduisant aux diplômes professionnels est divers
 
 ###### Article D333-17
 
-Les formations des lycées préparant les élèves à l'exercice d'une activité professionnelle permettent la prise en compte dans les conventions collectives prévues au code du travail des diplômes les sanctionnant, au niveau de qualification professionnelle prévu par les dispositions réglementaires qui les régissent.
+Les formations des lycées préparant les élèves à l'exercice d'une activité professionnelle permettent
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 653]]
 
 [[START OF PAGE 654]]
+la prise en compte dans les conventions collectives prévues au code du travail des diplômes les sanctionnant, au niveau de qualification professionnelle prévu par les dispositions réglementaires qui les régissent.
 
 ###### Article D333-18
 
@@ -20510,7 +20606,7 @@ Les candidats déjà titulaires d'une autre série du baccalauréat peuvent êtr
 
 ###### Article D334-8
 
-La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers.L'absence non justifiée à une épreuve que le candidat doit subir est sanctionnée par la note zéro.
+La valeur de chacune des épreuves est exprimée par une note variant de 0 à 20, en points entiers. L'absence non justifiée à une épreuve que le candidat doit subir est sanctionnée par la note zéro.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -20578,13 +20674,14 @@ Les candidats ajournés à l'examen du baccalauréat reçoivent, s'ils ont obten
 
 ###### Article D334-13
 
-Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, ainsi que les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports et les candidats scolarisés à l'école de danse de l'Opéra national de Paris peuvent conserver, après un échec à l'examen sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues à ces épreuves. Ils ne subissent alors que les autres épreuves.
+Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, ainsi que les candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports et les candidats scolarisés à l'école de danse de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 658]]
 
 [[START OF PAGE 659]]
+l'Opéra national de Paris peuvent conserver, après un échec à l'examen sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues à ces épreuves. Ils ne subissent alors que les autres épreuves.
 
 Les dispositions du premier alinéa ne s'appliquent qu'aux candidats qui se présentent dans la même série que celle où ils ont obtenu des notes dont ils demandent à conserver le bénéfice, à l'exception de règles particulières définies par arrêté ministériel.
 
@@ -20702,13 +20799,14 @@ Quelles que soient la série et éventuellement la mention telle que définie à
 
 ###### Article D334-23
 
-En application d'accords passés avec un partenaire étranger, un examen unique permet la délivrance simultanée du baccalauréat général ou technologique et d'un diplôme de fin d'études secondaires d'un Etat étranger ou d'une certification particulière, délivrée par un Etat ou par un organisme public ou privé étranger, et reconnue dans le pays concerné pour l'accès à l'enseignement supérieur.
+En application d'accords passés avec un partenaire étranger, un examen unique permet la délivrance simultanée du baccalauréat général ou technologique et d'un diplôme de fin d'études secondaires
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 662]]
 
 [[START OF PAGE 663]]
+d'un Etat étranger ou d'une certification particulière, délivrée par un Etat ou par un organisme public ou privé étranger, et reconnue dans le pays concerné pour l'accès à l'enseignement supérieur.
 
 Dans le cadre d'une telle délivrance simultanée, le diplôme du baccalauréat est délivré aux élèves scolarisés dans un établissement d'enseignement étranger par les recteurs désignés par le ministre chargé de l'éducation.
 
@@ -20840,13 +20938,14 @@ Toute sanction prononcée entraîne, pour l'intéressé, la nullité de l'épreu
 
 Lorsqu'un candidat fait l'objet de poursuites disciplinaires dans le cas de fraude ou de tentative de fraude flagrante commise à l'occasion du baccalauréat, il ne peut lui être délivré un relevé de notes ou un certificat de réussite avant que la commission de discipline du baccalauréat ait statué. En cas de nullité de l'épreuve, du groupe d'épreuves ou de la session d'examen prononcée par la commission de discipline du baccalauréat dans les conditions prévues par l'article D. 334-33, le recteur saisit le jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé.
 
-Lorsqu'une fraude est découverte postérieurement à la délivrance du baccalauréat, le recteur engage les poursuites devant la commission de discipline du baccalauréat dans les conditions prévues par les articles D. 334-28 à D. 334-30. Si la sanction prononcée en application de l'article D. 334-32 implique que le jury se prononce à nouveau, le recteur retire le diplôme du baccalauréat et saisit le jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé.
+Lorsqu'une fraude est découverte postérieurement à la délivrance du baccalauréat, le recteur engage les poursuites devant la commission de discipline du baccalauréat dans les conditions prévues par les articles D. 334-28 à D. 334-30. Si la sanction prononcée en application de l'article D. 334-32 implique que le jury se prononce à nouveau, le recteur retire le diplôme du baccalauréat et saisit le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 666]]
 
 [[START OF PAGE 667]]
+jury pour une nouvelle délibération sur les résultats obtenus par l'intéressé.
 
 ###### Article R334-35
 
@@ -20936,13 +21035,14 @@ Les candidats adressent leur demande de validation des acquis de l'expérience �
 
 Un candidat ne peut déposer qu'une seule demande pendant la même année civile et pour le même diplôme, titre ou certificat de qualification. Pour des diplômes ou titres différents, il ne peut déposer plus de trois demandes au cours de la même année civile. Ces obligations, et l'engagement sur l'honneur du candidat à les respecter, doivent figurer sur chaque formulaire de candidature à une validation d'acquis.
 
-La demande de validation des acquis de l'expérience précise le diplôme, le titre ou le certificat de qualification postulé, ainsi que le statut de la personne au moment de cette demande. Elle est accompagnée d'un dossier constitué par le candidat dont le contenu est fixé par l'autorité ou l'organisme délivrant le diplôme, le titre ou le certificat. Ce dossier comprend les documents rendant compte des expériences acquises dans les différentes activités salariées, non salariées ou bénévoles exercées par le candidat et leur durée, en relation avec la certification recherchée, ainsi que les attestations des formations suivies et des diplômes obtenus antérieurement.
+La demande de validation des acquis de l'expérience précise le diplôme, le titre ou le certificat de qualification postulé, ainsi que le statut de la personne au moment de cette demande. Elle est
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 669]]
 
 [[START OF PAGE 670]]
+accompagnée d'un dossier constitué par le candidat dont le contenu est fixé par l'autorité ou l'organisme délivrant le diplôme, le titre ou le certificat. Ce dossier comprend les documents rendant compte des expériences acquises dans les différentes activités salariées, non salariées ou bénévoles exercées par le candidat et leur durée, en relation avec la certification recherchée, ainsi que les attestations des formations suivies et des diplômes obtenus antérieurement.
 
 ###### Article R335-8
 
@@ -22794,7 +22894,7 @@ Le référentiel de certification est organisé en unités constituées d'un ens
 
 Les spécialités de baccalauréat professionnel sont créées par arrêté du ministre chargé de l'éducation, après avis des commissions professionnelles consultatives compétentes.
 
-Des spécialités de baccalauréat professionnel sont créées par arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture, après avis de la commission professionnelle consultative "Métiers de l'agriculture, de la transformation, des services et de l'aménagement des espaces'. Elles sont préparées essentiellement dans les établissements relevant du ministre chargé de l'agriculture et, le cas échéant, du ministre chargé de l'éducation, sur la base du référentiel professionnel, caractéristique de chaque spécialité de baccalauréat professionnel.
+Des spécialités de baccalauréat professionnel sont créées par arrêté du ministre chargé de l'éducation et du ministre chargé de l'agriculture, après avis de la commission professionnelle consultative "Métiers de l'agriculture, de la transformation, des services et de l'aménagement des espaces”. Elles sont préparées essentiellement dans les établissements relevant du ministre chargé de l'agriculture et, le cas échéant, du ministre chargé de l'éducation, sur la base du référentiel professionnel, caractéristique de chaque spécialité de baccalauréat professionnel.
 
 Des spécialités du baccalauréat professionnel relevant des domaines professionnels maritimes sont créées par arrêté du ministre chargé de l'éducation et du ministre chargé de la mer, après avis des commissions professionnelles consultatives compétentes et du comité spécialisé de la formation professionnelle maritime.
 
@@ -22804,13 +22904,15 @@ Pour chaque spécialité de baccalauréat professionnel, l'arrêté portant cré
 
 La formation conduisant au baccalauréat professionnel comporte des périodes de formation en milieu professionnel, organisées sous la responsabilité des établissements de formation.
 
-Les modalités générales d'organisation de la formation et des périodes de formation en milieu professionnel sont précisées par arrêté du ministre chargé de l'éducation.
+Les modalités générales d'organisation de la formation et des périodes de formation en milieu
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 726]]
 
 [[START OF PAGE 727]]
+
+professionnel sont précisées par arrêté du ministre chargé de l'éducation.
 
 ###### Sous-section 2 : Modalités de préparation.
 
@@ -22832,13 +22934,15 @@ L'admission, à l'issue de la classe de troisième, et la progression dans le cy
 
 L'admission, à l'issue de la classe de troisième, et la progression dans le cycle conduisant aux spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D. 337-53 s'effectuent dans les conditions fixées par les articles D. 341-1 et suivants. L'organisation et la durée de ce cycle sont définies aux articles D. 810-5 et R. 811-145 du code rural et de la pêche maritime.
 
-Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans le cycle est prononcée, dans les conditions fixées par arrêté du ministre chargé de l'éducation et du ministre chargé de la mer, par le directeur interrégional de la mer.
+Pour les spécialités de baccalauréat professionnel mentionnées au troisième alinéa de l'article D. 337-53, l'admission dans le cycle est prononcée, dans les conditions fixées par arrêté du ministre
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 727]]
 
 [[START OF PAGE 728]]
+
+chargé de l'éducation et du ministre chargé de la mer, par le directeur interrégional de la mer.
 
 ###### Article D337-57
 
@@ -23014,13 +23118,15 @@ Les habilitations prévues à l'article D. 337-74 sont réputées acquises si, d
 
 Les dispositions du premier alinéa de l'article D. 337-74 s'appliquent aux candidats préparant par la voie de la formation professionnelle continue, dans des établissements privés habilités par le directeur régional de l'alimentation, de l'agriculture et de la forêt, les spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D. 337-53.
 
-Les conditions relatives à l'octroi et au retrait de l'habilitation des établissements à pratiquer le contrôle en cours de formation prévu par le présent article sont précisées par arrêté du ministre chargé de l'agriculture.
+Les conditions relatives à l'octroi et au retrait de l'habilitation des établissements à pratiquer le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 733]]
 
 [[START OF PAGE 734]]
+
+contrôle en cours de formation prévu par le présent article sont précisées par arrêté du ministre chargé de l'agriculture.
 
 Pour les candidats préparant les spécialités de baccalauréat professionnel mentionnées au deuxième alinéa de l'article D. 337-53, les modalités de mise en oeuvre du contrôle en cours de formation sont précisées par un arrêté du ministre chargé de l'agriculture.
 
@@ -23138,7 +23244,7 @@ Le diplôme du baccalauréat professionnel délivré au candidat porte les menti
 
 Les candidats qui ont été admis à l'issue de l'épreuve de contrôle prévue au 2° de l'article D. 337-69 ne peuvent obtenir une mention.
 
-Pour toutes les spécialités de baccalauréat professionnel, à l'issue de l'évaluation spécifique définie par un arrêté du ministre chargé de l'éducation et dans les conditions fixées par cet arrêté, les diplômes délivrés aux candidats peuvent comporter l'indication " section européenne '.
+Pour toutes les spécialités de baccalauréat professionnel, à l'issue de l'évaluation spécifique définie par un arrêté du ministre chargé de l'éducation et dans les conditions fixées par cet arrêté, les diplômes délivrés aux candidats peuvent comporter l'indication " section européenne ”.
 
 Le candidat, au moment de son inscription à l'examen, peut choisir de substituer l'évaluation spécifique à l'épreuve facultative de langue vivante. Dans ce cas, les points supérieurs à 10 sur 20 obtenus à l'évaluation spécifique sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention. Ce bénéfice de points est valable 5 ans.
 
@@ -23204,13 +23310,15 @@ Le recteur peut nommer des examinateurs adjoints et des correcteurs adjoints pou
 
 Pour les baccalauréats professionnels mentionnés au deuxième alinéa de l'article D. 337-53, le jury est nommé par le directeur régional de l'alimentation, de l'agriculture et de la forêt . Il est présidé par un enseignant-chercheur. Les membres de ce jury peuvent être choisis parmi les enseignants des établissements d'enseignement relevant du ministre chargé de l'agriculture.
 
-Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le jury est nommé par le ministre chargé de la mer. Il est présidé par un enseignant-chercheur ou un professeur en chef ou général de l'enseignement maritime. Les membres de ce jury peuvent être choisis parmi les enseignants des établissements scolaires maritimes mentionnés à l'article R. 342-2.
+Pour les spécialités mentionnées au troisième alinéa de l'article D. 337-53, le jury est nommé par le ministre chargé de la mer. Il est présidé par un enseignant-chercheur ou un professeur en chef ou général de l'enseignement maritime. Les membres de ce jury peuvent être choisis parmi les
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 739]]
 
 [[START OF PAGE 740]]
+
+enseignants des établissements scolaires maritimes mentionnés à l'article R. 342-2.
 
 ###### Article D337-94
 
@@ -23446,13 +23554,15 @@ Le règlement particulier de chaque brevet professionnel fixe, notamment, la lis
 
 ###### Article D337-118
 
-Les résultats définitifs des évaluations résultent de la délibération du jury qui est souverain. Aucun candidat ayant fourni un livret de formation ne peut être ajourné sans que le jury ait examiné ce livret. La mention de cet examen est portée au livret de formation sous la signature du président du jury.
+Les résultats définitifs des évaluations résultent de la délibération du jury qui est souverain. Aucun
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 747]]
 
 [[START OF PAGE 748]]
+
+candidat ayant fourni un livret de formation ne peut être ajourné sans que le jury ait examiné ce livret. La mention de cet examen est portée au livret de formation sous la signature du président du jury.
 
 ###### Sous-section 4 : Organisation des examens.
 
@@ -23606,11 +23716,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 752]]
 
-- 630 heures pour les candidats justifiant soit d'un diplôme ou titre de même secteur professionnel classé au niveau IV de la nomenclature interministérielle des niveaux de formation, soit de trois ans d'exercice professionnel ;
+- a) 630 heures pour les candidats justifiant soit d'un diplôme ou titre de même secteur professionnel classé au niveau IV de la nomenclature interministérielle des niveaux de formation, soit de trois ans d'exercice professionnel ;
 
-- 1 100 heures pour les candidats justifiant soit d'un diplôme ou titre de même secteur professionnel classé au niveau V de la nomenclature interministérielle des niveaux de formation, soit de deux ans d'exercice professionnel ;
+- b) 1 100 heures pour les candidats justifiant soit d'un diplôme ou titre de même secteur professionnel classé au niveau V de la nomenclature interministérielle des niveaux de formation, soit de deux ans d'exercice professionnel ;
 
-- 1 350 heures dans les autres cas.
+- c) 1 350 heures dans les autres cas.
 
 Cependant, cette durée de formation peut être réduite par une décision de positionnement prononcée par le recteur, pour les candidats justifiant, en plus des conditions de formation précisées ci-dessus, d'études ou d'activités professionnelles ou bien de dispenses d'épreuves constitutives du diplôme.
 
@@ -23664,13 +23774,15 @@ Les conditions d'habilitation des centres de formation d'apprentis, ou des secti
 
 Dans les conditions fixées par chaque arrêté de création, les candidats titulaires de certains titres ou diplômes français ou étrangers peuvent être dispensés des épreuves correspondant au passage d'une ou de plusieurs unités constitutives du diplôme présenté.
 
-Les candidats mentionnés au 2° de l'article D. 337-127 et au 2° de l'article D. 337-131 peuvent être dispensés, sur leur demande, de l'épreuve d'éducation physique et sportive du brevet des métiers d'art.
+Les candidats mentionnés au 2° de l'article D. 337-127 et au 2° de l'article D. 337-131 peuvent être
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 753]]
 
 [[START OF PAGE 754]]
+
+dispensés, sur leur demande, de l'épreuve d'éducation physique et sportive du brevet des métiers d'art.
 
 Lorsqu'un candidat est déclaré absent à une ou plusieurs épreuves, le diplôme ne peut lui être délivré.
 
@@ -23948,7 +24060,7 @@ Les dispositions de l'article D. 337-149 sont applicables aux spécialités de m
 
 ###### Article D337-172
 
-Les formations en alternance, sous statut scolaire, en centre de formation d'apprentis, prévues par l'article L. 337-3-1, concernent les élèves ayant au moins atteint l'âge de 15 ans à la date d'entrée dans la formation. Elles sont dénommées " dispositif d'initiation aux métiers en alternance ' et sont destinées à faire découvrir un environnement professionnel correspondant à un projet d'entrée en apprentissage.
+Les formations en alternance, sous statut scolaire, en centre de formation d'apprentis, prévues par l'article L. 337-3-1, concernent les élèves ayant au moins atteint l'âge de 15 ans à la date d'entrée dans la formation. Elles sont dénommées " dispositif d'initiation aux métiers en alternance ” et sont destinées à faire découvrir un environnement professionnel correspondant à un projet d'entrée en apprentissage.
 
 ###### Article D337-173
 
@@ -23964,9 +24076,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 763]]
 
-L'élève reste inscrit dans son établissement d'origine durant toute la durée de la formation. Le centre de formation d'apprentis informe régulièrement l'établissement dans lequel est inscrit
+L'élève reste inscrit dans son établissement d'origine durant toute la durée de la formation.
 
-l'élève du déroulement de la formation.
+Le centre de formation d'apprentis informe régulièrement l'établissement dans lequel est inscrit l'élève du déroulement de la formation.
 
 ###### Article D337-175
 
@@ -24144,9 +24256,9 @@ L'examen du diplôme professionnel " un des meilleurs ouvriers de France " compo
 
 Selon les classes ou options d'une même classe, il peut y avoir, en outre :
 
-- Soit une épreuve théorique, technologique ou pratique, écrite ou orale ;
+- a) Soit une épreuve théorique, technologique ou pratique, écrite ou orale ;
 
-- Soit la réalisation d'un dossier.
+- b) Soit la réalisation d'un dossier.
 
 Pour chaque classe, un arrêté du ministre chargé de l'éducation ou, le cas échéant, du ministre chargé de l'éducation et du ministre chargé de l'agriculture fixe le nombre et la nature des épreuves.
 
@@ -24890,7 +25002,7 @@ Cet enseignant est chargé de réunir l'équipe de suivi de la scolarisation pou
 
 ###### Article D351-13
 
-Le nombre de d'enseignants affectés à des fonctions de référent pour la scolarisation des élèves handicapés est arrêté annuellement par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en tenant compte de critères arrêtés nationalement, dont notamment le nombre d'élèves handicapés devant faire l'objet d'un suivi.
+Le nombre d'enseignants affectés à des fonctions de référent pour la scolarisation des élèves handicapés est arrêté annuellement par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en tenant compte de critères arrêtés nationalement, dont notamment le nombre d'élèves handicapés devant faire l'objet d'un suivi.
 
 Le secteur d'intervention des enseignants référents est fixé par décision du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. Il comprend nécessairement des écoles et des établissements du second degré, ainsi que les établissements de santé ou médico-sociaux implantés dans ce secteur, de manière à favoriser la continuité des parcours de formation.
 
@@ -25000,15 +25112,15 @@ Les modalités d'application de la présente section sont précisées par arrêt
 
 ###### Article D351-20-1
 
-- Les associations ou groupements d'associations qui ont conclu avec le ministère de l'éducation nationale une convention-cadre à l'effet d'assurer l'aide individuelle mentionnée à l'article L. 351-3 peuvent recruter les personnels dont la continuité de l'accompagnement a été reconnue comme nécessaire aux élèves handicapés en vertu du II et bénéficier à ce titre d'une subvention dans les conditions prévues au III.
+I. - Les associations ou groupements d'associations qui ont conclu avec le ministère de l'éducation nationale une convention-cadre à l'effet d'assurer l'aide individuelle mentionnée à l'article L. 351-3 peuvent recruter les personnels dont la continuité de l'accompagnement a été reconnue comme nécessaire aux élèves handicapés en vertu du II et bénéficier à ce titre d'une subvention dans les conditions prévues au III.
 
-- Les personnels employés par le ministère de l'éducation nationale ou par les établissements publics locaux d'enseignement assurant auprès d'élèves handicapés une aide individuelle peuvent, lorsque les dispositions législatives et réglementaires en vigueur ne permettent pas le renouvellement de leur contrat, demander au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, leur inscription sur une liste départementale.
+II. - Les personnels employés par le ministère de l'éducation nationale ou par les établissements publics locaux d'enseignement assurant auprès d'élèves handicapés une aide individuelle peuvent, lorsque les dispositions législatives et réglementaires en vigueur ne permettent pas le renouvellement de leur contrat, demander au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, leur inscription sur une liste départementale.
 
 Celui-ci apprécie si la nature particulière du handicap de l'élève rend nécessaire la continuité de son accompagnement par l'agent concerné au regard, notamment, des compétences spécifiques que ce dernier a acquises pour la prise en charge de ce handicap.
 
 S'il conclut à la nécessité d'une telle continuité et si la famille de l'élève en est d'accord, le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie inscrit l'agent concerné sur la liste.
 
-- Lorsqu'ils procèdent au recrutement d'un agent inscrit sur la liste prévue au II, les associations et groupements d'associations employeurs concluent une convention avec le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, qui précise notamment le montant de la subvention attribuée par l'Etat au titre de l'accompagnement de l'élève handicapé.
+III. - Lorsqu'ils procèdent au recrutement d'un agent inscrit sur la liste prévue au II, les associations et groupements d'associations employeurs concluent une convention avec le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, qui précise notamment le montant de la subvention attribuée par l'Etat au titre de l'accompagnement de l'élève handicapé.
 
 Cette subvention est calculée ainsi qu'il suit :
 
@@ -25024,7 +25136,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 La subvention est susceptible d'être révisée en cours d'année pour tenir compte, le cas échéant, des évolutions de la quotité horaire de l'aide individuelle déterminée par la commission des droits et de l'autonomie des personnes handicapées postérieurement au recrutement des intéressés.
 
-- Les modalités de mise en œuvre du présent article et, en particulier, les conditions d'instruction des demandes prévues au II ainsi que les éléments devant figurer dans les conventions mentionnées aux I et III sont définis conjointement par les ministres chargés de l'éducation nationale, du travail, de l'emploi et de la solidarité.
+IV. - Les modalités de mise en œuvre du présent article et, en particulier, les conditions d'instruction des demandes prévues au II ainsi que les éléments devant figurer dans les conventions mentionnées aux I et III sont définis conjointement par les ministres chargés de l'éducation nationale, du travail, de l'emploi et de la solidarité.
 
 ##### Section 3 : Dispositions particulières en faveur des jeunes sourds.
 
@@ -25068,13 +25180,14 @@ Le document mentionné au premier alinéa précise notamment le ou les modes de 
 
 ###### Article R351-26
 
-Les décisions d'autorisation relatives à la création ou à l'extension des établissements et services accueillant des jeunes sourds sont délivrées par les autorités mentionnées à l'article L. 313-3 du code de l'action sociale et des familles. Les autorisations sont prononcées dans les conditions fixées à la section 1 du chapitre III du titre Ier du livre III de ce code en tenant compte des besoins exprimés par les jeunes sourds ou leurs familles et recensés par la Commission des droits et de l'autonomie des personnes handicapées.
+Les décisions d'autorisation relatives à la création ou à l'extension des établissements et services accueillant des jeunes sourds sont délivrées par les autorités mentionnées à l'article L. 313-3 du code de l'action sociale et des familles. Les autorisations sont prononcées dans les conditions fixées à la section 1 du chapitre III du titre Ier du livre III de ce code en tenant compte des besoins exprimés par les jeunes sourds ou leurs familles et recensés par la Commission des droits et de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 800]]
 
 [[START OF PAGE 801]]
+l'autonomie des personnes handicapées.
 
 Les autorités habilitées à délivrer les autorisations d'extension ou de création d'établissements et services accueillant des jeunes sourds et entrant dans le champ d'application du code de l'action sociale et des familles, et les autorités responsables de la mise en place des classes et sections accueillant des jeunes sourds et dépendant du ministère de l'éducation nationale procèdent au niveau régional au recensement des besoins et à l'inventaire des moyens et coordonnent leurs projets en vue de permettre, au même niveau, l'exercice du libre choix du mode de communication.
 
@@ -25554,11 +25667,11 @@ La demande de reconnaissance d'un titre ou d'un diplôme à finalité profession
 
 - 2° Des fiches techniques précisant, pour chaque diplôme ou titre :
 
-- Les compétences, aptitudes, connaissances et qualifications attestées par le diplôme ou le titre ainsi que les emplois et activités auxquels il prépare ;
+- a) Les compétences, aptitudes, connaissances et qualifications attestées par le diplôme ou le titre ainsi que les emplois et activités auxquels il prépare ;
 
-- Les conditions de délivrance du diplôme ou du titre, les modalités de l'examen, la composition et la compétence du jury, la nature, la durée et le contenu pédagogique des actions de formation ;
+- b) Les conditions de délivrance du diplôme ou du titre, les modalités de l'examen, la composition et la compétence du jury, la nature, la durée et le contenu pédagogique des actions de formation ;
 
-- La liste des organismes désignés ou agréés par les autorités de la collectivité pour dispenser la formation menant aux diplômes ou titres. Cette liste comprend le nom, la forme juridique et le lieu du siège social de ces organismes ;
+- c) La liste des organismes désignés ou agréés par les autorités de la collectivité pour dispenser la formation menant aux diplômes ou titres. Cette liste comprend le nom, la forme juridique et le lieu du siège social de ces organismes ;
 
 - 3° L'engagement du chef de l'exécutif de la collectivité à respecter les conditions de délivrance du diplôme ou du titre, mentionnées au 2°, une fois intervenue la reconnaissance par l'Etat, et à signaler toute modification de celles-ci, qui surviendrait antérieurement ou postérieurement à cette reconnaissance ;
 
@@ -25736,7 +25849,7 @@ La demande de reconnaissance d'un titre ou d'un diplôme à finalité profession
 
 - 2° Des fiches techniques précisant, pour chaque diplôme ou titre :
 
-- Les compétences, aptitudes, connaissances et qualifications attestées par le diplôme ou le titre
+- a) Les compétences, aptitudes, connaissances et qualifications attestées par le diplôme ou le titre
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -25746,9 +25859,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ainsi que les emplois et activités auxquels il prépare ;
 
-- Les conditions de délivrance du diplôme ou du titre, les modalités de l'examen, la composition et la compétence du jury, la nature, la durée et le contenu pédagogique des actions de formation ;
+- b) Les conditions de délivrance du diplôme ou du titre, les modalités de l'examen, la composition et la compétence du jury, la nature, la durée et le contenu pédagogique des actions de formation ;
 
-- La liste des organismes désignés ou agréés par les autorités de la collectivité pour dispenser la formation menant aux diplômes ou titres. Cette liste comprend le nom, la forme juridique et le lieu du siège social de ces organismes ;
+- c) La liste des organismes désignés ou agréés par les autorités de la collectivité pour dispenser la formation menant aux diplômes ou titres. Cette liste comprend le nom, la forme juridique et le lieu du siège social de ces organismes ;
 
 - 3° L'engagement du chef de l'exécutif de la collectivité à respecter les conditions de délivrance du diplôme ou du titre, mentionnées au 2°, une fois intervenue la reconnaissance par l'Etat, et à signaler toute modification de celles-ci, qui surviendrait antérieurement ou postérieurement à cette reconnaissance ;
 
@@ -25838,9 +25951,9 @@ Le conseil d'administration du centre de documentation pédagogique de Nouvelle-
 
 - 2° Quatre représentants des collectivités territoriales :
 
-- Un représentant de la collectivité élu par le congrès ;
+- a) Un représentant de la collectivité élu par le congrès ;
 
-- Un représentant de chaque province élu par chaque assemblée de province en son sein ;
+- b) Un représentant de chaque province élu par chaque assemblée de province en son sein ;
 
 - 3° Le directeur de l'institut universitaire de formation des maîtres du Pacifique ;
 
@@ -25860,13 +25973,15 @@ Le président peut en outre inviter à assister à la séance toute personne don
 
 ###### Article R374-17
 
-Le conseil d'administration du centre de documentation pédagogique de Nouvelle-Calédonie est renouvelé tous les trois ans. Dans l'intervalle, et en cas de vacance pour quelque cause que ce soit, notamment pour perte de la qualité au titre de laquelle ils siègent, les administrateurs sont remplacés dans un délai de trois mois. Les nouveaux membres siègent au conseil d'administration jusqu'à la date à laquelle aurait cessé normalement le mandat de ceux qu'ils remplacent.
+Le conseil d'administration du centre de documentation pédagogique de Nouvelle-Calédonie est renouvelé tous les trois ans. Dans l'intervalle, et en cas de vacance pour quelque cause que ce soit, notamment pour perte de la qualité au titre de laquelle ils siègent, les administrateurs sont remplacés dans un délai de trois mois. Les nouveaux membres siègent au conseil d'administration
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 824]]
 
 [[START OF PAGE 825]]
+
+jusqu'à la date à laquelle aurait cessé normalement le mandat de ceux qu'ils remplacent.
 
 Le mandat des administrateurs est renouvelable.
 
@@ -25892,13 +26007,16 @@ Le centre de documentation pédagogique de Nouvelle-Calédonie est dirigé par u
 
 Le directeur représente le centre en justice et dans tous les actes de la vie civile. Il est ordonnateur des dépenses et des recettes de l'établissement.
 
-Le directeur du centre de documentation pédagogique de Nouvelle-Calédonie est nommé, pour une durée de trois ans renouvelable, après avis du ministre chargé de l'outre-mer, par le ministre chargé de l'éducation sur une liste de trois noms proposée par le directeur général du Centre national de documentation pédagogique après avis du vice-recteur, conformément aux dispositions des articles 1er à 3 du décret n° 92-1090 du 2 octobre 1992 fixant les conditions de nomination et d'avancement dans l'emploi de directeur de centre régional de documentation pédagogique.
+Le directeur du centre de documentation pédagogique de Nouvelle-Calédonie est nommé, pour une durée de trois ans renouvelable, après avis du ministre chargé de l'outre-mer, par le ministre chargé de l'éducation sur une liste de trois noms proposée par le directeur général du Centre national de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 825]]
 
 [[START OF PAGE 826]]
+documentation pédagogique après avis du vice-recteur, conformément aux dispositions des articles
+1er à 3 du décret n° 92-1090 du 2 octobre 1992 fixant les conditions de nomination et d'avancement
+dans l'emploi de directeur de centre régional de documentation pédagogique.
 
 ###### Sous-section 2 : Régime financier.
 
@@ -26050,7 +26168,7 @@ Dans chaque école, le conseil d'école est composé des membres suivants :
 
 2° Deux élus :
 
-- Le maire ou son représentant ;
+a) Le maire ou son représentant ;
 
 b) Un conseiller municipal désigné par le conseil municipal ou, lorsque les dépenses de
 
@@ -26080,7 +26198,7 @@ renouvellement de ses membres.
 
 Le conseil d'école se réunit au moins une fois par trimestre, et obligatoirement dans les quinze jours
 
-suivant la proclamation des résultats des élections, sur un ordre du jour adressé au moins huit jours avant la date des réunions aux membres du conseil. En outre, il peut également être réuni à la demande du directeur de l'école, du maire ou de la moitié de ses membres.
+suivant la proclamation des résultats des élections, sur un ordre du jour adressé au moins huit jours
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -26088,11 +26206,13 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 832]]
 
+avant la date des réunions aux membres du conseil. En outre, il peut également être réuni à la demande du directeur de l'école, du maire ou de la moitié de ses membres.
+
 Assistent avec voix consultative aux séances du conseil d'école pour les affaires les intéressant :
 
-- Les personnels du réseau d'aides spécialisées non mentionnées au cinquième alinéa du présent article ainsi que les médecins chargés du contrôle médical scolaire, les infirmiers et infirmières scolaires, les assistants de service social et les agents spécialisés des écoles maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des actions d'intégration d'enfants handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces personnes à s'associer aux travaux du conseil ;
+a) Les personnels du réseau d'aides spécialisées non mentionnées au cinquième alinéa du présent article ainsi que les médecins chargés du contrôle médical scolaire, les infirmiers et infirmières scolaires, les assistants de service social et les agents spécialisés des écoles maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des actions d'intégration d'enfants handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces personnes à s'associer aux travaux du conseil ;
 
-- Le cas échéant, les personnels chargés de l'enseignement des langues vivantes, les maîtres étrangers assurant dans les locaux scolaires des cours de langue et culture d'origine, les maîtres chargés des cours de langue et culture régionales, les personnes chargées des activités complémentaires prévues à l'article L. 216-1 et les représentants des activités périscolaires pour les questions relatives à leurs activités en relation avec la vie de l'école.
+b) Le cas échéant, les personnels chargés de l'enseignement des langues vivantes, les maîtres étrangers assurant dans les locaux scolaires des cours de langue et culture d'origine, les maîtres chargés des cours de langue et culture régionales, les personnes chargées des activités complémentaires prévues à l'article L. 216-1 et les représentants des activités périscolaires pour les questions relatives à leurs activités en relation avec la vie de l'école.
 
 Le président, après avis du conseil, peut inviter une ou plusieurs personnes dont la consultation est jugée utile en fonction de l'ordre du jour.
 
@@ -26108,7 +26228,7 @@ Le conseil d'école, sur proposition du directeur de l'école :
 
 - 3° Dans le cadre de l'élaboration du projet d'école à laquelle il est associé, donne tous avis et présente toutes suggestions sur le fonctionnement de l'école et sur toutes les questions intéressant la vie de l'école, et notamment sur :
 
-- Les actions pédagogiques et éducatives qui sont entreprises pour réaliser les objectifs nationaux du service public d'enseignement ;
+a) Les actions pédagogiques et éducatives qui sont entreprises pour réaliser les objectifs nationaux du service public d'enseignement ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -26116,19 +26236,19 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 833]]
 
-- L'utilisation des moyens alloués à l'école ;
+b) L'utilisation des moyens alloués à l'école ;
 
-- Les conditions de bonne intégration d'enfants handicapés ;
+c) Les conditions de bonne intégration d'enfants handicapés ;
 
-- Les activités périscolaires ;
+d) Les activités périscolaires ;
 
-- La restauration scolaire ;
+e) La restauration scolaire ;
 
-- L'hygiène scolaire ;
+f) L'hygiène scolaire ;
 
-- La protection et la sécurité des enfants dans le cadre scolaire et périscolaire notamment contre toutes les formes de violence et de discrimination, en particulier de harcèlement ;
+g) La protection et la sécurité des enfants dans le cadre scolaire et périscolaire notamment contre toutes les formes de violence et de discrimination, en particulier de harcèlement ;
 
-- Le respect et la mise en application des valeurs et des principes de la République ;
+h) Le respect et la mise en application des valeurs et des principes de la République ;
 
 - 4° Statue sur proposition des équipes pédagogiques pour ce qui concerne la partie pédagogique du projet d'école ;
 
@@ -26136,9 +26256,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - 6° Donne son accord :
 
-- Pour l'organisation d'activités complémentaires éducatives, sportives et culturelles prévues par l'article L. 216-1 ;
+a) Pour l'organisation d'activités complémentaires éducatives, sportives et culturelles prévues par l'article L. 216-1 ;
 
-- Sur le programme d'actions établi par le conseil école-collège prévu par l'article L. 401-4 ;
+b) Sur le programme d'actions établi par le conseil école-collège prévu par l'article L. 401-4 ;
 
 - 7° Est consulté par le maire sur l'utilisation des locaux scolaires en dehors des heures d'ouverture de l'école, conformément à l'article L. 212-15.
 
@@ -26150,9 +26270,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 En outre, une information doit être donnée au sein du conseil d'école sur :
 
-- Les principes de choix de manuels scolaires ou de matériels pédagogiques divers ;
+a) Les principes de choix de manuels scolaires ou de matériels pédagogiques divers ;
 
-- L'organisation des aides spécialisées.
+b) L'organisation des aides spécialisées.
 
 En fin d'année scolaire, le directeur de l'école établit à l'intention des membres du conseil d'école un bilan sur toutes les questions dont a eu à connaître le conseil d'école, notamment sur la réalisation du projet d'école, et sur les suites qui ont été données aux avis qu'il a formulés.
 
@@ -26168,13 +26288,15 @@ Tous les membres des conseils des écoles d'origine sont membres du conseil ains
 
 ###### Article D411-4
 
-A l'issue de chaque séance du conseil d'école, un procès-verbal de la réunion est dressé par son président, signé par celui-ci puis contresigné par le secrétaire de séance et consigné dans un registre spécial conservé à l'école. Deux exemplaires du procès-verbal sont adressés à l'inspecteur de l'éducation nationale chargé de la circonscription d'enseignement du premier degré et un exemplaire est adressé au maire. Un exemplaire du procès-verbal est affiché en un lieu accessible aux parents d'élèves.
+A l'issue de chaque séance du conseil d'école, un procès-verbal de la réunion est dressé par son président, signé par celui-ci puis contresigné par le secrétaire de séance et consigné dans un registre spécial conservé à l'école. Deux exemplaires du procès-verbal sont adressés à l'inspecteur de l'éducation nationale chargé de la circonscription d'enseignement du premier degré et un exemplaire est adressé au maire. Un exemplaire du procès-verbal est affiché en un lieu accessible aux parents
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 834]]
 
 [[START OF PAGE 835]]
+
+d'élèves.
 
 ###### Article R411-5
 
@@ -26210,13 +26332,15 @@ Dans chaque école, un projet d'école est élaboré par le conseil des maîtres
 
 Le projet d'école définit les modalités particulières de mise en œuvre des objectifs et des programmes nationaux ; il précise pour chaque cycle les actions pédagogiques qui y concourent ainsi que les voies et moyens mis en œuvre pour assurer la réussite de tous les élèves et pour associer les parents ou le représentant légal à cette fin. Il organise la continuité éducative avec les activités proposées aux élèves en dehors du temps scolaire, notamment dans le cadre des dispositifs de réussite éducative.
 
-Le projet d'école peut prévoir, pour une durée maximale de cinq ans, la réalisation d'expérimentations portant sur les domaines énumérés au troisième alinéa de l'article L. 401-1. Les objectifs, principes et modalités générales de ces expérimentations sont approuvés par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. Ces expérimentations font l'objet d'une évaluation annuelle par le conseil des maîtres de l'école ; les corps d'inspection concourent à cette évaluation.
+Le projet d'école peut prévoir, pour une durée maximale de cinq ans, la réalisation d'expérimentations portant sur les domaines énumérés au troisième alinéa de l'article L. 401-1. Les
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 835]]
 
 [[START OF PAGE 836]]
+
+objectifs, principes et modalités générales de ces expérimentations sont approuvés par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. Ces expérimentations font l'objet d'une évaluation annuelle par le conseil des maîtres de l'école ; les corps d'inspection concourent à cette évaluation.
 
 ###### Article D411-9
 
@@ -26238,13 +26362,13 @@ Les classes des écoles régionales du premier degré sont soumises aux mêmes r
 
 Sont applicables aux écoles régionales du premier degré les dispositions des articles R. 421-2 à R. 421-8, R. 421-9, sous réserve des dispositions du deuxième alinéa du présent article, R. 421-10 à R. 421-13, R. 421-15, R. 421-17, sous réserve des dispositions du dernier alinéa du présent article, à R. 421-20, R. 421-23 à R. 421-26, R. 421-29 et R. 421-30, uniquement en ce qui concerne les personnels et les parents d'élèves, D. 421-31 à R. 421-36, R. 421-46, R. 421-47 et R. 421-53 à R.
 
-- 421-78.
+421-78.
 
 Pour son application aux écoles régionales du premier degré :
 
-- Le 3° de l'article R. 421-9 est ainsi rédigé : « Préside le conseil d'administration ; » ;
+a) Le 3° de l'article R. 421-9 est ainsi rédigé : « Préside le conseil d'administration ; » ;
 
-- Le 9° de l'article R. 421-17 est ainsi rédigé : « Quatre représentants élus des parents d'élèves et quatre représentants des professions non sédentaires nommés par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. »
+b) Le 9° de l'article R. 421-17 est ainsi rédigé : « Quatre représentants élus des parents d'élèves et quatre représentants des professions non sédentaires nommés par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie. »
 
 ###### Article D412-4
 
@@ -26326,13 +26450,15 @@ Le contrat d'objectifs conclu avec l'autorité académique et, lorsqu'elle souha
 
 ###### Article R421-5
 
-Le règlement intérieur, adopté par le conseil d'administration, définit les droits et les devoirs de chacun des membres de la communauté éducative. Il rappelle les règles de civilité et de comportement.
+Le règlement intérieur, adopté par le conseil d'administration, définit les droits et les devoirs de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 839]]
 
 [[START OF PAGE 840]]
+
+chacun des membres de la communauté éducative. Il rappelle les règles de civilité et de comportement.
 
 Il détermine notamment les modalités selon lesquelles sont mis en application :
 
@@ -26434,9 +26560,9 @@ En qualité de représentant de l'Etat au sein de l'établissement, le chef d'é
 
 A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions prévues à l'article R. 421-10-1, soit en saisissant le conseil de discipline :
 
-- Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
 
-- Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
 
 Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14 ainsi que les mesures de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur.
 
@@ -26470,19 +26596,21 @@ Le chef d'établissement informe le conseil d'administration des décisions pris
 
 ###### Article R421-13
 
-- Le chef d'établissement est secondé dans ses missions par un chef d'établissement adjoint, membre de l'équipe de direction, nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet ainsi que, le cas échéant, par le directeur adjoint de la section d'enseignement général et professionnel adapté. Un professeur ou un conseiller principal d'éducation peut assurer à temps partiel ces fonctions d'adjoint. Dans une école régionale du premier degré ou un établissement régional d'enseignement adapté, cette fonction peut être assurée par un enseignant du premier degré titulaire du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la scolarisation des élèves en situation de handicap, ou de l'un des diplômes auquel il se substitue, ou par un enseignant du second degré titulaire du certificat complémentaire pour les enseignements adaptés et la scolarisation des élèves en situation de handicap.
+I. - Le chef d'établissement est secondé dans ses missions par un chef d'établissement adjoint, membre de l'équipe de direction, nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet ainsi que, le cas échéant, par le directeur adjoint de la section d'enseignement général et professionnel adapté. Un professeur ou un conseiller principal d'éducation peut assurer à temps partiel ces fonctions d'adjoint. Dans une école régionale du premier degré ou un établissement régional d'enseignement adapté, cette fonction peut être assurée par un enseignant du premier degré titulaire du certificat d'aptitude professionnelle pour les aides spécialisées, les enseignements adaptés et la scolarisation des élèves en situation de handicap, ou de l'un des diplômes auquel il se substitue, ou par un enseignant du second degré titulaire du certificat complémentaire pour les enseignements adaptés et la scolarisation des élèves en situation de handicap.
 
-- Dans ses fonctions de gestion matérielle, financière et administrative, le chef d'établissement est secondé par un adjoint gestionnaire, membre de l'équipe de direction, nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet, parmi les personnels de l'administration scolaire et universitaire. L'adjoint gestionnaire est chargé, sous l'autorité du chef d'établissement et dans son champ de compétence, des relations avec les collectivités territoriales et il organise le travail des personnels administratifs et techniques affectés ou mis à disposition de l'établissement.
+II. - Dans ses fonctions de gestion matérielle, financière et administrative, le chef d'établissement est secondé par un adjoint gestionnaire, membre de l'équipe de direction, nommé par le ministre chargé de l'éducation ou l'autorité académique habilitée à cet effet, parmi les personnels de l'administration scolaire et universitaire. L'adjoint gestionnaire est chargé, sous l'autorité du chef d'établissement et dans son champ de compétence, des relations avec les collectivités territoriales et il organise le travail des personnels administratifs et techniques affectés ou mis à disposition de l'établissement.
 
-- Le chef d'établissement peut déléguer sa signature à chacun de ses adjoints.
+III. - Le chef d'établissement peut déléguer sa signature à chacun de ses adjoints.
 
-En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par le chef d'établissement adjoint, notamment pour la présidence des instances de l'établissement.
+En cas d'absence ou d'empêchement, le chef d'établissement est suppléé par le chef d'établissement
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 843]]
 
 [[START OF PAGE 844]]
+
+adjoint, notamment pour la présidence des instances de l'établissement.
 
 En cas d'absence ou d'empêchement du chef d'établissement, lorsque celui-ci n'a donné aucune délégation à cet effet, l'autorité académique nomme un ordonnateur suppléant qui peut être le chef d'établissement adjoint ou l'adjoint gestionnaire, sous réserve que celui-ci ne soit pas l'agent comptable de l'établissement, ou le chef d'un autre établissement.
 
@@ -26624,13 +26752,13 @@ b) Les tarifs des ventes des produits et de prestations de services réalisés p
 
 6° Il donne son accord sur :
 
-- Les orientations relatives à la conduite du dialogue avec les parents d'élèves ;
+a) Les orientations relatives à la conduite du dialogue avec les parents d'élèves ;
 
-- Le programme de l'association sportive fonctionnant au sein de l'établissement ;
+b) Le programme de l'association sportive fonctionnant au sein de l'établissement ;
 
-- L'adhésion à tout groupement d'établissements ;
+c) L'adhésion à tout groupement d'établissements ;
 
-- La passation des marchés, contrats et conventions dont l'établissement est signataire, à l'exception :
+d) La passation des marchés, contrats et conventions dont l'établissement est signataire, à l'exception :
 
 -des marchés qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ;
 
@@ -26640,9 +26768,9 @@ b) Les tarifs des ventes des produits et de prestations de services réalisés p
 
 e) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public ;
 
-- La programmation et les modalités de financement des voyages scolaires ;
+f) La programmation et les modalités de financement des voyages scolaires ;
 
-- Le programme d'actions établi chaque année par le conseil école-collège.
+g) Le programme d'actions établi chaque année par le conseil école-collège.
 
 7° Il délibère sur :
 
@@ -26656,7 +26784,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 848]]
 
-- Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures à prendre en ce domaine au sein de l'établissement ;
+c) Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures à prendre en ce domaine au sein de l'établissement ;
 
 - 8° Il peut définir, dans le cadre du projet d'établissement et, le cas échéant, des orientations de la collectivité territoriale de rattachement en matière de fonctionnement matériel, toutes actions particulières propres à assurer une meilleure utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ;
 
@@ -26986,13 +27114,15 @@ Le conseil pédagogique se réunit au moins trois fois par an et en tant que de 
 
 ###### Article R421-41-6
 
-Le conseil pédagogique ne peut valablement siéger que si le nombre des membres présents, en début de séance, est égal à la majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil pédagogique est convoqué, au plus tôt le jour suivant celui de sa première convocation et au plus tard avant la tenue du conseil d'administration le plus proche, en vue d'une nouvelle réunion ; il se prononce alors valablement, quel que soit le nombre des membres présents.
+Le conseil pédagogique ne peut valablement siéger que si le nombre des membres présents, en début de séance, est égal à la majorité des membres composant le conseil. Si ce quorum n'est pas atteint, le conseil pédagogique est convoqué, au plus tôt le jour suivant celui de sa première
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 856]]
 
 [[START OF PAGE 857]]
+
+convocation et au plus tard avant la tenue du conseil d'administration le plus proche, en vue d'une nouvelle réunion ; il se prononce alors valablement, quel que soit le nombre des membres présents.
 
 ###### Sous-section 5 : Les instances représentatives des élèves et le comité d'éducation à la santé et à la citoyenneté
 
@@ -27016,13 +27146,15 @@ Pour chaque titulaire, un suppléant est élu dans les mêmes conditions. Lorsqu
 
 Le mandat des membres du conseil expire le jour de la première réunion qui suit l'élection de la catégorie à laquelle ils appartiennent.
 
-Les membres du conseil des délégués à la vie lycéenne sont renouvelés par moitié tous les ans. Assistent, à titre consultatif, aux réunions du conseil des délégués pour la vie lycéenne des représentants des personnels et des parents d'élèves dont le nombre est égal à celui des membres. Les représentants des personnels sont désignés chaque année, pour cinq d'entre eux, parmi les membres volontaires des personnels d'enseignement, d'éducation et d'assistance éducative ou pédagogique et, pour trois d'entre eux, parmi les membres volontaires des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service de l'établissement, par le conseil d'administration du lycée, sur proposition des représentants de leur catégorie au sein de ce conseil. Deux représentants des parents d'élèves sont élus, en leur sein, par les représentants des parents d'élèves au conseil d'administration.
+Les membres du conseil des délégués à la vie lycéenne sont renouvelés par moitié tous les ans. Assistent, à titre consultatif, aux réunions du conseil des délégués pour la vie lycéenne des représentants des personnels et des parents d'élèves dont le nombre est égal à celui des membres. Les représentants des personnels sont désignés chaque année, pour cinq d'entre eux, parmi les membres volontaires des personnels d'enseignement, d'éducation et d'assistance éducative ou pédagogique et, pour trois d'entre eux, parmi les membres volontaires des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service de l'établissement, par le conseil
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 857]]
 
 [[START OF PAGE 858]]
+
+d'administration du lycée, sur proposition des représentants de leur catégorie au sein de ce conseil. Deux représentants des parents d'élèves sont élus, en leur sein, par les représentants des parents d'élèves au conseil d'administration.
 
 Le conseil est présidé par le chef d'établissement.
 
@@ -27038,11 +27170,11 @@ Le conseil des délégués pour la vie lycéenne exerce les attributions suivant
 
 - 2° Il est obligatoirement consulté :
 
-- Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire, sur l'élaboration du projet d'établissement et du règlement intérieur, ainsi que sur les questions de restauration et d'internat ;
+a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire, sur l'élaboration du projet d'établissement et du règlement intérieur, ainsi que sur les questions de restauration et d'internat ;
 
-- Sur les modalités générales de l'organisation du travail personnel, de l'accompagnement personnalisé, des dispositifs d'accompagnement des changements d'orientation, du soutien et de l'aide aux élèves, des échanges linguistiques et culturels en partenariat avec les établissements d'enseignement européens et étrangers et sur l'information relative à l'orientation, aux études scolaires et universitaires et aux carrières professionnelles ;
+b) Sur les modalités générales de l'organisation du travail personnel, de l'accompagnement personnalisé, des dispositifs d'accompagnement des changements d'orientation, du soutien et de l'aide aux élèves, des échanges linguistiques et culturels en partenariat avec les établissements d'enseignement européens et étrangers et sur l'information relative à l'orientation, aux études scolaires et universitaires et aux carrières professionnelles ;
 
-- Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des activités sportives, culturelles et périscolaires.
+c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des activités sportives, culturelles et périscolaires.
 
 Le vice-président du conseil des délégués pour la vie lycéenne présente au conseil d'administration les avis et les propositions, ainsi que les comptes rendus de séance du conseil des délégués de la vie lycéenne, qui sont, le cas échéant, inscrits à l'ordre du jour et peuvent faire l'objet d'un affichage dans les conditions prévues à l'article R. 511-7.
 
@@ -27168,17 +27300,17 @@ Les actes relatifs au fonctionnement de l'établissement qui, pour devenir exéc
 
 - 1° Les délibérations du conseil d'administration relatives :
 
-- A la passation des conventions et contrats, et notamment des marchés ;
+a) A la passation des conventions et contrats, et notamment des marchés ;
 
-- Au recrutement de personnels ;
+b) Au recrutement de personnels ;
 
-- Au financement des voyages scolaires.
+c) Au financement des voyages scolaires.
 
 Ces délibérations sont exécutoires quinze jours après leur transmission ;
 
 - 2° Les décisions du chef d'établissement relatives :
 
-- Au recrutement et au licenciement des personnels liés par contrat à l'établissement ainsi qu'aux mesures disciplinaires prises à l'encontre de ces personnels ;
+a) Au recrutement et au licenciement des personnels liés par contrat à l'établissement ainsi qu'aux mesures disciplinaires prises à l'encontre de ces personnels ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -27186,7 +27318,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 862]]
 
-- Aux marchés et aux conventions comportant des incidences financières, à l'exception des marchés passés selon une procédure adaptée en raison de leur montant conformément aux dispositions de l'article 28 du code des marchés publics.
+b) Aux marchés et aux conventions comportant des incidences financières, à l'exception des marchés passés selon une procédure adaptée en raison de leur montant conformément aux dispositions de l'article 28 du code des marchés publics.
 
 Ces décisions sont exécutoires dès leur transmission.
 
@@ -27300,13 +27432,15 @@ Lorsqu'il est fait application des dispositions combinées de l'article L. 1612-
 
 ###### Article R421-62
 
-La création des groupements comptables est arrêtée par le recteur de l'académie après avis des conseils d'administration des établissements publics locaux d'enseignement intéressés et des collectivités territoriales de rattachement. Chacun des établissements appartenant à un groupement comptable conserve sa personnalité morale et son autonomie financière. Une convention entre les établissements membres précise, les modalités de fonctionnement du groupement. Le directeur départemental des finances publiques territorialement compétent est celui de la circonscription dans laquelle est situé le siège du groupement comptable.
+La création des groupements comptables est arrêtée par le recteur de l'académie après avis des conseils d'administration des établissements publics locaux d'enseignement intéressés et des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 864]]
 
 [[START OF PAGE 865]]
+
+collectivités territoriales de rattachement. Chacun des établissements appartenant à un groupement comptable conserve sa personnalité morale et son autonomie financière. Une convention entre les établissements membres précise, les modalités de fonctionnement du groupement. Le directeur départemental des finances publiques territorialement compétent est celui de la circonscription dans laquelle est situé le siège du groupement comptable.
 
 ###### Article R421-63
 
@@ -27334,13 +27468,15 @@ Les produits attribués à l'établissement avec une destination déterminée, l
 
 Toutefois, la réduction ou la modification de l'affectation des charges résultant de dons et legs peut être prononcée dans les conditions prévues par le code du domaine de l'Etat, les lois et règlements.
 
-Dans les mêmes conditions, la périodicité des attributions prévues par le disposant ou le groupement en une seule attribution des revenus provenant de libéralités assorties de charges analogues peut être autorisée.
+Dans les mêmes conditions, la périodicité des attributions prévues par le disposant ou le groupement en une seule attribution des revenus provenant de libéralités assorties de charges
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 865]]
 
 [[START OF PAGE 866]]
+
+analogues peut être autorisée.
 
 ###### Article R421-67
 
@@ -27528,9 +27664,9 @@ En qualité de représentant de l'Etat au sein de l'établissement, le chef d'é
 
 A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions prévues à l'article R. 421-85-1, soit en saisissant le conseil de discipline :
 
-- Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
+a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
 
-- Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
+b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
 
 Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-16 ainsi que les mesures de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur.
 
@@ -27666,11 +27802,11 @@ En qualité d'organe délibérant de l'établissement, le conseil d'administrati
 
 - 4° Il donne son accord sur :
 
-- Le programme des associations fonctionnant au sein de l'établissement ;
+a) Le programme des associations fonctionnant au sein de l'établissement ;
 
-- La passation des contrats, conventions et marchés dont l'établissement est signataire ou l'adhésion à tout groupement d'établissements ;
+b) La passation des contrats, conventions et marchés dont l'établissement est signataire ou l'adhésion à tout groupement d'établissements ;
 
-- Les modalités de participation de l'établissement aux actions de formation continue ;
+c) Les modalités de participation de l'établissement aux actions de formation continue ;
 
 - 5° Il délibère sur les questions qui relèvent de sa compétence ainsi que sur celles ayant trait aux domaines sanitaire et social et à la sécurité, à l'information des membres de la communauté scolaire, à la constitution au sein de l'établissement de groupes de travail ;
 
@@ -27806,9 +27942,7 @@ Le budget des lycées professionnels maritimes, qui comprend une section de fonc
 
 Ces ressources comprennent notamment :
 
-- 1° Des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles
-
-- 211-8, L. 213-2, L. 214-6, L. 216-4 à L. 216-6 et L. 421-11 ;
+- 1° Des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles L. 211-8, L. 213-2, L. 214-6, L. 216-4 à L. 216-6 et L. 421-11 ;
 
 - 2° Toute autre contribution d'une collectivité publique ou privée ;
 
@@ -28098,11 +28232,11 @@ Dans les collèges et les lycées, le conseil est composé des membres suivants 
 
 - 6° Quatre personnalités locales, dont :
 
-- Un représentant de la collectivité territoriale de rattachement ;
+- a) Un représentant de la collectivité territoriale de rattachement ;
 
-- Un représentant de la commune ou du groupement de communes siège de l'établissement ;
+- b) Un représentant de la commune ou du groupement de communes siège de l'établissement ;
 
-- Deux personnalités choisies par le recteur d'académie en fonction de l'intérêt qu'elles portent au fonctionnement de la section internationale.
+- c) Deux personnalités choisies par le recteur d'académie en fonction de l'intérêt qu'elles portent au fonctionnement de la section internationale.
 
 ###### Article D421-140
 
@@ -28152,13 +28286,13 @@ Ce conseil comporte les membres suivants :
 
 - 9° Sept personnalités locales, dont :
 
-- Un représentant du département ;
+- a) Un représentant du département ;
 
-- Un représentant de la région ;
+- b) Un représentant de la région ;
 
-- Le maire d'une commune siège d'une école ou d'un établissement comportant une ou plusieurs sections internationales ;
+- c) Le maire d'une commune siège d'une école ou d'un établissement comportant une ou plusieurs sections internationales ;
 
-- Quatre personnalités choisies en fonction de l'intérêt qu'elles portent aux sections internationales. Les représentants des personnels enseignants, des parents d'élèves et des élèves au conseil académique des sections internationales sont désignés par le recteur parmi les membres des conseils des sections internationales d'école, de collège ou de lycée de l'académie.
+- d) Quatre personnalités choisies en fonction de l'intérêt qu'elles portent aux sections internationales. Les représentants des personnels enseignants, des parents d'élèves et des élèves au conseil académique des sections internationales sont désignés par le recteur parmi les membres des conseils des sections internationales d'école, de collège ou de lycée de l'académie.
 
 ###### Sous-section 2 : Les sections binationales
 
@@ -28440,9 +28574,9 @@ En qualité de représentant de l'Etat au sein de l'établissement, le chef d'é
 
 A l'égard des élèves, il est tenu, dans les cas suivants, d'engager une procédure disciplinaire, soit dans les conditions prévues à l'article D. 422-7-1, soit en saisissant le conseil de discipline :
 
-- Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
+- a) Lorsque l'élève est l'auteur de violence verbale à l'égard d'un membre du personnel de l'établissement ;
 
-- Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
+- b) Lorsque l'élève commet un acte grave à l'égard d'un membre du personnel ou d'un autre élève.
 
 Il peut prononcer sans saisir le conseil de discipline les sanctions mentionnées à l'article R. 511-14, ainsi que les mesures de prévention, d'accompagnement et les mesures alternatives aux sanctions prévues au règlement intérieur.
 
@@ -28578,25 +28712,25 @@ En qualité d'organe délibérant de l'établissement, le conseil d'administrati
 
 - 6° Il donne son accord sur :
 
-- Les orientations relatives à la conduite du dialogue avec les parents d'élèves ;
+- a) Les orientations relatives à la conduite du dialogue avec les parents d'élèves ;
 
-- Le programme de l'association sportive fonctionnant au sein de l'établissement ;
+- b) Le programme de l'association sportive fonctionnant au sein de l'établissement ;
 
-- L'adhésion à tout groupement d'établissements ou la passation des conventions et contrats dont l'établissement est signataire, à l'exception :
+- c) L'adhésion à tout groupement d'établissements ou la passation des conventions et contrats dont l'établissement est signataire, à l'exception :
 
 # des marchés qui figurent sur un état prévisionnel de la commande publique annexé au budget ou qui s'inscrivent dans le cadre d'une décision modificative adoptée conformément au 2° de l'article R. 421-60 ;
 
 # en cas d'urgence, des marchés qui se rattachent à des opérations de gestion courante dont le montant est inférieur à 5 000 euros hors taxes, ou à 15 000 euros hors taxes pour les travaux et les équipements ;
 
-- Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public ;
+- d) Les modalités de participation au plan d'action du groupement d'établissements pour la formation des adultes auquel l'établissement adhère, le programme annuel des activités de formation continue et l'adhésion de l'établissement à un groupement d'intérêt public ;
 
 - 7° Il délibère sur :
 
-- Toute question dont il a à connaître en vertu des lois et règlements en vigueur ;
+- a) Toute question dont il a à connaître en vertu des lois et règlements en vigueur ;
 
-- Celles ayant trait à l'information des membres de la communauté éducative et à la création de groupes de travail au sein de l'établissement ;
+- b) Celles ayant trait à l'information des membres de la communauté éducative et à la création de groupes de travail au sein de l'établissement ;
 
-- Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales
+- c) Les questions relatives à l'accueil et à l'information des parents d'élèves, les modalités générales
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -28606,7 +28740,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 de leur participation à la vie scolaire ;
 
-- Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures à prendre en ce domaine au sein de l'établissement ;
+- d) Les questions relatives à l'hygiène, à la santé, à la sécurité : le conseil d'administration peut décider la création d'un organe compétent composé notamment de représentants de l'ensemble des personnels de l'établissement pour proposer les mesures à prendre en ce domaine au sein de l'établissement ;
 
 - 8° Il peut définir, dans le cadre du projet d'établissement, toutes actions particulières propres à assurer une meilleure utilisation des moyens alloués à l'établissement et une bonne adaptation à son environnement ;
 
@@ -28656,31 +28790,31 @@ Sous réserve des dispositions particulières applicables au budget et aux déci
 
 - 1° Les délibérations du conseil d'administration relatives au fonctionnement de l'établissement qui, pour devenir exécutoires, doivent être transmises à l'autorité académique sont celles relatives :
 
-- A la passation des conventions et contrats, et notamment des marchés ;
+- a) A la passation des conventions et contrats, et notamment des marchés ;
 
-- Au recrutement de personnels ;
+- b) Au recrutement de personnels ;
 
-- Aux tarifs du service annexe d'hébergement ;
+- c) Aux tarifs du service annexe d'hébergement ;
 
-- Au financement des voyages scolaires.
+- d) Au financement des voyages scolaires.
 
 Les délibérations sont exécutoires quinze jours après leur transmission.
 
 - 2° Les délibérations du conseil d'administration portant sur le contenu ou l'organisation de l'action éducatrice qui, pour devenir exécutoires, doivent être transmises à l'autorité académique sont celles relatives :
 
-- Au règlement intérieur de l'établissement ;
+- a) Au règlement intérieur de l'établissement ;
 
-- A l'organisation de la structure pédagogique ;
+- b) A l'organisation de la structure pédagogique ;
 
-- A l'emploi de la dotation horaire globalisée ;
+- c) A l'emploi de la dotation horaire globalisée ;
 
-- A l'organisation du temps scolaire ;
+- d) A l'organisation du temps scolaire ;
 
-- Au projet d'établissement ;
+- e) Au projet d'établissement ;
 
-- Au rapport annuel sur le fonctionnement pédagogique ;
+- f) Au rapport annuel sur le fonctionnement pédagogique ;
 
-- A la définition, compte tenu des schémas régionaux, des actions de formation complémentaire et de formation continue destinées aux jeunes et aux adultes.
+- g) A la définition, compte tenu des schémas régionaux, des actions de formation complémentaire et de formation continue destinées aux jeunes et aux adultes.
 
 Les délibérations sont exécutoires quinze jours après leur transmission.
 
@@ -28696,13 +28830,17 @@ Les instructeurs font partie du même collège électoral que celui des personne
 
 Les titulaires exerçant à temps complet ou partiel sont électeurs ; ils sont aussi éligibles lorsqu'ils n'ont pas la qualité de membre de droit.
 
-Les non-titulaires ne sont électeurs que s'ils sont employés par l'établissement pour une durée au moins égale à 150 heures annuelles. Ils ne sont éligibles que s'ils sont nommés pour l'année scolaire. Les personnels votent dans l'établissement où ils ont été affectés ou par lequel ils ont été recrutés. établissements, ils votent dans l'établissement de leur choix. Les personnels remplaçants votent dans Ceux qui exercent dans plusieurs établissements votent dans l'établissement où ils effectuent la partie la plus importante de leur service ; en cas de répartition égale de celui-ci entre deux l'établissement où ils exercent leurs fonctions au moment des élections à la condition d'y être affectés pour une durée supérieure à trente jours.
+Les non-titulaires ne sont électeurs que s'ils sont employés par l'établissement pour une durée au
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 897]]
 
 [[START OF PAGE 898]]
+
+moins égale à 150 heures annuelles. Ils ne sont éligibles que s'ils sont nommés pour l'année scolaire.
+
+Les personnels votent dans l'établissement où ils ont été affectés ou par lequel ils ont été recrutés. Ceux qui exercent dans plusieurs établissements votent dans l'établissement où ils effectuent la partie la plus importante de leur service ; en cas de répartition égale de celui-ci entre deux établissements, ils votent dans l'établissement de leur choix. Les personnels remplaçants votent dans l'établissement où ils exercent leurs fonctions au moment des élections à la condition d'y être affectés pour une durée supérieure à trente jours.
 
 Les fonctionnaires stagiaires régis par le décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics sont électeurs et éligibles.
 
@@ -28894,11 +29032,11 @@ Le conseil des délégués pour la vie lycéenne exerce les attributions suivant
 
 - 2° Il est obligatoirement consulté :
 
-- Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire et sur l'élaboration du projet d'établissement et du règlement intérieur ;
+- a) Sur les questions relatives aux principes généraux de l'organisation des études, sur l'organisation du temps scolaire et sur l'élaboration du projet d'établissement et du règlement intérieur ;
 
-- Sur les modalités générales de l'organisation du travail personnel et du soutien des élèves, sur l'information liée à l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ;
+- b) Sur les modalités générales de l'organisation du travail personnel et du soutien des élèves, sur l'information liée à l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ;
 
-- Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des activités sportives, culturelles et périscolaires.
+- c) Sur la santé, l'hygiène et la sécurité, sur l'aménagement des espaces destinés à la vie lycéenne et sur l'organisation des activités sportives, culturelles et périscolaires.
 
 Ses avis et ses propositions, ainsi que les comptes rendus de séance, sont portés à la connaissance et, le cas échéant, inscrits à l'ordre du jour du conseil d'administration et peuvent faire l'objet d'un affichage conformément aux dispositions de l'article R. 511-7.
 
@@ -29256,7 +29394,7 @@ La convention peut être modifiée par avenant, également soumis à l'approbati
 
 ###### Article D423-3
 
-- L'assemblée générale du groupement comprend :
+I. - L'assemblée générale du groupement comprend :
 
 - 1° Les chefs des établissements membres du groupement ;
 
@@ -29270,7 +29408,7 @@ L'assemblée générale est présidée par le président du groupement.
 
 Le président du groupement est un chef d'établissement, membre du groupement et élu en son sein par l'assemblée générale pour une durée de trois ans.
 
-- Participent aux séances de l'assemblée générale, à titre consultatif :
+II. - Participent aux séances de l'assemblée générale, à titre consultatif :
 
 - 1° Le recteur d'académie ou son représentant ;
 
@@ -29432,9 +29570,9 @@ Les lycées de la défense ont pour vocation à dispenser :
 
 Ils comprennent :
 
-- Au titre de l'aide à la famille, des classes de l'enseignement du second degré ;
+- a) Au titre de l'aide à la famille, des classes de l'enseignement du second degré ;
 
-- Au titre de l'aide au recrutement, des classes préparatoires aux écoles de formation d'officiers des armées et des formations rattachées ainsi que, le cas échéant, des classes préparatoires aux études supérieures.
+- b) Au titre de l'aide au recrutement, des classes préparatoires aux écoles de formation d'officiers des armées et des formations rattachées ainsi que, le cas échéant, des classes préparatoires aux études supérieures.
 
 La liste de ces classes est fixée par arrêté du ministre de la défense.
 
@@ -29584,9 +29722,9 @@ L'exonération prévue à l'article R. 425-20devient définitive lorsque :
 
 - 1° Dans un délai de six ans à compter du 1er octobre de l'année d'obtention du baccalauréat :
 
-- L'intéressé est nommé au premier grade d'officier dans l'armée active ou les formations rattachées ;
+- a) L'intéressé est nommé au premier grade d'officier dans l'armée active ou les formations rattachées ;
 
-- L'intéressé, admis dans une école de formation d'officiers des armées ou des formations rattachées, est soit radié de l'école pour inaptitude physique définitive, soit exclu de l'école pour insuffisance de résultats ;
+- b) L'intéressé, admis dans une école de formation d'officiers des armées ou des formations rattachées, est soit radié de l'école pour inaptitude physique définitive, soit exclu de l'école pour insuffisance de résultats ;
 
 - 2° Dans un délai maximal d'un an après son départ du lycée de la défense, l'intéressé entre au service de l'État pour une durée minimale de trois années, en particulier au titre d'un contrat d'engagement dans les armées ou les formations rattachées. Toutefois, en cas de cessation de ce service avant trois ans pour toute autre cause que l'inaptitude physique, les sommes dues sont proportionnelles à la durée du service restant à accomplir pour parfaire les trois années.
 
@@ -29662,17 +29800,17 @@ Le conseil d'administration du Centre national d'enseignement à distance compre
 
 1° Six représentants de l'Etat ainsi désignés :
 
-- Quatre par les ministres chargés de l'éducation et de l'enseignement supérieur ;
+- a) Quatre par les ministres chargés de l'éducation et de l'enseignement supérieur ;
 
-- Un par le ministre chargé de la recherche ;
+- b) Un par le ministre chargé de la recherche ;
 
-- Un par le ministre chargé de la formation professionnelle ;
+- c) Un par le ministre chargé de la formation professionnelle ;
 
 - 2° Six représentants du centre élus par les personnels de l'établissement et parmi eux, dont :
 
-- Trois représentants des personnels enseignants ;
+- a) Trois représentants des personnels enseignants ;
 
-- Trois représentants des personnels administratifs et techniques ;
+- b) Trois représentants des personnels administratifs et techniques ;
 
 - 3° Six personnalités qualifiées désignées par arrêté des ministres chargés de l'éducation et de l'enseignement supérieur, dont l'une sur proposition du ministre des affaires étrangères.
 
@@ -29828,13 +29966,15 @@ En cas de vacance de siège pour quelque cause que ce soit survenant plus de tro
 
 ###### Article R426-15
 
-Les modalités d'élection des représentants du personnel au conseil d'administration et au conseil d'orientation du Centre national d'enseignement à distance sont fixées par arrêté des ministres chargés de l'éducation et de l'enseignement supérieur.
+Les modalités d'élection des représentants du personnel au conseil d'administration et au conseil d'orientation du Centre national d'enseignement à distance sont fixées par arrêté des ministres
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 927]]
 
 [[START OF PAGE 928]]
+
+chargés de l'éducation et de l'enseignement supérieur.
 
 ###### Article R426-16
 
@@ -29878,13 +30018,15 @@ Les ressources du Centre national d'enseignement à distance comprennent :
 
 ###### Article R426-19
 
-Les dépenses du Centre national d'enseignement à distance comprennent les frais de personnel, de fonctionnement et d'équipement et, d'une manière générale, toutes les dépenses nécessaires aux activités de l'établissement.
+Les dépenses du Centre national d'enseignement à distance comprennent les frais de personnel, de fonctionnement et d'équipement et, d'une manière générale, toutes les dépenses nécessaires aux
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 928]]
 
 [[START OF PAGE 929]]
+
+activités de l'établissement.
 
 ###### Article R426-20
 
@@ -29926,7 +30068,7 @@ Les règles relatives à la dénonciation des conventions sont fixées par les a
 
 Les règles relatives aux modalités d'organisation administrative et pédagogique des centres de formation d'apprentis, des sections d'apprentissage et des unités de formation par apprentissage sont fixées par les articles R. 116-3, R. 116-4 à R. 116-8, R. 116-10, R. 116-11, R. 116-13 et R. 116-32-1 du code du travail.
 
-###### Article 431-3
+###### Article R431-3
 
 Les règles relatives aux dispositions financières des conventions portant création de centres de formation d'apprentis ou de sections d'apprentissage sont fixées par les articles R. 116-15 à R. 116-17-1 du code du travail.
 
@@ -29984,19 +30126,21 @@ L'une de ces copies est affichée à la porte de la mairie, où elle demeure pen
 
 Les trois autres copies sont, ainsi que le récépissé mentionné par le deuxième alinéa de l'article L. 441-1, remises gratuitement par le maire au demandeur qui en adresse une au préfet et une autre au procureur de la République ; il lui en est délivré récépissé.
 
-La troisième copie est adressée par le demandeur directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, qui tient un registre spécial ouvert à cet effet.
+La troisième copie est adressée par le demandeur au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, qui tient un registre spécial ouvert à cet effet.
 
 Le demandeur adresse au directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, en même temps que la copie de sa déclaration :
 
 1° Les pièces énumérées dans le premier alinéa de l'article L. 441-2 ;
 
-2° Celles qui sont destinées à établir qu'il est français ou ressortissant d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
+2° Celles qui sont destinées à établir qu'il est français ou ressortissant d'un autre Etat membre de la
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 932]]
 
 [[START OF PAGE 933]]
+
+Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
 Récépissé de toutes ces pièces est donné au demandeur par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie.
 
@@ -30026,13 +30170,15 @@ Le plan joint à la demande indique avec précision la destination de chacune de
 
 ###### Article R441-6
 
-La personne qui veut ouvrir à la fois une école privée et un pensionnat primaire privé peut accomplir simultanément les formalités prescrites tant pour le pensionnat que pour l'école.
+La personne qui veut ouvrir à la fois une école privée et un pensionnat primaire privé peut
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 933]]
 
 [[START OF PAGE 934]]
+
+accomplir simultanément les formalités prescrites tant pour le pensionnat que pour l'école.
 
 ###### Article D441-7
 
@@ -30124,13 +30270,15 @@ L'établissement signale dans les mêmes conditions toute modification aux rense
 
 ###### Article D442-2
 
-Les établissements privés dont les travaux de construction ou d'aménagement sont financés par des emprunts garantis par l'Etat doivent préparer leurs élèves à l'obtention de diplômes délivrés ou reconnus par l'Etat. Ils sont soumis aux contrôles pédagogiques effectués par le ministre chargé de l'éducation ou le ministre chargé de l'agriculture.
+Les établissements privés dont les travaux de construction ou d'aménagement sont financés par des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 936]]
 
 [[START OF PAGE 937]]
+
+emprunts garantis par l'Etat doivent préparer leurs élèves à l'obtention de diplômes délivrés ou reconnus par l'Etat. Ils sont soumis aux contrôles pédagogiques effectués par le ministre chargé de l'éducation ou le ministre chargé de l'agriculture.
 
 ###### Article D442-3
 
@@ -30214,7 +30362,7 @@ A l'appui du premier mandat de rémunération adressé au trésorier-payeur gén
 
 Copie certifiée de tout acte, contrat, décision ou déclaration portant modification des documents énumérés ci-dessus est annexée, en triple exemplaire, au mandat de paiement correspondant.
 
-En outre, la copie certifiée par l'ordonnateur du contrat simple ou du contrat d'association conclu avec l'établissement est produite par l'ordonnateur ou comptable assignataire.
+En outre, la copie certifiée par l'ordonnateur du contrat simple ou du contrat d'association conclu avec l'établissement est produite par l'ordonnateur au comptable assignataire.
 
 ###### Article R442-12
 
@@ -30226,17 +30374,19 @@ Les heures supplémentaires de remplacement, de suppléance ou d'enseignement pa
 
 ###### Article R442-13
 
-Le remboursement total ou partiel des charges sociales et fiscales, prévu par l'article 5 du décret n° 60-746 du 28 juillet 1960 mentionné à l'article R. 442-12, fait l'objet d'un titre de perception établi par l'ordonnateur. Ce titre de perception est recouvré par le trésorier-payeur général assignataire des dépenses et imputé au compte Dépenses des ministères annulées par suite de reversements de fonds ».
+Le remboursement total ou partiel des charges sociales et fiscales, prévu par l'article 5 du décret n° 60-746 du 28 juillet 1960 mentionné à l'article R. 442-12, fait l'objet d'un titre de perception établi par l'ordonnateur. Ce titre de perception est recouvré par le trésorier-payeur général assignataire des dépenses et imputé au compte « Dépenses des ministères annulées par suite de reversements de fonds ».
 
 ###### Article R442-14
 
-Le forfait d'externat prévu au deuxième alinéa de l'article L. 442-9 est mandaté trimestriellement et à terme échu.
+Le forfait d'externat prévu au deuxième alinéa de l'article L. 442-9 est mandaté trimestriellement et
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 939]]
 
 [[START OF PAGE 940]]
+
+à terme échu.
 
 A l'appui du mandat afférent au premier trimestre de l'année scolaire sont jointes, en triple exemplaire, les pièces justificatives suivantes :
 
@@ -30384,13 +30534,15 @@ Pour les matériels ou équipements dont l'établissement est seulement détente
 
 ###### Article R442-32
 
-Dans les établissements d'enseignement privés du premier degré, du second degré et dans les écoles privées d'enseignement technique régulièrement ouverts qui seront intégrés dans l'enseignement public, les locaux qui sont réservés à l'exercice du culte gardent leur affectation. Les services d'aumônerie sont maintenus dans les conditions prévues par les articles R. 141-1 à R. 141-8.
+Dans les établissements d'enseignement privés du premier degré, du second degré et dans les écoles
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 943]]
 
 [[START OF PAGE 944]]
+
+privées d'enseignement technique régulièrement ouverts qui seront intégrés dans l'enseignement public, les locaux qui sont réservés à l'exercice du culte gardent leur affectation. Les services d'aumônerie sont maintenus dans les conditions prévues par les articles R. 141-1 à R. 141-8.
 
 ##### Section 3 : Contrat d'association à l'enseignement public passé avec l'Etat par les établissements d'enseignement privés.
 
@@ -30450,13 +30602,15 @@ L'enseignement dispensé dans les classes sous contrat d'association est appréc
 
 ###### Article R442-42
 
-Tout établissement ayant passé avec l'Etat un contrat d'association à l'enseignement public peut, au cours ou au terme du contrat, demander son intégration dans cet enseignement. Dans tous les autres cas, la fin du régime du contrat a pour effet de replacer l'établissement sous le régime en vigueur pour les établissements d'enseignement privés qui ne sont pas liés à l'Etat par contrat ; les maîtres devenus fonctionnaires titulaires ou stagiaires, sauf démission, sont mutés dans un établissement d'enseignement public ou dans un autre établissement d'enseignement privé lié à l'Etat par contrat d'association.
+Tout établissement ayant passé avec l'Etat un contrat d'association à l'enseignement public peut, au cours ou au terme du contrat, demander son intégration dans cet enseignement. Dans tous les autres cas, la fin du régime du contrat a pour effet de replacer l'établissement sous le régime en vigueur pour les établissements d'enseignement privés qui ne sont pas liés à l'Etat par contrat ; les maîtres devenus fonctionnaires titulaires ou stagiaires, sauf démission, sont mutés dans un établissement
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 945]]
 
 [[START OF PAGE 946]]
+
+d'enseignement public ou dans un autre établissement d'enseignement privé lié à l'Etat par contrat d'association.
 
 ###### Article R442-43
 
@@ -30612,13 +30766,14 @@ En cas de manquements graves aux dispositions légales et réglementaires ou aux
 
 Les commissions de concertation mentionnées à l'article L. 442-11 sont instituées au siège de chaque académie. En outre, si le nombre des contrats simples et des contrats d'association passés dans un département le justifie, une commission de concertation peut être instituée au chef-lieu de ce département, après avis du recteur d'académie, par décision du préfet de la région dans laquelle est situé le siège de l'académie.
 
-Lorsqu'une commission de concertation est instituée au chef-lieu d'un département, cette commission est seule consultée sur les questions relatives aux contrats passés avec des établissements situés dans le département.
+Lorsqu'une commission de concertation est instituée au chef-lieu d'un département, cette
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 950]]
 
 [[START OF PAGE 951]]
+commission est seule consultée sur les questions relatives aux contrats passés avec des établissements situés dans le département.
 
 ###### Article R442-64
 
@@ -30626,27 +30781,27 @@ La commission de concertation instituée au siège de l'académie comprend :
 
 - 1° Au titre des personnes désignées par l'Etat :
 
-- Le préfet de région, président ;
+- a) Le préfet de région, président ;
 
-- Le recteur de l'académie ;
+- b) Le recteur de l'académie ;
 
-- Quatre représentants des services académiques et trois personnalités qualifiées dans les domaines économique, social, éducatif ou culturel, désignés par le préfet de région sur proposition du recteur d'académie ;
+- c) Quatre représentants des services académiques et trois personnalités qualifiées dans les domaines économique, social, éducatif ou culturel, désignés par le préfet de région sur proposition du recteur d'académie ;
 
 - 2° Au titre des représentants des collectivités territoriales :
 
-- Trois conseillers régionaux désignés par le conseil régional ;
+- a) Trois conseillers régionaux désignés par le conseil régional ;
 
-- Trois conseillers généraux désignés par accord des présidents des conseils généraux des départements intéressés ou, à défaut, élus par le collège des conseillers généraux de ces départements ;
+- b) Trois conseillers généraux désignés par accord des présidents des conseils généraux des départements intéressés ou, à défaut, élus par le collège des conseillers généraux de ces départements ;
 
-- Trois maires désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des maires de l'ensemble des départements intéressés ;
+- c) Trois maires désignés par accord entre les associations départementales des maires ou, à défaut, élus par le collège des maires de l'ensemble des départements intéressés ;
 
 - 3° Au titre des représentants des établissements d'enseignement privés :
 
-- Trois chefs d'établissement d'enseignement privé, parmi lesquels au moins un chef d'établissement d'enseignement primaire privé et un chef d'établissement d'enseignement secondaire ou technique privé, nommés par le préfet de région, sur proposition des organisations syndicales les plus représentatives au niveau académique, parmi les chefs d'établissement exerçant leurs fonctions depuis trois ans au moins dans un établissement ayant passé avec l'Etat un contrat d'association ou un contrat simple ;
+- a) Trois chefs d'établissement d'enseignement privé, parmi lesquels au moins un chef d'établissement d'enseignement primaire privé et un chef d'établissement d'enseignement secondaire ou technique privé, nommés par le préfet de région, sur proposition des organisations syndicales les plus représentatives au niveau académique, parmi les chefs d'établissement exerçant leurs fonctions depuis trois ans au moins dans un établissement ayant passé avec l'Etat un contrat d'association ou un contrat simple ;
 
-- Trois maîtres enseignant dans un établissement privé, parmi lesquels au moins un maître d'un établissement d'enseignement primaire privé et un maître d'un établissement d'enseignement secondaire ou technique privé, nommés par le préfet de région, sur proposition des organisations syndicales les plus représentatives au niveau académique, respectivement parmi les maîtres titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat et parmi les maîtres titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la fonction de chef d'établissement ;
+- b) Trois maîtres enseignant dans un établissement privé, parmi lesquels au moins un maître d'un établissement d'enseignement primaire privé et un maître d'un établissement d'enseignement secondaire ou technique privé, nommés par le préfet de région, sur proposition des organisations syndicales les plus représentatives au niveau académique, respectivement parmi les maîtres titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat et parmi les maîtres titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la fonction de chef d'établissement ;
 
-- Trois parents d'élèves nommés par le préfet de région sur proposition des associations de parents d'élèves les plus représentatives au niveau académique.
+- c) Trois parents d'élèves nommés par le préfet de région sur proposition des associations de parents d'élèves les plus représentatives au niveau académique.
 
 La répartition, entre les établissements d'enseignement primaire privés et les établissements d'enseignement secondaire ou technique privés, des sièges attribués aux chefs d'établissement et aux maîtres tient compte de l'effectif des élèves scolarisés dans les deux catégories d'établissements. Elle est arrêtée par le préfet de région, sur proposition du recteur, dans les limites fixées au a et au b du 3° du présent article.
 
@@ -30654,13 +30809,14 @@ La répartition, entre les établissements d'enseignement primaire privés et le
 
 La commission de concertation instituée à Paris est composée dans les conditions prévues à l'article R. 442-64.
 
-Par dérogation aux dispositions du 2° de l'article R. 442-64, la commission de concertation de Paris comprend, au titre des représentants des collectivités territoriales, trois conseillers régionaux désignés par le conseil régional d'Ile-de-France et six conseillers de Paris désignés par le conseil de Paris.
+Par dérogation aux dispositions du 2° de l'article R. 442-64, la commission de concertation de Paris comprend, au titre des représentants des collectivités territoriales, trois conseillers régionaux
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 951]]
 
 [[START OF PAGE 952]]
+désignés par le conseil régional d'Ile-de-France et six conseillers de Paris désignés par le conseil de Paris.
 
 ###### Article R442-66
 
@@ -30668,31 +30824,31 @@ La commission de concertation instituée au chef-lieu du département comprend :
 
 1° Au titre des personnes désignées par l'Etat :
 
-- Le préfet du département, président ;
+- a) Le préfet du département, président ;
 
-- Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
+- b) Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
-- Deux représentants des services académiques et deux personnalités qualifiées dans les domaines économique, social, éducatif ou culturel, désignés par le préfet du département sur proposition du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
+- c) Deux représentants des services académiques et deux personnalités qualifiées dans les domaines économique, social, éducatif ou culturel, désignés par le préfet du département sur proposition du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ;
 
 - 2° Au titre des représentants des collectivités territoriales :
 
-- Deux conseillers régionaux désignés par le conseil régional ;
+- a) Deux conseillers régionaux désignés par le conseil régional ;
 
-- Deux conseillers généraux désignés par le conseil général ;
+- b) Deux conseillers généraux désignés par le conseil général ;
 
-- Deux maires désignés par l'association des maires du département ou, à défaut, par le collège des maires du département ;
+- c) Deux maires désignés par l'association des maires du département ou, à défaut, par le collège des maires du département ;
 
 - 3° Au titre des représentants des établissements d'enseignement privés :
 
-- Un chef d'établissement d'enseignement primaire privé nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement primaire privé exerçant leurs fonctions depuis trois ans au moins dans les établissements ayant passé avec l'Etat un contrat d'association ou un contrat simple ;
+- a) Un chef d'établissement d'enseignement primaire privé nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement primaire privé exerçant leurs fonctions depuis trois ans au moins dans les établissements ayant passé avec l'Etat un contrat d'association ou un contrat simple ;
 
-- Un chef d'établissement d'enseignement secondaire ou technique privé nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement secondaire ou technique privé ayant passé avec l'Etat un contrat d'association ;
+- b) Un chef d'établissement d'enseignement secondaire ou technique privé nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement secondaire ou technique privé ayant passé avec l'Etat un contrat d'association ;
 
-- Un maître enseignant dans un établissement d'enseignement primaire privé, nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat n'exerçant pas la fonction de chef d'établissement ;
+- c) Un maître enseignant dans un établissement d'enseignement primaire privé, nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat n'exerçant pas la fonction de chef d'établissement ;
 
-- Un maître enseignant dans un établissement d'enseignement secondaire ou technique privé, nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la fonction de chef d'établissement ;
+- d) Un maître enseignant dans un établissement d'enseignement secondaire ou technique privé, nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat n'exerçant pas la fonction de chef d'établissement ;
 
-- Deux parents d'élèves nommés par le préfet du département sur proposition des associations de
+- e) Deux parents d'élèves nommés par le préfet du département sur proposition des associations de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -30946,9 +31102,9 @@ Lorsque les enseignements ou les formations dispensés ne relèvent pas du seul 
 
 ###### Article R444-11
 
-Les diplômes, titres et références exigés pour enseigner dans un organisme privé d'enseignement à est dispensée dans les établissements publics d'enseignement, à ceux qui sont exigés pour être admis
+Les diplômes, titres et références exigés pour enseigner dans un organisme privé d'enseignement à distance ne peuvent être inférieurs, lorsque la matière qui fait l'objet de l'enseignement à distance est dispensée dans les établissements publics d'enseignement, à ceux qui sont exigés pour être admis à enseigner dans des établissements publics de nature et de niveau correspondants. Dans les autres cas, la qualification exigée tient compte de la nature et du niveau de l'enseignement en cause.
 
-distance ne peuvent être inférieurs, lorsque la matière qui fait l'objet de l'enseignement à distance à enseigner dans des établissements publics de nature et de niveau correspondants. Dans les autres cas, la qualification exigée tient compte de la nature et du niveau de l'enseignement en cause. Pour diriger un organisme privé d'enseignement à distance, il est nécessaire de justifier, outre des diplômes, titres et références exigés pour enseigner dans cet organisme, de cinq ans de fonctions d'enseignement dans un établissement quelconque d'enseignement. Toutefois, le recteur d'académie peut dispenser de cette dernière condition toute personne qui justifie de diplômes, titres et références supérieurs à ceux qui sont normalement exigés.
+Pour diriger un organisme privé d'enseignement à distance, il est nécessaire de justifier, outre des diplômes, titres et références exigés pour enseigner dans cet organisme, de cinq ans de fonctions d'enseignement dans un établissement quelconque d'enseignement. Toutefois, le recteur d'académie peut dispenser de cette dernière condition toute personne qui justifie de diplômes, titres et références supérieurs à ceux qui sont normalement exigés.
 
 ###### Article R444-12
 
@@ -31082,9 +31238,11 @@ L'estimation pécuniaire de ces services est faite à proportion du temps couru 
 
 ###### Article R444-27
 
-S'il entend faire usage de la faculté de résiliation prévue au troisième alinéa de l'article L. 444-8, l'élève ou son représentant légal notifie la résiliation à l'organisme privé d'enseignement à distance, sans être tenu de la motiver, par lettre recommandée avec demande d'avis de réception. Celui-ci restitue aussitôt les sommes versées par l'élève ou pour son compte par un tiers ou par un organisme de crédit, qu'il détiendrait à titre de provision ou d'avance et qui excéderaient le montant du prix des services effectivement rendus augmenté, le cas échéant, de celui de l'indemnité prévue
+S'il entend faire usage de la faculté de résiliation prévue au troisième alinéa de l'article L. 444-8, l'élève ou son représentant légal notifie la résiliation à l'organisme privé d'enseignement à distance, sans être tenu de la motiver, par lettre recommandée avec demande d'avis de réception.
 
-La résiliation prend effet à la date de réception de cette lettre par l'organisme privé intéressé. au troisième alinéa de l'article L. 444-8.
+La résiliation prend effet à la date de réception de cette lettre par l'organisme privé intéressé.
+
+Celui-ci restitue aussitôt les sommes versées par l'élève ou pour son compte par un tiers ou par un organisme de crédit, qu'il détiendrait à titre de provision ou d'avance et qui excéderaient le montant du prix des services effectivement rendus augmenté, le cas échéant, de celui de l'indemnité prévue au troisième alinéa de l'article L. 444-8.
 
 L'estimation pécuniaire des services effectivement rendus est faite comme il est dit à l'article R. 444-26.
 
@@ -31118,11 +31276,13 @@ Les dispositions des articles L. 111-1 à L. 111-3, L. 112-2, L. 113-1, L. 121-1
 
 La liste des établissements scolaires français à l'étranger est établie par le ministre chargé de l'éducation, en accord avec le ministre des affaires étrangères et avec le ministre chargé de la coopération. Elle est révisable annuellement.
 
-Ne peuvent figurer sur cette liste que les établissements du premier ou du second degré qui : 1° Sont ouverts aux enfants de nationalité française résidant hors de France, auxquels ils dispensent
+Ne peuvent figurer sur cette liste que les établissements du premier ou du second degré qui :
 
-- dans le respect des principes définis à l'article L. 111-1, un enseignement conforme aux programmes, aux objectifs pédagogiques et aux règles d'organisation applicables, en France, aux établissements de l'enseignement public ;
+- 1° Sont ouverts aux enfants de nationalité française résidant hors de France, auxquels ils dispensent dans le respect des principes définis à l'article L. 111-1, un enseignement conforme aux programmes, aux objectifs pédagogiques et aux règles d'organisation applicables, en France, aux établissements de l'enseignement public ;
 
-- 2° Préparent les élèves aux examens et diplômes auxquels préparent ces mêmes établissements. Les établissements scolaires français à l'étranger peuvent également accueillir des élèves de nationalité étrangère.
+- 2° Préparent les élèves aux examens et diplômes auxquels préparent ces mêmes établissements.
+
+Les établissements scolaires français à l'étranger peuvent également accueillir des élèves de nationalité étrangère.
 
 ###### Article R451-3
 
@@ -31432,9 +31592,9 @@ Le chef d'établissement désigné ordonnateur secondaire dans les conditions pr
 
 - 2° Les décisions modificatives du budget de l'établissement ou du groupement de gestion, avec le concours des personnes citées ci-dessus, dans les conditions suivantes :
 
-- Les décisions modificatives qui ne remettent pas en cause l'équilibre global du budget primitif de l'établissement d'enseignement ou qui ne provoquent pas de modification du résultat prévisionnel ou de la variation prévisionnelle du fonds de roulement net global, ni virements de crédit entre chapitres de personnel et autres chapitres de fonctionnement, sont prises par le chef d'établissement d'enseignement avant la clôture de l'exercice et transmises pour information au directeur de l'agence ;
+- a) Les décisions modificatives qui ne remettent pas en cause l'équilibre global du budget primitif de l'établissement d'enseignement ou qui ne provoquent pas de modification du résultat prévisionnel ou de la variation prévisionnelle du fonds de roulement net global, ni virements de crédit entre chapitres de personnel et autres chapitres de fonctionnement, sont prises par le chef d'établissement d'enseignement avant la clôture de l'exercice et transmises pour information au directeur de l'agence ;
 
-- Les autres décisions modificatives sont prises avant la clôture de l'exercice, par le directeur de l'agence. En cas d'urgence liée à la situation locale et reconnue comme telle par le directeur de l'agence, ces décisions modificatives sont prises par le chef d'établissement et sont immédiatement exécutoires. Elles sont transmises au directeur de l'agence dans un délai maximum de quinze jours et en tout état de cause avant la clôture de l'exercice.
+- b) Les autres décisions modificatives sont prises avant la clôture de l'exercice, par le directeur de l'agence. En cas d'urgence liée à la situation locale et reconnue comme telle par le directeur de l'agence, ces décisions modificatives sont prises par le chef d'établissement et sont immédiatement exécutoires. Elles sont transmises au directeur de l'agence dans un délai maximum de quinze jours et en tout état de cause avant la clôture de l'exercice.
 
 Après notification, par le directeur de l'agence, des crédits prévisionnels de recettes et de dépenses de l'établissement ou du groupement de gestion, l'ordonnateur secondaire a seul qualité pour engager, liquider et mandater les dépenses ainsi que pour constater les droits et liquider les recettes de l'établissement ou du groupement de gestion.
 
@@ -31554,13 +31714,15 @@ Les décisions d'orientation non conformes aux demandes sont motivées. Elles so
 
 Par dérogation à l'article D. 331-35, la commission d'appel est présidée par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie du Haut-Rhin ou son représentant, et comprend, en outre, un chef d'établissement, trois professeurs enseignant au niveau scolaire en cause, un conseiller principal d'éducation et un conseiller d'orientation-psychologue, exerçant tous dans des établissements d'enseignement du second degré implantés à la suite des forces françaises et de l'élément civil stationnés en Allemagne, ainsi que trois représentants des parents d'élèves.
 
-Les membres de la commission d'appel sont nommés par le chef du service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne, pour une durée d'un an renouvelable, sur proposition des associations en ce qui concerne les représentants des parents d'élèves. Trois représentants suppléants des parents d'élèves sont également désignés dans les mêmes conditions.
+Les membres de la commission d'appel sont nommés par le chef du service de l'enseignement des
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 977]]
 
 [[START OF PAGE 978]]
+
+forces françaises et de l'élément civil stationnés en Allemagne, pour une durée d'un an renouvelable, sur proposition des associations en ce qui concerne les représentants des parents d'élèves. Trois représentants suppléants des parents d'élèves sont également désignés dans les mêmes conditions.
 
 ###### Article R453-12
 
@@ -31592,7 +31754,7 @@ En ce qui concerne l'enseignement du premier degré, ces évaluations incombent 
 
 ##### Section 2 : Dispositions relatives aux établissements du premier degré.
 
-###### Article 453-17
+###### Article R453-17
 
 Pour leur fonctionnement matériel et leur gestion financière, les établissements d'enseignement du premier degré placés à la suite des forces françaises et de l'élément civil stationnés en Allemagne relèvent directement de l'autorité du général commandant ces forces.
 
@@ -31870,9 +32032,9 @@ Un service d'hébergement peut être créé dans un établissement d'enseignemen
 
 ###### Article R453-46
 
-Les dépenses de fonctionnement du service annexe d'hébergement sont supportées par les familles et l'Etat et, le cas échéant, par les personnes mentionnées à l'article R. 453-49. d'éducation du service d'hébergement, des personnels soignants, ouvriers et de service, sauf les
+Les dépenses de fonctionnement du service annexe d'hébergement sont supportées par les familles et l'Etat et, le cas échéant, par les personnes mentionnées à l'article R. 453-49.
 
-L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion et charges résultant de l'emploi des maîtres d'internat au pair.
+L'Etat a en totalité la charge de la rémunération des personnels de direction, de gestion et d'éducation du service d'hébergement, des personnels soignants, ouvriers et de service, sauf les charges résultant de l'emploi des maîtres d'internat au pair.
 
 ###### Article R453-47
 
@@ -31896,13 +32058,17 @@ Sont admis au service de restauration comme commensaux de droit les personnels s
 
 - 2° Les personnels de service, ouvriers et de laboratoire de catégorie C de la fonction publique.
 
-Peuvent être admis, à titre d'hôtes permanents ou de passage, sur décision du chef d'établissement prise après avis du conseil d'établissement, tous les autres personnels des établissements scolaires. Dans les mêmes conditions, l'admission peut être étendue, dès lors que les capacités d'hébergement le permettent, à d'autres élèves, à d'autres personnels relevant du ministère de la défense et à des personnes étrangères au service.
+Peuvent être admis, à titre d'hôtes permanents ou de passage, sur décision du chef d'établissement
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 986]]
 
 [[START OF PAGE 987]]
+
+prise après avis du conseil d'établissement, tous les autres personnels des établissements scolaires.
+
+Dans les mêmes conditions, l'admission peut être étendue, dès lors que les capacités d'hébergement le permettent, à d'autres élèves, à d'autres personnels relevant du ministère de la défense et à des personnes étrangères au service.
 
 ###### Article R453-50
 
@@ -32110,13 +32276,15 @@ Il est tenu de saisir le conseil de discipline lorsqu'un membre du personnel de 
 
 Lorsqu'il se prononce seul sur les faits qui ont justifié l'engagement de la procédure disciplinaire, le chef d'établissement informe sans délai l'élève des faits qui lui sont reprochés et lui fait savoir qu'il peut, dans un délai de trois jours ouvrables, présenter sa défense oralement ou par écrit ou en se faisant assister par une personne de son choix.
 
-Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce dernier produise ses observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
+Si l'élève est mineur, cette communication est également faite à son représentant légal afin que ce
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 991]]
 
 [[START OF PAGE 992]]
+
+dernier produise ses observations éventuelles. Dans tous les cas, l'élève, son représentant légal et la personne éventuellement chargée de l'assister pour présenter sa défense peuvent prendre connaissance du dossier auprès du chef d'établissement.
 
 ###### Article D454-13
 
@@ -32564,13 +32732,15 @@ Les documents déposés indiquent tous les éléments de la publicité, sous tou
 
 ###### Article R471-4
 
-La publicité écrite, utilisant des supports qui excèdent les dimensions définies par arrêté du ministre chargé de l'éducation, est déposée sous forme de reproductions photographiques, dont les dimensions sont fixées par ledit arrêté.
+La publicité écrite, utilisant des supports qui excèdent les dimensions définies par arrêté du ministre
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1003]]
 
 [[START OF PAGE 1004]]
+
+chargé de l'éducation, est déposée sous forme de reproductions photographiques, dont les dimensions sont fixées par ledit arrêté.
 
 ###### Article R471-5
 
@@ -32592,7 +32762,7 @@ Sans préjudice des peines plus graves prévues par l'article L. 471-5, est puni
 
 Les règles relatives à la contravention d'intrusion dans un établissement scolaire sont fixées par les dispositions de l'article R. 645-12 du code pénal, ci-après reproduites :
 
-Art. R. 645-12. # Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de l'amende prévue pour les contraventions de la cinquième classe.
+« Art. R. 645-12. - Le fait de pénétrer dans l'enceinte d'un établissement scolaire, public ou privé, sans y être habilité en vertu de dispositions législatives ou réglementaires ou y avoir été autorisé par les autorités compétentes est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 Les personnes coupables de la contravention prévue au présent article encourent également les peines complémentaires suivantes :
 
@@ -32706,13 +32876,15 @@ Le conseil d'école se réunit au moins une fois par trimestre, et obligatoireme
 
 Assistent avec voix consultative aux séances du conseil d'école pour les affaires les intéressant :
 
-1° Les personnels du réseau d'aides spécialisées non mentionnées au cinquième alinéa du présent article ainsi que les médecins chargés du contrôle médical scolaire, les infirmiers et infirmières scolaires et les agents spécialisés des écoles maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des actions d'intégration d'enfants handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces personnes à s'associer aux travaux du conseil ;
+1° Les personnels du réseau d'aides spécialisées non mentionnées au cinquième alinéa du présent article ainsi que les médecins chargés du contrôle médical scolaire, les infirmiers et infirmières
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1007]]
 
 [[START OF PAGE 1008]]
+
+scolaires et les agents spécialisés des écoles maternelles ; en outre, lorsque des personnels médicaux ou paramédicaux participent à des actions d'intégration d'enfants handicapés, le président peut, après avis du conseil, inviter une ou plusieurs de ces personnes à s'associer aux travaux du conseil ;
 
 2° Le cas échéant, les personnels chargés de l'enseignement des langues vivantes, les maîtres étrangers assurant dans les locaux scolaires des cours de langue et culture d'origine, les maîtres chargés des cours de langue et culture régionales et les représentants des activités périscolaires pour les questions relatives à leurs activités en relation avec la vie de l'école.
 
@@ -32744,13 +32916,15 @@ Pour l'application de l'article R. 411-5, l'avis du conseil départemental de l'
 
 ###### Article D491-7
 
-Pour l'application à Wallis et Futuna de l'article D. 411-7, le membre de phrase :, conformément aux dispositions du décret n° 89-122 du 24 février 1989 relatif aux directeurs d'école » est supprimé.
+Pour l'application à Wallis et Futuna de l'article D. 411-7, le membre de phrase : « , conformément
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1008]]
 
 [[START OF PAGE 1009]]
+
+aux dispositions du décret n° 89-122 du 24 février 1989 relatif aux directeurs d'école » est supprimé.
 
 ##### Section 2 : Les collèges et les lycées.
 
@@ -32912,7 +33086,7 @@ Pour l'application de l'article R. 411-5, l'avis du conseil départemental de l'
 
 ###### Article D492-6
 
-Pour l'application à Mayotte de l'article D. 411-7, le membre de phrase :, conformément aux dispositions du décret n° 89-122 du 24 février 1989 relatif aux directeurs d'école » est supprimé.
+Pour l'application à Mayotte de l'article D. 411-7, le membre de phrase : « , conformément aux dispositions du décret n° 89-122 du 24 février 1989 relatif aux directeurs d'école » est supprimé.
 
 ##### Section 2 : Les collèges et les lycées.
 
@@ -33102,13 +33276,15 @@ Lorsqu'un représentant titulaire de l'une des collectivités visées à l'artic
 
 ###### Article D494-7
 
-La commission permanente des collèges et des lycées de Nouvelle-Calédonie comprend les membres suivants :
+La commission permanente des collèges et des lycées de Nouvelle-Calédonie comprend les
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1017]]
 
 [[START OF PAGE 1018]]
+
+membres suivants :
 
 - 1° Le chef d'établissement, président ;
 
@@ -33144,13 +33320,15 @@ L'Etat a en totalité la charge de la rémunération des personnels de direction
 
 ###### Article R494-10
 
-Le chapitre II du titre IV du présent livre, à l'exception des articles R. 442-1, D. 442-2 à D. 442-6, R. 442-14, D. 442-22, R. 442-43, R. 442-45, R. 442-46, R. 442-49, R. 442-63 à R. 442-79, est applicable aux établissements d'enseignement privés de la Nouvelle-Calédonie dans les conditions précisées aux articles suivants.
+Le chapitre II du titre IV du présent livre, à l'exception des articles R. 442-1, D. 442-2 à D. 442-6, R. 442-14, D. 442-22, R. 442-43, R. 442-45, R. 442-46, R. 442-49, R. 442-63 à R. 442-79, est applicable aux établissements d'enseignement privés de la Nouvelle-Calédonie dans les conditions
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1018]]
 
 [[START OF PAGE 1019]]
+
+précisées aux articles suivants.
 
 Pour l'application à ces établissements des dispositions de l'article R. 442-33, les deuxième et troisième alinéas de cet article sont remplacés par les dispositions suivantes :
 
@@ -33250,13 +33428,15 @@ Les publications rédigées par des lycéens peuvent être librement diffusées 
 
 ###### Article R511-9
 
-Le fonctionnement, à l'intérieur des lycées, d'associations déclarées qui sont composées d'élèves et, le cas échéant, d'autres membres de la communauté éducative de l'établissement est autorisé par le conseil d'administration, après dépôt auprès du chef d'établissement d'une copie des statuts de l'association, sous réserve que leur objet et leur activité soient compatibles avec les principes du service public de l'enseignement ; en particulier, elles ne peuvent avoir un objet ou une activité de caractère politique ou religieux.
+Le fonctionnement, à l'intérieur des lycées, d'associations déclarées qui sont composées d'élèves et, le cas échéant, d'autres membres de la communauté éducative de l'établissement est autorisé par le conseil d'administration, après dépôt auprès du chef d'établissement d'une copie des statuts de l'association, sous réserve que leur objet et leur activité soient compatibles avec les principes du
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1022]]
 
 [[START OF PAGE 1023]]
+
+service public de l'enseignement ; en particulier, elles ne peuvent avoir un objet ou une activité de caractère politique ou religieux.
 
 Ces associations peuvent contribuer à l'exercice du droit d'expression collective des élèves.
 
@@ -33308,7 +33488,7 @@ Sauf dans les cas où le chef d'établissement est tenu d'engager une procédure
 
 ###### Article R511-13
 
-- Dans les collèges et lycées relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à l'encontre des élèves sont les suivantes :
+I. - Dans les collèges et lycées relevant du ministre chargé de l'éducation, les sanctions qui peuvent être prononcées à l'encontre des élèves sont les suivantes :
 
 - 1° L'avertissement ;
 
@@ -33326,7 +33506,7 @@ Les sanctions peuvent être assorties d'un sursis total ou partiel.
 
 Le règlement intérieur reproduit l'échelle des sanctions et prévoit les mesures de prévention et d'accompagnement ainsi que les modalités de la mesure de responsabilisation.
 
-- La mesure de responsabilisation prévue au 3° du I consiste à participer, en dehors des heures d'enseignement, à des activités de solidarité, culturelles ou de formation à des fins éducatives. Sa durée ne peut excéder vingt heures. Lorsqu'elle consiste en particulier en l'exécution d'une tâche, celle-ci doit respecter la dignité de l'élève, ne pas l'exposer à un danger pour sa santé et demeurer en adéquation avec son âge et ses capacités. Elle peut être exécutée au sein de l'établissement, d'une association, d'une collectivité territoriale, d'un groupement rassemblant des personnes publiques ou d'une administration de l'Etat. Un arrêté ministériel fixe les clauses types de la convention qui doit nécessairement être conclue entre l'établissement et la structure susceptible d'accueillir des élèves dans le cadre de mesures de responsabilisation.
+II. - La mesure de responsabilisation prévue au 3° du I consiste à participer, en dehors des heures d'enseignement, à des activités de solidarité, culturelles ou de formation à des fins éducatives. Sa durée ne peut excéder vingt heures. Lorsqu'elle consiste en particulier en l'exécution d'une tâche, celle-ci doit respecter la dignité de l'élève, ne pas l'exposer à un danger pour sa santé et demeurer en adéquation avec son âge et ses capacités. Elle peut être exécutée au sein de l'établissement, d'une association, d'une collectivité territoriale, d'un groupement rassemblant des personnes publiques ou d'une administration de l'Etat. Un arrêté ministériel fixe les clauses types de la convention qui doit nécessairement être conclue entre l'établissement et la structure susceptible d'accueillir des élèves dans le cadre de mesures de responsabilisation.
 
 L'accord de l'élève, et, lorsqu'il est mineur, celui de son représentant légal, est recueilli en cas d'exécution à l'extérieur de l'établissement. Un exemplaire de la convention est remis à l'élève ou à son représentant légal.
 
@@ -33438,9 +33618,9 @@ Le conseil de discipline de l'établissement comprend quatorze membres :
 
 - 6° Trois représentants des parents d'élèves dans les collèges et deux dans les lycées ;
 
-- 7° Deux représentants des élèves dans les collèges et trois dans les lycées. Le conseil de discipline est présidé par le chef d'établissement ou, en cas d'absence de celui-ci, par
+- 7° Deux représentants des élèves dans les collèges et trois dans les lycées.
 
-- son adjoint.
+Le conseil de discipline est présidé par le chef d'établissement ou, en cas d'absence de celui-ci, par son adjoint.
 
 ###### Article R511-21
 
@@ -33722,11 +33902,11 @@ Dans les établissements d'enseignement français en Principauté d'Andorre, tou
 
 ###### Article D511-55
 
-Sont applicables aux établissements d'enseignement français en Principauté d'Andorre le premier alinéa de l'article D. 511-25, les articles R. 511-26, R. 511-27, D. 511-30 à D. 511-43, D. 511-47, D. 511-48 et D. 511-50 à D. 511-52, sous réserve des dispositions des II, III et IV du présent article.
+I. - Sont applicables aux établissements d'enseignement français en Principauté d'Andorre le premier alinéa de l'article D. 511-25, les articles R. 511-26, R. 511-27, D. 511-30 à D. 511-43, D. 511-47, D. 511-48 et D. 511-50 à D. 511-52, sous réserve des dispositions des II, III et IV du présent article.
 
-- Pour l'application des articles R. 511-26, D. 511-47, D. 511-48, D. 511-50 et D. 511-52, les mots : "conseil de discipline départemental" sont supprimés.
+II. - Pour l'application des articles R. 511-26, D. 511-47, D. 511-48, D. 511-50 et D. 511-52, les mots : "conseil de discipline départemental" sont supprimés.
 
-- Pour l'application de la troisième phrase du premier alinéa de l'article D. 511-42, la notification de la décision du conseil de discipline mentionne les voies et délais d'appel fixés à
+III. - Pour l'application de la troisième phrase du premier alinéa de l'article D. 511-42, la notification de la décision du conseil de discipline mentionne les voies et délais d'appel fixés à
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -33736,7 +33916,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 l'article D. 511-54. Pour l'application des articles D. 511-42 et D. 511-50 à D. 511-52, les mots : "recteur de l'académie" sont remplacés par les mots : "recteur de l'académie de Montpellier". Pour l'application de l'article D. 511-48, les mots : "ou du directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie" sont supprimés.
 
-- Pour l'application de l'article D. 511-43, les mots : "le recteur ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription dans un autre établissement ou centre public d'enseignement par correspondance" sont remplacés par les mots : "le délégué à l'enseignement et le recteur de l'académie de Montpellier en sont immédiatement informés. Le recteur pourvoit sans délai à l'inscription de l'élève dans un autre établissement ou centre public d'enseignement par correspondance".
+IV. - Pour l'application de l'article D. 511-43, les mots : "le recteur ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, selon le cas, en est immédiatement informé et pourvoit aussitôt à son inscription dans un autre établissement ou centre public d'enseignement par correspondance" sont remplacés par les mots : "le délégué à l'enseignement et le recteur de l'académie de Montpellier en sont immédiatement informés. Le recteur pourvoit sans délai à l'inscription de l'élève dans un autre établissement ou centre public d'enseignement par correspondance".
 
 ###### Article D511-56
 
@@ -33822,13 +34002,13 @@ Le conseil académique de la vie lycéenne comprend des représentants de l'édu
 
 Il peut comprendre également :
 
-- Des représentants des autres administrations de l'Etat ;
+- a) Des représentants des autres administrations de l'Etat ;
 
-- Des représentants des départements et des communes ;
+- b) Des représentants des départements et des communes ;
 
-- Des représentants des parents d'élèves ;
+- c) Des représentants des parents d'élèves ;
 
-- Des représentants du monde associatif, périscolaire, culturel ou économique.
+- d) Des représentants du monde associatif, périscolaire, culturel ou économique.
 
 Ces membres sont désignés par le recteur respectivement après consultation des collectivités territoriales, des associations ou des organisations représentatives concernées.
 
@@ -33848,11 +34028,11 @@ Le vote par correspondance est autorisé.
 
 Les électeurs sont répartis en trois collèges :
 
-- Le premier collège comprend les représentants des lycéens, titulaires et suppléants, aux conseils des délégués pour la vie lycéenne des lycées d'enseignement général et technologique ;
+- a) Le premier collège comprend les représentants des lycéens, titulaires et suppléants, aux conseils des délégués pour la vie lycéenne des lycées d'enseignement général et technologique ;
 
-- Le deuxième collège comprend les représentants des lycéens, titulaires et suppléants, aux conseils des délégués pour la vie lycéenne des lycées professionnels ;
+- b) Le deuxième collège comprend les représentants des lycéens, titulaires et suppléants, aux conseils des délégués pour la vie lycéenne des lycées professionnels ;
 
-- Le troisième collège comprend les représentants des élèves, titulaires et suppléants, aux conseils des délégués pour la vie lycéenne des établissements régionaux d'enseignement adapté.
+- c) Le troisième collège comprend les représentants des élèves, titulaires et suppléants, aux conseils des délégués pour la vie lycéenne des établissements régionaux d'enseignement adapté.
 
 Le collège mentionné au c n'est créé que lorsqu'un ou plusieurs établissements régionaux d'enseignement adapté accueillant des élèves de niveau lycée sont implantés dans la circonscription électorale.
 
@@ -34384,13 +34564,15 @@ Les absences constatées au cours des deux premiers trimestres sont imputées su
 
 ###### Article D531-32
 
-Des congés, notamment pour raisons de santé ou de séjour à l'étranger, peuvent être accordés par le recteur d'académie aux boursiers qui en font la demande motivée. Le congé comporte la suspension du paiement de la bourse mais le versement peut être exceptionnellement maintenu pendant la période du congé.
+Des congés, notamment pour raisons de santé ou de séjour à l'étranger, peuvent être accordés par le
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1053]]
 
 [[START OF PAGE 1054]]
+
+recteur d'académie aux boursiers qui en font la demande motivée. Le congé comporte la suspension du paiement de la bourse mais le versement peut être exceptionnellement maintenu pendant la période du congé.
 
 ###### Article R531-33
 
@@ -34526,19 +34708,19 @@ La commission locale est présidée par le chef de poste diplomatique ou consula
 
 - 1° Des membres de droit :
 
-- Le conseiller culturel ou son représentant ;
+- a) Le conseiller culturel ou son représentant ;
 
-- Le ou les délégués représentant le pays ou la circonscription à l'Assemblée des Français de l'étranger ;
+- b) Le ou les délégués représentant le pays ou la circonscription à l'Assemblée des Français de l'étranger ;
 
 - 2° Des membres désignés par le chef de la mission diplomatique ou consulaire, représentant :
 
-- Les établissements d'enseignement concernés ;
+- a) Les établissements d'enseignement concernés ;
 
-- Les organisations syndicales représentatives des personnels enseignants ;
+- b) Les organisations syndicales représentatives des personnels enseignants ;
 
-- Les associations de parents d'élèves ;
+- c) Les associations de parents d'élèves ;
 
-- Les associations de Français établis hors de France.
+- d) Les associations de Français établis hors de France.
 
 Le président de la commission locale peut convier, à titre consultatif, toute personne qualifiée dont l'audition lui semble susceptible d'éclairer les travaux de la commission.
 
@@ -34882,9 +35064,9 @@ Elles participent aux rencontres, épreuves et manifestations organisées ou con
 
 - 2° Chaque association comprend :
 
-- Le directeur de l'école, membre de droit ;
+- a) Le directeur de l'école, membre de droit ;
 
-- Des membres actifs volontaires : enseignants et membres de l'équipe éducative, parents des élèves de l'école, professeurs des écoles stagiaires, élèves des différentes classes ainsi que les personnels et animateurs de l'école agréés par le bureau de l'association.
+- b) Des membres actifs volontaires : enseignants et membres de l'équipe éducative, parents des élèves de l'école, professeurs des écoles stagiaires, élèves des différentes classes ainsi que les personnels et animateurs de l'école agréés par le bureau de l'association.
 
 - 3° L'association est administrée par un comité directeur élu chaque année par une assemblée générale. Il comprend deux tiers d'adultes, dont au moins un parent d'élèves, et un tiers d'élèves élus respectivement par le collège des adultes et le collège des élèves.
 
@@ -34898,9 +35080,9 @@ Les statuts des associations sportives des établissements d'enseignement du sec
 
 - 2° L'association se compose :
 
-- Du chef d'établissement ;
+- a) Du chef d'établissement ;
 
-- Des enseignants d'éducation physique et sportive participant à l'animation de l'association dans le cadre du forfait horaire réservé à cet effet dans leurs obligations de service ;
+- b) Des enseignants d'éducation physique et sportive participant à l'animation de l'association dans le cadre du forfait horaire réservé à cet effet dans leurs obligations de service ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -34908,11 +35090,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 1068]]
 
-- Des présidents des associations de parents d'élèves de l'établissement ou de leur représentant ;
+- c) Des présidents des associations de parents d'élèves de l'établissement ou de leur représentant ;
 
-- Des élèves inscrits dans l'établissement et titulaires de la licence délivrée par l'Union nationale du sport scolaire ;
+- d) Des élèves inscrits dans l'établissement et titulaires de la licence délivrée par l'Union nationale du sport scolaire ;
 
-- De tous les autres partenaires de la communauté éducative à jour de leur cotisation.
+- e) De tous les autres partenaires de la communauté éducative à jour de leur cotisation.
 
 - 3° L'association est administrée par un comité directeur présidé par le chef d'établissement, président de l'association.
 
@@ -34920,9 +35102,9 @@ Le comité directeur élit parmi ses membres un trésorier, un secrétaire et un
 
 Le nombre de membres du comité directeur est fixé par l'assemblée générale. Il se répartit de la façon suivante :
 
-- Dans les collèges et lycées professionnels, le comité directeur se compose pour un tiers du chef d'établissement et des enseignants d'éducation physique et sportive animateurs de l'association, pour un tiers de parents d'élèves et autres membres de la communauté éducative, dont au moins un parent, pour un tiers d'élèves ;
+- a) Dans les collèges et lycées professionnels, le comité directeur se compose pour un tiers du chef d'établissement et des enseignants d'éducation physique et sportive animateurs de l'association, pour un tiers de parents d'élèves et autres membres de la communauté éducative, dont au moins un parent, pour un tiers d'élèves ;
 
-- Dans les lycées, le comité directeur se compose pour un quart du chef d'établissement et des enseignants d'éducation physique et sportive animateurs de l'association, pour un quart de parents d'élèves et autres membres de la communauté éducative, dont au moins un parent d'élève, pour la moitié d'élèves.
+- b) Dans les lycées, le comité directeur se compose pour un quart du chef d'établissement et des enseignants d'éducation physique et sportive animateurs de l'association, pour un quart de parents d'élèves et autres membres de la communauté éducative, dont au moins un parent d'élève, pour la moitié d'élèves.
 
 - 4° L'animation de l'association est assurée par les enseignants d'éducation physique et sportive de l'établissement. Un personnel qualifié peut assister l'équipe pédagogique, à la demande et sous la responsabilité de cette dernière. Il doit recevoir l'agrément du comité directeur.
 
@@ -35010,7 +35192,7 @@ Pour l'application de l'article D. 521-11 dans les îles Wallis et Futuna, les m
 
 ###### Article D561-10
 
-Pour l'application de l'article D. 531-38 dans les îles Wallis et Futuna, les mots : « commission départementale » sont remplacés par les mots : « commission des bourses au mérite à Wallis et Futuna ».
+I. - Pour l'application de l'article D. 531-38 dans les îles Wallis et Futuna, les mots : « commission départementale » sont remplacés par les mots : « commission des bourses au mérite à Wallis et Futuna ».
 
 II.-Le neuvième alinéa (7°) du même article est remplacé par les dispositions suivantes :
 
@@ -35042,7 +35224,7 @@ Les articles D. 511-51, D. 521-1 à D. 521-5, le deuxième alinéa de l'article 
 
 ###### Article D562-2
 
-Pour l'application des articles D. 511-25, D. 511-42, D. 511-43, D. 511-46, D. 511-48, R. 511-49, D. 511-52, D. 511-63 à D. 511-65, D. 511-68 à D. 511-70, D. 521-11, D. 521-13, D. 521-14, R. 531-1, D. 531-8, D. 531-10 à D. 531-12, R. 531-14, D. 531-15, R. 531-20, D. 531-22, R. 531-25 à D. 531-29, D. 531-32, D. 531-38 à D. 531-40 et D. 551-6 à Mayotte, les mots : recteur d'académie, recteur, directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie et autorité académique sont remplacés par les mots : vice-recteur ; les mots : rectorat d'académie et inspection académique par les mots : vice-rectorat, et les mots : commission académique d'appel par les mots : commission d'appel constituée auprès du vice-recteur.
+I. - Pour l'application des articles D. 511-25, D. 511-42, D. 511-43, D. 511-46, D. 511-48, R. 511-49, D. 511-52, D. 511-63 à D. 511-65, D. 511-68 à D. 511-70, D. 521-11, D. 521-13, D. 521-14, R. 531-1, D. 531-8, D. 531-10 à D. 531-12, R. 531-14, D. 531-15, R. 531-20, D. 531-22, R. 531-25 à D. 531-29, D. 531-32, D. 531-38 à D. 531-40 et D. 551-6 à Mayotte, les mots : recteur d'académie, recteur, directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie et autorité académique sont remplacés par les mots : vice-recteur ; les mots : rectorat d'académie et inspection académique par les mots : vice-rectorat, et les mots : commission académique d'appel par les mots : commission d'appel constituée auprès du vice-recteur.
 
 - II.-Pour l'application des articles D. 511-63 à D. 511-73, les mots : conseil académique de la vie lycéenne sont remplacés par les mots : conseil de la vie lycéenne de Mayotte et les mots : conseillers régionaux nommés par le recteur sur proposition du président du conseil régional sont remplacés par les mots : conseillers généraux nommés par le vice-recteur sur proposition du président du conseil général.
 
@@ -35088,13 +35270,13 @@ Pour tenir compte de circonstances particulières locales susceptibles de mettre
 
 ###### Article D562-8-1
 
-Pour l'application de l'article D. 531-4 à Mayotte, les deuxième, troisième et quatrième alinéas sont remplacés par les alinéas suivants :
+I. - Pour l'application de l'article D. 531-4 à Mayotte, les deuxième, troisième et quatrième alinéas sont remplacés par les alinéas suivants :
 
 " Les ressources sont justifiées par l'avis d'imposition à l'impôt sur le revenu.
 
 Le revenu imposable, tel qu'il figure sur l'avis d'imposition, est retenu pour apprécier les ressources de la famille ou de la personne mentionnée au premier alinéa."
 
-II. # Pour l'application de l'article D. 531-5 à Mayotte, les mots : " 2008-2009 ' sont remplacés par les mots : " 2010-2011 '.
+II. - Pour l'application de l'article D. 531-5 à Mayotte, les mots : " 2008-2009 ” sont remplacés par les mots : " 2010-2011 ”.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -35110,9 +35292,9 @@ Les plafonds de référence annuels sont remplacés par les suivants :
 
 3° 1 591 euros pour une bourse du troisième taux.
 
-Les mots : " salaire minimum de croissance horaire ' sont remplacés par les mots : " salaire minimum interprofessionnel garanti en application des articles L. 141-1 et suivants du code du travail applicable à Mayotte '.
+Les mots : " salaire minimum de croissance horaire ” sont remplacés par les mots : " salaire minimum interprofessionnel garanti en application des articles L. 141-1 et suivants du code du travail applicable à Mayotte ”.
 
-III. # Pour l'application de l'article D. 531-24 à Mayotte, les mots : " rentrée de janvier ' sont remplacés par les mots : " rentrée d'août '.
+III. - Pour l'application de l'article D. 531-24 à Mayotte, les mots : " rentrée de janvier ” sont remplacés par les mots : " rentrée d'août ”.
 
 ###### Article R562-9
 
@@ -35272,13 +35454,15 @@ Afin d'assurer la comparaison et le transfert des parcours de formation dans l'e
 
 ###### Article D611-3
 
-Les conditions d'acquisition des crédits européens au sein d'un parcours type de formation et les règles de prise en compte des crédits antérieurement acquis sont fixées de manière à assurer la cohérence des formations, à garantir la validation par le diplôme national concerné et à favoriser les réorientations.
+Les conditions d'acquisition des crédits européens au sein d'un parcours type de formation et les règles de prise en compte des crédits antérieurement acquis sont fixées de manière à assurer la
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1078]]
 
 [[START OF PAGE 1079]]
+
+cohérence des formations, à garantir la validation par le diplôme national concerné et à favoriser les réorientations.
 
 ###### Article D611-4
 
@@ -35302,13 +35486,15 @@ L'ensemble des activités exercées par un étudiant à l'occasion du service ci
 
 La valorisation peut prendre la forme d'une validation telle que définie ci-après.
 
-Lorsque l'exercice des activités liées à l'engagement volontaire de service civique est de nature à permettre l'acquisition de connaissances, aptitudes et compétences relevant du cursus d'études suivi par l'étudiant, l'établissement peut dispenser celui-ci de certains enseignements ou stages relevant de son cursus, lui attribuer le bénéfice d'éléments constitutifs d'une unité d'enseignement ou des crédits du système européen de transfert et d'accumulation de crédits (European Credits Transfer System, ECTS) correspondants selon un dispositif défini par le conseil d'administration de l'établissement et dans les conditions fixées à l'article D. 611-9.
+Lorsque l'exercice des activités liées à l'engagement volontaire de service civique est de nature à permettre l'acquisition de connaissances, aptitudes et compétences relevant du cursus d'études suivi par l'étudiant, l'établissement peut dispenser celui-ci de certains enseignements ou stages relevant de son cursus, lui attribuer le bénéfice d'éléments constitutifs d'une unité d'enseignement ou des crédits du système européen de transfert et d'accumulation de crédits (European Credits Transfer System, ECTS) correspondants selon un dispositif défini par le conseil d'administration de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1079]]
 
 [[START OF PAGE 1080]]
+
+l'établissement et dans les conditions fixées à l'article D. 611-9.
 
 ###### Article D611-9
 
@@ -35662,11 +35848,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 4° Des diplômes délivrés :
 
-- Par l'Institut d'études politiques de Paris, en application de l'article 2 du décret n° 85-497 du 10 mai 1985 relatif à l'Institut d'études politiques de Paris ;
+a) Par l'Institut d'études politiques de Paris, en application de l'article 2 du décret n° 85-497 du 10 mai 1985 relatif à l'Institut d'études politiques de Paris ;
 
-- Par les instituts d'études politiques, en application de l'article D. 719-191.
+b) Par les instituts d'études politiques, en application de l'article D. 719-191.
 
-- Par l'université Paris-Dauphine, en application de l'article 3 du décret n° 2004-186 du 26 février 2004 portant création de l'université de technologie en sciences des organisations et de la décision de Paris-Dauphine et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur.
+c) Par l'université Paris-Dauphine, en application de l'article 3 du décret n° 2004-186 du 26 février 2004 portant création de l'université de technologie en sciences des organisations et de la décision de Paris-Dauphine et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur.
 
 Ces diplômes font l'objet d'une évaluation nationale périodique.
 
@@ -35688,13 +35874,15 @@ Le grade de master est délivré au nom de l'Etat en même temps que le titre ou
 
 ###### Article D612-37
 
-Les universités et les autres établissements publics à caractère scientifique, culturel et professionnel peuvent décerner le titre de docteur honoris causa à des personnalités de nationalité étrangère en raison de services éminents rendus aux arts, aux lettres, aux sciences et techniques, à la France ou à l'établissement qui décerne le titre.
+Les universités et les autres établissements publics à caractère scientifique, culturel et professionnel peuvent décerner le titre de docteur honoris causa à des personnalités de nationalité étrangère en
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1090]]
 
 [[START OF PAGE 1091]]
+
+raison de services éminents rendus aux arts, aux lettres, aux sciences et techniques, à la France ou à l'établissement qui décerne le titre.
 
 ###### Article D612-38
 
@@ -35948,13 +36136,15 @@ Les grades correspondent aux principaux niveaux de référence définis dans l'E
 
 Les grades et titres sont conférés aux titulaires de diplômes nationaux de l'enseignement supérieur délivrés sous l'autorité de l'Etat selon la réglementation propre à chacun d'eux.
 
-Les diplômes nationaux sanctionnent chaque étape du déroulement des études supérieures dans un domaine de formation particulier mentionné dans l'intitulé du diplôme. Ils confèrent les mêmes droits à tous les titulaires, quels que soient les établissements qui les ont délivrés et les modes d'acquisition.
+Les diplômes nationaux sanctionnent chaque étape du déroulement des études supérieures dans un domaine de formation particulier mentionné dans l'intitulé du diplôme. Ils confèrent les mêmes
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1097]]
 
 [[START OF PAGE 1098]]
+
+droits à tous les titulaires, quels que soient les établissements qui les ont délivrés et les modes d'acquisition.
 
 ###### Article D613-3
 
@@ -36068,13 +36258,15 @@ Les diplômes nationaux préparés au sein des instituts universitaires professi
 
 ###### Article D613-9
 
-Les formations assurées au sein des instituts universitaires professionnalisés sont organisées en trois années d'études. Le cursus comprend une formation de base à caractère scientifique et technique dans la spécialité concernée, une formation complémentaire préparant à la vie professionnelle et des stages dans le secteur d'activité correspondant.
+Les formations assurées au sein des instituts universitaires professionnalisés sont organisées en trois
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1099]]
 
 [[START OF PAGE 1100]]
+
+années d'études. Le cursus comprend une formation de base à caractère scientifique et technique dans la spécialité concernée, une formation complémentaire préparant à la vie professionnelle et des stages dans le secteur d'activité correspondant.
 
 ###### Article D613-10
 
@@ -36830,9 +37022,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Les candidats ne peuvent se présenter aux épreuves classantes nationales mentionnées à l'article R. 632-4 et effectuer le choix prévu à l'article R. 632-9, sauf empêchement prévu à l'article R. 632-11, que deux fois :
 
-- La première fois durant l'année universitaire au cours de laquelle ils remplissent les conditions prévues à l'article R. 632-1, qui sont appréciées au plus tard à la date de la délibération du jury des épreuves classantes nationales ;
+a) La première fois durant l'année universitaire au cours de laquelle ils remplissent les conditions prévues à l'article R. 632-1, qui sont appréciées au plus tard à la date de la délibération du jury des épreuves classantes nationales ;
 
-- La deuxième fois l'année universitaire suivante, dans les seuls cas et conditions précisées ci-après :
+b) La deuxième fois l'année universitaire suivante, dans les seuls cas et conditions précisées ci-après :
 
 1° L'interne qui a obtenu une première affectation et désire bénéficier d'un deuxième choix doit avoir exercé ses fonctions dans la discipline acquise à l'issue du premier choix.
 
@@ -36996,9 +37188,9 @@ Dans chacune des interrégions, la coordination des enseignements et du contrôl
 
 Pour la biologie médicale, ce collège comprend également les directeurs d'UFR de pharmacie. 2° La commission interrégionale de coordination du diplôme.
 
-- Cette commission est présidée par un coordonnateur interrégional. L'article D. 631-4 fixe les modalités de désignation de l'enseignant responsable de la coordination de l'enseignement du diplôme d'études spécialisées de biologie médicale ;
+- a) Cette commission est présidée par un coordonnateur interrégional. L'article D. 631-4 fixe les modalités de désignation de l'enseignant responsable de la coordination de l'enseignement du diplôme d'études spécialisées de biologie médicale ;
 
-- La commission interrégionale de coordination du diplôme regroupe les coordonnateurs locaux, qui sont nommés dans chaque subdivision. Ils ont pour mission, avec l'assistance d'un département de formation créé en application de l'article L. 713-3 ou d'une commission particulière, de donner des avis au directeur de l'UFR sur le déroulement des études menant au diplôme concerné. Ils sont enseignants de la spécialité du diplôme d'études spécialisées ou du diplôme d'études spécialisées complémentaires concerné.
+- b) La commission interrégionale de coordination du diplôme regroupe les coordonnateurs locaux, qui sont nommés dans chaque subdivision. Ils ont pour mission, avec l'assistance d'un département de formation créé en application de l'article L. 713-3 ou d'une commission particulière, de donner des avis au directeur de l'UFR sur le déroulement des études menant au diplôme concerné. Ils sont enseignants de la spécialité du diplôme d'études spécialisées ou du diplôme d'études spécialisées complémentaires concerné.
 
 ###### Article R632-26
 
@@ -37064,9 +37256,9 @@ Pour obtenir un diplôme d'études spécialisées complémentaires de médecine,
 
 - 3° Avoir effectué au cours de l'internat :
 
-- Pour les diplômes d'études spécialisées complémentaires du groupe I, deux semestres de fonctions, sauf dérogation dûment justifiée accordée par le coordonnateur ;
+- a) Pour les diplômes d'études spécialisées complémentaires du groupe I, deux semestres de fonctions, sauf dérogation dûment justifiée accordée par le coordonnateur ;
 
-- Pour les diplômes d'études spécialisées complémentaires du groupe II, quatre semestres de fonctions.
+- b) Pour les diplômes d'études spécialisées complémentaires du groupe II, quatre semestres de fonctions.
 
 ###### Article R632-34
 
@@ -37260,7 +37452,7 @@ Le jury du concours est constitué en sections correspondant à chacune des disc
 
 Le jury établit, par discipline et par spécialité, un classement des candidats admis, dans la limite du nombre de postes offerts en application de l'article R. 632-58. Toutefois, lorsque le nombre de candidats admis est inférieur au nombre de postes offerts dans une discipline, le jury peut, dans la limite de la moitié des postes offerts au titre de cette discipline, reporter les postes non pourvus sur une ou plusieurs autres disciplines.
 
-Un arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre des affaires étrangères fixe les règles d'organisation du concours, notamment la liste des disciplines ou pour lesquelles des postes sont ouverts les modalités d'inscription, les programmes, la durée, la nature et la cotation des épreuves, la composition et le fonctionnement du jury.
+Un arrêté des ministres chargés de l'enseignement supérieur et de la santé et du ministre des affaires étrangères fixe les règles d'organisation du concours, notamment la liste des disciplines ou spécialités pour lesquelles des postes sont ouverts, les modalités d'inscription, les programmes, la durée, la nature et la cotation des épreuves, la composition et le fonctionnement du jury.
 
 ###### Article R632-60
 
@@ -37418,9 +37610,9 @@ Chaque jury comprend des membres et des suppléants en nombre égal, nommés com
 
 - 2° Sur proposition du Conseil national de l'ordre des médecins :
 
-- Un médecin justifiant d'un titre ou diplôme relevant de la formation spécialisée considérée et un suppléant ;
+- a) Un médecin justifiant d'un titre ou diplôme relevant de la formation spécialisée considérée et un suppléant ;
 
-- Trois représentants du conseil de l'ordre des médecins, parmi lesquels un membre de l'un des corps de personnels enseignants et hospitaliers des CHU et trois suppléants.
+- b) Trois représentants du conseil de l'ordre des médecins, parmi lesquels un membre de l'un des corps de personnels enseignants et hospitaliers des CHU et trois suppléants.
 
 La présidence du jury est assurée par l'enseignant coordonnateur interrégional du diplôme, qui a voix prépondérante en cas de partage des voix.
 
@@ -37804,13 +37996,15 @@ Le rang de classement obtenu par le candidat à l'issue des épreuves est égale
 
 ###### Article R633-46
 
-Les dispositions prévues aux articles D. 633-9 à D. 633-16, à l'exception de l'article D. 633-13, aux articles D. 633-19, D. 633-20 à D. 633-22 et D. 633-23 à D. 633-31 du présent code ainsi qu'aux articles R. 6153-41 à R. 6153-44 du code de la santé publique sont applicables aux internes recrutés au titre de la présente sous-section.
+Les dispositions prévues aux articles D. 633-9 à D. 633-16, à l'exception de l'article D. 633-13, aux articles D. 633-19, D. 633-20 à D. 633-22 et D. 633-23 à D. 633-31 du présent code ainsi qu'aux
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1151]]
 
 [[START OF PAGE 1152]]
+
+articles R. 6153-41 à R. 6153-44 du code de la santé publique sont applicables aux internes recrutés au titre de la présente sous-section.
 
 ###### Article R633-47
 
@@ -37940,13 +38134,15 @@ Les stages effectués au cours de l'année-recherche ne sont pas pris en compte 
 
 ###### Article R634-14
 
-Les internes accomplissent leur formation pratique dans des lieux de stage agréés au sein de centres hospitaliers universitaires et des établissements de santé liés par convention avec leur centre hospitalier universitaire de rattachement, selon des modalités prévues par décret. Ils peuvent également accomplir une partie de cette formation auprès d'un praticien agréé-maître de stage. Ils sont placés sous l'autorité du responsable médical ou du praticien agréé-maître de stage du lieu de stage où ils sont affectés.
+Les internes accomplissent leur formation pratique dans des lieux de stage agréés au sein de centres
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1155]]
 
 [[START OF PAGE 1156]]
+
+hospitaliers universitaires et des établissements de santé liés par convention avec leur centre hospitalier universitaire de rattachement, selon des modalités prévues par décret. Ils peuvent également accomplir une partie de cette formation auprès d'un praticien agréé-maître de stage. Ils sont placés sous l'autorité du responsable médical ou du praticien agréé-maître de stage du lieu de stage où ils sont affectés.
 
 ###### Article R634-15
 
@@ -38040,13 +38236,15 @@ La formation des internes en odontologie comprend :
 
 - 2° Une formation clinique, dispensée dans les services d'odontologie des centres de soins, d'enseignement et de recherche dentaires ou dans les services d'odontologie des établissements de santé, liés par convention à un centre hospitalier universitaire en application de l'article L. 6142-5 du code de la santé publique et agréés comme services formateurs par arrêté des ministres chargés de l'enseignement supérieur et de la santé, après avis d'une commission nationale d'agrément. Le rôle et la composition de cette commission sont définis par arrêté de ces ministres.
 
-La liste des services formateurs, le nombre et la répartition des postes dans ces services sont fixées chaque année par arrêté des mêmes ministres, après avis de la commission d'agrément mentionnée ci-dessus.
+La liste des services formateurs, le nombre et la répartition des postes dans ces services sont fixées
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1158]]
 
 [[START OF PAGE 1159]]
+
+chaque année par arrêté des mêmes ministres, après avis de la commission d'agrément mentionnée ci-dessus.
 
 ###### Article R634-26
 
@@ -38152,9 +38350,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ###### Article D636-1
 
-Les établissements d'enseignement supérieur publics habilités à délivrer le diplôme d'Etat recherche, par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
+Les établissements d'enseignement supérieur publics habilités à délivrer le diplôme d'Etat d'audioprothésiste sont désignés, après avis du Conseil national de l'enseignement supérieur et de la recherche, par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
 
-d'audioprothésiste sont désignés, après avis du Conseil national de l'enseignement supérieur et de la Ces arrêtés mentionnent, le cas échéant, l'unité de formation et de recherche responsable de la préparation habilitée, au vu d'un dossier précisant les modalités d'organisation du diplôme. L'habilitation peut être retirée selon la même procédure.
+Ces arrêtés mentionnent, le cas échéant, l'unité de formation et de recherche responsable de la préparation habilitée, au vu d'un dossier précisant les modalités d'organisation du diplôme.
+
+L'habilitation peut être retirée selon la même procédure.
 
 ###### Article D636-2
 
@@ -38916,9 +39116,9 @@ Les spécialités du brevet de technicien supérieur sont créées par arrêté 
 
 ###### Article D643-3
 
-Le référentiel de certification de chaque spécialité énumère les capacités, savoir-faire, compétences professionnelles, technologiques et générales et savoirs que les titulaires du diplôme doivent posséder et détermine les niveaux d'exigence requis pour l'obtention du diplôme. Le référentiel de certification est organisé en unités constituées d'un ensemble, cohérent au regard peuvent être communes à plusieurs diplômes. Le référentiel de certification peut comporter des
+Le référentiel de certification de chaque spécialité énumère les capacités, savoir-faire, compétences professionnelles, technologiques et générales et savoirs que les titulaires du diplôme doivent posséder et détermine les niveaux d'exigence requis pour l'obtention du diplôme.
 
-de la finalité du diplôme, de capacités, savoir-faire, compétences et savoirs. Certaines unités unités, dans la limite de trois, dont l'obtention est facultative.
+Le référentiel de certification est organisé en unités constituées d'un ensemble, cohérent au regard de la finalité du diplôme, de capacités, savoir-faire, compétences et savoirs. Certaines unités peuvent être communes à plusieurs diplômes. Le référentiel de certification peut comporter des unités, dans la limite de trois, dont l'obtention est facultative.
 
 ###### Article D643-4
 
@@ -39528,7 +39728,7 @@ métiers ;
 
 - 9° Le décret n° 92-25 du 9 janvier 1992 relatif à l'organisation de l'Ecole nationale supérieure des sciences de l'information et des bibliothèques ;
 
-10° Le décret n° 2005-1444 du 245 novembre 2005 relatif à l'Ecole pratique des hautes études ;
+10° Le décret n° 2005-1444 du 24 novembre 2005 relatif à l'Ecole pratique des hautes études ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -40144,7 +40344,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Le statut d'université fixé par les articles L. 712-1 à L. 712-10 s'applique aux établissements publics à caractère scientifique, culturel et professionnel suivants :
 
-Universités :
+I. # Universités :
 
 - 1° Aix-Marseille ;
 
@@ -40438,13 +40638,14 @@ Le ou les représentants de l'établissement informent le conseil d'administrati
 
 ###### Article R711-16
 
-Aucune prise de participation ou création de filiale ne peut avoir lieu si le budget de l'établissement public à caractère scientifique, culturel et professionnel est soumis à approbation, en application des articles R. 719-69 et R. 719-71 pour les établissements bénéficiant des responsabilités et compétences élargies, ou en application des articles R. 719-135 et R. 719-137 pour les établissements ne bénéficiant pas des responsabilités et compétences élargies, ou si le compte de résultat se trouve dans une situation de déficit mentionnée à l'article R. 719-109 pour les établissements bénéficiant des responsabilités et compétences élargies, ou à l'article R. 719-155 pour les établissements ne bénéficiant pas des responsabilités et compétences élargies.
+Aucune prise de participation ou création de filiale ne peut avoir lieu si le budget de l'établissement
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1225]]
 
 [[START OF PAGE 1226]]
+public à caractère scientifique, culturel et professionnel est soumis à approbation, en application des articles R. 719-69 et R. 719-71 pour les établissements bénéficiant des responsabilités et compétences élargies, ou en application des articles R. 719-135 et R. 719-137 pour les établissements ne bénéficiant pas des responsabilités et compétences élargies, ou si le compte de résultat se trouve dans une situation de déficit mentionnée à l'article R. 719-109 pour les établissements bénéficiant des responsabilités et compétences élargies, ou à l'article R. 719-155 pour les établissements ne bénéficiant pas des responsabilités et compétences élargies.
 
 #### Chapitre II : Les universités
 
@@ -40530,11 +40731,11 @@ Relèvent du régime disciplinaire prévu aux articles R. 712-9 à R. 712-46 :
 
 - 2° Tout usager de l'université lorsqu'il est auteur ou complice, notamment :
 
-- D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription, d'une épreuve de contrôle continu, d'un examen ou d'un concours ;
+- a) D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription, d'une épreuve de contrôle continu, d'un examen ou d'un concours ;
 
-- D'un fait de nature à porter atteinte à l'ordre ou au bon fonctionnement de l'université ;
+- b) D'un fait de nature à porter atteinte à l'ordre ou au bon fonctionnement de l'université ;
 
-- D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription dans un établissement d'enseignement supérieur privé lorsque cette inscription ouvre l'accès à un examen de l'enseignement supérieur public ou d'une fraude ou tentative de fraude commise dans cette catégorie d'établissement ou dans une université, à l'occasion d'un examen conduisant à l'obtention d'un diplôme national.
+- c) D'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription dans un établissement d'enseignement supérieur privé lorsque cette inscription ouvre l'accès à un examen de l'enseignement supérieur public ou d'une fraude ou tentative de fraude commise dans cette catégorie d'établissement ou dans une université, à l'occasion d'un examen conduisant à l'obtention d'un diplôme national.
 
 ###### Paragraphe 1 : Compétence et composition de la juridiction
 
@@ -41000,21 +41201,21 @@ Les observatoires des sciences de l'Univers assurent des missions spécifiques e
 
 1° Les missions spécifiques sont :
 
-- Dans le domaine de l'astronomie, de contribuer au progrès de la connaissance de l'Univers par l'acquisition de données d'observation, le développement et l'exploitation de moyens appropriés, l'élaboration des outils théoriques nécessaires, dans la continuité requise pour satisfaire aux besoins de l'astronomie et de ses applications ;
+- a) Dans le domaine de l'astronomie, de contribuer au progrès de la connaissance de l'Univers par l'acquisition de données d'observation, le développement et l'exploitation de moyens appropriés, l'élaboration des outils théoriques nécessaires, dans la continuité requise pour satisfaire aux besoins de l'astronomie et de ses applications ;
 
-- Dans le domaine de la géophysique, de contribuer au progrès de la connaissance de la Terre dans les mêmes conditions que ci-dessus, ainsi qu'aux tâches de surveillance et de prévision des phénomènes naturels liés à la physique du globe ;
+- b) Dans le domaine de la géophysique, de contribuer au progrès de la connaissance de la Terre dans les mêmes conditions que ci-dessus, ainsi qu'aux tâches de surveillance et de prévision des phénomènes naturels liés à la physique du globe ;
 
-- Dans le domaine de l'océanographie, de contribuer dans les mêmes conditions que ci-dessus au progrès des connaissances ainsi qu'aux programmes de recherche en vue de l'exploitation et de la protection du milieu océanique, dans une perspective pluridisciplinaire.
+- c) Dans le domaine de l'océanographie, de contribuer dans les mêmes conditions que ci-dessus au progrès des connaissances ainsi qu'aux programmes de recherche en vue de l'exploitation et de la protection du milieu océanique, dans une perspective pluridisciplinaire.
 
 - 2° Les missions communes sont :
 
-- De fournir à la communauté nationale et internationale des services liés à leurs activités de recherche ;
+- a) De fournir à la communauté nationale et internationale des services liés à leurs activités de recherche ;
 
-- De contribuer, dans le cadre de l'établissement public à caractère scientifique, culturel et professionnel dont ils font partie, à la formation initiale et continue des étudiants ainsi qu'à la formation de l'ensemble des personnels de recherche ;
+- b) De contribuer, dans le cadre de l'établissement public à caractère scientifique, culturel et professionnel dont ils font partie, à la formation initiale et continue des étudiants ainsi qu'à la formation de l'ensemble des personnels de recherche ;
 
-- De concourir à la diffusion des connaissances, en particulier auprès des personnels enseignants et des usagers du service public de l'enseignement ;
+- c) De concourir à la diffusion des connaissances, en particulier auprès des personnels enseignants et des usagers du service public de l'enseignement ;
 
-- De mettre en œuvre des activités de coopération internationale.
+- d) De mettre en œuvre des activités de coopération internationale.
 
 ###### Article D713-11
 
@@ -42506,7 +42707,7 @@ l'élection des membres des conseils d'unités de formation et de recherche et d
 
 Pour l'élection des membres des conseils d'unités de formation et de recherche et, sous réserve de dispositions réglementaires prévues au dernier alinéa de l'article L. 719-2, des membres des conseils des instituts et écoles internes, les électeurs des différentes catégories sont répartis dans les collèges électoraux sur les bases suivantes :
 
-I. # Pour les personnels enseignants-chercheurs, enseignants et chercheurs, la composition des collèges électoraux est fixée sur les bases suivantes :
+I. ― Pour les personnels enseignants-chercheurs, enseignants et chercheurs, la composition des collèges électoraux est fixée sur les bases suivantes :
 
 Le collège A des professeurs et personnels assimilés comprend les catégories de personnels suivantes :
 
@@ -42546,11 +42747,11 @@ Des collèges séparés peuvent être constitués pour les chargés d'enseigneme
 
 Le collège P des personnels concourant à la formation pratique des étudiants de second et troisième cycles des études médicales comprend les praticiens hospitaliers responsables des services où une formation pratique est dispensée aux étudiants des second et troisième cycles des études médicales.
 
-Pour les usagers, le collège comprend les étudiants régulièrement inscrits dans l'établissement.
+II. ― Pour les usagers, le collège comprend les étudiants régulièrement inscrits dans l'établissement.
 
 Il comprend également les personnes bénéficiant de la formation continue et les auditeurs.
 
-Pour les personnels administratifs, techniques, ouvriers et de service, le collège comprend les personnels ingénieurs, administratifs, techniques, ouvriers et de service, les personnels des bibliothèques autres que les personnels scientifiques des bibliothèques et les personnels des services sociaux et de santé.
+III. ― Pour les personnels administratifs, techniques, ouvriers et de service, le collège comprend les personnels ingénieurs, administratifs, techniques, ouvriers et de service, les personnels des bibliothèques autres que les personnels scientifiques des bibliothèques et les personnels des services sociaux et de santé.
 
 Il comprend également les membres des corps d'ingénieurs, des personnels techniques et d'administration de la recherche.
 
@@ -42560,9 +42761,11 @@ Il comprend également les membres des corps d'ingénieurs, des personnels techn
 
 Pour l'élection des membres du conseil d'administration, les électeurs des différentes catégories sont répartis dans les collèges électoraux sur les bases suivantes :
 
-Les personnels enseignants, les professeurs et personnels assimilés, d'une part, les autres enseignants-chercheurs, enseignants et personnels assimilés, d'autre part, sont répartis entre les collèges A et B selon les modalités définies au I de l'article D. 719-4.
+I. ― Les personnels enseignants, les professeurs et personnels assimilés, d'une part, les autres enseignants-chercheurs, enseignants et personnels assimilés, d'autre part, sont répartis entre les collèges A et B selon les modalités définies au I de l'article D. 719-4.
 
-Pour les usagers, le collège comprend les personnes mentionnées au II de l'article D. 719-4. III. # Pour les personnels administratifs, techniques, ouvriers et de service, le collège comprend les personnels mentionnés au III de l'article D. 719-4.
+II. ― Pour les usagers, le collège comprend les personnes mentionnées au II de l'article D. 719-4.
+
+III. ― Pour les personnels administratifs, techniques, ouvriers et de service, le collège comprend les personnels mentionnés au III de l'article D. 719-4.
 
 ###### Sous-paragraphe 3 : Composition des collèges électoraux pour l'élection des membres du conseil académique ou des membres du
 
@@ -42578,7 +42781,7 @@ conseil scientifique et du conseil des études et de la vie universitaire ou des
 
 Pour l'élection des membres de la commission de la recherche du conseil académique ou du conseil scientifique ou de l'organe en tenant lieu, les électeurs concernés sont répartis en collèges électoraux dont la composition est fixée sur les bases suivantes.
 
-La composition des collèges électoraux des personnels est fixée sur la base suivante :
+I. ― La composition des collèges électoraux des personnels est fixée sur la base suivante :
 
 - 1° Collège des professeurs et personnels assimilés : ces personnels sont regroupés selon les modalités définies pour le collège A au I de l'article D. 719-4 ;
 
@@ -42592,7 +42795,7 @@ La composition des collèges électoraux des personnels est fixée sur la base s
 
 - 6° Collège des autres personnels : ce collège comprend tous les personnels mentionnés à l'article D. 719-4 n'appartenant pas aux collèges précédents.
 
-Pour les usagers, le collège comprend les personnes mentionnées au II de l'article D. 719-4 suivant une formation de troisième cycle relevant de l'article L. 612-7.
+II. ― Pour les usagers, le collège comprend les personnes mentionnées au II de l'article D. 719-4 suivant une formation de troisième cycle relevant de l'article L. 612-7.
 
 ###### Article D719-6-1
 
@@ -42702,13 +42905,13 @@ Les personnels ingénieurs, administratifs, techniques, ouvriers et de service e
 
 Nul ne peut être électeur ni éligible dans le collège des étudiants s'il appartient à un autre collège de l'établissement.
 
-Les personnels qui appartiennent à deux collèges # autres que celui des étudiants # de deux unités de formation et de recherche de la même université sont autorisés à voter dans les deux unités.
+Les personnels qui appartiennent à deux collèges ― autres que celui des étudiants ― de deux unités de formation et de recherche de la même université sont autorisés à voter dans les deux unités.
 
 ###### Article D719-17
 
 Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui donnant procuration écrite pour voter en leur lieu et place.
 
-Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux mandats. Le mandataire doit présenter selon le cas soit la carte d'étudiant, soit la justification de la qualité professionnelle de son mandat.
+Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux mandats. Le mandataire doit présenter selon le cas soit la carte d'étudiant, soit la justification de la qualité professionnelle de son mandant.
 
 ###### Paragraphe 3 : Conditions d'éligibilité et modes de scrutin
 
@@ -42988,9 +43191,9 @@ En l'absence de dispositions réglementaires particulières, 50 % au moins et 80
 
 - 3° Le reste de l'effectif statutaire est constitué :
 
-- De représentants des associations scientifiques et culturelles, des grands services publics et éventuellement des enseignements du premier et du second degré ;
+- a) De représentants des associations scientifiques et culturelles, des grands services publics et éventuellement des enseignements du premier et du second degré ;
 
-- De personnalités désignées par les conseils à titre personnel.
+- b) De personnalités désignées par les conseils à titre personnel.
 
 ###### Article D719-44
 
@@ -43074,23 +43277,23 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 1298]]
 
-Le budget principal, le budget annexe et le budget de chaque fondation sont établis conformément aux dispositions de l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+I. ― Le budget principal, le budget annexe et le budget de chaque fondation sont établis conformément aux dispositions de l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 Les modalités d'application du premier alinéa sont définies par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'enseignement supérieur.
 
-Les crédits sont présentés en croisant la destination et la nature de chaque dépense. La répartition des crédits par nature distingue :
+II. ― Les crédits sont présentés en croisant la destination et la nature de chaque dépense. La répartition des crédits par nature distingue :
 
 - 1° L'enveloppe consacrée aux dépenses de personnel qui est assortie :
 
-- D'un plafond d'autorisation de l'ensemble des emplois rémunérés par l'établissement ;
+- a) D'un plafond d'autorisation de l'ensemble des emplois rémunérés par l'établissement ;
 
-- D'un plafond d'emplois fixé par l'état relatif aux emplois financés par l'Etat ;
+- b) D'un plafond d'emplois fixé par l'état relatif aux emplois financés par l'Etat ;
 
 - 2° L'enveloppe des crédits de fonctionnement hors dépenses de personnel ;
 
 - 3° L'enveloppe des crédits d'investissement.
 
-Le ministre chargé de l'enseignement supérieur détermine la nomenclature des destinations de dépenses, en cohérence avec les actions des programmes ministériels qui les financent ainsi que la nomenclature de présentation des recettes. Au sein de chaque destination de dépense, des subdivisions peuvent, en tant que de besoin, être créées, ou approuvées pour les budgets des fondations, par le conseil d'administration.
+III. ― Le ministre chargé de l'enseignement supérieur détermine la nomenclature des destinations de dépenses, en cohérence avec les actions des programmes ministériels qui les financent ainsi que la nomenclature de présentation des recettes. Au sein de chaque destination de dépense, des subdivisions peuvent, en tant que de besoin, être créées, ou approuvées pour les budgets des fondations, par le conseil d'administration.
 
 ###### Article R719-55
 
@@ -43168,11 +43371,11 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 1300]]
 
-- Les recettes et les dépenses ainsi que les produits et les charges sont évalués de façon sincère et soutenable ;
+- b) Les recettes et les dépenses ainsi que les produits et les charges sont évalués de façon sincère et soutenable ;
 
-- Le montant des dépenses de personnel ne doit pas excéder la dotation annuelle de masse salariale de l'Etat majorée des recettes propres d'exploitation de l'établissement ;
+- c) Le montant des dépenses de personnel ne doit pas excéder la dotation annuelle de masse salariale de l'Etat majorée des recettes propres d'exploitation de l'établissement ;
 
-- Les ressources du tableau présentant l'équilibre financier, hors recettes de l'emprunt, permettent de couvrir le remboursement en capital des annuités d'emprunts à échoir au cours de l'exercice.
+- d) Les ressources du tableau présentant l'équilibre financier, hors recettes de l'emprunt, permettent de couvrir le remboursement en capital des annuités d'emprunts à échoir au cours de l'exercice.
 
 Pour parvenir à l'équilibre réel, le conseil d'administration peut autoriser un prélèvement sur le fonds de roulement de l'établissement pour le financement d'opérations d'investissement.
 
@@ -43488,13 +43691,15 @@ Le conseil d'administration délibère sur l'affectation des résultats du budge
 
 Il approuve l'affectation des résultats du budget de chaque fondation.
 
-En cas de résultat négatif du compte de résultat de l'établissement ou du service d'activités industrielles ou commerciales, il détermine les conditions de retour à l'équilibre pour l'exercice suivant.
+En cas de résultat négatif du compte de résultat de l'établissement ou du service d'activités
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1308]]
 
 [[START OF PAGE 1309]]
+
+industrielles ou commerciales, il détermine les conditions de retour à l'équilibre pour l'exercice suivant.
 
 ###### Paragraphe 5 : Pilotage et performance
 
@@ -44290,7 +44495,7 @@ caractère administratif doté de la personnalité civile et de l'autonomie fina
 
 - 5° Ecole nationale supérieure d'ingénieurs de Bourges, établissement public national à caractère administratif doté de l'autonomie pédagogique et scientifique, administrative et financière rattaché à l'université d'Orléans par le décret n° 2002-1290 du 23 octobre 2002 : décret n° 97-319 du 9 avril 1997 relatif à l'Ecole nationale supérieure de Bourges ;
 
-- 6° Ecole des ingénieurs de la ville de Paris (EIVP) # Ecole supérieure du génie urbain, régie disposant de l'autonomie financière et de la personnalité morale au sens de l'article L. 2221-10 du code général des collectivités territoriales, rattachée à l'Ecole nationale des ponts et chaussées par le décret n° 2011-516 du 11 mai 2011 : articles R. 2221-53 à R. 2221-62 du code général des collectivités territoriales ;
+- 6° Ecole des ingénieurs de la ville de Paris (EIVP) – Ecole supérieure du génie urbain, régie disposant de l'autonomie financière et de la personnalité morale au sens de l'article L. 2221-10 du code général des collectivités territoriales, rattachée à l'Ecole nationale des ponts et chaussées par le décret n° 2011-516 du 11 mai 2011 : articles R. 2221-53 à R. 2221-62 du code général des collectivités territoriales ;
 
 - 7° Ecole nationale du génie de l'eau et de l'environnement de Strasbourg, établissement public à caractère administratif rattaché à l'université de Strasbourg par le décret n° 2007-1463 du 12 octobre 2007 : articles R. 812-3 à R. 812-24 du code rural et de la pêche maritime ;
 
@@ -44462,15 +44667,15 @@ Les contrats mentionnés à l'article L. 719-14 sont conclus par l'autorité de 
 
 ###### Article R719-207
 
-Les projets de contrat conférant des droits réels à un tiers mentionnés à l'article L. 719-14 sont soumis par l'établissement public à caractère scientifique, culturel et professionnel à l'accord préalable :
+I. – Les projets de contrat conférant des droits réels à un tiers mentionnés à l'article L. 719-14 sont soumis par l'établissement public à caractère scientifique, culturel et professionnel à l'accord préalable :
 
 - 1° Du ministre de tutelle et du ministre chargé du domaine lorsque le montant des travaux projetés est supérieur ou égal à trois millions d'euros hors taxes ;
 
 - 2° Du ministre de tutelle des établissements qui lui sont directement rattachés ou, s'agissant d'autres établissements, du recteur d'académie, chancelier des universités lorsque le montant des travaux projetés est inférieur à trois millions d'euros hors taxes.
 
-Les ministres ou le recteur mentionnés au I se prononcent notamment sur les clauses permettant d'assurer la continuité du service public auquel le bien concerné est affecté.
+II. – Les ministres ou le recteur mentionnés au I se prononcent notamment sur les clauses permettant d'assurer la continuité du service public auquel le bien concerné est affecté.
 
-Le défaut d'obtention de l'accord exprès préalable mentionné au I vaut refus de cet accord préalable à compter de l'expiration d'un délai, selon le cas :
+III. – Le défaut d'obtention de l'accord exprès préalable mentionné au I vaut refus de cet accord préalable à compter de l'expiration d'un délai, selon le cas :
 
 - 1° De deux mois à compter de la saisine des autorités mentionnées au 1° du I ;
 
@@ -44500,27 +44705,27 @@ Le conseil de l'école supérieure du professorat et de l'éducation comprend au
 
 - 1° De représentants élus des personnels enseignants et autres personnels participant aux activités de formation de l'école et des usagers qui en bénéficient :
 
-- Deux représentants des professeurs des universités et personnels assimilés au sens de l'article D. 719-4 ;
+- a) Deux représentants des professeurs des universités et personnels assimilés au sens de l'article D. 719-4 ;
 
-- Deux représentants des maîtres de conférences et personnels assimilés au sens de l'article D. 719-4 ;
+- b) Deux représentants des maîtres de conférences et personnels assimilés au sens de l'article D. 719-4 ;
 
-- Deux représentants des autres enseignants et formateurs relevant d'un établissement d'enseignement supérieur ;
+- c) Deux représentants des autres enseignants et formateurs relevant d'un établissement d'enseignement supérieur ;
 
-- Deux représentants des personnels relevant du ministre chargé de l'éducation nationale et exerçant leurs fonctions dans les écoles, établissements ou services relevant de ce ministre ;
+- d) Deux représentants des personnels relevant du ministre chargé de l'éducation nationale et exerçant leurs fonctions dans les écoles, établissements ou services relevant de ce ministre ;
 
-- Deux représentants des autres personnels ;
+- e) Deux représentants des autres personnels ;
 
-- Quatre ou six représentants des étudiants, des fonctionnaires stagiaires, des personnels enseignants et d'éducation bénéficiant d'actions de formation continue et des personnes bénéficiant d'actions de formation aux métiers de la formation et de l'éducation ;
+- f) Quatre ou six représentants des étudiants, des fonctionnaires stagiaires, des personnels enseignants et d'éducation bénéficiant d'actions de formation continue et des personnes bénéficiant d'actions de formation aux métiers de la formation et de l'éducation ;
 
 - 2° Un ou plusieurs représentants de l'établissement dont relève l'école ;
 
 - 3° Au moins 30 % de personnalités extérieures comprenant :
 
-- Au moins un représentant d'une collectivité territoriale ;
+- a) Au moins un représentant d'une collectivité territoriale ;
 
-- Au moins cinq personnalités désignées par le recteur d'académie ;
+- b) Au moins cinq personnalités désignées par le recteur d'académie ;
 
-- Des personnalités désignées par les établissements publics d'enseignement supérieur partenaires tels que définis à l'article L. 721-1 ;
+- c) Des personnalités désignées par les établissements publics d'enseignement supérieur partenaires tels que définis à l'article L. 721-1 ;
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -44528,7 +44733,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 1336]]
 
-d) Des personnalités désignées par les membres du conseil mentionnés au 1°, au 2° et au a, b et c du 3° ci-dessus.
+d) Des personnalités désignées par les membres du conseil mentionnés au 1°, au 2° et aux a, b et c du 3° ci-dessus.
 
 ###### Article D721-2
 
@@ -44590,7 +44795,7 @@ Les fonctions de membre du conseil de l'école et du conseil d'orientation scien
 
 ###### Article D721-8
 
-Le règlement intérieur de l'école détermine les règles de quorum applicables aux conseils mentionnés aux articles D. 721-1 et D. 721-3, les modalités de leurs délibérations, les conditions de représentation de leurs membres, les modalités de convocation, d'établissement et d'envoi de l'ordre du jour des documents préparatoires. Il précise également qui remplace le président en cas d'empêchement de celui-ci.
+Le règlement intérieur de l'école détermine les règles de quorum applicables aux conseils mentionnés aux articles D. 721-1 et D. 721-3, les modalités de leurs délibérations, les conditions de représentation de leurs membres, les modalités de convocation, d'établissement et d'envoi de l'ordre du jour et des documents préparatoires. Il précise également qui remplace le président en cas d'empêchement de celui-ci.
 
 #### Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres
 
@@ -44600,7 +44805,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 1338]]
 
-#### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'integration scolaire
+#### Chapitre III : Missions et organisation de l'établissement de formation des personnels pour l'adaptation et l'intégration scolaire
 
 ##### Section unique : L'Institut national supérieur de formation et de recherche pour l'éducation des jeunes handicapés et les enseignements adaptés
 
@@ -44636,7 +44841,7 @@ Les déclarations d'ouverture prévues aux articles L. 731-2, L. 731-3 et L. 731
 
 ###### Article R731-2
 
-Après la délivrance du récépissé, le recteur ou l'inspecteur transmet dans les vingt-quatre heures la déclaration reçue du procureur de la République près le tribunal dans le ressort duquel doit s'ouvrir le cours ou l'établissement projeté. Il y joint l'acte de naissance des parties intéressées. Avis de cette transmission est donné au ministre chargé de l'enseignement supérieur et au préfet du département. La déclaration faite au recteur ou à l'inspecteur d'académie est affichée pendant dix jours, par les soins du recteur et du maire, à la porte des bureaux académiques et à la porte de la mairie du lieu où doit s'ouvrir le cours ou l'établissement d'enseignement supérieur privé.
+Après la délivrance du récépissé, le recteur ou l'inspecteur transmet dans les vingt-quatre heures la déclaration reçue au procureur de la République près le tribunal dans le ressort duquel doit s'ouvrir le cours ou l'établissement projeté. Il y joint l'acte de naissance des parties intéressées. Avis de cette transmission est donné au ministre chargé de l'enseignement supérieur et au préfet du département. La déclaration faite au recteur ou à l'inspecteur d'académie est affichée pendant dix jours, par les soins du recteur et du maire, à la porte des bureaux académiques et à la porte de la mairie du lieu où doit s'ouvrir le cours ou l'établissement d'enseignement supérieur privé.
 
 ###### Article R731-3
 
@@ -44694,7 +44899,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - 8° Ecole supérieure de chimie organique et minérale rattachée à l'université de technologie de Compiègne par le décret n° 2008-1148 du 6 novembre 2008 portant rattachement de l'Ecole supérieure de chimie organique et minérale à l'université de technologie de Compiègne ;
 
-- 9° Ecole supérieure de chimie-physique-électrique de Lyon rattachée à l'université Lyon-I par le décret n° 2009-534 du 12 mai 2009 portant rattachement de l'Ecole supérieure de chimie-physique-électronique de Lyon à l'université Lyon-I ;
+- 9° Ecole supérieure de chimie-physique-électronique de Lyon rattachée à l'université Lyon-I par le décret n° 2009-534 du 12 mai 2009 portant rattachement de l'Ecole supérieure de chimie-physique-électronique de Lyon à l'université Lyon-I ;
 
 - 10° Ecole supérieure de fonderie et de forge rattachée à l'Institut supérieur de mécanique de Paris par le décret n° 2010-1517 du 8 décembre 2010 portant rattachement de l'Ecole supérieure de fonderie et de forge à l'Institut supérieur de mécanique de Paris ;
 
@@ -44730,7 +44935,7 @@ Les dispositions relatives aux établissements publics administratifs autres que
 
 - 1° Institut national des sciences et techniques nucléaires : décret n° 56-614 du 18 juin 1956 portant création d'un Institut national des sciences et techniques nucléaires ;
 
-- 2° Académie des sciences d'outre-mer : décret n° 72-1038 du 16 novembre 1972 portant refonte des statuts et approbation du règlement intérieur de l'académie des sciences d'outre-mer et décret n° 2009-200 du 18 février 2009 portant approbation du règlement intérieur de l'Académie des sciences d'outre mer ;
+- 2° Académie des sciences d'outre-mer : décret n° 72-1038 du 16 novembre 1972 portant refonte des statuts et approbation du règlement intérieur de l'académie des sciences d'outre-mer et décret n° 2009-200 du 18 février 2009 portant approbation du règlement intérieur de l'Académie des sciences d'outre-mer ;
 
 - 3° Ecole nationale supérieure de l'électronique et de ses applications de Cergy (ENSEA) : décret n° 75-29 du 15 janvier 1975 portant statut de l'école nationale supérieure de l'électronique et de ses applications ;
 
@@ -44832,7 +45037,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 - 14° Ecole nationale supérieure d'architecture de Paris-La Villette ;
 
-- 15° Ecole nationale supérieure d'architecture de ParisMalaquais ;
+- 15° Ecole nationale supérieure d'architecture de Paris-Malaquais ;
 
 - 16° Ecole nationale supérieure d'architecture de Paris-Val de Seine ;
 
@@ -45054,7 +45259,7 @@ Dans chaque académie, la chancellerie, établissement public national à caract
 
 ###### Article D762-2
 
-La chancellerie assure l'administration des biens et charges indivis entre plusieurs établissements publics à caractère scientifique, culturel et professionnel et, le cas échéant, un ou plusieurs établissements publics administratifs relevant du ministre chargé de l'enseignement supérieur d'une même académie Dans ce cadre, l'Etat peut également lui confier la mission d'acquérir ou de céder des biens mobiliers.
+La chancellerie assure l'administration des biens et charges indivis entre plusieurs établissements publics à caractère scientifique, culturel et professionnel et, le cas échéant, un ou plusieurs établissements publics administratifs relevant du ministre chargé de l'enseignement supérieur d'une même académie. Dans ce cadre, l'Etat peut également lui confier la mission d'acquérir ou de céder des biens mobiliers.
 
 Par dérogation à l'alinéa précédent, la chancellerie de l'académie de Paris administre les biens et charges indivis entre les établissements publics à caractère scientifique, culturel et professionnel et, le cas échéant, les établissements publics administratifs relevant du ministre chargé de l'enseignement supérieur, dont la liste est fixée par un arrêté du ministre chargé de l'enseignement supérieur.
 
@@ -45090,13 +45295,15 @@ Chaque chancellerie est administrée par un conseil d'administration et dirigée
 
 Le conseil d'administration comprend :
 
-1° Le recteur de l'académie, chancelier des universités, président, ou son représentant ainsi que, pour l'académie de Paris, le vice-chancelier des universités de Paris, ou son représentant ;
+1° Le recteur de l'académie, chancelier des universités, président, ou son représentant ainsi que,
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1352]]
 
 [[START OF PAGE 1353]]
+
+pour l'académie de Paris, le vice-chancelier des universités de Paris, ou son représentant ;
 
 - 2° Les présidents des universités et les directeurs des instituts et écoles extérieurs aux universités dont le siège est situé dans le ressort de l'académie, ou leurs représentants. Pour l'académie de Paris, et lorsque le conseil d'administration délibère sur les matières prévues au deuxième alinéa de l'article D. 762-2, les présidents et directeurs des établissements publics d'enseignement supérieur dont la liste est fixée par l'arrêté prévu par ce même alinéa sont membres du conseil d'administration ;
 
@@ -45190,7 +45397,7 @@ Des régies de recettes et d'avances peuvent être instituées par le recteur d'
 
 Les établissements publics d'enseignement supérieur relevant du ministre chargé de l'enseignement supérieur sont autorisés à transiger et à conclure des conventions d'arbitrage dans les conditions prévues aux articles D. 123-9 à D. 123-11.
 
-##### Section 3 : Dispositions applicables au patrimoine mobilier des établissements publics d'enseignement supérieur
+##### Section 3 : Dispositions applicables au patrimoine immobilier des établissements publics d'enseignement supérieur
 
 ###### Article R762-15
 
@@ -45198,15 +45405,15 @@ Les contrats mentionnés au troisième alinéa de l'article L. 762-2 sont conclu
 
 ###### Article R762-16
 
-Les projets de contrat conférant des droits réels à un tiers mentionnés à L. 762-2 sont soumis par l'établissement public d'enseignement supérieur concerné à l'accord préalable :
+I. - Les projets de contrat conférant des droits réels à un tiers mentionnés à l'article L. 762-2 sont soumis par l'établissement public d'enseignement supérieur concerné à l'accord préalable :
 
 - 1° Du ministre de tutelle et du ministre chargé du domaine lorsque le montant des travaux projetés est supérieur ou égal à trois millions d'euros hors taxes ;
 
 - 2° Du préfet lorsque le montant des travaux projetés est inférieur à trois millions d'euros hors taxes.
 
-Les ministres ou le préfet mentionnés au I se prononcent notamment sur les clauses permettant d'assurer la continuité du service public lorsque les biens concernés sont nécessaires à l'accomplissement de ce service.
+II. - Les ministres ou le préfet mentionnés au I se prononcent notamment sur les clauses permettant d'assurer la continuité du service public lorsque les biens concernés sont nécessaires à l'accomplissement de ce service.
 
-Le défaut d'obtention de l'accord exprès préalable mentionné au I vaut refus de cet accord préalable à compter de l'expiration d'un délai, selon le cas :
+III. - Le défaut d'obtention de l'accord exprès préalable mentionné au I vaut refus de cet accord préalable à compter de l'expiration d'un délai, selon le cas :
 
 - 1° De deux mois à compter de la saisine des autorités mentionnées au 1° du I ;
 
@@ -45214,13 +45421,15 @@ Le défaut d'obtention de l'accord exprès préalable mentionné au I vaut refus
 
 ###### Article R762-17
 
-Les contrats mentionnés à l'article R. 762-15 font application des articles R. 2122-17 à R. 2122-27 du code général de la propriété des personnes publiques. La durée des contrats et celle des droits réels qu'ils confèrent est fixée par ces contrats en fonction de l'objet, de la nature et de l'importance des biens et des travaux sur lesquels ils portent.
+Les contrats mentionnés à l'article R. 762-15 font application des articles R. 2122-17 à R. 2122-27 du code général de la propriété des personnes publiques. La durée des contrats et celle des droits
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1355]]
 
 [[START OF PAGE 1356]]
+
+réels qu'ils confèrent est fixée par ces contrats en fonction de l'objet, de la nature et de l'importance des biens et des travaux sur lesquels ils portent.
 
 ###### Article R762-18
 
@@ -45266,13 +45475,15 @@ Ces dispositions sont applicables dans leur rédaction résultant du décret n°
 
 ###### Article R771-3
 
-Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues au recteur d'académie, chancelier des universités, pour l'application des articles R. 712-1 à R. 712-46 et des articles R. 719-113 à R. 719-180.
+Le ministre chargé de l'enseignement supérieur exerce les compétences dévolues au recteur
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1357]]
 
 [[START OF PAGE 1358]]
+
+d'académie, chancelier des universités, pour l'application des articles R. 712-1 à R. 712-46 et des articles R. 719-113 à R. 719-180.
 
 ###### Article D771-4
 
@@ -45298,9 +45509,9 @@ Pour l'application du 1° de l'article D. 714-2 dans les îles Wallis et Futuna,
 
 Pour l'application de l'article D. 714-11 dans les îles Wallis et Futuna :
 
-- Le 3° est supprimé ;
+- a) Le 3° est supprimé ;
 
-- Au 4°, les mots : " dans l'académie " sont remplacés par les mots : " dans la collectivité ".
+- b) Au 4°, les mots : " dans l'académie " sont remplacés par les mots : " dans la collectivité ".
 
 ###### Article D771-10
 
@@ -45312,9 +45523,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 [[START OF PAGE 1359]]
 
-- Au sixième alinéa, les mots : " notamment dans le cadre du plan régional défini à l'article L. 1411-11 du code de la santé publique " ne sont pas applicables ;
+- a) Au sixième alinéa, les mots : " notamment dans le cadre du plan régional défini à l'article L. 1411-11 du code de la santé publique " ne sont pas applicables ;
 
-- Le onzième alinéa est ainsi rédigé :
+- b) Le onzième alinéa est ainsi rédigé :
 
 " 2° Assurer un examen médical pour les étudiants étrangers autorisés à séjourner dans la collectivité ".
 
@@ -45346,13 +45557,15 @@ A l'article R. 719-137, les mots : " les quinze jours " sont remplacés par les 
 
 ###### Article R772-1
 
-Pour l'application du présent livre à Mayotte, les compétences dévolues au recteur d'académie, au recteur chancelier des universités ou au recteur sont exercées par le ministre chargé de l'enseignement supérieur.
+Pour l'application du présent livre à Mayotte, les compétences dévolues au recteur d'académie, au recteur chancelier des universités ou au recteur sont exercées par le ministre chargé de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1359]]
 
 [[START OF PAGE 1360]]
+
+l'enseignement supérieur.
 
 ###### Article D772-2
 
@@ -45428,17 +45641,17 @@ Pour l'application du 1° de l'article D. 714-2 en Polynésie française, les mo
 
 Pour l'application de l'article D. 714-11 en Polynésie française :
 
-- Le 3° est supprimé ;
+- a) Le 3° est supprimé ;
 
-- Au 4°, les mots : " dans l'académie " sont remplacés par les mots : " dans la collectivité ".
+- b) Au 4°, les mots : " dans l'académie " sont remplacés par les mots : " dans la collectivité ".
 
 ###### Article D773-10
 
 Pour l'application de l'article D. 714-21 en Polynésie française :
 
-- Au sixième alinéa, les mots : " notamment dans le cadre du plan régional défini à l'article L. 1411-11 du code de la santé publique " ne sont pas applicables ;
+- a) Au sixième alinéa, les mots : " notamment dans le cadre du plan régional défini à l'article L. 1411-11 du code de la santé publique " ne sont pas applicables ;
 
-- Le onzième alinéa est ainsi rédigé :
+- b) Le onzième alinéa est ainsi rédigé :
 
 " 2° Assurer un examen médical pour les étudiants étrangers autorisés à séjourner dans la collectivité. "
 
@@ -45522,13 +45735,15 @@ Le ministre chargé de l'enseignement supérieur exerce les compétences dévolu
 
 ###### Article R774-5
 
-Pour l'application de l'article R. 712-12, les usagers relèvent, en Nouvelle-Calédonie, de la section disciplinaire de l'université de la Nouvelle-Calédonie.
+Pour l'application de l'article R. 712-12, les usagers relèvent, en Nouvelle-Calédonie, de la section
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1364]]
 
 [[START OF PAGE 1365]]
+
+disciplinaire de l'université de la Nouvelle-Calédonie.
 
 ###### Article D774-6
 
@@ -45546,17 +45761,17 @@ Pour l'application du 1° de l'article D. 714-2 en Nouvelle-Calédonie, les mots
 
 Pour l'application de l'article D. 714-11 en Nouvelle-Calédonie :
 
-- Le 3° est supprimé ;
+- a) Le 3° est supprimé ;
 
-- Au 4°, les mots : " dans l'académie " sont remplacés par les mots : " en Nouvelle-Calédonie ".
+- b) Au 4°, les mots : " dans l'académie " sont remplacés par les mots : " en Nouvelle-Calédonie ".
 
 ###### Article D774-10
 
 Pour l'application de l'article D. 714-21 en Nouvelle-Calédonie :
 
-- Au sixième alinéa, les mots : " notamment dans le cadre du plan régional défini à l'article L. 1411-11 du code de la santé publique " ne sont pas applicables ;
+- a) Au sixième alinéa, les mots : " notamment dans le cadre du plan régional défini à l'article L. 1411-11 du code de la santé publique " ne sont pas applicables ;
 
-- Le onzième alinéa est ainsi rédigé :
+- b) Le onzième alinéa est ainsi rédigé :
 
 " 2° Assurer un examen médical pour les étudiants étrangers autorisés à séjourner en Nouvelle-Calédonie. ".
 
@@ -45572,7 +45787,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ###### Article D774-12
 
-Pour l'application du premier alinéa de l'article D. 719-38 en Nouvelle-Calédonie, les mots " dans chaque académie " sont remplacés par les termes : " en Nouvelle-Calédonie ".
+Pour l'application du premier alinéa de l'article D. 719-38 en Nouvelle-Calédonie, les mots : " dans chaque académie " sont remplacés par les termes : " en Nouvelle-Calédonie ".
 
 ###### Article D774-13
 
@@ -45626,7 +45841,7 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ## Livre VII : Les établissements d'enseignement supérieur
 
-### Titre VIII : Dispositions applicables aux université implantées dans une ou plusieurs régions et départements d'outre-mer
+### Titre VIII : Dispositions applicables aux universités implantées dans une ou plusieurs régions et départements d'outre-mer
 
 #### Chapitre unique : Dispositions applicables à l'université des Antilles et de la Guyane
 
@@ -45700,13 +45915,15 @@ Le nombre de sièges des représentants des maîtres des établissements d'ensei
 
 ###### Article R914-6
 
-Lorsque le recteur, en application des dispositions prévues à l'article R. 222-36-2, a chargé un service départemental de l'éducation nationale de la gestion des questions individuelles intéressant les maîtres mentionnés à l'article R. 914-5, il peut créer, après consultation des organisations syndicales représentatives de ces maîtres et au moins six mois avant la date du scrutin, une commission consultative mixte interdépartementale chargée de donner son avis sur ces questions.
+Lorsque le recteur, en application des dispositions prévues à l'article R. 222-36-2, a chargé un service départemental de l'éducation nationale de la gestion des questions individuelles intéressant
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1370]]
 
 [[START OF PAGE 1371]]
+
+les maîtres mentionnés à l'article R. 914-5, il peut créer, après consultation des organisations syndicales représentatives de ces maîtres et au moins six mois avant la date du scrutin, une commission consultative mixte interdépartementale chargée de donner son avis sur ces questions.
 
 Le nombre de sièges des représentants des maîtres au sein de cette commission consultative est fixé selon les modalités prévues à l'article R. 914-5.
 
@@ -45762,7 +45979,7 @@ Sont électeurs pour la désignation des représentants des maîtres au sein de 
 
 - 1° Les maîtres contractuels et agréés, à titre définitif ou provisoire, en position d'activité ou de congé parental ;
 
-- 2° Les maîtres délégués des établissements d'enseignement privés sous contrat, sous réserve qu'ils détiennent à la date du scrutin un contrat d'une durée au moins égale à six mois et qu'ils exercent depuis au moins deux mois ; il doivent être à cette date en activité, en congé rémunéré ou en congé parental ;
+- 2° Les maîtres délégués des établissements d'enseignement privés sous contrat, sous réserve qu'ils détiennent à la date du scrutin un contrat d'une durée au moins égale à six mois et qu'ils exercent depuis au moins deux mois ; ils doivent être à cette date en activité, en congé rémunéré ou en congé parental ;
 
 - 3° Les maîtres de l'enseignement public exerçant leurs fonctions dans les établissements d'enseignement privés sous contrat et remplissant les conditions pour être électeur fixées au 3° de l'article R. 914-13-9.
 
@@ -45872,7 +46089,7 @@ Si, après l'expiration de ce dernier délai, ces modifications ne sont pas inte
 
 En l'absence de cette indication, les organisations syndicales ayant déposé les listes en cause ne peuvent bénéficier des dispositions prévues par l'avant-dernier alinéa de l'article L. 914-1-2 et ne peuvent se prévaloir de l'appartenance à une union pour l'application de l'article R. 914-10-22.
 
-Lorsque la recevabilité d'une des listes n'est pas reconnue par l'administration, la procédure décrite ci-dessus est mise en œuvre dans un délai de trois jours à compter de la notification du jugement du tribunal administratif lorsque celui-ci est saisi d'une contestation de la décision de l'administration en application des dispositions du dernier alinéa de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires sous les réserves mentionnées à L. 914-1-2.
+Lorsque la recevabilité d'une des listes n'est pas reconnue par l'administration, la procédure décrite ci-dessus est mise en œuvre dans un délai de trois jours à compter de la notification du jugement du tribunal administratif lorsque celui-ci est saisi d'une contestation de la décision de l'administration en application des dispositions du dernier alinéa de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires sous les réserves mentionnées à l'article L. 914-1-2.
 
 ###### Article R914-10-14
 
@@ -45880,7 +46097,7 @@ Pour chaque liste, les bulletins de vote et les enveloppes sont établis, aux fr
 
 Il est fait mention, sur le bulletin de vote, de l'appartenance éventuelle de l'organisation syndicale, à la date du dépôt des listes, à une union de syndicats à caractère national.
 
-Les bulletins de vote par liste et les enveloppes sont remis à l'autorité auprès de laquelle est placée le bureau de vote central ou, le cas échéant, chaque section de vote en nombre au moins égal au nombre des électeurs inscrits sur la liste électorale considérée. Ils sont transmis par les soins de l'administration aux électeurs admis à voter et mis à disposition dans les lieux de vote.
+Les bulletins de vote par liste et les enveloppes sont remis à l'autorité auprès de laquelle est placé le bureau de vote central ou, le cas échéant, chaque section de vote en nombre au moins égal au nombre des électeurs inscrits sur la liste électorale considérée. Ils sont transmis par les soins de l'administration aux électeurs admis à voter et mis à disposition dans les lieux de vote.
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -45898,7 +46115,7 @@ Il est procédé au dépouillement du scrutin dans un délai qui ne peut être s
 
 Le bureau de vote central et, le cas échéant, les bureaux de vote spéciaux comprennent un président et un secrétaire désignés, selon la commission consultative mixte considérée, par le recteur d'académie ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur ainsi qu'un délégué de chaque liste en présence.
 
-Les sections de vote comprennent un président et un secrétaire désignés, selon la commission consultative mixte considérée, par le recteur ou le académique des services de l'éducation nationale agissant sur délégation du recteur ainsi que, le cas échéant, un délégué de chaque liste en présence.
+Les sections de vote comprennent un président et un secrétaire désignés, selon la commission consultative mixte considérée, par le recteur ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur ainsi que, le cas échéant, un délégué de chaque liste en présence.
 
 ###### Article R914-10-16
 
@@ -45964,17 +46181,17 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 ###### Article R914-10-23
 
-- Le recteur d'académie ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur désigne des représentants des chefs d'établissement d'enseignement privés sous contrat du premier ou du second degré sous contrat, selon la commission consultative mixte considérée, sur proposition des délégations locales des organisations professionnelles et des sections locales des organisations syndicales représentant dans le ressort de ladite commission les chefs d'établissement.
+I. - Le recteur d'académie ou le directeur académique des services de l'éducation nationale agissant sur délégation du recteur désigne des représentants des chefs d'établissement d'enseignement privés sous contrat du premier ou du second degré sous contrat, selon la commission consultative mixte considérée, sur proposition des délégations locales des organisations professionnelles et des sections locales des organisations syndicales représentant dans le ressort de ladite commission les chefs d'établissement.
 
-Nul ne peut être désigné s'il n'exerce pas les fonctions de chef d'établissement dans le premier ou le second degré, selon la commission consultative mixte considérée, et s'il n'exerce pas ces fonctions dans le ressort territorial celle-ci.
+Nul ne peut être désigné s'il n'exerce pas les fonctions de chef d'établissement dans le premier ou le second degré, selon la commission consultative mixte considérée, et s'il n'exerce pas ces fonctions dans le ressort territorial de celle-ci.
 
 Nul ne peut être désigné en qualité de représentant des chefs d'établissement s'il figure sur une liste de candidats établie en application de l'article R. 914-10-11.
 
-- Les représentants des chefs d'établissement ont voix consultative. Leur participation n'est pas prise en compte pour l'application du premier alinéa de l'article R. 914-12.
+II. - Les représentants des chefs d'établissement ont voix consultative. Leur participation n'est pas prise en compte pour l'application du premier alinéa de l'article R. 914-12.
 
-- Leur nombre est fixé par arrêté du recteur d'académie ou par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur selon la commission consultative mixte considérée. Il est égal au minimum à la moitié du nombre de représentants titulaires des maîtres siégeant à la commission consultative mixte considérée arrondi au nombre entier supérieur et au maximum au nombre de sièges de représentants titulaires fixé pour la représentation des maîtres.
+III. - Leur nombre est fixé par arrêté du recteur d'académie ou par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur selon la commission consultative mixte considérée. Il est égal au minimum à la moitié du nombre de représentants titulaires des maîtres siégeant à la commission consultative mixte considérée arrondi au nombre entier supérieur et au maximum au nombre de sièges de représentants titulaires fixé pour la représentation des maîtres.
 
-- A l'occasion de la création ou du renouvellement de la commission consultative mixte considérée, une délégation locale d'une organisation professionnelle ou une section locale d'une organisation syndicale représentant dans le ressort de la commission consultative mixte considérée les chefs d'établissement du premier ou du second degré sous contrat peut demander au recteur d'académie ou au directeur académique des services de l'éducation nationale agissant sur délégation du recteur, selon la commission consultative mixte considérée, la convocation d'une élection pour déterminer les organisations professionnelles et les organisations syndicales représentant les chefs d'établissement qui peuvent proposer des représentants à désigner.
+IV. - A l'occasion de la création ou du renouvellement de la commission consultative mixte considérée, une délégation locale d'une organisation professionnelle ou une section locale d'une organisation syndicale représentant dans le ressort de la commission consultative mixte considérée les chefs d'établissement du premier ou du second degré sous contrat peut demander au recteur d'académie ou au directeur académique des services de l'éducation nationale agissant sur délégation du recteur, selon la commission consultative mixte considérée, la convocation d'une élection pour déterminer les organisations professionnelles et les organisations syndicales représentant les chefs d'établissement qui peuvent proposer des représentants à désigner.
 
 Lorsque le recteur ou le directeur académique des services de l'éducation nationale décide de convoquer une élection, cette dernière est organisée sur sigle et à la plus forte moyenne après application du quotient électoral. Les autres modalités d'organisation de l'élection sont fixées par arrêté du recteur d'académie ou du directeur académique des services de l'éducation nationale.
 
@@ -45982,7 +46199,7 @@ Sont habilitées à présenter une candidature les délégations locales des org
 
 Ces délégations locales des organisations professionnelles et ces sections locales des organisations syndicales proposent leurs représentants compte tenu du nombre de sièges qu'elles ont obtenu.
 
-- A défaut de proposition de représentants des chefs d'établissement, il est procédé par voie de tirage au sort parmi les d'établissement du premier ou du second degré sous contrat en fonctions dans le ressort territorial de la commission consultative mixte considérée.
+V. - A défaut de proposition de représentants des chefs d'établissement, il est procédé par voie de tirage au sort parmi les chefs d'établissement du premier ou du second degré sous contrat en fonctions dans le ressort territorial de la commission consultative mixte considérée.
 
 Les sièges des représentants des chefs d'établissement demeurent vacants si leur désignation est refusée par les intéressés.
 
@@ -46042,7 +46259,7 @@ Si aucun représentant des maîtres ne peut valablement siéger, il est fait app
 
 Dans l'intérêt du service, la durée du mandat d'une commission consultative mixte peut être réduite ou prorogée, par arrêté du ministre chargé de l'éducation nationale. Cette réduction ou prorogation ne peut excéder une durée de dix-huit mois.
 
-En cas de difficulté dans son fonctionnement, une commission consultative mixte peut être dissoute dans la forme prévue pour sa constitution après avis du comité consultatif ministériel compétent à l'égard des maîtres des établissements de l'enseignement privés sous contrat mentionné à l'article L. 914-1-2.
+En cas de difficulté dans son fonctionnement, une commission consultative mixte peut être dissoute dans la forme prévue pour sa constitution après avis du comité consultatif ministériel compétent à l'égard des maîtres des établissements d'enseignement privés sous contrat mentionné à l'article L. 914-1-2.
 
 Il est alors procédé, dans le délai de deux mois, à la mise en place, dans les conditions fixées par la présente sous-section, d'une nouvelle commission consultative mixte.
 
@@ -46170,7 +46387,7 @@ Toutefois, ne peuvent être élus :
 
 ###### Article R914-13-12
 
-I. # Les candidatures sont présentées par les organisations syndicales qui, dans le périmètre du comité consultatif, remplissent les conditions fixées par l'avant-dernier alinéa de l'article L. 914-1-2. Les listes de candidats peuvent être communes à plusieurs organisations syndicales.
+I. - Les candidatures sont présentées par les organisations syndicales qui, dans le périmètre du comité consultatif, remplissent les conditions fixées par l'avant-dernier alinéa de l'article L. 914-1-2. Les listes de candidats peuvent être communes à plusieurs organisations syndicales.
 
 Chaque liste de candidats doit comporter le nom d'un délégué qui peut être ou non candidat, désigné par la ou les organisations syndicales dans le cas de liste commune afin de représenter la liste de candidats dans toutes les opérations électorales. La ou les organisations syndicales peuvent désigner un délégué suppléant.
 
@@ -46184,7 +46401,7 @@ Les listes de candidats doivent être déposées au moins six semaines avant la 
 
 Lorsque l'administration constate qu'une ou plusieurs listes de candidats ne satisfont pas aux conditions fixées par l'avant-dernier alinéa de l'article L. 914-1-2, elle informe le ou les délégués de liste, par décision motivée, de l'irrecevabilité de cette ou de ces candidatures.
 
-Chaque organisation syndicale ne peut présenter qu'une liste de candidats pour un même scrutin. Nul ne peut être candidat sur plusieurs listes d'un même scrutin.
+II. - Chaque organisation syndicale ne peut présenter qu'une liste de candidats pour un même scrutin. Nul ne peut être candidat sur plusieurs listes d'un même scrutin.
 
 Chaque liste comprend autant de noms qu'il y a de sièges de représentants titulaires et suppléants à pourvoir, sans qu'il soit fait mention pour chacun des candidats de la qualité de titulaire ou de suppléant. Des listes incomplètes de candidats ne peuvent pas être déposées.
 
@@ -46192,9 +46409,9 @@ Le dépôt de chaque liste doit être accompagné d'une déclaration de candidat
 
 ###### Article R914-13-13
 
-Aucune liste de candidats ne peut être déposée ou modifiée après la date prévue au quatrième alinéa du I de l'article R. 914-13-12. De même, aucun retrait de candidature ne peut être opéré après le dépôt des candidatures.
+I. - Aucune liste de candidats ne peut être déposée ou modifiée après la date prévue au quatrième alinéa du I de l'article R. 914-13-12. De même, aucun retrait de candidature ne peut être opéré après le dépôt des candidatures.
 
-Toutefois, si un ou plusieurs candidats inscrits sur une liste sont reconnus inéligibles dans un délai de trois jours suivant la date limite de dépôt des listes, l'administration en informe sans délai le délégué de liste. Celui-ci transmet alors à l'administration, dans un délai de trois jours à compter de l'expiration du délai de trois jours susmentionné, les rectifications nécessaires. A défaut de rectification, l'administration raye de la liste les candidats inéligibles. Cette liste ne peut par conséquent participer aux élections.
+II. - Toutefois, si un ou plusieurs candidats inscrits sur une liste sont reconnus inéligibles dans un délai de trois jours suivant la date limite de dépôt des listes, l'administration en informe sans délai le délégué de liste. Celui-ci transmet alors à l'administration, dans un délai de trois jours à compter de l'expiration du délai de trois jours susmentionné, les rectifications nécessaires. A défaut de rectification, l'administration raye de la liste les candidats inéligibles. Cette liste ne peut par conséquent participer aux élections.
 
 Lorsque la recevabilité de candidatures ou de listes n'est pas reconnue par l'administration, le délai de trois jours prévu à la première phrase du II du présent article ne court à l'égard de cette liste qu'à compter de la notification du jugement du tribunal administratif lorsqu'il est saisi d'une contestation de la décision de l'administration, en application des dispositions du dernier alinéa de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires sous les réserves mentionnées à l'article L. 914-1-2.
 
@@ -46218,7 +46435,7 @@ Si, après l'expiration de ce dernier délai, ces modifications ne sont pas inte
 
 En l'absence de cette indication, les organisations syndicales ayant déposé les candidatures en cause ne peuvent bénéficier des dispositions prévues par l'avant-dernier alinéa de l'article L. 914-1-2, et ne peuvent se prévaloir de l'appartenance à une union pour l'application du premier alinéa de l'article R. 914-13-22.
 
-Lorsque la recevabilité d'une des listes de candidats n'est pas reconnue par l'administration, la procédure décrite ci-dessus est mise en œuvre dans un délai de trois jours à compter de la notification du jugement du tribunal administratif lorsque celui-ci est saisi d'une contestation de la décision de l'administration, en application des dispositions du dernier alinéa de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires sous les réserves mentionnés à l'article L. 914-1-2.
+Lorsque la recevabilité d'une des listes de candidats n'est pas reconnue par l'administration, la procédure décrite ci-dessus est mise en œuvre dans un délai de trois jours à compter de la notification du jugement du tribunal administratif lorsque celui-ci est saisi d'une contestation de la décision de l'administration, en application des dispositions du dernier alinéa de l'article 9 bis de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires sous les réserves mentionnées à l'article L. 914-1-2.
 
 ###### Article R914-13-16
 
@@ -46226,7 +46443,7 @@ Pour chaque liste de candidats, les bulletins de vote et les enveloppes sont ét
 
 Il est fait mention, sur le bulletin de vote, de l'appartenance éventuelle de l'organisation syndicale, à la date du dépôt des candidatures, à une union de syndicats à caractère national.
 
-Les bulletins de vote par liste de candidats et les enveloppes sont remis à l'autorité auprès de laquelle est placée le bureau de vote central ou, le cas échéant, chaque section de vote, en nombre au moins égal au nombre des électeurs inscrits sur la liste électorale considérée. Ils sont transmis par les soins de l'administration aux maîtres admis à voter et mis à disposition dans les lieux de vote.
+Les bulletins de vote par liste de candidats et les enveloppes sont remis à l'autorité auprès de laquelle est placé le bureau de vote central ou, le cas échéant, chaque section de vote, en nombre au moins égal au nombre des électeurs inscrits sur la liste électorale considérée. Ils sont transmis par les soins de l'administration aux maîtres admis à voter et mis à disposition dans les lieux de vote.
 
 ###### Article R914-13-17
 
@@ -46264,7 +46481,7 @@ Il peut être recouru au vote électronique par internet selon des modalités d�
 
 ###### Article R914-13-19
 
-I. # Le bureau de vote central constate le nombre total de votants et détermine le nombre total de suffrages valablement exprimés ainsi que le nombre de voix obtenues par chaque liste de candidats en présence.
+I. - Le bureau de vote central constate le nombre total de votants et détermine le nombre total de suffrages valablement exprimés ainsi que le nombre de voix obtenues par chaque liste de candidats en présence.
 
 Il détermine le quotient électoral en divisant le nombre de suffrages valablement exprimés par le nombre de représentants titulaires à élire au comité consultatif.
 
@@ -46272,7 +46489,7 @@ Chaque liste de candidats a droit à autant de sièges de représentants titulai
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
 
-II. # Lorsque pour l'attribution d'un siège des listes de candidats obtiennent la même moyenne, le siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si plusieurs de ces listes ont obtenu le même nombre de voix, le siège est attribué par voie de tirage au sort.
+II. - Lorsque pour l'attribution d'un siège des listes de candidats obtiennent la même moyenne, le siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si plusieurs de ces listes ont obtenu le même nombre de voix, le siège est attribué par voie de tirage au sort.
 
 Les représentants titulaires sont désignés selon l'ordre de présentation de la liste.
 
@@ -46306,7 +46523,7 @@ Lorsqu'aucune liste de candidats n'a été présentée par les organisations syn
 
 Le comité consultatif est consulté :
 
-Sur les questions et projets de textes concernant les maîtres et documentalistes des établissements d'enseignement privés sous contrat et relatifs :
+I. - Sur les questions et projets de textes concernant les maîtres et documentalistes des établissements d'enseignement privés sous contrat et relatifs :
 
 - 1° A la gestion prévisionnelle des effectifs, des emplois et des compétences ;
 
@@ -46320,7 +46537,7 @@ Sur les questions et projets de textes concernant les maîtres et documentaliste
 
 - 6° A l'égalité professionnelle, à la parité et à la lutte contre toutes les discriminations.
 
-Le comité consultatif est informé des incidences sur la gestion des emplois des principales décisions à caractère budgétaire.
+II. - Le comité consultatif est informé des incidences sur la gestion des emplois des principales décisions à caractère budgétaire.
 
 ###### Article R914-13-25
 
@@ -46396,7 +46613,7 @@ Seuls les représentants du personnel titulaires participent au vote. Les suppl�
 
 Les représentants de l'administration ainsi que les experts ne participent pas au vote.
 
-Le comité consultatif émet ses avis à la majorité des représentants du personnel présents. S'il est procédé à un vote, celui-ci a lieu à mainlevée. Les abstentions sont admises. En cas de partage égal des voix, l'avis est réputé avoir été donné ou la proposition formulée.
+Le comité consultatif émet ses avis à la majorité des représentants du personnel présents. S'il est procédé à un vote, celui-ci a lieu à main levée. Les abstentions sont admises. En cas de partage égal des voix, l'avis est réputé avoir été donné ou la proposition formulée.
 
 ###### Article R914-13-34
 
@@ -46438,7 +46655,7 @@ Dans l'intérêt du service, la durée du mandat des représentants du personnel
 
 En cas de difficulté dans son fonctionnement, le comité consultatif peut être dissout dans la forme prévue pour sa constitution après avis du Conseil supérieur de l'éducation.
 
-Il est alors procédé, dans le délai de deux mois à la mise en place, dans les conditions fixées par le présent décret, d'un nouveau comité consultatif.
+Il est alors procédé, dans le délai de deux mois, à la mise en place, dans les conditions fixées par le présent décret, d'un nouveau comité consultatif.
 
 ##### Section 3 : Recrutement des enseignants des classes sous contrat.
 
@@ -46648,7 +46865,7 @@ Le nombre de contrats offerts pour chaque concours, répartis par sections et, �
 
 Les candidats admis à ces concours sont inscrits, dans la limite du nombre de contrats offerts pour chacun de ces concours, sur une liste d'aptitude, par ordre alphabétique.
 
-Le jury établit, pour les concours correspondant aux concours externes visés aux 1°, 2°, 3° et 4° de l'article R. 914-20 une liste d'aptitude complémentaire, par ordre de mérite, qui ne peut excéder 100 %des contrats offerts pour chaque section et éventuellement chaque option.
+Le jury établit, pour les concours correspondant aux concours externes visés aux 1°, 2°, 3° et 4° de l'article R. 914-20 une liste d'aptitude complémentaire, par ordre de mérite, qui ne peut excéder 100 % des contrats offerts pour chaque section et éventuellement chaque option.
 
 La validité de ces listes expire le 1er octobre suivant la date de proclamation des résultats, sous réserve des dispositions du quatrième alinéa de l'article R. 914-32.
 
@@ -46978,7 +47195,7 @@ Pour l'application de la condition de durée de service mentionnée ci-dessus, s
 
 La liste d'aptitude est arrêtée chaque année par le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie, après avis de la commission consultative mixte départementale ou interdépartementale.
 
-Le nombre de candidats inscrits sur la liste d'aptitude départementale ne peut excéder de plus de 50 %le contingent des promotions fixé pour l'année considérée.
+Le nombre de candidats inscrits sur la liste d'aptitude départementale ne peut excéder de plus de 50 % le contingent des promotions fixé pour l'année considérée.
 
 Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie prononce les admissions des maîtres inscrits sur la liste d'aptitude départementale, dans la limite du contingent précité, à l'échelle de rémunération des professeurs des écoles.
 
@@ -47318,29 +47535,29 @@ Les sanctions disciplinaires applicables aux maîtres contractuels ou agréés s
 
 - 1° Premier groupe :
 
-- L'avertissement ;
+- a) L'avertissement ;
 
-- Le blâme.
+- b) Le blâme.
 
 - 2° Deuxième groupe :
 
-- La radiation du tableau d'avancement ;
+- a) La radiation du tableau d'avancement ;
 
-- L'abaissement d'échelon ;
+- b) L'abaissement d'échelon ;
 
-- L'exclusion temporaire de fonctions pour une durée maximale de quinze jours.
+- c) L'exclusion temporaire de fonctions pour une durée maximale de quinze jours.
 
 - 3° Troisième groupe :
 
-- L'abaissement de classe ou de grade dans l'échelle de rémunération ;
+- a) L'abaissement de classe ou de grade dans l'échelle de rémunération ;
 
-- L'exclusion temporaire de fonctions pour une durée de trois mois à deux ans.
+- b) L'exclusion temporaire de fonctions pour une durée de trois mois à deux ans.
 
 - 4° Quatrième groupe :
 
-- La résiliation du contrat ;
+- a) La résiliation du contrat ;
 
-- Le retrait de l'agrément.
+- b) Le retrait de l'agrément.
 
 Parmi les sanctions du premier groupe, seul le blâme est inscrit au dossier du maître. Il est effacé automatiquement du dossier au bout de trois ans, si aucune sanction n'est intervenue pendant cette période.
 
@@ -47416,7 +47633,7 @@ Les maîtres contractuels ou agréés bénéficient du régime des congés de to
 
 ###### Article R914-109
 
-Le contrat des maîtres admis au bénéfice de la cessation progressive d'activité cesse de plein droit à la fin du mois au cours duquel les intéressés justifient du ombre de trimestres requis pour bénéficier d'une pension de retraite du régime général d'assurance vieillesse à taux plein, et au plus tard à la date à laquelle ils atteignent la limite d'âge. Il cesse également sur leur demande à la fin du mois au cours duquel ils atteignent l'âge d'ouverture des droits à l'avantage temporaire de retraite fixés par l'article R. 914-121.
+Le contrat des maîtres admis au bénéfice de la cessation progressive d'activité cesse de plein droit à la fin du mois au cours duquel les intéressés justifient du nombre de trimestres requis pour bénéficier d'une pension de retraite du régime général d'assurance vieillesse à taux plein, et au plus tard à la date à laquelle ils atteignent la limite d'âge. Il cesse également sur leur demande à la fin du mois au cours duquel ils atteignent l'âge d'ouverture des droits à l'avantage temporaire de retraite fixés par l'article R. 914-121.
 
 Toutefois, par dérogation au précédent alinéa, la cessation d'activité peut, sur la demande des intéressés, être reportée jusqu'à la fin de l'année scolaire.
 
@@ -47452,13 +47669,13 @@ Le retrait de l'agrément est prononcé en cas de rupture du contrat liant les m
 
 La résiliation du contrat ou le retrait de l'agrément peut être prononcé, dans le cas où l'une des conditions prévues à l'article R. 914-14 n'est plus remplie, sans consultation de la commission consultative mixte compétente.
 
-La résiliation du contrat ou le retrait de l'agrément est prononcé, dans le cas où la condition prévue au 4° de l'article R. 914-14 n'est plus remplie, après examen médical par un médecin agréé dans les conditions prévues par le décret n° 86-442 du 14 mars 1986 relatif à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congé de maladie des fonctionnaires. Lorsque l'avis du médecin agréé est contesté soit par l'intéressé, soit par l'administration, le dossier est soumis pour avis au comité médical compétent dans les conditions prévues par le décret susmentionné.
+La résiliation du contrat ou le retrait de l'agrément est prononcé, dans le cas où la condition prévue au 4° de l'article R. 914-14 n'est plus remplie, après examen médical par un médecin agréé dans les conditions prévues par le décret n° 86-442 du 14 mars 1986 relatif à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires. Lorsque l'avis du médecin agréé est contesté soit par l'intéressé, soit par l'administration, le dossier est soumis pour avis au comité médical compétent dans les conditions prévues par le décret susmentionné.
 
 ###### Sous-section 2 : Incapacité permanente.
 
 ###### Article R914-114
 
-Le maître contractuel ou agréé qui se trouve dans l'incapacité permanente de continuer ses fonctions en raison d'infirmités résultant de blessures ou de maladie contractées ou aggravées soit en service, soit en accomplissant un acte de dévouement dans un intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes et qui n'a pu être reclassé en application des dispositions de l'article R. 914-81 peut voir son contrat résilié ou son agrément retiré soit sur sa demande, soit d'office à l'expiration d'un délai de douze mois à compter de sa mise en congé si cette dernière a été
+Le maître contractuel ou agréé qui se trouve dans l'incapacité permanente de continuer ses fonctions en raison d'infirmités résultant de blessures ou de maladies contractées ou aggravées soit en service, soit en accomplissant un acte de dévouement dans un intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes et qui n'a pu être reclassé en application des dispositions de l'article R. 914-81 peut voir son contrat résilié ou son agrément retiré soit sur sa demande, soit d'office à l'expiration d'un délai de douze mois à compter de sa mise en congé si cette dernière a été
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
@@ -47474,7 +47691,7 @@ Le maître contractuel ou agréé qui se trouve dans l'incapacité permanente de
 
 ###### Article R914-116
 
-La réalité des infirmités invoquées, la preuve de leur imputabilité au service, le taux d'invalidité qu'elles entraînent, l'incapacité permanente à l'exercice des fonctions sont appréciés par la commission de réforme prévue à l'article 12 du décret n° 86-442 du 14 mars 1986 relatif à la désignation de médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires.
+La réalité des infirmités invoquées, la preuve de leur imputabilité au service, le taux d'invalidité qu'elles entraînent, l'incapacité permanente à l'exercice des fonctions sont appréciés par la commission de réforme prévue à l'article 12 du décret n° 86-442 du 14 mars 1986 relatif à la désignation des médecins agréés, à l'organisation des comités médicaux et des commissions de réforme, aux conditions d'aptitude physique pour l'admission aux emplois publics et au régime de congés de maladie des fonctionnaires.
 
 Le taux d'invalidité est déterminé compte tenu du barème indicatif prévu au quatrième alinéa de l'article L. 28 du code des pensions civiles et militaires de retraite.
 
@@ -47534,9 +47751,9 @@ Dernière modification du texte le 29 janvier 2014 - Document généré le 14 f�
 
 Ces services sont décomptés au prorata de leur durée effective lorsqu'ils ne correspondent pas à des services accomplis à temps complet. Toutefois, les services d'enseignement accomplis dans les conditions suivantes sont pris en compte sur la base d'un temps complet pour l'ouverture du droit à pension :
 
-- Services accomplis à temps partiel ;
+- a) Services accomplis à temps partiel ;
 
-- Services accomplis à temps incomplet lorsque, concomitamment, a été exercée, dans un établissement d'enseignement privé sous contrat avec l'Etat ou reconnu par celui-ci, une activité de direction ou, dans un centre de formation des personnels mentionnés à l'article L. 914-1 du code de l'éducation ou L. 813-8 du code rural et de la pêche maritime , une activité de direction ou de formateur, sous réserve que ces activités aient donné lieu à validation au regard du régime général de la sécurité sociale ou de la mutualité sociale agricole.
+- b) Services accomplis à temps incomplet lorsque, concomitamment, a été exercée, dans un établissement d'enseignement privé sous contrat avec l'Etat ou reconnu par celui-ci, une activité de direction ou, dans un centre de formation des personnels mentionnés à l'article L. 914-1 du code de l'éducation ou L. 813-8 du code rural et de la pêche maritime , une activité de direction ou de formateur, sous réserve que ces activités aient donné lieu à validation au regard du régime général de la sécurité sociale ou de la mutualité sociale agricole.
 
 - 2° Les périodes accomplies au titre du service national actif ;
 
@@ -47554,7 +47771,7 @@ Les maîtres mentionnés à l'article R. 914-120 bénéficient des avantages tem
 
 - 4° Sans condition d'âge pour les maîtres contractuels ou agréés à titre définitif des établissements d'enseignement privés sous contrat remplissant les conditions fixées par le III de l'article 44 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites et par l'article R. 37 du code des pensions civiles et militaires de retraite.
 
-Pour l'application des V et VI de l'article 5 et des II et III de l'article 66 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites aux maîtres mentionnés au présent paragraphe qui sollicitent le bénéfice des avantages temporaires de retraite, l'année prise en compte pour le calcul de la pension est celle au cours de laquelle ils atteignent l'âge prévu au dernier alinéa du I de l'article 5 de la loi n° 2003-775 du 21 août 2003 ou, le cas échéant, l'âge anticipé mentionné au 1° du I de l'article L. 24 du codes des pensions civiles et militaires de retraite. Si cet âge est atteint après 2019, le coefficient de minoration applicable est celui prévu au I de l'article L. 24 du code des pensions civiles et militaires de retraite. Lorsque la durée de services et de bonifications correspondant à cette année n'est pas fixée, la durée exigée est celle correspondant à la dernière génération pour laquelle elle a été fixée ;
+Pour l'application des V et VI de l'article 5 et des II et III de l'article 66 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites aux maîtres mentionnés au présent paragraphe qui sollicitent le bénéfice des avantages temporaires de retraite, l'année prise en compte pour le calcul de la pension est celle au cours de laquelle ils atteignent l'âge prévu au dernier alinéa du I de l'article 5 de la loi n° 2003-775 du 21 août 2003 ou, le cas échéant, l'âge anticipé mentionné au 1° du I de l'article L. 24 du code des pensions civiles et militaires de retraite. Si cet âge est atteint après 2019, le coefficient de minoration applicable est celui prévu au I de l'article L. 24 du code des pensions civiles et militaires de retraite. Lorsque la durée de services et de bonifications correspondant à cette année n'est pas fixée, la durée exigée est celle correspondant à la dernière génération pour laquelle elle a été fixée ;
 
 - 5° L'âge d'ouverture du droit aux avantages temporaires de retraite est abaissé pour les maîtres
 
@@ -47578,11 +47795,11 @@ Les maîtres mentionnés à l'article R. 914-120 satisfaisant aux conditions fix
 
 Toutefois, ces avantages temporaires de retraite sont liquidés en ne prenant en considération que la durée d'assurance dont les intéressés justifient au regard du régime général de la sécurité sociale et les droits qu'ils ont acquis auprès de la ou des institutions de retraite complémentaire au titre :
 
-- Des services mentionnés à l'article R. 914-122 ;
+- a) Des services mentionnés à l'article R. 914-122 ;
 
-- Des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et L. 351-5 du code de la sécurité sociale ;
+- b) Des majorations de durée d'assurance prévues aux articles L. 351-4, L. 351-4-1 et L. 351-5 du code de la sécurité sociale ;
 
-- Des majorations pour enfants prévues par les régimes de retraite complémentaire mentionnés au livre IX du code de la sécurité sociale.
+- c) Des majorations pour enfants prévues par les régimes de retraite complémentaire mentionnés au livre IX du code de la sécurité sociale.
 
 ###### Article R914-125
 
@@ -47656,7 +47873,7 @@ Les avantages temporaires de retraite ne sont pas cumulables avec le revenu de r
 
 ###### Article R914-131
 
-Les dispositions du deuxième alinéa de l'article L. 84 et des articles L. 85 et L. 86-1 du code des pensions civiles et militaires de retraites sont applicables aux titulaires des avantages temporaires de retraite. Toutefois, sont seuls pris en compte pour leur application les revenus d'activité servis directement ou indirectement par l'Etat, les collectivités territoriales ou leurs établissements publics. Par dérogation aux dispositions du premier alinéa du présent article, peuvent cumuler intégralement les avantages temporaires de retraite avec des revenus d'activité les personnes mentionnées au 2° de l'article R. 914-121.
+Les dispositions du deuxième alinéa de l'article L. 84 et des articles L. 85 et L. 86-1 du code des pensions civiles et militaires de retraite sont applicables aux titulaires des avantages temporaires de retraite. Toutefois, sont seuls pris en compte pour leur application les revenus d'activité servis directement ou indirectement par l'Etat, les collectivités territoriales ou leurs établissements publics. Par dérogation aux dispositions du premier alinéa du présent article, peuvent cumuler intégralement les avantages temporaires de retraite avec des revenus d'activité les personnes mentionnées au 2° de l'article R. 914-121.
 
 ###### Paragraphe 5 : Couverture sociale.
 
@@ -47686,13 +47903,15 @@ Le montant de la rente d'invalidité est fixé à une fraction du traitement aff
 
 La rente d'invalidité ajoutée aux avantages temporaires de retraite ne peut faire bénéficier le titulaire d'un revenu total supérieur à celui qu'il aurait perçu sur la base du traitement afférent à l'indice détenu dans l'échelle de rémunération avant la mise en congé ou la cessation d'activité. Elle est liquidée et payée dans les mêmes conditions et suivant les mêmes modalités que les avantages de retraite.
 
-Le total des avantages temporaires de retraite et de la rente d'invalidité est élevé au montant des avantages de retraite calculés sur la base de la durée d'assurance exigée pour bénéficier d'une pension de retraite de l'assurance vieillesse du régime général à taux plein lorsque le maître est admis au bénéfice des avantages de retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs personnes. Toutefois, le taux d'invalidité donnant lieu au versement d'une rente doit être au moins égal à 60 %.
+Le total des avantages temporaires de retraite et de la rente d'invalidité est élevé au montant des avantages de retraite calculés sur la base de la durée d'assurance exigée pour bénéficier d'une pension de retraite de l'assurance vieillesse du régime général à taux plein lorsque le maître est admis au bénéfice des avantages de retraite à la suite d'un attentat ou d'une lutte dans l'exercice de
 
 Dernière modification du texte le 29 janvier 2014 - Document généré le 14 février 2014 - Copyright (C) 2007-2008 Legifrance
 
 [[END OF PAGE 1426]]
 
 [[START OF PAGE 1427]]
+
+ses fonctions ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs personnes. Toutefois, le taux d'invalidité donnant lieu au versement d'une rente doit être au moins égal à 60 %.
 
 ###### Article R914-135
 
