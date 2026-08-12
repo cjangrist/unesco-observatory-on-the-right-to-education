@@ -17,9 +17,44 @@ constituteproject.org
 PDF generated: 27 Jul 2018, 21:14
 
 ## Table of contents
-
+Preamble . . . 6
+Chapter I: Protection of Fundamental Rights and Freedoms . . . 6
+1. Fundamental rights and freedoms . . . 6
+2. Protection of right to life . . . 7
+3. Protection of right to personal liberty . . . 7
+4. Protection from slavery and forced labour . . . 9
+5. Protection from inhuman treatment . . . 9
+6. Protection from deprivation of property . . . 9
+7. Protection from arbitrary search or entry . . . 12
+8. Provisions to secure protection of law . . . 12
+9. Protection of freedom of conscience . . . 15
+10. Protection of freedom of expression . . . 15
+11. Protection of freedom of assembly and association . . . 16
+12. Protection of freedom of movement . . . 16
+13. Protection from discrimination on the grounds of race, etc . . . 18
+14. Derogations from s.3 or s.13 under emergency powers . . . 19
+15. Protection of persons detained under emergency laws . . . 19
+16. Enforcement of protective provisions . . . 20
+17. Interpretation and savings . . . 21
+Chapter II: The President . . . 22
+18. Establishment of office . . . 22
+19. Election . . . 23
+20. Qualifications for office nomination . . . 23
+21. Disqualifications for election and holding office . . . 24
+22. Determination of questions as to qualifications . . . 24
+23. Tenure of office . . . 24
+24. Removal from office . . . 25
+25. Procedure for removal from office . . . 25
+26. Oath . . . 26
+27. Protection in respect of legal proceedings . . . 26
+28. Acting President . . . 26
+Chapter III: Parliament . . . 27
+Part I: Establishment of Parliament . . . 27
+29. Composition . . . 27
+30. Composition of House of Assembly . . . 27
+31. Qualifications for Representatives and Senators . . . 27
+32. Disqualifications for Representatives and Senators . . . 28
 Dominica 1978 (rev. 2014)
-
 Page 2
 
 [[END OF PAGE 2]]
@@ -30,8 +65,45 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
+33. Election of Representatives . . . 29
+34. Appointment or election of Senators . . . 30
+35. Tenure of office of Representatives and Senators . . . 30
+36. Speaker . . . 31
+37. Deputy Speaker . . . 33
+38. Responsibility for elections . . . 33
+39. Clerk of House and his staff . . . 34
+40. Determination of questions of membership . . . 34
+Part II: Legislation and Procedure of Parliament . . . 35
+41. Power to make laws . . . 35
+42. Alteration of Constitution and Supreme Court Order . . . 35
+43. Freedom of speech . . . 36
+44. Oath by members . . . 36
+45. Presiding . . . 37
+46. Voting . . . 37
+47. Effect of vacancies, etc . . . 37
+48. Penalty for sitting if unqualified . . . 38
+49. Mode of exercise of legislative power . . . 38
+50. Restrictions with regard to certain financial measures . . . 38
+51. Scrutiny of electoral legislation . . . 39
+52. Regulation of procedure in House . . . 39
+Part III: Summoning, Prorogation and Dissolution . . . 39
+53. Sessions . . . 39
+54. Prorogation and dissolution . . . 39
+55. Holding of elections . . . 40
+Part IV: Constituency Boundaries and Electoral Commissions . . . 40
+56. Constituency Boundaries Commission and Electoral Commission . . . 40
+Part V: Delimitation of Constituencies . . . 42
+57. Review of constituency boundaries . . . 42
+Chapter IV: The Executive . . . 43
+58. Executive authority of Dominica . . . 43
+59. Ministers of the Government . . . 43
+60. Cabinet of Ministers . . . 44
+61. Allocation of portfolios to Ministers . . . 44
+62. Performance of functions of Ministers during absence or illness . . . 45
+63. Exercise of President’s functions . . . 45
+64. President to be informed concerning matters of Government . . . 46
+65. Oaths to be taken by Ministers, etc . . . 46
 Dominica 1978 (rev. 2014)
-
 Page 3
 
 [[END OF PAGE 3]]
@@ -42,8 +114,45 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
+66. Leader of the Opposition . . . 46
+67. Parliamentary Secretaries . . . 47
+68. Permanent Secretaries . . . 48
+69. Secretary to the Cabinet . . . 48
+70. Constitution of offices, etc . . . 48
+71. Attorney General . . . 48
+72. Control of public prosecutions . . . 49
+73. Prerogative of Mercy . . . 50
+74. Advisory Committee on Prerogative of Mercy . . . 50
+75. Functions of Advisory Committee . . . 51
+Chapter V: Finance . . . 51
+76. Consolidated Fund . . . 51
+77. Withdrawals from Consolidated Fund or other public funds . . . 51
+78. Authorisation of expenditure from Consolidated Fund by appropriation law . . . 52
+79. Authorisation of expenditure in advance of appropriation . . . 52
+80. Contingencies Fund . . . 52
+81. Remuneration of certain officers . . . 53
+82. Public debt . . . 53
+83. Audit of public accounts, etc . . . 53
+Chapter VI: The Public Service . . . 54
+Part I: The Public Service Commission . . . 54
+84. Public Service Commission . . . 54
+85. Appointment, etc., of public officers . . . 56
+Part II: Appointments, etc., to particular offices . . . 57
+86. Appointment, etc., of Permanent Secretaries and certain other officers . . . 57
+87. Chief Elections Officer . . . 57
+88. Director of Public Prosecutions . . . 58
+89. Director of Audit . . . 60
+90. Appointment, etc., of Magistrates, Registrars and legal officers . . . 61
+Part III: The Police . . . 61
+91. Police Service Commission . . . 61
+92. Appointment, etc., of police officers . . . 62
+Part IV: The Public Service Board of Appeal . . . 62
+93. Public Service Board of Appeal . . . 62
+94. Appeals in discipline cases . . . 64
+Part V: Pensions . . . 65
+95. Pensions laws and protection of pensions rights . . . 65
+96. Power to withhold pensions, etc . . . 65
 Dominica 1978 (rev. 2014)
-
 Page 4
 
 [[END OF PAGE 4]]
@@ -54,8 +163,42 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
+Chapter VII: Citizenship . . . 66
+97. Persons who become citizens on 3rd November 1978 . . . 66
+98. Persons born in Dominica on or after 3rd November 1978 . . . 66
+99. Persons born outside Dominica on or after 3rd November 1978 . . . 67
+100. Registration . . . 67
+101. Acquisition, deprivation and renunciation . . . 67
+102. Interpretation . . . 68
+Chapter VIII: Judicial Provisions . . . 68
+103. Original jurisdiction of High Court in constitutional questions . . . 68
+104. Reference of constitutional questions to High Court . . . 69
+105. Appeals to Court of Appeal . . . 69
+106. Appeals to the Caribbean Court of Justice . . . 69
+106A. Abolition of appeals to the Judicial Committee . . . 70
+107. Interpretation . . . 71
+Chapter IX: Parliamentary Commissioner . . . 71
+108. Appointment, etc., of Commissioner . . . 71
+109. Deputy Parliamentary Commissioner . . . 72
+110. Functions of Commissioner . . . 72
+111. Restrictions on matters for investigation . . . 73
+112. Discretion of Commissioner . . . 74
+113. Report on investigation . . . 74
+114. Power to obtain evidence . . . 75
+115. Prescribed matters concerning Commissioner . . . 75
+Chapter X: Miscellaneous . . . 76
+116. Declaration of republic . . . 76
+117. Supreme law . . . 76
+118. Functions of President . . . 76
+119. Resignations . . . 76
+120. Re-appointment and concurrent appointments . . . 77
+121. Interpretation . . . 77
+SCHEDULE 1: ALTERATION OF CONSTITUTION AND SUPREME COURT ORDER . . . 81
+PART I: PROVISIONS OF CONSTITUTION REFERRED TO IN SECTION 42(2) . . . 81
+PART II: PROVISIONS OF THE SUPREME COURT ORDER REFERRED TO IN SECTION 42(2) . . . 81
+SCHEDULE 2: RULES CONCERNING CONSTITUENCIES . . . 82
+SCHEDULE 3: MATTERS NOT SUBJECT TO INVESTIGATION BY PARLIAMENTARY COMMISSIONER . . . 82
 Dominica 1978 (rev. 2014)
-
 Page 5
 
 [[END OF PAGE 5]]
@@ -1030,7 +1173,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Head of state immunity
 
 - Parliament  may  make  provision  with  respect  to  the  powers,  practice  and procedure  of  tribunals  established  for  the  purpose  of  subsection  1(b)  of  this section  and,  subject  as  aforesaid,  any  such  tribunal  may  by  regulation  or otherwise regulate its own procedure.
 
@@ -1039,6 +1181,8 @@ PDF generated: 27 Jul 2018, 21:14
 ### 26. Oath
 
 A person elected to hold the office of President or designated or elected to act as President shall before entering upon the duties of the office of President take and subscribe  the  oath  of  office,  such  oath  being  administered  by  the  Chief  Justice  or such other Judge of the Supreme Court as may be designated by the Chief Justice.
+
+· Head of state immunity
 
 ### 27. Protection in respect of legal proceedings
 
@@ -1070,17 +1214,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-- Structure of legislative chamber(s)
-
-- Size of first chamber
-
-Eligibility for cabinet
-
-Eligibility for head of government
-
-- Eligibility for first chamber
-
-Minimum age for first chamber
 
 - A  person  acting  as  President  under  this  section  shall  cease  to  act  when  he  is notified-
 
@@ -1092,9 +1225,13 @@ Minimum age for first chamber
 
 ### Part I: Establishment of Parliament
 
+- Structure of legislative chamber(s)
+
 #### 29. Composition
 
 There shall be a Parliament of Dominica which shall consist of the President and a House of Assembly.
+
+- Size of first chamber
 
 #### 30. Composition of House of Assembly
 
@@ -1108,11 +1245,19 @@ There shall be a Parliament of Dominica which shall consist of the President and
 
 - At any time when the office of Attorney General is a public office, the Attorney General shall, by virtue of holding or acting in that office, be a member of the House.
 
+Eligibility for cabinet
+
+Eligibility for head of government
+
+- Eligibility for first chamber
+
 #### 31. Qualifications for Representatives and Senators
 
 - Subject  to  the  provisions  of  section  32  of  this  Constitution  a  person  shall  be qualified to be elected as a Representative if, and shall not be so qualified unless, he-
 
 - is a citizen of Dominica of the age of twenty-one years or upwards;
+
+Minimum age for first chamber
 
 - has resided in Dominica for a period of twelve months immediately before the  date  of  his  nomination  for  election  or  is  domiciled  and  resident  in Dominica at that date; and
 
@@ -1130,7 +1275,16 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
+
+- Subject  to  the  provisions  of  section  32  of  this  Constitution,  a  person  shall  be qualified to be elected or appointed as a Senator if, and shall not be so qualified unless, he-
+
+- is a Commonwealth citizen of the age of twenty-one years or upwards;
+
 · Minimum age for first chamber
+
+- is  domiciled  and  resident  in  Dominica  at  the  date  of  his  appointment  or nomination for election; and
+
+- is  able  to  speak  and,  unless  incapacitated  by  blindness  or  other  physical cause, to read the English language with a degree of proficiency sufficient to enable him to take an active part in the proceedings of the House.
 
 Eligibility for cabinet
 
@@ -1139,14 +1293,6 @@ Eligibility for head of government
 - Eligibility for head of state
 
 Eligibility for first chamber
-
-- Subject  to  the  provisions  of  section  32  of  this  Constitution,  a  person  shall  be qualified to be elected or appointed as a Senator if, and shall not be so qualified unless, he-
-
-- is a Commonwealth citizen of the age of twenty-one years or upwards;
-
-- is  domiciled  and  resident  in  Dominica  at  the  date  of  his  appointment  or nomination for election; and
-
-- is  able  to  speak  and,  unless  incapacitated  by  blindness  or  other  physical cause, to read the English language with a degree of proficiency sufficient to enable him to take an active part in the proceedings of the House.
 
 #### 32. Disqualifications for Representatives and Senators
 
@@ -1180,9 +1326,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Restrictions on the armed forces
-
-· First chamber selection
 
 - If it is so provided by Parliament, a person who is convicted by any court of law of any offence that is prescribed by Parliament and that is connected with the election of members or who is reported guilty of such an offence by the court trying an election petition shall not be qualified, for such period (not exceeding seven years) following his conviction or, as the case may be, following the report of the court as may be so prescribed, to be elected or appointed as a member.
 
@@ -1193,6 +1336,8 @@ PDF generated: 27 Jul 2018, 21:14
 - he  holds  or  is  acting  in  any  office  or  appointment  (whether  specified individually or by reference to a class of office or appointment);
 
 - he belongs to any of the armed forces of Dominica or to any class of person that is comprised in any such force; or
+
+· Restrictions on the armed forces
 
 - he belongs to any police force or to any class of person that is comprised in any such force.
 
@@ -1207,6 +1352,8 @@ PDF generated: 27 Jul 2018, 21:14
 - two  or  more  sentences  of  imprisonment  that  are  required  to  be  served consecutively  shall  be  regarded  as  separate  sentences  if  none  of  those sentences exceeds twelve months, but if any one of such sentences exceeds that term they shall be regarded as one sentence; and
 
 - no  account  shall  be  taken  of  a  sentence  of  imprisonment  imposed  as  an alternative to or in default of the payment of a fine.
+
+· First chamber selection
 
 #### 33. Election of Representatives
 
@@ -1224,27 +1371,20 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-Restrictions on voting
-
-Secret ballot
-
-- First chamber selection
-
-Term length for first chamber
-
-Removal of individual legislators
-
-- Removal of individual legislators
-
-Attendance by legislators
 
 2.
 
 - Every Commonwealth citizen of the age of eighteen years or upwards who possesses such qualifications relating to residence or domicile in Dominica as  Parliament  may prescribe shall,  unless  he  is  disqualified  by  Parliament from registration as a voter for the purpose of electing Representatives, be entitled to be registered as such a voter in accordance with the provisions of any law in that behalf, and no other person may be so registered.
 
+Restrictions on voting
+
 - Every  person  who  is  registered  as  aforesaid  in  any  constituency  shall, unless he is disqualified by Parliament from voting in that constituency in any election of Representatives, be entitled so to vote, in accordance with the provisions of any law in that behalf, and no other person may so vote.
 
 - In  any  election  of  Representatives  the  votes  shall  be  given  by  ballot  in  such manner as not to disclose how any particular person votes.
+
+Secret ballot
+
+- First chamber selection
 
 #### 34. Appointment or election of Senators
 
@@ -1262,11 +1402,19 @@ Provided that, if it is so prescribed by Parliament the Senators shall, instead 
 
 - A  Representative  or  a  Senator  (hereinafter  in  this  section  referred  to  as  a member) shall vacate his seat in the House at the next dissolution of Parliament after his election or appointment.
 
+Term length for first chamber
+
 - A  Senator  appointed  in  accordance  with  the  provisions  of  paragraph  (a)  of section  34  of  this  Constitution  shall  vacate  his  seat  in  the  House  if  his appointment is revoked by the President, acting in accordance with the advice of the Prime Minister, and a Senator appointed in accordance with the provisions of  paragraph  (b)  of  that  section  shall  vacate  his  seat  in  the  House  if  his appointment is revoked by the President, acting in accordance with the advice of the Leader of the Opposition.
+
+Removal of individual legislators
+
+- Removal of individual legislators
 
 - A member shall also vacate his seat in the House-
 
 - if  he  is  absent  from  the  sittings  of  the  House  for  such  period  and  in  such circumstances as may be prescribed in the rules of procedure of the House;
+
+Attendance by legislators
 
 - in the case of a Representative, if he ceases to be a citizen of Dominica or, in the case of a Senator, if he ceases to be a Commonwealth citizen;
 
@@ -1282,9 +1430,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Removal of individual legislators
-
-· Leader of first chamber
 
 4.
 
@@ -1296,6 +1441,8 @@ PDF generated: 27 Jul 2018, 21:14
 
 - If any circumstances such as are referred to in paragraph (c) of subsection (3) of this section arise because any member is under sentence of death or imprisonment,  adjudged  to  be  of  unsound  mind,  declared  bankrupt  or convicted or reported guilty of an offence relating to elections and if it is open to the member to appeal against the decision (either with the leave of a count of law or other authority or without such leave), he shall forthwith cease to perform his functions as a member but, subject to the provisions of this section, he shall not vacate his seat until the expiration of a period of thirty days thereafter:
 
+· Removal of individual legislators
+
 Provided that the Speaker may, at the request of the member, from time to time  extend  that  period  for  further  periods  of  thirty  days  to  enable  the member  to  pursue  an  appeal  against  the  decision,  so,  however,  that extensions of time exceeding in the aggregate one hundred and fifty days shall  not  be  given  without  the  approval,  signified  by  resolution,  of  the House.
 
 - If, on the determination of any appeal, such circumstances continue to exist and  no  further  appeal  is  open  to  the  member,  or  if,  by  reason  of  the expiration  of  any  period  for  entering  an  appeal  or  notice  thereof  or  the refusal of leave to appeal or for any other reason, it ceases to be open to the member to appeal, he shall forthwith vacate his seat.
@@ -1305,6 +1452,8 @@ Provided that the Speaker may, at the request of the member, from time to time  
 #### 36. Speaker
 
 - When the House first meets after any general election of Representatives and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time  before  the  next  dissolution  of  Parliament,  the  House  shall,  as  soon  as practicable, elect another person to that office.
+
+· Leader of first chamber
 
 - The Speaker may be elected either from among the members of the House who are  not  members  of  the  Cabinet  or  Parliamentary  Secretaries  or  from  among persons who are not members of the House:
 
@@ -1364,7 +1513,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Electoral commission
 
 #### 37. Deputy Speaker
 
@@ -1381,6 +1529,8 @@ PDF generated: 27 Jul 2018, 21:14
 - If, by virtue of section 35(4) of this Constitution, the Deputy Speaker is required to cease to perform his functions as a member of the House he shall also cease to perform his functions as Deputy Speaker and if the Deputy Speaker resumes the performance of his functions as a member of the House, in accordance with the  provisions  of  that  section,  he  shall  also  resume  the  performance  of  his functions as Deputy Speaker.
 
 - At any time when, by virtue of section 28(2) or section 35(4) of this Constitution, the  Deputy  Speaker  is  unable  to  perform  the  functions  of  his  office,  those functions shall, until he vacates his seat in  the  House  or  resumes  the performance of the functions of his office, be performed by such member of the House (not being a member of the Cabinet or a Parliamentary Secretary) as the House may elect for the purpose.
+
+· Electoral commission
 
 #### 38. Responsibility for elections
 
@@ -1450,13 +1600,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Constitution amendment procedure
-
-· Supermajority required for legislation
-
-· Referenda
-
-· International law
 
 - An appeal shall lie as of right to the Court of Appeal from any final decision of the High Court determining such a question as is referred to in subsection (1) of this section.
 
@@ -1470,11 +1613,15 @@ PDF generated: 27 Jul 2018, 21:14
 
 Subject  to  the  provisions  of  this  Constitution,  Parliament  may  make  laws  for  the peace, order and good government of Dominica.
 
+· Constitution amendment procedure
+
 #### 42. Alteration of Constitution and Supreme Court Order
 
 - Parliament  may  alter  any  of  the  provisions  of  this  Constitution  or  of  the Supreme Court Order in the manner specified in the following provisions of this section.
 
 - A  bill  to  alter  this  section,  Schedule  1  to  this  Constitution  or  any  of  the provisions of this Constitution specified in Part I of that Schedule or any of the provisions of the Supreme Court Order specified in Part II of that Schedule shall not be regarded as being passed by the House unless on its final reading in the House the bill is supported by the votes of not less than three-quarters of all the elected Members of the House; and a bill to alter any of the provisions of this Constitution or, as the case may be, of the Supreme Court Order not so specified shall not be regarded as being passed by the House unless on its final reading in the House the bill is supported by the votes of not less than two-thirds of all the elected members of the House.
+
+· Supermajority required for legislation
 
 - A bill  to  alter  any  of  the  provisions  of  this  Constitution  or  the  Supreme  Court Order shall not be submitted to the President for his assent-
 
@@ -1482,9 +1629,13 @@ Subject  to  the  provisions  of  this  Constitution,  Parliament  may  make  la
 
 - if  the  bill  provides  for  the  alteration  of  this  section,  Schedule  1  to  this Constitution or any of the provisions of this Constitution or the Supreme Court Order specified in that Schedule, unless after it has been passed by the House the bill has been approved on a referendum, held in accordance with  such  provision  as  may  be  made  in  that  behalf  by  Parliament,  by  a majority of the votes cast on that referendum.
 
+· Referenda
+
 - The provisions of paragraph (b) of subsection (3) of this section shall not apply in relation to any bill to alter-
 
 - section 106 of the Constitution in order to give effect to any international agreement to which Dominica is a party concerning appeals from any Court having jurisdiction in Dominica to the Caribbean Court of Justice;
+
+· International law
 
 Dominica 1978 (rev. 2014)
 
@@ -1498,23 +1649,22 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-International law
-
-Referenda
-
-Referenda
-
-Electoral commission
-
-· Legislative committees · Immunity of legislators
 
 - any of the provisions of the Supreme Court Order in order to give effect to any international  agreement to which Dominica is a party relating to the Supreme  Court  or  any  other  court  (or  any  officer  or  authority  having functions in respect of any such court) constituted in common for Dominica and for other countries also parties to the agreement.
 
+International law
+
 - Every person who, at the time when the referendum is held, would be entitled to vote for the purpose of electing Representatives shall be entitled to vote on a referendum  held  for  the  purposes  of  this  section  in  accordance  with  such procedures  as  may  be  prescribed  by  Parliament  for  the  purposes  of  the referendum and no other person shall be entitled so to vote.
+
+Referenda
 
 - In  any referendum for the purposes of this section the votes shall be given by ballot in such manner as not to disclose how any particular person votes.
 
+Referenda
+
 - The  conduct  of  any  referendum  for  the  purposes  of  this  section  shall  be  the responsibility of the Electoral Commission and the provisions of sections 38 and 51 of this Constitution shall apply in relation to the referendum and legislation relating thereto as they apply in relation to the exercise of their functions with respect to elections of Representatives and legislation relating thereto.
+
+Electoral commission
 
 8.
 
@@ -1525,6 +1675,8 @@ Electoral commission
 - In this subsection references to the Speaker shall, if the person holding the office of Speaker is for any reason unable to perform the functions of his office  and  no  other  person  is  performing  them,  include  references  to  the Deputy Speaker.
 
 - In  this  section  and  Schedule  1  to  this  Constitution  references  to  any  of  the provisions of this Constitution or the Supreme Court Order include references to any law that alters that provision.
+
+· Legislative committees · Immunity of legislators
 
 #### 43. Freedom of speech
 
@@ -1546,11 +1698,10 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Leader of first chamber
-
-· Quorum for legislative sessions
 
 - Any person elected to the office of Speaker shall, if he has not already taken and subscribed the oath of allegiance under subsection (1) of this section, take and subscribe  that  oath  before  the  House  before  entering  upon  the  duties  of  his office.
+
+· Leader of first chamber
 
 #### 45. Presiding
 
@@ -1567,6 +1718,8 @@ There shall preside at any sitting of the House-
 - Save as otherwise provided in sections 17(2), 17(4), 19(5), 25(1) and 42(2) of this Constitution, any question proposed  for decision in the House  shall  be determined by a majority of the votes of the members present and voting: Provided that questions of no confidence in the Government  shall  be determined by a majority of the votes of all the elected members of the House.
 
 - A question shall not be regarded as having been validly determined by a vote in the House unless at least twelve members, or such greater number of members as Parliament may prescribe, take part in the voting.
+
+· Quorum for legislative sessions
 
 - The references to all the members of the House in sections 17(2), 127(4), 19(5) and  25(1)  of  this  Constitution  shall  not  include  the  Speaker  if  he  was  elected from among persons who were not members of the House.
 
@@ -1592,19 +1745,14 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Approval of general legislation
-
-Tax bills
-
-Spending bills
-
-· Spending bills
 
 #### 48. Penalty for sitting if unqualified
 
 - Any  person  who  sits  or  votes  in  the  House  knowing  or  having  reasonable grounds for knowing that he is not entitled to do so shall be guilty of an offence and liable to a fine not exceeding one hundred dollars, or such other sum as may be  prescribed  by  Parliament,  for  each  day  on  which  he  so  sits  or  votes  in  the House.
 
 - Any prosecution for an offence under this section shall be instituted in the High Court and shall not be so instituted except by the Director of Public Prosecutions.
+
+· Approval of general legislation
 
 #### 49. Mode of exercise of legislative power
 
@@ -1624,9 +1772,15 @@ Except on the recommendation of the President signified by a Minister, the House
 
 - for  the  imposition of taxation or the alteration of taxation otherwise than by reduction;
 
+Tax bills
+
 - for  the  imposition  of  any  charge  upon  the  Consolidated  Fund  or  any other  public  fund  of  Dominica  or  the  alteration  of  any  such  charge otherwise than by reduction;
 
+Spending bills
+
 - for  the  payment, issue or withdrawal from the Consolidated Fund or any other public fund of Dominica of any monies not charged thereon or any increase in the amount of such payment, issue or withdrawal; or
+
+· Spending bills
 
 - for the composition or remission of any debt due to the Government; or
 
@@ -1646,21 +1800,6 @@ PDF generated: 27 Jul 2018, 21:14
 
 · Electoral commission
 
-· Length of legislative sessions
-
-- Dismissal of the legislature
-
-- Term length for first chamber
-
-- Emergency provisions
-
-- Term length for first chamber
-
-- Dismissal of the legislature
-
-· Emergency provisions
-
-- Extraordinary legislative sessions
 
 #### 51. Scrutiny of electoral legislation
 
@@ -1678,13 +1817,23 @@ Subject  to  the  provisions  of  this  Constitution,  the  House  may  regulate
 
 - There  shall  be  a  session  of  Parliament  once  at  least  in  every  year,  so  that  a period of six months shall not intervene between the last sitting of the House in one session and the first sitting thereof in the next session.
 
+· Length of legislative sessions
+
 #### 54. Prorogation and dissolution
 
 - The President may at any time prorogue or dissolve Parliament.
 
+- Dismissal of the legislature
+
 - Subject  to  the  provisions  of  subsection  (3)  of  this  section  Parliament,  unless sooner dissolved, shall continue for five years from the date of the first sitting of the House after any dissolution and shall then stand dissolved.
 
+- Term length for first chamber
+
 - At any time when Dominica is at war, Parliament may extend the period of five years specified in subsection (2) of this section for not more than twelve months at a time:
+
+- Emergency provisions
+
+- Term length for first chamber
 
 - Provided that the life of Parliament shall not be extended under this subsection for more than five years.
 
@@ -1692,9 +1841,15 @@ Subject  to  the  provisions  of  this  Constitution,  the  House  may  regulate
 
 - accordance with the advice of the Prime Minister:
 
+- Dismissal of the legislature
+
 - Provided  that  if  the  office  of  the  Prime  Minister  is  vacant  and  the  President, acting in his own deliberate judgment, considers that there is no prospect of his being able within a reasonable time to appoint to that office a person who can command the support of the majority of the elected Members of the House, the President shall dissolve Parliament.
 
 - If,  after  a  dissolution  of  Parliament  and  before  the  holding  of  the  general election  of  Representatives,  the  Prime  Minister  advises  the  President  that, owing to the existence of a state of war or of a state of emergency in Dominica, it is  necessary  to  recall  Parliament,  the  President  shall  summon  the  Parliament that has been dissolved to meet, but, unless the life of Parliament is extended under  the  provisions  of  subsection  (3)  of  this  section,  the  general  election  of Representatives shall proceed and the Parliament that has been recalled shall, if not  sooner  dissolved,  again  stand  dissolved  on  the  date  appointed  for  the nomination of candidates in that general election.
+
+· Emergency provisions
+
+- Extraordinary legislative sessions
 
 Dominica 1978 (rev. 2014)
 
@@ -1708,21 +1863,18 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Scheduling of elections
-
-· Replacement of legislators
-
-· Electoral districts
-
-· Electoral commission
 
 #### 55. Holding of elections
 
 - A  general  election  of  Representatives  or,  where  provision  has  been  made  by Parliament for the election of the Senators, a general election of Senators shall be held at such time within three months after any dissolution of Parliament as the President may appoint for that election.
 
+· Scheduling of elections
+
 - As soon as practicable after the holding of any general election of Representatives  the President shall,  unless  provision  has  been  made  by Parliament  for  their  election,  proceed  to  the  appointment  of  the  Senators  in accordance with the provisions of section 34 of this Constitution.
 
 - Where the seat of a Representative or Senator falls vacant otherwise than by reason of a dissolution of the House-
+
+· Replacement of legislators
 
 - if the vacant seat is that of a Representative, a by-election shall be held;
 
@@ -1738,6 +1890,8 @@ to fill the vacancy within three months of the occurrence of the vacancy unless 
 
 - There  shall  be  a  Constituency  Boundaries  Commission  and  an  Electoral Commission for Dominica (each of which is hereinafter in this section referred to as a Commission).
 
+· Electoral districts
+
 - The Constituency Boundaries Commission shall consist of-
 
 - the Speaker, as chairman;
@@ -1745,6 +1899,8 @@ to fill the vacancy within three months of the occurrence of the vacancy unless 
 - two  members  appointed  by  the  President,  acting  in  accordance  with  the advice of the Prime Minister; and
 
 - two  members  appointed  by  the  President,  acting  in  accordance  with  the advice of the Leader of the Opposition.
+
+· Electoral commission
 
 - The Electoral Commission shall consist of-
 
@@ -1798,7 +1954,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Electoral districts
 
 - A  Commission  may  regulate  its  own  procedure,  and,  with  the  consent  of  the Prime Minister, confer powers and impose duties on any public officer or on any authority of the Government for the purpose of the discharge of its functions.
 
@@ -1809,6 +1964,8 @@ Provided that any decision of the Commission shall require the concurrence of a 
 - In the exercise of its functions under this Constitution a Commission shall not be subject to the direction or control of any other person or authority.
 
 ### Part V: Delimitation of Constituencies
+
+· Electoral districts
 
 #### 57. Review of constituency boundaries
 
@@ -1844,33 +2001,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Name/structure of executive(s)
-
-- Establishment of cabinet/ministers
-
-- Name/structure of executive(s) · Head of government selection
-
-- Head of government selection
-
-- Eligibility for head of government
-
-- Eligibility for cabinet
-
-- Cabinet selection
-
-- Eligibility for cabinet
-
-· Cabinet removal
-
-- Head of government removal
-
-- Dismissal of the legislature
-
-- Head of government removal
-
-- Cabinet removal
-
-- Head of government removal
 
 ## Chapter IV: The Executive
 
@@ -1878,27 +2008,55 @@ PDF generated: 27 Jul 2018, 21:14
 
 - The executive authority of Dominica is vested in the President.
 
+· Name/structure of executive(s)
+
 - Subject  to  the  provisions  of  this  Constitution,  the  executive  authority  of Dominica may be exercised by the President either directly or through officers subordinate to him.
 
 - Nothing  in  this  section  shall  prevent  Parliament  from  conferring  functions  on persons or authorities other than the President.
+
+- Establishment of cabinet/ministers
 
 ### 59. Ministers of the Government
 
 - There  shall  be  a  Prime  Minister  of  Dominica,  who  shall  be  appointed  by  the President.
 
+- Name/structure of executive(s) · Head of government selection
+
 - Whenever  the  President  has  occasion  to  appoint  a  Prime  Minister  he  shall appoint an elected member of the House who appears to him likely to command the support of the majority of the elected members of the House.
+
+- Head of government selection
+
+- Eligibility for head of government
 
 - There shall be, in addition to the office of Prime Minister, such other offices of Minister of the Government as may be established by Parliament or, subject to the  provisions  of  any  law  enacted  by  Parliament,  by  the  President,  acting  in accordance with the advice of the Prime Minister.
 
 - Appointments to the office of Minister, other than the office of Prime Minister, shall  be  made  by  the  President,  acting  in  accordance  with  the  advice  of  the Prime Minister, from among the members of the House:
 
+- Eligibility for cabinet
+
+- Cabinet selection
+
 - Provided  that  not  more  than  three  Ministers  shall  be  appointed  from  among Senators who have been appointed as such.
 
 - If occasion arises for making an appointment to the office of Prime Minister or any  other  Minister  while  Parliament  is  dissolved,  then,  notwithstanding  the provisions of subsections (2) and (4) of this section (but subject to the proviso to subsection (4)), a person who was an elected member of the House immediately before the dissolution may be appointed as Prime Minister or any other Minister and  a  person  who  was  a  Senator  immediately  before  the  dissolution,  having been  appointed  as  such,  may  be  appointed  as  any  Minister  other  than  Prime Minister.
 
+- Eligibility for cabinet
+
 - The President shall remove the Prime Minister from office if a resolution of no confidence in the Government is passed by the House and the Prime Minister does not within three days either resign from his office or advise the President to dissolve Parliament.
 
+· Cabinet removal
+
+- Head of government removal
+
+- Dismissal of the legislature
+
 - If, at any time between the holding of a general election of Representatives and the  first  meeting  of  the  House  thereafter,  the  President  considers  that  in consequence  of  changes  in  the  membership  of  the  House  resulting  from  that election and of any general election of Senators the Prime Minister will not be able  to  command  the  support  of  the  majority  of  the  elected  members  of  the House the President may remove the Prime Minister from office.
+
+- Head of government removal
+
+- Cabinet removal
+
+- Head of government removal
 
 - The office of any Minister shall become vacant-
 
@@ -1918,15 +2076,12 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Cabinet removal
-
-· Establishment of cabinet/ministers
-
-· Powers of cabinet
 
 - in the case of any other Minister, if, when the House first meets after the dissolution of Parliament, he is not then a member of the House; or
 
 - if, by virtue of section 35(4) of this Constitution, he is required to cease to perform his functions as a member of the House.
+
+· Cabinet removal
 
 - The office of a Minister other than the Prime Minister shall become vacant-
 
@@ -1938,6 +2093,8 @@ PDF generated: 27 Jul 2018, 21:14
 
 - In the exercise of the powers conferred upon him by subsections (2), (5) and (7) of this section the President shall act in his own deliberate judgment.
 
+· Establishment of cabinet/ministers
+
 ### 60. Cabinet of Ministers
 
 - There  shall  be  a  Cabinet  of  Ministers  for  Dominica  which  shall  consist  of  the Prime Minister and the other Ministers.
@@ -1945,6 +2102,8 @@ PDF generated: 27 Jul 2018, 21:14
 - At any time when the office of Attorney General is a public office, the Attorney General shall, by virtue of holding or acting in that office, be a member of the Cabinet in addition to the Ministers.
 
 - The functions of the Cabinet shall be to advise the President in the Government of Dominica and the Cabinet shall be collectively responsible to Parliament for any  advice  given  to  the  President  by  or  under  the  general  authority  of  the Cabinet and for all things done by or under the authority of any Minister in the execution of his office.
+
+· Powers of cabinet
 
 - The provisions of subsection (3) of this section shall not apply in relation to-
 
@@ -1972,7 +2131,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Head of state powers
 
 ### 62. Performance of functions of Ministers during absence or illness
 
@@ -1985,6 +2143,8 @@ Provided  that  the  office  of  a  temporary  Minister  shall  become  vacant  
 - The  powers  of  the  President  under  this  section  shall  be  exercised  by  him  in accordance with the advice of the Prime Minister:
 
 Provided that if the President, acting in his own deliberate judgment, considers that it is impracticable to obtain the advice of the Prime Minister owing to his absence or illness he may exercise those powers without that advice and in his own deliberate judgment.
+
+· Head of state powers
 
 ### 63. Exercise of President's functions
 
@@ -2094,9 +2254,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Head of state powers
-
-· Attorney general
 
 - if the Prime Minister resigns from office within three days after a resolution of  no  confidence  in  the  Government  has  been  passed  by  the  House  or  is removed from office under section 59(6) of this Constitution;
 
@@ -2120,9 +2277,13 @@ Provided  that  two  or  more  Government  departments  may  be  placed  under  
 
 - The Secretary to the Cabinet, who shall have charge of the Cabinet Office, shall be responsible, in accordance with such instructions as may be given to him by the Prime Minister, for arranging the business for, and keeping the minutes of, the Cabinet and for conveying the decisions of the Cabinet to the appropriate person or authority and shall have such other functions as the Prime Minister may direct.
 
+· Head of state powers
+
 ### 70. Constitution of offices, etc
 
 Subject to the provisions of this Constitution and of any other law, the President may constitute offices for Dominica, make appointments to any such office and terminate any such appointment.
+
+· Attorney general
 
 ### 71. Attorney General
 
@@ -2144,9 +2305,10 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Attorney general
 
 - Where the offices of Attorney General and Director of Public Prosecutions are held by the same person the following provisions of this Constitution shall have effect  as  if  references  therein  to  the  Director  included  references  to  the Attorney General, that is to say, sections 86, 88(5), (6), (7), (8), (9) and (10), 96(3) and 121(8)(a); but the provisions of this subsection shall be without prejudice to the  powers  of  Parliament  or,  subject  to  the  provisions  of  any  law  enacted  by Parliament, the President to determine that the office of Attorney General shall be the office of a Minister.
+
+· Attorney general
 
 ### 72. Control of public prosecutions
 
@@ -2276,9 +2438,10 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Budget bills
 
 ### 78. Authorisation of expenditure from Consolidated Fund by appropriation law
+
+· Budget bills
 
 - The  Minister  for  the  time  being  responsible  for  finance  shall  cause  to  be prepared  and  laid  before  the  House  before,  or  not  later  than  forty-five  days after, the commencement of each financial year estimates of the revenues and expenditure of Dominica for that financial year.
 
@@ -2438,7 +2601,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Establishment of judicial council
 
 - The Commission may, subject to its rules of procedure, act notwithstanding any vacancy in its membership or the absence of any member and its proceedings shall  not  be  invalidated  by  the  presence  or  participation  of  any  person  not entitled to be present at or to participate in those proceedings:
 
@@ -2473,6 +2635,8 @@ Provided that any decision of the Commission shall require the concurrence of a 
 - Before any of the powers conferred by this section are exercised by the Public Service Commission or any other person or authority in relation to a member of the staff of the Parliamentary Commissioner of the Chief Elections Officer, the Commission or that person or authority shall consult the Commissioner or, as the case may be, the Officer.
 
 - A  public  officer  shall  not  be  removed  from  office  or  subjected  to  any  other punishment under this section on the grounds of any act done or omitted by him in  the  exercise  of  a  judicial  function  conferred  on  him  unless  the  Judicial  and Legal Services Commission concurs therein.
+
+· Establishment of judicial council
 
 Dominica 1978 (rev. 2014)
 
@@ -2522,7 +2686,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Attorney general
 
 - A  person  appointed  to  act  in  the  office  of  the  Officer  shall,  subject  to  the provisions of subsections (5), (7) and (8) of this section, cease so to act-
 
@@ -2546,9 +2709,9 @@ PDF generated: 27 Jul 2018, 21:14
 
 - The prescribed age for the purposes of subsection (5) of this section is the age of fifty-five years or such other age as may be prescribed by Parliament:
 
-Provided that any law enacted by Parliament, to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Officer, shall not have effect in relation to that person unless he consents that it should have
+Provided that any law enacted by Parliament, to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Officer, shall not have effect in relation to that person unless he consents that it should have effect.
 
-- effect.
+· Attorney general
 
 #### 88. Director of Public Prosecutions
 
@@ -2648,13 +2811,14 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Establishment of judicial council
 
 - The prescribed age for the purposes of subsection (5) of this section is the age of fifty-five or such other age as may be prescribed by Parliament:
 
 Provided that any law enacted by Parliament to the extent to which it alters the prescribed age after a person has been appointed to be or to act as Director of Audit, shall not have effect in relation to that person unless he consents that it should have effect.
 
 #### 90. Appointment, etc., of Magistrates, Registrars and legal officers
+
+· Establishment of judicial council
 
 - This section applies to the offices of Magistrate, Registrar of the High Court and Assistant Registrar of the High Court and to any public office in the department of the Attorney General (including the public office of Attorney General) or in the  department  of  the  Parliamentary  Commissioner,  the  department  of  the Chief Elections Officer (other than the office of Officer) or the department of the  Director  of  Public  Prosecutions  (other  than  the  office  of  Director)  for appointment to which persons are required to hold one or other of the specified qualifications.
 
@@ -2694,9 +2858,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Establishment of judicial council
-
-· Courts for judging public officials
 
 - In  this  section  'the  appropriate  representative  body'  means  such  body  as  is designated by the President, acting in accordance with the advice of the Prime Minister, as the principal body in Dominica representing the interests of police officers.
 
@@ -2710,7 +2871,11 @@ PDF generated: 27 Jul 2018, 21:14
 
 - A  police  officer  shall  not  be  removed  from  office  or  subjected  to  any  other punishment under this section on the grounds of any act done or omitted by him in the exercise of any judicial function conferred on him unless the Judicial and Legal Services Commission concurs therein.
 
+· Establishment of judicial council
+
 ### Part IV: The Public Service Board of Appeal
+
+· Courts for judging public officials
 
 #### 93. Public Service Board of Appeal
 
@@ -2860,13 +3025,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Establishment of judicial council
 
-· Requirements for birthright citizenship
-
-· Requirements for naturalization
-
-· Requirements for birthright citizenship
 
 - Where the amount of any pensions benefits that may be granted to any person is not fixed by law, the amount of the benefits to be granted to him shall be the greatest amount for which he is eligible unless the Public Service Commission concurs in his being granted benefits of a smaller amount.
 
@@ -2874,9 +3033,13 @@ PDF generated: 27 Jul 2018, 21:14
 
 - Before the Public Service Commission  concurs under subsection (1) or subsection (2) of this section in any action taken on the ground that any person who holds or has held any office to which, at the time of such action, section 90 of  this  Constitution  applies  has  been  guilty  of  misbehaviour  in  that  office,  the Public Service Commission  shall consult the Judicial and Legal Services Commission.
 
+· Establishment of judicial council
+
 - In this section 'pensions benefits' means any pensions, compensation, gratuities or  other  like  allowances  for  persons  in  respect  of  their  service  as  judges  or officers  of  the  Supreme  Court  or  public  officers  or  for  the  widows,  children, dependants  or  personal  representatives  of  such  persons  in  respect  of  such service.
 
 ## Chapter VII: Citizenship
+
+· Requirements for birthright citizenship
 
 ### 97. Persons who become citizens on 3rd November 1978
 
@@ -2888,11 +3051,15 @@ PDF generated: 27 Jul 2018, 21:14
 
 - having  become  such  a  citizen  by  virtue  of  his  having  been  naturalised  or registered in Dominica under the British Nationality Acts 1948 to 1965,
 
+· Requirements for naturalization
+
 shall become a citizen of Dominica at such commencement.
 
 - Every person who, having been born outside Dominica, is immediately before the  commencement  of  this  Constitution  a  citizen  of  the  United  Kingdom  and Colonies shall, if his father or mother becomes, or would but for his death have become, a citizen of Dominica by virtue of subsection (1) or subsection (2) of this section, become a citizen of Dominica at such commencement.
 
 ### 98. Persons born in Dominica on or after 3rd November 1978
+
+· Requirements for birthright citizenship
 
 Every person born in Dominica after the commencement of this Constitution shall become a citizen of Dominica at the date of his birth:
 
@@ -2908,11 +3075,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Requirements for birthright citizenship
-
-· Requirements for naturalization Provided  that  a  person  shall  not  become  a  citizen  of  Dominica  by  virtue  of  this section if at the time of his birth-
-
-· Requirements for naturalization
+Provided that a person shall not become a citizen of Dominica by virtue of this section if at the time of his birth-
 
 - his father or mother possesses such immunity from suit and legal process as is  accorded  to  an  envoy  of  a  foreign  sovereign  power  accredited  to Dominica, and is not a citizen of Dominica; or
 
@@ -2920,13 +3083,17 @@ PDF generated: 27 Jul 2018, 21:14
 
 ### 99. Persons born outside Dominica on or after 3rd November 1978
 
+· Requirements for birthright citizenship
+
 A person born outside Dominica after the commencement of this Constitution shall become a citizen of Dominica at the date of his birth if, at that date, his father or mother is a citizen of Dominica by virtue of the provisions of subsection (1) or (2) of section 97 or section 98 of this Constitution.
+
+· Requirements for naturalization
 
 ### 100. Registration
 
 - The following persons shall be entitled, upon making application and, in the case of a British protected person or an alien who has attained the age of eighteen years, taking the oath of allegiance, to be registered as citizens of Dominica-
 
-- any  person  who,  being  a  Commonwealth  citizen,  is  and  for  the  previous seven years has been ordinarily
+- any  person  who,  being  a  Commonwealth  citizen,  is  and  for  the  previous seven years has been ordinarily resident in Dominica;
 
 - any  person  who,  having  been  a  citizen  of  Dominica  by  virtue  of  the provisions  of  subsection  (1)  or  (2)  of  section  97  or  section  98  of  the Constitution  has  renounced  his  citizenship  in  order  to  qualify  for  the acquisition or retention of the citizenship of another country;
 
@@ -2940,6 +3107,8 @@ There shall be such provision as may be made by Parliament for-
 
 - the acquisition of citizenship of Dominica by persons who are not eligible or who  are  no  longer  eligible  to  become  citizens  of  Dominica  under  the provisions of this Chapter;
 
+· Requirements for naturalization
+
 Dominica 1978 (rev. 2014)
 
 Page 67
@@ -2952,15 +3121,15 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-Conditions for revoking citizenship
 
-Right to renounce citizenship
-
-· Structure of the courts
 
 - depriving  of  his  citizenship  of  Dominica  any  person  who  is  a  citizen  of Dominica  otherwise  than  by  virtue  of  section  97,  98  or  99  of  this Constitution;
 
+· Conditions for revoking citizenship
+
 - the renunciation by any person of his citizenship of Dominica.
+
+· Right to renounce citizenship
 
 ### 102. Interpretation
 
@@ -2977,6 +3146,8 @@ Right to renounce citizenship
 ## Chapter VIII: Judicial Provisions
 
 ### 103. Original jurisdiction of High Court in constitutional questions
+
+· Structure of the courts
 
 - Subject  to  the  provisions  of  sections  22(5),  38(6),  42(8),  57(7),  115(8),  118(3) and 121(10) of this Constitution, any person who alleges that any provision of this  Constitution  (other  than  a  provision  of  Chapter  I  thereof)  has  been  or  is being contravened may, if he has a relevant interest, apply to the High Court for a declaration and for relief under this section.
 
@@ -2996,19 +3167,7 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-Constitutional interpretation
 
-Establishment of military courts · Structure of the courts
-
-- Right to appeal judicial decisions
-
-- Structure of the courts
-
-Constitutional interpretation
-
-· Right to appeal judicial decisions
-
-Structure of the courts
 
 - The Chief Justice may make rules with respect to the practice and procedure of the High Court in relation to the jurisdiction and powers conferred on the Court by  or  under  this  section,  including  provision  with  respect  to  the  time  within which any application under this section may be made.
 
@@ -3018,17 +3177,29 @@ Structure of the courts
 
 - Nothing  in  this  section  shall  confer  jurisdiction  on  the  High  Court  to  hear  or determine any such question as is referred to in section 40 of this Constitution.
 
+· Constitutional interpretation
+
 ### 104. Reference of constitutional questions to High Court
 
 - Where any question as to the interpretation of this Constitution arises in any court of law established for Dominica (other than the Court of Appeal, the High Court or a court-martial) and the court is of opinion that the question involves a substantial question of law, the court shall refer the question to the High Court.
 
+· Establishment of military courts
+
+· Structure of the courts
+
 - Where any question is referred to the High Court in pursuance of this section, the High Court shall give its decision upon the question and the court in which the question arose shall dispose of the case in accordance with that decision or, if the decision is the subject of an appeal to the Court of Appeal or the Caribbean Court of Justice, in accordance with the decision of the Court of Appeal or, as the case may be, the Caribbean Court of Justice.
 
+· Right to appeal judicial decisions
+
 ### 105. Appeals to Court of Appeal
+
+· Structure of the courts
 
 - Subject to the provisions of section 40(7) of this Constitution, an appeal shall lie from  decisions  of  the  High  Court  to  the  Court  of  Appeal  as  of  right  in  the following cases:
 
 - final  decisions  in  any  civil  or  criminal  proceedings  on  questions  as  to  the interpretation of this Constitution;
+
+· Constitutional interpretation
 
 - final  decisions  given  in  exercise  of  the  jurisdiction  conferred  on  the  High Court by section 16 of this Constitution (which relates to the enforcement of the fundamental rights and freedoms).
 
@@ -3036,7 +3207,11 @@ Structure of the courts
 
 - The Chief Justice may make rules with respect to the practice and procedure of the  Court  of  Appeal  in  relation  to  appeals  from  the  Public  Service  Board  of Appeal to the Court of Appeal.
 
+· Right to appeal judicial decisions
+
 ### 106. Appeals to the Caribbean Court of Justice
+
+· Structure of the courts
 
 - An  appeal  shall  lie  as  of  right  from  decisions  of  the  Court  of  Appeal  to  the Caribbean Court of Justice in the following cases
 
@@ -3056,13 +3231,14 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Constitutional interpretation
 
 - the  appeal  involves  directly  or  indirectly  a  claim  to  or  a  question respecting property or a right of the prescribed value or upwards;
 
 - final decisions in proceedings for dissolution or nullity of marriage;
 
 - final decisions in any civil or criminal proceedings which involve a question as to the interpretation of this Constitution;
+
+· Constitutional interpretation
 
 - final decisions given in the exercise of the jurisdiction conferred upon the High Court relating to redress for contravention of the provisions of this Constitution for the protection of fundamental rights;
 
@@ -3106,7 +3282,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Ombudsman
 
 - by special leave of the Judicial Committee or otherwise.
 
@@ -3115,6 +3290,8 @@ PDF generated: 27 Jul 2018, 21:14
 In  this  Chapter  references  to  the  contravention  of  any  provision  of,  or  the interpretation of, this Constitution shall be construed as including references to the contravention  of  any  provision  of,  or  the  interpretation  of,  the  Supreme  Court Order.
 
 ## Chapter IX: Parliamentary Commissioner
+
+· Ombudsman
 
 ### 108. Appointment, etc., of Commissioner
 
@@ -3150,7 +3327,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Ombudsman
 
 - If  the  President,  acting  after  consultation  with  the  Prime  Minister  and  the Leader of the Opposition, considers that the question of  removing  the Parliamentary Commissioner under this section ought to be investigated-
 
@@ -3165,6 +3341,8 @@ PDF generated: 27 Jul 2018, 21:14
 - There  shall  be  a  Deputy  Parliamentary  Commissioner  and  the  provisions  of section 108 of this Constitution shall apply in relation to the Commissioner and his  office  as  they  apply  in  relation  to  the  Parliamentary  Commissioner and his office.
 
 - The Deputy Parliamentary Commissioner shall assist the Parliamentary Commissioner in the performance of the functions of his office and whenever that  office  is  vacant  or  the  holder  of  the  office  is  for  any  reason  unable  to perform those functions, the Deputy Parliamentary Commissioner shall perform those functions.
+
+· Ombudsman
 
 ### 110. Functions of Commissioner
 
@@ -3314,19 +3492,19 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-- Type of government envisioned
-
-- Constitutionality of legislation
-
 - Anything  said  or  any  information  supplied  or  any  document,  paper,  or  thing produced by any person in the course of any enquiry by or proceedings before the Parliamentary Commissioner under this Constitution shall be privileged in the same manner as if the enquiry or proceedings were proceedings in a court of law.
 
 - No proceedings of the Parliamentary Commissioner may be held bad for want of form, and, except on the ground of lack of jurisdiction, no proceeding or decision of  the  Commissioner  shall  be  liable  to  be  challenged,  reviewed,  quashed  or called in question in any court of law.
 
 ## Chapter X: Miscellaneous
 
+- Type of government envisioned
+
 ### 116. Declaration of republic
 
 Dominica shall be a sovereign democratic republic.
+
+- Constitutionality of legislation
 
 ### 117. Supreme law
 
@@ -3526,8 +3704,6 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Constitution amendment procedure
-
 - In this Constitution references to altering this Constitution or any other law, or any provision thereof, include references-
 
 - to  revoking  it,  with  or  without  re-enactment  thereof  or  the  making  of different provision in lieu thereof;
@@ -3539,6 +3715,8 @@ PDF generated: 27 Jul 2018, 21:14
 - The Interpretation Act 1889 shall apply, with the necessary adaptations, for the purpose of interpreting this Constitution and otherwise in relation thereto as it applies for the purpose of interpreting and in relation to Acts of the Parliament of the United Kingdom.
 
 ## SCHEDULE 1: ALTERATION OF CONSTITUTION AND SUPREME COURT ORDER
+
+· Constitution amendment procedure
 
 ### PART I: PROVISIONS OF CONSTITUTION REFERRED TO IN SECTION 42(2)
 
@@ -3576,11 +3754,9 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
-· Electoral districts
-
-· International organizations
-
 ## SCHEDULE 2: RULES CONCERNING CONSTITUENCIES
+
+· Electoral districts
 
 All constituencies shall contain as nearly equal numbers of inhabitants as appears to the  Constituency  Boundaries  Commission  to  be  reasonably  practicable  but  the Commission may depart from this principle to such extent as it considers expedient to take account of the following factors, that is to say-
 
@@ -3595,6 +3771,8 @@ All constituencies shall contain as nearly equal numbers of inhabitants as appea
 ## SCHEDULE 3: MATTERS NOT SUBJECT TO INVESTIGATION BY PARLIAMENTARY COMMISSIONER
 
 - Action taken in matters certified by the Attorney General to affect relations or dealings  between  the  Government  and  the  government  of  any  country  or territory other than Dominica or any international organisation.
+
+· International organizations
 
 - Action taken in any country or territory outside Dominica by or on behalf of any officer representing or acting under the authority of the Government.
 
@@ -3648,6 +3826,44 @@ PDF generated: 27 Jul 2018, 21:14
 
 ## Topic index
 
+A
+Approval of general legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Attendance by legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Attorney general . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 48, 49, 58
+B
+Budget bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+C
+Cabinet removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 44
+Cabinet selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Conditions for revoking citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Constitution amendment procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35, 81
+Constitutional interpretation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69, 70
+Constitutionality of legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+Courts for judging public officials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 62, 64
+D
+Dismissal of the legislature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39, 43
+E
+Electoral commission . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33, 36, 39, 40
+Electoral districts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40, 42, 82
+Eligibility for cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28, 43
+Eligibility for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Eligibility for head of government . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28, 43
+Eligibility for head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23, 24, 28
+Emergency provisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19, 21, 22, 39
+Equality regardless of creed or belief . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Equality regardless of gender . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Equality regardless of origin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Equality regardless of political party . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Equality regardless of race . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Equality regardless of skin color . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+Establishment of cabinet/ministers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43, 44
+Establishment of judicial council . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56, 61, 62, 66
+Establishment of military courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Extradition procedure . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 17
+Extraordinary legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+F
+First chamber selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29, 30
+
 Dominica 1978 (rev. 2014)
 
 Page 84
@@ -3659,6 +3875,45 @@ Page 84
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
+
+Freedom of assembly . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 16
+Freedom of association . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 16
+Freedom of expression . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 15
+Freedom of movement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Freedom of opinion/thought/conscience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 15
+Freedom of religion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+G
+General guarantee of equality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 18
+God or other deities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+H
+Head of government removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Head of government selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+Head of state immunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Head of state powers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45, 48
+Head of state removal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Head of state replacement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+Head of state selection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 23
+Head of state term length . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22, 24
+Head of state term limits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Human dignity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+I
+Immunity of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Inalienable rights . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+International law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17, 35, 36
+International organizations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24, 82
+J
+Judicial independence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+L
+Leader of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31, 37
+Legislative committees . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Length of legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+M
+Minimum age for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27, 28
+Minimum age of head of state . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Motives for writing constitution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+N
+Name/structure of executive(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+O
 
 Dominica 1978 (rev. 2014)
 
@@ -3672,6 +3927,48 @@ constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
 
+Ombudsman . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71, 72
+P
+Power to deport citizens . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 16
+Power to pardon . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Powers of cabinet . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 44
+Presumption of innocence in trials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Principle of no punishment without law . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Privileges for juveniles in criminal process . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Prohibition of cruel treatment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Prohibition of double jeopardy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Prohibition of slavery . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Prohibition of torture . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Protection from ex post facto laws . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection from expropriation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 9
+Protection from false imprisonment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9, 20
+Protection from self-incrimination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Protection from unjustified restraint . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Q
+Quorum for legislative sessions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+R
+Radio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Referenda . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35, 36
+Regional group(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Regulation of evidence collection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Removal of individual legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 31
+Replacement of legislators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Requirements for birthright citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66, 67
+Requirements for naturalization . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66, 67
+Restrictions on entry or exit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8, 16
+Restrictions on the armed forces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Restrictions on voting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Right to appeal judicial decisions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Right to counsel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to examine evidence/ witnesses . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Right to fair trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Right to join trade unions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Right to life . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6, 7
+Right to pre-trial release . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+Right to privacy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7, 12
+Right to protect one's reputation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Right to public trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+
 Dominica 1978 (rev. 2014)
 
 Page 86
@@ -3683,6 +3980,28 @@ Page 86
 constituteproject.org
 
 PDF generated: 27 Jul 2018, 21:14
+
+Right to reasonable standard of living . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Right to renounce citizenship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+Right to speedy trial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+S
+Scheduling of elections . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40
+Secret ballot . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Size of first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Source of constitutional authority . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Spending bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Structure of legislative chamber(s) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Structure of the courts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25, 68, 69
+Supermajority required for legislation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+T
+Tax bills . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Telecommunications . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Television . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Term length for first chamber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30, 39
+Trial in native language of accused . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12, 13
+Type of government envisioned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+U
+Ultra-vires administrative actions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
 
 Dominica 1978 (rev. 2014)
 
