@@ -6,7 +6,7 @@
 
 [[START OF PAGE 2]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Una publicación del Fondo de las Naciones Unidas para la Infancia, UNICEF ©	 Unicef. Managua, 2007
 
@@ -34,13 +34,13 @@ Apartado Postal:
 
 5541
 
-
+2
 
 [[END OF PAGE 2]]
 
 [[START OF PAGE 3]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 # ASAMBLEA NACIONAL DE LA REPÚBLICA DE NICARAGUA
 
@@ -58,13 +58,13 @@ Que Nicaragua es parte de la  Convención  de  las  Naciones Unidas  sobre  los 
 
 Que  la Constitución Política de la República de Nicaragua  en  su  artículo  setenta  y  uno  establece  la plena  vigencia  de  la  Convención  sobre  los  Derechos del Niño, por lo que se requiere dar efectividad a los derechos, libertades y garantías reconocidos en dicha Convención.
 
-
+3
 
 [[END OF PAGE 3]]
 
 [[START OF PAGE 4]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ### III
 
@@ -86,13 +86,13 @@ Que las niñas, niños y adolescentes deben gozar de una especial protección de
 
 Que  debe  implantarse  un  nuevo  modelo  de  Justicia Penal  del  Adolescente,  garante  del  debido  proceso y  orientado  a  la  integración  de  los  adolescentes  a  la familia y a la sociedad.
 
-
+4
 
 [[END OF PAGE 4]]
 
 [[START OF PAGE 5]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 En uso de sus facultades;
 
@@ -116,13 +116,13 @@ Toda niña, niño y adolescente es sujeto social y de Derecho y por lo tanto, ti
 ##### Arto. 4
 Toda niña, niño y adolescente nace y crece libre  e  igual  en  dignidad,  por  lo  cual  goza  de  todos
 
-
+5
 
 [[END OF PAGE 5]]
 
 [[START OF PAGE 6]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 los  derechos  y  garantías  universales  inherentes  a  la persona  humana,  y  en  especial  de  los  establecidos en  la  Constitución  Política,  el  presente  Código  y  la Convención sobre los Derechos del Niño, sin distinción alguna  de  raza,  color,  sexo,  edad,  idioma,  religión, opinión  política,  origen  nacional  o  social,  posición económica, situación física o psíquica, o cualquier otra condición, en relación a sus madres, padres o tutores.
 
@@ -137,38 +137,42 @@ La niña, niño y adolescente tiene derecho a la protección de la Ley contra es
 La familia es el núcleo natural y fundamental para el crecimiento, desarrollo y bienestar integral de las  niñas,  niños  y  adolescentes.  En  consecuencia  la familia debe asumir plenamente sus responsabilidades, su cuido, educación, rehabilitación, protección y desarrollo.
 
 ##### Arto. 7
-Es deber de la familia, la comunidad, la escuela, el  Estado  y  la  sociedad  en  general  asegurar,  con absoluta prioridad, el cumplimiento de los derechos y garantías de las niñas, niños y adolescentes referentes a la vida, la convivencia familiar y comunitaria, identidad, nacionalidad, salud, alimentación, vivienda, educación, medio  ambiente,  deporte,  recreación,  profesionalización, cultura, dignidad, respeto y libertad.
+Es deber de la familia, la comunidad, la escuela, el Estado y la sociedad en general asegurar, con absoluta prioridad, el cumplimiento de los derechos y
 
-
+6
 
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+garantías de las niñas, niños y adolescentes referentes a la vida, la convivencia familiar y comunitaria, identidad, nacionalidad, salud, alimentación, vivienda, educación, medio ambiente, deporte, recreación, profesionalización, cultura, dignidad, respeto y libertad.
 
 La garantía de absoluta prioridad comprende:
 
-- Primacía en recibir protección y socorro en cualquier circunstancia.
+a) Primacía en recibir protección y socorro en cualquier circunstancia.
 
-- Precedencia en la atención de los servicios públicos y privados.
+b) Precedencia en la atención de los servicios públicos y privados.
 
-- Especial preferencia en la formulación y ejecución de las políticas públicas encaminadas a crear las condiciones  de  vida  que  garanticen  el  desarrollo integral de las niñas, niños y adolescentes.
+c) Especial preferencia en la formulación y ejecución de las políticas públicas encaminadas a crear las condiciones de vida que garanticen el desarrollo integral de las niñas, niños y adolescentes.
 
-- Asignación privilegiada de recursos públicos en las áreas relacionadas con la protección y promoción de la niñez y la adolescencia.
+d) Asignación privilegiada de recursos públicos en las áreas relacionadas con la protección y promoción de la niñez y la adolescencia.
 
 ##### Arto. 8
 A las niñas, niños y adolescentes que pertenezcan a Comunidades Indígenas, grupos sociales étnicos, religiosos o lingüísticos o de origen indígena, se les reconoce el derecho de vivir y desarrollarse bajo las formas de organización social que corresponden a sus tradiciones históricas y culturales.
 
-El Estado garantizará a las niñas, niños y adolescentes que pertenezcan a tales comunidades indígenas o grupos sociales a tener los derechos que le corresponden en común con los demás miembros de su grupo, a tener su propia vida cultural, educativa, a profesar y practicar su propia religión, costumbres, a emplear su propio idioma y gozar de los derechos y garantías consignados en el presente Código y demás leyes.
+El Estado garantizará a las niñas, niños y adolescentes que pertenezcan a tales comunidades indígenas o grupos sociales a tener los derechos que le corresponden en común con los demás miembros de su grupo, a tener su propia vida cultural, educativa, a profesar y practicar su
 
-
+7
 
 [[END OF PAGE 7]]
 
 [[START OF PAGE 8]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+propia religión, costumbres, a emplear su propio idioma y gozar de los derechos y garantías consignados en el presente Código y demás leyes.
 
 ##### Arto. 9
 En todas las medidas que tomen las Instituciones  públicas  y  privadas  de  bienestar  social, los Tribunales, las Autoridades nacionales, municipales y de las Regiones Autónomas que afecten a las niñas, niños y adolescentes, así como en la interpretación y aplicación de este Código, se deberá tomar en cuenta como principio primordial, el interés superior de la niña, el niño y el adolescente.
@@ -179,23 +183,19 @@ Se  entiende  por  interés  superior  de  la  niña, niño y adolescente todo a
 ##### Arto. 11
 Las disposiciones del presente Código son de orden público y obligatorias para todos los habitantes de la República.
 
-
+8
 
 [[END OF PAGE 8]]
 
 [[START OF PAGE 9]]
 
-Código de la Niñez y la Adolescencia • Ley No. 287
-
 ## LIBRO PRIMERO
-
-
 
 [[END OF PAGE 9]]
 
 [[START OF PAGE 10]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ## LIBRO PRIMERO
 
@@ -213,7 +213,7 @@ La niña y el niño tendrá derecho desde que nace, a la nacionalidad de acuerdo
 
 El  Estado  respetará  el  derecho  de  la  niña,  el  niño  y del  adolescente a preservar su identidad, incluidos la nacionalidad, el nombre y las relaciones familiares, de conformidad con la Ley.
 
-En ningún caso la niña, el niño y el adolescente podrá ser privado de su identidad. En el caso que sea privado ilegalmente de alguno de los elementos de su identidad o de todos ellos, el Estado garantizará la asistencia y protección apropiadas para restablecerlas.
+En ningún caso la niña, el niño y el adolescente podrá ser privado de su identidad. En el caso que sea privado
 
 10
 
@@ -221,9 +221,11 @@ En ningún caso la niña, el niño y el adolescente podrá ser privado de su ide
 
 [[START OF PAGE 11]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-La niña y el niño será inscrito en el registro de nacimiento en  los  plazos  que  la  ley  de  la  materia  establece.  El Estado garantizará mecanismos ágiles y de fácil acceso de  inscripción  y  extenderá  gratuitamente  el  primer certificado de nacimiento.
+ilegalmente de alguno de los elementos de su identidad o de todos ellos, el Estado garantizará la asistencia y protección apropiadas para restablecerlas.
+
+La niña y el niño será inscrito en el registro de nacimiento en los plazos que la ley de la materia establece. El Estado garantizará mecanismos ágiles y de fácil acceso de inscripción y extenderá gratuitamente el primer certificado de nacimiento.
 
 ##### Arto. 14
 Las niñas, niños y adolescente no serán objeto de abusos e injerencias en su vida privada y la de su familia o en su domicilio, pertenencias, propiedades o correspondencia, salvo en los casos establecidos en la ley, ni de ataques a su honra o reputación.
@@ -231,17 +233,17 @@ Las niñas, niños y adolescente no serán objeto de abusos e injerencias en su 
 ##### Arto.  15
 Toda  niña,  niño  y  adolescente  goza  del derecho  a  la  libertad,  sin  más  restricciones  que  las establecidas  por  la  Ley.  Este  derecho  abarca,  entre otros, los siguientes aspectos:
 
-- Pensamiento, conciencia, opinión y expresión.
+a) Pensamiento, conciencia, opinión y expresión.
 
-- Creencia y culto religiosos.
+b) Creencia y culto religiosos.
 
-- Recreación, cultura, arte y prácticas de deportes.
+c) Recreación, cultura, arte y prácticas de deportes.
 
-- Participación en la vida familiar, vida escolar y en la comunidad sin discriminación alguna.
+d) Participación en la vida familiar, vida escolar y en la comunidad sin discriminación alguna.
 
-- Participación  en  la  vida  social  y  política  de  la nación en la forma que la Ley lo establezca.
+e) Participación en la vida social y política de la nación en la forma que la Ley lo establezca.
 
-- A buscar refugio, auxilio y orientación en cualquier circunstancia de necesidad o peligro.
+f) A buscar refugio, auxilio y orientación en cualquier circunstancia de necesidad o peligro.
 
 11
 
@@ -249,7 +251,7 @@ Toda  niña,  niño  y  adolescente  goza  del derecho  a  la  libertad,  sin  m
 
 [[START OF PAGE 12]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 g) Participarán en reuniones y asociaciones según su edad e interés.
 
@@ -271,7 +273,7 @@ El  Estado  brindará  especial  atención  a  los niños,  niñas  y  adolescen
 
 [[START OF PAGE 13]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 20
 Es responsabilidad primordial de las madres, padres  o  tutores,  así  como  del  Estado  a  través  de sus  políticas  educativas,  educar  a  las  niñas,  niños y  adolescentes  en  el  ejercicio  de  sus  derechos  y libertades conforme a la evolución de sus facultades.
@@ -284,7 +286,7 @@ Las niñas, niños y adolescentes tienen derecho a su familia, por lo que no deb
 La  separación  de  su  familia  deberá  ser  ordenada mediante  resolución  judicial  motivada,  bajo  pena  de nulidad, en procedimiento contencioso.
 
 ##### Arto. 22
-En ningún caso la falta de recursos materiales de las madres, padres o tutores, será causa para declarar la suspensión o pérdida de las relaciones parentales o de tutela.
+En ningún caso la falta de recursos materiales de las madres, padres o tutores, será causa para declarar
 
 13
 
@@ -292,9 +294,11 @@ En ningún caso la falta de recursos materiales de las madres, padres o tutores,
 
 [[START OF PAGE 14]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-El  Estado  garantizará  la  protección  y  asistencia  apropiada a las madres, padres o tutores en lo que respecta a la crianza de las niñas, niños y adolescentes mediante la promoción y creación de instituciones y servicios para su cuido y desarrollo.
+la suspensión o pérdida de las relaciones parentales o de tutela.
+
+El Estado garantizará la protección y asistencia apropiada a las madres, padres o tutores en lo que respecta a la crianza de las niñas, niños y adolescentes mediante la promoción y creación de instituciones y servicios para su cuido y desarrollo.
 
 ##### Arto.  23
 La  madre  y  padre  en  el  ejercicio  de  sus derechos tomarán las decisiones conjuntamente sobre asuntos concernientes a la formación integral de sus hijas o hijos, tomando en cuenta el interés superior y los derechos y responsabilidades de las niñas, niños y adolescentes consignados en el presente Código.
@@ -313,7 +317,7 @@ El  Estado  garantizará  el  derecho  a  obtener una pensión alimenticia a tra
 
 [[START OF PAGE 15]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 26
 Las niñas, niños y adolescentes tienen derecho desde que nacen a crecer en un ambiente familiar que propicie su desarrollo integral. Las relaciones familiares descansan en el respeto, solidaridad e igualdad absoluta de  derechos  y  responsabilidades  entre  los  padres  y madres.  Los  padres  y  madres  tienen  el  derecho  a  la educación de sus hijas e hijos y el deber de atender el mantenimiento del hogar y la formación integral de las hijas e hijos mediante el esfuerzo común, con igualdad de derechos y responsabilidades.
@@ -335,7 +339,7 @@ Las niñas, niños y adolescentes  tienen derecho a salir del país sin más res
 
 [[START OF PAGE 16]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Cuando  los  niños,  niñas  y  adolescentes  viajen  fuera del  país,  es  requisito  fundamental  presentar  ante  las autoridades migratorias el permiso de sus progenitores o tutores, debidamente autorizado por Notario Público.
 
@@ -356,7 +360,7 @@ La adopción se aplicará  como  medida excepcional  y  en  los  casos  previsto
 
 [[START OF PAGE 17]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 #### CAPITULO III DERECHOS A LA SALUD, SEGURIDAD SOCIAL, CULTURA Y RECREACION
 
@@ -364,7 +368,7 @@ Código de la Niñez y la Adolescencia · Ley No. 287
 Todas las niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud física y mental, educación, tiempo libre, medio ambiente sano, vivienda, cultura, recreación, seguridad social y a los servicios para el tratamiento de las enfermedades y  rehabilitación  de  la  salud.  El  Estado  garantizará el  acceso  a  ellos  tomando  en  cuenta  los  derechos  y deberes de la familia o responsables legales.
 
 ##### Arto.  34
-Toda  mujer  embarazada  tiene  derecho  a  la atención  prenatal,  perinatal  y  postnatal,  a  través  del Sistema Público de Salud. Las diversas modalidades de atención  se  desarrollarán  de  acuerdo  a  los  principios territoriales y de jerarquización del sistema.
+Toda mujer embarazada tiene derecho a la atención prenatal, perinatal y postnatal, a través del
 
 17
 
@@ -372,23 +376,25 @@ Toda  mujer  embarazada  tiene  derecho  a  la atención  prenatal,  perinatal  
 
 [[START OF PAGE 18]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-Los  hospitales,  unidades  de  salud,  y  demás  centros públicos y privados de atención materno infantil están obligados a:
+Sistema Público de Salud. Las diversas modalidades de atención se desarrollarán de acuerdo a los principios territoriales y de jerarquización del sistema.
 
-- Mantener  el  registro  técnico  de  las  actividades desarrolladas.
+Los hospitales, unidades de salud, y demás centros públicos y privados de atención materno infantil están obligados a:
 
-- Identificar  a  las  o  los  recién  nacidos  mediante el registro de huellas plantares y dactilares y las huellas  dactilares  de  la  madre,  sin  perjuicio  de otras  formas  reglamentadas  por  las  autoridades competentes.
+a) Mantener el registro técnico de las actividades desarrolladas.
 
-- Diagnosticar, a través de exámenes, anormalidades en el metabolismo del recién nacido.
+b) Identificar a las o los recién nacidos mediante el registro de huellas plantares y dactilares y las huellas dactilares de la madre, sin perjuicio de otras formas reglamentadas por las autoridades competentes.
 
-- Identificar y orientar a la madre sobre indicadores de  riesgo  que  puedan  provocar  secuelas  en  el desarrollo físico y psicológico del niño.
+c) Diagnosticar, a través de exámenes, anormalidades en el metabolismo del recién nacido.
 
-- Suministrar  declaración  de  nacimiento  mediante normas establecidas por el Ministerio de Salud.
+d) Identificar y orientar a la madre sobre indicadores de riesgo que puedan provocar secuelas en el desarrollo físico y psicológico del niño.
 
-- Garantizar  al  recién  nacido  o  recién  nacida  la permanencia junto a la madre, excepto por razones de salud.
+e) Suministrar declaración de nacimiento mediante normas establecidas por el Ministerio de Salud.
 
-- Garantizar  la  aplicación  de  un  reglamento  que asegure  la  protección  de  las  niñas,  niños  y  adolescentes durante su permanencia en el centro u hospital.
+f) Garantizar al recién nacido o recién nacida la permanencia junto a la madre, excepto por razones de salud.
+
+g) Garantizar la aplicación de un reglamento que asegure la protección de las niñas, niños y adolescentes durante su permanencia en el centro u hospital.
 
 18
 
@@ -396,7 +402,7 @@ Los  hospitales,  unidades  de  salud,  y  demás  centros públicos y privados 
 
 [[START OF PAGE 19]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  35
 El  Estado,  a  través  de  las  instituciones correspondientes y los empleadores en general, están obligados  a  brindar  condiciones  adecuadas  para  la lactancia  materna,  incluyendo  a  madres  sometidas  a privación de libertad. En éste período no se separará a la niña y al niño de su madre, salvo que sea contrario al interés superior de la niña y el niño.
@@ -411,7 +417,7 @@ Toda niña, niño y adolescente tiene derecho a la inmunización de las enfermed
 La madre, el padre o el tutor están obligados a garantizar que sus hijas e hijos, o a quienes tengan bajo su cuidado, reciban las vacunas programadas por el Ministerio de Salud y el control de las mismas.
 
 ##### Arto.  39
-Corresponde  al  Estado  con  la  participación activa  de  la  familia,  la  escuela,  la  comunidad  y  la  sociedad civil,  desarrollar  programas  necesarios  para  reducir  la tasa de mortalidad infantil, prevenir las enfermedades que afectan a las niñas, niños y adolescentes y reducir los índices de desnutrición.
+Corresponde al Estado con la participación activa de la familia, la escuela, la comunidad y la sociedad civil, desarrollar programas necesarios para reducir la
 
 19
 
@@ -419,7 +425,9 @@ Corresponde  al  Estado  con  la  participación activa  de  la  familia,  la  e
 
 [[START OF PAGE 20]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+tasa de mortalidad infantil, prevenir las enfermedades que afectan a las niñas, niños y adolescentes y reducir los índices de desnutrición.
 
 Se deberá otorgar prioridad en estos programas a las niñas, niños y adolescentes en situación de riesgo y a la niña o adolescente madre, durante los períodos de gestación y lactancia.
 
@@ -438,7 +446,7 @@ Los  centros  de  atención  médica  públicos  o  privados, deberán  obligato
 
 [[START OF PAGE 21]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  41
 Los  hospitales  y  centros  de  salud  públicos deberán  atender  inmediatamente  a  toda  niña,  niño  y adolescente registrados en ellas, con aquellos servicios médicos que requieren la atención de emergencia, sin que pueda aducir motivo alguno para negarlo, ni siquiera el de la ausencia de representantes legales, carencia de recursos económicos o cualquier otra causa.
@@ -457,7 +465,7 @@ El Estado asegurará a las niñas, niños y adolescentes, la  educación  públi
 
 [[START OF PAGE 22]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Las  niñas,  niños  y  adolescentes  deberán  gozar  del respeto de sus educadores, tendrán derecho de petición y queja, revisión e impugnación de criterios de evaluación, mediante el procedimiento establecido por el Ministerio de Educación. También deberán participar activamente en el proceso de enseñanza y aprendizaje y  de  formar  organizaciones  estudiantiles  y  de  todo aquello referido a la vida escolar que le atañe.
 
@@ -472,7 +480,7 @@ El Estado y las Universidades, en la medida de sus posibilidades deberán asegur
 El Estado estimulará acciones relativas a investigaciones y propuestas metodológicas orientadas a incorporar al sistema  educativo  a  las  niñas,  niños  y  adolescentes excluidos de la educación primaria obligatoria.
 
 ##### Arto.  46
-Las  madres,  padres  o  tutores,  tienen  la obligación de incorporar a sus hijas e hijos o a quienes tengan  bajo  su  cuidado,  en  el  sistema  educativo  y velar  por  su  asistencia  al  centro  de  educación,  a  fin de  que  se  desenvuelvan  con  éxito  en  el  proceso  de aprendizaje.
+Las madres, padres o tutores, tienen la obligación de incorporar a sus hijas e hijos o a quienes
 
 22
 
@@ -480,9 +488,11 @@ Las  madres,  padres  o  tutores,  tienen  la obligación de incorporar a sus hi
 
 [[START OF PAGE 23]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-##### Arto.  47
+tengan bajo su cuidado, en el sistema educativo y velar por su asistencia al centro de educación, a fin de que se desenvuelvan con éxito en el proceso de aprendizaje.
+
+##### Arto. 47
 Es  deber  del  Estado  garantizar  modalidades educativas  que  permitan  la  incorporación  de  niñas, niños y adolescentes que por distintas circunstancias están excluidos de la educación primaria obligatoria.
 
 El  Estado  deberá  adoptar  medidas  para  fomentar  la asistencia regular a las escuelas y reducir las tasas de repetición y deserción escolar.
@@ -501,7 +511,7 @@ Se  prohibe  a  los  maestros,  autoridades, funcionarios,  empleados  o  trabaj
 
 [[START OF PAGE 24]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  50
 En  el  proceso  educativo  se  deberá  respetar los valores culturales, artísticos, religiosos e históricos propios del contexto social de la niña, niño y adolescente y promover el acceso a las fuentes de cultura y a la libertad de creación y todos aquellos consignados en la Convención sobre los Derechos del Niño.
@@ -518,7 +528,7 @@ Es derecho de las niñas, niños y adolescentes que pertenezcan a las Comunidade
 
 [[START OF PAGE 25]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  53
 La  violación  a  los  derechos,  libertades  y garantías consignados en los capítulos anteriores podrá ser objeto de recurso, de conformidad con la ley de la materia.
@@ -533,11 +543,11 @@ La familia, la comunidad y la escuela deberán educar a las niñas, niños y ado
 ##### Arto. 55
 Son deberes y responsabilidades de las niñas, niños y adolescentes, según su edad y siempre que no se lesionen sus derechos, libertades, garantías, dignidad o se contravengan las leyes, los siguientes:
 
-- Obedecer, respetar y expresar cariño a sus madres, padres, abuelos, abuelas o tutores.
+a) Obedecer, respetar y expresar cariño a sus madres, padres, abuelos, abuelas o tutores.
 
-- Colaborar con las tareas del hogar, de acuerdo a su edad, siempre que estas tareas no interfieran en su proceso educativo.
+b) Colaborar con las tareas del hogar, de acuerdo a su edad, siempre que estas tareas no interfieran en su proceso educativo.
 
-- Estudiar con ahínco, cumplir con las tareas escolares y con las  normas  establecidas  en  el  centro
+c) Estudiar con ahínco, cumplir con las tareas escolares y con las normas establecidas en el centro
 
 25
 
@@ -545,17 +555,17 @@ Son deberes y responsabilidades de las niñas, niños y adolescentes, según su 
 
 [[START OF PAGE 26]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 escolar  y  respetar  a  sus  maestros,  funcionarios y trabajadores de su respectivo centro de estudio.
 
-- Respetar los derechos humanos, ideas y creencias de las demás personas, particularmente los de la tercera edad.
+d) Respetar los derechos humanos, ideas y creencias de las demás personas, particularmente los de la tercera edad.
 
-- Respetar y cultivar los valores, leyes, símbolos y héroes nacionales.
+e) Respetar y cultivar los valores, leyes, símbolos y héroes nacionales.
 
-- Conservar y proteger el medio ambiente natural y participar en actividades orientadas a este fin.
+f) Conservar y proteger el medio ambiente natural y participar en actividades orientadas a este fin.
 
-- Respetar y cuidar sus bienes, los de la familia, los de la escuela, los de la comunidad y del dominio público  y  del  resto  de  ciudadanos,  así  como, participar en las actividades de mantenimiento y mejoramiento de los mismos.
+g) Respetar y cuidar sus bienes, los de la familia, los de la escuela, los de la comunidad y del dominio público y del resto de ciudadanos, así como, participar en las actividades de mantenimiento y mejoramiento de los mismos.
 
 26
 
@@ -563,17 +573,13 @@ escolar  y  respetar  a  sus  maestros,  funcionarios y trabajadores de su respe
 
 [[START OF PAGE 27]]
 
-Código de la Niñez y la Adolescencia • Ley No. 287
-
 ## LIBRO SEGUNDO
-
-27
 
 [[END OF PAGE 27]]
 
 [[START OF PAGE 28]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ## LIBRO SEGUNDO DE LA POLITICA Y EL CONSEJO NACIONAL DE ATENCION INTEGRAL A LA NIÑEZ Y ADOLESCENCIA
 
@@ -585,9 +591,9 @@ La Política Nacional de Atención y Protección Integral a los derechos de las 
 ##### Arto.  57
 La  Política  Nacional  de  Atención  Integral  a los derechos de las niñas, niños y adolescentes estará contenida en:
 
-- Las políticas sociales básicas que se caracterizan por  los  servicios  universales  a  los  que  tienen derecho todas las niñas, niños y adolescentes de manera equitativa sin excepción alguna: educación, salud, nutrición, agua y saneamiento, vivienda y seguridad social.
+a) Las políticas sociales básicas que se caracterizan por los servicios universales a los que tienen derecho todas las niñas, niños y adolescentes de manera equitativa sin excepción alguna: educación, salud, nutrición, agua y saneamiento, vivienda y seguridad social.
 
-- Las  políticas  asistenciales  que  se  caracterizan por servicios temporales dirigidos a aquellas niñas, niños y adolescentes que se encuentren en
+b) Las políticas asistenciales que se caracterizan por servicios temporales dirigidos a aquellas niñas, niños y adolescentes que se encuentren en
 
 28
 
@@ -595,13 +601,13 @@ La  Política  Nacional  de  Atención  Integral  a los derechos de las niñas, 
 
 [[START OF PAGE 29]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 situaciones  de  extrema  pobreza  o  afectados  por desastres naturales.
 
-- Las políticas de protección especial, dirigidas a las niñas, niños y adolescentes, que se encuentran en situaciones que amenazan o violen sus derechos o en estado de total desamparo.
+c) Las políticas de protección especial, dirigidas a las niñas, niños y adolescentes, que se encuentran en situaciones que amenazan o violen sus derechos o en estado de total desamparo.
 
-- Las  políticas  de  garantías,  dirigidas  a  garantizar los  derechos  de  las  niñas,  niños  y  adolescentes consagrados  en  el  presente  Código,  en  relación al acto administrativo y a la justicia penal especializada.
+d) Las políticas de garantías, dirigidas a garantizar los derechos de las niñas, niños y adolescentes consagrados en el presente Código, en relación al acto administrativo y a la justicia penal especializada.
 
 ##### Arto. 58
 Es obligación del Estado garantizar la ejecución de estas políticas y un derecho de las niñas, niños y adolescentes, exigirlas.
@@ -609,11 +615,11 @@ Es obligación del Estado garantizar la ejecución de estas políticas y un dere
 ##### Arto. 59
 La estrategia para la aplicación de la Política Nacional de Atención Integral de la niñez y la adolescencia deberá estar orientada a:
 
-- Elevar  la  calidad  de  vida  de  las  familias,  como estrategia básica para garantizar los derechos de las niñas, niños y adolescentes.
+a) Elevar la calidad de vida de las familias, como estrategia básica para garantizar los derechos de las niñas, niños y adolescentes.
 
-- Priorizar la atención primaria, universal y la calidad de las políticas sociales básicas en los servicios de educación,  salud,  nutrición,agua  y  saneamiento, vivienda y seguridad social.
+b) Priorizar la atención primaria, universal y la calidad de las políticas sociales básicas en los servicios de educación, salud, nutrición,agua y saneamiento, vivienda y seguridad social.
 
-- El fortalecimiento de la institucionalidad gubernamental y no gubernamental a nivel nacional y municipal que atiende a las niñas, niños y adolescentes y su familia.
+c) El fortalecimiento de la institucionalidad gubernamental y no gubernamental a nivel nacional y municipal que atiende a las niñas, niños y adolescentes y su familia.
 
 29
 
@@ -621,13 +627,13 @@ La estrategia para la aplicación de la Política Nacional de Atención Integral
 
 [[START OF PAGE 30]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- La sensibilización, concientización y el desarrollo de modelos de participación social e institucional de los derechos de las niñas, niños y adolescentes.
+d) La sensibilización, concientización y el desarrollo de modelos de participación social e institucional de los derechos de las niñas, niños y adolescentes.
 
-- El  fortalecimiento  permanente de los derechos y garantías de las niñas, niños y adolescentes.
+e) El fortalecimiento permanente de los derechos y garantías de las niñas, niños y adolescentes.
 
-- La promoción del papel de la niña a fin de favorecer el  desarrollo  integración  plena  en  igualdad  de condiciones,  con  el  niño,  en  las  esferas  económicas, sociales, políticas y culturales de la nación.
+f) La promoción del papel de la niña a fin de favorecer el desarrollo integración plena en igualdad de condiciones, con el niño, en las esferas económicas, sociales, políticas y culturales de la nación.
 
 ##### Arto.  60
 Se  promoverá  la  ejecución  de  la  Política  Nacional de Atención y Protección Integral y los servicios que se derivan de la misma, en forma descentralizada en las Regiones Autónomas, Municipios y localidades.
@@ -643,7 +649,7 @@ Bajo el principio de alta prioridad consignado en el artículo 7 del presente C�
 
 [[START OF PAGE 31]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ### TITULO II DEL CONSEJO NACIONAL DE ATENCIÓN Y PROTECCION INTEGRAL
 
@@ -658,7 +664,7 @@ Créase  la  Defensoría  de  las  niñas,  niños  y adolescentes como un servi
 #### CAPITULO I DE LA PREVENCION
 
 ##### Arto. 64
-Las medidas de prevención están dirigidas a las instituciones gubernamentales y no gubernamentales, establecimientos públicos y privados, medios de comunicación  social,  la  familia,  la  escuela  y  a  todas aquellas  instancias  o  personas  relacionadas  directa  o indirectamente con las niñas, niños y adolescentes.
+Las medidas de prevención están dirigidas a las instituciones gubernamentales y no gubernamentales, establecimientos públicos y privados, medios de comunicación social, la familia, la escuela y a todas
 
 31
 
@@ -666,7 +672,9 @@ Las medidas de prevención están dirigidas a las instituciones gubernamentales 
 
 [[START OF PAGE 32]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+aquellas instancias o personas relacionadas directa o indirectamente con las niñas, niños y adolescentes.
 
 ##### Arto.  65
 El Estado, a través del Ministerio de Gobernación, será responsable de clasificar las diversiones  y  espectáculos  públicos  en  relación  a  la naturaleza de los mismos, las edades para los que no se recomiendan, locales y horarios en que su presentación no sea adecuada.
@@ -678,7 +686,7 @@ Se  prohíbe  admitir  a  niñas,  niños  o  adolescentes  en salas  de  proyec
 ##### Arto.  66
 Se  prohíbe  a  los  propietarios  de  establecimientos y otros, expender o suministrar, por ningún motivo, a las  niñas,  niños  y  adolescentes  bebidas  alcohólicas, tabaco, estupefacientes, tóxicos, substancias inhalantes, alucinógenos y aquellas controladas en las leyes y reglamentos vigentes o sustancias que generan dependencia física o psíquica.
 
-Los  pegamentos  de  zapatos,  para  su  importación y  comercialización  en  el  Mercado  nacional  deberán contener un agente catalítico que neutralice el factor adictivo del  producto.  La  importación  de  estos  productos deberá contar con la autorización correspondiente del Ministerio de Salud que garantice el cumplimiento de esta norma.
+Los pegamentos de zapatos, para su importación y comercialización en el Mercado nacional deberán contener un agente catalítico que neutralice el factor
 
 32
 
@@ -686,7 +694,9 @@ Los  pegamentos  de  zapatos,  para  su  importación y  comercialización  en  
 
 [[START OF PAGE 33]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+adictivo del producto. La importación de estos productos deberá contar con la autorización correspondiente del Ministerio de Salud que garantice el cumplimiento de esta norma.
 
 ##### Arto. 67
 Queda prohibido a las agencias de publicidad y propietarios de medios y a sus trabajadores, difundir mensajes publicitarios de tipo comercial, político o de otra índole que utilicen a las niñas, niños y adolescentes, a  través  de  cualquier  medio  de  comunicación  social, que  inciten  al  uso  de  drogas,  tabaco,  prostitución  y pornografía  infantil,  alcohol,  que  exalten  al  vicio,  o irrespeten su dignidad.
@@ -706,7 +716,7 @@ Queda prohibido a los dueños de establecimientos o cualquier persona, vender ar
 
 [[START OF PAGE 34]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 71
 Queda prohibido difundir por cualquier medio los nombres, fotografías o señales de identificación que correspondan a niñas, niños y adolescentes que hayan sido sujetos activos o pasivos de infracción penal.
@@ -723,11 +733,11 @@ Los adolescentes no podrán efectuar ningún tipo de trabajo en lugares insalubr
 ##### Arto.  75
 En  los  casos  en  que  a  los  adolescentes  se les  permita  el  trabajo,  se  observarán  las  siguientes normas:
 
-- Respetar y garantizar su condición de persona en desarrollo, con características particulares.
+a) Respetar y garantizar su condición de persona en desarrollo, con características particulares.
 
-- Recibir instrucción adecuada al trabajo que desempeña.
+b) Recibir instrucción adecuada al trabajo que desempeña.
 
-- Someterse  a  exámenes  médicos  por  lo  menos una  vez  al  año  a  fin  de  determinar  si  el  trabajo
+c) Someterse a exámenes médicos por lo menos una vez al año a fin de determinar si el trabajo
 
 34
 
@@ -735,11 +745,11 @@ En  los  casos  en  que  a  los  adolescentes  se les  permita  el  trabajo,  se
 
 [[START OF PAGE 35]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 que  realiza  menoscaba  su  salud  o  su  desarrollo normal.
 
-- Garantizar la continuación de su proceso educativo.
+d) Garantizar la continuación de su proceso educativo.
 
 El trabajo de los adolescentes debe ser supervisado por el Ministerio del Trabajo y la institución correspondiente, a fin de garantizar el cumplimiento de las disposiciones establecidas  para  su  protección,  consignadas  en  el presente Código y demás leyes y reglamentos.
 
@@ -748,15 +758,15 @@ El trabajo de los adolescentes debe ser supervisado por el Ministerio del Trabaj
 ##### Arto.  76
 El Estado, las instituciones públicas o privadas, con la participación de la familia, comunidad y la escuela, brindarán atención y protección especial a las niñas, niños y adolescentes que se encuentren en las siguientes situaciones:
 
-- Cuando los  tutores,  abusen  de  la  autoridad  que le  confiere  la  guarda  y  tutela  de  los  menores  o actúen con negligencia en las obligaciones que les imponen las leyes.
+a) Cuando los tutores, abusen de la autoridad que le confiere la guarda y tutela de los menores o actúen con negligencia en las obligaciones que les imponen las leyes.
 
-- Cuando carezcan de familia.
+b) Cuando carezcan de familia.
 
-- Cuando se encuentren refugiados en nuestro país o sean víctimas de conflictos armados.
+c) Cuando se encuentren refugiados en nuestro país o sean víctimas de conflictos armados.
 
-- Cuando se encuentren en centros de protección o de abrigo.
+d) Cuando se encuentren en centros de protección o de abrigo.
 
-- Cuando trabajen y sean explotados económicamente.
+e) Cuando trabajen y sean explotados económicamente.
 
 35
 
@@ -764,21 +774,21 @@ El Estado, las instituciones públicas o privadas, con la participación de la f
 
 [[START OF PAGE 36]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Cuando sean adictos a algún tipo de sustancias sicotrópicas, tabaco, alcohol, sustancias inhalantes o que sean utilizados para el tráfico de drogas.
+f) Cuando sean adictos a algún tipo de sustancias sicotrópicas, tabaco, alcohol, sustancias inhalantes o que sean utilizados para el tráfico de drogas.
 
-- Cuando sean abusados y explotados sexualmente.
+g) Cuando sean abusados y explotados sexualmente.
 
-- Cuando  se  encuentren  en  total  desamparo  y deambulen en las calles sin protección familiar.
+h) Cuando se encuentren en total desamparo y deambulen en las calles sin protección familiar.
 
-- Cuando  sufran  algún  tipo  de  maltrato  físico  o psicológico.
+i) Cuando sufran algún tipo de maltrato físico o psicológico.
 
-- Cuando padezcan de algún tipo de discapacidad
+j) Cuando padezcan de algún tipo de discapacidad
 
-- Cuando se trate de niñas y adolescentes embarazadas.
+k) Cuando se trate de niñas y adolescentes embarazadas.
 
-- Cualquier otra condición o circunstancia que requiera de protección especial.
+l) Cualquier otra condición o circunstancia que requiera de protección especial.
 
 ##### Arto.  77
 El  Estado  reconoce  que  las  niñas,  niños  y adolescentes con discapacidad deberán disfrutar de una vida plena en condiciones de dignidad que les permitan valerse por sí mismos y que facilite su participación en la sociedad y su desarrollo individual.
@@ -794,7 +804,7 @@ La  protección  y  atención  especial  que  el Estado  brindará  de  acuerdo 
 
 [[START OF PAGE 37]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 El  Estado  deberá  establecer  formas  de  prevención, identificación, investigación, tratamiento y observación de  los  casos  señalados  en  este  capítulo  y  cuando sea necesario deberá garantizar la intervención judicial.
 
@@ -817,26 +827,26 @@ Las medidas de protección especial deberán ser aplicadas por la autoridad admi
 
 [[START OF PAGE 38]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 82
 Comprobada por la autoridad administrativa la existencia de un hecho violatorio de los derechos de las niñas, niños y adolescentes, podrá aplicar las medidas de protección  según  el  caso,  dentro  de  las  siguientes  opciones:
 
-- Inclusión en un programa  gubernamental,  no gubernamental o comunitario de apoyo a la familia, a las niñas, niños y adolescentes.
+a) Inclusión en un programa gubernamental, no gubernamental o comunitario de apoyo a la familia, a las niñas, niños y adolescentes.
 
-- Inclusión en un programa de tratamiento médico, psicológico o psiquiátrico.
+b) Inclusión en un programa de tratamiento médico, psicológico o psiquiátrico.
 
-- Reintegro al hogar con o sin supervisión psicosocial y/o jurídica especializada.
+c) Reintegro al hogar con o sin supervisión psicosocial y/o jurídica especializada.
 
-- Ubicación familiar.
+d) Ubicación familiar.
 
-- Ubicación en hogar sustituto.
+e) Ubicación en hogar sustituto.
 
-- Inclusión  en  un  programa  gubernamental  o  no gubernamental de rehabilitación y orientación a niñas, niños y adolescentes alcohólicos y toxicómanos.
+f) Inclusión en un programa gubernamental o no gubernamental de rehabilitación y orientación a niñas, niños y adolescentes alcohólicos y toxicómanos.
 
-- Ubicación en un centro de abrigo o refugio.
+g) Ubicación en un centro de abrigo o refugio.
 
-- La adopción.
+h) La adopción.
 
 ##### Arto. 83
 Las medidas antes señaladas podrán aplicarse en  forma  simultánea  o  sucesiva  en  consideración  al interés  superior  de  las  niñas,  niños  y  adolescentes  y sólo por el tiempo estrictamente necesario, a excepción de  la  adopción,  para  impedir,  corregir  o  protegerlos en  caso  de  violación  o  amenaza  de  violación  de  sus derechos.
@@ -847,26 +857,26 @@ Las medidas antes señaladas podrán aplicarse en  forma  simultánea  o  sucesi
 
 [[START OF PAGE 39]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 84
 La autoridad administrativa que corresponda podrá,  según  el  caso,  dictar  las  siguientes  medidas, a  las  madres,  los  padres  o  tutores  que  por  acción  u omisión violen o amenacen con violar los derechos de las niñas, niños y adolescentes:
 
-- Obligación de inscribir a la niña, niño o adolescente en el Registro Civil, de acuerdo a lo dispuesto en la legislación civil.
+a) Obligación de inscribir a la niña, niño o adolescente en el Registro Civil, de acuerdo a lo dispuesto en la legislación civil.
 
-- Obligación  de  matricular a su  hija, hijo o a quienes  tengan  bajo  su  cuidado  en  el  sistema educativo  nacional  y  velar  por  su  asistencia  y aprovechamiento.
+b) Obligación de matricular a su hija, hijo o a quienes tengan bajo su cuidado en el sistema educativo nacional y velar por su asistencia y aprovechamiento.
 
-- Obligación de incluir a la niña, niño o adolescente en programas de atención especializada.
+c) Obligación de incluir a la niña, niño o adolescente en programas de atención especializada.
 
-- Remisión a un programa gubernamental, no gubernamental  o  comunitario  de  protección  a  la familia.
+d) Remisión a un programa gubernamental, no gubernamental o comunitario de protección a la familia.
 
-- Remisión a tratamiento psicológico o psiquiátrico.
+e) Remisión a tratamiento psicológico o psiquiátrico.
 
-- Remisión a cursos o programas de orientación.
+f) Remisión a cursos o programas de orientación.
 
-- Remisión a un programa gubernamental o comunitario de tratamiento a alcohólicos y toxicómanos.
+g) Remisión a un programa gubernamental o comunitario de tratamiento a alcohólicos y toxicómanos.
 
-- Advertencia.
+h) Advertencia.
 
 También podrá remitir,  según  el  caso,  las  diligencias administrativas a la autoridad judicial correspondiente.
 
@@ -876,7 +886,7 @@ También podrá remitir,  según  el  caso,  las  diligencias administrativas a 
 
 [[START OF PAGE 40]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  85
 Las  personas  que  por  acción  u  omisión realicen  maltrato,  violencia  o  abuso  físico,  síquico  o sexual, estarán sujetos a las sanciones penales que la ley establece.
@@ -901,29 +911,29 @@ La autoridad administrativa podrá actuar como conciliador en los casos de guard
 
 [[START OF PAGE 41]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 #### CAPITULO IV DE LAS ORGANIZACIONES Y CENTROS QUE TRABAJAN CON LA NIÑEZ Y LA ADOLESCENCIA
 
 ##### Arto.  90
 Son  obligaciones  de  las  organizaciones  y asociaciones no gubernamentales que trabajan con las niñas, niños y adolescentes:
 
-- Inscribirse en el Registro de Asociaciones que al efecto llevará el órgano rector del sistema.
+a) Inscribirse en el Registro de Asociaciones que al efecto llevará el órgano rector del sistema.
 
-- Presentar  sus  programas,  planes  e  informes  al órgano rector según su naturaleza.
+b) Presentar sus programas, planes e informes al órgano rector según su naturaleza.
 
-- Permitir el acceso del órgano rector a las instalaciones de sus centros, para verificar in situ las condiciones de las niñas, niños y adolescentes y el desarrollo de sus programas.
+c) Permitir el acceso del órgano rector a las instalaciones de sus centros, para verificar in situ las condiciones de las niñas, niños y adolescentes y el desarrollo de sus programas.
 
-- Cumplir  con  las  disposiciones  establecidas  en  el presente Código y en las leyes vigentes.
+d) Cumplir con las disposiciones establecidas en el presente Código y en las leyes vigentes.
 
 ##### Arto. 91
 Las organizaciones e instituciones gubernamentales y no gubernamentales que desarrollen programas de atención especial estarán obligados a:
 
-- Promover  y respetar los derechos, libertades y  garantías  de  las  niñas,  niños  y  adolescentes consignados en el presente Código y demás leyes.
+a) Promover y respetar los derechos, libertades y garantías de las niñas, niños y adolescentes consignados en el presente Código y demás leyes.
 
-- Impulsar programas que mantengan y restablezcan los vínculos familiares.
+b) Impulsar programas que mantengan y restablezcan los vínculos familiares.
 
-- Brindar  atención  personalizada  en  pequeños  grupos.
+c) Brindar atención personalizada en pequeños grupos.
 
 41
 
@@ -931,13 +941,13 @@ Las organizaciones e instituciones gubernamentales y no gubernamentales que desa
 
 [[START OF PAGE 42]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Brindar  las  condiciones  físicas  ambientales  de higiene  y  seguridad  que  garanticen  la  integridad personal de las niñas, niños y adolescentes.
+d) Brindar las condiciones físicas ambientales de higiene y seguridad que garanticen la integridad personal de las niñas, niños y adolescentes.
 
-- Involucrar  a  la  comunidad,  a  la  escuela  y  a  la familia  en  el  proceso  educativo  y  de  protección que desarrollen.
+e) Involucrar a la comunidad, a la escuela y a la familia en el proceso educativo y de protección que desarrollen.
 
-- Cumplir con las normas que regulan el funcionamiento de las instituciones de esta naturaleza.
+f) Cumplir con las normas que regulan el funcionamiento de las instituciones de esta naturaleza.
 
 ##### Arto. 92
 En ningún caso los Centros de Protección e instituciones  gubernamentales  y  no  gubernamentales desarrollarán programas de atención especial que priven, restrinjan o de alguna manera limiten la libertad. Sin perjuicio de la responsabilidad civil o penal en que incurran sus directivos.
@@ -962,7 +972,7 @@ La contravención a lo dispuesto en los artículos anteriores será sancionada d
 
 [[START OF PAGE 44]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ## LIBRO TERCERO SISTEMA DE JUSTICIA PENAL ESPECIALIZADA
 
@@ -975,7 +985,7 @@ La  Justicia  Penal  Especial  del  Adolescente establecida  en  el  presente  C
 
 Los adolescentes cuyas edades se encontraren comprendidas entre quince años y dieciocho años de edad,  a  quienes  se  le  comprobare  responsabilidad, como autores o partícipes de una infracción penal se le  aplicarán  las  medidas  establecidas  en  el  presente Libro.
 
-A  los  adolescentes  cuyas  edades  se  encontraren comprendidas  entre  los  trece  años  y  quince  años cumplidos a quienes se les atribuyere la comisión de un delito  o  falta,  se  establecerá  su  responsabilidad  mediante el procedimiento regulado en este Libro. Comprobada la existencia del delito o falta y la responsabilidad, el Juez  competente  resolverá  aplicándole  cualquiera  de las  medidas  de  protección  especial  establecidas  en el  Libro  Segundo  de  este  Código,  o  de  las  medidas contempladas en este Libro exceptuando la aplicación de cualquier medida que implique privación de libertad.
+A los adolescentes cuyas edades se encontraren comprendidas entre los trece años y quince años cumplidos a quienes se les atribuyere la comisión de un delito o falta, se establecerá su responsabilidad mediante el procedimiento regulado en este Libro. Comprobada la existencia del delito o falta y la responsabilidad, el Juez competente resolverá aplicándole cualquiera de las medidas de protección especial establecidas en el Libro Segundo de este Código, o de las medidas
 
 44
 
@@ -983,7 +993,9 @@ A  los  adolescentes  cuyas  edades  se  encontraren comprendidas  entre  los  t
 
 [[START OF PAGE 45]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+contempladas en este Libro exceptuando la aplicación de cualquier medida que implique privación de libertad.
 
 Las  niñas  y  niños  que  no  hubieren  cumplido  los  trece  años de edad, no serán sujetos a la Justicia Penal Especial del  Adolescente,  están  exentos  de  responsabilidad penal,  quedando  a  salvo  la  responsabilidad  civil,  la cual  será  ejercida  ante  los  tribunales  jurisdiccionales competentes. Sin embargo, el Juez referirá el caso al órgano administrativo correspondiente con el fin de que se le brinde protección integral, velará y protegerá en todo caso para que se respeten los derechos, libertades y garantías de los mismos. Se prohíbe aplicarles, por ningún motivo cualquier medida que implique privación de libertad.
 
@@ -1002,7 +1014,7 @@ Son  principios  rectores  de  la  Justicia  Penal Especial del Adolescente, el 
 
 [[START OF PAGE 46]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  99
 La  aplicación  de  las  disposiciones  de  la Justicia Penal Especial del Adolescente, tanto a nivel procesal como de ejecución, estará a cargo de órganos especializados en materia de adolescentes.
@@ -1015,7 +1027,7 @@ la interpretación y aplicación de las disposiciones de la Justicia Penal Espec
 ##### Arto. 101
 Las y los adolescentes sujetos a la Justicia Penal de Adolescente gozarán de los derechos, libertades  y  garantías  reconocidos  en  la  Constitución Política,  Tratados,  Convenciones,  Pactos  y  demás instrumentos internacionales suscritos y ratificados por Nicaragua y las  leyes  ordinarias,  además  de  aquellas que  les  corresponden  por  su  especial  condición.  En consecuencia,  deberá  garantizarse  el  respeto,  entre otros, de los siguientes derechos y garantías:
 
-- A ser tratado con el debido respeto a la dignidad inherente al ser humano que incluye el derecho a que se proteja su integridad personal.
+a) A ser tratado con el debido respeto a la dignidad inherente al ser humano que incluye el derecho a que se proteja su integridad personal.
 
 46
 
@@ -1023,21 +1035,21 @@ Las y los adolescentes sujetos a la Justicia Penal de Adolescente gozarán de lo
 
 [[START OF PAGE 47]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- A ser informado del motivo de su detención y de la autoridad responsable de la misma; al derecho a permanecer en silencio y a solicitar la presencia inmediata de su madre, padre, tutor y su defensor, so  pena  de  nulidad  de  todo  lo  actuado  por  la autoridad, funcionario o empleado que lo realizare n o produciendo efecto alguno en juicio o fuera de él.
+b) A ser informado del motivo de su detención y de la autoridad responsable de la misma; al derecho a permanecer en silencio y a solicitar la presencia inmediata de su madre, padre, tutor y su defensor, so pena de nulidad de todo lo actuado por la autoridad, funcionario o empleado que lo realizare no produciendo efecto alguno en juicio o fuera de él.
 
-- A que se le presuma inocente hasta tanto no se le  compruebe  mediante  sentencia  firme,  por  los medios establecidos en este Código u otros medios legales, los hechos que se le atribuyen.
+c) A que se le presuma inocente hasta tanto no se le compruebe mediante sentencia firme, por los medios establecidos en este Código u otros medios legales, los hechos que se le atribuyen.
 
-- A  tener  un  proceso  justo,  oral,  reservado,  sin demora,  ante  el  Juzgado  Penal  de  Distrito  del Adolescente.
+d) A tener un proceso justo, oral, reservado, sin demora, ante el Juzgado Penal de Distrito del Adolescente.
 
-- A recibir información clara y precisa del Juzgado Penal de Distrito del Adolescente, sobre el significado de cada una de las actuaciones procesales  que  se  desarrollen  en  su  presencia, así como el contenido y las razones, incluso ético sociales  de  las  decisiones,  de  tal  forma  que  el procedimiento  cumpla  su  función  educativa,  so pena de nulidad de lo actuado.
+e) A recibir información clara y precisa del Juzgado Penal de Distrito del Adolescente, sobre el significado de cada una de las actuaciones procesales que se desarrollen en su presencia, así como el contenido y las razones, incluso ético sociales de las decisiones, de tal forma que el procedimiento cumpla su función educativa, so pena de nulidad de lo actuado.
 
-- A que se procure un arreglo conciliatorio con la víctima u ofendido.
+f) A que se procure un arreglo conciliatorio con la víctima u ofendido.
 
-- A que toda medida que se le imponga tenga como fin primordial su educación.
+g) A que toda medida que se le imponga tenga como fin primordial su educación.
 
-- A que toda limitación, privación o restricción de sus derechos, libertades y garantías, sea ordenada judicialmente.
+h) A que toda limitación, privación o restricción de sus derechos, libertades y garantías, sea ordenada judicialmente.
 
 47
 
@@ -1045,13 +1057,13 @@ Código de la Niñez y la Adolescencia · Ley No. 287
 
 [[START OF PAGE 48]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- A no ser ingresado a una institución sino mediante orden escrita del Juez competente, como medida excepcional y por el tiempo más breve posible.
+i) A no ser ingresado a una institución sino mediante orden escrita del Juez competente, como medida excepcional y por el tiempo más breve posible.
 
-- A  no  ser  perseguido  y  procesado  más  de  una vez por el mismo hecho aunque se modifique la calificación legal.
+j) A no ser perseguido y procesado más de una vez por el mismo hecho aunque se modifique la calificación legal.
 
-- A ser asistido gratuitamente por intérprete cuando no comprenda o no hable el idioma empleado por el tribunal u autoridades competentes.
+k) A ser asistido gratuitamente por intérprete cuando no comprenda o no hable el idioma empleado por el tribunal u autoridades competentes.
 
 ##### Arto. 102
 Durante la investigación, la tramitación del proceso y la ejecución de las medidas, se le respetará a  todo  adolescente  el  derecho  a  la  igualdad  ante  la Ley,  a  igual  protección  y  a  la  no-discriminación  por ningún motivo. En consecuencia, se deberá respetar las creencias religiosas y culturales y preceptos morales de los adolescentes.
@@ -1059,7 +1071,7 @@ Durante la investigación, la tramitación del proceso y la ejecución de las me
 ##### Arto.103
 Ningún  adolescente  puede  ser  sometido  a detención, encarcelamiento o prisión arbitraria o ilegal, ni ser privado de su libertad, salvo por causas fijadas por la Ley, con arreglo a un procedimiento legal y por la orden de autoridad competente; ni a ser limitado en el  ejercicio  de  sus  derechos  y  libertades  y  garantías más allá de los fines, alcances y contenidos de cada una  de  las  medidas  que  se  le  deban  de  imponer, de conformidad a la Justicia Penal especial del Adolescente.
 
-Ningún adolescente puede ser sometido a proceso ni condenado  por  un  acto  u  omisión  que  al  tiempo  de producirse,  no  esté  previamente  tipificado  en  la  Ley Penal de manera expresa e inequívoca como delito o falta, ni sometido a medidas o sanciones que aquella no haya establecido previamente.
+Ningún adolescente puede ser sometido a proceso ni condenado por un acto u omisión que al tiempo de producirse, no esté previamente tipificado en la Ley Penal de manera expresa e inequívoca como delito o
 
 48
 
@@ -1067,7 +1079,9 @@ Ningún adolescente puede ser sometido a proceso ni condenado  por  un  acto  u 
 
 [[START OF PAGE 49]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+falta, ni sometido a medidas o sanciones que aquella no haya establecido previamente.
 
 ##### Arto. 104
 Ningún adolescente está obligado a prestar  testimonio,  ni  declarar  contra  sí  mismo,  sus ascendientes, inclusive hasta el cuarto grado de consanguinidad y segundo de afinidad, ni a confesarse responsable.
@@ -1084,7 +1098,7 @@ Lo anterior es sin perjuicio de la información que los Juzgados Penales Especia
 Todo  adolescente  tiene  el  derecho  de  ser asistido  y  asesorado  por  un  defensor  desde  su  detención, investigación y durante el proceso. El adolescente tiene derecho  a  comunicarse  libre  y  privadamente  con  su defensor.
 
 ##### Arto.  108
-Todo  adolescente  tiene  derecho  a  ser oído, a disponer de tiempo y medios adecuados para su  defensa,  a  presentar  las  pruebas,  interrogar  a  los testigos  y  refutar  los  argumentos  necesarios  para  su defensa y a rebatir todo aquello que le sea contrario. Lo anterior está garantizado por la intervención de un defensor y del representante de la Procuraduría General de Justicia.
+Todo adolescente tiene derecho a ser oído, a disponer de tiempo y medios adecuados para
 
 49
 
@@ -1092,7 +1106,9 @@ Todo  adolescente  tiene  derecho  a  ser oído, a disponer de tiempo y medios a
 
 [[START OF PAGE 50]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+su defensa, a presentar las pruebas, interrogar a los testigos y refutar los argumentos necesarios para su defensa y a rebatir todo aquello que le sea contrario. Lo anterior está garantizado por la intervención de un defensor y del representante de la Procuraduría General de Justicia.
 
 ##### Arto.  109
 No  se podrán imponer, bajo ninguna circunstancia, sanciones indeterminadas.
@@ -1111,11 +1127,11 @@ De  ser  detenido  por  la  policía,  en  los  casos  de flagrante  delito,  é
 
 [[START OF PAGE 51]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ### TITULO II ORGANOS Y SUJETOS QUE INTERVIENEN EN EL PROCESO
 
-#### CAPITULO I ORGANOS ENCARGADOS D E ADMINISTRAR LA JUSTICIA PENAL DEL ADOLESCENTE
+#### CAPITULO I ORGANOS ENCARGADOS DE ADMINISTRAR LA JUSTICIA PENAL DEL ADOLESCENTE
 
 ##### Arto.  112
 Sobre  los  delitos  y  faltas  cometidos  por adolescentes  conocen  y  resuelven  Juzgados  Penales de Distrito de Adolescentes en primera instancia y los Tribunales  de  Apelaciones  en  segunda  instancia.  La Corte Suprema de Justicia es competente para conocer de los recursos extraordinarios de casación y revisión.
@@ -1131,28 +1147,28 @@ La Corte Suprema de Justicia a más tardar en un plazo de dieciocho meses despu�
 
 [[START OF PAGE 52]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 114
 El Juzgado Penal de Distrito del Adolescente es competente para:
 
-- Conocer en primera instancia de las acusaciones atribuidas a adolescentes por la comisión o participación en delitos o faltas.
+a) Conocer en primera instancia de las acusaciones atribuidas a adolescentes por la comisión o participación en delitos o faltas.
 
-- Resolver  todos  los  asuntos  dentro  de  los  plazos fijados  por  este  Código,  por  medio  de  autos  y sentencias.
+b) Resolver todos los asuntos dentro de los plazos fijados por este Código, por medio de autos y sentencias.
 
-- Decidir  sobre  cualquier  medida  que  restrinja  o afecte  un  derecho  o  libertad  fundamental  del acusado.
+c) Decidir sobre cualquier medida que restrinja o afecte un derecho o libertad fundamental del acusado.
 
-- Decidir bajo el criterio de culpabilidad, proporcionalidad y racionalidad las medidas socio educativas o de privación de libertad.
+d) Decidir bajo el criterio de culpabilidad, proporcionalidad y racionalidad las medidas socio educativas o de privación de libertad.
 
-- Realizar la audiencia de conciliación y aprobar lo resuelto en ella en caso de que las partes lleguen a un acuerdo.
+e) Realizar la audiencia de conciliación y aprobar lo resuelto en ella en caso de que las partes lleguen a un acuerdo.
 
-- Aprobar la suspensión de procedimientos siempre que se cumpla con los requisitos fijados por este Código.
+f) Aprobar la suspensión de procedimientos siempre que se cumpla con los requisitos fijados por este Código.
 
-- Revisar,  aprobar  o  modificar  la  decisión  que  en aplicación del principio de oportunidad ha tomado la Procuraduría General de Justicia.
+g) Revisar, aprobar o modificar la decisión que en aplicación del principio de oportunidad ha tomado la Procuraduría General de Justicia.
 
-- Informar a la autoridad administrativa de la acusación promovida contra los adolescentes.
+h) Informar a la autoridad administrativa de la acusación promovida contra los adolescentes.
 
-- Las  demás  que  este  Código  y  demás  leyes  le asignen.
+i) Las demás que este Código y demás leyes le asignen.
 
 52
 
@@ -1160,7 +1176,7 @@ El Juzgado Penal de Distrito del Adolescente es competente para:
 
 [[START OF PAGE 53]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto. 115
 Los Tribunales de Apelación conocerán en segunda instancia de los casos relativos a la Justicia Penal  Especial  del  Adolescente.  En  cada  Sala  de  lo Penal, uno de los Magistrados deberá ser especialista en la materia. Es función del Tribunal de Apelaciones controlar  el  cumplimiento  de  los  plazos  previstos  en este  Código,  sobre  la  justicia  penal  especializada  del adolescentes.
@@ -1174,7 +1190,7 @@ Las  causas  de  impedimento,  excusa  y recusación  para  los  funcionarios  e
 #### CAPITULO II SUJETOS PROCESALES
 
 ##### Arto.  118
-Todo  adolescente  a  quien  se  atribuye  la comisión  o  participación  en  un  delito  o  falta,  tendrá derecho  desde  su  detención  e  investigación  a  ser representado  y  oído  en  el  ejercicio  de  su  defensa,  a contar con las garantías del debido proceso, a proponer prueba e interponer  recursos,  y  a  que  se  motive  la  medida que se aplicará, so pena de nulidad, sin perjuicio de los demás  derechos  reconocidos  en  el  presente  Código.
+Todo adolescente a quien se atribuye la comisión o participación en un delito o falta, tendrá derecho desde su detención e investigación a ser representado y oído en el ejercicio de su defensa, a
 
 53
 
@@ -1182,7 +1198,9 @@ Todo  adolescente  a  quien  se  atribuye  la comisión  o  participación  en  
 
 [[START OF PAGE 54]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+contar con las garantías del debido proceso, a proponer prueba e interponer recursos, y a que se motive la medida que se aplicará, so pena de nulidad, sin perjuicio de los demás derechos reconocidos en el presente Código.
 
 ##### Arto. 119
 Será declarado rebelde el adolescente que, sin grave y legítimo impedimento, no compareciere a la citación judicial, se fugare del establecimiento o lugar en el que estuviere detenido o se ausentare del lugar asignado para su residencia.
@@ -1198,7 +1216,7 @@ La  víctima  u  ofendido  será  tenido  como parte  en  el  proceso  y  podrá
 ##### Arto. 122
 Desde el inicio de la investigación y durante todo  el  proceso,  el  adolescente  deberá  ser  asistido y  asesorado  por  un  defensor  y  no  podrá  recibírsele ninguna declaración sin la asistencia de éste, so pena de nulidad.
 
-El  acusado,  su  madre,  padre  o  tutores  podrán  nombrar  un defensor particular. En caso de no contar con recursos económicos el Estado, a través de la Defensoría Pública le  brindará  un  defensor  público  especializado  en  la materia.
+El acusado, su madre, padre o tutores podrán nombrar un defensor particular. En caso de no contar con recursos
 
 54
 
@@ -1206,7 +1224,9 @@ El  acusado,  su  madre,  padre  o  tutores  podrán  nombrar  un defensor parti
 
 [[START OF PAGE 55]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+económicos el Estado, a través de la Defensoría Pública le brindará un defensor público especializado en la materia.
 
 ##### Arto.  123
 Corresponde  a  la  Procuraduría  General  de Justicia el ejercicio de la acción penal pública, en el caso de la Justicia Penal Especializada del Adolescente, salvo las excepciones establecidas en la legislación Procesal y en este Código. Para tal efecto la Procuraduría contará con Procuradores especializados en la materia.
@@ -1214,19 +1234,19 @@ Corresponde  a  la  Procuraduría  General  de Justicia el ejercicio de la acci�
 ##### Arto. 124
 Son funciones de la Procuraduría General de Justicia:
 
-- Velar por el cumplimiento de las disposiciones del presente Código.
+a) Velar por el cumplimiento de las disposiciones del presente Código.
 
-- Realizar las investigaciones de los delitos o faltas cometidos por adolescentes.
+b) Realizar las investigaciones de los delitos o faltas cometidos por adolescentes.
 
-- Promover la acción penal o abstenerse de ello.
+c) Promover la acción penal o abstenerse de ello.
 
-- Solicitar y aportar pruebas, lo mismo que participar en su producción cuando proceda.
+d) Solicitar y aportar pruebas, lo mismo que participar en su producción cuando proceda.
 
-- Solicitar,  cuando  proceda,  la  cesación,  modificación o sustitución de las medidas decretadas e interponer recursos legales.
+e) Solicitar, cuando proceda, la cesación, modificación o sustitución de las medidas decretadas e interponer recursos legales.
 
-- Velar por el cumplimiento de las funciones de la policía.
+f) Velar por el cumplimiento de las funciones de la policía.
 
-- Las demás que este Código u otras leyes le fijen.
+g) Las demás que este Código u otras leyes le fijen.
 
 ##### Arto.  125
 La  Procuraduría  General  de  Justicia  podrá abstenerse de ejercer la acción penal en los siguientes casos:
@@ -1237,11 +1257,11 @@ La  Procuraduría  General  de  Justicia  podrá abstenerse de ejercer la acció
 
 [[START OF PAGE 56]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Cuando se trate de faltas o delitos que merezcan penas correccionales.
+a) Cuando se trate de faltas o delitos que merezcan penas correccionales.
 
-- Cuando se trate de delitos culposos entre parientes dentro  del  cuarto  grado  de  consanguinidad  o segundo  de  afinidad  y  que  sea  evidente  que  la Justicia Penal Especial del adolescente n o cumplirá con los fines establecidos en este Código.
+b) Cuando se trate de delitos culposos entre parientes dentro del cuarto grado de consanguinidad o segundo de afinidad y que sea evidente que la Justicia Penal Especial del adolescente no cumplirá con los fines establecidos en este Código.
 
 En los casos anteriores, será necesario que el adolescente  hubiere  reparado  o  haya  dado  muestras de esfuerzo por reparar el daño ocasionado o bien que exista un acuerdo con el ofendido o sus representantes en ese sentido.
 
@@ -1261,15 +1281,15 @@ Durante este plazo la Policía Nacional en sus actuaciones deberá:
 
 [[START OF PAGE 57]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Proteger la dignidad e integridad física, mental y moral del adolescente.
+a) Proteger la dignidad e integridad física, mental y moral del adolescente.
 
-- Informarle del motivo de la privación de su libertad y  proceder  a  solicitar  la  presencia  de  su  madre, padre  o  tutores  y  de  la  Procuraduría  General  de Justicia.
+b) Informarle del motivo de la privación de su libertad y proceder a solicitar la presencia de su madre, padre o tutores y de la Procuraduría General de Justicia.
 
-- No recluir al adolescente en un centro de detención con personas adultas.
+c) No recluir al adolescente en un centro de detención con personas adultas.
 
-- Advertir del derecho que tiene a guardar silencio y que cualquier declaración brindada por  el  adolescente  ante  la  Policía  Nacional  no tendrá valor o efecto alguno, dentro o fuera del proceso.
+d) Advertir del derecho que tiene a guardar silencio y que cualquier declaración brindada por el adolescente ante la Policía Nacional no tendrá valor o efecto alguno, dentro o fuera del proceso.
 
 ### TITULO III DE LOS PROCEDIMIENTOS
 
@@ -1279,7 +1299,7 @@ Código de la Niñez y la Adolescencia · Ley No. 287
 El proceso penal de adolescentes tiene como objetivo establecer la existencia de un hecho delictivo, determinar quien es su autor o partícipe y ordenar la aplicación de las medidas correspondientes. Asimismo buscará la reinserción del adolescente, en su familia y en la sociedad, según los principios rectores establecidos en este Código.
 
 ##### Arto. 129
-La  calificación  legal  de  los  delitos  o  faltas cometidas  por  adolescentes  se  determinará  por  la tipificación  establecida  en  el  Código  Penal  y  en  las leyes especiales.
+La calificación legal de los delitos o faltas cometidas por adolescentes se determinará por la
 
 57
 
@@ -1287,7 +1307,9 @@ La  calificación  legal  de  los  delitos  o  faltas cometidas  por  adolescent
 
 [[START OF PAGE 58]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+tipificación establecida en el Código Penal y en las leyes especiales.
 
 ##### Arto.  130
 La  edad  del  adolescente  se  acreditará  mediante certificado de nacimiento del Registro del Estado Civil de las personas o del Registro Central de Personas. En caso de extranjeros se pedirá información a la embajada o delegación del país de origen del adolescente. En todo caso,  podrá  lograrse  la  comprobación  mediante  cualquier documento oficial. En caso de no poderse acreditar la edad del adolescente se aplicará lo establecido por el artículo 97 de este Código.
@@ -1299,7 +1321,7 @@ Si  en  el  transcurso  del  procedimiento  se comprueba, que la persona a quien
 Las actuaciones que se remitan por causas de incompetencia, tanto en la jurisdicción penal especial del adolescente,  como  en  la jurisdicción ordinaria, serán válidas para su utilización en cada uno de los procesos, siempre que no contravengan los fines de este Código y los derechos fundamentales de los adolescentes.
 
 ##### Arto.  133
-Cuando  en  un  mismo  delito  intervengan uno  o  más  adolescentes  con  uno  o  varios  adultos, las  causas  se  separarán  y  los  expedientes  de  los adultos se remitirán a la jurisdicción penal común. Para mantener  en  lo  posible  la  conexidad  en  estos  casos los distintos Juzgados quedarán obligados a remitirse, recíprocamente, copias certificadas de los documentos que acrediten las pruebas y las actuaciones pertinentes, firmadas por el secretario.
+Cuando en un mismo delito intervengan uno o más adolescentes con uno o varios adultos, las causas se separarán y los expedientes de los adultos se remitirán a la jurisdicción penal común. Para mantener en lo posible la conexidad en estos casos los distintos Juzgados quedarán obligados a remitirse, recíprocamente, copias certificadas de los documentos
 
 58
 
@@ -1307,7 +1329,9 @@ Cuando  en  un  mismo  delito  intervengan uno  o  más  adolescentes  con  uno 
 
 [[START OF PAGE 59]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+que acrediten las pruebas y las actuaciones pertinentes, firmadas por el secretario.
 
 ##### Arto.  134
 Si  el  hecho  investigado  es  atribuido  a  un adolescente ausente se recabarán los indicios y evidencias y, si procede, se promoverá la acción.
@@ -1320,7 +1344,7 @@ Cuando  uno  o  varios  actos  deban  ser transcritos, el funcionario que los pr
 De  tratarse  de  actos  sucesivos  llevados  a  cabo  en lugares o fechas distintas se levantarán las actas que sean necesarias.
 
 ##### Arto. 136
-Todos los días y horas establecidos en este Código serán hábiles. Cuando se trate de adolescentes privados  de  libertad  los  plazos  serán  improrrogables y a su vencimiento se dejará sin efecto la detención. Cuando  el  adolescente  se  encuentre  en  libertad  los plazos  serán  prorrogables  por  la  mitad  de  los  plazos procesales  establecidos  en  este  Código,  siempre  y cuando se soliciten antes del vencimiento del término principal.
+Todos los días y horas establecidos en este Código serán hábiles. Cuando se trate de adolescentes privados de libertad los plazos serán improrrogables y a su vencimiento se dejará sin efecto la detención. Cuando el adolescente se encuentre en libertad los
 
 59
 
@@ -1328,7 +1352,9 @@ Todos los días y horas establecidos en este Código serán hábiles. Cuando se 
 
 [[START OF PAGE 60]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+plazos serán prorrogables por la mitad de los plazos procesales establecidos en este Código, siempre y cuando se soliciten antes del vencimiento del término principal.
 
 ##### Arto. 137
 Cuando este Código no establezca plazo, la autoridad judicial encargada de realizar el acto estará facultada  para  fijarlo  racionalmente  conforme  a  la naturaleza del procedimiento y a la importancia de la actividad que deba cumplirse y de conformidad con el interés superior del adolescente.
@@ -1344,7 +1370,7 @@ Los funcionarios de la Procuraduría General de Justicia  tendrán  la  obligaci
 
 No obstante, podrán solicitar al Juez Penal de Distrito del  Adolescente  que  limite  la  acción  penal  a  una  o varias  infracciones  o  a  alguna  de  las  personas  que hayan participado en el hecho en los siguientes casos:
 
-- Cuando se trate de una falta o delito que merezca pena correccional y haya participado como encubridor.
+a) Cuando se trate de una falta o delito que merezca pena correccional y haya participado como encubridor.
 
 60
 
@@ -1352,11 +1378,11 @@ No obstante, podrán solicitar al Juez Penal de Distrito del  Adolescente  que  
 
 [[START OF PAGE 61]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Cuando el  adolescente  haya  sufrido,  a  consecuencia del  hecho,  un  daño  físico,  psicológico  o  moral grave.
+b) Cuando el adolescente haya sufrido, a consecuencia del hecho, un daño físico, psicológico o moral grave.
 
-- Cuando las medidas que se espera, por la infracción de  cuya  persecución  se  prescinde,  carezcan  de importancia  en  consideración  a  la  medida  ya  impuesta o a  la  que  se  debe  esperar  por  los  restantes  hechos  o infracciones.
+c) Cuando las medidas que se espera, por la infracción de cuya persecución se prescinde, carezcan de importancia en consideración a la medida ya impuesta o a la que se debe esperar por los restantes hechos o infracciones.
 
 ##### Arto.  141
 En  los  casos  señalados  en  el  artículo anterior, si la acción ya ha sido ejercida, el Juez Penal de Distrito del Adolescente, de oficio o a solicitud de la  Procuraduría  General  de  Justicia,  podrá  dictar  el desistimiento en cualquier etapa del proceso.
@@ -1371,7 +1397,7 @@ El  proceso  penal  especial  del  adolescente  en  primera instancia, no podrá
 ##### Arto.  143
 El  Juez  Penal  de  Distrito  del  Adolescente podrá  decretar,  la  detención  provisional  como  una medida cautelar cuando se presenten cualquiera de las circunstancias siguientes:
 
-- Cuando se presuma gravemente su participación en un hecho ilícito.
+a) Cuando se presuma gravemente su participación en un hecho ilícito.
 
 61
 
@@ -1379,11 +1405,11 @@ El  Juez  Penal  de  Distrito  del  Adolescente podrá  decretar,  la  detenció
 
 [[START OF PAGE 62]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Cuando  exista  el  riesgo  razonable  de  que  el adolescente evada la acción de la justicia.
+b) Cuando exista el riesgo razonable de que el adolescente evada la acción de la justicia.
 
-- En los casos de flagrante delito.
+c) En los casos de flagrante delito.
 
 La  detención  provisional  se  practicará  en  los  centros respectivos.
 
@@ -1398,7 +1424,7 @@ La  conciliación  es  un  acto  jurisdiccional voluntario  entre  el  ofendido 
 El  arreglo  conciliatorio  procede  de  oficio,  a  instancia del acusado o a petición del ofendido, siempre que  existan  indicios  o  evidencias  de  la  autoría  o participación  del  adolescente  sin  que  ello  implique aceptación  de  la  comisión  del  hecho  por  parte  del acusado.
 
 ##### Arto.  146
-Durante los diez días posteriores al establecimiento  de  la  acusación  y  siempre  que  sea posible, por la existencia de la persona ofendida, el Juez Penal de Distrito del Adolescente citará a las partes a una audiencia de conciliación.
+Durante los diez días posteriores al establecimiento de la acusación y siempre que sea posible, por la existencia de la persona ofendida, el Juez
 
 62
 
@@ -1406,9 +1432,11 @@ Durante los diez días posteriores al establecimiento  de  la  acusación  y  si
 
 [[START OF PAGE 63]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-El Juez Penal de Distrito del Adolescente, en su carácter de conciliador, invitará a las partes,  previamente asesoradas y a la  Procuraduría  General  de  Justicia  a un acuerdo.
+Penal de Distrito del Adolescente citará a las partes a una audiencia de conciliación.
+
+El Juez Penal de Distrito del Adolescente, en su carácter de conciliador, invitará a las partes, previamente asesoradas y a la Procuraduría General de Justicia a un acuerdo.
 
 El  Juez  Penal  de  Distrito  del  Adolescente  podrá  de oficio o a petición de parte, promover un acuerdo de conciliación en cualquier otra etapa del proceso, en tanto no se haya decretado la resolución definitiva en primera instancia.
 
@@ -1429,7 +1457,7 @@ Si  se  llega  a  un  acuerdo  y  el  Juez  Penal  de  Distrito del  Adolescente
 
 [[START OF PAGE 64]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 En el acta de conciliación se determinarán las obligaciones pactadas, el plazo para su cumplimiento y  el  deber  de  informar  al  Juez  Penal  de  Distrito  del Adolescente y la Procuraduría General de Justicia sobre el cumplimiento de lo pactado.
 
@@ -1446,9 +1474,9 @@ La  investigación  se  iniciará  de  oficio  o  por  denuncia que deberá ser 
 ##### Arto.  152
 La  acción  penal  se  extinguirá  por las siguientes razones:
 
-- Sentencia firme.
+a) Sentencia firme.
 
-- Muerte del Adolescente.
+b) Muerte del Adolescente.
 
 64
 
@@ -1456,15 +1484,15 @@ La  acción  penal  se  extinguirá  por las siguientes razones:
 
 [[START OF PAGE 65]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Prescripción.
+c) Prescripción.
 
-- Renuncia o abandono de la causa, cuando se trate de delitos de acción privada.
+d) Renuncia o abandono de la causa, cuando se trate de delitos de acción privada.
 
-- Conciliación,  cuando  se  cumplan  los  acuerdos  o diligencias que ella establece.
+e) Conciliación, cuando se cumplan los acuerdos o diligencias que ella establece.
 
-- Si después de seis meses de dictado el sobreseimiento provisional no se solicitare la reapertura del proceso.
+f) Si después de seis meses de dictado el sobreseimiento provisional no se solicitare la reapertura del proceso.
 
 ##### Arto. 153
 Una vez establecida la denuncia, por cualquier medio,  deberá  iniciarse  una  investigación  con  una duración no mayor de diez días que tendrá por objeto determinar la existencia del hecho, así como establecer los autores y partícipes. También se verificará el daño causado por el delito.
@@ -1472,7 +1500,7 @@ Una vez establecida la denuncia, por cualquier medio,  deberá  iniciarse  una  
 ##### Arto.  154
 La  Procuraduría  General  de  Justicia  es  el órgano  encargado  de  realizar  la  investigación  y  de formular la acusación cuando exista mérito para hacerlo. Además  aportará  las pruebas que demuestren  la responsabilidad del adolescente. Todo esto sin perjuicio del derecho que la víctima u ofendido tiene de acusar directamente  o  por  medio  de  un  representante  legal en los casos de los delitos de acción privada y acción pública a instancias privadas, ante el Juez respectivo con las facultades, atribuciones y responsabilidades de la  Procuraduría  General  de  Justicia  y  del  derecho  de recurrir a la vía civil correspondiente, en cualquier clase de delitos.
 
-El  Juez  Penal  de  Distrito  del  Adolescente  será  el encargado  de  valorar  el  contenido  de  la  acusación y  controlar  la  legalidad  de  la  actividad  de  la  parte acusadora.
+El Juez Penal de Distrito del Adolescente será el encargado de valorar el contenido de la acusación
 
 65
 
@@ -1480,16 +1508,18 @@ El  Juez  Penal  de  Distrito  del  Adolescente  será  el encargado  de  valora
 
 [[START OF PAGE 66]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+y controlar la legalidad de la actividad de la parte acusadora.
 
 ##### Arto.  155
 Finalizada  la  investigación,  el  Procurador General  de  Justicia  podrá  solicitar  al  Juez  Penal  de Distrito del Adolescente:
 
-- La apertura del proceso, formulando la acusación si estima  que  la  investigación  proporciona  fundamento suficiente, y la aplicación de la medidacor respondiente.
+a) La apertura del proceso, formulando la acusación si estima que la investigación proporciona fundamento suficiente, y la aplicación de la medidacor respondiente.
 
-- La  desestimación  del  proceso,  cuando  considere que  no  existe  fundamento  para  promover  la acusación, que  debe  aplicarse un  criterio  de oportunidad o por cualquier condición objetiva o subjetiva de los hechos.
+b) La desestimación del proceso, cuando considere que no existe fundamento para promover la acusación, que debe aplicarse un criterio de oportunidad o por cualquier condición objetiva o subjetiva de los hechos.
 
-- El sobreseimiento provisional o definitivo.
+c) El sobreseimiento provisional o definitivo.
 
 ##### Arto. 156
 Durante la fase de investigación la Procuraduría General de Justicia podrá solicitar al Juez que restrinja los derechos fundamentales del acusado y aquel resolverá de conformidad con la Ley. La solicitud del  Procurador  para  la  emisión  de  la  orden  del  Juez deberá  ser  motivada,  so  pena  de  que  el  Juez  no  la atienda.
@@ -1497,7 +1527,7 @@ Durante la fase de investigación la Procuraduría General de Justicia podrá so
 ##### Arto.  157
 El  escrito  de  acusación  deberá  reunir  los siguientes requisitos:
 
-- Las condiciones personales del adolescente acusado, o si se ignoraren, las señas o datos que lo puedan identificar.
+a) Las condiciones personales del adolescente acusado, o si se ignoraren, las señas o datos que lo puedan identificar.
 
 66
 
@@ -1505,21 +1535,21 @@ El  escrito  de  acusación  deberá  reunir  los siguientes requisitos:
 
 [[START OF PAGE 67]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- La edad y el domicilio del adolescente si se cuenta con esa información.
+b) La edad y el domicilio del adolescente si se cuenta con esa información.
 
-- Los datos personales de la víctima.
+c) Los datos personales de la víctima.
 
-- La  relación  de  los  hechos,  con  indicación,  si  es posible, del tiempo y modo de ejecución.
+d) La relación de los hechos, con indicación, si es posible, del tiempo y modo de ejecución.
 
-- La  indicación  y  aporte  de  todas  las  pruebas evacuadas durante la etapa de investigación.
+e) La indicación y aporte de todas las pruebas evacuadas durante la etapa de investigación.
 
-- La calificación provisional del presunto delito cometido.
+f) La calificación provisional del presunto delito cometido.
 
-- La obligación de probar el delito o falta.
+g) La obligación de probar el delito o falta.
 
-- Cualquier otro dato o información que la Procuraduría General de Justicia considere indispensable para mantener la acusación.
+h) Cualquier otro dato o información que la Procuraduría General de Justicia considere indispensable para mantener la acusación.
 
 ##### Arto. 158
 Si no corresponde dictar el sobreseimiento definitivo y los elementos de prueba resultan insuficientes  para  realizar  el  juicio,  se  ordenará  el sobreseimiento  provisional,  mediante  auto  fundado que mencione concretamente los elementos de prueba específicos que se espera incorporar. En tales casos, se  hará  cesar  cualquier  medida  cautelar  impuesta  al adolescente.
@@ -1534,16 +1564,16 @@ Si dentro de los seis meses de dictado el sobreseimiento provisional  no  se  so
 
 [[START OF PAGE 68]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  159
 El  sobreseimiento  definitivo  procederá  en cualquier estado del proceso cuando:
 
-- No existan  pruebas  suficientes  de  la  responsabilidad del adolescente ni comprobación del delito o falta que se le imputa.
+a) No existan pruebas suficientes de la responsabilidad del adolescente ni comprobación del delito o falta que se le imputa.
 
-- Se dicte una Ley de indulto o de amnistía que le beneficie.
+b) Se dicte una Ley de indulto o de amnistía que le beneficie.
 
-- Se produzca el fallecimiento del adolescente.
+c) Se produzca el fallecimiento del adolescente.
 
 ##### Arto. 160
 Cuando el representante de la Procuraduría General  de  Justicia  solicite  la  desestimación  o  el sobreseimiento,  el  Juez  Penal  de  Distrito  del  Adolescente, previo  dictamen  de  la  víctima  u  ofendido  resolverá conforme a Derecho. De la resolución, la Procuraduría y la víctima u ofendido podrán recurrir de apelación, la cual se tramitará conforme al procedimiento ordinario del presente Código.
@@ -1562,7 +1592,7 @@ Cuando  la  libertad  del  adolescente  no  se  encuentre restringida,  la  decl
 
 [[START OF PAGE 69]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 después de la audiencia de conciliación. En los casos en que esta no proceda se realizará dentro de los cinco días siguientes de recibida la acusación.
 
@@ -1581,7 +1611,7 @@ La inobservancia de las garantías del presente artículo hará nula la actuaci�
 
 [[START OF PAGE 70]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  164
 La  Declaración  del  adolescente  mayor  de quince  años,  pero  menor  de  dieciocho  años  de  edad deberá realizarse en presencia de su defensor, la madre, padre, tutores, guardadores o representantes, cuando el  adolescente  lo  solicite.  También  deberá  asistir  el representante de la Procuraduría General de Justicia.
@@ -1603,7 +1633,7 @@ Admitida la procedencia de la acusación, en los casos en que se estime posible 
 
 [[START OF PAGE 71]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Las partes podrán ofrecer a su costa, prueba de peritos de  profesionales  privados. El estudio biosicosocial es  indispensable  para  dictar  la  resolución  final  en los  casos  señalados  en  el  párrafo  primero  de  este Artículo.
 
@@ -1624,7 +1654,7 @@ En  el  escrito  de  ofrecimiento  de  prueba  la Procuraduría General de Justi
 
 [[START OF PAGE 72]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  171
 Vencido  el  plazo  para  ofrecer  pruebas,  el Juez Penal de Distrito  del  Adolescente  dentro  de  las veinticuatro horas siguientes deberá pronunciarse, mediante  resolución  fundada,  sobre  la  admisión  o rechazo  de  ellas.  El  Juez  Penal  de  Distrito  del  Adolescente podrá rechazar la prueba manifiestamente impertinente y ordenar de oficio, la que considere necesaria.
@@ -1646,7 +1676,7 @@ El  Juez  Penal  de  Distrito  del  Adolescente  deberá preguntarle si comprend
 
 [[START OF PAGE 73]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 con  el  debate.  Si,  por  el  contrario,  manifiesta  no comprender o entender la acusación, volverá a explicarle el contenido de los hechos que se le atribuyen.
 
@@ -1670,7 +1700,7 @@ Si por el contrario, se modifican los cargos, nuevamente deberá oírse en decla
 
 [[START OF PAGE 74]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 a las partes que tienen derecho a pedir la suspensión de la audiencia para ofrecer nuevas pruebas o preparar la  defensa. El Juez Penal de Distrito del Adolescente deberá resolver inmediatamente sobre la suspensión y fijará nueva fecha para la continuación, dentro de un término que no exceda de ocho días.
 
@@ -1693,7 +1723,7 @@ Terminada la recepción de pruebas el Juez Penal de Distrito del Adolescente con
 
 [[START OF PAGE 75]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Las partes tendrán derecho a réplica, la cual se deberá limitar  a  la  refutación  de  los  argumentos  adversos presentados en las conclusiones.
 
@@ -1705,13 +1735,13 @@ Durante  los  ocho  días  posteriores  a  la  audiencia  el Juez  Penal  de  Di
 ##### Arto. 181
 La sentencia deberá contener los requisitos siguientes:
 
-- El  nombre  y  la  ubicación  del  Juzgado  Penal  de Distrito  del  Adolescente  que  dicta  resolución,  la fecha y hora en que se dicta.
+a) El nombre y la ubicación del Juzgado Penal de Distrito del Adolescente que dicta resolución, la fecha y hora en que se dicta.
 
-- Los datos personales del adolescente y cualquier otro dato de identificación relevante.
+b) Los datos personales del adolescente y cualquier otro dato de identificación relevante.
 
-- El  razonamiento  y  la  decisión  del  Juez  Penal  de Distrito  del  Adolescente  sobre  cada  una  de  las cuestiones planteadas durante la audiencia final, con exposición expresa de las consideraciones de hecho y de derecho en que se basan.
+c) El razonamiento y la decisión del Juez Penal de Distrito del Adolescente sobre cada una de las cuestiones planteadas durante la audiencia final, con exposición expresa de las consideraciones de hecho y de derecho en que se basan.
 
-- La  determinación  precisa  del  hecho  que  el  Juez Penal de Distrito del Adolescente tenga por probado o no probado.
+d) La determinación precisa del hecho que el Juez Penal de Distrito del Adolescente tenga por probado o no probado.
 
 75
 
@@ -1719,13 +1749,13 @@ La sentencia deberá contener los requisitos siguientes:
 
 [[START OF PAGE 76]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Las medidas legales aplicables.
+e) Las medidas legales aplicables.
 
-- La determinación clara, precisa y fundamentada de la  medida  impuesta.  Deberán  determinarse  el  tipo  de medida,  su  duración  y  el  lugar  donde  debe  ejecutarse.
+f) La determinación clara, precisa y fundamentada de la medida impuesta. Deberán determinarse el tipo de medida, su duración y el lugar donde debe ejecutarse.
 
-- La firma del Juez Penal de Distrito del Adolescente y el secretario.
+g) La firma del Juez Penal de Distrito del Adolescente y el secretario.
 
 ##### Arto.  182
 La  sentencia  definitiva  será  notificada  por escrito en el lugar señalado por las partes dentro de las veinticuatro horas de haberse dictado.
@@ -1746,7 +1776,7 @@ Las medidas ordenadas en forma definitiva prescribirán  en  un  término  igual
 
 [[START OF PAGE 77]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 #### CAPITULO IV RECURSOS
 
@@ -1756,24 +1786,24 @@ Las partes podrán recurrir de las resoluciones del Juzgado Penal de Distrito de
 ##### Arto. 186
 Son apelables las siguientes resoluciones:
 
-- La que resuelva el conflicto de competencia.
+a) La que resuelva el conflicto de competencia.
 
-- La que ordene una privación o restricción provisional a un derecho fundamental.
+b) La que ordene una privación o restricción provisional a un derecho fundamental.
 
-- La que rechace la admisión de un medio probatorio.
+c) La que rechace la admisión de un medio probatorio.
 
-- La que termine el proceso si se trata de faltas.
+d) La que termine el proceso si se trata de faltas.
 
-- La  que  modifique  o  sustituya  cualquier  tipo  de medida en la etapa de ejecución.
+e) La que modifique o sustituya cualquier tipo de medida en la etapa de ejecución.
 
-- La que declare la improcedencia de la acusación.
+f) La que declare la improcedencia de la acusación.
 
-- La Sentencia definitiva.
+g) La Sentencia definitiva.
 
-- Las demás que causen daño irreparable a cualquiera de las partes.
+h) Las demás que causen daño irreparable a cualquiera de las partes.
 
 ##### Arto. 187
-El Recurso de Apelación procede sólo por los medios y en los casos establecidos de modo expreso. Únicamente podrán recurrir quienes tengan un interés directo  en  el  asunto.  En  este  sentido,  se  consideran interesados directos: la Procuraduría General de Justicia, el  ofendido,  el  adolescente,  su  abogado defensor,  sus  padres, representantes  legales y la instancia administrativa correspondiente.
+El Recurso de Apelación procede sólo por los medios y en los casos establecidos de modo expreso. Únicamente podrán recurrir quienes tengan un interés directo en el asunto. En este sentido, se consideran interesados directos: la Procuraduría General de Justicia, el ofendido, el adolescente, su abogado
 
 77
 
@@ -1781,7 +1811,9 @@ El Recurso de Apelación procede sólo por los medios y en los casos establecido
 
 [[START OF PAGE 78]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+defensor, sus padres, representantes legales y la instancia administrativa correspondiente.
 
 ##### Arto.  188
 Este recurso deberá interponerse por escrito,  dentro  del  término  de  tres  días,  posterior  a la  notificación  de  la  Sentencia  ante  el  Juez  Penal  de Distrito del Adolescente que conoce del asunto.
@@ -1804,19 +1836,19 @@ El  Recurso  de  Casación  procederá  y  se tramitará  de  acuerdo  a  las  f
 
 [[START OF PAGE 79]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  191
 La  Corte  Suprema  de  Justicia  será  la competente  para  conocer  del  Recurso  de  Revisión y  procederá  por  los  motivos  fijados  en  la  legislación Procesal correspondiente.
 
-##### A rto. 192
+##### Arto. 192
 Pueden promover la revisión:
 
-- El adolescente sentenciado o su defensor.
+a) El adolescente sentenciado o su defensor.
 
-- Los  ascendientes,  los  hermanos,  hermanas  o  el tutor del adolescente.
+b) Los ascendientes, los hermanos, hermanas o el tutor del adolescente.
 
-- La Defensoría Pública.
+c) La Defensoría Pública.
 
 ### TITULO IV DE LAS MEDIDAS
 
@@ -1827,7 +1859,7 @@ Las medidas a aplicarse en el presente Libro deberán tener una finalidad primor
 
 La aplicación de las medidas por el Juez Penal de Distrito del Adolescente podrán ordenarse en forma provisional o  definitiva.  Asimismo  podrá  suspender,  revocar  o sustituir las medidas por otras más beneficiosas.
 
-El Juez Penal de Distrito del Adolescente podrá ordenar la  aplicación  de  las  medidas  previstas  en  el  presente Código en forma simultánea, sucesiva o alternativa.
+El Juez Penal de Distrito del Adolescente podrá ordenar la aplicación de las medidas previstas en el presente
 
 79
 
@@ -1835,27 +1867,29 @@ El Juez Penal de Distrito del Adolescente podrá ordenar la  aplicación  de  la
 
 [[START OF PAGE 80]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+Código en forma simultánea, sucesiva o alternativa.
 
 ##### Arto. 194
 Para determinar la medida aplicable se debe tener en cuenta:
 
-- La comprobación del acto delictivo.
+a) La comprobación del acto delictivo.
 
-- La comprobación de que el adolescente ha participado en el hecho delictivo.
+b) La comprobación de que el adolescente ha participado en el hecho delictivo.
 
-- La naturaleza del delito o falta cometido.
+c) La naturaleza del delito o falta cometido.
 
-- La capacidad para cumplir la medida, la proporcionalidad e idoneidad de ésta.
+d) La capacidad para cumplir la medida, la proporcionalidad e idoneidad de ésta.
 
-- La edad del adolescente.
+e) La edad del adolescente.
 
-- Los  esfuerzos  del  adolescente  por  reparar  los daños.
+f) Los esfuerzos del adolescente por reparar los daños.
 
 ##### Arto. 195
 Comprobada la comisión o la participación del  adolescente  en  un  hecho  delictivo,  el  Juez  Penal de Distrito del Adolescente podrá aplicar los siguientes tipos de medidas:
 
-- Medidas socio-educativas:
+a) Medidas socio-educativas:
 
 - a.1 Orientación y apoyo socio-familiar.
 
@@ -1873,9 +1907,9 @@ Comprobada la comisión o la participación del  adolescente  en  un  hecho  del
 
 [[START OF PAGE 81]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Medidas de orientación y supervisión. El Juez Penal de  Distrito  del  Adolescente  podrá  imponer  las siguientes órdenes de orientación y supervisión:
+b) Medidas de orientación y supervisión. El Juez Penal de Distrito del Adolescente podrá imponer las siguientes órdenes de orientación y supervisión:
 
 - b.1 Instalarse en un lugar de residencia determinado cambiándose del original.
 
@@ -1905,7 +1939,7 @@ c) Medidas privativas de libertad:
 
 [[START OF PAGE 82]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 #### CAPITULO II DEFINICION DE MEDIDAS
 
@@ -1923,7 +1957,7 @@ La libertad asistida, cuya duración máxima será  de  dos  años,  consiste  e
 ##### Arto.  199
 La prestación de servicios a la comunidad consiste  en  realizar  tareas  gratuitas,  de  interés  general  en entidades  de  asistencia  pública  como  hospitales,  escuelas  y parques.
 
-Las  tareas  deberán  asignarse  según  las  aptitudes del  adolescente  y  se  cumplirán  durante  cuatro  horas semanales,  como  mínimo,  procurando  realizarse  los sábados, domingos y días feriados o en días hábiles, pero  sin  perjudicar  la  asistencia  a  la  escuela  o  a  la jornada normal de trabajo y que no impliquen riesgos o  peligros  para  el  adolescente  ni  menoscabo  a  su dignidad.
+Las tareas deberán asignarse según las aptitudes del adolescente y se cumplirán durante cuatro horas semanales, como mínimo, procurando realizarse los
 
 82
 
@@ -1931,7 +1965,9 @@ Las  tareas  deberán  asignarse  según  las  aptitudes del  adolescente  y  se
 
 [[START OF PAGE 83]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+sábados, domingos y días feriados o en días hábiles, pero sin perjudicar la asistencia a la escuela o a la jornada normal de trabajo y que no impliquen riesgos o peligros para el adolescente ni menoscabo a su dignidad.
 
 Los servicios a la comunidad deberán prestarse durante un período máximo de seis meses.
 
@@ -1946,7 +1982,7 @@ Las  órdenes  de  orientación  y  supervisión consisten en mandamientos o pro
 Si  se  incumple  cualquiera  de  estas  obligaciones,  el Juez Penal de Distrito del Adolescente podrá, de oficio o a petición de parte, modificar la orden o prohibición impuesta.
 
 ##### Arto.  202
-La  privación  de  libertad  es  toda  forma  de detención o encarcelamiento, así como el internamiento en un establecimiento público o privado del que no se permita salir al adolescente por su propia voluntad, por orden de cualquier autoridad judicial, administrativa u otra autoridad pública.
+La privación de libertad es toda forma de detención o encarcelamiento, así como el internamiento
 
 83
 
@@ -1954,7 +1990,9 @@ La  privación  de  libertad  es  toda  forma  de detención o encarcelamiento, 
 
 [[START OF PAGE 84]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+en un establecimiento público o privado del que no se permita salir al adolescente por su propia voluntad, por orden de cualquier autoridad judicial, administrativa u otra autoridad pública.
 
 La privación de libertad que el Juez Penal de Distrito del Adolescente ordena excepcionalmente, como última medida, se aplicará cuando  concurran las circunstancias establecidas para la privación de libertad por  orden  judicial  y  su  duración  será  por  el  menor tiempo posible.
 
@@ -1983,7 +2021,7 @@ a) Se cometa cualquiera de los siguientes delitos:
 
 [[START OF PAGE 85]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 -Lesiones graves.
 
@@ -2001,7 +2039,7 @@ Código de la Niñez y la Adolescencia · Ley No. 287
 
 -Envenenamiento  o  adulteramiento  de  agua potable,  bebidas,  comestibles  o  sustancias medicinales.
 
-- Cuando haya incumplido injustificadamente las  medidas  socio  educativas  o  las  órdenes  de orientación y supervisión impuestas. En este último caso la privación de libertad tendr á un máximo de tres meses.
+b) Cuando haya incumplido injustificadamente las medidas socio educativas o las órdenes de orientación y supervisión impuestas. En este último caso la privación de libertad tendrá un máximo de tres meses.
 
 ##### Arto.  204
 La  privación  de  libertad  domiciliaria  es  el  arresto del adolescente en su casa de habitación. De no poder cumplirse esta sanción en su casa de habitación, por razones de inconveniencia o imposibilidad, se practicará en la casa de cualquier familiar. Cuando no se cuente con ningún familiar, podrá ordenarse el arresto en una vivienda  de  comprobada  responsabilidad  y  solvencia moral, que se ocupe del cuidado del adolescente. En este último caso deberá oírse al adolescente y contar con el consentimiento de la familia receptora.
@@ -2014,7 +2052,7 @@ La privación de libertad domiciliaria no debe afectar el cumplimiento del  trab
 
 [[START OF PAGE 86]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 el cumplimiento de esta medida, cuya duración no será mayor de un año.
 
@@ -2031,9 +2069,9 @@ Al aplicar una medida de privación de libertad, el Juez Penal de Distrito del A
 ##### Arto.  207
 El  Juez  Penal  de  Distrito  del  Adolescente podrá ordenar la condena condicional de las medidas privativas de libertad por un período igual al doble de la medida impuesta, tomando en cuenta los siguientes supuestos:
 
-- Los esfuerzos del adolescente por reparar el daño causado.
+a) Los esfuerzos del adolescente por reparar el daño causado.
 
-- La naturaleza de los hechos cometidos.
+b) La naturaleza de los hechos cometidos.
 
 86
 
@@ -2041,11 +2079,11 @@ El  Juez  Penal  de  Distrito  del  Adolescente podrá ordenar la condena condic
 
 [[START OF PAGE 87]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- La  conveniencia  para  el  desarrollo  educativo  o laboral del adolescente.
+c) La conveniencia para el desarrollo educativo o laboral del adolescente.
 
-- La situación familiar y social en que se desenvuelve.
+d) La situación familiar y social en que se desenvuelve.
 
 Si durante el cumplimiento de la ejecución condicional el adolescente comete un nuevo delito se le revocará la  ejecución  condicional  y  cumplirá  con  la  medida impuesta.
 
@@ -2066,24 +2104,24 @@ La  ejecución  de  las  medidas  se  realizará  mediante un plan individual de
 
 [[START OF PAGE 88]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Este plan comprenderá todos los factores individuales del adolescente para lograr los objetivos de la ejecución. El plan de ejecución deberá estar listo a más tardar un mes después el ingreso del sentenciado al centro de detención.
 
 ##### Arto.  211
 La  Oficina  de  Ejecución  y  Vigilancia  de las  Sanciones  Penales  a  los  adolescentes,  tendrá  las siguientes funciones:
 
-- Controlar  que  la  ejecución  de  cualquier  medida no  restrinja  derechos  fundamentales  que  no  se encuentren fijados en la sentencia condenatoria.
+a) Controlar que la ejecución de cualquier medida no restrinja derechos fundamentales que no se encuentren fijados en la sentencia condenatoria.
 
-- Controlar que el plan individual para la ejecución de la medidas esté acorde con los objetivos fijados en este Código.
+b) Controlar que el plan individual para la ejecución de la medidas esté acorde con los objetivos fijados en este Código.
 
-- Velar  porque  no  se  vulneren  los  derechos  del adolescente mientras cumple las medidas, especialmente en el caso del internamiento.
+c) Velar porque no se vulneren los derechos del adolescente mientras cumple las medidas, especialmente en el caso del internamiento.
 
-- Controlar que las medidas se cumplan de acuerdo con lo dispuesto en la resolución que las ordena.
+d) Controlar que las medidas se cumplan de acuerdo con lo dispuesto en la resolución que las ordena.
 
-- Revisar  las  medidas  por  lo  menos  una  vez  cada seis  meses,  para  recomendar  las  modificaciones o sustituirlas por otras menos graves, cuando no cumplan  con  los  objetivos  para  los  que  fueron impuestas,  o  por  ser  contrarias  al  proceso  de reinserción social del menor de edad.
+e) Revisar las medidas por lo menos una vez cada seis meses, para recomendar las modificaciones o sustituirlas por otras menos graves, cuando no cumplan con los objetivos para los que fueron impuestas, o por ser contrarias al proceso de reinserción social del menor de edad.
 
-- Recomendar  el  otorgamiento  o  denegación  de cualquier  beneficio  relacionado  con  las  medidas impuestas en sentencia.
+f) Recomendar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas impuestas en sentencia.
 
 88
 
@@ -2091,11 +2129,11 @@ La  Oficina  de  Ejecución  y  Vigilancia  de las  Sanciones  Penales  a  los  
 
 [[START OF PAGE 89]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Recomendar la cesación de la medida.
+g) Recomendar la cesación de la medida.
 
-- Las demás atribuciones que esta u otras leyes le asignen.
+h) Las demás atribuciones que esta u otras leyes le asignen.
 
 ##### Arto. 212
 Los funcionarios de los centros de adolescentes  serán  seleccionados  de  acuerdo  a  sus aptitudes  y  capacidades  idóneas  para  el  trabajo  con adolescentes. Para el trabajo en los centros de mujeres se preferirá, en igualdad de condiciones, a las mujeres.
@@ -2105,15 +2143,15 @@ En la parte interna de los centros, quedará estrictamente prohibida la portaci�
 ##### Arto.  213
 Durante  la  ejecución  de  las  medidas  el adolescente tendrá los siguientes derechos:
 
-- Derecho a la vida, la dignidad y la integridad física y moral.
+a) Derecho a la vida, la dignidad y la integridad física y moral.
 
-- Derecho  a  la  igualdad  ante  la  ley  y  a  no  ser  discriminado.
+b) Derecho a la igualdad ante la ley y a no ser discriminado.
 
-- Derecho a permanecer preferiblemente en su medio familiar,  si  este  reúne  los  requisitos  adecuados para el desarrollo del adolescente.
+c) Derecho a permanecer preferiblemente en su medio familiar, si este reúne los requisitos adecuados para el desarrollo del adolescente.
 
-- Derecho a recibir los servicios de salud, educativos y  sociales  adecuados  a  su  edad  y  condiciones y  a  ser  asistido  por  personas  con  la  formación profesional requerida.
+d) Derecho a recibir los servicios de salud, educativos y sociales adecuados a su edad y condiciones y a ser asistido por personas con la formación profesional requerida.
 
-- Derecho a recibir información, desde el inicio de la ejecución de la medida, sobre:
+e) Derecho a recibir información, desde el inicio de la ejecución de la medida, sobre:
 
 - e.1 Los reglamentos internos sobre comportamiento  y  vida  en  el  centro,  en
 
@@ -2123,7 +2161,7 @@ Durante  la  ejecución  de  las  medidas  el adolescente tendrá los siguientes
 
 [[START OF PAGE 90]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 - especial la  relativa  a  las  medidas  disciplinarias que  puedan  aplicársele,  las  que  deberán colocarse en lugar público y visible.
 
@@ -2133,13 +2171,13 @@ Código de la Niñez y la Adolescencia · Ley No. 287
 
 - e.4 La forma y los medios de comunicación con el mundo exterior, los permisos de salida y el régimen de visitas.
 
-- Derecho  a  presentar  peticiones  y  quejas  ante cualquier autoridad y a que se le garantice respuesta.
+f) Derecho a presentar peticiones y quejas ante cualquier autoridad y a que se le garantice respuesta.
 
-- Derecho a que se le mantenga, en cualquier caso, separado  de  los  delincuentes  condenados  por  la legislación penal común.
+g) Derecho a que se le mantenga, en cualquier caso, separado de los delincuentes condenados por la legislación penal común.
 
-- Derecho a que se le ubique en un lugar apto para el cumplimiento del plan de ejecución individual y a que no se le traslade arbitrariamente.
+h) Derecho a que se le ubique en un lugar apto para el cumplimiento del plan de ejecución individual y a que no se le traslade arbitrariamente.
 
-- Derecho a no ser incomunicado en ningún caso, ni sometido  al régimen  de  aislamiento, ni a la  imposición  de  penas  corporales.  Cuando  la incomunicación  o  el  aislamiento  deben  ser  aplicados para evitar actos de violencia contra el adolescente o terceros, esta medida se comunicará a la oficina de ejecución y vigilancia de la Procuraduría para la defensa de los Derechos Humanos, para que, de ser necesario, la revisen y la fiscalicen.
+i) Derecho a no ser incomunicado en ningún caso, ni sometido al régimen de aislamiento, ni a la imposición de penas corporales. Cuando la incomunicación o el aislamiento deben ser aplicados para evitar actos de violencia contra el adolescente o terceros, esta medida se comunicará a la oficina de ejecución y vigilancia de la Procuraduría para la defensa de los Derechos Humanos, para que, de ser necesario, la revisen y la fiscalicen.
 
 90
 
@@ -2147,9 +2185,9 @@ Código de la Niñez y la Adolescencia · Ley No. 287
 
 [[START OF PAGE 91]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
-- Los demás derechos, especialmente los penitenciarios, establecidos para los adultos y que sean aplicables a los adolescentes.
+j) Los demás derechos, especialmente los penitenciarios, establecidos para los adultos y que sean aplicables a los adolescentes.
 
 ##### Arto.  214
 La  medida  de  privación  de  libertad  se ejecutará en centros especiales para adolescentes, que serán  diferentes  a  los  destinados  para  las  personas sujetas a la legislación penal común.
@@ -2164,7 +2202,7 @@ El Juez Penal de Distrito del Adolescente dentro de la ejecución de esta medida
 Si el sentenciado cumpliera dieciocho años de edad durante su privación de libertad, seguirá en el centro  especial  para  adolescentes,  pero  separado  de ellos, conservando el programa de rehabilitación.
 
 ##### Arto.  216
-El  director  del  establecimiento  donde  se interne al adolescente, a partir de su ingreso, enviará a la Oficina de Ejecución y Vigilancia de las Sanciones Penales  de  los  Adolescentes,  un  informe  trimestral sobre la situación del sentenciado, el desarrollo del plan de  ejecución  individual  con  cualquier  recomendación para el cumplimiento de los objetivos de este Código.
+El director del establecimiento donde se interne al adolescente, a partir de su ingreso, enviará a la Oficina de Ejecución y Vigilancia de las Sanciones
 
 91
 
@@ -2172,7 +2210,9 @@ El  director  del  establecimiento  donde  se interne al adolescente, a partir d
 
 [[START OF PAGE 92]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+Penales de los Adolescentes, un informe trimestral sobre la situación del sentenciado, el desarrollo del plan de ejecución individual con cualquier recomendación para el cumplimiento de los objetivos de este Código.
 
 El incumplimiento de la obligación de enviar el informe a  que  se  refiere  el  párrafo  anterior,  será  comunicado por la Oficina al superior administrativo correspondiente para que se sancione al director.
 
@@ -2192,7 +2232,7 @@ Quien  venda  los  productos,  sustancias  y armas señalados en los artículos 
 
 [[START OF PAGE 93]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 Si se tratare de estupefacientes, sicotrópicas y otras  sustancias  controladas,  serán  sancionados  de conformidad con la Ley especial de la materia.
 
@@ -2205,7 +2245,7 @@ Quien  venda,  suministre  o  entregue  de manera gratuita a niñas, niños y ad
 Todo médico, profesor o persona responsable de una institución de atención a la salud, de enseñanza primaria, pre escolar, centros de desarrollo infantil, que deje de comunicar a la autoridad competente  de  los  casos  que  tenga  conocimiento  o en  los  casos  que  sospeche  que  haya  habido  abuso de niños, niñas y adolescentes será sancionado gubernativamente  con  multa  equivalente  a  un  mes de  salario  y  serán  considerado  como  encubridor  del delito.
 
 ##### Arto. 221
-Los dueños de establecimientos que omitan exponer  en  un  lugar  visible  un  anuncio  sobre  la naturaleza del espectáculo que se presenta y las edades de las personas a las que les es permitida el ingreso, previa identificación del adolescente, de acuerdo a la Ley de Identificación Ciudadana, se les aplicará multa de  mil  a  cinco  mil  córdobas  y  el  cierre  temporal.  En caso de reincidencia se aplicará el cierre definitivo.
+Los dueños de establecimientos que omitan exponer en un lugar visible un anuncio sobre la naturaleza del espectáculo que se presenta y las edades de las personas a las que les es permitida el ingreso,
 
 93
 
@@ -2213,7 +2253,9 @@ Los dueños de establecimientos que omitan exponer  en  un  lugar  visible  un  
 
 [[START OF PAGE 94]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+previa identificación del adolescente, de acuerdo a la Ley de Identificación Ciudadana, se les aplicará multa de mil a cinco mil córdobas y el cierre temporal. En caso de reincidencia se aplicará el cierre definitivo.
 
 Serán  sancionados  con  igual  medida  las  Empresas de canales de Televisión y Televisión por Cable, que transmitan  programas  para  adultos  antes  de  las  diez de la noche.
 
@@ -2238,7 +2280,7 @@ El funcionario o empleado que sin la debida autorización, divulgue total o parc
 
 [[START OF PAGE 96]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ### DISPOSICIONES, TRANSITORIAS Y FINALES
 
@@ -2256,7 +2298,7 @@ Los adolescentes que se encuentren privados de libertad deberán ser reubicados 
 Los Centros de Detención provisional y centros especiales de internamiento estarán bajo la dependencia de  la Dirección General  del Sistema  Penitenciario Nacional del Ministerio de Gobernación.
 
 ##### Arto. 228
-Mientras no se constituye el ente rector del Consejo  Nacional  de  Protección  Integral  a  las  niñas, niños y adolescentes,  los  organismos  estatales  y privados coordinarán sus acciones relacionadas con las niñas, niños y adolescentes con el Fondo Nicaragüense de la Niñez y la Familia (FONIF).
+Mientras no se constituye el ente rector del Consejo Nacional de Protección Integral a las niñas, niños y adolescentes, los organismos estatales y
 
 96
 
@@ -2264,7 +2306,9 @@ Mientras no se constituye el ente rector del Consejo  Nacional  de  Protección 
 
 [[START OF PAGE 97]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
+
+privados coordinarán sus acciones relacionadas con las niñas, niños y adolescentes con el Fondo Nicaragüense de la Niñez y la Familia (FONIF).
 
 ##### Arto.  229
 El  Fondo  Nicaragüense  de  la  Niñez  y  la Familia (FONIF) ejercerá las funciones de la autoridad administrativa señalada en este Código, mientras no se cree otro organismo especializado.
@@ -2284,7 +2328,7 @@ Derógase la Ley Tutelar de Menores, Decreto No.  107,  del  diecisiete  de  mar
 
 [[START OF PAGE 98]]
 
-Código de la Niñez y la Adolescencia · Ley No. 287
+Código de la Niñez y la Adolescencia • Ley No. 287
 
 ##### Arto.  233
 A  falta  de  disposiciones  especiales  en  el presente Código, se aplicarán supletoriamente a este Código las disposiciones del Código Procedimiento Civil y el de Instrucción Criminal y sus reformas y cualquier otra disposición legal aplicable.
@@ -2292,7 +2336,7 @@ A  falta  de  disposiciones  especiales  en  el presente Código, se aplicarán 
 ##### Arto. 234
 El presente Código entrará en vigencia a los ciento ochenta días, a partir de su publicación en La Gaceta, Diario oficial.
 
-Dado en la Ciudad de Managua, en la Sala de Sesiones de  la  Asamblea  Nacional,  a  los  veinticuatro  días  del mes  de  marzo  de  mil  novecientos  noventa  y  ocho.IVAN ESCOBAR FORNOS, Presidente de la Asamblea Nacional.-  NOEL PEREIRA MAJANO, Secretario de la Asamblea Nacional.
+Dado en la Ciudad de Managua, en la Sala de Sesiones de la Asamblea Nacional, a los veinticuatro días del mes de marzo de mil novecientos noventa y ocho.- IVAN ESCOBAR FORNOS, Presidente de la Asamblea Nacional.- NOEL PEREIRA MAJANO, Secretario de la Asamblea Nacional.
 
 ### POR TANTO
 
