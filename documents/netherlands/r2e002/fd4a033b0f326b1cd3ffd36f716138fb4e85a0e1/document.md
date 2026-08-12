@@ -45,9 +45,9 @@ In deze wet wordt verstaan onder:
 
 - instellingsbestuur:
 
--van een bekostigde instelling: het college van bestuur, tenzij anders bepaald;
+- van een bekostigde instelling: het college van bestuur, tenzij anders bepaald;
 
--van een rechtspersoon met volledige rechtsbevoegdheid die geaccrediteerde opleidingen verzorgt: het orgaan dat als zodanig in de statuten is aangewezen;
+- van een rechtspersoon met volledige rechtsbevoegdheid die geaccrediteerde opleidingen verzorgt: het orgaan dat als zodanig in de statuten is aangewezen;
 
 - studiejaar: het tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daaropvolgende jaar;
 
@@ -87,9 +87,9 @@ In deze wet wordt verstaan onder:
 
 - college van bestuur:
 
--van een bijzondere instelling: het orgaan van de instelling dat als zodanig in de statuten is aangewezen;
+- van een bijzondere instelling: het orgaan van de instelling dat als zodanig in de statuten is aangewezen;
 
--van een openbare instelling: het orgaan van de instelling dat op grond van deze wet terzake bevoegd is;
+- van een openbare instelling: het orgaan van de instelling dat op grond van deze wet terzake bevoegd is;
 
 - graad: een graad als bedoeld in artikel 7.10a, artikel 7.10b of artikel 7.18;
 
@@ -121,7 +121,7 @@ Deze wet heeft betrekking op:
 
 [[START OF PAGE 3]]
 
-- wetenschappelijk onderzoeker of technologisch ontwerper en dragen zij kennis over ten behoeve van de maatschappij.
+wetenschappelijk onderzoeker of technologisch ontwerper en dragen zij kennis over ten behoeve van de maatschappij.
 
 - Levensbeschouwelijke universiteiten zijn gericht op het verzorgen van wetenschappelijk onderwijs voor een levensbeschouwelijk ambt of beroep. Zij verrichten wetenschappelijk onderzoek op levensbeschouwelijk terrein, voorzien in de opleiding tot wetenschappelijk onderzoeker en dragen kennis over ten behoeve van de maatschappij.
 
@@ -345,7 +345,7 @@ De Kaderwet zelfstandige bestuursorganen is van toepassing op de Koninklijke Bib
 
 - het bestuur en de inrichting.
 
-- De voorwaarden, bedoeld in het tweede lid onder a , en onder b voor wat betreft de planning, hebben geen betrekking op de adviestaak van de Koninklijke Nederlandse Akademie van Wetenschappen.
+- De voorwaarden, bedoeld in het tweede lid onder a, en onder b voor wat betreft de planning, hebben geen betrekking op de adviestaak van de Koninklijke Nederlandse Akademie van Wetenschappen.
 
 ### Titel 3. Kwaliteitszorg
 
@@ -367,7 +367,7 @@ regelmatige beoordeling, mede door onafhankelijke deskundigen, van de kwaliteit 
 
 ##### Artikel 1.19. Opleidingen in het buitenland
 
-[Dit onderdeel is nog niet inwerking getreden]
+[Dit onderdeel is nog niet in werking getreden]
 
 ##### Artikel 1.20. Verplichting tot overleg en aangifte inzake zedenmisdrijven
 
@@ -443,7 +443,7 @@ van landbouw en natuurlijke omgeving in overeenstemming met Onze Minister van Ec
 
 - een overzicht van omstandigheden en gegevens die van belang zijn voor het met betrekking tot het hoger onderwijs en wetenschappelijk onderzoek te voeren beleid, en van de gewenste ontwikkelingen, daaronder mede begrepen wijzigingen ten aanzien van de maatschappelijke behoeften aan hoger onderwijs en wetenschappelijk onderzoek,
 
-- algemene voornemens die in de beleidregels, bedoeld in artikel 6.2, vierde lid, worden opgenomen, en
+- algemene voornemens die in de beleidsregels, bedoeld in artikel 6.2, vierde lid, worden opgenomen, en
 
 - een financiële raming in verband met de bekostiging van de daarvoor in aanmerking komende werkzaamheden van de instellingen.
 
@@ -453,7 +453,7 @@ van landbouw en natuurlijke omgeving in overeenstemming met Onze Minister van Ec
 
 - Onze Minister van Onderwijs, Cultuur en Wetenschap biedt uiterlijk zes maanden voorafgaand aan het moment waarop het hoger onderwijs- en onderzoekplan uiterlijk moet zijn vastgesteld, een ontwerp van dat plan aan de beide Kamers der Staten-Generaal aan.
 
-- Over de wijze waarop het vastgestelde plan wordt openbaar gemaakt, doet Onze minister mededeling in de Staatscourant .
+- Over de wijze waarop het vastgestelde plan wordt openbaar gemaakt, doet Onze minister mededeling in de Staatscourant.
 
 ### Titel 2. Bekostiging
 
@@ -498,8 +498,6 @@ van landbouw en natuurlijke omgeving in overeenstemming met Onze Minister van Ec
 - De inkomsten van de Koninklijke Nederlandse Akademie van Wetenschappen en van de Koninklijke Bibliotheek bestaan uit:
 
 - de bijdrage uit 's Rijks kas,
-
-- b.
 
 - inkomsten, die samenhangen met voorzieningen waarvoor de rijksbijdrage is verleend, en
 
@@ -587,7 +585,7 @@ Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omt
 
 ##### Artikel 2.12. Bijzondere bepaling academische ziekenhuizen
 
-Het bestuur van een in artikel 1.13, eerste lid, bedoelde universiteit betaalt, zodra de in artikel 2.5 bedoelde betaling van de rijksbijdrage dan wel betaling van een voorschot daarop is ontvangen, aan het met dieuniversiteit verbonden academisch ziekenhuis onverwijld het gedeelte van de rijksbijdrage waarop het academisch ziekenhuis op grond van artikel 1.14, eerste lid, aanspraak heeft.
+Het bestuur van een in artikel 1.13, eerste lid, bedoelde universiteit betaalt, zodra de in artikel 2.5 bedoelde betaling van de rijksbijdrage dan wel betaling van een voorschot daarop is ontvangen, aan het met die universiteit verbonden academisch ziekenhuis onverwijld het gedeelte van de rijksbijdrage waarop het academisch ziekenhuis op grond van artikel 1.14, eerste lid, aanspraak heeft.
 
 ##### Artikel 2.13. Buitengebruikstelling gebouwen en terreinen
 
@@ -637,7 +635,7 @@ beëindiging van de bekostiging, zorg voor de vaststelling van een eindafrekenin
 
 - Jaarlijks verstrekt Onze minister een subsidie aan het academisch ziekenhuis dan wel aan de rechtspersoon die de educatieve voorziening, bedoeld in artikel 1.4, tweede lid, in stand houdt, ter tegemoetkoming in de kosten van ondersteuning bij het onderwijs aan zieke leerlingen als bedoeld in de artikelen 9a van de Wet op het primair onderwijs, 18a van de Wet op de expertisecentra, 18 en 138a van de Wet op het voortgezet onderwijs en 7.1.4 van de Wet educatie en beroepsonderwijs.
 
-- De hoogte van de subsidie aan het academisch ziekenhuis dan wel aan het bestuur van de rechtspersoon die de educatieve voorziening in stand houdt, wordt bepaald op basis van het leerlingenaantal dat het gemiddelde is van de hoogste dagtellingen in de maanden september tot en met april van het schooljaar 1994-1995 van leerlingen van scholen als bedoeld in artikel 2, tweede lid onderdeel g, van de Wet op de expertisecentra, zoals dat artikel luidde op 31 juli 1999, die waren opgenomen in het desbetreffende academisch ziekenhuis, en een bedrag per leerling.
+- De hoogte van de subsidie aan het academisch ziekenhuis dan wel aan het bestuur van de rechtspersoon die de educatieve voorziening in stand houdt, wordt bepaald op basis van het leerlingenaantal dat het gemiddelde is van de hoogste dagtellingen in de maanden september tot en met april van het schooljaar 1994–1995 van leerlingen van scholen als bedoeld in artikel 2, tweede lid onderdeel g, van de Wet op de expertisecentra, zoals dat artikel luidde op 31 juli 1999, die waren opgenomen in het desbetreffende academisch ziekenhuis, en een bedrag per leerling.
 
 - Het bestuur van het academisch ziekenhuis dan wel de rechtspersoon die een educatieve voorziening in stand houdt, ontvangt de subsidie, bedoeld in het tweede lid, onder de voorwaarde dat op de aan deze subsidie gerelateerde formatieplaatsen personeel wordt benoemd, dat op 31 juli 1999 was benoemd aan een of meer van de scholen, bedoeld in artikel 2, tweede lid, onderdeel g, van de Wet op de expertisecentra, zoals dat artikel luidde op 31 juli 1999, tenzij het bestuur van het academisch ziekenhuis dan wel de rechtspersoon die de educatieve voorziening in stand houdt aantoont dat met betrekking tot een formatieplaats geen lid van dat personeel beschikbaar was dat de formatieplaats aanvaardde. Deze benoemingsverplichting geldt voor de betrekkingsomvang die voor de desbetreffende personeelsleden gold aan die scholen.
 
@@ -723,7 +721,7 @@ acht.
 
 [[START OF PAGE 18]]
 
-- voortvloeien uit de bepalingen van dwingend recht van titel 10 van Boek 7 van het Burgerlijk Wetboek.
+voortvloeien uit de bepalingen van dwingend recht van titel 10 van Boek 7 van het Burgerlijk Wetboek.
 
 - Over de regelingen, bedoeld in het eerste en vierde lid, alsmede over andere aangelegenheden van algemeen belang voor de bijzondere rechtstoestand van het personeel van de desbetreffende instelling, wordt door of namens het instellingsbestuur overleg gevoerd met de daarvoor in aanmerking komende vakorganisaties van overheids- en onderwijspersoneel, op een met deze schriftelijk overeengekomen wijze. In geval van een geschil over de deelneming aan het overleg, bedoeld in de vorige volzin, alsmede in geval van een geschil over de aard, de inhoud en de organisatie van het overleg leggen de betrokken partijen het geschil voor aan een geschillencommissie. Deze geschillencommissie bestaat uit drie personen, die door de partijen gezamenlijk worden aangewezen. De uitspraak van de geschillencommissie heeft bindende kracht.
 
@@ -851,7 +849,7 @@ van titel 2 wordt opgenomen.
 
 [[START OF PAGE 21]]
 
-- van het Accreditatieverdrag financiële middelen ter beschikking voor de vervulling van zijn taken, voortvloeiend uit artikel 1, eerste en tweede lid, van het Accreditatieverdrag.
+van het Accreditatieverdrag financiële middelen ter beschikking voor de vervulling van zijn taken, voortvloeiend uit artikel 1, eerste en tweede lid, van het Accreditatieverdrag.
 
 - Onze minister stelt jaarlijks voor 1 september van enig kalenderjaar, doch niet dan nadat hij daarover met het accreditatieorgaan heeft overlegd, het bedrag vast dat voor het daaropvolgende kalenderjaar aan het accreditatieorgaan ter beschikking zal worden gesteld en neemt dit bedrag op in het voorstel van wet tot vaststelling van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap.
 
@@ -909,7 +907,7 @@ van titel 2 wordt opgenomen.
 
 [[START OF PAGE 22]]
 
-- invloed is op de kwaliteit van de opleiding,
+invloed is op de kwaliteit van de opleiding,
 
 - de opleidingsspecifieke voorzieningen alsmede de instellingsbrede voorzieningen die van invloed zijn op de kwaliteit van de opleiding daaronder mede begrepen voldoende studiebegeleiding en voorzieningen die de toegankelijkheid en studeerbaarheid voor studenten met een functiebeperking bevorderen, en
 
@@ -1063,7 +1061,7 @@ instelling die niet beschikt over een instellingstoets kwaliteitszorg of een ins
 
 ##### Artikel 5a.12a. Herstelperiode
 
-- Indien het accreditatieorgaan vaststelt dat de opleiding niet voldoet aan de aspecten van kwaliteit, bedoeld artikel 5a.8, tweede lid, kan het eenmaal de geldigheidsduur van het laatstgenomen
+- Indien het accreditatieorgaan vaststelt dat de opleiding niet voldoet aan de aspecten van kwaliteit, bedoeld in artikel 5a.8, tweede lid, kan het eenmaal de geldigheidsduur van het laatstgenomen
 
 [[END OF PAGE 25]]
 
@@ -2169,7 +2167,7 @@ Het instellingsbestuur kan procedures en criteria voor de erkenning van verworve
 
 [[START OF PAGE 51]]
 
-- gebied van de techniek, of
+gebied van de techniek, of
 
 - de titel baccalaureus, afgekort tot bc., indien het een bacheloropleiding in het hoger beroepsonderwijs betreft waarop onderdeel a niet van toepassing is.
 
@@ -2258,13 +2256,13 @@ In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
 
 [[START OF PAGE 53]]
 
-- voor een opleiding of voor een onderwijseenheid, behorend tot een opleiding, open voor ieder die de leeftijd van achttien jaar heeft bereikt.
+voor een opleiding of voor een onderwijseenheid, behorend tot een opleiding, open voor ieder die de leeftijd van achttien jaar heeft bereikt.
 
 - Voor de inschrijving voor een opleiding tot leraar basisonderwijs kunnen bijzondere nadere vooropleidingseisen worden gesteld als bedoeld in de artikelen 7.25a en 7.25b.
 
 ##### Artikel 7.25. Nadere vooropleidingseisen
 
-- Bij ministeriële regeling wordt het profiel of worden de profielen, bedoeld in artikel 12 van de Wet op het voortgezet onderwijs en artikel 38 van de Wet voortgezet onderwijs BES aangewezen waarop de hierna te noemen diploma's betrekking moeten hebben om te kunnen worden ingeschreven voor een bepaalde bij die ministeriële regeling aangewezen opleiding of groep van opleidingen:
+- Bij ministeriële regeling wordt het profiel of worden de profielen, bedoeld in artikel 12 van de Wet op het voortgezet onderwijs en artikel 38 van de Wet voortgezet onderwijs BES aangewezen waarop de hierna te noemen diploma’s betrekking moeten hebben om te kunnen worden ingeschreven voor een bepaalde bij die ministeriële regeling aangewezen opleiding of groep van opleidingen:
 
 - het diploma voorbereidend wetenschappelijk onderwijs, bedoeld in artikel 7 van de Wet op het voortgezet onderwijs,
 
@@ -2290,7 +2288,7 @@ In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
 
 - De vertegenwoordigers van de hogescholen en van de instellingen, bedoeld in artikel 1.1.1, onderdeel b, van de Wet educatie en beroepsonderwijs, kunnen gezamenlijk voorstellen doen over de gewenste invulling van de aansluiting, bedoeld in het derde lid.
 
-- Het instellingsbestuur kan bepalen dat de bezitter van een diploma, genoemd in het eerste of derde lid, die niet voldoet aan de in het eerste, tweede of derde lid bedoelde voorwaarden, toch wordt ingeschreven, onder de voorwaarde dat blijkens een onderzoek wordt voldaan aan inhoudelijk daarmee vergelijkbare eisen. Aan deze eisen moet zijn voldaan voor de aanvang van de opleiding, met dien verstande dat bij ministeriële regeling opleidingen kunnen worden aangewezen voor welke, in door het instellingsbestuur te bepalen gevallen en onder door het instellingsbestuur vast te stellen voorwaarden, aan de eisen kan worden voldaan uiterlijk bij afronding van de propedeutische fase of, indien die fase niet is ingesteld, de eerste periode in die opleiding met een studielast van 60 studiepunten. De eisen worden opgenomen in de onderwijsen examenregeling.
+- Het instellingsbestuur kan bepalen dat de bezitter van een diploma, genoemd in het eerste of derde lid, die niet voldoet aan de in het eerste, tweede of derde lid bedoelde voorwaarden, toch wordt ingeschreven, onder de voorwaarde dat blijkens een onderzoek wordt voldaan aan inhoudelijk daarmee vergelijkbare eisen. Aan deze eisen moet zijn voldaan voor de aanvang van de opleiding, met dien verstande dat bij ministeriële regeling opleidingen kunnen worden aangewezen voor welke, in door het instellingsbestuur te bepalen gevallen en onder door het instellingsbestuur vast te stellen voorwaarden, aan de eisen kan worden voldaan uiterlijk bij afronding van de propedeutische fase of, indien die fase niet is ingesteld, de eerste periode in die opleiding met een studielast van 60 studiepunten. De eisen worden opgenomen in de onderwijs- en examenregeling.
 
 - Artikel 7.24, derde lid, is van overeenkomstige toepassing.
 
@@ -2344,7 +2342,7 @@ In deze paragraaf wordt onder «opleiding» verstaan een bacheloropleiding.
 
 Het instellingsbestuur kan met het oog op de inschrijving voor een deeltijdse opleiding aan een universiteit of aan een hogeschool eisen omtrent het verrichten van werkzaamheden tijdens het volgen van de opleiding stellen indien de desbetreffende werkzaamheden in de onderwijs- en examenregeling als onderwijseenheden zijn aangemerkt.
 
-##### Artikel 7.28. Vrijstelling op grond van andere diploma's
+##### Artikel 7.28. Vrijstelling op grond van andere diploma’s
 
 - Degene aan wie een graad als bedoeld in artikel 7.10a is verleend, is vrijgesteld van de in artikel 7.24, eerste onderscheidenlijk tweede lid, bedoelde vooropleidingseisen, onverminderd het derde en vierde lid. Van de in de eerste volzin bedoelde vooropleidingseisen is eveneens vrijgesteld degene die toegang heeft tot het wetenschappelijk onderwijs of het hoger beroepsonderwijs in het land van een verdragspartij die het Verdrag inzake de erkenning van kwalificaties betreffende hoger onderwijs in de Europese regio (Trb. 2002, 137) heeft geratificeerd, onverminderd de bevoegdheid van het instellingsbestuur om op grond van artikel IV.1 van het genoemde verdrag een aanzienlijk verschil aan te tonen tussen de algemene eisen betreffende de toegang op het grondgebied van het bedoelde land waar de kwalificatie werd behaald en de algemene eisen bij of krachtens deze wet. Gelijke bevoegdheid bestaat op grond van het tweede lid, derde en vierde volzin, het derde en vierde lid en de artikelen 7.26, 7.26a en 7.27.
 
@@ -2590,7 +2588,7 @@ De inschrijving als extraneus geeft uitsluitend de rechten, vermeld in artikel 7
 
 [[START OF PAGE 62]]
 
-- Artikel 7.34, vierde lid, is van overeenkomstige toepassing.
+c. Artikel 7.34, vierde lid, is van overeenkomstige toepassing.
 
 ##### Artikel 7.37. Voorwaarden inschrijving
 
@@ -2606,11 +2604,11 @@ De inschrijving als extraneus geeft uitsluitend de rechten, vermeld in artikel 7
 
 - De inschrijving kan niet worden ingetrokken op grond van het vijfde lid, indien voor betrokkene geen gelegenheid bestaat de opleiding aan een andere instelling te volgen.
 
-##### Artikel 7.37a. Afwijkende voorwaarde voor inschrijving in het studiejaar 2005-2006 en de volgende studiejaren
+##### Artikel 7.37a. Afwijkende voorwaarde voor inschrijving in het studiejaar 2005–2006 en de volgende studiejaren
 
 In afwijking van artikel 7.37, eerste lid, staat de inschrijving voor een opleiding die is aangewezen op grond van artikel 6 of artikel 8 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing, eveneens open voor degene die voldoet aan de in die artikelen bedoelde eisen.
 
-##### Artikel 7.37b. Aanvullende voorwaarde voor inschrijving in het studiejaar 2005-2006 en de volgende studiejaren
+##### Artikel 7.37b. Aanvullende voorwaarde voor inschrijving in het studiejaar 2005–2006 en de volgende studiejaren
 
 In afwijking van artikel 7.37, eerste lid, staat de inschrijving voor een opleiding die is aangewezen op grond van artikel 7 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing, in voorkomende gevallen in verband met het deelnemen aan een experimenteel programma, slechts open voor degene die tevens voldoet aan de in dat artikel bedoelde eisen.
 
@@ -2664,7 +2662,7 @@ In afwijking van artikel 7.37, eerste lid, staat de inschrijving voor een opleid
 
 [[START OF PAGE 64]]
 
-- verwante opleiding verzorgt, kan besluiten de student niet opnieuw of niet voor die opleiding in te schrijven.
+verwante opleiding verzorgt, kan besluiten de student niet opnieuw of niet voor die opleiding in te schrijven.
 
 - Indien de student, bedoeld in het eerste lid, is ingeschreven voor een andere opleiding en daarbinnen het onderwijs volgt van een afstudeerrichting die overeenkomt met of gelet op de praktische voorbereiding op de beroepsuitoefening verwant is aan de opleiding waarvoor de inschrijving met toepassing van het eerste lid is beëindigd, kan het instellingsbestuur na advies van de examencommissie, de decaan of een met de decaan vergelijkbaar orgaan binnen de instelling en na zorgvuldige afweging van de betrokken belangen besluiten dat de student die afstudeerrichting of andere onderdelen van die opleiding niet mag volgen.
 
@@ -2708,7 +2706,7 @@ In afwijking van artikel 7.37, eerste lid, staat de inschrijving voor een opleid
 
 [[START OF PAGE 65]]
 
-- bacheloropleiding niet eerder een bachelorgraad heeft behaald of voor een inschrijving aan een masteropleiding niet eerder een mastergraad heeft behaald, en
+bacheloropleiding niet eerder een bachelorgraad heeft behaald of voor een inschrijving aan een masteropleiding niet eerder een mastergraad heeft behaald, en
 
 - tot één van de groepen van personen, bedoeld in artikel 2.2 van de Wet studiefinanciering 2000, behoort of de Surinaamse nationaliteit bezit.
 
@@ -2808,7 +2806,7 @@ mits de student gedurende die periode geen onderwijs volgt of examens of tentame
 
 - Een student die aanspraak maakt op wettelijk collegegeld op grond van artikel 7.45a, tweede lid, wordt voor een andere inschrijving niet vrijgesteld van het betalen van collegegeld als bedoeld in de artikelen 7.45, 7.45a en 7.46.
 
-##### Artikel 7.49. Collegegeld voor bepaalde voltijdse opleidingen vanaf het studiejaar 2005-2006
+##### Artikel 7.49. Collegegeld voor bepaalde voltijdse opleidingen vanaf het studiejaar 2005–2006
 
 - Het instellingsbestuur stelt in afwijking van artikel 7.45, eerste lid, voor een opleiding die of voor een experimenteel programma dat is aangewezen op grond van artikel 9 van de Experimentenwet vooropleidingseisen, selectie en collegegeldheffing, een collegegeld vast. Het collegegeld bedraagt ten hoogste vijf keer het volledige wettelijke collegegeld, bedoeld in artikel 7.45, eerste
 
@@ -3070,7 +3068,7 @@ Het instellingsbestuur van de Open Universiteit kan de inschrijvingsmogelijkheid
 
 [[START OF PAGE 74]]
 
-- deze is verbonden waarbij een verdeling kan worden gemaakt van dat aantal over elk van de bedoelde instellingen.
+deze is verbonden waarbij een verdeling kan worden gemaakt van dat aantal over elk van de bedoelde instellingen.
 
 - Artikel 7.53, tweede lid, derde lid, vijfde lid en zevende lid, is van overeenkomstige toepassing.
 
@@ -3124,7 +3122,7 @@ Voor de toepassing van deze paragraaf gelden door universiteiten onderscheidenli
 
 [[START OF PAGE 75]]
 
-- gebouwen en terreinen geheel of gedeeltelijk voor de tijd van ten hoogste een jaar wordt ontzegd, of de inschrijving gedurende eenzelfde periode wordt beëindigd.
+gebouwen en terreinen geheel of gedeeltelijk voor de tijd van ten hoogste een jaar wordt ontzegd, of de inschrijving gedurende eenzelfde periode wordt beëindigd.
 
 - Als de persoon die de voorschriften, bedoeld in het eerste lid, overtreedt, ernstige overlast binnen de gebouwen en terreinen van de instelling heeft veroorzaakt en deze overlast ook na aanmaning door of vanwege het instellingsbestuur niet heeft gestaakt, kan het instellingsbestuur die student de toegang tot de instelling definitief ontzeggen of zijn inschrijving beëindigen.
 
@@ -3217,7 +3215,7 @@ Het instellingsbestuur behandelt een klacht van een betrokkene, wat een bijzonde
 
 - Het college kan besluiten kamers in te stellen. Indien het college daartoe besluit, bestaat het college uit ten minste zes en ten hoogste vijftien leden. Het aantal plaatsvervangende leden is niet groter dan het aantal leden. Elke kamer heeft drie of vijf leden. Zij houdt voltallig zitting.
 
-- De voorzitter, de plaatsvervangend voorzitter of voorzitters en de overige leden en de eventuele plaatsvervangende leden worden door het instellingsbestuur benoemd voor een termijn van ten minste drie en ten hoogste vijf jaar of, voorzover het studenten betreft, voor een termijn van ten minste een en ten hoogste twee jaar. De leden en plaatsvervangende leden maken geen deel uit van het instellingsbestuur of van de inspectie. Buiten de voorzitter bestaat het college voor tenminste de helft uit docenten, onderscheidenlijk leden van de wetenschappelijke staf.
+- De voorzitter, de plaatsvervangend voorzitter of voorzitters en de overige leden en de eventuele plaatsvervangende leden worden door het instellingsbestuur benoemd voor een termijn van ten minste drie en ten hoogste vijf jaar of, voorzover het studenten betreft, voor een termijn van ten minste een en ten hoogste twee jaar. De leden en plaatsvervangende leden maken geen deel uit van het instellingsbestuur of van de inspectie. Buiten de voorzitter bestaat het college voor ten minste de helft uit docenten, onderscheidenlijk leden van de wetenschappelijke staf.
 
 - De voorzitter en de plaatsvervangende voorzitter of voorzitters moeten voldoen aan de vereisten voor benoembaarheid tot rechterlijk ambtenaar, bedoeld in artikel 5 van de Wet rechtspositie rechterlijke ambtenaren.
 
@@ -3307,7 +3305,7 @@ desgevraagd bepalen dat de geschillenadviescommissie zo spoedig mogelijk advies 
 
 ##### Artikel 7.64. College van beroep voor het hoger onderwijs
 
-- Er is een college van beroep voor het hoger onderwijs, gevestigd te 's-Gravenhage.
+- Er is een college van beroep voor het hoger onderwijs, gevestigd te ’s-Gravenhage.
 
 - Het college van beroep heeft ten minste drie en ten hoogste zeven leden, onder wie de voorzitter. Het college heeft een even groot aantal plaatsvervangende leden.
 
@@ -3359,7 +3357,7 @@ desgevraagd bepalen dat de geschillenadviescommissie zo spoedig mogelijk advies 
 
 ##### Artikel 7.67. Griffierecht
 
-Het griffierecht bedraagt € 44 [per 1 januari 2016: € 46]. Dat bedrag wordt jaarlijks met ingang van 1 januari bij regeling van Onze Minister van Veiligheid en Justitie aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij wordt het bedrag rekenkundig afgerond op gehele euro's.
+Het griffierecht bedraagt € 44 [per 1 januari 2016: € 46]. Dat bedrag wordt jaarlijks met ingang van 1 januari bij regeling van Onze Minister van Veiligheid en Justitie aangepast aan de ontwikkeling van de consumentenprijsindex. Daarbij wordt het bedrag rekenkundig afgerond op gehele euro’s.
 
 #### Paragraaf 4. Colleges van beroep bijzonder onderwijs
 
@@ -3369,7 +3367,7 @@ Het griffierecht bedraagt € 44 [per 1 januari 2016: € 46]. Dat bedrag wordt 
 
 - De regeling bevat een uitwerking van de onderwerpen, genoemd in artikel 7.62, eerste lid, alsmede de rechtsgang bij het college waarbij de artikelen 7.60, vierde lid, eerste en tweede volzin, vijfde en zesde lid, 7.61, tweede, vierde, vijfde, en zesde lid en 7.63 van overeenkomstige toepassing zijn.
 
-- De regeling alsmede wijzigingen daarvan worden vastgesteld met in achtneming van de artikelen 7.59a tot en met 7.67. De regeling alsmede de wijzigingen daarvan worden geacht te voldoen aan de in artikel 1.9, derde lid, onder g, bedoelde voorwaarde, indien Onze minister niet binnen drie maanden heeft verklaard van oordeel te zijn, dat het bestuur bij de vaststelling van de rechtsgang de artikelen 7.59a tot en met 7.67 niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen levensbeschouwelijke aard van de bijzondere instelling die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
+- De regeling alsmede wijzigingen daarvan worden vastgesteld met inachtneming van de artikelen 7.59a tot en met 7.67. De regeling alsmede de wijzigingen daarvan worden geacht te voldoen aan de in artikel 1.9, derde lid, onder g, bedoelde voorwaarde, indien Onze minister niet binnen drie maanden heeft verklaard van oordeel te zijn, dat het bestuur bij de vaststelling van de rechtsgang de artikelen 7.59a tot en met 7.67 niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen levensbeschouwelijke aard van de bijzondere instelling die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
 
 - De werking van het besluit van Onze minister, bedoeld in het derde lid, wordt opgeschort totdat de beroepstermijn is verstreken, of, indien beroep is ingesteld, op het beroep is beslist.
 
@@ -3556,7 +3554,7 @@ Het college van bestuur kan richtlijnen vaststellen met het oog op de organisati
 
 - financieel wanbeleid;
 
-- ernstige nalatigheid om, in ieder geval in strijd met artikel 1.18, maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van wetenschappelijk onderwijs in gevaar komt;.
+- ernstige nalatigheid om, in ieder geval in strijd met artikel 1.18, maatregelen te treffen die noodzakelijk zijn voor het waarborgen van de kwaliteit en goede voortgang van het onderwijs aan de instelling en om te voorkomen dat de kwaliteit van het stelsel van wetenschappelijk onderwijs in gevaar komt;
 
 - ongerechtvaardigde verrijking, al dan niet beoogd, van de rechtspersoon die de instelling in stand houdt, een bestuurder of toezichthouder zelf dan wel een derde;
 
@@ -3722,7 +3720,7 @@ De commissie zendt de adviezen, bedoeld onder a en c, ter kennisneming aan de fa
 
 ##### Artikel 9.19. Verantwoordelijkheden en rechten hoogleraren
 
-- Tot het personeel van de universiteit behoren in elk geval de hoogleraren. In het benoemingsbesluit wordt vermeld het wetenschapsgebied waarop de hoogleraar zijn onderwijsen onderzoektaken uitoefent.
+- Tot het personeel van de universiteit behoren in elk geval de hoogleraren. In het benoemingsbesluit wordt vermeld het wetenschapsgebied waarop de hoogleraar zijn onderwijs- en onderzoektaken uitoefent.
 
 - De hoogleraren zijn bij uitstek verantwoordelijk voor de ontwikkeling van het hun toegewezen wetenschapsgebied en voor de inhoud van het te geven onderwijs op dat gebied, onverminderd de bevoegdheid van het bestuur van de opleiding, bedoeld in artikel 9.17.
 
@@ -3886,7 +3884,7 @@ Deze titel heeft betrekking op de openbare universiteiten.
 
 - Indien bij een bepaalde vergadering of een onderdeel daarvan een bij uitstek persoonlijk belang van een van de leden van de raad in het geding is, kan de raad bepalen dat het betrokken lid aan die vergadering of dat onderdeel daarvan niet deelneemt. De raad bepaalt dan tevens dat de behandeling van de desbetreffende aangelegenheid in een besloten vergadering plaats heeft.
 
-- De raad doet jaarlijks schriftelijk verslag van zijn werkzaamheden en draagt er zorg voor dat alle bij de universiteit betrokkenen van het verslag kennis kunnen nemen. De raad draagt er zorg voor dat de agenda's en verslagen van de vergaderingen van de raad worden toegezonden aan het college van bestuur, aan de faculteitsraden en aan de eventuele commissies, bedoeld in artikel 9.47, en ter inzage worden gelegd op een algemeen toegankelijke plaats op de universiteit ten behoeve van belangstellenden. De raad stelt de in de vorige volzin bedoelde commissies ten minste eenmaal per jaar in de gelegenheid om over aangelegenheden die de desbetreffende commissie in het bijzonder aangaan, met hem overleg te voeren.
+- De raad doet jaarlijks schriftelijk verslag van zijn werkzaamheden en draagt er zorg voor dat alle bij de universiteit betrokkenen van het verslag kennis kunnen nemen. De raad draagt er zorg voor dat de agenda’s en verslagen van de vergaderingen van de raad worden toegezonden aan het college van bestuur, aan de faculteitsraden en aan de eventuele commissies, bedoeld in artikel 9.47, en ter inzage worden gelegd op een algemeen toegankelijke plaats op de universiteit ten behoeve van belangstellenden. De raad stelt de in de vorige volzin bedoelde commissies ten minste eenmaal per jaar in de gelegenheid om over aangelegenheden die de desbetreffende commissie in het bijzonder aangaan, met hem overleg te voeren.
 
 - Het college van bestuur draagt er jegens de raad zorg voor dat de leden van de raad niet uit hoofde van hun lidmaatschap daarvan worden benadeeld in hun positie met betrekking tot de universiteit. De eerste volzin is van overeenkomstige toepassing ten aanzien van kandidaat-leden en voormalige leden.
 
@@ -4220,7 +4218,7 @@ reglement bevat in elk geval een geschillenregeling.
 
 - Het college van bestuur stelt regelen vast inzake het college van bestuur en de inrichting van en de medezeggenschap binnen hun universiteit. Bij de vaststelling van die regelen alsmede bij wijziging daarvan worden de titels 1 en 2 van dit hoofdstuk in acht genomen voorzover de eigen aard van de bijzondere universiteit zich daartegen naar het oordeel van het college van bestuur niet verzet. In die regelen wordt bepaald welke faculteit of faculteiten de universiteit omvat. Het college van bestuur brengt die regelen alsmede wijzigingen daarvan zo spoedig mogelijk ter kennis van Onze minister. Indien dat naar het oordeel van het college van bestuur wenselijk is op grond van de eigen aard van de bijzondere universiteit, kan de universiteit een functionele scheiding aanbrengen tussen het toezicht en het bestuur. In dat geval zijn de artikelen 9.8 tot en met 9.9a van overeenkomstige toepassing. In de statuten wordt vermeld op welke wijze de functionele scheiding wordt gewaarborgd. Het college van bestuur vermeldt jaarlijks in het bestuursverslag bedoeld in artikel 2.9 de redenen voor een eventuele afwijking.
 
-- De regelen alsmede de wijzigingen daarvan, bedoeld in het tweede lid, worden geacht te voldoen aan de in artikel 1.9, derde lid, onder h, bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling aan het het college van bestuur heeft verklaard van oordeel te zijn, dat het het college van bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten de titels 1 en 2 van dit hoofdstuk niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van de bijzondere universiteit die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
+- De regelen alsmede de wijzigingen daarvan, bedoeld in het tweede lid, worden geacht te voldoen aan de in artikel 1.9, derde lid, onder h, bedoelde voorwaarde, indien Onze minister niet binnen drie maanden na de ontvangst van de mededeling aan het college van bestuur heeft verklaard van oordeel te zijn, dat het college van bestuur bij de vaststelling van de regelen of de wijziging daarvan op door hem aan te wijzen punten de titels 1 en 2 van dit hoofdstuk niet in acht heeft genomen en daartoe in redelijkheid geen beroep heeft kunnen doen op de eigen aard van de bijzondere universiteit die zich tegen inachtneming daarvan zou verzetten, of dat onvoldoende aannemelijk heeft gemaakt. Binnen drie maanden wordt het bezwaar ondervangen.
 
 - De werking van het besluit van Onze minister, bedoeld in het derde lid, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.
 
@@ -4411,7 +4409,7 @@ Het college van bestuur kan bij bestuursreglement een of meer faculteiten of and
 
 - In het bestuurs- en beheersreglement worden regels vastgesteld omtrent de totstandkoming van de onderwijs- en examenregeling, bedoeld in artikel 7.13. Deze regels betreffen in elk geval de aanwijzing van het orgaan dat de onderwijs- en examenregeling vaststelt.
 
-- Indien de hogeschool faculteiten of andere organisatorische eenheden omvat, bevat het bestuursen beheersreglement bovendien:
+- Indien de hogeschool faculteiten of andere organisatorische eenheden omvat, bevat het bestuurs- en beheersreglement bovendien:
 
 - welke faculteiten of eenheden er zijn en welke opleidingen daarin zijn ingesteld,
 
@@ -4687,7 +4685,7 @@ bestuur, en de raad van toezicht.
 
 - Indien bij een bepaalde vergadering of een onderdeel daarvan een bij uitstek persoonlijk belang van een van de leden van de raad in het geding is, kan de raad bepalen dat het betrokken lid aan die vergadering of dat onderdeel daarvan, niet deelneemt. De raad bepaalt dan tevens dat de behandeling van de desbetreffende aangelegenheid in een besloten vergadering plaatsheeft.
 
-- De raad doet jaarlijks schriftelijk verslag van zijn werkzaamheden en draagt er zorg voor dat alle bij de hogeschool betrokkenen van het verslag kennis kunnen nemen. De raad draagt er zorg voor dat de agenda's en verslagen van de vergaderingen van de raad worden toegezonden aan het college van bestuur, aan de deelraden, aan de eventuele commissies en aan de eventuele gemeenschappelijke medezeggenschapsraad en ter inzage worden gelegd op een algemeen toegankelijke plaats op de hogeschool ten behoeve van belangstellenden. De raad stelt de in de vorige volzin bedoelde commissies ten minste eenmaal per jaar in de gelegenheid om over aangelegenheden die de desbetreffende commissie in het bijzonder aangaan, met hem overleg te voeren.
+- De raad doet jaarlijks schriftelijk verslag van zijn werkzaamheden en draagt er zorg voor dat alle bij de hogeschool betrokkenen van het verslag kennis kunnen nemen. De raad draagt er zorg voor dat de agenda’s en verslagen van de vergaderingen van de raad worden toegezonden aan het college van bestuur, aan de deelraden, aan de eventuele commissies en aan de eventuele gemeenschappelijke medezeggenschapsraad en ter inzage worden gelegd op een algemeen toegankelijke plaats op de hogeschool ten behoeve van belangstellenden. De raad stelt de in de vorige volzin bedoelde commissies ten minste eenmaal per jaar in de gelegenheid om over aangelegenheden die de desbetreffende commissie in het bijzonder aangaan, met hem overleg te voeren.
 
 - Het college van bestuur draagt er jegens de medezeggenschapsraad zorg voor dat de leden van de raad niet uit hoofde van hun lidmaatschap van de raad worden benadeeld in hun positie met betrekking tot de hogeschool. De eerste volzin is van overeenkomstige toepassing ten aanzien van kandidaat-leden en voormalige leden.
 
@@ -5065,7 +5063,7 @@ In het bestuurs- en beheersreglement wordt geregeld welke opleidingen door de Op
 
 ##### Artikel 11.9. Verantwoordelijkheden en rechten hoogleraren
 
-- Tot het personeel van de Open Universiteit behoren in elk geval de hoogleraren. In het benoemingsbesluit wordt vermeld het wetenschapsgebied waarop de hoogleraar zijn onderwijsen onderzoektaken uitoefent.
+- Tot het personeel van de Open Universiteit behoren in elk geval de hoogleraren. In het benoemingsbesluit wordt vermeld het wetenschapsgebied waarop de hoogleraar zijn onderwijs- en onderzoektaken uitoefent.
 
 - De hoogleraren zijn bij uitstek verantwoordelijk voor de ontwikkeling van het hun toegewezen wetenschapsgebied en voor de inhoud van het te geven onderwijs op dat gebied, onverminderd de bevoegdheid van het college van bestuur terzake van de onderwijs- en examenregeling.
 
@@ -5422,7 +5420,7 @@ Het bestuur van de faculteit der geneeskunde en de raad van bestuur stellen bij 
 
 [[START OF PAGE 127]]
 
-- Bibliotheek stelt het algemeen bestuur met inachtneming van het daaromtrent bij of krachtens deze wet bepaalde een reglement vast.
+Bibliotheek stelt het algemeen bestuur met inachtneming van het daaromtrent bij of krachtens deze wet bepaalde een reglement vast.
 
 - Het reglement regelt in elk geval de vervanging van de leden van het algemeen bestuur bij afwezigheid of ontstentenis.
 
@@ -6257,7 +6255,7 @@ deze instelling overeenkomstig artikel 1.1, sub aa, zoals dit artikel luidt na d
 
 ##### Artikel 18.76. Toepassing vervallen bepalingen waarborgfonds hogescholen
 
-Artikel 2.15 zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel X, van de wet van 4 februari 2010 (Stb. 119), blijft tot een bij koninklijk besluit te bepalen tijdstip van toepassing, met dien verstande dat het vierde lid uitsluitend geldt voor de borging van de lopende leningen die hogescholen zijn aangegaan met het oog op de overdracht van het economisch claimrecht als bedoeld in de wet van 11 november 1993, Stb. 629, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van huisvestingsen bestedingsbeslissingen en regeling van de overname van het economisch claimrecht.
+Artikel 2.15 zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel I, onderdeel X, van de wet van 4 februari 2010 (Stb. 119), blijft tot een bij koninklijk besluit te bepalen tijdstip van toepassing, met dien verstande dat het vierde lid uitsluitend geldt voor de borging van de lopende leningen die hogescholen zijn aangegaan met het oog op de overdracht van het economisch claimrecht als bedoeld in de wet van 11 november 1993, Stb. 629, houdende wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van huisvestings- en bestedingsbeslissingen en regeling van de overname van het economisch claimrecht.
 
 ### Titel 12. Wet van 8 juli 2011 (Stb. 369)
 
@@ -6377,212 +6375,162 @@ In deze bijlage zijn in de onderdelen a tot en met i opgenomen de bekostigde ins
 
 De namen van rechtspersonen in deze bijlage worden weergegeven zoals zij luiden op 1 januari 2004.
 
-- De openbare universiteiten te Leiden, Groningen, Amsterdam, Utrecht, Delft, Wageningen, Eindhoven, Enschede, Rotterdam en Maastricht.
+a. De openbare universiteiten te Leiden, Groningen, Amsterdam, Utrecht, Delft, Wageningen, Eindhoven, Enschede, Rotterdam en Maastricht.
 
-- De bijzondere universiteit te:
+b. De bijzondere universiteit te:
 
--Amsterdam, uitgaande van de Vereniging voor christelijk wetenschappelijk onderwijs;
+- Amsterdam, uitgaande van de Vereniging voor christelijk wetenschappelijk onderwijs;
 
 [[END OF PAGE 148]]
 
 [[START OF PAGE 149]]
 
--Nijmegen, uitgaande van de Stichting Katholieke Universiteit;
+- Nijmegen, uitgaande van de Stichting Katholieke Universiteit;
 
--Tilburg, uitgaande van de Stichting Katholieke Universiteit Brabant.
+- Tilburg, uitgaande van de Stichting Katholieke Universiteit Brabant.
 
-- De rechtspersoonlijkheid bezittende openbare hogescholen te Leeuwarden en Velp.
+c. De rechtspersoonlijkheid bezittende openbare hogescholen te Leeuwarden en Velp.
 
-(vacant)
+d. (vacant)
 
-(vacant)
+e. (vacant)
 
-(vacant)
+f. (vacant)
 
-- De bijzondere hogescholen:
+g. De bijzondere hogescholen:
 
--Agrarische Hogeschool Larenstein, uitgaande van de Stichting Van Hall Larenstein;
+- Agrarische Hogeschool Larenstein, uitgaande van de Stichting Van Hall Larenstein;
 
--Amsterdamse Hogeschool voor de Kunsten, uitgaande van de Stichting Amsterdamse Hogeschool voor de Kunsten;
+- Amsterdamse Hogeschool voor de Kunsten, uitgaande van de Stichting Amsterdamse Hogeschool voor de Kunsten;
 
--ArtEZ, Hogeschool voor de Kunsten, uitgaande van de Stichting ArtEZ;
+- ArtEZ, Hogeschool voor de Kunsten, uitgaande van de Stichting ArtEZ;
 
--
+- Avans Hogeschool, uitgaande van de Stichting Avans;
 
-Avans Hogeschool, uitgaande van de Stichting Avans;
+- Christelijke Agrarische Hogeschool, uitgaande van de stichting Christelijke Agrarische Hogeschool;
 
--Christelijke Agrarische Hogeschool, uitgaande van de stichting Christelijke Agrarische Hogeschool;
+- Christelijke Hogeschool Ede, uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Gereformeerde Grondslag;
 
--Christelijke Hogeschool Ede, uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Gereformeerde Grondslag;
+- Christelijke Hogeschool Windesheim, uitgaande van de Vereniging Christelijk Hoger Onderwijs;
 
--Christelijke Hogeschool Windesheim, uitgaande van de Vereniging Christelijk Hoger Onderwijs;
+- Codarts, Hogeschool voor de Kunsten, uitgaande van de Stichting Codarts, Hogeschool voor de Kunsten;
 
--Codarts, Hogeschool voor de Kunsten, uitgaande van de Stichting Codarts, Hogeschool voor de Kunsten;
+- Design Academy, uitgaande van de Stichting The Design Academy;
 
--
+- Fontys Hogeschool Eindhoven, uitgaande van de Stichting Fontys;
 
-Design Academy, uitgaande van de Stichting The Design Academy;
+- Fontys Hogeschool ’s-Hertogenbosch, uitgaande van de Stichting Fontys;
 
--
+- Fontys Hogeschool Roermond, uitgaande van de Stichting Fontys;
 
-Fontys Hogeschool Eindhoven, uitgaande van de Stichting Fontys;
+- Fontys Hogeschool Sittard, uitgaande van de Stichting Fontys;
 
--Fontys Hogeschool 's-Hertogenbosch, uitgaande van de Stichting Fontys;
+- Fontys Hogeschool Tilburg, uitgaande van de Stichting Fontys;
 
--
+- Fontys Hogeschool Venlo, uitgaande van de Stichting Fontys;
 
-Fontys Hogeschool Roermond, uitgaande van de Stichting Fontys;
+- Fontys Pedagogische Hogeschool Eindhoven uitgaande van de Stichting Fontys;
 
--
+- Fontys Pedagogisch Technische Hogeschool Nederland, uitgaande van de Stichting Fontys;
 
--
+- Gereformeerde Hogeschool, uitgaande van de Stichting voor Gereformeerd Hoger Beroepsonderwijs;
 
--
+- Haagse Hogeschool, uitgaande van de Stichting Hoger Beroepsonderwijs Haaglanden en Rijnstreek;
 
--
+- Hanzehogeschool Groningen, uitgaande van de Stichting Hanzehogeschool Groningen;
 
--
+- HAS Den Bosch, uitgaande van de Stichting Agrarische Hogeschool Den Bosch van de Katholieke Nederlandse Boeren en Tuinders Bond;
 
-Fontys Hogeschool Sittard, uitgaande van de Stichting Fontys;
+- Hogeschool van Amsterdam, uitgaande van de Stichting Hogeschool van Amsterdam;
 
-Fontys Hogeschool Tilburg, uitgaande van de Stichting Fontys;
+- Hogeschool van Arnhem en Nijmegen, uitgaande van de Stichting Hogeschool van Arnhem en Nijmegen;
 
-Fontys Hogeschool Venlo, uitgaande van de Stichting Fontys;
+- Hogeschool «De Driestar», uitgaande van de Stichting voor Christelijk Hoger Onderwijs op Reformatorische grondslag «De Driestar»;
 
-Fontys Pedagogische Hogeschool Eindhoven uitgaande van de Stichting Fontys;
+- Hogeschool «De Kempel», uitgaande van de Stichting «De Kempel»;
 
-Fontys Pedagogisch Technische Hogeschool Nederland, uitgaande van de Stichting
+- Hogeschool Domstad Katholieke lerarenopleiding basisonderwijs, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
 
-Fontys;
+- Hogeschool Edith Stein, uitgaande van de Stichting Onderwijs Centrum Twente;
 
--Gereformeerde Hogeschool, uitgaande van de Stichting voor Gereformeerd Hoger Beroepsonderwijs;
+- Hogeschool Helicon, uitgaande van de Stichting Hogeschool Helicon, onderwijs vanuit antroposofie;
 
--Haagse Hogeschool, uitgaande van de Stichting Hoger Beroepsonderwijs Haaglanden en Rijnstreek;
+- Hogeschool INHOLLAND, uitgaande van de Stichting Hoger Onderwijs Nederland;
 
--
+- Hogeschool IPABO Amsterdam/Alkmaar, uitgaande van de Stichting voor de Protestants Christelijke en de Rooms-Katholieke lerarenopleiding voor het Basisonderwijs in Noord-Holland;
 
-Hanzehogeschool Groningen, uitgaande van de Stichting Hanzehogeschool Groningen;
+- Hogeschool Leiden, uitgaande van Stichting Hogeschool Leiden;
 
--HAS Den Bosch, uitgaande van de Stichting Agrarische Hogeschool Den Bosch van de Katholieke Nederlandse Boeren en Tuinders Bond;
+- Hogeschool Rotterdam, uitgaande van de Stichting Hogeschool Rotterdam;
 
--
+- Hogeschool Thomas More, uitgaande van de Stichting Thomas More Hogeschool;
 
-Hogeschool van Amsterdam, uitgaande van de Stichting Hogeschool van Amsterdam;
+- Hogeschool Utrecht, uitgaande van de Stichting Hogeschool Utrecht;
 
--
+- Hogeschool van Beeldende Kunsten, Muziek en Dans, uitgaande van de Stichting Hogeschool van Beeldende Kunsten, Muziek en Dans;
 
--
-
--
-
--
-
--
-
-Hogeschool van Arnhem en Nijmegen, uitgaande van de Stichting Hogeschool van
-
-Arnhem en Nijmegen;
-
-Hogeschool «De Driestar», uitgaande van de Stichting voor Christelijk Hoger Onderwijs op
-
-Reformatorische grondslag «De Driestar»;
-
-Hogeschool «De Kempel», uitgaande van de Stichting «De Kempel»;
-
-Hogeschool Domstad Katholieke lerarenopleiding basisonderwijs, uitgaande van de
-
-Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
-
-Hogeschool Edith Stein, uitgaande van de Stichting Onderwijs Centrum Twente;
-
--Hogeschool Helicon, uitgaande van de Stichting Hogeschool Helicon, onderwijs vanuit antroposofie;
-
--
-
-Hogeschool INHOLLAND, uitgaande van de Stichting Hoger Onderwijs Nederland;
-
--Hogeschool IPABO Amsterdam/Alkmaar, uitgaande van de Stichting voor de Protestants Christelijke en de Rooms-Katholieke lerarenopleiding voor het Basisonderwijs in Noord-Holland;
-
--
-
--
-
--
-
--
-
-Hogeschool Leiden, uitgaande van Stichting Hogeschool Leiden;
-
-Hogeschool Rotterdam, uitgaande van de Stichting Hogeschool Rotterdam;
-
-Hogeschool Thomas More, uitgaande van de Stichting Thomas More Hogeschool;
-
-Hogeschool Utrecht, uitgaande van de Stichting Hogeschool Utrecht;
-
--Hogeschool van Beeldende Kunsten, Muziek en Dans, uitgaande van de Stichting Hogeschool van Beeldende Kunsten, Muziek en Dans;
-
--Hogeschool voor Beeldende Kunst en Vormgeving, uitgaande van de Stichting Gerrit Rietveld Academie te Amsterdam;
+- Hogeschool voor Beeldende Kunst en Vormgeving, uitgaande van de Stichting Gerrit Rietveld Academie te Amsterdam;
 
 [[END OF PAGE 149]]
 
 [[START OF PAGE 150]]
 
+- Hogeschool voor de Kunsten Utrecht, uitgaande van de Stichting hogeschool voor de Kunsten Utrecht;
+
+- Hogeschool Zeeland, uitgaande van de Stichting Hogeschool Zeeland;
+
+- Hogeschool Zuyd, uitgaande van de Stichting Hogeschool Zuyd;
+
+- Hotelschool Den Haag, uitgaande van de Stichting Hotelschool Den Haag;
+
+- Iselinge, educatieve faculteit, uitgaande van de Stichting IJsselgroep Iselinge;
+
+- Katholieke PABO, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
+
+- Marnix Academie Prot. Chr. hogeschool Lerarenopleiding basisonderwijs, uitgaande van de Stichting Protestants Christelijke Hoger Beroepsonderwijs Utrecht;
+
+- NHTV Internationale Hogeschool, uitgaande van de Stichting NHTV Internationale Hogeschool te Breda;
+
+- Noordelijke Hogeschool Leeuwarden, uitgaande van de Stichting Noordelijke Hogeschool Leeuwarden;
+
+- Saxion Hogescholen, uitgaande van de Stichting Saxion;
+
+- Stenden Hogeschool, Christelijke Hogeschool Nederland, uitgaande van de Stichting Stenden Hogeschool;
+
+- Stenden Hogeschool Drenthe, uitgaande van de Stichting Stenden Hogeschool;
+
+- STOAS Hogeschool, Wageningen, uitgaande van de Stichting STOAS;
+
+- Van Hall Instituut, uitgaande van de Stichting Van Hall Larenstein.
+
+h. de Open Universiteit te Heerlen.
+
+i. de levensbeschouwelijke universiteiten:
+
+- Protestantse Theologische Universiteit te Kampen, uitgaande van de Protestantse Kerk in Nederland;
+
+- Theologische Universiteit der Christelijke Gereformeerde Kerken in Nederland te Apeldoorn, uitgaande van het kerkgenootschap Christelijke Gereformeerde Kerken;
+
+- Universiteit voor Humanistiek te Utrecht, uitgaande van de Stichting Universiteit voor Humanistiek.
+
+- Theologische Universiteit, uitgaande van de gezamenlijke rechtspersoonlijkheid bezittende Gereformeerde Kerken in Nederland (vrijgemaakt) te Kampen.
+
 j.
 
--Hogeschool voor de Kunsten Utrecht, uitgaande van de Stichting hogeschool voor de Kunsten Utrecht;
+1. De rechtspersoonlijkheid bezittende academische ziekenhuizen bij de openbare universiteiten te:
 
--Hogeschool Zeeland, uitgaande van de Stichting Hogeschool Zeeland;
+- Leiden,
 
--Hogeschool Zuyd, uitgaande van de Stichting Hogeschool Zuyd;
+- Groningen,
 
--Hotelschool Den Haag, uitgaande van de Stichting Hotelschool Den Haag;
+- Amsterdam,
 
--Iselinge, educatieve faculteit, uitgaande van de Stichting IJsselgroep Iselinge;
+- Utrecht,
 
--Katholieke PABO, uitgaande van de Stichting Katholieke Opleiding tot Leraren in het Basisonderwijs;
+- Rotterdam,
 
--Marnix Academie Prot. Chr. hogeschool Lerarenopleiding basisonderwijs, uitgaande van de Stichting Protestants Christelijke Hoger Beroepsonderwijs Utrecht;
+- Maastricht.
 
--NHTV Internationale Hogeschool, uitgaande van de Stichting NHTV Internationale Hogeschool te Breda;
-
--Noordelijke Hogeschool Leeuwarden, uitgaande van de Stichting Noordelijke Hogeschool Leeuwarden;
-
--Saxion Hogescholen, uitgaande van de Stichting Saxion;
-
--Stenden Hogeschool, Christelijke Hogeschool Nederland, uitgaande van de Stichting Stenden Hogeschool;
-
--Stenden Hogeschool Drenthe, uitgaande van de Stichting Stenden Hogeschool;
-
--STOAS Hogeschool, Wageningen, uitgaande van de Stichting STOAS;
-
--Van Hall Instituut, uitgaande van de Stichting Van Hall Larenstein.
-
-- de Open Universiteit te Heerlen.
-
-- de levensbeschouwelijke universiteiten:
-
--Protestantse Theologische Universiteit te Kampen, uitgaande van de Protestantse Kerk in Nederland;
-
--Theologische Universiteit der Christelijke Gereformeerde Kerken in Nederland te Apeldoorn, uitgaande van het kerkgenootschap Christelijke Gereformeerde Kerken;
-
--Universiteit voor Humanistiek te Utrecht, uitgaande van de Stichting Universiteit voor Humanistiek.
-
--Theologische Universiteit, uitgaande van de gezamenlijke rechtspersoonlijkheid bezittende Gereformeerde Kerken in Nederland (vrijgemaakt) te Kampen.
-
-- De rechtspersoonlijkheid bezittende academische ziekenhuizen bij de openbare universiteiten te:
-
--Leiden,
-
--Groningen,
-
--Amsterdam,
-
--Utrecht,
-
--Rotterdam,
-
--Maastricht.
-
-- De academische ziekenhuizen bij de bijzondere universiteiten te Amsterdam en Nijmegen.
+2. De academische ziekenhuizen bij de bijzondere universiteiten te Amsterdam en Nijmegen.
 
 [[END OF PAGE 150]]
