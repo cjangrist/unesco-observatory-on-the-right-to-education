@@ -22,7 +22,7 @@ ____ Words underlined with a solid line indicate insertions in existing enactmen
 
 ## ACT
 
-To provide for the regulation of further education and training; to provide for the establishment, governance and funding of public further education and training colleges; to provide for the employment of staff at public further education and training colleges; to provide for the registration of private  further  education  and  training  colleges;  to  provide  for  the promotion of  quality  in  further  education  and  training;  to  provide  for transitional arrangements and the repeal or amendment of laws; and to provide for matters connected therewith.
+To provide for the regulation of further education and training; to provide for the establishment, governance and funding of public further education and training colleges; to provide for the employment of staff at public further education and training colleges; to provide for the registration of
 
 Legislation Matters
 
@@ -32,11 +32,13 @@ Legislation Matters
 
 [[START OF PAGE 2]]
 
+private further education and training colleges; to provide for the promotion of quality in further education and training; to provide for transitional arrangements and the repeal or amendment of laws; and to provide for matters connected therewith.
+
 ## PREAMBLE
 
 WHEREAS it is desirable to -
 
-ESTABLISH a national co-ordinated further education and training system which  promotes  co-operative  governance  and  provides  for  programmebased vocational and occupational training;
+ESTABLISH a national co-ordinated further education and training system which  promotes  co-operative  governance  and  provides  for  programme-based vocational and occupational training;
 
 RESTRUCTURE  AND  TRANSFORM programmes  and  colleges  to  respond better to the human resources, economic and development needs of the Republic;
 
@@ -82,45 +84,45 @@ Legislation Matters
 
 ## CHAPTER 1 DEFINITIONS, PURPOSE AND APPLICATION OF ACT
 
-- Definitions
+- 1. Definitions
 
-- Purpose and application of Act
+- 2. Purpose and application of Act
 
 ## CHAPTER 2 PUBLIC COLLEGES
 
-- Establishment of public college
+- 3. Establishment of public college
 
-- Declaration of institution as public college
+- 4. Declaration of institution as public college
 
-- Consequences of declaration as public college
+- 5. Consequences of declaration as public college
 
-- Merger of public colleges
+- 6. Merger of public colleges
 
-- Single council for two or more public colleges
+- 7. Single council for two or more public colleges
 
-- Closure of public college
+- 8. Closure of public college
 
 ## CHAPTER 3 GOVERNANCE OF PUBLIC COLLEGES
 
-- Public college governance structures
+- 9. Public college governance structures
 
-- Council of public college
+- 10. Council of public college
 
-- Academic board of public college
+- 11. Academic board of public college
 
-- Committees of council and academic board
+- 12. Committees of council and academic board
 
-- Principal of public college
+- 13. Principal of public college
 
-- Student representative council
+- 14. Student representative council
 
-- Disciplinary measures
+- 15. Disciplinary measures
 
-- Prohibition of corporal punishment and initiation practices
+- 16. Prohibition of corporal punishment and initiation practices
 
-- Admission policy of public college
+- 17. Admission policy of public college
 
-- Standard college statute
+- 18. Standard college statute
 
 Legislation Matters
 
@@ -132,51 +134,51 @@ Legislation Matters
 
 ## CHAPTER 4 APPOINTMENT OF MANAGEMENT STAFF, LECTURERS AND SUPPORT STAFF IN PUBLIC COLLEGES
 
-- Appointment of management staff
+- 19. Appointment of management staff
 
-- Appointment of lecturers and support staff
+- 20. Appointment of lecturers and support staff
 
-- Dispute resolution between college, lecturers and support staff
+- 21. Dispute resolution between college, lecturers and support staff
 
 ## CHAPTER 5 FUNDING OF PUBLIC COLLEGES
 
-- Responsibility of State
+- 22. Responsibility of State
 
-- Norms and standards for funding of public colleges
+- 23. Norms and standards for funding of public colleges
 
-- Funds of public colleges
+- 24. Funds of public colleges
 
-- Financial records and statements of public colleges
+- 25. Financial records and statements of public colleges
 
-- Failure of council to comply with Act or certain conditions
+- 26. Failure of council to comply with Act or certain conditions
 
 ## CHAPTER 6 PRIVATE COLLEGES
 
-- Designation of registrar
+- 27. Designation of registrar
 
-- Registration of private college
+- 28. Registration of private college
 
-- Application for registration
+- 29. Application for registration
 
-- Requirements for registration
+- 30. Requirements for registration
 
-- Determination of application for registration
+- 31. Determination of application for registration
 
-- Certificate of registration
+- 32. Certificate of registration
 
-- Inspection of register and auditor's report
+- 33. Inspection of register and auditor's report
 
-- Records and audits
+- 34. Records and audits
 
-- Amendment of registration and provisional registration
+- 35. Amendment of registration and provisional registration
 
-- Requirements for amendment of registration or provisional registration and determination of application
+- 36. Requirements for amendment of registration or provisional registration and determination of application
 
-- Conditions for registration
+- 37. Conditions for registration
 
-- Amendment or cancellation of conditions
+- 38. Amendment or cancellation of conditions
 
-- Cancellation of registration
+- 39. Cancellation of registration
 
 Legislation Matters
 
@@ -186,9 +188,11 @@ Legislation Matters
 
 [[START OF PAGE 6]]
 
-- Steps before amendment or cancellation
+- 40. Steps before amendment or cancellation
 
-- Appeal to Minister
+- 41. Appeal to Minister
+
+## CHAPTER 6A
 
 - 41A. Objectives of Chapter
 
@@ -218,55 +222,53 @@ Legislation Matters
 
 ## CHAPTER 7 PROMOTION OF QUALITY
 
-- Promotion of quality in further education and training
+- 42. Promotion of quality in further education and training
 
-- Further education and training programmes
+- 43. Further education and training programmes
 
 ## CHAPTER 8 GENERAL
 
-- Strategic plan and annual report
+- 44. Strategic plan and annual report
 
-- Duty of colleges to provide information
+- 45. Duty of colleges to provide information
 
-- Investigation at public college, and appointment of administrator
+- 46. Investigation at public college, and appointment of administrator
 
-- Name change of public college
+- 47. Name change of public college
 
-- Offences
+- 48. Offences
 
-- Limitation of liability
+- 49. Limitation of liability
 
 Legislation Matters
 
 96
 
-## CHAPTER 6A
-
 [[END OF PAGE 6]]
 
 [[START OF PAGE 7]]
 
-- Delegation of functions
+- 50. Delegation of functions
 
-- Regulations
+- 51. Regulations
 
-- Application of Act when in conflict with other laws
+- 52. Application of Act when in conflict with other laws
 
 ## CHAPTER 9 TRANSITIONAL AND OTHER ARRANGEMENTS
 
-- Existing public further education and training institutions, structures and bodies
+- 53. Existing public further education and training institutions, structures and bodies
 
-- Staff
+- 54. Staff
 
-- Application for registration by private colleges
+- 55. Application for registration by private colleges
 
-- National Board for Further Education and Training (NBFET)
+- 56. National Board for Further Education and Training (NBFET)
 
-- Disciplinary measures
+- 57. Disciplinary measures
 
-- Repeal of laws
+- 58. Repeal of laws
 
-- Short title
+- 59. Short title
 
 - SCHEDULE 1 -
 
@@ -290,15 +292,15 @@ Legislation Matters
 
 - In this Act, unless the context indicates otherwise -
 
-'academic board' means the body contemplated in section 11;
+“academic board” means the body contemplated in section 11;
 
-'applicant' means a person who makes an application contemplated in section 29;
+“applicant” means a person who makes an application contemplated in section 29;
 
-'auditor' means a person registered in terms of the Auditing Profession Act, 2005 (Act No. 26 of 2005);
+“auditor” means a person registered in terms of the Auditing Profession Act, 2005 (Act No. 26 of 2005);
 
-'Basic Conditions of Employment Act' means the Basic Conditions of Employment Act, 1997 (Act No. 75 of 1997);
+“Basic Conditions of Employment Act” means the Basic Conditions of Employment Act, 1997 (Act No. 75 of 1997);
 
-'college' means a public or private further education and training institution that is established, declared or registered under this Act, but does not include -
+“college” means a public or private further education and training institution that is established, declared or registered under this Act, but does not include -
 
 (a) a school offering further education and training programmes under the South African Schools Act; or
 
@@ -306,9 +308,9 @@ Legislation Matters
 
 [Para. (b) substituted by s. 9 of Act 25/2010]
 
-'college statute' means policy, code of conduct and any other rules developed by a council in accordance with this Act;
+“college statute” means policy, code of conduct and any other rules developed by a council in accordance with this Act;
 
-'council' means the governing structure of a public college;
+“council” means the governing structure of a public college;
 
 Legislation Matters
 
@@ -318,23 +320,24 @@ Legislation Matters
 
 [[START OF PAGE 9]]
 
-'Department' means the Department of Higher Education and Training; [Definition of 'Department' substituted bys. 9 of Act 25/2010]
+“Department” means the Department of Higher Education and Training;
+[Definition of “Department” substituted by s. 9 of Act 25/2010]
 
-'Director-General' means the Director-General of the Department;
+“Director-General” means the Director-General of the Department;
 
-'Employment Equity Act' means the Employment Equity Act, 1998 (Act No. 55 of 1998);
+“Employment Equity Act” means the Employment Equity Act, 1998 (Act No. 55 of 1998);
 
-'financial year' in respect of a college means a year commencing on the first day of January and ending on the 31st day of December of the same year;
+“financial year” in respect of a college means a year commencing on the first day of January and ending on the 31st day of December of the same year;
 
-'foreign juristic person' means a person that is -
+“foreign juristic person” means a person that is -
 
 (a) registered or established as a juristic person in terms of a law of a foreign country; and
 
 (b) recognised or registered as an external company in terms of the Companies Act, 1973 (Act No. 61 of 1973);
 
-'further education and training' means all learning and training programmes leading to qualifications at levels 2 to 4 of the National Qualifications Framework or such further education and training levels determined by SAQA and contemplated in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995), which levels are above general education but below higher education;
+“further education and training” means all learning and training programmes leading to qualifications at levels 2 to 4 of the National Qualifications Framework or such further education and training levels determined by SAQA and contemplated in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995), which levels are above general education but below higher education;
 
-'general education' means the compulsory school attendance phase contemplated in section 3 of the South African Schools Act;
+“general education” means the compulsory school attendance phase contemplated in section 3 of the South African Schools Act;
 
 Legislation Matters
 
@@ -344,25 +347,26 @@ Legislation Matters
 
 [[START OF PAGE 10]]
 
-'Head of Department' means the head of a provincial department of education;
+“Head of Department” means the head of a provincial department of education;
 
-'higher education' means higher education as defined in the Higher Education Act, 1997 (Act No. 101 of 1997);
+“higher education” means higher education as defined in the Higher Education Act, 1997 (Act No. 101 of 1997);
 
-'Labour Relations Act' means the Labour Relations Act, 1995 (Act No. 66 of 1995);
+“Labour Relations Act” means the Labour Relations Act, 1995 (Act No. 66 of 1995);
 
-'lecturer' means any person who teaches, educates or trains other persons or who provides professional educational services at any college, and who is appointed in a post on any lecturer establishment under this Act;
+“lecturer” means any person who teaches, educates or trains other persons or who provides professional educational services at any college, and who is appointed in a post on any lecturer establishment under this Act;
 
-'local juristic person' means a person established as a juristic person in South Africa in terms of the Companies Act, 1973 (Act No. 61 of 1973);
+“local juristic person” means a person established as a juristic person in South Africa in terms of the Companies Act, 1973 (Act No. 61 of 1973);
 
-'management staff' means the principal and vice-principal of a public college;
+“management staff” means the principal and vice-principal of a public college;
 
-'Member of the Executive Council' means the Member of the Executive Council of a province who is responsible for education in that province;
+“Member of the Executive Council” means the Member of the Executive Council of a province who is responsible for education in that province;
 
-'Minister' means the Minister of Higher Education and Training; [Definition of 'Minister' substituted by s. 9 of Act 25/2010]
+“Minister” means the Minister of Higher Education and Training;
+[Definition of “Minister” substituted by s. 9 of Act 25/2010]
 
-'National Qualifications Framework' means the National Qualifications Framework as defined in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
+“National Qualifications Framework” means the National Qualifications Framework as defined in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
 
-'NBFET' means the National Board for Further Education and Training, established by regulation in terms of section 11 of the
+“NBFET” means the National Board for Further Education and Training, established by regulation in terms of section 11 of the
 
 Legislation Matters
 
@@ -374,21 +378,23 @@ Legislation Matters
 
 National Education Policy Act, 1996 (Act No. 27 of 1996);
 
-'organ of state' means an organ of state as defined in section 239 of the Constitution of the Republic of South Africa, 1996; 'policy' means -
+“organ of state” means an organ of state as defined in section 239 of the Constitution of the Republic of South Africa, 1996;
+
+“policy” means -
 
 (a) policy determined by the Minister in terms of the National Education Policy Act, 1996 (Act No. 27 of 1996); or
 
 (b) policy determined by the Member of the Executive Council in terms of a provincial law;
 
-'prescribed' means prescribed by regulation made in terms of section 51;
+“prescribed” means prescribed by regulation made in terms of section 51;
 
-'principal' means the chief executive and accounting officer of a public college, and includes a rector of a public college;
+“principal” means the chief executive and accounting officer of a public college, and includes a rector of a public college;
 
-'private college' means any college that provides further education and training on a full-time, part-time or distance basis and which is registered or provisionally registered as a private college under this Act;
+“private college” means any college that provides further education and training on a full-time, part-time or distance basis and which is registered or provisionally registered as a private college under this Act;
 
-'PSCBC' means the Public Service Coordinating Bargaining Council established in terms of the Labour Relations Act;
+“PSCBC” means the Public Service Coordinating Bargaining Council established in terms of the Labour Relations Act;
 
-'public college' means any college that provides further education and training on a full-time, part-time or distance basis and which is -
+“public college” means any college that provides further education and training on a full-time, part-time or distance basis and which is -
 
 (a) established or regarded as having been established as a public college under this Act; or
 
@@ -402,19 +408,19 @@ Legislation Matters
 
 [[START OF PAGE 12]]
 
-'Public Service Act' means the Public Service Act, 1994 (Proclamation No. 103 of 1994);
+“Public Service Act” means the Public Service Act, 1994 (Proclamation No. 103 of 1994);
 
-'SAQA' means the South African Qualifications Authority, established by section 3 of the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
+“SAQA” means the South African Qualifications Authority, established by section 3 of the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
 
-'school' means a school as defined in the South African Schools Act;
+“school” means a school as defined in the South African Schools Act;
 
-'South African Schools Act' means the South African Schools Act, 1996 (Act No. 84 of 1996);
+“South African Schools Act” means the South African Schools Act, 1996 (Act No. 84 of 1996);
 
-'staff' means persons employed at a public college;
+“staff” means persons employed at a public college;
 
-'student' means any person registered as a student at a college;
+“student” means any person registered as a student at a college;
 
-'support staff' includes staff who render -
+“support staff” includes staff who render -
 
 (a) academic support services;
 
@@ -440,21 +446,21 @@ Legislation Matters
 
 [[START OF PAGE 13]]
 
-'This Act' includes any regulation made in terms of section 51;
+“This Act” includes any regulation made in terms of section 51;
 
-'to provide further education and training' means-
+“to provide further education and training” means-
 
 (a) to register students for all learning and training programmes leading to qualifications at levels 2 to 4 of the National Qualifications Framework or such further education and training levels determined by SAQA and contemplated in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995), which levels are above general education but below higher education; and
 
 (b) to take responsibility for the registration of students, the provision and delivery of the curriculum and the assessment of students;
 
-'Umalusi' means the council established by section 4 of the General and Further Education and Training Quality Assurance Act, 2001 (Act No. 58 of 2001);
+“Umalusi” means the council established by section 4 of the General and Further Education and Training Quality Assurance Act, 2001 (Act No. 58 of 2001);
 
-'vice-principal' includes a vice-rector.
+“vice-principal” includes a vice-rector.
 
-### Purpose and application of Act
+### 2. Purpose and application of Act
 
-- The purpose of this Act is to -
+(1) The purpose of this Act is to -
 
 (a) enable students to acquire -
 
@@ -480,17 +486,17 @@ Legislation Matters
 
 (iii) entry into a higher education institution.
 
-- This Act applies to all education institutions which have been established or declared a public college or registered as a private college in terms of this Act.
+(2) This Act applies to all education institutions which have been established or declared a public college or registered as a private college in terms of this Act.
 
 ## CHAPTER 2 PUBLIC COLLEGES
 
 ### 3. Establishment of public college
 
-- The Member of the Executive Council may, by notice in the Gazette and from money appropriated for this purpose by the provincial legislature, establish a public college.
+(1) The Member of the Executive Council may, by notice in the Gazette and from money appropriated for this purpose by the provincial legislature, establish a public college.
 
-- Every public college is a juristic person.
+(2) Every public college is a juristic person.
 
-- Despite subsection (2) but subject to subsection (4), a public college may not, without the concurrence of the Member of the Executive Council, dispose of or alienate in any manner any movable or immovable property acquired with the financial assistance of the State or grant to any person any real right therein or servitude thereon.
+(3) Despite subsection (2) but subject to subsection (4), a public college may not, without the concurrence of the Member of the Executive Council, dispose of or alienate in any manner any movable or immovable property acquired with the financial assistance of the State or grant to any person any real right therein or servitude thereon.
 
 Legislation Matters
 
@@ -506,15 +512,15 @@ Legislation Matters
 
 (b) must publish the value contemplated in paragraph (a) by notice in the Gazette.
 
-- The Head of Department may inspect, and must compile an inventory of all, the assets of a public college.
+(5) The Head of Department may inspect, and must compile an inventory of all, the assets of a public college.
 
-- The assets of a public college may not be attached as a result of any legal action taken against the college.
+(6) The assets of a public college may not be attached as a result of any legal action taken against the college.
 
 ### 4. Declaration of institution as public college
 
-- The Member of the Executive Council may, by notice in the Gazette , declare any institution providing further education and training as a public college.
+(1) The Member of the Executive Council may, by notice in the Gazette, declare any institution providing further education and training as a public college.
 
-- The notice contemplated in subsection (1) must determine -
+(2) The notice contemplated in subsection (1) must determine -
 
 (a) the date on which the institution becomes a public college;
 
@@ -522,7 +528,7 @@ Legislation Matters
 
 (c) the physical location and the official address of the public college.
 
-- The Member of the Executive Council may act in terms of subsection (1) only -
+(3) The Member of the Executive Council may act in terms of subsection (1) only -
 
 Legislation Matters 105
 
@@ -542,11 +548,11 @@ Legislation Matters 105
 
 (ii) given any interested person an opportunity to make representations; and
 
-(Iii) considered such representations.
+(iii) considered such representations.
 
 ### 5. Consequences of declaration as public college
 
-- From the date determined in terms of section 4(2)(a) -
+(1) From the date determined in terms of section 4(2)(a) -
 
 (a) the institution in question is regarded as being a public college established under this Act;
 
@@ -562,15 +568,15 @@ Legislation Matters
 
 (c) any agreement lawfully entered into by or on behalf of the institution must be regarded as having been concluded by the public college,
 
-(a) Immovable property vesting in the public college in terms of subsection (1)(b) must, subject to the concurrence of the Minister of Finance, be transferred into its name without payment by it of any transfer duty, stamp duty or other duty or costs due to the State, but subject to any existing right, encumbrance or trust on or over that property.
+(2) (a) Immovable property vesting in the public college in terms of subsection (1)(b) must, subject to the concurrence of the Minister of Finance, be transferred into its name without payment by it of any transfer duty, stamp duty or other duty or costs due to the State, but subject to any existing right, encumbrance or trust on or over that property.
 
 (b) Any fees charged by the Registrar of Deeds resulting from a transfer contemplated in paragraph (a) must be paid in full or in part from funds appropriated by the provincial legislature for that purpose.
 
-- The officer in charge of a deeds office or other office where the immovable property contemplated in subsection (2) is registered must, on submission of the title deed and on application by the public college, make such endorsements on that title deed and such entries in the registers as may be required to register the transfer in question.
+(3) The officer in charge of a deeds office or other office where the immovable property contemplated in subsection (2) is registered must, on submission of the title deed and on application by the public college, make such endorsements on that title deed and such entries in the registers as may be required to register the transfer in question.
 
-- The declaration of an institution as a public college in terms of section 4(1) does not affect anything lawfully done by the institution before the declaration.
+(4) The declaration of an institution as a public college in terms of section 4(1) does not affect anything lawfully done by the institution before the declaration.
 
-- All funds which, immediately before the date determined in terms of section 4(2)(a), were vested in the institution by virtue of a trust, donation or bequest must be applied by the
+(5) All funds which, immediately before the date determined in terms of section 4(2)(a), were vested in the institution by virtue of a trust, donation or bequest must be applied by the
 
 Legislation Matters
 
@@ -582,21 +588,21 @@ Legislation Matters
 
 public college in accordance with the trust, donation or bequest, as the case may be.
 
-- The Member of the Executive Council must in the notice contemplated in section 3(1) establish an interim council for the public college for a period not exceeding six months to perform the functions relating to the governance of the college until a council is established in terms of section 9(1).
+(6) The Member of the Executive Council must in the notice contemplated in section 3(1) establish an interim council for the public college for a period not exceeding six months to perform the functions relating to the governance of the college until a council is established in terms of section 9(1).
 
-- The Member of the Executive Council may extend the period referred to in subsection (6) once for a further period not exceeding six months.
+(7) The Member of the Executive Council may extend the period referred to in subsection (6) once for a further period not exceeding six months.
 
-- The composition of the interim council must be in accordance with section 10(4) and (7).
+(8) The composition of the interim council must be in accordance with section 10(4) and (7).
 
-- The interim council must co-opt three members of the interim management contemplated in subsection (10)(a) and these co-opted members have no voting powers.
+(9) The interim council must co-opt three members of the interim management contemplated in subsection (10)(a) and these co-opted members have no voting powers.
 
-- Apart from the functions contemplated in subsection (6), the interim council must in particular -
+(10) Apart from the functions contemplated in subsection (6), the interim council must in particular -
 
 (a) appoint an interim body to manage the day-to-day activities of the college; and
 
 (b) ensure that such other structures as may be determined in terms of this Act are constituted.
 
-- Any decision of the interim council which may affect the right of any structure of the public college, may only be taken after consultation with such structure,
+(11) Any decision of the interim council which may affect the right of any structure of the public college, may only be taken after consultation with such structure,
 
 Legislation Matters
 
@@ -606,13 +612,13 @@ Legislation Matters
 
 [[START OF PAGE 19]]
 
-- Despite sections 197 and 197A of the Labour Relations Act, contracts of employment between the institution and its employees are transferred automatically on declaration of an institution as a public college as from the date of the declaration contemplated in section 4, but any redeployment of an employee as a consequence of the declaration is subject to applicable labour legislation.
+(12)Despite sections 197 and 197A of the Labour Relations Act, contracts of employment between the institution and its employees are transferred automatically on declaration of an institution as a public college as from the date of the declaration contemplated in section 4, but any redeployment of an employee as a consequence of the declaration is subject to applicable labour legislation.
 
 ### 6. Merger of public colleges
 
-- Subject to subsection (2), the Member of the Executive Council may, in consultation with the Minister and by notice in the Gazette , merge two or more public colleges into a single college,
+(1) Subject to subsection (2), the Member of the Executive Council may, in consultation with the Minister and by notice in the Gazette, merge two or more public colleges into a single college,
 
-- Before merging two or more public colleges the Member of the Executive Council must -
+(2) Before merging two or more public colleges the Member of the Executive Council must -
 
 (a) give written notice to the colleges in question of the intention to merge them;
 
@@ -622,7 +628,7 @@ Legislation Matters
 
 (d) consider such representations.
 
-- The single college contemplated in subsection (1) is regarded as a public college established under this Act,
+(3) The single college contemplated in subsection (1) is regarded as a public college established under this Act,
 
 Legislation Matters 109
 
@@ -630,9 +636,9 @@ Legislation Matters 109
 
 [[START OF PAGE 20]]
 
-- Section 5(1)(b), (2), (3), (4) and (5) apply with the necessary changes required by the context to a merger contemplated in subsection (1).
+(4) Section 5(1)(b), (2), (3), (4) and (5) apply with the necessary changes required by the context to a merger contemplated in subsection (1).
 
-- The Member of the Executive Council must, after consultation with the councils of the public colleges that are to be merged, determine by notice contemplated in subsection (1) -
+(5) The Member of the Executive Council must, after consultation with the councils of the public colleges that are to be merged, determine by notice contemplated in subsection (1) -
 
 (a) the date of establishment of the college;
 
@@ -640,13 +646,13 @@ Legislation Matters 109
 
 (c) the physical location and official address of the college.
 
-- The councils of the colleges that are merged must have a meeting before the merger to constitute a single interim council comprising of all members of the councils concerned for a period not exceeding six months.
+(6) The councils of the colleges that are merged must have a meeting before the merger to constitute a single interim council comprising of all members of the councils concerned for a period not exceeding six months.
 
-- The Member of the Executive Council may extend the period referred to in subsection (6) once for a further period not exceeding six months.
+(7) The Member of the Executive Council may extend the period referred to in subsection (6) once for a further period not exceeding six months.
 
-- Despite sections 197 and 197A of the Labour Relations Act, the contracts of employment between the institution and its employees are transferred automatically to the merged single public college as from the date of the merger contemplated in subsection (1), but any redeployment of an employee as a consequence of the merger is subject to applicable labour legislation.
+(8) Despite sections 197 and 197A of the Labour Relations Act, the contracts of employment between the institution and its employees are transferred automatically to the merged single public college as from the date of the merger contemplated in subsection (1), but any redeployment of an employee as a consequence of the merger is subject to applicable labour legislation.
 
-- If two or more public colleges are merged into a single public college as contemplated in subsection (1), all the rights and
+(9) If two or more public colleges are merged into a single public college as contemplated in subsection (1), all the rights and
 
 Legislation Matters
 
@@ -664,11 +670,11 @@ obligations between the former employers and each employee at the time of the me
 
 (b) affect the liability of any person to be disciplined for, prosecuted for, convicted of or sentenced for any misconduct, crime or offence.
 
-- An employee or a student is subject to the code of conduct and rules applicable to the new single public college as from the date of the merger contemplated in subsection (1), but if any enquiry into incapacity or any proceedings in respect of a charge of misconduct had been instituted or commenced against any employee or student before the date of the merger, such enquiry or proceedings must continue in terms of the codes and rules applicable to the relevant public colleges immediately before the merger.
+(11) An employee or a student is subject to the code of conduct and rules applicable to the new single public college as from the date of the merger contemplated in subsection (1), but if any enquiry into incapacity or any proceedings in respect of a charge of misconduct had been instituted or commenced against any employee or student before the date of the merger, such enquiry or proceedings must continue in terms of the codes and rules applicable to the relevant public colleges immediately before the merger.
 
-- Until the new single public college has made a code of conduct or rules, the disciplinary codes and rules of the respective old public colleges are applicable to the respective employees and students.
+(12)Until the new single public college has made a code of conduct or rules, the disciplinary codes and rules of the respective old public colleges are applicable to the respective employees and students.
 
-- If two or more public colleges are merged into a single public college in terms of subsection (1), the new single public college continues with all academic programmes offered by the former colleges under the rules applicable to the
+(13) If two or more public colleges are merged into a single public college in terms of subsection (1), the new single public college continues with all academic programmes offered by the former colleges under the rules applicable to the
 
 Legislation Matters
 
@@ -682,7 +688,7 @@ respective colleges immediately before the date of the merger, until such progra
 
 ### 7. Single council for two or more public colleges
 
-- The Member of the Executive Council may determine that the governance of two or more public colleges must vest in a single council if -
+(1) The Member of the Executive Council may determine that the governance of two or more public colleges must vest in a single council if -
 
 (a) it is in the best interests of education and the colleges;
 
@@ -690,7 +696,7 @@ respective colleges immediately before the date of the merger, until such progra
 
 (c) he or she was so requested by the councils of those colleges.
 
-- The Member of the Executive Council may not act in terms of subsection (1) unless he or she has -
+(2) The Member of the Executive Council may not act in terms of subsection (1) unless he or she has -
 
 (a) given written notice to the colleges in question of the intention to merge them;
 
@@ -700,7 +706,7 @@ respective colleges immediately before the date of the merger, until such progra
 
 (d) considered all such submissions.
 
-- The Member of the Executive Council must, by notice in the
+(3) The Member of the Executive Council must, by notice in the
 
 Legislation Matters
 
@@ -710,19 +716,19 @@ Legislation Matters
 
 [[START OF PAGE 23]]
 
-Gazette , determine the composition of the single council in a manner that ensures that -
+Gazette, determine the composition of the single council in a manner that ensures that -
 
 (a) each public college is equitably represented; and
 
 (b) it complies with section 10(6), (7) and (9),
 
-- Any council that is the subject of a notice in terms of subsection (2) continues to exist until the first meeting of the single council constituted in terms of this section,
+(4) Any council that is the subject of a notice in terms of subsection (2) continues to exist until the first meeting of the single council constituted in terms of this section,
 
 ### 8. Closure of public college
 
-- The Member of the Executive Council may, by notice in the Gazette , close a public college.
+(1) The Member of the Executive Council may, by notice in the Gazette, close a public college.
 
-- The Member of the Executive Council may not act in terms of subsection (1) unless he or she has
+(2) The Member of the Executive Council may not act in terms of subsection (1) unless he or she has
 
 (a) consulted with the Minister;
 
@@ -742,25 +748,25 @@ Legislation Matters
 
 [[START OF PAGE 24]]
 
-- If a public college is closed under subsection (1) -
+(3) If a public college is closed under subsection (1) -
 
 (a) all assets and liabilities of such college must, after such closure, be dealt with according to law by the Member of the Executive Council; and
 
 (b) any assets remaining after payment of all liabilities vest in the Member of the Executive Council.
 
-- Subsections (2) to (5) of section 5 and section 6(2) apply with the necessary changes required by the context to a closure referred to in subsection (1).
+(4) Subsections (2) to (5) of section 5 and section 6(2) apply with the necessary changes required by the context to a closure referred to in subsection (1).
 
 ## CHAPTER 3 GOVERNANCE OF PUBLIC COLLEGES
 
-### Public college governance structures
+### 9. Public college governance structures
 
-- Every public college must establish a council, an academic board and a student representative council.
+(1) Every public college must establish a council, an academic board and a student representative council.
 
-- Every public college may establish such other structures as may be determined in the college statute.
+(2) Every public college may establish such other structures as may be determined in the college statute.
 
-- The structures referred to in subsection (1) must elect a chairperson, vice-chairperson and other office-bearers from among its members in accordance with the college statute.
+(3) The structures referred to in subsection (1) must elect a chairperson, vice-chairperson and other office-bearers from among its members in accordance with the college statute.
 
-- A member of a structure contemplated in subsection (1) -
+(4) A member of a structure contemplated in subsection (1) -
 
 (a) holds office for a period of five years: Provided that such a member remains eligible to be a member of that structure; and
 
@@ -774,15 +780,15 @@ Legislation Matters
 
 (b) may not serve for more than two consecutive terms of office.
 
-- The procedures for the disqualification, removal and filling of vacancies must be determined in the college statute.
+(5) The procedures for the disqualification, removal and filling of vacancies must be determined in the college statute.
 
-- The council may not establish or create any juristic person in terms of any other legislation or common law.
+(6) The council may not establish or create any juristic person in terms of any other legislation or common law.
 
 ### 10. Council of public college
 
-- The council of a public college must perform all the functions, including the development of a college statute, which are necessary to govern the public college, subject to this Act and any applicable national or provincial law.
+(1) The council of a public college must perform all the functions, including the development of a college statute, which are necessary to govern the public college, subject to this Act and any applicable national or provincial law.
 
-- The council must, with the concurrence of the academic board -
+(2) The council must, with the concurrence of the academic board -
 
 (a) develop a strategic plan for the public college which must -
 
@@ -806,9 +812,9 @@ Legislation Matters
 
 (c) ensure that the public college complies with accreditation requirements necessary to provide learning programmes in terms of standards and qualifications as registered on the National Qualifications Framework.
 
-- The council, after consultation with the student representative council, must provide for a suitable structure to advise on policy for student support services within the public college.
+(3) The council, after consultation with the student representative council, must provide for a suitable structure to advise on policy for student support services within the public college.
 
-- The council of a public college consists of -
+(4) The council of a public college consists of -
 
 (a) the principal;
 
@@ -832,11 +838,11 @@ Legislation Matters
 
 (g) two students of the public college, elected by the student representative council of the public college.
 
-- The chairperson, vice-chairperson or other office-bearers of the council may not be students or members of the staff of the college, but the secretary may be a member of staff.
+(5) The chairperson, vice-chairperson or other office-bearers of the council may not be students or members of the staff of the college, but the secretary may be a member of staff.
 
-- The council must, in consultation with the Member of the Executive Council, appoint four additional external persons with financial, human resources and legal skills as members of the council.
+(6) The council must, in consultation with the Member of the Executive Council, appoint four additional external persons with financial, human resources and legal skills as members of the council.
 
-- The manner in which the members of the council contemplated in subsection (4)(c) to (g) are to be elected, must, where applicable, be determined by the Member of the Executive Council by notice in the Gazette or in terms of a provincial law and must, in so far as it is practically possible, ensure that -
+(7) The manner in which the members of the council contemplated in subsection (4)(c) to (g) are to be elected, must, where applicable, be determined by the Member of the Executive Council by notice in the Gazette or in terms of a provincial law and must, in so far as it is practically possible, ensure that -
 
 (a) the functions of the council or interim council are performed according to the highest professional standards;
 
@@ -856,7 +862,7 @@ Legislation Matters
 
 (e) the council is broadly representative of the community served by the public college in respect of race, gender and disability.
 
-- At least 60 per cent of the members of a council must be external persons who are not -
+(8) At least 60 per cent of the members of a council must be external persons who are not -
 
 (a) students or support staff of the public college;
 
@@ -864,15 +870,15 @@ Legislation Matters
 
 (c) employed by the college.
 
-- The members of a council or an interim council -
+(9) The members of a council or an interim council -
 
 (a) must be persons with knowledge and experience relevant to the objects and governance of the public college in question; and
 
 (b) must participate in the deliberations of the council or interim council in the best interest of the public college in question.
 
-- The Member of the Executive Council must -
+(10) The Member of the Executive Council must -
 
-(a) by notice in the Gazette , or by any other reasonably practicable means, invite nominations for the appointment of the members contemplated in subsection (4)(b); and
+(a) by notice in the Gazette, or by any other reasonably practicable means, invite nominations for the appointment of the members contemplated in subsection (4)(b); and
 
 (b) consider the nominations and appoint the members with due regard to the criteria contemplated in this section.
 
@@ -886,7 +892,7 @@ Legislation Matters
 
 ### 11. Academic board of public college
 
-- The academic board of a public college is accountable to the council for -
+(1) The academic board of a public college is accountable to the council for -
 
 (a) the academic functions of the public college and the promotion of the participation of women and the disabled in the learning programmes;
 
@@ -896,9 +902,9 @@ Legislation Matters
 
 (d) performing such other functions as may be delegated or assigned to it by the council.
 
-- Subject to the approval of the council and to any applicable policy, the academic board must determine the learning programmes contemplated in section 43 that will be offered at the public college.
+(2) Subject to the approval of the council and to any applicable policy, the academic board must determine the learning programmes contemplated in section 43 that will be offered at the public college.
 
-- The academic board of a public college consists of -
+(3) The academic board of a public college consists of -
 
 (a) the principal;
 
@@ -920,31 +926,31 @@ Legislation Matters
 
 (f) such additional persons as may be determined by the council.
 
-- The number of persons contemplated in subsection (3)(c), (d), (e) and (f) and the manner in which they are appointed or elected, as the case may be, must be determined by the council in accordance with the college statute.
+(4) The number of persons contemplated in subsection (3)(c), (d), (e) and (f) and the manner in which they are appointed or elected, as the case may be, must be determined by the council in accordance with the college statute.
 
-- The majority of the members of the academic board must be lecturers.
-
-Legislation Matters
-
-120
+(5) The majority of the members of the academic board must be lecturers.
 
 ### 12. Committees of council and academic board
 
-- The council may -
+(1) The council may -
 
 (a) establish a committee to assist it in the performance of its functions; and
 
 (b) appoint a person who is not a member of the council as member of the committee.
 
-- The chairperson of a committee must be a member of the council.
+(2) The chairperson of a committee must be a member of the council.
 
-- The council is not divested of the responsibility for the performance of any function delegated to a committee,
+(3) The council is not divested of the responsibility for the performance of any function delegated to a committee,
 
-- The council must determine the -
+(4) The council must determine the -
 
 (a) composition of a committee;
 
 (b) functions of a committee;
+
+Legislation Matters
+
+120
 
 [[END OF PAGE 30]]
 
@@ -954,11 +960,11 @@ Legislation Matters
 
 (d) dissolution of a committee.
 
-- Subsections (1) to (4) apply with the necessary changes to the academic board,
+(5) Subsections (1) to (4) apply with the necessary changes to the academic board,
 
-- The council and the academic board may jointly establish a committee to assist them in the performance of functions that are common to the council and the academic board.
+(6) The council and the academic board may jointly establish a committee to assist them in the performance of functions that are common to the council and the academic board.
 
-- Subsections (1) to (4) apply with the necessary changes to a joint committee established in terms of subsection (6).
+(7) Subsections (1) to (4) apply with the necessary changes to a joint committee established in terms of subsection (6).
 
 ### 13. Principal of public college
 
@@ -970,7 +976,7 @@ The establishment, composition, manner of election, term of office, functions an
 
 ### 15. Disciplinary measures
 
-- Every student at a public college is subject to a code of conduct, disciplinary measures and procedures which are determined by the council, subject to provincial policy.
+(1) Every student at a public college is subject to a code of conduct, disciplinary measures and procedures which are determined by the council, subject to provincial policy.
 
 Legislation Matters
 
@@ -980,23 +986,23 @@ Legislation Matters
 
 [[START OF PAGE 32]]
 
-- The code of conduct, disciplinary measures and procedures may only be determined after consultation with the academic board and the student representative council of the public college in question.
+(2) The code of conduct, disciplinary measures and procedures may only be determined after consultation with the academic board and the student representative council of the public college in question.
 
-- The policy contemplated in subsection (1) must include measures to curb racism and any form of unfair discrimination, violence and harassment, especially sexual violence and sexual harassment.
+(3) The policy contemplated in subsection (1) must include measures to curb racism and any form of unfair discrimination, violence and harassment, especially sexual violence and sexual harassment.
 
 ### 16. Prohibition of corporal punishment and initiation practices
 
-- No person may administer corporal punishment to a student at a college.
+(1) No person may administer corporal punishment to a student at a college.
 
-- Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to a sentence which may be imposed for assault.
+(2) Any person who contravenes subsection (1) is guilty of an offence and liable on conviction to a sentence which may be imposed for assault.
 
-- No person may conduct or participate in initiation practices at a college.
+(3) No person may conduct or participate in initiation practices at a college.
 
-- Any person who contravenes subsection (3) is guilty of misconduct and disciplinary action must be instituted against such a person,
+(4) Any person who contravenes subsection (3) is guilty of misconduct and disciplinary action must be instituted against such a person,
 
-- Despite subsection (4), a person may institute civil action against any person or group of persons who manipulated or forced the first-mentioned person to conduct or participate in initiation practices.
+(5) Despite subsection (4), a person may institute civil action against any person or group of persons who manipulated or forced the first-mentioned person to conduct or participate in initiation practices.
 
-- For the purposes of this section, 'initiation practice' means any act that in the process of initiation, admission into or affiliation with, or as condition for continued membership of,
+(6) For the purposes of this section, “initiation practice” means any act that in the process of initiation, admission into or affiliation with, or as condition for continued membership of,
 
 Legislation Matters
 
@@ -1020,11 +1026,11 @@ a college, a group, intramural or extramural activities, a sports team or an org
 
 (f) destroys public or private property.
 
-- In considering whether conduct or participation of a person in any initiation practice falls within the definition of 'initiation practice', the relevant disciplinary authority must take into account the right of the student not to be subjected to such practice.
+(7) In considering whether conduct or participation of a person in any initiation practice falls within the definition of “initiation practice”, the relevant disciplinary authority must take into account the right of the student not to be subjected to such practice.
 
 ### 17. Admission policy of public college
 
-- Subject to applicable policy determined by the Minister, the council of a public college determines the admission policy of the college, after consulting the academic board and with the approval of the Member of Executive Council.
+(1) Subject to applicable policy determined by the Minister, the council of a public college determines the admission policy of the college, after consulting the academic board and with the approval of the Member of Executive Council.
 
 Legislation Matters
 
@@ -1034,9 +1040,9 @@ Legislation Matters
 
 [[START OF PAGE 34]]
 
-- The admission policy of a public college may not unfairly discriminate in any way and must provide appropriate measures for the redress of past inequalities.
+(2) The admission policy of a public college may not unfairly discriminate in any way and must provide appropriate measures for the redress of past inequalities.
 
-- The council may, subject to applicable policy, the approval of the Head of Department and after consultation with the academic board -
+(3) The council may, subject to applicable policy, the approval of the Head of Department and after consultation with the academic board -
 
 (a) determine admission requirements in respect of particular further education and training programmes;
 
@@ -1046,7 +1052,7 @@ Legislation Matters
 
 (d) refuse the readmission of a student who fails to satisfy the minimum requirements for readmission.
 
-- The council of a public college must take the necessary steps within its available resources to ensure that the college is accessible to disabled students.
+(4) The council of a public college must take the necessary steps within its available resources to ensure that the college is accessible to disabled students.
 
 ### 18. Standard college statute
 
@@ -1064,21 +1070,21 @@ Legislation Matters
 
 ### 19. Appointment of management staff
 
-- The Member of the Executive Council must appoint the members of the management staff of a public college in terms of the Public Service Act.
+(1) The Member of the Executive Council must appoint the members of the management staff of a public college in terms of the Public Service Act.
 
-- The management staff must report to and are accountable to the council in respect of matters and functions allocated to them by the council in terms of this Act.
+(2) The management staff must report to and are accountable to the council in respect of matters and functions allocated to them by the council in terms of this Act.
 
-- The principal must report to the Head of Department in terms of his or her performance agreement.
+(3) The principal must report to the Head of Department in terms of his or her performance agreement.
 
 ### 20. Appointment of lecturers and support staff
 
-- The college is the employer of all lecturers and support staff.
+(1) The college is the employer of all lecturers and support staff.
 
-- Subject to this Act, the Labour Relations Act, the Basic Conditions of Employment Act, the Employment Equity Act and any other applicable law, the council must establish posts for lecturers and support staff.
+(2) Subject to this Act, the Labour Relations Act, the Basic Conditions of Employment Act, the Employment Equity Act and any other applicable law, the council must establish posts for lecturers and support staff.
 
-- The council must appoint and remunerate staff from the funds allocated in accordance with the norms and standards contemplated in section 23 and other income received by the college from other sources.
+(3) The council must appoint and remunerate staff from the funds allocated in accordance with the norms and standards contemplated in section 23 and other income received by the college from other sources.
 
-- Despite anything to the contrary in any other law but subject
+(4) Despite anything to the contrary in any other law but subject
 
 Legislation Matters
 
@@ -1090,11 +1096,11 @@ Legislation Matters
 
 to this section, the Labour Relations Act or any other collective agreement concluded by a bargaining council that has jurisdiction in respect of employees of a public college, the council must determine the functions, conditions of service and privileges of lecturers and support staff.
 
-- The lecturers and support staff are accountable to the principal.
+(5) The lecturers and support staff are accountable to the principal.
 
-- When presenting the annual budget contemplated in section 22 the council must provide sufficient details of any posts envisaged in terms of subsection (2), including the estimated cost relating to the employment of lecturers and support staff in such posts and the manner in which it is proposed that such costs will be met.
+(6) When presenting the annual budget contemplated in section 22 the council must provide sufficient details of any posts envisaged in terms of subsection (2), including the estimated cost relating to the employment of lecturers and support staff in such posts and the manner in which it is proposed that such costs will be met.
 
-- The lecturers and support staff contemplated in subsection (1) must be employed in compliance with the basic values and principles referred to in section 195 of the Constitution of the Republic of South Africa, 1996, and factors to be taken into account when making appointments include, but are not limited to -
+(7) The lecturers and support staff contemplated in subsection (1) must be employed in compliance with the basic values and principles referred to in section 195 of the Constitution of the Republic of South Africa, 1996, and factors to be taken into account when making appointments include, but are not limited to -
 
 (a) the ability of the candidates;
 
@@ -1104,7 +1110,7 @@ to this section, the Labour Relations Act or any other collective agreement conc
 
 (d) the need for representivity.
 
-- The council must adopt a Disciplinary Code for lecturers and support staff in accordance with the college statute.
+(8) The council must adopt a Disciplinary Code for lecturers and support staff in accordance with the college statute.
 
 Legislation Matters
 
@@ -1116,17 +1122,17 @@ Legislation Matters
 
 ### 21. Dispute resolution between college, lecturers and support staff
 
-- If a dispute arises about the payment or employment conditions of a lecturer or a member of the support staff, any party to the dispute may refer the dispute in writing to -
+(1) If a dispute arises about the payment or employment conditions of a lecturer or a member of the support staff, any party to the dispute may refer the dispute in writing to -
 
 (a) a bargaining council established in terms of the Labour Relations Act, if the employer or employee parties to the dispute fall within the registered scope of a bargaining council; or
 
 (b) the Commission for Conciliation, Mediation and Arbitration established by section 12 of the Labour Relations Act, if no bargaining council has jurisdiction.
 
-- The party referring the dispute must satisfy the bargaining council or the Commission for Conciliation, Mediation and Arbitration that a copy of the referral has been served on the other party.
+(2) The party referring the dispute must satisfy the bargaining council or the Commission for Conciliation, Mediation and Arbitration that a copy of the referral has been served on the other party.
 
-- The bargaining council or the Commission for Conciliation, Mediation and Arbitration must attempt to resolve the dispute through conciliation.
+(3) The bargaining council or the Commission for Conciliation, Mediation and Arbitration must attempt to resolve the dispute through conciliation.
 
-- If the bargaining council or the Commission for Conciliation, Mediation and Arbitration is satisfied that the dispute remains unresolved, a party may refer the dispute for adjudication to the Labour Court established in terms of section 151 of the Labour Relations Act.
+(4) If the bargaining council or the Commission for Conciliation, Mediation and Arbitration is satisfied that the dispute remains unresolved, a party may refer the dispute for adjudication to the Labour Court established in terms of section 151 of the Labour Relations Act.
 
 Legislation Matters
 
@@ -1140,17 +1146,17 @@ Legislation Matters
 
 ### 22. Responsibility of State
 
-- The Member of the Executive Council must from money appropriated for this purpose by the provincial legislature fund public colleges on a fair, equitable and transparent basis.
+(1) The Member of the Executive Council must from money appropriated for this purpose by the provincial legislature fund public colleges on a fair, equitable and transparent basis.
 
-- The Member of the Executive Council may, subject to the norms and standards determined in terms of section 23, impose -
+(2) The Member of the Executive Council may, subject to the norms and standards determined in terms of section 23, impose -
 
 (a) any condition in respect of an allocation of funding contemplated in subsection (1); and
 
 (b) different conditions in respect of different public colleges, different further education and training programmes or different allocations, if there is a reasonable basis for such differentiation,
 
-- Subject to the requirements in the minimum norms and standards determined in terms of section 23, the Member of the Executive Council must determine further appropriate measures for the redress of past inequalities.
+(3) Subject to the requirements in the minimum norms and standards determined in terms of section 23, the Member of the Executive Council must determine further appropriate measures for the redress of past inequalities.
 
-- The Member of the Executive Council must, on an annual basis, provide sufficient information to public colleges regarding the funding referred to in subsection (1) to enable the colleges to prepare their budgets for the next financial year.
+(4) The Member of the Executive Council must, on an annual basis, provide sufficient information to public colleges regarding the funding referred to in subsection (1) to enable the colleges to prepare their budgets for the next financial year.
 
 Legislation Matters
 
@@ -1166,7 +1172,7 @@ Subject to the Constitution and this Act, the Minister must, after consultation 
 
 ### 24. Funds of public colleges
 
-- The funds of a public college consist of -
+(1) The funds of a public college consist of -
 
 (a) funds allocated by the State;
 
@@ -1192,13 +1198,13 @@ Legislation Matters 129
 
 [[START OF PAGE 40]]
 
-- A public college may not raise money by means of a loan or overdraft without the approval of the Member of the Executive Council.
+(2) A public college may not raise money by means of a loan or overdraft without the approval of the Member of the Executive Council.
 
-- If a person lends money or grants an overdraft to a public college without the approval of the Member of the Executive Council, the State and the college are not bound by the contract of lending money or an overdraft agreement.
+(3) If a person lends money or grants an overdraft to a public college without the approval of the Member of the Executive Council, the State and the college are not bound by the contract of lending money or an overdraft agreement.
 
 ### 25. Financial records and statements of public colleges
 
-- The council of a public college must, in the manner determined by the Member of the Executive Council-
+(1) The council of a public college must, in the manner determined by the Member of the Executive Council-
 
 (a) keep records of all its proceedings;
 
@@ -1206,9 +1212,9 @@ Legislation Matters 129
 
 (c) implement internal audit and risk management systems which are not inferior to the standards contained in the Public Finance Management Act, 1999 (Act No. 1 of 1999).
 
-- The council of a public college must appoint an auditor to audit the records and financial statements referred to in this section.
+(2) The council of a public college must appoint an auditor to audit the records and financial statements referred to in this section.
 
-- The council of a public college must, in respect of the preceding financial year, and by a date or dates and in the manner determined by the Member of the Executive
+(3) The council of a public college must, in respect of the preceding financial year, and by a date or dates and in the manner determined by the Member of the Executive
 
 Legislation Matters
 
@@ -1228,13 +1234,13 @@ Council, provide the Member of the Executive Council with -
 
 (d) a balance sheet and cash flow statement.
 
-- The council of a public college must provide the Member of the Executive Council with such additional information as the Member of the Executive Council may require.
+(4) The council of a public college must provide the Member of the Executive Council with such additional information as the Member of the Executive Council may require.
 
 ### 26. Failure of council to comply with Act or certain conditions
 
-- If the management staff or council of a public college fails to comply with any provision of this Act under which an allocation from money appropriated by the provincial legislature is paid to the college, or with any condition subject to which any allocation is paid to the public college, the Member of the Executive Council may call upon the management staff or council to comply with the provision or condition within a specified period.
+(1) If the management staff or council of a public college fails to comply with any provision of this Act under which an allocation from money appropriated by the provincial legislature is paid to the college, or with any condition subject to which any allocation is paid to the public college, the Member of the Executive Council may call upon the management staff or council to comply with the provision or condition within a specified period.
 
-- If the management staff or council thereafter fails to comply with the provision or condition timeously, the Member of the Executive Council may withhold payment of any portion of any allocation appropriated by the provincial legislature in respect of the public college concerned.
+(2) If the management staff or council thereafter fails to comply with the provision or condition timeously, the Member of the Executive Council may withhold payment of any portion of any allocation appropriated by the provincial legislature in respect of the public college concerned.
 
 Legislation Matters
 
@@ -1244,7 +1250,7 @@ Legislation Matters
 
 [[START OF PAGE 42]]
 
-- Before taking action under subsection (2), the Member of the Executive Council must -
+(3) Before taking action under subsection (2), the Member of the Executive Council must -
 
 (a) give notice to the management staff or council of the public college concerned of the intention so to act;
 
@@ -1252,15 +1258,15 @@ Legislation Matters
 
 (c) consider such representations.
 
-- If the Member of the Executive Council acts under subsection (2), a report regarding the action must be tabled in the provincial legislature by the Member of the Executive Council as soon as reasonably practical after the action.
+(4) If the Member of the Executive Council acts under subsection (2), a report regarding the action must be tabled in the provincial legislature by the Member of the Executive Council as soon as reasonably practical after the action.
 
 ## CHAPTER 6 PRIVATE COLLEGES
 
 ### 27. Designation of registrar
 
-- The Director-General is the registrar of private colleges.
+(1) The Director-General is the registrar of private colleges.
 
-- The registrar may delegate any of his or her functions in terms of this Act to any employee in the Department.
+(2) The registrar may delegate any of his or her functions in terms of this Act to any employee in the Department.
 
 ### 28. Registration of private college
 
@@ -1284,7 +1290,7 @@ An application for registration as a private college must be made to the registr
 
 ### 30. Requirements for registration
 
-- The registrar must register an applicant as a private college if the registrar has reason to believe that the applicant -
+(1) The registrar must register an applicant as a private college if the registrar has reason to believe that the applicant -
 
 (a) is financially capable of satisfying its obligations to prospective students; and
 
@@ -1296,11 +1302,11 @@ An application for registration as a private college must be made to the registr
 
 (iii) complies with any other reasonable requirement prescribed by the Minister.
 
-- The registrar may require further information, particulars and documents in support of any application for registration.
+(2) The registrar may require further information, particulars and documents in support of any application for registration.
 
 ### 31. Determination of application for registration
 
-- The registrar -
+(1) The registrar -
 
 Legislation Matters
 
@@ -1316,7 +1322,7 @@ Legislation Matters
 
 (c) may register the applicant as a private college if the requirements for registration contemplated in section 30 are fulfilled.
 
-(a) If the registrar decides to grant the application, the registrar must -
+(2) (a) If the registrar decides to grant the application, the registrar must -
 
 (i) enter the applicant's name in the appropriate register of private colleges;
 
@@ -1324,7 +1330,7 @@ Legislation Matters
 
 (iii) furnish the certificate to the applicant; and
 
-(iv) as soon as practicable after the decision, publish the name of the applicant so registered and the title of the qualification offered by the applicant, in the Gazette .
+(iv) as soon as practicable after the decision, publish the name of the applicant so registered and the title of the qualification offered by the applicant, in the Gazette.
 
 (b) The registrar must notify the relevant Head of Department of the registration of a private college in that province.
 
@@ -1338,9 +1344,9 @@ Legislation Matters
 
 (c) If the registrar decides not to grant the application, the registrar must advise the applicant in writing of the decision and furnish the applicant with written reasons for the decision.
 
-- Despite subsection (1), the registrar may provisionally register an applicant other than a foreign juristic person who does not fulfil the requirements for registration contemplated in section 30 if the registrar believes that the applicant will be able to fulfil the relevant requirements within a reasonable period.
+(3) Despite subsection (1), the registrar may provisionally register an applicant other than a foreign juristic person who does not fulfil the requirements for registration contemplated in section 30 if the registrar believes that the applicant will be able to fulfil the relevant requirements within a reasonable period.
 
-- If the registrar provisionally registers an applicant under subsection (3), the registrar must -
+(4) If the registrar provisionally registers an applicant under subsection (3), the registrar must -
 
 (a) determine the period within which the applicant must satisfy the requirements for registration;
 
@@ -1350,9 +1356,9 @@ Legislation Matters
 
 (d) provide the certificate of provisional registration to the applicant; and
 
-(e) as soon as practicable after the decision, publish the name of the applicant so provisionally registered and the title of the qualifications offered by the applicant in the Gazette .
+(e) as soon as practicable after the decision, publish the name of the applicant so provisionally registered and the title of the qualifications offered by the applicant in the Gazette.
 
-- The registrar may, on good cause shown, extend the period referred to in subsection (4)(a).
+(5) The registrar may, on good cause shown, extend the period referred to in subsection (4)(a).
 
 Legislation Matters
 
@@ -1362,7 +1368,7 @@ Legislation Matters
 
 [[START OF PAGE 46]]
 
-- If, on the expiry of the period referred to in subsection (4)(a) or any extension thereof, the applicant -
+(6) If, on the expiry of the period referred to in subsection (4)(a) or any extension thereof, the applicant -
 
 (a) satisfies the requirements for registration specified by the registrar, the registrar must register the applicant in accordance with subsection (2)(a); or
 
@@ -1370,17 +1376,17 @@ Legislation Matters
 
 ### 32. Certificate of registration
 
-- A private college must conspicuously display -
+(1) A private college must conspicuously display -
 
 (a) its certificate of registration or provisional registration or a certified copy thereof on its premises; and
 
 (b) its registration number and an indication that it is registered or provisionally registered on all its official documents.
 
-- If the registrar has cancelled the registration or provisional registration of a private college in terms of section 39, the private college must return the original certificate of registration or provisional registration to the registrar within 14 days of such cancellation.
+(2) If the registrar has cancelled the registration or provisional registration of a private college in terms of section 39, the private college must return the original certificate of registration or provisional registration to the registrar within 14 days of such cancellation.
 
 ### 33. Inspection of register and auditor's report
 
-- Any person may inspect the register of private colleges and the auditor's report contemplated in section 34(2)(b).
+(1) Any person may inspect the register of private colleges and the auditor's report contemplated in section 34(2)(b).
 
 Legislation Matters
 
@@ -1390,11 +1396,11 @@ Legislation Matters
 
 [[START OF PAGE 47]]
 
-- The registrar must furnish a certified copy of, or extract from, any of the documents referred to in subsection (1) to any person who has paid the prescribed fee.
+(2) The registrar must furnish a certified copy of, or extract from, any of the documents referred to in subsection (1) to any person who has paid the prescribed fee.
 
 ### 34. Records and audits
 
-- Every private college must, in accordance with generally accepted accounting practice, principles and procedures -
+(1) Every private college must, in accordance with generally accepted accounting practice, principles and procedures -
 
 (a) keep books and records of income, expenditure, assets and liabilities; and
 
@@ -1406,7 +1412,7 @@ Legislation Matters
 
 (iii) such other information as the registrar may require.
 
-- Every private college must, within the period determined by the registrar-
+(2) Every private college must, within the period determined by the registrar-
 
 (a) ensure that an annual audit of its books, records of account and financial statements is carried out by an auditor, who must conduct the audit in accordance with generally accepted auditing standards;
 
@@ -1422,10 +1428,6 @@ Legislation Matters
 
 (c) furnish the registrar with any additional information, particulars or documents in the manner determined by the registrar.
 
-Legislation Matters
-
-138
-
 ### 35. Amendment of registration and provisional registration
 
 A private college may apply to the registrar to amend its registration or provisional registration -
@@ -1434,29 +1436,33 @@ A private college may apply to the registrar to amend its registration or provis
 
 (b) by paying the prescribed fee.
 
-### Requirements for amendment of registration or provisional registration and determination of application
+### 36. Requirements for amendment of registration or provisional registration and determination of application
 
-- The registrar may not amend the registration or provisional registration of a private college unless he or she is satisfied that such amendment is in the interests of further education and training and is compatible with this Act.
+(1) The registrar may not amend the registration or provisional registration of a private college unless he or she is satisfied that such amendment is in the interests of further education and training and is compatible with this Act.
 
-- The registrar may require further information, particulars or documents in support of any application for such amendment.
+(2) The registrar may require further information, particulars or documents in support of any application for such amendment.
 
-(a) If the registrar decides to grant the application, he or she must -
+(3) (a) If the registrar decides to grant the application, he or she must -
 
 (i) amend the certificate of registration or provisional registration accordingly;
 
 (ii) furnish a copy of the amended certificate to the applicant; and
 
+Legislation Matters
+
+138
+
 [[END OF PAGE 48]]
 
 [[START OF PAGE 49]]
 
-(iii) as soon as reasonably practicable after the decision, publish the name of the applicant whose certificate has been amended in the Gazette .
+(iii) as soon as reasonably practicable after the decision, publish the name of the applicant whose certificate has been amended in the Gazette.
 
 (b) If the registrar decides not to grant the application, he or she must advise the applicant in writing of the decision and furnish the applicant with written reasons for the decision.
 
 ### 37. Conditions for registration
 
-- The registrar may impose any condition on a private college in respect of -
+(1) The registrar may impose any condition on a private college in respect of -
 
 (a) its registration;
 
@@ -1464,7 +1470,7 @@ A private college may apply to the registrar to amend its registration or provis
 
 (c) any amendment of its registration or provisional registration.
 
-- The registrar may impose different conditions under subsection (1) in respect of different private colleges, if there is a reasonable basis for such differentiation.
+(2) The registrar may impose different conditions under subsection (1) in respect of different private colleges, if there is a reasonable basis for such differentiation.
 
 ### 38. Amendment or cancellation of conditions
 
@@ -1472,7 +1478,7 @@ Subject to section 40, the registrar may, on reasonable grounds, amend or cancel
 
 ### 39. Cancellation of registration
 
-- Subject to section 40, the registrar may, on reasonable
+(1) Subject to section 40, the registrar may, on reasonable
 
 Legislation Matters
 
@@ -1484,7 +1490,7 @@ Legislation Matters
 
 grounds, cancel any registration or provisional registration in terms of this Act.
 
-- If the accreditation of any further education and training programme offered by a private college is withdrawn, the registrar must review the registration of such college.
+(2) If the accreditation of any further education and training programme offered by a private college is withdrawn, the registrar must review the registration of such college.
 
 ### 40. Steps before amendment or cancellation
 
@@ -1498,9 +1504,9 @@ The registrar may not act under section 38 or 39 unless he or she -
 
 ### 41. Appeal to Minister
 
-- Any interested party may appeal to the Minister against any decision of the registrar in terms of this Chapter, and the Minister may confirm or set aside, in whole or in part, or vary, the decision of the registrar.
+(1) Any interested party may appeal to the Minister against any decision of the registrar in terms of this Chapter, and the Minister may confirm or set aside, in whole or in part, or vary, the decision of the registrar.
 
-- A decision of the Minister contemplated in subsection (1) may include an order setting aside any condition attached to a registration if the Minister is not satisfied that the condition is reasonable and justifiable.
+(2) A decision of the Minister contemplated in subsection (1) may include an order setting aside any condition attached to a registration if the Minister is not satisfied that the condition is reasonable and justifiable.
 
 Legislation Matters
 
@@ -1510,9 +1516,9 @@ Legislation Matters
 
 [[START OF PAGE 51]]
 
-- An appeal referred to in subsection (1) must be lodged with the Minister within 60 days of the date of the decision of the registrar.
+(3) An appeal referred to in subsection (1) must be lodged with the Minister within 60 days of the date of the decision of the registrar.
 
-- The Minister may, on good cause shown, extend the period within which an appeal may be noted against the decision of the registrar.
+(4) The Minister may, on good cause shown, extend the period within which an appeal may be noted against the decision of the registrar.
 
 ## CHAPTER 6A
 
@@ -1530,7 +1536,7 @@ The objectives of this Chapter are to provide for-
 
 ### 41B. Determination of national education policy for colleges
 
-- The Minister shall determine national education policy in accordance with the provisions of the Constitution and this Act.
+(1) The Minister shall determine national education policy in accordance with the provisions of the Constitution and this Act.
 
 Legislation Matters
 
@@ -1540,11 +1546,11 @@ Legislation Matters
 
 [[START OF PAGE 52]]
 
-- In determining national policy for education and training at colleges, the Minister shall take into account the competence of the provincial legislatures in terms of section 146 of the Constitution, and the relevant provisions of any provincial law relating to education.
+(2) In determining national policy for education and training at colleges, the Minister shall take into account the competence of the provincial legislatures in terms of section 146 of the Constitution, and the relevant provisions of any provincial law relating to education.
 
-- Subject to the Constitution, national policy shall prevail over the whole or a part of any provincial policy on further education and training if there is a conflict between the national and provincial policies.
+(3) Subject to the Constitution, national policy shall prevail over the whole or a part of any provincial policy on further education and training if there is a conflict between the national and provincial policies.
 
-- Subject to the provisions of subsections (1) to (3), the Minister shall determine national policy for the planning, provision, financing, coordination, management, governance, programmes, monitoring, evaluation and wellbeing of the further education and training system and, without derogating from the generality of this section, may determine national policy for-
+(4) Subject to the provisions of subsections (1) to (3), the Minister shall determine national policy for the planning, provision, financing, coordination, management, governance, programmes, monitoring, evaluation and well-being of the further education and training system and, without derogating from the generality of this section, may determine national policy for-
 
 (a) further education and training management information systems, including the provision of data in accordance with the international obligations of the government;
 
@@ -1672,11 +1678,11 @@ Legislation Matters
 
 ### 41D. Consultation on national education policy
 
-- Policy contemplated in section 41B shall be determined by the Minister after consultation with the Council of Education Ministers established by section 41H.
+(1) Policy contemplated in section 41B shall be determined by the Minister after consultation with the Council of Education Ministers established by section 41H.
 
-- The policy contemplated in section 41B shall be determined by the Minister with the concurrence of the Minister of Finance in so far as it involves expenditure from the State Revenue Fund.
+(2) The policy contemplated in section 41B shall be determined by the Minister with the concurrence of the Minister of Finance in so far as it involves expenditure from the State Revenue Fund.
 
-- Nothing in this section shall limit the discretion of the Minister to consult whomsoever he or she wishes for advice on the determination of national education policy.
+(3) Nothing in this section shall limit the discretion of the Minister to consult whomsoever he or she wishes for advice on the determination of national education policy.
 
 ### 41E. Consultation on legislation
 
@@ -1684,7 +1690,7 @@ Legislation on a matter contemplated in section 41B shall be introduced in Parli
 
 (a) the Council of Education Ministers established by section 41H in respect of further education and training at colleges; and
 
-(b) all the parties in the Education Labour Relations Council referred to in section 54(3) in  respect of any matter falling within the functions of the bargaining council.
+(b) all the parties in the Education Labour Relations Council referred to in section 54(3) in respect of any matter falling within the functions of the bargaining council.
 
 ### 41F. Publication of national education policy
 
@@ -1700,15 +1706,15 @@ Legislation Matters
 
 (a) give notice of such determination in the Gazette and indicate in such notice where the policy instrument issued with regard thereto may be obtained;
 
-(b) table the policy instrument contemplated in paragraph (a) in Parliament within 21 days after the notice has appeared in the Gazette , if Parliament is then in session, or, if Parliament is in recess, within 21 days after the commencement of the first ensuing session of Parliament.
+(b) table the policy instrument contemplated in paragraph (a) in Parliament within 21 days after the notice has appeared in the Gazette, if Parliament is then in session, or, if Parliament is in recess, within 21 days after the commencement of the first ensuing session of Parliament.
 
 ### 41G. Monitoring and evaluation of further education and training
 
-- The Minister shall direct that the standards of further education and training provision, delivery and performance throughout the Republic be monitored and evaluated by the Department annually or at other specified intervals, with the object of assessing progress in complying with the provisions of the Constitution and with national further education and training policy, particularly as determined in terms of section 41B.
+(1) The Minister shall direct that the standards of further education and training provision, delivery and performance throughout the Republic be monitored and evaluated by the Department annually or at other specified intervals, with the object of assessing progress in complying with the provisions of the Constitution and with national further education and training policy, particularly as determined in terms of section 41B.
 
-- Each directive issued in terms of subsection (1) shall comply with the provisions of any law establishing a national qualifications framework, and shall be formulated after consultation with the Council of Education Ministers referred to in section 41D(1).
+(2) Each directive issued in terms of subsection (1) shall comply with the provisions of any law establishing a national qualifications framework, and shall be formulated after consultation with the Council of Education Ministers referred to in section 41D(1).
 
-- The Department shall undertake the monitoring and evaluation contemplated in subsection (1) by analysis of data gathered by means of further education and training management information systems, or by other suitable means, in co-operation with provincial education departments.
+(3) The Department shall undertake the monitoring and evaluation contemplated in subsection (1) by analysis of data gathered by means of further education and training management information systems, or by other suitable means, in co-operation with provincial education departments.
 
 Legislation Matters
 
@@ -1718,17 +1724,17 @@ Legislation Matters
 
 [[START OF PAGE 59]]
 
-- The Department shall fulfil its responsibilities in terms of subsections (1) to (3) in a reasonable manner, with a view to enhancing professional capacities in monitoring and evaluation throughout the national education system, and assisting the competent authorities by all practical means within the limits of available public resources to raise the standards of further education and training provision and performance.
+(4) The Department shall fulfil its responsibilities in terms of subsections (1) to (3) in a reasonable manner, with a view to enhancing professional capacities in monitoring and evaluation throughout the national education system, and assisting the competent authorities by all practical means within the limits of available public resources to raise the standards of further education and training provision and performance.
 
-- The Department shall prepare and publish a report on the results of each investigation undertaken in terms of subsection (3) after providing an opportunity for the provincial education department concerned to comment, which comment shall be published with the report.
+(5) The Department shall prepare and publish a report on the results of each investigation undertaken in terms of subsection (3) after providing an opportunity for the provincial education department concerned to comment, which comment shall be published with the report.
 
-- If a report prepared in terms of subsection (5) indicates that the standards of further education and training provision, delivery and performance in a province do not comply with the Constitution or with the policy determined in terms of section 41B, the Minister shall inform the provincial political head of education concerned and require the submission, within 90 days, of a plan to remedy the situation.
+(6) If a report prepared in terms of subsection (5) indicates that the standards of further education and training provision, delivery and performance in a province do not comply with the Constitution or with the policy determined in terms of section 41B, the Minister shall inform the provincial political head of education concerned and require the submission, within 90 days, of a plan to remedy the situation.
 
-- A plan required by the Minister in terms of subsection (6) shall be prepared by the provincial education department concerned, in consultation with the Department, and the Minister shall table the plan in Parliament with his or her comments within 21 days of receipt, if Parliament is then in session, or, if Parliament is in recess, within 21 days after the commencement of the first ensuing session of Parliament.
+(7) A plan required by the Minister in terms of subsection (6) shall be prepared by the provincial education department concerned, in consultation with the Department, and the Minister shall table the plan in Parliament with his or her comments within 21 days of receipt, if Parliament is then in session, or, if Parliament is in recess, within 21 days after the commencement of the first ensuing session of Parliament.
 
 ### 41H. Council of Education Ministers
 
-- There is hereby established a council, called the Council of
+(1) There is hereby established a council, called the Council of
 
 Legislation Matters 149
 
@@ -1742,11 +1748,11 @@ Education Ministers, consisting of-
 
 (b) every provincial political head of education.
 
-- The Director-General shall attend meetings of the Council of Education Ministers in order to report on the proceedings of the Heads of Education Departments Committee established by section 41I, and to advise on any other matter relating to the responsibilities of the Department.
+(2) The Director-General shall attend meetings of the Council of Education Ministers in order to report on the proceedings of the Heads of Education Departments Committee established by section 41I, and to advise on any other matter relating to the responsibilities of the Department.
 
-- The chairpersons of the Portfolio Committee on Higher Education and Training of the National Assembly and of the Select Committee on Education and Recreation of the National Council of Provinces may attend meetings of the Council of Education Ministers.
+(3) The chairpersons of the Portfolio Committee on Higher Education and Training of the National Assembly and of the Select Committee on Education and Recreation of the National Council of Provinces may attend meetings of the Council of Education Ministers.
 
-- The functions of the Council of Education Ministers shall be to-
+(4) The functions of the Council of Education Ministers shall be to-
 
 (a) promote national further education and training which take full account of the policies of the government;
 
@@ -1754,7 +1760,7 @@ Education Ministers, consisting of-
 
 (c) co-ordinate action on matters of mutual interest to the national and provincial governments.
 
-- The Council of Education Ministers may draw up such rules regarding the convening of its meetings, the frequency of its meetings, the procedure at its meetings, including the quorum for its meetings, and any other administrative or
+(5) The Council of Education Ministers may draw up such rules regarding the convening of its meetings, the frequency of its meetings, the procedure at its meetings, including the quorum for its meetings, and any other administrative or
 
 Legislation Matters
 
@@ -1766,11 +1772,11 @@ Legislation Matters
 
 procedural matter it may deem necessary or expedient for the proper performance of its functions or the exercise of its powers.
 
-- The proceedings of the Council of Education Ministers shall not be invalid merely by virtue of the fact that there is a vacancy in the Council.
+(6) The proceedings of the Council of Education Ministers shall not be invalid merely by virtue of the fact that there is a vacancy in the Council.
 
 ### 41I. Heads of Education Departments Committee
 
-- There is hereby established a committee, called the Heads of Education Departments Committee (in this section referred to as the Committee), consisting of-
+(1) There is hereby established a committee, called the Heads of Education Departments Committee (in this section referred to as the Committee), consisting of-
 
 (a) the Director-General, who shall be the chairperson;
 
@@ -1778,7 +1784,7 @@ procedural matter it may deem necessary or expedient for the proper performance 
 
 (c) the Heads of the provincial education departments.
 
-- The functions of the Committee shall be to-
+(2) The functions of the Committee shall be to-
 
 (a) facilitate the development of a national further education and training system in accordance with the objectives and principles provided for in this Act;
 
@@ -1796,23 +1802,23 @@ Legislation Matters
 
 [[START OF PAGE 62]]
 
-(4)
-
 sections 41B to 41G and 41J in respect of further education and training, or on any other matter relating to the proper functioning of the national further education and training system.
 
-- The Committee may establish subcommittees to assist it in the performance of its functions, and-
+(3) The Committee may establish subcommittees to assist it in the performance of its functions, and-
 
 (a) may appoint persons who are not members of the Committee to be members of a subcommittee: Provided that the organised teaching profession shall be invited to nominate representatives as members of each subcommittee;
 
 (b) designate the chairperson of a subcommittee or direct that the chairperson be appointed by the subcommittee from among its members.
 
+(4)
+
 (a) Meetings of the Committee shall be held at such times and places as the chairperson of the Committee may determine.
 
 (b) The proceedings of the Committee shall not be invalid merely by virtue of the fact that there is a vacancy in the Committee.
 
-(c) If the chairperson of the Committee is absent from a meeting of the Committee, one of the Deputy DirectorsGeneral designated for this purpose by the chairperson shall take the chair at that meeting.
+(c) If the chairperson of the Committee is absent from a meeting of the Committee, one of the Deputy Directors-General designated for this purpose by the chairperson shall take the chair at that meeting.
 
-- The Committee may draw up rules regarding the convening of meetings, the frequency of meetings, the procedure at
+(5) The Committee may draw up rules regarding the convening of meetings, the frequency of meetings, the procedure at
 
 Legislation Matters
 
@@ -1830,13 +1836,13 @@ A member of a subcommittee who is not in the full-time employment of the State m
 
 ### 41K. Administrative functions of Council and Committee
 
-- The administrative functions of the Council established by section 41H and the Committee established by section 41I shall be performed by officials of the Department who are designated by the Director-General for that purpose.
+(1) The administrative functions of the Council established by section 41H and the Committee established by section 41I shall be performed by officials of the Department who are designated by the Director-General for that purpose.
 
-- The Director-General shall in respect of the Council and the Committee contemplated in subsection (1) designate a Secretary under whose direction the other officials shall perform their functions.
+(2) The Director-General shall in respect of the Council and the Committee contemplated in subsection (1) designate a Secretary under whose direction the other officials shall perform their functions.
 
 ### 41L. Consultative bodies
 
-- The Minister may by regulation establish a body to be known as the National Education and Training Council and other bodies to advise him or her on any matter contemplated in section 41B or any matter identified by the Minister.
+(1) The Minister may by regulation establish a body to be known as the National Education and Training Council and other bodies to advise him or her on any matter contemplated in section 41B or any matter identified by the Minister.
 
 Legislation Matters
 
@@ -1846,7 +1852,7 @@ Legislation Matters
 
 [[START OF PAGE 64]]
 
-- The composition, qualifications for membership, duties, powers and functions of a body established in terms of subsection (1), and the term of office of its members, shall be as prescribed by regulation.
+(2) The composition, qualifications for membership, duties, powers and functions of a body established in terms of subsection (1), and the term of office of its members, shall be as prescribed by regulation.
 
 ### 41M. Transitional arrangements regarding policy
 
@@ -1858,13 +1864,14 @@ Any policy determined in terms of the National Education Policy Act, 1996 (Act N
 
 ### 42. Promotion of quality in further education and training
 
-- Subject to the norms and standards set by the Minister in terms of section 41B the Director-General must [Words preceding para. (a) substituted by s. 11 of Act 25/2010]
+(1) Subject to the norms and standards set by the Minister in terms of section 41B the Director-General must -
+[Words preceding para. (a) substituted by s. 11 of Act 25/2010]
 
 (a) promote quality in further education and training; and
 
 (b) assess and report on the quality of education and training provided at colleges.
 
-- A provincial department of education or college must, on the request of the Director-General, provide him or her with any relevant information required to comply with subsection (1).
+(2) A provincial department of education or college must, on the request of the Director-General, provide him or her with any relevant information required to comply with subsection (1).
 
 Legislation Matters
 
@@ -1876,19 +1883,20 @@ Legislation Matters
 
 ### 43. Further education and training programmes
 
-- The Minister may prescribe minimum norms and standards for further education and training programmes, leading to qualifications within the sub-framework for general and further education and training contemplated in section 7(a) read with section 13(1)(h) of the National Qualifications Framework Act, that are offered at colleges. [Subs. (1) substituted by s. 12 of Act 25/2010]
+(1) The Minister may prescribe minimum norms and standards for further education and training programmes, leading to qualifications within the sub-framework for general and further education and training contemplated in section 7(a) read with section 13(1)(h) of the National Qualifications Framework Act, that are offered at colleges.
+[Subs. (1) substituted by s. 12 of Act 25/2010]
 
-- Quality assurance must be conducted by Umalusi in terms of the General and Further Education and Training Quality Assurance Act, 2001 (Act No. 58 of 2001).
+(2) Quality assurance must be conducted by Umalusi in terms of the General and Further Education and Training Quality Assurance Act, 2001 (Act No. 58 of 2001).
 
-- A public college may only provide higher education programmes under the authority of a higher education institution.
+(3) A public college may only provide higher education programmes under the authority of a higher education institution.
 
-- A public college intending to offer the higher education programmes contemplated in subsection (3) -
+(4) A public college intending to offer the higher education programmes contemplated in subsection (3) -
 
 (a) must apply to the Minister for permission to offer such programmes after the commencement of this Act; and
 
-(b) may offer such programmes only after the permission contemplated in paragraph (a) is published by the Minister in the Gazette .
+(b) may offer such programmes only after the permission contemplated in paragraph (a) is published by the Minister in the Gazette.
 
-- A college may apply to the Quality Council for Trades and Occupations established in terms of section 26G of the Skills Development Act, 1998 (Act No. 97 of 1998), for accreditation as a Skills Development Provider in order to offer qualifications registered on the sub-framework for
+(5) A college may apply to the Quality Council for Trades and Occupations established in terms of section 26G of the Skills Development Act, 1998 (Act No. 97 of 1998), for accreditation as a Skills Development Provider in order to offer qualifications registered on the sub-framework for
 
 Legislation Matters
 
@@ -1906,19 +1914,19 @@ Trades and Occupations contemplated in section 7(c) of the National Qualificatio
 
 ### 44. Strategic plan and annual report
 
-- A public college must prepare a strategic plan contemplated in the norms and standards for each financial year, which must be approved by the council and submitted to the Member of the Executive Council at least 30 days before the commencement of the financial year.
+(1) A public college must prepare a strategic plan contemplated in the norms and standards for each financial year, which must be approved by the council and submitted to the Member of the Executive Council at least 30 days before the commencement of the financial year.
 
-- A public college must prepare and submit to the Member of the Executive Council an annual report in respect of -
+(2) A public college must prepare and submit to the Member of the Executive Council an annual report in respect of -
 
 (a) its performance; and
 
 (b) its use of available resources.
 
-- The Minister or Member of the Executive Council must publish the reports in a manner determined by the Minister or Member of the Executive Council.
+(3) The Minister or Member of the Executive Council must publish the reports in a manner determined by the Minister or Member of the Executive Council.
 
 ### 45. Duty of colleges to provide information
 
-- A college must make information available for inspection by any person in so far as such information is required for the exercise and protection of the rights of such person.
+(1) A college must make information available for inspection by any person in so far as such information is required for the exercise and protection of the rights of such person.
 
 Legislation Matters
 
@@ -1928,13 +1936,13 @@ Legislation Matters
 
 [[START OF PAGE 67]]
 
-- Every college must provide such information about the college as is required by the Head of Department or the Director-General in consultation with the Head of Department.
+(2) Every college must provide such information about the college as is required by the Head of Department or the Director-General in consultation with the Head of Department.
 
-- The Head of Department, Director-General and any college must provide such information about the college or the quality of the further education and training as is required by the NBFET.
+(3) The Head of Department, Director-General and any college must provide such information about the college or the quality of the further education and training as is required by the NBFET.
 
 ### 46. Investigation at public college, and appointment of administrator
 
-- The Member of the Executive Council may appoint a person to conduct an investigation at a public college if the council of the college requests the appointment of such a person or if -
+(1) The Member of the Executive Council may appoint a person to conduct an investigation at a public college if the council of the college requests the appointment of such a person or if -
 
 (a) circumstances arise at the college that -
 
@@ -1946,7 +1954,7 @@ Legislation Matters
 
 (c) the appointment is in the interests of further education and training in an open and democratic society,
 
-- The person appointed in terms of subsection (1) must, in terms of the terms of reference specified by the Member of the Executive Council -
+(2) The person appointed in terms of subsection (1) must, in terms of the terms of reference specified by the Member of the Executive Council -
 
 Legislation Matters
 
@@ -1964,11 +1972,11 @@ Legislation Matters
 
 (ii) suggest appropriate measures to resolve the matter.
 
-- The Member of the Executive Council must as soon as practicable furnish a copy of the report referred to in subsection (2) to the council concerned.
+(3) The Member of the Executive Council must as soon as practicable furnish a copy of the report referred to in subsection (2) to the council concerned.
 
-- If an audit of the financial records of a public college, or an investigation by the person as contemplated in subsection (1), reveals financial or other maladministration of a serious nature at a public college or the serious undermining of the effective functioning of a public college, the Member of Executive Council may, after consultation with the Minister and the council of the public college concerned, if practicable, and despite any other provision of this Act, appoint a person as administrator to take over the authority of the council or the management of the college and such person may perform all the functions relating to governance or management on behalf of the college for a period determined by the Member of the Executive Council, which period may not exceed two years.
+(4) If an audit of the financial records of a public college, or an investigation by the person as contemplated in subsection (1), reveals financial or other maladministration of a serious nature at a public college or the serious undermining of the effective functioning of a public college, the Member of Executive Council may, after consultation with the Minister and the council of the public college concerned, if practicable, and despite any other provision of this Act, appoint a person as administrator to take over the authority of the council or the management of the college and such person may perform all the functions relating to governance or management on behalf of the college for a period determined by the Member of the Executive Council, which period may not exceed two years.
 
-- The Member of the Executive Council may extend the period referred to in subsection (4) once for a further period not exceeding six months.
+(5) The Member of the Executive Council may extend the period referred to in subsection (4) once for a further period not exceeding six months.
 
 Legislation Matters
 
@@ -1978,7 +1986,7 @@ Legislation Matters
 
 [[START OF PAGE 69]]
 
-- If an administrator is appointed in terms of subsection (4), the council is deemed to have resigned and the administrator must -
+(6) If an administrator is appointed in terms of subsection (4), the council is deemed to have resigned and the administrator must -
 
 (a) take over the authority of the council;
 
@@ -1988,13 +1996,13 @@ Legislation Matters
 
 ### 47. Name change of public college
 
-- The council of a public college may, after consultation with interested parties and with the approval of the Member of the Executive Council, change the name of the public college.
+(1) The council of a public college may, after consultation with interested parties and with the approval of the Member of the Executive Council, change the name of the public college.
 
-- The Member of the Executive Council must, by notice in the Gazette , publish the change of name of such college .
+(2) The Member of the Executive Council must, by notice in the Gazette, publish the change of name of such college.
 
 ### 48. Offences
 
-- Any person other than a college or organ of state who, without the authority of a college -
+(1) Any person other than a college or organ of state who, without the authority of a college -
 
 (a) offers or pretends to offer any further education and training programme;
 
@@ -2012,17 +2020,17 @@ Legislation Matters
 
 is guilty of an offence and is liable on conviction to any sentence which may be imposed for fraud.
 
-- Any person who pretends that a further education and training qualification has been awarded to him or her by a college whereas in fact no such qualification has been so awarded is guilty of an offence and is liable on conviction to any sentence which may be imposed for fraud.
+(2) Any person who pretends that a further education and training qualification has been awarded to him or her by a college whereas in fact no such qualification has been so awarded is guilty of an offence and is liable on conviction to any sentence which may be imposed for fraud.
 
-- Any person who contravenes section 28 is guilty of an offence and is liable on conviction to a fine or to imprisonment for a period not exceeding five years or to both a fine and such imprisonment.
+(3) Any person who contravenes section 28 is guilty of an offence and is liable on conviction to a fine or to imprisonment for a period not exceeding five years or to both a fine and such imprisonment.
 
-- Any private college that contravenes or fails to comply with section 32 is guilty of an offence and is liable on conviction to a fine not exceeding R250 000.
+(4) Any private college that contravenes or fails to comply with section 32 is guilty of an offence and is liable on conviction to a fine not exceeding R250 000.
 
-- Any person who claims that he or she is offering a further education and training qualification that is registered with the National Qualifications Framework whereas such qualification is not so registered is guilty of an offence and is liable on conviction to any sentence that may be imposed for fraud.
+(5) Any person who claims that he or she is offering a further education and training qualification that is registered with the National Qualifications Framework whereas such qualification is not so registered is guilty of an offence and is liable on conviction to any sentence that may be imposed for fraud.
 
 ### 49. Limitation of liability
 
-- Neither the State, the NBFET nor any person appointed in terms of this Act is liable for any loss or damage suffered by any person as a result of any act performed or omitted in good faith in the course of performing any function for which that person was appointed in terms of this Act.
+(1) Neither the State, the NBFET nor any person appointed in terms of this Act is liable for any loss or damage suffered by any person as a result of any act performed or omitted in good faith in the course of performing any function for which that person was appointed in terms of this Act.
 
 Legislation Matters
 
@@ -2032,9 +2040,9 @@ Legislation Matters
 
 [[START OF PAGE 71]]
 
-- The State is not liable for any act or omission by a public college relating to its contractual responsibility as the employer in respect of staff employed in terms of section 20(3).
+(2) The State is not liable for any act or omission by a public college relating to its contractual responsibility as the employer in respect of staff employed in terms of section 20(3).
 
-(a) The State is liable for any damage or loss caused as a result of any act or omission in connection with any educational activity conducted by a public college for which such public college would have been liable but for the provisions of this section.
+(3) (a) The State is liable for any damage or loss caused as a result of any act or omission in connection with any educational activity conducted by a public college for which such public college would have been liable but for the provisions of this section.
 
 (b) The State Liability Act, 1957 (Act No. 20 of 1957), applies to any claim under paragraph (a).
 
@@ -2054,21 +2062,21 @@ Legislation Matters
 
 ### 50. Delegation of functions
 
-- The Minister may, on such conditions as he or she may determine, delegate the performance of any of his or her functions under this Act, except the power to make regulations, to -
+(1) The Minister may, on such conditions as he or she may determine, delegate the performance of any of his or her functions under this Act, except the power to make regulations, to -
 
 (a) any employee of the Department; or
 
 (b) any organ of state.
 
-- The Member of the Executive Council may, on such conditions as he or she may determine, delegate the performance of any of his or her functions under this Act, to -
+(2) The Member of the Executive Council may, on such conditions as he or she may determine, delegate the performance of any of his or her functions under this Act, to -
 
 (a) any employee in a provincial department responsible for education and training; or
 
 (b) any organ of state.
 
-- The Director-General may, on such conditions as he or she may determine, delegate the performance of any of his or her functions under this Act to any employee in the Department.
+(3) The Director-General may, on such conditions as he or she may determine, delegate the performance of any of his or her functions under this Act to any employee in the Department.
 
-- The council of a public college may, on such conditions as it may determine, delegate the performance of any of its functions under this Act to any other internal structure, lecturer or support staff of such college.
+(4) The council of a public college may, on such conditions as it may determine, delegate the performance of any of its functions under this Act to any other internal structure, lecturer or support staff of such college.
 
 ### 51. Regulations
 
@@ -2102,7 +2110,7 @@ This Act prevails over any other law dealing with further education and training
 
 ### 53. Existing public further education and training institutions, structures and bodies
 
-- The public further education and training institutions listed in Schedule 2 continue to exist and are deemed to be public colleges for the purposes of this Act.
+(1) The public further education and training institutions listed in Schedule 2 continue to exist and are deemed to be public colleges for the purposes of this Act.
 
 Legislation Matters
 
@@ -2112,15 +2120,15 @@ Legislation Matters
 
 [[START OF PAGE 74]]
 
-- Members of the council, academic board and student representative council of the institutions referred to in subsection (1) continue to hold office until they are replaced in terms of this Act.
+(2) Members of the council, academic board and student representative council of the institutions referred to in subsection (1) continue to hold office until they are replaced in terms of this Act.
 
 ### 54. Staff
 
-- The principal, vice-principal, lecturers and support staff employed by the State continue to be so employed until appointed in terms of this Act.
+(1) The principal, vice-principal, lecturers and support staff employed by the State continue to be so employed until appointed in terms of this Act.
 
-- Section 197 of the Labour Relations Act applies to the appointment or transfer as contemplated in subclause (1).
+(2) Section 197 of the Labour Relations Act applies to the appointment or transfer as contemplated in subclause (1).
 
-- The Education Labour Relations Council and the PSCBC continue to be the bargaining council to determine salaries and conditions of employment until the parties agree to establish a new structure relevant to public colleges.
+(3) The Education Labour Relations Council and the PSCBC continue to be the bargaining council to determine salaries and conditions of employment until the parties agree to establish a new structure relevant to public colleges.
 
 ### 55. Application for registration by private colleges
 
@@ -2144,11 +2152,11 @@ The existing code of conduct, disciplinary measures and procedures of colleges r
 
 ### 58. Repeal or amendment of laws
 
-- The Further Education and Training Act, 1998 (Act No. 98 of 1998), is hereby repealed.
+(1) The Further Education and Training Act, 1998 (Act No. 98 of 1998), is hereby repealed.
 
-- Any regulations made or anything done under any provision of any law repealed by this Act must be regarded as having been made or done under the corresponding provision of this Act.
+(2) Any regulations made or anything done under any provision of any law repealed by this Act must be regarded as having been made or done under the corresponding provision of this Act.
 
-- The Employment of Educators Act, 1998 (Act No. 76 of 1998), is hereby amended to the extent set out in Schedule 3.
+(3) The Employment of Educators Act, 1998 (Act No. 76 of 1998), is hereby amended to the extent set out in Schedule 3.
 
 ### 59. Short title
 
@@ -2160,10 +2168,6 @@ Legislation Matters 165
 
 [[START OF PAGE 76]]
 
-- Definitions
-
-- Application
-
 ## SCHEDULE 1
 
 (Section 18)
@@ -2174,37 +2178,39 @@ Legislation Matters 165
 
 #### DEFINITIONS AND APPLICATION
 
+1. Definitions
+
+2. Application
+
 #### INSTITUTION
 
-- Name, seat and powers
+3. Name, seat and powers
 
-- Constitution of College
-
-- Functions of council
-
-- Composition of council
-
-- Termination of membership and filling of vacancies
-
-- Election and term of office of chairperson, vice-chairperson and secretary of council
-
-- Meetings of council
-
-- Council meeting procedures
-
-- Conflict of interest of council members
-
-- Committees of council
-
-- Minutes of council and committee meetings
-
-- Drafting, amending or rescinding statute
-
-Legislation Matters
-
-166
+4. Constitution of College
 
 #### COUNCIL
+
+5. Functions of council
+
+6. Composition of council
+
+7. Termination of membership and filling of vacancies
+
+8. Election and term of office of chairperson, vice-chairperson and secretary of council
+
+9. Meetings of council
+
+10. Council meeting procedures
+
+11. Conflict of interest of council members
+
+12. Committees of council
+
+13. Minutes of council and committee meetings
+
+14. Drafting, amending or rescinding statute
+
+Legislation Matters 166
 
 [[END OF PAGE 76]]
 
@@ -2212,59 +2218,57 @@ Legislation Matters
 
 #### ACADEMIC BOARD
 
-- Functions of academic board
+15. Functions of academic board
 
-- Termination of membership of academic board
+16. Termination of membership of academic board
 
-- Composition of academic board
+17. Composition of academic board
 
-- Term of office of members of academic board
+18. Term of office of members of academic board
 
-- Chairperson, vice-chairperson and secretary of academic board
+19. Chairperson, vice-chairperson and secretary of academic board
 
-- Meeting procedure of academic board
+20. Meeting procedure of academic board
 
-- Committees of academic board
+21. Committees of academic board
 
-- Joint committees of council and academic board
+22. Joint committees of council and academic board
 
 #### STUDENT REPRESENTATIVE COUNCIL (SRC)
 
-- Functions of SRC
+23. Functions of SRC
 
-- Composition of SRC
+24. Composition of SRC
 
-- Office-bearers of SRC
+25. Office-bearers of SRC
 
-- Term of office of SRC members
+26. Term of office of SRC members
 
-- Meetings of SRC
+27. Meetings of SRC
 
-- SRC committees
+28. SRC committees
 
-- General meeting
+29. General meeting
 
 #### MANAGEMENT STAFF
 
-- Management staff
+30. Management staff
 
-- Functions of principal
+31. Functions of principal
 
-- Vice-principal and financial officer
+32. Vice-principal and financial officer
 
-- Appointment of lecturers and support staff
+33. Appointment of lecturers and support staff
 
-- Conditions of employment
+34. Conditions of employment
 
-- Evaluation
+35. Evaluation
 
-- Disciplinary code of lecturers and support staff
+36. Disciplinary code of lecturers and support staff
 
-- Representative organisation of employees
+37. Representative organisation of employees
 
-Legislation Matters
-
-167
+Legislation Matters 167
 
 [[END OF PAGE 77]]
 
@@ -2272,21 +2276,15 @@ Legislation Matters
 
 #### STUDENTS
 
-38.
+38. Admission and registration of students
 
-Admission and registration of students
-
-- 39.
-
-Student disciplinary code
+39. Student disciplinary code
 
 #### DONORS
 
 40. Donors
 
-Legislation Matters
-
-168
+Legislation Matters 168
 
 [[END OF PAGE 78]]
 
@@ -2296,25 +2294,25 @@ Legislation Matters
 
 #### 1. Definitions
 
-- In this Statute, unless the context indicates otherwise -
+In this Statute, unless the context indicates otherwise -
 
-'academic board' means the body contemplated in section 11 of the Act;
+“academic board” means the body contemplated in section 11 of the Act;
 
-'auditor' means any person registered in terms of the Auditing Professions Act, 2005 (Act No. 26 of 2005);
+“auditor” means any person registered in terms of the Auditing Professions Act, 2005 (Act No. 26 of 2005);
 
-'college' means the college referred to in section 3;
+“college” means the college referred to in section 3;
 
-'council' means the governing structure of the college;
+“council” means the governing structure of the college;
 
-'Department' means the government department responsible for education at national level;
+“Department” means the government department responsible for education at national level;
 
-'Director-General' means the Director-General of the Department;
+“Director-General” means the Director-General of the Department;
 
-'external person' means a person referred to in section 10(8) of the Act;
+“external person” means a person referred to in section 10(8) of the Act;
 
-'financial year' in respect of the college means a year commencing on the first day of January and ending on the 31 st day of December of the same year;
+“financial year” in respect of the college means a year commencing on the first day of January and ending on the 31st day of December of the same year;
 
-'foreign juristic person' means a person -
+“foreign juristic person” means a person -
 
 (i) registered or established as a juristic person in terms of a law of a foreign country; and
 
@@ -2326,9 +2324,9 @@ Legislation Matters 169
 
 (ii) recognised or registered as an external company in terms of the Companies Act, 1973 (Act No. 61 of 1973);
 
-'further education and training' means all learning and training programmes leading to qualifications from levels 2 to 4 of the National Qualifications Framework as contemplated in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995), which levels are above general education but below higher education;
+“further education and training” means all learning and training programmes leading to qualifications from levels 2 to 4 of the National Qualifications Framework as contemplated in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995), which levels are above general education but below higher education;
 
-'further education and training college' means any college that provides further education and training on a full-time, part-time or distance basis and which is -
+“further education and training college” means any college that provides further education and training on a full-time, part-time or distance basis and which is -
 
 (a) established or regarded as having been established as a public further education and training college under the Act;
 
@@ -2336,45 +2334,41 @@ Legislation Matters 169
 
 (c) registered or provisionally registered as a private further education and training college under the Act;
 
-'general education' means the compulsory school attendance phase referred to in section 3 of the South African Schools Act;
+“general education” means the compulsory school attendance phase referred to in section 3 of the South African Schools Act;
 
-'Head of Department' means the head of a provincial department of education;
+“Head of Department” means the head of a provincial department of education;
 
-'higher education' means higher education as defined in the Higher Education Act, 1997 (Act No. 101 of 1997);
+“higher education” means higher education as defined in the Higher Education Act, 1997 (Act No. 101 of 1997);
 
-'institutional statute' means policy, a code of ethics and any rules developed by the council consistent with the Act;
+“institutional statute” means policy, a code of ethics and any rules developed by the council consistent with the Act;
 
-Legislation Matters
-
-170
+Legislation Matters 170
 
 [[END OF PAGE 80]]
 
 [[START OF PAGE 81]]
 
-'Labour Relations Act' means the Labour Relations Act, 1995 (Act No. 66 of 1995);
+“Labour Relations Act” means the Labour Relations Act, 1995 (Act No. 66 of 1995);
 
-'lecturer' means any person who teaches, educates or trains other persons or who provides professional educational services at the college and who is appointed in a post on a lecturer establishment under the Act;
+“lecturer” means any person who teaches, educates or trains other persons or who provides professional educational services at the college and who is appointed in a post on a lecturer establishment under the Act;
 
-'local juristic person' means a person established as a juristic person in South Africa in terms of the Companies Act, 1973 (Act No. 61 of 1973);
+“local juristic person” means a person established as a juristic person in South Africa in terms of the Companies Act, 1973 (Act No. 61 of 1973);
 
-'management' means the principal and vice-principal of the college;
+“management” means the principal and vice-principal of the college;
 
-'MEC' means the Member of the Executive Council of a province who is responsible for education in that province;
+“MEC” means the Member of the Executive Council of a province who is responsible for education in that province;
 
-'Minister' means the Minister of Education;
+“Minister” means the Minister of Education;
 
-'National Qualifications Framework' means the National Qualifications Framework as defined in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
+“National Qualifications Framework” means the National Qualifications Framework as defined in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
 
-'NBFET' means the National Board for Further Education and Training, established by regulations in terms of section 11 of the National Education Policy Act, 1996 (Act No. 27 of 1996);
+“NBFET” means the National Board for Further Education and Training, established by regulations in terms of section 11 of the National Education Policy Act, 1996 (Act No. 27 of 1996);
 
-'organ of state' means an organ of state as defined in section 239 of the Constitution of the Republic of South Africa, 1996;
+“organ of state” means an organ of state as defined in section 239 of the Constitution of the Republic of South Africa, 1996;
 
-'policy' means -
+“policy” means -
 
-Legislation Matters
-
-171
+Legislation Matters 171
 
 [[END OF PAGE 81]]
 
@@ -2384,57 +2378,53 @@ Legislation Matters
 
 (b) policy determined by the Member of the Executive Council in terms of a provincial law;
 
-'prescribed' means prescribed by regulation;
+“prescribed” means prescribed by regulation;
 
-'principal' means the chief executive and accounting officer of the college, and includes a rector;
+“principal” means the chief executive and accounting officer of the college, and includes a rector;
 
-'programmes' means a list of education programmes approved and promulgated by the Minister in the Gazette ;
+“programmes” means a list of education programmes approved and promulgated by the Minister in the Gazette;
 
-'public college' means any further education and training college that is established, deemed to be established or declared as a public further education and training college under the Act;
+“public college” means any further education and training college that is established, deemed to be established or declared as a public further education and training college under the Act;
 
-'Public Service Act' means the Public Service Act, 1994 (Proclamation No. 103 of 1994);
+“Public Service Act” means the Public Service Act, 1994 (Proclamation No. 103 of 1994);
 
-'rules' means rules made by the council in terms of section 5(2)(a);
+“rules” means rules made by the council in terms of section 5(2)(a);
 
-'SAQA' means the South African Qualifications Authority established by section 3 of the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
+“SAQA” means the South African Qualifications Authority established by section 3 of the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995);
 
-'school' means a school as defined in the South African Schools Act;
+“school” means a school as defined in the South African Schools Act;
 
-'South African Schools Act' means the South African Schools Act, 1996 (Act No. 84 of 1996);
+“South African Schools Act” means the South African Schools Act, 1996 (Act No. 84 of 1996);
 
-Legislation Matters
-
-172
+Legislation Matters 172
 
 [[END OF PAGE 82]]
 
 [[START OF PAGE 83]]
 
-'staff' means persons employed at a public college;
+“staff” means persons employed at a public college;
 
-'statute' means the standard college statute, which includes policy, code of conduct and any other rules developed by the council which are consistent with the Act;
+“statute” means the standard college statute, which includes policy, code of conduct and any other rules developed by the council which are consistent with the Act;
 
-'student' means any person registered as a student at the college;
+“student” means any person registered as a student at the college;
 
-'SRC' means the student representative council of the college;
+“SRC” means the student representative council of the college;
 
-'the Act' means the Further Education and Training Colleges Act, 2006;
+“the Act” means the Further Education and Training Colleges Act, 2006;
 
-'to provide further education and training' means -
+“to provide further education and training” means -
 
 (a) to register students for all learning and training programmes leading to qualifications from levels 2 to 4 of the National Qualifications Framework or such further education and training levels as determined by SAQA and contemplated in the South African Qualifications Authority Act, 1995 (Act No. 58 of 1995), which levels are above general education but below higher education; and
 
 (b) to take responsibility for the registration of students, the provision and delivery of the curriculum and the assessment of students;
 
-'vice-principal' includes a vice-rector.
+“vice-principal” includes a vice-rector.
 
 #### 2. Application
 
 This statute applies to the college until a statute is developed in terms of section 10 of the Act.
 
-Legislation Matters
-
-173
+Legislation Matters 173
 
 [[END OF PAGE 83]]
 
@@ -2442,17 +2432,17 @@ Legislation Matters
 
 ### INSTITUTION
 
-#### Name, seat and powers
+#### 3. Name, seat and powers
 
-- The name of the college is ___________________________
+(1) The name of the college is ___________________________
 
-- The seat of the college is at __________________________
+(2) The seat of the college is at __________________________
 
-- Every public college is a juristic person with legal capacity to perform its functions in terms of this Statute and the Act.
+(3) Every public college is a juristic person with legal capacity to perform its functions in terms of this Statute and the Act.
 
-#### Constitution of college
+#### 4. Constitution of college
 
-- The college consists of -
+(1) The college consists of -
 
 (a) the council;
 
@@ -2468,11 +2458,9 @@ Legislation Matters
 
 (g) such other offices, bodies or structures as may be established by the council.
 
-- No vacancy in any of the offices contemplated in subsection (1) nor any deficiency in the numbers or defect in the composition of the bodies or structures contemplated in
+(2) No vacancy in any of the offices contemplated in subsection (1) nor any deficiency in the numbers or defect in the composition of the bodies or structures contemplated in
 
-Legislation Matters
-
-174
+Legislation Matters 174
 
 [[END OF PAGE 84]]
 
@@ -2484,9 +2472,9 @@ subsection (1) impairs or affects the existence of the college as a juristic per
 
 #### 5. Functions of council
 
-- Subject to the Act and this statute the council governs the college.
+(1) Subject to the Act and this statute the council governs the college.
 
-- Without derogating from the generality of subsection (1), the council -
+(2) Without derogating from the generality of subsection (1), the council -
 
 (a) makes rules for the college;
 
@@ -2500,39 +2488,35 @@ subsection (1) impairs or affects the existence of the college as a juristic per
 
 (f) subject to the approval of the Head of Department,
 
-Legislation Matters
-
-175
+Legislation Matters 175
 
 [[END OF PAGE 85]]
 
 [[START OF PAGE 86]]
 
-- determines the language policy of the college, after consultation with the academic board;
+determines the language policy of the college, after consultation with the academic board;
 
-(g) determines tuition fees, accommodation fees and any other fees payable by students as welt as accommodation fees payable by employees;
+(g) determines tuition fees, accommodation fees and any other fees payable by students as well as accommodation fees payable by employees;
 
 (h) approves the annual budget of the college; and
 
 (i) may conclude a loan or overdraft agreement, with the approval of the MEC.
 
-- Without derogating from the generality of subsection (1), the council -
+(3) Without derogating from the generality of subsection (1), the council -
 
 (a) determines conditions of service, code of conduct and privileges and functions of its employees and may, in the manner set out in the code of conduct, suspend or dismiss employees of the college; and
 
 (b) may order an employee of the college who has been suspended to refrain from being on any premises under the control of the college and to refrain from participating in any of the activities of the college, or issue such other conditions as it may consider necessary.
 
-#### Composition of council
+#### 6. Composition of council
 
-- The council, as contemplated in section 10(4) of the Act, consists of -
+(1) The council, as contemplated in section 10(4) of the Act, consists of -
 
 (a) the principal;
 
 (b) five external persons appointed by the MEC;
 
-Legislation Matters
-
-176
+Legislation Matters 176
 
 [[END OF PAGE 86]]
 
@@ -2550,21 +2534,19 @@ Legislation Matters
 
 (h) four members contemplated in section 10(6) of the Act with a broad spectrum of competencies in the fields of education, business, finance, law, marketing, information technology and human resource management appointed by the council in consultation with the MEC.
 
-- At least 60 per cent of the members of the council must be external persons who are not employed by the MEC or council, or are not students of the college.
+(2) At least 60 per cent of the members of the council must be external persons who are not employed by the MEC or council, or are not students of the college.
 
-- The council members contemplated in section 10(8) and (9) of the Act must have knowledge and experience relevant to the objects and governance of the college.
+(3) The council members contemplated in section 10(8) and (9) of the Act must have knowledge and experience relevant to the objects and governance of the college.
 
 #### 7. Termination of membership and filling of vacancies
 
-- A member of the council's term of office terminates if -
+(1) A member of the council's term of office terminates if -
 
 (a) he or she tenders a written resignation;
 
 (b) the MEC or entity who appointed or elected the
 
-Legislation Matters
-
-177
+Legislation Matters 177
 
 [[END OF PAGE 87]]
 
@@ -2580,23 +2562,21 @@ member to the council terminates the membership in writing;
 
 (f) he or she is incapacitated to perform his or her functions.
 
-- The council has the power to suspend and take disciplinary action against a member.
+(2) The council has the power to suspend and take disciplinary action against a member.
 
-- If 75 percent or more of the members of the council resign, the council is deemed to have resigned.
+(3) If 75 percent or more of the members of the council resign, the council is deemed to have resigned.
 
-- If the council resigns as contemplated in subsection (3) a new council must be constituted in terms of this statute and the Act.
+(4) If the council resigns as contemplated in subsection (3) a new council must be constituted in terms of this statute and the Act.
 
-- Whenever any vacancy occurs, section 10 of the Act must apply with the necessary changes thereto.
+(5) Whenever any vacancy occurs, section 10 of the Act must apply with the necessary changes thereto.
 
-- Any member appointed in terms of subsection (5) must serve only the remainder of the term of office.
+(6) Any member appointed in terms of subsection (5) must serve only the remainder of the term of office.
 
-#### Election and term of office of chairperson, vice-chairperson and secretary of council
+#### 8. Election and term of office of chairperson, vice-chairperson and secretary of council
 
-- The chairperson and vice-chairperson of the council must
+(1) The chairperson and vice-chairperson of the council must
 
-Legislation Matters
-
-178
+Legislation Matters 178
 
 [[END OF PAGE 88]]
 
@@ -2604,29 +2584,27 @@ Legislation Matters
 
 not be elected from members contemplated in section 6(1)(a), (c), (d), (e) and (f) of the statute.
 
-- The chairperson, vice-chairperson and secretary of the council are elected for a period not exceeding three years.
+(2) The chairperson, vice-chairperson and secretary of the council are elected for a period not exceeding three years.
 
-- The chairperson, vice-chairperson and secretary are eligible for re-election.
+(3) The chairperson, vice-chairperson and secretary are eligible for re-election.
 
-- Nominations for the office of the chairperson, vicechairperson and secretary of the council must be in writing and directed to the electoral officer.
+(4) Nominations for the office of the chairperson, vice-chairperson and secretary of the council must be in writing and directed to the electoral officer.
 
-- If more than one candidate is nominated, voting is by secret ballot.
+(5) If more than one candidate is nominated, voting is by secret ballot.
 
-- Each member of the council has only one vote during a ballot and no proxy is allowed.
+(6) Each member of the council has only one vote during a ballot and no proxy is allowed.
 
-- Whenever a vacancy occurs in the office of the chairperson, vice-chairperson or secretary, subsections (4) to (6) apply with the necessary changes to the filling of such vacancy.
+(7) Whenever a vacancy occurs in the office of the chairperson, vice-chairperson or secretary, subsections (4) to (6) apply with the necessary changes to the filling of such vacancy.
 
-- A person who fills a vacancy in terms of subsection (7) holds office until the end of the term of his or her predecessor.
+(8) A person who fills a vacancy in terms of subsection (7) holds office until the end of the term of his or her predecessor.
 
 #### 9. Meetings of council
 
-- The council has at least four ordinary meetings during each academic year.
+(1) The council has at least four ordinary meetings during each academic year.
 
-- Notice of any motion for consideration at the next ordinary meeting must be in writing and must be lodged with the secretary at least 21 days before the date determined by the
+(2) Notice of any motion for consideration at the next ordinary meeting must be in writing and must be lodged with the secretary at least 21 days before the date determined by the
 
-Legislation Matters
-
-179
+Legislation Matters 179
 
 [[END OF PAGE 89]]
 
@@ -2634,27 +2612,25 @@ Legislation Matters
 
 council for such meeting, provided that any matter of an urgent nature may, without prior notice, by consent of the chairperson and a majority of the members present, be considered at such meeting.
 
-- At least 14 days prior to the date of an ordinary meeting, the secretary gives due notice to each member of all the matters to be dealt with at such meeting and states the time and place of such meeting.
+(3) At least 14 days prior to the date of an ordinary meeting, the secretary gives due notice to each member of all the matters to be dealt with at such meeting and states the time and place of such meeting.
 
-- A special meeting may be called at any time by the chairperson,
+(4) A special meeting may be called at any time by the chairperson,
 
-- A special meeting must be called by the chairperson at the request in writing of at least five members, if the objective of such meeting is clearly stated in the request, provided that at least seven days' notice of a special meeting is given.
+(5) A special meeting must be called by the chairperson at the request in writing of at least five members, if the objective of such meeting is clearly stated in the request, provided that at least seven days' notice of a special meeting is given.
 
-- No business other than that for which the special meeting was called may be transacted at such meeting.
+(6) No business other than that for which the special meeting was called may be transacted at such meeting.
 
-- An emergency meeting may be called by the chairperson or, in his or her absence, by the principal at any time.
+(7) An emergency meeting may be called by the chairperson or, in his or her absence, by the principal at any time.
 
-- Notice of an emergency meeting may be given in any manner convenient under the circumstances.
+(8) Notice of an emergency meeting may be given in any manner convenient under the circumstances.
 
-- The objective of an emergency meeting must be stated to members and no business other than that stated may be transacted at such meeting.
+(9) The objective of an emergency meeting must be stated to members and no business other than that stated may be transacted at such meeting.
 
 #### 10. Council meeting procedures
 
-- The council members must participate in the deliberations of
+(1) The council members must participate in the deliberations of
 
-Legislation Matters
-
-180
+Legislation Matters 180
 
 [[END OF PAGE 90]]
 
@@ -2662,21 +2638,19 @@ Legislation Matters
 
 the council in the best interest of the college.
 
-- Except where otherwise provided in this statute, all acts or matters authorised or required to be done or decided by the council or its committees and all questions that may come before it are done or decided by the majority of the members present at any meeting, provided that the number present at any meeting is at least half plus one of the total number of members of the council or its committees holding office on the date of such meeting.
+(2) Except where otherwise provided in this statute, all acts or matters authorised or required to be done or decided by the council or its committees and all questions that may come before it are done or decided by the majority of the members present at any meeting, provided that the number present at any meeting is at least half plus one of the total number of members of the council or its committees holding office on the date of such meeting.
 
-- In the absence of the chairperson and the vice-chairperson of the council, the members present must elect one of their members to preside at such meeting.
+(3) In the absence of the chairperson and the vice-chairperson of the council, the members present must elect one of their members to preside at such meeting.
 
-- The first act of an ordinary meeting, after being constituted, is to read and confirm by the signature of the chairperson the minutes of the last preceding ordinary meeting and of any special meeting subsequently held, provided that the meeting may consider the minutes as read if a copy thereof was previously sent to every member of the council, provided further that objections to the minutes of a meeting are raised and decided before confirmation of the minutes.
+(4) The first act of an ordinary meeting, after being constituted, is to read and confirm by the signature of the chairperson the minutes of the last preceding ordinary meeting and of any special meeting subsequently held, provided that the meeting may consider the minutes as read if a copy thereof was previously sent to every member of the council, provided further that objections to the minutes of a meeting are raised and decided before confirmation of the minutes.
 
-- A member of the council may not, without the consent of the meeting, speak more than once to a motion or to any amendment and the mover of any motion or any amendment has the right of reply.
+(5) A member of the council may not, without the consent of the meeting, speak more than once to a motion or to any amendment and the mover of any motion or any amendment has the right of reply.
 
-- Every motion or amendment must be seconded and, if so directed by the chairperson, must be in writing.
+(6) Every motion or amendment must be seconded and, if so directed by the chairperson, must be in writing.
 
-- A motion or an amendment seconded as contemplated in
+(7) A motion or an amendment seconded as contemplated in
 
-Legislation Matters
-
-181
+Legislation Matters 181
 
 [[END OF PAGE 91]]
 
@@ -2684,25 +2658,23 @@ Legislation Matters
 
 subsection (6) may not be withdrawn except with the consent of the meeting.
 
-- The chairperson has a deliberative vote on any matter and, in the event of an equality of votes, also a casting vote.
+(8) The chairperson has a deliberative vote on any matter and, in the event of an equality of votes, also a casting vote.
 
-- If so decided by the meeting, the number of members voting for or against any motion must be recorded in the minutes or, if so requested by any member, the chairperson must direct that such votes be recorded.
+(9) If so decided by the meeting, the number of members voting for or against any motion must be recorded in the minutes or, if so requested by any member, the chairperson must direct that such votes be recorded.
 
-- When a majority of the members of the council reach agreement on a matter referred to them by the chairperson by letter or electronic means, without a meeting having been convened, and convey such resolution by letter or electronic means, such resolution is equivalent to a resolution of the council and must be recorded in the minutes of the next succeeding ordinary meeting.
+(10) When a majority of the members of the council reach agreement on a matter referred to them by the chairperson by letter or electronic means, without a meeting having been convened, and convey such resolution by letter or electronic means, such resolution is equivalent to a resolution of the council and must be recorded in the minutes of the next succeeding ordinary meeting.
 
-- The views of a member of the council who is unable to attend a meeting may be submitted to the meeting in writing but may not count as a vote of such member.
+(11) The views of a member of the council who is unable to attend a meeting may be submitted to the meeting in writing but may not count as a vote of such member.
 
-- The ruling of the chairperson on a point of order or procedure is binding unless immediately challenged by a member, in which event such ruling must be submitted without discussion to the meeting whose decision is final.
+(12) The ruling of the chairperson on a point of order or procedure is binding unless immediately challenged by a member, in which event such ruling must be submitted without discussion to the meeting whose decision is final.
 
 #### 11. Conflict of interest of council members
 
-- A member of the council may not have a conflict of interest with the college.
+(1) A member of the council may not have a conflict of interest with the college.
 
-- A member of the council who has a direct or indirect
+(2) A member of the council who has a direct or indirect
 
-Legislation Matters
-
-182
+Legislation Matters 182
 
 [[END OF PAGE 92]]
 
@@ -2710,13 +2682,13 @@ Legislation Matters
 
 financial, personal or other interest in any matter which is to be discussed at a meeting and which entails or may entail a conflict or possible conflict of interest must, before or during such meeting, declare the interest.
 
-- Any person may, in writing, inform the chairperson of a meeting, before a meeting, of a conflict or possible conflict of interest of a member of the council of which such person may be aware.
+(3) Any person may, in writing, inform the chairperson of a meeting, before a meeting, of a conflict or possible conflict of interest of a member of the council of which such person may be aware.
 
-- The council member referred to in subsections (2) and (3) is obliged to recuse himself or herself from the meeting during the discussion of the matter and the voting thereon.
+(4) The council member referred to in subsections (2) and (3) is obliged to recuse himself or herself from the meeting during the discussion of the matter and the voting thereon.
 
 #### 12. Committees of council
 
-- The council appoints -
+(1) The council appoints -
 
 (a) an executive committee;
 
@@ -2730,27 +2702,25 @@ financial, personal or other interest in any matter which is to be discussed at 
 
 (f) such other committees as may be required.
 
-- The composition and functions of the committees are determined by the council.
+(2) The composition and functions of the committees are determined by the council.
 
-Legislation Matters
-
-183
+Legislation Matters 183
 
 [[END OF PAGE 93]]
 
 [[START OF PAGE 94]]
 
-- At least 50 per cent of the members of a committee must be external persons who are members of the council.
+(3) At least 50 per cent of the members of a committee must be external persons who are members of the council.
 
-- The chairperson of a committee must be a member of the council.
+(4) The chairperson of a committee must be a member of the council.
 
 #### 13. Minutes of council and committee meetings
 
-- The secretary of the council keeps the minutes of each meeting of the council and includes such minutes in the agenda of the next council meeting when the agenda is sent out in terms of section 9(3).
+(1) The secretary of the council keeps the minutes of each meeting of the council and includes such minutes in the agenda of the next council meeting when the agenda is sent out in terms of section 9(3).
 
-- The minutes of all committee meetings must be included in the agenda of the next ordinary meeting of the council following the respective committee meetings.
+(2) The minutes of all committee meetings must be included in the agenda of the next ordinary meeting of the council following the respective committee meetings.
 
-- The members of the council must be provided with copies of the minutes referred to in subsection (2).
+(3) The members of the council must be provided with copies of the minutes referred to in subsection (2).
 
 #### 14. Drafting, amending or rescinding statute
 
@@ -2760,11 +2730,9 @@ No motion to draft, amend or rescind a statute or a rule is of force and effect 
 
 #### 15. Functions of academic board
 
-- Subject to the Act, the academic board of the college -
+(1) Subject to the Act, the academic board of the college -
 
-Legislation Matters
-
-184
+Legislation Matters 184
 
 [[END OF PAGE 94]]
 
@@ -2790,9 +2758,7 @@ Legislation Matters
 
 (iii) determine the persons to whom scholarships and academic prizes are awarded;
 
-Legislation Matters
-
-185
+Legislation Matters 185
 
 [[END OF PAGE 95]]
 
@@ -2810,17 +2776,15 @@ Legislation Matters
 
 (iii) delegate its functions to a committee.
 
-- Without derogating from the generality of subsection (1) the organisation and supervision of instruction and examinations, and of lectures and classes, vest in the academic board.
+(2) Without derogating from the generality of subsection (1) the organisation and supervision of instruction and examinations, and of lectures and classes, vest in the academic board.
 
-- The academic board submits to the council -
+(3) The academic board submits to the council -
 
 (a) such reports upon its work as may be required by the council;
 
 (b) recommendations on matters referred to it by the council; and
 
-Legislation Matters
-
-186
+Legislation Matters 186
 
 [[END OF PAGE 96]]
 
@@ -2830,13 +2794,13 @@ Legislation Matters
 
 #### 16. Termination of membership of academic board
 
-- Members of the academic board must participate in the deliberations of the academic board in the best interest of the college.
+(1) Members of the academic board must participate in the deliberations of the academic board in the best interest of the college.
 
-- Failure to act in the best interest of the college or behaviour that brings the college into disrepute may result in the removal of a member from the academic board by the council following due process.
+(2) Failure to act in the best interest of the college or behaviour that brings the college into disrepute may result in the removal of a member from the academic board by the council following due process.
 
 #### 17. Composition of academic board
 
-- The academic board of the college must consist of -
+(1) The academic board of the college must consist of -
 
 (a) the principal;
 
@@ -2850,41 +2814,37 @@ Legislation Matters
 
 (f) such additional persons as may be determined by the council.
 
-- The majority of members of the academic board must be lecturers.
+(2) The majority of members of the academic board must be lecturers.
 
-Legislation Matters
-
-187
+Legislation Matters 187
 
 [[END OF PAGE 97]]
 
 [[START OF PAGE 98]]
 
-- The manner of election and appointment of members must be determined by the council.
+(3) The manner of election and appointment of members must be determined by the council.
 
-- The number of persons contemplated in subsection (1)(c) to (f) must be determined by the council.
+(4) The number of persons contemplated in subsection (1)(c) to (f) must be determined by the council.
 
 #### 18. Term of office of members of academic board
 
-- Members appointed in terms of section 17(1)(a), (b) and (c) may hold office for as long as they are employed by the college in that capacity.
+(1) Members appointed in terms of section 17(1)(a), (b) and (c) may hold office for as long as they are employed by the college in that capacity.
 
-- The term of office for student members automatically lapses when a student ceases to be a registered student or a member of the SRC,
+(2) The term of office for student members automatically lapses when a student ceases to be a registered student or a member of the SRC,
 
 #### 19. Chairperson, vice-chairperson and secretary of academic board
 
-- The principal is the chairperson of the academic board and shall preside at meetings of the academic board.
+(1) The principal is the chairperson of the academic board and shall preside at meetings of the academic board.
 
-- The vice-principal is the vice-chairperson of the academic board and shall preside at meetings of the academic board in the absence of the chairperson.
+(2) The vice-principal is the vice-chairperson of the academic board and shall preside at meetings of the academic board in the absence of the chairperson.
 
-- The secretary of the academic board is elected by the academic board and he or she must perform functions as the board may decide.
+(3) The secretary of the academic board is elected by the academic board and he or she must perform functions as the board may decide.
 
-- The chairperson presides at the meetings of the subcommittees of the academic board if the academic board considers it appropriate for him or her to do so.
+(4) The chairperson presides at the meetings of the subcommittees of the academic board if the academic board considers it appropriate for him or her to do so.
 
-- The chairperson and vice-chairperson shall perform such
+(5) The chairperson and vice-chairperson shall perform such
 
-Legislation Matters
-
-188
+Legislation Matters 188
 
 [[END OF PAGE 98]]
 
@@ -2892,7 +2852,7 @@ Legislation Matters
 
 other functions as the academic board may determine.
 
-- If both the chairperson and the vice-chairperson are absent, the academic board must elect from among its members a chairperson for the meeting concerned.
+(6) If both the chairperson and the vice-chairperson are absent, the academic board must elect from among its members a chairperson for the meeting concerned.
 
 #### 20. Meeting procedure of academic board
 
@@ -2900,13 +2860,13 @@ The procedure applicable to council meetings is applicable with the necessary ch
 
 #### 21. Committees of the academic board
 
-- The academic board appoints -
+(1) The academic board appoints -
 
 (a) an executive committee; and
 
 (b) such other committees as may be required,
 
-- The composition and functions of the committees are determined by the academic board.
+(2) The composition and functions of the committees are determined by the academic board.
 
 #### 22. Joint committees of council and academic board
 
@@ -2916,21 +2876,19 @@ The council, in consultation with the academic board, appoints such joint commit
 
 #### 23. Functions of SRC
 
-- The students of the college are represented by the SRC in all matters that may affect them.
+(1) The students of the college are represented by the SRC in all matters that may affect them.
 
-Legislation Matters
-
-189
+Legislation Matters 189
 
 [[END OF PAGE 99]]
 
 [[START OF PAGE 100]]
 
-- The matters contemplated in subsection (1) include -
+(2) The matters contemplated in subsection (1) include -
 
 (a) liaison with management, the general public, other colleges, student representative councils of other colleges, national or international student organisations, unions and news media;
 
-(b) being the umbrella organisation for all student committees, clubs, councils and societies, granting or withdrawing recognition of such student commit- tees, clubs, councils and societies as it considers appropriate;
+(b) being the umbrella organisation for all student committees, clubs, councils and societies, granting or withdrawing recognition of such student committees, clubs, councils and societies as it considers appropriate;
 
 (c) coordination and supervision of the use of students' facilities and all matters pertaining thereto, in conjunction with management;
 
@@ -2944,9 +2902,7 @@ Legislation Matters
 
 (h) allocating or disbursing such funds for use by students, and making grants to approved student clubs, committees, societies and councils;
 
-Legislation Matters
-
-190
+Legislation Matters 190
 
 [[END OF PAGE 100]]
 
@@ -2964,17 +2920,17 @@ Legislation Matters
 
 #### 24. Composition of SRC
 
-- Only registered students are eligible to serve on the SRC.
+(1) Only registered students are eligible to serve on the SRC.
 
-- The SRC must be representative of the student body.
+(2) The SRC must be representative of the student body.
 
-- The election of SRC members must be democratic and transparent.
+(3) The election of SRC members must be democratic and transparent.
 
-- The SRCs of colleges that are to be merged must have a meeting before the merger to constitute a single interim SRC comprising all members of the SRC concerned for a period not exceeding six months.
+(4) The SRCs of colleges that are to be merged must have a meeting before the merger to constitute a single interim SRC comprising all members of the SRC concerned for a period not exceeding six months.
 
 #### 25. Office-bearers of SRC
 
-- The SRC elects from among its members a president to act as
+(1) The SRC elects from among its members a president to act as
 
 Legislation Matters
 
@@ -2986,13 +2942,13 @@ Legislation Matters
 
 chairperson and a deputy president to act as deputy chairperson.
 
-- The functions of other office-bearers and the election of such office-bearers are determined by the SRC.
+(2) The functions of other office-bearers and the election of such office-bearers are determined by the SRC.
 
 #### 26. Term of office of SRC members
 
-- The term of office of the members of the SRC must be one academic year.
+(1) The term of office of the members of the SRC must be one academic year.
 
-- A member of the SRC may serve more than one term of office.
+(2) A member of the SRC may serve more than one term of office.
 
 #### 27. Meetings of SRC
 
@@ -3000,43 +2956,41 @@ The number of meetings, the quorum at a meeting and the meeting procedures are d
 
 #### 28. SRC committees
 
-- The SRC must establish a disciplinary committee responsible for the discipline of any members of the SRC and members of the student structures affiliated to the SRC.
+(1) The SRC must establish a disciplinary committee responsible for the discipline of any members of the SRC and members of the student structures affiliated to the SRC.
 
-- The SRC may establish such other committees as may be required.
+(2) The SRC may establish such other committees as may be required.
 
 #### 29. General meeting
 
-- The SRC must convene at least one general meeting of students per semester.
+(1) The SRC must convene at least one general meeting of students per semester.
 
-Legislation Matters
-
-192
+192 Legislation Matters
 
 [[END OF PAGE 102]]
 
 [[START OF PAGE 103]]
 
-- If a majority of students sign a petition to the SRC requesting a general meeting, the SRC must comply with such a request.
+(2) If a majority of students sign a petition to the SRC requesting a general meeting, the SRC must comply with such a request.
 
-- Meetings of the SRC may not disrupt academic activities.
+(3) Meetings of the SRC may not disrupt academic activities.
 
 ### MANAGEMENT
 
 #### 30. Management
 
-- Management consists of the principal, vice-principal or viceprincipals of the college, as contemplated in section 19(1) of the Act.
+(1) Management consists of the principal, vice-principal or vice-principals of the college, as contemplated in section 19(1) of the Act.
 
-- The principal is the chief executive and accounting officer of the college.
+(2) The principal is the chief executive and accounting officer of the college.
 
 #### 31. Functions of principal
 
-- The principal is responsible for the day-to-day management and administration of the college and has all the powers necessary to perform these functions.
+(1) The principal is responsible for the day-to-day management and administration of the college and has all the powers necessary to perform these functions.
 
-- By virtue of his or her office the principal is a member of all the committees of the council and the academic board.
+(2) By virtue of his or her office the principal is a member of all the committees of the council and the academic board.
 
-- Subject to section 19(1) and (4) the council may assign additional functions and grant additional powers to the principal.
+(3) Subject to section 19(1) and (4) the council may assign additional functions and grant additional powers to the principal.
 
-- When the principal is absent or unable to carry out his or her duties, the vice-principal must act as principal, or the Member of the Executive Council may appoint an acting principal.
+(4) When the principal is absent or unable to carry out his or her duties, the vice-principal must act as principal, or the Member of the Executive Council may appoint an acting principal.
 
 Legislation Matters
 
@@ -3048,9 +3002,9 @@ Legislation Matters
 
 #### 32. Vice-principal and financial officer
 
-- The vice-principal or vice-principals are responsible for assisting the principal in the management and administration of the college.
+(1) The vice-principal or vice-principals are responsible for assisting the principal in the management and administration of the college.
 
-- The council of a public college must appoint a financial officer.
+(2) The council of a public college must appoint a financial officer.
 
 #### 33. Appointment of lecturers, support staff and financial officers
 
@@ -3062,13 +3016,11 @@ The council must approve conditions of employment, including the determination a
 
 #### 35. Evaluation
 
-- The management of the college are subject to evaluation by the MEC in the performance of their duties.
+(1) The management of the college are subject to evaluation by the MEC in the performance of their duties.
 
-- The lecturers and support staff are subject to continuous evaluation in the performance of their duties.
+(2) The lecturers and support staff are subject to continuous evaluation in the performance of their duties.
 
-Legislation Matters
-
-194
+194 Legislation Matters
 
 [[END OF PAGE 104]]
 
@@ -3098,17 +3050,15 @@ Legislation Matters 195
 
 [[START OF PAGE 106]]
 
+### DONORS
+
 #### 40. Donors
 
-- The college may receive moneys and equipment of any sort from donors to assist the college in providing quality education.
+(1) The college may receive moneys and equipment of any sort from donors to assist the college in providing quality education.
 
-- The college may recognise and register certain donors as determined in the rules.
+(2) The college may recognise and register certain donors as determined in the rules.
 
-Legislation Matters
-
-196
-
-### DONORS
+196 Legislation Matters
 
 [[END OF PAGE 106]]
 
@@ -3152,9 +3102,7 @@ Tshwane North FET College (B) | Central Office | PO Box 26193 Arcadia 0007 | Cnr
 Ekurhuleni West College (C) | Central Office | Private Bag X1030 Germiston 1400 | Driendek Street c/n Sol Road Germiston 1400
 Ekurhuleni East FET College (D) | Central Office | Private Bag X52 Springs 1560 | Sam Ngema Road Kwa-Thema Springs 1560
 
-Legislation Matters
-
-198
+198 Legislation Matters
 
 [[END OF PAGE 108]]
 
@@ -3163,11 +3111,11 @@ Legislation Matters
 College | Campus | CONTACT DETAILS
 --- | --- | --- | --- | ---
 Province | Name | Name | Postal Address | Physical Address
-Gauteng (continued) | Western College FET (G) | Central Office | Private Bag Xi7 Randfontein 1760 | Kiewiet Street Helikon Park Randfontein 1760
+Gauteng (continued) | Western College FET (G) | Central Office | Private Bag X17 Randfontein 1760 | Kiewiet Street Helikon Park Randfontein 1760
 Sedibeng FET College (H) | Central Office | Private Bag X020 Vereeniging 1930 | 37 Voortrekker Street Vereeniging 1930
 South West FET College (E) | Central Office | PO Box 164 Florida 1710 | Koma c/n Molele Road Molapo Section Soweto
 Central Johannesburg (F) | Central Office | Private Bag X2336 Houghton 2041 | 5 Ubla Street Parktown 2041
-KwaZulu- Natal | Mthashana FET College (A) | Central Office | PO Box 9424 Vrvheid 3100 | 92 Hlobane Street Vryheid 3100
+KwaZulu-Natal | Mthashana FET College (A) | Central Office | PO Box 9424 Vrvheid 3100 | 92 Hlobane Street Vryheid 3100
 Umfolozi FET College (B) | Central Office | Private Bag X5023 Richards Bay 3900 | Via Richardia Naboomnek Richardsbay 3900
 Majuba FET College (C) | Central Office | Private Bag X5020 Newcastle 2940 | Centre For People Development Police Station Road Section 2 Madadeni 2951
 Mnambithi FET College (D) | Central Office | Private Bag X9903 Ladysmith 3370 | 12 Walton Street Ladysmith 3370
@@ -3181,19 +3129,17 @@ Legislation Matters 199
 College | Campus | CONTACT DETAILS
 --- | --- | --- | --- | ---
 Province | Name | Name | Postal Address | Physical Address
-KwaZulu- Natal (continued) | Sivananda FET College (E) | Central Office | Private Bag X13 Westville 3630 | 22 Westville Road Westville Durban 3630
+KwaZulu-Natal (continued) | Sivananda FET College (E) | Central Office | Private Bag X13 Westville 3630 | 22 Westville Road Westville Durban 3630
 Coastal FET College (Mobeni) (F) | Central Office | PO Box 1795 Amanzimtoti 4125 | No 50051 Old Main Road Kwamathutha 4125
 Thekwini FET College (G) | Central Office | Private Bag X06 Dormerton 4015 | 262 Daintree Avenue Asherville 4091
-Umgungu- ndlovu FET College (H) | Central Office | Private Bag X9060 Pietermaritzburg | 4 Prince Alfred Street Pietermaritzburg
-Esayidi FET College (I) | Central Office | Private Bag X7I3 Port Shepstone 4240 | 22 Veronica Gamalakhe 4249
-Limpopo | Lephalale FET College (A) | Central Office | Private Bag X2I0 Lephalale 0555 | Cnr Nelson Mandela & Ramatlhodi Streets Onverwacht 0557
+Umgungundlovu FET College (H) | Central Office | Private Bag X9060 Pietermaritzburg | 4 Prince Alfred Street Pietermaritzburg
+Esayidi FET College (I) | Central Office | Private Bag X713 Port Shepstone 4240 | 22 Veronica Gamalakhe 4249
+Limpopo | Lephalale FET College (A) | Central Office | Private Bag X210 Lephalale 0555 | Cnr Nelson Mandela & Ramatlhodi Streets Onverwacht 0557
 Capricorn FET College (B) | Central Office | Private Bag X367 Polokwane 0700 | Cnr Don & College Streets Polokwane 0700
 Waterberg FET College (C) | Central Office | Private Bag X2449 Mokopane 0600 | 20 Simmentaler Street Mokopane
 Vhembe FET College (D) | Central Office | Private Bag X2415 Makhado 0920 | 113 Burger Street Makhado 0920
 
-Legislation Matters
-
-200
+200 Legislation Matters
 
 [[END OF PAGE 110]]
 
@@ -3206,9 +3152,9 @@ Limpopo (continued) | Mopani South East FET College (E) | Central Office | Priva
 Letaba FET College (F) | Central Office | Private Bag X4017 Tzaneen 0850 | Claude Whaetly Street Tzaneen
 Sekhu-khune FET College (G) | Central Office | Private Bag X8660 Grobelarsdal 0470 | Stand No 676 Motetema 0473
 Mpumalanga | Ehlanzeni FET College (A) | Central Office | Private Bag X11297 Nelspruit 1200 | 7th Floor Sanlam Building Louis Trichardt Street Nelspruit
-Nkangala FET College (B) | Central Office | PO Box 22S2 Witbank 1035 | Crn Haig & Northey Streets Witbank 1035
+Nkangala FET College (B) | Central Office | PO Box 2282 Witbank 1035 | Crn Haig & Northey Streets Witbank 1035
 Gert Sibande FET College (C) | Central Office | Private Bag X3475 Standerton 2430 | 18A Piet Retief Street Standerton 2430
-Northern Cape | Northern Cape Urban FET College (A) | Central Office | Private Bag X503I Kimberley 8300 | Jan Smuts Ave Kimberly
+Northern Cape | Northern Cape Urban FET College (A) | Central Office | Private Bag X5031 Kimberley 8300 | Jan Smuts Ave Kimberly
 Northern Cape Rural FET College (B) | PO Box X1834 Upington 8800 | Steve Naude Street Upington
 North West | Taletso FET College (A) | Central Office | Private Bag X128 Mmabatho 2735 | 13 Andesiet Drive Riviera Park Mafikeng 2745
 
@@ -3232,9 +3178,7 @@ NorthLink FET College (D) | Central Office | Private Bag X1 Panorama 7506 | Deti
 College of Cape Town FET College (E) | Central Office | PO Box 1054 Cape Town 8000 | Bytes Technology CS Holdings Bldg 2nd Floor Golf Park Raapenberg Road Pinelands, 7405
 False Bay FET College (F) | Central Office | Private Bag X25 Tokai 7988 | False Bay College Tokai on Main Tokai
 
-Legislation Matters
-
-202
+202 Legislation Matters
 
 [[END OF PAGE 112]]
 
@@ -3246,17 +3190,17 @@ Legislation Matters
 
 (Section 58 (3))
 
-#### Amendment of section 1 of Act 76 of 1998, as amended by section 6 of Act 53 of 2000 and section 1 of Act 24 of 2005
+#### 1. Amendment of section 1 of Act 76 of 1998, as amended by section 6 of Act 53 of 2000 and section 1 of Act 24 of 2005
 
 Section 1 of the Employment of Educators Act, 1998 (in this Schedule referred to as the Educators Act), is hereby amended -
 
-(a)   by the substitution for the definition of 'departmental office' of the following definition:
+(a)   by the substitution for the definition of “departmental office” of the following definition:
 
-'departmental office' means any office or institution controlled or administered by the Department of Education or any provincial department of education, but does not include any public school [, further education and training institution] or adult basic education centre;';
+“departmental office” means any office or institution controlled or administered by the Department of Education or any provincial department of education, but does not include any public school [, further education and training institution] or adult basic education centre;”;
 
-(b)   by the substitution for the definition of 'educator' of the following definition:
+(b)   by the substitution for the definition of “educator” of the following definition:
 
-' 'educator' means any person who teaches, educates or trains other persons or who provides professional educational services, including professional therapy and education psychological services, at any public school,
+“ 'educator' means any person who teaches, educates or trains other persons or who provides professional educational services, including professional therapy and education psychological services, at any public school,
 
 Legislation Matters 203
 
@@ -3264,41 +3208,40 @@ Legislation Matters 203
 
 [[START OF PAGE 114]]
 
-[further education and training institution,] departmental office or adult basic education centre and who is appointed in a post on any educator establishment under this Act;'; and
+[further education and training institution,] departmental office or adult basic education centre and who is appointed in a post on any educator establishment under this Act;”; and
 
-(c)   by the deletion of the definition of 'further education and training institution'.
+(c)   by the deletion of the definition of “further education and training institution”.
 
-#### Amendment of section 2 of Act 76 of 1998
+#### 2. Amendment of section 2 of Act 76 of 1998
 
 Section 2 of the Educators Act is hereby amended by the deletion of paragraph (b).
 
-#### Amendment of section 3 of Act 76 of 1998
+#### 3. Amendment of section 3 of Act 76 of 1998
 
 Section 3 of the Educators Act is hereby amended by the deletion of subsection (5).
 
-#### Amendment of section 6 of Act 76 of 1998, as amended by section 6 of Act 48 of 1999, section 7 of Act 53 of 2000 and section 7 of Act 24 of 2005
+#### 4. Amendment of section 6 of Act 76 of 1998, as amended by section 6 of Act 48 of 1999, section 7 of Act 53 of 2000 and section 7 of Act 24 of 2005
 
 Section 6 of the Educators Act is hereby amended -
 
 (a)   by the substitution in subsection (3) for paragraph (a) of the following paragraph:
 
-'(a) Subject to paragraph (m), any appointment, promotion or transfer to any post on the educator establishment of a public school [or a further education and training institution,] may only be made on the recommendation of the governing body of the public school [or the council of the further education and training institution, as the case may be,] and, if there are educators in the provincial department of education concerned who are in excess of the educator establishment of a public school [or further education and training institution] due to operational requirements, that recommendation may only be made from candidates identified by the Head of Department, who are in excess and suitable for the post concerned.';
+“(a) Subject to paragraph (m), any appointment, promotion or transfer to any post on the educator establishment of a
 
-Legislation Matters
-
-204
+204 Legislation Matters
 
 [[END OF PAGE 114]]
 
 [[START OF PAGE 115]]
+public school [or a further education and training institution,] may only be made on the recommendation of the governing body of the public school [or the council of the further education and training institution, as the case may be,] and, if there are educators in the provincial department of education concerned who are in excess of the educator establishment of a public school [or further education and training institution] due to operational requirements, that recommendation may only be made from candidates identified by the Head of Department, who are in excess and suitable for the post concerned.”;
 
 (b)   by the substitution in subsection (3)(b) for subparagraph (v) of the following subparagraph:
 
-'(v) procedures that would ensure that the recommendation is not obtained through undue influence on the members of the governing body [or the council, as the case may be] .';
+“(v) procedures that would ensure that the recommendation is not obtained through undue influence on the members of the governing body [or the council, as the case may be].”;
 
 (c)   by the substitution in subsection (3)(c) for the words preceding subparagraph (i) of the following words:
 
-'The governing body [or the council, as the case may be,] must submit, in order of preference to the Head of Department, a list of -';
+“The governing body [or the council, as the case may be,] must submit, in order of preference to the Head of Department, a list of -”;
 
 (d)   by the substitution in subsection (3) for paragraphs (d) and (e) of the following paragraphs, respectively:
 
@@ -3308,29 +3251,27 @@ Legislation Matters 205
 
 [[START OF PAGE 116]]
 
-'(d) When the Head of Department considers the recommendation contemplated in paragraph (c), he or she must, before making an appointment, ensure that the governing body [or council, as the case may,] has met the requirements in paragraph (b).
+“(d) When the Head of Department considers the recommendation contemplated in paragraph (c), he or she must, before making an appointment, ensure that the governing body [or council, as the case may,] has met the requirements in paragraph (b).
 
-(e) If the governing body [or council, as the case may be,] has not met the requirements in paragraph (b), the Head of Department must decline the recommendation.';
+(e) If the governing body [or council, as the case may be,] has not met the requirements in paragraph (b), the Head of Department must decline the recommendation.”;
 
 (e)   by the substitution in subsection (3) for paragraph (h) of the following paragraph:
 
-'(h) The governing body [or the council, as the case may be,] may appeal to the Member of the Executive Council against the decision of the Head of Department regarding the temporary appointment contemplated in paragraph (g)';
+“(h) The governing body [or the council, as the case may be,] may appeal to the Member of the Executive Council against the decision of the Head of Department regarding the temporary appointment contemplated in paragraph (g)”;
 
 (f) by the substitution in subsection (3) for paragraph (l) of the following paragraph:
 
-'(l) A recommendation contemplated in paragraph (a) shall be made within two months from the date on which a governing body [or council, as the case may be,] was requested to make a recommendation, failing which the Head of Department may, subject to paragraph (g), make an appointment without such recommendation.';
+“(l) A recommendation contemplated in paragraph (a) shall be made within two months from the date on which a governing body [or council, as the case may be,] was requested to make a recommendation, failing which the Head of Department may, subject to paragraph (g), make an appointment without such recommendation.”;
 
 (g)   by the substitution in subsection (3)(m) for the words preceding subparagraph (i) of the following words:
 
-Legislation Matters
-
-206
+206 Legislation Matters
 
 [[END OF PAGE 116]]
 
 [[START OF PAGE 117]]
 
-'Until the relevant governing body [or council, as the case may be,] is established, the appointment, promotion or transfer in a temporary capacity to any post on the educator establishment must be made by the Head of Department where a -'; and
+“Until the relevant governing body [or council, as the case may be,] is established, the appointment, promotion or transfer in a temporary capacity to any post on the educator establishment must be made by the Head of Department where a -”; and
 
 (h) by the repeal in subsection (3)(m) of subparagraph (ii).
 
@@ -3338,11 +3279,11 @@ Legislation Matters
 
 The following section is hereby substituted for section 6B of the Educators Act:
 
-##### 'Conversion of temporary employment to permanent employment
+##### “Conversion of temporary employment to permanent employment
 
-6B. The Head of Department may, after consultation with the governing body of a public school, [or the council of a further education and training institution, as the case may be,] convert the temporary appointment of an educator appointed to a post on the educator establishment of the public school [or the further education and training institution] into a permanent appointment in that post without the recommendation of the governing body [or the council, as the case may be].'.
+6B. The Head of Department may, after consultation with the governing body of a public school, [or the council of a further education and training institution, as the case may be,] convert the temporary appointment of an educator appointed to a post on the educator establishment of the public school [or the further education and training institution] into a permanent appointment in that post without the recommendation of the governing body [or the council, as the case may be].”.
 
-#### Amendment of section 8 of Act 76 of 1998, as amended by section 16 of Act 48 of 1999 and section 3 of Act 1 of 2004
+#### 6. Amendment of section 8 of Act 76 of 1998, as amended by section 16 of Act 48 of 1999 and section 3 of Act 1 of 2004
 
 Section 8 of the Educators Act is hereby amended -
 
@@ -3354,19 +3295,17 @@ Legislation Matters 207
 
 (a) by the substitution for subsection (2) of the following subsection:
 
-'(2) Subject to subsections (4) and (5), no transfer to any post on the educator establishment of a public school [or a further education and training institution] shall be made unless the recommendation of the governing body of the public school [or the council of the further education and training institution, as the case may be,] has been obtained.';
+“(2) Subject to subsections (4) and (5), no transfer to any post on the educator establishment of a public school [or a further education and training institution] shall be made unless the recommendation of the governing body of the public school [or the council of the further education and training institution, as the case may be,] has been obtained.”;
 
 (b)   by the substitution for subsection (5) of the following subsection:
 
-'(5) The Head of Department may, without a recommendation contemplated in subsection (2), transfer an educator temporarily for a stated period from a post at a public school [or public further education and training institution,] to a post at another public school [or public further education and training institution] .'; And
+“(5) The Head of Department may, without a recommendation contemplated in subsection (2), transfer an educator temporarily for a stated period from a post at a public school [or public further education and training institution,] to a post at another public school [or public further education and training institution].”; And
 
 (c) by the substitution for subsection (7) of the following subsection:
 
-'(7) Despite section 6(3)(a) and subsection (2), in the case of an educator who has been awarded a bursary by the employer to follow a course approved by the employer, the employer may transfer such an educator, with his or her consent, to any suitable post on the educator establishment of a public school [, a further education and training institution] or an adult basic education and training centre.'.
+“(7) Despite section 6(3)(a) and subsection (2), in the case of an educator who has been awarded a bursary by the employer to follow a course approved by the employer, the employer may transfer such an educator, with his or her consent, to any suitable post on the educator establishment of a public school [, a further education and training institution] or an adult basic education and training centre.”.
 
-Legislation Matters
-
-208
+208 Legislation Matters
 
 [[END OF PAGE 118]]
 
@@ -3378,15 +3317,15 @@ Section 18 of the Educators Act is hereby amended -
 
 (a)   by the substitution in subsection (1) for paragraphs (b), (c) and (d) of the following paragraphs, respectively:
 
-'(b) wilfully or negligently mismanages the finances of the State, a school [, a further education and training institution] or an adult learning centre;
+“(b) wilfully or negligently mismanages the finances of the State, a school [, a further education and training institution] or an adult learning centre;
 
 (c) without permission possesses or wrongfully uses the property of the State, a school, [a further education and training institution,] an adult learning centre, another employee or a visitor;
 
-(d)   wilfully, intentionally or negligently damages or causes loss to the property of the State, a school [, a further education and training institution] or an adult learning centre;'; and
+(d)   wilfully, intentionally or negligently damages or causes loss to the property of the State, a school [, a further education and training institution] or an adult learning centre;”; and
 
 (b)  by the substitution in subsection (1) for paragraphs (f) and (g) of the following paragraphs, respectively:
 
-'(f)  unjustifiably prejudices the administration, discipline or efficiency of the Department of Education, an office of the
+“(f)  unjustifiably prejudices the administration, discipline or efficiency of the Department of Education, an office of the
 
 Legislation Matters 209
 
@@ -3394,12 +3333,10 @@ Legislation Matters 209
 
 [[START OF PAGE 120]]
 
-Legislation Matters
-
-210
-
 State or a school [, further education and training institution] or adult learning centre;
 
-(g) misuses his or her position in the Department of Education or a school [, further education and training institution] or adult learning centre to promote or to prejudice the interests of any person;'.
+(g) misuses his or her position in the Department of Education or a school [, further education and training institution] or adult learning centre to promote or to prejudice the interests of any person;”.
+
+210 Legislation Matters
 
 [[END OF PAGE 120]]
