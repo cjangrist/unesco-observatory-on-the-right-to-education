@@ -10,49 +10,22 @@ Act 4 of 1976
 
 ## Current Authorised Pages
 
-(inclusive)                 by L.R.O.
-
-1-4             ..
-
-5-16
-
-17-28           ..
-
-29-54           ..
-
-55-66           ..
-
-67-84           ..
-
-85-86           ..
-
-87-92           ..
-
-93-96           ..
-
-97-120
-
-121-132         ..
-
-133-190         ..
-
-191-204         ..
-
 Pages | Authorised
 --- | ---
-(inclusive) 1-4 | by L.R.O. 1/2013 1/2009
-5-16
-17-28 | 1/2013
-29-54 | 1/2009
-55-66 | 1/2013
-67-84 | 1/2009
-85-86 | 1/2011
-87-92 | 1/2009
-93-96 | 1/2011
-97-120 | 1/2009
-121-132 | 1/2011
-133-190 | 1/2009
-191-204 | 1/2011
+(inclusive) | by L.R.O.
+1–4 | 1/2013
+5–16 | 1/2009
+17–28 | 1/2013
+29–54 | 1/2009
+55–66 | 1/2013
+67–84 | 1/2009
+85–86 | 1/2011
+87–92 | 1/2009
+93–96 | 1/2011
+97–120 | 1/2009
+121–132 | 1/2011
+133–190 | 1/2009
+191–204 | 1/2011
 
 L.R.O. 1/2013
 
@@ -69,6 +42,24 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 of Trinidad and Tobago Constitution of the Republic
 
 ## Index of Subsidiary Legislation
+
+Page
+Existing Laws Amendment Order (GN 8/1962) … … … … 17
+Existing Laws Amendment Order (GN 97/1963) … … … 19
+Existing Laws Modification Order (GN 136/1976) … … … 22
+Letters Patent Establishing the Distinguished Society of Trinidad and Tobago
+(110/1983) … … … … … … … 23
+Electoral College Regulations (GN 187/1976) … … … … 29
+Public Service Commission (Delegation of Powers) Order (GN 158/1966) … 41
+Teaching Service Commission (Delegation of Powers) Order (GN 88/1969) … 55
+Public Service Commission Regulations (GN 132/1966) … … 57
+Police Service Commission Regulations (GN 131/1966) … … 131
+Appointment of the Commissioner of Police and Deputy Commissioner of
+Police (Qualification and Selection Criteria) Order (LN 165/2007) … 172
+Commissioner of Police and Deputy Commissioner of Police (Selection Process)
+Order (LN 166/2007) … … … … … … 174
+Public Service Appeal Board Regulations (GN 74/1978) … … … 177
+Police Service Commission (Appeal) Regulations … … … 191
 
 ## Note on Schedule
 
@@ -106,7 +97,7 @@ of Trinidad and Tobago Constitution of the Republic
 
 (h) Public Accounts (Enterprises) Committee (made under section 119).
 
-- N.B.  See Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation.
+N.B. See Current Edition of the Consolidated Index of Acts and Subsidiary Legislation for references to these Subsidiary Legislation.
 
 ## Note on section 162, and on Part IV of CHAPTER XII (Resignation, Retirement), of the Public Service Commission Regulations
 
@@ -136,51 +127,51 @@ of Trinidad and Tobago Constitution of the Republic
 
 SECTION
 
-- Short title.
+1. Short title.
 
-- Interpretation.
+2. Interpretation.
 
-- Former Constitution repealed and new Constitution enacted.
+3. Former Constitution repealed and new Constitution enacted.
 
-- Appointed day.
+4. Appointed day.
 
-- Existing law.
+5. Existing law.
 
-- Prerogative and privilege.
+6. Prerogative and privilege.
 
-- Legal proceedings and other matters.
+7. Legal proceedings and other matters.
 
-- Succession to property.
+8. Succession to property.
 
-- Rights, liabilities and obligations.
+9. Rights, liabilities and obligations.
 
-- Existing officers.
+10. Existing officers.
 
-- Judges of the Supreme Court.
+11. Judges of the Supreme Court.
 
-- Oaths.
+12. Oaths.
 
-- Transitional provisions relating to existing Commissions.
+13. Transitional provisions relating to existing Commissions.
 
-- Saving for offices of Prime Minister and Ministers.
+14. Saving for offices of Prime Minister and Ministers.
 
-- Alteration to this Act.
+15. Alteration to this Act.
 
-- Transitional as to dissolution of last Parliament.
+16. Transitional as to dissolution of last Parliament.
 
-- Transitional as to Director of Public Prosecutions.
+17. Transitional as to Director of Public Prosecutions.
 
-- V alidation of certain enactments.
+18. Validation of certain enactments.
 
-- Saving for prescribed matters under former Constitution.
+19. Saving for prescribed matters under former Constitution.
 
-- Saving for Standing Orders.
+20. Saving for Standing Orders.
 
-- Transitional as to constituency boundaries and list of electors.
+21. Transitional as to constituency boundaries and list of electors.
 
-- Act to be certified.
+22. Act to be certified.
 
-SCHEDULE -(See Note on page 2 ) .
+SCHEDULE—(See Note on page 2).
 
 [[END OF PAGE 4]]
 
@@ -199,31 +190,34 @@ of Trinidad and Tobago Constitution of the Republic
 ### CONSTITUTION  OF  THE  REPUBLIC OF  TRINIDAD  AND  TOBAGO  ACT
 
 4 of 1976.
-#### An Act  to  establish  the  Republic  of  Trinidad  and  Tobago and  to  enact  the  Constitution  thereof  in  lieu  of  the former Constitution.
 
-[29TH MARCH 1976]
-
-WHEREAS it is enacted by subsection (1) of section 38 of  the former Constitution that Parliament may alter any of the provisions thereof:
-
-And  whereas  it  is  enacted  by  subsection  (2)  of  the  said section  38  that  in  so  far  as  it  alters  certain  provisions  of  the former Constitution a Bill for an Act of Parliament under the said section 38 shall not be passed by Parliament unless at the final voting thereon in each House it is supported by the votes of not less than two-thirds of all the members of each House:
-
-And  whereas  it  is  enacted  by  subsection  (3)  of  the  said section 38 that in so far as it alters that section and certain other sections  of  the  former  Constitution,  a  Bill  for  an  Act  of Parliament  under  the  said  section  38  shall  not  be  passed  by Parliament unless it is supported at the final voting thereon-
-
-(i)   in  the  House  of  Representatives  by  the votes of not less than three-fourths of all the members of the House;
-
-(ii)   in the Senate by the votes of not less than two-thirds of all the members of the Senate:
-
-And whereas it is intended by this Parliament by this Act to alter the former Constitution:
-
-NOW, THEREFORE, BE IT ENACTED by the Parliament of Trinidad and Tobago as follows:-
-
-Short title. 1. (1)  This  Act  may  be  cited  as  the  Constitution  of  the Republic of Trinidad and Tobago Act.
-
-L.R.O. 1/2009
+#### An Act to establish the Republic of Trinidad and Tobago and to enact the Constitution thereof in lieu of the former Constitution.
 
 Commencement.
 
+[29TH MARCH 1976]
+
 Preamble.
+
+WHEREAS it is enacted by subsection (1) of section 38 of the former Constitution that Parliament may alter any of the provisions thereof:
+
+And whereas it is enacted by subsection (2) of the said section 38 that in so far as it alters certain provisions of the former Constitution a Bill for an Act of Parliament under the said section 38 shall not be passed by Parliament unless at the final voting thereon in each House it is supported by the votes of not less than two-thirds of all the members of each House:
+
+And whereas it is enacted by subsection (3) of the said section 38 that in so far as it alters that section and certain other sections of the former Constitution, a Bill for an Act of Parliament under the said section 38 shall not be passed by Parliament unless it is supported at the final voting thereon—
+
+(i) in the House of Representatives by the votes of not less than three-fourths of all the members of the House;
+
+(ii) in the Senate by the votes of not less than two-thirds of all the members of the Senate:
+
+And whereas it is intended by this Parliament by this Act to alter the former Constitution:
+
+NOW, THEREFORE, BE IT ENACTED by the Parliament of Trinidad and Tobago as follows:—
+
+Short title.
+
+1. (1) This Act may be cited as the Constitution of the Republic of Trinidad and Tobago Act.
+
+L.R.O. 1/2009
 
 [[END OF PAGE 5]]
 
@@ -247,27 +241,27 @@ Appointed day.
 
 (2)  This  Act  shall  have  effect  for  the  purpose  of  the alteration of the former Constitution.
 
-2. In this Act-
+2. In this Act—
 
-'alter' has the same meaning as in section 38(6) (b) of the former Constitution;
+“alter” has the same meaning as in section 38(6)(b) of the former Constitution;
 
-'appointed  day'  means  the  day  fixed  for  the  coming  into operation  of  the  Constitution  by  Proclamation  of  the Governor-General under section 4;
+*“appointed day” means the day fixed for the coming into operation of the Constitution by Proclamation of the Governor-General under section 4;
 
-'the Commonwealth' has the same meaning as in section 3 of the Constitution;
+“the Commonwealth” has the same meaning as in section 3 of the Constitution;
 
-† 'the  Constitution'  means  the  Constitution  set  out  in  the Schedule;
+†“the Constitution” means the Constitution set out in the Schedule;
 
-'existing law' means a law that had effect as part of the law of Trinidad and Tobago immediately before the appointed day;
+“existing law” means a law that had effect as part of the law of Trinidad and Tobago immediately before the appointed day;
 
-'the former Constitution' has the same meaning as in section 3 of the Constitution;
+“the former Constitution” has the same meaning as in section 3 of the Constitution;
 
-'law' has the same meaning as in section 3 of the Constitution;
+“law” has the same meaning as in section 3 of the Constitution;
 
-'the Order-in-Council of 1962' means the Trinidad and Tobago (Constitution) Order-in-Council, 1962;
+“the Order-in-Council of 1962” means the Trinidad and Tobago (Constitution) Order-in-Council, 1962;
 
-'public  office'  has  the  same  meaning  as  in  section  3  of  the Constitution;
+“public office” has the same meaning as in section 3 of the Constitution;
 
-'the State' means the Republic of Trinidad and Tobago.
+“the State” means the Republic of Trinidad and Tobago.
 
 3. On  the  appointed  day  all  the  provisions  of  the  former Constitution  are  repealed  and  the  Order-in-Council  of  1962  is revoked, and thereupon the Constitution shall have effect as the supreme law of the State in place of the former Constitution.
 
@@ -359,21 +353,23 @@ of Trinidad and Tobago Constitution of the Republic
 
 (3)  Where,  immediately  before  the  appointed  day,  any person  holds  any  property  in  trust  for  Her  Majesty  or  for  the Governor-General,  for  the  purposes  of  the  Government  of Trinidad and Tobago, that person shall, from the appointed day, hold such property on the like trust for the State.
 
-9. (1)  All rights, liabilities and obligations of Her Majesty in respect of the Government of Trinidad and Tobago shall, on and after the appointed day, be rights, liabilities and obligations of the State.
+Rights, liabilities and obligations.
 
-(2)  All rights, liabilities and obligations of the Governor-General  or  the  holder  of  any  other  office  under  the Crown  in  respect  of  the  Government  of  Trinidad  and  Tobago, shall,  on  and  after  the  appointed  day,  be  rights,  liabilities  and obligations of the President or of the holder of that other office, as the case may be, on behalf of the State.
+9. (1) All rights, liabilities and obligations of Her Majesty in respect of the Government of Trinidad and Tobago shall, on and after the appointed day, be rights, liabilities and obligations of the State.
 
-(3)  In  this  section,  rights,  liabilities  and  obligations include rights, liabilities and obligations arising from contract or otherwise, other than rights mentioned in sections 6 and 8.
+(2) All rights, liabilities and obligations of the Governor-General or the holder of any other office under the Crown in respect of the Government of Trinidad and Tobago, shall, on and after the appointed day, be rights, liabilities and obligations of the President or of the holder of that other office, as the case may be, on behalf of the State.
 
-10. (1)  Subject  to  the  provisions  of  this  Act  and  of  the Constitution, every person who immediately before the appointed day holds or is acting in a public office shall, as from that day, continue to hold or act in the like office as if he had been appointed thereto in accordance with the provisions of the Constitution.
-
-(2)  A person who under the Order-in-Council of 1962 or any existing law would have been required to vacate his office at the  expiration  of  any  period  shall  vacate  his  office  at  the expiration of that period.
-
-11. (1)  The  Judges  of  the  Supreme  Court  holding  office immediately  before  the  appointed  day  shall,  as  from  that  day, Rights, liabilities and obligations.
+(3) In this section, rights, liabilities and obligations include rights, liabilities and obligations arising from contract or otherwise, other than rights mentioned in sections 6 and 8.
 
 Existing officers.
 
+10. (1) Subject to the provisions of this Act and of the Constitution, every person who immediately before the appointed day holds or is acting in a public office shall, as from that day, continue to hold or act in the like office as if he had been appointed thereto in accordance with the provisions of the Constitution.
+
+(2) A person who under the Order-in-Council of 1962 or any existing law would have been required to vacate his office at the expiration of any period shall vacate his office at the expiration of that period.
+
 Judges of the Supreme Court.
+
+11. (1) The Judges of the Supreme Court holding office immediately before the appointed day shall, as from that day,
 
 L.R.O. 1/2009
 
@@ -425,9 +421,11 @@ aforesaid  has,  immediately  before  the  appointed  day,  partly completed the
 
 (5)  The  persons  holding  the  office  of  Chairman  and members  of  the  Elections  Commission  under  the  former Constitution shall, as from the appointed day, continue to hold the like office in the Elections and Boundaries Commission under the Constitution as if they had been appointed thereto in accordance with  the  Constitution.  This  subsection  shall  have  effect  only during the period of twelve months next after the appointed day.
 
-14. (1)  The  person  who  immediately  before  the  appointed day  holds  the  office  of  Prime  Minister  under  the  former Constitution shall, as from that day hold office as Prime Minister under the Constitution as if he had been appointed thereto under the provisions of section 76 of the Constitution.
+Saving for offices of Prime Minister and Ministers.
 
-(2)  Where  the  person  who  is  Prime  Minister  under subsection (1) is for any reason unable to act or where the office of Prime Minister is vacant, the President, acting on the advice of the Prime Minister, if the Prime Minister is able so to do, shall appoint a  person  who  is  a  Minister  under  subsection  (3)  to  perform  the Saving for offices of Prime Minister and Ministers.
+14. (1) The person who immediately before the appointed day holds the office of Prime Minister under the former Constitution shall, as from that day hold office as Prime Minister under the Constitution as if he had been appointed thereto under the provisions of section 76 of the Constitution.
+
+(2) Where the person who is Prime Minister under subsection (1) is for any reason unable to act or where the office of Prime Minister is vacant, the President, acting on the advice of the Prime Minister, if the Prime Minister is able so to do, shall appoint a person who is a Minister under subsection (3) to perform the
 
 L.R.O. 1/2009
 
@@ -579,14 +577,10 @@ Amended by
 
 ## Current Authorised Pages
 
-(inclusive)                 by L.R.O.
-
-1-118           ..
-
 Pages | Authorised
 --- | ---
 (inclusive) | by L.R.O.
-1-118 | 1/2009
+1–118 | 1/2009
 
 L.R.O. 1/2009
 
@@ -640,51 +634,51 @@ SECTION
 
 ## PRELIMINARY
 
-- The State.
+- 1. The State.
 
-- The Supreme Law.
+- 2. The Supreme Law.
 
-- Interpretation.
+- 3. Interpretation.
 
-## CHAPTER   1
+## CHAPTER 1
 
-### THE  RECOGNITION  AND  PROTECTION  OF FUNDAMENTAL  HUMAN  RIGHTS  AND  FREEDOMS
+### THE RECOGNITION AND PROTECTION OF FUNDAMENTAL HUMAN RIGHTS AND FREEDOMS
 
-#### PART  I
+#### PART I
 
-##### RIGHTS  ENSHRINED
+##### RIGHTS ENSHRINED
 
-- Recognition and declaration of rights and freedoms.
+- 4. Recognition and declaration of rights and freedoms.
 
-- Protection of rights and freedoms.
+- 5. Protection of rights and freedoms.
 
-#### PART  II
+#### PART II
 
-##### EXCEPTIONS  FOR  EXISTING  LAW
+##### EXCEPTIONS FOR EXISTING LAW
 
-- Savings for existing law.
+- 6. Savings for existing law.
 
-#### PART  III
+#### PART III
 
-##### EXCEPTIONS  FOR  EMERGENCIES
+##### EXCEPTIONS FOR EMERGENCIES
 
-- Emergency powers.
+- 7. Emergency powers.
 
-- Period of public emergency.
+- 8. Period of public emergency.
 
-- Grounds for, and initial duration of, Proclamation.
+- 9. Grounds for, and initial duration of, Proclamation.
 
-- Extension of Proclamation.
+- 10. Extension of Proclamation.
 
-- Detention of persons.
+- 11. Detention of persons.
 
-- Publication.
+- 12. Publication.
 
-#### PART  IV
+#### PART IV
 
-##### EXCEPTIONS  FOR  CERTAIN  LEGISLATION
+##### EXCEPTIONS FOR CERTAIN LEGISLATION
 
-- Acts inconsistent with sections 4 and 5.
+- 13. Acts inconsistent with sections 4 and 5.
 
 L.R.O. 1/2009
 
@@ -698,71 +692,71 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
+ARRANGEMENT OF SECTIONS—Continued
+
 SECTION
 
-ARRANGEMENT  OF  SECTIONSContinued
-
-#### PART  V
+#### PART V
 
 ##### GENERAL
 
-- Enforcement of the protective provisions.
+- 14. Enforcement of the protective provisions.
 
-## CHAPTER  2
+## CHAPTER 2
 
 ### CITIZENSHIP
 
-- Continuation  of  citizenship  of  citizens  under  section  9  of  former Constitution.
+- 15. Continuation of citizenship of citizens under section 9 of former Constitution.
 
-- Continuation of citizenship of citizens by registration, naturalisation, etc.
+- 16. Continuation of citizenship of citizens by registration, naturalisation, etc.
 
-- Acquisition  of  citizenship  by  birth  or  descent.  Continuation  of citizenship. Retrospective citizenship.
+- 17. Acquisition of citizenship by birth or descent. Continuation of citizenship. Retrospective citizenship.
 
-- Commonwealth citizens.
+- 18. Commonwealth citizens.
 
-- Criminal liability of Commonwealth citizens.
+- 19. Criminal liability of Commonwealth citizens.
 
-- Powers of Parliament.
+- 20. Powers of Parliament.
 
-- Interpretation of Chapter 2.
+- 21. Interpretation of Chapter 2.
 
-## CHAPTER  3
+## CHAPTER 3
 
-### THE  PRESIDENT
+### THE PRESIDENT
 
-- Establishment of office and election of President.
+- 22. Establishment of office and election of President.
 
-- Qualifications and disqualifications for office of President.
+- 23. Qualifications and disqualifications for office of President.
 
-- Other conditions of office.
+- 24. Other conditions of office.
 
-- Transitional provision.
+- 25. Transitional provision.
 
-- Holding of elections for President.
+- 26. Holding of elections for President.
 
-- Where office vacant.
+- 27. Where office vacant.
 
-- Electoral College.
+- 28. Electoral College.
 
-- Mode of elections.
+- 29. Mode of elections.
 
-- Nomination of candidates.
+- 30. Nomination of candidates.
 
-- Procedure for balloting.
+- 31. Procedure for balloting.
 
-- Determination of questions as to elections.
+- 32. Determination of questions as to elections.
 
-- Term of office.
+- 33. Term of office.
 
-- V acation of office.
+- 34. Vacation of office.
 
-- Removal from office.
+- 35. Removal from office.
 
-- Procedure for removal from office.
+- 36. Procedure for removal from office.
 
-- Oath.
+- 37. Oath.
 
-- Immunities of President.
+- 38. Immunities of President.
 
 [[END OF PAGE 19]]
 
@@ -776,61 +770,61 @@ The Constitution
 
 SECTION
 
-## CHAPTER  4
+## CHAPTER 4
 
 ### PARLIAMENT
 
-#### PART  I
+#### PART I
 
-##### COMPOSITION  OF  PARLIAMENT
+##### COMPOSITION OF PARLIAMENT
 
 ###### ESTABLISHMENT
 
-- Establishment of Parliament.
+- 39. Establishment of Parliament.
 
-###### THE  SENATE
+###### THE SENATE
 
-- Composition of Senate.
+- 40. Composition of Senate.
 
-- Qualifications for appointment as Senator.
+- 41. Qualifications for appointment as Senator.
 
-- Disqualifications for appointment as Senator.
+- 42. Disqualifications for appointment as Senator.
 
-- Tenure of office of Senators.
+- 43. Tenure of office of Senators.
 
-- Appointment of temporary Senators.
+- 44. Appointment of temporary Senators.
 
-- President and Vice-President of the Senate.
+- 45. President and Vice-President of the Senate.
 
-###### THE  HOUSE  OF  REPRESENTATIVES
+###### THE HOUSE OF REPRESENTATIVES
 
-- Composition of House of Representatives.
+- 46. Composition of House of Representatives.
 
-- Qualifications for election as member.
+- 47. Qualifications for election as member.
 
-- Disqualifications for election as member.
+- 48. Disqualifications for election as member.
 
-- Tenure of office of members.
+- 49. Tenure of office of members.
 
-- 49A.   Vacation of seat where member resigns or is expelled.
+- 49A. Vacation of seat where member resigns or is expelled.
 
-- Speaker and Deputy Speaker.
+- 50. Speaker and Deputy Speaker.
 
-- Qualifications of voters.
+- 51. Qualifications of voters.
 
 ###### GENERAL
 
-- Determination of questions as to membership.
+- 52. Determination of questions as to membership.
 
-#### PART  II
+#### PART II
 
-##### POWERS,  PRIVILEGES  AND  PROCEDURE OF  PARLIAMENT
+##### POWERS, PRIVILEGES AND PROCEDURE OF PARLIAMENT
 
-- Power to make laws.
+- 53. Power to make laws.
 
-- Alteration of this Constitution.
+- 54. Alteration of this Constitution.
 
-- Privileges and immunities of Parliament.
+- 55. Privileges and immunities of Parliament.
 
 L.R.O. 1/2009
 
@@ -844,6 +838,66 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
+ARRANGEMENT OF SECTIONS—Continued
+
+SECTION
+
+- 56. Regulation of procedure in each House.
+
+- 57. Oath of allegiance.
+
+- 58. Presiding in Senate and House of Representatives.
+
+- 59. Voting.
+
+- 60. Quorum.
+
+- 61. Mode of exercising legislative power.
+
+- 62. Attendance of Ministers in either House.
+
+- 63. Introduction of Bills, etc.
+
+- 64. Restrictions on powers of Senate as to Money Bills.
+
+- 65. Restrictions on powers of Senate as to Bills other than Money Bills.
+
+- 66. Provisions relating to sections 63, 64 and 65.
+
+- 66A. Appointment of certain Select or Joint Select Committees.
+
+- 66B. Reports of Service Commissions.
+
+- 66C. Applicability of the Judicial and Legal Service Commission.
+
+- 66D. Report of Government Ministries, etc.
+
+#### PART III
+
+##### SUMMONING, PROROGATION AND DISSOLUTION
+
+- 67. Sessions of Parliament.
+
+- 68. Prorogation and dissolution of Parliament.
+
+- 69. General Elections and appointment of Senators.
+
+#### PART IV
+
+##### ELECTIONS AND BOUNDARIES COMMISSION
+
+- 70. Constituencies.
+
+- 71. Elections and Boundaries Commission.
+
+- 72. Procedure for review of constituency boundaries.
+
+#### PART V
+
+##### SYSTEM OF BALLOTING
+
+- 73. System of balloting.
+
 [[END OF PAGE 21]]
 
 [[START OF PAGE 22]]
@@ -856,63 +910,63 @@ The Constitution
 
 SECTION
 
-## CHAPTER  5
+## CHAPTER 5
 
-### EXECUTIVE  POWERS
+### EXECUTIVE POWERS
 
-- Executive authority of Trinidad and Tobago.
+- 74. Executive authority of Trinidad and Tobago.
 
-- The Cabinet.
+- 75. The Cabinet.
 
-- Appointment of Ministers.
+- 76. Appointment of Ministers.
 
-- Tenure of office of Ministers.
+- 77. Tenure of office of Ministers.
 
-- Performance of functions of Prime Minister during absence, illness or suspension.
+- 78. Performance of functions of Prime Minister during absence, illness or suspension.
 
-- Allocation of portfolios to Ministers.
+- 79. Allocation of portfolios to Ministers.
 
-- Exercise of President's functions.
+- 80. Exercise of President’s functions.
 
-- President to be informed concerning matters of Government.
+- 81. President to be informed concerning matters of Government.
 
-- Parliamentary Secretaries.
+- 82. Parliamentary Secretaries.
 
-- Leader of the Opposition.
+- 83. Leader of the Opposition.
 
-- Oaths to be taken by Ministers, etc.
+- 84. Oaths to be taken by Ministers, etc.
 
-- Permanent Secretaries.
+- 85. Permanent Secretaries.
 
-- Constitution of offices, etc.
+- 86. Constitution of offices, etc.
 
-- Powers of pardon, etc.
+- 87. Powers of pardon, etc.
 
-- Advisory Committee on Power of Pardon.
+- 88. Advisory Committee on Power of Pardon.
 
-- Functions of Advisory Committee.
+- 89. Functions of Advisory Committee.
 
-## CHAPTER  6
+## CHAPTER 6
 
-### THE  DIRECTOR  OF  PUBLIC  PROSECUTIONS AND  THE  OMBUDSMAN
+### THE DIRECTOR OF PUBLIC PROSECUTIONS AND THE OMBUDSMAN
 
-#### PART  I
+#### PART I
 
-##### DIRECTOR  OF  PUBLIC  PROSECUTIONS
+##### DIRECTOR OF PUBLIC PROSECUTIONS
 
-- Appointment, tenure and functions.
+- 90. Appointment, tenure and functions.
 
-#### PART  II
+#### PART II
 
 ##### OMBUDSMAN
 
-- Appointment and conditions of office.
+- 91. Appointment and conditions of office.
 
-- Appointment of staff of Ombudsman.
+- 92. Appointment of staff of Ombudsman.
 
-- Functions of Ombudsman.
+- 93. Functions of Ombudsman.
 
-- Restrictions on matters for investigation.
+- 94. Restrictions on matters for investigation.
 
 L.R.O. 1/2009
 
@@ -924,65 +978,65 @@ L.R.O. 1/2009
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-SECTION
-
-- Discretion of Ombudsman.
-
-- Report on investigation.
-
-- Power to obtain evidence.
-
-- Prescribed matters concerning Ombudsman.
-
-## CHAPTER  7
-
-### THE  JUDICATURE
-
-#### PART  I
-
-##### THE  SUPREME  COURT
-
-- Establishment of Supreme Court.
-
-- Constitution of High Court.
-
-###### THE  COURT  OF  APPEAL
-
-- Constitution of Court of Appeal.
-
-- Appointment of Chief Justice.
-
-- Acting appointments as Chief Justice.
-
-###### APPOINTMENT  OF  JUDGES
-
-- Appointment of Justices of Appeal and Puisne Judges.
-
-- Qualifications of Judges.
-
-- Tenure of office.
-
-- Oaths to be taken by Judges.
-
-- Appeals on Constitutional questions and fundamental rights, etc.
-
-#### PART  II
-
-##### APPEALS  TO  THE  JUDICIAL  COMMITTEE
-
-- Appeals from Court of Appeal to the Judicial Committee.
-
-#### PART  III
-
-##### JUDICIAL  AND  LEGAL  SERVICE  COMMISSION
-
-- Judicial and Legal Service Commission.
-
-- Appointment of judicial officers, etc.
-
 The Constitution
 
-ARRANGEMENT  OF  SECTIONSContinued
+ARRANGEMENT OF SECTIONS—Continued
+
+SECTION
+
+- 95. Discretion of Ombudsman.
+
+- 96. Report on investigation.
+
+- 97. Power to obtain evidence.
+
+- 98. Prescribed matters concerning Ombudsman.
+
+## CHAPTER 7
+
+### THE JUDICATURE
+
+#### PART I
+
+##### THE SUPREME COURT
+
+- 99. Establishment of Supreme Court.
+
+- 100. Constitution of High Court.
+
+###### THE COURT OF APPEAL
+
+- 101. Constitution of Court of Appeal.
+
+- 102. Appointment of Chief Justice.
+
+- 103. Acting appointments as Chief Justice.
+
+###### APPOINTMENT OF JUDGES
+
+- 104. Appointment of Justices of Appeal and Puisne Judges.
+
+- 105. Qualifications of Judges.
+
+- 106. Tenure of office.
+
+- 107. Oaths to be taken by Judges.
+
+- 108. Appeals on Constitutional questions and fundamental rights, etc.
+
+#### PART II
+
+##### APPEALS TO THE JUDICIAL COMMITTEE
+
+- 109. Appeals from Court of Appeal to the Judicial Committee.
+
+#### PART III
+
+##### JUDICIAL AND LEGAL SERVICE COMMISSION
+
+- 110. Judicial and Legal Service Commission.
+
+- 111. Appointment of judicial officers, etc.
 
 [[END OF PAGE 23]]
 
@@ -996,63 +1050,63 @@ The Constitution
 
 SECTION
 
-## CHAPTER  8
+## CHAPTER 8
 
 ### FINANCE
 
-- Establishment of Consolidated Fund.
+- 112. Establishment of Consolidated Fund.
 
-- Authorisation of expenditure from Consolidated Fund.
+- 113. Authorisation of expenditure from Consolidated Fund.
 
-- Authorisation of expenditure in advance of appropriation.
+- 114. Authorisation of expenditure in advance of appropriation.
 
-- Contingencies Fund.
+- 115. Contingencies Fund.
 
-- Establishment of office and functions of Auditor General.
+- 116. Establishment of office and functions of Auditor General.
 
-- Appointment of Auditor General and Staff.
+- 117. Appointment of Auditor General and Staff.
 
-- Public debt.
+- 118. Public debt.
 
-- Public Accounts Committees.
+- 119. Public Accounts Committees.
 
-## CHAPTER  9
+## CHAPTER 9
 
-### APPOINTMENTS  TO,  AND  TENURE  OF,  OFFICES
+### APPOINTMENTS TO, AND TENURE OF, OFFICES
 
-#### PART  I
+#### PART I
 
-##### SERVICE  COMMISSIONS,  ETC.
+##### SERVICE COMMISSIONS, ETC.
 
-###### PUBLIC  SERVICE  COMMISSION
+###### PUBLIC SERVICE COMMISSION
 
-- Public Service Commission.
+- 120. Public Service Commission.
 
-- Appointments, etc. of Public Officers.
+- 121. Appointments, etc. of Public Officers.
 
-###### POLICE  SERVICE  COMMISSION
+###### POLICE SERVICE COMMISSION
 
-- Police Service Commission.
+- 122. Police Service Commission.
 
-- 122A.   Removal of members.
+- 122A. Removal of members.
 
-- Powers of the Police Service Commission.
+- 123. Powers of the Police Service Commission.
 
-- 123A.   Powers of the Commissioner of Police.
+- 123A. Powers of the Commissioner of Police.
 
-- 123B.   Transitional and savings.
+- 123B. Transitional and savings.
 
-###### TEACHING  SERVICE  COMMISSION
+###### TEACHING SERVICE COMMISSION
 
-- Teaching Service Commission.
+- 124. Teaching Service Commission.
 
-- Appointment of Teachers.
+- 125. Appointment of Teachers.
 
-###### GENERAL  PROVISIONS  ON  SERVICE  COMMISSIONS
+###### GENERAL PROVISIONS ON SERVICE COMMISSIONS
 
-- Qualifications, tenure of office, etc.
+- 126. Qualifications, tenure of office, etc.
 
-- Delegation of functions.
+- 127. Delegation of functions.
 
 L.R.O. 1/2009
 
@@ -1065,6 +1119,60 @@ L.R.O. 1/2009
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
+
+ARRANGEMENT OF SECTIONS—Continued
+
+SECTION
+
+- 128. Consultation with other Service Commissions.
+
+- 129. Powers and procedure of Service Commissions and protection from legal proceedings.
+
+#### PART II
+
+##### PUBLIC SERVICE APPEAL BOARD
+
+- 130. Constitution of Appeal Board.
+
+- 131. Tenure of office, etc.
+
+- 132. Appeals in disciplinary cases.
+
+##### PENSIONS
+
+- 133. Protection of pension rights.
+
+- 134. Powers of Commissions in relation to grant of pensions, etc.
+
+##### SPECIAL OFFICES
+
+- 135. Appointments of principal representatives of Trinidad and Tobago.
+
+- 136. Tenure of special offices.
+
+- 137. Removal from office of Judge.
+
+## CHAPTER 10
+
+### THE INTEGRITY COMMISSION
+
+- 138. The Integrity Commission.
+
+- 139. Power to make laws relating to Commission.
+
+## CHAPTER 11
+
+### THE SALARIES REVIEW COMMISSION
+
+- 140. Constitution of Commission.
+
+- 141. Functions of Commission.
+
+## CHAPTER 11A
+
+### THE TOBAGO HOUSE OF ASSEMBLY
+
+- 141A. Tobago House of Assembly.
 
 [[END OF PAGE 25]]
 
@@ -1088,15 +1196,15 @@ SECTION
 
 ### MISCELLANEOUS  AND  GENERAL
 
-- Resignations.
+- 142. Resignations.
 
-- Reappointments, etc.
+- 143. Reappointments, etc.
 
-FIRST  SCHEDULEForms of Oath (or Affirmation) of Office and of Secrecy.
+FIRST SCHEDULE—Forms of Oath (or Affirmation) of Office and of Secrecy.
 
-SECOND  SCHEDULEBoundaries of Constituencies.
+SECOND SCHEDULE—Boundaries of Constituencies.
 
-THIRD  SCHEDULEMatters not subject to investigation.
+THIRD SCHEDULE—Matters not subject to investigation.
 
 L.R.O. 1/2009
 
@@ -1118,23 +1226,17 @@ Commencement. 116/1976.
 
 [1ST AUGUST 1976]
 
-Whereas the People of Trinidad and Tobago-
+Whereas the People of Trinidad and Tobago—
 
-(a) have  affirmed  that  the  Nation  of  Trinidad  and Tobago is founded upon principles that acknowledge  the  supremacy  of  God,  faith  in fundamental  human  rights  and  freedoms,  the position of the family in a society of free men and free  institutions,  the  dignity  of  the  human person and the equal and inalienable rights with which  all  members  of  the  human  family  are endowed by their Creator;
+(a) have affirmed that the Nation of Trinidad and Tobago is founded upon principles that acknowledge the supremacy of God, faith in fundamental human rights and freedoms, the position of the family in a society of free men and free institutions, the dignity of the human person and the equal and inalienable rights with which all members of the human family are endowed by their Creator;
 
-(b)
+(b) respect the principles of social justice and therefore believe that the operation of the economic system should result in the material resources of the community being so distributed as to subserve the common good, that there should be adequate means of livelihood for all, that labour should not be exploited or forced by economic necessity to operate in inhumane conditions but that there should be opportunity for advancement on the basis of recognition of merit, ability and integrity;
 
-- respect  the  principles  of  social  justice  and therefore  believe  that  the  operation  of  the economic  system  should  result  in  the  material resources of the community being so distributed as  to  subserve  the  common  good,  that  there should be adequate means of livelihood for all, that labour should not be exploited or forced by economic  necessity  to  operate  in  inhumane conditions but that there should be opportunity for advancement on the basis of recognition of merit, ability and integrity;
+(c) have asserted their belief in a democratic society in which all persons may, to the extent of their capacity, play some part in the institutions of the national life and thus develop and maintain due respect for lawfully constituted authority;
 
-(c)
+(d) recognise that men and institutions remain free only when freedom is founded upon respect for moral and spiritual values and the rule of law;
 
-(d)
-
-- have asserted their belief in a democratic society in which all persons may, to the extent of their capacity, play some part in the institutions of the national life and thus develop and maintain due respect for lawfully constituted authority;
-
-- recognise that men and institutions remain free only when freedom is founded upon respect for moral and spiritual values and the rule of law;
-
-(e) desire that their Constitution should enshrine the above-mentioned  principles  and  beliefs  and make  provision  for  ensuring  the  protection  in
+(e) desire that their Constitution should enshrine the above-mentioned principles and beliefs and make provision for ensuring the protection in
 
 [[END OF PAGE 27]]
 
@@ -1242,7 +1344,7 @@ comes into force or after the prorogation or dissolution of Parliament at any ti
 
 'the  former  Constitution'  means  the  Trinidad  and  Tobago Constitution set out in the Second Schedule to the Trinidad and Tobago (Constitution) Order in Council 1962.
 
-- In this Constitution-
+(2) In this Constitution—
 
 (a) a reference to an appointment to any office shall be  construed  as  including  a  reference  to  the appointment of a person to act in or perform the functions  of  that  office  at  any  time  when  the office is vacant or the holder thereof is unable (whether  by  reason  of  absence  or  infirmity  of mind or body or any other cause) to perform the functions of that office; and
 
@@ -1448,7 +1550,7 @@ Emergency powers.
 
 ##### EXCEPTIONS  FOR  EXISTING  LAW
 
-(1)  Nothing in sections 4 and 5 shall invalidate-
+6. (1) Nothing in sections 4 and 5 shall invalidate—
 
 (a) an existing law;
 
@@ -1460,9 +1562,9 @@ Emergency powers.
 
 - an enactment that alters an existing law but does not derogate from any fundamental right guaranteed by this Chapter in a manner in which or to an extent to which the existing law did not previously derogate from that right.
 
-- Where  an  enactment  repeals  and  re-enacts  with modifications an existing law and is held to derogate from any fundamental  right  guaranteed  by  this  Chapter  in  a  manner  in which or to an extent to which the existing law did not previously derogate from that right then, subject to sections 13 and 54, the provisions of the existing law shall be substituted for such of the provisions  of  the  enactment  as  are  held  to  derogate  from  the fundamental right in a manner in which or to an extent to which the existing law did not previously derogate from that right.
+(2) Where an enactment repeals and re-enacts with modifications an existing law and is held to derogate from any fundamental right guaranteed by this Chapter in a manner in which or to an extent to which the existing law did not previously derogate from that right then, subject to sections 13 and 54, the provisions of the existing law shall be substituted for such of the provisions of the enactment as are held to derogate from the fundamental right in a manner in which or to an extent to which the existing law did not previously derogate from that right.
 
-- In this section-
+(3) In this section—
 
 'alters' in relation to an existing law, includes repealing that law and  re-enacting  it  with  modifications  or  making  different provisions in place of it or modifying it;
 
@@ -1474,7 +1576,7 @@ Emergency powers.
 
 ##### EXCEPTIONS  FOR  EMERGENCIES
 
-(1)  Without prejudice to the power of Parliament to make provision  in  the  premise,  but  subject  to  this  section,  where  any period of public emergency exists, the President may, due regard
+7. (1) Without prejudice to the power of Parliament to make provision in the premise, but subject to this section, where any period of public emergency exists, the President may, due regard
 
 [[END OF PAGE 35]]
 
@@ -1604,7 +1706,7 @@ The Constitution
 
 14. (1)  For the removal of doubts it is hereby declared that if any person alleges that any of the provisions of this Chapter has been, is being, or is likely to be contravened in relation to him, then  without  prejudice  to  any  other  action  with  respect  to  the same matter which is lawfully available, that person may apply to the High Court for redress by way of originating motion.
 
-- The High Court shall have original jurisdiction-
+(2) The High Court shall have original jurisdiction—
 
 (a)
 
@@ -1618,7 +1720,7 @@ and may, subject to subsection (3), make such orders, issue such writs and give 
 
 (3)  The  State  Liability  and Proceedings Act shall have effect for the purpose of any proceedings under this section.
 
-(4)  Where  in  any  proceedings  in  any  Court  other  than the High Court or the Court of Appeal any question arises as to the  contravention  of  any  of  the  provisions  of  this  Chapter  the person presiding in that Court may, and shall if any party to the proceedings  so  requests,  refer  the  question  to  the  High  Court The Constitution unless  in  his  opinion  the  raising  of  the  question  is  merely frivolous or vexatious.
+(4) Where in any proceedings in any Court other than the High Court or the Court of Appeal any question arises as to the contravention of any of the provisions of this Chapter the person presiding in that Court may, and shall if any party to the proceedings so requests, refer the question to the High Court
 
 [[END OF PAGE 39]]
 
@@ -1628,7 +1730,11 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 40
 
-(5)   Any person aggrieved by any determination of the High Court under this section may appeal therefrom to the Court of Appeal and shall be entitled as of right to a stay of execution of the order and may in the discretion of the Court be granted bail.
+The Constitution
+
+unless in his opinion the raising of the question is merely frivolous or vexatious.
+
+(5) Any person aggrieved by any determination of the High Court under this section may appeal therefrom to the Court of Appeal and shall be entitled as of right to a stay of execution of the order and may in the discretion of the Court be granted bail.
 
 (6)  Nothing  in  this  section  shall  limit  the  power  of Parliament to confer on the High Court or the Court of Appeal such powers as Parliament may think fit in relation to the exercise by the High Court or the Court of Appeal, as the case may be, of its jurisdiction in respect of the matters arising under this Chapter.
 
@@ -1670,11 +1776,9 @@ Commonwealth citizens.
 
 VI c. 56.
 
-(b)
+immunity from suit and legal process as is accorded to an envoy of a foreign sovereign power accredited to Trinidad and Tobago; or
 
-immunity  from  suit  and  legal  process  as  is accorded  to  an  envoy  of  a  foreign  sovereign power accredited to Trinidad and Tobago; or
-
-- either of his parents is an enemy alien and the birth occurred in a place then under occupation by the enemy.
+(b) either of his parents is an enemy alien and the birth occurred in a place then under occupation by the enemy.
 
 (3)  A person born outside Trinidad and Tobago after the commencement  of  this  Constitution  shall  become  a  citizen  of Trinidad and Tobago at the date of his birth if at that date either of his parents is, or was, but for his parent's death, a citizen of Trinidad and Tobago otherwise than by descent, so however that, in  the  case  of  a  person  employed  in  service  under  the Government  or  under  an  authority  of  the  Government  that requires him to reside outside Trinidad and Tobago for the proper discharge of his functions, this subsection shall be read as if the words 'otherwise than by descent' were deleted.
 
@@ -1854,7 +1958,7 @@ The Constitution
 
 (2)  Where the President of the Senate is for any reason unable to act as President under subsection (1) or section 36(2), the functions of President shall be performed by the Speaker.
 
-(3)  Where  the  Speaker  is  for  any  reason  unable  to perform the functions of President under subsection (2), the VicePresident  of  the  Senate  shall  perform  those  functions,  so, however, that a meeting of the Electoral College shall be held, upon the summons of the Deputy Speaker giving at least fortyeight  hours  notice  thereof,  within  seven  days  of  the  VicePresident of the Senate commencing to perform the functions of President for the purpose of holding an election of a person to fill the vacancy in the office of President under section 26(5), or of a person to act temporarily as President during such period as the President is incapable of performing his functions.
+(3) Where the Speaker is for any reason unable to perform the functions of President under subsection (2), the Vice-President of the Senate shall perform those functions, so, however, that a meeting of the Electoral College shall be held, upon the summons of the Deputy Speaker giving at least forty-eight hours notice thereof, within seven days of the Vice-President of the Senate commencing to perform the functions of President for the purpose of holding an election of a person to fill the vacancy in the office of President under section 26(5), or of a person to act temporarily as President during such period as the President is incapable of performing his functions.
 
 (4)  Upon his election to fill the vacancy in the office of President under section 26(5) or to act temporarily as President during such period as the President is incapable of performing his functions  in  accordance  with  subsection  (3),  the  person  shall immediately assume office.
 
@@ -1874,13 +1978,11 @@ L.R.O. 1/2009
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-Mode of
-
-- elections.
+Mode of elections.
 
 Nomination of candidates.
 
-- Procedure for balloting.
+Procedure for balloting.
 
 Determination of questions as to elections.
 
@@ -1910,7 +2012,7 @@ The Constitution
 
 (2)  Where the votes cast for two or more candidates are equally divided the Speaker shall have and exercise a casting vote.
 
-(1)  Subject to subsection (2), an instrument which-
+32. (1) Subject to subsection (2), an instrument which—
 
 (a)
 
@@ -1936,11 +2038,13 @@ shall  be  conclusive  evidence  that  the  person  so  named  was  so elected, 
 
 (3) Parliament  may  make  provisions  with  respect  to the persons by whom, the manner in which and the conditions upon  which  the  proceedings  under  subsection  (2) may  be instituted in the Court of Appeal and subject to any provisions so made, provisions may be made with respect to these matters by Rules  of  Court.  Until  such  provisions  or  rules  are  made  the procedure for moving the Court of Appeal shall be by way of a representation petition.
 
-33. (1)  Subject to this section and to sections 34 and 36, a President elected at an election under section 26(3) or (4) shall hold office for a term of five years.
+Term of office.
+
+33. (1) Subject to this section and to sections 34 and 36, a President elected at an election under section 26(3) or (4) shall hold office for a term of five years.
 
 (2) Parliament may make provision for the postponement of the date of expiration of the term of office of the President under subsection (1), for a period not exceeding four months, in order to avoid the holding of an election for that office during a period of dissolution of Parliament or at a time too close to the beginning or to the end of such a period.
 
-(3) Where for any reason at the date on which the term of office of the President is due to expire under subsection (1) or (2) there is no person entitled by election under section 26(4) to fill the office of President upon its expiration, the current term of Term of office.
+(3) Where for any reason at the date on which the term of office of the President is due to expire under subsection (1) or (2) there is no person entitled by election under section 26(4) to fill the office of President upon its expiration, the current term of
 
 L.R.O. 1/2009
 
@@ -1954,43 +2058,37 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
+that office shall continue until thirty days after a person is elected to the office of President whereupon the current term of that office shall expire.
+
+(4) Where a person is elected to fill a vacancy in the office of President in an election under section 26(5), he shall hold office only for the unexpired portion of the term of office of his predecessor.
+
 Vacation of office.
 
-Procedure for removal from office.
+34. The office of President shall become vacant before the expiration of the term of his office as prescribed by section 33 where—
 
-that office shall continue until thirty days after a person is elected to  the  office  of  President  whereupon  the  current  term  of  that office shall expire.
-
-- Where  a  person  is  elected  to  fill  a  vacancy  in  the office  of  President  in  an  election  under  section  26(5),  he  shall hold office only for the unexpired portion of the term of office of his predecessor.
-
-- The office of President shall become vacant before the expiration of the term of his office as prescribed by section 33 where-
-
-(a)
-
-- the person holding that office dies or resigns the office by writing signed by him addressed to the House of Representatives  and  delivered  to  the Speaker; or
+(a) the person holding that office dies or resigns the office by writing signed by him addressed to the House of Representatives and delivered to the Speaker; or
 
 (b) he is removed from office under section 36.
 
-Removal from office. 35. The  President  may  be  removed  from  office  under section 36 where-
+Removal from office.
 
-(a)
+35. The President may be removed from office under section 36 where—
 
-- he wilfully violates any  provision of the Constitution;
+(a) he wilfully violates any provision of the Constitution;
 
 (b) he behaves in such a way as to bring his office into hatred, ridicule or contempt;
 
-(c)
-
-- he behaves in a way that endangers the security of the State; or
+(c) he behaves in a way that endangers the security of the State; or
 
 (d) because of physical or mental incapacity, he is unable to perform the functions of his office.
 
-(1)  The President shall be removed from office where-
+Procedure for removal from office.
 
-(a)
+36. (1) The President shall be removed from office where—
 
-- a motion that his removal from office should be investigated  by  a  tribunal  is  proposed  in  the House of Representatives;
+(a) a motion that his removal from office should be investigated by a tribunal is proposed in the House of Representatives;
 
-(b) the motion states with full particulars the grounds on  which  his  removal  from  office  is  proposed, and  is  signed  by  not  less  than  one-third  of  the total membership of the House of Representatives;
+(b) the motion states with full particulars the grounds on which his removal from office is proposed, and is signed by not less than one-third of the total membership of the House of Representatives;
 
 [[END OF PAGE 49]]
 
@@ -2012,19 +2110,23 @@ The Constitution
 
 (e) the  Senate  and  the  House  of  Representatives assembled  together  on  the  summons  of  the Speaker  consider  the  report  and  by  resolution supported by the votes of not less than two-thirds of  the  total  membership  of  the  Senate  and  the House  of  Representatives  assembled  together declare that he shall be removed from office.
 
-(2)  Where  a  motion  is  adopted  as  is  provided  for  in subsection (1) (a) , (b) and (c) the President shall cease to perform any of his functions as President and the President of the Senate shall act temporarily as President.
+(2) Where a motion is adopted as is provided for in subsection (1)(a), (b) and (c) the President shall cease to perform any of his functions as President and the President of the Senate shall act temporarily as President.
 
 (3)  The  procedure  of  the  tribunal  shall  be  such  as  is prescribed,  but,  subject  to  such  procedure,  the  tribunal  may regulate its own procedure.
 
-(4)  Upon  the  adoption  of  the  resolution  in  accordance with subsection (1) (e) the office shall become vacant.
+(4) Upon the adoption of the resolution in accordance with subsection (1)(e) the office shall become vacant.
 
-Oath. First Schedule. 37. (1)  A President shall, before entering upon the duties of his  office,  take  and  subscribe  the  oath  of  office  set  out  in  the First Schedule, such oath being administered by the Chief Justice or such other Judge as may be designated by the Chief Justice.
+Oath.
 
-(2)  Subsection  (1)  shall  apply  to  any  person  required under this Constitution to perform the functions of the office of President as it applies to a person elected as such.
+First Schedule.
 
-38. (1)  Subject  to  section  36,  the  President  shall  not  be answerable  to  any  Court  for  the  performance  of  the  functions of his office or for any act done by him in the performance of those functions.
+37. (1) A President shall, before entering upon the duties of his office, take and subscribe the oath of office set out in the First Schedule, such oath being administered by the Chief Justice or such other Judge as may be designated by the Chief Justice.
+
+(2) Subsection (1) shall apply to any person required under this Constitution to perform the functions of the office of President as it applies to a person elected as such.
 
 Immunities of President.
+
+38. (1) Subject to section 36, the President shall not be answerable to any Court for the performance of the functions of his office or for any act done by him in the performance of those functions.
 
 L.R.O. 1/2009
 
@@ -2048,7 +2150,7 @@ The Constitution
 
 (4)  The condition referred to in subsection (3) is that two months must elapse after a notice in writing has been served on him either by registered post or by being left at his office stating the  nature  of  the  proceedings,  the  cause  of  action,  the  name, description  and  address  of  the  party  instituting  the  proceedings and the relief claimed.
 
-(5)  A period of limitation prescribed by law shall not run in favour of the President in respect of a civil action during the period of two months after a notice in respect of that action has been served on him under subsection (4). -
+(5) A period of limitation prescribed by law shall not run in favour of the President in respect of a civil action during the period of two months after a notice in respect of that action has been served on him under subsection (4).
 
 ## CHAPTER  4
 
@@ -2076,7 +2178,7 @@ The Constitution
 
 52
 
-- Of the thirty-one Senators-
+(2) Of the thirty-one Senators—
 
 (a) sixteen  shall  be  appointed  by  the  President acting  in  accordance  with  the  advice  of  the Prime Minister;
 
@@ -2098,9 +2200,9 @@ The Constitution
 
 (c) is an undischarged  bankrupt  having  been adjudged or otherwise declared bankrupt under any law in force in Trinidad and Tobago;
 
-(d)
+Ch. 28:02.
 
-- Ch. 28:02. is mentally ill, within the meaning of the Mental Health Act;
+(d) is mentally ill, within the meaning of the Mental Health Act;
 
 (e) is under sentence of death imposed on him by a Court or is serving a sentence of imprisonment, by  whatever  name  called,  exceeding  twelve months imposed on him by a Court or substituted  by  competent  authority  for  some other sentence imposed on him by a Court, or is under  such  a  sentence  of  imprisonment  the execution of which has been suspended;
 
@@ -2142,7 +2244,7 @@ The Constitution
 
 - his belonging to any police force or to any class of person that is comprised in any such force.
 
-- For the purposes of subsection (1) (e) -
+(3) For the purposes of subsection (1)(e)—
 
 (a)
 
@@ -2218,7 +2320,7 @@ The Constitution
 
 the President may appoint a person qualified for appointment as a Senator to be temporarily a member of the Senate during such vacation of office, suspension, absence or illness.
 
-(2)  Where  the  President  of  the  Senate  or  the  VicePresident of the Senate is acting as, or temporarily performing the functions of, President in accordance with section 27 then, without prejudice  to  the  power  of  the  Prime  Minister,  the  Leader  of  the Opposition, or the President, as the case may be, with respect to appointments under section 40(2), the person holding the office of President of the Senate or Vice-President of the Senate shall vacate that  office  temporarily  during  such  period  as  he  is  acting  as,  or temporarily performing the functions of, President.
+(2) Where the President of the Senate or the Vice-President of the Senate is acting as, or temporarily performing the functions of, President in accordance with section 27 then, without prejudice to the power of the Prime Minister, the Leader of the Opposition, or the President, as the case may be, with respect to appointments under section 40(2), the person holding the office of President of the Senate or Vice-President of the Senate shall vacate that office temporarily during such period as he is acting as, or temporarily performing the functions of, President.
 
 (3)  Section  43(1)  and  (2)  shall  apply  in  relation  to  a person appointed under this section as they apply in relation to a Senator, except that paragraph (d) of the said subsection (2) shall apply as if it were not expressed to be subject to subsection (3) of the said section 43, and an appointment made under this section
 
@@ -2240,13 +2342,9 @@ shall in any case cease to have effect if the person appointed is notified by th
 
 - in  accordance  with  the  advice  of  the  Prime Minister  in  relation  to  a  Senator  appointed  in pursuance of section 40(2) (a) ;
 
-(b)
+(b) in accordance with the advice of the Leader of the Opposition in relation to a Senator appointed in pursuance of section 40(2)(b); and
 
-(c)
-
-- in accordance with the advice of the Leader of the Opposition in relation to a Senator appointed in pursuance of section 40(2) (b) ; and
-
-- in accordance with his own judgment in relation to  a  Senator  appointed  by  him  pursuant  to section 40(2) (c) .
+(c) in accordance with his own judgment in relation to a Senator appointed by him pursuant to section 40(2)(c).
 
 45. (1)  When  the  Senate  first  meets  after  any  general election  and  before  it  proceeds  to  the  despatch  of  any  other business, it shall elect a Senator to be President of the Senate; and, if the office of President of the Senate falls vacant at any time before the next dissolution of Parliament, the Senate shall, as soon as practicable, elect another Senator to that office.
 
@@ -2292,7 +2390,7 @@ by reason only that he has ceased to be a Senator on  a  dissolution  of  Parlia
 
 - in the case of the Vice-President of the Senate, by  such  Senator,  not  being  a  Minister  or Parliamentary Secretary, as the Senate may elect for the purpose.
 
-(6)  Where the President of the Senate or Vice-President of the Senate resumes the performance of his functions as a Senator in accordance with the provisions of section 43(6), he shall also The Constitution resume the performance of his functions as President of the Senate or Vice-President of the Senate, as the case may be.
+(6) Where the President of the Senate or Vice-President of the Senate resumes the performance of his functions as a Senator in accordance with the provisions of section 43(6), he shall also
 
 [[END OF PAGE 57]]
 
@@ -2301,6 +2399,10 @@ by reason only that he has ceased to be a Senator on  a  dissolution  of  Parlia
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 58
+
+The Constitution
+
+resume the performance of his functions as President of the Senate or Vice-President of the Senate, as the case may be.
 
 ###### THE  HOUSE  OF  REPRESENTATIVES
 
@@ -2344,11 +2446,27 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
-Ch. 28:02. | (c) is mentally ill, within the meaning of the Mental Health Act; (d) is under sentence of death imposed on him by a Court or is serving a sentence of imprisonment (by whatever name called) exceeding twelve months imposed on him by a Court or substituted by competent authority for some other sentence imposed on him by a Court, or is under such a sentence of imprisonment the execution of which has been suspended; (e) is disqualified for membership of the House of Representatives by any law in force in Trinidad and Tobago by reason of his holding, or acting in, any office the functions of which involve- (i) any responsibility for, or in connection with, the conduct of any election; or (ii) any responsibility for the compilation or revision of any electoral register; (f) is disqualified for membership of the House of Representatives by virtue of any law in force in Trinidad and Tobago by reason of his having been convicted of any offence relating to elections; or (g) is not qualified to be registered as an elector at a Parliamentary election under any law in force in Trinidad and Tobago. Parliament may provide that, subject to such
---- | ---
-(a) his holding or acting in any office or appointment (either individually or by reference to a class of office or appointment);
-(b) his belonging to any of the armed forces of the State or to any class of person that is comprised in any such force; or
+Ch. 28:02.
 
+(c) is mentally ill, within the meaning of the Mental Health Act;
+
+(d) is under sentence of death imposed on him by a Court or is serving a sentence of imprisonment (by whatever name called) exceeding twelve months imposed on him by a Court or substituted by competent authority for some other sentence imposed on him by a Court, or is under such a sentence of imprisonment the execution of which has been suspended;
+
+(e) is disqualified for membership of the House of Representatives by any law in force in Trinidad and Tobago by reason of his holding, or acting in, any office the functions of which involve—
+
+(i) any responsibility for, or in connection with, the conduct of any election; or
+
+(ii) any responsibility for the compilation or revision of any electoral register;
+
+(f) is disqualified for membership of the House of Representatives by virtue of any law in force in Trinidad and Tobago by reason of his having been convicted of any offence relating to elections; or
+
+(g) is not qualified to be registered as an elector at a Parliamentary election under any law in force in Trinidad and Tobago.
+
+(2) Parliament may provide that, subject to such exceptions and limitations, if any, as may be prescribed, a person may be disqualified for membership of the House of Representatives by virtue of—
+
+(a) his holding or acting in any office or appointment (either individually or by reference to a class of office or appointment);
+
+(b) his belonging to any of the armed forces of the State or to any class of person that is comprised in any such force; or
 [[END OF PAGE 59]]
 
 [[START OF PAGE 60]]
@@ -2363,7 +2481,7 @@ The Constitution
 
 - his belonging to any police force or to any class of person that is comprised in any such force.
 
-- For the purposes of paragraph (d) of subsection (1)-
+(3) For the purposes of paragraph (d) of subsection (1)—
 
 (a)
 
@@ -2431,15 +2549,18 @@ The Constitution
 
 (4)  From the date of the declaration by the Speaker under subsection (1) the member shall cease to perform his functions as a member of the House of Representatives and he shall resume the performance  of  such  functions  only  if  and  when  the  legal proceedings referred to in subsection (3) are finally determined within the meaning of that subsection in favour of such member.
 
-(5)  Standing  Orders  shall  make  provision  for  the identification  and  recognition  of  the  leader  in  the  House  of Representatives of every party and for otherwise giving effect to this section.
+(5) Standing Orders shall make provision for the identification and recognition of the leader in the House of Representatives of every party and for otherwise giving effect to this section.
 
-50. (1)  When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other  business,  it  shall  elect  a  person  to  be  the  Speaker  of  the House; and if the office of Speaker falls vacant at any time before the  next  dissolution  of  Parliament,  the  House  shall,  as  soon  as practicable, elect another person to that office.
+Speaker and Deputy Speaker.
+[17 of 1995].
 
-(2)  The Speaker may be elected either from among the members of the House of Representatives who are not Ministers or Parliamentary Secretaries or, subject to subsection (3), from among persons who are not members of either House.
+50. (1) When the House of Representatives first meets after any general election and before it proceeds to the despatch of any other business, it shall elect a person to be the Speaker of the House; and if the office of Speaker falls vacant at any time before the next dissolution of Parliament, the House shall, as soon as practicable, elect another person to that office.
 
-(3)  A person who is not a member of either House shall not be elected Speaker where-
+(2) The Speaker may be elected either from among the members of the House of Representatives who are not Ministers or Parliamentary Secretaries or, subject to subsection (3), from among persons who are not members of either House.
 
-(a) he is not a citizen of Trinidad and Tobago; or Speaker and Deputy Speaker. [17 of 1995].
+(3) A person who is not a member of either House shall not be elected Speaker where—
+
+(a) he is not a citizen of Trinidad and Tobago; or
 
 L.R.O. 1/2009
 
@@ -2507,7 +2628,9 @@ enacted  in  pursuance  of  subsection  (2) of that section;
 
 (b) in  the  case  of  the  Deputy  Speaker,  by  such member of the House, not being a Minister or Parliamentary Secretary, as the House may elect for the purpose.
 
-(7)  Where the Speaker or Deputy Speaker resumes the performance  of  his  functions  as  a  member  of  the  House  in accordance  with  the  provisions  of  section  49(3),  he  shall  also L.R.O. 1/2009
+(7) Where the Speaker or Deputy Speaker resumes the performance of his functions as a member of the House in accordance with the provisions of section 49(3), he shall also
+
+L.R.O. 1/2009
 
 [[END OF PAGE 64]]
 
@@ -2599,7 +2722,7 @@ Determination of questions as to membership.
 
 ###### GENERAL
 
-(1)  Any question whether-
+52. (1) Any question whether—
 
 (a) any  person  has  been  validly  appointed  as  a Senator  or  validly  elected  as  a  member  of  the House of Representatives;
 
@@ -2611,9 +2734,9 @@ Determination of questions as to membership.
 
 shall be determined by the High Court.
 
-- Proceedings  for  the  determination  of  any  question referred to in subsection (1) shall not be instituted except with the leave of a Judge of the High Court.
+(2) Proceedings for the determination of any question referred to in subsection (1) shall not be instituted except with the leave of a Judge of the High Court.
 
-- An appeal shall lie to the Court of Appeal from-
+(3) An appeal shall lie to the Court of Appeal from—
 
 (a) the  decision  of  a  Judge  of  the  High  Court granting or refusing leave to institute proceedings for the determination of  any question referred to in subsection (1);
 
@@ -2625,7 +2748,9 @@ shall be determined by the High Court.
 
 ##### POWERS,  PRIVILEGES  AND  PROCEDURE OF  PARLIAMENT
 
-Power to make laws. 53. Parliament may make laws for the peace, order and good government of Trinidad and Tobago, so, however, that the provisions The Constitution of this Constitution or (in so far as it forms part of the law of Trinidad and Tobago) the Trinidad and Tobago Independence Act 1962 of the United Kingdom may not be altered except in accordance with the provisions of section 54.
+Power to make laws.
+
+53. Parliament may make laws for the peace, order and good government of Trinidad and Tobago, so, however, that the provisions
 
 [[END OF PAGE 67]]
 
@@ -2635,11 +2760,15 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 68
 
-54. (1)  Subject to the provisions of this section, Parliament may alter any of the provisions of this Constitution or (in so far as it  forms part of the law of Trinidad and Tobago) any of the provisions of the Trinidad and Tobago Independence Act 1962.
+The Constitution
 
-- In so far as it alters-
+of this Constitution or (in so far as it forms part of the law of Trinidad and Tobago) the Trinidad and Tobago Independence Act 1962 of the United Kingdom may not be altered except in accordance with the provisions of section 54.
 
-(a) sections 4 to 14, 20 (b) , 21, 43(1), 53, 58, 67(2), 70, 83, 101 to 108, 110, 113, 116 to 125 and 133 to l37; or
+54. (1) Subject to the provisions of this section, Parliament may alter any of the provisions of this Constitution or (in so far as it forms part of the law of Trinidad and Tobago) any of the provisions of the Trinidad and Tobago Independence Act 1962.
+
+(2) In so far as it alters—
+
+(a) sections 4 to 14, 20(b), 21, 43(1), 53, 58, 67(2), 70, 83, 101 to 108, 110, 113, 116 to 125 and 133 to 137; or
 
 (b)
 
@@ -2647,7 +2776,7 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 a Bill for an Act under this section shall not be passed by Parliament unless at the final vote thereon in each House it is supported by the votes of not less than two-thirds of all the members of each House.
 
-- In so far as it alters-
+(3) In so far as it alters—
 
 (a) this section;
 
@@ -2721,7 +2850,7 @@ of each House, shall be such as may from time to time be prescribed by  Parliame
 
 57. No  member  of  either  House  shall  take  part  in  the proceedings of that House (other than proceedings necessary for the  purposes  of  this  section)  until  he  has  made  and  subscribed before that  House the oath of allegiance, so, however, that the election  of  a  Speaker  and  Deputy  Speaker  of  the  House  of Representatives and the election of a President of the Senate and Vice-President of the Senate may take place before the members of the House of Representatives, or the members of the Senate, as the case may be, have made and subscribed such oath.
 
-58. (1)  The President of the Senate or, in his absence, the VicePresident of the Senate or, where they are both absent, a Senator, not being a Minister or a Parliamentary Secretary, elected by the Senate for that sitting shall preside at each sitting of the Senate.
+58. (1) The President of the Senate or, in his absence, the Vice-President of the Senate or, where they are both absent, a Senator, not being a Minister or a Parliamentary Secretary, elected by the Senate for that sitting shall preside at each sitting of the Senate.
 
 (2)  The Speaker or, in his absence, the Deputy Speaker or,  where  they  are  both  absent,  a  member  of  the  House  of Representatives,  not  being  a  Minister  or  a  Parliamentary Secretary,  elected  by  the  House  for  that  sitting  shall  preside  at each sitting of the House.
 
@@ -2775,29 +2904,29 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
-(3)  A Bill shall not become law unless it has been duly passed and assented to in accordance with this Constitution.
+(3) A Bill shall not become law unless it has been duly passed and assented to in accordance with this Constitution.
 
-(4)  A  Bill  may  be  assented  to  during  the  period occurring between the end of one session of Parliament and the beginning of the next or at any subsequent time during the life of that Parliament.
+(4) A Bill may be assented to during the period occurring between the end of one session of Parliament and the beginning of the next or at any subsequent time during the life of that Parliament.
 
-62. (1)  A  Minister  who  is  a  Member  of  the  House  of Representatives and a Minister who is a Senator-
+Attendance of Ministers in either House.
+
+62. (1) A Minister who is a Member of the House of Representatives and a Minister who is a Senator—
 
 (a) has the right to attend any sitting of the Senate or the House of Representatives, respectively,
 
-(b)
+(b) may be required at the instance of the President of the Senate or the Speaker to attend any sitting of the Senate or the House of Representatives, respectively.
 
-- may be required at the instance of the President of the Senate or the Speaker to attend any sitting of the Senate or the House of Representatives, respectively.
+(2) A Minister may not be required to attend any sitting of either House under subsection 1(b) except on the adoption by that House of a motion for the purpose.
 
-(2)  A Minister may not be required to attend any sitting of either House under subsection 1 (b) except on the adoption by that House of a motion for the purpose.
+(3) A Minister attending any sitting of the Senate or the House of Representatives under subsection (1) may take part in any debate or other proceedings concerning matters falling within his portfolio in such House and may speak on any motion before the House concerning such matters and move amendments to any such motions, save that such a Minister shall have no vote thereon.
 
-(3)  A Minister attending any sitting of the Senate or the House of Representatives under subsection (1) may take part in any  debate  or  other  proceedings  concerning  matters  falling within  his  portfolio  in  such  House  and  may  speak  on  any motion  before  the  House  concerning  such  matters  and  move amendments to any such motions, save that such a Minister shall have no vote thereon.
+(4) Nothing in this section shall preclude the Attorney General from attending any sitting of the Senate or the House of Representatives, as the case may be, and taking part in debates and other proceedings and speaking on any motion before any such House, as the case may be, and moving amendments to any such motions even though the matter falls within the portfolio of some other Minister.
 
-(4)  Nothing  in  this  section  shall  preclude  the Attorney General from attending any sitting of the Senate or the House of Representatives, as the case may be, and taking part in debates and other proceedings and speaking on any motion before any such House, as the case may be, and moving amendments to any such motions even though the matter falls within the portfolio of some other Minister.
+Introduction of Bills, etc.
 
-Introduction of Bills, etc. 63. (1)  A Bill other than a Money Bill may be introduced in either House; a Money Bill shall not be introduced in the Senate.
+63. (1) A Bill other than a Money Bill may be introduced in either House; a Money Bill shall not be introduced in the Senate.
 
 L.R.O. 1/2009
-
-Attendance of Ministers in either House.
 
 [[END OF PAGE 72]]
 
@@ -3007,19 +3136,21 @@ The Constitution
 
 (4)  Subject  to  the  Standing  Orders  of  Parliament,  a Committee may regulate its own procedure.
 
+*See Note on page 2.
+
+Reports of Service Commissions. [29 of 1999].
+
 *66B. Each Service Commission shall submit to the President, before 1st October in each year, a report on its administration, the manner of the exercise of its powers, its methods of functioning and any criteria adopted by it in the exercise of its powers and functions in the previous year and the President shall cause the report to be laid within sixty days thereafter in each House.
+
+Applicability of the Judicial and Legal Service Commission. [29 of 1999].
 
 *66C. (1)  Sections 66A and 66B shall not apply to the Judicial and Legal Service Commission.
 
 (2)  The  Judicial  and  Legal  Service  Commission  shall submit  to  the  President  before  1st  October,  in  each  year, commencing  in  the  year  2000,  a  report  on  the  exercise  of  its functions  and  powers  in  the  previous  year,  describing  the procedures followed and any criteria adopted by it in connection therewith,  and  the  President  shall  cause  the  report  to  be  laid within sixty days thereafter in each House.
 
-*66D. A Body listed at (A) to (D) in section 66A(1) (a) shall submit to the President before 1st July, in each year a report on the exercise of  its  functions  and  powers  in  the  previous  year,  describing  the procedures  followed  and  any  criteria  adopted  by  it  in  connection Reports of Service Commissions. [29 of 1999].
-
-* See Note on page 2.
-
-Applicability of the Judicial and Legal Service Commission. [29 of 1999].
-
 Report of Government Ministries, etc. [29 of 1999].
+
+*66D. A Body listed at (A) to (D) in section 66A(1) (a) shall submit to the President before 1st July, in each year a report on the exercise of  its  functions  and  powers  in  the  previous  year,  describing  the procedures  followed  and  any  criteria  adopted  by  it  in  connection
 
 L.R.O. 1/2009
 
@@ -3115,7 +3246,7 @@ Procedure for review of constituency boundaries.
 
 (7)  Where there is a quorum, the Commission shall not be disqualified for the transaction of business by reason of any vacancy  among  its  members,  and  any  proceeding  of  the Commission shall be valid even though some person who was not entitled to do so took part therein.
 
-- The Commission may regulate its own procedure.
+(8)  The Commission may regulate its own procedure.
 
 (9)  The  Commission  shall  be  provided  with  a  staff adequate for the efficient discharge of its functions.
 
@@ -3255,13 +3386,13 @@ Performance of functions of Prime Minister during absence, illness or suspension
 
 of  the  House,  declaring  that  it  has  no  confidence  in  the  Prime Minister and the Prime Minister does not within seven days of the passing of such a resolution either resign or advise the President to dissolve Parliament, the President shall revoke the appointment of the Prime Minister.
 
-- The Prime Minister shall also vacate his office-
+(2)  The Prime Minister shall also vacate his office-
 
 (a) when after any dissolution of Parliament he is informed by the President that the President is about to reappoint him as Prime Minister or to appoint another person as Prime Minister; or
 
 (b) where for any reason other than a dissolution of Parliament  he  ceases  to  be  a  member  of  the House of Representatives.
 
-- A Minister other than the Prime Minister shall vacate his office-
+(3)  A Minister other than the Prime Minister shall vacate his office-
 
 (a)
 
@@ -3273,9 +3404,9 @@ of  the  House,  declaring  that  it  has  no  confidence  in  the  Prime Minist
 
 - where  his  appointment  is  revoked  by  the President acting in accordance with the advice of the Prime Minister.
 
-- Where at any time the Prime Minister is required under the provisions of section 49(3) to cease to perform his functions as a member of the House of Representatives, he shall cease during such time to perform any of his functions as Prime Minister.
+(4)  Where at any time the Prime Minister is required under the provisions of section 49(3) to cease to perform his functions as a member of the House of Representatives, he shall cease during such time to perform any of his functions as Prime Minister.
 
-- Where at any time a Minister other than the Prime Minister is required under section 43(3) or section 49(3) to cease to perform his functions as a member of the House to which he belongs, he shall cease during such time to perform any of his functions as Minister.
+(5)  Where at any time a Minister other than the Prime Minister is required under section 43(3) or section 49(3) to cease to perform his functions as a member of the House to which he belongs, he shall cease during such time to perform any of his functions as Minister.
 
 78. (1)  Where  the  Prime  Minister  is  absent  from  Trinidad and Tobago or is unable by reason of illness or of the provisions  of
 
@@ -3301,9 +3432,9 @@ section  77(4)  to  perform  the  functions  conferred  on  him  by  this Consti
 
 (a)
 
-(b)
-
 - in his discretion;
+
+(b)
 
 - after  consultation with any person or authority other than the Cabinet; or
 
@@ -3375,13 +3506,13 @@ The Constitution
 
 (a)
 
-(b)
-
-(c)
-
 - he resigns his office;
 
+(b)
+
 - the holder thereof ceases to be a member of the House  of  Representatives  for  any  cause  other than a dissolution of Parliament;
+
+(c)
 
 - he is not a member of the House of Representatives when the House of Representatives  first  meets  after  a  dissolution of Parliament;
 
@@ -3423,7 +3554,7 @@ The Constitution
 
 85. (1)  Where any Minister has been assigned responsibility for  any  department  of  Government,  he  shall  exercise  general direction  and  control  over  that  department;  and,  subject  to  such direction and control, the department shall be under the supervision of a Permanent Secretary whose office shall be a public office.
 
-- For the purposes of this section-
+(2)  For the purposes of this section-
 
 (a)
 
@@ -3445,7 +3576,7 @@ The Constitution
 
 87. (1)  The President may grant to any person a pardon, either free or subject to lawful conditions, respecting any offences that he may  have  committed.  The  power  of  the  President  under  this subsection may be exercised by him either before or after the person is charged with any offence and before he is convicted thereof.
 
-- The President may-
+(2)  The President may-
 
 (a)
 
@@ -3471,9 +3602,9 @@ The Constitution
 
 (b)
 
-(c)
-
 - the Attorney General;
+
+(c)
 
 - the Director of Public Prosecutions;
 
@@ -3631,7 +3762,7 @@ The Constitution
 
 (3)  Where in the course of an investigation it appears to the Ombudsman that there is evidence of any corrupt act by any public  officer  or  by  any  person  in  connection  with  the  public service,  he  shall  report  the  matter  to  the  appropriate  authority with his recommendation as to any further investigation he may consider proper.
 
-- The Ombudsman shall not investigate-
+(4)  The Ombudsman shall not investigate-
 
 (a)
 
@@ -3643,7 +3774,9 @@ The Constitution
 
 (b)
 
-- Third Schedule. any such action, or action taken with respect to any matter, as is described in the Third Schedule.
+- any such action, or action taken with respect to any matter, as is described in the Third Schedule.
+
+Third Schedule.
 
 L.R.O. 1/2009
 
@@ -3663,7 +3796,7 @@ Discretion of Ombudsman.
 
 Report on investigation.
 
-- Notwithstanding subsection (4) the Ombudsman-
+(5)  Notwithstanding subsection (4) the Ombudsman-
 
 (a)
 
@@ -3681,19 +3814,19 @@ Report on investigation.
 
 (b)
 
-(c)
-
-(d)
-
 - the subject matter of the complaint is trivial;
 
+(c)
+
 - the complaint is frivolous or vexatious or is not made in good faith; or
+
+(d)
 
 - the  complainant has not a sufficient interest in the subject matter of the complaint.
 
 96. (1)  Where a complaint or request for an investigation is duly  made  and  the  Ombudsman  decides  not  to  investigate  the matter or where he decides to discontinue an investigation of the matter,  he  shall  inform  the  person  who  made  the  complaint  or request of the reasons for his decision.
 
-(2)  Upon the completion  of an investigation the Ombudsman shall inform the department of Government or the The Constitution authority concerned of the results of the investigation and, if he is  of  the  opinion  that  any  person  has  sustained  an  injustice  in consequence  of  a  fault  in  administration,  he  shall  inform  the department of Government or the authority of the reasons for his opinion  and  make  such  recommendations  as  he  thinks  fit. The Ombudsman may in his original recommendations, or at any later stage if he thinks fit, specify the time within which the injustice should be remedied.
+(2)  Upon the completion  of an investigation the Ombudsman shall inform the department of Government or the
 
 [[END OF PAGE 95]]
 
@@ -3702,6 +3835,10 @@ Report on investigation.
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 96
+
+The Constitution
+
+authority concerned of the results of the investigation and, if he is  of  the  opinion  that  any  person  has  sustained  an  injustice  in consequence  of  a  fault  in  administration,  he  shall  inform  the department of Government or the authority of the reasons for his opinion  and  make  such  recommendations  as  he  thinks  fit. The Ombudsman may in his original recommendations, or at any later stage if he thinks fit, specify the time within which the injustice should be remedied.
 
 (3)  Where the investigation is undertaken as a result of a complaint or request, the Ombudsman shall inform the person who made the complaint or request of his findings.
 
@@ -3727,9 +3864,9 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
-Prescribed matters concerning 98. (1)  Subject to subsection (2), Parliament may make provision-
+Prescribed matters concerning Ombudsman.
 
-Ombudsman.
+98. (1)  Subject to subsection (2), Parliament may make provision-
 
 (a) for  regulating the procedure for the making of complaints  and  requests  to  the  Ombudsman and  for  the  exercise  of  the  functions  of  the Ombudsman;
 
@@ -3751,7 +3888,7 @@ Ombudsman.
 
 (6)  The  Ombudsman, and any person holding office or appointment under him may not be called to give evidence in any Court,  or  in  any  proceedings  of  a  judicial  nature,  in  respect  of anything coming to his knowledge in the exercise of his functions.
 
-(7)  Anything  said  or  any  information  supplied  or  any document, paper or thing produced by any person in the course The Constitution of any enquiry by or proceedings before an Ombudsman under this  Constitution  is  privileged  in  the  same  manner  as  if  the enquiry or proceedings were proceedings in a Court.
+(7)  Anything  said  or  any  information  supplied  or  any document, paper or thing produced by any person in the course
 
 [[END OF PAGE 97]]
 
@@ -3760,6 +3897,10 @@ Ombudsman.
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 98
+
+The Constitution
+
+of any enquiry by or proceedings before an Ombudsman under this  Constitution  is  privileged  in  the  same  manner  as  if  the enquiry or proceedings were proceedings in a Court.
 
 (8)  No proceeding of the Ombudsman may be held bad for want of form and, except on the ground of lack of jurisdiction, no  proceeding  or  decision  of  an  Ombudsman  is  liable  to  be challenged, reviewed, quashed or called in question in any Court.
 
@@ -3771,7 +3912,7 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 ##### THE  SUPREME  COURT
 
-- There  shall  be  a  Supreme  Court  of  Judicature  for Trinidad  and  Tobago  consisting  of  a  High  Court  of  Justice (hereinafter  referred  to  as  'the  High  Court')  and  a  Court  of Appeal  with  such  jurisdiction  and  powers  as  are  conferred  on those Courts respectively by this Constitution or any other law.
+99. There  shall  be  a  Supreme  Court  of  Judicature  for Trinidad  and  Tobago  consisting  of  a  High  Court  of  Justice (hereinafter  referred  to  as  'the  High  Court')  and  a  Court  of Appeal  with  such  jurisdiction  and  powers  as  are  conferred  on those Courts respectively by this Constitution or any other law.
 
 100. (1)  The  Judges  of  the  High  Court  shall  be  the  Chief Justice, who shall be ex officio a Judge of that Court, and such number of Puisne Judges as may be prescribed.
 
@@ -3779,9 +3920,7 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 ###### THE  COURT  OF  APPEAL
 
-(1)  The Judges of the Court of Appeal shall be the Chief Justice, who shall be the President of the Court of Appeal, and
-
-- such number of Justices of Appeal as may be prescribed.
+101. (1)  The Judges of the Court of Appeal shall be the Chief Justice, who shall be the President of the Court of Appeal, and such number of Justices of Appeal as may be prescribed.
 
 (2)  The  Court  of  Appeal  shall  be  a  superior  Court  of record and, save as otherwise provided by Parliament, shall have all the powers of such a Court.
 
@@ -3817,7 +3956,7 @@ The Constitution
 
 104. (1)  The  Judges,  other  than  the  Chief  Justice,  shall  be appointed by the President, acting in accordance with the advice of the Judicial and Legal Service Commission.
 
-- Where-
+(2)  Where-
 
 (a) the office of any such Judge is vacant;
 
@@ -3959,7 +4098,7 @@ otherwise, ought to be submitted to the Judicial Committee; and
 
 (c)
 
-- such  other  members  (hereinafter  called  'the appointed  members')  as  may  be  appointed  in accordance with subsection (3).
+- such  other  members  (hereinafter  called  “the appointed  members”)  as  may  be  appointed  in accordance with subsection (3).
 
 Judicial and Legal Service Commission.
 
@@ -4021,7 +4160,7 @@ The Constitution
 
 (2)  The heads of expenditure contained in the estimates, other than expenditure charged upon the Consolidated Fund by this  Constitution  or  any Act,  shall  be  included  in  a  Bill,  to  be known as an Appropriation Bill, providing for the issue from the Consolidated Fund  of the sums  necessary to meet  that expenditure and the appropriation of those sums for the purposes specified therein.
 
-- If in respect of any financial year it is found-
+(3) If in respect of any financial year it is found—
 
 (a)
 
@@ -4111,7 +4250,9 @@ The Constitution
 
 (6)  The  staff  of  the  Auditor  General  shall  be  public officers appointed in accordance with section 121(8).
 
-Public debt. 118. (1)  The  public  debt  of  Trinidad  and  Tobago  shall  be secured on the revenues and assets of Trinidad and Tobago.
+Public debt.
+
+118. (1)  The  public  debt  of  Trinidad  and  Tobago  shall  be secured on the revenues and assets of Trinidad and Tobago.
 
 (2) In  this  section  references  to  the  public  debt  of Trinidad  and  Tobago  include  references  to  the  interest  on  that debt, sinking fund payments in respect of that debt, and the cost, charges and expenses incidental to the management of that debt.
 
@@ -4245,7 +4386,7 @@ The Constitution
 
 (8)  Before  the  Public  Service  Commission  makes  any appointment to or transfers a member of the staff of the Auditor General  or  Ombudsman,  it  shall  first  consult  with  the Auditor General or Ombudsman, as the case may be.
 
-(9)  In  subsection  (7),  'Civil  Service',  'Fire  Service' and  'Prison  Service'  means  respectively  the  Civil  Service established  under  the  Civil  Service  Act,  the  Fire  Service established  under  the  Fire  Service Act  and  the  Prison  Service established under the Prison Service Act.
+(9)  In  subsection  (7),  “Civil  Service”,  “Fire  Service” and  “Prison  Service”  means  respectively  the  Civil  Service established  under  the  Civil  Service  Act,  the  Fire  Service established  under  the  Fire  Service Act  and  the  Prison  Service established under the Prison Service Act.
 
 Ch. 23:01.
 
@@ -4343,7 +4484,9 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
-(2)  The  Police  Service  Commission  shall  nominate persons for appointment to the offices specified in subsection (1) (a) and section 22(1) of the Police Service Act in accordance with the criteria and procedure prescribed by Order of the President, subject to negative resolution of Parliament. Ch. 15:01.
+(2)  The  Police  Service  Commission  shall  nominate persons for appointment to the offices specified in subsection (1) (a) and section 22(1) of the Police Service Act in accordance with the criteria and procedure prescribed by Order of the President, subject to negative resolution of Parliament.
+
+Ch. 15:01.
 
 (3)  The Police Service Commission shall submit to the President  a  list  of  the  names  of  the  persons  nominated  for appointment to the offices  of  Commissioner  or  Deputy Commissioner of Police.
 
@@ -4351,7 +4494,7 @@ The Constitution
 
 (5)  The  Police  Service  Commission  shall  appoint  the Commissioner or Deputy Commissioner of Police only after the House of Representatives approves the Notification in respect of the relevant office.
 
-- For the purpose of subsection (1) (d) -
+(6) For the purpose of subsection (1)(d)—
 
 (a) the  Commissioner  of  Police  shall,  every  six months, submit a report in writing to the Police Service Commission on the management of the Police Service; and
 
@@ -4397,7 +4540,7 @@ after giving him an opportunity to be heard;
 
 123A. (1)  Subject  to  section  123(1),  the  Commissioner  of Police  shall  have  the  complete  power  to  manage  the  Police Service and is required to ensure that the human, financial and material resources available to the Service are used in an efficient and effective manner.
 
-- The Commissioner of Police shall have the power to -
+(2) The Commissioner of Police shall have the power to—
 
 (a) appoint persons to hold or act in an office in the Police Service, other than an officer referred to in  section  123(1) (a) ,  including  the  power  to make  appointments on promotion and to confirm appointments;
 
@@ -4531,7 +4674,7 @@ Powers and procedure of Service Commissions and protection from legal proceeding
 
 (Deleted by Act No. 6 of 2006).
 
-(2)  In  this  section  and  in  section  129,  as  regards  any matter concerning the holder of any office referred to in section 121(5)  or  123(3),  a  reference  to  'public  officer'  includes  a reference to a Judge as well as a retired public officer.
+(2)  In  this  section  and  in  section  129,  as  regards  any matter concerning the holder of any office referred to in section 121(5)  or  123(3),  a  reference  to  “public  officer”  includes  a reference to a Judge as well as a retired public officer.
 
 128. Before  a  Service  Commission  appoints  to  an  office  a person  holding  or  acting  in  any  office,  power  to  make appointments to which is vested by this Constitution in another Service Commission, it shall consult that other Commission.
 
@@ -4575,7 +4718,10 @@ Constitution to consult, and confer powers and impose duties on any public offic
 
 ##### PUBLIC  SERVICE  APPEAL  BOARD
 
-130. (1)  There  shall  be  a  Public  Service  Appeal  Board (hereinafter referred to as 'the Appeal Board') to which appeals Constitution of Appeal Board. [8 of 1981].
+Constitution of Appeal Board.
+[8 of 1981].
+
+130. (1)  There  shall  be  a  Public  Service  Appeal  Board (hereinafter referred to as “the Appeal Board”) to which appeals
 
 Ch. 4:20.
 
@@ -4651,15 +4797,11 @@ The Constitution
 
 (4)  Every decision of the Appeal Board shall require the concurrence of the majority of its members.
 
-(5)  The  Appeal  Board  may  by  Regulations  make provision for-
+(5)  The  Appeal  Board  may  by  Regulations  make provision for—
 
-(a)
+(a) procedure of its own; and
 
-(b)
-
-- procedure of its own; and
-
-- the procedure in appeals under this section.
+(b) the procedure in appeals under this section.
 
 (6)  With the consent of the Prime Minister, the Appeal Board may by regulation or otherwise confer powers and impose duties on any public officer or any authority of the Government of  Trinidad  and  Tobago  for  the  purpose  of  the  exercise  of  the functions of the Appeal Board.
 
@@ -4685,7 +4827,7 @@ Powers of Commissions in relation to grant of pensions, etc. [6 of 2006].
 
 The Constitution
 
-- In this section, 'the relevant date' means-
+(2) In this section, “the relevant date” means—
 
 (a)
 
@@ -4765,7 +4907,7 @@ The Constitution
 
 - any  principal  representative  of  Trinidad  and Tobago in any other country.
 
-136. (1)  The holder of an office to which this subsection and subsections (3) to (11) apply (in this section referred to as 'the officer') shall vacate his office on attaining the age of sixty-five years or such other age as may be prescribed.
+136. (1)  The holder of an office to which this subsection and subsections (3) to (11) apply (in this section referred to as “the officer”) shall vacate his office on attaining the age of sixty-five years or such other age as may be prescribed.
 
 (2)  Notwithstanding that he has attained the age at which he is required by or under subsection (1) to vacate his office, a Judge may, with the permission of the President, acting in accordance with the advice of the Chief Justice, continue in office for such period after attaining that age as may be necessary to enable him to deliver judgment or to do any other thing in relation to proceedings that were commenced before him before he attained that age.
 
@@ -4859,8 +5001,9 @@ the President to the Judicial Committee and the Judicial Committee has advised t
 
 - where the tribunal so recommends, the President shall refer the question accordingly.
 
-(4)  Where  the  question  of  removing  a  Judge  from office has been referred to a tribunal under subsection (3), the President,  acting  in  accordance  with  the  advice  of  the  Prime Minister in the case of the Chief Justice or the Chief Justice in the case of a Judge other than the Chief Justice, may suspend the Judge from performing the functions of his office, and any such suspension may at any time be revoked by the President, acting in accordance with the advice of the Prime Minister in L.R.O. 1/2009
+(4)  Where  the  question  of  removing  a  Judge  from office has been referred to a tribunal under subsection (3), the President,  acting  in  accordance  with  the  advice  of  the  Prime Minister in the case of the Chief Justice or the Chief Justice in the case of a Judge other than the Chief Justice, may suspend the Judge from performing the functions of his office, and any such suspension may at any time be revoked by the President, acting in accordance with the advice of the Prime Minister in
 
+L.R.O. 1/2009
 [[END OF PAGE 126]]
 
 [[START OF PAGE 127]]
@@ -4887,7 +5030,7 @@ the case of the Chief Justice or the Chief Justice in the case of a Judge other 
 
 138. (1)  There shall be an Integrity Commission (in this section and in section 139 referred to as 'the Commission') for Trinidad and Tobago consisting of such number of members, qualified and appointed in such manner and holding office upon such tenure as may be prescribed.
 
-- The Commission shall be charged with the duty of-
+(2)  The Commission shall be charged with the duty of—
 
 (a) receiving,  from  time  to  time,  declarations  in writing  of  the  assets,  liabilities  and  income  of Members  of  the  House  of  Representatives, Ministers of Government, Parliamentary Secretaries, Senators, Judges, Magistrates, Permanent Secretaries, Chief Technical Officers,  Members  of  the  Tobago  House  of Assembly, Members of Municipalities, Members of Local Government Authorities and Members of the Boards of all Statutory Bodies, State Enterprises and the holders of such other offices as may be prescribed;
 
@@ -4925,13 +5068,9 @@ paragraph (a) ,  as  well  as  Members  of  the Diplomatic Service, Advisers to 
 
 - conferring such powers on the Commission and imposing such duties on persons concerned as are necessary to enable the Commission to carry out effectively the purposes of section 138;
 
-(c)
+(c) the proper custody of declarations and other documents delivered to the Commission;
 
-(d)
-
-- the  proper  custody  of  declarations  and  other documents delivered to the Commission;
-
-- the  maintenance  of  secrecy  in  respect  of  all information received by the Commission in the course  of  its  duties  with  respect  to  the  assets, liabilities  and  income  of  any  member  of Parliament and any other person;
+(d) the maintenance of secrecy in respect of all information received by the Commission in the course of its duties with respect to the assets, liabilities and income of any member of Parliament and any other person;
 
 (da) the  preparation  by  the  Commission,  of  a Register of Interests for public inspection; and
 
@@ -4989,7 +5128,9 @@ The Constitution
 
 (2)  The  functions  of  the  Chief  Secretary  and  other Secretaries shall be prescribed.
 
-141D. There  is  established  a  fund  to  be  called  'the  Tobago House of Assembly Fund' which shall consist ofFund. [39 of 1996].
+Fund. [39 of 1996].
+
+141D. There  is  established  a  fund  to  be  called  'the  Tobago House of Assembly Fund' which shall consist of—
 
 (a)
 
@@ -5056,7 +5197,7 @@ Section 84.
 Section 57. 
 ### FORM  OF  OATH  (AFFIRMATION)  FOR  A  MEMBER  OF  THE  HOUSE OF  REPRESENTATIVES  OR  THE  SENATE
 
-- A.B ., having been elected/appointed a member of Parliament do swear by ....................... (solemnly affirm) that I will bear true faith and allegiance to Trinidad  and  Tobago,  will  uphold  the  Constitution  and  the  law,  and  will conscientiously and impartially discharge the responsibilities to the people of Trinidad and Tobago upon which I am about to enter.
+I. A.B., having been elected/appointed a member of Parliament do swear by ....................... (solemnly affirm) that I will bear true faith and allegiance to Trinidad  and  Tobago,  will  uphold  the  Constitution  and  the  law,  and  will conscientiously and impartially discharge the responsibilities to the people of Trinidad and Tobago upon which I am about to enter.
 
 Sections 3, 91, 107, 117, 126, 131.
 
@@ -5078,33 +5219,33 @@ The Constitution
 
 ## BOUNDARIES  OF  CONSTITUENCIES
 
-- These  rules  are  the  Delimitation  of  Constituencies  Rules  in accordance with which the constituencies of Trinidad and Tobago are to be delimited under section 72(1).
+1. These  rules  are  the  Delimitation  of  Constituencies  Rules  in accordance with which the constituencies of Trinidad and Tobago are to be delimited under section 72(1).
 
-- Subject to paragraph 3, the electorate shall so far as is practicable be equal in all constituencies.
+2. Subject to paragraph 3, the electorate shall so far as is practicable be equal in all constituencies.
 
-- The number of constituencies in Tobago shall not be less than two.
+3. The number of constituencies in Tobago shall not be less than two.
 
-- In  Trinidad  and  in  Tobago,  respectively,  the  electorate  in  any constituency shall not be more than one hundred and ten per cent nor be less than ninety per cent of the total electorate of the island divided by the number of constituencies in that island.
+4. In  Trinidad  and  in  Tobago,  respectively,  the  electorate  in  any constituency shall not be more than one hundred and ten per cent nor be less than ninety per cent of the total electorate of the island divided by the number of constituencies in that island.
 
-- Special  attention  shall  be  paid  to  the  needs  of  sparsely  populated areas which on account of size, isolation or inadequacy of communications cannot adequately be represented by a single member of Parliament.
+5. Special  attention  shall  be  paid  to  the  needs  of  sparsely  populated areas which on account of size, isolation or inadequacy of communications cannot adequately be represented by a single member of Parliament.
 
-- Natural boundaries such as major highways and rivers shall be used wherever possible.
+6. Natural boundaries such as major highways and rivers shall be used wherever possible.
 
-- In this Schedule 'Trinidad' means the Island of Trinidad and its offshore islands, and 'Tobago' means the Island of Tobago and its offshore islands.
+7. In this Schedule 'Trinidad' means the Island of Trinidad and its offshore islands, and 'Tobago' means the Island of Tobago and its offshore islands.
 
 # THIRD  SCHEDULE
 
 ## MATTERS  NOT  SUBJECT  TO  INVESTIGATION
 
-- Action taken in matters certified by the Attorney General to affect relations or dealings between the Government of Trinidad and Tobago and any other Government or any International Organisation.
+1. Action taken in matters certified by the Attorney General to affect relations or dealings between the Government of Trinidad and Tobago and any other Government or any International Organisation.
 
-- Action taken in any country or territory outside Trinidad and Tobago by or on behalf of any officer representing or acting under the authority of the Government of Trinidad and Tobago.
+2. Action taken in any country or territory outside Trinidad and Tobago by or on behalf of any officer representing or acting under the authority of the Government of Trinidad and Tobago.
 
-- Action taken under any law relating to extradition or fugitive offenders.
+3. Action taken under any law relating to extradition or fugitive offenders.
 
-- Action taken for the purposes of investigating crime or of protecting the security of the State.
+4. Action taken for the purposes of investigating crime or of protecting the security of the State.
 
-- The commencement or conduct of civil or criminal proceedings before any Court in Trinidad and Tobago or before any international Court or tribunal.
+5. The commencement or conduct of civil or criminal proceedings before any Court in Trinidad and Tobago or before any international Court or tribunal.
 
 [Section 72].
 
@@ -5122,17 +5263,17 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 The Constitution
 
-- Any exercise of the power of pardon.
+6. Any exercise of the power of pardon.
 
-- Action taken in matters relating to contractual or other commercial transactions, being transactions of a department of Government or an authority to which section 93 applies not being transactions for or relating to-
+7. Action taken in matters relating to contractual or other commercial transactions, being transactions of a department of Government or an authority to which section 93 applies not being transactions for or relating to—
 
 (a) the acquisition of land compulsorily or in circumstances in which it could be acquired compulsorily;
 
 (b) the disposal as surplus of land acquired compulsorily or in circumstances in which it could be acquired compulsorily.
 
-- Action taken in respect of appointments or removals, pay, discipline, superannuation or other personnel matters in relation to service in any office or employment in the public service or under any authority as may be prescribed.
+8. Action taken in respect of appointments or removals, pay, discipline, superannuation or other personnel matters in relation to service in any office or employment in the public service or under any authority as may be prescribed.
 
-- Any  matter  relating  to  any  person  who  is  or  was  a  member  of  the armed forces of Trinidad and Tobago in so far as the matter relates to-
+9. Any  matter  relating  to  any  person  who  is  or  was  a  member  of  the armed forces of Trinidad and Tobago in so far as the matter relates to—
 
 (a) the terms and conditions of service as such member; or
 
@@ -5156,23 +5297,23 @@ of Trinidad and Tobago Constitution of the Republic
 
 ## Note on Orders made under section 5(2)
 
-Orders  made  under  section  5(2)  and  under  the  corresponding provisions of former Constitutions comprised provisions of two categories(a) specific  amendments  of  various  written  laws, and (b) general  provisions  for  the  adaptation  of  existing  laws. The former have been incorporated in the written laws amended and are omitted from the Orders published. Only those provisions of  the  Orders  that  constitute  general  adaptation  provisions  and that are still relevant are published below. The gaps are indicated by dotted lines.
+Orders  made  under  section  5(2)  and  under  the  corresponding provisions of former Constitutions comprised provisions of two categories—(a) specific  amendments  of  various  written  laws, and (b) general  provisions  for  the  adaptation  of  existing  laws. The former have been incorporated in the written laws amended and are omitted from the Orders published. Only those provisions of  the  Orders  that  constitute  general  adaptation  provisions  and that are still relevant are published below. The gaps are indicated by dotted lines.
 
 The  Orders  made  under  the present and  the previous three Constitutions are as follows:
 
-Present Constitution -GN 136/1976 and 110/1977.
+Present Constitution—GN 136/1976 and 110/1977.
 
-Previous Constitutions -
+Previous Constitutions—
 
-(A)  The Trinidad and Tobago (Constitution) Order 1959 (1959
-
-- No. 1044, U.K.)-GN 109/1959.
+(A)  The Trinidad and Tobago (Constitution) Order 1959 (1959 No. 1044, U.K.)—GN 109/1959.
 
 (This Order was repealed by GN 8/1962 and 97/1963).
 
-(B)   The  Trinidad  and  Tobago  (Constitution)  Order  1961 (1961 No. 1192, U.K.)-GN  172/1961, 176/1961, 52/1962, 5/1962, 44/1962, 8/1962, 11/1962 and 38/1962. ( GN 5/1962 was repealed by GN 44/1962 (before  Independence);  and,  all  the  remaining  Orders except GN  44/1962 were repealed  by  GN  8/1962 (after Independence).
+(B)   The  Trinidad  and  Tobago  (Constitution)  Order  1961 (1961 No. 1192, U.K.)—GN  172/1961, 176/1961, 52/1962, 5/1962, 44/1962, 8/1962, 11/1962 and 38/1962.
 
-(C)   The  Trinidad  and  Tobago  (Constitution)  Order  1962 (1962 No. l872, U.K.)-GN 8/1962 and 97/l963.
+(GN 5/1962 was repealed by GN 44/1962 (before  Independence);  and,  all  the  remaining  Orders except GN  44/1962 were repealed  by  GN  8/1962 (after Independence).
+
+(C)   The  Trinidad  and  Tobago  (Constitution)  Order  1962 (1962 No. 1872, U.K.)—GN 8/1962 and 97/1963.
 
 [[END OF PAGE 134]]
 
@@ -5192,21 +5333,23 @@ of Trinidad and Tobago Constitution of the Republic Chap. 1:01
 
 made under section 4 of the Trinidad and Tobago (Constitution) Order-in-Council 1962
 
-- Citation. 1. This Order may be cited as the Existing Laws Amendment Order 1962.
+Citation.
+
+1. This Order may be cited as the Existing Laws Amendment Order 1962.
 
 .     .      .     .     .     .    .    .      .     .      .    .    .      .      .     .     .     .
 
 .     .      .     .     .     .    .    .      .     .      .    .    .      .      .     .     .     .
 
-(1)  Subject  to  this  Order  and  the  Constitution,  a reference in any existing law to the Governor (meaning thereby a Governor  of  the  former  Colony  of  Trinidad  and  Tobago) including a reference to the Governor in Council or the Governor in Executive Council, shall be read and construed as reference to the Governor-General.
+3. (1)  Subject  to  this  Order  and  the  Constitution,  a reference in any existing law to the Governor (meaning thereby a Governor  of  the  former  Colony  of  Trinidad  and  Tobago) including a reference to the Governor in Council or the Governor in Executive Council, shall be read and construed as reference to the Governor-General.
 
-- For the avoidance of doubt it is hereby declared that-
+(2)  For the avoidance of doubt it is hereby declared that—
 
 (a) where  immediately  before  the  commencement of this Order a function was, under an existing law, expressed to be exercisable by the Governor  acting  in  his  discretion  or  absolute discretion,  then  unless  that  function  is,  under the Constitution, expressed to be exercisable by the Governor-General acting in accordance with his  own  deliberate  judgment  or  in  accordance with the advice of any person or authority other than the Cabinet, that function is exercisable by the Governor-General acting in accordance with the advice of the Cabinet or of a Minister acting under the General authority of the Cabinet;
 
 (b) where  immediately  before  the  commencement of this Order a function was, under an existing law, expressed to be exercisable by the Governor or any  person  or  authority  and  that function is, under the Constitution, expressed to be exercisable by some other person or authority,  then  that  function  is  exercisable  by that other person or authority in accordance with the Constitution.
 
-References to Governor to be construed as references to GovernorGeneral.
+References to Governor to be construed as references to Governor-General.
 
 L.R.O. 1/2013
 
@@ -5222,9 +5365,9 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 [Subsidiary]
 
-Reference to Secretary of State to cease to have effect or to refer to GovernorGeneral.
+Reference to Secretary of State to cease to have effect or to refer to Governor-General.
 
-Power of GovernorGeneral to make subsidiary legislation.
+Power of Governor-General to make subsidiary legislation.
 
 of Trinidad and Tobago Constitution of the Republic
 
@@ -5258,7 +5401,7 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
-Chap. 1:01 Chap. 1:01
+Chap. 1:01
 
 Existing Laws Amendment Order
 
@@ -5272,17 +5415,19 @@ Existing Laws Amendment Order
 
 made under section 4 of the Trinidad and Tobago (Constitution) Order-in-Council 1962
 
-Citation. 1. (1)  This  Order  may  be  cited  as  the  Existing  Laws Amendment  Order  1963,  and  shall  be  read  as  one  with  the Existing Laws Amendment Order 1962 (in this Order referred to as 'the previous Order').
+Citation.
+
+1. (1)  This  Order  may  be  cited  as  the  Existing  Laws Amendment  Order  1963,  and  shall  be  read  as  one  with  the Existing Laws Amendment Order 1962 (in this Order referred to as 'the previous Order').
 
 .     .      .     .     .     .    .    .      .     .      .    .    .      .      .     .     .     .
 
 .     .      .     .     .     .    .    .      .     .      .    .    .      .      .     .     .     .
 
-- Where in any existing law it is provided that-
+Charge on Consolidated Fund.
 
-- Fund. (a) any expenditure is a charge on the public funds of the former Colony of Trinidad and Tobago;
+5. Where in any existing law it is provided that—
 
-Charge on Consolidated
+(a) any expenditure is a charge on the public funds of the former Colony of Trinidad and Tobago;
 
 (b) any  money  for  meeting  expenditure  shall  be appropriated out of the said public funds; or
 
@@ -5290,11 +5435,13 @@ Charge on Consolidated
 
 that provision shall have effect as if it charged such expenditure on the Consolidated Fund.
 
+Legislative matters.
+
 6. (1)  Subject to this Order, for any reference in an existing law to a legislature of the former Colony of Trinidad and Tobago there  is  substituted  a  reference  to  Parliament;  and  for  any reference to a chamber of such legislature there is substituted a reference to the corresponding chamber of Parliament.
 
 (2)  Subject to subsection (3), where under any existing law  such  a  legislature  had  power  to  approve,  affirm,  confirm, amend or do any matter or thing by resolution, that power may be exercised  by  a  resolution  of  each  chamber  of  Parliament  or, where that power was exercisable by a single chamber of such legislature,  of  the  corresponding  chamber  of  Parliament;  and such law shall be construed accordingly.
 
-(3)  Where under any existing law such a legislature had power to annul or revoke any matter or thing by resolution, that Legislative matters.
+(3)  Where under any existing law such a legislature had power to annul or revoke any matter or thing by resolution, that
 
 L.R.O. 1/2013
 
@@ -5306,7 +5453,7 @@ L.R.O. 1/2013
 
 [Subsidiary]
 
-Chap. 1:01 Chap. 1:01
+Chap. 1:01
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
@@ -5318,7 +5465,9 @@ power may, in like  manner,  be  exercised  by  both  chambers  of Parliament  o
 
 (4)  Where  under  any  existing  law  any  matter  or  thing was required to be submitted to or laid before such a legislature, then that matter or thing shall in like manner, be submitted to or laid before each chamber of Parliament or, where the matter or thing  was  required  to  be  submitted  to  or  laid  before  a  single chamber  of  such  legislature,  the  corresponding  chamber  of Parliament and such law shall be construed accordingly.
 
-(5)  The  Legislative  Council  (Powers  and  Privileges) Ordinance shall be cited as the House of Representatives (Powers and Privileges) Ordinance and-
+Chap. 1:01
+
+(5)  The  Legislative  Council  (Powers  and  Privileges) Ordinance shall be cited as the House of Representatives (Powers and Privileges) Ordinance and—
 
 (a) for  any  reference  to  the  Legislative  Council therein  and  in  the  long  title  thereto,  there  is substituted a reference to the House of Representatives,  and  for  any  reference  to  the Speaker,  Deputy  Speaker  or  other  member  or officer  of  the  Council,  there  is  substituted  a reference  to  the  Speaker,  Deputy  Speaker or  other  corresponding  member  or  officer  of the House;
 
@@ -5408,9 +5557,9 @@ a  reference  to  the  Seal  of  the  President  of  the  Republic  of
 
 Trinidad and Tobago.
 
-- Any  reference  to  Her  Majesty's  Counsel  or  Queen's Counsel  whichever  expression  is  used  shall  be  read  and construed as a reference to Senior Counsel in the legal profession of the Republic of Trinidad and Tobago.
+6. Any  reference  to  Her  Majesty's  Counsel  or  Queen's Counsel  whichever  expression  is  used  shall  be  read  and construed as a reference to Senior Counsel in the legal profession of the Republic of Trinidad and Tobago.
 
-(1)  A reference to the  Attorney General in  any enactment  respecting  his  functions  in  criminal  proceedings shall  be  read  and  construed  as  a  reference  to  the  Director  of Public Prosecutions.
+7. (1)  A reference to the  Attorney General in  any enactment  respecting  his  functions  in  criminal  proceedings shall  be  read  and  construed  as  a  reference  to  the  Director  of Public Prosecutions.
 
 .     .      .     .     .     .    .    .      .     .      .    .    .      .      .     .     .     .
 
@@ -5752,51 +5901,51 @@ of Trinidad and Tobago Constitution of the Republic Chap. 1:01 147 [Subsidiary]
 
 REGULATION
 
-- Citation.
+1. Citation.
 
-- Interpretation.
+2. Interpretation.
 
-- Application.
+3. Application.
 
-- Nomination of candidates.
+4. Nomination of candidates.
 
-- Decisions as to validity of nomination papers.
+5. Decisions as to validity of nomination papers.
 
-- Withdrawal of candidate.
+6. Withdrawal of candidate.
 
-- Death of candidate.
+7. Death of candidate.
 
-- Electoral College to meet on election day whether election contested or not.
+8. Electoral College to meet on election day whether election contested or not.
 
-- Mode of election.
+9. Mode of election.
 
-- Ballot papers.
+10. Ballot papers.
 
-- Officers of the Electoral College-functions and duties.
+11. Officers of the Electoral College—functions and duties.
 
-- Taking of the ballot.
+12. Taking of the ballot.
 
-- Secrecy of ballot.
+13. Secrecy of ballot.
 
-- Manner of voting.
+14. Manner of voting.
 
-- Spoiled ballots.
+15. Spoiled ballots.
 
-- Closing of poll.
+16. Closing of poll.
 
-- Procedure by Clerk after closing of poll.
+17. Procedure by Clerk after closing of poll.
 
-- Declaration of election.
+18. Declaration of election.
 
-- Report of proceedings.
+19. Report of proceedings.
 
-- Adjournments.
+20. Adjournments.
 
-- Keeping of records.
+21. Keeping of records.
 
-- Amendments.
+22. Amendments.
 
-- Speaker to regulate procedure.
+23. Speaker to regulate procedure.
 
 SCHEDULE.
 
@@ -5960,11 +6109,11 @@ Electoral College Regulations
 
 (2)  The Clerk shall call upon every member present to cast his ballot and shall immediately thereafter deliver the ballot paper to every such member who is willing to vote.
 
-(3)  The  member  shall  then  proceed  to  such  place provided  for  the  purpose  where  he  shall  mark  his  ballot  by marking an 'X' against the name of the candidate of his choice.
+(3)  The  member  shall  then  proceed  to  such  place provided  for  the  purpose  where  he  shall  mark  his  ballot  by marking an “X” against the name of the candidate of his choice.
 
 (4)  The  member  shall  then  fold  his  ballot  so  that  the initials of the Clerk can be seen without opening the ballot, return to the Clerk and display the ballot.
 
-- The Clerk shall satisfy himself-
+(5)  The Clerk shall satisfy himself—
 
 (a) that the ballot is the ballot he gave to the member;
 
@@ -5976,7 +6125,7 @@ Ballot papers.
 
 Form 2. Schedule.
 
-Officers of the Electoral Collegefunctions and duties.
+Officers of the Electoral College—functions and duties.
 
 Taking of the ballot.
 
@@ -6012,11 +6161,11 @@ Electoral College Regulations
 
 13. A place  or  places  shall  be  provided  in  order  to  ensure secrecy in the marking of the ballot.
 
-14. (1)  The  'X'  shall  be  marked  in  the  space  provided therefor on the right-hand side of the name of the candidate as printed on the ballot paper.
+14. (1)  The  “X”  shall  be  marked  in  the  space  provided therefor on the right-hand side of the name of the candidate as printed on the ballot paper.
 
-(2)  A ballot paper shall not be rejected by reason only that the 'X' is marked outside the space provided or that more than one 'X' is marked thereon so long as there is a clear indication as to the candidate for whom the member intended to vote.
+(2)  A ballot paper shall not be rejected by reason only that the “X” is marked outside the space provided or that more than one “X” is marked thereon so long as there is a clear indication as to the candidate for whom the member intended to vote.
 
-15. A  member  who  has  inadvertently  dealt  with  the  ballot paper delivered to him in such manner that it cannot conveniently be used shall return it to the Clerk who shall-
+15. A  member  who  has  inadvertently  dealt  with  the  ballot paper delivered to him in such manner that it cannot conveniently be used shall return it to the Clerk who shall—
 
 (a) deface  it  in  such  manner  as  to  render  it  a spoiled ballot;
 
@@ -6026,7 +6175,7 @@ Electoral College Regulations
 
 16. Immediately after the last member present and desirous  of  voting  has  voted,  the  Speaker  shall  announce  the close of the poll.
 
-17. (1)  Immediately after the Speaker has complied with the requirements of regulation 16 the Clerk shall-
+17. (1)  Immediately after the Speaker has complied with the requirements of regulation 16 the Clerk shall—
 
 (a) count the number of spoiled ballots, if any, and place them in the special envelope;
 
@@ -6054,11 +6203,9 @@ papers,  if  any,  the  number  of  unused  ballot papers  and  the  number  of 
 
 (e) with  the  assistance  of  at  least  one  proposer  of every candidate, if willing, count the number of votes given to each candidate on his tally sheet.
 
-- In counting the votes the Clerk shall reject all ballots-
+(2)  In counting the votes the Clerk shall reject all ballots—
 
-(a)
-
-- that  are  on  ballot  papers  that  have  not  been supplied by him;
+(a) that are on ballot papers that have not been supplied by him;
 
 (b) that have not been marked for any candidate or have not been marked in the manner prescribed by these Regulations;
 
@@ -6097,6 +6244,8 @@ of Trinidad and Tobago Constitution of the Republic
 154 | of Trinidad and Tobago Chap. 1:01
 --- | ---
 [Subsidiary] | Electoral College Regulations
+(2) The report shall be published in such form as the Speaker may direct and a copy thereof shall be sent to each member as soon as practicable.
+
 Adjournments. | 20. A meeting of the Electoral College for an election and any other meeting of the Electoral College may be adjourned from time to time by a resolution for the purpose.
 Keeping of records. | 21. All documents, Minutes and other records of the proceedings of the Electoral College at a meeting for an election, including nomination papers, ballot papers, Statement of the Poll, speeches, letters of accreditation and other communications, shall be kept in custody of the Clerk for a period of five years next after an election.
 Amendments. | 22. (1) The Electoral College shall, upon the summons of the Speaker for the purpose, meet from time to time to consider any amendments to these Regulations. (2) Where a motion for an amendment of these Regulations is presented to him by not less than twelve members the Speaker shall, within ten days of the receipt thereof, summon a meeting of the Electoral College to consider the amendments.
@@ -6156,151 +6305,51 @@ Electoral College Regulations
 
 ###### PARTICULARS  REGARDING  PROPOSERS
 
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-.......................
-
-Surname               Other Names
-
-Address
-
-Constituency
+Surname | Other Names | Address | Constituency
+--- | --- | --- | ---
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
+....................... | ....................... | ....................... | .......................
 
 Signatures of Proposers
 
-I, .....................................................................................................  nominated in  the  foregoing  nomination  paper  hereby  consent  to  such  nomination  as  candidate for  election  as  President  of  the  Republic  of  Trinidad  and  Tobago  and  name  as  my address for serving of process and papers under the Constitution of the Republic of Trinidad and Tobago and the Electoral College Regulations-
-
-Address
-
+{
+...............................................................
+................................................................
+................................................................
+................................................................
+................................................................
+................................................................
+................................................................
+................................................................
+................................................................
+................................................................
+................................................................
 ................................................................
 
-................................................................
+I, ..................................................................................................... nominated
+in the foregoing nomination paper hereby consent to such nomination as candidate
+for election as President of the Republic of Trinidad and Tobago and name as my
+address for serving of process and papers under the Constitution of the Republic of
+Trinidad and Tobago and the Electoral College Regulations—
 
+Address ................................................................
+................................................................
 ................................................................
 
 Witness my hand this ....................... day of ..................................................... 20.......
 
 .................................................
-
 (Signature)
-
-{
-
-...............................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
-
-................................................................
 
 [[END OF PAGE 156]]
 
@@ -6371,27 +6420,26 @@ Electoral College Regulations
 
 ##### STATEMENT  OF  THE  POLL
 
-Number of ballots cast for           ...........................                         ...........................
-
 In the Electoral College
 
-Number of ballot papers received from the Speaker                       ...........................
+Number of ballot papers received from the Speaker ...........................
 
-Number of ballots cast for           ...........................                         ...........................
+Number of ballots cast for ........................... ...........................
 
-Number of ballots cast for           ...........................                         ...........................
+Number of ballots cast for ........................... ...........................
 
-Number of rejected ballots          ...........................                         ...........................
+Number of ballots cast for ........................... ...........................
 
-(a) Total number of ballots found in box           …                        ...........................
+Number of rejected ballots ........................... ...........................
 
-(b) Number of spoiled ballot papers         …     …                        ...........................
+(a) Total number of ballots found in box … ...........................
 
-(c) Number of unused ballot papers undetached from the book     …     …       …         …    …                        ...........................
+(b) Number of spoiled ballot papers … … ...........................
 
-Total           …       …
+(c) Number of unused ballot papers undetached
+from the book … … … … … ...........................
 
-…       …        …     …                        ...........................
+Total … … … … … … ...........................
 
 I  HEREBY  CERTIFY that  the  above  statement  is  correct  and  that  a  copy  was handed to the Speaker.
 
@@ -6405,7 +6453,7 @@ Clerk.
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-of Trinidad and Tobago Constitution of the Republic | Chap. 1:01
+of Trinidad and Tobago Constitution of the Republic | Chap. 1:01 159
 --- | ---
 ## PUBLIC SERVICE COMMISSION
 [Subsidiary]
@@ -6481,13 +6529,9 @@ Public Service Commission (Delegation of Powers) Order
 
 (b) to  transfer  a  public  officer  from  an  office  in  a  grade  in  the Ministry or Department to which such an officer is assigned to a  similar  office  in  that  grade  in  the  same  Ministry  with  no alteration in remuneration up to and including Salary Range 68 and this power shall be exercised subject to the provisions of regulation 29 of the Regulations which requires notice to be given to such officer and to the right of such officer and to make representations to the Commission;
 
-(c)
+(c) to appoint persons temporarily to offices in the public service for periods not exceeding six months at a time where such persons have already been appointed temporarily by the Public Service Commission for a fixed period;
 
-- to appoint persons temporarily to offices in the public service for periods not exceeding six months at a time where such persons  have  already  been  appointed  temporarily  by  the Public Service Commission for a fixed period;
-
-(d)
-
-- to  confirm  the  appointment  of  a  public  officer  to  a  public office after consideration of all performance appraisal reports
+(d) to confirm the appointment of a public officer to a public office after consideration of all performance appraisal reports
 
 [[END OF PAGE 160]]
 
@@ -6507,17 +6551,24 @@ Public Service Commission (Delegation of Powers) Order
 
 and medical reports on the officer, where applicable during the  probationary  period  if  satisfied  that  the  service  of  the officer on probation has been satisfactory.
 
-2. The powers delegated in this Part are in respect of public officers in the Ministry under his supervision who hold the public offices specified in Salary Ranges Nos. 1 to 68 of the Classification of Offices set out in the First Schedule to the Civil Service Act, except that the power to confirm appointments to public offices applies to all offices within the Ministry or Department. Application. Ch. 23:01.
+2. The powers delegated in this Part are in respect of public officers in the Ministry under his supervision who hold the public offices specified in Salary Ranges Nos. 1 to 68 of the Classification of Offices set out in the First Schedule to the Civil Service Act, except that the power to confirm appointments to public offices applies to all offices within the Ministry or Department.
 
-- The powers delegated in this Part do not apply to offices, the appointment or promotion to which is subject to consultation with the Prime Minister. Application.
+Application.
+Ch. 23:01.
 
-- A Permanent Secretary or Head of Department shall submit to the Commission  once  in  every  quarter  a  report  of  the  exercise  of  the  powers delegated to him. Report to Commission.
+3. The powers delegated in this Part do not apply to offices, the appointment or promotion to which is subject to consultation with the Prime Minister.
+
+Application.
+
+4. A Permanent Secretary or Head of Department shall submit to the Commission once in every quarter a report of the exercise of the powers delegated to him.
+
+Report to Commission.
 
 #### PART  III
 
 ##### DEPUTY  PERMANENT  SECRETARIES
 
-- The powers delegated to Deputy Permanent Secretaries are as follows:
+1. The powers delegated to Deputy Permanent Secretaries are as follows:
 
 (a) to appoint a public officer to act in a public office in the Civil Service in Salary Ranges up to and including Salary Range 45 for periods up to six months, in the exercise of which power the Deputy Permanent Secretary shall apply the principles of selection  prescribed  in  regulations  18  and  26  and  the provisions of regulation 25 of the Regulations;
 
@@ -6552,6 +6603,8 @@ of Trinidad and Tobago Constitution of the Republic
 [Subsidiary] | Public Service Commission (Delegation of Powers) Order
 Application. | 3. The powers hereby delegated do not apply to offices the appointment or promotion to which is subject to consultation with the Prime Minister.
 Report to Commission. | 4. A Deputy Permanent Secretary shall submit to the Commission once in every quarter through the Permanent Secretary a report on the exercise of the power delegated to him.
+#### PART  IV
+
 ##### DIRECTORS, HUMAN RESOURCES
 Powers delegated. | 1. The powers delegated to Directors, Human Resources are as follows:
 Acting appointment. | (a) to appoint a public officer to act in a public office in the Civil Service up to and including Salary Range 34 for periods up to six months, in the exercise of which power delegated the Directors, Human Resources shall apply the principles of selection prescribed in regulations 18 and 26 and the provisions of regulation 25 of the Regulations;
@@ -6597,11 +6650,13 @@ Public Service Commission (Delegation of Powers) Order
 
 in the Central Statistical Office;
 
-(b) to remove and exercise disciplinary control over any person appointed under and in exercise of the power of appointment delegated under paragraph (a) .
+(b) to remove and exercise disciplinary control over any person appointed under and in exercise of the power of appointment delegated under paragraph (a).
 
-- All appointments made under this Part shall be on a temporary basis.
+(2) All appointments made under this Part shall be on a temporary basis.
 
-- Report to Commission. (3)  The Director of Statistics shall submit to the Commission once in every quarter, a report of the exercise of any of the powers delegated under this Part.
+(3) The Director of Statistics shall submit to the Commission once in every quarter, a report of the exercise of any of the powers delegated under this Part.
+
+Report to Commission.
 
 #### PART  VII
 
@@ -6628,7 +6683,13 @@ of Trinidad and Tobago Constitution of the Republic
 164 | Chap. 1:01 | of Trinidad and Tobago
 --- | --- | ---
 [Subsidiary] | Public Service Commission (Delegation of Powers) Order
-Acting Appointment. | (c) | the power to appoint prison officers to act in offices in the Prison Service below the office of Prison Supervisor and in the exercise of this power the Commissioner shall apply the principles of selection prescribed in regulation 172 of the Regulations;
+to terminate an appointment on probation or extend a period of probation under regulation 44 of the Regulations;
+
+(b) in the case of a person recruited for training to serve as a prison officer below the rank of Prison Supervisor, the power to terminate the appointment at any time on the ground of unsuitability arising from any cause;
+
+Acting Appointment.
+
+(c) the power to appoint prison officers to act in offices in the Prison Service below the office of Prison Supervisor and in the exercise of this power the Commissioner shall apply the principles of selection prescribed in regulation 172 of the Regulations;
 Transfers. | (d) | the power to transfer prison officers from one Prison to another;
 Suspension. | (e) | the power to direct a prison officer to cease to report for duty in accordance with regulation 88 of the Regulations and the Commissioner shall report the exercise of this power forthwith to the Commission;
 Resignation. | (f) | the functions of the Commission under regulation 48 of the Regulations in respect of a prison officer in an office in the Prison Service below the office of Prison Supervisor.
@@ -6673,13 +6734,15 @@ terminate the appointment at any time on the ground of unsuitability arising fro
 (e) | the power to direct a fire officer to cease to report for duty in accordance with regulation 88 of the Regulations and the Chief Fire Officer shall report the exercise of this power forthwith to the Commission; | Suspension.
 (f) | the functions of the Commission under regulation 164 of the Regulations in respect of a fire officer in an office in the Second Division of the Fire Service below the office of Fire Station Officer. | Resignation.
 
-- The Chief Fire Officer shall submit to the Commission, once in every quarter, a report of the exercise of any of the powers delegated to the Chief Fire Officer and to any other fire officer. Report to Commission.
+2. The Chief Fire Officer shall submit to the Commission, once in every quarter, a report of the exercise of any of the powers delegated to the Chief Fire Officer and to any other fire officer.
+
+Report to Commission.
 
 #### PART  IX
 
 ##### CHIEF  ADMINISTRATOR,  TOBAGO  HOUSE  OF ASSEMBLY,  TOBAGO
 
-- The powers delegated to the Chief Administrator, Tobago House of Assembly, Tobago are as follows:
+1. The powers delegated to the Chief Administrator, Tobago House of Assembly, Tobago are as follows:
 
 (a) to  appoint  persons  on  recruitment  from  outside  the  Civil Service in a temporary capacity to an office in the Tobago House of Assembly, subject to section 26(1) and the Sixth Schedule of the Tobago House of Assembly Act, No. 40 of 1996  which  powers  are  in  respect  of  the  public  offices specified in the classification of offices set out in the First Schedule to the Civil Service Act, and which are regarded as the  basic  normal  entry  points  to  the  general  clerical, secretarial and manipulative classes; Appointments. Ch. 23:01.
 
@@ -6699,27 +6762,39 @@ L.R.O. 1/2009
 
 Chap. 1:01
 
-[Subsidiary] | Public Service Commission (Delegation of Powers) Order
---- | ---
-Transfers. | provisions of regulation 25 of the Regulations; (c) to transfer a public officer from an office in a grade in the Tobago House of Assembly, to which such an officer is assigned to a similar office in that grade within the Tobago House of Assembly, with no alteration in his remuneration which power shall be exercised by the Chief Administrator subject to the provisions of regulation 29. (d) to direct a public officer assigned to an office in the Tobago House of Assembly, to cease to report for duty in accordance with regulation 88 of the Regulations and the Chief Administrator, Tobago House of Assembly, shall report the exercise of this power forthwith to the Commission; (e) to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline described in Column 1 of the Second Schedule being a breach of a regulation in respect of the Civil Service as specified in Column 2.
-
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
-2. In  the  exercise  of  the  powers  delegated  under  paragraph  1 (e) ,  the Chief Administrator shall-
+[Subsidiary]
 
-(a) exercise  the  powers  of  the  Commission  under  regulation 90(6) and (7);
+Public Service Commission (Delegation of Powers) Order
 
-(b) assign a public officer of a grade higher than that of the officer charged with misconduct or indiscipline, but in no case of a grade  lower  than  that  of  the  Clerk  IV  to  be  a  disciplinary tribunal and that officer shall hear the facts and make a report thereon  to  the  Chief  Administrator  in  accordance  with  the provisions respecting the function and duties of a Disciplinary Tribunal as prescribed in the Regulations;
+months whether such acting appointment is in a vacant office or not except that where an acting appointment is made in a vacant office the officer must be informed that such acting appointment would not give him any prior claim to eventual permanent appointment thereto and in respect of such power the Chief Administrator shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the provisions of regulation 25 of the Regulations;
 
-(c) any  fine  which  the  Chief  Administrator  imposes  under paragraph (e) shall not exceed an amount calculated on four days pay per month to a maximum of three months.
+Transfers.
+
+(c) to transfer a public officer from an office in a grade in the Tobago House of Assembly, to which such an officer is assigned to a similar office in that grade within the Tobago House of Assembly, with no alteration in his remuneration which power shall be exercised by the Chief Administrator subject to the provisions of regulation 29.
+
+(d) to direct a public officer assigned to an office in the Tobago House of Assembly, to cease to report for duty in accordance with regulation 88 of the Regulations and the Chief Administrator, Tobago House of Assembly, shall report the exercise of this power forthwith to the Commission;
+
+(e) to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline described in Column 1 of the Second Schedule being a breach of a regulation in respect of the Civil Service as specified in Column 2.
+
+2. In the exercise of the powers delegated under paragraph 1(e), the Chief Administrator shall—
+
+(a) exercise the powers of the Commission under regulation 90(6) and (7);
+
+(b) assign a public officer of a grade higher than that of the officer charged with misconduct or indiscipline, but in no case of a grade lower than that of the Clerk IV to be a disciplinary tribunal and that officer shall hear the facts and make a report thereon to the Chief Administrator in accordance with the provisions respecting the function and duties of a Disciplinary Tribunal as prescribed in the Regulations;
+
+(c) any fine which the Chief Administrator imposes under paragraph (e) shall not exceed an amount calculated on four days pay per month to a maximum of three months.
 
 3.  The  Chief Administrator  shall  submit  to  the  Commission  once  in every quarter, a report on the exercise of powers delegated to him in this Part.
 
 - Report.
 
-Application. 4. The  powers  and  functions  delegated  in  this  Part  are  in  respect  of public officers who hold any of the public offices specified in Salary Ranges Public Service Commission (Delegation of Powers) Order Nos.  1  to  68  inclusive  of  the  Classification  of  Offices  set  out  in  the  First Schedule to the Civil Service Act, 1965, except that the powers delegated do not  apply  to  offices  the  appointment  or  promotion  to  which  is  subject  to consultation with the Prime Minister.
+Application.
+
+4. The powers and functions delegated in this Part are in respect of public officers who hold any of the public offices specified in Salary Ranges
 
 [[END OF PAGE 166]]
 
@@ -6732,6 +6807,8 @@ of Trinidad and Tobago Constitution of the Republic
 Chap. 1:01
 
 167
+
+Nos. 1 to 68 inclusive of the Classification of Offices set out in the First Schedule to the Civil Service Act, 1965, except that the powers delegated do not apply to offices the appointment or promotion to which is subject to consultation with the Prime Minister.
 
 #### PART  X
 
@@ -6771,14 +6848,27 @@ of Trinidad and Tobago Constitution of the Republic
 
 168 | Chap. 1:01 | of Trinidad and Tobago
 --- | --- | ---
-[Subsidiary] | appointment would not give him any prior claim to eventual permanent appointment thereto, in respect of which power the Permanent Secretary shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the Public Service Commission (Delegation of Powers) Order
-Transfers. | (c) | provisions of regulation 25 of the Regulations; to transfer a public officer from an office in a grade in the Department of Central Administrative Services, Tobago to which such an officer is assigned to a similar office in that grade in the same Department of Central Administrative Services, Tobago, with no alteration in his remuneration, which power shall be exercised by the Permanent Secretary subject to the provisions of regulation 29 of the Regulations, which require notice to be given to such officer and which preserves the right of such officer to make representations to the Commission;
-(d) | to direct a public officer assigned to an office in the Department of Central Administrative Services, Tobago, to cease to report for duty in accordance with regulation 88 of the Regulations, and the Permanent Secretary, Central Administrative Services, Tobago shall report the exercise of this power forthwith to the Commission;
-(e) | to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline described in column 1 of the Second Schedule being a breach of a regulation in respect of the Civil Service as specified in Column 2.
-2. In exercise of the power delegated under paragraph 1 (e) the Permanent Secretary shall-
-(a) | exercise the powers of the Commission under regulation 90(6) and (7);
-(b) | assign a public officer of a grade higher than that of the officer charged with misconduct or indiscipline but in no case of a grade lower than that of a Clerk IV to be a disciplinary tribunal, and that officer shall hear the evidence, find the facts and make a report thereon to the Permanent Secretary in accordance with the provisions respecting the functions and duties of a Disciplinary Tribunal as prescribed in the Regulations.
-3. Any fine which the Permanent Secretary imposes under paragraph 1 (e) shall not exceed an amount calculated on four days pay per
+[Subsidiary]
+
+Public Service Commission (Delegation of Powers) Order
+
+appointment would not give him any prior claim to eventual permanent appointment thereto, in respect of which power the Permanent Secretary shall apply the principles of selection prescribed in regulations 18, 24 and 26 and the provisions of regulation 25 of the Regulations;
+
+Transfers.
+
+(c) to transfer a public officer from an office in a grade in the Department of Central Administrative Services, Tobago to which such an officer is assigned to a similar office in that grade in the same Department of Central Administrative Services, Tobago, with no alteration in his remuneration, which power shall be exercised by the Permanent Secretary subject to the provisions of regulation 29 of the Regulations, which require notice to be given to such officer and which preserves the right of such officer to make representations to the Commission;
+
+(d) to direct a public officer assigned to an office in the Department of Central Administrative Services, Tobago, to cease to report for duty in accordance with regulation 88 of the Regulations, and the Permanent Secretary, Central Administrative Services, Tobago shall report the exercise of this power forthwith to the Commission;
+
+(e) to exercise disciplinary control in respect of any alleged act of misconduct or indiscipline described in column 1 of the Second Schedule being a breach of a regulation in respect of the Civil Service as specified in Column 2.
+
+2. In exercise of the power delegated under paragraph 1(e) the Permanent Secretary shall—
+
+(a) exercise the powers of the Commission under regulation 90(6) and (7);
+
+(b) assign a public officer of a grade higher than that of the officer charged with misconduct or indiscipline but in no case of a grade lower than that of a Clerk IV to be a disciplinary tribunal, and that officer shall hear the evidence, find the facts and make a report thereon to the Permanent Secretary in accordance with the provisions respecting the functions and duties of a Disciplinary Tribunal as prescribed in the Regulations.
+
+3. Any fine which the Permanent Secretary imposes under paragraph 1(e) shall not exceed an amount calculated on four days pay per month to a maximum of three months.
 
 [[END OF PAGE 168]]
 
@@ -6833,15 +6923,19 @@ of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission (Delegation of Powers) Order
 
-### SECOND  SCHEDULE -Continued
+### SECOND  SCHEDULE—Continued
 
-COLUMN 1 | COLUMN 2 CIVIL SERVICE Reference to Regulation of Civil Service Regulations | COLUMN 3 FIRE SERVICE Reference to Regulation of Fire Service (Terms and Conditions of Employment) | COLUMN 4 PRISON SERVICE Reference to Regulation of Prison Service (Code of Conduct) Regulations, 1990
+COLUMN 1 Description of Misconduct | COLUMN 2 CIVIL SERVICE Reference to Regulation of Civil Service Regulations | COLUMN 3 FIRE SERVICE Reference to Regulation of Fire Service (Terms and Conditions of Employment) Regulations, 1998 | COLUMN 4 PRISON SERVICE Reference to Regulation of Prison Service (Code of Conduct) Regulations, 1990
 --- | --- | --- | ---
-Description of Misconduct | Regulation 135(1) | Regulation 101(1) Regulations, 1998 | Regulation 4(1)
-Failure to attend to matters promptly within scope of office Lack of courtesy to a member of the public or member of the: (a) Civil Service | Regulation 135(2)
-(b) Fire Service (c) Prison Service Wilful failure to perform duties | Regulation 135(3) | Regulation 101(5) | Regulation 4(2)
-Absence without leave or reasonable excuse | Regulation 136(1) | Regulation 103(1)
-Failure to report absence from country Failure to disclose activities outside | Regulation 136(2) Regulation 137(2) | Regulation 103(2) and (3) Regulation 104(1) (b) and (2) | Regulation 6(1) (d)
+Failure to attend to matters promptly within scope of office | Regulation 135(1) | Regulation 101(1) | Regulation 4(1)
+Lack of courtesy to a member of the public or member of the: | | |
+(a) Civil Service | Regulation 135(2) | |
+(b) Fire Service | | Regulation 101(5) |
+(c) Prison Service | | | Regulation 4(2)
+Wilful failure to perform duties | Regulation 135(3) | |
+Absence without leave or reasonable excuse | Regulation 136(1) | Regulation 103(1) |
+Failure to report absence from country | Regulation 136(2) | Regulation 103(2) and (3) |
+Failure to disclose activities outside Service | Regulation 137(2) | Regulation 104(1)(b) and (2) | Regulation 6(1)(d)
 Breach of rules relating to broadcast | Regulation 140 | Regulation 110 | Regulation 12
 
 [[END OF PAGE 170]]
@@ -6856,13 +6950,16 @@ of Trinidad and Tobago | Chap. 1:01 171
 --- | --- | --- | ---
 Public Service Commission (Delegation of Powers) Order | [Subsidiary]
 COLUMN 1 Description of Misconduct | COLUMN 2 CIVIL SERVICE Reference to Regulation of Civil Service Regulations | COLUMN 3 FIRE SERVICE Reference to Regulation of Fire Service (Terms and Conditions of Employment) Regulations, 1998 | COLUMN 4 PRISON SERVICE Reference to Regulation of Prison Service (Code of Conduct) Regulations, 1990
-of indebtedness to the extent it impairs | Regulation 141 | Regulation 111 | Regulation 13(1)
-Act efficiency, etc.
-Failure to notify of bankruptcy proceedings Failure to perform duty | Regulation 142 Regulation 149(1) (a) | Regulation 112 | Regulation 14 Regulation 20(1) (a)
-in a proper manner Contravention of the: (a) Civil Service | Regulation 149(1) (b) Regulation 149(1) (c) | Regulation 119(1) (a)
-Regulations and other written law; (b) Fire Service (Terms and Conditions of Employment) Regulations, 1998 and other written law; (c) Prison Service (Code of Conduct) Regulations, 1990 | Regulation 149(1) (d) | Regulation 119(1) (b) Regulation 119(1) (c) Regulation 119(1) (d) | Regulation 20(1) (b) Regulation 20(1) (c) Regulation 20(1) (d)
-Act that is prejudicial to, or discredits reputation of the Service | Regulation 20(2) (c)
-Disobedience to orders | Regulation 149(2) (b) | Regulation 119(2) (c)
+--- | --- | --- | ---
+Act of indebtedness to the extent it impairs efficiency, etc. | Regulation 141 | Regulation 111 | Regulation 13(1)
+Failure to notify of bankruptcy proceedings | Regulation 142 | Regulation 112 | Regulation 14
+Failure to perform duty in a proper manner | Regulation 149(1)(a) | Regulation 119(1)(a) | Regulation 20(1)(a)
+Contravention of the: | | |
+(a) Civil Service Regulations and other written law; | Regulation 149(1)(b); Regulation 149(1)(c) | |
+(b) Fire Service (Terms and Conditions of Employment) Regulations, 1998 and other written law; | | Regulation 119(1)(b); Regulation 119(1)(c) |
+(c) Prison Service (Code of Conduct) Regulations, 1990 | | | Regulation 20(1)(b)
+Act that is prejudicial to, or discredits reputation of the Service | Regulation 149(1)(d) | Regulation 119(1)(d) | Regulation 20(1)(c); Regulation 20(1)(d)
+Disobedience to orders | Regulation 149(2)(b) | Regulation 119(2)(c) | Regulation 20(2)(c)
 
 L.R.O. 1/2009
 
@@ -6882,7 +6979,7 @@ Chap. 1:01
 
 Public Service Commission (Delegation of Powers) Order
 
-### SECOND  SCHEDULE -Continued
+### SECOND  SCHEDULE—Continued
 
 COLUMN 1 Description of Misconduct | COLUMN 2 CIVIL SERVICE Reference to Regulation of Civil Service Regulations | COLUMN 3 FIRE SERVICE Reference to Regulation of Fire Service (Terms and Conditions of Employment) Regulations, 1998 | COLUMN 4 PRISON SERVICE Reference to Regulation of Prison Service (Code of Conduct) Regulations, 1990
 --- | --- | --- | ---
@@ -6915,7 +7012,9 @@ Chap. 1:01
 
 *made or deemed to be made under section 127 of the Constitution
 
-1. This  Order  may  be  cited  as  the  Teaching  Service Commission (Delegation of Powers) Order.
+Citation.
+
+1. This Order may be cited as the Teaching Service Commission (Delegation of Powers) Order.
 
 2. In  this  Order,  'regulation'  means  regulation  of  the Public  Service  Commission  Regulations,  which  Regulations have  been  adopted  by  the  Teaching  Service  Commission;  and 'the Regulations' shall be construed accordingly.
 
@@ -6933,9 +7032,9 @@ Chap. 1:01
 
 (2)   In the exercise of the power delegated under subparagraph (1), the Permanent Secretary shall apply the provisions of regulation 25, and the principles of selection prescribed in regulation 26.
 
-(3)   The power hereby delegated does not apply to-
+(3)   The power hereby delegated does not apply to—
 
-(a) any office in an assisted school; or Citation.
+(a) any office in an assisted school; or
 
 *Most of these delegations were made under section 99C of the former Constitution and were saved and deemed to be made under the Constitution by section 13 of the Constitution of the Republic of Trinidad and Tobago Act.
 
@@ -7013,56 +7112,6 @@ Teaching Service Commission (Delegation of Powers) Order
 
 [[START OF PAGE 175]]
 
-1.
-
-- Citation.
-
-- Interpretation.
-
-- 2A. Application and saving of regulations to officers in the Fire Service.
-
-## CHAPTER  II
-
-### THE  PUBLIC  SERVICE  COMMISSION
-
-- Oath of Office.
-
-- Meetings.
-
-- Procedure, quorum and voting.
-
-- Decisions other than at meetings.
-
-- Record of meetings and decisions. Dissents.
-
-- Consultation with other persons.
-
-- Non-compliance.
-
-- Instrument of delegation to be published.
-
-## CHAPTER  III
-
-### APPOINTMENTS,  PROMOTIONS  AND  TRANSFERS
-
-- Application for appointment.
-
-- Selection for appointment on basis of competitive examination.
-
-- Filling of vacancies.
-
-- Appointments to be by competition within the particular service.
-
-- Advertisement of vacancies.
-
-- Selection Boards.
-
-- Examination Boards.
-
-- Principle of selection for promotion.
-
-- Promotion to Administrative Class.
-
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
@@ -7083,6 +7132,56 @@ REGULATION
 
 ### PRELIMINARY
 
+1. Citation.
+
+2. Interpretation.
+
+2A. Application and saving of regulations to officers in the Fire Service.
+
+## CHAPTER  II
+
+### THE  PUBLIC  SERVICE  COMMISSION
+
+3. Oath of Office.
+
+4. Meetings.
+
+5. Procedure, quorum and voting.
+
+6. Decisions other than at meetings.
+
+7. Record of meetings and decisions.
+
+Dissents.
+
+8. Consultation with other persons.
+
+9. Non-compliance.
+
+10. Instrument of delegation to be published.
+
+## CHAPTER  III
+
+### APPOINTMENTS,  PROMOTIONS  AND  TRANSFERS
+
+11. Application for appointment.
+
+12. Selection for appointment on basis of competitive examination.
+
+13. Filling of vacancies.
+
+14. Appointments to be by competition within the particular service.
+
+15. Advertisement of vacancies.
+
+16. Selection Boards.
+
+17. Examination Boards.
+
+18. Principle of selection for promotion.
+
+19. Promotion to Administrative Class.
+
 L.R.O. 1/2013
 
 [[END OF PAGE 175]]
@@ -7101,135 +7200,127 @@ of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission Regulations
 
-### ARRANGEMENT  OF  REGULATIONSContinued
+### ARRANGEMENT  OF  REGULATIONS—Continued
 
 REGULATION
 
-- Seniority lists to be kept up-to-date.
+20. Seniority lists to be kept up-to-date.
 
-- Seniority  of  officer  to  be  reckoned  from  date  of  appointment or reappointment.
+21. Seniority of officer to be reckoned from date of appointment or reappointment.
 
-- Commission to determine seniority.
+22. Commission to determine seniority.
 
-- Commencing pay.
+23. Commencing pay.
 
-- Principles of selection for acting appointment as prelude to appointment.
+24. Principles of selection for acting appointment as prelude to appointment.
 
-- Permanent Secretary to notify eligible officers of vacancy.
+25. Permanent Secretary to notify eligible officers of vacancy.
 
-- Principles  of  selection  for  acting  appointment  not  as  prelude to appointment.
+26. Principles of selection for acting appointment not as prelude to appointment.
 
-- Permanent Secretary to submit recommendations in advance.
+27. Permanent Secretary to submit recommendations in advance.
 
-- Permanent Secretary to state reasons for passing over officers.
+28. Permanent Secretary to state reasons for passing over officers.
 
-- Transfers.
+29. Transfers.
 
-- Officer to assume duties pending review of transfer order. Exception.
+30. Officer to assume duties pending review of transfer order. Exception.
 
-- Date of appointment.
+31. Date of appointment.
 
-- Medical examination on appointment.
+32. Medical examination on appointment.
 
-- Exemption from medical examination.
+33. Exemption from medical examination.
 
 ## CHAPTER  IV
 
 ### STAFF  REPORTS
 
-- Staff Reports.
+34. Staff Reports.
 
-- Officer to be informed of adverse report.
+35. Officer to be informed of adverse report.
 
-(Revoked by LN 282/1998).
+36. (Revoked by LN 282/1998).
 
 ## CHAPTER  V
 
-### PROBATIONARY   APPOINTMENTS
+### PROBATIONARY  APPOINTMENTS
 
-- Period of probation on first appointment.
+37. Period of probation on first appointment.
 
-- Period of probation on appointment.
+38. Period of probation on appointment.
 
-- Period of probation on promotion.
+39. Period of probation on promotion.
 
-- Waiver of portion of period of probation.
+40. Waiver of portion of period of probation.
 
 [[END OF PAGE 176]]
 
 [[START OF PAGE 177]]
 
-REGULATION
-
-- Principles to be observed while officer on probation.
-
-- Confidential reports on officer on probation.
-
-- Officer may make representation on recommendation of Permanent Secretary.
-
-- Commission to confirm appointment.
-
-- Incremental date when period of probation extended.
-
-- Permanent Secretary to keep record.
-
-- Permanent  Secretary  not  to  allow  payment  out  of  public  funds  in certain circumstances.
-
-## CHAPTER  VI
-
-### RESIGNATIONS,  RETIREMENTS  AND  TERMINATION OF  APPOINTMENTS
-
-- Resignation.
-
-- Abandonment.
-
-- Reasons for termination of appointment.
-
-- Compulsory and voluntary retirement.
-
-- Permanent  Secretary  to  notify  Director  of  officers  aged  60  years, compulsory.
-
-- Premature retirement.
-
-- Retirement in the public interest.
-
-- Termination of appointment on abolition of office or for facilitating improvement in the organisation of a Ministry or Department.
-
-- Termination of appointment on grounds of inefficiency.
-
-(Revoked by LN 282/1998).
-
-- Medical Boards.
-
-- Unfit officers.
-
-60.
-
-83.
-
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
-
-Public Service Commission Regulations
-
-## CHAPTER  VII
-
-### CONDUCT
-
-}
-
-(Revoked by LN 28/1991).
-
-to
 
 Chap. 1:01
 
 177
 
+Public Service Commission Regulations
+
 [Subsidiary]
 
 L.R.O. 1/2013
+
+REGULATION
+
+41. Principles to be observed while officer on probation.
+
+42. Confidential reports on officer on probation.
+
+43. Officer may make representation on recommendation of Permanent Secretary.
+
+44. Commission to confirm appointment.
+
+45. Incremental date when period of probation extended.
+
+46. Permanent Secretary to keep record.
+
+47. Permanent Secretary not to allow payment out of public funds in certain circumstances.
+
+## CHAPTER  VI
+
+### RESIGNATIONS,  RETIREMENTS  AND  TERMINATION OF  APPOINTMENTS
+
+48. Resignation.
+
+49. Abandonment.
+
+50. Reasons for termination of appointment.
+
+51. Compulsory and voluntary retirement.
+
+52. Permanent Secretary to notify Director of officers aged 60 years, compulsory.
+
+53. Premature retirement.
+
+54. Retirement in the public interest.
+
+55. Termination of appointment on abolition of office or for facilitating improvement in the organisation of a Ministry or Department.
+
+56. Termination of appointment on grounds of inefficiency.
+
+57. (Revoked by LN 282/1998).
+
+58. Medical Boards.
+
+59. Unfit officers.
+
+## CHAPTER  VII
+
+### CONDUCT
+
+60. to 83. (Revoked by LN 28/1991).
 
 [[END OF PAGE 177]]
 
@@ -7247,7 +7338,7 @@ of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission Regulations
 
-### ARRANGEMENT  OF  REGULATIONSContinued
+### ARRANGEMENT  OF  REGULATIONS—Continued
 
 REGULATION
 
@@ -7257,51 +7348,51 @@ REGULATION
 
 ###### GENERAL
 
-- Officer liable to disciplinary proceedings.
+84. Officer liable to disciplinary proceedings.
 
-- 84A. Definition.
+84A. Definition.
 
-- 84B.   Commission to exercise disciplinary control on Permanent Secretary or Head of Department.
+84B. Commission to exercise disciplinary control on Permanent Secretary or Head of Department.
 
-- Permanent Secretary to report misconduct or indiscipline.
+85. Permanent Secretary to report misconduct or indiscipline.
 
-- Permanent Secretary may inform Police of offence.
+86. Permanent Secretary may inform Police of offence.
 
-- Commission  to  issue  instructions  on  how  certain  cases  to  be dealt with.
+87. Commission to issue instructions on how certain cases to be dealt with.
 
-- Suspension by Commission.
+88. Suspension by Commission.
 
-- Interdiction.
+89. Interdiction.
 
-- Investigation of charges.
+90. Investigation of charges.
 
-- Documents to be supplied to accused.
+91. Documents to be supplied to accused.
 
-- Officer  to  admit  or  deny  charge  in  writing  and  may  include explanation.
+92. Officer to admit or deny charge in writing and may include explanation.
 
-- Hearing on failure to admit or deny charge.
+93. Hearing on failure to admit or deny charge.
 
-- Witnesses.
+94. Witnesses.
 
-- Appointment of disciplinary tribunal.
+95. Appointment of disciplinary tribunal.
 
-- Duty of officers appointed to disciplinary tribunal.
+96. Duty of officers appointed to disciplinary tribunal.
 
-- Officer on charge not to be permitted leave.
+97. Officer on charge not to be permitted leave.
 
-- Procedure at hearing.
+98. Procedure at hearing.
 
-- Adjournment of hearing.
+99. Adjournment of hearing.
 
-- Hearing in absence of accused officer.
+100. Hearing in absence of accused officer.
 
-- Standard of proof.
+101. Standard of proof.
 
-- Tribunal to report. Report confidential.
+102. Tribunal to report. Report confidential.
 
-- Disciplinary tribunal may adjourn and report to Commission.
+103. Disciplinary tribunal may adjourn and report to Commission.
 
-- Disciplinary tribunal to report where evidence insufficient.
+104. Disciplinary tribunal to report where evidence insufficient.
 
 [[END OF PAGE 178]]
 
@@ -7309,87 +7400,139 @@ REGULATION
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
+of Trinidad and Tobago Constitution of the Republic
+
+Chap. 1:01
+
+179
+
+Public Service Commission Regulations
+
+[Subsidiary]
+
+L.R.O. 1/2013
+
 REGULATION
 
-- Disciplinary  tribunal  to  report  evidence  of  other  misconduct  or indiscipline disclosed at hearing of charges.
+105. Disciplinary tribunal to report evidence of other misconduct or indiscipline disclosed at hearing of charges.
 
-- Penalties that may be awarded under delegated authority.
+106. Penalties that may be awarded under delegated authority.
 
-- Commission to inform officer of penalty imposed and of his right to apply for review.
+107. Commission to inform officer of penalty imposed and of his right to apply for review.
 
-- Commission may remove officer in public interest.
+108. Commission may remove officer in public interest.
 
-- Proceedings in private.
+109. Proceedings in private.
 
-- Penalties.
+110. Penalties.
 
-111.
+111. to 113. (Revoked by LN 28/1991).
 
-to
-
-113.
-
-}
-
-- Non-payment of remuneration on conviction of a criminal charge.
+114. Non-payment of remuneration on conviction of a criminal charge.
 
 ## CHAPTER  IX
+
 ### REVIEWS
 
-to
-
-(Revoked by LN 28/1991).
-
-}
+115. to 122. (Revoked by LN 28/1991).
 
 ## CHAPTER  X
 
 ### MISCELLANEOUS
 
-- Application of Regulations to all officers.
+123. Application of Regulations to all officers.
 
-- Commission facsimile signatures.
+124. Commission facsimile signatures.
 
 ## CHAPTER  XI
+
 ### THE  TEACHING  SERVICE
 
 #### PART  I
 
 ##### PRELIMINARY
 
+125. Definitions.
+
 #### PART  II
 
 ##### APPOINTMENTS
 
-- Application for first appointment.
+126. Application for first appointment.
 
-- Duty  of  Permanent  Secretary  to  keep  separate  seniority  lists  for primary school teachers.
-
-(Revoked by LN 28/1991).
-
-115.
-
-122.
-
-- Definitions.
-
-of Trinidad and Tobago Constitution of the Republic
-
-Public Service Commission Regulations
-
-Chap. 1:01
-
-179
-
-[Subsidiary]
-
-L.R.O. 1/2013
+127. Duty of Permanent Secretary to keep separate seniority lists for primary school teachers.
 
 [[END OF PAGE 179]]
 
 [[START OF PAGE 180]]
 
+180
+
+Chap. 1:01
+
 LAWS  OF  TRINIDAD  AND  TOBAGO
+
+of Trinidad and Tobago Constitution of the Republic
+
+[Subsidiary]
+
+Public Service Commission Regulations
+
+### ARRANGEMENT  OF  REGULATIONS—Continued
+
+REGULATION
+
+128. Vacancies in Government schools.
+
+129. Vacancies in assisted schools.
+
+130. Advertising of vacancy by Commission in certain circumstances.
+
+131. Director to advertise vacancies.
+
+132. Duty of Permanent Secretary re applications in response to advertisements.
+
+133. Commission to make appointment to assisted schools.
+
+##### TRANSFERS
+
+###### (GENERAL)
+
+134. Application for transfer.
+
+135. Orders of transfer. Review of orders.
+
+136. Officer to assume duties pending review of transfer order.
+
+##### TRANSFERS
+
+###### (SPECIAL)
+
+137. Board of Management may request transfer of teacher.
+
+138. Application to be in writing.
+
+139. Board to give teacher notice of application.
+
+140. Teacher may make representation.
+
+141. Decision of Commission.
+
+142. Commission may institute disciplinary proceedings.
+
+143. Teacher not to suffer loss of service, etc., through transfers.
+
+144. No transfer without consent of Board.
+
+145. Application of Regulations.
+
+## CHAPTER  XII
+
+### THE  FIRE  SERVICE
+
+#### PART  I
+
+##### PRELIMINARY
 
 146. Definitions.
 
@@ -7401,57 +7544,57 @@ REGULATION
 
 #### PART  II
 
-##### APPOINTMENTS,  PROMOTIONS   AND   TRANSFERS
+##### APPOINTMENTS,  PROMOTIONS  AND  TRANSFERS
 
-- Commission to determine forms.
+147. Commission to determine forms.
 
-- Date of appointment.
+148. Date of appointment.
 
-- Application for appointment as Firefighter.
+149. Application for appointment as Firefighter.
 
-- Appointment to office of Firefighter.
+150. Appointment to office of Firefighter.
 
-- Application for appointment to an office in the Service (other than Firefighter).
+151. Application for appointment to an office in the Service (other than Firefighter).
 
-- Appointment generally to be by competition within the Service.
+152. Appointment generally to be by competition within the Service.
 
-- Commission may consider eligible officers who fail to apply.
+153. Commission may consider eligible officers who fail to apply.
 
-- Criteria for acting appointment.
+154. Criteria for acting appointment.
 
-- Officers to be informed of acting appointment.
+155. Officers to be informed of acting appointment.
 
-- Chief Fire Officer to submit recommendations in advance.
+156. Chief Fire Officer to submit recommendations in advance.
 
-- Acting appointment in special circumstances.
+157. Acting appointment in special circumstances.
 
-- Criteria for promotion.
+158. Criteria for promotion.
 
-- Performance appraisal report.
+159. Performance appraisal report.
 
-- Process of promotion in the Fire Service.
+160. Process of promotion in the Fire Service.
 
-- Transfer.
+161. Transfer.
 
-(N.B.LN  282/1998 which  amended  the  Regulations  did  not contain regulation 162).
+162. (N.B.—LN 282/1998 which amended the Regulations did not contain regulation 162).
 
 #### PART  III
 
 ##### CONFIRMATION
 
-- Confirmation or otherwise.
+163. Confirmation or otherwise.
 
 #### PART  IV
 
 ##### RESIGNATION,  RETIREMENT
 
-- 163A.    Resignation.
+163A. Resignation.
 
-- 163B.    Removal on abandonment.
+163B. Removal on abandonment.
 
-- 163C.    Retirement.
+163C. Retirement.
 
-- 163D.    Commission  to  issue  instructions  on  matters  not  dealt  with  in Regulations re Fire Officer.
+163D. Commission to issue instructions on matters not dealt with in Regulations re Fire Officer.
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
@@ -7483,58 +7626,59 @@ of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission Regulations
 
-### ARRANGEMENT  OF  REGULATIONSContinued
+### ARRANGEMENT  OF  REGULATIONS—Continued
 
 REGULATION
 
-164. Definitions.
+## CHAPTER  XIII
 
-## CHAPTER   XIII
 ### THE  PRISON  SERVICE
 
-#### PART   I
+#### PART  I
 
 ##### PRELIMINARY
 
-#### PART   II
+164. Definitions.
+
+#### PART  II
 
 ##### APPOINTMENTS,  PROMOTIONS  AND  TRANSFERS
 
-- Commission to determine form of application.
+165. Commission to determine form of application.
 
-- Application for appointment of Prison Officer I.
+166. Application for appointment of Prison Officer I.
 
-- Appointment of office in senior grade.
+167. Appointment of office in senior grade.
 
-- Establishment of Promotions Advisory Board.
+168. Establishment of Promotions Advisory Board.
 
-(Revoked by LN 107/2000).
+169. (Revoked by LN 107/2000).
 
-- Appointments to be by competition within the Prison Service.
+170. Appointments to be by competition within the Prison Service.
 
-- Advertisement of vacancies.
+171. Advertisement of vacancies.
 
-- Principles of selection for promotion.
+172. Principles of selection for promotion.
 
-- Director and Commissioner to keep seniority lists.
+173. Director and Commissioner to keep seniority lists.
 
-- to (Revoked by LN 28/1991).
+174. to 176. (Revoked by LN 28/1991).
 
-- 176. }
+177. Commissioner to submit recommendations in advance.
 
-- Commissioner to submit recommendations in advance.
+178. Commissioner to state reasons for passing over officers.
 
-- Commissioner to state reasons for passing over officers.
+179. Rule where power to appoint delegated.
 
-- Rule where power to appoint delegated.
-
-#### PART   III
+#### PART  III
 
 ##### DISCIPLINE
 
-- 181. (Revoked by LN 28/1991). }
+180. to 181. (Revoked by LN 28/1991).
 
-FIRST  SCHEDULE. SECOND  SCHEDULE.
+FIRST  SCHEDULE.
+
+SECOND  SCHEDULE.
 
 [[END OF PAGE 182]]
 
@@ -7558,20 +7702,39 @@ Chap. 1:01
 
 ### PRELIMINARY
 
-- Citation. 1. These  Regulations  may  be  cited  as  the  Public  Service Commission Regulations.
+Citation.
 
-2. In these Regulations- | Interpretation. [28/1991].
---- | ---
-'acting appointment' means the temporary appointment of an officer to a higher office or otherwise whether that office is vacant or not;
-'appointment' means the placing of a person in an office in the public service;
-'the Chairman' means the Chairman of the Commission;
-'Civil Service' means the Civil Service Established by the Civil Service Act; | Ch. 23:01.
-'the Commission' means the Public Service Commission constituted under section 120 of the Constitution;
-'the Constitution' means the Constitution of The Republic of Trinidad and Tobago;
-'Director' means the Director of Personnel Administration;
-'Fire Service' means the Fire Service established by the Fire Service Act; | Ch. 35:50.
-'Gazette' means the Gazette published by the order of the Government and includes supplements thereto and any Extraordinary Gazette so published;
-'Head of Department' means the officer charged with the administration of a Department not under the control of a Minister;
+1. These Regulations may be cited as the Public Service Commission Regulations.
+
+Interpretation.
+
+[28/1991].
+
+2. In these Regulations—
+
+“acting appointment” means the temporary appointment of an officer to a higher office or otherwise whether that office is vacant or not;
+
+“appointment” means the placing of a person in an office in the public service;
+
+“the Chairman” means the Chairman of the Commission;
+
+“Civil Service” means the Civil Service Established by the Civil Service Act;
+
+Ch. 23:01.
+
+“the Commission” means the Public Service Commission constituted under section 120 of the Constitution;
+
+“the Constitution” means the Constitution of The Republic of Trinidad and Tobago;
+
+“Director” means the Director of Personnel Administration;
+
+“Fire Service” means the Fire Service established by the Fire Service Act;
+
+Ch. 35:50.
+
+“Gazette” means the Gazette published by the order of the Government and includes supplements thereto and any Extraordinary Gazette so published;
+
+“Head of Department” means the officer charged with the administration of a Department not under the control of a Minister;
 
 * These Regulations were made under section 102 of the former Constitution, and continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01).
 
@@ -7603,25 +7766,25 @@ of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission Regulations
 
-'officer'  means  a  person  employed  in  that  part  of  the  public service  established  respectively  as  the  Civil  Service,  the Fire Service, the Prison Service, or any other service in the public  service  who  is  subject  to  the  jurisdiction  of  the Commission  and,  for  the  purposes  of  section  53  of  the Education  Act,    shall  be  deemed  to  include  all  persons employed in the Teaching Service;
+“officer” means a person employed in that part of the public service established respectively as the Civil Service, the Fire Service, the Prison Service, or any other service in the public service who is subject to the jurisdiction of the Commission and, for the purposes of section 53 of the Education Act, shall be deemed to include all persons employed in the Teaching Service;
 
-'prescribed form' means the appropriate form as may from time to time be prescribed by the Commission;
+“prescribed form” means the appropriate form as may from time to time be prescribed by the Commission;
 
-'Prison Service' means the Prison Service established by the Prison Service Act;
+“Prison Service” means the Prison Service established by the Prison Service Act;
 
-'promotion' means the appointment of an officer to an office in a grade carrying a higher remuneration whether such office be in the same Ministry or Department or not;
+“promotion” means the appointment of an officer to an office in a grade carrying a higher remuneration whether such office be in the same Ministry or Department or not;
 
-'public office' includes a public office in the Civil Service, the Fire  Service,  the  Prison  Service  and  for  the  purposes  of section 53 of the Education Act, shall be deemed to include an office in the Teaching Service;
+“public office” includes a public office in the Civil Service, the Fire Service, the Prison Service and for the purposes of section 53 of the Education Act, shall be deemed to include an office in the Teaching Service;
 
-'public  service'  includes  the  Civil  Service,  the  Fire  Service, the  Prison  Service  and  for  the  purposes  of  section  53 of  the  Education  Act,  shall  be  deemed  to  include  the Teaching Service;
+“public service” includes the Civil Service, the Fire Service, the Prison Service and for the purposes of section 53 of the Education Act, shall be deemed to include the Teaching Service;
 
-'secondment' means the transfer of an officer  in  a  particular service to serve for a period in an office in another service or in an office in the public service or in an office under another  Government  or  under  a  Statutory  Board  or organisation approved by the President;
+“secondment” means the transfer of an officer in a particular service to serve for a period in an office in another service or in an office in the public service or in an office under another Government or under a Statutory Board or organisation approved by the President;
 
-'Teaching  Service'  means  the  unified  Teaching  Service established under section 53 of the Education Act.
+“Teaching Service” means the unified Teaching Service established under section 53 of the Education Act.
 
-*2A. (1)  Regulations contained in Chapter III to Chapter VI (inclusive)  of  the  Public  Service  Commission  Regulations (other than regulations 16, 50, 52, 53, 54, 55, 56, 58 and 59) shall cease to apply in respect of an officer in the Fire Service on  the  commencement  of  the  Fire  Service  (Terms  and Conditions of Employment) Regulations, 1998.
+*2A. (1) Regulations contained in Chapter III to Chapter VI (inclusive) of the Public Service Commission Regulations (other than regulations 16, 50, 52, 53, 54, 55, 56, 58 and 59) shall cease to apply in respect of an officer in the Fire Service on the commencement of the Fire Service (Terms and Conditions of Employment) Regulations, 1998.
 
-* See LN  267/1998  published  as  Legal  Supplement  Part  B  in  the Gazette -Vol.  37  No.  194 dated 15th October 1998.
+*See LN 267/1998 published as Legal Supplement Part B in the Gazette—Vol. 37 No. 194 dated 15th October 1998.
 
 [[END OF PAGE 184]]
 
@@ -7749,7 +7912,7 @@ Public Service Commission Regulations
 
 [Subsidiary]
 
-Noncompliance.
+Non-compliance.
 
 Instrument of delegation to be published.
 
@@ -7805,17 +7968,17 @@ Public Service Commission Regulations
 
 apply shall not prejudice the consideration of the claims of all eligible public officers.
 
-(5)  Notwithstanding  subregulation  (4),  a  Permanent Secretary  or  Head  of  Department  may  with  the  consent  of  the Public Service Commission and in consultation with the Director of Personnel Administration by-
+(5) Notwithstanding subregulation (4), a Permanent Secretary or Head of Department may with the consent of the Public Service Commission and in consultation with the Director of Personnel Administration by—
 
 (a) circular memorandum; and
 
-(b) publication in the Gazette ,
+(b) publication in the Gazette,
 
-give  notice  of  vacancies  which  exist  in  offices  specific  to  the particular Ministry or Department to which any eligible officer may apply.
+give notice of vacancies which exist in offices specific to the particular Ministry or Department to which any eligible officer may apply.
 
-(6)  An  application  to  fill  a  vacancy  as  advertised pursuant  to  subregulation  (5)  shall  be  made  directly  to  the Permanent Secretary or Head of Department.
+(6) An application to fill a vacancy as advertised pursuant to subregulation (5) shall be made directly to the Permanent Secretary or Head of Department.
 
-(7)  The  failure  of  an  eligible  officer  to  apply  for  a vacancy  as  advertised  pursuant  to  subregulation  (5)  shall  not prejudice  the  Commission's  consideration  of  the  claims  by that officer.
+(7) The failure of an eligible officer to apply for a vacancy as advertised pursuant to subregulation (5) shall not prejudice the Commission’s consideration of the claims by that officer.
 
 14. Whenever in the opinion of the Commission it is possible to  do  so  and  it  is  in  the  best  interest  of  the  particular  service within  the  public  service,  appointments  shall  be  made  from within  the  particular  service  by  competition,  subject  to  any Regulations  limiting  the  number  of  appointments  that  may  be made to any specified office in the particular service.
 
@@ -7861,7 +8024,7 @@ for appointment to the public service and the composition of any such Board and 
 
 (4)   The Selection Board appointed under subregulation (3) shall  include  the  Director  or  his  representative  and  shall  be constituted  in  accordance  with  guidelines  issued  by  the  Public Service Commission.
 
-(5)  A Selection Board appointed under subregulation (3) shall  follow  the  procedures  outlined  by  the  Public  Service Commission  in  'Guidelines  for  the  selection  of  candidates' issued from time to time.
+(5) A Selection Board appointed under subregulation (3) shall follow the procedures outlined by the Public Service Commission in “Guidelines for the selection of candidates” issued from time to time.
 
 (6)  The  report  of  a  Selection  Board  appointed  under subregulation  (3)  shall  be  submitted  to  the  Public  Service Commission for  consideration  and  the  Commission  may  in  its discretion summon  for  interview any of the candidates recommended by that Selection Board.
 
@@ -7887,13 +8050,13 @@ Public Service Commission Regulations
 
 efficiency  of  two  or  more  officers,  shall  give  consideration  to the  relative  seniority  of  the  officers  available  for  promotion  to the vacancy.
 
-(2)  The  Commission,  in  considering  the  eligibility  of officers under subregulation (1) for an appointment  on promotion, shall attach greater weight to-
+(2) The Commission, in considering the eligibility of officers under subregulation (1) for an appointment on promotion, shall attach greater weight to—
 
-(a) seniority,  where  promotion  is  to  an  office  that involves work of a routine nature, or
+(a) seniority, where promotion is to an office that involves work of a routine nature, or
 
-(b) merit and ability, where promotion is to an office that  involves  work  of  progressively  greater  and higher responsibility and initiative than is required for an office specified in paragraph (a) .
+(b) merit and ability, where promotion is to an office that involves work of progressively greater and higher responsibility and initiative than is required for an office specified in paragraph (a).
 
-(3)  In the performance of its functions under subregulations  (1)  and  (2),  the  Commission  shall  take  into account as respects each officer-
+(3) In the performance of its functions under subregulations (1) and (2), the Commission shall take into account as respects each officer—
 
 (a) his general fitness;
 
@@ -8025,11 +8188,11 @@ Permanent  Secretary  or  Head  of  Department  shall  forward such representati
 
 (4)  Where a vacancy occurs in an office and an acting appointment falls to be made for a period not likely to exceed twenty-eight  days  as  a  result  of  sudden  illness  or  other  very special  circumstances,  the  Permanent  Secretary  or  Head  of Department  may  appoint  an  officer  to  act  for  such  period  and the provisions  of subregulations (1), (2) and (3) shall not apply to such acting appointment.
 
-26. (1)  Where  an  acting  appointment  falls  to  be  made otherwise  than  as  a  prelude  to  a  substantive  appointment,  the officer appointed shall-
+26. (1) Where an acting appointment falls to be made otherwise than as a prelude to a substantive appointment, the officer appointed shall—
 
-(a) as  a  general  rule  be  the  senior  officer  in  the Ministry or Department  eligible for  such acting appointment;
+(a) as a general rule be the senior officer in the Ministry or Department eligible for such acting appointment;
 
-(b) assume and discharge the duties and responsibilities  of  the  office  to  which  he  is appointed to act.
+(b) assume and discharge the duties and responsibilities of the office to which he is appointed to act.
 
 (2)  In  submitting  any  recommendations  for  an  acting appointment, the Commission shall examine whether the exigencies of  the  particular  service  would  best  be  served  by  transferring  an officer from another district next in line of seniority to act when there is an officer in the same district who is capable of performing the duties of the higher grade, and in such examination the question of additional  Government  expenditure  for  travelling  and  subsistence allowances and other expenditure shall be borne in mind.
 
@@ -8051,7 +8214,7 @@ Public Service Commission Regulations
 
 28. In submitting recommendations for acting appointments, Permanent Secretaries and Heads of Departments shall state the reasons why officers, if any, are being passed over.
 
-29. (1)  Where  the  Commission  proposes  to  transfer  an officer, the Commission shall, except where the exigencies of the particular  service  do  not  permit,  make  an  order  of  transfer  in writing  and  shall  give  not  less  than  one  month's  notice  to  an officer who is to be transferred.
+29. (1) Where the Commission proposes to transfer an officer, the Commission shall, except where the exigencies of the particular service do not permit, make an order of transfer in writing and shall give not less than one month’s notice to an officer who is to be transferred.
 
 (2)  An  officer  who  is  aggrieved  by  an  order  under subregulation  (1)  may  make  representation  to  the  Commission for a review of the order in accordance with subregulation (3).
 
@@ -8115,7 +8278,7 @@ Public Service Commission Regulations
 
 (5)  All communications relating to the medical report on a new appointee shall be strictly confidential and any officer who communicates the details of any such medical report to any other person  except  for  the  purpose  of,  and  as  provided  for  in  this regulation,  shall  be  guilty  of  misconduct  and  be  liable  to dismissal from the public service.
 
-33. An  officer  selected  for  appointment  to  an  office  in  a service  within  the  public  service,  other  than  the  particular service  in  which  he  holds  an  office  and  who  has  undergone  a medical examination by a medical officer in the public service Public Service Commission Regulations for appointment to that particular service may be exempted from further  medical  examination  as  a  candidate  on  appointment  to any other service in the public service.
+33. An officer selected for appointment to an office in a service within the public service, other than the particular service in which he holds an office and who has undergone a medical examination by a medical officer in the public service for appointment to that particular service may be exempted from further medical examination as a candidate on appointment to any other service in the public service.
 
 [[END OF PAGE 196]]
 
@@ -8133,23 +8296,23 @@ Chap. 1:01
 
 ### STAFF  REPORTS
 
-34. (1)  A Permanent Secretary or Head of Department shall forward to the Director in each year-
+34. (1) A Permanent Secretary or Head of Department shall forward to the Director in each year—
 
-(a) in respect of all officers who are within the scale of  pay,  a  staff  report  not  later  than  sixty  days before an increment is due to an officer; and
+(a) in respect of all officers who are within the scale of pay, a staff report not later than sixty days before an increment is due to an officer; and
 
 (b) in respect of all officers who are at the maximum in the scale of pay or who receive a fixed pay, a staff report not later than the anniversary of the date of appointment of an officer to the office.
 
-(2)  A  staff  report  shall  relate  to  the  period  of  service during the immediately preceding twelve months.
+(2) A staff report shall relate to the period of service during the immediately preceding twelve months.
 
-(3)  In  the  preparation  of  a  staff  report,  the  Permanent Secretary  or  Head  of  Department  shall  be  guided  by  his  own deliberate judgment and shall in such report-
+(3) In the preparation of a staff report, the Permanent Secretary or Head of Department shall be guided by his own deliberate judgment and shall in such report—
 
-(a) make  an  unbiased  assessment  of  the  officer's performance and conduct over the past twelve months; and
+(a) make an unbiased assessment of the officer’s performance and conduct over the past twelve months; and
 
-(b) give  an  indication  of  the  future  prospects  of the officer.
+(b) give an indication of the future prospects of the officer.
 
-(4)  A staff report shall be in such form as may from time to time be prescribed by the Commission and shall be made in respect of every officer whether he holds an acting appointment, a temporary appointment or is employed for a specified period.
+(4) A staff report shall be in such form as may from time to time be prescribed by the Commission and shall be made in respect of every officer whether he holds an acting appointment, a temporary appointment or is employed for a specified period.
 
-35. In order that an officer may be given every opportunity to  correct  any  shortcomings  which  he  might  evince  during  the course of the twelve months' period of service to be reported on, a Permanent Secretary or Head of Department shall-
+35. In order that an officer may be given every opportunity to correct any shortcomings which he might evince during the course of the twelve months’ period of service to be reported on, a Permanent Secretary or Head of Department shall—
 
 (a) as and when such shortcomings are noticed, cause the officer to be informed in writing thereof;
 
@@ -8251,9 +8414,16 @@ L.R.O. 1/2009
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-200 | Chap. 1:01 | of Trinidad and Tobago
---- | --- | ---
-[Subsidiary] | Public Service Commission Regulations
+200
+
+Chap. 1:01
+
+of Trinidad and Tobago Constitution of the Republic
+
+[Subsidiary]
+
+Public Service Commission Regulations
+
 once be drawn to his attention in writing by the Permanent Secretary or Head of Department and he shall be given such assistance as may be possible to enable him to correct his faults.
 
 Confidential
@@ -8264,39 +8434,31 @@ officer on
 
 probation.
 
-42. (1)  In the case of an officer serving a two-year period of probation, the Permanent Secretary or Head of Department shall submit to the Director three confidential reports as follows:
+42. (1) In the case of an officer serving a two-year period of probation, the Permanent Secretary or Head of Department shall submit to the Director three confidential reports as follows:
 
-(a) a first report after the officer has completed one year's service;
+(a) a first report after the officer has completed one year’s service;
 
 (b) an interim report six months before the period of probation expires; and
 
-(c) a  final  report  one  month  before  the  period  of probation expires.
+(c) a final report one month before the period of probation expires.
 
-(2)  In the case of an officer serving a period of probation of one year, two confidential reports shall be submitted as follows:
+(2) In the case of an officer serving a period of probation of one year, two confidential reports shall be submitted as follows:
 
-(a) a  first  report  six  months  before  the  period  of probation expires;
+(a) a first report six months before the period of probation expires;
 
-(b) a  final  report  one  month  before  the  period  of probation expires.
+(b) a final report one month before the period of probation expires.
 
-(3)  The Director  shall  report  to  the  Commission whenever a Permanent Secretary or Head of Department fails to submit a confidential report on an officer on probation within the terms specified in this regulation.
+(3) The Director shall report to the Commission whenever a Permanent Secretary or Head of Department fails to submit a confidential report on an officer on probation within the terms specified in this regulation.
 
-(4)  In submitting the final report, the Permanent Secretary or Head of Department shall make a firm recommendation-
+(4) In submitting the final report, the Permanent Secretary or Head of Department shall make a firm recommendation—
 
-(a)
+(a) that the officer be confirmed in the appointment; or
 
-- that the officer be confirmed in the appointment; or
+(b) that the period of probation be extended; or
 
-(b)
+(c) that the services of the officer be terminated; or
 
-- that the period of probation be extended; or
-
-(c)
-
-(d)
-
-- that the services of the officer be terminated; or
-
-- that the officer revert to his former office.
+(d) that the officer revert to his former office.
 
 (5)  A  report  of  the  Permanent  Secretary  or  Head  of Department under this regulation shall not be seen by the officer on probation, but any adverse comments on his work shall be in
 
@@ -8376,7 +8538,7 @@ Public Service Commission Regulations
 
 48. (1)  An  officer  who  wishes  to  resign  shall  give  to  the Commission notice in writing of his intention at least one month before the date on which he wishes to relinquish his appointment, but  the  Commission  may  waive  the  requirement  of  notice  in whole or in part if it thinks fit.
 
-(2)  Notwithstanding any regulation respecting the nonforfeiture of leave, an officer who fails without reasonable cause to  comply  with  subregulation  (1)  may  forfeit  all  leave  and  the benefits and privileges accruing to him in respect of leave.
+(2) Notwithstanding any regulation respecting the non-forfeiture of leave, an officer who fails without reasonable cause to comply with subregulation (1) may forfeit all leave and the benefits and privileges accruing to him in respect of leave.
 
 (3)  An  officer  is  not  entitled  to  withdraw his notice of resignation  before  such  resignation  becomes  effective  but  the Commission may accept such withdrawal if tendered in writing at any time before the effective date of the resignation.
 
@@ -8422,7 +8584,7 @@ Public Service Commission Regulations
 
 (iii)   on  the  termination of appointment in the case of an officer on probation;
 
-(iv)   on  the  termination of appointment in the case of an officer holding a nonpensionable  office  with  no  service  in  a pensionable office;
+(iv)   on the termination of appointment in the case of an officer holding a non-pensionable office with no service in a pensionable office;
 
 (v)   on  dismissal  or  removal  in  consequence of disciplinary proceedings;
 
@@ -8448,30 +8610,31 @@ L.R.O. 1/2011
 
 [[START OF PAGE 204]]
 
+204
+
+Chap. 1:01
+
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-204 | Chap. 1:01 | of Trinidad and Tobago Constitution of the Republic
---- | --- | ---
-[Subsidiary] | Public Service Commission Regulations
-Ch. 23:52. | years, apply to the Commission for permission to retire pursuant to section 15(1) of the Pensions Act and shall in his application state the grounds on which it is based.
+[Subsidiary]
 
-(2)  An officer who is a member of the Fire Service and holds a rank therein below that of Second Officer shall retire in accordance with any provision enacted in respect of such office.
+Ch. 23:52.
 
-Permanent
+Permanent Secretary to notify Director of officers aged 60 years, compulsory.
 
-Secretary to
+Premature retirement.
 
-notify Director
-
-of officers aged
-
-60 years,
-
-compulsory.
-
-Premature retirement. Ch. 23:52.
+Ch. 23:52.
 
 Retirement in the public interest.
+
+of Trinidad and Tobago Constitution of the Republic
+
+Public Service Commission Regulations
+
+years, apply to the Commission for permission to retire pursuant to section 15(1) of the Pensions Act and shall in his application state the grounds on which it is based.
+
+(2) An officer who is a member of the Fire Service and holds a rank therein below that of Second Officer shall retire in accordance with any provision enacted in respect of such office.
 
 52. A  Permanent  Secretary  or  Head  of  Department  shall inform the Director of all officers in his Ministry or Department who are within one year of the compulsory retirement age.
 
@@ -8579,7 +8742,7 @@ Public Service Commission Regulations
 
 ### CONDUCT
 
-60. to (Revoked by LN 28/1991). 83. }
+60. to 83. (Revoked by LN 28/1991).
 
 [Subsidiary]
 
@@ -8633,7 +8796,7 @@ Public Service Commission Regulations
 
 (2)  The  senior  officer  referred  to  in  subregulation  (1) may charge the officer against whom the report or allegation has been made and refer the charge to the Permanent Secretary or Head of Department.
 
-(3)  Where a charge is referred to the Permanent Secretary or  Head  of  Department  under  subregulation  (2),  the  Permanent Secretary  or  Head  of  Department  shall  act  as  a  disciplinary Public Service Commission Regulations tribunal,  or  appoint,  in  writing  as  a  disciplinary  tribunal,  an officer in his Ministry or Department, as the Commission directs, holding or performing the duties of a senior officer who is senior in office to the person charged.
+(3) Where a charge is referred to the Permanent Secretary or Head of Department under subregulation (2), the Permanent Secretary or Head of Department shall act as a disciplinary
 
 [[END OF PAGE 208]]
 
@@ -8647,7 +8810,11 @@ Chap. 1:01
 
 209
 
-(4)  The disciplinary tribunal referred to in subregulation (3) comprising-
+Public Service Commission Regulations
+
+tribunal, or appoint, in writing as a disciplinary tribunal, an officer in his Ministry or Department, as the Commission directs, holding or performing the duties of a senior officer who is senior in office to the person charged.
+
+(4) The disciplinary tribunal referred to in subregulation (3) comprising—
 
 (a) the Permanent Secretary or Head of Department may impose in respect  of  a  charge  any  of  the penalties  prescribed  in  regulation  110(1) (c) to (g) ; or
 
@@ -8691,7 +8858,7 @@ of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission Regulations
 
-(l0)   Where a disciplinary tribunal during the course of hearing  a  matter  to  which  this  regulation  refers  is  of  the opinion  that  the  matter  is  such  that  the  officer  has  been inadequately charged with an offence to which subregulation (1) applies, it may so certify and refer the matter to the Permanent Secretary or Head of Department.
+(10) Where a disciplinary tribunal during the course of hearing a matter to which this regulation refers is of the opinion that the matter is such that the officer has been inadequately charged with an offence to which subregulation (1) applies, it may so certify and refer the matter to the Permanent Secretary or Head of Department.
 
 (11)   The  Permanent  Secretary  or  Head  of  Department shall, no later than three days after receipt of a certificate referred to him in accordance with subregulation (10), refer the matter to an investigating officer to deal with under regulation 90 as if it were a report or allegation of indiscipline or misconduct to which regulation 90 applies.
 
@@ -8869,7 +9036,7 @@ Public Service Commission Regulations
 
 96. (1)  It shall be the duty of every officer appointed under regulation  95  to  hear  the  evidence,  find  the  facts  and  make  a report to the Commission in accordance with regulations 98 and 102 as soon as possible, and such officer may not be permitted any  leave,  other  than  sick  leave  or  maternity  leave,  until  the report is made to the Commission.
 
-(2)  Notwithstanding these Regulations, where  an officer  referred  to  in  subsection  (1)  is  unable  to  perform  his Public Service Commission Regulations functions for whatever reason, the disciplinary tribunal of which he is a member may continue to hear and conclude the case and make a report, but such a tribunal shall not be constituted of less than two members.
+(2) Notwithstanding these Regulations, where an officer referred to in subsection (1) is unable to perform his
 
 [[END OF PAGE 214]]
 
@@ -8883,7 +9050,11 @@ Chap. 1:01
 
 215
 
-97. An  officer  who  is  charged  with  an  alleged  act  of indiscipline  or  misconduct  shall  not  be  permitted  to  take  leave other than sick leave or maternity leave until the determination of the case.
+Public Service Commission Regulations
+
+functions for whatever reason, the disciplinary tribunal of which he is a member may continue to hear and conclude the case and make a report, but such a tribunal shall not be constituted of less than two members.
+
+97. An officer who is charged with an alleged act of indiscipline or misconduct shall not be permitted to take leave other than sick leave or maternity leave until the determination of the case.
 
 98. (1)  The following procedure shall apply to the hearing by  a  disciplinary  tribunal  of  a  charge  of  alleged  misconduct or indiscipline:
 
@@ -8893,9 +9064,7 @@ Chap. 1:01
 
 (c) Before the case against the officer is presented, the officer may submit that the facts alleged in the  charge  are  not  such  as  to  constitute  the offence  with  which  he  is  charged,  and  the disciplinary tribunal shall make a report of the submission to the Commission for its decision.
 
-(d)
-
-- At the hearing before a disciplinary tribunal, the officer may conduct his defence either in person or may be represented by an officer of his choice who is a member of the service, or by his staff association or by an Attorney-at-law; and if the officer is represented by such member, or by his staff  association,  or  by  an Attorney-at-law,  the officer or his representative may cross-examine the  witnesses  called  in  support  of  the  case against him, but where the hearing is before a
+(d) At the hearing before a disciplinary tribunal, the officer may conduct his defence either in person or may be represented by an officer of his choice who is a member of the service, or by his staff association or by an Attorney-at-law; and if the officer is represented by such member, or by his staff association, or by an Attorney-at-law, the officer or his representative may cross-examine the witnesses called in support of the case against him, but where the hearing is before a
 
 [Subsidiary]
 
@@ -9019,9 +9188,9 @@ Public Service Commission Regulations
 
 105. Where  the  disciplinary  tribunal  constituted  of  three officers  in  hearing  the  evidence  is  of  the  opinion  that  such evidence discloses other misconduct  or indiscipline, the disciplinary  tribunal  shall  report  the  matter  to  the  Commission and if the Commission thinks fit to proceed against the officer on such misconduct or indiscipline, it shall cause the officer to be informed  in  writing  of  any  further  charges  and  the  procedure prescribed in these Regulations in respect of the original charge shall apply in respect of such charge.
 
-106. (1)  The  Commission  on  consideration  of  the  report under regulation 102 may either exonerate the officer or impose the penalty specified in regulation 110(l) (f) or (g) .
+106. (1) The Commission on consideration of the report under regulation 102 may either exonerate the officer or impose the penalty specified in regulation 110(1)(f) or (g).
 
-(2)  The Commission shall, as soon as possible after the hearing of the charge, inform the officer in writing of its findings Public Service Commission Regulations and of the penalty imposed on him, of his right to apply for an appeal  to  the  Public  Service  Appeal  Board  and  of  the  time specified  in  the  Public  Service  Appeal  Board  Regulations  for making such an application.
+(2) The Commission shall, as soon as possible after the hearing of the charge, inform the officer in writing of its findings
 
 [[END OF PAGE 218]]
 
@@ -9035,11 +9204,15 @@ Chap. 1:01
 
 219
 
-- Where the officer-
+Public Service Commission Regulations
 
-(i)   makes  application  for  an  appeal  to  the Public  Service Appeal  Board  within  the time  specified  in  the  Public  Service Appeal  Board  Regulations,  the  penalty shall not take effect pending the determination of the appeal by the Public Service Appeal Board;  or
+and of the penalty imposed on him, of his right to apply for an appeal to the Public Service Appeal Board and of the time specified in the Public Service Appeal Board Regulations for making such an application.
 
-(ii)   does  not  make  an  application  for  an appeal  to  the  Public  Service  Appeal Board, the penalty shall take effect at the expiry of the time specified in the Public Service  Appeal  Board  Regulations  for making such an application.
+(3) Where the officer—
+
+(i) makes application for an appeal to the Public Service Appeal Board within the time specified in the Public Service Appeal Board Regulations, the penalty shall not take effect pending the determination of the appeal by the Public Service Appeal Board; or
+
+(ii) does not make an application for an appeal to the Public Service Appeal Board, the penalty shall take effect at the expiry of the time specified in the Public Service Appeal Board Regulations for making such an application.
 
 (4)  In this regulation a reference to the Commission shall be construed as a reference to the officer to whom the Commission has delegated its powers under section 127 of the Constitution.
 
@@ -9087,11 +9260,11 @@ Public Service Commission Regulations
 
 findings and the penalty imposed on him, of his right to apply for an  appeal  to  the  Public  Service Appeal  Board  and  of  the  time specified  in  the  Public  Service  Appeal  Board  Regulations  for making such application.
 
-- Where the officer-
+(3) Where the officer—
 
-(i)   makes an application for an appeal to the Public  Service Appeal  Board  within  the time  specified  in  the  Public  Service Appeal  Board  Regulations,  the  penalty shall not take effect pending the determination of the appeal by the Public Service Appeal Board; or
+(i) makes an application for an appeal to the Public Service Appeal Board within the time specified in the Public Service Appeal Board Regulations, the penalty shall not take effect pending the determination of the appeal by the Public Service Appeal Board; or
 
-(ii)   does  not  appeal,  the  penalty  shall  take effect at the expiration of the said time.
+(ii) does not appeal, the penalty shall take effect at the expiration of the said time.
 
 (4)  Where  the  Commission  under  subregulation  (1) informs  the  officer  that  it  proposes  to  impose  the  penalty  of dismissal,  the  officer,  notwithstanding  that  he  gives  notice  of appeal  within  the  time  specified  in  the  Public  Service  Appeal Board Regulations, shall not receive any pay or allowance from the date of the expiration of such time.
 
@@ -9133,7 +9306,7 @@ against  an  officer  in  respect  of  misconduct,  indiscipline,  or unsatisfac
 
 (2)  Where  a  fine  is  imposed  the  amount  of  such  fine shall be deducted from the pay of the officer in such manner as may be specified at the time the penalty is imposed.
 
-111. to (Revoked by LN 28/1991). 113. }
+111. to 113. (Revoked by LN 28/1991).
 
 114. (1)  An  officer  convicted  of  a  criminal  charge  and sentenced  to  imprisonment  without  the  option  of  a  fine  or convicted of a criminal charge involving-
 
@@ -9179,7 +9352,7 @@ Public Service Commission Regulations
 
 ### REVIEWS
 
-115. to (Revoked by LN 28/1991). 122. }
+115. to 122. (Revoked by LN 28/1991).
 
 ## CHAPTER   X
 
@@ -9229,7 +9402,9 @@ Public Service Commission Regulations
 
 'public school' means a Government school or an assisted school;
 
-- 27 of 1951. 'teacher'  means  a  person  registered  as  such  under  the  former Education Ordinance, or under the Act and the Regulations, who is a member of the Teaching Service;
+27 of 1951.
+
+'tteacher' means a person registered as such under the former Education Ordinance, or under the Act and the Regulations, who is a member of the Teaching Service;
 
 'Teaching Service' means  the unified  Teaching Service established under section 53 of the Act.
 
@@ -9289,7 +9464,7 @@ Public Service Commission Regulations
 
 (8)  In  addition  to  the  equivalent  of  the  Teachers' Provisional Certificate referred to in subregulations (2) and (3), the  School  Certificate  Grade  II  or  General  Certificate  of Education  equivalent,  or  any  other  approved  academic  or professional  qualification,  shall  be  accepted  for  admission  to the former Grade VB or the present Grade I.
 
-128. (1)  As soon as it is known that a vacancy will occur in the  office  of  teacher  in  a  Government  school,  the  Permanent Secretary shall communicate the particulars of the vacancy to the Public Service Commission Regulations Director in writing and shall, by circular memorandum, advertise such vacant office in all public schools.
+128. (1) As soon as it is known that a vacancy will occur in the office of teacher in a Government school, the Permanent Secretary shall communicate the particulars of the vacancy to the
 
 [[END OF PAGE 224]]
 
@@ -9303,7 +9478,11 @@ Chap. 1:01
 
 225
 
-(2)  A  notice  published  under  subregulation  (1)  shall contain the particulars prescribed by regulation 131(2).
+Public Service Commission Regulations
+
+Director in writing and shall, by circular memorandum, advertise such vacant office in all public schools.
+
+(2) A notice published under subregulation (1) shall contain the particulars prescribed by regulation 131(2).
 
 (3)  Any teacher may make application for an appointment to any vacant office, notice of which is published under  subregulation  (1),  but  the  failure  to  apply  shall  not prejudice the consideration of the claims of any eligible teacher.
 
@@ -9429,7 +9608,9 @@ Public Service Commission Regulations
 
 (b) a teacher of a religious persuasion different from that  of  the  assisted  school,  with  the  prior approval of the teacher and of the Board.
 
-###### TRANSFERS (GENERAL)
+##### TRANSFERS
+
+###### (GENERAL)
 
 134. Every application for an appointment on transfer in the Teaching Service shall be addressed to the Director through the Permanent Secretary on the prescribed form and, in the case of an application  from  a  teacher  in  an  assisted  school,  through  the Board to the Permanent Secretary.
 
@@ -9461,7 +9642,9 @@ Public Service Commission Regulations
 
 136. Notwithstanding  that  a  teacher  in  respect  of  whom  an order  has  been  made  under  regulation  29(1)  or  (2)  has  made representation  under  subregulations  (3)  and  (4)  of  the  said regulation the teacher shall assume his duties on transfer pending the review of the order by the Commission.
 
-###### TRANSFERS (SPECIAL)
+##### TRANSFERS
+
+###### (SPECIAL)
 
 137. A Board may apply to the Commission to have a teacher transferred from an office in an assisted school if the religious persuasion of the teacher is not satisfactory to the Board, or on moral grounds.
 
@@ -9581,21 +9764,26 @@ Public Service Commission Regulations
 
 ##### PRELIMINARY
 
-Definitions. [282/1998]. | 146. In this Chapter-
---- | ---
-Ch. 35:50. | 'Act' means the Fire Service Act;
-'appropriate form' means the form determined by the Commission under regulation 147;
-'candidate' means a person who satisfies the qualifications in respect of an office;
-'Chief Fire Officer' means a person appointed to, or performing the duties of, the office of Chief Fire Officer as prescribed
-First Schedule. | in the First Schedule to the Act;
-'Deputy Chief Fire Officer' means a person appointed to, or performing the duties of, the office of Deputy Chief Fire Officer as prescribed in the First Schedule to the Act;
-'eligible officer'' means a fire officer who satisfies the qualifications of an office;
-Sub. Leg. | 'Examinations Board' means the Examinations Board established under the Fire Service (Terms and Conditions of Employment) Regulations;
-'fire officers' or 'officer'' means a person appointed to an office in the Fire Service;
-'fire officer in the First Division' means an officer who holds an office in the First Division as prescribed;
-'fire officer in the Second Division' means an officer who holds an office in the Second Division as prescribed;
-'performance appraisal report' has the same meaning as in the Fire Service (Terms and Conditions of Employment) Regulations;
-Ch. 35:50. | 'Service' or 'Fire Service' means the Fire Service established by section 3 of the Act;
+Definitions.
+[282/1998].
+Ch. 35:50.
+First Schedule.
+Sub. Leg.
+Ch. 35:50.
+
+146. In this Chapter—
+“Act” means the Fire Service Act;
+“appropriate form” means the form determined by the Commission under regulation 147;
+“candidate” means a person who satisfies the qualifications in respect of an office;
+“Chief Fire Officer” means a person appointed to, or performing the duties of, the office of Chief Fire Officer as prescribed in the First Schedule to the Act;
+“Deputy Chief Fire Officer” means a person appointed to, or performing the duties of, the office of Deputy Chief Fire Officer as prescribed in the First Schedule to the Act;
+“eligible officer” means a fire officer who satisfies the qualifications of an office;
+“Examinations Board” means the Examinations Board established under the Fire Service (Terms and Conditions of Employment) Regulations;
+“fire officers” or “officer” means a person appointed to an office in the Fire Service;
+“fire officer in the First Division” means an officer who holds an office in the First Division as prescribed;
+“fire officer in the Second Division” means an officer who holds an office in the Second Division as prescribed;
+“performance appraisal report” has the same meaning as in the Fire Service (Terms and Conditions of Employment) Regulations;
+“Service” or “Fire Service” means the Fire Service established by section 3 of the Act;
 
 [[END OF PAGE 232]]
 
@@ -9611,7 +9799,7 @@ Chap. 1:01
 
 Public Service Commission Regulations
 
-'transfer' means the movement of an officer from one Division in the Service to another Division in the Service.
+“transfer” means the movement of an officer from one Division in the Service to another Division in the Service.
 
 #### PART  II
 
@@ -9685,7 +9873,7 @@ Public Service Commission Regulations
 
 (2)  A candidate for appointment to an office in the First Division  may  be  chosen  from  the  First  or  Second  Division  of the Service.
 
-(3)  Whenever  the  Commission  considers  either  that there  is  no  suitable  candidate  in  the  Service  available  for  the filling  of  any  vacancy  in  the  Service  or  having  regard  to experience and merit it is advantageous and in the best interest of  the  Service  that  the  services  of  a  person  not  already  in  the Public Service Commission Regulations Service be secured, the Commission may fill a vacancy by open competition and may determine the manner in which the vacancy is to be advertised.
+(3) Whenever the Commission considers either that there is no suitable candidate in the Service available for the filling of any vacancy in the Service or having regard to experience and merit it is advantageous and in the best interest of the Service that the services of a person not already in the
 
 [[END OF PAGE 234]]
 
@@ -9698,6 +9886,10 @@ of Trinidad and Tobago Constitution of the Republic
 Chap. 1:01
 
 235
+
+Public Service Commission Regulations
+
+Service be secured, the Commission may fill a vacancy by open competition and may determine the manner in which the vacancy is to be advertised.
 
 153. The failure of an eligible officer to apply for an office shall  not  debar  the  Commission  from  considering  him  for  the appointment to the office.
 
@@ -9825,10 +10017,18 @@ Transfer. [282/1998].
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-238 | Chap. 1:01 | of Trinidad and Tobago Constitution of the Republic
---- | --- | ---
-[Subsidiary] | Public Service Commission Regulations
+238
+
+Chap. 1:01
+
+of Trinidad and Tobago Constitution of the Republic
+
+[Subsidiary]
+
+Public Service Commission Regulations
+
 (ii) more experience than that of the recommended eligible officer in performing the duties of the office; or
+
 (iii) performed the duties of the office for a period of six (6) months or more.
 
 (2)  The  Chief  Fire  Officer  shall  advise  in  writing  an officer  referred  to  in  paragraph (b) of  subregulation  (1)  of  his being omitted from the list for promotion together with reasons.
@@ -9867,7 +10067,7 @@ Public Service Commission Regulations
 
 (7)  Where the transfer involves the exchange of officers in the same grade the officers affected by the transfer shall not assume their duties on transfer pending the review of the notice by the Commission.
 
-*162. (N.B.LN 282/1998 which amended the Regulations did not contain regulation 162).
+*162. (N.B.—LN 282/1998 which amended the Regulations did not contain regulation 162).
 
 #### PART  III
 
@@ -9959,15 +10159,15 @@ Public Service Commission Regulations
 
 ##### PRELIMINARY
 
-164. In this Chapter-
+164. In this Chapter—
 
-'Act' means the Prison Service Act;
+“Act” means the Prison Service Act;
 
-'Commissioner' means the Commissioner of Prisons;
+“Commissioner” means the Commissioner of Prisons;
 
-'prison officer' means a member of the Prison Service;
+“prison officer” means a member of the Prison Service;
 
-'Prison  Service'  or  'Service'  means  the  Prison  Service established under the Act.
+“Prison Service” or “Service” means the Prison Service established under the Act.
 
 #### PART  II
 
@@ -9977,9 +10177,7 @@ Public Service Commission Regulations
 
 (a) applications are to be made for appointment to the Prison Service;
 
-(b)
-
-- interviews are to be conducted for entry into the Prison Service.
+(b) interviews are to be conducted for entry into the Prison Service.
 
 [Subsidiary]
 
@@ -10033,7 +10231,7 @@ Public Service Commission Regulations
 
 168. (1) (a) A prison officer may apply to the Commission to  be  allowed  to  take  the  Promotion  Examination  for  Prison Officer II when he has been in the Service for at least two years.
 
-(b) A  prison  officer  in  a  grade  lower  than  that  of Prison Assistant Superintendent who has passed an Examination Public Service Commission Regulations for Promotion to Prison Officer II may apply to the Commission to be allowed to take any promotion examination.
+(b) A prison officer in a grade lower than that of Prison Assistant Superintendent who has passed an Examination
 
 [[END OF PAGE 242]]
 
@@ -10046,6 +10244,10 @@ of Trinidad and Tobago Constitution of the Republic
 Chap. 1:01
 
 243
+
+Public Service Commission Regulations
+
+for Promotion to Prison Officer II may apply to the Commission to be allowed to take any promotion examination.
 
 (c) A prison officer who  is successful in a promotion  examination  may  be  considered  for  promotion  in accordance with this regulation.
 
@@ -10145,7 +10347,10 @@ Public Service Commission Regulations
 
 (5)  Where any doubts arise with respect to the seniority of a prison officer, the Commission shall determine the seniority of such prison officer.
 
-174. to (Revoked by LN 28/1991). 176. }
+174.
+to
+176.
+} (Revoked by LN 28/1991).
 
 177. Except  in  very  special  circumstances  or  in  cases  of sudden illness, the Commissioner shall submit, well in advance, recommendations  for  acting  appointments  to  permit  of  their consideration by the Commission before the date on which the acting appointment is intended to become effective.
 
@@ -10171,45 +10376,43 @@ Commissioner to state reasons for passing over officers.
 
 Rule where power to appoint delegated.
 
-Regulation 3(1).
-
-180.
-
-181.
-
-}
-
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
 Public Service Commission Regulations
 
-- In submitting recommendations for acting appointments in  any  office,  the  Commissioner  shall  state  the  reasons  why prison officers, if any, are being passed over.
+178. In submitting recommendations for acting appointments in any office, the Commissioner shall state the reasons why prison officers, if any, are being passed over.
 
-- Where  the  Commission  delegates  its  power  to  the Commissioner to appoint a prison officer to act in an office and such acting appointment falls to be made as a result of sudden illness or other very special circumstances for a period not likely to exceed twenty-eight days, the provisions of *regulation 176 shall not apply.
+179. Where the Commission delegates its power to the Commissioner to appoint a prison officer to act in an office and such acting appointment falls to be made as a result of sudden illness or other very special circumstances for a period not likely to exceed twenty-eight days, the provisions of *regulation 176 shall not apply.
 
 #### PART  III
 
 ##### DISCIPLINE
 
-(Revoked by LN 28/1991).
+180.
+
+181.
+
+} (Revoked by LN 28/1991).
 
 ## FIRST  SCHEDULE
 
 ### FORM   I
 
+Regulation 3(1).
+
 #### OATH  OR AFFIRMATION  OF OFFICE
 
-Judge of High Court
-
-I, ................................................................................................ do swear/solemnly declare and affirm, that I will without fear, favour, affection or ill-will, well and truly perform my duties in the office of Chairman/member of the  Public  Service  Commission  in  the  exercise  of  the  powers  vested  in  the Public Service Commission under the Constitution, and that I will not directly or indirectly reveal any information to any unauthorised person or otherwise than in the course of duty.
+I, ................................................................................................ do swear/solemnly declare and affirm, that I will without fear, favour, affection or ill-will, well and truly perform my duties in the office of Chairman/member of the Public Service Commission in the exercise of the powers vested in the Public Service Commission under the Constitution, and that I will not directly or indirectly reveal any information to any unauthorised person or otherwise than in the course of duty.
 
 So help me God.
 
 Sworn/Declared before me this .............. day of ....................................., 20......
 
 ................................................
+
+Judge of High Court
 
 *Regulation 176 was Revoked by LN 28/1991.
 
@@ -10257,14 +10460,48 @@ L.R.O. 1/2011
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-248 | of Trinidad and Tobago Constitution of the Republic
---- | ---
-Public Service Commission Regulations
+248
+
+Chap. 1:01
+
+of Trinidad and Tobago Constitution of the Republic
+
 [Subsidiary]
+
+Public Service Commission Regulations
+
 ## *SECOND SCHEDULE
+
 Regulation 73(2).
+
 ### FORM 1
-| Salary: ............ ......................................................................... Salary after deductions ............................................................. .............................................................................................................................................................................................. ............................................................................................................................................................................................. ............................................................................................................................................................................................. ............................................................................................................................................................................................. ................................................................................................................................................................................................................................. Amount now outstanding Terms of repayment How secured Reason for which debt was incurred Date incurred Name TO WHOM INDEBTED
+
+#### RETURN OF INDEBTEDNESS
+
+As at ............................................ 20................
+
+Name: .......................................................................................
+
+Married/Single .........................................................
+
+Office held: ...............................................................................
+
+Number of dependants .............................................
+
+Ministry/Department.................................................................
+
+Salary: ............ .........................................................................
+
+Salary after deductions .............................................................
+
+TO WHOM INDEBTED | | Reason for which debt was incurred | How secured | Terms of repayment | Amount now outstanding
+Name | Date incurred | | | |
+
+Date .....................................20 ............
+
+Signature ..................................................................
+
+*(N.B.—See Note on Second Schedule at page 129).
 
 [[END OF PAGE 248]]
 
@@ -10289,63 +10526,65 @@ Chap. 1:01
 
 REGULATION
 
-- Citation.
+1. Citation.
 
-- Interpretation.
+2. Interpretation.
 
 ## CHAPTER  II
 
 ### THE POLICE  SERVICE  COMMISSION
 
-- Oath of office.
+3. Oath of office.
 
-- Meetings.
+4. Meetings.
 
-- Procedure, quorum and voting.
+5. Procedure, quorum and voting.
 
-- Decisions other than at meetings.
+6. Decisions other than at meetings.
 
-- Record of meetings and decisions. Dissents.
+7. Record of meetings and decisions.
 
-- Consultation with other persons.
+Dissents.
 
-- Non-compliance.
+8. Consultation with other persons.
 
-- Instrument of delegation to be published.
+9. Non-compliance.
 
-- Commission may sign by impression of signature.
+10. Instrument of delegation to be published.
+
+11. Commission may sign by impression of signature.
 
 ## CHAPTER  III
 
 ### APPOINTMENTS,  PROMOTIONS  AND  TRANSFERS
 
-- Commission to determine form of application.
+12. Commission to determine form of application.
 
-- Application for appointment of constable.
+13. Application for appointment of constable.
 
-- Appointment to an office in the First Division.
+14. Appointment to an office in the First Division.
 
-- 14A.   Appointment to an office in the Second Division.
+14A. Appointment to an office in the Second Division.
 
-- Promotion to an office in the Second Division.
+15. Promotion to an office in the Second Division.
 
-- Resitting of examination.
+16. Resitting of examination.
 
-- Appointments to be by competition within the Police Service.
+17. Appointments to be by competition within the Police Service.
 
-- Advertisement of vacancies.
+18. Advertisement of vacancies.
 
-- Examination Boards.
+19. Examination Boards.
 
-- Principles of selection for promotion.
+20. Principles of selection for promotion.
 
-- 21.
+21.
 
 22.
 
-(Revoked by LN 79/1995). }
+} (Revoked by LN 79/1995).
 
-- Principles of selection for acting appointment.
+23. Principles of selection for acting appointment.
 
 L.R.O. 1/2011
 
@@ -10365,65 +10604,65 @@ of Trinidad and Tobago Constitution of the Republic
 
 Police Service Commission Regulations
 
-### ARRANGEMENT  OF  REGULATIONSContinued
+### ARRANGEMENT  OF  REGULATIONS—Continued
 
 REGULATION
 
-- Principles  of  selection  for  acting  appointment  not  as  prelude to appointment.
+24. Principles of selection for acting appointment not as prelude to appointment.
 
-- Commissioner to notify eligible police officers of vacancy.
+25. Commissioner to notify eligible police officers of vacancy.
 
-- Commissioner  to  submit  recommendations  to  Commission  in advance.
+26. Commissioner to submit recommendations to Commission in advance.
 
-- Commissioner to state reasons for passing over officers.
+27. Commissioner to state reasons for passing over officers.
 
-- Transfers.
+28. Transfers.
 
-- Date of appointment.
+29. Date of appointment.
 
-- Medical examination.
+30. Medical examination.
 
 ## CHAPTER  IV
 
 ### STAFF  REPORTS
 
-- Staff reports.
+31. Staff reports.
 
-- Officer to be informed of adverse report.
+32. Officer to be informed of adverse report.
 
-- Annual increments.
+33. Annual increments.
 
 ## CHAPTER  V
 
 ### PROBATIONARY  APPOINTMENTS
 
-- Period of probation on first appointment.
+34. Period of probation on first appointment.
 
-- Probation not required or may be offset in certain cases.
+35. Probation not required or may be offset in certain cases.
 
-- Probation on promotion.
+36. Probation on promotion.
 
-- Waiver of portion of period of probation.
+37. Waiver of portion of period of probation.
 
-- Principles to be observed while officer on probation.
+38. Principles to be observed while officer on probation.
 
-- Confidential reports.
+39. Confidential reports.
 
-- Extension of probation.
+40. Extension of probation.
 
-- Confirmation of appointment.
+41. Confirmation of appointment.
 
-- Incremental date where period of probation extended.
+42. Incremental date where period of probation extended.
 
-- Commissioner to keep record.
+43. Commissioner to keep record.
 
 ## CHAPTER  VI
 
 ### RESIGNATIONS,  RETIREMENTS  AND TERMINATION  OF  APPOINTMENTS
 
-- Resignation.
+44. Resignation.
 
-- Abandonment.
+45. Abandonment.
 
 [[END OF PAGE 250]]
 
@@ -10431,23 +10670,23 @@ REGULATION
 
 ###### REGULATION
 
-- Reasons for termination of appointment.
+46. Reasons for termination of appointment.
 
-- Compulsory and voluntary retirement.
+47. Compulsory and voluntary retirement.
 
-- Commissioner to notify Director of officers to retire compulsorily.
+48. Commissioner to notify Director of officers to retire compulsorily.
 
-- Premature retirement.
+49. Premature retirement.
 
-- Retirement in the public interest.
+50. Retirement in the public interest.
 
-- Termination of appointment on grounds of inefficiency.
+51. Termination of appointment on grounds of inefficiency.
 
-- Married female officers.
+52. Married female officers.
 
-- Medical Boards.
+53. Medical Boards.
 
-- Unfit officers.
+54. Unfit officers.
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
@@ -10465,42 +10704,41 @@ to
 
 74.
 
-}
+} (Revoked by LN 214/1990).
 
 ## CHAPTER  VIII
 ### DISCIPLINARY  PROCEDURE
 
-- Officer liable to disciplinary proceedings.
+75. Officer liable to disciplinary proceedings.
 
-(Revoked by LN 214/1990).
+76. (Revoked by LN 214/1990).
 
-- Commissioner to report officer.
+77. Commissioner to report officer.
 
-- Commission  to  issue  instructions  on  how  certain  cases  to  be dealt with.
+78. Commission to issue instructions on how certain cases to be dealt with.
 
-- Suspension by Commission.
+79. Suspension by Commission.
 
-- Interdiction.
+80. Interdiction.
 
-- Procedure on alleged commission of offence.
+81. Procedure on alleged commission of offence.
 
-- Powers of disciplinary tribunal.
+82. Powers of disciplinary tribunal.
 
-- Certain penalties to be imposed by Commissioner.
+83. Certain penalties to be imposed by Commissioner.
 
-- Warning and Investigation.
+84. Warning and Investigation.
+Personal explanation.
 
-- Personal explanation.
+85. Documents to be supplied to accused.
 
-- Documents to be supplied to accused.
+86. Officer to admit or deny charge in writing and may include explanation.
 
-- Officer  to  admit  or  deny  charge  in  writing  and  may  include explanation.
+87. Hearing on failure to admit or deny charge.
 
-- Hearing on failure to admit or deny charge.
+88. Witnesses.
 
-- Witnesses.
-
-(Revoked by LN 214/1990).
+} (Revoked by LN 214/1990).
 
 Chap. 1:01
 
@@ -10526,54 +10764,55 @@ of Trinidad and Tobago Constitution of the Republic
 
 Police Service Commission Regulations
 
-### ARRANGEMENT  OF  REGULATIONSContinued
+### ARRANGEMENT  OF  REGULATIONS—Continued
 
 REGULATION
 
-- Appointment of disciplinary tribunal.
+89. Appointment of disciplinary tribunal.
 
-- Duty of officers appointed to disciplinary tribunal.
+90. Duty of officers appointed to disciplinary tribunal.
 
-- Officer on charge not to be permitted leave.
+91. Officer on charge not to be permitted leave.
 
-- Procedure at hearing.
+92. Procedure at hearing.
 
-- Adjournment of hearing.
+93. Adjournment of hearing.
 
-- Hearing in absence of accused officer.
+94. Hearing in absence of accused officer.
 
-- Standard of proof.
+95. Standard of proof.
 
-- Tribunal to report. Report confidential.
+96. Tribunal to report.
+Report confidential.
 
-- Disciplinary tribunal may adjourn and report to Commission.
+97. Disciplinary tribunal may adjourn and report to Commission.
 
-- Disciplinary tribunal to report where evidence insufficient.
+98. Disciplinary tribunal to report where evidence insufficient.
 
-- Disciplinary tribunal to report further grounds disclosed at hearing.
+99. Disciplinary tribunal to report further grounds disclosed at hearing.
 
-- Commission to exercise disciplinary control on Commissioners.
+100. Commission to exercise disciplinary control on Commissioners.
 
-- Commission to inform officer of penalty imposed and of his right of review.
+101. Commission to inform officer of penalty imposed and of his right of review.
 
-- Commission may remove officer in public interest.
+102. Commission may remove officer in public interest.
 
-- Proceedings in private.
+103. Proceedings in private.
 
-- Penalties.
+104. Penalties.
 
 105.
 
+to
+
 107.
 
-- to (Revoked by LN 214/1990). }
+} (Revoked by LN 214/1990).
 
-- Non-payment of remuneration on conviction on a criminal charge.
+108. Non-payment of remuneration on conviction on a criminal charge.
 
 ## CHAPTER  IX
 ### REVIEWS
-
-(Revoked by LN 214/1990).
 
 109.
 
@@ -10581,14 +10820,16 @@ to
 
 116.
 
-}
+} (Revoked by LN 214/1990).
 
 ## CHAPTER  X
 ### APPLICATION  OF  REGULATIONS
 
-- Application of Regulations to all officers.
+117. Application of Regulations to all officers.
 
-FIRST  SCHEDULE. SECOND  SCHEDULE.
+FIRST  SCHEDULE.
+
+SECOND  SCHEDULE.
 
 [[END OF PAGE 252]]
 
@@ -10610,37 +10851,39 @@ Chap. 1:01
 
 ### PRELIMINARY
 
-- Citation. 1. These  Regulations  may  be  cited  as  the  Police  Service Commission Regulations.
+Citation.
 
-- In these Regulations-
-
-'Act' means the Police Service Act;
-
-'acting  appointment'  means  the  temporary  appointment  of  a police  officer  whether  on  promotion  to  a  higher  office  or otherwise whether that office is vacant or not;
-
-'appointment' means the appointment of a person in an office in the Police Service;
-
-'the Chairman' means the Chairman of the Commission;
-
-'the  Commission'  means  the  Police  Service  Commission constituted under section 122 of the Constitution;
-
-'the Commissioner' means the Commissioner of Police;
-
-'the  Constitution'  means  the  Constitution  of  the  Republic  of Trinidad and Tobago;
-
-'Director' means the Director of Personnel Administration;
-
-'police officer or officer' means a member of the Police Service;
-
-'police officer in the First Division' means a police officer who holds an office specified in the First Schedule of the Police Service Act;
-
-'police  officer  in  the  Second  Division'  means  a  police  officer who holds an office specified in the Second Schedule of the Police Service Act;
-
-* These  Regulations  are  amended  by  LNs  106/1968;  7/1969;  80/1969;  47  of  1980;  99/1987; 214/1990; 25/1993; 175/1993; 41/1995; 79/1995; 43/2001; 58, 80, 91, 92 and 144/2006.
-
-† These Regulations were made under section 102 of the former Constitution, and continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01).
+1. These Regulations may be cited as the Police Service Commission Regulations.
 
 Interpretation.
+
+2. In these Regulations—
+
+“Act” means the Police Service Act;
+
+“acting appointment” means the temporary appointment of a police officer whether on promotion to a higher office or otherwise whether that office is vacant or not;
+
+“appointment” means the appointment of a person in an office in the Police Service;
+
+“the Chairman” means the Chairman of the Commission;
+
+“the Commission” means the Police Service Commission constituted under section 122 of the Constitution;
+
+“the Commissioner” means the Commissioner of Police;
+
+“the Constitution” means the Constitution of the Republic of Trinidad and Tobago;
+
+“Director” means the Director of Personnel Administration;
+
+“police officer or officer” means a member of the Police Service;
+
+“police officer in the First Division” means a police officer who holds an office specified in the First Schedule of the Police Service Act;
+
+“police officer in the Second Division” means a police officer who holds an office specified in the Second Schedule of the Police Service Act;
+
+*These Regulations are amended by LNs 106/1968; 7/1969; 80/1969; 47 of 1980; 99/1987; 214/1990; 25/1993; 175/1993; 41/1995; 79/1995; 43/2001; 58, 80, 91, 92 and 144/2006.
+
+†These Regulations were made under section 102 of the former Constitution, and continue in force by virtue of section 29(3) of the Interpretation Act (Ch. 3:01).
 
 Ch. 15:01.
 
@@ -10672,9 +10915,17 @@ Procedure, quorum and voting.
 
 of Trinidad and Tobago Constitution of the Republic
 
-[Subsidiary] | Police Service Commission Regulations
---- | ---
-Ch. 15:01. | 'promotion' means the appointment of a police officer to an office in the Police Service in a range carrying a higher remuneration; 'Police Service' or 'Service' means the Police Service established under the Police Service Act; 'public service' means the public service as defined in section 3 of the Constitution.
+[Subsidiary]
+
+Police Service Commission Regulations
+
+Ch. 15:01.
+
+“promotion” means the appointment of a police officer to an office in the Police Service in a range carrying a higher remuneration;
+
+“Police Service” or “Service” means the Police Service established under the Police Service Act;
+
+“public service” means the public service as defined in section 3 of the Constitution.
 
 ## CHAPTER  II
 
@@ -10746,7 +10997,7 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 [Subsidiary]
 
-Noncompliance.
+Non-compliance.
 
 Instrument of delegation to be published.
 
@@ -10942,43 +11193,31 @@ of Trinidad and Tobago Constitution of the Republic
 
 Police Service Commission Regulations
 
-(d)
+(d) the evaluation of his overall performance as reflected in his performance appraisal reports;
 
-- the  evaluation  of  his  overall  performance  as reflected in his performance appraisal reports;
+(e) any letters of commendation or special reports in respect of any special work done by him;
 
-(e)
+(f) the duties of which he has had knowledge;
 
-- any letters of commendation or special reports in respect of any special work done by him;
+(g) any specific recommendation of the Commissioner for filling the particular office;
 
-(f)
+(h) any previous employment of his in the Service or otherwise;
 
-(g)
+(i) any special reports for which the Commission may call;
 
-- the duties of which he has had knowledge;
+(j) his devotion to duty;
 
-- any specific recommendation of the Commissioner for filling the particular office;
-
-(h)
-
-- any previous employment of his in the Service or otherwise;
-
-(i)
-
-- any  special  reports  for  which  the  Commission may call;
-
-(j)
-
-(k)
-
-- his devotion to duty;
-
-- the date of his entry into the Service;
+(k) the date of his entry into the Service;
 
 (l) the date of his appointment in his present office.
 
 (3)  In  addition  to  the  requirements  prescribed  in subregulations  (1)  and  (2)  the  Commission  shall  take  into account any specifications that may be required from time to time for appointment to the particular office.
 
-} (Revoked by LN 79/1995). 21. 22.
+21.
+
+22.
+
+} (Revoked by LN 79/1995).
 
 23. (1)  The Commissioner shall ensure that any recommendation  made  in  relation  to  an  acting  appointment  as a  prelude  to  a  substantive  appointment  shall  be  based  on  the principles prescribed in regulation 20.
 
@@ -11074,7 +11313,7 @@ Police Service Commission Regulations
 
 (4)  The Director shall inform the new appointee whether the medical report is favourable or unfavourable.
 
-(5)  All communications relating to the medical report on a new appointee shall be strictly confidential and any officer who communicates the details of any such medical report to any other Police Service Commission Regulations person,  except  for  the  purpose  of,  and  as  provided  for,  in  this regulation, is guilty of an offence and liable to dismissal from the Police Service.
+(5) All communications relating to the medical report on a new appointee shall be strictly confidential and any officer who communicates the details of any such medical report to any other person, except for the purpose of, and as provided for, in this regulation, is guilty of an offence and liable to dismissal from the Police Service.
 
 [[END OF PAGE 262]]
 
@@ -11094,7 +11333,9 @@ Chap. 1:01
 
 ### STAFF  REPORTS
 
-31. (1)  The Commissioner shall forward to the Director in each yearStaff reports.
+Staff reports.
+
+31. (1) The Commissioner shall forward to the Director in each year—
 
 (a)
 
@@ -11190,7 +11431,11 @@ Police Service Commission Regulations
 
 34. Except  as  otherwise  provided  in  this  Chapter,  a  police officer  on  first  appointment  to  the  Police  Service  shall  be required to serve on probation for a period of two years.
 
-35. (1)  Where a police officer is to be appointed to an office in  which  he  has  performed  the  duties,  whether  in  an  acting  or temporary capacity, for periods of equal or longer duration than the  period  of  probation  prescribed  in  regulation  34,  the  police officer shall not be required to serve on probation.
+35. (1) Where a police officer is to be appointed to an office in which he has performed the duties, whether in an acting or temporary capacity, for periods of equal or longer duration than the period of probation prescribed in regulation 34, the police officer shall not be required to serve on probation.
+
+(2) Where a police officer is appointed on promotion to an office in which he has acted satisfactorily for periods of less duration than the period of probation prescribed in regulation 36, not more than one year and not less than six months acting service may be offset against the period of probation.
+
+36. (1) Subject to regulation 35, a police officer who is appointed on promotion to an office may be required to serve on probation for one year in the office to which he is promoted.
 
 [Subsidiary]
 
@@ -11198,9 +11443,7 @@ Period of probation on first appointment.
 
 Probation not required or may be offset in certain cases.
 
-(2)  Where a police officer is appointed on promotion to an office in which he has acted satisfactorily for periods of less duration than the period of probation prescribed in regulation 36, not  more  than  one  year  and  not  less  than  six  months  acting service may be offset against the period of probation.
-
-36. (1)  Subject  to  regulation  35,  a  police  officer  who  is appointed on promotion to an office may be required to serve on probation for one year in the office to which he is promoted. Probation on promotion.
+Probation on promotion.
 
 L.R.O. 1/2009
 
@@ -11268,7 +11511,9 @@ Police Service Commission Regulations
 
 [Subsidiary]
 
-Confidential reports. 39. (1)  In  the  case  of  a  police  officer  serving  a  two-year period  of  probation,  the  Commissioner  shall  furnish  to  the Director three confidential reports as follows:
+Confidential reports.
+
+39. (1) In the case of a police officer serving a two-year period of probation, the Commissioner shall furnish to the Director three confidential reports as follows:
 
 (a) a first report after the police officer  has completed one year's service;
 
@@ -11288,23 +11533,15 @@ Confidential reports. 39. (1)  In  the  case  of  a  police  officer  serving  a
 
 (3)  The Director shall report to the Commission whenever the Commissioner fails to submit a confidential report on an officer on probation within the terms specified in this regulation.
 
-(4)  In  submitting  the  final  report,  the  Commissioner shall make a firm recommendation-
+(4) In submitting the final report, the Commissioner shall make a firm recommendation—
 
-(a)
+(a) that the police officer be confirmed in the appointment; or
 
-- that  the  police  officer  be  confirmed  in  the appointment; or
+(b) that the period of probation be extended; or
 
-(b)
+(c) that the police officer’s appointment on probation be terminated; or
 
-- that the period of probation be extended; or
-
-(c)
-
-(d)
-
-- that the police officer's appointment on probation be terminated; or
-
-- that the police officer return to his former office.
+(d) that the police officer return to his former office.
 
 (5)  The report of the Commissioner under this regulation shall  not  be  seen  by  the  police  officer  on  probation,  but  any adverse  comments  on  his  work  shall  be  in  specific  terms;  the officer shall be notified in writing in duplicate as early as possible, so that he should have sufficient time in which to make an effort to correct his shortcomings before his period of probation expires. The police officer shall retain the original notification and shall sign the duplicate and return it to the Commissioner for the record.
 
@@ -11378,7 +11615,7 @@ Police Service Commission Regulations
 
 before the date on which he wishes to relinquish his appointment, but  the  Commission  may  waive  the  requirement  of  notice  in whole or in part if it thinks fit.
 
-(2)  Notwithstanding any regulation respecting the nonforfeiture of leave, a police officer who fails without reasonable cause to comply with subregulation (1) may forfeit all leave and the benefits and privileges accruing to him in respect of leave.
+(2) Notwithstanding any regulation respecting the non-forfeiture of leave, a police officer who fails without reasonable cause to comply with subregulation (1) may forfeit all leave and the benefits and privileges accruing to him in respect of leave.
 
 (3)  An  officer  is  not  entitled  to  withdraw his notice of resignation  before  such  resignation  becomes  effective,  but  the Commission may accept such withdrawal if tendered in writing at any time before the effective date of the resignation.
 
@@ -11422,11 +11659,47 @@ L.R.O. 1/2009
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-270 | of Trinidad and Tobago Chap. 1:01
---- | ---
-[Subsidiary] | Police Service Commission Regulations (ii) where the office itself is of a temporary nature and is no longer necessary; (iii) on the termination of appointment in the case of a police officer on probation; (iv) on the termination of appointment in the case of an officer holding a non- pensionable office with no service in a pensionable office; (v) on dismissal or removal in consequence of disciplinary proceedings; (vi) ill health. (c) Where the police officer is on contract, his services shall be terminated in accordance with
-Compulsory and voluntary retirement. | 47. (1) A police officer in the First Division- (i) shall be required to retire on attaining the age of sixty years; (ii) may, with the approval of the Commission, retire on attaining the age of fifty-five years; (iii) may, with the permission of the President, retire on attaining the age of fifty years, if he has had not less than thirty years continuous service. (2) A police officer in the Second Division-
-Commissioner to notify Director of officers to retire | 48. The Commissioner shall inform the Director of all officers in the Service who are within one year of the compulsory retirement age.
+270
+
+Chap. 1:01
+
+of Trinidad and Tobago Constitution of the Republic
+
+[Subsidiary]
+
+Police Service Commission Regulations
+
+(ii) where the office itself is of a temporary nature and is no longer necessary;
+
+(iii) on the termination of appointment in the case of a police officer on probation;
+
+(iv) on the termination of appointment in the case of an officer holding a non-pensionable office with no service in a pensionable office;
+
+(v) on dismissal or removal in consequence of disciplinary proceedings;
+
+(vi) ill health.
+
+(c) Where the police officer is on contract, his services shall be terminated in accordance with the terms of the contract.
+
+Compulsory and voluntary retirement.
+
+47. (1) A police officer in the First Division—
+
+(i) shall be required to retire on attaining the age of sixty years;
+
+(ii) may, with the approval of the Commission, retire on attaining the age of fifty-five years;
+
+(iii) may, with the permission of the President, retire on attaining the age of fifty years, if he has had not less than thirty years continuous service.
+
+(2) A police officer in the Second Division—
+
+(i) shall be required to retire on attaining the age of fifty-five years;
+
+(ii) may, with the approval of the Commission, retire on attaining the age of fifty years.
+
+Commissioner to notify Director of officers to retire compulsorily.
+
+48. The Commissioner shall inform the Director of all officers in the Service who are within one year of the compulsory retirement age.
 
 [[END OF PAGE 270]]
 
@@ -11528,15 +11801,13 @@ is unable to perform his duties, the Commission may direct that the period durin
 
 ### CONDUCT
 
-}
-
 55.
 
 to
 
-(Revoked by LN 214/1990).
-
 74.
+
+} (Revoked by LN 214/1990).
 
 ## CHAPTER  VIII
 
@@ -11586,7 +11857,11 @@ these  Regulations  or  the  Police  Service  Regulations,  shall  be liable  to
 
 (2)  The Commission, after considering the report made under  subregulation  (1),  may  institute  disciplinary  proceedings against the police officer.
 
-} (Deleted by LN 214/1990). (3) (4)
+(3)
+
+(4)
+
+} (Deleted by LN 214/1990).
 
 78. The Commissioner shall report any case not covered by these Regulations to the Director and the Commission may issue instructions as to how the case shall be dealt with, and the case shall be dealt with accordingly.
 
@@ -11948,7 +12223,7 @@ Police Service Commission Regulations
 
 97. (1)  Where, during the course of the hearing of a case and before  the  hearing  is  concluded,  it  appears  to  the  disciplinary tribunal  that  there  are  grounds  disclosed  which  could  form  the basis  of  a  charge  for  which  the  penalty  that  could  be  imposed could be any one of the penalties specified in regulation 104(1), the disciplinary tribunal shall adjourn the hearing for a period not exceeding fourteen days and shall forthwith report its findings of fact with a report of the proceedings up to date to the Commission.
 
-- Where in the opinion of the Commission-
+(2)  Where in the opinion of the Commission—
 
 (a) the police officer should be charged with other offences, the Commission shall cause the officer to  be  so  charged  and  the  proceedings  before such disciplinary tribunal shall cease; or
 
@@ -12012,7 +12287,7 @@ Police Service Commission Regulations
 
 (2)  The Commission shall, as soon as possible after the hearing of the charge, inform the police officer in writing of its findings, the penalty imposed on him and of his right to appeal to the Public Service Appeal Board.
 
-- Where the police officer-
+(3)  Where the police officer—
 
 (a)
 
@@ -12080,38 +12355,47 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
-}
+Chap. 1:01
 
-to
+286
 
-(Revoked by L N  214/1990).
+[Subsidiary]
 
-286 | Chap. 1:01 | of Trinidad and Tobago
---- | --- | ---
-[Subsidiary] | the scale of attached to the particular office; (d) deferment of is, a postponement of the date on is due, with in subsequent years; (e) stoppage of no payment for a specified period of an increment otherwise due; (f) transfer; (g) fine; (h) reprimand. (2) Where a fine is imposed, the amount of such fine shall be deducted from the pay of the police officer in such manner as may be specified at the time the penalty is imposed. 105. | Police Service Commission Regulations remuneration increment, that which the next increment corresponding postponements increment, that is,
-} to (Revoked by L N 214/1990). 107.
+Police Service Commission Regulations
+
+the scale of remuneration attached to the particular office;
+
+(d) deferment of increment, that is, a postponement of the date on which the next increment is due, with corresponding postponements in subsequent years;
+
+(e) stoppage of increment, that is, no payment for a specified period of an increment otherwise due;
+
+(f) transfer;
+
+(g) fine;
+
+(h) reprimand.
+
+(2)  Where a fine is imposed, the amount of such fine shall be deducted from the pay of the police officer in such manner as may be specified at the time the penalty is imposed.
+
+105.
+to (Revoked by LN 214/1990).
+107.
 
 Non-payment of remuneration on conviction on a criminal charge.
 
-108. (1)  A police officer convicted of a criminal charge and sentenced  to  imprisonment  without  the  option  of  a  fine  or convicted of a criminal charge involving-
+108. (1)  A police officer convicted of a criminal charge and sentenced to imprisonment without the option of a fine or convicted of a criminal charge involving—
 
-(a)
+(a) dishonesty;
 
-(b)
+(b) fraud; or
 
-(c)
-
-- dishonesty;
-
-- fraud; or
-
-- moral turpitude,
+(c) moral turpitude,
 
 shall not receive any pay or allowance after the date of conviction pending consideration of his case by the Commission.
 
-(2)  The  Commission  may  direct  that  a  police  officer convicted of a charge described in subregulation (1) shall cease to perform the duties of his office forthwith.
+(2)  The Commission may direct that a police officer convicted of a charge described in subregulation (1) shall cease to perform the duties of his office forthwith.
 
-(3)  Notwithstanding that a police officer convicted of a charge  described  in  subregulation  (1)  has  appealed  against  the conviction,  such  police  officer  shall  not  receive  any  pay  or allowance after the date of conviction.
+(3)  Notwithstanding that a police officer convicted of a charge described in subregulation (1) has appealed against the conviction, such police officer shall not receive any pay or allowance after the date of conviction.
 
 [[END OF PAGE 286]]
 
@@ -12135,7 +12419,7 @@ Police Service Commission Regulations
 
 #### OATH  (OR AFFIRMATION)  OF  OFFICE
 
-I, ......................................................................................................................... do swear/solemnly declare and affirm, that I will without fear, favour, affection or ill-will, well and truly perform my duties in the office of Chairman/ Member of the Police Service Commission in the exercise of the powers vested in the Police Service  Commission  under  the  Constitution  and  that  I  will  not  directly  or indirectly reveal any information to any unauthorised person or otherwise than in the course of duty.
+I, ......................................................................................................................... do swear/solemnly declare and affirm, that I will without fear, favour, affection or ill-will, well and truly perform my duties in the office of Chairman/ Member of the Police Service Commission in the exercise of the powers vested in the Police Service Commission under the Constitution and that I will not directly or indirectly reveal any information to any unauthorised person or otherwise than in the course of duty.
 
 So help me God.
 
@@ -12145,22 +12429,20 @@ Sworn/Declared before me this ...................... day of .................., 
 
 Judge of the High Court
 
-Application of Regulations to all officers.
-
 Regulation 3(1).
-
-}
 
 ## CHAPTER  IX
 ### REVIEWS
 
-109. to 116.
-
-(Revoked by LN 214/1990).
+109.
+to (Revoked by LN 214/1990).
+116.
 
 ## CHAPTER  X
 
 ### APPLICATION  OF  REGULATIONS
+
+Application of Regulations to all officers.
 
 117. These Regulations apply to every police officer whether the police officer is appointed to an office in the Service for an indeterminate period or on probation.
 
@@ -12208,15 +12490,41 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 Constitution of the Republic
 
-of Trinidad and Tobago | 289
---- | --- | --- | ---
-Police Service Commission Regulations | [Subsidiary]
-Regulation 65(2). | How | Amount now outstanding | .................................................................
-Terms of repayment
-secured | Signature
-Reason for which debt was incurred | 170).
-Date incurred WHOM INDEBTED | ...............................................20 ...... on Second Schedule at page
-Date * (N.B. -See Note
+of Trinidad and Tobago
+
+Chap. 1:01
+
+289
+
+Police Service Commission Regulations
+
+[Subsidiary]
+
+## *SECOND SCHEDULE
+
+Regulation 65(2).
+
+#### RETURN OF INDEBTEDNESS
+
+As at ........................................... 20.................
+
+Name: ...................................................................................
+
+Office head: .......................................................................... Married/Single.........................................................................
+
+Ministry/Department: ............................................................ Number of dependants .............................................................
+
+Salary: ..................................................................................
+
+Salary after deductions: ........................................................
+
+TO WHOM INDEBTED
+
+Name | Date incurred | Reason for which debt was incurred | How secured | Terms of repayment | Amount now outstanding
+
+Date ...............................................20 ...... Signature .................................................................
+
+*(N.B.—See Note on Second Schedule at page 170).
 
 L.R.O. 1/2009
 
@@ -12233,7 +12541,9 @@ L.R.O. 1/2009
 
 made under section 123(2) of the Constitution
 
-- This  Order  may  be  cited  as  the  Appointment  of  the Commissioner  of  Police  and  Deputy  Commissioner  of  Police (Qualification and Selection Criteria) Order. Citation.
+Citation.
+
+1. This Order may be cited as the Appointment of the Commissioner of Police and Deputy Commissioner of Police (Qualification and Selection Criteria) Order.
 
 Qualification and experience.
 
@@ -12253,7 +12563,9 @@ Qualification and experience.
 
 (b) no less than fifteen years experience of increasing responsibility in law enforcement.
 
-3. A candidate for the office of Commissioner of Police or Deputy Commissioner of Police shall meet the following core criteria: Core criteria for appointment.
+Core criteria for appointment.
+
+3. A candidate for the office of Commissioner of Police or Deputy Commissioner of Police shall meet the following core criteria:
 
 (a) leadership skills, which enable him to motivate, inspire and engender trust and confidence in the members of the Police Service;
 
@@ -12325,11 +12637,17 @@ of Trinidad and Tobago Constitution of the Republic
 
 made under section 123(2) of the Constitution
 
-- This Order may be cited as the Commissioner of Police and Deputy Commissioner of Police (Selection Process) Order. Citation.
+Citation.
 
-- In this Order, 'Commission' means the Police Service Commission established under section 122 of the Constitution. Interpreta  tion.
+1. This Order may be cited as the Commissioner of Police and Deputy Commissioner of Police (Selection Process) Order.
 
-3. The selection process for appointment to the offices of Commissioner  of  Police  and  Deputy  Commissioner  of  Police shall be conducted in the following manner: Selection process.
+Interpretation.
+
+2. In this Order, “Commission” means the Police Service Commission established under section 122 of the Constitution.
+
+Selection process.
+
+3. The selection process for appointment to the offices of Commissioner of Police and Deputy Commissioner of Police shall be conducted in the following manner:
 
 (a) the  Commission  shall  advertise  each  vacancy twice each-
 
@@ -12425,51 +12743,43 @@ Verification of reports.
 
 [[START OF PAGE 295]]
 
-###### REGULATION
-
-1.
-
-- Citation.
-
-- Interpretation.
-
-- Meetings and procedure of Board.
-
-- Secretary.
-
-- Notice of appeal.
-
-- Time for appeal.
-
-- Service of notice of appeal.
-
-- Copy of record and affidavit of service to be filed with Secretary.
-
-- 8A.   Record of disciplinary proceedings to be filed by respondent.
-
-- Procedure on withdrawing appeal.
-
-- Entitlement to be represented by an Attorney-at-law.
-
-- Appeal Board may require production of exhibit.
-
-- l2.   Power of Appeal Board to dismiss an appeal.
-
-- Procedure where respondent fails to appear at hearing.
-
-- Fees.
-
-FIRST  SCHEDULE. SECOND  SCHEDULE.
-
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 Constitution of the Republic
 
-of Trinidad and Tobago Chap. 1:01 295 [Subsidiary]
+of Trinidad and Tobago
+
+Chap. 1:01
+
+295
+
+[Subsidiary]
 
 ## PUBLIC  SERVICE  APPEAL  BOARD REGULATIONS
 
 ### ARRANGEMENT  OF  REGULATIONS
+
+###### REGULATION
+
+1. Citation.
+2. Interpretation.
+3. Meetings and procedure of Board.
+4. Secretary.
+5. Notice of appeal.
+6. Time for appeal.
+7. Service of notice of appeal.
+8. Copy of record and affidavit of service to be filed with Secretary.
+8A. Record of disciplinary proceedings to be filed by respondent.
+9. Procedure on withdrawing appeal.
+10. Entitlement to be represented by an Attorney-at-law.
+11. Appeal Board may require production of exhibit.
+12. Power of Appeal Board to dismiss an appeal.
+13. Procedure where respondent fails to appear at hearing.
+14. Fees.
+
+FIRST  SCHEDULE.
+
+SECOND  SCHEDULE.
 
 L.R.O. 1/2009
 
@@ -12481,32 +12791,54 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
-296 | of Trinidad and Tobago Chap. 1:01
---- | ---
-[Subsidiary] 74/1978. [172/1978 68/1981 85/1981 179/1985]. |
+296
+
+Chap. 1:01
+
+[Subsidiary]
+
+74/1978.
+
+[172/1978
+68/1981
+85/1981
+179/1985].
+
 ## PUBLIC SERVICE APPEAL BOARD REGULATIONS
+
 made under section 132(5) of the Constitution
-Citation. | 1. These Regulations may be cited as the Public Service Appeal Board Regulations.
-Interpretation. | 2. In these Regulations- 'appellant' means the public officer in respect of whom a Service Commission makes a decision as a result of disciplinary proceedings brought against such officer;
-Ch. 1:01. | 'the Constitution' means the Constitution set out in the Schedule to the Constitution of the Republic of Trinidad and Tobago Act; 'exhibits' includes all papers, reports, records and other documents, matters and things used or prepared in connection with disciplinary proceedings; 'the Public Service Appeal Board' or 'the Appeal Board' means the Public Service Appeal Board constituted under section 130(1) of the Constitution; 'respondent' means the Director of Personnel Administration; 'Secretary' means the Secretary to the Public Service Appeal Board;
 
-'Service Commission' means-
+Citation.
 
-(a)
+1. These Regulations may be cited as the Public Service Appeal Board Regulations.
 
-- the  Judicial  and  Legal  Service  Commission established under section 110(1) of the Constitution;
+Interpretation.
 
-(b)
+2. In these Regulations—
 
-- the  Public  Service  Commission  established under section 120(1) of the Constitution;
+“appellant” means the public officer in respect of whom a Service Commission makes a decision as a result of disciplinary proceedings brought against such officer;
 
-(c)
+Ch. 1:01.
 
-(d)
+“the Constitution” means the Constitution set out in the Schedule to the Constitution of the Republic of Trinidad and Tobago Act;
 
-- the  Police  Service  Commission  established under section 122(1) of the Constitution;
+“exhibits” includes all papers, reports, records and other documents, matters and things used or prepared in connection with disciplinary proceedings;
 
-- the  Teaching  Service  Commission  established under section 124(1) of the Constitution,
+“the Public Service Appeal Board” or “the Appeal Board” means the Public Service Appeal Board constituted under section 130(1) of the Constitution;
+
+“respondent” means the Director of Personnel Administration;
+
+“Secretary” means the Secretary to the Public Service Appeal Board;
+
+“Service Commission” means—
+
+(a) the Judicial and Legal Service Commission established under section 110(1) of the Constitution;
+
+(b) the Public Service Commission established under section 120(1) of the Constitution;
+
+(c) the Police Service Commission established under section 122(1) of the Constitution;
+
+(d) the Teaching Service Commission established under section 124(1) of the Constitution,
 
 and includes any person to whom the powers of a Service Commission have been delegated.
 
@@ -12676,7 +13008,7 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 [Subsidiary]
 
-Entitlement to be represented by an Attorneyat-law.
+Entitlement to be represented by an Attorney-at-law.
 
 Appeal Board may require production of exhibit.
 
@@ -12784,7 +13116,7 @@ And
 
 Respondent
 
-TAKE NOTICE that the Appellant being dissatisfied with the decision or part thereof of the .................................................... Service Commission given on the ................................  day  of  .....................................,  20.........  and  more  particularly stated in paragraph 2 hereby appeals against such decision or part thereof to the Public Service Appeal Board on the grounds set forth in paragraph 3 and will at the hearing of the appeal seek the relief set out in paragraph 4.
+TAKE NOTICE that the Appellant being dissatisfied with the decision or part thereof of the .................................................... Service Commission given on the ................................ day of ....................................., 20......... and more particularly stated in paragraph 2 hereby appeals against such decision or part thereof to the Public Service Appeal Board on the grounds set forth in paragraph 3 and will at the hearing of the appeal seek the relief set out in paragraph 4.
 
 2.   ..................................................................................................................................
 
@@ -12792,7 +13124,9 @@ TAKE NOTICE that the Appellant being dissatisfied with the decision or part ther
 
 ..........................................................................................................................................
 
-- State  grounds  of  appeal  and  particulars  of  the  misdirection  or  error  in  law  on which the decision was based:
+(Insert here the decision or the part thereof against which the notice of appeal is filed)
+
+3. State grounds of appeal and particulars of the misdirection or error in law on which the decision was based:
 
 (a)
 
@@ -12816,19 +13150,17 @@ TAKE NOTICE that the Appellant being dissatisfied with the decision or part ther
 
 ..........................................................................................................................................
 
+(Insert here the relief sought from the Public Service Appeal Board)
+
 Dated this .............. day of ..................................., 20 .......
 
 .......................................................................
 
+Appellant or his Legal Representative
+
 [172/1978 68/1981 85/1981 179/1985].
 
 Regulation 5(1).
-
-(Insert here the relief sought from the Public Service Appeal Board)
-
-Appellant or his Legal Representative
-
-(Insert here the decision or the part thereof against which the notice of appeal is filed)
 
 [[END OF PAGE 302]]
 
@@ -12838,26 +13170,40 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
+Chap. 1:01
+
+303
+
 Public Service Appeal Board Regulations
+
+[Subsidiary]
+
+Regulations 4(3) & 6(4).
 
 ### FORM  2
 
 #### BEFORE  THE  PUBLIC  SERVICE  APPEAL  BOARD
 #### NOTICE  OF  HEARING  OF  APPEAL
 
-(Address) ........................................................................................................................... Appellant And ....................................................................................................................... Respondent TAKE NOTICE that the above-mentioned Appeal will come on for hearing before the Public Service Appeal Board at ........................................................................................
-
-Secretary, Public Service Appeal Board
-
 Appeal No ....................................... of 20......
 
 Between
+
+........................................................................................................................... Appellant
+
+And
+
+....................................................................................................................... Respondent
+
+TAKE NOTICE that the above-mentioned Appeal will come on for hearing before the Public Service Appeal Board at ........................................................................................
 
 on the ............ day of ................., 20 ........ at ........... a.m./p.m. and continuing thereafter as the Board may direct.
 
 Dated this .................. day of ....................................., 20 .......
 
 .........................................................................
+
+Secretary, Public Service Appeal Board
 
 To: .....................................
 
@@ -12867,13 +13213,9 @@ To: .....................................
 
 ......................................
 
-Chap. 1:01
+......................................
 
-303
-
-[Subsidiary]
-
-Regulations 4(3) & 6(4).
+(Address)
 
 L.R.O. 1/2009
 
@@ -12900,23 +13242,31 @@ Public Service Appeal Board Regulations
 #### BEFORE  THE  PUBLIC  SERVICE  APPEAL  BOARD
 #### APPLICATION  FOR  EXTENSION  OF  TIME  TO FILE  APPEAL
 
-(State reason why appeal was not filed within the specified period)
-
-Name of Applicant
-
-Applicant
-
 In the Matter of ........................................................................................................
 
 And
 
-the .................................................................................................. Service Commission And
+the .................................................................................................. Service Commission
 
-In the Matter of an Application for an Extension of Time to File an Appeal I, ................................................ of .................................................................................. occupation ...................................................................... hereby apply for an extension of time to file an appeal against the decision of the .................................................................. Service Commission given on the ............. day of ..................., 20 ....... I was unable to file  the  appeal  within  the  period  specified  by  the  Public  Service  Appeal  Board Regulations because ........................................................................................................ .......................................................................................................................................... ..........................................................................................................................................
+And
+
+In the Matter of an Application for an Extension of Time to File an Appeal
+
+I, ................................................ of .................................................................................. occupation ...................................................................... hereby apply for an extension of time to file an appeal against the decision of the .................................................................. Service Commission given on the ............. day of ..................., 20 ....... I was unable to file the appeal within the period specified by the Public Service Appeal Board Regulations because ........................................................................................................
+
+..........................................................................................................................................
+
+..........................................................................................................................................
+
+(State reason why appeal was not filed within the specified period)
 
 Dated this ...........................day of .........................................., 20 .......
 
 ..................................................................................
+
+Name of Applicant
+
+Applicant
 
 [[END OF PAGE 304]]
 
@@ -12947,11 +13297,13 @@ And
 
 Respondent
 
-TAKE NOTICE that the Respondent has filed the record of the Proceedings (a copy of  which  is  enclosed)  pursuant  to  Regulation  8A(1)  of  the  Public  Service  Appeal Board Regulations.
+TAKE NOTICE that the Respondent has filed the record of the Proceedings (a copy of which is enclosed) pursuant to Regulation 8A(1) of the Public Service Appeal Board Regulations.
 
 Dated this .................... day of ................................., 20 .......
 
 .........................................................................
+
+Secretary, Public Service Appeal Board
 
 To the Appellant
 
@@ -12976,9 +13328,13 @@ Appellant
 
 And
 
-....................................................................................................................... Respondent TAKE NOTICE that the Appellant has filed the record and documents required to be filed pursuant to regulation 8A(2) (a) of the Public Service Appeal Board Regulations.
+....................................................................................................................... Respondent
+
+TAKE NOTICE that the Appellant has filed the record and documents required to be filed pursuant to regulation 8A(2)(a) of the Public Service Appeal Board Regulations.
 
 .........................................................................
+
+Secretary, Public Service Appeal Board
 
 To the Respondent.
 
@@ -12987,10 +13343,6 @@ To the Respondent.
 ...............................................................
 
 ...............................................................
-
-Secretary, Public Service Appeal Board
-
-Secretary, Public Service Appeal Board
 
 Chap. 1:01
 
@@ -13022,15 +13374,25 @@ Public Service Appeal Board Regulations
 #### BEFORE  THE  PUBLIC  SERVICE  APPEAL  BOARD
 #### NOTICE  OF  WITHDRAWAL  OF  APPEAL
 
-Appeal No .................... of  20............
+Appeal No .................... of 20............
 
 Between
 
-.......................................................................................................................... Appellant And ....................................................................................................................... Respondent TAKE  NOTICE that  the  Appellant  hereby  withdraws  his  appeal  against  the Respondent in the above-named appeal.
+.......................................................................................................................... Appellant
+
+And
+
+....................................................................................................................... Respondent
+
+TAKE NOTICE that the Appellant hereby withdraws his appeal against the Respondent in the above-named appeal.
 
 Dated this ................... day of .................................................., 20 .......
 
 .................................................................
+
+Appellant
+
+Regulation 9(a).
 
 ### FORM 7
 
@@ -13038,7 +13400,7 @@ Dated this ................... day of ..........................................
 
 #### NOTICE  OF  APPLICATION  FOR  RESTORATION OF  APPEAL
 
-Appeal No ...................... of  20...........
+Appeal No ...................... of 20...........
 
 Between
 
@@ -13052,7 +13414,7 @@ And
 
 Respondent
 
-TAKE NOTICE that I .............................. the  Appellant  in  the  above-named  appeal which  was  dismissed  on the .......... day of ........................., 20 ........ hereby apply for the restoration of the said appeal on the grounds that-
+TAKE NOTICE that I .............................. the Appellant in the above-named appeal which was dismissed on the .......... day of ........................., 20 ........ hereby apply for the restoration of the said appeal on the grounds that—
 
 (a)
 
@@ -13065,10 +13427,6 @@ TAKE NOTICE that I .............................. the  Appellant  in  the  above
 (c)
 
 ..........................................................................................................................
-
-Appellant
-
-Regulation 9 (a).
 
 Regulation 12(2).
 
@@ -13080,12 +13438,36 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
+Chap. 1:01
+
+307
+
+Public Service Appeal Board Regulations
+
+[Subsidiary]
+
+(d)
+
+..........................................................................................................................
+
+(e)
+
+..........................................................................................................................
+
+(State grounds on which application is based)
+
+Dated this ................. day of ................................., 20.......
+
+..................................................................
+
+Applicant/Appellant
+
 ### FORM  8
 #### BEFORE  THE  PUBLIC  SERVICE  APPEAL  BOARD
 
 #### NOTICE  OF  APPLICATION  FOR  SETTING  ASIDE DECISION  IN  APPEAL  TAKEN EX  PARTE
 
-Appeal No ...................... of  20......
+Appeal No ...................... of 20......
 
 Between
 
@@ -13099,11 +13481,7 @@ And
 
 Respondent
 
-TAKE NOTICE
-
-that the .............................................................. Service Commission,
-
-the  Respondent  in  the  above-named  appeal  which  was  decided ex  parte on  the ......................... day of ................................., 20...... hereby applies for a setting aside of that decision on the grounds that-
+TAKE NOTICE that the .............................................................. Service Commission, the Respondent in the above-named appeal which was decided ex parte on the ......................... day of ................................., 20...... hereby applies for a setting aside of that decision on the grounds that—
 
 (a)
 
@@ -13125,39 +13503,15 @@ the  Respondent  in  the  above-named  appeal  which  was  decided ex  parte on 
 
 ........................................................................................................................
 
+(State grounds on which application is based)
+
 Dated this .............. day of ................................., 20......
 
 ......................................................
 
-(d)
-
-..........................................................................................................................
-
-(e)
-
-..........................................................................................................................
-
-Dated this ................. day of ................................., 20.......
-
-..................................................................
-
-Chap. 1:01
-
-307
-
-Public Service Appeal Board Regulations
-
-[Subsidiary]
-
 Applicant/Respondent
 
-(State grounds on which application is based)
-
 Regulation 13(2).
-
-Applicant/Appellant
-
-(State grounds on which application is based)
 
 L.R.O. 1/2009
 
@@ -13168,6 +13522,40 @@ L.R.O. 1/2009
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
+
+Chap. 1:01
+
+308
+
+Public Service Appeal Board Regulations
+
+[Subsidiary]
+
+Regulation 14(1).
+
+[179/1985].
+
+## SECOND  SCHEDULE
+
+Documents
+
+Fees
+
+$ ¢
+
+1. For a copy of judgment after trial… … … …  2.50
+
+2. For a copy of a judgment by default of appearance or defence  1.50
+
+3. For a copy of reasons for judgment of a Court per each page or part thereof … … … … …  1.00
+
+but not to exceed… … … … …  25.00
+
+4. For a photographic copy of all or any part of any document whether or not issued as an office copy—for each photographic sheet  1.25
+
+5. For a typewritten copy of any document per folio of 100 words or part thereof … … … … …  .25
+
+6. For each folio of 100 words or part thereof of any additional carbon copy, bespoken … … … … …  .15
 
 [[END OF PAGE 308]]
 
@@ -13187,45 +13575,47 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 ###### REGULATION
 
-- Citation.
+1. Citation.
 
-- Interpretation.
+2. Interpretation.
 
-- Meetings of Commission.
+3. Meetings of Commission.
 
-- Composition of the Commission for hearing of appeals.
+4. Composition of the Commission for hearing of appeals.
 
-- Procedure for notice of appeal.
+5. Procedure for notice of appeal.
 
-- Time for filing appeal.
+6. Time for filing appeal.
 
-- Service of notice of appeal.
+7. Service of notice of appeal.
 
-- Procedure on notice of appeal.
+8. Procedure on notice of appeal.
 
-- Procedure on withdrawal of appeal.
+9. Procedure on withdrawal of appeal.
 
-- Entitlement to representation by Attorney-at-law.
+10. Entitlement to representation by Attorney-at-law.
 
-- Production of exhibits Commission may require.
+11. Production of exhibits Commission may require.
 
-- Power of Commission to dismiss appeals.
+12. Power of Commission to dismiss appeals.
 
-- Non-appearance of respondent at hearing.
+13. Non-appearance of respondent at hearing.
 
-- Powers of Commission.
+14. Powers of Commission.
 
-- Presentation of evidence.
+15. Presentation of evidence.
 
-- Commission not bound by rules of evidence.
+16. Commission not bound by rules of evidence.
 
-- Functions of Commission.
+17. Functions of Commission.
 
-- Powers of Commission on appeal.
+18. Powers of Commission on appeal.
 
-- Copies of appeal documents.
+19. Copies of appeal documents.
 
-FIRST  SCHEDULE. SECOND  SCHEDULE.
+FIRST  SCHEDULE.
+
+SECOND  SCHEDULE.
 
 L.R.O. 1/2011
 
@@ -13241,15 +13631,45 @@ LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
 
-270/2009. |
+270/2009.
+
 ## POLICE SERVICE COMMISSION (APPEAL) REGULATIONS
---- | ---
+
 made with the consent of the Prime Minister under section 129 of the Constitution
-Citation. | 1. These Regulations may be cited as the Police Service Commission (Appeal) Regulations.
-Interpretation. | 2. In these Regulations- 'appellant' means a police officer in respect of whom the Commissioner of Police or any person to whom the powers of the Commissioner of Police have been delegated makes a decision as a result of disciplinary proceedings brought against such officer or on promotion who files an appeal;
-Ch. 1:01. | 'the Constitution' means the Constitution set out in the Schedule to the Constitution of the Republic of Trinidad and Tobago Act;
-Ch. 15:01. | 'Police Service' means the Police Service established by section 4 of the Police Service Act; 'respondent' means the Commissioner of Police; 'the Commission' means the Police Service Commission as
-Meetings of Commission. | 3. (1) The Commission shall meet at such times as may be necessary for the purpose of performing its functions stipulated in section 123(1) (f) of the Constitution. (2) Hearings shall be held on such days and at such times and place as the Commission may determine. (3) The Chairman or in his absence any member of the Commission with the consent of the Commission shall preside at
+
+Citation.
+
+1. These Regulations may be cited as the Police Service Commission (Appeal) Regulations.
+
+Interpretation.
+
+2. In these Regulations—
+
+“appellant” means a police officer in respect of whom the Commissioner of Police or any person to whom the powers of the Commissioner of Police have been delegated makes a decision as a result of disciplinary proceedings brought against such officer or on promotion who files an appeal;
+
+Ch. 1:01.
+
+“the Constitution” means the Constitution set out in the Schedule to the Constitution of the Republic of Trinidad and Tobago Act;
+
+“exhibits” includes all papers, reports, records and other documents, matters and things used or prepared in connection with disciplinary proceedings or promotion;
+
+“police officer” means a member of the Police Service;
+
+Ch. 15:01.
+
+“Police Service” means the Police Service established by section 4 of the Police Service Act;
+
+“respondent” means the Commissioner of Police;
+
+“the Commission” means the Police Service Commission as established by section 122(1) of the Constitution.
+
+Meetings of Commission.
+
+3. (1) The Commission shall meet at such times as may be necessary for the purpose of performing its functions stipulated in section 123(1)(f) of the Constitution.
+
+(2) Hearings shall be held on such days and at such times and place as the Commission may determine.
+
+(3) The Chairman or in his absence any member of the Commission with the consent of the Commission shall preside at any meeting of the Commission.
 
 [[END OF PAGE 310]]
 
@@ -13271,7 +13691,7 @@ Police Service Commission (Appeal) Regulations
 
 (2)  Every promotion appeal shall be brought by notice in the form set out as Form 1 in the First Schedule.
 
-(3)  A notice under subregulation (1) or (2) shall-
+(3)  A notice under subregulation (1) or (2) shall—
 
 (a) set forth the grounds of appeal;
 
@@ -13287,7 +13707,7 @@ Police Service Commission (Appeal) Regulations
 
 (6)  No  ground  which  is  vague  or  general  in  terms  or which  discloses  no  reasonable  grounds  of  appeal  shall  be permitted, save the general ground that the judgment is against the weight of the evidence, and any ground of appeal or any part thereof  which  is  not  permitted  under  this  regulation  may  be struck  out  by  the  Commission  of  its  own  motion  or  on application by the respondent.
 
-(7)  No apellant may, without leave of the Commission, urge  or  be  heard  in  support  of  any  ground  of  objection  not mentioned in the notice of appeal, but the Commission may in its discretion  and  upon  conditions  as  it  considers  just,  allow  an appellant to amend the grounds of appeal specified in the notice.
+(7)  No appellant may, without leave of the Commission, urge or be heard in support of any ground of objection not mentioned in the notice of appeal, but the Commission may in its discretion and upon conditions as it considers just, allow an appellant to amend the grounds of appeal specified in the notice.
 
 [Subsidiary]
 
@@ -13323,7 +13743,7 @@ of Trinidad and Tobago Constitution of the Republic
 
 Police Service Commission (Appeal) Regulations
 
-(8)  Notwithstanding  the  provisions  of  this  regulation, the Commission in deciding the appeal-
+(8)  Notwithstanding the provisions of this regulation, the Commission in deciding the appeal—
 
 (a) shall not be confined to the grounds set forth by the appellant;
 
@@ -13361,19 +13781,19 @@ greater number as the Commission may require) of the record of the  disciplinary
 
 (2)  After receiving the notice of appeal in a promotion matter the respondent shall within three weeks of the service of notice of appeal or within such extended time as may be granted by the Commission forward to the Commission ten copies of all documents relevant to the decision appealed.
 
-(3)  When  the  provisions  of  subregulations  (1)  and  (2) have been complied with, the Commission shall-
+(3)  When the provisions of subregulations (1) and (2) have been complied with, the Commission shall—
 
 (a) give  to  the  appellant  notice  of  the  filing  of  the record in the form set out as Form 4 in the First Schedule together with a copy of that record; and
 
 (b) keep for the use of the Commission six copies (or such greater number as may be required) of the record and of any notice or other document received by it after the record has been filed.
 
-9. An appellant who desires to withdraw his appeal shall-
+9. An appellant who desires to withdraw his appeal shall—
 
 (a) file  with  the  Commission a notice in the form set out as Form 5 in the First Schedule; and
 
 (b) serve on the respondent a copy of the notice of withdrawal.
 
-10. (1)  A  police  officer  is  entitled  on  an  appeal  to  be represented-
+10. (1)  A police officer is entitled on an appeal to be represented—
 
 (a) by an Attorney-at-law or an officer of the Police Service selected by him; or
 
@@ -13389,9 +13809,9 @@ Form 4. First Schedule.
 
 Procedure on withdrawal of appeal.
 
-Form5. First Schedule.
+Form 5. First Schedule.
 
-Entitlement to representation by Attorney-atlaw.
+Entitlement to representation by Attorney-at-law.
 
 Production of exhibits Commission may require.
 
@@ -13413,7 +13833,7 @@ Power of Commission to dismiss appeals.
 
 Form 6. First Schedule.
 
-Nonappearance of respondent at hearing.
+Non-appearance of respondent at hearing.
 
 Form 7. First Schedule.
 
@@ -13423,7 +13843,7 @@ of Trinidad and Tobago Constitution of the Republic
 
 Police Service Commission (Appeal) Regulations
 
-(1)  Where after filing a notice of appeal, an appellant-
+12. (1)  Where after filing a notice of appeal, an appellant—
 
 (a) fails to comply further with any other requirement of these Regulations; or
 
@@ -13529,7 +13949,7 @@ And
 
 Respondent
 
-TAKE NOTICE that the Appellant being dissatisfied with the decision or part thereof of the .............................................................................. Commissioner of Police given on the ................................  day  of  .....................................,  20.........  and  more  particularly stated in paragraph 2 hereby appeals against such decision or part thereof to the Police Service Commission on the grounds set forth in paragraph 3 and will at the hearing of the appeal seek the relief set out in paragraph 4.
+TAKE NOTICE that the Appellant being dissatisfied with the decision or part thereof of the .............................................................................. Commissioner of Police given on the ................................ day of ....................................., 20......... and more particularly stated in paragraph 2 hereby appeals against such decision or part thereof to the Police Service Commission on the grounds set forth in paragraph 3 and will at the hearing of the appeal seek the relief set out in paragraph 4.
 
 2.   ..................................................................................................................................
 
@@ -13537,7 +13957,9 @@ TAKE NOTICE that the Appellant being dissatisfied with the decision or part ther
 
 ..........................................................................................................................................
 
-- State  grounds  of  appeal  and  particulars  of  the  misdirection  or  error  in  law  on which the decision was based:
+(Insert here the decision or the part thereof against which the notice of appeal is filed)
+
+3. State grounds of appeal and particulars of the misdirection or error in law on which the decision was based:
 
 (a)
 
@@ -13561,17 +13983,15 @@ TAKE NOTICE that the Appellant being dissatisfied with the decision or part ther
 
 ..........................................................................................................................................
 
+(Insert here the relief sought from the Police Service Commission)
+
 Dated this .............. day of ..................................., 20 .......
 
 .......................................................................
 
-Regulations 1 and 2.
-
-(Insert here the relief sought from the Police Service Commission)
-
 Appellant or his Legal Representative
 
-(Insert here the decision or the part thereof against which the notice of appeal is filed)
+Regulations 5(1) and (2).
 
 [[END OF PAGE 316]]
 
@@ -13579,9 +13999,17 @@ Appellant or his Legal Representative
 
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
-of Trinidad and Tobago Constitution of the Republic Chap. 1:01
+of Trinidad and Tobago Constitution of the Republic
+
+Chap. 1:01
 
 317
+
+Police Service Commission (Appeal) Regulations
+
+[Subsidiary]
+
+Regulation 5(9).
 
 ### FORM  2
 
@@ -13592,13 +14020,21 @@ Appeal No. ....................................... of 20......
 
 Between
 
-........................................................................................................................... Appellant And Police  Service  Commission  at  ...................................................................  on  ............ day of ..................................., 20 ........ at ........... a.m./p.m. and continuing thereafter as the
+........................................................................................................................... Appellant
 
-....................................................................................................................... Respondent TAKE NOTICE that the above-mentioned Appeal will come on for hearing before the Commission may direct ................................................................................................... ................................................................         .................................................................. (Address)
+And
+
+....................................................................................................................... Respondent
+
+TAKE NOTICE that the above-mentioned Appeal will come on for hearing before the Police Service Commission at ................................................................... on ............ day of ..................................., 20 ........ at ........... a.m./p.m. and continuing thereafter as the Commission may direct ...................................................................................................
+
+................................................................ ..................................................................
 
 Dated this .................. day of ....................................., 20 .......
 
 .........................................................................
+
+Police Service Commission
 
 To: ...................................................................
 
@@ -13608,13 +14044,7 @@ To: ...................................................................
 
 ...................................................................
 
-Police Service Commission (Appeal) Regulations
-
-[Subsidiary]
-
-Police Service Commission
-
-Regulation 5(9).
+(Address)
 
 L.R.O. 1/2011
 
@@ -13662,11 +14092,11 @@ Commissioner of Police given on the ............. day of ..................., 20
 
 ..........................................................................................................................................
 
+(State reason why appeal was not filed within the specified period)
+
 Dated this ...........................day of .........................................., 20 .......
 
 ..................................................................................
-
-(State reason why appeal was not filed within the specified period)
 
 (Name of Applicant)
 
@@ -13708,11 +14138,13 @@ Commissioner of Police
 
 Respondent
 
-TAKE NOTICE that the Respondent has filed the record of the Proceedings (a copy of  which  is  enclosed)  pursuant  to  Regulation  8  of  the  Police  Service  Commission (Appeal) Regulations.
+TAKE NOTICE that the Respondent has filed the record of the Proceedings (a copy of which is enclosed) pursuant to Regulation 8 of the Police Service Commission (Appeal) Regulations.
 
 Dated this .................... day of ................................., 20.......
 
 .........................................................................
+
+Police Service Commission
 
 To the Appellant
 
@@ -13721,6 +14153,8 @@ To the Appellant
 ...............................................................
 
 ...............................................................
+
+Regulation 8(3)(a).
 
 ### FORM  5
 
@@ -13748,11 +14182,7 @@ Dated this .................... day of ................................., 20 ...
 
 Appellant
 
-Police Service Commission
-
-Regulation 8(3) (a) .
-
-Regulation 9 (a) .
+Regulation 9(a).
 
 L.R.O. 1/2011
 
@@ -13779,7 +14209,7 @@ Police Service Commission (Appeal) Regulations
 
 #### NOTICE  OF  APPLICATION  FOR  RESTORATION OF  APPEAL
 
-Appeal No. ...................... of  20......
+Appeal No. ...................... of 20......
 
 Between
 
@@ -13793,7 +14223,7 @@ Commissioner of Police
 
 Respondent
 
-TAKE NOTICE that I .......................................... the  Appellant  in  the  above-named appeal  which  was  dismissed  on the .............. day of ........................., 20 ........ hereby apply for the restoration of the said appeal on the grounds that-
+TAKE NOTICE that I .......................................... the Appellant in the above-named appeal which was dismissed on the .............. day of ........................., 20 ........ hereby apply for the restoration of the said appeal on the grounds that—
 
 (a)
 
@@ -13815,13 +14245,13 @@ TAKE NOTICE that I .......................................... the  Appellant  in
 
 .........................................................................................................................
 
+(State grounds on which application is based)
+
 Dated this ................. day of ................................., 20......
 
 ..................................................................
 
 Applicant/Appellant
-
-(State grounds on which application is based)
 
 [[END OF PAGE 320]]
 
@@ -13839,7 +14269,7 @@ Police Service Commission (Appeal) Regulations
 
 #### NOTICE  OF  APPLICATION  FOR  SETTING  ASIDE DECISION  IN  APPEAL  TAKEN EX  PARTE
 
-Appeal No ...................... of  20......
+Appeal No ...................... of 20......
 
 Between
 
@@ -13853,7 +14283,7 @@ Commissioner of Police
 
 Respondent
 
-TAKE NOTICE that the Commissioner of Police the Respondent in the above-named appeal which was decided ex parte on the ........................... day of .............................., 20................... hereby applies for a setting aside of that decision on the grounds that-
+TAKE NOTICE that the Commissioner of Police the Respondent in the above-named appeal which was decided ex parte on the ........................... day of .............................., 20................... hereby applies for a setting aside of that decision on the grounds that—
 
 (a)
 
@@ -13875,13 +14305,13 @@ TAKE NOTICE that the Commissioner of Police the Respondent in the above-named ap
 
 .........................................................................................................................
 
+(State grounds on which application is based)
+
 Dated this .............. day of ................................., 20 .......
 
 ......................................................
 
 Applicant/Respondent
-
-(State grounds on which application is based)
 
 Chap. 1:01
 
@@ -13900,5 +14330,37 @@ L.R.O. 1/2011
 LAWS  OF  TRINIDAD  AND  TOBAGO
 
 of Trinidad and Tobago Constitution of the Republic
+
+Chap. 1:01
+
+322
+
+Police Service Commission (Appeal) Regulations
+
+[Subsidiary]
+
+Regulation 19.
+
+## SECOND  SCHEDULE
+
+Documents
+
+Fees
+
+$ ¢
+
+1. For a copy of judgment after trial… … … …  25.00
+
+2. For a copy of a judgment by default of appearance or defence  25.00
+
+3. For a copy of reasons for judgment of a Court per each page or part thereof … … … … …  5.00
+
+but not to exceed… … … … …  75.00
+
+4. For a photographic copy of all or any part of any document whether or not issued as an office copy—for each photographic sheet  5.00
+
+5. For a typewritten copy of any document per folio of 100 words or part thereof … … … … …  5.00
+
+6. For each folio of 100 words or part thereof of any additional carbon copy, bespoken … … … … …  5.00
 
 [[END OF PAGE 322]]
